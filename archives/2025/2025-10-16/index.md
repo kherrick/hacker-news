@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-10-16](index.md)
 
+* [2025-10-16, 08:37:13](https://news.ycombinator.com/item?id=45602884) - [Waymo is bringing autonomous, driverless ride-hailing to London in 2026](https://9to5google.com/2025/10/15/waymo-london-2026/)
 * [2025-10-16, 08:11:47](https://news.ycombinator.com/item?id=45602728) - [Homeless Man AI Prank Prompt: Risks, Ethics, and How to Use AI Responsibly](https://ray3.run/posts/homeless-man-ai-prank-prompt)
 * [2025-10-16, 08:02:52](https://news.ycombinator.com/item?id=45602676) - [Liquibase continues to advertise itself as \"open source\" despite license switch](https://github.com/liquibase/liquibase/issues/7374)
 * [2025-10-16, 06:51:49](https://news.ycombinator.com/item?id=45602179) - [Journalists turn in access badges, exit Pentagon rather than agreeing new rules](https://apnews.com/article/pentagon-press-access-hegseth-trump-restrictions-5d9c2a63e4e03b91fc1546bb09ffbf12)

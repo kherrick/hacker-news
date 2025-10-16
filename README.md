@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-10-16, 08:11:47](https://news.ycombinator.com/item?id=45602728) - [Homeless Man AI Prank Prompt: Risks, Ethics, and How to Use AI Responsibly](https://ray3.run/posts/homeless-man-ai-prank-prompt)
+* [2025-10-16, 08:37:13](https://news.ycombinator.com/item?id=45602884) - [Waymo is bringing autonomous, driverless ride-hailing to London in 2026](https://9to5google.com/2025/10/15/waymo-london-2026/)
 * [2025-10-16, 08:02:52](https://news.ycombinator.com/item?id=45602676) - [Liquibase continues to advertise itself as \"open source\" despite license switch](https://github.com/liquibase/liquibase/issues/7374)
 * [2025-10-16, 06:51:49](https://news.ycombinator.com/item?id=45602179) - [Journalists turn in access badges, exit Pentagon rather than agreeing new rules](https://apnews.com/article/pentagon-press-access-hegseth-trump-restrictions-5d9c2a63e4e03b91fc1546bb09ffbf12)
 * [2025-10-16, 06:39:09](https://news.ycombinator.com/item?id=45602124) - [Steve Jobs and Cray-1 to be featured on 2026 American Innovations $1 coin](https://www.usmint.gov/news/press-releases/united-states-mint-releases-2026-american-innovation-one-dollar-coin-program-designs)
@@ -18,6 +18,7 @@
 * [2025-10-15, 17:18:13](https://news.ycombinator.com/item?id=45595724) - [Are hard drives getting better?](https://www.backblaze.com/blog/are-hard-drives-getting-better-lets-revisit-the-bathtub-curve/)
 * [2025-10-15, 16:55:06](https://news.ycombinator.com/item?id=45595403) - [Claude Haiku 4.5](https://www.anthropic.com/news/claude-haiku-4-5)
 * [2025-10-15, 16:24:29](https://news.ycombinator.com/item?id=45594920) - [Zed is now available on Windows](https://zed.dev/blog/zed-for-windows-is-here)
+* [2025-10-15, 13:41:44](https://news.ycombinator.com/item?id=45592401) - [Pwning the Nix ecosystem](https://ptrpa.ws/nixpkgs-actions-abuse)
 * [2025-10-15, 13:33:27](https://news.ycombinator.com/item?id=45592271) - [F5 says hackers stole undisclosed BIG-IP flaws, source code](https://www.bleepingcomputer.com/news/security/f5-says-hackers-stole-undisclosed-big-ip-flaws-source-code/)
 * [2025-10-15, 13:02:53](https://news.ycombinator.com/item?id=45591799) - [Apple M5 chip](https://www.apple.com/newsroom/2025/10/apple-unleashes-m5-the-next-big-leap-in-ai-performance-for-apple-silicon/)
 * [2025-10-15, 11:45:47](https://news.ycombinator.com/item?id=45590949) - [Show HN: Halloy – Modern IRC client](https://github.com/squidowl/halloy)
@@ -25,7 +26,6 @@
 * [2025-10-13, 04:51:11](https://news.ycombinator.com/item?id=45564773) - [Pica Numbers](https://home.octetfont.com/blog/pica-number.html)
 * [2025-10-12, 12:04:05](https://news.ycombinator.com/item?id=45557591) - [Silver Snoopy Award](https://www.nasa.gov/space-flight-awareness/silver-snoopy-award/)
 * [2025-10-12, 10:59:15](https://news.ycombinator.com/item?id=45557217) - [Looking at kmalloc() and the SLUB Memory Allocator (2019)](https://ruffell.nz/programming/writeups/2019/02/15/looking-at-kmalloc-and-the-slub-memory-allocator.html)
-* [2025-10-12, 07:41:35](https://news.ycombinator.com/item?id=45556142) - [Functions Are Asymmetric](https://www.elbeno.com/blog/?p=1804)
 * [2025-10-11, 04:31:15](https://news.ycombinator.com/item?id=45546575) - [What is going on with all this radioactive shrimp?](https://www.consumerreports.org/health/food-safety/radioactive-shrimp-explained-a5493175857/)
 * [2025-10-10, 19:03:20](https://news.ycombinator.com/item?id=45542536) - [Build a Superscalar 8-Bit CPU (YouTube Playlist) [video]](https://www.youtube.com/watch?v=bwjMLyBU4RU&list=PLyR4neQXqQo5nPdEiMbaEJxWiy_UuyNN4&index=1)
 * [2025-10-10, 14:07:46](https://news.ycombinator.com/item?id=45539262) - [Flies keep landing on North Sea oil rigs](https://theconversation.com/thousands-of-flies-keep-landing-on-north-sea-oil-rigs-then-taking-off-a-few-hours-later-heres-why-265622)
