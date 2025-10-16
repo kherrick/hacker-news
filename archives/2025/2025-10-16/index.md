@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-10-16](index.md)
 
+* [2025-10-16, 19:53:10](https://news.ycombinator.com/item?id=45609942) - [Show HN: We priced basic needs in work hours (global ranking and CSVs)](https://www.thepricer.org/hours-to-afford-essentials-best-and-worst-countries/)
 * [2025-10-16, 19:51:47](https://news.ycombinator.com/item?id=45609922) - [Benjie's Humanoid Olympic Games](https://generalrobots.substack.com/p/benjies-humanoid-olympic-games)
 * [2025-10-16, 19:24:11](https://news.ycombinator.com/item?id=45609621) - [Ask HN: What in the world is going on at Supabase?](https://news.ycombinator.com/item?id=45609621)
 * [2025-10-16, 18:22:08](https://news.ycombinator.com/item?id=45608887) - [A Conspiracy to Kill IE6 (2019)](https://blog.chriszacharias.com/a-conspiracy-to-kill-ie6)

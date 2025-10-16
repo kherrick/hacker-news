@@ -52,6 +52,7 @@
 * [2025-10-09, 13:54:38](https://news.ycombinator.com/item?id=45527754) - [Colombia's president says boat struck by US was carrying Colombians](https://www.bbc.com/news/articles/c89dz920p0do)
 * [2025-10-09, 13:36:01](https://news.ycombinator.com/item?id=45527507) - [Using a Laptop as an HDMI Monitor for an SBC](https://danielmangum.com/posts/laptop-hdmi-monitor-sbc/)
 * [2025-10-09, 13:27:14](https://news.ycombinator.com/item?id=45527402) - [Introducing Figure 03](https://www.figure.ai/news/introducing-figure-03)
+* [2025-10-09, 13:08:26](https://news.ycombinator.com/item?id=45527191) - [Generalized Orders of Magnitude](https://arxiv.org/abs/2510.03426)
 * [2025-10-09, 13:05:54](https://news.ycombinator.com/item?id=45527156) - [The C++ programmer and educator Rainer Grimm has passed away](https://www.modernescpp.com/index.php/my-als-journey-31-31-the-end/)
 * [2025-10-09, 12:54:18](https://news.ycombinator.com/item?id=45527003) - [Nobel Prize in Literature 2025: László Krasznahorkai](https://www.nobelprize.org/prizes/literature/2025/press-release/)
 * [2025-10-09, 12:48:51](https://news.ycombinator.com/item?id=45526931) - [2025 Q3 Sardines](https://draftcorgi.substack.com/p/2025-q3-recommendations)
