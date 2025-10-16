@@ -21,6 +21,16 @@
   ],
   [
     [
+      "2025-10-16, 06:12:51",
+      "https://news.ycombinator.com/item?id=45601982"
+    ],
+    [
+      "Upcoming Rust language features for kernel development",
+      "https://lwn.net/Articles/1039073/"
+    ]
+  ],
+  [
+    [
       "2025-10-16, 05:46:50",
       "https://news.ycombinator.com/item?id=45601834"
     ],
@@ -57,16 +67,6 @@
     [
       "Free applicatives, the handle pattern, and remote systems",
       "https://exploring-better-ways.bellroy.com/free-applicatives-the-handle-pattern-and-remote-systems.html"
-    ]
-  ],
-  [
-    [
-      "2025-10-16, 01:42:22",
-      "https://news.ycombinator.com/item?id=45600581"
-    ],
-    [
-      "New Alzheimer's Treatment Clears Plaques from Brains of Mice Within Hours",
-      "https://www.sciencealert.com/new-alzheimers-treatment-clears-plaques-from-brains-of-mice-within-hours"
     ]
   ],
   [
@@ -181,16 +181,6 @@
   ],
   [
     [
-      "2025-10-15, 13:52:15",
-      "https://news.ycombinator.com/item?id=45592585"
-    ],
-    [
-      "A kernel stack use-after-free: Exploiting Nvidia's GPU Linux drivers",
-      "https://blog.quarkslab.com/./nvidia_gpu_kernel_vmalloc_exploit.html"
-    ]
-  ],
-  [
-    [
       "2025-10-15, 13:41:44",
       "https://news.ycombinator.com/item?id=45592401"
     ],
@@ -297,6 +287,16 @@
     [
       "Flies keep landing on North Sea oil rigs",
       "https://theconversation.com/thousands-of-flies-keep-landing-on-north-sea-oil-rigs-then-taking-off-a-few-hours-later-heres-why-265622"
+    ]
+  ],
+  [
+    [
+      "2025-10-10, 13:53:38",
+      "https://news.ycombinator.com/item?id=45539079"
+    ],
+    [
+      "JustSketchMe – Digital Posing Tool",
+      "https://justsketch.me"
     ]
   ]
 ]
