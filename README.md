@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-10-16, 16:05:47](https://news.ycombinator.com/item?id=45607117) - [Claude Skills](https://www.anthropic.com/news/skills)
 * [2025-10-16, 15:29:45](https://news.ycombinator.com/item?id=45606611) - [Ld_preload, the Invisible Key Theft](https://bomfather.dev/blog/ld-preload-the-invisible-key-theft/)
 * [2025-10-16, 15:29:06](https://news.ycombinator.com/item?id=45606602) - [Why more SaaS companies are hiring chief trust officers](https://www.itbrew.com/stories/2025/10/14/why-more-saas-companies-are-hiring-chief-trust-officers)
 * [2025-10-16, 15:12:19](https://news.ycombinator.com/item?id=45606394) - [Video game union workers rally against $55B private acquisition of EA](https://www.eurogamer.net/ea-union-workers-rally-against-55bn-saudi-backed-private-acquisition-with-formal-petition-to-regulators)
@@ -8,7 +9,7 @@
 * [2025-10-16, 13:48:33](https://news.ycombinator.com/item?id=45605291) - [Why I Chose Elixir Phoenix over Rails, Laravel, and Next.js](https://akarshc.com/post/phoenix-for-my-project.html)
 * [2025-10-16, 13:33:45](https://news.ycombinator.com/item?id=45605153) - [Lace: A New Kind of Cellular Automata Where Links Matter](https://www.novaspivack.com/science/introducing-lace-a-new-kind-of-cellular-automata)
 * [2025-10-16, 12:59:08](https://news.ycombinator.com/item?id=45604779) - [Electricity can heal wounds three times as fast (2023)](https://www.chalmers.se/en/current/news/mc2-how-electricity-can-heal-wounds-three-times-as-fast/)
-* [2025-10-16, 12:50:08](https://news.ycombinator.com/item?id=45604700) - [Launch HN: Inkeep (YC W23) – Open Source Agent Builder](https://github.com/inkeep/agents)
+* [2025-10-16, 12:50:08](https://news.ycombinator.com/item?id=45604700) - [Launch HN: Inkeep (YC W23) – Source-Available Agent Builder](https://github.com/inkeep/agents)
 * [2025-10-16, 12:46:28](https://news.ycombinator.com/item?id=45604673) - [Hyperflask – Full stack Flask and Htmx framework](https://hyperflask.dev/)
 * [2025-10-16, 12:21:36](https://news.ycombinator.com/item?id=45604451) - [A stateful browser agent using self-healing DOM maps](https://100x.bot/a/a-stateful-browser-agent-using-self-healing-dom-maps)
 * [2025-10-16, 12:00:45](https://news.ycombinator.com/item?id=45604308) - [Jiga (YC W21) Is Hiring Full Stacks](https://www.workatastartup.com/jobs/44310)
@@ -26,7 +27,6 @@
 * [2025-10-12, 07:12:26](https://news.ycombinator.com/item?id=45555989) - [Sharp Bilinear Filters: Big Clean Pixels for Pixel Art](https://bumbershootsoft.wordpress.com/2025/10/11/sharp-bilinear-filters-big-clean-pixels-for-pixel-art/)
 * [2025-10-12, 00:23:35](https://news.ycombinator.com/item?id=45554004) - [VOC injection into a house reveals large surface reservoir sizes](https://www.pnas.org/doi/10.1073/pnas.2503399122)
 * [2025-10-10, 23:36:04](https://news.ycombinator.com/item?id=45545017) - [The people rescuing forgotten knowledge trapped on old floppy disks](https://www.bbc.com/future/article/20251009-rescuing-knowledge-trapped-on-old-floppy-disks)
-* [2025-10-10, 19:03:20](https://news.ycombinator.com/item?id=45542536) - [Build a Superscalar 8-Bit CPU (YouTube Playlist) [video]](https://www.youtube.com/watch?v=bwjMLyBU4RU&list=PLyR4neQXqQo5nPdEiMbaEJxWiy_UuyNN4&index=1)
 * [2025-10-10, 14:07:46](https://news.ycombinator.com/item?id=45539262) - [Flies keep landing on North Sea oil rigs](https://theconversation.com/thousands-of-flies-keep-landing-on-north-sea-oil-rigs-then-taking-off-a-few-hours-later-heres-why-265622)
 * [2025-10-10, 13:53:38](https://news.ycombinator.com/item?id=45539079) - [JustSketchMe – Digital Posing Tool](https://justsketch.me)
 * [2025-10-09, 14:50:24](https://news.ycombinator.com/item?id=45528508) - [LINQ and Learning to Be Declarative](https://www.nickstambaugh.dev/posts/LINQ-and-being-declarative)

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-10-16](index.md)
 
+* [2025-10-16, 16:05:47](https://news.ycombinator.com/item?id=45607117) - [Claude Skills](https://www.anthropic.com/news/skills)
 * [2025-10-16, 15:29:45](https://news.ycombinator.com/item?id=45606611) - [Ld_preload, the Invisible Key Theft](https://bomfather.dev/blog/ld-preload-the-invisible-key-theft/)
 * [2025-10-16, 15:29:06](https://news.ycombinator.com/item?id=45606602) - [Why more SaaS companies are hiring chief trust officers](https://www.itbrew.com/stories/2025/10/14/why-more-saas-companies-are-hiring-chief-trust-officers)
 * [2025-10-16, 15:12:19](https://news.ycombinator.com/item?id=45606394) - [Video game union workers rally against $55B private acquisition of EA](https://www.eurogamer.net/ea-union-workers-rally-against-55bn-saudi-backed-private-acquisition-with-formal-petition-to-regulators)
