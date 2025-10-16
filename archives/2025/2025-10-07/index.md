@@ -9,6 +9,7 @@
 * [2025-10-07, 22:18:14](https://news.ycombinator.com/item?id=45509636) - [Building a JavaScript Runtime from Scratch using C](https://devlogs.xyz/blog/building-a-javaScript-runtime)
 * [2025-10-07, 22:00:59](https://news.ycombinator.com/item?id=45509464) - [Disney Is Officially Shutting Down Hulu After 20 Years](https://wibc.com/749914/disney-is-officially-shutting-down-hulu-after-20-years/)
 * [2025-10-07, 22:00:20](https://news.ycombinator.com/item?id=45509454) - [Investing in America 2025](https://blog.google/inside-google/company-announcements/investing-in-america-2025/)
+* [2025-10-07, 21:44:18](https://news.ycombinator.com/item?id=45509301) - [Closer to production quality Python notebooks with `marimo check`](https://marimo.io/blog/marimo-check)
 * [2025-10-07, 21:39:07](https://news.ycombinator.com/item?id=45509243) - [Become Unbannable from Your Email](https://karboosx.net/post/PJOveGVa/become-unbannable-from-your-emailgmail)
 * [2025-10-07, 21:29:03](https://news.ycombinator.com/item?id=45509123) - [How to Figure Out What You're Not Good At](https://blog.martin-haehnel.de/2025/10/07/how-to-figure-out-what-you-re-not-good-at/)
 * [2025-10-07, 21:12:37](https://news.ycombinator.com/item?id=45508944) - [No more loud commercials: Governor Newsom signs SB 576](https://www.gov.ca.gov/2025/10/06/no-more-loud-commercials-governor-newsom-signs-sb-576/)
