@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-10-16, 23:30:36](https://news.ycombinator.com/item?id=45611912) - [Nvidia DGX Spark and Apple Mac Studio = 4x Faster LLM Inference with EXO 1.0](https://blog.exolabs.net/nvidia-dgx-spark/)
 * [2025-10-16, 23:20:16](https://news.ycombinator.com/item?id=45611851) - [Lead Limited Brain and Language Development in Neanderthals and Other Hominids?](https://today.ucsd.edu/story/did-lead-limit-brain-and-language-development-in-neanderthals-and-other-extinct-hominids)
+* [2025-10-16, 23:05:04](https://news.ycombinator.com/item?id=45611735) - [America's Semiconductor Boom is Real [video]](https://www.youtube.com/watch?v=T-jt3qBzJ4A)
 * [2025-10-16, 21:36:43](https://news.ycombinator.com/item?id=45610996) - [Understanding Spec-Driven-Development: Kiro, Spec-Kit, and Tessl](https://martinfowler.com/articles/exploring-gen-ai/sdd-3-tools.html)
 * [2025-10-16, 21:02:11](https://news.ycombinator.com/item?id=45610620) - [Hacker News – The Good Parts](https://smartmic.bearblog.dev/why-hacker-news/)
 * [2025-10-16, 20:51:27](https://news.ycombinator.com/item?id=45610523) - [Cloudflare Sandbox SDK](https://sandbox.cloudflare.com/)
@@ -9,7 +9,6 @@
 * [2025-10-16, 19:51:47](https://news.ycombinator.com/item?id=45609922) - [Benjie's Humanoid Olympic Games](https://generalrobots.substack.com/p/benjies-humanoid-olympic-games)
 * [2025-10-16, 18:22:08](https://news.ycombinator.com/item?id=45608887) - [A conspiracy to kill IE6 (2019)](https://blog.chriszacharias.com/a-conspiracy-to-kill-ie6)
 * [2025-10-16, 17:47:19](https://news.ycombinator.com/item?id=45608456) - [Talent](https://www.felixstocker.com/blog/talent)
-* [2025-10-16, 16:59:30](https://news.ycombinator.com/item?id=45607822) - [SWE-Grep and SWE-Grep-Mini: RL for Fast Multi-Turn Context Retrieval](https://cognition.ai/blog/swe-grep)
 * [2025-10-16, 16:54:26](https://news.ycombinator.com/item?id=45607758) - [Gemini 3.0 spotted in the wild through A/B testing](https://ricklamers.io/posts/gemini-3-spotted-in-the-wild/)
 * [2025-10-16, 16:05:47](https://news.ycombinator.com/item?id=45607117) - [Claude Skills](https://www.anthropic.com/news/skills)
 * [2025-10-16, 15:36:39](https://news.ycombinator.com/item?id=45606698) - [Codex Is Live in Zed](https://zed.dev/blog/codex-is-live-in-zed)
@@ -28,6 +27,7 @@
 * [2025-10-11, 10:02:03](https://news.ycombinator.com/item?id=45547891) - [Eon – An Effects-Based OCaml Nameserver](https://ryan.freumh.org/eon.html)
 * [2025-10-11, 00:11:59](https://news.ycombinator.com/item?id=45545220) - [How to tame a user interface using a spreadsheet](https://blog.gingerbeardman.com/2025/10/11/how-to-tame-a-user-interface-using-a-spreadsheet/)
 * [2025-10-10, 20:41:36](https://news.ycombinator.com/item?id=45543546) - [Microwave technique allows energy-efficient chemical reactions](https://phys.org/news/2025-10-microwave-technique-energy-efficient-chemical.html)
+* [2025-10-10, 13:45:48](https://news.ycombinator.com/item?id=45538982) - [Accidentally Made a Zig Dotenv Parser](https://dayvster.com/blog/accidentally-made-a-zig-dotenv-parser/)
 * [2025-10-09, 15:40:19](https://news.ycombinator.com/item?id=45529255) - [Post office in France rolls out croissant-scented stamp](https://www.ctvnews.ca/world/article/french-post-office-rolls-out-croissant-scented-stamp/)
 * [2025-10-09, 13:08:26](https://news.ycombinator.com/item?id=45527191) - [Generalized Orders of Magnitude](https://arxiv.org/abs/2510.03426)
 
