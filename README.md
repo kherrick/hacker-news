@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-10-17, 21:57:44](https://news.ycombinator.com/item?id=45622604) - [WebMCP](https://github.com/jasonjmcghee/WebMCP)
 * [2025-10-17, 21:30:12](https://news.ycombinator.com/item?id=45622321) - [Marc Benioff: I no longer believe National Guard is needed for SF](https://www.cnbc.com/2025/10/17/benioff-trump-national-guard-sf.html)
-* [2025-10-17, 21:13:48](https://news.ycombinator.com/item?id=45622157) - [US car repossessions surge as more Americans default on auto loans](https://www.theguardian.com/business/2025/oct/17/us-car-repossessions-economy)
 * [2025-10-17, 19:37:16](https://news.ycombinator.com/item?id=45621074) - [The pivot](https://www.antipope.org/charlie/blog-static/2025/10/the-pivot-1.html)
 * [2025-10-17, 19:03:21](https://news.ycombinator.com/item?id=45620653) - [Asking AI to build scrapers should be easy right?](https://www.skyvern.com/blog/asking-ai-to-build-scrapers-should-be-easy-right/)
 * [2025-10-17, 18:44:13](https://news.ycombinator.com/item?id=45620394) - [GOG Has Had to Hire Private Investigators to Track Down IP Rights Holders](https://www.thegamer.com/gog-private-investigators-off-the-grid-ip-rights-holders/)
@@ -28,7 +28,7 @@
 * [2025-10-12, 15:55:50](https://news.ycombinator.com/item?id=45559145) - [Cartridge Chaos: The Official Nintendo Region Converter and More](https://nicole.express/2025/not-just-for-robert.html)
 * [2025-10-12, 07:35:18](https://news.ycombinator.com/item?id=45556104) - [The Wi-Fi Revolution (2003)](https://www.wired.com/2003/05/wifirevolution/)
 * [2025-10-11, 20:21:11](https://news.ycombinator.com/item?id=45552358) - [MIT physicists improve the precision of atomic clocks](https://news.mit.edu/2025/mit-physicists-improve-atomic-clocks-precision-1008)
-* [2025-10-10, 15:57:14](https://news.ycombinator.com/item?id=45540398) - [Let's write a macro in Rust](https://hackeryarn.com/post/rust-macros-1/)
+* [2025-10-10, 18:35:04](https://news.ycombinator.com/item?id=45542245) - [Trap the Critters with Paint](https://deepanwadhwa.github.io/freeze_trap/)
 * [2025-10-09, 15:12:26](https://news.ycombinator.com/item?id=45528813) - [Resizeable Bar Support on the Raspberry Pi](https://www.jeffgeerling.com/blog/2025/resizeable-bar-support-on-raspberry-pi)
 
 ## [Archives](archives/index.md)
