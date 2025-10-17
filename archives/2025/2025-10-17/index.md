@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-10-17](index.md)
 
+* [2025-10-17, 09:15:25](https://news.ycombinator.com/item?id=45614713) - [Ring to partner with Flock, a network of cameras used by ICE, feds, and police](https://techcrunch.com/2025/10/16/amazons-ring-to-partner-with-flock-a-network-of-ai-cameras-used-by-ice-feds-and-police/)
+* [2025-10-17, 08:48:19](https://news.ycombinator.com/item?id=45614547) - [Frank founder Charlie Javice sentenced for JPMorgan fraud](https://www.bbc.com/news/articles/c4gwj15djdxo)
 * [2025-10-17, 07:31:58](https://news.ycombinator.com/item?id=45614148) - [4Chan Lawyer publishes Ofcom correspondence. Irony is overwhelming](https://alecmuffett.com/article/117792)
 * [2025-10-17, 06:15:22](https://news.ycombinator.com/item?id=45613781) - [Wabi – Personal Software Platform](https://wabi.ai/)
 * [2025-10-17, 05:51:43](https://news.ycombinator.com/item?id=45613667) - [Flight Simulator for the Brain Reveals How We Learn and Why Minds Go Off Course](https://now.tufts.edu/2025/10/16/flight-simulator-brain-reveals-how-we-learn-and-why-minds-sometimes-go-course)
