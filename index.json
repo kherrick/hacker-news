@@ -95,8 +95,28 @@
       "https://news.ycombinator.com/item?id=45615449"
     ],
     [
-      "Email Bombs Exploit Lax Authentication in Zendesk",
+      "Email bombs exploit lax authentication in Zendesk",
       "https://krebsonsecurity.com/2025/10/email-bombs-exploit-lax-authentication-in-zendesk/"
+    ]
+  ],
+  [
+    [
+      "2025-10-17, 10:56:40",
+      "https://news.ycombinator.com/item?id=45615237"
+    ],
+    [
+      "EVs are depreciating faster than gas-powered cars",
+      "https://restofworld.org/2025/ev-depreciation-blusmart-collapse/"
+    ]
+  ],
+  [
+    [
+      "2025-10-17, 10:50:55",
+      "https://news.ycombinator.com/item?id=45615193"
+    ],
+    [
+      "Ask HN: How does one build large front end apps without a framework like React?",
+      "https://news.ycombinator.com/item?id=45615193"
     ]
   ],
   [
@@ -115,8 +135,18 @@
       "https://news.ycombinator.com/item?id=45614713"
     ],
     [
-      "Ring to partner with Flock, a network of cameras used by ICE, feds, and police",
+      "Amazon’s Ring to partner with Flock",
       "https://techcrunch.com/2025/10/16/amazons-ring-to-partner-with-flock-a-network-of-ai-cameras-used-by-ice-feds-and-police/"
+    ]
+  ],
+  [
+    [
+      "2025-10-17, 07:31:58",
+      "https://news.ycombinator.com/item?id=45614148"
+    ],
+    [
+      "4Chan Lawyer publishes Ofcom correspondence",
+      "https://alecmuffett.com/article/117792"
     ]
   ],
   [
@@ -127,6 +157,16 @@
     [
       "New computer model helps reveal how the brain both adapts and misfires",
       "https://now.tufts.edu/2025/10/16/flight-simulator-brain-reveals-how-we-learn-and-why-minds-sometimes-go-course"
+    ]
+  ],
+  [
+    [
+      "2025-10-17, 05:28:24",
+      "https://news.ycombinator.com/item?id=45613567"
+    ],
+    [
+      "Ask HN: How to stop an AWS bot sending 2B requests/month?",
+      "https://news.ycombinator.com/item?id=45613567"
     ]
   ],
   [
@@ -147,16 +187,6 @@
     [
       "Next steps for BPF support in the GNU toolchain",
       "https://lwn.net/Articles/1039827/"
-    ]
-  ],
-  [
-    [
-      "2025-10-16, 20:51:27",
-      "https://news.ycombinator.com/item?id=45610523"
-    ],
-    [
-      "Cloudflare Sandbox SDK",
-      "https://sandbox.cloudflare.com/"
     ]
   ],
   [
@@ -211,16 +241,6 @@
   ],
   [
     [
-      "2025-10-16, 07:31:25",
-      "https://news.ycombinator.com/item?id=45602428"
-    ],
-    [
-      "Elixir 1.19",
-      "https://elixir-lang.org/blog/2025/10/16/elixir-v1-19-0-released/"
-    ]
-  ],
-  [
-    [
       "2025-10-14, 19:27:29",
       "https://news.ycombinator.com/item?id=45583786"
     ],
@@ -231,22 +251,12 @@
   ],
   [
     [
-      "2025-10-12, 15:44:15",
-      "https://news.ycombinator.com/item?id=45559040"
+      "2025-10-11, 17:28:48",
+      "https://news.ycombinator.com/item?id=45550969"
     ],
     [
-      "A liver transplant from start to finish",
-      "https://press.asimov.com/articles/liver"
-    ]
-  ],
-  [
-    [
-      "2025-10-12, 06:13:32",
-      "https://news.ycombinator.com/item?id=45555709"
-    ],
-    [
-      "A 4k-Room Text Adventure Written by One Human in QBasic No AI",
-      "https://the-ventureweaver.itch.io/tlote4111"
+      "Read your way through Hà Nội",
+      "https://vietnamesetypography.com/samples/read-your-way-through-ha-noi/"
     ]
   ],
   [
@@ -275,18 +285,8 @@
       "https://news.ycombinator.com/item?id=45540398"
     ],
     [
-      "Let's Write a Macro in Rust",
+      "Let's write a macro in Rust",
       "https://hackeryarn.com/post/rust-macros-1/"
-    ]
-  ],
-  [
-    [
-      "2025-10-10, 11:34:30",
-      "https://news.ycombinator.com/item?id=45537698"
-    ],
-    [
-      "Virtual Memory for Real-time RISC-V systems using hPMP",
-      "https://arxiv.org/abs/2504.04498"
     ]
   ],
   [
