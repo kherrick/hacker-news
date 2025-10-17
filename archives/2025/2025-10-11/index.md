@@ -19,6 +19,7 @@
 * [2025-10-11, 20:51:03](https://news.ycombinator.com/item?id=45552578) - [Japan's summers have lengthened by 3 weeks over 42 years, say resaerchers](https://english.kyodonews.net/articles/-/62626)
 * [2025-10-11, 20:50:45](https://news.ycombinator.com/item?id=45552573) - [Diane Keaton, a Star of 'Annie Hall' and 'First Wives Club,' Dies at 79](https://www.nytimes.com/2025/10/11/movies/diane-keaton-dead.html)
 * [2025-10-11, 20:49:49](https://news.ycombinator.com/item?id=45552565) - [How much revenue is needed to justify the current AI spend?](https://pracap.com/an-ai-addendum/)
+* [2025-10-11, 20:21:11](https://news.ycombinator.com/item?id=45552358) - [MIT physicists improve the precision of atomic clocks](https://news.mit.edu/2025/mit-physicists-improve-atomic-clocks-precision-1008)
 * [2025-10-11, 19:59:14](https://news.ycombinator.com/item?id=45552199) - [Indonesia says 22 plants in industrial zone contaminated by caesium 137](https://www.reuters.com/sustainability/boards-policy-regulation/indonesia-says-22-plants-industrial-zone-near-jakarta-contaminated-by-caesium-2025-10-08/)
 * [2025-10-11, 19:41:27](https://news.ycombinator.com/item?id=45552049) - [A Guide for WireGuard VPN Setup with Pi-Hole Adblock and Unbound DNS](https://psyonik.tech/posts/a-guide-for-wireguard-vpn-setup-with-pi-hole-adblock-and-unbound-dns/)
 * [2025-10-11, 19:33:27](https://news.ycombinator.com/item?id=45551995) - [Is Odin Just a More Boring C?](https://dayvster.com/blog/is-odin-just-a-more-boring-c/)
