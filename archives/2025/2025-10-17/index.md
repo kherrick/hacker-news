@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-10-17](index.md)
 
 * [2025-10-17, 17:41:02](https://news.ycombinator.com/item?id=45619544) - [OpenAI Needs $400B In The Next 12 Months](https://www.wheresyoured.at/openai400bn/)
+* [2025-10-17, 17:40:21](https://news.ycombinator.com/item?id=45619537) - [Claude Skills are awesome, maybe a bigger deal than MCP](https://simonwillison.net/2025/Oct/16/claude-skills/)
 * [2025-10-17, 17:24:18](https://news.ycombinator.com/item?id=45619329) - [Andrej Karpathy – AGI is still a decade away](https://www.dwarkesh.com/p/andrej-karpathy)
 * [2025-10-17, 16:40:02](https://news.ycombinator.com/item?id=45618790) - [The Rapper 50 Cent, Adjusted for Inflation](https://50centadjustedforinflation.com/)
 * [2025-10-17, 16:09:02](https://news.ycombinator.com/item?id=45618350) - [AI has a cargo cult problem](https://www.ft.com/content/f2025ac7-a71f-464f-a3a6-1e39c98612c7)
@@ -17,6 +18,7 @@
 * [2025-10-17, 14:19:22](https://news.ycombinator.com/item?id=45617088) - [You did no fact checking, and I must scream](https://shkspr.mobi/blog/2025/10/i-have-no-facts-and-i-must-scream/)
 * [2025-10-17, 14:04:24](https://news.ycombinator.com/item?id=45616949) - [Zorin OS 18](https://blog.zorin.com/2025/10/14/zorin-os-18-has-arrived/)
 * [2025-10-17, 14:04:13](https://news.ycombinator.com/item?id=45616944) - [Metropolis 1998 lets you design every building in an isometric, pixel-art city (2024)](https://arstechnica.com/gaming/2024/08/metropolis-1998-lets-you-design-every-building-in-an-isometric-pixel-art-city/)
+* [2025-10-17, 12:41:13](https://news.ycombinator.com/item?id=45616074) - [I built an F5 QKview scanner for CISA ED 26-01](https://www.usenabla.com/blog/emergency-scanning-cisa-endpoint)
 * [2025-10-17, 12:23:01](https://news.ycombinator.com/item?id=45615931) - [Live Stream from the Namib Desert](https://bookofjoe2.blogspot.com/2025/10/live-stream-from-namib-desert.html)
 * [2025-10-17, 12:15:53](https://news.ycombinator.com/item?id=45615863) - [Ruby Core Takes Ownership of Rubygems and Bundler](https://www.ruby-lang.org/en/news/2025/10/17/rubygems-repository-transition/)
 * [2025-10-17, 11:32:16](https://news.ycombinator.com/item?id=45615481) - [A classified network of SpaceX satellites is emitting a mysterious signal](https://www.npr.org/2025/10/17/nx-s1-5575254/spacex-starshield-starlink-signal)
