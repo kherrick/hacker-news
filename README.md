@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-10-17, 16:40:02](https://news.ycombinator.com/item?id=45618790) - [The Rapper 50 Cent, Adjusted for Inflation](https://50centadjustedforinflation.com/)
 * [2025-10-17, 16:09:02](https://news.ycombinator.com/item?id=45618350) - [AI has a cargo cult problem](https://www.ft.com/content/f2025ac7-a71f-464f-a3a6-1e39c98612c7)
 * [2025-10-17, 15:36:48](https://news.ycombinator.com/item?id=45617986) - [Dead or Alive creator Tomonobu Itagaki, 58 passes away](https://www.gamedeveloper.com/design/dead-or-alive-creator-tomonobu-itagaki-has-passed-away-at-58)
 * [2025-10-17, 15:22:29](https://news.ycombinator.com/item?id=45617819) - [Scientists discover intercellular nanotubular communication system in brain](https://www.science.org/doi/10.1126/science.adr7403)
@@ -21,7 +22,6 @@
 * [2025-10-17, 03:27:24](https://news.ycombinator.com/item?id=45613047) - [Meow.camera](https://meow.camera/)
 * [2025-10-17, 03:13:00](https://news.ycombinator.com/item?id=45612987) - [Next steps for BPF support in the GNU toolchain](https://lwn.net/Articles/1039827/)
 * [2025-10-16, 20:22:48](https://news.ycombinator.com/item?id=45610226) - [How I bypassed Amazon's Kindle web DRM](https://blog.pixelmelt.dev/kindle-web-drm/)
-* [2025-10-16, 16:05:47](https://news.ycombinator.com/item?id=45607117) - [Claude Skills](https://www.anthropic.com/news/skills)
 * [2025-10-16, 14:04:18](https://news.ycombinator.com/item?id=45605501) - [DoorDash and Waymo launch autonomous delivery service in Phoenix](https://about.doordash.com/en-us/news/waymo)
 * [2025-10-14, 19:27:29](https://news.ycombinator.com/item?id=45583786) - [Your data model is your destiny](https://notes.mtb.xyz/p/your-data-model-is-your-destiny)
 * [2025-10-12, 15:55:50](https://news.ycombinator.com/item?id=45559145) - [Cartridge Chaos: The Official Nintendo Region Converter and More](https://nicole.express/2025/not-just-for-robert.html)

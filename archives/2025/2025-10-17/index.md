@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-10-17](index.md)
 
+* [2025-10-17, 16:40:02](https://news.ycombinator.com/item?id=45618790) - [The Rapper 50 Cent, Adjusted for Inflation](https://50centadjustedforinflation.com/)
 * [2025-10-17, 16:09:02](https://news.ycombinator.com/item?id=45618350) - [AI has a cargo cult problem](https://www.ft.com/content/f2025ac7-a71f-464f-a3a6-1e39c98612c7)
 * [2025-10-17, 15:44:10](https://news.ycombinator.com/item?id=45618053) - [I Test Drove a Flying Car. Get Ready, They're Here](https://www.wsj.com/lifestyle/cars/i-test-drove-a-flying-car-get-ready-theyre-here-257b0ecf)
 * [2025-10-17, 15:36:48](https://news.ycombinator.com/item?id=45617986) - [Dead or Alive creator Tomonobu Itagaki, 58 passes away](https://www.gamedeveloper.com/design/dead-or-alive-creator-tomonobu-itagaki-has-passed-away-at-58)
