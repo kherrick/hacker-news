@@ -211,22 +211,22 @@
   ],
   [
     [
-      "2025-10-17, 03:13:00",
-      "https://news.ycombinator.com/item?id=45612987"
-    ],
-    [
-      "Next steps for BPF support in the GNU toolchain",
-      "https://lwn.net/Articles/1039827/"
-    ]
-  ],
-  [
-    [
       "2025-10-16, 20:22:48",
       "https://news.ycombinator.com/item?id=45610226"
     ],
     [
       "How I bypassed Amazon's Kindle web DRM",
       "https://blog.pixelmelt.dev/kindle-web-drm/"
+    ]
+  ],
+  [
+    [
+      "2025-10-15, 14:40:42",
+      "https://news.ycombinator.com/item?id=45593358"
+    ],
+    [
+      "Exploring PostgreSQL 18's new UUIDv7 support",
+      "https://aiven.io/blog/exploring-postgresql-18-new-uuidv7-support"
     ]
   ],
   [
