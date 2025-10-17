@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-10-17, 21:30:12",
+      "https://news.ycombinator.com/item?id=45622321"
+    ],
+    [
+      "Marc Benioff: I no longer believe National Guard is needed for SF",
+      "https://www.cnbc.com/2025/10/17/benioff-trump-national-guard-sf.html"
+    ]
+  ],
+  [
+    [
       "2025-10-17, 21:13:48",
       "https://news.ycombinator.com/item?id=45622157"
     ],
@@ -17,16 +27,6 @@
     [
       "Republicans use deepfake video of Chuck Schumer in new attack ad",
       "https://www.theguardian.com/us-news/2025/oct/17/republican-ad-deepfake-video-chuck-schumer"
-    ]
-  ],
-  [
-    [
-      "2025-10-17, 19:51:20",
-      "https://news.ycombinator.com/item?id=45621246"
-    ],
-    [
-      "Making Every Windows 11 PC an AI PC",
-      "https://blogs.windows.com/windowsexperience/2025/10/16/making-every-windows-11-pc-an-ai-pc/"
     ]
   ],
   [
@@ -97,16 +97,6 @@
     [
       "Show HN: We packaged an MCP server inside Chromium",
       "https://github.com/browseros-ai/BrowserOS/blob/main/docs/browseros-mcp/how-to-guide.mdx"
-    ]
-  ],
-  [
-    [
-      "2025-10-17, 16:09:02",
-      "https://news.ycombinator.com/item?id=45618350"
-    ],
-    [
-      "AI has a cargo cult problem",
-      "https://www.ft.com/content/f2025ac7-a71f-464f-a3a6-1e39c98612c7"
     ]
   ],
   [
@@ -197,6 +187,16 @@
     [
       "Meow.camera",
       "https://meow.camera/"
+    ]
+  ],
+  [
+    [
+      "2025-10-16, 20:26:35",
+      "https://news.ycombinator.com/item?id=45610266"
+    ],
+    [
+      "Claude Code vs. Codex: I built a sentiment dashboard from Reddit comments",
+      "https://www.aiengineering.report/p/claude-code-vs-codex-sentiment-analysis-reddit"
     ]
   ],
   [
