@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-10-17, 05:28:24](https://news.ycombinator.com/item?id=45613567) - [Ask HN: How to stop an AWS bot sending 2B requests/month](https://news.ycombinator.com/item?id=45613567)
-* [2025-10-17, 04:10:38](https://news.ycombinator.com/item?id=45613246) - [Free the Internet: The Tor Project's annual fundraiser](https://blog.torproject.org/2025-fundraiser-donations-matched/)
 * [2025-10-17, 03:27:24](https://news.ycombinator.com/item?id=45613047) - [Meow.camera](https://meow.camera/)
 * [2025-10-17, 03:13:00](https://news.ycombinator.com/item?id=45612987) - [Next steps for BPF support in the GNU toolchain](https://lwn.net/Articles/1039827/)
 * [2025-10-16, 23:20:16](https://news.ycombinator.com/item?id=45611851) - [Lead Limited Brain and Language Development in Neanderthals and Other Hominids?](https://today.ucsd.edu/story/did-lead-limit-brain-and-language-development-in-neanderthals-and-other-extinct-hominids)
@@ -22,6 +21,7 @@
 * [2025-10-16, 12:21:36](https://news.ycombinator.com/item?id=45604451) - [A stateful browser agent using self-healing DOM maps](https://100x.bot/a/a-stateful-browser-agent-using-self-healing-dom-maps)
 * [2025-10-16, 07:31:25](https://news.ycombinator.com/item?id=45602428) - [Elixir 1.19](https://elixir-lang.org/blog/2025/10/16/elixir-v1-19-0-released/)
 * [2025-10-14, 19:27:29](https://news.ycombinator.com/item?id=45583786) - [Your data model is your destiny](https://notes.mtb.xyz/p/your-data-model-is-your-destiny)
+* [2025-10-13, 08:10:22](https://news.ycombinator.com/item?id=45565977) - [Create a Custom Interactive dashboard using SVG](https://0xmm.in/posts/custom_dash/)
 * [2025-10-13, 00:48:25](https://news.ycombinator.com/item?id=45563576) - [Syntax highlighting is a waste of an information channel (2020)](https://buttondown.com/hillelwayne/archive/syntax-highlighting-is-a-waste-of-an-information/)
 * [2025-10-12, 15:44:15](https://news.ycombinator.com/item?id=45559040) - [A liver transplant from start to finish](https://press.asimov.com/articles/liver)
 * [2025-10-12, 06:13:32](https://news.ycombinator.com/item?id=45555709) - [A 4k-Room Text Adventure Written by One Human in QBasic No AI](https://the-ventureweaver.itch.io/tlote4111)
