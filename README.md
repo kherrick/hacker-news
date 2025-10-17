@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-10-17, 19:51:20](https://news.ycombinator.com/item?id=45621246) - [Making Every Windows 11 PC an AI PC](https://blogs.windows.com/windowsexperience/2025/10/16/making-every-windows-11-pc-an-ai-pc/)
 * [2025-10-17, 19:37:16](https://news.ycombinator.com/item?id=45621074) - [The Pivot](https://www.antipope.org/charlie/blog-static/2025/10/the-pivot-1.html)
 * [2025-10-17, 19:03:21](https://news.ycombinator.com/item?id=45620653) - [Asking AI to build scrapers should be easy right?](https://www.skyvern.com/blog/asking-ai-to-build-scrapers-should-be-easy-right/)
 * [2025-10-17, 18:44:13](https://news.ycombinator.com/item?id=45620394) - [GOG Has Had to Hire Private Investigators to Track Down IP Rights Holders](https://www.thegamer.com/gog-private-investigators-off-the-grid-ip-rights-holders/)
@@ -8,7 +9,6 @@
 * [2025-10-17, 17:24:18](https://news.ycombinator.com/item?id=45619329) - [Andrej Karpathy – AGI is still a decade away](https://www.dwarkesh.com/p/andrej-karpathy)
 * [2025-10-17, 16:22:07](https://news.ycombinator.com/item?id=45618536) - [Show HN: We packaged an MCP server inside Chromium](https://github.com/browseros-ai/BrowserOS/blob/main/docs/browseros-mcp/how-to-guide.mdx)
 * [2025-10-17, 16:09:02](https://news.ycombinator.com/item?id=45618350) - [AI has a cargo cult problem](https://www.ft.com/content/f2025ac7-a71f-464f-a3a6-1e39c98612c7)
-* [2025-10-17, 15:36:48](https://news.ycombinator.com/item?id=45617986) - [Dead or Alive creator Tomonobu Itagaki, 58 passes away](https://www.gamedeveloper.com/design/dead-or-alive-creator-tomonobu-itagaki-has-passed-away-at-58)
 * [2025-10-17, 15:22:29](https://news.ycombinator.com/item?id=45617819) - [Scientists discover intercellular nanotubular communication system in brain](https://www.science.org/doi/10.1126/science.adr7403)
 * [2025-10-17, 14:21:42](https://news.ycombinator.com/item?id=45617112) - [Stinkbug Leg Organ Hosts Symbiotic Fungi That Protect Eggs from Parasitic Wasps](https://bioengineer.org/stinkbug-leg-organ-hosts-symbiotic-fungi-that-protect-eggs-from-parasitic-wasps/)
 * [2025-10-17, 12:41:13](https://news.ycombinator.com/item?id=45616074) - [I built an F5 QKview scanner for CISA ED 26-01](https://www.usenabla.com/blog/emergency-scanning-cisa-endpoint)
