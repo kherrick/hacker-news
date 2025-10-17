@@ -1,0 +1,7 @@
+# [Hacker News](../../../README.md)
+
+## [Archives](../../index.md) for [2025](../index.md)
+
+### [Archives](../../index.md) for [2025-10-17](index.md)
+
+* [2025-10-17, 02:17:38](https://news.ycombinator.com/item?id=45612748) - [Accelerating authoritarian dynamics: Assessment of democratic decline](https://steadystate1.substack.com/p/accelerating-authoritarian-dynamics)
