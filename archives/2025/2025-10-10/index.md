@@ -30,6 +30,7 @@
 * [2025-10-10, 16:49:09](https://news.ycombinator.com/item?id=45540989) - [Regarding the Compact – MIT President](https://president.mit.edu/writing-speeches/regarding-compact)
 * [2025-10-10, 16:15:58](https://news.ycombinator.com/item?id=45540615) - [Fascism Can't Mean Both a Specific Ideology and a Legitimate Target](https://www.astralcodexten.com/p/fascism-cant-mean-both-a-specific)
 * [2025-10-10, 16:13:06](https://news.ycombinator.com/item?id=45540585) - [Boring Company cited for almost 800 environmental violations in Las Vegas](https://www.propublica.org/article/elon-musk-boring-company-violations-fines-vegas-loop)
+* [2025-10-10, 15:57:14](https://news.ycombinator.com/item?id=45540398) - [Let's Write a Macro in Rust](https://hackeryarn.com/post/rust-macros-1/)
 * [2025-10-10, 15:48:24](https://news.ycombinator.com/item?id=45540313) - [I'm in Vibe Code Hell](https://blog.boot.dev/education/vibe-code-hell/)
 * [2025-10-10, 15:37:43](https://news.ycombinator.com/item?id=45540174) - [Microsoft lets bosses spot teams that are dodging Copilot](https://www.theregister.com/2025/10/10/microsoft_copilot_viva_insights/)
 * [2025-10-10, 15:37:27](https://news.ycombinator.com/item?id=45540171) - [Show HN: Gitcasso – Syntax Highlighting and Draft Recovery for GitHub Comments](https://github.com/diffplug/gitcasso)

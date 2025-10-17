@@ -18,7 +18,6 @@
 * [2025-10-16, 16:05:47](https://news.ycombinator.com/item?id=45607117) - [Claude Skills](https://www.anthropic.com/news/skills)
 * [2025-10-16, 15:36:39](https://news.ycombinator.com/item?id=45606698) - [Codex Is Live in Zed](https://zed.dev/blog/codex-is-live-in-zed)
 * [2025-10-16, 14:04:18](https://news.ycombinator.com/item?id=45605501) - [DoorDash and Waymo launch autonomous delivery service in Phoenix](https://about.doordash.com/en-us/news/waymo)
-* [2025-10-16, 12:59:08](https://news.ycombinator.com/item?id=45604779) - [Electricity can heal wounds three times as fast (2023)](https://www.chalmers.se/en/current/news/mc2-how-electricity-can-heal-wounds-three-times-as-fast/)
 * [2025-10-16, 12:46:28](https://news.ycombinator.com/item?id=45604673) - [Hyperflask – Full stack Flask and Htmx framework](https://hyperflask.dev/)
 * [2025-10-16, 07:31:25](https://news.ycombinator.com/item?id=45602428) - [Elixir 1.19](https://elixir-lang.org/blog/2025/10/16/elixir-v1-19-0-released/)
 * [2025-10-14, 19:27:29](https://news.ycombinator.com/item?id=45583786) - [Your data model is your destiny](https://notes.mtb.xyz/p/your-data-model-is-your-destiny)
@@ -28,6 +27,7 @@
 * [2025-10-12, 12:18:18](https://news.ycombinator.com/item?id=45557669) - [Reworking Memory Management in CRuby](https://railsatscale.com/2025-09-16-reworking-memory-management-in-cruby/)
 * [2025-10-12, 06:13:32](https://news.ycombinator.com/item?id=45555709) - [A 4k-Room Text Adventure Written by One Human in QBasic No AI](https://the-ventureweaver.itch.io/tlote4111)
 * [2025-10-11, 17:28:48](https://news.ycombinator.com/item?id=45550969) - [Read Your Way Through Hà NộI](https://vietnamesetypography.com/samples/read-your-way-through-ha-noi/)
+* [2025-10-10, 15:57:14](https://news.ycombinator.com/item?id=45540398) - [Let's Write a Macro in Rust](https://hackeryarn.com/post/rust-macros-1/)
 * [2025-10-10, 11:34:30](https://news.ycombinator.com/item?id=45537698) - [Virtual Memory for Real-time RISC-V systems using hPMP](https://arxiv.org/abs/2504.04498)
 * [2025-10-09, 15:40:19](https://news.ycombinator.com/item?id=45529255) - [Post office in France rolls out croissant-scented stamp](https://www.ctvnews.ca/world/article/french-post-office-rolls-out-croissant-scented-stamp/)
 
