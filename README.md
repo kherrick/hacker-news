@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-10-17, 05:51:43](https://news.ycombinator.com/item?id=45613667) - [Flight Simulator for the Brain Reveals How We Learn and Why Minds Go Off Course](https://now.tufts.edu/2025/10/16/flight-simulator-brain-reveals-how-we-learn-and-why-minds-sometimes-go-course)
 * [2025-10-17, 05:28:24](https://news.ycombinator.com/item?id=45613567) - [Ask HN: How to stop an AWS bot sending 2B requests/month](https://news.ycombinator.com/item?id=45613567)
 * [2025-10-17, 03:27:24](https://news.ycombinator.com/item?id=45613047) - [Meow.camera](https://meow.camera/)
 * [2025-10-17, 03:13:00](https://news.ycombinator.com/item?id=45612987) - [Next steps for BPF support in the GNU toolchain](https://lwn.net/Articles/1039827/)
@@ -25,7 +26,6 @@
 * [2025-10-12, 15:44:15](https://news.ycombinator.com/item?id=45559040) - [A liver transplant from start to finish](https://press.asimov.com/articles/liver)
 * [2025-10-12, 06:13:32](https://news.ycombinator.com/item?id=45555709) - [A 4k-Room Text Adventure Written by One Human in QBasic No AI](https://the-ventureweaver.itch.io/tlote4111)
 * [2025-10-12, 06:09:22](https://news.ycombinator.com/item?id=45555690) - [Show HN: Compression-Resistant Data Transfers](https://github.com/ianling/steg-experiments)
-* [2025-10-12, 00:23:35](https://news.ycombinator.com/item?id=45554004) - [VOC injection into a house reveals large surface reservoir sizes](https://www.pnas.org/doi/10.1073/pnas.2503399122)
 * [2025-10-11, 17:28:48](https://news.ycombinator.com/item?id=45550969) - [Read Your Way Through Hà NộI](https://vietnamesetypography.com/samples/read-your-way-through-ha-noi/)
 * [2025-10-11, 00:11:59](https://news.ycombinator.com/item?id=45545220) - [How to tame a user interface using a spreadsheet](https://blog.gingerbeardman.com/2025/10/11/how-to-tame-a-user-interface-using-a-spreadsheet/)
 * [2025-10-10, 20:41:36](https://news.ycombinator.com/item?id=45543546) - [Microwave technique allows energy-efficient chemical reactions](https://phys.org/news/2025-10-microwave-technique-energy-efficient-chemical.html)
