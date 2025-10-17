@@ -1,12 +1,22 @@
 [
   [
     [
-      "2025-10-16, 23:30:36",
-      "https://news.ycombinator.com/item?id=45611912"
+      "2025-10-17, 04:10:38",
+      "https://news.ycombinator.com/item?id=45613246"
     ],
     [
-      "Nvidia DGX Spark and Apple Mac Studio = 4x Faster LLM Inference with EXO 1.0",
-      "https://blog.exolabs.net/nvidia-dgx-spark/"
+      "Free the Internet: The Tor Project's annual fundraiser",
+      "https://blog.torproject.org/2025-fundraiser-donations-matched/"
+    ]
+  ],
+  [
+    [
+      "2025-10-17, 03:13:00",
+      "https://news.ycombinator.com/item?id=45612987"
+    ],
+    [
+      "Next steps for BPF support in the GNU toolchain",
+      "https://lwn.net/Articles/1039827/"
     ]
   ],
   [
@@ -257,16 +267,6 @@
     [
       "Why I have to buy doughnuts with cash",
       "https://www.ft.com/content/8766ef23-3938-4de2-8a37-602c798034aa"
-    ]
-  ],
-  [
-    [
-      "2025-10-11, 10:02:03",
-      "https://news.ycombinator.com/item?id=45547891"
-    ],
-    [
-      "Eon – An Effects-Based OCaml Nameserver",
-      "https://ryan.freumh.org/eon.html"
     ]
   ],
   [
