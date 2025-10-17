@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-10-17, 17:41:02](https://news.ycombinator.com/item?id=45619544) - [OpenAI Needs $400B In The Next 12 Months](https://www.wheresyoured.at/openai400bn/)
+* [2025-10-17, 17:24:18](https://news.ycombinator.com/item?id=45619329) - [Andrej Karpathy – AGI is still a decade away](https://www.dwarkesh.com/p/andrej-karpathy)
 * [2025-10-17, 16:40:02](https://news.ycombinator.com/item?id=45618790) - [The Rapper 50 Cent, Adjusted for Inflation](https://50centadjustedforinflation.com/)
 * [2025-10-17, 16:09:02](https://news.ycombinator.com/item?id=45618350) - [AI has a cargo cult problem](https://www.ft.com/content/f2025ac7-a71f-464f-a3a6-1e39c98612c7)
 * [2025-10-17, 15:54:34](https://news.ycombinator.com/item?id=45618178) - [Amazon-backed, nuclear facility for Washington state](https://www.geekwire.com/2025/a-first-look-at-the-amazon-backed-next-generation-nuclear-facility-planned-for-washington-state/)
@@ -13,7 +15,6 @@
 * [2025-10-17, 11:29:01](https://news.ycombinator.com/item?id=45615454) - [Show HN: OnlyJPG – Client-Side PNG/HEIC/AVIF/PDF/etc to JPG](https://onlyjpg.com)
 * [2025-10-17, 11:27:54](https://news.ycombinator.com/item?id=45615449) - [Email bombs exploit lax authentication in Zendesk](https://krebsonsecurity.com/2025/10/email-bombs-exploit-lax-authentication-in-zendesk/)
 * [2025-10-17, 10:56:40](https://news.ycombinator.com/item?id=45615237) - [EVs are depreciating faster than gas-powered cars](https://restofworld.org/2025/ev-depreciation-blusmart-collapse/)
-* [2025-10-17, 10:50:55](https://news.ycombinator.com/item?id=45615193) - [Ask HN: How does one build large front end apps without a framework like React?](https://news.ycombinator.com/item?id=45615193)
 * [2025-10-17, 10:00:21](https://news.ycombinator.com/item?id=45614922) - [Migrating from AWS to Hetzner](https://digitalsociety.coop/posts/migrating-to-hetzner-cloud/)
 * [2025-10-17, 09:15:25](https://news.ycombinator.com/item?id=45614713) - [Amazon’s Ring to partner with Flock](https://techcrunch.com/2025/10/16/amazons-ring-to-partner-with-flock-a-network-of-ai-cameras-used-by-ice-feds-and-police/)
 * [2025-10-17, 07:31:58](https://news.ycombinator.com/item?id=45614148) - [4Chan Lawyer publishes Ofcom correspondence](https://alecmuffett.com/article/117792)
@@ -26,7 +27,6 @@
 * [2025-10-12, 15:55:50](https://news.ycombinator.com/item?id=45559145) - [Cartridge Chaos: The Official Nintendo Region Converter and More](https://nicole.express/2025/not-just-for-robert.html)
 * [2025-10-11, 20:21:11](https://news.ycombinator.com/item?id=45552358) - [MIT physicists improve the precision of atomic clocks](https://news.mit.edu/2025/mit-physicists-improve-atomic-clocks-precision-1008)
 * [2025-10-11, 17:28:48](https://news.ycombinator.com/item?id=45550969) - [Read your way through Hà Nội](https://vietnamesetypography.com/samples/read-your-way-through-ha-noi/)
-* [2025-10-11, 07:30:05](https://news.ycombinator.com/item?id=45547346) - [Show HN: A large format XY scanning hyperspectral camera](https://www.anfractuosity.com/projects/waverider/)
 * [2025-10-10, 18:35:04](https://news.ycombinator.com/item?id=45542245) - [Trap the Critters with Paint](https://deepanwadhwa.github.io/freeze_trap/)
 * [2025-10-10, 15:57:14](https://news.ycombinator.com/item?id=45540398) - [Let's write a macro in Rust](https://hackeryarn.com/post/rust-macros-1/)
 * [2025-10-09, 15:12:26](https://news.ycombinator.com/item?id=45528813) - [Resizeable Bar Support on the Raspberry Pi](https://www.jeffgeerling.com/blog/2025/resizeable-bar-support-on-raspberry-pi)
