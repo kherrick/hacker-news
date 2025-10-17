@@ -22,12 +22,12 @@
 * [2025-10-16, 20:22:48](https://news.ycombinator.com/item?id=45610226) - [How I bypassed Amazon's Kindle web DRM](https://blog.pixelmelt.dev/kindle-web-drm/)
 * [2025-10-15, 14:40:42](https://news.ycombinator.com/item?id=45593358) - [Exploring PostgreSQL 18's new UUIDv7 support](https://aiven.io/blog/exploring-postgresql-18-new-uuidv7-support)
 * [2025-10-14, 16:29:42](https://news.ycombinator.com/item?id=45581988) - [Smithsonian Open Access Images](https://www.si.edu/openaccess)
+* [2025-10-14, 14:20:13](https://news.ycombinator.com/item?id=45580347) - [When if is just a function](https://ryelang.org/blog/posts/if-as-function-blogpost-working-on-it_ver1/)
 * [2025-10-14, 05:21:48](https://news.ycombinator.com/item?id=45576536) - [PlayStation 3 Architecture (2021)](https://www.copetti.org/writings/consoles/playstation-3)
 * [2025-10-13, 08:29:04](https://news.ycombinator.com/item?id=45566098) - [Career Asymtotes](https://molochinations.substack.com/p/career-asymptotes)
 * [2025-10-12, 15:55:50](https://news.ycombinator.com/item?id=45559145) - [Cartridge Chaos: The Official Nintendo Region Converter and More](https://nicole.express/2025/not-just-for-robert.html)
 * [2025-10-12, 07:35:18](https://news.ycombinator.com/item?id=45556104) - [The Wi-Fi Revolution (2003)](https://www.wired.com/2003/05/wifirevolution/)
 * [2025-10-11, 20:21:11](https://news.ycombinator.com/item?id=45552358) - [MIT physicists improve the precision of atomic clocks](https://news.mit.edu/2025/mit-physicists-improve-atomic-clocks-precision-1008)
-* [2025-10-11, 17:28:48](https://news.ycombinator.com/item?id=45550969) - [Read your way through Hà Nội](https://vietnamesetypography.com/samples/read-your-way-through-ha-noi/)
 * [2025-10-10, 18:35:04](https://news.ycombinator.com/item?id=45542245) - [Trap the Critters with Paint](https://deepanwadhwa.github.io/freeze_trap/)
 * [2025-10-09, 15:12:26](https://news.ycombinator.com/item?id=45528813) - [Resizeable Bar Support on the Raspberry Pi](https://www.jeffgeerling.com/blog/2025/resizeable-bar-support-on-raspberry-pi)
 
