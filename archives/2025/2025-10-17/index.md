@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2025-10-17](index.md)
 
+* [2025-10-17, 16:09:02](https://news.ycombinator.com/item?id=45618350) - [AI has a cargo cult problem](https://www.ft.com/content/f2025ac7-a71f-464f-a3a6-1e39c98612c7)
+* [2025-10-17, 15:44:10](https://news.ycombinator.com/item?id=45618053) - [I Test Drove a Flying Car. Get Ready, They're Here](https://www.wsj.com/lifestyle/cars/i-test-drove-a-flying-car-get-ready-theyre-here-257b0ecf)
 * [2025-10-17, 15:36:48](https://news.ycombinator.com/item?id=45617986) - [Dead or Alive creator Tomonobu Itagaki, 58 passes away](https://www.gamedeveloper.com/design/dead-or-alive-creator-tomonobu-itagaki-has-passed-away-at-58)
+* [2025-10-17, 15:22:29](https://news.ycombinator.com/item?id=45617819) - [Scientists discover intercellular nanotubular communication system in brain](https://www.science.org/doi/10.1126/science.adr7403)
 * [2025-10-17, 14:53:31](https://news.ycombinator.com/item?id=45617475) - [Endorsing easily disproven claims linked to prioritizing symbolic strength](https://theconversation.com/winning-with-misinformation-new-research-identifies-link-between-endorsing-easily-disproven-claims-and-prioritizing-symbolic-strength-265652)
 * [2025-10-17, 14:19:22](https://news.ycombinator.com/item?id=45617088) - [You did no fact checking, and I must scream](https://shkspr.mobi/blog/2025/10/i-have-no-facts-and-i-must-scream/)
 * [2025-10-17, 14:04:24](https://news.ycombinator.com/item?id=45616949) - [Zorin OS 18](https://blog.zorin.com/2025/10/14/zorin-os-18-has-arrived/)

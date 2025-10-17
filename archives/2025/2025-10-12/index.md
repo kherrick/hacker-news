@@ -33,6 +33,7 @@
 * [2025-10-12, 16:42:09](https://news.ycombinator.com/item?id=45559567) - [In 1776, Thomas Paine made the best case for fighting kings −and being skeptical](https://theconversation.com/in-1776-thomas-paine-made-the-best-case-for-fighting-kings-and-for-being-skeptical-266448)
 * [2025-10-12, 16:21:59](https://news.ycombinator.com/item?id=45559372) - [oavif: Faster target quality image compression](https://giannirosato.com/blog/post/oavif/)
 * [2025-10-12, 16:15:45](https://news.ycombinator.com/item?id=45559305) - [Addictive-like behavioural traits in pet dogs with extreme motivation for toys](https://www.nature.com/articles/s41598-025-18636-0)
+* [2025-10-12, 15:55:50](https://news.ycombinator.com/item?id=45559145) - [Cartridge Chaos: The Official Nintendo Region Converter and More](https://nicole.express/2025/not-just-for-robert.html)
 * [2025-10-12, 15:48:28](https://news.ycombinator.com/item?id=45559076) - [How I'm Using Helix Editor](https://rushter.com/blog/helix-editor/)
 * [2025-10-12, 15:44:15](https://news.ycombinator.com/item?id=45559040) - [A liver transplant from start to finish](https://press.asimov.com/articles/liver)
 * [2025-10-12, 15:42:00](https://news.ycombinator.com/item?id=45559023) - [No I don't want to turn on Windows Backup with One Drive](https://idiallo.com/byte-size/say-no-to-onedrive-backup)
