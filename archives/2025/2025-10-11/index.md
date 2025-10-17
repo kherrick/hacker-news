@@ -32,6 +32,7 @@
 * [2025-10-11, 17:32:10](https://news.ycombinator.com/item?id=45551006) - [Show HN: Gnokestation Is an Ultra Lightweight Web Desktop Environment](https://gnokestation.netlify.app)
 * [2025-10-11, 17:28:48](https://news.ycombinator.com/item?id=45550969) - [Read Your Way Through Hà NộI](https://vietnamesetypography.com/samples/read-your-way-through-ha-noi/)
 * [2025-10-11, 16:42:19](https://news.ycombinator.com/item?id=45550544) - [The Case Against 30-Year Mortgages](https://www.wsj.com/opinion/the-case-against-30-year-mortgages-0cbd6d56)
+* [2025-10-11, 16:19:10](https://news.ycombinator.com/item?id=45550328) - [Dev Services for Spring Boot Using Arconia](https://www.thomasvitale.com/arconia-dev-services-spring-boot/)
 * [2025-10-11, 15:47:22](https://news.ycombinator.com/item?id=45550049) - [GNU Health](https://www.gnuhealth.org/about-us.html)
 * [2025-10-11, 15:26:31](https://news.ycombinator.com/item?id=45549888) - [How to Check for Overlapping Intervals](https://zayenz.se/blog/post/how-to-check-for-overlapping-intervals/)
 * [2025-10-11, 15:19:54](https://news.ycombinator.com/item?id=45549848) - [Microsoft Amplifier](https://github.com/microsoft/amplifier)

@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-10-17](index.md)
 
+* [2025-10-17, 14:19:22](https://news.ycombinator.com/item?id=45617088) - [You did no fact checking, and I must scream](https://shkspr.mobi/blog/2025/10/i-have-no-facts-and-i-must-scream/)
+* [2025-10-17, 14:04:24](https://news.ycombinator.com/item?id=45616949) - [Zorin OS 18](https://blog.zorin.com/2025/10/14/zorin-os-18-has-arrived/)
+* [2025-10-17, 14:04:13](https://news.ycombinator.com/item?id=45616944) - [Metropolis 1998 lets you design every building in an isometric, pixel-art city (2024)](https://arstechnica.com/gaming/2024/08/metropolis-1998-lets-you-design-every-building-in-an-isometric-pixel-art-city/)
 * [2025-10-17, 12:23:01](https://news.ycombinator.com/item?id=45615931) - [Live Stream from the Namib Desert](https://bookofjoe2.blogspot.com/2025/10/live-stream-from-namib-desert.html)
 * [2025-10-17, 12:15:53](https://news.ycombinator.com/item?id=45615863) - [Ruby Core Takes Ownership of Rubygems and Bundler](https://www.ruby-lang.org/en/news/2025/10/17/rubygems-repository-transition/)
 * [2025-10-17, 11:32:16](https://news.ycombinator.com/item?id=45615481) - [A classified network of SpaceX satellites is emitting a mysterious signal](https://www.npr.org/2025/10/17/nx-s1-5575254/spacex-starshield-starlink-signal)
