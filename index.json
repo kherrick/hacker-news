@@ -1,22 +1,22 @@
 [
   [
     [
-      "2025-10-16, 23:30:36",
-      "https://news.ycombinator.com/item?id=45611912"
-    ],
-    [
-      "Nvidia DGX Spark and Apple Mac Studio = 4x Faster LLM Inference with EXO 1.0",
-      "https://blog.exolabs.net/nvidia-dgx-spark/"
-    ]
-  ],
-  [
-    [
       "2025-10-16, 23:20:16",
       "https://news.ycombinator.com/item?id=45611851"
     ],
     [
       "Lead Limited Brain and Language Development in Neanderthals and Other Hominids?",
       "https://today.ucsd.edu/story/did-lead-limit-brain-and-language-development-in-neanderthals-and-other-extinct-hominids"
+    ]
+  ],
+  [
+    [
+      "2025-10-16, 23:05:04",
+      "https://news.ycombinator.com/item?id=45611735"
+    ],
+    [
+      "America's Semiconductor Boom is Real [video]",
+      "https://www.youtube.com/watch?v=T-jt3qBzJ4A"
     ]
   ],
   [
@@ -87,16 +87,6 @@
     [
       "Talent",
       "https://www.felixstocker.com/blog/talent"
-    ]
-  ],
-  [
-    [
-      "2025-10-16, 16:59:30",
-      "https://news.ycombinator.com/item?id=45607822"
-    ],
-    [
-      "SWE-Grep and SWE-Grep-Mini: RL for Fast Multi-Turn Context Retrieval",
-      "https://cognition.ai/blog/swe-grep"
     ]
   ],
   [
@@ -277,6 +267,16 @@
     [
       "Microwave technique allows energy-efficient chemical reactions",
       "https://phys.org/news/2025-10-microwave-technique-energy-efficient-chemical.html"
+    ]
+  ],
+  [
+    [
+      "2025-10-10, 13:45:48",
+      "https://news.ycombinator.com/item?id=45538982"
+    ],
+    [
+      "Accidentally Made a Zig Dotenv Parser",
+      "https://dayvster.com/blog/accidentally-made-a-zig-dotenv-parser/"
     ]
   ],
   [
