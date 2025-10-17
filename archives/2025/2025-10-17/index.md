@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-10-17](index.md)
 
+* [2025-10-17, 18:39:34](https://news.ycombinator.com/item?id=45620333) - [Forgejo v13.0 Is Available](https://forgejo.org/2025-10-release-v13-0/)
+* [2025-10-17, 18:38:16](https://news.ycombinator.com/item?id=45620311) - [What I Saw at This Weekend's Minnesota MAHA Fest Scared the Hell Out of Me](https://racketmn.com/what-i-saw-at-this-weekends-minnesota-maha-fest-scared-the-hell-out-of-me)
 * [2025-10-17, 17:41:02](https://news.ycombinator.com/item?id=45619544) - [OpenAI Needs $400B In The Next 12 Months](https://www.wheresyoured.at/openai400bn/)
 * [2025-10-17, 17:40:21](https://news.ycombinator.com/item?id=45619537) - [Claude Skills are awesome, maybe a bigger deal than MCP](https://simonwillison.net/2025/Oct/16/claude-skills/)
 * [2025-10-17, 17:24:18](https://news.ycombinator.com/item?id=45619329) - [Andrej Karpathy – AGI is still a decade away](https://www.dwarkesh.com/p/andrej-karpathy)

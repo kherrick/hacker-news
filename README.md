@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-10-17, 18:39:34](https://news.ycombinator.com/item?id=45620333) - [Forgejo v13.0 Is Available](https://forgejo.org/2025-10-release-v13-0/)
+* [2025-10-17, 18:38:16](https://news.ycombinator.com/item?id=45620311) - [What I Saw at This Weekend's Minnesota MAHA Fest Scared the Hell Out of Me](https://racketmn.com/what-i-saw-at-this-weekends-minnesota-maha-fest-scared-the-hell-out-of-me)
 * [2025-10-17, 17:41:02](https://news.ycombinator.com/item?id=45619544) - [OpenAI Needs $400B In The Next 12 Months](https://www.wheresyoured.at/openai400bn/)
 * [2025-10-17, 17:40:21](https://news.ycombinator.com/item?id=45619537) - [Claude Skills are awesome, maybe a bigger deal than MCP](https://simonwillison.net/2025/Oct/16/claude-skills/)
 * [2025-10-17, 17:24:18](https://news.ycombinator.com/item?id=45619329) - [Andrej Karpathy – AGI is still a decade away](https://www.dwarkesh.com/p/andrej-karpathy)
@@ -15,9 +17,7 @@
 * [2025-10-17, 11:27:54](https://news.ycombinator.com/item?id=45615449) - [Email bombs exploit lax authentication in Zendesk](https://krebsonsecurity.com/2025/10/email-bombs-exploit-lax-authentication-in-zendesk/)
 * [2025-10-17, 10:56:40](https://news.ycombinator.com/item?id=45615237) - [EVs are depreciating faster than gas-powered cars](https://restofworld.org/2025/ev-depreciation-blusmart-collapse/)
 * [2025-10-17, 10:00:21](https://news.ycombinator.com/item?id=45614922) - [Migrating from AWS to Hetzner](https://digitalsociety.coop/posts/migrating-to-hetzner-cloud/)
-* [2025-10-17, 09:15:25](https://news.ycombinator.com/item?id=45614713) - [Amazon’s Ring to partner with Flock](https://techcrunch.com/2025/10/16/amazons-ring-to-partner-with-flock-a-network-of-ai-cameras-used-by-ice-feds-and-police/)
 * [2025-10-17, 07:31:58](https://news.ycombinator.com/item?id=45614148) - [4Chan Lawyer publishes Ofcom correspondence](https://alecmuffett.com/article/117792)
-* [2025-10-17, 05:51:43](https://news.ycombinator.com/item?id=45613667) - [New computer model helps reveal how the brain both adapts and misfires](https://now.tufts.edu/2025/10/16/flight-simulator-brain-reveals-how-we-learn-and-why-minds-sometimes-go-course)
 * [2025-10-17, 05:28:24](https://news.ycombinator.com/item?id=45613567) - [Ask HN: How to stop an AWS bot sending 2B requests/month?](https://news.ycombinator.com/item?id=45613567)
 * [2025-10-17, 03:27:24](https://news.ycombinator.com/item?id=45613047) - [Meow.camera](https://meow.camera/)
 * [2025-10-17, 03:13:00](https://news.ycombinator.com/item?id=45612987) - [Next steps for BPF support in the GNU toolchain](https://lwn.net/Articles/1039827/)
