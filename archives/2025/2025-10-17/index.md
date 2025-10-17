@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-10-17](index.md)
 
+* [2025-10-17, 07:31:58](https://news.ycombinator.com/item?id=45614148) - [4Chan Lawyer publishes Ofcom correspondence. Irony is overwhelming](https://alecmuffett.com/article/117792)
 * [2025-10-17, 06:15:22](https://news.ycombinator.com/item?id=45613781) - [Wabi – Personal Software Platform](https://wabi.ai/)
 * [2025-10-17, 05:51:43](https://news.ycombinator.com/item?id=45613667) - [Flight Simulator for the Brain Reveals How We Learn and Why Minds Go Off Course](https://now.tufts.edu/2025/10/16/flight-simulator-brain-reveals-how-we-learn-and-why-minds-sometimes-go-course)
 * [2025-10-17, 05:28:24](https://news.ycombinator.com/item?id=45613567) - [Ask HN: How to stop an AWS bot sending 2B requests/month](https://news.ycombinator.com/item?id=45613567)
