@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-10-17](index.md)
 
+* [2025-10-17, 06:15:22](https://news.ycombinator.com/item?id=45613781) - [Wabi – Personal Software Platform](https://wabi.ai/)
 * [2025-10-17, 05:28:24](https://news.ycombinator.com/item?id=45613567) - [Ask HN: How to stop an AWS bot sending 2B requests/month](https://news.ycombinator.com/item?id=45613567)
 * [2025-10-17, 04:10:38](https://news.ycombinator.com/item?id=45613246) - [Free the Internet: The Tor Project's annual fundraiser](https://blog.torproject.org/2025-fundraiser-donations-matched/)
 * [2025-10-17, 03:27:24](https://news.ycombinator.com/item?id=45613047) - [Meow.camera](https://meow.camera/)
