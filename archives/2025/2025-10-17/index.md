@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-10-17](index.md)
 
+* [2025-10-17, 14:53:31](https://news.ycombinator.com/item?id=45617475) - [Endorsing easily disproven claims linked to prioritizing symbolic strength](https://theconversation.com/winning-with-misinformation-new-research-identifies-link-between-endorsing-easily-disproven-claims-and-prioritizing-symbolic-strength-265652)
 * [2025-10-17, 14:19:22](https://news.ycombinator.com/item?id=45617088) - [You did no fact checking, and I must scream](https://shkspr.mobi/blog/2025/10/i-have-no-facts-and-i-must-scream/)
 * [2025-10-17, 14:04:24](https://news.ycombinator.com/item?id=45616949) - [Zorin OS 18](https://blog.zorin.com/2025/10/14/zorin-os-18-has-arrived/)
 * [2025-10-17, 14:04:13](https://news.ycombinator.com/item?id=45616944) - [Metropolis 1998 lets you design every building in an isometric, pixel-art city (2024)](https://arstechnica.com/gaming/2024/08/metropolis-1998-lets-you-design-every-building-in-an-isometric-pixel-art-city/)

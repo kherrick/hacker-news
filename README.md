@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-10-17, 14:53:31](https://news.ycombinator.com/item?id=45617475) - [Endorsing easily disproven claims linked to prioritizing symbolic strength](https://theconversation.com/winning-with-misinformation-new-research-identifies-link-between-endorsing-easily-disproven-claims-and-prioritizing-symbolic-strength-265652)
 * [2025-10-17, 14:19:22](https://news.ycombinator.com/item?id=45617088) - [You did no fact checking, and I must scream](https://shkspr.mobi/blog/2025/10/i-have-no-facts-and-i-must-scream/)
 * [2025-10-17, 14:04:24](https://news.ycombinator.com/item?id=45616949) - [Zorin OS 18](https://blog.zorin.com/2025/10/14/zorin-os-18-has-arrived/)
 * [2025-10-17, 14:04:13](https://news.ycombinator.com/item?id=45616944) - [Metropolis 1998 lets you design every building in an isometric, pixel-art city (2024)](https://arstechnica.com/gaming/2024/08/metropolis-1998-lets-you-design-every-building-in-an-isometric-pixel-art-city/)
@@ -20,7 +21,6 @@
 * [2025-10-16, 16:05:47](https://news.ycombinator.com/item?id=45607117) - [Claude Skills](https://www.anthropic.com/news/skills)
 * [2025-10-16, 15:36:39](https://news.ycombinator.com/item?id=45606698) - [Codex Is Live in Zed](https://zed.dev/blog/codex-is-live-in-zed)
 * [2025-10-16, 14:04:18](https://news.ycombinator.com/item?id=45605501) - [DoorDash and Waymo launch autonomous delivery service in Phoenix](https://about.doordash.com/en-us/news/waymo)
-* [2025-10-16, 12:46:28](https://news.ycombinator.com/item?id=45604673) - [Hyperflask – Full stack Flask and Htmx framework](https://hyperflask.dev/)
 * [2025-10-16, 07:31:25](https://news.ycombinator.com/item?id=45602428) - [Elixir 1.19](https://elixir-lang.org/blog/2025/10/16/elixir-v1-19-0-released/)
 * [2025-10-14, 19:27:29](https://news.ycombinator.com/item?id=45583786) - [Your data model is your destiny](https://notes.mtb.xyz/p/your-data-model-is-your-destiny)
 * [2025-10-12, 15:44:15](https://news.ycombinator.com/item?id=45559040) - [A liver transplant from start to finish](https://press.asimov.com/articles/liver)
