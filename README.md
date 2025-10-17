@@ -9,6 +9,7 @@
 * [2025-10-17, 18:39:34](https://news.ycombinator.com/item?id=45620333) - [Forgejo v13.0 Is Available](https://forgejo.org/2025-10-release-v13-0/)
 * [2025-10-17, 17:40:21](https://news.ycombinator.com/item?id=45619537) - [Claude Skills are awesome, maybe a bigger deal than MCP](https://simonwillison.net/2025/Oct/16/claude-skills/)
 * [2025-10-17, 17:24:18](https://news.ycombinator.com/item?id=45619329) - [Andrej Karpathy – AGI is still a decade away](https://www.dwarkesh.com/p/andrej-karpathy)
+* [2025-10-17, 16:40:02](https://news.ycombinator.com/item?id=45618790) - [The Rapper 50 Cent, Adjusted for Inflation](https://50centadjustedforinflation.com/)
 * [2025-10-17, 16:22:07](https://news.ycombinator.com/item?id=45618536) - [Show HN: We packaged an MCP server inside Chromium](https://github.com/browseros-ai/BrowserOS/blob/main/docs/browseros-mcp/how-to-guide.mdx)
 * [2025-10-17, 15:22:29](https://news.ycombinator.com/item?id=45617819) - [Intercellular communication in the brain through a dendritic nanotubular network](https://www.science.org/doi/10.1126/science.adr7403)
 * [2025-10-17, 14:21:42](https://news.ycombinator.com/item?id=45617112) - [Stinkbug Leg Organ Hosts Symbiotic Fungi That Protect Eggs from Parasitic Wasps](https://bioengineer.org/stinkbug-leg-organ-hosts-symbiotic-fungi-that-protect-eggs-from-parasitic-wasps/)
@@ -27,7 +28,6 @@
 * [2025-10-12, 15:55:50](https://news.ycombinator.com/item?id=45559145) - [Cartridge Chaos: The Official Nintendo Region Converter and More](https://nicole.express/2025/not-just-for-robert.html)
 * [2025-10-12, 07:35:18](https://news.ycombinator.com/item?id=45556104) - [The Wi-Fi Revolution (2003)](https://www.wired.com/2003/05/wifirevolution/)
 * [2025-10-11, 20:21:11](https://news.ycombinator.com/item?id=45552358) - [MIT physicists improve the precision of atomic clocks](https://news.mit.edu/2025/mit-physicists-improve-atomic-clocks-precision-1008)
-* [2025-10-10, 18:35:04](https://news.ycombinator.com/item?id=45542245) - [Trap the Critters with Paint](https://deepanwadhwa.github.io/freeze_trap/)
 * [2025-10-10, 15:57:14](https://news.ycombinator.com/item?id=45540398) - [Let's write a macro in Rust](https://hackeryarn.com/post/rust-macros-1/)
 * [2025-10-09, 15:12:26](https://news.ycombinator.com/item?id=45528813) - [Resizeable Bar Support on the Raspberry Pi](https://www.jeffgeerling.com/blog/2025/resizeable-bar-support-on-raspberry-pi)
 
