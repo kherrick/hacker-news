@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-10-17](index.md)
 
+* [2025-10-17, 10:50:55](https://news.ycombinator.com/item?id=45615193) - [How does one build large front end apps without using a framework like React?](https://news.ycombinator.com/item?id=45615193)
 * [2025-10-17, 10:00:21](https://news.ycombinator.com/item?id=45614922) - [3x performance for 1/4 of the price by migrating from AWS to Hetzner](https://digitalsociety.coop/posts/migrating-to-hetzner-cloud/)
 * [2025-10-17, 09:15:25](https://news.ycombinator.com/item?id=45614713) - [Ring to partner with Flock, a network of cameras used by ICE, feds, and police](https://techcrunch.com/2025/10/16/amazons-ring-to-partner-with-flock-a-network-of-ai-cameras-used-by-ice-feds-and-police/)
 * [2025-10-17, 08:48:19](https://news.ycombinator.com/item?id=45614547) - [Frank founder Charlie Javice sentenced for JPMorgan fraud](https://www.bbc.com/news/articles/c4gwj15djdxo)
