@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-10-16, 23:30:36](https://news.ycombinator.com/item?id=45611912) - [Nvidia DGX Spark and Apple Mac Studio = 4x Faster LLM Inference with EXO 1.0](https://blog.exolabs.net/nvidia-dgx-spark/)
+* [2025-10-17, 04:10:38](https://news.ycombinator.com/item?id=45613246) - [Free the Internet: The Tor Project's annual fundraiser](https://blog.torproject.org/2025-fundraiser-donations-matched/)
+* [2025-10-17, 03:13:00](https://news.ycombinator.com/item?id=45612987) - [Next steps for BPF support in the GNU toolchain](https://lwn.net/Articles/1039827/)
 * [2025-10-16, 23:20:16](https://news.ycombinator.com/item?id=45611851) - [Lead Limited Brain and Language Development in Neanderthals and Other Hominids?](https://today.ucsd.edu/story/did-lead-limit-brain-and-language-development-in-neanderthals-and-other-extinct-hominids)
 * [2025-10-16, 23:05:04](https://news.ycombinator.com/item?id=45611735) - [America’s semiconductor boom](https://www.youtube.com/watch?v=T-jt3qBzJ4A)
 * [2025-10-16, 21:36:43](https://news.ycombinator.com/item?id=45610996) - [Understanding Spec-Driven-Development: Kiro, Spec-Kit, and Tessl](https://martinfowler.com/articles/exploring-gen-ai/sdd-3-tools.html)
@@ -26,7 +27,6 @@
 * [2025-10-12, 06:13:32](https://news.ycombinator.com/item?id=45555709) - [A 4k-Room Text Adventure Written by One Human in QBasic No AI](https://the-ventureweaver.itch.io/tlote4111)
 * [2025-10-12, 00:23:35](https://news.ycombinator.com/item?id=45554004) - [VOC injection into a house reveals large surface reservoir sizes](https://www.pnas.org/doi/10.1073/pnas.2503399122)
 * [2025-10-11, 12:15:27](https://news.ycombinator.com/item?id=45548560) - [Why I have to buy doughnuts with cash](https://www.ft.com/content/8766ef23-3938-4de2-8a37-602c798034aa)
-* [2025-10-11, 10:02:03](https://news.ycombinator.com/item?id=45547891) - [Eon – An Effects-Based OCaml Nameserver](https://ryan.freumh.org/eon.html)
 * [2025-10-11, 00:11:59](https://news.ycombinator.com/item?id=45545220) - [How to tame a user interface using a spreadsheet](https://blog.gingerbeardman.com/2025/10/11/how-to-tame-a-user-interface-using-a-spreadsheet/)
 * [2025-10-10, 20:41:36](https://news.ycombinator.com/item?id=45543546) - [Microwave technique allows energy-efficient chemical reactions](https://phys.org/news/2025-10-microwave-technique-energy-efficient-chemical.html)
 * [2025-10-09, 15:40:19](https://news.ycombinator.com/item?id=45529255) - [Post office in France rolls out croissant-scented stamp](https://www.ctvnews.ca/world/article/french-post-office-rolls-out-croissant-scented-stamp/)
