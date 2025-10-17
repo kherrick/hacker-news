@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-10-17, 15:36:48](https://news.ycombinator.com/item?id=45617986) - [Dead or Alive creator Tomonobu Itagaki, 58 passes away](https://www.gamedeveloper.com/design/dead-or-alive-creator-tomonobu-itagaki-has-passed-away-at-58)
 * [2025-10-17, 14:53:31](https://news.ycombinator.com/item?id=45617475) - [Endorsing easily disproven claims linked to prioritizing symbolic strength](https://theconversation.com/winning-with-misinformation-new-research-identifies-link-between-endorsing-easily-disproven-claims-and-prioritizing-symbolic-strength-265652)
 * [2025-10-17, 14:19:22](https://news.ycombinator.com/item?id=45617088) - [You did no fact checking, and I must scream](https://shkspr.mobi/blog/2025/10/i-have-no-facts-and-i-must-scream/)
 * [2025-10-17, 14:04:24](https://news.ycombinator.com/item?id=45616949) - [Zorin OS 18](https://blog.zorin.com/2025/10/14/zorin-os-18-has-arrived/)
@@ -16,7 +17,6 @@
 * [2025-10-17, 03:13:00](https://news.ycombinator.com/item?id=45612987) - [Next steps for BPF support in the GNU toolchain](https://lwn.net/Articles/1039827/)
 * [2025-10-16, 20:51:27](https://news.ycombinator.com/item?id=45610523) - [Cloudflare Sandbox SDK](https://sandbox.cloudflare.com/)
 * [2025-10-16, 20:22:48](https://news.ycombinator.com/item?id=45610226) - [How I bypassed Amazon's Kindle web DRM](https://blog.pixelmelt.dev/kindle-web-drm/)
-* [2025-10-16, 17:47:19](https://news.ycombinator.com/item?id=45608456) - [Talent](https://www.felixstocker.com/blog/talent)
 * [2025-10-16, 16:54:26](https://news.ycombinator.com/item?id=45607758) - [Gemini 3.0 spotted in the wild through A/B testing](https://ricklamers.io/posts/gemini-3-spotted-in-the-wild/)
 * [2025-10-16, 16:05:47](https://news.ycombinator.com/item?id=45607117) - [Claude Skills](https://www.anthropic.com/news/skills)
 * [2025-10-16, 15:36:39](https://news.ycombinator.com/item?id=45606698) - [Codex Is Live in Zed](https://zed.dev/blog/codex-is-live-in-zed)
