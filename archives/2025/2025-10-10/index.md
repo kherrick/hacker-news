@@ -55,6 +55,7 @@
 * [2025-10-10, 11:56:05](https://news.ycombinator.com/item?id=45537890) - [OpenGL is getting mesh shaders as well, via GL_EXT_mesh_shader](https://www.supergoodcode.com/mesh-shaders-in-the-current-year/)
 * [2025-10-10, 11:54:12](https://news.ycombinator.com/item?id=45537876) - [AI is an attack from above on wages\": cognitive scientist Hagen Blix](https://www.bloodinthemachine.com/p/ai-is-an-attack-from-above-on-wages)
 * [2025-10-10, 11:41:58](https://news.ycombinator.com/item?id=45537769) - [Digital euro could drain up to 700B euros of deposits in bank run, ECB says](https://www.reuters.com/business/finance/digital-euro-could-drain-up-700-billion-euros-deposits-bank-run-ecb-says-2025-10-10/)
+* [2025-10-10, 11:34:30](https://news.ycombinator.com/item?id=45537698) - [Virtual Memory for Real-time RISC-V systems using hPMP](https://arxiv.org/abs/2504.04498)
 * [2025-10-10, 11:10:46](https://news.ycombinator.com/item?id=45537512) - [Bringing Desktop Linux GUIs to Android: The Next Step in Graphical App Support](https://www.linuxjournal.com/content/bringing-desktop-linux-guis-android-next-step-graphical-app-support)
 * [2025-10-10, 10:52:56](https://news.ycombinator.com/item?id=45537372) - [Htmx, Datastar, Greedy Developer](https://drshapeless.com/blog/posts/htmx,-datastar,-greedy-developer.html)
 * [2025-10-10, 10:31:45](https://news.ycombinator.com/item?id=45537255) - [EU lawmakers push to ban term 'veggie-burger'](https://www.reuters.com/business/eu-lawmakers-push-ban-term-veggie-burger-2025-10-08/)
