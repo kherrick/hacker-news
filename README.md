@@ -2,7 +2,6 @@
 
 * [2025-10-17, 21:30:12](https://news.ycombinator.com/item?id=45622321) - [Marc Benioff: I no longer believe National Guard is needed for SF](https://www.cnbc.com/2025/10/17/benioff-trump-national-guard-sf.html)
 * [2025-10-17, 21:13:48](https://news.ycombinator.com/item?id=45622157) - [US car repossessions surge as more Americans default on auto loans](https://www.theguardian.com/business/2025/oct/17/us-car-repossessions-economy)
-* [2025-10-17, 20:32:04](https://news.ycombinator.com/item?id=45621693) - [Republicans use deepfake video of Chuck Schumer in new attack ad](https://www.theguardian.com/us-news/2025/oct/17/republican-ad-deepfake-video-chuck-schumer)
 * [2025-10-17, 19:37:16](https://news.ycombinator.com/item?id=45621074) - [The pivot](https://www.antipope.org/charlie/blog-static/2025/10/the-pivot-1.html)
 * [2025-10-17, 19:03:21](https://news.ycombinator.com/item?id=45620653) - [Asking AI to build scrapers should be easy right?](https://www.skyvern.com/blog/asking-ai-to-build-scrapers-should-be-easy-right/)
 * [2025-10-17, 18:44:13](https://news.ycombinator.com/item?id=45620394) - [GOG Has Had to Hire Private Investigators to Track Down IP Rights Holders](https://www.thegamer.com/gog-private-investigators-off-the-grid-ip-rights-holders/)
@@ -25,6 +24,7 @@
 * [2025-10-15, 14:40:42](https://news.ycombinator.com/item?id=45593358) - [Exploring PostgreSQL 18's new UUIDv7 support](https://aiven.io/blog/exploring-postgresql-18-new-uuidv7-support)
 * [2025-10-14, 16:29:42](https://news.ycombinator.com/item?id=45581988) - [Smithsonian Open Access Images](https://www.si.edu/openaccess)
 * [2025-10-14, 05:21:48](https://news.ycombinator.com/item?id=45576536) - [PlayStation 3 Architecture (2021)](https://www.copetti.org/writings/consoles/playstation-3)
+* [2025-10-13, 08:29:04](https://news.ycombinator.com/item?id=45566098) - [Career Asymtotes](https://molochinations.substack.com/p/career-asymptotes)
 * [2025-10-12, 15:55:50](https://news.ycombinator.com/item?id=45559145) - [Cartridge Chaos: The Official Nintendo Region Converter and More](https://nicole.express/2025/not-just-for-robert.html)
 * [2025-10-12, 07:35:18](https://news.ycombinator.com/item?id=45556104) - [The Wi-Fi Revolution (2003)](https://www.wired.com/2003/05/wifirevolution/)
 * [2025-10-11, 20:21:11](https://news.ycombinator.com/item?id=45552358) - [MIT physicists improve the precision of atomic clocks](https://news.mit.edu/2025/mit-physicists-improve-atomic-clocks-precision-1008)
