@@ -11,7 +11,6 @@
 * [2025-10-17, 16:40:02](https://news.ycombinator.com/item?id=45618790) - [The Rapper 50 Cent, Adjusted for Inflation](https://50centadjustedforinflation.com/)
 * [2025-10-17, 16:22:07](https://news.ycombinator.com/item?id=45618536) - [Show HN: We packaged an MCP server inside Chromium](https://github.com/browseros-ai/BrowserOS/blob/main/docs/browseros-mcp/how-to-guide.mdx)
 * [2025-10-17, 15:22:29](https://news.ycombinator.com/item?id=45617819) - [Intercellular communication in the brain through a dendritic nanotubular network](https://www.science.org/doi/10.1126/science.adr7403)
-* [2025-10-17, 14:21:42](https://news.ycombinator.com/item?id=45617112) - [Stinkbug Leg Organ Hosts Symbiotic Fungi That Protect Eggs from Parasitic Wasps](https://bioengineer.org/stinkbug-leg-organ-hosts-symbiotic-fungi-that-protect-eggs-from-parasitic-wasps/)
 * [2025-10-17, 12:23:01](https://news.ycombinator.com/item?id=45615931) - [Live Stream from the Namib Desert](https://bookofjoe2.blogspot.com/2025/10/live-stream-from-namib-desert.html)
 * [2025-10-17, 12:15:53](https://news.ycombinator.com/item?id=45615863) - [Ruby core team takes ownership of RubyGems and Bundler](https://www.ruby-lang.org/en/news/2025/10/17/rubygems-repository-transition/)
 * [2025-10-17, 10:56:40](https://news.ycombinator.com/item?id=45615237) - [EVs are depreciating faster than gas-powered cars](https://restofworld.org/2025/ev-depreciation-blusmart-collapse/)
@@ -28,6 +27,7 @@
 * [2025-10-12, 15:55:50](https://news.ycombinator.com/item?id=45559145) - [Cartridge Chaos: The Official Nintendo Region Converter and More](https://nicole.express/2025/not-just-for-robert.html)
 * [2025-10-12, 07:35:18](https://news.ycombinator.com/item?id=45556104) - [The Wi-Fi Revolution (2003)](https://www.wired.com/2003/05/wifirevolution/)
 * [2025-10-11, 20:21:11](https://news.ycombinator.com/item?id=45552358) - [MIT physicists improve the precision of atomic clocks](https://news.mit.edu/2025/mit-physicists-improve-atomic-clocks-precision-1008)
+* [2025-10-11, 17:28:48](https://news.ycombinator.com/item?id=45550969) - [Read your way through Hà Nội](https://vietnamesetypography.com/samples/read-your-way-through-ha-noi/)
 * [2025-10-10, 18:35:04](https://news.ycombinator.com/item?id=45542245) - [Trap the Critters with Paint](https://deepanwadhwa.github.io/freeze_trap/)
 * [2025-10-09, 15:12:26](https://news.ycombinator.com/item?id=45528813) - [Resizeable Bar Support on the Raspberry Pi](https://www.jeffgeerling.com/blog/2025/resizeable-bar-support-on-raspberry-pi)
 
