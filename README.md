@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-10-17, 10:56:40](https://news.ycombinator.com/item?id=45615237) - [EVs are depreciating much faster than gas-powered cars](https://restofworld.org/2025/ev-depreciation-blusmart-collapse/)
-* [2025-10-17, 10:50:55](https://news.ycombinator.com/item?id=45615193) - [How does one build large front end apps without using a framework like React?](https://news.ycombinator.com/item?id=45615193)
+* [2025-10-17, 12:23:01](https://news.ycombinator.com/item?id=45615931) - [Live Stream from the Namib Desert](https://bookofjoe2.blogspot.com/2025/10/live-stream-from-namib-desert.html)
+* [2025-10-17, 12:15:53](https://news.ycombinator.com/item?id=45615863) - [Ruby Core Takes Ownership of Rubygems and Bundler](https://www.ruby-lang.org/en/news/2025/10/17/rubygems-repository-transition/)
 * [2025-10-17, 10:00:21](https://news.ycombinator.com/item?id=45614922) - [3x performance for 1/4 of the price by migrating from AWS to Hetzner](https://digitalsociety.coop/posts/migrating-to-hetzner-cloud/)
 * [2025-10-17, 09:15:25](https://news.ycombinator.com/item?id=45614713) - [Ring to partner with Flock, a network of cameras used by ICE, feds, and police](https://techcrunch.com/2025/10/16/amazons-ring-to-partner-with-flock-a-network-of-ai-cameras-used-by-ice-feds-and-police/)
 * [2025-10-17, 05:51:43](https://news.ycombinator.com/item?id=45613667) - [Flight Simulator for the Brain Reveals How We Learn and Why Minds Go Off Course](https://now.tufts.edu/2025/10/16/flight-simulator-brain-reveals-how-we-learn-and-why-minds-sometimes-go-course)
@@ -18,7 +18,6 @@
 * [2025-10-16, 16:05:47](https://news.ycombinator.com/item?id=45607117) - [Claude Skills](https://www.anthropic.com/news/skills)
 * [2025-10-16, 15:36:39](https://news.ycombinator.com/item?id=45606698) - [Codex Is Live in Zed](https://zed.dev/blog/codex-is-live-in-zed)
 * [2025-10-16, 14:04:18](https://news.ycombinator.com/item?id=45605501) - [DoorDash and Waymo launch autonomous delivery service in Phoenix](https://about.doordash.com/en-us/news/waymo)
-* [2025-10-16, 12:59:08](https://news.ycombinator.com/item?id=45604779) - [Electricity can heal wounds three times as fast (2023)](https://www.chalmers.se/en/current/news/mc2-how-electricity-can-heal-wounds-three-times-as-fast/)
 * [2025-10-16, 12:46:28](https://news.ycombinator.com/item?id=45604673) - [Hyperflask – Full stack Flask and Htmx framework](https://hyperflask.dev/)
 * [2025-10-16, 07:31:25](https://news.ycombinator.com/item?id=45602428) - [Elixir 1.19](https://elixir-lang.org/blog/2025/10/16/elixir-v1-19-0-released/)
 * [2025-10-14, 19:27:29](https://news.ycombinator.com/item?id=45583786) - [Your data model is your destiny](https://notes.mtb.xyz/p/your-data-model-is-your-destiny)
@@ -30,6 +29,7 @@
 * [2025-10-10, 15:57:14](https://news.ycombinator.com/item?id=45540398) - [Let's Write a Macro in Rust](https://hackeryarn.com/post/rust-macros-1/)
 * [2025-10-10, 11:34:30](https://news.ycombinator.com/item?id=45537698) - [Virtual Memory for Real-time RISC-V systems using hPMP](https://arxiv.org/abs/2504.04498)
 * [2025-10-09, 15:40:19](https://news.ycombinator.com/item?id=45529255) - [Post office in France rolls out croissant-scented stamp](https://www.ctvnews.ca/world/article/french-post-office-rolls-out-croissant-scented-stamp/)
+* [2025-10-09, 15:12:26](https://news.ycombinator.com/item?id=45528813) - [Resizeable Bar Support on the Raspberry Pi](https://www.jeffgeerling.com/blog/2025/resizeable-bar-support-on-raspberry-pi)
 
 ## [Archives](archives/index.md)
 

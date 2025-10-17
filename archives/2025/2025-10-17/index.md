@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-10-17](index.md)
 
+* [2025-10-17, 12:23:01](https://news.ycombinator.com/item?id=45615931) - [Live Stream from the Namib Desert](https://bookofjoe2.blogspot.com/2025/10/live-stream-from-namib-desert.html)
+* [2025-10-17, 12:15:53](https://news.ycombinator.com/item?id=45615863) - [Ruby Core Takes Ownership of Rubygems and Bundler](https://www.ruby-lang.org/en/news/2025/10/17/rubygems-repository-transition/)
 * [2025-10-17, 10:56:40](https://news.ycombinator.com/item?id=45615237) - [EVs are depreciating much faster than gas-powered cars](https://restofworld.org/2025/ev-depreciation-blusmart-collapse/)
 * [2025-10-17, 10:50:55](https://news.ycombinator.com/item?id=45615193) - [How does one build large front end apps without using a framework like React?](https://news.ycombinator.com/item?id=45615193)
 * [2025-10-17, 10:00:21](https://news.ycombinator.com/item?id=45614922) - [3x performance for 1/4 of the price by migrating from AWS to Hetzner](https://digitalsociety.coop/posts/migrating-to-hetzner-cloud/)
