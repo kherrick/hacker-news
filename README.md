@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-10-17, 10:56:40](https://news.ycombinator.com/item?id=45615237) - [EVs are depreciating much faster than gas-powered cars](https://restofworld.org/2025/ev-depreciation-blusmart-collapse/)
 * [2025-10-17, 10:50:55](https://news.ycombinator.com/item?id=45615193) - [How does one build large front end apps without using a framework like React?](https://news.ycombinator.com/item?id=45615193)
 * [2025-10-17, 10:00:21](https://news.ycombinator.com/item?id=45614922) - [3x performance for 1/4 of the price by migrating from AWS to Hetzner](https://digitalsociety.coop/posts/migrating-to-hetzner-cloud/)
 * [2025-10-17, 09:15:25](https://news.ycombinator.com/item?id=45614713) - [Ring to partner with Flock, a network of cameras used by ICE, feds, and police](https://techcrunch.com/2025/10/16/amazons-ring-to-partner-with-flock-a-network-of-ai-cameras-used-by-ice-feds-and-police/)
-* [2025-10-17, 08:48:19](https://news.ycombinator.com/item?id=45614547) - [Frank founder Charlie Javice sentenced for JPMorgan fraud](https://www.bbc.com/news/articles/c4gwj15djdxo)
 * [2025-10-17, 05:51:43](https://news.ycombinator.com/item?id=45613667) - [Flight Simulator for the Brain Reveals How We Learn and Why Minds Go Off Course](https://now.tufts.edu/2025/10/16/flight-simulator-brain-reveals-how-we-learn-and-why-minds-sometimes-go-course)
 * [2025-10-17, 03:27:24](https://news.ycombinator.com/item?id=45613047) - [Meow.camera](https://meow.camera/)
 * [2025-10-17, 03:13:00](https://news.ycombinator.com/item?id=45612987) - [Next steps for BPF support in the GNU toolchain](https://lwn.net/Articles/1039827/)
