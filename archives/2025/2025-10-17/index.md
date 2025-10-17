@@ -6,6 +6,7 @@
 
 * [2025-10-17, 16:40:02](https://news.ycombinator.com/item?id=45618790) - [The Rapper 50 Cent, Adjusted for Inflation](https://50centadjustedforinflation.com/)
 * [2025-10-17, 16:09:02](https://news.ycombinator.com/item?id=45618350) - [AI has a cargo cult problem](https://www.ft.com/content/f2025ac7-a71f-464f-a3a6-1e39c98612c7)
+* [2025-10-17, 15:54:34](https://news.ycombinator.com/item?id=45618178) - [Amazon-backed, nuclear facility for Washington state](https://www.geekwire.com/2025/a-first-look-at-the-amazon-backed-next-generation-nuclear-facility-planned-for-washington-state/)
 * [2025-10-17, 15:44:10](https://news.ycombinator.com/item?id=45618053) - [I Test Drove a Flying Car. Get Ready, They're Here](https://www.wsj.com/lifestyle/cars/i-test-drove-a-flying-car-get-ready-theyre-here-257b0ecf)
 * [2025-10-17, 15:36:48](https://news.ycombinator.com/item?id=45617986) - [Dead or Alive creator Tomonobu Itagaki, 58 passes away](https://www.gamedeveloper.com/design/dead-or-alive-creator-tomonobu-itagaki-has-passed-away-at-58)
 * [2025-10-17, 15:22:29](https://news.ycombinator.com/item?id=45617819) - [Scientists discover intercellular nanotubular communication system in brain](https://www.science.org/doi/10.1126/science.adr7403)

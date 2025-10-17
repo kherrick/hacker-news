@@ -2,6 +2,7 @@
 
 * [2025-10-17, 16:40:02](https://news.ycombinator.com/item?id=45618790) - [The Rapper 50 Cent, Adjusted for Inflation](https://50centadjustedforinflation.com/)
 * [2025-10-17, 16:09:02](https://news.ycombinator.com/item?id=45618350) - [AI has a cargo cult problem](https://www.ft.com/content/f2025ac7-a71f-464f-a3a6-1e39c98612c7)
+* [2025-10-17, 15:54:34](https://news.ycombinator.com/item?id=45618178) - [Amazon-backed, nuclear facility for Washington state](https://www.geekwire.com/2025/a-first-look-at-the-amazon-backed-next-generation-nuclear-facility-planned-for-washington-state/)
 * [2025-10-17, 15:36:48](https://news.ycombinator.com/item?id=45617986) - [Dead or Alive creator Tomonobu Itagaki, 58 passes away](https://www.gamedeveloper.com/design/dead-or-alive-creator-tomonobu-itagaki-has-passed-away-at-58)
 * [2025-10-17, 15:22:29](https://news.ycombinator.com/item?id=45617819) - [Scientists discover intercellular nanotubular communication system in brain](https://www.science.org/doi/10.1126/science.adr7403)
 * [2025-10-17, 14:21:42](https://news.ycombinator.com/item?id=45617112) - [Stinkbug Leg Organ Hosts Symbiotic Fungi That Protect Eggs from Parasitic Wasps](https://bioengineer.org/stinkbug-leg-organ-hosts-symbiotic-fungi-that-protect-eggs-from-parasitic-wasps/)
@@ -9,7 +10,6 @@
 * [2025-10-17, 14:04:13](https://news.ycombinator.com/item?id=45616944) - [Metropolis 1998 lets you design every building in an isometric, pixel-art city (2024)](https://arstechnica.com/gaming/2024/08/metropolis-1998-lets-you-design-every-building-in-an-isometric-pixel-art-city/)
 * [2025-10-17, 12:23:01](https://news.ycombinator.com/item?id=45615931) - [Live Stream from the Namib Desert](https://bookofjoe2.blogspot.com/2025/10/live-stream-from-namib-desert.html)
 * [2025-10-17, 12:15:53](https://news.ycombinator.com/item?id=45615863) - [Ruby core team takes ownership of RubyGems and Bundler](https://www.ruby-lang.org/en/news/2025/10/17/rubygems-repository-transition/)
-* [2025-10-17, 11:32:16](https://news.ycombinator.com/item?id=45615481) - [A classified network of SpaceX satellites is emitting a mysterious signal](https://www.npr.org/2025/10/17/nx-s1-5575254/spacex-starshield-starlink-signal)
 * [2025-10-17, 11:29:01](https://news.ycombinator.com/item?id=45615454) - [Show HN: OnlyJPG – Client-Side PNG/HEIC/AVIF/PDF/etc to JPG](https://onlyjpg.com)
 * [2025-10-17, 11:27:54](https://news.ycombinator.com/item?id=45615449) - [Email bombs exploit lax authentication in Zendesk](https://krebsonsecurity.com/2025/10/email-bombs-exploit-lax-authentication-in-zendesk/)
 * [2025-10-17, 10:56:40](https://news.ycombinator.com/item?id=45615237) - [EVs are depreciating faster than gas-powered cars](https://restofworld.org/2025/ev-depreciation-blusmart-collapse/)
