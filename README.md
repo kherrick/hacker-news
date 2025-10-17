@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-10-17, 22:34:26](https://news.ycombinator.com/item?id=45622923) - [Promoted on Sunday, Fired on Monday: Inside a NASA Office's Sudden Closure](https://www.planetary.org/articles/promoted-on-sunday-fired-on-monday-inside-a-nasa-offices-sudden-closure)
 * [2025-10-17, 21:57:44](https://news.ycombinator.com/item?id=45622604) - [WebMCP](https://github.com/jasonjmcghee/WebMCP)
-* [2025-10-17, 21:30:12](https://news.ycombinator.com/item?id=45622321) - [Marc Benioff: I no longer believe National Guard is needed for SF](https://www.cnbc.com/2025/10/17/benioff-trump-national-guard-sf.html)
 * [2025-10-17, 19:37:16](https://news.ycombinator.com/item?id=45621074) - [The pivot](https://www.antipope.org/charlie/blog-static/2025/10/the-pivot-1.html)
 * [2025-10-17, 19:03:21](https://news.ycombinator.com/item?id=45620653) - [Asking AI to build scrapers should be easy right?](https://www.skyvern.com/blog/asking-ai-to-build-scrapers-should-be-easy-right/)
 * [2025-10-17, 18:44:13](https://news.ycombinator.com/item?id=45620394) - [GOG Has Had to Hire Private Investigators to Track Down IP Rights Holders](https://www.thegamer.com/gog-private-investigators-off-the-grid-ip-rights-holders/)

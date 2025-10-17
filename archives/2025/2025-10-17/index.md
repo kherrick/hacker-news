@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-10-17](index.md)
 
+* [2025-10-17, 22:34:26](https://news.ycombinator.com/item?id=45622923) - [Promoted on Sunday, Fired on Monday: Inside a NASA Office's Sudden Closure](https://www.planetary.org/articles/promoted-on-sunday-fired-on-monday-inside-a-nasa-offices-sudden-closure)
 * [2025-10-17, 21:57:44](https://news.ycombinator.com/item?id=45622604) - [WebMCP](https://github.com/jasonjmcghee/WebMCP)
 * [2025-10-17, 21:30:12](https://news.ycombinator.com/item?id=45622321) - [Marc Benioff: I no longer believe National Guard is needed for SF](https://www.cnbc.com/2025/10/17/benioff-trump-national-guard-sf.html)
 * [2025-10-17, 21:13:48](https://news.ycombinator.com/item?id=45622157) - [US car repossessions surge as more Americans default on auto loans](https://www.theguardian.com/business/2025/oct/17/us-car-repossessions-economy)
