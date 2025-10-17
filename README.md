@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-10-17, 21:13:48](https://news.ycombinator.com/item?id=45622157) - [US car repossessions surge as more Americans default on auto loans](https://www.theguardian.com/business/2025/oct/17/us-car-repossessions-economy)
+* [2025-10-17, 20:32:04](https://news.ycombinator.com/item?id=45621693) - [Republicans use deepfake video of Chuck Schumer in new attack ad](https://www.theguardian.com/us-news/2025/oct/17/republican-ad-deepfake-video-chuck-schumer)
 * [2025-10-17, 19:51:20](https://news.ycombinator.com/item?id=45621246) - [Making Every Windows 11 PC an AI PC](https://blogs.windows.com/windowsexperience/2025/10/16/making-every-windows-11-pc-an-ai-pc/)
 * [2025-10-17, 19:37:16](https://news.ycombinator.com/item?id=45621074) - [The pivot](https://www.antipope.org/charlie/blog-static/2025/10/the-pivot-1.html)
 * [2025-10-17, 19:03:21](https://news.ycombinator.com/item?id=45620653) - [Asking AI to build scrapers should be easy right?](https://www.skyvern.com/blog/asking-ai-to-build-scrapers-should-be-easy-right/)
@@ -12,7 +13,6 @@
 * [2025-10-17, 16:09:02](https://news.ycombinator.com/item?id=45618350) - [AI has a cargo cult problem](https://www.ft.com/content/f2025ac7-a71f-464f-a3a6-1e39c98612c7)
 * [2025-10-17, 15:22:29](https://news.ycombinator.com/item?id=45617819) - [Intercellular communication in the brain through a dendritic nanotubular network](https://www.science.org/doi/10.1126/science.adr7403)
 * [2025-10-17, 14:21:42](https://news.ycombinator.com/item?id=45617112) - [Stinkbug Leg Organ Hosts Symbiotic Fungi That Protect Eggs from Parasitic Wasps](https://bioengineer.org/stinkbug-leg-organ-hosts-symbiotic-fungi-that-protect-eggs-from-parasitic-wasps/)
-* [2025-10-17, 12:41:13](https://news.ycombinator.com/item?id=45616074) - [I built an F5 QKview scanner for CISA ED 26-01](https://www.usenabla.com/blog/emergency-scanning-cisa-endpoint)
 * [2025-10-17, 12:23:01](https://news.ycombinator.com/item?id=45615931) - [Live Stream from the Namib Desert](https://bookofjoe2.blogspot.com/2025/10/live-stream-from-namib-desert.html)
 * [2025-10-17, 12:15:53](https://news.ycombinator.com/item?id=45615863) - [Ruby core team takes ownership of RubyGems and Bundler](https://www.ruby-lang.org/en/news/2025/10/17/rubygems-repository-transition/)
 * [2025-10-17, 10:56:40](https://news.ycombinator.com/item?id=45615237) - [EVs are depreciating faster than gas-powered cars](https://restofworld.org/2025/ev-depreciation-blusmart-collapse/)
