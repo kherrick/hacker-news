@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-10-17](index.md)
 
+* [2025-10-17, 19:03:21](https://news.ycombinator.com/item?id=45620653) - [Asking AI to build scrapers should be easy right?](https://www.skyvern.com/blog/asking-ai-to-build-scrapers-should-be-easy-right/)
 * [2025-10-17, 19:00:14](https://news.ycombinator.com/item?id=45620613) - [Ace Frehley Has Died](https://www.nytimes.com/2025/10/16/arts/music/ace-frehley-dead.html)
 * [2025-10-17, 18:44:13](https://news.ycombinator.com/item?id=45620394) - [GOG Has Had to Hire Private Investigators to Track Down IP Rights Holders](https://www.thegamer.com/gog-private-investigators-off-the-grid-ip-rights-holders/)
 * [2025-10-17, 18:39:34](https://news.ycombinator.com/item?id=45620333) - [Forgejo v13.0 Is Available](https://forgejo.org/2025-10-release-v13-0/)
@@ -12,6 +13,7 @@
 * [2025-10-17, 17:40:21](https://news.ycombinator.com/item?id=45619537) - [Claude Skills are awesome, maybe a bigger deal than MCP](https://simonwillison.net/2025/Oct/16/claude-skills/)
 * [2025-10-17, 17:24:18](https://news.ycombinator.com/item?id=45619329) - [Andrej Karpathy – AGI is still a decade away](https://www.dwarkesh.com/p/andrej-karpathy)
 * [2025-10-17, 16:40:02](https://news.ycombinator.com/item?id=45618790) - [The Rapper 50 Cent, Adjusted for Inflation](https://50centadjustedforinflation.com/)
+* [2025-10-17, 16:22:07](https://news.ycombinator.com/item?id=45618536) - [Show HN: We packaged an MCP server inside Chromium](https://github.com/browseros-ai/BrowserOS/blob/main/docs/browseros-mcp/how-to-guide.mdx)
 * [2025-10-17, 16:09:02](https://news.ycombinator.com/item?id=45618350) - [AI has a cargo cult problem](https://www.ft.com/content/f2025ac7-a71f-464f-a3a6-1e39c98612c7)
 * [2025-10-17, 15:54:34](https://news.ycombinator.com/item?id=45618178) - [Amazon-backed, nuclear facility for Washington state](https://www.geekwire.com/2025/a-first-look-at-the-amazon-backed-next-generation-nuclear-facility-planned-for-washington-state/)
 * [2025-10-17, 15:44:10](https://news.ycombinator.com/item?id=45618053) - [I Test Drove a Flying Car. Get Ready, They're Here](https://www.wsj.com/lifestyle/cars/i-test-drove-a-flying-car-get-ready-theyre-here-257b0ecf)
