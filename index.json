@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-10-17, 09:15:25",
+      "https://news.ycombinator.com/item?id=45614713"
+    ],
+    [
+      "Ring to partner with Flock, a network of cameras used by ICE, feds, and police",
+      "https://techcrunch.com/2025/10/16/amazons-ring-to-partner-with-flock-a-network-of-ai-cameras-used-by-ice-feds-and-police/"
+    ]
+  ],
+  [
+    [
+      "2025-10-17, 08:48:19",
+      "https://news.ycombinator.com/item?id=45614547"
+    ],
+    [
+      "Frank founder Charlie Javice sentenced for JPMorgan fraud",
+      "https://www.bbc.com/news/articles/c4gwj15djdxo"
+    ]
+  ],
+  [
+    [
       "2025-10-17, 05:51:43",
       "https://news.ycombinator.com/item?id=45613667"
     ],
@@ -151,32 +171,12 @@
   ],
   [
     [
-      "2025-10-16, 12:50:08",
-      "https://news.ycombinator.com/item?id=45604700"
-    ],
-    [
-      "Show HN: Inkeep (YC W23) – Agent Builder to create agents in code or visually",
-      "https://github.com/inkeep/agents"
-    ]
-  ],
-  [
-    [
       "2025-10-16, 12:46:28",
       "https://news.ycombinator.com/item?id=45604673"
     ],
     [
       "Hyperflask – Full stack Flask and Htmx framework",
       "https://hyperflask.dev/"
-    ]
-  ],
-  [
-    [
-      "2025-10-16, 12:21:36",
-      "https://news.ycombinator.com/item?id=45604451"
-    ],
-    [
-      "A stateful browser agent using self-healing DOM maps",
-      "https://100x.bot/a/a-stateful-browser-agent-using-self-healing-dom-maps"
     ]
   ],
   [
@@ -231,6 +231,16 @@
   ],
   [
     [
+      "2025-10-12, 12:18:18",
+      "https://news.ycombinator.com/item?id=45557669"
+    ],
+    [
+      "Reworking Memory Management in CRuby",
+      "https://railsatscale.com/2025-09-16-reworking-memory-management-in-cruby/"
+    ]
+  ],
+  [
+    [
       "2025-10-12, 06:13:32",
       "https://news.ycombinator.com/item?id=45555709"
     ],
@@ -247,16 +257,6 @@
     [
       "Show HN: Compression-Resistant Data Transfers",
       "https://github.com/ianling/steg-experiments"
-    ]
-  ],
-  [
-    [
-      "2025-10-12, 00:23:35",
-      "https://news.ycombinator.com/item?id=45554004"
-    ],
-    [
-      "VOC injection into a house reveals large surface reservoir sizes",
-      "https://www.pnas.org/doi/10.1073/pnas.2503399122"
     ]
   ],
   [
