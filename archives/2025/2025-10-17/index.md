@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-10-17](index.md)
 
+* [2025-10-17, 21:13:48](https://news.ycombinator.com/item?id=45622157) - [US car repossessions surge as more Americans default on auto loans](https://www.theguardian.com/business/2025/oct/17/us-car-repossessions-economy)
 * [2025-10-17, 19:51:20](https://news.ycombinator.com/item?id=45621246) - [Making Every Windows 11 PC an AI PC](https://blogs.windows.com/windowsexperience/2025/10/16/making-every-windows-11-pc-an-ai-pc/)
 * [2025-10-17, 19:37:16](https://news.ycombinator.com/item?id=45621074) - [The Pivot](https://www.antipope.org/charlie/blog-static/2025/10/the-pivot-1.html)
 * [2025-10-17, 19:03:21](https://news.ycombinator.com/item?id=45620653) - [Asking AI to build scrapers should be easy right?](https://www.skyvern.com/blog/asking-ai-to-build-scrapers-should-be-easy-right/)
