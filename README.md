@@ -19,7 +19,6 @@
 * [2025-10-17, 10:56:40](https://news.ycombinator.com/item?id=45615237) - [EVs are depreciating faster than gas-powered cars](https://restofworld.org/2025/ev-depreciation-blusmart-collapse/)
 * [2025-10-17, 07:31:58](https://news.ycombinator.com/item?id=45614148) - [4Chan Lawyer publishes Ofcom correspondence](https://alecmuffett.com/article/117792)
 * [2025-10-16, 20:26:35](https://news.ycombinator.com/item?id=45610266) - [Claude Code vs. Codex: I built a sentiment dashboard from Reddit comments](https://www.aiengineering.report/p/claude-code-vs-codex-sentiment-analysis-reddit)
-* [2025-10-16, 20:22:48](https://news.ycombinator.com/item?id=45610226) - [How I bypassed Amazon's Kindle web DRM](https://blog.pixelmelt.dev/kindle-web-drm/)
 * [2025-10-15, 14:40:42](https://news.ycombinator.com/item?id=45593358) - [Exploring PostgreSQL 18's new UUIDv7 support](https://aiven.io/blog/exploring-postgresql-18-new-uuidv7-support)
 * [2025-10-14, 15:58:27](https://news.ycombinator.com/item?id=45581602) - [Ruby Blocks](https://tech.stonecharioteer.com/posts/2025/ruby-blocks/)
 * [2025-10-14, 14:20:13](https://news.ycombinator.com/item?id=45580347) - [When if is just a function](https://ryelang.org/blog/posts/if-as-function-blogpost-working-on-it_ver1/)
@@ -30,6 +29,7 @@
 * [2025-10-12, 07:35:18](https://news.ycombinator.com/item?id=45556104) - [The Wi-Fi Revolution (2003)](https://www.wired.com/2003/05/wifirevolution/)
 * [2025-10-11, 05:36:54](https://news.ycombinator.com/item?id=45546862) - [The Underscore Music Player](https://kottke.org/25/10/the-underscore-music-player)
 * [2025-10-10, 05:36:01](https://news.ycombinator.com/item?id=45535622) - [If the Gumshoe Fits: The Thomas Pynchon Experience](https://www.bookforum.com/print/3202/if-the-gumshoe-fits-62416)
+* [2025-10-09, 21:15:20](https://news.ycombinator.com/item?id=45533171) - [Second Chances on YouTube](https://blog.youtube/inside-youtube/second-chances-on-youtube/)
 
 ## [Archives](archives/index.md)
 
