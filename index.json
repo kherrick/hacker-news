@@ -231,16 +231,6 @@
   ],
   [
     [
-      "2025-10-15, 14:40:42",
-      "https://news.ycombinator.com/item?id=45593358"
-    ],
-    [
-      "Exploring PostgreSQL 18's new UUIDv7 support",
-      "https://aiven.io/blog/exploring-postgresql-18-new-uuidv7-support"
-    ]
-  ],
-  [
-    [
       "2025-10-14, 15:58:27",
       "https://news.ycombinator.com/item?id=45581602"
     ],
@@ -267,6 +257,16 @@
     [
       "The early Unix history of chown() being restricted to root",
       "https://utcc.utoronto.ca/~cks/space/blog/unix/ChownRestrictionEarlyHistory"
+    ]
+  ],
+  [
+    [
+      "2025-10-13, 11:07:25",
+      "https://news.ycombinator.com/item?id=45567050"
+    ],
+    [
+      "Who invented deep residual learning?",
+      "https://people.idsia.ch/~juergen/who-invented-residual-neural-networks.html"
     ]
   ],
   [
