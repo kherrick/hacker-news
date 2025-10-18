@@ -23,6 +23,7 @@
 * [2025-10-13, 17:14:30](https://news.ycombinator.com/item?id=45570840) - [ProtonVPN Lied About Logging](https://vp.net/l/en-US/blog/ProtonVPN-Lied-About-Logging)
 * [2025-10-13, 17:03:11](https://news.ycombinator.com/item?id=45570720) - [Optery (YC W22) – Hiring Tech Lead with Node.js Experience (U.S. & Latin America)](https://www.optery.com/careers/)
 * [2025-10-13, 16:49:15](https://news.ycombinator.com/item?id=45570537) - [Environment variables are a legacy mess: Let's dive deep into them](https://allvpv.org/haotic-journey-through-envvars/)
+* [2025-10-13, 16:47:45](https://news.ycombinator.com/item?id=45570517) - [The early Unix history of chown() being restricted to root](https://utcc.utoronto.ca/~cks/space/blog/unix/ChownRestrictionEarlyHistory)
 * [2025-10-13, 16:31:41](https://news.ycombinator.com/item?id=45570299) - [$19B Wiped Out in Crypto's Biggest Liquidation](https://decrypt.co/344038/morning-minute-19b-wiped-out-in-cryptos-biggest-liquidation-ever)
 * [2025-10-13, 16:08:32](https://news.ycombinator.com/item?id=45569966) - [Jeep software update bricks vehicles, leaves owners stranded](https://www.thestack.technology/jeep-software-update-bricks-vehicles-leaves-owners-stranded/)
 * [2025-10-13, 16:03:31](https://news.ycombinator.com/item?id=45569896) - [Apple Renames 'Apple TV+' to 'Apple TV'](https://www.apple.com/tv-pr/news/2025/10/apple-original-films-blockbuster-feature-f1-the-movie-from-joseph-kosinski-to-make-global-streaming-debut-on-friday-december-12-2025/)
