@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2025-10-18](index.md)
 
+* [2025-10-18, 15:56:22](https://news.ycombinator.com/item?id=45628315) - [Event Sourcing, CQRS and Micro Services: Real FinTech Example](https://lukasniessen.medium.com/this-is-a-detailed-breakdown-of-a-fintech-project-from-my-consulting-career-9ec61603709c)
 * [2025-10-18, 15:39:29](https://news.ycombinator.com/item?id=45628186) - [Meta convinces Blue Owl to cut $30B check for its Hyperion AI super cluster](https://www.theregister.com/2025/10/17/meta_blue_owl_hyperion/)
+* [2025-10-18, 15:14:58](https://news.ycombinator.com/item?id=45628022) - [Rapid amyloid-β clearance and cognitive recovery by modulating BBB transport](https://www.nature.com/articles/s41392-025-02426-1)
+* [2025-10-18, 14:33:22](https://news.ycombinator.com/item?id=45627692) - [Flowistry: An IDE plugin for Rust that focuses on relevant code](https://github.com/willcrichton/flowistry)
 * [2025-10-18, 13:52:24](https://news.ycombinator.com/item?id=45627394) - [1,180 root system drawings](https://images.wur.nl/digital/collection/coll13/search)
 * [2025-10-18, 13:44:02](https://news.ycombinator.com/item?id=45627324) - [Ripgrep 15.0.0](https://github.com/BurntSushi/ripgrep/releases/tag/15.0.0)
 * [2025-10-18, 13:24:41](https://news.ycombinator.com/item?id=45627171) - [Game over. AGI is not imminent, and LLMs are not the royal road to getting there](https://garymarcus.substack.com/p/the-last-few-months-have-been-devastating)

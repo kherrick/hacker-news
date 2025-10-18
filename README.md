@@ -1,6 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-10-18, 15:56:22](https://news.ycombinator.com/item?id=45628315) - [Event Sourcing, CQRS and Micro Services: Real FinTech Example](https://lukasniessen.medium.com/this-is-a-detailed-breakdown-of-a-fintech-project-from-my-consulting-career-9ec61603709c)
 * [2025-10-18, 15:39:29](https://news.ycombinator.com/item?id=45628186) - [Meta convinces Blue Owl to cut $30B check for its Hyperion AI super cluster](https://www.theregister.com/2025/10/17/meta_blue_owl_hyperion/)
+* [2025-10-18, 15:14:58](https://news.ycombinator.com/item?id=45628022) - [Rapid amyloid-β clearance and cognitive recovery by modulating BBB transport](https://www.nature.com/articles/s41392-025-02426-1)
+* [2025-10-18, 14:33:22](https://news.ycombinator.com/item?id=45627692) - [Flowistry: An IDE plugin for Rust that focuses on relevant code](https://github.com/willcrichton/flowistry)
 * [2025-10-18, 13:52:24](https://news.ycombinator.com/item?id=45627394) - [1,180 root system drawings](https://images.wur.nl/digital/collection/coll13/search)
 * [2025-10-18, 13:44:02](https://news.ycombinator.com/item?id=45627324) - [Ripgrep 15.0.0](https://github.com/BurntSushi/ripgrep/releases/tag/15.0.0)
 * [2025-10-18, 12:56:50](https://news.ycombinator.com/item?id=45626985) - [SQL Anti-Patterns You Should Avoid](https://datamethods.substack.com/p/sql-anti-patterns-you-should-avoid)
@@ -23,13 +26,10 @@
 * [2025-10-17, 07:31:58](https://news.ycombinator.com/item?id=45614148) - [4Chan Lawyer publishes Ofcom correspondence](https://alecmuffett.com/article/117792)
 * [2025-10-15, 14:40:42](https://news.ycombinator.com/item?id=45593358) - [Exploring PostgreSQL 18's new UUIDv7 support](https://aiven.io/blog/exploring-postgresql-18-new-uuidv7-support)
 * [2025-10-14, 15:58:27](https://news.ycombinator.com/item?id=45581602) - [Ruby Blocks](https://tech.stonecharioteer.com/posts/2025/ruby-blocks/)
-* [2025-10-14, 14:20:13](https://news.ycombinator.com/item?id=45580347) - [When if is just a function](https://ryelang.org/blog/posts/if-as-function-blogpost-working-on-it_ver1/)
 * [2025-10-14, 05:21:48](https://news.ycombinator.com/item?id=45576536) - [PlayStation 3 Architecture (2021)](https://www.copetti.org/writings/consoles/playstation-3)
 * [2025-10-13, 16:47:45](https://news.ycombinator.com/item?id=45570517) - [The early Unix history of chown() being restricted to root](https://utcc.utoronto.ca/~cks/space/blog/unix/ChownRestrictionEarlyHistory)
-* [2025-10-13, 05:47:37](https://news.ycombinator.com/item?id=45565053) - [The Adventures and Experiences of the First Slovak Novel](https://publicdomainreview.org/essay/the-adventures-and-experiences-of-the-first-slovak-novel/)
 * [2025-10-12, 18:54:21](https://news.ycombinator.com/item?id=45560738) - [Our Paint – a featureless but programmable painting program](https://www.WellObserve.com/OurPaint/index_en.html)
 * [2025-10-12, 15:20:54](https://news.ycombinator.com/item?id=45558820) - [Cruz Godar Generative Art Gallery](https://cruzgodar.com/gallery/)
-* [2025-10-12, 09:40:56](https://news.ycombinator.com/item?id=45556827) - [Show HN: The Shape of YouTube](https://soy.leg.ovh/)
 
 ## [Archives](archives/index.md)
 
