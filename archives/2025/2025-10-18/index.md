@@ -6,9 +6,12 @@
 
 * [2025-10-18, 09:55:06](https://news.ycombinator.com/item?id=45626130) - [./Watch](https://dotslashwatch.com/)
 * [2025-10-18, 09:34:56](https://news.ycombinator.com/item?id=45626070) - [US Seizes 15B BTC, Indicts Chairman: Forced Labor Scam Compounds, Crypto Fraud](https://www.justice.gov/opa/pr/chairman-prince-group-indicted-operating-cambodian-forced-labor-scam-compounds-engaged)
+* [2025-10-18, 09:25:30](https://news.ycombinator.com/item?id=45626037) - [Fast calculation of the distance to cubic Bezier curves on the GPU](https://blog.pkh.me/p/46-fast-calculation-of-the-distance-to-cubic-bezier-curves-on-the-gpu.html)
+* [2025-10-18, 08:14:49](https://news.ycombinator.com/item?id=45625764) - [Windows 10 refugees flock to Linux in what devs call their \"biggest launch\"](https://www.neowin.net/news/windows-10-refugees-flock-to-linux-in-what-devs-call-their-biggest-launch-ever/)
 * [2025-10-18, 06:20:23](https://news.ycombinator.com/item?id=45625351) - [BBC Gaza documentary serious breach of rules](https://www.bbc.com/news/articles/c629j5m2n01o)
 * [2025-10-18, 05:52:47](https://news.ycombinator.com/item?id=45625251) - [StageConnect: Behringer protocol is open source](https://github.com/OpenMixerProject/StageConnect)
 * [2025-10-18, 04:56:47](https://news.ycombinator.com/item?id=45625029) - [The Majority AI View](https://www.anildash.com//2025/10/17/the-majority-ai-view/)
+* [2025-10-18, 04:55:16](https://news.ycombinator.com/item?id=45625018) - [How I ditched smartphones](https://discuss.techlore.tech/t/how-i-ditched-smartphones/15315)
 * [2025-10-18, 04:31:59](https://news.ycombinator.com/item?id=45624908) - [The Richest Third-World Country](https://www.noahpinion.blog/p/the-richest-third-world-country)
 * [2025-10-18, 04:26:19](https://news.ycombinator.com/item?id=45624888) - [AMD's Chiplet APU: An Overview of Strix Halo](https://chipsandcheese.com/p/amds-chiplet-apu-an-overview-of-strix)
 * [2025-10-18, 01:49:06](https://news.ycombinator.com/item?id=45624186) - [Show HN: ServiceRadar – open-source Network Observability Platform](https://github.com/carverauto/serviceradar)
