@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-10-18, 12:08:20](https://news.ycombinator.com/item?id=45626691) - [Are we living in a golden age of stupidity?](https://www.theguardian.com/technology/2025/oct/18/are-we-living-in-a-golden-age-of-stupidity-technology)
+* [2025-10-18, 12:44:16](https://news.ycombinator.com/item?id=45626910) - [The IDEs we had 30 years ago ... and we lost](https://blogsystem5.substack.com/p/the-ides-we-had-30-years-ago-and)
+* [2025-10-18, 12:40:43](https://news.ycombinator.com/item?id=45626892) - [US falls out of 10 most powerful passports list for first time in 20 yrs](https://www.theguardian.com/us-news/2025/oct/15/most-powerful-passports-world-list)
+* [2025-10-18, 11:39:59](https://news.ycombinator.com/item?id=45626549) - [MD RAID or DRBD can be broken from userspace when using O_DIRECT](https://bugzilla.kernel.org/show_bug.cgi?id=99171)
 * [2025-10-18, 09:55:06](https://news.ycombinator.com/item?id=45626130) - [./watch](https://dotslashwatch.com/)
 * [2025-10-18, 09:25:30](https://news.ycombinator.com/item?id=45626037) - [Fast calculation of the distance to cubic Bezier curves on the GPU](https://blog.pkh.me/p/46-fast-calculation-of-the-distance-to-cubic-bezier-curves-on-the-gpu.html)
 * [2025-10-18, 05:52:47](https://news.ycombinator.com/item?id=45625251) - [StageConnect: Behringer protocol is open source](https://github.com/OpenMixerProject/StageConnect)
@@ -25,10 +27,8 @@
 * [2025-10-14, 05:21:48](https://news.ycombinator.com/item?id=45576536) - [PlayStation 3 Architecture (2021)](https://www.copetti.org/writings/consoles/playstation-3)
 * [2025-10-13, 16:47:45](https://news.ycombinator.com/item?id=45570517) - [The early Unix history of chown() being restricted to root](https://utcc.utoronto.ca/~cks/space/blog/unix/ChownRestrictionEarlyHistory)
 * [2025-10-12, 15:20:54](https://news.ycombinator.com/item?id=45558820) - [Cruz Godar Generative Art Gallery](https://cruzgodar.com/gallery/)
-* [2025-10-12, 08:46:57](https://news.ycombinator.com/item?id=45556536) - [Tahoe's Elephant](https://eclecticlight.co/2025/10/12/last-week-on-my-mac-tahoes-elephant/)
 * [2025-10-12, 07:35:18](https://news.ycombinator.com/item?id=45556104) - [The Wi-Fi Revolution (2003)](https://www.wired.com/2003/05/wifirevolution/)
 * [2025-10-11, 05:36:54](https://news.ycombinator.com/item?id=45546862) - [The Underscore Music Player](https://kottke.org/25/10/the-underscore-music-player)
-* [2025-10-10, 05:36:01](https://news.ycombinator.com/item?id=45535622) - [If the Gumshoe Fits: The Thomas Pynchon Experience](https://www.bookforum.com/print/3202/if-the-gumshoe-fits-62416)
 * [2025-10-09, 21:15:20](https://news.ycombinator.com/item?id=45533171) - [Second Chances on YouTube](https://blog.youtube/inside-youtube/second-chances-on-youtube/)
 
 ## [Archives](archives/index.md)

@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2025-10-18](index.md)
 
+* [2025-10-18, 12:44:16](https://news.ycombinator.com/item?id=45626910) - [The IDEs we had 30 years ago ... and we lost](https://blogsystem5.substack.com/p/the-ides-we-had-30-years-ago-and)
+* [2025-10-18, 12:40:43](https://news.ycombinator.com/item?id=45626892) - [US falls out of 10 most powerful passports list for first time in 20 yrs](https://www.theguardian.com/us-news/2025/oct/15/most-powerful-passports-world-list)
 * [2025-10-18, 12:08:20](https://news.ycombinator.com/item?id=45626691) - [Are we living in a golden age of stupidity?](https://www.theguardian.com/technology/2025/oct/18/are-we-living-in-a-golden-age-of-stupidity-technology)
+* [2025-10-18, 11:39:59](https://news.ycombinator.com/item?id=45626549) - [MD RAID or DRBD can be broken from userspace when using O_DIRECT](https://bugzilla.kernel.org/show_bug.cgi?id=99171)
 * [2025-10-18, 09:55:06](https://news.ycombinator.com/item?id=45626130) - [./Watch](https://dotslashwatch.com/)
 * [2025-10-18, 09:34:56](https://news.ycombinator.com/item?id=45626070) - [US Seizes 15B BTC, Indicts Chairman: Forced Labor Scam Compounds, Crypto Fraud](https://www.justice.gov/opa/pr/chairman-prince-group-indicted-operating-cambodian-forced-labor-scam-compounds-engaged)
 * [2025-10-18, 09:25:30](https://news.ycombinator.com/item?id=45626037) - [Fast calculation of the distance to cubic Bezier curves on the GPU](https://blog.pkh.me/p/46-fast-calculation-of-the-distance-to-cubic-bezier-curves-on-the-gpu.html)
