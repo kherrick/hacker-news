@@ -71,6 +71,7 @@
 * [2025-10-12, 06:17:52](https://news.ycombinator.com/item?id=45555727) - [Three ways formally verified code can go wrong in practice](https://buttondown.com/hillelwayne/archive/three-ways-formally-verified-code-can-go-wrong-in/)
 * [2025-10-12, 06:13:32](https://news.ycombinator.com/item?id=45555709) - [A 4k-Room Text Adventure Written by One Human in QBasic No AI](https://the-ventureweaver.itch.io/tlote4111)
 * [2025-10-12, 06:09:22](https://news.ycombinator.com/item?id=45555690) - [Show HN: Compression-Resistant Data Transfers](https://github.com/ianling/steg-experiments)
+* [2025-10-12, 05:58:21](https://news.ycombinator.com/item?id=45555647) - [PSOS-C and the Full Attribution Chain](https://www.aivojournal.org/closing-the-loop/)
 * [2025-10-12, 05:39:22](https://news.ycombinator.com/item?id=45555570) - [Spyware maker NSO Group confirms acquisition by US investors](https://techcrunch.com/2025/10/10/spyware-maker-nso-group-confirms-acquisition-by-us-investors/)
 * [2025-10-12, 05:31:00](https://news.ycombinator.com/item?id=45555523) - [Show HN: I made an esoteric programming language that's read like a spellbook](https://github.com/sirbread/spellscript)
 * [2025-10-12, 05:11:11](https://news.ycombinator.com/item?id=45555426) - [Monads are too powerful: The Expressiveness Spectrum](https://chrispenner.ca/posts/expressiveness-spectrum)
