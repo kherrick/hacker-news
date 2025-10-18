@@ -24,12 +24,12 @@
 * [2025-10-17, 07:31:58](https://news.ycombinator.com/item?id=45614148) - [4Chan Lawyer publishes Ofcom correspondence](https://alecmuffett.com/article/117792)
 * [2025-10-15, 14:40:42](https://news.ycombinator.com/item?id=45593358) - [Exploring PostgreSQL 18's new UUIDv7 support](https://aiven.io/blog/exploring-postgresql-18-new-uuidv7-support)
 * [2025-10-14, 15:58:27](https://news.ycombinator.com/item?id=45581602) - [Ruby Blocks](https://tech.stonecharioteer.com/posts/2025/ruby-blocks/)
-* [2025-10-14, 14:20:13](https://news.ycombinator.com/item?id=45580347) - [When if is just a function](https://ryelang.org/blog/posts/if-as-function-blogpost-working-on-it_ver1/)
 * [2025-10-14, 05:21:48](https://news.ycombinator.com/item?id=45576536) - [PlayStation 3 Architecture (2021)](https://www.copetti.org/writings/consoles/playstation-3)
 * [2025-10-13, 16:47:45](https://news.ycombinator.com/item?id=45570517) - [The early Unix history of chown() being restricted to root](https://utcc.utoronto.ca/~cks/space/blog/unix/ChownRestrictionEarlyHistory)
 * [2025-10-13, 05:47:37](https://news.ycombinator.com/item?id=45565053) - [The Adventures and Experiences of the First Slovak Novel](https://publicdomainreview.org/essay/the-adventures-and-experiences-of-the-first-slovak-novel/)
 * [2025-10-12, 15:20:54](https://news.ycombinator.com/item?id=45558820) - [Cruz Godar Generative Art Gallery](https://cruzgodar.com/gallery/)
 * [2025-10-12, 09:40:56](https://news.ycombinator.com/item?id=45556827) - [Show HN: The Shape of YouTube](https://soy.leg.ovh/)
+* [2025-10-11, 05:36:54](https://news.ycombinator.com/item?id=45546862) - [The Underscore Music Player](https://kottke.org/25/10/the-underscore-music-player)
 
 ## [Archives](archives/index.md)
 
