@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-10-18, 04:56:47](https://news.ycombinator.com/item?id=45625029) - [The Majority AI View](https://www.anildash.com//2025/10/17/the-majority-ai-view/)
 * [2025-10-18, 01:49:06](https://news.ycombinator.com/item?id=45624186) - [Show HN: ServiceRadar – open-source Network Observability Platform](https://github.com/carverauto/serviceradar)
 * [2025-10-18, 01:03:22](https://news.ycombinator.com/item?id=45623917) - [The Unix Executable as a Smalltalk Method [pdf]](https://programmingmadecomplicated.wordpress.com/wp-content/uploads/2025/10/onward25-jakubovic.pdf)
 * [2025-10-18, 00:15:17](https://news.ycombinator.com/item?id=45623630) - [NeXT Computer Offices](https://archive.org/details/NeXTComputerOffices)
@@ -24,7 +25,6 @@
 * [2025-10-14, 16:29:42](https://news.ycombinator.com/item?id=45581988) - [Smithsonian Open Access](https://www.si.edu/openaccess)
 * [2025-10-14, 05:21:48](https://news.ycombinator.com/item?id=45576536) - [PlayStation 3 Architecture (2021)](https://www.copetti.org/writings/consoles/playstation-3)
 * [2025-10-13, 22:41:22](https://news.ycombinator.com/item?id=45574106) - [Researchers Discover the Optimal Way to Optimize](https://www.quantamagazine.org/researchers-discover-the-optimal-way-to-optimize-20251013/)
-* [2025-10-13, 08:29:04](https://news.ycombinator.com/item?id=45566098) - [Career Asymtotes](https://molochinations.substack.com/p/career-asymptotes)
 * [2025-10-12, 15:39:18](https://news.ycombinator.com/item?id=45559003) - [Spray Cooling – Recreating Supercomputer Cooling on a Desktop CPU [video]](https://www.youtube.com/watch?v=yEBSuk20gvc)
 * [2025-10-12, 08:46:57](https://news.ycombinator.com/item?id=45556536) - [Tahoe's Elephant](https://eclecticlight.co/2025/10/12/last-week-on-my-mac-tahoes-elephant/)
 * [2025-10-12, 07:35:18](https://news.ycombinator.com/item?id=45556104) - [The Wi-Fi Revolution (2003)](https://www.wired.com/2003/05/wifirevolution/)

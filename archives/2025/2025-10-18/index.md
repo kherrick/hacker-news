@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-10-18](index.md)
 
+* [2025-10-18, 04:56:47](https://news.ycombinator.com/item?id=45625029) - [The Majority AI View](https://www.anildash.com//2025/10/17/the-majority-ai-view/)
 * [2025-10-18, 04:31:59](https://news.ycombinator.com/item?id=45624908) - [The Richest Third-World Country](https://www.noahpinion.blog/p/the-richest-third-world-country)
 * [2025-10-18, 01:49:06](https://news.ycombinator.com/item?id=45624186) - [Show HN: ServiceRadar – open-source Network Observability Platform](https://github.com/carverauto/serviceradar)
 * [2025-10-18, 01:03:22](https://news.ycombinator.com/item?id=45623917) - [The Unix Executable as a Smalltalk Method (and Unix-Smalltalk Unification) [pdf]](https://programmingmadecomplicated.wordpress.com/wp-content/uploads/2025/10/onward25-jakubovic.pdf)
