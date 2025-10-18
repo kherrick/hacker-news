@@ -1,6 +1,46 @@
 [
   [
     [
+      "2025-10-18, 01:03:22",
+      "https://news.ycombinator.com/item?id=45623917"
+    ],
+    [
+      "The Unix Executable as a Smalltalk Method (and Unix-Smalltalk Unification) [pdf]",
+      "https://programmingmadecomplicated.wordpress.com/wp-content/uploads/2025/10/onward25-jakubovic.pdf"
+    ]
+  ],
+  [
+    [
+      "2025-10-18, 00:23:36",
+      "https://news.ycombinator.com/item?id=45623679"
+    ],
+    [
+      "Ring cameras are about to get increasingly chummy with law enforcement",
+      "https://arstechnica.com/gadgets/2025/10/ring-cameras-are-about-to-get-increasingly-chummy-with-law-enforcement/"
+    ]
+  ],
+  [
+    [
+      "2025-10-17, 23:58:06",
+      "https://news.ycombinator.com/item?id=45623526"
+    ],
+    [
+      "Jeep Wrangler Owners Waiting for Answers Week After an Update Bricked Their Cars",
+      "https://www.thedrive.com/news/jeep-wrangler-4xe-owners-still-waiting-for-answers-a-week-after-an-update-bricked-their-cars"
+    ]
+  ],
+  [
+    [
+      "2025-10-17, 22:36:48",
+      "https://news.ycombinator.com/item?id=45622944"
+    ],
+    [
+      "Every vibe-coded website is the same page with different words. So I made that",
+      "https://vibe-coded.lol/"
+    ]
+  ],
+  [
+    [
       "2025-10-17, 22:34:26",
       "https://news.ycombinator.com/item?id=45622923"
     ],
@@ -17,6 +57,16 @@
     [
       "WebMCP",
       "https://github.com/jasonjmcghee/WebMCP"
+    ]
+  ],
+  [
+    [
+      "2025-10-17, 21:34:37",
+      "https://news.ycombinator.com/item?id=45622365"
+    ],
+    [
+      "New Work by Gary Larson",
+      "https://www.thefarside.com/new-stuff"
     ]
   ],
   [
@@ -51,16 +101,6 @@
   ],
   [
     [
-      "2025-10-17, 18:39:34",
-      "https://news.ycombinator.com/item?id=45620333"
-    ],
-    [
-      "Forgejo v13.0 Is Available",
-      "https://forgejo.org/2025-10-release-v13-0/"
-    ]
-  ],
-  [
-    [
       "2025-10-17, 17:40:21",
       "https://news.ycombinator.com/item?id=45619537"
     ],
@@ -87,16 +127,6 @@
     [
       "The Rapper 50 Cent, Adjusted for Inflation",
       "https://50centadjustedforinflation.com/"
-    ]
-  ],
-  [
-    [
-      "2025-10-17, 16:22:07",
-      "https://news.ycombinator.com/item?id=45618536"
-    ],
-    [
-      "Show HN: We packaged an MCP server inside Chromium",
-      "https://github.com/browseros-ai/BrowserOS/blob/main/docs/browseros-mcp/how-to-guide.mdx"
     ]
   ],
   [
@@ -157,16 +187,6 @@
     [
       "4Chan Lawyer publishes Ofcom correspondence",
       "https://alecmuffett.com/article/117792"
-    ]
-  ],
-  [
-    [
-      "2025-10-17, 05:28:24",
-      "https://news.ycombinator.com/item?id=45613567"
-    ],
-    [
-      "Ask HN: How to stop an AWS bot sending 2B requests/month?",
-      "https://news.ycombinator.com/item?id=45613567"
     ]
   ],
   [
@@ -241,22 +261,22 @@
   ],
   [
     [
+      "2025-10-13, 22:41:22",
+      "https://news.ycombinator.com/item?id=45574106"
+    ],
+    [
+      "Researchers Discover the Optimal Way to Optimize",
+      "https://www.quantamagazine.org/researchers-discover-the-optimal-way-to-optimize-20251013/"
+    ]
+  ],
+  [
+    [
       "2025-10-13, 08:29:04",
       "https://news.ycombinator.com/item?id=45566098"
     ],
     [
       "Career Asymtotes",
       "https://molochinations.substack.com/p/career-asymptotes"
-    ]
-  ],
-  [
-    [
-      "2025-10-12, 15:55:50",
-      "https://news.ycombinator.com/item?id=45559145"
-    ],
-    [
-      "Cartridge Chaos: The Official Nintendo Region Converter and More",
-      "https://nicole.express/2025/not-just-for-robert.html"
     ]
   ],
   [
@@ -277,26 +297,6 @@
     [
       "MIT physicists improve the precision of atomic clocks",
       "https://news.mit.edu/2025/mit-physicists-improve-atomic-clocks-precision-1008"
-    ]
-  ],
-  [
-    [
-      "2025-10-10, 18:35:04",
-      "https://news.ycombinator.com/item?id=45542245"
-    ],
-    [
-      "Trap the Critters with Paint",
-      "https://deepanwadhwa.github.io/freeze_trap/"
-    ]
-  ],
-  [
-    [
-      "2025-10-09, 15:12:26",
-      "https://news.ycombinator.com/item?id=45528813"
-    ],
-    [
-      "Resizeable Bar Support on the Raspberry Pi",
-      "https://www.jeffgeerling.com/blog/2025/resizeable-bar-support-on-raspberry-pi"
     ]
   ]
 ]
