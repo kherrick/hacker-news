@@ -2,7 +2,6 @@
 
 * [2025-10-18, 17:02:22](https://news.ycombinator.com/item?id=45628761) - [Liva AI (YC S25) Is Hiring](https://www.ycombinator.com/companies/liva-ai/jobs/inrUYH9-founding-engineer)
 * [2025-10-18, 16:08:10](https://news.ycombinator.com/item?id=45628391) - [Tinnitus Neuromodulator](https://mynoise.net/NoiseMachines/neuromodulationTonesGenerator.php)
-* [2025-10-18, 15:56:22](https://news.ycombinator.com/item?id=45628315) - [Event Sourcing, CQRS and Micro Services: Real FinTech Example](https://lukasniessen.medium.com/this-is-a-detailed-breakdown-of-a-fintech-project-from-my-consulting-career-9ec61603709c)
 * [2025-10-18, 15:52:39](https://news.ycombinator.com/item?id=45628283) - [Picturing Mathematics](https://mathenchant.wordpress.com/2025/10/18/picturing-mathematics/)
 * [2025-10-18, 15:39:47](https://news.ycombinator.com/item?id=45628190) - [Attention is a luxury good](https://seths.blog/2025/10/attention-is-a-luxury-good/)
 * [2025-10-18, 14:33:22](https://news.ycombinator.com/item?id=45627692) - [Flowistry: An IDE plugin for Rust that focuses on relevant code](https://github.com/willcrichton/flowistry)
@@ -14,6 +13,7 @@
 * [2025-10-18, 09:55:06](https://news.ycombinator.com/item?id=45626130) - [./watch](https://dotslashwatch.com/)
 * [2025-10-18, 09:25:30](https://news.ycombinator.com/item?id=45626037) - [Fast calculation of the distance to cubic Bezier curves on the GPU](https://blog.pkh.me/p/46-fast-calculation-of-the-distance-to-cubic-bezier-curves-on-the-gpu.html)
 * [2025-10-18, 05:47:14](https://news.ycombinator.com/item?id=45625229) - [Chen-Ning Yang, Nobel laureate, dies at 103](https://www.chinadaily.com.cn/a/202510/18/WS68f3170ea310f735438b5bf2.html)
+* [2025-10-18, 04:26:19](https://news.ycombinator.com/item?id=45624888) - [AMD's Chiplet APU: An Overview of Strix Halo](https://chipsandcheese.com/p/amds-chiplet-apu-an-overview-of-strix)
 * [2025-10-17, 21:34:37](https://news.ycombinator.com/item?id=45622365) - [New Work by Gary Larson](https://www.thefarside.com/new-stuff)
 * [2025-10-17, 17:24:18](https://news.ycombinator.com/item?id=45619329) - [Andrej Karpathy – It will take a decade to work through the issues with agents](https://www.dwarkesh.com/p/andrej-karpathy)
 * [2025-10-17, 17:06:16](https://news.ycombinator.com/item?id=45619108) - [Is Postgres read heavy or write heavy?](https://www.crunchydata.com/blog/is-postgres-read-heavy-or-write-heavy-and-why-should-you-care)
