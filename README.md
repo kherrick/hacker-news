@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-10-18, 06:20:23](https://news.ycombinator.com/item?id=45625351) - [BBC Gaza documentary serious breach of rules](https://www.bbc.com/news/articles/c629j5m2n01o)
 * [2025-10-18, 05:52:47](https://news.ycombinator.com/item?id=45625251) - [StageConnect: Behringer protocol is open source](https://github.com/OpenMixerProject/StageConnect)
 * [2025-10-18, 04:56:47](https://news.ycombinator.com/item?id=45625029) - [The Majority AI View](https://www.anildash.com//2025/10/17/the-majority-ai-view/)
 * [2025-10-18, 04:26:19](https://news.ycombinator.com/item?id=45624888) - [AMD's Chiplet APU: An Overview of Strix Halo](https://chipsandcheese.com/p/amds-chiplet-apu-an-overview-of-strix)
@@ -19,7 +20,6 @@
 * [2025-10-17, 07:31:58](https://news.ycombinator.com/item?id=45614148) - [4Chan Lawyer publishes Ofcom correspondence](https://alecmuffett.com/article/117792)
 * [2025-10-16, 20:26:35](https://news.ycombinator.com/item?id=45610266) - [Claude Code vs. Codex: I built a sentiment dashboard from Reddit comments](https://www.aiengineering.report/p/claude-code-vs-codex-sentiment-analysis-reddit)
 * [2025-10-15, 14:40:42](https://news.ycombinator.com/item?id=45593358) - [Exploring PostgreSQL 18's new UUIDv7 support](https://aiven.io/blog/exploring-postgresql-18-new-uuidv7-support)
-* [2025-10-14, 16:29:42](https://news.ycombinator.com/item?id=45581988) - [Smithsonian Open Access](https://www.si.edu/openaccess)
 * [2025-10-14, 14:20:13](https://news.ycombinator.com/item?id=45580347) - [When if is just a function](https://ryelang.org/blog/posts/if-as-function-blogpost-working-on-it_ver1/)
 * [2025-10-14, 05:21:48](https://news.ycombinator.com/item?id=45576536) - [PlayStation 3 Architecture (2021)](https://www.copetti.org/writings/consoles/playstation-3)
 * [2025-10-13, 22:41:22](https://news.ycombinator.com/item?id=45574106) - [Researchers Discover the Optimal Way to Optimize](https://www.quantamagazine.org/researchers-discover-the-optimal-way-to-optimize-20251013/)
