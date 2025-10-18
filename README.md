@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-10-18, 04:31:59](https://news.ycombinator.com/item?id=45624908) - [The Richest Third-World Country](https://www.noahpinion.blog/p/the-richest-third-world-country)
 * [2025-10-18, 01:49:06](https://news.ycombinator.com/item?id=45624186) - [Show HN: ServiceRadar – open-source Network Observability Platform](https://github.com/carverauto/serviceradar)
 * [2025-10-18, 01:03:22](https://news.ycombinator.com/item?id=45623917) - [The Unix Executable as a Smalltalk Method [pdf]](https://programmingmadecomplicated.wordpress.com/wp-content/uploads/2025/10/onward25-jakubovic.pdf)
 * [2025-10-18, 00:15:17](https://news.ycombinator.com/item?id=45623630) - [NeXT Computer Offices](https://archive.org/details/NeXTComputerOffices)
+* [2025-10-17, 23:58:06](https://news.ycombinator.com/item?id=45623526) - [Jeep wrangler owners waiting for answers week after an update bricked their cars](https://www.thedrive.com/news/jeep-wrangler-4xe-owners-still-waiting-for-answers-a-week-after-an-update-bricked-their-cars)
 * [2025-10-17, 22:36:48](https://news.ycombinator.com/item?id=45622944) - [Every vibe-coded website is the same page with different words. So I made that](https://vibe-coded.lol/)
 * [2025-10-17, 21:57:44](https://news.ycombinator.com/item?id=45622604) - [WebMCP](https://github.com/jasonjmcghee/WebMCP)
 * [2025-10-17, 21:34:37](https://news.ycombinator.com/item?id=45622365) - [New Work by Gary Larson](https://www.thefarside.com/new-stuff)
