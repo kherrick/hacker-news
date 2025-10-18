@@ -26,8 +26,8 @@
 * [2025-10-17, 12:23:01](https://news.ycombinator.com/item?id=45615931) - [Live Stream from the Namib Desert](https://bookofjoe2.blogspot.com/2025/10/live-stream-from-namib-desert.html)
 * [2025-10-14, 15:58:27](https://news.ycombinator.com/item?id=45581602) - [Ruby Blocks](https://tech.stonecharioteer.com/posts/2025/ruby-blocks/)
 * [2025-10-14, 06:23:47](https://news.ycombinator.com/item?id=45576857) - [What Dynamic Typing Is For](https://unplannedobsolescence.com/blog/what-dynamic-typing-is-for/)
-* [2025-10-13, 16:47:45](https://news.ycombinator.com/item?id=45570517) - [The early Unix history of chown() being restricted to root](https://utcc.utoronto.ca/~cks/space/blog/unix/ChownRestrictionEarlyHistory)
 * [2025-10-13, 11:07:25](https://news.ycombinator.com/item?id=45567050) - [Who invented deep residual learning?](https://people.idsia.ch/~juergen/who-invented-residual-neural-networks.html)
+* [2025-10-13, 10:35:58](https://news.ycombinator.com/item?id=45566857) - [The Hunt for the World's Oldest Story](https://www.newyorker.com/magazine/2025/10/20/review-the-roots-of-ancient-mythology-books)
 * [2025-10-12, 18:54:21](https://news.ycombinator.com/item?id=45560738) - [Our Paint – a featureless but programmable painting program](https://www.WellObserve.com/OurPaint/index_en.html)
 * [2025-10-12, 15:20:54](https://news.ycombinator.com/item?id=45558820) - [Cruz Godar Generative Art Gallery](https://cruzgodar.com/gallery/)
 
