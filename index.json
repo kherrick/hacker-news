@@ -1,12 +1,32 @@
 [
   [
     [
+      "2025-10-18, 05:52:47",
+      "https://news.ycombinator.com/item?id=45625251"
+    ],
+    [
+      "StageConnect: Behringer protocol is open source",
+      "https://github.com/OpenMixerProject/StageConnect"
+    ]
+  ],
+  [
+    [
       "2025-10-18, 04:56:47",
       "https://news.ycombinator.com/item?id=45625029"
     ],
     [
       "The Majority AI View",
       "https://www.anildash.com//2025/10/17/the-majority-ai-view/"
+    ]
+  ],
+  [
+    [
+      "2025-10-18, 04:26:19",
+      "https://news.ycombinator.com/item?id=45624888"
+    ],
+    [
+      "AMD's Chiplet APU: An Overview of Strix Halo",
+      "https://chipsandcheese.com/p/amds-chiplet-apu-an-overview-of-strix"
     ]
   ],
   [
@@ -131,16 +151,6 @@
   ],
   [
     [
-      "2025-10-17, 12:15:53",
-      "https://news.ycombinator.com/item?id=45615863"
-    ],
-    [
-      "Ruby core team takes ownership of RubyGems and Bundler",
-      "https://www.ruby-lang.org/en/news/2025/10/17/rubygems-repository-transition/"
-    ]
-  ],
-  [
-    [
       "2025-10-17, 10:56:40",
       "https://news.ycombinator.com/item?id=45615237"
     ],
@@ -181,32 +191,12 @@
   ],
   [
     [
-      "2025-10-16, 20:22:48",
-      "https://news.ycombinator.com/item?id=45610226"
-    ],
-    [
-      "How I bypassed Amazon's Kindle web DRM",
-      "https://blog.pixelmelt.dev/kindle-web-drm/"
-    ]
-  ],
-  [
-    [
       "2025-10-15, 14:40:42",
       "https://news.ycombinator.com/item?id=45593358"
     ],
     [
       "Exploring PostgreSQL 18's new UUIDv7 support",
       "https://aiven.io/blog/exploring-postgresql-18-new-uuidv7-support"
-    ]
-  ],
-  [
-    [
-      "2025-10-14, 16:29:42",
-      "https://news.ycombinator.com/item?id=45581988"
-    ],
-    [
-      "Smithsonian Open Access",
-      "https://www.si.edu/openaccess"
     ]
   ],
   [
@@ -277,6 +267,16 @@
     [
       "The Wi-Fi Revolution (2003)",
       "https://www.wired.com/2003/05/wifirevolution/"
+    ]
+  ],
+  [
+    [
+      "2025-10-12, 05:58:21",
+      "https://news.ycombinator.com/item?id=45555647"
+    ],
+    [
+      "PSOS-C and the Full Attribution Chain",
+      "https://www.aivojournal.org/closing-the-loop/"
     ]
   ],
   [
