@@ -21,7 +21,7 @@
 * [2025-10-16, 22:04:57](https://news.ycombinator.com/item?id=45611252) - [K8s with 1M nodes](https://bchess.github.io/k8s-1m/)
 * [2025-10-16, 19:57:41](https://news.ycombinator.com/item?id=45609986) - [When you opened a screen shot of a video in Paint, the video was playing in it](https://devblogs.microsoft.com/oldnewthing/20251014-00/?p=111681)
 * [2025-10-16, 15:56:05](https://news.ycombinator.com/item?id=45606986) - [Secret diplomatic message deciphered after 350 years](https://www.nationalarchives.gov.uk/explore-the-collection/the-collection-blog/secret-diplomatic-message-deciphered-after-350-years/)
-* [2025-10-16, 10:56:50](https://news.ycombinator.com/item?id=45603876) - [Solution to CIA’s kryptos sculpture is found in Smithsonian vault](https://www.nytimes.com/2025/10/16/science/kryptos-cia-solution-sanborn-auction.html)
+* [2025-10-16, 10:56:50](https://news.ycombinator.com/item?id=45603876) - [Solution to CIA’s Kryptos sculpture is found in Smithsonian vault](https://www.nytimes.com/2025/10/16/science/kryptos-cia-solution-sanborn-auction.html)
 * [2025-10-16, 01:25:28](https://news.ycombinator.com/item?id=45600470) - [Coral NPU: A full-stack platform for Edge AI](https://research.google/blog/coral-npu-a-full-stack-platform-for-edge-ai/)
 * [2025-10-14, 19:50:57](https://news.ycombinator.com/item?id=45583999) - [Why the open social web matters now](https://werd.io/why-the-open-social-web-matters-now/)
 * [2025-10-14, 15:58:27](https://news.ycombinator.com/item?id=45581602) - [Ruby Blocks](https://tech.stonecharioteer.com/posts/2025/ruby-blocks/)
