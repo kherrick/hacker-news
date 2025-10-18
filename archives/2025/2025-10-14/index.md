@@ -56,6 +56,7 @@
 * [2025-10-14, 10:38:48](https://news.ycombinator.com/item?id=45578383) - [ADS-B Exposed](https://adsb.exposed/)
 * [2025-10-14, 10:30:32](https://news.ycombinator.com/item?id=45578318) - [Prime Minister Anthony Albanese's mobile phone number made available online](https://www.abc.net.au/news/2025-10-14/anthony-albanese-mobile-phone-number-available-online/105889284)
 * [2025-10-14, 09:54:53](https://news.ycombinator.com/item?id=45578117) - [KDE celebrates the 29th birthday and kicks off the yearly fundraiser](https://kde.org/fundraisers/yearend2025/)
+* [2025-10-14, 08:01:44](https://news.ycombinator.com/item?id=45577377) - [What's the Deal with GitHub Spec Kit](https://den.dev/blog/github-spec-kit/)
 * [2025-10-14, 07:30:20](https://news.ycombinator.com/item?id=45577193) - [I let my AI agents run unsupervised and they burned $200 in 2 hours](https://blog.justcopy.ai/p/i-let-my-ai-agents-run-unsupervised)
 * [2025-10-14, 07:08:02](https://news.ycombinator.com/item?id=45577080) - [Why the push for Agentic when models can barely follow a simple instruction?](https://forum.cursor.com/t/why-the-push-for-agentic-when-models-can-barely-follow-a-single-simple-instruction/137154)
 * [2025-10-14, 05:36:57](https://news.ycombinator.com/item?id=45576623) - [Why Study Programming Languages](https://people.csail.mit.edu/rachit/post/why-study-programming-languages/)
