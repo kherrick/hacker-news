@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-10-18](index.md)
 
 * [2025-10-18, 17:02:22](https://news.ycombinator.com/item?id=45628761) - [Liva AI (YC S25) Is Hiring](https://www.ycombinator.com/companies/liva-ai/jobs/inrUYH9-founding-engineer)
+* [2025-10-18, 16:25:58](https://news.ycombinator.com/item?id=45628499) - [Atuin desktop: Runbooks that run](https://github.com/atuinsh/desktop)
 * [2025-10-18, 16:08:10](https://news.ycombinator.com/item?id=45628391) - [Tinnitus Neuromodulator](https://mynoise.net/NoiseMachines/neuromodulationTonesGenerator.php)
 * [2025-10-18, 16:04:37](https://news.ycombinator.com/item?id=45628373) - [Testosterone Administration Induces a Red Shift in Democrats](https://pmc.ncbi.nlm.nih.gov/articles/PMC12230349/)
 * [2025-10-18, 16:01:04](https://news.ycombinator.com/item?id=45628361) - [Alibaba Cloud: AI Models, Reducing Footprint of Nvidia GPUs, and Cloud Streaming](https://boilingsteam.com/tgs2025-a-talk-with-alibaba-cloud/)
