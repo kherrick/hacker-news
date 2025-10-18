@@ -10,6 +10,7 @@
 * [2025-10-18, 16:01:04](https://news.ycombinator.com/item?id=45628361) - [Alibaba Cloud: AI Models, Reducing Footprint of Nvidia GPUs, and Cloud Streaming](https://boilingsteam.com/tgs2025-a-talk-with-alibaba-cloud/)
 * [2025-10-18, 15:59:58](https://news.ycombinator.com/item?id=45628348) - [Free Programing Books](https://github.com/EbookFoundation/free-programming-books)
 * [2025-10-18, 15:56:22](https://news.ycombinator.com/item?id=45628315) - [Event Sourcing, CQRS and Micro Services: Real FinTech Example](https://lukasniessen.medium.com/this-is-a-detailed-breakdown-of-a-fintech-project-from-my-consulting-career-9ec61603709c)
+* [2025-10-18, 15:52:39](https://news.ycombinator.com/item?id=45628283) - [Picturing Mathematics](https://mathenchant.wordpress.com/2025/10/18/picturing-mathematics/)
 * [2025-10-18, 15:52:08](https://news.ycombinator.com/item?id=45628279) - [Solving the NYTimes Pips puzzle with a constraint solver](https://www.righto.com/2025/10/solve-nyt-pips-with-constraints.html)
 * [2025-10-18, 15:39:47](https://news.ycombinator.com/item?id=45628190) - [Attention Is a Luxury Good](https://seths.blog/2025/10/attention-is-a-luxury-good/)
 * [2025-10-18, 15:39:29](https://news.ycombinator.com/item?id=45628186) - [Meta convinces Blue Owl to cut $30B check for its Hyperion AI super cluster](https://www.theregister.com/2025/10/17/meta_blue_owl_hyperion/)
