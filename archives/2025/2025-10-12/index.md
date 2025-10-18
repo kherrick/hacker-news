@@ -52,6 +52,7 @@
 * [2025-10-12, 11:08:58](https://news.ycombinator.com/item?id=45557267) - [Blood test detecting Long Covid in kids with 94% accuracy microclots](https://www.researchsquare.com/article/rs-7483367/v1)
 * [2025-10-12, 11:06:50](https://news.ycombinator.com/item?id=45557256) - [A New Algorithm Makes It Faster to Find the Shortest Paths](https://www.wired.com/story/new-method-is-the-fastest-way-to-find-the-best-routes/)
 * [2025-10-12, 10:59:15](https://news.ycombinator.com/item?id=45557217) - [Looking at kmalloc() and the SLUB Memory Allocator (2019)](https://ruffell.nz/programming/writeups/2019/02/15/looking-at-kmalloc-and-the-slub-memory-allocator.html)
+* [2025-10-12, 10:47:24](https://news.ycombinator.com/item?id=45557157) - [Cyberpsychology's Influence on Modern Computing](https://cacm.acm.org/research/cyberpsychologys-influence-on-modern-computing/)
 * [2025-10-12, 10:19:34](https://news.ycombinator.com/item?id=45557013) - [Why Wikipedia cannot claim the Earth is not flat](https://en.wikipedia.org/wiki/Wikipedia:Why_Wikipedia_cannot_claim_the_Earth_is_not_flat)
 * [2025-10-12, 10:08:02](https://news.ycombinator.com/item?id=45556952) - [Macro Gaussian Splats](https://danybittel.ch/macro.html)
 * [2025-10-12, 09:57:34](https://news.ycombinator.com/item?id=45556904) - [Peeking Inside Gigantic Zips with Only Kilobytes](https://ritiksahni.com/blog/peeking-inside-gigantic-zips-with-only-kilobytes/)
