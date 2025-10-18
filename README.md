@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-10-18, 13:24:41](https://news.ycombinator.com/item?id=45627171) - [Game over. AGI is not imminent, and LLMs are not the royal road to getting there](https://garymarcus.substack.com/p/the-last-few-months-have-been-devastating)
 * [2025-10-18, 12:44:16](https://news.ycombinator.com/item?id=45626910) - [The IDEs we had 30 years ago ... and we lost](https://blogsystem5.substack.com/p/the-ides-we-had-30-years-ago-and)
 * [2025-10-18, 12:40:43](https://news.ycombinator.com/item?id=45626892) - [US falls out of 10 most powerful passports list for first time in 20 yrs](https://www.theguardian.com/us-news/2025/oct/15/most-powerful-passports-world-list)
 * [2025-10-18, 11:39:59](https://news.ycombinator.com/item?id=45626549) - [MD RAID or DRBD can be broken from userspace when using O_DIRECT](https://bugzilla.kernel.org/show_bug.cgi?id=99171)
@@ -20,7 +21,6 @@
 * [2025-10-17, 12:23:01](https://news.ycombinator.com/item?id=45615931) - [Live Stream from the Namib Desert](https://bookofjoe2.blogspot.com/2025/10/live-stream-from-namib-desert.html)
 * [2025-10-17, 10:56:40](https://news.ycombinator.com/item?id=45615237) - [EVs are depreciating faster than gas-powered cars](https://restofworld.org/2025/ev-depreciation-blusmart-collapse/)
 * [2025-10-17, 07:31:58](https://news.ycombinator.com/item?id=45614148) - [4Chan Lawyer publishes Ofcom correspondence](https://alecmuffett.com/article/117792)
-* [2025-10-16, 20:26:35](https://news.ycombinator.com/item?id=45610266) - [Claude Code vs. Codex: I built a sentiment dashboard from Reddit comments](https://www.aiengineering.report/p/claude-code-vs-codex-sentiment-analysis-reddit)
 * [2025-10-15, 14:40:42](https://news.ycombinator.com/item?id=45593358) - [Exploring PostgreSQL 18's new UUIDv7 support](https://aiven.io/blog/exploring-postgresql-18-new-uuidv7-support)
 * [2025-10-14, 15:58:27](https://news.ycombinator.com/item?id=45581602) - [Ruby Blocks](https://tech.stonecharioteer.com/posts/2025/ruby-blocks/)
 * [2025-10-14, 14:20:13](https://news.ycombinator.com/item?id=45580347) - [When if is just a function](https://ryelang.org/blog/posts/if-as-function-blogpost-working-on-it_ver1/)
