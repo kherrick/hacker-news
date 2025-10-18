@@ -21,16 +21,6 @@
   ],
   [
     [
-      "2025-10-18, 15:59:58",
-      "https://news.ycombinator.com/item?id=45628348"
-    ],
-    [
-      "Free Programing Books",
-      "https://github.com/EbookFoundation/free-programming-books"
-    ]
-  ],
-  [
-    [
       "2025-10-18, 15:56:22",
       "https://news.ycombinator.com/item?id=45628315"
     ],
@@ -91,6 +81,16 @@
   ],
   [
     [
+      "2025-10-18, 13:08:30",
+      "https://news.ycombinator.com/item?id=45627048"
+    ],
+    [
+      "Using CUE to unify IoT sensor data",
+      "https://aran.dev/posts/cue/using-cue-to-unify-iot-sensor-data/"
+    ]
+  ],
+  [
+    [
       "2025-10-18, 12:56:50",
       "https://news.ycombinator.com/item?id=45626985"
     ],
@@ -141,26 +141,6 @@
   ],
   [
     [
-      "2025-10-18, 08:31:01",
-      "https://news.ycombinator.com/item?id=45625848"
-    ],
-    [
-      "Life, Work, Death and the Peasant, Part V: Life in Cycles",
-      "https://acoup.blog/2025/10/17/collections-life-work-death-and-the-peasant-part-v-life-in-cycles/"
-    ]
-  ],
-  [
-    [
-      "2025-10-18, 05:52:47",
-      "https://news.ycombinator.com/item?id=45625251"
-    ],
-    [
-      "StageConnect: Behringer protocol is open source",
-      "https://github.com/OpenMixerProject/StageConnect"
-    ]
-  ],
-  [
-    [
       "2025-10-18, 05:47:14",
       "https://news.ycombinator.com/item?id=45625229"
     ],
@@ -181,16 +161,6 @@
   ],
   [
     [
-      "2025-10-18, 01:03:22",
-      "https://news.ycombinator.com/item?id=45623917"
-    ],
-    [
-      "The Unix Executable as a Smalltalk Method [pdf]",
-      "https://programmingmadecomplicated.wordpress.com/wp-content/uploads/2025/10/onward25-jakubovic.pdf"
-    ]
-  ],
-  [
-    [
       "2025-10-17, 21:34:37",
       "https://news.ycombinator.com/item?id=45622365"
     ],
@@ -201,32 +171,82 @@
   ],
   [
     [
-      "2025-10-17, 19:37:16",
-      "https://news.ycombinator.com/item?id=45621074"
-    ],
-    [
-      "The pivot",
-      "https://www.antipope.org/charlie/blog-static/2025/10/the-pivot-1.html"
-    ]
-  ],
-  [
-    [
-      "2025-10-17, 17:40:21",
-      "https://news.ycombinator.com/item?id=45619537"
-    ],
-    [
-      "Claude Skills are awesome, maybe a bigger deal than MCP",
-      "https://simonwillison.net/2025/Oct/16/claude-skills/"
-    ]
-  ],
-  [
-    [
       "2025-10-17, 17:24:18",
       "https://news.ycombinator.com/item?id=45619329"
     ],
     [
       "Andrej Karpathy – It will take a decade to work through the issues with agents",
       "https://www.dwarkesh.com/p/andrej-karpathy"
+    ]
+  ],
+  [
+    [
+      "2025-10-17, 17:06:16",
+      "https://news.ycombinator.com/item?id=45619108"
+    ],
+    [
+      "Is Postgres read heavy or write heavy?",
+      "https://www.crunchydata.com/blog/is-postgres-read-heavy-or-write-heavy-and-why-should-you-care"
+    ]
+  ],
+  [
+    [
+      "2025-10-17, 06:39:09",
+      "https://news.ycombinator.com/item?id=45613898"
+    ],
+    [
+      "Titan submersible’s $62 SanDisk memory card found undamaged at wreckage site",
+      "https://www.tomshardware.com/pc-components/microsd-cards/tragic-oceangate-titan-submersibles-usd62-sandisk-memory-card-found-undamaged-at-wreckage-site-12-stills-and-nine-videos-have-been-recovered-but-none-from-the-fateful-implosion"
+    ]
+  ],
+  [
+    [
+      "2025-10-16, 22:04:57",
+      "https://news.ycombinator.com/item?id=45611252"
+    ],
+    [
+      "K8s with 1M nodes",
+      "https://bchess.github.io/k8s-1m/"
+    ]
+  ],
+  [
+    [
+      "2025-10-16, 19:57:41",
+      "https://news.ycombinator.com/item?id=45609986"
+    ],
+    [
+      "When you opened a screen shot of a video in Paint, the video was playing in it",
+      "https://devblogs.microsoft.com/oldnewthing/20251014-00/?p=111681"
+    ]
+  ],
+  [
+    [
+      "2025-10-16, 15:56:05",
+      "https://news.ycombinator.com/item?id=45606986"
+    ],
+    [
+      "Secret diplomatic message deciphered after 350 years",
+      "https://www.nationalarchives.gov.uk/explore-the-collection/the-collection-blog/secret-diplomatic-message-deciphered-after-350-years/"
+    ]
+  ],
+  [
+    [
+      "2025-10-16, 10:56:50",
+      "https://news.ycombinator.com/item?id=45603876"
+    ],
+    [
+      "Solution to CIA’s kryptos sculpture is found in Smithsonian vault",
+      "https://www.nytimes.com/2025/10/16/science/kryptos-cia-solution-sanborn-auction.html"
+    ]
+  ],
+  [
+    [
+      "2025-10-16, 01:25:28",
+      "https://news.ycombinator.com/item?id=45600470"
+    ],
+    [
+      "Coral NPU: A full-stack platform for Edge AI",
+      "https://research.google/blog/coral-npu-a-full-stack-platform-for-edge-ai/"
     ]
   ],
   [
@@ -251,32 +271,12 @@
   ],
   [
     [
-      "2025-10-13, 16:47:45",
-      "https://news.ycombinator.com/item?id=45570517"
-    ],
-    [
-      "The early Unix history of chown() being restricted to root",
-      "https://utcc.utoronto.ca/~cks/space/blog/unix/ChownRestrictionEarlyHistory"
-    ]
-  ],
-  [
-    [
       "2025-10-13, 11:07:25",
       "https://news.ycombinator.com/item?id=45567050"
     ],
     [
       "Who invented deep residual learning?",
       "https://people.idsia.ch/~juergen/who-invented-residual-neural-networks.html"
-    ]
-  ],
-  [
-    [
-      "2025-10-13, 10:35:58",
-      "https://news.ycombinator.com/item?id=45566857"
-    ],
-    [
-      "The Hunt for the World's Oldest Story",
-      "https://www.newyorker.com/magazine/2025/10/20/review-the-roots-of-ancient-mythology-books"
     ]
   ],
   [
@@ -291,12 +291,12 @@
   ],
   [
     [
-      "2025-10-12, 15:20:54",
-      "https://news.ycombinator.com/item?id=45558820"
+      "2025-10-12, 09:40:56",
+      "https://news.ycombinator.com/item?id=45556827"
     ],
     [
-      "Cruz Godar Generative Art Gallery",
-      "https://cruzgodar.com/gallery/"
+      "Show HN: The Shape of YouTube",
+      "https://soy.leg.ovh/"
     ]
   ]
 ]
