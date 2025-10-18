@@ -37,6 +37,7 @@
 * [2025-10-12, 15:48:28](https://news.ycombinator.com/item?id=45559076) - [How I'm Using Helix Editor](https://rushter.com/blog/helix-editor/)
 * [2025-10-12, 15:44:15](https://news.ycombinator.com/item?id=45559040) - [A liver transplant from start to finish](https://press.asimov.com/articles/liver)
 * [2025-10-12, 15:42:00](https://news.ycombinator.com/item?id=45559023) - [No I don't want to turn on Windows Backup with One Drive](https://idiallo.com/byte-size/say-no-to-onedrive-backup)
+* [2025-10-12, 15:39:18](https://news.ycombinator.com/item?id=45559003) - [Spray Cooling – Recreating Supercomputer Cooling on a Desktop CPU [video]](https://www.youtube.com/watch?v=yEBSuk20gvc)
 * [2025-10-12, 14:53:45](https://news.ycombinator.com/item?id=45558635) - [Germany's Schleswig-Holstein Completes Migration to Open Source Email](https://news.itsfoss.com/schleswig-holstein-email-system-migration/)
 * [2025-10-12, 14:49:50](https://news.ycombinator.com/item?id=45558611) - [Show HN: I built a simple ambient sound app with no ads or subscriptions](https://ambisounds.app/)
 * [2025-10-12, 14:42:37](https://news.ycombinator.com/item?id=45558566) - [Thread First – A model for chat experiences](https://progressdb.dev/docs/blog-thread-first)
