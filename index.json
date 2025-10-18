@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2025-10-18, 16:25:58",
-      "https://news.ycombinator.com/item?id=45628499"
-    ],
-    [
-      "Atuin desktop: Runbooks that run",
-      "https://github.com/atuinsh/desktop"
-    ]
-  ],
-  [
-    [
       "2025-10-18, 16:08:10",
       "https://news.ycombinator.com/item?id=45628391"
     ],
@@ -65,7 +55,7 @@
       "https://news.ycombinator.com/item?id=45628190"
     ],
     [
-      "Attention Is a Luxury Good",
+      "Attention is a luxury good",
       "https://seths.blog/2025/10/attention-is-a-luxury-good/"
     ]
   ],
@@ -105,7 +95,7 @@
       "https://news.ycombinator.com/item?id=45627324"
     ],
     [
-      "Ripgrep 15.0.0",
+      "Ripgrep 15.0",
       "https://github.com/BurntSushi/ripgrep/releases/tag/15.0.0"
     ]
   ],
@@ -171,12 +161,12 @@
   ],
   [
     [
-      "2025-10-18, 05:52:47",
-      "https://news.ycombinator.com/item?id=45625251"
+      "2025-10-18, 05:47:14",
+      "https://news.ycombinator.com/item?id=45625229"
     ],
     [
-      "StageConnect: Behringer protocol is open source",
-      "https://github.com/OpenMixerProject/StageConnect"
+      "Chen-Ning Yang, Nobel laureate, dies at 103",
+      "https://www.chinadaily.com.cn/a/202510/18/WS68f3170ea310f735438b5bf2.html"
     ]
   ],
   [
@@ -257,6 +247,16 @@
     [
       "What Dynamic Typing Is For",
       "https://unplannedobsolescence.com/blog/what-dynamic-typing-is-for/"
+    ]
+  ],
+  [
+    [
+      "2025-10-13, 16:47:45",
+      "https://news.ycombinator.com/item?id=45570517"
+    ],
+    [
+      "The early Unix history of chown() being restricted to root",
+      "https://utcc.utoronto.ca/~cks/space/blog/unix/ChownRestrictionEarlyHistory"
     ]
   ],
   [
