@@ -6,6 +6,7 @@
 
 * [2025-10-18, 17:02:22](https://news.ycombinator.com/item?id=45628761) - [Liva AI (YC S25) Is Hiring](https://www.ycombinator.com/companies/liva-ai/jobs/inrUYH9-founding-engineer)
 * [2025-10-18, 16:08:10](https://news.ycombinator.com/item?id=45628391) - [Tinnitus Neuromodulator](https://mynoise.net/NoiseMachines/neuromodulationTonesGenerator.php)
+* [2025-10-18, 16:04:37](https://news.ycombinator.com/item?id=45628373) - [Testosterone Administration Induces a Red Shift in Democrats](https://pmc.ncbi.nlm.nih.gov/articles/PMC12230349/)
 * [2025-10-18, 16:01:04](https://news.ycombinator.com/item?id=45628361) - [Alibaba Cloud: AI Models, Reducing Footprint of Nvidia GPUs, and Cloud Streaming](https://boilingsteam.com/tgs2025-a-talk-with-alibaba-cloud/)
 * [2025-10-18, 15:59:58](https://news.ycombinator.com/item?id=45628348) - [Free Programing Books](https://github.com/EbookFoundation/free-programming-books)
 * [2025-10-18, 15:56:22](https://news.ycombinator.com/item?id=45628315) - [Event Sourcing, CQRS and Micro Services: Real FinTech Example](https://lukasniessen.medium.com/this-is-a-detailed-breakdown-of-a-fintech-project-from-my-consulting-career-9ec61603709c)
