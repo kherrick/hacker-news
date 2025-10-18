@@ -27,7 +27,7 @@
 * [2025-10-14, 05:21:48](https://news.ycombinator.com/item?id=45576536) - [PlayStation 3 Architecture (2021)](https://www.copetti.org/writings/consoles/playstation-3)
 * [2025-10-13, 16:47:45](https://news.ycombinator.com/item?id=45570517) - [The early Unix history of chown() being restricted to root](https://utcc.utoronto.ca/~cks/space/blog/unix/ChownRestrictionEarlyHistory)
 * [2025-10-12, 15:20:54](https://news.ycombinator.com/item?id=45558820) - [Cruz Godar Generative Art Gallery](https://cruzgodar.com/gallery/)
-* [2025-10-12, 07:35:18](https://news.ycombinator.com/item?id=45556104) - [The Wi-Fi Revolution (2003)](https://www.wired.com/2003/05/wifirevolution/)
+* [2025-10-12, 09:40:56](https://news.ycombinator.com/item?id=45556827) - [Show HN: The Shape of YouTube](https://soy.leg.ovh/)
 * [2025-10-11, 05:36:54](https://news.ycombinator.com/item?id=45546862) - [The Underscore Music Player](https://kottke.org/25/10/the-underscore-music-player)
 * [2025-10-09, 21:15:20](https://news.ycombinator.com/item?id=45533171) - [Second Chances on YouTube](https://blog.youtube/inside-youtube/second-chances-on-youtube/)
 

@@ -57,6 +57,7 @@
 * [2025-10-12, 10:19:34](https://news.ycombinator.com/item?id=45557013) - [Why Wikipedia cannot claim the Earth is not flat](https://en.wikipedia.org/wiki/Wikipedia:Why_Wikipedia_cannot_claim_the_Earth_is_not_flat)
 * [2025-10-12, 10:08:02](https://news.ycombinator.com/item?id=45556952) - [Macro Gaussian Splats](https://danybittel.ch/macro.html)
 * [2025-10-12, 09:57:34](https://news.ycombinator.com/item?id=45556904) - [Peeking Inside Gigantic Zips with Only Kilobytes](https://ritiksahni.com/blog/peeking-inside-gigantic-zips-with-only-kilobytes/)
+* [2025-10-12, 09:40:56](https://news.ycombinator.com/item?id=45556827) - [Show HN: The Shape of YouTube](https://soy.leg.ovh/)
 * [2025-10-12, 09:24:43](https://news.ycombinator.com/item?id=45556763) - [Nostr and ATProto (2024)](https://shreyanjain.net/2024/07/05/nostr-and-atproto.html)
 * [2025-10-12, 09:21:29](https://news.ycombinator.com/item?id=45556741) - [Why it took 4 years to get a lock files specification](https://snarky.ca/why-it-took-4-years-to-get-a-lock-files-specification/)
 * [2025-10-12, 08:46:57](https://news.ycombinator.com/item?id=45556536) - [Tahoe's Elephant](https://eclecticlight.co/2025/10/12/last-week-on-my-mac-tahoes-elephant/)
