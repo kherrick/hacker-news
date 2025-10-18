@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-10-18, 17:02:22](https://news.ycombinator.com/item?id=45628761) - [Liva AI (YC S25) Is Hiring](https://www.ycombinator.com/companies/liva-ai/jobs/inrUYH9-founding-engineer)
 * [2025-10-18, 16:08:10](https://news.ycombinator.com/item?id=45628391) - [Tinnitus Neuromodulator](https://mynoise.net/NoiseMachines/neuromodulationTonesGenerator.php)
 * [2025-10-18, 15:59:58](https://news.ycombinator.com/item?id=45628348) - [Free Programing Books](https://github.com/EbookFoundation/free-programming-books)
 * [2025-10-18, 15:56:22](https://news.ycombinator.com/item?id=45628315) - [Event Sourcing, CQRS and Micro Services: Real FinTech Example](https://lukasniessen.medium.com/this-is-a-detailed-breakdown-of-a-fintech-project-from-my-consulting-career-9ec61603709c)
@@ -25,7 +26,6 @@
 * [2025-10-17, 17:24:18](https://news.ycombinator.com/item?id=45619329) - [Andrej Karpathy – It will take a decade to work through the issues with agents](https://www.dwarkesh.com/p/andrej-karpathy)
 * [2025-10-17, 12:23:01](https://news.ycombinator.com/item?id=45615931) - [Live Stream from the Namib Desert](https://bookofjoe2.blogspot.com/2025/10/live-stream-from-namib-desert.html)
 * [2025-10-14, 15:58:27](https://news.ycombinator.com/item?id=45581602) - [Ruby Blocks](https://tech.stonecharioteer.com/posts/2025/ruby-blocks/)
-* [2025-10-14, 05:21:48](https://news.ycombinator.com/item?id=45576536) - [PlayStation 3 Architecture (2021)](https://www.copetti.org/writings/consoles/playstation-3)
 * [2025-10-13, 16:47:45](https://news.ycombinator.com/item?id=45570517) - [The early Unix history of chown() being restricted to root](https://utcc.utoronto.ca/~cks/space/blog/unix/ChownRestrictionEarlyHistory)
 * [2025-10-13, 11:07:25](https://news.ycombinator.com/item?id=45567050) - [Who invented deep residual learning?](https://people.idsia.ch/~juergen/who-invented-residual-neural-networks.html)
 * [2025-10-12, 18:54:21](https://news.ycombinator.com/item?id=45560738) - [Our Paint – a featureless but programmable painting program](https://www.WellObserve.com/OurPaint/index_en.html)
