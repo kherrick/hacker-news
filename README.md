@@ -28,8 +28,8 @@
 * [2025-10-14, 06:23:47](https://news.ycombinator.com/item?id=45576857) - [What Dynamic Typing Is For](https://unplannedobsolescence.com/blog/what-dynamic-typing-is-for/)
 * [2025-10-13, 15:48:33](https://news.ycombinator.com/item?id=45569692) - [Carbonized 1,300-Year-Old Bread Loaves Unearthed in Turkey](https://ancientist.com/1300-year-old-communion-bread-unearthed-in-karaman-a-loaf-for-the-farmer-christ/)
 * [2025-10-13, 11:07:25](https://news.ycombinator.com/item?id=45567050) - [Who invented deep residual learning?](https://people.idsia.ch/~juergen/who-invented-residual-neural-networks.html)
+* [2025-10-12, 23:27:08](https://news.ycombinator.com/item?id=45563021) - [Satellite images show ancient hunting traps used by South American social groups](https://phys.org/news/2025-10-satellite-images-reveal-ancient-south.html)
 * [2025-10-12, 18:54:21](https://news.ycombinator.com/item?id=45560738) - [Our Paint – A featureless but programmable painting program](https://www.WellObserve.com/OurPaint/index_en.html)
-* [2025-10-12, 09:40:56](https://news.ycombinator.com/item?id=45556827) - [Show HN: The Shape of YouTube](https://soy.leg.ovh/)
 
 ## [Archives](archives/index.md)
 
