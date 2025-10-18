@@ -5,8 +5,38 @@
       "https://news.ycombinator.com/item?id=45626130"
     ],
     [
-      "./Watch",
+      "./watch",
       "https://dotslashwatch.com/"
+    ]
+  ],
+  [
+    [
+      "2025-10-18, 09:34:56",
+      "https://news.ycombinator.com/item?id=45626070"
+    ],
+    [
+      "US Seizes 15B BTC, Indicts Chairman: Forced Labor Scam Compounds, Crypto Fraud",
+      "https://www.justice.gov/opa/pr/chairman-prince-group-indicted-operating-cambodian-forced-labor-scam-compounds-engaged"
+    ]
+  ],
+  [
+    [
+      "2025-10-18, 09:25:30",
+      "https://news.ycombinator.com/item?id=45626037"
+    ],
+    [
+      "Fast calculation of the distance to cubic Bezier curves on the GPU",
+      "https://blog.pkh.me/p/46-fast-calculation-of-the-distance-to-cubic-bezier-curves-on-the-gpu.html"
+    ]
+  ],
+  [
+    [
+      "2025-10-18, 08:14:49",
+      "https://news.ycombinator.com/item?id=45625764"
+    ],
+    [
+      "Windows 10 refugees flock to Linux in what devs call their \"biggest launch\"",
+      "https://www.neowin.net/news/windows-10-refugees-flock-to-linux-in-what-devs-call-their-biggest-launch-ever/"
     ]
   ],
   [
@@ -17,6 +47,16 @@
     [
       "StageConnect: Behringer protocol is open source",
       "https://github.com/OpenMixerProject/StageConnect"
+    ]
+  ],
+  [
+    [
+      "2025-10-18, 04:55:16",
+      "https://news.ycombinator.com/item?id=45625018"
+    ],
+    [
+      "How I ditched smartphones",
+      "https://discuss.techlore.tech/t/how-i-ditched-smartphones/15315"
     ]
   ],
   [
@@ -141,16 +181,6 @@
   ],
   [
     [
-      "2025-10-17, 09:15:25",
-      "https://news.ycombinator.com/item?id=45614713"
-    ],
-    [
-      "Amazon’s Ring to partner with Flock",
-      "https://techcrunch.com/2025/10/16/amazons-ring-to-partner-with-flock-a-network-of-ai-cameras-used-by-ice-feds-and-police/"
-    ]
-  ],
-  [
-    [
       "2025-10-17, 07:31:58",
       "https://news.ycombinator.com/item?id=45614148"
     ],
@@ -167,16 +197,6 @@
     [
       "Claude Code vs. Codex: I built a sentiment dashboard from Reddit comments",
       "https://www.aiengineering.report/p/claude-code-vs-codex-sentiment-analysis-reddit"
-    ]
-  ],
-  [
-    [
-      "2025-10-16, 20:22:48",
-      "https://news.ycombinator.com/item?id=45610226"
-    ],
-    [
-      "How I bypassed Amazon's Kindle web DRM",
-      "https://blog.pixelmelt.dev/kindle-web-drm/"
     ]
   ],
   [
@@ -221,16 +241,6 @@
   ],
   [
     [
-      "2025-10-13, 22:41:22",
-      "https://news.ycombinator.com/item?id=45574106"
-    ],
-    [
-      "Researchers Discover the Optimal Way to Optimize",
-      "https://www.quantamagazine.org/researchers-discover-the-optimal-way-to-optimize-20251013/"
-    ]
-  ],
-  [
-    [
       "2025-10-13, 16:47:45",
       "https://news.ycombinator.com/item?id=45570517"
     ],
@@ -267,16 +277,6 @@
     [
       "The Wi-Fi Revolution (2003)",
       "https://www.wired.com/2003/05/wifirevolution/"
-    ]
-  ],
-  [
-    [
-      "2025-10-11, 20:21:11",
-      "https://news.ycombinator.com/item?id=45552358"
-    ],
-    [
-      "MIT physicists improve the precision of atomic clocks",
-      "https://news.mit.edu/2025/mit-physicists-improve-atomic-clocks-precision-1008"
     ]
   ],
   [
