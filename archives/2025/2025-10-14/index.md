@@ -17,6 +17,7 @@
 * [2025-10-14, 20:17:44](https://news.ycombinator.com/item?id=45584281) - [Unpacking Cloudflare Workers CPU Performance Benchmarks](https://blog.cloudflare.com/unpacking-cloudflare-workers-cpu-performance-benchmarks/)
 * [2025-10-14, 20:13:53](https://news.ycombinator.com/item?id=45584226) - [AppLovin Nonconsensual Installs](https://www.benedelman.org/applovin-nonconsensual-installs/)
 * [2025-10-14, 19:52:39](https://news.ycombinator.com/item?id=45584017) - [Show HN: Wispbit – Keep codebase standards alive](https://wispbit.com)
+* [2025-10-14, 19:50:57](https://news.ycombinator.com/item?id=45583999) - [Why the open social web matters now](https://werd.io/why-the-open-social-web-matters-now/)
 * [2025-10-14, 19:27:41](https://news.ycombinator.com/item?id=45583787) - [How to Turn Liquid Glass into a Solid Interface – TidBITS](https://tidbits.com/2025/10/09/how-to-turn-liquid-glass-into-a-solid-interface/)
 * [2025-10-14, 19:27:29](https://news.ycombinator.com/item?id=45583786) - [Your data model is your destiny](https://notes.mtb.xyz/p/your-data-model-is-your-destiny)
 * [2025-10-14, 19:23:20](https://news.ycombinator.com/item?id=45583730) - [America Is Sliding Toward Illiteracy](https://www.theatlantic.com/ideas/archive/2025/10/education-decline-low-expectations/684526/)
