@@ -10,8 +10,8 @@
 * [2025-10-18, 15:52:39](https://news.ycombinator.com/item?id=45628283) - [Picturing Mathematics](https://mathenchant.wordpress.com/2025/10/18/picturing-mathematics/)
 * [2025-10-18, 14:33:22](https://news.ycombinator.com/item?id=45627692) - [Flowistry: An IDE plugin for Rust that focuses on relevant code](https://github.com/willcrichton/flowistry)
 * [2025-10-18, 13:52:24](https://news.ycombinator.com/item?id=45627394) - [Root System Drawings](https://images.wur.nl/digital/collection/coll13/search)
-* [2025-10-18, 13:44:02](https://news.ycombinator.com/item?id=45627324) - [Ripgrep 15.0](https://github.com/BurntSushi/ripgrep/releases/tag/15.0.0)
 * [2025-10-18, 12:56:50](https://news.ycombinator.com/item?id=45626985) - [SQL Anti-Patterns](https://datamethods.substack.com/p/sql-anti-patterns-you-should-avoid)
+* [2025-10-18, 12:53:32](https://news.ycombinator.com/item?id=45626961) - [Lux: A luxurious package manager for Lua](https://github.com/lumen-oss/lux)
 * [2025-10-18, 10:51:02](https://news.ycombinator.com/item?id=45626349) - [EQ: A video about all forms of equalizers](https://www.youtube.com/watch?v=CLAt95PrwL4)
 * [2025-10-18, 09:55:06](https://news.ycombinator.com/item?id=45626130) - [./watch](https://dotslashwatch.com/)
 * [2025-10-18, 05:47:14](https://news.ycombinator.com/item?id=45625229) - [Chen-Ning Yang, Nobel laureate, dies at 103](https://www.chinadaily.com.cn/a/202510/18/WS68f3170ea310f735438b5bf2.html)
@@ -29,7 +29,7 @@
 * [2025-10-12, 23:27:08](https://news.ycombinator.com/item?id=45563021) - [Satellite images show ancient hunting traps used by South American social groups](https://phys.org/news/2025-10-satellite-images-reveal-ancient-south.html)
 * [2025-10-12, 20:05:01](https://news.ycombinator.com/item?id=45561382) - [Moonlander.BAS](https://basic-code.bearblog.dev/moonlander/)
 * [2025-10-12, 10:23:48](https://news.ycombinator.com/item?id=45557032) - [The reason GCC is not a library (2000)](https://gcc.gnu.org/legacy-ml/gcc/2000-01/msg00572.html)
-* [2025-10-11, 02:11:22](https://news.ycombinator.com/item?id=45545980) - [The rise and fall of the powered wig](https://www.battlefields.org/learn/head-tilting-history/rise-and-fall-powdered-wig)
+* [2025-10-11, 02:11:22](https://news.ycombinator.com/item?id=45545980) - [The rise and fall of the powered wig (2020)](https://www.battlefields.org/learn/head-tilting-history/rise-and-fall-powdered-wig)
 
 ## [Archives](archives/index.md)
 
