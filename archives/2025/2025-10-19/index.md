@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-10-19](index.md)
 
+* [2025-10-19, 13:47:21](https://news.ycombinator.com/item?id=45634095) - [Replacement.ai](https://replacement.ai)
 * [2025-10-19, 13:35:31](https://news.ycombinator.com/item?id=45634026) - [Abandoned land drives dangerous heat in Houston, Texas A&M study finds](https://stories.tamu.edu/news/2025/10/07/abandoned-land-drives-dangerous-heat-in-houston-texas-am-study-finds/)
+* [2025-10-19, 13:25:25](https://news.ycombinator.com/item?id=45633958) - [How to Assemble an Electric Heating Element from Scratch](https://solar.lowtechmagazine.com/2025/10/how-to-build-an-electric-heating-element-from-scratch/)
 * [2025-10-19, 12:36:17](https://news.ycombinator.com/item?id=45633711) - [A Tower on Billionaires' Row Is Full of Cracks. Who's to Blame?](https://www.nytimes.com/2025/10/19/nyregion/432-park-avenue-condo-tower.html)
 * [2025-10-19, 12:11:58](https://news.ycombinator.com/item?id=45633642) - [Improving PixelMelt's Kindle Web Deobfuscator](https://shkspr.mobi/blog/2025/10/improving-pixelmelts-kindle-web-deobfuscator/)
 * [2025-10-19, 12:05:50](https://news.ycombinator.com/item?id=45633619) - [Uber will offer gig work like AI data labeling to drivers while not on the road](https://www.cnbc.com/2025/10/16/uber-will-offer-us-drivers-more-gig-work-including-ai-data-labeling.html)

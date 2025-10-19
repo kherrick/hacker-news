@@ -52,6 +52,7 @@
 * [2025-10-14, 12:33:01](https://news.ycombinator.com/item?id=45579275) - [PyreFly: Python type checker and language server in Rust](https://pyrefly.org/?featured_on=talkpython)
 * [2025-10-14, 12:19:10](https://news.ycombinator.com/item?id=45579158) - [Gravity Can Explain the Collapse of the Wavefunction](https://arxiv.org/abs/2510.11037)
 * [2025-10-14, 12:00:56](https://news.ycombinator.com/item?id=45578990) - [Kyber (YC W23) Is Hiring an Enterprise AE](https://www.ycombinator.com/companies/kyber/jobs/BQRRSrZ-enterprise-account-executive-ae)
+* [2025-10-14, 11:27:57](https://news.ycombinator.com/item?id=45578721) - [Immix: A Mark-Region Garbage Collector (2008) [pdf]](https://www.steveblackburn.org/pubs/papers/immix-pldi-2008.pdf)
 * [2025-10-14, 11:01:43](https://news.ycombinator.com/item?id=45578540) - [Zoo of Array Languages](https://ktye.github.io/)
 * [2025-10-14, 10:52:35](https://news.ycombinator.com/item?id=45578469) - [US news outlets refuse to sign new Pentagon rules to report only official info](https://www.theguardian.com/us-news/2025/oct/13/defense-department-media-news-rules)
 * [2025-10-14, 10:52:33](https://news.ycombinator.com/item?id=45578467) - [Nexperia – Update on Company Developments](https://www.nexperia.com/about/news-events/press-releases/update-on-company-developments)
