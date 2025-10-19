@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-10-19](index.md)
 
+* [2025-10-19, 21:30:17](https://news.ycombinator.com/item?id=45638188) - [Show HN: 18yo first iOS app: blocks distracting apps and unlocks with QR/barcode](https://apps.apple.com/us/app/recode-screen-time-control/id6752352978)
 * [2025-10-19, 21:20:15](https://news.ycombinator.com/item?id=45638096) - [Bible and Quran apps flagged NSFW by F-Droid](https://forum.f-droid.org/t/nsfw-flag-incorrectly-added-to-bible-and-quran-apps/33401)
 * [2025-10-19, 21:01:34](https://news.ycombinator.com/item?id=45637945) - [Ask HN: Those who applied to the OpenAI Grove program, did you ever hear back?](https://news.ycombinator.com/item?id=45637945)
 * [2025-10-19, 20:39:13](https://news.ycombinator.com/item?id=45637744) - [Ozempic's Patent Expires in January: Novo Nordisk's Canadian Mistake](https://www.science.org/content/blog-post/novo-nordisk-s-canadian-mistake)
