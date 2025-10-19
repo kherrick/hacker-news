@@ -1,22 +1,22 @@
 [
   [
     [
+      "2025-10-19, 22:13:21",
+      "https://news.ycombinator.com/item?id=45638514"
+    ],
+    [
+      "Original C64 Lode Runner Source Code",
+      "https://github.com/Piddewitt/Loderunner"
+    ]
+  ],
+  [
+    [
       "2025-10-19, 21:30:17",
       "https://news.ycombinator.com/item?id=45638188"
     ],
     [
       "Show HN: 18yo first iOS app: blocks distracting apps and unlocks with QR/barcode",
       "https://apps.apple.com/us/app/recode-screen-time-control/id6752352978"
-    ]
-  ],
-  [
-    [
-      "2025-10-19, 21:20:15",
-      "https://news.ycombinator.com/item?id=45638096"
-    ],
-    [
-      "Bible and Quran apps flagged NSFW by F-Droid",
-      "https://forum.f-droid.org/t/nsfw-flag-incorrectly-added-to-bible-and-quran-apps/33401"
     ]
   ],
   [
@@ -37,6 +37,16 @@
     [
       "Novo Nordisk's Canadian Mistake",
       "https://www.science.org/content/blog-post/novo-nordisk-s-canadian-mistake"
+    ]
+  ],
+  [
+    [
+      "2025-10-19, 20:15:09",
+      "https://news.ycombinator.com/item?id=45637548"
+    ],
+    [
+      "Designing EventQL, an Event Query Language",
+      "https://docs.eventsourcingdb.io/blog/2025/10/20/designing-eventql-an-event-query-language/"
     ]
   ],
   [
@@ -127,16 +137,6 @@
     [
       "GNU Octave Meets JupyterLite: Compute Anywhere, Anytime",
       "https://blog.jupyter.org/gnu-octave-meets-jupyterlite-compute-anywhere-anytime-8b033afbbcdc"
-    ]
-  ],
-  [
-    [
-      "2025-10-19, 15:03:29",
-      "https://news.ycombinator.com/item?id=45634678"
-    ],
-    [
-      "RFCs: Blueprints of the Internet",
-      "https://ackreq.github.io/posts/what-are-rfcs/"
     ]
   ],
   [
