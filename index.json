@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-10-19, 15:18:58",
+      "https://news.ycombinator.com/item?id=45634811"
+    ],
+    [
+      "The Spherical Cows of Programming",
+      "https://programmingsimplicity.substack.com/p/the-spherical-cows-of-programming"
+    ]
+  ],
+  [
+    [
       "2025-10-19, 15:16:51",
       "https://news.ycombinator.com/item?id=45634797"
     ],
@@ -17,6 +27,16 @@
     [
       "With deadline looming 4 of 9 universities reject Trumps pact to remake higher ed",
       "https://arstechnica.com/culture/2025/10/with-deadline-looming-4-of-9-universities-reject-trumps-compact-to-remake-higher-ed/"
+    ]
+  ],
+  [
+    [
+      "2025-10-19, 15:03:29",
+      "https://news.ycombinator.com/item?id=45634678"
+    ],
+    [
+      "What Are RFCs? The Forgotten Blueprints of the Internet",
+      "https://ackreq.github.io/posts/what-are-rfcs/"
     ]
   ],
   [
@@ -107,6 +127,16 @@
     [
       "Feed me up, Scotty – custom RSS feed generation using CSS selectors",
       "https://feed-me-up-scotty.vincenttunru.com/"
+    ]
+  ],
+  [
+    [
+      "2025-10-19, 13:01:34",
+      "https://news.ycombinator.com/item?id=45633815"
+    ],
+    [
+      "The macOS LC_COLLATE hunt: Or why does sort order differently on macOS and Linux",
+      "https://blog.zhimingwang.org/macos-lc_collate-hunt"
     ]
   ],
   [
@@ -241,26 +271,6 @@
   ],
   [
     [
-      "2025-10-16, 19:57:41",
-      "https://news.ycombinator.com/item?id=45609986"
-    ],
-    [
-      "When you opened a screen shot of a video in Paint, the video was playing in it",
-      "https://devblogs.microsoft.com/oldnewthing/20251014-00/?p=111681"
-    ]
-  ],
-  [
-    [
-      "2025-10-15, 17:06:51",
-      "https://news.ycombinator.com/item?id=45595569"
-    ],
-    [
-      "A Bright HDR Image",
-      "https://walzr.com/HDR2.jpg"
-    ]
-  ],
-  [
-    [
       "2025-10-15, 02:44:06",
       "https://news.ycombinator.com/item?id=45587546"
     ],
@@ -287,16 +297,6 @@
     [
       "Jupyter Collaboration has a history slider",
       "https://blog.jupyter.org/exploring-a-documents-timeline-in-jupyterlab-6084f96db263"
-    ]
-  ],
-  [
-    [
-      "2025-10-10, 22:04:18",
-      "https://news.ycombinator.com/item?id=45544330"
-    ],
-    [
-      "BQN \"Macros\" with •Decompose (2023)",
-      "https://saltysylvi.github.io/blog/bqn-macros.html"
     ]
   ]
 ]
