@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-10-19, 11:19:38](https://news.ycombinator.com/item?id=45633453) - [Show HN: Duck-UI – Browser-Based SQL IDE for DuckDB](https://demo.duckui.com)
 * [2025-10-19, 10:07:38](https://news.ycombinator.com/item?id=45633191) - [Did Space Debris Hit A United Flight Over The Rockies Thursday?](https://viewfromthewing.com/did-space-debris-hit-a-united-flight-over-the-rockies-thursday-heres-what-we-know-so-far/)
 * [2025-10-19, 09:41:25](https://news.ycombinator.com/item?id=45633081) - [The Case for the Return of Fine-Tuning](https://welovesota.com/article/the-case-for-the-return-of-fine-tuning)
 * [2025-10-19, 08:14:04](https://news.ycombinator.com/item?id=45632738) - [Space junk falls on Western Australian minesite](https://www.abc.net.au/news/2025-10-19/wa-space-debris-reentry-investigation/105909612)
@@ -28,7 +29,6 @@
 * [2025-10-13, 12:00:48](https://news.ycombinator.com/item?id=45567382) - [Caveat Prompter](https://surfingcomplexity.blog/2025/10/12/caveat-promptor/)
 * [2025-10-13, 11:07:25](https://news.ycombinator.com/item?id=45567050) - [Who invented deep residual learning?](https://people.idsia.ch/~juergen/who-invented-residual-neural-networks.html)
 * [2025-10-13, 00:50:45](https://news.ycombinator.com/item?id=45563589) - [Jupyter Collaboration has a history slider](https://blog.jupyter.org/exploring-a-documents-timeline-in-jupyterlab-6084f96db263)
-* [2025-10-12, 10:23:48](https://news.ycombinator.com/item?id=45557032) - [The reason GCC is not a library (2000)](https://gcc.gnu.org/legacy-ml/gcc/2000-01/msg00572.html)
 * [2025-10-11, 17:22:04](https://news.ycombinator.com/item?id=45550908) - [The optimistic case for protein foundation model companies](https://www.owlposting.com/p/the-optimistic-case-for-protein-foundation-193)
 
 ## [Archives](archives/index.md)
