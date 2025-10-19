@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-10-19, 17:19:49](https://news.ycombinator.com/item?id=45635940) - [Ask HN: What are people doing to get off of VMware?](https://news.ycombinator.com/item?id=45635940)
 * [2025-10-19, 17:13:11](https://news.ycombinator.com/item?id=45635870) - [I wish SSDs gave you CPU performance style metrics about their activity](https://utcc.utoronto.ca/~cks/space/blog/tech/SSDWritePerfMetricsWish)
 * [2025-10-19, 17:00:42](https://news.ycombinator.com/item?id=45635757) - [Infisical (YC W23) Is Hiring Full Stack Engineers](https://www.ycombinator.com/companies/infisical/jobs/0gY2Da1-full-stack-engineer-global)
 * [2025-10-19, 16:57:49](https://news.ycombinator.com/item?id=45635734) - [The Trinary Dream Endures](https://www.robinsloan.com/lab/trinary-dream/)
@@ -19,7 +20,6 @@
 * [2025-10-19, 13:47:21](https://news.ycombinator.com/item?id=45634095) - [Replacement.ai](https://replacement.ai)
 * [2025-10-19, 13:35:31](https://news.ycombinator.com/item?id=45634026) - [Abandoned land drives dangerous heat in Houston, study finds](https://stories.tamu.edu/news/2025/10/07/abandoned-land-drives-dangerous-heat-in-houston-texas-am-study-finds/)
 * [2025-10-19, 13:25:25](https://news.ycombinator.com/item?id=45633958) - [How to Assemble an Electric Heating Element from Scratch](https://solar.lowtechmagazine.com/2025/10/how-to-build-an-electric-heating-element-from-scratch/)
-* [2025-10-19, 13:19:44](https://news.ycombinator.com/item?id=45633921) - [Feed me up, Scotty – custom RSS feed generation using CSS selectors](https://feed-me-up-scotty.vincenttunru.com/)
 * [2025-10-19, 13:01:34](https://news.ycombinator.com/item?id=45633815) - [The macOS LC_COLLATE hunt: Or why does sort order differently on macOS and Linux (2020)](https://blog.zhimingwang.org/macos-lc_collate-hunt)
 * [2025-10-19, 12:11:58](https://news.ycombinator.com/item?id=45633642) - [Improving PixelMelt's Kindle Web Deobfuscator](https://shkspr.mobi/blog/2025/10/improving-pixelmelts-kindle-web-deobfuscator/)
 * [2025-10-19, 11:30:17](https://news.ycombinator.com/item?id=45633482) - [OpenAI researcher announced GPT-5 math breakthrough that never happened](https://the-decoder.com/leading-openai-researcher-announced-a-gpt-5-math-breakthrough-that-never-happened/)
