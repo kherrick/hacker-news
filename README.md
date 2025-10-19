@@ -12,7 +12,7 @@
 * [2025-10-19, 15:48:52](https://news.ycombinator.com/item?id=45635069) - [GNU Octave Meets JupyterLite: Compute Anywhere, Anytime](https://blog.jupyter.org/gnu-octave-meets-jupyterlite-compute-anywhere-anytime-8b033afbbcdc)
 * [2025-10-19, 15:18:58](https://news.ycombinator.com/item?id=45634811) - [The Spherical Cows of Programming](https://programmingsimplicity.substack.com/p/the-spherical-cows-of-programming)
 * [2025-10-19, 15:16:51](https://news.ycombinator.com/item?id=45634797) - [The zipper is getting its first major upgrade in 100 years](https://www.wired.com/story/the-zipper-is-getting-its-first-major-upgrade-in-100-years/)
-* [2025-10-19, 15:03:29](https://news.ycombinator.com/item?id=45634678) - [What Are RFCs? The Forgotten Blueprints of the Internet](https://ackreq.github.io/posts/what-are-rfcs/)
+* [2025-10-19, 15:03:29](https://news.ycombinator.com/item?id=45634678) - [RFCs: Blueprints of the Internet](https://ackreq.github.io/posts/what-are-rfcs/)
 * [2025-10-19, 14:58:16](https://news.ycombinator.com/item?id=45634641) - [Why an abundance of choice is not the same as freedom](https://aeon.co/essays/why-an-abundance-of-choice-is-not-the-same-as-freedom)
 * [2025-10-19, 14:45:03](https://news.ycombinator.com/item?id=45634528) - [Scheme Reports at Fifty](https://crumbles.blog/posts/2025-10-18-scheme-reports-at-fifty.html)
 * [2025-10-19, 14:25:45](https://news.ycombinator.com/item?id=45634367) - [Xubuntu.org Might Be Compromised](https://old.reddit.com/r/Ubuntu/comments/1oa4549/xubuntuorg_might_be_compromised/)
