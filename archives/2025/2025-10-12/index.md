@@ -52,6 +52,7 @@
 * [2025-10-12, 13:04:55](https://news.ycombinator.com/item?id=45557970) - [Why do Stanford math professors still use chalk? (2021)](https://stanforddaily.com/2021/10/17/why-do-stanford-math-professors-still-use-chalk/)
 * [2025-10-12, 12:19:46](https://news.ycombinator.com/item?id=45557680) - [Cambridge University launches project to rescue data trapped on old floppy disks](https://www.lib.cam.ac.uk/stories/floppy-disk-funding)
 * [2025-10-12, 12:18:18](https://news.ycombinator.com/item?id=45557669) - [Reworking Memory Management in CRuby](https://railsatscale.com/2025-09-16-reworking-memory-management-in-cruby/)
+* [2025-10-12, 12:04:50](https://news.ycombinator.com/item?id=45557596) - [The working-class hero of Bletchley Park you didn't see in the movies](https://www.theguardian.com/world/2025/oct/12/move-over-alan-turing-meet-the-working-class-hero-of-bletchley-park-you-didnt-see-in-the-movies)
 * [2025-10-12, 12:04:05](https://news.ycombinator.com/item?id=45557591) - [Silver Snoopy Award](https://www.nasa.gov/space-flight-awareness/silver-snoopy-award/)
 * [2025-10-12, 11:50:53](https://news.ycombinator.com/item?id=45557504) - [ChatGPT – Truth over Comfort Instruction Set](https://www.organizingcreativity.com/2025/06/chatgpt-truth-over-comfort-instruction-set/)
 * [2025-10-12, 11:08:58](https://news.ycombinator.com/item?id=45557267) - [Blood test detecting Long Covid in kids with 94% accuracy microclots](https://www.researchsquare.com/article/rs-7483367/v1)
