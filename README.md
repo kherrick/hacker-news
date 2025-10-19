@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-10-19, 22:13:21](https://news.ycombinator.com/item?id=45638514) - [Original C64 Lode Runner Source Code](https://github.com/Piddewitt/Loderunner)
-* [2025-10-19, 21:30:17](https://news.ycombinator.com/item?id=45638188) - [Show HN: 18yo first iOS app: blocks distracting apps and unlocks with QR/barcode](https://apps.apple.com/us/app/recode-screen-time-control/id6752352978)
 * [2025-10-19, 20:54:31](https://news.ycombinator.com/item?id=45637880) - [Duke Nukem: Zero Hour N64 ROM Reverse-Engineering Project Hits 100%](https://github.com/Gillou68310/DukeNukemZeroHour)
 * [2025-10-19, 20:39:13](https://news.ycombinator.com/item?id=45637744) - [Novo Nordisk's Canadian Mistake](https://www.science.org/content/blog-post/novo-nordisk-s-canadian-mistake)
 * [2025-10-19, 20:15:09](https://news.ycombinator.com/item?id=45637548) - [Designing EventQL, an Event Query Language](https://docs.eventsourcingdb.io/blog/2025/10/20/designing-eventql-an-event-query-language/)
@@ -21,6 +20,7 @@
 * [2025-10-19, 13:25:25](https://news.ycombinator.com/item?id=45633958) - [How to Assemble an Electric Heating Element from Scratch](https://solar.lowtechmagazine.com/2025/10/how-to-build-an-electric-heating-element-from-scratch/)
 * [2025-10-19, 13:01:34](https://news.ycombinator.com/item?id=45633815) - [The macOS LC_COLLATE hunt: Or why does sort order differently on macOS and Linux (2020)](https://blog.zhimingwang.org/macos-lc_collate-hunt)
 * [2025-10-19, 12:11:58](https://news.ycombinator.com/item?id=45633642) - [Improving PixelMelt's Kindle Web Deobfuscator](https://shkspr.mobi/blog/2025/10/improving-pixelmelts-kindle-web-deobfuscator/)
+* [2025-10-19, 11:30:17](https://news.ycombinator.com/item?id=45633482) - [OpenAI researcher announced GPT-5 math breakthrough that never happened](https://the-decoder.com/leading-openai-researcher-announced-a-gpt-5-math-breakthrough-that-never-happened/)
 * [2025-10-19, 11:19:38](https://news.ycombinator.com/item?id=45633453) - [Show HN: Duck-UI – Browser-Based SQL IDE for DuckDB](https://demo.duckui.com)
 * [2025-10-19, 09:41:25](https://news.ycombinator.com/item?id=45633081) - [The case for the return of fine-tuning](https://welovesota.com/article/the-case-for-the-return-of-fine-tuning)
 * [2025-10-19, 09:20:05](https://news.ycombinator.com/item?id=45632976) - [Deterministic multithreading is hard (2024)](https://www.factorio.com/blog/post/fff-415)
