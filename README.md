@@ -3,8 +3,8 @@
 * [2025-10-19, 19:40:26](https://news.ycombinator.com/item?id=45637242) - [What Unix pipelines got right and how we can do better](https://programmingsimplicity.substack.com/p/what-unix-pipelines-got-right-and)
 * [2025-10-19, 19:26:54](https://news.ycombinator.com/item?id=45637133) - [Dosbian: Boot to DOSBox on Raspberry Pi](https://cmaiolino.wordpress.com/dosbian/)
 * [2025-10-19, 19:16:59](https://news.ycombinator.com/item?id=45637049) - [US Government Uptime Monitor](https://usa-status.com/)
-* [2025-10-19, 18:36:50](https://news.ycombinator.com/item?id=45636708) - [The AI bubble is 17 times bigger than the dot-com bust](https://www.cnn.com/2025/10/18/business/ai-bubble-analyst-nightcap)
 * [2025-10-19, 18:02:00](https://news.ycombinator.com/item?id=45636365) - [Compare Single Board Computers](https://sbc.compare/)
+* [2025-10-19, 17:54:21](https://news.ycombinator.com/item?id=45636285) - [Airliner hit by possible space debris](https://avbrief.com/united-max-hit-by-falling-object-at-36000-feet/)
 * [2025-10-19, 17:38:11](https://news.ycombinator.com/item?id=45636116) - [Could the XZ backdoor been detected with better Git/Deb packaging practices?](https://optimizedbyotto.com/post/xz-backdoor-debian-git-detection/)
 * [2025-10-19, 17:19:49](https://news.ycombinator.com/item?id=45635940) - [Ask HN: What are people doing to get off of VMware?](https://news.ycombinator.com/item?id=45635940)
 * [2025-10-19, 17:13:11](https://news.ycombinator.com/item?id=45635870) - [I wish SSDs gave you CPU performance style metrics about their activity](https://utcc.utoronto.ca/~cks/space/blog/tech/SSDWritePerfMetricsWish)
@@ -28,7 +28,7 @@
 * [2025-10-19, 09:41:25](https://news.ycombinator.com/item?id=45633081) - [The case for the return of fine-tuning](https://welovesota.com/article/the-case-for-the-return-of-fine-tuning)
 * [2025-10-15, 02:44:06](https://news.ycombinator.com/item?id=45587546) - [Lost Jack Kerouac story found among assassinated mafia boss' belongings](https://www.sfgate.com/sf-culture/article/lost-jack-kerouac-chapter-found-mafia-boss-estate-21098566.php)
 * [2025-10-14, 19:25:49](https://news.ycombinator.com/item?id=45583767) - [Better SRGB to Greyscale Conversion](https://30fps.net/pages/better-srgb-to-greyscale/)
-* [2025-10-12, 09:59:13](https://news.ycombinator.com/item?id=45556911) - [The Spilhaus Projection-A World Map According to Fish](https://southernwoodenboatsailing.com/news/the-spilhaus-projection-a-world-map-according-to-fish)
+* [2025-10-12, 09:59:13](https://news.ycombinator.com/item?id=45556911) - [The Spilhaus Projection: A world map according to fish](https://southernwoodenboatsailing.com/news/the-spilhaus-projection-a-world-map-according-to-fish)
 * [2025-10-09, 20:55:00](https://news.ycombinator.com/item?id=45532971) - [Show HN: Open-Source Voice AI Badge Powered by ESP32+WebRTC](https://github.com/VapiAI/vapicon-2025-hardware-workshop)
 
 ## [Archives](archives/index.md)
