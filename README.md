@@ -1,16 +1,15 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-10-19, 02:22:53](https://news.ycombinator.com/item?id=45631678) - [The Accountability Problem](https://www.jamesshore.com/v2/blog/2025/the-accountability-problem)
 * [2025-10-19, 01:23:29](https://news.ycombinator.com/item?id=45631503) - [Friendship Begins at Home](https://3quarksdaily.com/3quarksdaily/2025/10/friendship-begins-at-home.html)
 * [2025-10-19, 01:00:42](https://news.ycombinator.com/item?id=45631422) - [GoGoGrandparent (YC S16) Is Hiring Back End and Full-Stack Engineers](https://news.ycombinator.com/item?id=45631422)
 * [2025-10-19, 00:33:24](https://news.ycombinator.com/item?id=45631328) - [Using Pegs in Janet](https://articles.inqk.net/2020/09/19/how-to-use-pegs-in-janet.html)
-* [2025-10-18, 23:59:40](https://news.ycombinator.com/item?id=45631212) - [Bevy TLDR – Game development with Bevy summarized](https://taintedcoders.com/bevy/tldr)
 * [2025-10-18, 19:58:25](https://news.ycombinator.com/item?id=45629970) - [How to sequence your DNA for <$2k](https://maxlangenkamp.substack.com/p/how-to-sequence-your-dna-for-2k)
 * [2025-10-18, 18:13:27](https://news.ycombinator.com/item?id=45629299) - [Most users cannot identify AI bias, even in training data](https://www.psu.edu/news/bellisario-college-communications/story/most-users-cannot-identify-ai-bias-even-training-data)
 * [2025-10-18, 16:08:10](https://news.ycombinator.com/item?id=45628391) - [Tinnitus Neuromodulator](https://mynoise.net/NoiseMachines/neuromodulationTonesGenerator.php)
 * [2025-10-18, 15:52:39](https://news.ycombinator.com/item?id=45628283) - [Picturing Mathematics](https://mathenchant.wordpress.com/2025/10/18/picturing-mathematics/)
 * [2025-10-18, 14:33:22](https://news.ycombinator.com/item?id=45627692) - [Flowistry: An IDE plugin for Rust that focuses on relevant code](https://github.com/willcrichton/flowistry)
 * [2025-10-18, 13:52:24](https://news.ycombinator.com/item?id=45627394) - [Root System Drawings](https://images.wur.nl/digital/collection/coll13/search)
-* [2025-10-18, 12:56:50](https://news.ycombinator.com/item?id=45626985) - [SQL Anti-Patterns](https://datamethods.substack.com/p/sql-anti-patterns-you-should-avoid)
 * [2025-10-18, 12:53:32](https://news.ycombinator.com/item?id=45626961) - [Lux: A luxurious package manager for Lua](https://github.com/lumen-oss/lux)
 * [2025-10-18, 10:51:02](https://news.ycombinator.com/item?id=45626349) - [EQ: A video about all forms of equalizers](https://www.youtube.com/watch?v=CLAt95PrwL4)
 * [2025-10-18, 09:55:06](https://news.ycombinator.com/item?id=45626130) - [./watch](https://dotslashwatch.com/)
@@ -30,6 +29,7 @@
 * [2025-10-12, 20:05:01](https://news.ycombinator.com/item?id=45561382) - [Moonlander.BAS](https://basic-code.bearblog.dev/moonlander/)
 * [2025-10-12, 10:23:48](https://news.ycombinator.com/item?id=45557032) - [The reason GCC is not a library (2000)](https://gcc.gnu.org/legacy-ml/gcc/2000-01/msg00572.html)
 * [2025-10-11, 02:11:22](https://news.ycombinator.com/item?id=45545980) - [The rise and fall of the powered wig (2020)](https://www.battlefields.org/learn/head-tilting-history/rise-and-fall-powdered-wig)
+* [2025-10-10, 05:40:23](https://news.ycombinator.com/item?id=45535644) - [How Sober Should a Writer Be?](https://yalereview.org/article/crosley-how-sober-should-a-writer-be)
 
 ## [Archives](archives/index.md)
 
