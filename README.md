@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-10-19, 08:14:04](https://news.ycombinator.com/item?id=45632738) - [Space junk falls on Western Australian minesite](https://www.abc.net.au/news/2025-10-19/wa-space-debris-reentry-investigation/105909612)
 * [2025-10-19, 05:45:02](https://news.ycombinator.com/item?id=45632262) - [GoFundMe CEO: economy is so bad his customers crowdfund to pay for groceries](https://finance.yahoo.com/news/gofundme-ceo-says-economy-bad-182843671.html)
 * [2025-10-19, 02:22:53](https://news.ycombinator.com/item?id=45631678) - [The Accountability Problem](https://www.jamesshore.com/v2/blog/2025/the-accountability-problem)
 * [2025-10-19, 01:23:29](https://news.ycombinator.com/item?id=45631503) - [Friendship Begins at Home](https://3quarksdaily.com/3quarksdaily/2025/10/friendship-begins-at-home.html)
@@ -29,7 +30,6 @@
 * [2025-10-12, 23:27:08](https://news.ycombinator.com/item?id=45563021) - [Satellite images show ancient hunting traps used by South American social groups](https://phys.org/news/2025-10-satellite-images-reveal-ancient-south.html)
 * [2025-10-12, 20:05:01](https://news.ycombinator.com/item?id=45561382) - [Moonlander.BAS](https://basic-code.bearblog.dev/moonlander/)
 * [2025-10-12, 10:23:48](https://news.ycombinator.com/item?id=45557032) - [The reason GCC is not a library (2000)](https://gcc.gnu.org/legacy-ml/gcc/2000-01/msg00572.html)
-* [2025-10-11, 02:11:22](https://news.ycombinator.com/item?id=45545980) - [The Rise and Fall of the Powdered Wig (2020)](https://www.battlefields.org/learn/head-tilting-history/rise-and-fall-powdered-wig)
 
 ## [Archives](archives/index.md)
 
