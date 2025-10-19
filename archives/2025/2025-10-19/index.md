@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-10-19](index.md)
 
+* [2025-10-19, 12:36:17](https://news.ycombinator.com/item?id=45633711) - [A Tower on Billionaires' Row Is Full of Cracks. Who's to Blame?](https://www.nytimes.com/2025/10/19/nyregion/432-park-avenue-condo-tower.html)
 * [2025-10-19, 12:05:50](https://news.ycombinator.com/item?id=45633619) - [Uber will offer gig work like AI data labeling to drivers while not on the road](https://www.cnbc.com/2025/10/16/uber-will-offer-us-drivers-more-gig-work-including-ai-data-labeling.html)
 * [2025-10-19, 12:00:11](https://news.ycombinator.com/item?id=45633591) - [Pebble is officially back on iOS and Android](https://twitter.com/ericmigi/status/1979576965494710564)
 * [2025-10-19, 11:40:05](https://news.ycombinator.com/item?id=45633513) - [Lego Theft Ring](https://www.nytimes.com/2025/10/18/us/lego-theft-california-arrest.html)
