@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-10-19, 03:53:03](https://news.ycombinator.com/item?id=45631974) - [The traffickers are winning the war on drugs](https://www.economist.com/briefing/2025/10/16/the-traffickers-are-winning-the-war-on-drugs)
 * [2025-10-19, 02:22:53](https://news.ycombinator.com/item?id=45631678) - [The Accountability Problem](https://www.jamesshore.com/v2/blog/2025/the-accountability-problem)
 * [2025-10-19, 01:23:29](https://news.ycombinator.com/item?id=45631503) - [Friendship Begins at Home](https://3quarksdaily.com/3quarksdaily/2025/10/friendship-begins-at-home.html)
 * [2025-10-19, 01:00:42](https://news.ycombinator.com/item?id=45631422) - [GoGoGrandparent (YC S16) Is Hiring Back End and Full-Stack Engineers](https://news.ycombinator.com/item?id=45631422)
@@ -21,6 +20,7 @@
 * [2025-10-16, 15:56:05](https://news.ycombinator.com/item?id=45606986) - [Secret diplomatic message deciphered after 350 years](https://www.nationalarchives.gov.uk/explore-the-collection/the-collection-blog/secret-diplomatic-message-deciphered-after-350-years/)
 * [2025-10-16, 10:56:50](https://news.ycombinator.com/item?id=45603876) - [Solution to CIA’s Kryptos sculpture is found in Smithsonian vault](https://www.nytimes.com/2025/10/16/science/kryptos-cia-solution-sanborn-auction.html)
 * [2025-10-16, 01:25:28](https://news.ycombinator.com/item?id=45600470) - [Coral NPU: A full-stack platform for Edge AI](https://research.google/blog/coral-npu-a-full-stack-platform-for-edge-ai/)
+* [2025-10-15, 16:38:16](https://news.ycombinator.com/item?id=45595143) - [Soft multistable magnetic-responsive metamaterials](https://www.science.org/doi/10.1126/sciadv.adu3749)
 * [2025-10-14, 19:50:57](https://news.ycombinator.com/item?id=45583999) - [Why the open social web matters now](https://werd.io/why-the-open-social-web-matters-now/)
 * [2025-10-14, 09:54:46](https://news.ycombinator.com/item?id=45578115) - [Adding Breadcrumbs to a Rails Application](https://avohq.io/blog/breadcrumbs-rails)
 * [2025-10-13, 21:39:15](https://news.ycombinator.com/item?id=45573626) - [How does Turbo listen for Turbo Streams](https://ducktypelabs.com/how-does-turbo-listen-for-turbo-streams/)
