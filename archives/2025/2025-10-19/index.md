@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-10-19](index.md)
 
 * [2025-10-19, 10:07:38](https://news.ycombinator.com/item?id=45633191) - [Did Space Debris Hit A United Flight Over The Rockies Thursday?](https://viewfromthewing.com/did-space-debris-hit-a-united-flight-over-the-rockies-thursday-heres-what-we-know-so-far/)
+* [2025-10-19, 09:41:25](https://news.ycombinator.com/item?id=45633081) - [The Case for the Return of Fine-Tuning](https://welovesota.com/article/the-case-for-the-return-of-fine-tuning)
 * [2025-10-19, 08:14:04](https://news.ycombinator.com/item?id=45632738) - [Space junk falls on Western Australian minesite](https://www.abc.net.au/news/2025-10-19/wa-space-debris-reentry-investigation/105909612)
 * [2025-10-19, 08:11:47](https://news.ycombinator.com/item?id=45632724) - [Show HN: Newcomer Ranking – Alternative to GitHub Trending for New Repos](https://git-stars.org/ranking/newcomers)
 * [2025-10-19, 08:01:20](https://news.ycombinator.com/item?id=45632681) - [Show HN: A better Hacker News front end](https://hakkernieuws.vercel.app/top)
