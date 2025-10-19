@@ -101,22 +101,22 @@
   ],
   [
     [
-      "2025-10-18, 13:44:02",
-      "https://news.ycombinator.com/item?id=45627324"
-    ],
-    [
-      "Ripgrep 15.0",
-      "https://github.com/BurntSushi/ripgrep/releases/tag/15.0.0"
-    ]
-  ],
-  [
-    [
       "2025-10-18, 12:56:50",
       "https://news.ycombinator.com/item?id=45626985"
     ],
     [
       "SQL Anti-Patterns",
       "https://datamethods.substack.com/p/sql-anti-patterns-you-should-avoid"
+    ]
+  ],
+  [
+    [
+      "2025-10-18, 12:53:32",
+      "https://news.ycombinator.com/item?id=45626961"
+    ],
+    [
+      "Lux: A luxurious package manager for Lua",
+      "https://github.com/lumen-oss/lux"
     ]
   ],
   [
@@ -295,7 +295,7 @@
       "https://news.ycombinator.com/item?id=45545980"
     ],
     [
-      "The rise and fall of the powered wig",
+      "The rise and fall of the powered wig (2020)",
       "https://www.battlefields.org/learn/head-tilting-history/rise-and-fall-powdered-wig"
     ]
   ]
