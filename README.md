@@ -1,7 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-10-19, 15:18:58](https://news.ycombinator.com/item?id=45634811) - [The Spherical Cows of Programming](https://programmingsimplicity.substack.com/p/the-spherical-cows-of-programming)
 * [2025-10-19, 15:16:51](https://news.ycombinator.com/item?id=45634797) - [The Zipper Is Getting Its First Major Upgrade in 100 Years](https://www.wired.com/story/the-zipper-is-getting-its-first-major-upgrade-in-100-years/)
 * [2025-10-19, 15:14:58](https://news.ycombinator.com/item?id=45634774) - [With deadline looming 4 of 9 universities reject Trumps pact to remake higher ed](https://arstechnica.com/culture/2025/10/with-deadline-looming-4-of-9-universities-reject-trumps-compact-to-remake-higher-ed/)
+* [2025-10-19, 15:03:29](https://news.ycombinator.com/item?id=45634678) - [What Are RFCs? The Forgotten Blueprints of the Internet](https://ackreq.github.io/posts/what-are-rfcs/)
 * [2025-10-19, 14:58:16](https://news.ycombinator.com/item?id=45634641) - [Why an abundance of choice is not the same as freedom](https://aeon.co/essays/why-an-abundance-of-choice-is-not-the-same-as-freedom)
 * [2025-10-19, 14:40:47](https://news.ycombinator.com/item?id=45634484) - [Websites Are for Humans](https://marcus-obst.de/blog/websites-are-for-humans)
 * [2025-10-19, 14:25:45](https://news.ycombinator.com/item?id=45634367) - [Xubuntu.org Might Be Compromised](https://old.reddit.com/r/Ubuntu/comments/1oa4549/xubuntuorg_might_be_compromised/)
@@ -11,6 +13,7 @@
 * [2025-10-19, 13:35:31](https://news.ycombinator.com/item?id=45634026) - [Abandoned land drives dangerous heat in Houston, Texas A&M study finds](https://stories.tamu.edu/news/2025/10/07/abandoned-land-drives-dangerous-heat-in-houston-texas-am-study-finds/)
 * [2025-10-19, 13:25:25](https://news.ycombinator.com/item?id=45633958) - [How to Assemble an Electric Heating Element from Scratch](https://solar.lowtechmagazine.com/2025/10/how-to-build-an-electric-heating-element-from-scratch/)
 * [2025-10-19, 13:19:44](https://news.ycombinator.com/item?id=45633921) - [Feed me up, Scotty – custom RSS feed generation using CSS selectors](https://feed-me-up-scotty.vincenttunru.com/)
+* [2025-10-19, 13:01:34](https://news.ycombinator.com/item?id=45633815) - [The macOS LC_COLLATE hunt: Or why does sort order differently on macOS and Linux](https://blog.zhimingwang.org/macos-lc_collate-hunt)
 * [2025-10-19, 12:36:17](https://news.ycombinator.com/item?id=45633711) - [A Tower on Billionaires' Row Is Full of Cracks. Who's to Blame?](https://www.nytimes.com/2025/10/19/nyregion/432-park-avenue-condo-tower.html)
 * [2025-10-19, 12:11:58](https://news.ycombinator.com/item?id=45633642) - [Improving PixelMelt's Kindle Web Deobfuscator](https://shkspr.mobi/blog/2025/10/improving-pixelmelts-kindle-web-deobfuscator/)
 * [2025-10-19, 12:00:11](https://news.ycombinator.com/item?id=45633591) - [Pebble is officially back on iOS and Android](https://twitter.com/ericmigi/status/1979576965494710564)
@@ -24,12 +27,9 @@
 * [2025-10-18, 10:51:02](https://news.ycombinator.com/item?id=45626349) - [EQ: A video about all forms of equalizers](https://www.youtube.com/watch?v=CLAt95PrwL4)
 * [2025-10-18, 05:47:14](https://news.ycombinator.com/item?id=45625229) - [Chen-Ning Yang, Nobel laureate, dies at 103](https://www.chinadaily.com.cn/a/202510/18/WS68f3170ea310f735438b5bf2.html)
 * [2025-10-17, 06:39:09](https://news.ycombinator.com/item?id=45613898) - [Titan submersible’s $62 SanDisk memory card found undamaged at wreckage site](https://www.tomshardware.com/pc-components/microsd-cards/tragic-oceangate-titan-submersibles-usd62-sandisk-memory-card-found-undamaged-at-wreckage-site-12-stills-and-nine-videos-have-been-recovered-but-none-from-the-fateful-implosion)
-* [2025-10-16, 19:57:41](https://news.ycombinator.com/item?id=45609986) - [When you opened a screen shot of a video in Paint, the video was playing in it](https://devblogs.microsoft.com/oldnewthing/20251014-00/?p=111681)
-* [2025-10-15, 17:06:51](https://news.ycombinator.com/item?id=45595569) - [A Bright HDR Image](https://walzr.com/HDR2.jpg)
 * [2025-10-15, 02:44:06](https://news.ycombinator.com/item?id=45587546) - [Lost Jack Kerouac story found among assassinated mafia boss' belongings](https://www.sfgate.com/sf-culture/article/lost-jack-kerouac-chapter-found-mafia-boss-estate-21098566.php)
 * [2025-10-14, 07:44:56](https://news.ycombinator.com/item?id=45577266) - [How one of the longest dinosaur trackways in the world was uncovered in the UK](https://www.bbc.co.uk/news/resources/idt-5f8c77b0-92bc-40f2-bf21-6793abbe5ffe)
 * [2025-10-13, 00:50:45](https://news.ycombinator.com/item?id=45563589) - [Jupyter Collaboration has a history slider](https://blog.jupyter.org/exploring-a-documents-timeline-in-jupyterlab-6084f96db263)
-* [2025-10-10, 22:04:18](https://news.ycombinator.com/item?id=45544330) - [BQN \"Macros\" with •Decompose (2023)](https://saltysylvi.github.io/blog/bqn-macros.html)
 
 ## [Archives](archives/index.md)
 

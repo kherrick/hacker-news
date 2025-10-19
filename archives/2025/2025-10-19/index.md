@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2025-10-19](index.md)
 
+* [2025-10-19, 15:18:58](https://news.ycombinator.com/item?id=45634811) - [The Spherical Cows of Programming](https://programmingsimplicity.substack.com/p/the-spherical-cows-of-programming)
 * [2025-10-19, 15:16:51](https://news.ycombinator.com/item?id=45634797) - [The Zipper Is Getting Its First Major Upgrade in 100 Years](https://www.wired.com/story/the-zipper-is-getting-its-first-major-upgrade-in-100-years/)
 * [2025-10-19, 15:14:58](https://news.ycombinator.com/item?id=45634774) - [With deadline looming 4 of 9 universities reject Trumps pact to remake higher ed](https://arstechnica.com/culture/2025/10/with-deadline-looming-4-of-9-universities-reject-trumps-compact-to-remake-higher-ed/)
+* [2025-10-19, 15:03:29](https://news.ycombinator.com/item?id=45634678) - [What Are RFCs? The Forgotten Blueprints of the Internet](https://ackreq.github.io/posts/what-are-rfcs/)
 * [2025-10-19, 14:58:16](https://news.ycombinator.com/item?id=45634641) - [Why an abundance of choice is not the same as freedom](https://aeon.co/essays/why-an-abundance-of-choice-is-not-the-same-as-freedom)
 * [2025-10-19, 14:40:47](https://news.ycombinator.com/item?id=45634484) - [Websites Are for Humans](https://marcus-obst.de/blog/websites-are-for-humans)
 * [2025-10-19, 14:25:45](https://news.ycombinator.com/item?id=45634367) - [Xubuntu.org Might Be Compromised](https://old.reddit.com/r/Ubuntu/comments/1oa4549/xubuntuorg_might_be_compromised/)
@@ -15,6 +17,7 @@
 * [2025-10-19, 13:35:31](https://news.ycombinator.com/item?id=45634026) - [Abandoned land drives dangerous heat in Houston, Texas A&M study finds](https://stories.tamu.edu/news/2025/10/07/abandoned-land-drives-dangerous-heat-in-houston-texas-am-study-finds/)
 * [2025-10-19, 13:25:25](https://news.ycombinator.com/item?id=45633958) - [How to Assemble an Electric Heating Element from Scratch](https://solar.lowtechmagazine.com/2025/10/how-to-build-an-electric-heating-element-from-scratch/)
 * [2025-10-19, 13:19:44](https://news.ycombinator.com/item?id=45633921) - [Feed me up, Scotty – custom RSS feed generation using CSS selectors](https://feed-me-up-scotty.vincenttunru.com/)
+* [2025-10-19, 13:01:34](https://news.ycombinator.com/item?id=45633815) - [The macOS LC_COLLATE hunt: Or why does sort order differently on macOS and Linux](https://blog.zhimingwang.org/macos-lc_collate-hunt)
 * [2025-10-19, 12:36:17](https://news.ycombinator.com/item?id=45633711) - [A Tower on Billionaires' Row Is Full of Cracks. Who's to Blame?](https://www.nytimes.com/2025/10/19/nyregion/432-park-avenue-condo-tower.html)
 * [2025-10-19, 12:11:58](https://news.ycombinator.com/item?id=45633642) - [Improving PixelMelt's Kindle Web Deobfuscator](https://shkspr.mobi/blog/2025/10/improving-pixelmelts-kindle-web-deobfuscator/)
 * [2025-10-19, 12:05:50](https://news.ycombinator.com/item?id=45633619) - [Uber will offer gig work like AI data labeling to drivers while not on the road](https://www.cnbc.com/2025/10/16/uber-will-offer-us-drivers-more-gig-work-including-ai-data-labeling.html)
