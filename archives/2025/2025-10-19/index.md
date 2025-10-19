@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-10-19](index.md)
 
+* [2025-10-19, 17:13:11](https://news.ycombinator.com/item?id=45635870) - [I wish SSDs gave you CPU performance style metrics about their activity](https://utcc.utoronto.ca/~cks/space/blog/tech/SSDWritePerfMetricsWish)
 * [2025-10-19, 17:00:42](https://news.ycombinator.com/item?id=45635757) - [Infisical (YC W23) Is Hiring Full Stack Engineers](https://www.ycombinator.com/companies/infisical/jobs/0gY2Da1-full-stack-engineer-global)
 * [2025-10-19, 16:57:49](https://news.ycombinator.com/item?id=45635734) - [The Trinary Dream Endures](https://www.robinsloan.com/lab/trinary-dream/)
 * [2025-10-19, 16:31:57](https://news.ycombinator.com/item?id=45635533) - [Doing well in your courses: a guide by Andrej Karpathy](https://cs.stanford.edu/people/karpathy/advice.html)
@@ -11,12 +12,15 @@
 * [2025-10-19, 16:25:54](https://news.ycombinator.com/item?id=45635463) - [When Pollution Spikes in Southeast Asia, Rainfall Shifts from Land to Sea](https://e360.yale.edu/digest/southeast-asia-aerosols-rainfall?asds)
 * [2025-10-19, 16:15:28](https://news.ycombinator.com/item?id=45635336) - [Judge says body cameras for Chicago officers \"was not a suggestion\"](https://www.cbsnews.com/chicago/news/judge-homeland-security-federal-agents-chicago-body-cameras/)
 * [2025-10-19, 16:09:43](https://news.ycombinator.com/item?id=45635287) - [Windows 11 25H2 October Update Bug Renders Recovery Environment Unusable](https://www.techpowerup.com/342032/windows-11-25h2-october-update-bug-renders-recovery-environment-unusable)
+* [2025-10-19, 15:56:12](https://news.ycombinator.com/item?id=45635147) - [Show HN: Notepad.exe – macOS editor for Swift and Python (now Linux runtime)](https://notepadexe.com/)
 * [2025-10-19, 15:49:47](https://news.ycombinator.com/item?id=45635077) - [How Senior Engineers Lose Trust](https://tahahussain.substack.com/p/how-senior-engineers-lose-trust)
+* [2025-10-19, 15:48:52](https://news.ycombinator.com/item?id=45635069) - [GNU Octave Meets JupyterLite: Compute Anywhere, Anytime](https://blog.jupyter.org/gnu-octave-meets-jupyterlite-compute-anywhere-anytime-8b033afbbcdc)
 * [2025-10-19, 15:18:58](https://news.ycombinator.com/item?id=45634811) - [The Spherical Cows of Programming](https://programmingsimplicity.substack.com/p/the-spherical-cows-of-programming)
 * [2025-10-19, 15:16:51](https://news.ycombinator.com/item?id=45634797) - [The Zipper Is Getting Its First Major Upgrade in 100 Years](https://www.wired.com/story/the-zipper-is-getting-its-first-major-upgrade-in-100-years/)
 * [2025-10-19, 15:14:58](https://news.ycombinator.com/item?id=45634774) - [With deadline looming 4 of 9 universities reject Trumps pact to remake higher ed](https://arstechnica.com/culture/2025/10/with-deadline-looming-4-of-9-universities-reject-trumps-compact-to-remake-higher-ed/)
 * [2025-10-19, 15:03:29](https://news.ycombinator.com/item?id=45634678) - [What Are RFCs? The Forgotten Blueprints of the Internet](https://ackreq.github.io/posts/what-are-rfcs/)
 * [2025-10-19, 14:58:16](https://news.ycombinator.com/item?id=45634641) - [Why an abundance of choice is not the same as freedom](https://aeon.co/essays/why-an-abundance-of-choice-is-not-the-same-as-freedom)
+* [2025-10-19, 14:45:03](https://news.ycombinator.com/item?id=45634528) - [Scheme Reports at Fifty](https://crumbles.blog/posts/2025-10-18-scheme-reports-at-fifty.html)
 * [2025-10-19, 14:40:47](https://news.ycombinator.com/item?id=45634484) - [Websites Are for Humans](https://marcus-obst.de/blog/websites-are-for-humans)
 * [2025-10-19, 14:25:45](https://news.ycombinator.com/item?id=45634367) - [Xubuntu.org Might Be Compromised](https://old.reddit.com/r/Ubuntu/comments/1oa4549/xubuntuorg_might_be_compromised/)
 * [2025-10-19, 14:19:41](https://news.ycombinator.com/item?id=45634333) - [ISP Blocking of No-IP's Dynamic DNS Enters Week 2](https://torrentfreak.com/isp-blocking-of-no-ips-dynamic-dns-enters-week-2-251019/)
