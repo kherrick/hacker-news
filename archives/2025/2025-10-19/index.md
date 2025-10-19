@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-10-19](index.md)
 
+* [2025-10-19, 21:42:18](https://news.ycombinator.com/item?id=45638295) - [Inside The Republican network behind big soda's bid to pit Maga against Maha](https://www.theguardian.com/us-news/2025/oct/19/inside-the-republican-network-behind-big-sodas-bid-to-pit-maga-against-maha)
 * [2025-10-19, 21:30:17](https://news.ycombinator.com/item?id=45638188) - [Show HN: 18yo first iOS app: blocks distracting apps and unlocks with QR/barcode](https://apps.apple.com/us/app/recode-screen-time-control/id6752352978)
 * [2025-10-19, 21:20:15](https://news.ycombinator.com/item?id=45638096) - [Bible and Quran apps flagged NSFW by F-Droid](https://forum.f-droid.org/t/nsfw-flag-incorrectly-added-to-bible-and-quran-apps/33401)
 * [2025-10-19, 21:01:34](https://news.ycombinator.com/item?id=45637945) - [Ask HN: Those who applied to the OpenAI Grove program, did you ever hear back?](https://news.ycombinator.com/item?id=45637945)
@@ -55,6 +56,7 @@
 * [2025-10-19, 11:08:49](https://news.ycombinator.com/item?id=45633426) - [What Happened in 2007?](https://whathappenedin2007.com/)
 * [2025-10-19, 10:07:38](https://news.ycombinator.com/item?id=45633191) - [Did Space Debris Hit A United Flight Over The Rockies Thursday?](https://viewfromthewing.com/did-space-debris-hit-a-united-flight-over-the-rockies-thursday-heres-what-we-know-so-far/)
 * [2025-10-19, 09:41:25](https://news.ycombinator.com/item?id=45633081) - [The Case for the Return of Fine-Tuning](https://welovesota.com/article/the-case-for-the-return-of-fine-tuning)
+* [2025-10-19, 09:20:05](https://news.ycombinator.com/item?id=45632976) - [Deterministic multithreading is hard (2024)](https://www.factorio.com/blog/post/fff-415)
 * [2025-10-19, 08:14:04](https://news.ycombinator.com/item?id=45632738) - [Space junk falls on Western Australian minesite](https://www.abc.net.au/news/2025-10-19/wa-space-debris-reentry-investigation/105909612)
 * [2025-10-19, 08:11:47](https://news.ycombinator.com/item?id=45632724) - [Show HN: Newcomer Ranking – Alternative to GitHub Trending for New Repos](https://git-stars.org/ranking/newcomers)
 * [2025-10-19, 08:01:20](https://news.ycombinator.com/item?id=45632681) - [Show HN: A better Hacker News front end](https://hakkernieuws.vercel.app/top)
