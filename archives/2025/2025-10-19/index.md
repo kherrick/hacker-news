@@ -6,6 +6,7 @@
 
 * [2025-10-19, 19:50:46](https://news.ycombinator.com/item?id=45637347) - [We Need Arabic Language Models](https://www.natureasia.com/en/nmiddleeast/article/10.1038/nmiddleeast.2025.142)
 * [2025-10-19, 19:40:26](https://news.ycombinator.com/item?id=45637242) - [What Unix pipelines got right and how we can do better](https://programmingsimplicity.substack.com/p/what-unix-pipelines-got-right-and)
+* [2025-10-19, 19:30:00](https://news.ycombinator.com/item?id=45637151) - [The White House is already one of the most blocked accounts on Bluesky](https://techcrunch.com/2025/10/19/the-white-house-is-already-one-of-the-most-blocked-accounts-on-bluesky/)
 * [2025-10-19, 19:26:54](https://news.ycombinator.com/item?id=45637133) - [Dosbian: Boot to DOSBox on Raspberry Pi](https://cmaiolino.wordpress.com/dosbian/)
 * [2025-10-19, 19:16:59](https://news.ycombinator.com/item?id=45637049) - [US Government Uptime Monitor](https://usa-status.com/)
 * [2025-10-19, 18:36:50](https://news.ycombinator.com/item?id=45636708) - [The AI bubble is 17 times bigger than the dot-com bust](https://www.cnn.com/2025/10/18/business/ai-bubble-analyst-nightcap)
