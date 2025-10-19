@@ -49,6 +49,7 @@
 * [2025-10-13, 12:18:39](https://news.ycombinator.com/item?id=45567517) - [US Junk Bonds Post Worst Losses in Six Months, Spreads Widen](https://www.bloomberg.com/news/articles/2025-10-13/us-junk-bonds-post-worst-losses-in-six-months-spreads-widen)
 * [2025-10-13, 12:08:31](https://news.ycombinator.com/item?id=45567443) - [We need (at least) ergonomic, explicit handles](https://smallcultfollowing.com/babysteps/blog/2025/10/13/ergonomic-explicit-handles/)
 * [2025-10-13, 12:03:51](https://news.ycombinator.com/item?id=45567406) - [AI Is Too Big to Fail](https://sibylline.dev/articles/2025-10-12-ai-is-too-big-to-fail/)
+* [2025-10-13, 12:00:48](https://news.ycombinator.com/item?id=45567382) - [Caveat Prompter](https://surfingcomplexity.blog/2025/10/12/caveat-promptor/)
 * [2025-10-13, 11:37:55](https://news.ycombinator.com/item?id=45567241) - [Why did containers happen?](https://buttondown.com/justincormack/archive/ignore-previous-directions-8-devopsdays/)
 * [2025-10-13, 11:23:20](https://news.ycombinator.com/item?id=45567153) - [The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel 2025](https://www.nobelprize.org/prizes/economic-sciences/2025/summary/)
 * [2025-10-13, 11:07:25](https://news.ycombinator.com/item?id=45567050) - [Who invented deep residual learning?](https://people.idsia.ch/~juergen/who-invented-residual-neural-networks.html)
