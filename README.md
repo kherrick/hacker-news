@@ -1,12 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-10-19, 18:02:00](https://news.ycombinator.com/item?id=45636365) - [Compare Single Board Computers](https://sbc.compare/)
 * [2025-10-19, 17:19:49](https://news.ycombinator.com/item?id=45635940) - [Ask HN: What are people doing to get off of VMware?](https://news.ycombinator.com/item?id=45635940)
 * [2025-10-19, 17:13:11](https://news.ycombinator.com/item?id=45635870) - [I wish SSDs gave you CPU performance style metrics about their activity](https://utcc.utoronto.ca/~cks/space/blog/tech/SSDWritePerfMetricsWish)
 * [2025-10-19, 17:00:42](https://news.ycombinator.com/item?id=45635757) - [Infisical (YC W23) Is Hiring Full Stack Engineers](https://www.ycombinator.com/companies/infisical/jobs/0gY2Da1-full-stack-engineer-global)
 * [2025-10-19, 16:57:49](https://news.ycombinator.com/item?id=45635734) - [The Trinary Dream Endures](https://www.robinsloan.com/lab/trinary-dream/)
 * [2025-10-19, 16:31:57](https://news.ycombinator.com/item?id=45635533) - [Doing well in your courses: Andrej's advice for success (2013)](https://cs.stanford.edu/people/karpathy/advice.html)
 * [2025-10-19, 16:31:37](https://news.ycombinator.com/item?id=45635528) - [Thieves steal crown jewels in 4 minutes from Louvre Museum](https://apnews.com/article/france-louvre-museum-robbery-a3687f330a43e0aaff68c732c4b2585b)
-* [2025-10-19, 16:25:54](https://news.ycombinator.com/item?id=45635463) - [When Pollution Spikes in Southeast Asia, Rainfall Shifts from Land to Sea](https://e360.yale.edu/digest/southeast-asia-aerosols-rainfall?asds)
 * [2025-10-19, 16:09:43](https://news.ycombinator.com/item?id=45635287) - [Windows 11 25H2 October Update Bug Renders Recovery Environment Unusable](https://www.techpowerup.com/342032/windows-11-25h2-october-update-bug-renders-recovery-environment-unusable)
 * [2025-10-19, 15:56:12](https://news.ycombinator.com/item?id=45635147) - [Show HN: Notepad.exe – macOS editor for Swift and Python (now Linux runtime)](https://notepadexe.com/)
 * [2025-10-19, 15:48:52](https://news.ycombinator.com/item?id=45635069) - [GNU Octave Meets JupyterLite: Compute Anywhere, Anytime](https://blog.jupyter.org/gnu-octave-meets-jupyterlite-compute-anywhere-anytime-8b033afbbcdc)
@@ -27,7 +27,7 @@
 * [2025-10-19, 09:41:25](https://news.ycombinator.com/item?id=45633081) - [The case for the return of fine-tuning](https://welovesota.com/article/the-case-for-the-return-of-fine-tuning)
 * [2025-10-18, 10:51:02](https://news.ycombinator.com/item?id=45626349) - [EQ: A video about all forms of equalizers](https://www.youtube.com/watch?v=CLAt95PrwL4)
 * [2025-10-15, 02:44:06](https://news.ycombinator.com/item?id=45587546) - [Lost Jack Kerouac story found among assassinated mafia boss' belongings](https://www.sfgate.com/sf-culture/article/lost-jack-kerouac-chapter-found-mafia-boss-estate-21098566.php)
-* [2025-10-14, 07:28:15](https://news.ycombinator.com/item?id=45577181) - [Comparing the power consumption of a 30 year old refrigerator to a brand new one](https://ounapuu.ee/posts/2025/10/14/fridge-power-consumption/)
+* [2025-10-14, 19:25:49](https://news.ycombinator.com/item?id=45583767) - [Better SRGB to Greyscale Conversion](https://30fps.net/pages/better-srgb-to-greyscale/)
 * [2025-10-12, 09:59:13](https://news.ycombinator.com/item?id=45556911) - [The Spilhaus Projection-A World Map According to Fish](https://southernwoodenboatsailing.com/news/the-spilhaus-projection-a-world-map-according-to-fish)
 * [2025-10-09, 20:55:00](https://news.ycombinator.com/item?id=45532971) - [Show HN: Open-Source Voice AI Badge Powered by ESP32+WebRTC](https://github.com/VapiAI/vapicon-2025-hardware-workshop)
 

@@ -20,6 +20,7 @@
 * [2025-10-14, 19:50:57](https://news.ycombinator.com/item?id=45583999) - [Why the open social web matters now](https://werd.io/why-the-open-social-web-matters-now/)
 * [2025-10-14, 19:27:41](https://news.ycombinator.com/item?id=45583787) - [How to Turn Liquid Glass into a Solid Interface – TidBITS](https://tidbits.com/2025/10/09/how-to-turn-liquid-glass-into-a-solid-interface/)
 * [2025-10-14, 19:27:29](https://news.ycombinator.com/item?id=45583786) - [Your data model is your destiny](https://notes.mtb.xyz/p/your-data-model-is-your-destiny)
+* [2025-10-14, 19:25:49](https://news.ycombinator.com/item?id=45583767) - [Better SRGB to Greyscale Conversion](https://30fps.net/pages/better-srgb-to-greyscale/)
 * [2025-10-14, 19:23:20](https://news.ycombinator.com/item?id=45583730) - [America Is Sliding Toward Illiteracy](https://www.theatlantic.com/ideas/archive/2025/10/education-decline-low-expectations/684526/)
 * [2025-10-14, 19:15:57](https://news.ycombinator.com/item?id=45583667) - [Show HN: An open source access logs analytics script to block bot attacks](https://github.com/tempesta-tech/webshield)
 * [2025-10-14, 19:06:27](https://news.ycombinator.com/item?id=45583574) - [Preparing for AI's economic impact: exploring policy responses](https://www.anthropic.com/research/economic-policy-responses)
