@@ -1,12 +1,42 @@
 [
   [
     [
+      "2025-10-19, 01:23:29",
+      "https://news.ycombinator.com/item?id=45631503"
+    ],
+    [
+      "Friendship Begins at Home",
+      "https://3quarksdaily.com/3quarksdaily/2025/10/friendship-begins-at-home.html"
+    ]
+  ],
+  [
+    [
       "2025-10-19, 01:00:42",
       "https://news.ycombinator.com/item?id=45631422"
     ],
     [
       "GoGoGrandparent (YC S16) Is Hiring Back End and Full-Stack Engineers",
       "https://news.ycombinator.com/item?id=45631422"
+    ]
+  ],
+  [
+    [
+      "2025-10-19, 00:33:24",
+      "https://news.ycombinator.com/item?id=45631328"
+    ],
+    [
+      "Using Pegs in Janet",
+      "https://articles.inqk.net/2020/09/19/how-to-use-pegs-in-janet.html"
+    ]
+  ],
+  [
+    [
+      "2025-10-18, 23:59:40",
+      "https://news.ycombinator.com/item?id=45631212"
+    ],
+    [
+      "Bevy TLDR – Game development with Bevy summarized",
+      "https://taintedcoders.com/bevy/tldr"
     ]
   ],
   [
@@ -81,16 +111,6 @@
   ],
   [
     [
-      "2025-10-18, 13:08:30",
-      "https://news.ycombinator.com/item?id=45627048"
-    ],
-    [
-      "Using CUE to unify IoT sensor data",
-      "https://aran.dev/posts/cue/using-cue-to-unify-iot-sensor-data/"
-    ]
-  ],
-  [
-    [
       "2025-10-18, 12:56:50",
       "https://news.ycombinator.com/item?id=45626985"
     ],
@@ -101,12 +121,12 @@
   ],
   [
     [
-      "2025-10-18, 12:53:32",
-      "https://news.ycombinator.com/item?id=45626961"
+      "2025-10-18, 10:51:02",
+      "https://news.ycombinator.com/item?id=45626349"
     ],
     [
-      "Lux: A luxurious package manager for Lua",
-      "https://github.com/lumen-oss/lux"
+      "EQ: A video about all forms of equalizers",
+      "https://www.youtube.com/watch?v=CLAt95PrwL4"
     ]
   ],
   [
@@ -121,32 +141,12 @@
   ],
   [
     [
-      "2025-10-18, 09:25:30",
-      "https://news.ycombinator.com/item?id=45626037"
-    ],
-    [
-      "Fast calculation of the distance to cubic Bezier curves on the GPU",
-      "https://blog.pkh.me/p/46-fast-calculation-of-the-distance-to-cubic-bezier-curves-on-the-gpu.html"
-    ]
-  ],
-  [
-    [
       "2025-10-18, 05:47:14",
       "https://news.ycombinator.com/item?id=45625229"
     ],
     [
       "Chen-Ning Yang, Nobel laureate, dies at 103",
       "https://www.chinadaily.com.cn/a/202510/18/WS68f3170ea310f735438b5bf2.html"
-    ]
-  ],
-  [
-    [
-      "2025-10-18, 04:26:19",
-      "https://news.ycombinator.com/item?id=45624888"
-    ],
-    [
-      "AMD's Chiplet APU: An Overview of Strix Halo",
-      "https://chipsandcheese.com/p/amds-chiplet-apu-an-overview-of-strix"
     ]
   ],
   [
@@ -241,12 +241,12 @@
   ],
   [
     [
-      "2025-10-14, 06:23:47",
-      "https://news.ycombinator.com/item?id=45576857"
+      "2025-10-13, 21:39:15",
+      "https://news.ycombinator.com/item?id=45573626"
     ],
     [
-      "What Dynamic Typing Is For",
-      "https://unplannedobsolescence.com/blog/what-dynamic-typing-is-for/"
+      "How does Turbo listen for Turbo Streams",
+      "https://ducktypelabs.com/how-does-turbo-listen-for-turbo-streams/"
     ]
   ],
   [
@@ -281,22 +281,22 @@
   ],
   [
     [
-      "2025-10-12, 18:54:21",
-      "https://news.ycombinator.com/item?id=45560738"
-    ],
-    [
-      "Our Paint – A featureless but programmable painting program",
-      "https://www.WellObserve.com/OurPaint/index_en.html"
-    ]
-  ],
-  [
-    [
       "2025-10-12, 10:23:48",
       "https://news.ycombinator.com/item?id=45557032"
     ],
     [
       "The reason GCC is not a library (2000)",
       "https://gcc.gnu.org/legacy-ml/gcc/2000-01/msg00572.html"
+    ]
+  ],
+  [
+    [
+      "2025-10-11, 02:11:22",
+      "https://news.ycombinator.com/item?id=45545980"
+    ],
+    [
+      "The rise and fall of the powered wig",
+      "https://www.battlefields.org/learn/head-tilting-history/rise-and-fall-powdered-wig"
     ]
   ]
 ]
