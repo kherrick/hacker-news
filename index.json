@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-10-19, 17:00:42",
+      "https://news.ycombinator.com/item?id=45635757"
+    ],
+    [
+      "Infisical (YC W23) Is Hiring Full Stack Engineers",
+      "https://www.ycombinator.com/companies/infisical/jobs/0gY2Da1-full-stack-engineer-global"
+    ]
+  ],
+  [
+    [
       "2025-10-19, 16:25:54",
       "https://news.ycombinator.com/item?id=45635463"
     ],
@@ -251,16 +261,6 @@
   ],
   [
     [
-      "2025-10-16, 19:57:41",
-      "https://news.ycombinator.com/item?id=45609986"
-    ],
-    [
-      "When you opened a screen shot of a video in Paint, the video was playing in it",
-      "https://devblogs.microsoft.com/oldnewthing/20251014-00/?p=111681"
-    ]
-  ],
-  [
-    [
       "2025-10-15, 02:44:06",
       "https://news.ycombinator.com/item?id=45587546"
     ],
@@ -291,12 +291,12 @@
   ],
   [
     [
-      "2025-10-13, 00:50:45",
-      "https://news.ycombinator.com/item?id=45563589"
+      "2025-10-09, 20:55:00",
+      "https://news.ycombinator.com/item?id=45532971"
     ],
     [
-      "Jupyter Collaboration has a history slider",
-      "https://blog.jupyter.org/exploring-a-documents-timeline-in-jupyterlab-6084f96db263"
+      "Show HN: Open-Source Voice AI Badge Powered by ESP32+WebRTC",
+      "https://github.com/VapiAI/vapicon-2025-hardware-workshop"
     ]
   ]
 ]
