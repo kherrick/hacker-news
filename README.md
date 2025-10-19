@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-10-19, 16:25:54](https://news.ycombinator.com/item?id=45635463) - [When Pollution Spikes in Southeast Asia, Rainfall Shifts from Land to Sea](https://e360.yale.edu/digest/southeast-asia-aerosols-rainfall?asds)
+* [2025-10-19, 16:09:43](https://news.ycombinator.com/item?id=45635287) - [Windows 11 25H2 October Update Bug Renders Recovery Environment Unusable](https://www.techpowerup.com/342032/windows-11-25h2-october-update-bug-renders-recovery-environment-unusable)
 * [2025-10-19, 15:18:58](https://news.ycombinator.com/item?id=45634811) - [The Spherical Cows of Programming](https://programmingsimplicity.substack.com/p/the-spherical-cows-of-programming)
 * [2025-10-19, 15:14:58](https://news.ycombinator.com/item?id=45634774) - [With deadline looming 4 of 9 universities reject Trumps pact to remake higher ed](https://arstechnica.com/culture/2025/10/with-deadline-looming-4-of-9-universities-reject-trumps-compact-to-remake-higher-ed/)
 * [2025-10-19, 15:03:29](https://news.ycombinator.com/item?id=45634678) - [What Are RFCs? The Forgotten Blueprints of the Internet](https://ackreq.github.io/posts/what-are-rfcs/)
@@ -16,7 +17,6 @@
 * [2025-10-19, 13:01:34](https://news.ycombinator.com/item?id=45633815) - [The macOS LC_COLLATE hunt: Or why does sort order differently on macOS and Linux](https://blog.zhimingwang.org/macos-lc_collate-hunt)
 * [2025-10-19, 12:36:17](https://news.ycombinator.com/item?id=45633711) - [A Tower on Billionaires' Row Is Full of Cracks. Who's to Blame?](https://www.nytimes.com/2025/10/19/nyregion/432-park-avenue-condo-tower.html)
 * [2025-10-19, 12:11:58](https://news.ycombinator.com/item?id=45633642) - [Improving PixelMelt's Kindle Web Deobfuscator](https://shkspr.mobi/blog/2025/10/improving-pixelmelts-kindle-web-deobfuscator/)
-* [2025-10-19, 12:00:11](https://news.ycombinator.com/item?id=45633591) - [Pebble is officially back on iOS and Android](https://twitter.com/ericmigi/status/1979576965494710564)
 * [2025-10-19, 11:30:17](https://news.ycombinator.com/item?id=45633482) - [OpenAI researcher announced GPT-5 math breakthrough that never happened](https://the-decoder.com/leading-openai-researcher-announced-a-gpt-5-math-breakthrough-that-never-happened/)
 * [2025-10-19, 11:19:38](https://news.ycombinator.com/item?id=45633453) - [Show HN: Duck-UI – Browser-Based SQL IDE for DuckDB](https://demo.duckui.com)
 * [2025-10-19, 09:41:25](https://news.ycombinator.com/item?id=45633081) - [The case for the return of fine-tuning](https://welovesota.com/article/the-case-for-the-return-of-fine-tuning)
