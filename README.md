@@ -26,7 +26,7 @@
 * [2025-10-13, 21:39:15](https://news.ycombinator.com/item?id=45573626) - [How does Turbo listen for Turbo Streams](https://ducktypelabs.com/how-does-turbo-listen-for-turbo-streams/)
 * [2025-10-13, 11:07:25](https://news.ycombinator.com/item?id=45567050) - [Who invented deep residual learning?](https://people.idsia.ch/~juergen/who-invented-residual-neural-networks.html)
 * [2025-10-12, 23:27:08](https://news.ycombinator.com/item?id=45563021) - [Satellite images show ancient hunting traps used by South American social groups](https://phys.org/news/2025-10-satellite-images-reveal-ancient-south.html)
-* [2025-10-12, 20:05:01](https://news.ycombinator.com/item?id=45561382) - [Moonlander.BAS](https://basic-code.bearblog.dev/moonlander/)
+* [2025-10-12, 13:04:55](https://news.ycombinator.com/item?id=45557970) - [Why do Stanford math professors still use chalk? (2021)](https://stanforddaily.com/2021/10/17/why-do-stanford-math-professors-still-use-chalk/)
 * [2025-10-12, 10:23:48](https://news.ycombinator.com/item?id=45557032) - [The reason GCC is not a library (2000)](https://gcc.gnu.org/legacy-ml/gcc/2000-01/msg00572.html)
 * [2025-10-11, 02:11:22](https://news.ycombinator.com/item?id=45545980) - [The Rise and Fall of the Powdered Wig (2020)](https://www.battlefields.org/learn/head-tilting-history/rise-and-fall-powdered-wig)
 * [2025-10-10, 05:40:23](https://news.ycombinator.com/item?id=45535644) - [How sober should a writer be?](https://yalereview.org/article/crosley-how-sober-should-a-writer-be)
