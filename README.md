@@ -1,8 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-10-19, 21:01:34](https://news.ycombinator.com/item?id=45637945) - [Ask HN: Those who applied to the OpenAI Grove program, did you ever hear back?](https://news.ycombinator.com/item?id=45637945)
+* [2025-10-19, 20:39:13](https://news.ycombinator.com/item?id=45637744) - [Ozempic's Patent Expires in January: Novo Nordisk's Canadian Mistake](https://www.science.org/content/blog-post/novo-nordisk-s-canadian-mistake)
 * [2025-10-19, 19:30:00](https://news.ycombinator.com/item?id=45637151) - [The White House is already one of the most blocked accounts on Bluesky](https://techcrunch.com/2025/10/19/the-white-house-is-already-one-of-the-most-blocked-accounts-on-bluesky/)
 * [2025-10-19, 19:26:54](https://news.ycombinator.com/item?id=45637133) - [Dosbian: Boot to DOSBox on Raspberry Pi](https://cmaiolino.wordpress.com/dosbian/)
-* [2025-10-19, 19:16:59](https://news.ycombinator.com/item?id=45637049) - [US Government Uptime Monitor](https://usa-status.com/)
 * [2025-10-19, 18:02:00](https://news.ycombinator.com/item?id=45636365) - [Compare Single Board Computers](https://sbc.compare/)
 * [2025-10-19, 17:54:21](https://news.ycombinator.com/item?id=45636285) - [Airliner hit by possible space debris](https://avbrief.com/united-max-hit-by-falling-object-at-36000-feet/)
 * [2025-10-19, 17:38:11](https://news.ycombinator.com/item?id=45636116) - [Could the XZ backdoor been detected with better Git/Deb packaging practices?](https://optimizedbyotto.com/post/xz-backdoor-debian-git-detection/)
@@ -14,7 +15,6 @@
 * [2025-10-19, 16:09:43](https://news.ycombinator.com/item?id=45635287) - [Windows 11 25H2 October Update Bug Renders Recovery Environment Unusable](https://www.techpowerup.com/342032/windows-11-25h2-october-update-bug-renders-recovery-environment-unusable)
 * [2025-10-19, 15:48:52](https://news.ycombinator.com/item?id=45635069) - [GNU Octave Meets JupyterLite: Compute Anywhere, Anytime](https://blog.jupyter.org/gnu-octave-meets-jupyterlite-compute-anywhere-anytime-8b033afbbcdc)
 * [2025-10-19, 15:03:29](https://news.ycombinator.com/item?id=45634678) - [RFCs: Blueprints of the Internet](https://ackreq.github.io/posts/what-are-rfcs/)
-* [2025-10-19, 14:58:16](https://news.ycombinator.com/item?id=45634641) - [Why an abundance of choice is not the same as freedom](https://aeon.co/essays/why-an-abundance-of-choice-is-not-the-same-as-freedom)
 * [2025-10-19, 14:45:03](https://news.ycombinator.com/item?id=45634528) - [Scheme Reports at Fifty](https://crumbles.blog/posts/2025-10-18-scheme-reports-at-fifty.html)
 * [2025-10-19, 14:25:45](https://news.ycombinator.com/item?id=45634367) - [Xubuntu.org Might Be Compromised](https://old.reddit.com/r/Ubuntu/comments/1oa4549/xubuntuorg_might_be_compromised/)
 * [2025-10-19, 14:16:12](https://news.ycombinator.com/item?id=45634310) - [Show HN: Pyversity – Fast Result Diversification for Retrieval and RAG](https://github.com/Pringled/pyversity)

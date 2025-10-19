@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-10-19](index.md)
 
+* [2025-10-19, 21:01:34](https://news.ycombinator.com/item?id=45637945) - [Ask HN: Those who applied to the OpenAI Grove program, did you ever hear back?](https://news.ycombinator.com/item?id=45637945)
+* [2025-10-19, 20:39:13](https://news.ycombinator.com/item?id=45637744) - [Ozempic's Patent Expires in January: Novo Nordisk's Canadian Mistake](https://www.science.org/content/blog-post/novo-nordisk-s-canadian-mistake)
 * [2025-10-19, 19:50:46](https://news.ycombinator.com/item?id=45637347) - [We Need Arabic Language Models](https://www.natureasia.com/en/nmiddleeast/article/10.1038/nmiddleeast.2025.142)
 * [2025-10-19, 19:40:26](https://news.ycombinator.com/item?id=45637242) - [What Unix pipelines got right and how we can do better](https://programmingsimplicity.substack.com/p/what-unix-pipelines-got-right-and)
 * [2025-10-19, 19:30:00](https://news.ycombinator.com/item?id=45637151) - [The White House is already one of the most blocked accounts on Bluesky](https://techcrunch.com/2025/10/19/the-white-house-is-already-one-of-the-most-blocked-accounts-on-bluesky/)
