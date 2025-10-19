@@ -22,6 +22,7 @@
 * [2025-10-13, 18:20:00](https://news.ycombinator.com/item?id=45571647) - [Credential Stuffing](https://ciamweekly.substack.com/p/credential-stuffing)
 * [2025-10-13, 17:24:51](https://news.ycombinator.com/item?id=45570973) - [America's future could hinge on whether AI slightly disappoints](https://www.noahpinion.blog/p/americas-future-could-hinge-on-whether)
 * [2025-10-13, 17:14:30](https://news.ycombinator.com/item?id=45570840) - [ProtonVPN Lied About Logging](https://vp.net/l/en-US/blog/ProtonVPN-Lied-About-Logging)
+* [2025-10-13, 17:06:44](https://news.ycombinator.com/item?id=45570758) - [The Cancer Imaging Archive (TCIA)](https://www.cancerimagingarchive.net/)
 * [2025-10-13, 17:03:11](https://news.ycombinator.com/item?id=45570720) - [Optery (YC W22) – Hiring Tech Lead with Node.js Experience (U.S. & Latin America)](https://www.optery.com/careers/)
 * [2025-10-13, 16:49:15](https://news.ycombinator.com/item?id=45570537) - [Environment variables are a legacy mess: Let's dive deep into them](https://allvpv.org/haotic-journey-through-envvars/)
 * [2025-10-13, 16:47:45](https://news.ycombinator.com/item?id=45570517) - [The early Unix history of chown() being restricted to root](https://utcc.utoronto.ca/~cks/space/blog/unix/ChownRestrictionEarlyHistory)
