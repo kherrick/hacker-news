@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-10-19, 17:00:42](https://news.ycombinator.com/item?id=45635757) - [Infisical (YC W23) Is Hiring Full Stack Engineers](https://www.ycombinator.com/companies/infisical/jobs/0gY2Da1-full-stack-engineer-global)
 * [2025-10-19, 16:25:54](https://news.ycombinator.com/item?id=45635463) - [When Pollution Spikes in Southeast Asia, Rainfall Shifts from Land to Sea](https://e360.yale.edu/digest/southeast-asia-aerosols-rainfall?asds)
 * [2025-10-19, 16:09:43](https://news.ycombinator.com/item?id=45635287) - [Windows 11 25H2 October Update Bug Renders Recovery Environment Unusable](https://www.techpowerup.com/342032/windows-11-25h2-october-update-bug-renders-recovery-environment-unusable)
 * [2025-10-19, 15:18:58](https://news.ycombinator.com/item?id=45634811) - [The Spherical Cows of Programming](https://programmingsimplicity.substack.com/p/the-spherical-cows-of-programming)
@@ -25,11 +26,10 @@
 * [2025-10-18, 13:52:24](https://news.ycombinator.com/item?id=45627394) - [Root System Drawings](https://images.wur.nl/digital/collection/coll13/search)
 * [2025-10-18, 10:51:02](https://news.ycombinator.com/item?id=45626349) - [EQ: A video about all forms of equalizers](https://www.youtube.com/watch?v=CLAt95PrwL4)
 * [2025-10-18, 05:47:14](https://news.ycombinator.com/item?id=45625229) - [Chen-Ning Yang, Nobel laureate, dies at 103](https://www.chinadaily.com.cn/a/202510/18/WS68f3170ea310f735438b5bf2.html)
-* [2025-10-16, 19:57:41](https://news.ycombinator.com/item?id=45609986) - [When you opened a screen shot of a video in Paint, the video was playing in it](https://devblogs.microsoft.com/oldnewthing/20251014-00/?p=111681)
 * [2025-10-15, 02:44:06](https://news.ycombinator.com/item?id=45587546) - [Lost Jack Kerouac story found among assassinated mafia boss' belongings](https://www.sfgate.com/sf-culture/article/lost-jack-kerouac-chapter-found-mafia-boss-estate-21098566.php)
 * [2025-10-14, 07:44:56](https://news.ycombinator.com/item?id=45577266) - [How one of the longest dinosaur trackways in the world was uncovered in the UK](https://www.bbc.co.uk/news/resources/idt-5f8c77b0-92bc-40f2-bf21-6793abbe5ffe)
 * [2025-10-14, 07:28:15](https://news.ycombinator.com/item?id=45577181) - [Comparing the power consumption of a 30 year old refrigerator to a brand new one](https://ounapuu.ee/posts/2025/10/14/fridge-power-consumption/)
-* [2025-10-13, 00:50:45](https://news.ycombinator.com/item?id=45563589) - [Jupyter Collaboration has a history slider](https://blog.jupyter.org/exploring-a-documents-timeline-in-jupyterlab-6084f96db263)
+* [2025-10-09, 20:55:00](https://news.ycombinator.com/item?id=45532971) - [Show HN: Open-Source Voice AI Badge Powered by ESP32+WebRTC](https://github.com/VapiAI/vapicon-2025-hardware-workshop)
 
 ## [Archives](archives/index.md)
 

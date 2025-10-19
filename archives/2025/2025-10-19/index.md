@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-10-19](index.md)
 
+* [2025-10-19, 17:00:42](https://news.ycombinator.com/item?id=45635757) - [Infisical (YC W23) Is Hiring Full Stack Engineers](https://www.ycombinator.com/companies/infisical/jobs/0gY2Da1-full-stack-engineer-global)
 * [2025-10-19, 16:25:54](https://news.ycombinator.com/item?id=45635463) - [When Pollution Spikes in Southeast Asia, Rainfall Shifts from Land to Sea](https://e360.yale.edu/digest/southeast-asia-aerosols-rainfall?asds)
 * [2025-10-19, 16:15:28](https://news.ycombinator.com/item?id=45635336) - [Judge says body cameras for Chicago officers \"was not a suggestion\"](https://www.cbsnews.com/chicago/news/judge-homeland-security-federal-agents-chicago-body-cameras/)
 * [2025-10-19, 16:09:43](https://news.ycombinator.com/item?id=45635287) - [Windows 11 25H2 October Update Bug Renders Recovery Environment Unusable](https://www.techpowerup.com/342032/windows-11-25h2-october-update-bug-renders-recovery-environment-unusable)
