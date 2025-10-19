@@ -18,6 +18,7 @@
 * [2025-10-19, 17:00:42](https://news.ycombinator.com/item?id=45635757) - [Infisical (YC W23) Is Hiring Full Stack Engineers](https://www.ycombinator.com/companies/infisical/jobs/0gY2Da1-full-stack-engineer-global)
 * [2025-10-19, 16:57:49](https://news.ycombinator.com/item?id=45635734) - [The Trinary Dream Endures](https://www.robinsloan.com/lab/trinary-dream/)
 * [2025-10-19, 16:31:57](https://news.ycombinator.com/item?id=45635533) - [Doing well in your courses: a guide by Andrej Karpathy](https://cs.stanford.edu/people/karpathy/advice.html)
+* [2025-10-19, 16:31:52](https://news.ycombinator.com/item?id=45635530) - [Show HN: Browser-based PDF form fields detection (YOLO-based)](https://commonforms.simplepdf.com/)
 * [2025-10-19, 16:31:37](https://news.ycombinator.com/item?id=45635528) - [Thieves steal crown jewels in 4 minutes from Louvre Museum](https://apnews.com/article/france-louvre-museum-robbery-a3687f330a43e0aaff68c732c4b2585b)
 * [2025-10-19, 16:25:54](https://news.ycombinator.com/item?id=45635463) - [When Pollution Spikes in Southeast Asia, Rainfall Shifts from Land to Sea](https://e360.yale.edu/digest/southeast-asia-aerosols-rainfall?asds)
 * [2025-10-19, 16:15:28](https://news.ycombinator.com/item?id=45635336) - [Judge says body cameras for Chicago officers \"was not a suggestion\"](https://www.cbsnews.com/chicago/news/judge-homeland-security-federal-agents-chicago-body-cameras/)
