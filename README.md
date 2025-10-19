@@ -26,10 +26,10 @@
 * [2025-10-14, 09:54:46](https://news.ycombinator.com/item?id=45578115) - [Adding Breadcrumbs to a Rails Application](https://avohq.io/blog/breadcrumbs-rails)
 * [2025-10-14, 07:44:56](https://news.ycombinator.com/item?id=45577266) - [How one of the longest dinosaur trackways in the world was uncovered in the UK](https://www.bbc.co.uk/news/resources/idt-5f8c77b0-92bc-40f2-bf21-6793abbe5ffe)
 * [2025-10-13, 21:39:15](https://news.ycombinator.com/item?id=45573626) - [How does Turbo listen for Turbo Streams](https://ducktypelabs.com/how-does-turbo-listen-for-turbo-streams/)
-* [2025-10-13, 12:00:48](https://news.ycombinator.com/item?id=45567382) - [Caveat Prompter](https://surfingcomplexity.blog/2025/10/12/caveat-promptor/)
 * [2025-10-13, 11:07:25](https://news.ycombinator.com/item?id=45567050) - [Who invented deep residual learning?](https://people.idsia.ch/~juergen/who-invented-residual-neural-networks.html)
 * [2025-10-13, 00:50:45](https://news.ycombinator.com/item?id=45563589) - [Jupyter Collaboration has a history slider](https://blog.jupyter.org/exploring-a-documents-timeline-in-jupyterlab-6084f96db263)
 * [2025-10-11, 17:22:04](https://news.ycombinator.com/item?id=45550908) - [The optimistic case for protein foundation model companies](https://www.owlposting.com/p/the-optimistic-case-for-protein-foundation-193)
+* [2025-10-10, 22:04:18](https://news.ycombinator.com/item?id=45544330) - [BQN \"Macros\" with •Decompose (2023)](https://saltysylvi.github.io/blog/bqn-macros.html)
 
 ## [Archives](archives/index.md)
 
