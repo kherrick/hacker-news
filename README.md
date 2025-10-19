@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-10-19, 12:36:17](https://news.ycombinator.com/item?id=45633711) - [A Tower on Billionaires' Row Is Full of Cracks. Who's to Blame?](https://www.nytimes.com/2025/10/19/nyregion/432-park-avenue-condo-tower.html)
+* [2025-10-19, 12:11:58](https://news.ycombinator.com/item?id=45633642) - [Improving PixelMelt's Kindle Web Deobfuscator](https://shkspr.mobi/blog/2025/10/improving-pixelmelts-kindle-web-deobfuscator/)
 * [2025-10-19, 12:05:50](https://news.ycombinator.com/item?id=45633619) - [Uber will offer gig work like AI data labeling to drivers while not on the road](https://www.cnbc.com/2025/10/16/uber-will-offer-us-drivers-more-gig-work-including-ai-data-labeling.html)
 * [2025-10-19, 12:00:11](https://news.ycombinator.com/item?id=45633591) - [Pebble is officially back on iOS and Android](https://twitter.com/ericmigi/status/1979576965494710564)
 * [2025-10-19, 11:40:05](https://news.ycombinator.com/item?id=45633513) - [Police Break Up Lego Theft Ring, Recovering Hundreds of Beheaded Figurines](https://www.nytimes.com/2025/10/18/us/lego-theft-california-arrest.html)
@@ -28,7 +29,6 @@
 * [2025-10-14, 07:44:56](https://news.ycombinator.com/item?id=45577266) - [How one of the longest dinosaur trackways in the world was uncovered in the UK](https://www.bbc.co.uk/news/resources/idt-5f8c77b0-92bc-40f2-bf21-6793abbe5ffe)
 * [2025-10-13, 21:39:15](https://news.ycombinator.com/item?id=45573626) - [How does Turbo listen for Turbo Streams](https://ducktypelabs.com/how-does-turbo-listen-for-turbo-streams/)
 * [2025-10-13, 00:50:45](https://news.ycombinator.com/item?id=45563589) - [Jupyter Collaboration has a history slider](https://blog.jupyter.org/exploring-a-documents-timeline-in-jupyterlab-6084f96db263)
-* [2025-10-11, 17:22:04](https://news.ycombinator.com/item?id=45550908) - [The optimistic case for protein foundation model companies](https://www.owlposting.com/p/the-optimistic-case-for-protein-foundation-193)
 * [2025-10-10, 22:04:18](https://news.ycombinator.com/item?id=45544330) - [BQN \"Macros\" with •Decompose (2023)](https://saltysylvi.github.io/blog/bqn-macros.html)
 
 ## [Archives](archives/index.md)
