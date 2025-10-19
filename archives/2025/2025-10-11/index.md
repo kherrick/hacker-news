@@ -71,6 +71,7 @@
 * [2025-10-11, 02:56:28](https://news.ycombinator.com/item?id=45546200) - [Bitter lessons building AI products](https://hex.tech/blog/bitter-lessons-building-ai-in-hex-product-management/)
 * [2025-10-11, 02:37:26](https://news.ycombinator.com/item?id=45546107) - [My first week of vibecoding](https://underreacted.leaflet.pub/3m2v53oi4bk2z)
 * [2025-10-11, 02:28:13](https://news.ycombinator.com/item?id=45546069) - [Fears over AI bubble bursting grow in Silicon Valley](https://www.bbc.com/news/articles/cz69qy760weo)
+* [2025-10-11, 02:11:22](https://news.ycombinator.com/item?id=45545980) - [The rise and fall of the powered wig](https://www.battlefields.org/learn/head-tilting-history/rise-and-fall-powdered-wig)
 * [2025-10-11, 02:06:02](https://news.ycombinator.com/item?id=45545965) - [How hard do you have to hit a chicken to cook it? (2020)](https://james-simon.github.io/blog/chicken-cooking/)
 * [2025-10-11, 01:48:57](https://news.ycombinator.com/item?id=45545857) - [What happens to college towns after peak 18-year-old?](https://www.theargumentmag.com/p/what-happens-to-college-towns-after)
 * [2025-10-11, 00:22:31](https://news.ycombinator.com/item?id=45545277) - [Climate goals go up in smoke as US datacenters turn to coal](https://www.theregister.com/2025/10/10/datacenter_coal_power/)

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-10-18](index.md)
 
+* [2025-10-18, 23:59:40](https://news.ycombinator.com/item?id=45631212) - [Bevy TLDR – Game development with Bevy summarized](https://taintedcoders.com/bevy/tldr)
 * [2025-10-18, 19:58:25](https://news.ycombinator.com/item?id=45629970) - [How to sequence your DNA for <$2k](https://maxlangenkamp.substack.com/p/how-to-sequence-your-dna-for-2k)
 * [2025-10-18, 18:13:27](https://news.ycombinator.com/item?id=45629299) - [Most users cannot identify AI bias, even in training data](https://www.psu.edu/news/bellisario-college-communications/story/most-users-cannot-identify-ai-bias-even-training-data)
 * [2025-10-18, 17:02:22](https://news.ycombinator.com/item?id=45628761) - [Liva AI (YC S25) Is Hiring](https://www.ycombinator.com/companies/liva-ai/jobs/inrUYH9-founding-engineer)
@@ -29,6 +30,7 @@
 * [2025-10-18, 12:40:43](https://news.ycombinator.com/item?id=45626892) - [US falls out of 10 most powerful passports list for first time in 20 yrs](https://www.theguardian.com/us-news/2025/oct/15/most-powerful-passports-world-list)
 * [2025-10-18, 12:08:20](https://news.ycombinator.com/item?id=45626691) - [Are we living in a golden age of stupidity?](https://www.theguardian.com/technology/2025/oct/18/are-we-living-in-a-golden-age-of-stupidity-technology)
 * [2025-10-18, 11:39:59](https://news.ycombinator.com/item?id=45626549) - [MD RAID or DRBD can be broken from userspace when using O_DIRECT](https://bugzilla.kernel.org/show_bug.cgi?id=99171)
+* [2025-10-18, 10:51:02](https://news.ycombinator.com/item?id=45626349) - [EQ: A video about all forms of equalizers](https://www.youtube.com/watch?v=CLAt95PrwL4)
 * [2025-10-18, 09:55:06](https://news.ycombinator.com/item?id=45626130) - [./Watch](https://dotslashwatch.com/)
 * [2025-10-18, 09:34:56](https://news.ycombinator.com/item?id=45626070) - [US Seizes 15B BTC, Indicts Chairman: Forced Labor Scam Compounds, Crypto Fraud](https://www.justice.gov/opa/pr/chairman-prince-group-indicted-operating-cambodian-forced-labor-scam-compounds-engaged)
 * [2025-10-18, 09:25:30](https://news.ycombinator.com/item?id=45626037) - [Fast calculation of the distance to cubic Bezier curves on the GPU](https://blog.pkh.me/p/46-fast-calculation-of-the-distance-to-cubic-bezier-curves-on-the-gpu.html)
