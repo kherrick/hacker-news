@@ -4,9 +4,12 @@
 
 ### [Archives](../../index.md) for [2025-10-19](index.md)
 
+* [2025-10-19, 19:40:26](https://news.ycombinator.com/item?id=45637242) - [What Unix pipelines got right and how we can do better](https://programmingsimplicity.substack.com/p/what-unix-pipelines-got-right-and)
+* [2025-10-19, 19:26:54](https://news.ycombinator.com/item?id=45637133) - [Dosbian: Boot to DOSBox on Raspberry Pi](https://cmaiolino.wordpress.com/dosbian/)
 * [2025-10-19, 19:16:59](https://news.ycombinator.com/item?id=45637049) - [US Government Uptime Monitor](https://usa-status.com/)
 * [2025-10-19, 18:36:50](https://news.ycombinator.com/item?id=45636708) - [The AI bubble is 17 times bigger than the dot-com bust](https://www.cnn.com/2025/10/18/business/ai-bubble-analyst-nightcap)
 * [2025-10-19, 18:02:00](https://news.ycombinator.com/item?id=45636365) - [Compare Single Board Computers](https://sbc.compare/)
+* [2025-10-19, 17:38:11](https://news.ycombinator.com/item?id=45636116) - [Could the XZ backdoor been detected with better Git/Deb packaging practices?](https://optimizedbyotto.com/post/xz-backdoor-debian-git-detection/)
 * [2025-10-19, 17:19:49](https://news.ycombinator.com/item?id=45635940) - [Ask HN: What are people doing to get off of VMware?](https://news.ycombinator.com/item?id=45635940)
 * [2025-10-19, 17:13:11](https://news.ycombinator.com/item?id=45635870) - [I wish SSDs gave you CPU performance style metrics about their activity](https://utcc.utoronto.ca/~cks/space/blog/tech/SSDWritePerfMetricsWish)
 * [2025-10-19, 17:00:42](https://news.ycombinator.com/item?id=45635757) - [Infisical (YC W23) Is Hiring Full Stack Engineers](https://www.ycombinator.com/companies/infisical/jobs/0gY2Da1-full-stack-engineer-global)
