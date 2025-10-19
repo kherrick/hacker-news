@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-10-19, 08:14:04](https://news.ycombinator.com/item?id=45632738) - [Space junk falls on Western Australian minesite](https://www.abc.net.au/news/2025-10-19/wa-space-debris-reentry-investigation/105909612)
 * [2025-10-19, 08:11:47](https://news.ycombinator.com/item?id=45632724) - [Show HN: Newcomer Ranking – Alternative to GitHub Trending for New Repos](https://git-stars.org/ranking/newcomers)
 * [2025-10-19, 08:01:20](https://news.ycombinator.com/item?id=45632681) - [Show HN: A better Hacker News front end](https://hakkernieuws.vercel.app/top)
 * [2025-10-19, 05:45:02](https://news.ycombinator.com/item?id=45632262) - [GoFundMe CEO: economy is so bad his customers crowdfund to pay for groceries](https://finance.yahoo.com/news/gofundme-ceo-says-economy-bad-182843671.html)
@@ -10,7 +11,6 @@
 * [2025-10-18, 19:58:25](https://news.ycombinator.com/item?id=45629970) - [How to sequence your DNA for <$2k](https://maxlangenkamp.substack.com/p/how-to-sequence-your-dna-for-2k)
 * [2025-10-18, 18:13:27](https://news.ycombinator.com/item?id=45629299) - [Most users cannot identify AI bias, even in training data](https://www.psu.edu/news/bellisario-college-communications/story/most-users-cannot-identify-ai-bias-even-training-data)
 * [2025-10-18, 16:08:10](https://news.ycombinator.com/item?id=45628391) - [Tinnitus Neuromodulator](https://mynoise.net/NoiseMachines/neuromodulationTonesGenerator.php)
-* [2025-10-18, 15:52:39](https://news.ycombinator.com/item?id=45628283) - [Picturing Mathematics](https://mathenchant.wordpress.com/2025/10/18/picturing-mathematics/)
 * [2025-10-18, 14:33:22](https://news.ycombinator.com/item?id=45627692) - [Flowistry: An IDE plugin for Rust that focuses on relevant code](https://github.com/willcrichton/flowistry)
 * [2025-10-18, 13:52:24](https://news.ycombinator.com/item?id=45627394) - [Root System Drawings](https://images.wur.nl/digital/collection/coll13/search)
 * [2025-10-18, 12:44:16](https://news.ycombinator.com/item?id=45626910) - [IDEs we had 30 years ago and lost (2023)](https://blogsystem5.substack.com/p/the-ides-we-had-30-years-ago-and)
