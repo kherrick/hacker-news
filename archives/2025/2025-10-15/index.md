@@ -24,6 +24,7 @@
 * [2025-10-15, 17:21:32](https://news.ycombinator.com/item?id=45595760) - [Show HN: Specific (YC F25) – Build backends with specifications instead of code](https://specific.dev/)
 * [2025-10-15, 17:20:40](https://news.ycombinator.com/item?id=45595746) - [US Passport Power Falls to Historic Low](https://www.henleyglobal.com/newsroom/press-releases/henley-global-mobility-report-oct-2025)
 * [2025-10-15, 17:18:13](https://news.ycombinator.com/item?id=45595724) - [Are hard drives getting better?](https://www.backblaze.com/blog/are-hard-drives-getting-better-lets-revisit-the-bathtub-curve/)
+* [2025-10-15, 17:06:51](https://news.ycombinator.com/item?id=45595569) - [A Bright HDR Image](https://walzr.com/HDR2.jpg)
 * [2025-10-15, 16:55:06](https://news.ycombinator.com/item?id=45595403) - [Claude Haiku 4.5](https://www.anthropic.com/news/claude-haiku-4-5)
 * [2025-10-15, 16:38:16](https://news.ycombinator.com/item?id=45595143) - [Soft multistable magnetic-responsive metamaterials](https://www.science.org/doi/10.1126/sciadv.adu3749)
 * [2025-10-15, 16:24:29](https://news.ycombinator.com/item?id=45594920) - [Zed is now available on Windows](https://zed.dev/blog/zed-for-windows-is-here)
