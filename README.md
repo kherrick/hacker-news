@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-10-19, 13:35:31](https://news.ycombinator.com/item?id=45634026) - [Abandoned land drives dangerous heat in Houston, Texas A&M study finds](https://stories.tamu.edu/news/2025/10/07/abandoned-land-drives-dangerous-heat-in-houston-texas-am-study-finds/)
 * [2025-10-19, 12:36:17](https://news.ycombinator.com/item?id=45633711) - [A Tower on Billionaires' Row Is Full of Cracks. Who's to Blame?](https://www.nytimes.com/2025/10/19/nyregion/432-park-avenue-condo-tower.html)
 * [2025-10-19, 12:11:58](https://news.ycombinator.com/item?id=45633642) - [Improving PixelMelt's Kindle Web Deobfuscator](https://shkspr.mobi/blog/2025/10/improving-pixelmelts-kindle-web-deobfuscator/)
 * [2025-10-19, 12:05:50](https://news.ycombinator.com/item?id=45633619) - [Uber will offer gig work like AI data labeling to drivers while not on the road](https://www.cnbc.com/2025/10/16/uber-will-offer-us-drivers-more-gig-work-including-ai-data-labeling.html)
@@ -23,7 +24,6 @@
 * [2025-10-16, 22:04:57](https://news.ycombinator.com/item?id=45611252) - [K8s with 1M nodes](https://bchess.github.io/k8s-1m/)
 * [2025-10-16, 19:57:41](https://news.ycombinator.com/item?id=45609986) - [When you opened a screen shot of a video in Paint, the video was playing in it](https://devblogs.microsoft.com/oldnewthing/20251014-00/?p=111681)
 * [2025-10-16, 15:56:05](https://news.ycombinator.com/item?id=45606986) - [Secret diplomatic message deciphered after 350 years](https://www.nationalarchives.gov.uk/explore-the-collection/the-collection-blog/secret-diplomatic-message-deciphered-after-350-years/)
-* [2025-10-16, 01:25:28](https://news.ycombinator.com/item?id=45600470) - [Coral NPU: A full-stack platform for Edge AI](https://research.google/blog/coral-npu-a-full-stack-platform-for-edge-ai/)
 * [2025-10-15, 02:44:06](https://news.ycombinator.com/item?id=45587546) - [Lost Jack Kerouac story found among assassinated mafia boss' belongings](https://www.sfgate.com/sf-culture/article/lost-jack-kerouac-chapter-found-mafia-boss-estate-21098566.php)
 * [2025-10-14, 19:50:57](https://news.ycombinator.com/item?id=45583999) - [Why the open social web matters now](https://werd.io/why-the-open-social-web-matters-now/)
 * [2025-10-14, 07:44:56](https://news.ycombinator.com/item?id=45577266) - [How one of the longest dinosaur trackways in the world was uncovered in the UK](https://www.bbc.co.uk/news/resources/idt-5f8c77b0-92bc-40f2-bf21-6793abbe5ffe)
