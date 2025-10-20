@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-10-20, 06:26:33",
+      "https://news.ycombinator.com/item?id=45640594"
+    ],
+    [
+      "DeepSeek OCR",
+      "https://github.com/deepseek-ai/DeepSeek-OCR"
+    ]
+  ],
+  [
+    [
       "2025-10-20, 04:42:08",
       "https://news.ycombinator.com/item?id=45640226"
     ],
@@ -177,16 +187,6 @@
     [
       "GNU Octave Meets JupyterLite: Compute Anywhere, Anytime",
       "https://blog.jupyter.org/gnu-octave-meets-jupyterlite-compute-anywhere-anytime-8b033afbbcdc"
-    ]
-  ],
-  [
-    [
-      "2025-10-19, 11:19:38",
-      "https://news.ycombinator.com/item?id=45633453"
-    ],
-    [
-      "Show HN: Duck-UI – Browser-Based SQL IDE for DuckDB",
-      "https://demo.duckui.com"
     ]
   ],
   [
