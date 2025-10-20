@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-10-20](index.md)
 
+* [2025-10-20, 18:06:23](https://news.ycombinator.com/item?id=45647100) - [An Unexpected Benefit from Quitting Coffee – 10 Months In](https://hamy.xyz/blog/2025-10_unexpected-benefit-quitting-coffee)
 * [2025-10-20, 17:36:16](https://news.ycombinator.com/item?id=45646691) - [TernFS – an exabyte scale, multi-region distributed filesystem](https://www.xtxmarkets.com/tech/2025-ternfs/#posix-shaped)
 * [2025-10-20, 17:32:46](https://news.ycombinator.com/item?id=45646649) - [AWS outage shows internet users 'at mercy' of too few providers, experts say](https://www.theguardian.com/technology/2025/oct/20/amazon-web-services-aws-outage-hits-dozens-websites-apps)
 * [2025-10-20, 17:25:45](https://news.ycombinator.com/item?id=45646572) - [Dutch spy services have restricted intelligence-sharing with the United States](https://intelnews.org/2025/10/20/01-3416/)

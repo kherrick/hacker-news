@@ -63,6 +63,7 @@
 * [2025-10-14, 10:30:32](https://news.ycombinator.com/item?id=45578318) - [Prime Minister Anthony Albanese's mobile phone number made available online](https://www.abc.net.au/news/2025-10-14/anthony-albanese-mobile-phone-number-available-online/105889284)
 * [2025-10-14, 09:54:53](https://news.ycombinator.com/item?id=45578117) - [KDE celebrates the 29th birthday and kicks off the yearly fundraiser](https://kde.org/fundraisers/yearend2025/)
 * [2025-10-14, 09:54:46](https://news.ycombinator.com/item?id=45578115) - [Adding Breadcrumbs to a Rails Application](https://avohq.io/blog/breadcrumbs-rails)
+* [2025-10-14, 08:35:48](https://news.ycombinator.com/item?id=45577626) - [The Great Horse Manure Crisis of 1894: predictions of 9 feet of manure in cities](https://en.wikipedia.org/wiki/Great_horse_manure_crisis_of_1894)
 * [2025-10-14, 08:01:44](https://news.ycombinator.com/item?id=45577377) - [What's the Deal with GitHub Spec Kit](https://den.dev/blog/github-spec-kit/)
 * [2025-10-14, 07:44:56](https://news.ycombinator.com/item?id=45577266) - [How one of the longest dinosaur trackways in the world was uncovered in the UK](https://www.bbc.co.uk/news/resources/idt-5f8c77b0-92bc-40f2-bf21-6793abbe5ffe)
 * [2025-10-14, 07:30:20](https://news.ycombinator.com/item?id=45577193) - [I let my AI agents run unsupervised and they burned $200 in 2 hours](https://blog.justcopy.ai/p/i-let-my-ai-agents-run-unsupervised)
