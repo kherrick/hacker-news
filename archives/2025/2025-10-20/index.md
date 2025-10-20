@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-10-20](index.md)
 
+* [2025-10-20, 20:50:03](https://news.ycombinator.com/item?id=45649178) - [Today is when the Amazon brain drain sent AWS down the spout](https://www.theregister.com/2025/10/20/aws_outage_amazon_brain_drain_corey_quinn/)
 * [2025-10-20, 20:27:12](https://news.ycombinator.com/item?id=45648864) - [Should MS Replace Satya Nadella with an AI CEO?](https://old.reddit.com/r/microsoftsucks/comments/1obsew3/should_ms_replace_satya_nadella_with_an_ai_ceo/)
 * [2025-10-20, 20:16:37](https://news.ycombinator.com/item?id=45648743) - [Webflow Donates $150k to Support Astro's Open Source Mission](https://astro.build/blog/webflow-official-partner/)
 * [2025-10-20, 20:14:52](https://news.ycombinator.com/item?id=45648726) - [It Kind of Seems Like Peter Thiel Is Losing It](https://futurism.com/future-society/peter-thiel-antichrist-lectures)
