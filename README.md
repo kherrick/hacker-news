@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-10-20, 17:36:16](https://news.ycombinator.com/item?id=45646691) - [TernFS – an exabyte scale, multi-region distributed filesystem](https://www.xtxmarkets.com/tech/2025-ternfs/#posix-shaped)
 * [2025-10-20, 16:12:32](https://news.ycombinator.com/item?id=45645567) - [Kohler launches smart toilet camera](https://techcrunch.com/2025/10/19/kohler-unveils-a-camera-for-your-toilet/)
 * [2025-10-20, 15:55:36](https://news.ycombinator.com/item?id=45645349) - [Production RAG: what I learned from processing 5M+ documents](https://blog.abdellatif.io/production-rag-processing-5m-documents)
 * [2025-10-20, 14:55:52](https://news.ycombinator.com/item?id=45644654) - [Commodore 64 Ultimate](https://www.commodore.net/product-page/commodore-64-ultimate-basic-beige-batch1)
@@ -25,7 +26,6 @@
 * [2025-10-14, 18:21:19](https://news.ycombinator.com/item?id=45583116) - [Optimizing writes to OLAP using buffers (ClickHouse, Redpanda, MooseStack)](https://www.fiveonefour.com/blog/optimizing-writes-to-olap-using-buffers)
 * [2025-10-14, 07:09:12](https://news.ycombinator.com/item?id=45577086) - [Optical diffraction patterns made with a MOPA laser engraving machine [video]](https://www.youtube.com/watch?v=RsGHr7dXLuI)
 * [2025-10-13, 15:55:48](https://news.ycombinator.com/item?id=45569787) - [Automate all the things with Swift Subprocess](https://blog.jacobstechtavern.com/p/swift-subprocess)
-* [2025-10-13, 12:44:31](https://news.ycombinator.com/item?id=45567746) - [Don't Force Your LLM to Write Terse [Q/Kdb] Code: An Information Theory Argument](https://medium.com/@gabiteodoru/dont-force-your-llm-to-write-terse-code-an-argument-from-information-theory-for-q-kdb-developers-04077c5b7038)
 * [2025-10-13, 04:33:11](https://news.ycombinator.com/item?id=45564696) - [The Peach meme: On CRTs, pixels and signal quality (again)](https://www.datagubbe.se/crt2/)
 * [2025-10-12, 19:08:43](https://news.ycombinator.com/item?id=45560864) - [Fractal Imaginary Cubes](https://www.i.h.kyoto-u.ac.jp/users/tsuiki/icube/fractal/index-e.html)
 * [2025-10-12, 13:06:48](https://news.ycombinator.com/item?id=45557982) - [How to Enter a City Like a King](https://worldhistory.substack.com/p/how-to-enter-a-city-like-a-king)

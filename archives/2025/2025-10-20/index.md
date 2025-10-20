@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-10-20](index.md)
 
+* [2025-10-20, 17:36:16](https://news.ycombinator.com/item?id=45646691) - [TernFS – an exabyte scale, multi-region distributed filesystem](https://www.xtxmarkets.com/tech/2025-ternfs/#posix-shaped)
 * [2025-10-20, 16:12:32](https://news.ycombinator.com/item?id=45645567) - [Kohler launches smart toilet camera](https://techcrunch.com/2025/10/19/kohler-unveils-a-camera-for-your-toilet/)
 * [2025-10-20, 16:07:52](https://news.ycombinator.com/item?id=45645510) - [What I Self Host](https://fredrikmeyer.net/2025/10/18/what-i-self-host.html)
 * [2025-10-20, 15:55:36](https://news.ycombinator.com/item?id=45645349) - [Production RAG: what I learned from processing 5M+ documents](https://blog.abdellatif.io/production-rag-processing-5m-documents)
