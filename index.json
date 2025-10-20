@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-10-20, 15:05:30",
+      "https://news.ycombinator.com/item?id=45644777"
+    ],
+    [
+      "Anthropic and Cursor Spend This Much on Amazon Web Services",
+      "https://www.wheresyoured.at/costs/"
+    ]
+  ],
+  [
+    [
+      "2025-10-20, 14:55:52",
+      "https://news.ycombinator.com/item?id=45644654"
+    ],
+    [
+      "Commodore 64 Ultimate",
+      "https://www.commodore.net/product-page/commodore-64-ultimate-basic-beige-batch1"
+    ]
+  ],
+  [
+    [
       "2025-10-20, 14:31:16",
       "https://news.ycombinator.com/item?id=45644328"
     ],
@@ -31,32 +51,22 @@
   ],
   [
     [
-      "2025-10-20, 12:31:22",
-      "https://news.ycombinator.com/item?id=45643163"
-    ],
-    [
-      "Alibaba Cloud claims to reduce Nvidia GPU use by 82%",
-      "https://www.scmp.com/business/article/3329450/alibaba-cloud-claims-slash-nvidia-gpu-use-82-new-pooling-system"
-    ]
-  ],
-  [
-    [
-      "2025-10-20, 12:17:59",
-      "https://news.ycombinator.com/item?id=45643040"
-    ],
-    [
-      "AI-generated 'poverty porn' fake images being used by aid agencies",
-      "https://www.theguardian.com/global-development/2025/oct/20/ai-generated-poverty-porn-fake-images-being-used-by-aid-agencies"
-    ]
-  ],
-  [
-    [
       "2025-10-20, 12:11:45",
       "https://news.ycombinator.com/item?id=45642995"
     ],
     [
       "Calculating legally compliant rent late fees across U.S. states",
       "https://www.RentLateFee.com"
+    ]
+  ],
+  [
+    [
+      "2025-10-20, 12:09:53",
+      "https://news.ycombinator.com/item?id=45642979"
+    ],
+    [
+      "Qt Group Buys IAR Systems Group",
+      "https://www.qt.io/stock/qt-completes-the-recommended-public-cash-offer-to-the-shareholders-of-iar-systems-group-1760351460000-3668995"
     ]
   ],
   [
@@ -97,16 +107,6 @@
     [
       "State-based vs Signal-based rendering",
       "https://jovidecroock.com/blog/state-vs-signals/"
-    ]
-  ],
-  [
-    [
-      "2025-10-20, 08:12:09",
-      "https://news.ycombinator.com/item?id=45641143"
-    ],
-    [
-      "Major AWS outage takes down Fortnite, Alexa, Snapchat, and more",
-      "https://www.theverge.com/news/802486/aws-outage-alexa-fortnite-snapchat-offline"
     ]
   ],
   [
@@ -221,16 +221,6 @@
   ],
   [
     [
-      "2025-10-19, 17:54:21",
-      "https://news.ycombinator.com/item?id=45636285"
-    ],
-    [
-      "Airliner hit by possible space debris",
-      "https://avbrief.com/united-max-hit-by-falling-object-at-36000-feet/"
-    ]
-  ],
-  [
-    [
       "2025-10-19, 16:31:57",
       "https://news.ycombinator.com/item?id=45635533"
     ],
@@ -247,6 +237,16 @@
     [
       "Give Your Metrics an Expiry Date",
       "https://adrianhoward.com/posts/give-your-metrics-an-expiry-date/"
+    ]
+  ],
+  [
+    [
+      "2025-10-15, 07:28:45",
+      "https://news.ycombinator.com/item?id=45589156"
+    ],
+    [
+      "How to stop Linux threads cleanly",
+      "https://mazzo.li/posts/stopping-linux-threads.html"
     ]
   ],
   [
