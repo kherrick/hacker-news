@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-10-20, 02:56:20",
+      "https://news.ycombinator.com/item?id=45639860"
+    ],
+    [
+      "Introduction to reverse-engineering vintage synth firmware",
+      "https://ajxs.me/blog/Introduction_to_Reverse-Engineering_Vintage_Synth_Firmware.html"
+    ]
+  ],
+  [
+    [
       "2025-10-20, 02:12:24",
       "https://news.ycombinator.com/item?id=45639654"
     ],
@@ -181,16 +191,6 @@
   ],
   [
     [
-      "2025-10-19, 14:16:12",
-      "https://news.ycombinator.com/item?id=45634310"
-    ],
-    [
-      "Show HN: Pyversity – Fast Result Diversification for Retrieval and RAG",
-      "https://github.com/Pringled/pyversity"
-    ]
-  ],
-  [
-    [
       "2025-10-19, 13:01:34",
       "https://news.ycombinator.com/item?id=45633815"
     ],
@@ -207,16 +207,6 @@
     [
       "Show HN: Duck-UI – Browser-Based SQL IDE for DuckDB",
       "https://demo.duckui.com"
-    ]
-  ],
-  [
-    [
-      "2025-10-19, 09:41:25",
-      "https://news.ycombinator.com/item?id=45633081"
-    ],
-    [
-      "The case for the return of fine-tuning",
-      "https://welovesota.com/article/the-case-for-the-return-of-fine-tuning"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Oskar Speck's 1932 Kayak Journey from Germany to Australia",
       "https://nswskc.wordpress.com/2002/10/24/incredible-journey-50/"
+    ]
+  ],
+  [
+    [
+      "2025-10-09, 13:18:49",
+      "https://news.ycombinator.com/item?id=45527306"
+    ],
+    [
+      "Discussion of the Benefits and Drawbacks of the Git Pre-Commit Hook",
+      "https://yeldirium.de/2025/10/09/pre-commit-hooks/index.html"
     ]
   ]
 ]
