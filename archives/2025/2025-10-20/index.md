@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-10-20](index.md)
 
 * [2025-10-20, 18:12:23](https://news.ycombinator.com/item?id=45647166) - [Claude Code on the Web](https://www.anthropic.com/news/claude-code-on-the-web)
+* [2025-10-20, 18:09:49](https://news.ycombinator.com/item?id=45647133) - [Peanut Allergies Have Plummeted in Children](https://www.nytimes.com/2025/10/20/well/peanut-allergy-drop.html)
 * [2025-10-20, 18:06:23](https://news.ycombinator.com/item?id=45647100) - [An Unexpected Benefit from Quitting Coffee – 10 Months In](https://hamy.xyz/blog/2025-10_unexpected-benefit-quitting-coffee)
 * [2025-10-20, 17:55:18](https://news.ycombinator.com/item?id=45646958) - [x86-64 Playground – An online assembly editor and GDB-like debugger](https://x64.halb.it/)
 * [2025-10-20, 17:36:16](https://news.ycombinator.com/item?id=45646691) - [TernFS – an exabyte scale, multi-region distributed filesystem](https://www.xtxmarkets.com/tech/2025-ternfs/#posix-shaped)
