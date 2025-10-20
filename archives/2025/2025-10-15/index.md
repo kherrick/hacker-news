@@ -44,6 +44,7 @@
 * [2025-10-15, 13:02:53](https://news.ycombinator.com/item?id=45591799) - [Apple unleashes M5, the next big leap in AI performance for Apple Silicon](https://www.apple.com/newsroom/2025/10/apple-unleashes-m5-the-next-big-leap-in-ai-performance-for-apple-silicon/)
 * [2025-10-15, 13:00:19](https://news.ycombinator.com/item?id=45591766) - [F5 Networks reports nation-state cyberattack on product systems](https://www.streetinsider.com/Corporate+News/F5+Networks+reports+nation-state+cyberattack+on+product+systems/25457824.html)
 * [2025-10-15, 12:56:12](https://news.ycombinator.com/item?id=45591707) - [I Almost Got Hacked by a 'Job Interview'](https://blog.daviddodda.com/how-i-almost-got-hacked-by-a-job-interview)
+* [2025-10-15, 12:21:55](https://news.ycombinator.com/item?id=45591288) - [Give Your Metrics an Expiry Date](https://adrianhoward.com/posts/give-your-metrics-an-expiry-date/)
 * [2025-10-15, 12:19:40](https://news.ycombinator.com/item?id=45591264) - [They Clean the Balls in a Ball Pit](https://www.core77.com/posts/138608/Heres-How-They-Clean-the-Balls-in-a-Ball-Pit)
 * [2025-10-15, 12:16:16](https://news.ycombinator.com/item?id=45591222) - [Show HN: Scriber Pro – Transcribe 4.5hr video in 3.5min, 100% offline on Mac](https://scriberpro.cc/hn/)
 * [2025-10-15, 12:08:04](https://news.ycombinator.com/item?id=45591149) - [Garbage Collection for Rust: The Finalizer Frontier](https://soft-dev.org/pubs/html/hughes_tratt__garbage_collection_for_rust_the_finalizer_frontier/)
