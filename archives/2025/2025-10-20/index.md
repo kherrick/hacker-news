@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-10-20](index.md)
 
+* [2025-10-20, 15:05:30](https://news.ycombinator.com/item?id=45644777) - [Anthropic and Cursor Spend This Much on Amazon Web Services](https://www.wheresyoured.at/costs/)
+* [2025-10-20, 14:55:52](https://news.ycombinator.com/item?id=45644654) - [Commodore 64 Ultimate](https://www.commodore.net/product-page/commodore-64-ultimate-basic-beige-batch1)
 * [2025-10-20, 14:31:16](https://news.ycombinator.com/item?id=45644328) - [BERT Is Just a Single Text Diffusion Step](https://nathan.rs/posts/roberta-diffusion/)
 * [2025-10-20, 14:20:50](https://news.ycombinator.com/item?id=45644205) - [\"COBOL supports close to 90% of Fortune 500 business systems today.\"](https://cobolcowboys.com/cobol-today/)
 * [2025-10-20, 13:54:38](https://news.ycombinator.com/item?id=45643976) - [Modeling Others' Minds as Code](https://arxiv.org/abs/2510.01272)
@@ -12,6 +14,7 @@
 * [2025-10-20, 12:31:22](https://news.ycombinator.com/item?id=45643163) - [Alibaba Cloud claims to reduce Nvidia GPU use by 82%](https://www.scmp.com/business/article/3329450/alibaba-cloud-claims-slash-nvidia-gpu-use-82-new-pooling-system)
 * [2025-10-20, 12:17:59](https://news.ycombinator.com/item?id=45643040) - [AI-generated 'poverty porn' fake images being used by aid agencies](https://www.theguardian.com/global-development/2025/oct/20/ai-generated-poverty-porn-fake-images-being-used-by-aid-agencies)
 * [2025-10-20, 12:11:45](https://news.ycombinator.com/item?id=45642995) - [Calculating legally compliant rent late fees across U.S. states](https://www.RentLateFee.com)
+* [2025-10-20, 12:09:53](https://news.ycombinator.com/item?id=45642979) - [Qt Group Buys IAR Systems Group](https://www.qt.io/stock/qt-completes-the-recommended-public-cash-offer-to-the-shareholders-of-iar-systems-group-1760351460000-3668995)
 * [2025-10-20, 12:05:02](https://news.ycombinator.com/item?id=45642951) - [AWS Outage: A Single Cloud Region Shouldn't Take Down the World. But It Did](https://faun.dev/c/news/devopslinks/aws-outage-a-single-cloud-region-shouldnt-take-down-the-world-but-it-did/)
 * [2025-10-20, 12:00:28](https://news.ycombinator.com/item?id=45642923) - [Matrix Conference 2025 Highlights](https://element.io/blog/the-matrix-conference-a-seminal-moment-for-matrix/)
 * [2025-10-20, 11:58:35](https://news.ycombinator.com/item?id=45642911) - [Show HN: Playwright Skill for Claude Code – Less context than playwright-MCP](https://github.com/lackeyjb/playwright-skill)

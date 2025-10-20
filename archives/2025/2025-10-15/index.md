@@ -60,6 +60,7 @@
 * [2025-10-15, 10:19:21](https://news.ycombinator.com/item?id=45590302) - [CVE-2025-55315: Asp.net Security Feature Bypass Vulnerability [9.9 Critical]](https://nvd.nist.gov/vuln/detail/CVE-2025-55315)
 * [2025-10-15, 10:10:20](https://news.ycombinator.com/item?id=45590236) - [Britain has wasted £1,112,293,718 switching off wind turbines in 2025](https://wastedwind.energy/)
 * [2025-10-15, 07:52:40](https://news.ycombinator.com/item?id=45589327) - [Europe's Digital Sovereignty Paradox – \"Chat Control\" Update](https://www.process-one.net/blog/chat-control-update-oct-2025/)
+* [2025-10-15, 07:28:45](https://news.ycombinator.com/item?id=45589156) - [How to stop Linux threads cleanly](https://mazzo.li/posts/stopping-linux-threads.html)
 * [2025-10-15, 07:01:53](https://news.ycombinator.com/item?id=45588959) - [Show HN: Firm, a text-based work management system](https://github.com/42futures/firm)
 * [2025-10-15, 06:21:04](https://news.ycombinator.com/item?id=45588689) - [Just Talk to It – The No-Bs Way of Agentic Engineering](https://steipete.me/posts/just-talk-to-it)
 * [2025-10-15, 06:05:51](https://news.ycombinator.com/item?id=45588594) - [Pixnapping Attack](https://www.pixnapping.com/)
