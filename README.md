@@ -22,7 +22,7 @@
 * [2025-10-19, 22:25:46](https://news.ycombinator.com/item?id=45638588) - [Gleam OTP – Fault Tolerant Multicore Programs with Actors](https://github.com/gleam-lang/otp)
 * [2025-10-19, 20:54:31](https://news.ycombinator.com/item?id=45637880) - [Duke Nukem: Zero Hour N64 ROM Reverse-Engineering Project Hits 100%](https://github.com/Gillou68310/DukeNukemZeroHour)
 * [2025-10-19, 20:39:13](https://news.ycombinator.com/item?id=45637744) - [Novo Nordisk's Canadian Mistake](https://www.science.org/content/blog-post/novo-nordisk-s-canadian-mistake)
-* [2025-10-19, 16:31:57](https://news.ycombinator.com/item?id=45635533) - [Doing well in your courses: Andrej's advice for success (2013)](https://cs.stanford.edu/people/karpathy/advice.html)
+* [2025-10-19, 17:54:21](https://news.ycombinator.com/item?id=45636285) - [Airliner hit by possible space debris](https://avbrief.com/united-max-hit-by-falling-object-at-36000-feet/)
 * [2025-10-15, 12:21:55](https://news.ycombinator.com/item?id=45591288) - [Give Your Metrics an Expiry Date](https://adrianhoward.com/posts/give-your-metrics-an-expiry-date/)
 * [2025-10-15, 07:28:45](https://news.ycombinator.com/item?id=45589156) - [How to stop Linux threads cleanly](https://mazzo.li/posts/stopping-linux-threads.html)
 * [2025-10-14, 18:21:19](https://news.ycombinator.com/item?id=45583116) - [Optimizing writes to OLAP using buffers (ClickHouse, Redpanda, MooseStack)](https://www.fiveonefour.com/blog/optimizing-writes-to-olap-using-buffers)
