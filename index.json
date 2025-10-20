@@ -1,12 +1,22 @@
 [
   [
     [
-      "2025-10-20, 13:14:58",
-      "https://news.ycombinator.com/item?id=45643526"
+      "2025-10-20, 14:20:50",
+      "https://news.ycombinator.com/item?id=45644205"
     ],
     [
-      "Rethinking Async Loops in JavaScript",
-      "https://allthingssmitty.com/2025/10/20/rethinking-async-loops-in-javascript/"
+      "\"COBOL supports close to 90% of Fortune 500 business systems today.\"",
+      "https://cobolcowboys.com/cobol-today/"
+    ]
+  ],
+  [
+    [
+      "2025-10-20, 13:54:38",
+      "https://news.ycombinator.com/item?id=45643976"
+    ],
+    [
+      "Modeling Others' Minds as Code",
+      "https://arxiv.org/abs/2510.01272"
     ]
   ],
   [
@@ -191,16 +201,6 @@
   ],
   [
     [
-      "2025-10-19, 22:25:46",
-      "https://news.ycombinator.com/item?id=45638588"
-    ],
-    [
-      "Gleam OTP – Fault Tolerant Multicore Programs with Actors",
-      "https://github.com/gleam-lang/otp"
-    ]
-  ],
-  [
-    [
       "2025-10-19, 20:54:31",
       "https://news.ycombinator.com/item?id=45637880"
     ],
@@ -261,12 +261,12 @@
   ],
   [
     [
-      "2025-10-13, 12:44:31",
-      "https://news.ycombinator.com/item?id=45567746"
+      "2025-10-13, 04:33:11",
+      "https://news.ycombinator.com/item?id=45564696"
     ],
     [
-      "Don't Force Your LLM to Write Terse [Q/Kdb] Code: An Information Theory Argument",
-      "https://medium.com/@gabiteodoru/dont-force-your-llm-to-write-terse-code-an-argument-from-information-theory-for-q-kdb-developers-04077c5b7038"
+      "The Peach meme: On CRTs, pixels and signal quality (again)",
+      "https://www.datagubbe.se/crt2/"
     ]
   ],
   [
