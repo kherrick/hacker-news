@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-10-20](index.md)
 
+* [2025-10-20, 12:05:02](https://news.ycombinator.com/item?id=45642951) - [AWS Outage: A Single Cloud Region Shouldn't Take Down the World. But It Did](https://faun.dev/c/news/devopslinks/aws-outage-a-single-cloud-region-shouldnt-take-down-the-world-but-it-did/)
 * [2025-10-20, 11:24:11](https://news.ycombinator.com/item?id=45642668) - [How Kids' TV Got Way Too Normal](https://slate.com/life/2025/10/kids-tv-movies-best-ratings-parents-disney.html)
 * [2025-10-20, 11:08:07](https://news.ycombinator.com/item?id=45642562) - [Beaver-engineered dam in the Czech Republic saves government $1.2M USD](https://en.wikipedia.org/wiki/Beaver-engineered_dam_in_the_Czech_Republic)
 * [2025-10-20, 11:03:47](https://news.ycombinator.com/item?id=45642527) - [Ask HN: What are some impressive vibe coding projects?](https://news.ycombinator.com/item?id=45642527)
