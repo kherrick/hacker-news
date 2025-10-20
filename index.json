@@ -111,16 +111,6 @@
   ],
   [
     [
-      "2025-10-19, 23:39:57",
-      "https://news.ycombinator.com/item?id=45638986"
-    ],
-    [
-      "LoC Is a Dumb Metric for Functions",
-      "https://theaxolot.wordpress.com/2025/10/18/loc-is-a-dumb-metric-for-functions/"
-    ]
-  ],
-  [
-    [
       "2025-10-19, 23:35:25",
       "https://news.ycombinator.com/item?id=45638966"
     ],
@@ -207,6 +197,16 @@
     [
       "GNU Octave Meets JupyterLite: Compute Anywhere, Anytime",
       "https://blog.jupyter.org/gnu-octave-meets-jupyterlite-compute-anywhere-anytime-8b033afbbcdc"
+    ]
+  ],
+  [
+    [
+      "2025-10-15, 12:21:55",
+      "https://news.ycombinator.com/item?id=45591288"
+    ],
+    [
+      "Give Your Metrics an Expiry Date",
+      "https://adrianhoward.com/posts/give-your-metrics-an-expiry-date/"
     ]
   ],
   [
