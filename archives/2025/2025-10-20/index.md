@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-10-20](index.md)
 
 * [2025-10-20, 07:31:23](https://news.ycombinator.com/item?id=45640877) - [Docker Systems Status: Full Service Disruption](https://www.dockerstatus.com/pages/incident/533c6539221ae15e3f000031/68f5e1c741c825463df7486c)
+* [2025-10-20, 07:22:28](https://news.ycombinator.com/item?id=45640838) - [AWS Multiple Services Down in us-east-1](https://health.aws.amazon.com/health/status?ts=20251020)
 * [2025-10-20, 07:11:06](https://news.ycombinator.com/item?id=45640772) - [Major AWS Outage Happening](https://old.reddit.com/r/aws/comments/1obd3lx/dynamodb_down_useast1/)
 * [2025-10-20, 06:49:29](https://news.ycombinator.com/item?id=45640678) - [Bat v0.26.0 Released](https://github.com/sharkdp/bat/releases/tag/v0.26.0)
 * [2025-10-20, 06:26:33](https://news.ycombinator.com/item?id=45640594) - [DeepSeek OCR](https://github.com/deepseek-ai/DeepSeek-OCR)
