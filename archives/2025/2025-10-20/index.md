@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-10-20](index.md)
 
+* [2025-10-20, 14:31:16](https://news.ycombinator.com/item?id=45644328) - [BERT Is Just a Single Text Diffusion Step](https://nathan.rs/posts/roberta-diffusion/)
 * [2025-10-20, 14:20:50](https://news.ycombinator.com/item?id=45644205) - [\"COBOL supports close to 90% of Fortune 500 business systems today.\"](https://cobolcowboys.com/cobol-today/)
 * [2025-10-20, 13:54:38](https://news.ycombinator.com/item?id=45643976) - [Modeling Others' Minds as Code](https://arxiv.org/abs/2510.01272)
 * [2025-10-20, 13:14:58](https://news.ycombinator.com/item?id=45643526) - [Rethinking Async Loops in JavaScript](https://allthingssmitty.com/2025/10/20/rethinking-async-loops-in-javascript/)
