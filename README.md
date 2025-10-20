@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-10-20, 19:56:19](https://news.ycombinator.com/item?id=45648479) - [Populism and Economic Prosperity](https://mainlymacro.blogspot.com/2025/10/populism-and-economic-prosperity.html)
+* [2025-10-20, 19:39:46](https://news.ycombinator.com/item?id=45648266) - [iOS 26.1 lets users control Liquid Glass transparency](https://www.macrumors.com/2025/10/20/ios-26-1-liquid-glass-toggle/)
 * [2025-10-20, 19:38:52](https://news.ycombinator.com/item?id=45648258) - [J.P. Morgan's OpenAI loan is strange](https://marketunpack.com/j-p-morgans-openai-loan-is-strange/)
 * [2025-10-20, 18:12:23](https://news.ycombinator.com/item?id=45647166) - [Claude Code on the Web](https://www.anthropic.com/news/claude-code-on-the-web)
 * [2025-10-20, 18:09:49](https://news.ycombinator.com/item?id=45647133) - [Peanut Allergies Have Plummeted in Children](https://www.nytimes.com/2025/10/20/well/peanut-allergy-drop.html)
@@ -23,12 +25,10 @@
 * [2025-10-20, 02:56:20](https://news.ycombinator.com/item?id=45639860) - [Introduction to reverse-engineering vintage synth firmware](https://ajxs.me/blog/Introduction_to_Reverse-Engineering_Vintage_Synth_Firmware.html)
 * [2025-10-15, 11:18:55](https://news.ycombinator.com/item?id=45590743) - [The longest baseball game took 33 innings to win](https://www.mlb.com/news/the-longest-professional-baseball-game-ever-played)
 * [2025-10-15, 07:28:45](https://news.ycombinator.com/item?id=45589156) - [How to stop Linux threads cleanly](https://mazzo.li/posts/stopping-linux-threads.html)
-* [2025-10-14, 18:21:19](https://news.ycombinator.com/item?id=45583116) - [Optimizing writes to OLAP using buffers (ClickHouse, Redpanda, MooseStack)](https://www.fiveonefour.com/blog/optimizing-writes-to-olap-using-buffers)
 * [2025-10-14, 08:35:48](https://news.ycombinator.com/item?id=45577626) - [The Great Horse Manure Crisis of 1894: predictions of 9 feet of manure in cities](https://en.wikipedia.org/wiki/Great_horse_manure_crisis_of_1894)
 * [2025-10-14, 07:09:12](https://news.ycombinator.com/item?id=45577086) - [Optical diffraction patterns made with a MOPA laser engraving machine [video]](https://www.youtube.com/watch?v=RsGHr7dXLuI)
 * [2025-10-13, 15:55:48](https://news.ycombinator.com/item?id=45569787) - [Automate all the things with Swift Subprocess](https://blog.jacobstechtavern.com/p/swift-subprocess)
 * [2025-10-13, 04:33:11](https://news.ycombinator.com/item?id=45564696) - [The Peach meme: On CRTs, pixels and signal quality (again)](https://www.datagubbe.se/crt2/)
-* [2025-10-12, 19:08:43](https://news.ycombinator.com/item?id=45560864) - [Fractal Imaginary Cubes](https://www.i.h.kyoto-u.ac.jp/users/tsuiki/icube/fractal/index-e.html)
 * [2025-10-09, 12:42:01](https://news.ycombinator.com/item?id=45526845) - [Pointer Pointer (2012)](https://pointerpointer.com)
 
 ## [Archives](archives/index.md)
