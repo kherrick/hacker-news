@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-10-20, 18:06:23",
+      "https://news.ycombinator.com/item?id=45647100"
+    ],
+    [
+      "An Unexpected Benefit from Quitting Coffee – 10 Months In",
+      "https://hamy.xyz/blog/2025-10_unexpected-benefit-quitting-coffee"
+    ]
+  ],
+  [
+    [
       "2025-10-20, 17:36:16",
       "https://news.ycombinator.com/item?id=45646691"
     ],
@@ -41,16 +51,6 @@
   ],
   [
     [
-      "2025-10-20, 17:14:48",
-      "https://news.ycombinator.com/item?id=45646429"
-    ],
-    [
-      "Intel fabs misusing J1 Visas",
-      "https://old.reddit.com/r/Semiconductors/comments/1ob8igx/i_work_at_an_intel_fab_as_an_engineer_and_half/"
-    ]
-  ],
-  [
-    [
       "2025-10-20, 15:55:36",
       "https://news.ycombinator.com/item?id=45645349"
     ],
@@ -77,16 +77,6 @@
     [
       "BERT Is Just a Single Text Diffusion Step",
       "https://nathan.rs/posts/roberta-diffusion/"
-    ]
-  ],
-  [
-    [
-      "2025-10-20, 14:27:17",
-      "https://news.ycombinator.com/item?id=45644276"
-    ],
-    [
-      "How Soon Will the Seas Rise?",
-      "https://www.quantamagazine.org/how-soon-will-the-seas-rise-20251020/"
     ]
   ],
   [
@@ -237,6 +227,16 @@
     [
       "Optimizing writes to OLAP using buffers (ClickHouse, Redpanda, MooseStack)",
       "https://www.fiveonefour.com/blog/optimizing-writes-to-olap-using-buffers"
+    ]
+  ],
+  [
+    [
+      "2025-10-14, 08:35:48",
+      "https://news.ycombinator.com/item?id=45577626"
+    ],
+    [
+      "The Great Horse Manure Crisis of 1894: predictions of 9 feet of manure in cities",
+      "https://en.wikipedia.org/wiki/Great_horse_manure_crisis_of_1894"
     ]
   ],
   [
