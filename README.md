@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-10-20, 11:08:07](https://news.ycombinator.com/item?id=45642562) - [Beaver-engineered dam in the Czech Republic saves government $1.2M USD](https://en.wikipedia.org/wiki/Beaver-engineered_dam_in_the_Czech_Republic)
-* [2025-10-20, 11:03:47](https://news.ycombinator.com/item?id=45642527) - [Ask HN: What are some impressive vibe coding projects?](https://news.ycombinator.com/item?id=45642527)
+* [2025-10-20, 11:24:11](https://news.ycombinator.com/item?id=45642668) - [How Kids' TV Got Way Too Normal](https://slate.com/life/2025/10/kids-tv-movies-best-ratings-parents-disney.html)
+* [2025-10-20, 11:08:07](https://news.ycombinator.com/item?id=45642562) - [Beaver-engineered dam in the Czech Republic](https://en.wikipedia.org/wiki/Beaver-engineered_dam_in_the_Czech_Republic)
 * [2025-10-20, 09:36:59](https://news.ycombinator.com/item?id=45641892) - [State-based vs Signal-based rendering](https://jovidecroock.com/blog/state-vs-signals/)
 * [2025-10-20, 08:12:09](https://news.ycombinator.com/item?id=45641143) - [Major AWS outage takes down Fortnite, Alexa, Snapchat, and more](https://www.theverge.com/news/802486/aws-outage-alexa-fortnite-snapchat-offline)
 * [2025-10-20, 07:31:23](https://news.ycombinator.com/item?id=45640877) - [Docker Systems Status: Full Service Disruption](https://www.dockerstatus.com/pages/incident/533c6539221ae15e3f000031/68f5e1c741c825463df7486c)
