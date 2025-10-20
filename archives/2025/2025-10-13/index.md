@@ -56,6 +56,7 @@
 * [2025-10-13, 11:23:20](https://news.ycombinator.com/item?id=45567153) - [The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel 2025](https://www.nobelprize.org/prizes/economic-sciences/2025/summary/)
 * [2025-10-13, 11:07:25](https://news.ycombinator.com/item?id=45567050) - [Who invented deep residual learning?](https://people.idsia.ch/~juergen/who-invented-residual-neural-networks.html)
 * [2025-10-13, 10:35:58](https://news.ycombinator.com/item?id=45566857) - [The Hunt for the World's Oldest Story](https://www.newyorker.com/magazine/2025/10/20/review-the-roots-of-ancient-mythology-books)
+* [2025-10-13, 10:34:17](https://news.ycombinator.com/item?id=45566849) - [Adding Breadcrumbs to a Rails Application](https://avohq.io/blog/breadcrumbs-rails)
 * [2025-10-13, 10:23:08](https://news.ycombinator.com/item?id=45566766) - [Matrices can be your Friends](https://www.sjbaker.org/steve/omniv/matrices_can_be_your_friends.html)
 * [2025-10-13, 10:05:50](https://news.ycombinator.com/item?id=45566660) - [Two Paths to Memory Safety: CHERI and OMA](https://ednutting.com/2025/10/05/cheri-vs-oma.html)
 * [2025-10-13, 10:03:11](https://news.ycombinator.com/item?id=45566644) - [Dutch government takes control of Chinese-owned chipmaker Nexperia](https://www.cnbc.com/2025/10/13/dutch-government-takes-control-of-chinese-owned-chipmaker-nexperia.html)
