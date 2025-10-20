@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-10-20, 04:42:08](https://news.ycombinator.com/item?id=45640226) - [Space Elevator](https://neal.fun/space-elevator/)
 * [2025-10-20, 03:33:11](https://news.ycombinator.com/item?id=45639995) - [Entire Linux Network stack diagram (2024)](https://zenodo.org/records/14179366)
 * [2025-10-20, 02:56:20](https://news.ycombinator.com/item?id=45639860) - [Introduction to reverse-engineering vintage synth firmware](https://ajxs.me/blog/Introduction_to_Reverse-Engineering_Vintage_Synth_Firmware.html)
 * [2025-10-20, 02:12:24](https://news.ycombinator.com/item?id=45639654) - [Nvidia has produced the first Blackwell wafer on US soil](https://www.xda-developers.com/nvidia-produced-first-blackwell-wafer-us-soil/)
@@ -17,7 +18,6 @@
 * [2025-10-19, 17:38:11](https://news.ycombinator.com/item?id=45636116) - [Could the XZ backdoor been detected with better Git/Deb packaging practices?](https://optimizedbyotto.com/post/xz-backdoor-debian-git-detection/)
 * [2025-10-19, 16:31:57](https://news.ycombinator.com/item?id=45635533) - [Doing well in your courses: Andrej's advice for success (2013)](https://cs.stanford.edu/people/karpathy/advice.html)
 * [2025-10-19, 15:48:52](https://news.ycombinator.com/item?id=45635069) - [GNU Octave Meets JupyterLite: Compute Anywhere, Anytime](https://blog.jupyter.org/gnu-octave-meets-jupyterlite-compute-anywhere-anytime-8b033afbbcdc)
-* [2025-10-19, 13:01:34](https://news.ycombinator.com/item?id=45633815) - [The macOS LC_COLLATE hunt: Or why does sort order differently on macOS and Linux (2020)](https://blog.zhimingwang.org/macos-lc_collate-hunt)
 * [2025-10-19, 11:19:38](https://news.ycombinator.com/item?id=45633453) - [Show HN: Duck-UI – Browser-Based SQL IDE for DuckDB](https://demo.duckui.com)
 * [2025-10-19, 09:20:05](https://news.ycombinator.com/item?id=45632976) - [Deterministic multithreading is hard (2024)](https://www.factorio.com/blog/post/fff-415)
 * [2025-10-14, 17:02:35](https://news.ycombinator.com/item?id=45582370) - [A Tiny Typo May Explain Centuries-Old Mystery Bout Chaucer's 'Canterbury Tales'](https://www.smithsonianmag.com/smart-news/a-tiny-typo-may-explain-a-centuries-old-mystery-about-chaucers-canterbury-tales-and-troilus-and-criseyde-180986991/)
@@ -25,10 +25,10 @@
 * [2025-10-13, 17:06:44](https://news.ycombinator.com/item?id=45570758) - [The Cancer Imaging Archive (TCIA)](https://www.cancerimagingarchive.net/)
 * [2025-10-13, 12:44:31](https://news.ycombinator.com/item?id=45567746) - [Don't Force Your LLM to Write Terse [Q/Kdb] Code: An Information Theory Argument](https://medium.com/@gabiteodoru/dont-force-your-llm-to-write-terse-code-an-argument-from-information-theory-for-q-kdb-developers-04077c5b7038)
 * [2025-10-12, 16:42:44](https://news.ycombinator.com/item?id=45559573) - [What's Behind the Mysterious Ancient Wall in the Gobi Desert?](https://news.artnet.com/art-world/the-hunt-gobi-wall-mongolia-2674588)
-* [2025-10-12, 12:04:50](https://news.ycombinator.com/item?id=45557596) - [The working-class hero of Bletchley Park you didn't see in the movies](https://www.theguardian.com/world/2025/oct/12/move-over-alan-turing-meet-the-working-class-hero-of-bletchley-park-you-didnt-see-in-the-movies)
 * [2025-10-12, 11:09:22](https://news.ycombinator.com/item?id=45557272) - [Pawn is a simple, typeless, 32-bit extension language with a C-like syntax](https://www.compuphase.com/pawn/pawn.htm)
 * [2025-10-12, 09:59:13](https://news.ycombinator.com/item?id=45556911) - [The Spilhaus Projection: A world map according to fish](https://southernwoodenboatsailing.com/news/the-spilhaus-projection-a-world-map-according-to-fish)
 * [2025-10-11, 03:08:31](https://news.ycombinator.com/item?id=45546250) - [Oskar Speck's 1932 Kayak Journey from Germany to Australia](https://nswskc.wordpress.com/2002/10/24/incredible-journey-50/)
+* [2025-10-11, 01:33:34](https://news.ycombinator.com/item?id=45545753) - [Subway station study reveals fungal communities](https://phys.org/news/2025-09-subway-station-reveals-fungal-communities.html)
 * [2025-10-09, 13:18:49](https://news.ycombinator.com/item?id=45527306) - [Discussion of the Benefits and Drawbacks of the Git Pre-Commit Hook](https://yeldirium.de/2025/10/09/pre-commit-hooks/index.html)
 
 ## [Archives](archives/index.md)

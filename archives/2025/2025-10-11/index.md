@@ -76,6 +76,7 @@
 * [2025-10-11, 02:11:22](https://news.ycombinator.com/item?id=45545980) - [The rise and fall of the powered wig](https://www.battlefields.org/learn/head-tilting-history/rise-and-fall-powdered-wig)
 * [2025-10-11, 02:06:02](https://news.ycombinator.com/item?id=45545965) - [How hard do you have to hit a chicken to cook it? (2020)](https://james-simon.github.io/blog/chicken-cooking/)
 * [2025-10-11, 01:48:57](https://news.ycombinator.com/item?id=45545857) - [What happens to college towns after peak 18-year-old?](https://www.theargumentmag.com/p/what-happens-to-college-towns-after)
+* [2025-10-11, 01:33:34](https://news.ycombinator.com/item?id=45545753) - [Subway station study reveals fungal communities](https://phys.org/news/2025-09-subway-station-reveals-fungal-communities.html)
 * [2025-10-11, 00:22:31](https://news.ycombinator.com/item?id=45545277) - [Climate goals go up in smoke as US datacenters turn to coal](https://www.theregister.com/2025/10/10/datacenter_coal_power/)
 * [2025-10-11, 00:11:59](https://news.ycombinator.com/item?id=45545220) - [How to tame a user interface using a spreadsheet](https://blog.gingerbeardman.com/2025/10/11/how-to-tame-a-user-interface-using-a-spreadsheet/)
 * [2025-10-11, 00:02:41](https://news.ycombinator.com/item?id=45545166) - [TikTok removing posts for violating the \"joy of TikTok\"](https://twitter.com/prem_thakker/status/1976786912154386828/)
