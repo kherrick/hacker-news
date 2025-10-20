@@ -57,3 +57,4 @@
 * [2025-10-17, 03:27:24](https://news.ycombinator.com/item?id=45613047) - [Meow.camera](https://meow.camera/)
 * [2025-10-17, 03:13:00](https://news.ycombinator.com/item?id=45612987) - [Next steps for BPF support in the GNU toolchain](https://lwn.net/Articles/1039827/)
 * [2025-10-17, 02:17:38](https://news.ycombinator.com/item?id=45612748) - [Accelerating authoritarian dynamics: Assessment of democratic decline](https://steadystate1.substack.com/p/accelerating-authoritarian-dynamics)
+* [2025-10-17, 00:28:01](https://news.ycombinator.com/item?id=45612223) - [Art Must Act](https://aeon.co/essays/harold-rosenberg-exhorted-artists-to-take-action-and-resist-cliche)
