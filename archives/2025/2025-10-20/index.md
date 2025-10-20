@@ -5,6 +5,10 @@
 ### [Archives](../../index.md) for [2025-10-20](index.md)
 
 * [2025-10-20, 17:36:16](https://news.ycombinator.com/item?id=45646691) - [TernFS – an exabyte scale, multi-region distributed filesystem](https://www.xtxmarkets.com/tech/2025-ternfs/#posix-shaped)
+* [2025-10-20, 17:32:46](https://news.ycombinator.com/item?id=45646649) - [AWS outage shows internet users 'at mercy' of too few providers, experts say](https://www.theguardian.com/technology/2025/oct/20/amazon-web-services-aws-outage-hits-dozens-websites-apps)
+* [2025-10-20, 17:25:45](https://news.ycombinator.com/item?id=45646572) - [Dutch spy services have restricted intelligence-sharing with the United States](https://intelnews.org/2025/10/20/01-3416/)
+* [2025-10-20, 17:24:58](https://news.ycombinator.com/item?id=45646561) - [Chess grandmaster Daniel Naroditsky has passed away](https://old.reddit.com/r/chess/comments/1obnbmu/grandmaster_daniel_naroditsky_has_passed_away/)
+* [2025-10-20, 17:14:48](https://news.ycombinator.com/item?id=45646429) - [Intel fabs misusing J1 Visas](https://old.reddit.com/r/Semiconductors/comments/1ob8igx/i_work_at_an_intel_fab_as_an_engineer_and_half/)
 * [2025-10-20, 16:12:32](https://news.ycombinator.com/item?id=45645567) - [Kohler launches smart toilet camera](https://techcrunch.com/2025/10/19/kohler-unveils-a-camera-for-your-toilet/)
 * [2025-10-20, 16:07:52](https://news.ycombinator.com/item?id=45645510) - [What I Self Host](https://fredrikmeyer.net/2025/10/18/what-i-self-host.html)
 * [2025-10-20, 15:55:36](https://news.ycombinator.com/item?id=45645349) - [Production RAG: what I learned from processing 5M+ documents](https://blog.abdellatif.io/production-rag-processing-5m-documents)
