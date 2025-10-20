@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-10-20, 07:31:23](https://news.ycombinator.com/item?id=45640877) - [Docker Systems Status: Full Service Disruption](https://www.dockerstatus.com/pages/incident/533c6539221ae15e3f000031/68f5e1c741c825463df7486c)
 * [2025-10-20, 07:11:06](https://news.ycombinator.com/item?id=45640772) - [Major AWS Outage Happening](https://old.reddit.com/r/aws/comments/1obd3lx/dynamodb_down_useast1/)
 * [2025-10-20, 06:49:29](https://news.ycombinator.com/item?id=45640678) - [Bat v0.26.0 Released](https://github.com/sharkdp/bat/releases/tag/v0.26.0)
 * [2025-10-20, 06:26:33](https://news.ycombinator.com/item?id=45640594) - [DeepSeek OCR](https://github.com/deepseek-ai/DeepSeek-OCR)
@@ -20,7 +21,6 @@
 * [2025-10-19, 17:54:21](https://news.ycombinator.com/item?id=45636285) - [Airliner hit by possible space debris](https://avbrief.com/united-max-hit-by-falling-object-at-36000-feet/)
 * [2025-10-19, 16:31:57](https://news.ycombinator.com/item?id=45635533) - [Doing well in your courses: Andrej's advice for success (2013)](https://cs.stanford.edu/people/karpathy/advice.html)
 * [2025-10-19, 15:48:52](https://news.ycombinator.com/item?id=45635069) - [GNU Octave Meets JupyterLite: Compute Anywhere, Anytime](https://blog.jupyter.org/gnu-octave-meets-jupyterlite-compute-anywhere-anytime-8b033afbbcdc)
-* [2025-10-19, 09:20:05](https://news.ycombinator.com/item?id=45632976) - [Deterministic multithreading is hard (2024)](https://www.factorio.com/blog/post/fff-415)
 * [2025-10-14, 17:02:35](https://news.ycombinator.com/item?id=45582370) - [A Tiny Typo May Explain Centuries-Old Mystery Bout Chaucer's 'Canterbury Tales'](https://www.smithsonianmag.com/smart-news/a-tiny-typo-may-explain-a-centuries-old-mystery-about-chaucers-canterbury-tales-and-troilus-and-criseyde-180986991/)
 * [2025-10-14, 07:28:15](https://news.ycombinator.com/item?id=45577181) - [Comparing the power consumption of a 30 year old refrigerator to a new one](https://ounapuu.ee/posts/2025/10/14/fridge-power-consumption/)
 * [2025-10-13, 12:44:31](https://news.ycombinator.com/item?id=45567746) - [Don't Force Your LLM to Write Terse [Q/Kdb] Code: An Information Theory Argument](https://medium.com/@gabiteodoru/dont-force-your-llm-to-write-terse-code-an-argument-from-information-theory-for-q-kdb-developers-04077c5b7038)
