@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-10-20, 12:05:02",
+      "https://news.ycombinator.com/item?id=45642951"
+    ],
+    [
+      "AWS Outage: A Single Cloud Region Shouldn't Take Down the World. But It Did",
+      "https://faun.dev/c/news/devopslinks/aws-outage-a-single-cloud-region-shouldnt-take-down-the-world-but-it-did/"
+    ]
+  ],
+  [
+    [
       "2025-10-20, 11:24:11",
       "https://news.ycombinator.com/item?id=45642668"
     ],
@@ -75,7 +85,7 @@
       "https://news.ycombinator.com/item?id=45640678"
     ],
     [
-      "Bat v0.26.0 Released",
+      "Bat v0.26.0",
       "https://github.com/sharkdp/bat/releases/tag/v0.26.0"
     ]
   ],
@@ -201,16 +211,6 @@
   ],
   [
     [
-      "2025-10-19, 15:48:52",
-      "https://news.ycombinator.com/item?id=45635069"
-    ],
-    [
-      "GNU Octave Meets JupyterLite: Compute Anywhere, Anytime",
-      "https://blog.jupyter.org/gnu-octave-meets-jupyterlite-compute-anywhere-anytime-8b033afbbcdc"
-    ]
-  ],
-  [
-    [
       "2025-10-15, 12:21:55",
       "https://news.ycombinator.com/item?id=45591288"
     ],
@@ -221,12 +221,12 @@
   ],
   [
     [
-      "2025-10-14, 17:02:35",
-      "https://news.ycombinator.com/item?id=45582370"
+      "2025-10-14, 18:21:19",
+      "https://news.ycombinator.com/item?id=45583116"
     ],
     [
-      "A Tiny Typo May Explain Centuries-Old Mystery Bout Chaucer's 'Canterbury Tales'",
-      "https://www.smithsonianmag.com/smart-news/a-tiny-typo-may-explain-a-centuries-old-mystery-about-chaucers-canterbury-tales-and-troilus-and-criseyde-180986991/"
+      "Optimizing writes to OLAP using buffers (ClickHouse, Redpanda, MooseStack)",
+      "https://www.fiveonefour.com/blog/optimizing-writes-to-olap-using-buffers"
     ]
   ],
   [
