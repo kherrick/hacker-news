@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2025-10-20, 16:07:52",
-      "https://news.ycombinator.com/item?id=45645510"
-    ],
-    [
-      "What I Self Host",
-      "https://fredrikmeyer.net/2025/10/18/what-i-self-host.html"
-    ]
-  ],
-  [
-    [
       "2025-10-20, 15:55:36",
       "https://news.ycombinator.com/item?id=45645349"
     ],
@@ -87,16 +77,6 @@
     [
       "Alibaba Cloud says it cut Nvidia AI GPU use by 82% with new pooling system",
       "https://www.tomshardware.com/tech-industry/semiconductors/alibaba-says-new-pooling-system-cut-nvidia-gpu-use-by-82-percent"
-    ]
-  ],
-  [
-    [
-      "2025-10-20, 12:29:00",
-      "https://news.ycombinator.com/item?id=45643144"
-    ],
-    [
-      "Show HN: I got tired of managing dev environments, so I built ServBay",
-      "https://www.servbay.com"
     ]
   ],
   [
@@ -221,6 +201,16 @@
   ],
   [
     [
+      "2025-10-15, 12:21:55",
+      "https://news.ycombinator.com/item?id=45591288"
+    ],
+    [
+      "Give Your Metrics an Expiry Date",
+      "https://adrianhoward.com/posts/give-your-metrics-an-expiry-date/"
+    ]
+  ],
+  [
+    [
       "2025-10-15, 07:28:45",
       "https://news.ycombinator.com/item?id=45589156"
     ],
@@ -257,6 +247,16 @@
     [
       "Automate all the things with Swift Subprocess",
       "https://blog.jacobstechtavern.com/p/swift-subprocess"
+    ]
+  ],
+  [
+    [
+      "2025-10-13, 12:44:31",
+      "https://news.ycombinator.com/item?id=45567746"
+    ],
+    [
+      "Don't Force Your LLM to Write Terse [Q/Kdb] Code: An Information Theory Argument",
+      "https://medium.com/@gabiteodoru/dont-force-your-llm-to-write-terse-code-an-argument-from-information-theory-for-q-kdb-developers-04077c5b7038"
     ]
   ],
   [
