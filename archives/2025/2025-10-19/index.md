@@ -43,6 +43,7 @@
 * [2025-10-19, 15:14:58](https://news.ycombinator.com/item?id=45634774) - [With deadline looming 4 of 9 universities reject Trumps pact to remake higher ed](https://arstechnica.com/culture/2025/10/with-deadline-looming-4-of-9-universities-reject-trumps-compact-to-remake-higher-ed/)
 * [2025-10-19, 15:03:29](https://news.ycombinator.com/item?id=45634678) - [What Are RFCs? The Forgotten Blueprints of the Internet](https://ackreq.github.io/posts/what-are-rfcs/)
 * [2025-10-19, 14:58:16](https://news.ycombinator.com/item?id=45634641) - [Why an abundance of choice is not the same as freedom](https://aeon.co/essays/why-an-abundance-of-choice-is-not-the-same-as-freedom)
+* [2025-10-19, 14:57:59](https://news.ycombinator.com/item?id=45634638) - [Show HN: EloqDoc: MongoDB-compatible doc DB with object storage as first citizen](https://github.com/eloqdata/eloqdoc)
 * [2025-10-19, 14:45:03](https://news.ycombinator.com/item?id=45634528) - [Scheme Reports at Fifty](https://crumbles.blog/posts/2025-10-18-scheme-reports-at-fifty.html)
 * [2025-10-19, 14:40:47](https://news.ycombinator.com/item?id=45634484) - [Websites Are for Humans](https://marcus-obst.de/blog/websites-are-for-humans)
 * [2025-10-19, 14:25:45](https://news.ycombinator.com/item?id=45634367) - [Xubuntu.org Might Be Compromised](https://old.reddit.com/r/Ubuntu/comments/1oa4549/xubuntuorg_might_be_compromised/)
