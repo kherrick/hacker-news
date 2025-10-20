@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-10-20](index.md)
 
+* [2025-10-20, 13:14:58](https://news.ycombinator.com/item?id=45643526) - [Rethinking Async Loops in JavaScript](https://allthingssmitty.com/2025/10/20/rethinking-async-loops-in-javascript/)
 * [2025-10-20, 12:55:30](https://news.ycombinator.com/item?id=45643357) - [Servo v0.0.1 Released](https://github.com/servo/servo)
 * [2025-10-20, 12:31:22](https://news.ycombinator.com/item?id=45643163) - [Alibaba Cloud claims to reduce Nvidia GPU use by 82%](https://www.scmp.com/business/article/3329450/alibaba-cloud-claims-slash-nvidia-gpu-use-82-new-pooling-system)
 * [2025-10-20, 12:17:59](https://news.ycombinator.com/item?id=45643040) - [AI-generated 'poverty porn' fake images being used by aid agencies](https://www.theguardian.com/global-development/2025/oct/20/ai-generated-poverty-porn-fake-images-being-used-by-aid-agencies)
