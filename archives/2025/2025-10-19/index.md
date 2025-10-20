@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-10-19](index.md)
 
+* [2025-10-19, 23:35:25](https://news.ycombinator.com/item?id=45638966) - [QuickDrawViewer: A Mac OS X utility to visualise QuickDraw (PICT) files](https://github.com/wiesmann/QuickDrawViewer)
+* [2025-10-19, 22:49:34](https://news.ycombinator.com/item?id=45638739) - [Replua.nvim – an Emacs-style scratch buffer for executing Lua](https://github.com/mghaight/replua.nvim)
+* [2025-10-19, 22:25:46](https://news.ycombinator.com/item?id=45638588) - [Gleam OTP – Fault Tolerant Multicore Programs with Actors](https://github.com/gleam-lang/otp)
 * [2025-10-19, 22:13:21](https://news.ycombinator.com/item?id=45638514) - [Original C64 Lode Runner Source Code](https://github.com/Piddewitt/Loderunner)
 * [2025-10-19, 21:42:18](https://news.ycombinator.com/item?id=45638295) - [Inside The Republican network behind big soda's bid to pit Maga against Maha](https://www.theguardian.com/us-news/2025/oct/19/inside-the-republican-network-behind-big-sodas-bid-to-pit-maga-against-maha)
 * [2025-10-19, 21:30:17](https://news.ycombinator.com/item?id=45638188) - [Show HN: 18yo first iOS app: blocks distracting apps and unlocks with QR/barcode](https://apps.apple.com/us/app/recode-screen-time-control/id6752352978)
