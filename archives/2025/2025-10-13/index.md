@@ -79,6 +79,7 @@
 * [2025-10-13, 05:32:52](https://news.ycombinator.com/item?id=45564981) - [Framework embraces deeply extremist views](https://www.osnews.com/story/143520/in-bizarre-move-framework-embraces-deeply-extremist-views/)
 * [2025-10-13, 05:31:04](https://news.ycombinator.com/item?id=45564968) - [Transverse Mercator with an accuracy of a few nanometers (2010)](https://arxiv.org/abs/1002.1417)
 * [2025-10-13, 04:51:11](https://news.ycombinator.com/item?id=45564773) - [Pica Numbers](https://home.octetfont.com/blog/pica-number.html)
+* [2025-10-13, 04:33:11](https://news.ycombinator.com/item?id=45564696) - [The Peach meme: On CRTs, pixels and signal quality (again)](https://www.datagubbe.se/crt2/)
 * [2025-10-13, 04:14:29](https://news.ycombinator.com/item?id=45564619) - [Fastmail Desktop App](https://www.fastmail.com/blog/desktop-app/)
 * [2025-10-13, 02:39:25](https://news.ycombinator.com/item?id=45564196) - [Countering Trusting Trust Through Diverse Double-Compiling (DDC)](https://dwheeler.com/trusting-trust/)
 * [2025-10-13, 02:15:25](https://news.ycombinator.com/item?id=45564077) - [Despite what's happening in the USA, renewables are winning globally](https://thebulletin.org/2025/10/despite-whats-happening-in-the-usa-renewables-are-winning-globally/)
