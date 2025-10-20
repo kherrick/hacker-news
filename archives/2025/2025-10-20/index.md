@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-10-20](index.md)
 
 * [2025-10-20, 20:27:12](https://news.ycombinator.com/item?id=45648864) - [Should MS Replace Satya Nadella with an AI CEO?](https://old.reddit.com/r/microsoftsucks/comments/1obsew3/should_ms_replace_satya_nadella_with_an_ai_ceo/)
+* [2025-10-20, 20:16:37](https://news.ycombinator.com/item?id=45648743) - [Webflow Donates $150k to Support Astro's Open Source Mission](https://astro.build/blog/webflow-official-partner/)
 * [2025-10-20, 19:56:19](https://news.ycombinator.com/item?id=45648479) - [Populism and Economic Prosperity](https://mainlymacro.blogspot.com/2025/10/populism-and-economic-prosperity.html)
 * [2025-10-20, 19:39:46](https://news.ycombinator.com/item?id=45648266) - [iOS 26.1 lets users control Liquid Glass transparency](https://www.macrumors.com/2025/10/20/ios-26-1-liquid-glass-toggle/)
 * [2025-10-20, 19:38:52](https://news.ycombinator.com/item?id=45648258) - [J.P. Morgan's OpenAI loan is strange](https://marketunpack.com/j-p-morgans-openai-loan-is-strange/)
@@ -22,6 +23,7 @@
 * [2025-10-20, 16:12:32](https://news.ycombinator.com/item?id=45645567) - [Kohler launches smart toilet camera](https://techcrunch.com/2025/10/19/kohler-unveils-a-camera-for-your-toilet/)
 * [2025-10-20, 16:07:52](https://news.ycombinator.com/item?id=45645510) - [What I Self Host](https://fredrikmeyer.net/2025/10/18/what-i-self-host.html)
 * [2025-10-20, 15:55:36](https://news.ycombinator.com/item?id=45645349) - [Production RAG: what I learned from processing 5M+ documents](https://blog.abdellatif.io/production-rag-processing-5m-documents)
+* [2025-10-20, 15:35:19](https://news.ycombinator.com/item?id=45645120) - [Show HN: I created a cross-platform GUI for the JJ VCS (Git compatible)](https://judojj.com)
 * [2025-10-20, 15:05:30](https://news.ycombinator.com/item?id=45644777) - [Anthropic and Cursor Spend This Much on Amazon Web Services](https://www.wheresyoured.at/costs/)
 * [2025-10-20, 15:03:44](https://news.ycombinator.com/item?id=45644754) - [Tron: Ares Set to Lose $132M+](https://deadline.com/2025/10/tron-ares-bombs-box-office-1236591880/)
 * [2025-10-20, 14:55:52](https://news.ycombinator.com/item?id=45644654) - [Commodore 64 Ultimate](https://www.commodore.net/product-page/commodore-64-ultimate-basic-beige-batch1)

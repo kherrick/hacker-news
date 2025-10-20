@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-10-20, 20:27:12](https://news.ycombinator.com/item?id=45648864) - [Should MS Replace Satya Nadella with an AI CEO?](https://old.reddit.com/r/microsoftsucks/comments/1obsew3/should_ms_replace_satya_nadella_with_an_ai_ceo/)
+* [2025-10-20, 20:16:37](https://news.ycombinator.com/item?id=45648743) - [Webflow Donates $150k to Support Astro's Open Source Mission](https://astro.build/blog/webflow-official-partner/)
 * [2025-10-20, 19:56:19](https://news.ycombinator.com/item?id=45648479) - [Populism and Economic Prosperity](https://mainlymacro.blogspot.com/2025/10/populism-and-economic-prosperity.html)
 * [2025-10-20, 19:39:46](https://news.ycombinator.com/item?id=45648266) - [iOS 26.1 lets users control Liquid Glass transparency](https://www.macrumors.com/2025/10/20/ios-26-1-liquid-glass-toggle/)
 * [2025-10-20, 19:38:52](https://news.ycombinator.com/item?id=45648258) - [J.P. Morgan's OpenAI loan is strange](https://marketunpack.com/j-p-morgans-openai-loan-is-strange/)
@@ -13,10 +14,10 @@
 * [2025-10-20, 17:25:45](https://news.ycombinator.com/item?id=45646572) - [Dutch spy services have restricted intelligence-sharing with the United States](https://intelnews.org/2025/10/20/01-3416/)
 * [2025-10-20, 17:24:58](https://news.ycombinator.com/item?id=45646561) - [Chess grandmaster Daniel Naroditsky has passed away](https://old.reddit.com/r/chess/comments/1obnbmu/grandmaster_daniel_naroditsky_has_passed_away/)
 * [2025-10-20, 15:55:36](https://news.ycombinator.com/item?id=45645349) - [Production RAG: what I learned from processing 5M+ documents](https://blog.abdellatif.io/production-rag-processing-5m-documents)
+* [2025-10-20, 15:35:19](https://news.ycombinator.com/item?id=45645120) - [Show HN: I created a cross-platform GUI for the JJ VCS (Git compatible)](https://judojj.com)
 * [2025-10-20, 14:31:16](https://news.ycombinator.com/item?id=45644328) - [BERT is just a single text diffusion step](https://nathan.rs/posts/roberta-diffusion/)
 * [2025-10-20, 12:55:30](https://news.ycombinator.com/item?id=45643357) - [Servo v0.0.1](https://github.com/servo/servo)
 * [2025-10-20, 12:31:22](https://news.ycombinator.com/item?id=45643163) - [Alibaba Cloud says it cut Nvidia AI GPU use by 82% with new pooling system](https://www.tomshardware.com/tech-industry/semiconductors/alibaba-says-new-pooling-system-cut-nvidia-gpu-use-by-82-percent)
-* [2025-10-20, 12:09:53](https://news.ycombinator.com/item?id=45642979) - [Qt Group Buys IAR Systems Group](https://www.qt.io/stock/qt-completes-the-recommended-public-cash-offer-to-the-shareholders-of-iar-systems-group-1760351460000-3668995)
 * [2025-10-20, 11:58:35](https://news.ycombinator.com/item?id=45642911) - [Show HN: Playwright Skill for Claude Code – Less context than playwright-MCP](https://github.com/lackeyjb/playwright-skill)
 * [2025-10-20, 07:31:23](https://news.ycombinator.com/item?id=45640877) - [Docker Systems Status: Full Service Disruption](https://www.dockerstatus.com/pages/incident/533c6539221ae15e3f000031/68f5e1c741c825463df7486c)
 * [2025-10-20, 07:22:28](https://news.ycombinator.com/item?id=45640838) - [AWS Multiple Services Down in us-east-1](https://health.aws.amazon.com/health/status?ts=20251020)
@@ -29,7 +30,6 @@
 * [2025-10-14, 18:04:01](https://news.ycombinator.com/item?id=45582958) - [Intel and AMD standardise ChkTag to bring Memory Safety to x86](https://community.intel.com/t5/Blogs/Tech-Innovation/open-intel/ChkTag-x86-Memory-Safety/post/1721490)
 * [2025-10-14, 07:09:12](https://news.ycombinator.com/item?id=45577086) - [Optical diffraction patterns made with a MOPA laser engraving machine [video]](https://www.youtube.com/watch?v=RsGHr7dXLuI)
 * [2025-10-13, 15:55:48](https://news.ycombinator.com/item?id=45569787) - [Automate all the things with Swift Subprocess](https://blog.jacobstechtavern.com/p/swift-subprocess)
-* [2025-10-09, 12:42:01](https://news.ycombinator.com/item?id=45526845) - [Pointer Pointer (2012)](https://pointerpointer.com)
 
 ## [Archives](archives/index.md)
 
