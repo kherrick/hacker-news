@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-10-20, 20:27:12",
+      "https://news.ycombinator.com/item?id=45648864"
+    ],
+    [
+      "Should MS Replace Satya Nadella with an AI CEO?",
+      "https://old.reddit.com/r/microsoftsucks/comments/1obsew3/should_ms_replace_satya_nadella_with_an_ai_ceo/"
+    ]
+  ],
+  [
+    [
       "2025-10-20, 19:56:19",
       "https://news.ycombinator.com/item?id=45648479"
     ],
@@ -31,22 +41,32 @@
   ],
   [
     [
+      "2025-10-20, 19:38:02",
+      "https://news.ycombinator.com/item?id=45648249"
+    ],
+    [
+      "When a stadium adds AI to everything, it's worse experience for everyone",
+      "https://a.wholelottanothing.org/bmo-stadium-in-la-added-ai-to-everything-and-what-they-got-was-a-worse-experience-for-everyone/"
+    ]
+  ],
+  [
+    [
+      "2025-10-20, 19:05:42",
+      "https://news.ycombinator.com/item?id=45647853"
+    ],
+    [
+      "First Self-Propagating Worm Using Invisible Code Hits OpenVSX and VS Code",
+      "https://www.koi.ai/blog/glassworm-first-self-propagating-worm-using-invisible-code-hits-openvsx-marketplace"
+    ]
+  ],
+  [
+    [
       "2025-10-20, 18:12:23",
       "https://news.ycombinator.com/item?id=45647166"
     ],
     [
       "Claude Code on the Web",
       "https://www.anthropic.com/news/claude-code-on-the-web"
-    ]
-  ],
-  [
-    [
-      "2025-10-20, 18:09:49",
-      "https://news.ycombinator.com/item?id=45647133"
-    ],
-    [
-      "Peanut Allergies Have Plummeted in Children",
-      "https://www.nytimes.com/2025/10/20/well/peanut-allergy-drop.html"
     ]
   ],
   [
@@ -117,16 +137,6 @@
     [
       "BERT is just a single text diffusion step",
       "https://nathan.rs/posts/roberta-diffusion/"
-    ]
-  ],
-  [
-    [
-      "2025-10-20, 13:54:38",
-      "https://news.ycombinator.com/item?id=45643976"
-    ],
-    [
-      "Modeling Others' Minds as Code",
-      "https://arxiv.org/abs/2510.01272"
     ]
   ],
   [
@@ -221,12 +231,12 @@
   ],
   [
     [
-      "2025-10-20, 02:56:20",
-      "https://news.ycombinator.com/item?id=45639860"
+      "2025-10-19, 14:57:59",
+      "https://news.ycombinator.com/item?id=45634638"
     ],
     [
-      "Introduction to reverse-engineering vintage synth firmware",
-      "https://ajxs.me/blog/Introduction_to_Reverse-Engineering_Vintage_Synth_Firmware.html"
+      "Show HN: EloqDoc: MongoDB-compatible doc DB with object storage as first citizen",
+      "https://github.com/eloqdata/eloqdoc"
     ]
   ],
   [
@@ -251,12 +261,12 @@
   ],
   [
     [
-      "2025-10-14, 08:35:48",
-      "https://news.ycombinator.com/item?id=45577626"
+      "2025-10-14, 18:04:01",
+      "https://news.ycombinator.com/item?id=45582958"
     ],
     [
-      "The Great Horse Manure Crisis of 1894: predictions of 9 feet of manure in cities",
-      "https://en.wikipedia.org/wiki/Great_horse_manure_crisis_of_1894"
+      "Intel and AMD standardise ChkTag to bring Memory Safety to x86",
+      "https://community.intel.com/t5/Blogs/Tech-Innovation/open-intel/ChkTag-x86-Memory-Safety/post/1721490"
     ]
   ],
   [
@@ -277,16 +287,6 @@
     [
       "Automate all the things with Swift Subprocess",
       "https://blog.jacobstechtavern.com/p/swift-subprocess"
-    ]
-  ],
-  [
-    [
-      "2025-10-13, 04:33:11",
-      "https://news.ycombinator.com/item?id=45564696"
-    ],
-    [
-      "The Peach meme: On CRTs, pixels and signal quality (again)",
-      "https://www.datagubbe.se/crt2/"
     ]
   ],
   [
