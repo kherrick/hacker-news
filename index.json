@@ -35,7 +35,7 @@
       "https://news.ycombinator.com/item?id=45639498"
     ],
     [
-      "Look at how unhinged GPU box art was in the 2000s",
+      "Look at how unhinged GPU box art was in the 2000s (2024)",
       "https://www.xda-developers.com/absolutely-unhinged-gpu-box-art-from-the-early-2000s/"
     ]
   ],
@@ -77,16 +77,6 @@
     [
       "QuickDrawViewer: A Mac OS X utility to visualise QuickDraw (PICT) files",
       "https://github.com/wiesmann/QuickDrawViewer"
-    ]
-  ],
-  [
-    [
-      "2025-10-19, 22:49:34",
-      "https://news.ycombinator.com/item?id=45638739"
-    ],
-    [
-      "Replua.nvim – an Emacs-style scratch buffer for executing Lua",
-      "https://github.com/mghaight/replua.nvim"
     ]
   ],
   [
@@ -161,6 +151,16 @@
   ],
   [
     [
+      "2025-10-19, 17:00:42",
+      "https://news.ycombinator.com/item?id=45635757"
+    ],
+    [
+      "Infisical (YC W23) Is Hiring Full Stack Engineers",
+      "https://www.ycombinator.com/companies/infisical/jobs/0gY2Da1-full-stack-engineer-global"
+    ]
+  ],
+  [
+    [
       "2025-10-19, 16:31:57",
       "https://news.ycombinator.com/item?id=45635533"
     ],
@@ -181,12 +181,12 @@
   ],
   [
     [
-      "2025-10-19, 13:01:34",
-      "https://news.ycombinator.com/item?id=45633815"
+      "2025-10-19, 11:19:38",
+      "https://news.ycombinator.com/item?id=45633453"
     ],
     [
-      "The macOS LC_COLLATE hunt: Or why does sort order differently on macOS and Linux (2020)",
-      "https://blog.zhimingwang.org/macos-lc_collate-hunt"
+      "Show HN: Duck-UI – Browser-Based SQL IDE for DuckDB",
+      "https://demo.duckui.com"
     ]
   ],
   [
