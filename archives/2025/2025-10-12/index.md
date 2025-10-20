@@ -52,6 +52,7 @@
 * [2025-10-12, 14:14:53](https://news.ycombinator.com/item?id=45558371) - [I'd like to speak to the Bellcore ManaGeR](https://www.ninakalinina.com/notes/mgr/)
 * [2025-10-12, 14:07:13](https://news.ycombinator.com/item?id=45558318) - [Jeep pushed software update that bricked all 2024 Wrangler 4xe models](https://twitter.com/StephenGutowski/status/1977055831720862101)
 * [2025-10-12, 13:38:25](https://news.ycombinator.com/item?id=45558160) - [Extreme weather caused more than $100B in damage by June](https://www.livescience.com/planet-earth/climate-change/extreme-weather-caused-more-than-usd100-billion-in-damage-by-june-smashing-us-records)
+* [2025-10-12, 13:06:48](https://news.ycombinator.com/item?id=45557982) - [How to Enter a City Like a King](https://worldhistory.substack.com/p/how-to-enter-a-city-like-a-king)
 * [2025-10-12, 13:04:55](https://news.ycombinator.com/item?id=45557970) - [Why do Stanford math professors still use chalk? (2021)](https://stanforddaily.com/2021/10/17/why-do-stanford-math-professors-still-use-chalk/)
 * [2025-10-12, 12:19:46](https://news.ycombinator.com/item?id=45557680) - [Cambridge University launches project to rescue data trapped on old floppy disks](https://www.lib.cam.ac.uk/stories/floppy-disk-funding)
 * [2025-10-12, 12:18:18](https://news.ycombinator.com/item?id=45557669) - [Reworking Memory Management in CRuby](https://railsatscale.com/2025-09-16-reworking-memory-management-in-cruby/)
