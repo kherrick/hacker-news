@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-10-20, 15:55:36",
+      "https://news.ycombinator.com/item?id=45645349"
+    ],
+    [
+      "Production RAG: what I learned from processing 5M+ documents",
+      "https://blog.abdellatif.io/production-rag-processing-5m-documents"
+    ]
+  ],
+  [
+    [
       "2025-10-20, 15:05:30",
       "https://news.ycombinator.com/item?id=45644777"
     ],
@@ -31,6 +41,16 @@
   ],
   [
     [
+      "2025-10-20, 14:27:17",
+      "https://news.ycombinator.com/item?id=45644276"
+    ],
+    [
+      "How Soon Will the Seas Rise?",
+      "https://www.quantamagazine.org/how-soon-will-the-seas-rise-20251020/"
+    ]
+  ],
+  [
+    [
       "2025-10-20, 13:54:38",
       "https://news.ycombinator.com/item?id=45643976"
     ],
@@ -45,8 +65,28 @@
       "https://news.ycombinator.com/item?id=45643357"
     ],
     [
-      "Servo v0.0.1 Released",
+      "Servo v0.0.1",
       "https://github.com/servo/servo"
+    ]
+  ],
+  [
+    [
+      "2025-10-20, 12:31:22",
+      "https://news.ycombinator.com/item?id=45643163"
+    ],
+    [
+      "Alibaba Cloud says it cut Nvidia AI GPU use by 82% with new pooling system",
+      "https://www.tomshardware.com/tech-industry/semiconductors/alibaba-says-new-pooling-system-cut-nvidia-gpu-use-by-82-percent"
+    ]
+  ],
+  [
+    [
+      "2025-10-20, 12:29:00",
+      "https://news.ycombinator.com/item?id=45643144"
+    ],
+    [
+      "Show HN: I got tired of managing dev environments, so I built ServBay",
+      "https://www.servbay.com"
     ]
   ],
   [
@@ -57,16 +97,6 @@
     [
       "Qt Group Buys IAR Systems Group",
       "https://www.qt.io/stock/qt-completes-the-recommended-public-cash-offer-to-the-shareholders-of-iar-systems-group-1760351460000-3668995"
-    ]
-  ],
-  [
-    [
-      "2025-10-20, 12:05:02",
-      "https://news.ycombinator.com/item?id=45642951"
-    ],
-    [
-      "AWS Outage: A Single Cloud Region Shouldn't Take Down the World. But It Did",
-      "https://faun.dev/c/news/devopslinks/aws-outage-a-single-cloud-region-shouldnt-take-down-the-world-but-it-did/"
     ]
   ],
   [
@@ -97,16 +127,6 @@
     [
       "State-based vs Signal-based rendering",
       "https://jovidecroock.com/blog/state-vs-signals/"
-    ]
-  ],
-  [
-    [
-      "2025-10-20, 08:12:09",
-      "https://news.ycombinator.com/item?id=45641143"
-    ],
-    [
-      "Major AWS outage takes down Fortnite, Alexa, Snapchat, and more",
-      "https://www.theverge.com/news/802486/aws-outage-alexa-fortnite-snapchat-offline"
     ]
   ],
   [
@@ -191,16 +211,6 @@
   ],
   [
     [
-      "2025-10-19, 22:25:46",
-      "https://news.ycombinator.com/item?id=45638588"
-    ],
-    [
-      "Gleam OTP – Fault Tolerant Multicore Programs with Actors",
-      "https://github.com/gleam-lang/otp"
-    ]
-  ],
-  [
-    [
       "2025-10-19, 20:54:31",
       "https://news.ycombinator.com/item?id=45637880"
     ],
@@ -221,26 +231,6 @@
   ],
   [
     [
-      "2025-10-19, 17:54:21",
-      "https://news.ycombinator.com/item?id=45636285"
-    ],
-    [
-      "Airliner hit by possible space debris",
-      "https://avbrief.com/united-max-hit-by-falling-object-at-36000-feet/"
-    ]
-  ],
-  [
-    [
-      "2025-10-15, 12:21:55",
-      "https://news.ycombinator.com/item?id=45591288"
-    ],
-    [
-      "Give Your Metrics an Expiry Date",
-      "https://adrianhoward.com/posts/give-your-metrics-an-expiry-date/"
-    ]
-  ],
-  [
-    [
       "2025-10-15, 07:28:45",
       "https://news.ycombinator.com/item?id=45589156"
     ],
@@ -257,6 +247,16 @@
     [
       "Optimizing writes to OLAP using buffers (ClickHouse, Redpanda, MooseStack)",
       "https://www.fiveonefour.com/blog/optimizing-writes-to-olap-using-buffers"
+    ]
+  ],
+  [
+    [
+      "2025-10-14, 07:09:12",
+      "https://news.ycombinator.com/item?id=45577086"
+    ],
+    [
+      "Optical diffraction patterns made with a MOPA laser engraving machine [video]",
+      "https://www.youtube.com/watch?v=RsGHr7dXLuI"
     ]
   ],
   [
