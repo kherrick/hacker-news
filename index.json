@@ -1,6 +1,56 @@
 [
   [
     [
+      "2025-10-20, 01:32:43",
+      "https://news.ycombinator.com/item?id=45639498"
+    ],
+    [
+      "Look at how unhinged GPU box art was in the 2000s",
+      "https://www.xda-developers.com/absolutely-unhinged-gpu-box-art-from-the-early-2000s/"
+    ]
+  ],
+  [
+    [
+      "2025-10-20, 00:19:54",
+      "https://news.ycombinator.com/item?id=45639157"
+    ],
+    [
+      "From Hollywood to horticulture: Cate Blanchett on a mission to save seeds",
+      "https://www.bbc.com/news/articles/cwy7ekl4yl8o"
+    ]
+  ],
+  [
+    [
+      "2025-10-19, 23:35:25",
+      "https://news.ycombinator.com/item?id=45638966"
+    ],
+    [
+      "QuickDrawViewer: A Mac OS X utility to visualise QuickDraw (PICT) files",
+      "https://github.com/wiesmann/QuickDrawViewer"
+    ]
+  ],
+  [
+    [
+      "2025-10-19, 22:49:34",
+      "https://news.ycombinator.com/item?id=45638739"
+    ],
+    [
+      "Replua.nvim – an Emacs-style scratch buffer for executing Lua",
+      "https://github.com/mghaight/replua.nvim"
+    ]
+  ],
+  [
+    [
+      "2025-10-19, 22:25:46",
+      "https://news.ycombinator.com/item?id=45638588"
+    ],
+    [
+      "Gleam OTP – Fault Tolerant Multicore Programs with Actors",
+      "https://github.com/gleam-lang/otp"
+    ]
+  ],
+  [
+    [
       "2025-10-19, 22:13:21",
       "https://news.ycombinator.com/item?id=45638514"
     ],
@@ -101,16 +151,6 @@
   ],
   [
     [
-      "2025-10-19, 16:57:49",
-      "https://news.ycombinator.com/item?id=45635734"
-    ],
-    [
-      "The Trinary Dream Endures",
-      "https://www.robinsloan.com/lab/trinary-dream/"
-    ]
-  ],
-  [
-    [
       "2025-10-19, 16:31:57",
       "https://news.ycombinator.com/item?id=45635533"
     ],
@@ -127,26 +167,6 @@
     [
       "GNU Octave Meets JupyterLite: Compute Anywhere, Anytime",
       "https://blog.jupyter.org/gnu-octave-meets-jupyterlite-compute-anywhere-anytime-8b033afbbcdc"
-    ]
-  ],
-  [
-    [
-      "2025-10-19, 14:45:03",
-      "https://news.ycombinator.com/item?id=45634528"
-    ],
-    [
-      "Scheme Reports at Fifty",
-      "https://crumbles.blog/posts/2025-10-18-scheme-reports-at-fifty.html"
-    ]
-  ],
-  [
-    [
-      "2025-10-19, 14:25:45",
-      "https://news.ycombinator.com/item?id=45634367"
-    ],
-    [
-      "Xubuntu.org Might Be Compromised",
-      "https://old.reddit.com/r/Ubuntu/comments/1oa4549/xubuntuorg_might_be_compromised/"
     ]
   ],
   [
@@ -171,32 +191,12 @@
   ],
   [
     [
-      "2025-10-19, 13:25:25",
-      "https://news.ycombinator.com/item?id=45633958"
-    ],
-    [
-      "How to Assemble an Electric Heating Element from Scratch",
-      "https://solar.lowtechmagazine.com/2025/10/how-to-build-an-electric-heating-element-from-scratch/"
-    ]
-  ],
-  [
-    [
       "2025-10-19, 13:01:34",
       "https://news.ycombinator.com/item?id=45633815"
     ],
     [
       "The macOS LC_COLLATE hunt: Or why does sort order differently on macOS and Linux (2020)",
       "https://blog.zhimingwang.org/macos-lc_collate-hunt"
-    ]
-  ],
-  [
-    [
-      "2025-10-19, 12:11:58",
-      "https://news.ycombinator.com/item?id=45633642"
-    ],
-    [
-      "Improving PixelMelt's Kindle Web Deobfuscator",
-      "https://shkspr.mobi/blog/2025/10/improving-pixelmelts-kindle-web-deobfuscator/"
     ]
   ],
   [
@@ -231,16 +231,6 @@
   ],
   [
     [
-      "2025-10-17, 21:44:44",
-      "https://news.ycombinator.com/item?id=45622475"
-    ],
-    [
-      "Enchanting Imposters",
-      "https://daily.jstor.org/enchanting-imposters/"
-    ]
-  ],
-  [
-    [
       "2025-10-14, 07:28:15",
       "https://news.ycombinator.com/item?id=45577181"
     ],
@@ -271,6 +261,16 @@
   ],
   [
     [
+      "2025-10-12, 16:42:44",
+      "https://news.ycombinator.com/item?id=45559573"
+    ],
+    [
+      "What's Behind the Mysterious Ancient Wall in the Gobi Desert?",
+      "https://news.artnet.com/art-world/the-hunt-gobi-wall-mongolia-2674588"
+    ]
+  ],
+  [
+    [
       "2025-10-12, 12:04:50",
       "https://news.ycombinator.com/item?id=45557596"
     ],
@@ -281,22 +281,22 @@
   ],
   [
     [
+      "2025-10-12, 11:09:22",
+      "https://news.ycombinator.com/item?id=45557272"
+    ],
+    [
+      "Pawn is a simple, typeless, 32-bit extension language with a C-like syntax",
+      "https://www.compuphase.com/pawn/pawn.htm"
+    ]
+  ],
+  [
+    [
       "2025-10-12, 09:59:13",
       "https://news.ycombinator.com/item?id=45556911"
     ],
     [
       "The Spilhaus Projection: A world map according to fish",
       "https://southernwoodenboatsailing.com/news/the-spilhaus-projection-a-world-map-according-to-fish"
-    ]
-  ],
-  [
-    [
-      "2025-10-09, 20:55:00",
-      "https://news.ycombinator.com/item?id=45532971"
-    ],
-    [
-      "Show HN: Open-Source Voice AI Badge Powered by ESP32+WebRTC",
-      "https://github.com/VapiAI/vapicon-2025-hardware-workshop"
     ]
   ]
 ]
