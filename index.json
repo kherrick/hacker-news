@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-10-20, 07:31:23",
+      "https://news.ycombinator.com/item?id=45640877"
+    ],
+    [
+      "Docker Systems Status: Full Service Disruption",
+      "https://www.dockerstatus.com/pages/incident/533c6539221ae15e3f000031/68f5e1c741c825463df7486c"
+    ]
+  ],
+  [
+    [
       "2025-10-20, 07:11:06",
       "https://news.ycombinator.com/item?id=45640772"
     ],
@@ -197,16 +207,6 @@
     [
       "GNU Octave Meets JupyterLite: Compute Anywhere, Anytime",
       "https://blog.jupyter.org/gnu-octave-meets-jupyterlite-compute-anywhere-anytime-8b033afbbcdc"
-    ]
-  ],
-  [
-    [
-      "2025-10-19, 09:20:05",
-      "https://news.ycombinator.com/item?id=45632976"
-    ],
-    [
-      "Deterministic multithreading is hard (2024)",
-      "https://www.factorio.com/blog/post/fff-415"
     ]
   ],
   [
