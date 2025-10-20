@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-10-20](index.md)
 
+* [2025-10-20, 16:12:32](https://news.ycombinator.com/item?id=45645567) - [Kohler launches smart toilet camera](https://techcrunch.com/2025/10/19/kohler-unveils-a-camera-for-your-toilet/)
+* [2025-10-20, 16:07:52](https://news.ycombinator.com/item?id=45645510) - [What I Self Host](https://fredrikmeyer.net/2025/10/18/what-i-self-host.html)
 * [2025-10-20, 15:55:36](https://news.ycombinator.com/item?id=45645349) - [Production RAG: what I learned from processing 5M+ documents](https://blog.abdellatif.io/production-rag-processing-5m-documents)
 * [2025-10-20, 15:05:30](https://news.ycombinator.com/item?id=45644777) - [Anthropic and Cursor Spend This Much on Amazon Web Services](https://www.wheresyoured.at/costs/)
 * [2025-10-20, 14:55:52](https://news.ycombinator.com/item?id=45644654) - [Commodore 64 Ultimate](https://www.commodore.net/product-page/commodore-64-ultimate-basic-beige-batch1)
