@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-10-20, 02:12:24",
+      "https://news.ycombinator.com/item?id=45639654"
+    ],
+    [
+      "Nvidia has produced the first Blackwell wafer on US soil",
+      "https://www.xda-developers.com/nvidia-produced-first-blackwell-wafer-us-soil/"
+    ]
+  ],
+  [
+    [
       "2025-10-20, 01:32:43",
       "https://news.ycombinator.com/item?id=45639498"
     ],
@@ -11,12 +21,32 @@
   ],
   [
     [
+      "2025-10-20, 00:40:03",
+      "https://news.ycombinator.com/item?id=45639250"
+    ],
+    [
+      "Forth: The programming language that writes itself",
+      "https://ratfactor.com/forth/the_programming_language_that_writes_itself.html"
+    ]
+  ],
+  [
+    [
       "2025-10-20, 00:19:54",
       "https://news.ycombinator.com/item?id=45639157"
     ],
     [
       "From Hollywood to horticulture: Cate Blanchett on a mission to save seeds",
       "https://www.bbc.com/news/articles/cwy7ekl4yl8o"
+    ]
+  ],
+  [
+    [
+      "2025-10-19, 23:39:57",
+      "https://news.ycombinator.com/item?id=45638986"
+    ],
+    [
+      "LoC Is a Dumb Metric for Functions",
+      "https://theaxolot.wordpress.com/2025/10/18/loc-is-a-dumb-metric-for-functions/"
     ]
   ],
   [
@@ -81,16 +111,6 @@
   ],
   [
     [
-      "2025-10-19, 20:15:09",
-      "https://news.ycombinator.com/item?id=45637548"
-    ],
-    [
-      "Designing EventQL, an Event Query Language",
-      "https://docs.eventsourcingdb.io/blog/2025/10/20/designing-eventql-an-event-query-language/"
-    ]
-  ],
-  [
-    [
       "2025-10-19, 19:26:54",
       "https://news.ycombinator.com/item?id=45637133"
     ],
@@ -131,16 +151,6 @@
   ],
   [
     [
-      "2025-10-19, 17:19:49",
-      "https://news.ycombinator.com/item?id=45635940"
-    ],
-    [
-      "Ask HN: What are people doing to get off of VMware?",
-      "https://news.ycombinator.com/item?id=45635940"
-    ]
-  ],
-  [
-    [
       "2025-10-19, 17:00:42",
       "https://news.ycombinator.com/item?id=45635757"
     ],
@@ -177,16 +187,6 @@
     [
       "Show HN: Pyversity – Fast Result Diversification for Retrieval and RAG",
       "https://github.com/Pringled/pyversity"
-    ]
-  ],
-  [
-    [
-      "2025-10-19, 13:35:31",
-      "https://news.ycombinator.com/item?id=45634026"
-    ],
-    [
-      "Abandoned land drives dangerous heat in Houston, study finds",
-      "https://stories.tamu.edu/news/2025/10/07/abandoned-land-drives-dangerous-heat-in-houston-texas-am-study-finds/"
     ]
   ],
   [
@@ -241,16 +241,6 @@
   ],
   [
     [
-      "2025-10-14, 03:25:51",
-      "https://news.ycombinator.com/item?id=45575934"
-    ],
-    [
-      "Redis Backplane for Hubots",
-      "https://github.com/hubot-friends/hubot-redis-backplane"
-    ]
-  ],
-  [
-    [
       "2025-10-13, 17:06:44",
       "https://news.ycombinator.com/item?id=45570758"
     ],
@@ -297,6 +287,16 @@
     [
       "The Spilhaus Projection: A world map according to fish",
       "https://southernwoodenboatsailing.com/news/the-spilhaus-projection-a-world-map-according-to-fish"
+    ]
+  ],
+  [
+    [
+      "2025-10-11, 03:08:31",
+      "https://news.ycombinator.com/item?id=45546250"
+    ],
+    [
+      "Oskar Speck's 1932 Kayak Journey from Germany to Australia",
+      "https://nswskc.wordpress.com/2002/10/24/incredible-journey-50/"
     ]
   ]
 ]
