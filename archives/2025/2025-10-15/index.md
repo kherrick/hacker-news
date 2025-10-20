@@ -56,6 +56,7 @@
 * [2025-10-15, 11:40:09](https://news.ycombinator.com/item?id=45590900) - [Ireland Is Making Basic Income for Artists Program Permanent](https://www.artnews.com/art-news/news/ireland-basic-income-artists-program-permanent-1234756981/)
 * [2025-10-15, 11:26:41](https://news.ycombinator.com/item?id=45590800) - [Esports scholarship at Deutsche Bahn (German railways)](https://db.jobs/de-de/esports-11092734)
 * [2025-10-15, 11:20:35](https://news.ycombinator.com/item?id=45590756) - [Why We're Leaving Serverless](https://www.unkey.com/blog/serverless-exit)
+* [2025-10-15, 11:18:55](https://news.ycombinator.com/item?id=45590743) - [The longest baseball game took 33 innings to win](https://www.mlb.com/news/the-longest-professional-baseball-game-ever-played)
 * [2025-10-15, 11:11:41](https://news.ycombinator.com/item?id=45590681) - [I analyzed 200 e-commerce sites and found 73% of their traffic is fake](https://joindatacops.com/resources/how-73-of-your-e-commerce-visitors-could-be-fake)
 * [2025-10-15, 10:19:21](https://news.ycombinator.com/item?id=45590302) - [CVE-2025-55315: Asp.net Security Feature Bypass Vulnerability [9.9 Critical]](https://nvd.nist.gov/vuln/detail/CVE-2025-55315)
 * [2025-10-15, 10:10:20](https://news.ycombinator.com/item?id=45590236) - [Britain has wasted £1,112,293,718 switching off wind turbines in 2025](https://wastedwind.energy/)

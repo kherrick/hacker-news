@@ -21,7 +21,7 @@
 * [2025-10-20, 04:42:08](https://news.ycombinator.com/item?id=45640226) - [Space Elevator](https://neal.fun/space-elevator/)
 * [2025-10-20, 03:33:11](https://news.ycombinator.com/item?id=45639995) - [Entire Linux Network stack diagram (2024)](https://zenodo.org/records/14179366)
 * [2025-10-20, 02:56:20](https://news.ycombinator.com/item?id=45639860) - [Introduction to reverse-engineering vintage synth firmware](https://ajxs.me/blog/Introduction_to_Reverse-Engineering_Vintage_Synth_Firmware.html)
-* [2025-10-19, 22:25:46](https://news.ycombinator.com/item?id=45638588) - [Gleam OTP – Fault Tolerant Multicore Programs with Actors](https://github.com/gleam-lang/otp)
+* [2025-10-15, 11:18:55](https://news.ycombinator.com/item?id=45590743) - [The longest baseball game took 33 innings to win](https://www.mlb.com/news/the-longest-professional-baseball-game-ever-played)
 * [2025-10-15, 07:28:45](https://news.ycombinator.com/item?id=45589156) - [How to stop Linux threads cleanly](https://mazzo.li/posts/stopping-linux-threads.html)
 * [2025-10-14, 18:21:19](https://news.ycombinator.com/item?id=45583116) - [Optimizing writes to OLAP using buffers (ClickHouse, Redpanda, MooseStack)](https://www.fiveonefour.com/blog/optimizing-writes-to-olap-using-buffers)
 * [2025-10-14, 08:35:48](https://news.ycombinator.com/item?id=45577626) - [The Great Horse Manure Crisis of 1894: predictions of 9 feet of manure in cities](https://en.wikipedia.org/wiki/Great_horse_manure_crisis_of_1894)
