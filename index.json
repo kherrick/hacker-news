@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2025-10-20, 07:22:28",
+      "https://news.ycombinator.com/item?id=45640838"
+    ],
+    [
+      "AWS Multiple Services Down in us-east-1",
+      "https://health.aws.amazon.com/health/status?ts=20251020"
+    ]
+  ],
+  [
+    [
       "2025-10-20, 07:11:06",
       "https://news.ycombinator.com/item?id=45640772"
     ],
@@ -67,16 +77,6 @@
     [
       "Introduction to reverse-engineering vintage synth firmware",
       "https://ajxs.me/blog/Introduction_to_Reverse-Engineering_Vintage_Synth_Firmware.html"
-    ]
-  ],
-  [
-    [
-      "2025-10-20, 02:12:24",
-      "https://news.ycombinator.com/item?id=45639654"
-    ],
-    [
-      "Nvidia has produced the first Blackwell wafer on US soil",
-      "https://www.xda-developers.com/nvidia-produced-first-blackwell-wafer-us-soil/"
     ]
   ],
   [
@@ -241,22 +241,22 @@
   ],
   [
     [
+      "2025-10-12, 23:01:55",
+      "https://news.ycombinator.com/item?id=45562849"
+    ],
+    [
+      "Oma: An attempt at reworking APT's interface",
+      "https://github.com/AOSC-Dev/oma"
+    ]
+  ],
+  [
+    [
       "2025-10-12, 16:42:44",
       "https://news.ycombinator.com/item?id=45559573"
     ],
     [
       "What's Behind the Mysterious Ancient Wall in the Gobi Desert?",
       "https://news.artnet.com/art-world/the-hunt-gobi-wall-mongolia-2674588"
-    ]
-  ],
-  [
-    [
-      "2025-10-12, 11:09:22",
-      "https://news.ycombinator.com/item?id=45557272"
-    ],
-    [
-      "Pawn is a simple, typeless, 32-bit extension language with a C-like syntax",
-      "https://www.compuphase.com/pawn/pawn.htm"
     ]
   ],
   [
