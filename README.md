@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-10-20, 22:22:45](https://news.ycombinator.com/item?id=45650178) - [You don't need Kafka: Building a message queue with Unix signals](https://leandronsp.com/articles/you-dont-need-kafka-building-a-message-queue-with-only-two-unix-signals)
 * [2025-10-20, 20:50:03](https://news.ycombinator.com/item?id=45649178) - [Today is when the Amazon brain drain sent AWS down the spout](https://www.theregister.com/2025/10/20/aws_outage_amazon_brain_drain_corey_quinn/)
 * [2025-10-20, 19:39:46](https://news.ycombinator.com/item?id=45648266) - [iOS 26.1 lets users control Liquid Glass transparency](https://www.macrumors.com/2025/10/20/ios-26-1-liquid-glass-toggle/)
 * [2025-10-20, 19:38:52](https://news.ycombinator.com/item?id=45648258) - [J.P. Morgan's OpenAI loan is strange](https://marketunpack.com/j-p-morgans-openai-loan-is-strange/)
 * [2025-10-20, 19:38:02](https://news.ycombinator.com/item?id=45648249) - [When a stadium adds AI to everything, it's worse experience for everyone](https://a.wholelottanothing.org/bmo-stadium-in-la-added-ai-to-everything-and-what-they-got-was-a-worse-experience-for-everyone/)
 * [2025-10-20, 18:12:23](https://news.ycombinator.com/item?id=45647166) - [Claude Code on the web](https://www.anthropic.com/news/claude-code-on-the-web)
-* [2025-10-20, 18:09:49](https://news.ycombinator.com/item?id=45647133) - [Peanut allergies have plummeted in children](https://www.nytimes.com/2025/10/20/well/peanut-allergy-drop.html)
 * [2025-10-20, 17:55:18](https://news.ycombinator.com/item?id=45646958) - [x86-64 Playground – An online assembly editor and GDB-like debugger](https://x64.halb.it/)
 * [2025-10-20, 17:36:16](https://news.ycombinator.com/item?id=45646691) - [TernFS – an exabyte scale, multi-region distributed filesystem](https://www.xtxmarkets.com/tech/2025-ternfs/#posix-shaped)
 * [2025-10-20, 15:55:36](https://news.ycombinator.com/item?id=45645349) - [Production RAG: what I learned from processing 5M+ documents](https://blog.abdellatif.io/production-rag-processing-5m-documents)
@@ -23,13 +23,13 @@
 * [2025-10-19, 06:42:19](https://news.ycombinator.com/item?id=45632429) - [A laser pointer at 2B FPS [video]](https://www.youtube.com/watch?v=o4TdHrMi6do)
 * [2025-10-17, 20:18:54](https://news.ycombinator.com/item?id=45621557) - [Code from MIT's 1986 SICP video lectures](https://github.com/felipap/sicp-code)
 * [2025-10-17, 00:28:01](https://news.ycombinator.com/item?id=45612223) - [Art Must Act](https://aeon.co/essays/harold-rosenberg-exhorted-artists-to-take-action-and-resist-cliche)
+* [2025-10-15, 15:49:13](https://news.ycombinator.com/item?id=45594403) - [Atomic-Scale Protein Filters](https://press.asimov.com/articles/filters)
 * [2025-10-15, 11:18:55](https://news.ycombinator.com/item?id=45590743) - [The longest baseball game took 33 innings to win](https://www.mlb.com/news/the-longest-professional-baseball-game-ever-played)
 * [2025-10-15, 08:47:32](https://news.ycombinator.com/item?id=45589715) - [The scariest \"user support\" email I've ever received](https://www.devas.life/the-scariest-user-support-email-ive-ever-received/)
 * [2025-10-15, 07:28:45](https://news.ycombinator.com/item?id=45589156) - [How to stop Linux threads cleanly](https://mazzo.li/posts/stopping-linux-threads.html)
 * [2025-10-14, 18:04:01](https://news.ycombinator.com/item?id=45582958) - [Intel and AMD standardise ChkTag to bring Memory Safety to x86](https://community.intel.com/t5/Blogs/Tech-Innovation/open-intel/ChkTag-x86-Memory-Safety/post/1721490)
 * [2025-10-14, 07:09:12](https://news.ycombinator.com/item?id=45577086) - [Optical diffraction patterns made with a MOPA laser engraving machine [video]](https://www.youtube.com/watch?v=RsGHr7dXLuI)
 * [2025-10-13, 18:01:07](https://news.ycombinator.com/item?id=45571423) - [My trick for getting consistent classification from LLMs](https://verdik.substack.com/p/how-to-get-consistent-classification)
-* [2025-10-09, 12:42:01](https://news.ycombinator.com/item?id=45526845) - [Pointer Pointer (2012)](https://pointerpointer.com)
 
 ## [Archives](archives/index.md)
 

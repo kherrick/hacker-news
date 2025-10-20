@@ -28,6 +28,7 @@
 * [2025-10-15, 16:55:06](https://news.ycombinator.com/item?id=45595403) - [Claude Haiku 4.5](https://www.anthropic.com/news/claude-haiku-4-5)
 * [2025-10-15, 16:38:16](https://news.ycombinator.com/item?id=45595143) - [Soft multistable magnetic-responsive metamaterials](https://www.science.org/doi/10.1126/sciadv.adu3749)
 * [2025-10-15, 16:24:29](https://news.ycombinator.com/item?id=45594920) - [Zed is now available on Windows](https://zed.dev/blog/zed-for-windows-is-here)
+* [2025-10-15, 15:49:13](https://news.ycombinator.com/item?id=45594403) - [Atomic-Scale Protein Filters](https://press.asimov.com/articles/filters)
 * [2025-10-15, 15:00:13](https://news.ycombinator.com/item?id=45593665) - [David Byrne Radio](https://www.davidbyrne.com/radio#filter=all&sortby=date:desc)
 * [2025-10-15, 14:42:14](https://news.ycombinator.com/item?id=45593390) - [Recreating the Canon Cat document interface](https://lab.alexanderobenauer.com/updates/the-jasper-report)
 * [2025-10-15, 14:40:42](https://news.ycombinator.com/item?id=45593358) - [Exploring PostgreSQL 18's new UUIDv7 support](https://aiven.io/blog/exploring-postgresql-18-new-uuidv7-support)
