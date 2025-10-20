@@ -23,13 +23,13 @@
 * [2025-10-14, 17:02:35](https://news.ycombinator.com/item?id=45582370) - [A Tiny Typo May Explain Centuries-Old Mystery Bout Chaucer's 'Canterbury Tales'](https://www.smithsonianmag.com/smart-news/a-tiny-typo-may-explain-a-centuries-old-mystery-about-chaucers-canterbury-tales-and-troilus-and-criseyde-180986991/)
 * [2025-10-14, 07:28:15](https://news.ycombinator.com/item?id=45577181) - [Comparing the power consumption of a 30 year old refrigerator to a new one](https://ounapuu.ee/posts/2025/10/14/fridge-power-consumption/)
 * [2025-10-13, 12:44:31](https://news.ycombinator.com/item?id=45567746) - [Don't Force Your LLM to Write Terse [Q/Kdb] Code: An Information Theory Argument](https://medium.com/@gabiteodoru/dont-force-your-llm-to-write-terse-code-an-argument-from-information-theory-for-q-kdb-developers-04077c5b7038)
-* [2025-10-13, 10:34:17](https://news.ycombinator.com/item?id=45566849) - [Adding Breadcrumbs to a Rails Application](https://avohq.io/blog/breadcrumbs-rails)
 * [2025-10-12, 23:01:55](https://news.ycombinator.com/item?id=45562849) - [Oma: An attempt at reworking APT's interface](https://github.com/AOSC-Dev/oma)
+* [2025-10-12, 19:08:43](https://news.ycombinator.com/item?id=45560864) - [Fractal Imaginary Cubes](https://www.i.h.kyoto-u.ac.jp/users/tsuiki/icube/fractal/index-e.html)
 * [2025-10-12, 16:42:44](https://news.ycombinator.com/item?id=45559573) - [What's Behind the Mysterious Ancient Wall in the Gobi Desert?](https://news.artnet.com/art-world/the-hunt-gobi-wall-mongolia-2674588)
 * [2025-10-12, 09:59:13](https://news.ycombinator.com/item?id=45556911) - [The Spilhaus Projection: A world map according to fish](https://southernwoodenboatsailing.com/news/the-spilhaus-projection-a-world-map-according-to-fish)
 * [2025-10-11, 03:08:31](https://news.ycombinator.com/item?id=45546250) - [Oskar Speck's 1932 Kayak Journey from Germany to Australia](https://nswskc.wordpress.com/2002/10/24/incredible-journey-50/)
 * [2025-10-11, 01:33:34](https://news.ycombinator.com/item?id=45545753) - [Subway station study reveals fungal communities](https://phys.org/news/2025-09-subway-station-reveals-fungal-communities.html)
-* [2025-10-09, 12:42:01](https://news.ycombinator.com/item?id=45526845) - [Pointer Pointer](https://pointerpointer.com)
+* [2025-10-09, 12:42:01](https://news.ycombinator.com/item?id=45526845) - [Pointer Pointer (2012)](https://pointerpointer.com)
 
 ## [Archives](archives/index.md)
 
