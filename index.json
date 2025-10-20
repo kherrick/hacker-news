@@ -41,16 +41,6 @@
   ],
   [
     [
-      "2025-10-20, 01:07:27",
-      "https://news.ycombinator.com/item?id=45639391"
-    ],
-    [
-      "Carefully Educated to Be Idiots",
-      "https://www.hilarylayne.com/p/very-carefully-educated-to-be-idiots"
-    ]
-  ],
-  [
-    [
       "2025-10-20, 00:40:03",
       "https://news.ycombinator.com/item?id=45639250"
     ],
@@ -197,6 +187,16 @@
     [
       "GNU Octave Meets JupyterLite: Compute Anywhere, Anytime",
       "https://blog.jupyter.org/gnu-octave-meets-jupyterlite-compute-anywhere-anytime-8b033afbbcdc"
+    ]
+  ],
+  [
+    [
+      "2025-10-19, 13:01:34",
+      "https://news.ycombinator.com/item?id=45633815"
+    ],
+    [
+      "The macOS LC_COLLATE hunt: Or why does sort order differently on macOS and Linux (2020)",
+      "https://blog.zhimingwang.org/macos-lc_collate-hunt"
     ]
   ],
   [
