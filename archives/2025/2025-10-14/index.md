@@ -30,6 +30,7 @@
 * [2025-10-14, 18:22:04](https://news.ycombinator.com/item?id=45583129) - [New lab-grown human embryo model produces blood cells](https://www.cam.ac.uk/research/news/new-lab-grown-human-embryo-model-produces-blood-cells)
 * [2025-10-14, 17:43:33](https://news.ycombinator.com/item?id=45582758) - [SmolBSD – build your own minimal BSD system](https://smolbsd.org)
 * [2025-10-14, 17:12:10](https://news.ycombinator.com/item?id=45582462) - [How bad can a $2.97 ADC be?](https://excamera.substack.com/p/how-bad-can-a-297-adc-be)
+* [2025-10-14, 17:02:35](https://news.ycombinator.com/item?id=45582370) - [A Tiny Typo May Explain Centuries-Old Mystery Bout Chaucer's 'Canterbury Tales'](https://www.smithsonianmag.com/smart-news/a-tiny-typo-may-explain-a-centuries-old-mystery-about-chaucers-canterbury-tales-and-troilus-and-criseyde-180986991/)
 * [2025-10-14, 16:53:24](https://news.ycombinator.com/item?id=45582268) - [Prefix sum: 20 GB/s (2.6x baseline)](https://github.com/ashtonsix/perf-portfolio/tree/main/delta)
 * [2025-10-14, 16:29:42](https://news.ycombinator.com/item?id=45581988) - [Smithsonian Open Access Images](https://www.si.edu/openaccess)
 * [2025-10-14, 16:10:27](https://news.ycombinator.com/item?id=45581761) - [Hold Off on Litestream 0.5.0](https://mtlynch.io/notes/hold-off-on-litestream-0.5.0/)
