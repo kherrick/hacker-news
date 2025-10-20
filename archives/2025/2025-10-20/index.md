@@ -8,6 +8,7 @@
 * [2025-10-20, 16:07:52](https://news.ycombinator.com/item?id=45645510) - [What I Self Host](https://fredrikmeyer.net/2025/10/18/what-i-self-host.html)
 * [2025-10-20, 15:55:36](https://news.ycombinator.com/item?id=45645349) - [Production RAG: what I learned from processing 5M+ documents](https://blog.abdellatif.io/production-rag-processing-5m-documents)
 * [2025-10-20, 15:05:30](https://news.ycombinator.com/item?id=45644777) - [Anthropic and Cursor Spend This Much on Amazon Web Services](https://www.wheresyoured.at/costs/)
+* [2025-10-20, 15:03:44](https://news.ycombinator.com/item?id=45644754) - [Tron: Ares Set to Lose $132M+](https://deadline.com/2025/10/tron-ares-bombs-box-office-1236591880/)
 * [2025-10-20, 14:55:52](https://news.ycombinator.com/item?id=45644654) - [Commodore 64 Ultimate](https://www.commodore.net/product-page/commodore-64-ultimate-basic-beige-batch1)
 * [2025-10-20, 14:31:16](https://news.ycombinator.com/item?id=45644328) - [BERT Is Just a Single Text Diffusion Step](https://nathan.rs/posts/roberta-diffusion/)
 * [2025-10-20, 14:27:17](https://news.ycombinator.com/item?id=45644276) - [How Soon Will the Seas Rise?](https://www.quantamagazine.org/how-soon-will-the-seas-rise-20251020/)
