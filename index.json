@@ -151,16 +151,6 @@
   ],
   [
     [
-      "2025-10-19, 17:00:42",
-      "https://news.ycombinator.com/item?id=45635757"
-    ],
-    [
-      "Infisical (YC W23) Is Hiring Full Stack Engineers",
-      "https://www.ycombinator.com/companies/infisical/jobs/0gY2Da1-full-stack-engineer-global"
-    ]
-  ],
-  [
-    [
       "2025-10-19, 16:31:57",
       "https://news.ycombinator.com/item?id=45635533"
     ],
@@ -177,6 +167,16 @@
     [
       "GNU Octave Meets JupyterLite: Compute Anywhere, Anytime",
       "https://blog.jupyter.org/gnu-octave-meets-jupyterlite-compute-anywhere-anytime-8b033afbbcdc"
+    ]
+  ],
+  [
+    [
+      "2025-10-19, 13:01:34",
+      "https://news.ycombinator.com/item?id=45633815"
+    ],
+    [
+      "The macOS LC_COLLATE hunt: Or why does sort order differently on macOS and Linux (2020)",
+      "https://blog.zhimingwang.org/macos-lc_collate-hunt"
     ]
   ],
   [
