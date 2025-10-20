@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-10-20, 23:46:05](https://news.ycombinator.com/item?id=45650831) - [Americans can't afford their cars any more and Wall Street is worried](https://www.telegraph.co.uk/business/2025/10/20/americans-cant-afford-cars-any-more-wall-street-worried/)
 * [2025-10-20, 22:22:45](https://news.ycombinator.com/item?id=45650178) - [You don't need Kafka: Building a message queue with Unix signals](https://leandronsp.com/articles/you-dont-need-kafka-building-a-message-queue-with-only-two-unix-signals)
 * [2025-10-20, 20:50:03](https://news.ycombinator.com/item?id=45649178) - [Today is when the Amazon brain drain sent AWS down the spout](https://www.theregister.com/2025/10/20/aws_outage_amazon_brain_drain_corey_quinn/)
 * [2025-10-20, 19:39:46](https://news.ycombinator.com/item?id=45648266) - [iOS 26.1 lets users control Liquid Glass transparency](https://www.macrumors.com/2025/10/20/ios-26-1-liquid-glass-toggle/)
@@ -19,7 +20,6 @@
 * [2025-10-20, 07:22:28](https://news.ycombinator.com/item?id=45640838) - [AWS Multiple Services Down in us-east-1](https://health.aws.amazon.com/health/status?ts=20251020)
 * [2025-10-20, 06:26:33](https://news.ycombinator.com/item?id=45640594) - [DeepSeek OCR](https://github.com/deepseek-ai/DeepSeek-OCR)
 * [2025-10-20, 04:42:08](https://news.ycombinator.com/item?id=45640226) - [Space Elevator](https://neal.fun/space-elevator/)
-* [2025-10-19, 14:57:59](https://news.ycombinator.com/item?id=45634638) - [Show HN: EloqDoc: MongoDB-compatible doc DB with object storage as first citizen](https://github.com/eloqdata/eloqdoc)
 * [2025-10-19, 06:42:19](https://news.ycombinator.com/item?id=45632429) - [A laser pointer at 2B FPS [video]](https://www.youtube.com/watch?v=o4TdHrMi6do)
 * [2025-10-17, 20:18:54](https://news.ycombinator.com/item?id=45621557) - [Code from MIT's 1986 SICP video lectures](https://github.com/felipap/sicp-code)
 * [2025-10-17, 00:28:01](https://news.ycombinator.com/item?id=45612223) - [Art Must Act](https://aeon.co/essays/harold-rosenberg-exhorted-artists-to-take-action-and-resist-cliche)
