@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-10-20, 20:50:03](https://news.ycombinator.com/item?id=45649178) - [Today is when the Amazon brain drain sent AWS down the spout](https://www.theregister.com/2025/10/20/aws_outage_amazon_brain_drain_corey_quinn/)
-* [2025-10-20, 20:14:52](https://news.ycombinator.com/item?id=45648726) - [It Kind of Seems Like Peter Thiel Is Losing It](https://futurism.com/future-society/peter-thiel-antichrist-lectures)
 * [2025-10-20, 19:39:46](https://news.ycombinator.com/item?id=45648266) - [iOS 26.1 lets users control Liquid Glass transparency](https://www.macrumors.com/2025/10/20/ios-26-1-liquid-glass-toggle/)
 * [2025-10-20, 19:38:52](https://news.ycombinator.com/item?id=45648258) - [J.P. Morgan's OpenAI loan is strange](https://marketunpack.com/j-p-morgans-openai-loan-is-strange/)
 * [2025-10-20, 19:38:02](https://news.ycombinator.com/item?id=45648249) - [When a stadium adds AI to everything, it's worse experience for everyone](https://a.wholelottanothing.org/bmo-stadium-in-la-added-ai-to-everything-and-what-they-got-was-a-worse-experience-for-everyone/)
@@ -30,6 +29,7 @@
 * [2025-10-14, 18:04:01](https://news.ycombinator.com/item?id=45582958) - [Intel and AMD standardise ChkTag to bring Memory Safety to x86](https://community.intel.com/t5/Blogs/Tech-Innovation/open-intel/ChkTag-x86-Memory-Safety/post/1721490)
 * [2025-10-14, 07:09:12](https://news.ycombinator.com/item?id=45577086) - [Optical diffraction patterns made with a MOPA laser engraving machine [video]](https://www.youtube.com/watch?v=RsGHr7dXLuI)
 * [2025-10-13, 18:01:07](https://news.ycombinator.com/item?id=45571423) - [My trick for getting consistent classification from LLMs](https://verdik.substack.com/p/how-to-get-consistent-classification)
+* [2025-10-09, 12:42:01](https://news.ycombinator.com/item?id=45526845) - [Pointer Pointer (2012)](https://pointerpointer.com)
 
 ## [Archives](archives/index.md)
 
