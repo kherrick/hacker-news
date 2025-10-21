@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-10-21](index.md)
 
+* [2025-10-21, 20:28:15](https://news.ycombinator.com/item?id=45661253) - [Replacing a $3000/mo Heroku bill with a $55/mo server](https://disco.cloud/blog/how-idealistorg-replaced-a-3000mo-heroku-bill-with-a-55-server/)
 * [2025-10-21, 20:14:22](https://news.ycombinator.com/item?id=45661084) - [Doomsday Scoreboard](https://doomsday.march1studios.com/)
 * [2025-10-21, 18:46:50](https://news.ycombinator.com/item?id=45659907) - [Amazon doesn't use Route 53 for amazon.com](https://www.dnscheck.co/blog/dns-monitoring/2025/10/21/aws-dog-food.html)
 * [2025-10-21, 18:39:18](https://news.ycombinator.com/item?id=45659812) - [Magit Is Amazing](https://heiwiper.com/posts/magit-is-awesome/)

@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-10-21, 20:28:15](https://news.ycombinator.com/item?id=45661253) - [Replacing a $3000/mo Heroku bill with a $55/mo server](https://disco.cloud/blog/how-idealistorg-replaced-a-3000mo-heroku-bill-with-a-55-server/)
 * [2025-10-21, 20:14:22](https://news.ycombinator.com/item?id=45661084) - [Doomsday Scoreboard](https://doomsday.march1studios.com/)
 * [2025-10-21, 18:39:18](https://news.ycombinator.com/item?id=45659812) - [Magit Is Amazing](https://heiwiper.com/posts/magit-is-awesome/)
 * [2025-10-21, 17:29:36](https://news.ycombinator.com/item?id=45658687) - [Time to build a GPU OS? Here is the first step](https://www.notion.so/yifanqiao/Solve-the-GPU-Cost-Crisis-with-kvcached-289da9d1f4d68034b17bf2774201b141)
@@ -26,7 +27,6 @@
 * [2025-10-20, 07:22:28](https://news.ycombinator.com/item?id=45640838) - [AWS multiple services outage in us-east-1](https://health.aws.amazon.com/health/status?ts=20251020)
 * [2025-10-19, 10:58:32](https://news.ycombinator.com/item?id=45633386) - [Show HN: bbcli – A TUI and CLI to browse BBC News like a hacker](https://github.com/hako/bbcli)
 * [2025-10-17, 20:19:56](https://news.ycombinator.com/item?id=45621571) - [Show HN: ASCII Automata](https://hlnet.neocities.org/ascii-automata/)
-* [2025-10-17, 19:32:46](https://news.ycombinator.com/item?id=45621020) - [Do not accept terms and conditions](https://www.termsandconditions.game/)
 * [2025-10-16, 15:47:17](https://news.ycombinator.com/item?id=45606853) - [Mathematicians have found a hidden 'reset button' for undoing rotation](https://www.newscientist.com/article/2499647-mathematicians-have-found-a-hidden-reset-button-for-undoing-rotation/)
 * [2025-10-13, 05:01:11](https://news.ycombinator.com/item?id=45564821) - [Minds, brains, and programs (1980) [pdf]](https://home.csulb.edu/~cwallis/382/readings/482/searle.minds.brains.programs.bbs.1980.pdf)
 * [2025-10-12, 08:24:49](https://news.ycombinator.com/item?id=45556413) - [Renato Casaro, 'Michelangelo of Movie Posters,' Dies at 89](https://www.nytimes.com/2025/10/10/movies/renato-casaro-dead.html)
