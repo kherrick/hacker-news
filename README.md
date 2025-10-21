@@ -13,6 +13,7 @@
 * [2025-10-20, 14:31:16](https://news.ycombinator.com/item?id=45644328) - [BERT is just a single text diffusion step](https://nathan.rs/posts/roberta-diffusion/)
 * [2025-10-20, 12:55:30](https://news.ycombinator.com/item?id=45643357) - [Servo v0.0.1](https://github.com/servo/servo)
 * [2025-10-20, 12:31:22](https://news.ycombinator.com/item?id=45643163) - [Alibaba Cloud says it cut Nvidia AI GPU use by 82% with new pooling system](https://www.tomshardware.com/tech-industry/semiconductors/alibaba-says-new-pooling-system-cut-nvidia-gpu-use-by-82-percent)
+* [2025-10-20, 11:58:35](https://news.ycombinator.com/item?id=45642911) - [Show HN: Playwright Skill for Claude Code – Less context than playwright-MCP](https://github.com/lackeyjb/playwright-skill)
 * [2025-10-20, 07:22:28](https://news.ycombinator.com/item?id=45640838) - [AWS multiple services outage in us-east-1](https://health.aws.amazon.com/health/status?ts=20251020)
 * [2025-10-20, 06:26:33](https://news.ycombinator.com/item?id=45640594) - [DeepSeek OCR](https://github.com/deepseek-ai/DeepSeek-OCR)
 * [2025-10-20, 04:42:08](https://news.ycombinator.com/item?id=45640226) - [Space Elevator](https://neal.fun/space-elevator/)
@@ -28,7 +29,6 @@
 * [2025-10-14, 09:49:50](https://news.ycombinator.com/item?id=45578080) - [When Compiler Optimizations Hurt Performance](https://nemanjatrifunovic.substack.com/p/when-compiler-optimizations-hurt)
 * [2025-10-14, 07:09:12](https://news.ycombinator.com/item?id=45577086) - [Optical diffraction patterns made with a MOPA laser engraving machine [video]](https://www.youtube.com/watch?v=RsGHr7dXLuI)
 * [2025-10-13, 18:01:07](https://news.ycombinator.com/item?id=45571423) - [My trick for getting consistent classification from LLMs](https://verdik.substack.com/p/how-to-get-consistent-classification)
-* [2025-10-13, 15:46:50](https://news.ycombinator.com/item?id=45569670) - [Building a CMS without programming experience](https://www.vibediary.dev/essays/cms)
 * [2025-10-09, 15:31:38](https://news.ycombinator.com/item?id=45529120) - [I made a small LED panel](https://www.stavros.io/posts/really-small-led-panel/)
 
 ## [Archives](archives/index.md)
