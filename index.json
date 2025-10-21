@@ -1,12 +1,32 @@
 [
   [
     [
-      "2025-10-20, 23:46:05",
-      "https://news.ycombinator.com/item?id=45650831"
+      "2025-10-21, 01:02:35",
+      "https://news.ycombinator.com/item?id=45651328"
     ],
     [
-      "Americans can't afford their cars any more and Wall Street is worried",
-      "https://www.telegraph.co.uk/business/2025/10/20/americans-cant-afford-cars-any-more-wall-street-worried/"
+      "The Rubygems.org takeover",
+      "https://lwn.net/SubscriberLink/1040778/77d921001b26d061/"
+    ]
+  ],
+  [
+    [
+      "2025-10-20, 23:40:25",
+      "https://news.ycombinator.com/item?id=45650792"
+    ],
+    [
+      "Old Computer Challenge – Modern Web for the ZX Spectrum",
+      "https://0x00.cl/blog/2025/occ-2025/"
+    ]
+  ],
+  [
+    [
+      "2025-10-20, 23:16:41",
+      "https://news.ycombinator.com/item?id=45650617"
+    ],
+    [
+      "Why UUIDs won't protect your secrets",
+      "https://alexsci.com/blog/uuids-and-idor/"
     ]
   ],
   [
@@ -15,7 +35,7 @@
       "https://news.ycombinator.com/item?id=45650178"
     ],
     [
-      "You don't need Kafka: Building a message queue with Unix signals",
+      "Building a message queue with only two UNIX signals",
       "https://leandronsp.com/articles/you-dont-need-kafka-building-a-message-queue-with-only-two-unix-signals"
     ]
   ],
@@ -27,36 +47,6 @@
     [
       "Today is when the Amazon brain drain sent AWS down the spout",
       "https://www.theregister.com/2025/10/20/aws_outage_amazon_brain_drain_corey_quinn/"
-    ]
-  ],
-  [
-    [
-      "2025-10-20, 19:39:46",
-      "https://news.ycombinator.com/item?id=45648266"
-    ],
-    [
-      "iOS 26.1 lets users control Liquid Glass transparency",
-      "https://www.macrumors.com/2025/10/20/ios-26-1-liquid-glass-toggle/"
-    ]
-  ],
-  [
-    [
-      "2025-10-20, 19:38:52",
-      "https://news.ycombinator.com/item?id=45648258"
-    ],
-    [
-      "J.P. Morgan's OpenAI loan is strange",
-      "https://marketunpack.com/j-p-morgans-openai-loan-is-strange/"
-    ]
-  ],
-  [
-    [
-      "2025-10-20, 19:38:02",
-      "https://news.ycombinator.com/item?id=45648249"
-    ],
-    [
-      "When a stadium adds AI to everything, it's worse experience for everyone",
-      "https://a.wholelottanothing.org/bmo-stadium-in-la-added-ai-to-everything-and-what-they-got-was-a-worse-experience-for-everyone/"
     ]
   ],
   [
@@ -151,16 +141,6 @@
   ],
   [
     [
-      "2025-10-20, 11:58:35",
-      "https://news.ycombinator.com/item?id=45642911"
-    ],
-    [
-      "Show HN: Playwright Skill for Claude Code – Less context than playwright-MCP",
-      "https://github.com/lackeyjb/playwright-skill"
-    ]
-  ],
-  [
-    [
       "2025-10-20, 07:31:23",
       "https://news.ycombinator.com/item?id=45640877"
     ],
@@ -175,7 +155,7 @@
       "https://news.ycombinator.com/item?id=45640838"
     ],
     [
-      "AWS Multiple Services Down in us-east-1",
+      "AWS multiple services outage in us-east-1",
       "https://health.aws.amazon.com/health/status?ts=20251020"
     ]
   ],
@@ -255,7 +235,7 @@
       "https://news.ycombinator.com/item?id=45589715"
     ],
     [
-      "The scariest \"user support\" email I've ever received",
+      "The scariest \"user support\" email I've received",
       "https://www.devas.life/the-scariest-user-support-email-ive-ever-received/"
     ]
   ],
@@ -267,6 +247,16 @@
     [
       "How to stop Linux threads cleanly",
       "https://mazzo.li/posts/stopping-linux-threads.html"
+    ]
+  ],
+  [
+    [
+      "2025-10-15, 04:33:36",
+      "https://news.ycombinator.com/item?id=45588116"
+    ],
+    [
+      "Old Is Gold: Optimizing Single-Threaded Applications with Exgen-Malloc",
+      "https://arxiv.org/abs/2510.10219"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "My trick for getting consistent classification from LLMs",
       "https://verdik.substack.com/p/how-to-get-consistent-classification"
+    ]
+  ],
+  [
+    [
+      "2025-10-09, 15:31:38",
+      "https://news.ycombinator.com/item?id=45529120"
+    ],
+    [
+      "I made a small LED panel",
+      "https://www.stavros.io/posts/really-small-led-panel/"
     ]
   ]
 ]
