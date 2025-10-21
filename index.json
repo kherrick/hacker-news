@@ -21,16 +21,6 @@
   ],
   [
     [
-      "2025-10-20, 22:22:45",
-      "https://news.ycombinator.com/item?id=45650178"
-    ],
-    [
-      "Building a message queue with only two UNIX signals",
-      "https://leandronsp.com/articles/you-dont-need-kafka-building-a-message-queue-with-only-two-unix-signals"
-    ]
-  ],
-  [
-    [
       "2025-10-20, 20:50:03",
       "https://news.ycombinator.com/item?id=45649178"
     ],
@@ -127,6 +117,16 @@
     [
       "Alibaba Cloud says it cut Nvidia AI GPU use by 82% with new pooling system",
       "https://www.tomshardware.com/tech-industry/semiconductors/alibaba-says-new-pooling-system-cut-nvidia-gpu-use-by-82-percent"
+    ]
+  ],
+  [
+    [
+      "2025-10-20, 11:58:35",
+      "https://news.ycombinator.com/item?id=45642911"
+    ],
+    [
+      "Show HN: Playwright Skill for Claude Code – Less context than playwright-MCP",
+      "https://github.com/lackeyjb/playwright-skill"
     ]
   ],
   [
@@ -245,7 +245,7 @@
       "https://news.ycombinator.com/item?id=45582958"
     ],
     [
-      "Intel and AMD standardise ChkTag to bring Memory Safety to x86",
+      "ChkTag: x86 Memory Safety",
       "https://community.intel.com/t5/Blogs/Tech-Innovation/open-intel/ChkTag-x86-Memory-Safety/post/1721490"
     ]
   ],
