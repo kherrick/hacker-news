@@ -10,6 +10,7 @@
 * [2025-10-21, 13:15:03](https://news.ycombinator.com/item?id=45655361) - [The Karpathy Interview, 6 Months After AI 2027](https://futuresearch.ai/ai-2027-6-months-later/)
 * [2025-10-21, 13:05:21](https://news.ycombinator.com/item?id=45655263) - [Ilo – a Forth system running on UEFI](https://asciinema.org/a/Lbxa2w9R5IbaJqW3INqVrbX8E)
 * [2025-10-21, 12:58:57](https://news.ycombinator.com/item?id=45655190) - [Our modular, high-performance Merkle Tree library for Rust](https://github.com/bilinearlabs/rs-merkle-tree)
+* [2025-10-21, 12:57:55](https://news.ycombinator.com/item?id=45655179) - [Amazon hopes to replace 600k US workers with robots](https://www.theverge.com/news/803257/amazon-robotics-automation-replace-600000-human-jobs)
 * [2025-10-21, 12:55:59](https://news.ycombinator.com/item?id=45655161) - [Neural audio codecs: how to get audio into LLMs](https://kyutai.org/next/codec-explainer)
 * [2025-10-21, 12:43:44](https://news.ycombinator.com/item?id=45655081) - [SpaceX is behind schedule, so NASA will open Artemis III contract to competition](https://www.theregister.com/2025/10/21/spacex_is_behind_schedule_so/)
 * [2025-10-21, 11:42:14](https://news.ycombinator.com/item?id=45654660) - [StarGrid: A Brand-New Palm OS Strategy Game in 2025](https://quarters.captaintouch.com/blog/posts/2025-10-21-stargrid-has-arrived,-a-brand-new-palm-os-strategy-game-in-2025.html)

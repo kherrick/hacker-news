@@ -2,10 +2,9 @@
 
 * [2025-10-21, 14:24:40](https://news.ycombinator.com/item?id=45656230) - [Sell tickets to concerts agentically – Hive (YC S14) is hiring](https://news.ycombinator.com/item?id=45656230)
 * [2025-10-21, 14:11:01](https://news.ycombinator.com/item?id=45656044) - [WindBorne CEO says his company's balloon may be the cause of UA emergency](https://twitter.com/johndeanl/status/1980462264974209292)
-* [2025-10-21, 13:19:23](https://news.ycombinator.com/item?id=45655413) - [Don't use AI to tell you how to vote in election, says Dutch watchdog](https://www.theguardian.com/world/2025/oct/21/ai-chatbots-unreliable-biased-advice-voters-dutch-watchdog)
-* [2025-10-21, 13:15:03](https://news.ycombinator.com/item?id=45655361) - [The Karpathy Interview, 6 Months After AI 2027](https://futuresearch.ai/ai-2027-6-months-later/)
 * [2025-10-21, 13:05:21](https://news.ycombinator.com/item?id=45655263) - [Ilo – a Forth system running on UEFI](https://asciinema.org/a/Lbxa2w9R5IbaJqW3INqVrbX8E)
 * [2025-10-21, 12:58:57](https://news.ycombinator.com/item?id=45655190) - [Our modular, high-performance Merkle Tree library for Rust](https://github.com/bilinearlabs/rs-merkle-tree)
+* [2025-10-21, 12:57:55](https://news.ycombinator.com/item?id=45655179) - [Amazon hopes to replace 600k US workers with robots](https://www.theverge.com/news/803257/amazon-robotics-automation-replace-600000-human-jobs)
 * [2025-10-21, 12:55:59](https://news.ycombinator.com/item?id=45655161) - [Neural audio codecs: how to get audio into LLMs](https://kyutai.org/next/codec-explainer)
 * [2025-10-21, 11:42:14](https://news.ycombinator.com/item?id=45654660) - [StarGrid: A Brand-New Palm OS Strategy Game in 2025](https://quarters.captaintouch.com/blog/posts/2025-10-21-stargrid-has-arrived,-a-brand-new-palm-os-strategy-game-in-2025.html)
 * [2025-10-21, 11:16:34](https://news.ycombinator.com/item?id=45654512) - [Diamond Thermal Conductivity: A New Era in Chip Cooling](https://spectrum.ieee.org/diamond-thermal-conductivity)
@@ -29,6 +28,7 @@
 * [2025-10-12, 15:29:47](https://news.ycombinator.com/item?id=45558913) - [Calendar Puzzle \"Rhombus\"](https://praxispuzzles.com/calendar_puzzle_rhombus)
 * [2025-10-12, 12:04:51](https://news.ycombinator.com/item?id=45557599) - [KDE Connect: Enabling communication between all your devices](https://community.kde.org/KDEConnect)
 * [2025-10-12, 09:26:46](https://news.ycombinator.com/item?id=45556772) - [Quantum dynamics on your laptop? New technique moves us closer](https://www.buffalo.edu/news/releases/2025/10/quantum-dynamics-on-your-laptop.html)
+* [2025-10-12, 08:18:26](https://news.ycombinator.com/item?id=45556374) - [Solving the Wrong Problem](https://www.ufried.com/blog/ai_assisted_coding/)
 * [2025-10-09, 15:31:38](https://news.ycombinator.com/item?id=45529120) - [I made a small LED panel](https://www.stavros.io/posts/really-small-led-panel/)
 
 ## [Archives](archives/index.md)

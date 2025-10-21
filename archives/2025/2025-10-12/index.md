@@ -77,6 +77,7 @@
 * [2025-10-12, 09:21:29](https://news.ycombinator.com/item?id=45556741) - [Why it took 4 years to get a lock files specification](https://snarky.ca/why-it-took-4-years-to-get-a-lock-files-specification/)
 * [2025-10-12, 08:46:57](https://news.ycombinator.com/item?id=45556536) - [Tahoe's Elephant](https://eclecticlight.co/2025/10/12/last-week-on-my-mac-tahoes-elephant/)
 * [2025-10-12, 08:37:01](https://news.ycombinator.com/item?id=45556474) - [4x faster LLM inference (Flash Attention guy's company)](https://www.together.ai/blog/adaptive-learning-speculator-system-atlas)
+* [2025-10-12, 08:18:26](https://news.ycombinator.com/item?id=45556374) - [Solving the Wrong Problem](https://www.ufried.com/blog/ai_assisted_coding/)
 * [2025-10-12, 07:41:35](https://news.ycombinator.com/item?id=45556142) - [Functions Are Asymmetric](https://www.elbeno.com/blog/?p=1804)
 * [2025-10-12, 07:35:18](https://news.ycombinator.com/item?id=45556104) - [The Wi-Fi Revolution (2003)](https://www.wired.com/2003/05/wifirevolution/)
 * [2025-10-12, 07:20:36](https://news.ycombinator.com/item?id=45556032) - [The App Store Was Always Authoritarian](https://infrequently.org/2025/10/the-app-store-was-always-authoritarian/)
