@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-10-21, 18:39:18",
+      "https://news.ycombinator.com/item?id=45659812"
+    ],
+    [
+      "Magit Is Amazing",
+      "https://heiwiper.com/posts/magit-is-awesome/"
+    ]
+  ],
+  [
+    [
       "2025-10-21, 17:18:13",
       "https://news.ycombinator.com/item?id=45658479"
     ],
@@ -17,16 +27,6 @@
     [
       "Flexport Is Hiring SDRs in Chicago",
       "https://job-boards.greenhouse.io/flexport/jobs/5690976?gh_jid=5690976"
-    ]
-  ],
-  [
-    [
-      "2025-10-21, 16:50:40",
-      "https://news.ycombinator.com/item?id=45658056"
-    ],
-    [
-      "Fallout from the AWS Outage: Smart Mattresses Go Rogue and Ruin Sleep Worldwide",
-      "https://quasa.io/media/the-strangest-fallout-from-the-aws-outage-smart-mattresses-go-rogue-and-ruin-sleep-worldwide"
     ]
   ],
   [
@@ -81,6 +81,16 @@
   ],
   [
     [
+      "2025-10-21, 16:01:17",
+      "https://news.ycombinator.com/item?id=45657428"
+    ],
+    [
+      "Is Sora the beginning of the end for OpenAI?",
+      "https://calnewport.com/is-sora-the-beginning-of-the-end-for-openai/"
+    ]
+  ],
+  [
+    [
       "2025-10-21, 15:55:41",
       "https://news.ycombinator.com/item?id=45657345"
     ],
@@ -117,16 +127,6 @@
     [
       "Katakate: Dozens of VMs per node for safe code exec: K8s+Kata+Firecracker",
       "https://github.com/Katakate/k7"
-    ]
-  ],
-  [
-    [
-      "2025-10-21, 15:19:51",
-      "https://news.ycombinator.com/item?id=45656916"
-    ],
-    [
-      "AI Is Making Us Work More",
-      "https://tawandamunongo.dev/posts/2025/10/ai-work-more"
     ]
   ],
   [
@@ -181,6 +181,16 @@
   ],
   [
     [
+      "2025-10-21, 12:58:43",
+      "https://news.ycombinator.com/item?id=45655188"
+    ],
+    [
+      "NASA chief suggests SpaceX may be booted from moon mission",
+      "https://www.cnn.com/2025/10/20/science/nasa-spacex-moon-landing-contract-sean-duffy"
+    ]
+  ],
+  [
+    [
       "2025-10-21, 12:55:59",
       "https://news.ycombinator.com/item?id=45655161"
     ],
@@ -207,16 +217,6 @@
     [
       "Diamond Thermal Conductivity: A New Era in Chip Cooling",
       "https://spectrum.ieee.org/diamond-thermal-conductivity"
-    ]
-  ],
-  [
-    [
-      "2025-10-21, 07:23:09",
-      "https://news.ycombinator.com/item?id=45653330"
-    ],
-    [
-      "Pasta/80 is a simple Pascal cross compiler targeting the Z80 microprocessor",
-      "https://github.com/pleumann/pasta80"
     ]
   ],
   [
@@ -271,6 +271,16 @@
   ],
   [
     [
+      "2025-10-16, 15:47:17",
+      "https://news.ycombinator.com/item?id=45606853"
+    ],
+    [
+      "Mathematicians have found a hidden 'reset button' for undoing rotation",
+      "https://www.newscientist.com/article/2499647-mathematicians-have-found-a-hidden-reset-button-for-undoing-rotation/"
+    ]
+  ],
+  [
+    [
       "2025-10-14, 09:41:32",
       "https://news.ycombinator.com/item?id=45578016"
     ],
@@ -287,16 +297,6 @@
     [
       "KDE Connect: Enabling communication between all your devices",
       "https://community.kde.org/KDEConnect"
-    ]
-  ],
-  [
-    [
-      "2025-10-12, 09:26:46",
-      "https://news.ycombinator.com/item?id=45556772"
-    ],
-    [
-      "Quantum dynamics on your laptop? New technique moves us closer",
-      "https://www.buffalo.edu/news/releases/2025/10/quantum-dynamics-on-your-laptop.html"
     ]
   ]
 ]
