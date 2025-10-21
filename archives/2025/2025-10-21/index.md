@@ -6,6 +6,8 @@
 
 * [2025-10-21, 11:42:14](https://news.ycombinator.com/item?id=45654660) - [StarGrid: A Brand-New Palm OS Strategy Game in 2025](https://quarters.captaintouch.com/blog/posts/2025-10-21-stargrid-has-arrived,-a-brand-new-palm-os-strategy-game-in-2025.html)
 * [2025-10-21, 11:39:19](https://news.ycombinator.com/item?id=45654635) - [Tesla is heading into multi-billion-dollar iceberg of its own making](https://electrek.co/2025/10/20/tesla-heading-into-multi-billion-dollar-iceberg-of-own-making/)
+* [2025-10-21, 11:16:34](https://news.ycombinator.com/item?id=45654512) - [Diamond Thermal Conductivity: A New Era in Chip Cooling](https://spectrum.ieee.org/diamond-thermal-conductivity)
+* [2025-10-21, 10:44:48](https://news.ycombinator.com/item?id=45654382) - [US chess grandmaster Daniel Naroditsky dies aged 29](https://www.bbc.com/news/articles/c15pz8vpjp9o)
 * [2025-10-21, 10:38:55](https://news.ycombinator.com/item?id=45654348) - [White House's East Wing partially demolished as work begins on $250M ballroom](https://www.theguardian.com/us-news/2025/oct/20/trump-white-house-ballroom-construction)
 * [2025-10-21, 09:57:42](https://news.ycombinator.com/item?id=45654132) - [AI Weiwei: What I Wish I Had Known About Germany Earlier](https://hyperallergic.com/1050197/what-i-wish-i-had-known-about-germany-earlier/)
 * [2025-10-21, 09:28:29](https://news.ycombinator.com/item?id=45653981) - [Human Error Cripples the Internet (1997)](https://archive.nytimes.com/www.nytimes.com/library/cyber/week/071797dns.html)

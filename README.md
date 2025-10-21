@@ -2,7 +2,8 @@
 
 * [2025-10-21, 11:42:14](https://news.ycombinator.com/item?id=45654660) - [StarGrid: A Brand-New Palm OS Strategy Game in 2025](https://quarters.captaintouch.com/blog/posts/2025-10-21-stargrid-has-arrived,-a-brand-new-palm-os-strategy-game-in-2025.html)
 * [2025-10-21, 11:39:19](https://news.ycombinator.com/item?id=45654635) - [Tesla is heading into multi-billion-dollar iceberg of its own making](https://electrek.co/2025/10/20/tesla-heading-into-multi-billion-dollar-iceberg-of-own-making/)
-* [2025-10-21, 09:28:29](https://news.ycombinator.com/item?id=45653981) - [Human Error Cripples the Internet (1997)](https://archive.nytimes.com/www.nytimes.com/library/cyber/week/071797dns.html)
+* [2025-10-21, 11:16:34](https://news.ycombinator.com/item?id=45654512) - [Diamond Thermal Conductivity: A New Era in Chip Cooling](https://spectrum.ieee.org/diamond-thermal-conductivity)
+* [2025-10-21, 10:44:48](https://news.ycombinator.com/item?id=45654382) - [US chess grandmaster Daniel Naroditsky dies aged 29](https://www.bbc.com/news/articles/c15pz8vpjp9o)
 * [2025-10-21, 07:23:09](https://news.ycombinator.com/item?id=45653330) - [Pasta/80 is a simple Pascal cross compiler targeting the Z80 microprocessor](https://github.com/pleumann/pasta80)
 * [2025-10-21, 06:48:53](https://news.ycombinator.com/item?id=45653143) - [Language Support for Marginalia Search](https://www.marginalia.nu/log/a_126_multilingual/)
 * [2025-10-21, 05:47:39](https://news.ycombinator.com/item?id=45652859) - [Practical Scheme](https://practical-scheme.net/index.html#docs)
@@ -14,9 +15,9 @@
 * [2025-10-20, 14:31:16](https://news.ycombinator.com/item?id=45644328) - [BERT is just a single text diffusion step](https://nathan.rs/posts/roberta-diffusion/)
 * [2025-10-20, 12:31:22](https://news.ycombinator.com/item?id=45643163) - [Alibaba Cloud says it cut Nvidia AI GPU use by 82% with new pooling system](https://www.tomshardware.com/tech-industry/semiconductors/alibaba-says-new-pooling-system-cut-nvidia-gpu-use-by-82-percent)
 * [2025-10-20, 07:22:28](https://news.ycombinator.com/item?id=45640838) - [AWS multiple services outage in us-east-1](https://health.aws.amazon.com/health/status?ts=20251020)
-* [2025-10-20, 06:26:33](https://news.ycombinator.com/item?id=45640594) - [DeepSeek OCR](https://github.com/deepseek-ai/DeepSeek-OCR)
 * [2025-10-20, 04:42:08](https://news.ycombinator.com/item?id=45640226) - [Space Elevator](https://neal.fun/space-elevator/)
 * [2025-10-19, 06:42:19](https://news.ycombinator.com/item?id=45632429) - [A laser pointer at 2B FPS [video]](https://www.youtube.com/watch?v=o4TdHrMi6do)
+* [2025-10-17, 20:19:56](https://news.ycombinator.com/item?id=45621571) - [Show HN: ASCII Automata](https://hlnet.neocities.org/ascii-automata/)
 * [2025-10-17, 20:18:54](https://news.ycombinator.com/item?id=45621557) - [Code from MIT's 1986 SICP video lectures](https://github.com/felipap/sicp-code)
 * [2025-10-17, 15:34:04](https://news.ycombinator.com/item?id=45617948) - [Show HN: I'm making a detective game built on Wikipedia](https://detective.wiki/)
 * [2025-10-15, 07:28:45](https://news.ycombinator.com/item?id=45589156) - [How to stop Linux threads cleanly](https://mazzo.li/posts/stopping-linux-threads.html)
@@ -28,7 +29,6 @@
 * [2025-10-12, 15:29:47](https://news.ycombinator.com/item?id=45558913) - [Calendar Puzzle \"Rhombus\"](https://praxispuzzles.com/calendar_puzzle_rhombus)
 * [2025-10-12, 12:04:51](https://news.ycombinator.com/item?id=45557599) - [KDE Connect: Enabling communication between all your devices](https://community.kde.org/KDEConnect)
 * [2025-10-12, 09:26:46](https://news.ycombinator.com/item?id=45556772) - [Quantum dynamics on your laptop? New technique moves us closer](https://www.buffalo.edu/news/releases/2025/10/quantum-dynamics-on-your-laptop.html)
-* [2025-10-12, 07:06:39](https://news.ycombinator.com/item?id=45555960) - [The Tyrrany of Literacy. On oral tradition and what is lost](https://languagelog.ldc.upenn.edu/nll/?p=71545)
 * [2025-10-09, 15:31:38](https://news.ycombinator.com/item?id=45529120) - [I made a small LED panel](https://www.stavros.io/posts/really-small-led-panel/)
 
 ## [Archives](archives/index.md)
