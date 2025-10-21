@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-10-21](index.md)
 
+* [2025-10-21, 14:26:20](https://news.ycombinator.com/item?id=45656247) - [RF Shielding History: When the FCC Cracked Down on Computers](https://tedium.co/2025/10/20/computers-fcc-rf-interference-history/)
 * [2025-10-21, 14:24:40](https://news.ycombinator.com/item?id=45656230) - [Sell tickets to concerts agentically – Hive (YC S14) is hiring](https://news.ycombinator.com/item?id=45656230)
+* [2025-10-21, 14:24:26](https://news.ycombinator.com/item?id=45656223) - [LLMs Can Get \"Brain Rot\"](https://llm-brain-rot.github.io/)
 * [2025-10-21, 14:11:01](https://news.ycombinator.com/item?id=45656044) - [WindBorne CEO says his company's balloon may be the cause of UA emergency](https://twitter.com/johndeanl/status/1980462264974209292)
 * [2025-10-21, 14:11:01](https://news.ycombinator.com/item?id=45656044) - [UA 1093](https://windbornesystems.com/blog/ua-1093)
 * [2025-10-21, 13:19:23](https://news.ycombinator.com/item?id=45655413) - [Don't use AI to tell you how to vote in election, says Dutch watchdog](https://www.theguardian.com/world/2025/oct/21/ai-chatbots-unreliable-biased-advice-voters-dutch-watchdog)
