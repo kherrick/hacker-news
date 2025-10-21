@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-10-21, 07:26:57](https://news.ycombinator.com/item?id=45653350) - [Show HN: I'm rewriting a web server written in Rust for speed and ease of use](https://ferron.sh/)
+* [2025-10-21, 07:23:09](https://news.ycombinator.com/item?id=45653330) - [Pasta/80 is a simple Pascal cross compiler targeting the Z80 microprocessor](https://github.com/pleumann/pasta80)
 * [2025-10-21, 06:48:53](https://news.ycombinator.com/item?id=45653143) - [Language Support for Marginalia Search](https://www.marginalia.nu/log/a_126_multilingual/)
 * [2025-10-21, 05:47:39](https://news.ycombinator.com/item?id=45652859) - [Practical Scheme](https://practical-scheme.net/index.html#docs)
 * [2025-10-21, 03:53:20](https://news.ycombinator.com/item?id=45652307) - [60k kids have avoided peanut allergies due to 2015 advice, study finds](https://www.cbsnews.com/news/peanut-allergies-60000-kids-avoided-2015-advice/)
@@ -20,7 +21,6 @@
 * [2025-10-17, 20:18:54](https://news.ycombinator.com/item?id=45621557) - [Code from MIT's 1986 SICP video lectures](https://github.com/felipap/sicp-code)
 * [2025-10-17, 15:34:04](https://news.ycombinator.com/item?id=45617948) - [Show HN: I'm making a detective game built on Wikipedia](https://detective.wiki/)
 * [2025-10-16, 00:29:11](https://news.ycombinator.com/item?id=45600132) - [A magnetic field orientation that changes the fundamental design of motors](https://www.paranetics.com/copy-of-home)
-* [2025-10-15, 11:18:55](https://news.ycombinator.com/item?id=45590743) - [The longest baseball game took 33 innings to win](https://www.mlb.com/news/the-longest-professional-baseball-game-ever-played)
 * [2025-10-15, 08:47:32](https://news.ycombinator.com/item?id=45589715) - [The scariest \"user support\" email I've received](https://www.devas.life/the-scariest-user-support-email-ive-ever-received/)
 * [2025-10-15, 07:28:45](https://news.ycombinator.com/item?id=45589156) - [How to stop Linux threads cleanly](https://mazzo.li/posts/stopping-linux-threads.html)
 * [2025-10-14, 20:50:50](https://news.ycombinator.com/item?id=45584680) - [Bare Metal (The Emacs Essay)](https://waxbanks.wordpress.com/2025/08/01/bare-metal-the-emacs-essay/)

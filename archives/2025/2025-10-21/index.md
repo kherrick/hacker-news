@@ -6,6 +6,7 @@
 
 * [2025-10-21, 07:35:05](https://news.ycombinator.com/item?id=45653393) - [Most Expensive Laptops](https://comparelaptopprices.com/lists/most-expensive-laptops/)
 * [2025-10-21, 07:26:57](https://news.ycombinator.com/item?id=45653350) - [Show HN: I'm rewriting a web server written in Rust for speed and ease of use](https://ferron.sh/)
+* [2025-10-21, 07:23:09](https://news.ycombinator.com/item?id=45653330) - [Pasta/80 is a simple Pascal cross compiler targeting the Z80 microprocessor](https://github.com/pleumann/pasta80)
 * [2025-10-21, 06:48:53](https://news.ycombinator.com/item?id=45653143) - [Language Support for Marginalia Search](https://www.marginalia.nu/log/a_126_multilingual/)
 * [2025-10-21, 05:47:39](https://news.ycombinator.com/item?id=45652859) - [Practical Scheme](https://practical-scheme.net/index.html#docs)
 * [2025-10-21, 03:53:20](https://news.ycombinator.com/item?id=45652307) - [60k kids have avoided peanut allergies due to 2015 advice, study finds](https://www.cbsnews.com/news/peanut-allergies-60000-kids-avoided-2015-advice/)
