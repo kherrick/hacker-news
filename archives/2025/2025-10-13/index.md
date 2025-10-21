@@ -32,6 +32,7 @@
 * [2025-10-13, 16:03:31](https://news.ycombinator.com/item?id=45569896) - [Apple Renames 'Apple TV+' to 'Apple TV'](https://www.apple.com/tv-pr/news/2025/10/apple-original-films-blockbuster-feature-f1-the-movie-from-joseph-kosinski-to-make-global-streaming-debut-on-friday-december-12-2025/)
 * [2025-10-13, 15:55:48](https://news.ycombinator.com/item?id=45569787) - [Automate all the things with Swift Subprocess](https://blog.jacobstechtavern.com/p/swift-subprocess)
 * [2025-10-13, 15:48:33](https://news.ycombinator.com/item?id=45569692) - [Carbonized 1,300-Year-Old Bread Loaves Unearthed in Turkey](https://ancientist.com/1300-year-old-communion-bread-unearthed-in-karaman-a-loaf-for-the-farmer-christ/)
+* [2025-10-13, 15:46:50](https://news.ycombinator.com/item?id=45569670) - [Building a CMS without programming experience](https://www.vibediary.dev/essays/cms)
 * [2025-10-13, 15:24:08](https://news.ycombinator.com/item?id=45569371) - [Android's sideloading limits are its most anti-consumer move yet](https://www.makeuseof.com/androids-sideloading-limits-are-anti-consumer-move-yet/)
 * [2025-10-13, 15:22:47](https://news.ycombinator.com/item?id=45569350) - [NanoChat – The best ChatGPT that $100 can buy](https://github.com/karpathy/nanochat)
 * [2025-10-13, 15:03:53](https://news.ycombinator.com/item?id=45569108) - [More than 130k Vodafone customers report outage](https://www.bbc.co.uk/news/articles/c5yldldx659o)

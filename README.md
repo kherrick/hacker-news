@@ -21,7 +21,6 @@
 * [2025-10-17, 23:54:40](https://news.ycombinator.com/item?id=45623509) - [Results from blood test for 50 cancers](https://www.bbc.com/news/articles/c205g21n1zzo)
 * [2025-10-17, 20:18:54](https://news.ycombinator.com/item?id=45621557) - [Code from MIT's 1986 SICP video lectures](https://github.com/felipap/sicp-code)
 * [2025-10-17, 15:34:04](https://news.ycombinator.com/item?id=45617948) - [Show HN: I'm making a detective game built on Wikipedia](https://detective.wiki/)
-* [2025-10-17, 00:28:01](https://news.ycombinator.com/item?id=45612223) - [Art Must Act](https://aeon.co/essays/harold-rosenberg-exhorted-artists-to-take-action-and-resist-cliche)
 * [2025-10-15, 11:18:55](https://news.ycombinator.com/item?id=45590743) - [The longest baseball game took 33 innings to win](https://www.mlb.com/news/the-longest-professional-baseball-game-ever-played)
 * [2025-10-15, 08:47:32](https://news.ycombinator.com/item?id=45589715) - [The scariest \"user support\" email I've received](https://www.devas.life/the-scariest-user-support-email-ive-ever-received/)
 * [2025-10-15, 07:28:45](https://news.ycombinator.com/item?id=45589156) - [How to stop Linux threads cleanly](https://mazzo.li/posts/stopping-linux-threads.html)
@@ -29,6 +28,7 @@
 * [2025-10-14, 09:49:50](https://news.ycombinator.com/item?id=45578080) - [When Compiler Optimizations Hurt Performance](https://nemanjatrifunovic.substack.com/p/when-compiler-optimizations-hurt)
 * [2025-10-14, 07:09:12](https://news.ycombinator.com/item?id=45577086) - [Optical diffraction patterns made with a MOPA laser engraving machine [video]](https://www.youtube.com/watch?v=RsGHr7dXLuI)
 * [2025-10-13, 18:01:07](https://news.ycombinator.com/item?id=45571423) - [My trick for getting consistent classification from LLMs](https://verdik.substack.com/p/how-to-get-consistent-classification)
+* [2025-10-13, 15:46:50](https://news.ycombinator.com/item?id=45569670) - [Building a CMS without programming experience](https://www.vibediary.dev/essays/cms)
 * [2025-10-09, 15:31:38](https://news.ycombinator.com/item?id=45529120) - [I made a small LED panel](https://www.stavros.io/posts/really-small-led-panel/)
 
 ## [Archives](archives/index.md)
