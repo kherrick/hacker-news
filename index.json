@@ -21,16 +21,6 @@
   ],
   [
     [
-      "2025-10-20, 23:16:41",
-      "https://news.ycombinator.com/item?id=45650617"
-    ],
-    [
-      "Why UUIDs won't protect your secrets",
-      "https://alexsci.com/blog/uuids-and-idor/"
-    ]
-  ],
-  [
-    [
       "2025-10-20, 22:22:45",
       "https://news.ycombinator.com/item?id=45650178"
     ],
@@ -137,6 +127,16 @@
     [
       "Alibaba Cloud says it cut Nvidia AI GPU use by 82% with new pooling system",
       "https://www.tomshardware.com/tech-industry/semiconductors/alibaba-says-new-pooling-system-cut-nvidia-gpu-use-by-82-percent"
+    ]
+  ],
+  [
+    [
+      "2025-10-20, 11:58:35",
+      "https://news.ycombinator.com/item?id=45642911"
+    ],
+    [
+      "Show HN: Playwright Skill for Claude Code – Less context than playwright-MCP",
+      "https://github.com/lackeyjb/playwright-skill"
     ]
   ],
   [
