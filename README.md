@@ -10,7 +10,6 @@
 * [2025-10-21, 15:55:41](https://news.ycombinator.com/item?id=45657345) - [Ask HN: Our AWS account got compromised after their outage](https://news.ycombinator.com/item?id=45657345)
 * [2025-10-21, 15:52:32](https://news.ycombinator.com/item?id=45657302) - [Apple alerts exploit developer that his iPhone was targeted with gov spyware](https://techcrunch.com/2025/10/21/apple-alerts-exploit-developer-that-his-iphone-was-targeted-with-government-spyware/)
 * [2025-10-21, 15:51:33](https://news.ycombinator.com/item?id=45657287) - [Foreign hackers breached a US nuclear weapons plant via SharePoint flaws](https://www.csoonline.com/article/4074962/foreign-hackers-breached-a-us-nuclear-weapons-plant-via-sharepoint-flaws.html)
-* [2025-10-21, 15:32:02](https://news.ycombinator.com/item?id=45657055) - [Show HN: Clink – Bring your own CLI Agents, Ship instantly](https://clink.new)
 * [2025-10-21, 15:22:25](https://news.ycombinator.com/item?id=45656952) - [Katakate: Dozens of VMs per node for safe code exec: K8s+Kata+Firecracker](https://github.com/Katakate/k7)
 * [2025-10-21, 15:19:51](https://news.ycombinator.com/item?id=45656916) - [AI Is Making Us Work More](https://tawandamunongo.dev/posts/2025/10/ai-work-more)
 * [2025-10-21, 14:26:20](https://news.ycombinator.com/item?id=45656247) - [RF Shielding History: When the FCC Cracked Down on Computers](https://tedium.co/2025/10/20/computers-fcc-rf-interference-history/)
@@ -30,6 +29,7 @@
 * [2025-10-14, 09:41:32](https://news.ycombinator.com/item?id=45578016) - [Weekend projects: Chicken Squisher 3000](https://lcamtuf.substack.com/p/weekend-projects-chicken-squisher)
 * [2025-10-12, 12:04:51](https://news.ycombinator.com/item?id=45557599) - [KDE Connect: Enabling communication between all your devices](https://community.kde.org/KDEConnect)
 * [2025-10-12, 09:26:46](https://news.ycombinator.com/item?id=45556772) - [Quantum dynamics on your laptop? New technique moves us closer](https://www.buffalo.edu/news/releases/2025/10/quantum-dynamics-on-your-laptop.html)
+* [2025-10-12, 08:18:26](https://news.ycombinator.com/item?id=45556374) - [Solving the Wrong Problem](https://www.ufried.com/blog/ai_assisted_coding/)
 
 ## [Archives](archives/index.md)
 
