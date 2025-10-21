@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-10-21](index.md)
 
+* [2025-10-21, 17:01:02](https://news.ycombinator.com/item?id=45658221) - [Flexport Is Hiring SDRs in Chicago](https://job-boards.greenhouse.io/flexport/jobs/5690976?gh_jid=5690976)
+* [2025-10-21, 16:50:40](https://news.ycombinator.com/item?id=45658056) - [Fallout from the AWS Outage: Smart Mattresses Go Rogue and Ruin Sleep Worldwide](https://quasa.io/media/the-strangest-fallout-from-the-aws-outage-smart-mattresses-go-rogue-and-ruin-sleep-worldwide)
+* [2025-10-21, 16:47:17](https://news.ycombinator.com/item?id=45658019) - [The Programmer Identity Crisis](https://hojberg.xyz/the-programmer-identity-crisis/)
 * [2025-10-21, 16:39:44](https://news.ycombinator.com/item?id=45657922) - [The Greatness of Text Adventures](https://entropicthoughts.com/the-greatness-of-text-adventures)
 * [2025-10-21, 16:01:24](https://news.ycombinator.com/item?id=45657431) - [Public Trust Demands Open-Source Voting Systems](https://www.voting.works/news/public-trust-demands-open-source-voting-systems)
 * [2025-10-21, 16:01:17](https://news.ycombinator.com/item?id=45657428) - [Is Sora the Beginning of the End for OpenAI?](https://calnewport.com/is-sora-the-beginning-of-the-end-for-openai/)
