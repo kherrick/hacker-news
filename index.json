@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2025-10-21, 17:29:36",
+      "https://news.ycombinator.com/item?id=45658687"
+    ],
+    [
+      "Time to build a GPU OS? Here is the first step",
+      "https://www.notion.so/yifanqiao/Solve-the-GPU-Cost-Crisis-with-kvcached-289da9d1f4d68034b17bf2774201b141"
+    ]
+  ],
+  [
+    [
       "2025-10-21, 17:18:13",
       "https://news.ycombinator.com/item?id=45658479"
     ],
@@ -81,16 +91,6 @@
   ],
   [
     [
-      "2025-10-21, 16:01:17",
-      "https://news.ycombinator.com/item?id=45657428"
-    ],
-    [
-      "Is Sora the beginning of the end for OpenAI?",
-      "https://calnewport.com/is-sora-the-beginning-of-the-end-for-openai/"
-    ]
-  ],
-  [
-    [
       "2025-10-21, 15:52:32",
       "https://news.ycombinator.com/item?id=45657302"
     ],
@@ -115,7 +115,7 @@
       "https://news.ycombinator.com/item?id=45656952"
     ],
     [
-      "Katakate: Dozens of VMs per node for safe code exec: K8s+Kata+Firecracker",
+      "Show HN: Katakate – Dozens of VMs per node for safe code exec",
       "https://github.com/Katakate/k7"
     ]
   ],
@@ -137,16 +137,6 @@
     [
       "LLMs can get \"brain rot\"",
       "https://llm-brain-rot.github.io/"
-    ]
-  ],
-  [
-    [
-      "2025-10-21, 14:11:01",
-      "https://news.ycombinator.com/item?id=45656044"
-    ],
-    [
-      "UA 1093",
-      "https://windbornesystems.com/blog/ua-1093"
     ]
   ],
   [
@@ -211,16 +201,6 @@
   ],
   [
     [
-      "2025-10-21, 06:48:53",
-      "https://news.ycombinator.com/item?id=45653143"
-    ],
-    [
-      "Language Support for Marginalia Search",
-      "https://www.marginalia.nu/log/a_126_multilingual/"
-    ]
-  ],
-  [
-    [
       "2025-10-21, 03:53:20",
       "https://news.ycombinator.com/item?id=45652307"
     ],
@@ -241,6 +221,36 @@
   ],
   [
     [
+      "2025-10-20, 21:19:19",
+      "https://news.ycombinator.com/item?id=45649510"
+    ],
+    [
+      "The death of thread per core",
+      "https://buttondown.com/jaffray/archive/the-death-of-thread-per-core/"
+    ]
+  ],
+  [
+    [
+      "2025-10-20, 17:24:49",
+      "https://news.ycombinator.com/item?id=45646559"
+    ],
+    [
+      "Getting DeepSeek-OCR working on an Nvidia Spark via brute force with Claude Code",
+      "https://simonwillison.net/2025/Oct/20/deepseek-ocr-claude-code/"
+    ]
+  ],
+  [
+    [
+      "2025-10-20, 17:13:44",
+      "https://news.ycombinator.com/item?id=45646414"
+    ],
+    [
+      "What do we do if SETI is successful?",
+      "https://www.universetoday.com/articles/what-do-we-do-if-seti-is-successful"
+    ]
+  ],
+  [
+    [
       "2025-10-20, 07:22:28",
       "https://news.ycombinator.com/item?id=45640838"
     ],
@@ -251,22 +261,32 @@
   ],
   [
     [
-      "2025-10-17, 19:32:46",
-      "https://news.ycombinator.com/item?id=45621020"
+      "2025-10-19, 10:58:32",
+      "https://news.ycombinator.com/item?id=45633386"
     ],
     [
-      "Do not accept terms and conditions- the game",
-      "https://www.termsandconditions.game/"
+      "Show HN: bbcli – A TUI and CLI to browse BBC News like a hacker",
+      "https://github.com/hako/bbcli"
     ]
   ],
   [
     [
-      "2025-10-16, 22:27:00",
-      "https://news.ycombinator.com/item?id=45611444"
+      "2025-10-17, 20:19:56",
+      "https://news.ycombinator.com/item?id=45621571"
     ],
     [
-      "The Emulator's Gambit: Executing Code from Non-Executable Memory",
-      "https://redops.at/en/blog/the-emulators-gambit-executing-code-from-non-executable-memory"
+      "Show HN: ASCII Automata",
+      "https://hlnet.neocities.org/ascii-automata/"
+    ]
+  ],
+  [
+    [
+      "2025-10-17, 19:32:46",
+      "https://news.ycombinator.com/item?id=45621020"
+    ],
+    [
+      "Do not accept terms and conditions",
+      "https://www.termsandconditions.game/"
     ]
   ],
   [
@@ -277,26 +297,6 @@
     [
       "Mathematicians have found a hidden 'reset button' for undoing rotation",
       "https://www.newscientist.com/article/2499647-mathematicians-have-found-a-hidden-reset-button-for-undoing-rotation/"
-    ]
-  ],
-  [
-    [
-      "2025-10-14, 20:50:50",
-      "https://news.ycombinator.com/item?id=45584680"
-    ],
-    [
-      "Bare Metal (The Emacs Essay)",
-      "https://waxbanks.wordpress.com/2025/08/01/bare-metal-the-emacs-essay/"
-    ]
-  ],
-  [
-    [
-      "2025-10-12, 12:04:51",
-      "https://news.ycombinator.com/item?id=45557599"
-    ],
-    [
-      "KDE Connect: Enabling communication between all your devices",
-      "https://community.kde.org/KDEConnect"
     ]
   ]
 ]
