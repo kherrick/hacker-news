@@ -5,6 +5,8 @@
 ### [Archives](../../index.md) for [2025-10-20](index.md)
 
 * [2025-10-20, 23:46:05](https://news.ycombinator.com/item?id=45650831) - [Americans can't afford their cars any more and Wall Street is worried](https://www.telegraph.co.uk/business/2025/10/20/americans-cant-afford-cars-any-more-wall-street-worried/)
+* [2025-10-20, 23:40:25](https://news.ycombinator.com/item?id=45650792) - [Old Computer Challenge – Modern Web for the ZX Spectrum](https://0x00.cl/blog/2025/occ-2025/)
+* [2025-10-20, 23:16:41](https://news.ycombinator.com/item?id=45650617) - [Why UUIDs won't protect your secrets](https://alexsci.com/blog/uuids-and-idor/)
 * [2025-10-20, 22:22:45](https://news.ycombinator.com/item?id=45650178) - [You don't need Kafka: Building a message queue with Unix signals](https://leandronsp.com/articles/you-dont-need-kafka-building-a-message-queue-with-only-two-unix-signals)
 * [2025-10-20, 20:50:03](https://news.ycombinator.com/item?id=45649178) - [Today is when the Amazon brain drain sent AWS down the spout](https://www.theregister.com/2025/10/20/aws_outage_amazon_brain_drain_corey_quinn/)
 * [2025-10-20, 20:27:12](https://news.ycombinator.com/item?id=45648864) - [Should MS Replace Satya Nadella with an AI CEO?](https://old.reddit.com/r/microsoftsucks/comments/1obsew3/should_ms_replace_satya_nadella_with_an_ai_ceo/)

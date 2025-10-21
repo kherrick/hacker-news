@@ -68,6 +68,7 @@
 * [2025-10-15, 06:21:04](https://news.ycombinator.com/item?id=45588689) - [Just Talk to It – The No-Bs Way of Agentic Engineering](https://steipete.me/posts/just-talk-to-it)
 * [2025-10-15, 06:05:51](https://news.ycombinator.com/item?id=45588594) - [Pixnapping Attack](https://www.pixnapping.com/)
 * [2025-10-15, 05:09:44](https://news.ycombinator.com/item?id=45588283) - [I am a programmer, not a rubber-stamp that approves Copilot generated code](https://prahladyeri.github.io/blog/2025/10/i-am-a-programmer.html)
+* [2025-10-15, 04:33:36](https://news.ycombinator.com/item?id=45588116) - [Old Is Gold: Optimizing Single-Threaded Applications with Exgen-Malloc](https://arxiv.org/abs/2510.10219)
 * [2025-10-15, 02:44:06](https://news.ycombinator.com/item?id=45587546) - [Lost Jack Kerouac story found among assassinated mafia boss' belongings](https://www.sfgate.com/sf-culture/article/lost-jack-kerouac-chapter-found-mafia-boss-estate-21098566.php)
 * [2025-10-15, 02:04:26](https://news.ycombinator.com/item?id=45587289) - [Can We Know Whether a Profiler Is Accurate?](https://stefan-marr.de/2025/10/can-we-know-whether-a-profiler-is-accurate/)
 * [2025-10-15, 02:02:32](https://news.ycombinator.com/item?id=45587280) - [Disk Prices](https://diskprices.com/?locale=us)
