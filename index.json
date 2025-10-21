@@ -1,12 +1,62 @@
 [
   [
     [
+      "2025-10-21, 15:55:41",
+      "https://news.ycombinator.com/item?id=45657345"
+    ],
+    [
+      "Ask HN: Our AWS account got compromised after their outage",
+      "https://news.ycombinator.com/item?id=45657345"
+    ]
+  ],
+  [
+    [
+      "2025-10-21, 15:52:32",
+      "https://news.ycombinator.com/item?id=45657302"
+    ],
+    [
+      "Apple alerts exploit developer that his iPhone was targeted with gov spyware",
+      "https://techcrunch.com/2025/10/21/apple-alerts-exploit-developer-that-his-iphone-was-targeted-with-government-spyware/"
+    ]
+  ],
+  [
+    [
+      "2025-10-21, 15:32:02",
+      "https://news.ycombinator.com/item?id=45657055"
+    ],
+    [
+      "Show HN: Clink – Bring your own CLI Agents, Ship instantly",
+      "https://clink.new"
+    ]
+  ],
+  [
+    [
+      "2025-10-21, 15:22:25",
+      "https://news.ycombinator.com/item?id=45656952"
+    ],
+    [
+      "Katakate: Dozens of VMs per node for safe code exec: K8s+Kata+Firecracker",
+      "https://github.com/Katakate/k7"
+    ]
+  ],
+  [
+    [
       "2025-10-21, 15:19:51",
       "https://news.ycombinator.com/item?id=45656916"
     ],
     [
       "AI Is Making Us Work More",
       "https://tawandamunongo.dev/posts/2025/10/ai-work-more"
+    ]
+  ],
+  [
+    [
+      "2025-10-21, 15:13:01",
+      "https://news.ycombinator.com/item?id=45656836"
+    ],
+    [
+      "A Fast Bytecode VM for Arithmetic: The Virtual Machine",
+      "https://abhinavsarkar.net/posts/arithmetic-bytecode-vm/"
     ]
   ],
   [
@@ -131,36 +181,6 @@
   ],
   [
     [
-      "2025-10-20, 18:12:23",
-      "https://news.ycombinator.com/item?id=45647166"
-    ],
-    [
-      "Claude Code on the web",
-      "https://www.anthropic.com/news/claude-code-on-the-web"
-    ]
-  ],
-  [
-    [
-      "2025-10-20, 15:55:36",
-      "https://news.ycombinator.com/item?id=45645349"
-    ],
-    [
-      "Production RAG: what I learned from processing 5M+ documents",
-      "https://blog.abdellatif.io/production-rag-processing-5m-documents"
-    ]
-  ],
-  [
-    [
-      "2025-10-20, 14:31:16",
-      "https://news.ycombinator.com/item?id=45644328"
-    ],
-    [
-      "BERT is just a single text diffusion step",
-      "https://nathan.rs/posts/roberta-diffusion/"
-    ]
-  ],
-  [
-    [
       "2025-10-20, 12:31:22",
       "https://news.ycombinator.com/item?id=45643163"
     ],
@@ -241,16 +261,6 @@
   ],
   [
     [
-      "2025-10-13, 18:01:07",
-      "https://news.ycombinator.com/item?id=45571423"
-    ],
-    [
-      "My trick for getting consistent classification from LLMs",
-      "https://verdik.substack.com/p/how-to-get-consistent-classification"
-    ]
-  ],
-  [
-    [
       "2025-10-12, 15:29:47",
       "https://news.ycombinator.com/item?id=45558913"
     ],
@@ -287,16 +297,6 @@
     [
       "Solving the Wrong Problem",
       "https://www.ufried.com/blog/ai_assisted_coding/"
-    ]
-  ],
-  [
-    [
-      "2025-10-09, 15:31:38",
-      "https://news.ycombinator.com/item?id=45529120"
-    ],
-    [
-      "I made a small LED panel",
-      "https://www.stavros.io/posts/really-small-led-panel/"
     ]
   ]
 ]
