@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-10-21, 15:19:51](https://news.ycombinator.com/item?id=45656916) - [AI Is Making Us Work More](https://tawandamunongo.dev/posts/2025/10/ai-work-more)
 * [2025-10-21, 14:26:20](https://news.ycombinator.com/item?id=45656247) - [RF Shielding History: When the FCC Cracked Down on Computers](https://tedium.co/2025/10/20/computers-fcc-rf-interference-history/)
 * [2025-10-21, 14:24:40](https://news.ycombinator.com/item?id=45656230) - [Sell tickets to concerts agentically – Hive (YC S14) is hiring](https://news.ycombinator.com/item?id=45656230)
 * [2025-10-21, 14:24:26](https://news.ycombinator.com/item?id=45656223) - [LLMs Can Get \"Brain Rot\"](https://llm-brain-rot.github.io/)
@@ -12,7 +13,6 @@
 * [2025-10-21, 07:23:09](https://news.ycombinator.com/item?id=45653330) - [Pasta/80 is a simple Pascal cross compiler targeting the Z80 microprocessor](https://github.com/pleumann/pasta80)
 * [2025-10-21, 06:48:53](https://news.ycombinator.com/item?id=45653143) - [Language Support for Marginalia Search](https://www.marginalia.nu/log/a_126_multilingual/)
 * [2025-10-21, 05:47:39](https://news.ycombinator.com/item?id=45652859) - [Practical Scheme](https://practical-scheme.net/index.html#docs)
-* [2025-10-20, 20:50:03](https://news.ycombinator.com/item?id=45649178) - [Today is when the Amazon brain drain sent AWS down the spout](https://www.theregister.com/2025/10/20/aws_outage_amazon_brain_drain_corey_quinn/)
 * [2025-10-20, 18:12:23](https://news.ycombinator.com/item?id=45647166) - [Claude Code on the web](https://www.anthropic.com/news/claude-code-on-the-web)
 * [2025-10-20, 15:55:36](https://news.ycombinator.com/item?id=45645349) - [Production RAG: what I learned from processing 5M+ documents](https://blog.abdellatif.io/production-rag-processing-5m-documents)
 * [2025-10-20, 14:31:16](https://news.ycombinator.com/item?id=45644328) - [BERT is just a single text diffusion step](https://nathan.rs/posts/roberta-diffusion/)
@@ -22,7 +22,7 @@
 * [2025-10-17, 20:19:56](https://news.ycombinator.com/item?id=45621571) - [Show HN: ASCII Automata](https://hlnet.neocities.org/ascii-automata/)
 * [2025-10-17, 15:34:04](https://news.ycombinator.com/item?id=45617948) - [Show HN: I'm making a detective game built on Wikipedia](https://detective.wiki/)
 * [2025-10-14, 20:50:50](https://news.ycombinator.com/item?id=45584680) - [Bare Metal (The Emacs Essay)](https://waxbanks.wordpress.com/2025/08/01/bare-metal-the-emacs-essay/)
-* [2025-10-14, 09:49:50](https://news.ycombinator.com/item?id=45578080) - [When Compiler Optimizations Hurt Performance](https://nemanjatrifunovic.substack.com/p/when-compiler-optimizations-hurt)
+* [2025-10-14, 09:41:32](https://news.ycombinator.com/item?id=45578016) - [Weekend projects: Chicken Squisher 3000](https://lcamtuf.substack.com/p/weekend-projects-chicken-squisher)
 * [2025-10-14, 01:13:35](https://news.ycombinator.com/item?id=45575165) - [South Africa's one million invisible children without birth certificates](https://www.france24.com/en/africa/20250705-south-africa-s-one-million-invisible-children-without-birth-certificates)
 * [2025-10-13, 18:01:07](https://news.ycombinator.com/item?id=45571423) - [My trick for getting consistent classification from LLMs](https://verdik.substack.com/p/how-to-get-consistent-classification)
 * [2025-10-12, 15:29:47](https://news.ycombinator.com/item?id=45558913) - [Calendar Puzzle \"Rhombus\"](https://praxispuzzles.com/calendar_puzzle_rhombus)

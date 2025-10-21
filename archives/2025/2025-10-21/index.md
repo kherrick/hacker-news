@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-10-21](index.md)
 
+* [2025-10-21, 15:19:51](https://news.ycombinator.com/item?id=45656916) - [AI Is Making Us Work More](https://tawandamunongo.dev/posts/2025/10/ai-work-more)
 * [2025-10-21, 14:26:20](https://news.ycombinator.com/item?id=45656247) - [RF Shielding History: When the FCC Cracked Down on Computers](https://tedium.co/2025/10/20/computers-fcc-rf-interference-history/)
 * [2025-10-21, 14:24:40](https://news.ycombinator.com/item?id=45656230) - [Sell tickets to concerts agentically – Hive (YC S14) is hiring](https://news.ycombinator.com/item?id=45656230)
 * [2025-10-21, 14:24:26](https://news.ycombinator.com/item?id=45656223) - [LLMs Can Get \"Brain Rot\"](https://llm-brain-rot.github.io/)
