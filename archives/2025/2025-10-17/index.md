@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-10-17](index.md)
 
 * [2025-10-17, 23:58:06](https://news.ycombinator.com/item?id=45623526) - [Jeep Wrangler Owners Waiting for Answers Week After an Update Bricked Their Cars](https://www.thedrive.com/news/jeep-wrangler-4xe-owners-still-waiting-for-answers-a-week-after-an-update-bricked-their-cars)
+* [2025-10-17, 23:54:40](https://news.ycombinator.com/item?id=45623509) - [Results from blood test for 50 cancers](https://www.bbc.com/news/articles/c205g21n1zzo)
 * [2025-10-17, 22:36:48](https://news.ycombinator.com/item?id=45622944) - [Every vibe-coded website is the same page with different words. So I made that](https://vibe-coded.lol/)
 * [2025-10-17, 22:34:26](https://news.ycombinator.com/item?id=45622923) - [Promoted on Sunday, Fired on Monday: Inside a NASA Office's Sudden Closure](https://www.planetary.org/articles/promoted-on-sunday-fired-on-monday-inside-a-nasa-offices-sudden-closure)
 * [2025-10-17, 21:57:44](https://news.ycombinator.com/item?id=45622604) - [WebMCP](https://github.com/jasonjmcghee/WebMCP)
