@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-10-21](index.md)
 
+* [2025-10-21, 16:39:44](https://news.ycombinator.com/item?id=45657922) - [The Greatness of Text Adventures](https://entropicthoughts.com/the-greatness-of-text-adventures)
+* [2025-10-21, 16:01:24](https://news.ycombinator.com/item?id=45657431) - [Public Trust Demands Open-Source Voting Systems](https://www.voting.works/news/public-trust-demands-open-source-voting-systems)
+* [2025-10-21, 16:01:17](https://news.ycombinator.com/item?id=45657428) - [Is Sora the Beginning of the End for OpenAI?](https://calnewport.com/is-sora-the-beginning-of-the-end-for-openai/)
 * [2025-10-21, 15:55:41](https://news.ycombinator.com/item?id=45657345) - [Ask HN: Our AWS account got compromised after their outage](https://news.ycombinator.com/item?id=45657345)
 * [2025-10-21, 15:52:32](https://news.ycombinator.com/item?id=45657302) - [Apple alerts exploit developer that his iPhone was targeted with gov spyware](https://techcrunch.com/2025/10/21/apple-alerts-exploit-developer-that-his-iphone-was-targeted-with-government-spyware/)
 * [2025-10-21, 15:32:02](https://news.ycombinator.com/item?id=45657055) - [Show HN: Clink – Bring your own CLI Agents, Ship instantly](https://clink.new)

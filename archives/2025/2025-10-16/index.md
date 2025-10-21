@@ -8,6 +8,7 @@
 * [2025-10-16, 23:20:16](https://news.ycombinator.com/item?id=45611851) - [Lead Limited Brain and Language Development in Neanderthals and Other Hominids?](https://today.ucsd.edu/story/did-lead-limit-brain-and-language-development-in-neanderthals-and-other-extinct-hominids)
 * [2025-10-16, 23:05:04](https://news.ycombinator.com/item?id=45611735) - [America's Semiconductor Boom is Real [video]](https://www.youtube.com/watch?v=T-jt3qBzJ4A)
 * [2025-10-16, 22:44:25](https://news.ycombinator.com/item?id=45611582) - [Ace Frehley Dies at 74](https://variety.com/2025/music/news/ace-frehley-kiss-lead-guitarist-dead-1236554943/)
+* [2025-10-16, 22:27:00](https://news.ycombinator.com/item?id=45611444) - [The Emulator's Gambit: Executing Code from Non-Executable Memory](https://redops.at/en/blog/the-emulators-gambit-executing-code-from-non-executable-memory)
 * [2025-10-16, 22:04:57](https://news.ycombinator.com/item?id=45611252) - [K8s with 1M nodes](https://bchess.github.io/k8s-1m/)
 * [2025-10-16, 21:36:43](https://news.ycombinator.com/item?id=45610996) - [Understanding Spec-Driven-Development: Kiro, Spec-Kit, and Tessl](https://martinfowler.com/articles/exploring-gen-ai/sdd-3-tools.html)
 * [2025-10-16, 21:10:23](https://news.ycombinator.com/item?id=45610696) - [Ron Conway Resigns Salesforce Foundation over Benioff's National Guard Comments](https://www.politico.com/news/2025/10/16/ron-conway-salesforce-san-francisco-00611579)
