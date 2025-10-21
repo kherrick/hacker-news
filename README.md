@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-10-21, 17:18:13](https://news.ycombinator.com/item?id=45658479) - [ChatGPT Atlas](https://chatgpt.com/atlas)
-* [2025-10-21, 17:03:34](https://news.ycombinator.com/item?id=45658268) - [OpenAI Set to Challenge Google with New ChatGPT Atlas Browser](https://www.bloomberg.com/news/articles/2025-10-21/openai-set-to-challenge-google-with-new-chatgpt-atlas-browser)
 * [2025-10-21, 17:01:02](https://news.ycombinator.com/item?id=45658221) - [Flexport Is Hiring SDRs in Chicago](https://job-boards.greenhouse.io/flexport/jobs/5690976?gh_jid=5690976)
 * [2025-10-21, 16:50:40](https://news.ycombinator.com/item?id=45658056) - [Fallout from the AWS Outage: Smart Mattresses Go Rogue and Ruin Sleep Worldwide](https://quasa.io/media/the-strangest-fallout-from-the-aws-outage-smart-mattresses-go-rogue-and-ruin-sleep-worldwide)
 * [2025-10-21, 16:47:17](https://news.ycombinator.com/item?id=45658019) - [The Programmer Identity Crisis](https://hojberg.xyz/the-programmer-identity-crisis/)
 * [2025-10-21, 16:39:44](https://news.ycombinator.com/item?id=45657922) - [The Greatness of Text Adventures](https://entropicthoughts.com/the-greatness-of-text-adventures)
+* [2025-10-21, 16:31:51](https://news.ycombinator.com/item?id=45657827) - [Build Your Own Database](https://www.nan.fyi/database)
 * [2025-10-21, 16:01:24](https://news.ycombinator.com/item?id=45657431) - [Public trust demands open-source voting systems](https://www.voting.works/news/public-trust-demands-open-source-voting-systems)
 * [2025-10-21, 15:55:41](https://news.ycombinator.com/item?id=45657345) - [Ask HN: Our AWS account got compromised after their outage](https://news.ycombinator.com/item?id=45657345)
 * [2025-10-21, 15:52:32](https://news.ycombinator.com/item?id=45657302) - [Apple alerts exploit developer that his iPhone was targeted with gov spyware](https://techcrunch.com/2025/10/21/apple-alerts-exploit-developer-that-his-iphone-was-targeted-with-government-spyware/)
@@ -24,12 +24,12 @@
 * [2025-10-21, 07:23:09](https://news.ycombinator.com/item?id=45653330) - [Pasta/80 is a simple Pascal cross compiler targeting the Z80 microprocessor](https://github.com/pleumann/pasta80)
 * [2025-10-21, 06:48:53](https://news.ycombinator.com/item?id=45653143) - [Language Support for Marginalia Search](https://www.marginalia.nu/log/a_126_multilingual/)
 * [2025-10-20, 07:22:28](https://news.ycombinator.com/item?id=45640838) - [AWS multiple services outage in us-east-1](https://health.aws.amazon.com/health/status?ts=20251020)
+* [2025-10-17, 19:32:46](https://news.ycombinator.com/item?id=45621020) - [Do not accept terms and conditions- the game](https://www.termsandconditions.game/)
 * [2025-10-17, 15:34:04](https://news.ycombinator.com/item?id=45617948) - [Show HN: I'm making a detective game built on Wikipedia](https://detective.wiki/)
 * [2025-10-16, 22:27:00](https://news.ycombinator.com/item?id=45611444) - [The Emulator's Gambit: Executing Code from Non-Executable Memory](https://redops.at/en/blog/the-emulators-gambit-executing-code-from-non-executable-memory)
 * [2025-10-14, 09:41:32](https://news.ycombinator.com/item?id=45578016) - [Weekend projects: Chicken Squisher 3000](https://lcamtuf.substack.com/p/weekend-projects-chicken-squisher)
 * [2025-10-12, 12:04:51](https://news.ycombinator.com/item?id=45557599) - [KDE Connect: Enabling communication between all your devices](https://community.kde.org/KDEConnect)
 * [2025-10-12, 09:26:46](https://news.ycombinator.com/item?id=45556772) - [Quantum dynamics on your laptop? New technique moves us closer](https://www.buffalo.edu/news/releases/2025/10/quantum-dynamics-on-your-laptop.html)
-* [2025-10-12, 08:18:26](https://news.ycombinator.com/item?id=45556374) - [Solving the Wrong Problem](https://www.ufried.com/blog/ai_assisted_coding/)
 
 ## [Archives](archives/index.md)
 

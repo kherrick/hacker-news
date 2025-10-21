@@ -18,6 +18,7 @@
 * [2025-10-17, 20:18:54](https://news.ycombinator.com/item?id=45621557) - [Code from MIT's 1986 SICP video lectures](https://github.com/felipap/sicp-code)
 * [2025-10-17, 19:51:20](https://news.ycombinator.com/item?id=45621246) - [Making Every Windows 11 PC an AI PC](https://blogs.windows.com/windowsexperience/2025/10/16/making-every-windows-11-pc-an-ai-pc/)
 * [2025-10-17, 19:37:16](https://news.ycombinator.com/item?id=45621074) - [The Pivot](https://www.antipope.org/charlie/blog-static/2025/10/the-pivot-1.html)
+* [2025-10-17, 19:32:46](https://news.ycombinator.com/item?id=45621020) - [Do not accept terms and conditions- the game](https://www.termsandconditions.game/)
 * [2025-10-17, 19:03:21](https://news.ycombinator.com/item?id=45620653) - [Asking AI to build scrapers should be easy right?](https://www.skyvern.com/blog/asking-ai-to-build-scrapers-should-be-easy-right/)
 * [2025-10-17, 19:00:14](https://news.ycombinator.com/item?id=45620613) - [Ace Frehley Has Died](https://www.nytimes.com/2025/10/16/arts/music/ace-frehley-dead.html)
 * [2025-10-17, 18:44:13](https://news.ycombinator.com/item?id=45620394) - [GOG Has Had to Hire Private Investigators to Track Down IP Rights Holders](https://www.thegamer.com/gog-private-investigators-off-the-grid-ip-rights-holders/)
