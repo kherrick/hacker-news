@@ -27,8 +27,8 @@
 * [2025-10-20, 17:13:44](https://news.ycombinator.com/item?id=45646414) - [What do we do if SETI is successful?](https://www.universetoday.com/articles/what-do-we-do-if-seti-is-successful)
 * [2025-10-20, 07:22:28](https://news.ycombinator.com/item?id=45640838) - [AWS multiple services outage in us-east-1](https://health.aws.amazon.com/health/status?ts=20251020)
 * [2025-10-19, 10:58:32](https://news.ycombinator.com/item?id=45633386) - [Show HN: bbcli – A TUI and CLI to browse BBC News like a hacker](https://github.com/hako/bbcli)
-* [2025-10-17, 20:19:56](https://news.ycombinator.com/item?id=45621571) - [Show HN: ASCII Automata](https://hlnet.neocities.org/ascii-automata/)
 * [2025-10-16, 15:47:17](https://news.ycombinator.com/item?id=45606853) - [Mathematicians have found a hidden 'reset button' for undoing rotation](https://www.newscientist.com/article/2499647-mathematicians-have-found-a-hidden-reset-button-for-undoing-rotation/)
+* [2025-10-14, 18:09:12](https://news.ycombinator.com/item?id=45583019) - [The Salt and Pepper Shaker Museum](https://www.thesaltandpeppershakermuseum.com)
 * [2025-10-13, 05:01:11](https://news.ycombinator.com/item?id=45564821) - [Minds, brains, and programs (1980) [pdf]](https://home.csulb.edu/~cwallis/382/readings/482/searle.minds.brains.programs.bbs.1980.pdf)
 
 ## [Archives](archives/index.md)

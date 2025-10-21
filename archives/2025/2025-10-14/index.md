@@ -30,6 +30,7 @@
 * [2025-10-14, 18:26:00](https://news.ycombinator.com/item?id=45583180) - [Why your boss isn't worried about AI – \"can't you just turn it off?\"](https://boydkane.com/essays/boss)
 * [2025-10-14, 18:22:04](https://news.ycombinator.com/item?id=45583129) - [New lab-grown human embryo model produces blood cells](https://www.cam.ac.uk/research/news/new-lab-grown-human-embryo-model-produces-blood-cells)
 * [2025-10-14, 18:21:19](https://news.ycombinator.com/item?id=45583116) - [Optimizing writes to OLAP using buffers (ClickHouse, Redpanda, MooseStack)](https://www.fiveonefour.com/blog/optimizing-writes-to-olap-using-buffers)
+* [2025-10-14, 18:09:12](https://news.ycombinator.com/item?id=45583019) - [The Salt and Pepper Shaker Museum](https://www.thesaltandpeppershakermuseum.com)
 * [2025-10-14, 18:04:01](https://news.ycombinator.com/item?id=45582958) - [Intel and AMD standardise ChkTag to bring Memory Safety to x86](https://community.intel.com/t5/Blogs/Tech-Innovation/open-intel/ChkTag-x86-Memory-Safety/post/1721490)
 * [2025-10-14, 17:43:33](https://news.ycombinator.com/item?id=45582758) - [SmolBSD – build your own minimal BSD system](https://smolbsd.org)
 * [2025-10-14, 17:12:10](https://news.ycombinator.com/item?id=45582462) - [How bad can a $2.97 ADC be?](https://excamera.substack.com/p/how-bad-can-a-297-adc-be)
