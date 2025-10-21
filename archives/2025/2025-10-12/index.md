@@ -72,6 +72,7 @@
 * [2025-10-12, 09:59:13](https://news.ycombinator.com/item?id=45556911) - [The Spilhaus Projection-A World Map According to Fish](https://southernwoodenboatsailing.com/news/the-spilhaus-projection-a-world-map-according-to-fish)
 * [2025-10-12, 09:57:34](https://news.ycombinator.com/item?id=45556904) - [Peeking Inside Gigantic Zips with Only Kilobytes](https://ritiksahni.com/blog/peeking-inside-gigantic-zips-with-only-kilobytes/)
 * [2025-10-12, 09:40:56](https://news.ycombinator.com/item?id=45556827) - [Show HN: The Shape of YouTube](https://soy.leg.ovh/)
+* [2025-10-12, 09:26:46](https://news.ycombinator.com/item?id=45556772) - [Quantum dynamics on your laptop? New technique moves us closer](https://www.buffalo.edu/news/releases/2025/10/quantum-dynamics-on-your-laptop.html)
 * [2025-10-12, 09:24:43](https://news.ycombinator.com/item?id=45556763) - [Nostr and ATProto (2024)](https://shreyanjain.net/2024/07/05/nostr-and-atproto.html)
 * [2025-10-12, 09:21:29](https://news.ycombinator.com/item?id=45556741) - [Why it took 4 years to get a lock files specification](https://snarky.ca/why-it-took-4-years-to-get-a-lock-files-specification/)
 * [2025-10-12, 08:46:57](https://news.ycombinator.com/item?id=45556536) - [Tahoe's Elephant](https://eclecticlight.co/2025/10/12/last-week-on-my-mac-tahoes-elephant/)

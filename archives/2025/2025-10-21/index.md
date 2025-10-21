@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-10-21](index.md)
 
+* [2025-10-21, 10:38:55](https://news.ycombinator.com/item?id=45654348) - [White House's East Wing partially demolished as work begins on $250M ballroom](https://www.theguardian.com/us-news/2025/oct/20/trump-white-house-ballroom-construction)
 * [2025-10-21, 09:57:42](https://news.ycombinator.com/item?id=45654132) - [AI Weiwei: What I Wish I Had Known About Germany Earlier](https://hyperallergic.com/1050197/what-i-wish-i-had-known-about-germany-earlier/)
 * [2025-10-21, 09:28:29](https://news.ycombinator.com/item?id=45653981) - [Human Error Cripples the Internet (1997)](https://archive.nytimes.com/www.nytimes.com/library/cyber/week/071797dns.html)
 * [2025-10-21, 07:35:05](https://news.ycombinator.com/item?id=45653393) - [Most Expensive Laptops](https://comparelaptopprices.com/lists/most-expensive-laptops/)

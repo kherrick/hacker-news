@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-10-21, 10:38:55](https://news.ycombinator.com/item?id=45654348) - [White House's East Wing partially demolished as work begins on $250M ballroom](https://www.theguardian.com/us-news/2025/oct/20/trump-white-house-ballroom-construction)
 * [2025-10-21, 09:28:29](https://news.ycombinator.com/item?id=45653981) - [Human Error Cripples the Internet (1997)](https://archive.nytimes.com/www.nytimes.com/library/cyber/week/071797dns.html)
 * [2025-10-21, 07:23:09](https://news.ycombinator.com/item?id=45653330) - [Pasta/80 is a simple Pascal cross compiler targeting the Z80 microprocessor](https://github.com/pleumann/pasta80)
 * [2025-10-21, 06:48:53](https://news.ycombinator.com/item?id=45653143) - [Language Support for Marginalia Search](https://www.marginalia.nu/log/a_126_multilingual/)
@@ -7,7 +8,6 @@
 * [2025-10-20, 23:40:25](https://news.ycombinator.com/item?id=45650792) - [Old Computer Challenge – Modern Web for the ZX Spectrum](https://0x00.cl/blog/2025/occ-2025/)
 * [2025-10-20, 20:50:03](https://news.ycombinator.com/item?id=45649178) - [Today is when the Amazon brain drain sent AWS down the spout](https://www.theregister.com/2025/10/20/aws_outage_amazon_brain_drain_corey_quinn/)
 * [2025-10-20, 18:12:23](https://news.ycombinator.com/item?id=45647166) - [Claude Code on the web](https://www.anthropic.com/news/claude-code-on-the-web)
-* [2025-10-20, 17:55:18](https://news.ycombinator.com/item?id=45646958) - [x86-64 Playground – An online assembly editor and GDB-like debugger](https://x64.halb.it/)
 * [2025-10-20, 15:55:36](https://news.ycombinator.com/item?id=45645349) - [Production RAG: what I learned from processing 5M+ documents](https://blog.abdellatif.io/production-rag-processing-5m-documents)
 * [2025-10-20, 15:35:19](https://news.ycombinator.com/item?id=45645120) - [Show HN: I created a cross-platform GUI for the JJ VCS (Git compatible)](https://judojj.com)
 * [2025-10-20, 14:31:16](https://news.ycombinator.com/item?id=45644328) - [BERT is just a single text diffusion step](https://nathan.rs/posts/roberta-diffusion/)
@@ -19,7 +19,6 @@
 * [2025-10-17, 23:54:40](https://news.ycombinator.com/item?id=45623509) - [Results from blood test for 50 cancers](https://www.bbc.com/news/articles/c205g21n1zzo)
 * [2025-10-17, 20:18:54](https://news.ycombinator.com/item?id=45621557) - [Code from MIT's 1986 SICP video lectures](https://github.com/felipap/sicp-code)
 * [2025-10-17, 15:34:04](https://news.ycombinator.com/item?id=45617948) - [Show HN: I'm making a detective game built on Wikipedia](https://detective.wiki/)
-* [2025-10-15, 11:18:55](https://news.ycombinator.com/item?id=45590743) - [The longest baseball game took 33 innings to win](https://www.mlb.com/news/the-longest-professional-baseball-game-ever-played)
 * [2025-10-15, 07:28:45](https://news.ycombinator.com/item?id=45589156) - [How to stop Linux threads cleanly](https://mazzo.li/posts/stopping-linux-threads.html)
 * [2025-10-14, 20:50:50](https://news.ycombinator.com/item?id=45584680) - [Bare Metal (The Emacs Essay)](https://waxbanks.wordpress.com/2025/08/01/bare-metal-the-emacs-essay/)
 * [2025-10-14, 18:04:01](https://news.ycombinator.com/item?id=45582958) - [ChkTag: x86 Memory Safety](https://community.intel.com/t5/Blogs/Tech-Innovation/open-intel/ChkTag-x86-Memory-Safety/post/1721490)
@@ -28,6 +27,7 @@
 * [2025-10-13, 18:01:07](https://news.ycombinator.com/item?id=45571423) - [My trick for getting consistent classification from LLMs](https://verdik.substack.com/p/how-to-get-consistent-classification)
 * [2025-10-12, 15:29:47](https://news.ycombinator.com/item?id=45558913) - [Calendar Puzzle \"Rhombus\"](https://praxispuzzles.com/calendar_puzzle_rhombus)
 * [2025-10-12, 12:04:51](https://news.ycombinator.com/item?id=45557599) - [KDE Connect: Enabling communication between all your devices](https://community.kde.org/KDEConnect)
+* [2025-10-12, 09:26:46](https://news.ycombinator.com/item?id=45556772) - [Quantum dynamics on your laptop? New technique moves us closer](https://www.buffalo.edu/news/releases/2025/10/quantum-dynamics-on-your-laptop.html)
 * [2025-10-12, 07:06:39](https://news.ycombinator.com/item?id=45555960) - [The Tyrrany of Literacy. On oral tradition and what is lost](https://languagelog.ldc.upenn.edu/nll/?p=71545)
 * [2025-10-09, 15:31:38](https://news.ycombinator.com/item?id=45529120) - [I made a small LED panel](https://www.stavros.io/posts/really-small-led-panel/)
 
