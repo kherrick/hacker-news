@@ -11,6 +11,7 @@
 * [2025-10-21, 16:47:17](https://news.ycombinator.com/item?id=45658019) - [The Programmer Identity Crisis](https://hojberg.xyz/the-programmer-identity-crisis/)
 * [2025-10-21, 16:39:44](https://news.ycombinator.com/item?id=45657922) - [The Greatness of Text Adventures](https://entropicthoughts.com/the-greatness-of-text-adventures)
 * [2025-10-21, 16:31:51](https://news.ycombinator.com/item?id=45657827) - [Build Your Own Database](https://www.nan.fyi/database)
+* [2025-10-21, 16:14:28](https://news.ycombinator.com/item?id=45657595) - [Binary Retrieval-Augmented Reward Mitigates Hallucinations](https://arxiv.org/abs/2510.17733)
 * [2025-10-21, 16:01:24](https://news.ycombinator.com/item?id=45657431) - [Public Trust Demands Open-Source Voting Systems](https://www.voting.works/news/public-trust-demands-open-source-voting-systems)
 * [2025-10-21, 16:01:17](https://news.ycombinator.com/item?id=45657428) - [Is Sora the Beginning of the End for OpenAI?](https://calnewport.com/is-sora-the-beginning-of-the-end-for-openai/)
 * [2025-10-21, 15:55:41](https://news.ycombinator.com/item?id=45657345) - [Ask HN: Our AWS account got compromised after their outage](https://news.ycombinator.com/item?id=45657345)

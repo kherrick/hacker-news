@@ -6,6 +6,7 @@
 * [2025-10-21, 16:47:17](https://news.ycombinator.com/item?id=45658019) - [The Programmer Identity Crisis](https://hojberg.xyz/the-programmer-identity-crisis/)
 * [2025-10-21, 16:39:44](https://news.ycombinator.com/item?id=45657922) - [The Greatness of Text Adventures](https://entropicthoughts.com/the-greatness-of-text-adventures)
 * [2025-10-21, 16:31:51](https://news.ycombinator.com/item?id=45657827) - [Build Your Own Database](https://www.nan.fyi/database)
+* [2025-10-21, 16:14:28](https://news.ycombinator.com/item?id=45657595) - [Binary Retrieval-Augmented Reward Mitigates Hallucinations](https://arxiv.org/abs/2510.17733)
 * [2025-10-21, 16:01:24](https://news.ycombinator.com/item?id=45657431) - [Public trust demands open-source voting systems](https://www.voting.works/news/public-trust-demands-open-source-voting-systems)
 * [2025-10-21, 15:55:41](https://news.ycombinator.com/item?id=45657345) - [Ask HN: Our AWS account got compromised after their outage](https://news.ycombinator.com/item?id=45657345)
 * [2025-10-21, 15:52:32](https://news.ycombinator.com/item?id=45657302) - [Apple alerts exploit developer that his iPhone was targeted with gov spyware](https://techcrunch.com/2025/10/21/apple-alerts-exploit-developer-that-his-iphone-was-targeted-with-government-spyware/)
@@ -29,7 +30,6 @@
 * [2025-10-14, 09:41:32](https://news.ycombinator.com/item?id=45578016) - [Weekend projects: Chicken Squisher 3000](https://lcamtuf.substack.com/p/weekend-projects-chicken-squisher)
 * [2025-10-12, 12:04:51](https://news.ycombinator.com/item?id=45557599) - [KDE Connect: Enabling communication between all your devices](https://community.kde.org/KDEConnect)
 * [2025-10-12, 09:26:46](https://news.ycombinator.com/item?id=45556772) - [Quantum dynamics on your laptop? New technique moves us closer](https://www.buffalo.edu/news/releases/2025/10/quantum-dynamics-on-your-laptop.html)
-* [2025-10-12, 08:18:26](https://news.ycombinator.com/item?id=45556374) - [Solving the Wrong Problem](https://www.ufried.com/blog/ai_assisted_coding/)
 
 ## [Archives](archives/index.md)
 
