@@ -31,6 +31,7 @@
 * [2025-10-16, 16:54:26](https://news.ycombinator.com/item?id=45607758) - [Gemini 3.0 spotted in the wild through A/B testing](https://ricklamers.io/posts/gemini-3-spotted-in-the-wild/)
 * [2025-10-16, 16:05:47](https://news.ycombinator.com/item?id=45607117) - [Claude Skills](https://www.anthropic.com/news/skills)
 * [2025-10-16, 15:56:05](https://news.ycombinator.com/item?id=45606986) - [Secret diplomatic message deciphered after 350 years](https://www.nationalarchives.gov.uk/explore-the-collection/the-collection-blog/secret-diplomatic-message-deciphered-after-350-years/)
+* [2025-10-16, 15:47:17](https://news.ycombinator.com/item?id=45606853) - [Mathematicians have found a hidden 'reset button' for undoing rotation](https://www.newscientist.com/article/2499647-mathematicians-have-found-a-hidden-reset-button-for-undoing-rotation/)
 * [2025-10-16, 15:41:53](https://news.ycombinator.com/item?id=45606775) - [RTFM: A Real-Time Frame Model](https://www.worldlabs.ai/blog/rtfm)
 * [2025-10-16, 15:36:39](https://news.ycombinator.com/item?id=45606698) - [Codex Is Live in Zed](https://zed.dev/blog/codex-is-live-in-zed)
 * [2025-10-16, 15:29:45](https://news.ycombinator.com/item?id=45606611) - [Ld_preload, the Invisible Key Theft](https://bomfather.dev/blog/ld-preload-the-invisible-key-theft/)

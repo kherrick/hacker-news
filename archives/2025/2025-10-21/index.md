@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-10-21](index.md)
 
+* [2025-10-21, 18:39:18](https://news.ycombinator.com/item?id=45659812) - [Magit Is Amazing](https://heiwiper.com/posts/magit-is-awesome/)
 * [2025-10-21, 17:18:13](https://news.ycombinator.com/item?id=45658479) - [ChatGPT Atlas](https://chatgpt.com/atlas)
 * [2025-10-21, 17:03:34](https://news.ycombinator.com/item?id=45658268) - [OpenAI Set to Challenge Google with New ChatGPT Atlas Browser](https://www.bloomberg.com/news/articles/2025-10-21/openai-set-to-challenge-google-with-new-chatgpt-atlas-browser)
 * [2025-10-21, 17:01:02](https://news.ycombinator.com/item?id=45658221) - [Flexport Is Hiring SDRs in Chicago](https://job-boards.greenhouse.io/flexport/jobs/5690976?gh_jid=5690976)
@@ -30,6 +31,7 @@
 * [2025-10-21, 13:15:03](https://news.ycombinator.com/item?id=45655361) - [The Karpathy Interview, 6 Months After AI 2027](https://futuresearch.ai/ai-2027-6-months-later/)
 * [2025-10-21, 13:05:21](https://news.ycombinator.com/item?id=45655263) - [Ilo – a Forth system running on UEFI](https://asciinema.org/a/Lbxa2w9R5IbaJqW3INqVrbX8E)
 * [2025-10-21, 12:58:57](https://news.ycombinator.com/item?id=45655190) - [Our modular, high-performance Merkle Tree library for Rust](https://github.com/bilinearlabs/rs-merkle-tree)
+* [2025-10-21, 12:58:43](https://news.ycombinator.com/item?id=45655188) - [NASA chief suggests SpaceX may be booted from moon mission](https://www.cnn.com/2025/10/20/science/nasa-spacex-moon-landing-contract-sean-duffy)
 * [2025-10-21, 12:57:55](https://news.ycombinator.com/item?id=45655179) - [Amazon hopes to replace 600k US workers with robots](https://www.theverge.com/news/803257/amazon-robotics-automation-replace-600000-human-jobs)
 * [2025-10-21, 12:55:59](https://news.ycombinator.com/item?id=45655161) - [Neural audio codecs: how to get audio into LLMs](https://kyutai.org/next/codec-explainer)
 * [2025-10-21, 12:43:44](https://news.ycombinator.com/item?id=45655081) - [SpaceX is behind schedule, so NASA will open Artemis III contract to competition](https://www.theregister.com/2025/10/21/spacex_is_behind_schedule_so/)
