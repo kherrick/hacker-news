@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-10-21, 21:38:56](https://news.ycombinator.com/item?id=45662053) - [\"Anna, Lindsey Halligan Here.\" My Signal exchange with the interim U.S. attorney](https://www.lawfaremedia.org/article/anna--lindsey-halligan-here)
 * [2025-10-21, 21:05:26](https://news.ycombinator.com/item?id=45661698) - [Lottery-fication of Everything: 0 day options, perps, parlays are now mainstream](https://www.dopaminemarkets.com/p/the-lottery-fication-of-everything)
 * [2025-10-21, 21:00:10](https://news.ycombinator.com/item?id=45661638) - [rlsw – Raylib software OpenGL renderer in less than 5k LOC](https://github.com/raysan5/raylib/blob/master/src/external/rlsw.h)
 * [2025-10-21, 20:52:44](https://news.ycombinator.com/item?id=45661547) - [We rewrote OpenFGA in pure Postgres](https://getrover.substack.com/p/how-we-rewrote-openfga-in-pure-postgres)
@@ -8,10 +9,8 @@
 * [2025-10-21, 17:18:13](https://news.ycombinator.com/item?id=45658479) - [ChatGPT Atlas](https://chatgpt.com/atlas)
 * [2025-10-21, 17:01:02](https://news.ycombinator.com/item?id=45658221) - [Flexport Is Hiring SDRs in Chicago](https://job-boards.greenhouse.io/flexport/jobs/5690976?gh_jid=5690976)
 * [2025-10-21, 16:47:17](https://news.ycombinator.com/item?id=45658019) - [The Programmer Identity Crisis](https://hojberg.xyz/the-programmer-identity-crisis/)
-* [2025-10-21, 16:39:44](https://news.ycombinator.com/item?id=45657922) - [The Greatness of Text Adventures](https://entropicthoughts.com/the-greatness-of-text-adventures)
 * [2025-10-21, 16:31:51](https://news.ycombinator.com/item?id=45657827) - [Build Your Own Database](https://www.nan.fyi/database)
-* [2025-10-21, 16:14:28](https://news.ycombinator.com/item?id=45657595) - [Binary Retrieval-Augmented Reward Mitigates Hallucinations](https://arxiv.org/abs/2510.17733)
-* [2025-10-21, 15:52:32](https://news.ycombinator.com/item?id=45657302) - [Apple alerts exploit developer that his iPhone was targeted with gov spyware](https://techcrunch.com/2025/10/21/apple-alerts-exploit-developer-that-his-iphone-was-targeted-with-government-spyware/)
+* [2025-10-21, 15:55:41](https://news.ycombinator.com/item?id=45657345) - [Ask HN: Our AWS account got compromised after their outage](https://news.ycombinator.com/item?id=45657345)
 * [2025-10-21, 15:51:33](https://news.ycombinator.com/item?id=45657287) - [Foreign hackers breached a US nuclear weapons plant via SharePoint flaws](https://www.csoonline.com/article/4074962/foreign-hackers-breached-a-us-nuclear-weapons-plant-via-sharepoint-flaws.html)
 * [2025-10-21, 15:22:25](https://news.ycombinator.com/item?id=45656952) - [Show HN: Katakate – Dozens of VMs per node for safe code exec](https://github.com/Katakate/k7)
 * [2025-10-21, 14:24:26](https://news.ycombinator.com/item?id=45656223) - [LLMs can get \"brain rot\"](https://llm-brain-rot.github.io/)
@@ -29,6 +28,7 @@
 * [2025-10-19, 10:58:32](https://news.ycombinator.com/item?id=45633386) - [Show HN: bbcli – A TUI and CLI to browse BBC News like a hacker](https://github.com/hako/bbcli)
 * [2025-10-16, 15:47:17](https://news.ycombinator.com/item?id=45606853) - [Mathematicians have found a hidden 'reset button' for undoing rotation](https://www.newscientist.com/article/2499647-mathematicians-have-found-a-hidden-reset-button-for-undoing-rotation/)
 * [2025-10-14, 18:09:12](https://news.ycombinator.com/item?id=45583019) - [The Salt and Pepper Shaker Museum](https://www.thesaltandpeppershakermuseum.com)
+* [2025-10-14, 09:41:32](https://news.ycombinator.com/item?id=45578016) - [Weekend projects: Chicken Squisher 3000](https://lcamtuf.substack.com/p/weekend-projects-chicken-squisher)
 * [2025-10-13, 05:01:11](https://news.ycombinator.com/item?id=45564821) - [Minds, brains, and programs (1980) [pdf]](https://home.csulb.edu/~cwallis/382/readings/482/searle.minds.brains.programs.bbs.1980.pdf)
 
 ## [Archives](archives/index.md)
