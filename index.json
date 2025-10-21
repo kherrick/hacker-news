@@ -1,6 +1,46 @@
 [
   [
     [
+      "2025-10-21, 13:05:21",
+      "https://news.ycombinator.com/item?id=45655263"
+    ],
+    [
+      "Ilo – a Forth system running on UEFI",
+      "https://asciinema.org/a/Lbxa2w9R5IbaJqW3INqVrbX8E"
+    ]
+  ],
+  [
+    [
+      "2025-10-21, 12:58:57",
+      "https://news.ycombinator.com/item?id=45655190"
+    ],
+    [
+      "Our modular, high-performance Merkle Tree library for Rust",
+      "https://github.com/bilinearlabs/rs-merkle-tree"
+    ]
+  ],
+  [
+    [
+      "2025-10-21, 12:55:59",
+      "https://news.ycombinator.com/item?id=45655161"
+    ],
+    [
+      "Neural audio codecs: how to get audio into LLMs",
+      "https://kyutai.org/next/codec-explainer"
+    ]
+  ],
+  [
+    [
+      "2025-10-21, 12:43:44",
+      "https://news.ycombinator.com/item?id=45655081"
+    ],
+    [
+      "SpaceX is behind schedule, so NASA will open Artemis III contract to competition",
+      "https://www.theregister.com/2025/10/21/spacex_is_behind_schedule_so/"
+    ]
+  ],
+  [
+    [
       "2025-10-21, 11:42:14",
       "https://news.ycombinator.com/item?id=45654660"
     ],
@@ -31,12 +71,12 @@
   ],
   [
     [
-      "2025-10-21, 10:44:48",
-      "https://news.ycombinator.com/item?id=45654382"
+      "2025-10-21, 07:35:05",
+      "https://news.ycombinator.com/item?id=45653393"
     ],
     [
-      "US chess grandmaster Daniel Naroditsky dies aged 29",
-      "https://www.bbc.com/news/articles/c15pz8vpjp9o"
+      "Most expensive laptops",
+      "https://comparelaptopprices.com/lists/most-expensive-laptops/"
     ]
   ],
   [
@@ -111,16 +151,6 @@
   ],
   [
     [
-      "2025-10-20, 15:35:19",
-      "https://news.ycombinator.com/item?id=45645120"
-    ],
-    [
-      "Show HN: I created a cross-platform GUI for the JJ VCS (Git compatible)",
-      "https://judojj.com"
-    ]
-  ],
-  [
-    [
       "2025-10-20, 14:31:16",
       "https://news.ycombinator.com/item?id=45644328"
     ],
@@ -181,32 +211,12 @@
   ],
   [
     [
-      "2025-10-17, 20:18:54",
-      "https://news.ycombinator.com/item?id=45621557"
-    ],
-    [
-      "Code from MIT's 1986 SICP video lectures",
-      "https://github.com/felipap/sicp-code"
-    ]
-  ],
-  [
-    [
       "2025-10-17, 15:34:04",
       "https://news.ycombinator.com/item?id=45617948"
     ],
     [
       "Show HN: I'm making a detective game built on Wikipedia",
       "https://detective.wiki/"
-    ]
-  ],
-  [
-    [
-      "2025-10-15, 07:28:45",
-      "https://news.ycombinator.com/item?id=45589156"
-    ],
-    [
-      "How to stop Linux threads cleanly",
-      "https://mazzo.li/posts/stopping-linux-threads.html"
     ]
   ],
   [
@@ -221,16 +231,6 @@
   ],
   [
     [
-      "2025-10-14, 18:04:01",
-      "https://news.ycombinator.com/item?id=45582958"
-    ],
-    [
-      "ChkTag: x86 Memory Safety",
-      "https://community.intel.com/t5/Blogs/Tech-Innovation/open-intel/ChkTag-x86-Memory-Safety/post/1721490"
-    ]
-  ],
-  [
-    [
       "2025-10-14, 09:49:50",
       "https://news.ycombinator.com/item?id=45578080"
     ],
@@ -241,12 +241,12 @@
   ],
   [
     [
-      "2025-10-14, 07:09:12",
-      "https://news.ycombinator.com/item?id=45577086"
+      "2025-10-14, 01:13:35",
+      "https://news.ycombinator.com/item?id=45575165"
     ],
     [
-      "Optical diffraction patterns made with a MOPA laser engraving machine [video]",
-      "https://www.youtube.com/watch?v=RsGHr7dXLuI"
+      "South Africa's one million invisible children without birth certificates",
+      "https://www.france24.com/en/africa/20250705-south-africa-s-one-million-invisible-children-without-birth-certificates"
     ]
   ],
   [
