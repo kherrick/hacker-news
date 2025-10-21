@@ -82,6 +82,7 @@
 * [2025-10-14, 02:51:20](https://news.ycombinator.com/item?id=45575755) - [New York Times, AP, Newsmax and others say they won't sign new Pentagon rules](https://apnews.com/article/pentagon-press-access-defense-department-rules-95878bce05096912887701eaa6d019c6)
 * [2025-10-14, 02:48:09](https://news.ycombinator.com/item?id=45575742) - [Modifying a Casio F-Series Digital Watch (2020)](https://shellzine.net/casio-f-series-mods/)
 * [2025-10-14, 01:48:56](https://news.ycombinator.com/item?id=45575391) - [There are sensitive internal links in the clear on GEO satellites [pdf]](https://satcom.sysnet.ucsd.edu/docs/dontlookup_ccs25_fullpaper.pdf)
+* [2025-10-14, 01:13:35](https://news.ycombinator.com/item?id=45575165) - [South Africa's one million invisible children without birth certificates](https://www.france24.com/en/africa/20250705-south-africa-s-one-million-invisible-children-without-birth-certificates)
 * [2025-10-14, 01:07:45](https://news.ycombinator.com/item?id=45575127) - [NVIDIA DGX Spark In-Depth Review: A New Standard for Local AI Inference](https://lmsys.org/blog/2025-10-13-nvidia-dgx-spark/)
 * [2025-10-14, 00:58:21](https://news.ycombinator.com/item?id=45575051) - [Nanochat](https://simonwillison.net/2025/Oct/13/nanochat/)
 * [2025-10-14, 00:31:27](https://news.ycombinator.com/item?id=45574886) - [SpaceX launches Starship megarocket on 11th test flight](https://www.cnn.com/science/live-news/spacex-starship-flight-11-launch-10-13-25)
