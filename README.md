@@ -11,7 +11,6 @@
 * [2025-10-21, 15:52:32](https://news.ycombinator.com/item?id=45657302) - [Apple alerts exploit developer that his iPhone was targeted with gov spyware](https://techcrunch.com/2025/10/21/apple-alerts-exploit-developer-that-his-iphone-was-targeted-with-government-spyware/)
 * [2025-10-21, 15:51:33](https://news.ycombinator.com/item?id=45657287) - [Foreign hackers breached a US nuclear weapons plant via SharePoint flaws](https://www.csoonline.com/article/4074962/foreign-hackers-breached-a-us-nuclear-weapons-plant-via-sharepoint-flaws.html)
 * [2025-10-21, 15:22:25](https://news.ycombinator.com/item?id=45656952) - [Show HN: Katakate – Dozens of VMs per node for safe code exec](https://github.com/Katakate/k7)
-* [2025-10-21, 14:26:20](https://news.ycombinator.com/item?id=45656247) - [RF Shielding History: When the FCC Cracked Down on Computers](https://tedium.co/2025/10/20/computers-fcc-rf-interference-history/)
 * [2025-10-21, 14:24:26](https://news.ycombinator.com/item?id=45656223) - [LLMs can get \"brain rot\"](https://llm-brain-rot.github.io/)
 * [2025-10-21, 13:05:21](https://news.ycombinator.com/item?id=45655263) - [Ilo – a Forth system running on UEFI](https://asciinema.org/a/Lbxa2w9R5IbaJqW3INqVrbX8E)
 * [2025-10-21, 12:58:57](https://news.ycombinator.com/item?id=45655190) - [Our modular, high-performance Merkle Tree library for Rust](https://github.com/bilinearlabs/rs-merkle-tree)
@@ -29,6 +28,7 @@
 * [2025-10-17, 20:19:56](https://news.ycombinator.com/item?id=45621571) - [Show HN: ASCII Automata](https://hlnet.neocities.org/ascii-automata/)
 * [2025-10-17, 19:32:46](https://news.ycombinator.com/item?id=45621020) - [Do not accept terms and conditions](https://www.termsandconditions.game/)
 * [2025-10-16, 15:47:17](https://news.ycombinator.com/item?id=45606853) - [Mathematicians have found a hidden 'reset button' for undoing rotation](https://www.newscientist.com/article/2499647-mathematicians-have-found-a-hidden-reset-button-for-undoing-rotation/)
+* [2025-10-14, 20:50:50](https://news.ycombinator.com/item?id=45584680) - [Bare Metal (The Emacs Essay)](https://waxbanks.wordpress.com/2025/08/01/bare-metal-the-emacs-essay/)
 * [2025-10-13, 05:01:11](https://news.ycombinator.com/item?id=45564821) - [Minds, brains, and programs (1980) [pdf]](https://home.csulb.edu/~cwallis/382/readings/482/searle.minds.brains.programs.bbs.1980.pdf)
 
 ## [Archives](archives/index.md)
