@@ -76,3 +76,4 @@
 * [2025-10-16, 01:25:28](https://news.ycombinator.com/item?id=45600470) - [Coral NPU: A full-stack platform for Edge AI](https://research.google/blog/coral-npu-a-full-stack-platform-for-edge-ai/)
 * [2025-10-16, 01:00:17](https://news.ycombinator.com/item?id=45600338) - [I'm recomming my customers switch to Linux rather that Upgrade to Windows 11](https://www.scottrlarson.com/publications/publication-windows-move-towards-surveillance/)
 * [2025-10-16, 00:50:56](https://news.ycombinator.com/item?id=45600263) - [Who's Submitting AI-Tainted Filings in Court?](https://cyberlaw.stanford.edu/whos-submitting-ai-tainted-filings-in-court/)
+* [2025-10-16, 00:29:11](https://news.ycombinator.com/item?id=45600132) - [A magnetic field orientation that changes the fundamental design of motors](https://www.paranetics.com/copy-of-home)
