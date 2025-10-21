@@ -4,7 +4,12 @@
 
 ### [Archives](../../index.md) for [2025-10-21](index.md)
 
+* [2025-10-21, 15:55:41](https://news.ycombinator.com/item?id=45657345) - [Ask HN: Our AWS account got compromised after their outage](https://news.ycombinator.com/item?id=45657345)
+* [2025-10-21, 15:52:32](https://news.ycombinator.com/item?id=45657302) - [Apple alerts exploit developer that his iPhone was targeted with gov spyware](https://techcrunch.com/2025/10/21/apple-alerts-exploit-developer-that-his-iphone-was-targeted-with-government-spyware/)
+* [2025-10-21, 15:32:02](https://news.ycombinator.com/item?id=45657055) - [Show HN: Clink – Bring your own CLI Agents, Ship instantly](https://clink.new)
+* [2025-10-21, 15:22:25](https://news.ycombinator.com/item?id=45656952) - [Katakate: Dozens of VMs per node for safe code exec: K8s+Kata+Firecracker](https://github.com/Katakate/k7)
 * [2025-10-21, 15:19:51](https://news.ycombinator.com/item?id=45656916) - [AI Is Making Us Work More](https://tawandamunongo.dev/posts/2025/10/ai-work-more)
+* [2025-10-21, 15:13:01](https://news.ycombinator.com/item?id=45656836) - [A Fast Bytecode VM for Arithmetic: The Virtual Machine](https://abhinavsarkar.net/posts/arithmetic-bytecode-vm/)
 * [2025-10-21, 14:26:20](https://news.ycombinator.com/item?id=45656247) - [RF Shielding History: When the FCC Cracked Down on Computers](https://tedium.co/2025/10/20/computers-fcc-rf-interference-history/)
 * [2025-10-21, 14:24:40](https://news.ycombinator.com/item?id=45656230) - [Sell tickets to concerts agentically – Hive (YC S14) is hiring](https://news.ycombinator.com/item?id=45656230)
 * [2025-10-21, 14:24:26](https://news.ycombinator.com/item?id=45656223) - [LLMs Can Get \"Brain Rot\"](https://llm-brain-rot.github.io/)
