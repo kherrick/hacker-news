@@ -1,12 +1,22 @@
 [
   [
     [
-      "2025-10-21, 01:02:35",
-      "https://news.ycombinator.com/item?id=45651328"
+      "2025-10-21, 01:35:30",
+      "https://news.ycombinator.com/item?id=45651516"
     ],
     [
-      "The Rubygems.org takeover",
-      "https://lwn.net/SubscriberLink/1040778/77d921001b26d061/"
+      "Argentine peso weakens to fresh low despite US interventions",
+      "https://www.ft.com/content/815ef487-0d0e-430c-b140-9bc39dbd1a53"
+    ]
+  ],
+  [
+    [
+      "2025-10-21, 01:29:03",
+      "https://news.ycombinator.com/item?id=45651485"
+    ],
+    [
+      "Wikipedia says traffic is falling due to AI search summaries and social video",
+      "https://techcrunch.com/2025/10/18/wikipedia-says-traffic-is-falling-due-to-ai-search-summaries-and-social-video/"
     ]
   ],
   [
@@ -191,6 +201,16 @@
   ],
   [
     [
+      "2025-10-17, 23:54:40",
+      "https://news.ycombinator.com/item?id=45623509"
+    ],
+    [
+      "Results from blood test for 50 cancers",
+      "https://www.bbc.com/news/articles/c205g21n1zzo"
+    ]
+  ],
+  [
+    [
       "2025-10-17, 20:18:54",
       "https://news.ycombinator.com/item?id=45621557"
     ],
@@ -207,16 +227,6 @@
     [
       "Art Must Act",
       "https://aeon.co/essays/harold-rosenberg-exhorted-artists-to-take-action-and-resist-cliche"
-    ]
-  ],
-  [
-    [
-      "2025-10-15, 15:49:13",
-      "https://news.ycombinator.com/item?id=45594403"
-    ],
-    [
-      "Atomic-Scale Protein Filters",
-      "https://press.asimov.com/articles/filters"
     ]
   ],
   [
@@ -247,16 +257,6 @@
     [
       "How to stop Linux threads cleanly",
       "https://mazzo.li/posts/stopping-linux-threads.html"
-    ]
-  ],
-  [
-    [
-      "2025-10-15, 04:33:36",
-      "https://news.ycombinator.com/item?id=45588116"
-    ],
-    [
-      "Old Is Gold: Optimizing Single-Threaded Applications with Exgen-Malloc",
-      "https://arxiv.org/abs/2510.10219"
     ]
   ],
   [
