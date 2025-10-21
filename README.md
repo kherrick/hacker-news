@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-10-21, 18:46:50](https://news.ycombinator.com/item?id=45659907) - [Amazon doesn't use Route 53 for amazon.com](https://www.dnscheck.co/blog/dns-monitoring/2025/10/21/aws-dog-food.html)
 * [2025-10-21, 18:39:18](https://news.ycombinator.com/item?id=45659812) - [Magit Is Amazing](https://heiwiper.com/posts/magit-is-awesome/)
 * [2025-10-21, 17:29:36](https://news.ycombinator.com/item?id=45658687) - [Time to build a GPU OS? Here is the first step](https://www.notion.so/yifanqiao/Solve-the-GPU-Cost-Crisis-with-kvcached-289da9d1f4d68034b17bf2774201b141)
 * [2025-10-21, 17:18:13](https://news.ycombinator.com/item?id=45658479) - [ChatGPT Atlas](https://chatgpt.com/atlas)
@@ -20,7 +21,6 @@
 * [2025-10-21, 12:55:59](https://news.ycombinator.com/item?id=45655161) - [Neural audio codecs: how to get audio into LLMs](https://kyutai.org/next/codec-explainer)
 * [2025-10-21, 11:42:14](https://news.ycombinator.com/item?id=45654660) - [StarGrid: A new Palm OS strategy game](https://quarters.captaintouch.com/blog/posts/2025-10-21-stargrid-has-arrived,-a-brand-new-palm-os-strategy-game-in-2025.html)
 * [2025-10-21, 11:16:34](https://news.ycombinator.com/item?id=45654512) - [Diamond Thermal Conductivity: A New Era in Chip Cooling](https://spectrum.ieee.org/diamond-thermal-conductivity)
-* [2025-10-21, 03:53:20](https://news.ycombinator.com/item?id=45652307) - [60k kids have avoided peanut allergies due to 2015 advice, study finds](https://www.cbsnews.com/news/peanut-allergies-60000-kids-avoided-2015-advice/)
 * [2025-10-21, 01:29:03](https://news.ycombinator.com/item?id=45651485) - [Wikipedia says traffic is falling due to AI search summaries and social video](https://techcrunch.com/2025/10/18/wikipedia-says-traffic-is-falling-due-to-ai-search-summaries-and-social-video/)
 * [2025-10-20, 21:19:19](https://news.ycombinator.com/item?id=45649510) - [The death of thread per core](https://buttondown.com/jaffray/archive/the-death-of-thread-per-core/)
 * [2025-10-20, 17:24:49](https://news.ycombinator.com/item?id=45646559) - [Getting DeepSeek-OCR working on an Nvidia Spark via brute force with Claude Code](https://simonwillison.net/2025/Oct/20/deepseek-ocr-claude-code/)
