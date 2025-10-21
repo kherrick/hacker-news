@@ -51,6 +51,7 @@
 * [2025-10-11, 13:15:37](https://news.ycombinator.com/item?id=45548902) - [Sysco Is Not \"Ruining Restaurants\"](https://liamrosen.com/2025/10/10/no-sysco-is-not-ruining-restaurants/)
 * [2025-10-11, 12:15:27](https://news.ycombinator.com/item?id=45548560) - [Why I have to buy doughnuts with cash](https://www.ft.com/content/8766ef23-3938-4de2-8a37-602c798034aa)
 * [2025-10-11, 11:57:58](https://news.ycombinator.com/item?id=45548457) - [Learn Turbo Pascal – a video series originally released on VHS](https://www.youtube.com/watch?v=UOtonwG3DXM)
+* [2025-10-11, 10:57:28](https://news.ycombinator.com/item?id=45548125) - [Understanding conflict resolution and avoidance in PostgreSQL: a complete guide](https://www.pgedge.com/blog/living-on-the-edge)
 * [2025-10-11, 10:02:03](https://news.ycombinator.com/item?id=45547891) - [Eon – An Effects-Based OCaml Nameserver](https://ryan.freumh.org/eon.html)
 * [2025-10-11, 09:40:10](https://news.ycombinator.com/item?id=45547807) - [Vietnam Airlines Data Breach](https://haveibeenpwned.com/Breach/VietnamAirlines)
 * [2025-10-11, 08:27:26](https://news.ycombinator.com/item?id=45547566) - [HTML's Best Kept Secret: The Output Tag](https://denodell.com/blog/html-best-kept-secret-output-tag)
