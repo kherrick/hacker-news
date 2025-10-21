@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-10-21](index.md)
 
 * [2025-10-21, 18:39:18](https://news.ycombinator.com/item?id=45659812) - [Magit Is Amazing](https://heiwiper.com/posts/magit-is-awesome/)
+* [2025-10-21, 17:29:36](https://news.ycombinator.com/item?id=45658687) - [Time to build a GPU OS? Here is the first step](https://www.notion.so/yifanqiao/Solve-the-GPU-Cost-Crisis-with-kvcached-289da9d1f4d68034b17bf2774201b141)
 * [2025-10-21, 17:18:13](https://news.ycombinator.com/item?id=45658479) - [ChatGPT Atlas](https://chatgpt.com/atlas)
 * [2025-10-21, 17:03:34](https://news.ycombinator.com/item?id=45658268) - [OpenAI Set to Challenge Google with New ChatGPT Atlas Browser](https://www.bloomberg.com/news/articles/2025-10-21/openai-set-to-challenge-google-with-new-chatgpt-atlas-browser)
 * [2025-10-21, 17:01:02](https://news.ycombinator.com/item?id=45658221) - [Flexport Is Hiring SDRs in Chicago](https://job-boards.greenhouse.io/flexport/jobs/5690976?gh_jid=5690976)
