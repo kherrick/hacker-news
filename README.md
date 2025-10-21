@@ -26,10 +26,10 @@
 * [2025-10-20, 17:13:44](https://news.ycombinator.com/item?id=45646414) - [What do we do if SETI is successful?](https://www.universetoday.com/articles/what-do-we-do-if-seti-is-successful)
 * [2025-10-19, 10:58:32](https://news.ycombinator.com/item?id=45633386) - [Show HN: bbcli – A TUI and CLI to browse BBC News like a hacker](https://github.com/hako/bbcli)
 * [2025-10-16, 15:47:17](https://news.ycombinator.com/item?id=45606853) - [Mathematicians have found a hidden 'reset button' for undoing rotation](https://www.newscientist.com/article/2499647-mathematicians-have-found-a-hidden-reset-button-for-undoing-rotation/)
-* [2025-10-14, 20:50:50](https://news.ycombinator.com/item?id=45584680) - [Bare Metal (The Emacs Essay)](https://waxbanks.wordpress.com/2025/08/01/bare-metal-the-emacs-essay/)
 * [2025-10-14, 18:09:12](https://news.ycombinator.com/item?id=45583019) - [The Salt and Pepper Shaker Museum](https://www.thesaltandpeppershakermuseum.com)
 * [2025-10-14, 09:41:32](https://news.ycombinator.com/item?id=45578016) - [Weekend projects: Chicken Squisher 3000](https://lcamtuf.substack.com/p/weekend-projects-chicken-squisher)
 * [2025-10-13, 05:01:11](https://news.ycombinator.com/item?id=45564821) - [Minds, brains, and programs (1980) [pdf]](https://home.csulb.edu/~cwallis/382/readings/482/searle.minds.brains.programs.bbs.1980.pdf)
+* [2025-10-12, 12:04:51](https://news.ycombinator.com/item?id=45557599) - [KDE Connect: Enabling communication between all your devices](https://community.kde.org/KDEConnect)
 
 ## [Archives](archives/index.md)
 
