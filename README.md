@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-10-21, 01:29:03](https://news.ycombinator.com/item?id=45651485) - [Wikipedia says traffic is falling due to AI search summaries and social video](https://techcrunch.com/2025/10/18/wikipedia-says-traffic-is-falling-due-to-ai-search-summaries-and-social-video/)
 * [2025-10-20, 23:40:25](https://news.ycombinator.com/item?id=45650792) - [Old Computer Challenge – Modern Web for the ZX Spectrum](https://0x00.cl/blog/2025/occ-2025/)
 * [2025-10-20, 22:22:45](https://news.ycombinator.com/item?id=45650178) - [Building a message queue with only two UNIX signals](https://leandronsp.com/articles/you-dont-need-kafka-building-a-message-queue-with-only-two-unix-signals)
 * [2025-10-20, 20:50:03](https://news.ycombinator.com/item?id=45649178) - [Today is when the Amazon brain drain sent AWS down the spout](https://www.theregister.com/2025/10/20/aws_outage_amazon_brain_drain_corey_quinn/)
@@ -27,6 +26,7 @@
 * [2025-10-15, 08:47:32](https://news.ycombinator.com/item?id=45589715) - [The scariest \"user support\" email I've received](https://www.devas.life/the-scariest-user-support-email-ive-ever-received/)
 * [2025-10-15, 07:28:45](https://news.ycombinator.com/item?id=45589156) - [How to stop Linux threads cleanly](https://mazzo.li/posts/stopping-linux-threads.html)
 * [2025-10-14, 18:04:01](https://news.ycombinator.com/item?id=45582958) - [Intel and AMD standardise ChkTag to bring Memory Safety to x86](https://community.intel.com/t5/Blogs/Tech-Innovation/open-intel/ChkTag-x86-Memory-Safety/post/1721490)
+* [2025-10-14, 09:49:50](https://news.ycombinator.com/item?id=45578080) - [When Compiler Optimizations Hurt Performance](https://nemanjatrifunovic.substack.com/p/when-compiler-optimizations-hurt)
 * [2025-10-14, 07:09:12](https://news.ycombinator.com/item?id=45577086) - [Optical diffraction patterns made with a MOPA laser engraving machine [video]](https://www.youtube.com/watch?v=RsGHr7dXLuI)
 * [2025-10-13, 18:01:07](https://news.ycombinator.com/item?id=45571423) - [My trick for getting consistent classification from LLMs](https://verdik.substack.com/p/how-to-get-consistent-classification)
 * [2025-10-09, 15:31:38](https://news.ycombinator.com/item?id=45529120) - [I made a small LED panel](https://www.stavros.io/posts/really-small-led-panel/)
