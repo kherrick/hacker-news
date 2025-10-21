@@ -81,6 +81,7 @@
 * [2025-10-13, 05:47:37](https://news.ycombinator.com/item?id=45565053) - [The Adventures and Experiences of the First Slovak Novel](https://publicdomainreview.org/essay/the-adventures-and-experiences-of-the-first-slovak-novel/)
 * [2025-10-13, 05:32:52](https://news.ycombinator.com/item?id=45564981) - [Framework embraces deeply extremist views](https://www.osnews.com/story/143520/in-bizarre-move-framework-embraces-deeply-extremist-views/)
 * [2025-10-13, 05:31:04](https://news.ycombinator.com/item?id=45564968) - [Transverse Mercator with an accuracy of a few nanometers (2010)](https://arxiv.org/abs/1002.1417)
+* [2025-10-13, 05:01:11](https://news.ycombinator.com/item?id=45564821) - [Minds, brains, and programs (1980) [pdf]](https://home.csulb.edu/~cwallis/382/readings/482/searle.minds.brains.programs.bbs.1980.pdf)
 * [2025-10-13, 04:51:11](https://news.ycombinator.com/item?id=45564773) - [Pica Numbers](https://home.octetfont.com/blog/pica-number.html)
 * [2025-10-13, 04:33:11](https://news.ycombinator.com/item?id=45564696) - [The Peach meme: On CRTs, pixels and signal quality (again)](https://www.datagubbe.se/crt2/)
 * [2025-10-13, 04:14:29](https://news.ycombinator.com/item?id=45564619) - [Fastmail Desktop App](https://www.fastmail.com/blog/desktop-app/)
