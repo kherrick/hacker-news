@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-10-22, 17:56:54",
+      "https://news.ycombinator.com/item?id=45672788"
+    ],
+    [
+      "42,600 ton ship to break the world record for the deepest drill at 7 miles",
+      "https://blog.bostonorganics.com/chinas-42600-ton-meng-xiang-aims-drill-7-miles-deep-breaking-records/"
+    ]
+  ],
+  [
+    [
+      "2025-10-22, 17:30:43",
+      "https://news.ycombinator.com/item?id=45672405"
+    ],
+    [
+      "How do LLM's trade off lives between different categories?",
+      "https://arctotherium.substack.com/p/llm-exchange-rates-updated"
+    ]
+  ],
+  [
+    [
       "2025-10-22, 17:26:06",
       "https://news.ycombinator.com/item?id=45672336"
     ],
@@ -61,26 +81,6 @@
   ],
   [
     [
-      "2025-10-22, 16:27:26",
-      "https://news.ycombinator.com/item?id=45671569"
-    ],
-    [
-      "Count-Min Sketches in JS – Frequencies, but without the data",
-      "https://www.instantdb.com/essays/count_min_sketch"
-    ]
-  ],
-  [
-    [
-      "2025-10-22, 16:09:01",
-      "https://news.ycombinator.com/item?id=45671282"
-    ],
-    [
-      "Chess engines didn't replace Magnus Carlsen, and AI won't replace you",
-      "https://coding-with-ai.dev/posts/use-ai-like-magnus-carlsen/"
-    ]
-  ],
-  [
-    [
       "2025-10-22, 15:20:59",
       "https://news.ycombinator.com/item?id=45670516"
     ],
@@ -107,6 +107,16 @@
     [
       "Scripts I wrote that I use all the time",
       "https://evanhahn.com/scripts-i-wrote-that-i-use-all-the-time/"
+    ]
+  ],
+  [
+    [
+      "2025-10-22, 14:45:03",
+      "https://news.ycombinator.com/item?id=45669906"
+    ],
+    [
+      "Show HN: Create interactive diagrams with pop-up content",
+      "https://vexlio.com/features/interactive-diagrams-with-popups/"
     ]
   ],
   [
@@ -171,16 +181,6 @@
   ],
   [
     [
-      "2025-10-22, 09:05:21",
-      "https://news.ycombinator.com/item?id=45666510"
-    ],
-    [
-      "Greg Newby, CEO of Project Gutenberg Literary Archive Foundation, has died",
-      "https://www.pgdp.net/wiki/In_Memoriam/gbnewby"
-    ]
-  ],
-  [
-    [
       "2025-10-22, 08:37:31",
       "https://news.ycombinator.com/item?id=45666327"
     ],
@@ -231,6 +231,16 @@
   ],
   [
     [
+      "2025-10-19, 13:16:25",
+      "https://news.ycombinator.com/item?id=45633900"
+    ],
+    [
+      "Cyborgs vs. rooms, two visions for the future of computing",
+      "https://interconnected.org/home/2025/10/13/dichotomy"
+    ]
+  ],
+  [
+    [
       "2025-10-17, 18:39:22",
       "https://news.ycombinator.com/item?id=45620330"
     ],
@@ -247,16 +257,6 @@
     [
       "Power over Ethernet (PoE) basics and beyond",
       "https://www.edn.com/poe-basics-and-beyond-what-every-engineer-should-know/"
-    ]
-  ],
-  [
-    [
-      "2025-10-16, 13:40:56",
-      "https://news.ycombinator.com/item?id=45605223"
-    ],
-    [
-      "A non-diagonal SSM RNN computed in parallel without requiring stabilization",
-      "https://github.com/glassroom/goom_ssm_rnn"
     ]
   ],
   [
