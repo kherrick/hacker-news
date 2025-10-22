@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-10-22, 04:20:09](https://news.ycombinator.com/item?id=45664848) - [Evaluating the Infinity Cache in AMD Strix Halo](https://chipsandcheese.com/p/evaluating-the-infinity-cache-in)
+* [2025-10-22, 03:56:53](https://news.ycombinator.com/item?id=45664751) - [Spotify running ICE recruitment ads about \"dangerous illegals\"](https://djmag.com/news/spotify-defends-running-ice-recruitment-ads-about-dangerous-illegals-part-of-us-government)
 * [2025-10-22, 02:54:38](https://news.ycombinator.com/item?id=45664431) - [Show HN: AutoLearn Skills for self-improving agents](https://www.autolearn.dev)
 * [2025-10-22, 02:02:58](https://news.ycombinator.com/item?id=45664147) - [OpenBSD 7.8 Released](https://cdn.openbsd.org/pub/OpenBSD/7.8/ANNOUNCEMENT)
 * [2025-10-21, 23:00:40](https://news.ycombinator.com/item?id=45662831) - [Rectal oxygen delivery might soon be a real medical treatment](https://arstechnica.com/science/2025/10/butt-breathing-might-soon-be-a-real-medical-treatment/)
@@ -28,7 +29,6 @@
 * [2025-10-16, 11:17:56](https://news.ycombinator.com/item?id=45604013) - [Show HN: Modshim – a new alternative to monkey-patching in Python](https://github.com/joouha/modshim)
 * [2025-10-14, 14:34:47](https://news.ycombinator.com/item?id=45580559) - [Drawing Text Isn't Simple: Benchmarking Console vs. Graphical Rendering](https://cv.co.hu/csabi/drawing-text-performance-graphical-vs-console.html)
 * [2025-10-13, 05:01:11](https://news.ycombinator.com/item?id=45564821) - [Minds, brains, and programs (1980) [pdf]](https://home.csulb.edu/~cwallis/382/readings/482/searle.minds.brains.programs.bbs.1980.pdf)
-* [2025-10-12, 12:04:51](https://news.ycombinator.com/item?id=45557599) - [KDE Connect: Enabling communication between all your devices](https://community.kde.org/KDEConnect)
 * [2025-10-11, 10:57:28](https://news.ycombinator.com/item?id=45548125) - [Understanding conflict resolution and avoidance in PostgreSQL: a complete guide](https://www.pgedge.com/blog/living-on-the-edge)
 
 ## [Archives](archives/index.md)
