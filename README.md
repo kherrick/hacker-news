@@ -25,7 +25,7 @@
 * [2025-10-16, 15:47:17](https://news.ycombinator.com/item?id=45606853) - [Mathematicians have found a hidden 'reset button' for undoing rotation](https://www.newscientist.com/article/2499647-mathematicians-have-found-a-hidden-reset-button-for-undoing-rotation/)
 * [2025-10-16, 14:09:21](https://news.ycombinator.com/item?id=45605556) - [Power over Ethernet (PoE) basics and beyond](https://www.edn.com/poe-basics-and-beyond-what-every-engineer-should-know/)
 * [2025-10-16, 11:17:56](https://news.ycombinator.com/item?id=45604013) - [Show HN: Modshim – A new alternative to monkey-patching in Python](https://github.com/joouha/modshim)
-* [2025-10-14, 14:34:47](https://news.ycombinator.com/item?id=45580559) - [Drawing Text Isn't Simple: Benchmarking Console vs. Graphical Rendering](https://cv.co.hu/csabi/drawing-text-performance-graphical-vs-console.html)
+* [2025-10-14, 14:43:45](https://news.ycombinator.com/item?id=45580683) - [Principles and Methodologies for Serial Performance Optimization](https://danglingpointers.substack.com/p/principles-and-methodologies-for)
 * [2025-10-14, 11:55:12](https://news.ycombinator.com/item?id=45578935) - [If you'd built a \"tool\" that stupid, why would you advertise the fact?](https://svpow.com/2025/10/13/if-youd-built-a-tool-that-stupid-why-would-you-advertise-the-fact/)
 * [2025-10-13, 05:01:11](https://news.ycombinator.com/item?id=45564821) - [Minds, brains, and programs (1980) [pdf]](https://home.csulb.edu/~cwallis/382/readings/482/searle.minds.brains.programs.bbs.1980.pdf)
 * [2025-10-12, 12:04:51](https://news.ycombinator.com/item?id=45557599) - [KDE Connect: Enabling communication between all your devices](https://community.kde.org/KDEConnect)
