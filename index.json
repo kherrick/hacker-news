@@ -51,12 +51,32 @@
   ],
   [
     [
+      "2025-10-22, 18:49:04",
+      "https://news.ycombinator.com/item?id=45673479"
+    ],
+    [
+      "Criticisms of \"The Body Keeps the Score\"",
+      "https://josepheverettwil.substack.com/p/the-body-keeps-the-score-is-bullshit"
+    ]
+  ],
+  [
+    [
       "2025-10-22, 18:21:54",
       "https://news.ycombinator.com/item?id=45673130"
     ],
     [
       "Mass Assignment Vulnerability Exposes Max Verstappen Passport and F1 Drivers PII",
       "https://ian.sh/fia"
+    ]
+  ],
+  [
+    [
+      "2025-10-22, 18:00:20",
+      "https://news.ycombinator.com/item?id=45672844"
+    ],
+    [
+      "Rivian's TM-B electric bike",
+      "https://www.theverge.com/news/804157/rivian-tm-b-electric-bike-price-specs-helmet-quad"
     ]
   ],
   [
@@ -127,16 +147,6 @@
     [
       "Meta is axing 600 roles across its AI division",
       "https://www.theverge.com/news/804253/meta-ai-research-layoffs-fair-superintelligence"
-    ]
-  ],
-  [
-    [
-      "2025-10-22, 15:20:59",
-      "https://news.ycombinator.com/item?id=45670516"
-    ],
-    [
-      "The Logarithmic Time Perception Hypothesis",
-      "http://www.kafalas.com/Logtime.html"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "André Gorz, the Theorist Who Predicted the Revolt Against Meaningless Work (2023)",
       "https://znetwork.org/znetarticle/andre-gorz-was-the-theorist-who-predicted-the-revolt-against-meaningless-work/"
-    ]
-  ],
-  [
-    [
-      "2025-10-10, 21:02:00",
-      "https://news.ycombinator.com/item?id=45543746"
-    ],
-    [
-      "Patina: a Rust implementation of UEFI firmware",
-      "https://github.com/OpenDevicePartnership/patina"
     ]
   ]
 ]
