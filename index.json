@@ -1,16 +1,6 @@
 [
   [
     [
-      "2025-10-22, 15:39:13",
-      "https://news.ycombinator.com/item?id=45670780"
-    ],
-    [
-      "Sequoia COO quit over Shaun Maguire's comments about Mamdani",
-      "https://www.ft.com/content/8e6de299-3eb6-4ba9-8037-266c55c02170"
-    ]
-  ],
-  [
-    [
       "2025-10-22, 15:20:59",
       "https://news.ycombinator.com/item?id=45670516"
     ],
@@ -201,6 +191,16 @@
   ],
   [
     [
+      "2025-10-21, 21:00:10",
+      "https://news.ycombinator.com/item?id=45661638"
+    ],
+    [
+      "rlsw – Raylib software OpenGL renderer in less than 5k LOC",
+      "https://github.com/raysan5/raylib/blob/master/src/external/rlsw.h"
+    ]
+  ],
+  [
+    [
       "2025-10-21, 15:55:41",
       "https://news.ycombinator.com/item?id=45657345"
     ],
@@ -221,22 +221,22 @@
   ],
   [
     [
+      "2025-10-21, 12:58:43",
+      "https://news.ycombinator.com/item?id=45655188"
+    ],
+    [
+      "NASA chief suggests SpaceX may be booted from moon mission",
+      "https://www.cnn.com/2025/10/20/science/nasa-spacex-moon-landing-contract-sean-duffy"
+    ]
+  ],
+  [
+    [
       "2025-10-17, 18:39:22",
       "https://news.ycombinator.com/item?id=45620330"
     ],
     [
       "Die shots of as many CPUs and other interesting chips as possible",
       "https://commons.wikimedia.org/wiki/User:Birdman86"
-    ]
-  ],
-  [
-    [
-      "2025-10-16, 21:32:27",
-      "https://news.ycombinator.com/item?id=45610939"
-    ],
-    [
-      "Distributed Ray-Tracing",
-      "https://www.4rknova.com//blog/2019/02/24/distributed-raytracing"
     ]
   ],
   [
