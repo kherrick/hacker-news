@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-10-22](index.md)
 
 * [2025-10-22, 18:49:04](https://news.ycombinator.com/item?id=45673479) - [The Body Keeps the Score Is Bullshit](https://josepheverettwil.substack.com/p/the-body-keeps-the-score-is-bullshit)
+* [2025-10-22, 18:21:54](https://news.ycombinator.com/item?id=45673130) - [Mass Assignment Vulnerability Exposes Max Verstappen Passport and F1 Drivers PII](https://ian.sh/fia)
 * [2025-10-22, 18:00:20](https://news.ycombinator.com/item?id=45672844) - [Rivian's Also E-bike is like nothing you've ever seen](https://www.theverge.com/news/804157/rivian-tm-b-electric-bike-price-specs-helmet-quad)
 * [2025-10-22, 17:56:54](https://news.ycombinator.com/item?id=45672788) - [42,600 ton ship to break the world record for the deepest drill at 7 miles](https://blog.bostonorganics.com/chinas-42600-ton-meng-xiang-aims-drill-7-miles-deep-breaking-records/)
 * [2025-10-22, 17:30:43](https://news.ycombinator.com/item?id=45672405) - [How do LLM's trade off lives between different categories?](https://arctotherium.substack.com/p/llm-exchange-rates-updated)
