@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-10-22](index.md)
 
+* [2025-10-22, 17:56:54](https://news.ycombinator.com/item?id=45672788) - [42,600 ton ship to break the world record for the deepest drill at 7 miles](https://blog.bostonorganics.com/chinas-42600-ton-meng-xiang-aims-drill-7-miles-deep-breaking-records/)
+* [2025-10-22, 17:30:43](https://news.ycombinator.com/item?id=45672405) - [How do LLM's trade off lives between different categories?](https://arctotherium.substack.com/p/llm-exchange-rates-updated)
 * [2025-10-22, 17:26:06](https://news.ycombinator.com/item?id=45672336) - [JMAP for Calendars, Contacts and Files Now in Stalwart](https://stalw.art/blog/jmap-collaboration/)
 * [2025-10-22, 17:18:33](https://news.ycombinator.com/item?id=45672235) - [HP SitePrint](https://www.hp.com/us-en/printers/site-print/layout-robot.html)
 * [2025-10-22, 17:15:38](https://news.ycombinator.com/item?id=45672199) - [Look, Another AI Browser](https://manuelmoreale.com/thoughts/look-another-ai-browser)
@@ -17,6 +19,7 @@
 * [2025-10-22, 15:20:59](https://news.ycombinator.com/item?id=45670516) - [The Logarithmic Time Perception Hypothesis](http://www.kafalas.com/Logtime.html)
 * [2025-10-22, 15:16:19](https://news.ycombinator.com/item?id=45670443) - [Google demonstrates 'verifiable quantum advantage' with their Willow processor](https://blog.google/technology/research/quantum-echoes-willow-verifiable-quantum-advantage/)
 * [2025-10-22, 14:53:54](https://news.ycombinator.com/item?id=45670052) - [Scripts I wrote that I use all the time](https://evanhahn.com/scripts-i-wrote-that-i-use-all-the-time/)
+* [2025-10-22, 14:45:03](https://news.ycombinator.com/item?id=45669906) - [Show HN: Create interactive diagrams with pop-up content](https://vexlio.com/features/interactive-diagrams-with-popups/)
 * [2025-10-22, 14:38:03](https://news.ycombinator.com/item?id=45669796) - [How Apple's walled garden protects ICE](https://www.theverge.com/column/803693/ice-epic-games-apple-app-store)
 * [2025-10-22, 14:22:41](https://news.ycombinator.com/item?id=45669593) - [Cryptographic Issues in Cloudflare's Circl FourQ Implementation (CVE-2025-8556)](https://www.botanica.software/blog/cryptographic-issues-in-cloudflares-circl-fourq-implementation)
 * [2025-10-22, 14:08:08](https://news.ycombinator.com/item?id=45669414) - [Who benefits from the MAHA anti-science push?](https://apnews.com/article/maha-supplements-wellness-rfk-jr-vaccine-raw-milk-dc8ecf998ef3835adbf32fc88c14af07)

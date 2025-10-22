@@ -53,6 +53,7 @@
 * [2025-10-19, 13:35:31](https://news.ycombinator.com/item?id=45634026) - [Abandoned land drives dangerous heat in Houston, Texas A&M study finds](https://stories.tamu.edu/news/2025/10/07/abandoned-land-drives-dangerous-heat-in-houston-texas-am-study-finds/)
 * [2025-10-19, 13:25:25](https://news.ycombinator.com/item?id=45633958) - [How to Assemble an Electric Heating Element from Scratch](https://solar.lowtechmagazine.com/2025/10/how-to-build-an-electric-heating-element-from-scratch/)
 * [2025-10-19, 13:19:44](https://news.ycombinator.com/item?id=45633921) - [Feed me up, Scotty – custom RSS feed generation using CSS selectors](https://feed-me-up-scotty.vincenttunru.com/)
+* [2025-10-19, 13:16:25](https://news.ycombinator.com/item?id=45633900) - [Cyborgs vs. rooms, two visions for the future of computing](https://interconnected.org/home/2025/10/13/dichotomy)
 * [2025-10-19, 13:01:34](https://news.ycombinator.com/item?id=45633815) - [The macOS LC_COLLATE hunt: Or why does sort order differently on macOS and Linux](https://blog.zhimingwang.org/macos-lc_collate-hunt)
 * [2025-10-19, 12:36:17](https://news.ycombinator.com/item?id=45633711) - [A Tower on Billionaires' Row Is Full of Cracks. Who's to Blame?](https://www.nytimes.com/2025/10/19/nyregion/432-park-avenue-condo-tower.html)
 * [2025-10-19, 12:11:58](https://news.ycombinator.com/item?id=45633642) - [Improving PixelMelt's Kindle Web Deobfuscator](https://shkspr.mobi/blog/2025/10/improving-pixelmelts-kindle-web-deobfuscator/)
