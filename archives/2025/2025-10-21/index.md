@@ -6,6 +6,7 @@
 
 * [2025-10-21, 23:00:40](https://news.ycombinator.com/item?id=45662831) - [\"Butt breathing\" might soon be a real medical treatment](https://arstechnica.com/science/2025/10/butt-breathing-might-soon-be-a-real-medical-treatment/)
 * [2025-10-21, 22:43:07](https://news.ycombinator.com/item?id=45662668) - [The Hidden Engineering of Niagara Falls](https://practical.engineering/blog/2025/10/21/the-hidden-engineering-of-niagara-falls)
+* [2025-10-21, 22:10:18](https://news.ycombinator.com/item?id=45662368) - [Designing software for things that rot](https://drobinin.com/posts/designing-software-for-things-that-rot/)
 * [2025-10-21, 21:38:56](https://news.ycombinator.com/item?id=45662053) - [\"Anna, Lindsey Halligan Here.\" My Signal exchange with the interim U.S. attorney](https://www.lawfaremedia.org/article/anna--lindsey-halligan-here)
 * [2025-10-21, 21:05:26](https://news.ycombinator.com/item?id=45661698) - [Lottery-fication of Everything: 0 day options, perps, parlays are now mainstream](https://www.dopaminemarkets.com/p/the-lottery-fication-of-everything)
 * [2025-10-21, 21:00:10](https://news.ycombinator.com/item?id=45661638) - [rlsw – Raylib software OpenGL renderer in less than 5k LOC](https://github.com/raysan5/raylib/blob/master/src/external/rlsw.h)

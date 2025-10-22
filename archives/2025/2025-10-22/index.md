@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-10-22](index.md)
 
+* [2025-10-22, 14:22:41](https://news.ycombinator.com/item?id=45669593) - [Cryptographic Issues in Cloudflare's Circl FourQ Implementation (CVE-2025-8556)](https://www.botanica.software/blog/cryptographic-issues-in-cloudflares-circl-fourq-implementation)
 * [2025-10-22, 13:53:17](https://news.ycombinator.com/item?id=45669195) - [Tiny sugar spoons are popping up on NYC fast-food menus](https://gothamist.com/news/tiny-sugar-spoons-are-popping-up-on-nyc-fast-food-menus-youre-being-warned)
+* [2025-10-22, 13:51:17](https://news.ycombinator.com/item?id=45669159) - [The Apple factory: What perfect coordination feels like](https://physical-ai.ghost.io/the-apple-factory-what-perfect-coordination-feels-like/)
 * [2025-10-22, 13:50:20](https://news.ycombinator.com/item?id=45669142) - [Linux Capabilities Revisited](https://dfir.ch/posts/linux_capabilities/)
 * [2025-10-22, 13:39:26](https://news.ycombinator.com/item?id=45668990) - [AI assistants misrepresent news content 45% of the time](https://www.bbc.co.uk/mediacentre/2025/new-ebu-research-ai-assistants-news-content)
 * [2025-10-22, 13:31:17](https://news.ycombinator.com/item?id=45668882) - [Sentence Transformers is joining Hugging Face](https://huggingface.co/blog/sentence-transformers-joins-hf)
@@ -13,6 +15,7 @@
 * [2025-10-22, 13:04:57](https://news.ycombinator.com/item?id=45668469) - [The Stagnant Order. and the End of Rising Powers](https://www.foreignaffairs.com/united-states/stagnant-order-michael-beckley)
 * [2025-10-22, 13:03:06](https://news.ycombinator.com/item?id=45668453) - [Democracy and the open internet die in daylight](https://heatherburns.tech/2025/10/22/democracy-and-the-open-internet-die-in-daylight/)
 * [2025-10-22, 13:00:08](https://news.ycombinator.com/item?id=45668408) - [A Brain-like LLM to replace Transformers](https://arxiv.org/abs/2509.26507)
+* [2025-10-22, 12:48:01](https://news.ycombinator.com/item?id=45668264) - [The security paradox of local LLMs](https://quesma.com/blog/local-llms-security-paradox/)
 * [2025-10-22, 12:28:13](https://news.ycombinator.com/item?id=45668022) - [Tesla Recalls Almost 13,000 EVs over Risk of Battery Power Loss](https://www.bloomberg.com/news/articles/2025-10-22/tesla-recalls-almost-13-000-evs-over-risk-of-battery-power-loss)
 * [2025-10-22, 12:27:16](https://news.ycombinator.com/item?id=45668008) - [Jaguar Land Rover hack cost UK economy an estimated $2.5B](https://www.reuters.com/sustainability/boards-policy-regulation/jaguar-land-rover-hack-cost-uk-economy-25-billion-report-says-2025-10-22/)
 * [2025-10-22, 12:21:39](https://news.ycombinator.com/item?id=45667949) - [Subprime Lender PrimaLend Enters Bankruptcy After Bond Default](https://www.bloomberg.com/news/articles/2025-10-22/subprime-lender-primalend-enters-bankruptcy-after-bond-default)
