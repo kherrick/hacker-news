@@ -1,6 +1,36 @@
 [
   [
     [
+      "2025-10-22, 17:02:10",
+      "https://news.ycombinator.com/item?id=45672035"
+    ],
+    [
+      "Bild AI (YC W25) Is Hiring a Founding AI Engineer",
+      "https://www.ycombinator.com/companies/bild-ai/jobs/m2ilR5L-founding-engineer-applied-ai"
+    ]
+  ],
+  [
+    [
+      "2025-10-22, 16:50:28",
+      "https://news.ycombinator.com/item?id=45671871"
+    ],
+    [
+      "Introducing Galaxy XR, the first Android XR headset",
+      "https://blog.google/products/android/samsung-galaxy-xr/"
+    ]
+  ],
+  [
+    [
+      "2025-10-22, 16:44:43",
+      "https://news.ycombinator.com/item?id=45671778"
+    ],
+    [
+      "Meta is axing 600 roles across its AI division",
+      "https://www.theverge.com/news/804253/meta-ai-research-layoffs-fair-superintelligence"
+    ]
+  ],
+  [
+    [
       "2025-10-22, 15:20:59",
       "https://news.ycombinator.com/item?id=45670516"
     ],
@@ -15,7 +45,7 @@
       "https://news.ycombinator.com/item?id=45670443"
     ],
     [
-      "Google demonstrates 'verifiable quantum advantage' with their Willow processor",
+      "Willow quantum chip demonstrates verifiable quantum advantage on hardware",
       "https://blog.google/technology/research/quantum-echoes-willow-verifiable-quantum-advantage/"
     ]
   ],
@@ -111,26 +141,6 @@
   ],
   [
     [
-      "2025-10-22, 12:02:02",
-      "https://news.ycombinator.com/item?id=45667770"
-    ],
-    [
-      "Infracost (YC W21) Hiring First Dev Advocate to Shift FinOps Left",
-      "https://www.ycombinator.com/companies/infracost/jobs/NzwUQ7c-senior-developer-advocate"
-    ]
-  ],
-  [
-    [
-      "2025-10-22, 11:23:33",
-      "https://news.ycombinator.com/item?id=45667458"
-    ],
-    [
-      "Starcloud",
-      "https://blogs.nvidia.com/blog/starcloud/"
-    ]
-  ],
-  [
-    [
       "2025-10-22, 09:05:21",
       "https://news.ycombinator.com/item?id=45666510"
     ],
@@ -211,26 +221,6 @@
   ],
   [
     [
-      "2025-10-21, 14:24:26",
-      "https://news.ycombinator.com/item?id=45656223"
-    ],
-    [
-      "LLMs can get \"brain rot\"",
-      "https://llm-brain-rot.github.io/"
-    ]
-  ],
-  [
-    [
-      "2025-10-21, 12:58:43",
-      "https://news.ycombinator.com/item?id=45655188"
-    ],
-    [
-      "NASA chief suggests SpaceX may be booted from moon mission",
-      "https://www.cnn.com/2025/10/20/science/nasa-spacex-moon-landing-contract-sean-duffy"
-    ]
-  ],
-  [
-    [
       "2025-10-17, 18:39:22",
       "https://news.ycombinator.com/item?id=45620330"
     ],
@@ -247,6 +237,16 @@
     [
       "Power over Ethernet (PoE) basics and beyond",
       "https://www.edn.com/poe-basics-and-beyond-what-every-engineer-should-know/"
+    ]
+  ],
+  [
+    [
+      "2025-10-16, 13:40:56",
+      "https://news.ycombinator.com/item?id=45605223"
+    ],
+    [
+      "A non-diagonal SSM RNN computed in parallel without requiring stabilization",
+      "https://github.com/glassroom/goom_ssm_rnn"
     ]
   ],
   [
