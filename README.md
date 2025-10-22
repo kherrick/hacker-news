@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-10-22, 11:23:33](https://news.ycombinator.com/item?id=45667458) - [Starcloud](https://blogs.nvidia.com/blog/starcloud/)
+* [2025-10-22, 12:02:02](https://news.ycombinator.com/item?id=45667770) - [Infracost (YC W21) Hiring First Dev Advocate to Shift FinOps Left](https://www.ycombinator.com/companies/infracost/jobs/NzwUQ7c-senior-developer-advocate)
+* [2025-10-22, 11:43:06](https://news.ycombinator.com/item?id=45667615) - [A Word on Omarchy](https://xn--gckvb8fzb.com/a-word-on-omarchy/)
 * [2025-10-22, 11:23:12](https://news.ycombinator.com/item?id=45667456) - [HarmonyOS 6 Full Overview: New Design, AI Features and Privacy Upgrades [video]](https://www.youtube.com/watch?v=KzpXObhArco)
-* [2025-10-22, 09:05:21](https://news.ycombinator.com/item?id=45666510) - [Greg Newby, CEO of the Project Gutenberg Literary Archive Foundation, Has Died](https://www.pgdp.net/wiki/In_Memoriam/gbnewby)
-* [2025-10-22, 07:14:40](https://news.ycombinator.com/item?id=45665796) - [Greenland Ditches Starlink for French Satellite Service](https://www.dagens.com/technology/greenland-ditches-starlink-for-french-satellite-service)
+* [2025-10-22, 09:05:21](https://news.ycombinator.com/item?id=45666510) - [Greg Newby, CEO of Project Gutenberg, has died](https://www.pgdp.net/wiki/In_Memoriam/gbnewby)
 * [2025-10-22, 06:17:18](https://news.ycombinator.com/item?id=45665452) - [MinIO (apparently) becomes source-only](https://github.com/minio/minio/issues/21647)
 * [2025-10-22, 04:20:09](https://news.ycombinator.com/item?id=45664848) - [Evaluating the Infinity Cache in AMD Strix Halo](https://chipsandcheese.com/p/evaluating-the-infinity-cache-in)
 * [2025-10-22, 02:02:58](https://news.ycombinator.com/item?id=45664147) - [OpenBSD 7.8](https://cdn.openbsd.org/pub/OpenBSD/7.8/ANNOUNCEMENT)
@@ -28,8 +28,8 @@
 * [2025-10-15, 06:29:18](https://news.ycombinator.com/item?id=45588752) - [Evaluating Argon2 Adoption and Effectiveness in Real-World Software](https://arxiv.org/abs/2504.17121)
 * [2025-10-14, 14:43:45](https://news.ycombinator.com/item?id=45580683) - [Principles and Methodologies for Serial Performance Optimization](https://danglingpointers.substack.com/p/principles-and-methodologies-for)
 * [2025-10-13, 10:18:29](https://news.ycombinator.com/item?id=45566730) - [Show HN: Cadence – A Guitar Theory App](https://cadenceguitar.com/)
-* [2025-10-13, 07:42:43](https://news.ycombinator.com/item?id=45565793) - [Go Subtleties You May Not Know](https://harrisoncramer.me/15-go-sublteties-you-may-not-already-know/)
 * [2025-10-13, 05:01:11](https://news.ycombinator.com/item?id=45564821) - [Minds, brains, and programs (1980) [pdf]](https://home.csulb.edu/~cwallis/382/readings/482/searle.minds.brains.programs.bbs.1980.pdf)
+* [2025-10-09, 12:36:48](https://news.ycombinator.com/item?id=45526766) - [Ghostly swamp will-O'-the-wisps may be explained by science](https://www.snexplores.org/article/swamp-gas-methane-will-o-wisp-chemistry)
 
 ## [Archives](archives/index.md)
 

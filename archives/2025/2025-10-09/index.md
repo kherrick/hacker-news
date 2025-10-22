@@ -64,6 +64,7 @@
 * [2025-10-09, 12:45:28](https://news.ycombinator.com/item?id=45526890) - [Show HN: I built a web framework in C](https://github.com/ashtonjamesd/lavandula)
 * [2025-10-09, 12:42:06](https://news.ycombinator.com/item?id=45526846) - [A Early History of Algebraic Data Types](https://www.hillelwayne.com/post/algdt-history/)
 * [2025-10-09, 12:42:01](https://news.ycombinator.com/item?id=45526845) - [Pointer Pointer](https://pointerpointer.com)
+* [2025-10-09, 12:36:48](https://news.ycombinator.com/item?id=45526766) - [Ghostly swamp will-O'-the-wisps may be explained by science](https://www.snexplores.org/article/swamp-gas-methane-will-o-wisp-chemistry)
 * [2025-10-09, 12:36:05](https://news.ycombinator.com/item?id=45526754) - ['Guilty until proven innocent': Fight between docs and insurers over downcoding](https://www.nbcnews.com/health/health-care/guilty-proven-innocent-fight-doctors-insurance-companies-downcoding-rcna230714)
 * [2025-10-09, 12:19:20](https://news.ycombinator.com/item?id=45526589) - [McKinsey wonders how to sell AI apps with no measurable benefits](https://www.theregister.com/2025/10/09/mckinsey_ai_monetization/)
 * [2025-10-09, 12:17:54](https://news.ycombinator.com/item?id=45526582) - [Dark Patterns: Buying a Bahncard at Deutsche Bahn](https://www.ketzu.net/dark-patterns-buying-a-bahncard-at-deutsche-bahn/)

@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-10-22](index.md)
 
+* [2025-10-22, 12:02:02](https://news.ycombinator.com/item?id=45667770) - [Infracost (YC W21) Hiring First Dev Advocate to Shift FinOps Left](https://www.ycombinator.com/companies/infracost/jobs/NzwUQ7c-senior-developer-advocate)
+* [2025-10-22, 11:43:06](https://news.ycombinator.com/item?id=45667615) - [A Word on Omarchy](https://xn--gckvb8fzb.com/a-word-on-omarchy/)
 * [2025-10-22, 11:23:33](https://news.ycombinator.com/item?id=45667458) - [Starcloud](https://blogs.nvidia.com/blog/starcloud/)
 * [2025-10-22, 11:23:12](https://news.ycombinator.com/item?id=45667456) - [HarmonyOS 6 Full Overview: New Design, AI Features and Privacy Upgrades [video]](https://www.youtube.com/watch?v=KzpXObhArco)
 * [2025-10-22, 10:15:18](https://news.ycombinator.com/item?id=45666986) - [Show HN: Coach Thyself – Replace your morning scroll with structured journaling](https://thyself.coach/)
