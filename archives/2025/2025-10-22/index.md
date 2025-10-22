@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-10-22](index.md)
 
 * [2025-10-22, 15:39:13](https://news.ycombinator.com/item?id=45670780) - [Sequoia COO quit over Shaun Maguire's comments about Mamdani](https://www.ft.com/content/8e6de299-3eb6-4ba9-8037-266c55c02170)
+* [2025-10-22, 15:20:59](https://news.ycombinator.com/item?id=45670516) - [The Logarithmic Time Perception Hypothesis](http://www.kafalas.com/Logtime.html)
 * [2025-10-22, 15:16:19](https://news.ycombinator.com/item?id=45670443) - [Google demonstrates 'verifiable quantum advantage' with their Willow processor](https://blog.google/technology/research/quantum-echoes-willow-verifiable-quantum-advantage/)
 * [2025-10-22, 14:38:03](https://news.ycombinator.com/item?id=45669796) - [How Apple's walled garden protects ICE](https://www.theverge.com/column/803693/ice-epic-games-apple-app-store)
 * [2025-10-22, 14:22:41](https://news.ycombinator.com/item?id=45669593) - [Cryptographic Issues in Cloudflare's Circl FourQ Implementation (CVE-2025-8556)](https://www.botanica.software/blog/cryptographic-issues-in-cloudflares-circl-fourq-implementation)

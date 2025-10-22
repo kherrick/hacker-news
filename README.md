@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-10-22, 15:39:13](https://news.ycombinator.com/item?id=45670780) - [Sequoia COO quit over Shaun Maguire's comments about Mamdani](https://www.ft.com/content/8e6de299-3eb6-4ba9-8037-266c55c02170)
+* [2025-10-22, 15:20:59](https://news.ycombinator.com/item?id=45670516) - [The Logarithmic Time Perception Hypothesis](http://www.kafalas.com/Logtime.html)
 * [2025-10-22, 15:16:19](https://news.ycombinator.com/item?id=45670443) - [Google demonstrates 'verifiable quantum advantage' with their Willow processor](https://blog.google/technology/research/quantum-echoes-willow-verifiable-quantum-advantage/)
 * [2025-10-22, 14:22:41](https://news.ycombinator.com/item?id=45669593) - [Cryptographic Issues in Cloudflare's Circl FourQ Implementation (CVE-2025-8556)](https://www.botanica.software/blog/cryptographic-issues-in-cloudflares-circl-fourq-implementation)
 * [2025-10-22, 13:50:20](https://news.ycombinator.com/item?id=45669142) - [Linux Capabilities Revisited](https://dfir.ch/posts/linux_capabilities/)
@@ -19,7 +20,6 @@
 * [2025-10-22, 05:49:58](https://news.ycombinator.com/item?id=45665311) - [French ex-president Sarkozy begins jail sentence](https://www.bbc.com/news/articles/cvgkm2j0xelo)
 * [2025-10-22, 04:20:09](https://news.ycombinator.com/item?id=45664848) - [Evaluating the Infinity Cache in AMD Strix Halo](https://chipsandcheese.com/p/evaluating-the-infinity-cache-in)
 * [2025-10-21, 22:10:18](https://news.ycombinator.com/item?id=45662368) - [Designing software for things that rot](https://drobinin.com/posts/designing-software-for-things-that-rot/)
-* [2025-10-21, 21:00:10](https://news.ycombinator.com/item?id=45661638) - [rlsw – Raylib software OpenGL renderer in less than 5k LOC](https://github.com/raysan5/raylib/blob/master/src/external/rlsw.h)
 * [2025-10-21, 15:55:41](https://news.ycombinator.com/item?id=45657345) - [Ask HN: Our AWS account got compromised after their outage](https://news.ycombinator.com/item?id=45657345)
 * [2025-10-21, 14:24:26](https://news.ycombinator.com/item?id=45656223) - [LLMs can get \"brain rot\"](https://llm-brain-rot.github.io/)
 * [2025-10-17, 18:39:22](https://news.ycombinator.com/item?id=45620330) - [Die shots of as many CPUs and other interesting chips as possible](https://commons.wikimedia.org/wiki/User:Birdman86)
