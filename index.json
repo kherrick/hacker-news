@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-10-22, 17:18:33",
+      "https://news.ycombinator.com/item?id=45672235"
+    ],
+    [
+      "HP SitePrint",
+      "https://www.hp.com/us-en/printers/site-print/layout-robot.html"
+    ]
+  ],
+  [
+    [
+      "2025-10-22, 17:07:22",
+      "https://news.ycombinator.com/item?id=45672103"
+    ],
+    [
+      "Team claims to have Lean 4 proof that P≠NP",
+      "https://arxiv.org/abs/2510.17829"
+    ]
+  ],
+  [
+    [
       "2025-10-22, 17:02:10",
       "https://news.ycombinator.com/item?id=45672035"
     ],
@@ -31,6 +51,16 @@
   ],
   [
     [
+      "2025-10-22, 16:27:26",
+      "https://news.ycombinator.com/item?id=45671569"
+    ],
+    [
+      "Count-Min Sketches in JS – Frequencies, but without the data",
+      "https://www.instantdb.com/essays/count_min_sketch"
+    ]
+  ],
+  [
+    [
       "2025-10-22, 15:20:59",
       "https://news.ycombinator.com/item?id=45670516"
     ],
@@ -47,6 +77,16 @@
     [
       "Willow quantum chip demonstrates verifiable quantum advantage on hardware",
       "https://blog.google/technology/research/quantum-echoes-willow-verifiable-quantum-advantage/"
+    ]
+  ],
+  [
+    [
+      "2025-10-22, 14:53:54",
+      "https://news.ycombinator.com/item?id=45670052"
+    ],
+    [
+      "Scripts I wrote that I use all the time",
+      "https://evanhahn.com/scripts-i-wrote-that-i-use-all-the-time/"
     ]
   ],
   [
@@ -121,16 +161,6 @@
   ],
   [
     [
-      "2025-10-22, 12:28:13",
-      "https://news.ycombinator.com/item?id=45668022"
-    ],
-    [
-      "Tesla Recalls Almost 13,000 EVs over Risk of Battery Power Loss",
-      "https://www.bloomberg.com/news/articles/2025-10-22/tesla-recalls-almost-13-000-evs-over-risk-of-battery-power-loss"
-    ]
-  ],
-  [
-    [
       "2025-10-22, 12:12:28",
       "https://news.ycombinator.com/item?id=45667866"
     ],
@@ -201,26 +231,6 @@
   ],
   [
     [
-      "2025-10-21, 21:00:10",
-      "https://news.ycombinator.com/item?id=45661638"
-    ],
-    [
-      "rlsw – Raylib software OpenGL renderer in less than 5k LOC",
-      "https://github.com/raysan5/raylib/blob/master/src/external/rlsw.h"
-    ]
-  ],
-  [
-    [
-      "2025-10-21, 15:55:41",
-      "https://news.ycombinator.com/item?id=45657345"
-    ],
-    [
-      "Ask HN: Our AWS account got compromised after their outage",
-      "https://news.ycombinator.com/item?id=45657345"
-    ]
-  ],
-  [
-    [
       "2025-10-17, 18:39:22",
       "https://news.ycombinator.com/item?id=45620330"
     ],
@@ -287,16 +297,6 @@
     [
       "Patina: a Rust implementation of UEFI firmware",
       "https://github.com/OpenDevicePartnership/patina"
-    ]
-  ],
-  [
-    [
-      "2025-10-09, 12:36:48",
-      "https://news.ycombinator.com/item?id=45526766"
-    ],
-    [
-      "Ghostly swamp will-O'-the-wisps may be explained by science",
-      "https://www.snexplores.org/article/swamp-gas-methane-will-o-wisp-chemistry"
     ]
   ]
 ]
