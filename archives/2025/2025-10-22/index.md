@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-10-22](index.md)
 
+* [2025-10-22, 15:16:19](https://news.ycombinator.com/item?id=45670443) - [Google demonstrates 'verifiable quantum advantage' with their Willow processor](https://blog.google/technology/research/quantum-echoes-willow-verifiable-quantum-advantage/)
 * [2025-10-22, 14:38:03](https://news.ycombinator.com/item?id=45669796) - [How Apple's walled garden protects ICE](https://www.theverge.com/column/803693/ice-epic-games-apple-app-store)
 * [2025-10-22, 14:22:41](https://news.ycombinator.com/item?id=45669593) - [Cryptographic Issues in Cloudflare's Circl FourQ Implementation (CVE-2025-8556)](https://www.botanica.software/blog/cryptographic-issues-in-cloudflares-circl-fourq-implementation)
 * [2025-10-22, 14:08:08](https://news.ycombinator.com/item?id=45669414) - [Who benefits from the MAHA anti-science push?](https://apnews.com/article/maha-supplements-wellness-rfk-jr-vaccine-raw-milk-dc8ecf998ef3835adbf32fc88c14af07)
