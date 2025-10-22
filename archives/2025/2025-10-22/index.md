@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-10-22](index.md)
 
+* [2025-10-22, 07:14:40](https://news.ycombinator.com/item?id=45665796) - [Greenland Ditches Starlink for French Satellite Service](https://www.dagens.com/technology/greenland-ditches-starlink-for-french-satellite-service)
 * [2025-10-22, 04:20:09](https://news.ycombinator.com/item?id=45664848) - [Evaluating the Infinity Cache in AMD Strix Halo](https://chipsandcheese.com/p/evaluating-the-infinity-cache-in)
 * [2025-10-22, 03:56:53](https://news.ycombinator.com/item?id=45664751) - [Spotify running ICE recruitment ads about \"dangerous illegals\"](https://djmag.com/news/spotify-defends-running-ice-recruitment-ads-about-dangerous-illegals-part-of-us-government)
 * [2025-10-22, 02:54:38](https://news.ycombinator.com/item?id=45664431) - [Show HN: AutoLearn Skills for self-improving agents](https://www.autolearn.dev)
