@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-10-22, 22:51:58",
+      "https://news.ycombinator.com/item?id=45676162"
+    ],
+    [
+      "VortexNet: Neural network based on fluid dynamics",
+      "https://github.com/samim23/vortexnet"
+    ]
+  ],
+  [
+    [
+      "2025-10-22, 22:31:54",
+      "https://news.ycombinator.com/item?id=45676002"
+    ],
+    [
+      "Officials scrub data showing US citizens swept up in immigration arrests",
+      "https://www.thedailybeast.com/officials-scrub-data-showing-us-citizens-swept-up-in-immigration-arrests/"
+    ]
+  ],
+  [
+    [
       "2025-10-22, 22:15:29",
       "https://news.ycombinator.com/item?id=45675851"
     ],
@@ -77,16 +97,6 @@
     [
       "Show HN: Cuq – Formal Verification of Rust GPU Kernels",
       "https://github.com/neelsomani/cuq"
-    ]
-  ],
-  [
-    [
-      "2025-10-22, 18:53:23",
-      "https://news.ycombinator.com/item?id=45673542"
-    ],
-    [
-      "ROG Xbox Ally runs better on Linux than Windows it ships with",
-      "https://www.tomshardware.com/video-games/handheld-gaming/rog-xbox-ally-runs-better-on-linux-than-the-windows-it-ships-with-new-test-shows-up-to-32-percent-higher-fps-with-more-stable-framerates-and-quicker-sleep-resume-times"
     ]
   ],
   [
@@ -207,16 +217,6 @@
     [
       "SourceFS: A 2h+ Android build becomes a 15m task with a virtual filesystem",
       "https://www.source.dev/journal/sourcefs"
-    ]
-  ],
-  [
-    [
-      "2025-10-22, 12:12:28",
-      "https://news.ycombinator.com/item?id=45667866"
-    ],
-    [
-      "Internet's biggest annoyance: Cookie laws should target browsers, not websites",
-      "https://nednex.com/en/the-internets-biggest-annoyance-why-cookie-laws-should-target-browsers-not-websites/"
     ]
   ],
   [
