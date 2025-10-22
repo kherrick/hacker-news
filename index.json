@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-10-22, 14:38:03",
+      "https://news.ycombinator.com/item?id=45669796"
+    ],
+    [
+      "How Apple's walled garden protects ICE",
+      "https://www.theverge.com/column/803693/ice-epic-games-apple-app-store"
+    ]
+  ],
+  [
+    [
       "2025-10-22, 14:22:41",
       "https://news.ycombinator.com/item?id=45669593"
     ],
@@ -11,22 +21,22 @@
   ],
   [
     [
+      "2025-10-22, 14:08:08",
+      "https://news.ycombinator.com/item?id=45669414"
+    ],
+    [
+      "Who benefits from the MAHA anti-science push?",
+      "https://apnews.com/article/maha-supplements-wellness-rfk-jr-vaccine-raw-milk-dc8ecf998ef3835adbf32fc88c14af07"
+    ]
+  ],
+  [
+    [
       "2025-10-22, 13:53:17",
       "https://news.ycombinator.com/item?id=45669195"
     ],
     [
       "Tiny sugar spoons are popping up on NYC fast-food menus",
       "https://gothamist.com/news/tiny-sugar-spoons-are-popping-up-on-nyc-fast-food-menus-youre-being-warned"
-    ]
-  ],
-  [
-    [
-      "2025-10-22, 13:51:17",
-      "https://news.ycombinator.com/item?id=45669159"
-    ],
-    [
-      "The Apple factory: What perfect coordination feels like",
-      "https://physical-ai.ghost.io/the-apple-factory-what-perfect-coordination-feels-like/"
     ]
   ],
   [
@@ -51,6 +61,16 @@
   ],
   [
     [
+      "2025-10-22, 13:33:34",
+      "https://news.ycombinator.com/item?id=45668909"
+    ],
+    [
+      "Comparison: H.264 vs. H.265/HEVC vs. VP9",
+      "https://www.red5.net/blog/h264-vs-h265-vp9/"
+    ]
+  ],
+  [
+    [
       "2025-10-22, 13:25:51",
       "https://news.ycombinator.com/item?id=45668805"
     ],
@@ -61,31 +81,11 @@
   ],
   [
     [
-      "2025-10-22, 13:10:26",
-      "https://news.ycombinator.com/item?id=45668561"
-    ],
-    [
-      "Chezmoi introduces ban on LLM-generated contributions",
-      "https://www.chezmoi.io/developer-guide/"
-    ]
-  ],
-  [
-    [
-      "2025-10-22, 13:03:06",
-      "https://news.ycombinator.com/item?id=45668453"
-    ],
-    [
-      "Democracy and the open internet die in daylight",
-      "https://heatherburns.tech/2025/10/22/democracy-and-the-open-internet-die-in-daylight/"
-    ]
-  ],
-  [
-    [
       "2025-10-22, 13:00:08",
       "https://news.ycombinator.com/item?id=45668408"
     ],
     [
-      "A Brain-like LLM to replace Transformers",
+      "The Dragon Hatchling: The missing link between the transformer and brain models",
       "https://arxiv.org/abs/2509.26507"
     ]
   ],
@@ -107,16 +107,6 @@
     [
       "Tesla Recalls Almost 13,000 EVs over Risk of Battery Power Loss",
       "https://www.bloomberg.com/news/articles/2025-10-22/tesla-recalls-almost-13-000-evs-over-risk-of-battery-power-loss"
-    ]
-  ],
-  [
-    [
-      "2025-10-22, 12:27:16",
-      "https://news.ycombinator.com/item?id=45668008"
-    ],
-    [
-      "Jaguar Land Rover hack cost UK economy an estimated $2.5B",
-      "https://www.reuters.com/sustainability/boards-policy-regulation/jaguar-land-rover-hack-cost-uk-economy-25-billion-report-says-2025-10-22/"
     ]
   ],
   [
@@ -217,6 +207,16 @@
     [
       "rlsw – Raylib software OpenGL renderer in less than 5k LOC",
       "https://github.com/raysan5/raylib/blob/master/src/external/rlsw.h"
+    ]
+  ],
+  [
+    [
+      "2025-10-21, 15:55:41",
+      "https://news.ycombinator.com/item?id=45657345"
+    ],
+    [
+      "Ask HN: Our AWS account got compromised after their outage",
+      "https://news.ycombinator.com/item?id=45657345"
     ]
   ],
   [
