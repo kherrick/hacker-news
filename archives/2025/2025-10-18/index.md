@@ -36,6 +36,7 @@
 * [2025-10-18, 09:25:30](https://news.ycombinator.com/item?id=45626037) - [Fast calculation of the distance to cubic Bezier curves on the GPU](https://blog.pkh.me/p/46-fast-calculation-of-the-distance-to-cubic-bezier-curves-on-the-gpu.html)
 * [2025-10-18, 08:31:01](https://news.ycombinator.com/item?id=45625848) - [Life, Work, Death and the Peasant, Part V: Life in Cycles](https://acoup.blog/2025/10/17/collections-life-work-death-and-the-peasant-part-v-life-in-cycles/)
 * [2025-10-18, 08:14:49](https://news.ycombinator.com/item?id=45625764) - [Windows 10 refugees flock to Linux in what devs call their \"biggest launch\"](https://www.neowin.net/news/windows-10-refugees-flock-to-linux-in-what-devs-call-their-biggest-launch-ever/)
+* [2025-10-18, 07:30:08](https://news.ycombinator.com/item?id=45625590) - [The Tonnetz](https://thetonnetz.com/)
 * [2025-10-18, 06:20:23](https://news.ycombinator.com/item?id=45625351) - [BBC Gaza documentary serious breach of rules](https://www.bbc.com/news/articles/c629j5m2n01o)
 * [2025-10-18, 05:52:47](https://news.ycombinator.com/item?id=45625251) - [StageConnect: Behringer protocol is open source](https://github.com/OpenMixerProject/StageConnect)
 * [2025-10-18, 05:47:14](https://news.ycombinator.com/item?id=45625229) - [Chen-Ning Yang, Nobel laureate, dies at 103](https://www.chinadaily.com.cn/a/202510/18/WS68f3170ea310f735438b5bf2.html)

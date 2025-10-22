@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-10-22](index.md)
 
+* [2025-10-22, 19:46:24](https://news.ycombinator.com/item?id=45674209) - [Django 6.0 beta 1 released](https://www.djangoproject.com/weblog/2025/oct/22/django-60-beta-released/)
+* [2025-10-22, 19:42:36](https://news.ycombinator.com/item?id=45674166) - [Ovi](https://github.com/character-ai/Ovi)
 * [2025-10-22, 18:53:23](https://news.ycombinator.com/item?id=45673542) - [ROG Xbox Ally runs better on Linux than Windows it ships with – up to 32% faster](https://www.tomshardware.com/video-games/handheld-gaming/rog-xbox-ally-runs-better-on-linux-than-the-windows-it-ships-with-new-test-shows-up-to-32-percent-higher-fps-with-more-stable-framerates-and-quicker-sleep-resume-times)
 * [2025-10-22, 18:49:04](https://news.ycombinator.com/item?id=45673479) - [The Body Keeps the Score Is Bullshit](https://josepheverettwil.substack.com/p/the-body-keeps-the-score-is-bullshit)
 * [2025-10-22, 18:21:54](https://news.ycombinator.com/item?id=45673130) - [Mass Assignment Vulnerability Exposes Max Verstappen Passport and F1 Drivers PII](https://ian.sh/fia)
@@ -14,6 +16,7 @@
 * [2025-10-22, 17:21:54](https://news.ycombinator.com/item?id=45672280) - [I See a Future in Jj](https://steveklabnik.com/writing/i-see-a-future-in-jj/)
 * [2025-10-22, 17:18:33](https://news.ycombinator.com/item?id=45672235) - [HP SitePrint](https://www.hp.com/us-en/printers/site-print/layout-robot.html)
 * [2025-10-22, 17:15:38](https://news.ycombinator.com/item?id=45672199) - [Look, Another AI Browser](https://manuelmoreale.com/thoughts/look-another-ai-browser)
+* [2025-10-22, 17:14:21](https://news.ycombinator.com/item?id=45672181) - [I built MindMaps for Linux and Git cmdz with quiz, typing game and cheatsheet](https://mindmapsonline.com/maps_list)
 * [2025-10-22, 17:07:22](https://news.ycombinator.com/item?id=45672103) - [Team claims to have Lean 4 proof that P≠NP](https://arxiv.org/abs/2510.17829)
 * [2025-10-22, 17:02:10](https://news.ycombinator.com/item?id=45672035) - [Bild AI (YC W25) Is Hiring a Founding AI Engineer](https://www.ycombinator.com/companies/bild-ai/jobs/m2ilR5L-founding-engineer-applied-ai)
 * [2025-10-22, 16:50:28](https://news.ycombinator.com/item?id=45671871) - [Introducing Galaxy XR, the first Android XR headset](https://blog.google/products/android/samsung-galaxy-xr/)
