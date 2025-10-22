@@ -68,6 +68,7 @@
 * [2025-10-16, 06:51:49](https://news.ycombinator.com/item?id=45602179) - [Journalists turn in access badges, exit Pentagon rather than agreeing new rules](https://apnews.com/article/pentagon-press-access-hegseth-trump-restrictions-5d9c2a63e4e03b91fc1546bb09ffbf12)
 * [2025-10-16, 06:39:09](https://news.ycombinator.com/item?id=45602124) - [Steve Jobs and Cray-1 to be featured on 2026 American Innovations $1 coin](https://www.usmint.gov/news/press-releases/united-states-mint-releases-2026-american-innovation-one-dollar-coin-program-designs)
 * [2025-10-16, 06:12:51](https://news.ycombinator.com/item?id=45601982) - [Upcoming Rust language features for kernel development](https://lwn.net/Articles/1039073/)
+* [2025-10-16, 05:50:39](https://news.ycombinator.com/item?id=45601855) - [Farming Hard Drives (2012)](https://www.backblaze.com/blog/backblaze_drive_farming/)
 * [2025-10-16, 05:46:50](https://news.ycombinator.com/item?id=45601834) - [New coding models and integrations](https://ollama.com/blog/coding-models)
 * [2025-10-16, 05:31:31](https://news.ycombinator.com/item?id=45601750) - [TurboTax's 20-Year Fight to Stop Americans from Filing Their Taxes for Free (2019)](https://www.propublica.org/article/inside-turbotax-20-year-fight-to-stop-americans-from-filing-their-taxes-for-free)
 * [2025-10-16, 04:45:02](https://news.ycombinator.com/item?id=45601541) - [What Does George Orwell's '1984' Mean in 2024?](https://www.smithsonianmag.com/history/what-does-george-orwells-1984-mean-in-2024-180984468/)
