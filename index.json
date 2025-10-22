@@ -1,12 +1,52 @@
 [
   [
     [
-      "2025-10-22, 13:31:17",
-      "https://news.ycombinator.com/item?id=45668882"
+      "2025-10-22, 13:53:17",
+      "https://news.ycombinator.com/item?id=45669195"
     ],
     [
-      "Sentence Transformers is joining Hugging Face",
-      "https://huggingface.co/blog/sentence-transformers-joins-hf"
+      "Tiny sugar spoons are popping up on NYC fast-food menus",
+      "https://gothamist.com/news/tiny-sugar-spoons-are-popping-up-on-nyc-fast-food-menus-youre-being-warned"
+    ]
+  ],
+  [
+    [
+      "2025-10-22, 13:50:20",
+      "https://news.ycombinator.com/item?id=45669142"
+    ],
+    [
+      "Linux Capabilities Revisited",
+      "https://dfir.ch/posts/linux_capabilities/"
+    ]
+  ],
+  [
+    [
+      "2025-10-22, 13:39:26",
+      "https://news.ycombinator.com/item?id=45668990"
+    ],
+    [
+      "AI assistants misrepresent news content 45% of the time",
+      "https://www.bbc.co.uk/mediacentre/2025/new-ebu-research-ai-assistants-news-content"
+    ]
+  ],
+  [
+    [
+      "2025-10-22, 13:25:51",
+      "https://news.ycombinator.com/item?id=45668805"
+    ],
+    [
+      "Cigarette-smuggling balloons force closure of Lithuanian airport",
+      "https://www.theguardian.com/world/2025/oct/22/cigarette-smuggling-balloons-force-closure-vilnius-airport-lithuania"
+    ]
+  ],
+  [
+    [
+      "2025-10-22, 13:10:26",
+      "https://news.ycombinator.com/item?id=45668561"
+    ],
+    [
+      "Chezmoi introduces ban on LLM-generated contributions",
+      "https://www.chezmoi.io/developer-guide/"
     ]
   ],
   [
@@ -115,8 +155,8 @@
       "https://news.ycombinator.com/item?id=45665452"
     ],
     [
-      "MinIO (apparently) becomes source-only",
-      "https://github.com/minio/minio/issues/21647"
+      "MinIO stops distributing free Docker images",
+      "https://github.com/minio/minio/issues/21647#issuecomment-3418675115"
     ]
   ],
   [
@@ -141,42 +181,12 @@
   ],
   [
     [
-      "2025-10-21, 22:43:07",
-      "https://news.ycombinator.com/item?id=45662668"
-    ],
-    [
-      "The Hidden Engineering of Niagara Falls",
-      "https://practical.engineering/blog/2025/10/21/the-hidden-engineering-of-niagara-falls"
-    ]
-  ],
-  [
-    [
       "2025-10-21, 21:00:10",
       "https://news.ycombinator.com/item?id=45661638"
     ],
     [
       "rlsw – Raylib software OpenGL renderer in less than 5k LOC",
       "https://github.com/raysan5/raylib/blob/master/src/external/rlsw.h"
-    ]
-  ],
-  [
-    [
-      "2025-10-21, 20:44:39",
-      "https://news.ycombinator.com/item?id=45661462"
-    ],
-    [
-      "The Gypsy Life of Robert Louis Stevenson",
-      "https://hudsonreview.com/2025/10/the-gypsy-life-of-robert-louis-stevenson/"
-    ]
-  ],
-  [
-    [
-      "2025-10-21, 20:28:15",
-      "https://news.ycombinator.com/item?id=45661253"
-    ],
-    [
-      "Replacing a $3000/mo Heroku bill with a $55/mo server",
-      "https://disco.cloud/blog/how-idealistorg-replaced-a-3000mo-heroku-bill-with-a-55-server/"
     ]
   ],
   [
@@ -211,16 +221,6 @@
   ],
   [
     [
-      "2025-10-21, 12:55:59",
-      "https://news.ycombinator.com/item?id=45655161"
-    ],
-    [
-      "Neural audio codecs: how to get audio into LLMs",
-      "https://kyutai.org/next/codec-explainer"
-    ]
-  ],
-  [
-    [
       "2025-10-17, 18:39:22",
       "https://news.ycombinator.com/item?id=45620330"
     ],
@@ -251,16 +251,6 @@
   ],
   [
     [
-      "2025-10-16, 11:17:56",
-      "https://news.ycombinator.com/item?id=45604013"
-    ],
-    [
-      "Show HN: Modshim – A new alternative to monkey-patching in Python",
-      "https://github.com/joouha/modshim"
-    ]
-  ],
-  [
-    [
       "2025-10-15, 06:29:18",
       "https://news.ycombinator.com/item?id=45588752"
     ],
@@ -287,6 +277,16 @@
     [
       "Go subtleties",
       "https://harrisoncramer.me/15-go-sublteties-you-may-not-already-know/"
+    ]
+  ],
+  [
+    [
+      "2025-10-10, 21:02:00",
+      "https://news.ycombinator.com/item?id=45543746"
+    ],
+    [
+      "Patina: a Rust implementation of UEFI firmware",
+      "https://github.com/OpenDevicePartnership/patina"
     ]
   ],
   [
