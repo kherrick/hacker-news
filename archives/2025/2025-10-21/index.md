@@ -10,6 +10,7 @@
 * [2025-10-21, 21:05:26](https://news.ycombinator.com/item?id=45661698) - [Lottery-fication of Everything: 0 day options, perps, parlays are now mainstream](https://www.dopaminemarkets.com/p/the-lottery-fication-of-everything)
 * [2025-10-21, 21:00:10](https://news.ycombinator.com/item?id=45661638) - [rlsw – Raylib software OpenGL renderer in less than 5k LOC](https://github.com/raysan5/raylib/blob/master/src/external/rlsw.h)
 * [2025-10-21, 20:52:44](https://news.ycombinator.com/item?id=45661547) - [We rewrote OpenFGA in pure Postgres](https://getrover.substack.com/p/how-we-rewrote-openfga-in-pure-postgres)
+* [2025-10-21, 20:44:39](https://news.ycombinator.com/item?id=45661462) - [The Gypsy Life of Robert Louis Stevenson](https://hudsonreview.com/2025/10/the-gypsy-life-of-robert-louis-stevenson/)
 * [2025-10-21, 20:31:47](https://news.ycombinator.com/item?id=45661306) - [Erowid - Documenting the Complex Relationship Between Humans and Psychoactives](https://www.erowid.org)
 * [2025-10-21, 20:28:15](https://news.ycombinator.com/item?id=45661253) - [Replacing a $3000/mo Heroku bill with a $55/mo server](https://disco.cloud/blog/how-idealistorg-replaced-a-3000mo-heroku-bill-with-a-55-server/)
 * [2025-10-21, 20:14:22](https://news.ycombinator.com/item?id=45661084) - [Doomsday Scoreboard](https://doomsday.march1studios.com/)
