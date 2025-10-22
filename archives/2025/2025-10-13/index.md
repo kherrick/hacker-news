@@ -61,6 +61,7 @@
 * [2025-10-13, 10:35:58](https://news.ycombinator.com/item?id=45566857) - [The Hunt for the World's Oldest Story](https://www.newyorker.com/magazine/2025/10/20/review-the-roots-of-ancient-mythology-books)
 * [2025-10-13, 10:34:17](https://news.ycombinator.com/item?id=45566849) - [Adding Breadcrumbs to a Rails Application](https://avohq.io/blog/breadcrumbs-rails)
 * [2025-10-13, 10:23:08](https://news.ycombinator.com/item?id=45566766) - [Matrices can be your Friends](https://www.sjbaker.org/steve/omniv/matrices_can_be_your_friends.html)
+* [2025-10-13, 10:18:29](https://news.ycombinator.com/item?id=45566730) - [Show HN: Cadence – A Guitar Theory App](https://cadenceguitar.com/)
 * [2025-10-13, 10:05:50](https://news.ycombinator.com/item?id=45566660) - [Two Paths to Memory Safety: CHERI and OMA](https://ednutting.com/2025/10/05/cheri-vs-oma.html)
 * [2025-10-13, 10:03:11](https://news.ycombinator.com/item?id=45566644) - [Dutch government takes control of Chinese-owned chipmaker Nexperia](https://www.cnbc.com/2025/10/13/dutch-government-takes-control-of-chinese-owned-chipmaker-nexperia.html)
 * [2025-10-13, 10:02:40](https://news.ycombinator.com/item?id=45566638) - [American Solar Farms](https://tech.marksblogg.com/american-solar-farms.html)
