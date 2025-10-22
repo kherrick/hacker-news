@@ -1,12 +1,32 @@
 [
   [
     [
+      "2025-10-22, 02:42:38",
+      "https://news.ycombinator.com/item?id=45664358"
+    ],
+    [
+      "I Bought $250k Worth of Physical Nickels",
+      "https://twitter.com/opinioncasino/status/1980038177785000114"
+    ]
+  ],
+  [
+    [
+      "2025-10-22, 02:02:58",
+      "https://news.ycombinator.com/item?id=45664147"
+    ],
+    [
+      "OpenBSD 7.8 Released",
+      "https://cdn.openbsd.org/pub/OpenBSD/7.8/ANNOUNCEMENT"
+    ]
+  ],
+  [
+    [
       "2025-10-22, 00:11:09",
       "https://news.ycombinator.com/item?id=45663435"
     ],
     [
-      "Daniel J. Bernstein updated cdb (Constant database) to go beyond 4GB",
-      "https://cdb.cr.yp.to/"
+      "Cdb: Add support for cdb64",
+      "https://cdb.cr.yp.to/download.html"
     ]
   ],
   [
@@ -15,7 +35,7 @@
       "https://news.ycombinator.com/item?id=45662831"
     ],
     [
-      "\"Butt breathing\" might soon be a real medical treatment",
+      "Rectal oxygen delivery might soon be a real medical treatment",
       "https://arstechnica.com/science/2025/10/butt-breathing-might-soon-be-a-real-medical-treatment/"
     ]
   ],
@@ -37,16 +57,6 @@
     [
       "rlsw – Raylib software OpenGL renderer in less than 5k LOC",
       "https://github.com/raysan5/raylib/blob/master/src/external/rlsw.h"
-    ]
-  ],
-  [
-    [
-      "2025-10-21, 20:52:44",
-      "https://news.ycombinator.com/item?id=45661547"
-    ],
-    [
-      "We rewrote OpenFGA in pure Postgres",
-      "https://getrover.substack.com/p/how-we-rewrote-openfga-in-pure-postgres"
     ]
   ],
   [
@@ -141,12 +151,12 @@
   ],
   [
     [
-      "2025-10-21, 12:58:57",
-      "https://news.ycombinator.com/item?id=45655190"
+      "2025-10-21, 13:05:21",
+      "https://news.ycombinator.com/item?id=45655263"
     ],
     [
-      "Our modular, high-performance Merkle Tree library for Rust",
-      "https://github.com/bilinearlabs/rs-merkle-tree"
+      "Ilo – a Forth system running on UEFI",
+      "https://asciinema.org/a/Lbxa2w9R5IbaJqW3INqVrbX8E"
     ]
   ],
   [
@@ -261,22 +271,12 @@
   ],
   [
     [
-      "2025-10-14, 18:09:12",
-      "https://news.ycombinator.com/item?id=45583019"
+      "2025-10-14, 17:06:42",
+      "https://news.ycombinator.com/item?id=45582415"
     ],
     [
-      "The Salt and Pepper Shaker Museum",
-      "https://www.thesaltandpeppershakermuseum.com"
-    ]
-  ],
-  [
-    [
-      "2025-10-13, 12:08:31",
-      "https://news.ycombinator.com/item?id=45567443"
-    ],
-    [
-      "We need (at least) ergonomic, explicit handles [in Rust]",
-      "https://smallcultfollowing.com/babysteps/blog/2025/10/13/ergonomic-explicit-handles/"
+      "King vs. Rich: The Founder's Dilemma",
+      "https://thevcedge.substack.com/p/king-vs-rich-the-founders-dilemma"
     ]
   ],
   [
