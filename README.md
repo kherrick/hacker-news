@@ -21,6 +21,7 @@
 * [2025-10-21, 12:55:59](https://news.ycombinator.com/item?id=45655161) - [Neural audio codecs: how to get audio into LLMs](https://kyutai.org/next/codec-explainer)
 * [2025-10-20, 21:19:19](https://news.ycombinator.com/item?id=45649510) - [The death of thread per core](https://buttondown.com/jaffray/archive/the-death-of-thread-per-core/)
 * [2025-10-20, 17:24:49](https://news.ycombinator.com/item?id=45646559) - [Getting DeepSeek-OCR working on an Nvidia Spark via brute force with Claude Code](https://simonwillison.net/2025/Oct/20/deepseek-ocr-claude-code/)
+* [2025-10-17, 18:39:22](https://news.ycombinator.com/item?id=45620330) - [Die shots of as many CPUs and other interesting chips as possible](https://commons.wikimedia.org/wiki/User:Birdman86)
 * [2025-10-16, 15:47:17](https://news.ycombinator.com/item?id=45606853) - [Mathematicians have found a hidden 'reset button' for undoing rotation](https://www.newscientist.com/article/2499647-mathematicians-have-found-a-hidden-reset-button-for-undoing-rotation/)
 * [2025-10-16, 14:09:21](https://news.ycombinator.com/item?id=45605556) - [Power over Ethernet (PoE) basics and beyond](https://www.edn.com/poe-basics-and-beyond-what-every-engineer-should-know/)
 * [2025-10-16, 11:17:56](https://news.ycombinator.com/item?id=45604013) - [Show HN: Modshim – A new alternative to monkey-patching in Python](https://github.com/joouha/modshim)
@@ -29,7 +30,6 @@
 * [2025-10-13, 10:18:29](https://news.ycombinator.com/item?id=45566730) - [Show HN: Cadence – A Guitar Theory App](https://cadenceguitar.com/)
 * [2025-10-13, 07:42:43](https://news.ycombinator.com/item?id=45565793) - [Go Subtleties You May Not Know](https://harrisoncramer.me/15-go-sublteties-you-may-not-already-know/)
 * [2025-10-13, 05:01:11](https://news.ycombinator.com/item?id=45564821) - [Minds, brains, and programs (1980) [pdf]](https://home.csulb.edu/~cwallis/382/readings/482/searle.minds.brains.programs.bbs.1980.pdf)
-* [2025-10-12, 12:04:51](https://news.ycombinator.com/item?id=45557599) - [KDE Connect: Enabling communication between all your devices](https://community.kde.org/KDEConnect)
 
 ## [Archives](archives/index.md)
 

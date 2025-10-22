@@ -23,6 +23,7 @@
 * [2025-10-17, 19:00:14](https://news.ycombinator.com/item?id=45620613) - [Ace Frehley Has Died](https://www.nytimes.com/2025/10/16/arts/music/ace-frehley-dead.html)
 * [2025-10-17, 18:44:13](https://news.ycombinator.com/item?id=45620394) - [GOG Has Had to Hire Private Investigators to Track Down IP Rights Holders](https://www.thegamer.com/gog-private-investigators-off-the-grid-ip-rights-holders/)
 * [2025-10-17, 18:39:34](https://news.ycombinator.com/item?id=45620333) - [Forgejo v13.0 Is Available](https://forgejo.org/2025-10-release-v13-0/)
+* [2025-10-17, 18:39:22](https://news.ycombinator.com/item?id=45620330) - [Die shots of as many CPUs and other interesting chips as possible](https://commons.wikimedia.org/wiki/User:Birdman86)
 * [2025-10-17, 18:38:16](https://news.ycombinator.com/item?id=45620311) - [What I Saw at This Weekend's Minnesota MAHA Fest Scared the Hell Out of Me](https://racketmn.com/what-i-saw-at-this-weekends-minnesota-maha-fest-scared-the-hell-out-of-me)
 * [2025-10-17, 17:41:02](https://news.ycombinator.com/item?id=45619544) - [OpenAI Needs $400B In The Next 12 Months](https://www.wheresyoured.at/openai400bn/)
 * [2025-10-17, 17:40:21](https://news.ycombinator.com/item?id=45619537) - [Claude Skills are awesome, maybe a bigger deal than MCP](https://simonwillison.net/2025/Oct/16/claude-skills/)
