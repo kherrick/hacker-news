@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-10-15](index.md)
 
+* [2025-10-15, 23:57:14](https://news.ycombinator.com/item?id=45599864) - [I, Sharpie](https://www.commonplace.org/p/chris-griswold-i-sharpie)
 * [2025-10-15, 23:42:12](https://news.ycombinator.com/item?id=45599727) - [Writing an LLM from scratch, part 22 – training our LLM](https://www.gilesthomas.com/2025/10/llm-from-scratch-22-finally-training-our-llm)
 * [2025-10-15, 23:36:50](https://news.ycombinator.com/item?id=45599669) - [So YouTube seems to be down](https://www.youtube.com/)
 * [2025-10-15, 23:24:47](https://news.ycombinator.com/item?id=45599567) - [IRS Open Sources its Fact Graph](https://github.com/IRS-Public/fact-graph)

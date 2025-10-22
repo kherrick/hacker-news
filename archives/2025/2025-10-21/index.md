@@ -18,6 +18,7 @@
 * [2025-10-21, 18:46:50](https://news.ycombinator.com/item?id=45659907) - [Amazon doesn't use Route 53 for amazon.com](https://www.dnscheck.co/blog/dns-monitoring/2025/10/21/aws-dog-food.html)
 * [2025-10-21, 18:44:39](https://news.ycombinator.com/item?id=45659883) - [Researchers complete first human trial on viability of enteral ventilation](https://newatlas.com/disease/butt-breathing-ignobel-prize/)
 * [2025-10-21, 18:39:18](https://news.ycombinator.com/item?id=45659812) - [Magit Is Amazing](https://heiwiper.com/posts/magit-is-awesome/)
+* [2025-10-21, 17:43:16](https://news.ycombinator.com/item?id=45658928) - [Karpathy on DeepSeek-OCR paper: Are pixels better inputs to LLMs than text?](https://twitter.com/karpathy/status/1980397031542989305)
 * [2025-10-21, 17:29:36](https://news.ycombinator.com/item?id=45658687) - [Time to build a GPU OS? Here is the first step](https://www.notion.so/yifanqiao/Solve-the-GPU-Cost-Crisis-with-kvcached-289da9d1f4d68034b17bf2774201b141)
 * [2025-10-21, 17:18:13](https://news.ycombinator.com/item?id=45658479) - [ChatGPT Atlas](https://chatgpt.com/atlas)
 * [2025-10-21, 17:03:34](https://news.ycombinator.com/item?id=45658268) - [OpenAI Set to Challenge Google with New ChatGPT Atlas Browser](https://www.bloomberg.com/news/articles/2025-10-21/openai-set-to-challenge-google-with-new-chatgpt-atlas-browser)
