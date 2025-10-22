@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-10-22, 04:20:09",
+      "https://news.ycombinator.com/item?id=45664848"
+    ],
+    [
+      "Evaluating the Infinity Cache in AMD Strix Halo",
+      "https://chipsandcheese.com/p/evaluating-the-infinity-cache-in"
+    ]
+  ],
+  [
+    [
       "2025-10-22, 02:54:38",
       "https://news.ycombinator.com/item?id=45664431"
     ],
@@ -17,16 +27,6 @@
     [
       "OpenBSD 7.8 Released",
       "https://cdn.openbsd.org/pub/OpenBSD/7.8/ANNOUNCEMENT"
-    ]
-  ],
-  [
-    [
-      "2025-10-22, 00:11:09",
-      "https://news.ycombinator.com/item?id=45663435"
-    ],
-    [
-      "Cdb: Add support for cdb64",
-      "https://cdb.cr.yp.to/download.html"
     ]
   ],
   [
@@ -181,16 +181,6 @@
   ],
   [
     [
-      "2025-10-21, 11:16:34",
-      "https://news.ycombinator.com/item?id=45654512"
-    ],
-    [
-      "Diamond Thermal Conductivity: A New Era in Chip Cooling",
-      "https://spectrum.ieee.org/diamond-thermal-conductivity"
-    ]
-  ],
-  [
-    [
       "2025-10-21, 03:53:20",
       "https://news.ycombinator.com/item?id=45652307"
     ],
@@ -267,6 +257,16 @@
     [
       "Show HN: Modshim – a new alternative to monkey-patching in Python",
       "https://github.com/joouha/modshim"
+    ]
+  ],
+  [
+    [
+      "2025-10-14, 14:34:47",
+      "https://news.ycombinator.com/item?id=45580559"
+    ],
+    [
+      "Drawing Text Isn't Simple: Benchmarking Console vs. Graphical Rendering",
+      "https://cv.co.hu/csabi/drawing-text-performance-graphical-vs-console.html"
     ]
   ],
   [
