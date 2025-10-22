@@ -1,6 +1,36 @@
 [
   [
     [
+      "2025-10-22, 13:31:17",
+      "https://news.ycombinator.com/item?id=45668882"
+    ],
+    [
+      "Sentence Transformers is joining Hugging Face",
+      "https://huggingface.co/blog/sentence-transformers-joins-hf"
+    ]
+  ],
+  [
+    [
+      "2025-10-22, 13:04:57",
+      "https://news.ycombinator.com/item?id=45668469"
+    ],
+    [
+      "The Stagnant Order. and the End of Rising Powers",
+      "https://www.foreignaffairs.com/united-states/stagnant-order-michael-beckley"
+    ]
+  ],
+  [
+    [
+      "2025-10-22, 13:00:08",
+      "https://news.ycombinator.com/item?id=45668408"
+    ],
+    [
+      "A Brain-like LLM to replace Transformers",
+      "https://arxiv.org/abs/2509.26507"
+    ]
+  ],
+  [
+    [
       "2025-10-22, 12:28:13",
       "https://news.ycombinator.com/item?id=45668022"
     ],
@@ -65,7 +95,7 @@
       "https://news.ycombinator.com/item?id=45666510"
     ],
     [
-      "Greg Newby, CEO of Project Gutenberg, has died",
+      "Greg Newby, CEO of Project Gutenberg Literary Archive Foundation, has died",
       "https://www.pgdp.net/wiki/In_Memoriam/gbnewby"
     ]
   ],
@@ -141,16 +171,6 @@
   ],
   [
     [
-      "2025-10-21, 20:31:47",
-      "https://news.ycombinator.com/item?id=45661306"
-    ],
-    [
-      "Erowid - Documenting the Complex Relationship Between Humans and Psychoactives",
-      "https://www.erowid.org"
-    ]
-  ],
-  [
-    [
       "2025-10-21, 20:28:15",
       "https://news.ycombinator.com/item?id=45661253"
     ],
@@ -201,16 +221,6 @@
   ],
   [
     [
-      "2025-10-20, 17:24:49",
-      "https://news.ycombinator.com/item?id=45646559"
-    ],
-    [
-      "Getting DeepSeek-OCR working on an Nvidia Spark via brute force with Claude Code",
-      "https://simonwillison.net/2025/Oct/20/deepseek-ocr-claude-code/"
-    ]
-  ],
-  [
-    [
       "2025-10-17, 18:39:22",
       "https://news.ycombinator.com/item?id=45620330"
     ],
@@ -227,16 +237,6 @@
     [
       "Distributed Ray-Tracing",
       "https://www.4rknova.com//blog/2019/02/24/distributed-raytracing"
-    ]
-  ],
-  [
-    [
-      "2025-10-16, 15:47:17",
-      "https://news.ycombinator.com/item?id=45606853"
-    ],
-    [
-      "Mathematicians have found a hidden 'reset button' for undoing rotation",
-      "https://www.newscientist.com/article/2499647-mathematicians-have-found-a-hidden-reset-button-for-undoing-rotation/"
     ]
   ],
   [
