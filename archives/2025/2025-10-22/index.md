@@ -4,9 +4,11 @@
 
 ### [Archives](../../index.md) for [2025-10-22](index.md)
 
+* [2025-10-22, 18:00:20](https://news.ycombinator.com/item?id=45672844) - [Rivian's Also E-bike is like nothing you've ever seen](https://www.theverge.com/news/804157/rivian-tm-b-electric-bike-price-specs-helmet-quad)
 * [2025-10-22, 17:56:54](https://news.ycombinator.com/item?id=45672788) - [42,600 ton ship to break the world record for the deepest drill at 7 miles](https://blog.bostonorganics.com/chinas-42600-ton-meng-xiang-aims-drill-7-miles-deep-breaking-records/)
 * [2025-10-22, 17:30:43](https://news.ycombinator.com/item?id=45672405) - [How do LLM's trade off lives between different categories?](https://arctotherium.substack.com/p/llm-exchange-rates-updated)
 * [2025-10-22, 17:26:06](https://news.ycombinator.com/item?id=45672336) - [JMAP for Calendars, Contacts and Files Now in Stalwart](https://stalw.art/blog/jmap-collaboration/)
+* [2025-10-22, 17:21:54](https://news.ycombinator.com/item?id=45672280) - [I See a Future in Jj](https://steveklabnik.com/writing/i-see-a-future-in-jj/)
 * [2025-10-22, 17:18:33](https://news.ycombinator.com/item?id=45672235) - [HP SitePrint](https://www.hp.com/us-en/printers/site-print/layout-robot.html)
 * [2025-10-22, 17:15:38](https://news.ycombinator.com/item?id=45672199) - [Look, Another AI Browser](https://manuelmoreale.com/thoughts/look-another-ai-browser)
 * [2025-10-22, 17:07:22](https://news.ycombinator.com/item?id=45672103) - [Team claims to have Lean 4 proof that P≠NP](https://arxiv.org/abs/2510.17829)

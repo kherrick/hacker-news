@@ -1,8 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-10-22, 18:00:20](https://news.ycombinator.com/item?id=45672844) - [Rivian's Also E-bike is like nothing you've ever seen](https://www.theverge.com/news/804157/rivian-tm-b-electric-bike-price-specs-helmet-quad)
 * [2025-10-22, 17:56:54](https://news.ycombinator.com/item?id=45672788) - [42,600 ton ship to break the world record for the deepest drill at 7 miles](https://blog.bostonorganics.com/chinas-42600-ton-meng-xiang-aims-drill-7-miles-deep-breaking-records/)
 * [2025-10-22, 17:30:43](https://news.ycombinator.com/item?id=45672405) - [How do LLM's trade off lives between different categories?](https://arctotherium.substack.com/p/llm-exchange-rates-updated)
 * [2025-10-22, 17:26:06](https://news.ycombinator.com/item?id=45672336) - [JMAP for Calendars, Contacts and Files Now in Stalwart](https://stalw.art/blog/jmap-collaboration/)
+* [2025-10-22, 17:21:54](https://news.ycombinator.com/item?id=45672280) - [I See a Future in Jj](https://steveklabnik.com/writing/i-see-a-future-in-jj/)
 * [2025-10-22, 17:18:33](https://news.ycombinator.com/item?id=45672235) - [HP SitePrint](https://www.hp.com/us-en/printers/site-print/layout-robot.html)
 * [2025-10-22, 17:15:38](https://news.ycombinator.com/item?id=45672199) - [Look, Another AI Browser](https://manuelmoreale.com/thoughts/look-another-ai-browser)
 * [2025-10-22, 17:02:10](https://news.ycombinator.com/item?id=45672035) - [Bild AI (YC W25) Is Hiring a Founding AI Engineer](https://www.ycombinator.com/companies/bild-ai/jobs/m2ilR5L-founding-engineer-applied-ai)
@@ -18,7 +20,6 @@
 * [2025-10-22, 12:48:01](https://news.ycombinator.com/item?id=45668264) - [The security paradox of local LLMs](https://quesma.com/blog/local-llms-security-paradox/)
 * [2025-10-22, 12:39:37](https://news.ycombinator.com/item?id=45668160) - [SourceFS: A 2h+ Android build becomes a 15m task with a virtual filesystem](https://www.source.dev/journal/sourcefs)
 * [2025-10-22, 12:12:28](https://news.ycombinator.com/item?id=45667866) - [Internet's biggest annoyance: Cookie laws should target browsers, not websites](https://nednex.com/en/the-internets-biggest-annoyance-why-cookie-laws-should-target-browsers-not-websites/)
-* [2025-10-22, 08:37:31](https://news.ycombinator.com/item?id=45666327) - [Knocker, a knock based access control system for your homelab](https://github.com/FarisZR/knocker)
 * [2025-10-22, 06:17:18](https://news.ycombinator.com/item?id=45665452) - [MinIO stops distributing free Docker images](https://github.com/minio/minio/issues/21647#issuecomment-3418675115)
 * [2025-10-22, 05:49:58](https://news.ycombinator.com/item?id=45665311) - [French ex-president Sarkozy begins jail sentence](https://www.bbc.com/news/articles/cvgkm2j0xelo)
 * [2025-10-22, 04:20:09](https://news.ycombinator.com/item?id=45664848) - [Evaluating the Infinity Cache in AMD Strix Halo](https://chipsandcheese.com/p/evaluating-the-infinity-cache-in)
@@ -27,7 +28,6 @@
 * [2025-10-17, 18:39:22](https://news.ycombinator.com/item?id=45620330) - [Die shots of as many CPUs and other interesting chips as possible](https://commons.wikimedia.org/wiki/User:Birdman86)
 * [2025-10-16, 14:09:21](https://news.ycombinator.com/item?id=45605556) - [Power over Ethernet (PoE) basics and beyond](https://www.edn.com/poe-basics-and-beyond-what-every-engineer-should-know/)
 * [2025-10-16, 05:50:39](https://news.ycombinator.com/item?id=45601855) - [Farming Hard Drives (2012)](https://www.backblaze.com/blog/backblaze_drive_farming/)
-* [2025-10-13, 10:18:29](https://news.ycombinator.com/item?id=45566730) - [Show HN: Cadence – A Guitar Theory App](https://cadenceguitar.com/)
 * [2025-10-13, 07:42:43](https://news.ycombinator.com/item?id=45565793) - [Go subtleties](https://harrisoncramer.me/15-go-sublteties-you-may-not-already-know/)
 * [2025-10-10, 21:02:00](https://news.ycombinator.com/item?id=45543746) - [Patina: a Rust implementation of UEFI firmware](https://github.com/OpenDevicePartnership/patina)
 
