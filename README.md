@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-10-22, 18:53:23](https://news.ycombinator.com/item?id=45673542) - [ROG Xbox Ally runs better on Linux than Windows it ships with – up to 32% faster](https://www.tomshardware.com/video-games/handheld-gaming/rog-xbox-ally-runs-better-on-linux-than-the-windows-it-ships-with-new-test-shows-up-to-32-percent-higher-fps-with-more-stable-framerates-and-quicker-sleep-resume-times)
 * [2025-10-22, 18:49:04](https://news.ycombinator.com/item?id=45673479) - [The Body Keeps the Score Is Bullshit](https://josepheverettwil.substack.com/p/the-body-keeps-the-score-is-bullshit)
 * [2025-10-22, 18:21:54](https://news.ycombinator.com/item?id=45673130) - [Mass Assignment Vulnerability Exposes Max Verstappen Passport and F1 Drivers PII](https://ian.sh/fia)
 * [2025-10-22, 17:56:54](https://news.ycombinator.com/item?id=45672788) - [42,600 ton ship to break the world record for the deepest drill at 7 miles](https://blog.bostonorganics.com/chinas-42600-ton-meng-xiang-aims-drill-7-miles-deep-breaking-records/)
@@ -26,7 +27,6 @@
 * [2025-10-19, 13:16:25](https://news.ycombinator.com/item?id=45633900) - [Cyborgs vs. rooms, two visions for the future of computing](https://interconnected.org/home/2025/10/13/dichotomy)
 * [2025-10-17, 18:39:22](https://news.ycombinator.com/item?id=45620330) - [Die shots of as many CPUs and other interesting chips as possible](https://commons.wikimedia.org/wiki/User:Birdman86)
 * [2025-10-16, 15:21:47](https://news.ycombinator.com/item?id=45606518) - [André Gorz, the Theorist Who Predicted the Revolt Against Meaningless Work (2023)](https://znetwork.org/znetarticle/andre-gorz-was-the-theorist-who-predicted-the-revolt-against-meaningless-work/)
-* [2025-10-16, 14:09:21](https://news.ycombinator.com/item?id=45605556) - [Power over Ethernet (PoE) basics and beyond](https://www.edn.com/poe-basics-and-beyond-what-every-engineer-should-know/)
 * [2025-10-16, 05:50:39](https://news.ycombinator.com/item?id=45601855) - [Farming Hard Drives (2012)](https://www.backblaze.com/blog/backblaze_drive_farming/)
 * [2025-10-13, 07:42:43](https://news.ycombinator.com/item?id=45565793) - [Go subtleties](https://harrisoncramer.me/15-go-sublteties-you-may-not-already-know/)
 * [2025-10-10, 21:02:00](https://news.ycombinator.com/item?id=45543746) - [Patina: a Rust implementation of UEFI firmware](https://github.com/OpenDevicePartnership/patina)
