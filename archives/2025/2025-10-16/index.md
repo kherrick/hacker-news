@@ -56,6 +56,7 @@
 * [2025-10-16, 12:01:35](https://news.ycombinator.com/item?id=45604313) - [Chat-GPT becomes Sex-GPT for verified adults](https://twitter.com/sama/status/1978129344598827128)
 * [2025-10-16, 12:00:45](https://news.ycombinator.com/item?id=45604308) - [Jiga (YC W21) Is Hiring Full Stacks](https://www.workatastartup.com/jobs/44310)
 * [2025-10-16, 11:21:25](https://news.ycombinator.com/item?id=45604034) - [Get a Heat Pump on Lloyds](https://www.lloydsbankinggroup.com/media/press-releases/2025/lloyds-bank-2025/get-a-heat-pump-on-lloyds.html)
+* [2025-10-16, 11:17:56](https://news.ycombinator.com/item?id=45604013) - [Show HN: Modshim – a new alternative to monkey-patching in Python](https://github.com/joouha/modshim)
 * [2025-10-16, 10:56:50](https://news.ycombinator.com/item?id=45603876) - [Solution to CIA’s kryptos sculpture is found in Smithsonian vault](https://www.nytimes.com/2025/10/16/science/kryptos-cia-solution-sanborn-auction.html)
 * [2025-10-16, 09:34:16](https://news.ycombinator.com/item?id=45603277) - [Pentagon Imposes Pre-Publication Censorship – All Major U.S. Media Walk Out](https://archivethecontrolstack.substack.com/p/archive-003-badges-surrendered-the)
 * [2025-10-16, 08:37:13](https://news.ycombinator.com/item?id=45602884) - [Waymo is bringing autonomous, driverless ride-hailing to London in 2026](https://9to5google.com/2025/10/15/waymo-london-2026/)
