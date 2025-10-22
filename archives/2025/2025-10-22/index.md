@@ -4,7 +4,12 @@
 
 ### [Archives](../../index.md) for [2025-10-22](index.md)
 
+* [2025-10-22, 13:53:17](https://news.ycombinator.com/item?id=45669195) - [Tiny sugar spoons are popping up on NYC fast-food menus](https://gothamist.com/news/tiny-sugar-spoons-are-popping-up-on-nyc-fast-food-menus-youre-being-warned)
+* [2025-10-22, 13:50:20](https://news.ycombinator.com/item?id=45669142) - [Linux Capabilities Revisited](https://dfir.ch/posts/linux_capabilities/)
+* [2025-10-22, 13:39:26](https://news.ycombinator.com/item?id=45668990) - [AI assistants misrepresent news content 45% of the time](https://www.bbc.co.uk/mediacentre/2025/new-ebu-research-ai-assistants-news-content)
 * [2025-10-22, 13:31:17](https://news.ycombinator.com/item?id=45668882) - [Sentence Transformers is joining Hugging Face](https://huggingface.co/blog/sentence-transformers-joins-hf)
+* [2025-10-22, 13:25:51](https://news.ycombinator.com/item?id=45668805) - [Cigarette-smuggling balloons force closure of Lithuanian airport](https://www.theguardian.com/world/2025/oct/22/cigarette-smuggling-balloons-force-closure-vilnius-airport-lithuania)
+* [2025-10-22, 13:10:26](https://news.ycombinator.com/item?id=45668561) - [Chezmoi introduces ban on LLM-generated contributions](https://www.chezmoi.io/developer-guide/)
 * [2025-10-22, 13:04:57](https://news.ycombinator.com/item?id=45668469) - [The Stagnant Order. and the End of Rising Powers](https://www.foreignaffairs.com/united-states/stagnant-order-michael-beckley)
 * [2025-10-22, 13:03:06](https://news.ycombinator.com/item?id=45668453) - [Democracy and the open internet die in daylight](https://heatherburns.tech/2025/10/22/democracy-and-the-open-internet-die-in-daylight/)
 * [2025-10-22, 13:00:08](https://news.ycombinator.com/item?id=45668408) - [A Brain-like LLM to replace Transformers](https://arxiv.org/abs/2509.26507)
@@ -20,6 +25,7 @@
 * [2025-10-22, 09:05:21](https://news.ycombinator.com/item?id=45666510) - [Greg Newby, CEO of the Project Gutenberg Literary Archive Foundation, Has Died](https://www.pgdp.net/wiki/In_Memoriam/gbnewby)
 * [2025-10-22, 08:37:31](https://news.ycombinator.com/item?id=45666327) - [Knocker, a knock based access control system for your homelab](https://github.com/FarisZR/knocker)
 * [2025-10-22, 07:14:40](https://news.ycombinator.com/item?id=45665796) - [Greenland Ditches Starlink for French Satellite Service](https://www.dagens.com/technology/greenland-ditches-starlink-for-french-satellite-service)
+* [2025-10-22, 06:17:18](https://news.ycombinator.com/item?id=45665452) - [MinIO stops distributing free Docker images](https://github.com/minio/minio/issues/21647#issuecomment-3418675115)
 * [2025-10-22, 06:17:18](https://news.ycombinator.com/item?id=45665452) - [MinIO (apparently) becomes source-only](https://github.com/minio/minio/issues/21647)
 * [2025-10-22, 05:49:58](https://news.ycombinator.com/item?id=45665311) - [French ex-president Sarkozy begins jail sentence](https://www.bbc.com/news/articles/cvgkm2j0xelo)
 * [2025-10-22, 04:20:09](https://news.ycombinator.com/item?id=45664848) - [Evaluating the Infinity Cache in AMD Strix Halo](https://chipsandcheese.com/p/evaluating-the-infinity-cache-in)
