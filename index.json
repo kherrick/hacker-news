@@ -151,16 +151,6 @@
   ],
   [
     [
-      "2025-10-21, 15:51:33",
-      "https://news.ycombinator.com/item?id=45657287"
-    ],
-    [
-      "Foreign hackers breached a US nuclear weapons plant via SharePoint flaws",
-      "https://www.csoonline.com/article/4074962/foreign-hackers-breached-a-us-nuclear-weapons-plant-via-sharepoint-flaws.html"
-    ]
-  ],
-  [
-    [
       "2025-10-21, 14:24:26",
       "https://news.ycombinator.com/item?id=45656223"
     ],
@@ -247,6 +237,16 @@
     [
       "Show HN: Modshim – A new alternative to monkey-patching in Python",
       "https://github.com/joouha/modshim"
+    ]
+  ],
+  [
+    [
+      "2025-10-15, 06:29:18",
+      "https://news.ycombinator.com/item?id=45588752"
+    ],
+    [
+      "Evaluating Argon2 Adoption and Effectiveness in Real-World Software",
+      "https://arxiv.org/abs/2504.17121"
     ]
   ],
   [
