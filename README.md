@@ -1,5 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-10-22, 11:23:33](https://news.ycombinator.com/item?id=45667458) - [Starcloud](https://blogs.nvidia.com/blog/starcloud/)
+* [2025-10-22, 11:23:12](https://news.ycombinator.com/item?id=45667456) - [HarmonyOS 6 Full Overview: New Design, AI Features and Privacy Upgrades [video]](https://www.youtube.com/watch?v=KzpXObhArco)
+* [2025-10-22, 10:15:18](https://news.ycombinator.com/item?id=45666986) - [Show HN: Coach Thyself – Replace your morning scroll with structured journaling](https://thyself.coach/)
 * [2025-10-22, 09:05:21](https://news.ycombinator.com/item?id=45666510) - [Greg Newby, CEO of the Project Gutenberg Literary Archive Foundation, Has Died](https://www.pgdp.net/wiki/In_Memoriam/gbnewby)
 * [2025-10-22, 08:37:31](https://news.ycombinator.com/item?id=45666327) - [Knocker, a knock based access control system for your homelab](https://github.com/FarisZR/knocker)
 * [2025-10-22, 07:14:40](https://news.ycombinator.com/item?id=45665796) - [Greenland Ditches Starlink for French Satellite Service](https://www.dagens.com/technology/greenland-ditches-starlink-for-french-satellite-service)
@@ -13,9 +16,7 @@
 * [2025-10-21, 20:28:15](https://news.ycombinator.com/item?id=45661253) - [Replacing a $3000/mo Heroku bill with a $55/mo server](https://disco.cloud/blog/how-idealistorg-replaced-a-3000mo-heroku-bill-with-a-55-server/)
 * [2025-10-21, 18:44:39](https://news.ycombinator.com/item?id=45659883) - [Researchers complete first human trial on viability of enteral ventilation](https://newatlas.com/disease/butt-breathing-ignobel-prize/)
 * [2025-10-21, 17:18:13](https://news.ycombinator.com/item?id=45658479) - [ChatGPT Atlas](https://chatgpt.com/atlas)
-* [2025-10-21, 16:31:51](https://news.ycombinator.com/item?id=45657827) - [Build your own database](https://www.nan.fyi/database)
 * [2025-10-21, 15:55:41](https://news.ycombinator.com/item?id=45657345) - [Ask HN: Our AWS account got compromised after their outage](https://news.ycombinator.com/item?id=45657345)
-* [2025-10-21, 15:51:33](https://news.ycombinator.com/item?id=45657287) - [Foreign hackers breached a US nuclear weapons plant via SharePoint flaws](https://www.csoonline.com/article/4074962/foreign-hackers-breached-a-us-nuclear-weapons-plant-via-sharepoint-flaws.html)
 * [2025-10-21, 14:24:26](https://news.ycombinator.com/item?id=45656223) - [LLMs can get \"brain rot\"](https://llm-brain-rot.github.io/)
 * [2025-10-21, 12:58:43](https://news.ycombinator.com/item?id=45655188) - [NASA chief suggests SpaceX may be booted from moon mission](https://www.cnn.com/2025/10/20/science/nasa-spacex-moon-landing-contract-sean-duffy)
 * [2025-10-21, 12:55:59](https://news.ycombinator.com/item?id=45655161) - [Neural audio codecs: how to get audio into LLMs](https://kyutai.org/next/codec-explainer)
@@ -29,7 +30,6 @@
 * [2025-10-14, 14:43:45](https://news.ycombinator.com/item?id=45580683) - [Principles and Methodologies for Serial Performance Optimization](https://danglingpointers.substack.com/p/principles-and-methodologies-for)
 * [2025-10-13, 10:18:29](https://news.ycombinator.com/item?id=45566730) - [Show HN: Cadence – A Guitar Theory App](https://cadenceguitar.com/)
 * [2025-10-13, 07:42:43](https://news.ycombinator.com/item?id=45565793) - [Go Subtleties You May Not Know](https://harrisoncramer.me/15-go-sublteties-you-may-not-already-know/)
-* [2025-10-13, 05:01:11](https://news.ycombinator.com/item?id=45564821) - [Minds, brains, and programs (1980) [pdf]](https://home.csulb.edu/~cwallis/382/readings/482/searle.minds.brains.programs.bbs.1980.pdf)
 
 ## [Archives](archives/index.md)
 
