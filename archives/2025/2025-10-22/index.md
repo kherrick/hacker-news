@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-10-22](index.md)
 
+* [2025-10-22, 13:31:17](https://news.ycombinator.com/item?id=45668882) - [Sentence Transformers is joining Hugging Face](https://huggingface.co/blog/sentence-transformers-joins-hf)
+* [2025-10-22, 13:04:57](https://news.ycombinator.com/item?id=45668469) - [The Stagnant Order. and the End of Rising Powers](https://www.foreignaffairs.com/united-states/stagnant-order-michael-beckley)
+* [2025-10-22, 13:00:08](https://news.ycombinator.com/item?id=45668408) - [A Brain-like LLM to replace Transformers](https://arxiv.org/abs/2509.26507)
 * [2025-10-22, 12:28:13](https://news.ycombinator.com/item?id=45668022) - [Tesla Recalls Almost 13,000 EVs over Risk of Battery Power Loss](https://www.bloomberg.com/news/articles/2025-10-22/tesla-recalls-almost-13-000-evs-over-risk-of-battery-power-loss)
 * [2025-10-22, 12:27:16](https://news.ycombinator.com/item?id=45668008) - [Jaguar Land Rover hack cost UK economy an estimated $2.5B](https://www.reuters.com/sustainability/boards-policy-regulation/jaguar-land-rover-hack-cost-uk-economy-25-billion-report-says-2025-10-22/)
 * [2025-10-22, 12:21:39](https://news.ycombinator.com/item?id=45667949) - [Subprime Lender PrimaLend Enters Bankruptcy After Bond Default](https://www.bloomberg.com/news/articles/2025-10-22/subprime-lender-primalend-enters-bankruptcy-after-bond-default)
