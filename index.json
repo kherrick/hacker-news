@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-10-22, 20:13:31",
+      "https://news.ycombinator.com/item?id=45674568"
+    ],
+    [
+      "Why SSA Compilers?",
+      "https://mcyoung.xyz/2025/10/21/ssa-1/"
+    ]
+  ],
+  [
+    [
       "2025-10-22, 19:46:24",
       "https://news.ycombinator.com/item?id=45674209"
     ],
@@ -21,6 +31,16 @@
   ],
   [
     [
+      "2025-10-22, 19:38:54",
+      "https://news.ycombinator.com/item?id=45674126"
+    ],
+    [
+      "Show HN: Cuq – Formal Verification of Rust GPU Kernels",
+      "https://github.com/neelsomani/cuq"
+    ]
+  ],
+  [
+    [
       "2025-10-22, 18:53:23",
       "https://news.ycombinator.com/item?id=45673542"
     ],
@@ -31,32 +51,12 @@
   ],
   [
     [
-      "2025-10-22, 18:49:04",
-      "https://news.ycombinator.com/item?id=45673479"
-    ],
-    [
-      "The Body Keeps the Score Is Bullshit",
-      "https://josepheverettwil.substack.com/p/the-body-keeps-the-score-is-bullshit"
-    ]
-  ],
-  [
-    [
       "2025-10-22, 18:21:54",
       "https://news.ycombinator.com/item?id=45673130"
     ],
     [
       "Mass Assignment Vulnerability Exposes Max Verstappen Passport and F1 Drivers PII",
       "https://ian.sh/fia"
-    ]
-  ],
-  [
-    [
-      "2025-10-22, 17:56:54",
-      "https://news.ycombinator.com/item?id=45672788"
-    ],
-    [
-      "42,600 ton ship to break the world record for the deepest drill at 7 miles",
-      "https://blog.bostonorganics.com/chinas-42600-ton-meng-xiang-aims-drill-7-miles-deep-breaking-records/"
     ]
   ],
   [
@@ -75,7 +75,7 @@
       "https://news.ycombinator.com/item?id=45672280"
     ],
     [
-      "I See a Future in Jj",
+      "I see a future in jj",
       "https://steveklabnik.com/writing/i-see-a-future-in-jj/"
     ]
   ],
@@ -97,16 +97,6 @@
     [
       "Look, Another AI Browser",
       "https://manuelmoreale.com/thoughts/look-another-ai-browser"
-    ]
-  ],
-  [
-    [
-      "2025-10-22, 17:14:21",
-      "https://news.ycombinator.com/item?id=45672181"
-    ],
-    [
-      "I built MindMaps for Linux and Git cmdz with quiz, typing game and cheatsheet",
-      "https://mindmapsonline.com/maps_list"
     ]
   ],
   [
@@ -227,6 +217,16 @@
     [
       "Internet's biggest annoyance: Cookie laws should target browsers, not websites",
       "https://nednex.com/en/the-internets-biggest-annoyance-why-cookie-laws-should-target-browsers-not-websites/"
+    ]
+  ],
+  [
+    [
+      "2025-10-22, 09:03:40",
+      "https://news.ycombinator.com/item?id=45666497"
+    ],
+    [
+      "Element: setHTML() method",
+      "https://developer.mozilla.org/en-US/docs/Web/API/Element/setHTML"
     ]
   ],
   [
