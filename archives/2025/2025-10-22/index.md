@@ -4,11 +4,14 @@
 
 ### [Archives](../../index.md) for [2025-10-22](index.md)
 
+* [2025-10-22, 14:38:03](https://news.ycombinator.com/item?id=45669796) - [How Apple's walled garden protects ICE](https://www.theverge.com/column/803693/ice-epic-games-apple-app-store)
 * [2025-10-22, 14:22:41](https://news.ycombinator.com/item?id=45669593) - [Cryptographic Issues in Cloudflare's Circl FourQ Implementation (CVE-2025-8556)](https://www.botanica.software/blog/cryptographic-issues-in-cloudflares-circl-fourq-implementation)
+* [2025-10-22, 14:08:08](https://news.ycombinator.com/item?id=45669414) - [Who benefits from the MAHA anti-science push?](https://apnews.com/article/maha-supplements-wellness-rfk-jr-vaccine-raw-milk-dc8ecf998ef3835adbf32fc88c14af07)
 * [2025-10-22, 13:53:17](https://news.ycombinator.com/item?id=45669195) - [Tiny sugar spoons are popping up on NYC fast-food menus](https://gothamist.com/news/tiny-sugar-spoons-are-popping-up-on-nyc-fast-food-menus-youre-being-warned)
 * [2025-10-22, 13:51:17](https://news.ycombinator.com/item?id=45669159) - [The Apple factory: What perfect coordination feels like](https://physical-ai.ghost.io/the-apple-factory-what-perfect-coordination-feels-like/)
 * [2025-10-22, 13:50:20](https://news.ycombinator.com/item?id=45669142) - [Linux Capabilities Revisited](https://dfir.ch/posts/linux_capabilities/)
 * [2025-10-22, 13:39:26](https://news.ycombinator.com/item?id=45668990) - [AI assistants misrepresent news content 45% of the time](https://www.bbc.co.uk/mediacentre/2025/new-ebu-research-ai-assistants-news-content)
+* [2025-10-22, 13:33:34](https://news.ycombinator.com/item?id=45668909) - [Comparison: H.264 vs. H.265/HEVC vs. VP9](https://www.red5.net/blog/h264-vs-h265-vp9/)
 * [2025-10-22, 13:31:17](https://news.ycombinator.com/item?id=45668882) - [Sentence Transformers is joining Hugging Face](https://huggingface.co/blog/sentence-transformers-joins-hf)
 * [2025-10-22, 13:25:51](https://news.ycombinator.com/item?id=45668805) - [Cigarette-smuggling balloons force closure of Lithuanian airport](https://www.theguardian.com/world/2025/oct/22/cigarette-smuggling-balloons-force-closure-vilnius-airport-lithuania)
 * [2025-10-22, 13:10:26](https://news.ycombinator.com/item?id=45668561) - [Chezmoi introduces ban on LLM-generated contributions](https://www.chezmoi.io/developer-guide/)
