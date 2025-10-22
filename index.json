@@ -21,26 +21,6 @@
   ],
   [
     [
-      "2025-10-22, 14:08:08",
-      "https://news.ycombinator.com/item?id=45669414"
-    ],
-    [
-      "Who benefits from the MAHA anti-science push?",
-      "https://apnews.com/article/maha-supplements-wellness-rfk-jr-vaccine-raw-milk-dc8ecf998ef3835adbf32fc88c14af07"
-    ]
-  ],
-  [
-    [
-      "2025-10-22, 13:53:17",
-      "https://news.ycombinator.com/item?id=45669195"
-    ],
-    [
-      "Tiny sugar spoons are popping up on NYC fast-food menus",
-      "https://gothamist.com/news/tiny-sugar-spoons-are-popping-up-on-nyc-fast-food-menus-youre-being-warned"
-    ]
-  ],
-  [
-    [
       "2025-10-22, 13:50:20",
       "https://news.ycombinator.com/item?id=45669142"
     ],
@@ -57,16 +37,6 @@
     [
       "AI assistants misrepresent news content 45% of the time",
       "https://www.bbc.co.uk/mediacentre/2025/new-ebu-research-ai-assistants-news-content"
-    ]
-  ],
-  [
-    [
-      "2025-10-22, 13:33:34",
-      "https://news.ycombinator.com/item?id=45668909"
-    ],
-    [
-      "Comparison: H.264 vs. H.265/HEVC vs. VP9",
-      "https://www.red5.net/blog/h264-vs-h265-vp9/"
     ]
   ],
   [
@@ -97,6 +67,16 @@
     [
       "The security paradox of local LLMs",
       "https://quesma.com/blog/local-llms-security-paradox/"
+    ]
+  ],
+  [
+    [
+      "2025-10-22, 12:39:37",
+      "https://news.ycombinator.com/item?id=45668160"
+    ],
+    [
+      "SourceFS: A 2h+ Android build becomes a 15m task with a virtual filesystem",
+      "https://www.source.dev/journal/sourcefs"
     ]
   ],
   [
@@ -227,6 +207,26 @@
     [
       "LLMs can get \"brain rot\"",
       "https://llm-brain-rot.github.io/"
+    ]
+  ],
+  [
+    [
+      "2025-10-21, 12:58:43",
+      "https://news.ycombinator.com/item?id=45655188"
+    ],
+    [
+      "NASA chief suggests SpaceX may be booted from moon mission",
+      "https://www.cnn.com/2025/10/20/science/nasa-spacex-moon-landing-contract-sean-duffy"
+    ]
+  ],
+  [
+    [
+      "2025-10-21, 12:55:59",
+      "https://news.ycombinator.com/item?id=45655161"
+    ],
+    [
+      "Neural audio codecs: how to get audio into LLMs",
+      "https://kyutai.org/next/codec-explainer"
     ]
   ],
   [
