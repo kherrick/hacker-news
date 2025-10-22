@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-10-22](index.md)
 
+* [2025-10-22, 04:20:09](https://news.ycombinator.com/item?id=45664848) - [Evaluating the Infinity Cache in AMD Strix Halo](https://chipsandcheese.com/p/evaluating-the-infinity-cache-in)
 * [2025-10-22, 02:54:38](https://news.ycombinator.com/item?id=45664431) - [Show HN: AutoLearn Skills for self-improving agents](https://www.autolearn.dev)
 * [2025-10-22, 02:42:38](https://news.ycombinator.com/item?id=45664358) - [I Bought $250k Worth of Physical Nickels](https://twitter.com/opinioncasino/status/1980038177785000114)
 * [2025-10-22, 02:02:58](https://news.ycombinator.com/item?id=45664147) - [OpenBSD 7.8 Released](https://cdn.openbsd.org/pub/OpenBSD/7.8/ANNOUNCEMENT)
