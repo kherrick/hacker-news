@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2025-10-22](index.md)
 
+* [2025-10-22, 12:28:13](https://news.ycombinator.com/item?id=45668022) - [Tesla Recalls Almost 13,000 EVs over Risk of Battery Power Loss](https://www.bloomberg.com/news/articles/2025-10-22/tesla-recalls-almost-13-000-evs-over-risk-of-battery-power-loss)
+* [2025-10-22, 12:27:16](https://news.ycombinator.com/item?id=45668008) - [Jaguar Land Rover hack cost UK economy an estimated $2.5B](https://www.reuters.com/sustainability/boards-policy-regulation/jaguar-land-rover-hack-cost-uk-economy-25-billion-report-says-2025-10-22/)
+* [2025-10-22, 12:21:39](https://news.ycombinator.com/item?id=45667949) - [Subprime Lender PrimaLend Enters Bankruptcy After Bond Default](https://www.bloomberg.com/news/articles/2025-10-22/subprime-lender-primalend-enters-bankruptcy-after-bond-default)
+* [2025-10-22, 12:12:28](https://news.ycombinator.com/item?id=45667866) - [Internet's biggest annoyance: Cookie laws should target browsers, not websites](https://nednex.com/en/the-internets-biggest-annoyance-why-cookie-laws-should-target-browsers-not-websites/)
 * [2025-10-22, 12:02:02](https://news.ycombinator.com/item?id=45667770) - [Infracost (YC W21) Hiring First Dev Advocate to Shift FinOps Left](https://www.ycombinator.com/companies/infracost/jobs/NzwUQ7c-senior-developer-advocate)
 * [2025-10-22, 11:43:06](https://news.ycombinator.com/item?id=45667615) - [A Word on Omarchy](https://xn--gckvb8fzb.com/a-word-on-omarchy/)
 * [2025-10-22, 11:23:33](https://news.ycombinator.com/item?id=45667458) - [Starcloud](https://blogs.nvidia.com/blog/starcloud/)

@@ -11,6 +11,7 @@
 * [2025-10-16, 22:27:00](https://news.ycombinator.com/item?id=45611444) - [The Emulator's Gambit: Executing Code from Non-Executable Memory](https://redops.at/en/blog/the-emulators-gambit-executing-code-from-non-executable-memory)
 * [2025-10-16, 22:04:57](https://news.ycombinator.com/item?id=45611252) - [K8s with 1M nodes](https://bchess.github.io/k8s-1m/)
 * [2025-10-16, 21:36:43](https://news.ycombinator.com/item?id=45610996) - [Understanding Spec-Driven-Development: Kiro, Spec-Kit, and Tessl](https://martinfowler.com/articles/exploring-gen-ai/sdd-3-tools.html)
+* [2025-10-16, 21:32:27](https://news.ycombinator.com/item?id=45610939) - [Distributed Ray-Tracing](https://www.4rknova.com//blog/2019/02/24/distributed-raytracing)
 * [2025-10-16, 21:10:23](https://news.ycombinator.com/item?id=45610696) - [Ron Conway Resigns Salesforce Foundation over Benioff's National Guard Comments](https://www.politico.com/news/2025/10/16/ron-conway-salesforce-san-francisco-00611579)
 * [2025-10-16, 21:03:30](https://news.ycombinator.com/item?id=45610636) - [Nobody Cares How Hard You Work](https://alifeengineered.substack.com/p/nobody-cares-how-hard-you-work)
 * [2025-10-16, 21:02:11](https://news.ycombinator.com/item?id=45610620) - [Hacker News – The Good Parts](https://smartmic.bearblog.dev/why-hacker-news/)
