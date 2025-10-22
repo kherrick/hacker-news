@@ -5,7 +5,9 @@
 * [2025-10-22, 19:42:36](https://news.ycombinator.com/item?id=45674166) - [Ovi](https://github.com/character-ai/Ovi)
 * [2025-10-22, 19:38:54](https://news.ycombinator.com/item?id=45674126) - [Show HN: Cuq – Formal Verification of Rust GPU Kernels](https://github.com/neelsomani/cuq)
 * [2025-10-22, 18:53:23](https://news.ycombinator.com/item?id=45673542) - [ROG Xbox Ally runs better on Linux than Windows it ships with – up to 32% faster](https://www.tomshardware.com/video-games/handheld-gaming/rog-xbox-ally-runs-better-on-linux-than-the-windows-it-ships-with-new-test-shows-up-to-32-percent-higher-fps-with-more-stable-framerates-and-quicker-sleep-resume-times)
+* [2025-10-22, 18:49:04](https://news.ycombinator.com/item?id=45673479) - [Criticisms of \"The Body Keeps the Score\"](https://josepheverettwil.substack.com/p/the-body-keeps-the-score-is-bullshit)
 * [2025-10-22, 18:21:54](https://news.ycombinator.com/item?id=45673130) - [Mass Assignment Vulnerability Exposes Max Verstappen Passport and F1 Drivers PII](https://ian.sh/fia)
+* [2025-10-22, 18:00:20](https://news.ycombinator.com/item?id=45672844) - [Rivian's TM-B electric bike](https://www.theverge.com/news/804157/rivian-tm-b-electric-bike-price-specs-helmet-quad)
 * [2025-10-22, 17:26:06](https://news.ycombinator.com/item?id=45672336) - [JMAP for Calendars, Contacts and Files Now in Stalwart](https://stalw.art/blog/jmap-collaboration/)
 * [2025-10-22, 17:21:54](https://news.ycombinator.com/item?id=45672280) - [I see a future in jj](https://steveklabnik.com/writing/i-see-a-future-in-jj/)
 * [2025-10-22, 17:18:33](https://news.ycombinator.com/item?id=45672235) - [HP SitePrint](https://www.hp.com/us-en/printers/site-print/layout-robot.html)
@@ -13,7 +15,6 @@
 * [2025-10-22, 17:02:10](https://news.ycombinator.com/item?id=45672035) - [Bild AI (YC W25) Is Hiring a Founding AI Engineer](https://www.ycombinator.com/companies/bild-ai/jobs/m2ilR5L-founding-engineer-applied-ai)
 * [2025-10-22, 16:50:28](https://news.ycombinator.com/item?id=45671871) - [Introducing Galaxy XR, the first Android XR headset](https://blog.google/products/android/samsung-galaxy-xr/)
 * [2025-10-22, 16:44:43](https://news.ycombinator.com/item?id=45671778) - [Meta is axing 600 roles across its AI division](https://www.theverge.com/news/804253/meta-ai-research-layoffs-fair-superintelligence)
-* [2025-10-22, 15:20:59](https://news.ycombinator.com/item?id=45670516) - [The Logarithmic Time Perception Hypothesis](http://www.kafalas.com/Logtime.html)
 * [2025-10-22, 15:16:19](https://news.ycombinator.com/item?id=45670443) - [Willow quantum chip demonstrates verifiable quantum advantage on hardware](https://blog.google/technology/research/quantum-echoes-willow-verifiable-quantum-advantage/)
 * [2025-10-22, 14:53:54](https://news.ycombinator.com/item?id=45670052) - [Scripts I wrote that I use all the time](https://evanhahn.com/scripts-i-wrote-that-i-use-all-the-time/)
 * [2025-10-22, 14:45:03](https://news.ycombinator.com/item?id=45669906) - [Show HN: Create interactive diagrams with pop-up content](https://vexlio.com/features/interactive-diagrams-with-popups/)
@@ -29,7 +30,6 @@
 * [2025-10-18, 07:30:08](https://news.ycombinator.com/item?id=45625590) - [The Tonnetz](https://thetonnetz.com/)
 * [2025-10-17, 18:39:22](https://news.ycombinator.com/item?id=45620330) - [Die shots of as many CPUs and other interesting chips as possible](https://commons.wikimedia.org/wiki/User:Birdman86)
 * [2025-10-16, 15:21:47](https://news.ycombinator.com/item?id=45606518) - [André Gorz, the Theorist Who Predicted the Revolt Against Meaningless Work (2023)](https://znetwork.org/znetarticle/andre-gorz-was-the-theorist-who-predicted-the-revolt-against-meaningless-work/)
-* [2025-10-10, 21:02:00](https://news.ycombinator.com/item?id=45543746) - [Patina: a Rust implementation of UEFI firmware](https://github.com/OpenDevicePartnership/patina)
 
 ## [Archives](archives/index.md)
 
