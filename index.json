@@ -111,16 +111,6 @@
   ],
   [
     [
-      "2025-10-21, 17:01:02",
-      "https://news.ycombinator.com/item?id=45658221"
-    ],
-    [
-      "Flexport Is Hiring SDRs in Chicago",
-      "https://job-boards.greenhouse.io/flexport/jobs/5690976?gh_jid=5690976"
-    ]
-  ],
-  [
-    [
       "2025-10-21, 16:31:51",
       "https://news.ycombinator.com/item?id=45657827"
     ],
@@ -147,6 +137,16 @@
     [
       "Foreign hackers breached a US nuclear weapons plant via SharePoint flaws",
       "https://www.csoonline.com/article/4074962/foreign-hackers-breached-a-us-nuclear-weapons-plant-via-sharepoint-flaws.html"
+    ]
+  ],
+  [
+    [
+      "2025-10-21, 15:22:25",
+      "https://news.ycombinator.com/item?id=45656952"
+    ],
+    [
+      "Show HN: Katakate – Dozens of VMs per node for safe code exec",
+      "https://github.com/Katakate/k7"
     ]
   ],
   [
