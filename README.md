@@ -1,9 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-10-22, 21:01:07](https://news.ycombinator.com/item?id=45675090) - [InpharmD (YC W21) Is Hiring – NLP Engineer](https://inpharmd.com/jobs/inpharmd-is-hiring-ai-ml-engineer)
+* [2025-10-22, 20:46:06](https://news.ycombinator.com/item?id=45674923) - [Rethinking CQRS: An Interview on OpenCQRS](https://docs.eventsourcingdb.io/blog/2025/10/23/rethinking-cqrs-an-interview-on-opencqrs/)
 * [2025-10-22, 20:13:31](https://news.ycombinator.com/item?id=45674568) - [Why SSA Compilers?](https://mcyoung.xyz/2025/10/21/ssa-1/)
 * [2025-10-22, 19:46:24](https://news.ycombinator.com/item?id=45674209) - [Django 6.0 beta 1 released](https://www.djangoproject.com/weblog/2025/oct/22/django-60-beta-released/)
-* [2025-10-22, 19:42:36](https://news.ycombinator.com/item?id=45674166) - [Ovi](https://github.com/character-ai/Ovi)
+* [2025-10-22, 19:42:36](https://news.ycombinator.com/item?id=45674166) - [Ovi: Twin backbone cross-modal fusion for audio-video generation](https://github.com/character-ai/Ovi)
 * [2025-10-22, 19:38:54](https://news.ycombinator.com/item?id=45674126) - [Show HN: Cuq – Formal Verification of Rust GPU Kernels](https://github.com/neelsomani/cuq)
 * [2025-10-22, 18:53:23](https://news.ycombinator.com/item?id=45673542) - [ROG Xbox Ally runs better on Linux than Windows it ships with](https://www.tomshardware.com/video-games/handheld-gaming/rog-xbox-ally-runs-better-on-linux-than-the-windows-it-ships-with-new-test-shows-up-to-32-percent-higher-fps-with-more-stable-framerates-and-quicker-sleep-resume-times)
 * [2025-10-22, 18:49:04](https://news.ycombinator.com/item?id=45673479) - [Criticisms of \"The Body Keeps the Score\"](https://josepheverettwil.substack.com/p/the-body-keeps-the-score-is-bullshit)
@@ -19,7 +20,7 @@
 * [2025-10-22, 14:45:03](https://news.ycombinator.com/item?id=45669906) - [Show HN: Create interactive diagrams with pop-up content](https://vexlio.com/features/interactive-diagrams-with-popups/)
 * [2025-10-22, 14:22:41](https://news.ycombinator.com/item?id=45669593) - [Cryptographic Issues in Cloudflare's Circl FourQ Implementation (CVE-2025-8556)](https://www.botanica.software/blog/cryptographic-issues-in-cloudflares-circl-fourq-implementation)
 * [2025-10-22, 13:50:20](https://news.ycombinator.com/item?id=45669142) - [Linux Capabilities Revisited](https://dfir.ch/posts/linux_capabilities/)
-* [2025-10-22, 13:39:26](https://news.ycombinator.com/item?id=45668990) - [AI assistants misrepresent news content 45% of the time](https://www.bbc.co.uk/mediacentre/2025/new-ebu-research-ai-assistants-news-content)
+* [2025-10-22, 12:48:01](https://news.ycombinator.com/item?id=45668264) - [The security paradox of local LLMs](https://quesma.com/blog/local-llms-security-paradox/)
 * [2025-10-22, 12:39:37](https://news.ycombinator.com/item?id=45668160) - [SourceFS: A 2h+ Android build becomes a 15m task with a virtual filesystem](https://www.source.dev/journal/sourcefs)
 * [2025-10-22, 12:12:28](https://news.ycombinator.com/item?id=45667866) - [Internet's biggest annoyance: Cookie laws should target browsers, not websites](https://nednex.com/en/the-internets-biggest-annoyance-why-cookie-laws-should-target-browsers-not-websites/)
 * [2025-10-22, 09:05:21](https://news.ycombinator.com/item?id=45666510) - [Greg Newby, CEO of Project Gutenberg Literary Archive Foundation, has died](https://www.pgdp.net/wiki/In_Memoriam/gbnewby)
@@ -27,7 +28,6 @@
 * [2025-10-22, 06:17:18](https://news.ycombinator.com/item?id=45665452) - [MinIO stops distributing free Docker images](https://github.com/minio/minio/issues/21647#issuecomment-3418675115)
 * [2025-10-21, 22:10:18](https://news.ycombinator.com/item?id=45662368) - [Designing software for things that rot](https://drobinin.com/posts/designing-software-for-things-that-rot/)
 * [2025-10-18, 07:30:08](https://news.ycombinator.com/item?id=45625590) - [The Tonnetz](https://thetonnetz.com/)
-* [2025-10-17, 18:39:22](https://news.ycombinator.com/item?id=45620330) - [Die shots of as many CPUs and other interesting chips as possible](https://commons.wikimedia.org/wiki/User:Birdman86)
 * [2025-10-16, 15:21:47](https://news.ycombinator.com/item?id=45606518) - [André Gorz, the Theorist Who Predicted the Revolt Against Meaningless Work (2023)](https://znetwork.org/znetarticle/andre-gorz-was-the-theorist-who-predicted-the-revolt-against-meaningless-work/)
 * [2025-10-14, 22:57:36](https://news.ycombinator.com/item?id=45586006) - [Common yeast can survive Martian conditions](https://phys.org/news/2025-10-common-yeast-survive-martian-conditions.html)
 
