@@ -18,6 +18,7 @@
 * [2025-10-18, 15:52:08](https://news.ycombinator.com/item?id=45628279) - [Solving the NYTimes Pips puzzle with a constraint solver](https://www.righto.com/2025/10/solve-nyt-pips-with-constraints.html)
 * [2025-10-18, 15:39:47](https://news.ycombinator.com/item?id=45628190) - [Attention Is a Luxury Good](https://seths.blog/2025/10/attention-is-a-luxury-good/)
 * [2025-10-18, 15:39:29](https://news.ycombinator.com/item?id=45628186) - [Meta convinces Blue Owl to cut $30B check for its Hyperion AI super cluster](https://www.theregister.com/2025/10/17/meta_blue_owl_hyperion/)
+* [2025-10-18, 15:37:08](https://news.ycombinator.com/item?id=45628169) - [LibCube: Find new sounds from audio synths easier](https://github.com/cslr/libcube-public/wiki)
 * [2025-10-18, 15:14:58](https://news.ycombinator.com/item?id=45628022) - [Rapid amyloid-β clearance and cognitive recovery by modulating BBB transport](https://www.nature.com/articles/s41392-025-02426-1)
 * [2025-10-18, 14:33:22](https://news.ycombinator.com/item?id=45627692) - [Flowistry: An IDE plugin for Rust that focuses on relevant code](https://github.com/willcrichton/flowistry)
 * [2025-10-18, 13:52:24](https://news.ycombinator.com/item?id=45627394) - [1,180 root system drawings](https://images.wur.nl/digital/collection/coll13/search)
