@@ -21,16 +21,6 @@
   ],
   [
     [
-      "2025-10-22, 22:15:29",
-      "https://news.ycombinator.com/item?id=45675851"
-    ],
-    [
-      "Iceland reports the presence of mosquitoes as climate warms",
-      "https://www.npr.org/2025/10/22/nx-s1-5582748/iceland-mosquitoes-first-time"
-    ]
-  ],
-  [
-    [
       "2025-10-22, 21:01:07",
       "https://news.ycombinator.com/item?id=45675090"
     ],
@@ -187,6 +177,16 @@
     [
       "Cryptographic Issues in Cloudflare's Circl FourQ Implementation (CVE-2025-8556)",
       "https://www.botanica.software/blog/cryptographic-issues-in-cloudflares-circl-fourq-implementation"
+    ]
+  ],
+  [
+    [
+      "2025-10-22, 13:50:20",
+      "https://news.ycombinator.com/item?id=45669142"
+    ],
+    [
+      "Linux Capabilities Revisited",
+      "https://dfir.ch/posts/linux_capabilities/"
     ]
   ],
   [
