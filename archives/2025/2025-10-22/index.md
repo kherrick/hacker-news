@@ -28,6 +28,7 @@
 * [2025-10-22, 17:14:21](https://news.ycombinator.com/item?id=45672181) - [I built MindMaps for Linux and Git cmdz with quiz, typing game and cheatsheet](https://mindmapsonline.com/maps_list)
 * [2025-10-22, 17:07:22](https://news.ycombinator.com/item?id=45672103) - [Team claims to have Lean 4 proof that P≠NP](https://arxiv.org/abs/2510.17829)
 * [2025-10-22, 17:02:10](https://news.ycombinator.com/item?id=45672035) - [Bild AI (YC W25) Is Hiring a Founding AI Engineer](https://www.ycombinator.com/companies/bild-ai/jobs/m2ilR5L-founding-engineer-applied-ai)
+* [2025-10-22, 16:55:44](https://news.ycombinator.com/item?id=45671953) - [Show HN: Semantic Art – Uses natural language prompts to find real artwork](https://www.semantic.art/)
 * [2025-10-22, 16:50:28](https://news.ycombinator.com/item?id=45671871) - [Introducing Galaxy XR, the first Android XR headset](https://blog.google/products/android/samsung-galaxy-xr/)
 * [2025-10-22, 16:44:43](https://news.ycombinator.com/item?id=45671778) - [Meta is axing 600 roles across its AI division](https://www.theverge.com/news/804253/meta-ai-research-layoffs-fair-superintelligence)
 * [2025-10-22, 16:27:26](https://news.ycombinator.com/item?id=45671569) - [Count-Min Sketches in JS – Frequencies, but without the data](https://www.instantdb.com/essays/count_min_sketch)
