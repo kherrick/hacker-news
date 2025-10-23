@@ -15,7 +15,7 @@
       "https://news.ycombinator.com/item?id=45687796"
     ],
     [
-      "Memory Maps (MMAP) Deliver 25x Faster File Access in Go",
+      "How memory maps (MMAP) deliver faster file access in Go",
       "https://info.varnish-software.com/blog/how-memory-maps-mmap-deliver-25x-faster-file-access-in-go"
     ]
   ],
@@ -25,7 +25,7 @@
       "https://news.ycombinator.com/item?id=45687458"
     ],
     [
-      "Why /Dev/Null Is an Acid Compliant Database",
+      "/Dev/null is an ACID compliant database",
       "https://jyu.dev/blog/why-dev-null-is-an-acid-compliant-database/"
     ]
   ],
@@ -45,7 +45,7 @@
       "https://news.ycombinator.com/item?id=45687227"
     ],
     [
-      "We only have one life. Let's stop wasting it on YouTube shorts",
+      "FocusTube: A Chrome extension that hides YouTube Shorts",
       "https://github.com/CaptainYouz/FocusTube"
     ]
   ],
