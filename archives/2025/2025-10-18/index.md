@@ -6,6 +6,7 @@
 
 * [2025-10-18, 23:59:40](https://news.ycombinator.com/item?id=45631212) - [Bevy TLDR – Game development with Bevy summarized](https://taintedcoders.com/bevy/tldr)
 * [2025-10-18, 19:58:25](https://news.ycombinator.com/item?id=45629970) - [How to sequence your DNA for <$2k](https://maxlangenkamp.substack.com/p/how-to-sequence-your-dna-for-2k)
+* [2025-10-18, 18:46:11](https://news.ycombinator.com/item?id=45629522) - [TP-Link conducts Wi-Fi 8 trials, promises better reliability and lower latency](https://www.techspot.com/news/109837-tp-link-conducts-successful-wi-fi-8-trials.html)
 * [2025-10-18, 18:13:27](https://news.ycombinator.com/item?id=45629299) - [Most users cannot identify AI bias, even in training data](https://www.psu.edu/news/bellisario-college-communications/story/most-users-cannot-identify-ai-bias-even-training-data)
 * [2025-10-18, 17:02:22](https://news.ycombinator.com/item?id=45628761) - [Liva AI (YC S25) Is Hiring](https://www.ycombinator.com/companies/liva-ai/jobs/inrUYH9-founding-engineer)
 * [2025-10-18, 16:25:58](https://news.ycombinator.com/item?id=45628499) - [Atuin desktop: Runbooks that run](https://github.com/atuinsh/desktop)
