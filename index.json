@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-10-23, 21:28:02",
+      "https://news.ycombinator.com/item?id=45687458"
+    ],
+    [
+      "Why /Dev/Null Is an Acid Compliant Database",
+      "https://jyu.dev/blog/why-dev-null-is-an-acid-compliant-database/"
+    ]
+  ],
+  [
+    [
       "2025-10-23, 20:49:08",
       "https://news.ycombinator.com/item?id=45686919"
     ],
@@ -17,16 +27,6 @@
     [
       "Zram Performance Analysis",
       "https://notes.xeome.dev/notes/Zram"
-    ]
-  ],
-  [
-    [
-      "2025-10-23, 19:43:44",
-      "https://news.ycombinator.com/item?id=45686083"
-    ],
-    [
-      "The Muscular Compassion of \"Paper Girl\"",
-      "https://www.newyorker.com/books/page-turner/the-muscular-compassion-of-paper-girl"
     ]
   ],
   [
@@ -87,16 +87,6 @@
     [
       "Show HN: I built a tech news aggregator that works the way my brain does",
       "https://deadstack.net/recent"
-    ]
-  ],
-  [
-    [
-      "2025-10-23, 17:04:17",
-      "https://news.ycombinator.com/item?id=45684236"
-    ],
-    [
-      "OpenAI acquires Sky.app",
-      "https://openai.com/index/openai-acquires-software-applications-incorporated"
     ]
   ],
   [
@@ -267,6 +257,16 @@
     [
       "Glasses-free 3D using webcam head tracking",
       "https://assetstore.unity.com/packages/tools/camera/vr-without-glasses-for-webgl-332314"
+    ]
+  ],
+  [
+    [
+      "2025-10-16, 15:00:06",
+      "https://news.ycombinator.com/item?id=45606224"
+    ],
+    [
+      "CRDTs: Convergence without coordination",
+      "https://read.thecoder.cafe/p/crdt"
     ]
   ],
   [
