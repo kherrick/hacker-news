@@ -44,6 +44,7 @@
 * [2025-10-16, 14:50:04](https://news.ycombinator.com/item?id=45606070) - [Improving the Trustworthiness of JavaScript on the Web](https://blog.cloudflare.com/improving-the-trustworthiness-of-javascript-on-the-web/)
 * [2025-10-16, 14:39:17](https://news.ycombinator.com/item?id=45605921) - [How America got hooked on ultraprocessed foods](https://www.nytimes.com/interactive/2025/10/16/well/eat/ultraprocessed-food-junk-history.html)
 * [2025-10-16, 14:33:10](https://news.ycombinator.com/item?id=45605842) - [Tor browser removing various Firefox AI features](https://blog.torproject.org/new-alpha-release-tor-browser-150a4/)
+* [2025-10-16, 14:31:13](https://news.ycombinator.com/item?id=45605823) - [Run interactive commands in Gemini CLI](https://developers.googleblog.com/en/say-hello-to-a-new-level-of-interactivity-in-gemini-cli/)
 * [2025-10-16, 14:09:21](https://news.ycombinator.com/item?id=45605556) - [PoE basics and beyond: What every engineer should know](https://www.edn.com/poe-basics-and-beyond-what-every-engineer-should-know/)
 * [2025-10-16, 14:04:18](https://news.ycombinator.com/item?id=45605501) - [DoorDash and Waymo launch autonomous delivery service in Phoenix](https://about.doordash.com/en-us/news/waymo)
 * [2025-10-16, 13:48:33](https://news.ycombinator.com/item?id=45605291) - [Why I Chose Elixir Phoenix over Rails, Laravel, and Next.js](https://akarshc.com/post/phoenix-for-my-project.html)
