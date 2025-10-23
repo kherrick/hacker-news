@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-10-23](index.md)
 
 * [2025-10-23, 22:11:23](https://news.ycombinator.com/item?id=45688006) - [Apple loses UK App Store monopoly case, penalty might near $2B](https://9to5mac.com/2025/10/23/apple-loses-uk-app-store-monopoly-case-penalty-might-near-2-billion/)
+* [2025-10-23, 21:56:07](https://news.ycombinator.com/item?id=45687796) - [Memory Maps (MMAP) Deliver 25x Faster File Access in Go](https://info.varnish-software.com/blog/how-memory-maps-mmap-deliver-25x-faster-file-access-in-go)
 * [2025-10-23, 21:28:02](https://news.ycombinator.com/item?id=45687458) - [Why /Dev/Null Is an Acid Compliant Database](https://jyu.dev/blog/why-dev-null-is-an-acid-compliant-database/)
 * [2025-10-23, 21:26:57](https://news.ycombinator.com/item?id=45687441) - [When is it better to think without words?](https://www.henrikkarlsson.xyz/p/wordless-thought)
 * [2025-10-23, 21:11:14](https://news.ycombinator.com/item?id=45687227) - [We only have one life. Let's stop wasting it on YouTube shorts](https://github.com/CaptainYouz/FocusTube)

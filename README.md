@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-10-23, 22:11:23](https://news.ycombinator.com/item?id=45688006) - [Apple loses UK App Store monopoly case, penalty might near $2B](https://9to5mac.com/2025/10/23/apple-loses-uk-app-store-monopoly-case-penalty-might-near-2-billion/)
+* [2025-10-23, 21:56:07](https://news.ycombinator.com/item?id=45687796) - [Memory Maps (MMAP) Deliver 25x Faster File Access in Go](https://info.varnish-software.com/blog/how-memory-maps-mmap-deliver-25x-faster-file-access-in-go)
 * [2025-10-23, 21:28:02](https://news.ycombinator.com/item?id=45687458) - [Why /Dev/Null Is an Acid Compliant Database](https://jyu.dev/blog/why-dev-null-is-an-acid-compliant-database/)
 * [2025-10-23, 21:26:57](https://news.ycombinator.com/item?id=45687441) - [When is it better to think without words?](https://www.henrikkarlsson.xyz/p/wordless-thought)
 * [2025-10-23, 21:11:14](https://news.ycombinator.com/item?id=45687227) - [We only have one life. Let's stop wasting it on YouTube shorts](https://github.com/CaptainYouz/FocusTube)
@@ -15,7 +16,6 @@
 * [2025-10-23, 17:03:13](https://news.ycombinator.com/item?id=45684217) - [Make Any TypeScript Function Durable](https://useworkflow.dev/)
 * [2025-10-23, 16:58:04](https://news.ycombinator.com/item?id=45684155) - [New updates and more access to Google Earth AI](https://blog.google/technology/research/new-updates-and-more-access-to-google-earth-ai/)
 * [2025-10-23, 16:56:07](https://news.ycombinator.com/item?id=45684134) - [Claude Memory](https://www.anthropic.com/news/memory)
-* [2025-10-23, 16:36:05](https://news.ycombinator.com/item?id=45683897) - [Antislop: A framework for eliminating repetitive patterns in language models](https://arxiv.org/abs/2510.15061)
 * [2025-10-23, 15:41:48](https://news.ycombinator.com/item?id=45683152) - [Trump pardons convicted Binance founder](https://www.wsj.com/finance/currencies/trump-pardons-convicted-binance-founder-7509bd63)
 * [2025-10-23, 15:12:57](https://news.ycombinator.com/item?id=45682776) - [Show HN: Git for LLMs – a context management interface](https://twigg.ai)
 * [2025-10-23, 12:47:41](https://news.ycombinator.com/item?id=45681200) - [I spent a year making an ASN.1 compiler in D](https://bradley.chatha.dev/blog/dlang-propaganda/asn1-compiler-in-d/)
