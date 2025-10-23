@@ -21,6 +21,16 @@
   ],
   [
     [
+      "2025-10-23, 13:54:36",
+      "https://news.ycombinator.com/item?id=45681850"
+    ],
+    [
+      "We need to start doing web blocking for non-technical reasons",
+      "https://utcc.utoronto.ca/~cks/space/blog/web/WeShouldBlockForSocialReasons?showcomments"
+    ]
+  ],
+  [
+    [
       "2025-10-23, 12:47:41",
       "https://news.ycombinator.com/item?id=45681200"
     ],
@@ -211,16 +221,6 @@
   ],
   [
     [
-      "2025-10-18, 14:18:03",
-      "https://news.ycombinator.com/item?id=45627586"
-    ],
-    [
-      "Show HN: Silly Morse code chat app using WebSockets",
-      "https://noamtamir.github.io/morwse/"
-    ]
-  ],
-  [
-    [
       "2025-10-18, 09:54:56",
       "https://news.ycombinator.com/item?id=45626129"
     ],
@@ -281,12 +281,12 @@
   ],
   [
     [
-      "2025-10-13, 08:27:15",
-      "https://news.ycombinator.com/item?id=45566088"
+      "2025-10-14, 12:14:24",
+      "https://news.ycombinator.com/item?id=45579118"
     ],
     [
-      "A Distributed Emulation Environment for In-Memory Computing Systems",
-      "https://www.arxiv.org/pdf/2510.08257"
+      "Compiler for \"Easy\" language from \"Etudes for Programmers\" book (1978)",
+      "https://github.com/begoon/easy"
     ]
   ],
   [
