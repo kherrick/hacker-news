@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-10-23, 16:36:05",
+      "https://news.ycombinator.com/item?id=45683897"
+    ],
+    [
+      "Antislop: A Framework for Eliminating Repetitive Patterns in Language Models",
+      "https://arxiv.org/abs/2510.15061"
+    ]
+  ],
+  [
+    [
       "2025-10-23, 15:41:54",
       "https://news.ycombinator.com/item?id=45683153"
     ],
@@ -27,16 +37,6 @@
     [
       "Show HN: Nostr Web – decentralized website hosting on Nostr",
       "https://nweb.shugur.com"
-    ]
-  ],
-  [
-    [
-      "2025-10-23, 14:15:22",
-      "https://news.ycombinator.com/item?id=45682067"
-    ],
-    [
-      "Microsoft puts Office Online Server on the chopping block",
-      "https://www.theregister.com/2025/10/22/microsoft_office_online_server/"
     ]
   ],
   [
@@ -221,6 +221,16 @@
   ],
   [
     [
+      "2025-10-22, 09:03:40",
+      "https://news.ycombinator.com/item?id=45666497"
+    ],
+    [
+      "Element: setHTML() method",
+      "https://developer.mozilla.org/en-US/docs/Web/API/Element/setHTML"
+    ]
+  ],
+  [
+    [
       "2025-10-21, 17:43:16",
       "https://news.ycombinator.com/item?id=45658928"
     ],
@@ -237,16 +247,6 @@
     [
       "Which Collatz numbers do Busy Beavers simulate (if any)?",
       "https://gbragafibra.github.io/2025/10/16/collatz_ant11.html"
-    ]
-  ],
-  [
-    [
-      "2025-10-17, 21:10:34",
-      "https://news.ycombinator.com/item?id=45622122"
-    ],
-    [
-      "The Tonnetz",
-      "https://thetonnetz.com/"
     ]
   ],
   [
