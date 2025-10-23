@@ -84,6 +84,7 @@
 * [2025-10-16, 03:33:35](https://news.ycombinator.com/item?id=45601177) - [Free applicatives, the handle pattern, and remote systems](https://exploring-better-ways.bellroy.com/free-applicatives-the-handle-pattern-and-remote-systems.html)
 * [2025-10-16, 03:26:27](https://news.ycombinator.com/item?id=45601139) - [Acid Drop](https://github.com/acidvegas/acid-drop)
 * [2025-10-16, 03:17:21](https://news.ycombinator.com/item?id=45601102) - [Reactive Programming paradigm for Go for event-driven applications](https://github.com/samber/ro)
+* [2025-10-16, 02:44:09](https://news.ycombinator.com/item?id=45600897) - [RFC 9861: KangarooTwelve and TurboSHAKE](https://datatracker.ietf.org/doc/rfc9861/)
 * [2025-10-16, 02:06:17](https://news.ycombinator.com/item?id=45600707) - [We're losing the war against drug-resistant infections faster than we thought](https://www.npr.org/sections/goats-and-soda/2025/10/15/g-s1-93449/antibiotic-resistance-bacteria)
 * [2025-10-16, 01:59:55](https://news.ycombinator.com/item?id=45600677) - [Show HN: Shorter – search for shorter versions of your domain](https://shorter.dev)
 * [2025-10-16, 01:42:22](https://news.ycombinator.com/item?id=45600581) - [New Alzheimer's Treatment Clears Plaques from Brains of Mice Within Hours](https://www.sciencealert.com/new-alzheimers-treatment-clears-plaques-from-brains-of-mice-within-hours)
