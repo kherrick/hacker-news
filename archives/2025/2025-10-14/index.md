@@ -27,6 +27,7 @@
 * [2025-10-14, 19:15:57](https://news.ycombinator.com/item?id=45583667) - [Show HN: An open source access logs analytics script to block bot attacks](https://github.com/tempesta-tech/webshield)
 * [2025-10-14, 19:06:27](https://news.ycombinator.com/item?id=45583574) - [Preparing for AI's economic impact: exploring policy responses](https://www.anthropic.com/research/economic-policy-responses)
 * [2025-10-14, 18:40:23](https://news.ycombinator.com/item?id=45583336) - [What do Americans die from vs. what the news report on](https://ourworldindata.org/does-the-news-reflect-what-we-die-from)
+* [2025-10-14, 18:35:59](https://news.ycombinator.com/item?id=45583291) - [The OS/2 Display Driver Zoo](https://www.os2museum.com/wp/the-os-2-display-driver-zoo/)
 * [2025-10-14, 18:30:57](https://news.ycombinator.com/item?id=45583243) - [Intel Announces Inference-Optimized Xe3P Graphics Card with 160GB VRAM](https://www.phoronix.com/review/intel-crescent-island)
 * [2025-10-14, 18:26:00](https://news.ycombinator.com/item?id=45583180) - [Why your boss isn't worried about AI – \"can't you just turn it off?\"](https://boydkane.com/essays/boss)
 * [2025-10-14, 18:22:04](https://news.ycombinator.com/item?id=45583129) - [New lab-grown human embryo model produces blood cells](https://www.cam.ac.uk/research/news/new-lab-grown-human-embryo-model-produces-blood-cells)

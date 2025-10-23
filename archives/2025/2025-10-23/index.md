@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-10-23](index.md)
 
+* [2025-10-23, 18:15:45](https://news.ycombinator.com/item?id=45685007) - [Can \"second life\" EV batteries work as grid-scale energy storage?](https://www.volts.wtf/p/can-second-life-ev-batteries-work)
+* [2025-10-23, 18:09:37](https://news.ycombinator.com/item?id=45684934) - [Armed police swarm student after AI mistakes bag of Doritos for a weapon](https://www.dexerto.com/entertainment/armed-police-swarm-student-after-ai-mistakes-bag-of-doritos-for-a-weapon-3273512/)
 * [2025-10-23, 17:52:18](https://news.ycombinator.com/item?id=45684736) - [OpenMaxIO is a community-maintained fork of MinIO](https://github.com/OpenMaxIO/openmaxio-object-browser)
 * [2025-10-23, 17:48:13](https://news.ycombinator.com/item?id=45684689) - [Show HN: I built a tech news aggregator that works the way my brain does](https://deadstack.net/recent)
 * [2025-10-23, 17:37:04](https://news.ycombinator.com/item?id=45684548) - [U.S. Details Gambling Cases Involving Pro Athletes and Mafia Families](https://www.nytimes.com/live/2025/10/23/nyregion/nba-illegal-gambling-arrests)

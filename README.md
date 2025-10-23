@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-10-23, 18:15:45](https://news.ycombinator.com/item?id=45685007) - [Can \"second life\" EV batteries work as grid-scale energy storage?](https://www.volts.wtf/p/can-second-life-ev-batteries-work)
+* [2025-10-23, 18:09:37](https://news.ycombinator.com/item?id=45684934) - [Armed police swarm student after AI mistakes bag of Doritos for a weapon](https://www.dexerto.com/entertainment/armed-police-swarm-student-after-ai-mistakes-bag-of-doritos-for-a-weapon-3273512/)
 * [2025-10-23, 17:52:18](https://news.ycombinator.com/item?id=45684736) - [OpenMaxIO is a community-maintained fork of MinIO](https://github.com/OpenMaxIO/openmaxio-object-browser)
 * [2025-10-23, 17:48:13](https://news.ycombinator.com/item?id=45684689) - [Show HN: I built a tech news aggregator that works the way my brain does](https://deadstack.net/recent)
 * [2025-10-23, 17:37:04](https://news.ycombinator.com/item?id=45684548) - [U.S. Details Gambling Cases Involving Pro Athletes and Mafia Families](https://www.nytimes.com/live/2025/10/23/nyregion/nba-illegal-gambling-arrests)
@@ -24,11 +26,9 @@
 * [2025-10-22, 20:53:49](https://news.ycombinator.com/item?id=45675015) - [Google flags Immich sites as dangerous](https://immich.app/blog/google-flags-immich-as-dangerous)
 * [2025-10-22, 18:21:54](https://news.ycombinator.com/item?id=45673130) - [Accessing Max Verstappen's passport and PII through FIA bugs](https://ian.sh/fia)
 * [2025-10-22, 12:36:19](https://news.ycombinator.com/item?id=45668118) - [Living Dangerously with Claude](https://simonwillison.net/2025/Oct/22/living-dangerously-with-claude/)
-* [2025-10-21, 17:43:16](https://news.ycombinator.com/item?id=45658928) - [Karpathy on DeepSeek-OCR paper: Are pixels better inputs to LLMs than text?](https://twitter.com/karpathy/status/1980397031542989305)
-* [2025-10-18, 09:54:56](https://news.ycombinator.com/item?id=45626129) - [Which Collatz numbers do Busy Beavers simulate (if any)?](https://gbragafibra.github.io/2025/10/16/collatz_ant11.html)
 * [2025-10-16, 15:00:06](https://news.ycombinator.com/item?id=45606224) - [CRDTs: Convergence without coordination](https://read.thecoder.cafe/p/crdt)
-* [2025-10-16, 14:31:13](https://news.ycombinator.com/item?id=45605823) - [Run interactive commands in Gemini CLI](https://developers.googleblog.com/en/say-hello-to-a-new-level-of-interactivity-in-gemini-cli/)
 * [2025-10-15, 02:04:46](https://news.ycombinator.com/item?id=45587291) - [Upgrading Our Way Through OpenGL 1.x](https://bumbershootsoft.wordpress.com/2025/09/27/upgrading-our-way-through-opengl-1-x/)
+* [2025-10-14, 18:35:59](https://news.ycombinator.com/item?id=45583291) - [The OS/2 Display Driver Zoo](https://www.os2museum.com/wp/the-os-2-display-driver-zoo/)
 * [2025-10-14, 12:14:24](https://news.ycombinator.com/item?id=45579118) - [Compiler for \"Easy\" language from \"Etudes for Programmers\" book (1978)](https://github.com/begoon/easy)
 
 ## [Archives](archives/index.md)
