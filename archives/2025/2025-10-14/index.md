@@ -50,6 +50,7 @@
 * [2025-10-14, 15:12:21](https://news.ycombinator.com/item?id=45581029) - [GPT-5o-mini hallucinates medical residency applicant grades](https://www.thalamusgme.com/blogs/cortex-core-clerkship-grades-and-transcript-normalization)
 * [2025-10-14, 15:08:38](https://news.ycombinator.com/item?id=45580981) - [DOJ seizes $15B in Bitcoin from 'pig butchering' scam based in Cambodia](https://www.cnbc.com/2025/10/14/bitcoin-doj-chen-zhi-pig-butchering-scam.html)
 * [2025-10-14, 14:53:25](https://news.ycombinator.com/item?id=45580818) - [Tesla is at risk of losing subsidies in Korea over widespread battery failures](https://electrek.co/2025/10/14/tesla-is-at-risk-of-lossing-subsidies-in-korea-over-widespread-battery-failures/)
+* [2025-10-14, 14:51:29](https://news.ycombinator.com/item?id=45580795) - [Kaitai Struct: declarative binary format parsing language](https://kaitai.io/)
 * [2025-10-14, 14:49:56](https://news.ycombinator.com/item?id=45580771) - [Show HN: Metorial (YC F25) – Vercel for MCP](https://github.com/metorial/metorial)
 * [2025-10-14, 14:46:17](https://news.ycombinator.com/item?id=45580724) - [Scientists create 'Superwood' that's 10 times stronger than steel](https://www.cnn.com/science/superwood-10-times-stronger-than-steel-spc)
 * [2025-10-14, 14:45:02](https://news.ycombinator.com/item?id=45580699) - [Astronomers 'image' a mysterious dark object in the distant Universe](https://www.mpg.de/25518363/1007-asph-astronomers-image-a-mysterious-dark-object-in-the-distant-universe-155031-x)
