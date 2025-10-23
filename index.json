@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-10-23, 20:39:41",
+      "https://news.ycombinator.com/item?id=45686790"
+    ],
+    [
+      "Expanding Our Use of Google Cloud TPUs and Services",
+      "https://www.anthropic.com/news/expanding-our-use-of-google-cloud-tpus-and-services"
+    ]
+  ],
+  [
+    [
       "2025-10-23, 19:43:44",
       "https://news.ycombinator.com/item?id=45686083"
     ],
@@ -81,16 +91,6 @@
   ],
   [
     [
-      "2025-10-23, 17:04:07",
-      "https://news.ycombinator.com/item?id=45684230"
-    ],
-    [
-      "Show HN: Tommy – Turn ESP32 devices into through-wall motion sensors",
-      "https://www.tommysense.com"
-    ]
-  ],
-  [
-    [
       "2025-10-23, 17:03:13",
       "https://news.ycombinator.com/item?id=45684217"
     ],
@@ -151,16 +151,6 @@
   ],
   [
     [
-      "2025-10-23, 15:39:10",
-      "https://news.ycombinator.com/item?id=45683113"
-    ],
-    [
-      "Reasoning Is Not Model Improvement",
-      "https://manidoraisamy.com/reasoning-not-ai.html"
-    ]
-  ],
-  [
-    [
       "2025-10-23, 15:12:57",
       "https://news.ycombinator.com/item?id=45682776"
     ],
@@ -187,6 +177,16 @@
     [
       "I spent a year making an ASN.1 compiler in D",
       "https://bradley.chatha.dev/blog/dlang-propaganda/asn1-compiler-in-d/"
+    ]
+  ],
+  [
+    [
+      "2025-10-23, 12:40:57",
+      "https://news.ycombinator.com/item?id=45681147"
+    ],
+    [
+      "US probes Waymo robotaxis over school bus safety",
+      "https://www.yahoo.com/news/articles/us-investigates-waymo-robotaxis-over-102015308.html"
     ]
   ],
   [
@@ -261,22 +261,22 @@
   ],
   [
     [
+      "2025-10-18, 12:07:40",
+      "https://news.ycombinator.com/item?id=45626685"
+    ],
+    [
+      "Glasses-free 3D using webcam head tracking",
+      "https://assetstore.unity.com/packages/tools/camera/vr-without-glasses-for-webgl-332314"
+    ]
+  ],
+  [
+    [
       "2025-10-16, 15:00:06",
       "https://news.ycombinator.com/item?id=45606224"
     ],
     [
       "CRDTs: Convergence without coordination",
       "https://read.thecoder.cafe/p/crdt"
-    ]
-  ],
-  [
-    [
-      "2025-10-15, 02:04:46",
-      "https://news.ycombinator.com/item?id=45587291"
-    ],
-    [
-      "Upgrading Our Way Through OpenGL 1.x",
-      "https://bumbershootsoft.wordpress.com/2025/09/27/upgrading-our-way-through-opengl-1-x/"
     ]
   ],
   [
