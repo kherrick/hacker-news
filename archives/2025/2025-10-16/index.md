@@ -41,6 +41,7 @@
 * [2025-10-16, 15:29:06](https://news.ycombinator.com/item?id=45606602) - [Why more SaaS companies are hiring chief trust officers](https://www.itbrew.com/stories/2025/10/14/why-more-saas-companies-are-hiring-chief-trust-officers)
 * [2025-10-16, 15:21:47](https://news.ycombinator.com/item?id=45606518) - [André Gorz, the Theorist Who Predicted the Revolt Against Meaningless Work (2023)](https://znetwork.org/znetarticle/andre-gorz-was-the-theorist-who-predicted-the-revolt-against-meaningless-work/)
 * [2025-10-16, 15:12:19](https://news.ycombinator.com/item?id=45606394) - [Video game union workers rally against $55B private acquisition of EA](https://www.eurogamer.net/ea-union-workers-rally-against-55bn-saudi-backed-private-acquisition-with-formal-petition-to-regulators)
+* [2025-10-16, 15:00:06](https://news.ycombinator.com/item?id=45606224) - [Conflict-Free Replicated Data Types (CRDTs): Convergence Without Coordination](https://read.thecoder.cafe/p/crdt)
 * [2025-10-16, 14:51:30](https://news.ycombinator.com/item?id=45606097) - [Working with the Amiga's RAM and Rad Disks](https://www.datagubbe.se/ramdisk/)
 * [2025-10-16, 14:50:04](https://news.ycombinator.com/item?id=45606070) - [Improving the Trustworthiness of JavaScript on the Web](https://blog.cloudflare.com/improving-the-trustworthiness-of-javascript-on-the-web/)
 * [2025-10-16, 14:39:17](https://news.ycombinator.com/item?id=45605921) - [How America got hooked on ultraprocessed foods](https://www.nytimes.com/interactive/2025/10/16/well/eat/ultraprocessed-food-junk-history.html)
