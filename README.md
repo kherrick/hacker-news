@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-10-23, 15:41:54](https://news.ycombinator.com/item?id=45683153) - [VectorWare – from creators of `rust-GPU` and `rust-CUDA`](https://www.vectorware.com/blog/announcing-vectorware/)
 * [2025-10-23, 14:25:22](https://news.ycombinator.com/item?id=45682169) - [US axes website for reporting human rights abuses by US-armed foreign forces](https://www.bbc.com/news/articles/cqx30vnwd4do)
 * [2025-10-23, 14:20:40](https://news.ycombinator.com/item?id=45682122) - [Show HN: Nostr Web – decentralized website hosting on Nostr](https://nweb.shugur.com)
 * [2025-10-23, 14:15:22](https://news.ycombinator.com/item?id=45682067) - [Microsoft puts Office Online Server on the chopping block](https://www.theregister.com/2025/10/22/microsoft_office_online_server/)
@@ -21,7 +22,6 @@
 * [2025-10-22, 17:26:06](https://news.ycombinator.com/item?id=45672336) - [JMAP for Calendars, Contacts and Files Now in Stalwart](https://stalw.art/blog/jmap-collaboration/)
 * [2025-10-22, 15:16:19](https://news.ycombinator.com/item?id=45670443) - [Willow quantum chip demonstrates verifiable quantum advantage on hardware](https://blog.google/technology/research/quantum-echoes-willow-verifiable-quantum-advantage/)
 * [2025-10-22, 14:53:54](https://news.ycombinator.com/item?id=45670052) - [Scripts I wrote that I use all the time](https://evanhahn.com/scripts-i-wrote-that-i-use-all-the-time/)
-* [2025-10-22, 09:03:40](https://news.ycombinator.com/item?id=45666497) - [Element: setHTML() method](https://developer.mozilla.org/en-US/docs/Web/API/Element/setHTML)
 * [2025-10-21, 17:43:16](https://news.ycombinator.com/item?id=45658928) - [Karpathy on DeepSeek-OCR paper: Are pixels better inputs to LLMs than text?](https://twitter.com/karpathy/status/1980397031542989305)
 * [2025-10-18, 09:54:56](https://news.ycombinator.com/item?id=45626129) - [Which Collatz numbers do Busy Beavers simulate (if any)?](https://gbragafibra.github.io/2025/10/16/collatz_ant11.html)
 * [2025-10-17, 21:10:34](https://news.ycombinator.com/item?id=45622122) - [The Tonnetz](https://thetonnetz.com/)
