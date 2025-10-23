@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-10-23, 05:48:02",
+      "https://news.ycombinator.com/item?id=45678549"
+    ],
+    [
+      "VST3 audio plugin format is now MIT",
+      "https://forums.steinberg.net/t/vst-3-8-0-sdk-released/1011988"
+    ]
+  ],
+  [
+    [
       "2025-10-23, 04:23:39",
       "https://news.ycombinator.com/item?id=45678156"
     ],
@@ -177,16 +187,6 @@
     [
       "Cryptographic Issues in Cloudflare's Circl FourQ Implementation (CVE-2025-8556)",
       "https://www.botanica.software/blog/cryptographic-issues-in-cloudflares-circl-fourq-implementation"
-    ]
-  ],
-  [
-    [
-      "2025-10-22, 09:05:21",
-      "https://news.ycombinator.com/item?id=45666510"
-    ],
-    [
-      "Greg Newby, CEO of Project Gutenberg Literary Archive Foundation, has died",
-      "https://www.pgdp.net/wiki/In_Memoriam/gbnewby"
     ]
   ],
   [
