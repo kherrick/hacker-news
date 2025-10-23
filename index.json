@@ -151,16 +151,6 @@
   ],
   [
     [
-      "2025-10-22, 16:50:28",
-      "https://news.ycombinator.com/item?id=45671871"
-    ],
-    [
-      "Galaxy XR: The first Android XR headset",
-      "https://blog.google/products/android/samsung-galaxy-xr/"
-    ]
-  ],
-  [
-    [
       "2025-10-22, 15:16:19",
       "https://news.ycombinator.com/item?id=45670443"
     ],
@@ -201,6 +191,16 @@
   ],
   [
     [
+      "2025-10-22, 12:39:37",
+      "https://news.ycombinator.com/item?id=45668160"
+    ],
+    [
+      "SourceFS: A 2h+ Android build becomes a 15m task with a virtual filesystem",
+      "https://www.source.dev/journal/sourcefs"
+    ]
+  ],
+  [
+    [
       "2025-10-22, 09:05:21",
       "https://news.ycombinator.com/item?id=45666510"
     ],
@@ -221,32 +221,12 @@
   ],
   [
     [
-      "2025-10-22, 06:41:42",
-      "https://news.ycombinator.com/item?id=45665622"
-    ],
-    [
-      "Vertiginous Accounts: Travels in the Air (1871 edition)",
-      "https://publicdomainreview.org/collection/travels-in-the-air/"
-    ]
-  ],
-  [
-    [
       "2025-10-22, 06:41:09",
       "https://news.ycombinator.com/item?id=45665617"
     ],
     [
       "Enchanting Imposters",
       "https://daily.jstor.org/enchanting-imposters/"
-    ]
-  ],
-  [
-    [
-      "2025-10-22, 06:17:18",
-      "https://news.ycombinator.com/item?id=45665452"
-    ],
-    [
-      "MinIO stops distributing free Docker images",
-      "https://github.com/minio/minio/issues/21647#issuecomment-3418675115"
     ]
   ],
   [
@@ -281,6 +261,16 @@
   ],
   [
     [
+      "2025-10-16, 19:12:47",
+      "https://news.ycombinator.com/item?id=45609478"
+    ],
+    [
+      "Play abstract strategy board games online with friends or against bots",
+      "https://abstractboardgames.com/"
+    ]
+  ],
+  [
+    [
       "2025-10-15, 23:57:14",
       "https://news.ycombinator.com/item?id=45599864"
     ],
@@ -297,6 +287,16 @@
     [
       "Common yeast can survive Martian conditions",
       "https://phys.org/news/2025-10-common-yeast-survive-martian-conditions.html"
+    ]
+  ],
+  [
+    [
+      "2025-10-12, 20:31:57",
+      "https://news.ycombinator.com/item?id=45561640"
+    ],
+    [
+      "The first interstellar software update: The hack that saved Voyager 1 [video]",
+      "https://www.youtube.com/watch?v=p0K7u3B_8rY"
     ]
   ]
 ]
