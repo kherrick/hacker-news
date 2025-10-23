@@ -66,6 +66,7 @@
 * [2025-10-20, 03:33:11](https://news.ycombinator.com/item?id=45639995) - [Entire Linux Network stack diagram (2024)](https://zenodo.org/records/14179366)
 * [2025-10-20, 02:56:20](https://news.ycombinator.com/item?id=45639860) - [Introduction to reverse-engineering vintage synth firmware](https://ajxs.me/blog/Introduction_to_Reverse-Engineering_Vintage_Synth_Firmware.html)
 * [2025-10-20, 02:12:24](https://news.ycombinator.com/item?id=45639654) - [Nvidia has produced the first Blackwell wafer on US soil](https://www.xda-developers.com/nvidia-produced-first-blackwell-wafer-us-soil/)
+* [2025-10-20, 02:03:40](https://news.ycombinator.com/item?id=45639618) - [Pyscripter – open-source Python IDE written in Delphi](https://github.com/pyscripter/pyscripter)
 * [2025-10-20, 01:32:43](https://news.ycombinator.com/item?id=45639498) - [Look at how unhinged GPU box art was in the 2000s](https://www.xda-developers.com/absolutely-unhinged-gpu-box-art-from-the-early-2000s/)
 * [2025-10-20, 01:07:27](https://news.ycombinator.com/item?id=45639391) - [Carefully Educated to Be Idiots](https://www.hilarylayne.com/p/very-carefully-educated-to-be-idiots)
 * [2025-10-20, 00:56:54](https://news.ycombinator.com/item?id=45639338) - [Power-over-Skin: Full-Body Wearables Powered by Intra-Body RF Energy (2024)](https://dl.acm.org/doi/10.1145/3654777.3676394)
