@@ -11,6 +11,26 @@
   ],
   [
     [
+      "2025-10-23, 16:56:07",
+      "https://news.ycombinator.com/item?id=45684134"
+    ],
+    [
+      "Claude Memory",
+      "https://www.anthropic.com/news/memory"
+    ]
+  ],
+  [
+    [
+      "2025-10-23, 16:46:57",
+      "https://news.ycombinator.com/item?id=45684035"
+    ],
+    [
+      "MinIO declines to release Docker builds resolving CVE-2025-62506",
+      "https://github.com/minio/minio/issues/21647"
+    ]
+  ],
+  [
+    [
       "2025-10-23, 16:36:05",
       "https://news.ycombinator.com/item?id=45683897"
     ],
@@ -47,16 +67,6 @@
     [
       "Show HN: Nostr Web – decentralized website hosting on Nostr",
       "https://nweb.shugur.com"
-    ]
-  ],
-  [
-    [
-      "2025-10-23, 13:54:36",
-      "https://news.ycombinator.com/item?id=45681850"
-    ],
-    [
-      "We need to start doing web blocking for non-technical reasons",
-      "https://utcc.utoronto.ca/~cks/space/blog/web/WeShouldBlockForSocialReasons?showcomments"
     ]
   ],
   [
@@ -131,16 +141,6 @@
   ],
   [
     [
-      "2025-10-23, 08:41:21",
-      "https://news.ycombinator.com/item?id=45679638"
-    ],
-    [
-      "C64 Blood Money",
-      "https://lemmings.info/c64-blood-money/"
-    ]
-  ],
-  [
-    [
       "2025-10-23, 05:56:23",
       "https://news.ycombinator.com/item?id=45678603"
     ],
@@ -171,32 +171,22 @@
   ],
   [
     [
+      "2025-10-23, 01:19:58",
+      "https://news.ycombinator.com/item?id=45677139"
+    ],
+    [
+      "Summary of the Amazon DynamoDB Service Disruption in US-East-1 Region",
+      "https://aws.amazon.com/message/101925/"
+    ]
+  ],
+  [
+    [
       "2025-10-22, 20:53:49",
       "https://news.ycombinator.com/item?id=45675015"
     ],
     [
       "Google flags Immich sites as dangerous",
       "https://immich.app/blog/google-flags-immich-as-dangerous"
-    ]
-  ],
-  [
-    [
-      "2025-10-22, 20:13:31",
-      "https://news.ycombinator.com/item?id=45674568"
-    ],
-    [
-      "Why SSA?",
-      "https://mcyoung.xyz/2025/10/21/ssa-1/"
-    ]
-  ],
-  [
-    [
-      "2025-10-22, 19:42:36",
-      "https://news.ycombinator.com/item?id=45674166"
-    ],
-    [
-      "Ovi: Twin backbone cross-modal fusion for audio-video generation",
-      "https://github.com/character-ai/Ovi"
     ]
   ],
   [
@@ -231,12 +221,12 @@
   ],
   [
     [
-      "2025-10-22, 09:03:40",
-      "https://news.ycombinator.com/item?id=45666497"
+      "2025-10-22, 12:36:19",
+      "https://news.ycombinator.com/item?id=45668118"
     ],
     [
-      "Element: setHTML() method",
-      "https://developer.mozilla.org/en-US/docs/Web/API/Element/setHTML"
+      "Living Dangerously with Claude",
+      "https://simonwillison.net/2025/Oct/22/living-dangerously-with-claude/"
     ]
   ],
   [
@@ -287,6 +277,16 @@
     [
       "Ask HN: Does anyone have scans of these missing PC Plus issues (1991–1993)?",
       "https://news.ycombinator.com/item?id=45595807"
+    ]
+  ],
+  [
+    [
+      "2025-10-15, 02:04:46",
+      "https://news.ycombinator.com/item?id=45587291"
+    ],
+    [
+      "Upgrading Our Way Through OpenGL 1.x",
+      "https://bumbershootsoft.wordpress.com/2025/09/27/upgrading-our-way-through-opengl-1-x/"
     ]
   ],
   [
