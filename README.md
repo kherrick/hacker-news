@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-10-23, 22:52:15](https://news.ycombinator.com/item?id=45688443) - [Introduction to the Concept of Likelihood and Its Applications](https://journals.sagepub.com/doi/10.1177/2515245917744314)
 * [2025-10-23, 22:11:23](https://news.ycombinator.com/item?id=45688006) - [Apple loses UK App Store monopoly case, penalty might near $2B](https://9to5mac.com/2025/10/23/apple-loses-uk-app-store-monopoly-case-penalty-might-near-2-billion/)
 * [2025-10-23, 21:56:07](https://news.ycombinator.com/item?id=45687796) - [How memory maps (MMAP) deliver faster file access in Go](https://info.varnish-software.com/blog/how-memory-maps-mmap-deliver-25x-faster-file-access-in-go)
 * [2025-10-23, 21:28:02](https://news.ycombinator.com/item?id=45687458) - [/Dev/null is an ACID compliant database](https://jyu.dev/blog/why-dev-null-is-an-acid-compliant-database/)
@@ -22,7 +23,6 @@
 * [2025-10-23, 12:00:11](https://news.ycombinator.com/item?id=45680847) - [Nango (YC W23) is hiring staff back-end engineers (remote)](https://www.nango.dev/careers)
 * [2025-10-23, 10:15:12](https://news.ycombinator.com/item?id=45680237) - [PyTorch Monarch](https://pytorch.org/blog/introducing-pytorch-monarch/)
 * [2025-10-23, 01:19:58](https://news.ycombinator.com/item?id=45677139) - [Summary of the Amazon DynamoDB Service Disruption in US-East-1 Region](https://aws.amazon.com/message/101925/)
-* [2025-10-22, 16:27:26](https://news.ycombinator.com/item?id=45671569) - [How count-min sketches work – frequencies, but without the actual data](https://www.instantdb.com/essays/count_min_sketch)
 * [2025-10-20, 02:03:40](https://news.ycombinator.com/item?id=45639618) - [Pyscripter – Open-source Python IDE written in Delphi](https://github.com/pyscripter/pyscripter)
 * [2025-10-18, 12:07:40](https://news.ycombinator.com/item?id=45626685) - [Glasses-free 3D using webcam head tracking](https://assetstore.unity.com/packages/tools/camera/vr-without-glasses-for-webgl-332314)
 * [2025-10-17, 04:28:46](https://news.ycombinator.com/item?id=45613327) - [Betty White's shoulder bag is a time capsule of World War II](https://americanhistory.si.edu/explore/stories/betty-white-world-war-ii)
