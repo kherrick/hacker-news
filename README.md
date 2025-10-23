@@ -1,8 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-10-23, 14:25:22](https://news.ycombinator.com/item?id=45682169) - [US axes website for reporting human rights abuses by US-armed foreign forces](https://www.bbc.com/news/articles/cqx30vnwd4do)
+* [2025-10-23, 14:15:22](https://news.ycombinator.com/item?id=45682067) - [Microsoft puts Office Online Server on the chopping block](https://www.theregister.com/2025/10/22/microsoft_office_online_server/)
+* [2025-10-23, 12:56:48](https://news.ycombinator.com/item?id=45681269) - [Why China is winning the trade war](https://www.economist.com/leaders/2025/10/23/why-china-is-winning-the-trade-war)
 * [2025-10-23, 12:47:41](https://news.ycombinator.com/item?id=45681200) - [I spent a year of my life making an ASN.1 compiler in D](https://bradley.chatha.dev/blog/dlang-propaganda/asn1-compiler-in-d/)
 * [2025-10-23, 12:11:27](https://news.ycombinator.com/item?id=45680937) - [Show HN: Deta Surf – An open source and local-first AI notebook](https://github.com/deta/surf)
-* [2025-10-23, 12:08:47](https://news.ycombinator.com/item?id=45680913) - [We tested 20 LLMs for ideological bias, revealing distinct alignments](https://anomify.ai/resources/articles/llm-bias)
 * [2025-10-23, 12:00:11](https://news.ycombinator.com/item?id=45680847) - [Nango (YC W23) is hiring Staff Back end Engs (remote)](https://www.nango.dev/careers)
 * [2025-10-23, 11:38:49](https://news.ycombinator.com/item?id=45680695) - [The Game Theory of How Algorithms Can Drive Up Prices](https://www.quantamagazine.org/the-game-theory-of-how-algorithms-can-drive-up-prices-20251022/)
 * [2025-10-23, 11:15:44](https://news.ycombinator.com/item?id=45680547) - [SpaceX disables 2,500 Starlink terminals allegedly used by Asian scam centers](https://arstechnica.com/tech-policy/2025/10/starlink-blocks-2500-dishes-allegedly-used-by-myanmars-notorious-scam-centers/)
@@ -15,7 +17,6 @@
 * [2025-10-22, 20:13:31](https://news.ycombinator.com/item?id=45674568) - [Why SSA Compilers?](https://mcyoung.xyz/2025/10/21/ssa-1/)
 * [2025-10-22, 19:42:36](https://news.ycombinator.com/item?id=45674166) - [Ovi: Twin backbone cross-modal fusion for audio-video generation](https://github.com/character-ai/Ovi)
 * [2025-10-22, 18:21:54](https://news.ycombinator.com/item?id=45673130) - [Accessing Max Verstappen's passport and PII through FIA bugs](https://ian.sh/fia)
-* [2025-10-22, 18:00:20](https://news.ycombinator.com/item?id=45672844) - [Rivian's TM-B electric bike](https://www.theverge.com/news/804157/rivian-tm-b-electric-bike-price-specs-helmet-quad)
 * [2025-10-22, 17:26:06](https://news.ycombinator.com/item?id=45672336) - [JMAP for Calendars, Contacts and Files Now in Stalwart](https://stalw.art/blog/jmap-collaboration/)
 * [2025-10-22, 15:16:19](https://news.ycombinator.com/item?id=45670443) - [Willow quantum chip demonstrates verifiable quantum advantage on hardware](https://blog.google/technology/research/quantum-echoes-willow-verifiable-quantum-advantage/)
 * [2025-10-22, 14:53:54](https://news.ycombinator.com/item?id=45670052) - [Scripts I wrote that I use all the time](https://evanhahn.com/scripts-i-wrote-that-i-use-all-the-time/)
@@ -28,7 +29,6 @@
 * [2025-10-16, 14:31:13](https://news.ycombinator.com/item?id=45605823) - [Run interactive commands in Gemini CLI](https://developers.googleblog.com/en/say-hello-to-a-new-level-of-interactivity-in-gemini-cli/)
 * [2025-10-16, 05:51:02](https://news.ycombinator.com/item?id=45601856) - [When You Get to Be Smart Writing a Macro](https://tonsky.me/blog/hashp/)
 * [2025-10-15, 17:25:17](https://news.ycombinator.com/item?id=45595807) - [Ask HN: Does anyone have scans of these missing PC Plus issues (1991–1993)?](https://news.ycombinator.com/item?id=45595807)
-* [2025-10-13, 08:27:15](https://news.ycombinator.com/item?id=45566088) - [A Distributed Emulation Environment for In-Memory Computing Systems](https://www.arxiv.org/pdf/2510.08257)
 * [2025-10-12, 20:31:57](https://news.ycombinator.com/item?id=45561640) - [The first interstellar software update: The hack that saved Voyager 1 [video]](https://www.youtube.com/watch?v=p0K7u3B_8rY)
 
 ## [Archives](archives/index.md)

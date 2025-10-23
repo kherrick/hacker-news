@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2025-10-23](index.md)
 
+* [2025-10-23, 14:25:22](https://news.ycombinator.com/item?id=45682169) - [US axes website for reporting human rights abuses by US-armed foreign forces](https://www.bbc.com/news/articles/cqx30vnwd4do)
+* [2025-10-23, 14:15:22](https://news.ycombinator.com/item?id=45682067) - [Microsoft puts Office Online Server on the chopping block](https://www.theregister.com/2025/10/22/microsoft_office_online_server/)
 * [2025-10-23, 13:03:13](https://news.ycombinator.com/item?id=45681326) - [Casey Muratori: I can always tell a good programmer in an interview](https://www.gethopp.app/blog/how-to-conduct-good-programming-interviews)
+* [2025-10-23, 12:56:48](https://news.ycombinator.com/item?id=45681269) - [Why China is winning the trade war](https://www.economist.com/leaders/2025/10/23/why-china-is-winning-the-trade-war)
 * [2025-10-23, 12:47:41](https://news.ycombinator.com/item?id=45681200) - [I spent a year of my life making an ASN.1 compiler in D](https://bradley.chatha.dev/blog/dlang-propaganda/asn1-compiler-in-d/)
 * [2025-10-23, 12:40:57](https://news.ycombinator.com/item?id=45681147) - [US probes Alphabet unit Waymo robotaxis over school bus safety](https://www.yahoo.com/news/articles/us-investigates-waymo-robotaxis-over-102015308.html)
 * [2025-10-23, 12:11:27](https://news.ycombinator.com/item?id=45680937) - [Show HN: Deta Surf – An open source and local-first AI notebook](https://github.com/deta/surf)
