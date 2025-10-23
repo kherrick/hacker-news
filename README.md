@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-10-23, 20:39:41](https://news.ycombinator.com/item?id=45686790) - [Expanding Our Use of Google Cloud TPUs and Services](https://www.anthropic.com/news/expanding-our-use-of-google-cloud-tpus-and-services)
+* [2025-10-23, 20:32:27](https://news.ycombinator.com/item?id=45686704) - [I wrote about parallel prompts: from 3D shoe renders to swipe-ready videos](https://www.widgens.com/blog/parallel-prompting)
 * [2025-10-23, 19:43:44](https://news.ycombinator.com/item?id=45686083) - [The Muscular Compassion of \"Paper Girl\"](https://www.newyorker.com/books/page-turner/the-muscular-compassion-of-paper-girl)
 * [2025-10-23, 19:24:04](https://news.ycombinator.com/item?id=45685793) - [Show HN: OpenSnowcat – A fork of Snowplow to keep open analytics alive](https://opensnowcat.io/)
 * [2025-10-23, 19:05:24](https://news.ycombinator.com/item?id=45685551) - [What happened to Apple's legendary attention to detail?](https://blog.johnozbay.com/what-happened-to-apples-attention-to-detail.html)
@@ -27,7 +28,6 @@
 * [2025-10-22, 16:27:26](https://news.ycombinator.com/item?id=45671569) - [How count-min sketches work – frequencies, but without the actual data](https://www.instantdb.com/essays/count_min_sketch)
 * [2025-10-20, 02:03:40](https://news.ycombinator.com/item?id=45639618) - [Pyscripter – open-source Python IDE written in Delphi](https://github.com/pyscripter/pyscripter)
 * [2025-10-18, 12:07:40](https://news.ycombinator.com/item?id=45626685) - [Glasses-free 3D using webcam head tracking](https://assetstore.unity.com/packages/tools/camera/vr-without-glasses-for-webgl-332314)
-* [2025-10-16, 15:00:06](https://news.ycombinator.com/item?id=45606224) - [CRDTs: Convergence without coordination](https://read.thecoder.cafe/p/crdt)
 * [2025-10-14, 18:35:59](https://news.ycombinator.com/item?id=45583291) - [The OS/2 Display Driver Zoo](https://www.os2museum.com/wp/the-os-2-display-driver-zoo/)
 * [2025-10-14, 14:51:29](https://news.ycombinator.com/item?id=45580795) - [Kaitai Struct: declarative binary format parsing language](https://kaitai.io/)
 
