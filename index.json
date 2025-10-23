@@ -1,12 +1,42 @@
 [
   [
     [
+      "2025-10-23, 22:11:23",
+      "https://news.ycombinator.com/item?id=45688006"
+    ],
+    [
+      "Apple loses UK App Store monopoly case, penalty might near $2B",
+      "https://9to5mac.com/2025/10/23/apple-loses-uk-app-store-monopoly-case-penalty-might-near-2-billion/"
+    ]
+  ],
+  [
+    [
       "2025-10-23, 21:28:02",
       "https://news.ycombinator.com/item?id=45687458"
     ],
     [
       "Why /Dev/Null Is an Acid Compliant Database",
       "https://jyu.dev/blog/why-dev-null-is-an-acid-compliant-database/"
+    ]
+  ],
+  [
+    [
+      "2025-10-23, 21:26:57",
+      "https://news.ycombinator.com/item?id=45687441"
+    ],
+    [
+      "When is it better to think without words?",
+      "https://www.henrikkarlsson.xyz/p/wordless-thought"
+    ]
+  ],
+  [
+    [
+      "2025-10-23, 21:11:14",
+      "https://news.ycombinator.com/item?id=45687227"
+    ],
+    [
+      "We only have one life. Let's stop wasting it on YouTube shorts",
+      "https://github.com/CaptainYouz/FocusTube"
     ]
   ],
   [
@@ -71,22 +101,22 @@
   ],
   [
     [
-      "2025-10-23, 17:52:18",
-      "https://news.ycombinator.com/item?id=45684736"
-    ],
-    [
-      "OpenMaxIO: Forked UI for MinIO Object Storage",
-      "https://github.com/OpenMaxIO/openmaxio-object-browser"
-    ]
-  ],
-  [
-    [
       "2025-10-23, 17:48:13",
       "https://news.ycombinator.com/item?id=45684689"
     ],
     [
       "Show HN: I built a tech news aggregator that works the way my brain does",
       "https://deadstack.net/recent"
+    ]
+  ],
+  [
+    [
+      "2025-10-23, 17:04:17",
+      "https://news.ycombinator.com/item?id=45684236"
+    ],
+    [
+      "OpenAI acquires Sky.app",
+      "https://openai.com/index/openai-acquires-software-applications-incorporated"
     ]
   ],
   [
@@ -131,16 +161,6 @@
   ],
   [
     [
-      "2025-10-23, 15:41:54",
-      "https://news.ycombinator.com/item?id=45683153"
-    ],
-    [
-      "VectorWare – from creators of `rust-GPU` and `rust-CUDA`",
-      "https://www.vectorware.com/blog/announcing-vectorware/"
-    ]
-  ],
-  [
-    [
       "2025-10-23, 15:41:48",
       "https://news.ycombinator.com/item?id=45683152"
     ],
@@ -157,16 +177,6 @@
     [
       "Show HN: Git for LLMs – a context management interface",
       "https://twigg.ai"
-    ]
-  ],
-  [
-    [
-      "2025-10-23, 13:25:02",
-      "https://news.ycombinator.com/item?id=45681547"
-    ],
-    [
-      "Unconventional Ways to Cast in TypeScript",
-      "https://wolfgirl.dev/blog/2025-10-22-4-unconventional-ways-to-cast-in-typescript/"
     ]
   ],
   [
@@ -211,16 +221,6 @@
   ],
   [
     [
-      "2025-10-23, 05:42:31",
-      "https://news.ycombinator.com/item?id=45678511"
-    ],
-    [
-      "Programming with Less Than Nothing",
-      "https://joshmoody.org/blog/programming-with-less-than-nothing/"
-    ]
-  ],
-  [
-    [
       "2025-10-23, 01:19:58",
       "https://news.ycombinator.com/item?id=45677139"
     ],
@@ -261,12 +261,12 @@
   ],
   [
     [
-      "2025-10-16, 15:00:06",
-      "https://news.ycombinator.com/item?id=45606224"
+      "2025-10-16, 02:44:09",
+      "https://news.ycombinator.com/item?id=45600897"
     ],
     [
-      "CRDTs: Convergence without coordination",
-      "https://read.thecoder.cafe/p/crdt"
+      "RFC 9861: KangarooTwelve and TurboSHAKE",
+      "https://datatracker.ietf.org/doc/rfc9861/"
     ]
   ],
   [
