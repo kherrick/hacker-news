@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-10-23](index.md)
 
+* [2025-10-23, 11:15:44](https://news.ycombinator.com/item?id=45680547) - [SpaceX disables 2,500 Starlink terminals allegedly used by Asian scam centers](https://arstechnica.com/tech-policy/2025/10/starlink-blocks-2500-dishes-allegedly-used-by-myanmars-notorious-scam-centers/)
+* [2025-10-23, 10:49:02](https://news.ycombinator.com/item?id=45680390) - [Egg prices vs. Consumer Price Index since 1980](https://fred.stlouisfed.org/graph/?g=1Nm5b)
 * [2025-10-23, 08:41:21](https://news.ycombinator.com/item?id=45679638) - [C64 Blood Money](https://lemmings.info/c64-blood-money/)
 * [2025-10-23, 08:31:13](https://news.ycombinator.com/item?id=45679558) - [Female spies are waging 'sex warfare' to steal Silicon Valley secrets](https://www.thetimes.com/us/american-politics/article/silicon-valley-spy-china-russia-2v03676kl)
 * [2025-10-23, 07:46:56](https://news.ycombinator.com/item?id=45679307) - [AI assistance is only making coders dumb, lazy and prone to replacement](https://news.ycombinator.com/item?id=45679307)
