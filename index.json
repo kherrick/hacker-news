@@ -1,11 +1,21 @@
 [
   [
     [
+      "2025-10-23, 16:58:04",
+      "https://news.ycombinator.com/item?id=45684155"
+    ],
+    [
+      "Google Earth AI expanding access around the globe",
+      "https://blog.google/technology/research/new-updates-and-more-access-to-google-earth-ai/"
+    ]
+  ],
+  [
+    [
       "2025-10-23, 16:36:05",
       "https://news.ycombinator.com/item?id=45683897"
     ],
     [
-      "Antislop: A Framework for Eliminating Repetitive Patterns in Language Models",
+      "Antislop: A framework for eliminating repetitive patterns in language models",
       "https://arxiv.org/abs/2510.15061"
     ]
   ],
@@ -51,11 +61,21 @@
   ],
   [
     [
+      "2025-10-23, 13:25:02",
+      "https://news.ycombinator.com/item?id=45681547"
+    ],
+    [
+      "Unconventional Ways to Cast in TypeScript",
+      "https://wolfgirl.dev/blog/2025-10-22-4-unconventional-ways-to-cast-in-typescript/"
+    ]
+  ],
+  [
+    [
       "2025-10-23, 12:47:41",
       "https://news.ycombinator.com/item?id=45681200"
     ],
     [
-      "I spent a year of my life making an ASN.1 compiler in D",
+      "I spent a year making an ASN.1 compiler in D",
       "https://bradley.chatha.dev/blog/dlang-propaganda/asn1-compiler-in-d/"
     ]
   ],
@@ -75,7 +95,7 @@
       "https://news.ycombinator.com/item?id=45680847"
     ],
     [
-      "Nango (YC W23) is hiring Staff Back end Engs (remote)",
+      "Nango (YC W23) is hiring staff back-end engineers (remote)",
       "https://www.nango.dev/careers"
     ]
   ],
@@ -85,7 +105,7 @@
       "https://news.ycombinator.com/item?id=45680695"
     ],
     [
-      "The Game Theory of How Algorithms Can Drive Up Prices",
+      "The game theory of how algorithms can drive up prices",
       "https://www.quantamagazine.org/the-game-theory-of-how-algorithms-can-drive-up-prices-20251022/"
     ]
   ],
@@ -165,7 +185,7 @@
       "https://news.ycombinator.com/item?id=45674568"
     ],
     [
-      "Why SSA Compilers?",
+      "Why SSA?",
       "https://mcyoung.xyz/2025/10/21/ssa-1/"
     ]
   ],
@@ -197,16 +217,6 @@
     [
       "JMAP for Calendars, Contacts and Files Now in Stalwart",
       "https://stalw.art/blog/jmap-collaboration/"
-    ]
-  ],
-  [
-    [
-      "2025-10-22, 15:16:19",
-      "https://news.ycombinator.com/item?id=45670443"
-    ],
-    [
-      "Willow quantum chip demonstrates verifiable quantum advantage on hardware",
-      "https://blog.google/technology/research/quantum-echoes-willow-verifiable-quantum-advantage/"
     ]
   ],
   [
@@ -251,21 +261,11 @@
   ],
   [
     [
-      "2025-10-16, 19:12:47",
-      "https://news.ycombinator.com/item?id=45609478"
-    ],
-    [
-      "Play abstract strategy board games online with friends or against bots",
-      "https://abstractboardgames.com/"
-    ]
-  ],
-  [
-    [
       "2025-10-16, 15:00:06",
       "https://news.ycombinator.com/item?id=45606224"
     ],
     [
-      "Conflict-Free Replicated Data Types (CRDTs): Convergence Without Coordination",
+      "CRDTs: Convergence without coordination",
       "https://read.thecoder.cafe/p/crdt"
     ]
   ],
