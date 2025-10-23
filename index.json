@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-10-23, 19:05:24",
+      "https://news.ycombinator.com/item?id=45685551"
+    ],
+    [
+      "What Happened to Apple's Legendary Attention to Detail?",
+      "https://blog.johnozbay.com/what-happened-to-apples-attention-to-detail.html"
+    ]
+  ],
+  [
+    [
       "2025-10-23, 18:15:45",
       "https://news.ycombinator.com/item?id=45685007"
     ],
@@ -25,7 +35,7 @@
       "https://news.ycombinator.com/item?id=45684736"
     ],
     [
-      "OpenMaxIO is a community-maintained fork of MinIO",
+      "OpenMaxIO: Forked UI for MinIO Object Storage",
       "https://github.com/OpenMaxIO/openmaxio-object-browser"
     ]
   ],
@@ -57,6 +67,16 @@
     [
       "OpenAI Acquires Software Applications Incorporated, Maker of Sky",
       "https://openai.com/index/openai-acquires-software-applications-incorporated"
+    ]
+  ],
+  [
+    [
+      "2025-10-23, 17:04:07",
+      "https://news.ycombinator.com/item?id=45684230"
+    ],
+    [
+      "Show HN: Tommy – Turn ESP32 devices into through-wall motion sensors",
+      "https://www.tommysense.com"
     ]
   ],
   [
@@ -191,16 +211,6 @@
   ],
   [
     [
-      "2025-10-23, 05:56:23",
-      "https://news.ycombinator.com/item?id=45678603"
-    ],
-    [
-      "Radios, how do they work? (2024)",
-      "https://lcamtuf.substack.com/p/radios-how-do-they-work"
-    ]
-  ],
-  [
-    [
       "2025-10-23, 05:48:02",
       "https://news.ycombinator.com/item?id=45678549"
     ],
@@ -241,12 +251,12 @@
   ],
   [
     [
-      "2025-10-22, 18:21:54",
-      "https://news.ycombinator.com/item?id=45673130"
+      "2025-10-22, 16:27:26",
+      "https://news.ycombinator.com/item?id=45671569"
     ],
     [
-      "Accessing Max Verstappen's passport and PII through FIA bugs",
-      "https://ian.sh/fia"
+      "How count-min sketches work – frequencies, but without the actual data",
+      "https://www.instantdb.com/essays/count_min_sketch"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "The OS/2 Display Driver Zoo",
       "https://www.os2museum.com/wp/the-os-2-display-driver-zoo/"
-    ]
-  ],
-  [
-    [
-      "2025-10-14, 12:14:24",
-      "https://news.ycombinator.com/item?id=45579118"
-    ],
-    [
-      "Compiler for \"Easy\" language from \"Etudes for Programmers\" book (1978)",
-      "https://github.com/begoon/easy"
     ]
   ]
 ]
