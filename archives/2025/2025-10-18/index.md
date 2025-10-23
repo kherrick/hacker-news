@@ -30,6 +30,7 @@
 * [2025-10-18, 12:44:16](https://news.ycombinator.com/item?id=45626910) - [The IDEs we had 30 years ago ... and we lost](https://blogsystem5.substack.com/p/the-ides-we-had-30-years-ago-and)
 * [2025-10-18, 12:40:43](https://news.ycombinator.com/item?id=45626892) - [US falls out of 10 most powerful passports list for first time in 20 yrs](https://www.theguardian.com/us-news/2025/oct/15/most-powerful-passports-world-list)
 * [2025-10-18, 12:08:20](https://news.ycombinator.com/item?id=45626691) - [Are we living in a golden age of stupidity?](https://www.theguardian.com/technology/2025/oct/18/are-we-living-in-a-golden-age-of-stupidity-technology)
+* [2025-10-18, 12:07:40](https://news.ycombinator.com/item?id=45626685) - [Glasses-free 3D using webcam head tracking](https://assetstore.unity.com/packages/tools/camera/vr-without-glasses-for-webgl-332314)
 * [2025-10-18, 11:39:59](https://news.ycombinator.com/item?id=45626549) - [MD RAID or DRBD can be broken from userspace when using O_DIRECT](https://bugzilla.kernel.org/show_bug.cgi?id=99171)
 * [2025-10-18, 10:51:02](https://news.ycombinator.com/item?id=45626349) - [EQ: A video about all forms of equalizers](https://www.youtube.com/watch?v=CLAt95PrwL4)
 * [2025-10-18, 09:55:06](https://news.ycombinator.com/item?id=45626130) - [./Watch](https://dotslashwatch.com/)
