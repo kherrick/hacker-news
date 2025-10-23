@@ -22,12 +22,12 @@
 * [2025-10-23, 12:40:57](https://news.ycombinator.com/item?id=45681147) - [US probes Waymo robotaxis over school bus safety](https://www.yahoo.com/news/articles/us-investigates-waymo-robotaxis-over-102015308.html)
 * [2025-10-23, 12:00:11](https://news.ycombinator.com/item?id=45680847) - [Nango (YC W23) is hiring staff back-end engineers (remote)](https://www.nango.dev/careers)
 * [2025-10-23, 10:15:12](https://news.ycombinator.com/item?id=45680237) - [PyTorch Monarch](https://pytorch.org/blog/introducing-pytorch-monarch/)
-* [2025-10-23, 05:48:02](https://news.ycombinator.com/item?id=45678549) - [VST3 audio plugin format is now MIT](https://forums.steinberg.net/t/vst-3-8-0-sdk-released/1011988)
 * [2025-10-23, 05:42:31](https://news.ycombinator.com/item?id=45678511) - [Programming with Less Than Nothing](https://joshmoody.org/blog/programming-with-less-than-nothing/)
 * [2025-10-23, 01:19:58](https://news.ycombinator.com/item?id=45677139) - [Summary of the Amazon DynamoDB Service Disruption in US-East-1 Region](https://aws.amazon.com/message/101925/)
 * [2025-10-22, 16:27:26](https://news.ycombinator.com/item?id=45671569) - [How count-min sketches work – frequencies, but without the actual data](https://www.instantdb.com/essays/count_min_sketch)
 * [2025-10-20, 02:03:40](https://news.ycombinator.com/item?id=45639618) - [Pyscripter – open-source Python IDE written in Delphi](https://github.com/pyscripter/pyscripter)
 * [2025-10-18, 12:07:40](https://news.ycombinator.com/item?id=45626685) - [Glasses-free 3D using webcam head tracking](https://assetstore.unity.com/packages/tools/camera/vr-without-glasses-for-webgl-332314)
+* [2025-10-14, 20:36:09](https://news.ycombinator.com/item?id=45584500) - [I Managed to Grow Countable Yeast Colonies](https://chillphysicsenjoyer.substack.com/p/i-managed-to-grow-countable-yeast)
 * [2025-10-14, 18:35:59](https://news.ycombinator.com/item?id=45583291) - [The OS/2 Display Driver Zoo](https://www.os2museum.com/wp/the-os-2-display-driver-zoo/)
 * [2025-10-14, 14:51:29](https://news.ycombinator.com/item?id=45580795) - [Kaitai Struct: declarative binary format parsing language](https://kaitai.io/)
 
