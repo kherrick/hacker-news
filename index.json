@@ -1,16 +1,6 @@
 [
   [
     [
-      "2025-10-23, 13:03:13",
-      "https://news.ycombinator.com/item?id=45681326"
-    ],
-    [
-      "Casey Muratori: I can always tell a good programmer in an interview",
-      "https://www.gethopp.app/blog/how-to-conduct-good-programming-interviews"
-    ]
-  ],
-  [
-    [
       "2025-10-23, 12:47:41",
       "https://news.ycombinator.com/item?id=45681200"
     ],
@@ -161,6 +151,16 @@
   ],
   [
     [
+      "2025-10-22, 18:00:20",
+      "https://news.ycombinator.com/item?id=45672844"
+    ],
+    [
+      "Rivian's TM-B electric bike",
+      "https://www.theverge.com/news/804157/rivian-tm-b-electric-bike-price-specs-helmet-quad"
+    ]
+  ],
+  [
+    [
       "2025-10-22, 17:26:06",
       "https://news.ycombinator.com/item?id=45672336"
     ],
@@ -211,16 +211,6 @@
   ],
   [
     [
-      "2025-10-20, 00:56:54",
-      "https://news.ycombinator.com/item?id=45639338"
-    ],
-    [
-      "Power-over-Skin: Full-Body Wearables Powered by Intra-Body RF Energy (2024)",
-      "https://dl.acm.org/doi/10.1145/3654777.3676394"
-    ]
-  ],
-  [
-    [
       "2025-10-18, 14:18:03",
       "https://news.ycombinator.com/item?id=45627586"
     ],
@@ -247,6 +237,16 @@
     [
       "Play abstract strategy board games online with friends or against bots",
       "https://abstractboardgames.com/"
+    ]
+  ],
+  [
+    [
+      "2025-10-16, 15:00:06",
+      "https://news.ycombinator.com/item?id=45606224"
+    ],
+    [
+      "Conflict-Free Replicated Data Types (CRDTs): Convergence Without Coordination",
+      "https://read.thecoder.cafe/p/crdt"
     ]
   ],
   [
