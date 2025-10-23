@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-10-23](index.md)
 
+* [2025-10-23, 19:43:44](https://news.ycombinator.com/item?id=45686083) - [The Muscular Compassion of \"Paper Girl\"](https://www.newyorker.com/books/page-turner/the-muscular-compassion-of-paper-girl)
 * [2025-10-23, 19:24:04](https://news.ycombinator.com/item?id=45685793) - [Show HN: OpenSnowcat – A fork of Snowplow to keep open analytics alive](https://opensnowcat.io/)
 * [2025-10-23, 19:05:24](https://news.ycombinator.com/item?id=45685551) - [What Happened to Apple's Legendary Attention to Detail?](https://blog.johnozbay.com/what-happened-to-apples-attention-to-detail.html)
 * [2025-10-23, 18:15:45](https://news.ycombinator.com/item?id=45685007) - [Can \"second life\" EV batteries work as grid-scale energy storage?](https://www.volts.wtf/p/can-second-life-ev-batteries-work)
@@ -19,6 +20,7 @@
 * [2025-10-23, 16:46:57](https://news.ycombinator.com/item?id=45684035) - [MinIO declines to release Docker builds resolving CVE-2025-62506](https://github.com/minio/minio/issues/21647)
 * [2025-10-23, 16:36:05](https://news.ycombinator.com/item?id=45683897) - [Antislop: A Framework for Eliminating Repetitive Patterns in Language Models](https://arxiv.org/abs/2510.15061)
 * [2025-10-23, 15:41:54](https://news.ycombinator.com/item?id=45683153) - [VectorWare – from creators of `rust-GPU` and `rust-CUDA`](https://www.vectorware.com/blog/announcing-vectorware/)
+* [2025-10-23, 15:41:48](https://news.ycombinator.com/item?id=45683152) - [Trump pardons convicted Binance founder](https://www.wsj.com/finance/currencies/trump-pardons-convicted-binance-founder-7509bd63)
 * [2025-10-23, 15:39:10](https://news.ycombinator.com/item?id=45683113) - [Reasoning Is Not Model Improvement](https://manidoraisamy.com/reasoning-not-ai.html)
 * [2025-10-23, 15:12:57](https://news.ycombinator.com/item?id=45682776) - [Show HN: Git for LLMs – a context management interface](https://twigg.ai)
 * [2025-10-23, 15:03:05](https://news.ycombinator.com/item?id=45682671) - [US hits $38T in debt. Fastest accumulation of $1T outside pandemic](https://apnews.com/article/trump-treasury-debt-ceiling-bessent-09575f13ca95c2f1beb38234b2cbe85b)
