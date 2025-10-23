@@ -6,6 +6,7 @@
 
 * [2025-10-23, 15:03:05](https://news.ycombinator.com/item?id=45682671) - [US hits $38T in debt. Fastest accumulation of $1T outside pandemic](https://apnews.com/article/trump-treasury-debt-ceiling-bessent-09575f13ca95c2f1beb38234b2cbe85b)
 * [2025-10-23, 14:25:22](https://news.ycombinator.com/item?id=45682169) - [US axes website for reporting human rights abuses by US-armed foreign forces](https://www.bbc.com/news/articles/cqx30vnwd4do)
+* [2025-10-23, 14:20:40](https://news.ycombinator.com/item?id=45682122) - [Show HN: Nostr Web – decentralized website hosting on Nostr](https://nweb.shugur.com)
 * [2025-10-23, 14:15:22](https://news.ycombinator.com/item?id=45682067) - [Microsoft puts Office Online Server on the chopping block](https://www.theregister.com/2025/10/22/microsoft_office_online_server/)
 * [2025-10-23, 13:54:36](https://news.ycombinator.com/item?id=45681850) - [We need to start doing web blocking for non-technical reasons](https://utcc.utoronto.ca/~cks/space/blog/web/WeShouldBlockForSocialReasons?showcomments)
 * [2025-10-23, 13:03:13](https://news.ycombinator.com/item?id=45681326) - [Casey Muratori: I can always tell a good programmer in an interview](https://www.gethopp.app/blog/how-to-conduct-good-programming-interviews)
