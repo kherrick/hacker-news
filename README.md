@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-10-23, 08:41:21](https://news.ycombinator.com/item?id=45679638) - [C64 Blood Money](https://lemmings.info/c64-blood-money/)
-* [2025-10-23, 08:31:13](https://news.ycombinator.com/item?id=45679558) - [Female spies are waging 'sex warfare' to steal Silicon Valley secrets](https://www.thetimes.com/us/american-politics/article/silicon-valley-spy-china-russia-2v03676kl)
 * [2025-10-23, 05:56:23](https://news.ycombinator.com/item?id=45678603) - [Radios, how do they work? (2024)](https://lcamtuf.substack.com/p/radios-how-do-they-work)
 * [2025-10-23, 05:48:02](https://news.ycombinator.com/item?id=45678549) - [VST3 audio plugin format is now MIT](https://forums.steinberg.net/t/vst-3-8-0-sdk-released/1011988)
 * [2025-10-23, 05:42:31](https://news.ycombinator.com/item?id=45678511) - [Programming with Less Than Nothing](https://joshmoody.org/blog/programming-with-less-than-nothing/)
@@ -21,6 +20,7 @@
 * [2025-10-22, 09:03:40](https://news.ycombinator.com/item?id=45666497) - [Element: setHTML() method](https://developer.mozilla.org/en-US/docs/Web/API/Element/setHTML)
 * [2025-10-21, 17:43:16](https://news.ycombinator.com/item?id=45658928) - [Karpathy on DeepSeek-OCR paper: Are pixels better inputs to LLMs than text?](https://twitter.com/karpathy/status/1980397031542989305)
 * [2025-10-18, 18:46:11](https://news.ycombinator.com/item?id=45629522) - [TP-Link conducts Wi-Fi 8 trials, promises better reliability and lower latency](https://www.techspot.com/news/109837-tp-link-conducts-successful-wi-fi-8-trials.html)
+* [2025-10-18, 15:37:08](https://news.ycombinator.com/item?id=45628169) - [LibCube: Find new sounds from audio synths easier](https://github.com/cslr/libcube-public/wiki)
 * [2025-10-18, 14:18:03](https://news.ycombinator.com/item?id=45627586) - [Show HN: Silly Morse code chat app using WebSockets](https://noamtamir.github.io/morwse/)
 * [2025-10-18, 12:07:40](https://news.ycombinator.com/item?id=45626685) - [Glasses-free 3D using webcam head tracking](https://assetstore.unity.com/packages/tools/camera/vr-without-glasses-for-webgl-332314)
 * [2025-10-16, 19:12:47](https://news.ycombinator.com/item?id=45609478) - [Play abstract strategy board games online with friends or against bots](https://abstractboardgames.com/)
