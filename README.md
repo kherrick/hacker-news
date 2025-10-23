@@ -14,6 +14,7 @@
 * [2025-10-23, 11:38:49](https://news.ycombinator.com/item?id=45680695) - [The game theory of how algorithms can drive up prices](https://www.quantamagazine.org/the-game-theory-of-how-algorithms-can-drive-up-prices-20251022/)
 * [2025-10-23, 11:15:44](https://news.ycombinator.com/item?id=45680547) - [SpaceX disables 2,500 Starlink terminals allegedly used by Asian scam centers](https://arstechnica.com/tech-policy/2025/10/starlink-blocks-2500-dishes-allegedly-used-by-myanmars-notorious-scam-centers/)
 * [2025-10-23, 10:15:12](https://news.ycombinator.com/item?id=45680237) - [PyTorch Monarch](https://pytorch.org/blog/introducing-pytorch-monarch/)
+* [2025-10-23, 08:41:21](https://news.ycombinator.com/item?id=45679638) - [C64 Blood Money](https://lemmings.info/c64-blood-money/)
 * [2025-10-23, 05:56:23](https://news.ycombinator.com/item?id=45678603) - [Radios, how do they work? (2024)](https://lcamtuf.substack.com/p/radios-how-do-they-work)
 * [2025-10-23, 05:48:02](https://news.ycombinator.com/item?id=45678549) - [VST3 audio plugin format is now MIT](https://forums.steinberg.net/t/vst-3-8-0-sdk-released/1011988)
 * [2025-10-23, 05:42:31](https://news.ycombinator.com/item?id=45678511) - [Programming with Less Than Nothing](https://joshmoody.org/blog/programming-with-less-than-nothing/)
@@ -27,7 +28,6 @@
 * [2025-10-18, 09:54:56](https://news.ycombinator.com/item?id=45626129) - [Which Collatz numbers do Busy Beavers simulate (if any)?](https://gbragafibra.github.io/2025/10/16/collatz_ant11.html)
 * [2025-10-16, 15:00:06](https://news.ycombinator.com/item?id=45606224) - [CRDTs: Convergence without coordination](https://read.thecoder.cafe/p/crdt)
 * [2025-10-16, 14:31:13](https://news.ycombinator.com/item?id=45605823) - [Run interactive commands in Gemini CLI](https://developers.googleblog.com/en/say-hello-to-a-new-level-of-interactivity-in-gemini-cli/)
-* [2025-10-15, 17:25:17](https://news.ycombinator.com/item?id=45595807) - [Ask HN: Does anyone have scans of these missing PC Plus issues (1991–1993)?](https://news.ycombinator.com/item?id=45595807)
 * [2025-10-15, 02:04:46](https://news.ycombinator.com/item?id=45587291) - [Upgrading Our Way Through OpenGL 1.x](https://bumbershootsoft.wordpress.com/2025/09/27/upgrading-our-way-through-opengl-1-x/)
 * [2025-10-14, 12:14:24](https://news.ycombinator.com/item?id=45579118) - [Compiler for \"Easy\" language from \"Etudes for Programmers\" book (1978)](https://github.com/begoon/easy)
 
