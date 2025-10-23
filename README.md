@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-10-23, 06:49:44](https://news.ycombinator.com/item?id=45678941) - [Be Careful with Obsidian](https://phong.bearblog.dev/be-careful-with-obsidian/)
 * [2025-10-23, 05:56:23](https://news.ycombinator.com/item?id=45678603) - [Radios, how do they work? (2024)](https://lcamtuf.substack.com/p/radios-how-do-they-work)
 * [2025-10-23, 05:48:02](https://news.ycombinator.com/item?id=45678549) - [VST3 audio plugin format is now MIT](https://forums.steinberg.net/t/vst-3-8-0-sdk-released/1011988)
 * [2025-10-23, 05:42:31](https://news.ycombinator.com/item?id=45678511) - [Programming with Less Than Nothing](https://joshmoody.org/blog/programming-with-less-than-nothing/)
@@ -23,7 +24,6 @@
 * [2025-10-18, 15:37:08](https://news.ycombinator.com/item?id=45628169) - [LibCube: Find new sounds from audio synths easier](https://github.com/cslr/libcube-public/wiki)
 * [2025-10-18, 14:18:03](https://news.ycombinator.com/item?id=45627586) - [Show HN: Silly Morse code chat app using WebSockets](https://noamtamir.github.io/morwse/)
 * [2025-10-18, 12:07:40](https://news.ycombinator.com/item?id=45626685) - [Glasses-free 3D using webcam head tracking](https://assetstore.unity.com/packages/tools/camera/vr-without-glasses-for-webgl-332314)
-* [2025-10-16, 22:24:00](https://news.ycombinator.com/item?id=45611414) - [Speculations on arenas and non-trivial destructors](https://nullprogram.com/blog/2025/10/16/)
 * [2025-10-16, 19:12:47](https://news.ycombinator.com/item?id=45609478) - [Play abstract strategy board games online with friends or against bots](https://abstractboardgames.com/)
 * [2025-10-16, 14:31:13](https://news.ycombinator.com/item?id=45605823) - [Run interactive commands in Gemini CLI](https://developers.googleblog.com/en/say-hello-to-a-new-level-of-interactivity-in-gemini-cli/)
 * [2025-10-16, 14:27:52](https://news.ycombinator.com/item?id=45605778) - [Derek Sivers's database and web apps](https://github.com/sivers/sivers)
