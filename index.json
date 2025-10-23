@@ -105,7 +105,7 @@
       "https://news.ycombinator.com/item?id=45673130"
     ],
     [
-      "Mass Assignment Vulnerability Exposes Max Verstappen Passport and F1 Drivers PII",
+      "Accessing Max Verstappen's passport and PII through FIA bugs",
       "https://ian.sh/fia"
     ]
   ],
@@ -191,12 +191,12 @@
   ],
   [
     [
-      "2025-10-22, 12:39:37",
-      "https://news.ycombinator.com/item?id=45668160"
+      "2025-10-22, 12:12:28",
+      "https://news.ycombinator.com/item?id=45667866"
     ],
     [
-      "SourceFS: A 2h+ Android build becomes a 15m task with a virtual filesystem",
-      "https://www.source.dev/journal/sourcefs"
+      "Internet's biggest annoyance: Cookie laws should target browsers, not websites",
+      "https://nednex.com/en/the-internets-biggest-annoyance-why-cookie-laws-should-target-browsers-not-websites/"
     ]
   ],
   [
@@ -217,16 +217,6 @@
     [
       "Element: setHTML() method",
       "https://developer.mozilla.org/en-US/docs/Web/API/Element/setHTML"
-    ]
-  ],
-  [
-    [
-      "2025-10-22, 06:41:09",
-      "https://news.ycombinator.com/item?id=45665617"
-    ],
-    [
-      "Enchanting Imposters",
-      "https://daily.jstor.org/enchanting-imposters/"
     ]
   ],
   [
@@ -267,6 +257,16 @@
     [
       "Play abstract strategy board games online with friends or against bots",
       "https://abstractboardgames.com/"
+    ]
+  ],
+  [
+    [
+      "2025-10-16, 14:31:13",
+      "https://news.ycombinator.com/item?id=45605823"
+    ],
+    [
+      "Run interactive commands in Gemini CLI",
+      "https://developers.googleblog.com/en/say-hello-to-a-new-level-of-interactivity-in-gemini-cli/"
     ]
   ],
   [
