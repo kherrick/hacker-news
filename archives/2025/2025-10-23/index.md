@@ -5,6 +5,8 @@
 ### [Archives](../../index.md) for [2025-10-23](index.md)
 
 * [2025-10-23, 16:58:04](https://news.ycombinator.com/item?id=45684155) - [Google Earth AI expanding access around the globe](https://blog.google/technology/research/new-updates-and-more-access-to-google-earth-ai/)
+* [2025-10-23, 16:56:07](https://news.ycombinator.com/item?id=45684134) - [Claude Memory](https://www.anthropic.com/news/memory)
+* [2025-10-23, 16:46:57](https://news.ycombinator.com/item?id=45684035) - [MinIO declines to release Docker builds resolving CVE-2025-62506](https://github.com/minio/minio/issues/21647)
 * [2025-10-23, 16:36:05](https://news.ycombinator.com/item?id=45683897) - [Antislop: A Framework for Eliminating Repetitive Patterns in Language Models](https://arxiv.org/abs/2510.15061)
 * [2025-10-23, 15:41:54](https://news.ycombinator.com/item?id=45683153) - [VectorWare – from creators of `rust-GPU` and `rust-CUDA`](https://www.vectorware.com/blog/announcing-vectorware/)
 * [2025-10-23, 15:03:05](https://news.ycombinator.com/item?id=45682671) - [US hits $38T in debt. Fastest accumulation of $1T outside pandemic](https://apnews.com/article/trump-treasury-debt-ceiling-bessent-09575f13ca95c2f1beb38234b2cbe85b)
@@ -34,3 +36,4 @@
 * [2025-10-23, 04:23:39](https://news.ycombinator.com/item?id=45678156) - [The mild mannered Englishman who was the most prolific ghost hunter](https://lithub.com/the-mild-mannered-englishman-who-was-the-worlds-most-prolific-ghost-hunter/)
 * [2025-10-23, 03:47:09](https://news.ycombinator.com/item?id=45677966) - [The Myth of Outrunning Your Diet](https://williamjbarry.substack.com/p/the-myth-of-outrunning-your-diet)
 * [2025-10-23, 01:36:37](https://news.ycombinator.com/item?id=45677243) - [The Sodium-Ion Battery Revolution Has Started](https://cleantechnica.com/2025/10/22/the-sodium-ion-battery-revolution-has-started/)
+* [2025-10-23, 01:19:58](https://news.ycombinator.com/item?id=45677139) - [Summary of the Amazon DynamoDB Service Disruption in US-East-1 Region](https://aws.amazon.com/message/101925/)

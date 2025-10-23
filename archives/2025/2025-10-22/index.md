@@ -54,6 +54,7 @@
 * [2025-10-22, 13:00:08](https://news.ycombinator.com/item?id=45668408) - [A Brain-like LLM to replace Transformers](https://arxiv.org/abs/2509.26507)
 * [2025-10-22, 12:48:01](https://news.ycombinator.com/item?id=45668264) - [The security paradox of local LLMs](https://quesma.com/blog/local-llms-security-paradox/)
 * [2025-10-22, 12:39:37](https://news.ycombinator.com/item?id=45668160) - [SourceFS: A 2h+ Android build becomes a 15m task with a virtual filesystem](https://www.source.dev/journal/sourcefs)
+* [2025-10-22, 12:36:19](https://news.ycombinator.com/item?id=45668118) - [Living Dangerously with Claude](https://simonwillison.net/2025/Oct/22/living-dangerously-with-claude/)
 * [2025-10-22, 12:28:13](https://news.ycombinator.com/item?id=45668022) - [Tesla Recalls Almost 13,000 EVs over Risk of Battery Power Loss](https://www.bloomberg.com/news/articles/2025-10-22/tesla-recalls-almost-13-000-evs-over-risk-of-battery-power-loss)
 * [2025-10-22, 12:27:16](https://news.ycombinator.com/item?id=45668008) - [Jaguar Land Rover hack cost UK economy an estimated $2.5B](https://www.reuters.com/sustainability/boards-policy-regulation/jaguar-land-rover-hack-cost-uk-economy-25-billion-report-says-2025-10-22/)
 * [2025-10-22, 12:21:39](https://news.ycombinator.com/item?id=45667949) - [Subprime Lender PrimaLend Enters Bankruptcy After Bond Default](https://www.bloomberg.com/news/articles/2025-10-22/subprime-lender-primalend-enters-bankruptcy-after-bond-default)
