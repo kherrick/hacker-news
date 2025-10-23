@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-10-23, 05:48:02](https://news.ycombinator.com/item?id=45678549) - [VST3 audio plugin format is now MIT](https://forums.steinberg.net/t/vst-3-8-0-sdk-released/1011988)
 * [2025-10-23, 04:23:39](https://news.ycombinator.com/item?id=45678156) - [The mild mannered Englishman who was the most prolific ghost hunter](https://lithub.com/the-mild-mannered-englishman-who-was-the-worlds-most-prolific-ghost-hunter/)
 * [2025-10-23, 01:36:37](https://news.ycombinator.com/item?id=45677243) - [Sodium-ion batteries have started to appear in cars and home storage](https://cleantechnica.com/2025/10/22/the-sodium-ion-battery-revolution-has-started/)
 * [2025-10-22, 22:51:58](https://news.ycombinator.com/item?id=45676162) - [VortexNet: Neural network based on fluid dynamics](https://github.com/samim23/vortexnet)
@@ -18,7 +19,6 @@
 * [2025-10-22, 15:16:19](https://news.ycombinator.com/item?id=45670443) - [Willow quantum chip demonstrates verifiable quantum advantage on hardware](https://blog.google/technology/research/quantum-echoes-willow-verifiable-quantum-advantage/)
 * [2025-10-22, 14:53:54](https://news.ycombinator.com/item?id=45670052) - [Scripts I wrote that I use all the time](https://evanhahn.com/scripts-i-wrote-that-i-use-all-the-time/)
 * [2025-10-22, 14:22:41](https://news.ycombinator.com/item?id=45669593) - [Cryptographic Issues in Cloudflare's Circl FourQ Implementation (CVE-2025-8556)](https://www.botanica.software/blog/cryptographic-issues-in-cloudflares-circl-fourq-implementation)
-* [2025-10-22, 09:05:21](https://news.ycombinator.com/item?id=45666510) - [Greg Newby, CEO of Project Gutenberg Literary Archive Foundation, has died](https://www.pgdp.net/wiki/In_Memoriam/gbnewby)
 * [2025-10-22, 09:03:40](https://news.ycombinator.com/item?id=45666497) - [Element: setHTML() method](https://developer.mozilla.org/en-US/docs/Web/API/Element/setHTML)
 * [2025-10-21, 17:43:16](https://news.ycombinator.com/item?id=45658928) - [Karpathy on DeepSeek-OCR paper: Are pixels better inputs to LLMs than text?](https://twitter.com/karpathy/status/1980397031542989305)
 * [2025-10-18, 15:37:08](https://news.ycombinator.com/item?id=45628169) - [LibCube: Find new sounds from audio synths easier](https://github.com/cslr/libcube-public/wiki)
