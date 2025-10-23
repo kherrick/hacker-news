@@ -2,13 +2,12 @@
 
 * [2025-10-23, 08:41:21](https://news.ycombinator.com/item?id=45679638) - [C64 Blood Money](https://lemmings.info/c64-blood-money/)
 * [2025-10-23, 08:31:13](https://news.ycombinator.com/item?id=45679558) - [Female spies are waging 'sex warfare' to steal Silicon Valley secrets](https://www.thetimes.com/us/american-politics/article/silicon-valley-spy-china-russia-2v03676kl)
-* [2025-10-23, 07:46:56](https://news.ycombinator.com/item?id=45679307) - [AI assistance is only making coders dumb, lazy and prone to replacement](https://news.ycombinator.com/item?id=45679307)
 * [2025-10-23, 05:56:23](https://news.ycombinator.com/item?id=45678603) - [Radios, how do they work? (2024)](https://lcamtuf.substack.com/p/radios-how-do-they-work)
 * [2025-10-23, 05:48:02](https://news.ycombinator.com/item?id=45678549) - [VST3 audio plugin format is now MIT](https://forums.steinberg.net/t/vst-3-8-0-sdk-released/1011988)
 * [2025-10-23, 05:42:31](https://news.ycombinator.com/item?id=45678511) - [Programming with Less Than Nothing](https://joshmoody.org/blog/programming-with-less-than-nothing/)
 * [2025-10-23, 04:23:39](https://news.ycombinator.com/item?id=45678156) - [The mild mannered Englishman who was the most prolific ghost hunter](https://lithub.com/the-mild-mannered-englishman-who-was-the-worlds-most-prolific-ghost-hunter/)
+* [2025-10-23, 01:36:37](https://news.ycombinator.com/item?id=45677243) - [Sodium-ion batteries have started to appear in cars and home storage](https://cleantechnica.com/2025/10/22/the-sodium-ion-battery-revolution-has-started/)
 * [2025-10-22, 22:51:58](https://news.ycombinator.com/item?id=45676162) - [VortexNet: Neural network based on fluid dynamics](https://github.com/samim23/vortexnet)
-* [2025-10-22, 21:01:07](https://news.ycombinator.com/item?id=45675090) - [InpharmD (YC W21) Is Hiring – NLP Engineer](https://inpharmd.com/jobs/inpharmd-is-hiring-ai-ml-engineer)
 * [2025-10-22, 20:53:49](https://news.ycombinator.com/item?id=45675015) - [Google flags Immich sites as dangerous](https://immich.app/blog/google-flags-immich-as-dangerous)
 * [2025-10-22, 20:13:31](https://news.ycombinator.com/item?id=45674568) - [Why SSA Compilers?](https://mcyoung.xyz/2025/10/21/ssa-1/)
 * [2025-10-22, 19:42:36](https://news.ycombinator.com/item?id=45674166) - [Ovi: Twin backbone cross-modal fusion for audio-video generation](https://github.com/character-ai/Ovi)
@@ -29,6 +28,7 @@
 * [2025-10-16, 14:27:52](https://news.ycombinator.com/item?id=45605778) - [Derek Sivers's database and web apps](https://github.com/sivers/sivers)
 * [2025-10-16, 05:51:02](https://news.ycombinator.com/item?id=45601856) - [When You Get to Be Smart Writing a Macro](https://tonsky.me/blog/hashp/)
 * [2025-10-14, 22:57:36](https://news.ycombinator.com/item?id=45586006) - [Common yeast can survive Martian conditions](https://phys.org/news/2025-10-common-yeast-survive-martian-conditions.html)
+* [2025-10-13, 08:27:15](https://news.ycombinator.com/item?id=45566088) - [A Distributed Emulation Environment for In-Memory Computing Systems](https://www.arxiv.org/pdf/2510.08257)
 * [2025-10-12, 20:31:57](https://news.ycombinator.com/item?id=45561640) - [The first interstellar software update: The hack that saved Voyager 1 [video]](https://www.youtube.com/watch?v=p0K7u3B_8rY)
 
 ## [Archives](archives/index.md)
