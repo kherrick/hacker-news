@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2025-10-23](index.md)
 
+* [2025-10-23, 20:49:08](https://news.ycombinator.com/item?id=45686919) - [Date bug in Rust-based coreutils affects Ubuntu 25.10 automatic updates](https://lwn.net/Articles/1043103/)
 * [2025-10-23, 20:39:41](https://news.ycombinator.com/item?id=45686790) - [Expanding Our Use of Google Cloud TPUs and Services](https://www.anthropic.com/news/expanding-our-use-of-google-cloud-tpus-and-services)
 * [2025-10-23, 20:32:27](https://news.ycombinator.com/item?id=45686704) - [I wrote about parallel prompts: from 3D shoe renders to swipe-ready videos](https://www.widgens.com/blog/parallel-prompting)
+* [2025-10-23, 19:58:12](https://news.ycombinator.com/item?id=45686280) - [Zram Performance Analysis](https://notes.xeome.dev/notes/Zram)
 * [2025-10-23, 19:43:44](https://news.ycombinator.com/item?id=45686083) - [The Muscular Compassion of \"Paper Girl\"](https://www.newyorker.com/books/page-turner/the-muscular-compassion-of-paper-girl)
 * [2025-10-23, 19:24:04](https://news.ycombinator.com/item?id=45685793) - [Show HN: OpenSnowcat – A fork of Snowplow to keep open analytics alive](https://opensnowcat.io/)
 * [2025-10-23, 19:05:24](https://news.ycombinator.com/item?id=45685551) - [What Happened to Apple's Legendary Attention to Detail?](https://blog.johnozbay.com/what-happened-to-apples-attention-to-detail.html)
