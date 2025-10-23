@@ -51,16 +51,6 @@
   ],
   [
     [
-      "2025-10-23, 17:37:04",
-      "https://news.ycombinator.com/item?id=45684548"
-    ],
-    [
-      "U.S. Details Gambling Cases Involving Pro Athletes and Mafia Families",
-      "https://www.nytimes.com/live/2025/10/23/nyregion/nba-illegal-gambling-arrests"
-    ]
-  ],
-  [
-    [
       "2025-10-23, 17:04:17",
       "https://news.ycombinator.com/item?id=45684236"
     ],
@@ -137,6 +127,26 @@
     [
       "VectorWare – from creators of `rust-GPU` and `rust-CUDA`",
       "https://www.vectorware.com/blog/announcing-vectorware/"
+    ]
+  ],
+  [
+    [
+      "2025-10-23, 15:39:10",
+      "https://news.ycombinator.com/item?id=45683113"
+    ],
+    [
+      "Reasoning Is Not Model Improvement",
+      "https://manidoraisamy.com/reasoning-not-ai.html"
+    ]
+  ],
+  [
+    [
+      "2025-10-23, 15:12:57",
+      "https://news.ycombinator.com/item?id=45682776"
+    ],
+    [
+      "Show HN: Git for LLMs – a context management interface",
+      "https://twigg.ai"
     ]
   ],
   [
@@ -241,32 +251,12 @@
   ],
   [
     [
-      "2025-10-22, 20:53:49",
-      "https://news.ycombinator.com/item?id=45675015"
-    ],
-    [
-      "Google flags Immich sites as dangerous",
-      "https://immich.app/blog/google-flags-immich-as-dangerous"
-    ]
-  ],
-  [
-    [
       "2025-10-22, 16:27:26",
       "https://news.ycombinator.com/item?id=45671569"
     ],
     [
       "How count-min sketches work – frequencies, but without the actual data",
       "https://www.instantdb.com/essays/count_min_sketch"
-    ]
-  ],
-  [
-    [
-      "2025-10-22, 12:36:19",
-      "https://news.ycombinator.com/item?id=45668118"
-    ],
-    [
-      "Living Dangerously with Claude",
-      "https://simonwillison.net/2025/Oct/22/living-dangerously-with-claude/"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "The OS/2 Display Driver Zoo",
       "https://www.os2museum.com/wp/the-os-2-display-driver-zoo/"
+    ]
+  ],
+  [
+    [
+      "2025-10-14, 14:51:29",
+      "https://news.ycombinator.com/item?id=45580795"
+    ],
+    [
+      "Kaitai Struct: declarative binary format parsing language",
+      "https://kaitai.io/"
     ]
   ]
 ]
