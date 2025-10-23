@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-10-23, 15:03:05](https://news.ycombinator.com/item?id=45682671) - [US hits $38T in debt. Fastest accumulation of $1T outside pandemic](https://apnews.com/article/trump-treasury-debt-ceiling-bessent-09575f13ca95c2f1beb38234b2cbe85b)
 * [2025-10-23, 14:25:22](https://news.ycombinator.com/item?id=45682169) - [US axes website for reporting human rights abuses by US-armed foreign forces](https://www.bbc.com/news/articles/cqx30vnwd4do)
 * [2025-10-23, 14:15:22](https://news.ycombinator.com/item?id=45682067) - [Microsoft puts Office Online Server on the chopping block](https://www.theregister.com/2025/10/22/microsoft_office_online_server/)
 * [2025-10-23, 13:54:36](https://news.ycombinator.com/item?id=45681850) - [We need to start doing web blocking for non-technical reasons](https://utcc.utoronto.ca/~cks/space/blog/web/WeShouldBlockForSocialReasons?showcomments)
@@ -29,7 +30,6 @@
 * [2025-10-16, 05:51:02](https://news.ycombinator.com/item?id=45601856) - [When You Get to Be Smart Writing a Macro](https://tonsky.me/blog/hashp/)
 * [2025-10-15, 17:25:17](https://news.ycombinator.com/item?id=45595807) - [Ask HN: Does anyone have scans of these missing PC Plus issues (1991–1993)?](https://news.ycombinator.com/item?id=45595807)
 * [2025-10-14, 12:14:24](https://news.ycombinator.com/item?id=45579118) - [Compiler for \"Easy\" language from \"Etudes for Programmers\" book (1978)](https://github.com/begoon/easy)
-* [2025-10-12, 20:31:57](https://news.ycombinator.com/item?id=45561640) - [The first interstellar software update: The hack that saved Voyager 1 [video]](https://www.youtube.com/watch?v=p0K7u3B_8rY)
 
 ## [Archives](archives/index.md)
 
