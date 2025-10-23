@@ -5,8 +5,18 @@
       "https://news.ycombinator.com/item?id=45688443"
     ],
     [
-      "Introduction to the Concept of Likelihood and Its Applications",
+      "Introduction to the concept of likelihood and its applications (2018)",
       "https://journals.sagepub.com/doi/10.1177/2515245917744314"
+    ]
+  ],
+  [
+    [
+      "2025-10-23, 22:35:22",
+      "https://news.ycombinator.com/item?id=45688236"
+    ],
+    [
+      "AI discovers a 5x faster MoE load balancing algorithm than human experts",
+      "https://adrs-ucb.notion.site/moe-load-balancing"
     ]
   ],
   [
@@ -47,16 +57,6 @@
     [
       "When is it better to think without words?",
       "https://www.henrikkarlsson.xyz/p/wordless-thought"
-    ]
-  ],
-  [
-    [
-      "2025-10-23, 21:11:14",
-      "https://news.ycombinator.com/item?id=45687227"
-    ],
-    [
-      "FocusTube: A Chrome extension that hides YouTube Shorts",
-      "https://github.com/CaptainYouz/FocusTube"
     ]
   ],
   [
@@ -151,16 +151,6 @@
   ],
   [
     [
-      "2025-10-23, 16:36:05",
-      "https://news.ycombinator.com/item?id=45683897"
-    ],
-    [
-      "Antislop: A framework for eliminating repetitive patterns in language models",
-      "https://arxiv.org/abs/2510.15061"
-    ]
-  ],
-  [
-    [
       "2025-10-23, 15:41:48",
       "https://news.ycombinator.com/item?id=45683152"
     ],
@@ -175,7 +165,7 @@
       "https://news.ycombinator.com/item?id=45682776"
     ],
     [
-      "Show HN: Git for LLMs – a context management interface",
+      "Show HN: Git for LLMs – A context management interface",
       "https://twigg.ai"
     ]
   ],
@@ -227,6 +217,16 @@
     [
       "Summary of the Amazon DynamoDB Service Disruption in US-East-1 Region",
       "https://aws.amazon.com/message/101925/"
+    ]
+  ],
+  [
+    [
+      "2025-10-22, 16:27:26",
+      "https://news.ycombinator.com/item?id=45671569"
+    ],
+    [
+      "How count-min sketches work – frequencies, but without the actual data",
+      "https://www.instantdb.com/essays/count_min_sketch"
     ]
   ],
   [
