@@ -22,6 +22,7 @@
 * [2025-10-15, 18:06:41](https://news.ycombinator.com/item?id=45596359) - [Clone-Wars: 100 open-source clones of popular sites](https://github.com/GorvGoyl/Clone-Wars)
 * [2025-10-15, 17:52:32](https://news.ycombinator.com/item?id=45596168) - [Claude Haiku 4.5 System Card [pdf]](https://assets.anthropic.com/m/99128ddd009bdcb/original/Claude-Haiku-4-5-System-Card.pdf)
 * [2025-10-15, 17:43:27](https://news.ycombinator.com/item?id=45596059) - [Recursive Language Models (RLMs)](https://alexzhang13.github.io/blog/2025/rlm/)
+* [2025-10-15, 17:25:17](https://news.ycombinator.com/item?id=45595807) - [Ask HN: Does anyone have scans of these missing PC Plus issues (1991–1993)?](https://news.ycombinator.com/item?id=45595807)
 * [2025-10-15, 17:21:32](https://news.ycombinator.com/item?id=45595760) - [Show HN: Specific (YC F25) – Build backends with specifications instead of code](https://specific.dev/)
 * [2025-10-15, 17:20:40](https://news.ycombinator.com/item?id=45595746) - [US Passport Power Falls to Historic Low](https://www.henleyglobal.com/newsroom/press-releases/henley-global-mobility-report-oct-2025)
 * [2025-10-15, 17:18:13](https://news.ycombinator.com/item?id=45595724) - [Are hard drives getting better?](https://www.backblaze.com/blog/are-hard-drives-getting-better-lets-revisit-the-bathtub-curve/)
