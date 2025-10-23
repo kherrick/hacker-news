@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-10-23](index.md)
 
+* [2025-10-23, 17:37:04](https://news.ycombinator.com/item?id=45684548) - [U.S. Details Gambling Cases Involving Pro Athletes and Mafia Families](https://www.nytimes.com/live/2025/10/23/nyregion/nba-illegal-gambling-arrests)
+* [2025-10-23, 17:03:13](https://news.ycombinator.com/item?id=45684217) - [Make Any TypeScript Function Durable](https://useworkflow.dev/)
 * [2025-10-23, 16:58:04](https://news.ycombinator.com/item?id=45684155) - [Google Earth AI expanding access around the globe](https://blog.google/technology/research/new-updates-and-more-access-to-google-earth-ai/)
 * [2025-10-23, 16:56:07](https://news.ycombinator.com/item?id=45684134) - [Claude Memory](https://www.anthropic.com/news/memory)
 * [2025-10-23, 16:46:57](https://news.ycombinator.com/item?id=45684035) - [MinIO declines to release Docker builds resolving CVE-2025-62506](https://github.com/minio/minio/issues/21647)
