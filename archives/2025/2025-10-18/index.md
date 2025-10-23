@@ -36,6 +36,7 @@
 * [2025-10-18, 11:39:59](https://news.ycombinator.com/item?id=45626549) - [MD RAID or DRBD can be broken from userspace when using O_DIRECT](https://bugzilla.kernel.org/show_bug.cgi?id=99171)
 * [2025-10-18, 10:51:02](https://news.ycombinator.com/item?id=45626349) - [EQ: A video about all forms of equalizers](https://www.youtube.com/watch?v=CLAt95PrwL4)
 * [2025-10-18, 09:55:06](https://news.ycombinator.com/item?id=45626130) - [./Watch](https://dotslashwatch.com/)
+* [2025-10-18, 09:54:56](https://news.ycombinator.com/item?id=45626129) - [Which Collatz numbers do Busy Beavers simulate (if any)?](https://gbragafibra.github.io/2025/10/16/collatz_ant11.html)
 * [2025-10-18, 09:34:56](https://news.ycombinator.com/item?id=45626070) - [US Seizes 15B BTC, Indicts Chairman: Forced Labor Scam Compounds, Crypto Fraud](https://www.justice.gov/opa/pr/chairman-prince-group-indicted-operating-cambodian-forced-labor-scam-compounds-engaged)
 * [2025-10-18, 09:25:30](https://news.ycombinator.com/item?id=45626037) - [Fast calculation of the distance to cubic Bezier curves on the GPU](https://blog.pkh.me/p/46-fast-calculation-of-the-distance-to-cubic-bezier-curves-on-the-gpu.html)
 * [2025-10-18, 08:31:01](https://news.ycombinator.com/item?id=45625848) - [Life, Work, Death and the Peasant, Part V: Life in Cycles](https://acoup.blog/2025/10/17/collections-life-work-death-and-the-peasant-part-v-life-in-cycles/)
