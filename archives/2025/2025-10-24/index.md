@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-10-24](index.md)
 
+* [2025-10-24, 11:41:26](https://news.ycombinator.com/item?id=45693591) - [ChunkLLM: A Lightweight Pluggable Framework for Accelerating LLMs Inference](https://arxiv.org/abs/2510.02361)
+* [2025-10-24, 11:40:21](https://news.ycombinator.com/item?id=45693583) - [Curl on 110 Operating Systems](https://daniel.haxx.se/blog/2025/10/23/on-110-operating-systems/)
 * [2025-10-24, 11:01:23](https://news.ycombinator.com/item?id=45693325) - [Bring Your 3D Models to Life](https://mesh2motion.org/)
 * [2025-10-24, 10:16:25](https://news.ycombinator.com/item?id=45692984) - [Twake Drive – The open-source alternative to Google Drive](https://github.com/linagora/twake-drive)
 * [2025-10-24, 10:07:34](https://news.ycombinator.com/item?id=45692915) - [Debian Technical Committee overrides systemd change](https://lwn.net/Articles/1041316/)

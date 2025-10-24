@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-10-24, 11:41:26](https://news.ycombinator.com/item?id=45693591) - [ChunkLLM: A Lightweight Pluggable Framework for Accelerating LLMs Inference](https://arxiv.org/abs/2510.02361)
+* [2025-10-24, 11:40:21](https://news.ycombinator.com/item?id=45693583) - [Curl on 110 Operating Systems](https://daniel.haxx.se/blog/2025/10/23/on-110-operating-systems/)
 * [2025-10-24, 11:01:23](https://news.ycombinator.com/item?id=45693325) - [Bring Your 3D Models to Life](https://mesh2motion.org/)
 * [2025-10-24, 10:16:25](https://news.ycombinator.com/item?id=45692984) - [Twake Drive – The open-source alternative to Google Drive](https://github.com/linagora/twake-drive)
 * [2025-10-24, 10:07:34](https://news.ycombinator.com/item?id=45692915) - [Debian Technical Committee overrides systemd change](https://lwn.net/Articles/1041316/)
@@ -11,9 +13,7 @@
 * [2025-10-24, 02:50:50](https://news.ycombinator.com/item?id=45690219) - [Fast-DLLM: Training-Free Acceleration of Diffusion LLM](https://arxiv.org/abs/2505.22618)
 * [2025-10-24, 02:22:07](https://news.ycombinator.com/item?id=45690045) - [Computer science courses that don't exist, but should (2015)](https://prog21.dadgum.com/210.html)
 * [2025-10-24, 00:24:11](https://news.ycombinator.com/item?id=45689241) - [Counter-Strike's player economy is in a multi-billion dollar freefall](https://www.polygon.com/counter-strike-cs-player-economy-multi-billion-dollar-freefall/)
-* [2025-10-23, 23:33:28](https://news.ycombinator.com/item?id=45688836) - [React Flow, open source libraries for node-based UIs with React or Svelte](https://github.com/xyflow/xyflow)
 * [2025-10-23, 22:52:15](https://news.ycombinator.com/item?id=45688443) - [Introduction to the concept of likelihood and its applications (2018)](https://journals.sagepub.com/doi/10.1177/2515245917744314)
-* [2025-10-23, 22:11:23](https://news.ycombinator.com/item?id=45688006) - [Apple loses UK App Store monopoly case, penalty might near $2B](https://9to5mac.com/2025/10/23/apple-loses-uk-app-store-monopoly-case-penalty-might-near-2-billion/)
 * [2025-10-23, 21:56:07](https://news.ycombinator.com/item?id=45687796) - [How memory maps (mmap) deliver faster file access in Go](https://info.varnish-software.com/blog/how-memory-maps-mmap-deliver-25x-faster-file-access-in-go)
 * [2025-10-23, 21:28:02](https://news.ycombinator.com/item?id=45687458) - [/dev/null is an ACID compliant database](https://jyu.dev/blog/why-dev-null-is-an-acid-compliant-database/)
 * [2025-10-23, 21:26:57](https://news.ycombinator.com/item?id=45687441) - [When is it better to think without words?](https://www.henrikkarlsson.xyz/p/wordless-thought)
