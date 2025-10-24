@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-10-24, 03:39:21](https://news.ycombinator.com/item?id=45690506) - [US Tariff Negotiations with Canada Terminated over Advertisement](https://www.bbc.com/news/articles/cdjrlmd4pmeo)
 * [2025-10-24, 02:54:29](https://news.ycombinator.com/item?id=45690251) - [Roc Camera](https://roc.camera/)
+* [2025-10-24, 02:50:50](https://news.ycombinator.com/item?id=45690219) - [Fast-DLLM: Training-Free Acceleration of Diffusion LLM](https://arxiv.org/abs/2505.22618)
 * [2025-10-24, 02:22:07](https://news.ycombinator.com/item?id=45690045) - [Computer science courses that don't exist, but should (2015)](https://prog21.dadgum.com/210.html)
 * [2025-10-23, 23:33:28](https://news.ycombinator.com/item?id=45688836) - [React Flow, open source libraries for node-based UIs with React or Svelte](https://github.com/xyflow/xyflow)
 * [2025-10-23, 22:52:15](https://news.ycombinator.com/item?id=45688443) - [Introduction to the concept of likelihood and its applications (2018)](https://journals.sagepub.com/doi/10.1177/2515245917744314)
@@ -10,7 +12,6 @@
 * [2025-10-23, 21:28:02](https://news.ycombinator.com/item?id=45687458) - [/dev/null is an ACID compliant database](https://jyu.dev/blog/why-dev-null-is-an-acid-compliant-database/)
 * [2025-10-23, 21:26:57](https://news.ycombinator.com/item?id=45687441) - [When is it better to think without words?](https://www.henrikkarlsson.xyz/p/wordless-thought)
 * [2025-10-23, 19:58:12](https://news.ycombinator.com/item?id=45686280) - [Zram Performance Analysis](https://notes.xeome.dev/notes/Zram)
-* [2025-10-23, 19:24:04](https://news.ycombinator.com/item?id=45685793) - [Show HN: OpenSnowcat – A fork of Snowplow to keep open analytics alive](https://opensnowcat.io/)
 * [2025-10-23, 18:15:45](https://news.ycombinator.com/item?id=45685007) - [Can “second life” EV batteries work as grid-scale energy storage?](https://www.volts.wtf/p/can-second-life-ev-batteries-work)
 * [2025-10-23, 18:09:37](https://news.ycombinator.com/item?id=45684934) - [Armed police swarm student after AI mistakes bag of Doritos for a weapon](https://www.dexerto.com/entertainment/armed-police-swarm-student-after-ai-mistakes-bag-of-doritos-for-a-weapon-3273512/)
 * [2025-10-23, 17:04:17](https://news.ycombinator.com/item?id=45684236) - [OpenAI acquires Sky.app](https://openai.com/index/openai-acquires-software-applications-incorporated)
@@ -28,7 +29,6 @@
 * [2025-10-15, 19:23:39](https://news.ycombinator.com/item?id=45597198) - [Cheap DIY solar fence design](https://joeyh.name/blog/entry/cheap_DIY_solar_fence_design/)
 * [2025-10-14, 15:35:44](https://news.ycombinator.com/item?id=45581305) - [Benchmarking Postgres 17 vs. 18](https://planetscale.com/blog/benchmarking-postgres-17-vs-18)
 * [2025-10-14, 14:51:29](https://news.ycombinator.com/item?id=45580795) - [Kaitai Struct: declarative binary format parsing language](https://kaitai.io/)
-* [2025-10-11, 16:47:31](https://news.ycombinator.com/item?id=45550588) - [Dunkin’ Donuts started as a small Quincy coffee and doughnut shop](https://www.bostonglobe.com/2025/10/10/business/dunkin-donuts-scott-murphy-bain-capital-carlyle-inspire/)
 * [2025-10-11, 01:49:07](https://news.ycombinator.com/item?id=45545860) - [Deepstaria Enigmatica](https://en.wikipedia.org/wiki/Deepstaria_enigmatica)
 
 ## [Archives](archives/index.md)
