@@ -15,7 +15,7 @@
       "https://news.ycombinator.com/item?id=45695956"
     ],
     [
-      "The Mainframe Six",
+      "The Mainframe Six (2022)",
       "https://arcanesciences.com/os2200/app1.html"
     ]
   ],
@@ -71,16 +71,6 @@
   ],
   [
     [
-      "2025-10-24, 12:10:25",
-      "https://news.ycombinator.com/item?id=45693814"
-    ],
-    [
-      "Rust Contagious Borrow Issue",
-      "https://qouteall.fun/qouteall-blog/2025/How%20to%20Avoid%20Fighting%20Rust%20Borrow%20Checker#contagious-borrow-issue"
-    ]
-  ],
-  [
-    [
       "2025-10-24, 12:01:08",
       "https://news.ycombinator.com/item?id=45693743"
     ],
@@ -131,12 +121,12 @@
   ],
   [
     [
-      "2025-10-24, 04:13:01",
-      "https://news.ycombinator.com/item?id=45690679"
+      "2025-10-24, 04:40:31",
+      "https://news.ycombinator.com/item?id=45690840"
     ],
     [
-      "JupyterGIS breaks through to the next level",
-      "https://eo4society.esa.int/2025/10/16/jupytergis-breaks-through-to-the-next-level/"
+      "'Attention is all you need' coauthor says he's 'sick' of transformers",
+      "https://venturebeat.com/ai/sakana-ais-cto-says-hes-absolutely-sick-of-transformers-the-tech-that-powers"
     ]
   ],
   [
@@ -211,12 +201,32 @@
   ],
   [
     [
+      "2025-10-21, 20:39:52",
+      "https://news.ycombinator.com/item?id=45661399"
+    ],
+    [
+      "Mosquitoes discovered in Iceland for the first time",
+      "https://www.cnn.com/2025/10/21/climate/iceland-mosquito-discovery"
+    ]
+  ],
+  [
+    [
       "2025-10-21, 19:47:12",
       "https://news.ycombinator.com/item?id=45660753"
     ],
     [
       "Why can't transformers learn multiplication?",
       "https://arxiv.org/abs/2510.00184"
+    ]
+  ],
+  [
+    [
+      "2025-10-21, 16:09:43",
+      "https://news.ycombinator.com/item?id=45657531"
+    ],
+    [
+      "LightlyStudio – an open-source multimodal data curation and labeling tool",
+      "https://github.com/lightly-ai/lightly-studio"
     ]
   ],
   [
@@ -285,18 +295,8 @@
       "https://news.ycombinator.com/item?id=45602996"
     ],
     [
-      "Where's the AI Design Renaissance?",
+      "Where's the AI design Renaissance?",
       "https://www.learnui.design/blog/wheres-the-ai-design-renaissance.html"
-    ]
-  ],
-  [
-    [
-      "2025-10-14, 15:35:44",
-      "https://news.ycombinator.com/item?id=45581305"
-    ],
-    [
-      "Benchmarking Postgres 17 vs. 18",
-      "https://planetscale.com/blog/benchmarking-postgres-17-vs-18"
     ]
   ]
 ]
