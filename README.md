@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-10-24, 08:24:16](https://news.ycombinator.com/item?id=45692241) - [ChatGPT Launches 'Company Knowledge'](https://openai.com/index/introducing-company-knowledge/)
 * [2025-10-24, 08:10:53](https://news.ycombinator.com/item?id=45692163) - [Britain's most tattooed man says UK's age check told him to \"remove his face\"](https://www.dexerto.com/entertainment/britains-most-tattooed-man-says-uks-age-check-system-told-him-to-remove-his-face-3232920/)
 * [2025-10-24, 05:32:04](https://news.ycombinator.com/item?id=45691127) - [Alaska Airlines' statement on IT outage](https://news.alaskaair.com/on-the-record/alaska-statement-on-it-outage/)
 * [2025-10-24, 04:46:50](https://news.ycombinator.com/item?id=45690871) - [RFC 863 – Discard Protocol](https://datatracker.ietf.org/doc/html/rfc863)
@@ -27,7 +28,6 @@
 * [2025-10-17, 05:49:56](https://news.ycombinator.com/item?id=45613660) - [Lea Albaugh, \"Underdetermined Weaving with Machines\" (2021) [video]](https://www.youtube.com/watch?v=on_sK8KoObo)
 * [2025-10-17, 04:28:46](https://news.ycombinator.com/item?id=45613327) - [Betty White's shoulder bag is a time capsule of World War II (2023)](https://americanhistory.si.edu/explore/stories/betty-white-world-war-ii)
 * [2025-10-15, 19:23:39](https://news.ycombinator.com/item?id=45597198) - [Cheap DIY solar fence design](https://joeyh.name/blog/entry/cheap_DIY_solar_fence_design/)
-* [2025-10-14, 23:51:02](https://news.ycombinator.com/item?id=45586374) - [Binmoji: A 64-bit emoji encoding](https://github.com/jb55/binmoji)
 * [2025-10-14, 15:35:44](https://news.ycombinator.com/item?id=45581305) - [Benchmarking Postgres 17 vs. 18](https://planetscale.com/blog/benchmarking-postgres-17-vs-18)
 * [2025-10-14, 14:51:29](https://news.ycombinator.com/item?id=45580795) - [Kaitai Struct: declarative binary format parsing language](https://kaitai.io/)
 
