@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2025-10-24](index.md)
 
+* [2025-10-24, 12:33:10](https://news.ycombinator.com/item?id=45693978) - [Typst 0.14: Now Accessible](https://typst.app/blog/2025/typst-0.14/)
+* [2025-10-24, 12:24:52](https://news.ycombinator.com/item?id=45693929) - [Intel hamstrung by supply shortages across its business](https://www.tomshardware.com/pc-components/cpus/intel-hamstrung-by-supply-shortages-across-its-business-including-production-capacity-says-it-will-prioritize-data-center-cpus-over-consumer-chips-warns-of-price-hikes)
 * [2025-10-24, 12:01:08](https://news.ycombinator.com/item?id=45693743) - [Padlet (YC W13) Is Hiring in San Francisco and Singapore](https://padlet.jobs)
+* [2025-10-24, 11:42:29](https://news.ycombinator.com/item?id=45693599) - [Mind-boggling' poker fraud used X-ray tables, high-tech glasses and NBA players](https://www.bbc.com/news/articles/cz6nd9wnzn6o)
 * [2025-10-24, 11:41:26](https://news.ycombinator.com/item?id=45693591) - [ChunkLLM: A Lightweight Pluggable Framework for Accelerating LLMs Inference](https://arxiv.org/abs/2510.02361)
 * [2025-10-24, 11:40:21](https://news.ycombinator.com/item?id=45693583) - [Curl on 110 Operating Systems](https://daniel.haxx.se/blog/2025/10/23/on-110-operating-systems/)
 * [2025-10-24, 11:01:23](https://news.ycombinator.com/item?id=45693325) - [Bring Your 3D Models to Life](https://mesh2motion.org/)
