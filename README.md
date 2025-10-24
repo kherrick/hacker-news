@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-10-24, 10:16:25](https://news.ycombinator.com/item?id=45692984) - [Twake Drive – The open-source alternative to Google Drive](https://github.com/linagora/twake-drive)
+* [2025-10-24, 10:07:34](https://news.ycombinator.com/item?id=45692915) - [Debian Technical Committee overrides systemd change](https://lwn.net/Articles/1041316/)
 * [2025-10-24, 09:17:24](https://news.ycombinator.com/item?id=45692585) - [Interstellar Mission to a Black Hole](https://www.centauri-dreams.org/2025/10/23/interstellar-mission-to-a-black-hole/)
 * [2025-10-24, 05:32:04](https://news.ycombinator.com/item?id=45691127) - [Alaska Airlines' statement on IT outage](https://news.alaskaair.com/on-the-record/alaska-statement-on-it-outage/)
 * [2025-10-24, 04:46:50](https://news.ycombinator.com/item?id=45690871) - [RFC 863 – Discard Protocol](https://datatracker.ietf.org/doc/html/rfc863)
@@ -28,7 +29,6 @@
 * [2025-10-17, 04:28:46](https://news.ycombinator.com/item?id=45613327) - [Betty White's shoulder bag is a time capsule of World War II (2023)](https://americanhistory.si.edu/explore/stories/betty-white-world-war-ii)
 * [2025-10-15, 19:23:39](https://news.ycombinator.com/item?id=45597198) - [Cheap DIY solar fence design](https://joeyh.name/blog/entry/cheap_DIY_solar_fence_design/)
 * [2025-10-14, 15:35:44](https://news.ycombinator.com/item?id=45581305) - [Benchmarking Postgres 17 vs. 18](https://planetscale.com/blog/benchmarking-postgres-17-vs-18)
-* [2025-10-14, 14:51:29](https://news.ycombinator.com/item?id=45580795) - [Kaitai Struct: declarative binary format parsing language](https://kaitai.io/)
 * [2025-10-13, 10:29:29](https://news.ycombinator.com/item?id=45566817) - [Wasp Blower](https://softsolder.com/2025/08/12/wasp-blower/)
 
 ## [Archives](archives/index.md)
