@@ -15,7 +15,6 @@
 * [2025-10-24, 04:40:31](https://news.ycombinator.com/item?id=45690840) - ['Attention is all you need' coauthor says he's 'sick' of transformers](https://venturebeat.com/ai/sakana-ais-cto-says-hes-absolutely-sick-of-transformers-the-tech-that-powers)
 * [2025-10-24, 02:54:29](https://news.ycombinator.com/item?id=45690251) - [Roc Camera](https://roc.camera/)
 * [2025-10-24, 00:24:11](https://news.ycombinator.com/item?id=45689241) - [Counter-Strike's player economy is in a multi-billion dollar freefall](https://www.polygon.com/counter-strike-cs-player-economy-multi-billion-dollar-freefall/)
-* [2025-10-23, 21:28:02](https://news.ycombinator.com/item?id=45687458) - [/dev/null is an ACID compliant database](https://jyu.dev/blog/why-dev-null-is-an-acid-compliant-database/)
 * [2025-10-23, 21:26:57](https://news.ycombinator.com/item?id=45687441) - [When is it better to think without words?](https://www.henrikkarlsson.xyz/p/wordless-thought)
 * [2025-10-23, 03:51:40](https://news.ycombinator.com/item?id=45678001) - [Clojure Zippers (2021)](https://grishaev.me/en/clojure-zippers/)
 * [2025-10-23, 00:26:24](https://news.ycombinator.com/item?id=45676841) - [A “knot dominated era” may have existed in the early universe: study](https://phys.org/news/2025-10-key-universe-1800s-idea-science.html)
@@ -30,6 +29,7 @@
 * [2025-10-16, 08:53:56](https://news.ycombinator.com/item?id=45602996) - [Where's the AI design Renaissance?](https://www.learnui.design/blog/wheres-the-ai-design-renaissance.html)
 * [2025-10-15, 19:23:39](https://news.ycombinator.com/item?id=45597198) - [Cheap DIY solar fence design](https://joeyh.name/blog/entry/cheap_DIY_solar_fence_design/)
 * [2025-10-13, 10:29:29](https://news.ycombinator.com/item?id=45566817) - [Wasp Blower](https://softsolder.com/2025/08/12/wasp-blower/)
+* [2025-10-11, 13:44:05](https://news.ycombinator.com/item?id=45549099) - [Random Numbers from Hard Problems: LWE Toy RNG](https://blog.s20n.dev/posts/lwe-rng/)
 
 ## [Archives](archives/index.md)
 

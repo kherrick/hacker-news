@@ -46,6 +46,7 @@
 * [2025-10-11, 14:29:11](https://news.ycombinator.com/item?id=45549422) - [Nue 2.0 Beta released! The Unix of the web](https://nuejs.org/blog/2.0/)
 * [2025-10-11, 14:24:35](https://news.ycombinator.com/item?id=45549392) - [Show HN: Aidlab – Health Data for Devs](https://news.ycombinator.com/item?id=45549392)
 * [2025-10-11, 14:12:02](https://news.ycombinator.com/item?id=45549308) - [Firefox is the best mobile browser](https://kelvinjps.com/blog/firefox-best-mobile-browser/)
+* [2025-10-11, 13:44:05](https://news.ycombinator.com/item?id=45549099) - [Random Numbers from Hard Problems: LWE Toy RNG](https://blog.s20n.dev/posts/lwe-rng/)
 * [2025-10-11, 13:39:31](https://news.ycombinator.com/item?id=45549060) - [Root cause analysis? You're doing it wrong](https://entropicthoughts.com/root-cause-analysis-youre-doing-it-wrong)
 * [2025-10-11, 13:35:00](https://news.ycombinator.com/item?id=45549017) - [Wilson's Algorithm](https://cruzgodar.com/applets/wilsons-algorithm/)
 * [2025-10-11, 13:27:42](https://news.ycombinator.com/item?id=45548967) - [Hackers leak Qantas data on 5 million customers after ransom deadline passes](https://www.theguardian.com/business/2025/oct/11/hackers-leak-qantas-data-containing-5-million-customer-records-after-ransom-deadline-passes)
