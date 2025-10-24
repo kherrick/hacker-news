@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-10-24](index.md)
 
+* [2025-10-24, 17:11:58](https://news.ycombinator.com/item?id=45696752) - [Disable AI in Firefox](https://flamedfury.com/posts/disable-ai-in-firefox/)
 * [2025-10-24, 16:22:38](https://news.ycombinator.com/item?id=45696183) - [Ivy League psychologist: 'Bring your whole self to work' is bad advice](https://www.cnbc.com/2025/10/24/bring-your-whole-self-to-work-is-bad-advice-ivy-league-psychologist-saysheres-why.html)
 * [2025-10-24, 16:01:23](https://news.ycombinator.com/item?id=45695956) - [The Mainframe Six](https://arcanesciences.com/os2200/app1.html)
 * [2025-10-24, 14:03:22](https://news.ycombinator.com/item?id=45694767) - [Asahi Linux Still Working on Apple M3 Support, M1n1 Bootloader Going Rust](https://www.phoronix.com/news/Asahi-Linux-M3-m1n1-Update)
