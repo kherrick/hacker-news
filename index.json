@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-10-24, 21:00:27",
+      "https://news.ycombinator.com/item?id=45699023"
+    ],
+    [
+      "Conductor (YC S24) Is Hiring a Founding Engineer in San Francisco",
+      "https://www.ycombinator.com/companies/conductor/jobs/MYjJzBV-founding-engineer"
+    ]
+  ],
+  [
+    [
+      "2025-10-24, 20:50:27",
+      "https://news.ycombinator.com/item?id=45698930"
+    ],
+    [
+      "Microsoft Teams will start snitching to your boss when you're not in the office",
+      "https://www.tomsguide.com/computing/office-software/microsoft-teams-will-start-snitching-to-your-boss-when-youre-not-in-the-office-and-this-update-is-coming-in-december"
+    ]
+  ],
+  [
+    [
       "2025-10-24, 20:25:58",
       "https://news.ycombinator.com/item?id=45698716"
     ],
@@ -17,16 +37,6 @@
     [
       "The Swift SDK for Android",
       "https://www.swift.org/blog/nightly-swift-sdk-for-android/"
-    ]
-  ],
-  [
-    [
-      "2025-10-24, 20:05:07",
-      "https://news.ycombinator.com/item?id=45698554"
-    ],
-    [
-      "Harnessing America's Heat Pump Moment",
-      "https://www.heatpumped.org/p/harnessing-america-s-heat-pump-moment"
     ]
   ],
   [
@@ -71,22 +81,32 @@
   ],
   [
     [
+      "2025-10-24, 12:54:47",
+      "https://news.ycombinator.com/item?id=45694122"
+    ],
+    [
+      "A sharded DuckDB on 63 nodes runs 1T row aggregation challenge in 5 sec",
+      "https://gizmodata.com/blog/gizmoedge-one-trillion-row-challenge"
+    ]
+  ],
+  [
+    [
+      "2025-10-24, 12:52:22",
+      "https://news.ycombinator.com/item?id=45694111"
+    ],
+    [
+      "Traffic Light Protocol",
+      "https://www.first.org/tlp/"
+    ]
+  ],
+  [
+    [
       "2025-10-24, 12:33:10",
       "https://news.ycombinator.com/item?id=45693978"
     ],
     [
       "Typst 0.14",
       "https://typst.app/blog/2025/typst-0.14/"
-    ]
-  ],
-  [
-    [
-      "2025-10-24, 12:01:08",
-      "https://news.ycombinator.com/item?id=45693743"
-    ],
-    [
-      "Padlet (YC W13) Is Hiring in San Francisco and Singapore",
-      "https://padlet.jobs"
     ]
   ],
   [
@@ -151,16 +171,6 @@
   ],
   [
     [
-      "2025-10-24, 02:54:29",
-      "https://news.ycombinator.com/item?id=45690251"
-    ],
-    [
-      "Roc Camera",
-      "https://roc.camera/"
-    ]
-  ],
-  [
-    [
       "2025-10-24, 01:59:56",
       "https://news.ycombinator.com/item?id=45689905"
     ],
@@ -171,32 +181,12 @@
   ],
   [
     [
-      "2025-10-24, 00:24:11",
-      "https://news.ycombinator.com/item?id=45689241"
+      "2025-10-23, 03:51:40",
+      "https://news.ycombinator.com/item?id=45678001"
     ],
     [
-      "Counter-Strike's player economy is in a freefall",
-      "https://www.polygon.com/counter-strike-cs-player-economy-multi-billion-dollar-freefall/"
-    ]
-  ],
-  [
-    [
-      "2025-10-23, 21:28:02",
-      "https://news.ycombinator.com/item?id=45687458"
-    ],
-    [
-      "/dev/null is an ACID compliant database",
-      "https://jyu.dev/blog/why-dev-null-is-an-acid-compliant-database/"
-    ]
-  ],
-  [
-    [
-      "2025-10-23, 21:26:57",
-      "https://news.ycombinator.com/item?id=45687441"
-    ],
-    [
-      "When is it better to think without words?",
-      "https://www.henrikkarlsson.xyz/p/wordless-thought"
+      "Clojure Zippers (2021)",
+      "https://grishaev.me/en/clojure-zippers/"
     ]
   ],
   [
@@ -281,12 +271,22 @@
   ],
   [
     [
-      "2025-10-15, 19:23:39",
-      "https://news.ycombinator.com/item?id=45597198"
+      "2025-10-19, 07:24:18",
+      "https://news.ycombinator.com/item?id=45632557"
     ],
     [
-      "Cheap DIY solar fence design",
-      "https://joeyh.name/blog/entry/cheap_DIY_solar_fence_design/"
+      "VisiCalc on the Apple II",
+      "https://stonetools.ghost.io/visicalc-apple2/"
+    ]
+  ],
+  [
+    [
+      "2025-10-13, 10:29:29",
+      "https://news.ycombinator.com/item?id=45566817"
+    ],
+    [
+      "Wasp Blower",
+      "https://softsolder.com/2025/08/12/wasp-blower/"
     ]
   ],
   [
