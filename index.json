@@ -151,16 +151,6 @@
   ],
   [
     [
-      "2025-10-23, 21:28:02",
-      "https://news.ycombinator.com/item?id=45687458"
-    ],
-    [
-      "/dev/null is an ACID compliant database",
-      "https://jyu.dev/blog/why-dev-null-is-an-acid-compliant-database/"
-    ]
-  ],
-  [
-    [
       "2025-10-23, 21:26:57",
       "https://news.ycombinator.com/item?id=45687441"
     ],
@@ -297,6 +287,16 @@
     [
       "Wasp Blower",
       "https://softsolder.com/2025/08/12/wasp-blower/"
+    ]
+  ],
+  [
+    [
+      "2025-10-11, 13:44:05",
+      "https://news.ycombinator.com/item?id=45549099"
+    ],
+    [
+      "Random Numbers from Hard Problems: LWE Toy RNG",
+      "https://blog.s20n.dev/posts/lwe-rng/"
     ]
   ]
 ]
