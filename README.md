@@ -2,7 +2,9 @@
 
 * [2025-10-24, 21:00:27](https://news.ycombinator.com/item?id=45699023) - [Conductor (YC S24) Is Hiring a Founding Engineer in San Francisco](https://www.ycombinator.com/companies/conductor/jobs/MYjJzBV-founding-engineer)
 * [2025-10-24, 20:48:46](https://news.ycombinator.com/item?id=45698909) - [MRI Contrast Agent Causes Harmful Metal Buildup in Some Patients [study]](https://www.ormanager.com/briefs/study-mri-contrast-agent-causes-harmful-metal-buildup-in-some-patients/)
+* [2025-10-24, 20:25:58](https://news.ycombinator.com/item?id=45698716) - [TextEdit and the relief of simple software](https://www.newyorker.com/culture/infinite-scroll/textedit-and-the-relief-of-simple-software)
 * [2025-10-24, 20:06:52](https://news.ycombinator.com/item?id=45698570) - [The Swift SDK for Android](https://www.swift.org/blog/nightly-swift-sdk-for-android/)
+* [2025-10-24, 20:05:07](https://news.ycombinator.com/item?id=45698554) - [Harnessing America's Heat Pump Moment](https://www.heatpumped.org/p/harnessing-america-s-heat-pump-moment)
 * [2025-10-24, 17:18:17](https://news.ycombinator.com/item?id=45696838) - [How to make a Smith chart](https://www.johndcook.com/blog/2025/10/23/smith-chart/)
 * [2025-10-24, 15:25:17](https://news.ycombinator.com/item?id=45695621) - [Code Like a Surgeon](https://www.geoffreylitt.com/2025/10/24/code-like-a-surgeon)
 * [2025-10-24, 14:12:00](https://news.ycombinator.com/item?id=45694856) - [First shape found that can't pass through itself](https://www.quantamagazine.org/first-shape-found-that-cant-pass-through-itself-20251024/)
@@ -22,12 +24,10 @@
 * [2025-10-22, 19:29:59](https://news.ycombinator.com/item?id=45674002) - [Public Montessori programs strengthen learning outcomes at lower costs: study](https://phys.org/news/2025-10-national-montessori-early-outcomes-sharply.html)
 * [2025-10-21, 20:39:52](https://news.ycombinator.com/item?id=45661399) - [Mosquitoes discovered in Iceland for the first time](https://www.cnn.com/2025/10/21/climate/iceland-mosquito-discovery)
 * [2025-10-21, 19:47:12](https://news.ycombinator.com/item?id=45660753) - [Why can't transformers learn multiplication?](https://arxiv.org/abs/2510.00184)
-* [2025-10-21, 11:48:52](https://news.ycombinator.com/item?id=45654708) - [Show HN: MacOS Live Screensaver – A screensaver that plays live video streams](https://github.com/hauxir/macos-live-screensaver)
 * [2025-10-20, 11:08:44](https://news.ycombinator.com/item?id=45642571) - [Valetudo: Cloud replacement for vacuum robots enabling local-only operation](https://valetudo.cloud/)
 * [2025-10-19, 13:13:24](https://news.ycombinator.com/item?id=45633877) - [I invited strangers to message me through a receipt printer](https://aschmelyun.com/blog/i-invited-strangers-to-message-me-through-a-receipt-printer/)
 * [2025-10-19, 08:59:27](https://news.ycombinator.com/item?id=45632894) - [Why formalize mathematics – more than catching errors](https://rkirov.github.io/posts/why_lean/)
 * [2025-10-19, 07:24:18](https://news.ycombinator.com/item?id=45632557) - [VisiCalc on the Apple II](https://stonetools.ghost.io/visicalc-apple2/)
-* [2025-10-16, 13:21:10](https://news.ycombinator.com/item?id=45605020) - [Notes on using LaTeX to generate formulae](https://eli.thegreenplace.net/2025/notes-on-using-latex-to-generate-formulae/)
 * [2025-10-13, 10:29:29](https://news.ycombinator.com/item?id=45566817) - [Wasp Blower](https://softsolder.com/2025/08/12/wasp-blower/)
 * [2025-10-11, 13:44:05](https://news.ycombinator.com/item?id=45549099) - [Random Numbers from Hard Problems: LWE Based Toy RNG](https://blog.s20n.dev/posts/lwe-rng/)
 
