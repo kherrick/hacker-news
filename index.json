@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-10-24, 11:41:26",
+      "https://news.ycombinator.com/item?id=45693591"
+    ],
+    [
+      "ChunkLLM: A Lightweight Pluggable Framework for Accelerating LLMs Inference",
+      "https://arxiv.org/abs/2510.02361"
+    ]
+  ],
+  [
+    [
+      "2025-10-24, 11:40:21",
+      "https://news.ycombinator.com/item?id=45693583"
+    ],
+    [
+      "Curl on 110 Operating Systems",
+      "https://daniel.haxx.se/blog/2025/10/23/on-110-operating-systems/"
+    ]
+  ],
+  [
+    [
       "2025-10-24, 11:01:23",
       "https://news.ycombinator.com/item?id=45693325"
     ],
@@ -111,32 +131,12 @@
   ],
   [
     [
-      "2025-10-23, 23:33:28",
-      "https://news.ycombinator.com/item?id=45688836"
-    ],
-    [
-      "React Flow, open source libraries for node-based UIs with React or Svelte",
-      "https://github.com/xyflow/xyflow"
-    ]
-  ],
-  [
-    [
       "2025-10-23, 22:52:15",
       "https://news.ycombinator.com/item?id=45688443"
     ],
     [
       "Introduction to the concept of likelihood and its applications (2018)",
       "https://journals.sagepub.com/doi/10.1177/2515245917744314"
-    ]
-  ],
-  [
-    [
-      "2025-10-23, 22:11:23",
-      "https://news.ycombinator.com/item?id=45688006"
-    ],
-    [
-      "Apple loses UK App Store monopoly case, penalty might near $2B",
-      "https://9to5mac.com/2025/10/23/apple-loses-uk-app-store-monopoly-case-penalty-might-near-2-billion/"
     ]
   ],
   [
