@@ -1,11 +1,21 @@
 [
   [
     [
+      "2025-10-24, 02:54:29",
+      "https://news.ycombinator.com/item?id=45690251"
+    ],
+    [
+      "Roc Camera",
+      "https://roc.camera/"
+    ]
+  ],
+  [
+    [
       "2025-10-24, 02:22:07",
       "https://news.ycombinator.com/item?id=45690045"
     ],
     [
-      "Computer Science Courses That Don't Exist, but Should (2015)",
+      "Computer science courses that don't exist, but should (2015)",
       "https://prog21.dadgum.com/210.html"
     ]
   ],
@@ -35,7 +45,7 @@
       "https://news.ycombinator.com/item?id=45688236"
     ],
     [
-      "AI discovers a 5x faster MoE load balancing algorithm than human experts",
+      "Automating Algorithm Discovery: A Case Study in MoE Load Balancing",
       "https://adrs-ucb.notion.site/moe-load-balancing"
     ]
   ],
@@ -201,16 +211,6 @@
   ],
   [
     [
-      "2025-10-22, 12:36:19",
-      "https://news.ycombinator.com/item?id=45668118"
-    ],
-    [
-      "Living Dangerously with Claude",
-      "https://simonwillison.net/2025/Oct/22/living-dangerously-with-claude/"
-    ]
-  ],
-  [
-    [
       "2025-10-20, 02:03:40",
       "https://news.ycombinator.com/item?id=45639618"
     ],
@@ -285,7 +285,7 @@
       "https://news.ycombinator.com/item?id=45550588"
     ],
     [
-      "Dunkin' Donuts started as Quincy, MA coffee/doughnut shop: Now 10k US locations",
+      "Dunkin’ Donuts started as a small Quincy coffee and doughnut shop",
       "https://www.bostonglobe.com/2025/10/10/business/dunkin-donuts-scott-murphy-bain-capital-carlyle-inspire/"
     ]
   ],
