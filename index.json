@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-10-24, 20:25:58",
+      "https://news.ycombinator.com/item?id=45698716"
+    ],
+    [
+      "TextEdit and the Relief of Simple Software",
+      "https://www.newyorker.com/culture/infinite-scroll/textedit-and-the-relief-of-simple-software"
+    ]
+  ],
+  [
+    [
       "2025-10-24, 20:06:52",
       "https://news.ycombinator.com/item?id=45698570"
     ],
@@ -31,6 +41,16 @@
   ],
   [
     [
+      "2025-10-24, 15:25:17",
+      "https://news.ycombinator.com/item?id=45695621"
+    ],
+    [
+      "Code Like a Surgeon",
+      "https://www.geoffreylitt.com/2025/10/24/code-like-a-surgeon"
+    ]
+  ],
+  [
+    [
       "2025-10-24, 14:12:00",
       "https://news.ycombinator.com/item?id=45694856"
     ],
@@ -57,16 +77,6 @@
     [
       "A sharded DuckDB on 63 nodes runs 1T row aggregation challenge in 5 sec",
       "https://gizmodata.com/blog/gizmoedge-one-trillion-row-challenge"
-    ]
-  ],
-  [
-    [
-      "2025-10-24, 12:52:22",
-      "https://news.ycombinator.com/item?id=45694111"
-    ],
-    [
-      "Traffic Light Protocol",
-      "https://www.first.org/tlp/"
     ]
   ],
   [
@@ -191,16 +201,6 @@
   ],
   [
     [
-      "2025-10-23, 03:51:40",
-      "https://news.ycombinator.com/item?id=45678001"
-    ],
-    [
-      "Clojure Zippers (2021)",
-      "https://grishaev.me/en/clojure-zippers/"
-    ]
-  ],
-  [
-    [
       "2025-10-23, 00:26:24",
       "https://news.ycombinator.com/item?id=45676841"
     ],
@@ -241,6 +241,26 @@
   ],
   [
     [
+      "2025-10-21, 11:48:52",
+      "https://news.ycombinator.com/item?id=45654708"
+    ],
+    [
+      "Show HN: MacOS Live Screensaver – A screensaver that plays live video streams",
+      "https://github.com/hauxir/macos-live-screensaver"
+    ]
+  ],
+  [
+    [
+      "2025-10-20, 11:08:44",
+      "https://news.ycombinator.com/item?id=45642571"
+    ],
+    [
+      "Valetudo: Cloud replacement for vacuum robots enabling local-only operation",
+      "https://valetudo.cloud/"
+    ]
+  ],
+  [
+    [
       "2025-10-19, 13:13:24",
       "https://news.ycombinator.com/item?id=45633877"
     ],
@@ -261,16 +281,6 @@
   ],
   [
     [
-      "2025-10-19, 07:24:18",
-      "https://news.ycombinator.com/item?id=45632557"
-    ],
-    [
-      "VisiCalc on the Apple II",
-      "https://stonetools.ghost.io/visicalc-apple2/"
-    ]
-  ],
-  [
-    [
       "2025-10-15, 19:23:39",
       "https://news.ycombinator.com/item?id=45597198"
     ],
@@ -281,21 +291,11 @@
   ],
   [
     [
-      "2025-10-13, 10:29:29",
-      "https://news.ycombinator.com/item?id=45566817"
-    ],
-    [
-      "Wasp Blower",
-      "https://softsolder.com/2025/08/12/wasp-blower/"
-    ]
-  ],
-  [
-    [
       "2025-10-11, 13:44:05",
       "https://news.ycombinator.com/item?id=45549099"
     ],
     [
-      "Random Numbers from Hard Problems: LWE Toy RNG",
+      "Random Numbers from Hard Problems: LWE Based Toy RNG",
       "https://blog.s20n.dev/posts/lwe-rng/"
     ]
   ]
