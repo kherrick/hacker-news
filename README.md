@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-10-24, 17:11:58](https://news.ycombinator.com/item?id=45696752) - [Disable AI in Firefox](https://flamedfury.com/posts/disable-ai-in-firefox/)
+* [2025-10-24, 18:30:28](https://news.ycombinator.com/item?id=45697649) - [Protein Is a Trap and I Have Fallen into It, or Second Breakfast #19](https://buttondown.com/meghanmccarron/archive/protein-is-a-trap-and-i-have-fallen-into-it-or/)
 * [2025-10-24, 16:01:23](https://news.ycombinator.com/item?id=45695956) - [The Mainframe Six (2022)](https://arcanesciences.com/os2200/app1.html)
 * [2025-10-24, 14:03:22](https://news.ycombinator.com/item?id=45694767) - [Asahi Linux Still Working on Apple M3 Support, M1n1 Bootloader Going Rust](https://www.phoronix.com/news/Asahi-Linux-M3-m1n1-Update)
 * [2025-10-24, 12:54:47](https://news.ycombinator.com/item?id=45694122) - [A sharded DuckDB on 63 nodes runs 1T row aggregation challenge in 5 sec](https://gizmodata.com/blog/gizmoedge-one-trillion-row-challenge)
@@ -26,7 +26,7 @@
 * [2025-10-21, 06:15:18](https://news.ycombinator.com/item?id=45652968) - [Linux disk I/O diagram (2024)](https://zenodo.org/records/15234151)
 * [2025-10-19, 08:59:27](https://news.ycombinator.com/item?id=45632894) - [Why formalize mathematics – more than catching errors](https://rkirov.github.io/posts/why_lean/)
 * [2025-10-19, 07:24:18](https://news.ycombinator.com/item?id=45632557) - [VisiCalc on the Apple II](https://stonetools.ghost.io/visicalc-apple2/)
-* [2025-10-16, 08:53:56](https://news.ycombinator.com/item?id=45602996) - [Where's the AI design Renaissance?](https://www.learnui.design/blog/wheres-the-ai-design-renaissance.html)
+* [2025-10-18, 13:08:30](https://news.ycombinator.com/item?id=45627048) - [Using CUE to unify IoT sensor data](https://aran.dev/posts/cue/using-cue-to-unify-iot-sensor-data/)
 * [2025-10-15, 19:23:39](https://news.ycombinator.com/item?id=45597198) - [Cheap DIY solar fence design](https://joeyh.name/blog/entry/cheap_DIY_solar_fence_design/)
 * [2025-10-13, 10:29:29](https://news.ycombinator.com/item?id=45566817) - [Wasp Blower](https://softsolder.com/2025/08/12/wasp-blower/)
 * [2025-10-11, 13:44:05](https://news.ycombinator.com/item?id=45549099) - [Random Numbers from Hard Problems: LWE Toy RNG](https://blog.s20n.dev/posts/lwe-rng/)
