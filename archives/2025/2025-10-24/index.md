@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-10-24](index.md)
 
+* [2025-10-24, 22:23:50](https://news.ycombinator.com/item?id=45699725) - [New OSM file format: 30% smaller than PBF, 5x faster to import](https://community.openstreetmap.org/t/new-osm-file-format-30-smaller-than-pbf-5x-faster-to-import/137151)
 * [2025-10-24, 21:29:17](https://news.ycombinator.com/item?id=45699294) - [Leaving the Freedesktop.org Community](https://vt.social/@lina/115431232807081648)
 * [2025-10-24, 21:00:27](https://news.ycombinator.com/item?id=45699023) - [Conductor (YC S24) Is Hiring a Founding Engineer in San Francisco](https://www.ycombinator.com/companies/conductor/jobs/MYjJzBV-founding-engineer)
 * [2025-10-24, 20:50:27](https://news.ycombinator.com/item?id=45698930) - [Microsoft Teams will start snitching to your boss when you're not in the office](https://www.tomsguide.com/computing/office-software/microsoft-teams-will-start-snitching-to-your-boss-when-youre-not-in-the-office-and-this-update-is-coming-in-december)
@@ -16,6 +17,7 @@
 * [2025-10-24, 17:11:58](https://news.ycombinator.com/item?id=45696752) - [Disable AI in Firefox](https://flamedfury.com/posts/disable-ai-in-firefox/)
 * [2025-10-24, 16:22:38](https://news.ycombinator.com/item?id=45696183) - [Ivy League psychologist: 'Bring your whole self to work' is bad advice](https://www.cnbc.com/2025/10/24/bring-your-whole-self-to-work-is-bad-advice-ivy-league-psychologist-saysheres-why.html)
 * [2025-10-24, 16:01:23](https://news.ycombinator.com/item?id=45695956) - [The Mainframe Six](https://arcanesciences.com/os2200/app1.html)
+* [2025-10-24, 15:49:58](https://news.ycombinator.com/item?id=45695841) - [\"ChatGPT said this\" Is Lazy](https://terriblesoftware.org/2025/10/24/chatgpt-said-this-is-lazy/)
 * [2025-10-24, 15:25:17](https://news.ycombinator.com/item?id=45695621) - [Code Like a Surgeon](https://www.geoffreylitt.com/2025/10/24/code-like-a-surgeon)
 * [2025-10-24, 14:12:00](https://news.ycombinator.com/item?id=45694856) - [First shape found that can't pass through itself](https://www.quantamagazine.org/first-shape-found-that-cant-pass-through-itself-20251024/)
 * [2025-10-24, 14:03:22](https://news.ycombinator.com/item?id=45694767) - [Asahi Linux Still Working on Apple M3 Support, M1n1 Bootloader Going Rust](https://www.phoronix.com/news/Asahi-Linux-M3-m1n1-Update)
