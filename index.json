@@ -61,6 +61,16 @@
   ],
   [
     [
+      "2025-10-24, 12:10:25",
+      "https://news.ycombinator.com/item?id=45693814"
+    ],
+    [
+      "Rust Contagious Borrow Issue",
+      "https://qouteall.fun/qouteall-blog/2025/How%20to%20Avoid%20Fighting%20Rust%20Borrow%20Checker#contagious-borrow-issue"
+    ]
+  ],
+  [
+    [
       "2025-10-24, 12:01:08",
       "https://news.ycombinator.com/item?id=45693743"
     ],
@@ -157,16 +167,6 @@
     [
       "Counter-Strike's player economy is in a multi-billion dollar freefall",
       "https://www.polygon.com/counter-strike-cs-player-economy-multi-billion-dollar-freefall/"
-    ]
-  ],
-  [
-    [
-      "2025-10-23, 22:35:22",
-      "https://news.ycombinator.com/item?id=45688236"
-    ],
-    [
-      "Automating Algorithm Discovery: A Case Study in MoE Load Balancing",
-      "https://adrs-ucb.notion.site/moe-load-balancing"
     ]
   ],
   [
