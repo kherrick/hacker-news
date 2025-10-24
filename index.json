@@ -1,16 +1,6 @@
 [
   [
     [
-      "2025-10-24, 16:22:38",
-      "https://news.ycombinator.com/item?id=45696183"
-    ],
-    [
-      "Ivy League psychologist: 'Bring your whole self to work' is bad advice",
-      "https://www.cnbc.com/2025/10/24/bring-your-whole-self-to-work-is-bad-advice-ivy-league-psychologist-saysheres-why.html"
-    ]
-  ],
-  [
-    [
       "2025-10-24, 16:01:23",
       "https://news.ycombinator.com/item?id=45695956"
     ],
@@ -41,32 +31,12 @@
   ],
   [
     [
-      "2025-10-24, 12:52:22",
-      "https://news.ycombinator.com/item?id=45694111"
-    ],
-    [
-      "Traffic Light Protocol",
-      "https://www.first.org/tlp/"
-    ]
-  ],
-  [
-    [
       "2025-10-24, 12:33:10",
       "https://news.ycombinator.com/item?id=45693978"
     ],
     [
       "Typst 0.14",
       "https://typst.app/blog/2025/typst-0.14/"
-    ]
-  ],
-  [
-    [
-      "2025-10-24, 12:21:55",
-      "https://news.ycombinator.com/item?id=45693904"
-    ],
-    [
-      "Show HN: A fast, privacy-first image converter that runs in browser",
-      "https://imageconverter.dev/"
     ]
   ],
   [
@@ -121,6 +91,36 @@
   ],
   [
     [
+      "2025-10-24, 10:07:34",
+      "https://news.ycombinator.com/item?id=45692915"
+    ],
+    [
+      "Debian Technical Committee overrides systemd change",
+      "https://lwn.net/Articles/1041316/"
+    ]
+  ],
+  [
+    [
+      "2025-10-24, 09:17:24",
+      "https://news.ycombinator.com/item?id=45692585"
+    ],
+    [
+      "Interstellar Mission to a Black Hole",
+      "https://www.centauri-dreams.org/2025/10/23/interstellar-mission-to-a-black-hole/"
+    ]
+  ],
+  [
+    [
+      "2025-10-24, 05:32:04",
+      "https://news.ycombinator.com/item?id=45691127"
+    ],
+    [
+      "Alaska Airlines' statement on IT outage",
+      "https://news.alaskaair.com/on-the-record/alaska-statement-on-it-outage/"
+    ]
+  ],
+  [
+    [
       "2025-10-24, 04:40:31",
       "https://news.ycombinator.com/item?id=45690840"
     ],
@@ -161,12 +161,12 @@
   ],
   [
     [
-      "2025-10-23, 16:56:07",
-      "https://news.ycombinator.com/item?id=45684134"
+      "2025-10-23, 21:26:57",
+      "https://news.ycombinator.com/item?id=45687441"
     ],
     [
-      "Claude Memory",
-      "https://www.anthropic.com/news/memory"
+      "When is it better to think without words?",
+      "https://www.henrikkarlsson.xyz/p/wordless-thought"
     ]
   ],
   [
@@ -241,16 +241,6 @@
   ],
   [
     [
-      "2025-10-21, 11:48:52",
-      "https://news.ycombinator.com/item?id=45654708"
-    ],
-    [
-      "Show HN: MacOS Live Screensaver – A screensaver that plays live video streams",
-      "https://github.com/hauxir/macos-live-screensaver"
-    ]
-  ],
-  [
-    [
       "2025-10-21, 06:15:18",
       "https://news.ycombinator.com/item?id=45652968"
     ],
@@ -281,22 +271,32 @@
   ],
   [
     [
-      "2025-10-17, 04:28:46",
-      "https://news.ycombinator.com/item?id=45613327"
-    ],
-    [
-      "Betty White's shoulder bag is a time capsule of World War II (2023)",
-      "https://americanhistory.si.edu/explore/stories/betty-white-world-war-ii"
-    ]
-  ],
-  [
-    [
       "2025-10-16, 08:53:56",
       "https://news.ycombinator.com/item?id=45602996"
     ],
     [
       "Where's the AI design Renaissance?",
       "https://www.learnui.design/blog/wheres-the-ai-design-renaissance.html"
+    ]
+  ],
+  [
+    [
+      "2025-10-15, 19:23:39",
+      "https://news.ycombinator.com/item?id=45597198"
+    ],
+    [
+      "Cheap DIY solar fence design",
+      "https://joeyh.name/blog/entry/cheap_DIY_solar_fence_design/"
+    ]
+  ],
+  [
+    [
+      "2025-10-13, 10:29:29",
+      "https://news.ycombinator.com/item?id=45566817"
+    ],
+    [
+      "Wasp Blower",
+      "https://softsolder.com/2025/08/12/wasp-blower/"
     ]
   ]
 ]
