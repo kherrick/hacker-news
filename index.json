@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-10-24, 14:03:22",
+      "https://news.ycombinator.com/item?id=45694767"
+    ],
+    [
+      "Asahi Linux Still Working on Apple M3 Support, M1n1 Bootloader Going Rust",
+      "https://www.phoronix.com/news/Asahi-Linux-M3-m1n1-Update"
+    ]
+  ],
+  [
+    [
       "2025-10-24, 13:13:38",
       "https://news.ycombinator.com/item?id=45694272"
     ],
@@ -25,7 +35,7 @@
       "https://news.ycombinator.com/item?id=45693978"
     ],
     [
-      "Typst 0.14: Now Accessible",
+      "Typst 0.14",
       "https://typst.app/blog/2025/typst-0.14/"
     ]
   ],
@@ -45,7 +55,7 @@
       "https://news.ycombinator.com/item?id=45693599"
     ],
     [
-      "Mind-boggling' poker fraud used X-ray tables, high-tech glasses and NBA players",
+      "Poker fraud used X-ray tables, high-tech glasses and NBA players",
       "https://www.bbc.com/news/articles/cz6nd9wnzn6o"
     ]
   ],
@@ -117,16 +127,6 @@
     [
       "Fast-DLLM: Training-Free Acceleration of Diffusion LLM",
       "https://arxiv.org/abs/2505.22618"
-    ]
-  ],
-  [
-    [
-      "2025-10-24, 02:22:07",
-      "https://news.ycombinator.com/item?id=45690045"
-    ],
-    [
-      "Computer science courses that don't exist, but should (2015)",
-      "https://prog21.dadgum.com/210.html"
     ]
   ],
   [
@@ -271,6 +271,16 @@
   ],
   [
     [
+      "2025-10-15, 19:23:39",
+      "https://news.ycombinator.com/item?id=45597198"
+    ],
+    [
+      "Cheap DIY solar fence design",
+      "https://joeyh.name/blog/entry/cheap_DIY_solar_fence_design/"
+    ]
+  ],
+  [
+    [
       "2025-10-15, 08:59:46",
       "https://news.ycombinator.com/item?id=45589786"
     ],
@@ -287,16 +297,6 @@
     [
       "Benchmarking Postgres 17 vs. 18",
       "https://planetscale.com/blog/benchmarking-postgres-17-vs-18"
-    ]
-  ],
-  [
-    [
-      "2025-10-13, 10:29:29",
-      "https://news.ycombinator.com/item?id=45566817"
-    ],
-    [
-      "Wasp Blower",
-      "https://softsolder.com/2025/08/12/wasp-blower/"
     ]
   ]
 ]
