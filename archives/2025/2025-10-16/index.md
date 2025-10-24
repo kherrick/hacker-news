@@ -68,6 +68,7 @@
 * [2025-10-16, 11:17:56](https://news.ycombinator.com/item?id=45604013) - [Show HN: Modshim – a new alternative to monkey-patching in Python](https://github.com/joouha/modshim)
 * [2025-10-16, 10:56:50](https://news.ycombinator.com/item?id=45603876) - [Solution to CIA’s kryptos sculpture is found in Smithsonian vault](https://www.nytimes.com/2025/10/16/science/kryptos-cia-solution-sanborn-auction.html)
 * [2025-10-16, 09:34:16](https://news.ycombinator.com/item?id=45603277) - [Pentagon Imposes Pre-Publication Censorship – All Major U.S. Media Walk Out](https://archivethecontrolstack.substack.com/p/archive-003-badges-surrendered-the)
+* [2025-10-16, 08:53:56](https://news.ycombinator.com/item?id=45602996) - [Where's the AI Design Renaissance?](https://www.learnui.design/blog/wheres-the-ai-design-renaissance.html)
 * [2025-10-16, 08:46:23](https://news.ycombinator.com/item?id=45602940) - [Why does collapsing a bubble with a sound wave produce light?](https://akshatjiwannotes.blogspot.com/2025/10/why-does-collapsing-bubble-with-sound.html)
 * [2025-10-16, 08:37:13](https://news.ycombinator.com/item?id=45602884) - [Waymo is bringing autonomous, driverless ride-hailing to London in 2026](https://9to5google.com/2025/10/15/waymo-london-2026/)
 * [2025-10-16, 08:11:47](https://news.ycombinator.com/item?id=45602728) - [Homeless Man AI Prank Prompt: Risks, Ethics, and How to Use AI Responsibly](https://ray3.run/posts/homeless-man-ai-prank-prompt)
