@@ -24,10 +24,10 @@
 * [2025-10-23, 12:40:57](https://news.ycombinator.com/item?id=45681147) - [US probes Waymo robotaxis over school bus safety](https://www.yahoo.com/news/articles/us-investigates-waymo-robotaxis-over-102015308.html)
 * [2025-10-23, 10:15:12](https://news.ycombinator.com/item?id=45680237) - [PyTorch Monarch](https://pytorch.org/blog/introducing-pytorch-monarch/)
 * [2025-10-23, 01:19:58](https://news.ycombinator.com/item?id=45677139) - [Summary of the Amazon DynamoDB Service Disruption in US-East-1 Region](https://aws.amazon.com/message/101925/)
-* [2025-10-20, 02:03:40](https://news.ycombinator.com/item?id=45639618) - [Pyscripter – Open-source Python IDE written in Delphi](https://github.com/pyscripter/pyscripter)
 * [2025-10-18, 05:45:33](https://news.ycombinator.com/item?id=45625220) - [Killing Charles Dickens (2023)](https://www.newyorker.com/magazine/2023/07/10/on-killing-charles-dickens)
 * [2025-10-17, 04:28:46](https://news.ycombinator.com/item?id=45613327) - [Betty White's shoulder bag is a time capsule of World War II (2023)](https://americanhistory.si.edu/explore/stories/betty-white-world-war-ii)
 * [2025-10-15, 19:23:39](https://news.ycombinator.com/item?id=45597198) - [Cheap DIY solar fence design](https://joeyh.name/blog/entry/cheap_DIY_solar_fence_design/)
+* [2025-10-14, 23:51:02](https://news.ycombinator.com/item?id=45586374) - [Binmoji: A 64-bit emoji encoding](https://github.com/jb55/binmoji)
 * [2025-10-14, 15:35:44](https://news.ycombinator.com/item?id=45581305) - [Benchmarking Postgres 17 vs. 18](https://planetscale.com/blog/benchmarking-postgres-17-vs-18)
 * [2025-10-14, 14:51:29](https://news.ycombinator.com/item?id=45580795) - [Kaitai Struct: declarative binary format parsing language](https://kaitai.io/)
 
