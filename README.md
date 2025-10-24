@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-10-24, 20:06:52](https://news.ycombinator.com/item?id=45698570) - [The Swift SDK for Android](https://www.swift.org/blog/nightly-swift-sdk-for-android/)
 * [2025-10-24, 17:18:17](https://news.ycombinator.com/item?id=45696838) - [How to Make a Smith Chart](https://www.johndcook.com/blog/2025/10/23/smith-chart/)
 * [2025-10-24, 14:03:22](https://news.ycombinator.com/item?id=45694767) - [Asahi Linux Still Working on Apple M3 Support, M1n1 Bootloader Going Rust](https://www.phoronix.com/news/Asahi-Linux-M3-m1n1-Update)
 * [2025-10-24, 12:54:47](https://news.ycombinator.com/item?id=45694122) - [A sharded DuckDB on 63 nodes runs 1T row aggregation challenge in 5 sec](https://gizmodata.com/blog/gizmoedge-one-trillion-row-challenge)
@@ -15,7 +16,6 @@
 * [2025-10-24, 04:40:31](https://news.ycombinator.com/item?id=45690840) - ['Attention is all you need' coauthor says he's 'sick' of transformers](https://venturebeat.com/ai/sakana-ais-cto-says-hes-absolutely-sick-of-transformers-the-tech-that-powers)
 * [2025-10-24, 02:54:29](https://news.ycombinator.com/item?id=45690251) - [Roc Camera](https://roc.camera/)
 * [2025-10-24, 00:24:11](https://news.ycombinator.com/item?id=45689241) - [Counter-Strike's player economy is in a multi-billion dollar freefall](https://www.polygon.com/counter-strike-cs-player-economy-multi-billion-dollar-freefall/)
-* [2025-10-23, 21:28:02](https://news.ycombinator.com/item?id=45687458) - [/dev/null is an ACID compliant database](https://jyu.dev/blog/why-dev-null-is-an-acid-compliant-database/)
 * [2025-10-23, 21:26:57](https://news.ycombinator.com/item?id=45687441) - [When is it better to think without words?](https://www.henrikkarlsson.xyz/p/wordless-thought)
 * [2025-10-23, 03:51:40](https://news.ycombinator.com/item?id=45678001) - [Clojure Zippers (2021)](https://grishaev.me/en/clojure-zippers/)
 * [2025-10-23, 00:26:24](https://news.ycombinator.com/item?id=45676841) - [A “knot dominated era” may have existed in the early universe: study](https://phys.org/news/2025-10-key-universe-1800s-idea-science.html)
