@@ -48,6 +48,7 @@
 * [2025-10-16, 14:33:10](https://news.ycombinator.com/item?id=45605842) - [Tor browser removing various Firefox AI features](https://blog.torproject.org/new-alpha-release-tor-browser-150a4/)
 * [2025-10-16, 14:31:13](https://news.ycombinator.com/item?id=45605823) - [Run interactive commands in Gemini CLI](https://developers.googleblog.com/en/say-hello-to-a-new-level-of-interactivity-in-gemini-cli/)
 * [2025-10-16, 14:27:52](https://news.ycombinator.com/item?id=45605778) - [Derek Sivers's database and web apps](https://github.com/sivers/sivers)
+* [2025-10-16, 14:13:55](https://news.ycombinator.com/item?id=45605615) - [Color-changing organogel stretches 46 times its size and self-heals](https://phys.org/news/2025-09-organogel-size.html)
 * [2025-10-16, 14:09:21](https://news.ycombinator.com/item?id=45605556) - [PoE basics and beyond: What every engineer should know](https://www.edn.com/poe-basics-and-beyond-what-every-engineer-should-know/)
 * [2025-10-16, 14:04:18](https://news.ycombinator.com/item?id=45605501) - [DoorDash and Waymo launch autonomous delivery service in Phoenix](https://about.doordash.com/en-us/news/waymo)
 * [2025-10-16, 13:48:33](https://news.ycombinator.com/item?id=45605291) - [Why I Chose Elixir Phoenix over Rails, Laravel, and Next.js](https://akarshc.com/post/phoenix-for-my-project.html)
