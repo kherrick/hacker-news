@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-10-24, 12:01:08",
+      "https://news.ycombinator.com/item?id=45693743"
+    ],
+    [
+      "Padlet (YC W13) Is Hiring in San Francisco and Singapore",
+      "https://padlet.jobs"
+    ]
+  ],
+  [
+    [
       "2025-10-24, 11:41:26",
       "https://news.ycombinator.com/item?id=45693591"
     ],
@@ -11,21 +21,11 @@
   ],
   [
     [
-      "2025-10-24, 11:40:21",
-      "https://news.ycombinator.com/item?id=45693583"
-    ],
-    [
-      "Curl on 110 Operating Systems",
-      "https://daniel.haxx.se/blog/2025/10/23/on-110-operating-systems/"
-    ]
-  ],
-  [
-    [
       "2025-10-24, 11:01:23",
       "https://news.ycombinator.com/item?id=45693325"
     ],
     [
-      "Bring Your 3D Models to Life",
+      "Mesh2Motion – Open-source web application to animate 3D models",
       "https://mesh2motion.org/"
     ]
   ],
@@ -35,7 +35,7 @@
       "https://news.ycombinator.com/item?id=45692984"
     ],
     [
-      "Twake Drive – The open-source alternative to Google Drive",
+      "Twake Drive – An open-source alternative to Google Drive",
       "https://github.com/linagora/twake-drive"
     ]
   ],
@@ -75,7 +75,7 @@
       "https://news.ycombinator.com/item?id=45690871"
     ],
     [
-      "RFC 863 – Discard Protocol",
+      "RFC 863 – Discard Protocol (1983)",
       "https://datatracker.ietf.org/doc/html/rfc863"
     ]
   ],
@@ -131,12 +131,12 @@
   ],
   [
     [
-      "2025-10-23, 22:52:15",
-      "https://news.ycombinator.com/item?id=45688443"
+      "2025-10-23, 23:33:28",
+      "https://news.ycombinator.com/item?id=45688836"
     ],
     [
-      "Introduction to the concept of likelihood and its applications (2018)",
-      "https://journals.sagepub.com/doi/10.1177/2515245917744314"
+      "React Flow, open source libraries for node-based UIs with React or Svelte",
+      "https://github.com/xyflow/xyflow"
     ]
   ],
   [
@@ -221,16 +221,6 @@
   ],
   [
     [
-      "2025-10-23, 12:40:57",
-      "https://news.ycombinator.com/item?id=45681147"
-    ],
-    [
-      "US probes Waymo robotaxis over school bus safety",
-      "https://www.yahoo.com/news/articles/us-investigates-waymo-robotaxis-over-102015308.html"
-    ]
-  ],
-  [
-    [
       "2025-10-23, 10:15:12",
       "https://news.ycombinator.com/item?id=45680237"
     ],
@@ -241,12 +231,22 @@
   ],
   [
     [
-      "2025-10-22, 12:36:19",
-      "https://news.ycombinator.com/item?id=45668118"
+      "2025-10-21, 11:48:52",
+      "https://news.ycombinator.com/item?id=45654708"
     ],
     [
-      "Living Dangerously with Claude",
-      "https://simonwillison.net/2025/Oct/22/living-dangerously-with-claude/"
+      "Show HN: MacOS Live Screensaver – A screensaver that plays live video streams",
+      "https://github.com/hauxir/macos-live-screensaver"
+    ]
+  ],
+  [
+    [
+      "2025-10-19, 07:24:18",
+      "https://news.ycombinator.com/item?id=45632557"
+    ],
+    [
+      "VisiCalc on the Apple II",
+      "https://stonetools.ghost.io/visicalc-apple2/"
     ]
   ],
   [
