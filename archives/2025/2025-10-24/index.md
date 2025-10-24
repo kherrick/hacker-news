@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-10-24](index.md)
 
+* [2025-10-24, 04:13:01](https://news.ycombinator.com/item?id=45690679) - [JupyterGIS breaks through to the next level](https://eo4society.esa.int/2025/10/16/jupytergis-breaks-through-to-the-next-level/)
 * [2025-10-24, 03:39:21](https://news.ycombinator.com/item?id=45690506) - [US Tariff Negotiations with Canada Terminated over Advertisement](https://www.bbc.com/news/articles/cdjrlmd4pmeo)
 * [2025-10-24, 02:54:29](https://news.ycombinator.com/item?id=45690251) - [Roc Camera](https://roc.camera/)
 * [2025-10-24, 02:50:50](https://news.ycombinator.com/item?id=45690219) - [Fast-DLLM: Training-Free Acceleration of Diffusion LLM](https://arxiv.org/abs/2505.22618)

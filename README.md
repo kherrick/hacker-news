@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-10-24, 04:13:01](https://news.ycombinator.com/item?id=45690679) - [JupyterGIS breaks through to the next level](https://eo4society.esa.int/2025/10/16/jupytergis-breaks-through-to-the-next-level/)
 * [2025-10-24, 02:54:29](https://news.ycombinator.com/item?id=45690251) - [Roc Camera](https://roc.camera/)
 * [2025-10-24, 02:50:50](https://news.ycombinator.com/item?id=45690219) - [Fast-DLLM: Training-Free Acceleration of Diffusion LLM](https://arxiv.org/abs/2505.22618)
 * [2025-10-24, 02:22:07](https://news.ycombinator.com/item?id=45690045) - [Computer science courses that don't exist, but should (2015)](https://prog21.dadgum.com/210.html)
@@ -15,7 +16,6 @@
 * [2025-10-23, 20:49:08](https://news.ycombinator.com/item?id=45686919) - [Date bug in Rust-based coreutils affects Ubuntu 25.10 automatic updates](https://lwn.net/Articles/1043103/)
 * [2025-10-23, 19:58:12](https://news.ycombinator.com/item?id=45686280) - [Zram Performance Analysis](https://notes.xeome.dev/notes/Zram)
 * [2025-10-23, 18:15:45](https://news.ycombinator.com/item?id=45685007) - [Can “second life” EV batteries work as grid-scale energy storage?](https://www.volts.wtf/p/can-second-life-ev-batteries-work)
-* [2025-10-23, 18:09:37](https://news.ycombinator.com/item?id=45684934) - [Armed police swarm student after AI mistakes bag of Doritos for a weapon](https://www.dexerto.com/entertainment/armed-police-swarm-student-after-ai-mistakes-bag-of-doritos-for-a-weapon-3273512/)
 * [2025-10-23, 17:04:17](https://news.ycombinator.com/item?id=45684236) - [OpenAI acquires Sky.app](https://openai.com/index/openai-acquires-software-applications-incorporated)
 * [2025-10-23, 16:56:07](https://news.ycombinator.com/item?id=45684134) - [Claude Memory](https://www.anthropic.com/news/memory)
 * [2025-10-23, 16:36:05](https://news.ycombinator.com/item?id=45683897) - [Antislop: A framework for eliminating repetitive patterns in language models](https://arxiv.org/abs/2510.15061)
