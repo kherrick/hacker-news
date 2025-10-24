@@ -78,6 +78,7 @@
 * [2025-10-13, 08:33:34](https://news.ycombinator.com/item?id=45566123) - [LaTeXpOsEd: A Systematic Analysis of Information Leakage in Preprint Archives](https://arxiv.org/abs/2510.03761)
 * [2025-10-13, 08:29:04](https://news.ycombinator.com/item?id=45566098) - [Career Asymtotes](https://molochinations.substack.com/p/career-asymptotes)
 * [2025-10-13, 08:27:15](https://news.ycombinator.com/item?id=45566088) - [A Distributed Emulation Environment for In-Memory Computing Systems](https://www.arxiv.org/pdf/2510.08257)
+* [2025-10-13, 08:11:37](https://news.ycombinator.com/item?id=45565986) - [Electromagnetically Induced Acoustic Noise](https://en.wikipedia.org/wiki/Electromagnetically_induced_acoustic_noise)
 * [2025-10-13, 08:10:22](https://news.ycombinator.com/item?id=45565977) - [Create a Custom Interactive dashboard using SVG](https://0xmm.in/posts/custom_dash/)
 * [2025-10-13, 07:42:43](https://news.ycombinator.com/item?id=45565793) - [Go Subtleties You May Not Know](https://harrisoncramer.me/15-go-sublteties-you-may-not-already-know/)
 * [2025-10-13, 07:15:28](https://news.ycombinator.com/item?id=45565646) - [HTTP3 Explained](https://http3-explained.haxx.se)
