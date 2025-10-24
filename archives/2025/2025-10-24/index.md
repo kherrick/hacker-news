@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-10-24](index.md)
 
+* [2025-10-24, 05:32:04](https://news.ycombinator.com/item?id=45691127) - [Alaska Airlines' statement on IT outage](https://news.alaskaair.com/on-the-record/alaska-statement-on-it-outage/)
+* [2025-10-24, 04:46:50](https://news.ycombinator.com/item?id=45690871) - [RFC 863 – Discard Protocol](https://datatracker.ietf.org/doc/html/rfc863)
 * [2025-10-24, 04:13:01](https://news.ycombinator.com/item?id=45690679) - [JupyterGIS breaks through to the next level](https://eo4society.esa.int/2025/10/16/jupytergis-breaks-through-to-the-next-level/)
 * [2025-10-24, 03:39:21](https://news.ycombinator.com/item?id=45690506) - [US Tariff Negotiations with Canada Terminated over Advertisement](https://www.bbc.com/news/articles/cdjrlmd4pmeo)
 * [2025-10-24, 02:54:29](https://news.ycombinator.com/item?id=45690251) - [Roc Camera](https://roc.camera/)
