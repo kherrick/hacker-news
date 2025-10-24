@@ -58,6 +58,7 @@
 * [2025-10-17, 06:39:09](https://news.ycombinator.com/item?id=45613898) - [Titan submersible’s $62 SanDisk memory card found undamaged at wreckage site](https://www.tomshardware.com/pc-components/microsd-cards/tragic-oceangate-titan-submersibles-usd62-sandisk-memory-card-found-undamaged-at-wreckage-site-12-stills-and-nine-videos-have-been-recovered-but-none-from-the-fateful-implosion)
 * [2025-10-17, 06:15:22](https://news.ycombinator.com/item?id=45613781) - [Wabi – Personal Software Platform](https://wabi.ai/)
 * [2025-10-17, 05:51:43](https://news.ycombinator.com/item?id=45613667) - [Flight Simulator for the Brain Reveals How We Learn and Why Minds Go Off Course](https://now.tufts.edu/2025/10/16/flight-simulator-brain-reveals-how-we-learn-and-why-minds-sometimes-go-course)
+* [2025-10-17, 05:49:56](https://news.ycombinator.com/item?id=45613660) - [Lea Albaugh, \"Underdetermined Weaving with Machines\" (2021) [video]](https://www.youtube.com/watch?v=on_sK8KoObo)
 * [2025-10-17, 05:28:24](https://news.ycombinator.com/item?id=45613567) - [Ask HN: How to stop an AWS bot sending 2B requests/month](https://news.ycombinator.com/item?id=45613567)
 * [2025-10-17, 04:28:46](https://news.ycombinator.com/item?id=45613327) - [Betty White's shoulder bag is a time capsule of World War II](https://americanhistory.si.edu/explore/stories/betty-white-world-war-ii)
 * [2025-10-17, 04:10:38](https://news.ycombinator.com/item?id=45613246) - [Free the Internet: The Tor Project's annual fundraiser](https://blog.torproject.org/2025-fundraiser-donations-matched/)
