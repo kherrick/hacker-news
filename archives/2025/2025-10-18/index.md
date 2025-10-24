@@ -45,6 +45,7 @@
 * [2025-10-18, 06:20:23](https://news.ycombinator.com/item?id=45625351) - [BBC Gaza documentary serious breach of rules](https://www.bbc.com/news/articles/c629j5m2n01o)
 * [2025-10-18, 05:52:47](https://news.ycombinator.com/item?id=45625251) - [StageConnect: Behringer protocol is open source](https://github.com/OpenMixerProject/StageConnect)
 * [2025-10-18, 05:47:14](https://news.ycombinator.com/item?id=45625229) - [Chen-Ning Yang, Nobel laureate, dies at 103](https://www.chinadaily.com.cn/a/202510/18/WS68f3170ea310f735438b5bf2.html)
+* [2025-10-18, 05:45:33](https://news.ycombinator.com/item?id=45625220) - [Killing Charles Dickens (2023)](https://www.newyorker.com/magazine/2023/07/10/on-killing-charles-dickens)
 * [2025-10-18, 04:56:47](https://news.ycombinator.com/item?id=45625029) - [The Majority AI View](https://www.anildash.com//2025/10/17/the-majority-ai-view/)
 * [2025-10-18, 04:55:16](https://news.ycombinator.com/item?id=45625018) - [How I ditched smartphones](https://discuss.techlore.tech/t/how-i-ditched-smartphones/15315)
 * [2025-10-18, 04:31:59](https://news.ycombinator.com/item?id=45624908) - [The Richest Third-World Country](https://www.noahpinion.blog/p/the-richest-third-world-country)
