@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-10-24](index.md)
 
+* [2025-10-24, 08:10:53](https://news.ycombinator.com/item?id=45692163) - [Britain's most tattooed man says UK's age check told him to \"remove his face\"](https://www.dexerto.com/entertainment/britains-most-tattooed-man-says-uks-age-check-system-told-him-to-remove-his-face-3232920/)
 * [2025-10-24, 05:32:04](https://news.ycombinator.com/item?id=45691127) - [Alaska Airlines' statement on IT outage](https://news.alaskaair.com/on-the-record/alaska-statement-on-it-outage/)
 * [2025-10-24, 04:46:50](https://news.ycombinator.com/item?id=45690871) - [RFC 863 – Discard Protocol](https://datatracker.ietf.org/doc/html/rfc863)
 * [2025-10-24, 04:13:01](https://news.ycombinator.com/item?id=45690679) - [JupyterGIS breaks through to the next level](https://eo4society.esa.int/2025/10/16/jupytergis-breaks-through-to-the-next-level/)

@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-10-24, 08:10:53](https://news.ycombinator.com/item?id=45692163) - [Britain's most tattooed man says UK's age check told him to \"remove his face\"](https://www.dexerto.com/entertainment/britains-most-tattooed-man-says-uks-age-check-system-told-him-to-remove-his-face-3232920/)
 * [2025-10-24, 05:32:04](https://news.ycombinator.com/item?id=45691127) - [Alaska Airlines' statement on IT outage](https://news.alaskaair.com/on-the-record/alaska-statement-on-it-outage/)
 * [2025-10-24, 04:46:50](https://news.ycombinator.com/item?id=45690871) - [RFC 863 – Discard Protocol](https://datatracker.ietf.org/doc/html/rfc863)
 * [2025-10-24, 04:13:01](https://news.ycombinator.com/item?id=45690679) - [JupyterGIS breaks through to the next level](https://eo4society.esa.int/2025/10/16/jupytergis-breaks-through-to-the-next-level/)
@@ -14,7 +15,6 @@
 * [2025-10-23, 21:56:07](https://news.ycombinator.com/item?id=45687796) - [How memory maps (mmap) deliver faster file access in Go](https://info.varnish-software.com/blog/how-memory-maps-mmap-deliver-25x-faster-file-access-in-go)
 * [2025-10-23, 21:28:02](https://news.ycombinator.com/item?id=45687458) - [/dev/null is an ACID compliant database](https://jyu.dev/blog/why-dev-null-is-an-acid-compliant-database/)
 * [2025-10-23, 21:26:57](https://news.ycombinator.com/item?id=45687441) - [When is it better to think without words?](https://www.henrikkarlsson.xyz/p/wordless-thought)
-* [2025-10-23, 21:11:14](https://news.ycombinator.com/item?id=45687227) - [FocusTube: A Chrome extension that hides YouTube Shorts](https://github.com/CaptainYouz/FocusTube)
 * [2025-10-23, 20:49:08](https://news.ycombinator.com/item?id=45686919) - [Date bug in Rust-based coreutils affects Ubuntu 25.10 automatic updates](https://lwn.net/Articles/1043103/)
 * [2025-10-23, 18:15:45](https://news.ycombinator.com/item?id=45685007) - [Can “second life” EV batteries work as grid-scale energy storage?](https://www.volts.wtf/p/can-second-life-ev-batteries-work)
 * [2025-10-23, 17:04:17](https://news.ycombinator.com/item?id=45684236) - [OpenAI acquires Sky.app](https://openai.com/index/openai-acquires-software-applications-incorporated)
