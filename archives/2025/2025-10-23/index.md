@@ -61,6 +61,8 @@
 * [2025-10-23, 05:48:02](https://news.ycombinator.com/item?id=45678549) - [VST3 audio plugin format is now MIT](https://forums.steinberg.net/t/vst-3-8-0-sdk-released/1011988)
 * [2025-10-23, 05:42:31](https://news.ycombinator.com/item?id=45678511) - [Programming with Less Than Nothing](https://joshmoody.org/blog/programming-with-less-than-nothing/)
 * [2025-10-23, 04:23:39](https://news.ycombinator.com/item?id=45678156) - [The mild mannered Englishman who was the most prolific ghost hunter](https://lithub.com/the-mild-mannered-englishman-who-was-the-worlds-most-prolific-ghost-hunter/)
+* [2025-10-23, 03:51:40](https://news.ycombinator.com/item?id=45678001) - [Clojure Zippers (2021)](https://grishaev.me/en/clojure-zippers/)
 * [2025-10-23, 03:47:09](https://news.ycombinator.com/item?id=45677966) - [The Myth of Outrunning Your Diet](https://williamjbarry.substack.com/p/the-myth-of-outrunning-your-diet)
 * [2025-10-23, 01:36:37](https://news.ycombinator.com/item?id=45677243) - [The Sodium-Ion Battery Revolution Has Started](https://cleantechnica.com/2025/10/22/the-sodium-ion-battery-revolution-has-started/)
 * [2025-10-23, 01:19:58](https://news.ycombinator.com/item?id=45677139) - [Summary of the Amazon DynamoDB Service Disruption in US-East-1 Region](https://aws.amazon.com/message/101925/)
+* [2025-10-23, 00:26:24](https://news.ycombinator.com/item?id=45676841) - [A “knot dominated era” may have existed in the early universe: study](https://phys.org/news/2025-10-key-universe-1800s-idea-science.html)
