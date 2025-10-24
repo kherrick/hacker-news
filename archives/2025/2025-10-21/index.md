@@ -50,6 +50,7 @@
 * [2025-10-21, 12:57:55](https://news.ycombinator.com/item?id=45655179) - [Amazon hopes to replace 600k US workers with robots](https://www.theverge.com/news/803257/amazon-robotics-automation-replace-600000-human-jobs)
 * [2025-10-21, 12:55:59](https://news.ycombinator.com/item?id=45655161) - [Neural audio codecs: how to get audio into LLMs](https://kyutai.org/next/codec-explainer)
 * [2025-10-21, 12:43:44](https://news.ycombinator.com/item?id=45655081) - [SpaceX is behind schedule, so NASA will open Artemis III contract to competition](https://www.theregister.com/2025/10/21/spacex_is_behind_schedule_so/)
+* [2025-10-21, 11:48:52](https://news.ycombinator.com/item?id=45654708) - [Show HN: MacOS Live Screensaver – A screensaver that plays live video streams](https://github.com/hauxir/macos-live-screensaver)
 * [2025-10-21, 11:42:14](https://news.ycombinator.com/item?id=45654660) - [StarGrid: A Brand-New Palm OS Strategy Game in 2025](https://quarters.captaintouch.com/blog/posts/2025-10-21-stargrid-has-arrived,-a-brand-new-palm-os-strategy-game-in-2025.html)
 * [2025-10-21, 11:39:19](https://news.ycombinator.com/item?id=45654635) - [Tesla is heading into multi-billion-dollar iceberg of its own making](https://electrek.co/2025/10/20/tesla-heading-into-multi-billion-dollar-iceberg-of-own-making/)
 * [2025-10-21, 11:16:34](https://news.ycombinator.com/item?id=45654512) - [Diamond Thermal Conductivity: A New Era in Chip Cooling](https://spectrum.ieee.org/diamond-thermal-conductivity)

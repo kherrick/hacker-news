@@ -70,6 +70,7 @@
 * [2025-10-19, 08:14:04](https://news.ycombinator.com/item?id=45632738) - [Space junk falls on Western Australian minesite](https://www.abc.net.au/news/2025-10-19/wa-space-debris-reentry-investigation/105909612)
 * [2025-10-19, 08:11:47](https://news.ycombinator.com/item?id=45632724) - [Show HN: Newcomer Ranking – Alternative to GitHub Trending for New Repos](https://git-stars.org/ranking/newcomers)
 * [2025-10-19, 08:01:20](https://news.ycombinator.com/item?id=45632681) - [Show HN: A better Hacker News front end](https://hakkernieuws.vercel.app/top)
+* [2025-10-19, 07:24:18](https://news.ycombinator.com/item?id=45632557) - [VisiCalc on the Apple II](https://stonetools.ghost.io/visicalc-apple2/)
 * [2025-10-19, 06:42:19](https://news.ycombinator.com/item?id=45632429) - [A laser pointer at 2B FPS [video]](https://www.youtube.com/watch?v=o4TdHrMi6do)
 * [2025-10-19, 05:45:02](https://news.ycombinator.com/item?id=45632262) - [GoFundMe CEO: economy is so bad his customers crowdfund to pay for groceries](https://finance.yahoo.com/news/gofundme-ceo-says-economy-bad-182843671.html)
 * [2025-10-19, 03:53:03](https://news.ycombinator.com/item?id=45631974) - [The traffickers are winning the war on drugs](https://www.economist.com/briefing/2025/10/16/the-traffickers-are-winning-the-war-on-drugs)
