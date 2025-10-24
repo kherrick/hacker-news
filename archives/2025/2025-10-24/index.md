@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-10-24](index.md)
 
+* [2025-10-24, 21:00:27](https://news.ycombinator.com/item?id=45699023) - [Conductor (YC S24) Is Hiring a Founding Engineer in San Francisco](https://www.ycombinator.com/companies/conductor/jobs/MYjJzBV-founding-engineer)
+* [2025-10-24, 20:50:27](https://news.ycombinator.com/item?id=45698930) - [Microsoft Teams will start snitching to your boss when you're not in the office](https://www.tomsguide.com/computing/office-software/microsoft-teams-will-start-snitching-to-your-boss-when-youre-not-in-the-office-and-this-update-is-coming-in-december)
 * [2025-10-24, 20:25:58](https://news.ycombinator.com/item?id=45698716) - [TextEdit and the Relief of Simple Software](https://www.newyorker.com/culture/infinite-scroll/textedit-and-the-relief-of-simple-software)
 * [2025-10-24, 20:06:52](https://news.ycombinator.com/item?id=45698570) - [The Swift SDK for Android](https://www.swift.org/blog/nightly-swift-sdk-for-android/)
 * [2025-10-24, 20:05:07](https://news.ycombinator.com/item?id=45698554) - [Harnessing America's Heat Pump Moment](https://www.heatpumped.org/p/harnessing-america-s-heat-pump-moment)
