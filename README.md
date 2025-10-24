@@ -20,16 +20,16 @@
 * [2025-10-23, 17:04:17](https://news.ycombinator.com/item?id=45684236) - [OpenAI acquires Sky.app](https://openai.com/index/openai-acquires-software-applications-incorporated)
 * [2025-10-23, 16:56:07](https://news.ycombinator.com/item?id=45684134) - [Claude Memory](https://www.anthropic.com/news/memory)
 * [2025-10-23, 16:36:05](https://news.ycombinator.com/item?id=45683897) - [Antislop: A framework for eliminating repetitive patterns in language models](https://arxiv.org/abs/2510.15061)
+* [2025-10-23, 15:41:48](https://news.ycombinator.com/item?id=45683152) - [Trump pardons convicted Binance founder](https://www.wsj.com/finance/currencies/trump-pardons-convicted-binance-founder-7509bd63)
 * [2025-10-23, 12:47:41](https://news.ycombinator.com/item?id=45681200) - [I spent a year making an ASN.1 compiler in D](https://bradley.chatha.dev/blog/dlang-propaganda/asn1-compiler-in-d/)
 * [2025-10-23, 12:40:57](https://news.ycombinator.com/item?id=45681147) - [US probes Waymo robotaxis over school bus safety](https://www.yahoo.com/news/articles/us-investigates-waymo-robotaxis-over-102015308.html)
 * [2025-10-23, 10:15:12](https://news.ycombinator.com/item?id=45680237) - [PyTorch Monarch](https://pytorch.org/blog/introducing-pytorch-monarch/)
-* [2025-10-19, 11:40:05](https://news.ycombinator.com/item?id=45633513) - [Police Break Up Lego Theft Ring, Recovering Hundreds of Beheaded Figurines](https://www.nytimes.com/2025/10/18/us/lego-theft-california-arrest.html)
 * [2025-10-17, 05:49:56](https://news.ycombinator.com/item?id=45613660) - [Lea Albaugh, \"Underdetermined Weaving with Machines\" (2021) [video]](https://www.youtube.com/watch?v=on_sK8KoObo)
 * [2025-10-17, 04:28:46](https://news.ycombinator.com/item?id=45613327) - [Betty White's shoulder bag is a time capsule of World War II (2023)](https://americanhistory.si.edu/explore/stories/betty-white-world-war-ii)
 * [2025-10-15, 19:23:39](https://news.ycombinator.com/item?id=45597198) - [Cheap DIY solar fence design](https://joeyh.name/blog/entry/cheap_DIY_solar_fence_design/)
 * [2025-10-14, 15:35:44](https://news.ycombinator.com/item?id=45581305) - [Benchmarking Postgres 17 vs. 18](https://planetscale.com/blog/benchmarking-postgres-17-vs-18)
 * [2025-10-14, 14:51:29](https://news.ycombinator.com/item?id=45580795) - [Kaitai Struct: declarative binary format parsing language](https://kaitai.io/)
-* [2025-10-13, 08:11:37](https://news.ycombinator.com/item?id=45565986) - [Electromagnetically Induced Acoustic Noise](https://en.wikipedia.org/wiki/Electromagnetically_induced_acoustic_noise)
+* [2025-10-13, 10:29:29](https://news.ycombinator.com/item?id=45566817) - [Wasp Blower](https://softsolder.com/2025/08/12/wasp-blower/)
 
 ## [Archives](archives/index.md)
 
