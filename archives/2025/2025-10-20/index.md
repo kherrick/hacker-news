@@ -53,6 +53,7 @@
 * [2025-10-20, 12:00:28](https://news.ycombinator.com/item?id=45642923) - [Matrix Conference 2025 Highlights](https://element.io/blog/the-matrix-conference-a-seminal-moment-for-matrix/)
 * [2025-10-20, 11:58:35](https://news.ycombinator.com/item?id=45642911) - [Show HN: Playwright Skill for Claude Code – Less context than playwright-MCP](https://github.com/lackeyjb/playwright-skill)
 * [2025-10-20, 11:24:11](https://news.ycombinator.com/item?id=45642668) - [How Kids' TV Got Way Too Normal](https://slate.com/life/2025/10/kids-tv-movies-best-ratings-parents-disney.html)
+* [2025-10-20, 11:08:44](https://news.ycombinator.com/item?id=45642571) - [Valetudo: Cloud replacement for vacuum robots enabling local-only operation](https://valetudo.cloud/)
 * [2025-10-20, 11:08:07](https://news.ycombinator.com/item?id=45642562) - [Beaver-engineered dam in the Czech Republic saves government $1.2M USD](https://en.wikipedia.org/wiki/Beaver-engineered_dam_in_the_Czech_Republic)
 * [2025-10-20, 11:03:47](https://news.ycombinator.com/item?id=45642527) - [Ask HN: What are some impressive vibe coding projects?](https://news.ycombinator.com/item?id=45642527)
 * [2025-10-20, 09:36:59](https://news.ycombinator.com/item?id=45641892) - [State-based vs Signal-based rendering](https://jovidecroock.com/blog/state-vs-signals/)
