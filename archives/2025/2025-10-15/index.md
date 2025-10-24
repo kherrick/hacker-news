@@ -16,6 +16,7 @@
 * [2025-10-15, 21:54:14](https://news.ycombinator.com/item?id=45598776) - [I Hate Acrobat](https://www.vincentuden.xyz/blog/pdf-reader)
 * [2025-10-15, 21:32:19](https://news.ycombinator.com/item?id=45598590) - [Next Steps for the Caddy Project Maintainership](https://caddy.community/t/next-steps-for-the-caddy-project-maintainership/33076)
 * [2025-10-15, 20:57:30](https://news.ycombinator.com/item?id=45598309) - [Gravity Can Explain the Collapse of the Wavefunction (Sabine Hossenfelder)](https://arxiv.org/abs/2510.11037)
+* [2025-10-15, 19:23:39](https://news.ycombinator.com/item?id=45597198) - [Cheap DIY solar fence design](https://joeyh.name/blog/entry/cheap_DIY_solar_fence_design/)
 * [2025-10-15, 19:04:07](https://news.ycombinator.com/item?id=45597006) - [A Gemma model helped discover a new potential cancer therapy pathway](https://blog.google/technology/ai/google-gemma-ai-cancer-therapy-discovery/)
 * [2025-10-15, 18:59:54](https://news.ycombinator.com/item?id=45596960) - [I am sorry, but everyone is getting syntax highlighting wrong](https://tonsky.me/blog/syntax-highlighting/)
 * [2025-10-15, 18:27:35](https://news.ycombinator.com/item?id=45596602) - [Things I've learned in my 7 Years Implementing AI](https://www.jampa.dev/p/llms-and-the-lessons-we-still-havent)

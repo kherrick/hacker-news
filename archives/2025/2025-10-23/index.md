@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-10-23](index.md)
 
+* [2025-10-23, 23:33:28](https://news.ycombinator.com/item?id=45688836) - [React Flow, open source libraries for node-based UIs with React or Svelte](https://github.com/xyflow/xyflow)
 * [2025-10-23, 22:52:15](https://news.ycombinator.com/item?id=45688443) - [Introduction to the Concept of Likelihood and Its Applications](https://journals.sagepub.com/doi/10.1177/2515245917744314)
+* [2025-10-23, 22:43:15](https://news.ycombinator.com/item?id=45688340) - [Populism Fast and Slow](https://josephheath.substack.com/p/populism-fast-and-slow)
 * [2025-10-23, 22:35:22](https://news.ycombinator.com/item?id=45688236) - [AI discovers a 5x faster MoE load balancing algorithm than human experts](https://adrs-ucb.notion.site/moe-load-balancing)
 * [2025-10-23, 22:11:23](https://news.ycombinator.com/item?id=45688006) - [Apple loses UK App Store monopoly case, penalty might near $2B](https://9to5mac.com/2025/10/23/apple-loses-uk-app-store-monopoly-case-penalty-might-near-2-billion/)
 * [2025-10-23, 21:56:07](https://news.ycombinator.com/item?id=45687796) - [Memory Maps (MMAP) Deliver 25x Faster File Access in Go](https://info.varnish-software.com/blog/how-memory-maps-mmap-deliver-25x-faster-file-access-in-go)
