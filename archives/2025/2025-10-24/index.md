@@ -5,11 +5,13 @@
 ### [Archives](../../index.md) for [2025-10-24](index.md)
 
 * [2025-10-24, 20:06:52](https://news.ycombinator.com/item?id=45698570) - [The Swift SDK for Android](https://www.swift.org/blog/nightly-swift-sdk-for-android/)
+* [2025-10-24, 20:05:07](https://news.ycombinator.com/item?id=45698554) - [Harnessing America's Heat Pump Moment](https://www.heatpumped.org/p/harnessing-america-s-heat-pump-moment)
 * [2025-10-24, 18:30:28](https://news.ycombinator.com/item?id=45697649) - [Protein Is a Trap and I Have Fallen into It, or Second Breakfast #19](https://buttondown.com/meghanmccarron/archive/protein-is-a-trap-and-i-have-fallen-into-it-or/)
 * [2025-10-24, 17:18:17](https://news.ycombinator.com/item?id=45696838) - [How to Make a Smith Chart](https://www.johndcook.com/blog/2025/10/23/smith-chart/)
 * [2025-10-24, 17:11:58](https://news.ycombinator.com/item?id=45696752) - [Disable AI in Firefox](https://flamedfury.com/posts/disable-ai-in-firefox/)
 * [2025-10-24, 16:22:38](https://news.ycombinator.com/item?id=45696183) - [Ivy League psychologist: 'Bring your whole self to work' is bad advice](https://www.cnbc.com/2025/10/24/bring-your-whole-self-to-work-is-bad-advice-ivy-league-psychologist-saysheres-why.html)
 * [2025-10-24, 16:01:23](https://news.ycombinator.com/item?id=45695956) - [The Mainframe Six](https://arcanesciences.com/os2200/app1.html)
+* [2025-10-24, 14:12:00](https://news.ycombinator.com/item?id=45694856) - [First shape found that can't pass through itself](https://www.quantamagazine.org/first-shape-found-that-cant-pass-through-itself-20251024/)
 * [2025-10-24, 14:03:22](https://news.ycombinator.com/item?id=45694767) - [Asahi Linux Still Working on Apple M3 Support, M1n1 Bootloader Going Rust](https://www.phoronix.com/news/Asahi-Linux-M3-m1n1-Update)
 * [2025-10-24, 13:13:38](https://news.ycombinator.com/item?id=45694272) - [Show HN: I built an 8-bit CPU simulator in Python from scratch](https://github.com/sql-hkr/tiny8)
 * [2025-10-24, 12:54:47](https://news.ycombinator.com/item?id=45694122) - [A sharded DuckDB on 63 nodes runs 1T row aggregation challenge in 5 sec](https://gizmodata.com/blog/gizmoedge-one-trillion-row-challenge)
