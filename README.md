@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-10-24, 23:07:21](https://news.ycombinator.com/item?id=45700008) - [The Peter Principle and exploiting overconfident workers](https://marginalrevolution.com/marginalrevolution/2025/10/the-peter-principle-and-exploiting-overconfident-workers.html)
 * [2025-10-24, 22:23:50](https://news.ycombinator.com/item?id=45699725) - [New OSM file format: 30% smaller than PBF, 5x faster to import](https://community.openstreetmap.org/t/new-osm-file-format-30-smaller-than-pbf-5x-faster-to-import/137151)
 * [2025-10-24, 21:00:27](https://news.ycombinator.com/item?id=45699023) - [Conductor (YC S24) Is Hiring a Founding Engineer in San Francisco](https://www.ycombinator.com/companies/conductor/jobs/MYjJzBV-founding-engineer)
 * [2025-10-24, 20:48:46](https://news.ycombinator.com/item?id=45698909) - [MRI Contrast Agent Causes Harmful Metal Buildup in Some Patients [study]](https://www.ormanager.com/briefs/study-mri-contrast-agent-causes-harmful-metal-buildup-in-some-patients/)
@@ -20,16 +21,15 @@
 * [2025-10-24, 04:40:31](https://news.ycombinator.com/item?id=45690840) - ['Attention is all you need' coauthor says he's 'sick' of transformers](https://venturebeat.com/ai/sakana-ais-cto-says-hes-absolutely-sick-of-transformers-the-tech-that-powers)
 * [2025-10-24, 01:59:56](https://news.ycombinator.com/item?id=45689905) - [Modern Perfect Hashing](https://blog.sesse.net/blog/tech/2025-10-23-21-23_modern_perfect_hashing.html)
 * [2025-10-23, 03:51:40](https://news.ycombinator.com/item?id=45678001) - [Clojure Zippers (2021)](https://grishaev.me/en/clojure-zippers/)
-* [2025-10-23, 00:26:24](https://news.ycombinator.com/item?id=45676841) - [A “knot dominated era” may have existed in the early universe: study](https://phys.org/news/2025-10-key-universe-1800s-idea-science.html)
 * [2025-10-22, 19:29:59](https://news.ycombinator.com/item?id=45674002) - [Public Montessori programs strengthen learning outcomes at lower costs: study](https://phys.org/news/2025-10-national-montessori-early-outcomes-sharply.html)
 * [2025-10-21, 19:47:12](https://news.ycombinator.com/item?id=45660753) - [Why can't transformers learn multiplication?](https://arxiv.org/abs/2510.00184)
 * [2025-10-20, 11:08:44](https://news.ycombinator.com/item?id=45642571) - [Valetudo: Cloud replacement for vacuum robots enabling local-only operation](https://valetudo.cloud/)
 * [2025-10-19, 13:13:24](https://news.ycombinator.com/item?id=45633877) - [I invited strangers to message me through a receipt printer](https://aschmelyun.com/blog/i-invited-strangers-to-message-me-through-a-receipt-printer/)
 * [2025-10-19, 08:59:27](https://news.ycombinator.com/item?id=45632894) - [Why formalize mathematics – more than catching errors](https://rkirov.github.io/posts/why_lean/)
 * [2025-10-19, 07:24:18](https://news.ycombinator.com/item?id=45632557) - [VisiCalc on the Apple II](https://stonetools.ghost.io/visicalc-apple2/)
+* [2025-10-16, 13:21:10](https://news.ycombinator.com/item?id=45605020) - [Notes on using LaTeX to generate formulae](https://eli.thegreenplace.net/2025/notes-on-using-latex-to-generate-formulae/)
 * [2025-10-15, 14:51:08](https://news.ycombinator.com/item?id=45593532) - [Many Factorials in Lambda Calculus](https://text.marvinborner.de/2025-10-08-12.html)
 * [2025-10-13, 10:29:29](https://news.ycombinator.com/item?id=45566817) - [Wasp Blower](https://softsolder.com/2025/08/12/wasp-blower/)
-* [2025-10-11, 13:44:05](https://news.ycombinator.com/item?id=45549099) - [Random Numbers from Hard Problems: LWE Based Toy RNG](https://blog.s20n.dev/posts/lwe-rng/)
 
 ## [Archives](archives/index.md)
 
