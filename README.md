@@ -1,10 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-10-24, 14:03:22](https://news.ycombinator.com/item?id=45694767) - [Asahi Linux Still Working on Apple M3 Support, M1n1 Bootloader Going Rust](https://www.phoronix.com/news/Asahi-Linux-M3-m1n1-Update)
 * [2025-10-24, 13:13:38](https://news.ycombinator.com/item?id=45694272) - [Show HN: I built an 8-bit CPU simulator in Python from scratch](https://github.com/sql-hkr/tiny8)
 * [2025-10-24, 12:54:47](https://news.ycombinator.com/item?id=45694122) - [A sharded DuckDB on 63 nodes runs 1T row aggregation challenge in 5 sec](https://gizmodata.com/blog/gizmoedge-one-trillion-row-challenge)
-* [2025-10-24, 12:33:10](https://news.ycombinator.com/item?id=45693978) - [Typst 0.14: Now Accessible](https://typst.app/blog/2025/typst-0.14/)
+* [2025-10-24, 12:33:10](https://news.ycombinator.com/item?id=45693978) - [Typst 0.14](https://typst.app/blog/2025/typst-0.14/)
 * [2025-10-24, 12:01:08](https://news.ycombinator.com/item?id=45693743) - [Padlet (YC W13) Is Hiring in San Francisco and Singapore](https://padlet.jobs)
-* [2025-10-24, 11:42:29](https://news.ycombinator.com/item?id=45693599) - [Mind-boggling' poker fraud used X-ray tables, high-tech glasses and NBA players](https://www.bbc.com/news/articles/cz6nd9wnzn6o)
+* [2025-10-24, 11:42:29](https://news.ycombinator.com/item?id=45693599) - [Poker fraud used X-ray tables, high-tech glasses and NBA players](https://www.bbc.com/news/articles/cz6nd9wnzn6o)
 * [2025-10-24, 11:41:26](https://news.ycombinator.com/item?id=45693591) - [ChunkLLM: A Lightweight Pluggable Framework for Accelerating LLMs Inference](https://arxiv.org/abs/2510.02361)
 * [2025-10-24, 11:01:23](https://news.ycombinator.com/item?id=45693325) - [Mesh2Motion – Open-source web application to animate 3D models](https://mesh2motion.org/)
 * [2025-10-24, 10:16:25](https://news.ycombinator.com/item?id=45692984) - [Twake Drive – An open-source alternative to Google Drive](https://github.com/linagora/twake-drive)
@@ -12,7 +13,6 @@
 * [2025-10-24, 04:13:01](https://news.ycombinator.com/item?id=45690679) - [JupyterGIS breaks through to the next level](https://eo4society.esa.int/2025/10/16/jupytergis-breaks-through-to-the-next-level/)
 * [2025-10-24, 02:54:29](https://news.ycombinator.com/item?id=45690251) - [Roc Camera](https://roc.camera/)
 * [2025-10-24, 02:50:50](https://news.ycombinator.com/item?id=45690219) - [Fast-DLLM: Training-Free Acceleration of Diffusion LLM](https://arxiv.org/abs/2505.22618)
-* [2025-10-24, 02:22:07](https://news.ycombinator.com/item?id=45690045) - [Computer science courses that don't exist, but should (2015)](https://prog21.dadgum.com/210.html)
 * [2025-10-24, 00:24:11](https://news.ycombinator.com/item?id=45689241) - [Counter-Strike's player economy is in a multi-billion dollar freefall](https://www.polygon.com/counter-strike-cs-player-economy-multi-billion-dollar-freefall/)
 * [2025-10-23, 22:35:22](https://news.ycombinator.com/item?id=45688236) - [Automating Algorithm Discovery: A Case Study in MoE Load Balancing](https://adrs-ucb.notion.site/moe-load-balancing)
 * [2025-10-23, 21:56:07](https://news.ycombinator.com/item?id=45687796) - [How memory maps (mmap) deliver faster file access in Go](https://info.varnish-software.com/blog/how-memory-maps-mmap-deliver-25x-faster-file-access-in-go)
@@ -27,9 +27,9 @@
 * [2025-10-19, 08:59:27](https://news.ycombinator.com/item?id=45632894) - [Why formalize mathematics – more than catching errors](https://rkirov.github.io/posts/why_lean/)
 * [2025-10-19, 07:24:18](https://news.ycombinator.com/item?id=45632557) - [VisiCalc on the Apple II](https://stonetools.ghost.io/visicalc-apple2/)
 * [2025-10-17, 04:28:46](https://news.ycombinator.com/item?id=45613327) - [Betty White's shoulder bag is a time capsule of World War II (2023)](https://americanhistory.si.edu/explore/stories/betty-white-world-war-ii)
+* [2025-10-15, 19:23:39](https://news.ycombinator.com/item?id=45597198) - [Cheap DIY solar fence design](https://joeyh.name/blog/entry/cheap_DIY_solar_fence_design/)
 * [2025-10-15, 08:59:46](https://news.ycombinator.com/item?id=45589786) - [Clang Bytecode Interpreter Update](https://developers.redhat.com/articles/2025/10/15/clang-bytecode-interpreter-update)
 * [2025-10-14, 15:35:44](https://news.ycombinator.com/item?id=45581305) - [Benchmarking Postgres 17 vs. 18](https://planetscale.com/blog/benchmarking-postgres-17-vs-18)
-* [2025-10-13, 10:29:29](https://news.ycombinator.com/item?id=45566817) - [Wasp Blower](https://softsolder.com/2025/08/12/wasp-blower/)
 
 ## [Archives](archives/index.md)
 
