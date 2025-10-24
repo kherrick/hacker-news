@@ -1,12 +1,42 @@
 [
   [
     [
+      "2025-10-24, 00:24:11",
+      "https://news.ycombinator.com/item?id=45689241"
+    ],
+    [
+      "Counter-Strike's player economy is in a multi-billion dollar freefall",
+      "https://www.polygon.com/counter-strike-cs-player-economy-multi-billion-dollar-freefall/"
+    ]
+  ],
+  [
+    [
+      "2025-10-23, 23:33:28",
+      "https://news.ycombinator.com/item?id=45688836"
+    ],
+    [
+      "React Flow, open source libraries for node-based UIs with React or Svelte",
+      "https://github.com/xyflow/xyflow"
+    ]
+  ],
+  [
+    [
       "2025-10-23, 22:52:15",
       "https://news.ycombinator.com/item?id=45688443"
     ],
     [
       "Introduction to the concept of likelihood and its applications (2018)",
       "https://journals.sagepub.com/doi/10.1177/2515245917744314"
+    ]
+  ],
+  [
+    [
+      "2025-10-23, 22:43:15",
+      "https://news.ycombinator.com/item?id=45688340"
+    ],
+    [
+      "Populism Fast and Slow",
+      "https://josephheath.substack.com/p/populism-fast-and-slow"
     ]
   ],
   [
@@ -35,7 +65,7 @@
       "https://news.ycombinator.com/item?id=45687796"
     ],
     [
-      "How memory maps (MMAP) deliver faster file access in Go",
+      "How memory maps (mmap) deliver faster file access in Go",
       "https://info.varnish-software.com/blog/how-memory-maps-mmap-deliver-25x-faster-file-access-in-go"
     ]
   ],
@@ -45,7 +75,7 @@
       "https://news.ycombinator.com/item?id=45687458"
     ],
     [
-      "/Dev/null is an ACID compliant database",
+      "/dev/null is an ACID compliant database",
       "https://jyu.dev/blog/why-dev-null-is-an-acid-compliant-database/"
     ]
   ],
@@ -77,16 +107,6 @@
     [
       "Show HN: OpenSnowcat – A fork of Snowplow to keep open analytics alive",
       "https://opensnowcat.io/"
-    ]
-  ],
-  [
-    [
-      "2025-10-23, 19:05:24",
-      "https://news.ycombinator.com/item?id=45685551"
-    ],
-    [
-      "What happened to Apple's legendary attention to detail?",
-      "https://blog.johnozbay.com/what-happened-to-apples-attention-to-detail.html"
     ]
   ],
   [
@@ -171,32 +191,12 @@
   ],
   [
     [
-      "2025-10-23, 12:47:41",
-      "https://news.ycombinator.com/item?id=45681200"
-    ],
-    [
-      "I spent a year making an ASN.1 compiler in D",
-      "https://bradley.chatha.dev/blog/dlang-propaganda/asn1-compiler-in-d/"
-    ]
-  ],
-  [
-    [
       "2025-10-23, 12:40:57",
       "https://news.ycombinator.com/item?id=45681147"
     ],
     [
       "US probes Waymo robotaxis over school bus safety",
       "https://www.yahoo.com/news/articles/us-investigates-waymo-robotaxis-over-102015308.html"
-    ]
-  ],
-  [
-    [
-      "2025-10-23, 12:00:11",
-      "https://news.ycombinator.com/item?id=45680847"
-    ],
-    [
-      "Nango (YC W23) is hiring staff back-end engineers (remote)",
-      "https://www.nango.dev/careers"
     ]
   ],
   [
@@ -217,16 +217,6 @@
     [
       "Summary of the Amazon DynamoDB Service Disruption in US-East-1 Region",
       "https://aws.amazon.com/message/101925/"
-    ]
-  ],
-  [
-    [
-      "2025-10-22, 16:27:26",
-      "https://news.ycombinator.com/item?id=45671569"
-    ],
-    [
-      "How count-min sketches work – frequencies, but without the actual data",
-      "https://www.instantdb.com/essays/count_min_sketch"
     ]
   ],
   [
@@ -261,12 +251,12 @@
   ],
   [
     [
-      "2025-10-16, 02:44:09",
-      "https://news.ycombinator.com/item?id=45600897"
+      "2025-10-15, 19:23:39",
+      "https://news.ycombinator.com/item?id=45597198"
     ],
     [
-      "RFC 9861: KangarooTwelve and TurboSHAKE",
-      "https://datatracker.ietf.org/doc/rfc9861/"
+      "Cheap DIY solar fence design",
+      "https://joeyh.name/blog/entry/cheap_DIY_solar_fence_design/"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Kaitai Struct: declarative binary format parsing language",
       "https://kaitai.io/"
+    ]
+  ],
+  [
+    [
+      "2025-10-11, 01:49:07",
+      "https://news.ycombinator.com/item?id=45545860"
+    ],
+    [
+      "Deepstaria Enigmatica",
+      "https://en.wikipedia.org/wiki/Deepstaria_enigmatica"
     ]
   ]
 ]
