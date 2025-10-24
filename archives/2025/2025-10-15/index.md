@@ -64,6 +64,7 @@
 * [2025-10-15, 11:11:41](https://news.ycombinator.com/item?id=45590681) - [I analyzed 200 e-commerce sites and found 73% of their traffic is fake](https://joindatacops.com/resources/how-73-of-your-e-commerce-visitors-could-be-fake)
 * [2025-10-15, 10:19:21](https://news.ycombinator.com/item?id=45590302) - [CVE-2025-55315: Asp.net Security Feature Bypass Vulnerability [9.9 Critical]](https://nvd.nist.gov/vuln/detail/CVE-2025-55315)
 * [2025-10-15, 10:10:20](https://news.ycombinator.com/item?id=45590236) - [Britain has wasted £1,112,293,718 switching off wind turbines in 2025](https://wastedwind.energy/)
+* [2025-10-15, 08:59:46](https://news.ycombinator.com/item?id=45589786) - [Clang Bytecode Interpreter Update](https://developers.redhat.com/articles/2025/10/15/clang-bytecode-interpreter-update)
 * [2025-10-15, 08:47:32](https://news.ycombinator.com/item?id=45589715) - [The scariest \"user support\" email I've ever received](https://www.devas.life/the-scariest-user-support-email-ive-ever-received/)
 * [2025-10-15, 07:52:40](https://news.ycombinator.com/item?id=45589327) - [Europe's Digital Sovereignty Paradox – \"Chat Control\" Update](https://www.process-one.net/blog/chat-control-update-oct-2025/)
 * [2025-10-15, 07:28:45](https://news.ycombinator.com/item?id=45589156) - [How to stop Linux threads cleanly](https://mazzo.li/posts/stopping-linux-threads.html)
