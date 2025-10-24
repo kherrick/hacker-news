@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-10-24, 10:16:25](https://news.ycombinator.com/item?id=45692984) - [Twake Drive – The open-source alternative to Google Drive](https://github.com/linagora/twake-drive)
 * [2025-10-24, 09:17:24](https://news.ycombinator.com/item?id=45692585) - [Interstellar Mission to a Black Hole](https://www.centauri-dreams.org/2025/10/23/interstellar-mission-to-a-black-hole/)
 * [2025-10-24, 05:32:04](https://news.ycombinator.com/item?id=45691127) - [Alaska Airlines' statement on IT outage](https://news.alaskaair.com/on-the-record/alaska-statement-on-it-outage/)
 * [2025-10-24, 04:46:50](https://news.ycombinator.com/item?id=45690871) - [RFC 863 – Discard Protocol](https://datatracker.ietf.org/doc/html/rfc863)
@@ -20,7 +21,6 @@
 * [2025-10-23, 17:04:17](https://news.ycombinator.com/item?id=45684236) - [OpenAI acquires Sky.app](https://openai.com/index/openai-acquires-software-applications-incorporated)
 * [2025-10-23, 16:56:07](https://news.ycombinator.com/item?id=45684134) - [Claude Memory](https://www.anthropic.com/news/memory)
 * [2025-10-23, 16:36:05](https://news.ycombinator.com/item?id=45683897) - [Antislop: A framework for eliminating repetitive patterns in language models](https://arxiv.org/abs/2510.15061)
-* [2025-10-23, 15:41:48](https://news.ycombinator.com/item?id=45683152) - [Trump pardons convicted Binance founder](https://www.wsj.com/finance/currencies/trump-pardons-convicted-binance-founder-7509bd63)
 * [2025-10-23, 12:47:41](https://news.ycombinator.com/item?id=45681200) - [I spent a year making an ASN.1 compiler in D](https://bradley.chatha.dev/blog/dlang-propaganda/asn1-compiler-in-d/)
 * [2025-10-23, 12:40:57](https://news.ycombinator.com/item?id=45681147) - [US probes Waymo robotaxis over school bus safety](https://www.yahoo.com/news/articles/us-investigates-waymo-robotaxis-over-102015308.html)
 * [2025-10-23, 10:15:12](https://news.ycombinator.com/item?id=45680237) - [PyTorch Monarch](https://pytorch.org/blog/introducing-pytorch-monarch/)
