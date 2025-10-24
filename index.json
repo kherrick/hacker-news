@@ -151,6 +151,16 @@
   ],
   [
     [
+      "2025-10-23, 21:28:02",
+      "https://news.ycombinator.com/item?id=45687458"
+    ],
+    [
+      "/dev/null is an ACID compliant database",
+      "https://jyu.dev/blog/why-dev-null-is-an-acid-compliant-database/"
+    ]
+  ],
+  [
+    [
       "2025-10-23, 21:26:57",
       "https://news.ycombinator.com/item?id=45687441"
     ],
@@ -217,16 +227,6 @@
     [
       "LightlyStudio – an open-source multimodal data curation and labeling tool",
       "https://github.com/lightly-ai/lightly-studio"
-    ]
-  ],
-  [
-    [
-      "2025-10-21, 13:17:59",
-      "https://news.ycombinator.com/item?id=45655393"
-    ],
-    [
-      "SierraDB: A distributed event store built in Rust",
-      "https://tqwewe.com/blog/building-sierradb/"
     ]
   ],
   [
