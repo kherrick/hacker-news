@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-10-25, 20:42:02",
+      "https://news.ycombinator.com/item?id=45706815"
+    ],
+    [
+      "ARM Memory Tagging: how it improves C/C++ memory safety (2018) [pdf]",
+      "https://llvm.org/devmtg/2018-10/slides/Serebryany-Stepanov-Tsyrklevich-Memory-Tagging-Slides-LLVM-2018.pdf"
+    ]
+  ],
+  [
+    [
       "2025-10-25, 20:38:58",
       "https://news.ycombinator.com/item?id=45706792"
     ],
@@ -17,6 +27,36 @@
     [
       "Project Amplify: Powered footwear for running and walking",
       "https://about.nike.com/en/newsroom/releases/nike-project-amplify-official-images"
+    ]
+  ],
+  [
+    [
+      "2025-10-25, 20:34:37",
+      "https://news.ycombinator.com/item?id=45706755"
+    ],
+    [
+      "\"Learn APL\" Notes",
+      "https://luksamuk.codes/pages/learn-apl.html"
+    ]
+  ],
+  [
+    [
+      "2025-10-25, 20:32:29",
+      "https://news.ycombinator.com/item?id=45706744"
+    ],
+    [
+      "Honda's ASIMO",
+      "https://www.robotsgottalents.com/post/asimo"
+    ]
+  ],
+  [
+    [
+      "2025-10-25, 20:30:25",
+      "https://news.ycombinator.com/item?id=45706729"
+    ],
+    [
+      "Agent Lightning: Train agents with RL (no code changes needed)",
+      "https://github.com/microsoft/agent-lightning"
     ]
   ],
   [
@@ -81,12 +121,12 @@
   ],
   [
     [
-      "2025-10-25, 19:58:55",
-      "https://news.ycombinator.com/item?id=45706527"
+      "2025-10-25, 19:57:48",
+      "https://news.ycombinator.com/item?id=45706518"
     ],
     [
-      "California invests in battery energy storage, leaving rolling blackouts behind",
-      "https://www.latimes.com/environment/story/2025-10-17/california-made-it-through-another-summer-without-a-flex-alert"
+      "AI, Wikipedia, and uncorrected machine translations of vulnerable languages",
+      "https://www.technologyreview.com/2025/09/25/1124005/ai-wikipedia-vulnerable-languages-doom-spiral/"
     ]
   ],
   [
@@ -111,22 +151,22 @@
   ],
   [
     [
+      "2025-10-25, 19:31:49",
+      "https://news.ycombinator.com/item?id=45706372"
+    ],
+    [
+      "Visualizing the most common unisex names in the US",
+      "https://nameplay.org/blog/common-unisex-names-by-gender-ratio"
+    ]
+  ],
+  [
+    [
       "2025-10-25, 18:47:55",
       "https://news.ycombinator.com/item?id=45706077"
     ],
     [
       "Switzerland is spending millions revamping its vast network of bunkers",
       "https://www.washingtonpost.com/world/2025/10/25/switzerland-nuclear-bunkers-overhaul/"
-    ]
-  ],
-  [
-    [
-      "2025-10-25, 17:33:43",
-      "https://news.ycombinator.com/item?id=45705583"
-    ],
-    [
-      "Draw high dimensional tensors as a matrix of matrices",
-      "https://blog.ezyang.com/2025/10/draw-high-dimensional-tensors-as-a-matrix-of-matrices/"
     ]
   ],
   [
@@ -167,46 +207,6 @@
     [
       "Making a micro Linux distro (2023)",
       "https://popovicu.com/posts/making-a-micro-linux-distro/"
-    ]
-  ],
-  [
-    [
-      "2025-10-25, 09:43:54",
-      "https://news.ycombinator.com/item?id=45702558"
-    ],
-    [
-      "React vs. Backbone in 2025",
-      "https://backbonenotbad.hyperclay.com/"
-    ]
-  ],
-  [
-    [
-      "2025-10-25, 07:27:07",
-      "https://news.ycombinator.com/item?id=45701980"
-    ],
-    [
-      "Why your social.org files can have millions of lines without performance issues",
-      "https://en.andros.dev/blog/4e12225f/why-your-socialorg-files-can-have-millions-of-lines-without-any-performance-issues/"
-    ]
-  ],
-  [
-    [
-      "2025-10-25, 04:42:09",
-      "https://news.ycombinator.com/item?id=45701404"
-    ],
-    [
-      "Mistakes I see engineers making in their code reviews",
-      "https://www.seangoedecke.com/good-code-reviews/"
-    ]
-  ],
-  [
-    [
-      "2025-10-25, 02:31:55",
-      "https://news.ycombinator.com/item?id=45700946"
-    ],
-    [
-      "Key IOCs for Pegasus and Predator Spyware Removed with iOS 26 Update",
-      "https://iverify.io/blog/key-iocs-for-pegasus-and-predator-spyware-cleaned-with-ios-26-update"
     ]
   ],
   [
