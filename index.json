@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2025-10-25, 15:10:29",
+      "https://news.ycombinator.com/item?id=45704483"
+    ],
+    [
+      "Xubuntu website hacked and served malware",
+      "https://old.reddit.com/r/xubuntu/comments/1oa43gt/xubuntuorg_might_be_compromised/"
+    ]
+  ],
+  [
+    [
       "2025-10-25, 13:33:57",
       "https://news.ycombinator.com/item?id=45703767"
     ],
@@ -131,16 +141,6 @@
   ],
   [
     [
-      "2025-10-24, 17:18:17",
-      "https://news.ycombinator.com/item?id=45696838"
-    ],
-    [
-      "How to make a Smith chart",
-      "https://www.johndcook.com/blog/2025/10/23/smith-chart/"
-    ]
-  ],
-  [
-    [
       "2025-10-24, 15:25:17",
       "https://news.ycombinator.com/item?id=45695621"
     ],
@@ -221,6 +221,16 @@
   ],
   [
     [
+      "2025-10-22, 01:35:43",
+      "https://news.ycombinator.com/item?id=45663990"
+    ],
+    [
+      "Magic sizes enable high-fidelity assembly of programmable shells",
+      "https://arxiv.org/abs/2411.03720"
+    ]
+  ],
+  [
+    [
       "2025-10-21, 16:44:06",
       "https://news.ycombinator.com/item?id=45657970"
     ],
@@ -287,16 +297,6 @@
     [
       "The future of Python web services looks GIL-free",
       "https://blog.baro.dev/p/the-future-of-python-web-services-looks-gil-free"
-    ]
-  ],
-  [
-    [
-      "2025-10-19, 08:59:27",
-      "https://news.ycombinator.com/item?id=45632894"
-    ],
-    [
-      "Why formalize mathematics – more than catching errors",
-      "https://rkirov.github.io/posts/why_lean/"
     ]
   ]
 ]
