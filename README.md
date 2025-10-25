@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-10-25, 15:26:32](https://news.ycombinator.com/item?id=45704616) - [Windows 10 Deadline Boosts Mac Sales](https://www.macrumors.com/2025/10/25/windows-10-deadline-boosts-mac-sales/)
-* [2025-10-25, 15:10:29](https://news.ycombinator.com/item?id=45704483) - [Xubuntu website hacked and served malware](https://old.reddit.com/r/xubuntu/comments/1oa43gt/xubuntuorg_might_be_compromised/)
 * [2025-10-25, 13:33:57](https://news.ycombinator.com/item?id=45703767) - [DNA reveals the real killers that brought down Napoleon's army](https://www.gavi.org/vaccineswork/dna-reveals-real-killers-brought-down-napoleons-army)
 * [2025-10-25, 13:24:14](https://news.ycombinator.com/item?id=45703716) - [Synadia and TigerBeetle Commit $512k USD to the Zig Software Foundation](https://www.synadia.com/blog/synadia-tigerbeetle-zig-foundation-pledge)
 * [2025-10-25, 13:01:39](https://news.ycombinator.com/item?id=45703556) - [Making a micro Linux distro (2023)](https://popovicu.com/posts/making-a-micro-linux-distro/)
@@ -14,6 +13,7 @@
 * [2025-10-24, 20:48:46](https://news.ycombinator.com/item?id=45698909) - [Study: MRI contrast agent causes harmful metal buildup in some patients](https://www.ormanager.com/briefs/study-mri-contrast-agent-causes-harmful-metal-buildup-in-some-patients/)
 * [2025-10-24, 20:06:52](https://news.ycombinator.com/item?id=45698570) - [The Swift SDK for Android](https://www.swift.org/blog/nightly-swift-sdk-for-android/)
 * [2025-10-24, 20:05:07](https://news.ycombinator.com/item?id=45698554) - [Harnessing America's heat pump moment](https://www.heatpumped.org/p/harnessing-america-s-heat-pump-moment)
+* [2025-10-24, 17:18:17](https://news.ycombinator.com/item?id=45696838) - [How to make a Smith chart](https://www.johndcook.com/blog/2025/10/23/smith-chart/)
 * [2025-10-24, 15:25:17](https://news.ycombinator.com/item?id=45695621) - [Code like a surgeon](https://www.geoffreylitt.com/2025/10/24/code-like-a-surgeon)
 * [2025-10-24, 14:40:34](https://news.ycombinator.com/item?id=45695134) - [Unlocking free WiFi on British Airways](https://www.saxrag.com/tech/reversing/2025/06/01/BAWiFi.html)
 * [2025-10-24, 14:12:00](https://news.ycombinator.com/item?id=45694856) - [First shape found that can't pass through itself](https://www.quantamagazine.org/first-shape-found-that-cant-pass-through-itself-20251024/)
