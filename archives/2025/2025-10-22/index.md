@@ -72,6 +72,7 @@
 * [2025-10-22, 06:41:42](https://news.ycombinator.com/item?id=45665622) - [Vertiginous Accounts: Travels in the Air (1871 edition)](https://publicdomainreview.org/collection/travels-in-the-air/)
 * [2025-10-22, 06:41:09](https://news.ycombinator.com/item?id=45665617) - [Enchanting Imposters](https://daily.jstor.org/enchanting-imposters/)
 * [2025-10-22, 06:40:42](https://news.ycombinator.com/item?id=45665612) - [The Great Butterfly Heist](https://www.theguardian.com/global/2025/oct/04/great-butterfly-heist-how-collector-stole-thousands-butterflies-from-australian-museums)
+* [2025-10-22, 06:26:53](https://news.ycombinator.com/item?id=45665515) - [The fix wasn't easy, or C precedence bites](https://boston.conman.org/2025/10/20.1)
 * [2025-10-22, 06:17:18](https://news.ycombinator.com/item?id=45665452) - [MinIO stops distributing free Docker images](https://github.com/minio/minio/issues/21647#issuecomment-3418675115)
 * [2025-10-22, 06:17:18](https://news.ycombinator.com/item?id=45665452) - [MinIO (apparently) becomes source-only](https://github.com/minio/minio/issues/21647)
 * [2025-10-22, 05:49:58](https://news.ycombinator.com/item?id=45665311) - [French ex-president Sarkozy begins jail sentence](https://www.bbc.com/news/articles/cvgkm2j0xelo)

@@ -24,7 +24,7 @@
 * [2025-10-24, 01:59:56](https://news.ycombinator.com/item?id=45689905) - [Modern Perfect Hashing](https://blog.sesse.net/blog/tech/2025-10-23-21-23_modern_perfect_hashing.html)
 * [2025-10-23, 14:24:47](https://news.ycombinator.com/item?id=45682164) - [Context engineering is sleeping on the humble hyperlink](https://mbleigh.dev/posts/context-engineering-with-links/)
 * [2025-10-22, 19:29:59](https://news.ycombinator.com/item?id=45674002) - [Public Montessori programs strengthen learning outcomes at lower costs: study](https://phys.org/news/2025-10-national-montessori-early-outcomes-sharply.html)
-* [2025-10-22, 06:40:42](https://news.ycombinator.com/item?id=45665612) - [The Great Butterfly Heist](https://www.theguardian.com/global/2025/oct/04/great-butterfly-heist-how-collector-stole-thousands-butterflies-from-australian-museums)
+* [2025-10-22, 06:26:53](https://news.ycombinator.com/item?id=45665515) - [The fix wasn't easy, or C precedence bites](https://boston.conman.org/2025/10/20.1)
 * [2025-10-21, 19:47:12](https://news.ycombinator.com/item?id=45660753) - [Why can't transformers learn multiplication?](https://arxiv.org/abs/2510.00184)
 * [2025-10-21, 08:19:27](https://news.ycombinator.com/item?id=45653639) - [People with blindness can read again after retinal implant](https://go.nature.com/48JVwrv)
 * [2025-10-20, 11:08:44](https://news.ycombinator.com/item?id=45642571) - [Valetudo: Cloud replacement for vacuum robots enabling local-only operation](https://valetudo.cloud/)
