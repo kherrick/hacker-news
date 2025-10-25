@@ -3,6 +3,7 @@
 * [2025-10-25, 07:03:39](https://news.ycombinator.com/item?id=45701884) - [That Time Ken Thompson Wrote a Backdoor into the C Compiler](https://micahkepe.com/blog/thompson-trojan-horse/)
 * [2025-10-25, 06:48:12](https://news.ycombinator.com/item?id=45701825) - [Euro cops take down cybercrime network with 49M fake accounts](https://www.itnews.com.au/news/euro-cops-take-down-cybercrime-network-with-49-million-fake-accounts-621174)
 * [2025-10-25, 05:51:31](https://news.ycombinator.com/item?id=45701607) - [Fast TypeScript (Code Complexity) Analyzer](https://ftaproject.dev/)
+* [2025-10-25, 05:14:16](https://news.ycombinator.com/item?id=45701503) - [The Goon Squad](https://harpers.org/archive/2025/11/the-goon-squad-daniel-kolitz-porn-masturbation-loneliness/)
 * [2025-10-25, 04:09:18](https://news.ycombinator.com/item?id=45701305) - [Meet the real screen addicts: the elderly](https://www.economist.com/international/2025/10/23/meet-the-real-screen-addicts-the-elderly)
 * [2025-10-25, 02:31:55](https://news.ycombinator.com/item?id=45700946) - [Key IOCs for Pegasus and Predator Spyware Removed with iOS 26 Update](https://iverify.io/blog/key-iocs-for-pegasus-and-predator-spyware-cleaned-with-ios-26-update)
 * [2025-10-25, 02:24:30](https://news.ycombinator.com/item?id=45700911) - [Advice for New Principal Tech ICs (I.e., Notes to Myself)](https://eugeneyan.com/writing/principal/)
@@ -28,7 +29,6 @@
 * [2025-10-20, 11:08:44](https://news.ycombinator.com/item?id=45642571) - [Valetudo: Cloud replacement for vacuum robots enabling local-only operation](https://valetudo.cloud/)
 * [2025-10-20, 05:29:25](https://news.ycombinator.com/item?id=45640363) - [The Geometry of Mathematical Methods](https://books.physics.oregonstate.edu/GMM/book.html)
 * [2025-10-19, 13:13:24](https://news.ycombinator.com/item?id=45633877) - [I invited strangers to message me through a receipt printer](https://aschmelyun.com/blog/i-invited-strangers-to-message-me-through-a-receipt-printer/)
-* [2025-10-19, 12:18:47](https://news.ycombinator.com/item?id=45633656) - [Creating an Igcse Pseudocode Interpreter](https://ezntek.com/posts/creating-an-igcse-pseudocode-interpreter-pt-2-20250913t1349/)
 * [2025-10-19, 08:59:27](https://news.ycombinator.com/item?id=45632894) - [Why formalize mathematics – more than catching errors](https://rkirov.github.io/posts/why_lean/)
 
 ## [Archives](archives/index.md)
