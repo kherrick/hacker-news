@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-10-25](index.md)
 
+* [2025-10-25, 19:33:22](https://news.ycombinator.com/item?id=45706380) - [The Journey Before main()](https://amit.prasad.me/blog/before-main)
 * [2025-10-25, 18:47:55](https://news.ycombinator.com/item?id=45706077) - [Switzerland is spending millions revamping its vast network of bunkers](https://www.washingtonpost.com/world/2025/10/25/switzerland-nuclear-bunkers-overhaul/)
 * [2025-10-25, 18:43:32](https://news.ycombinator.com/item?id=45706056) - [ICC Judge Guillou loses all US IT accounts after MAGA sanctions [FR]](https://www.franceinfo.fr/replay-radio/nouveau-monde/quand-les-sanctions-internationales-emises-par-washington-imposent-une-vie-deconnectee-a-un-magistrat-francais_7545724.html)
 * [2025-10-25, 17:07:40](https://news.ycombinator.com/item?id=45705381) - [Libera Chat receives legal advice that the Online Safety Act does not apply to](https://libera.chat/news/advised)
