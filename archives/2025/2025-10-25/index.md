@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-10-25](index.md)
 
+* [2025-10-25, 19:51:24](https://news.ycombinator.com/item?id=45706487) - [Show HN: Open-source shadcn/UI theme editor – design and share shadcn themes](https://shadcnthemer.com)
 * [2025-10-25, 19:33:22](https://news.ycombinator.com/item?id=45706380) - [The Journey Before main()](https://amit.prasad.me/blog/before-main)
 * [2025-10-25, 18:47:55](https://news.ycombinator.com/item?id=45706077) - [Switzerland is spending millions revamping its vast network of bunkers](https://www.washingtonpost.com/world/2025/10/25/switzerland-nuclear-bunkers-overhaul/)
 * [2025-10-25, 18:43:32](https://news.ycombinator.com/item?id=45706056) - [ICC Judge Guillou loses all US IT accounts after MAGA sanctions [FR]](https://www.franceinfo.fr/replay-radio/nouveau-monde/quand-les-sanctions-internationales-emises-par-washington-imposent-une-vie-deconnectee-a-un-magistrat-francais_7545724.html)
@@ -34,6 +35,7 @@
 * [2025-10-25, 02:31:55](https://news.ycombinator.com/item?id=45700946) - [Key IOCs for Pegasus and Predator Spyware Removed with iOS 26 Update](https://iverify.io/blog/key-iocs-for-pegasus-and-predator-spyware-cleaned-with-ios-26-update)
 * [2025-10-25, 02:29:31](https://news.ycombinator.com/item?id=45700932) - [Underdetermined Weaving with Machines (2021) [video]](https://www.youtube.com/watch?v=on_sK8KoObo)
 * [2025-10-25, 02:24:30](https://news.ycombinator.com/item?id=45700911) - [Advice for New Principal Tech ICs (I.e., Notes to Myself)](https://eugeneyan.com/writing/principal/)
+* [2025-10-25, 02:14:39](https://news.ycombinator.com/item?id=45700879) - [Ask HN: Not treated respectfully by colleague – advice?](https://news.ycombinator.com/item?id=45700879)
 * [2025-10-25, 01:36:10](https://news.ycombinator.com/item?id=45700720) - [Deepagent: A powerful desktop AI assistant](https://deepagent.abacus.ai)
 * [2025-10-25, 01:21:43](https://news.ycombinator.com/item?id=45700663) - [What Is Intelligence?](https://mitpress.mit.edu/9780262049955/what-is-intelligence/)
 * [2025-10-25, 01:21:43](https://news.ycombinator.com/item?id=45700663) - [What Is Intelligence? (2024)](https://whatisintelligence.antikythera.org/)
