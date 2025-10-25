@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-10-25](index.md)
 
 * [2025-10-25, 10:36:35](https://news.ycombinator.com/item?id=45702736) - [The Missing Semester of Your CS Education (2020)](https://missing.csail.mit.edu/)
+* [2025-10-25, 09:43:54](https://news.ycombinator.com/item?id=45702558) - [React vs. Backbone in 2025](https://backbonenotbad.hyperclay.com/)
 * [2025-10-25, 07:03:39](https://news.ycombinator.com/item?id=45701884) - [That Time Ken Thompson Wrote a Backdoor into the C Compiler](https://micahkepe.com/blog/thompson-trojan-horse/)
 * [2025-10-25, 06:48:12](https://news.ycombinator.com/item?id=45701825) - [Euro cops take down cybercrime network with 49M fake accounts](https://www.itnews.com.au/news/euro-cops-take-down-cybercrime-network-with-49-million-fake-accounts-621174)
 * [2025-10-25, 05:55:11](https://news.ycombinator.com/item?id=45701622) - [Claudeskills.cc – Share, Discover, and Reuse Claude/OpenAI Agent Skills](https://claudeskills.cc)
