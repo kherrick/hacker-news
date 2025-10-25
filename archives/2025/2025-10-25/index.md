@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-10-25](index.md)
 
+* [2025-10-25, 20:13:55](https://news.ycombinator.com/item?id=45706624) - [In memory of the Christmas Island shrew](https://news.mongabay.com/2025/10/in-memory-of-the-christmas-island-shrew/)
 * [2025-10-25, 19:51:24](https://news.ycombinator.com/item?id=45706487) - [Show HN: Open-source shadcn/UI theme editor – design and share shadcn themes](https://shadcnthemer.com)
 * [2025-10-25, 19:33:22](https://news.ycombinator.com/item?id=45706380) - [The Journey Before main()](https://amit.prasad.me/blog/before-main)
 * [2025-10-25, 18:47:55](https://news.ycombinator.com/item?id=45706077) - [Switzerland is spending millions revamping its vast network of bunkers](https://www.washingtonpost.com/world/2025/10/25/switzerland-nuclear-bunkers-overhaul/)
@@ -25,6 +26,7 @@
 * [2025-10-25, 09:55:09](https://news.ycombinator.com/item?id=45702601) - [File system design philosophy](https://deyaa1251.github.io/deyaa1251/posts/b_tree/)
 * [2025-10-25, 09:43:54](https://news.ycombinator.com/item?id=45702558) - [React vs. Backbone in 2025](https://backbonenotbad.hyperclay.com/)
 * [2025-10-25, 09:02:14](https://news.ycombinator.com/item?id=45702363) - [Tell HN: OpenAI now requires ID verification and won't refund API credits](https://news.ycombinator.com/item?id=45702363)
+* [2025-10-25, 07:27:07](https://news.ycombinator.com/item?id=45701980) - [Why your social.org files can have millions of lines without performance issues](https://en.andros.dev/blog/4e12225f/why-your-socialorg-files-can-have-millions-of-lines-without-any-performance-issues/)
 * [2025-10-25, 07:03:39](https://news.ycombinator.com/item?id=45701884) - [That Time Ken Thompson Wrote a Backdoor into the C Compiler](https://micahkepe.com/blog/thompson-trojan-horse/)
 * [2025-10-25, 06:48:12](https://news.ycombinator.com/item?id=45701825) - [Euro cops take down cybercrime network with 49M fake accounts](https://www.itnews.com.au/news/euro-cops-take-down-cybercrime-network-with-49-million-fake-accounts-621174)
 * [2025-10-25, 05:55:11](https://news.ycombinator.com/item?id=45701622) - [Claudeskills.cc – Share, Discover, and Reuse Claude/OpenAI Agent Skills](https://claudeskills.cc)

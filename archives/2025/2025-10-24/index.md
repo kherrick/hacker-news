@@ -6,6 +6,7 @@
 
 * [2025-10-24, 23:07:21](https://news.ycombinator.com/item?id=45700008) - [The Peter Principle and exploiting overconfident workers](https://marginalrevolution.com/marginalrevolution/2025/10/the-peter-principle-and-exploiting-overconfident-workers.html)
 * [2025-10-24, 22:23:50](https://news.ycombinator.com/item?id=45699725) - [New OSM file format: 30% smaller than PBF, 5x faster to import](https://community.openstreetmap.org/t/new-osm-file-format-30-smaller-than-pbf-5x-faster-to-import/137151)
+* [2025-10-24, 22:12:05](https://news.ycombinator.com/item?id=45699618) - [Google Pixel's most dangerous bug: failing to call 911](https://www.androidpolice.com/google-pixels-most-dangerous-bug-refuses-to-die/)
 * [2025-10-24, 21:29:17](https://news.ycombinator.com/item?id=45699294) - [Leaving the Freedesktop.org Community](https://vt.social/@lina/115431232807081648)
 * [2025-10-24, 21:28:39](https://news.ycombinator.com/item?id=45699285) - [Dead soldiers' teeth reveal diseases that doomed Napoleon's army](https://www.washingtonpost.com/science/2025/10/24/napoleons-army-diseases-ancient-dna-teeth/)
 * [2025-10-24, 21:00:27](https://news.ycombinator.com/item?id=45699023) - [Conductor (YC S24) Is Hiring a Founding Engineer in San Francisco](https://www.ycombinator.com/companies/conductor/jobs/MYjJzBV-founding-engineer)
@@ -17,7 +18,9 @@
 * [2025-10-24, 18:30:28](https://news.ycombinator.com/item?id=45697649) - [Protein Is a Trap and I Have Fallen into It, or Second Breakfast #19](https://buttondown.com/meghanmccarron/archive/protein-is-a-trap-and-i-have-fallen-into-it-or/)
 * [2025-10-24, 17:18:17](https://news.ycombinator.com/item?id=45696838) - [How to Make a Smith Chart](https://www.johndcook.com/blog/2025/10/23/smith-chart/)
 * [2025-10-24, 17:11:58](https://news.ycombinator.com/item?id=45696752) - [Disable AI in Firefox](https://flamedfury.com/posts/disable-ai-in-firefox/)
+* [2025-10-24, 16:38:00](https://news.ycombinator.com/item?id=45696329) - [\"Return YouTube Dislike\" Chrome Extension Injecting Ads](https://chromewebstore.google.com/detail/return-youtube-dislike/gebbhagfogifgggkldgodflihgfeippi/reviews)
 * [2025-10-24, 16:22:38](https://news.ycombinator.com/item?id=45696183) - [Ivy League psychologist: 'Bring your whole self to work' is bad advice](https://www.cnbc.com/2025/10/24/bring-your-whole-self-to-work-is-bad-advice-ivy-league-psychologist-saysheres-why.html)
+* [2025-10-24, 16:03:53](https://news.ycombinator.com/item?id=45695979) - [Why I code as a CTO](https://www.assembled.com/blog/why-i-code-as-a-cto)
 * [2025-10-24, 16:01:23](https://news.ycombinator.com/item?id=45695956) - [The Mainframe Six](https://arcanesciences.com/os2200/app1.html)
 * [2025-10-24, 15:49:58](https://news.ycombinator.com/item?id=45695841) - [\"ChatGPT said this\" Is Lazy](https://terriblesoftware.org/2025/10/24/chatgpt-said-this-is-lazy/)
 * [2025-10-24, 15:25:17](https://news.ycombinator.com/item?id=45695621) - [Code Like a Surgeon](https://www.geoffreylitt.com/2025/10/24/code-like-a-surgeon)

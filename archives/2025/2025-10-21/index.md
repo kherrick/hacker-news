@@ -65,6 +65,7 @@
 * [2025-10-21, 09:28:29](https://news.ycombinator.com/item?id=45653981) - [Human Error Cripples the Internet (1997)](https://archive.nytimes.com/www.nytimes.com/library/cyber/week/071797dns.html)
 * [2025-10-21, 08:19:27](https://news.ycombinator.com/item?id=45653639) - [People with blindness can read again after retinal implant](https://www.nbcnews.com/health/health-news/tiny-eye-implant-special-glasses-legally-blind-patients-can-read-rcna238488)
 * [2025-10-21, 08:19:27](https://news.ycombinator.com/item?id=45653639) - [People with blindness can read again after retinal implant](https://go.nature.com/48JVwrv)
+* [2025-10-21, 08:03:17](https://news.ycombinator.com/item?id=45653543) - [Passwords and Power Drills](https://google.github.io/building-secure-and-reliable-systems/raw/ch01.html#on_passwords_and_power_drills)
 * [2025-10-21, 07:35:05](https://news.ycombinator.com/item?id=45653393) - [Most Expensive Laptops](https://comparelaptopprices.com/lists/most-expensive-laptops/)
 * [2025-10-21, 07:26:57](https://news.ycombinator.com/item?id=45653350) - [Show HN: I'm rewriting a web server written in Rust for speed and ease of use](https://ferron.sh/)
 * [2025-10-21, 07:23:09](https://news.ycombinator.com/item?id=45653330) - [Pasta/80 is a simple Pascal cross compiler targeting the Z80 microprocessor](https://github.com/pleumann/pasta80)
