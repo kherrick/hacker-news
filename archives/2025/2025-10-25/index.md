@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-10-25](index.md)
 
+* [2025-10-25, 13:24:14](https://news.ycombinator.com/item?id=45703716) - [Synadia and TigerBeetle Commit $512k USD to the Zig Software Foundation](https://www.synadia.com/blog/synadia-tigerbeetle-zig-foundation-pledge)
 * [2025-10-25, 13:01:39](https://news.ycombinator.com/item?id=45703556) - [Making a micro Linux distro (2023)](https://popovicu.com/posts/making-a-micro-linux-distro/)
 * [2025-10-25, 12:01:44](https://news.ycombinator.com/item?id=45703196) - [Show HN: Chonky – a neural text semantic chunking goes multilingual](https://huggingface.co/mirth/chonky_mmbert_small_multilingual_1)
 * [2025-10-25, 11:05:41](https://news.ycombinator.com/item?id=45702877) - [The Great SaaS Gaslight](https://unworkableideas.com/the-great-saas-lighting-how-it-users-got-gaslit/)

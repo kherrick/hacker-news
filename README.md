@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-10-25, 13:24:14](https://news.ycombinator.com/item?id=45703716) - [Synadia and TigerBeetle Commit $512k USD to the Zig Software Foundation](https://www.synadia.com/blog/synadia-tigerbeetle-zig-foundation-pledge)
 * [2025-10-25, 13:01:39](https://news.ycombinator.com/item?id=45703556) - [Making a micro Linux distro (2023)](https://popovicu.com/posts/making-a-micro-linux-distro/)
 * [2025-10-25, 11:05:41](https://news.ycombinator.com/item?id=45702877) - [The Great SaaS Gaslight](https://unworkableideas.com/the-great-saas-lighting-how-it-users-got-gaslit/)
 * [2025-10-25, 09:43:54](https://news.ycombinator.com/item?id=45702558) - [React vs. Backbone in 2025](https://backbonenotbad.hyperclay.com/)
@@ -29,7 +30,6 @@
 * [2025-10-20, 05:29:25](https://news.ycombinator.com/item?id=45640363) - [The geometry of mathematical methods](https://books.physics.oregonstate.edu/GMM/book.html)
 * [2025-10-19, 13:13:24](https://news.ycombinator.com/item?id=45633877) - [I invited strangers to message me through a receipt printer](https://aschmelyun.com/blog/i-invited-strangers-to-message-me-through-a-receipt-printer/)
 * [2025-10-19, 10:38:25](https://news.ycombinator.com/item?id=45633311) - [The future of Python web services looks GIL-free](https://blog.baro.dev/p/the-future-of-python-web-services-looks-gil-free)
-* [2025-10-19, 08:59:27](https://news.ycombinator.com/item?id=45632894) - [Why formalize mathematics – more than catching errors](https://rkirov.github.io/posts/why_lean/)
 
 ## [Archives](archives/index.md)
 
