@@ -36,6 +36,7 @@
 * [2025-10-22, 16:09:01](https://news.ycombinator.com/item?id=45671282) - [Chess engines didn't replace Magnus Carlsen, and AI won't replace you](https://coding-with-ai.dev/posts/use-ai-like-magnus-carlsen/)
 * [2025-10-22, 15:39:13](https://news.ycombinator.com/item?id=45670780) - [Sequoia COO quit over Shaun Maguire's comments about Mamdani](https://www.ft.com/content/8e6de299-3eb6-4ba9-8037-266c55c02170)
 * [2025-10-22, 15:20:59](https://news.ycombinator.com/item?id=45670516) - [The Logarithmic Time Perception Hypothesis](http://www.kafalas.com/Logtime.html)
+* [2025-10-22, 15:17:36](https://news.ycombinator.com/item?id=45670463) - [The persistence of tradition: the curious case of Henry Symeonis](https://blogs.bodleian.ox.ac.uk/archivesandmanuscripts/2023/12/13/the-persistence-of-tradition-the-curious-case-of-henry-symeonis/)
 * [2025-10-22, 15:16:19](https://news.ycombinator.com/item?id=45670443) - [Google demonstrates 'verifiable quantum advantage' with their Willow processor](https://blog.google/technology/research/quantum-echoes-willow-verifiable-quantum-advantage/)
 * [2025-10-22, 14:53:54](https://news.ycombinator.com/item?id=45670052) - [Scripts I wrote that I use all the time](https://evanhahn.com/scripts-i-wrote-that-i-use-all-the-time/)
 * [2025-10-22, 14:45:03](https://news.ycombinator.com/item?id=45669906) - [Show HN: Create interactive diagrams with pop-up content](https://vexlio.com/features/interactive-diagrams-with-popups/)

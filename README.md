@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-10-25, 07:03:39](https://news.ycombinator.com/item?id=45701884) - [That Time Ken Thompson Wrote a Backdoor into the C Compiler](https://micahkepe.com/blog/thompson-trojan-horse/)
 * [2025-10-25, 06:48:12](https://news.ycombinator.com/item?id=45701825) - [Euro cops take down cybercrime network with 49M fake accounts](https://www.itnews.com.au/news/euro-cops-take-down-cybercrime-network-with-49-million-fake-accounts-621174)
 * [2025-10-25, 05:51:31](https://news.ycombinator.com/item?id=45701607) - [Fast TypeScript (Code Complexity) Analyzer](https://ftaproject.dev/)
 * [2025-10-25, 04:09:18](https://news.ycombinator.com/item?id=45701305) - [Meet the real screen addicts: the elderly](https://www.economist.com/international/2025/10/23/meet-the-real-screen-addicts-the-elderly)
@@ -22,6 +21,7 @@
 * [2025-10-23, 14:55:29](https://news.ycombinator.com/item?id=45682560) - [Luau's Performance](https://luau.org/performance)
 * [2025-10-23, 14:24:47](https://news.ycombinator.com/item?id=45682164) - [Context engineering is sleeping on the humble hyperlink](https://mbleigh.dev/posts/context-engineering-with-links/)
 * [2025-10-22, 19:29:59](https://news.ycombinator.com/item?id=45674002) - [Public Montessori programs strengthen learning outcomes at lower costs: study](https://phys.org/news/2025-10-national-montessori-early-outcomes-sharply.html)
+* [2025-10-22, 15:17:36](https://news.ycombinator.com/item?id=45670463) - [The persistence of tradition: the curious case of Henry Symeonis](https://blogs.bodleian.ox.ac.uk/archivesandmanuscripts/2023/12/13/the-persistence-of-tradition-the-curious-case-of-henry-symeonis/)
 * [2025-10-22, 06:26:53](https://news.ycombinator.com/item?id=45665515) - [The fix wasn't easy, or C precedence bites](https://boston.conman.org/2025/10/20.1)
 * [2025-10-21, 08:19:27](https://news.ycombinator.com/item?id=45653639) - [People with blindness can read again after retinal implant and special glasses](https://www.nbcnews.com/health/health-news/tiny-eye-implant-special-glasses-legally-blind-patients-can-read-rcna238488)
 * [2025-10-21, 01:42:59](https://news.ycombinator.com/item?id=45651554) - [Normalize.css](https://csstools.github.io/normalize.css/)
