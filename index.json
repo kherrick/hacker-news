@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-10-25, 20:13:55",
+      "https://news.ycombinator.com/item?id=45706624"
+    ],
+    [
+      "In memory of the Christmas Island shrew",
+      "https://news.mongabay.com/2025/10/in-memory-of-the-christmas-island-shrew/"
+    ]
+  ],
+  [
+    [
       "2025-10-25, 19:51:24",
       "https://news.ycombinator.com/item?id=45706487"
     ],
@@ -55,7 +65,7 @@
       "https://news.ycombinator.com/item?id=45704419"
     ],
     [
-      "Against SQL",
+      "Against SQL (2021)",
       "https://www.scattered-thoughts.net/writing/against-sql/"
     ]
   ],
@@ -81,22 +91,22 @@
   ],
   [
     [
-      "2025-10-25, 11:05:41",
-      "https://news.ycombinator.com/item?id=45702877"
-    ],
-    [
-      "The Great SaaS Gaslight",
-      "https://unworkableideas.com/the-great-saas-lighting-how-it-users-got-gaslit/"
-    ]
-  ],
-  [
-    [
       "2025-10-25, 09:43:54",
       "https://news.ycombinator.com/item?id=45702558"
     ],
     [
       "React vs. Backbone in 2025",
       "https://backbonenotbad.hyperclay.com/"
+    ]
+  ],
+  [
+    [
+      "2025-10-25, 07:27:07",
+      "https://news.ycombinator.com/item?id=45701980"
+    ],
+    [
+      "Why your social.org files can have millions of lines without performance issues",
+      "https://en.andros.dev/blog/4e12225f/why-your-socialorg-files-can-have-millions-of-lines-without-any-performance-issues/"
     ]
   ],
   [
@@ -131,12 +141,12 @@
   ],
   [
     [
-      "2025-10-25, 01:21:43",
-      "https://news.ycombinator.com/item?id=45700663"
+      "2025-10-24, 22:12:05",
+      "https://news.ycombinator.com/item?id=45699618"
     ],
     [
-      "What is intelligence? (2024)",
-      "https://whatisintelligence.antikythera.org/"
+      "Google Pixel's most dangerous bug: failing to call 911",
+      "https://www.androidpolice.com/google-pixels-most-dangerous-bug-refuses-to-die/"
     ]
   ],
   [
@@ -171,12 +181,22 @@
   ],
   [
     [
-      "2025-10-24, 20:05:07",
-      "https://news.ycombinator.com/item?id=45698554"
+      "2025-10-24, 16:38:00",
+      "https://news.ycombinator.com/item?id=45696329"
     ],
     [
-      "Harnessing America's heat pump moment",
-      "https://www.heatpumped.org/p/harnessing-america-s-heat-pump-moment"
+      "\"Return YouTube Dislike\" Chrome Extension Injecting Ads",
+      "https://chromewebstore.google.com/detail/return-youtube-dislike/gebbhagfogifgggkldgodflihgfeippi/reviews"
+    ]
+  ],
+  [
+    [
+      "2025-10-24, 16:03:53",
+      "https://news.ycombinator.com/item?id=45695979"
+    ],
+    [
+      "Why I code as a CTO",
+      "https://www.assembled.com/blog/why-i-code-as-a-cto"
     ]
   ],
   [
@@ -201,16 +221,6 @@
   ],
   [
     [
-      "2025-10-23, 14:24:47",
-      "https://news.ycombinator.com/item?id=45682164"
-    ],
-    [
-      "Context engineering is sleeping on the humble hyperlink",
-      "https://mbleigh.dev/posts/context-engineering-with-links/"
-    ]
-  ],
-  [
-    [
       "2025-10-22, 17:37:46",
       "https://news.ycombinator.com/item?id=45672494"
     ],
@@ -225,18 +235,8 @@
       "https://news.ycombinator.com/item?id=45665513"
     ],
     [
-      "Tarmageddon Open Source Abandonware",
+      "Tarmageddon: RCE vulnerability highlights challenges of open source abandonware",
       "https://edera.dev/stories/tarmageddon"
-    ]
-  ],
-  [
-    [
-      "2025-10-22, 01:35:43",
-      "https://news.ycombinator.com/item?id=45663990"
-    ],
-    [
-      "Magic sizes enable high-fidelity assembly of programmable shells",
-      "https://arxiv.org/abs/2411.03720"
     ]
   ],
   [
@@ -261,6 +261,16 @@
   ],
   [
     [
+      "2025-10-21, 08:03:17",
+      "https://news.ycombinator.com/item?id=45653543"
+    ],
+    [
+      "Passwords and Power Drills",
+      "https://google.github.io/building-secure-and-reliable-systems/raw/ch01.html#on_passwords_and_power_drills"
+    ]
+  ],
+  [
+    [
       "2025-10-20, 11:08:44",
       "https://news.ycombinator.com/item?id=45642571"
     ],
@@ -277,16 +287,6 @@
     [
       "Calculating the Bounding Rectangle of a Circular Sector",
       "https://asawicki.info/news_1791_calculating_the_bounding_rectangle_of_a_circular_sector"
-    ]
-  ],
-  [
-    [
-      "2025-10-19, 13:13:24",
-      "https://news.ycombinator.com/item?id=45633877"
-    ],
-    [
-      "I invited strangers to message me through a receipt printer",
-      "https://aschmelyun.com/blog/i-invited-strangers-to-message-me-through-a-receipt-printer/"
     ]
   ],
   [
