@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-10-25, 21:03:39](https://news.ycombinator.com/item?id=45706938) - [How programs get run: ELF binaries](https://lwn.net/Articles/631631/)
+* [2025-10-25, 21:15:05](https://news.ycombinator.com/item?id=45707022) - [AI agents require to-do lists to stay on track](https://blog.justcopy.ai/p/why-your-ai-agents-need-a-todo-list)
+* [2025-10-25, 21:03:39](https://news.ycombinator.com/item?id=45706938) - [How programs get run: ELF binaries (2015)](https://lwn.net/Articles/631631/)
 * [2025-10-25, 21:01:02](https://news.ycombinator.com/item?id=45706924) - [An Efficient Implementation of Self, a Dynamically-Typed Object-Oriented Langua [pdf]](https://courses.cs.washington.edu/courses/cse501/15sp/papers/chambers.pdf)
 * [2025-10-25, 20:51:16](https://news.ycombinator.com/item?id=45706866) - [An Update on TinyKVM](https://fwsgonzo.medium.com/an-update-on-tinykvm-7a38518e57e9)
 * [2025-10-25, 20:42:02](https://news.ycombinator.com/item?id=45706815) - [ARM Memory Tagging: how it improves C/C++ memory safety (2018) [pdf]](https://llvm.org/devmtg/2018-10/slides/Serebryany-Stepanov-Tsyrklevich-Memory-Tagging-Slides-LLVM-2018.pdf)
@@ -27,7 +28,6 @@
 * [2025-10-22, 17:37:46](https://news.ycombinator.com/item?id=45672494) - [Jacqueline – A minimal i386 kernel written in Pascal (2019)](https://github.com/danirod/jacqueline)
 * [2025-10-22, 06:26:33](https://news.ycombinator.com/item?id=45665513) - [Tarmageddon: RCE vulnerability highlights challenges of open source abandonware](https://edera.dev/stories/tarmageddon)
 * [2025-10-21, 15:36:17](https://news.ycombinator.com/item?id=45657100) - [Show HN: We tried to build a job board that isn't awful](https://teeming.ai)
-* [2025-10-21, 08:19:27](https://news.ycombinator.com/item?id=45653639) - [People with blindness can read again after retinal implant and special glasses](https://www.nbcnews.com/health/health-news/tiny-eye-implant-special-glasses-legally-blind-patients-can-read-rcna238488)
 * [2025-10-21, 08:03:17](https://news.ycombinator.com/item?id=45653543) - [Passwords and Power Drills](https://google.github.io/building-secure-and-reliable-systems/raw/ch01.html#on_passwords_and_power_drills)
 * [2025-10-19, 10:38:25](https://news.ycombinator.com/item?id=45633311) - [The future of Python web services looks GIL-free](https://blog.baro.dev/p/the-future-of-python-web-services-looks-gil-free)
 
