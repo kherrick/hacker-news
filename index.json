@@ -31,16 +31,6 @@
   ],
   [
     [
-      "2025-10-25, 15:10:29",
-      "https://news.ycombinator.com/item?id=45704483"
-    ],
-    [
-      "Xubuntu website hacked and served malware",
-      "https://old.reddit.com/r/xubuntu/comments/1oa43gt/xubuntuorg_might_be_compromised/"
-    ]
-  ],
-  [
-    [
       "2025-10-25, 13:33:57",
       "https://news.ycombinator.com/item?id=45703767"
     ],
@@ -297,6 +287,16 @@
     [
       "The future of Python web services looks GIL-free",
       "https://blog.baro.dev/p/the-future-of-python-web-services-looks-gil-free"
+    ]
+  ],
+  [
+    [
+      "2025-10-19, 08:59:27",
+      "https://news.ycombinator.com/item?id=45632894"
+    ],
+    [
+      "Why formalize mathematics – more than catching errors",
+      "https://rkirov.github.io/posts/why_lean/"
     ]
   ]
 ]
