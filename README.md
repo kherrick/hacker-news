@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-10-25, 02:29:31](https://news.ycombinator.com/item?id=45700932) - [Underdetermined Weaving with Machines (2021) [video]](https://www.youtube.com/watch?v=on_sK8KoObo)
+* [2025-10-25, 02:24:30](https://news.ycombinator.com/item?id=45700911) - [Advice for New Principal Tech ICs (I.e., Notes to Myself)](https://eugeneyan.com/writing/principal/)
 * [2025-10-25, 01:36:10](https://news.ycombinator.com/item?id=45700720) - [Deepagent: A powerful desktop AI assistant](https://deepagent.abacus.ai)
 * [2025-10-25, 01:21:43](https://news.ycombinator.com/item?id=45700663) - [What Is Intelligence?](https://mitpress.mit.edu/9780262049955/what-is-intelligence/)
 * [2025-10-25, 00:59:23](https://news.ycombinator.com/item?id=45700562) - [Carmack on Operating Systems (1997)](https://rmitz.org/carmack.on.operating.systems.html)
@@ -15,7 +16,6 @@
 * [2025-10-24, 14:40:34](https://news.ycombinator.com/item?id=45695134) - [Unlocking Free WiFi on British Airways](https://www.saxrag.com/tech/reversing/2025/06/01/BAWiFi.html)
 * [2025-10-24, 14:12:00](https://news.ycombinator.com/item?id=45694856) - [First shape found that can't pass through itself](https://www.quantamagazine.org/first-shape-found-that-cant-pass-through-itself-20251024/)
 * [2025-10-24, 12:33:10](https://news.ycombinator.com/item?id=45693978) - [Typst 0.14](https://typst.app/blog/2025/typst-0.14/)
-* [2025-10-24, 11:41:26](https://news.ycombinator.com/item?id=45693591) - [ChunkLLM: A Lightweight Pluggable Framework for Accelerating LLMs Inference](https://arxiv.org/abs/2510.02361)
 * [2025-10-24, 11:01:23](https://news.ycombinator.com/item?id=45693325) - [Mesh2Motion – Open-source web application to animate 3D models](https://mesh2motion.org/)
 * [2025-10-24, 10:16:25](https://news.ycombinator.com/item?id=45692984) - [Twake Drive – An open-source alternative to Google Drive](https://github.com/linagora/twake-drive)
 * [2025-10-24, 10:07:34](https://news.ycombinator.com/item?id=45692915) - [Debian Technical Committee overrides systemd change](https://lwn.net/Articles/1041316/)
