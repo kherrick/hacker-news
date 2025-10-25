@@ -19,7 +19,6 @@
 * [2025-10-24, 10:16:25](https://news.ycombinator.com/item?id=45692984) - [Twake Drive – An open-source alternative to Google Drive](https://github.com/linagora/twake-drive)
 * [2025-10-24, 10:07:34](https://news.ycombinator.com/item?id=45692915) - [Debian Technical Committee overrides systemd change](https://lwn.net/Articles/1041316/)
 * [2025-10-24, 09:17:24](https://news.ycombinator.com/item?id=45692585) - [Interstellar Mission to a Black Hole](https://www.centauri-dreams.org/2025/10/23/interstellar-mission-to-a-black-hole/)
-* [2025-10-24, 04:40:31](https://news.ycombinator.com/item?id=45690840) - ['Attention is all you need' coauthor says he's 'sick' of transformers](https://venturebeat.com/ai/sakana-ais-cto-says-hes-absolutely-sick-of-transformers-the-tech-that-powers)
 * [2025-10-24, 01:59:56](https://news.ycombinator.com/item?id=45689905) - [Modern Perfect Hashing](https://blog.sesse.net/blog/tech/2025-10-23-21-23_modern_perfect_hashing.html)
 * [2025-10-23, 14:24:47](https://news.ycombinator.com/item?id=45682164) - [Context engineering is sleeping on the humble hyperlink](https://mbleigh.dev/posts/context-engineering-with-links/)
 * [2025-10-22, 19:29:59](https://news.ycombinator.com/item?id=45674002) - [Public Montessori programs strengthen learning outcomes at lower costs: study](https://phys.org/news/2025-10-national-montessori-early-outcomes-sharply.html)
@@ -28,6 +27,7 @@
 * [2025-10-21, 19:47:12](https://news.ycombinator.com/item?id=45660753) - [Why can't transformers learn multiplication?](https://arxiv.org/abs/2510.00184)
 * [2025-10-21, 08:19:27](https://news.ycombinator.com/item?id=45653639) - [People with blindness can read again after retinal implant and special glasses](https://www.nbcnews.com/health/health-news/tiny-eye-implant-special-glasses-legally-blind-patients-can-read-rcna238488)
 * [2025-10-20, 11:08:44](https://news.ycombinator.com/item?id=45642571) - [Valetudo: Cloud replacement for vacuum robots enabling local-only operation](https://valetudo.cloud/)
+* [2025-10-20, 05:29:25](https://news.ycombinator.com/item?id=45640363) - [The Geometry of Mathematical Methods](https://books.physics.oregonstate.edu/GMM/book.html)
 * [2025-10-19, 13:13:24](https://news.ycombinator.com/item?id=45633877) - [I invited strangers to message me through a receipt printer](https://aschmelyun.com/blog/i-invited-strangers-to-message-me-through-a-receipt-printer/)
 * [2025-10-19, 08:59:27](https://news.ycombinator.com/item?id=45632894) - [Why formalize mathematics – more than catching errors](https://rkirov.github.io/posts/why_lean/)
 
