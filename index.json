@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-10-25, 12:01:44",
+      "https://news.ycombinator.com/item?id=45703196"
+    ],
+    [
+      "Show HN: Chonky – a neural text semantic chunking goes multilingual",
+      "https://huggingface.co/mirth/chonky_mmbert_small_multilingual_1"
+    ]
+  ],
+  [
+    [
       "2025-10-25, 10:36:35",
       "https://news.ycombinator.com/item?id=45702736"
     ],
@@ -41,16 +51,6 @@
   ],
   [
     [
-      "2025-10-25, 04:09:18",
-      "https://news.ycombinator.com/item?id=45701305"
-    ],
-    [
-      "Meet the real screen addicts: the elderly",
-      "https://www.economist.com/international/2025/10/23/meet-the-real-screen-addicts-the-elderly"
-    ]
-  ],
-  [
-    [
       "2025-10-25, 02:31:55",
       "https://news.ycombinator.com/item?id=45700946"
     ],
@@ -65,7 +65,7 @@
       "https://news.ycombinator.com/item?id=45700911"
     ],
     [
-      "Advice for new principal tech ics (i.e., notes to myself)",
+      "Advice for new principal tech ICs (i.e., notes to myself)",
       "https://eugeneyan.com/writing/principal/"
     ]
   ],
@@ -125,7 +125,7 @@
       "https://news.ycombinator.com/item?id=45695621"
     ],
     [
-      "Code Like a Surgeon",
+      "Code like a surgeon",
       "https://www.geoffreylitt.com/2025/10/24/code-like-a-surgeon"
     ]
   ],
@@ -185,7 +185,7 @@
       "https://news.ycombinator.com/item?id=45682560"
     ],
     [
-      "Luau's Performance",
+      "Luau's performance",
       "https://luau.org/performance"
     ]
   ],
