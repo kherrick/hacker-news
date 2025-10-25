@@ -4,8 +4,12 @@
 
 ### [Archives](../../index.md) for [2025-10-25](index.md)
 
+* [2025-10-25, 20:42:02](https://news.ycombinator.com/item?id=45706815) - [ARM Memory Tagging: how it improves C/C++ memory safety (2018) [pdf]](https://llvm.org/devmtg/2018-10/slides/Serebryany-Stepanov-Tsyrklevich-Memory-Tagging-Slides-LLVM-2018.pdf)
 * [2025-10-25, 20:38:58](https://news.ycombinator.com/item?id=45706792) - [Show HN: Diagram as code tool with draggable customizations](https://github.com/RohanAdwankar/oxdraw)
 * [2025-10-25, 20:35:48](https://news.ycombinator.com/item?id=45706765) - [Project Amplify: Powered footwear for running and walking](https://about.nike.com/en/newsroom/releases/nike-project-amplify-official-images)
+* [2025-10-25, 20:34:37](https://news.ycombinator.com/item?id=45706755) - [\"Learn APL\" Notes](https://luksamuk.codes/pages/learn-apl.html)
+* [2025-10-25, 20:32:29](https://news.ycombinator.com/item?id=45706744) - [Honda's ASIMO](https://www.robotsgottalents.com/post/asimo)
+* [2025-10-25, 20:30:25](https://news.ycombinator.com/item?id=45706729) - [Agent Lightning: Train agents with RL (no code changes needed)](https://github.com/microsoft/agent-lightning)
 * [2025-10-25, 20:26:59](https://news.ycombinator.com/item?id=45706705) - [Testing out BLE beacons with BeaconDB](https://blog.matthewbrunelle.com/testing-out-ble-beacons-with-beacondb/)
 * [2025-10-25, 20:19:36](https://news.ycombinator.com/item?id=45706660) - [Load-time relocation of shared libraries (2011)](https://eli.thegreenplace.net/2011/08/25/load-time-relocation-of-shared-libraries/)
 * [2025-10-25, 20:13:55](https://news.ycombinator.com/item?id=45706624) - [In memory of the Christmas Island shrew](https://news.mongabay.com/2025/10/in-memory-of-the-christmas-island-shrew/)
@@ -13,8 +17,10 @@
 * [2025-10-25, 20:00:36](https://news.ycombinator.com/item?id=45706545) - [Torchcomms: A modern PyTorch communications API](https://pytorch.org/blog/torchcomms/)
 * [2025-10-25, 19:59:32](https://news.ycombinator.com/item?id=45706534) - [ProEnergy repurposes jet engines to power data centers](https://www.datacenterdynamics.com/en/news/proenergy-offers-repurposed-jet-engines-to-data-cent/)
 * [2025-10-25, 19:58:55](https://news.ycombinator.com/item?id=45706527) - [California invests in battery energy storage, leaving rolling blackouts behind](https://www.latimes.com/environment/story/2025-10-17/california-made-it-through-another-summer-without-a-flex-alert)
+* [2025-10-25, 19:57:48](https://news.ycombinator.com/item?id=45706518) - [AI, Wikipedia, and uncorrected machine translations of vulnerable languages](https://www.technologyreview.com/2025/09/25/1124005/ai-wikipedia-vulnerable-languages-doom-spiral/)
 * [2025-10-25, 19:51:24](https://news.ycombinator.com/item?id=45706487) - [Show HN: Open-source shadcn/UI theme editor – design and share shadcn themes](https://shadcnthemer.com)
 * [2025-10-25, 19:33:22](https://news.ycombinator.com/item?id=45706380) - [The Journey Before main()](https://amit.prasad.me/blog/before-main)
+* [2025-10-25, 19:31:49](https://news.ycombinator.com/item?id=45706372) - [Visualizing the most common unisex names in the US](https://nameplay.org/blog/common-unisex-names-by-gender-ratio)
 * [2025-10-25, 18:47:55](https://news.ycombinator.com/item?id=45706077) - [Switzerland is spending millions revamping its vast network of bunkers](https://www.washingtonpost.com/world/2025/10/25/switzerland-nuclear-bunkers-overhaul/)
 * [2025-10-25, 18:43:32](https://news.ycombinator.com/item?id=45706056) - [ICC Judge Guillou loses all US IT accounts after MAGA sanctions [FR]](https://www.franceinfo.fr/replay-radio/nouveau-monde/quand-les-sanctions-internationales-emises-par-washington-imposent-une-vie-deconnectee-a-un-magistrat-francais_7545724.html)
 * [2025-10-25, 17:33:43](https://news.ycombinator.com/item?id=45705583) - [Draw high dimensional tensors as a matrix of matrices](https://blog.ezyang.com/2025/10/draw-high-dimensional-tensors-as-a-matrix-of-matrices/)
