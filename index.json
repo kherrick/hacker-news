@@ -1,12 +1,12 @@
 [
   [
     [
-      "2025-10-25, 12:01:44",
-      "https://news.ycombinator.com/item?id=45703196"
+      "2025-10-25, 11:05:41",
+      "https://news.ycombinator.com/item?id=45702877"
     ],
     [
-      "Show HN: Chonky – a neural text semantic chunking goes multilingual",
-      "https://huggingface.co/mirth/chonky_mmbert_small_multilingual_1"
+      "The Great SaaS Gaslight",
+      "https://unworkableideas.com/the-great-saas-lighting-how-it-users-got-gaslit/"
     ]
   ],
   [
@@ -17,6 +17,16 @@
     [
       "The Missing Semester of Your CS Education (2020)",
       "https://missing.csail.mit.edu/"
+    ]
+  ],
+  [
+    [
+      "2025-10-25, 09:55:09",
+      "https://news.ycombinator.com/item?id=45702601"
+    ],
+    [
+      "File system design philosophy",
+      "https://deyaa1251.github.io/deyaa1251/posts/b_tree/"
     ]
   ],
   [
@@ -51,6 +61,16 @@
   ],
   [
     [
+      "2025-10-25, 04:09:18",
+      "https://news.ycombinator.com/item?id=45701305"
+    ],
+    [
+      "Meet the real screen addicts: the elderly",
+      "https://www.economist.com/international/2025/10/23/meet-the-real-screen-addicts-the-elderly"
+    ]
+  ],
+  [
+    [
       "2025-10-25, 02:31:55",
       "https://news.ycombinator.com/item?id=45700946"
     ],
@@ -75,7 +95,7 @@
       "https://news.ycombinator.com/item?id=45700663"
     ],
     [
-      "What Is Intelligence? (2024)",
+      "What is intelligence? (2024)",
       "https://whatisintelligence.antikythera.org/"
     ]
   ],
@@ -151,32 +171,12 @@
   ],
   [
     [
-      "2025-10-24, 11:01:23",
-      "https://news.ycombinator.com/item?id=45693325"
-    ],
-    [
-      "Mesh2Motion – Open-source web application to animate 3D models",
-      "https://mesh2motion.org/"
-    ]
-  ],
-  [
-    [
       "2025-10-24, 10:16:25",
       "https://news.ycombinator.com/item?id=45692984"
     ],
     [
       "Twake Drive – An open-source alternative to Google Drive",
       "https://github.com/linagora/twake-drive"
-    ]
-  ],
-  [
-    [
-      "2025-10-24, 01:59:56",
-      "https://news.ycombinator.com/item?id=45689905"
-    ],
-    [
-      "Modern Perfect Hashing",
-      "https://blog.sesse.net/blog/tech/2025-10-23-21-23_modern_perfect_hashing.html"
     ]
   ],
   [
@@ -217,16 +217,6 @@
     [
       "The persistence of tradition: the curious case of Henry Symeonis (2023)",
       "https://blogs.bodleian.ox.ac.uk/archivesandmanuscripts/2023/12/13/the-persistence-of-tradition-the-curious-case-of-henry-symeonis/"
-    ]
-  ],
-  [
-    [
-      "2025-10-22, 06:26:53",
-      "https://news.ycombinator.com/item?id=45665515"
-    ],
-    [
-      "The fix wasn't easy, or C precedence bites",
-      "https://boston.conman.org/2025/10/20.1"
     ]
   ],
   [
@@ -287,6 +277,16 @@
     [
       "I invited strangers to message me through a receipt printer",
       "https://aschmelyun.com/blog/i-invited-strangers-to-message-me-through-a-receipt-printer/"
+    ]
+  ],
+  [
+    [
+      "2025-10-19, 10:38:25",
+      "https://news.ycombinator.com/item?id=45633311"
+    ],
+    [
+      "The future of Python web services looks GIL-free",
+      "https://blog.baro.dev/p/the-future-of-python-web-services-looks-gil-free"
     ]
   ],
   [
