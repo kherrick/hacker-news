@@ -1,12 +1,22 @@
 [
   [
     [
-      "2025-10-24, 23:07:21",
-      "https://news.ycombinator.com/item?id=45700008"
+      "2025-10-25, 00:59:23",
+      "https://news.ycombinator.com/item?id=45700562"
     ],
     [
-      "The Peter Principle and exploiting overconfident workers",
-      "https://marginalrevolution.com/marginalrevolution/2025/10/the-peter-principle-and-exploiting-overconfident-workers.html"
+      "Carmack on Operating Systems (1997)",
+      "https://rmitz.org/carmack.on.operating.systems.html"
+    ]
+  ],
+  [
+    [
+      "2025-10-25, 00:00:55",
+      "https://news.ycombinator.com/item?id=45700301"
+    ],
+    [
+      "Virtual Try on Free Online – AI Clothes Changer – I-TryOn",
+      "https://virtual-try-on.app/"
     ]
   ],
   [
@@ -35,7 +45,7 @@
       "https://news.ycombinator.com/item?id=45698909"
     ],
     [
-      "MRI Contrast Agent Causes Harmful Metal Buildup in Some Patients [study]",
+      "Study: MRI contrast agent causes harmful metal buildup in some patients",
       "https://www.ormanager.com/briefs/study-mri-contrast-agent-causes-harmful-metal-buildup-in-some-patients/"
     ]
   ],
@@ -201,32 +211,12 @@
   ],
   [
     [
-      "2025-10-23, 03:51:40",
-      "https://news.ycombinator.com/item?id=45678001"
-    ],
-    [
-      "Clojure Zippers (2021)",
-      "https://grishaev.me/en/clojure-zippers/"
-    ]
-  ],
-  [
-    [
       "2025-10-22, 19:29:59",
       "https://news.ycombinator.com/item?id=45674002"
     ],
     [
       "Public Montessori programs strengthen learning outcomes at lower costs: study",
       "https://phys.org/news/2025-10-national-montessori-early-outcomes-sharply.html"
-    ]
-  ],
-  [
-    [
-      "2025-10-21, 19:47:12",
-      "https://news.ycombinator.com/item?id=45660753"
-    ],
-    [
-      "Why can't transformers learn multiplication?",
-      "https://arxiv.org/abs/2510.00184"
     ]
   ],
   [
@@ -261,12 +251,22 @@
   ],
   [
     [
-      "2025-10-19, 07:24:18",
-      "https://news.ycombinator.com/item?id=45632557"
+      "2025-10-17, 18:51:16",
+      "https://news.ycombinator.com/item?id=45620483"
     ],
     [
-      "VisiCalc on the Apple II",
-      "https://stonetools.ghost.io/visicalc-apple2/"
+      "Compiler optimizations for 5.8ms GPT-OSS-120B inference (not on GPUs)",
+      "https://furiosa.ai/blog/serving-gpt-oss-120b-at-5-8-ms-tpot-with-two-rngd-cards-compiler-optimizations-in-practice"
+    ]
+  ],
+  [
+    [
+      "2025-10-17, 13:48:01",
+      "https://news.ycombinator.com/item?id=45616791"
+    ],
+    [
+      "Startup plans to cool data centers by converting heat to light",
+      "https://spectrum.ieee.org/laser-cooling-chips"
     ]
   ],
   [
