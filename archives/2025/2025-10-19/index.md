@@ -66,6 +66,7 @@
 * [2025-10-19, 11:19:38](https://news.ycombinator.com/item?id=45633453) - [Show HN: Duck-UI – Browser-Based SQL IDE for DuckDB](https://demo.duckui.com)
 * [2025-10-19, 11:08:49](https://news.ycombinator.com/item?id=45633426) - [What Happened in 2007?](https://whathappenedin2007.com/)
 * [2025-10-19, 10:58:32](https://news.ycombinator.com/item?id=45633386) - [Show HN: bbcli – A TUI and CLI to browse BBC News like a hacker](https://github.com/hako/bbcli)
+* [2025-10-19, 10:38:25](https://news.ycombinator.com/item?id=45633311) - [The future of Python web services looks GIL-free](https://blog.baro.dev/p/the-future-of-python-web-services-looks-gil-free)
 * [2025-10-19, 10:07:38](https://news.ycombinator.com/item?id=45633191) - [Did Space Debris Hit A United Flight Over The Rockies Thursday?](https://viewfromthewing.com/did-space-debris-hit-a-united-flight-over-the-rockies-thursday-heres-what-we-know-so-far/)
 * [2025-10-19, 09:41:25](https://news.ycombinator.com/item?id=45633081) - [The Case for the Return of Fine-Tuning](https://welovesota.com/article/the-case-for-the-return-of-fine-tuning)
 * [2025-10-19, 09:20:05](https://news.ycombinator.com/item?id=45632976) - [Deterministic multithreading is hard (2024)](https://www.factorio.com/blog/post/fff-415)
