@@ -17,6 +17,7 @@
 * [2025-10-25, 20:26:59](https://news.ycombinator.com/item?id=45706705) - [Testing out BLE beacons with BeaconDB](https://blog.matthewbrunelle.com/testing-out-ble-beacons-with-beacondb/)
 * [2025-10-25, 20:19:36](https://news.ycombinator.com/item?id=45706660) - [Load-time relocation of shared libraries (2011)](https://eli.thegreenplace.net/2011/08/25/load-time-relocation-of-shared-libraries/)
 * [2025-10-25, 20:13:55](https://news.ycombinator.com/item?id=45706624) - [In memory of the Christmas Island shrew](https://news.mongabay.com/2025/10/in-memory-of-the-christmas-island-shrew/)
+* [2025-10-25, 20:08:54](https://news.ycombinator.com/item?id=45706601) - [Global key-value metadata storage for Scryer Prolog](https://github.com/jjtolton/environment.pl)
 * [2025-10-25, 20:04:50](https://news.ycombinator.com/item?id=45706570) - [Show HN: Status of my favorite bike share stations](https://blog.alexboden.ca/toronto-bike-share-status/)
 * [2025-10-25, 20:00:36](https://news.ycombinator.com/item?id=45706545) - [Torchcomms: A modern PyTorch communications API](https://pytorch.org/blog/torchcomms/)
 * [2025-10-25, 19:59:32](https://news.ycombinator.com/item?id=45706534) - [ProEnergy repurposes jet engines to power data centers](https://www.datacenterdynamics.com/en/news/proenergy-offers-repurposed-jet-engines-to-data-cent/)
