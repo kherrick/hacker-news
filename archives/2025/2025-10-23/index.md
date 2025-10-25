@@ -37,6 +37,7 @@
 * [2025-10-23, 15:39:10](https://news.ycombinator.com/item?id=45683113) - [Reasoning Is Not Model Improvement](https://manidoraisamy.com/reasoning-not-ai.html)
 * [2025-10-23, 15:12:57](https://news.ycombinator.com/item?id=45682776) - [Show HN: Git for LLMs – a context management interface](https://twigg.ai)
 * [2025-10-23, 15:03:05](https://news.ycombinator.com/item?id=45682671) - [US hits $38T in debt. Fastest accumulation of $1T outside pandemic](https://apnews.com/article/trump-treasury-debt-ceiling-bessent-09575f13ca95c2f1beb38234b2cbe85b)
+* [2025-10-23, 14:55:29](https://news.ycombinator.com/item?id=45682560) - [Luau's Performance](https://luau.org/performance)
 * [2025-10-23, 14:25:22](https://news.ycombinator.com/item?id=45682169) - [US axes website for reporting human rights abuses by US-armed foreign forces](https://www.bbc.com/news/articles/cqx30vnwd4do)
 * [2025-10-23, 14:24:47](https://news.ycombinator.com/item?id=45682164) - [Context engineering is sleeping on the humble hyperlink](https://mbleigh.dev/posts/context-engineering-with-links/)
 * [2025-10-23, 14:20:40](https://news.ycombinator.com/item?id=45682122) - [Show HN: Nostr Web – decentralized website hosting on Nostr](https://nweb.shugur.com)
