@@ -1,9 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-10-25, 17:07:40](https://news.ycombinator.com/item?id=45705381) - [Libera Chat receives legal advice that the Online Safety Act does not apply to](https://libera.chat/news/advised)
+* [2025-10-25, 16:48:16](https://news.ycombinator.com/item?id=45705250) - [Armed police handcuff teen after AI mistakes chip bag for gun in Baltimore](https://www.bbc.com/news/articles/cgjdlx92lylo)
 * [2025-10-25, 16:32:40](https://news.ycombinator.com/item?id=45705125) - [Rock Tumbler Instructions: Turning Rough Rocks into Beautiful Tumbled Stones](https://rocktumbler.com/tips/rock-tumbler-instructions/)
 * [2025-10-25, 16:15:21](https://news.ycombinator.com/item?id=45704977) - [The mad king's digital killswitch](https://pluralistic.net/2025/10/20/post-american-internet/#huawei-with-american-characteristics)
 * [2025-10-25, 15:26:32](https://news.ycombinator.com/item?id=45704616) - [Windows 10 Deadline Boosts Mac Sales](https://www.macrumors.com/2025/10/25/windows-10-deadline-boosts-mac-sales/)
-* [2025-10-25, 13:33:57](https://news.ycombinator.com/item?id=45703767) - [DNA reveals the real killers that brought down Napoleon's army](https://www.gavi.org/vaccineswork/dna-reveals-real-killers-brought-down-napoleons-army)
 * [2025-10-25, 13:24:14](https://news.ycombinator.com/item?id=45703716) - [Synadia and TigerBeetle Commit $512k USD to the Zig Software Foundation](https://www.synadia.com/blog/synadia-tigerbeetle-zig-foundation-pledge)
 * [2025-10-25, 13:01:39](https://news.ycombinator.com/item?id=45703556) - [Making a micro Linux distro (2023)](https://popovicu.com/posts/making-a-micro-linux-distro/)
 * [2025-10-25, 09:43:54](https://news.ycombinator.com/item?id=45702558) - [React vs. Backbone in 2025](https://backbonenotbad.hyperclay.com/)
@@ -17,9 +18,9 @@
 * [2025-10-24, 15:25:17](https://news.ycombinator.com/item?id=45695621) - [Code like a surgeon](https://www.geoffreylitt.com/2025/10/24/code-like-a-surgeon)
 * [2025-10-24, 14:40:34](https://news.ycombinator.com/item?id=45695134) - [Unlocking free WiFi on British Airways](https://www.saxrag.com/tech/reversing/2025/06/01/BAWiFi.html)
 * [2025-10-24, 14:12:00](https://news.ycombinator.com/item?id=45694856) - [First convex polyhedron found that can't pass through itself](https://www.quantamagazine.org/first-shape-found-that-cant-pass-through-itself-20251024/)
-* [2025-10-24, 10:16:25](https://news.ycombinator.com/item?id=45692984) - [Twake Drive – An open-source alternative to Google Drive](https://github.com/linagora/twake-drive)
 * [2025-10-23, 14:24:47](https://news.ycombinator.com/item?id=45682164) - [Context engineering is sleeping on the humble hyperlink](https://mbleigh.dev/posts/context-engineering-with-links/)
 * [2025-10-22, 19:29:59](https://news.ycombinator.com/item?id=45674002) - [Public Montessori programs strengthen learning outcomes at lower costs: study](https://phys.org/news/2025-10-national-montessori-early-outcomes-sharply.html)
+* [2025-10-22, 17:37:46](https://news.ycombinator.com/item?id=45672494) - [Jacqueline – A minimal i386 kernel written in Pascal](https://github.com/danirod/jacqueline)
 * [2025-10-22, 15:17:36](https://news.ycombinator.com/item?id=45670463) - [The persistence of tradition: the curious case of Henry Symeonis (2023)](https://blogs.bodleian.ox.ac.uk/archivesandmanuscripts/2023/12/13/the-persistence-of-tradition-the-curious-case-of-henry-symeonis/)
 * [2025-10-22, 01:35:43](https://news.ycombinator.com/item?id=45663990) - [Magic sizes enable high-fidelity assembly of programmable shells](https://arxiv.org/abs/2411.03720)
 * [2025-10-21, 16:44:06](https://news.ycombinator.com/item?id=45657970) - [The State of Machine Learning Frameworks in 2019](https://thegradient.pub/state-of-ml-frameworks-2019-pytorch-dominates-research-tensorflow-dominates-industry/)
@@ -29,7 +30,6 @@
 * [2025-10-20, 05:29:25](https://news.ycombinator.com/item?id=45640363) - [The geometry of mathematical methods](https://books.physics.oregonstate.edu/GMM/book.html)
 * [2025-10-19, 13:13:24](https://news.ycombinator.com/item?id=45633877) - [I invited strangers to message me through a receipt printer](https://aschmelyun.com/blog/i-invited-strangers-to-message-me-through-a-receipt-printer/)
 * [2025-10-19, 10:38:25](https://news.ycombinator.com/item?id=45633311) - [The future of Python web services looks GIL-free](https://blog.baro.dev/p/the-future-of-python-web-services-looks-gil-free)
-* [2025-10-19, 08:59:27](https://news.ycombinator.com/item?id=45632894) - [Why formalize mathematics – more than catching errors](https://rkirov.github.io/posts/why_lean/)
 
 ## [Archives](archives/index.md)
 
