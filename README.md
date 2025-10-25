@@ -3,7 +3,7 @@
 * [2025-10-25, 10:36:35](https://news.ycombinator.com/item?id=45702736) - [The Missing Semester of Your CS Education (2020)](https://missing.csail.mit.edu/)
 * [2025-10-25, 06:48:12](https://news.ycombinator.com/item?id=45701825) - [Euro cops take down cybercrime network with 49M fake accounts](https://www.itnews.com.au/news/euro-cops-take-down-cybercrime-network-with-49-million-fake-accounts-621174)
 * [2025-10-25, 05:51:31](https://news.ycombinator.com/item?id=45701607) - [Fast TypeScript (Code Complexity) Analyzer](https://ftaproject.dev/)
-* [2025-10-25, 05:14:16](https://news.ycombinator.com/item?id=45701503) - [The Goon Squad](https://harpers.org/archive/2025/11/the-goon-squad-daniel-kolitz-porn-masturbation-loneliness/)
+* [2025-10-25, 04:42:09](https://news.ycombinator.com/item?id=45701404) - [Mistakes I see engineers making in their code reviews](https://www.seangoedecke.com/good-code-reviews/)
 * [2025-10-25, 04:09:18](https://news.ycombinator.com/item?id=45701305) - [Meet the real screen addicts: the elderly](https://www.economist.com/international/2025/10/23/meet-the-real-screen-addicts-the-elderly)
 * [2025-10-25, 02:31:55](https://news.ycombinator.com/item?id=45700946) - [Key IOCs for Pegasus and Predator Spyware Removed with iOS 26 Update](https://iverify.io/blog/key-iocs-for-pegasus-and-predator-spyware-cleaned-with-ios-26-update)
 * [2025-10-25, 02:24:30](https://news.ycombinator.com/item?id=45700911) - [Advice for New Principal Tech ICs (I.e., Notes to Myself)](https://eugeneyan.com/writing/principal/)
