@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-10-25](index.md)
 
+* [2025-10-25, 18:47:55](https://news.ycombinator.com/item?id=45706077) - [Switzerland is spending millions revamping its vast network of bunkers](https://www.washingtonpost.com/world/2025/10/25/switzerland-nuclear-bunkers-overhaul/)
 * [2025-10-25, 18:43:32](https://news.ycombinator.com/item?id=45706056) - [ICC Judge Guillou loses all US IT accounts after MAGA sanctions [FR]](https://www.franceinfo.fr/replay-radio/nouveau-monde/quand-les-sanctions-internationales-emises-par-washington-imposent-une-vie-deconnectee-a-un-magistrat-francais_7545724.html)
 * [2025-10-25, 17:07:40](https://news.ycombinator.com/item?id=45705381) - [Libera Chat receives legal advice that the Online Safety Act does not apply to](https://libera.chat/news/advised)
 * [2025-10-25, 16:48:16](https://news.ycombinator.com/item?id=45705250) - [Armed police handcuff teen after AI mistakes chip bag for gun in Baltimore](https://www.bbc.com/news/articles/cgjdlx92lylo)
@@ -12,6 +13,7 @@
 * [2025-10-25, 15:26:32](https://news.ycombinator.com/item?id=45704616) - [Windows 10 Deadline Boosts Mac Sales](https://www.macrumors.com/2025/10/25/windows-10-deadline-boosts-mac-sales/)
 * [2025-10-25, 15:10:29](https://news.ycombinator.com/item?id=45704483) - [Xubuntu website hacked and served malware](https://old.reddit.com/r/xubuntu/comments/1oa43gt/xubuntuorg_might_be_compromised/)
 * [2025-10-25, 15:00:06](https://news.ycombinator.com/item?id=45704419) - [Against SQL](https://www.scattered-thoughts.net/writing/against-sql/)
+* [2025-10-25, 13:54:33](https://news.ycombinator.com/item?id=45703926) - [TigerBeetle and Synadia pledge $512k to the Zig Software Foundation](https://tigerbeetle.com/blog/2025-10-25-synadia-and-tigerbeetle-pledge-512k-to-the-zig-software-foundation/#blog-post)
 * [2025-10-25, 13:33:57](https://news.ycombinator.com/item?id=45703767) - [DNA reveals the real killers that brought down Napoleon's army](https://www.gavi.org/vaccineswork/dna-reveals-real-killers-brought-down-napoleons-army)
 * [2025-10-25, 13:24:14](https://news.ycombinator.com/item?id=45703716) - [Synadia and TigerBeetle Commit $512k USD to the Zig Software Foundation](https://www.synadia.com/blog/synadia-tigerbeetle-zig-foundation-pledge)
 * [2025-10-25, 13:01:39](https://news.ycombinator.com/item?id=45703556) - [Making a micro Linux distro (2023)](https://popovicu.com/posts/making-a-micro-linux-distro/)
