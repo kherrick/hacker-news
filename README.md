@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-10-25, 18:47:55](https://news.ycombinator.com/item?id=45706077) - [Switzerland is spending millions revamping its vast network of bunkers](https://www.washingtonpost.com/world/2025/10/25/switzerland-nuclear-bunkers-overhaul/)
-* [2025-10-25, 17:07:40](https://news.ycombinator.com/item?id=45705381) - [Libera Chat receives legal advice that the Online Safety Act does not apply to](https://libera.chat/news/advised)
+* [2025-10-25, 17:07:40](https://news.ycombinator.com/item?id=45705381) - [We do not have sufficient links to the UK for Online Safety Act to be applicable](https://libera.chat/news/advised)
 * [2025-10-25, 16:32:40](https://news.ycombinator.com/item?id=45705125) - [Rock Tumbler Instructions: Turning Rough Rocks into Beautiful Tumbled Stones](https://rocktumbler.com/tips/rock-tumbler-instructions/)
 * [2025-10-25, 15:00:06](https://news.ycombinator.com/item?id=45704419) - [Against SQL](https://www.scattered-thoughts.net/writing/against-sql/)
 * [2025-10-25, 13:54:33](https://news.ycombinator.com/item?id=45703926) - [TigerBeetle and Synadia pledge $512k to the Zig Software Foundation](https://tigerbeetle.com/blog/2025-10-25-synadia-and-tigerbeetle-pledge-512k-to-the-zig-software-foundation/#blog-post)
