@@ -68,4 +68,5 @@
 * [2025-10-23, 03:47:09](https://news.ycombinator.com/item?id=45677966) - [The Myth of Outrunning Your Diet](https://williamjbarry.substack.com/p/the-myth-of-outrunning-your-diet)
 * [2025-10-23, 01:36:37](https://news.ycombinator.com/item?id=45677243) - [The Sodium-Ion Battery Revolution Has Started](https://cleantechnica.com/2025/10/22/the-sodium-ion-battery-revolution-has-started/)
 * [2025-10-23, 01:19:58](https://news.ycombinator.com/item?id=45677139) - [Summary of the Amazon DynamoDB Service Disruption in US-East-1 Region](https://aws.amazon.com/message/101925/)
+* [2025-10-23, 00:30:35](https://news.ycombinator.com/item?id=45676867) - [The Cooperative National Geologic Map](https://ngmdb.usgs.gov/nationalgeology/)
 * [2025-10-23, 00:26:24](https://news.ycombinator.com/item?id=45676841) - [A “knot dominated era” may have existed in the early universe: study](https://phys.org/news/2025-10-key-universe-1800s-idea-science.html)
