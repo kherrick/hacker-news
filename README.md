@@ -13,7 +13,6 @@
 * [2025-10-25, 20:32:29](https://news.ycombinator.com/item?id=45706744) - [Honda's ASIMO (2021)](https://www.robotsgottalents.com/post/asimo)
 * [2025-10-25, 20:30:25](https://news.ycombinator.com/item?id=45706729) - [Agent Lightning: Train agents with RL (no code changes needed)](https://github.com/microsoft/agent-lightning)
 * [2025-10-25, 20:26:59](https://news.ycombinator.com/item?id=45706705) - [Testing out BLE beacons with BeaconDB](https://blog.matthewbrunelle.com/testing-out-ble-beacons-with-beacondb/)
-* [2025-10-25, 20:19:36](https://news.ycombinator.com/item?id=45706660) - [Load-time relocation of shared libraries (2011)](https://eli.thegreenplace.net/2011/08/25/load-time-relocation-of-shared-libraries/)
 * [2025-10-25, 20:13:55](https://news.ycombinator.com/item?id=45706624) - [In memory of the Christmas Island shrew](https://news.mongabay.com/2025/10/in-memory-of-the-christmas-island-shrew/)
 * [2025-10-25, 20:00:36](https://news.ycombinator.com/item?id=45706545) - [Torchcomms: A modern PyTorch communications API](https://pytorch.org/blog/torchcomms/)
 * [2025-10-25, 19:58:55](https://news.ycombinator.com/item?id=45706527) - [California invests in battery energy storage, leaving rolling blackouts behind](https://www.latimes.com/environment/story/2025-10-17/california-made-it-through-another-summer-without-a-flex-alert)
@@ -30,6 +29,7 @@
 * [2025-10-22, 06:26:33](https://news.ycombinator.com/item?id=45665513) - [Tarmageddon: RCE vulnerability highlights challenges of open source abandonware](https://edera.dev/stories/tarmageddon)
 * [2025-10-21, 08:03:17](https://news.ycombinator.com/item?id=45653543) - [Passwords and Power Drills](https://google.github.io/building-secure-and-reliable-systems/raw/ch01.html#on_passwords_and_power_drills)
 * [2025-10-19, 22:04:10](https://news.ycombinator.com/item?id=45638453) - [Doctor Who archive expert shares positive update on missing episode](https://www.radiotimes.com/tv/sci-fi/doctor-who-missing-episodes-update-teases-announcement-newsupdate/)
+* [2025-10-19, 10:38:25](https://news.ycombinator.com/item?id=45633311) - [The future of Python web services looks GIL-free](https://blog.baro.dev/p/the-future-of-python-web-services-looks-gil-free)
 
 ## [Archives](archives/index.md)
 
