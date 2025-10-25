@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-10-25, 16:32:40](https://news.ycombinator.com/item?id=45705125) - [Rock Tumbler Instructions: Turning Rough Rocks into Beautiful Tumbled Stones](https://rocktumbler.com/tips/rock-tumbler-instructions/)
+* [2025-10-25, 16:15:21](https://news.ycombinator.com/item?id=45704977) - [The mad king's digital killswitch](https://pluralistic.net/2025/10/20/post-american-internet/#huawei-with-american-characteristics)
 * [2025-10-25, 15:26:32](https://news.ycombinator.com/item?id=45704616) - [Windows 10 Deadline Boosts Mac Sales](https://www.macrumors.com/2025/10/25/windows-10-deadline-boosts-mac-sales/)
 * [2025-10-25, 15:10:29](https://news.ycombinator.com/item?id=45704483) - [Xubuntu website hacked and served malware](https://old.reddit.com/r/xubuntu/comments/1oa43gt/xubuntuorg_might_be_compromised/)
 * [2025-10-25, 13:33:57](https://news.ycombinator.com/item?id=45703767) - [DNA reveals the real killers that brought down Napoleon's army](https://www.gavi.org/vaccineswork/dna-reveals-real-killers-brought-down-napoleons-army)
@@ -18,7 +19,6 @@
 * [2025-10-24, 14:40:34](https://news.ycombinator.com/item?id=45695134) - [Unlocking free WiFi on British Airways](https://www.saxrag.com/tech/reversing/2025/06/01/BAWiFi.html)
 * [2025-10-24, 14:12:00](https://news.ycombinator.com/item?id=45694856) - [First convex polyhedron found that can't pass through itself](https://www.quantamagazine.org/first-shape-found-that-cant-pass-through-itself-20251024/)
 * [2025-10-24, 10:16:25](https://news.ycombinator.com/item?id=45692984) - [Twake Drive – An open-source alternative to Google Drive](https://github.com/linagora/twake-drive)
-* [2025-10-23, 14:55:29](https://news.ycombinator.com/item?id=45682560) - [Luau's performance](https://luau.org/performance)
 * [2025-10-23, 14:24:47](https://news.ycombinator.com/item?id=45682164) - [Context engineering is sleeping on the humble hyperlink](https://mbleigh.dev/posts/context-engineering-with-links/)
 * [2025-10-22, 19:29:59](https://news.ycombinator.com/item?id=45674002) - [Public Montessori programs strengthen learning outcomes at lower costs: study](https://phys.org/news/2025-10-national-montessori-early-outcomes-sharply.html)
 * [2025-10-22, 15:17:36](https://news.ycombinator.com/item?id=45670463) - [The persistence of tradition: the curious case of Henry Symeonis (2023)](https://blogs.bodleian.ox.ac.uk/archivesandmanuscripts/2023/12/13/the-persistence-of-tradition-the-curious-case-of-henry-symeonis/)
