@@ -1,6 +1,46 @@
 [
   [
     [
+      "2025-10-25, 20:38:58",
+      "https://news.ycombinator.com/item?id=45706792"
+    ],
+    [
+      "Show HN: Diagram as code tool with draggable customizations",
+      "https://github.com/RohanAdwankar/oxdraw"
+    ]
+  ],
+  [
+    [
+      "2025-10-25, 20:35:48",
+      "https://news.ycombinator.com/item?id=45706765"
+    ],
+    [
+      "Project Amplify: Powered footwear for running and walking",
+      "https://about.nike.com/en/newsroom/releases/nike-project-amplify-official-images"
+    ]
+  ],
+  [
+    [
+      "2025-10-25, 20:26:59",
+      "https://news.ycombinator.com/item?id=45706705"
+    ],
+    [
+      "Testing out BLE beacons with BeaconDB",
+      "https://blog.matthewbrunelle.com/testing-out-ble-beacons-with-beacondb/"
+    ]
+  ],
+  [
+    [
+      "2025-10-25, 20:19:36",
+      "https://news.ycombinator.com/item?id=45706660"
+    ],
+    [
+      "Load-time relocation of shared libraries (2011)",
+      "https://eli.thegreenplace.net/2011/08/25/load-time-relocation-of-shared-libraries/"
+    ]
+  ],
+  [
+    [
       "2025-10-25, 20:13:55",
       "https://news.ycombinator.com/item?id=45706624"
     ],
@@ -11,11 +51,51 @@
   ],
   [
     [
+      "2025-10-25, 20:04:50",
+      "https://news.ycombinator.com/item?id=45706570"
+    ],
+    [
+      "Show HN: Status of my favorite bike share stations",
+      "https://blog.alexboden.ca/toronto-bike-share-status/"
+    ]
+  ],
+  [
+    [
+      "2025-10-25, 20:00:36",
+      "https://news.ycombinator.com/item?id=45706545"
+    ],
+    [
+      "Torchcomms: A modern PyTorch communications API",
+      "https://pytorch.org/blog/torchcomms/"
+    ]
+  ],
+  [
+    [
+      "2025-10-25, 19:59:32",
+      "https://news.ycombinator.com/item?id=45706534"
+    ],
+    [
+      "ProEnergy repurposes jet engines to power data centers",
+      "https://www.datacenterdynamics.com/en/news/proenergy-offers-repurposed-jet-engines-to-data-cent/"
+    ]
+  ],
+  [
+    [
+      "2025-10-25, 19:58:55",
+      "https://news.ycombinator.com/item?id=45706527"
+    ],
+    [
+      "California invests in battery energy storage, leaving rolling blackouts behind",
+      "https://www.latimes.com/environment/story/2025-10-17/california-made-it-through-another-summer-without-a-flex-alert"
+    ]
+  ],
+  [
+    [
       "2025-10-25, 19:51:24",
       "https://news.ycombinator.com/item?id=45706487"
     ],
     [
-      "Show HN: Open-source shadcn/UI theme editor – design and share shadcn themes",
+      "Show HN: Shadcn/UI theme editor – Design and share Shadcn themes",
       "https://shadcnthemer.com"
     ]
   ],
@@ -41,6 +121,16 @@
   ],
   [
     [
+      "2025-10-25, 17:33:43",
+      "https://news.ycombinator.com/item?id=45705583"
+    ],
+    [
+      "Draw high dimensional tensors as a matrix of matrices",
+      "https://blog.ezyang.com/2025/10/draw-high-dimensional-tensors-as-a-matrix-of-matrices/"
+    ]
+  ],
+  [
+    [
       "2025-10-25, 17:07:40",
       "https://news.ycombinator.com/item?id=45705381"
     ],
@@ -57,16 +147,6 @@
     [
       "Rock Tumbler Instructions",
       "https://rocktumbler.com/tips/rock-tumbler-instructions/"
-    ]
-  ],
-  [
-    [
-      "2025-10-25, 15:00:06",
-      "https://news.ycombinator.com/item?id=45704419"
-    ],
-    [
-      "Against SQL (2021)",
-      "https://www.scattered-thoughts.net/writing/against-sql/"
     ]
   ],
   [
@@ -131,62 +211,12 @@
   ],
   [
     [
-      "2025-10-25, 02:14:39",
-      "https://news.ycombinator.com/item?id=45700879"
-    ],
-    [
-      "Ask HN: Not treated respectfully by colleague – advice?",
-      "https://news.ycombinator.com/item?id=45700879"
-    ]
-  ],
-  [
-    [
-      "2025-10-24, 22:12:05",
-      "https://news.ycombinator.com/item?id=45699618"
-    ],
-    [
-      "Google Pixel's most dangerous bug: failing to call 911",
-      "https://www.androidpolice.com/google-pixels-most-dangerous-bug-refuses-to-die/"
-    ]
-  ],
-  [
-    [
-      "2025-10-24, 21:28:39",
-      "https://news.ycombinator.com/item?id=45699285"
-    ],
-    [
-      "Dead soldiers' teeth reveal diseases that doomed Napoleon's army",
-      "https://www.washingtonpost.com/science/2025/10/24/napoleons-army-diseases-ancient-dna-teeth/"
-    ]
-  ],
-  [
-    [
-      "2025-10-24, 20:48:46",
-      "https://news.ycombinator.com/item?id=45698909"
-    ],
-    [
-      "Study: MRI contrast agent causes harmful metal buildup in some patients",
-      "https://www.ormanager.com/briefs/study-mri-contrast-agent-causes-harmful-metal-buildup-in-some-patients/"
-    ]
-  ],
-  [
-    [
       "2025-10-24, 20:06:52",
       "https://news.ycombinator.com/item?id=45698570"
     ],
     [
       "The Swift SDK for Android",
       "https://www.swift.org/blog/nightly-swift-sdk-for-android/"
-    ]
-  ],
-  [
-    [
-      "2025-10-24, 16:38:00",
-      "https://news.ycombinator.com/item?id=45696329"
-    ],
-    [
-      "\"Return YouTube Dislike\" Chrome Extension Injecting Ads",
-      "https://chromewebstore.google.com/detail/return-youtube-dislike/gebbhagfogifgggkldgodflihgfeippi/reviews"
     ]
   ],
   [
@@ -211,16 +241,6 @@
   ],
   [
     [
-      "2025-10-24, 14:12:00",
-      "https://news.ycombinator.com/item?id=45694856"
-    ],
-    [
-      "First convex polyhedron found that can't pass through itself",
-      "https://www.quantamagazine.org/first-shape-found-that-cant-pass-through-itself-20251024/"
-    ]
-  ],
-  [
-    [
       "2025-10-22, 17:37:46",
       "https://news.ycombinator.com/item?id=45672494"
     ],
@@ -241,16 +261,6 @@
   ],
   [
     [
-      "2025-10-21, 16:44:06",
-      "https://news.ycombinator.com/item?id=45657970"
-    ],
-    [
-      "The State of Machine Learning Frameworks in 2019",
-      "https://thegradient.pub/state-of-ml-frameworks-2019-pytorch-dominates-research-tensorflow-dominates-industry/"
-    ]
-  ],
-  [
-    [
       "2025-10-21, 08:19:27",
       "https://news.ycombinator.com/item?id=45653639"
     ],
@@ -267,16 +277,6 @@
     [
       "Passwords and Power Drills",
       "https://google.github.io/building-secure-and-reliable-systems/raw/ch01.html#on_passwords_and_power_drills"
-    ]
-  ],
-  [
-    [
-      "2025-10-20, 11:08:44",
-      "https://news.ycombinator.com/item?id=45642571"
-    ],
-    [
-      "Valetudo: Cloud replacement for vacuum robots enabling local-only operation",
-      "https://valetudo.cloud/"
     ]
   ],
   [
