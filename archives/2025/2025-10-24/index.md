@@ -20,6 +20,7 @@
 * [2025-10-24, 16:01:23](https://news.ycombinator.com/item?id=45695956) - [The Mainframe Six](https://arcanesciences.com/os2200/app1.html)
 * [2025-10-24, 15:49:58](https://news.ycombinator.com/item?id=45695841) - [\"ChatGPT said this\" Is Lazy](https://terriblesoftware.org/2025/10/24/chatgpt-said-this-is-lazy/)
 * [2025-10-24, 15:25:17](https://news.ycombinator.com/item?id=45695621) - [Code Like a Surgeon](https://www.geoffreylitt.com/2025/10/24/code-like-a-surgeon)
+* [2025-10-24, 14:40:34](https://news.ycombinator.com/item?id=45695134) - [Unlocking Free WiFi on British Airways](https://www.saxrag.com/tech/reversing/2025/06/01/BAWiFi.html)
 * [2025-10-24, 14:12:00](https://news.ycombinator.com/item?id=45694856) - [First shape found that can't pass through itself](https://www.quantamagazine.org/first-shape-found-that-cant-pass-through-itself-20251024/)
 * [2025-10-24, 14:03:22](https://news.ycombinator.com/item?id=45694767) - [Asahi Linux Still Working on Apple M3 Support, M1n1 Bootloader Going Rust](https://www.phoronix.com/news/Asahi-Linux-M3-m1n1-Update)
 * [2025-10-24, 13:13:38](https://news.ycombinator.com/item?id=45694272) - [Show HN: I built an 8-bit CPU simulator in Python from scratch](https://github.com/sql-hkr/tiny8)

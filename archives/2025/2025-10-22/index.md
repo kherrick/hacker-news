@@ -71,6 +71,7 @@
 * [2025-10-22, 07:14:40](https://news.ycombinator.com/item?id=45665796) - [Greenland Ditches Starlink for French Satellite Service](https://www.dagens.com/technology/greenland-ditches-starlink-for-french-satellite-service)
 * [2025-10-22, 06:41:42](https://news.ycombinator.com/item?id=45665622) - [Vertiginous Accounts: Travels in the Air (1871 edition)](https://publicdomainreview.org/collection/travels-in-the-air/)
 * [2025-10-22, 06:41:09](https://news.ycombinator.com/item?id=45665617) - [Enchanting Imposters](https://daily.jstor.org/enchanting-imposters/)
+* [2025-10-22, 06:40:42](https://news.ycombinator.com/item?id=45665612) - [The Great Butterfly Heist](https://www.theguardian.com/global/2025/oct/04/great-butterfly-heist-how-collector-stole-thousands-butterflies-from-australian-museums)
 * [2025-10-22, 06:17:18](https://news.ycombinator.com/item?id=45665452) - [MinIO stops distributing free Docker images](https://github.com/minio/minio/issues/21647#issuecomment-3418675115)
 * [2025-10-22, 06:17:18](https://news.ycombinator.com/item?id=45665452) - [MinIO (apparently) becomes source-only](https://github.com/minio/minio/issues/21647)
 * [2025-10-22, 05:49:58](https://news.ycombinator.com/item?id=45665311) - [French ex-president Sarkozy begins jail sentence](https://www.bbc.com/news/articles/cvgkm2j0xelo)
