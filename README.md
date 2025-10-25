@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-10-25, 02:31:55](https://news.ycombinator.com/item?id=45700946) - [Key IOCs for Pegasus and Predator Spyware Removed with iOS 26 Update](https://iverify.io/blog/key-iocs-for-pegasus-and-predator-spyware-cleaned-with-ios-26-update)
 * [2025-10-25, 02:29:31](https://news.ycombinator.com/item?id=45700932) - [Underdetermined Weaving with Machines (2021) [video]](https://www.youtube.com/watch?v=on_sK8KoObo)
 * [2025-10-25, 02:24:30](https://news.ycombinator.com/item?id=45700911) - [Advice for New Principal Tech ICs (I.e., Notes to Myself)](https://eugeneyan.com/writing/principal/)
 * [2025-10-25, 01:36:10](https://news.ycombinator.com/item?id=45700720) - [Deepagent: A powerful desktop AI assistant](https://deepagent.abacus.ai)
@@ -7,7 +8,6 @@
 * [2025-10-24, 22:23:50](https://news.ycombinator.com/item?id=45699725) - [New OSM file format: 30% smaller than PBF, 5x faster to import](https://community.openstreetmap.org/t/new-osm-file-format-30-smaller-than-pbf-5x-faster-to-import/137151)
 * [2025-10-24, 21:00:27](https://news.ycombinator.com/item?id=45699023) - [Conductor (YC S24) Is Hiring a Founding Engineer in San Francisco](https://www.ycombinator.com/companies/conductor/jobs/MYjJzBV-founding-engineer)
 * [2025-10-24, 20:48:46](https://news.ycombinator.com/item?id=45698909) - [Study: MRI contrast agent causes harmful metal buildup in some patients](https://www.ormanager.com/briefs/study-mri-contrast-agent-causes-harmful-metal-buildup-in-some-patients/)
-* [2025-10-24, 20:25:58](https://news.ycombinator.com/item?id=45698716) - [TextEdit and the relief of simple software](https://www.newyorker.com/culture/infinite-scroll/textedit-and-the-relief-of-simple-software)
 * [2025-10-24, 20:06:52](https://news.ycombinator.com/item?id=45698570) - [The Swift SDK for Android](https://www.swift.org/blog/nightly-swift-sdk-for-android/)
 * [2025-10-24, 20:05:07](https://news.ycombinator.com/item?id=45698554) - [Harnessing America's Heat Pump Moment](https://www.heatpumped.org/p/harnessing-america-s-heat-pump-moment)
 * [2025-10-24, 17:18:17](https://news.ycombinator.com/item?id=45696838) - [How to make a Smith chart](https://www.johndcook.com/blog/2025/10/23/smith-chart/)
