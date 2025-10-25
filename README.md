@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-10-25, 13:33:57](https://news.ycombinator.com/item?id=45703767) - [DNA reveals the real killers that brought down Napoleon's army](https://www.gavi.org/vaccineswork/dna-reveals-real-killers-brought-down-napoleons-army)
 * [2025-10-25, 13:24:14](https://news.ycombinator.com/item?id=45703716) - [Synadia and TigerBeetle Commit $512k USD to the Zig Software Foundation](https://www.synadia.com/blog/synadia-tigerbeetle-zig-foundation-pledge)
 * [2025-10-25, 13:01:39](https://news.ycombinator.com/item?id=45703556) - [Making a micro Linux distro (2023)](https://popovicu.com/posts/making-a-micro-linux-distro/)
 * [2025-10-25, 11:05:41](https://news.ycombinator.com/item?id=45702877) - [The Great SaaS Gaslight](https://unworkableideas.com/the-great-saas-lighting-how-it-users-got-gaslit/)
 * [2025-10-25, 09:43:54](https://news.ycombinator.com/item?id=45702558) - [React vs. Backbone in 2025](https://backbonenotbad.hyperclay.com/)
-* [2025-10-25, 09:02:14](https://news.ycombinator.com/item?id=45702363) - [Tell HN: OpenAI now requires ID verification and won't refund API credits](https://news.ycombinator.com/item?id=45702363)
 * [2025-10-25, 06:48:12](https://news.ycombinator.com/item?id=45701825) - [Euro cops take down cybercrime network with 49M fake accounts](https://www.itnews.com.au/news/euro-cops-take-down-cybercrime-network-with-49-million-fake-accounts-621174)
 * [2025-10-25, 05:51:31](https://news.ycombinator.com/item?id=45701607) - [Fast TypeScript (Code Complexity) Analyzer](https://ftaproject.dev/)
 * [2025-10-25, 04:09:18](https://news.ycombinator.com/item?id=45701305) - [Meet the real screen addicts: the elderly](https://www.economist.com/international/2025/10/23/meet-the-real-screen-addicts-the-elderly)
