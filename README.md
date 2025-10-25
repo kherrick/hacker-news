@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-10-25, 23:04:23](https://news.ycombinator.com/item?id=45707658) - [The Linux Boot Process: From Power Button to Kernel](https://www.0xkato.xyz/linux-boot/)
+* [2025-10-25, 22:46:46](https://news.ycombinator.com/item?id=45707575) - [NewPipe Is Turning 10](https://newpipe.net/blog/pinned/announcement/newpipe-turns-10/)
 * [2025-10-25, 21:37:38](https://news.ycombinator.com/item?id=45707194) - [Belittled Magazine: Thirty years after the Sokal affair](https://thebaffler.com/salvos/belittled-magazine-robbins)
 * [2025-10-25, 21:03:39](https://news.ycombinator.com/item?id=45706938) - [How programs get run: ELF binaries (2015)](https://lwn.net/Articles/631631/)
 * [2025-10-25, 21:01:02](https://news.ycombinator.com/item?id=45706924) - [An Efficient Implementation of SELF (1989) [pdf]](https://courses.cs.washington.edu/courses/cse501/15sp/papers/chambers.pdf)
@@ -13,7 +15,6 @@
 * [2025-10-25, 20:26:59](https://news.ycombinator.com/item?id=45706705) - [Testing out BLE beacons with BeaconDB](https://blog.matthewbrunelle.com/testing-out-ble-beacons-with-beacondb/)
 * [2025-10-25, 20:19:36](https://news.ycombinator.com/item?id=45706660) - [Load-time relocation of shared libraries (2011)](https://eli.thegreenplace.net/2011/08/25/load-time-relocation-of-shared-libraries/)
 * [2025-10-25, 20:13:55](https://news.ycombinator.com/item?id=45706624) - [In memory of the Christmas Island shrew](https://news.mongabay.com/2025/10/in-memory-of-the-christmas-island-shrew/)
-* [2025-10-25, 20:08:54](https://news.ycombinator.com/item?id=45706601) - [Global key-value metadata storage for Scryer Prolog](https://github.com/jjtolton/environment.pl)
 * [2025-10-25, 20:00:36](https://news.ycombinator.com/item?id=45706545) - [Torchcomms: A modern PyTorch communications API](https://pytorch.org/blog/torchcomms/)
 * [2025-10-25, 19:59:32](https://news.ycombinator.com/item?id=45706534) - [ProEnergy repurposes jet engines to power data centers](https://www.datacenterdynamics.com/en/news/proenergy-offers-repurposed-jet-engines-to-data-cent/)
 * [2025-10-25, 19:58:55](https://news.ycombinator.com/item?id=45706527) - [California invests in battery energy storage, leaving rolling blackouts behind](https://www.latimes.com/environment/story/2025-10-17/california-made-it-through-another-summer-without-a-flex-alert)
@@ -23,7 +24,6 @@
 * [2025-10-25, 16:32:40](https://news.ycombinator.com/item?id=45705125) - [Rock Tumbler Instructions](https://rocktumbler.com/tips/rock-tumbler-instructions/)
 * [2025-10-25, 13:01:39](https://news.ycombinator.com/item?id=45703556) - [Making a micro Linux distro (2023)](https://popovicu.com/posts/making-a-micro-linux-distro/)
 * [2025-10-24, 19:09:08](https://news.ycombinator.com/item?id=45698070) - [WebDAV isn't dead yet](https://blog.feld.me/posts/2025/09/webdav-isnt-dead-yet/)
-* [2025-10-24, 14:40:34](https://news.ycombinator.com/item?id=45695134) - [Unlocking free WiFi on British Airways](https://www.saxrag.com/tech/reversing/2025/06/01/BAWiFi.html)
 * [2025-10-24, 12:44:52](https://news.ycombinator.com/item?id=45694051) - [Show HN: LLM Rescuer – Fixing the billion dollar mistake in Ruby](https://github.com/barodeur/llm_rescuer)
 * [2025-10-23, 00:30:35](https://news.ycombinator.com/item?id=45676867) - [The Cooperative National Geologic Map](https://ngmdb.usgs.gov/nationalgeology/)
 * [2025-10-22, 17:37:46](https://news.ycombinator.com/item?id=45672494) - [Jacqueline – A minimal i386 kernel written in Pascal (2019)](https://github.com/danirod/jacqueline)
