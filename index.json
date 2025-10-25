@@ -1,22 +1,42 @@
 [
   [
     [
+      "2025-10-25, 02:29:31",
+      "https://news.ycombinator.com/item?id=45700932"
+    ],
+    [
+      "Underdetermined Weaving with Machines (2021) [video]",
+      "https://www.youtube.com/watch?v=on_sK8KoObo"
+    ]
+  ],
+  [
+    [
+      "2025-10-25, 01:36:10",
+      "https://news.ycombinator.com/item?id=45700720"
+    ],
+    [
+      "Deepagent: A powerful desktop AI assistant",
+      "https://deepagent.abacus.ai"
+    ]
+  ],
+  [
+    [
+      "2025-10-25, 01:21:43",
+      "https://news.ycombinator.com/item?id=45700663"
+    ],
+    [
+      "What Is Intelligence?",
+      "https://mitpress.mit.edu/9780262049955/what-is-intelligence/"
+    ]
+  ],
+  [
+    [
       "2025-10-25, 00:59:23",
       "https://news.ycombinator.com/item?id=45700562"
     ],
     [
       "Carmack on Operating Systems (1997)",
       "https://rmitz.org/carmack.on.operating.systems.html"
-    ]
-  ],
-  [
-    [
-      "2025-10-25, 00:00:55",
-      "https://news.ycombinator.com/item?id=45700301"
-    ],
-    [
-      "Virtual Try on Free Online – AI Clothes Changer – I-TryOn",
-      "https://virtual-try-on.app/"
     ]
   ],
   [
@@ -101,22 +121,22 @@
   ],
   [
     [
+      "2025-10-24, 14:40:34",
+      "https://news.ycombinator.com/item?id=45695134"
+    ],
+    [
+      "Unlocking Free WiFi on British Airways",
+      "https://www.saxrag.com/tech/reversing/2025/06/01/BAWiFi.html"
+    ]
+  ],
+  [
+    [
       "2025-10-24, 14:12:00",
       "https://news.ycombinator.com/item?id=45694856"
     ],
     [
       "First shape found that can't pass through itself",
       "https://www.quantamagazine.org/first-shape-found-that-cant-pass-through-itself-20251024/"
-    ]
-  ],
-  [
-    [
-      "2025-10-24, 14:03:22",
-      "https://news.ycombinator.com/item?id=45694767"
-    ],
-    [
-      "Asahi Linux Still Working on Apple M3 Support, M1n1 Bootloader Going Rust",
-      "https://www.phoronix.com/news/Asahi-Linux-M3-m1n1-Update"
     ]
   ],
   [
@@ -181,16 +201,6 @@
   ],
   [
     [
-      "2025-10-24, 05:32:04",
-      "https://news.ycombinator.com/item?id=45691127"
-    ],
-    [
-      "Alaska Airlines' statement on IT outage",
-      "https://news.alaskaair.com/on-the-record/alaska-statement-on-it-outage/"
-    ]
-  ],
-  [
-    [
       "2025-10-24, 04:40:31",
       "https://news.ycombinator.com/item?id=45690840"
     ],
@@ -211,12 +221,52 @@
   ],
   [
     [
+      "2025-10-23, 14:24:47",
+      "https://news.ycombinator.com/item?id=45682164"
+    ],
+    [
+      "Context engineering is sleeping on the humble hyperlink",
+      "https://mbleigh.dev/posts/context-engineering-with-links/"
+    ]
+  ],
+  [
+    [
+      "2025-10-23, 00:26:24",
+      "https://news.ycombinator.com/item?id=45676841"
+    ],
+    [
+      "A “knot dominated era” may have existed in the early universe: study",
+      "https://phys.org/news/2025-10-key-universe-1800s-idea-science.html"
+    ]
+  ],
+  [
+    [
       "2025-10-22, 19:29:59",
       "https://news.ycombinator.com/item?id=45674002"
     ],
     [
       "Public Montessori programs strengthen learning outcomes at lower costs: study",
       "https://phys.org/news/2025-10-national-montessori-early-outcomes-sharply.html"
+    ]
+  ],
+  [
+    [
+      "2025-10-22, 06:40:42",
+      "https://news.ycombinator.com/item?id=45665612"
+    ],
+    [
+      "The Great Butterfly Heist",
+      "https://www.theguardian.com/global/2025/oct/04/great-butterfly-heist-how-collector-stole-thousands-butterflies-from-australian-museums"
+    ]
+  ],
+  [
+    [
+      "2025-10-21, 19:47:12",
+      "https://news.ycombinator.com/item?id=45660753"
+    ],
+    [
+      "Why can't transformers learn multiplication?",
+      "https://arxiv.org/abs/2510.00184"
     ]
   ],
   [
@@ -247,56 +297,6 @@
     [
       "Why formalize mathematics – more than catching errors",
       "https://rkirov.github.io/posts/why_lean/"
-    ]
-  ],
-  [
-    [
-      "2025-10-17, 18:51:16",
-      "https://news.ycombinator.com/item?id=45620483"
-    ],
-    [
-      "Compiler optimizations for 5.8ms GPT-OSS-120B inference (not on GPUs)",
-      "https://furiosa.ai/blog/serving-gpt-oss-120b-at-5-8-ms-tpot-with-two-rngd-cards-compiler-optimizations-in-practice"
-    ]
-  ],
-  [
-    [
-      "2025-10-17, 13:48:01",
-      "https://news.ycombinator.com/item?id=45616791"
-    ],
-    [
-      "Startup plans to cool data centers by converting heat to light",
-      "https://spectrum.ieee.org/laser-cooling-chips"
-    ]
-  ],
-  [
-    [
-      "2025-10-16, 13:21:10",
-      "https://news.ycombinator.com/item?id=45605020"
-    ],
-    [
-      "Notes on using LaTeX to generate formulae",
-      "https://eli.thegreenplace.net/2025/notes-on-using-latex-to-generate-formulae/"
-    ]
-  ],
-  [
-    [
-      "2025-10-15, 14:51:08",
-      "https://news.ycombinator.com/item?id=45593532"
-    ],
-    [
-      "Many Factorials in Lambda Calculus",
-      "https://text.marvinborner.de/2025-10-08-12.html"
-    ]
-  ],
-  [
-    [
-      "2025-10-13, 10:29:29",
-      "https://news.ycombinator.com/item?id=45566817"
-    ],
-    [
-      "Wasp Blower",
-      "https://softsolder.com/2025/08/12/wasp-blower/"
     ]
   ]
 ]
