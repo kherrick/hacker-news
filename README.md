@@ -3,7 +3,6 @@
 * [2025-10-25, 16:32:40](https://news.ycombinator.com/item?id=45705125) - [Rock Tumbler Instructions: Turning Rough Rocks into Beautiful Tumbled Stones](https://rocktumbler.com/tips/rock-tumbler-instructions/)
 * [2025-10-25, 16:15:21](https://news.ycombinator.com/item?id=45704977) - [The mad king's digital killswitch](https://pluralistic.net/2025/10/20/post-american-internet/#huawei-with-american-characteristics)
 * [2025-10-25, 15:26:32](https://news.ycombinator.com/item?id=45704616) - [Windows 10 Deadline Boosts Mac Sales](https://www.macrumors.com/2025/10/25/windows-10-deadline-boosts-mac-sales/)
-* [2025-10-25, 15:10:29](https://news.ycombinator.com/item?id=45704483) - [Xubuntu website hacked and served malware](https://old.reddit.com/r/xubuntu/comments/1oa43gt/xubuntuorg_might_be_compromised/)
 * [2025-10-25, 13:33:57](https://news.ycombinator.com/item?id=45703767) - [DNA reveals the real killers that brought down Napoleon's army](https://www.gavi.org/vaccineswork/dna-reveals-real-killers-brought-down-napoleons-army)
 * [2025-10-25, 13:24:14](https://news.ycombinator.com/item?id=45703716) - [Synadia and TigerBeetle Commit $512k USD to the Zig Software Foundation](https://www.synadia.com/blog/synadia-tigerbeetle-zig-foundation-pledge)
 * [2025-10-25, 13:01:39](https://news.ycombinator.com/item?id=45703556) - [Making a micro Linux distro (2023)](https://popovicu.com/posts/making-a-micro-linux-distro/)
@@ -30,6 +29,7 @@
 * [2025-10-20, 05:29:25](https://news.ycombinator.com/item?id=45640363) - [The geometry of mathematical methods](https://books.physics.oregonstate.edu/GMM/book.html)
 * [2025-10-19, 13:13:24](https://news.ycombinator.com/item?id=45633877) - [I invited strangers to message me through a receipt printer](https://aschmelyun.com/blog/i-invited-strangers-to-message-me-through-a-receipt-printer/)
 * [2025-10-19, 10:38:25](https://news.ycombinator.com/item?id=45633311) - [The future of Python web services looks GIL-free](https://blog.baro.dev/p/the-future-of-python-web-services-looks-gil-free)
+* [2025-10-19, 08:59:27](https://news.ycombinator.com/item?id=45632894) - [Why formalize mathematics – more than catching errors](https://rkirov.github.io/posts/why_lean/)
 
 ## [Archives](archives/index.md)
 
