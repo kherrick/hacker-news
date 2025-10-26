@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-10-19](index.md)
 
+* [2025-10-19, 23:52:21](https://news.ycombinator.com/item?id=45639043) - [Any decent error message is a kind of oracle](https://digitalseams.com/blog/any-decent-error-message-is-a-kind-of-oracle)
 * [2025-10-19, 23:40:14](https://news.ycombinator.com/item?id=45638990) - [Calculating the Bounding Rectangle of a Circular Sector](https://asawicki.info/news_1791_calculating_the_bounding_rectangle_of_a_circular_sector)
 * [2025-10-19, 23:39:57](https://news.ycombinator.com/item?id=45638986) - [LoC Is a Dumb Metric for Functions](https://theaxolot.wordpress.com/2025/10/18/loc-is-a-dumb-metric-for-functions/)
 * [2025-10-19, 23:35:25](https://news.ycombinator.com/item?id=45638966) - [QuickDrawViewer: A Mac OS X utility to visualise QuickDraw (PICT) files](https://github.com/wiesmann/QuickDrawViewer)

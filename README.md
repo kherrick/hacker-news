@@ -24,11 +24,11 @@
 * [2025-10-25, 19:33:22](https://news.ycombinator.com/item?id=45706380) - [The Journey Before main()](https://amit.prasad.me/blog/before-main)
 * [2025-10-25, 16:32:40](https://news.ycombinator.com/item?id=45705125) - [Rock Tumbler Instructions](https://rocktumbler.com/tips/rock-tumbler-instructions/)
 * [2025-10-25, 12:01:44](https://news.ycombinator.com/item?id=45703196) - [Show HN: Chonky – a neural text semantic chunking goes multilingual](https://huggingface.co/mirth/chonky_mmbert_small_multilingual_1)
-* [2025-10-24, 19:09:08](https://news.ycombinator.com/item?id=45698070) - [WebDAV isn't dead yet](https://blog.feld.me/posts/2025/09/webdav-isnt-dead-yet/)
 * [2025-10-24, 16:03:53](https://news.ycombinator.com/item?id=45695979) - [Why I code as a CTO](https://www.assembled.com/blog/why-i-code-as-a-cto)
 * [2025-10-22, 23:18:52](https://news.ycombinator.com/item?id=45676376) - [NextSilicon reveals new processor chip in challenge to Intel, AMD](https://www.reuters.com/business/nextsilicon-reveals-new-processor-chip-challenge-intel-amd-2025-10-22/)
 * [2025-10-22, 17:05:25](https://news.ycombinator.com/item?id=45672085) - [Cubical Quad Antennas and Margaret's Letter](http://ei3lh.eu/?p=88)
 * [2025-10-20, 22:21:59](https://news.ycombinator.com/item?id=45650167) - [Eavesdropping on Internal Networks via Unencrypted Satellites](https://satcom.sysnet.ucsd.edu/)
+* [2025-10-19, 23:52:21](https://news.ycombinator.com/item?id=45639043) - [Any decent error message is a kind of oracle](https://digitalseams.com/blog/any-decent-error-message-is-a-kind-of-oracle)
 * [2025-10-19, 22:04:10](https://news.ycombinator.com/item?id=45638453) - [Doctor Who archive expert shares positive update on missing episode](https://www.radiotimes.com/tv/sci-fi/doctor-who-missing-episodes-update-teases-announcement-newsupdate/)
 
 ## [Archives](archives/index.md)
