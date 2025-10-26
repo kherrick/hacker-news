@@ -15,7 +15,6 @@
 * [2025-10-25, 20:38:58](https://news.ycombinator.com/item?id=45706792) - [Show HN: Diagram as code tool with draggable customizations](https://github.com/RohanAdwankar/oxdraw)
 * [2025-10-25, 20:35:48](https://news.ycombinator.com/item?id=45706765) - [Project Amplify: Powered footwear for running and walking](https://about.nike.com/en/newsroom/releases/nike-project-amplify-official-images)
 * [2025-10-25, 20:30:25](https://news.ycombinator.com/item?id=45706729) - [Agent Lightning: Train agents with RL (no code changes needed)](https://github.com/microsoft/agent-lightning)
-* [2025-10-25, 20:26:59](https://news.ycombinator.com/item?id=45706705) - [Testing out BLE beacons with BeaconDB](https://blog.matthewbrunelle.com/testing-out-ble-beacons-with-beacondb/)
 * [2025-10-25, 19:58:55](https://news.ycombinator.com/item?id=45706527) - [California invests in battery energy storage, leaving rolling blackouts behind](https://www.latimes.com/environment/story/2025-10-17/california-made-it-through-another-summer-without-a-flex-alert)
 * [2025-10-25, 19:57:48](https://news.ycombinator.com/item?id=45706518) - [AI, Wikipedia, and uncorrected machine translations of vulnerable languages](https://www.technologyreview.com/2025/09/25/1124005/ai-wikipedia-vulnerable-languages-doom-spiral/)
 * [2025-10-25, 19:51:24](https://news.ycombinator.com/item?id=45706487) - [Show HN: Shadcn/UI theme editor – Design and share Shadcn themes](https://shadcnthemer.com)
@@ -29,6 +28,7 @@
 * [2025-10-22, 23:18:52](https://news.ycombinator.com/item?id=45676376) - [NextSilicon reveals new processor chip in challenge to Intel, AMD](https://www.reuters.com/business/nextsilicon-reveals-new-processor-chip-challenge-intel-amd-2025-10-22/)
 * [2025-10-21, 08:03:17](https://news.ycombinator.com/item?id=45653543) - [Passwords and Power Drills](https://google.github.io/building-secure-and-reliable-systems/raw/ch01.html#on_passwords_and_power_drills)
 * [2025-10-20, 16:49:39](https://news.ycombinator.com/item?id=45646059) - [Generalized K-Means Clustering](https://github.com/derrickburns/generalized-kmeans-clustering)
+* [2025-10-20, 03:07:11](https://news.ycombinator.com/item?id=45639903) - [The Privacy Theater of Hashed PII](https://matthodges.com/posts/2025-10-19-privacy-theater-pii-phone-numbers/)
 * [2025-10-19, 22:04:10](https://news.ycombinator.com/item?id=45638453) - [Doctor Who archive expert shares positive update on missing episode](https://www.radiotimes.com/tv/sci-fi/doctor-who-missing-episodes-update-teases-announcement-newsupdate/)
 
 ## [Archives](archives/index.md)
