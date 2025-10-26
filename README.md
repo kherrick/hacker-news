@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-10-25, 23:32:33](https://news.ycombinator.com/item?id=45707779) - [Sora might have a 'pervert' problem on its hands](https://www.businessinsider.com/sora-video-openai-fetish-content-my-face-problem-2025-10)
 * [2025-10-25, 23:04:23](https://news.ycombinator.com/item?id=45707658) - [The Linux Boot Process: From Power Button to Kernel](https://www.0xkato.xyz/linux-boot/)
 * [2025-10-25, 22:40:00](https://news.ycombinator.com/item?id=45707539) - [D2: Diagram Scripting Language](https://d2lang.com/tour/intro/)
 * [2025-10-25, 21:37:38](https://news.ycombinator.com/item?id=45707194) - [Belittled Magazine: Thirty years after the Sokal affair](https://thebaffler.com/salvos/belittled-magazine-robbins)
@@ -13,8 +14,8 @@
 * [2025-10-25, 20:32:29](https://news.ycombinator.com/item?id=45706744) - [Honda's ASIMO (2021)](https://www.robotsgottalents.com/post/asimo)
 * [2025-10-25, 20:30:25](https://news.ycombinator.com/item?id=45706729) - [Agent Lightning: Train agents with RL (no code changes needed)](https://github.com/microsoft/agent-lightning)
 * [2025-10-25, 20:26:59](https://news.ycombinator.com/item?id=45706705) - [Testing out BLE beacons with BeaconDB](https://blog.matthewbrunelle.com/testing-out-ble-beacons-with-beacondb/)
+* [2025-10-25, 20:19:36](https://news.ycombinator.com/item?id=45706660) - [Load-time relocation of shared libraries (2011)](https://eli.thegreenplace.net/2011/08/25/load-time-relocation-of-shared-libraries/)
 * [2025-10-25, 20:13:55](https://news.ycombinator.com/item?id=45706624) - [In memory of the Christmas Island shrew](https://news.mongabay.com/2025/10/in-memory-of-the-christmas-island-shrew/)
-* [2025-10-25, 20:00:36](https://news.ycombinator.com/item?id=45706545) - [Torchcomms: A modern PyTorch communications API](https://pytorch.org/blog/torchcomms/)
 * [2025-10-25, 19:58:55](https://news.ycombinator.com/item?id=45706527) - [California invests in battery energy storage, leaving rolling blackouts behind](https://www.latimes.com/environment/story/2025-10-17/california-made-it-through-another-summer-without-a-flex-alert)
 * [2025-10-25, 19:57:48](https://news.ycombinator.com/item?id=45706518) - [AI, Wikipedia, and uncorrected machine translations of vulnerable languages](https://www.technologyreview.com/2025/09/25/1124005/ai-wikipedia-vulnerable-languages-doom-spiral/)
 * [2025-10-25, 19:51:24](https://news.ycombinator.com/item?id=45706487) - [Show HN: Shadcn/UI theme editor – Design and share Shadcn themes](https://shadcnthemer.com)
@@ -25,11 +26,10 @@
 * [2025-10-24, 19:09:08](https://news.ycombinator.com/item?id=45698070) - [WebDAV isn't dead yet](https://blog.feld.me/posts/2025/09/webdav-isnt-dead-yet/)
 * [2025-10-24, 12:44:52](https://news.ycombinator.com/item?id=45694051) - [Show HN: LLM Rescuer – Fixing the billion dollar mistake in Ruby](https://github.com/barodeur/llm_rescuer)
 * [2025-10-23, 00:30:35](https://news.ycombinator.com/item?id=45676867) - [The Cooperative National Geologic Map](https://ngmdb.usgs.gov/nationalgeology/)
-* [2025-10-22, 17:37:46](https://news.ycombinator.com/item?id=45672494) - [Jacqueline – A minimal i386 kernel written in Pascal (2019)](https://github.com/danirod/jacqueline)
 * [2025-10-22, 06:26:33](https://news.ycombinator.com/item?id=45665513) - [Tarmageddon: RCE vulnerability highlights challenges of open source abandonware](https://edera.dev/stories/tarmageddon)
 * [2025-10-21, 08:03:17](https://news.ycombinator.com/item?id=45653543) - [Passwords and Power Drills](https://google.github.io/building-secure-and-reliable-systems/raw/ch01.html#on_passwords_and_power_drills)
 * [2025-10-19, 22:04:10](https://news.ycombinator.com/item?id=45638453) - [Doctor Who archive expert shares positive update on missing episode](https://www.radiotimes.com/tv/sci-fi/doctor-who-missing-episodes-update-teases-announcement-newsupdate/)
-* [2025-10-19, 10:38:25](https://news.ycombinator.com/item?id=45633311) - [The future of Python web services looks GIL-free](https://blog.baro.dev/p/the-future-of-python-web-services-looks-gil-free)
+* [2025-10-19, 01:05:35](https://news.ycombinator.com/item?id=45631435) - [Broadcom AFBR-S20: High-Performance Miniature Spectrometer Product Brief [pdf]](https://docs.broadcom.com/docs/AFBR-S20xx-PB)
 
 ## [Archives](archives/index.md)
 

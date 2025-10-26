@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-10-25](index.md)
 
+* [2025-10-25, 23:32:33](https://news.ycombinator.com/item?id=45707779) - [Sora might have a 'pervert' problem on its hands](https://www.businessinsider.com/sora-video-openai-fetish-content-my-face-problem-2025-10)
 * [2025-10-25, 23:04:23](https://news.ycombinator.com/item?id=45707658) - [The Linux Boot Process: From Power Button to Kernel](https://www.0xkato.xyz/linux-boot/)
 * [2025-10-25, 22:46:46](https://news.ycombinator.com/item?id=45707575) - [NewPipe Is Turning 10](https://newpipe.net/blog/pinned/announcement/newpipe-turns-10/)
 * [2025-10-25, 22:40:00](https://news.ycombinator.com/item?id=45707539) - [D2: Diagram Scripting Language](https://d2lang.com/tour/intro/)
