@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-10-18](index.md)
 
 * [2025-10-18, 23:59:40](https://news.ycombinator.com/item?id=45631212) - [Bevy TLDR – Game development with Bevy summarized](https://taintedcoders.com/bevy/tldr)
+* [2025-10-18, 21:48:37](https://news.ycombinator.com/item?id=45630599) - [10k Downloadable Movie Posters From The 40s, 50s, 60s, and 70s](https://hrc.contentdm.oclc.org/digital/collection/p15878coll84/search)
 * [2025-10-18, 19:58:25](https://news.ycombinator.com/item?id=45629970) - [How to sequence your DNA for <$2k](https://maxlangenkamp.substack.com/p/how-to-sequence-your-dna-for-2k)
 * [2025-10-18, 18:46:11](https://news.ycombinator.com/item?id=45629522) - [TP-Link conducts Wi-Fi 8 trials, promises better reliability and lower latency](https://www.techspot.com/news/109837-tp-link-conducts-successful-wi-fi-8-trials.html)
 * [2025-10-18, 18:13:27](https://news.ycombinator.com/item?id=45629299) - [Most users cannot identify AI bias, even in training data](https://www.psu.edu/news/bellisario-college-communications/story/most-users-cannot-identify-ai-bias-even-training-data)
