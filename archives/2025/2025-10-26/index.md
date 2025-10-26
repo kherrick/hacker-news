@@ -6,6 +6,10 @@
 
 * [2025-10-26, 08:34:38](https://news.ycombinator.com/item?id=45710065) - [Asbestosis](https://diamondgeezer.blogspot.com/2025/10/asbestosis.html)
 * [2025-10-26, 08:23:48](https://news.ycombinator.com/item?id=45710021) - [What If Tariffs?](https://www.swatch.com/en-en/what-if-tariffs-so34z106/SO34Z106.html)
+* [2025-10-26, 08:19:48](https://news.ycombinator.com/item?id=45710006) - [Advent of Code 2025: Number of puzzles reduce from 25 to 12 for the first time](https://adventofcode.com/2025/about#faq_num_days)
+* [2025-10-26, 08:15:48](https://news.ycombinator.com/item?id=45709988) - [Clojure Land – Discover open-source Clojure libraries and frameworks](https://clojure.land/)
+* [2025-10-26, 08:03:14](https://news.ycombinator.com/item?id=45709922) - [LaserTweezer – Optical Trap](https://www.gaudi.ch/GaudiLabs/?page_id=578)
+* [2025-10-26, 07:34:30](https://news.ycombinator.com/item?id=45709819) - [Writing a RISC-V Emulator in Rust](https://book.rvemu.app/)
 * [2025-10-26, 07:00:33](https://news.ycombinator.com/item?id=45709698) - [Bitmovin (YC S15) Is Hiring Engineering ICs and Managers in Europe](https://bitmovin.com/careers)
 * [2025-10-26, 04:03:54](https://news.ycombinator.com/item?id=45709043) - [Auto Dark Mode for Windows](https://github.com/AutoDarkMode/Windows-Auto-Night-Mode)
 * [2025-10-26, 03:19:08](https://news.ycombinator.com/item?id=45708884) - [Tsdown – The Elegant Bundler for Libraries](https://tsdown.dev/)
