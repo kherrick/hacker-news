@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-10-26](index.md)
 
+* [2025-10-26, 09:31:47](https://news.ycombinator.com/item?id=45710366) - [Connect to a 1980s Atari BBS through the web](https://www.southernamis.com/ataribbsconnect)
 * [2025-10-26, 08:34:38](https://news.ycombinator.com/item?id=45710065) - [Asbestosis](https://diamondgeezer.blogspot.com/2025/10/asbestosis.html)
 * [2025-10-26, 08:23:48](https://news.ycombinator.com/item?id=45710021) - [What If Tariffs?](https://www.swatch.com/en-en/what-if-tariffs-so34z106/SO34Z106.html)
 * [2025-10-26, 08:19:48](https://news.ycombinator.com/item?id=45710006) - [Advent of Code 2025: Number of puzzles reduce from 25 to 12 for the first time](https://adventofcode.com/2025/about#faq_num_days)

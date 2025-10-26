@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-10-26, 09:31:47](https://news.ycombinator.com/item?id=45710366) - [Connect to a 1980s Atari BBS through the web](https://www.southernamis.com/ataribbsconnect)
 * [2025-10-26, 08:34:38](https://news.ycombinator.com/item?id=45710065) - [Asbestosis](https://diamondgeezer.blogspot.com/2025/10/asbestosis.html)
 * [2025-10-26, 08:23:48](https://news.ycombinator.com/item?id=45710021) - [What If Tariffs?](https://www.swatch.com/en-en/what-if-tariffs-so34z106/SO34Z106.html)
 * [2025-10-26, 08:19:48](https://news.ycombinator.com/item?id=45710006) - [Advent of Code 2025: Number of puzzles reduce from 25 to 12 for the first time](https://adventofcode.com/2025/about#faq_num_days)
@@ -20,10 +21,9 @@
 * [2025-10-25, 20:30:25](https://news.ycombinator.com/item?id=45706729) - [Agent Lightning: Train agents with RL (no code changes needed)](https://github.com/microsoft/agent-lightning)
 * [2025-10-25, 19:58:55](https://news.ycombinator.com/item?id=45706527) - [California invests in battery energy storage, leaving rolling blackouts behind](https://www.latimes.com/environment/story/2025-10-17/california-made-it-through-another-summer-without-a-flex-alert)
 * [2025-10-25, 19:57:48](https://news.ycombinator.com/item?id=45706518) - [AI, Wikipedia, and uncorrected machine translations of vulnerable languages](https://www.technologyreview.com/2025/09/25/1124005/ai-wikipedia-vulnerable-languages-doom-spiral/)
-* [2025-10-25, 19:51:24](https://news.ycombinator.com/item?id=45706487) - [Show HN: Shadcn/UI theme editor – Design and share Shadcn themes](https://shadcnthemer.com)
 * [2025-10-25, 19:33:22](https://news.ycombinator.com/item?id=45706380) - [The Journey Before main()](https://amit.prasad.me/blog/before-main)
-* [2025-10-25, 16:32:40](https://news.ycombinator.com/item?id=45705125) - [Rock Tumbler Instructions](https://rocktumbler.com/tips/rock-tumbler-instructions/)
 * [2025-10-25, 12:01:44](https://news.ycombinator.com/item?id=45703196) - [Show HN: Chonky – a neural text semantic chunking goes multilingual](https://huggingface.co/mirth/chonky_mmbert_small_multilingual_1)
+* [2025-10-24, 19:09:08](https://news.ycombinator.com/item?id=45698070) - [WebDAV isn't dead yet](https://blog.feld.me/posts/2025/09/webdav-isnt-dead-yet/)
 * [2025-10-24, 16:03:53](https://news.ycombinator.com/item?id=45695979) - [Why I code as a CTO](https://www.assembled.com/blog/why-i-code-as-a-cto)
 * [2025-10-22, 23:18:52](https://news.ycombinator.com/item?id=45676376) - [NextSilicon reveals new processor chip in challenge to Intel, AMD](https://www.reuters.com/business/nextsilicon-reveals-new-processor-chip-challenge-intel-amd-2025-10-22/)
 * [2025-10-22, 17:05:25](https://news.ycombinator.com/item?id=45672085) - [Cubical Quad Antennas and Margaret's Letter](http://ei3lh.eu/?p=88)
