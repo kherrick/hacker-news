@@ -151,16 +151,6 @@
   ],
   [
     [
-      "2025-10-25, 20:26:59",
-      "https://news.ycombinator.com/item?id=45706705"
-    ],
-    [
-      "Testing out BLE beacons with BeaconDB",
-      "https://blog.matthewbrunelle.com/testing-out-ble-beacons-with-beacondb/"
-    ]
-  ],
-  [
-    [
       "2025-10-25, 19:58:55",
       "https://news.ycombinator.com/item?id=45706527"
     ],
@@ -287,6 +277,16 @@
     [
       "Generalized K-Means Clustering",
       "https://github.com/derrickburns/generalized-kmeans-clustering"
+    ]
+  ],
+  [
+    [
+      "2025-10-20, 03:07:11",
+      "https://news.ycombinator.com/item?id=45639903"
+    ],
+    [
+      "The Privacy Theater of Hashed PII",
+      "https://matthodges.com/posts/2025-10-19-privacy-theater-pii-phone-numbers/"
     ]
   ],
   [
