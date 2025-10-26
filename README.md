@@ -14,7 +14,6 @@
 * [2025-10-26, 14:21:44](https://news.ycombinator.com/item?id=45712118) - [Resource use matters, but material footprints are a poor way to measure it](https://ourworldindata.org/material-footprint-limitations)
 * [2025-10-26, 12:09:02](https://news.ycombinator.com/item?id=45711094) - [Feed the bots](https://maurycyz.com/misc/the_cost_of_trash/)
 * [2025-10-26, 12:03:59](https://news.ycombinator.com/item?id=45711062) - [Formal Reasoning [pdf]](https://cs.ru.nl/~freek/courses/fr-2025/public/fr.pdf)
-* [2025-10-26, 11:18:41](https://news.ycombinator.com/item?id=45710843) - [My favorite cult sci-fi and fantasy books you may not have heard of before](https://shepherd.com/best-books/cult-sci-fi-and-fantasy-you-may-not-have-heard-of)
 * [2025-10-26, 10:53:37](https://news.ycombinator.com/item?id=45710721) - [You already have a Git server](https://maurycyz.com/misc/easy_git/)
 * [2025-10-26, 08:34:38](https://news.ycombinator.com/item?id=45710065) - [Asbestosis](https://diamondgeezer.blogspot.com/2025/10/asbestosis.html)
 * [2025-10-26, 08:19:48](https://news.ycombinator.com/item?id=45710006) - [Advent of Code 2025: Number of puzzles reduce from 25 to 12 for the first time](https://adventofcode.com/2025/about#faq_num_days)
@@ -29,6 +28,7 @@
 * [2025-10-22, 02:01:14](https://news.ycombinator.com/item?id=45664139) - [System.LongBool](https://docwiki.embarcadero.com/Libraries/Sydney/en/System.LongBool)
 * [2025-10-21, 03:39:21](https://news.ycombinator.com/item?id=45652218) - [NORAD’s Cheyenne Mountain Combat Center, c.1966](https://flashbak.com/norad-cheyenne-mountain-combat-center-478804/)
 * [2025-10-20, 22:21:59](https://news.ycombinator.com/item?id=45650167) - [Eavesdropping on Internal Networks via Unencrypted Satellites](https://satcom.sysnet.ucsd.edu/)
+* [2025-10-20, 01:27:29](https://news.ycombinator.com/item?id=45639476) - [Researchers demonstrate centimetre-level positioning using smartwatches](https://www.otago.ac.nz/news/newsroom/researchers-demonstrate-centimetre-level-positioning-using-smartwatches)
 * [2025-10-18, 21:48:37](https://news.ycombinator.com/item?id=45630599) - [Downloadable movie posters from the 40s, 50s, 60s, and 70s](https://hrc.contentdm.oclc.org/digital/collection/p15878coll84/search)
 
 ## [Archives](archives/index.md)
