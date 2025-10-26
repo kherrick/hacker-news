@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-10-26](index.md)
 
 * [2025-10-26, 22:54:23](https://news.ycombinator.com/item?id=45715819) - [AI Mafia – Tracing the roots of today's AI leaders back to Google](https://dipakwani.com/ai-mafia/)
+* [2025-10-26, 22:41:02](https://news.ycombinator.com/item?id=45715752) - [Show HN: Helium Browser for Android with extensions support, based on Vanadium](https://github.com/jqssun/android-helium-browser)
 * [2025-10-26, 22:36:34](https://news.ycombinator.com/item?id=45715726) - [Poison, Poison Everywhere](https://loeber.substack.com/p/29-poison-poison-everywhere)
 * [2025-10-26, 22:34:25](https://news.ycombinator.com/item?id=45715714) - [The Apple Network Server macOS ROMs Have Resurfaced](http://oldvcr.blogspot.com/2025/10/the-apple-network-server-macos-roms.html)
 * [2025-10-26, 20:43:40](https://news.ycombinator.com/item?id=45715055) - [Show HN: MyraOS – My 32-bit operating system in C and ASM (Hack Club project)](https://github.com/dvir-biton/MyraOS)
