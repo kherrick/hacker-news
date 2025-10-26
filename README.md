@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-10-26, 22:34:25](https://news.ycombinator.com/item?id=45715714) - [The Apple Network Server macOS ROMs Have Resurfaced](http://oldvcr.blogspot.com/2025/10/the-apple-network-server-macos-roms.html)
 * [2025-10-26, 20:43:40](https://news.ycombinator.com/item?id=45715055) - [Show HN: MyraOS – My 32-bit operating system in C and ASM (Hack Club project)](https://github.com/dvir-biton/MyraOS)
 * [2025-10-26, 19:00:07](https://news.ycombinator.com/item?id=45714348) - [Smartphones manipulate our emotions and trigger our reflexes](https://theconversation.com/smartphones-manipulate-our-emotions-and-trigger-our-reflexes-no-wonder-were-addicted-265014)
 * [2025-10-26, 17:53:22](https://news.ycombinator.com/item?id=45713835) - [Nvidia DGX Spark: When benchmark numbers meet production reality](https://publish.obsidian.md/aixplore/Practical+Applications/dgx-lab-benchmarks-vs-reality-day-4)
@@ -14,12 +15,10 @@
 * [2025-10-26, 08:19:48](https://news.ycombinator.com/item?id=45710006) - [Advent of Code 2025: Number of puzzles reduce from 25 to 12 for the first time](https://adventofcode.com/2025/about#faq_num_days)
 * [2025-10-26, 08:15:48](https://news.ycombinator.com/item?id=45709988) - [Clojure Land – Discover open-source Clojure libraries and frameworks](https://clojure.land/)
 * [2025-10-26, 07:34:30](https://news.ycombinator.com/item?id=45709819) - [Writing a RISC-V Emulator in Rust](https://book.rvemu.app/)
-* [2025-10-26, 07:00:33](https://news.ycombinator.com/item?id=45709698) - [Bitmovin (YC S15) Is Hiring Engineering ICs and Managers in Europe](https://bitmovin.com/careers)
 * [2025-10-26, 02:01:17](https://news.ycombinator.com/item?id=45708524) - [Pico-Banana-400k](https://github.com/apple/pico-banana-400k)
 * [2025-10-26, 01:15:43](https://news.ycombinator.com/item?id=45708292) - [A worker fell into a nuclear reactor pool](https://www.nrc.gov/reading-rm/doc-collections/event-status/event/2025/20251022en?brid=vscAjql9kZL1FfGE7TYHVw#en57996:~:text=TRANSPORT%20OF%20CONTAMINATED%20PERSON%20OFFSITE)
 * [2025-10-25, 23:04:23](https://news.ycombinator.com/item?id=45707658) - [The Linux Boot Process: From Power Button to Kernel](https://www.0xkato.xyz/linux-boot/)
 * [2025-10-25, 22:40:00](https://news.ycombinator.com/item?id=45707539) - [D2: Diagram Scripting Language](https://d2lang.com/tour/intro/)
-* [2025-10-25, 19:33:22](https://news.ycombinator.com/item?id=45706380) - [The Journey Before main()](https://amit.prasad.me/blog/before-main)
 * [2025-10-25, 07:27:07](https://news.ycombinator.com/item?id=45701980) - [Why your social.org files can have millions of lines without performance issues](https://en.andros.dev/blog/4e12225f/why-your-socialorg-files-can-have-millions-of-lines-without-any-performance-issues/)
 * [2025-10-24, 16:48:23](https://news.ycombinator.com/item?id=45696438) - [Validating your ideas on strangers (2017)](https://jeremyaboyd.com/post/validating-your-ideas-on-strangers)
 * [2025-10-23, 17:06:35](https://news.ycombinator.com/item?id=45684253) - [A bug that taught me more about PyTorch than years of using it](https://elanapearl.github.io/blog/2025/the-bug-that-taught-me-pytorch/)
@@ -28,6 +27,7 @@
 * [2025-10-22, 02:01:14](https://news.ycombinator.com/item?id=45664139) - [System.LongBool](https://docwiki.embarcadero.com/Libraries/Sydney/en/System.LongBool)
 * [2025-10-21, 03:39:21](https://news.ycombinator.com/item?id=45652218) - [NORAD’s Cheyenne Mountain Combat Center, c.1966](https://flashbak.com/norad-cheyenne-mountain-combat-center-478804/)
 * [2025-10-20, 22:21:59](https://news.ycombinator.com/item?id=45650167) - [Eavesdropping on Internal Networks via Unencrypted Satellites](https://satcom.sysnet.ucsd.edu/)
+* [2025-10-20, 13:34:09](https://news.ycombinator.com/item?id=45643716) - [Ask HN: Second generation of intro to software dev for 3rd graders](https://news.ycombinator.com/item?id=45643716)
 * [2025-10-20, 04:41:35](https://news.ycombinator.com/item?id=45640222) - [Ask HN: How to boost Gemini transcription accuracy for company names?](https://news.ycombinator.com/item?id=45640222)
 * [2025-10-18, 21:48:37](https://news.ycombinator.com/item?id=45630599) - [Downloadable movie posters from the 40s, 50s, 60s, and 70s](https://hrc.contentdm.oclc.org/digital/collection/p15878coll84/search)
 
