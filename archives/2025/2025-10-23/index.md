@@ -26,6 +26,7 @@
 * [2025-10-23, 17:52:18](https://news.ycombinator.com/item?id=45684736) - [OpenMaxIO is a community-maintained fork of MinIO](https://github.com/OpenMaxIO/openmaxio-object-browser)
 * [2025-10-23, 17:48:13](https://news.ycombinator.com/item?id=45684689) - [Show HN: I built a tech news aggregator that works the way my brain does](https://deadstack.net/recent)
 * [2025-10-23, 17:37:04](https://news.ycombinator.com/item?id=45684548) - [U.S. Details Gambling Cases Involving Pro Athletes and Mafia Families](https://www.nytimes.com/live/2025/10/23/nyregion/nba-illegal-gambling-arrests)
+* [2025-10-23, 17:06:35](https://news.ycombinator.com/item?id=45684253) - [The bug that taught me more about PyTorch than years of using it](https://elanapearl.github.io/blog/2025/the-bug-that-taught-me-pytorch/)
 * [2025-10-23, 17:04:17](https://news.ycombinator.com/item?id=45684236) - [OpenAI Acquires Software Applications Incorporated, Maker of Sky](https://openai.com/index/openai-acquires-software-applications-incorporated)
 * [2025-10-23, 17:04:07](https://news.ycombinator.com/item?id=45684230) - [Show HN: Tommy – Turn ESP32 devices into through-wall motion sensors](https://www.tommysense.com)
 * [2025-10-23, 17:03:13](https://news.ycombinator.com/item?id=45684217) - [Make Any TypeScript Function Durable](https://useworkflow.dev/)
