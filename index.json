@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2025-10-26, 03:19:08",
+      "https://news.ycombinator.com/item?id=45708884"
+    ],
+    [
+      "Tsdown – The Elegant Bundler for Libraries",
+      "https://tsdown.dev/"
+    ]
+  ],
+  [
+    [
       "2025-10-26, 02:57:57",
       "https://news.ycombinator.com/item?id=45708795"
     ],
@@ -137,16 +147,6 @@
     [
       "Agent Lightning: Train agents with RL (no code changes needed)",
       "https://github.com/microsoft/agent-lightning"
-    ]
-  ],
-  [
-    [
-      "2025-10-25, 20:26:59",
-      "https://news.ycombinator.com/item?id=45706705"
-    ],
-    [
-      "Testing out BLE beacons with BeaconDB",
-      "https://blog.matthewbrunelle.com/testing-out-ble-beacons-with-beacondb/"
     ]
   ],
   [
