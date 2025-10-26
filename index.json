@@ -101,6 +101,16 @@
   ],
   [
     [
+      "2025-10-25, 21:01:02",
+      "https://news.ycombinator.com/item?id=45706924"
+    ],
+    [
+      "An Efficient Implementation of SELF (1989) [pdf]",
+      "https://courses.cs.washington.edu/courses/cse501/15sp/papers/chambers.pdf"
+    ]
+  ],
+  [
+    [
       "2025-10-25, 20:51:16",
       "https://news.ycombinator.com/item?id=45706866"
     ],
@@ -277,16 +287,6 @@
     [
       "Generalized K-Means Clustering",
       "https://github.com/derrickburns/generalized-kmeans-clustering"
-    ]
-  ],
-  [
-    [
-      "2025-10-20, 03:07:11",
-      "https://news.ycombinator.com/item?id=45639903"
-    ],
-    [
-      "The Privacy Theater of Hashed PII",
-      "https://matthodges.com/posts/2025-10-19-privacy-theater-pii-phone-numbers/"
     ]
   ],
   [
