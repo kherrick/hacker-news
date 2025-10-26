@@ -2,7 +2,6 @@
 
 * [2025-10-26, 15:47:29](https://news.ycombinator.com/item?id=45712807) - [Movie Posters from Africa That Are So Bad, They're Good](https://www.utterlyinteresting.com/post/bizarre-movie-posters-from-africa-that-are-so-bad-they-re-good)
 * [2025-10-26, 15:11:51](https://news.ycombinator.com/item?id=45712517) - [Myanmar military shuts down a major cybercrime center, detains over 2k people](https://apnews.com/article/scam-centers-cybercrime-myanmar-a2c9fda85187121e51bd0efdf29c81da)
-* [2025-10-26, 13:52:37](https://news.ycombinator.com/item?id=45711886) - [YouTube Just Ate TV. It's Only Getting Started](https://www.hollywoodreporter.com/business/digital/youtube-impact-tv-sports-late-night-comedy-shows-1236400353/)
 * [2025-10-26, 13:38:30](https://news.ycombinator.com/item?id=45711786) - [The FSF considers large language models](https://lwn.net/Articles/1040888/)
 * [2025-10-26, 12:34:36](https://news.ycombinator.com/item?id=45711279) - [Let's Help NetBSD Cross the Finish Line Before 2025 Ends](https://mail-index.netbsd.org/netbsd-users/2025/10/26/msg033327.html)
 * [2025-10-26, 12:03:59](https://news.ycombinator.com/item?id=45711062) - [Formal Reasoning [pdf]](https://cs.ru.nl/~freek/courses/fr-2025/public/fr.pdf)
@@ -23,6 +22,7 @@
 * [2025-10-25, 20:38:58](https://news.ycombinator.com/item?id=45706792) - [Show HN: Diagram as code tool with draggable customizations](https://github.com/RohanAdwankar/oxdraw)
 * [2025-10-25, 20:35:48](https://news.ycombinator.com/item?id=45706765) - [Project Amplify: Powered footwear for running and walking](https://about.nike.com/en/newsroom/releases/nike-project-amplify-official-images)
 * [2025-10-25, 20:00:36](https://news.ycombinator.com/item?id=45706545) - [Torchcomms: A modern PyTorch communications API](https://pytorch.org/blog/torchcomms/)
+* [2025-10-25, 19:58:55](https://news.ycombinator.com/item?id=45706527) - [California invests in battery energy storage, leaving rolling blackouts behind](https://www.latimes.com/environment/story/2025-10-17/california-made-it-through-another-summer-without-a-flex-alert)
 * [2025-10-25, 19:33:22](https://news.ycombinator.com/item?id=45706380) - [The Journey Before main()](https://amit.prasad.me/blog/before-main)
 * [2025-10-24, 16:03:53](https://news.ycombinator.com/item?id=45695979) - [Why I code as a CTO](https://www.assembled.com/blog/why-i-code-as-a-cto)
 * [2025-10-23, 17:06:35](https://news.ycombinator.com/item?id=45684253) - [The bug that taught me more about PyTorch than years of using it](https://elanapearl.github.io/blog/2025/the-bug-that-taught-me-pytorch/)
