@@ -2,7 +2,6 @@
 
 * [2025-10-26, 13:38:30](https://news.ycombinator.com/item?id=45711786) - [The FSF considers large language models](https://lwn.net/Articles/1040888/)
 * [2025-10-26, 12:34:36](https://news.ycombinator.com/item?id=45711279) - [Let's Help NetBSD Cross the Finish Line Before 2025 Ends](https://mail-index.netbsd.org/netbsd-users/2025/10/26/msg033327.html)
-* [2025-10-26, 12:09:02](https://news.ycombinator.com/item?id=45711094) - [You Should Feed the Bots](https://maurycyz.com/misc/the_cost_of_trash/)
 * [2025-10-26, 12:03:59](https://news.ycombinator.com/item?id=45711062) - [Formal Reasoning [pdf]](https://cs.ru.nl/~freek/courses/fr-2025/public/fr.pdf)
 * [2025-10-26, 10:53:37](https://news.ycombinator.com/item?id=45710721) - [You Already Have a Git Server](https://maurycyz.com/misc/easy_git/)
 * [2025-10-26, 09:31:47](https://news.ycombinator.com/item?id=45710366) - [Connect to a 1980s Atari BBS through the web](https://www.southernamis.com/ataribbsconnect)
@@ -18,6 +17,8 @@
 * [2025-10-26, 01:15:43](https://news.ycombinator.com/item?id=45708292) - [A worker fell into a nuclear reactor pool](https://www.nrc.gov/reading-rm/doc-collections/event-status/event/2025/20251022en?brid=vscAjql9kZL1FfGE7TYHVw#en57996:~:text=TRANSPORT%20OF%20CONTAMINATED%20PERSON%20OFFSITE)
 * [2025-10-25, 23:04:23](https://news.ycombinator.com/item?id=45707658) - [The Linux Boot Process: From Power Button to Kernel](https://www.0xkato.xyz/linux-boot/)
 * [2025-10-25, 22:40:00](https://news.ycombinator.com/item?id=45707539) - [D2: Diagram Scripting Language](https://d2lang.com/tour/intro/)
+* [2025-10-25, 21:03:39](https://news.ycombinator.com/item?id=45706938) - [How programs get run: ELF binaries (2015)](https://lwn.net/Articles/631631/)
+* [2025-10-25, 20:51:16](https://news.ycombinator.com/item?id=45706866) - [An Update on TinyKVM](https://fwsgonzo.medium.com/an-update-on-tinykvm-7a38518e57e9)
 * [2025-10-25, 20:38:58](https://news.ycombinator.com/item?id=45706792) - [Show HN: Diagram as code tool with draggable customizations](https://github.com/RohanAdwankar/oxdraw)
 * [2025-10-25, 20:35:48](https://news.ycombinator.com/item?id=45706765) - [Project Amplify: Powered footwear for running and walking](https://about.nike.com/en/newsroom/releases/nike-project-amplify-official-images)
 * [2025-10-25, 20:00:36](https://news.ycombinator.com/item?id=45706545) - [Torchcomms: A modern PyTorch communications API](https://pytorch.org/blog/torchcomms/)
@@ -26,9 +27,8 @@
 * [2025-10-24, 16:03:53](https://news.ycombinator.com/item?id=45695979) - [Why I code as a CTO](https://www.assembled.com/blog/why-i-code-as-a-cto)
 * [2025-10-23, 17:06:35](https://news.ycombinator.com/item?id=45684253) - [The bug that taught me more about PyTorch than years of using it](https://elanapearl.github.io/blog/2025/the-bug-that-taught-me-pytorch/)
 * [2025-10-22, 23:18:52](https://news.ycombinator.com/item?id=45676376) - [NextSilicon reveals new processor chip in challenge to Intel, AMD](https://www.reuters.com/business/nextsilicon-reveals-new-processor-chip-challenge-intel-amd-2025-10-22/)
-* [2025-10-21, 17:44:59](https://news.ycombinator.com/item?id=45658955) - [World Simulator: Create and Play Interactive AI Worlds](https://worldsimulator.ai/)
-* [2025-10-21, 14:00:41](https://news.ycombinator.com/item?id=45655920) - [Show HN: W++ – Garbage-Collected Threads](https://news.ycombinator.com/item?id=45655920)
 * [2025-10-20, 22:21:59](https://news.ycombinator.com/item?id=45650167) - [Eavesdropping on Internal Networks via Unencrypted Satellites](https://satcom.sysnet.ucsd.edu/)
+* [2025-10-19, 22:04:10](https://news.ycombinator.com/item?id=45638453) - [Doctor Who archive expert shares positive update on missing episode](https://www.radiotimes.com/tv/sci-fi/doctor-who-missing-episodes-update-teases-announcement-newsupdate/)
 * [2025-10-18, 21:48:37](https://news.ycombinator.com/item?id=45630599) - [10k Downloadable Movie Posters From The 40s, 50s, 60s, and 70s](https://hrc.contentdm.oclc.org/digital/collection/p15878coll84/search)
 
 ## [Archives](archives/index.md)
