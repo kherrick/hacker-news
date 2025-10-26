@@ -181,16 +181,6 @@
   ],
   [
     [
-      "2025-10-25, 21:03:39",
-      "https://news.ycombinator.com/item?id=45706938"
-    ],
-    [
-      "How programs get run: ELF binaries (2015)",
-      "https://lwn.net/Articles/631631/"
-    ]
-  ],
-  [
-    [
       "2025-10-25, 20:38:58",
       "https://news.ycombinator.com/item?id=45706792"
     ],
@@ -207,6 +197,16 @@
     [
       "Project Amplify: Powered footwear for running and walking",
       "https://about.nike.com/en/newsroom/releases/nike-project-amplify-official-images"
+    ]
+  ],
+  [
+    [
+      "2025-10-25, 20:00:36",
+      "https://news.ycombinator.com/item?id=45706545"
+    ],
+    [
+      "Torchcomms: A modern PyTorch communications API",
+      "https://pytorch.org/blog/torchcomms/"
     ]
   ],
   [
