@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-10-26](index.md)
 
 * [2025-10-26, 13:47:49](https://news.ycombinator.com/item?id=45711847) - [Apple Reportedly Moving Ahead with Ads in Maps App](https://www.macrumors.com/2025/10/26/apple-moving-ahead-with-ads-in-maps/)
+* [2025-10-26, 13:38:30](https://news.ycombinator.com/item?id=45711786) - [The FSF considers large language models](https://lwn.net/Articles/1040888/)
 * [2025-10-26, 12:34:36](https://news.ycombinator.com/item?id=45711279) - [Let's Help NetBSD Cross the Finish Line Before 2025 Ends](https://mail-index.netbsd.org/netbsd-users/2025/10/26/msg033327.html)
 * [2025-10-26, 12:09:02](https://news.ycombinator.com/item?id=45711094) - [You Should Feed the Bots](https://maurycyz.com/misc/the_cost_of_trash/)
 * [2025-10-26, 12:03:59](https://news.ycombinator.com/item?id=45711062) - [Formal Reasoning [pdf]](https://cs.ru.nl/~freek/courses/fr-2025/public/fr.pdf)
