@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-10-25, 23:32:33",
+      "https://news.ycombinator.com/item?id=45707779"
+    ],
+    [
+      "Sora might have a 'pervert' problem on its hands",
+      "https://www.businessinsider.com/sora-video-openai-fetish-content-my-face-problem-2025-10"
+    ]
+  ],
+  [
+    [
       "2025-10-25, 23:04:23",
       "https://news.ycombinator.com/item?id=45707658"
     ],
@@ -131,22 +141,22 @@
   ],
   [
     [
+      "2025-10-25, 20:19:36",
+      "https://news.ycombinator.com/item?id=45706660"
+    ],
+    [
+      "Load-time relocation of shared libraries (2011)",
+      "https://eli.thegreenplace.net/2011/08/25/load-time-relocation-of-shared-libraries/"
+    ]
+  ],
+  [
+    [
       "2025-10-25, 20:13:55",
       "https://news.ycombinator.com/item?id=45706624"
     ],
     [
       "In memory of the Christmas Island shrew",
       "https://news.mongabay.com/2025/10/in-memory-of-the-christmas-island-shrew/"
-    ]
-  ],
-  [
-    [
-      "2025-10-25, 20:00:36",
-      "https://news.ycombinator.com/item?id=45706545"
-    ],
-    [
-      "Torchcomms: A modern PyTorch communications API",
-      "https://pytorch.org/blog/torchcomms/"
     ]
   ],
   [
@@ -251,16 +261,6 @@
   ],
   [
     [
-      "2025-10-22, 17:37:46",
-      "https://news.ycombinator.com/item?id=45672494"
-    ],
-    [
-      "Jacqueline – A minimal i386 kernel written in Pascal (2019)",
-      "https://github.com/danirod/jacqueline"
-    ]
-  ],
-  [
-    [
       "2025-10-22, 06:26:33",
       "https://news.ycombinator.com/item?id=45665513"
     ],
@@ -291,12 +291,12 @@
   ],
   [
     [
-      "2025-10-19, 10:38:25",
-      "https://news.ycombinator.com/item?id=45633311"
+      "2025-10-19, 01:05:35",
+      "https://news.ycombinator.com/item?id=45631435"
     ],
     [
-      "The future of Python web services looks GIL-free",
-      "https://blog.baro.dev/p/the-future-of-python-web-services-looks-gil-free"
+      "Broadcom AFBR-S20: High-Performance Miniature Spectrometer Product Brief [pdf]",
+      "https://docs.broadcom.com/docs/AFBR-S20xx-PB"
     ]
   ]
 ]
