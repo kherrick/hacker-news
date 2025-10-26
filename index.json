@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-10-26, 20:43:40",
+      "https://news.ycombinator.com/item?id=45715055"
+    ],
+    [
+      "Show HN: MyraOS – My 32-bit operating system in C and ASM (Hack Club project)",
+      "https://github.com/dvir-biton/MyraOS"
+    ]
+  ],
+  [
+    [
       "2025-10-26, 19:00:07",
       "https://news.ycombinator.com/item?id=45714348"
     ],
@@ -47,16 +57,6 @@
     [
       "Myanmar military shuts down a major cybercrime center, detains over 2k people",
       "https://apnews.com/article/scam-centers-cybercrime-myanmar-a2c9fda85187121e51bd0efdf29c81da"
-    ]
-  ],
-  [
-    [
-      "2025-10-26, 12:34:36",
-      "https://news.ycombinator.com/item?id=45711279"
-    ],
-    [
-      "Let's Help NetBSD Cross the Finish Line Before 2025 Ends",
-      "https://mail-index.netbsd.org/netbsd-users/2025/10/26/msg033327.html"
     ]
   ],
   [
@@ -117,16 +117,6 @@
     [
       "Clojure Land – Discover open-source Clojure libraries and frameworks",
       "https://clojure.land/"
-    ]
-  ],
-  [
-    [
-      "2025-10-26, 08:03:14",
-      "https://news.ycombinator.com/item?id=45709922"
-    ],
-    [
-      "LaserTweezer – Optical Trap",
-      "https://www.gaudi.ch/GaudiLabs/?page_id=578"
     ]
   ],
   [
@@ -197,6 +187,16 @@
     [
       "The Journey Before main()",
       "https://amit.prasad.me/blog/before-main"
+    ]
+  ],
+  [
+    [
+      "2025-10-25, 07:27:07",
+      "https://news.ycombinator.com/item?id=45701980"
+    ],
+    [
+      "Why your social.org files can have millions of lines without performance issues",
+      "https://en.andros.dev/blog/4e12225f/why-your-socialorg-files-can-have-millions-of-lines-without-any-performance-issues/"
     ]
   ],
   [
