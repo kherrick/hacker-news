@@ -1,12 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-10-26, 04:03:54](https://news.ycombinator.com/item?id=45709043) - [Auto Dark Mode for Windows](https://github.com/AutoDarkMode/Windows-Auto-Night-Mode)
 * [2025-10-26, 02:57:57](https://news.ycombinator.com/item?id=45708795) - [GenAI Image Editing Showdown](https://genai-showdown.specr.net/)
 * [2025-10-26, 02:31:54](https://news.ycombinator.com/item?id=45708686) - [PCB Edge USB C Connector Library](https://github.com/AnasMalas/pcb-edge-usb-c)
 * [2025-10-26, 02:01:17](https://news.ycombinator.com/item?id=45708524) - [Pico-Banana-400k](https://github.com/apple/pico-banana-400k)
 * [2025-10-26, 01:15:43](https://news.ycombinator.com/item?id=45708292) - [A worker fell into a nuclear reactor pool](https://www.nrc.gov/reading-rm/doc-collections/event-status/event/2025/20251022en?brid=vscAjql9kZL1FfGE7TYHVw#en57996:~:text=TRANSPORT%20OF%20CONTAMINATED%20PERSON%20OFFSITE)
 * [2025-10-25, 23:04:23](https://news.ycombinator.com/item?id=45707658) - [The Linux Boot Process: From Power Button to Kernel](https://www.0xkato.xyz/linux-boot/)
 * [2025-10-25, 22:40:00](https://news.ycombinator.com/item?id=45707539) - [D2: Diagram Scripting Language](https://d2lang.com/tour/intro/)
-* [2025-10-25, 21:37:38](https://news.ycombinator.com/item?id=45707194) - [Belittled Magazine: Thirty years after the Sokal affair](https://thebaffler.com/salvos/belittled-magazine-robbins)
 * [2025-10-25, 21:03:39](https://news.ycombinator.com/item?id=45706938) - [How programs get run: ELF binaries (2015)](https://lwn.net/Articles/631631/)
 * [2025-10-25, 21:01:02](https://news.ycombinator.com/item?id=45706924) - [An Efficient Implementation of SELF (1989) [pdf]](https://courses.cs.washington.edu/courses/cse501/15sp/papers/chambers.pdf)
 * [2025-10-25, 20:51:16](https://news.ycombinator.com/item?id=45706866) - [An Update on TinyKVM](https://fwsgonzo.medium.com/an-update-on-tinykvm-7a38518e57e9)

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-10-26](index.md)
 
+* [2025-10-26, 04:03:54](https://news.ycombinator.com/item?id=45709043) - [Auto Dark Mode for Windows](https://github.com/AutoDarkMode/Windows-Auto-Night-Mode)
 * [2025-10-26, 02:57:57](https://news.ycombinator.com/item?id=45708795) - [GenAI Image Editing Showdown](https://genai-showdown.specr.net/)
 * [2025-10-26, 02:31:54](https://news.ycombinator.com/item?id=45708686) - [PCB Edge USB C Connector Library](https://github.com/AnasMalas/pcb-edge-usb-c)
 * [2025-10-26, 02:21:44](https://news.ycombinator.com/item?id=45708639) - [President Reagan's Radio Address to the Nation on Tarrifs, 1987](https://www.youtube.com/watch?v=5t5QK03KXPc)
