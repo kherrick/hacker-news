@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-10-26](index.md)
 
+* [2025-10-26, 12:34:36](https://news.ycombinator.com/item?id=45711279) - [Let's Help NetBSD Cross the Finish Line Before 2025 Ends](https://mail-index.netbsd.org/netbsd-users/2025/10/26/msg033327.html)
 * [2025-10-26, 12:09:02](https://news.ycombinator.com/item?id=45711094) - [You Should Feed the Bots](https://maurycyz.com/misc/the_cost_of_trash/)
+* [2025-10-26, 12:03:59](https://news.ycombinator.com/item?id=45711062) - [Formal Reasoning [pdf]](https://cs.ru.nl/~freek/courses/fr-2025/public/fr.pdf)
 * [2025-10-26, 11:18:41](https://news.ycombinator.com/item?id=45710843) - [My favorite cult sci-fi and fantasy books you may not have heard of before](https://shepherd.com/best-books/cult-sci-fi-and-fantasy-you-may-not-have-heard-of)
 * [2025-10-26, 10:53:37](https://news.ycombinator.com/item?id=45710721) - [You Already Have a Git Server](https://maurycyz.com/misc/easy_git/)
 * [2025-10-26, 09:31:47](https://news.ycombinator.com/item?id=45710366) - [Connect to a 1980s Atari BBS through the web](https://www.southernamis.com/ataribbsconnect)
