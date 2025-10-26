@@ -129,6 +129,145 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
+        <section id="45715055">
+          <h3>
+            <a class="item" href="https://github.com/dvir-biton/MyraOS"
+              >Show HN: MyraOS – My 32-bit operating system in C and ASM (Hack
+              Club project)</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2025-10-26 @ 20:43:40</span
+              ><span class="points-container"
+                >Points: <span class="points">8</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=45715055"
+                  >Comments</a
+                ><span class="descendants">: 0</span></span
+              >
+            </h4>
+            <div class="text">
+              <p>
+                This took me on the most interesting ride, where I’ve learned
+                about OS theory and low level programming on a whole new level.
+                I’ve spent hours upon hours, blood and tears, reading different
+                OS theory blogs, learning low level concepts, debugging, testing
+                and working on this project.
+              </p>
+              <p>
+                I started by reading University books and online blogs, while
+                also watching videos. Some sources that helped me out were OSDev
+                Wiki (<a href="https://wiki.osdev.org/Expanded_Main_Page"
+                  >https://wiki.osdev.org/Expanded_Main_Page</a
+                >), OSTEP (<a href="https://pages.cs.wisc.edu/~remzi/OSTEP"
+                  >https://pages.cs.wisc.edu/~remzi/OSTEP</a
+                >), open-source repositories like MellOS and LemonOS (more
+                advanced), DoomGeneric, and some friends that have built an OS
+                before.
+              </p>
+              <p>
+                This part was the longest, but also the easiest. I felt like I
+                understood the theory, but still could not connect it into
+                actual code. Sitting down and starting to code was difficult,
+                but I knew that was the next step I needed to take! I began by
+                working on the bootloader, which is optional since you can use a
+                pre-made one (I switched to GRUB later), but implementing it was
+                mainly for learning purposes and to warm up on ASM. These were
+                my steps after that:
+              </p>
+              <p></p>
+              <pre><code>  1) I started implementing the VGA driver, which gave me the ability to display text.
+  2) Interrupts - IDT, ISR, IRQ, which signal to the CPU that a certain event occurred and needs handling (such as faults, hardware connected device actions, etc).
+  3) Keyboard driver, which enables me to display the same text I type on my keyboard.
+  4) PMM (Physical memory management)
+  5) Paging and virtual memory management
+  6) RTC driver - clock addition (which was, in my opinion, optional)
+  7) PIT driver - Ticks every certain amount of time, and also  
+  8) FS (File System) and physical HDD drivers - for the HDD I chose PATA (HDD communication protocol) for simplicity (SATA is a newer but harder option as well).
+     For the FS I chose EXT2 (The Second Extended FileSystem), which is a foundational linux FS structure introduced in 1993. This FS structure is not the simplest,
+     but is very popular in hobby-OS, it is very supported, easy to set up and upgrade to newer EXT versions, it has a lot of materials online, compared to other
+     options. This was probably the longest and largest feature I had worked on.
+  9) Syscall support.
+  10) Libc implementation.
+  11) Processing and scheduling for multiprocessing.
+  12) Here I also made a shell to test it all.
+</code></pre>
+              At this point, I had a working shell, but later decided to go
+              further and add a GUI! I was working on the FS (stage 8), when I
+              heard about Hack Club’s Summer of Making (SoM). This was my first
+              time practicing in HackClub, and I want to express my gratitude
+              and share my enjoyment of participating in it.
+              <p>
+                At first I just wanted to declare the OS as finished after
+                completing the FS, and a bit of other drivers, but because of
+                SoM my perspective was changed completely. Because of the
+                competition, I started to think that I needed to ship a complete
+                OS, with processing, GUI and the bare minimum ability to run
+                Doom. I wanted to show the community in SoM how everything
+                works.
+              </p>
+              <p>
+                Then I worked on it for another 2 months, after finishing the
+                shell, just because of SoM!, totalling my project to almost 7
+                months of work. At this time I added full GUI support, with
+                dirty rectangles and double buffering, I made a GUI mouse
+                driver, and even made a full Doom port! things I would've never
+                even thought about without participating in SoM.
+              </p>
+              <p>
+                This is my SoM project:
+                <a href="https://summer.hackclub.com/projects/5191"
+                  >https://summer.hackclub.com/projects/5191</a
+                >.
+              </p>
+              <p>
+                Every project has challenges, especially in such a low level
+                project. I had to do a lot of debugging while working on this,
+                and it is no easy task. I highly recommend using GDB which
+                helped me debug so many of my problems, especially memory ones.
+              </p>
+              <p>
+                The first major challenge I encountered was during the coding of
+                processes - I realized that a lot of my paging code was
+                completely wrong, poorly tested, and had to be reworked. During
+                this time I was already in the competition and it was difficult
+                keeping up with devlogs and new features while fixing old
+                problems in a code I wrote a few months ago.
+              </p>
+              <p>
+                Some more major problems occurred when trying to run Doom, and
+                unlike the last problem, this was a disaster. I had random PFs
+                and memory problems, one run could work while the next one
+                wouldn’t, and the worst part is that it was only on the Doom,
+                and not on processes I created myself. These issues took a lot
+                of time to figure out. I began to question the Doom code itself,
+                and even thought about giving up on the whole project.
+              </p>
+              <p>
+                After a lot of time spent debugging, I fixed the issues. It was
+                a combination of scheduling issues, Libc issues and the Qemu not
+                having enough (wrongfully assuming 128MB for the whole OS was
+                enough).
+              </p>
+              <p>
+                Finally, I worked throughout all the difficulties, and shipped
+                the project! In the end, the experience working on this project
+                was amazing. I learned a lot, grew and improved as a developer,
+                and I thank SoM for helping to increase my motivation and make
+                the project memorable and unique like I never imagined it would
+                be.
+              </p>
+              <p>
+                The repo is at
+                <a href="https://github.com/dvir-biton/MyraOS"
+                  >https://github.com/dvir-biton/MyraOS</a
+                >. I’d love to discuss any aspect of this with you all in the
+                comments!
+              </p>
+            </div>
+          </section>
+        </section>
         <section id="45714348">
           <h3>
             <a
@@ -141,11 +280,11 @@
             <h4>
               <span>2025-10-26 @ 19:00:07</span
               ><span class="points-container"
-                >Points: <span class="points">39</span></span
+                >Points: <span class="points">41</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45714348"
                   >Comments</a
-                ><span class="descendants">: 18</span></span
+                ><span class="descendants">: 19</span></span
               >
             </h4>
           </section>
@@ -163,11 +302,11 @@
             <h4>
               <span>2025-10-26 @ 17:53:22</span
               ><span class="points-container"
-                >Points: <span class="points">95</span></span
+                >Points: <span class="points">101</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45713835"
                   >Comments</a
-                ><span class="descendants">: 48</span></span
+                ><span class="descendants">: 51</span></span
               >
             </h4>
           </section>
@@ -185,7 +324,7 @@
             <h4>
               <span>2025-10-26 @ 17:40:06</span
               ><span class="points-container"
-                >Points: <span class="points">103</span></span
+                >Points: <span class="points">105</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45713738"
                   >Comments</a
@@ -206,7 +345,7 @@
             <h4>
               <span>2025-10-26 @ 16:46:22</span
               ><span class="points-container"
-                >Points: <span class="points">36</span></span
+                >Points: <span class="points">37</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45713253"
                   >Comments</a
@@ -228,32 +367,11 @@
             <h4>
               <span>2025-10-26 @ 15:11:51</span
               ><span class="points-container"
-                >Points: <span class="points">121</span></span
+                >Points: <span class="points">124</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45712517"
                   >Comments</a
-                ><span class="descendants">: 40</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="45711279">
-          <h3>
-            <a
-              class="item"
-              href="https://mail-index.netbsd.org/netbsd-users/2025/10/26/msg033327.html"
-              >Let's Help NetBSD Cross the Finish Line Before 2025 Ends</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2025-10-26 @ 12:34:36</span
-              ><span class="points-container"
-                >Points: <span class="points">368</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=45711279"
-                  >Comments</a
-                ><span class="descendants">: 198</span></span
+                ><span class="descendants">: 41</span></span
               >
             </h4>
           </section>
@@ -293,7 +411,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45710721"
                   >Comments</a
-                ><span class="descendants">: 270</span></span
+                ><span class="descendants">: 274</span></span
               >
             </h4>
           </section>
@@ -308,11 +426,11 @@
             <h4>
               <span>2025-10-26 @ 09:31:47</span
               ><span class="points-container"
-                >Points: <span class="points">59</span></span
+                >Points: <span class="points">60</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45710366"
                   >Comments</a
-                ><span class="descendants">: 3</span></span
+                ><span class="descendants">: 4</span></span
               >
             </h4>
           </section>
@@ -329,7 +447,7 @@
             <h4>
               <span>2025-10-26 @ 08:34:38</span
               ><span class="points-container"
-                >Points: <span class="points">191</span></span
+                >Points: <span class="points">193</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45710065"
                   >Comments</a
@@ -351,7 +469,7 @@
             <h4>
               <span>2025-10-26 @ 08:19:48</span
               ><span class="points-container"
-                >Points: <span class="points">351</span></span
+                >Points: <span class="points">356</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45710006"
                   >Comments</a
@@ -375,26 +493,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45709988"
                   >Comments</a
-                ><span class="descendants">: 35</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="45709922">
-          <h3>
-            <a class="item" href="https://www.gaudi.ch/GaudiLabs/?page_id=578"
-              >LaserTweezer – Optical Trap</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2025-10-26 @ 08:03:14</span
-              ><span class="points-container"
-                >Points: <span class="points">68</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=45709922"
-                  >Comments</a
-                ><span class="descendants">: 5</span></span
+                ><span class="descendants">: 36</span></span
               >
             </h4>
           </section>
@@ -428,7 +527,7 @@
             <h4>
               <span>2025-10-26 @ 02:31:54</span
               ><span class="points-container"
-                >Points: <span class="points">148</span></span
+                >Points: <span class="points">149</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45708686"
                   >Comments</a
@@ -468,11 +567,11 @@
             <h4>
               <span>2025-10-26 @ 01:15:43</span
               ><span class="points-container"
-                >Points: <span class="points">609</span></span
+                >Points: <span class="points">612</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45708292"
                   >Comments</a
-                ><span class="descendants">: 434</span></span
+                ><span class="descendants">: 436</span></span
               >
             </h4>
           </section>
@@ -525,11 +624,33 @@
             <h4>
               <span>2025-10-25 @ 19:33:22</span
               ><span class="points-container"
-                >Points: <span class="points">293</span></span
+                >Points: <span class="points">294</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45706380"
                   >Comments</a
-                ><span class="descendants">: 109</span></span
+                ><span class="descendants">: 110</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="45701980">
+          <h3>
+            <a
+              class="item"
+              href="https://en.andros.dev/blog/4e12225f/why-your-socialorg-files-can-have-millions-of-lines-without-any-performance-issues/"
+              >Why your social.org files can have millions of lines without
+              performance issues</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2025-10-25 @ 07:27:07</span
+              ><span class="points-container"
+                >Points: <span class="points">62</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=45701980"
+                  >Comments</a
+                ><span class="descendants">: 6</span></span
               >
             </h4>
           </section>
@@ -546,11 +667,11 @@
             <h4>
               <span>2025-10-24 @ 16:48:23</span
               ><span class="points-container"
-                >Points: <span class="points">49</span></span
+                >Points: <span class="points">51</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45696438"
                   >Comments</a
-                ><span class="descendants">: 28</span></span
+                ><span class="descendants">: 29</span></span
               >
             </h4>
           </section>
@@ -567,11 +688,11 @@
             <h4>
               <span>2025-10-24 @ 16:03:53</span
               ><span class="points-container"
-                >Points: <span class="points">280</span></span
+                >Points: <span class="points">282</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45695979"
                   >Comments</a
-                ><span class="descendants">: 246</span></span
+                ><span class="descendants">: 248</span></span
               >
             </h4>
           </section>
@@ -589,7 +710,7 @@
             <h4>
               <span>2025-10-23 @ 17:06:35</span
               ><span class="points-container"
-                >Points: <span class="points">279</span></span
+                >Points: <span class="points">280</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45684253"
                   >Comments</a
@@ -608,11 +729,11 @@
             <h4>
               <span>2025-10-22 @ 16:21:25</span
               ><span class="points-container"
-                >Points: <span class="points">67</span></span
+                >Points: <span class="points">70</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45671475"
                   >Comments</a
-                ><span class="descendants">: 16</span></span
+                ><span class="descendants">: 18</span></span
               >
             </h4>
           </section>
@@ -629,11 +750,11 @@
             <h4>
               <span>2025-10-22 @ 02:01:14</span
               ><span class="points-container"
-                >Points: <span class="points">7</span></span
+                >Points: <span class="points">9</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45664139"
                   >Comments</a
-                ><span class="descendants">: 1</span></span
+                ><span class="descendants">: 4</span></span
               >
             </h4>
           </section>
@@ -650,11 +771,11 @@
             <h4>
               <span>2025-10-21 @ 03:39:21</span
               ><span class="points-container"
-                >Points: <span class="points">34</span></span
+                >Points: <span class="points">37</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45652218"
                   >Comments</a
-                ><span class="descendants">: 8</span></span
+                ><span class="descendants">: 10</span></span
               >
             </h4>
           </section>
@@ -669,11 +790,11 @@
             <h4>
               <span>2025-10-20 @ 22:21:59</span
               ><span class="points-container"
-                >Points: <span class="points">153</span></span
+                >Points: <span class="points">156</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45650167"
                   >Comments</a
-                ><span class="descendants">: 22</span></span
+                ><span class="descendants">: 23</span></span
               >
             </h4>
           </section>
@@ -770,11 +891,11 @@
             <h4>
               <span>2025-10-18 @ 21:48:37</span
               ><span class="points-container"
-                >Points: <span class="points">363</span></span
+                >Points: <span class="points">369</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45630599"
                   >Comments</a
-                ><span class="descendants">: 68</span></span
+                ><span class="descendants">: 70</span></span
               >
             </h4>
           </section>
