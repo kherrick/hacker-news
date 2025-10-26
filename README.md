@@ -2,7 +2,7 @@
 
 * [2025-10-26, 20:43:40](https://news.ycombinator.com/item?id=45715055) - [Show HN: MyraOS – My 32-bit operating system in C and ASM (Hack Club project)](https://github.com/dvir-biton/MyraOS)
 * [2025-10-26, 19:00:07](https://news.ycombinator.com/item?id=45714348) - [Smartphones manipulate our emotions and trigger our reflexes](https://theconversation.com/smartphones-manipulate-our-emotions-and-trigger-our-reflexes-no-wonder-were-addicted-265014)
-* [2025-10-26, 17:53:22](https://news.ycombinator.com/item?id=45713835) - [Nvidia DGX Spark: When Benchmark Numbers Meet Production Reality](https://publish.obsidian.md/aixplore/Practical+Applications/dgx-lab-benchmarks-vs-reality-day-4)
+* [2025-10-26, 17:53:22](https://news.ycombinator.com/item?id=45713835) - [Nvidia DGX Spark: When benchmark numbers meet production reality](https://publish.obsidian.md/aixplore/Practical+Applications/dgx-lab-benchmarks-vs-reality-day-4)
 * [2025-10-26, 17:40:06](https://news.ycombinator.com/item?id=45713738) - [Alzheimer's disrupts circadian rhythms of plaque-clearing brain cells](https://medicine.washu.edu/news/alzheimers-disrupts-circadian-rhythms-of-plaque-clearing-brain-cells/)
 * [2025-10-26, 16:46:22](https://news.ycombinator.com/item?id=45713253) - [Making the Electron Microscope](https://www.asimov.press/p/electron-microscope)
 * [2025-10-26, 15:11:51](https://news.ycombinator.com/item?id=45712517) - [Myanmar military shuts down a major cybercrime center, detains over 2k people](https://apnews.com/article/scam-centers-cybercrime-myanmar-a2c9fda85187121e51bd0efdf29c81da)
