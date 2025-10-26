@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-10-26, 02:31:54](https://news.ycombinator.com/item?id=45708686) - [PCB Edge USB C Connector Library](https://github.com/AnasMalas/pcb-edge-usb-c)
+* [2025-10-26, 02:21:44](https://news.ycombinator.com/item?id=45708639) - [President Reagan's Radio Address to the Nation on Tarrifs, 1987](https://www.youtube.com/watch?v=5t5QK03KXPc)
 * [2025-10-26, 02:01:17](https://news.ycombinator.com/item?id=45708524) - [Pico-Banana-400k](https://github.com/apple/pico-banana-400k)
 * [2025-10-26, 01:15:43](https://news.ycombinator.com/item?id=45708292) - [A worker fell into a nuclear reactor pool](https://www.nrc.gov/reading-rm/doc-collections/event-status/event/2025/20251022en?brid=vscAjql9kZL1FfGE7TYHVw#en57996:~:text=TRANSPORT%20OF%20CONTAMINATED%20PERSON%20OFFSITE)
 * [2025-10-26, 00:29:51](https://news.ycombinator.com/item?id=45708066) - [I'm drowning in AI features I never asked for and I hate it](https://www.makeuseof.com/ai-features-being-rammed-down-our-throats/)
@@ -12,7 +13,6 @@
 * [2025-10-25, 20:51:16](https://news.ycombinator.com/item?id=45706866) - [An Update on TinyKVM](https://fwsgonzo.medium.com/an-update-on-tinykvm-7a38518e57e9)
 * [2025-10-25, 20:42:02](https://news.ycombinator.com/item?id=45706815) - [ARM Memory Tagging: how it improves C/C++ memory safety (2018) [pdf]](https://llvm.org/devmtg/2018-10/slides/Serebryany-Stepanov-Tsyrklevich-Memory-Tagging-Slides-LLVM-2018.pdf)
 * [2025-10-25, 20:38:58](https://news.ycombinator.com/item?id=45706792) - [Show HN: Diagram as code tool with draggable customizations](https://github.com/RohanAdwankar/oxdraw)
-* [2025-10-25, 20:35:48](https://news.ycombinator.com/item?id=45706765) - [Project Amplify: Powered footwear for running and walking](https://about.nike.com/en/newsroom/releases/nike-project-amplify-official-images)
 * [2025-10-25, 20:30:25](https://news.ycombinator.com/item?id=45706729) - [Agent Lightning: Train agents with RL (no code changes needed)](https://github.com/microsoft/agent-lightning)
 * [2025-10-25, 20:26:59](https://news.ycombinator.com/item?id=45706705) - [Testing out BLE beacons with BeaconDB](https://blog.matthewbrunelle.com/testing-out-ble-beacons-with-beacondb/)
 * [2025-10-25, 20:13:55](https://news.ycombinator.com/item?id=45706624) - [In memory of the Christmas Island shrew](https://news.mongabay.com/2025/10/in-memory-of-the-christmas-island-shrew/)
