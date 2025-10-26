@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-10-26](index.md)
 
+* [2025-10-26, 08:23:48](https://news.ycombinator.com/item?id=45710021) - [What If Tariffs?](https://www.swatch.com/en-en/what-if-tariffs-so34z106/SO34Z106.html)
 * [2025-10-26, 07:00:33](https://news.ycombinator.com/item?id=45709698) - [Bitmovin (YC S15) Is Hiring Engineering ICs and Managers in Europe](https://bitmovin.com/careers)
 * [2025-10-26, 04:03:54](https://news.ycombinator.com/item?id=45709043) - [Auto Dark Mode for Windows](https://github.com/AutoDarkMode/Windows-Auto-Night-Mode)
 * [2025-10-26, 03:19:08](https://news.ycombinator.com/item?id=45708884) - [Tsdown – The Elegant Bundler for Libraries](https://tsdown.dev/)
