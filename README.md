@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-10-26, 23:08:09](https://news.ycombinator.com/item?id=45715873) - [Are-we-fast-yet: Benchmark suite in Oberon, C++, C, Pascal, Micron and Luon](https://github.com/rochus-keller/Are-we-fast-yet)
 * [2025-10-26, 22:54:23](https://news.ycombinator.com/item?id=45715819) - [AI Mafia Network – An interactive visualization](https://dipakwani.com/ai-mafia/)
 * [2025-10-26, 22:41:02](https://news.ycombinator.com/item?id=45715752) - [Show HN: Helium Browser for Android with extensions support, based on Vanadium](https://github.com/jqssun/android-helium-browser)
 * [2025-10-26, 22:36:34](https://news.ycombinator.com/item?id=45715726) - [Poison, Poison Everywhere](https://loeber.substack.com/p/29-poison-poison-everywhere)
 * [2025-10-26, 22:34:25](https://news.ycombinator.com/item?id=45715714) - [The Apple Network Server Mac OS ROMs have resurfaced](http://oldvcr.blogspot.com/2025/10/the-apple-network-server-macos-roms.html)
 * [2025-10-26, 20:43:40](https://news.ycombinator.com/item?id=45715055) - [Show HN: MyraOS – My 32-bit operating system in C and ASM (Hack Club project)](https://github.com/dvir-biton/MyraOS)
-* [2025-10-26, 19:00:07](https://news.ycombinator.com/item?id=45714348) - [Smartphones manipulate our emotions and trigger our reflexes](https://theconversation.com/smartphones-manipulate-our-emotions-and-trigger-our-reflexes-no-wonder-were-addicted-265014)
 * [2025-10-26, 18:09:37](https://news.ycombinator.com/item?id=45713959) - [A definition of AGI](https://arxiv.org/abs/2510.18212)
 * [2025-10-26, 17:53:22](https://news.ycombinator.com/item?id=45713835) - [Nvidia DGX Spark: When benchmark numbers meet production reality](https://publish.obsidian.md/aixplore/Practical+Applications/dgx-lab-benchmarks-vs-reality-day-4)
 * [2025-10-26, 17:40:06](https://news.ycombinator.com/item?id=45713738) - [Alzheimer's disrupts circadian rhythms of plaque-clearing brain cells](https://medicine.washu.edu/news/alzheimers-disrupts-circadian-rhythms-of-plaque-clearing-brain-cells/)

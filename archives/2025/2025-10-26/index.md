@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-10-26](index.md)
 
+* [2025-10-26, 23:08:09](https://news.ycombinator.com/item?id=45715873) - [Are-we-fast-yet: Benchmark suite in Oberon, C++, C, Pascal, Micron and Luon](https://github.com/rochus-keller/Are-we-fast-yet)
 * [2025-10-26, 22:54:23](https://news.ycombinator.com/item?id=45715819) - [AI Mafia – Tracing the roots of today's AI leaders back to Google](https://dipakwani.com/ai-mafia/)
 * [2025-10-26, 22:41:02](https://news.ycombinator.com/item?id=45715752) - [Show HN: Helium Browser for Android with extensions support, based on Vanadium](https://github.com/jqssun/android-helium-browser)
 * [2025-10-26, 22:36:34](https://news.ycombinator.com/item?id=45715726) - [Poison, Poison Everywhere](https://loeber.substack.com/p/29-poison-poison-everywhere)
