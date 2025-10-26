@@ -25,11 +25,11 @@
 * [2025-10-25, 13:01:39](https://news.ycombinator.com/item?id=45703556) - [Making a micro Linux distro (2023)](https://popovicu.com/posts/making-a-micro-linux-distro/)
 * [2025-10-24, 19:09:08](https://news.ycombinator.com/item?id=45698070) - [WebDAV isn't dead yet](https://blog.feld.me/posts/2025/09/webdav-isnt-dead-yet/)
 * [2025-10-24, 12:44:52](https://news.ycombinator.com/item?id=45694051) - [Show HN: LLM Rescuer – Fixing the billion dollar mistake in Ruby](https://github.com/barodeur/llm_rescuer)
-* [2025-10-23, 20:32:42](https://news.ycombinator.com/item?id=45686707) - [Ubios: China's Alternative to UEFI](https://pbxscience.com/ubios-chinas-alternative-to-uefi-and-the-new-era-of-firmware-standards/)
 * [2025-10-22, 23:18:52](https://news.ycombinator.com/item?id=45676376) - [NextSilicon reveals new processor chip in challenge to Intel, AMD](https://www.reuters.com/business/nextsilicon-reveals-new-processor-chip-challenge-intel-amd-2025-10-22/)
 * [2025-10-22, 06:26:33](https://news.ycombinator.com/item?id=45665513) - [Tarmageddon: RCE vulnerability highlights challenges of open source abandonware](https://edera.dev/stories/tarmageddon)
 * [2025-10-21, 08:03:17](https://news.ycombinator.com/item?id=45653543) - [Passwords and Power Drills](https://google.github.io/building-secure-and-reliable-systems/raw/ch01.html#on_passwords_and_power_drills)
 * [2025-10-19, 22:04:10](https://news.ycombinator.com/item?id=45638453) - [Doctor Who archive expert shares positive update on missing episode](https://www.radiotimes.com/tv/sci-fi/doctor-who-missing-episodes-update-teases-announcement-newsupdate/)
+* [2025-10-19, 10:38:25](https://news.ycombinator.com/item?id=45633311) - [The future of Python web services looks GIL-free](https://blog.baro.dev/p/the-future-of-python-web-services-looks-gil-free)
 
 ## [Archives](archives/index.md)
 
