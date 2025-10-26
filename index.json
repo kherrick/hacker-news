@@ -251,16 +251,6 @@
   ],
   [
     [
-      "2025-10-23, 20:32:42",
-      "https://news.ycombinator.com/item?id=45686707"
-    ],
-    [
-      "Ubios: China's Alternative to UEFI",
-      "https://pbxscience.com/ubios-chinas-alternative-to-uefi-and-the-new-era-of-firmware-standards/"
-    ]
-  ],
-  [
-    [
       "2025-10-22, 23:18:52",
       "https://news.ycombinator.com/item?id=45676376"
     ],
@@ -297,6 +287,16 @@
     [
       "Doctor Who archive expert shares positive update on missing episode",
       "https://www.radiotimes.com/tv/sci-fi/doctor-who-missing-episodes-update-teases-announcement-newsupdate/"
+    ]
+  ],
+  [
+    [
+      "2025-10-19, 10:38:25",
+      "https://news.ycombinator.com/item?id=45633311"
+    ],
+    [
+      "The future of Python web services looks GIL-free",
+      "https://blog.baro.dev/p/the-future-of-python-web-services-looks-gil-free"
     ]
   ]
 ]
