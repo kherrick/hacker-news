@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-10-26](index.md)
 
+* [2025-10-26, 15:22:03](https://news.ycombinator.com/item?id=45712618) - [Keira Knightley's viral rant on the population's cognitive resilience](https://twitter.com/orphcorp/status/1982230134850572551)
 * [2025-10-26, 13:47:49](https://news.ycombinator.com/item?id=45711847) - [Apple Reportedly Moving Ahead with Ads in Maps App](https://www.macrumors.com/2025/10/26/apple-moving-ahead-with-ads-in-maps/)
 * [2025-10-26, 13:38:30](https://news.ycombinator.com/item?id=45711786) - [The FSF considers large language models](https://lwn.net/Articles/1040888/)
 * [2025-10-26, 12:34:36](https://news.ycombinator.com/item?id=45711279) - [Let's Help NetBSD Cross the Finish Line Before 2025 Ends](https://mail-index.netbsd.org/netbsd-users/2025/10/26/msg033327.html)
