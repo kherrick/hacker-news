@@ -61,6 +61,16 @@
   ],
   [
     [
+      "2025-10-26, 14:21:44",
+      "https://news.ycombinator.com/item?id=45712118"
+    ],
+    [
+      "Resource use matters, but material footprints are a poor way to measure it",
+      "https://ourworldindata.org/material-footprint-limitations"
+    ]
+  ],
+  [
+    [
       "2025-10-26, 12:03:59",
       "https://news.ycombinator.com/item?id=45711062"
     ],
@@ -131,16 +141,6 @@
   ],
   [
     [
-      "2025-10-26, 02:31:54",
-      "https://news.ycombinator.com/item?id=45708686"
-    ],
-    [
-      "PCB Edge USB C Connector Library",
-      "https://github.com/AnasMalas/pcb-edge-usb-c"
-    ]
-  ],
-  [
-    [
       "2025-10-26, 02:01:17",
       "https://news.ycombinator.com/item?id=45708524"
     ],
@@ -205,7 +205,7 @@
       "https://news.ycombinator.com/item?id=45696438"
     ],
     [
-      "Validating Your Ideas on Strangers",
+      "Validating Your Ideas on Strangers (2017)",
       "https://jeremyaboyd.com/post/validating-your-ideas-on-strangers"
     ]
   ],
@@ -225,7 +225,7 @@
       "https://news.ycombinator.com/item?id=45684253"
     ],
     [
-      "The bug that taught me more about PyTorch than years of using it",
+      "A bug that taught me more about PyTorch than years of using it",
       "https://elanapearl.github.io/blog/2025/the-bug-that-taught-me-pytorch/"
     ]
   ],
@@ -255,7 +255,7 @@
       "https://news.ycombinator.com/item?id=45652218"
     ],
     [
-      "NORAD's Cheyenne Mountain Combat Center, C.1966",
+      "NORAD’s Cheyenne Mountain Combat Center, c.1966",
       "https://flashbak.com/norad-cheyenne-mountain-combat-center-478804/"
     ]
   ],
