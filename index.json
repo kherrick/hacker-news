@@ -231,6 +231,16 @@
   ],
   [
     [
+      "2025-10-25, 12:01:44",
+      "https://news.ycombinator.com/item?id=45703196"
+    ],
+    [
+      "Show HN: Chonky – a neural text semantic chunking goes multilingual",
+      "https://huggingface.co/mirth/chonky_mmbert_small_multilingual_1"
+    ]
+  ],
+  [
+    [
       "2025-10-24, 19:09:08",
       "https://news.ycombinator.com/item?id=45698070"
     ],
@@ -247,16 +257,6 @@
     [
       "Why I code as a CTO",
       "https://www.assembled.com/blog/why-i-code-as-a-cto"
-    ]
-  ],
-  [
-    [
-      "2025-10-24, 12:44:52",
-      "https://news.ycombinator.com/item?id=45694051"
-    ],
-    [
-      "Show HN: LLM Rescuer – Fixing the billion dollar mistake in Ruby",
-      "https://github.com/barodeur/llm_rescuer"
     ]
   ],
   [
