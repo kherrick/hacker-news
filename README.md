@@ -1,8 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-10-26, 19:00:07](https://news.ycombinator.com/item?id=45714348) - [Smartphones manipulate our emotions and trigger our reflexes](https://theconversation.com/smartphones-manipulate-our-emotions-and-trigger-our-reflexes-no-wonder-were-addicted-265014)
 * [2025-10-26, 18:09:37](https://news.ycombinator.com/item?id=45713959) - [A Definition of AGI](https://arxiv.org/abs/2510.18212)
+* [2025-10-26, 17:53:22](https://news.ycombinator.com/item?id=45713835) - [Nvidia DGX Spark: When Benchmark Numbers Meet Production Reality](https://publish.obsidian.md/aixplore/Practical+Applications/dgx-lab-benchmarks-vs-reality-day-4)
 * [2025-10-26, 17:40:06](https://news.ycombinator.com/item?id=45713738) - [Alzheimer's disrupts circadian rhythms of plaque-clearing brain cells](https://medicine.washu.edu/news/alzheimers-disrupts-circadian-rhythms-of-plaque-clearing-brain-cells/)
-* [2025-10-26, 17:12:37](https://news.ycombinator.com/item?id=45713507) - [Show HN: FlashRecord – 2MB Python-native CLI screen recorder](https://github.com/Flamehaven/FlashRecord)
 * [2025-10-26, 16:57:44](https://news.ycombinator.com/item?id=45713367) - [Books by People – Defending Organic Literature in an AI World](https://booksbypeople.org/)
 * [2025-10-26, 16:46:22](https://news.ycombinator.com/item?id=45713253) - [Making the Electron Microscope](https://www.asimov.press/p/electron-microscope)
 * [2025-10-26, 15:47:29](https://news.ycombinator.com/item?id=45712807) - [Movie posters from Ghana in the 1980s and 90s](https://www.utterlyinteresting.com/post/bizarre-movie-posters-from-africa-that-are-so-bad-they-re-good)
@@ -24,7 +25,6 @@
 * [2025-10-25, 22:40:00](https://news.ycombinator.com/item?id=45707539) - [D2: Diagram Scripting Language](https://d2lang.com/tour/intro/)
 * [2025-10-25, 19:33:22](https://news.ycombinator.com/item?id=45706380) - [The Journey Before main()](https://amit.prasad.me/blog/before-main)
 * [2025-10-24, 16:48:23](https://news.ycombinator.com/item?id=45696438) - [Validating Your Ideas on Strangers](https://jeremyaboyd.com/post/validating-your-ideas-on-strangers)
-* [2025-10-24, 16:03:53](https://news.ycombinator.com/item?id=45695979) - [Why I code as a CTO](https://www.assembled.com/blog/why-i-code-as-a-cto)
 * [2025-10-23, 17:06:35](https://news.ycombinator.com/item?id=45684253) - [The bug that taught me more about PyTorch than years of using it](https://elanapearl.github.io/blog/2025/the-bug-that-taught-me-pytorch/)
 * [2025-10-20, 22:21:59](https://news.ycombinator.com/item?id=45650167) - [Eavesdropping on Internal Networks via Unencrypted Satellites](https://satcom.sysnet.ucsd.edu/)
 * [2025-10-20, 13:34:09](https://news.ycombinator.com/item?id=45643716) - [Ask HN: Second generation of intro to software dev for 3rd graders](https://news.ycombinator.com/item?id=45643716)
