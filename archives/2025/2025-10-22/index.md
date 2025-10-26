@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-10-22](index.md)
 
+* [2025-10-22, 23:18:52](https://news.ycombinator.com/item?id=45676376) - [NextSilicon reveals new processor chip in challenge to Intel, AMD](https://www.reuters.com/business/nextsilicon-reveals-new-processor-chip-challenge-intel-amd-2025-10-22/)
 * [2025-10-22, 22:51:58](https://news.ycombinator.com/item?id=45676162) - [VortexNet: Neural network based on fluid dynamics](https://github.com/samim23/vortexnet)
 * [2025-10-22, 22:31:54](https://news.ycombinator.com/item?id=45676002) - [Officials scrub data showing US citizens swept up in immigration arrests](https://www.thedailybeast.com/officials-scrub-data-showing-us-citizens-swept-up-in-immigration-arrests/)
 * [2025-10-22, 22:15:29](https://news.ycombinator.com/item?id=45675851) - [Iceland reports the presence of mosquitoes as climate warms](https://www.npr.org/2025/10/22/nx-s1-5582748/iceland-mosquitoes-first-time)
