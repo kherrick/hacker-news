@@ -30,6 +30,7 @@
 * [2025-10-20, 17:24:49](https://news.ycombinator.com/item?id=45646559) - [Getting DeepSeek-OCR working on an Nvidia Spark via brute force with Claude Code](https://simonwillison.net/2025/Oct/20/deepseek-ocr-claude-code/)
 * [2025-10-20, 17:14:48](https://news.ycombinator.com/item?id=45646429) - [Intel fabs misusing J1 Visas](https://old.reddit.com/r/Semiconductors/comments/1ob8igx/i_work_at_an_intel_fab_as_an_engineer_and_half/)
 * [2025-10-20, 17:13:44](https://news.ycombinator.com/item?id=45646414) - [What do we do if SETI is successful?](https://www.universetoday.com/articles/what-do-we-do-if-seti-is-successful)
+* [2025-10-20, 16:49:39](https://news.ycombinator.com/item?id=45646059) - [Generalized K-Means Clustering](https://github.com/derrickburns/generalized-kmeans-clustering)
 * [2025-10-20, 16:12:32](https://news.ycombinator.com/item?id=45645567) - [Kohler launches smart toilet camera](https://techcrunch.com/2025/10/19/kohler-unveils-a-camera-for-your-toilet/)
 * [2025-10-20, 16:07:52](https://news.ycombinator.com/item?id=45645510) - [What I Self Host](https://fredrikmeyer.net/2025/10/18/what-i-self-host.html)
 * [2025-10-20, 15:55:36](https://news.ycombinator.com/item?id=45645349) - [Production RAG: what I learned from processing 5M+ documents](https://blog.abdellatif.io/production-rag-processing-5m-documents)
