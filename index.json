@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-10-26, 12:34:36",
+      "https://news.ycombinator.com/item?id=45711279"
+    ],
+    [
+      "Let's Help NetBSD Cross the Finish Line Before 2025 Ends",
+      "https://mail-index.netbsd.org/netbsd-users/2025/10/26/msg033327.html"
+    ]
+  ],
+  [
+    [
       "2025-10-26, 12:09:02",
       "https://news.ycombinator.com/item?id=45711094"
     ],
@@ -11,12 +21,12 @@
   ],
   [
     [
-      "2025-10-26, 11:18:41",
-      "https://news.ycombinator.com/item?id=45710843"
+      "2025-10-26, 12:03:59",
+      "https://news.ycombinator.com/item?id=45711062"
     ],
     [
-      "My favorite cult sci-fi and fantasy books you may not have heard of before",
-      "https://shepherd.com/best-books/cult-sci-fi-and-fantasy-you-may-not-have-heard-of"
+      "Formal Reasoning [pdf]",
+      "https://cs.ru.nl/~freek/courses/fr-2025/public/fr.pdf"
     ]
   ],
   [
@@ -197,16 +207,6 @@
     [
       "Project Amplify: Powered footwear for running and walking",
       "https://about.nike.com/en/newsroom/releases/nike-project-amplify-official-images"
-    ]
-  ],
-  [
-    [
-      "2025-10-25, 20:30:25",
-      "https://news.ycombinator.com/item?id=45706729"
-    ],
-    [
-      "Agent Lightning: Train agents with RL (no code changes needed)",
-      "https://github.com/microsoft/agent-lightning"
     ]
   ],
   [
