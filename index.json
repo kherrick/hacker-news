@@ -41,6 +41,16 @@
   ],
   [
     [
+      "2025-10-26, 16:57:12",
+      "https://news.ycombinator.com/item?id=45713359"
+    ],
+    [
+      "Ken Thompson recalls Unix's rowdy, lock-picking origins",
+      "https://thenewstack.io/ken-thompson-recalls-unixs-rowdy-lock-picking-origins/"
+    ]
+  ],
+  [
+    [
       "2025-10-26, 16:46:22",
       "https://news.ycombinator.com/item?id=45713253"
     ],
@@ -85,7 +95,7 @@
       "https://news.ycombinator.com/item?id=45710721"
     ],
     [
-      "You Already Have a Git Server",
+      "You already have a Git server",
       "https://maurycyz.com/misc/easy_git/"
     ]
   ],
@@ -97,16 +107,6 @@
     [
       "Connect to a 1980s Atari BBS through the web",
       "https://www.southernamis.com/ataribbsconnect"
-    ]
-  ],
-  [
-    [
-      "2025-10-26, 08:34:38",
-      "https://news.ycombinator.com/item?id=45710065"
-    ],
-    [
-      "Asbestosis",
-      "https://diamondgeezer.blogspot.com/2025/10/asbestosis.html"
     ]
   ],
   [
@@ -137,6 +137,16 @@
     [
       "Writing a RISC-V Emulator in Rust",
       "https://book.rvemu.app/"
+    ]
+  ],
+  [
+    [
+      "2025-10-26, 07:00:33",
+      "https://news.ycombinator.com/item?id=45709698"
+    ],
+    [
+      "Bitmovin (YC S15) Is Hiring Engineering ICs and Managers in Europe",
+      "https://bitmovin.com/careers"
     ]
   ],
   [
@@ -205,18 +215,8 @@
       "https://news.ycombinator.com/item?id=45696438"
     ],
     [
-      "Validating Your Ideas on Strangers (2017)",
+      "Validating your ideas on strangers (2017)",
       "https://jeremyaboyd.com/post/validating-your-ideas-on-strangers"
-    ]
-  ],
-  [
-    [
-      "2025-10-24, 16:03:53",
-      "https://news.ycombinator.com/item?id=45695979"
-    ],
-    [
-      "Why I code as a CTO",
-      "https://www.assembled.com/blog/why-i-code-as-a-cto"
     ]
   ],
   [
@@ -237,6 +237,16 @@
     [
       "Wren: A classy little scripting language",
       "https://wren.io/"
+    ]
+  ],
+  [
+    [
+      "2025-10-22, 02:51:22",
+      "https://news.ycombinator.com/item?id=45664411"
+    ],
+    [
+      "Galaxy XR, the first Android XR headset",
+      "https://blog.google/products/android/samsung-galaxy-xr/"
     ]
   ],
   [
@@ -267,16 +277,6 @@
     [
       "Eavesdropping on Internal Networks via Unencrypted Satellites",
       "https://satcom.sysnet.ucsd.edu/"
-    ]
-  ],
-  [
-    [
-      "2025-10-20, 13:34:09",
-      "https://news.ycombinator.com/item?id=45643716"
-    ],
-    [
-      "Ask HN: Second generation of intro to software dev for 3rd graders",
-      "https://news.ycombinator.com/item?id=45643716"
     ]
   ],
   [
