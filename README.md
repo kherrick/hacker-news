@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-10-26, 08:34:38](https://news.ycombinator.com/item?id=45710065) - [Asbestosis](https://diamondgeezer.blogspot.com/2025/10/asbestosis.html)
 * [2025-10-26, 08:23:48](https://news.ycombinator.com/item?id=45710021) - [What If Tariffs?](https://www.swatch.com/en-en/what-if-tariffs-so34z106/SO34Z106.html)
 * [2025-10-26, 07:00:33](https://news.ycombinator.com/item?id=45709698) - [Bitmovin (YC S15) Is Hiring Engineering ICs and Managers in Europe](https://bitmovin.com/careers)
 * [2025-10-26, 03:19:08](https://news.ycombinator.com/item?id=45708884) - [Tsdown – The Elegant Bundler for Libraries](https://tsdown.dev/)
@@ -10,7 +11,6 @@
 * [2025-10-25, 23:04:23](https://news.ycombinator.com/item?id=45707658) - [The Linux Boot Process: From Power Button to Kernel](https://www.0xkato.xyz/linux-boot/)
 * [2025-10-25, 22:40:00](https://news.ycombinator.com/item?id=45707539) - [D2: Diagram Scripting Language](https://d2lang.com/tour/intro/)
 * [2025-10-25, 21:03:39](https://news.ycombinator.com/item?id=45706938) - [How programs get run: ELF binaries (2015)](https://lwn.net/Articles/631631/)
-* [2025-10-25, 21:01:02](https://news.ycombinator.com/item?id=45706924) - [An Efficient Implementation of SELF (1989) [pdf]](https://courses.cs.washington.edu/courses/cse501/15sp/papers/chambers.pdf)
 * [2025-10-25, 20:51:16](https://news.ycombinator.com/item?id=45706866) - [An Update on TinyKVM](https://fwsgonzo.medium.com/an-update-on-tinykvm-7a38518e57e9)
 * [2025-10-25, 20:38:58](https://news.ycombinator.com/item?id=45706792) - [Show HN: Diagram as code tool with draggable customizations](https://github.com/RohanAdwankar/oxdraw)
 * [2025-10-25, 20:35:48](https://news.ycombinator.com/item?id=45706765) - [Project Amplify: Powered footwear for running and walking](https://about.nike.com/en/newsroom/releases/nike-project-amplify-official-images)
