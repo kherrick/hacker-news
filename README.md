@@ -1,12 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-10-26, 19:00:07](https://news.ycombinator.com/item?id=45714348) - [Smartphones manipulate our emotions and trigger our reflexes](https://theconversation.com/smartphones-manipulate-our-emotions-and-trigger-our-reflexes-no-wonder-were-addicted-265014)
+* [2025-10-26, 18:57:31](https://news.ycombinator.com/item?id=45714324) - [Smart Beds Helped Them Sleep on a Cloud. Then the Cloud Crashed](https://www.nytimes.com/2025/10/24/business/amazon-aws-outage-eight-sleep-mattress.html)
 * [2025-10-26, 18:09:37](https://news.ycombinator.com/item?id=45713959) - [A Definition of AGI](https://arxiv.org/abs/2510.18212)
 * [2025-10-26, 17:53:22](https://news.ycombinator.com/item?id=45713835) - [Nvidia DGX Spark: When Benchmark Numbers Meet Production Reality](https://publish.obsidian.md/aixplore/Practical+Applications/dgx-lab-benchmarks-vs-reality-day-4)
 * [2025-10-26, 17:40:06](https://news.ycombinator.com/item?id=45713738) - [Alzheimer's disrupts circadian rhythms of plaque-clearing brain cells](https://medicine.washu.edu/news/alzheimers-disrupts-circadian-rhythms-of-plaque-clearing-brain-cells/)
 * [2025-10-26, 16:46:22](https://news.ycombinator.com/item?id=45713253) - [Making the Electron Microscope](https://www.asimov.press/p/electron-microscope)
 * [2025-10-26, 15:11:51](https://news.ycombinator.com/item?id=45712517) - [Myanmar military shuts down a major cybercrime center, detains over 2k people](https://apnews.com/article/scam-centers-cybercrime-myanmar-a2c9fda85187121e51bd0efdf29c81da)
-* [2025-10-26, 12:34:36](https://news.ycombinator.com/item?id=45711279) - [Let's Help NetBSD Cross the Finish Line Before 2025 Ends](https://mail-index.netbsd.org/netbsd-users/2025/10/26/msg033327.html)
 * [2025-10-26, 12:03:59](https://news.ycombinator.com/item?id=45711062) - [Formal Reasoning [pdf]](https://cs.ru.nl/~freek/courses/fr-2025/public/fr.pdf)
 * [2025-10-26, 10:53:37](https://news.ycombinator.com/item?id=45710721) - [You Already Have a Git Server](https://maurycyz.com/misc/easy_git/)
 * [2025-10-26, 09:31:47](https://news.ycombinator.com/item?id=45710366) - [Connect to a 1980s Atari BBS through the web](https://www.southernamis.com/ataribbsconnect)
