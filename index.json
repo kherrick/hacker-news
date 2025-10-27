@@ -1,12 +1,32 @@
 [
   [
     [
+      "2025-10-27, 23:41:32",
+      "https://news.ycombinator.com/item?id=45727664"
+    ],
+    [
+      "AI can code, but it can't build software",
+      "https://bytesauna.com/post/coding-vs-software-engineering"
+    ]
+  ],
+  [
+    [
       "2025-10-27, 23:28:13",
       "https://news.ycombinator.com/item?id=45727557"
     ],
     [
       "Iroh-Blobs",
       "https://www.iroh.computer/blog/iroh-blobs-0-95-new-features"
+    ]
+  ],
+  [
+    [
+      "2025-10-27, 22:35:00",
+      "https://news.ycombinator.com/item?id=45727137"
+    ],
+    [
+      "Are these real CVEs? VulDB entries for dnsmasq rely on replacing config files",
+      "https://seclists.org/oss-sec/2025/q4/79"
     ]
   ],
   [
@@ -37,16 +57,6 @@
     [
       "Why Nigeria accepted GMOs",
       "https://www.asimov.press/p/nigeria-crops"
-    ]
-  ],
-  [
-    [
-      "2025-10-27, 17:27:18",
-      "https://news.ycombinator.com/item?id=45723828"
-    ],
-    [
-      "Let the little guys in: A context sharing runtime for the personalised web",
-      "https://arjun.md/little-guys"
     ]
   ],
   [
@@ -247,16 +257,6 @@
     [
       "Image Dithering: Eleven Algorithms and Source Code (2012)",
       "https://tannerhelland.com/2012/12/28/dithering-eleven-algorithms-source-code.html"
-    ]
-  ],
-  [
-    [
-      "2025-10-23, 11:21:04",
-      "https://news.ycombinator.com/item?id=45680583"
-    ],
-    [
-      "Corrosion",
-      "https://fly.io/blog/corrosion/"
     ]
   ],
   [
