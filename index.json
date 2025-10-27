@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2025-10-27, 11:38:00",
+      "https://news.ycombinator.com/item?id=45719805"
+    ],
+    [
+      "Isomorphic JS/TS Functions Orchestrator",
+      "https://github.com/damianofalcioni/js-functions-orchestrator"
+    ]
+  ],
+  [
+    [
       "2025-10-27, 11:35:58",
       "https://news.ycombinator.com/item?id=45719788"
     ],
@@ -127,16 +137,6 @@
     [
       "Are-we-fast-yet implementations in Oberon, C++, C, Pascal, Micron and Luon",
       "https://github.com/rochus-keller/Are-we-fast-yet"
-    ]
-  ],
-  [
-    [
-      "2025-10-26, 21:05:09",
-      "https://news.ycombinator.com/item?id=45715204"
-    ],
-    [
-      "We saved $500k per year by rolling our own \"S3\"",
-      "https://engineering.nanit.com/how-we-saved-500-000-per-year-by-rolling-our-own-s3-6caec1ee1143"
     ]
   ],
   [
