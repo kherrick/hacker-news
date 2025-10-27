@@ -6,6 +6,7 @@
 
 * [2025-10-27, 12:00:30](https://news.ycombinator.com/item?id=45719996) - [Artifact (YC W25) is hiring engineers in NYC to build modern ECAD](https://news.ycombinator.com/item?id=45719996)
 * [2025-10-27, 11:39:44](https://news.ycombinator.com/item?id=45719820) - [Canada Set to Side with China on EVs](https://www.thewirechina.com/2025/10/26/canada-set-to-side-with-china-on-evs/)
+* [2025-10-27, 11:38:00](https://news.ycombinator.com/item?id=45719805) - [Isomorphic JS/TS Functions Orchestrator](https://github.com/damianofalcioni/js-functions-orchestrator)
 * [2025-10-27, 11:35:58](https://news.ycombinator.com/item?id=45719788) - [You Are How You Act](https://boz.com/articles/you-are-how-you-act)
 * [2025-10-27, 11:19:27](https://news.ycombinator.com/item?id=45719669) - [Microsoft's folds losses from OpenAI into $4.7B expense line – \"other\"](https://www.theverge.com/news/806880/microsofts-not-very-open-about-openai)
 * [2025-10-27, 11:19:27](https://news.ycombinator.com/item?id=45719669) - [Microsoft needs to open up more about its OpenAI dealings](https://www.wsj.com/tech/ai/microsoft-needs-to-open-up-more-about-its-openai-dealings-59102de8)
