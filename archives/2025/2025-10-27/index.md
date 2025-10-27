@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-10-27](index.md)
 
+* [2025-10-27, 08:28:43](https://news.ycombinator.com/item?id=45718546) - [If Your Adversary Is the Mossad (2014) [pdf]](https://www.usenix.org/system/files/1401_08-12_mickens.pdf)
 * [2025-10-27, 07:52:29](https://news.ycombinator.com/item?id=45718367) - [My Email to Tim Cook](https://substack.com/inbox/post/175351960)
 * [2025-10-27, 07:24:19](https://news.ycombinator.com/item?id=45718231) - [Recall for Linux](https://github.com/rolflobker/recall-for-linux)
 * [2025-10-27, 05:36:13](https://news.ycombinator.com/item?id=45717724) - [Show HN: Write Go code in JavaScript files](https://www.npmjs.com/package/vite-plugin-use-golang)

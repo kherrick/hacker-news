@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-10-27, 08:28:43](https://news.ycombinator.com/item?id=45718546) - [If Your Adversary Is the Mossad (2014) [pdf]](https://www.usenix.org/system/files/1401_08-12_mickens.pdf)
 * [2025-10-27, 07:24:19](https://news.ycombinator.com/item?id=45718231) - [Recall for Linux](https://github.com/rolflobker/recall-for-linux)
 * [2025-10-27, 05:36:13](https://news.ycombinator.com/item?id=45717724) - [Show HN: Write Go code in JavaScript files](https://www.npmjs.com/package/vite-plugin-use-golang)
 * [2025-10-27, 04:27:45](https://news.ycombinator.com/item?id=45717397) - [Structure and Interpretation of Classical Mechanics](https://tgvaughan.github.io/sicm/toc.html)
@@ -13,7 +14,6 @@
 * [2025-10-26, 18:09:37](https://news.ycombinator.com/item?id=45713959) - [A definition of AGI](https://arxiv.org/abs/2510.18212)
 * [2025-10-26, 16:57:44](https://news.ycombinator.com/item?id=45713367) - [Books by People – Defending Organic Literature in an AI World](https://booksbypeople.org/)
 * [2025-10-26, 16:57:12](https://news.ycombinator.com/item?id=45713359) - [Ken Thompson recalls Unix's rowdy, lock-picking origins](https://thenewstack.io/ken-thompson-recalls-unixs-rowdy-lock-picking-origins/)
-* [2025-10-26, 16:46:22](https://news.ycombinator.com/item?id=45713253) - [Making the Electron Microscope](https://www.asimov.press/p/electron-microscope)
 * [2025-10-26, 12:09:02](https://news.ycombinator.com/item?id=45711094) - [Feed the bots](https://maurycyz.com/misc/the_cost_of_trash/)
 * [2025-10-26, 10:53:37](https://news.ycombinator.com/item?id=45710721) - [You already have a Git server](https://maurycyz.com/misc/easy_git/)
 * [2025-10-26, 08:34:38](https://news.ycombinator.com/item?id=45710065) - [Asbestosis](https://diamondgeezer.blogspot.com/2025/10/asbestosis.html)
