@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-10-27, 17:27:18",
+      "https://news.ycombinator.com/item?id=45723828"
+    ],
+    [
+      "Let the little guys in: A context sharing runtime for the personalised web",
+      "https://arjun.md/little-guys"
+    ]
+  ],
+  [
+    [
       "2025-10-27, 17:09:05",
       "https://news.ycombinator.com/item?id=45723558"
     ],
@@ -211,32 +221,22 @@
   ],
   [
     [
-      "2025-10-27, 07:24:19",
-      "https://news.ycombinator.com/item?id=45718231"
+      "2025-10-27, 09:31:29",
+      "https://news.ycombinator.com/item?id=45718908"
     ],
     [
-      "Recall for Linux",
-      "https://github.com/rolflobker/recall-for-linux"
+      "WorldGrow: Generating Infinite 3D World",
+      "https://github.com/world-grow/WorldGrow"
     ]
   ],
   [
     [
-      "2025-10-27, 00:01:17",
-      "https://news.ycombinator.com/item?id=45716109"
+      "2025-10-27, 08:58:10",
+      "https://news.ycombinator.com/item?id=45718711"
     ],
     [
-      "How I turned Zig into my favorite language to write network programs in",
-      "https://lalinsky.com/2025/10/26/zio-async-io-for-zig.html"
-    ]
-  ],
-  [
-    [
-      "2025-10-26, 20:43:40",
-      "https://news.ycombinator.com/item?id=45715055"
-    ],
-    [
-      "Show HN: MyraOS – My 32-bit operating system in C and ASM (Hack Club project)",
-      "https://github.com/dvir-biton/MyraOS"
+      "The last European train that travels by sea",
+      "https://www.bbc.com/travel/article/20251024-the-last-european-train-that-travels-by-sea"
     ]
   ],
   [
@@ -281,22 +281,22 @@
   ],
   [
     [
-      "2025-10-22, 03:59:42",
-      "https://news.ycombinator.com/item?id=45664765"
-    ],
-    [
-      "Viral 'Free Potatoes' Post Cost This Farmer 150 Tons of Crops",
-      "https://www.vice.com/en/article/viral-free-potatoes-post-cost-this-farmer-150-tons-of-crops/"
-    ]
-  ],
-  [
-    [
       "2025-10-21, 06:20:38",
       "https://news.ycombinator.com/item?id=45652998"
     ],
     [
       "Geoutil.com – Measure distances, areas, and convert geo data in the browser",
       "https://geoutil.com"
+    ]
+  ],
+  [
+    [
+      "2025-10-21, 06:10:57",
+      "https://news.ycombinator.com/item?id=45652952"
+    ],
+    [
+      "Should LLMs just treat text content as an image?",
+      "https://www.seangoedecke.com/text-tokens-as-image-tokens/"
     ]
   ]
 ]
