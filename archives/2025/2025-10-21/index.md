@@ -76,6 +76,7 @@
 * [2025-10-21, 06:48:53](https://news.ycombinator.com/item?id=45653143) - [Language Support for Marginalia Search](https://www.marginalia.nu/log/a_126_multilingual/)
 * [2025-10-21, 06:20:38](https://news.ycombinator.com/item?id=45652998) - [Geoutil.com – Measure distances, areas, and convert geo data in the browser](https://geoutil.com)
 * [2025-10-21, 06:15:18](https://news.ycombinator.com/item?id=45652968) - [Linux disk I/O diagram (2024)](https://zenodo.org/records/15234151)
+* [2025-10-21, 06:10:57](https://news.ycombinator.com/item?id=45652952) - [Should LLMs just treat text content as an image?](https://www.seangoedecke.com/text-tokens-as-image-tokens/)
 * [2025-10-21, 05:47:39](https://news.ycombinator.com/item?id=45652859) - [Practical Scheme](https://practical-scheme.net/index.html#docs)
 * [2025-10-21, 05:41:39](https://news.ycombinator.com/item?id=45652821) - [Gleescript – Bundle Gleam-on-Erlang project into an executable file](https://github.com/lpil/gleescript)
 * [2025-10-21, 03:53:20](https://news.ycombinator.com/item?id=45652307) - [60k kids have avoided peanut allergies due to 2015 advice, study finds](https://www.cbsnews.com/news/peanut-allergies-60000-kids-avoided-2015-advice/)
