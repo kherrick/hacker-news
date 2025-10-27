@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-10-27, 05:01:37](https://news.ycombinator.com/item?id=45717564) - [Diphtheria, a Once Vanquished Killer of Children, Is Resurgent](https://www.nytimes.com/2025/10/27/health/diptheria-somalia-vaccines.html)
 * [2025-10-27, 03:46:44](https://news.ycombinator.com/item?id=45717238) - [We're in the Wrong Moment](https://ezrichards.github.io/posts/were-in-the-wrong-moment/)
 * [2025-10-27, 00:43:32](https://news.ycombinator.com/item?id=45716296) - [ICE Will Use AI to Surveil Social Media](https://jacobin.com/2025/10/ice-zignal-surveillance-social-media)
 * [2025-10-27, 00:01:17](https://news.ycombinator.com/item?id=45716109) - [How I turned Zig into my favorite language to write network programs in](https://lalinsky.com/2025/10/26/zio-async-io-for-zig.html)
@@ -10,7 +11,6 @@
 * [2025-10-26, 21:05:09](https://news.ycombinator.com/item?id=45715204) - [We Saved $500k per Year by Rolling Our Own \"S3\"](https://engineering.nanit.com/how-we-saved-500-000-per-year-by-rolling-our-own-s3-6caec1ee1143)
 * [2025-10-26, 20:43:40](https://news.ycombinator.com/item?id=45715055) - [Show HN: MyraOS – My 32-bit operating system in C and ASM (Hack Club project)](https://github.com/dvir-biton/MyraOS)
 * [2025-10-26, 18:09:37](https://news.ycombinator.com/item?id=45713959) - [A definition of AGI](https://arxiv.org/abs/2510.18212)
-* [2025-10-26, 17:40:06](https://news.ycombinator.com/item?id=45713738) - [Alzheimer's disrupts circadian rhythms of plaque-clearing brain cells](https://medicine.washu.edu/news/alzheimers-disrupts-circadian-rhythms-of-plaque-clearing-brain-cells/)
 * [2025-10-26, 16:57:44](https://news.ycombinator.com/item?id=45713367) - [Books by People – Defending Organic Literature in an AI World](https://booksbypeople.org/)
 * [2025-10-26, 16:57:12](https://news.ycombinator.com/item?id=45713359) - [Ken Thompson recalls Unix's rowdy, lock-picking origins](https://thenewstack.io/ken-thompson-recalls-unixs-rowdy-lock-picking-origins/)
 * [2025-10-26, 16:46:22](https://news.ycombinator.com/item?id=45713253) - [Making the Electron Microscope](https://www.asimov.press/p/electron-microscope)
