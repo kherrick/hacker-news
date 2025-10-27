@@ -25,10 +25,10 @@
 * [2025-10-27, 09:31:29](https://news.ycombinator.com/item?id=45718908) - [WorldGrow: Generating Infinite 3D World](https://github.com/world-grow/WorldGrow)
 * [2025-10-27, 08:28:43](https://news.ycombinator.com/item?id=45718546) - [This World of Ours (2014) [pdf]](https://www.usenix.org/system/files/1401_08-12_mickens.pdf)
 * [2025-10-27, 06:36:27](https://news.ycombinator.com/item?id=45718002) - [Stack walking: space and time trade-offs](https://maskray.me/blog/2025-10-26-stack-walking-space-and-time-trade-offs)
+* [2025-10-25, 10:43:30](https://news.ycombinator.com/item?id=45702761) - [Fingerprint Formation (2004) [pdf]](https://math.arizona.edu/~anewell/publications/Fingerprint_Formation.pdf)
 * [2025-10-25, 08:41:59](https://news.ycombinator.com/item?id=45702274) - [Gitworkshop.dev – Collaborate on code over Nostr](https://gitworkshop.dev/)
 * [2025-10-25, 07:07:59](https://news.ycombinator.com/item?id=45701901) - [Simplify Your Code: Functional Core, Imperative Shell](https://testing.googleblog.com/2025/10/simplify-your-code-functional-core.html)
 * [2025-10-21, 17:17:02](https://news.ycombinator.com/item?id=45658461) - [Solving Regex Crosswords with Z3](https://blog.nelhage.com/post/regex-crosswords-z3/)
-* [2025-10-21, 06:10:57](https://news.ycombinator.com/item?id=45652952) - [Should LLMs just treat text content as an image?](https://www.seangoedecke.com/text-tokens-as-image-tokens/)
 * [2025-10-19, 02:44:44](https://news.ycombinator.com/item?id=45631753) - [Computer Assisted Biologically Augmented Lifeform](https://cnc.fandom.com/wiki/Computer_Assisted_Biologically_Augmented_Lifeform)
 
 ## [Archives](archives/index.md)

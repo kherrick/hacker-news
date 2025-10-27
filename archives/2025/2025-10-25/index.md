@@ -48,6 +48,7 @@
 * [2025-10-25, 13:01:39](https://news.ycombinator.com/item?id=45703556) - [Making a micro Linux distro (2023)](https://popovicu.com/posts/making-a-micro-linux-distro/)
 * [2025-10-25, 12:01:44](https://news.ycombinator.com/item?id=45703196) - [Show HN: Chonky – a neural text semantic chunking goes multilingual](https://huggingface.co/mirth/chonky_mmbert_small_multilingual_1)
 * [2025-10-25, 11:05:41](https://news.ycombinator.com/item?id=45702877) - [The Great SaaS Gaslight](https://unworkableideas.com/the-great-saas-lighting-how-it-users-got-gaslit/)
+* [2025-10-25, 10:43:30](https://news.ycombinator.com/item?id=45702761) - [Fingerprint Formation (2004) [pdf]](https://math.arizona.edu/~anewell/publications/Fingerprint_Formation.pdf)
 * [2025-10-25, 10:36:35](https://news.ycombinator.com/item?id=45702736) - [The Missing Semester of Your CS Education (2020)](https://missing.csail.mit.edu/)
 * [2025-10-25, 09:55:09](https://news.ycombinator.com/item?id=45702601) - [File system design philosophy](https://deyaa1251.github.io/deyaa1251/posts/b_tree/)
 * [2025-10-25, 09:43:54](https://news.ycombinator.com/item?id=45702558) - [React vs. Backbone in 2025](https://backbonenotbad.hyperclay.com/)
