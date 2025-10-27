@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-10-27](index.md)
 
 * [2025-10-27, 20:57:12](https://news.ycombinator.com/item?id=45726192) - [Easy RISC-V: An interactive introduction to RISC-V assembly programming](https://dramforever.github.io/easyriscv/)
+* [2025-10-27, 20:52:08](https://news.ycombinator.com/item?id=45726137) - [The PSF has withdrawn a $1.5M proposal to US Government grant program](https://simonwillison.net/2025/Oct/27/psf-withdrawn-proposal/)
 * [2025-10-27, 19:06:34](https://news.ycombinator.com/item?id=45725009) - [Study finds growing social circles may fuel polarization](https://phys.org/news/2025-10-friends-division-social-circles-fuel.html)
 * [2025-10-27, 18:57:57](https://news.ycombinator.com/item?id=45724913) - [Creating an All-Weather Driver](https://waymo.com/blog/2025/10/creating-an-all-weather-driver)
 * [2025-10-27, 17:51:16](https://news.ycombinator.com/item?id=45724159) - [Carl Bohland's Auto Wash Bowl (2019)](https://www.vintag.es/2019/12/the-auto-wash-bowl.html)
