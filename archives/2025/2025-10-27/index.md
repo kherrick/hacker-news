@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2025-10-27](index.md)
 
+* [2025-10-27, 08:58:10](https://news.ycombinator.com/item?id=45718711) - [The last European train that travels by sea](https://www.bbc.com/travel/article/20251024-the-last-european-train-that-travels-by-sea)
+* [2025-10-27, 08:50:10](https://news.ycombinator.com/item?id=45718665) - [What Happened to Running What You Wanted on Your Own Machine?](https://hackaday.com/2025/10/22/what-happened-to-running-what-you-wanted-on-your-own-machine/)
 * [2025-10-27, 08:28:43](https://news.ycombinator.com/item?id=45718546) - [If Your Adversary Is the Mossad (2014) [pdf]](https://www.usenix.org/system/files/1401_08-12_mickens.pdf)
+* [2025-10-27, 08:17:52](https://news.ycombinator.com/item?id=45718490) - [Why JPEG XL Ignoring Bit Depth Is Genius (and Why AVIF Can't Pull It Off)](https://www.fractionalxperience.com/ux-ui-graphic-design-blog/why-jpeg-xl-ignoring-bit-depth-is-genius)
 * [2025-10-27, 07:52:29](https://news.ycombinator.com/item?id=45718367) - [My Email to Tim Cook](https://substack.com/inbox/post/175351960)
 * [2025-10-27, 07:24:19](https://news.ycombinator.com/item?id=45718231) - [Recall for Linux](https://github.com/rolflobker/recall-for-linux)
 * [2025-10-27, 05:36:13](https://news.ycombinator.com/item?id=45717724) - [Show HN: Write Go code in JavaScript files](https://www.npmjs.com/package/vite-plugin-use-golang)
