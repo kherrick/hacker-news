@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-10-27, 20:57:12](https://news.ycombinator.com/item?id=45726192) - [Easy RISC-V: An interactive introduction to RISC-V assembly programming](https://dramforever.github.io/easyriscv/)
-* [2025-10-27, 20:52:08](https://news.ycombinator.com/item?id=45726137) - [The PSF has withdrawn a $1.5M proposal to US Government grant program](https://simonwillison.net/2025/Oct/27/psf-withdrawn-proposal/)
 * [2025-10-27, 19:06:34](https://news.ycombinator.com/item?id=45725009) - [Study finds growing social circles may fuel polarization](https://phys.org/news/2025-10-friends-division-social-circles-fuel.html)
 * [2025-10-27, 17:42:23](https://news.ycombinator.com/item?id=45724045) - [Why Nigeria accepted GMOs](https://www.asimov.press/p/nigeria-crops)
 * [2025-10-27, 17:27:18](https://news.ycombinator.com/item?id=45723828) - [Let the little guys in: A context sharing runtime for the personalised web](https://arjun.md/little-guys)
@@ -17,6 +16,7 @@
 * [2025-10-27, 16:29:38](https://news.ycombinator.com/item?id=45722931) - [fnox, a secret manager that pairs well with mise](https://github.com/jdx/mise/discussions/6779)
 * [2025-10-27, 16:09:22](https://news.ycombinator.com/item?id=45722639) - [Claude for Excel](https://www.claude.com/claude-for-excel)
 * [2025-10-27, 16:08:58](https://news.ycombinator.com/item?id=45722635) - [Show HN: Erdos – open-source, AI data science IDE](https://www.lotas.ai/erdos)
+* [2025-10-27, 15:12:08](https://news.ycombinator.com/item?id=45721904) - [PSF has withdrawn $1.5M proposal to US Government grant program](https://pyfound.blogspot.com/2025/10/NSF-funding-statement.html)
 * [2025-10-27, 15:04:05](https://news.ycombinator.com/item?id=45721801) - [Pyrex catalog from from 1938 with hand-drawn lab glassware [pdf]](https://exhibitdb.cmog.org/opacimages/Images/Pyrex/Rakow_1000132877.pdf)
 * [2025-10-27, 14:19:30](https://news.ycombinator.com/item?id=45721302) - [When 'perfect' code fails](https://marma.dev/articles/2025/when-perfect-code-fails)
 * [2025-10-27, 12:42:42](https://news.ycombinator.com/item?id=45720376) - [10M people watched a YouTuber shim a lock; the lock company sued him – bad idea](https://arstechnica.com/tech-policy/2025/10/suing-a-popular-youtuber-who-shimmed-a-130-lock-what-could-possibly-go-wrong/)
@@ -24,12 +24,12 @@
 * [2025-10-27, 09:44:18](https://news.ycombinator.com/item?id=45719004) - [Rust cross-platform GPUI components](https://github.com/longbridge/gpui-component)
 * [2025-10-27, 08:58:10](https://news.ycombinator.com/item?id=45718711) - [The last European train that travels by sea](https://www.bbc.com/travel/article/20251024-the-last-european-train-that-travels-by-sea)
 * [2025-10-26, 22:19:02](https://news.ycombinator.com/item?id=45715632) - [TOON – Token Oriented Object Notation](https://github.com/johannschopplich/toon)
-* [2025-10-25, 08:41:59](https://news.ycombinator.com/item?id=45702274) - [Gitworkshop.dev – Collaborate on code over Nostr](https://gitworkshop.dev/)
 * [2025-10-25, 07:07:59](https://news.ycombinator.com/item?id=45701901) - [Simplify Your Code: Functional Core, Imperative Shell](https://testing.googleblog.com/2025/10/simplify-your-code-functional-core.html)
 * [2025-10-24, 19:38:44](https://news.ycombinator.com/item?id=45698323) - [Image Dithering: Eleven Algorithms and Source Code (2012)](https://tannerhelland.com/2012/12/28/dithering-eleven-algorithms-source-code.html)
 * [2025-10-23, 01:38:48](https://news.ycombinator.com/item?id=45677253) - [Eight Million Copies of Moby-Dick (2014)](https://thevoltablog.wordpress.com/2014/01/27/nicolas-mugaveros-eight-million-copies-of-moby-dick-or-the-whale/)
 * [2025-10-21, 17:17:02](https://news.ycombinator.com/item?id=45658461) - [Solving regex crosswords with Z3](https://blog.nelhage.com/post/regex-crosswords-z3/)
 * [2025-10-21, 06:10:57](https://news.ycombinator.com/item?id=45652952) - [Should LLMs just treat text content as an image?](https://www.seangoedecke.com/text-tokens-as-image-tokens/)
+* [2025-10-20, 14:04:53](https://news.ycombinator.com/item?id=45644066) - [Go beyond Goroutines: introducing the Reactive paradigm](https://samuelberthe.substack.com/p/go-beyond-goroutines-introducing)
 
 ## [Archives](archives/index.md)
 

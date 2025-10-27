@@ -44,6 +44,7 @@
 * [2025-10-20, 14:31:16](https://news.ycombinator.com/item?id=45644328) - [BERT Is Just a Single Text Diffusion Step](https://nathan.rs/posts/roberta-diffusion/)
 * [2025-10-20, 14:27:17](https://news.ycombinator.com/item?id=45644276) - [How Soon Will the Seas Rise?](https://www.quantamagazine.org/how-soon-will-the-seas-rise-20251020/)
 * [2025-10-20, 14:20:50](https://news.ycombinator.com/item?id=45644205) - [\"COBOL supports close to 90% of Fortune 500 business systems today.\"](https://cobolcowboys.com/cobol-today/)
+* [2025-10-20, 14:04:53](https://news.ycombinator.com/item?id=45644066) - [Go beyond Goroutines: introducing the Reactive paradigm](https://samuelberthe.substack.com/p/go-beyond-goroutines-introducing)
 * [2025-10-20, 13:54:38](https://news.ycombinator.com/item?id=45643976) - [Modeling Others' Minds as Code](https://arxiv.org/abs/2510.01272)
 * [2025-10-20, 13:34:09](https://news.ycombinator.com/item?id=45643716) - [Ask HN: Second generation of intro to software dev for 3rd graders](https://news.ycombinator.com/item?id=45643716)
 * [2025-10-20, 13:14:58](https://news.ycombinator.com/item?id=45643526) - [Rethinking Async Loops in JavaScript](https://allthingssmitty.com/2025/10/20/rethinking-async-loops-in-javascript/)
