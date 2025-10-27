@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2025-10-27, 20:52:08",
-      "https://news.ycombinator.com/item?id=45726137"
-    ],
-    [
-      "The PSF has withdrawn a $1.5M proposal to US Government grant program",
-      "https://simonwillison.net/2025/Oct/27/psf-withdrawn-proposal/"
-    ]
-  ],
-  [
-    [
       "2025-10-27, 19:06:34",
       "https://news.ycombinator.com/item?id=45725009"
     ],
@@ -171,6 +161,16 @@
   ],
   [
     [
+      "2025-10-27, 15:12:08",
+      "https://news.ycombinator.com/item?id=45721904"
+    ],
+    [
+      "PSF has withdrawn $1.5M proposal to US Government grant program",
+      "https://pyfound.blogspot.com/2025/10/NSF-funding-statement.html"
+    ]
+  ],
+  [
+    [
       "2025-10-27, 15:04:05",
       "https://news.ycombinator.com/item?id=45721801"
     ],
@@ -241,16 +241,6 @@
   ],
   [
     [
-      "2025-10-25, 08:41:59",
-      "https://news.ycombinator.com/item?id=45702274"
-    ],
-    [
-      "Gitworkshop.dev – Collaborate on code over Nostr",
-      "https://gitworkshop.dev/"
-    ]
-  ],
-  [
-    [
       "2025-10-25, 07:07:59",
       "https://news.ycombinator.com/item?id=45701901"
     ],
@@ -297,6 +287,16 @@
     [
       "Should LLMs just treat text content as an image?",
       "https://www.seangoedecke.com/text-tokens-as-image-tokens/"
+    ]
+  ],
+  [
+    [
+      "2025-10-20, 14:04:53",
+      "https://news.ycombinator.com/item?id=45644066"
+    ],
+    [
+      "Go beyond Goroutines: introducing the Reactive paradigm",
+      "https://samuelberthe.substack.com/p/go-beyond-goroutines-introducing"
     ]
   ]
 ]
