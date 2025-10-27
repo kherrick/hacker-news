@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-10-27, 09:44:18](https://news.ycombinator.com/item?id=45719004) - [Rust cross-platform GPUI components](https://github.com/longbridge/gpui-component)
+* [2025-10-27, 09:31:29](https://news.ycombinator.com/item?id=45718908) - [WorldGrow: Generating Infinite 3D World](https://github.com/world-grow/WorldGrow)
 * [2025-10-27, 08:58:10](https://news.ycombinator.com/item?id=45718711) - [The last European train that travels by sea](https://www.bbc.com/travel/article/20251024-the-last-european-train-that-travels-by-sea)
 * [2025-10-27, 08:50:10](https://news.ycombinator.com/item?id=45718665) - [What Happened to Running What You Wanted on Your Own Machine?](https://hackaday.com/2025/10/22/what-happened-to-running-what-you-wanted-on-your-own-machine/)
 * [2025-10-27, 08:28:43](https://news.ycombinator.com/item?id=45718546) - [If Your Adversary Is the Mossad (2014) [pdf]](https://www.usenix.org/system/files/1401_08-12_mickens.pdf)
@@ -14,7 +16,6 @@
 * [2025-10-26, 21:05:09](https://news.ycombinator.com/item?id=45715204) - [We Saved $500k per Year by Rolling Our Own \"S3\"](https://engineering.nanit.com/how-we-saved-500-000-per-year-by-rolling-our-own-s3-6caec1ee1143)
 * [2025-10-26, 20:43:40](https://news.ycombinator.com/item?id=45715055) - [Show HN: MyraOS – My 32-bit operating system in C and ASM (Hack Club project)](https://github.com/dvir-biton/MyraOS)
 * [2025-10-26, 18:09:37](https://news.ycombinator.com/item?id=45713959) - [A definition of AGI](https://arxiv.org/abs/2510.18212)
-* [2025-10-26, 16:57:44](https://news.ycombinator.com/item?id=45713367) - [Books by People – Defending Organic Literature in an AI World](https://booksbypeople.org/)
 * [2025-10-26, 16:57:12](https://news.ycombinator.com/item?id=45713359) - [Ken Thompson recalls Unix's rowdy, lock-picking origins](https://thenewstack.io/ken-thompson-recalls-unixs-rowdy-lock-picking-origins/)
 * [2025-10-26, 12:09:02](https://news.ycombinator.com/item?id=45711094) - [Feed the bots](https://maurycyz.com/misc/the_cost_of_trash/)
 * [2025-10-26, 10:53:37](https://news.ycombinator.com/item?id=45710721) - [You already have a Git server](https://maurycyz.com/misc/easy_git/)
@@ -28,7 +29,6 @@
 * [2025-10-21, 06:20:38](https://news.ycombinator.com/item?id=45652998) - [Geoutil.com – Measure distances, areas, and convert geo data in the browser](https://geoutil.com)
 * [2025-10-21, 03:39:21](https://news.ycombinator.com/item?id=45652218) - [NORAD’s Cheyenne Mountain Combat Center, c.1966](https://flashbak.com/norad-cheyenne-mountain-combat-center-478804/)
 * [2025-10-20, 22:21:59](https://news.ycombinator.com/item?id=45650167) - [Eavesdropping on Internal Networks via Unencrypted Satellites](https://satcom.sysnet.ucsd.edu/)
-* [2025-10-20, 21:57:32](https://news.ycombinator.com/item?id=45649948) - [A Looking Glass Half Empty, Part 2: A Series of Unfortunate Events](https://www.filfre.net/2025/10/a-looking-glass-half-empty-part-2-a-series-of-unfortunate-events/)
 * [2025-10-20, 01:27:29](https://news.ycombinator.com/item?id=45639476) - [Researchers demonstrate centimetre-level positioning using smartwatches](https://www.otago.ac.nz/news/newsroom/researchers-demonstrate-centimetre-level-positioning-using-smartwatches)
 
 ## [Archives](archives/index.md)
