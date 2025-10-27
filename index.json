@@ -1,12 +1,42 @@
 [
   [
     [
+      "2025-10-27, 00:43:32",
+      "https://news.ycombinator.com/item?id=45716296"
+    ],
+    [
+      "ICE Will Use AI to Surveil Social Media",
+      "https://jacobin.com/2025/10/ice-zignal-surveillance-social-media"
+    ]
+  ],
+  [
+    [
+      "2025-10-27, 00:01:17",
+      "https://news.ycombinator.com/item?id=45716109"
+    ],
+    [
+      "How I turned Zig into my favorite language to write network programs in",
+      "https://lalinsky.com/2025/10/26/zio-async-io-for-zig.html"
+    ]
+  ],
+  [
+    [
       "2025-10-26, 23:08:09",
       "https://news.ycombinator.com/item?id=45715873"
     ],
     [
-      "Are-we-fast-yet: Benchmark suite in Oberon, C++, C, Pascal, Micron and Luon",
+      "Are-we-fast-yet implementations in Oberon, C++, C, Pascal, Micron and Luon",
       "https://github.com/rochus-keller/Are-we-fast-yet"
+    ]
+  ],
+  [
+    [
+      "2025-10-26, 22:58:31",
+      "https://news.ycombinator.com/item?id=45715837"
+    ],
+    [
+      "Microsoft 365 Copilot – Arbitrary Data Exfiltration via Mermaid Diagrams",
+      "https://www.adamlogue.com/microsoft-365-copilot-arbitrary-data-exfiltration-via-mermaid-diagrams-fixed/"
     ]
   ],
   [
@@ -41,12 +71,12 @@
   ],
   [
     [
-      "2025-10-26, 22:34:25",
-      "https://news.ycombinator.com/item?id=45715714"
+      "2025-10-26, 21:05:09",
+      "https://news.ycombinator.com/item?id=45715204"
     ],
     [
-      "The Apple Network Server Mac OS ROMs have resurfaced",
-      "http://oldvcr.blogspot.com/2025/10/the-apple-network-server-macos-roms.html"
+      "We Saved $500k per Year by Rolling Our Own \"S3\"",
+      "https://engineering.nanit.com/how-we-saved-500-000-per-year-by-rolling-our-own-s3-6caec1ee1143"
     ]
   ],
   [
@@ -161,62 +191,12 @@
   ],
   [
     [
-      "2025-10-26, 08:19:48",
-      "https://news.ycombinator.com/item?id=45710006"
-    ],
-    [
-      "Advent of Code 2025: Number of puzzles reduce from 25 to 12 for the first time",
-      "https://adventofcode.com/2025/about#faq_num_days"
-    ]
-  ],
-  [
-    [
-      "2025-10-26, 08:15:48",
-      "https://news.ycombinator.com/item?id=45709988"
-    ],
-    [
-      "Clojure Land – Discover open-source Clojure libraries and frameworks",
-      "https://clojure.land/"
-    ]
-  ],
-  [
-    [
-      "2025-10-26, 07:34:30",
-      "https://news.ycombinator.com/item?id=45709819"
-    ],
-    [
-      "Writing a RISC-V Emulator in Rust",
-      "https://book.rvemu.app/"
-    ]
-  ],
-  [
-    [
       "2025-10-26, 02:01:17",
       "https://news.ycombinator.com/item?id=45708524"
     ],
     [
       "Pico-Banana-400k",
       "https://github.com/apple/pico-banana-400k"
-    ]
-  ],
-  [
-    [
-      "2025-10-25, 23:04:23",
-      "https://news.ycombinator.com/item?id=45707658"
-    ],
-    [
-      "The Linux Boot Process: From Power Button to Kernel",
-      "https://www.0xkato.xyz/linux-boot/"
-    ]
-  ],
-  [
-    [
-      "2025-10-25, 07:27:07",
-      "https://news.ycombinator.com/item?id=45701980"
-    ],
-    [
-      "Why your social.org files can have millions of lines without performance issues",
-      "https://en.andros.dev/blog/4e12225f/why-your-socialorg-files-can-have-millions-of-lines-without-any-performance-issues/"
     ]
   ],
   [
@@ -237,6 +217,26 @@
     [
       "A bug that taught me more about PyTorch than years of using it",
       "https://elanapearl.github.io/blog/2025/the-bug-that-taught-me-pytorch/"
+    ]
+  ],
+  [
+    [
+      "2025-10-23, 16:09:27",
+      "https://news.ycombinator.com/item?id=45683536"
+    ],
+    [
+      "Sphere Computer – The Innovative 1970s Computer Company Everyone Forgot",
+      "https://sphere.computer/"
+    ]
+  ],
+  [
+    [
+      "2025-10-22, 17:45:21",
+      "https://news.ycombinator.com/item?id=45672615"
+    ],
+    [
+      "Sandhill cranes have adopted a Canada gosling",
+      "https://www.smithsonianmag.com/science-nature/these-sandhill-cranes-have-adopted-a-canadian-gosling-and-birders-have-flocked-to-watch-the-strange-family-180986828/"
     ]
   ],
   [
