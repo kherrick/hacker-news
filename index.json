@@ -111,16 +111,6 @@
   ],
   [
     [
-      "2025-10-27, 11:38:00",
-      "https://news.ycombinator.com/item?id=45719805"
-    ],
-    [
-      "Isomorphic JS/TS Functions Orchestrator",
-      "https://github.com/damianofalcioni/js-functions-orchestrator"
-    ]
-  ],
-  [
-    [
       "2025-10-27, 11:35:58",
       "https://news.ycombinator.com/item?id=45719788"
     ],
@@ -221,6 +211,16 @@
   ],
   [
     [
+      "2025-10-26, 16:57:12",
+      "https://news.ycombinator.com/item?id=45713359"
+    ],
+    [
+      "Ken Thompson recalls Unix's rowdy, lock-picking origins",
+      "https://thenewstack.io/ken-thompson-recalls-unixs-rowdy-lock-picking-origins/"
+    ]
+  ],
+  [
+    [
       "2025-10-24, 12:17:48",
       "https://news.ycombinator.com/item?id=45693871"
     ],
@@ -271,6 +271,16 @@
   ],
   [
     [
+      "2025-10-22, 06:41:09",
+      "https://news.ycombinator.com/item?id=45665617"
+    ],
+    [
+      "Enchanting Imposters",
+      "https://daily.jstor.org/enchanting-imposters/"
+    ]
+  ],
+  [
+    [
       "2025-10-22, 03:59:42",
       "https://news.ycombinator.com/item?id=45664765"
     ],
@@ -287,16 +297,6 @@
     [
       "Geoutil.com – Measure distances, areas, and convert geo data in the browser",
       "https://geoutil.com"
-    ]
-  ],
-  [
-    [
-      "2025-10-21, 06:10:57",
-      "https://news.ycombinator.com/item?id=45652952"
-    ],
-    [
-      "Should LLMs just treat text content as an image?",
-      "https://www.seangoedecke.com/text-tokens-as-image-tokens/"
     ]
   ]
 ]
