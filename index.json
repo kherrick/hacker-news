@@ -1,12 +1,32 @@
 [
   [
     [
+      "2025-10-27, 12:39:52",
+      "https://news.ycombinator.com/item?id=45720345"
+    ],
+    [
+      "Pre-emptive Z80 multitasking explainer",
+      "https://github.com/bchiha/Ready-Z80/tree/main/29-Multitasking"
+    ]
+  ],
+  [
+    [
       "2025-10-27, 12:00:30",
       "https://news.ycombinator.com/item?id=45719996"
     ],
     [
       "Artifact (YC W25) is hiring engineers in NYC to build modern ECAD",
       "https://news.ycombinator.com/item?id=45719996"
+    ]
+  ],
+  [
+    [
+      "2025-10-27, 11:53:22",
+      "https://news.ycombinator.com/item?id=45719927"
+    ],
+    [
+      "Amazon strategised about keeping water use secret",
+      "https://www.source-material.org/amazon-leak-reveals-true-data-centres-water-usage-secret-plan/"
     ]
   ],
   [
@@ -171,32 +191,12 @@
   ],
   [
     [
-      "2025-10-26, 12:09:02",
-      "https://news.ycombinator.com/item?id=45711094"
-    ],
-    [
-      "Feed the bots",
-      "https://maurycyz.com/misc/the_cost_of_trash/"
-    ]
-  ],
-  [
-    [
       "2025-10-26, 10:53:37",
       "https://news.ycombinator.com/item?id=45710721"
     ],
     [
       "You already have a Git server",
       "https://maurycyz.com/misc/easy_git/"
-    ]
-  ],
-  [
-    [
-      "2025-10-23, 17:21:41",
-      "https://news.ycombinator.com/item?id=45684414"
-    ],
-    [
-      "Tamper-Sensing Meshes Using Low-Cost, Embedded Time-Domain Reflectometry",
-      "https://jaseg.de/blog/paper-sampling-mesh-monitor/"
     ]
   ],
   [
