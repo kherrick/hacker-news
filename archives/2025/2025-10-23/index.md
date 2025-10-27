@@ -34,6 +34,7 @@
 * [2025-10-23, 16:56:07](https://news.ycombinator.com/item?id=45684134) - [Claude Memory](https://www.anthropic.com/news/memory)
 * [2025-10-23, 16:46:57](https://news.ycombinator.com/item?id=45684035) - [MinIO declines to release Docker builds resolving CVE-2025-62506](https://github.com/minio/minio/issues/21647)
 * [2025-10-23, 16:36:05](https://news.ycombinator.com/item?id=45683897) - [Antislop: A Framework for Eliminating Repetitive Patterns in Language Models](https://arxiv.org/abs/2510.15061)
+* [2025-10-23, 16:09:27](https://news.ycombinator.com/item?id=45683536) - [Sphere Computer – The Innovative 1970s Computer Company Everyone Forgot](https://sphere.computer/)
 * [2025-10-23, 15:41:54](https://news.ycombinator.com/item?id=45683153) - [VectorWare – from creators of `rust-GPU` and `rust-CUDA`](https://www.vectorware.com/blog/announcing-vectorware/)
 * [2025-10-23, 15:41:48](https://news.ycombinator.com/item?id=45683152) - [Trump pardons convicted Binance founder](https://www.wsj.com/finance/currencies/trump-pardons-convicted-binance-founder-7509bd63)
 * [2025-10-23, 15:39:10](https://news.ycombinator.com/item?id=45683113) - [Reasoning Is Not Model Improvement](https://manidoraisamy.com/reasoning-not-ai.html)
