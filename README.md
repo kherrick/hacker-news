@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-10-27, 05:01:37](https://news.ycombinator.com/item?id=45717564) - [Diphtheria, a Once Vanquished Killer of Children, Is Resurgent](https://www.nytimes.com/2025/10/27/health/diptheria-somalia-vaccines.html)
-* [2025-10-27, 03:46:44](https://news.ycombinator.com/item?id=45717238) - [We're in the Wrong Moment](https://ezrichards.github.io/posts/were-in-the-wrong-moment/)
+* [2025-10-27, 05:01:37](https://news.ycombinator.com/item?id=45717564) - [Diphtheria, a once vanquished killer of children, is resurgent](https://www.nytimes.com/2025/10/27/health/diptheria-somalia-vaccines.html)
+* [2025-10-27, 03:46:44](https://news.ycombinator.com/item?id=45717238) - [We're in the wrong moment](https://ezrichards.github.io/posts/were-in-the-wrong-moment/)
 * [2025-10-27, 00:43:32](https://news.ycombinator.com/item?id=45716296) - [ICE Will Use AI to Surveil Social Media](https://jacobin.com/2025/10/ice-zignal-surveillance-social-media)
 * [2025-10-27, 00:01:17](https://news.ycombinator.com/item?id=45716109) - [How I turned Zig into my favorite language to write network programs in](https://lalinsky.com/2025/10/26/zio-async-io-for-zig.html)
 * [2025-10-26, 23:08:09](https://news.ycombinator.com/item?id=45715873) - [Are-we-fast-yet implementations in Oberon, C++, C, Pascal, Micron and Luon](https://github.com/rochus-keller/Are-we-fast-yet)
