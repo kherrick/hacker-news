@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-10-27](index.md)
 
+* [2025-10-27, 12:39:52](https://news.ycombinator.com/item?id=45720345) - [Pre-emptive Z80 multitasking explainer](https://github.com/bchiha/Ready-Z80/tree/main/29-Multitasking)
 * [2025-10-27, 12:00:30](https://news.ycombinator.com/item?id=45719996) - [Artifact (YC W25) is hiring engineers in NYC to build modern ECAD](https://news.ycombinator.com/item?id=45719996)
+* [2025-10-27, 11:53:22](https://news.ycombinator.com/item?id=45719927) - [Amazon strategised about keeping water use secret](https://www.source-material.org/amazon-leak-reveals-true-data-centres-water-usage-secret-plan/)
 * [2025-10-27, 11:39:44](https://news.ycombinator.com/item?id=45719820) - [Canada Set to Side with China on EVs](https://www.thewirechina.com/2025/10/26/canada-set-to-side-with-china-on-evs/)
 * [2025-10-27, 11:38:00](https://news.ycombinator.com/item?id=45719805) - [Isomorphic JS/TS Functions Orchestrator](https://github.com/damianofalcioni/js-functions-orchestrator)
 * [2025-10-27, 11:35:58](https://news.ycombinator.com/item?id=45719788) - [You Are How You Act](https://boz.com/articles/you-are-how-you-act)

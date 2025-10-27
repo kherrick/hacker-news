@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-10-27, 12:39:52](https://news.ycombinator.com/item?id=45720345) - [Pre-emptive Z80 multitasking explainer](https://github.com/bchiha/Ready-Z80/tree/main/29-Multitasking)
 * [2025-10-27, 12:00:30](https://news.ycombinator.com/item?id=45719996) - [Artifact (YC W25) is hiring engineers in NYC to build modern ECAD](https://news.ycombinator.com/item?id=45719996)
+* [2025-10-27, 11:53:22](https://news.ycombinator.com/item?id=45719927) - [Amazon strategised about keeping water use secret](https://www.source-material.org/amazon-leak-reveals-true-data-centres-water-usage-secret-plan/)
 * [2025-10-27, 11:38:00](https://news.ycombinator.com/item?id=45719805) - [Isomorphic JS/TS Functions Orchestrator](https://github.com/damianofalcioni/js-functions-orchestrator)
 * [2025-10-27, 11:35:58](https://news.ycombinator.com/item?id=45719788) - [You are how you act](https://boz.com/articles/you-are-how-you-act)
 * [2025-10-27, 11:19:27](https://news.ycombinator.com/item?id=45719669) - [Microsoft needs to open up more about its OpenAI dealings](https://www.wsj.com/tech/ai/microsoft-needs-to-open-up-more-about-its-openai-dealings-59102de8)
@@ -17,9 +19,7 @@
 * [2025-10-26, 20:43:40](https://news.ycombinator.com/item?id=45715055) - [Show HN: MyraOS – My 32-bit operating system in C and ASM (Hack Club project)](https://github.com/dvir-biton/MyraOS)
 * [2025-10-26, 18:09:37](https://news.ycombinator.com/item?id=45713959) - [A definition of AGI](https://arxiv.org/abs/2510.18212)
 * [2025-10-26, 16:57:12](https://news.ycombinator.com/item?id=45713359) - [Ken Thompson recalls Unix's rowdy, lock-picking origins](https://thenewstack.io/ken-thompson-recalls-unixs-rowdy-lock-picking-origins/)
-* [2025-10-26, 12:09:02](https://news.ycombinator.com/item?id=45711094) - [Feed the bots](https://maurycyz.com/misc/the_cost_of_trash/)
 * [2025-10-26, 10:53:37](https://news.ycombinator.com/item?id=45710721) - [You already have a Git server](https://maurycyz.com/misc/easy_git/)
-* [2025-10-23, 17:21:41](https://news.ycombinator.com/item?id=45684414) - [Tamper-Sensing Meshes Using Low-Cost, Embedded Time-Domain Reflectometry](https://jaseg.de/blog/paper-sampling-mesh-monitor/)
 * [2025-10-23, 17:06:35](https://news.ycombinator.com/item?id=45684253) - [A bug that taught me more about PyTorch than years of using it](https://elanapearl.github.io/blog/2025/the-bug-that-taught-me-pytorch/)
 * [2025-10-23, 16:16:35](https://news.ycombinator.com/item?id=45683643) - [Unexpected patterns in historical astronomical observations](https://www.su.se/english/news/unexpected-patterns-in-historical-astronomical-observations-1.855042)
 * [2025-10-23, 16:09:27](https://news.ycombinator.com/item?id=45683536) - [Sphere Computer – The Innovative 1970s Computer Company Everyone Forgot](https://sphere.computer/)
