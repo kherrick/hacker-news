@@ -4,11 +4,13 @@
 
 ### [Archives](../../index.md) for [2025-10-27](index.md)
 
+* [2025-10-27, 19:06:34](https://news.ycombinator.com/item?id=45725009) - [Study finds growing social circles may fuel polarization](https://phys.org/news/2025-10-friends-division-social-circles-fuel.html)
 * [2025-10-27, 18:57:57](https://news.ycombinator.com/item?id=45724913) - [Creating an All-Weather Driver](https://waymo.com/blog/2025/10/creating-an-all-weather-driver)
 * [2025-10-27, 17:51:16](https://news.ycombinator.com/item?id=45724159) - [Carl Bohland's Auto Wash Bowl (2019)](https://www.vintag.es/2019/12/the-auto-wash-bowl.html)
 * [2025-10-27, 17:51:16](https://news.ycombinator.com/item?id=45724159) - [Carl Bohland's Auto Wash Bowl (2015)](https://news.wttw.com/2015/07/29/ask-geoffrey)
 * [2025-10-27, 17:42:23](https://news.ycombinator.com/item?id=45724045) - [Why Nigeria Accepted GMOs](https://www.asimov.press/p/nigeria-crops)
 * [2025-10-27, 17:27:18](https://news.ycombinator.com/item?id=45723828) - [Let the little guys in: A context sharing runtime for the personalised web](https://arjun.md/little-guys)
+* [2025-10-27, 17:25:52](https://news.ycombinator.com/item?id=45723809) - [It's not always DNS](https://notes.pault.ag/its-not-always-dns/)
 * [2025-10-27, 17:18:39](https://news.ycombinator.com/item?id=45723699) - [Cisco opensourced MCP-Scanner for finding vulnerabilties in MCP server](https://github.com/cisco-ai-defense/mcp-scanner)
 * [2025-10-27, 17:09:05](https://news.ycombinator.com/item?id=45723558) - [Artificial Writing and Automated Detection [pdf]](https://www.nber.org/system/files/working_papers/w34223/w34223.pdf)
 * [2025-10-27, 17:08:33](https://news.ycombinator.com/item?id=45723554) - [Avoid 2:00 and 3:00 am cron jobs (2013)](https://www.endpointdev.com/blog/2013/04/avoid-200-and-300-am-cron-jobs/)
@@ -29,6 +31,7 @@
 * [2025-10-27, 15:04:05](https://news.ycombinator.com/item?id=45721801) - [Pyrex catalog from from 1938 with hand-drawn lab glassware [pdf]](https://exhibitdb.cmog.org/opacimages/Images/Pyrex/Rakow_1000132877.pdf)
 * [2025-10-27, 14:54:14](https://news.ycombinator.com/item?id=45721682) - [Microsoft in court for allegedly misleading Australians over 365 subscriptions](https://www.accc.gov.au/media-release/microsoft-in-court-for-allegedly-misleading-millions-of-australians-over-microsoft-365-subscriptions)
 * [2025-10-27, 14:30:18](https://news.ycombinator.com/item?id=45721410) - [More big companies bet they can still grow without hiring](https://www.wsj.com/business/companies-hiring-jobs-ai-9ef675b6)
+* [2025-10-27, 14:19:30](https://news.ycombinator.com/item?id=45721302) - [When 'perfect' code fails](https://marma.dev/articles/2025/when-perfect-code-fails)
 * [2025-10-27, 14:04:48](https://news.ycombinator.com/item?id=45721160) - [EntropyLong: Effective Long-Context Training via Predictive Uncertainty](https://arxiv.org/abs/2510.02330)
 * [2025-10-27, 12:42:42](https://news.ycombinator.com/item?id=45720376) - [10M people watched a YouTuber shim a lock; the lock company sued him – bad idea](https://arstechnica.com/tech-policy/2025/10/suing-a-popular-youtuber-who-shimmed-a-130-lock-what-could-possibly-go-wrong/)
 * [2025-10-27, 12:39:52](https://news.ycombinator.com/item?id=45720345) - [Pre-emptive Z80 multitasking explainer](https://github.com/bchiha/Ready-Z80/tree/main/29-Multitasking)
