@@ -9,7 +9,6 @@
 * [2025-10-27, 17:17:38](https://news.ycombinator.com/item?id=45723686) - [The new calculus of AI-based coding](https://blog.joemag.dev/2025/10/the-new-calculus-of-ai-based-coding.html)
 * [2025-10-27, 17:09:05](https://news.ycombinator.com/item?id=45723558) - [Artificial Writing and Automated Detection [pdf]](https://www.nber.org/system/files/working_papers/w34223/w34223.pdf)
 * [2025-10-27, 17:08:33](https://news.ycombinator.com/item?id=45723554) - [Avoid 2:00 and 3:00 am cron jobs (2013)](https://www.endpointdev.com/blog/2013/04/avoid-200-and-300-am-cron-jobs/)
-* [2025-10-27, 17:07:05](https://news.ycombinator.com/item?id=45723533) - [Show HN: Git Auto Commit (GAC) – LLM-powered Git commit command line tool](https://github.com/cellwebb/gac)
 * [2025-10-27, 17:01:05](https://news.ycombinator.com/item?id=45723426) - [Sieve (YC X25) is hiring engineers to build video datasets for frontier AI](https://www.sievedata.com/)
 * [2025-10-27, 16:56:04](https://news.ycombinator.com/item?id=45723359) - [Why Busy Beaver hunters fear the Antihydra](https://benbrubaker.com/why-busy-beaver-hunters-fear-the-antihydra/)
 * [2025-10-27, 16:44:17](https://news.ycombinator.com/item?id=45723159) - [JetKVM – Control any computer remotely](https://jetkvm.com/)
@@ -28,6 +27,7 @@
 * [2025-10-24, 19:38:44](https://news.ycombinator.com/item?id=45698323) - [Image Dithering: Eleven Algorithms and Source Code (2012)](https://tannerhelland.com/2012/12/28/dithering-eleven-algorithms-source-code.html)
 * [2025-10-23, 01:38:48](https://news.ycombinator.com/item?id=45677253) - [Eight Million Copies of Moby-Dick (2014)](https://thevoltablog.wordpress.com/2014/01/27/nicolas-mugaveros-eight-million-copies-of-moby-dick-or-the-whale/)
 * [2025-10-21, 17:17:02](https://news.ycombinator.com/item?id=45658461) - [Solving regex crosswords with Z3](https://blog.nelhage.com/post/regex-crosswords-z3/)
+* [2025-10-21, 10:11:49](https://news.ycombinator.com/item?id=45654202) - [Iroh-blobs 0.95 – New features – Iroh](https://www.iroh.computer/blog/iroh-blobs-0-95-new-features)
 * [2025-10-21, 06:10:57](https://news.ycombinator.com/item?id=45652952) - [Should LLMs just treat text content as an image?](https://www.seangoedecke.com/text-tokens-as-image-tokens/)
 * [2025-10-20, 14:04:53](https://news.ycombinator.com/item?id=45644066) - [Go beyond Goroutines: introducing the Reactive paradigm](https://samuelberthe.substack.com/p/go-beyond-goroutines-introducing)
 
