@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-10-27, 04:00:39",
+      "https://news.ycombinator.com/item?id=45717285"
+    ],
+    [
+      "Severe performance penalty found in VSCode rendering loop",
+      "https://github.com/microsoft/vscode/issues/272155"
+    ]
+  ],
+  [
+    [
+      "2025-10-27, 03:46:44",
+      "https://news.ycombinator.com/item?id=45717238"
+    ],
+    [
+      "We're in the Wrong Moment",
+      "https://ezrichards.github.io/posts/were-in-the-wrong-moment/"
+    ]
+  ],
+  [
+    [
       "2025-10-27, 00:43:32",
       "https://news.ycombinator.com/item?id=45716296"
     ],
@@ -131,32 +151,12 @@
   ],
   [
     [
-      "2025-10-26, 14:21:44",
-      "https://news.ycombinator.com/item?id=45712118"
-    ],
-    [
-      "Resource use matters, but material footprints are a poor way to measure it",
-      "https://ourworldindata.org/material-footprint-limitations"
-    ]
-  ],
-  [
-    [
       "2025-10-26, 12:09:02",
       "https://news.ycombinator.com/item?id=45711094"
     ],
     [
       "Feed the bots",
       "https://maurycyz.com/misc/the_cost_of_trash/"
-    ]
-  ],
-  [
-    [
-      "2025-10-26, 12:03:59",
-      "https://news.ycombinator.com/item?id=45711062"
-    ],
-    [
-      "Formal Reasoning [pdf]",
-      "https://cs.ru.nl/~freek/courses/fr-2025/public/fr.pdf"
     ]
   ],
   [
@@ -291,12 +291,12 @@
   ],
   [
     [
-      "2025-10-18, 21:48:37",
-      "https://news.ycombinator.com/item?id=45630599"
+      "2025-10-19, 17:30:46",
+      "https://news.ycombinator.com/item?id=45636033"
     ],
     [
-      "Downloadable movie posters from the 40s, 50s, 60s, and 70s",
-      "https://hrc.contentdm.oclc.org/digital/collection/p15878coll84/search"
+      "Searching for Charles Fourier in the ruins of a socialist utopia outside LA",
+      "https://kubicki.org/letters/the-dogs-of-llano-del-rio-i/"
     ]
   ]
 ]
