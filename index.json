@@ -1,12 +1,82 @@
 [
   [
     [
+      "2025-10-27, 17:09:05",
+      "https://news.ycombinator.com/item?id=45723558"
+    ],
+    [
+      "Artificial Writing and Automated Detection [pdf]",
+      "https://www.nber.org/system/files/working_papers/w34223/w34223.pdf"
+    ]
+  ],
+  [
+    [
+      "2025-10-27, 17:01:05",
+      "https://news.ycombinator.com/item?id=45723426"
+    ],
+    [
+      "Sieve (YC X25) Is Hiring Engineers to build video datasets for frontier AI",
+      "https://www.sievedata.com/"
+    ]
+  ],
+  [
+    [
+      "2025-10-27, 16:56:04",
+      "https://news.ycombinator.com/item?id=45723359"
+    ],
+    [
+      "Why Busy Beaver Hunters Fear the Antihydra",
+      "https://benbrubaker.com/why-busy-beaver-hunters-fear-the-antihydra/"
+    ]
+  ],
+  [
+    [
+      "2025-10-27, 16:44:17",
+      "https://news.ycombinator.com/item?id=45723159"
+    ],
+    [
+      "JetKVM Is Now Available for Retail Purchase",
+      "https://jetkvm.com/products"
+    ]
+  ],
+  [
+    [
+      "2025-10-27, 16:22:52",
+      "https://news.ycombinator.com/item?id=45722826"
+    ],
+    [
+      "JSON Query",
+      "https://jsonquerylang.org/"
+    ]
+  ],
+  [
+    [
+      "2025-10-27, 16:16:05",
+      "https://news.ycombinator.com/item?id=45722733"
+    ],
+    [
+      "Ask HN: Is AWS Down Again?",
+      "https://news.ycombinator.com/item?id=45722733"
+    ]
+  ],
+  [
+    [
       "2025-10-27, 16:09:22",
       "https://news.ycombinator.com/item?id=45722639"
     ],
     [
       "Claude for Excel",
       "https://www.claude.com/claude-for-excel"
+    ]
+  ],
+  [
+    [
+      "2025-10-27, 16:08:58",
+      "https://news.ycombinator.com/item?id=45722635"
+    ],
+    [
+      "Show HN: Erdos – open-source, AI data science IDE",
+      "https://www.lotas.ai/erdos"
     ]
   ],
   [
@@ -51,16 +121,6 @@
   ],
   [
     [
-      "2025-10-27, 14:30:18",
-      "https://news.ycombinator.com/item?id=45721410"
-    ],
-    [
-      "More big companies bet they can still grow without hiring",
-      "https://www.wsj.com/business/companies-hiring-jobs-ai-9ef675b6"
-    ]
-  ],
-  [
-    [
       "2025-10-27, 14:04:48",
       "https://news.ycombinator.com/item?id=45721160"
     ],
@@ -77,16 +137,6 @@
     [
       "Pre-emptive Z80 multitasking explainer",
       "https://github.com/bchiha/Ready-Z80/tree/main/29-Multitasking"
-    ]
-  ],
-  [
-    [
-      "2025-10-27, 12:00:30",
-      "https://news.ycombinator.com/item?id=45719996"
-    ],
-    [
-      "Artifact (YC W25) is hiring engineers in NYC to build modern ECAD",
-      "https://news.ycombinator.com/item?id=45719996"
     ]
   ],
   [
@@ -141,16 +191,6 @@
   ],
   [
     [
-      "2025-10-27, 08:50:10",
-      "https://news.ycombinator.com/item?id=45718665"
-    ],
-    [
-      "What happened to running what you wanted on your own machine?",
-      "https://hackaday.com/2025/10/22/what-happened-to-running-what-you-wanted-on-your-own-machine/"
-    ]
-  ],
-  [
-    [
       "2025-10-27, 07:24:19",
       "https://news.ycombinator.com/item?id=45718231"
     ],
@@ -187,26 +227,6 @@
     [
       "How I turned Zig into my favorite language to write network programs in",
       "https://lalinsky.com/2025/10/26/zio-async-io-for-zig.html"
-    ]
-  ],
-  [
-    [
-      "2025-10-26, 20:43:40",
-      "https://news.ycombinator.com/item?id=45715055"
-    ],
-    [
-      "Show HN: MyraOS – My 32-bit operating system in C and ASM (Hack Club project)",
-      "https://github.com/dvir-biton/MyraOS"
-    ]
-  ],
-  [
-    [
-      "2025-10-26, 16:57:12",
-      "https://news.ycombinator.com/item?id=45713359"
-    ],
-    [
-      "Ken Thompson recalls Unix's rowdy, lock-picking origins",
-      "https://thenewstack.io/ken-thompson-recalls-unixs-rowdy-lock-picking-origins/"
     ]
   ],
   [
@@ -251,32 +271,12 @@
   ],
   [
     [
-      "2025-10-22, 17:45:21",
-      "https://news.ycombinator.com/item?id=45672615"
-    ],
-    [
-      "Sandhill cranes have adopted a Canada gosling",
-      "https://www.smithsonianmag.com/science-nature/these-sandhill-cranes-have-adopted-a-canadian-gosling-and-birders-have-flocked-to-watch-the-strange-family-180986828/"
-    ]
-  ],
-  [
-    [
       "2025-10-22, 14:07:03",
       "https://news.ycombinator.com/item?id=45669394"
     ],
     [
       "Why I'm teaching kids to hack computers",
       "https://www.hacktivate.app/why-teach-kids-to-hack"
-    ]
-  ],
-  [
-    [
-      "2025-10-22, 06:41:09",
-      "https://news.ycombinator.com/item?id=45665617"
-    ],
-    [
-      "Enchanting Imposters",
-      "https://daily.jstor.org/enchanting-imposters/"
     ]
   ],
   [
