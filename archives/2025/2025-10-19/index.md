@@ -82,6 +82,7 @@
 * [2025-10-19, 06:42:19](https://news.ycombinator.com/item?id=45632429) - [A laser pointer at 2B FPS [video]](https://www.youtube.com/watch?v=o4TdHrMi6do)
 * [2025-10-19, 05:45:02](https://news.ycombinator.com/item?id=45632262) - [GoFundMe CEO: economy is so bad his customers crowdfund to pay for groceries](https://finance.yahoo.com/news/gofundme-ceo-says-economy-bad-182843671.html)
 * [2025-10-19, 03:53:03](https://news.ycombinator.com/item?id=45631974) - [The traffickers are winning the war on drugs](https://www.economist.com/briefing/2025/10/16/the-traffickers-are-winning-the-war-on-drugs)
+* [2025-10-19, 02:44:44](https://news.ycombinator.com/item?id=45631753) - [Computer Assisted Biologically Augmented Lifeform](https://cnc.fandom.com/wiki/Computer_Assisted_Biologically_Augmented_Lifeform)
 * [2025-10-19, 02:22:53](https://news.ycombinator.com/item?id=45631678) - [The Accountability Problem](https://www.jamesshore.com/v2/blog/2025/the-accountability-problem)
 * [2025-10-19, 01:23:29](https://news.ycombinator.com/item?id=45631503) - [Friendship Begins at Home](https://3quarksdaily.com/3quarksdaily/2025/10/friendship-begins-at-home.html)
 * [2025-10-19, 01:05:35](https://news.ycombinator.com/item?id=45631435) - [Broadcom AFBR-S20: High-Performance Miniature Spectrometer Product Brief [pdf]](https://docs.broadcom.com/docs/AFBR-S20xx-PB)

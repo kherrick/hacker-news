@@ -13,7 +13,6 @@
 * [2025-10-27, 16:16:05](https://news.ycombinator.com/item?id=45722733) - [Ask HN: Is AWS Down Again?](https://news.ycombinator.com/item?id=45722733)
 * [2025-10-27, 16:09:22](https://news.ycombinator.com/item?id=45722639) - [Claude for Excel](https://www.claude.com/claude-for-excel)
 * [2025-10-27, 16:08:58](https://news.ycombinator.com/item?id=45722635) - [Show HN: Erdos – open-source, AI data science IDE](https://www.lotas.ai/erdos)
-* [2025-10-27, 16:05:06](https://news.ycombinator.com/item?id=45722590) - [Write Express JS code that runs on Rust](https://github.com/Shyam20001/rsjs)
 * [2025-10-27, 15:27:38](https://news.ycombinator.com/item?id=45722069) - [It's insulting to read AI-generated blog posts](https://blog.pabloecortez.com/its-insulting-to-read-your-ai-generated-blog-post/)
 * [2025-10-27, 15:04:05](https://news.ycombinator.com/item?id=45721801) - [Pyrex catalog from from 1938 with hand-drawn lab glassware [pdf]](https://exhibitdb.cmog.org/opacimages/Images/Pyrex/Rakow_1000132877.pdf)
 * [2025-10-27, 14:54:14](https://news.ycombinator.com/item?id=45721682) - [Microsoft in court for allegedly misleading Australians over 365 subscriptions](https://www.accc.gov.au/media-release/microsoft-in-court-for-allegedly-misleading-millions-of-australians-over-microsoft-365-subscriptions)
@@ -24,12 +23,13 @@
 * [2025-10-27, 09:44:18](https://news.ycombinator.com/item?id=45719004) - [Rust cross-platform GPUI components](https://github.com/longbridge/gpui-component)
 * [2025-10-27, 09:31:29](https://news.ycombinator.com/item?id=45718908) - [WorldGrow: Generating Infinite 3D World](https://github.com/world-grow/WorldGrow)
 * [2025-10-27, 08:58:10](https://news.ycombinator.com/item?id=45718711) - [The last European train that travels by sea](https://www.bbc.com/travel/article/20251024-the-last-european-train-that-travels-by-sea)
+* [2025-10-27, 08:28:43](https://news.ycombinator.com/item?id=45718546) - [This World of Ours (2014) [pdf]](https://www.usenix.org/system/files/1401_08-12_mickens.pdf)
 * [2025-10-23, 16:16:35](https://news.ycombinator.com/item?id=45683643) - [Unexpected patterns in historical astronomical observations](https://www.su.se/english/news/unexpected-patterns-in-historical-astronomical-observations-1.855042)
 * [2025-10-23, 11:21:04](https://news.ycombinator.com/item?id=45680583) - [Corrosion](https://fly.io/blog/corrosion/)
 * [2025-10-23, 01:38:48](https://news.ycombinator.com/item?id=45677253) - [Eight Million Copies of Moby-Dick](https://thevoltablog.wordpress.com/2014/01/27/nicolas-mugaveros-eight-million-copies-of-moby-dick-or-the-whale/)
 * [2025-10-22, 14:07:03](https://news.ycombinator.com/item?id=45669394) - [Why I'm teaching kids to hack computers](https://www.hacktivate.app/why-teach-kids-to-hack)
-* [2025-10-21, 06:20:38](https://news.ycombinator.com/item?id=45652998) - [Geoutil.com – Measure distances, areas, and convert geo data in the browser](https://geoutil.com)
 * [2025-10-21, 06:10:57](https://news.ycombinator.com/item?id=45652952) - [Should LLMs just treat text content as an image?](https://www.seangoedecke.com/text-tokens-as-image-tokens/)
+* [2025-10-19, 02:44:44](https://news.ycombinator.com/item?id=45631753) - [Computer Assisted Biologically Augmented Lifeform](https://cnc.fandom.com/wiki/Computer_Assisted_Biologically_Augmented_Lifeform)
 
 ## [Archives](archives/index.md)
 
