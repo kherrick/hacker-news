@@ -20,6 +20,7 @@
 * [2025-10-26, 02:01:17](https://news.ycombinator.com/item?id=45708524) - [Pico-Banana-400k](https://github.com/apple/pico-banana-400k)
 * [2025-10-23, 17:06:35](https://news.ycombinator.com/item?id=45684253) - [A bug that taught me more about PyTorch than years of using it](https://elanapearl.github.io/blog/2025/the-bug-that-taught-me-pytorch/)
 * [2025-10-23, 16:09:27](https://news.ycombinator.com/item?id=45683536) - [Sphere Computer – The Innovative 1970s Computer Company Everyone Forgot](https://sphere.computer/)
+* [2025-10-22, 22:26:45](https://news.ycombinator.com/item?id=45675956) - [An overengineered solution to `sort | uniq -c` with 25x throughput (hist)](https://github.com/noamteyssier/hist-rs)
 * [2025-10-22, 17:45:21](https://news.ycombinator.com/item?id=45672615) - [Sandhill cranes have adopted a Canada gosling](https://www.smithsonianmag.com/science-nature/these-sandhill-cranes-have-adopted-a-canadian-gosling-and-birders-have-flocked-to-watch-the-strange-family-180986828/)
 * [2025-10-22, 16:21:25](https://news.ycombinator.com/item?id=45671475) - [Wren: A classy little scripting language](https://wren.io/)
 * [2025-10-22, 02:01:14](https://news.ycombinator.com/item?id=45664139) - [System.LongBool](https://docwiki.embarcadero.com/Libraries/Sydney/en/System.LongBool)
@@ -29,7 +30,6 @@
 * [2025-10-20, 21:57:32](https://news.ycombinator.com/item?id=45649948) - [A Looking Glass Half Empty, Part 2: A Series of Unfortunate Events](https://www.filfre.net/2025/10/a-looking-glass-half-empty-part-2-a-series-of-unfortunate-events/)
 * [2025-10-20, 01:27:29](https://news.ycombinator.com/item?id=45639476) - [Researchers demonstrate centimetre-level positioning using smartwatches](https://www.otago.ac.nz/news/newsroom/researchers-demonstrate-centimetre-level-positioning-using-smartwatches)
 * [2025-10-19, 17:30:46](https://news.ycombinator.com/item?id=45636033) - [Searching for Charles Fourier in the ruins of a socialist utopia outside LA](https://kubicki.org/letters/the-dogs-of-llano-del-rio-i/)
-* [2025-10-18, 21:48:37](https://news.ycombinator.com/item?id=45630599) - [Downloadable movie posters from the 40s, 50s, 60s, and 70s](https://hrc.contentdm.oclc.org/digital/collection/p15878coll84/search)
 
 ## [Archives](archives/index.md)
 
