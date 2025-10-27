@@ -24,6 +24,7 @@
 * [2025-10-21, 17:43:16](https://news.ycombinator.com/item?id=45658928) - [Karpathy on DeepSeek-OCR paper: Are pixels better inputs to LLMs than text?](https://twitter.com/karpathy/status/1980397031542989305)
 * [2025-10-21, 17:29:36](https://news.ycombinator.com/item?id=45658687) - [Time to build a GPU OS? Here is the first step](https://www.notion.so/yifanqiao/Solve-the-GPU-Cost-Crisis-with-kvcached-289da9d1f4d68034b17bf2774201b141)
 * [2025-10-21, 17:18:13](https://news.ycombinator.com/item?id=45658479) - [ChatGPT Atlas](https://chatgpt.com/atlas)
+* [2025-10-21, 17:17:02](https://news.ycombinator.com/item?id=45658461) - [Solving Regex Crosswords with Z3](https://blog.nelhage.com/post/regex-crosswords-z3/)
 * [2025-10-21, 17:03:34](https://news.ycombinator.com/item?id=45658268) - [OpenAI Set to Challenge Google with New ChatGPT Atlas Browser](https://www.bloomberg.com/news/articles/2025-10-21/openai-set-to-challenge-google-with-new-chatgpt-atlas-browser)
 * [2025-10-21, 17:01:02](https://news.ycombinator.com/item?id=45658221) - [Flexport Is Hiring SDRs in Chicago](https://job-boards.greenhouse.io/flexport/jobs/5690976?gh_jid=5690976)
 * [2025-10-21, 16:50:40](https://news.ycombinator.com/item?id=45658056) - [Fallout from the AWS Outage: Smart Mattresses Go Rogue and Ruin Sleep Worldwide](https://quasa.io/media/the-strangest-fallout-from-the-aws-outage-smart-mattresses-go-rogue-and-ruin-sleep-worldwide)

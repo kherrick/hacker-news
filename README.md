@@ -24,10 +24,10 @@
 * [2025-10-27, 09:31:29](https://news.ycombinator.com/item?id=45718908) - [WorldGrow: Generating Infinite 3D World](https://github.com/world-grow/WorldGrow)
 * [2025-10-27, 08:58:10](https://news.ycombinator.com/item?id=45718711) - [The last European train that travels by sea](https://www.bbc.com/travel/article/20251024-the-last-european-train-that-travels-by-sea)
 * [2025-10-27, 08:28:43](https://news.ycombinator.com/item?id=45718546) - [This World of Ours (2014) [pdf]](https://www.usenix.org/system/files/1401_08-12_mickens.pdf)
-* [2025-10-23, 16:16:35](https://news.ycombinator.com/item?id=45683643) - [Unexpected patterns in historical astronomical observations](https://www.su.se/english/news/unexpected-patterns-in-historical-astronomical-observations-1.855042)
 * [2025-10-23, 11:21:04](https://news.ycombinator.com/item?id=45680583) - [Corrosion](https://fly.io/blog/corrosion/)
 * [2025-10-23, 01:38:48](https://news.ycombinator.com/item?id=45677253) - [Eight Million Copies of Moby-Dick](https://thevoltablog.wordpress.com/2014/01/27/nicolas-mugaveros-eight-million-copies-of-moby-dick-or-the-whale/)
 * [2025-10-22, 14:07:03](https://news.ycombinator.com/item?id=45669394) - [Why I'm teaching kids to hack computers](https://www.hacktivate.app/why-teach-kids-to-hack)
+* [2025-10-21, 17:17:02](https://news.ycombinator.com/item?id=45658461) - [Solving Regex Crosswords with Z3](https://blog.nelhage.com/post/regex-crosswords-z3/)
 * [2025-10-21, 06:10:57](https://news.ycombinator.com/item?id=45652952) - [Should LLMs just treat text content as an image?](https://www.seangoedecke.com/text-tokens-as-image-tokens/)
 * [2025-10-19, 02:44:44](https://news.ycombinator.com/item?id=45631753) - [Computer Assisted Biologically Augmented Lifeform](https://cnc.fandom.com/wiki/Computer_Assisted_Biologically_Augmented_Lifeform)
 
