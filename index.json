@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-10-27, 10:01:12",
+      "https://news.ycombinator.com/item?id=45719140"
+    ],
+    [
+      "Don't Forget These Tags to Make HTML Work Like You Expect",
+      "https://blog.jim-nielsen.com/2025/dont-forget-these-html-tags/"
+    ]
+  ],
+  [
+    [
       "2025-10-27, 09:44:18",
       "https://news.ycombinator.com/item?id=45719004"
     ],
@@ -97,16 +107,6 @@
     [
       "Are-we-fast-yet implementations in Oberon, C++, C, Pascal, Micron and Luon",
       "https://github.com/rochus-keller/Are-we-fast-yet"
-    ]
-  ],
-  [
-    [
-      "2025-10-26, 22:41:02",
-      "https://news.ycombinator.com/item?id=45715752"
-    ],
-    [
-      "Show HN: Helium Browser for Android with extensions support, based on Vanadium",
-      "https://github.com/jqssun/android-helium-browser"
     ]
   ],
   [
