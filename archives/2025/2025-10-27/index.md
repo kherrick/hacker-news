@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-10-27](index.md)
 
+* [2025-10-27, 10:01:12](https://news.ycombinator.com/item?id=45719140) - [Don't Forget These Tags to Make HTML Work Like You Expect](https://blog.jim-nielsen.com/2025/dont-forget-these-html-tags/)
 * [2025-10-27, 09:44:18](https://news.ycombinator.com/item?id=45719004) - [Rust cross-platform GPUI components](https://github.com/longbridge/gpui-component)
 * [2025-10-27, 09:31:29](https://news.ycombinator.com/item?id=45718908) - [WorldGrow: Generating Infinite 3D World](https://github.com/world-grow/WorldGrow)
 * [2025-10-27, 08:58:10](https://news.ycombinator.com/item?id=45718711) - [The last European train that travels by sea](https://www.bbc.com/travel/article/20251024-the-last-european-train-that-travels-by-sea)
