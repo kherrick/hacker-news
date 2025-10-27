@@ -5,8 +5,10 @@
 ### [Archives](../../index.md) for [2025-10-27](index.md)
 
 * [2025-10-27, 12:00:30](https://news.ycombinator.com/item?id=45719996) - [Artifact (YC W25) is hiring engineers in NYC to build modern ECAD](https://news.ycombinator.com/item?id=45719996)
+* [2025-10-27, 11:39:44](https://news.ycombinator.com/item?id=45719820) - [Canada Set to Side with China on EVs](https://www.thewirechina.com/2025/10/26/canada-set-to-side-with-china-on-evs/)
 * [2025-10-27, 11:35:58](https://news.ycombinator.com/item?id=45719788) - [You Are How You Act](https://boz.com/articles/you-are-how-you-act)
 * [2025-10-27, 11:19:27](https://news.ycombinator.com/item?id=45719669) - [Microsoft's folds losses from OpenAI into $4.7B expense line – \"other\"](https://www.theverge.com/news/806880/microsofts-not-very-open-about-openai)
+* [2025-10-27, 11:19:27](https://news.ycombinator.com/item?id=45719669) - [Microsoft needs to open up more about its OpenAI dealings](https://www.wsj.com/tech/ai/microsoft-needs-to-open-up-more-about-its-openai-dealings-59102de8)
 * [2025-10-27, 11:10:18](https://news.ycombinator.com/item?id=45719614) - [SETL Programming Language](https://en.wikipedia.org/wiki/SETL)
 * [2025-10-27, 10:01:12](https://news.ycombinator.com/item?id=45719140) - [Don't Forget These Tags to Make HTML Work Like You Expect](https://blog.jim-nielsen.com/2025/dont-forget-these-html-tags/)
 * [2025-10-27, 09:44:18](https://news.ycombinator.com/item?id=45719004) - [Rust cross-platform GPUI components](https://github.com/longbridge/gpui-component)
