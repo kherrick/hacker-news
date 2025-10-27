@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-10-27, 14:30:18",
+      "https://news.ycombinator.com/item?id=45721410"
+    ],
+    [
+      "More big companies bet they can still grow without hiring",
+      "https://www.wsj.com/business/companies-hiring-jobs-ai-9ef675b6"
+    ]
+  ],
+  [
+    [
       "2025-10-27, 12:39:52",
       "https://news.ycombinator.com/item?id=45720345"
     ],
@@ -151,16 +161,6 @@
   ],
   [
     [
-      "2025-10-26, 23:08:09",
-      "https://news.ycombinator.com/item?id=45715873"
-    ],
-    [
-      "Are-we-fast-yet implementations in Oberon, C++, C, Pascal, Micron and Luon",
-      "https://github.com/rochus-keller/Are-we-fast-yet"
-    ]
-  ],
-  [
-    [
       "2025-10-26, 20:43:40",
       "https://news.ycombinator.com/item?id=45715055"
     ],
@@ -201,12 +201,12 @@
   ],
   [
     [
-      "2025-10-23, 17:06:35",
-      "https://news.ycombinator.com/item?id=45684253"
+      "2025-10-24, 12:17:48",
+      "https://news.ycombinator.com/item?id=45693871"
     ],
     [
-      "A bug that taught me more about PyTorch than years of using it",
-      "https://elanapearl.github.io/blog/2025/the-bug-that-taught-me-pytorch/"
+      "OpenBSD C/C++ Toolchain in the Browser",
+      "https://openbsd.llvm.moe/"
     ]
   ],
   [
