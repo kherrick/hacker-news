@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2025-10-27, 20:52:08",
+      "https://news.ycombinator.com/item?id=45726137"
+    ],
+    [
+      "The PSF has withdrawn a $1.5M proposal to US Government grant program",
+      "https://simonwillison.net/2025/Oct/27/psf-withdrawn-proposal/"
+    ]
+  ],
+  [
+    [
       "2025-10-27, 19:06:34",
       "https://news.ycombinator.com/item?id=45725009"
     ],
@@ -151,16 +161,6 @@
   ],
   [
     [
-      "2025-10-27, 16:22:52",
-      "https://news.ycombinator.com/item?id=45722826"
-    ],
-    [
-      "Show HN: JSON Query",
-      "https://jsonquerylang.org/"
-    ]
-  ],
-  [
-    [
       "2025-10-27, 16:09:22",
       "https://news.ycombinator.com/item?id=45722639"
     ],
@@ -231,22 +231,22 @@
   ],
   [
     [
+      "2025-10-27, 08:58:10",
+      "https://news.ycombinator.com/item?id=45718711"
+    ],
+    [
+      "The last European train that travels by sea",
+      "https://www.bbc.com/travel/article/20251024-the-last-european-train-that-travels-by-sea"
+    ]
+  ],
+  [
+    [
       "2025-10-26, 22:19:02",
       "https://news.ycombinator.com/item?id=45715632"
     ],
     [
       "TOON – Token Oriented Object Notation",
       "https://github.com/johannschopplich/toon"
-    ]
-  ],
-  [
-    [
-      "2025-10-25, 08:41:59",
-      "https://news.ycombinator.com/item?id=45702274"
-    ],
-    [
-      "Gitworkshop.dev – Collaborate on code over Nostr",
-      "https://gitworkshop.dev/"
     ]
   ],
   [
@@ -291,12 +291,12 @@
   ],
   [
     [
-      "2025-10-21, 05:32:29",
-      "https://news.ycombinator.com/item?id=45652765"
+      "2025-10-21, 06:10:57",
+      "https://news.ycombinator.com/item?id=45652952"
     ],
     [
-      "A mild mannered Englishman who was the most prolific ghost hunter",
-      "https://lithub.com/the-mild-mannered-englishman-who-was-the-worlds-most-prolific-ghost-hunter/"
+      "Should LLMs just treat text content as an image?",
+      "https://www.seangoedecke.com/text-tokens-as-image-tokens/"
     ]
   ]
 ]
