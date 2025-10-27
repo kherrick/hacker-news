@@ -9,6 +9,7 @@
 * [2025-10-20, 23:16:41](https://news.ycombinator.com/item?id=45650617) - [Why UUIDs won't protect your secrets](https://alexsci.com/blog/uuids-and-idor/)
 * [2025-10-20, 22:22:45](https://news.ycombinator.com/item?id=45650178) - [You don't need Kafka: Building a message queue with Unix signals](https://leandronsp.com/articles/you-dont-need-kafka-building-a-message-queue-with-only-two-unix-signals)
 * [2025-10-20, 22:21:59](https://news.ycombinator.com/item?id=45650167) - [Eavesdropping on Internal Networks via Unencrypted Satellites](https://satcom.sysnet.ucsd.edu/)
+* [2025-10-20, 21:57:32](https://news.ycombinator.com/item?id=45649948) - [A Looking Glass Half Empty, Part 2: A Series of Unfortunate Events](https://www.filfre.net/2025/10/a-looking-glass-half-empty-part-2-a-series-of-unfortunate-events/)
 * [2025-10-20, 21:19:19](https://news.ycombinator.com/item?id=45649510) - [The death of thread per core](https://buttondown.com/jaffray/archive/the-death-of-thread-per-core/)
 * [2025-10-20, 20:50:03](https://news.ycombinator.com/item?id=45649178) - [Today is when the Amazon brain drain sent AWS down the spout](https://www.theregister.com/2025/10/20/aws_outage_amazon_brain_drain_corey_quinn/)
 * [2025-10-20, 20:27:12](https://news.ycombinator.com/item?id=45648864) - [Should MS Replace Satya Nadella with an AI CEO?](https://old.reddit.com/r/microsoftsucks/comments/1obsew3/should_ms_replace_satya_nadella_with_an_ai_ceo/)
