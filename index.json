@@ -5,7 +5,7 @@
       "https://news.ycombinator.com/item?id=45724913"
     ],
     [
-      "Creating an All-Weather Driver",
+      "Creating an all-weather driver",
       "https://waymo.com/blog/2025/10/creating-an-all-weather-driver"
     ]
   ],
@@ -17,6 +17,16 @@
     [
       "Carl Bohland's Auto Wash Bowl (2015)",
       "https://news.wttw.com/2015/07/29/ask-geoffrey"
+    ]
+  ],
+  [
+    [
+      "2025-10-27, 17:42:23",
+      "https://news.ycombinator.com/item?id=45724045"
+    ],
+    [
+      "Why Nigeria accepted GMOs",
+      "https://www.asimov.press/p/nigeria-crops"
     ]
   ],
   [
@@ -35,7 +45,7 @@
       "https://news.ycombinator.com/item?id=45723699"
     ],
     [
-      "Cisco opensourced MCP-Scanner for finding vulnerabilties in MCP server",
+      "MCP-Scanner – Scan MCP Servers for vulnerabilities",
       "https://github.com/cisco-ai-defense/mcp-scanner"
     ]
   ],
@@ -91,16 +101,6 @@
   ],
   [
     [
-      "2025-10-27, 16:49:02",
-      "https://news.ycombinator.com/item?id=45723249"
-    ],
-    [
-      "Life next to 199 data centres",
-      "https://www.bbc.com/news/articles/c93dnnxewdvo"
-    ]
-  ],
-  [
-    [
       "2025-10-27, 16:44:17",
       "https://news.ycombinator.com/item?id=45723159"
     ],
@@ -125,7 +125,7 @@
       "https://news.ycombinator.com/item?id=45722826"
     ],
     [
-      "JSON Query",
+      "Show HN: JSON Query",
       "https://jsonquerylang.org/"
     ]
   ],
@@ -211,32 +211,12 @@
   ],
   [
     [
-      "2025-10-27, 09:31:29",
-      "https://news.ycombinator.com/item?id=45718908"
+      "2025-10-27, 08:58:10",
+      "https://news.ycombinator.com/item?id=45718711"
     ],
     [
-      "WorldGrow: Generating Infinite 3D World",
-      "https://github.com/world-grow/WorldGrow"
-    ]
-  ],
-  [
-    [
-      "2025-10-27, 08:28:43",
-      "https://news.ycombinator.com/item?id=45718546"
-    ],
-    [
-      "This World of Ours (2014) [pdf]",
-      "https://www.usenix.org/system/files/1401_08-12_mickens.pdf"
-    ]
-  ],
-  [
-    [
-      "2025-10-27, 06:36:27",
-      "https://news.ycombinator.com/item?id=45718002"
-    ],
-    [
-      "Stack walking: space and time trade-offs",
-      "https://maskray.me/blog/2025-10-26-stack-walking-space-and-time-trade-offs"
+      "The last European train that travels by sea",
+      "https://www.bbc.com/travel/article/20251024-the-last-european-train-that-travels-by-sea"
     ]
   ],
   [
@@ -271,12 +251,42 @@
   ],
   [
     [
+      "2025-10-23, 11:21:04",
+      "https://news.ycombinator.com/item?id=45680583"
+    ],
+    [
+      "Corrosion",
+      "https://fly.io/blog/corrosion/"
+    ]
+  ],
+  [
+    [
+      "2025-10-23, 01:38:48",
+      "https://news.ycombinator.com/item?id=45677253"
+    ],
+    [
+      "Eight Million Copies of Moby-Dick (2014)",
+      "https://thevoltablog.wordpress.com/2014/01/27/nicolas-mugaveros-eight-million-copies-of-moby-dick-or-the-whale/"
+    ]
+  ],
+  [
+    [
       "2025-10-21, 17:17:02",
       "https://news.ycombinator.com/item?id=45658461"
     ],
     [
-      "Solving Regex Crosswords with Z3",
+      "Solving regex crosswords with Z3",
       "https://blog.nelhage.com/post/regex-crosswords-z3/"
+    ]
+  ],
+  [
+    [
+      "2025-10-21, 06:10:57",
+      "https://news.ycombinator.com/item?id=45652952"
+    ],
+    [
+      "Should LLMs just treat text content as an image?",
+      "https://www.seangoedecke.com/text-tokens-as-image-tokens/"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "A mild mannered Englishman who was the most prolific ghost hunter",
       "https://lithub.com/the-mild-mannered-englishman-who-was-the-worlds-most-prolific-ghost-hunter/"
-    ]
-  ],
-  [
-    [
-      "2025-10-19, 02:44:44",
-      "https://news.ycombinator.com/item?id=45631753"
-    ],
-    [
-      "Computer Assisted Biologically Augmented Lifeform",
-      "https://cnc.fandom.com/wiki/Computer_Assisted_Biologically_Augmented_Lifeform"
     ]
   ]
 ]
