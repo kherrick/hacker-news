@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-10-27](index.md)
 
+* [2025-10-27, 18:57:57](https://news.ycombinator.com/item?id=45724913) - [Creating an All-Weather Driver](https://waymo.com/blog/2025/10/creating-an-all-weather-driver)
 * [2025-10-27, 17:51:16](https://news.ycombinator.com/item?id=45724159) - [Carl Bohland's Auto Wash Bowl (2019)](https://www.vintag.es/2019/12/the-auto-wash-bowl.html)
 * [2025-10-27, 17:42:23](https://news.ycombinator.com/item?id=45724045) - [Why Nigeria Accepted GMOs](https://www.asimov.press/p/nigeria-crops)
 * [2025-10-27, 17:27:18](https://news.ycombinator.com/item?id=45723828) - [Let the little guys in: A context sharing runtime for the personalised web](https://arjun.md/little-guys)
