@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-10-27](index.md)
 
+* [2025-10-27, 05:36:13](https://news.ycombinator.com/item?id=45717724) - [Show HN: Write Go code in JavaScript files](https://www.npmjs.com/package/vite-plugin-use-golang)
 * [2025-10-27, 05:01:37](https://news.ycombinator.com/item?id=45717564) - [Diphtheria, a Once Vanquished Killer of Children, Is Resurgent](https://www.nytimes.com/2025/10/27/health/diptheria-somalia-vaccines.html)
 * [2025-10-27, 04:27:45](https://news.ycombinator.com/item?id=45717397) - [Structure and Interpretation of Classical Mechanics](https://tgvaughan.github.io/sicm/toc.html)
 * [2025-10-27, 04:00:39](https://news.ycombinator.com/item?id=45717285) - [Severe performance penalty found in VSCode rendering loop](https://github.com/microsoft/vscode/issues/272155)

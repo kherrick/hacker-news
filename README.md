@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-10-27, 05:36:13](https://news.ycombinator.com/item?id=45717724) - [Show HN: Write Go code in JavaScript files](https://www.npmjs.com/package/vite-plugin-use-golang)
 * [2025-10-27, 05:01:37](https://news.ycombinator.com/item?id=45717564) - [Diphtheria, a once vanquished killer of children, is resurgent](https://www.nytimes.com/2025/10/27/health/diptheria-somalia-vaccines.html)
-* [2025-10-27, 04:27:45](https://news.ycombinator.com/item?id=45717397) - [Structure and Interpretation of Classical Mechanics](https://tgvaughan.github.io/sicm/toc.html)
 * [2025-10-27, 00:01:17](https://news.ycombinator.com/item?id=45716109) - [How I turned Zig into my favorite language to write network programs in](https://lalinsky.com/2025/10/26/zio-async-io-for-zig.html)
 * [2025-10-26, 23:08:09](https://news.ycombinator.com/item?id=45715873) - [Are-we-fast-yet implementations in Oberon, C++, C, Pascal, Micron and Luon](https://github.com/rochus-keller/Are-we-fast-yet)
 * [2025-10-26, 22:58:31](https://news.ycombinator.com/item?id=45715837) - [Microsoft 365 Copilot – Arbitrary Data Exfiltration via Mermaid Diagrams](https://www.adamlogue.com/microsoft-365-copilot-arbitrary-data-exfiltration-via-mermaid-diagrams-fixed/)
