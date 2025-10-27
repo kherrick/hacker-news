@@ -72,6 +72,7 @@
 * [2025-10-23, 04:23:39](https://news.ycombinator.com/item?id=45678156) - [The mild mannered Englishman who was the most prolific ghost hunter](https://lithub.com/the-mild-mannered-englishman-who-was-the-worlds-most-prolific-ghost-hunter/)
 * [2025-10-23, 03:51:40](https://news.ycombinator.com/item?id=45678001) - [Clojure Zippers (2021)](https://grishaev.me/en/clojure-zippers/)
 * [2025-10-23, 03:47:09](https://news.ycombinator.com/item?id=45677966) - [The Myth of Outrunning Your Diet](https://williamjbarry.substack.com/p/the-myth-of-outrunning-your-diet)
+* [2025-10-23, 01:38:48](https://news.ycombinator.com/item?id=45677253) - [Eight Million Copies of Moby-Dick](https://thevoltablog.wordpress.com/2014/01/27/nicolas-mugaveros-eight-million-copies-of-moby-dick-or-the-whale/)
 * [2025-10-23, 01:36:37](https://news.ycombinator.com/item?id=45677243) - [The Sodium-Ion Battery Revolution Has Started](https://cleantechnica.com/2025/10/22/the-sodium-ion-battery-revolution-has-started/)
 * [2025-10-23, 01:19:58](https://news.ycombinator.com/item?id=45677139) - [Summary of the Amazon DynamoDB Service Disruption in US-East-1 Region](https://aws.amazon.com/message/101925/)
 * [2025-10-23, 00:30:35](https://news.ycombinator.com/item?id=45676867) - [The Cooperative National Geologic Map](https://ngmdb.usgs.gov/nationalgeology/)

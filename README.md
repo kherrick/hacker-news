@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-10-27, 16:16:05](https://news.ycombinator.com/item?id=45722733) - [Ask HN: Is AWS Down Again?](https://news.ycombinator.com/item?id=45722733)
 * [2025-10-27, 16:09:22](https://news.ycombinator.com/item?id=45722639) - [Claude for Excel](https://www.claude.com/claude-for-excel)
 * [2025-10-27, 15:27:38](https://news.ycombinator.com/item?id=45722069) - [It's insulting to read your AI-generated blog post](https://blog.pabloecortez.com/its-insulting-to-read-your-ai-generated-blog-post/)
 * [2025-10-27, 15:12:08](https://news.ycombinator.com/item?id=45721904) - [PSF has withdrawn $1.5M proposal to US Government grant program](https://pyfound.blogspot.com/2025/10/NSF-funding-statement.html)
@@ -25,6 +24,7 @@
 * [2025-10-24, 12:17:48](https://news.ycombinator.com/item?id=45693871) - [OpenBSD C/C++ Toolchain in the Browser](https://openbsd.llvm.moe/)
 * [2025-10-23, 16:16:35](https://news.ycombinator.com/item?id=45683643) - [Unexpected patterns in historical astronomical observations](https://www.su.se/english/news/unexpected-patterns-in-historical-astronomical-observations-1.855042)
 * [2025-10-23, 11:21:04](https://news.ycombinator.com/item?id=45680583) - [Corrosion](https://fly.io/blog/corrosion/)
+* [2025-10-23, 01:38:48](https://news.ycombinator.com/item?id=45677253) - [Eight Million Copies of Moby-Dick](https://thevoltablog.wordpress.com/2014/01/27/nicolas-mugaveros-eight-million-copies-of-moby-dick-or-the-whale/)
 * [2025-10-22, 17:45:21](https://news.ycombinator.com/item?id=45672615) - [Sandhill cranes have adopted a Canada gosling](https://www.smithsonianmag.com/science-nature/these-sandhill-cranes-have-adopted-a-canadian-gosling-and-birders-have-flocked-to-watch-the-strange-family-180986828/)
 * [2025-10-22, 14:07:03](https://news.ycombinator.com/item?id=45669394) - [Why I'm teaching kids to hack computers](https://www.hacktivate.app/why-teach-kids-to-hack)
 * [2025-10-22, 06:41:09](https://news.ycombinator.com/item?id=45665617) - [Enchanting Imposters](https://daily.jstor.org/enchanting-imposters/)
