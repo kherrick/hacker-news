@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-10-27](index.md)
 
+* [2025-10-27, 04:00:39](https://news.ycombinator.com/item?id=45717285) - [Severe performance penalty found in VSCode rendering loop](https://github.com/microsoft/vscode/issues/272155)
+* [2025-10-27, 03:46:44](https://news.ycombinator.com/item?id=45717238) - [We're in the Wrong Moment](https://ezrichards.github.io/posts/were-in-the-wrong-moment/)
 * [2025-10-27, 02:33:07](https://news.ycombinator.com/item?id=45716844) - [Argentina's midterm election hands landslide win to Milei's libertarian overhaul](https://www.cnbc.com/2025/10/27/argentinas-midterm-election-hands-landslide-win-to-mileis-libertarian-overhaul.html)
 * [2025-10-27, 00:43:32](https://news.ycombinator.com/item?id=45716296) - [ICE Will Use AI to Surveil Social Media](https://jacobin.com/2025/10/ice-zignal-surveillance-social-media)
 * [2025-10-27, 00:01:17](https://news.ycombinator.com/item?id=45716109) - [How I turned Zig into my favorite language to write network programs in](https://lalinsky.com/2025/10/26/zio-async-io-for-zig.html)
