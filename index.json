@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-10-27, 15:12:08",
+      "https://news.ycombinator.com/item?id=45721904"
+    ],
+    [
+      "PSF has withdrawn $1.5M proposal to US Government grant program",
+      "https://pyfound.blogspot.com/2025/10/NSF-funding-statement.html"
+    ]
+  ],
+  [
+    [
+      "2025-10-27, 14:54:14",
+      "https://news.ycombinator.com/item?id=45721682"
+    ],
+    [
+      "Microsoft in court for allegedly misleading Australians over 365 subscriptions",
+      "https://www.accc.gov.au/media-release/microsoft-in-court-for-allegedly-misleading-millions-of-australians-over-microsoft-365-subscriptions"
+    ]
+  ],
+  [
+    [
       "2025-10-27, 14:30:18",
       "https://news.ycombinator.com/item?id=45721410"
     ],
@@ -91,32 +111,12 @@
   ],
   [
     [
-      "2025-10-27, 09:31:29",
-      "https://news.ycombinator.com/item?id=45718908"
-    ],
-    [
-      "WorldGrow: Generating Infinite 3D World",
-      "https://github.com/world-grow/WorldGrow"
-    ]
-  ],
-  [
-    [
       "2025-10-27, 08:50:10",
       "https://news.ycombinator.com/item?id=45718665"
     ],
     [
       "What happened to running what you wanted on your own machine?",
       "https://hackaday.com/2025/10/22/what-happened-to-running-what-you-wanted-on-your-own-machine/"
-    ]
-  ],
-  [
-    [
-      "2025-10-27, 08:28:43",
-      "https://news.ycombinator.com/item?id=45718546"
-    ],
-    [
-      "If your adversary is the mossad (2014) [pdf]",
-      "https://www.usenix.org/system/files/1401_08-12_mickens.pdf"
     ]
   ],
   [
@@ -161,6 +161,16 @@
   ],
   [
     [
+      "2025-10-26, 23:08:09",
+      "https://news.ycombinator.com/item?id=45715873"
+    ],
+    [
+      "Are-we-fast-yet implementations in Oberon, C++, C, Pascal, Micron and Luon",
+      "https://github.com/rochus-keller/Are-we-fast-yet"
+    ]
+  ],
+  [
+    [
       "2025-10-26, 20:43:40",
       "https://news.ycombinator.com/item?id=45715055"
     ],
@@ -187,16 +197,6 @@
     [
       "Ken Thompson recalls Unix's rowdy, lock-picking origins",
       "https://thenewstack.io/ken-thompson-recalls-unixs-rowdy-lock-picking-origins/"
-    ]
-  ],
-  [
-    [
-      "2025-10-26, 10:53:37",
-      "https://news.ycombinator.com/item?id=45710721"
-    ],
-    [
-      "You already have a Git server",
-      "https://maurycyz.com/misc/easy_git/"
     ]
   ],
   [
