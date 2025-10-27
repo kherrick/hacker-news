@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-10-27](index.md)
 
+* [2025-10-27, 14:30:18](https://news.ycombinator.com/item?id=45721410) - [More big companies bet they can still grow without hiring](https://www.wsj.com/business/companies-hiring-jobs-ai-9ef675b6)
 * [2025-10-27, 12:39:52](https://news.ycombinator.com/item?id=45720345) - [Pre-emptive Z80 multitasking explainer](https://github.com/bchiha/Ready-Z80/tree/main/29-Multitasking)
 * [2025-10-27, 12:00:30](https://news.ycombinator.com/item?id=45719996) - [Artifact (YC W25) is hiring engineers in NYC to build modern ECAD](https://news.ycombinator.com/item?id=45719996)
 * [2025-10-27, 11:53:22](https://news.ycombinator.com/item?id=45719927) - [Amazon strategised about keeping water use secret](https://www.source-material.org/amazon-leak-reveals-true-data-centres-water-usage-secret-plan/)

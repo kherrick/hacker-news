@@ -36,6 +36,7 @@
 * [2025-10-24, 12:33:10](https://news.ycombinator.com/item?id=45693978) - [Typst 0.14: Now Accessible](https://typst.app/blog/2025/typst-0.14/)
 * [2025-10-24, 12:24:52](https://news.ycombinator.com/item?id=45693929) - [Intel hamstrung by supply shortages across its business](https://www.tomshardware.com/pc-components/cpus/intel-hamstrung-by-supply-shortages-across-its-business-including-production-capacity-says-it-will-prioritize-data-center-cpus-over-consumer-chips-warns-of-price-hikes)
 * [2025-10-24, 12:21:55](https://news.ycombinator.com/item?id=45693904) - [Show HN: A fast, privacy-first image converter that runs in browser](https://imageconverter.dev/)
+* [2025-10-24, 12:17:48](https://news.ycombinator.com/item?id=45693871) - [OpenBSD C/C++ Toolchain in the Browser](https://openbsd.llvm.moe/)
 * [2025-10-24, 12:10:25](https://news.ycombinator.com/item?id=45693814) - [Rust Contagious Borrow Issue](https://qouteall.fun/qouteall-blog/2025/How%20to%20Avoid%20Fighting%20Rust%20Borrow%20Checker#contagious-borrow-issue)
 * [2025-10-24, 12:01:08](https://news.ycombinator.com/item?id=45693743) - [Padlet (YC W13) Is Hiring in San Francisco and Singapore](https://padlet.jobs)
 * [2025-10-24, 11:42:29](https://news.ycombinator.com/item?id=45693599) - [Mind-boggling' poker fraud used X-ray tables, high-tech glasses and NBA players](https://www.bbc.com/news/articles/cz6nd9wnzn6o)
