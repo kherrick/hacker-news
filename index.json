@@ -201,6 +201,16 @@
   ],
   [
     [
+      "2025-10-22, 22:26:45",
+      "https://news.ycombinator.com/item?id=45675956"
+    ],
+    [
+      "An overengineered solution to `sort | uniq -c` with 25x throughput (hist)",
+      "https://github.com/noamteyssier/hist-rs"
+    ]
+  ],
+  [
+    [
       "2025-10-22, 17:45:21",
       "https://news.ycombinator.com/item?id=45672615"
     ],
@@ -287,16 +297,6 @@
     [
       "Searching for Charles Fourier in the ruins of a socialist utopia outside LA",
       "https://kubicki.org/letters/the-dogs-of-llano-del-rio-i/"
-    ]
-  ],
-  [
-    [
-      "2025-10-18, 21:48:37",
-      "https://news.ycombinator.com/item?id=45630599"
-    ],
-    [
-      "Downloadable movie posters from the 40s, 50s, 60s, and 70s",
-      "https://hrc.contentdm.oclc.org/digital/collection/p15878coll84/search"
     ]
   ]
 ]
