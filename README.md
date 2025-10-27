@@ -19,7 +19,6 @@
 * [2025-10-26, 16:57:12](https://news.ycombinator.com/item?id=45713359) - [Ken Thompson recalls Unix's rowdy, lock-picking origins](https://thenewstack.io/ken-thompson-recalls-unixs-rowdy-lock-picking-origins/)
 * [2025-10-26, 12:09:02](https://news.ycombinator.com/item?id=45711094) - [Feed the bots](https://maurycyz.com/misc/the_cost_of_trash/)
 * [2025-10-26, 10:53:37](https://news.ycombinator.com/item?id=45710721) - [You already have a Git server](https://maurycyz.com/misc/easy_git/)
-* [2025-10-26, 08:34:38](https://news.ycombinator.com/item?id=45710065) - [Asbestosis](https://diamondgeezer.blogspot.com/2025/10/asbestosis.html)
 * [2025-10-23, 17:21:41](https://news.ycombinator.com/item?id=45684414) - [Tamper-Sensing Meshes Using Low-Cost, Embedded Time-Domain Reflectometry](https://jaseg.de/blog/paper-sampling-mesh-monitor/)
 * [2025-10-23, 17:06:35](https://news.ycombinator.com/item?id=45684253) - [A bug that taught me more about PyTorch than years of using it](https://elanapearl.github.io/blog/2025/the-bug-that-taught-me-pytorch/)
 * [2025-10-23, 16:16:35](https://news.ycombinator.com/item?id=45683643) - [Unexpected patterns in historical astronomical observations](https://www.su.se/english/news/unexpected-patterns-in-historical-astronomical-observations-1.855042)
@@ -28,6 +27,7 @@
 * [2025-10-22, 22:26:45](https://news.ycombinator.com/item?id=45675956) - [An overengineered solution to `sort | uniq -c` with 25x throughput (hist)](https://github.com/noamteyssier/hist-rs)
 * [2025-10-22, 17:45:21](https://news.ycombinator.com/item?id=45672615) - [Sandhill cranes have adopted a Canada gosling](https://www.smithsonianmag.com/science-nature/these-sandhill-cranes-have-adopted-a-canadian-gosling-and-birders-have-flocked-to-watch-the-strange-family-180986828/)
 * [2025-10-22, 14:07:03](https://news.ycombinator.com/item?id=45669394) - [Why I'm teaching kids to hack computers](https://www.hacktivate.app/why-teach-kids-to-hack)
+* [2025-10-22, 06:41:09](https://news.ycombinator.com/item?id=45665617) - [Enchanting Imposters](https://daily.jstor.org/enchanting-imposters/)
 * [2025-10-21, 06:20:38](https://news.ycombinator.com/item?id=45652998) - [Geoutil.com – Measure distances, areas, and convert geo data in the browser](https://geoutil.com)
 * [2025-10-21, 06:10:57](https://news.ycombinator.com/item?id=45652952) - [Should LLMs just treat text content as an image?](https://www.seangoedecke.com/text-tokens-as-image-tokens/)
 
