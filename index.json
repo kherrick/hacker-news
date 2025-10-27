@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-10-27, 20:57:12",
+      "https://news.ycombinator.com/item?id=45726192"
+    ],
+    [
+      "Easy RISC-V: An interactive introduction to RISC-V assembly programming",
+      "https://dramforever.github.io/easyriscv/"
+    ]
+  ],
+  [
+    [
       "2025-10-27, 19:06:34",
       "https://news.ycombinator.com/item?id=45725009"
     ],
@@ -227,16 +237,6 @@
     [
       "TOON – Token Oriented Object Notation",
       "https://github.com/johannschopplich/toon"
-    ]
-  ],
-  [
-    [
-      "2025-10-25, 11:44:39",
-      "https://news.ycombinator.com/item?id=45703086"
-    ],
-    [
-      "Precise and scalable analogue matrix equation solving using RRAM chips [pdf]",
-      "https://www.nature.com/articles/s41928-025-01477-0.pdf"
     ]
   ],
   [
