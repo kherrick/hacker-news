@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-10-27](index.md)
 
+* [2025-10-27, 11:19:27](https://news.ycombinator.com/item?id=45719669) - [Microsoft's folds losses from OpenAI into $4.7B expense line – \"other\"](https://www.theverge.com/news/806880/microsofts-not-very-open-about-openai)
+* [2025-10-27, 11:10:18](https://news.ycombinator.com/item?id=45719614) - [SETL Programming Language](https://en.wikipedia.org/wiki/SETL)
 * [2025-10-27, 10:01:12](https://news.ycombinator.com/item?id=45719140) - [Don't Forget These Tags to Make HTML Work Like You Expect](https://blog.jim-nielsen.com/2025/dont-forget-these-html-tags/)
 * [2025-10-27, 09:44:18](https://news.ycombinator.com/item?id=45719004) - [Rust cross-platform GPUI components](https://github.com/longbridge/gpui-component)
 * [2025-10-27, 09:31:29](https://news.ycombinator.com/item?id=45718908) - [WorldGrow: Generating Infinite 3D World](https://github.com/world-grow/WorldGrow)

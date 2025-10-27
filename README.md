@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-10-27, 11:19:27](https://news.ycombinator.com/item?id=45719669) - [Microsoft's folds losses from OpenAI into $4.7B expense line – \"other\"](https://www.theverge.com/news/806880/microsofts-not-very-open-about-openai)
+* [2025-10-27, 11:10:18](https://news.ycombinator.com/item?id=45719614) - [SETL Programming Language](https://en.wikipedia.org/wiki/SETL)
 * [2025-10-27, 10:01:12](https://news.ycombinator.com/item?id=45719140) - [Don't Forget These Tags to Make HTML Work Like You Expect](https://blog.jim-nielsen.com/2025/dont-forget-these-html-tags/)
 * [2025-10-27, 09:44:18](https://news.ycombinator.com/item?id=45719004) - [Rust cross-platform GPUI components](https://github.com/longbridge/gpui-component)
 * [2025-10-27, 09:31:29](https://news.ycombinator.com/item?id=45718908) - [WorldGrow: Generating Infinite 3D World](https://github.com/world-grow/WorldGrow)
@@ -28,8 +30,6 @@
 * [2025-10-21, 06:20:38](https://news.ycombinator.com/item?id=45652998) - [Geoutil.com – Measure distances, areas, and convert geo data in the browser](https://geoutil.com)
 * [2025-10-21, 06:10:57](https://news.ycombinator.com/item?id=45652952) - [Should LLMs just treat text content as an image?](https://www.seangoedecke.com/text-tokens-as-image-tokens/)
 * [2025-10-21, 03:39:21](https://news.ycombinator.com/item?id=45652218) - [NORAD’s Cheyenne Mountain Combat Center, c.1966](https://flashbak.com/norad-cheyenne-mountain-combat-center-478804/)
-* [2025-10-20, 22:21:59](https://news.ycombinator.com/item?id=45650167) - [Eavesdropping on Internal Networks via Unencrypted Satellites](https://satcom.sysnet.ucsd.edu/)
-* [2025-10-20, 01:27:29](https://news.ycombinator.com/item?id=45639476) - [Researchers demonstrate centimetre-level positioning using smartwatches](https://www.otago.ac.nz/news/newsroom/researchers-demonstrate-centimetre-level-positioning-using-smartwatches)
 
 ## [Archives](archives/index.md)
 
