@@ -21,16 +21,6 @@
   ],
   [
     [
-      "2025-10-27, 17:51:16",
-      "https://news.ycombinator.com/item?id=45724159"
-    ],
-    [
-      "Carl Bohland's Auto Wash Bowl (2015)",
-      "https://news.wttw.com/2015/07/29/ask-geoffrey"
-    ]
-  ],
-  [
-    [
       "2025-10-27, 17:42:23",
       "https://news.ycombinator.com/item?id=45724045"
     ],
@@ -67,6 +57,16 @@
     [
       "MCP-Scanner – Scan MCP Servers for vulnerabilities",
       "https://github.com/cisco-ai-defense/mcp-scanner"
+    ]
+  ],
+  [
+    [
+      "2025-10-27, 17:17:38",
+      "https://news.ycombinator.com/item?id=45723686"
+    ],
+    [
+      "The new calculus of AI-based coding",
+      "https://blog.joemag.dev/2025/10/the-new-calculus-of-ai-based-coding.html"
     ]
   ],
   [
@@ -221,12 +221,22 @@
   ],
   [
     [
-      "2025-10-27, 08:58:10",
-      "https://news.ycombinator.com/item?id=45718711"
+      "2025-10-26, 22:19:02",
+      "https://news.ycombinator.com/item?id=45715632"
     ],
     [
-      "The last European train that travels by sea",
-      "https://www.bbc.com/travel/article/20251024-the-last-european-train-that-travels-by-sea"
+      "TOON – Token Oriented Object Notation",
+      "https://github.com/johannschopplich/toon"
+    ]
+  ],
+  [
+    [
+      "2025-10-25, 11:44:39",
+      "https://news.ycombinator.com/item?id=45703086"
+    ],
+    [
+      "Precise and scalable analogue matrix equation solving using RRAM chips [pdf]",
+      "https://www.nature.com/articles/s41928-025-01477-0.pdf"
     ]
   ],
   [
@@ -251,12 +261,12 @@
   ],
   [
     [
-      "2025-10-23, 11:21:04",
-      "https://news.ycombinator.com/item?id=45680583"
+      "2025-10-24, 19:38:44",
+      "https://news.ycombinator.com/item?id=45698323"
     ],
     [
-      "Corrosion",
-      "https://fly.io/blog/corrosion/"
+      "Image Dithering: Eleven Algorithms and Source Code (2012)",
+      "https://tannerhelland.com/2012/12/28/dithering-eleven-algorithms-source-code.html"
     ]
   ],
   [
@@ -277,16 +287,6 @@
     [
       "Solving regex crosswords with Z3",
       "https://blog.nelhage.com/post/regex-crosswords-z3/"
-    ]
-  ],
-  [
-    [
-      "2025-10-21, 06:10:57",
-      "https://news.ycombinator.com/item?id=45652952"
-    ],
-    [
-      "Should LLMs just treat text content as an image?",
-      "https://www.seangoedecke.com/text-tokens-as-image-tokens/"
     ]
   ],
   [
