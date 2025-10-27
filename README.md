@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-10-27, 20:57:12](https://news.ycombinator.com/item?id=45726192) - [Easy RISC-V: An interactive introduction to RISC-V assembly programming](https://dramforever.github.io/easyriscv/)
 * [2025-10-27, 19:06:34](https://news.ycombinator.com/item?id=45725009) - [Study finds growing social circles may fuel polarization](https://phys.org/news/2025-10-friends-division-social-circles-fuel.html)
 * [2025-10-27, 18:57:57](https://news.ycombinator.com/item?id=45724913) - [Creating an all-weather driver](https://waymo.com/blog/2025/10/creating-an-all-weather-driver)
 * [2025-10-27, 17:42:23](https://news.ycombinator.com/item?id=45724045) - [Why Nigeria accepted GMOs](https://www.asimov.press/p/nigeria-crops)
@@ -23,7 +24,6 @@
 * [2025-10-27, 10:01:12](https://news.ycombinator.com/item?id=45719140) - [Tags to make HTML work like you expect](https://blog.jim-nielsen.com/2025/dont-forget-these-html-tags/)
 * [2025-10-27, 09:44:18](https://news.ycombinator.com/item?id=45719004) - [Rust cross-platform GPUI components](https://github.com/longbridge/gpui-component)
 * [2025-10-26, 22:19:02](https://news.ycombinator.com/item?id=45715632) - [TOON – Token Oriented Object Notation](https://github.com/johannschopplich/toon)
-* [2025-10-25, 11:44:39](https://news.ycombinator.com/item?id=45703086) - [Precise and scalable analogue matrix equation solving using RRAM chips [pdf]](https://www.nature.com/articles/s41928-025-01477-0.pdf)
 * [2025-10-25, 08:41:59](https://news.ycombinator.com/item?id=45702274) - [Gitworkshop.dev – Collaborate on code over Nostr](https://gitworkshop.dev/)
 * [2025-10-25, 07:07:59](https://news.ycombinator.com/item?id=45701901) - [Simplify Your Code: Functional Core, Imperative Shell](https://testing.googleblog.com/2025/10/simplify-your-code-functional-core.html)
 * [2025-10-24, 19:38:44](https://news.ycombinator.com/item?id=45698323) - [Image Dithering: Eleven Algorithms and Source Code (2012)](https://tannerhelland.com/2012/12/28/dithering-eleven-algorithms-source-code.html)
