@@ -15,6 +15,7 @@
 * [2025-10-24, 20:25:58](https://news.ycombinator.com/item?id=45698716) - [TextEdit and the Relief of Simple Software](https://www.newyorker.com/culture/infinite-scroll/textedit-and-the-relief-of-simple-software)
 * [2025-10-24, 20:06:52](https://news.ycombinator.com/item?id=45698570) - [The Swift SDK for Android](https://www.swift.org/blog/nightly-swift-sdk-for-android/)
 * [2025-10-24, 20:05:07](https://news.ycombinator.com/item?id=45698554) - [Harnessing America's Heat Pump Moment](https://www.heatpumped.org/p/harnessing-america-s-heat-pump-moment)
+* [2025-10-24, 19:38:44](https://news.ycombinator.com/item?id=45698323) - [Image Dithering: Eleven Algorithms and Source Code (2012)](https://tannerhelland.com/2012/12/28/dithering-eleven-algorithms-source-code.html)
 * [2025-10-24, 19:09:08](https://news.ycombinator.com/item?id=45698070) - [WebDAV isn't dead yet](https://blog.feld.me/posts/2025/09/webdav-isnt-dead-yet/)
 * [2025-10-24, 18:30:28](https://news.ycombinator.com/item?id=45697649) - [Protein Is a Trap and I Have Fallen into It, or Second Breakfast #19](https://buttondown.com/meghanmccarron/archive/protein-is-a-trap-and-i-have-fallen-into-it-or/)
 * [2025-10-24, 17:18:17](https://news.ycombinator.com/item?id=45696838) - [How to Make a Smith Chart](https://www.johndcook.com/blog/2025/10/23/smith-chart/)
