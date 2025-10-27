@@ -1,12 +1,42 @@
 [
   [
     [
+      "2025-10-27, 08:58:10",
+      "https://news.ycombinator.com/item?id=45718711"
+    ],
+    [
+      "The last European train that travels by sea",
+      "https://www.bbc.com/travel/article/20251024-the-last-european-train-that-travels-by-sea"
+    ]
+  ],
+  [
+    [
+      "2025-10-27, 08:50:10",
+      "https://news.ycombinator.com/item?id=45718665"
+    ],
+    [
+      "What Happened to Running What You Wanted on Your Own Machine?",
+      "https://hackaday.com/2025/10/22/what-happened-to-running-what-you-wanted-on-your-own-machine/"
+    ]
+  ],
+  [
+    [
       "2025-10-27, 08:28:43",
       "https://news.ycombinator.com/item?id=45718546"
     ],
     [
       "If Your Adversary Is the Mossad (2014) [pdf]",
       "https://www.usenix.org/system/files/1401_08-12_mickens.pdf"
+    ]
+  ],
+  [
+    [
+      "2025-10-27, 08:17:52",
+      "https://news.ycombinator.com/item?id=45718490"
+    ],
+    [
+      "Why JPEG XL Ignoring Bit Depth Is Genius (and Why AVIF Can't Pull It Off)",
+      "https://www.fractionalxperience.com/ux-ui-graphic-design-blog/why-jpeg-xl-ignoring-bit-depth-is-genius"
     ]
   ],
   [
@@ -57,16 +87,6 @@
     [
       "Are-we-fast-yet implementations in Oberon, C++, C, Pascal, Micron and Luon",
       "https://github.com/rochus-keller/Are-we-fast-yet"
-    ]
-  ],
-  [
-    [
-      "2025-10-26, 22:58:31",
-      "https://news.ycombinator.com/item?id=45715837"
-    ],
-    [
-      "Microsoft 365 Copilot – Arbitrary Data Exfiltration via Mermaid Diagrams",
-      "https://www.adamlogue.com/microsoft-365-copilot-arbitrary-data-exfiltration-via-mermaid-diagrams-fixed/"
     ]
   ],
   [
@@ -221,16 +241,6 @@
   ],
   [
     [
-      "2025-10-22, 16:21:25",
-      "https://news.ycombinator.com/item?id=45671475"
-    ],
-    [
-      "Wren: A classy little scripting language",
-      "https://wren.io/"
-    ]
-  ],
-  [
-    [
       "2025-10-22, 14:07:03",
       "https://news.ycombinator.com/item?id=45669394"
     ],
@@ -287,16 +297,6 @@
     [
       "Researchers demonstrate centimetre-level positioning using smartwatches",
       "https://www.otago.ac.nz/news/newsroom/researchers-demonstrate-centimetre-level-positioning-using-smartwatches"
-    ]
-  ],
-  [
-    [
-      "2025-10-19, 17:30:46",
-      "https://news.ycombinator.com/item?id=45636033"
-    ],
-    [
-      "Searching for Charles Fourier in the ruins of a socialist utopia outside LA",
-      "https://kubicki.org/letters/the-dogs-of-llano-del-rio-i/"
     ]
   ]
 ]
