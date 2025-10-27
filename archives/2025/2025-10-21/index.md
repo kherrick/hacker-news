@@ -49,6 +49,7 @@
 * [2025-10-21, 14:11:01](https://news.ycombinator.com/item?id=45656044) - [WindBorne CEO says his company's balloon may be the cause of UA emergency](https://twitter.com/johndeanl/status/1980462264974209292)
 * [2025-10-21, 14:11:01](https://news.ycombinator.com/item?id=45656044) - [UA 1093](https://windbornesystems.com/blog/ua-1093)
 * [2025-10-21, 14:00:41](https://news.ycombinator.com/item?id=45655920) - [Show HN: W++ – Garbage-Collected Threads](https://news.ycombinator.com/item?id=45655920)
+* [2025-10-21, 13:57:28](https://news.ycombinator.com/item?id=45655885) - [Termite farmers fine-tune their weed control](https://arstechnica.com/science/2025/10/termite-farmers-fine-tune-their-weed-control/)
 * [2025-10-21, 13:19:23](https://news.ycombinator.com/item?id=45655413) - [Don't use AI to tell you how to vote in election, says Dutch watchdog](https://www.theguardian.com/world/2025/oct/21/ai-chatbots-unreliable-biased-advice-voters-dutch-watchdog)
 * [2025-10-21, 13:17:59](https://news.ycombinator.com/item?id=45655393) - [SierraDB: A distributed event store built in Rust](https://tqwewe.com/blog/building-sierradb/)
 * [2025-10-21, 13:15:03](https://news.ycombinator.com/item?id=45655361) - [The Karpathy Interview, 6 Months After AI 2027](https://futuresearch.ai/ai-2027-6-months-later/)

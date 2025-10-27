@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-10-27, 00:43:32](https://news.ycombinator.com/item?id=45716296) - [ICE Will Use AI to Surveil Social Media](https://jacobin.com/2025/10/ice-zignal-surveillance-social-media)
+* [2025-10-27, 02:33:07](https://news.ycombinator.com/item?id=45716844) - [Argentina's midterm election hands landslide win to Milei's libertarian overhaul](https://www.cnbc.com/2025/10/27/argentinas-midterm-election-hands-landslide-win-to-mileis-libertarian-overhaul.html)
 * [2025-10-27, 00:01:17](https://news.ycombinator.com/item?id=45716109) - [How I turned Zig into my favorite language to write network programs in](https://lalinsky.com/2025/10/26/zio-async-io-for-zig.html)
 * [2025-10-26, 23:08:09](https://news.ycombinator.com/item?id=45715873) - [Are-we-fast-yet implementations in Oberon, C++, C, Pascal, Micron and Luon](https://github.com/rochus-keller/Are-we-fast-yet)
 * [2025-10-26, 22:58:31](https://news.ycombinator.com/item?id=45715837) - [Microsoft 365 Copilot – Arbitrary Data Exfiltration via Mermaid Diagrams](https://www.adamlogue.com/microsoft-365-copilot-arbitrary-data-exfiltration-via-mermaid-diagrams-fixed/)
@@ -10,7 +10,6 @@
 * [2025-10-26, 21:05:09](https://news.ycombinator.com/item?id=45715204) - [We Saved $500k per Year by Rolling Our Own \"S3\"](https://engineering.nanit.com/how-we-saved-500-000-per-year-by-rolling-our-own-s3-6caec1ee1143)
 * [2025-10-26, 20:43:40](https://news.ycombinator.com/item?id=45715055) - [Show HN: MyraOS – My 32-bit operating system in C and ASM (Hack Club project)](https://github.com/dvir-biton/MyraOS)
 * [2025-10-26, 18:09:37](https://news.ycombinator.com/item?id=45713959) - [A definition of AGI](https://arxiv.org/abs/2510.18212)
-* [2025-10-26, 17:53:22](https://news.ycombinator.com/item?id=45713835) - [Nvidia DGX Spark: When benchmark numbers meet production reality](https://publish.obsidian.md/aixplore/Practical+Applications/dgx-lab-benchmarks-vs-reality-day-4)
 * [2025-10-26, 17:40:06](https://news.ycombinator.com/item?id=45713738) - [Alzheimer's disrupts circadian rhythms of plaque-clearing brain cells](https://medicine.washu.edu/news/alzheimers-disrupts-circadian-rhythms-of-plaque-clearing-brain-cells/)
 * [2025-10-26, 16:57:12](https://news.ycombinator.com/item?id=45713359) - [Ken Thompson recalls Unix's rowdy, lock-picking origins](https://thenewstack.io/ken-thompson-recalls-unixs-rowdy-lock-picking-origins/)
 * [2025-10-26, 16:46:22](https://news.ycombinator.com/item?id=45713253) - [Making the Electron Microscope](https://www.asimov.press/p/electron-microscope)
@@ -26,6 +25,7 @@
 * [2025-10-22, 17:45:21](https://news.ycombinator.com/item?id=45672615) - [Sandhill cranes have adopted a Canada gosling](https://www.smithsonianmag.com/science-nature/these-sandhill-cranes-have-adopted-a-canadian-gosling-and-birders-have-flocked-to-watch-the-strange-family-180986828/)
 * [2025-10-22, 16:21:25](https://news.ycombinator.com/item?id=45671475) - [Wren: A classy little scripting language](https://wren.io/)
 * [2025-10-22, 02:01:14](https://news.ycombinator.com/item?id=45664139) - [System.LongBool](https://docwiki.embarcadero.com/Libraries/Sydney/en/System.LongBool)
+* [2025-10-21, 13:57:28](https://news.ycombinator.com/item?id=45655885) - [Termite farmers fine-tune their weed control](https://arstechnica.com/science/2025/10/termite-farmers-fine-tune-their-weed-control/)
 * [2025-10-21, 03:39:21](https://news.ycombinator.com/item?id=45652218) - [NORAD’s Cheyenne Mountain Combat Center, c.1966](https://flashbak.com/norad-cheyenne-mountain-combat-center-478804/)
 * [2025-10-20, 22:21:59](https://news.ycombinator.com/item?id=45650167) - [Eavesdropping on Internal Networks via Unencrypted Satellites](https://satcom.sysnet.ucsd.edu/)
 * [2025-10-20, 01:27:29](https://news.ycombinator.com/item?id=45639476) - [Researchers demonstrate centimetre-level positioning using smartwatches](https://www.otago.ac.nz/news/newsroom/researchers-demonstrate-centimetre-level-positioning-using-smartwatches)
