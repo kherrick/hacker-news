@@ -48,6 +48,7 @@
 * [2025-10-27, 08:17:52](https://news.ycombinator.com/item?id=45718490) - [Why JPEG XL Ignoring Bit Depth Is Genius (and Why AVIF Can't Pull It Off)](https://www.fractionalxperience.com/ux-ui-graphic-design-blog/why-jpeg-xl-ignoring-bit-depth-is-genius)
 * [2025-10-27, 07:52:29](https://news.ycombinator.com/item?id=45718367) - [My Email to Tim Cook](https://substack.com/inbox/post/175351960)
 * [2025-10-27, 07:24:19](https://news.ycombinator.com/item?id=45718231) - [Recall for Linux](https://github.com/rolflobker/recall-for-linux)
+* [2025-10-27, 06:36:27](https://news.ycombinator.com/item?id=45718002) - [Stack walking: space and time trade-offs](https://maskray.me/blog/2025-10-26-stack-walking-space-and-time-trade-offs)
 * [2025-10-27, 05:36:13](https://news.ycombinator.com/item?id=45717724) - [Show HN: Write Go code in JavaScript files](https://www.npmjs.com/package/vite-plugin-use-golang)
 * [2025-10-27, 05:01:37](https://news.ycombinator.com/item?id=45717564) - [Diphtheria, a Once Vanquished Killer of Children, Is Resurgent](https://www.nytimes.com/2025/10/27/health/diptheria-somalia-vaccines.html)
 * [2025-10-27, 04:27:45](https://news.ycombinator.com/item?id=45717397) - [Structure and Interpretation of Classical Mechanics](https://tgvaughan.github.io/sicm/toc.html)
