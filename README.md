@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-10-28, 04:43:49](https://news.ycombinator.com/item?id=45729265) - [Three tough truths about climate](https://www.gatesnotes.com/home/home-page-topic/reader/three-tough-truths-about-climate)
+* [2025-10-28, 03:32:09](https://news.ycombinator.com/item?id=45728975) - [Complete Digitization of Leonardo da Vinci's Codex Atlanticus](https://www.openculture.com/2025/10/digitization-of-leonardo-da-vincis-codex-atlanticus.html)
 * [2025-10-27, 23:41:32](https://news.ycombinator.com/item?id=45727664) - [AI can code, but it can't build software](https://bytesauna.com/post/coding-vs-software-engineering)
 * [2025-10-27, 23:28:13](https://news.ycombinator.com/item?id=45727557) - [Iroh-blobs](https://www.iroh.computer/blog/iroh-blobs-0-95-new-features)
 * [2025-10-27, 22:35:00](https://news.ycombinator.com/item?id=45727137) - [Are these real CVEs? VulDB entries for dnsmasq rely on replacing config files](https://seclists.org/oss-sec/2025/q4/79)
@@ -11,7 +13,6 @@
 * [2025-10-27, 17:18:39](https://news.ycombinator.com/item?id=45723699) - [MCP-Scanner – Scan MCP Servers for vulnerabilities](https://github.com/cisco-ai-defense/mcp-scanner)
 * [2025-10-27, 17:17:38](https://news.ycombinator.com/item?id=45723686) - [The new calculus of AI-based coding](https://blog.joemag.dev/2025/10/the-new-calculus-of-ai-based-coding.html)
 * [2025-10-27, 17:14:34](https://news.ycombinator.com/item?id=45723646) - [Show HN: Dlog – Journaling and AI coach that learns what drives wellbeing (Mac)](https://dlog.pro/)
-* [2025-10-27, 17:08:33](https://news.ycombinator.com/item?id=45723554) - [Avoid 2:00 and 3:00 am cron jobs (2013)](https://www.endpointdev.com/blog/2013/04/avoid-200-and-300-am-cron-jobs/)
 * [2025-10-27, 17:01:05](https://news.ycombinator.com/item?id=45723426) - [Sieve (YC X25) is hiring engineers to build video datasets for frontier AI](https://www.sievedata.com/)
 * [2025-10-27, 16:56:04](https://news.ycombinator.com/item?id=45723359) - [Why Busy Beaver hunters fear the Antihydra](https://benbrubaker.com/why-busy-beaver-hunters-fear-the-antihydra/)
 * [2025-10-27, 16:44:17](https://news.ycombinator.com/item?id=45723159) - [JetKVM – Control any computer remotely](https://jetkvm.com/)
@@ -22,7 +23,6 @@
 * [2025-10-27, 15:12:08](https://news.ycombinator.com/item?id=45721904) - [PSF has withdrawn $1.5M proposal to US Government grant program](https://pyfound.blogspot.com/2025/10/NSF-funding-statement.html)
 * [2025-10-27, 15:04:05](https://news.ycombinator.com/item?id=45721801) - [Pyrex catalog from from 1938 with hand-drawn lab glassware [pdf]](https://exhibitdb.cmog.org/opacimages/Images/Pyrex/Rakow_1000132877.pdf)
 * [2025-10-27, 12:42:42](https://news.ycombinator.com/item?id=45720376) - [10M people watched a YouTuber shim a lock; the lock company sued him – bad idea](https://arstechnica.com/tech-policy/2025/10/suing-a-popular-youtuber-who-shimmed-a-130-lock-what-could-possibly-go-wrong/)
-* [2025-10-27, 09:31:29](https://news.ycombinator.com/item?id=45718908) - [WorldGrow: Generating Infinite 3D World](https://github.com/world-grow/WorldGrow)
 * [2025-10-27, 08:58:10](https://news.ycombinator.com/item?id=45718711) - [The last European train that travels by sea](https://www.bbc.com/travel/article/20251024-the-last-european-train-that-travels-by-sea)
 * [2025-10-26, 22:19:02](https://news.ycombinator.com/item?id=45715632) - [TOON – Token Oriented Object Notation](https://github.com/johannschopplich/toon)
 * [2025-10-26, 19:00:07](https://news.ycombinator.com/item?id=45714348) - [Smartphones manipulate our emotions and trigger our reflexes](https://theconversation.com/smartphones-manipulate-our-emotions-and-trigger-our-reflexes-no-wonder-were-addicted-265014)
