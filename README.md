@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-10-28, 22:33:51](https://news.ycombinator.com/item?id=45740161) - [Waymo runs over neighborhood cat in Mission District](https://www.instagram.com/p/DQXZH4TEnC0/)
 * [2025-10-28, 21:33:01](https://news.ycombinator.com/item?id=45739515) - [Tor Browser 15.0](https://blog.torproject.org/new-release-tor-browser-150/)
 * [2025-10-28, 21:31:50](https://news.ycombinator.com/item?id=45739499) - [If you don't tinker, you don't have taste](https://seated.ro/blog/tinkering-a-lost-art)
 * [2025-10-28, 20:58:22](https://news.ycombinator.com/item?id=45739080) - [Generative AI Image Editing Showdown](https://genai-showdown.specr.net/image-editing)
@@ -22,7 +23,6 @@
 * [2025-10-28, 13:48:51](https://news.ycombinator.com/item?id=45732874) - [Ubiquiti SFP Wizard](https://blog.ui.com/article/welcome-to-sfp-liberation-day)
 * [2025-10-28, 13:22:24](https://news.ycombinator.com/item?id=45732552) - [Sick: Indexed deduplicated binary storage for JSON-like data structures](https://github.com/7mind/sick)
 * [2025-10-28, 13:16:40](https://news.ycombinator.com/item?id=45732485) - [Austrian ministry kicks out Microsoft in favor of Nextcloud](https://news.itsfoss.com/austrian-ministry-kicks-out-microsoft/)
-* [2025-10-28, 13:05:40](https://news.ycombinator.com/item?id=45732350) - [The next chapter of the Microsoft–OpenAI partnership](https://openai.com/index/next-chapter-of-microsoft-openai-partnership/)
 * [2025-10-28, 11:12:32](https://news.ycombinator.com/item?id=45731366) - [Show HN: Bash Screensavers](https://github.com/attogram/bash-screensavers)
 * [2025-10-28, 07:42:18](https://news.ycombinator.com/item?id=45730094) - [Poker Tournament for LLMs](https://pokerbattle.ai/event)
 * [2025-10-27, 14:25:00](https://news.ycombinator.com/item?id=45721352) - [Show HN: ISS in Real Time – 25 Years Aboard the International Space Station](https://issinrealtime.org)
