@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-10-28, 14:16:42](https://news.ycombinator.com/item?id=45733197) - [Washington Post editorials omit a key disclosure: Bezos' financial ties](https://www.npr.org/2025/10/28/nx-s1-5587932/washington-post-editorials-omit-a-key-disclosure-bezos-financial-ties)
+* [2025-10-28, 14:01:03](https://news.ycombinator.com/item?id=45733030) - [Society will accept a death caused by a robotaxi, Waymo co-CEO says](https://www.sfgate.com/tech/article/society-accept-robotaxi-death-waymo-21123178.php)
 * [2025-10-28, 13:22:24](https://news.ycombinator.com/item?id=45732552) - [Sick: Indexed deduplicated binary storage for JSON-like data structures](https://github.com/7mind/sick)
 * [2025-10-28, 13:16:40](https://news.ycombinator.com/item?id=45732485) - [Austrian Ministry Kicks Out Microsoft in Favor of Nextcloud](https://news.itsfoss.com/austrian-ministry-kicks-out-microsoft/)
 * [2025-10-28, 13:05:40](https://news.ycombinator.com/item?id=45732350) - [The next chapter of the Microsoft–OpenAI partnership](https://openai.com/index/next-chapter-of-microsoft-openai-partnership/)
@@ -10,7 +12,6 @@
 * [2025-10-28, 07:42:18](https://news.ycombinator.com/item?id=45730094) - [Poker Tournament for LLMs](https://pokerbattle.ai/event)
 * [2025-10-28, 05:28:55](https://news.ycombinator.com/item?id=45729467) - [Picture gallery: Amiga prototype \"Lorraine\" at the Amiga 40 event](https://www.amiga-news.de/en/news/AN-2025-10-00110-EN.html)
 * [2025-10-28, 03:32:09](https://news.ycombinator.com/item?id=45728975) - [Complete Digitization of Leonardo da Vinci's Codex Atlanticus](https://www.openculture.com/2025/10/digitization-of-leonardo-da-vincis-codex-atlanticus.html)
-* [2025-10-27, 23:28:13](https://news.ycombinator.com/item?id=45727557) - [Iroh-blobs](https://www.iroh.computer/blog/iroh-blobs-0-95-new-features)
 * [2025-10-27, 22:30:59](https://news.ycombinator.com/item?id=45727097) - [Linux VM without VM software – User Mode Linux](https://popovicu.com/posts/linux-vm-without-vm-software-user-mode/)
 * [2025-10-27, 22:26:30](https://news.ycombinator.com/item?id=45727060) - [OpenAI says over a million people talk to ChatGPT about suicide weekly](https://techcrunch.com/2025/10/27/openai-says-over-a-million-people-talk-to-chatgpt-about-suicide-weekly/)
 * [2025-10-27, 20:57:12](https://news.ycombinator.com/item?id=45726192) - [Easy RISC-V](https://dramforever.github.io/easyriscv/)
@@ -21,7 +22,6 @@
 * [2025-10-27, 15:04:05](https://news.ycombinator.com/item?id=45721801) - [Pyrex catalog from from 1938 with hand-drawn lab glassware [pdf]](https://exhibitdb.cmog.org/opacimages/Images/Pyrex/Rakow_1000132877.pdf)
 * [2025-10-27, 14:25:00](https://news.ycombinator.com/item?id=45721352) - [Show HN: ISS in Real Time – 25 Years Aboard the International Space Station](https://issinrealtime.org)
 * [2025-10-27, 12:42:42](https://news.ycombinator.com/item?id=45720376) - [10M people watched a YouTuber shim a lock; the lock company sued him – bad idea](https://arstechnica.com/tech-policy/2025/10/suing-a-popular-youtuber-who-shimmed-a-130-lock-what-could-possibly-go-wrong/)
-* [2025-10-26, 19:00:07](https://news.ycombinator.com/item?id=45714348) - [Smartphones manipulate our emotions and trigger our reflexes](https://theconversation.com/smartphones-manipulate-our-emotions-and-trigger-our-reflexes-no-wonder-were-addicted-265014)
 * [2025-10-25, 07:07:59](https://news.ycombinator.com/item?id=45701901) - [Simplify your code: Functional core, imperative shell](https://testing.googleblog.com/2025/10/simplify-your-code-functional-core.html)
 * [2025-10-25, 05:30:57](https://news.ycombinator.com/item?id=45701546) - [How the brain's activity, energy use and blood flow change as people fall asleep](https://www.massgeneralbrigham.org/en/about/newsroom/press-releases/research-shows-coordinated-shift-in-brain-activity-while-asleep)
 * [2025-10-24, 14:04:53](https://news.ycombinator.com/item?id=45694783) - [3D printed maquette of Amsterdam on scale 1:2000](https://www.at5.nl/nieuws/235139/de-hele-stad-in-schaal-12000-hell-of-a-job)
