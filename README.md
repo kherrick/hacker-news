@@ -1,12 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-10-28, 07:42:18](https://news.ycombinator.com/item?id=45730094) - [Poker Tournament for LLMs](https://pokerbattle.ai/event)
 * [2025-10-28, 07:38:37](https://news.ycombinator.com/item?id=45730073) - [Why IP address truncation fails at anonymization](https://00f.net/2025/10/27/ip-anonymization/)
 * [2025-10-28, 05:28:55](https://news.ycombinator.com/item?id=45729467) - [Picture gallery: Amiga prototype \"Lorraine\" at the Amiga 40 event](https://www.amiga-news.de/en/news/AN-2025-10-00110-EN.html)
 * [2025-10-28, 05:26:38](https://news.ycombinator.com/item?id=45729457) - [Show HN: Ordered – A sorted collection library for Zig](https://news.ycombinator.com/item?id=45729457)
 * [2025-10-28, 05:22:57](https://news.ycombinator.com/item?id=45729437) - [I built the same app 10 times: Evaluating frameworks for mobile performance](https://www.lorenstew.art/blog/10-kanban-boards/)
 * [2025-10-28, 03:32:09](https://news.ycombinator.com/item?id=45728975) - [Complete Digitization of Leonardo da Vinci's Codex Atlanticus](https://www.openculture.com/2025/10/digitization-of-leonardo-da-vincis-codex-atlanticus.html)
 * [2025-10-27, 23:28:13](https://news.ycombinator.com/item?id=45727557) - [Iroh-blobs](https://www.iroh.computer/blog/iroh-blobs-0-95-new-features)
-* [2025-10-27, 22:35:00](https://news.ycombinator.com/item?id=45727137) - [Are these real CVEs? VulDB entries for dnsmasq rely on replacing config files](https://seclists.org/oss-sec/2025/q4/79)
 * [2025-10-27, 22:30:59](https://news.ycombinator.com/item?id=45727097) - [Linux VM without VM software – User Mode Linux](https://popovicu.com/posts/linux-vm-without-vm-software-user-mode/)
 * [2025-10-27, 22:26:30](https://news.ycombinator.com/item?id=45727060) - [OpenAI says over a million people talk to ChatGPT about suicide weekly](https://techcrunch.com/2025/10/27/openai-says-over-a-million-people-talk-to-chatgpt-about-suicide-weekly/)
 * [2025-10-27, 20:57:12](https://news.ycombinator.com/item?id=45726192) - [Easy RISC-V](https://dramforever.github.io/easyriscv/)
