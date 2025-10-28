@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-10-28, 19:02:48](https://news.ycombinator.com/item?id=45737338) - [Samsung makes ads on $3,499 smart fridges official with upcoming software update](https://arstechnica.com/gadgets/2025/10/samsung-makes-ads-on-3499-smart-fridges-official-with-upcoming-software-update/)
-* [2025-10-28, 18:45:30](https://news.ycombinator.com/item?id=45737044) - [Grokipedia and the Coup Against Reality Itself](https://www.thedissident.news/grokipedia-and-the-coup-against-reality-itself/)
 * [2025-10-28, 18:12:10](https://news.ycombinator.com/item?id=45736608) - [Mapping the off-target effects of every FDA-approved drug in existence](https://www.owlposting.com/p/mapping-the-off-target-effects-of)
 * [2025-10-28, 18:04:00](https://news.ycombinator.com/item?id=45736499) - [Chrome to warn on unencrypted HTTP by default](https://security.googleblog.com/2025/10/https-by-default.html)
 * [2025-10-28, 18:02:36](https://news.ycombinator.com/item?id=45736479) - [What We Talk About When We Talk About Sideloading](https://f-droid.org/2025/10/28/sideloading.html)
 * [2025-10-28, 17:58:51](https://news.ycombinator.com/item?id=45736400) - [Show HN: Apache Fory Rust – 10-20x faster serialization than JSON/Protobuf](https://fory.apache.org/blog/2025/10/29/fory_rust_versatile_serialization_framework/)
+* [2025-10-28, 17:39:21](https://news.ycombinator.com/item?id=45736075) - [From epoll to io_uring's Multishot Receives](https://codemia.io/blog/path/From-epoll-to-iourings-Multishot-Receives--Why-2025-Is-the-Year-We-Finally-Kill-the-Event-Loop)
 * [2025-10-28, 17:00:31](https://news.ycombinator.com/item?id=45735491) - [SigNoz (YC W21) Is Hiring DevRel Engineers in the US – Open Source O11y Platform](https://jobs.ashbyhq.com/SigNoz/8447522c-1163-48d0-8f55-fac25f64a0f3)
 * [2025-10-28, 16:46:57](https://news.ycombinator.com/item?id=45735264) - [I've been loving Claude Code on the Web](https://ben.page/claude-code-web)
 * [2025-10-28, 16:07:27](https://news.ycombinator.com/item?id=45734696) - [Show HN: Dexto – Connect your AI Agents with real-world tools and data](https://github.com/truffle-ai/dexto)
