@@ -11,6 +11,7 @@
 * [2025-10-28, 19:38:53](https://news.ycombinator.com/item?id=45737941) - [Why do some radio towers blink?](https://www.jeffgeerling.com/blog/2025/why-do-some-radio-towers-blink)
 * [2025-10-28, 19:02:48](https://news.ycombinator.com/item?id=45737338) - [Samsung makes ads on $3,499 smart fridges official with upcoming software update](https://arstechnica.com/gadgets/2025/10/samsung-makes-ads-on-3499-smart-fridges-official-with-upcoming-software-update/)
 * [2025-10-28, 18:45:30](https://news.ycombinator.com/item?id=45737044) - [Grokipedia and the Coup Against Reality Itself](https://www.thedissident.news/grokipedia-and-the-coup-against-reality-itself/)
+* [2025-10-28, 18:37:33](https://news.ycombinator.com/item?id=45736925) - [Nearly 90% of Windows Games Now Run on Linux](https://www.tomshardware.com/software/linux/nearly-90-percent-of-windows-games-now-run-on-linux-latest-data-shows-as-windows-10-dies-gaming-on-linux-is-more-viable-than-ever)
 * [2025-10-28, 18:33:22](https://news.ycombinator.com/item?id=45736872) - [Passkeys: They're not perfect but they're getting better](https://www.ncsc.gov.uk/blog-post/passkeys-not-perfect-getting-better&lt;/a&gt;&lt;)
 * [2025-10-28, 18:12:10](https://news.ycombinator.com/item?id=45736608) - [Mapping the off-target effects of every FDA-approved drug in existence](https://www.owlposting.com/p/mapping-the-off-target-effects-of)
 * [2025-10-28, 18:04:00](https://news.ycombinator.com/item?id=45736499) - [Chrome to warn on unencrypted HTTP by default](https://security.googleblog.com/2025/10/https-by-default.html)
