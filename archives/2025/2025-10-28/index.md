@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-10-28](index.md)
 
+* [2025-10-28, 07:38:37](https://news.ycombinator.com/item?id=45730073) - [Why IP address truncation fails at anonymization](https://00f.net/2025/10/27/ip-anonymization/)
 * [2025-10-28, 05:56:45](https://news.ycombinator.com/item?id=45729599) - [Show HN: Write Node.js code in Rust to achieve massive HTTP throughput](https://www.npmjs.com/package/brahma-firelight)
 * [2025-10-28, 05:28:55](https://news.ycombinator.com/item?id=45729467) - [Picture gallery: Amiga prototype \"Lorraine\" at the Amiga 40 event](https://www.amiga-news.de/en/news/AN-2025-10-00110-EN.html)
 * [2025-10-28, 05:26:38](https://news.ycombinator.com/item?id=45729457) - [Show HN: Ordered – A sorted collection library for Zig](https://news.ycombinator.com/item?id=45729457)
