@@ -82,6 +82,7 @@
 * [2025-10-21, 05:47:39](https://news.ycombinator.com/item?id=45652859) - [Practical Scheme](https://practical-scheme.net/index.html#docs)
 * [2025-10-21, 05:41:39](https://news.ycombinator.com/item?id=45652821) - [Gleescript – Bundle Gleam-on-Erlang project into an executable file](https://github.com/lpil/gleescript)
 * [2025-10-21, 05:32:29](https://news.ycombinator.com/item?id=45652765) - [The Mild Mannered Englishman Who Was the Most Prolific Ghost Hunter](https://lithub.com/the-mild-mannered-englishman-who-was-the-worlds-most-prolific-ghost-hunter/)
+* [2025-10-21, 04:03:13](https://news.ycombinator.com/item?id=45652367) - [Finding my rhythm again](https://jeremydaly.com/finding-my-rhythm-again/)
 * [2025-10-21, 03:53:20](https://news.ycombinator.com/item?id=45652307) - [60k kids have avoided peanut allergies due to 2015 advice, study finds](https://www.cbsnews.com/news/peanut-allergies-60000-kids-avoided-2015-advice/)
 * [2025-10-21, 03:39:21](https://news.ycombinator.com/item?id=45652218) - [NORAD's Cheyenne Mountain Combat Center, C.1966](https://flashbak.com/norad-cheyenne-mountain-combat-center-478804/)
 * [2025-10-21, 01:42:59](https://news.ycombinator.com/item?id=45651554) - [Normalize.css](https://csstools.github.io/normalize.css/)
