@@ -46,6 +46,7 @@
 * [2025-10-24, 11:01:23](https://news.ycombinator.com/item?id=45693325) - [Bring Your 3D Models to Life](https://mesh2motion.org/)
 * [2025-10-24, 10:16:25](https://news.ycombinator.com/item?id=45692984) - [Twake Drive – The open-source alternative to Google Drive](https://github.com/linagora/twake-drive)
 * [2025-10-24, 10:07:34](https://news.ycombinator.com/item?id=45692915) - [Debian Technical Committee overrides systemd change](https://lwn.net/Articles/1041316/)
+* [2025-10-24, 09:43:06](https://news.ycombinator.com/item?id=45692747) - [Front-Panel Booting an ATmega88 Microcontroller](https://www.linusakesson.net/hardware/frontpanel/index.php)
 * [2025-10-24, 09:17:24](https://news.ycombinator.com/item?id=45692585) - [Interstellar Mission to a Black Hole](https://www.centauri-dreams.org/2025/10/23/interstellar-mission-to-a-black-hole/)
 * [2025-10-24, 08:24:16](https://news.ycombinator.com/item?id=45692241) - [ChatGPT Launches 'Company Knowledge'](https://openai.com/index/introducing-company-knowledge/)
 * [2025-10-24, 08:10:53](https://news.ycombinator.com/item?id=45692163) - [Britain's most tattooed man says UK's age check told him to \"remove his face\"](https://www.dexerto.com/entertainment/britains-most-tattooed-man-says-uks-age-check-system-told-him-to-remove-his-face-3232920/)
