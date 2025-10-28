@@ -29,7 +29,7 @@
 * [2025-10-21, 06:10:57](https://news.ycombinator.com/item?id=45652952) - [Should LLMs just treat text content as an image?](https://www.seangoedecke.com/text-tokens-as-image-tokens/)
 * [2025-10-21, 04:03:13](https://news.ycombinator.com/item?id=45652367) - [Finding my rhythm again](https://jeremydaly.com/finding-my-rhythm-again/)
 * [2025-10-20, 14:04:53](https://news.ycombinator.com/item?id=45644066) - [Go beyond Goroutines: introducing the Reactive paradigm](https://samuelberthe.substack.com/p/go-beyond-goroutines-introducing)
-* [2025-10-19, 16:19:35](https://news.ycombinator.com/item?id=45635384) - [Yet Another Year with Decker](http://beyondloom.com/blog/unionstate3.html)
+* [2025-10-19, 16:19:35](https://news.ycombinator.com/item?id=45635384) - [Yet another year with Decker](http://beyondloom.com/blog/unionstate3.html)
 
 ## [Archives](archives/index.md)
 
