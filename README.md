@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-10-28, 04:43:49](https://news.ycombinator.com/item?id=45729265) - [Three tough truths about climate](https://www.gatesnotes.com/home/home-page-topic/reader/three-tough-truths-about-climate)
+* [2025-10-28, 04:43:49](https://news.ycombinator.com/item?id=45729265) - [Tough truths about climate](https://www.gatesnotes.com/home/home-page-topic/reader/three-tough-truths-about-climate)
 * [2025-10-28, 03:32:09](https://news.ycombinator.com/item?id=45728975) - [Complete Digitization of Leonardo da Vinci's Codex Atlanticus](https://www.openculture.com/2025/10/digitization-of-leonardo-da-vincis-codex-atlanticus.html)
 * [2025-10-27, 23:41:32](https://news.ycombinator.com/item?id=45727664) - [AI can code, but it can't build software](https://bytesauna.com/post/coding-vs-software-engineering)
 * [2025-10-27, 23:28:13](https://news.ycombinator.com/item?id=45727557) - [Iroh-blobs](https://www.iroh.computer/blog/iroh-blobs-0-95-new-features)
