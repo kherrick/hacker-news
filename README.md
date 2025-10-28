@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-10-28, 20:12:14](https://news.ycombinator.com/item?id=45738472) - [Inside Amazon's Engineering Culture: Lessons from Their Senior Principals](https://olshansky.substack.com/p/inside-amazons-engineering-culture)
+* [2025-10-28, 20:12:14](https://news.ycombinator.com/item?id=45738472) - [Inside Amazon's engineering culture: Lessons from their senior principals](https://olshansky.substack.com/p/inside-amazons-engineering-culture)
 * [2025-10-28, 19:38:53](https://news.ycombinator.com/item?id=45737941) - [Why do some radio towers blink?](https://www.jeffgeerling.com/blog/2025/why-do-some-radio-towers-blink)
 * [2025-10-28, 18:12:10](https://news.ycombinator.com/item?id=45736608) - [Mapping the off-target effects of every FDA-approved drug in existence](https://www.owlposting.com/p/mapping-the-off-target-effects-of)
 * [2025-10-28, 18:04:00](https://news.ycombinator.com/item?id=45736499) - [Chrome to warn on unencrypted HTTP by default](https://security.googleblog.com/2025/10/https-by-default.html)
