@@ -22,6 +22,7 @@
 * [2025-10-22, 18:49:04](https://news.ycombinator.com/item?id=45673479) - [The Body Keeps the Score Is Bullshit](https://josepheverettwil.substack.com/p/the-body-keeps-the-score-is-bullshit)
 * [2025-10-22, 18:21:54](https://news.ycombinator.com/item?id=45673130) - [Mass Assignment Vulnerability Exposes Max Verstappen Passport and F1 Drivers PII](https://ian.sh/fia)
 * [2025-10-22, 18:00:20](https://news.ycombinator.com/item?id=45672844) - [Rivian's Also E-bike is like nothing you've ever seen](https://www.theverge.com/news/804157/rivian-tm-b-electric-bike-price-specs-helmet-quad)
+* [2025-10-22, 17:57:18](https://news.ycombinator.com/item?id=45672792) - [Dust samples from moon's far side show debris from rare, water-rich meteorites](https://www.sciencealert.com/china-brought-something-unexpected-back-from-the-far-side-of-the-moon)
 * [2025-10-22, 17:56:54](https://news.ycombinator.com/item?id=45672788) - [42,600 ton ship to break the world record for the deepest drill at 7 miles](https://blog.bostonorganics.com/chinas-42600-ton-meng-xiang-aims-drill-7-miles-deep-breaking-records/)
 * [2025-10-22, 17:45:21](https://news.ycombinator.com/item?id=45672615) - [Sandhill cranes have adopted a Canada gosling](https://www.smithsonianmag.com/science-nature/these-sandhill-cranes-have-adopted-a-canadian-gosling-and-birders-have-flocked-to-watch-the-strange-family-180986828/)
 * [2025-10-22, 17:37:46](https://news.ycombinator.com/item?id=45672494) - [Jacqueline – A minimal i386 kernel written in Pascal](https://github.com/danirod/jacqueline)
