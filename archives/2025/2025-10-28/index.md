@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-10-28](index.md)
 
 * [2025-10-28, 17:00:31](https://news.ycombinator.com/item?id=45735491) - [SigNoz (YC W21) Is Hiring DevRel Engineers in the US – Open Source O11y Platform](https://jobs.ashbyhq.com/SigNoz/8447522c-1163-48d0-8f55-fac25f64a0f3)
+* [2025-10-28, 16:46:57](https://news.ycombinator.com/item?id=45735264) - [I've been loving Claude Code on the Web](https://ben.page/claude-code-web)
 * [2025-10-28, 16:32:27](https://news.ycombinator.com/item?id=45735044) - [HOPL: The Human Only Public License](https://vanderessen.com/posts/hopl/)
 * [2025-10-28, 16:17:16](https://news.ycombinator.com/item?id=45734834) - [Texas Attorney General sues Tylenol makers over autism claims](https://www.bbc.com/news/articles/ce9d3n1r08do)
 * [2025-10-28, 16:07:27](https://news.ycombinator.com/item?id=45734696) - [Show HN: Dexto – Connect your AI Agents with real-world tools and data](https://github.com/truffle-ai/dexto)
