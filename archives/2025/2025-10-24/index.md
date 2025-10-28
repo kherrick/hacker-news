@@ -50,6 +50,7 @@
 * [2025-10-24, 08:24:16](https://news.ycombinator.com/item?id=45692241) - [ChatGPT Launches 'Company Knowledge'](https://openai.com/index/introducing-company-knowledge/)
 * [2025-10-24, 08:10:53](https://news.ycombinator.com/item?id=45692163) - [Britain's most tattooed man says UK's age check told him to \"remove his face\"](https://www.dexerto.com/entertainment/britains-most-tattooed-man-says-uks-age-check-system-told-him-to-remove-his-face-3232920/)
 * [2025-10-24, 05:32:04](https://news.ycombinator.com/item?id=45691127) - [Alaska Airlines' statement on IT outage](https://news.alaskaair.com/on-the-record/alaska-statement-on-it-outage/)
+* [2025-10-24, 05:14:50](https://news.ycombinator.com/item?id=45691002) - [The Light of \"The Brothers Karamazov\"](https://www.newyorker.com/books/second-read/the-light-of-the-brothers-karamazov)
 * [2025-10-24, 04:46:50](https://news.ycombinator.com/item?id=45690871) - [RFC 863 – Discard Protocol](https://datatracker.ietf.org/doc/html/rfc863)
 * [2025-10-24, 04:40:31](https://news.ycombinator.com/item?id=45690840) - ['Attention is all you need' coauthor says he's 'sick' of transformers](https://venturebeat.com/ai/sakana-ais-cto-says-hes-absolutely-sick-of-transformers-the-tech-that-powers)
 * [2025-10-24, 04:13:01](https://news.ycombinator.com/item?id=45690679) - [JupyterGIS breaks through to the next level](https://eo4society.esa.int/2025/10/16/jupytergis-breaks-through-to-the-next-level/)
