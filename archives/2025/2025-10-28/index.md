@@ -4,7 +4,11 @@
 
 ### [Archives](../../index.md) for [2025-10-28](index.md)
 
+* [2025-10-28, 18:33:22](https://news.ycombinator.com/item?id=45736872) - [Passkeys: They're not perfect but they're getting better](https://www.ncsc.gov.uk/blog-post/passkeys-not-perfect-getting-better&lt;/a&gt;&lt;)
 * [2025-10-28, 18:04:00](https://news.ycombinator.com/item?id=45736499) - [Chrome to warn on unencrypted HTTP by default](https://security.googleblog.com/2025/10/https-by-default.html)
+* [2025-10-28, 18:02:36](https://news.ycombinator.com/item?id=45736479) - [What We Talk About When We Talk About Sideloading](https://f-droid.org/2025/10/28/sideloading.html)
+* [2025-10-28, 18:01:40](https://news.ycombinator.com/item?id=45736457) - [1X Neo – Home Robot - Pre Order](https://www.1x.tech/order)
+* [2025-10-28, 17:58:51](https://news.ycombinator.com/item?id=45736400) - [Show HN: Apache Fory Rust – 10-20x faster serialization than JSON/Protobuf](https://fory.apache.org/blog/2025/10/29/fory_rust_versatile_serialization_framework/)
 * [2025-10-28, 17:00:31](https://news.ycombinator.com/item?id=45735491) - [SigNoz (YC W21) Is Hiring DevRel Engineers in the US – Open Source O11y Platform](https://jobs.ashbyhq.com/SigNoz/8447522c-1163-48d0-8f55-fac25f64a0f3)
 * [2025-10-28, 16:46:57](https://news.ycombinator.com/item?id=45735264) - [I've been loving Claude Code on the Web](https://ben.page/claude-code-web)
 * [2025-10-28, 16:32:27](https://news.ycombinator.com/item?id=45735044) - [HOPL: The Human Only Public License](https://vanderessen.com/posts/hopl/)
