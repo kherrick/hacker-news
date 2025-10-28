@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-10-28, 13:41:09](https://news.ycombinator.com/item?id=45732783) - [Microsoft to Get 27% of OpenAI, Access to AI Models Until 2032](https://www.bloomberg.com/news/articles/2025-10-28/microsoft-to-get-27-of-openai-access-to-ai-models-until-2032)
 * [2025-10-28, 13:22:24](https://news.ycombinator.com/item?id=45732552) - [Sick: Indexed deduplicated binary storage for JSON-like data structures](https://github.com/7mind/sick)
 * [2025-10-28, 13:16:40](https://news.ycombinator.com/item?id=45732485) - [Austrian Ministry Kicks Out Microsoft in Favor of Nextcloud](https://news.itsfoss.com/austrian-ministry-kicks-out-microsoft/)
 * [2025-10-28, 13:05:40](https://news.ycombinator.com/item?id=45732350) - [The next chapter of the Microsoft–OpenAI partnership](https://openai.com/index/next-chapter-of-microsoft-openai-partnership/)
@@ -25,9 +24,10 @@
 * [2025-10-26, 19:00:07](https://news.ycombinator.com/item?id=45714348) - [Smartphones manipulate our emotions and trigger our reflexes](https://theconversation.com/smartphones-manipulate-our-emotions-and-trigger-our-reflexes-no-wonder-were-addicted-265014)
 * [2025-10-25, 07:07:59](https://news.ycombinator.com/item?id=45701901) - [Simplify your code: Functional core, imperative shell](https://testing.googleblog.com/2025/10/simplify-your-code-functional-core.html)
 * [2025-10-25, 05:30:57](https://news.ycombinator.com/item?id=45701546) - [How the brain's activity, energy use and blood flow change as people fall asleep](https://www.massgeneralbrigham.org/en/about/newsroom/press-releases/research-shows-coordinated-shift-in-brain-activity-while-asleep)
+* [2025-10-24, 14:04:53](https://news.ycombinator.com/item?id=45694783) - [3D printed maquette of Amsterdam on scale 1:2000](https://www.at5.nl/nieuws/235139/de-hele-stad-in-schaal-12000-hell-of-a-job)
 * [2025-10-24, 09:43:06](https://news.ycombinator.com/item?id=45692747) - [Front-Panel Booting an ATmega88 Microcontroller](https://www.linusakesson.net/hardware/frontpanel/index.php)
 * [2025-10-23, 06:01:07](https://news.ycombinator.com/item?id=45678632) - [The Programming Languages Zoo](https://plzoo.andrej.com/)
-* [2025-10-22, 22:34:24](https://news.ycombinator.com/item?id=45676029) - [Emily Riehl is rewriting the foundations of higher category theory (2021)](https://www.quantamagazine.org/emily-riehl-conducts-the-mathematical-orchestra-from-the-middle-20200902/)
+* [2025-10-22, 22:34:24](https://news.ycombinator.com/item?id=45676029) - [Emily Riehl is rewriting the foundations of higher category theory (2020)](https://www.quantamagazine.org/emily-riehl-conducts-the-mathematical-orchestra-from-the-middle-20200902/)
 * [2025-10-22, 17:57:18](https://news.ycombinator.com/item?id=45672792) - [Dust samples from moon's far side show debris from rare, water-rich meteorites](https://www.sciencealert.com/china-brought-something-unexpected-back-from-the-far-side-of-the-moon)
 * [2025-10-22, 16:02:39](https://news.ycombinator.com/item?id=45671176) - [SATisfying Solutions to Difficult Problems](https://vaibhavsagar.com/blog/2025/10/22/satisfying-solutions/)
 
