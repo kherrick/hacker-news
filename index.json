@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-10-28, 11:03:38",
+      "https://news.ycombinator.com/item?id=45731315"
+    ],
+    [
+      "Understanding the Worst .NET Vulnerability",
+      "https://andrewlock.net/understanding-the-worst-dotnet-vulnerability-request-smuggling-and-cve-2025-55315/"
+    ]
+  ],
+  [
+    [
       "2025-10-28, 10:20:16",
       "https://news.ycombinator.com/item?id=45731069"
     ],
@@ -15,7 +25,7 @@
       "https://news.ycombinator.com/item?id=45730607"
     ],
     [
-      "Geometry and Physics of Wrinkling [pdf]",
+      "Geometry and Physics of Wrinkling (2003) [pdf]",
       "https://softmath.seas.harvard.edu/wp-content/uploads/2019/10/2003-03.pdf"
     ]
   ],
@@ -167,16 +177,6 @@
     [
       "JetKVM – Control any computer remotely",
       "https://jetkvm.com/"
-    ]
-  ],
-  [
-    [
-      "2025-10-27, 16:29:38",
-      "https://news.ycombinator.com/item?id=45722931"
-    ],
-    [
-      "Fnox, a secret manager that pairs well with mise",
-      "https://github.com/jdx/mise/discussions/6779"
     ]
   ],
   [
