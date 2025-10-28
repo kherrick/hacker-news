@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-10-28](index.md)
 
+* [2025-10-28, 11:14:54](https://news.ycombinator.com/item?id=45731385) - [Nine months later, is still the \"Gulf of Mexico\" to news outlets](https://www.niemanlab.org/2025/10/nine-months-later-that-body-of-water-down-south-is-still-the-gulf-of-mexico-to-news-outlets/)
+* [2025-10-28, 11:12:32](https://news.ycombinator.com/item?id=45731366) - [Show HN: Bash Screensavers](https://github.com/attogram/bash-screensavers)
+* [2025-10-28, 11:03:59](https://news.ycombinator.com/item?id=45731321) - [Your vibe coded slop PR is not welcome](https://samsaffron.com/archive/2025/10/27/your-vibe-coded-slop-pr-is-not-welcome)
 * [2025-10-28, 11:03:38](https://news.ycombinator.com/item?id=45731315) - [Understanding the Worst .NET Vulnerability](https://andrewlock.net/understanding-the-worst-dotnet-vulnerability-request-smuggling-and-cve-2025-55315/)
 * [2025-10-28, 10:20:16](https://news.ycombinator.com/item?id=45731069) - [Situated Software – Clay Shirky (2004)](http://shirky.com/essays/situated-software/)
 * [2025-10-28, 09:02:47](https://news.ycombinator.com/item?id=45730607) - [Geometry and Physics of Wrinkling [pdf]](https://softmath.seas.harvard.edu/wp-content/uploads/2019/10/2003-03.pdf)

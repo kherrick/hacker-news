@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-10-22](index.md)
 
 * [2025-10-22, 23:18:52](https://news.ycombinator.com/item?id=45676376) - [NextSilicon reveals new processor chip in challenge to Intel, AMD](https://www.reuters.com/business/nextsilicon-reveals-new-processor-chip-challenge-intel-amd-2025-10-22/)
+* [2025-10-22, 22:55:29](https://news.ycombinator.com/item?id=45676191) - [DJI Removes Video Shot in National Parks After It Raises Eyebrows](https://petapixel.com/2025/10/21/dji-removes-video-shot-in-national-parks-after-it-raises-eyebrows/)
 * [2025-10-22, 22:51:58](https://news.ycombinator.com/item?id=45676162) - [VortexNet: Neural network based on fluid dynamics](https://github.com/samim23/vortexnet)
 * [2025-10-22, 22:31:54](https://news.ycombinator.com/item?id=45676002) - [Officials scrub data showing US citizens swept up in immigration arrests](https://www.thedailybeast.com/officials-scrub-data-showing-us-citizens-swept-up-in-immigration-arrests/)
 * [2025-10-22, 22:26:45](https://news.ycombinator.com/item?id=45675956) - [An overengineered solution to `sort | uniq -c` with 25x throughput (hist)](https://github.com/noamteyssier/hist-rs)
