@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-10-28, 22:39:24",
+      "https://news.ycombinator.com/item?id=45740214"
+    ],
+    [
+      "Keeping the Internet fast and secure: introducing Merkle Tree Certificates",
+      "https://blog.cloudflare.com/bootstrap-mtc/"
+    ]
+  ],
+  [
+    [
       "2025-10-28, 21:33:01",
       "https://news.ycombinator.com/item?id=45739515"
     ],
@@ -221,16 +231,6 @@
   ],
   [
     [
-      "2025-10-28, 13:05:40",
-      "https://news.ycombinator.com/item?id=45732350"
-    ],
-    [
-      "The next chapter of the Microsoft–OpenAI partnership",
-      "https://openai.com/index/next-chapter-of-microsoft-openai-partnership/"
-    ]
-  ],
-  [
-    [
       "2025-10-28, 11:12:32",
       "https://news.ycombinator.com/item?id=45731366"
     ],
@@ -261,12 +261,12 @@
   ],
   [
     [
-      "2025-10-27, 10:14:53",
-      "https://news.ycombinator.com/item?id=45719235"
+      "2025-10-25, 20:19:36",
+      "https://news.ycombinator.com/item?id=45706660"
     ],
     [
-      "Subvocalization: Toward Hearing the Inner Thoughts of Developers (2011) [pdf]",
-      "https://chrisparnin.me/pdf/emg.pdf"
+      "Load-time relocation of shared libraries (2011)",
+      "https://eli.thegreenplace.net/2011/08/25/load-time-relocation-of-shared-libraries/"
     ]
   ],
   [
