@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-10-28, 20:58:22](https://news.ycombinator.com/item?id=45739080) - [Generative AI Image Editing Showdown](https://genai-showdown.specr.net/image-editing)
 * [2025-10-28, 20:12:14](https://news.ycombinator.com/item?id=45738472) - [Inside Amazon's engineering culture: Lessons from their senior principals](https://olshansky.substack.com/p/inside-amazons-engineering-culture)
 * [2025-10-28, 19:57:16](https://news.ycombinator.com/item?id=45738247) - [Boring Is What We Wanted](https://512pixels.net/2025/10/boring-is-what-we-wanted/)
 * [2025-10-28, 19:38:53](https://news.ycombinator.com/item?id=45737941) - [Why do some radio towers blink?](https://www.jeffgeerling.com/blog/2025/why-do-some-radio-towers-blink)
@@ -8,12 +9,10 @@
 * [2025-10-28, 18:02:36](https://news.ycombinator.com/item?id=45736479) - [What we talk about when we talk about sideloading](https://f-droid.org/2025/10/28/sideloading.html)
 * [2025-10-28, 17:25:04](https://news.ycombinator.com/item?id=45735877) - [Fil-C: A memory-safe C implementation](https://lwn.net/SubscriberLink/1042938/658ade3768dd4758/)
 * [2025-10-28, 17:00:31](https://news.ycombinator.com/item?id=45735491) - [SigNoz (YC W21) Is Hiring DevRel Engineers in the US – Open Source O11y Platform](https://jobs.ashbyhq.com/SigNoz/8447522c-1163-48d0-8f55-fac25f64a0f3)
-* [2025-10-28, 16:46:57](https://news.ycombinator.com/item?id=45735264) - [I've been loving Claude Code on the web](https://ben.page/claude-code-web)
 * [2025-10-28, 16:07:27](https://news.ycombinator.com/item?id=45734696) - [Show HN: Dexto – Connect your AI Agents with real-world tools and data](https://github.com/truffle-ai/dexto)
 * [2025-10-28, 15:58:58](https://news.ycombinator.com/item?id=45734582) - [Using AI to negotiate a $195k hospital bill down to $33k](https://www.threads.com/@nthmonkey/post/DQVdAD1gHhw)
 * [2025-10-28, 15:02:59](https://news.ycombinator.com/item?id=45733772) - [How to build a 747 – A WorldFlight Story](https://www.x-plane.com/2025/10/how-to-build-a-747-a-worldflight-story/)
 * [2025-10-28, 14:58:04](https://news.ycombinator.com/item?id=45733707) - [EuroLLM: LLM made in Europe built to support all 24 official EU languages](https://eurollm.io/)
-* [2025-10-28, 14:43:19](https://news.ycombinator.com/item?id=45733525) - [Text2SQL is dead – long live text2SQL](https://www.exasol.com/blog/text-to-sql-governance/)
 * [2025-10-28, 14:34:18](https://news.ycombinator.com/item?id=45733412) - [A brief history of random numbers](https://crates.io/crates/oorandom#a-brief-history-of-random-numbers)
 * [2025-10-28, 14:27:37](https://news.ycombinator.com/item?id=45733329) - [The AirPods Pro 3 flight problem](https://basicappleguy.com/basicappleblog/the-airpods-pro-3-flight-problem)
 * [2025-10-28, 14:16:42](https://news.ycombinator.com/item?id=45733197) - [Washington Post editorials omit a key disclosure: Bezos' financial ties](https://www.npr.org/2025/10/28/nx-s1-5587932/washington-post-editorials-omit-a-key-disclosure-bezos-financial-ties)
@@ -29,6 +28,7 @@
 * [2025-10-27, 10:14:53](https://news.ycombinator.com/item?id=45719235) - [Subvocalization: Toward Hearing the Inner Thoughts of Developers (2011) [pdf]](https://chrisparnin.me/pdf/emg.pdf)
 * [2025-10-25, 05:30:57](https://news.ycombinator.com/item?id=45701546) - [How the brain's activity, energy use and blood flow change as people fall asleep](https://www.massgeneralbrigham.org/en/about/newsroom/press-releases/research-shows-coordinated-shift-in-brain-activity-while-asleep)
 * [2025-10-23, 14:00:37](https://news.ycombinator.com/item?id=45681913) - [Cheese Crystals](https://snipettemag.com/cheese-crystals/)
+* [2025-10-23, 06:38:10](https://news.ycombinator.com/item?id=45678859) - [The Continual Learning Problem](https://jessylin.com/2025/10/20/continual-learning/)
 * [2025-10-22, 22:34:24](https://news.ycombinator.com/item?id=45676029) - [Emily Riehl is rewriting the foundations of higher category theory (2020)](https://www.quantamagazine.org/emily-riehl-conducts-the-mathematical-orchestra-from-the-middle-20200902/)
 
 ## [Archives](archives/index.md)

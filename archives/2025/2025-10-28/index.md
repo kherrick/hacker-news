@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-10-28](index.md)
 
+* [2025-10-28, 20:58:22](https://news.ycombinator.com/item?id=45739080) - [Generative AI Image Editing Showdown](https://genai-showdown.specr.net/image-editing)
 * [2025-10-28, 20:12:14](https://news.ycombinator.com/item?id=45738472) - [Inside Amazon's Engineering Culture: Lessons from Their Senior Principals](https://olshansky.substack.com/p/inside-amazons-engineering-culture)
 * [2025-10-28, 19:57:16](https://news.ycombinator.com/item?id=45738247) - [Boring Is What We Wanted](https://512pixels.net/2025/10/boring-is-what-we-wanted/)
 * [2025-10-28, 19:38:53](https://news.ycombinator.com/item?id=45737941) - [Why do some radio towers blink?](https://www.jeffgeerling.com/blog/2025/why-do-some-radio-towers-blink)
