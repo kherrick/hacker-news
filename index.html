@@ -129,6 +129,24 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
+        <section id="45735491">
+          <h3>
+            <a
+              class="item"
+              href="https://jobs.ashbyhq.com/SigNoz/8447522c-1163-48d0-8f55-fac25f64a0f3"
+              >SigNoz (YC W21) Is Hiring DevRel Engineers in the US – Open
+              Source O11y Platform</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2025-10-28 @ 17:00:31</span
+              ><span class="points-container"
+                >Points: <span class="points">1</span></span
+              >
+            </h4>
+          </section>
+        </section>
         <section id="45735044">
           <h3>
             <a class="item" href="https://vanderessen.com/posts/hopl/"
@@ -139,11 +157,11 @@
             <h4>
               <span>2025-10-28 @ 16:32:27</span
               ><span class="points-container"
-                >Points: <span class="points">33</span></span
+                >Points: <span class="points">40</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45735044"
                   >Comments</a
-                ><span class="descendants">: 37</span></span
+                ><span class="descendants">: 44</span></span
               >
             </h4>
           </section>
@@ -160,13 +178,131 @@
             <h4>
               <span>2025-10-28 @ 16:17:16</span
               ><span class="points-container"
-                >Points: <span class="points">24</span></span
+                >Points: <span class="points">39</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45734834"
                   >Comments</a
-                ><span class="descendants">: 14</span></span
+                ><span class="descendants">: 24</span></span
               >
             </h4>
+          </section>
+        </section>
+        <section id="45734696">
+          <h3>
+            <a class="item" href="https://github.com/truffle-ai/dexto"
+              >Show HN: Dexto – Connect your AI Agents with real-world tools and
+              data</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2025-10-28 @ 16:07:27</span
+              ><span class="points-container"
+                >Points: <span class="points">7</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=45734696"
+                  >Comments</a
+                ><span class="descendants">: 0</span></span
+              >
+            </h4>
+            <div class="text">
+              <a href="https://www.dexto.ai/">https://www.dexto.ai/</a>), a
+              runtime and orchestration layer for AI Agents that lets you turn
+              any app, service or tool into an AI assistant that can reason,
+              think and act. Here's a video walkthrough -
+              <a href="https://www.youtube.com/watch?v=WJ1qbI6MU6g"
+                >https://www.youtube.com/watch?v=WJ1qbI6MU6g</a
+              >
+              <p>
+                We started working on Dexto after helping clients setup agents
+                for everyday marketing tasks like posting on LinkedIn, running
+                Reddit searches, generating ad creatives, etc. We realized that
+                the LLMs weren’t the issue. The real drag was the repetitive
+                orchestration around them:
+              </p>
+              <p>
+                - wiring LLMs to tools - managing context and persistence -
+                adding memory and approval flows - tailoring behavior per
+                client/use case
+              </p>
+              <p>
+                Each small project quietly ballooned into weeks of plumbing
+                where each customer had mostly the same, but slightly custom
+                requirement.
+              </p>
+              <p>
+                So instead of another framework where you write orchestration
+                logic yourself, we built Dexto as a top-level orchestration
+                layer where you declare an agent’s capabilities and behavior:
+              </p>
+              <p>
+                - which tools or MCPs the agent can use - which LLM powers it -
+                how it should behave (system prompt, tone, approval rules)
+              </p>
+              <p>
+                Once configured, the agent runs as an event-driven loop -
+                reasoning through steps, invoking tools, handling retries, and
+                maintaining its own state and memory. Your app doesn’t manage
+                orchestration, it just triggers and subscribes to the agent’s
+                events and decides how to render or approve outcomes.
+              </p>
+              <p>
+                Agents can run locally, in the cloud, or hybrid. Dexto ships
+                with a CLI, a web UI, and a few sample agents to get started.
+              </p>
+              <p>
+                To show its flexibility, we wrapped some OpenCV functions into
+                an MCP server and connected it to Dexto (<a
+                  href="https://youtu.be/A0j61EIgWdI"
+                  >https://youtu.be/A0j61EIgWdI</a
+                >). Now, a non-technical user could detect faces in images or
+                create custom photo collages by talking to the agent. The same
+                approach works for coding agents, browser agents, multi-speaker
+                podcast agents, and marketing assistants tuned to your data.
+                <a href="https://docs.dexto.ai/examples/category/agent-examples"
+                  >https://docs.dexto.ai/examples/category/agent-examples</a
+                >
+              </p>
+              <p>
+                Dexto is modular, composable and portable allowing you to plug
+                in new tools or even re-expose an entire Dexto agent as an MCP
+                Server and consume it from other apps like Cursor (<a
+                  href="https://www.youtube.com/watch?v=_hZMFIO8KZM"
+                  >https://www.youtube.com/watch?v=_hZMFIO8KZM</a
+                >). Because agents are defined through config and powered by a
+                consistent runtime, they can run anywhere without code changes
+                making cross-agent (A2A) interactions and reuse effortless.
+              </p>
+              <p>
+                In a way, we like to think of Dexto as a “meta-agent” or “agent
+                harness” that can be customized into a specialized agent
+                depending on its tools, data, and platform.
+              </p>
+              <p>
+                For the time being, we have opted for an Elastic V2 license to
+                give maximum flexibility for the community to build with Dexto
+                while preventing bigger players from taking over and monetizing
+                our work.
+              </p>
+              <p>We’d love your feedback:</p>
+              <p>
+                - Try the quickstart and tell us what breaks - Share a use case
+                you want to ship in a day, and we’ll suggest a minimal config
+              </p>
+              <p>
+                Repo:
+                <a href="https://github.com/truffle-ai/dexto"
+                  >https://github.com/truffle-ai/dexto</a
+                >
+              </p>
+              <p>
+                Docs:
+                <a href="https://docs.dexto.ai/docs/category/getting-started"
+                  >https://docs.dexto.ai/docs/category/getting-started</a
+                >
+              </p>
+              <p>Quickstart: npm i -g dexto</p>
+            </div>
           </section>
         </section>
         <section id="45734620">
@@ -181,11 +317,11 @@
             <h4>
               <span>2025-10-28 @ 16:01:00</span
               ><span class="points-container"
-                >Points: <span class="points">36</span></span
+                >Points: <span class="points">49</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45734620"
                   >Comments</a
-                ><span class="descendants">: 19</span></span
+                ><span class="descendants">: 32</span></span
               >
             </h4>
           </section>
@@ -202,11 +338,11 @@
             <h4>
               <span>2025-10-28 @ 15:58:58</span
               ><span class="points-container"
-                >Points: <span class="points">195</span></span
+                >Points: <span class="points">246</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45734582"
                   >Comments</a
-                ><span class="descendants">: 113</span></span
+                ><span class="descendants">: 135</span></span
               >
             </h4>
           </section>
@@ -223,11 +359,11 @@
             <h4>
               <span>2025-10-28 @ 15:53:52</span
               ><span class="points-container"
-                >Points: <span class="points">55</span></span
+                >Points: <span class="points">63</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45734486"
                   >Comments</a
-                ><span class="descendants">: 33</span></span
+                ><span class="descendants">: 38</span></span
               >
             </h4>
           </section>
@@ -244,11 +380,11 @@
             <h4>
               <span>2025-10-28 @ 15:02:59</span
               ><span class="points-container"
-                >Points: <span class="points">23</span></span
+                >Points: <span class="points">24</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45733772"
                   >Comments</a
-                ><span class="descendants">: 2</span></span
+                ><span class="descendants">: 3</span></span
               >
             </h4>
           </section>
@@ -264,11 +400,11 @@
             <h4>
               <span>2025-10-28 @ 14:58:04</span
               ><span class="points-container"
-                >Points: <span class="points">262</span></span
+                >Points: <span class="points">276</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45733707"
                   >Comments</a
-                ><span class="descendants">: 193</span></span
+                ><span class="descendants">: 206</span></span
               >
             </h4>
           </section>
@@ -285,11 +421,11 @@
             <h4>
               <span>2025-10-28 @ 14:43:19</span
               ><span class="points-container"
-                >Points: <span class="points">30</span></span
+                >Points: <span class="points">33</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45733525"
                   >Comments</a
-                ><span class="descendants">: 19</span></span
+                ><span class="descendants">: 20</span></span
               >
             </h4>
           </section>
@@ -306,7 +442,7 @@
             <h4>
               <span>2025-10-28 @ 14:34:18</span
               ><span class="points-container"
-                >Points: <span class="points">81</span></span
+                >Points: <span class="points">89</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45733412"
                   >Comments</a
@@ -327,11 +463,11 @@
             <h4>
               <span>2025-10-28 @ 14:27:37</span
               ><span class="points-container"
-                >Points: <span class="points">154</span></span
+                >Points: <span class="points">170</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45733329"
                   >Comments</a
-                ><span class="descendants">: 90</span></span
+                ><span class="descendants">: 101</span></span
               >
             </h4>
           </section>
@@ -349,11 +485,30 @@
             <h4>
               <span>2025-10-28 @ 14:16:42</span
               ><span class="points-container"
-                >Points: <span class="points">267</span></span
+                >Points: <span class="points">282</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45733197"
                   >Comments</a
-                ><span class="descendants">: 59</span></span
+                ><span class="descendants">: 68</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="45733169">
+          <h3>
+            <a class="item" href="https://andonlabs.com/evals/butter-bench"
+              >Our LLM-controlled office robot can't pass butter</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2025-10-28 @ 14:13:25</span
+              ><span class="points-container"
+                >Points: <span class="points">23</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=45733169"
+                  >Comments</a
+                ><span class="descendants">: 7</span></span
               >
             </h4>
           </section>
@@ -370,11 +525,11 @@
             <h4>
               <span>2025-10-28 @ 13:48:51</span
               ><span class="points-container"
-                >Points: <span class="points">103</span></span
+                >Points: <span class="points">107</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45732874"
                   >Comments</a
-                ><span class="descendants">: 56</span></span
+                ><span class="descendants">: 61</span></span
               >
             </h4>
           </section>
@@ -392,11 +547,11 @@
             <h4>
               <span>2025-10-28 @ 13:31:52</span
               ><span class="points-container"
-                >Points: <span class="points">151</span></span
+                >Points: <span class="points">166</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45732670"
                   >Comments</a
-                ><span class="descendants">: 85</span></span
+                ><span class="descendants">: 95</span></span
               >
             </h4>
           </section>
@@ -412,7 +567,7 @@
             <h4>
               <span>2025-10-28 @ 13:22:24</span
               ><span class="points-container"
-                >Points: <span class="points">76</span></span
+                >Points: <span class="points">79</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45732552"
                   >Comments</a
@@ -426,18 +581,18 @@
             <a
               class="item"
               href="https://news.itsfoss.com/austrian-ministry-kicks-out-microsoft/"
-              >Austrian Ministry Kicks Out Microsoft in Favor of Nextcloud</a
+              >Austrian ministry kicks out Microsoft in favor of Nextcloud</a
             >
           </h3>
           <section>
             <h4>
               <span>2025-10-28 @ 13:16:40</span
               ><span class="points-container"
-                >Points: <span class="points">210</span></span
+                >Points: <span class="points">221</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45732485"
                   >Comments</a
-                ><span class="descendants">: 47</span></span
+                ><span class="descendants">: 48</span></span
               >
             </h4>
           </section>
@@ -454,11 +609,11 @@
             <h4>
               <span>2025-10-28 @ 13:05:40</span
               ><span class="points-container"
-                >Points: <span class="points">243</span></span
+                >Points: <span class="points">251</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45732350"
                   >Comments</a
-                ><span class="descendants">: 342</span></span
+                ><span class="descendants">: 347</span></span
               >
             </h4>
           </section>
@@ -473,7 +628,7 @@
             <h4>
               <span>2025-10-28 @ 11:12:32</span
               ><span class="points-container"
-                >Points: <span class="points">140</span></span
+                >Points: <span class="points">143</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45731366"
                   >Comments</a
@@ -484,27 +639,6 @@
               A github project to collect a bunch of bash-based
               screensavers/visualizations.
             </div>
-          </section>
-        </section>
-        <section id="45730607">
-          <h3>
-            <a
-              class="item"
-              href="https://softmath.seas.harvard.edu/wp-content/uploads/2019/10/2003-03.pdf"
-              >Geometry and Physics of Wrinkling (2003) [pdf]</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2025-10-28 @ 09:02:47</span
-              ><span class="points-container"
-                >Points: <span class="points">38</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=45730607"
-                  >Comments</a
-                ><span class="descendants">: 3</span></span
-              >
-            </h4>
           </section>
         </section>
         <section id="45728975">
@@ -523,7 +657,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45728975"
                   >Comments</a
-                ><span class="descendants">: 31</span></span
+                ><span class="descendants">: 32</span></span
               >
             </h4>
           </section>
@@ -538,11 +672,11 @@
             <h4>
               <span>2025-10-27 @ 20:57:12</span
               ><span class="points-container"
-                >Points: <span class="points">353</span></span
+                >Points: <span class="points">355</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45726192"
                   >Comments</a
-                ><span class="descendants">: 66</span></span
+                ><span class="descendants">: 68</span></span
               >
             </h4>
           </section>
@@ -557,11 +691,11 @@
             <h4>
               <span>2025-10-27 @ 16:09:22</span
               ><span class="points-container"
-                >Points: <span class="points">648</span></span
+                >Points: <span class="points">649</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45722639"
                   >Comments</a
-                ><span class="descendants">: 444</span></span
+                ><span class="descendants">: 445</span></span
               >
             </h4>
           </section>
@@ -577,7 +711,7 @@
             <h4>
               <span>2025-10-27 @ 14:25:00</span
               ><span class="points-container"
-                >Points: <span class="points">86</span></span
+                >Points: <span class="points">89</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45721352"
                   >Comments</a
@@ -601,27 +735,6 @@
             </div>
           </section>
         </section>
-        <section id="45701901">
-          <h3>
-            <a
-              class="item"
-              href="https://testing.googleblog.com/2025/10/simplify-your-code-functional-core.html"
-              >Simplify your code: Functional core, imperative shell</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2025-10-25 @ 07:07:59</span
-              ><span class="points-container"
-                >Points: <span class="points">393</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=45701901"
-                  >Comments</a
-                ><span class="descendants">: 182</span></span
-              >
-            </h4>
-          </section>
-        </section>
         <section id="45701546">
           <h3>
             <a
@@ -635,7 +748,7 @@
             <h4>
               <span>2025-10-25 @ 05:30:57</span
               ><span class="points-container"
-                >Points: <span class="points">117</span></span
+                >Points: <span class="points">120</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45701546"
                   >Comments</a
@@ -656,11 +769,11 @@
             <h4>
               <span>2025-10-24 @ 14:04:53</span
               ><span class="points-container"
-                >Points: <span class="points">27</span></span
+                >Points: <span class="points">28</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45694783"
                   >Comments</a
-                ><span class="descendants">: 7</span></span
+                ><span class="descendants">: 8</span></span
               >
             </h4>
           </section>
@@ -677,11 +790,11 @@
             <h4>
               <span>2025-10-23 @ 20:56:31</span
               ><span class="points-container"
-                >Points: <span class="points">27</span></span
+                >Points: <span class="points">29</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45687014"
                   >Comments</a
-                ><span class="descendants">: 24</span></span
+                ><span class="descendants">: 28</span></span
               >
             </h4>
           </section>
@@ -696,7 +809,7 @@
             <h4>
               <span>2025-10-23 @ 06:01:07</span
               ><span class="points-container"
-                >Points: <span class="points">93</span></span
+                >Points: <span class="points">97</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45678632"
                   >Comments</a
@@ -718,11 +831,11 @@
             <h4>
               <span>2025-10-22 @ 22:34:24</span
               ><span class="points-container"
-                >Points: <span class="points">58</span></span
+                >Points: <span class="points">61</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45676029"
                   >Comments</a
-                ><span class="descendants">: 7</span></span
+                ><span class="descendants">: 8</span></span
               >
             </h4>
           </section>
@@ -737,32 +850,11 @@
             <h4>
               <span>2025-10-22 @ 20:35:53</span
               ><span class="points-container"
-                >Points: <span class="points">25</span></span
+                >Points: <span class="points">29</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45674822"
                   >Comments</a
-                ><span class="descendants">: 2</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="45671176">
-          <h3>
-            <a
-              class="item"
-              href="https://vaibhavsagar.com/blog/2025/10/22/satisfying-solutions/"
-              >SATisfying Solutions to Difficult Problems</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2025-10-22 @ 16:02:39</span
-              ><span class="points-container"
-                >Points: <span class="points">87</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=45671176"
-                  >Comments</a
-                ><span class="descendants">: 40</span></span
+                ><span class="descendants">: 3</span></span
               >
             </h4>
           </section>
