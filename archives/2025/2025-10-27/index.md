@@ -40,6 +40,7 @@
 * [2025-10-27, 15:04:05](https://news.ycombinator.com/item?id=45721801) - [Pyrex catalog from from 1938 with hand-drawn lab glassware [pdf]](https://exhibitdb.cmog.org/opacimages/Images/Pyrex/Rakow_1000132877.pdf)
 * [2025-10-27, 14:54:14](https://news.ycombinator.com/item?id=45721682) - [Microsoft in court for allegedly misleading Australians over 365 subscriptions](https://www.accc.gov.au/media-release/microsoft-in-court-for-allegedly-misleading-millions-of-australians-over-microsoft-365-subscriptions)
 * [2025-10-27, 14:30:18](https://news.ycombinator.com/item?id=45721410) - [More big companies bet they can still grow without hiring](https://www.wsj.com/business/companies-hiring-jobs-ai-9ef675b6)
+* [2025-10-27, 14:25:00](https://news.ycombinator.com/item?id=45721352) - [Show HN: ISS in Real Time – 25 Years Aboard the International Space Station](https://issinrealtime.org)
 * [2025-10-27, 14:19:30](https://news.ycombinator.com/item?id=45721302) - [When 'perfect' code fails](https://marma.dev/articles/2025/when-perfect-code-fails)
 * [2025-10-27, 14:04:48](https://news.ycombinator.com/item?id=45721160) - [EntropyLong: Effective Long-Context Training via Predictive Uncertainty](https://arxiv.org/abs/2510.02330)
 * [2025-10-27, 12:42:42](https://news.ycombinator.com/item?id=45720376) - [10M people watched a YouTuber shim a lock; the lock company sued him – bad idea](https://arstechnica.com/tech-policy/2025/10/suing-a-popular-youtuber-who-shimmed-a-130-lock-what-could-possibly-go-wrong/)
