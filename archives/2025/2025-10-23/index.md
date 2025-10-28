@@ -13,6 +13,7 @@
 * [2025-10-23, 21:28:02](https://news.ycombinator.com/item?id=45687458) - [Why /Dev/Null Is an Acid Compliant Database](https://jyu.dev/blog/why-dev-null-is-an-acid-compliant-database/)
 * [2025-10-23, 21:26:57](https://news.ycombinator.com/item?id=45687441) - [When is it better to think without words?](https://www.henrikkarlsson.xyz/p/wordless-thought)
 * [2025-10-23, 21:11:14](https://news.ycombinator.com/item?id=45687227) - [We only have one life. Let's stop wasting it on YouTube shorts](https://github.com/CaptainYouz/FocusTube)
+* [2025-10-23, 20:56:31](https://news.ycombinator.com/item?id=45687014) - [Do Users Verify SSH Keys? (2011) [pdf]](https://www.usenix.org/system/files/login/articles/105484-Gutmann.pdf)
 * [2025-10-23, 20:49:08](https://news.ycombinator.com/item?id=45686919) - [Date bug in Rust-based coreutils affects Ubuntu 25.10 automatic updates](https://lwn.net/Articles/1043103/)
 * [2025-10-23, 20:39:41](https://news.ycombinator.com/item?id=45686790) - [Expanding Our Use of Google Cloud TPUs and Services](https://www.anthropic.com/news/expanding-our-use-of-google-cloud-tpus-and-services)
 * [2025-10-23, 20:32:42](https://news.ycombinator.com/item?id=45686707) - [Ubios: China's Alternative to UEFI](https://pbxscience.com/ubios-chinas-alternative-to-uefi-and-the-new-era-of-firmware-standards/)
