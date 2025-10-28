@@ -1,13 +1,13 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-10-28, 16:32:27](https://news.ycombinator.com/item?id=45735044) - [HOPL: The Human Only Public License](https://vanderessen.com/posts/hopl/)
+* [2025-10-28, 16:17:16](https://news.ycombinator.com/item?id=45734834) - [Texas Attorney General sues Tylenol makers over autism claims](https://www.bbc.com/news/articles/ce9d3n1r08do)
 * [2025-10-28, 16:01:00](https://news.ycombinator.com/item?id=45734620) - [The Decline of Deviance](https://www.experimental-history.com/p/the-decline-of-deviance)
 * [2025-10-28, 15:58:58](https://news.ycombinator.com/item?id=45734582) - [Using AI to negotiate a $195k hospital bill down to $33k](https://www.threads.com/@nthmonkey/post/DQVdAD1gHhw)
 * [2025-10-28, 15:53:52](https://news.ycombinator.com/item?id=45734486) - [Nvidia takes $1B stake in Nokia](https://www.cnbc.com/2025/10/28/nvidia-nokia-ai.html)
 * [2025-10-28, 15:02:59](https://news.ycombinator.com/item?id=45733772) - [How to build a 747 – A WorldFlight Story](https://www.x-plane.com/2025/10/how-to-build-a-747-a-worldflight-story/)
 * [2025-10-28, 14:58:04](https://news.ycombinator.com/item?id=45733707) - [EuroLLM: LLM made in Europe built to support all 24 official EU languages](https://eurollm.io/)
 * [2025-10-28, 14:43:19](https://news.ycombinator.com/item?id=45733525) - [Text2SQL is dead – long live text2SQL](https://www.exasol.com/blog/text-to-sql-governance/)
-* [2025-10-28, 14:35:43](https://news.ycombinator.com/item?id=45733430) - [Hi, It's Me, Wikipedia, and I Am Ready for Your Apology](https://www.mcsweeneys.net/articles/hi-its-me-wikipedia-and-i-am-ready-for-your-apology)
 * [2025-10-28, 14:34:18](https://news.ycombinator.com/item?id=45733412) - [A brief history of random numbers](https://crates.io/crates/oorandom#a-brief-history-of-random-numbers)
 * [2025-10-28, 14:27:37](https://news.ycombinator.com/item?id=45733329) - [The AirPods Pro 3 flight problem](https://basicappleguy.com/basicappleblog/the-airpods-pro-3-flight-problem)
 * [2025-10-28, 14:16:42](https://news.ycombinator.com/item?id=45733197) - [Washington Post editorials omit a key disclosure: Bezos' financial ties](https://www.npr.org/2025/10/28/nx-s1-5587932/washington-post-editorials-omit-a-key-disclosure-bezos-financial-ties)
@@ -22,7 +22,6 @@
 * [2025-10-27, 20:57:12](https://news.ycombinator.com/item?id=45726192) - [Easy RISC-V](https://dramforever.github.io/easyriscv/)
 * [2025-10-27, 16:09:22](https://news.ycombinator.com/item?id=45722639) - [Claude for Excel](https://www.claude.com/claude-for-excel)
 * [2025-10-27, 14:25:00](https://news.ycombinator.com/item?id=45721352) - [Show HN: ISS in Real Time – 25 Years Aboard the International Space Station](https://issinrealtime.org)
-* [2025-10-27, 12:42:42](https://news.ycombinator.com/item?id=45720376) - [10M people watched a YouTuber shim a lock; the lock company sued him – bad idea](https://arstechnica.com/tech-policy/2025/10/suing-a-popular-youtuber-who-shimmed-a-130-lock-what-could-possibly-go-wrong/)
 * [2025-10-25, 07:07:59](https://news.ycombinator.com/item?id=45701901) - [Simplify your code: Functional core, imperative shell](https://testing.googleblog.com/2025/10/simplify-your-code-functional-core.html)
 * [2025-10-25, 05:30:57](https://news.ycombinator.com/item?id=45701546) - [How the brain's activity, energy use and blood flow change as people fall asleep](https://www.massgeneralbrigham.org/en/about/newsroom/press-releases/research-shows-coordinated-shift-in-brain-activity-while-asleep)
 * [2025-10-24, 14:04:53](https://news.ycombinator.com/item?id=45694783) - [3D printed maquette of Amsterdam on scale 1:2000](https://www.at5.nl/nieuws/235139/de-hele-stad-in-schaal-12000-hell-of-a-job)
@@ -30,6 +29,7 @@
 * [2025-10-23, 06:01:07](https://news.ycombinator.com/item?id=45678632) - [The Programming Languages Zoo](https://plzoo.andrej.com/)
 * [2025-10-22, 22:34:24](https://news.ycombinator.com/item?id=45676029) - [Emily Riehl is rewriting the foundations of higher category theory (2020)](https://www.quantamagazine.org/emily-riehl-conducts-the-mathematical-orchestra-from-the-middle-20200902/)
 * [2025-10-22, 20:35:53](https://news.ycombinator.com/item?id=45674822) - [The Science of Satiety per Calorie](https://www.dietdoctor.com/satiety/science)
+* [2025-10-22, 16:02:39](https://news.ycombinator.com/item?id=45671176) - [SATisfying Solutions to Difficult Problems](https://vaibhavsagar.com/blog/2025/10/22/satisfying-solutions/)
 
 ## [Archives](archives/index.md)
 
