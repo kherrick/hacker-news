@@ -1,12 +1,12 @@
 [
   [
     [
-      "2025-10-28, 05:56:45",
-      "https://news.ycombinator.com/item?id=45729599"
+      "2025-10-28, 07:38:37",
+      "https://news.ycombinator.com/item?id=45730073"
     ],
     [
-      "Show HN: Write Node.js code in Rust to achieve massive HTTP throughput",
-      "https://www.npmjs.com/package/brahma-firelight"
+      "Why IP address truncation fails at anonymization",
+      "https://00f.net/2025/10/27/ip-anonymization/"
     ]
   ],
   [
@@ -75,7 +75,7 @@
       "https://news.ycombinator.com/item?id=45727097"
     ],
     [
-      "Linux VM Without VM Software – User Mode Linux",
+      "Linux VM without VM software – User Mode Linux",
       "https://popovicu.com/posts/linux-vm-without-vm-software-user-mode/"
     ]
   ],
@@ -147,6 +147,16 @@
     [
       "Show HN: Dlog – Journaling and AI coach that learns what drives wellbeing (Mac)",
       "https://dlog.pro/"
+    ]
+  ],
+  [
+    [
+      "2025-10-27, 17:08:33",
+      "https://news.ycombinator.com/item?id=45723554"
+    ],
+    [
+      "Avoid 2:00 and 3:00 am cron jobs (2013)",
+      "https://www.endpointdev.com/blog/2013/04/avoid-200-and-300-am-cron-jobs/"
     ]
   ],
   [
@@ -267,16 +277,6 @@
     [
       "Image Dithering: Eleven Algorithms and Source Code (2012)",
       "https://tannerhelland.com/2012/12/28/dithering-eleven-algorithms-source-code.html"
-    ]
-  ],
-  [
-    [
-      "2025-10-23, 11:21:04",
-      "https://news.ycombinator.com/item?id=45680583"
-    ],
-    [
-      "Corrosion",
-      "https://fly.io/blog/corrosion/"
     ]
   ],
   [
