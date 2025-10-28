@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-10-28, 20:58:22](https://news.ycombinator.com/item?id=45739080) - [Generative AI Image Editing Showdown](https://genai-showdown.specr.net/image-editing)
+* [2025-10-28, 20:56:40](https://news.ycombinator.com/item?id=45739060) - [Microsoft allows ICE to use Halo for ads](https://peq42.com/blog/microsoft-allows-ice-to-use-halo-for-ads/)
 * [2025-10-28, 20:12:14](https://news.ycombinator.com/item?id=45738472) - [Inside Amazon's engineering culture: Lessons from their senior principals](https://olshansky.substack.com/p/inside-amazons-engineering-culture)
 * [2025-10-28, 19:57:16](https://news.ycombinator.com/item?id=45738247) - [Boring Is What We Wanted](https://512pixels.net/2025/10/boring-is-what-we-wanted/)
 * [2025-10-28, 19:38:53](https://news.ycombinator.com/item?id=45737941) - [Why do some radio towers blink?](https://www.jeffgeerling.com/blog/2025/why-do-some-radio-towers-blink)
@@ -18,7 +19,6 @@
 * [2025-10-28, 14:16:42](https://news.ycombinator.com/item?id=45733197) - [Washington Post editorials omit a key disclosure: Bezos' financial ties](https://www.npr.org/2025/10/28/nx-s1-5587932/washington-post-editorials-omit-a-key-disclosure-bezos-financial-ties)
 * [2025-10-28, 14:13:25](https://news.ycombinator.com/item?id=45733169) - [Our LLM-controlled office robot can't pass butter](https://andonlabs.com/evals/butter-bench)
 * [2025-10-28, 13:48:51](https://news.ycombinator.com/item?id=45732874) - [Ubiquiti SFP Wizard](https://blog.ui.com/article/welcome-to-sfp-liberation-day)
-* [2025-10-28, 13:31:52](https://news.ycombinator.com/item?id=45732670) - [Vitamin D reduces incidence and duration of colds in those with low levels](https://ijmpr.in/article/the-role-of-vitamin-d-supplementation-in-the-prevention-of-acute-respiratory-infections-a-double-blind-randomized-controlled-trial-1327/)
 * [2025-10-28, 13:22:24](https://news.ycombinator.com/item?id=45732552) - [Sick: Indexed deduplicated binary storage for JSON-like data structures](https://github.com/7mind/sick)
 * [2025-10-28, 13:16:40](https://news.ycombinator.com/item?id=45732485) - [Austrian ministry kicks out Microsoft in favor of Nextcloud](https://news.itsfoss.com/austrian-ministry-kicks-out-microsoft/)
 * [2025-10-28, 13:05:40](https://news.ycombinator.com/item?id=45732350) - [The next chapter of the Microsoft–OpenAI partnership](https://openai.com/index/next-chapter-of-microsoft-openai-partnership/)
