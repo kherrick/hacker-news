@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-10-28, 08:34:57](https://news.ycombinator.com/item?id=45730411) - [Criminal complaint against facial recognition company Clearview AI](https://noyb.eu/en/criminal-complaint-against-facial-recognition-company-clearview-ai)
-* [2025-10-28, 08:04:14](https://news.ycombinator.com/item?id=45730210) - [183M Gmail Passwords Leaked](https://www.forbes.com/sites/daveywinder/2025/10/27/gmail-passwords-confirmed-as-part-of-183-million-account-data-breach/)
 * [2025-10-28, 07:48:35](https://news.ycombinator.com/item?id=45730127) - [Microsoft Releases AI Call Center Stack with Voice, SMS, and Memory](https://github.com/microsoft/call-center-ai)
 * [2025-10-28, 07:42:18](https://news.ycombinator.com/item?id=45730094) - [Poker Tournament for LLMs](https://pokerbattle.ai/event)
 * [2025-10-28, 05:28:55](https://news.ycombinator.com/item?id=45729467) - [Picture gallery: Amiga prototype \"Lorraine\" at the Amiga 40 event](https://www.amiga-news.de/en/news/AN-2025-10-00110-EN.html)
@@ -28,6 +27,7 @@
 * [2025-10-25, 07:07:59](https://news.ycombinator.com/item?id=45701901) - [Simplify your code: Functional core, imperative shell](https://testing.googleblog.com/2025/10/simplify-your-code-functional-core.html)
 * [2025-10-25, 05:30:57](https://news.ycombinator.com/item?id=45701546) - [How the brain's activity, energy use and blood flow change as people fall asleep](https://www.massgeneralbrigham.org/en/about/newsroom/press-releases/research-shows-coordinated-shift-in-brain-activity-while-asleep)
 * [2025-10-24, 19:38:44](https://news.ycombinator.com/item?id=45698323) - [Image Dithering: Eleven Algorithms and Source Code (2012)](https://tannerhelland.com/2012/12/28/dithering-eleven-algorithms-source-code.html)
+* [2025-10-23, 09:47:53](https://news.ycombinator.com/item?id=45680050) - [Show HN: A Visual No-Code Game Engine – 50x Easier Than Unity](https://play-maker.io)
 * [2025-10-22, 17:57:18](https://news.ycombinator.com/item?id=45672792) - [Dust samples from moon's far side show debris from rare, water-rich meteorites](https://www.sciencealert.com/china-brought-something-unexpected-back-from-the-far-side-of-the-moon)
 * [2025-10-22, 16:02:39](https://news.ycombinator.com/item?id=45671176) - [SATisfying Solutions to Difficult Problems](https://vaibhavsagar.com/blog/2025/10/22/satisfying-solutions/)
 
