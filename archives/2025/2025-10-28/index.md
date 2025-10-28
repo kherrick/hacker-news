@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-10-28](index.md)
 
+* [2025-10-28, 13:22:24](https://news.ycombinator.com/item?id=45732552) - [Sick: Indexed deduplicated binary storage for JSON-like data structures](https://github.com/7mind/sick)
+* [2025-10-28, 13:05:40](https://news.ycombinator.com/item?id=45732350) - [The next chapter of the Microsoft–OpenAI partnership](https://openai.com/index/next-chapter-of-microsoft-openai-partnership/)
 * [2025-10-28, 11:39:24](https://news.ycombinator.com/item?id=45731539) - [Amazon confirms 14,000 job losses in corporate division](https://www.bbc.com/news/articles/c1m3zm9jnl1o)
 * [2025-10-28, 11:14:54](https://news.ycombinator.com/item?id=45731385) - [Nine months later, is still the \"Gulf of Mexico\" to news outlets](https://www.niemanlab.org/2025/10/nine-months-later-that-body-of-water-down-south-is-still-the-gulf-of-mexico-to-news-outlets/)
 * [2025-10-28, 11:12:32](https://news.ycombinator.com/item?id=45731366) - [Show HN: Bash Screensavers](https://github.com/attogram/bash-screensavers)
