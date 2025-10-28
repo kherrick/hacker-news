@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-10-28](index.md)
 
+* [2025-10-28, 22:52:49](https://news.ycombinator.com/item?id=45740348) - [Static Android Debug Bridge (adb)](https://github.com/kiddlu/adb-static)
 * [2025-10-28, 22:39:24](https://news.ycombinator.com/item?id=45740214) - [Keeping the Internet fast and secure: introducing Merkle Tree Certificates](https://blog.cloudflare.com/bootstrap-mtc/)
 * [2025-10-28, 22:33:51](https://news.ycombinator.com/item?id=45740161) - [Waymo runs over neighborhood cat in Mission District](https://www.instagram.com/p/DQXZH4TEnC0/)
 * [2025-10-28, 21:33:01](https://news.ycombinator.com/item?id=45739515) - [Tor Browser 15.0](https://blog.torproject.org/new-release-tor-browser-150/)
