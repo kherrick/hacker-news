@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-10-28, 13:41:09](https://news.ycombinator.com/item?id=45732783) - [Microsoft to Get 27% of OpenAI, Access to AI Models Until 2032](https://www.bloomberg.com/news/articles/2025-10-28/microsoft-to-get-27-of-openai-access-to-ai-models-until-2032)
 * [2025-10-28, 13:22:24](https://news.ycombinator.com/item?id=45732552) - [Sick: Indexed deduplicated binary storage for JSON-like data structures](https://github.com/7mind/sick)
+* [2025-10-28, 13:16:40](https://news.ycombinator.com/item?id=45732485) - [Austrian Ministry Kicks Out Microsoft in Favor of Nextcloud](https://news.itsfoss.com/austrian-ministry-kicks-out-microsoft/)
 * [2025-10-28, 13:05:40](https://news.ycombinator.com/item?id=45732350) - [The next chapter of the Microsoft–OpenAI partnership](https://openai.com/index/next-chapter-of-microsoft-openai-partnership/)
-* [2025-10-28, 11:39:24](https://news.ycombinator.com/item?id=45731539) - [Amazon confirms 14,000 job losses in corporate division](https://www.bbc.com/news/articles/c1m3zm9jnl1o)
 * [2025-10-28, 11:12:32](https://news.ycombinator.com/item?id=45731366) - [Show HN: Bash Screensavers](https://github.com/attogram/bash-screensavers)
-* [2025-10-28, 11:03:59](https://news.ycombinator.com/item?id=45731321) - [Your vibe coded slop PR is not welcome](https://samsaffron.com/archive/2025/10/27/your-vibe-coded-slop-pr-is-not-welcome)
 * [2025-10-28, 11:03:38](https://news.ycombinator.com/item?id=45731315) - [Understanding the Worst .NET Vulnerability](https://andrewlock.net/understanding-the-worst-dotnet-vulnerability-request-smuggling-and-cve-2025-55315/)
 * [2025-10-28, 09:02:47](https://news.ycombinator.com/item?id=45730607) - [Geometry and Physics of Wrinkling (2003) [pdf]](https://softmath.seas.harvard.edu/wp-content/uploads/2019/10/2003-03.pdf)
 * [2025-10-28, 08:34:57](https://news.ycombinator.com/item?id=45730411) - [Criminal complaint against facial recognition company Clearview AI](https://noyb.eu/en/criminal-complaint-against-facial-recognition-company-clearview-ai)
