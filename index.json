@@ -15,7 +15,7 @@
       "https://news.ycombinator.com/item?id=45727557"
     ],
     [
-      "Iroh-Blobs",
+      "Iroh-blobs",
       "https://www.iroh.computer/blog/iroh-blobs-0-95-new-features"
     ]
   ],
@@ -41,22 +41,22 @@
   ],
   [
     [
-      "2025-10-27, 17:42:23",
-      "https://news.ycombinator.com/item?id=45724045"
+      "2025-10-27, 19:06:34",
+      "https://news.ycombinator.com/item?id=45725009"
     ],
     [
-      "Why Nigeria accepted GMOs",
-      "https://www.asimov.press/p/nigeria-crops"
+      "Study finds growing social circles may fuel polarization",
+      "https://phys.org/news/2025-10-friends-division-social-circles-fuel.html"
     ]
   ],
   [
     [
-      "2025-10-27, 17:25:52",
-      "https://news.ycombinator.com/item?id=45723809"
+      "2025-10-27, 18:57:57",
+      "https://news.ycombinator.com/item?id=45724913"
     ],
     [
-      "It's not always DNS",
-      "https://notes.pault.ag/its-not-always-dns/"
+      "Creating an all-weather driver",
+      "https://waymo.com/blog/2025/10/creating-an-all-weather-driver"
     ]
   ],
   [
@@ -71,11 +71,21 @@
   ],
   [
     [
+      "2025-10-27, 17:17:38",
+      "https://news.ycombinator.com/item?id=45723686"
+    ],
+    [
+      "The new calculus of AI-based coding",
+      "https://blog.joemag.dev/2025/10/the-new-calculus-of-ai-based-coding.html"
+    ]
+  ],
+  [
+    [
       "2025-10-27, 17:14:34",
       "https://news.ycombinator.com/item?id=45723646"
     ],
     [
-      "Show HN: Dlog – Journaling and AI coach that learns what drives well-being (Mac)",
+      "Show HN: Dlog – Journaling and AI coach that learns what drives wellbeing (Mac)",
       "https://dlog.pro/"
     ]
   ],
@@ -121,12 +131,12 @@
   ],
   [
     [
-      "2025-10-27, 16:29:38",
-      "https://news.ycombinator.com/item?id=45722931"
+      "2025-10-27, 16:22:52",
+      "https://news.ycombinator.com/item?id=45722826"
     ],
     [
-      "fnox, a secret manager that pairs well with mise",
-      "https://github.com/jdx/mise/discussions/6779"
+      "Show HN: JSON Query",
+      "https://jsonquerylang.org/"
     ]
   ],
   [
@@ -137,16 +147,6 @@
     [
       "Claude for Excel",
       "https://www.claude.com/claude-for-excel"
-    ]
-  ],
-  [
-    [
-      "2025-10-27, 16:08:58",
-      "https://news.ycombinator.com/item?id=45722635"
-    ],
-    [
-      "Show HN: Erdos – open-source, AI data science IDE",
-      "https://www.lotas.ai/erdos"
     ]
   ],
   [
@@ -201,16 +201,6 @@
   ],
   [
     [
-      "2025-10-27, 09:44:18",
-      "https://news.ycombinator.com/item?id=45719004"
-    ],
-    [
-      "Rust cross-platform GPUI components",
-      "https://github.com/longbridge/gpui-component"
-    ]
-  ],
-  [
-    [
       "2025-10-27, 08:58:10",
       "https://news.ycombinator.com/item?id=45718711"
     ],
@@ -235,7 +225,7 @@
       "https://news.ycombinator.com/item?id=45701901"
     ],
     [
-      "Simplify Your Code: Functional Core, Imperative Shell",
+      "Simplify your code: Functional core, imperative shell",
       "https://testing.googleblog.com/2025/10/simplify-your-code-functional-core.html"
     ]
   ],
@@ -251,12 +241,12 @@
   ],
   [
     [
-      "2025-10-23, 01:38:48",
-      "https://news.ycombinator.com/item?id=45677253"
+      "2025-10-23, 11:21:04",
+      "https://news.ycombinator.com/item?id=45680583"
     ],
     [
-      "Eight Million Copies of Moby-Dick (2014)",
-      "https://thevoltablog.wordpress.com/2014/01/27/nicolas-mugaveros-eight-million-copies-of-moby-dick-or-the-whale/"
+      "Corrosion",
+      "https://fly.io/blog/corrosion/"
     ]
   ],
   [
@@ -277,6 +267,16 @@
     [
       "Should LLMs just treat text content as an image?",
       "https://www.seangoedecke.com/text-tokens-as-image-tokens/"
+    ]
+  ],
+  [
+    [
+      "2025-10-21, 04:03:13",
+      "https://news.ycombinator.com/item?id=45652367"
+    ],
+    [
+      "Finding my rhythm again",
+      "https://jeremydaly.com/finding-my-rhythm-again/"
     ]
   ],
   [
