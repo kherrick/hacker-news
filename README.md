@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-10-28, 16:32:27](https://news.ycombinator.com/item?id=45735044) - [HOPL: The Human Only Public License](https://vanderessen.com/posts/hopl/)
+* [2025-10-28, 16:01:00](https://news.ycombinator.com/item?id=45734620) - [The Decline of Deviance](https://www.experimental-history.com/p/the-decline-of-deviance)
 * [2025-10-28, 15:58:58](https://news.ycombinator.com/item?id=45734582) - [Using AI to negotiate a $195k hospital bill down to $33k](https://www.threads.com/@nthmonkey/post/DQVdAD1gHhw)
 * [2025-10-28, 15:53:52](https://news.ycombinator.com/item?id=45734486) - [Nvidia takes $1B stake in Nokia](https://www.cnbc.com/2025/10/28/nvidia-nokia-ai.html)
 * [2025-10-28, 15:02:59](https://news.ycombinator.com/item?id=45733772) - [How to build a 747 – A WorldFlight Story](https://www.x-plane.com/2025/10/how-to-build-a-747-a-worldflight-story/)
@@ -15,9 +17,7 @@
 * [2025-10-28, 13:16:40](https://news.ycombinator.com/item?id=45732485) - [Austrian Ministry Kicks Out Microsoft in Favor of Nextcloud](https://news.itsfoss.com/austrian-ministry-kicks-out-microsoft/)
 * [2025-10-28, 13:05:40](https://news.ycombinator.com/item?id=45732350) - [The next chapter of the Microsoft–OpenAI partnership](https://openai.com/index/next-chapter-of-microsoft-openai-partnership/)
 * [2025-10-28, 11:12:32](https://news.ycombinator.com/item?id=45731366) - [Show HN: Bash Screensavers](https://github.com/attogram/bash-screensavers)
-* [2025-10-28, 11:03:38](https://news.ycombinator.com/item?id=45731315) - [Understanding the Worst .NET Vulnerability](https://andrewlock.net/understanding-the-worst-dotnet-vulnerability-request-smuggling-and-cve-2025-55315/)
 * [2025-10-28, 09:02:47](https://news.ycombinator.com/item?id=45730607) - [Geometry and Physics of Wrinkling (2003) [pdf]](https://softmath.seas.harvard.edu/wp-content/uploads/2019/10/2003-03.pdf)
-* [2025-10-28, 07:42:18](https://news.ycombinator.com/item?id=45730094) - [Poker Tournament for LLMs](https://pokerbattle.ai/event)
 * [2025-10-28, 03:32:09](https://news.ycombinator.com/item?id=45728975) - [Complete Digitization of Leonardo da Vinci's Codex Atlanticus](https://www.openculture.com/2025/10/digitization-of-leonardo-da-vincis-codex-atlanticus.html)
 * [2025-10-27, 20:57:12](https://news.ycombinator.com/item?id=45726192) - [Easy RISC-V](https://dramforever.github.io/easyriscv/)
 * [2025-10-27, 16:09:22](https://news.ycombinator.com/item?id=45722639) - [Claude for Excel](https://www.claude.com/claude-for-excel)
@@ -29,7 +29,7 @@
 * [2025-10-23, 20:56:31](https://news.ycombinator.com/item?id=45687014) - [Do Users Verify SSH Keys? (2011) [pdf]](https://www.usenix.org/system/files/login/articles/105484-Gutmann.pdf)
 * [2025-10-23, 06:01:07](https://news.ycombinator.com/item?id=45678632) - [The Programming Languages Zoo](https://plzoo.andrej.com/)
 * [2025-10-22, 22:34:24](https://news.ycombinator.com/item?id=45676029) - [Emily Riehl is rewriting the foundations of higher category theory (2020)](https://www.quantamagazine.org/emily-riehl-conducts-the-mathematical-orchestra-from-the-middle-20200902/)
-* [2025-10-22, 16:02:39](https://news.ycombinator.com/item?id=45671176) - [SATisfying Solutions to Difficult Problems](https://vaibhavsagar.com/blog/2025/10/22/satisfying-solutions/)
+* [2025-10-22, 20:35:53](https://news.ycombinator.com/item?id=45674822) - [The Science of Satiety per Calorie](https://www.dietdoctor.com/satiety/science)
 
 ## [Archives](archives/index.md)
 

@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-10-28](index.md)
 
+* [2025-10-28, 16:32:27](https://news.ycombinator.com/item?id=45735044) - [HOPL: The Human Only Public License](https://vanderessen.com/posts/hopl/)
+* [2025-10-28, 16:01:00](https://news.ycombinator.com/item?id=45734620) - [The Decline of Deviance](https://www.experimental-history.com/p/the-decline-of-deviance)
 * [2025-10-28, 15:58:58](https://news.ycombinator.com/item?id=45734582) - [Using AI to negotiate a $195k hospital bill down to $33k](https://www.threads.com/@nthmonkey/post/DQVdAD1gHhw)
 * [2025-10-28, 15:53:52](https://news.ycombinator.com/item?id=45734486) - [Nvidia takes $1B stake in Nokia](https://www.cnbc.com/2025/10/28/nvidia-nokia-ai.html)
 * [2025-10-28, 15:02:59](https://news.ycombinator.com/item?id=45733772) - [How to build a 747 – A WorldFlight Story](https://www.x-plane.com/2025/10/how-to-build-a-747-a-worldflight-story/)
