@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-10-28](index.md)
 
+* [2025-10-28, 15:02:59](https://news.ycombinator.com/item?id=45733772) - [How to build a 747 – A WorldFlight Story](https://www.x-plane.com/2025/10/how-to-build-a-747-a-worldflight-story/)
 * [2025-10-28, 14:58:04](https://news.ycombinator.com/item?id=45733707) - [EuroLLM: LLM made in Europe built to support all 24 official EU languages](https://eurollm.io/)
 * [2025-10-28, 14:43:19](https://news.ycombinator.com/item?id=45733525) - [Text2SQL is dead – long live text2SQL](https://www.exasol.com/blog/text-to-sql-governance/)
 * [2025-10-28, 14:35:43](https://news.ycombinator.com/item?id=45733430) - [Hi, It's Me, Wikipedia, and I Am Ready for Your Apology](https://www.mcsweeneys.net/articles/hi-its-me-wikipedia-and-i-am-ready-for-your-apology)
