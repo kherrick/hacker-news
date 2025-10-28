@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-10-28](index.md)
 
+* [2025-10-28, 18:45:30](https://news.ycombinator.com/item?id=45737044) - [Grokipedia and the Coup Against Reality Itself](https://www.thedissident.news/grokipedia-and-the-coup-against-reality-itself/)
 * [2025-10-28, 18:33:22](https://news.ycombinator.com/item?id=45736872) - [Passkeys: They're not perfect but they're getting better](https://www.ncsc.gov.uk/blog-post/passkeys-not-perfect-getting-better&lt;/a&gt;&lt;)
+* [2025-10-28, 18:12:10](https://news.ycombinator.com/item?id=45736608) - [Mapping the off-target effects of every FDA-approved drug in existence](https://www.owlposting.com/p/mapping-the-off-target-effects-of)
 * [2025-10-28, 18:04:00](https://news.ycombinator.com/item?id=45736499) - [Chrome to warn on unencrypted HTTP by default](https://security.googleblog.com/2025/10/https-by-default.html)
 * [2025-10-28, 18:02:36](https://news.ycombinator.com/item?id=45736479) - [What We Talk About When We Talk About Sideloading](https://f-droid.org/2025/10/28/sideloading.html)
 * [2025-10-28, 18:01:40](https://news.ycombinator.com/item?id=45736457) - [1X Neo – Home Robot - Pre Order](https://www.1x.tech/order)
