@@ -1,12 +1,22 @@
 [
   [
     [
-      "2025-10-28, 19:02:48",
-      "https://news.ycombinator.com/item?id=45737338"
+      "2025-10-28, 20:12:14",
+      "https://news.ycombinator.com/item?id=45738472"
     ],
     [
-      "Samsung makes ads on $3,499 smart fridges official with upcoming software update",
-      "https://arstechnica.com/gadgets/2025/10/samsung-makes-ads-on-3499-smart-fridges-official-with-upcoming-software-update/"
+      "Inside Amazon's Engineering Culture: Lessons from Their Senior Principals",
+      "https://olshansky.substack.com/p/inside-amazons-engineering-culture"
+    ]
+  ],
+  [
+    [
+      "2025-10-28, 19:38:53",
+      "https://news.ycombinator.com/item?id=45737941"
+    ],
+    [
+      "Why do some radio towers blink?",
+      "https://www.jeffgeerling.com/blog/2025/why-do-some-radio-towers-blink"
     ]
   ],
   [
@@ -35,7 +45,7 @@
       "https://news.ycombinator.com/item?id=45736479"
     ],
     [
-      "What We Talk About When We Talk About Sideloading",
+      "What we talk about when we talk about sideloading",
       "https://f-droid.org/2025/10/28/sideloading.html"
     ]
   ],
@@ -51,12 +61,12 @@
   ],
   [
     [
-      "2025-10-28, 17:39:21",
-      "https://news.ycombinator.com/item?id=45736075"
+      "2025-10-28, 17:25:04",
+      "https://news.ycombinator.com/item?id=45735877"
     ],
     [
-      "From epoll to io_uring's Multishot Receives",
-      "https://codemia.io/blog/path/From-epoll-to-iourings-Multishot-Receives--Why-2025-Is-the-Year-We-Finally-Kill-the-Event-Loop"
+      "Fil-C: A memory-safe C implementation",
+      "https://lwn.net/SubscriberLink/1042938/658ade3768dd4758/"
     ]
   ],
   [
@@ -75,7 +85,7 @@
       "https://news.ycombinator.com/item?id=45735264"
     ],
     [
-      "I've been loving Claude Code on the Web",
+      "I've been loving Claude Code on the web",
       "https://ben.page/claude-code-web"
     ]
   ],
@@ -277,16 +287,6 @@
     [
       "Cheese Crystals",
       "https://snipettemag.com/cheese-crystals/"
-    ]
-  ],
-  [
-    [
-      "2025-10-23, 06:01:07",
-      "https://news.ycombinator.com/item?id=45678632"
-    ],
-    [
-      "The Programming Languages Zoo",
-      "https://plzoo.andrej.com/"
     ]
   ],
   [
