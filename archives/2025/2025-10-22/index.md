@@ -62,6 +62,7 @@
 * [2025-10-22, 13:33:34](https://news.ycombinator.com/item?id=45668909) - [Comparison: H.264 vs. H.265/HEVC vs. VP9](https://www.red5.net/blog/h264-vs-h265-vp9/)
 * [2025-10-22, 13:31:17](https://news.ycombinator.com/item?id=45668882) - [Sentence Transformers is joining Hugging Face](https://huggingface.co/blog/sentence-transformers-joins-hf)
 * [2025-10-22, 13:25:51](https://news.ycombinator.com/item?id=45668805) - [Cigarette-smuggling balloons force closure of Lithuanian airport](https://www.theguardian.com/world/2025/oct/22/cigarette-smuggling-balloons-force-closure-vilnius-airport-lithuania)
+* [2025-10-22, 13:15:39](https://news.ycombinator.com/item?id=45668641) - [Doing my own syntax highlighting (finally)](https://alexwlchan.net/2025/syntax-highlighting/)
 * [2025-10-22, 13:10:26](https://news.ycombinator.com/item?id=45668561) - [Chezmoi introduces ban on LLM-generated contributions](https://www.chezmoi.io/developer-guide/)
 * [2025-10-22, 13:04:57](https://news.ycombinator.com/item?id=45668469) - [The Stagnant Order. and the End of Rising Powers](https://www.foreignaffairs.com/united-states/stagnant-order-michael-beckley)
 * [2025-10-22, 13:03:06](https://news.ycombinator.com/item?id=45668453) - [Democracy and the open internet die in daylight](https://heatherburns.tech/2025/10/22/democracy-and-the-open-internet-die-in-daylight/)

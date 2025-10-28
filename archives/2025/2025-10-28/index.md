@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-10-28](index.md)
 
+* [2025-10-28, 21:31:50](https://news.ycombinator.com/item?id=45739499) - [If you don't tinker, you don't have taste](https://seated.ro/blog/tinkering-a-lost-art)
 * [2025-10-28, 20:58:22](https://news.ycombinator.com/item?id=45739080) - [Generative AI Image Editing Showdown](https://genai-showdown.specr.net/image-editing)
 * [2025-10-28, 20:56:40](https://news.ycombinator.com/item?id=45739060) - [Microsoft allows ICE to use Halo for ads](https://peq42.com/blog/microsoft-allows-ice-to-use-halo-for-ads/)
 * [2025-10-28, 20:12:14](https://news.ycombinator.com/item?id=45738472) - [Inside Amazon's Engineering Culture: Lessons from Their Senior Principals](https://olshansky.substack.com/p/inside-amazons-engineering-culture)
