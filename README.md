@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-10-28, 11:39:24](https://news.ycombinator.com/item?id=45731539) - [Amazon confirms 14,000 job losses in corporate division](https://www.bbc.com/news/articles/c1m3zm9jnl1o)
 * [2025-10-28, 11:12:32](https://news.ycombinator.com/item?id=45731366) - [Show HN: Bash Screensavers](https://github.com/attogram/bash-screensavers)
 * [2025-10-28, 11:03:38](https://news.ycombinator.com/item?id=45731315) - [Understanding the Worst .NET Vulnerability](https://andrewlock.net/understanding-the-worst-dotnet-vulnerability-request-smuggling-and-cve-2025-55315/)
 * [2025-10-28, 10:20:16](https://news.ycombinator.com/item?id=45731069) - [Situated Software – Clay Shirky (2004)](http://shirky.com/essays/situated-software/)
@@ -7,7 +8,6 @@
 * [2025-10-28, 08:34:57](https://news.ycombinator.com/item?id=45730411) - [Criminal complaint against facial recognition company Clearview AI](https://noyb.eu/en/criminal-complaint-against-facial-recognition-company-clearview-ai)
 * [2025-10-28, 07:42:18](https://news.ycombinator.com/item?id=45730094) - [Poker Tournament for LLMs](https://pokerbattle.ai/event)
 * [2025-10-28, 05:28:55](https://news.ycombinator.com/item?id=45729467) - [Picture gallery: Amiga prototype \"Lorraine\" at the Amiga 40 event](https://www.amiga-news.de/en/news/AN-2025-10-00110-EN.html)
-* [2025-10-28, 05:26:38](https://news.ycombinator.com/item?id=45729457) - [Show HN: Ordered – A sorted collection library for Zig](https://news.ycombinator.com/item?id=45729457)
 * [2025-10-28, 03:32:09](https://news.ycombinator.com/item?id=45728975) - [Complete Digitization of Leonardo da Vinci's Codex Atlanticus](https://www.openculture.com/2025/10/digitization-of-leonardo-da-vincis-codex-atlanticus.html)
 * [2025-10-27, 23:28:13](https://news.ycombinator.com/item?id=45727557) - [Iroh-blobs](https://www.iroh.computer/blog/iroh-blobs-0-95-new-features)
 * [2025-10-27, 22:30:59](https://news.ycombinator.com/item?id=45727097) - [Linux VM without VM software – User Mode Linux](https://popovicu.com/posts/linux-vm-without-vm-software-user-mode/)
