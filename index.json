@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-10-28, 21:31:50",
+      "https://news.ycombinator.com/item?id=45739499"
+    ],
+    [
+      "If you don't tinker, you don't have taste",
+      "https://seated.ro/blog/tinkering-a-lost-art"
+    ]
+  ],
+  [
+    [
       "2025-10-28, 20:58:22",
       "https://news.ycombinator.com/item?id=45739080"
     ],
@@ -35,7 +45,7 @@
       "https://news.ycombinator.com/item?id=45737338"
     ],
     [
-      "Samsung makes ads on $3,499 smart fridges official with upcoming software update",
+      "Samsung makes ads on smart fridges official with upcoming software update",
       "https://arstechnica.com/gadgets/2025/10/samsung-makes-ads-on-3499-smart-fridges-official-with-upcoming-software-update/"
     ]
   ],
@@ -181,16 +191,6 @@
   ],
   [
     [
-      "2025-10-28, 13:31:52",
-      "https://news.ycombinator.com/item?id=45732670"
-    ],
-    [
-      "Vitamin D reduces incidence and duration of colds in those with low levels",
-      "https://ijmpr.in/article/the-role-of-vitamin-d-supplementation-in-the-prevention-of-acute-respiratory-infections-a-double-blind-randomized-controlled-trial-1327/"
-    ]
-  ],
-  [
-    [
       "2025-10-28, 13:22:24",
       "https://news.ycombinator.com/item?id=45732552"
     ],
@@ -261,16 +261,6 @@
   ],
   [
     [
-      "2025-10-25, 05:30:57",
-      "https://news.ycombinator.com/item?id=45701546"
-    ],
-    [
-      "How the brain's activity, energy use and blood flow change as people fall asleep",
-      "https://www.massgeneralbrigham.org/en/about/newsroom/press-releases/research-shows-coordinated-shift-in-brain-activity-while-asleep"
-    ]
-  ],
-  [
-    [
       "2025-10-23, 14:00:37",
       "https://news.ycombinator.com/item?id=45681913"
     ],
@@ -297,6 +287,16 @@
     [
       "Emily Riehl is rewriting the foundations of higher category theory (2020)",
       "https://www.quantamagazine.org/emily-riehl-conducts-the-mathematical-orchestra-from-the-middle-20200902/"
+    ]
+  ],
+  [
+    [
+      "2025-10-22, 13:15:39",
+      "https://news.ycombinator.com/item?id=45668641"
+    ],
+    [
+      "Doing my own syntax highlighting (finally)",
+      "https://alexwlchan.net/2025/syntax-highlighting/"
     ]
   ]
 ]
