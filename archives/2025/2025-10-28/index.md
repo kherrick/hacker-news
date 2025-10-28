@@ -4,10 +4,16 @@
 
 ### [Archives](../../index.md) for [2025-10-28](index.md)
 
+* [2025-10-28, 14:58:04](https://news.ycombinator.com/item?id=45733707) - [EuroLLM: LLM made in Europe built to support all 24 official EU languages](https://eurollm.io/)
+* [2025-10-28, 14:43:19](https://news.ycombinator.com/item?id=45733525) - [Text2SQL is dead – long live text2SQL](https://www.exasol.com/blog/text-to-sql-governance/)
+* [2025-10-28, 14:35:43](https://news.ycombinator.com/item?id=45733430) - [Hi, It's Me, Wikipedia, and I Am Ready for Your Apology](https://www.mcsweeneys.net/articles/hi-its-me-wikipedia-and-i-am-ready-for-your-apology)
+* [2025-10-28, 14:34:23](https://news.ycombinator.com/item?id=45733415) - [v0 for iOS – Build anything with AI](https://apps.apple.com/us/app/v0/id6745097949)
 * [2025-10-28, 14:34:18](https://news.ycombinator.com/item?id=45733412) - [A brief history of random numbers](https://crates.io/crates/oorandom#a-brief-history-of-random-numbers)
 * [2025-10-28, 14:16:42](https://news.ycombinator.com/item?id=45733197) - [Washington Post editorials omit a key disclosure: Bezos' financial ties](https://www.npr.org/2025/10/28/nx-s1-5587932/washington-post-editorials-omit-a-key-disclosure-bezos-financial-ties)
 * [2025-10-28, 14:01:03](https://news.ycombinator.com/item?id=45733030) - [Society will accept a death caused by a robotaxi, Waymo co-CEO says](https://www.sfgate.com/tech/article/society-accept-robotaxi-death-waymo-21123178.php)
+* [2025-10-28, 13:48:51](https://news.ycombinator.com/item?id=45732874) - [Ubiquiti SFP Wizard](https://blog.ui.com/article/welcome-to-sfp-liberation-day)
 * [2025-10-28, 13:41:09](https://news.ycombinator.com/item?id=45732783) - [Microsoft to Get 27% of OpenAI, Access to AI Models Until 2032](https://www.bloomberg.com/news/articles/2025-10-28/microsoft-to-get-27-of-openai-access-to-ai-models-until-2032)
+* [2025-10-28, 13:31:52](https://news.ycombinator.com/item?id=45732670) - [Vitamin D reduces incidence and duration of colds in those with low levels](https://ijmpr.in/article/the-role-of-vitamin-d-supplementation-in-the-prevention-of-acute-respiratory-infections-a-double-blind-randomized-controlled-trial-1327/)
 * [2025-10-28, 13:22:24](https://news.ycombinator.com/item?id=45732552) - [Sick: Indexed deduplicated binary storage for JSON-like data structures](https://github.com/7mind/sick)
 * [2025-10-28, 13:16:40](https://news.ycombinator.com/item?id=45732485) - [Austrian Ministry Kicks Out Microsoft in Favor of Nextcloud](https://news.itsfoss.com/austrian-ministry-kicks-out-microsoft/)
 * [2025-10-28, 13:05:40](https://news.ycombinator.com/item?id=45732350) - [The next chapter of the Microsoft–OpenAI partnership](https://openai.com/index/next-chapter-of-microsoft-openai-partnership/)
