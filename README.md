@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-10-28, 21:33:01](https://news.ycombinator.com/item?id=45739515) - [Tor Browser 15.0](https://blog.torproject.org/new-release-tor-browser-150/)
 * [2025-10-28, 21:31:50](https://news.ycombinator.com/item?id=45739499) - [If you don't tinker, you don't have taste](https://seated.ro/blog/tinkering-a-lost-art)
 * [2025-10-28, 20:58:22](https://news.ycombinator.com/item?id=45739080) - [Generative AI Image Editing Showdown](https://genai-showdown.specr.net/image-editing)
 * [2025-10-28, 19:57:16](https://news.ycombinator.com/item?id=45738247) - [Boring Is What We Wanted](https://512pixels.net/2025/10/boring-is-what-we-wanted/)
@@ -28,7 +29,6 @@
 * [2025-10-27, 10:14:53](https://news.ycombinator.com/item?id=45719235) - [Subvocalization: Toward Hearing the Inner Thoughts of Developers (2011) [pdf]](https://chrisparnin.me/pdf/emg.pdf)
 * [2025-10-23, 14:00:37](https://news.ycombinator.com/item?id=45681913) - [Cheese Crystals](https://snipettemag.com/cheese-crystals/)
 * [2025-10-23, 06:38:10](https://news.ycombinator.com/item?id=45678859) - [The Continual Learning Problem](https://jessylin.com/2025/10/20/continual-learning/)
-* [2025-10-22, 22:34:24](https://news.ycombinator.com/item?id=45676029) - [Emily Riehl is rewriting the foundations of higher category theory (2020)](https://www.quantamagazine.org/emily-riehl-conducts-the-mathematical-orchestra-from-the-middle-20200902/)
 * [2025-10-22, 13:15:39](https://news.ycombinator.com/item?id=45668641) - [Doing my own syntax highlighting (finally)](https://alexwlchan.net/2025/syntax-highlighting/)
 
 ## [Archives](archives/index.md)
