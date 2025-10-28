@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-10-28, 10:20:16](https://news.ycombinator.com/item?id=45731069) - [Situated Software – Clay Shirky (2004)](http://shirky.com/essays/situated-software/)
 * [2025-10-28, 09:02:47](https://news.ycombinator.com/item?id=45730607) - [Geometry and Physics of Wrinkling [pdf]](https://softmath.seas.harvard.edu/wp-content/uploads/2019/10/2003-03.pdf)
 * [2025-10-28, 08:34:57](https://news.ycombinator.com/item?id=45730411) - [Criminal complaint against facial recognition company Clearview AI](https://noyb.eu/en/criminal-complaint-against-facial-recognition-company-clearview-ai)
 * [2025-10-28, 07:42:18](https://news.ycombinator.com/item?id=45730094) - [Poker Tournament for LLMs](https://pokerbattle.ai/event)
@@ -19,7 +20,6 @@
 * [2025-10-27, 16:29:38](https://news.ycombinator.com/item?id=45722931) - [Fnox, a secret manager that pairs well with mise](https://github.com/jdx/mise/discussions/6779)
 * [2025-10-27, 16:22:52](https://news.ycombinator.com/item?id=45722826) - [Show HN: JSON Query](https://jsonquerylang.org/)
 * [2025-10-27, 16:09:22](https://news.ycombinator.com/item?id=45722639) - [Claude for Excel](https://www.claude.com/claude-for-excel)
-* [2025-10-27, 15:12:08](https://news.ycombinator.com/item?id=45721904) - [PSF has withdrawn $1.5M proposal to US Government grant program](https://pyfound.blogspot.com/2025/10/NSF-funding-statement.html)
 * [2025-10-27, 15:04:05](https://news.ycombinator.com/item?id=45721801) - [Pyrex catalog from from 1938 with hand-drawn lab glassware [pdf]](https://exhibitdb.cmog.org/opacimages/Images/Pyrex/Rakow_1000132877.pdf)
 * [2025-10-27, 12:42:42](https://news.ycombinator.com/item?id=45720376) - [10M people watched a YouTuber shim a lock; the lock company sued him – bad idea](https://arstechnica.com/tech-policy/2025/10/suing-a-popular-youtuber-who-shimmed-a-130-lock-what-could-possibly-go-wrong/)
 * [2025-10-26, 22:19:02](https://news.ycombinator.com/item?id=45715632) - [TOON – Token Oriented Object Notation](https://github.com/johannschopplich/toon)
