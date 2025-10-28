@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-10-28, 20:12:14](https://news.ycombinator.com/item?id=45738472) - [Inside Amazon's engineering culture: Lessons from their senior principals](https://olshansky.substack.com/p/inside-amazons-engineering-culture)
+* [2025-10-28, 19:57:16](https://news.ycombinator.com/item?id=45738247) - [Boring Is What We Wanted](https://512pixels.net/2025/10/boring-is-what-we-wanted/)
 * [2025-10-28, 19:38:53](https://news.ycombinator.com/item?id=45737941) - [Why do some radio towers blink?](https://www.jeffgeerling.com/blog/2025/why-do-some-radio-towers-blink)
 * [2025-10-28, 19:02:48](https://news.ycombinator.com/item?id=45737338) - [Samsung makes ads on $3,499 smart fridges official with upcoming software update](https://arstechnica.com/gadgets/2025/10/samsung-makes-ads-on-3499-smart-fridges-official-with-upcoming-software-update/)
 * [2025-10-28, 18:12:10](https://news.ycombinator.com/item?id=45736608) - [Mapping the off-target effects of every FDA-approved drug in existence](https://www.owlposting.com/p/mapping-the-off-target-effects-of)
-* [2025-10-28, 18:04:00](https://news.ycombinator.com/item?id=45736499) - [Chrome to warn on unencrypted HTTP by default](https://security.googleblog.com/2025/10/https-by-default.html)
 * [2025-10-28, 18:02:36](https://news.ycombinator.com/item?id=45736479) - [What we talk about when we talk about sideloading](https://f-droid.org/2025/10/28/sideloading.html)
 * [2025-10-28, 17:25:04](https://news.ycombinator.com/item?id=45735877) - [Fil-C: A memory-safe C implementation](https://lwn.net/SubscriberLink/1042938/658ade3768dd4758/)
 * [2025-10-28, 17:00:31](https://news.ycombinator.com/item?id=45735491) - [SigNoz (YC W21) Is Hiring DevRel Engineers in the US – Open Source O11y Platform](https://jobs.ashbyhq.com/SigNoz/8447522c-1163-48d0-8f55-fac25f64a0f3)

@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-10-28](index.md)
 
 * [2025-10-28, 20:12:14](https://news.ycombinator.com/item?id=45738472) - [Inside Amazon's Engineering Culture: Lessons from Their Senior Principals](https://olshansky.substack.com/p/inside-amazons-engineering-culture)
+* [2025-10-28, 19:57:16](https://news.ycombinator.com/item?id=45738247) - [Boring Is What We Wanted](https://512pixels.net/2025/10/boring-is-what-we-wanted/)
 * [2025-10-28, 19:38:53](https://news.ycombinator.com/item?id=45737941) - [Why do some radio towers blink?](https://www.jeffgeerling.com/blog/2025/why-do-some-radio-towers-blink)
 * [2025-10-28, 19:02:48](https://news.ycombinator.com/item?id=45737338) - [Samsung makes ads on $3,499 smart fridges official with upcoming software update](https://arstechnica.com/gadgets/2025/10/samsung-makes-ads-on-3499-smart-fridges-official-with-upcoming-software-update/)
 * [2025-10-28, 18:45:30](https://news.ycombinator.com/item?id=45737044) - [Grokipedia and the Coup Against Reality Itself](https://www.thedissident.news/grokipedia-and-the-coup-against-reality-itself/)
