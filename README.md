@@ -4,7 +4,6 @@
 * [2025-10-27, 23:28:13](https://news.ycombinator.com/item?id=45727557) - [Iroh-Blobs](https://www.iroh.computer/blog/iroh-blobs-0-95-new-features)
 * [2025-10-27, 22:35:00](https://news.ycombinator.com/item?id=45727137) - [Are these real CVEs? VulDB entries for dnsmasq rely on replacing config files](https://seclists.org/oss-sec/2025/q4/79)
 * [2025-10-27, 20:57:12](https://news.ycombinator.com/item?id=45726192) - [Easy RISC-V](https://dramforever.github.io/easyriscv/)
-* [2025-10-27, 19:06:34](https://news.ycombinator.com/item?id=45725009) - [Study finds growing social circles may fuel polarization](https://phys.org/news/2025-10-friends-division-social-circles-fuel.html)
 * [2025-10-27, 17:42:23](https://news.ycombinator.com/item?id=45724045) - [Why Nigeria accepted GMOs](https://www.asimov.press/p/nigeria-crops)
 * [2025-10-27, 17:25:52](https://news.ycombinator.com/item?id=45723809) - [It's not always DNS](https://notes.pault.ag/its-not-always-dns/)
 * [2025-10-27, 17:18:39](https://news.ycombinator.com/item?id=45723699) - [MCP-Scanner – Scan MCP Servers for vulnerabilities](https://github.com/cisco-ai-defense/mcp-scanner)
@@ -30,6 +29,7 @@
 * [2025-10-21, 17:17:02](https://news.ycombinator.com/item?id=45658461) - [Solving regex crosswords with Z3](https://blog.nelhage.com/post/regex-crosswords-z3/)
 * [2025-10-21, 06:10:57](https://news.ycombinator.com/item?id=45652952) - [Should LLMs just treat text content as an image?](https://www.seangoedecke.com/text-tokens-as-image-tokens/)
 * [2025-10-20, 14:04:53](https://news.ycombinator.com/item?id=45644066) - [Go beyond Goroutines: introducing the Reactive paradigm](https://samuelberthe.substack.com/p/go-beyond-goroutines-introducing)
+* [2025-10-19, 16:19:35](https://news.ycombinator.com/item?id=45635384) - [Yet Another Year with Decker](http://beyondloom.com/blog/unionstate3.html)
 
 ## [Archives](archives/index.md)
 
