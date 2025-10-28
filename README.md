@@ -28,7 +28,7 @@
 * [2025-10-26, 19:00:07](https://news.ycombinator.com/item?id=45714348) - [Smartphones manipulate our emotions and trigger our reflexes](https://theconversation.com/smartphones-manipulate-our-emotions-and-trigger-our-reflexes-no-wonder-were-addicted-265014)
 * [2025-10-25, 07:07:59](https://news.ycombinator.com/item?id=45701901) - [Simplify your code: Functional core, imperative shell](https://testing.googleblog.com/2025/10/simplify-your-code-functional-core.html)
 * [2025-10-24, 19:38:44](https://news.ycombinator.com/item?id=45698323) - [Image Dithering: Eleven Algorithms and Source Code (2012)](https://tannerhelland.com/2012/12/28/dithering-eleven-algorithms-source-code.html)
-* [2025-10-24, 05:14:50](https://news.ycombinator.com/item?id=45691002) - [The Light of \"The Brothers Karamazov\"](https://www.newyorker.com/books/second-read/the-light-of-the-brothers-karamazov)
+* [2025-10-24, 05:14:50](https://news.ycombinator.com/item?id=45691002) - [The Light of “The Brothers Karamazov”](https://www.newyorker.com/books/second-read/the-light-of-the-brothers-karamazov)
 * [2025-10-23, 11:21:04](https://news.ycombinator.com/item?id=45680583) - [Corrosion](https://fly.io/blog/corrosion/)
 
 ## [Archives](archives/index.md)
