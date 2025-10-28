@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2025-10-28](index.md)
 
+* [2025-10-28, 17:00:31](https://news.ycombinator.com/item?id=45735491) - [SigNoz (YC W21) Is Hiring DevRel Engineers in the US – Open Source O11y Platform](https://jobs.ashbyhq.com/SigNoz/8447522c-1163-48d0-8f55-fac25f64a0f3)
 * [2025-10-28, 16:32:27](https://news.ycombinator.com/item?id=45735044) - [HOPL: The Human Only Public License](https://vanderessen.com/posts/hopl/)
 * [2025-10-28, 16:17:16](https://news.ycombinator.com/item?id=45734834) - [Texas Attorney General sues Tylenol makers over autism claims](https://www.bbc.com/news/articles/ce9d3n1r08do)
+* [2025-10-28, 16:07:27](https://news.ycombinator.com/item?id=45734696) - [Show HN: Dexto – Connect your AI Agents with real-world tools and data](https://github.com/truffle-ai/dexto)
 * [2025-10-28, 16:01:00](https://news.ycombinator.com/item?id=45734620) - [The Decline of Deviance](https://www.experimental-history.com/p/the-decline-of-deviance)
 * [2025-10-28, 15:58:58](https://news.ycombinator.com/item?id=45734582) - [Using AI to negotiate a $195k hospital bill down to $33k](https://www.threads.com/@nthmonkey/post/DQVdAD1gHhw)
 * [2025-10-28, 15:53:52](https://news.ycombinator.com/item?id=45734486) - [Nvidia takes $1B stake in Nokia](https://www.cnbc.com/2025/10/28/nvidia-nokia-ai.html)
@@ -17,6 +19,7 @@
 * [2025-10-28, 14:34:18](https://news.ycombinator.com/item?id=45733412) - [A brief history of random numbers](https://crates.io/crates/oorandom#a-brief-history-of-random-numbers)
 * [2025-10-28, 14:27:37](https://news.ycombinator.com/item?id=45733329) - [The AirPods Pro 3 flight problem](https://basicappleguy.com/basicappleblog/the-airpods-pro-3-flight-problem)
 * [2025-10-28, 14:16:42](https://news.ycombinator.com/item?id=45733197) - [Washington Post editorials omit a key disclosure: Bezos' financial ties](https://www.npr.org/2025/10/28/nx-s1-5587932/washington-post-editorials-omit-a-key-disclosure-bezos-financial-ties)
+* [2025-10-28, 14:13:25](https://news.ycombinator.com/item?id=45733169) - [Our LLM-controlled office robot can't pass butter](https://andonlabs.com/evals/butter-bench)
 * [2025-10-28, 14:01:03](https://news.ycombinator.com/item?id=45733030) - [Society will accept a death caused by a robotaxi, Waymo co-CEO says](https://www.sfgate.com/tech/article/society-accept-robotaxi-death-waymo-21123178.php)
 * [2025-10-28, 13:48:51](https://news.ycombinator.com/item?id=45732874) - [Ubiquiti SFP Wizard](https://blog.ui.com/article/welcome-to-sfp-liberation-day)
 * [2025-10-28, 13:41:09](https://news.ycombinator.com/item?id=45732783) - [Microsoft to Get 27% of OpenAI, Access to AI Models Until 2032](https://www.bloomberg.com/news/articles/2025-10-28/microsoft-to-get-27-of-openai-access-to-ai-models-until-2032)
