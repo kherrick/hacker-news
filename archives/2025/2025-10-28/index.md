@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-10-28](index.md)
 
+* [2025-10-28, 08:34:57](https://news.ycombinator.com/item?id=45730411) - [Criminal complaint against facial recognition company Clearview AI](https://noyb.eu/en/criminal-complaint-against-facial-recognition-company-clearview-ai)
 * [2025-10-28, 08:04:14](https://news.ycombinator.com/item?id=45730210) - [183M Gmail Passwords Leaked](https://www.forbes.com/sites/daveywinder/2025/10/27/gmail-passwords-confirmed-as-part-of-183-million-account-data-breach/)
 * [2025-10-28, 07:48:35](https://news.ycombinator.com/item?id=45730127) - [Microsoft Releases AI Call Center Stack with Voice, SMS, and Memory](https://github.com/microsoft/call-center-ai)
 * [2025-10-28, 07:42:18](https://news.ycombinator.com/item?id=45730094) - [Poker Tournament for LLMs](https://pokerbattle.ai/event)
