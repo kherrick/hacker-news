@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-10-29, 02:20:10](https://news.ycombinator.com/item?id=45741877) - [Rockylinux.org not hosted on Rocky Linux](https://rockylinux-org.vercel.app/)
 * [2025-10-29, 01:06:32](https://news.ycombinator.com/item?id=45741391) - [Project Shadowglass](https://shadowglassgame.com)
 * [2025-10-29, 00:13:43](https://news.ycombinator.com/item?id=45741050) - [Database backups, dump files and restic](https://strugglers.net/posts/2025/database-backups-dump-files-and-restic/)
 * [2025-10-28, 22:39:24](https://news.ycombinator.com/item?id=45740214) - [Keeping the Internet fast and secure: introducing Merkle Tree Certificates](https://blog.cloudflare.com/bootstrap-mtc/)
@@ -29,6 +28,7 @@
 * [2025-10-27, 15:27:38](https://news.ycombinator.com/item?id=45722069) - [It's insulting to read AI-generated blog posts](https://blog.pabloecortez.com/its-insulting-to-read-your-ai-generated-blog-post/)
 * [2025-10-26, 06:03:24](https://news.ycombinator.com/item?id=45709499) - [Gluing and framing a 9000-piece jigsaw](https://river.me/blog/puzzle-glue-9000/)
 * [2025-10-25, 09:08:26](https://news.ycombinator.com/item?id=45702397) - [ChatGPT's Atlas: The Browser That's Anti-Web](https://www.anildash.com//2025/10/22/atlas-anti-web-browser/)
+* [2025-10-24, 08:04:28](https://news.ycombinator.com/item?id=45692116) - [Apple will phase out Rosetta 2 in macOS 28](https://developer.apple.com/documentation/apple-silicon/about-the-rosetta-translation-environment)
 * [2025-10-23, 14:00:37](https://news.ycombinator.com/item?id=45681913) - [Cheese Crystals (2019)](https://snipettemag.com/cheese-crystals/)
 
 ## [Archives](archives/index.md)
