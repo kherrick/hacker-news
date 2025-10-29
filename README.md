@@ -21,7 +21,6 @@
 * [2025-10-28, 22:42:16](https://news.ycombinator.com/item?id=45740241) - [Detour: Dynamic linking on Linux without Libc](https://github.com/graphitemaster/detour)
 * [2025-10-28, 22:07:41](https://news.ycombinator.com/item?id=45739877) - [SwirlDB: Modular-first, CRDT-based embedded database](https://docs.swirldb.org/)
 * [2025-10-28, 17:59:45](https://news.ycombinator.com/item?id=45736426) - [Cancer survival rates are misleading](https://www.allendowney.com/blog/2025/10/27/cancer-survival-rates-are-misleading/)
-* [2025-10-28, 16:19:26](https://news.ycombinator.com/item?id=45734865) - [Show HN: Pipelex – Declarative language for repeatable AI workflows](https://github.com/Pipelex/pipelex)
 * [2025-10-28, 13:42:44](https://news.ycombinator.com/item?id=45732800) - [China has added forest the size of Texas since 1990](https://e360.yale.edu/digest/china-new-forest-report)
 * [2025-10-28, 12:19:38](https://news.ycombinator.com/item?id=45731848) - [Tailscale Services](https://tailscale.com/blog/services-beta)
 * [2025-10-28, 02:00:58](https://news.ycombinator.com/item?id=45728525) - [GLP-1 therapeutics: Their emerging role in alcohol and substance use disorders](https://academic.oup.com/jes/article/9/11/bvaf141/8277723?login=false)
@@ -29,6 +28,7 @@
 * [2025-10-27, 21:04:11](https://news.ycombinator.com/item?id=45726272) - [Movycat – A terminal movie player written in Zig](https://github.com/M64GitHub/movycat)
 * [2025-10-27, 16:27:50](https://news.ycombinator.com/item?id=45722896) - [How blocks are chained in a blockchain](https://www.johndcook.com/blog/2025/10/27/blockchain/)
 * [2025-10-27, 15:56:46](https://news.ycombinator.com/item?id=45722471) - [More than DNS: Learnings from the 14 hour AWS outage](https://thundergolfer.com/blog/aws-us-east-1-outage-oct20)
+* [2025-10-26, 13:41:32](https://news.ycombinator.com/item?id=45711805) - [Mapping Underground Structures with 3D Scans](https://wilkinson.graphics/blog/2025-10-25-3d-mapping/)
 * [2025-10-22, 20:30:58](https://news.ycombinator.com/item?id=45674766) - [A Fork in the Road: Deciding Kafka's Diskless Future](https://jack-vanlightly.com/blog/2025/10/22/a-fork-in-the-road-deciding-kafkas-diskless-future)
 
 ## [Archives](archives/index.md)

@@ -30,6 +30,7 @@
 * [2025-10-26, 14:21:44](https://news.ycombinator.com/item?id=45712118) - [Resource use matters, but material footprints are a poor way to measure it](https://ourworldindata.org/material-footprint-limitations)
 * [2025-10-26, 13:52:37](https://news.ycombinator.com/item?id=45711886) - [YouTube Just Ate TV. It's Only Getting Started](https://www.hollywoodreporter.com/business/digital/youtube-impact-tv-sports-late-night-comedy-shows-1236400353/)
 * [2025-10-26, 13:47:49](https://news.ycombinator.com/item?id=45711847) - [Apple Reportedly Moving Ahead with Ads in Maps App](https://www.macrumors.com/2025/10/26/apple-moving-ahead-with-ads-in-maps/)
+* [2025-10-26, 13:41:32](https://news.ycombinator.com/item?id=45711805) - [Mapping Underground Structures with 3D Scans](https://wilkinson.graphics/blog/2025-10-25-3d-mapping/)
 * [2025-10-26, 13:38:30](https://news.ycombinator.com/item?id=45711786) - [The FSF considers large language models](https://lwn.net/Articles/1040888/)
 * [2025-10-26, 13:17:40](https://news.ycombinator.com/item?id=45711598) - [Falcon: A Reliable, Low Latency Hardware Transport](https://dl.acm.org/doi/10.1145/3718958.3754353)
 * [2025-10-26, 12:34:36](https://news.ycombinator.com/item?id=45711279) - [Let's Help NetBSD Cross the Finish Line Before 2025 Ends](https://mail-index.netbsd.org/netbsd-users/2025/10/26/msg033327.html)
