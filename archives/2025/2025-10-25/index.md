@@ -34,6 +34,7 @@
 * [2025-10-25, 19:31:49](https://news.ycombinator.com/item?id=45706372) - [Visualizing the most common unisex names in the US](https://nameplay.org/blog/common-unisex-names-by-gender-ratio)
 * [2025-10-25, 18:47:55](https://news.ycombinator.com/item?id=45706077) - [Switzerland is spending millions revamping its vast network of bunkers](https://www.washingtonpost.com/world/2025/10/25/switzerland-nuclear-bunkers-overhaul/)
 * [2025-10-25, 18:43:32](https://news.ycombinator.com/item?id=45706056) - [ICC Judge Guillou loses all US IT accounts after MAGA sanctions [FR]](https://www.franceinfo.fr/replay-radio/nouveau-monde/quand-les-sanctions-internationales-emises-par-washington-imposent-une-vie-deconnectee-a-un-magistrat-francais_7545724.html)
+* [2025-10-25, 17:44:20](https://news.ycombinator.com/item?id=45705654) - [Use the Saw, Fear the Saw](https://stephango.com/saw)
 * [2025-10-25, 17:33:43](https://news.ycombinator.com/item?id=45705583) - [Draw high dimensional tensors as a matrix of matrices](https://blog.ezyang.com/2025/10/draw-high-dimensional-tensors-as-a-matrix-of-matrices/)
 * [2025-10-25, 17:07:40](https://news.ycombinator.com/item?id=45705381) - [Libera Chat receives legal advice that the Online Safety Act does not apply to](https://libera.chat/news/advised)
 * [2025-10-25, 16:48:16](https://news.ycombinator.com/item?id=45705250) - [Armed police handcuff teen after AI mistakes chip bag for gun in Baltimore](https://www.bbc.com/news/articles/cgjdlx92lylo)
