@@ -22,7 +22,7 @@
 * [2025-10-29, 14:12:50](https://news.ycombinator.com/item?id=45747112) - [I made a 10¢ MCU Talk](https://www.atomic14.com/2025/10/29/CH32V003-talking)
 * [2025-10-29, 13:52:31](https://news.ycombinator.com/item?id=45746844) - [Character.ai to bar children under 18 from using its chatbots](https://www.nytimes.com/2025/10/29/technology/characterai-underage-users.html)
 * [2025-10-29, 13:19:30](https://news.ycombinator.com/item?id=45746478) - [From VS Code to Helix](https://ergaster.org/posts/2025/10/29-vscode-to-helix/)
-* [2025-10-29, 12:35:12](https://news.ycombinator.com/item?id=45746020) - [Zig's New Async I/O [video]](https://www.youtube.com/watch?v=mdOxIc0HM04)
+* [2025-10-29, 05:17:49](https://news.ycombinator.com/item?id=45742907) - [Who needs Graphviz when you can build it yourself?](https://spidermonkey.dev/blog/2025/10/28/iongraph-web.html)
 * [2025-10-29, 04:03:41](https://news.ycombinator.com/item?id=45742488) - [Keep Android Open](http://keepandroidopen.org/)
 * [2025-10-28, 15:49:51](https://news.ycombinator.com/item?id=45734429) - [Show HN: Research Hacker News, ArXiv & Google with Hierarchical Bayesian Models](https://sturdystatistics.com/deepdive-search)
 * [2025-10-26, 11:48:12](https://news.ycombinator.com/item?id=45710981) - [Hacking the World Poker Tour: Inside ClubWPT Gold's Back Office](https://samcurry.net/hacking-clubwpt-gold)
