@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-10-29](index.md)
 
+* [2025-10-29, 14:50:03](https://news.ycombinator.com/item?id=45747578) - [Tether is now the 17th largest holder of US debt](https://twitter.com/paoloardoino/status/1983455972636111011)
+* [2025-10-29, 14:48:22](https://news.ycombinator.com/item?id=45747557) - [The jQuery Age of AI Agents](https://metorial.com/blog/jquery-age-of-ai)
+* [2025-10-29, 14:35:17](https://news.ycombinator.com/item?id=45747380) - [Life After Work](https://www.mechanize.work/blog/life-after-work/)
 * [2025-10-29, 14:25:00](https://news.ycombinator.com/item?id=45747263) - [Mom's son was asking Tesla's Grok AI bot about soccer; told him to send nudes](https://www.cbc.ca/news/investigates/tesla-grok-mom-9.6956930)
 * [2025-10-29, 14:12:50](https://news.ycombinator.com/item?id=45747112) - [I made a 10¢ MCU Talk](https://www.atomic14.com/2025/10/29/CH32V003-talking)
 * [2025-10-29, 14:06:01](https://news.ycombinator.com/item?id=45747018) - [Kafka is Fast – I'll use Postgres](https://topicpartition.io/blog/postgres-pubsub-queue-benchmarks)
