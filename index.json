@@ -181,26 +181,6 @@
   ],
   [
     [
-      "2025-10-29, 13:19:30",
-      "https://news.ycombinator.com/item?id=45746478"
-    ],
-    [
-      "From VS Code to Helix",
-      "https://ergaster.org/posts/2025/10/29-vscode-to-helix/"
-    ]
-  ],
-  [
-    [
-      "2025-10-29, 13:12:23",
-      "https://news.ycombinator.com/item?id=45746401"
-    ],
-    [
-      "Grammarly rebrands to 'Superhuman,' launches a new AI assistant",
-      "https://techcrunch.com/2025/10/29/grammarly-rebrands-to-superhuman-launches-a-new-ai-assistant/"
-    ]
-  ],
-  [
-    [
       "2025-10-29, 11:14:38",
       "https://news.ycombinator.com/item?id=45745281"
     ],
@@ -211,22 +191,42 @@
   ],
   [
     [
-      "2025-10-29, 04:03:41",
-      "https://news.ycombinator.com/item?id=45742488"
+      "2025-10-29, 03:58:57",
+      "https://news.ycombinator.com/item?id=45742456"
     ],
     [
-      "Keep Android Open",
-      "http://keepandroidopen.org/"
+      "Board: New game console recognizes physical pieces, with an open SDK",
+      "https://board.fun/"
     ]
   ],
   [
     [
-      "2025-10-28, 15:49:51",
-      "https://news.ycombinator.com/item?id=45734429"
+      "2025-10-28, 22:07:41",
+      "https://news.ycombinator.com/item?id=45739877"
     ],
     [
-      "Show HN: Research Hacker News, ArXiv & Google with Hierarchical Bayesian Models",
-      "https://sturdystatistics.com/deepdive-search"
+      "SwirlDB: Modular-first, CRDT-based embedded database",
+      "https://docs.swirldb.org/"
+    ]
+  ],
+  [
+    [
+      "2025-10-28, 17:59:45",
+      "https://news.ycombinator.com/item?id=45736426"
+    ],
+    [
+      "Cancer survival rates are misleading",
+      "https://www.allendowney.com/blog/2025/10/27/cancer-survival-rates-are-misleading/"
+    ]
+  ],
+  [
+    [
+      "2025-10-28, 16:19:26",
+      "https://news.ycombinator.com/item?id=45734865"
+    ],
+    [
+      "Show HN: Pipelex – Declarative language for repeatable AI workflows",
+      "https://github.com/Pipelex/pipelex"
     ]
   ],
   [
@@ -261,22 +261,22 @@
   ],
   [
     [
-      "2025-10-26, 18:46:30",
-      "https://news.ycombinator.com/item?id=45714240"
+      "2025-10-27, 21:04:11",
+      "https://news.ycombinator.com/item?id=45726272"
     ],
     [
-      "The Uncertain Origins of Aspirin",
-      "https://www.asimov.press/p/aspirin"
+      "Movycat – A terminal movie player written in Zig",
+      "https://github.com/M64GitHub/movycat"
     ]
   ],
   [
     [
-      "2025-10-26, 11:48:12",
-      "https://news.ycombinator.com/item?id=45710981"
+      "2025-10-27, 15:56:46",
+      "https://news.ycombinator.com/item?id=45722471"
     ],
     [
-      "Hacking the World Poker Tour: Inside ClubWPT Gold's Back Office",
-      "https://samcurry.net/hacking-clubwpt-gold"
+      "More than DNS: Learnings from the 14 hour AWS outage",
+      "https://thundergolfer.com/blog/aws-us-east-1-outage-oct20"
     ]
   ],
   [
