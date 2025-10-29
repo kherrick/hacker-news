@@ -4,7 +4,11 @@
 
 ### [Archives](../../index.md) for [2025-10-29](index.md)
 
+* [2025-10-29, 14:25:00](https://news.ycombinator.com/item?id=45747263) - [Mom's son was asking Tesla's Grok AI bot about soccer; told him to send nudes](https://www.cbc.ca/news/investigates/tesla-grok-mom-9.6956930)
+* [2025-10-29, 14:12:50](https://news.ycombinator.com/item?id=45747112) - [I made a 10¢ MCU Talk](https://www.atomic14.com/2025/10/29/CH32V003-talking)
+* [2025-10-29, 14:02:06](https://news.ycombinator.com/item?id=45746964) - [Samsung's $2000 smart fridges are getting ads](https://www.ghacks.net/2025/10/29/samsungs-2000-smart-fridges-are-getting-ads/)
 * [2025-10-29, 13:44:31](https://news.ycombinator.com/item?id=45746753) - [New attacks are diluting secure enclave defenses from Nvidia, AMD, and Intel](https://arstechnica.com/security/2025/10/new-physical-attacks-are-quickly-diluting-secure-enclave-defenses-from-nvidia-amd-and-intel/)
+* [2025-10-29, 13:42:05](https://news.ycombinator.com/item?id=45746726) - [Recreating a Homebrew Game System from 1987](https://alex-j-lowry.github.io/z80tvg.html)
 * [2025-10-29, 13:19:30](https://news.ycombinator.com/item?id=45746478) - [From VS Code to Helix](https://ergaster.org/posts/2025/10/29-vscode-to-helix/)
 * [2025-10-29, 13:12:23](https://news.ycombinator.com/item?id=45746401) - [Grammarly rebrands to 'Superhuman,' launches a new AI assistant](https://techcrunch.com/2025/10/29/grammarly-rebrands-to-superhuman-launches-a-new-ai-assistant/)
 * [2025-10-29, 13:03:52](https://news.ycombinator.com/item?id=45746313) - [Create your first business email for free](https://fromzerotollc.com/step/create-your-first-business-email)
