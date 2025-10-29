@@ -4,7 +4,12 @@
 
 ### [Archives](../../index.md) for [2025-10-29](index.md)
 
+* [2025-10-29, 17:05:24](https://news.ycombinator.com/item?id=45749781) - [ICE and CBP Agents Are Scanning Faces on the Street to Verify Citizenship](https://www.404media.co/ice-and-cbp-agents-are-scanning-peoples-faces-on-the-street-to-verify-citizenship/)
+* [2025-10-29, 17:00:15](https://news.ycombinator.com/item?id=45749690) - [Does brand advertising work? Upwave (YC S12) is hiring engineers to answer that](https://www.upwave.com/job/8228849002/)
+* [2025-10-29, 16:28:56](https://news.ycombinator.com/item?id=45749161) - [AOL to be sold to Bending Spoons for roughly $1.5B](https://www.axios.com/2025/10/29/aol-bending-spoons-deal)
+* [2025-10-29, 16:21:48](https://news.ycombinator.com/item?id=45749019) - [Floss Before Brushing](https://alearningaday.blog/2025/10/29/floss-before-brushing/)
 * [2025-10-29, 16:21:36](https://news.ycombinator.com/item?id=45749017) - [Tailscale Peer Relays](https://tailscale.com/blog/peer-relays-beta)
+* [2025-10-29, 16:12:56](https://news.ycombinator.com/item?id=45748879) - [Minecraft removing obfuscation in Java Edition](https://www.minecraft.net/en-us/article/removing-obfuscation-in-java-edition)
 * [2025-10-29, 16:08:35](https://news.ycombinator.com/item?id=45748799) - [Azure Outage](https://news.ycombinator.com/item?id=45748799)
 * [2025-10-29, 16:05:52](https://news.ycombinator.com/item?id=45748756) - [Azure major outage: Portal, Front Door and global regions down](https://news.ycombinator.com/item?id=45748756)
 * [2025-10-29, 16:04:33](https://news.ycombinator.com/item?id=45748725) - [Cursor Composer: Building a fast frontier model with RL](https://cursor.com/blog/composer)
