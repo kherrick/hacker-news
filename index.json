@@ -231,16 +231,6 @@
   ],
   [
     [
-      "2025-10-27, 15:27:38",
-      "https://news.ycombinator.com/item?id=45722069"
-    ],
-    [
-      "It's insulting to read AI-generated blog posts",
-      "https://blog.pabloecortez.com/its-insulting-to-read-your-ai-generated-blog-post/"
-    ]
-  ],
-  [
-    [
       "2025-10-26, 06:03:24",
       "https://news.ycombinator.com/item?id=45709499"
     ],
@@ -297,6 +287,16 @@
     [
       "Apple will phase out Rosetta 2 in macOS 28",
       "https://developer.apple.com/documentation/apple-silicon/about-the-rosetta-translation-environment"
+    ]
+  ],
+  [
+    [
+      "2025-10-22, 14:05:54",
+      "https://news.ycombinator.com/item?id=45669377"
+    ],
+    [
+      "Continuous Nvidia CUDA Profiling in Production",
+      "https://www.polarsignals.com/blog/posts/2025/10/22/gpu-profiling"
     ]
   ]
 ]
