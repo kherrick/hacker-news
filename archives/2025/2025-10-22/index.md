@@ -42,6 +42,7 @@
 * [2025-10-22, 16:55:44](https://news.ycombinator.com/item?id=45671953) - [Show HN: Semantic Art – Uses natural language prompts to find real artwork](https://www.semantic.art/)
 * [2025-10-22, 16:50:28](https://news.ycombinator.com/item?id=45671871) - [Introducing Galaxy XR, the first Android XR headset](https://blog.google/products/android/samsung-galaxy-xr/)
 * [2025-10-22, 16:44:43](https://news.ycombinator.com/item?id=45671778) - [Meta is axing 600 roles across its AI division](https://www.theverge.com/news/804253/meta-ai-research-layoffs-fair-superintelligence)
+* [2025-10-22, 16:36:25](https://news.ycombinator.com/item?id=45671677) - [Eye prosthesis is the first to restore sight lost to macular degeneration](https://med.stanford.edu/news/all-news/2025/10/eye-prosthesis.html)
 * [2025-10-22, 16:27:26](https://news.ycombinator.com/item?id=45671569) - [Count-Min Sketches in JS – Frequencies, but without the data](https://www.instantdb.com/essays/count_min_sketch)
 * [2025-10-22, 16:21:25](https://news.ycombinator.com/item?id=45671475) - [Wren: A classy little scripting language](https://wren.io/)
 * [2025-10-22, 16:09:01](https://news.ycombinator.com/item?id=45671282) - [Chess engines didn't replace Magnus Carlsen, and AI won't replace you](https://coding-with-ai.dev/posts/use-ai-like-magnus-carlsen/)
