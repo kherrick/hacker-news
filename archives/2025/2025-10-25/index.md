@@ -62,6 +62,7 @@
 * [2025-10-25, 07:07:59](https://news.ycombinator.com/item?id=45701901) - [Simplify Your Code: Functional Core, Imperative Shell](https://testing.googleblog.com/2025/10/simplify-your-code-functional-core.html)
 * [2025-10-25, 07:03:39](https://news.ycombinator.com/item?id=45701884) - [That Time Ken Thompson Wrote a Backdoor into the C Compiler](https://micahkepe.com/blog/thompson-trojan-horse/)
 * [2025-10-25, 06:48:12](https://news.ycombinator.com/item?id=45701825) - [Euro cops take down cybercrime network with 49M fake accounts](https://www.itnews.com.au/news/euro-cops-take-down-cybercrime-network-with-49-million-fake-accounts-621174)
+* [2025-10-25, 06:44:02](https://news.ycombinator.com/item?id=45701803) - [Vibration Analysis and Control in Particle Accelerator 2018 [pdf]](https://indico.cern.ch/event/694811/contributions/2863859/attachments/1595533/2526938/2018_02_06_FCCee_MDI_workshop_Serluca.pdf)
 * [2025-10-25, 05:55:11](https://news.ycombinator.com/item?id=45701622) - [Claudeskills.cc – Share, Discover, and Reuse Claude/OpenAI Agent Skills](https://claudeskills.cc)
 * [2025-10-25, 05:51:31](https://news.ycombinator.com/item?id=45701607) - [Fast TypeScript (Code Complexity) Analyzer](https://ftaproject.dev/)
 * [2025-10-25, 05:30:57](https://news.ycombinator.com/item?id=45701546) - [How the brain's activity, energy use and blood flow change as people fall asleep](https://www.massgeneralbrigham.org/en/about/newsroom/press-releases/research-shows-coordinated-shift-in-brain-activity-while-asleep)
