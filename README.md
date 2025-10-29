@@ -24,7 +24,7 @@
 * [2025-10-28, 14:13:25](https://news.ycombinator.com/item?id=45733169) - [Our LLM-controlled office robot can't pass butter](https://andonlabs.com/evals/butter-bench)
 * [2025-10-28, 13:48:51](https://news.ycombinator.com/item?id=45732874) - [Ubiquiti SFP Wizard](https://blog.ui.com/article/welcome-to-sfp-liberation-day)
 * [2025-10-28, 11:03:59](https://news.ycombinator.com/item?id=45731321) - [We need a clearer framework for AI-assisted contributions to open source](https://samsaffron.com/archive/2025/10/27/your-vibe-coded-slop-pr-is-not-welcome)
-* [2025-10-27, 15:27:38](https://news.ycombinator.com/item?id=45722069) - [It's insulting to read AI-generated blog posts](https://blog.pabloecortez.com/its-insulting-to-read-your-ai-generated-blog-post/)
+* [2025-10-26, 13:17:40](https://news.ycombinator.com/item?id=45711598) - [Falcon: A Reliable, Low Latency Hardware Transport](https://dl.acm.org/doi/10.1145/3718958.3754353)
 * [2025-10-26, 06:03:24](https://news.ycombinator.com/item?id=45709499) - [Gluing and framing a 9000-piece jigsaw](https://river.me/blog/puzzle-glue-9000/)
 * [2025-10-25, 14:33:19](https://news.ycombinator.com/item?id=45704216) - [UIs Are Not Pure Functions of the Model – React.js and Cocoa Side by Side (2018)](https://blog.metaobject.com/2018/12/uis-are-not-pure-functions-of-model.html)
 * [2025-10-25, 09:08:26](https://news.ycombinator.com/item?id=45702397) - [ChatGPT's Atlas: The Browser That's Anti-Web](https://www.anildash.com//2025/10/22/atlas-anti-web-browser/)
