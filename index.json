@@ -1,16 +1,6 @@
 [
   [
     [
-      "2025-10-29, 20:12:56",
-      "https://news.ycombinator.com/item?id=45752428"
-    ],
-    [
-      "Emergent Introspective Awareness in Large Language Models",
-      "https://transformer-circuits.pub/2025/introspection/index.html"
-    ]
-  ],
-  [
-    [
       "2025-10-29, 19:39:57",
       "https://news.ycombinator.com/item?id=45751995"
     ],
@@ -77,16 +67,6 @@
     [
       "OpenAI’s promise to stay in California helped clear the path for its IPO",
       "https://www.wsj.com/tech/ai/openais-promise-to-stay-in-california-helped-clear-the-path-for-its-ipo-3af1c31c"
-    ]
-  ],
-  [
-    [
-      "2025-10-29, 17:03:51",
-      "https://news.ycombinator.com/item?id=45749746"
-    ],
-    [
-      "The Green Tea Garbage Collector",
-      "https://go.dev/blog/greenteagc"
     ]
   ],
   [
@@ -201,6 +181,16 @@
   ],
   [
     [
+      "2025-10-28, 22:42:16",
+      "https://news.ycombinator.com/item?id=45740241"
+    ],
+    [
+      "Detour: Dynamic linking on Linux without Libc",
+      "https://github.com/graphitemaster/detour"
+    ]
+  ],
+  [
+    [
       "2025-10-28, 22:07:41",
       "https://news.ycombinator.com/item?id=45739877"
     ],
@@ -227,6 +217,16 @@
     [
       "Show HN: Pipelex – Declarative language for repeatable AI workflows",
       "https://github.com/Pipelex/pipelex"
+    ]
+  ],
+  [
+    [
+      "2025-10-28, 13:42:44",
+      "https://news.ycombinator.com/item?id=45732800"
+    ],
+    [
+      "China has added forest the size of Texas since 1990",
+      "https://e360.yale.edu/digest/china-new-forest-report"
     ]
   ],
   [
@@ -271,6 +271,16 @@
   ],
   [
     [
+      "2025-10-27, 16:27:50",
+      "https://news.ycombinator.com/item?id=45722896"
+    ],
+    [
+      "How blocks are chained in a blockchain",
+      "https://www.johndcook.com/blog/2025/10/27/blockchain/"
+    ]
+  ],
+  [
+    [
       "2025-10-27, 15:56:46",
       "https://news.ycombinator.com/item?id=45722471"
     ],
@@ -287,16 +297,6 @@
     [
       "State of Embedded: Q4 2025 Overview",
       "https://sbcwiki.com/news/articles/state-of-embedded-q4-25/"
-    ]
-  ],
-  [
-    [
-      "2025-10-22, 16:36:25",
-      "https://news.ycombinator.com/item?id=45671677"
-    ],
-    [
-      "Eye prosthesis is the first to restore sight lost to macular degeneration",
-      "https://med.stanford.edu/news/all-news/2025/10/eye-prosthesis.html"
     ]
   ]
 ]
