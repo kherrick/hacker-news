@@ -5,6 +5,8 @@
 ### [Archives](../../index.md) for [2025-10-29](index.md)
 
 * [2025-10-29, 18:25:01](https://news.ycombinator.com/item?id=45750995) - [Extropic is building thermodynamic computing hardware](https://extropic.ai/)
+* [2025-10-29, 18:21:35](https://news.ycombinator.com/item?id=45750954) - [Dithering – Part 1](https://visualrambling.space/dithering-part-1/)
+* [2025-10-29, 18:16:07](https://news.ycombinator.com/item?id=45750875) - [The Internet Runs on Free and Open Source Software–and So Does the DNS](https://www.icann.org/en/blogs/details/the-internet-runs-on-free-and-open-source-softwareand-so-does-the-dns-23-10-2025-en)
 * [2025-10-29, 17:50:21](https://news.ycombinator.com/item?id=45750501) - [Encoding x86 Instructions](https://www-user.tu-chemnitz.de/~heha/hs/chm/x86.chm/x86.htm)
 * [2025-10-29, 17:44:34](https://news.ycombinator.com/item?id=45750425) - [OpenAI’s promise to stay in California helped clear the path for its IPO](https://www.wsj.com/tech/ai/openais-promise-to-stay-in-california-helped-clear-the-path-for-its-ipo-3af1c31c)
 * [2025-10-29, 17:37:08](https://news.ycombinator.com/item?id=45750303) - [Pentagon orders states' national guards to form 'quick reaction forces'](https://www.theguardian.com/us-news/2025/oct/29/pentagon-memo-quick-reaction-forces)
