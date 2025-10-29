@@ -2,6 +2,7 @@
 
 * [2025-10-29, 14:25:00](https://news.ycombinator.com/item?id=45747263) - [Mom's son was asking Tesla's Grok AI bot about soccer; told him to send nudes](https://www.cbc.ca/news/investigates/tesla-grok-mom-9.6956930)
 * [2025-10-29, 14:12:50](https://news.ycombinator.com/item?id=45747112) - [I made a 10¢ MCU Talk](https://www.atomic14.com/2025/10/29/CH32V003-talking)
+* [2025-10-29, 14:06:01](https://news.ycombinator.com/item?id=45747018) - [Kafka is Fast – I'll use Postgres](https://topicpartition.io/blog/postgres-pubsub-queue-benchmarks)
 * [2025-10-29, 14:02:06](https://news.ycombinator.com/item?id=45746964) - [Samsung's $2000 smart fridges are getting ads](https://www.ghacks.net/2025/10/29/samsungs-2000-smart-fridges-are-getting-ads/)
 * [2025-10-29, 13:44:31](https://news.ycombinator.com/item?id=45746753) - [New attacks are diluting secure enclave defenses from Nvidia, AMD, and Intel](https://arstechnica.com/security/2025/10/new-physical-attacks-are-quickly-diluting-secure-enclave-defenses-from-nvidia-amd-and-intel/)
 * [2025-10-29, 13:42:05](https://news.ycombinator.com/item?id=45746726) - [Recreating a Homebrew Game System from 1987](https://alex-j-lowry.github.io/z80tvg.html)
@@ -19,7 +20,6 @@
 * [2025-10-29, 03:57:06](https://news.ycombinator.com/item?id=45742446) - [uBlock Origin Lite Apple App Store](https://apps.apple.com/in/app/ublock-origin-lite/id6745342698)
 * [2025-10-29, 03:51:56](https://news.ycombinator.com/item?id=45742419) - [Tips for stroke-surviving software engineers](https://blog.j11y.io/2025-10-29_stroke_tips_for_engineers/)
 * [2025-10-28, 21:31:50](https://news.ycombinator.com/item?id=45739499) - [Tinkering is a way to acquire good taste](https://seated.ro/blog/tinkering-a-lost-art)
-* [2025-10-28, 20:58:22](https://news.ycombinator.com/item?id=45739080) - [Generative AI Image Editing Showdown](https://genai-showdown.specr.net/image-editing)
 * [2025-10-28, 19:57:16](https://news.ycombinator.com/item?id=45738247) - [Boring is what we wanted](https://512pixels.net/2025/10/boring-is-what-we-wanted/)
 * [2025-10-28, 18:02:36](https://news.ycombinator.com/item?id=45736479) - [What we talk about when we talk about sideloading](https://f-droid.org/2025/10/28/sideloading.html)
 * [2025-10-28, 14:58:04](https://news.ycombinator.com/item?id=45733707) - [EuroLLM: LLM made in Europe built to support all 24 official EU languages](https://eurollm.io/)

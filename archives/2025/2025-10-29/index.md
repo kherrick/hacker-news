@@ -6,6 +6,7 @@
 
 * [2025-10-29, 14:25:00](https://news.ycombinator.com/item?id=45747263) - [Mom's son was asking Tesla's Grok AI bot about soccer; told him to send nudes](https://www.cbc.ca/news/investigates/tesla-grok-mom-9.6956930)
 * [2025-10-29, 14:12:50](https://news.ycombinator.com/item?id=45747112) - [I made a 10¢ MCU Talk](https://www.atomic14.com/2025/10/29/CH32V003-talking)
+* [2025-10-29, 14:06:01](https://news.ycombinator.com/item?id=45747018) - [Kafka is Fast – I'll use Postgres](https://topicpartition.io/blog/postgres-pubsub-queue-benchmarks)
 * [2025-10-29, 14:02:06](https://news.ycombinator.com/item?id=45746964) - [Samsung's $2000 smart fridges are getting ads](https://www.ghacks.net/2025/10/29/samsungs-2000-smart-fridges-are-getting-ads/)
 * [2025-10-29, 13:44:31](https://news.ycombinator.com/item?id=45746753) - [New attacks are diluting secure enclave defenses from Nvidia, AMD, and Intel](https://arstechnica.com/security/2025/10/new-physical-attacks-are-quickly-diluting-secure-enclave-defenses-from-nvidia-amd-and-intel/)
 * [2025-10-29, 13:42:05](https://news.ycombinator.com/item?id=45746726) - [Recreating a Homebrew Game System from 1987](https://alex-j-lowry.github.io/z80tvg.html)
