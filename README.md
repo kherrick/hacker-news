@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-10-29, 14:50:03](https://news.ycombinator.com/item?id=45747578) - [Tether is now the 17th largest holder of US debt](https://twitter.com/paoloardoino/status/1983455972636111011)
-* [2025-10-29, 14:48:22](https://news.ycombinator.com/item?id=45747557) - [The jQuery Age of AI Agents](https://metorial.com/blog/jquery-age-of-ai)
 * [2025-10-29, 14:35:17](https://news.ycombinator.com/item?id=45747380) - [Life After Work](https://www.mechanize.work/blog/life-after-work/)
 * [2025-10-29, 14:12:50](https://news.ycombinator.com/item?id=45747112) - [I made a 10¢ MCU Talk](https://www.atomic14.com/2025/10/29/CH32V003-talking)
 * [2025-10-29, 14:06:01](https://news.ycombinator.com/item?id=45747018) - [Kafka is Fast – I'll use Postgres](https://topicpartition.io/blog/postgres-pubsub-queue-benchmarks)
@@ -27,6 +26,7 @@
 * [2025-10-25, 14:33:19](https://news.ycombinator.com/item?id=45704216) - [UIs Are Not Pure Functions of the Model – React.js and Cocoa Side by Side (2018)](https://blog.metaobject.com/2018/12/uis-are-not-pure-functions-of-model.html)
 * [2025-10-25, 09:08:26](https://news.ycombinator.com/item?id=45702397) - [ChatGPT's Atlas: The Browser That's Anti-Web](https://www.anildash.com//2025/10/22/atlas-anti-web-browser/)
 * [2025-10-25, 04:41:01](https://news.ycombinator.com/item?id=45701400) - [Wheeled Inverted Pendulum Model](https://scaron.info/robotics/wheeled-inverted-pendulum-model.html)
+* [2025-10-24, 17:52:20](https://news.ycombinator.com/item?id=45697234) - [Beyond RaspberryPi: What are all the other SoC vendors up to *summarised*](https://sbcwiki.com/news/articles/state-of-embedded-q4-25/)
 * [2025-10-24, 08:04:28](https://news.ycombinator.com/item?id=45692116) - [Apple will phase out Rosetta 2 in macOS 28](https://developer.apple.com/documentation/apple-silicon/about-the-rosetta-translation-environment)
 * [2025-10-22, 16:36:25](https://news.ycombinator.com/item?id=45671677) - [Eye prosthesis is the first to restore sight lost to macular degeneration](https://med.stanford.edu/news/all-news/2025/10/eye-prosthesis.html)
 * [2025-10-22, 14:05:54](https://news.ycombinator.com/item?id=45669377) - [Continuous Nvidia CUDA Profiling in Production](https://www.polarsignals.com/blog/posts/2025/10/22/gpu-profiling)
