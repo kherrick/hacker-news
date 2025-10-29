@@ -14,8 +14,8 @@
 * [2025-10-28, 18:12:10](https://news.ycombinator.com/item?id=45736608) - [Mapping the off-target effects of every FDA-approved drug in existence](https://www.owlposting.com/p/mapping-the-off-target-effects-of)
 * [2025-10-28, 18:04:00](https://news.ycombinator.com/item?id=45736499) - [HTTPS by default](https://security.googleblog.com/2025/10/https-by-default.html)
 * [2025-10-28, 18:02:36](https://news.ycombinator.com/item?id=45736479) - [What we talk about when we talk about sideloading](https://f-droid.org/2025/10/28/sideloading.html)
+* [2025-10-28, 18:01:40](https://news.ycombinator.com/item?id=45736457) - [1X Neo – Home Robot - Pre Order](https://www.1x.tech/order)
 * [2025-10-28, 17:25:04](https://news.ycombinator.com/item?id=45735877) - [Fil-C: A memory-safe C implementation](https://lwn.net/SubscriberLink/1042938/658ade3768dd4758/)
-* [2025-10-28, 17:00:31](https://news.ycombinator.com/item?id=45735491) - [SigNoz (YC W21) Is Hiring DevRel Engineers in the US – Open Source O11y Platform](https://jobs.ashbyhq.com/SigNoz/8447522c-1163-48d0-8f55-fac25f64a0f3)
 * [2025-10-28, 16:46:57](https://news.ycombinator.com/item?id=45735264) - [I've been loving Claude Code on the web](https://ben.page/claude-code-web)
 * [2025-10-28, 16:01:00](https://news.ycombinator.com/item?id=45734620) - [The decline of deviance](https://www.experimental-history.com/p/the-decline-of-deviance)
 * [2025-10-28, 15:58:58](https://news.ycombinator.com/item?id=45734582) - [Using AI to negotiate a $195k hospital bill down to $33k](https://www.threads.com/@nthmonkey/post/DQVdAD1gHhw)
@@ -25,11 +25,11 @@
 * [2025-10-28, 14:13:25](https://news.ycombinator.com/item?id=45733169) - [Our LLM-controlled office robot can't pass butter](https://andonlabs.com/evals/butter-bench)
 * [2025-10-28, 13:48:51](https://news.ycombinator.com/item?id=45732874) - [Ubiquiti SFP Wizard](https://blog.ui.com/article/welcome-to-sfp-liberation-day)
 * [2025-10-28, 11:03:59](https://news.ycombinator.com/item?id=45731321) - [We need a clearer framework for AI-assisted contributions to open source](https://samsaffron.com/archive/2025/10/27/your-vibe-coded-slop-pr-is-not-welcome)
+* [2025-10-27, 15:27:38](https://news.ycombinator.com/item?id=45722069) - [It's insulting to read AI-generated blog posts](https://blog.pabloecortez.com/its-insulting-to-read-your-ai-generated-blog-post/)
 * [2025-10-26, 13:17:40](https://news.ycombinator.com/item?id=45711598) - [Falcon: A Reliable, Low Latency Hardware Transport](https://dl.acm.org/doi/10.1145/3718958.3754353)
 * [2025-10-26, 06:03:24](https://news.ycombinator.com/item?id=45709499) - [Gluing and framing a 9000-piece jigsaw](https://river.me/blog/puzzle-glue-9000/)
 * [2025-10-25, 09:08:26](https://news.ycombinator.com/item?id=45702397) - [ChatGPT's Atlas: The Browser That's Anti-Web](https://www.anildash.com//2025/10/22/atlas-anti-web-browser/)
 * [2025-10-24, 08:04:28](https://news.ycombinator.com/item?id=45692116) - [Apple will phase out Rosetta 2 in macOS 28](https://developer.apple.com/documentation/apple-silicon/about-the-rosetta-translation-environment)
-* [2025-10-23, 14:14:10](https://news.ycombinator.com/item?id=45682046) - [The Geomys Standard of Care](https://words.filippo.io/standard-of-care/)
 
 ## [Archives](archives/index.md)
 
