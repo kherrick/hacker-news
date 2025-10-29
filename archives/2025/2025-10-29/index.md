@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-10-29](index.md)
 
+* [2025-10-29, 21:22:50](https://news.ycombinator.com/item?id=45753222) - [How the U.S. National Science Foundation Enabled Software-Defined Networking](https://cacm.acm.org/federal-funding-of-academic-research/how-the-u-s-national-science-foundation-enabled-software-defined-networking/)
+* [2025-10-29, 20:55:45](https://news.ycombinator.com/item?id=45752897) - [Backpressure in Distributed Systems](https://blog.pranshu-raj.me/posts/backpressure/)
 * [2025-10-29, 20:12:56](https://news.ycombinator.com/item?id=45752428) - [Emergent Introspective Awareness in Large Language Models](https://transformer-circuits.pub/2025/introspection/index.html)
 * [2025-10-29, 19:39:57](https://news.ycombinator.com/item?id=45751995) - [How to Obsessively Tune WezTerm](https://rashil2000.me/blogs/tune-wezterm)
 * [2025-10-29, 18:57:29](https://news.ycombinator.com/item?id=45751400) - [Uv is the best thing to happen to the Python ecosystem in a decade](https://emily.space/posts/251023-uv)

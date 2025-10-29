@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-10-29, 21:22:50](https://news.ycombinator.com/item?id=45753222) - [How the U.S. National Science Foundation Enabled Software-Defined Networking](https://cacm.acm.org/federal-funding-of-academic-research/how-the-u-s-national-science-foundation-enabled-software-defined-networking/)
+* [2025-10-29, 20:55:45](https://news.ycombinator.com/item?id=45752897) - [Backpressure in Distributed Systems](https://blog.pranshu-raj.me/posts/backpressure/)
 * [2025-10-29, 19:39:57](https://news.ycombinator.com/item?id=45751995) - [How to Obsessively Tune WezTerm](https://rashil2000.me/blogs/tune-wezterm)
 * [2025-10-29, 18:57:29](https://news.ycombinator.com/item?id=45751400) - [Uv is the best thing to happen to the Python ecosystem in a decade](https://emily.space/posts/251023-uv)
 * [2025-10-29, 18:25:01](https://news.ycombinator.com/item?id=45750995) - [Extropic is building thermodynamic computing hardware](https://extropic.ai/)
@@ -18,7 +20,6 @@
 * [2025-10-29, 13:52:31](https://news.ycombinator.com/item?id=45746844) - [Character.ai to bar children under 18 from using its chatbots](https://www.nytimes.com/2025/10/29/technology/characterai-underage-users.html)
 * [2025-10-29, 11:14:38](https://news.ycombinator.com/item?id=45745281) - [AWS to bare metal two years later: Answering your questions about leaving AWS](https://oneuptime.com/blog/post/2025-10-29-aws-to-bare-metal-two-years-later/view)
 * [2025-10-29, 03:58:57](https://news.ycombinator.com/item?id=45742456) - [Board: New game console recognizes physical pieces, with an open SDK](https://board.fun/)
-* [2025-10-28, 22:42:16](https://news.ycombinator.com/item?id=45740241) - [Detour: Dynamic linking on Linux without Libc](https://github.com/graphitemaster/detour)
 * [2025-10-28, 22:07:41](https://news.ycombinator.com/item?id=45739877) - [SwirlDB: Modular-first, CRDT-based embedded database](https://docs.swirldb.org/)
 * [2025-10-28, 17:59:45](https://news.ycombinator.com/item?id=45736426) - [Cancer survival rates are misleading](https://www.allendowney.com/blog/2025/10/27/cancer-survival-rates-are-misleading/)
 * [2025-10-28, 16:19:26](https://news.ycombinator.com/item?id=45734865) - [Show HN: Pipelex – Declarative language for repeatable AI workflows](https://github.com/Pipelex/pipelex)
@@ -29,7 +30,6 @@
 * [2025-10-27, 21:04:11](https://news.ycombinator.com/item?id=45726272) - [Movycat – A terminal movie player written in Zig](https://github.com/M64GitHub/movycat)
 * [2025-10-27, 16:27:50](https://news.ycombinator.com/item?id=45722896) - [How blocks are chained in a blockchain](https://www.johndcook.com/blog/2025/10/27/blockchain/)
 * [2025-10-27, 15:56:46](https://news.ycombinator.com/item?id=45722471) - [More than DNS: Learnings from the 14 hour AWS outage](https://thundergolfer.com/blog/aws-us-east-1-outage-oct20)
-* [2025-10-24, 17:52:20](https://news.ycombinator.com/item?id=45697234) - [State of Embedded: Q4 2025 Overview](https://sbcwiki.com/news/articles/state-of-embedded-q4-25/)
 
 ## [Archives](archives/index.md)
 
