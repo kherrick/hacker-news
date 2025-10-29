@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-10-29, 19:39:57",
+      "https://news.ycombinator.com/item?id=45751995"
+    ],
+    [
+      "How to Obsessively Tune WezTerm",
+      "https://rashil2000.me/blogs/tune-wezterm"
+    ]
+  ],
+  [
+    [
       "2025-10-29, 18:57:29",
       "https://news.ycombinator.com/item?id=45751400"
     ],
@@ -15,7 +25,7 @@
       "https://news.ycombinator.com/item?id=45751339"
     ],
     [
-      "Show HN: SQLite Graph – Graph database with Cypher queries (alpha, but working)",
+      "Show HN: SQLite Graph Ext – Graph database with Cypher queries (alpha)",
       "https://github.com/agentflare-ai/sqlite-graph"
     ]
   ],
@@ -217,16 +227,6 @@
     [
       "From VS Code to Helix",
       "https://ergaster.org/posts/2025/10/29-vscode-to-helix/"
-    ]
-  ],
-  [
-    [
-      "2025-10-29, 05:17:49",
-      "https://news.ycombinator.com/item?id=45742907"
-    ],
-    [
-      "Who needs Graphviz when you can build it yourself?",
-      "https://spidermonkey.dev/blog/2025/10/28/iongraph-web.html"
     ]
   ],
   [
