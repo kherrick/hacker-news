@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-10-29, 23:21:51](https://news.ycombinator.com/item?id=45754439) - [Raspberry Pi Pico Bit-Bangs 100 Mbit/S Ethernet](https://www.elektormagazine.com/news/rp2350-bit-bangs-100-mbit-ethernet)
 * [2025-10-29, 23:17:02](https://news.ycombinator.com/item?id=45754390) - [A century of reforestation helped keep the eastern US cool](https://news.agu.org/press-release/a-century-of-reforestation-helped-keep-the-eastern-us-cool/)
 * [2025-10-29, 22:54:53](https://news.ycombinator.com/item?id=45754165) - [Meta and TikTok are obstructing researchers' access to data, EU commission rules](https://www.science.org/content/article/meta-and-tiktok-are-obstructing-researchers-access-data-european-commission-rules)
 * [2025-10-29, 21:40:05](https://news.ycombinator.com/item?id=45753422) - [A URL to respond with when your boss says \"But ChatGPT Said \"](https://stopcitingai.com/)
@@ -23,6 +22,7 @@
 * [2025-10-29, 03:58:57](https://news.ycombinator.com/item?id=45742456) - [Board: New game console recognizes physical pieces, with an open SDK](https://board.fun/)
 * [2025-10-28, 22:07:41](https://news.ycombinator.com/item?id=45739877) - [SwirlDB: Modular-first, CRDT-based embedded database](https://docs.swirldb.org/)
 * [2025-10-28, 13:42:44](https://news.ycombinator.com/item?id=45732800) - [China has added forest the size of Texas since 1990](https://e360.yale.edu/digest/china-new-forest-report)
+* [2025-10-28, 12:19:38](https://news.ycombinator.com/item?id=45731848) - [Tailscale Services](https://tailscale.com/blog/services-beta)
 * [2025-10-28, 02:00:58](https://news.ycombinator.com/item?id=45728525) - [GLP-1 therapeutics: Their emerging role in alcohol and substance use disorders](https://academic.oup.com/jes/article/9/11/bvaf141/8277723?login=false)
 * [2025-10-27, 21:04:11](https://news.ycombinator.com/item?id=45726272) - [Movycat – A terminal movie player written in Zig](https://github.com/M64GitHub/movycat)
 * [2025-10-27, 16:27:50](https://news.ycombinator.com/item?id=45722896) - [How blocks are chained in a blockchain](https://www.johndcook.com/blog/2025/10/27/blockchain/)
