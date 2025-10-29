@@ -1,12 +1,22 @@
 [
   [
     [
-      "2025-10-28, 23:03:47",
-      "https://news.ycombinator.com/item?id=45740467"
+      "2025-10-29, 01:06:32",
+      "https://news.ycombinator.com/item?id=45741391"
     ],
     [
-      "Fil-C: A memory-safe C implementation",
-      "https://lwn.net/SubscriberLink/1042938/ac9a001023324bf8/"
+      "Project Shadowglass",
+      "https://shadowglassgame.com"
+    ]
+  ],
+  [
+    [
+      "2025-10-29, 00:13:43",
+      "https://news.ycombinator.com/item?id=45741050"
+    ],
+    [
+      "Database backups, dump files and restic",
+      "https://strugglers.net/posts/2025/database-backups-dump-files-and-restic/"
     ]
   ],
   [
@@ -111,12 +121,32 @@
   ],
   [
     [
+      "2025-10-28, 18:04:00",
+      "https://news.ycombinator.com/item?id=45736499"
+    ],
+    [
+      "HTTPS by default",
+      "https://security.googleblog.com/2025/10/https-by-default.html"
+    ]
+  ],
+  [
+    [
       "2025-10-28, 18:02:36",
       "https://news.ycombinator.com/item?id=45736479"
     ],
     [
       "What we talk about when we talk about sideloading",
       "https://f-droid.org/2025/10/28/sideloading.html"
+    ]
+  ],
+  [
+    [
+      "2025-10-28, 18:01:40",
+      "https://news.ycombinator.com/item?id=45736457"
+    ],
+    [
+      "1X Neo – Home Robot - Pre Order",
+      "https://www.1x.tech/order"
     ]
   ],
   [
@@ -141,12 +171,32 @@
   ],
   [
     [
-      "2025-10-28, 16:07:27",
-      "https://news.ycombinator.com/item?id=45734696"
+      "2025-10-28, 16:46:57",
+      "https://news.ycombinator.com/item?id=45735264"
     ],
     [
-      "Show HN: Dexto – Connect your AI Agents with real-world tools and data",
-      "https://github.com/truffle-ai/dexto"
+      "I've been loving Claude Code on the web",
+      "https://ben.page/claude-code-web"
+    ]
+  ],
+  [
+    [
+      "2025-10-28, 16:32:27",
+      "https://news.ycombinator.com/item?id=45735044"
+    ],
+    [
+      "The human only public license",
+      "https://vanderessen.com/posts/hopl/"
+    ]
+  ],
+  [
+    [
+      "2025-10-28, 16:01:00",
+      "https://news.ycombinator.com/item?id=45734620"
+    ],
+    [
+      "The decline of deviance",
+      "https://www.experimental-history.com/p/the-decline-of-deviance"
     ]
   ],
   [
@@ -161,12 +211,12 @@
   ],
   [
     [
-      "2025-10-28, 15:02:59",
-      "https://news.ycombinator.com/item?id=45733772"
+      "2025-10-28, 15:53:52",
+      "https://news.ycombinator.com/item?id=45734486"
     ],
     [
-      "How to build a 747 – A WorldFlight Story",
-      "https://www.x-plane.com/2025/10/how-to-build-a-747-a-worldflight-story/"
+      "Nvidia takes $1B stake in Nokia",
+      "https://www.cnbc.com/2025/10/28/nvidia-nokia-ai.html"
     ]
   ],
   [
@@ -201,16 +251,6 @@
   ],
   [
     [
-      "2025-10-28, 14:16:42",
-      "https://news.ycombinator.com/item?id=45733197"
-    ],
-    [
-      "Washington Post editorials omit a key disclosure: Bezos' financial ties",
-      "https://www.npr.org/2025/10/28/nx-s1-5587932/washington-post-editorials-omit-a-key-disclosure-bezos-financial-ties"
-    ]
-  ],
-  [
-    [
       "2025-10-28, 14:13:25",
       "https://news.ycombinator.com/item?id=45733169"
     ],
@@ -231,42 +271,12 @@
   ],
   [
     [
-      "2025-10-28, 13:22:24",
-      "https://news.ycombinator.com/item?id=45732552"
+      "2025-10-27, 15:27:38",
+      "https://news.ycombinator.com/item?id=45722069"
     ],
     [
-      "Sick: Indexed deduplicated binary storage for JSON-like data structures",
-      "https://github.com/7mind/sick"
-    ]
-  ],
-  [
-    [
-      "2025-10-28, 13:16:40",
-      "https://news.ycombinator.com/item?id=45732485"
-    ],
-    [
-      "Austrian ministry kicks out Microsoft in favor of Nextcloud",
-      "https://news.itsfoss.com/austrian-ministry-kicks-out-microsoft/"
-    ]
-  ],
-  [
-    [
-      "2025-10-28, 11:12:32",
-      "https://news.ycombinator.com/item?id=45731366"
-    ],
-    [
-      "Show HN: Bash Screensavers",
-      "https://github.com/attogram/bash-screensavers"
-    ]
-  ],
-  [
-    [
-      "2025-10-27, 14:25:00",
-      "https://news.ycombinator.com/item?id=45721352"
-    ],
-    [
-      "Show HN: ISS in Real Time – 25 Years Aboard the International Space Station",
-      "https://issinrealtime.org"
+      "It's insulting to read AI-generated blog posts",
+      "https://blog.pabloecortez.com/its-insulting-to-read-your-ai-generated-blog-post/"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Cheese Crystals (2019)",
       "https://snipettemag.com/cheese-crystals/"
-    ]
-  ],
-  [
-    [
-      "2025-10-23, 06:38:10",
-      "https://news.ycombinator.com/item?id=45678859"
-    ],
-    [
-      "The Continual Learning Problem",
-      "https://jessylin.com/2025/10/20/continual-learning/"
     ]
   ]
 ]
