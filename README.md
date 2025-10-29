@@ -1,7 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-10-29, 15:32:46](https://news.ycombinator.com/item?id=45748195) - [The end of the rip-off economy: consumers use LLMs against information asymmetry](https://www.economist.com/finance-and-economics/2025/10/27/the-end-of-the-rip-off-economy)
+* [2025-10-29, 15:07:20](https://news.ycombinator.com/item?id=45747804) - [Collins Aerospace: Sending text messages to the cockpit with test:test](https://www.ccc.de/en/disclosure/collins-aerospace-mit-test-test-textnachrichten-bis-ins-cockpit-senden)
 * [2025-10-29, 14:50:03](https://news.ycombinator.com/item?id=45747578) - [Tether is now the 17th largest holder of US debt](https://twitter.com/paoloardoino/status/1983455972636111011)
-* [2025-10-29, 14:35:17](https://news.ycombinator.com/item?id=45747380) - [Life After Work](https://www.mechanize.work/blog/life-after-work/)
+* [2025-10-29, 14:36:36](https://news.ycombinator.com/item?id=45747402) - [Show HN: HUD-like live annotation and sketching app for macOS](https://draw.wrobele.com/)
 * [2025-10-29, 14:12:50](https://news.ycombinator.com/item?id=45747112) - [I made a 10¢ MCU Talk](https://www.atomic14.com/2025/10/29/CH32V003-talking)
 * [2025-10-29, 14:06:01](https://news.ycombinator.com/item?id=45747018) - [Kafka is Fast – I'll use Postgres](https://topicpartition.io/blog/postgres-pubsub-queue-benchmarks)
 * [2025-10-29, 13:44:31](https://news.ycombinator.com/item?id=45746753) - [New attacks are diluting secure enclave defenses from Nvidia, AMD, and Intel](https://arstechnica.com/security/2025/10/new-physical-attacks-are-quickly-diluting-secure-enclave-defenses-from-nvidia-amd-and-intel/)
@@ -18,7 +20,6 @@
 * [2025-10-29, 03:57:06](https://news.ycombinator.com/item?id=45742446) - [uBlock Origin Lite Apple App Store](https://apps.apple.com/in/app/ublock-origin-lite/id6745342698)
 * [2025-10-29, 03:51:56](https://news.ycombinator.com/item?id=45742419) - [Tips for stroke-surviving software engineers](https://blog.j11y.io/2025-10-29_stroke_tips_for_engineers/)
 * [2025-10-28, 21:31:50](https://news.ycombinator.com/item?id=45739499) - [Tinkering is a way to acquire good taste](https://seated.ro/blog/tinkering-a-lost-art)
-* [2025-10-28, 20:58:22](https://news.ycombinator.com/item?id=45739080) - [Generative AI Image Editing Showdown](https://genai-showdown.specr.net/image-editing)
 * [2025-10-28, 19:57:16](https://news.ycombinator.com/item?id=45738247) - [Boring is what we wanted](https://512pixels.net/2025/10/boring-is-what-we-wanted/)
 * [2025-10-28, 18:02:36](https://news.ycombinator.com/item?id=45736479) - [What we talk about when we talk about sideloading](https://f-droid.org/2025/10/28/sideloading.html)
 * [2025-10-28, 14:58:04](https://news.ycombinator.com/item?id=45733707) - [EuroLLM: LLM made in Europe built to support all 24 official EU languages](https://eurollm.io/)
@@ -27,7 +28,6 @@
 * [2025-10-25, 09:08:26](https://news.ycombinator.com/item?id=45702397) - [ChatGPT's Atlas: The Browser That's Anti-Web](https://www.anildash.com//2025/10/22/atlas-anti-web-browser/)
 * [2025-10-25, 04:41:01](https://news.ycombinator.com/item?id=45701400) - [Wheeled Inverted Pendulum Model](https://scaron.info/robotics/wheeled-inverted-pendulum-model.html)
 * [2025-10-24, 17:52:20](https://news.ycombinator.com/item?id=45697234) - [Beyond RaspberryPi: What are all the other SoC vendors up to *summarised*](https://sbcwiki.com/news/articles/state-of-embedded-q4-25/)
-* [2025-10-24, 08:04:28](https://news.ycombinator.com/item?id=45692116) - [Apple will phase out Rosetta 2 in macOS 28](https://developer.apple.com/documentation/apple-silicon/about-the-rosetta-translation-environment)
 * [2025-10-22, 16:36:25](https://news.ycombinator.com/item?id=45671677) - [Eye prosthesis is the first to restore sight lost to macular degeneration](https://med.stanford.edu/news/all-news/2025/10/eye-prosthesis.html)
 * [2025-10-22, 14:05:54](https://news.ycombinator.com/item?id=45669377) - [Continuous Nvidia CUDA Profiling in Production](https://www.polarsignals.com/blog/posts/2025/10/22/gpu-profiling)
 

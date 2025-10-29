@@ -4,8 +4,11 @@
 
 ### [Archives](../../index.md) for [2025-10-29](index.md)
 
+* [2025-10-29, 15:32:46](https://news.ycombinator.com/item?id=45748195) - [The end of the rip-off economy: consumers use LLMs against information asymmetry](https://www.economist.com/finance-and-economics/2025/10/27/the-end-of-the-rip-off-economy)
+* [2025-10-29, 15:07:20](https://news.ycombinator.com/item?id=45747804) - [Collins Aerospace: Sending text messages to the cockpit with test:test](https://www.ccc.de/en/disclosure/collins-aerospace-mit-test-test-textnachrichten-bis-ins-cockpit-senden)
 * [2025-10-29, 14:50:03](https://news.ycombinator.com/item?id=45747578) - [Tether is now the 17th largest holder of US debt](https://twitter.com/paoloardoino/status/1983455972636111011)
 * [2025-10-29, 14:48:22](https://news.ycombinator.com/item?id=45747557) - [The jQuery Age of AI Agents](https://metorial.com/blog/jquery-age-of-ai)
+* [2025-10-29, 14:36:36](https://news.ycombinator.com/item?id=45747402) - [Show HN: HUD-like live annotation and sketching app for macOS](https://draw.wrobele.com/)
 * [2025-10-29, 14:35:17](https://news.ycombinator.com/item?id=45747380) - [Life After Work](https://www.mechanize.work/blog/life-after-work/)
 * [2025-10-29, 14:25:00](https://news.ycombinator.com/item?id=45747263) - [Mom's son was asking Tesla's Grok AI bot about soccer; told him to send nudes](https://www.cbc.ca/news/investigates/tesla-grok-mom-9.6956930)
 * [2025-10-29, 14:12:50](https://news.ycombinator.com/item?id=45747112) - [I made a 10¢ MCU Talk](https://www.atomic14.com/2025/10/29/CH32V003-talking)
