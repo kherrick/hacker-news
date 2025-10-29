@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-10-29, 11:14:38](https://news.ycombinator.com/item?id=45745281) - [AWS to Bare Metal Two Years Later: Answering Your Questions About Leaving AWS](https://oneuptime.com/blog/post/2025-10-29-aws-to-bare-metal-two-years-later/view)
 * [2025-10-29, 09:26:09](https://news.ycombinator.com/item?id=45744503) - [YouTube is taking down videos on performing nonstandard Windows 11 installs](https://old.reddit.com/r/DataHoarder/comments/1oiz0v0/youtube_is_taking_down_videos_on_performing/)
 * [2025-10-29, 09:06:36](https://news.ycombinator.com/item?id=45744395) - [SpiderMonkey Garbage Collector](https://firefox-source-docs.mozilla.org/js/gc.html)
 * [2025-10-29, 05:17:49](https://news.ycombinator.com/item?id=45742907) - [Who needs Graphviz when you can build it yourself?](https://spidermonkey.dev/blog/2025/10/28/iongraph-web.html)
@@ -29,7 +30,6 @@
 * [2025-10-25, 09:08:26](https://news.ycombinator.com/item?id=45702397) - [ChatGPT's Atlas: The Browser That's Anti-Web](https://www.anildash.com//2025/10/22/atlas-anti-web-browser/)
 * [2025-10-24, 23:18:14](https://news.ycombinator.com/item?id=45700078) - [Powerful and precise multi-color lasers now fit on a single chip](https://phys.org/news/2025-10-powerful-precise-multi-lasers-chip.html)
 * [2025-10-24, 08:04:28](https://news.ycombinator.com/item?id=45692116) - [Apple will phase out Rosetta 2 in macOS 28](https://developer.apple.com/documentation/apple-silicon/about-the-rosetta-translation-environment)
-* [2025-10-22, 14:05:54](https://news.ycombinator.com/item?id=45669377) - [Continuous Nvidia CUDA Profiling in Production](https://www.polarsignals.com/blog/posts/2025/10/22/gpu-profiling)
 
 ## [Archives](archives/index.md)
 
