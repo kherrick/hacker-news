@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-10-29, 09:26:09](https://news.ycombinator.com/item?id=45744503) - [YouTube is taking down videos on performing nonstandard Windows 11 installs](https://old.reddit.com/r/DataHoarder/comments/1oiz0v0/youtube_is_taking_down_videos_on_performing/)
 * [2025-10-29, 09:06:36](https://news.ycombinator.com/item?id=45744395) - [SpiderMonkey Garbage Collector](https://firefox-source-docs.mozilla.org/js/gc.html)
 * [2025-10-29, 05:17:49](https://news.ycombinator.com/item?id=45742907) - [Who needs Graphviz when you can build it yourself?](https://spidermonkey.dev/blog/2025/10/28/iongraph-web.html)
 * [2025-10-29, 04:25:24](https://news.ycombinator.com/item?id=45742616) - [Wacl – A Tcl Distribution for WebAssembly](https://github.com/ecky-l/wacl)
@@ -21,7 +22,6 @@
 * [2025-10-28, 15:53:52](https://news.ycombinator.com/item?id=45734486) - [Nvidia takes $1B stake in Nokia](https://www.cnbc.com/2025/10/28/nvidia-nokia-ai.html)
 * [2025-10-28, 14:58:04](https://news.ycombinator.com/item?id=45733707) - [EuroLLM: LLM made in Europe built to support all 24 official EU languages](https://eurollm.io/)
 * [2025-10-28, 14:27:37](https://news.ycombinator.com/item?id=45733329) - [The AirPods Pro 3 flight problem](https://basicappleguy.com/basicappleblog/the-airpods-pro-3-flight-problem)
-* [2025-10-28, 14:13:25](https://news.ycombinator.com/item?id=45733169) - [Our LLM-controlled office robot can't pass butter](https://andonlabs.com/evals/butter-bench)
 * [2025-10-28, 13:48:51](https://news.ycombinator.com/item?id=45732874) - [Ubiquiti SFP Wizard](https://blog.ui.com/article/welcome-to-sfp-liberation-day)
 * [2025-10-28, 11:03:59](https://news.ycombinator.com/item?id=45731321) - [We need a clearer framework for AI-assisted contributions to open source](https://samsaffron.com/archive/2025/10/27/your-vibe-coded-slop-pr-is-not-welcome)
 * [2025-10-26, 06:03:24](https://news.ycombinator.com/item?id=45709499) - [Gluing and framing a 9000-piece jigsaw](https://river.me/blog/puzzle-glue-9000/)
