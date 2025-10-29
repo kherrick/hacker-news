@@ -31,6 +31,7 @@
 * [2025-10-27, 16:44:17](https://news.ycombinator.com/item?id=45723159) - [JetKVM – Control any computer remotely](https://jetkvm.com/)
 * [2025-10-27, 16:44:17](https://news.ycombinator.com/item?id=45723159) - [JetKVM Is Now Available for Retail Purchase](https://jetkvm.com/products)
 * [2025-10-27, 16:29:38](https://news.ycombinator.com/item?id=45722931) - [fnox, a secret manager that pairs well with mise](https://github.com/jdx/mise/discussions/6779)
+* [2025-10-27, 16:27:50](https://news.ycombinator.com/item?id=45722896) - [How blocks are chained in a blockchain](https://www.johndcook.com/blog/2025/10/27/blockchain/)
 * [2025-10-27, 16:22:52](https://news.ycombinator.com/item?id=45722826) - [JSON Query](https://jsonquerylang.org/)
 * [2025-10-27, 16:16:05](https://news.ycombinator.com/item?id=45722733) - [Ask HN: Is AWS Down Again?](https://news.ycombinator.com/item?id=45722733)
 * [2025-10-27, 16:09:22](https://news.ycombinator.com/item?id=45722639) - [Claude for Excel](https://www.claude.com/claude-for-excel)

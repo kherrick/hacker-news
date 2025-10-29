@@ -6,6 +6,7 @@
 
 * [2025-10-28, 23:03:47](https://news.ycombinator.com/item?id=45740467) - [Fil-C: A memory-safe C implementation](https://lwn.net/SubscriberLink/1042938/ac9a001023324bf8/)
 * [2025-10-28, 22:52:49](https://news.ycombinator.com/item?id=45740348) - [Static Android Debug Bridge (adb)](https://github.com/kiddlu/adb-static)
+* [2025-10-28, 22:42:16](https://news.ycombinator.com/item?id=45740241) - [Detour: Dynamic linking on Linux without Libc](https://github.com/graphitemaster/detour)
 * [2025-10-28, 22:39:24](https://news.ycombinator.com/item?id=45740214) - [Keeping the Internet fast and secure: introducing Merkle Tree Certificates](https://blog.cloudflare.com/bootstrap-mtc/)
 * [2025-10-28, 22:33:51](https://news.ycombinator.com/item?id=45740161) - [Waymo runs over neighborhood cat in Mission District](https://www.instagram.com/p/DQXZH4TEnC0/)
 * [2025-10-28, 22:07:41](https://news.ycombinator.com/item?id=45739877) - [SwirlDB: Modular-first, CRDT-based embedded database](https://docs.swirldb.org/)
@@ -50,6 +51,7 @@
 * [2025-10-28, 14:13:25](https://news.ycombinator.com/item?id=45733169) - [Our LLM-controlled office robot can't pass butter](https://andonlabs.com/evals/butter-bench)
 * [2025-10-28, 14:01:03](https://news.ycombinator.com/item?id=45733030) - [Society will accept a death caused by a robotaxi, Waymo co-CEO says](https://www.sfgate.com/tech/article/society-accept-robotaxi-death-waymo-21123178.php)
 * [2025-10-28, 13:48:51](https://news.ycombinator.com/item?id=45732874) - [Ubiquiti SFP Wizard](https://blog.ui.com/article/welcome-to-sfp-liberation-day)
+* [2025-10-28, 13:42:44](https://news.ycombinator.com/item?id=45732800) - [China has added forest the size of Texas since 1990](https://e360.yale.edu/digest/china-new-forest-report)
 * [2025-10-28, 13:41:09](https://news.ycombinator.com/item?id=45732783) - [Microsoft to Get 27% of OpenAI, Access to AI Models Until 2032](https://www.bloomberg.com/news/articles/2025-10-28/microsoft-to-get-27-of-openai-access-to-ai-models-until-2032)
 * [2025-10-28, 13:31:52](https://news.ycombinator.com/item?id=45732670) - [Vitamin D reduces incidence and duration of colds in those with low levels](https://ijmpr.in/article/the-role-of-vitamin-d-supplementation-in-the-prevention-of-acute-respiratory-infections-a-double-blind-randomized-controlled-trial-1327/)
 * [2025-10-28, 13:22:24](https://news.ycombinator.com/item?id=45732552) - [Sick: Indexed deduplicated binary storage for JSON-like data structures](https://github.com/7mind/sick)
