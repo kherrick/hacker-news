@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-10-29, 19:39:57](https://news.ycombinator.com/item?id=45751995) - [How to Obsessively Tune WezTerm](https://rashil2000.me/blogs/tune-wezterm)
 * [2025-10-29, 18:57:29](https://news.ycombinator.com/item?id=45751400) - [Uv is the best thing to happen to the Python ecosystem in a decade](https://emily.space/posts/251023-uv)
-* [2025-10-29, 18:52:46](https://news.ycombinator.com/item?id=45751339) - [Show HN: SQLite Graph – Graph database with Cypher queries (alpha, but working)](https://github.com/agentflare-ai/sqlite-graph)
+* [2025-10-29, 18:52:46](https://news.ycombinator.com/item?id=45751339) - [Show HN: SQLite Graph Ext – Graph database with Cypher queries (alpha)](https://github.com/agentflare-ai/sqlite-graph)
 * [2025-10-29, 18:25:01](https://news.ycombinator.com/item?id=45750995) - [Extropic is building thermodynamic computing hardware](https://extropic.ai/)
 * [2025-10-29, 18:21:35](https://news.ycombinator.com/item?id=45750954) - [Dithering – Part 1](https://visualrambling.space/dithering-part-1/)
 * [2025-10-29, 18:16:07](https://news.ycombinator.com/item?id=45750875) - [The Internet Runs on Free and Open Source Software–and So Does the DNS](https://www.icann.org/en/blogs/details/the-internet-runs-on-free-and-open-source-softwareand-so-does-the-dns-23-10-2025-en)
@@ -22,7 +23,6 @@
 * [2025-10-29, 14:12:50](https://news.ycombinator.com/item?id=45747112) - [I made a 10¢ MCU Talk](https://www.atomic14.com/2025/10/29/CH32V003-talking)
 * [2025-10-29, 13:52:31](https://news.ycombinator.com/item?id=45746844) - [Character.ai to bar children under 18 from using its chatbots](https://www.nytimes.com/2025/10/29/technology/characterai-underage-users.html)
 * [2025-10-29, 13:19:30](https://news.ycombinator.com/item?id=45746478) - [From VS Code to Helix](https://ergaster.org/posts/2025/10/29-vscode-to-helix/)
-* [2025-10-29, 05:17:49](https://news.ycombinator.com/item?id=45742907) - [Who needs Graphviz when you can build it yourself?](https://spidermonkey.dev/blog/2025/10/28/iongraph-web.html)
 * [2025-10-29, 04:03:41](https://news.ycombinator.com/item?id=45742488) - [Keep Android Open](http://keepandroidopen.org/)
 * [2025-10-28, 15:49:51](https://news.ycombinator.com/item?id=45734429) - [Show HN: Research Hacker News, ArXiv & Google with Hierarchical Bayesian Models](https://sturdystatistics.com/deepdive-search)
 * [2025-10-26, 11:48:12](https://news.ycombinator.com/item?id=45710981) - [Hacking the World Poker Tour: Inside ClubWPT Gold's Back Office](https://samcurry.net/hacking-clubwpt-gold)
