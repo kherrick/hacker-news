@@ -1,12 +1,52 @@
 [
   [
     [
+      "2025-10-29, 14:25:00",
+      "https://news.ycombinator.com/item?id=45747263"
+    ],
+    [
+      "Mom's son was asking Tesla's Grok AI bot about soccer; told him to send nudes",
+      "https://www.cbc.ca/news/investigates/tesla-grok-mom-9.6956930"
+    ]
+  ],
+  [
+    [
+      "2025-10-29, 14:12:50",
+      "https://news.ycombinator.com/item?id=45747112"
+    ],
+    [
+      "I made a 10¢ MCU Talk",
+      "https://www.atomic14.com/2025/10/29/CH32V003-talking"
+    ]
+  ],
+  [
+    [
+      "2025-10-29, 14:02:06",
+      "https://news.ycombinator.com/item?id=45746964"
+    ],
+    [
+      "Samsung's $2000 smart fridges are getting ads",
+      "https://www.ghacks.net/2025/10/29/samsungs-2000-smart-fridges-are-getting-ads/"
+    ]
+  ],
+  [
+    [
       "2025-10-29, 13:44:31",
       "https://news.ycombinator.com/item?id=45746753"
     ],
     [
       "New attacks are diluting secure enclave defenses from Nvidia, AMD, and Intel",
       "https://arstechnica.com/security/2025/10/new-physical-attacks-are-quickly-diluting-secure-enclave-defenses-from-nvidia-amd-and-intel/"
+    ]
+  ],
+  [
+    [
+      "2025-10-29, 13:42:05",
+      "https://news.ycombinator.com/item?id=45746726"
+    ],
+    [
+      "Recreating a Homebrew Game System from 1987",
+      "https://alex-j-lowry.github.io/z80tvg.html"
     ]
   ],
   [
@@ -81,16 +121,6 @@
   ],
   [
     [
-      "2025-10-29, 09:26:09",
-      "https://news.ycombinator.com/item?id=45744503"
-    ],
-    [
-      "YouTube is taking down videos on performing nonstandard Windows 11 installs",
-      "https://old.reddit.com/r/DataHoarder/comments/1oiz0v0/youtube_is_taking_down_videos_on_performing/"
-    ]
-  ],
-  [
-    [
       "2025-10-29, 09:06:36",
       "https://news.ycombinator.com/item?id=45744395"
     ],
@@ -151,16 +181,6 @@
   ],
   [
     [
-      "2025-10-28, 22:39:24",
-      "https://news.ycombinator.com/item?id=45740214"
-    ],
-    [
-      "Keeping the Internet fast and secure: introducing Merkle Tree Certificates",
-      "https://blog.cloudflare.com/bootstrap-mtc/"
-    ]
-  ],
-  [
-    [
       "2025-10-28, 21:31:50",
       "https://news.ycombinator.com/item?id=45739499"
     ],
@@ -191,16 +211,6 @@
   ],
   [
     [
-      "2025-10-28, 18:04:00",
-      "https://news.ycombinator.com/item?id=45736499"
-    ],
-    [
-      "HTTPS by default",
-      "https://security.googleblog.com/2025/10/https-by-default.html"
-    ]
-  ],
-  [
-    [
       "2025-10-28, 18:02:36",
       "https://news.ycombinator.com/item?id=45736479"
     ],
@@ -221,12 +231,12 @@
   ],
   [
     [
-      "2025-10-28, 14:27:37",
-      "https://news.ycombinator.com/item?id=45733329"
+      "2025-10-26, 17:18:19",
+      "https://news.ycombinator.com/item?id=45713566"
     ],
     [
-      "The AirPods Pro 3 flight problem",
-      "https://basicappleguy.com/basicappleblog/the-airpods-pro-3-flight-problem"
+      "Glyph: Scaling Context Windows via Visual-Text Compression",
+      "https://github.com/thu-coai/Glyph"
     ]
   ],
   [
@@ -257,16 +267,6 @@
     [
       "Wheeled Inverted Pendulum Model",
       "https://scaron.info/robotics/wheeled-inverted-pendulum-model.html"
-    ]
-  ],
-  [
-    [
-      "2025-10-24, 23:18:14",
-      "https://news.ycombinator.com/item?id=45700078"
-    ],
-    [
-      "Powerful and precise multi-color lasers now fit on a single chip",
-      "https://phys.org/news/2025-10-powerful-precise-multi-lasers-chip.html"
     ]
   ],
   [
