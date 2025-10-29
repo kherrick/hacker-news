@@ -4,8 +4,11 @@
 
 ### [Archives](../../index.md) for [2025-10-29](index.md)
 
+* [2025-10-29, 18:25:01](https://news.ycombinator.com/item?id=45750995) - [Extropic is building thermodynamic computing hardware](https://extropic.ai/)
+* [2025-10-29, 17:50:21](https://news.ycombinator.com/item?id=45750501) - [Encoding x86 Instructions](https://www-user.tu-chemnitz.de/~heha/hs/chm/x86.chm/x86.htm)
 * [2025-10-29, 17:44:34](https://news.ycombinator.com/item?id=45750425) - [OpenAI’s promise to stay in California helped clear the path for its IPO](https://www.wsj.com/tech/ai/openais-promise-to-stay-in-california-helped-clear-the-path-for-its-ipo-3af1c31c)
 * [2025-10-29, 17:37:08](https://news.ycombinator.com/item?id=45750303) - [Pentagon orders states' national guards to form 'quick reaction forces'](https://www.theguardian.com/us-news/2025/oct/29/pentagon-memo-quick-reaction-forces)
+* [2025-10-29, 17:15:33](https://news.ycombinator.com/item?id=45749935) - [Building a Robot Dog (with an airsoft gun)](https://erikschluntz.com/hardware/2025/10/26/robot-dog.html)
 * [2025-10-29, 17:05:24](https://news.ycombinator.com/item?id=45749781) - [ICE and CBP Agents Are Scanning Faces on the Street to Verify Citizenship](https://www.404media.co/ice-and-cbp-agents-are-scanning-peoples-faces-on-the-street-to-verify-citizenship/)
 * [2025-10-29, 17:04:48](https://news.ycombinator.com/item?id=45749763) - [A Year of Fast Apply – Our Path to 10k Tokens per Second](https://www.relace.ai/blog/relace-apply-3)
 * [2025-10-29, 17:00:15](https://news.ycombinator.com/item?id=45749690) - [Does brand advertising work? Upwave (YC S12) is hiring engineers to answer that](https://www.upwave.com/job/8228849002/)
