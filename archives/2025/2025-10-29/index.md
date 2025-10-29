@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-10-29](index.md)
 
+* [2025-10-29, 04:25:24](https://news.ycombinator.com/item?id=45742616) - [Wacl – A Tcl Distribution for WebAssembly](https://github.com/ecky-l/wacl)
+* [2025-10-29, 04:03:41](https://news.ycombinator.com/item?id=45742488) - [Keep Android Open](http://keepandroidopen.org/)
 * [2025-10-29, 03:51:56](https://news.ycombinator.com/item?id=45742419) - [Tips for stroke-surviving software engineers](https://blog.j11y.io/2025-10-29_stroke_tips_for_engineers/)
 * [2025-10-29, 02:20:10](https://news.ycombinator.com/item?id=45741877) - [Rockylinux.org not hosted on Rocky Linux](https://rockylinux-org.vercel.app/)
 * [2025-10-29, 01:06:32](https://news.ycombinator.com/item?id=45741391) - [Project Shadowglass](https://shadowglassgame.com)
