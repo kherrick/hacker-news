@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-10-29, 20:12:56",
+      "https://news.ycombinator.com/item?id=45752428"
+    ],
+    [
+      "Emergent Introspective Awareness in Large Language Models",
+      "https://transformer-circuits.pub/2025/introspection/index.html"
+    ]
+  ],
+  [
+    [
       "2025-10-29, 19:39:57",
       "https://news.ycombinator.com/item?id=45751995"
     ],
@@ -17,16 +27,6 @@
     [
       "Uv is the best thing to happen to the Python ecosystem in a decade",
       "https://emily.space/posts/251023-uv"
-    ]
-  ],
-  [
-    [
-      "2025-10-29, 18:52:46",
-      "https://news.ycombinator.com/item?id=45751339"
-    ],
-    [
-      "Show HN: SQLite Graph Ext – Graph database with Cypher queries (alpha)",
-      "https://github.com/agentflare-ai/sqlite-graph"
     ]
   ],
   [
@@ -77,26 +77,6 @@
     [
       "OpenAI’s promise to stay in California helped clear the path for its IPO",
       "https://www.wsj.com/tech/ai/openais-promise-to-stay-in-california-helped-clear-the-path-for-its-ipo-3af1c31c"
-    ]
-  ],
-  [
-    [
-      "2025-10-29, 17:15:33",
-      "https://news.ycombinator.com/item?id=45749935"
-    ],
-    [
-      "Building a Robot Dog (with an airsoft gun)",
-      "https://erikschluntz.com/hardware/2025/10/26/robot-dog.html"
-    ]
-  ],
-  [
-    [
-      "2025-10-29, 17:04:48",
-      "https://news.ycombinator.com/item?id=45749763"
-    ],
-    [
-      "A Year of Fast Apply – Our Path to 10k Tokens per Second",
-      "https://www.relace.ai/blog/relace-apply-3"
     ]
   ],
   [
@@ -171,42 +151,22 @@
   ],
   [
     [
-      "2025-10-29, 15:32:46",
-      "https://news.ycombinator.com/item?id=45748195"
-    ],
-    [
-      "The end of the rip-off economy: consumers use LLMs against information asymmetry",
-      "https://www.economist.com/finance-and-economics/2025/10/27/the-end-of-the-rip-off-economy"
-    ]
-  ],
-  [
-    [
-      "2025-10-29, 15:32:11",
-      "https://news.ycombinator.com/item?id=45748186"
-    ],
-    [
-      "Hosting SQLite Databases on GitHub Pages (2021)",
-      "https://phiresky.github.io/blog/2021/hosting-sqlite-databases-on-github-pages/"
-    ]
-  ],
-  [
-    [
-      "2025-10-29, 15:07:20",
-      "https://news.ycombinator.com/item?id=45747804"
-    ],
-    [
-      "Collins Aerospace: Sending text messages to the cockpit with test:test",
-      "https://www.ccc.de/en/disclosure/collins-aerospace-mit-test-test-textnachrichten-bis-ins-cockpit-senden"
-    ]
-  ],
-  [
-    [
       "2025-10-29, 14:12:50",
       "https://news.ycombinator.com/item?id=45747112"
     ],
     [
       "I made a 10¢ MCU Talk",
       "https://www.atomic14.com/2025/10/29/CH32V003-talking"
+    ]
+  ],
+  [
+    [
+      "2025-10-29, 14:06:01",
+      "https://news.ycombinator.com/item?id=45747018"
+    ],
+    [
+      "Kafka is Fast – I'll use Postgres",
+      "https://topicpartition.io/blog/postgres-pubsub-queue-benchmarks"
     ]
   ],
   [
@@ -231,6 +191,26 @@
   ],
   [
     [
+      "2025-10-29, 13:12:23",
+      "https://news.ycombinator.com/item?id=45746401"
+    ],
+    [
+      "Grammarly rebrands to 'Superhuman,' launches a new AI assistant",
+      "https://techcrunch.com/2025/10/29/grammarly-rebrands-to-superhuman-launches-a-new-ai-assistant/"
+    ]
+  ],
+  [
+    [
+      "2025-10-29, 11:14:38",
+      "https://news.ycombinator.com/item?id=45745281"
+    ],
+    [
+      "AWS to bare metal two years later: Answering your questions about leaving AWS",
+      "https://oneuptime.com/blog/post/2025-10-29-aws-to-bare-metal-two-years-later/view"
+    ]
+  ],
+  [
+    [
       "2025-10-29, 04:03:41",
       "https://news.ycombinator.com/item?id=45742488"
     ],
@@ -251,32 +231,52 @@
   ],
   [
     [
+      "2025-10-28, 12:19:38",
+      "https://news.ycombinator.com/item?id=45731848"
+    ],
+    [
+      "Tailscale Services",
+      "https://tailscale.com/blog/services-beta"
+    ]
+  ],
+  [
+    [
+      "2025-10-28, 02:00:58",
+      "https://news.ycombinator.com/item?id=45728525"
+    ],
+    [
+      "GLP-1 therapeutics: Their emerging role in alcohol and substance use disorders",
+      "https://academic.oup.com/jes/article/9/11/bvaf141/8277723?login=false"
+    ]
+  ],
+  [
+    [
+      "2025-10-28, 00:52:44",
+      "https://news.ycombinator.com/item?id=45728170"
+    ],
+    [
+      "Quantifying pass-by-value overhead",
+      "https://owen.cafe/posts/struct-sizes/"
+    ]
+  ],
+  [
+    [
+      "2025-10-26, 18:46:30",
+      "https://news.ycombinator.com/item?id=45714240"
+    ],
+    [
+      "The Uncertain Origins of Aspirin",
+      "https://www.asimov.press/p/aspirin"
+    ]
+  ],
+  [
+    [
       "2025-10-26, 11:48:12",
       "https://news.ycombinator.com/item?id=45710981"
     ],
     [
       "Hacking the World Poker Tour: Inside ClubWPT Gold's Back Office",
       "https://samcurry.net/hacking-clubwpt-gold"
-    ]
-  ],
-  [
-    [
-      "2025-10-25, 09:08:26",
-      "https://news.ycombinator.com/item?id=45702397"
-    ],
-    [
-      "ChatGPT's Atlas: The Browser That's Anti-Web",
-      "https://www.anildash.com//2025/10/22/atlas-anti-web-browser/"
-    ]
-  ],
-  [
-    [
-      "2025-10-25, 06:44:02",
-      "https://news.ycombinator.com/item?id=45701803"
-    ],
-    [
-      "Vibration Analysis and Control in Particle Accelerator (2018) [pdf]",
-      "https://indico.cern.ch/event/694811/contributions/2863859/attachments/1595533/2526938/2018_02_06_FCCee_MDI_workshop_Serluca.pdf"
     ]
   ],
   [
