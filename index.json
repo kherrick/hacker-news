@@ -1,12 +1,42 @@
 [
   [
     [
+      "2025-10-29, 16:21:36",
+      "https://news.ycombinator.com/item?id=45749017"
+    ],
+    [
+      "Tailscale Peer Relays",
+      "https://tailscale.com/blog/peer-relays-beta"
+    ]
+  ],
+  [
+    [
       "2025-10-29, 16:08:35",
       "https://news.ycombinator.com/item?id=45748799"
     ],
     [
       "Azure Outage",
       "https://news.ycombinator.com/item?id=45748799"
+    ]
+  ],
+  [
+    [
+      "2025-10-29, 16:05:52",
+      "https://news.ycombinator.com/item?id=45748756"
+    ],
+    [
+      "Azure major outage: Portal, Front Door and global regions down",
+      "https://news.ycombinator.com/item?id=45748756"
+    ]
+  ],
+  [
+    [
+      "2025-10-29, 16:04:33",
+      "https://news.ycombinator.com/item?id=45748725"
+    ],
+    [
+      "Cursor Composer: Building a fast frontier model with RL",
+      "https://cursor.com/blog/composer"
     ]
   ],
   [
@@ -21,12 +51,12 @@
   ],
   [
     [
-      "2025-10-29, 15:46:20",
-      "https://news.ycombinator.com/item?id=45748430"
+      "2025-10-29, 15:54:36",
+      "https://news.ycombinator.com/item?id=45748570"
     ],
     [
-      "Turns Out, Wikipedia Isn't That 'Woke' as Grokipedia Rips Off Most of Its Pages",
-      "https://uk.pcmag.com/ai/160970/turns-out-wikipedia-isnt-that-woke-as-grokipedia-rips-off-most-of-its-pages"
+      "Tell HN: Twilio support replies with hallucinated features",
+      "https://news.ycombinator.com/item?id=45748570"
     ]
   ],
   [
@@ -37,6 +67,16 @@
     [
       "The end of the rip-off economy: consumers use LLMs against information asymmetry",
       "https://www.economist.com/finance-and-economics/2025/10/27/the-end-of-the-rip-off-economy"
+    ]
+  ],
+  [
+    [
+      "2025-10-29, 15:32:11",
+      "https://news.ycombinator.com/item?id=45748186"
+    ],
+    [
+      "Hosting SQLite Databases on GitHub Pages (2021)",
+      "https://phiresky.github.io/blog/2021/hosting-sqlite-databases-on-github-pages/"
     ]
   ],
   [
@@ -91,16 +131,6 @@
   ],
   [
     [
-      "2025-10-29, 13:44:31",
-      "https://news.ycombinator.com/item?id=45746753"
-    ],
-    [
-      "New attacks are diluting secure enclave defenses from Nvidia, AMD, and Intel",
-      "https://arstechnica.com/security/2025/10/new-physical-attacks-are-quickly-diluting-secure-enclave-defenses-from-nvidia-amd-and-intel/"
-    ]
-  ],
-  [
-    [
       "2025-10-29, 13:42:05",
       "https://news.ycombinator.com/item?id=45746726"
     ],
@@ -117,16 +147,6 @@
     [
       "From VS Code to Helix",
       "https://ergaster.org/posts/2025/10/29-vscode-to-helix/"
-    ]
-  ],
-  [
-    [
-      "2025-10-29, 13:12:23",
-      "https://news.ycombinator.com/item?id=45746401"
-    ],
-    [
-      "Grammarly rebrands to 'Superhuman,' launches a new AI assistant",
-      "https://techcrunch.com/2025/10/29/grammarly-rebrands-to-superhuman-launches-a-new-ai-assistant/"
     ]
   ],
   [
@@ -231,32 +251,12 @@
   ],
   [
     [
-      "2025-10-28, 14:58:04",
-      "https://news.ycombinator.com/item?id=45733707"
-    ],
-    [
-      "EuroLLM: LLM made in Europe built to support all 24 official EU languages",
-      "https://eurollm.io/"
-    ]
-  ],
-  [
-    [
       "2025-10-26, 17:18:19",
       "https://news.ycombinator.com/item?id=45713566"
     ],
     [
       "Glyph: Scaling Context Windows via Visual-Text Compression",
       "https://github.com/thu-coai/Glyph"
-    ]
-  ],
-  [
-    [
-      "2025-10-25, 14:33:19",
-      "https://news.ycombinator.com/item?id=45704216"
-    ],
-    [
-      "UIs Are Not Pure Functions of the Model – React.js and Cocoa Side by Side (2018)",
-      "https://blog.metaobject.com/2018/12/uis-are-not-pure-functions-of-model.html"
     ]
   ],
   [
