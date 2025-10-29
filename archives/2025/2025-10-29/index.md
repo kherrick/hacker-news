@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-10-29](index.md)
 
+* [2025-10-29, 13:44:31](https://news.ycombinator.com/item?id=45746753) - [New attacks are diluting secure enclave defenses from Nvidia, AMD, and Intel](https://arstechnica.com/security/2025/10/new-physical-attacks-are-quickly-diluting-secure-enclave-defenses-from-nvidia-amd-and-intel/)
 * [2025-10-29, 13:19:30](https://news.ycombinator.com/item?id=45746478) - [From VS Code to Helix](https://ergaster.org/posts/2025/10/29-vscode-to-helix/)
 * [2025-10-29, 12:22:03](https://news.ycombinator.com/item?id=45745876) - [Now any body can write JavaScript code in Rust](https://github.com/Shyam20001/rsjs)
 * [2025-10-29, 11:50:58](https://news.ycombinator.com/item?id=45745566) - [Show HN: Learn German with Games](https://www.learngermanwithgames.com/)
