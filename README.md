@@ -25,11 +25,11 @@
 * [2025-10-28, 13:48:51](https://news.ycombinator.com/item?id=45732874) - [Ubiquiti SFP Wizard](https://blog.ui.com/article/welcome-to-sfp-liberation-day)
 * [2025-10-28, 11:03:59](https://news.ycombinator.com/item?id=45731321) - [We need a clearer framework for AI-assisted contributions to open source](https://samsaffron.com/archive/2025/10/27/your-vibe-coded-slop-pr-is-not-welcome)
 * [2025-10-26, 06:03:24](https://news.ycombinator.com/item?id=45709499) - [Gluing and framing a 9000-piece jigsaw](https://river.me/blog/puzzle-glue-9000/)
-* [2025-10-25, 17:44:20](https://news.ycombinator.com/item?id=45705654) - [Use the Saw, Fear the Saw](https://stephango.com/saw)
 * [2025-10-25, 14:33:19](https://news.ycombinator.com/item?id=45704216) - [UIs Are Not Pure Functions of the Model – React.js and Cocoa Side by Side (2018)](https://blog.metaobject.com/2018/12/uis-are-not-pure-functions-of-model.html)
 * [2025-10-25, 09:08:26](https://news.ycombinator.com/item?id=45702397) - [ChatGPT's Atlas: The Browser That's Anti-Web](https://www.anildash.com//2025/10/22/atlas-anti-web-browser/)
 * [2025-10-24, 23:18:14](https://news.ycombinator.com/item?id=45700078) - [Powerful and precise multi-color lasers now fit on a single chip](https://phys.org/news/2025-10-powerful-precise-multi-lasers-chip.html)
 * [2025-10-24, 08:04:28](https://news.ycombinator.com/item?id=45692116) - [Apple will phase out Rosetta 2 in macOS 28](https://developer.apple.com/documentation/apple-silicon/about-the-rosetta-translation-environment)
+* [2025-10-22, 14:05:54](https://news.ycombinator.com/item?id=45669377) - [Continuous Nvidia CUDA Profiling in Production](https://www.polarsignals.com/blog/posts/2025/10/22/gpu-profiling)
 
 ## [Archives](archives/index.md)
 
