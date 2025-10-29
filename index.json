@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-10-29, 18:25:01",
+      "https://news.ycombinator.com/item?id=45750995"
+    ],
+    [
+      "Extropic is building thermodynamic computing hardware",
+      "https://extropic.ai/"
+    ]
+  ],
+  [
+    [
+      "2025-10-29, 17:50:21",
+      "https://news.ycombinator.com/item?id=45750501"
+    ],
+    [
+      "Encoding x86 Instructions",
+      "https://www-user.tu-chemnitz.de/~heha/hs/chm/x86.chm/x86.htm"
+    ]
+  ],
+  [
+    [
       "2025-10-29, 17:44:34",
       "https://news.ycombinator.com/item?id=45750425"
     ],
@@ -11,12 +31,12 @@
   ],
   [
     [
-      "2025-10-29, 17:37:08",
-      "https://news.ycombinator.com/item?id=45750303"
+      "2025-10-29, 17:15:33",
+      "https://news.ycombinator.com/item?id=45749935"
     ],
     [
-      "Pentagon orders states' national guards to form 'quick reaction forces'",
-      "https://www.theguardian.com/us-news/2025/oct/29/pentagon-memo-quick-reaction-forces"
+      "Building a Robot Dog (with an airsoft gun)",
+      "https://erikschluntz.com/hardware/2025/10/26/robot-dog.html"
     ]
   ],
   [
@@ -47,16 +67,6 @@
     [
       "Does brand advertising work? Upwave (YC S12) is hiring engineers to answer that",
       "https://www.upwave.com/job/8228849002/"
-    ]
-  ],
-  [
-    [
-      "2025-10-29, 16:28:56",
-      "https://news.ycombinator.com/item?id=45749161"
-    ],
-    [
-      "AOL to be sold to Bending Spoons for roughly $1.5B",
-      "https://www.axios.com/2025/10/29/aol-bending-spoons-deal"
     ]
   ],
   [
@@ -171,16 +181,6 @@
   ],
   [
     [
-      "2025-10-29, 13:42:05",
-      "https://news.ycombinator.com/item?id=45746726"
-    ],
-    [
-      "Recreating a Homebrew Game System from 1987",
-      "https://alex-j-lowry.github.io/z80tvg.html"
-    ]
-  ],
-  [
-    [
       "2025-10-29, 13:19:30",
       "https://news.ycombinator.com/item?id=45746478"
     ],
@@ -197,16 +197,6 @@
     [
       "Zig's New Async I/O [video]",
       "https://www.youtube.com/watch?v=mdOxIc0HM04"
-    ]
-  ],
-  [
-    [
-      "2025-10-29, 11:50:58",
-      "https://news.ycombinator.com/item?id=45745566"
-    ],
-    [
-      "Show HN: Learn German with Games",
-      "https://www.learngermanwithgames.com/"
     ]
   ],
   [
@@ -267,6 +257,16 @@
     [
       "Show HN: Research Hacker News, ArXiv & Google with Hierarchical Bayesian Models",
       "https://sturdystatistics.com/deepdive-search"
+    ]
+  ],
+  [
+    [
+      "2025-10-26, 11:48:12",
+      "https://news.ycombinator.com/item?id=45710981"
+    ],
+    [
+      "Hacking the World Poker Tour: Inside ClubWPT Gold's Back Office",
+      "https://samcurry.net/hacking-clubwpt-gold"
     ]
   ],
   [
