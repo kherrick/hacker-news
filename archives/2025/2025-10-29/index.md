@@ -4,8 +4,12 @@
 
 ### [Archives](../../index.md) for [2025-10-29](index.md)
 
+* [2025-10-29, 16:08:35](https://news.ycombinator.com/item?id=45748799) - [Azure Outage](https://news.ycombinator.com/item?id=45748799)
+* [2025-10-29, 15:57:17](https://news.ycombinator.com/item?id=45748608) - [AirTips – Alternative to Bento.me/Linktree](https://a.coffee/)
+* [2025-10-29, 15:46:20](https://news.ycombinator.com/item?id=45748430) - [Turns Out, Wikipedia Isn't That 'Woke' as Grokipedia Rips Off Most of Its Pages](https://uk.pcmag.com/ai/160970/turns-out-wikipedia-isnt-that-woke-as-grokipedia-rips-off-most-of-its-pages)
 * [2025-10-29, 15:32:46](https://news.ycombinator.com/item?id=45748195) - [The end of the rip-off economy: consumers use LLMs against information asymmetry](https://www.economist.com/finance-and-economics/2025/10/27/the-end-of-the-rip-off-economy)
 * [2025-10-29, 15:07:20](https://news.ycombinator.com/item?id=45747804) - [Collins Aerospace: Sending text messages to the cockpit with test:test](https://www.ccc.de/en/disclosure/collins-aerospace-mit-test-test-textnachrichten-bis-ins-cockpit-senden)
+* [2025-10-29, 14:51:40](https://news.ycombinator.com/item?id=45747605) - [Oracle has adopted BOOLEAN in 23ai and PostgreSQL had it forever](https://hexacluster.ai/blog/postgresql/oracles-adoption-of-native-boolean-data-type-vs-postgresql/)
 * [2025-10-29, 14:50:03](https://news.ycombinator.com/item?id=45747578) - [Tether is now the 17th largest holder of US debt](https://twitter.com/paoloardoino/status/1983455972636111011)
 * [2025-10-29, 14:48:22](https://news.ycombinator.com/item?id=45747557) - [The jQuery Age of AI Agents](https://metorial.com/blog/jquery-age-of-ai)
 * [2025-10-29, 14:36:36](https://news.ycombinator.com/item?id=45747402) - [Show HN: HUD-like live annotation and sketching app for macOS](https://draw.wrobele.com/)
