@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-10-29](index.md)
 
+* [2025-10-29, 17:44:34](https://news.ycombinator.com/item?id=45750425) - [OpenAI’s promise to stay in California helped clear the path for its IPO](https://www.wsj.com/tech/ai/openais-promise-to-stay-in-california-helped-clear-the-path-for-its-ipo-3af1c31c)
+* [2025-10-29, 17:37:08](https://news.ycombinator.com/item?id=45750303) - [Pentagon orders states' national guards to form 'quick reaction forces'](https://www.theguardian.com/us-news/2025/oct/29/pentagon-memo-quick-reaction-forces)
 * [2025-10-29, 17:05:24](https://news.ycombinator.com/item?id=45749781) - [ICE and CBP Agents Are Scanning Faces on the Street to Verify Citizenship](https://www.404media.co/ice-and-cbp-agents-are-scanning-peoples-faces-on-the-street-to-verify-citizenship/)
 * [2025-10-29, 17:04:48](https://news.ycombinator.com/item?id=45749763) - [A Year of Fast Apply – Our Path to 10k Tokens per Second](https://www.relace.ai/blog/relace-apply-3)
 * [2025-10-29, 17:00:15](https://news.ycombinator.com/item?id=45749690) - [Does brand advertising work? Upwave (YC S12) is hiring engineers to answer that](https://www.upwave.com/job/8228849002/)
@@ -14,6 +16,7 @@
 * [2025-10-29, 16:08:35](https://news.ycombinator.com/item?id=45748799) - [Azure Outage](https://news.ycombinator.com/item?id=45748799)
 * [2025-10-29, 16:05:52](https://news.ycombinator.com/item?id=45748756) - [Azure major outage: Portal, Front Door and global regions down](https://news.ycombinator.com/item?id=45748756)
 * [2025-10-29, 16:04:33](https://news.ycombinator.com/item?id=45748725) - [Cursor Composer: Building a fast frontier model with RL](https://cursor.com/blog/composer)
+* [2025-10-29, 16:01:18](https://news.ycombinator.com/item?id=45748661) - [Tell HN: Azure outage](https://news.ycombinator.com/item?id=45748661)
 * [2025-10-29, 15:57:17](https://news.ycombinator.com/item?id=45748608) - [AirTips – Alternative to Bento.me/Linktree](https://a.coffee/)
 * [2025-10-29, 15:54:36](https://news.ycombinator.com/item?id=45748570) - [Tell HN: Twilio support replies with hallucinated features](https://news.ycombinator.com/item?id=45748570)
 * [2025-10-29, 15:46:20](https://news.ycombinator.com/item?id=45748430) - [Turns Out, Wikipedia Isn't That 'Woke' as Grokipedia Rips Off Most of Its Pages](https://uk.pcmag.com/ai/160970/turns-out-wikipedia-isnt-that-woke-as-grokipedia-rips-off-most-of-its-pages)
