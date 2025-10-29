@@ -1,12 +1,62 @@
 [
   [
     [
+      "2025-10-29, 17:05:24",
+      "https://news.ycombinator.com/item?id=45749781"
+    ],
+    [
+      "ICE and CBP Agents Are Scanning Faces on the Street to Verify Citizenship",
+      "https://www.404media.co/ice-and-cbp-agents-are-scanning-peoples-faces-on-the-street-to-verify-citizenship/"
+    ]
+  ],
+  [
+    [
+      "2025-10-29, 17:00:15",
+      "https://news.ycombinator.com/item?id=45749690"
+    ],
+    [
+      "Does brand advertising work? Upwave (YC S12) is hiring engineers to answer that",
+      "https://www.upwave.com/job/8228849002/"
+    ]
+  ],
+  [
+    [
+      "2025-10-29, 16:28:56",
+      "https://news.ycombinator.com/item?id=45749161"
+    ],
+    [
+      "AOL to be sold to Bending Spoons for roughly $1.5B",
+      "https://www.axios.com/2025/10/29/aol-bending-spoons-deal"
+    ]
+  ],
+  [
+    [
+      "2025-10-29, 16:21:48",
+      "https://news.ycombinator.com/item?id=45749019"
+    ],
+    [
+      "Floss Before Brushing",
+      "https://alearningaday.blog/2025/10/29/floss-before-brushing/"
+    ]
+  ],
+  [
+    [
       "2025-10-29, 16:21:36",
       "https://news.ycombinator.com/item?id=45749017"
     ],
     [
       "Tailscale Peer Relays",
       "https://tailscale.com/blog/peer-relays-beta"
+    ]
+  ],
+  [
+    [
+      "2025-10-29, 16:12:56",
+      "https://news.ycombinator.com/item?id=45748879"
+    ],
+    [
+      "Minecraft removing obfuscation in Java Edition",
+      "https://www.minecraft.net/en-us/article/removing-obfuscation-in-java-edition"
     ]
   ],
   [
@@ -47,16 +97,6 @@
     [
       "AirTips – Alternative to Bento.me/Linktree",
       "https://a.coffee/"
-    ]
-  ],
-  [
-    [
-      "2025-10-29, 15:54:36",
-      "https://news.ycombinator.com/item?id=45748570"
-    ],
-    [
-      "Tell HN: Twilio support replies with hallucinated features",
-      "https://news.ycombinator.com/item?id=45748570"
     ]
   ],
   [
@@ -151,16 +191,6 @@
   ],
   [
     [
-      "2025-10-29, 12:33:01",
-      "https://news.ycombinator.com/item?id=45745995"
-    ],
-    [
-      "Berkeley Out-of-Order RISC-V Processor (Boom) (2020)",
-      "https://docs.boom-core.org/en/latest/sections/intro-overview/boom.html"
-    ]
-  ],
-  [
-    [
       "2025-10-29, 11:50:58",
       "https://news.ycombinator.com/item?id=45745566"
     ],
@@ -231,32 +261,12 @@
   ],
   [
     [
-      "2025-10-28, 21:31:50",
-      "https://news.ycombinator.com/item?id=45739499"
+      "2025-10-28, 15:49:51",
+      "https://news.ycombinator.com/item?id=45734429"
     ],
     [
-      "Tinkering is a way to acquire good taste",
-      "https://seated.ro/blog/tinkering-a-lost-art"
-    ]
-  ],
-  [
-    [
-      "2025-10-28, 18:02:36",
-      "https://news.ycombinator.com/item?id=45736479"
-    ],
-    [
-      "What we talk about when we talk about sideloading",
-      "https://f-droid.org/2025/10/28/sideloading.html"
-    ]
-  ],
-  [
-    [
-      "2025-10-26, 17:18:19",
-      "https://news.ycombinator.com/item?id=45713566"
-    ],
-    [
-      "Glyph: Scaling Context Windows via Visual-Text Compression",
-      "https://github.com/thu-coai/Glyph"
+      "Show HN: Research Hacker News, ArXiv & Google with Hierarchical Bayesian Models",
+      "https://sturdystatistics.com/deepdive-search"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Eye prosthesis is the first to restore sight lost to macular degeneration",
       "https://med.stanford.edu/news/all-news/2025/10/eye-prosthesis.html"
-    ]
-  ],
-  [
-    [
-      "2025-10-22, 14:05:54",
-      "https://news.ycombinator.com/item?id=45669377"
-    ],
-    [
-      "Continuous Nvidia CUDA Profiling in Production",
-      "https://www.polarsignals.com/blog/posts/2025/10/22/gpu-profiling"
     ]
   ]
 ]
