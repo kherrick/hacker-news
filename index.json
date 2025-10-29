@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-10-29, 21:22:50",
+      "https://news.ycombinator.com/item?id=45753222"
+    ],
+    [
+      "How the U.S. National Science Foundation Enabled Software-Defined Networking",
+      "https://cacm.acm.org/federal-funding-of-academic-research/how-the-u-s-national-science-foundation-enabled-software-defined-networking/"
+    ]
+  ],
+  [
+    [
+      "2025-10-29, 20:55:45",
+      "https://news.ycombinator.com/item?id=45752897"
+    ],
+    [
+      "Backpressure in Distributed Systems",
+      "https://blog.pranshu-raj.me/posts/backpressure/"
+    ]
+  ],
+  [
+    [
       "2025-10-29, 19:39:57",
       "https://news.ycombinator.com/item?id=45751995"
     ],
@@ -181,16 +201,6 @@
   ],
   [
     [
-      "2025-10-28, 22:42:16",
-      "https://news.ycombinator.com/item?id=45740241"
-    ],
-    [
-      "Detour: Dynamic linking on Linux without Libc",
-      "https://github.com/graphitemaster/detour"
-    ]
-  ],
-  [
-    [
       "2025-10-28, 22:07:41",
       "https://news.ycombinator.com/item?id=45739877"
     ],
@@ -287,16 +297,6 @@
     [
       "More than DNS: Learnings from the 14 hour AWS outage",
       "https://thundergolfer.com/blog/aws-us-east-1-outage-oct20"
-    ]
-  ],
-  [
-    [
-      "2025-10-24, 17:52:20",
-      "https://news.ycombinator.com/item?id=45697234"
-    ],
-    [
-      "State of Embedded: Q4 2025 Overview",
-      "https://sbcwiki.com/news/articles/state-of-embedded-q4-25/"
     ]
   ]
 ]
