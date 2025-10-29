@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-10-29, 02:20:10",
+      "https://news.ycombinator.com/item?id=45741877"
+    ],
+    [
+      "Rockylinux.org not hosted on Rocky Linux",
+      "https://rockylinux-org.vercel.app/"
+    ]
+  ],
+  [
+    [
       "2025-10-29, 01:06:32",
       "https://news.ycombinator.com/item?id=45741391"
     ],
@@ -27,16 +37,6 @@
     [
       "Keeping the Internet fast and secure: introducing Merkle Tree Certificates",
       "https://blog.cloudflare.com/bootstrap-mtc/"
-    ]
-  ],
-  [
-    [
-      "2025-10-28, 21:33:01",
-      "https://news.ycombinator.com/item?id=45739515"
-    ],
-    [
-      "Tor Browser 15.0",
-      "https://blog.torproject.org/new-release-tor-browser-150/"
     ]
   ],
   [
@@ -181,16 +181,6 @@
   ],
   [
     [
-      "2025-10-28, 16:32:27",
-      "https://news.ycombinator.com/item?id=45735044"
-    ],
-    [
-      "The human only public license",
-      "https://vanderessen.com/posts/hopl/"
-    ]
-  ],
-  [
-    [
       "2025-10-28, 16:01:00",
       "https://news.ycombinator.com/item?id=45734620"
     ],
@@ -281,12 +271,22 @@
   ],
   [
     [
-      "2025-10-25, 04:48:10",
-      "https://news.ycombinator.com/item?id=45701427"
+      "2025-10-26, 06:03:24",
+      "https://news.ycombinator.com/item?id=45709499"
     ],
     [
-      "SuperSonic: SuperCollider in the Browser",
-      "https://sonic-pi.net/supersonic/demo.html"
+      "Gluing and framing a 9000-piece jigsaw",
+      "https://river.me/blog/puzzle-glue-9000/"
+    ]
+  ],
+  [
+    [
+      "2025-10-25, 09:08:26",
+      "https://news.ycombinator.com/item?id=45702397"
+    ],
+    [
+      "ChatGPT's Atlas: The Browser That's Anti-Web",
+      "https://www.anildash.com//2025/10/22/atlas-anti-web-browser/"
     ]
   ],
   [
