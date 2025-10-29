@@ -171,16 +171,6 @@
   ],
   [
     [
-      "2025-10-29, 13:52:31",
-      "https://news.ycombinator.com/item?id=45746844"
-    ],
-    [
-      "Character.ai to bar children under 18 from using its chatbots",
-      "https://www.nytimes.com/2025/10/29/technology/characterai-underage-users.html"
-    ]
-  ],
-  [
-    [
       "2025-10-29, 11:14:38",
       "https://news.ycombinator.com/item?id=45745281"
     ],
@@ -201,22 +191,22 @@
   ],
   [
     [
+      "2025-10-28, 22:42:16",
+      "https://news.ycombinator.com/item?id=45740241"
+    ],
+    [
+      "Detour: Dynamic linking on Linux without Libc",
+      "https://github.com/graphitemaster/detour"
+    ]
+  ],
+  [
+    [
       "2025-10-28, 22:07:41",
       "https://news.ycombinator.com/item?id=45739877"
     ],
     [
       "SwirlDB: Modular-first, CRDT-based embedded database",
       "https://docs.swirldb.org/"
-    ]
-  ],
-  [
-    [
-      "2025-10-28, 17:59:45",
-      "https://news.ycombinator.com/item?id=45736426"
-    ],
-    [
-      "Cancer survival rates are misleading",
-      "https://www.allendowney.com/blog/2025/10/27/cancer-survival-rates-are-misleading/"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "More than DNS: Learnings from the 14 hour AWS outage",
       "https://thundergolfer.com/blog/aws-us-east-1-outage-oct20"
+    ]
+  ],
+  [
+    [
+      "2025-10-22, 20:30:58",
+      "https://news.ycombinator.com/item?id=45674766"
+    ],
+    [
+      "A Fork in the Road: Deciding Kafka's Diskless Future",
+      "https://jack-vanlightly.com/blog/2025/10/22/a-fork-in-the-road-deciding-kafkas-diskless-future"
     ]
   ]
 ]
