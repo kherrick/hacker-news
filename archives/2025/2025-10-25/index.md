@@ -53,6 +53,7 @@
 * [2025-10-25, 10:36:35](https://news.ycombinator.com/item?id=45702736) - [The Missing Semester of Your CS Education (2020)](https://missing.csail.mit.edu/)
 * [2025-10-25, 09:55:09](https://news.ycombinator.com/item?id=45702601) - [File system design philosophy](https://deyaa1251.github.io/deyaa1251/posts/b_tree/)
 * [2025-10-25, 09:43:54](https://news.ycombinator.com/item?id=45702558) - [React vs. Backbone in 2025](https://backbonenotbad.hyperclay.com/)
+* [2025-10-25, 09:08:26](https://news.ycombinator.com/item?id=45702397) - [ChatGPT's Atlas: The Browser That's Anti-Web](https://www.anildash.com//2025/10/22/atlas-anti-web-browser/)
 * [2025-10-25, 09:02:14](https://news.ycombinator.com/item?id=45702363) - [Tell HN: OpenAI now requires ID verification and won't refund API credits](https://news.ycombinator.com/item?id=45702363)
 * [2025-10-25, 08:41:59](https://news.ycombinator.com/item?id=45702274) - [Gitworkshop.dev – Collaborate on code over Nostr](https://gitworkshop.dev/)
 * [2025-10-25, 07:27:07](https://news.ycombinator.com/item?id=45701980) - [Why your social.org files can have millions of lines without performance issues](https://en.andros.dev/blog/4e12225f/why-your-socialorg-files-can-have-millions-of-lines-without-any-performance-issues/)

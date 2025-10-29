@@ -42,6 +42,7 @@
 * [2025-10-26, 08:03:14](https://news.ycombinator.com/item?id=45709922) - [LaserTweezer – Optical Trap](https://www.gaudi.ch/GaudiLabs/?page_id=578)
 * [2025-10-26, 07:34:30](https://news.ycombinator.com/item?id=45709819) - [Writing a RISC-V Emulator in Rust](https://book.rvemu.app/)
 * [2025-10-26, 07:00:33](https://news.ycombinator.com/item?id=45709698) - [Bitmovin (YC S15) Is Hiring Engineering ICs and Managers in Europe](https://bitmovin.com/careers)
+* [2025-10-26, 06:03:24](https://news.ycombinator.com/item?id=45709499) - [Gluing and framing a 9000-piece jigsaw](https://river.me/blog/puzzle-glue-9000/)
 * [2025-10-26, 04:03:54](https://news.ycombinator.com/item?id=45709043) - [Auto Dark Mode for Windows](https://github.com/AutoDarkMode/Windows-Auto-Night-Mode)
 * [2025-10-26, 03:19:08](https://news.ycombinator.com/item?id=45708884) - [Tsdown – The Elegant Bundler for Libraries](https://tsdown.dev/)
 * [2025-10-26, 02:57:57](https://news.ycombinator.com/item?id=45708795) - [GenAI Image Editing Showdown](https://genai-showdown.specr.net/)

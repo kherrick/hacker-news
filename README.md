@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-10-29, 02:20:10](https://news.ycombinator.com/item?id=45741877) - [Rockylinux.org not hosted on Rocky Linux](https://rockylinux-org.vercel.app/)
 * [2025-10-29, 01:06:32](https://news.ycombinator.com/item?id=45741391) - [Project Shadowglass](https://shadowglassgame.com)
 * [2025-10-29, 00:13:43](https://news.ycombinator.com/item?id=45741050) - [Database backups, dump files and restic](https://strugglers.net/posts/2025/database-backups-dump-files-and-restic/)
 * [2025-10-28, 22:39:24](https://news.ycombinator.com/item?id=45740214) - [Keeping the Internet fast and secure: introducing Merkle Tree Certificates](https://blog.cloudflare.com/bootstrap-mtc/)
-* [2025-10-28, 21:33:01](https://news.ycombinator.com/item?id=45739515) - [Tor Browser 15.0](https://blog.torproject.org/new-release-tor-browser-150/)
 * [2025-10-28, 21:31:50](https://news.ycombinator.com/item?id=45739499) - [Tinkering is a way to acquire good taste](https://seated.ro/blog/tinkering-a-lost-art)
 * [2025-10-28, 20:58:22](https://news.ycombinator.com/item?id=45739080) - [Generative AI Image Editing Showdown](https://genai-showdown.specr.net/image-editing)
 * [2025-10-28, 19:57:16](https://news.ycombinator.com/item?id=45738247) - [Boring is what we wanted](https://512pixels.net/2025/10/boring-is-what-we-wanted/)
@@ -18,7 +18,6 @@
 * [2025-10-28, 17:25:04](https://news.ycombinator.com/item?id=45735877) - [Fil-C: A memory-safe C implementation](https://lwn.net/SubscriberLink/1042938/658ade3768dd4758/)
 * [2025-10-28, 17:00:31](https://news.ycombinator.com/item?id=45735491) - [SigNoz (YC W21) Is Hiring DevRel Engineers in the US – Open Source O11y Platform](https://jobs.ashbyhq.com/SigNoz/8447522c-1163-48d0-8f55-fac25f64a0f3)
 * [2025-10-28, 16:46:57](https://news.ycombinator.com/item?id=45735264) - [I've been loving Claude Code on the web](https://ben.page/claude-code-web)
-* [2025-10-28, 16:32:27](https://news.ycombinator.com/item?id=45735044) - [The human only public license](https://vanderessen.com/posts/hopl/)
 * [2025-10-28, 16:01:00](https://news.ycombinator.com/item?id=45734620) - [The decline of deviance](https://www.experimental-history.com/p/the-decline-of-deviance)
 * [2025-10-28, 15:58:58](https://news.ycombinator.com/item?id=45734582) - [Using AI to negotiate a $195k hospital bill down to $33k](https://www.threads.com/@nthmonkey/post/DQVdAD1gHhw)
 * [2025-10-28, 15:53:52](https://news.ycombinator.com/item?id=45734486) - [Nvidia takes $1B stake in Nokia](https://www.cnbc.com/2025/10/28/nvidia-nokia-ai.html)
@@ -28,7 +27,8 @@
 * [2025-10-28, 14:13:25](https://news.ycombinator.com/item?id=45733169) - [Our LLM-controlled office robot can't pass butter](https://andonlabs.com/evals/butter-bench)
 * [2025-10-28, 13:48:51](https://news.ycombinator.com/item?id=45732874) - [Ubiquiti SFP Wizard](https://blog.ui.com/article/welcome-to-sfp-liberation-day)
 * [2025-10-27, 15:27:38](https://news.ycombinator.com/item?id=45722069) - [It's insulting to read AI-generated blog posts](https://blog.pabloecortez.com/its-insulting-to-read-your-ai-generated-blog-post/)
-* [2025-10-25, 04:48:10](https://news.ycombinator.com/item?id=45701427) - [SuperSonic: SuperCollider in the Browser](https://sonic-pi.net/supersonic/demo.html)
+* [2025-10-26, 06:03:24](https://news.ycombinator.com/item?id=45709499) - [Gluing and framing a 9000-piece jigsaw](https://river.me/blog/puzzle-glue-9000/)
+* [2025-10-25, 09:08:26](https://news.ycombinator.com/item?id=45702397) - [ChatGPT's Atlas: The Browser That's Anti-Web](https://www.anildash.com//2025/10/22/atlas-anti-web-browser/)
 * [2025-10-23, 14:00:37](https://news.ycombinator.com/item?id=45681913) - [Cheese Crystals (2019)](https://snipettemag.com/cheese-crystals/)
 
 ## [Archives](archives/index.md)
