@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-10-29, 23:21:51",
+      "https://news.ycombinator.com/item?id=45754439"
+    ],
+    [
+      "Raspberry Pi Pico Bit-Bangs 100 Mbit/S Ethernet",
+      "https://www.elektormagazine.com/news/rp2350-bit-bangs-100-mbit-ethernet"
+    ]
+  ],
+  [
+    [
+      "2025-10-29, 23:17:02",
+      "https://news.ycombinator.com/item?id=45754390"
+    ],
+    [
+      "A century of reforestation helped keep the eastern US cool",
+      "https://news.agu.org/press-release/a-century-of-reforestation-helped-keep-the-eastern-us-cool/"
+    ]
+  ],
+  [
+    [
       "2025-10-29, 22:54:53",
       "https://news.ycombinator.com/item?id=45754165"
     ],
@@ -191,16 +211,6 @@
   ],
   [
     [
-      "2025-10-28, 22:42:16",
-      "https://news.ycombinator.com/item?id=45740241"
-    ],
-    [
-      "Detour: Dynamic linking on Linux without Libc",
-      "https://github.com/graphitemaster/detour"
-    ]
-  ],
-  [
-    [
       "2025-10-28, 22:07:41",
       "https://news.ycombinator.com/item?id=45739877"
     ],
@@ -211,32 +221,12 @@
   ],
   [
     [
-      "2025-10-28, 17:59:45",
-      "https://news.ycombinator.com/item?id=45736426"
-    ],
-    [
-      "Cancer survival rates are misleading",
-      "https://www.allendowney.com/blog/2025/10/27/cancer-survival-rates-are-misleading/"
-    ]
-  ],
-  [
-    [
       "2025-10-28, 13:42:44",
       "https://news.ycombinator.com/item?id=45732800"
     ],
     [
       "China has added forest the size of Texas since 1990",
       "https://e360.yale.edu/digest/china-new-forest-report"
-    ]
-  ],
-  [
-    [
-      "2025-10-28, 12:19:38",
-      "https://news.ycombinator.com/item?id=45731848"
-    ],
-    [
-      "Tailscale Services",
-      "https://tailscale.com/blog/services-beta"
     ]
   ],
   [
@@ -287,6 +277,16 @@
     [
       "Mapping Underground Structures with 3D Scans",
       "https://wilkinson.graphics/blog/2025-10-25-3d-mapping/"
+    ]
+  ],
+  [
+    [
+      "2025-10-23, 13:44:10",
+      "https://news.ycombinator.com/item?id=45681742"
+    ],
+    [
+      "Space Exploration Logo Archive",
+      "https://kottke.org/25/10/the-space-exploration-logo-archive"
     ]
   ],
   [
