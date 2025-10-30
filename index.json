@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-10-30, 13:10:03",
+      "https://news.ycombinator.com/item?id=45759649"
+    ],
+    [
+      "Estimating the Perceived 'Claustrophobia' of New York City's Streets",
+      "http://mfranchi.net/posts/claustrophobic-streets/"
+    ]
+  ],
+  [
+    [
       "2025-10-30, 11:33:55",
       "https://news.ycombinator.com/item?id=45758874"
     ],
@@ -25,8 +35,18 @@
       "https://news.ycombinator.com/item?id=45758093"
     ],
     [
-      "Language Models Are Injective and Hence Invertible",
+      "Language models are injective and hence invertible",
       "https://arxiv.org/abs/2510.15511"
+    ]
+  ],
+  [
+    [
+      "2025-10-30, 04:29:45",
+      "https://news.ycombinator.com/item?id=45756445"
+    ],
+    [
+      "Carlo Rovelli’s radical perspective on reality",
+      "https://www.quantamagazine.org/carlo-rovellis-radical-perspective-on-reality-20251029/"
     ]
   ],
   [
@@ -87,16 +107,6 @@
     [
       "Uv is the best thing to happen to the Python ecosystem in a decade",
       "https://emily.space/posts/251023-uv"
-    ]
-  ],
-  [
-    [
-      "2025-10-29, 18:25:01",
-      "https://news.ycombinator.com/item?id=45750995"
-    ],
-    [
-      "Extropic is building thermodynamic computing hardware",
-      "https://extropic.ai/"
     ]
   ],
   [
@@ -171,6 +181,16 @@
   ],
   [
     [
+      "2025-10-29, 15:49:18",
+      "https://news.ycombinator.com/item?id=45748484"
+    ],
+    [
+      "Replacing EBS and Rethinking Postgres Storage from First Principles",
+      "https://www.tigerdata.com/blog/fluid-storage-forkable-ephemeral-durable-infrastructure-age-of-agents"
+    ]
+  ],
+  [
+    [
       "2025-10-29, 14:06:01",
       "https://news.ycombinator.com/item?id=45747018"
     ],
@@ -217,16 +237,6 @@
     [
       "GLP-1 therapeutics: Their emerging role in alcohol and substance use disorders",
       "https://academic.oup.com/jes/article/9/11/bvaf141/8277723?login=false"
-    ]
-  ],
-  [
-    [
-      "2025-10-27, 15:56:46",
-      "https://news.ycombinator.com/item?id=45722471"
-    ],
-    [
-      "More than DNS: Learnings from the 14 hour AWS outage",
-      "https://thundergolfer.com/blog/aws-us-east-1-outage-oct20"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Some Smalltalk about Ruby Loops",
       "https://tech.stonecharioteer.com/posts/2025/ruby-loops/"
-    ]
-  ],
-  [
-    [
-      "2025-10-22, 16:36:25",
-      "https://news.ycombinator.com/item?id=45671677"
-    ],
-    [
-      "Eye prosthesis is the first to restore sight lost to macular degeneration",
-      "https://med.stanford.edu/news/all-news/2025/10/eye-prosthesis.html"
     ]
   ]
 ]
