@@ -2,6 +2,7 @@
 
 * [2025-10-30, 18:25:16](https://news.ycombinator.com/item?id=45763367) - [Rapid Brightening of 3I/Atlas Ahead of Perihelion](https://arxiv.org/abs/2510.25035)
 * [2025-10-30, 18:05:39](https://news.ycombinator.com/item?id=45763076) - [I have released a 69.0MB version of Windows 7 x86](https://twitter.com/XenoPanther/status/1983477707968291075)
+* [2025-10-30, 17:45:53](https://news.ycombinator.com/item?id=45762837) - [Some people can't see mental images](https://www.newyorker.com/magazine/2025/11/03/some-people-cant-see-mental-images-the-consequences-are-profound)
 * [2025-10-30, 17:10:27](https://news.ycombinator.com/item?id=45762358) - [You can't turn off Copilot in the web versions of Word, Excel, or PowerPoint](https://support.microsoft.com/en-us/office/turn-off-copilot-in-microsoft-365-apps-bc7e530b-152d-4123-8e78-edc06f8b85f1)
 * [2025-10-30, 17:01:20](https://news.ycombinator.com/item?id=45762259) - [The ear does not do a Fourier transform](https://www.dissonances.blog/p/the-ear-does-not-do-a-fourier-transform)
 * [2025-10-30, 16:40:02](https://news.ycombinator.com/item?id=45762012) - [Launch HN: Propolis (YC X25) – Browser agents that QA your web app autonomously](https://app.propolis.tech/#/launch)
@@ -15,7 +16,6 @@
 * [2025-10-30, 14:21:58](https://news.ycombinator.com/item?id=45760321) - [Show HN: I made a heatmap diff viewer for code reviews](https://0github.com)
 * [2025-10-30, 10:39:21](https://news.ycombinator.com/item?id=45758421) - [Show HN: In a single HTML file, an app to encourage my children to invest](https://roberdam.com/en/dinversiones.html)
 * [2025-10-30, 09:47:24](https://news.ycombinator.com/item?id=45758093) - [Language models are injective and hence invertible](https://arxiv.org/abs/2510.15511)
-* [2025-10-29, 23:21:51](https://news.ycombinator.com/item?id=45754439) - [Raspberry Pi Pico Bit-Bangs 100 Mbit/S Ethernet](https://www.elektormagazine.com/news/rp2350-bit-bangs-100-mbit-ethernet)
 * [2025-10-29, 16:12:56](https://news.ycombinator.com/item?id=45748879) - [Minecraft removing obfuscation in Java Edition](https://www.minecraft.net/en-us/article/removing-obfuscation-in-java-edition)
 * [2025-10-29, 16:01:18](https://news.ycombinator.com/item?id=45748661) - [Tell HN: Azure outage](https://news.ycombinator.com/item?id=45748661)
 * [2025-10-29, 15:49:18](https://news.ycombinator.com/item?id=45748484) - [Replacing EBS and Rethinking Postgres Storage from First Principles](https://www.tigerdata.com/blog/fluid-storage-forkable-ephemeral-durable-infrastructure-age-of-agents)
@@ -23,13 +23,13 @@
 * [2025-10-29, 12:35:12](https://news.ycombinator.com/item?id=45746020) - [Zig's New Async I/O](https://andrewkelley.me/post/zig-new-async-io-text-version.html)
 * [2025-10-26, 15:22:16](https://news.ycombinator.com/item?id=45712620) - [987654321 / 123456789](https://www.johndcook.com/blog/2025/10/26/987654321/)
 * [2025-10-26, 13:13:54](https://news.ycombinator.com/item?id=45711577) - [How ancient people saw themselves](https://worldhistory.substack.com/p/how-ancient-people-saw-themselves)
+* [2025-10-26, 00:15:14](https://news.ycombinator.com/item?id=45707971) - [Learn Multiplatform Z80 Assembly Programming with Vampires](https://www.chibiakumas.com/z80/)
 * [2025-10-25, 10:57:51](https://news.ycombinator.com/item?id=45702831) - [Frozen DuckLakes for Multi-User, Serverless Data Access](https://ducklake.select/2025/10/24/frozen-ducklake/)
 * [2025-10-25, 08:37:20](https://news.ycombinator.com/item?id=45702252) - [Acronymy (Can we define every word as an acronym?)](https://acronymy.net/)
 * [2025-10-24, 23:35:53](https://news.ycombinator.com/item?id=45700165) - [UDP isn't unreliable, it's a convertible (2024)](https://www.proxylity.com/articles/udp-is-a-convertible.html)
 * [2025-10-24, 18:12:10](https://news.ycombinator.com/item?id=45697450) - [Typst's Math Mode Problem](https://laurmaedje.github.io/posts/math-mode-problem/)
 * [2025-10-23, 15:58:49](https://news.ycombinator.com/item?id=45683380) - [Spinning Up an Onion Mirror Is Stupid Easy](https://flower.codes/2025/10/23/onion-mirror.html)
 * [2025-10-23, 12:42:23](https://news.ycombinator.com/item?id=45681156) - [NaN, the not-a-number number that isn't NaN](https://piccalil.li/blog/nan-the-not-a-number-number-that-isnt-nan/)
-* [2025-10-23, 12:23:34](https://news.ycombinator.com/item?id=45681023) - [Some Smalltalk about Ruby Loops](https://tech.stonecharioteer.com/posts/2025/ruby-loops/)
 
 ## [Archives](archives/index.md)
 
