@@ -271,16 +271,6 @@
   ],
   [
     [
-      "2025-10-24, 23:35:53",
-      "https://news.ycombinator.com/item?id=45700165"
-    ],
-    [
-      "UDP isn't unreliable, it's a convertible (2024)",
-      "https://www.proxylity.com/articles/udp-is-a-convertible.html"
-    ]
-  ],
-  [
-    [
       "2025-10-24, 12:42:31",
       "https://news.ycombinator.com/item?id=45694032"
     ],
@@ -297,6 +287,16 @@
     [
       "NaN, the not-a-number number that isn't NaN",
       "https://piccalil.li/blog/nan-the-not-a-number-number-that-isnt-nan/"
+    ]
+  ],
+  [
+    [
+      "2025-10-23, 00:44:27",
+      "https://news.ycombinator.com/item?id=45676941"
+    ],
+    [
+      "Tweakcc",
+      "https://github.com/Piebald-AI/tweakcc"
     ]
   ]
 ]
