@@ -71,16 +71,6 @@
   ],
   [
     [
-      "2025-10-29, 19:39:57",
-      "https://news.ycombinator.com/item?id=45751995"
-    ],
-    [
-      "How to Obsessively Tune WezTerm",
-      "https://rashil2000.me/blogs/tune-wezterm"
-    ]
-  ],
-  [
-    [
       "2025-10-29, 18:57:29",
       "https://news.ycombinator.com/item?id=45751400"
     ],
@@ -187,6 +177,16 @@
     [
       "Kafka is Fast – I'll use Postgres",
       "https://topicpartition.io/blog/postgres-pubsub-queue-benchmarks"
+    ]
+  ],
+  [
+    [
+      "2025-10-29, 05:17:49",
+      "https://news.ycombinator.com/item?id=45742907"
+    ],
+    [
+      "Who needs Graphviz when you can build it yourself?",
+      "https://spidermonkey.dev/blog/2025/10/28/iongraph-web.html"
     ]
   ],
   [
