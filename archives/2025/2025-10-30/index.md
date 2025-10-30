@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-10-30](index.md)
 
+* [2025-10-30, 18:59:02](https://news.ycombinator.com/item?id=45763877) - [Minecraft HDL, an HDL for Redstone](https://github.com/itsfrank/MinecraftHDL)
+* [2025-10-30, 18:57:39](https://news.ycombinator.com/item?id=45763858) - [TruthWave – A Platform for Corporate Whistleblowers](https://www.truthwave.com)
 * [2025-10-30, 18:25:16](https://news.ycombinator.com/item?id=45763367) - [Rapid Brightening of 3I/Atlas Ahead of Perihelion](https://arxiv.org/abs/2510.25035)
 * [2025-10-30, 18:23:09](https://news.ycombinator.com/item?id=45763327) - [GooglePlay reports latest F-Droid version of Aves Libre as potential malware](https://github.com/deckerst/aves/issues/1802)
 * [2025-10-30, 18:19:12](https://news.ycombinator.com/item?id=45763267) - [SF neighborhood mourns loss of bodega cat allegedly killed by Waymo](https://www.sfgate.com/local/article/sf-neighborhood-mourns-cat-waymo-21127713.php)

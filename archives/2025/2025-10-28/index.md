@@ -25,6 +25,7 @@
 * [2025-10-28, 18:12:10](https://news.ycombinator.com/item?id=45736608) - [Mapping the off-target effects of every FDA-approved drug in existence](https://www.owlposting.com/p/mapping-the-off-target-effects-of)
 * [2025-10-28, 18:04:00](https://news.ycombinator.com/item?id=45736499) - [Chrome to warn on unencrypted HTTP by default](https://security.googleblog.com/2025/10/https-by-default.html)
 * [2025-10-28, 18:02:36](https://news.ycombinator.com/item?id=45736479) - [What We Talk About When We Talk About Sideloading](https://f-droid.org/2025/10/28/sideloading.html)
+* [2025-10-28, 18:01:46](https://news.ycombinator.com/item?id=45736461) - [Springs and bounces in native CSS](https://www.joshwcomeau.com/animation/linear-timing-function/)
 * [2025-10-28, 18:01:40](https://news.ycombinator.com/item?id=45736457) - [1X Neo – Home Robot - Pre Order](https://www.1x.tech/order)
 * [2025-10-28, 17:59:45](https://news.ycombinator.com/item?id=45736426) - [Cancer survival rates are misleading](https://www.allendowney.com/blog/2025/10/27/cancer-survival-rates-are-misleading/)
 * [2025-10-28, 17:58:51](https://news.ycombinator.com/item?id=45736400) - [Show HN: Apache Fory Rust – 10-20x faster serialization than JSON/Protobuf](https://fory.apache.org/blog/2025/10/29/fory_rust_versatile_serialization_framework/)
