@@ -1,6 +1,36 @@
 [
   [
     [
+      "2025-10-30, 15:54:38",
+      "https://news.ycombinator.com/item?id=45761445"
+    ],
+    [
+      "Affinity Studio Now Free",
+      "https://www.affinity.studio/get-affinity"
+    ]
+  ],
+  [
+    [
+      "2025-10-30, 15:21:46",
+      "https://news.ycombinator.com/item?id=45761042"
+    ],
+    [
+      "ZOZO's Contact Solver (for physics-based simulations)",
+      "https://github.com/st-tech/ppf-contact-solver"
+    ]
+  ],
+  [
+    [
+      "2025-10-30, 15:07:15",
+      "https://news.ycombinator.com/item?id=45760878"
+    ],
+    [
+      "Free software scares normal people",
+      "https://danieldelaney.net/normal/"
+    ]
+  ],
+  [
+    [
       "2025-10-30, 14:23:57",
       "https://news.ycombinator.com/item?id=45760340"
     ],
@@ -61,32 +91,12 @@
   ],
   [
     [
-      "2025-10-30, 04:29:45",
-      "https://news.ycombinator.com/item?id=45756445"
-    ],
-    [
-      "Carlo Rovelli’s radical perspective on reality",
-      "https://www.quantamagazine.org/carlo-rovellis-radical-perspective-on-reality-20251029/"
-    ]
-  ],
-  [
-    [
       "2025-10-30, 02:37:35",
       "https://news.ycombinator.com/item?id=45755821"
     ],
     [
       "Hello-World iOS App in Assembly",
       "https://gist.github.com/nicolas17/966a03ce49f949dd17b0123415ef2e31"
-    ]
-  ],
-  [
-    [
-      "2025-10-30, 02:31:43",
-      "https://news.ycombinator.com/item?id=45755788"
-    ],
-    [
-      "IRCd service (2024)",
-      "https://example.fi/blog/ircd.html"
     ]
   ],
   [
@@ -127,16 +137,6 @@
     [
       "The Internet runs on free and open source software and so does the DNS",
       "https://www.icann.org/en/blogs/details/the-internet-runs-on-free-and-open-source-softwareand-so-does-the-dns-23-10-2025-en"
-    ]
-  ],
-  [
-    [
-      "2025-10-29, 17:44:34",
-      "https://news.ycombinator.com/item?id=45750425"
-    ],
-    [
-      "OpenAI’s promise to stay in California helped clear the path for its IPO",
-      "https://www.wsj.com/tech/ai/openais-promise-to-stay-in-california-helped-clear-the-path-for-its-ipo-3af1c31c"
     ]
   ],
   [
@@ -251,6 +251,16 @@
   ],
   [
     [
+      "2025-10-25, 10:57:51",
+      "https://news.ycombinator.com/item?id=45702831"
+    ],
+    [
+      "Frozen DuckLakes for Multi-User, Serverless Data Access",
+      "https://ducklake.select/2025/10/24/frozen-ducklake/"
+    ]
+  ],
+  [
+    [
       "2025-10-24, 18:12:10",
       "https://news.ycombinator.com/item?id=45697450"
     ],
@@ -277,16 +287,6 @@
     [
       "Spinning Up an Onion Mirror Is Stupid Easy",
       "https://flower.codes/2025/10/23/onion-mirror.html"
-    ]
-  ],
-  [
-    [
-      "2025-10-23, 12:42:23",
-      "https://news.ycombinator.com/item?id=45681156"
-    ],
-    [
-      "NaN, the not-a-number number that isn't NaN",
-      "https://piccalil.li/blog/nan-the-not-a-number-number-that-isnt-nan/"
     ]
   ],
   [
