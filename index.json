@@ -31,16 +31,6 @@
   ],
   [
     [
-      "2025-10-30, 21:27:17",
-      "https://news.ycombinator.com/item?id=45765596"
-    ],
-    [
-      "If a pilot ejects, what is the autopilot programmed to do? (2018)",
-      "https://aviation.stackexchange.com/questions/52862/if-a-pilot-ejects-what-is-the-autopilot-programmed-to-do"
-    ]
-  ],
-  [
-    [
       "2025-10-30, 21:03:46",
       "https://news.ycombinator.com/item?id=45765328"
     ],
@@ -71,22 +61,22 @@
   ],
   [
     [
-      "2025-10-30, 18:57:39",
-      "https://news.ycombinator.com/item?id=45763858"
-    ],
-    [
-      "TruthWave – A platform for corporate whistleblowers",
-      "https://www.truthwave.com"
-    ]
-  ],
-  [
-    [
       "2025-10-30, 18:05:39",
       "https://news.ycombinator.com/item?id=45763076"
     ],
     [
       "I have released a 69.0MB version of Windows 7 x86",
       "https://twitter.com/XenoPanther/status/1983477707968291075"
+    ]
+  ],
+  [
+    [
+      "2025-10-30, 17:45:53",
+      "https://news.ycombinator.com/item?id=45762837"
+    ],
+    [
+      "Some people can't see mental images",
+      "https://www.newyorker.com/magazine/2025/11/03/some-people-cant-see-mental-images-the-consequences-are-profound"
     ]
   ],
   [
@@ -207,6 +197,16 @@
     [
       "Independently verifying Go's reproducible builds",
       "https://www.agwa.name/blog/post/verifying_go_reproducible_builds"
+    ]
+  ],
+  [
+    [
+      "2025-10-29, 15:49:18",
+      "https://news.ycombinator.com/item?id=45748484"
+    ],
+    [
+      "Replacing EBS and Rethinking Postgres Storage from First Principles",
+      "https://www.tigerdata.com/blog/fluid-storage-forkable-ephemeral-durable-infrastructure-age-of-agents"
     ]
   ],
   [
