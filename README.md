@@ -6,7 +6,6 @@
 * [2025-10-29, 23:52:09](https://news.ycombinator.com/item?id=45754660) - [OS/2 Warp, PowerPC Edition (2011)](https://www.os2museum.com/wp/os2-history/os2-warp-powerpc-edition/)
 * [2025-10-29, 23:31:24](https://news.ycombinator.com/item?id=45754509) - [Crunchyroll is destroying its subtitles](https://daiz.moe/crunchyroll-is-destroying-its-subtitles-for-no-good-reason/)
 * [2025-10-29, 23:21:51](https://news.ycombinator.com/item?id=45754439) - [Raspberry Pi Pico Bit-Bangs 100 Mbit/S Ethernet](https://www.elektormagazine.com/news/rp2350-bit-bangs-100-mbit-ethernet)
-* [2025-10-29, 23:17:02](https://news.ycombinator.com/item?id=45754390) - [A century of reforestation helped keep the eastern US cool (2024)](https://news.agu.org/press-release/a-century-of-reforestation-helped-keep-the-eastern-us-cool/)
 * [2025-10-29, 21:22:50](https://news.ycombinator.com/item?id=45753222) - [How the U.S. National Science Foundation enabled Software-Defined Networking](https://cacm.acm.org/federal-funding-of-academic-research/how-the-u-s-national-science-foundation-enabled-software-defined-networking/)
 * [2025-10-29, 19:39:57](https://news.ycombinator.com/item?id=45751995) - [How to Obsessively Tune WezTerm](https://rashil2000.me/blogs/tune-wezterm)
 * [2025-10-29, 18:57:29](https://news.ycombinator.com/item?id=45751400) - [Uv is the best thing to happen to the Python ecosystem in a decade](https://emily.space/posts/251023-uv)
@@ -28,6 +27,7 @@
 * [2025-10-27, 15:56:46](https://news.ycombinator.com/item?id=45722471) - [More than DNS: Learnings from the 14 hour AWS outage](https://thundergolfer.com/blog/aws-us-east-1-outage-oct20)
 * [2025-10-26, 13:13:54](https://news.ycombinator.com/item?id=45711577) - [How ancient people saw themselves](https://worldhistory.substack.com/p/how-ancient-people-saw-themselves)
 * [2025-10-25, 11:40:09](https://news.ycombinator.com/item?id=45703059) - [Iommi – your first pick for a Django power chord](https://iommi.rocks/)
+* [2025-10-23, 16:44:32](https://news.ycombinator.com/item?id=45684008) - [Video‐rate tunable colour electronic paper with human resolution](https://www.nature.com/articles/s41586-025-09642-3#MOESM1)
 * [2025-10-23, 15:58:49](https://news.ycombinator.com/item?id=45683380) - [Spinning Up an Onion Mirror Is Stupid Easy](https://flower.codes/2025/10/23/onion-mirror.html)
 * [2025-10-22, 16:36:25](https://news.ycombinator.com/item?id=45671677) - [Eye prosthesis is the first to restore sight lost to macular degeneration](https://med.stanford.edu/news/all-news/2025/10/eye-prosthesis.html)
 
