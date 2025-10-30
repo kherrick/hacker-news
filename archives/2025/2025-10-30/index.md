@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-10-30](index.md)
 
+* [2025-10-30, 15:54:38](https://news.ycombinator.com/item?id=45761445) - [Affinity Studio Now Free](https://www.affinity.studio/get-affinity)
+* [2025-10-30, 15:21:46](https://news.ycombinator.com/item?id=45761042) - [ZOZO's Contact Solver (for physics-based simulations)](https://github.com/st-tech/ppf-contact-solver)
+* [2025-10-30, 15:07:15](https://news.ycombinator.com/item?id=45760878) - [Free software scares normal people](https://danieldelaney.net/normal/)
 * [2025-10-30, 14:23:57](https://news.ycombinator.com/item?id=45760340) - [Ventoy: Create Bootable USB Drive for ISO/WIM/IMG/VHD(x)/EFI Files](https://github.com/ventoy/Ventoy)
 * [2025-10-30, 14:22:44](https://news.ycombinator.com/item?id=45760328) - [US declines to join more than 70 countries in signing UN cybercrime treaty](https://therecord.media/us-declines-signing-cybercrime-treaty?)
 * [2025-10-30, 13:38:40](https://news.ycombinator.com/item?id=45759922) - [3D solar tower increases capacity factor 50%, triples solar surface area](https://www.pv-magazine.com/2025/10/27/3d-solar-tower-increases-capacity-factor-50-triples-solar-surface-area/)
