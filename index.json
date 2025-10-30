@@ -111,16 +111,6 @@
   ],
   [
     [
-      "2025-10-30, 15:20:37",
-      "https://news.ycombinator.com/item?id=45761027"
-    ],
-    [
-      "PlanetScale Offering $5 Databases",
-      "https://planetscale.com/blog/5-dollar-planetscale"
-    ]
-  ],
-  [
-    [
       "2025-10-30, 15:07:15",
       "https://news.ycombinator.com/item?id=45760878"
     ],
@@ -257,6 +247,16 @@
     [
       "987654321 / 123456789",
       "https://www.johndcook.com/blog/2025/10/26/987654321/"
+    ]
+  ],
+  [
+    [
+      "2025-10-26, 11:53:08",
+      "https://news.ycombinator.com/item?id=45711003"
+    ],
+    [
+      "Lenses in Julia",
+      "https://juliaobjects.github.io/Accessors.jl/stable/lenses/"
     ]
   ],
   [
