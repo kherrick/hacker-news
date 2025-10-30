@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-10-30](index.md)
 
+* [2025-10-30, 21:49:11](https://news.ycombinator.com/item?id=45765787) - [Phone numbers for use in TV shows, films and creative works](https://www.acma.gov.au/phone-numbers-use-tv-shows-films-and-creative-works)
+* [2025-10-30, 21:35:42](https://news.ycombinator.com/item?id=45765664) - [Denmark reportedly withdraws Chat Control proposal following controversy](https://therecord.media/demark-reportedly-withdraws-chat-control-proposal)
 * [2025-10-30, 21:27:17](https://news.ycombinator.com/item?id=45765596) - [If a pilot ejects, what is the autopilot programmed to do? (2018)](https://aviation.stackexchange.com/questions/52862/if-a-pilot-ejects-what-is-the-autopilot-programmed-to-do)
 * [2025-10-30, 21:03:46](https://news.ycombinator.com/item?id=45765328) - [Show HN: ekoAcademic – Convert ArXiv papers to interactive podcasts](https://www.wadamczyk.io/projects/ekoacademic/index.html)
 * [2025-10-30, 20:34:02](https://news.ycombinator.com/item?id=45764986) - [Apple reports fourth quarter results](https://www.apple.com/newsroom/2025/10/apple-reports-fourth-quarter-results/)
