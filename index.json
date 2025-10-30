@@ -1,6 +1,36 @@
 [
   [
     [
+      "2025-10-30, 18:23:09",
+      "https://news.ycombinator.com/item?id=45763327"
+    ],
+    [
+      "GooglePlay reports latest F-Droid version of Aves Libre as potential malware",
+      "https://github.com/deckerst/aves/issues/1802"
+    ]
+  ],
+  [
+    [
+      "2025-10-30, 18:19:12",
+      "https://news.ycombinator.com/item?id=45763267"
+    ],
+    [
+      "SF neighborhood mourns loss of bodega cat allegedly killed by Waymo",
+      "https://www.sfgate.com/local/article/sf-neighborhood-mourns-cat-waymo-21127713.php"
+    ]
+  ],
+  [
+    [
+      "2025-10-30, 18:05:39",
+      "https://news.ycombinator.com/item?id=45763076"
+    ],
+    [
+      "I have released a 69.0MB version of Windows 7 x86",
+      "https://twitter.com/XenoPanther/status/1983477707968291075"
+    ]
+  ],
+  [
+    [
       "2025-10-30, 17:01:20",
       "https://news.ycombinator.com/item?id=45762259"
     ],
@@ -131,16 +161,6 @@
   ],
   [
     [
-      "2025-10-30, 02:37:35",
-      "https://news.ycombinator.com/item?id=45755821"
-    ],
-    [
-      "Hello-World iOS App in Assembly",
-      "https://gist.github.com/nicolas17/966a03ce49f949dd17b0123415ef2e31"
-    ]
-  ],
-  [
-    [
       "2025-10-29, 23:21:51",
       "https://news.ycombinator.com/item?id=45754439"
     ],
@@ -177,16 +197,6 @@
     [
       "Replacing EBS and Rethinking Postgres Storage from First Principles",
       "https://www.tigerdata.com/blog/fluid-storage-forkable-ephemeral-durable-infrastructure-age-of-agents"
-    ]
-  ],
-  [
-    [
-      "2025-10-29, 14:06:01",
-      "https://news.ycombinator.com/item?id=45747018"
-    ],
-    [
-      "Kafka is Fast – I'll use Postgres",
-      "https://topicpartition.io/blog/postgres-pubsub-queue-benchmarks"
     ]
   ],
   [
@@ -257,16 +267,6 @@
     [
       "Typst's Math Mode Problem",
       "https://laurmaedje.github.io/posts/math-mode-problem/"
-    ]
-  ],
-  [
-    [
-      "2025-10-24, 05:47:37",
-      "https://news.ycombinator.com/item?id=45691218"
-    ],
-    [
-      "The Aesthete's Progress",
-      "https://sydneyreviewofbooks.com/essays/the-aesthetes-progress"
     ]
   ],
   [
