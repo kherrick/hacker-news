@@ -19,6 +19,7 @@
 * [2025-10-27, 17:42:23](https://news.ycombinator.com/item?id=45724045) - [Why Nigeria Accepted GMOs](https://www.asimov.press/p/nigeria-crops)
 * [2025-10-27, 17:27:18](https://news.ycombinator.com/item?id=45723828) - [Let the little guys in: A context sharing runtime for the personalised web](https://arjun.md/little-guys)
 * [2025-10-27, 17:25:52](https://news.ycombinator.com/item?id=45723809) - [It's not always DNS](https://notes.pault.ag/its-not-always-dns/)
+* [2025-10-27, 17:20:37](https://news.ycombinator.com/item?id=45723737) - [Why imperfection could be key to Turing patterns in nature](https://arstechnica.com/science/2025/10/why-imperfection-could-be-key-to-turing-patterns-in-nature/)
 * [2025-10-27, 17:18:39](https://news.ycombinator.com/item?id=45723699) - [Cisco opensourced MCP-Scanner for finding vulnerabilties in MCP server](https://github.com/cisco-ai-defense/mcp-scanner)
 * [2025-10-27, 17:17:38](https://news.ycombinator.com/item?id=45723686) - [The new calculus of AI-based coding](https://blog.joemag.dev/2025/10/the-new-calculus-of-ai-based-coding.html)
 * [2025-10-27, 17:14:34](https://news.ycombinator.com/item?id=45723646) - [Show HN: Dlog – Journaling and AI coach that learns what drives well-being (Mac)](https://dlog.pro/)
