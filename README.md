@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-10-30, 17:04:53](https://news.ycombinator.com/item?id=45762307) - [Ex-Mossad chief brags Israel has installed a global sabotage network](https://www.middleeastmonitor.com/20251030-ex-mossad-chief-behind-icj-blackmail-campaign-brags-israel-has-installed-a-global-sabotage-network/)
 * [2025-10-30, 17:01:20](https://news.ycombinator.com/item?id=45762259) - [The ear does not do a Fourier transform](https://www.dissonances.blog/p/the-ear-does-not-do-a-fourier-transform)
 * [2025-10-30, 16:50:19](https://news.ycombinator.com/item?id=45762136) - [Moderna, the company that helped save the world, has unraveled](https://www.statnews.com/2025/10/30/moderna-rise-fall-biotech-analysis-from-pandemic-rise-to-mrna-crash/)
 * [2025-10-30, 16:40:02](https://news.ycombinator.com/item?id=45762012) - [Launch HN: Propolis (YC X25) – Browser agents that QA your web app autonomously](https://app.propolis.tech/#/launch)
@@ -15,7 +16,6 @@
 * [2025-10-30, 09:47:24](https://news.ycombinator.com/item?id=45758093) - [Language models are injective and hence invertible](https://arxiv.org/abs/2510.15511)
 * [2025-10-30, 02:37:35](https://news.ycombinator.com/item?id=45755821) - [Hello-World iOS App in Assembly](https://gist.github.com/nicolas17/966a03ce49f949dd17b0123415ef2e31)
 * [2025-10-29, 23:21:51](https://news.ycombinator.com/item?id=45754439) - [Raspberry Pi Pico Bit-Bangs 100 Mbit/S Ethernet](https://www.elektormagazine.com/news/rp2350-bit-bangs-100-mbit-ethernet)
-* [2025-10-29, 18:21:35](https://news.ycombinator.com/item?id=45750954) - [Dithering – Part 1](https://visualrambling.space/dithering-part-1/)
 * [2025-10-29, 16:12:56](https://news.ycombinator.com/item?id=45748879) - [Minecraft removing obfuscation in Java Edition](https://www.minecraft.net/en-us/article/removing-obfuscation-in-java-edition)
 * [2025-10-29, 16:01:18](https://news.ycombinator.com/item?id=45748661) - [Tell HN: Azure outage](https://news.ycombinator.com/item?id=45748661)
 * [2025-10-29, 15:49:18](https://news.ycombinator.com/item?id=45748484) - [Replacing EBS and Rethinking Postgres Storage from First Principles](https://www.tigerdata.com/blog/fluid-storage-forkable-ephemeral-durable-infrastructure-age-of-agents)
