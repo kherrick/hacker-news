@@ -54,6 +54,7 @@
 * [2025-10-29, 13:52:31](https://news.ycombinator.com/item?id=45746844) - [Character.ai to bar children under 18 from using its chatbots](https://www.nytimes.com/2025/10/29/technology/characterai-underage-users.html)
 * [2025-10-29, 13:44:31](https://news.ycombinator.com/item?id=45746753) - [New attacks are diluting secure enclave defenses from Nvidia, AMD, and Intel](https://arstechnica.com/security/2025/10/new-physical-attacks-are-quickly-diluting-secure-enclave-defenses-from-nvidia-amd-and-intel/)
 * [2025-10-29, 13:42:05](https://news.ycombinator.com/item?id=45746726) - [Recreating a Homebrew Game System from 1987](https://alex-j-lowry.github.io/z80tvg.html)
+* [2025-10-29, 13:20:03](https://news.ycombinator.com/item?id=45746482) - [Israel demanded Google and Amazon use secret 'wink' to sidestep legal orders](https://www.theguardian.com/us-news/2025/oct/29/google-amazon-israel-contract-secret-code)
 * [2025-10-29, 13:19:30](https://news.ycombinator.com/item?id=45746478) - [From VS Code to Helix](https://ergaster.org/posts/2025/10/29-vscode-to-helix/)
 * [2025-10-29, 13:12:23](https://news.ycombinator.com/item?id=45746401) - [Grammarly rebrands to 'Superhuman,' launches a new AI assistant](https://techcrunch.com/2025/10/29/grammarly-rebrands-to-superhuman-launches-a-new-ai-assistant/)
 * [2025-10-29, 13:03:52](https://news.ycombinator.com/item?id=45746313) - [Create your first business email for free](https://fromzerotollc.com/step/create-your-first-business-email)
