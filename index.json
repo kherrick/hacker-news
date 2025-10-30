@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-10-30, 02:37:35",
+      "https://news.ycombinator.com/item?id=45755821"
+    ],
+    [
+      "Hello-World iOS App in Assembly",
+      "https://gist.github.com/nicolas17/966a03ce49f949dd17b0123415ef2e31"
+    ]
+  ],
+  [
+    [
+      "2025-10-30, 02:31:43",
+      "https://news.ycombinator.com/item?id=45755788"
+    ],
+    [
+      "IRCd service written in awk",
+      "https://example.fi/blog/ircd.html"
+    ]
+  ],
+  [
+    [
       "2025-10-29, 23:52:09",
       "https://news.ycombinator.com/item?id=45754660"
     ],
@@ -15,7 +35,7 @@
       "https://news.ycombinator.com/item?id=45754509"
     ],
     [
-      "Crunchyroll is destroying its subtitles for no good reason",
+      "Crunchyroll is destroying its subtitles",
       "https://daiz.moe/crunchyroll-is-destroying-its-subtitles-for-no-good-reason/"
     ]
   ],
@@ -117,16 +137,6 @@
     [
       "The Internet runs on free and open source software and so does the DNS",
       "https://www.icann.org/en/blogs/details/the-internet-runs-on-free-and-open-source-softwareand-so-does-the-dns-23-10-2025-en"
-    ]
-  ],
-  [
-    [
-      "2025-10-29, 17:50:21",
-      "https://news.ycombinator.com/item?id=45750501"
-    ],
-    [
-      "Encoding x86 Instructions",
-      "https://www-user.tu-chemnitz.de/~heha/hs/chm/x86.chm/x86.htm"
     ]
   ],
   [
@@ -251,16 +261,6 @@
   ],
   [
     [
-      "2025-10-28, 12:19:38",
-      "https://news.ycombinator.com/item?id=45731848"
-    ],
-    [
-      "Tailscale Services",
-      "https://tailscale.com/blog/services-beta"
-    ]
-  ],
-  [
-    [
       "2025-10-28, 02:00:58",
       "https://news.ycombinator.com/item?id=45728525"
     ],
@@ -291,12 +291,12 @@
   ],
   [
     [
-      "2025-10-22, 20:30:58",
-      "https://news.ycombinator.com/item?id=45674766"
+      "2025-10-26, 20:39:33",
+      "https://news.ycombinator.com/item?id=45715026"
     ],
     [
-      "A Fork in the Road: Deciding Kafka's Diskless Future",
-      "https://jack-vanlightly.com/blog/2025/10/22/a-fork-in-the-road-deciding-kafkas-diskless-future"
+      "Using Atomic State to Improve React Performance in Deeply Nested Component Trees",
+      "https://runharbor.com/blog/2025-10-26-improving-deeply-nested-react-render-performance-with-jotai-atomic-state"
     ]
   ]
 ]
