@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-10-30, 18:59:02",
+      "https://news.ycombinator.com/item?id=45763877"
+    ],
+    [
+      "Minecraft HDL, an HDL for Redstone",
+      "https://github.com/itsfrank/MinecraftHDL"
+    ]
+  ],
+  [
+    [
+      "2025-10-30, 18:57:39",
+      "https://news.ycombinator.com/item?id=45763858"
+    ],
+    [
+      "TruthWave – A Platform for Corporate Whistleblowers",
+      "https://www.truthwave.com"
+    ]
+  ],
+  [
+    [
       "2025-10-30, 18:25:16",
       "https://news.ycombinator.com/item?id=45763367"
     ],
@@ -61,16 +81,6 @@
   ],
   [
     [
-      "2025-10-30, 16:32:22",
-      "https://news.ycombinator.com/item?id=45761902"
-    ],
-    [
-      "Falling panel prices lead to global solar boom, except for the US",
-      "https://arstechnica.com/science/2025/10/theres-a-global-boom-in-solar-except-in-the-united-states/"
-    ]
-  ],
-  [
-    [
       "2025-10-30, 16:23:56",
       "https://news.ycombinator.com/item?id=45761789"
     ],
@@ -111,16 +121,6 @@
   ],
   [
     [
-      "2025-10-30, 14:23:57",
-      "https://news.ycombinator.com/item?id=45760340"
-    ],
-    [
-      "Ventoy: Create bootable USB drive for ISO/WIM/IMG/VHD(x)/EFI Files",
-      "https://github.com/ventoy/Ventoy"
-    ]
-  ],
-  [
-    [
       "2025-10-30, 14:22:44",
       "https://news.ycombinator.com/item?id=45760328"
     ],
@@ -147,16 +147,6 @@
     [
       "Show HN: In a single HTML file, an app to encourage my children to invest",
       "https://roberdam.com/en/dinversiones.html"
-    ]
-  ],
-  [
-    [
-      "2025-10-30, 09:47:24",
-      "https://news.ycombinator.com/item?id=45758093"
-    ],
-    [
-      "Language models are injective and hence invertible",
-      "https://arxiv.org/abs/2510.15511"
     ]
   ],
   [
@@ -211,22 +201,32 @@
   ],
   [
     [
+      "2025-10-29, 01:01:41",
+      "https://news.ycombinator.com/item?id=45741357"
+    ],
+    [
+      "Aisuru botnet shifts from DDoS to residential proxies",
+      "https://krebsonsecurity.com/2025/10/aisuru-botnet-shifts-from-ddos-to-residential-proxies/"
+    ]
+  ],
+  [
+    [
+      "2025-10-28, 18:01:46",
+      "https://news.ycombinator.com/item?id=45736461"
+    ],
+    [
+      "Springs and bounces in native CSS",
+      "https://www.joshwcomeau.com/animation/linear-timing-function/"
+    ]
+  ],
+  [
+    [
       "2025-10-26, 15:22:16",
       "https://news.ycombinator.com/item?id=45712620"
     ],
     [
       "987654321 / 123456789",
       "https://www.johndcook.com/blog/2025/10/26/987654321/"
-    ]
-  ],
-  [
-    [
-      "2025-10-26, 13:13:54",
-      "https://news.ycombinator.com/item?id=45711577"
-    ],
-    [
-      "How ancient people saw themselves",
-      "https://worldhistory.substack.com/p/how-ancient-people-saw-themselves"
     ]
   ],
   [
