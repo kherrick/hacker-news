@@ -21,7 +21,6 @@
 * [2025-10-29, 16:04:33](https://news.ycombinator.com/item?id=45748725) - [Composer: Building a fast frontier model with RL](https://cursor.com/blog/composer)
 * [2025-10-29, 16:01:18](https://news.ycombinator.com/item?id=45748661) - [Tell HN: Azure outage](https://news.ycombinator.com/item?id=45748661)
 * [2025-10-29, 14:06:01](https://news.ycombinator.com/item?id=45747018) - [Kafka is Fast – I'll use Postgres](https://topicpartition.io/blog/postgres-pubsub-queue-benchmarks)
-* [2025-10-29, 13:12:23](https://news.ycombinator.com/item?id=45746401) - [Grammarly rebrands to 'Superhuman,' launches a new AI assistant](https://techcrunch.com/2025/10/29/grammarly-rebrands-to-superhuman-launches-a-new-ai-assistant/)
 * [2025-10-29, 04:03:41](https://news.ycombinator.com/item?id=45742488) - [Keep Android Open](http://keepandroidopen.org/)
 * [2025-10-29, 03:58:57](https://news.ycombinator.com/item?id=45742456) - [Board: New game console recognizes physical pieces, with an open SDK](https://board.fun/)
 * [2025-10-28, 13:42:44](https://news.ycombinator.com/item?id=45732800) - [China has added forest the size of Texas since 1990](https://e360.yale.edu/digest/china-new-forest-report)
@@ -29,6 +28,7 @@
 * [2025-10-27, 17:20:37](https://news.ycombinator.com/item?id=45723737) - [Why imperfection could be key to Turing patterns in nature](https://arstechnica.com/science/2025/10/why-imperfection-could-be-key-to-turing-patterns-in-nature/)
 * [2025-10-27, 15:56:46](https://news.ycombinator.com/item?id=45722471) - [More than DNS: Learnings from the 14 hour AWS outage](https://thundergolfer.com/blog/aws-us-east-1-outage-oct20)
 * [2025-10-26, 13:13:54](https://news.ycombinator.com/item?id=45711577) - [How ancient people saw themselves](https://worldhistory.substack.com/p/how-ancient-people-saw-themselves)
+* [2025-10-25, 11:40:09](https://news.ycombinator.com/item?id=45703059) - [Iommi – your first pick for a Django power chord](https://iommi.rocks/)
 * [2025-10-22, 16:36:25](https://news.ycombinator.com/item?id=45671677) - [Eye prosthesis is the first to restore sight lost to macular degeneration](https://med.stanford.edu/news/all-news/2025/10/eye-prosthesis.html)
 
 ## [Archives](archives/index.md)
