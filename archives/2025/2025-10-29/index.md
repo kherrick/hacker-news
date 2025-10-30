@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-10-29](index.md)
 
+* [2025-10-29, 23:52:09](https://news.ycombinator.com/item?id=45754660) - [OS/2 Warp, PowerPC Edition](https://www.os2museum.com/wp/os2-history/os2-warp-powerpc-edition/)
+* [2025-10-29, 23:31:24](https://news.ycombinator.com/item?id=45754509) - [Crunchyroll is destroying its subtitles for no good reason](https://daiz.moe/crunchyroll-is-destroying-its-subtitles-for-no-good-reason/)
 * [2025-10-29, 23:21:51](https://news.ycombinator.com/item?id=45754439) - [Raspberry Pi Pico Bit-Bangs 100 Mbit/S Ethernet](https://www.elektormagazine.com/news/rp2350-bit-bangs-100-mbit-ethernet)
 * [2025-10-29, 23:17:02](https://news.ycombinator.com/item?id=45754390) - [A century of reforestation helped keep the eastern US cool](https://news.agu.org/press-release/a-century-of-reforestation-helped-keep-the-eastern-us-cool/)
 * [2025-10-29, 22:54:53](https://news.ycombinator.com/item?id=45754165) - [Meta and TikTok are obstructing researchers' access to data, EU commission rules](https://www.science.org/content/article/meta-and-tiktok-are-obstructing-researchers-access-data-european-commission-rules)
