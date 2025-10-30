@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2025-10-30, 21:03:46",
+      "https://news.ycombinator.com/item?id=45765328"
+    ],
+    [
+      "Show HN: ekoAcademic – Convert ArXiv papers to interactive podcasts",
+      "https://www.wadamczyk.io/projects/ekoacademic/index.html"
+    ]
+  ],
+  [
+    [
       "2025-10-30, 20:34:02",
       "https://news.ycombinator.com/item?id=45764986"
     ],
@@ -141,16 +151,6 @@
   ],
   [
     [
-      "2025-10-30, 13:10:03",
-      "https://news.ycombinator.com/item?id=45759649"
-    ],
-    [
-      "Estimating the perceived 'claustrophobia' of New York City's streets (2024)",
-      "http://mfranchi.net/posts/claustrophobic-streets/"
-    ]
-  ],
-  [
-    [
       "2025-10-30, 13:00:58",
       "https://news.ycombinator.com/item?id=45759572"
     ],
@@ -187,16 +187,6 @@
     [
       "Independently verifying Go's reproducible builds",
       "https://www.agwa.name/blog/post/verifying_go_reproducible_builds"
-    ]
-  ],
-  [
-    [
-      "2025-10-29, 15:49:18",
-      "https://news.ycombinator.com/item?id=45748484"
-    ],
-    [
-      "Replacing EBS and Rethinking Postgres Storage from First Principles",
-      "https://www.tigerdata.com/blog/fluid-storage-forkable-ephemeral-durable-infrastructure-age-of-agents"
     ]
   ],
   [
@@ -287,6 +277,16 @@
     [
       "Show HN: Run a GitHub Actions step in a gVisor sandbox",
       "https://github.com/geomys/sandboxed-step"
+    ]
+  ],
+  [
+    [
+      "2025-10-23, 18:50:24",
+      "https://news.ycombinator.com/item?id=45685363"
+    ],
+    [
+      "Show HN: Story Keeper – AI agents with narrative continuity instead of memory",
+      "https://github.com/neurobloomai/pact-ax"
     ]
   ],
   [
