@@ -1,22 +1,12 @@
 [
   [
     [
-      "2025-10-30, 18:23:09",
-      "https://news.ycombinator.com/item?id=45763327"
+      "2025-10-30, 18:25:16",
+      "https://news.ycombinator.com/item?id=45763367"
     ],
     [
-      "GooglePlay reports latest F-Droid version of Aves Libre as potential malware",
-      "https://github.com/deckerst/aves/issues/1802"
-    ]
-  ],
-  [
-    [
-      "2025-10-30, 18:19:12",
-      "https://news.ycombinator.com/item?id=45763267"
-    ],
-    [
-      "SF neighborhood mourns loss of bodega cat allegedly killed by Waymo",
-      "https://www.sfgate.com/local/article/sf-neighborhood-mourns-cat-waymo-21127713.php"
+      "Rapid Brightening of 3I/Atlas Ahead of Perihelion",
+      "https://arxiv.org/abs/2510.25035"
     ]
   ],
   [
@@ -31,22 +21,22 @@
   ],
   [
     [
+      "2025-10-30, 17:10:27",
+      "https://news.ycombinator.com/item?id=45762358"
+    ],
+    [
+      "You can't turn off Copilot in the web versions of Word, Excel, or PowerPoint",
+      "https://support.microsoft.com/en-us/office/turn-off-copilot-in-microsoft-365-apps-bc7e530b-152d-4123-8e78-edc06f8b85f1"
+    ]
+  ],
+  [
+    [
       "2025-10-30, 17:01:20",
       "https://news.ycombinator.com/item?id=45762259"
     ],
     [
       "The ear does not do a Fourier transform",
       "https://www.dissonances.blog/p/the-ear-does-not-do-a-fourier-transform"
-    ]
-  ],
-  [
-    [
-      "2025-10-30, 16:50:19",
-      "https://news.ycombinator.com/item?id=45762136"
-    ],
-    [
-      "Moderna, the company that helped save the world, has unraveled",
-      "https://www.statnews.com/2025/10/30/moderna-rise-fall-biotech-analysis-from-pandemic-rise-to-mrna-crash/"
     ]
   ],
   [
@@ -211,6 +201,16 @@
   ],
   [
     [
+      "2025-10-29, 12:35:12",
+      "https://news.ycombinator.com/item?id=45746020"
+    ],
+    [
+      "Zig's New Async I/O",
+      "https://andrewkelley.me/post/zig-new-async-io-text-version.html"
+    ]
+  ],
+  [
+    [
       "2025-10-26, 15:22:16",
       "https://news.ycombinator.com/item?id=45712620"
     ],
@@ -255,7 +255,7 @@
       "https://news.ycombinator.com/item?id=45700165"
     ],
     [
-      "UDP Isn't Unreliable, It's a Convertible",
+      "UDP isn't unreliable, it's a convertible (2024)",
       "https://www.proxylity.com/articles/udp-is-a-convertible.html"
     ]
   ],
