@@ -27,9 +27,9 @@
 * [2025-10-26, 15:22:16](https://news.ycombinator.com/item?id=45712620) - [987654321 / 123456789](https://www.johndcook.com/blog/2025/10/26/987654321/)
 * [2025-10-26, 00:15:14](https://news.ycombinator.com/item?id=45707971) - [Learn Multiplatform Z80 Assembly Programming with Vampires](https://www.chibiakumas.com/z80/)
 * [2025-10-25, 10:57:51](https://news.ycombinator.com/item?id=45702831) - [Frozen DuckLakes for Multi-User, Serverless Data Access](https://ducklake.select/2025/10/24/frozen-ducklake/)
-* [2025-10-24, 23:35:53](https://news.ycombinator.com/item?id=45700165) - [UDP isn't unreliable, it's a convertible (2024)](https://www.proxylity.com/articles/udp-is-a-convertible.html)
 * [2025-10-24, 12:42:31](https://news.ycombinator.com/item?id=45694032) - [Show HN: Run a GitHub Actions step in a gVisor sandbox](https://github.com/geomys/sandboxed-step)
 * [2025-10-23, 12:42:23](https://news.ycombinator.com/item?id=45681156) - [NaN, the not-a-number number that isn't NaN](https://piccalil.li/blog/nan-the-not-a-number-number-that-isnt-nan/)
+* [2025-10-23, 00:44:27](https://news.ycombinator.com/item?id=45676941) - [Tweakcc](https://github.com/Piebald-AI/tweakcc)
 
 ## [Archives](archives/index.md)
 
