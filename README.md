@@ -24,11 +24,11 @@
 * [2025-10-29, 12:35:12](https://news.ycombinator.com/item?id=45746020) - [Zig's New Async I/O](https://andrewkelley.me/post/zig-new-async-io-text-version.html)
 * [2025-10-29, 01:01:41](https://news.ycombinator.com/item?id=45741357) - [Aisuru botnet shifts from DDoS to residential proxies](https://krebsonsecurity.com/2025/10/aisuru-botnet-shifts-from-ddos-to-residential-proxies/)
 * [2025-10-28, 18:01:46](https://news.ycombinator.com/item?id=45736461) - [Springs and bounces in native CSS](https://www.joshwcomeau.com/animation/linear-timing-function/)
+* [2025-10-27, 17:57:18](https://news.ycombinator.com/item?id=45724229) - [Show HN: Meals You Love – AI-powered meal planning and grocery shopping](https://mealsyoulove.com)
 * [2025-10-26, 15:22:16](https://news.ycombinator.com/item?id=45712620) - [987654321 / 123456789](https://www.johndcook.com/blog/2025/10/26/987654321/)
 * [2025-10-26, 00:15:14](https://news.ycombinator.com/item?id=45707971) - [Learn Multiplatform Z80 Assembly Programming with Vampires](https://www.chibiakumas.com/z80/)
 * [2025-10-25, 10:57:51](https://news.ycombinator.com/item?id=45702831) - [Frozen DuckLakes for Multi-User, Serverless Data Access](https://ducklake.select/2025/10/24/frozen-ducklake/)
 * [2025-10-24, 12:42:31](https://news.ycombinator.com/item?id=45694032) - [Show HN: Run a GitHub Actions step in a gVisor sandbox](https://github.com/geomys/sandboxed-step)
-* [2025-10-23, 12:42:23](https://news.ycombinator.com/item?id=45681156) - [NaN, the not-a-number number that isn't NaN](https://piccalil.li/blog/nan-the-not-a-number-number-that-isnt-nan/)
 * [2025-10-23, 00:44:27](https://news.ycombinator.com/item?id=45676941) - [Tweakcc](https://github.com/Piebald-AI/tweakcc)
 
 ## [Archives](archives/index.md)
