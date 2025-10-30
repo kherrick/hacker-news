@@ -75,6 +75,7 @@
 * [2025-10-23, 08:41:21](https://news.ycombinator.com/item?id=45679638) - [C64 Blood Money](https://lemmings.info/c64-blood-money/)
 * [2025-10-23, 08:31:13](https://news.ycombinator.com/item?id=45679558) - [Female spies are waging 'sex warfare' to steal Silicon Valley secrets](https://www.thetimes.com/us/american-politics/article/silicon-valley-spy-china-russia-2v03676kl)
 * [2025-10-23, 07:46:56](https://news.ycombinator.com/item?id=45679307) - [AI assistance is only making coders dumb, lazy and prone to replacement](https://news.ycombinator.com/item?id=45679307)
+* [2025-10-23, 07:06:07](https://news.ycombinator.com/item?id=45679046) - [The Psychology of Portnoy: On the Making of Philip Roth's Groundbreaking Novel](https://lithub.com/the-psychology-of-portnoy-on-the-making-of-philip-roths-groundbreaking-novel/)
 * [2025-10-23, 06:49:44](https://news.ycombinator.com/item?id=45678941) - [Be Careful with Obsidian](https://phong.bearblog.dev/be-careful-with-obsidian/)
 * [2025-10-23, 06:38:10](https://news.ycombinator.com/item?id=45678859) - [The Continual Learning Problem](https://jessylin.com/2025/10/20/continual-learning/)
 * [2025-10-23, 06:01:07](https://news.ycombinator.com/item?id=45678632) - [The Programming Languages Zoo](https://plzoo.andrej.com/)
