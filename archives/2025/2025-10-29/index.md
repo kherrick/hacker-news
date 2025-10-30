@@ -37,6 +37,7 @@
 * [2025-10-29, 16:01:18](https://news.ycombinator.com/item?id=45748661) - [Tell HN: Azure outage](https://news.ycombinator.com/item?id=45748661)
 * [2025-10-29, 15:57:17](https://news.ycombinator.com/item?id=45748608) - [AirTips – Alternative to Bento.me/Linktree](https://a.coffee/)
 * [2025-10-29, 15:54:36](https://news.ycombinator.com/item?id=45748570) - [Tell HN: Twilio support replies with hallucinated features](https://news.ycombinator.com/item?id=45748570)
+* [2025-10-29, 15:49:18](https://news.ycombinator.com/item?id=45748484) - [Replacing EBS and Rethinking Postgres Storage from First Principles](https://www.tigerdata.com/blog/fluid-storage-forkable-ephemeral-durable-infrastructure-age-of-agents)
 * [2025-10-29, 15:46:20](https://news.ycombinator.com/item?id=45748430) - [Turns Out, Wikipedia Isn't That 'Woke' as Grokipedia Rips Off Most of Its Pages](https://uk.pcmag.com/ai/160970/turns-out-wikipedia-isnt-that-woke-as-grokipedia-rips-off-most-of-its-pages)
 * [2025-10-29, 15:32:46](https://news.ycombinator.com/item?id=45748195) - [The end of the rip-off economy: consumers use LLMs against information asymmetry](https://www.economist.com/finance-and-economics/2025/10/27/the-end-of-the-rip-off-economy)
 * [2025-10-29, 15:32:11](https://news.ycombinator.com/item?id=45748186) - [Hosting SQLite Databases on GitHub Pages (2021)](https://phiresky.github.io/blog/2021/hosting-sqlite-databases-on-github-pages/)
