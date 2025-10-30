@@ -14,6 +14,7 @@
 * [2025-10-29, 20:55:45](https://news.ycombinator.com/item?id=45752897) - [Backpressure in Distributed Systems](https://blog.pranshu-raj.me/posts/backpressure/)
 * [2025-10-29, 20:12:56](https://news.ycombinator.com/item?id=45752428) - [Emergent Introspective Awareness in Large Language Models](https://transformer-circuits.pub/2025/introspection/index.html)
 * [2025-10-29, 19:39:57](https://news.ycombinator.com/item?id=45751995) - [How to Obsessively Tune WezTerm](https://rashil2000.me/blogs/tune-wezterm)
+* [2025-10-29, 19:32:00](https://news.ycombinator.com/item?id=45751868) - [Independently verifying Go's reproducible builds](https://www.agwa.name/blog/post/verifying_go_reproducible_builds)
 * [2025-10-29, 18:57:29](https://news.ycombinator.com/item?id=45751400) - [Uv is the best thing to happen to the Python ecosystem in a decade](https://emily.space/posts/251023-uv)
 * [2025-10-29, 18:52:46](https://news.ycombinator.com/item?id=45751339) - [Show HN: SQLite Graph – Graph database with Cypher queries (alpha, but working)](https://github.com/agentflare-ai/sqlite-graph)
 * [2025-10-29, 18:25:01](https://news.ycombinator.com/item?id=45750995) - [Extropic is building thermodynamic computing hardware](https://extropic.ai/)
