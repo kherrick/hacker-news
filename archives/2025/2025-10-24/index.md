@@ -19,6 +19,7 @@
 * [2025-10-24, 19:38:44](https://news.ycombinator.com/item?id=45698323) - [Image Dithering: Eleven Algorithms and Source Code (2012)](https://tannerhelland.com/2012/12/28/dithering-eleven-algorithms-source-code.html)
 * [2025-10-24, 19:09:08](https://news.ycombinator.com/item?id=45698070) - [WebDAV isn't dead yet](https://blog.feld.me/posts/2025/09/webdav-isnt-dead-yet/)
 * [2025-10-24, 18:30:28](https://news.ycombinator.com/item?id=45697649) - [Protein Is a Trap and I Have Fallen into It, or Second Breakfast #19](https://buttondown.com/meghanmccarron/archive/protein-is-a-trap-and-i-have-fallen-into-it-or/)
+* [2025-10-24, 18:12:10](https://news.ycombinator.com/item?id=45697450) - [Typst's Math Mode Problem](https://laurmaedje.github.io/posts/math-mode-problem/)
 * [2025-10-24, 17:52:20](https://news.ycombinator.com/item?id=45697234) - [Beyond RaspberryPi: What are all the other SoC vendors up to *summarised*](https://sbcwiki.com/news/articles/state-of-embedded-q4-25/)
 * [2025-10-24, 17:18:17](https://news.ycombinator.com/item?id=45696838) - [How to Make a Smith Chart](https://www.johndcook.com/blog/2025/10/23/smith-chart/)
 * [2025-10-24, 17:11:58](https://news.ycombinator.com/item?id=45696752) - [Disable AI in Firefox](https://flamedfury.com/posts/disable-ai-in-firefox/)
