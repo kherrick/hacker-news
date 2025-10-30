@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-10-30, 21:27:17](https://news.ycombinator.com/item?id=45765596) - [If a pilot ejects, what is the autopilot programmed to do? (2018)](https://aviation.stackexchange.com/questions/52862/if-a-pilot-ejects-what-is-the-autopilot-programmed-to-do)
 * [2025-10-30, 20:34:02](https://news.ycombinator.com/item?id=45764986) - [Apple reports fourth quarter results](https://www.apple.com/newsroom/2025/10/apple-reports-fourth-quarter-results/)
 * [2025-10-30, 18:59:02](https://news.ycombinator.com/item?id=45763877) - [Minecraft HDL, an HDL for Redstone](https://github.com/itsfrank/MinecraftHDL)
 * [2025-10-30, 18:57:39](https://news.ycombinator.com/item?id=45763858) - [TruthWave – A platform for corporate whistleblowers](https://www.truthwave.com)
@@ -8,7 +9,6 @@
 * [2025-10-30, 17:45:53](https://news.ycombinator.com/item?id=45762837) - [Some people can't see mental images](https://www.newyorker.com/magazine/2025/11/03/some-people-cant-see-mental-images-the-consequences-are-profound)
 * [2025-10-30, 17:01:20](https://news.ycombinator.com/item?id=45762259) - [The ear does not do a Fourier transform](https://www.dissonances.blog/p/the-ear-does-not-do-a-fourier-transform)
 * [2025-10-30, 16:40:02](https://news.ycombinator.com/item?id=45762012) - [Launch HN: Propolis (YC X25) – Browser agents that QA your web app autonomously](https://app.propolis.tech/#/launch)
-* [2025-10-30, 16:23:56](https://news.ycombinator.com/item?id=45761789) - [Qt Creator 18 Released](https://www.qt.io/blog/qt-creator-18-released)
 * [2025-10-30, 15:54:38](https://news.ycombinator.com/item?id=45761445) - [Affinity Studio now free](https://www.affinity.studio/get-affinity)
 * [2025-10-30, 15:21:46](https://news.ycombinator.com/item?id=45761042) - [ZOZO's Contact Solver for physics-based simulations](https://github.com/st-tech/ppf-contact-solver)
 * [2025-10-30, 15:20:37](https://news.ycombinator.com/item?id=45761027) - [PlanetScale Offering $5 Databases](https://planetscale.com/blog/5-dollar-planetscale)
