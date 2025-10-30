@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-10-30](index.md)
 
+* [2025-10-30, 13:38:40](https://news.ycombinator.com/item?id=45759922) - [3D solar tower increases capacity factor 50%, triples solar surface area](https://www.pv-magazine.com/2025/10/27/3d-solar-tower-increases-capacity-factor-50-triples-solar-surface-area/)
 * [2025-10-30, 13:10:03](https://news.ycombinator.com/item?id=45759649) - [Estimating the Perceived 'Claustrophobia' of New York City's Streets](http://mfranchi.net/posts/claustrophobic-streets/)
 * [2025-10-30, 11:33:55](https://news.ycombinator.com/item?id=45758874) - [Alphabet tops $100B quarterly revenue for first time, cloud grows 34%](https://www.cnbc.com/2025/10/29/alphabet-google-q3-earnings.html)
 * [2025-10-30, 10:39:21](https://news.ycombinator.com/item?id=45758421) - [Show HN: In a single HTML file, an app to encourage my children to invest](https://roberdam.com/en/dinversiones.html)

@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-10-30, 13:10:03](https://news.ycombinator.com/item?id=45759649) - [Estimating the Perceived 'Claustrophobia' of New York City's Streets](http://mfranchi.net/posts/claustrophobic-streets/)
-* [2025-10-30, 11:33:55](https://news.ycombinator.com/item?id=45758874) - [Alphabet tops $100B quarterly revenue for first time, cloud grows 34%](https://www.cnbc.com/2025/10/29/alphabet-google-q3-earnings.html)
+* [2025-10-30, 13:38:40](https://news.ycombinator.com/item?id=45759922) - [3D solar tower increases capacity factor 50%, triples solar surface area](https://www.pv-magazine.com/2025/10/27/3d-solar-tower-increases-capacity-factor-50-triples-solar-surface-area/)
+* [2025-10-30, 13:10:03](https://news.ycombinator.com/item?id=45759649) - [Estimating the Perceived 'Claustrophobia' of New York City's Streets (2024)](http://mfranchi.net/posts/claustrophobic-streets/)
 * [2025-10-30, 10:39:21](https://news.ycombinator.com/item?id=45758421) - [Show HN: In a single HTML file, an app to encourage my children to invest](https://roberdam.com/en/dinversiones.html)
 * [2025-10-30, 09:47:24](https://news.ycombinator.com/item?id=45758093) - [Language models are injective and hence invertible](https://arxiv.org/abs/2510.15511)
 * [2025-10-30, 04:29:45](https://news.ycombinator.com/item?id=45756445) - [Carlo Rovelli’s radical perspective on reality](https://www.quantamagazine.org/carlo-rovellis-radical-perspective-on-reality-20251029/)
@@ -26,9 +26,9 @@
 * [2025-10-28, 02:00:58](https://news.ycombinator.com/item?id=45728525) - [GLP-1 therapeutics: Their emerging role in alcohol and substance use disorders](https://academic.oup.com/jes/article/9/11/bvaf141/8277723?login=false)
 * [2025-10-26, 15:22:16](https://news.ycombinator.com/item?id=45712620) - [987654321 / 123456789](https://www.johndcook.com/blog/2025/10/26/987654321/)
 * [2025-10-26, 13:13:54](https://news.ycombinator.com/item?id=45711577) - [How ancient people saw themselves](https://worldhistory.substack.com/p/how-ancient-people-saw-themselves)
-* [2025-10-25, 11:40:09](https://news.ycombinator.com/item?id=45703059) - [Iommi – your first pick for a Django power chord](https://iommi.rocks/)
 * [2025-10-24, 18:12:10](https://news.ycombinator.com/item?id=45697450) - [Typst's Math Mode Problem](https://laurmaedje.github.io/posts/math-mode-problem/)
 * [2025-10-23, 15:58:49](https://news.ycombinator.com/item?id=45683380) - [Spinning Up an Onion Mirror Is Stupid Easy](https://flower.codes/2025/10/23/onion-mirror.html)
+* [2025-10-23, 12:42:23](https://news.ycombinator.com/item?id=45681156) - [NaN, the not-a-number number that isn't NaN](https://piccalil.li/blog/nan-the-not-a-number-number-that-isnt-nan/)
 * [2025-10-23, 12:23:34](https://news.ycombinator.com/item?id=45681023) - [Some Smalltalk about Ruby Loops](https://tech.stonecharioteer.com/posts/2025/ruby-loops/)
 
 ## [Archives](archives/index.md)

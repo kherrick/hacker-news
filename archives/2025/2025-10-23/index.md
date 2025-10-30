@@ -58,6 +58,7 @@
 * [2025-10-23, 13:03:13](https://news.ycombinator.com/item?id=45681326) - [Casey Muratori: I can always tell a good programmer in an interview](https://www.gethopp.app/blog/how-to-conduct-good-programming-interviews)
 * [2025-10-23, 12:56:48](https://news.ycombinator.com/item?id=45681269) - [Why China is winning the trade war](https://www.economist.com/leaders/2025/10/23/why-china-is-winning-the-trade-war)
 * [2025-10-23, 12:47:41](https://news.ycombinator.com/item?id=45681200) - [I spent a year of my life making an ASN.1 compiler in D](https://bradley.chatha.dev/blog/dlang-propaganda/asn1-compiler-in-d/)
+* [2025-10-23, 12:42:23](https://news.ycombinator.com/item?id=45681156) - [NaN, the not-a-number number that isn't NaN](https://piccalil.li/blog/nan-the-not-a-number-number-that-isnt-nan/)
 * [2025-10-23, 12:40:57](https://news.ycombinator.com/item?id=45681147) - [US probes Alphabet unit Waymo robotaxis over school bus safety](https://www.yahoo.com/news/articles/us-investigates-waymo-robotaxis-over-102015308.html)
 * [2025-10-23, 12:23:34](https://news.ycombinator.com/item?id=45681023) - [Some Smalltalk about Ruby Loops](https://tech.stonecharioteer.com/posts/2025/ruby-loops/)
 * [2025-10-23, 12:11:27](https://news.ycombinator.com/item?id=45680937) - [Show HN: Deta Surf – An open source and local-first AI notebook](https://github.com/deta/surf)
