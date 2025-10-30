@@ -181,16 +181,6 @@
   ],
   [
     [
-      "2025-10-29, 05:17:49",
-      "https://news.ycombinator.com/item?id=45742907"
-    ],
-    [
-      "Who needs Graphviz when you can build it yourself?",
-      "https://spidermonkey.dev/blog/2025/10/28/iongraph-web.html"
-    ]
-  ],
-  [
-    [
       "2025-10-29, 04:03:41",
       "https://news.ycombinator.com/item?id=45742488"
     ],
@@ -247,6 +237,16 @@
     [
       "More than DNS: Learnings from the 14 hour AWS outage",
       "https://thundergolfer.com/blog/aws-us-east-1-outage-oct20"
+    ]
+  ],
+  [
+    [
+      "2025-10-27, 11:38:00",
+      "https://news.ycombinator.com/item?id=45719805"
+    ],
+    [
+      "Isomorphic JS/TS Functions Orchestrator",
+      "https://github.com/damianofalcioni/js-functions-orchestrator"
     ]
   ],
   [
