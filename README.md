@@ -24,10 +24,10 @@
 * [2025-10-29, 04:03:41](https://news.ycombinator.com/item?id=45742488) - [Keep Android Open](http://keepandroidopen.org/)
 * [2025-10-29, 03:58:57](https://news.ycombinator.com/item?id=45742456) - [Board: New game console recognizes physical pieces, with an open SDK](https://board.fun/)
 * [2025-10-28, 13:42:44](https://news.ycombinator.com/item?id=45732800) - [China has added forest the size of Texas since 1990](https://e360.yale.edu/digest/china-new-forest-report)
+* [2025-10-28, 12:19:38](https://news.ycombinator.com/item?id=45731848) - [Tailscale Services](https://tailscale.com/blog/services-beta)
 * [2025-10-28, 02:00:58](https://news.ycombinator.com/item?id=45728525) - [GLP-1 therapeutics: Their emerging role in alcohol and substance use disorders](https://academic.oup.com/jes/article/9/11/bvaf141/8277723?login=false)
 * [2025-10-27, 16:27:50](https://news.ycombinator.com/item?id=45722896) - [How blocks are chained in a blockchain](https://www.johndcook.com/blog/2025/10/27/blockchain/)
 * [2025-10-27, 15:56:46](https://news.ycombinator.com/item?id=45722471) - [More than DNS: Learnings from the 14 hour AWS outage](https://thundergolfer.com/blog/aws-us-east-1-outage-oct20)
-* [2025-10-26, 20:39:33](https://news.ycombinator.com/item?id=45715026) - [Using Atomic State to Improve React Performance in Deeply Nested Component Trees](https://runharbor.com/blog/2025-10-26-improving-deeply-nested-react-render-performance-with-jotai-atomic-state)
 * [2025-10-26, 13:13:54](https://news.ycombinator.com/item?id=45711577) - [How Ancient People Saw Themselves](https://worldhistory.substack.com/p/how-ancient-people-saw-themselves)
 * [2025-10-22, 16:36:25](https://news.ycombinator.com/item?id=45671677) - [Eye prosthesis is the first to restore sight lost to macular degeneration](https://med.stanford.edu/news/all-news/2025/10/eye-prosthesis.html)
 
