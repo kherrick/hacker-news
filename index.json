@@ -15,8 +15,18 @@
       "https://news.ycombinator.com/item?id=45763858"
     ],
     [
-      "TruthWave – A Platform for Corporate Whistleblowers",
+      "TruthWave – A platform for corporate whistleblowers",
       "https://www.truthwave.com"
+    ]
+  ],
+  [
+    [
+      "2025-10-30, 18:50:11",
+      "https://news.ycombinator.com/item?id=45763769"
+    ],
+    [
+      "Taking money off the table",
+      "https://zachholman.com/posts/money-off-the-table"
     ]
   ],
   [
@@ -141,6 +151,16 @@
   ],
   [
     [
+      "2025-10-30, 13:10:03",
+      "https://news.ycombinator.com/item?id=45759649"
+    ],
+    [
+      "Estimating the perceived 'claustrophobia' of New York City's streets (2024)",
+      "http://mfranchi.net/posts/claustrophobic-streets/"
+    ]
+  ],
+  [
+    [
       "2025-10-30, 10:39:21",
       "https://news.ycombinator.com/item?id=45758421"
     ],
@@ -151,22 +171,22 @@
   ],
   [
     [
-      "2025-10-29, 16:12:56",
-      "https://news.ycombinator.com/item?id=45748879"
+      "2025-10-30, 00:37:33",
+      "https://news.ycombinator.com/item?id=45755027"
     ],
     [
-      "Minecraft removing obfuscation in Java Edition",
-      "https://www.minecraft.net/en-us/article/removing-obfuscation-in-java-edition"
+      "NPM flooded with malicious packages downloaded more than 86k times",
+      "https://arstechnica.com/security/2025/10/npm-flooded-with-malicious-packages-downloaded-more-than-86000-times/"
     ]
   ],
   [
     [
-      "2025-10-29, 16:01:18",
-      "https://news.ycombinator.com/item?id=45748661"
+      "2025-10-29, 19:32:00",
+      "https://news.ycombinator.com/item?id=45751868"
     ],
     [
-      "Tell HN: Azure outage",
-      "https://news.ycombinator.com/item?id=45748661"
+      "Independently verifying Go's reproducible builds",
+      "https://www.agwa.name/blog/post/verifying_go_reproducible_builds"
     ]
   ],
   [
@@ -251,16 +271,6 @@
   ],
   [
     [
-      "2025-10-25, 08:37:20",
-      "https://news.ycombinator.com/item?id=45702252"
-    ],
-    [
-      "Acronymy (Can we define every word as an acronym?)",
-      "https://acronymy.net/"
-    ]
-  ],
-  [
-    [
       "2025-10-24, 23:35:53",
       "https://news.ycombinator.com/item?id=45700165"
     ],
@@ -271,22 +281,12 @@
   ],
   [
     [
-      "2025-10-24, 18:12:10",
-      "https://news.ycombinator.com/item?id=45697450"
+      "2025-10-24, 12:42:31",
+      "https://news.ycombinator.com/item?id=45694032"
     ],
     [
-      "Typst's Math Mode Problem",
-      "https://laurmaedje.github.io/posts/math-mode-problem/"
-    ]
-  ],
-  [
-    [
-      "2025-10-23, 15:58:49",
-      "https://news.ycombinator.com/item?id=45683380"
-    ],
-    [
-      "Spinning Up an Onion Mirror Is Stupid Easy",
-      "https://flower.codes/2025/10/23/onion-mirror.html"
+      "Show HN: Run a GitHub Actions step in a gVisor sandbox",
+      "https://github.com/geomys/sandboxed-step"
     ]
   ],
   [
