@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-10-30](index.md)
 
 * [2025-10-30, 11:33:55](https://news.ycombinator.com/item?id=45758874) - [Alphabet tops $100B quarterly revenue for first time, cloud grows 34%](https://www.cnbc.com/2025/10/29/alphabet-google-q3-earnings.html)
+* [2025-10-30, 10:39:21](https://news.ycombinator.com/item?id=45758421) - [Show HN: In a single HTML file, an app to encourage my children to invest](https://roberdam.com/en/dinversiones.html)
 * [2025-10-30, 10:23:03](https://news.ycombinator.com/item?id=45758318) - [Trump directs nuclear weapons testing to resume for first time in over 30 years](https://www.bbc.com/news/articles/c4gzq2p0yk4o)
 * [2025-10-30, 09:47:24](https://news.ycombinator.com/item?id=45758093) - [Language Models Are Injective and Hence Invertible](https://arxiv.org/abs/2510.15511)
 * [2025-10-30, 04:29:45](https://news.ycombinator.com/item?id=45756445) - [Carlo Rovelli: 'Time Is an Illusion'](https://www.quantamagazine.org/carlo-rovellis-radical-perspective-on-reality-20251029/)
