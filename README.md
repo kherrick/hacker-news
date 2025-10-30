@@ -4,6 +4,7 @@
 * [2025-10-30, 21:35:42](https://news.ycombinator.com/item?id=45765664) - [Denmark reportedly withdraws Chat Control proposal following controversy](https://therecord.media/demark-reportedly-withdraws-chat-control-proposal)
 * [2025-10-30, 21:27:17](https://news.ycombinator.com/item?id=45765596) - [If a pilot ejects, what is the autopilot programmed to do? (2018)](https://aviation.stackexchange.com/questions/52862/if-a-pilot-ejects-what-is-the-autopilot-programmed-to-do)
 * [2025-10-30, 21:03:46](https://news.ycombinator.com/item?id=45765328) - [Show HN: ekoAcademic – Convert ArXiv papers to interactive podcasts](https://www.wadamczyk.io/projects/ekoacademic/index.html)
+* [2025-10-30, 19:30:48](https://news.ycombinator.com/item?id=45764265) - [Show HN: Ellipticc Drive – open-source cloud drive with E2E and PQ encryption](https://ellipticc.com)
 * [2025-10-30, 18:59:02](https://news.ycombinator.com/item?id=45763877) - [Minecraft HDL, an HDL for Redstone](https://github.com/itsfrank/MinecraftHDL)
 * [2025-10-30, 18:57:39](https://news.ycombinator.com/item?id=45763858) - [TruthWave – A platform for corporate whistleblowers](https://www.truthwave.com)
 * [2025-10-30, 18:05:39](https://news.ycombinator.com/item?id=45763076) - [I have released a 69.0MB version of Windows 7 x86](https://twitter.com/XenoPanther/status/1983477707968291075)
@@ -29,7 +30,6 @@
 * [2025-10-26, 00:15:14](https://news.ycombinator.com/item?id=45707971) - [Learn Multiplatform Z80 Assembly Programming with Vampires](https://www.chibiakumas.com/z80/)
 * [2025-10-24, 12:42:31](https://news.ycombinator.com/item?id=45694032) - [Show HN: Run a GitHub Actions step in a gVisor sandbox](https://github.com/geomys/sandboxed-step)
 * [2025-10-23, 18:50:24](https://news.ycombinator.com/item?id=45685363) - [Show HN: Story Keeper – AI agents with narrative continuity instead of memory](https://github.com/neurobloomai/pact-ax)
-* [2025-10-23, 00:44:27](https://news.ycombinator.com/item?id=45676941) - [Tweakcc](https://github.com/Piebald-AI/tweakcc)
 
 ## [Archives](archives/index.md)
 
