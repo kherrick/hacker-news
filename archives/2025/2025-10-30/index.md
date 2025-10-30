@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-10-30](index.md)
 
+* [2025-10-30, 18:23:09](https://news.ycombinator.com/item?id=45763327) - [GooglePlay reports latest F-Droid version of Aves Libre as potential malware](https://github.com/deckerst/aves/issues/1802)
+* [2025-10-30, 18:19:12](https://news.ycombinator.com/item?id=45763267) - [SF neighborhood mourns loss of bodega cat allegedly killed by Waymo](https://www.sfgate.com/local/article/sf-neighborhood-mourns-cat-waymo-21127713.php)
+* [2025-10-30, 18:05:39](https://news.ycombinator.com/item?id=45763076) - [I have released a 69.0MB version of Windows 7 x86](https://twitter.com/XenoPanther/status/1983477707968291075)
 * [2025-10-30, 17:04:53](https://news.ycombinator.com/item?id=45762307) - [Ex-Mossad chief brags Israel has installed a global sabotage network](https://www.middleeastmonitor.com/20251030-ex-mossad-chief-behind-icj-blackmail-campaign-brags-israel-has-installed-a-global-sabotage-network/)
 * [2025-10-30, 17:01:20](https://news.ycombinator.com/item?id=45762259) - [The ear does not do a Fourier transform](https://www.dissonances.blog/p/the-ear-does-not-do-a-fourier-transform)
 * [2025-10-30, 16:50:19](https://news.ycombinator.com/item?id=45762136) - [Moderna, the company that helped save the world, has unraveled](https://www.statnews.com/2025/10/30/moderna-rise-fall-biotech-analysis-from-pandemic-rise-to-mrna-crash/)
