@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-10-24](index.md)
 
+* [2025-10-24, 23:35:53](https://news.ycombinator.com/item?id=45700165) - [UDP Isn't Unreliable, It's a Convertible](https://www.proxylity.com/articles/udp-is-a-convertible.html)
 * [2025-10-24, 23:18:14](https://news.ycombinator.com/item?id=45700078) - [Powerful and precise multi-color lasers now fit on a single chip](https://phys.org/news/2025-10-powerful-precise-multi-lasers-chip.html)
 * [2025-10-24, 23:07:21](https://news.ycombinator.com/item?id=45700008) - [The Peter Principle and exploiting overconfident workers](https://marginalrevolution.com/marginalrevolution/2025/10/the-peter-principle-and-exploiting-overconfident-workers.html)
 * [2025-10-24, 22:23:50](https://news.ycombinator.com/item?id=45699725) - [New OSM file format: 30% smaller than PBF, 5x faster to import](https://community.openstreetmap.org/t/new-osm-file-format-30-smaller-than-pbf-5x-faster-to-import/137151)

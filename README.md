@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-10-30, 17:04:53](https://news.ycombinator.com/item?id=45762307) - [Ex-Mossad chief brags Israel has installed a global sabotage network](https://www.middleeastmonitor.com/20251030-ex-mossad-chief-behind-icj-blackmail-campaign-brags-israel-has-installed-a-global-sabotage-network/)
 * [2025-10-30, 17:01:20](https://news.ycombinator.com/item?id=45762259) - [The ear does not do a Fourier transform](https://www.dissonances.blog/p/the-ear-does-not-do-a-fourier-transform)
 * [2025-10-30, 16:50:19](https://news.ycombinator.com/item?id=45762136) - [Moderna, the company that helped save the world, has unraveled](https://www.statnews.com/2025/10/30/moderna-rise-fall-biotech-analysis-from-pandemic-rise-to-mrna-crash/)
 * [2025-10-30, 16:40:02](https://news.ycombinator.com/item?id=45762012) - [Launch HN: Propolis (YC X25) – Browser agents that QA your web app autonomously](https://app.propolis.tech/#/launch)
@@ -25,6 +24,7 @@
 * [2025-10-26, 13:13:54](https://news.ycombinator.com/item?id=45711577) - [How ancient people saw themselves](https://worldhistory.substack.com/p/how-ancient-people-saw-themselves)
 * [2025-10-25, 10:57:51](https://news.ycombinator.com/item?id=45702831) - [Frozen DuckLakes for Multi-User, Serverless Data Access](https://ducklake.select/2025/10/24/frozen-ducklake/)
 * [2025-10-25, 08:37:20](https://news.ycombinator.com/item?id=45702252) - [Acronymy (Can we define every word as an acronym?)](https://acronymy.net/)
+* [2025-10-24, 23:35:53](https://news.ycombinator.com/item?id=45700165) - [UDP Isn't Unreliable, It's a Convertible](https://www.proxylity.com/articles/udp-is-a-convertible.html)
 * [2025-10-24, 18:12:10](https://news.ycombinator.com/item?id=45697450) - [Typst's Math Mode Problem](https://laurmaedje.github.io/posts/math-mode-problem/)
 * [2025-10-24, 05:47:37](https://news.ycombinator.com/item?id=45691218) - [The Aesthete's Progress](https://sydneyreviewofbooks.com/essays/the-aesthetes-progress)
 * [2025-10-23, 15:58:49](https://news.ycombinator.com/item?id=45683380) - [Spinning Up an Onion Mirror Is Stupid Easy](https://flower.codes/2025/10/23/onion-mirror.html)
