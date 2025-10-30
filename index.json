@@ -241,6 +241,16 @@
   ],
   [
     [
+      "2025-10-28, 12:19:38",
+      "https://news.ycombinator.com/item?id=45731848"
+    ],
+    [
+      "Tailscale Services",
+      "https://tailscale.com/blog/services-beta"
+    ]
+  ],
+  [
+    [
       "2025-10-28, 02:00:58",
       "https://news.ycombinator.com/item?id=45728525"
     ],
@@ -267,16 +277,6 @@
     [
       "More than DNS: Learnings from the 14 hour AWS outage",
       "https://thundergolfer.com/blog/aws-us-east-1-outage-oct20"
-    ]
-  ],
-  [
-    [
-      "2025-10-26, 20:39:33",
-      "https://news.ycombinator.com/item?id=45715026"
-    ],
-    [
-      "Using Atomic State to Improve React Performance in Deeply Nested Component Trees",
-      "https://runharbor.com/blog/2025-10-26-improving-deeply-nested-react-render-performance-with-jotai-atomic-state"
     ]
   ],
   [
