@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-10-30, 04:29:45](https://news.ycombinator.com/item?id=45756445) - [Carlo Rovelli’s radical perspective on reality](https://www.quantamagazine.org/carlo-rovellis-radical-perspective-on-reality-20251029/)
-* [2025-10-30, 02:48:21](https://news.ycombinator.com/item?id=45755911) - [One year with Next.js App Router and why we're moving on](https://paperclover.net/blog/webdev/one-year-next-app-router)
 * [2025-10-30, 02:37:35](https://news.ycombinator.com/item?id=45755821) - [Hello-World iOS App in Assembly](https://gist.github.com/nicolas17/966a03ce49f949dd17b0123415ef2e31)
 * [2025-10-30, 02:31:43](https://news.ycombinator.com/item?id=45755788) - [IRCd service (2024)](https://example.fi/blog/ircd.html)
 * [2025-10-29, 23:52:09](https://news.ycombinator.com/item?id=45754660) - [OS/2 Warp, PowerPC Edition (2011)](https://www.os2museum.com/wp/os2-history/os2-warp-powerpc-edition/)
@@ -9,6 +8,7 @@
 * [2025-10-29, 23:21:51](https://news.ycombinator.com/item?id=45754439) - [Raspberry Pi Pico Bit-Bangs 100 Mbit/S Ethernet](https://www.elektormagazine.com/news/rp2350-bit-bangs-100-mbit-ethernet)
 * [2025-10-29, 23:17:02](https://news.ycombinator.com/item?id=45754390) - [A century of reforestation helped keep the eastern US cool (2024)](https://news.agu.org/press-release/a-century-of-reforestation-helped-keep-the-eastern-us-cool/)
 * [2025-10-29, 21:22:50](https://news.ycombinator.com/item?id=45753222) - [How the U.S. National Science Foundation enabled Software-Defined Networking](https://cacm.acm.org/federal-funding-of-academic-research/how-the-u-s-national-science-foundation-enabled-software-defined-networking/)
+* [2025-10-29, 19:39:57](https://news.ycombinator.com/item?id=45751995) - [How to Obsessively Tune WezTerm](https://rashil2000.me/blogs/tune-wezterm)
 * [2025-10-29, 18:57:29](https://news.ycombinator.com/item?id=45751400) - [Uv is the best thing to happen to the Python ecosystem in a decade](https://emily.space/posts/251023-uv)
 * [2025-10-29, 18:25:01](https://news.ycombinator.com/item?id=45750995) - [Extropic is building thermodynamic computing hardware](https://extropic.ai/)
 * [2025-10-29, 18:21:35](https://news.ycombinator.com/item?id=45750954) - [Dithering – Part 1](https://visualrambling.space/dithering-part-1/)
