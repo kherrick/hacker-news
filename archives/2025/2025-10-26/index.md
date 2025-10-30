@@ -34,6 +34,7 @@
 * [2025-10-26, 13:41:32](https://news.ycombinator.com/item?id=45711805) - [Mapping Underground Structures with 3D Scans](https://wilkinson.graphics/blog/2025-10-25-3d-mapping/)
 * [2025-10-26, 13:38:30](https://news.ycombinator.com/item?id=45711786) - [The FSF considers large language models](https://lwn.net/Articles/1040888/)
 * [2025-10-26, 13:17:40](https://news.ycombinator.com/item?id=45711598) - [Falcon: A Reliable, Low Latency Hardware Transport](https://dl.acm.org/doi/10.1145/3718958.3754353)
+* [2025-10-26, 13:13:54](https://news.ycombinator.com/item?id=45711577) - [How Ancient People Saw Themselves](https://worldhistory.substack.com/p/how-ancient-people-saw-themselves)
 * [2025-10-26, 12:34:36](https://news.ycombinator.com/item?id=45711279) - [Let's Help NetBSD Cross the Finish Line Before 2025 Ends](https://mail-index.netbsd.org/netbsd-users/2025/10/26/msg033327.html)
 * [2025-10-26, 12:09:02](https://news.ycombinator.com/item?id=45711094) - [You Should Feed the Bots](https://maurycyz.com/misc/the_cost_of_trash/)
 * [2025-10-26, 12:03:59](https://news.ycombinator.com/item?id=45711062) - [Formal Reasoning [pdf]](https://cs.ru.nl/~freek/courses/fr-2025/public/fr.pdf)
