@@ -15,7 +15,6 @@
 * [2025-10-29, 18:21:35](https://news.ycombinator.com/item?id=45750954) - [Dithering – Part 1](https://visualrambling.space/dithering-part-1/)
 * [2025-10-29, 18:16:07](https://news.ycombinator.com/item?id=45750875) - [The Internet runs on free and open source software and so does the DNS](https://www.icann.org/en/blogs/details/the-internet-runs-on-free-and-open-source-softwareand-so-does-the-dns-23-10-2025-en)
 * [2025-10-29, 17:44:34](https://news.ycombinator.com/item?id=45750425) - [OpenAI’s promise to stay in California helped clear the path for its IPO](https://www.wsj.com/tech/ai/openais-promise-to-stay-in-california-helped-clear-the-path-for-its-ipo-3af1c31c)
-* [2025-10-29, 17:00:15](https://news.ycombinator.com/item?id=45749690) - [Upwave (YC S12) is hiring software engineers](https://www.upwave.com/job/8228849002/)
 * [2025-10-29, 16:28:56](https://news.ycombinator.com/item?id=45749161) - [AOL to be sold to Bending Spoons for $1.5B](https://www.axios.com/2025/10/29/aol-bending-spoons-deal)
 * [2025-10-29, 16:21:36](https://news.ycombinator.com/item?id=45749017) - [Tailscale Peer Relays](https://tailscale.com/blog/peer-relays-beta)
 * [2025-10-29, 16:12:56](https://news.ycombinator.com/item?id=45748879) - [Minecraft removing obfuscation in Java Edition](https://www.minecraft.net/en-us/article/removing-obfuscation-in-java-edition)
@@ -29,6 +28,7 @@
 * [2025-10-27, 17:20:37](https://news.ycombinator.com/item?id=45723737) - [Why imperfection could be key to Turing patterns in nature](https://arstechnica.com/science/2025/10/why-imperfection-could-be-key-to-turing-patterns-in-nature/)
 * [2025-10-27, 15:56:46](https://news.ycombinator.com/item?id=45722471) - [More than DNS: Learnings from the 14 hour AWS outage](https://thundergolfer.com/blog/aws-us-east-1-outage-oct20)
 * [2025-10-26, 13:13:54](https://news.ycombinator.com/item?id=45711577) - [How ancient people saw themselves](https://worldhistory.substack.com/p/how-ancient-people-saw-themselves)
+* [2025-10-25, 22:50:04](https://news.ycombinator.com/item?id=45707591) - [Baker – Language-agnostic project scaffolder with hooks (Rust)](https://github.com/aliev/baker)
 * [2025-10-22, 16:36:25](https://news.ycombinator.com/item?id=45671677) - [Eye prosthesis is the first to restore sight lost to macular degeneration](https://med.stanford.edu/news/all-news/2025/10/eye-prosthesis.html)
 
 ## [Archives](archives/index.md)

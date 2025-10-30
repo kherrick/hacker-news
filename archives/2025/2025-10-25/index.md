@@ -6,6 +6,7 @@
 
 * [2025-10-25, 23:32:33](https://news.ycombinator.com/item?id=45707779) - [Sora might have a 'pervert' problem on its hands](https://www.businessinsider.com/sora-video-openai-fetish-content-my-face-problem-2025-10)
 * [2025-10-25, 23:04:23](https://news.ycombinator.com/item?id=45707658) - [The Linux Boot Process: From Power Button to Kernel](https://www.0xkato.xyz/linux-boot/)
+* [2025-10-25, 22:50:04](https://news.ycombinator.com/item?id=45707591) - [Baker – Language-agnostic project scaffolder with hooks (Rust)](https://github.com/aliev/baker)
 * [2025-10-25, 22:46:46](https://news.ycombinator.com/item?id=45707575) - [NewPipe Is Turning 10](https://newpipe.net/blog/pinned/announcement/newpipe-turns-10/)
 * [2025-10-25, 22:40:00](https://news.ycombinator.com/item?id=45707539) - [D2: Diagram Scripting Language](https://d2lang.com/tour/intro/)
 * [2025-10-25, 21:37:38](https://news.ycombinator.com/item?id=45707194) - [Belittled Magazine: Thirty years after the Sokal affair](https://thebaffler.com/salvos/belittled-magazine-robbins)
