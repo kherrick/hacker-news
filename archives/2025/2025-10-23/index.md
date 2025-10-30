@@ -59,6 +59,7 @@
 * [2025-10-23, 12:56:48](https://news.ycombinator.com/item?id=45681269) - [Why China is winning the trade war](https://www.economist.com/leaders/2025/10/23/why-china-is-winning-the-trade-war)
 * [2025-10-23, 12:47:41](https://news.ycombinator.com/item?id=45681200) - [I spent a year of my life making an ASN.1 compiler in D](https://bradley.chatha.dev/blog/dlang-propaganda/asn1-compiler-in-d/)
 * [2025-10-23, 12:40:57](https://news.ycombinator.com/item?id=45681147) - [US probes Alphabet unit Waymo robotaxis over school bus safety](https://www.yahoo.com/news/articles/us-investigates-waymo-robotaxis-over-102015308.html)
+* [2025-10-23, 12:23:34](https://news.ycombinator.com/item?id=45681023) - [Some Smalltalk about Ruby Loops](https://tech.stonecharioteer.com/posts/2025/ruby-loops/)
 * [2025-10-23, 12:11:27](https://news.ycombinator.com/item?id=45680937) - [Show HN: Deta Surf – An open source and local-first AI notebook](https://github.com/deta/surf)
 * [2025-10-23, 12:08:47](https://news.ycombinator.com/item?id=45680913) - [We tested 20 LLMs for ideological bias, revealing distinct alignments](https://anomify.ai/resources/articles/llm-bias)
 * [2025-10-23, 12:00:11](https://news.ycombinator.com/item?id=45680847) - [Nango (YC W23) is hiring Staff Back end Engs (remote)](https://www.nango.dev/careers)

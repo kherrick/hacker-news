@@ -2,7 +2,6 @@
 
 * [2025-10-30, 10:23:03](https://news.ycombinator.com/item?id=45758318) - [Trump directs nuclear weapons testing to resume for first time in over 30 years](https://www.bbc.com/news/articles/c4gzq2p0yk4o)
 * [2025-10-30, 09:47:24](https://news.ycombinator.com/item?id=45758093) - [Language Models Are Injective and Hence Invertible](https://arxiv.org/abs/2510.15511)
-* [2025-10-30, 04:29:45](https://news.ycombinator.com/item?id=45756445) - [Carlo Rovelli’s radical perspective on reality](https://www.quantamagazine.org/carlo-rovellis-radical-perspective-on-reality-20251029/)
 * [2025-10-30, 02:37:35](https://news.ycombinator.com/item?id=45755821) - [Hello-World iOS App in Assembly](https://gist.github.com/nicolas17/966a03ce49f949dd17b0123415ef2e31)
 * [2025-10-30, 02:31:43](https://news.ycombinator.com/item?id=45755788) - [IRCd service (2024)](https://example.fi/blog/ircd.html)
 * [2025-10-29, 23:52:09](https://news.ycombinator.com/item?id=45754660) - [OS/2 Warp, PowerPC Edition (2011)](https://www.os2museum.com/wp/os2-history/os2-warp-powerpc-edition/)
@@ -29,6 +28,7 @@
 * [2025-10-25, 11:40:09](https://news.ycombinator.com/item?id=45703059) - [Iommi – your first pick for a Django power chord](https://iommi.rocks/)
 * [2025-10-23, 16:44:32](https://news.ycombinator.com/item?id=45684008) - [Video‐rate tunable colour electronic paper with human resolution](https://www.nature.com/articles/s41586-025-09642-3#MOESM1)
 * [2025-10-23, 15:58:49](https://news.ycombinator.com/item?id=45683380) - [Spinning Up an Onion Mirror Is Stupid Easy](https://flower.codes/2025/10/23/onion-mirror.html)
+* [2025-10-23, 12:23:34](https://news.ycombinator.com/item?id=45681023) - [Some Smalltalk about Ruby Loops](https://tech.stonecharioteer.com/posts/2025/ruby-loops/)
 * [2025-10-22, 16:36:25](https://news.ycombinator.com/item?id=45671677) - [Eye prosthesis is the first to restore sight lost to macular degeneration](https://med.stanford.edu/news/all-news/2025/10/eye-prosthesis.html)
 
 ## [Archives](archives/index.md)
