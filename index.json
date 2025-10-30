@@ -41,16 +41,6 @@
   ],
   [
     [
-      "2025-10-30, 18:50:11",
-      "https://news.ycombinator.com/item?id=45763769"
-    ],
-    [
-      "Taking money off the table",
-      "https://zachholman.com/posts/money-off-the-table"
-    ]
-  ],
-  [
-    [
       "2025-10-30, 18:05:39",
       "https://news.ycombinator.com/item?id=45763076"
     ],
@@ -197,6 +187,16 @@
     [
       "Independently verifying Go's reproducible builds",
       "https://www.agwa.name/blog/post/verifying_go_reproducible_builds"
+    ]
+  ],
+  [
+    [
+      "2025-10-29, 15:49:18",
+      "https://news.ycombinator.com/item?id=45748484"
+    ],
+    [
+      "Replacing EBS and Rethinking Postgres Storage from First Principles",
+      "https://www.tigerdata.com/blog/fluid-storage-forkable-ephemeral-durable-infrastructure-age-of-agents"
     ]
   ],
   [
