@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-10-30, 21:27:17](https://news.ycombinator.com/item?id=45765596) - [If a pilot ejects, what is the autopilot programmed to do? (2018)](https://aviation.stackexchange.com/questions/52862/if-a-pilot-ejects-what-is-the-autopilot-programmed-to-do)
+* [2025-10-30, 21:03:46](https://news.ycombinator.com/item?id=45765328) - [Show HN: ekoAcademic – Convert ArXiv papers to interactive podcasts](https://www.wadamczyk.io/projects/ekoacademic/index.html)
 * [2025-10-30, 20:34:02](https://news.ycombinator.com/item?id=45764986) - [Apple reports fourth quarter results](https://www.apple.com/newsroom/2025/10/apple-reports-fourth-quarter-results/)
 * [2025-10-30, 18:59:02](https://news.ycombinator.com/item?id=45763877) - [Minecraft HDL, an HDL for Redstone](https://github.com/itsfrank/MinecraftHDL)
 * [2025-10-30, 18:57:39](https://news.ycombinator.com/item?id=45763858) - [TruthWave – A platform for corporate whistleblowers](https://www.truthwave.com)
@@ -14,12 +15,10 @@
 * [2025-10-30, 15:07:15](https://news.ycombinator.com/item?id=45760878) - [Free software scares normal people](https://danieldelaney.net/normal/)
 * [2025-10-30, 14:22:44](https://news.ycombinator.com/item?id=45760328) - [US declines to join more than 70 countries in signing UN cybercrime treaty](https://therecord.media/us-declines-signing-cybercrime-treaty?)
 * [2025-10-30, 14:21:58](https://news.ycombinator.com/item?id=45760321) - [Show HN: I made a heatmap diff viewer for code reviews](https://0github.com)
-* [2025-10-30, 13:10:03](https://news.ycombinator.com/item?id=45759649) - [Estimating the perceived 'claustrophobia' of New York City's streets (2024)](http://mfranchi.net/posts/claustrophobic-streets/)
 * [2025-10-30, 13:00:58](https://news.ycombinator.com/item?id=45759572) - [Jujutsu at Google [video]](https://www.youtube.com/watch?v=v9Ob5yPpC0A)
 * [2025-10-30, 10:39:21](https://news.ycombinator.com/item?id=45758421) - [Show HN: In a single HTML file, an app to encourage my children to invest](https://roberdam.com/en/dinversiones.html)
 * [2025-10-30, 00:37:33](https://news.ycombinator.com/item?id=45755027) - [NPM flooded with malicious packages downloaded more than 86k times](https://arstechnica.com/security/2025/10/npm-flooded-with-malicious-packages-downloaded-more-than-86000-times/)
 * [2025-10-29, 19:32:00](https://news.ycombinator.com/item?id=45751868) - [Independently verifying Go's reproducible builds](https://www.agwa.name/blog/post/verifying_go_reproducible_builds)
-* [2025-10-29, 15:49:18](https://news.ycombinator.com/item?id=45748484) - [Replacing EBS and Rethinking Postgres Storage from First Principles](https://www.tigerdata.com/blog/fluid-storage-forkable-ephemeral-durable-infrastructure-age-of-agents)
 * [2025-10-29, 13:20:03](https://news.ycombinator.com/item?id=45746482) - [Israel demanded Google and Amazon use secret 'wink' to sidestep legal orders](https://www.theguardian.com/us-news/2025/oct/29/google-amazon-israel-contract-secret-code)
 * [2025-10-29, 12:35:12](https://news.ycombinator.com/item?id=45746020) - [Zig's New Async I/O](https://andrewkelley.me/post/zig-new-async-io-text-version.html)
 * [2025-10-28, 18:01:46](https://news.ycombinator.com/item?id=45736461) - [Springs and bounces in native CSS](https://www.joshwcomeau.com/animation/linear-timing-function/)
@@ -29,6 +28,7 @@
 * [2025-10-26, 00:15:14](https://news.ycombinator.com/item?id=45707971) - [Learn Multiplatform Z80 Assembly Programming with Vampires](https://www.chibiakumas.com/z80/)
 * [2025-10-25, 10:57:51](https://news.ycombinator.com/item?id=45702831) - [Frozen DuckLakes for Multi-User, Serverless Data Access](https://ducklake.select/2025/10/24/frozen-ducklake/)
 * [2025-10-24, 12:42:31](https://news.ycombinator.com/item?id=45694032) - [Show HN: Run a GitHub Actions step in a gVisor sandbox](https://github.com/geomys/sandboxed-step)
+* [2025-10-23, 18:50:24](https://news.ycombinator.com/item?id=45685363) - [Show HN: Story Keeper – AI agents with narrative continuity instead of memory](https://github.com/neurobloomai/pact-ax)
 * [2025-10-23, 00:44:27](https://news.ycombinator.com/item?id=45676941) - [Tweakcc](https://github.com/Piebald-AI/tweakcc)
 
 ## [Archives](archives/index.md)

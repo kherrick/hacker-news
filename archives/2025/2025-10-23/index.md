@@ -22,6 +22,7 @@
 * [2025-10-23, 19:43:44](https://news.ycombinator.com/item?id=45686083) - [The Muscular Compassion of \"Paper Girl\"](https://www.newyorker.com/books/page-turner/the-muscular-compassion-of-paper-girl)
 * [2025-10-23, 19:24:04](https://news.ycombinator.com/item?id=45685793) - [Show HN: OpenSnowcat – A fork of Snowplow to keep open analytics alive](https://opensnowcat.io/)
 * [2025-10-23, 19:05:24](https://news.ycombinator.com/item?id=45685551) - [What Happened to Apple's Legendary Attention to Detail?](https://blog.johnozbay.com/what-happened-to-apples-attention-to-detail.html)
+* [2025-10-23, 18:50:24](https://news.ycombinator.com/item?id=45685363) - [Show HN: Story Keeper – AI agents with narrative continuity instead of memory](https://github.com/neurobloomai/pact-ax)
 * [2025-10-23, 18:15:45](https://news.ycombinator.com/item?id=45685007) - [Can \"second life\" EV batteries work as grid-scale energy storage?](https://www.volts.wtf/p/can-second-life-ev-batteries-work)
 * [2025-10-23, 18:09:37](https://news.ycombinator.com/item?id=45684934) - [Armed police swarm student after AI mistakes bag of Doritos for a weapon](https://www.dexerto.com/entertainment/armed-police-swarm-student-after-ai-mistakes-bag-of-doritos-for-a-weapon-3273512/)
 * [2025-10-23, 17:52:18](https://news.ycombinator.com/item?id=45684736) - [OpenMaxIO is a community-maintained fork of MinIO](https://github.com/OpenMaxIO/openmaxio-object-browser)
