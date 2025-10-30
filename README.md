@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-10-30, 11:33:55](https://news.ycombinator.com/item?id=45758874) - [Alphabet tops $100B quarterly revenue for first time, cloud grows 34%](https://www.cnbc.com/2025/10/29/alphabet-google-q3-earnings.html)
 * [2025-10-30, 09:47:24](https://news.ycombinator.com/item?id=45758093) - [Language Models Are Injective and Hence Invertible](https://arxiv.org/abs/2510.15511)
 * [2025-10-30, 02:37:35](https://news.ycombinator.com/item?id=45755821) - [Hello-World iOS App in Assembly](https://gist.github.com/nicolas17/966a03ce49f949dd17b0123415ef2e31)
 * [2025-10-30, 02:31:43](https://news.ycombinator.com/item?id=45755788) - [IRCd service (2024)](https://example.fi/blog/ircd.html)
@@ -14,7 +15,6 @@
 * [2025-10-29, 16:28:56](https://news.ycombinator.com/item?id=45749161) - [AOL to be sold to Bending Spoons for $1.5B](https://www.axios.com/2025/10/29/aol-bending-spoons-deal)
 * [2025-10-29, 16:21:36](https://news.ycombinator.com/item?id=45749017) - [Tailscale Peer Relays](https://tailscale.com/blog/peer-relays-beta)
 * [2025-10-29, 16:12:56](https://news.ycombinator.com/item?id=45748879) - [Minecraft removing obfuscation in Java Edition](https://www.minecraft.net/en-us/article/removing-obfuscation-in-java-edition)
-* [2025-10-29, 16:04:33](https://news.ycombinator.com/item?id=45748725) - [Composer: Building a fast frontier model with RL](https://cursor.com/blog/composer)
 * [2025-10-29, 16:01:18](https://news.ycombinator.com/item?id=45748661) - [Tell HN: Azure outage](https://news.ycombinator.com/item?id=45748661)
 * [2025-10-29, 14:06:01](https://news.ycombinator.com/item?id=45747018) - [Kafka is Fast – I'll use Postgres](https://topicpartition.io/blog/postgres-pubsub-queue-benchmarks)
 * [2025-10-29, 05:17:49](https://news.ycombinator.com/item?id=45742907) - [Who needs Graphviz when you can build it yourself?](https://spidermonkey.dev/blog/2025/10/28/iongraph-web.html)
