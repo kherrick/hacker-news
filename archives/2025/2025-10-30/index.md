@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-10-30](index.md)
 
+* [2025-10-30, 16:40:02](https://news.ycombinator.com/item?id=45762012) - [Launch HN: Propolis (YC X25) – Browser agents that QA your web app autonomously](https://app.propolis.tech/#/launch)
 * [2025-10-30, 16:23:56](https://news.ycombinator.com/item?id=45761789) - [Qt Creator 18 Released](https://www.qt.io/blog/qt-creator-18-released)
 * [2025-10-30, 16:13:19](https://news.ycombinator.com/item?id=45761659) - [Affinity by Canva](https://www.affinity.studio/)
 * [2025-10-30, 15:54:38](https://news.ycombinator.com/item?id=45761445) - [Affinity Studio Now Free](https://www.affinity.studio/get-affinity)
