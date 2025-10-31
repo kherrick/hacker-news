@@ -1,7 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-10-31, 14:47:41](https://news.ycombinator.com/item?id=45772558) - [Warp Terminal changes pricing model](https://www.warp.dev/blog/warp-new-pricing-flexibility-byok)
+* [2025-10-31, 14:28:35](https://news.ycombinator.com/item?id=45772347) - [Nix Derivation Madness](https://fzakaria.com/2025/10/29/nix-derivation-madness)
 * [2025-10-31, 14:16:17](https://news.ycombinator.com/item?id=45772236) - [Can we talk about the rude installers not asking for installation locations?](https://news.ycombinator.com/item?id=45772236)
 * [2025-10-31, 14:15:12](https://news.ycombinator.com/item?id=45772224) - [Nim 2.2.6](https://nim-lang.org//blog/2025/10/31/nim-226.html)
+* [2025-10-31, 14:09:04](https://news.ycombinator.com/item?id=45772153) - [Rotating Workforce Scheduling in MiniZinc](https://zayenz.se/blog/post/rotating-workforce-scheduling/)
 * [2025-10-31, 13:59:25](https://news.ycombinator.com/item?id=45772064) - [Immutable releases are now generally available on GitHub](https://github.blog/changelog/2025-10-28-immutable-releases-are-now-generally-available/)
 * [2025-10-31, 13:37:10](https://news.ycombinator.com/item?id=45771843) - [Git CLI tool for intelligently creating branch names](https://github.com/ytreister/gibr)
 * [2025-10-31, 13:32:08](https://news.ycombinator.com/item?id=45771796) - [Sustainable memristors from shiitake mycelium for high-frequency bioelectronics](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0328965)
@@ -12,7 +15,6 @@
 * [2025-10-31, 09:23:41](https://news.ycombinator.com/item?id=45769971) - [Reasoning Models Reason Well, Until They Don't](https://arxiv.org/abs/2510.22371)
 * [2025-10-31, 03:07:48](https://news.ycombinator.com/item?id=45767916) - [AMD Could Enter ARM Market with Sound Wave APU Built on TSMC 3nm Process](https://www.guru3d.com/story/amd-enters-arm-market-with-sound-wave-apu-built-on-tsmc-3nm-process/)
 * [2025-10-31, 02:34:36](https://news.ycombinator.com/item?id=45767725) - [John Carmack on mutable variables](https://twitter.com/id_aa_carmack/status/1983593511703474196)
-* [2025-10-31, 01:00:45](https://news.ycombinator.com/item?id=45767257) - [Roadmap for Improving the Type Checker](https://forums.swift.org/t/roadmap-for-improving-the-type-checker/82952)
 * [2025-10-31, 00:43:57](https://news.ycombinator.com/item?id=45767162) - [Show HN: Quibbler – A critic for your coding agent that learns what you want](https://github.com/fulcrumresearch/quibbler)
 * [2025-10-31, 00:07:36](https://news.ycombinator.com/item?id=45766937) - [Kimi Linear: An Expressive, Efficient Attention Architecture](https://github.com/MoonshotAI/Kimi-Linear)
 * [2025-10-30, 21:49:11](https://news.ycombinator.com/item?id=45765787) - [Phone numbers for use in TV shows, films and creative works](https://www.acma.gov.au/phone-numbers-use-tv-shows-films-and-creative-works)
@@ -25,9 +27,7 @@
 * [2025-10-26, 15:22:16](https://news.ycombinator.com/item?id=45712620) - [987654321 / 123456789](https://www.johndcook.com/blog/2025/10/26/987654321/)
 * [2025-10-25, 13:46:35](https://news.ycombinator.com/item?id=45703860) - [Wheels for free-threaded Python now available for psutil](https://gmpy.dev/blog/2025/wheels-for-free-threaded-python-now-available-in-psutil)
 * [2025-10-25, 11:40:58](https://news.ycombinator.com/item?id=45703063) - [Result is all I need](https://rockyj-blogs.web.app/2025/10/25/result-monad.html)
-* [2025-10-24, 11:55:59](https://news.ycombinator.com/item?id=45693698) - [In orbit you have to slow down to speed up](https://www.wired.com/story/in-orbit-you-have-to-slow-down-to-speed-up/)
 * [2025-10-24, 07:00:57](https://news.ycombinator.com/item?id=45691697) - [Bertie the Brain](https://en.wikipedia.org/wiki/Bertie_the_Brain)
-* [2025-10-23, 10:45:33](https://news.ycombinator.com/item?id=45680366) - [A classic graphic reveals nature's most efficient traveler](https://www.scientificamerican.com/article/a-human-on-a-bicycle-is-among-the-most-efficient-forms-of-travel-in-the/)
 * [2025-10-23, 09:43:52](https://news.ycombinator.com/item?id=45680023) - [Rouille – Rust Programming, in French](https://github.com/bnjbvr/rouille)
 * [2025-10-22, 16:12:16](https://news.ycombinator.com/item?id=45671336) - [A Closer Look at Piezoelectric Crystal](https://www.samaterials.com/content/a-closer-look-at-stressed-piezo-crystals.html)
 

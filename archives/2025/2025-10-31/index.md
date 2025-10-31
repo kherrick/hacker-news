@@ -4,8 +4,11 @@
 
 ### [Archives](../../index.md) for [2025-10-31](index.md)
 
+* [2025-10-31, 14:47:41](https://news.ycombinator.com/item?id=45772558) - [Warp Terminal changes pricing model](https://www.warp.dev/blog/warp-new-pricing-flexibility-byok)
+* [2025-10-31, 14:28:35](https://news.ycombinator.com/item?id=45772347) - [Nix Derivation Madness](https://fzakaria.com/2025/10/29/nix-derivation-madness)
 * [2025-10-31, 14:16:17](https://news.ycombinator.com/item?id=45772236) - [Can we talk about the rude installers not asking for installation locations?](https://news.ycombinator.com/item?id=45772236)
 * [2025-10-31, 14:15:12](https://news.ycombinator.com/item?id=45772224) - [Nim 2.2.6](https://nim-lang.org//blog/2025/10/31/nim-226.html)
+* [2025-10-31, 14:09:04](https://news.ycombinator.com/item?id=45772153) - [Rotating Workforce Scheduling in MiniZinc](https://zayenz.se/blog/post/rotating-workforce-scheduling/)
 * [2025-10-31, 13:59:25](https://news.ycombinator.com/item?id=45772064) - [Immutable releases are now generally available on GitHub](https://github.blog/changelog/2025-10-28-immutable-releases-are-now-generally-available/)
 * [2025-10-31, 13:37:10](https://news.ycombinator.com/item?id=45771843) - [Git CLI tool for intelligently creating branch names](https://github.com/ytreister/gibr)
 * [2025-10-31, 13:32:08](https://news.ycombinator.com/item?id=45771796) - [Sustainable memristors from shiitake mycelium for high-frequency bioelectronics](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0328965)
