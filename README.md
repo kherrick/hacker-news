@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-10-31, 18:16:10](https://news.ycombinator.com/item?id=45775000) - [The Hunger Games Begin](https://paulkrugman.substack.com/p/the-hunger-games-begin)
 * [2025-10-31, 17:49:16](https://news.ycombinator.com/item?id=45774724) - [x86 architecture 1 byte opcodes](https://www.sandpile.org/x86/opc_1.htm)
 * [2025-10-31, 17:42:55](https://news.ycombinator.com/item?id=45774640) - [Addiction Markets: Abolish Corporate-Run Gambling](https://www.thebignewsletter.com/p/addiction-markets-abolish-corporate)
 * [2025-10-31, 17:37:15](https://news.ycombinator.com/item?id=45774571) - [Use DuckDB-WASM to query TB of data in browser](https://lil.law.harvard.edu/blog/2025/10/24/rethinking-data-discovery-for-libraries-and-digital-humanities/)
@@ -27,6 +26,7 @@
 * [2025-10-28, 12:49:15](https://news.ycombinator.com/item?id=45732160) - [Floppy Disk / Diskettes // retrocmp / retro computing](https://retrocmp.de/fdd/diskette/diskette.htm)
 * [2025-10-25, 20:27:16](https://news.ycombinator.com/item?id=45706707) - [Lording it, over: A new history of the modern British aristocracy](https://newcriterion.com/article/lording-it-over/)
 * [2025-10-25, 13:46:35](https://news.ycombinator.com/item?id=45703860) - [Wheels for free-threaded Python now available for psutil](https://gmpy.dev/blog/2025/wheels-for-free-threaded-python-now-available-in-psutil)
+* [2025-10-25, 11:40:58](https://news.ycombinator.com/item?id=45703063) - [Result is all I need](https://rockyj-blogs.web.app/2025/10/25/result-monad.html)
 * [2025-10-25, 07:54:33](https://news.ycombinator.com/item?id=45702091) - [It's the \"hardware\", stupid](https://haebom.dev/archive?post=4w67rj24q76nrm5yq8ep)
 * [2025-10-24, 11:55:59](https://news.ycombinator.com/item?id=45693698) - [In orbit you have to slow down to speed up](https://www.wired.com/story/in-orbit-you-have-to-slow-down-to-speed-up/)
 * [2025-10-24, 07:00:57](https://news.ycombinator.com/item?id=45691697) - [Bertie the Brain](https://en.wikipedia.org/wiki/Bertie_the_Brain)
