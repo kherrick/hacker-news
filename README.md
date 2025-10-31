@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-10-31, 20:20:42](https://news.ycombinator.com/item?id=45776269) - [A theoretical way to circumvent Android developer verification](https://enaix.github.io/2025/10/30/developer-verification.html)
 * [2025-10-31, 19:16:05](https://news.ycombinator.com/item?id=45775642) - [How to build silos and decrease collaboration on purpose](https://www.rubick.com/how-to-build-silos-and-decrease-collaboration/)
 * [2025-10-31, 17:49:16](https://news.ycombinator.com/item?id=45774724) - [x86 architecture 1 byte opcodes](https://www.sandpile.org/x86/opc_1.htm)
 * [2025-10-31, 17:37:15](https://news.ycombinator.com/item?id=45774571) - [Use DuckDB-WASM to query TB of data in browser](https://lil.law.harvard.edu/blog/2025/10/24/rethinking-data-discovery-for-libraries-and-digital-humanities/)
@@ -7,7 +8,6 @@
 * [2025-10-31, 16:59:22](https://news.ycombinator.com/item?id=45774182) - [Just Use a Button](https://gomakethings.com/just-use-a-button/)
 * [2025-10-31, 16:49:26](https://news.ycombinator.com/item?id=45774086) - [Futurelock: A subtle risk in async Rust](https://rfd.shared.oxide.computer/rfd/0609)
 * [2025-10-31, 15:44:19](https://news.ycombinator.com/item?id=45773347) - [AI scrapers request commented scripts](https://cryptography.dog/blog/AI-scrapers-request-commented-scripts/)
-* [2025-10-31, 14:55:53](https://news.ycombinator.com/item?id=45772650) - [Show HN: Build your own Bracket City puzzle](https://builder.bracket.city)
 * [2025-10-31, 14:28:35](https://news.ycombinator.com/item?id=45772347) - [Nix Derivation Madness](https://fzakaria.com/2025/10/29/nix-derivation-madness)
 * [2025-10-31, 13:39:55](https://news.ycombinator.com/item?id=45771870) - [Ask HN: Who uses open LLMs and coding assistants locally? Share setup and laptop](https://news.ycombinator.com/item?id=45771870)
 * [2025-10-31, 13:32:08](https://news.ycombinator.com/item?id=45771796) - [Sustainable memristors from shiitake mycelium for high-frequency bioelectronics](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0328965)
@@ -27,7 +27,7 @@
 * [2025-10-29, 01:31:56](https://news.ycombinator.com/item?id=45741569) - [Hacking India's largest automaker: Tata Motors](https://eaton-works.com/2025/10/28/tata-motors-hack/)
 * [2025-10-28, 12:49:15](https://news.ycombinator.com/item?id=45732160) - [Floppy Disk / Diskettes // retrocmp / retro computing](https://retrocmp.de/fdd/diskette/diskette.htm)
 * [2025-10-27, 15:29:17](https://news.ycombinator.com/item?id=45722089) - [History's first public hack: rats, rats, rats](https://www.rigb.org/explore-science/explore/blog/historys-first-public-hack-rats-rats-rats)
-* [2025-10-25, 13:46:35](https://news.ycombinator.com/item?id=45703860) - [Wheels for free-threaded Python now available for psutil](https://gmpy.dev/blog/2025/wheels-for-free-threaded-python-now-available-in-psutil)
+* [2025-10-26, 11:23:59](https://news.ycombinator.com/item?id=45710875) - [Corrosion](https://fly.io/blog/corrosion/)
 * [2025-10-25, 07:54:33](https://news.ycombinator.com/item?id=45702091) - [It's the \"hardware\", stupid](https://haebom.dev/archive?post=4w67rj24q76nrm5yq8ep)
 * [2025-10-23, 13:22:15](https://news.ycombinator.com/item?id=45681514) - [The 1924 New Mexico regional banking panic](https://nodumbideas.com/p/labor-day-special-the-1924-new-mexico)
 

@@ -42,6 +42,7 @@
 * [2025-10-26, 12:03:59](https://news.ycombinator.com/item?id=45711062) - [Formal Reasoning [pdf]](https://cs.ru.nl/~freek/courses/fr-2025/public/fr.pdf)
 * [2025-10-26, 11:53:08](https://news.ycombinator.com/item?id=45711003) - [Lenses in Julia](https://juliaobjects.github.io/Accessors.jl/stable/lenses/)
 * [2025-10-26, 11:48:12](https://news.ycombinator.com/item?id=45710981) - [Hacking the World Poker Tour: Inside ClubWPT Gold's Back Office](https://samcurry.net/hacking-clubwpt-gold)
+* [2025-10-26, 11:23:59](https://news.ycombinator.com/item?id=45710875) - [Corrosion](https://fly.io/blog/corrosion/)
 * [2025-10-26, 11:18:41](https://news.ycombinator.com/item?id=45710843) - [My favorite cult sci-fi and fantasy books you may not have heard of before](https://shepherd.com/best-books/cult-sci-fi-and-fantasy-you-may-not-have-heard-of)
 * [2025-10-26, 10:53:37](https://news.ycombinator.com/item?id=45710721) - [You Already Have a Git Server](https://maurycyz.com/misc/easy_git/)
 * [2025-10-26, 09:31:47](https://news.ycombinator.com/item?id=45710366) - [Connect to a 1980s Atari BBS through the web](https://www.southernamis.com/ataribbsconnect)
