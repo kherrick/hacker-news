@@ -40,6 +40,7 @@
 * [2025-10-25, 17:07:40](https://news.ycombinator.com/item?id=45705381) - [Libera Chat receives legal advice that the Online Safety Act does not apply to](https://libera.chat/news/advised)
 * [2025-10-25, 16:48:16](https://news.ycombinator.com/item?id=45705250) - [Armed police handcuff teen after AI mistakes chip bag for gun in Baltimore](https://www.bbc.com/news/articles/cgjdlx92lylo)
 * [2025-10-25, 16:32:40](https://news.ycombinator.com/item?id=45705125) - [Rock Tumbler Instructions: Turning Rough Rocks into Beautiful Tumbled Stones](https://rocktumbler.com/tips/rock-tumbler-instructions/)
+* [2025-10-25, 16:28:09](https://news.ycombinator.com/item?id=45705084) - [How AI gave me my voice back – an artist's review of Suno Studio](https://blog.andyshand.com/blog/how-ai-gave-me-my-voice-back)
 * [2025-10-25, 16:15:21](https://news.ycombinator.com/item?id=45704977) - [The mad king's digital killswitch](https://pluralistic.net/2025/10/20/post-american-internet/#huawei-with-american-characteristics)
 * [2025-10-25, 15:26:32](https://news.ycombinator.com/item?id=45704616) - [Windows 10 Deadline Boosts Mac Sales](https://www.macrumors.com/2025/10/25/windows-10-deadline-boosts-mac-sales/)
 * [2025-10-25, 15:10:29](https://news.ycombinator.com/item?id=45704483) - [Xubuntu website hacked and served malware](https://old.reddit.com/r/xubuntu/comments/1oa43gt/xubuntuorg_might_be_compromised/)
