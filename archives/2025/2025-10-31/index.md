@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-10-31](index.md)
 
 * [2025-10-31, 03:39:34](https://news.ycombinator.com/item?id=45768156) - [No Code](https://github.com/lemonyte/no-code)
+* [2025-10-31, 03:07:48](https://news.ycombinator.com/item?id=45767916) - [AMD Could Enter ARM Market with Sound Wave APU Built on TSMC 3nm Process](https://www.guru3d.com/story/amd-enters-arm-market-with-sound-wave-apu-built-on-tsmc-3nm-process/)
 * [2025-10-31, 02:34:36](https://news.ycombinator.com/item?id=45767725) - [John Carmack on Mutable Variables](https://twitter.com/id_aa_carmack/status/1983593511703474196)
 * [2025-10-31, 01:48:39](https://news.ycombinator.com/item?id=45767505) - [Ground stop at JFK due to staffing](https://www.fly.faa.gov/adv/adv_otherdis?advn=13&adv_date=10312025&facId=JFK&title=ATCSCC%20ADVZY%20013%20JFK/ZNY%2010/31/2025%20CDM%20GROUND%20STOP&titleDate=10/31/2025)
 * [2025-10-31, 01:16:14](https://news.ycombinator.com/item?id=45767343) - [Chromium Browser DoS Attack via Document.title Exploitation](https://github.com/jofpin/brash)
