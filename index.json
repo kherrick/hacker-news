@@ -1,16 +1,6 @@
 [
   [
     [
-      "2025-10-31, 18:16:10",
-      "https://news.ycombinator.com/item?id=45775000"
-    ],
-    [
-      "The Hunger Games Begin",
-      "https://paulkrugman.substack.com/p/the-hunger-games-begin"
-    ]
-  ],
-  [
-    [
       "2025-10-31, 17:49:16",
       "https://news.ycombinator.com/item?id=45774724"
     ],
@@ -267,6 +257,16 @@
     [
       "Wheels for free-threaded Python now available for psutil",
       "https://gmpy.dev/blog/2025/wheels-for-free-threaded-python-now-available-in-psutil"
+    ]
+  ],
+  [
+    [
+      "2025-10-25, 11:40:58",
+      "https://news.ycombinator.com/item?id=45703063"
+    ],
+    [
+      "Result is all I need",
+      "https://rockyj-blogs.web.app/2025/10/25/result-monad.html"
     ]
   ],
   [
