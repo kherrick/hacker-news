@@ -48,6 +48,7 @@
 * [2025-10-27, 14:25:00](https://news.ycombinator.com/item?id=45721352) - [Show HN: ISS in Real Time – 25 Years Aboard the International Space Station](https://issinrealtime.org)
 * [2025-10-27, 14:19:30](https://news.ycombinator.com/item?id=45721302) - [When 'perfect' code fails](https://marma.dev/articles/2025/when-perfect-code-fails)
 * [2025-10-27, 14:04:48](https://news.ycombinator.com/item?id=45721160) - [EntropyLong: Effective Long-Context Training via Predictive Uncertainty](https://arxiv.org/abs/2510.02330)
+* [2025-10-27, 13:06:46](https://news.ycombinator.com/item?id=45720616) - [Florian Schneider Collection: Instruments and Equipment Up for Auction](https://www.juliensauctions.com/en/articles/the-florian-schneider-collection-rare-instruments-and-iconic-equipment-from-kraftwerk)
 * [2025-10-27, 12:42:42](https://news.ycombinator.com/item?id=45720376) - [10M people watched a YouTuber shim a lock; the lock company sued him – bad idea](https://arstechnica.com/tech-policy/2025/10/suing-a-popular-youtuber-who-shimmed-a-130-lock-what-could-possibly-go-wrong/)
 * [2025-10-27, 12:39:52](https://news.ycombinator.com/item?id=45720345) - [Pre-emptive Z80 multitasking explainer](https://github.com/bchiha/Ready-Z80/tree/main/29-Multitasking)
 * [2025-10-27, 12:00:30](https://news.ycombinator.com/item?id=45719996) - [Artifact (YC W25) is hiring engineers in NYC to build modern ECAD](https://news.ycombinator.com/item?id=45719996)
