@@ -18,6 +18,7 @@
 * [2025-10-27, 17:51:16](https://news.ycombinator.com/item?id=45724159) - [Carl Bohland's Auto Wash Bowl (2019)](https://www.vintag.es/2019/12/the-auto-wash-bowl.html)
 * [2025-10-27, 17:51:16](https://news.ycombinator.com/item?id=45724159) - [Carl Bohland's Auto Wash Bowl (2015)](https://news.wttw.com/2015/07/29/ask-geoffrey)
 * [2025-10-27, 17:42:23](https://news.ycombinator.com/item?id=45724045) - [Why Nigeria Accepted GMOs](https://www.asimov.press/p/nigeria-crops)
+* [2025-10-27, 17:42:17](https://news.ycombinator.com/item?id=45724043) - [The Last PCB You'll Ever Buy [video]](https://www.youtube.com/watch?v=A_IUIyyqw0M)
 * [2025-10-27, 17:27:18](https://news.ycombinator.com/item?id=45723828) - [Let the little guys in: A context sharing runtime for the personalised web](https://arjun.md/little-guys)
 * [2025-10-27, 17:25:52](https://news.ycombinator.com/item?id=45723809) - [It's not always DNS](https://notes.pault.ag/its-not-always-dns/)
 * [2025-10-27, 17:20:37](https://news.ycombinator.com/item?id=45723737) - [Why imperfection could be key to Turing patterns in nature](https://arstechnica.com/science/2025/10/why-imperfection-could-be-key-to-turing-patterns-in-nature/)
