@@ -51,6 +51,7 @@
 * [2025-10-25, 13:01:39](https://news.ycombinator.com/item?id=45703556) - [Making a micro Linux distro (2023)](https://popovicu.com/posts/making-a-micro-linux-distro/)
 * [2025-10-25, 12:01:44](https://news.ycombinator.com/item?id=45703196) - [Show HN: Chonky – a neural text semantic chunking goes multilingual](https://huggingface.co/mirth/chonky_mmbert_small_multilingual_1)
 * [2025-10-25, 11:44:39](https://news.ycombinator.com/item?id=45703086) - [Precise and scalable analogue matrix equation solving using RRAM chips [pdf]](https://www.nature.com/articles/s41928-025-01477-0.pdf)
+* [2025-10-25, 11:40:58](https://news.ycombinator.com/item?id=45703063) - [Result is all I need](https://rockyj-blogs.web.app/2025/10/25/result-monad.html)
 * [2025-10-25, 11:40:09](https://news.ycombinator.com/item?id=45703059) - [Iommi – your first pick for a Django power chord](https://iommi.rocks/)
 * [2025-10-25, 11:05:41](https://news.ycombinator.com/item?id=45702877) - [The Great SaaS Gaslight](https://unworkableideas.com/the-great-saas-lighting-how-it-users-got-gaslit/)
 * [2025-10-25, 10:57:51](https://news.ycombinator.com/item?id=45702831) - [Frozen DuckLakes for Multi-User, Serverless Data Access](https://ducklake.select/2025/10/24/frozen-ducklake/)
