@@ -1,6 +1,56 @@
 [
   [
     [
+      "2025-10-31, 14:16:17",
+      "https://news.ycombinator.com/item?id=45772236"
+    ],
+    [
+      "Can we talk about the rude installers not asking for installation locations?",
+      "https://news.ycombinator.com/item?id=45772236"
+    ]
+  ],
+  [
+    [
+      "2025-10-31, 14:15:12",
+      "https://news.ycombinator.com/item?id=45772224"
+    ],
+    [
+      "Nim 2.2.6",
+      "https://nim-lang.org//blog/2025/10/31/nim-226.html"
+    ]
+  ],
+  [
+    [
+      "2025-10-31, 13:59:25",
+      "https://news.ycombinator.com/item?id=45772064"
+    ],
+    [
+      "Immutable releases are now generally available on GitHub",
+      "https://github.blog/changelog/2025-10-28-immutable-releases-are-now-generally-available/"
+    ]
+  ],
+  [
+    [
+      "2025-10-31, 13:37:10",
+      "https://news.ycombinator.com/item?id=45771843"
+    ],
+    [
+      "Git CLI tool for intelligently creating branch names",
+      "https://github.com/ytreister/gibr"
+    ]
+  ],
+  [
+    [
+      "2025-10-31, 13:32:08",
+      "https://news.ycombinator.com/item?id=45771796"
+    ],
+    [
+      "Sustainable memristors from shiitake mycelium for high-frequency bioelectronics",
+      "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0328965"
+    ]
+  ],
+  [
+    [
       "2025-10-31, 13:14:23",
       "https://news.ycombinator.com/item?id=45771636"
     ],
@@ -31,12 +81,12 @@
   ],
   [
     [
-      "2025-10-31, 11:41:25",
-      "https://news.ycombinator.com/item?id=45770928"
+      "2025-10-31, 11:33:41",
+      "https://news.ycombinator.com/item?id=45770875"
     ],
     [
-      "After delays, Egypt set for lavish opening of grand museum",
-      "https://phys.org/news/2025-10-delays-egypt-lavish-grand-museum.html"
+      "The cryptography behind electronic passports",
+      "https://blog.trailofbits.com/2025/10/31/the-cryptography-behind-electronic-passports/"
     ]
   ],
   [
@@ -111,26 +161,6 @@
   ],
   [
     [
-      "2025-10-30, 21:35:42",
-      "https://news.ycombinator.com/item?id=45765664"
-    ],
-    [
-      "Denmark reportedly withdraws Chat Control proposal following controversy",
-      "https://therecord.media/demark-reportedly-withdraws-chat-control-proposal"
-    ]
-  ],
-  [
-    [
-      "2025-10-30, 18:59:02",
-      "https://news.ycombinator.com/item?id=45763877"
-    ],
-    [
-      "Minecraft HDL, an HDL for Redstone",
-      "https://github.com/itsfrank/MinecraftHDL"
-    ]
-  ],
-  [
-    [
       "2025-10-30, 17:01:20",
       "https://news.ycombinator.com/item?id=45762259"
     ],
@@ -161,32 +191,12 @@
   ],
   [
     [
-      "2025-10-30, 14:21:58",
-      "https://news.ycombinator.com/item?id=45760321"
-    ],
-    [
-      "Show HN: I made a heatmap diff viewer for code reviews",
-      "https://0github.com"
-    ]
-  ],
-  [
-    [
       "2025-10-30, 00:37:33",
       "https://news.ycombinator.com/item?id=45755027"
     ],
     [
       "NPM flooded with malicious packages downloaded more than 86k times",
       "https://arstechnica.com/security/2025/10/npm-flooded-with-malicious-packages-downloaded-more-than-86000-times/"
-    ]
-  ],
-  [
-    [
-      "2025-10-29, 05:27:42",
-      "https://news.ycombinator.com/item?id=45742957"
-    ],
-    [
-      "Jack Kerouac, Malcolm Cowley, and the difficult birth of On the Road",
-      "https://theamericanscholar.org/scrolling-through/"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "Result is all I need",
       "https://rockyj-blogs.web.app/2025/10/25/result-monad.html"
-    ]
-  ],
-  [
-    [
-      "2025-10-25, 08:43:28",
-      "https://news.ycombinator.com/item?id=45702281"
-    ],
-    [
-      "Exceptional Measurement of Chirality",
-      "https://www.rsc.org/news/2019/july/exceptional-measurement-of-chirality"
     ]
   ],
   [
