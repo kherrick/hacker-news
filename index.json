@@ -1,22 +1,22 @@
 [
   [
     [
-      "2025-10-31, 04:37:42",
-      "https://news.ycombinator.com/item?id=45768482"
-    ],
-    [
-      "ANTML: Anthropic’s Markup Language",
-      "https://karashiiro.leaflet.pub/3m4gf7geefs2l"
-    ]
-  ],
-  [
-    [
       "2025-10-31, 03:07:48",
       "https://news.ycombinator.com/item?id=45767916"
     ],
     [
       "AMD Could Enter ARM Market with Sound Wave APU Built on TSMC 3nm Process",
       "https://www.guru3d.com/story/amd-enters-arm-market-with-sound-wave-apu-built-on-tsmc-3nm-process/"
+    ]
+  ],
+  [
+    [
+      "2025-10-31, 02:34:36",
+      "https://news.ycombinator.com/item?id=45767725"
+    ],
+    [
+      "John Carmack on mutable variables",
+      "https://twitter.com/id_aa_carmack/status/1983593511703474196"
     ]
   ],
   [
@@ -117,16 +117,6 @@
     [
       "Affinity Studio now free",
       "https://www.affinity.studio/get-affinity"
-    ]
-  ],
-  [
-    [
-      "2025-10-30, 15:20:37",
-      "https://news.ycombinator.com/item?id=45761027"
-    ],
-    [
-      "PlanetScale Offering $5 Databases",
-      "https://planetscale.com/blog/5-dollar-planetscale"
     ]
   ],
   [
@@ -267,6 +257,16 @@
     [
       "Modifying a radiation meter for (radioactive) rock collecting",
       "https://maurycyz.com/projects/ludlum3/"
+    ]
+  ],
+  [
+    [
+      "2025-10-24, 12:42:31",
+      "https://news.ycombinator.com/item?id=45694032"
+    ],
+    [
+      "Show HN: Run a GitHub Actions step in a gVisor sandbox",
+      "https://github.com/geomys/sandboxed-step"
     ]
   ],
   [
