@@ -40,6 +40,7 @@
 * [2025-10-27, 16:08:58](https://news.ycombinator.com/item?id=45722635) - [Show HN: Erdos – open-source, AI data science IDE](https://www.lotas.ai/erdos)
 * [2025-10-27, 16:05:06](https://news.ycombinator.com/item?id=45722590) - [Write Express JS code that runs on Rust](https://github.com/Shyam20001/rsjs)
 * [2025-10-27, 15:56:46](https://news.ycombinator.com/item?id=45722471) - [More than DNS: Learnings from the 14 hour AWS outage](https://thundergolfer.com/blog/aws-us-east-1-outage-oct20)
+* [2025-10-27, 15:29:17](https://news.ycombinator.com/item?id=45722089) - [History's first public hack: rats, rats, rats](https://www.rigb.org/explore-science/explore/blog/historys-first-public-hack-rats-rats-rats)
 * [2025-10-27, 15:27:38](https://news.ycombinator.com/item?id=45722069) - [It's insulting to read your AI-generated blog post](https://blog.pabloecortez.com/its-insulting-to-read-your-ai-generated-blog-post/)
 * [2025-10-27, 15:12:08](https://news.ycombinator.com/item?id=45721904) - [PSF has withdrawn $1.5M proposal to US Government grant program](https://pyfound.blogspot.com/2025/10/NSF-funding-statement.html)
 * [2025-10-27, 15:04:05](https://news.ycombinator.com/item?id=45721801) - [Pyrex catalog from from 1938 with hand-drawn lab glassware [pdf]](https://exhibitdb.cmog.org/opacimages/Images/Pyrex/Rakow_1000132877.pdf)
