@@ -1,32 +1,12 @@
 [
   [
     [
-      "2025-10-31, 14:47:41",
-      "https://news.ycombinator.com/item?id=45772558"
-    ],
-    [
-      "Warp Terminal changes pricing model",
-      "https://www.warp.dev/blog/warp-new-pricing-flexibility-byok"
-    ]
-  ],
-  [
-    [
       "2025-10-31, 14:28:35",
       "https://news.ycombinator.com/item?id=45772347"
     ],
     [
       "Nix Derivation Madness",
       "https://fzakaria.com/2025/10/29/nix-derivation-madness"
-    ]
-  ],
-  [
-    [
-      "2025-10-31, 14:16:17",
-      "https://news.ycombinator.com/item?id=45772236"
-    ],
-    [
-      "Can we talk about the rude installers not asking for installation locations?",
-      "https://news.ycombinator.com/item?id=45772236"
     ]
   ],
   [
@@ -57,6 +37,16 @@
     [
       "Immutable releases are now generally available on GitHub",
       "https://github.blog/changelog/2025-10-28-immutable-releases-are-now-generally-available/"
+    ]
+  ],
+  [
+    [
+      "2025-10-31, 13:39:55",
+      "https://news.ycombinator.com/item?id=45771870"
+    ],
+    [
+      "Ask HN: Who uses open LLMs and coding assistants locally? Share setup and laptop",
+      "https://news.ycombinator.com/item?id=45771870"
     ]
   ],
   [
@@ -117,16 +107,6 @@
     [
       "The cryptography behind electronic passports",
       "https://blog.trailofbits.com/2025/10/31/the-cryptography-behind-electronic-passports/"
-    ]
-  ],
-  [
-    [
-      "2025-10-31, 09:23:41",
-      "https://news.ycombinator.com/item?id=45769971"
-    ],
-    [
-      "Reasoning Models Reason Well, Until They Don't",
-      "https://arxiv.org/abs/2510.22371"
     ]
   ],
   [
@@ -271,12 +251,32 @@
   ],
   [
     [
+      "2025-10-25, 07:54:33",
+      "https://news.ycombinator.com/item?id=45702091"
+    ],
+    [
+      "It's the \"Hardware\", Stupid",
+      "https://haebom.dev/archive?post=4w67rj24q76nrm5yq8ep"
+    ]
+  ],
+  [
+    [
       "2025-10-24, 07:00:57",
       "https://news.ycombinator.com/item?id=45691697"
     ],
     [
       "Bertie the Brain",
       "https://en.wikipedia.org/wiki/Bertie_the_Brain"
+    ]
+  ],
+  [
+    [
+      "2025-10-23, 10:45:33",
+      "https://news.ycombinator.com/item?id=45680366"
+    ],
+    [
+      "A classic graphic reveals nature's most efficient traveler",
+      "https://www.scientificamerican.com/article/a-human-on-a-bicycle-is-among-the-most-efficient-forms-of-travel-in-the/"
     ]
   ],
   [
