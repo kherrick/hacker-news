@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-10-31](index.md)
 
+* [2025-10-31, 17:17:03](https://news.ycombinator.com/item?id=45774377) - [The AI bubble has reached its 'Fried chicken' phase](https://www.ft.com/content/b0038b6f-d83d-4a6a-803a-fa089e2d10ef)
 * [2025-10-31, 17:08:39](https://news.ycombinator.com/item?id=45774284) - [Fire TV: Amazon to block piracy apps in the future](https://www.heise.de/en/news/Fire-TV-Amazon-to-block-piracy-apps-in-the-future-10964878.html)
 * [2025-10-31, 17:00:37](https://news.ycombinator.com/item?id=45774198) - [Pangolin (YC S25) Is Hiring a Full Stack Software Engineer (Open-Source)](https://docs.pangolin.net/careers/software-engineer-full-stack)
 * [2025-10-31, 16:59:22](https://news.ycombinator.com/item?id=45774182) - [Just Use a Button](https://gomakethings.com/just-use-a-button/)
