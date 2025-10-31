@@ -17,6 +17,7 @@
 * [2025-10-30, 18:57:39](https://news.ycombinator.com/item?id=45763858) - [TruthWave – A Platform for Corporate Whistleblowers](https://www.truthwave.com)
 * [2025-10-30, 18:50:11](https://news.ycombinator.com/item?id=45763769) - [Taking money off the table](https://zachholman.com/posts/money-off-the-table)
 * [2025-10-30, 18:25:16](https://news.ycombinator.com/item?id=45763367) - [Rapid Brightening of 3I/Atlas Ahead of Perihelion](https://arxiv.org/abs/2510.25035)
+* [2025-10-30, 18:25:05](https://news.ycombinator.com/item?id=45763359) - [How We Found 7 TiB of Memory Just Sitting Around](https://render.com/blog/how-we-found-7-tib-of-memory-just-sitting-around)
 * [2025-10-30, 18:23:09](https://news.ycombinator.com/item?id=45763327) - [GooglePlay reports latest F-Droid version of Aves Libre as potential malware](https://github.com/deckerst/aves/issues/1802)
 * [2025-10-30, 18:19:12](https://news.ycombinator.com/item?id=45763267) - [SF neighborhood mourns loss of bodega cat allegedly killed by Waymo](https://www.sfgate.com/local/article/sf-neighborhood-mourns-cat-waymo-21127713.php)
 * [2025-10-30, 18:05:39](https://news.ycombinator.com/item?id=45763076) - [I have released a 69.0MB version of Windows 7 x86](https://twitter.com/XenoPanther/status/1983477707968291075)

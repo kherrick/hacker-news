@@ -9,6 +9,7 @@
 * [2025-10-29, 23:21:51](https://news.ycombinator.com/item?id=45754439) - [Raspberry Pi Pico Bit-Bangs 100 Mbit/S Ethernet](https://www.elektormagazine.com/news/rp2350-bit-bangs-100-mbit-ethernet)
 * [2025-10-29, 23:17:02](https://news.ycombinator.com/item?id=45754390) - [A century of reforestation helped keep the eastern US cool](https://news.agu.org/press-release/a-century-of-reforestation-helped-keep-the-eastern-us-cool/)
 * [2025-10-29, 22:54:53](https://news.ycombinator.com/item?id=45754165) - [Meta and TikTok are obstructing researchers' access to data, EU commission rules](https://www.science.org/content/article/meta-and-tiktok-are-obstructing-researchers-access-data-european-commission-rules)
+* [2025-10-29, 22:21:12](https://news.ycombinator.com/item?id=45753850) - [Llamafile Returns](https://blog.mozilla.ai/llamafile-returns/)
 * [2025-10-29, 21:40:05](https://news.ycombinator.com/item?id=45753422) - [A URL to respond with when your boss says \"But ChatGPT Said \"](https://stopcitingai.com/)
 * [2025-10-29, 21:22:50](https://news.ycombinator.com/item?id=45753222) - [How the U.S. National Science Foundation Enabled Software-Defined Networking](https://cacm.acm.org/federal-funding-of-academic-research/how-the-u-s-national-science-foundation-enabled-software-defined-networking/)
 * [2025-10-29, 20:55:45](https://news.ycombinator.com/item?id=45752897) - [Backpressure in Distributed Systems](https://blog.pranshu-raj.me/posts/backpressure/)
