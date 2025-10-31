@@ -1,6 +1,66 @@
 [
   [
     [
+      "2025-10-31, 02:34:36",
+      "https://news.ycombinator.com/item?id=45767725"
+    ],
+    [
+      "John Carmack on Mutable Variables",
+      "https://twitter.com/id_aa_carmack/status/1983593511703474196"
+    ]
+  ],
+  [
+    [
+      "2025-10-31, 01:48:39",
+      "https://news.ycombinator.com/item?id=45767505"
+    ],
+    [
+      "Ground stop at JFK due to staffing",
+      "https://www.fly.faa.gov/adv/adv_otherdis?advn=13&adv_date=10312025&facId=JFK&title=ATCSCC%20ADVZY%20013%20JFK/ZNY%2010/31/2025%20CDM%20GROUND%20STOP&titleDate=10/31/2025"
+    ]
+  ],
+  [
+    [
+      "2025-10-31, 01:16:14",
+      "https://news.ycombinator.com/item?id=45767343"
+    ],
+    [
+      "Chromium Browser DoS Attack via Document.title Exploitation",
+      "https://github.com/jofpin/brash"
+    ]
+  ],
+  [
+    [
+      "2025-10-31, 01:13:56",
+      "https://news.ycombinator.com/item?id=45767325"
+    ],
+    [
+      "ICE and the Smartphone Panopticon",
+      "https://www.newyorker.com/culture/infinite-scroll/ice-and-the-smartphone-panopticon"
+    ]
+  ],
+  [
+    [
+      "2025-10-31, 01:00:45",
+      "https://news.ycombinator.com/item?id=45767257"
+    ],
+    [
+      "Roadmap for Improving the Type Checker",
+      "https://forums.swift.org/t/roadmap-for-improving-the-type-checker/82952"
+    ]
+  ],
+  [
+    [
+      "2025-10-31, 00:43:57",
+      "https://news.ycombinator.com/item?id=45767162"
+    ],
+    [
+      "Show HN: Quibbler – A critic for your coding agent that learns what you want",
+      "https://github.com/fulcrumresearch/quibbler"
+    ]
+  ],
+  [
+    [
       "2025-10-31, 00:07:36",
       "https://news.ycombinator.com/item?id=45766937"
     ],
@@ -37,16 +97,6 @@
     [
       "Denmark reportedly withdraws Chat Control proposal following controversy",
       "https://therecord.media/demark-reportedly-withdraws-chat-control-proposal"
-    ]
-  ],
-  [
-    [
-      "2025-10-30, 21:03:46",
-      "https://news.ycombinator.com/item?id=45765328"
-    ],
-    [
-      "Show HN: ekoAcademic – Convert ArXiv papers to interactive podcasts",
-      "https://www.wadamczyk.io/projects/ekoacademic/index.html"
     ]
   ],
   [
@@ -91,16 +141,6 @@
   ],
   [
     [
-      "2025-10-30, 15:21:46",
-      "https://news.ycombinator.com/item?id=45761042"
-    ],
-    [
-      "ZOZO's Contact Solver for physics-based simulations",
-      "https://github.com/st-tech/ppf-contact-solver"
-    ]
-  ],
-  [
-    [
       "2025-10-30, 15:20:37",
       "https://news.ycombinator.com/item?id=45761027"
     ],
@@ -121,16 +161,6 @@
   ],
   [
     [
-      "2025-10-30, 14:22:44",
-      "https://news.ycombinator.com/item?id=45760328"
-    ],
-    [
-      "US declines to join more than 70 countries in signing UN cybercrime treaty",
-      "https://therecord.media/us-declines-signing-cybercrime-treaty?"
-    ]
-  ],
-  [
-    [
       "2025-10-30, 14:21:58",
       "https://news.ycombinator.com/item?id=45760321"
     ],
@@ -141,32 +171,12 @@
   ],
   [
     [
-      "2025-10-30, 10:39:21",
-      "https://news.ycombinator.com/item?id=45758421"
-    ],
-    [
-      "Show HN: In a single HTML file, an app to encourage my children to invest",
-      "https://roberdam.com/en/dinversiones.html"
-    ]
-  ],
-  [
-    [
       "2025-10-30, 00:37:33",
       "https://news.ycombinator.com/item?id=45755027"
     ],
     [
       "NPM flooded with malicious packages downloaded more than 86k times",
       "https://arstechnica.com/security/2025/10/npm-flooded-with-malicious-packages-downloaded-more-than-86000-times/"
-    ]
-  ],
-  [
-    [
-      "2025-10-29, 19:32:00",
-      "https://news.ycombinator.com/item?id=45751868"
-    ],
-    [
-      "Independently verifying Go's reproducible builds",
-      "https://www.agwa.name/blog/post/verifying_go_reproducible_builds"
     ]
   ],
   [
@@ -187,16 +197,6 @@
     [
       "Zig's New Async I/O",
       "https://andrewkelley.me/post/zig-new-async-io-text-version.html"
-    ]
-  ],
-  [
-    [
-      "2025-10-29, 06:12:46",
-      "https://news.ycombinator.com/item?id=45743232"
-    ],
-    [
-      "Show HN: Front End Fuzzy and Substring and Prefix Search",
-      "https://github.com/m31coding/fuzzy-search"
     ]
   ],
   [
@@ -227,16 +227,6 @@
     [
       "Springs and bounces in native CSS",
       "https://www.joshwcomeau.com/animation/linear-timing-function/"
-    ]
-  ],
-  [
-    [
-      "2025-10-27, 17:57:18",
-      "https://news.ycombinator.com/item?id=45724229"
-    ],
-    [
-      "Show HN: Meals You Love – AI-powered meal planning and grocery shopping",
-      "https://mealsyoulove.com"
     ]
   ],
   [
@@ -281,12 +271,22 @@
   ],
   [
     [
-      "2025-10-24, 12:42:31",
-      "https://news.ycombinator.com/item?id=45694032"
+      "2025-10-25, 20:04:50",
+      "https://news.ycombinator.com/item?id=45706570"
     ],
     [
-      "Show HN: Run a GitHub Actions step in a gVisor sandbox",
-      "https://github.com/geomys/sandboxed-step"
+      "Show HN: Status of my favorite bike share stations",
+      "https://blog.alexboden.ca/toronto-bike-share-status/"
+    ]
+  ],
+  [
+    [
+      "2025-10-23, 09:43:52",
+      "https://news.ycombinator.com/item?id=45680023"
+    ],
+    [
+      "Rouille – Rust Programming, in French",
+      "https://github.com/bnjbvr/rouille"
     ]
   ],
   [
