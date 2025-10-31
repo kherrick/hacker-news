@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-10-31, 21:41:53](https://news.ycombinator.com/item?id=45777015) - [Tim Bray on Grokipedia](https://www.tbray.org/ongoing/When/202x/2025/10/28/Grokipedia)
 * [2025-10-31, 20:20:42](https://news.ycombinator.com/item?id=45776269) - [A theoretical way to circumvent Android developer verification](https://enaix.github.io/2025/10/30/developer-verification.html)
 * [2025-10-31, 19:16:05](https://news.ycombinator.com/item?id=45775642) - [How to build silos and decrease collaboration on purpose](https://www.rubick.com/how-to-build-silos-and-decrease-collaboration/)
 * [2025-10-31, 17:49:16](https://news.ycombinator.com/item?id=45774724) - [x86 architecture 1 byte opcodes](https://www.sandpile.org/x86/opc_1.htm)
@@ -26,6 +25,7 @@
 * [2025-10-29, 22:21:12](https://news.ycombinator.com/item?id=45753850) - [Llamafile Returns](https://blog.mozilla.ai/llamafile-returns/)
 * [2025-10-29, 01:31:56](https://news.ycombinator.com/item?id=45741569) - [Hacking India's largest automaker: Tata Motors](https://eaton-works.com/2025/10/28/tata-motors-hack/)
 * [2025-10-28, 16:19:26](https://news.ycombinator.com/item?id=45734865) - [Show HN: Pipelex – Declarative language for repeatable AI workflows](https://github.com/Pipelex/pipelex)
+* [2025-10-28, 12:49:15](https://news.ycombinator.com/item?id=45732160) - [Floppy Disk / Diskettes // retrocmp / retro computing](https://retrocmp.de/fdd/diskette/diskette.htm)
 * [2025-10-26, 11:23:59](https://news.ycombinator.com/item?id=45710875) - [Corrosion](https://fly.io/blog/corrosion/)
 * [2025-10-25, 20:27:16](https://news.ycombinator.com/item?id=45706707) - [Lording it, over: A new history of the modern British aristocracy](https://newcriterion.com/article/lording-it-over/)
 * [2025-10-25, 07:54:33](https://news.ycombinator.com/item?id=45702091) - [It's the “hardware”, stupid](https://haebom.dev/archive?post=4w67rj24q76nrm5yq8ep)
