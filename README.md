@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-10-31, 21:41:53](https://news.ycombinator.com/item?id=45777015) - [Tim Bray on Grokipedia](https://www.tbray.org/ongoing/When/202x/2025/10/28/Grokipedia)
 * [2025-10-31, 20:20:42](https://news.ycombinator.com/item?id=45776269) - [A theoretical way to circumvent Android developer verification](https://enaix.github.io/2025/10/30/developer-verification.html)
 * [2025-10-31, 19:16:05](https://news.ycombinator.com/item?id=45775642) - [How to build silos and decrease collaboration on purpose](https://www.rubick.com/how-to-build-silos-and-decrease-collaboration/)
 * [2025-10-31, 17:49:16](https://news.ycombinator.com/item?id=45774724) - [x86 architecture 1 byte opcodes](https://www.sandpile.org/x86/opc_1.htm)
@@ -14,7 +15,6 @@
 * [2025-10-31, 13:14:23](https://news.ycombinator.com/item?id=45771636) - [Attention lapses due to sleep deprivation due to flushing fluid from brain](https://news.mit.edu/2025/your-brain-without-sleep-1029)
 * [2025-10-31, 11:54:00](https://news.ycombinator.com/item?id=45771019) - [Perfetto: Swiss army knife for Linux client tracing](https://lalitm.com/perfetto-swiss-army-knife/)
 * [2025-10-31, 11:33:41](https://news.ycombinator.com/item?id=45770875) - [The cryptography behind electronic passports](https://blog.trailofbits.com/2025/10/31/the-cryptography-behind-electronic-passports/)
-* [2025-10-31, 10:15:24](https://news.ycombinator.com/item?id=45770317) - [Claude outage](https://status.claude.com/incidents/s5f75jhwjs6g)
 * [2025-10-31, 03:07:48](https://news.ycombinator.com/item?id=45767916) - [AMD could enter ARM market with Sound Wave APU built on TSMC 3nm process](https://www.guru3d.com/story/amd-enters-arm-market-with-sound-wave-apu-built-on-tsmc-3nm-process/)
 * [2025-10-31, 02:34:36](https://news.ycombinator.com/item?id=45767725) - [John Carmack on mutable variables](https://twitter.com/id_aa_carmack/status/1983593511703474196)
 * [2025-10-30, 23:12:10](https://news.ycombinator.com/item?id=45766501) - [Leaker reveals which Pixels are vulnerable to Cellebrite phone hacking](https://arstechnica.com/gadgets/2025/10/leaker-reveals-which-pixels-are-vulnerable-to-cellebrite-phone-hacking/)
