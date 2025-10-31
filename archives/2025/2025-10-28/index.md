@@ -12,6 +12,7 @@
 * [2025-10-28, 22:07:41](https://news.ycombinator.com/item?id=45739877) - [SwirlDB: Modular-first, CRDT-based embedded database](https://docs.swirldb.org/)
 * [2025-10-28, 21:33:01](https://news.ycombinator.com/item?id=45739515) - [Tor Browser 15.0](https://blog.torproject.org/new-release-tor-browser-150/)
 * [2025-10-28, 21:31:50](https://news.ycombinator.com/item?id=45739499) - [If you don't tinker, you don't have taste](https://seated.ro/blog/tinkering-a-lost-art)
+* [2025-10-28, 21:13:22](https://news.ycombinator.com/item?id=45739279) - [A Defense of Philosophical Intuitions](https://hilariusbookbinder.substack.com/p/a-defense-of-philosophical-intuitions)
 * [2025-10-28, 20:58:22](https://news.ycombinator.com/item?id=45739080) - [Generative AI Image Editing Showdown](https://genai-showdown.specr.net/image-editing)
 * [2025-10-28, 20:56:40](https://news.ycombinator.com/item?id=45739060) - [Microsoft allows ICE to use Halo for ads](https://peq42.com/blog/microsoft-allows-ice-to-use-halo-for-ads/)
 * [2025-10-28, 20:12:14](https://news.ycombinator.com/item?id=45738472) - [Inside Amazon's Engineering Culture: Lessons from Their Senior Principals](https://olshansky.substack.com/p/inside-amazons-engineering-culture)
