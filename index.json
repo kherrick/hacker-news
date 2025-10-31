@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-10-31, 00:07:36",
+      "https://news.ycombinator.com/item?id=45766937"
+    ],
+    [
+      "Kimi Linear: An Expressive, Efficient Attention Architecture",
+      "https://github.com/MoonshotAI/Kimi-Linear"
+    ]
+  ],
+  [
+    [
       "2025-10-30, 22:41:50",
       "https://news.ycombinator.com/item?id=45766253"
     ],
@@ -41,16 +51,6 @@
   ],
   [
     [
-      "2025-10-30, 19:30:48",
-      "https://news.ycombinator.com/item?id=45764265"
-    ],
-    [
-      "Show HN: Ellipticc Drive – open-source cloud drive with E2E and PQ encryption",
-      "https://ellipticc.com"
-    ]
-  ],
-  [
-    [
       "2025-10-30, 18:59:02",
       "https://news.ycombinator.com/item?id=45763877"
     ],
@@ -61,31 +61,11 @@
   ],
   [
     [
-      "2025-10-30, 18:05:39",
-      "https://news.ycombinator.com/item?id=45763076"
-    ],
-    [
-      "I have released a 69.0MB version of Windows 7 x86",
-      "https://twitter.com/XenoPanther/status/1983477707968291075"
-    ]
-  ],
-  [
-    [
-      "2025-10-30, 17:45:53",
-      "https://news.ycombinator.com/item?id=45762837"
-    ],
-    [
-      "Some people can't see mental images",
-      "https://www.newyorker.com/magazine/2025/11/03/some-people-cant-see-mental-images-the-consequences-are-profound"
-    ]
-  ],
-  [
-    [
       "2025-10-30, 17:01:20",
       "https://news.ycombinator.com/item?id=45762259"
     ],
     [
-      "The ear does not do a Fourier transform",
+      "The ear does not do a Fourier transform (2024)",
       "https://www.dissonances.blog/p/the-ear-does-not-do-a-fourier-transform"
     ]
   ],
@@ -161,16 +141,6 @@
   ],
   [
     [
-      "2025-10-30, 13:00:58",
-      "https://news.ycombinator.com/item?id=45759572"
-    ],
-    [
-      "Jujutsu at Google [video]",
-      "https://www.youtube.com/watch?v=v9Ob5yPpC0A"
-    ]
-  ],
-  [
-    [
       "2025-10-30, 10:39:21",
       "https://news.ycombinator.com/item?id=45758421"
     ],
@@ -201,16 +171,6 @@
   ],
   [
     [
-      "2025-10-29, 15:49:18",
-      "https://news.ycombinator.com/item?id=45748484"
-    ],
-    [
-      "Replacing EBS and Rethinking Postgres Storage from First Principles",
-      "https://www.tigerdata.com/blog/fluid-storage-forkable-ephemeral-durable-infrastructure-age-of-agents"
-    ]
-  ],
-  [
-    [
       "2025-10-29, 13:20:03",
       "https://news.ycombinator.com/item?id=45746482"
     ],
@@ -231,6 +191,36 @@
   ],
   [
     [
+      "2025-10-29, 06:12:46",
+      "https://news.ycombinator.com/item?id=45743232"
+    ],
+    [
+      "Show HN: Front End Fuzzy and Substring and Prefix Search",
+      "https://github.com/m31coding/fuzzy-search"
+    ]
+  ],
+  [
+    [
+      "2025-10-29, 05:27:42",
+      "https://news.ycombinator.com/item?id=45742957"
+    ],
+    [
+      "Jack Kerouac, Malcolm Cowley, and the difficult birth of On the Road",
+      "https://theamericanscholar.org/scrolling-through/"
+    ]
+  ],
+  [
+    [
+      "2025-10-28, 21:13:22",
+      "https://news.ycombinator.com/item?id=45739279"
+    ],
+    [
+      "A Defense of Philosophical Intuitions",
+      "https://hilariusbookbinder.substack.com/p/a-defense-of-philosophical-intuitions"
+    ]
+  ],
+  [
+    [
       "2025-10-28, 18:01:46",
       "https://news.ycombinator.com/item?id=45736461"
     ],
@@ -247,6 +237,16 @@
     [
       "Show HN: Meals You Love – AI-powered meal planning and grocery shopping",
       "https://mealsyoulove.com"
+    ]
+  ],
+  [
+    [
+      "2025-10-26, 19:50:00",
+      "https://news.ycombinator.com/item?id=45714689"
+    ],
+    [
+      "How to Use Zorn's Lemma (2008)",
+      "https://gowers.wordpress.com/2008/08/12/how-to-use-zorns-lemma/"
     ]
   ],
   [
