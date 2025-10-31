@@ -6,6 +6,7 @@
 
 * [2025-10-31, 17:08:39](https://news.ycombinator.com/item?id=45774284) - [Fire TV: Amazon to block piracy apps in the future](https://www.heise.de/en/news/Fire-TV-Amazon-to-block-piracy-apps-in-the-future-10964878.html)
 * [2025-10-31, 17:00:37](https://news.ycombinator.com/item?id=45774198) - [Pangolin (YC S25) Is Hiring a Full Stack Software Engineer (Open-Source)](https://docs.pangolin.net/careers/software-engineer-full-stack)
+* [2025-10-31, 16:59:22](https://news.ycombinator.com/item?id=45774182) - [Just Use a Button](https://gomakethings.com/just-use-a-button/)
 * [2025-10-31, 16:40:14](https://news.ycombinator.com/item?id=45773985) - [Amazon says it didn't cut people because of money. But because of 'culture'](https://www.cnn.com/2025/10/30/tech/amazon-layoffs-andy-jassy-ai-culture)
 * [2025-10-31, 16:39:22](https://news.ycombinator.com/item?id=45773974) - [Another European agency shifts off US Tech as digital sovereignty gains steam](https://www.zdnet.com/article/another-european-agency-ditches-big-tech-as-digital-sovereignty-movement-gains-steam/)
 * [2025-10-31, 15:44:19](https://news.ycombinator.com/item?id=45773347) - [AI scrapers request commented scripts](https://cryptography.dog/blog/AI-scrapers-request-commented-scripts/)
