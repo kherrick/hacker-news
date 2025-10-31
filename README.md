@@ -17,6 +17,7 @@
 * [2025-10-31, 00:43:57](https://news.ycombinator.com/item?id=45767162) - [Show HN: Quibbler – A critic for your coding agent that learns what you want](https://github.com/fulcrumresearch/quibbler)
 * [2025-10-31, 00:07:36](https://news.ycombinator.com/item?id=45766937) - [Kimi Linear: An Expressive, Efficient Attention Architecture](https://github.com/MoonshotAI/Kimi-Linear)
 * [2025-10-30, 21:49:11](https://news.ycombinator.com/item?id=45765787) - [Phone numbers for use in TV shows, films and creative works](https://www.acma.gov.au/phone-numbers-use-tv-shows-films-and-creative-works)
+* [2025-10-30, 18:59:02](https://news.ycombinator.com/item?id=45763877) - [Minecraft HDL, an HDL for Redstone](https://github.com/itsfrank/MinecraftHDL)
 * [2025-10-30, 17:01:20](https://news.ycombinator.com/item?id=45762259) - [How the cochlea computes (2024)](https://www.dissonances.blog/p/the-ear-does-not-do-a-fourier-transform)
 * [2025-10-30, 15:54:38](https://news.ycombinator.com/item?id=45761445) - [Affinity Studio now free](https://www.affinity.studio/get-affinity)
 * [2025-10-30, 15:07:15](https://news.ycombinator.com/item?id=45760878) - [Free software scares normal people](https://danieldelaney.net/normal/)
@@ -28,7 +29,6 @@
 * [2025-10-25, 11:40:58](https://news.ycombinator.com/item?id=45703063) - [Result is all I need](https://rockyj-blogs.web.app/2025/10/25/result-monad.html)
 * [2025-10-25, 07:54:33](https://news.ycombinator.com/item?id=45702091) - [It's the \"Hardware\", Stupid](https://haebom.dev/archive?post=4w67rj24q76nrm5yq8ep)
 * [2025-10-24, 07:00:57](https://news.ycombinator.com/item?id=45691697) - [Bertie the Brain](https://en.wikipedia.org/wiki/Bertie_the_Brain)
-* [2025-10-23, 10:45:33](https://news.ycombinator.com/item?id=45680366) - [A classic graphic reveals nature's most efficient traveler](https://www.scientificamerican.com/article/a-human-on-a-bicycle-is-among-the-most-efficient-forms-of-travel-in-the/)
 * [2025-10-22, 16:12:16](https://news.ycombinator.com/item?id=45671336) - [A Closer Look at Piezoelectric Crystal](https://www.samaterials.com/content/a-closer-look-at-stressed-piezo-crystals.html)
 
 ## [Archives](archives/index.md)
