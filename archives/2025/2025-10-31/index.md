@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-10-31](index.md)
 
+* [2025-10-31, 14:49:58](https://news.ycombinator.com/item?id=45772579) - [Ubuntu Introduces Architecture Variants](https://lwn.net/Articles/1044383/)
 * [2025-10-31, 14:47:41](https://news.ycombinator.com/item?id=45772558) - [Warp Terminal changes pricing model](https://www.warp.dev/blog/warp-new-pricing-flexibility-byok)
 * [2025-10-31, 14:44:59](https://news.ycombinator.com/item?id=45772519) - [Debug like a boss: 10 debugging hacks for developers, quality engineers, testers](https://www.ministryoftesting.com/articles/debug-like-a-boss-10-debugging-hacks-for-developers-quality-engineers-and-testers)
 * [2025-10-31, 14:28:35](https://news.ycombinator.com/item?id=45772347) - [Nix Derivation Madness](https://fzakaria.com/2025/10/29/nix-derivation-madness)

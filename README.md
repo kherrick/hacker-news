@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-10-31, 14:49:58](https://news.ycombinator.com/item?id=45772579) - [Ubuntu Introduces Architecture Variants](https://lwn.net/Articles/1044383/)
 * [2025-10-31, 14:44:59](https://news.ycombinator.com/item?id=45772519) - [Debug like a boss: 10 debugging hacks for developers, quality engineers, testers](https://www.ministryoftesting.com/articles/debug-like-a-boss-10-debugging-hacks-for-developers-quality-engineers-and-testers)
 * [2025-10-31, 14:28:35](https://news.ycombinator.com/item?id=45772347) - [Nix Derivation Madness](https://fzakaria.com/2025/10/29/nix-derivation-madness)
 * [2025-10-31, 14:15:12](https://news.ycombinator.com/item?id=45772224) - [Nim 2.2.6](https://nim-lang.org//blog/2025/10/31/nim-226.html)
@@ -28,7 +29,6 @@
 * [2025-10-25, 07:54:33](https://news.ycombinator.com/item?id=45702091) - [It's the \"Hardware\", Stupid](https://haebom.dev/archive?post=4w67rj24q76nrm5yq8ep)
 * [2025-10-24, 07:00:57](https://news.ycombinator.com/item?id=45691697) - [Bertie the Brain](https://en.wikipedia.org/wiki/Bertie_the_Brain)
 * [2025-10-23, 10:45:33](https://news.ycombinator.com/item?id=45680366) - [A classic graphic reveals nature's most efficient traveler](https://www.scientificamerican.com/article/a-human-on-a-bicycle-is-among-the-most-efficient-forms-of-travel-in-the/)
-* [2025-10-23, 09:43:52](https://news.ycombinator.com/item?id=45680023) - [Rouille – Rust Programming, in French](https://github.com/bnjbvr/rouille)
 * [2025-10-22, 16:12:16](https://news.ycombinator.com/item?id=45671336) - [A Closer Look at Piezoelectric Crystal](https://www.samaterials.com/content/a-closer-look-at-stressed-piezo-crystals.html)
 
 ## [Archives](archives/index.md)
