@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-10-31, 14:47:41",
+      "https://news.ycombinator.com/item?id=45772558"
+    ],
+    [
+      "Warp Terminal changes pricing model",
+      "https://www.warp.dev/blog/warp-new-pricing-flexibility-byok"
+    ]
+  ],
+  [
+    [
+      "2025-10-31, 14:28:35",
+      "https://news.ycombinator.com/item?id=45772347"
+    ],
+    [
+      "Nix Derivation Madness",
+      "https://fzakaria.com/2025/10/29/nix-derivation-madness"
+    ]
+  ],
+  [
+    [
       "2025-10-31, 14:16:17",
       "https://news.ycombinator.com/item?id=45772236"
     ],
@@ -17,6 +37,16 @@
     [
       "Nim 2.2.6",
       "https://nim-lang.org//blog/2025/10/31/nim-226.html"
+    ]
+  ],
+  [
+    [
+      "2025-10-31, 14:09:04",
+      "https://news.ycombinator.com/item?id=45772153"
+    ],
+    [
+      "Rotating Workforce Scheduling in MiniZinc",
+      "https://zayenz.se/blog/post/rotating-workforce-scheduling/"
     ]
   ],
   [
@@ -117,16 +147,6 @@
     [
       "John Carmack on mutable variables",
       "https://twitter.com/id_aa_carmack/status/1983593511703474196"
-    ]
-  ],
-  [
-    [
-      "2025-10-31, 01:00:45",
-      "https://news.ycombinator.com/item?id=45767257"
-    ],
-    [
-      "Roadmap for Improving the Type Checker",
-      "https://forums.swift.org/t/roadmap-for-improving-the-type-checker/82952"
     ]
   ],
   [
@@ -251,32 +271,12 @@
   ],
   [
     [
-      "2025-10-24, 11:55:59",
-      "https://news.ycombinator.com/item?id=45693698"
-    ],
-    [
-      "In orbit you have to slow down to speed up",
-      "https://www.wired.com/story/in-orbit-you-have-to-slow-down-to-speed-up/"
-    ]
-  ],
-  [
-    [
       "2025-10-24, 07:00:57",
       "https://news.ycombinator.com/item?id=45691697"
     ],
     [
       "Bertie the Brain",
       "https://en.wikipedia.org/wiki/Bertie_the_Brain"
-    ]
-  ],
-  [
-    [
-      "2025-10-23, 10:45:33",
-      "https://news.ycombinator.com/item?id=45680366"
-    ],
-    [
-      "A classic graphic reveals nature's most efficient traveler",
-      "https://www.scientificamerican.com/article/a-human-on-a-bicycle-is-among-the-most-efficient-forms-of-travel-in-the/"
     ]
   ],
   [
