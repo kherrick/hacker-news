@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-10-31](index.md)
 
+* [2025-10-31, 04:37:42](https://news.ycombinator.com/item?id=45768482) - [A Look at Antml: The Anthropic Markup Language](https://karashiiro.leaflet.pub/3m4gf7geefs2l)
 * [2025-10-31, 03:39:34](https://news.ycombinator.com/item?id=45768156) - [No Code](https://github.com/lemonyte/no-code)
 * [2025-10-31, 03:07:48](https://news.ycombinator.com/item?id=45767916) - [AMD Could Enter ARM Market with Sound Wave APU Built on TSMC 3nm Process](https://www.guru3d.com/story/amd-enters-arm-market-with-sound-wave-apu-built-on-tsmc-3nm-process/)
 * [2025-10-31, 02:34:36](https://news.ycombinator.com/item?id=45767725) - [John Carmack on Mutable Variables](https://twitter.com/id_aa_carmack/status/1983593511703474196)

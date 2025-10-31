@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-10-31, 03:39:34](https://news.ycombinator.com/item?id=45768156) - [No Code](https://github.com/lemonyte/no-code)
+* [2025-10-31, 04:37:42](https://news.ycombinator.com/item?id=45768482) - [A Look at Antml: The Anthropic Markup Language](https://karashiiro.leaflet.pub/3m4gf7geefs2l)
 * [2025-10-31, 03:07:48](https://news.ycombinator.com/item?id=45767916) - [AMD Could Enter ARM Market with Sound Wave APU Built on TSMC 3nm Process](https://www.guru3d.com/story/amd-enters-arm-market-with-sound-wave-apu-built-on-tsmc-3nm-process/)
 * [2025-10-31, 01:13:56](https://news.ycombinator.com/item?id=45767325) - [ICE and the Smartphone Panopticon](https://www.newyorker.com/culture/infinite-scroll/ice-and-the-smartphone-panopticon)
 * [2025-10-31, 01:00:45](https://news.ycombinator.com/item?id=45767257) - [Roadmap for Improving the Type Checker](https://forums.swift.org/t/roadmap-for-improving-the-type-checker/82952)
