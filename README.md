@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-10-31, 18:21:50](https://news.ycombinator.com/item?id=45775066) - [OpenAI thought to be preparing for $1T stock market float](https://www.theguardian.com/technology/2025/oct/30/openai-1tn-stock-market-float-ipo)
+* [2025-10-31, 19:16:05](https://news.ycombinator.com/item?id=45775642) - [How to build silos and decrease collaboration (on purpose)](https://www.rubick.com/how-to-build-silos-and-decrease-collaboration/)
 * [2025-10-31, 17:49:16](https://news.ycombinator.com/item?id=45774724) - [x86 architecture 1 byte opcodes](https://www.sandpile.org/x86/opc_1.htm)
 * [2025-10-31, 17:42:55](https://news.ycombinator.com/item?id=45774640) - [Addiction Markets: Abolish Corporate-Run Gambling](https://www.thebignewsletter.com/p/addiction-markets-abolish-corporate)
 * [2025-10-31, 17:37:15](https://news.ycombinator.com/item?id=45774571) - [Use DuckDB-WASM to query TB of data in browser](https://lil.law.harvard.edu/blog/2025/10/24/rethinking-data-discovery-for-libraries-and-digital-humanities/)
