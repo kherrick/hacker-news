@@ -24,6 +24,7 @@
 * [2025-10-30, 17:04:53](https://news.ycombinator.com/item?id=45762307) - [Ex-Mossad chief brags Israel has installed a global sabotage network](https://www.middleeastmonitor.com/20251030-ex-mossad-chief-behind-icj-blackmail-campaign-brags-israel-has-installed-a-global-sabotage-network/)
 * [2025-10-30, 17:01:20](https://news.ycombinator.com/item?id=45762259) - [The ear does not do a Fourier transform](https://www.dissonances.blog/p/the-ear-does-not-do-a-fourier-transform)
 * [2025-10-30, 16:50:19](https://news.ycombinator.com/item?id=45762136) - [Moderna, the company that helped save the world, has unraveled](https://www.statnews.com/2025/10/30/moderna-rise-fall-biotech-analysis-from-pandemic-rise-to-mrna-crash/)
+* [2025-10-30, 16:45:06](https://news.ycombinator.com/item?id=45762064) - [Signs of introspection in large language models](https://www.anthropic.com/research/introspection)
 * [2025-10-30, 16:40:02](https://news.ycombinator.com/item?id=45762012) - [Launch HN: Propolis (YC X25) – Browser agents that QA your web app autonomously](https://app.propolis.tech/#/launch)
 * [2025-10-30, 16:32:22](https://news.ycombinator.com/item?id=45761902) - [Falling panel prices lead to global solar boom, except for the US](https://arstechnica.com/science/2025/10/theres-a-global-boom-in-solar-except-in-the-united-states/)
 * [2025-10-30, 16:23:56](https://news.ycombinator.com/item?id=45761789) - [Qt Creator 18 Released](https://www.qt.io/blog/qt-creator-18-released)
