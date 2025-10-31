@@ -72,6 +72,7 @@
 * [2025-10-23, 10:49:02](https://news.ycombinator.com/item?id=45680390) - [Egg prices vs. Consumer Price Index since 1980](https://fred.stlouisfed.org/graph/?g=1Nm5b)
 * [2025-10-23, 10:15:12](https://news.ycombinator.com/item?id=45680237) - [PyTorch Monarch](https://pytorch.org/blog/introducing-pytorch-monarch/)
 * [2025-10-23, 09:47:53](https://news.ycombinator.com/item?id=45680050) - [Show HN: A Visual No-Code Game Engine – 50x Easier Than Unity](https://play-maker.io)
+* [2025-10-23, 09:43:52](https://news.ycombinator.com/item?id=45680023) - [Rouille – Rust Programming, in French](https://github.com/bnjbvr/rouille)
 * [2025-10-23, 08:41:21](https://news.ycombinator.com/item?id=45679638) - [C64 Blood Money](https://lemmings.info/c64-blood-money/)
 * [2025-10-23, 08:31:13](https://news.ycombinator.com/item?id=45679558) - [Female spies are waging 'sex warfare' to steal Silicon Valley secrets](https://www.thetimes.com/us/american-politics/article/silicon-valley-spy-china-russia-2v03676kl)
 * [2025-10-23, 07:46:56](https://news.ycombinator.com/item?id=45679307) - [AI assistance is only making coders dumb, lazy and prone to replacement](https://news.ycombinator.com/item?id=45679307)
