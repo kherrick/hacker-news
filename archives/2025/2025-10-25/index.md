@@ -46,6 +46,7 @@
 * [2025-10-25, 15:00:06](https://news.ycombinator.com/item?id=45704419) - [Against SQL](https://www.scattered-thoughts.net/writing/against-sql/)
 * [2025-10-25, 14:33:19](https://news.ycombinator.com/item?id=45704216) - [UIs Are Not Pure Functions of the Model – React.js and Cocoa Side by Side (2018)](https://blog.metaobject.com/2018/12/uis-are-not-pure-functions-of-model.html)
 * [2025-10-25, 13:54:33](https://news.ycombinator.com/item?id=45703926) - [TigerBeetle and Synadia pledge $512k to the Zig Software Foundation](https://tigerbeetle.com/blog/2025-10-25-synadia-and-tigerbeetle-pledge-512k-to-the-zig-software-foundation/#blog-post)
+* [2025-10-25, 13:46:35](https://news.ycombinator.com/item?id=45703860) - [Wheels for free-threaded Python now available for psutil](https://gmpy.dev/blog/2025/wheels-for-free-threaded-python-now-available-in-psutil)
 * [2025-10-25, 13:33:57](https://news.ycombinator.com/item?id=45703767) - [DNA reveals the real killers that brought down Napoleon's army](https://www.gavi.org/vaccineswork/dna-reveals-real-killers-brought-down-napoleons-army)
 * [2025-10-25, 13:24:14](https://news.ycombinator.com/item?id=45703716) - [Synadia and TigerBeetle Commit $512k USD to the Zig Software Foundation](https://www.synadia.com/blog/synadia-tigerbeetle-zig-foundation-pledge)
 * [2025-10-25, 13:01:39](https://news.ycombinator.com/item?id=45703556) - [Making a micro Linux distro (2023)](https://popovicu.com/posts/making-a-micro-linux-distro/)
