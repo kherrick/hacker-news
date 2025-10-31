@@ -58,6 +58,7 @@
 * [2025-10-24, 08:24:16](https://news.ycombinator.com/item?id=45692241) - [ChatGPT Launches 'Company Knowledge'](https://openai.com/index/introducing-company-knowledge/)
 * [2025-10-24, 08:10:53](https://news.ycombinator.com/item?id=45692163) - [Britain's most tattooed man says UK's age check told him to \"remove his face\"](https://www.dexerto.com/entertainment/britains-most-tattooed-man-says-uks-age-check-system-told-him-to-remove-his-face-3232920/)
 * [2025-10-24, 08:04:28](https://news.ycombinator.com/item?id=45692116) - [Apple will phase out Rosetta 2 in macOS 28](https://developer.apple.com/documentation/apple-silicon/about-the-rosetta-translation-environment)
+* [2025-10-24, 07:00:57](https://news.ycombinator.com/item?id=45691697) - [Bertie the Brain](https://en.wikipedia.org/wiki/Bertie_the_Brain)
 * [2025-10-24, 05:47:37](https://news.ycombinator.com/item?id=45691218) - [The Aesthete's Progress](https://sydneyreviewofbooks.com/essays/the-aesthetes-progress)
 * [2025-10-24, 05:32:04](https://news.ycombinator.com/item?id=45691127) - [Alaska Airlines' statement on IT outage](https://news.alaskaair.com/on-the-record/alaska-statement-on-it-outage/)
 * [2025-10-24, 05:14:50](https://news.ycombinator.com/item?id=45691002) - [The Light of \"The Brothers Karamazov\"](https://www.newyorker.com/books/second-read/the-light-of-the-brothers-karamazov)

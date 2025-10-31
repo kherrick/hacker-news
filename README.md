@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-10-31, 10:15:24](https://news.ycombinator.com/item?id=45770317) - [Claude Is Down](https://status.claude.com/incidents/s5f75jhwjs6g)
 * [2025-10-31, 09:23:41](https://news.ycombinator.com/item?id=45769971) - [Reasoning Models Reason Well, Until They Don't](https://arxiv.org/abs/2510.22371)
-* [2025-10-31, 09:13:03](https://news.ycombinator.com/item?id=45769901) - [Claude.ai Is Down](https://claude.ai)
+* [2025-10-31, 09:22:58](https://news.ycombinator.com/item?id=45769963) - [Some rando turned me into a meme coin](https://cloudfour.com/thinks/that-time-some-rando-turned-me-into-a-meme-coin/)
 * [2025-10-31, 09:05:08](https://news.ycombinator.com/item?id=45769857) - [Show HN: A fast, dependency-free traceroute implementation in pure C](https://github.com/davidesantangelo/fastrace)
 * [2025-10-31, 03:07:48](https://news.ycombinator.com/item?id=45767916) - [AMD Could Enter ARM Market with Sound Wave APU Built on TSMC 3nm Process](https://www.guru3d.com/story/amd-enters-arm-market-with-sound-wave-apu-built-on-tsmc-3nm-process/)
 * [2025-10-31, 02:34:36](https://news.ycombinator.com/item?id=45767725) - [John Carmack on mutable variables](https://twitter.com/id_aa_carmack/status/1983593511703474196)
@@ -12,7 +13,6 @@
 * [2025-10-30, 21:35:42](https://news.ycombinator.com/item?id=45765664) - [Denmark reportedly withdraws Chat Control proposal following controversy](https://therecord.media/demark-reportedly-withdraws-chat-control-proposal)
 * [2025-10-30, 18:59:02](https://news.ycombinator.com/item?id=45763877) - [Minecraft HDL, an HDL for Redstone](https://github.com/itsfrank/MinecraftHDL)
 * [2025-10-30, 17:01:20](https://news.ycombinator.com/item?id=45762259) - [How the cochlea computes (2024)](https://www.dissonances.blog/p/the-ear-does-not-do-a-fourier-transform)
-* [2025-10-30, 16:40:02](https://news.ycombinator.com/item?id=45762012) - [Launch HN: Propolis (YC X25) – Browser agents that QA your web app autonomously](https://app.propolis.tech/#/launch)
 * [2025-10-30, 15:54:38](https://news.ycombinator.com/item?id=45761445) - [Affinity Studio now free](https://www.affinity.studio/get-affinity)
 * [2025-10-30, 15:07:15](https://news.ycombinator.com/item?id=45760878) - [Free software scares normal people](https://danieldelaney.net/normal/)
 * [2025-10-30, 14:21:58](https://news.ycombinator.com/item?id=45760321) - [Show HN: I made a heatmap diff viewer for code reviews](https://0github.com)
@@ -26,9 +26,9 @@
 * [2025-10-25, 11:40:58](https://news.ycombinator.com/item?id=45703063) - [Result is all I need](https://rockyj-blogs.web.app/2025/10/25/result-monad.html)
 * [2025-10-25, 08:43:28](https://news.ycombinator.com/item?id=45702281) - [Exceptional Measurement of Chirality](https://www.rsc.org/news/2019/july/exceptional-measurement-of-chirality)
 * [2025-10-25, 01:24:49](https://news.ycombinator.com/item?id=45700672) - [Modifying a radiation meter for (radioactive) rock collecting](https://maurycyz.com/projects/ludlum3/)
+* [2025-10-24, 07:00:57](https://news.ycombinator.com/item?id=45691697) - [Bertie the Brain](https://en.wikipedia.org/wiki/Bertie_the_Brain)
 * [2025-10-23, 10:45:33](https://news.ycombinator.com/item?id=45680366) - [A Classic Graphic Reveals Nature's Most Efficient Traveler](https://www.scientificamerican.com/article/a-human-on-a-bicycle-is-among-the-most-efficient-forms-of-travel-in-the/)
 * [2025-10-23, 09:43:52](https://news.ycombinator.com/item?id=45680023) - [Rouille – Rust Programming, in French](https://github.com/bnjbvr/rouille)
-* [2025-10-23, 07:06:07](https://news.ycombinator.com/item?id=45679046) - [The Psychology of Portnoy: On the Making of Philip Roth's Groundbreaking Novel](https://lithub.com/the-psychology-of-portnoy-on-the-making-of-philip-roths-groundbreaking-novel/)
 * [2025-10-22, 16:12:16](https://news.ycombinator.com/item?id=45671336) - [A Closer Look at Piezoelectric Crystal](https://www.samaterials.com/content/a-closer-look-at-stressed-piezo-crystals.html)
 
 ## [Archives](archives/index.md)

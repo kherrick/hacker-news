@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-10-31](index.md)
 
+* [2025-10-31, 10:15:24](https://news.ycombinator.com/item?id=45770317) - [Claude Is Down](https://status.claude.com/incidents/s5f75jhwjs6g)
 * [2025-10-31, 09:23:41](https://news.ycombinator.com/item?id=45769971) - [Reasoning Models Reason Well, Until They Don't](https://arxiv.org/abs/2510.22371)
+* [2025-10-31, 09:22:58](https://news.ycombinator.com/item?id=45769963) - [Some rando turned me into a meme coin](https://cloudfour.com/thinks/that-time-some-rando-turned-me-into-a-meme-coin/)
 * [2025-10-31, 09:13:03](https://news.ycombinator.com/item?id=45769901) - [Claude.ai Is Down](https://claude.ai)
 * [2025-10-31, 09:05:08](https://news.ycombinator.com/item?id=45769857) - [Show HN: A fast, dependency-free traceroute implementation in pure C](https://github.com/davidesantangelo/fastrace)
 * [2025-10-31, 06:09:25](https://news.ycombinator.com/item?id=45768889) - [Pornhub says UK visitors down 77% since age checks came in](https://www.bbc.com/news/articles/cgkz3m3re1zo)
