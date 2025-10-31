@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-10-31, 23:23:59](https://news.ycombinator.com/item?id=45777810) - [Show HN: Strange Attractors](https://blog.shashanktomar.com/posts/strange-attractors)
+* [2025-10-31, 23:03:56](https://news.ycombinator.com/item?id=45777683) - [Photographing the rare brown hyena stalking a diamond mining ghost town](https://www.bbc.com/future/article/20251014-the-rare-hyena-stalking-a-diamond-mining-ghost-town)
 * [2025-10-31, 20:20:42](https://news.ycombinator.com/item?id=45776269) - [A theoretical way to circumvent Android developer verification](https://enaix.github.io/2025/10/30/developer-verification.html)
 * [2025-10-31, 19:16:05](https://news.ycombinator.com/item?id=45775642) - [How to build silos and decrease collaboration on purpose](https://www.rubick.com/how-to-build-silos-and-decrease-collaboration/)
 * [2025-10-31, 17:49:16](https://news.ycombinator.com/item?id=45774724) - [x86 architecture 1 byte opcodes](https://www.sandpile.org/x86/opc_1.htm)
@@ -24,7 +25,6 @@
 * [2025-10-29, 22:21:12](https://news.ycombinator.com/item?id=45753850) - [Llamafile Returns](https://blog.mozilla.ai/llamafile-returns/)
 * [2025-10-29, 01:31:56](https://news.ycombinator.com/item?id=45741569) - [Hacking India's largest automaker: Tata Motors](https://eaton-works.com/2025/10/28/tata-motors-hack/)
 * [2025-10-28, 16:19:26](https://news.ycombinator.com/item?id=45734865) - [Show HN: Pipelex – Declarative language for repeatable AI workflows](https://github.com/Pipelex/pipelex)
-* [2025-10-28, 12:49:15](https://news.ycombinator.com/item?id=45732160) - [Floppy Disk / Diskettes // retrocmp / retro computing](https://retrocmp.de/fdd/diskette/diskette.htm)
 * [2025-10-27, 17:42:17](https://news.ycombinator.com/item?id=45724043) - [The Last PCB You'll Ever Buy [video]](https://www.youtube.com/watch?v=A_IUIyyqw0M)
 * [2025-10-27, 15:29:17](https://news.ycombinator.com/item?id=45722089) - [History's first public hack: rats, rats, rats](https://www.rigb.org/explore-science/explore/blog/historys-first-public-hack-rats-rats-rats)
 * [2025-10-25, 20:27:16](https://news.ycombinator.com/item?id=45706707) - [Lording it, over: A new history of the modern British aristocracy](https://newcriterion.com/article/lording-it-over/)
