@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-10-31, 06:09:25](https://news.ycombinator.com/item?id=45768889) - [Pornhub says UK visitors down 77% since age checks came in](https://www.bbc.com/news/articles/cgkz3m3re1zo)
 * [2025-10-31, 03:07:48](https://news.ycombinator.com/item?id=45767916) - [AMD Could Enter ARM Market with Sound Wave APU Built on TSMC 3nm Process](https://www.guru3d.com/story/amd-enters-arm-market-with-sound-wave-apu-built-on-tsmc-3nm-process/)
 * [2025-10-31, 02:34:36](https://news.ycombinator.com/item?id=45767725) - [John Carmack on mutable variables](https://twitter.com/id_aa_carmack/status/1983593511703474196)
 * [2025-10-31, 01:13:56](https://news.ycombinator.com/item?id=45767325) - [ICE and the Smartphone Panopticon](https://www.newyorker.com/culture/infinite-scroll/ice-and-the-smartphone-panopticon)
@@ -15,7 +16,6 @@
 * [2025-10-30, 15:07:15](https://news.ycombinator.com/item?id=45760878) - [Free software scares normal people](https://danieldelaney.net/normal/)
 * [2025-10-30, 14:21:58](https://news.ycombinator.com/item?id=45760321) - [Show HN: I made a heatmap diff viewer for code reviews](https://0github.com)
 * [2025-10-30, 00:37:33](https://news.ycombinator.com/item?id=45755027) - [NPM flooded with malicious packages downloaded more than 86k times](https://arstechnica.com/security/2025/10/npm-flooded-with-malicious-packages-downloaded-more-than-86000-times/)
-* [2025-10-29, 13:20:03](https://news.ycombinator.com/item?id=45746482) - [Israel demanded Google and Amazon use secret 'wink' to sidestep legal orders](https://www.theguardian.com/us-news/2025/oct/29/google-amazon-israel-contract-secret-code)
 * [2025-10-29, 12:35:12](https://news.ycombinator.com/item?id=45746020) - [Zig's New Async I/O](https://andrewkelley.me/post/zig-new-async-io-text-version.html)
 * [2025-10-29, 06:12:46](https://news.ycombinator.com/item?id=45743232) - [Show HN: Front End Fuzzy and Substring and Prefix Search](https://github.com/m31coding/fuzzy-search)
 * [2025-10-29, 05:27:42](https://news.ycombinator.com/item?id=45742957) - [Jack Kerouac, Malcolm Cowley, and the difficult birth of On the Road](https://theamericanscholar.org/scrolling-through/)
@@ -26,7 +26,7 @@
 * [2025-10-25, 20:04:50](https://news.ycombinator.com/item?id=45706570) - [Show HN: Status of my favorite bike share stations](https://blog.alexboden.ca/toronto-bike-share-status/)
 * [2025-10-25, 08:43:28](https://news.ycombinator.com/item?id=45702281) - [Exceptional Measurement of Chirality](https://www.rsc.org/news/2019/july/exceptional-measurement-of-chirality)
 * [2025-10-25, 01:24:49](https://news.ycombinator.com/item?id=45700672) - [Modifying a radiation meter for (radioactive) rock collecting](https://maurycyz.com/projects/ludlum3/)
-* [2025-10-24, 12:42:31](https://news.ycombinator.com/item?id=45694032) - [Show HN: Run a GitHub Actions step in a gVisor sandbox](https://github.com/geomys/sandboxed-step)
+* [2025-10-23, 10:45:33](https://news.ycombinator.com/item?id=45680366) - [A Classic Graphic Reveals Nature's Most Efficient Traveler](https://www.scientificamerican.com/article/a-human-on-a-bicycle-is-among-the-most-efficient-forms-of-travel-in-the/)
 * [2025-10-23, 09:43:52](https://news.ycombinator.com/item?id=45680023) - [Rouille – Rust Programming, in French](https://github.com/bnjbvr/rouille)
 * [2025-10-23, 07:06:07](https://news.ycombinator.com/item?id=45679046) - [The Psychology of Portnoy: On the Making of Philip Roth's Groundbreaking Novel](https://lithub.com/the-psychology-of-portnoy-on-the-making-of-philip-roths-groundbreaking-novel/)
 * [2025-10-22, 16:12:16](https://news.ycombinator.com/item?id=45671336) - [A Closer Look at Piezoelectric Crystal](https://www.samaterials.com/content/a-closer-look-at-stressed-piezo-crystals.html)

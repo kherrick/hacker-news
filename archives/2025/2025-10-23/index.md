@@ -70,6 +70,7 @@
 * [2025-10-23, 11:21:04](https://news.ycombinator.com/item?id=45680583) - [Corrosion](https://fly.io/blog/corrosion/)
 * [2025-10-23, 11:15:44](https://news.ycombinator.com/item?id=45680547) - [SpaceX disables 2,500 Starlink terminals allegedly used by Asian scam centers](https://arstechnica.com/tech-policy/2025/10/starlink-blocks-2500-dishes-allegedly-used-by-myanmars-notorious-scam-centers/)
 * [2025-10-23, 10:49:02](https://news.ycombinator.com/item?id=45680390) - [Egg prices vs. Consumer Price Index since 1980](https://fred.stlouisfed.org/graph/?g=1Nm5b)
+* [2025-10-23, 10:45:33](https://news.ycombinator.com/item?id=45680366) - [A Classic Graphic Reveals Nature's Most Efficient Traveler](https://www.scientificamerican.com/article/a-human-on-a-bicycle-is-among-the-most-efficient-forms-of-travel-in-the/)
 * [2025-10-23, 10:15:12](https://news.ycombinator.com/item?id=45680237) - [PyTorch Monarch](https://pytorch.org/blog/introducing-pytorch-monarch/)
 * [2025-10-23, 09:47:53](https://news.ycombinator.com/item?id=45680050) - [Show HN: A Visual No-Code Game Engine – 50x Easier Than Unity](https://play-maker.io)
 * [2025-10-23, 09:43:52](https://news.ycombinator.com/item?id=45680023) - [Rouille – Rust Programming, in French](https://github.com/bnjbvr/rouille)
