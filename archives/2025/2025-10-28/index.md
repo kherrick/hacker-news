@@ -59,6 +59,7 @@
 * [2025-10-28, 13:22:24](https://news.ycombinator.com/item?id=45732552) - [Sick: Indexed deduplicated binary storage for JSON-like data structures](https://github.com/7mind/sick)
 * [2025-10-28, 13:16:40](https://news.ycombinator.com/item?id=45732485) - [Austrian Ministry Kicks Out Microsoft in Favor of Nextcloud](https://news.itsfoss.com/austrian-ministry-kicks-out-microsoft/)
 * [2025-10-28, 13:05:40](https://news.ycombinator.com/item?id=45732350) - [The next chapter of the Microsoft–OpenAI partnership](https://openai.com/index/next-chapter-of-microsoft-openai-partnership/)
+* [2025-10-28, 12:49:15](https://news.ycombinator.com/item?id=45732160) - [Floppy Disk / Diskettes // retrocmp / retro computing](https://retrocmp.de/fdd/diskette/diskette.htm)
 * [2025-10-28, 12:19:38](https://news.ycombinator.com/item?id=45731848) - [Tailscale Services](https://tailscale.com/blog/services-beta)
 * [2025-10-28, 11:39:24](https://news.ycombinator.com/item?id=45731539) - [Amazon confirms 14,000 job losses in corporate division](https://www.bbc.com/news/articles/c1m3zm9jnl1o)
 * [2025-10-28, 11:14:54](https://news.ycombinator.com/item?id=45731385) - [Nine months later, is still the \"Gulf of Mexico\" to news outlets](https://www.niemanlab.org/2025/10/nine-months-later-that-body-of-water-down-south-is-still-the-gulf-of-mexico-to-news-outlets/)
