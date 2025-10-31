@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-10-31, 20:20:42",
+      "https://news.ycombinator.com/item?id=45776269"
+    ],
+    [
+      "A theoretical way to circumvent Android developer verification",
+      "https://enaix.github.io/2025/10/30/developer-verification.html"
+    ]
+  ],
+  [
+    [
       "2025-10-31, 19:16:05",
       "https://news.ycombinator.com/item?id=45775642"
     ],
@@ -67,16 +77,6 @@
     [
       "AI scrapers request commented scripts",
       "https://cryptography.dog/blog/AI-scrapers-request-commented-scripts/"
-    ]
-  ],
-  [
-    [
-      "2025-10-31, 14:55:53",
-      "https://news.ycombinator.com/item?id=45772650"
-    ],
-    [
-      "Show HN: Build your own Bracket City puzzle",
-      "https://builder.bracket.city"
     ]
   ],
   [
@@ -271,12 +271,12 @@
   ],
   [
     [
-      "2025-10-25, 13:46:35",
-      "https://news.ycombinator.com/item?id=45703860"
+      "2025-10-26, 11:23:59",
+      "https://news.ycombinator.com/item?id=45710875"
     ],
     [
-      "Wheels for free-threaded Python now available for psutil",
-      "https://gmpy.dev/blog/2025/wheels-for-free-threaded-python-now-available-in-psutil"
+      "Corrosion",
+      "https://fly.io/blog/corrosion/"
     ]
   ],
   [
