@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-10-31, 18:16:10",
+      "https://news.ycombinator.com/item?id=45775000"
+    ],
+    [
+      "The Hunger Games Begin",
+      "https://paulkrugman.substack.com/p/the-hunger-games-begin"
+    ]
+  ],
+  [
+    [
       "2025-10-31, 17:49:16",
       "https://news.ycombinator.com/item?id=45774724"
     ],
@@ -17,6 +27,16 @@
     [
       "Addiction Markets: Abolish Corporate-Run Gambling",
       "https://www.thebignewsletter.com/p/addiction-markets-abolish-corporate"
+    ]
+  ],
+  [
+    [
+      "2025-10-31, 17:37:15",
+      "https://news.ycombinator.com/item?id=45774571"
+    ],
+    [
+      "Use DuckDB-WASM to query TB of data in browser",
+      "https://lil.law.harvard.edu/blog/2025/10/24/rethinking-data-discovery-for-libraries-and-digital-humanities/"
     ]
   ],
   [
@@ -141,6 +161,16 @@
   ],
   [
     [
+      "2025-10-31, 11:54:00",
+      "https://news.ycombinator.com/item?id=45771019"
+    ],
+    [
+      "Perfetto: Swiss army knife for Linux client tracing",
+      "https://lalitm.com/perfetto-swiss-army-knife/"
+    ]
+  ],
+  [
+    [
       "2025-10-31, 11:33:41",
       "https://news.ycombinator.com/item?id=45770875"
     ],
@@ -157,6 +187,16 @@
     [
       "Claude outage",
       "https://status.claude.com/incidents/s5f75jhwjs6g"
+    ]
+  ],
+  [
+    [
+      "2025-10-31, 10:13:40",
+      "https://news.ycombinator.com/item?id=45770304"
+    ],
+    [
+      "My Impressions of the MacBook Pro M4",
+      "https://michael.stapelberg.ch/posts/2025-10-31-macbook-pro-m4-impressions/"
     ]
   ],
   [
@@ -191,26 +231,6 @@
   ],
   [
     [
-      "2025-10-30, 21:49:11",
-      "https://news.ycombinator.com/item?id=45765787"
-    ],
-    [
-      "Phone numbers for use in TV shows, films and creative works",
-      "https://www.acma.gov.au/phone-numbers-use-tv-shows-films-and-creative-works"
-    ]
-  ],
-  [
-    [
-      "2025-10-30, 17:01:20",
-      "https://news.ycombinator.com/item?id=45762259"
-    ],
-    [
-      "How the cochlea computes (2024)",
-      "https://www.dissonances.blog/p/the-ear-does-not-do-a-fourier-transform"
-    ]
-  ],
-  [
-    [
       "2025-10-30, 10:35:00",
       "https://news.ycombinator.com/item?id=45758392"
     ],
@@ -241,32 +261,12 @@
   ],
   [
     [
-      "2025-10-25, 16:28:09",
-      "https://news.ycombinator.com/item?id=45705084"
-    ],
-    [
-      "How AI gave me my voice back – an artist's review of Suno Studio",
-      "https://blog.andyshand.com/blog/how-ai-gave-me-my-voice-back"
-    ]
-  ],
-  [
-    [
       "2025-10-25, 13:46:35",
       "https://news.ycombinator.com/item?id=45703860"
     ],
     [
       "Wheels for free-threaded Python now available for psutil",
       "https://gmpy.dev/blog/2025/wheels-for-free-threaded-python-now-available-in-psutil"
-    ]
-  ],
-  [
-    [
-      "2025-10-25, 11:40:58",
-      "https://news.ycombinator.com/item?id=45703063"
-    ],
-    [
-      "Result is all I need",
-      "https://rockyj-blogs.web.app/2025/10/25/result-monad.html"
     ]
   ],
   [
