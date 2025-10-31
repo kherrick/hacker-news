@@ -71,6 +71,16 @@
   ],
   [
     [
+      "2025-10-31, 16:49:26",
+      "https://news.ycombinator.com/item?id=45774086"
+    ],
+    [
+      "Futurelock: A subtle risk in async Rust",
+      "https://rfd.shared.oxide.computer/rfd/0609"
+    ]
+  ],
+  [
+    [
       "2025-10-31, 16:39:22",
       "https://news.ycombinator.com/item?id=45773974"
     ],
@@ -177,16 +187,6 @@
     [
       "My Impressions of the MacBook Pro M4",
       "https://michael.stapelberg.ch/posts/2025-10-31-macbook-pro-m4-impressions/"
-    ]
-  ],
-  [
-    [
-      "2025-10-31, 09:23:41",
-      "https://news.ycombinator.com/item?id=45769971"
-    ],
-    [
-      "Reasoning models reason well, until they don't",
-      "https://arxiv.org/abs/2510.22371"
     ]
   ],
   [
