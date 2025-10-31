@@ -11,22 +11,12 @@
   ],
   [
     [
-      "2025-10-31, 01:48:39",
-      "https://news.ycombinator.com/item?id=45767505"
+      "2025-10-31, 03:07:48",
+      "https://news.ycombinator.com/item?id=45767916"
     ],
     [
-      "Ground stop at JFK due to staffing",
-      "https://www.fly.faa.gov/adv/adv_otherdis?advn=13&adv_date=10312025&facId=JFK&title=ATCSCC%20ADVZY%20013%20JFK/ZNY%2010/31/2025%20CDM%20GROUND%20STOP&titleDate=10/31/2025"
-    ]
-  ],
-  [
-    [
-      "2025-10-31, 01:16:14",
-      "https://news.ycombinator.com/item?id=45767343"
-    ],
-    [
-      "Chromium Browser DoS Attack via Document.title Exploitation",
-      "https://github.com/jofpin/brash"
+      "AMD Could Enter ARM Market with Sound Wave APU Built on TSMC 3nm Process",
+      "https://www.guru3d.com/story/amd-enters-arm-market-with-sound-wave-apu-built-on-tsmc-3nm-process/"
     ]
   ],
   [
@@ -277,6 +267,16 @@
     [
       "Modifying a radiation meter for (radioactive) rock collecting",
       "https://maurycyz.com/projects/ludlum3/"
+    ]
+  ],
+  [
+    [
+      "2025-10-24, 12:42:31",
+      "https://news.ycombinator.com/item?id=45694032"
+    ],
+    [
+      "Show HN: Run a GitHub Actions step in a gVisor sandbox",
+      "https://github.com/geomys/sandboxed-step"
     ]
   ],
   [
