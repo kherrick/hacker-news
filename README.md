@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-10-31, 02:34:36](https://news.ycombinator.com/item?id=45767725) - [John Carmack on Mutable Variables](https://twitter.com/id_aa_carmack/status/1983593511703474196)
+* [2025-10-31, 03:39:34](https://news.ycombinator.com/item?id=45768156) - [No Code](https://github.com/lemonyte/no-code)
 * [2025-10-31, 01:48:39](https://news.ycombinator.com/item?id=45767505) - [Ground stop at JFK due to staffing](https://www.fly.faa.gov/adv/adv_otherdis?advn=13&adv_date=10312025&facId=JFK&title=ATCSCC%20ADVZY%20013%20JFK/ZNY%2010/31/2025%20CDM%20GROUND%20STOP&titleDate=10/31/2025)
 * [2025-10-31, 01:16:14](https://news.ycombinator.com/item?id=45767343) - [Chromium Browser DoS Attack via Document.title Exploitation](https://github.com/jofpin/brash)
 * [2025-10-31, 01:13:56](https://news.ycombinator.com/item?id=45767325) - [ICE and the Smartphone Panopticon](https://www.newyorker.com/culture/infinite-scroll/ice-and-the-smartphone-panopticon)
@@ -23,11 +23,11 @@
 * [2025-10-29, 06:12:46](https://news.ycombinator.com/item?id=45743232) - [Show HN: Front End Fuzzy and Substring and Prefix Search](https://github.com/m31coding/fuzzy-search)
 * [2025-10-29, 05:27:42](https://news.ycombinator.com/item?id=45742957) - [Jack Kerouac, Malcolm Cowley, and the difficult birth of On the Road](https://theamericanscholar.org/scrolling-through/)
 * [2025-10-28, 18:01:46](https://news.ycombinator.com/item?id=45736461) - [Springs and bounces in native CSS](https://www.joshwcomeau.com/animation/linear-timing-function/)
-* [2025-10-26, 19:50:00](https://news.ycombinator.com/item?id=45714689) - [How to Use Zorn's Lemma (2008)](https://gowers.wordpress.com/2008/08/12/how-to-use-zorns-lemma/)
 * [2025-10-26, 15:22:16](https://news.ycombinator.com/item?id=45712620) - [987654321 / 123456789](https://www.johndcook.com/blog/2025/10/26/987654321/)
 * [2025-10-26, 11:53:08](https://news.ycombinator.com/item?id=45711003) - [Lenses in Julia](https://juliaobjects.github.io/Accessors.jl/stable/lenses/)
 * [2025-10-26, 00:15:14](https://news.ycombinator.com/item?id=45707971) - [Learn Multiplatform Z80 Assembly Programming with Vampires](https://www.chibiakumas.com/z80/)
 * [2025-10-25, 20:04:50](https://news.ycombinator.com/item?id=45706570) - [Show HN: Status of my favorite bike share stations](https://blog.alexboden.ca/toronto-bike-share-status/)
+* [2025-10-25, 01:24:49](https://news.ycombinator.com/item?id=45700672) - [Modifying a radiation meter for (radioactive) rock collecting](https://maurycyz.com/projects/ludlum3/)
 * [2025-10-23, 09:43:52](https://news.ycombinator.com/item?id=45680023) - [Rouille – Rust Programming, in French](https://github.com/bnjbvr/rouille)
 * [2025-10-23, 07:06:07](https://news.ycombinator.com/item?id=45679046) - [The Psychology of Portnoy: On the Making of Philip Roth's Groundbreaking Novel](https://lithub.com/the-psychology-of-portnoy-on-the-making-of-philip-roths-groundbreaking-novel/)
 
