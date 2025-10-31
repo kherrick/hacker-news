@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-10-31](index.md)
 
+* [2025-10-31, 16:40:14](https://news.ycombinator.com/item?id=45773985) - [Amazon says it didn't cut people because of money. But because of 'culture'](https://www.cnn.com/2025/10/30/tech/amazon-layoffs-andy-jassy-ai-culture)
+* [2025-10-31, 16:39:22](https://news.ycombinator.com/item?id=45773974) - [Another European agency shifts off US Tech as digital sovereignty gains steam](https://www.zdnet.com/article/another-european-agency-ditches-big-tech-as-digital-sovereignty-movement-gains-steam/)
 * [2025-10-31, 14:49:58](https://news.ycombinator.com/item?id=45772579) - [Ubuntu Introduces Architecture Variants](https://lwn.net/Articles/1044383/)
 * [2025-10-31, 14:47:41](https://news.ycombinator.com/item?id=45772558) - [Warp Terminal changes pricing model](https://www.warp.dev/blog/warp-new-pricing-flexibility-byok)
 * [2025-10-31, 14:44:59](https://news.ycombinator.com/item?id=45772519) - [Debug like a boss: 10 debugging hacks for developers, quality engineers, testers](https://www.ministryoftesting.com/articles/debug-like-a-boss-10-debugging-hacks-for-developers-quality-engineers-and-testers)
