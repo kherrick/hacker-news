@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-10-31, 21:32:36](https://news.ycombinator.com/item?id=45776941) - [The only people who feel good are making over $200k and have large portfolios](https://fortune.com/2025/10/24/why-is-economy-so-bad-recession-not-inflation-fed-rate-cuts-2025/)
 * [2025-10-31, 20:20:42](https://news.ycombinator.com/item?id=45776269) - [A theoretical way to circumvent Android developer verification](https://enaix.github.io/2025/10/30/developer-verification.html)
 * [2025-10-31, 19:16:05](https://news.ycombinator.com/item?id=45775642) - [How to build silos and decrease collaboration on purpose](https://www.rubick.com/how-to-build-silos-and-decrease-collaboration/)
 * [2025-10-31, 17:49:16](https://news.ycombinator.com/item?id=45774724) - [x86 architecture 1 byte opcodes](https://www.sandpile.org/x86/opc_1.htm)
@@ -17,7 +18,6 @@
 * [2025-10-31, 10:13:40](https://news.ycombinator.com/item?id=45770304) - [My Impressions of the MacBook Pro M4](https://michael.stapelberg.ch/posts/2025-10-31-macbook-pro-m4-impressions/)
 * [2025-10-31, 03:07:48](https://news.ycombinator.com/item?id=45767916) - [AMD could enter ARM market with Sound Wave APU built on TSMC 3nm process](https://www.guru3d.com/story/amd-enters-arm-market-with-sound-wave-apu-built-on-tsmc-3nm-process/)
 * [2025-10-30, 23:12:10](https://news.ycombinator.com/item?id=45766501) - [Leaker reveals which Pixels are vulnerable to Cellebrite phone hacking](https://arstechnica.com/gadgets/2025/10/leaker-reveals-which-pixels-are-vulnerable-to-cellebrite-phone-hacking/)
-* [2025-10-30, 21:27:17](https://news.ycombinator.com/item?id=45765596) - [If a pilot ejects, what is the autopilot programmed to do? (2018)](https://aviation.stackexchange.com/questions/52862/if-a-pilot-ejects-what-is-the-autopilot-programmed-to-do)
 * [2025-10-30, 20:34:02](https://news.ycombinator.com/item?id=45764986) - [Apple reports fourth quarter results](https://www.apple.com/newsroom/2025/10/apple-reports-fourth-quarter-results/)
 * [2025-10-30, 18:25:05](https://news.ycombinator.com/item?id=45763359) - [How We Found 7 TiB of Memory Just Sitting Around](https://render.com/blog/how-we-found-7-tib-of-memory-just-sitting-around)
 * [2025-10-30, 16:45:06](https://news.ycombinator.com/item?id=45762064) - [Signs of introspection in large language models](https://www.anthropic.com/research/introspection)
