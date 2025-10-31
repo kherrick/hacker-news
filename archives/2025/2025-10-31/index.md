@@ -4,10 +4,16 @@
 
 ### [Archives](../../index.md) for [2025-10-31](index.md)
 
+* [2025-10-31, 14:16:17](https://news.ycombinator.com/item?id=45772236) - [Can we talk about the rude installers not asking for installation locations?](https://news.ycombinator.com/item?id=45772236)
+* [2025-10-31, 14:15:12](https://news.ycombinator.com/item?id=45772224) - [Nim 2.2.6](https://nim-lang.org//blog/2025/10/31/nim-226.html)
+* [2025-10-31, 13:59:25](https://news.ycombinator.com/item?id=45772064) - [Immutable releases are now generally available on GitHub](https://github.blog/changelog/2025-10-28-immutable-releases-are-now-generally-available/)
+* [2025-10-31, 13:37:10](https://news.ycombinator.com/item?id=45771843) - [Git CLI tool for intelligently creating branch names](https://github.com/ytreister/gibr)
+* [2025-10-31, 13:32:08](https://news.ycombinator.com/item?id=45771796) - [Sustainable memristors from shiitake mycelium for high-frequency bioelectronics](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0328965)
 * [2025-10-31, 13:14:23](https://news.ycombinator.com/item?id=45771636) - [Attention lapses due to sleep deprivation due to flushing fluid from brain](https://news.mit.edu/2025/your-brain-without-sleep-1029)
 * [2025-10-31, 13:03:46](https://news.ycombinator.com/item?id=45771538) - [OpenAI Uses Complex and Circular Deals to Fuel Its Multibillion-Dollar Rise](https://www.nytimes.com/interactive/2025/10/31/technology/openai-fundraising-deals.html)
 * [2025-10-31, 12:18:35](https://news.ycombinator.com/item?id=45771211) - [Affinity, targeting office workers over pros, making pro tools the loss leader](https://tedium.co/2025/10/30/canva-affinity-free-loss-leader-strategy/)
 * [2025-10-31, 11:41:25](https://news.ycombinator.com/item?id=45770928) - [After delays, Egypt set for lavish opening of grand museum](https://phys.org/news/2025-10-delays-egypt-lavish-grand-museum.html)
+* [2025-10-31, 11:33:41](https://news.ycombinator.com/item?id=45770875) - [The cryptography behind electronic passports](https://blog.trailofbits.com/2025/10/31/the-cryptography-behind-electronic-passports/)
 * [2025-10-31, 10:15:24](https://news.ycombinator.com/item?id=45770317) - [Claude Is Down](https://status.claude.com/incidents/s5f75jhwjs6g)
 * [2025-10-31, 09:23:41](https://news.ycombinator.com/item?id=45769971) - [Reasoning Models Reason Well, Until They Don't](https://arxiv.org/abs/2510.22371)
 * [2025-10-31, 09:22:58](https://news.ycombinator.com/item?id=45769963) - [Some rando turned me into a meme coin](https://cloudfour.com/thinks/that-time-some-rando-turned-me-into-a-meme-coin/)
