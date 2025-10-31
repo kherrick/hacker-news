@@ -65,6 +65,7 @@
 * [2025-10-25, 08:43:28](https://news.ycombinator.com/item?id=45702281) - [Exceptional Measurement of Chirality](https://www.rsc.org/news/2019/july/exceptional-measurement-of-chirality)
 * [2025-10-25, 08:41:59](https://news.ycombinator.com/item?id=45702274) - [Gitworkshop.dev – Collaborate on code over Nostr](https://gitworkshop.dev/)
 * [2025-10-25, 08:37:20](https://news.ycombinator.com/item?id=45702252) - [Acronymy (Can we define every word as an acronym?)](https://acronymy.net/)
+* [2025-10-25, 07:54:33](https://news.ycombinator.com/item?id=45702091) - [It's the \"Hardware\", Stupid](https://haebom.dev/archive?post=4w67rj24q76nrm5yq8ep)
 * [2025-10-25, 07:27:07](https://news.ycombinator.com/item?id=45701980) - [Why your social.org files can have millions of lines without performance issues](https://en.andros.dev/blog/4e12225f/why-your-socialorg-files-can-have-millions-of-lines-without-any-performance-issues/)
 * [2025-10-25, 07:07:59](https://news.ycombinator.com/item?id=45701901) - [Simplify Your Code: Functional Core, Imperative Shell](https://testing.googleblog.com/2025/10/simplify-your-code-functional-core.html)
 * [2025-10-25, 07:03:39](https://news.ycombinator.com/item?id=45701884) - [That Time Ken Thompson Wrote a Backdoor into the C Compiler](https://micahkepe.com/blog/thompson-trojan-horse/)
