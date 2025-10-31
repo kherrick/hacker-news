@@ -21,6 +21,7 @@
 * [2025-10-25, 20:34:37](https://news.ycombinator.com/item?id=45706755) - [\"Learn APL\" Notes](https://luksamuk.codes/pages/learn-apl.html)
 * [2025-10-25, 20:32:29](https://news.ycombinator.com/item?id=45706744) - [Honda's ASIMO](https://www.robotsgottalents.com/post/asimo)
 * [2025-10-25, 20:30:25](https://news.ycombinator.com/item?id=45706729) - [Agent Lightning: Train agents with RL (no code changes needed)](https://github.com/microsoft/agent-lightning)
+* [2025-10-25, 20:27:16](https://news.ycombinator.com/item?id=45706707) - [Lording it, over: A new history of the modern British aristocracy](https://newcriterion.com/article/lording-it-over/)
 * [2025-10-25, 20:26:59](https://news.ycombinator.com/item?id=45706705) - [Testing out BLE beacons with BeaconDB](https://blog.matthewbrunelle.com/testing-out-ble-beacons-with-beacondb/)
 * [2025-10-25, 20:19:36](https://news.ycombinator.com/item?id=45706660) - [Load-time relocation of shared libraries (2011)](https://eli.thegreenplace.net/2011/08/25/load-time-relocation-of-shared-libraries/)
 * [2025-10-25, 20:13:55](https://news.ycombinator.com/item?id=45706624) - [In memory of the Christmas Island shrew](https://news.mongabay.com/2025/10/in-memory-of-the-christmas-island-shrew/)
