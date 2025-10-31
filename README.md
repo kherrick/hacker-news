@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-10-31, 09:13:03](https://news.ycombinator.com/item?id=45769901) - [Claude.ai Is Down](https://claude.ai)
 * [2025-10-31, 03:07:48](https://news.ycombinator.com/item?id=45767916) - [AMD Could Enter ARM Market with Sound Wave APU Built on TSMC 3nm Process](https://www.guru3d.com/story/amd-enters-arm-market-with-sound-wave-apu-built-on-tsmc-3nm-process/)
 * [2025-10-31, 02:34:36](https://news.ycombinator.com/item?id=45767725) - [John Carmack on mutable variables](https://twitter.com/id_aa_carmack/status/1983593511703474196)
 * [2025-10-31, 01:00:45](https://news.ycombinator.com/item?id=45767257) - [Roadmap for Improving the Type Checker](https://forums.swift.org/t/roadmap-for-improving-the-type-checker/82952)
@@ -22,7 +23,6 @@
 * [2025-10-27, 13:06:46](https://news.ycombinator.com/item?id=45720616) - [Florian Schneider Collection: Instruments and equipment up for auction](https://www.juliensauctions.com/en/articles/the-florian-schneider-collection-rare-instruments-and-iconic-equipment-from-kraftwerk)
 * [2025-10-26, 15:22:16](https://news.ycombinator.com/item?id=45712620) - [987654321 / 123456789](https://www.johndcook.com/blog/2025/10/26/987654321/)
 * [2025-10-26, 11:53:08](https://news.ycombinator.com/item?id=45711003) - [Lenses in Julia](https://juliaobjects.github.io/Accessors.jl/stable/lenses/)
-* [2025-10-25, 20:04:50](https://news.ycombinator.com/item?id=45706570) - [Show HN: Status of my favorite bike share stations](https://blog.alexboden.ca/toronto-bike-share-status/)
 * [2025-10-25, 11:40:58](https://news.ycombinator.com/item?id=45703063) - [Result is all I need](https://rockyj-blogs.web.app/2025/10/25/result-monad.html)
 * [2025-10-25, 08:43:28](https://news.ycombinator.com/item?id=45702281) - [Exceptional Measurement of Chirality](https://www.rsc.org/news/2019/july/exceptional-measurement-of-chirality)
 * [2025-10-25, 01:24:49](https://news.ycombinator.com/item?id=45700672) - [Modifying a radiation meter for (radioactive) rock collecting](https://maurycyz.com/projects/ludlum3/)
