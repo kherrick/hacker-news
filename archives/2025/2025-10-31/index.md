@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-10-31](index.md)
 
 * [2025-10-31, 14:47:41](https://news.ycombinator.com/item?id=45772558) - [Warp Terminal changes pricing model](https://www.warp.dev/blog/warp-new-pricing-flexibility-byok)
+* [2025-10-31, 14:44:59](https://news.ycombinator.com/item?id=45772519) - [Debug like a boss: 10 debugging hacks for developers, quality engineers, testers](https://www.ministryoftesting.com/articles/debug-like-a-boss-10-debugging-hacks-for-developers-quality-engineers-and-testers)
 * [2025-10-31, 14:28:35](https://news.ycombinator.com/item?id=45772347) - [Nix Derivation Madness](https://fzakaria.com/2025/10/29/nix-derivation-madness)
 * [2025-10-31, 14:16:17](https://news.ycombinator.com/item?id=45772236) - [Can we talk about the rude installers not asking for installation locations?](https://news.ycombinator.com/item?id=45772236)
 * [2025-10-31, 14:15:12](https://news.ycombinator.com/item?id=45772224) - [Nim 2.2.6](https://nim-lang.org//blog/2025/10/31/nim-226.html)

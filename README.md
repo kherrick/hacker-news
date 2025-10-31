@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-10-31, 14:44:59](https://news.ycombinator.com/item?id=45772519) - [Debug like a boss: 10 debugging hacks for developers, quality engineers, testers](https://www.ministryoftesting.com/articles/debug-like-a-boss-10-debugging-hacks-for-developers-quality-engineers-and-testers)
 * [2025-10-31, 14:28:35](https://news.ycombinator.com/item?id=45772347) - [Nix Derivation Madness](https://fzakaria.com/2025/10/29/nix-derivation-madness)
 * [2025-10-31, 14:15:12](https://news.ycombinator.com/item?id=45772224) - [Nim 2.2.6](https://nim-lang.org//blog/2025/10/31/nim-226.html)
 * [2025-10-31, 14:09:04](https://news.ycombinator.com/item?id=45772153) - [Rotating Workforce Scheduling in MiniZinc](https://zayenz.se/blog/post/rotating-workforce-scheduling/)
@@ -9,7 +10,6 @@
 * [2025-10-31, 13:32:08](https://news.ycombinator.com/item?id=45771796) - [Sustainable memristors from shiitake mycelium for high-frequency bioelectronics](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0328965)
 * [2025-10-31, 13:14:23](https://news.ycombinator.com/item?id=45771636) - [Attention lapses due to sleep deprivation due to flushing fluid from brain](https://news.mit.edu/2025/your-brain-without-sleep-1029)
 * [2025-10-31, 13:03:46](https://news.ycombinator.com/item?id=45771538) - [OpenAI Uses Complex and Circular Deals to Fuel Its Multibillion-Dollar Rise](https://www.nytimes.com/interactive/2025/10/31/technology/openai-fundraising-deals.html)
-* [2025-10-31, 12:18:35](https://news.ycombinator.com/item?id=45771211) - [Affinity, targeting office workers over pros, making pro tools the loss leader](https://tedium.co/2025/10/30/canva-affinity-free-loss-leader-strategy/)
 * [2025-10-31, 11:33:41](https://news.ycombinator.com/item?id=45770875) - [The cryptography behind electronic passports](https://blog.trailofbits.com/2025/10/31/the-cryptography-behind-electronic-passports/)
 * [2025-10-31, 03:07:48](https://news.ycombinator.com/item?id=45767916) - [AMD Could Enter ARM Market with Sound Wave APU Built on TSMC 3nm Process](https://www.guru3d.com/story/amd-enters-arm-market-with-sound-wave-apu-built-on-tsmc-3nm-process/)
 * [2025-10-31, 02:34:36](https://news.ycombinator.com/item?id=45767725) - [John Carmack on mutable variables](https://twitter.com/id_aa_carmack/status/1983593511703474196)
