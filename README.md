@@ -24,12 +24,12 @@
 * [2025-10-27, 13:06:46](https://news.ycombinator.com/item?id=45720616) - [Florian Schneider Collection: Instruments and equipment up for auction](https://www.juliensauctions.com/en/articles/the-florian-schneider-collection-rare-instruments-and-iconic-equipment-from-kraftwerk)
 * [2025-10-26, 15:22:16](https://news.ycombinator.com/item?id=45712620) - [987654321 / 123456789](https://www.johndcook.com/blog/2025/10/26/987654321/)
 * [2025-10-26, 11:53:08](https://news.ycombinator.com/item?id=45711003) - [Lenses in Julia](https://juliaobjects.github.io/Accessors.jl/stable/lenses/)
-* [2025-10-26, 00:15:14](https://news.ycombinator.com/item?id=45707971) - [Learn Multiplatform Z80 Assembly Programming with Vampires](https://www.chibiakumas.com/z80/)
 * [2025-10-25, 20:04:50](https://news.ycombinator.com/item?id=45706570) - [Show HN: Status of my favorite bike share stations](https://blog.alexboden.ca/toronto-bike-share-status/)
 * [2025-10-25, 08:43:28](https://news.ycombinator.com/item?id=45702281) - [Exceptional Measurement of Chirality](https://www.rsc.org/news/2019/july/exceptional-measurement-of-chirality)
 * [2025-10-25, 01:24:49](https://news.ycombinator.com/item?id=45700672) - [Modifying a radiation meter for (radioactive) rock collecting](https://maurycyz.com/projects/ludlum3/)
 * [2025-10-23, 09:43:52](https://news.ycombinator.com/item?id=45680023) - [Rouille – Rust Programming, in French](https://github.com/bnjbvr/rouille)
 * [2025-10-23, 07:06:07](https://news.ycombinator.com/item?id=45679046) - [The Psychology of Portnoy: On the Making of Philip Roth's Groundbreaking Novel](https://lithub.com/the-psychology-of-portnoy-on-the-making-of-philip-roths-groundbreaking-novel/)
+* [2025-10-22, 16:12:16](https://news.ycombinator.com/item?id=45671336) - [A Closer Look at Piezoelectric Crystal](https://www.samaterials.com/content/a-closer-look-at-stressed-piezo-crystals.html)
 
 ## [Archives](archives/index.md)
 

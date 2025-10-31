@@ -46,6 +46,7 @@
 * [2025-10-22, 16:36:25](https://news.ycombinator.com/item?id=45671677) - [Eye prosthesis is the first to restore sight lost to macular degeneration](https://med.stanford.edu/news/all-news/2025/10/eye-prosthesis.html)
 * [2025-10-22, 16:27:26](https://news.ycombinator.com/item?id=45671569) - [Count-Min Sketches in JS – Frequencies, but without the data](https://www.instantdb.com/essays/count_min_sketch)
 * [2025-10-22, 16:21:25](https://news.ycombinator.com/item?id=45671475) - [Wren: A classy little scripting language](https://wren.io/)
+* [2025-10-22, 16:12:16](https://news.ycombinator.com/item?id=45671336) - [A Closer Look at Piezoelectric Crystal](https://www.samaterials.com/content/a-closer-look-at-stressed-piezo-crystals.html)
 * [2025-10-22, 16:09:01](https://news.ycombinator.com/item?id=45671282) - [Chess engines didn't replace Magnus Carlsen, and AI won't replace you](https://coding-with-ai.dev/posts/use-ai-like-magnus-carlsen/)
 * [2025-10-22, 16:02:39](https://news.ycombinator.com/item?id=45671176) - [SATisfying Solutions to Difficult Problems](https://vaibhavsagar.com/blog/2025/10/22/satisfying-solutions/)
 * [2025-10-22, 15:39:13](https://news.ycombinator.com/item?id=45670780) - [Sequoia COO quit over Shaun Maguire's comments about Mamdani](https://www.ft.com/content/8e6de299-3eb6-4ba9-8037-266c55c02170)
