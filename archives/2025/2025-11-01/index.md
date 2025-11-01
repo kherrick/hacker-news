@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-11-01](index.md)
 
 * [2025-11-01, 19:11:13](https://news.ycombinator.com/item?id=45784428) - [US will not send officials to COP30 climate talks](https://www.reuters.com/sustainability/cop/us-will-not-send-officials-cop30-climate-talks-white-house-says-2025-10-31/)
+* [2025-11-01, 18:42:39](https://news.ycombinator.com/item?id=45784185) - [Czech police forced to turn off facial recognition cameras at the Prague airport](https://edri.org/our-work/czech-police-forced-to-turn-off-facial-recognition-cameras-at-the-prague-airport-thanks-to-the-ai-act/)
 * [2025-11-01, 18:40:33](https://news.ycombinator.com/item?id=45784158) - [Powell – unlike the dotcom boom, AI spending isn't a bubble](https://fortune.com/2025/10/29/powell-says-ai-is-not-a-bubble-unlike-dot-com-federal-reserve-interest-rates/)
 * [2025-11-01, 18:03:56](https://news.ycombinator.com/item?id=45783835) - [Reconfigurable Analog Computers](https://arxiv.org/abs/2510.25942)
 * [2025-11-01, 17:50:38](https://news.ycombinator.com/item?id=45783699) - [Visible from space, Sudan's bloodied sands expose a massacre of thousands](https://www.telegraph.co.uk/world-news/2025/10/28/sudan-bloodied-sands-massacre-thousands/)
@@ -28,6 +29,7 @@
 * [2025-11-01, 13:12:47](https://news.ycombinator.com/item?id=45781397) - [CharlotteOS – An Experimental Modern Operating System](https://github.com/charlotte-os/Catten)
 * [2025-11-01, 12:59:03](https://news.ycombinator.com/item?id=45781298) - [SQLite concurrency and why you should care about it](https://jellyfin.org/posts/SQLite-locking/)
 * [2025-11-01, 12:58:21](https://news.ycombinator.com/item?id=45781293) - [Abandonware of the web: do you know that there is an HTML tables API?](https://christianheilmann.com/2025/10/08/abandonware-of-the-web-do-you-know-that-there-is-an-html-tables-api/)
+* [2025-11-01, 12:20:44](https://news.ycombinator.com/item?id=45781076) - [Nutella maker in hazelnut stand-off with Turkish dealers](https://www.ft.com/content/4826dfd2-8d8e-4316-931f-974f604a3899)
 * [2025-11-01, 10:01:46](https://news.ycombinator.com/item?id=45780490) - [.arpa, rDNS and a few magical ICMP hacks](https://sdomi.pl/weblog/24-arpa-hacks/)
 * [2025-11-01, 08:58:54](https://news.ycombinator.com/item?id=45780228) - [You Can't Refuse to Be Scanned by ICE's Facial Recognition App, DHS Document Say](https://www.404media.co/you-cant-refuse-to-be-scanned-by-ices-facial-recognition-app-dhs-document-says/)
 * [2025-11-01, 07:31:40](https://news.ycombinator.com/item?id=45779860) - [Hard Rust requirements from May onward for all Debian ports](https://lists.debian.org/debian-devel/2025/10/msg00285.html)

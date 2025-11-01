@@ -25,6 +25,7 @@
 * [2025-10-30, 17:10:27](https://news.ycombinator.com/item?id=45762358) - [You can't turn off Copilot in the web versions of Word, Excel, or PowerPoint](https://support.microsoft.com/en-us/office/turn-off-copilot-in-microsoft-365-apps-bc7e530b-152d-4123-8e78-edc06f8b85f1)
 * [2025-10-30, 17:04:53](https://news.ycombinator.com/item?id=45762307) - [Ex-Mossad chief brags Israel has installed a global sabotage network](https://www.middleeastmonitor.com/20251030-ex-mossad-chief-behind-icj-blackmail-campaign-brags-israel-has-installed-a-global-sabotage-network/)
 * [2025-10-30, 17:01:20](https://news.ycombinator.com/item?id=45762259) - [The ear does not do a Fourier transform](https://www.dissonances.blog/p/the-ear-does-not-do-a-fourier-transform)
+* [2025-10-30, 16:52:46](https://news.ycombinator.com/item?id=45762160) - [The Smol Training Playbook: The Secrets to Building World-Class LLMs](https://huggingface.co/spaces/HuggingFaceTB/smol-training-playbook)
 * [2025-10-30, 16:50:19](https://news.ycombinator.com/item?id=45762136) - [Moderna, the company that helped save the world, has unraveled](https://www.statnews.com/2025/10/30/moderna-rise-fall-biotech-analysis-from-pandemic-rise-to-mrna-crash/)
 * [2025-10-30, 16:45:06](https://news.ycombinator.com/item?id=45762064) - [Signs of introspection in large language models](https://www.anthropic.com/research/introspection)
 * [2025-10-30, 16:40:02](https://news.ycombinator.com/item?id=45762012) - [Launch HN: Propolis (YC X25) – Browser agents that QA your web app autonomously](https://app.propolis.tech/#/launch)
@@ -51,4 +52,5 @@
 * [2025-10-30, 02:48:21](https://news.ycombinator.com/item?id=45755911) - [One Year with Next.js App Router – Why We're Moving On](https://paperclover.net/blog/webdev/one-year-next-app-router)
 * [2025-10-30, 02:37:35](https://news.ycombinator.com/item?id=45755821) - [Hello-World iOS App in Assembly](https://gist.github.com/nicolas17/966a03ce49f949dd17b0123415ef2e31)
 * [2025-10-30, 02:31:43](https://news.ycombinator.com/item?id=45755788) - [IRCd service written in awk](https://example.fi/blog/ircd.html)
+* [2025-10-30, 01:44:25](https://news.ycombinator.com/item?id=45755495) - [NJVL: Nim's New Intermediate Representation](https://github.com/nim-lang/nimony/blob/master/doc/njvl-spec.md)
 * [2025-10-30, 00:37:33](https://news.ycombinator.com/item?id=45755027) - [NPM flooded with malicious packages downloaded more than 86k times](https://arstechnica.com/security/2025/10/npm-flooded-with-malicious-packages-downloaded-more-than-86000-times/)
