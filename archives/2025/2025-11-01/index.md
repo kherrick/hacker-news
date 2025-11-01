@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2025-11-01](index.md)
 
+* [2025-11-01, 17:45:18](https://news.ycombinator.com/item?id=45783640) - [Show HN: Why write code if the LLM can just do the thing? (web app experiment)](https://github.com/samrolken/nokode)
 * [2025-11-01, 17:25:12](https://news.ycombinator.com/item?id=45783470) - [OpenAI Moves to Complete Potentially the Largest Theft in Human History](https://thezvi.substack.com/p/openai-moves-to-complete-potentially)
 * [2025-11-01, 17:24:57](https://news.ycombinator.com/item?id=45783465) - [The giant basket case countries](https://www.noahpinion.blog/p/the-giant-basket-case-countries)
+* [2025-11-01, 17:21:08](https://news.ycombinator.com/item?id=45783440) - [How I Learned to Stop Worrying and Love My Shitty Life](https://www.thedriftmag.com/how-i-learned-to-stop-worrying-and-love-my-shitty-life/)
 * [2025-11-01, 17:13:04](https://news.ycombinator.com/item?id=45783376) - [Ask HN: Where to Begin with \"Modern\" Emacs?](https://news.ycombinator.com/item?id=45783376)
 * [2025-11-01, 16:54:45](https://news.ycombinator.com/item?id=45783206) - [What the Air You Breathe May Be Doing to Your Brain](https://www.nytimes.com/2025/11/01/health/alzheimers-dementia-air-pollution.html)
 * [2025-11-01, 16:42:57](https://news.ycombinator.com/item?id=45783114) - [Chat Control proposal fails again after public opposition](https://andreafortuna.org/2025/11/01/chat-control-proposal-fails-again-after-massive-public-opposition/)
