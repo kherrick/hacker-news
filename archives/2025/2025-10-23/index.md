@@ -56,6 +56,7 @@
 * [2025-10-23, 13:54:36](https://news.ycombinator.com/item?id=45681850) - [We need to start doing web blocking for non-technical reasons](https://utcc.utoronto.ca/~cks/space/blog/web/WeShouldBlockForSocialReasons?showcomments)
 * [2025-10-23, 13:44:10](https://news.ycombinator.com/item?id=45681742) - [Space Exploration Logo Archive](https://kottke.org/25/10/the-space-exploration-logo-archive)
 * [2025-10-23, 13:25:02](https://news.ycombinator.com/item?id=45681547) - [Unconventional Ways to Cast in TypeScript](https://wolfgirl.dev/blog/2025-10-22-4-unconventional-ways-to-cast-in-typescript/)
+* [2025-10-23, 13:23:32](https://news.ycombinator.com/item?id=45681535) - [Kerkship St. Jozef, Antwerp – WWII German Concrete Tanker](https://thecretefleet.com/blog/f/kerkship-st-jozef-antwerp-%E2%80%93-wwii-german-concrete-tanker)
 * [2025-10-23, 13:22:15](https://news.ycombinator.com/item?id=45681514) - [The 1924 New Mexico regional banking panic](https://nodumbideas.com/p/labor-day-special-the-1924-new-mexico)
 * [2025-10-23, 13:03:13](https://news.ycombinator.com/item?id=45681326) - [Casey Muratori: I can always tell a good programmer in an interview](https://www.gethopp.app/blog/how-to-conduct-good-programming-interviews)
 * [2025-10-23, 12:56:48](https://news.ycombinator.com/item?id=45681269) - [Why China is winning the trade war](https://www.economist.com/leaders/2025/10/23/why-china-is-winning-the-trade-war)

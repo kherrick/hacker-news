@@ -90,4 +90,5 @@
 * [2025-10-25, 01:21:43](https://news.ycombinator.com/item?id=45700663) - [What Is Intelligence?](https://mitpress.mit.edu/9780262049955/what-is-intelligence/)
 * [2025-10-25, 01:21:43](https://news.ycombinator.com/item?id=45700663) - [What Is Intelligence? (2024)](https://whatisintelligence.antikythera.org/)
 * [2025-10-25, 00:59:23](https://news.ycombinator.com/item?id=45700562) - [Carmack on Operating Systems (1997)](https://rmitz.org/carmack.on.operating.systems.html)
+* [2025-10-25, 00:13:38](https://news.ycombinator.com/item?id=45700368) - [Family Mart Designed Cute Teary-Eyed Stickers to Combat Food Loss](https://spoon-tamago.com/family-mart-food-loss-stickers/)
 * [2025-10-25, 00:00:55](https://news.ycombinator.com/item?id=45700301) - [Virtual Try on Free Online – AI Clothes Changer – I-TryOn](https://virtual-try-on.app/)
