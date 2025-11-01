@@ -1,16 +1,6 @@
 [
   [
     [
-      "2025-11-01, 13:45:03",
-      "https://news.ycombinator.com/item?id=45781597"
-    ],
-    [
-      "Show HN: AI Operator from Hell – Autonomous AI Sysadmin Writing Tech Stories",
-      "https://www.aiofh.com"
-    ]
-  ],
-  [
-    [
       "2025-11-01, 13:12:47",
       "https://news.ycombinator.com/item?id=45781397"
     ],
@@ -37,6 +27,16 @@
     [
       "Abandonware of the web: do you know that there is an HTML tables API?",
       "https://christianheilmann.com/2025/10/08/abandonware-of-the-web-do-you-know-that-there-is-an-html-tables-api/"
+    ]
+  ],
+  [
+    [
+      "2025-11-01, 10:01:46",
+      "https://news.ycombinator.com/item?id=45780490"
+    ],
+    [
+      ".arpa, rDNS and a few magical ICMP hacks",
+      "https://sdomi.pl/weblog/24-arpa-hacks/"
     ]
   ],
   [
@@ -221,22 +221,22 @@
   ],
   [
     [
-      "2025-10-27, 17:42:17",
-      "https://news.ycombinator.com/item?id=45724043"
-    ],
-    [
-      "Viagrid – PCB template for rapid PCB prototyping with factory-made vias [video]",
-      "https://www.youtube.com/watch?v=A_IUIyyqw0M"
-    ]
-  ],
-  [
-    [
       "2025-10-27, 16:13:32",
       "https://news.ycombinator.com/item?id=45722691"
     ],
     [
       "Beyond Smoothed Analysis: Analyzing the Simplex Method by the Book",
       "https://arxiv.org/abs/2510.21613"
+    ]
+  ],
+  [
+    [
+      "2025-10-27, 11:52:33",
+      "https://news.ycombinator.com/item?id=45719919"
+    ],
+    [
+      "On Having a Data Object",
+      "https://www.natemeyvis.com/on-having-a-data-object/"
     ]
   ],
   [
