@@ -8,6 +8,7 @@
 * [2025-11-01, 16:29:23](https://news.ycombinator.com/item?id=45782981) - [GHC now runs in the browser](https://discourse.haskell.org/t/ghc-now-runs-in-your-browser/13169)
 * [2025-11-01, 16:16:53](https://news.ycombinator.com/item?id=45782865) - [Data centers contribute to high prices as energy bills electrify local politics](https://www.wsj.com/economy/consumers/surging-power-costs-are-putting-the-squeeze-on-customers-f8b2c04b)
 * [2025-11-01, 16:02:58](https://news.ycombinator.com/item?id=45782724) - [I think Substrate is a $1B Fraud](https://substack.com/home/post/p-177604037)
+* [2025-11-01, 15:21:00](https://news.ycombinator.com/item?id=45782348) - [Open-Source Ada: From Gateware to Application](https://blog.adacore.com/open-source-ada-from-gateware-to-application)
 * [2025-11-01, 15:12:00](https://news.ycombinator.com/item?id=45782267) - [Tech companies are firing everyone to \"fund AI\", spending money on each other](https://old.reddit.com/r/ArtificialInteligence/comments/1oj52xx/tech_companies_are_firing_everyone_to_fund_ai_but/)
 * [2025-11-01, 14:58:05](https://news.ycombinator.com/item?id=45782136) - [arXiv No Longer Accepts Computer Science Position or Review Papers Due to LLMs](https://blog.arxiv.org/2025/10/31/attention-authors-updated-practice-for-review-articles-and-position-papers-in-arxiv-cs-category/)
 * [2025-11-01, 14:20:38](https://news.ycombinator.com/item?id=45781843) - [Tigerbeetle Simulator](https://sim.tigerbeetle.com/)

@@ -59,4 +59,5 @@
 * [2025-10-31, 01:00:45](https://news.ycombinator.com/item?id=45767257) - [Roadmap for Improving the Type Checker](https://forums.swift.org/t/roadmap-for-improving-the-type-checker/82952)
 * [2025-10-31, 00:46:56](https://news.ycombinator.com/item?id=45767178) - [Myths Programmers Believe about CPU Caches](https://software.rajivprab.com/2018/04/29/myths-programmers-believe-about-cpu-caches/)
 * [2025-10-31, 00:43:57](https://news.ycombinator.com/item?id=45767162) - [Show HN: Quibbler – A critic for your coding agent that learns what you want](https://github.com/fulcrumresearch/quibbler)
+* [2025-10-31, 00:21:02](https://news.ycombinator.com/item?id=45767013) - [An investigation into Substrate](https://substack.com/inbox/post/177604037)
 * [2025-10-31, 00:07:36](https://news.ycombinator.com/item?id=45766937) - [Kimi Linear: An Expressive, Efficient Attention Architecture](https://github.com/MoonshotAI/Kimi-Linear)
