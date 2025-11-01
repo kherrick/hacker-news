@@ -18,6 +18,7 @@
 * [2025-10-23, 20:39:41](https://news.ycombinator.com/item?id=45686790) - [Expanding Our Use of Google Cloud TPUs and Services](https://www.anthropic.com/news/expanding-our-use-of-google-cloud-tpus-and-services)
 * [2025-10-23, 20:32:42](https://news.ycombinator.com/item?id=45686707) - [Ubios: China's Alternative to UEFI](https://pbxscience.com/ubios-chinas-alternative-to-uefi-and-the-new-era-of-firmware-standards/)
 * [2025-10-23, 20:32:27](https://news.ycombinator.com/item?id=45686704) - [I wrote about parallel prompts: from 3D shoe renders to swipe-ready videos](https://www.widgens.com/blog/parallel-prompting)
+* [2025-10-23, 20:30:30](https://news.ycombinator.com/item?id=45686678) - [Why Should I Care What Color the Bikeshed Is?](https://www.bikeshed.com/)
 * [2025-10-23, 19:58:12](https://news.ycombinator.com/item?id=45686280) - [Zram Performance Analysis](https://notes.xeome.dev/notes/Zram)
 * [2025-10-23, 19:43:44](https://news.ycombinator.com/item?id=45686083) - [The Muscular Compassion of \"Paper Girl\"](https://www.newyorker.com/books/page-turner/the-muscular-compassion-of-paper-girl)
 * [2025-10-23, 19:24:04](https://news.ycombinator.com/item?id=45685793) - [Show HN: OpenSnowcat – A fork of Snowplow to keep open analytics alive](https://opensnowcat.io/)
