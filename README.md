@@ -2,7 +2,6 @@
 
 * [2025-11-01, 16:16:53](https://news.ycombinator.com/item?id=45782865) - [Data centers contribute to high prices as energy bills electrify local politics](https://www.wsj.com/economy/consumers/surging-power-costs-are-putting-the-squeeze-on-customers-f8b2c04b)
 * [2025-11-01, 16:02:58](https://news.ycombinator.com/item?id=45782724) - [I think Substrate is a $1B Fraud](https://substack.com/home/post/p-177604037)
-* [2025-11-01, 15:12:00](https://news.ycombinator.com/item?id=45782267) - [Tech companies are firing everyone to \"fund AI\", spending money on each other](https://old.reddit.com/r/ArtificialInteligence/comments/1oj52xx/tech_companies_are_firing_everyone_to_fund_ai_but/)
 * [2025-11-01, 14:58:05](https://news.ycombinator.com/item?id=45782136) - [arXiv No Longer Accepts Computer Science Position or Review Papers Due to LLMs](https://blog.arxiv.org/2025/10/31/attention-authors-updated-practice-for-review-articles-and-position-papers-in-arxiv-cs-category/)
 * [2025-11-01, 13:12:47](https://news.ycombinator.com/item?id=45781397) - [CharlotteOS – An Experimental Modern Operating System](https://github.com/charlotte-os/Catten)
 * [2025-11-01, 12:59:03](https://news.ycombinator.com/item?id=45781298) - [SQLite concurrency and why you should care about it](https://jellyfin.org/posts/SQLite-locking/)
@@ -25,6 +24,7 @@
 * [2025-10-28, 13:32:18](https://news.ycombinator.com/item?id=45732677) - [Frank Gasking on preserving «lost» games](https://spillhistorie.no/2025/10/24/frank-gasking-on-preserving-lost-games/)
 * [2025-10-28, 10:53:21](https://news.ycombinator.com/item?id=45731256) - [The Impossible Optimization, and the Metaprogramming to Achieve It](https://verdagon.dev/blog/impossible-optimization)
 * [2025-10-27, 16:13:32](https://news.ycombinator.com/item?id=45722691) - [Beyond Smoothed Analysis: Analyzing the Simplex Method by the Book](https://arxiv.org/abs/2510.21613)
+* [2025-10-27, 11:52:33](https://news.ycombinator.com/item?id=45719919) - [On Having a Data Object](https://www.natemeyvis.com/on-having-a-data-object/)
 * [2025-10-27, 11:18:53](https://news.ycombinator.com/item?id=45719662) - [I built my own CityMapper](https://asherfalcon.com/blog/posts/5)
 * [2025-10-27, 10:46:42](https://news.ycombinator.com/item?id=45719469) - [Screenwriter Eric Heisserer on Lights Out, the Rules of Horror](https://filmmakermagazine.com/99327-screenwriter-eric-heisserer-lights-out-the-rules-of-horror-and-collaborating-with-james-wan/)
 * [2025-10-23, 15:23:55](https://news.ycombinator.com/item?id=45682917) - [How I stopped worrying and started loving the Assembly](https://medium.com/@jonas.eschenburg/how-i-stopped-worrying-and-started-loving-the-assembly-4fd00e786c60)
