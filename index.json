@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-11-01, 12:58:21",
+      "https://news.ycombinator.com/item?id=45781293"
+    ],
+    [
+      "Abandonware of the web: do you know that there is an HTML tables API?",
+      "https://christianheilmann.com/2025/10/08/abandonware-of-the-web-do-you-know-that-there-is-an-html-tables-api/"
+    ]
+  ],
+  [
+    [
       "2025-11-01, 03:18:04",
       "https://news.ycombinator.com/item?id=45778984"
     ],
@@ -107,16 +117,6 @@
     [
       "Perfetto: Swiss army knife for Linux client tracing",
       "https://lalitm.com/perfetto-swiss-army-knife/"
-    ]
-  ],
-  [
-    [
-      "2025-10-31, 11:33:41",
-      "https://news.ycombinator.com/item?id=45770875"
-    ],
-    [
-      "The cryptography behind electronic passports",
-      "https://blog.trailofbits.com/2025/10/31/the-cryptography-behind-electronic-passports/"
     ]
   ],
   [
