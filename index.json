@@ -21,16 +21,6 @@
   ],
   [
     [
-      "2025-10-31, 23:03:56",
-      "https://news.ycombinator.com/item?id=45777683"
-    ],
-    [
-      "Photographing the rare brown hyena stalking a diamond mining ghost town",
-      "https://www.bbc.com/future/article/20251014-the-rare-hyena-stalking-a-diamond-mining-ghost-town"
-    ]
-  ],
-  [
-    [
       "2025-10-31, 23:03:18",
       "https://news.ycombinator.com/item?id=45777682"
     ],
@@ -277,6 +267,16 @@
     [
       "How I stopped worrying and started loving the Assembly",
       "https://medium.com/@jonas.eschenburg/how-i-stopped-worrying-and-started-loving-the-assembly-4fd00e786c60"
+    ]
+  ],
+  [
+    [
+      "2025-10-23, 14:51:20",
+      "https://news.ycombinator.com/item?id=45682501"
+    ],
+    [
+      "Solving the NY Times \"Pips\" game with F#",
+      "https://github.com/brianberns/Pips"
     ]
   ],
   [
