@@ -11,6 +11,26 @@
   ],
   [
     [
+      "2025-11-01, 14:20:38",
+      "https://news.ycombinator.com/item?id=45781843"
+    ],
+    [
+      "Tigerbeetle Simulator",
+      "https://sim.tigerbeetle.com/"
+    ]
+  ],
+  [
+    [
+      "2025-11-01, 14:14:07",
+      "https://news.ycombinator.com/item?id=45781792"
+    ],
+    [
+      "Async/Await is finally back in Zig",
+      "https://charlesfonseca.substack.com/p/asyncawait-is-finally-back-in-zig"
+    ]
+  ],
+  [
+    [
       "2025-11-01, 13:12:47",
       "https://news.ycombinator.com/item?id=45781397"
     ],
@@ -71,16 +91,6 @@
   ],
   [
     [
-      "2025-11-01, 03:18:04",
-      "https://news.ycombinator.com/item?id=45778984"
-    ],
-    [
-      "The profitable startup",
-      "https://linear.app/now/the-profitable-startup"
-    ]
-  ],
-  [
-    [
       "2025-10-31, 23:23:59",
       "https://news.ycombinator.com/item?id=45777810"
     ],
@@ -137,16 +147,6 @@
     [
       "Futurelock: A subtle risk in async Rust",
       "https://rfd.shared.oxide.computer/rfd/0609"
-    ]
-  ],
-  [
-    [
-      "2025-10-31, 10:13:40",
-      "https://news.ycombinator.com/item?id=45770304"
-    ],
-    [
-      "My Impressions of the MacBook Pro M4",
-      "https://michael.stapelberg.ch/posts/2025-10-31-macbook-pro-m4-impressions/"
     ]
   ],
   [
@@ -221,16 +221,6 @@
   ],
   [
     [
-      "2025-10-27, 16:13:32",
-      "https://news.ycombinator.com/item?id=45722691"
-    ],
-    [
-      "Beyond Smoothed Analysis: Analyzing the Simplex Method by the Book",
-      "https://arxiv.org/abs/2510.21613"
-    ]
-  ],
-  [
-    [
       "2025-10-27, 11:52:33",
       "https://news.ycombinator.com/item?id=45719919"
     ],
@@ -247,6 +237,16 @@
     [
       "Active listening: the Swiss Army Knife of communication",
       "https://togetherlondon.com/insights/active-listening-swiss-army-knife"
+    ]
+  ],
+  [
+    [
+      "2025-10-27, 11:18:53",
+      "https://news.ycombinator.com/item?id=45719662"
+    ],
+    [
+      "I built my own CityMapper",
+      "https://asherfalcon.com/blog/posts/5"
     ]
   ],
   [
