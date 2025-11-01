@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-11-01, 22:05:00](https://news.ycombinator.com/item?id=45785840) - [SailfishOS: A Linux-based European alternative to dominant mobile OSes](https://sailfishos.org/info/)
 * [2025-11-01, 20:59:32](https://news.ycombinator.com/item?id=45785291) - [FFmpeg Dealing with a Security Researcher](https://twitter.com/ffmpeg/status/1984207514389586050)
 * [2025-11-01, 19:50:03](https://news.ycombinator.com/item?id=45784729) - [From 400 Mbps to 1.7 Gbps: A WiFi 7 Debugging Journey](https://blog.tymscar.com/posts/wifi7speedhunt/)
 * [2025-11-01, 19:33:48](https://news.ycombinator.com/item?id=45784596) - [Beginner-friendly, unofficial documentation for Helix text editor](https://helix-editor.vercel.app/start-here/basics/)
@@ -20,7 +21,6 @@
 * [2025-11-01, 13:12:47](https://news.ycombinator.com/item?id=45781397) - [CharlotteOS – An Experimental Modern Operating System](https://github.com/charlotte-os/Catten)
 * [2025-11-01, 12:59:03](https://news.ycombinator.com/item?id=45781298) - [SQLite concurrency and why you should care about it](https://jellyfin.org/posts/SQLite-locking/)
 * [2025-11-01, 07:31:40](https://news.ycombinator.com/item?id=45779860) - [Hard Rust requirements from May onward](https://lists.debian.org/debian-devel/2025/10/msg00285.html)
-* [2025-10-31, 23:03:18](https://news.ycombinator.com/item?id=45777682) - [S.A.R.C.A.S.M: Slightly Annoying Rubik's Cube Automatic Solving Machine](https://github.com/vindar/SARCASM)
 * [2025-10-30, 16:52:46](https://news.ycombinator.com/item?id=45762160) - [The Smol Training Playbook: The Secrets to Building World-Class LLMs](https://huggingface.co/spaces/HuggingFaceTB/smol-training-playbook)
 * [2025-10-30, 16:20:35](https://news.ycombinator.com/item?id=45761746) - [Dating: A Mysterious Constellation of Facts](https://dynomight.net/dating/)
 * [2025-10-30, 01:44:25](https://news.ycombinator.com/item?id=45755495) - [NJVL: Nim's New Intermediate Representation](https://github.com/nim-lang/nimony/blob/master/doc/njvl-spec.md)
