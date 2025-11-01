@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-11-01, 14:58:05",
+      "https://news.ycombinator.com/item?id=45782136"
+    ],
+    [
+      "arXiv No Longer Accepts Computer Science Position or Review Papers Due to LLMs",
+      "https://blog.arxiv.org/2025/10/31/attention-authors-updated-practice-for-review-articles-and-position-papers-in-arxiv-cs-category/"
+    ]
+  ],
+  [
+    [
       "2025-11-01, 13:12:47",
       "https://news.ycombinator.com/item?id=45781397"
     ],
@@ -127,16 +137,6 @@
     [
       "Futurelock: A subtle risk in async Rust",
       "https://rfd.shared.oxide.computer/rfd/0609"
-    ]
-  ],
-  [
-    [
-      "2025-10-31, 11:54:00",
-      "https://news.ycombinator.com/item?id=45771019"
-    ],
-    [
-      "Perfetto: Swiss army knife for Linux client tracing",
-      "https://lalitm.com/perfetto-swiss-army-knife/"
     ]
   ],
   [
