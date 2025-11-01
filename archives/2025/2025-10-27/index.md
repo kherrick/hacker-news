@@ -37,6 +37,7 @@
 * [2025-10-27, 16:27:50](https://news.ycombinator.com/item?id=45722896) - [How blocks are chained in a blockchain](https://www.johndcook.com/blog/2025/10/27/blockchain/)
 * [2025-10-27, 16:22:52](https://news.ycombinator.com/item?id=45722826) - [JSON Query](https://jsonquerylang.org/)
 * [2025-10-27, 16:16:05](https://news.ycombinator.com/item?id=45722733) - [Ask HN: Is AWS Down Again?](https://news.ycombinator.com/item?id=45722733)
+* [2025-10-27, 16:13:32](https://news.ycombinator.com/item?id=45722691) - [Beyond Smoothed Analysis: Analyzing the Simplex Method by the Book](https://arxiv.org/abs/2510.21613)
 * [2025-10-27, 16:09:22](https://news.ycombinator.com/item?id=45722639) - [Claude for Excel](https://www.claude.com/claude-for-excel)
 * [2025-10-27, 16:08:58](https://news.ycombinator.com/item?id=45722635) - [Show HN: Erdos – open-source, AI data science IDE](https://www.lotas.ai/erdos)
 * [2025-10-27, 16:05:06](https://news.ycombinator.com/item?id=45722590) - [Write Express JS code that runs on Rust](https://github.com/Shyam20001/rsjs)
