@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-11-01, 04:09:20](https://news.ycombinator.com/item?id=45779181) - [New analog chip that is 1k times faster than high-end Nvidia GPUs](https://www.livescience.com/technology/computing/china-solves-century-old-problem-with-new-analog-chip-that-is-1-000-times-faster-than-high-end-nvidia-gpus)
 * [2025-11-01, 03:18:04](https://news.ycombinator.com/item?id=45778984) - [The Profitable Startup](https://linear.app/now/the-profitable-startup)
 * [2025-11-01, 01:38:24](https://news.ycombinator.com/item?id=45778566) - [Fungus: The Befunge CPU(2015)](https://www.bedroomlan.org/hardware/fungus/)
 * [2025-10-31, 23:23:59](https://news.ycombinator.com/item?id=45777810) - [Show HN: Strange Attractors](https://blog.shashanktomar.com/posts/strange-attractors)
@@ -26,10 +27,9 @@
 * [2025-10-28, 16:19:26](https://news.ycombinator.com/item?id=45734865) - [Show HN: Pipelex – Declarative language for repeatable AI workflows](https://github.com/Pipelex/pipelex)
 * [2025-10-27, 17:42:17](https://news.ycombinator.com/item?id=45724043) - [Viagrid – PCB template for rapid PCB prototyping with factory-made vias [video]](https://www.youtube.com/watch?v=A_IUIyyqw0M)
 * [2025-10-27, 11:40:04](https://news.ycombinator.com/item?id=45719829) - [Active listening: the Swiss Army Knife of communication](https://togetherlondon.com/insights/active-listening-swiss-army-knife)
-* [2025-10-25, 20:27:16](https://news.ycombinator.com/item?id=45706707) - [Lording it, over: A new history of the modern British aristocracy](https://newcriterion.com/article/lording-it-over/)
 * [2025-10-23, 20:30:30](https://news.ycombinator.com/item?id=45686678) - [Why Should I Care What Color the Bikeshed Is?](https://www.bikeshed.com/)
 * [2025-10-23, 13:23:32](https://news.ycombinator.com/item?id=45681535) - [Kerkship St. Jozef, Antwerp – WWII German Concrete Tanker](https://thecretefleet.com/blog/f/kerkship-st-jozef-antwerp-%E2%80%93-wwii-german-concrete-tanker)
-* [2025-10-23, 13:22:15](https://news.ycombinator.com/item?id=45681514) - [The 1924 New Mexico regional banking panic](https://nodumbideas.com/p/labor-day-special-the-1924-new-mexico)
+* [2025-10-22, 21:22:59](https://news.ycombinator.com/item?id=45675323) - [Value-pool based caching for Java applications](https://github.com/malandrakisgeo/mnemosyne)
 
 ## [Archives](archives/index.md)
 

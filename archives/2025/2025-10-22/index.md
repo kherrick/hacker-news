@@ -11,6 +11,7 @@
 * [2025-10-22, 22:31:54](https://news.ycombinator.com/item?id=45676002) - [Officials scrub data showing US citizens swept up in immigration arrests](https://www.thedailybeast.com/officials-scrub-data-showing-us-citizens-swept-up-in-immigration-arrests/)
 * [2025-10-22, 22:26:45](https://news.ycombinator.com/item?id=45675956) - [An overengineered solution to `sort | uniq -c` with 25x throughput (hist)](https://github.com/noamteyssier/hist-rs)
 * [2025-10-22, 22:15:29](https://news.ycombinator.com/item?id=45675851) - [Iceland reports the presence of mosquitoes as climate warms](https://www.npr.org/2025/10/22/nx-s1-5582748/iceland-mosquitoes-first-time)
+* [2025-10-22, 21:22:59](https://news.ycombinator.com/item?id=45675323) - [Value-pool based caching for Java applications](https://github.com/malandrakisgeo/mnemosyne)
 * [2025-10-22, 21:01:07](https://news.ycombinator.com/item?id=45675090) - [InpharmD (YC W21) Is Hiring – NLP Engineer](https://inpharmd.com/jobs/inpharmd-is-hiring-ai-ml-engineer)
 * [2025-10-22, 20:54:37](https://news.ycombinator.com/item?id=45675020) - [YASA beats own power density record pushing electric motor to 59kW/kg benchmark](https://yasa.com/news/yasa-smashes-own-unofficial-power-density-world-record-pushing-state-of-the-art-electric-motor-to-staggering-new-59kw-kg-benchmark/)
 * [2025-10-22, 20:53:49](https://news.ycombinator.com/item?id=45675015) - [Google flags Immich sites as dangerous](https://immich.app/blog/google-flags-immich-as-dangerous)
