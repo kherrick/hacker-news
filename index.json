@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-11-01, 16:54:45",
+      "https://news.ycombinator.com/item?id=45783206"
+    ],
+    [
+      "What the Air You Breathe May Be Doing to Your Brain",
+      "https://www.nytimes.com/2025/11/01/health/alzheimers-dementia-air-pollution.html"
+    ]
+  ],
+  [
+    [
+      "2025-11-01, 16:29:23",
+      "https://news.ycombinator.com/item?id=45782981"
+    ],
+    [
+      "GHC now runs in the browser",
+      "https://discourse.haskell.org/t/ghc-now-runs-in-your-browser/13169"
+    ]
+  ],
+  [
+    [
       "2025-11-01, 16:16:53",
       "https://news.ycombinator.com/item?id=45782865"
     ],
@@ -21,12 +41,32 @@
   ],
   [
     [
+      "2025-11-01, 15:12:00",
+      "https://news.ycombinator.com/item?id=45782267"
+    ],
+    [
+      "Tech companies are firing everyone to \"fund AI\", spending money on each other",
+      "https://old.reddit.com/r/ArtificialInteligence/comments/1oj52xx/tech_companies_are_firing_everyone_to_fund_ai_but/"
+    ]
+  ],
+  [
+    [
       "2025-11-01, 14:58:05",
       "https://news.ycombinator.com/item?id=45782136"
     ],
     [
       "arXiv No Longer Accepts Computer Science Position or Review Papers Due to LLMs",
       "https://blog.arxiv.org/2025/10/31/attention-authors-updated-practice-for-review-articles-and-position-papers-in-arxiv-cs-category/"
+    ]
+  ],
+  [
+    [
+      "2025-11-01, 14:20:38",
+      "https://news.ycombinator.com/item?id=45781843"
+    ],
+    [
+      "Tigerbeetle Simulator",
+      "https://sim.tigerbeetle.com/"
     ]
   ],
   [
@@ -81,16 +121,6 @@
   ],
   [
     [
-      "2025-11-01, 03:18:04",
-      "https://news.ycombinator.com/item?id=45778984"
-    ],
-    [
-      "The profitable startup",
-      "https://linear.app/now/the-profitable-startup"
-    ]
-  ],
-  [
-    [
       "2025-10-31, 23:23:59",
       "https://news.ycombinator.com/item?id=45777810"
     ],
@@ -131,32 +161,12 @@
   ],
   [
     [
-      "2025-10-31, 17:37:15",
-      "https://news.ycombinator.com/item?id=45774571"
-    ],
-    [
-      "Use DuckDB-WASM to query TB of data in browser",
-      "https://lil.law.harvard.edu/blog/2025/10/24/rethinking-data-discovery-for-libraries-and-digital-humanities/"
-    ]
-  ],
-  [
-    [
       "2025-10-31, 16:49:26",
       "https://news.ycombinator.com/item?id=45774086"
     ],
     [
       "Futurelock: A subtle risk in async Rust",
       "https://rfd.shared.oxide.computer/rfd/0609"
-    ]
-  ],
-  [
-    [
-      "2025-10-31, 10:13:40",
-      "https://news.ycombinator.com/item?id=45770304"
-    ],
-    [
-      "My Impressions of the MacBook Pro M4",
-      "https://michael.stapelberg.ch/posts/2025-10-31-macbook-pro-m4-impressions/"
     ]
   ],
   [
@@ -177,16 +187,6 @@
     [
       "Leaker reveals which Pixels are vulnerable to Cellebrite phone hacking",
       "https://arstechnica.com/gadgets/2025/10/leaker-reveals-which-pixels-are-vulnerable-to-cellebrite-phone-hacking/"
-    ]
-  ],
-  [
-    [
-      "2025-10-30, 18:25:05",
-      "https://news.ycombinator.com/item?id=45763359"
-    ],
-    [
-      "How We Found 7 TiB of Memory Just Sitting Around",
-      "https://render.com/blog/how-we-found-7-tib-of-memory-just-sitting-around"
     ]
   ],
   [
