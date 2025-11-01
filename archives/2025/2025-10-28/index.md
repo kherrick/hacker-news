@@ -66,6 +66,7 @@
 * [2025-10-28, 11:12:32](https://news.ycombinator.com/item?id=45731366) - [Show HN: Bash Screensavers](https://github.com/attogram/bash-screensavers)
 * [2025-10-28, 11:03:59](https://news.ycombinator.com/item?id=45731321) - [Your vibe coded slop PR is not welcome](https://samsaffron.com/archive/2025/10/27/your-vibe-coded-slop-pr-is-not-welcome)
 * [2025-10-28, 11:03:38](https://news.ycombinator.com/item?id=45731315) - [Understanding the Worst .NET Vulnerability](https://andrewlock.net/understanding-the-worst-dotnet-vulnerability-request-smuggling-and-cve-2025-55315/)
+* [2025-10-28, 10:53:21](https://news.ycombinator.com/item?id=45731256) - [The Impossible Optimization, and the Metaprogramming to Achieve It](https://verdagon.dev/blog/impossible-optimization)
 * [2025-10-28, 10:20:16](https://news.ycombinator.com/item?id=45731069) - [Situated Software – Clay Shirky (2004)](http://shirky.com/essays/situated-software/)
 * [2025-10-28, 09:02:47](https://news.ycombinator.com/item?id=45730607) - [Geometry and Physics of Wrinkling [pdf]](https://softmath.seas.harvard.edu/wp-content/uploads/2019/10/2003-03.pdf)
 * [2025-10-28, 08:34:57](https://news.ycombinator.com/item?id=45730411) - [Criminal complaint against facial recognition company Clearview AI](https://noyb.eu/en/criminal-complaint-against-facial-recognition-company-clearview-ai)
