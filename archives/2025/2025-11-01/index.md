@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-11-01](index.md)
 
+* [2025-11-01, 07:31:40](https://news.ycombinator.com/item?id=45779860) - [Hard Rust requirements from May onward for all Debian ports](https://lists.debian.org/debian-devel/2025/10/msg00285.html)
 * [2025-11-01, 06:53:10](https://news.ycombinator.com/item?id=45779720) - [Ask HN: Do you have an aversion to recent TLDs?](https://news.ycombinator.com/item?id=45779720)
 * [2025-11-01, 04:31:52](https://news.ycombinator.com/item?id=45779261) - [Intent to Deprecate and Remove: Deprecate and Remove XSLT](https://groups.google.com/a/chromium.org/g/blink-dev/c/CxL4gYZeSJA/m/yNs4EsD5AQAJ)
 * [2025-11-01, 04:09:20](https://news.ycombinator.com/item?id=45779181) - [New analog chip that is 1k times faster than high-end Nvidia GPUs](https://www.livescience.com/technology/computing/china-solves-century-old-problem-with-new-analog-chip-that-is-1-000-times-faster-than-high-end-nvidia-gpus)
