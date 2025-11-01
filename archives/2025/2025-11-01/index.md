@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-11-01](index.md)
 
+* [2025-11-01, 22:07:49](https://news.ycombinator.com/item?id=45785858) - [OS maintained by a single developer since 1997: Visopsys](https://visopsys.org/)
 * [2025-11-01, 22:05:00](https://news.ycombinator.com/item?id=45785840) - [SailfishOS: A Linux-based European alternative to dominant mobile OSes](https://sailfishos.org/info/)
 * [2025-11-01, 21:58:22](https://news.ycombinator.com/item?id=45785794) - [AI Broke Interviews](https://yusufaytas.com/ai-broke-interviews/)
 * [2025-11-01, 20:59:32](https://news.ycombinator.com/item?id=45785291) - [FFmpeg Dealing with a Security Researcher](https://twitter.com/ffmpeg/status/1984207514389586050)
