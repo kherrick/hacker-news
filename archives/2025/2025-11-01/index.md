@@ -5,11 +5,13 @@
 ### [Archives](../../index.md) for [2025-11-01](index.md)
 
 * [2025-11-01, 19:40:04](https://news.ycombinator.com/item?id=45784644) - [Sanders: Government should break up OpenAI](https://thehill.com/policy/technology/5571789-ai-threatens-jobs-sanders-warns/)
+* [2025-11-01, 19:33:48](https://news.ycombinator.com/item?id=45784596) - [Beginner-friendly, unofficial documentation for Helix text editor](https://helix-editor.vercel.app/start-here/basics/)
 * [2025-11-01, 19:14:58](https://news.ycombinator.com/item?id=45784455) - [word2vec-style vector arithmetic on docs embeddings](https://technicalwriting.dev/embeddings/arithmetic/index.html)
 * [2025-11-01, 19:11:13](https://news.ycombinator.com/item?id=45784428) - [US will not send officials to COP30 climate talks](https://www.reuters.com/sustainability/cop/us-will-not-send-officials-cop30-climate-talks-white-house-says-2025-10-31/)
 * [2025-11-01, 18:42:39](https://news.ycombinator.com/item?id=45784185) - [Czech police forced to turn off facial recognition cameras at the Prague airport](https://edri.org/our-work/czech-police-forced-to-turn-off-facial-recognition-cameras-at-the-prague-airport-thanks-to-the-ai-act/)
 * [2025-11-01, 18:41:56](https://news.ycombinator.com/item?id=45784179) - [Claude Code Can Debug Low-Level Cryptography](https://words.filippo.io/claude-debugging/)
 * [2025-11-01, 18:40:33](https://news.ycombinator.com/item?id=45784158) - [Powell – unlike the dotcom boom, AI spending isn't a bubble](https://fortune.com/2025/10/29/powell-says-ai-is-not-a-bubble-unlike-dot-com-federal-reserve-interest-rates/)
+* [2025-11-01, 18:06:35](https://news.ycombinator.com/item?id=45783853) - [Reflections on My Tech Career – Part 1](https://randomascii.wordpress.com/2025/10/22/reflections-on-my-tech-career-part-1/)
 * [2025-11-01, 18:03:56](https://news.ycombinator.com/item?id=45783835) - [Reconfigurable Analog Computers](https://arxiv.org/abs/2510.25942)
 * [2025-11-01, 17:50:38](https://news.ycombinator.com/item?id=45783699) - [Visible from space, Sudan's bloodied sands expose a massacre of thousands](https://www.telegraph.co.uk/world-news/2025/10/28/sudan-bloodied-sands-massacre-thousands/)
 * [2025-11-01, 17:45:18](https://news.ycombinator.com/item?id=45783640) - [Show HN: Why write code if the LLM can just do the thing? (web app experiment)](https://github.com/samrolken/nokode)
