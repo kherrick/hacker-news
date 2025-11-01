@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-11-01](index.md)
 
+* [2025-11-01, 12:58:21](https://news.ycombinator.com/item?id=45781293) - [Abandonware of the web: do you know that there is an HTML tables API?](https://christianheilmann.com/2025/10/08/abandonware-of-the-web-do-you-know-that-there-is-an-html-tables-api/)
 * [2025-11-01, 07:31:40](https://news.ycombinator.com/item?id=45779860) - [Hard Rust requirements from May onward for all Debian ports](https://lists.debian.org/debian-devel/2025/10/msg00285.html)
 * [2025-11-01, 06:53:10](https://news.ycombinator.com/item?id=45779720) - [Ask HN: Do you have an aversion to recent TLDs?](https://news.ycombinator.com/item?id=45779720)
 * [2025-11-01, 04:31:52](https://news.ycombinator.com/item?id=45779261) - [Intent to Deprecate and Remove: Deprecate and Remove XSLT](https://groups.google.com/a/chromium.org/g/blink-dev/c/CxL4gYZeSJA/m/yNs4EsD5AQAJ)
