@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-11-01, 07:31:40](https://news.ycombinator.com/item?id=45779860) - [Hard Rust requirements from May onward for all Debian ports](https://lists.debian.org/debian-devel/2025/10/msg00285.html)
 * [2025-11-01, 03:18:04](https://news.ycombinator.com/item?id=45778984) - [The profitable startup](https://linear.app/now/the-profitable-startup)
 * [2025-10-31, 23:23:59](https://news.ycombinator.com/item?id=45777810) - [Show HN: Strange Attractors](https://blog.shashanktomar.com/posts/strange-attractors)
 * [2025-10-31, 23:03:56](https://news.ycombinator.com/item?id=45777683) - [Photographing the rare brown hyena stalking a diamond mining ghost town](https://www.bbc.com/future/article/20251014-the-rare-hyena-stalking-a-diamond-mining-ghost-town)
@@ -24,6 +23,7 @@
 * [2025-10-29, 01:31:56](https://news.ycombinator.com/item?id=45741569) - [Hacking India's largest automaker: Tata Motors](https://eaton-works.com/2025/10/28/tata-motors-hack/)
 * [2025-10-28, 16:19:26](https://news.ycombinator.com/item?id=45734865) - [Show HN: Pipelex – Declarative language for repeatable AI workflows](https://github.com/Pipelex/pipelex)
 * [2025-10-28, 10:53:21](https://news.ycombinator.com/item?id=45731256) - [The Impossible Optimization, and the Metaprogramming to Achieve It](https://verdagon.dev/blog/impossible-optimization)
+* [2025-10-27, 23:59:44](https://news.ycombinator.com/item?id=45727819) - [Show HN: Settling the Score – a point-and-click adventure rhythm game](https://easel.games/@raysplaceinspace/settling-the-score/)
 * [2025-10-27, 17:42:17](https://news.ycombinator.com/item?id=45724043) - [Viagrid – PCB template for rapid PCB prototyping with factory-made vias [video]](https://www.youtube.com/watch?v=A_IUIyyqw0M)
 * [2025-10-27, 16:13:32](https://news.ycombinator.com/item?id=45722691) - [Beyond Smoothed Analysis: Analyzing the Simplex Method by the Book](https://arxiv.org/abs/2510.21613)
 * [2025-10-27, 11:40:04](https://news.ycombinator.com/item?id=45719829) - [Active listening: the Swiss Army Knife of communication](https://togetherlondon.com/insights/active-listening-swiss-army-knife)
