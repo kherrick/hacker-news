@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-11-01, 22:05:00](https://news.ycombinator.com/item?id=45785840) - [SailfishOS: A Linux-based European alternative to dominant mobile OSes](https://sailfishos.org/info/)
+* [2025-11-01, 21:58:22](https://news.ycombinator.com/item?id=45785794) - [AI Broke Interviews](https://yusufaytas.com/ai-broke-interviews/)
 * [2025-11-01, 20:59:32](https://news.ycombinator.com/item?id=45785291) - [FFmpeg Dealing with a Security Researcher](https://twitter.com/ffmpeg/status/1984207514389586050)
 * [2025-11-01, 19:50:03](https://news.ycombinator.com/item?id=45784729) - [From 400 Mbps to 1.7 Gbps: A WiFi 7 Debugging Journey](https://blog.tymscar.com/posts/wifi7speedhunt/)
 * [2025-11-01, 19:33:48](https://news.ycombinator.com/item?id=45784596) - [Beginner-friendly, unofficial documentation for Helix text editor](https://helix-editor.vercel.app/start-here/basics/)
@@ -15,7 +16,6 @@
 * [2025-11-01, 16:54:45](https://news.ycombinator.com/item?id=45783206) - [Studies increasingly find links between air pollutants and dementia](https://www.nytimes.com/2025/11/01/health/alzheimers-dementia-air-pollution.html)
 * [2025-11-01, 16:42:57](https://news.ycombinator.com/item?id=45783114) - [Chat Control proposal fails again after public opposition](https://andreafortuna.org/2025/11/01/chat-control-proposal-fails-again-after-massive-public-opposition/)
 * [2025-11-01, 16:29:23](https://news.ycombinator.com/item?id=45782981) - [GHC now runs in the browser](https://discourse.haskell.org/t/ghc-now-runs-in-your-browser/13169)
-* [2025-11-01, 16:16:53](https://news.ycombinator.com/item?id=45782865) - [Data centers contribute to high prices as energy bills electrify local politics](https://www.wsj.com/economy/consumers/surging-power-costs-are-putting-the-squeeze-on-customers-f8b2c04b)
 * [2025-11-01, 15:21:00](https://news.ycombinator.com/item?id=45782348) - [Open-Source Ada: From Gateware to Application](https://blog.adacore.com/open-source-ada-from-gateware-to-application)
 * [2025-11-01, 14:58:05](https://news.ycombinator.com/item?id=45782136) - [Updated practice for review articles and position papers in ArXiv CS category](https://blog.arxiv.org/2025/10/31/attention-authors-updated-practice-for-review-articles-and-position-papers-in-arxiv-cs-category/)
 * [2025-11-01, 13:12:47](https://news.ycombinator.com/item?id=45781397) - [CharlotteOS – An Experimental Modern Operating System](https://github.com/charlotte-os/Catten)
@@ -28,8 +28,8 @@
 * [2025-10-28, 13:32:18](https://news.ycombinator.com/item?id=45732677) - [Frank Gasking on preserving «lost» games](https://spillhistorie.no/2025/10/24/frank-gasking-on-preserving-lost-games/)
 * [2025-10-28, 09:56:37](https://news.ycombinator.com/item?id=45730940) - [Austria: Pylons as sculpture for public acceptance of expanding electrification](https://www.goodgoodgood.co/articles/austrian-power-giants-power-line-animals)
 * [2025-10-27, 11:18:53](https://news.ycombinator.com/item?id=45719662) - [I built my own CityMapper](https://asherfalcon.com/blog/posts/5)
+* [2025-10-25, 05:14:53](https://news.ycombinator.com/item?id=45701506) - [The Suppliers Behind the Apple Pencil Pro](https://quartr.com/insights/company-research/the-suppliers-behind-the-apple-pencil-pro)
 * [2025-10-23, 23:42:54](https://news.ycombinator.com/item?id=45688922) - ['Chinese lantern' structure shifts into many shapes for various applications](https://techxplore.com/news/2025-10-chinese-lantern-shifts-dozen-applications.html)
-* [2025-10-23, 15:23:55](https://news.ycombinator.com/item?id=45682917) - [How I stopped worrying and started loving the Assembly](https://medium.com/@jonas.eschenburg/how-i-stopped-worrying-and-started-loving-the-assembly-4fd00e786c60)
 
 ## [Archives](archives/index.md)
 
