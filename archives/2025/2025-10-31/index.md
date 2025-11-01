@@ -6,6 +6,7 @@
 
 * [2025-10-31, 23:23:59](https://news.ycombinator.com/item?id=45777810) - [Show HN: Strange Attractors](https://blog.shashanktomar.com/posts/strange-attractors)
 * [2025-10-31, 23:03:56](https://news.ycombinator.com/item?id=45777683) - [Photographing the rare brown hyena stalking a diamond mining ghost town](https://www.bbc.com/future/article/20251014-the-rare-hyena-stalking-a-diamond-mining-ghost-town)
+* [2025-10-31, 23:03:18](https://news.ycombinator.com/item?id=45777682) - [S.a.r.c.a.s.m: Slightly Annoying Rubik's Cube Automatic Solving Machine](https://github.com/vindar/SARCASM)
 * [2025-10-31, 21:41:53](https://news.ycombinator.com/item?id=45777015) - [Tim Bray on Grokipedia](https://www.tbray.org/ongoing/When/202x/2025/10/28/Grokipedia)
 * [2025-10-31, 21:32:36](https://news.ycombinator.com/item?id=45776941) - [The only people who feel good are making over $200k and have large portfolios](https://fortune.com/2025/10/24/why-is-economy-so-bad-recession-not-inflation-fed-rate-cuts-2025/)
 * [2025-10-31, 20:20:42](https://news.ycombinator.com/item?id=45776269) - [A theoretical way to circumvent Android developer verification](https://enaix.github.io/2025/10/30/developer-verification.html)
