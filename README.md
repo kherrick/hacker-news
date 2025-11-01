@@ -2,7 +2,6 @@
 
 * [2025-11-01, 03:18:04](https://news.ycombinator.com/item?id=45778984) - [The profitable startup](https://linear.app/now/the-profitable-startup)
 * [2025-10-31, 23:23:59](https://news.ycombinator.com/item?id=45777810) - [Show HN: Strange Attractors](https://blog.shashanktomar.com/posts/strange-attractors)
-* [2025-10-31, 23:03:56](https://news.ycombinator.com/item?id=45777683) - [Photographing the rare brown hyena stalking a diamond mining ghost town](https://www.bbc.com/future/article/20251014-the-rare-hyena-stalking-a-diamond-mining-ghost-town)
 * [2025-10-31, 23:03:18](https://news.ycombinator.com/item?id=45777682) - [S.A.R.C.A.S.M: Slightly Annoying Rubik's Cube Automatic Solving Machine](https://github.com/vindar/SARCASM)
 * [2025-10-31, 20:20:42](https://news.ycombinator.com/item?id=45776269) - [A theoretical way to circumvent Android developer verification](https://enaix.github.io/2025/10/30/developer-verification.html)
 * [2025-10-31, 17:42:55](https://news.ycombinator.com/item?id=45774640) - [Addiction Markets](https://www.thebignewsletter.com/p/addiction-markets-abolish-corporate)
@@ -28,6 +27,7 @@
 * [2025-10-27, 11:40:04](https://news.ycombinator.com/item?id=45719829) - [Active listening: the Swiss Army Knife of communication](https://togetherlondon.com/insights/active-listening-swiss-army-knife)
 * [2025-10-25, 20:57:20](https://news.ycombinator.com/item?id=45706901) - [Nisus Writer: Schrödinger's Word Processor](https://tidbits.com/2025/10/25/nisus-writer-schrodingers-word-processor/)
 * [2025-10-23, 15:23:55](https://news.ycombinator.com/item?id=45682917) - [How I stopped worrying and started loving the Assembly](https://medium.com/@jonas.eschenburg/how-i-stopped-worrying-and-started-loving-the-assembly-4fd00e786c60)
+* [2025-10-23, 14:51:20](https://news.ycombinator.com/item?id=45682501) - [Solving the NY Times \"Pips\" game with F#](https://github.com/brianberns/Pips)
 * [2025-10-23, 13:23:32](https://news.ycombinator.com/item?id=45681535) - [Kerkship St. Jozef, Antwerp – WWII German Concrete Tanker](https://thecretefleet.com/blog/f/kerkship-st-jozef-antwerp-%E2%80%93-wwii-german-concrete-tanker)
 * [2025-10-23, 07:06:36](https://news.ycombinator.com/item?id=45679050) - ['Killing the Dead' Review: Watch the Graveyard](https://www.wsj.com/arts-culture/books/killing-the-dead-review-watch-the-graveyard-f54e14f4)
 
