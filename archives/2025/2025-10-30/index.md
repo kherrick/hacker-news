@@ -31,6 +31,7 @@
 * [2025-10-30, 16:40:02](https://news.ycombinator.com/item?id=45762012) - [Launch HN: Propolis (YC X25) – Browser agents that QA your web app autonomously](https://app.propolis.tech/#/launch)
 * [2025-10-30, 16:32:22](https://news.ycombinator.com/item?id=45761902) - [Falling panel prices lead to global solar boom, except for the US](https://arstechnica.com/science/2025/10/theres-a-global-boom-in-solar-except-in-the-united-states/)
 * [2025-10-30, 16:23:56](https://news.ycombinator.com/item?id=45761789) - [Qt Creator 18 Released](https://www.qt.io/blog/qt-creator-18-released)
+* [2025-10-30, 16:20:35](https://news.ycombinator.com/item?id=45761746) - [Dating: A Mysterious Constellation of Facts](https://dynomight.net/dating/)
 * [2025-10-30, 16:13:19](https://news.ycombinator.com/item?id=45761659) - [Affinity by Canva](https://www.affinity.studio/)
 * [2025-10-30, 15:54:38](https://news.ycombinator.com/item?id=45761445) - [Affinity Studio Now Free](https://www.affinity.studio/get-affinity)
 * [2025-10-30, 15:21:46](https://news.ycombinator.com/item?id=45761042) - [ZOZO's Contact Solver (for physics-based simulations)](https://github.com/st-tech/ppf-contact-solver)
