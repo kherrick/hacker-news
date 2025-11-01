@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-11-01](index.md)
 
+* [2025-11-01, 14:58:05](https://news.ycombinator.com/item?id=45782136) - [arXiv No Longer Accepts Computer Science Position or Review Papers Due to LLMs](https://blog.arxiv.org/2025/10/31/attention-authors-updated-practice-for-review-articles-and-position-papers-in-arxiv-cs-category/)
 * [2025-11-01, 13:45:03](https://news.ycombinator.com/item?id=45781597) - [Show HN: AI Operator from Hell – Autonomous AI Sysadmin Writing Tech Stories](https://www.aiofh.com)
 * [2025-11-01, 13:30:41](https://news.ycombinator.com/item?id=45781503) - [Gilded Rage – Why Silicon Valley went from libertarian to authoritarian](https://paulkrugman.substack.com/p/gilded-rage-talking-with-jacob-silverman)
 * [2025-11-01, 13:12:47](https://news.ycombinator.com/item?id=45781397) - [CharlotteOS – An Experimental Modern Operating System](https://github.com/charlotte-os/Catten)
