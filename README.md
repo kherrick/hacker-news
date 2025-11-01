@@ -1,8 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-11-01, 19:11:13](https://news.ycombinator.com/item?id=45784428) - [US will not send officials to COP30 climate talks](https://www.reuters.com/sustainability/cop/us-will-not-send-officials-cop30-climate-talks-white-house-says-2025-10-31/)
 * [2025-11-01, 18:40:33](https://news.ycombinator.com/item?id=45784158) - [Powell – unlike the dotcom boom, AI spending isn't a bubble](https://fortune.com/2025/10/29/powell-says-ai-is-not-a-bubble-unlike-dot-com-federal-reserve-interest-rates/)
+* [2025-11-01, 18:03:56](https://news.ycombinator.com/item?id=45783835) - [Reconfigurable Analog Computers](https://arxiv.org/abs/2510.25942)
 * [2025-11-01, 17:50:38](https://news.ycombinator.com/item?id=45783699) - [Visible from space, Sudan's bloodied sands expose a massacre of thousands](https://www.telegraph.co.uk/world-news/2025/10/28/sudan-bloodied-sands-massacre-thousands/)
-* [2025-11-01, 17:45:18](https://news.ycombinator.com/item?id=45783640) - [Show HN: Why write code if the LLM can just do the thing? (web app experiment)](https://github.com/samrolken/nokode)
 * [2025-11-01, 17:25:12](https://news.ycombinator.com/item?id=45783470) - [OpenAI Moves to Complete Potentially the Largest Theft in Human History](https://thezvi.substack.com/p/openai-moves-to-complete-potentially)
 * [2025-11-01, 17:24:57](https://news.ycombinator.com/item?id=45783465) - [The giant basket case countries](https://www.noahpinion.blog/p/the-giant-basket-case-countries)
 * [2025-11-01, 17:21:08](https://news.ycombinator.com/item?id=45783440) - [How I Learned to Stop Worrying and Love My Shitty Life](https://www.thedriftmag.com/how-i-learned-to-stop-worrying-and-love-my-shitty-life/)
@@ -23,7 +24,6 @@
 * [2025-10-31, 16:49:26](https://news.ycombinator.com/item?id=45774086) - [Futurelock: A subtle risk in async Rust](https://rfd.shared.oxide.computer/rfd/0609)
 * [2025-10-31, 00:46:56](https://news.ycombinator.com/item?id=45767178) - [Myths Programmers Believe about CPU Caches (2018)](https://software.rajivprab.com/2018/04/29/myths-programmers-believe-about-cpu-caches/)
 * [2025-10-30, 23:12:10](https://news.ycombinator.com/item?id=45766501) - [Leaker reveals which Pixels are vulnerable to Cellebrite phone hacking](https://arstechnica.com/gadgets/2025/10/leaker-reveals-which-pixels-are-vulnerable-to-cellebrite-phone-hacking/)
-* [2025-10-30, 10:35:00](https://news.ycombinator.com/item?id=45758392) - [Introducing architecture variants](https://discourse.ubuntu.com/t/introducing-architecture-variants-amd64v3-now-available-in-ubuntu-25-10/71312)
 * [2025-10-28, 13:32:18](https://news.ycombinator.com/item?id=45732677) - [Frank Gasking on preserving «lost» games](https://spillhistorie.no/2025/10/24/frank-gasking-on-preserving-lost-games/)
 * [2025-10-28, 10:53:21](https://news.ycombinator.com/item?id=45731256) - [The Impossible Optimization, and the Metaprogramming to Achieve It](https://verdagon.dev/blog/impossible-optimization)
 * [2025-10-28, 09:56:37](https://news.ycombinator.com/item?id=45730940) - [Austria: Pylons as sculpture for public acceptance of expanding electrification](https://www.goodgoodgood.co/articles/austrian-power-giants-power-line-animals)
