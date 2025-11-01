@@ -72,6 +72,7 @@
 * [2025-10-29, 06:12:46](https://news.ycombinator.com/item?id=45743232) - [Show HN: Front End Fuzzy and Substring and Prefix Search](https://github.com/m31coding/fuzzy-search)
 * [2025-10-29, 05:27:42](https://news.ycombinator.com/item?id=45742957) - [Jack Kerouac, Malcolm Cowley, and the difficult birth of On the Road](https://theamericanscholar.org/scrolling-through/)
 * [2025-10-29, 05:17:49](https://news.ycombinator.com/item?id=45742907) - [Who needs Graphviz when you can build it yourself?](https://spidermonkey.dev/blog/2025/10/28/iongraph-web.html)
+* [2025-10-29, 05:14:33](https://news.ycombinator.com/item?id=45742886) - [The hardest program I've ever written (2015)](https://journal.stuffwithstuff.com/2015/09/08/the-hardest-program-ive-ever-written/)
 * [2025-10-29, 04:25:24](https://news.ycombinator.com/item?id=45742616) - [Wacl – A Tcl Distribution for WebAssembly](https://github.com/ecky-l/wacl)
 * [2025-10-29, 04:03:41](https://news.ycombinator.com/item?id=45742488) - [Keep Android Open](http://keepandroidopen.org/)
 * [2025-10-29, 03:58:57](https://news.ycombinator.com/item?id=45742456) - [Board: New game console recognizes physical pieces, with an open SDK](https://board.fun/)
