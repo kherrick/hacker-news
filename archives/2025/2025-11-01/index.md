@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-11-01](index.md)
 
+* [2025-11-01, 22:26:03](https://news.ycombinator.com/item?id=45785986) - [OpenDesk by the Centre for Digital Sovereignty](https://www.opendesk.eu/en/product)
 * [2025-11-01, 22:07:49](https://news.ycombinator.com/item?id=45785858) - [OS maintained by a single developer since 1997: Visopsys](https://visopsys.org/)
 * [2025-11-01, 22:05:00](https://news.ycombinator.com/item?id=45785840) - [SailfishOS: A Linux-based European alternative to dominant mobile OSes](https://sailfishos.org/info/)
 * [2025-11-01, 21:58:22](https://news.ycombinator.com/item?id=45785794) - [AI Broke Interviews](https://yusufaytas.com/ai-broke-interviews/)

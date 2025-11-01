@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-11-01, 22:26:03](https://news.ycombinator.com/item?id=45785986) - [OpenDesk by the Centre for Digital Sovereignty](https://www.opendesk.eu/en/product)
 * [2025-11-01, 22:07:49](https://news.ycombinator.com/item?id=45785858) - [OS maintained by a single developer since 1997: Visopsys](https://visopsys.org/)
 * [2025-11-01, 22:05:00](https://news.ycombinator.com/item?id=45785840) - [SailfishOS: A Linux-based European alternative to dominant mobile OSes](https://sailfishos.org/info/)
 * [2025-11-01, 21:58:22](https://news.ycombinator.com/item?id=45785794) - [AI Broke Interviews](https://yusufaytas.com/ai-broke-interviews/)
@@ -11,7 +12,6 @@
 * [2025-11-01, 18:03:56](https://news.ycombinator.com/item?id=45783835) - [Reconfigurable Analog Computers](https://arxiv.org/abs/2510.25942)
 * [2025-11-01, 17:50:38](https://news.ycombinator.com/item?id=45783699) - [Visible from space, Sudan's bloodied sands expose a massacre of thousands](https://www.telegraph.co.uk/world-news/2025/10/28/sudan-bloodied-sands-massacre-thousands/)
 * [2025-11-01, 17:45:18](https://news.ycombinator.com/item?id=45783640) - [Show HN: Why write code if the LLM can just do the thing? (web app experiment)](https://github.com/samrolken/nokode)
-* [2025-11-01, 17:21:08](https://news.ycombinator.com/item?id=45783440) - [Self-help gets philosophical](https://www.thedriftmag.com/how-i-learned-to-stop-worrying-and-love-my-shitty-life/)
 * [2025-11-01, 17:13:04](https://news.ycombinator.com/item?id=45783376) - [Ask HN: Where to begin with \"modern\" Emacs?](https://news.ycombinator.com/item?id=45783376)
 * [2025-11-01, 16:54:45](https://news.ycombinator.com/item?id=45783206) - [Studies increasingly find links between air pollutants and dementia](https://www.nytimes.com/2025/11/01/health/alzheimers-dementia-air-pollution.html)
 * [2025-11-01, 16:42:57](https://news.ycombinator.com/item?id=45783114) - [Chat Control proposal fails again after public opposition](https://andreafortuna.org/2025/11/01/chat-control-proposal-fails-again-after-massive-public-opposition/)
@@ -24,7 +24,7 @@
 * [2025-10-30, 16:52:46](https://news.ycombinator.com/item?id=45762160) - [The Smol Training Playbook: The Secrets to Building World-Class LLMs](https://huggingface.co/spaces/HuggingFaceTB/smol-training-playbook)
 * [2025-10-30, 01:44:25](https://news.ycombinator.com/item?id=45755495) - [NJVL: Nim's New Intermediate Representation](https://github.com/nim-lang/nimony/blob/master/doc/njvl-spec.md)
 * [2025-10-29, 05:14:33](https://news.ycombinator.com/item?id=45742886) - [The hardest program I've ever written (2015)](https://journal.stuffwithstuff.com/2015/09/08/the-hardest-program-ive-ever-written/)
-* [2025-10-28, 13:32:18](https://news.ycombinator.com/item?id=45732677) - [Frank Gasking on preserving «lost» games](https://spillhistorie.no/2025/10/24/frank-gasking-on-preserving-lost-games/)
+* [2025-10-28, 14:37:55](https://news.ycombinator.com/item?id=45733453) - [RegEx Crossword](https://jimbly.github.io/regex-crossword/)
 * [2025-10-28, 09:56:37](https://news.ycombinator.com/item?id=45730940) - [Austria: Pylons as sculpture for public acceptance of expanding electrification](https://www.goodgoodgood.co/articles/austrian-power-giants-power-line-animals)
 * [2025-10-27, 11:18:53](https://news.ycombinator.com/item?id=45719662) - [I built my own CityMapper](https://asherfalcon.com/blog/posts/5)
 * [2025-10-25, 05:14:53](https://news.ycombinator.com/item?id=45701506) - [The Suppliers Behind the Apple Pencil Pro](https://quartr.com/insights/company-research/the-suppliers-behind-the-apple-pencil-pro)
