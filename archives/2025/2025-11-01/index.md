@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-11-01](index.md)
 
+* [2025-11-01, 20:59:32](https://news.ycombinator.com/item?id=45785291) - [FFmpeg Dealing with a Security Researcher](https://twitter.com/ffmpeg/status/1984207514389586050)
 * [2025-11-01, 19:57:23](https://news.ycombinator.com/item?id=45784810) - [Sam Altman tried to cancel his Tesla Roadster, but he was ghosted](https://electrek.co/2025/10/31/sam-altman-cancel-tesla-roadster-but-ghosted/)
 * [2025-11-01, 19:50:03](https://news.ycombinator.com/item?id=45784729) - [From 400 Mbps to 1.7 Gbps: A WiFi 7 Debugging Journey](https://blog.tymscar.com/posts/wifi7speedhunt/)
 * [2025-11-01, 19:40:04](https://news.ycombinator.com/item?id=45784644) - [Sanders: Government should break up OpenAI](https://thehill.com/policy/technology/5571789-ai-threatens-jobs-sanders-warns/)

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-10-23](index.md)
 
+* [2025-10-23, 23:42:54](https://news.ycombinator.com/item?id=45688922) - ['Chinese lantern' structure shifts into many shapes for various applications](https://techxplore.com/news/2025-10-chinese-lantern-shifts-dozen-applications.html)
 * [2025-10-23, 23:33:28](https://news.ycombinator.com/item?id=45688836) - [React Flow, open source libraries for node-based UIs with React or Svelte](https://github.com/xyflow/xyflow)
 * [2025-10-23, 22:52:15](https://news.ycombinator.com/item?id=45688443) - [Introduction to the Concept of Likelihood and Its Applications](https://journals.sagepub.com/doi/10.1177/2515245917744314)
 * [2025-10-23, 22:43:15](https://news.ycombinator.com/item?id=45688340) - [Populism Fast and Slow](https://josephheath.substack.com/p/populism-fast-and-slow)
