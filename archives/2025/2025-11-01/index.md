@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-11-01](index.md)
 
+* [2025-11-01, 13:45:03](https://news.ycombinator.com/item?id=45781597) - [Show HN: AI Operator from Hell – Autonomous AI Sysadmin Writing Tech Stories](https://www.aiofh.com)
 * [2025-11-01, 13:30:41](https://news.ycombinator.com/item?id=45781503) - [Gilded Rage – Why Silicon Valley went from libertarian to authoritarian](https://paulkrugman.substack.com/p/gilded-rage-talking-with-jacob-silverman)
 * [2025-11-01, 13:12:47](https://news.ycombinator.com/item?id=45781397) - [CharlotteOS – An Experimental Modern Operating System](https://github.com/charlotte-os/Catten)
 * [2025-11-01, 12:59:03](https://news.ycombinator.com/item?id=45781298) - [SQLite concurrency and why you should care about it](https://jellyfin.org/posts/SQLite-locking/)
