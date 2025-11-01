@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-11-01, 22:05:00",
+      "https://news.ycombinator.com/item?id=45785840"
+    ],
+    [
+      "SailfishOS: A Linux-based European alternative to dominant mobile OSes",
+      "https://sailfishos.org/info/"
+    ]
+  ],
+  [
+    [
       "2025-11-01, 20:59:32",
       "https://news.ycombinator.com/item?id=45785291"
     ],
@@ -197,16 +207,6 @@
     [
       "Hard Rust requirements from May onward",
       "https://lists.debian.org/debian-devel/2025/10/msg00285.html"
-    ]
-  ],
-  [
-    [
-      "2025-10-31, 23:03:18",
-      "https://news.ycombinator.com/item?id=45777682"
-    ],
-    [
-      "S.A.R.C.A.S.M: Slightly Annoying Rubik's Cube Automatic Solving Machine",
-      "https://github.com/vindar/SARCASM"
     ]
   ],
   [
