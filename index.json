@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-11-01, 19:57:23",
+      "https://news.ycombinator.com/item?id=45784810"
+    ],
+    [
+      "Sam Altman tried to cancel his Tesla Roadster, but he was ghosted",
+      "https://electrek.co/2025/10/31/sam-altman-cancel-tesla-roadster-but-ghosted/"
+    ]
+  ],
+  [
+    [
+      "2025-11-01, 19:50:03",
+      "https://news.ycombinator.com/item?id=45784729"
+    ],
+    [
+      "From 400 Mbps to 1.7 Gbps: A WiFi 7 Debugging Journey",
+      "https://blog.tymscar.com/posts/wifi7speedhunt/"
+    ]
+  ],
+  [
+    [
       "2025-11-01, 19:40:04",
       "https://news.ycombinator.com/item?id=45784644"
     ],
@@ -191,32 +211,12 @@
   ],
   [
     [
-      "2025-11-01, 08:58:54",
-      "https://news.ycombinator.com/item?id=45780228"
-    ],
-    [
-      "You can't refuse to be scanned by ICE's facial recognition app, DHS document say",
-      "https://www.404media.co/you-cant-refuse-to-be-scanned-by-ices-facial-recognition-app-dhs-document-says/"
-    ]
-  ],
-  [
-    [
       "2025-11-01, 07:31:40",
       "https://news.ycombinator.com/item?id=45779860"
     ],
     [
       "Hard Rust requirements from May onward",
       "https://lists.debian.org/debian-devel/2025/10/msg00285.html"
-    ]
-  ],
-  [
-    [
-      "2025-10-31, 23:03:18",
-      "https://news.ycombinator.com/item?id=45777682"
-    ],
-    [
-      "S.A.R.C.A.S.M: Slightly Annoying Rubik's Cube Automatic Solving Machine",
-      "https://github.com/vindar/SARCASM"
     ]
   ],
   [
