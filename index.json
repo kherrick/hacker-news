@@ -1,12 +1,12 @@
 [
   [
     [
-      "2025-11-01, 13:30:41",
-      "https://news.ycombinator.com/item?id=45781503"
+      "2025-11-01, 13:45:03",
+      "https://news.ycombinator.com/item?id=45781597"
     ],
     [
-      "Gilded Rage – Why Silicon Valley went from libertarian to authoritarian",
-      "https://paulkrugman.substack.com/p/gilded-rage-talking-with-jacob-silverman"
+      "Show HN: AI Operator from Hell – Autonomous AI Sysadmin Writing Tech Stories",
+      "https://www.aiofh.com"
     ]
   ],
   [
@@ -41,21 +41,11 @@
   ],
   [
     [
-      "2025-11-01, 10:01:46",
-      "https://news.ycombinator.com/item?id=45780490"
-    ],
-    [
-      ".arpa, rDNS and a few magical ICMP hacks",
-      "https://sdomi.pl/weblog/24-arpa-hacks/"
-    ]
-  ],
-  [
-    [
       "2025-11-01, 08:58:54",
       "https://news.ycombinator.com/item?id=45780228"
     ],
     [
-      "You Can't Refuse to Be Scanned by ICE's Facial Recognition App, DHS Document Say",
+      "You can't refuse to be scanned by ICE's facial recognition app, DHS document say",
       "https://www.404media.co/you-cant-refuse-to-be-scanned-by-ices-facial-recognition-app-dhs-document-says/"
     ]
   ],
@@ -137,6 +127,16 @@
     [
       "Futurelock: A subtle risk in async Rust",
       "https://rfd.shared.oxide.computer/rfd/0609"
+    ]
+  ],
+  [
+    [
+      "2025-10-31, 11:54:00",
+      "https://news.ycombinator.com/item?id=45771019"
+    ],
+    [
+      "Perfetto: Swiss army knife for Linux client tracing",
+      "https://lalitm.com/perfetto-swiss-army-knife/"
     ]
   ],
   [
