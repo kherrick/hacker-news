@@ -45,6 +45,7 @@
 * [2025-10-23, 15:41:54](https://news.ycombinator.com/item?id=45683153) - [VectorWare – from creators of `rust-GPU` and `rust-CUDA`](https://www.vectorware.com/blog/announcing-vectorware/)
 * [2025-10-23, 15:41:48](https://news.ycombinator.com/item?id=45683152) - [Trump pardons convicted Binance founder](https://www.wsj.com/finance/currencies/trump-pardons-convicted-binance-founder-7509bd63)
 * [2025-10-23, 15:39:10](https://news.ycombinator.com/item?id=45683113) - [Reasoning Is Not Model Improvement](https://manidoraisamy.com/reasoning-not-ai.html)
+* [2025-10-23, 15:23:55](https://news.ycombinator.com/item?id=45682917) - [How I stopped worrying and started loving the Assembly](https://medium.com/@jonas.eschenburg/how-i-stopped-worrying-and-started-loving-the-assembly-4fd00e786c60)
 * [2025-10-23, 15:12:57](https://news.ycombinator.com/item?id=45682776) - [Show HN: Git for LLMs – a context management interface](https://twigg.ai)
 * [2025-10-23, 15:03:05](https://news.ycombinator.com/item?id=45682671) - [US hits $38T in debt. Fastest accumulation of $1T outside pandemic](https://apnews.com/article/trump-treasury-debt-ceiling-bessent-09575f13ca95c2f1beb38234b2cbe85b)
 * [2025-10-23, 14:55:29](https://news.ycombinator.com/item?id=45682560) - [Luau's Performance](https://luau.org/performance)
