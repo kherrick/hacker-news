@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-11-01, 13:30:41](https://news.ycombinator.com/item?id=45781503) - [Gilded Rage – Why Silicon Valley went from libertarian to authoritarian](https://paulkrugman.substack.com/p/gilded-rage-talking-with-jacob-silverman)
 * [2025-11-01, 12:59:03](https://news.ycombinator.com/item?id=45781298) - [SQLite concurrency and why you should care about it](https://jellyfin.org/posts/SQLite-locking/)
 * [2025-11-01, 12:58:21](https://news.ycombinator.com/item?id=45781293) - [Abandonware of the web: do you know that there is an HTML tables API?](https://christianheilmann.com/2025/10/08/abandonware-of-the-web-do-you-know-that-there-is-an-html-tables-api/)
 * [2025-11-01, 10:01:46](https://news.ycombinator.com/item?id=45780490) - [.arpa, rDNS and a few magical ICMP hacks](https://sdomi.pl/weblog/24-arpa-hacks/)
@@ -20,15 +21,14 @@
 * [2025-10-30, 10:35:00](https://news.ycombinator.com/item?id=45758392) - [Introducing architecture variants](https://discourse.ubuntu.com/t/introducing-architecture-variants-amd64v3-now-available-in-ubuntu-25-10/71312)
 * [2025-10-29, 01:31:56](https://news.ycombinator.com/item?id=45741569) - [Hacking India's largest automaker: Tata Motors](https://eaton-works.com/2025/10/28/tata-motors-hack/)
 * [2025-10-28, 10:53:21](https://news.ycombinator.com/item?id=45731256) - [The Impossible Optimization, and the Metaprogramming to Achieve It](https://verdagon.dev/blog/impossible-optimization)
-* [2025-10-27, 23:59:44](https://news.ycombinator.com/item?id=45727819) - [Show HN: Settling the Score – A point-and-click adventure rhythm game](https://easel.games/@raysplaceinspace/settling-the-score/)
 * [2025-10-27, 17:42:17](https://news.ycombinator.com/item?id=45724043) - [Viagrid – PCB template for rapid PCB prototyping with factory-made vias [video]](https://www.youtube.com/watch?v=A_IUIyyqw0M)
 * [2025-10-27, 16:13:32](https://news.ycombinator.com/item?id=45722691) - [Beyond Smoothed Analysis: Analyzing the Simplex Method by the Book](https://arxiv.org/abs/2510.21613)
 * [2025-10-27, 11:52:33](https://news.ycombinator.com/item?id=45719919) - [On Having a Data Object](https://www.natemeyvis.com/on-having-a-data-object/)
 * [2025-10-27, 11:40:04](https://news.ycombinator.com/item?id=45719829) - [Active listening: the Swiss Army Knife of communication](https://togetherlondon.com/insights/active-listening-swiss-army-knife)
 * [2025-10-25, 20:57:20](https://news.ycombinator.com/item?id=45706901) - [Nisus Writer: Schrödinger's Word Processor](https://tidbits.com/2025/10/25/nisus-writer-schrodingers-word-processor/)
+* [2025-10-23, 20:30:30](https://news.ycombinator.com/item?id=45686678) - [Why should I care what color the bikeshed is? (1999)](https://www.bikeshed.com/)
 * [2025-10-23, 15:23:55](https://news.ycombinator.com/item?id=45682917) - [How I stopped worrying and started loving the Assembly](https://medium.com/@jonas.eschenburg/how-i-stopped-worrying-and-started-loving-the-assembly-4fd00e786c60)
 * [2025-10-23, 14:51:20](https://news.ycombinator.com/item?id=45682501) - [Solving the NY Times \"Pips\" game with F#](https://github.com/brianberns/Pips)
-* [2025-10-23, 13:23:32](https://news.ycombinator.com/item?id=45681535) - [Kerkship St. Jozef, Antwerp – WWII German Concrete Tanker](https://thecretefleet.com/blog/f/kerkship-st-jozef-antwerp-%E2%80%93-wwii-german-concrete-tanker)
 * [2025-10-23, 07:06:36](https://news.ycombinator.com/item?id=45679050) - ['Killing the Dead' Review: Watch the Graveyard](https://www.wsj.com/arts-culture/books/killing-the-dead-review-watch-the-graveyard-f54e14f4)
 
 ## [Archives](archives/index.md)

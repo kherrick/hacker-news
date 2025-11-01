@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-11-01](index.md)
 
+* [2025-11-01, 13:30:41](https://news.ycombinator.com/item?id=45781503) - [Gilded Rage – Why Silicon Valley went from libertarian to authoritarian](https://paulkrugman.substack.com/p/gilded-rage-talking-with-jacob-silverman)
 * [2025-11-01, 12:59:03](https://news.ycombinator.com/item?id=45781298) - [SQLite concurrency and why you should care about it](https://jellyfin.org/posts/SQLite-locking/)
 * [2025-11-01, 12:58:21](https://news.ycombinator.com/item?id=45781293) - [Abandonware of the web: do you know that there is an HTML tables API?](https://christianheilmann.com/2025/10/08/abandonware-of-the-web-do-you-know-that-there-is-an-html-tables-api/)
 * [2025-11-01, 10:01:46](https://news.ycombinator.com/item?id=45780490) - [.arpa, rDNS and a few magical ICMP hacks](https://sdomi.pl/weblog/24-arpa-hacks/)
