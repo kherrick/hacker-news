@@ -15,7 +15,7 @@
       "https://news.ycombinator.com/item?id=45779181"
     ],
     [
-      "New analog chip that is 1k times faster than high-end Nvidia GPUs",
+      "New analog chip capable of outperforming top-end GPUs by as much as 1000x",
       "https://www.livescience.com/technology/computing/china-solves-century-old-problem-with-new-analog-chip-that-is-1-000-times-faster-than-high-end-nvidia-gpus"
     ]
   ],
@@ -35,7 +35,7 @@
       "https://news.ycombinator.com/item?id=45778566"
     ],
     [
-      "Fungus: The Befunge CPU(2015)",
+      "Fungus: The Befunge CPU (2015)",
       "https://www.bedroomlan.org/hardware/fungus/"
     ]
   ],
@@ -97,16 +97,6 @@
     [
       "Use DuckDB-WASM to query TB of data in browser",
       "https://lil.law.harvard.edu/blog/2025/10/24/rethinking-data-discovery-for-libraries-and-digital-humanities/"
-    ]
-  ],
-  [
-    [
-      "2025-10-31, 17:00:37",
-      "https://news.ycombinator.com/item?id=45774198"
-    ],
-    [
-      "Pangolin (YC S25) is hiring a full stack software engineer (open-source)",
-      "https://docs.pangolin.net/careers/software-engineer-full-stack"
     ]
   ],
   [
@@ -257,6 +247,16 @@
     [
       "Active listening: the Swiss Army Knife of communication",
       "https://togetherlondon.com/insights/active-listening-swiss-army-knife"
+    ]
+  ],
+  [
+    [
+      "2025-10-25, 20:57:20",
+      "https://news.ycombinator.com/item?id=45706901"
+    ],
+    [
+      "Nisus Writer: Schrödinger's Word Processor",
+      "https://tidbits.com/2025/10/25/nisus-writer-schrodingers-word-processor/"
     ]
   ],
   [
