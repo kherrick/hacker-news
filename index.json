@@ -1,12 +1,42 @@
 [
   [
     [
+      "2025-11-01, 12:59:03",
+      "https://news.ycombinator.com/item?id=45781298"
+    ],
+    [
+      "SQLite concurrency and why you should care about it",
+      "https://jellyfin.org/posts/SQLite-locking/"
+    ]
+  ],
+  [
+    [
       "2025-11-01, 12:58:21",
       "https://news.ycombinator.com/item?id=45781293"
     ],
     [
       "Abandonware of the web: do you know that there is an HTML tables API?",
       "https://christianheilmann.com/2025/10/08/abandonware-of-the-web-do-you-know-that-there-is-an-html-tables-api/"
+    ]
+  ],
+  [
+    [
+      "2025-11-01, 10:01:46",
+      "https://news.ycombinator.com/item?id=45780490"
+    ],
+    [
+      ".arpa, rDNS and a few magical ICMP hacks",
+      "https://sdomi.pl/weblog/24-arpa-hacks/"
+    ]
+  ],
+  [
+    [
+      "2025-11-01, 08:58:54",
+      "https://news.ycombinator.com/item?id=45780228"
+    ],
+    [
+      "You Can't Refuse to Be Scanned by ICE's Facial Recognition App, DHS Document Say",
+      "https://www.404media.co/you-cant-refuse-to-be-scanned-by-ices-facial-recognition-app-dhs-document-says/"
     ]
   ],
   [
@@ -81,36 +111,6 @@
   ],
   [
     [
-      "2025-10-31, 15:44:19",
-      "https://news.ycombinator.com/item?id=45773347"
-    ],
-    [
-      "AI scrapers request commented scripts",
-      "https://cryptography.dog/blog/AI-scrapers-request-commented-scripts/"
-    ]
-  ],
-  [
-    [
-      "2025-10-31, 14:28:35",
-      "https://news.ycombinator.com/item?id=45772347"
-    ],
-    [
-      "Nix Derivation Madness",
-      "https://fzakaria.com/2025/10/29/nix-derivation-madness"
-    ]
-  ],
-  [
-    [
-      "2025-10-31, 13:32:08",
-      "https://news.ycombinator.com/item?id=45771796"
-    ],
-    [
-      "Sustainable memristors from shiitake mycelium for high-frequency bioelectronics",
-      "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0328965"
-    ]
-  ],
-  [
-    [
       "2025-10-31, 11:54:00",
       "https://news.ycombinator.com/item?id=45771019"
     ],
@@ -147,16 +147,6 @@
     [
       "Leaker reveals which Pixels are vulnerable to Cellebrite phone hacking",
       "https://arstechnica.com/gadgets/2025/10/leaker-reveals-which-pixels-are-vulnerable-to-cellebrite-phone-hacking/"
-    ]
-  ],
-  [
-    [
-      "2025-10-30, 20:34:02",
-      "https://news.ycombinator.com/item?id=45764986"
-    ],
-    [
-      "Apple reports fourth quarter results",
-      "https://www.apple.com/newsroom/2025/10/apple-reports-fourth-quarter-results/"
     ]
   ],
   [
@@ -237,6 +227,16 @@
     [
       "Beyond Smoothed Analysis: Analyzing the Simplex Method by the Book",
       "https://arxiv.org/abs/2510.21613"
+    ]
+  ],
+  [
+    [
+      "2025-10-27, 11:52:33",
+      "https://news.ycombinator.com/item?id=45719919"
+    ],
+    [
+      "On Having a Data Object",
+      "https://www.natemeyvis.com/on-having-a-data-object/"
     ]
   ],
   [
