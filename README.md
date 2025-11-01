@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-11-01, 15:12:00](https://news.ycombinator.com/item?id=45782267) - [Tech companies are firing everyone to \"fund AI\", spending money on each other](https://old.reddit.com/r/ArtificialInteligence/comments/1oj52xx/tech_companies_are_firing_everyone_to_fund_ai_but/)
 * [2025-11-01, 14:58:05](https://news.ycombinator.com/item?id=45782136) - [arXiv No Longer Accepts Computer Science Position or Review Papers Due to LLMs](https://blog.arxiv.org/2025/10/31/attention-authors-updated-practice-for-review-articles-and-position-papers-in-arxiv-cs-category/)
 * [2025-11-01, 14:20:38](https://news.ycombinator.com/item?id=45781843) - [Tigerbeetle Simulator](https://sim.tigerbeetle.com/)
 * [2025-11-01, 14:14:07](https://news.ycombinator.com/item?id=45781792) - [Async/Await is finally back in Zig](https://charlesfonseca.substack.com/p/asyncawait-is-finally-back-in-zig)
@@ -17,7 +18,6 @@
 * [2025-10-31, 16:49:26](https://news.ycombinator.com/item?id=45774086) - [Futurelock: A subtle risk in async Rust](https://rfd.shared.oxide.computer/rfd/0609)
 * [2025-10-31, 00:46:56](https://news.ycombinator.com/item?id=45767178) - [Myths Programmers Believe about CPU Caches (2018)](https://software.rajivprab.com/2018/04/29/myths-programmers-believe-about-cpu-caches/)
 * [2025-10-30, 23:12:10](https://news.ycombinator.com/item?id=45766501) - [Leaker reveals which Pixels are vulnerable to Cellebrite phone hacking](https://arstechnica.com/gadgets/2025/10/leaker-reveals-which-pixels-are-vulnerable-to-cellebrite-phone-hacking/)
-* [2025-10-30, 18:25:05](https://news.ycombinator.com/item?id=45763359) - [How We Found 7 TiB of Memory Just Sitting Around](https://render.com/blog/how-we-found-7-tib-of-memory-just-sitting-around)
 * [2025-10-30, 10:35:00](https://news.ycombinator.com/item?id=45758392) - [Introducing architecture variants](https://discourse.ubuntu.com/t/introducing-architecture-variants-amd64v3-now-available-in-ubuntu-25-10/71312)
 * [2025-10-29, 01:31:56](https://news.ycombinator.com/item?id=45741569) - [Hacking India's largest automaker: Tata Motors](https://eaton-works.com/2025/10/28/tata-motors-hack/)
 * [2025-10-28, 13:32:18](https://news.ycombinator.com/item?id=45732677) - [Frank Gasking on preserving «lost» games](https://spillhistorie.no/2025/10/24/frank-gasking-on-preserving-lost-games/)
