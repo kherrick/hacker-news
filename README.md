@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-11-02, 12:42:04](https://news.ycombinator.com/item?id=45789896) - [Stop 'reactions' to email by adding a postfix header (2024)](https://neilzone.co.uk/2024/07/attempting-to-stop-microsoft-users-sending-reactions-to-email-from-me-by-adding-a-postfix-header/)
+* [2025-11-02, 14:44:35](https://news.ycombinator.com/item?id=45790677) - ['Do not trust your eyes': AI generates surge in expense fraud](https://www.ft.com/content/0849f8fe-2674-4eae-a134-587340829a58)
 * [2025-11-02, 11:52:23](https://news.ycombinator.com/item?id=45789640) - [Matched Clean Power Index](https://matched.energy/blog/matched-clean-power-index-is-live)
 * [2025-11-02, 11:43:26](https://news.ycombinator.com/item?id=45789602) - [Tongyi DeepResearch – open-source 30B MoE Model that rivals OpenAI DeepResearch](https://tongyi-agent.github.io/blog/introducing-tongyi-deep-research/)
 * [2025-11-02, 11:40:47](https://news.ycombinator.com/item?id=45789596) - [HyperRogue – A non-Euclidean roguelike](https://roguetemple.com/z/hyper/)
