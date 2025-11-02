@@ -1,12 +1,42 @@
 [
   [
     [
+      "2025-11-02, 16:23:30",
+      "https://news.ycombinator.com/item?id=45791410"
+    ],
+    [
+      "Palantir Thinks College Might Be a Waste. So It's Hiring High-School Grads",
+      "https://www.wsj.com/business/palantir-thinks-college-might-be-a-waste-so-its-hiring-high-school-grads-aed267d5"
+    ]
+  ],
+  [
+    [
       "2025-11-02, 15:06:36",
       "https://news.ycombinator.com/item?id=45790827"
     ],
     [
       "\"Why don't you use dependent types?\"",
       "https://lawrencecpaulson.github.io//2025/11/02/Why-not-dependent.html"
+    ]
+  ],
+  [
+    [
+      "2025-11-02, 13:43:08",
+      "https://news.ycombinator.com/item?id=45790293"
+    ],
+    [
+      "Writing FreeDOS Programs in C",
+      "https://www.freedos.org/books/cprogramming/"
+    ]
+  ],
+  [
+    [
+      "2025-11-02, 13:07:31",
+      "https://news.ycombinator.com/item?id=45790015"
+    ],
+    [
+      "X.org Security Advisory: multiple security issues X.Org X server and Xwayland",
+      "https://lists.x.org/archives/xorg-announce/2025-October/003635.html"
     ]
   ],
   [
@@ -151,26 +181,6 @@
   ],
   [
     [
-      "2025-11-01, 19:50:03",
-      "https://news.ycombinator.com/item?id=45784729"
-    ],
-    [
-      "From 400 Mbps to 1.7 Gbps: A WiFi 7 Debugging Journey",
-      "https://blog.tymscar.com/posts/wifi7speedhunt/"
-    ]
-  ],
-  [
-    [
-      "2025-11-01, 19:33:48",
-      "https://news.ycombinator.com/item?id=45784596"
-    ],
-    [
-      "Beginner-friendly, unofficial documentation for Helix text editor",
-      "https://helix-editor.vercel.app/start-here/basics/"
-    ]
-  ],
-  [
-    [
       "2025-11-01, 18:41:56",
       "https://news.ycombinator.com/item?id=45784179"
     ],
@@ -217,16 +227,6 @@
     [
       "SQLite concurrency and why you should care about it",
       "https://jellyfin.org/posts/SQLite-locking/"
-    ]
-  ],
-  [
-    [
-      "2025-10-30, 16:52:46",
-      "https://news.ycombinator.com/item?id=45762160"
-    ],
-    [
-      "The Smol Training Playbook: The Secrets to Building World-Class LLMs",
-      "https://huggingface.co/spaces/HuggingFaceTB/smol-training-playbook"
     ]
   ],
   [
