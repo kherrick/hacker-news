@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-11-02](index.md)
 
+* [2025-11-02, 12:42:04](https://news.ycombinator.com/item?id=45789896) - [Stop Microsoft users sending 'reactions' to email by adding a postfix header](https://neilzone.co.uk/2024/07/attempting-to-stop-microsoft-users-sending-reactions-to-email-from-me-by-adding-a-postfix-header/)
+* [2025-11-02, 11:43:19](https://news.ycombinator.com/item?id=45789601) - [How the US is preparing a Caribbean staging ground near Venezuela](https://www.reuters.com/graphics/USA-CARIBBEAN/MILITARY-BUILDUP/egpbbnzyrpq/)
+* [2025-11-02, 11:40:47](https://news.ycombinator.com/item?id=45789596) - [HyperRogue, the non-Euclidean roguelike, is a mind-melting masterpiece](https://roguetemple.com/z/hyper/)
 * [2025-11-02, 11:30:50](https://news.ycombinator.com/item?id=45789556) - [Mock – An API creation and testing utility: Examples](https://dhuan.github.io/mock/latest/examples.html)
 * [2025-11-02, 11:17:16](https://news.ycombinator.com/item?id=45789494) - [Sam Altman wants a refund for his $50k Tesla Roadster deposit](https://arstechnica.com/cars/2025/10/sam-altman-wants-a-refund-for-his-50000-tesla-roadster-deposit/)
 * [2025-11-02, 11:12:58](https://news.ycombinator.com/item?id=45789474) - [Your URL Is Your State](https://alfy.blog/2025/10/31/your-url-is-your-state.html)
