@@ -21,6 +21,16 @@
   ],
   [
     [
+      "2025-11-02, 00:54:13",
+      "https://news.ycombinator.com/item?id=45786962"
+    ],
+    [
+      "Linux and Windows: A tale of Kerberos, SSSD, DFS, and black magic",
+      "http://www.draeath.net/blog/it/2018/03/13/DFSwithKRB/"
+    ]
+  ],
+  [
+    [
       "2025-11-02, 00:45:13",
       "https://news.ycombinator.com/item?id=45786914"
     ],
@@ -61,12 +71,12 @@
   ],
   [
     [
-      "2025-11-01, 22:52:22",
-      "https://news.ycombinator.com/item?id=45786192"
+      "2025-11-01, 23:01:24",
+      "https://news.ycombinator.com/item?id=45786266"
     ],
     [
-      "Show HN: KeyLeak Detector – Scan websites for exposed API keys and secrets",
-      "https://github.com/Amal-David/keyleak-detector"
+      "The purported benefits of effect systems",
+      "https://typesanitizer.com/blog/effects-convo.html"
     ]
   ],
   [
@@ -97,6 +107,26 @@
     [
       "SailfishOS: A Linux-based European alternative to dominant mobile OSes",
       "https://sailfishos.org/info/"
+    ]
+  ],
+  [
+    [
+      "2025-11-01, 20:59:32",
+      "https://news.ycombinator.com/item?id=45785291"
+    ],
+    [
+      "FFmpeg dealing with a security researcher",
+      "https://twitter.com/ffmpeg/status/1984207514389586050"
+    ]
+  ],
+  [
+    [
+      "2025-11-01, 19:50:03",
+      "https://news.ycombinator.com/item?id=45784729"
+    ],
+    [
+      "From 400 Mbps to 1.7 Gbps: A WiFi 7 Debugging Journey",
+      "https://blog.tymscar.com/posts/wifi7speedhunt/"
     ]
   ],
   [
@@ -171,16 +201,6 @@
   ],
   [
     [
-      "2025-11-01, 13:12:47",
-      "https://news.ycombinator.com/item?id=45781397"
-    ],
-    [
-      "CharlotteOS – An Experimental Modern Operating System",
-      "https://github.com/charlotte-os/Catten"
-    ]
-  ],
-  [
-    [
       "2025-11-01, 12:59:03",
       "https://news.ycombinator.com/item?id=45781298"
     ],
@@ -201,22 +221,22 @@
   ],
   [
     [
-      "2025-10-31, 13:40:03",
-      "https://news.ycombinator.com/item?id=45771871"
-    ],
-    [
-      "Show HN: A simple drag and drop tool to document and label fuse boxes",
-      "https://github.com/alexadam/fuse-box-labels"
-    ]
-  ],
-  [
-    [
       "2025-10-30, 16:52:46",
       "https://news.ycombinator.com/item?id=45762160"
     ],
     [
       "The Smol Training Playbook: The Secrets to Building World-Class LLMs",
       "https://huggingface.co/spaces/HuggingFaceTB/smol-training-playbook"
+    ]
+  ],
+  [
+    [
+      "2025-10-30, 16:20:35",
+      "https://news.ycombinator.com/item?id=45761746"
+    ],
+    [
+      "Dating: A mysterious constellation of facts",
+      "https://dynomight.net/dating/"
     ]
   ],
   [
@@ -241,16 +261,6 @@
   ],
   [
     [
-      "2025-10-28, 09:56:37",
-      "https://news.ycombinator.com/item?id=45730940"
-    ],
-    [
-      "Austria: Pylons as sculpture for public acceptance of expanding electrification",
-      "https://www.goodgoodgood.co/articles/austrian-power-giants-power-line-animals"
-    ]
-  ],
-  [
-    [
       "2025-10-28, 09:17:00",
       "https://news.ycombinator.com/item?id=45730694"
     ],
@@ -267,16 +277,6 @@
     [
       "3M Diskette Reference Manual (1983) [pdf]",
       "https://retrocmp.de/fdd/diskette/3M_Diskette_Reference_Manual_May83.pdf"
-    ]
-  ],
-  [
-    [
-      "2025-10-27, 11:18:53",
-      "https://news.ycombinator.com/item?id=45719662"
-    ],
-    [
-      "I built my own CityMapper",
-      "https://asherfalcon.com/blog/posts/5"
     ]
   ],
   [
