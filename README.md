@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-11-02, 22:27:08](https://news.ycombinator.com/item?id=45793982) - [The foods that make you smell more attractive](https://www.bbc.com/future/article/20251031-the-foods-that-make-you-smell-more-attractive)
 * [2025-11-02, 21:35:02](https://news.ycombinator.com/item?id=45793652) - [FurtherAI (Series A – A16Z, YC) Is Hiring Across Software and AI](https://news.ycombinator.com/item?id=45793652)
 * [2025-11-02, 21:08:15](https://news.ycombinator.com/item?id=45793466) - [Paris Had a Moving Sidewalk in 1900, and a Thomas Edison Film Captured It (2020)](https://www.openculture.com/2020/03/paris-had-a-moving-sidewalk-in-1900.html)
 * [2025-11-02, 20:40:54](https://news.ycombinator.com/item?id=45793244) - [Alleged Jabber Zeus Coder 'MrICQ' in U.S. Custody](https://krebsonsecurity.com/2025/11/alleged-jabber-zeus-coder-mricq-in-u-s-custody/)
@@ -23,7 +24,6 @@
 * [2025-11-02, 05:20:12](https://news.ycombinator.com/item?id=45787993) - [Backpropagation is a leaky abstraction (2016)](https://karpathy.medium.com/yes-you-should-understand-backprop-e2f06eab496b)
 * [2025-11-02, 04:59:39](https://news.ycombinator.com/item?id=45787948) - [Plumbing vs. Internet, Revisited](https://gwern.net/blog/2025/plumbing-vs-internet)
 * [2025-11-01, 22:07:49](https://news.ycombinator.com/item?id=45785858) - [Visopsys: OS maintained by a single developer since 1997](https://visopsys.org/)
-* [2025-11-01, 18:41:56](https://news.ycombinator.com/item?id=45784179) - [Claude Code can debug low-level cryptography](https://words.filippo.io/claude-debugging/)
 * [2025-10-29, 11:32:27](https://news.ycombinator.com/item?id=45745415) - [Solar-powered QR reading postboxes being rolled out across UK](https://www.bbc.co.uk/news/articles/cgln72rgrero)
 * [2025-10-29, 11:28:17](https://news.ycombinator.com/item?id=45745382) - [Autodesk's John Walker Explained HP and IBM in 1991 (2015)](https://www.cringely.com/2015/06/03/autodesks-john-walker-explained-hp-and-ibm-in-1991/)
 * [2025-10-28, 16:45:28](https://news.ycombinator.com/item?id=45735246) - [Why does Swiss cheese have holes?](https://www.usdairy.com/news-articles/why-does-swiss-cheese-have-holes)
