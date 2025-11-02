@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-11-02](index.md)
 
+* [2025-11-02, 11:30:50](https://news.ycombinator.com/item?id=45789556) - [Mock – An API creation and testing utility: Examples](https://dhuan.github.io/mock/latest/examples.html)
 * [2025-11-02, 09:54:33](https://news.ycombinator.com/item?id=45789115) - [Leaving the Freedesktop.org Community](https://vt.social/@lina/115431232807081648)
 * [2025-11-02, 08:52:23](https://news.ycombinator.com/item?id=45788842) - [Context engineering](https://chrisloy.dev/post/2025/08/03/context-engineering)
 * [2025-11-02, 06:51:58](https://news.ycombinator.com/item?id=45788327) - [Why do AI models use so many em-dashes?](https://www.seangoedecke.com/em-dashes/)

@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-11-02, 11:30:50](https://news.ycombinator.com/item?id=45789556) - [Mock – An API creation and testing utility: Examples](https://dhuan.github.io/mock/latest/examples.html)
 * [2025-11-02, 08:52:23](https://news.ycombinator.com/item?id=45788842) - [Context engineering](https://chrisloy.dev/post/2025/08/03/context-engineering)
 * [2025-11-02, 06:23:24](https://news.ycombinator.com/item?id=45788202) - [CLI to manage your SQL database schemas and migrations](https://github.com/gh-PonyM/shed)
 * [2025-11-02, 05:32:02](https://news.ycombinator.com/item?id=45788040) - [Notes by djb on using Fil-C (2025)](https://cr.yp.to/2025/fil-c.html)
 * [2025-11-02, 05:20:12](https://news.ycombinator.com/item?id=45787993) - [Backpropagation is a leaky abstraction (2016)](https://karpathy.medium.com/yes-you-should-understand-backprop-e2f06eab496b)
 * [2025-11-02, 04:27:31](https://news.ycombinator.com/item?id=45787842) - [LM8560, the eternal chip from the 1980 years](https://www.tycospages.com/other-themes/lm8560-the-eternal-chip-from-the-1980-years/)
-* [2025-11-02, 04:03:53](https://news.ycombinator.com/item?id=45787775) - [You Don't Need Anubis](https://fxgn.dev/blog/anubis/)
 * [2025-11-02, 03:07:15](https://news.ycombinator.com/item?id=45787571) - [Crossfire: High-performance lockless spsc/mpsc/mpmc channels for Rust](https://github.com/frostyplanet/crossfire-rs)
 * [2025-11-02, 01:10:44](https://news.ycombinator.com/item?id=45787036) - [A Few Words About Async](https://yoric.github.io/post/quite-a-few-words-about-async/)
 * [2025-11-02, 00:45:13](https://news.ycombinator.com/item?id=45786914) - [Anonymous credentials: rate-limit bots and agents without compromising privacy](https://blog.cloudflare.com/private-rate-limiting/)
