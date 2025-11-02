@@ -22,12 +22,12 @@
 * [2025-11-01, 22:07:49](https://news.ycombinator.com/item?id=45785858) - [Visopsys: OS maintained by a single developer since 1997](https://visopsys.org/)
 * [2025-11-01, 18:41:56](https://news.ycombinator.com/item?id=45784179) - [Claude Code can debug low-level cryptography](https://words.filippo.io/claude-debugging/)
 * [2025-11-01, 14:58:05](https://news.ycombinator.com/item?id=45782136) - [Updated practice for review articles and position papers in ArXiv CS category](https://blog.arxiv.org/2025/10/31/attention-authors-updated-practice-for-review-articles-and-position-papers-in-arxiv-cs-category/)
+* [2025-10-29, 11:32:27](https://news.ycombinator.com/item?id=45745415) - [Solar-powered QR reading postboxes being rolled out across UK](https://www.bbc.co.uk/news/articles/cgln72rgrero)
 * [2025-10-29, 11:28:17](https://news.ycombinator.com/item?id=45745382) - [Autodesk's John Walker Explained HP and IBM in 1991 (2015)](https://www.cringely.com/2015/06/03/autodesks-john-walker-explained-hp-and-ibm-in-1991/)
 * [2025-10-28, 23:29:47](https://news.ycombinator.com/item?id=45740688) - [When O3 is 2x slower than O2](https://cat-solstice.github.io/test-pqueue/)
 * [2025-10-28, 08:29:13](https://news.ycombinator.com/item?id=45730366) - [Rats filmed snatching bats from air](https://www.science.org/content/article/rats-filmed-snatching-bats-air-first-time)
 * [2025-10-27, 21:47:07](https://news.ycombinator.com/item?id=45726718) - [Welcome to hell; please drive carefully](https://2earth.github.io/website/20251026.html)
 * [2025-10-27, 16:03:54](https://news.ycombinator.com/item?id=45722570) - [Printed circuit board substrates derived from lignocellulose nanofibrils](https://www.nature.com/articles/s41598-025-91653-1)
-* [2025-10-26, 14:10:08](https://news.ycombinator.com/item?id=45712017) - [A man who changes the time on Big Ben](https://www.mylondon.news/news/zone-1-news/meet-man-who-changes-time-32715300)
 * [2025-10-25, 20:46:04](https://news.ycombinator.com/item?id=45706838) - [Go Primitive in Java, or Go in a Box](https://donraab.medium.com/go-primitive-in-java-or-go-in-a-box-c26f5c6d7574)
 * [2025-10-23, 15:50:41](https://news.ycombinator.com/item?id=45683284) - [OpenBSD 7.8 Highlights](https://rsadowski.de/posts/2025/openbsd-78/)
 
