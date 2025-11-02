@@ -65,6 +65,7 @@
 * [2025-10-29, 12:33:01](https://news.ycombinator.com/item?id=45745995) - [Berkeley Out-of-Order RISC-V Processor (Boom) (2020)](https://docs.boom-core.org/en/latest/sections/intro-overview/boom.html)
 * [2025-10-29, 12:22:03](https://news.ycombinator.com/item?id=45745876) - [Now any body can write JavaScript code in Rust](https://github.com/Shyam20001/rsjs)
 * [2025-10-29, 11:50:58](https://news.ycombinator.com/item?id=45745566) - [Show HN: Learn German with Games](https://www.learngermanwithgames.com/)
+* [2025-10-29, 11:28:17](https://news.ycombinator.com/item?id=45745382) - [Autodesk's John Walker Explained HP and IBM in 1991](https://www.cringely.com/2015/06/03/autodesks-john-walker-explained-hp-and-ibm-in-1991/)
 * [2025-10-29, 11:14:38](https://news.ycombinator.com/item?id=45745281) - [AWS to Bare Metal Two Years Later: Answering Your Questions About Leaving AWS](https://oneuptime.com/blog/post/2025-10-29-aws-to-bare-metal-two-years-later/view)
 * [2025-10-29, 10:47:25](https://news.ycombinator.com/item?id=45745072) - [Aggressive bots ruined my weekend](https://herman.bearblog.dev/agressive-bots/)
 * [2025-10-29, 09:26:09](https://news.ycombinator.com/item?id=45744503) - [YouTube is taking down videos on performing nonstandard Windows 11 installs](https://old.reddit.com/r/DataHoarder/comments/1oiz0v0/youtube_is_taking_down_videos_on_performing/)
