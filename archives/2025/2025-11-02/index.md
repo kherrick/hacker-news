@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-11-02](index.md)
 
+* [2025-11-02, 19:05:32](https://news.ycombinator.com/item?id=45792579) - [Lisp: Notes on its Past and Future (1980)](https://www-formal.stanford.edu/jmc/lisp20th/lisp20th.html)
+* [2025-11-02, 18:54:59](https://news.ycombinator.com/item?id=45792503) - [Linux gamers on Steam cross over the 3% mark](https://www.gamingonlinux.com/2025/11/linux-gamers-on-steam-finally-cross-over-the-3-mark/)
 * [2025-11-02, 18:12:49](https://news.ycombinator.com/item?id=45792209) - [Anti-cybercrime laws are being weaponized to repress journalism](https://www.cjr.org/analysis/nigeria-pakistan-jordan-cybercrime-laws-journalism.php)
 * [2025-11-02, 17:24:39](https://news.ycombinator.com/item?id=45791882) - [At the end you use Git bisect](https://kevin3010.github.io/git/2025/11/02/At-the-end-you-use-git-bisect.html)
 * [2025-11-02, 16:23:30](https://news.ycombinator.com/item?id=45791410) - [Palantir Thinks College Might Be a Waste. So It's Hiring High-School Grads](https://www.wsj.com/business/palantir-thinks-college-might-be-a-waste-so-its-hiring-high-school-grads-aed267d5)
@@ -22,6 +24,7 @@
 * [2025-11-02, 11:30:50](https://news.ycombinator.com/item?id=45789556) - [Mock – An API creation and testing utility: Examples](https://dhuan.github.io/mock/latest/examples.html)
 * [2025-11-02, 11:17:16](https://news.ycombinator.com/item?id=45789494) - [Sam Altman wants a refund for his $50k Tesla Roadster deposit](https://arstechnica.com/cars/2025/10/sam-altman-wants-a-refund-for-his-50000-tesla-roadster-deposit/)
 * [2025-11-02, 11:12:58](https://news.ycombinator.com/item?id=45789474) - [Your URL Is Your State](https://alfy.blog/2025/10/31/your-url-is-your-state.html)
+* [2025-11-02, 11:01:23](https://news.ycombinator.com/item?id=45789424) - [Using FreeBSD to make self-hosting fun again](https://jsteuernagel.de/posts/using-freebsd-to-make-self-hosting-fun-again/)
 * [2025-11-02, 09:54:33](https://news.ycombinator.com/item?id=45789115) - [Leaving the Freedesktop.org Community](https://vt.social/@lina/115431232807081648)
 * [2025-11-02, 08:52:23](https://news.ycombinator.com/item?id=45788842) - [Context engineering](https://chrisloy.dev/post/2025/08/03/context-engineering)
 * [2025-11-02, 06:51:58](https://news.ycombinator.com/item?id=45788327) - [Why do AI models use so many em-dashes?](https://www.seangoedecke.com/em-dashes/)
