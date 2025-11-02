@@ -21,6 +21,16 @@
   ],
   [
     [
+      "2025-11-02, 05:32:02",
+      "https://news.ycombinator.com/item?id=45788040"
+    ],
+    [
+      "Notes by djb on using Fil-C (2025)",
+      "https://cr.yp.to/2025/fil-c.html"
+    ]
+  ],
+  [
+    [
       "2025-11-02, 05:20:12",
       "https://news.ycombinator.com/item?id=45787993"
     ],
@@ -107,16 +117,6 @@
     [
       "Pomelli",
       "https://blog.google/technology/google-labs/pomelli/"
-    ]
-  ],
-  [
-    [
-      "2025-11-01, 23:01:24",
-      "https://news.ycombinator.com/item?id=45786266"
-    ],
-    [
-      "The purported benefits of effect systems",
-      "https://typesanitizer.com/blog/effects-convo.html"
     ]
   ],
   [
@@ -211,16 +211,6 @@
   ],
   [
     [
-      "2025-11-01, 07:31:40",
-      "https://news.ycombinator.com/item?id=45779860"
-    ],
-    [
-      "Hard Rust requirements from May onward",
-      "https://lists.debian.org/debian-devel/2025/10/msg00285.html"
-    ]
-  ],
-  [
-    [
       "2025-10-30, 16:52:46",
       "https://news.ycombinator.com/item?id=45762160"
     ],
@@ -247,6 +237,16 @@
     [
       "The Naked Man Problem and the Secret to Never Forgetting Numbers",
       "https://ninjasandrobots.com/the-naked-man-problem-and-the-secret-to-never-forgetting-numbers"
+    ]
+  ],
+  [
+    [
+      "2025-10-28, 14:37:55",
+      "https://news.ycombinator.com/item?id=45733453"
+    ],
+    [
+      "RegEx Crossword",
+      "https://jimbly.github.io/regex-crossword/"
     ]
   ],
   [
