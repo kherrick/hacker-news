@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-11-02, 04:27:31](https://news.ycombinator.com/item?id=45787842) - [LM8560, the eternal chip from the 1980 years](https://www.tycospages.com/other-themes/lm8560-the-eternal-chip-from-the-1980-years/)
+* [2025-11-02, 04:03:53](https://news.ycombinator.com/item?id=45787775) - [You Don't Need Anubis](https://fxgn.dev/blog/anubis/)
 * [2025-11-02, 03:07:15](https://news.ycombinator.com/item?id=45787571) - [Crossfire: High-performance lockless spsc/mpsc/mpmc channels for Rust](https://github.com/frostyplanet/crossfire-rs)
 * [2025-11-02, 01:10:44](https://news.ycombinator.com/item?id=45787036) - [A Few Words About Async](https://yoric.github.io/post/quite-a-few-words-about-async/)
 * [2025-11-02, 00:54:13](https://news.ycombinator.com/item?id=45786962) - [Linux and Windows: A tale of Kerberos, SSSD, DFS, and black magic](http://www.draeath.net/blog/it/2018/03/13/DFSwithKRB/)
@@ -8,7 +10,6 @@
 * [2025-11-02, 00:13:27](https://news.ycombinator.com/item?id=45786738) - [How I use every Claude Code feature](https://blog.sshh.io/p/how-i-use-every-claude-code-feature)
 * [2025-11-01, 23:09:25](https://news.ycombinator.com/item?id=45786324) - [Pomelli](https://blog.google/technology/google-labs/pomelli/)
 * [2025-11-01, 23:01:24](https://news.ycombinator.com/item?id=45786266) - [The purported benefits of effect systems](https://typesanitizer.com/blog/effects-convo.html)
-* [2025-11-01, 22:26:03](https://news.ycombinator.com/item?id=45785986) - [OpenDesk by the Centre for Digital Sovereignty](https://www.opendesk.eu/en/product)
 * [2025-11-01, 22:07:49](https://news.ycombinator.com/item?id=45785858) - [Visopsys: OS maintained by a single developer since 1997](https://visopsys.org/)
 * [2025-11-01, 22:05:00](https://news.ycombinator.com/item?id=45785840) - [SailfishOS: A Linux-based European alternative to dominant mobile OSes](https://sailfishos.org/info/)
 * [2025-11-01, 20:59:32](https://news.ycombinator.com/item?id=45785291) - [FFmpeg dealing with a security researcher](https://twitter.com/ffmpeg/status/1984207514389586050)
@@ -17,7 +18,6 @@
 * [2025-11-01, 19:14:58](https://news.ycombinator.com/item?id=45784455) - [Word2vec-style vector arithmetic on docs embeddings](https://technicalwriting.dev/embeddings/arithmetic/index.html)
 * [2025-11-01, 18:41:56](https://news.ycombinator.com/item?id=45784179) - [Claude Code can debug low-level cryptography](https://words.filippo.io/claude-debugging/)
 * [2025-11-01, 17:45:18](https://news.ycombinator.com/item?id=45783640) - [Show HN: Why write code if the LLM can just do the thing? (web app experiment)](https://github.com/samrolken/nokode)
-* [2025-11-01, 16:42:57](https://news.ycombinator.com/item?id=45783114) - [Chat Control proposal fails again after public opposition](https://andreafortuna.org/2025/11/01/chat-control-proposal-fails-again-after-massive-public-opposition/)
 * [2025-11-01, 16:29:23](https://news.ycombinator.com/item?id=45782981) - [GHC now runs in the browser](https://discourse.haskell.org/t/ghc-now-runs-in-your-browser/13169)
 * [2025-11-01, 14:58:05](https://news.ycombinator.com/item?id=45782136) - [Updated practice for review articles and position papers in ArXiv CS category](https://blog.arxiv.org/2025/10/31/attention-authors-updated-practice-for-review-articles-and-position-papers-in-arxiv-cs-category/)
 * [2025-11-01, 12:59:03](https://news.ycombinator.com/item?id=45781298) - [SQLite concurrency and why you should care about it](https://jellyfin.org/posts/SQLite-locking/)
