@@ -1,16 +1,6 @@
 [
   [
     [
-      "2025-11-02, 09:54:33",
-      "https://news.ycombinator.com/item?id=45789115"
-    ],
-    [
-      "Leaving the Freedesktop.org Community",
-      "https://vt.social/@lina/115431232807081648"
-    ]
-  ],
-  [
-    [
       "2025-11-02, 08:52:23",
       "https://news.ycombinator.com/item?id=45788842"
     ],
@@ -257,6 +247,16 @@
     [
       "FlightAware Map Design",
       "https://andywoodruff.com/posts/2024/flightaware-maps/"
+    ]
+  ],
+  [
+    [
+      "2025-10-27, 10:15:24",
+      "https://news.ycombinator.com/item?id=45719237"
+    ],
+    [
+      "We reduced a container image from 800GB to 2GB",
+      "https://sealos.io/blog/reduce-container-image-size-case-study"
     ]
   ],
   [
