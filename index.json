@@ -121,16 +121,6 @@
   ],
   [
     [
-      "2025-11-02, 08:52:23",
-      "https://news.ycombinator.com/item?id=45788842"
-    ],
-    [
-      "Context engineering",
-      "https://chrisloy.dev/post/2025/08/03/context-engineering"
-    ]
-  ],
-  [
-    [
       "2025-11-02, 05:32:02",
       "https://news.ycombinator.com/item?id=45788040"
     ],
@@ -201,6 +191,16 @@
   ],
   [
     [
+      "2025-11-01, 16:29:23",
+      "https://news.ycombinator.com/item?id=45782981"
+    ],
+    [
+      "GHC now runs in the browser",
+      "https://discourse.haskell.org/t/ghc-now-runs-in-your-browser/13169"
+    ]
+  ],
+  [
+    [
       "2025-11-01, 14:58:05",
       "https://news.ycombinator.com/item?id=45782136"
     ],
@@ -215,7 +215,7 @@
       "https://news.ycombinator.com/item?id=45745382"
     ],
     [
-      "Autodesk's John Walker Explained HP and IBM in 1991",
+      "Autodesk's John Walker Explained HP and IBM in 1991 (2015)",
       "https://www.cringely.com/2015/06/03/autodesks-john-walker-explained-hp-and-ibm-in-1991/"
     ]
   ],
