@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-11-02, 09:54:33](https://news.ycombinator.com/item?id=45789115) - [Leaving the Freedesktop.org Community](https://vt.social/@lina/115431232807081648)
 * [2025-11-02, 08:52:23](https://news.ycombinator.com/item?id=45788842) - [Context engineering](https://chrisloy.dev/post/2025/08/03/context-engineering)
 * [2025-11-02, 06:23:24](https://news.ycombinator.com/item?id=45788202) - [CLI to manage your SQL database schemas and migrations](https://github.com/gh-PonyM/shed)
 * [2025-11-02, 05:32:02](https://news.ycombinator.com/item?id=45788040) - [Notes by djb on using Fil-C (2025)](https://cr.yp.to/2025/fil-c.html)
@@ -26,6 +25,7 @@
 * [2025-10-28, 23:29:47](https://news.ycombinator.com/item?id=45740688) - [When O3 is 2x slower than O2](https://cat-solstice.github.io/test-pqueue/)
 * [2025-10-27, 23:44:35](https://news.ycombinator.com/item?id=45727696) - [3M Diskette Reference Manual (1983) [pdf]](https://retrocmp.de/fdd/diskette/3M_Diskette_Reference_Manual_May83.pdf)
 * [2025-10-27, 11:42:36](https://news.ycombinator.com/item?id=45719846) - [FlightAware Map Design](https://andywoodruff.com/posts/2024/flightaware-maps/)
+* [2025-10-27, 10:15:24](https://news.ycombinator.com/item?id=45719237) - [We reduced a container image from 800GB to 2GB](https://sealos.io/blog/reduce-container-image-size-case-study)
 * [2025-10-27, 00:59:47](https://news.ycombinator.com/item?id=45716371) - [Hyperbolic Non-Euclidean World (2007)](http://web1.kcn.jp/hp28ah77/)
 * [2025-10-26, 21:36:58](https://news.ycombinator.com/item?id=45715408) - [Chip Hall of Fame: Intel 8088 Microprocessor](https://spectrum.ieee.org/chip-hall-of-fame-intel-8088-microprocessor)
 * [2025-10-25, 13:16:14](https://news.ycombinator.com/item?id=45703666) - [How to Build a Solar Powered Electric Oven](https://solar.lowtechmagazine.com/2025/10/how-to-build-a-solar-powered-electric-oven/)
