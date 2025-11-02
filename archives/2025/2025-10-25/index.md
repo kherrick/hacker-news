@@ -52,6 +52,7 @@
 * [2025-10-25, 13:46:35](https://news.ycombinator.com/item?id=45703860) - [Wheels for free-threaded Python now available for psutil](https://gmpy.dev/blog/2025/wheels-for-free-threaded-python-now-available-in-psutil)
 * [2025-10-25, 13:33:57](https://news.ycombinator.com/item?id=45703767) - [DNA reveals the real killers that brought down Napoleon's army](https://www.gavi.org/vaccineswork/dna-reveals-real-killers-brought-down-napoleons-army)
 * [2025-10-25, 13:24:14](https://news.ycombinator.com/item?id=45703716) - [Synadia and TigerBeetle Commit $512k USD to the Zig Software Foundation](https://www.synadia.com/blog/synadia-tigerbeetle-zig-foundation-pledge)
+* [2025-10-25, 13:16:14](https://news.ycombinator.com/item?id=45703666) - [How to Build a Solar Powered Electric Oven](https://solar.lowtechmagazine.com/2025/10/how-to-build-a-solar-powered-electric-oven/)
 * [2025-10-25, 13:01:39](https://news.ycombinator.com/item?id=45703556) - [Making a micro Linux distro (2023)](https://popovicu.com/posts/making-a-micro-linux-distro/)
 * [2025-10-25, 12:01:44](https://news.ycombinator.com/item?id=45703196) - [Show HN: Chonky – a neural text semantic chunking goes multilingual](https://huggingface.co/mirth/chonky_mmbert_small_multilingual_1)
 * [2025-10-25, 11:44:39](https://news.ycombinator.com/item?id=45703086) - [Precise and scalable analogue matrix equation solving using RRAM chips [pdf]](https://www.nature.com/articles/s41928-025-01477-0.pdf)
