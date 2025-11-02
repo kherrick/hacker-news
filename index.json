@@ -111,16 +111,6 @@
   ],
   [
     [
-      "2025-11-02, 17:24:39",
-      "https://news.ycombinator.com/item?id=45791882"
-    ],
-    [
-      "At the end you use Git bisect",
-      "https://kevin3010.github.io/git/2025/11/02/At-the-end-you-use-git-bisect.html"
-    ]
-  ],
-  [
-    [
       "2025-11-02, 15:12:08",
       "https://news.ycombinator.com/item?id=45790867"
     ],
@@ -221,6 +211,16 @@
   ],
   [
     [
+      "2025-11-02, 04:59:39",
+      "https://news.ycombinator.com/item?id=45787948"
+    ],
+    [
+      "Plumbing vs. Internet, Revisited",
+      "https://gwern.net/blog/2025/plumbing-vs-internet"
+    ]
+  ],
+  [
+    [
       "2025-11-01, 22:07:49",
       "https://news.ycombinator.com/item?id=45785858"
     ],
@@ -291,12 +291,12 @@
   ],
   [
     [
-      "2025-10-25, 20:46:04",
-      "https://news.ycombinator.com/item?id=45706838"
+      "2025-10-26, 00:15:25",
+      "https://news.ycombinator.com/item?id=45707973"
     ],
     [
-      "Go Primitive in Java, or Go in a Box",
-      "https://donraab.medium.com/go-primitive-in-java-or-go-in-a-box-c26f5c6d7574"
+      "Ralf Brown's Files (The x86 Interrupt List)",
+      "http://www.cs.cmu.edu/~ralf/files.html"
     ]
   ]
 ]
