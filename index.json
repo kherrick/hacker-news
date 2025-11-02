@@ -1,22 +1,42 @@
 [
   [
     [
+      "2025-11-02, 12:42:04",
+      "https://news.ycombinator.com/item?id=45789896"
+    ],
+    [
+      "Stop Microsoft users sending 'reactions' to email by adding a postfix header",
+      "https://neilzone.co.uk/2024/07/attempting-to-stop-microsoft-users-sending-reactions-to-email-from-me-by-adding-a-postfix-header/"
+    ]
+  ],
+  [
+    [
+      "2025-11-02, 11:43:19",
+      "https://news.ycombinator.com/item?id=45789601"
+    ],
+    [
+      "How the US is preparing a Caribbean staging ground near Venezuela",
+      "https://www.reuters.com/graphics/USA-CARIBBEAN/MILITARY-BUILDUP/egpbbnzyrpq/"
+    ]
+  ],
+  [
+    [
+      "2025-11-02, 11:40:47",
+      "https://news.ycombinator.com/item?id=45789596"
+    ],
+    [
+      "HyperRogue, the non-Euclidean roguelike, is a mind-melting masterpiece",
+      "https://roguetemple.com/z/hyper/"
+    ]
+  ],
+  [
+    [
       "2025-11-02, 11:30:50",
       "https://news.ycombinator.com/item?id=45789556"
     ],
     [
       "Mock – An API creation and testing utility: Examples",
       "https://dhuan.github.io/mock/latest/examples.html"
-    ]
-  ],
-  [
-    [
-      "2025-11-02, 11:17:16",
-      "https://news.ycombinator.com/item?id=45789494"
-    ],
-    [
-      "Sam Altman wants a refund for his $50k Tesla Roadster deposit",
-      "https://arstechnica.com/cars/2025/10/sam-altman-wants-a-refund-for-his-50000-tesla-roadster-deposit/"
     ]
   ],
   [
@@ -37,16 +57,6 @@
     [
       "Context engineering",
       "https://chrisloy.dev/post/2025/08/03/context-engineering"
-    ]
-  ],
-  [
-    [
-      "2025-11-02, 06:23:24",
-      "https://news.ycombinator.com/item?id=45788202"
-    ],
-    [
-      "CLI to manage your SQL database schemas and migrations",
-      "https://github.com/gh-PonyM/shed"
     ]
   ],
   [
@@ -261,16 +271,6 @@
   ],
   [
     [
-      "2025-10-27, 00:59:47",
-      "https://news.ycombinator.com/item?id=45716371"
-    ],
-    [
-      "Hyperbolic Non-Euclidean World (2007)",
-      "http://web1.kcn.jp/hp28ah77/"
-    ]
-  ],
-  [
-    [
       "2025-10-26, 21:36:58",
       "https://news.ycombinator.com/item?id=45715408"
     ],
@@ -281,12 +281,12 @@
   ],
   [
     [
-      "2025-10-25, 13:16:14",
-      "https://news.ycombinator.com/item?id=45703666"
+      "2025-10-25, 20:46:04",
+      "https://news.ycombinator.com/item?id=45706838"
     ],
     [
-      "How to Build a Solar Powered Electric Oven",
-      "https://solar.lowtechmagazine.com/2025/10/how-to-build-a-solar-powered-electric-oven/"
+      "Go Primitive in Java, or Go in a Box",
+      "https://donraab.medium.com/go-primitive-in-java-or-go-in-a-box-c26f5c6d7574"
     ]
   ],
   [
