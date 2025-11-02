@@ -24,7 +24,7 @@
 * [2025-11-01, 14:58:05](https://news.ycombinator.com/item?id=45782136) - [Updated practice for review articles and position papers in ArXiv CS category](https://blog.arxiv.org/2025/10/31/attention-authors-updated-practice-for-review-articles-and-position-papers-in-arxiv-cs-category/)
 * [2025-11-01, 12:59:03](https://news.ycombinator.com/item?id=45781298) - [SQLite concurrency and why you should care about it](https://jellyfin.org/posts/SQLite-locking/)
 * [2025-10-29, 11:28:17](https://news.ycombinator.com/item?id=45745382) - [Autodesk's John Walker Explained HP and IBM in 1991](https://www.cringely.com/2015/06/03/autodesks-john-walker-explained-hp-and-ibm-in-1991/)
-* [2025-10-28, 23:29:47](https://news.ycombinator.com/item?id=45740688) - [When O3 is 2x slower than O2](https://cat-solstice.github.io/test-pqueue/)
+* [2025-10-28, 08:29:13](https://news.ycombinator.com/item?id=45730366) - [Rats filmed snatching bats from air for first time](https://www.science.org/content/article/rats-filmed-snatching-bats-air-first-time)
 * [2025-10-27, 21:47:07](https://news.ycombinator.com/item?id=45726718) - [Welcome to hell; please drive carefully](https://2earth.github.io/website/20251026.html)
 * [2025-10-27, 11:42:36](https://news.ycombinator.com/item?id=45719846) - [FlightAware Map Design](https://andywoodruff.com/posts/2024/flightaware-maps/)
 * [2025-10-26, 14:10:08](https://news.ycombinator.com/item?id=45712017) - [A man who changes the time on Big Ben](https://www.mylondon.news/news/zone-1-news/meet-man-who-changes-time-32715300)
