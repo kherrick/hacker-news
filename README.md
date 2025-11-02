@@ -11,7 +11,6 @@
 * [2025-11-02, 18:37:38](https://news.ycombinator.com/item?id=45792373) - [Reproducing the AWS Outage Race Condition with a Model Checker](https://wyounas.github.io/aws/concurrency/2025/10/30/reproducing-the-aws-outage-race-condition-with-model-checker/)
 * [2025-11-02, 18:12:49](https://news.ycombinator.com/item?id=45792209) - [Anti-cybercrime laws are being weaponized to repress journalism](https://www.cjr.org/analysis/nigeria-pakistan-jordan-cybercrime-laws-journalism.php)
 * [2025-11-02, 18:06:15](https://news.ycombinator.com/item?id=45792166) - [Is Your Bluetooth Chip Leaking Secrets via RF Signals?](https://www.semanticscholar.org/paper/Is-Your-Bluetooth-Chip-Leaking-Secrets-via-RF-Ji-Dubrova/c1d3ceb47ea6f9cc4f29929e2f97d36862a260a2)
-* [2025-11-02, 17:24:39](https://news.ycombinator.com/item?id=45791882) - [At the end you use Git bisect](https://kevin3010.github.io/git/2025/11/02/At-the-end-you-use-git-bisect.html)
 * [2025-11-02, 15:12:08](https://news.ycombinator.com/item?id=45790867) - [New South Korean national law will turn large parking lots into solar farms](https://electrek.co/2025/11/02/new-national-law-will-turn-large-parking-lots-into-solar-power-farms/)
 * [2025-11-02, 15:06:36](https://news.ycombinator.com/item?id=45790827) - [Why don't you use dependent types?](https://lawrencecpaulson.github.io//2025/11/02/Why-not-dependent.html)
 * [2025-11-02, 13:43:08](https://news.ycombinator.com/item?id=45790293) - [Writing FreeDOS Programs in C](https://www.freedos.org/books/cprogramming/)
@@ -22,6 +21,7 @@
 * [2025-11-02, 11:01:23](https://news.ycombinator.com/item?id=45789424) - [Using FreeBSD to make self-hosting fun again](https://jsteuernagel.de/posts/using-freebsd-to-make-self-hosting-fun-again/)
 * [2025-11-02, 05:32:02](https://news.ycombinator.com/item?id=45788040) - [Notes by djb on using Fil-C](https://cr.yp.to/2025/fil-c.html)
 * [2025-11-02, 05:20:12](https://news.ycombinator.com/item?id=45787993) - [Backpropagation is a leaky abstraction (2016)](https://karpathy.medium.com/yes-you-should-understand-backprop-e2f06eab496b)
+* [2025-11-02, 04:59:39](https://news.ycombinator.com/item?id=45787948) - [Plumbing vs. Internet, Revisited](https://gwern.net/blog/2025/plumbing-vs-internet)
 * [2025-11-01, 22:07:49](https://news.ycombinator.com/item?id=45785858) - [Visopsys: OS maintained by a single developer since 1997](https://visopsys.org/)
 * [2025-11-01, 18:41:56](https://news.ycombinator.com/item?id=45784179) - [Claude Code can debug low-level cryptography](https://words.filippo.io/claude-debugging/)
 * [2025-10-29, 11:32:27](https://news.ycombinator.com/item?id=45745415) - [Solar-powered QR reading postboxes being rolled out across UK](https://www.bbc.co.uk/news/articles/cgln72rgrero)
@@ -29,7 +29,7 @@
 * [2025-10-28, 16:45:28](https://news.ycombinator.com/item?id=45735246) - [Why does Swiss cheese have holes?](https://www.usdairy.com/news-articles/why-does-swiss-cheese-have-holes)
 * [2025-10-28, 08:29:13](https://news.ycombinator.com/item?id=45730366) - [Rats filmed snatching bats from air](https://www.science.org/content/article/rats-filmed-snatching-bats-air-first-time)
 * [2025-10-27, 16:03:54](https://news.ycombinator.com/item?id=45722570) - [Printed circuit board substrates derived from lignocellulose nanofibrils](https://www.nature.com/articles/s41598-025-91653-1)
-* [2025-10-25, 20:46:04](https://news.ycombinator.com/item?id=45706838) - [Go Primitive in Java, or Go in a Box](https://donraab.medium.com/go-primitive-in-java-or-go-in-a-box-c26f5c6d7574)
+* [2025-10-26, 00:15:25](https://news.ycombinator.com/item?id=45707973) - [Ralf Brown's Files (The x86 Interrupt List)](http://www.cs.cmu.edu/~ralf/files.html)
 
 ## [Archives](archives/index.md)
 
