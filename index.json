@@ -1,12 +1,32 @@
 [
   [
     [
+      "2025-11-02, 06:23:24",
+      "https://news.ycombinator.com/item?id=45788202"
+    ],
+    [
+      "CLI to manage your SQL database schemas and migrations",
+      "https://github.com/gh-PonyM/shed"
+    ]
+  ],
+  [
+    [
       "2025-11-02, 05:33:00",
       "https://news.ycombinator.com/item?id=45788042"
     ],
     [
       "Meta readies $25B bond sale as soaring AI costs trigger stock sell-off",
       "https://www.ft.com/content/120d2321-8382-4d74-ab48-f9ecb483c2a9"
+    ]
+  ],
+  [
+    [
+      "2025-11-02, 05:20:12",
+      "https://news.ycombinator.com/item?id=45787993"
+    ],
+    [
+      "Yes, you should understand backprop (2016)",
+      "https://karpathy.medium.com/yes-you-should-understand-backprop-e2f06eab496b"
     ]
   ],
   [
@@ -141,16 +161,6 @@
   ],
   [
     [
-      "2025-11-01, 19:14:58",
-      "https://news.ycombinator.com/item?id=45784455"
-    ],
-    [
-      "Word2vec-style vector arithmetic on docs embeddings",
-      "https://technicalwriting.dev/embeddings/arithmetic/index.html"
-    ]
-  ],
-  [
-    [
       "2025-11-01, 18:41:56",
       "https://news.ycombinator.com/item?id=45784179"
     ],
@@ -231,22 +241,12 @@
   ],
   [
     [
-      "2025-10-29, 05:14:33",
-      "https://news.ycombinator.com/item?id=45742886"
+      "2025-10-28, 16:56:57",
+      "https://news.ycombinator.com/item?id=45735432"
     ],
     [
-      "The hardest program I've ever written (2015)",
-      "https://journal.stuffwithstuff.com/2015/09/08/the-hardest-program-ive-ever-written/"
-    ]
-  ],
-  [
-    [
-      "2025-10-28, 14:37:55",
-      "https://news.ycombinator.com/item?id=45733453"
-    ],
-    [
-      "RegEx Crossword",
-      "https://jimbly.github.io/regex-crossword/"
+      "The Naked Man Problem and the Secret to Never Forgetting Numbers",
+      "https://ninjasandrobots.com/the-naked-man-problem-and-the-secret-to-never-forgetting-numbers"
     ]
   ],
   [
