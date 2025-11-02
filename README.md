@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-11-02, 21:35:02](https://news.ycombinator.com/item?id=45793652) - [FurtherAI (Series A – A16Z, YC) Is Hiring Across Software and AI](https://news.ycombinator.com/item?id=45793652)
+* [2025-11-02, 21:08:15](https://news.ycombinator.com/item?id=45793466) - [Paris Had a Moving Sidewalk in 1900, and a Thomas Edison Film Captured It](https://www.openculture.com/2020/03/paris-had-a-moving-sidewalk-in-1900.html)
 * [2025-11-02, 20:40:54](https://news.ycombinator.com/item?id=45793244) - [Alleged Jabber Zeus Coder 'MrICQ' in U.S. Custody](https://krebsonsecurity.com/2025/11/alleged-jabber-zeus-coder-mricq-in-u-s-custody/)
 * [2025-11-02, 20:02:31](https://news.ycombinator.com/item?id=45792951) - [MTurk is 20 years old today – what did you create with it?](https://news.ycombinator.com/item?id=45792951)
 * [2025-11-02, 19:05:32](https://news.ycombinator.com/item?id=45792579) - [Lisp: Notes on its Past and Future (1980)](https://www-formal.stanford.edu/jmc/lisp20th/lisp20th.html)
@@ -27,9 +29,7 @@
 * [2025-10-28, 08:29:13](https://news.ycombinator.com/item?id=45730366) - [Rats filmed snatching bats from air](https://www.science.org/content/article/rats-filmed-snatching-bats-air-first-time)
 * [2025-10-27, 21:47:07](https://news.ycombinator.com/item?id=45726718) - [Welcome to hell; please drive carefully](https://2earth.github.io/website/20251026.html)
 * [2025-10-27, 16:03:54](https://news.ycombinator.com/item?id=45722570) - [Printed circuit board substrates derived from lignocellulose nanofibrils](https://www.nature.com/articles/s41598-025-91653-1)
-* [2025-10-26, 14:10:08](https://news.ycombinator.com/item?id=45712017) - [A man who changes the time on Big Ben](https://www.mylondon.news/news/zone-1-news/meet-man-who-changes-time-32715300)
 * [2025-10-25, 20:46:04](https://news.ycombinator.com/item?id=45706838) - [Go Primitive in Java, or Go in a Box](https://donraab.medium.com/go-primitive-in-java-or-go-in-a-box-c26f5c6d7574)
-* [2025-10-23, 15:50:41](https://news.ycombinator.com/item?id=45683284) - [OpenBSD 7.8 Highlights](https://rsadowski.de/posts/2025/openbsd-78/)
 
 ## [Archives](archives/index.md)
 

@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-11-02](index.md)
 
+* [2025-11-02, 21:35:02](https://news.ycombinator.com/item?id=45793652) - [FurtherAI (Series A – A16Z, YC) Is Hiring Across Software and AI](https://news.ycombinator.com/item?id=45793652)
+* [2025-11-02, 21:08:15](https://news.ycombinator.com/item?id=45793466) - [Paris Had a Moving Sidewalk in 1900, and a Thomas Edison Film Captured It](https://www.openculture.com/2020/03/paris-had-a-moving-sidewalk-in-1900.html)
 * [2025-11-02, 20:40:54](https://news.ycombinator.com/item?id=45793244) - [Alleged Jabber Zeus Coder 'MrICQ' in U.S. Custody](https://krebsonsecurity.com/2025/11/alleged-jabber-zeus-coder-mricq-in-u-s-custody/)
 * [2025-11-02, 20:04:15](https://news.ycombinator.com/item?id=45792958) - ['This is the big one' – tech firms bet on electrifying rail](https://www.bbc.com/news/articles/czdjg92y00no)
 * [2025-11-02, 20:02:31](https://news.ycombinator.com/item?id=45792951) - [MTurk is 20 years old today – what did you create with it?](https://news.ycombinator.com/item?id=45792951)
