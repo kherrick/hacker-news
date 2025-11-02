@@ -6,7 +6,10 @@
 
 * [2025-11-02, 19:05:32](https://news.ycombinator.com/item?id=45792579) - [Lisp: Notes on its Past and Future (1980)](https://www-formal.stanford.edu/jmc/lisp20th/lisp20th.html)
 * [2025-11-02, 18:54:59](https://news.ycombinator.com/item?id=45792503) - [Linux gamers on Steam cross over the 3% mark](https://www.gamingonlinux.com/2025/11/linux-gamers-on-steam-finally-cross-over-the-3-mark/)
+* [2025-11-02, 18:46:15](https://news.ycombinator.com/item?id=45792435) - [Y Combinator Interview Practice Simulation](https://www.kydarin.com/uses/y-combinator-interview-practice-simulation)
+* [2025-11-02, 18:37:38](https://news.ycombinator.com/item?id=45792373) - [Reproducing the AWS Outage Race Condition with a Model Checker](https://wyounas.github.io/aws/concurrency/2025/10/30/reproducing-the-aws-outage-race-condition-with-model-checker/)
 * [2025-11-02, 18:12:49](https://news.ycombinator.com/item?id=45792209) - [Anti-cybercrime laws are being weaponized to repress journalism](https://www.cjr.org/analysis/nigeria-pakistan-jordan-cybercrime-laws-journalism.php)
+* [2025-11-02, 18:06:15](https://news.ycombinator.com/item?id=45792166) - [Is Your Bluetooth Chip Leaking Secrets via RF Signals?](https://www.semanticscholar.org/paper/Is-Your-Bluetooth-Chip-Leaking-Secrets-via-RF-Ji-Dubrova/c1d3ceb47ea6f9cc4f29929e2f97d36862a260a2)
 * [2025-11-02, 17:24:39](https://news.ycombinator.com/item?id=45791882) - [At the end you use Git bisect](https://kevin3010.github.io/git/2025/11/02/At-the-end-you-use-git-bisect.html)
 * [2025-11-02, 16:23:30](https://news.ycombinator.com/item?id=45791410) - [Palantir Thinks College Might Be a Waste. So It's Hiring High-School Grads](https://www.wsj.com/business/palantir-thinks-college-might-be-a-waste-so-its-hiring-high-school-grads-aed267d5)
 * [2025-11-02, 15:12:08](https://news.ycombinator.com/item?id=45790867) - [New South Korean national law will turn large parking lots into solar farms](https://electrek.co/2025/11/02/new-national-law-will-turn-large-parking-lots-into-solar-power-farms/)
