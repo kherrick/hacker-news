@@ -25,9 +25,9 @@
 * [2025-10-31, 12:11:39](https://news.ycombinator.com/item?id=45771157) - [Telephone: A Game for Artists](https://telephonegame.art/game)
 * [2025-10-30, 16:52:46](https://news.ycombinator.com/item?id=45762160) - [The Smol Training Playbook: The Secrets to Building World-Class LLMs](https://huggingface.co/spaces/HuggingFaceTB/smol-training-playbook)
 * [2025-10-28, 23:29:47](https://news.ycombinator.com/item?id=45740688) - [When O3 is 2x slower than O2](https://cat-solstice.github.io/test-pqueue/)
+* [2025-10-27, 23:44:35](https://news.ycombinator.com/item?id=45727696) - [3M Diskette Reference Manual (1983) [pdf]](https://retrocmp.de/fdd/diskette/3M_Diskette_Reference_Manual_May83.pdf)
 * [2025-10-27, 21:47:07](https://news.ycombinator.com/item?id=45726718) - [Welcome to hell; please drive carefully](https://2earth.github.io/website/20251026.html)
 * [2025-10-27, 11:42:36](https://news.ycombinator.com/item?id=45719846) - [FlightAware Map Design](https://andywoodruff.com/posts/2024/flightaware-maps/)
-* [2025-10-27, 10:15:24](https://news.ycombinator.com/item?id=45719237) - [We reduced a container image from 800GB to 2GB](https://sealos.io/blog/reduce-container-image-size-case-study)
 * [2025-10-25, 20:46:04](https://news.ycombinator.com/item?id=45706838) - [Go Primitive in Java, or Go in a Box](https://donraab.medium.com/go-primitive-in-java-or-go-in-a-box-c26f5c6d7574)
 * [2025-10-24, 15:12:33](https://news.ycombinator.com/item?id=45695483) - [Automatically Translating C to Rust](https://cacm.acm.org/research/automatically-translating-c-to-rust/)
 
