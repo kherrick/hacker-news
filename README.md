@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-11-02, 06:23:24](https://news.ycombinator.com/item?id=45788202) - [CLI to manage your SQL database schemas and migrations](https://github.com/gh-PonyM/shed)
-* [2025-11-02, 05:33:00](https://news.ycombinator.com/item?id=45788042) - [Meta readies $25B bond sale as soaring AI costs trigger stock sell-off](https://www.ft.com/content/120d2321-8382-4d74-ab48-f9ecb483c2a9)
 * [2025-11-02, 05:32:02](https://news.ycombinator.com/item?id=45788040) - [Notes by djb on using Fil-C (2025)](https://cr.yp.to/2025/fil-c.html)
 * [2025-11-02, 05:20:12](https://news.ycombinator.com/item?id=45787993) - [Yes, you should understand backprop (2016)](https://karpathy.medium.com/yes-you-should-understand-backprop-e2f06eab496b)
 * [2025-11-02, 04:27:31](https://news.ycombinator.com/item?id=45787842) - [LM8560, the eternal chip from the 1980 years](https://www.tycospages.com/other-themes/lm8560-the-eternal-chip-from-the-1980-years/)
@@ -16,6 +15,7 @@
 * [2025-11-01, 22:05:00](https://news.ycombinator.com/item?id=45785840) - [SailfishOS: A Linux-based European alternative to dominant mobile OSes](https://sailfishos.org/info/)
 * [2025-11-01, 19:50:03](https://news.ycombinator.com/item?id=45784729) - [From 400 Mbps to 1.7 Gbps: A WiFi 7 Debugging Journey](https://blog.tymscar.com/posts/wifi7speedhunt/)
 * [2025-11-01, 19:33:48](https://news.ycombinator.com/item?id=45784596) - [Beginner-friendly, unofficial documentation for Helix text editor](https://helix-editor.vercel.app/start-here/basics/)
+* [2025-11-01, 19:14:58](https://news.ycombinator.com/item?id=45784455) - [Word2vec-style vector arithmetic on docs embeddings](https://technicalwriting.dev/embeddings/arithmetic/index.html)
 * [2025-11-01, 18:41:56](https://news.ycombinator.com/item?id=45784179) - [Claude Code can debug low-level cryptography](https://words.filippo.io/claude-debugging/)
 * [2025-11-01, 17:45:18](https://news.ycombinator.com/item?id=45783640) - [Show HN: Why write code if the LLM can just do the thing? (web app experiment)](https://github.com/samrolken/nokode)
 * [2025-11-01, 16:29:23](https://news.ycombinator.com/item?id=45782981) - [GHC now runs in the browser](https://discourse.haskell.org/t/ghc-now-runs-in-your-browser/13169)
