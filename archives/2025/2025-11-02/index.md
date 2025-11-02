@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-11-02](index.md)
 
+* [2025-11-02, 05:33:00](https://news.ycombinator.com/item?id=45788042) - [Meta readies $25B bond sale as soaring AI costs trigger stock sell-off](https://www.ft.com/content/120d2321-8382-4d74-ab48-f9ecb483c2a9)
 * [2025-11-02, 04:27:31](https://news.ycombinator.com/item?id=45787842) - [LM8560, the eternal chip from the 1980 years](https://www.tycospages.com/other-themes/lm8560-the-eternal-chip-from-the-1980-years/)
 * [2025-11-02, 04:03:53](https://news.ycombinator.com/item?id=45787775) - [You Don't Need Anubis](https://fxgn.dev/blog/anubis/)
 * [2025-11-02, 03:07:15](https://news.ycombinator.com/item?id=45787571) - [Crossfire: High-performance lockless spsc/mpsc/mpmc channels for Rust](https://github.com/frostyplanet/crossfire-rs)
