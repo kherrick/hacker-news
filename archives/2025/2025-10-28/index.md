@@ -71,6 +71,7 @@
 * [2025-10-28, 10:53:21](https://news.ycombinator.com/item?id=45731256) - [The Impossible Optimization, and the Metaprogramming to Achieve It](https://verdagon.dev/blog/impossible-optimization)
 * [2025-10-28, 10:20:16](https://news.ycombinator.com/item?id=45731069) - [Situated Software – Clay Shirky (2004)](http://shirky.com/essays/situated-software/)
 * [2025-10-28, 09:56:37](https://news.ycombinator.com/item?id=45730940) - [Austria: Pylons as sculpture for public acceptance of expanding electrification](https://www.goodgoodgood.co/articles/austrian-power-giants-power-line-animals)
+* [2025-10-28, 09:17:00](https://news.ycombinator.com/item?id=45730694) - [Sufficiently Smart Compiler](https://wiki.c2.com/?SufficientlySmartCompiler)
 * [2025-10-28, 09:02:47](https://news.ycombinator.com/item?id=45730607) - [Geometry and Physics of Wrinkling [pdf]](https://softmath.seas.harvard.edu/wp-content/uploads/2019/10/2003-03.pdf)
 * [2025-10-28, 08:34:57](https://news.ycombinator.com/item?id=45730411) - [Criminal complaint against facial recognition company Clearview AI](https://noyb.eu/en/criminal-complaint-against-facial-recognition-company-clearview-ai)
 * [2025-10-28, 08:04:14](https://news.ycombinator.com/item?id=45730210) - [183M Gmail Passwords Leaked](https://www.forbes.com/sites/daveywinder/2025/10/27/gmail-passwords-confirmed-as-part-of-183-million-account-data-breach/)
