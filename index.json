@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-11-02, 19:05:32",
+      "https://news.ycombinator.com/item?id=45792579"
+    ],
+    [
+      "Lisp: Notes on its Past and Future (1980)",
+      "https://www-formal.stanford.edu/jmc/lisp20th/lisp20th.html"
+    ]
+  ],
+  [
+    [
+      "2025-11-02, 18:54:59",
+      "https://news.ycombinator.com/item?id=45792503"
+    ],
+    [
+      "Linux gamers on Steam cross over the 3% mark",
+      "https://www.gamingonlinux.com/2025/11/linux-gamers-on-steam-finally-cross-over-the-3-mark/"
+    ]
+  ],
+  [
+    [
       "2025-11-02, 18:12:49",
       "https://news.ycombinator.com/item?id=45792209"
     ],
@@ -35,7 +55,7 @@
       "https://news.ycombinator.com/item?id=45790827"
     ],
     [
-      "\"Why don't you use dependent types?\"",
+      "Why don't you use dependent types?",
       "https://lawrencecpaulson.github.io//2025/11/02/Why-not-dependent.html"
     ]
   ],
@@ -57,16 +77,6 @@
     [
       "Writing FreeDOS Programs in C",
       "https://www.freedos.org/books/cprogramming/"
-    ]
-  ],
-  [
-    [
-      "2025-11-02, 13:14:16",
-      "https://news.ycombinator.com/item?id=45790061"
-    ],
-    [
-      "A prison of my own making",
-      "https://jsteuernagel.de/posts/a-prison-of-my-own-making/"
     ]
   ],
   [
@@ -121,6 +131,16 @@
   ],
   [
     [
+      "2025-11-02, 11:01:23",
+      "https://news.ycombinator.com/item?id=45789424"
+    ],
+    [
+      "Using FreeBSD to make self-hosting fun again",
+      "https://jsteuernagel.de/posts/using-freebsd-to-make-self-hosting-fun-again/"
+    ]
+  ],
+  [
+    [
       "2025-11-02, 05:32:02",
       "https://news.ycombinator.com/item?id=45788040"
     ],
@@ -137,16 +157,6 @@
     [
       "Backpropagation is a leaky abstraction (2016)",
       "https://karpathy.medium.com/yes-you-should-understand-backprop-e2f06eab496b"
-    ]
-  ],
-  [
-    [
-      "2025-11-02, 04:27:31",
-      "https://news.ycombinator.com/item?id=45787842"
-    ],
-    [
-      "LM8560, the eternal chip from the 1980 years",
-      "https://www.tycospages.com/other-themes/lm8560-the-eternal-chip-from-the-1980-years/"
     ]
   ],
   [
@@ -187,16 +197,6 @@
     [
       "Claude Code can debug low-level cryptography",
       "https://words.filippo.io/claude-debugging/"
-    ]
-  ],
-  [
-    [
-      "2025-11-01, 16:29:23",
-      "https://news.ycombinator.com/item?id=45782981"
-    ],
-    [
-      "GHC now runs in the browser",
-      "https://discourse.haskell.org/t/ghc-now-runs-in-your-browser/13169"
     ]
   ],
   [
@@ -245,7 +245,7 @@
       "https://news.ycombinator.com/item?id=45730366"
     ],
     [
-      "Rats filmed snatching bats from air for first time",
+      "Rats filmed snatching bats from air",
       "https://www.science.org/content/article/rats-filmed-snatching-bats-air-first-time"
     ]
   ],
