@@ -32,6 +32,7 @@
 * [2025-10-26, 15:22:03](https://news.ycombinator.com/item?id=45712618) - [Keira Knightley's viral rant on the population's cognitive resilience](https://twitter.com/orphcorp/status/1982230134850572551)
 * [2025-10-26, 15:11:51](https://news.ycombinator.com/item?id=45712517) - [Myanmar military shuts down a major cybercrime center, detains over 2k people](https://apnews.com/article/scam-centers-cybercrime-myanmar-a2c9fda85187121e51bd0efdf29c81da)
 * [2025-10-26, 14:21:44](https://news.ycombinator.com/item?id=45712118) - [Resource use matters, but material footprints are a poor way to measure it](https://ourworldindata.org/material-footprint-limitations)
+* [2025-10-26, 14:10:08](https://news.ycombinator.com/item?id=45712017) - [A man who changes the time on Big Ben](https://www.mylondon.news/news/zone-1-news/meet-man-who-changes-time-32715300)
 * [2025-10-26, 13:52:37](https://news.ycombinator.com/item?id=45711886) - [YouTube Just Ate TV. It's Only Getting Started](https://www.hollywoodreporter.com/business/digital/youtube-impact-tv-sports-late-night-comedy-shows-1236400353/)
 * [2025-10-26, 13:47:49](https://news.ycombinator.com/item?id=45711847) - [Apple Reportedly Moving Ahead with Ads in Maps App](https://www.macrumors.com/2025/10/26/apple-moving-ahead-with-ads-in-maps/)
 * [2025-10-26, 13:41:32](https://news.ycombinator.com/item?id=45711805) - [Mapping Underground Structures with 3D Scans](https://wilkinson.graphics/blog/2025-10-25-3d-mapping/)
