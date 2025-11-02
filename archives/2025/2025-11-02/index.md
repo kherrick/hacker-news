@@ -4,11 +4,13 @@
 
 ### [Archives](../../index.md) for [2025-11-02](index.md)
 
+* [2025-11-02, 18:12:49](https://news.ycombinator.com/item?id=45792209) - [Anti-cybercrime laws are being weaponized to repress journalism](https://www.cjr.org/analysis/nigeria-pakistan-jordan-cybercrime-laws-journalism.php)
 * [2025-11-02, 17:24:39](https://news.ycombinator.com/item?id=45791882) - [At the end you use Git bisect](https://kevin3010.github.io/git/2025/11/02/At-the-end-you-use-git-bisect.html)
 * [2025-11-02, 16:23:30](https://news.ycombinator.com/item?id=45791410) - [Palantir Thinks College Might Be a Waste. So It's Hiring High-School Grads](https://www.wsj.com/business/palantir-thinks-college-might-be-a-waste-so-its-hiring-high-school-grads-aed267d5)
 * [2025-11-02, 15:12:08](https://news.ycombinator.com/item?id=45790867) - [New South Korean national law will turn large parking lots into solar farms](https://electrek.co/2025/11/02/new-national-law-will-turn-large-parking-lots-into-solar-power-farms/)
 * [2025-11-02, 15:06:36](https://news.ycombinator.com/item?id=45790827) - [\"Why don't you use dependent types?\"](https://lawrencecpaulson.github.io//2025/11/02/Why-not-dependent.html)
 * [2025-11-02, 14:44:35](https://news.ycombinator.com/item?id=45790677) - ['Do not trust your eyes': AI generates surge in expense fraud](https://www.ft.com/content/0849f8fe-2674-4eae-a134-587340829a58)
+* [2025-11-02, 14:04:07](https://news.ycombinator.com/item?id=45790443) - [Show HN: Anki-LLM – Bulk process and generate Anki flashcards with LLMs](https://github.com/raine/anki-llm)
 * [2025-11-02, 13:43:08](https://news.ycombinator.com/item?id=45790293) - [Writing FreeDOS Programs in C](https://www.freedos.org/books/cprogramming/)
 * [2025-11-02, 13:14:16](https://news.ycombinator.com/item?id=45790061) - [A prison of my own making](https://jsteuernagel.de/posts/a-prison-of-my-own-making/)
 * [2025-11-02, 13:07:31](https://news.ycombinator.com/item?id=45790015) - [X.org Security Advisory: multiple security issues X.Org X server and Xwayland](https://lists.x.org/archives/xorg-announce/2025-October/003635.html)
