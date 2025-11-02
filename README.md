@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-11-02, 15:06:36](https://news.ycombinator.com/item?id=45790827) - [\"Why don't you use dependent types?\"](https://lawrencecpaulson.github.io//2025/11/02/Why-not-dependent.html)
 * [2025-11-02, 14:44:35](https://news.ycombinator.com/item?id=45790677) - ['Do not trust your eyes': AI generates surge in expense fraud](https://www.ft.com/content/0849f8fe-2674-4eae-a134-587340829a58)
 * [2025-11-02, 11:52:23](https://news.ycombinator.com/item?id=45789640) - [Matched Clean Power Index](https://matched.energy/blog/matched-clean-power-index-is-live)
 * [2025-11-02, 11:43:26](https://news.ycombinator.com/item?id=45789602) - [Tongyi DeepResearch – open-source 30B MoE Model that rivals OpenAI DeepResearch](https://tongyi-agent.github.io/blog/introducing-tongyi-deep-research/)
@@ -25,7 +26,6 @@
 * [2025-10-30, 16:52:46](https://news.ycombinator.com/item?id=45762160) - [The Smol Training Playbook: The Secrets to Building World-Class LLMs](https://huggingface.co/spaces/HuggingFaceTB/smol-training-playbook)
 * [2025-10-29, 11:28:17](https://news.ycombinator.com/item?id=45745382) - [Autodesk's John Walker Explained HP and IBM in 1991](https://www.cringely.com/2015/06/03/autodesks-john-walker-explained-hp-and-ibm-in-1991/)
 * [2025-10-28, 23:29:47](https://news.ycombinator.com/item?id=45740688) - [When O3 is 2x slower than O2](https://cat-solstice.github.io/test-pqueue/)
-* [2025-10-27, 23:44:35](https://news.ycombinator.com/item?id=45727696) - [3M Diskette Reference Manual (1983) [pdf]](https://retrocmp.de/fdd/diskette/3M_Diskette_Reference_Manual_May83.pdf)
 * [2025-10-27, 21:47:07](https://news.ycombinator.com/item?id=45726718) - [Welcome to hell; please drive carefully](https://2earth.github.io/website/20251026.html)
 * [2025-10-27, 11:42:36](https://news.ycombinator.com/item?id=45719846) - [FlightAware Map Design](https://andywoodruff.com/posts/2024/flightaware-maps/)
 * [2025-10-25, 20:46:04](https://news.ycombinator.com/item?id=45706838) - [Go Primitive in Java, or Go in a Box](https://donraab.medium.com/go-primitive-in-java-or-go-in-a-box-c26f5c6d7574)
