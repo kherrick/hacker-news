@@ -46,6 +46,7 @@
 * [2025-10-27, 16:05:06](https://news.ycombinator.com/item?id=45722590) - [Write Express JS code that runs on Rust](https://github.com/Shyam20001/rsjs)
 * [2025-10-27, 16:03:54](https://news.ycombinator.com/item?id=45722570) - [Printed circuit board substrates derived from lignocellulose nanofibrils](https://www.nature.com/articles/s41598-025-91653-1)
 * [2025-10-27, 15:56:46](https://news.ycombinator.com/item?id=45722471) - [More than DNS: Learnings from the 14 hour AWS outage](https://thundergolfer.com/blog/aws-us-east-1-outage-oct20)
+* [2025-10-27, 15:48:23](https://news.ycombinator.com/item?id=45722344) - [How Archaeology Is Reviving the Smell of History](https://www.scientificamerican.com/article/how-archaeology-is-reviving-the-smell-of-history/)
 * [2025-10-27, 15:29:17](https://news.ycombinator.com/item?id=45722089) - [History's first public hack: rats, rats, rats](https://www.rigb.org/explore-science/explore/blog/historys-first-public-hack-rats-rats-rats)
 * [2025-10-27, 15:27:38](https://news.ycombinator.com/item?id=45722069) - [It's insulting to read your AI-generated blog post](https://blog.pabloecortez.com/its-insulting-to-read-your-ai-generated-blog-post/)
 * [2025-10-27, 15:12:08](https://news.ycombinator.com/item?id=45721904) - [PSF has withdrawn $1.5M proposal to US Government grant program](https://pyfound.blogspot.com/2025/10/NSF-funding-statement.html)

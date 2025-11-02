@@ -17,7 +17,6 @@
 * [2025-11-02, 13:43:08](https://news.ycombinator.com/item?id=45790293) - [Writing FreeDOS Programs in C](https://www.freedos.org/books/cprogramming/)
 * [2025-11-02, 13:07:31](https://news.ycombinator.com/item?id=45790015) - [X.org Security Advisory: multiple security issues X.Org X server and Xwayland](https://lists.x.org/archives/xorg-announce/2025-October/003635.html)
 * [2025-11-02, 11:43:26](https://news.ycombinator.com/item?id=45789602) - [Tongyi DeepResearch – open-source 30B MoE Model that rivals OpenAI DeepResearch](https://tongyi-agent.github.io/blog/introducing-tongyi-deep-research/)
-* [2025-11-02, 11:30:50](https://news.ycombinator.com/item?id=45789556) - [Mock – An API creation and testing utility: Examples](https://dhuan.github.io/mock/latest/examples.html)
 * [2025-11-02, 11:12:58](https://news.ycombinator.com/item?id=45789474) - [URLs are state containers](https://alfy.blog/2025/10/31/your-url-is-your-state.html)
 * [2025-11-02, 11:01:23](https://news.ycombinator.com/item?id=45789424) - [Using FreeBSD to make self-hosting fun again](https://jsteuernagel.de/posts/using-freebsd-to-make-self-hosting-fun-again/)
 * [2025-11-02, 05:32:02](https://news.ycombinator.com/item?id=45788040) - [Notes by djb on using Fil-C](https://cr.yp.to/2025/fil-c.html)
@@ -29,6 +28,7 @@
 * [2025-10-28, 16:45:28](https://news.ycombinator.com/item?id=45735246) - [Why does Swiss cheese have holes?](https://www.usdairy.com/news-articles/why-does-swiss-cheese-have-holes)
 * [2025-10-28, 08:29:13](https://news.ycombinator.com/item?id=45730366) - [Rats filmed snatching bats from air](https://www.science.org/content/article/rats-filmed-snatching-bats-air-first-time)
 * [2025-10-27, 16:03:54](https://news.ycombinator.com/item?id=45722570) - [Printed circuit board substrates derived from lignocellulose nanofibrils](https://www.nature.com/articles/s41598-025-91653-1)
+* [2025-10-27, 15:48:23](https://news.ycombinator.com/item?id=45722344) - [How Archaeology Is Reviving the Smell of History](https://www.scientificamerican.com/article/how-archaeology-is-reviving-the-smell-of-history/)
 * [2025-10-26, 00:15:25](https://news.ycombinator.com/item?id=45707973) - [Ralf Brown's Files (The x86 Interrupt List)](http://www.cs.cmu.edu/~ralf/files.html)
 
 ## [Archives](archives/index.md)
