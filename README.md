@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-11-02, 17:24:39](https://news.ycombinator.com/item?id=45791882) - [At the end you use Git bisect](https://kevin3010.github.io/git/2025/11/02/At-the-end-you-use-git-bisect.html)
 * [2025-11-02, 15:12:08](https://news.ycombinator.com/item?id=45790867) - [New South Korean national law will turn large parking lots into solar farms](https://electrek.co/2025/11/02/new-national-law-will-turn-large-parking-lots-into-solar-power-farms/)
 * [2025-11-02, 15:06:36](https://news.ycombinator.com/item?id=45790827) - [\"Why don't you use dependent types?\"](https://lawrencecpaulson.github.io//2025/11/02/Why-not-dependent.html)
 * [2025-11-02, 13:43:08](https://news.ycombinator.com/item?id=45790293) - [Writing FreeDOS Programs in C](https://www.freedos.org/books/cprogramming/)
@@ -14,7 +15,6 @@
 * [2025-11-02, 05:32:02](https://news.ycombinator.com/item?id=45788040) - [Notes by djb on using Fil-C (2025)](https://cr.yp.to/2025/fil-c.html)
 * [2025-11-02, 05:20:12](https://news.ycombinator.com/item?id=45787993) - [Backpropagation is a leaky abstraction (2016)](https://karpathy.medium.com/yes-you-should-understand-backprop-e2f06eab496b)
 * [2025-11-02, 04:27:31](https://news.ycombinator.com/item?id=45787842) - [LM8560, the eternal chip from the 1980 years](https://www.tycospages.com/other-themes/lm8560-the-eternal-chip-from-the-1980-years/)
-* [2025-11-02, 03:07:15](https://news.ycombinator.com/item?id=45787571) - [Crossfire: High-performance lockless spsc/mpsc/mpmc channels for Rust](https://github.com/frostyplanet/crossfire-rs)
 * [2025-11-02, 00:13:27](https://news.ycombinator.com/item?id=45786738) - [How I use every Claude Code feature](https://blog.sshh.io/p/how-i-use-every-claude-code-feature)
 * [2025-11-01, 23:09:25](https://news.ycombinator.com/item?id=45786324) - [Pomelli](https://blog.google/technology/google-labs/pomelli/)
 * [2025-11-01, 22:07:49](https://news.ycombinator.com/item?id=45785858) - [Visopsys: OS maintained by a single developer since 1997](https://visopsys.org/)
