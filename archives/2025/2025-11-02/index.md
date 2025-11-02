@@ -6,6 +6,7 @@
 
 * [2025-11-02, 06:23:24](https://news.ycombinator.com/item?id=45788202) - [CLI to manage your SQL database schemas and migrations](https://github.com/gh-PonyM/shed)
 * [2025-11-02, 05:33:00](https://news.ycombinator.com/item?id=45788042) - [Meta readies $25B bond sale as soaring AI costs trigger stock sell-off](https://www.ft.com/content/120d2321-8382-4d74-ab48-f9ecb483c2a9)
+* [2025-11-02, 05:32:02](https://news.ycombinator.com/item?id=45788040) - [Notes by djb on using Fil-C (2025)](https://cr.yp.to/2025/fil-c.html)
 * [2025-11-02, 05:20:12](https://news.ycombinator.com/item?id=45787993) - [Yes, you should understand backprop (2016)](https://karpathy.medium.com/yes-you-should-understand-backprop-e2f06eab496b)
 * [2025-11-02, 04:27:31](https://news.ycombinator.com/item?id=45787842) - [LM8560, the eternal chip from the 1980 years](https://www.tycospages.com/other-themes/lm8560-the-eternal-chip-from-the-1980-years/)
 * [2025-11-02, 04:03:53](https://news.ycombinator.com/item?id=45787775) - [You Don't Need Anubis](https://fxgn.dev/blog/anubis/)
