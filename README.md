@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-11-02, 09:54:33](https://news.ycombinator.com/item?id=45789115) - [Leaving the Freedesktop.org Community](https://vt.social/@lina/115431232807081648)
+* [2025-11-02, 08:52:23](https://news.ycombinator.com/item?id=45788842) - [Context engineering](https://chrisloy.dev/post/2025/08/03/context-engineering)
 * [2025-11-02, 06:23:24](https://news.ycombinator.com/item?id=45788202) - [CLI to manage your SQL database schemas and migrations](https://github.com/gh-PonyM/shed)
 * [2025-11-02, 05:32:02](https://news.ycombinator.com/item?id=45788040) - [Notes by djb on using Fil-C (2025)](https://cr.yp.to/2025/fil-c.html)
 * [2025-11-02, 05:20:12](https://news.ycombinator.com/item?id=45787993) - [Backpropagation is a leaky abstraction (2016)](https://karpathy.medium.com/yes-you-should-understand-backprop-e2f06eab496b)
@@ -23,7 +24,6 @@
 * [2025-10-30, 16:52:46](https://news.ycombinator.com/item?id=45762160) - [The Smol Training Playbook: The Secrets to Building World-Class LLMs](https://huggingface.co/spaces/HuggingFaceTB/smol-training-playbook)
 * [2025-10-30, 16:20:35](https://news.ycombinator.com/item?id=45761746) - [Dating: A mysterious constellation of facts](https://dynomight.net/dating/)
 * [2025-10-28, 23:29:47](https://news.ycombinator.com/item?id=45740688) - [When O3 is 2x slower than O2](https://cat-solstice.github.io/test-pqueue/)
-* [2025-10-28, 16:56:57](https://news.ycombinator.com/item?id=45735432) - [The Naked Man Problem and the Secret to Never Forgetting Numbers](https://ninjasandrobots.com/the-naked-man-problem-and-the-secret-to-never-forgetting-numbers)
 * [2025-10-27, 23:44:35](https://news.ycombinator.com/item?id=45727696) - [3M Diskette Reference Manual (1983) [pdf]](https://retrocmp.de/fdd/diskette/3M_Diskette_Reference_Manual_May83.pdf)
 * [2025-10-27, 11:42:36](https://news.ycombinator.com/item?id=45719846) - [FlightAware Map Design](https://andywoodruff.com/posts/2024/flightaware-maps/)
 * [2025-10-27, 00:59:47](https://news.ycombinator.com/item?id=45716371) - [Hyperbolic Non-Euclidean World (2007)](http://web1.kcn.jp/hp28ah77/)

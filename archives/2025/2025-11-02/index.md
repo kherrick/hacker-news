@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-11-02](index.md)
 
 * [2025-11-02, 09:54:33](https://news.ycombinator.com/item?id=45789115) - [Leaving the Freedesktop.org Community](https://vt.social/@lina/115431232807081648)
+* [2025-11-02, 08:52:23](https://news.ycombinator.com/item?id=45788842) - [Context engineering](https://chrisloy.dev/post/2025/08/03/context-engineering)
 * [2025-11-02, 06:51:58](https://news.ycombinator.com/item?id=45788327) - [Why do AI models use so many em-dashes?](https://www.seangoedecke.com/em-dashes/)
 * [2025-11-02, 06:23:24](https://news.ycombinator.com/item?id=45788202) - [CLI to manage your SQL database schemas and migrations](https://github.com/gh-PonyM/shed)
 * [2025-11-02, 05:33:00](https://news.ycombinator.com/item?id=45788042) - [Meta readies $25B bond sale as soaring AI costs trigger stock sell-off](https://www.ft.com/content/120d2321-8382-4d74-ab48-f9ecb483c2a9)
