@@ -6,6 +6,7 @@
 
 * [2025-10-28, 23:29:47](https://news.ycombinator.com/item?id=45740688) - [When O3 is 2x slower than O2](https://cat-solstice.github.io/test-pqueue/)
 * [2025-10-28, 23:03:47](https://news.ycombinator.com/item?id=45740467) - [Fil-C: A memory-safe C implementation](https://lwn.net/SubscriberLink/1042938/ac9a001023324bf8/)
+* [2025-10-28, 22:55:40](https://news.ycombinator.com/item?id=45740382) - [Preserving Digital Memory at the Festival of Floppies](https://digitalpreservation-blog.lib.cam.ac.uk/preserving-digital-memory-at-the-festival-of-floppies-200f01092738)
 * [2025-10-28, 22:52:49](https://news.ycombinator.com/item?id=45740348) - [Static Android Debug Bridge (adb)](https://github.com/kiddlu/adb-static)
 * [2025-10-28, 22:42:16](https://news.ycombinator.com/item?id=45740241) - [Detour: Dynamic linking on Linux without Libc](https://github.com/graphitemaster/detour)
 * [2025-10-28, 22:39:24](https://news.ycombinator.com/item?id=45740214) - [Keeping the Internet fast and secure: introducing Merkle Tree Certificates](https://blog.cloudflare.com/bootstrap-mtc/)
