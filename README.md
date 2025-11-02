@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-11-02, 22:32:42](https://news.ycombinator.com/item?id=45794032) - [Facts About Throwing Good Parties](https://www.atvbt.com/21-facts-about-throwing-good-parties/)
 * [2025-11-02, 22:27:08](https://news.ycombinator.com/item?id=45793982) - [The foods that make you smell more attractive](https://www.bbc.com/future/article/20251031-the-foods-that-make-you-smell-more-attractive)
 * [2025-11-02, 21:35:02](https://news.ycombinator.com/item?id=45793652) - [FurtherAI (Series A – A16Z, YC) Is Hiring Across Software and AI](https://news.ycombinator.com/item?id=45793652)
 * [2025-11-02, 21:08:15](https://news.ycombinator.com/item?id=45793466) - [Paris Had a Moving Sidewalk in 1900, and a Thomas Edison Film Captured It (2020)](https://www.openculture.com/2020/03/paris-had-a-moving-sidewalk-in-1900.html)
@@ -12,7 +13,6 @@
 * [2025-11-02, 18:37:38](https://news.ycombinator.com/item?id=45792373) - [Reproducing the AWS Outage Race Condition with a Model Checker](https://wyounas.github.io/aws/concurrency/2025/10/30/reproducing-the-aws-outage-race-condition-with-model-checker/)
 * [2025-11-02, 18:12:49](https://news.ycombinator.com/item?id=45792209) - [Anti-cybercrime laws are being weaponized to repress journalism](https://www.cjr.org/analysis/nigeria-pakistan-jordan-cybercrime-laws-journalism.php)
 * [2025-11-02, 18:06:15](https://news.ycombinator.com/item?id=45792166) - [Is Your Bluetooth Chip Leaking Secrets via RF Signals?](https://www.semanticscholar.org/paper/Is-Your-Bluetooth-Chip-Leaking-Secrets-via-RF-Ji-Dubrova/c1d3ceb47ea6f9cc4f29929e2f97d36862a260a2)
-* [2025-11-02, 15:12:08](https://news.ycombinator.com/item?id=45790867) - [New South Korean national law will turn large parking lots into solar farms](https://electrek.co/2025/11/02/new-national-law-will-turn-large-parking-lots-into-solar-power-farms/)
 * [2025-11-02, 15:06:36](https://news.ycombinator.com/item?id=45790827) - [Why don't you use dependent types?](https://lawrencecpaulson.github.io//2025/11/02/Why-not-dependent.html)
 * [2025-11-02, 13:43:08](https://news.ycombinator.com/item?id=45790293) - [Writing FreeDOS Programs in C](https://www.freedos.org/books/cprogramming/)
 * [2025-11-02, 13:07:31](https://news.ycombinator.com/item?id=45790015) - [X.org Security Advisory: multiple security issues X.Org X server and Xwayland](https://lists.x.org/archives/xorg-announce/2025-October/003635.html)
