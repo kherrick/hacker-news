@@ -31,6 +31,7 @@
 * [2025-10-24, 16:01:23](https://news.ycombinator.com/item?id=45695956) - [The Mainframe Six](https://arcanesciences.com/os2200/app1.html)
 * [2025-10-24, 15:49:58](https://news.ycombinator.com/item?id=45695841) - [\"ChatGPT said this\" Is Lazy](https://terriblesoftware.org/2025/10/24/chatgpt-said-this-is-lazy/)
 * [2025-10-24, 15:25:17](https://news.ycombinator.com/item?id=45695621) - [Code Like a Surgeon](https://www.geoffreylitt.com/2025/10/24/code-like-a-surgeon)
+* [2025-10-24, 15:12:33](https://news.ycombinator.com/item?id=45695483) - [Automatically Translating C to Rust](https://cacm.acm.org/research/automatically-translating-c-to-rust/)
 * [2025-10-24, 14:40:34](https://news.ycombinator.com/item?id=45695134) - [Unlocking Free WiFi on British Airways](https://www.saxrag.com/tech/reversing/2025/06/01/BAWiFi.html)
 * [2025-10-24, 14:12:00](https://news.ycombinator.com/item?id=45694856) - [First shape found that can't pass through itself](https://www.quantamagazine.org/first-shape-found-that-cant-pass-through-itself-20251024/)
 * [2025-10-24, 14:04:53](https://news.ycombinator.com/item?id=45694783) - [3D printed maquette of Amsterdam on scale 1:2000](https://www.at5.nl/nieuws/235139/de-hele-stad-in-schaal-12000-hell-of-a-job)

@@ -15,7 +15,6 @@
 * [2025-11-01, 18:41:56](https://news.ycombinator.com/item?id=45784179) - [Claude Code can debug low-level cryptography](https://words.filippo.io/claude-debugging/)
 * [2025-11-01, 17:50:38](https://news.ycombinator.com/item?id=45783699) - [Visible from space, Sudan's bloodied sands expose a massacre of thousands](https://www.telegraph.co.uk/world-news/2025/10/28/sudan-bloodied-sands-massacre-thousands/)
 * [2025-11-01, 17:45:18](https://news.ycombinator.com/item?id=45783640) - [Show HN: Why write code if the LLM can just do the thing? (web app experiment)](https://github.com/samrolken/nokode)
-* [2025-11-01, 17:13:04](https://news.ycombinator.com/item?id=45783376) - [Ask HN: Where to begin with \"modern\" Emacs?](https://news.ycombinator.com/item?id=45783376)
 * [2025-11-01, 16:42:57](https://news.ycombinator.com/item?id=45783114) - [Chat Control proposal fails again after public opposition](https://andreafortuna.org/2025/11/01/chat-control-proposal-fails-again-after-massive-public-opposition/)
 * [2025-11-01, 16:29:23](https://news.ycombinator.com/item?id=45782981) - [GHC now runs in the browser](https://discourse.haskell.org/t/ghc-now-runs-in-your-browser/13169)
 * [2025-11-01, 14:58:05](https://news.ycombinator.com/item?id=45782136) - [Updated practice for review articles and position papers in ArXiv CS category](https://blog.arxiv.org/2025/10/31/attention-authors-updated-practice-for-review-articles-and-position-papers-in-arxiv-cs-category/)
@@ -30,6 +29,7 @@
 * [2025-10-27, 23:44:35](https://news.ycombinator.com/item?id=45727696) - [3M Diskette Reference Manual (1983) [pdf]](https://retrocmp.de/fdd/diskette/3M_Diskette_Reference_Manual_May83.pdf)
 * [2025-10-27, 11:18:53](https://news.ycombinator.com/item?id=45719662) - [I built my own CityMapper](https://asherfalcon.com/blog/posts/5)
 * [2025-10-25, 13:16:14](https://news.ycombinator.com/item?id=45703666) - [How to Build a Solar Powered Electric Oven](https://solar.lowtechmagazine.com/2025/10/how-to-build-a-solar-powered-electric-oven/)
+* [2025-10-24, 15:12:33](https://news.ycombinator.com/item?id=45695483) - [Automatically Translating C to Rust](https://cacm.acm.org/research/automatically-translating-c-to-rust/)
 
 ## [Archives](archives/index.md)
 
