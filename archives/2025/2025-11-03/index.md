@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-11-03](index.md)
 
+* [2025-11-03, 10:47:11](https://news.ycombinator.com/item?id=45797740) - [Nvidia to invest up to $1B in AI startup Poolside](https://www.reuters.com/business/nvidia-invest-up-1-billion-ai-startup-poolside-bloomberg-news-reports-2025-10-30/)
 * [2025-11-03, 09:20:01](https://news.ycombinator.com/item?id=45797242) - [Tiny electric motor outperforms record holder by 40%](https://supercarblondie.com/electric-motor-yasa-more-powerful-tesla-mercedes/)
 * [2025-11-03, 08:15:50](https://news.ycombinator.com/item?id=45796907) - [China intimidated UK university to ditch human rights research, documents show](https://www.bbc.com/news/articles/cq50j5vwny6o)
 * [2025-11-03, 06:54:30](https://news.ycombinator.com/item?id=45796487) - [Stop AI: 14 Steps to turn off AI](https://againstdata.com/blog/stop-ai)

@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-11-03, 10:47:11](https://news.ycombinator.com/item?id=45797740) - [Nvidia to invest up to $1B in AI startup Poolside](https://www.reuters.com/business/nvidia-invest-up-1-billion-ai-startup-poolside-bloomberg-news-reports-2025-10-30/)
 * [2025-11-03, 09:20:01](https://news.ycombinator.com/item?id=45797242) - [Tiny electric motor outperforms record holder by 40%](https://supercarblondie.com/electric-motor-yasa-more-powerful-tesla-mercedes/)
 * [2025-11-03, 08:15:50](https://news.ycombinator.com/item?id=45796907) - [China intimidated UK university to ditch human rights research, documents show](https://www.bbc.com/news/articles/cq50j5vwny6o)
 * [2025-11-03, 06:21:20](https://news.ycombinator.com/item?id=45796351) - [ECL Runs Maxima in a Browser](https://mailman3.common-lisp.net/hyperkitty/list/ecl-devel@common-lisp.net/thread/T64S5EMVV6WHDPKWZ3AQHEPO3EQE2K5M/)
@@ -8,7 +9,6 @@
 * [2025-11-03, 01:27:48](https://news.ycombinator.com/item?id=45795036) - [Simple trick to increase coverage: Lying to users about signal strength](https://nickvsnetworking.com/simple-trick-to-increase-coverage-lying-to-users-about-signal-strength/)
 * [2025-11-02, 23:11:22](https://news.ycombinator.com/item?id=45794245) - [New prompt injection papers: Agents rule of two and the attacker moves second](https://simonwillison.net/2025/Nov/2/new-prompt-injection-papers/)
 * [2025-11-02, 22:32:42](https://news.ycombinator.com/item?id=45794032) - [Facts about throwing good parties](https://www.atvbt.com/21-facts-about-throwing-good-parties/)
-* [2025-11-02, 21:35:02](https://news.ycombinator.com/item?id=45793652) - [FurtherAI (YC W24) Is Hiring Across Software and AI](https://news.ycombinator.com/item?id=45793652)
 * [2025-11-02, 21:08:15](https://news.ycombinator.com/item?id=45793466) - [Paris had a moving sidewalk in 1900, and a Thomas Edison film captured it (2020)](https://www.openculture.com/2020/03/paris-had-a-moving-sidewalk-in-1900.html)
 * [2025-11-02, 20:40:54](https://news.ycombinator.com/item?id=45793244) - [Alleged Jabber Zeus Coder 'MrICQ' in U.S. Custody](https://krebsonsecurity.com/2025/11/alleged-jabber-zeus-coder-mricq-in-u-s-custody/)
 * [2025-11-02, 19:05:32](https://news.ycombinator.com/item?id=45792579) - [Lisp: Notes on its Past and Future (1980)](https://www-formal.stanford.edu/jmc/lisp20th/lisp20th.html)
@@ -19,7 +19,7 @@
 * [2025-11-02, 11:43:26](https://news.ycombinator.com/item?id=45789602) - [Tongyi DeepResearch – open-source 30B MoE Model that rivals OpenAI DeepResearch](https://tongyi-agent.github.io/blog/introducing-tongyi-deep-research/)
 * [2025-11-02, 11:12:58](https://news.ycombinator.com/item?id=45789474) - [URLs are state containers](https://alfy.blog/2025/10/31/your-url-is-your-state.html)
 * [2025-11-02, 11:01:23](https://news.ycombinator.com/item?id=45789424) - [Using FreeBSD to make self-hosting fun again](https://jsteuernagel.de/posts/using-freebsd-to-make-self-hosting-fun-again/)
-* [2025-11-02, 05:32:02](https://news.ycombinator.com/item?id=45788040) - [Notes by djb on using Fil-C](https://cr.yp.to/2025/fil-c.html)
+* [2025-11-02, 05:20:12](https://news.ycombinator.com/item?id=45787993) - [Backpropagation is a leaky abstraction (2016)](https://karpathy.medium.com/yes-you-should-understand-backprop-e2f06eab496b)
 * [2025-10-31, 15:49:21](https://news.ycombinator.com/item?id=45773421) - [The Arduino Uno Q is a weird hybrid SBC](https://www.jeffgeerling.com/blog/2025/arduino-uno-q-weird-hybrid-sbc)
 * [2025-10-30, 16:31:55](https://news.ycombinator.com/item?id=45761894) - [Recantha's Tiny Toolkit](https://tinytoolk.it/toolkits/recantha-kit/)
 * [2025-10-29, 12:40:16](https://news.ycombinator.com/item?id=45746063) - [KaTeX – The fastest math typesetting library for the web](https://katex.org/)
