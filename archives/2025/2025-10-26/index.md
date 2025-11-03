@@ -17,6 +17,7 @@
 * [2025-10-26, 20:39:33](https://news.ycombinator.com/item?id=45715026) - [Using Atomic State to Improve React Performance in Deeply Nested Component Trees](https://runharbor.com/blog/2025-10-26-improving-deeply-nested-react-render-performance-with-jotai-atomic-state)
 * [2025-10-26, 19:50:00](https://news.ycombinator.com/item?id=45714689) - [How to Use Zorn's Lemma (2008)](https://gowers.wordpress.com/2008/08/12/how-to-use-zorns-lemma/)
 * [2025-10-26, 19:00:07](https://news.ycombinator.com/item?id=45714348) - [Smartphones manipulate our emotions and trigger our reflexes](https://theconversation.com/smartphones-manipulate-our-emotions-and-trigger-our-reflexes-no-wonder-were-addicted-265014)
+* [2025-10-26, 18:58:31](https://news.ycombinator.com/item?id=45714336) - [A Turn Lane in Rhododendron](https://www.greentape.pub/p/a-turn-lane-in-rhododendron)
 * [2025-10-26, 18:57:31](https://news.ycombinator.com/item?id=45714324) - [Smart Beds Helped Them Sleep on a Cloud. Then the Cloud Crashed](https://www.nytimes.com/2025/10/24/business/amazon-aws-outage-eight-sleep-mattress.html)
 * [2025-10-26, 18:46:30](https://news.ycombinator.com/item?id=45714240) - [The Uncertain Origins of Aspirin](https://www.asimov.press/p/aspirin)
 * [2025-10-26, 18:09:37](https://news.ycombinator.com/item?id=45713959) - [A Definition of AGI](https://arxiv.org/abs/2510.18212)
