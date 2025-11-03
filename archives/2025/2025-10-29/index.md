@@ -60,6 +60,7 @@
 * [2025-10-29, 13:19:30](https://news.ycombinator.com/item?id=45746478) - [From VS Code to Helix](https://ergaster.org/posts/2025/10/29-vscode-to-helix/)
 * [2025-10-29, 13:12:23](https://news.ycombinator.com/item?id=45746401) - [Grammarly rebrands to 'Superhuman,' launches a new AI assistant](https://techcrunch.com/2025/10/29/grammarly-rebrands-to-superhuman-launches-a-new-ai-assistant/)
 * [2025-10-29, 13:03:52](https://news.ycombinator.com/item?id=45746313) - [Create your first business email for free](https://fromzerotollc.com/step/create-your-first-business-email)
+* [2025-10-29, 12:40:16](https://news.ycombinator.com/item?id=45746063) - [KaTeX – The fastest math typesetting library for the web](https://katex.org/)
 * [2025-10-29, 12:35:12](https://news.ycombinator.com/item?id=45746020) - [Zig's New Async I/O](https://andrewkelley.me/post/zig-new-async-io-text-version.html)
 * [2025-10-29, 12:35:12](https://news.ycombinator.com/item?id=45746020) - [Zig's New Async I/O [video]](https://www.youtube.com/watch?v=mdOxIc0HM04)
 * [2025-10-29, 12:33:01](https://news.ycombinator.com/item?id=45745995) - [Berkeley Out-of-Order RISC-V Processor (Boom) (2020)](https://docs.boom-core.org/en/latest/sections/intro-overview/boom.html)
