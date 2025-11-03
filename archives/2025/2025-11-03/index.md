@@ -4,11 +4,13 @@
 
 ### [Archives](../../index.md) for [2025-11-03](index.md)
 
+* [2025-11-03, 18:38:00](https://news.ycombinator.com/item?id=45802600) - [The Stallman Paradox: How Web3 Became the Ultimate Open Source Theater](https://paragraph.com/@holonic-horizons/the-stallman-paradox-how-web3-became-the-ultimate-open-source-theater)
 * [2025-11-03, 18:33:22](https://news.ycombinator.com/item?id=45802538) - [Is the Internet Making Culture Worse?](https://asteriskmag.com/issues/12-books/is-the-internet-making-culture-worse)
 * [2025-11-03, 18:27:32](https://news.ycombinator.com/item?id=45802459) - [Gallery of wonderful drawings our little thermal printer received](https://guestbook.goodenough.us)
 * [2025-11-03, 18:14:02](https://news.ycombinator.com/item?id=45802248) - [America is bracing for political violence – and significant portion think its OK](https://www.politico.com/news/2025/11/03/poll-americans-political-violence-00632864)
 * [2025-11-03, 17:28:58](https://news.ycombinator.com/item?id=45801673) - [Israels top military lawyer arrested after she admitted leaking video of abuse](https://www.theguardian.com/world/2025/nov/03/israels-top-military-lawyer-arrested-after-she-admitted-leaking-video-of-soldiers-abuse)
 * [2025-11-03, 17:25:49](https://news.ycombinator.com/item?id=45801630) - [Learning a Bit of VGA](https://www.usebox.net/jjm/blog/learning-a-bit-of-vga/)
+* [2025-11-03, 17:08:22](https://news.ycombinator.com/item?id=45801416) - [Why Engineers Can't Be Rational About Programming Languages](https://spf13.com/p/the-hidden-conversation/)
 * [2025-11-03, 16:53:46](https://news.ycombinator.com/item?id=45801221) - [Show HN: I was tired of wasting engineer time on screening calls so I built Niju](https://niju.dev)
 * [2025-11-03, 16:45:12](https://news.ycombinator.com/item?id=45801096) - [No Socials November](https://bjhess.com/posts/no-socials-november)
 * [2025-11-03, 16:36:29](https://news.ycombinator.com/item?id=45800967) - [Python Steering Council unanimously accepts \"PEP 810, Explicit lazy imports\"](https://discuss.python.org/t/pep-810-explicit-lazy-imports/104131?page=23)
