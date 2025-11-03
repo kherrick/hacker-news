@@ -48,6 +48,7 @@
 * [2025-10-24, 12:17:48](https://news.ycombinator.com/item?id=45693871) - [OpenBSD C/C++ Toolchain in the Browser](https://openbsd.llvm.moe/)
 * [2025-10-24, 12:10:25](https://news.ycombinator.com/item?id=45693814) - [Rust Contagious Borrow Issue](https://qouteall.fun/qouteall-blog/2025/How%20to%20Avoid%20Fighting%20Rust%20Borrow%20Checker#contagious-borrow-issue)
 * [2025-10-24, 12:01:08](https://news.ycombinator.com/item?id=45693743) - [Padlet (YC W13) Is Hiring in San Francisco and Singapore](https://padlet.jobs)
+* [2025-10-24, 11:58:13](https://news.ycombinator.com/item?id=45693719) - [Ask HN: Anyone else use FreePascal as their low level language?](https://news.ycombinator.com/item?id=45693719)
 * [2025-10-24, 11:55:59](https://news.ycombinator.com/item?id=45693698) - [In Orbit You Have to Slow Down to Speed Up](https://www.wired.com/story/in-orbit-you-have-to-slow-down-to-speed-up/)
 * [2025-10-24, 11:42:29](https://news.ycombinator.com/item?id=45693599) - [Mind-boggling' poker fraud used X-ray tables, high-tech glasses and NBA players](https://www.bbc.com/news/articles/cz6nd9wnzn6o)
 * [2025-10-24, 11:41:26](https://news.ycombinator.com/item?id=45693591) - [ChunkLLM: A Lightweight Pluggable Framework for Accelerating LLMs Inference](https://arxiv.org/abs/2510.02361)
