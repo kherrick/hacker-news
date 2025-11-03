@@ -5,8 +5,18 @@
       "https://news.ycombinator.com/item?id=45795413"
     ],
     [
-      "The Great Decoupling of Labor and Capital",
+      "The great decoupling of labor and capital",
       "https://www.mbi-deepdives.com/the-great-decoupling-of-labor-and-capital/"
+    ]
+  ],
+  [
+    [
+      "2025-11-03, 01:27:48",
+      "https://news.ycombinator.com/item?id=45795036"
+    ],
+    [
+      "Simple trick to increase coverage: Lying to users about signal strength",
+      "https://nickvsnetworking.com/simple-trick-to-increase-coverage-lying-to-users-about-signal-strength/"
     ]
   ],
   [
@@ -201,31 +211,11 @@
   ],
   [
     [
-      "2025-11-02, 04:59:39",
-      "https://news.ycombinator.com/item?id=45787948"
-    ],
-    [
-      "Plumbing vs. Internet, Revisited",
-      "https://gwern.net/blog/2025/plumbing-vs-internet"
-    ]
-  ],
-  [
-    [
-      "2025-11-01, 22:07:49",
-      "https://news.ycombinator.com/item?id=45785858"
-    ],
-    [
-      "Visopsys: OS maintained by a single developer since 1997",
-      "https://visopsys.org/"
-    ]
-  ],
-  [
-    [
       "2025-10-29, 11:55:42",
       "https://news.ycombinator.com/item?id=45745607"
     ],
     [
-      "Collatz-Weyl Generators: Pseudorandom Number Generators",
+      "Collatz-Weyl Generators: Pseudorandom Number Generators (2023)",
       "https://arxiv.org/abs/2312.17043"
     ]
   ],
@@ -247,6 +237,16 @@
     [
       "Autodesk's John Walker Explained HP and IBM in 1991 (2015)",
       "https://www.cringely.com/2015/06/03/autodesks-john-walker-explained-hp-and-ibm-in-1991/"
+    ]
+  ],
+  [
+    [
+      "2025-10-29, 05:50:56",
+      "https://news.ycombinator.com/item?id=45743105"
+    ],
+    [
+      "When Models Manipulate Manifolds: The Geometry of a Counting Task",
+      "https://transformer-circuits.pub/2025/linebreaks/index.html"
     ]
   ],
   [
