@@ -70,6 +70,7 @@
 * [2025-10-27, 11:19:27](https://news.ycombinator.com/item?id=45719669) - [Microsoft's folds losses from OpenAI into $4.7B expense line – \"other\"](https://www.theverge.com/news/806880/microsofts-not-very-open-about-openai)
 * [2025-10-27, 11:19:27](https://news.ycombinator.com/item?id=45719669) - [Microsoft needs to open up more about its OpenAI dealings](https://www.wsj.com/tech/ai/microsoft-needs-to-open-up-more-about-its-openai-dealings-59102de8)
 * [2025-10-27, 11:18:53](https://news.ycombinator.com/item?id=45719662) - [I built my own CityMapper](https://asherfalcon.com/blog/posts/5)
+* [2025-10-27, 11:15:19](https://news.ycombinator.com/item?id=45719636) - [How the Mayans were able to accurately predict solar eclipses for centuries](https://phys.org/news/2025-10-mayans-accurately-solar-eclipses-centuries.html)
 * [2025-10-27, 11:10:18](https://news.ycombinator.com/item?id=45719614) - [SETL Programming Language](https://en.wikipedia.org/wiki/SETL)
 * [2025-10-27, 10:46:42](https://news.ycombinator.com/item?id=45719469) - [Screenwriter Eric Heisserer on Lights Out, the Rules of Horror](https://filmmakermagazine.com/99327-screenwriter-eric-heisserer-lights-out-the-rules-of-horror-and-collaborating-with-james-wan/)
 * [2025-10-27, 10:34:35](https://news.ycombinator.com/item?id=45719371) - [Show HN: Automate Robot Data Quality Improvement](https://github.com/RoboticsData/score_lerobot_episodes)
