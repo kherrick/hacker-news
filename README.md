@@ -27,7 +27,7 @@
 * [2025-10-30, 16:31:55](https://news.ycombinator.com/item?id=45761894) - [Recantha's Tiny Toolkit](https://tinytoolk.it/toolkits/recantha-kit/)
 * [2025-10-29, 16:09:39](https://news.ycombinator.com/item?id=45748816) - [A visualization of the RGB space covered by named colors](https://codepen.io/meodai/full/zdgXJj/)
 * [2025-10-29, 12:40:16](https://news.ycombinator.com/item?id=45746063) - [KaTeX – The fastest math typesetting library for the web](https://katex.org/)
-* [2025-10-29, 05:50:56](https://news.ycombinator.com/item?id=45743105) - [When models manipulate manifolds: The geometry of a counting task](https://transformer-circuits.pub/2025/linebreaks/index.html)
+* [2025-10-29, 10:21:59](https://news.ycombinator.com/item?id=45744885) - [Linux Tidbits and Collecting Pebbles](https://unixbhaskar.wordpress.com/2025/03/02/linux-tidbits-and-collecting-pebbles/)
 * [2025-10-27, 12:05:16](https://news.ycombinator.com/item?id=45720024) - [Fish in the Wrong Place](https://www.lrb.co.uk/the-paper/v47/n19/oliver-cussen/fish-in-the-wrong-place)
 * [2025-10-26, 18:58:31](https://news.ycombinator.com/item?id=45714336) - [A turn lane in Rhododendron](https://www.greentape.pub/p/a-turn-lane-in-rhododendron)
 
