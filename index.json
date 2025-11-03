@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-11-03, 16:35:44",
+      "https://news.ycombinator.com/item?id=45800955"
+    ],
+    [
+      "Why We Migrated from Python to Node.js",
+      "https://blog.yakkomajuri.com/blog/python-to-node"
+    ]
+  ],
+  [
+    [
       "2025-11-03, 16:23:11",
       "https://news.ycombinator.com/item?id=45800777"
     ],
@@ -31,16 +41,6 @@
   ],
   [
     [
-      "2025-11-03, 16:00:00",
-      "https://news.ycombinator.com/item?id=45800464"
-    ],
-    [
-      "Ask HN: Who wants to be hired? (November 2025)",
-      "https://news.ycombinator.com/item?id=45800464"
-    ]
-  ],
-  [
-    [
       "2025-11-03, 15:45:31",
       "https://news.ycombinator.com/item?id=45800308"
     ],
@@ -67,16 +67,6 @@
     [
       "State of Terminal Emulators in 2025: The Errant Champions",
       "https://www.jeffquast.com/post/state-of-terminal-emulation-2025/"
-    ]
-  ],
-  [
-    [
-      "2025-11-03, 14:20:05",
-      "https://news.ycombinator.com/item?id=45799211"
-    ],
-    [
-      "OpenAI Signs $38B Cloud Computing Deal with Amazon",
-      "https://www.nytimes.com/2025/11/03/technology/openai-amazon-cloud-computing.html"
     ]
   ],
   [
@@ -197,6 +187,16 @@
     [
       "Tiny electric motor can produce more than 1,000 horsepower",
       "https://supercarblondie.com/electric-motor-yasa-more-powerful-tesla-mercedes/"
+    ]
+  ],
+  [
+    [
+      "2025-11-03, 06:21:20",
+      "https://news.ycombinator.com/item?id=45796351"
+    ],
+    [
+      "ECL Runs Maxima in a Browser",
+      "https://mailman3.common-lisp.net/hyperkitty/list/ecl-devel@common-lisp.net/thread/T64S5EMVV6WHDPKWZ3AQHEPO3EQE2K5M/"
     ]
   ],
   [
