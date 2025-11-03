@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-11-03, 16:53:46](https://news.ycombinator.com/item?id=45801221) - [Show HN: I was tired of wasting engineer time on screening calls so I built Niju](https://niju.dev)
 * [2025-11-03, 16:45:12](https://news.ycombinator.com/item?id=45801096) - [No Socials November](https://bjhess.com/posts/no-socials-november)
 * [2025-11-03, 16:36:29](https://news.ycombinator.com/item?id=45800967) - [Python Steering Council unanimously accepts \"PEP 810, Explicit lazy imports\"](https://discuss.python.org/t/pep-810-explicit-lazy-imports/104131?page=23)
 * [2025-11-03, 16:35:44](https://news.ycombinator.com/item?id=45800955) - [Why We Migrated from Python to Node.js](https://blog.yakkomajuri.com/blog/python-to-node)
@@ -25,6 +24,7 @@
 * [2025-11-02, 21:08:15](https://news.ycombinator.com/item?id=45793466) - [Paris had a moving sidewalk in 1900, and a Thomas Edison film captured it (2020)](https://www.openculture.com/2020/03/paris-had-a-moving-sidewalk-in-1900.html)
 * [2025-11-02, 02:27:44](https://news.ycombinator.com/item?id=45787403) - [Writing an Asciidoc Parser in Rust: Asciidocr](https://www.bikesbooksandbullshit.com/bullshit/2025/01/08/writing-an-asciidoc-parser-in-rust.html)
 * [2025-11-01, 16:39:05](https://news.ycombinator.com/item?id=45783074) - [WebAssembly (WASM) arch support for the Linux kernel](https://github.com/joelseverin/linux-wasm)
+* [2025-10-31, 15:49:21](https://news.ycombinator.com/item?id=45773421) - [The Arduino Uno Q is a weird hybrid SBC](https://www.jeffgeerling.com/blog/2025/arduino-uno-q-weird-hybrid-sbc)
 * [2025-10-29, 16:09:39](https://news.ycombinator.com/item?id=45748816) - [A visualization of the RGB space covered by named colors](https://codepen.io/meodai/full/zdgXJj/)
 * [2025-10-29, 13:00:53](https://news.ycombinator.com/item?id=45746289) - [Measuring characteristics of TCP connections at Internet scale](https://blog.cloudflare.com/measuring-network-connections-at-scale/)
 * [2025-10-29, 12:40:16](https://news.ycombinator.com/item?id=45746063) - [KaTeX – The fastest math typesetting library for the web](https://katex.org/)
