@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-11-03](index.md)
 
+* [2025-11-03, 16:53:46](https://news.ycombinator.com/item?id=45801221) - [Show HN: I was tired of wasting engineer time on screening calls so I built Niju](https://niju.dev)
 * [2025-11-03, 16:45:12](https://news.ycombinator.com/item?id=45801096) - [No Socials November](https://bjhess.com/posts/no-socials-november)
 * [2025-11-03, 16:36:29](https://news.ycombinator.com/item?id=45800967) - [Python Steering Council unanimously accepts \"PEP 810, Explicit lazy imports\"](https://discuss.python.org/t/pep-810-explicit-lazy-imports/104131?page=23)
 * [2025-11-03, 16:35:44](https://news.ycombinator.com/item?id=45800955) - [Why We Migrated from Python to Node.js](https://blog.yakkomajuri.com/blog/python-to-node)
