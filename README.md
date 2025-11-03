@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-11-03, 06:39:13](https://news.ycombinator.com/item?id=45796421) - [First recording of a dying human brain shows waves similar to memory flashbacks](https://louisville.edu/medicine/news/first-ever-recording-of-a-dying-human-brain-shows-waves-similar-to-memory-flashbacks)
-* [2025-11-03, 06:25:23](https://news.ycombinator.com/item?id=45796373) - ['No idea who he is', says Trump after pardoning crypto tycoon](https://www.bbc.com/news/articles/cn7ek63e5xyo)
 * [2025-11-03, 06:21:20](https://news.ycombinator.com/item?id=45796351) - [ECL Runs Maxima in a Browser](https://mailman3.common-lisp.net/hyperkitty/list/ecl-devel@common-lisp.net/thread/T64S5EMVV6WHDPKWZ3AQHEPO3EQE2K5M/)
 * [2025-11-03, 03:13:46](https://news.ycombinator.com/item?id=45795511) - [Oxy is Cloudflare's Rust-based next generation proxy framework (2023)](https://blog.cloudflare.com/introducing-oxy/)
 * [2025-11-03, 01:59:07](https://news.ycombinator.com/item?id=45795186) - [Syllabi – Open-source agentic AI with tools, RAG, and multi-channel deploy](https://www.syllabi-ai.com/)
@@ -28,6 +27,7 @@
 * [2025-10-29, 05:50:56](https://news.ycombinator.com/item?id=45743105) - [When models manipulate manifolds: The geometry of a counting task](https://transformer-circuits.pub/2025/linebreaks/index.html)
 * [2025-10-28, 16:45:28](https://news.ycombinator.com/item?id=45735246) - [Why does Swiss cheese have holes?](https://www.usdairy.com/news-articles/why-does-swiss-cheese-have-holes)
 * [2025-10-27, 11:15:19](https://news.ycombinator.com/item?id=45719636) - [How the Mayans were able to accurately predict solar eclipses for centuries](https://phys.org/news/2025-10-mayans-accurately-solar-eclipses-centuries.html)
+* [2025-10-26, 00:15:25](https://news.ycombinator.com/item?id=45707973) - [The x86 Interrupt List, aka “Ralf Brown's Interrupt List” (2018)](http://www.cs.cmu.edu/~ralf/files.html)
 * [2025-10-25, 21:57:57](https://news.ycombinator.com/item?id=45707330) - [Terahertz Tech Sets Stage for \"Wireless Wired\" Chips](https://spectrum.ieee.org/terahertz-chip-room-temperature)
 * [2025-10-24, 11:58:13](https://news.ycombinator.com/item?id=45693719) - [Ask HN: Anyone else use FreePascal as their low level language?](https://news.ycombinator.com/item?id=45693719)
 
