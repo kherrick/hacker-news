@@ -1,12 +1,32 @@
 [
   [
     [
+      "2025-11-03, 14:54:12",
+      "https://news.ycombinator.com/item?id=45799652"
+    ],
+    [
+      "Uv Crash Course",
+      "https://lernerpython.com/uv-crash-course/"
+    ]
+  ],
+  [
+    [
       "2025-11-03, 14:12:15",
       "https://news.ycombinator.com/item?id=45799110"
     ],
     [
       "Türkiye will not sell rare earth elements to the USA",
       "https://ceenergynews.com/climate/turkiye-rare-earth-elements-usa/"
+    ]
+  ],
+  [
+    [
+      "2025-11-03, 14:10:57",
+      "https://news.ycombinator.com/item?id=45799096"
+    ],
+    [
+      "Geonum – geometric number library for unlimited dimensions with O(1) complexity",
+      "https://github.com/mxfactorial/geonum"
     ]
   ],
   [
@@ -25,8 +45,18 @@
       "https://news.ycombinator.com/item?id=45798892"
     ],
     [
-      "Show HN: An agent for every website, for agentic visitors",
+      "A collection of links that existed about Anguilla as of 2003",
       "https://web.ai/"
+    ]
+  ],
+  [
+    [
+      "2025-11-03, 13:46:19",
+      "https://news.ycombinator.com/item?id=45798881"
+    ],
+    [
+      "Skyfall-GS – Synthesizing Immersive 3D Urban Scenes from Satellite Imagery",
+      "https://skyfall-gs.jayinnn.dev/"
     ]
   ],
   [
@@ -67,6 +97,16 @@
     [
       "Offline Math: Converting LaTeX to SVG with MathJax",
       "https://sigwait.org/~alex/blog/2025/10/07/3t8acq.html"
+    ]
+  ],
+  [
+    [
+      "2025-11-03, 13:28:37",
+      "https://news.ycombinator.com/item?id=45798741"
+    ],
+    [
+      "An Illustrated Introduction to Linear Algebra, Chapter 2: The Dot Product",
+      "https://www.ducktyped.org/p/linear-algebra-chapter-2-the-dot"
     ]
   ],
   [
@@ -181,36 +221,6 @@
   ],
   [
     [
-      "2025-11-02, 15:06:36",
-      "https://news.ycombinator.com/item?id=45790827"
-    ],
-    [
-      "Why don't you use dependent types?",
-      "https://lawrencecpaulson.github.io//2025/11/02/Why-not-dependent.html"
-    ]
-  ],
-  [
-    [
-      "2025-11-02, 11:43:26",
-      "https://news.ycombinator.com/item?id=45789602"
-    ],
-    [
-      "Tongyi DeepResearch – open-source 30B MoE Model that rivals OpenAI DeepResearch",
-      "https://tongyi-agent.github.io/blog/introducing-tongyi-deep-research/"
-    ]
-  ],
-  [
-    [
-      "2025-11-02, 11:12:58",
-      "https://news.ycombinator.com/item?id=45789474"
-    ],
-    [
-      "URLs are state containers",
-      "https://alfy.blog/2025/10/31/your-url-is-your-state.html"
-    ]
-  ],
-  [
-    [
       "2025-11-02, 11:01:23",
       "https://news.ycombinator.com/item?id=45789424"
     ],
@@ -251,32 +261,22 @@
   ],
   [
     [
+      "2025-10-29, 16:09:39",
+      "https://news.ycombinator.com/item?id=45748816"
+    ],
+    [
+      "A visualization of the RGB space covered by named colors",
+      "https://codepen.io/meodai/full/zdgXJj/"
+    ]
+  ],
+  [
+    [
       "2025-10-29, 12:40:16",
       "https://news.ycombinator.com/item?id=45746063"
     ],
     [
       "KaTeX – The fastest math typesetting library for the web",
       "https://katex.org/"
-    ]
-  ],
-  [
-    [
-      "2025-10-29, 10:21:59",
-      "https://news.ycombinator.com/item?id=45744885"
-    ],
-    [
-      "Linux Tidbits and Collecting Pebbles",
-      "https://unixbhaskar.wordpress.com/2025/03/02/linux-tidbits-and-collecting-pebbles/"
-    ]
-  ],
-  [
-    [
-      "2025-10-29, 05:50:56",
-      "https://news.ycombinator.com/item?id=45743105"
-    ],
-    [
-      "When models manipulate manifolds: The geometry of a counting task",
-      "https://transformer-circuits.pub/2025/linebreaks/index.html"
     ]
   ],
   [
@@ -295,7 +295,7 @@
       "https://news.ycombinator.com/item?id=45714336"
     ],
     [
-      "A Turn Lane in Rhododendron",
+      "A turn lane in Rhododendron",
       "https://www.greentape.pub/p/a-turn-lane-in-rhododendron"
     ]
   ]
