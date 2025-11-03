@@ -1,16 +1,6 @@
 [
   [
     [
-      "2025-11-03, 16:53:46",
-      "https://news.ycombinator.com/item?id=45801221"
-    ],
-    [
-      "Show HN: I was tired of wasting engineer time on screening calls so I built Niju",
-      "https://niju.dev"
-    ]
-  ],
-  [
-    [
       "2025-11-03, 16:45:12",
       "https://news.ycombinator.com/item?id=45801096"
     ],
@@ -247,6 +237,16 @@
     [
       "WebAssembly (WASM) arch support for the Linux kernel",
       "https://github.com/joelseverin/linux-wasm"
+    ]
+  ],
+  [
+    [
+      "2025-10-31, 15:49:21",
+      "https://news.ycombinator.com/item?id=45773421"
+    ],
+    [
+      "The Arduino Uno Q is a weird hybrid SBC",
+      "https://www.jeffgeerling.com/blog/2025/arduino-uno-q-weird-hybrid-sbc"
     ]
   ],
   [
