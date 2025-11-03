@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-11-03, 23:04:22](https://news.ycombinator.com/item?id=45805539) - [A Friendly Tour of Process Memory on Linux](https://www.0xkato.xyz/linux-process-memory/)
 * [2025-11-03, 22:54:20](https://news.ycombinator.com/item?id=45805458) - [Guideline has been acquired by Gusto](https://help.guideline.com/en/articles/12694322-guideline-has-joined-gusto-faqs-about-our-recent-acquisition)
 * [2025-11-03, 21:01:09](https://news.ycombinator.com/item?id=45804377) - [AI's Dial-Up Era](https://www.wreflection.com/p/ai-dial-up-era)
 * [2025-11-03, 20:37:34](https://news.ycombinator.com/item?id=45804122) - [The Mack Super Pumper was a locomotive engined fire fighter (2018)](https://bangshift.com/bangshiftxl/mack-super-pumper-system-locomotive-engine-powered-pumper-extinguish-hell-often/)
@@ -25,7 +26,6 @@
 * [2025-10-29, 22:38:58](https://news.ycombinator.com/item?id=45754021) - [Open-sourced game logic, art and Spine animations – SuperWEIRD Game Kit](https://ludenio.itch.io/superweird-game-kit)
 * [2025-10-29, 21:12:38](https://news.ycombinator.com/item?id=45753109) - [Maintaining a Music Library, Ten Years On](https://brianschrader.com/archive/maintaining-a-music-library-ten-years-on/)
 * [2025-10-29, 16:09:39](https://news.ycombinator.com/item?id=45748816) - [A visualization of the RGB space covered by named colors](https://codepen.io/meodai/full/zdgXJj/)
-* [2025-10-29, 13:00:53](https://news.ycombinator.com/item?id=45746289) - [Measuring characteristics of TCP connections at Internet scale](https://blog.cloudflare.com/measuring-network-connections-at-scale/)
 * [2025-10-28, 19:34:45](https://news.ycombinator.com/item?id=45737872) - [Show HN: Tamagotchi P1 for FPGAs](https://github.com/agg23/fpga-tamagotchi)
 * [2025-10-27, 13:36:34](https://news.ycombinator.com/item?id=45720919) - [S1130 – IBM 1130 Emulator in C#](https://github.com/semuhphor/S1130/tree/feature/web-frontend)
 * [2025-10-26, 20:23:58](https://news.ycombinator.com/item?id=45714937) - [The MP3.com Rescue Barge Barge](https://blog.somnolescent.net/2025/09/mp3-com-rescue-barge-barge/)
