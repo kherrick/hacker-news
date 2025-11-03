@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-11-02](index.md)
 
+* [2025-11-02, 23:52:11](https://news.ycombinator.com/item?id=45794475) - [I ****Ing Hate Science (2021)](https://buttondown.com/hillelwayne/archive/i-ing-hate-science/)
 * [2025-11-02, 23:48:12](https://news.ycombinator.com/item?id=45794455) - [Amazon to start blocking sideloaded piracy apps on Fire TVs](https://www.aftvnews.com/amazon-to-start-blocking-sideloaded-piracy-apps-on-fire-tvs/)
 * [2025-11-02, 23:48:12](https://news.ycombinator.com/item?id=45794455) - [Amazon has launched a major global crackdown on Fire Stick piracy](https://www.the-sun.com/tech/15422622/amazon-fire-tv-stick-dodgy-apps-block-piracy-streaming/)
 * [2025-11-02, 22:32:42](https://news.ycombinator.com/item?id=45794032) - [Facts About Throwing Good Parties](https://www.atvbt.com/21-facts-about-throwing-good-parties/)

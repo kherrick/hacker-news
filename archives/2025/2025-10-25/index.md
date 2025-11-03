@@ -9,6 +9,7 @@
 * [2025-10-25, 22:50:04](https://news.ycombinator.com/item?id=45707591) - [Baker – Language-agnostic project scaffolder with hooks (Rust)](https://github.com/aliev/baker)
 * [2025-10-25, 22:46:46](https://news.ycombinator.com/item?id=45707575) - [NewPipe Is Turning 10](https://newpipe.net/blog/pinned/announcement/newpipe-turns-10/)
 * [2025-10-25, 22:40:00](https://news.ycombinator.com/item?id=45707539) - [D2: Diagram Scripting Language](https://d2lang.com/tour/intro/)
+* [2025-10-25, 21:57:57](https://news.ycombinator.com/item?id=45707330) - [Terahertz Tech Sets Stage for \"Wireless Wired\" Chips](https://spectrum.ieee.org/terahertz-chip-room-temperature)
 * [2025-10-25, 21:37:38](https://news.ycombinator.com/item?id=45707194) - [Belittled Magazine: Thirty years after the Sokal affair](https://thebaffler.com/salvos/belittled-magazine-robbins)
 * [2025-10-25, 21:15:05](https://news.ycombinator.com/item?id=45707022) - [AI agents require to-do lists to stay on track](https://blog.justcopy.ai/p/why-your-ai-agents-need-a-todo-list)
 * [2025-10-25, 21:03:39](https://news.ycombinator.com/item?id=45706938) - [How programs get run: ELF binaries](https://lwn.net/Articles/631631/)
