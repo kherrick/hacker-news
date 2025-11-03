@@ -4,9 +4,11 @@
 
 ### [Archives](../../index.md) for [2025-11-03](index.md)
 
+* [2025-11-03, 14:12:15](https://news.ycombinator.com/item?id=45799110) - [Türkiye will not sell rare earth elements to the USA](https://ceenergynews.com/climate/turkiye-rare-earth-elements-usa/)
 * [2025-11-03, 13:56:21](https://news.ycombinator.com/item?id=45798975) - [She Was Ready to Have Her 15th Child. Then Came the Felony Charges](https://www.nytimes.com/2025/11/02/magazine/marybeth-lewis-13-children-felony-charges.html)
 * [2025-11-03, 13:56:11](https://news.ycombinator.com/item?id=45798973) - [Tech workers' fight for living wages and a 32-hour workweek is a battle for all](https://thechiefleader.com/stories/tech-workers-fight-for-living-wages-and-a-32-hour-workweek-is-a-battle-for-workers-everywhere,55298)
 * [2025-11-03, 13:48:39](https://news.ycombinator.com/item?id=45798898) - [The Problem with Farmed Seafood](https://nautil.us/the-problem-with-farmed-seafood-1243674/)
+* [2025-11-03, 13:47:27](https://news.ycombinator.com/item?id=45798892) - [Show HN: An agent for every website, for agentic visitors](https://web.ai/)
 * [2025-11-03, 13:45:15](https://news.ycombinator.com/item?id=45798871) - [Show HN: a Rust ray tracer that runs on any GPU – even in the browser](https://github.com/tchauffi/rust-rasterizer)
 * [2025-11-03, 13:40:47](https://news.ycombinator.com/item?id=45798838) - [VimGraph](https://resources.wolframcloud.com/FunctionRepository/resources/VimGraph/)
 * [2025-11-03, 13:39:18](https://news.ycombinator.com/item?id=45798827) - [Google Suspended My Company's Google Cloud Account for the Third Time](https://www.agwa.name/blog/post/google_suspended_sslmates_cloud_account_again)
