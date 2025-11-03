@@ -4,8 +4,11 @@
 
 ### [Archives](../../index.md) for [2025-11-03](index.md)
 
+* [2025-11-03, 16:23:11](https://news.ycombinator.com/item?id=45800777) - [Learning to read Arthur Whitney's C to become Smart (2024)](https://needleful.net/blog/2024/01/arthur_whitney.html)
+* [2025-11-03, 16:17:22](https://news.ycombinator.com/item?id=45800688) - [Google pulls AI model after senator says it fabricated assault allegation](https://www.theverge.com/news/812376/google-removes-gemma-senator-blackburn-hallucination)
 * [2025-11-03, 16:00:00](https://news.ycombinator.com/item?id=45800465) - [Ask HN: Who is hiring? (November 2025)](https://news.ycombinator.com/item?id=45800465)
 * [2025-11-03, 16:00:00](https://news.ycombinator.com/item?id=45800464) - [Ask HN: Who wants to be hired? (November 2025)](https://news.ycombinator.com/item?id=45800464)
+* [2025-11-03, 15:45:31](https://news.ycombinator.com/item?id=45800308) - [Robert Hooke's \"Cyberpunk” Letter to Gottfried Leibniz](https://mynamelowercase.com/blog/robert-hookes-cyberpunk-letter-to-gottfried-leibniz/)
 * [2025-11-03, 15:29:13](https://news.ycombinator.com/item?id=45800117) - [Show HN: FinBodhi – Local-first, double-entry app/PWA for your financial journey](https://finbodhi.com/)
 * [2025-11-03, 14:54:12](https://news.ycombinator.com/item?id=45799652) - [Uv Crash Course](https://lernerpython.com/uv-crash-course/)
 * [2025-11-03, 14:40:51](https://news.ycombinator.com/item?id=45799478) - [State of Terminal Emulators in 2025: The Errant Champions](https://www.jeffquast.com/post/state-of-terminal-emulation-2025/)
