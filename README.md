@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-11-03, 19:11:52](https://news.ycombinator.com/item?id=45803088) - [Wikipedia row erupts as Jimmy Wales intervenes on 'Gaza genocide' page](https://www.thenational.scot/news/25591165.wikipedia-row-erupts-jimmy-wales-intervenes-gaza-genocide-page/)
 * [2025-11-03, 18:27:32](https://news.ycombinator.com/item?id=45802459) - [Gallery of wonderful drawings our little thermal printer received](https://guestbook.goodenough.us)
 * [2025-11-03, 17:55:10](https://news.ycombinator.com/item?id=45802029) - [The Case That A.I. Is Thinking](https://www.newyorker.com/magazine/2025/11/10/the-case-that-ai-is-thinking)
 * [2025-11-03, 17:08:22](https://news.ycombinator.com/item?id=45801416) - [Why Engineers Can't Be Rational About Programming Languages](https://spf13.com/p/the-hidden-conversation/)
@@ -16,7 +17,6 @@
 * [2025-11-03, 13:46:19](https://news.ycombinator.com/item?id=45798881) - [Skyfall-GS – Synthesizing Immersive 3D Urban Scenes from Satellite Imagery](https://skyfall-gs.jayinnn.dev/)
 * [2025-11-03, 13:45:15](https://news.ycombinator.com/item?id=45798871) - [Show HN: a Rust ray tracer that runs on any GPU – even in the browser](https://github.com/tchauffi/rust-rasterizer)
 * [2025-11-03, 13:40:47](https://news.ycombinator.com/item?id=45798838) - [VimGraph](https://resources.wolframcloud.com/FunctionRepository/resources/VimGraph/)
-* [2025-11-03, 13:29:17](https://news.ycombinator.com/item?id=45798746) - [Offline Math: Converting LaTeX to SVG with MathJax](https://sigwait.org/~alex/blog/2025/10/07/3t8acq.html)
 * [2025-11-03, 13:28:37](https://news.ycombinator.com/item?id=45798741) - [An Illustrated Introduction to Linear Algebra, Chapter 2: The Dot Product](https://www.ducktyped.org/p/linear-algebra-chapter-2-the-dot)
 * [2025-11-03, 13:21:09](https://news.ycombinator.com/item?id=45798681) - [Why Nextcloud feels slow to use](https://ounapuu.ee/posts/2025/11/03/nextcloud-slow/)
 * [2025-11-03, 12:50:27](https://news.ycombinator.com/item?id=45798479) - [The Case Against PGVector](https://alex-jacobs.com/posts/the-case-against-pgvector/)

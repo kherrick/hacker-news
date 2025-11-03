@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-11-03](index.md)
 
+* [2025-11-03, 19:11:52](https://news.ycombinator.com/item?id=45803088) - [Wikipedia row erupts as Jimmy Wales intervenes on 'Gaza genocide' page](https://www.thenational.scot/news/25591165.wikipedia-row-erupts-jimmy-wales-intervenes-gaza-genocide-page/)
 * [2025-11-03, 18:38:00](https://news.ycombinator.com/item?id=45802600) - [The Stallman Paradox: How Web3 Became the Ultimate Open Source Theater](https://paragraph.com/@holonic-horizons/the-stallman-paradox-how-web3-became-the-ultimate-open-source-theater)
 * [2025-11-03, 18:33:22](https://news.ycombinator.com/item?id=45802538) - [Is the Internet Making Culture Worse?](https://asteriskmag.com/issues/12-books/is-the-internet-making-culture-worse)
 * [2025-11-03, 18:27:32](https://news.ycombinator.com/item?id=45802459) - [Gallery of wonderful drawings our little thermal printer received](https://guestbook.goodenough.us)
