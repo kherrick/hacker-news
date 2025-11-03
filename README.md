@@ -2,7 +2,6 @@
 
 * [2025-11-03, 09:20:01](https://news.ycombinator.com/item?id=45797242) - [Tiny electric motor outperforms record holder by 40%](https://supercarblondie.com/electric-motor-yasa-more-powerful-tesla-mercedes/)
 * [2025-11-03, 08:15:50](https://news.ycombinator.com/item?id=45796907) - [China intimidated UK university to ditch human rights research, documents show](https://www.bbc.com/news/articles/cq50j5vwny6o)
-* [2025-11-03, 06:39:13](https://news.ycombinator.com/item?id=45796421) - [First recording of a dying human brain shows waves similar to memory flashbacks](https://louisville.edu/medicine/news/first-ever-recording-of-a-dying-human-brain-shows-waves-similar-to-memory-flashbacks)
 * [2025-11-03, 06:21:20](https://news.ycombinator.com/item?id=45796351) - [ECL Runs Maxima in a Browser](https://mailman3.common-lisp.net/hyperkitty/list/ecl-devel@common-lisp.net/thread/T64S5EMVV6WHDPKWZ3AQHEPO3EQE2K5M/)
 * [2025-11-03, 03:13:46](https://news.ycombinator.com/item?id=45795511) - [Oxy is Cloudflare's Rust-based next generation proxy framework (2023)](https://blog.cloudflare.com/introducing-oxy/)
 * [2025-11-03, 01:59:07](https://news.ycombinator.com/item?id=45795186) - [Syllabi – Open-source agentic AI with tools, RAG, and multi-channel deploy](https://www.syllabi-ai.com/)
@@ -21,6 +20,7 @@
 * [2025-11-02, 11:12:58](https://news.ycombinator.com/item?id=45789474) - [URLs are state containers](https://alfy.blog/2025/10/31/your-url-is-your-state.html)
 * [2025-11-02, 11:01:23](https://news.ycombinator.com/item?id=45789424) - [Using FreeBSD to make self-hosting fun again](https://jsteuernagel.de/posts/using-freebsd-to-make-self-hosting-fun-again/)
 * [2025-11-02, 05:32:02](https://news.ycombinator.com/item?id=45788040) - [Notes by djb on using Fil-C](https://cr.yp.to/2025/fil-c.html)
+* [2025-11-02, 05:20:12](https://news.ycombinator.com/item?id=45787993) - [Backpropagation is a leaky abstraction (2016)](https://karpathy.medium.com/yes-you-should-understand-backprop-e2f06eab496b)
 * [2025-10-31, 15:49:21](https://news.ycombinator.com/item?id=45773421) - [The Arduino Uno Q is a weird hybrid SBC](https://www.jeffgeerling.com/blog/2025/arduino-uno-q-weird-hybrid-sbc)
 * [2025-10-29, 12:40:16](https://news.ycombinator.com/item?id=45746063) - [KaTeX – The fastest math typesetting library for the web](https://katex.org/)
 * [2025-10-29, 11:55:42](https://news.ycombinator.com/item?id=45745607) - [Collatz-Weyl Generators: Pseudorandom Number Generators (2023)](https://arxiv.org/abs/2312.17043)
