@@ -21,6 +21,7 @@
 * [2025-10-28, 19:57:16](https://news.ycombinator.com/item?id=45738247) - [Boring Is What We Wanted](https://512pixels.net/2025/10/boring-is-what-we-wanted/)
 * [2025-10-28, 19:39:51](https://news.ycombinator.com/item?id=45737948) - [Show HN: Butter – A Behavior Cache for LLMs](https://www.butter.dev/)
 * [2025-10-28, 19:38:53](https://news.ycombinator.com/item?id=45737941) - [Why do some radio towers blink?](https://www.jeffgeerling.com/blog/2025/why-do-some-radio-towers-blink)
+* [2025-10-28, 19:34:45](https://news.ycombinator.com/item?id=45737872) - [Show HN: Tamagotchi P1 for FPGAs](https://github.com/agg23/fpga-tamagotchi)
 * [2025-10-28, 19:02:48](https://news.ycombinator.com/item?id=45737338) - [Samsung makes ads on $3,499 smart fridges official with upcoming software update](https://arstechnica.com/gadgets/2025/10/samsung-makes-ads-on-3499-smart-fridges-official-with-upcoming-software-update/)
 * [2025-10-28, 18:45:30](https://news.ycombinator.com/item?id=45737044) - [Grokipedia and the Coup Against Reality Itself](https://www.thedissident.news/grokipedia-and-the-coup-against-reality-itself/)
 * [2025-10-28, 18:37:33](https://news.ycombinator.com/item?id=45736925) - [Nearly 90% of Windows Games Now Run on Linux](https://www.tomshardware.com/software/linux/nearly-90-percent-of-windows-games-now-run-on-linux-latest-data-shows-as-windows-10-dies-gaming-on-linux-is-more-viable-than-ever)
