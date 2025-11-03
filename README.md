@@ -1,9 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-11-03, 19:11:52](https://news.ycombinator.com/item?id=45803088) - [Wikipedia row erupts as Jimmy Wales intervenes on 'Gaza genocide' page](https://www.thenational.scot/news/25591165.wikipedia-row-erupts-jimmy-wales-intervenes-gaza-genocide-page/)
+* [2025-11-03, 19:33:02](https://news.ycombinator.com/item?id=45803358) - [</> Htmx – The Fetch()ening](https://htmx.org/essays/the-fetchening/)
 * [2025-11-03, 18:27:32](https://news.ycombinator.com/item?id=45802459) - [Gallery of wonderful drawings our little thermal printer received](https://guestbook.goodenough.us)
 * [2025-11-03, 17:55:10](https://news.ycombinator.com/item?id=45802029) - [The Case That A.I. Is Thinking](https://www.newyorker.com/magazine/2025/11/10/the-case-that-ai-is-thinking)
-* [2025-11-03, 17:08:22](https://news.ycombinator.com/item?id=45801416) - [Why Engineers Can't Be Rational About Programming Languages](https://spf13.com/p/the-hidden-conversation/)
 * [2025-11-03, 16:45:12](https://news.ycombinator.com/item?id=45801096) - [No Socials November](https://bjhess.com/posts/no-socials-november)
 * [2025-11-03, 16:36:29](https://news.ycombinator.com/item?id=45800967) - [Python Steering Council unanimously accepts \"PEP 810, Explicit lazy imports\"](https://discuss.python.org/t/pep-810-explicit-lazy-imports/104131?page=23)
 * [2025-11-03, 16:35:44](https://news.ycombinator.com/item?id=45800955) - [Why We Migrated from Python to Node.js](https://blog.yakkomajuri.com/blog/python-to-node)
@@ -28,6 +27,7 @@
 * [2025-10-29, 13:00:53](https://news.ycombinator.com/item?id=45746289) - [Measuring characteristics of TCP connections at Internet scale](https://blog.cloudflare.com/measuring-network-connections-at-scale/)
 * [2025-10-28, 19:34:45](https://news.ycombinator.com/item?id=45737872) - [Show HN: Tamagotchi P1 for FPGAs](https://github.com/agg23/fpga-tamagotchi)
 * [2025-10-27, 11:15:19](https://news.ycombinator.com/item?id=45719636) - [How the Mayans were able to accurately predict solar eclipses for centuries](https://phys.org/news/2025-10-mayans-accurately-solar-eclipses-centuries.html)
+* [2025-10-26, 20:23:58](https://news.ycombinator.com/item?id=45714937) - [The MP3.com Rescue Barge Barge](https://blog.somnolescent.net/2025/09/mp3-com-rescue-barge-barge/)
 * [2025-10-25, 06:45:20](https://news.ycombinator.com/item?id=45701810) - [The Continual Learning Problem](https://jessylin.com/2025/10/20/continual-learning/)
 * [2025-10-23, 11:23:51](https://news.ycombinator.com/item?id=45680602) - [Harder, Better, Faster, Stronger Version of Uber H3 in Rust](https://grim7reaper.github.io/blog/2023/01/09/the-hydronium-project/)
 
