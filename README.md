@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-11-03, 06:39:13](https://news.ycombinator.com/item?id=45796421) - [First recording of a dying human brain shows waves similar to memory flashbacks](https://louisville.edu/medicine/news/first-ever-recording-of-a-dying-human-brain-shows-waves-similar-to-memory-flashbacks)
 * [2025-11-03, 03:13:46](https://news.ycombinator.com/item?id=45795511) - [Oxy is Cloudflare's Rust-based next generation proxy framework (2023)](https://blog.cloudflare.com/introducing-oxy/)
 * [2025-11-03, 01:59:07](https://news.ycombinator.com/item?id=45795186) - [Syllabi – Open-source agentic AI with tools, RAG, and multi-channel deploy](https://www.syllabi-ai.com/)
 * [2025-11-03, 01:27:48](https://news.ycombinator.com/item?id=45795036) - [Simple trick to increase coverage: Lying to users about signal strength](https://nickvsnetworking.com/simple-trick-to-increase-coverage-lying-to-users-about-signal-strength/)
-* [2025-11-02, 23:52:11](https://news.ycombinator.com/item?id=45794475) - [I ****Ing Hate Science (2021)](https://buttondown.com/hillelwayne/archive/i-ing-hate-science/)
 * [2025-11-02, 23:11:22](https://news.ycombinator.com/item?id=45794245) - [New Prompt Injection Papers: Agents Rule of Two and the Attacker Moves Second](https://simonwillison.net/2025/Nov/2/new-prompt-injection-papers/)
 * [2025-11-02, 22:32:42](https://news.ycombinator.com/item?id=45794032) - [Facts about throwing good parties](https://www.atvbt.com/21-facts-about-throwing-good-parties/)
 * [2025-11-02, 21:35:02](https://news.ycombinator.com/item?id=45793652) - [FurtherAI (Series A – A16Z, YC) Is Hiring Across Software and AI](https://news.ycombinator.com/item?id=45793652)
