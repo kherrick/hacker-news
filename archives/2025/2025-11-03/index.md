@@ -4,12 +4,18 @@
 
 ### [Archives](../../index.md) for [2025-11-03](index.md)
 
+* [2025-11-03, 16:00:00](https://news.ycombinator.com/item?id=45800465) - [Ask HN: Who is hiring? (November 2025)](https://news.ycombinator.com/item?id=45800465)
+* [2025-11-03, 16:00:00](https://news.ycombinator.com/item?id=45800464) - [Ask HN: Who wants to be hired? (November 2025)](https://news.ycombinator.com/item?id=45800464)
+* [2025-11-03, 15:29:13](https://news.ycombinator.com/item?id=45800117) - [Show HN: FinBodhi – Local-first, double-entry app/PWA for your financial journey](https://finbodhi.com/)
 * [2025-11-03, 14:54:12](https://news.ycombinator.com/item?id=45799652) - [Uv Crash Course](https://lernerpython.com/uv-crash-course/)
+* [2025-11-03, 14:40:51](https://news.ycombinator.com/item?id=45799478) - [State of Terminal Emulators in 2025: The Errant Champions](https://www.jeffquast.com/post/state-of-terminal-emulation-2025/)
+* [2025-11-03, 14:20:05](https://news.ycombinator.com/item?id=45799211) - [OpenAI Signs $38B Cloud Computing Deal with Amazon](https://www.nytimes.com/2025/11/03/technology/openai-amazon-cloud-computing.html)
 * [2025-11-03, 14:12:15](https://news.ycombinator.com/item?id=45799110) - [Türkiye will not sell rare earth elements to the USA](https://ceenergynews.com/climate/turkiye-rare-earth-elements-usa/)
 * [2025-11-03, 14:10:57](https://news.ycombinator.com/item?id=45799096) - [Geonum – geometric number library for unlimited dimensions with O(1) complexity](https://github.com/mxfactorial/geonum)
 * [2025-11-03, 13:56:21](https://news.ycombinator.com/item?id=45798975) - [She Was Ready to Have Her 15th Child. Then Came the Felony Charges](https://www.nytimes.com/2025/11/02/magazine/marybeth-lewis-13-children-felony-charges.html)
 * [2025-11-03, 13:56:11](https://news.ycombinator.com/item?id=45798973) - [Tech workers' fight for living wages and a 32-hour workweek is a battle for all](https://thechiefleader.com/stories/tech-workers-fight-for-living-wages-and-a-32-hour-workweek-is-a-battle-for-workers-everywhere,55298)
 * [2025-11-03, 13:48:39](https://news.ycombinator.com/item?id=45798898) - [The Problem with Farmed Seafood](https://nautil.us/the-problem-with-farmed-seafood-1243674/)
+* [2025-11-03, 13:48:25](https://news.ycombinator.com/item?id=45798896) - [Is Health Insurance Even Worth It Anymore?](https://church.substack.com/p/is-health-insurance-even-worth-it)
 * [2025-11-03, 13:47:27](https://news.ycombinator.com/item?id=45798892) - [Show HN: An agent for every website, for agentic visitors](https://web.ai/)
 * [2025-11-03, 13:46:19](https://news.ycombinator.com/item?id=45798881) - [Skyfall-GS – Synthesizing Immersive 3D Urban Scenes from Satellite Imagery](https://skyfall-gs.jayinnn.dev/)
 * [2025-11-03, 13:45:15](https://news.ycombinator.com/item?id=45798871) - [Show HN: a Rust ray tracer that runs on any GPU – even in the browser](https://github.com/tchauffi/rust-rasterizer)
