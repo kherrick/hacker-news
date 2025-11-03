@@ -1,12 +1,52 @@
 [
   [
     [
-      "2025-11-03, 14:10:57",
-      "https://news.ycombinator.com/item?id=45799096"
+      "2025-11-03, 16:00:00",
+      "https://news.ycombinator.com/item?id=45800465"
     ],
     [
-      "Geonum – geometric number library for unlimited dimensions with O(1) complexity",
-      "https://github.com/mxfactorial/geonum"
+      "Ask HN: Who is hiring? (November 2025)",
+      "https://news.ycombinator.com/item?id=45800465"
+    ]
+  ],
+  [
+    [
+      "2025-11-03, 16:00:00",
+      "https://news.ycombinator.com/item?id=45800464"
+    ],
+    [
+      "Ask HN: Who wants to be hired? (November 2025)",
+      "https://news.ycombinator.com/item?id=45800464"
+    ]
+  ],
+  [
+    [
+      "2025-11-03, 15:29:13",
+      "https://news.ycombinator.com/item?id=45800117"
+    ],
+    [
+      "Show HN: FinBodhi – Local-first, double-entry app/PWA for your financial journey",
+      "https://finbodhi.com/"
+    ]
+  ],
+  [
+    [
+      "2025-11-03, 14:40:51",
+      "https://news.ycombinator.com/item?id=45799478"
+    ],
+    [
+      "State of Terminal Emulators in 2025: The Errant Champions",
+      "https://www.jeffquast.com/post/state-of-terminal-emulation-2025/"
+    ]
+  ],
+  [
+    [
+      "2025-11-03, 14:20:05",
+      "https://news.ycombinator.com/item?id=45799211"
+    ],
+    [
+      "OpenAI Signs $38B Cloud Computing Deal with Amazon",
+      "https://www.nytimes.com/2025/11/03/technology/openai-amazon-cloud-computing.html"
     ]
   ],
   [
@@ -17,6 +57,16 @@
     [
       "The Problem with Farmed Seafood",
       "https://nautil.us/the-problem-with-farmed-seafood-1243674/"
+    ]
+  ],
+  [
+    [
+      "2025-11-03, 13:48:25",
+      "https://news.ycombinator.com/item?id=45798896"
+    ],
+    [
+      "Is Health Insurance Even Worth It Anymore?",
+      "https://church.substack.com/p/is-health-insurance-even-worth-it"
     ]
   ],
   [
@@ -131,16 +181,6 @@
   ],
   [
     [
-      "2025-11-03, 11:22:59",
-      "https://news.ycombinator.com/item?id=45797934"
-    ],
-    [
-      "Update and shut down no longer restarts PC, 25H2 patch addresses decades-old bug",
-      "https://www.windowslatest.com/2025/11/02/update-and-shut-down-no-longer-restarts-pc-as-windows-11-25h2-patch-addresses-a-decades-old-bug/"
-    ]
-  ],
-  [
-    [
       "2025-11-03, 09:20:01",
       "https://news.ycombinator.com/item?id=45797242"
     ],
@@ -177,26 +217,6 @@
     [
       "Paris had a moving sidewalk in 1900, and a Thomas Edison film captured it (2020)",
       "https://www.openculture.com/2020/03/paris-had-a-moving-sidewalk-in-1900.html"
-    ]
-  ],
-  [
-    [
-      "2025-11-02, 20:40:54",
-      "https://news.ycombinator.com/item?id=45793244"
-    ],
-    [
-      "Alleged Jabber Zeus Coder 'MrICQ' in U.S. Custody",
-      "https://krebsonsecurity.com/2025/11/alleged-jabber-zeus-coder-mricq-in-u-s-custody/"
-    ]
-  ],
-  [
-    [
-      "2025-11-02, 15:06:36",
-      "https://news.ycombinator.com/item?id=45790827"
-    ],
-    [
-      "Why don't you use dependent types?",
-      "https://lawrencecpaulson.github.io//2025/11/02/Why-not-dependent.html"
     ]
   ],
   [
@@ -241,16 +261,6 @@
   ],
   [
     [
-      "2025-10-30, 16:31:55",
-      "https://news.ycombinator.com/item?id=45761894"
-    ],
-    [
-      "Recantha's Tiny Toolkit",
-      "https://tinytoolk.it/toolkits/recantha-kit/"
-    ]
-  ],
-  [
-    [
       "2025-10-29, 16:09:39",
       "https://news.ycombinator.com/item?id=45748816"
     ],
@@ -271,32 +281,22 @@
   ],
   [
     [
-      "2025-10-29, 10:21:59",
-      "https://news.ycombinator.com/item?id=45744885"
-    ],
-    [
-      "Linux Tidbits and Collecting Pebbles",
-      "https://unixbhaskar.wordpress.com/2025/03/02/linux-tidbits-and-collecting-pebbles/"
-    ]
-  ],
-  [
-    [
-      "2025-10-27, 12:05:16",
-      "https://news.ycombinator.com/item?id=45720024"
-    ],
-    [
-      "Fish in the Wrong Place",
-      "https://www.lrb.co.uk/the-paper/v47/n19/oliver-cussen/fish-in-the-wrong-place"
-    ]
-  ],
-  [
-    [
       "2025-10-26, 18:58:31",
       "https://news.ycombinator.com/item?id=45714336"
     ],
     [
       "A turn lane in Rhododendron",
       "https://www.greentape.pub/p/a-turn-lane-in-rhododendron"
+    ]
+  ],
+  [
+    [
+      "2025-10-25, 06:45:20",
+      "https://news.ycombinator.com/item?id=45701810"
+    ],
+    [
+      "The Continual Learning Problem",
+      "https://jessylin.com/2025/10/20/continual-learning/"
     ]
   ]
 ]
