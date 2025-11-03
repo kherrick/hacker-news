@@ -26,7 +26,7 @@
 * [2025-10-29, 10:21:59](https://news.ycombinator.com/item?id=45744885) - [Linux Tidbits and Collecting Pebbles](https://unixbhaskar.wordpress.com/2025/03/02/linux-tidbits-and-collecting-pebbles/)
 * [2025-10-29, 05:50:56](https://news.ycombinator.com/item?id=45743105) - [When models manipulate manifolds: The geometry of a counting task](https://transformer-circuits.pub/2025/linebreaks/index.html)
 * [2025-10-28, 16:45:28](https://news.ycombinator.com/item?id=45735246) - [Why does Swiss cheese have holes?](https://www.usdairy.com/news-articles/why-does-swiss-cheese-have-holes)
-* [2025-10-27, 11:15:19](https://news.ycombinator.com/item?id=45719636) - [How the Mayans were able to accurately predict solar eclipses for centuries](https://phys.org/news/2025-10-mayans-accurately-solar-eclipses-centuries.html)
+* [2025-10-27, 12:05:16](https://news.ycombinator.com/item?id=45720024) - [Fish in the Wrong Place](https://www.lrb.co.uk/the-paper/v47/n19/oliver-cussen/fish-in-the-wrong-place)
 * [2025-10-25, 21:57:57](https://news.ycombinator.com/item?id=45707330) - [Terahertz Tech Sets Stage for \"Wireless Wired\" Chips](https://spectrum.ieee.org/terahertz-chip-room-temperature)
 * [2025-10-25, 11:13:09](https://news.ycombinator.com/item?id=45702931) - [Show HN: Centia.io – Open PostgreSQL/PostGIS back end for developers](https://centia.io/)
 * [2025-10-25, 02:29:31](https://news.ycombinator.com/item?id=45700932) - [Underdetermined Weaving with Machines (2021) [video]](https://www.youtube.com/watch?v=on_sK8KoObo)
