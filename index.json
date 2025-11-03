@@ -1,12 +1,32 @@
 [
   [
     [
-      "2025-11-03, 13:30:17",
-      "https://news.ycombinator.com/item?id=45798753"
+      "2025-11-03, 13:40:47",
+      "https://news.ycombinator.com/item?id=45798838"
     ],
     [
-      "Mar-a-Lago Face",
-      "https://en.wikipedia.org/wiki/Mar-a-Lago_face"
+      "VimGraph",
+      "https://resources.wolframcloud.com/FunctionRepository/resources/VimGraph/"
+    ]
+  ],
+  [
+    [
+      "2025-11-03, 13:32:12",
+      "https://news.ycombinator.com/item?id=45798768"
+    ],
+    [
+      "A Woman Who Predicted Tech Fascism [video]",
+      "https://www.youtube.com/watch?v=DL-kwZdkiOA"
+    ]
+  ],
+  [
+    [
+      "2025-11-03, 13:29:17",
+      "https://news.ycombinator.com/item?id=45798746"
+    ],
+    [
+      "Offline Math: Converting LaTeX to SVG with MathJax",
+      "https://sigwait.org/~alex/blog/2025/10/07/3t8acq.html"
     ]
   ],
   [
@@ -81,16 +101,6 @@
   ],
   [
     [
-      "2025-11-02, 22:32:42",
-      "https://news.ycombinator.com/item?id=45794032"
-    ],
-    [
-      "Facts about throwing good parties",
-      "https://www.atvbt.com/21-facts-about-throwing-good-parties/"
-    ]
-  ],
-  [
-    [
       "2025-11-02, 21:35:02",
       "https://news.ycombinator.com/item?id=45793652"
     ],
@@ -127,26 +137,6 @@
     [
       "Lisp: Notes on its Past and Future (1980)",
       "https://www-formal.stanford.edu/jmc/lisp20th/lisp20th.html"
-    ]
-  ],
-  [
-    [
-      "2025-11-02, 18:37:38",
-      "https://news.ycombinator.com/item?id=45792373"
-    ],
-    [
-      "Reproducing the AWS Outage Race Condition with a Model Checker",
-      "https://wyounas.github.io/aws/concurrency/2025/10/30/reproducing-the-aws-outage-race-condition-with-model-checker/"
-    ]
-  ],
-  [
-    [
-      "2025-11-02, 18:06:15",
-      "https://news.ycombinator.com/item?id=45792166"
-    ],
-    [
-      "Is Your Bluetooth Chip Leaking Secrets via RF Signals?",
-      "https://www.semanticscholar.org/paper/Is-Your-Bluetooth-Chip-Leaking-Secrets-via-RF-Ji-Dubrova/c1d3ceb47ea6f9cc4f29929e2f97d36862a260a2"
     ]
   ],
   [
@@ -197,6 +187,16 @@
     [
       "Using FreeBSD to make self-hosting fun again",
       "https://jsteuernagel.de/posts/using-freebsd-to-make-self-hosting-fun-again/"
+    ]
+  ],
+  [
+    [
+      "2025-11-01, 16:39:05",
+      "https://news.ycombinator.com/item?id=45783074"
+    ],
+    [
+      "WebAssembly (WASM) arch support for the Linux kernel",
+      "https://github.com/joelseverin/linux-wasm"
     ]
   ],
   [
