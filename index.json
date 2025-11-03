@@ -15,7 +15,7 @@
       "https://news.ycombinator.com/item?id=45804122"
     ],
     [
-      "2,400 HP FDNY Super Pumper could extinguish hell itself",
+      "The Mack Super Pumper was a locomotive engined fire fighter (2018)",
       "https://bangshift.com/bangshiftxl/mack-super-pumper-system-locomotive-engine-powered-pumper-extinguish-hell-often/"
     ]
   ],
@@ -65,7 +65,7 @@
       "https://news.ycombinator.com/item?id=45802290"
     ],
     [
-      "Agent-O-rama: build LLM agents in Java or Clojure",
+      "Agent-o-rama: build, trace, evaluate, and monitor LLM agents in Java or Clojure",
       "https://blog.redplanetlabs.com/2025/11/03/introducing-agent-o-rama-build-trace-evaluate-and-monitor-stateful-llm-agents-in-java-or-clojure/"
     ]
   ],
@@ -81,12 +81,22 @@
   ],
   [
     [
-      "2025-11-03, 16:45:12",
-      "https://news.ycombinator.com/item?id=45801096"
+      "2025-11-03, 17:08:22",
+      "https://news.ycombinator.com/item?id=45801416"
     ],
     [
-      "No Socials November",
-      "https://bjhess.com/posts/no-socials-november"
+      "Why engineers can't be rational about programming languages",
+      "https://spf13.com/p/the-hidden-conversation/"
+    ]
+  ],
+  [
+    [
+      "2025-11-03, 16:35:44",
+      "https://news.ycombinator.com/item?id=45800955"
+    ],
+    [
+      "Why we migrated from Python to Node.js",
+      "https://blog.yakkomajuri.com/blog/python-to-node"
     ]
   ],
   [
@@ -171,12 +181,12 @@
   ],
   [
     [
-      "2025-11-03, 13:28:37",
-      "https://news.ycombinator.com/item?id=45798741"
+      "2025-11-03, 13:21:09",
+      "https://news.ycombinator.com/item?id=45798681"
     ],
     [
-      "An Illustrated Introduction to Linear Algebra, Chapter 2: The Dot Product",
-      "https://www.ducktyped.org/p/linear-algebra-chapter-2-the-dot"
+      "Why Nextcloud feels slow to use",
+      "https://ounapuu.ee/posts/2025/11/03/nextcloud-slow/"
     ]
   ],
   [
@@ -221,6 +231,16 @@
   ],
   [
     [
+      "2025-10-29, 22:38:58",
+      "https://news.ycombinator.com/item?id=45754021"
+    ],
+    [
+      "Open-sourced game logic, art and Spine animations – SuperWEIRD Game Kit",
+      "https://ludenio.itch.io/superweird-game-kit"
+    ]
+  ],
+  [
+    [
       "2025-10-29, 16:09:39",
       "https://news.ycombinator.com/item?id=45748816"
     ],
@@ -261,32 +281,12 @@
   ],
   [
     [
-      "2025-10-27, 11:15:19",
-      "https://news.ycombinator.com/item?id=45719636"
-    ],
-    [
-      "How the Mayans were able to accurately predict solar eclipses for centuries",
-      "https://phys.org/news/2025-10-mayans-accurately-solar-eclipses-centuries.html"
-    ]
-  ],
-  [
-    [
       "2025-10-26, 20:23:58",
       "https://news.ycombinator.com/item?id=45714937"
     ],
     [
       "The MP3.com Rescue Barge Barge",
       "https://blog.somnolescent.net/2025/09/mp3-com-rescue-barge-barge/"
-    ]
-  ],
-  [
-    [
-      "2025-10-25, 06:45:20",
-      "https://news.ycombinator.com/item?id=45701810"
-    ],
-    [
-      "The Continual Learning Problem",
-      "https://jessylin.com/2025/10/20/continual-learning/"
     ]
   ],
   [
