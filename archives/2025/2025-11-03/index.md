@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2025-11-03](index.md)
 
+* [2025-11-03, 13:40:47](https://news.ycombinator.com/item?id=45798838) - [VimGraph](https://resources.wolframcloud.com/FunctionRepository/resources/VimGraph/)
+* [2025-11-03, 13:32:12](https://news.ycombinator.com/item?id=45798768) - [A Woman Who Predicted Tech Fascism [video]](https://www.youtube.com/watch?v=DL-kwZdkiOA)
 * [2025-11-03, 13:30:17](https://news.ycombinator.com/item?id=45798753) - [Mar-a-Lago Face](https://en.wikipedia.org/wiki/Mar-a-Lago_face)
+* [2025-11-03, 13:29:17](https://news.ycombinator.com/item?id=45798746) - [Offline Math: Converting LaTeX to SVG with MathJax](https://sigwait.org/~alex/blog/2025/10/07/3t8acq.html)
 * [2025-11-03, 13:26:16](https://news.ycombinator.com/item?id=45798724) - [Port of Linux to WebAssembly](https://lore.kernel.org/lkml/618f3602-03aa-46a8-b2d4-3c9798c4cd2b@icemanor.se/)
 * [2025-11-03, 11:22:59](https://news.ycombinator.com/item?id=45797934) - [Update and shut down no longer restarts PC, 25H2 patch addresses decades-old bug](https://www.windowslatest.com/2025/11/02/update-and-shut-down-no-longer-restarts-pc-as-windows-11-25h2-patch-addresses-a-decades-old-bug/)
 * [2025-11-03, 10:47:11](https://news.ycombinator.com/item?id=45797740) - [Nvidia to invest up to $1B in AI startup Poolside](https://www.reuters.com/business/nvidia-invest-up-1-billion-ai-startup-poolside-bloomberg-news-reports-2025-10-30/)
