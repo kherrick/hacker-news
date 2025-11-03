@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-11-03, 18:38:00](https://news.ycombinator.com/item?id=45802600) - [The Stallman Paradox: How Web3 Became the Ultimate Open Source Theater](https://paragraph.com/@holonic-horizons/the-stallman-paradox-how-web3-became-the-ultimate-open-source-theater)
 * [2025-11-03, 18:27:32](https://news.ycombinator.com/item?id=45802459) - [Gallery of wonderful drawings our little thermal printer received](https://guestbook.goodenough.us)
 * [2025-11-03, 17:55:10](https://news.ycombinator.com/item?id=45802029) - [The Case That A.I. Is Thinking](https://www.newyorker.com/magazine/2025/11/10/the-case-that-ai-is-thinking)
 * [2025-11-03, 17:08:22](https://news.ycombinator.com/item?id=45801416) - [Why Engineers Can't Be Rational About Programming Languages](https://spf13.com/p/the-hidden-conversation/)
@@ -11,6 +10,7 @@
 * [2025-11-03, 16:00:00](https://news.ycombinator.com/item?id=45800465) - [Ask HN: Who is hiring? (November 2025)](https://news.ycombinator.com/item?id=45800465)
 * [2025-11-03, 16:00:00](https://news.ycombinator.com/item?id=45800464) - [Ask HN: Who wants to be hired? (November 2025)](https://news.ycombinator.com/item?id=45800464)
 * [2025-11-03, 15:45:31](https://news.ycombinator.com/item?id=45800308) - [Robert Hooke's \"Cyberpunk” Letter to Gottfried Leibniz](https://mynamelowercase.com/blog/robert-hookes-cyberpunk-letter-to-gottfried-leibniz/)
+* [2025-11-03, 15:29:13](https://news.ycombinator.com/item?id=45800117) - [Show HN: FinBodhi – Local-first, double-entry app/PWA for your financial journey](https://finbodhi.com/)
 * [2025-11-03, 14:40:51](https://news.ycombinator.com/item?id=45799478) - [State of Terminal Emulators in 2025: The Errant Champions](https://www.jeffquast.com/post/state-of-terminal-emulation-2025/)
 * [2025-11-03, 14:20:05](https://news.ycombinator.com/item?id=45799211) - [OpenAI signs $38B cloud computing deal with Amazon](https://www.nytimes.com/2025/11/03/technology/openai-amazon-cloud-computing.html)
 * [2025-11-03, 13:47:27](https://news.ycombinator.com/item?id=45798892) - [A collection of links that existed about Anguilla as of 2003](https://web.ai/)
