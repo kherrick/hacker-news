@@ -13,7 +13,6 @@
 * [2025-11-02, 18:37:38](https://news.ycombinator.com/item?id=45792373) - [Reproducing the AWS Outage Race Condition with a Model Checker](https://wyounas.github.io/aws/concurrency/2025/10/30/reproducing-the-aws-outage-race-condition-with-model-checker/)
 * [2025-11-02, 18:12:49](https://news.ycombinator.com/item?id=45792209) - [Anti-cybercrime laws are being weaponized to repress journalism](https://www.cjr.org/analysis/nigeria-pakistan-jordan-cybercrime-laws-journalism.php)
 * [2025-11-02, 18:06:15](https://news.ycombinator.com/item?id=45792166) - [Is Your Bluetooth Chip Leaking Secrets via RF Signals?](https://www.semanticscholar.org/paper/Is-Your-Bluetooth-Chip-Leaking-Secrets-via-RF-Ji-Dubrova/c1d3ceb47ea6f9cc4f29929e2f97d36862a260a2)
-* [2025-11-02, 17:24:39](https://news.ycombinator.com/item?id=45791882) - [At the end you use `git bisect`](https://kevin3010.github.io/git/2025/11/02/At-the-end-you-use-git-bisect.html)
 * [2025-11-02, 15:06:36](https://news.ycombinator.com/item?id=45790827) - [Why don't you use dependent types?](https://lawrencecpaulson.github.io//2025/11/02/Why-not-dependent.html)
 * [2025-11-02, 13:43:08](https://news.ycombinator.com/item?id=45790293) - [Writing FreeDOS Programs in C](https://www.freedos.org/books/cprogramming/)
 * [2025-11-02, 13:07:31](https://news.ycombinator.com/item?id=45790015) - [X.org Security Advisory: multiple security issues X.Org X server and Xwayland](https://lists.x.org/archives/xorg-announce/2025-October/003635.html)
@@ -30,6 +29,7 @@
 * [2025-10-27, 11:15:19](https://news.ycombinator.com/item?id=45719636) - [How the Mayans were able to accurately predict solar eclipses for centuries](https://phys.org/news/2025-10-mayans-accurately-solar-eclipses-centuries.html)
 * [2025-10-26, 00:15:25](https://news.ycombinator.com/item?id=45707973) - [The x86 Interrupt List, aka “Ralf Brown's Interrupt List” (2018)](http://www.cs.cmu.edu/~ralf/files.html)
 * [2025-10-25, 21:57:57](https://news.ycombinator.com/item?id=45707330) - [Terahertz Tech Sets Stage for \"Wireless Wired\" Chips](https://spectrum.ieee.org/terahertz-chip-room-temperature)
+* [2025-10-25, 02:29:31](https://news.ycombinator.com/item?id=45700932) - [Underdetermined Weaving with Machines (2021) [video]](https://www.youtube.com/watch?v=on_sK8KoObo)
 
 ## [Archives](archives/index.md)
 
