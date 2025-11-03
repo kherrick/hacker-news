@@ -9,7 +9,7 @@
 * [2025-11-03, 01:27:48](https://news.ycombinator.com/item?id=45795036) - [Simple trick to increase coverage: Lying to users about signal strength](https://nickvsnetworking.com/simple-trick-to-increase-coverage-lying-to-users-about-signal-strength/)
 * [2025-11-02, 23:11:22](https://news.ycombinator.com/item?id=45794245) - [New prompt injection papers: Agents rule of two and the attacker moves second](https://simonwillison.net/2025/Nov/2/new-prompt-injection-papers/)
 * [2025-11-02, 22:32:42](https://news.ycombinator.com/item?id=45794032) - [Facts about throwing good parties](https://www.atvbt.com/21-facts-about-throwing-good-parties/)
-* [2025-11-02, 21:35:02](https://news.ycombinator.com/item?id=45793652) - [FurtherAI (Series A – A16Z, YC) Is Hiring Across Software and AI](https://news.ycombinator.com/item?id=45793652)
+* [2025-11-02, 21:35:02](https://news.ycombinator.com/item?id=45793652) - [FurtherAI (YC W24) Is Hiring Across Software and AI](https://news.ycombinator.com/item?id=45793652)
 * [2025-11-02, 21:08:15](https://news.ycombinator.com/item?id=45793466) - [Paris had a moving sidewalk in 1900, and a Thomas Edison film captured it (2020)](https://www.openculture.com/2020/03/paris-had-a-moving-sidewalk-in-1900.html)
 * [2025-11-02, 20:40:54](https://news.ycombinator.com/item?id=45793244) - [Alleged Jabber Zeus Coder 'MrICQ' in U.S. Custody](https://krebsonsecurity.com/2025/11/alleged-jabber-zeus-coder-mricq-in-u-s-custody/)
 * [2025-11-02, 19:05:32](https://news.ycombinator.com/item?id=45792579) - [Lisp: Notes on its Past and Future (1980)](https://www-formal.stanford.edu/jmc/lisp20th/lisp20th.html)
@@ -24,12 +24,12 @@
 * [2025-10-31, 15:49:21](https://news.ycombinator.com/item?id=45773421) - [The Arduino Uno Q is a weird hybrid SBC](https://www.jeffgeerling.com/blog/2025/arduino-uno-q-weird-hybrid-sbc)
 * [2025-10-29, 12:40:16](https://news.ycombinator.com/item?id=45746063) - [KaTeX – The fastest math typesetting library for the web](https://katex.org/)
 * [2025-10-29, 11:55:42](https://news.ycombinator.com/item?id=45745607) - [Collatz-Weyl Generators: Pseudorandom Number Generators (2023)](https://arxiv.org/abs/2312.17043)
+* [2025-10-29, 10:21:59](https://news.ycombinator.com/item?id=45744885) - [Linux Tidbits and Collecting Pebbles](https://unixbhaskar.wordpress.com/2025/03/02/linux-tidbits-and-collecting-pebbles/)
 * [2025-10-29, 05:50:56](https://news.ycombinator.com/item?id=45743105) - [When models manipulate manifolds: The geometry of a counting task](https://transformer-circuits.pub/2025/linebreaks/index.html)
 * [2025-10-28, 16:45:28](https://news.ycombinator.com/item?id=45735246) - [Why does Swiss cheese have holes?](https://www.usdairy.com/news-articles/why-does-swiss-cheese-have-holes)
 * [2025-10-27, 11:15:19](https://news.ycombinator.com/item?id=45719636) - [How the Mayans were able to accurately predict solar eclipses for centuries](https://phys.org/news/2025-10-mayans-accurately-solar-eclipses-centuries.html)
 * [2025-10-25, 21:57:57](https://news.ycombinator.com/item?id=45707330) - [Terahertz Tech Sets Stage for \"Wireless Wired\" Chips](https://spectrum.ieee.org/terahertz-chip-room-temperature)
 * [2025-10-25, 02:29:31](https://news.ycombinator.com/item?id=45700932) - [Underdetermined Weaving with Machines (2021) [video]](https://www.youtube.com/watch?v=on_sK8KoObo)
-* [2025-10-24, 11:58:13](https://news.ycombinator.com/item?id=45693719) - [Ask HN: Anyone else use FreePascal as their low level language?](https://news.ycombinator.com/item?id=45693719)
 
 ## [Archives](archives/index.md)
 

@@ -71,6 +71,7 @@
 * [2025-10-29, 11:28:17](https://news.ycombinator.com/item?id=45745382) - [Autodesk's John Walker Explained HP and IBM in 1991](https://www.cringely.com/2015/06/03/autodesks-john-walker-explained-hp-and-ibm-in-1991/)
 * [2025-10-29, 11:14:38](https://news.ycombinator.com/item?id=45745281) - [AWS to Bare Metal Two Years Later: Answering Your Questions About Leaving AWS](https://oneuptime.com/blog/post/2025-10-29-aws-to-bare-metal-two-years-later/view)
 * [2025-10-29, 10:47:25](https://news.ycombinator.com/item?id=45745072) - [Aggressive bots ruined my weekend](https://herman.bearblog.dev/agressive-bots/)
+* [2025-10-29, 10:21:59](https://news.ycombinator.com/item?id=45744885) - [Linux Tidbits and Collecting Pebbles](https://unixbhaskar.wordpress.com/2025/03/02/linux-tidbits-and-collecting-pebbles/)
 * [2025-10-29, 09:26:09](https://news.ycombinator.com/item?id=45744503) - [YouTube is taking down videos on performing nonstandard Windows 11 installs](https://old.reddit.com/r/DataHoarder/comments/1oiz0v0/youtube_is_taking_down_videos_on_performing/)
 * [2025-10-29, 09:06:36](https://news.ycombinator.com/item?id=45744395) - [SpiderMonkey Garbage Collector](https://firefox-source-docs.mozilla.org/js/gc.html)
 * [2025-10-29, 06:12:46](https://news.ycombinator.com/item?id=45743232) - [Show HN: Front End Fuzzy and Substring and Prefix Search](https://github.com/m31coding/fuzzy-search)
