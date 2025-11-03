@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-11-03, 13:56:11",
+      "https://news.ycombinator.com/item?id=45798973"
+    ],
+    [
+      "Tech workers' fight for living wages and a 32-hour workweek is a battle for all",
+      "https://thechiefleader.com/stories/tech-workers-fight-for-living-wages-and-a-32-hour-workweek-is-a-battle-for-workers-everywhere,55298"
+    ]
+  ],
+  [
+    [
+      "2025-11-03, 13:45:15",
+      "https://news.ycombinator.com/item?id=45798871"
+    ],
+    [
+      "Show HN: a Rust ray tracer that runs on any GPU – even in the browser",
+      "https://github.com/tchauffi/rust-rasterizer"
+    ]
+  ],
+  [
+    [
       "2025-11-03, 13:40:47",
       "https://news.ycombinator.com/item?id=45798838"
     ],
@@ -11,12 +31,12 @@
   ],
   [
     [
-      "2025-11-03, 13:32:12",
-      "https://news.ycombinator.com/item?id=45798768"
+      "2025-11-03, 13:39:18",
+      "https://news.ycombinator.com/item?id=45798827"
     ],
     [
-      "A Woman Who Predicted Tech Fascism [video]",
-      "https://www.youtube.com/watch?v=DL-kwZdkiOA"
+      "Google Suspended My Company's Google Cloud Account for the Third Time",
+      "https://www.agwa.name/blog/post/google_suspended_sslmates_cloud_account_again"
     ]
   ],
   [
@@ -31,12 +51,32 @@
   ],
   [
     [
-      "2025-11-03, 13:26:16",
-      "https://news.ycombinator.com/item?id=45798724"
+      "2025-11-03, 13:21:09",
+      "https://news.ycombinator.com/item?id=45798681"
     ],
     [
-      "Port of Linux to WebAssembly",
-      "https://lore.kernel.org/lkml/618f3602-03aa-46a8-b2d4-3c9798c4cd2b@icemanor.se/"
+      "Why Nextcloud feels slow to use",
+      "https://ounapuu.ee/posts/2025/11/03/nextcloud-slow/"
+    ]
+  ],
+  [
+    [
+      "2025-11-03, 12:50:27",
+      "https://news.ycombinator.com/item?id=45798479"
+    ],
+    [
+      "The Case Against PGVector",
+      "https://alex-jacobs.com/posts/the-case-against-pgvector/"
+    ]
+  ],
+  [
+    [
+      "2025-11-03, 12:05:28",
+      "https://news.ycombinator.com/item?id=45798193"
+    ],
+    [
+      "OSS Alternative to Open WebUI – ChatGPT-Like UI, API and CLI",
+      "https://github.com/ServiceStack/llms"
     ]
   ],
   [
@@ -131,32 +171,12 @@
   ],
   [
     [
-      "2025-11-02, 19:05:32",
-      "https://news.ycombinator.com/item?id=45792579"
-    ],
-    [
-      "Lisp: Notes on its Past and Future (1980)",
-      "https://www-formal.stanford.edu/jmc/lisp20th/lisp20th.html"
-    ]
-  ],
-  [
-    [
       "2025-11-02, 15:06:36",
       "https://news.ycombinator.com/item?id=45790827"
     ],
     [
       "Why don't you use dependent types?",
       "https://lawrencecpaulson.github.io//2025/11/02/Why-not-dependent.html"
-    ]
-  ],
-  [
-    [
-      "2025-11-02, 13:07:31",
-      "https://news.ycombinator.com/item?id=45790015"
-    ],
-    [
-      "X.org Security Advisory: multiple security issues X.Org X server and Xwayland",
-      "https://lists.x.org/archives/xorg-announce/2025-October/003635.html"
     ]
   ],
   [
@@ -231,16 +251,6 @@
   ],
   [
     [
-      "2025-10-29, 11:55:42",
-      "https://news.ycombinator.com/item?id=45745607"
-    ],
-    [
-      "Collatz-Weyl Generators: Pseudorandom Number Generators (2023)",
-      "https://arxiv.org/abs/2312.17043"
-    ]
-  ],
-  [
-    [
       "2025-10-29, 10:21:59",
       "https://news.ycombinator.com/item?id=45744885"
     ],
@@ -271,12 +281,12 @@
   ],
   [
     [
-      "2025-10-25, 21:57:57",
-      "https://news.ycombinator.com/item?id=45707330"
+      "2025-10-26, 18:58:31",
+      "https://news.ycombinator.com/item?id=45714336"
     ],
     [
-      "Terahertz Tech Sets Stage for \"Wireless Wired\" Chips",
-      "https://spectrum.ieee.org/terahertz-chip-room-temperature"
+      "A Turn Lane in Rhododendron",
+      "https://www.greentape.pub/p/a-turn-lane-in-rhododendron"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Show HN: Centia.io – Open PostgreSQL/PostGIS back end for developers",
       "https://centia.io/"
-    ]
-  ],
-  [
-    [
-      "2025-10-25, 02:29:31",
-      "https://news.ycombinator.com/item?id=45700932"
-    ],
-    [
-      "Underdetermined Weaving with Machines (2021) [video]",
-      "https://www.youtube.com/watch?v=on_sK8KoObo"
     ]
   ]
 ]
