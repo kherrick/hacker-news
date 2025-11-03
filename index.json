@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-11-03, 16:45:12",
+      "https://news.ycombinator.com/item?id=45801096"
+    ],
+    [
+      "No Socials November",
+      "https://bjhess.com/posts/no-socials-november"
+    ]
+  ],
+  [
+    [
+      "2025-11-03, 16:36:29",
+      "https://news.ycombinator.com/item?id=45800967"
+    ],
+    [
+      "Python Steering Council unanimously accepts \"PEP 810, Explicit lazy imports\"",
+      "https://discuss.python.org/t/pep-810-explicit-lazy-imports/104131?page=23"
+    ]
+  ],
+  [
+    [
       "2025-11-03, 16:35:44",
       "https://news.ycombinator.com/item?id=45800955"
     ],
@@ -17,16 +37,6 @@
     [
       "Learning to read Arthur Whitney's C to become Smart (2024)",
       "https://needleful.net/blog/2024/01/arthur_whitney.html"
-    ]
-  ],
-  [
-    [
-      "2025-11-03, 16:17:22",
-      "https://news.ycombinator.com/item?id=45800688"
-    ],
-    [
-      "Google pulls AI model after senator says it fabricated assault allegation",
-      "https://www.theverge.com/news/812376/google-removes-gemma-senator-blackburn-hallucination"
     ]
   ],
   [
@@ -191,16 +201,6 @@
   ],
   [
     [
-      "2025-11-03, 06:21:20",
-      "https://news.ycombinator.com/item?id=45796351"
-    ],
-    [
-      "ECL Runs Maxima in a Browser",
-      "https://mailman3.common-lisp.net/hyperkitty/list/ecl-devel@common-lisp.net/thread/T64S5EMVV6WHDPKWZ3AQHEPO3EQE2K5M/"
-    ]
-  ],
-  [
-    [
       "2025-11-03, 03:13:46",
       "https://news.ycombinator.com/item?id=45795511"
     ],
@@ -217,16 +217,6 @@
     [
       "Paris had a moving sidewalk in 1900, and a Thomas Edison film captured it (2020)",
       "https://www.openculture.com/2020/03/paris-had-a-moving-sidewalk-in-1900.html"
-    ]
-  ],
-  [
-    [
-      "2025-11-02, 11:01:23",
-      "https://news.ycombinator.com/item?id=45789424"
-    ],
-    [
-      "Using FreeBSD to make self-hosting fun again",
-      "https://jsteuernagel.de/posts/using-freebsd-to-make-self-hosting-fun-again/"
     ]
   ],
   [
@@ -267,6 +257,16 @@
     [
       "A visualization of the RGB space covered by named colors",
       "https://codepen.io/meodai/full/zdgXJj/"
+    ]
+  ],
+  [
+    [
+      "2025-10-29, 13:00:53",
+      "https://news.ycombinator.com/item?id=45746289"
+    ],
+    [
+      "Measuring characteristics of TCP connections at Internet scale",
+      "https://blog.cloudflare.com/measuring-network-connections-at-scale/"
     ]
   ],
   [
