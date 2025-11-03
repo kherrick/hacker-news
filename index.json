@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-11-03, 11:22:59",
+      "https://news.ycombinator.com/item?id=45797934"
+    ],
+    [
+      "Update and shut down no longer restarts PC, 25H2 patch addresses decades-old bug",
+      "https://www.windowslatest.com/2025/11/02/update-and-shut-down-no-longer-restarts-pc-as-windows-11-25h2-patch-addresses-a-decades-old-bug/"
+    ]
+  ],
+  [
+    [
       "2025-11-03, 10:47:11",
       "https://news.ycombinator.com/item?id=45797740"
     ],
@@ -187,16 +197,6 @@
     [
       "Using FreeBSD to make self-hosting fun again",
       "https://jsteuernagel.de/posts/using-freebsd-to-make-self-hosting-fun-again/"
-    ]
-  ],
-  [
-    [
-      "2025-11-02, 05:20:12",
-      "https://news.ycombinator.com/item?id=45787993"
-    ],
-    [
-      "Backpropagation is a leaky abstraction (2016)",
-      "https://karpathy.medium.com/yes-you-should-understand-backprop-e2f06eab496b"
     ]
   ],
   [
