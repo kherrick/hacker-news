@@ -1,12 +1,22 @@
 [
   [
     [
-      "2025-11-03, 13:56:11",
-      "https://news.ycombinator.com/item?id=45798973"
+      "2025-11-03, 13:56:21",
+      "https://news.ycombinator.com/item?id=45798975"
     ],
     [
-      "Tech workers' fight for living wages and a 32-hour workweek is a battle for all",
-      "https://thechiefleader.com/stories/tech-workers-fight-for-living-wages-and-a-32-hour-workweek-is-a-battle-for-workers-everywhere,55298"
+      "She Was Ready to Have Her 15th Child. Then Came the Felony Charges",
+      "https://www.nytimes.com/2025/11/02/magazine/marybeth-lewis-13-children-felony-charges.html"
+    ]
+  ],
+  [
+    [
+      "2025-11-03, 13:48:39",
+      "https://news.ycombinator.com/item?id=45798898"
+    ],
+    [
+      "The Problem with Farmed Seafood",
+      "https://nautil.us/the-problem-with-farmed-seafood-1243674/"
     ]
   ],
   [
@@ -57,6 +67,16 @@
     [
       "Why Nextcloud feels slow to use",
       "https://ounapuu.ee/posts/2025/11/03/nextcloud-slow/"
+    ]
+  ],
+  [
+    [
+      "2025-11-03, 12:52:18",
+      "https://news.ycombinator.com/item?id=45798489"
+    ],
+    [
+      "I analyzed 180M jobs to see what jobs AI is replacing today",
+      "https://bloomberry.com/blog/i-analyzed-180m-jobs-to-see-what-jobs-ai-is-actually-replacing-today/"
     ]
   ],
   [
@@ -117,16 +137,6 @@
     [
       "Oxy is Cloudflare's Rust-based next generation proxy framework (2023)",
       "https://blog.cloudflare.com/introducing-oxy/"
-    ]
-  ],
-  [
-    [
-      "2025-11-03, 01:59:07",
-      "https://news.ycombinator.com/item?id=45795186"
-    ],
-    [
-      "Syllabi – Open-source agentic AI with tools, RAG, and multi-channel deploy",
-      "https://www.syllabi-ai.com/"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "A Turn Lane in Rhododendron",
       "https://www.greentape.pub/p/a-turn-lane-in-rhododendron"
-    ]
-  ],
-  [
-    [
-      "2025-10-25, 11:13:09",
-      "https://news.ycombinator.com/item?id=45702931"
-    ],
-    [
-      "Show HN: Centia.io – Open PostgreSQL/PostGIS back end for developers",
-      "https://centia.io/"
     ]
   ]
 ]
