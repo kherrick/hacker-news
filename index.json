@@ -1,26 +1,6 @@
 [
   [
     [
-      "2025-11-03, 14:54:12",
-      "https://news.ycombinator.com/item?id=45799652"
-    ],
-    [
-      "Uv Crash Course",
-      "https://lernerpython.com/uv-crash-course/"
-    ]
-  ],
-  [
-    [
-      "2025-11-03, 14:12:15",
-      "https://news.ycombinator.com/item?id=45799110"
-    ],
-    [
-      "Türkiye will not sell rare earth elements to the USA",
-      "https://ceenergynews.com/climate/turkiye-rare-earth-elements-usa/"
-    ]
-  ],
-  [
-    [
       "2025-11-03, 14:10:57",
       "https://news.ycombinator.com/item?id=45799096"
     ],
@@ -231,6 +211,16 @@
   ],
   [
     [
+      "2025-11-02, 02:27:44",
+      "https://news.ycombinator.com/item?id=45787403"
+    ],
+    [
+      "Writing an Asciidoc Parser in Rust: Asciidocr",
+      "https://www.bikesbooksandbullshit.com/bullshit/2025/01/08/writing-an-asciidoc-parser-in-rust.html"
+    ]
+  ],
+  [
+    [
       "2025-11-01, 16:39:05",
       "https://news.ycombinator.com/item?id=45783074"
     ],
@@ -277,6 +267,16 @@
     [
       "KaTeX – The fastest math typesetting library for the web",
       "https://katex.org/"
+    ]
+  ],
+  [
+    [
+      "2025-10-29, 05:50:56",
+      "https://news.ycombinator.com/item?id=45743105"
+    ],
+    [
+      "When models manipulate manifolds: The geometry of a counting task",
+      "https://transformer-circuits.pub/2025/linebreaks/index.html"
     ]
   ],
   [
