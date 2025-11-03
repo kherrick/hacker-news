@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-11-03, 06:54:30](https://news.ycombinator.com/item?id=45796487) - [Stop AI: 14 Steps to turn off AI](https://againstdata.com/blog/stop-ai)
 * [2025-11-03, 06:39:13](https://news.ycombinator.com/item?id=45796421) - [First recording of a dying human brain shows waves similar to memory flashbacks](https://louisville.edu/medicine/news/first-ever-recording-of-a-dying-human-brain-shows-waves-similar-to-memory-flashbacks)
 * [2025-11-03, 03:13:46](https://news.ycombinator.com/item?id=45795511) - [Oxy is Cloudflare's Rust-based next generation proxy framework (2023)](https://blog.cloudflare.com/introducing-oxy/)
 * [2025-11-03, 01:59:07](https://news.ycombinator.com/item?id=45795186) - [Syllabi – Open-source agentic AI with tools, RAG, and multi-channel deploy](https://www.syllabi-ai.com/)
@@ -28,7 +29,6 @@
 * [2025-10-27, 11:15:19](https://news.ycombinator.com/item?id=45719636) - [How the Mayans were able to accurately predict solar eclipses for centuries](https://phys.org/news/2025-10-mayans-accurately-solar-eclipses-centuries.html)
 * [2025-10-26, 00:15:25](https://news.ycombinator.com/item?id=45707973) - [The x86 Interrupt List, aka “Ralf Brown's Interrupt List” (2018)](http://www.cs.cmu.edu/~ralf/files.html)
 * [2025-10-25, 21:57:57](https://news.ycombinator.com/item?id=45707330) - [Terahertz Tech Sets Stage for \"Wireless Wired\" Chips](https://spectrum.ieee.org/terahertz-chip-room-temperature)
-* [2025-10-25, 02:29:31](https://news.ycombinator.com/item?id=45700932) - [Underdetermined Weaving with Machines (2021) [video]](https://www.youtube.com/watch?v=on_sK8KoObo)
 * [2025-10-24, 11:58:13](https://news.ycombinator.com/item?id=45693719) - [Ask HN: Anyone else use FreePascal as their low level language?](https://news.ycombinator.com/item?id=45693719)
 
 ## [Archives](archives/index.md)
