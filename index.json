@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-11-03, 23:04:22",
+      "https://news.ycombinator.com/item?id=45805539"
+    ],
+    [
+      "A Friendly Tour of Process Memory on Linux",
+      "https://www.0xkato.xyz/linux-process-memory/"
+    ]
+  ],
+  [
+    [
       "2025-11-03, 22:54:20",
       "https://news.ycombinator.com/item?id=45805458"
     ],
@@ -247,16 +257,6 @@
     [
       "A visualization of the RGB space covered by named colors",
       "https://codepen.io/meodai/full/zdgXJj/"
-    ]
-  ],
-  [
-    [
-      "2025-10-29, 13:00:53",
-      "https://news.ycombinator.com/item?id=45746289"
-    ],
-    [
-      "Measuring characteristics of TCP connections at Internet scale",
-      "https://blog.cloudflare.com/measuring-network-connections-at-scale/"
     ]
   ],
   [
