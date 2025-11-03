@@ -23,6 +23,7 @@
 * [2025-10-31, 16:49:26](https://news.ycombinator.com/item?id=45774086) - [Futurelock: A subtle risk in async Rust](https://rfd.shared.oxide.computer/rfd/0609)
 * [2025-10-31, 16:40:14](https://news.ycombinator.com/item?id=45773985) - [Amazon says it didn't cut people because of money. But because of 'culture'](https://www.cnn.com/2025/10/30/tech/amazon-layoffs-andy-jassy-ai-culture)
 * [2025-10-31, 16:39:22](https://news.ycombinator.com/item?id=45773974) - [Another European agency shifts off US Tech as digital sovereignty gains steam](https://www.zdnet.com/article/another-european-agency-ditches-big-tech-as-digital-sovereignty-movement-gains-steam/)
+* [2025-10-31, 15:49:21](https://news.ycombinator.com/item?id=45773421) - [The Arduino Uno Q is a weird hybrid SBC](https://www.jeffgeerling.com/blog/2025/arduino-uno-q-weird-hybrid-sbc)
 * [2025-10-31, 15:44:19](https://news.ycombinator.com/item?id=45773347) - [AI scrapers request commented scripts](https://cryptography.dog/blog/AI-scrapers-request-commented-scripts/)
 * [2025-10-31, 14:55:53](https://news.ycombinator.com/item?id=45772650) - [Show HN: Build your own Bracket City puzzle](https://builder.bracket.city)
 * [2025-10-31, 14:49:58](https://news.ycombinator.com/item?id=45772579) - [Ubuntu Introduces Architecture Variants](https://lwn.net/Articles/1044383/)
