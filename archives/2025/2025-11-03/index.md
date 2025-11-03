@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-11-03](index.md)
 
+* [2025-11-03, 13:56:21](https://news.ycombinator.com/item?id=45798975) - [She Was Ready to Have Her 15th Child. Then Came the Felony Charges](https://www.nytimes.com/2025/11/02/magazine/marybeth-lewis-13-children-felony-charges.html)
 * [2025-11-03, 13:56:11](https://news.ycombinator.com/item?id=45798973) - [Tech workers' fight for living wages and a 32-hour workweek is a battle for all](https://thechiefleader.com/stories/tech-workers-fight-for-living-wages-and-a-32-hour-workweek-is-a-battle-for-workers-everywhere,55298)
+* [2025-11-03, 13:48:39](https://news.ycombinator.com/item?id=45798898) - [The Problem with Farmed Seafood](https://nautil.us/the-problem-with-farmed-seafood-1243674/)
 * [2025-11-03, 13:45:15](https://news.ycombinator.com/item?id=45798871) - [Show HN: a Rust ray tracer that runs on any GPU – even in the browser](https://github.com/tchauffi/rust-rasterizer)
 * [2025-11-03, 13:40:47](https://news.ycombinator.com/item?id=45798838) - [VimGraph](https://resources.wolframcloud.com/FunctionRepository/resources/VimGraph/)
 * [2025-11-03, 13:39:18](https://news.ycombinator.com/item?id=45798827) - [Google Suspended My Company's Google Cloud Account for the Third Time](https://www.agwa.name/blog/post/google_suspended_sslmates_cloud_account_again)
@@ -13,6 +15,7 @@
 * [2025-11-03, 13:29:17](https://news.ycombinator.com/item?id=45798746) - [Offline Math: Converting LaTeX to SVG with MathJax](https://sigwait.org/~alex/blog/2025/10/07/3t8acq.html)
 * [2025-11-03, 13:26:16](https://news.ycombinator.com/item?id=45798724) - [Port of Linux to WebAssembly](https://lore.kernel.org/lkml/618f3602-03aa-46a8-b2d4-3c9798c4cd2b@icemanor.se/)
 * [2025-11-03, 13:21:09](https://news.ycombinator.com/item?id=45798681) - [Why Nextcloud feels slow to use](https://ounapuu.ee/posts/2025/11/03/nextcloud-slow/)
+* [2025-11-03, 12:52:18](https://news.ycombinator.com/item?id=45798489) - [I analyzed 180M jobs to see what jobs AI is replacing today](https://bloomberry.com/blog/i-analyzed-180m-jobs-to-see-what-jobs-ai-is-actually-replacing-today/)
 * [2025-11-03, 12:50:27](https://news.ycombinator.com/item?id=45798479) - [The Case Against PGVector](https://alex-jacobs.com/posts/the-case-against-pgvector/)
 * [2025-11-03, 12:05:28](https://news.ycombinator.com/item?id=45798193) - [OSS Alternative to Open WebUI – ChatGPT-Like UI, API and CLI](https://github.com/ServiceStack/llms)
 * [2025-11-03, 11:22:59](https://news.ycombinator.com/item?id=45797934) - [Update and shut down no longer restarts PC, 25H2 patch addresses decades-old bug](https://www.windowslatest.com/2025/11/02/update-and-shut-down-no-longer-restarts-pc-as-windows-11-25h2-patch-addresses-a-decades-old-bug/)
