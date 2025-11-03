@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2025-11-03, 18:33:22",
-      "https://news.ycombinator.com/item?id=45802538"
-    ],
-    [
-      "Is the Internet Making Culture Worse?",
-      "https://asteriskmag.com/issues/12-books/is-the-internet-making-culture-worse"
-    ]
-  ],
-  [
-    [
       "2025-11-03, 18:27:32",
       "https://news.ycombinator.com/item?id=45802459"
     ],
@@ -31,22 +21,12 @@
   ],
   [
     [
-      "2025-11-03, 18:14:02",
-      "https://news.ycombinator.com/item?id=45802248"
+      "2025-11-03, 17:55:10",
+      "https://news.ycombinator.com/item?id=45802029"
     ],
     [
-      "America is bracing for political violence – and significant portion think its OK",
-      "https://www.politico.com/news/2025/11/03/poll-americans-political-violence-00632864"
-    ]
-  ],
-  [
-    [
-      "2025-11-03, 17:28:58",
-      "https://news.ycombinator.com/item?id=45801673"
-    ],
-    [
-      "Israels top military lawyer arrested after she admitted leaking video of abuse",
-      "https://www.theguardian.com/world/2025/nov/03/israels-top-military-lawyer-arrested-after-she-admitted-leaking-video-of-soldiers-abuse"
+      "The Case That A.I. Is Thinking",
+      "https://www.newyorker.com/magazine/2025/11/10/the-case-that-ai-is-thinking"
     ]
   ],
   [
@@ -67,6 +47,16 @@
     [
       "No Socials November",
       "https://bjhess.com/posts/no-socials-november"
+    ]
+  ],
+  [
+    [
+      "2025-11-03, 16:36:29",
+      "https://news.ycombinator.com/item?id=45800967"
+    ],
+    [
+      "Python Steering Council unanimously accepts \"PEP 810, Explicit lazy imports\"",
+      "https://discuss.python.org/t/pep-810-explicit-lazy-imports/104131?page=23"
     ]
   ],
   [
@@ -181,16 +171,6 @@
   ],
   [
     [
-      "2025-11-03, 13:29:17",
-      "https://news.ycombinator.com/item?id=45798746"
-    ],
-    [
-      "Offline Math: Converting LaTeX to SVG with MathJax",
-      "https://sigwait.org/~alex/blog/2025/10/07/3t8acq.html"
-    ]
-  ],
-  [
-    [
       "2025-11-03, 13:28:37",
       "https://news.ycombinator.com/item?id=45798741"
     ],
@@ -217,6 +197,16 @@
     [
       "The Case Against PGVector",
       "https://alex-jacobs.com/posts/the-case-against-pgvector/"
+    ]
+  ],
+  [
+    [
+      "2025-11-03, 12:05:28",
+      "https://news.ycombinator.com/item?id=45798193"
+    ],
+    [
+      "OSS Alternative to Open WebUI – ChatGPT-Like UI, API and CLI",
+      "https://github.com/ServiceStack/llms"
     ]
   ],
   [
@@ -267,6 +257,16 @@
     [
       "Measuring characteristics of TCP connections at Internet scale",
       "https://blog.cloudflare.com/measuring-network-connections-at-scale/"
+    ]
+  ],
+  [
+    [
+      "2025-10-28, 19:34:45",
+      "https://news.ycombinator.com/item?id=45737872"
+    ],
+    [
+      "Show HN: Tamagotchi P1 for FPGAs",
+      "https://github.com/agg23/fpga-tamagotchi"
     ]
   ],
   [
