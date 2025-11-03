@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-11-02](index.md)
 
 * [2025-11-02, 23:48:12](https://news.ycombinator.com/item?id=45794455) - [Amazon to start blocking sideloaded piracy apps on Fire TVs](https://www.aftvnews.com/amazon-to-start-blocking-sideloaded-piracy-apps-on-fire-tvs/)
+* [2025-11-02, 23:48:12](https://news.ycombinator.com/item?id=45794455) - [Amazon has launched a major global crackdown on Fire Stick piracy](https://www.the-sun.com/tech/15422622/amazon-fire-tv-stick-dodgy-apps-block-piracy-streaming/)
 * [2025-11-02, 22:32:42](https://news.ycombinator.com/item?id=45794032) - [Facts About Throwing Good Parties](https://www.atvbt.com/21-facts-about-throwing-good-parties/)
 * [2025-11-02, 22:27:08](https://news.ycombinator.com/item?id=45793982) - [The foods that make you smell more attractive](https://www.bbc.com/future/article/20251031-the-foods-that-make-you-smell-more-attractive)
 * [2025-11-02, 21:35:02](https://news.ycombinator.com/item?id=45793652) - [FurtherAI (Series A – A16Z, YC) Is Hiring Across Software and AI](https://news.ycombinator.com/item?id=45793652)
