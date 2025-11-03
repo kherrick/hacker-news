@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2025-11-03, 19:28:46",
+      "https://news.ycombinator.com/item?id=45803306"
+    ],
+    [
+      "FreakWAN: A floor-routing WAN implementing a chat over bare-LoRa (no LoRaWAN)",
+      "https://github.com/antirez/freakwan"
+    ]
+  ],
+  [
+    [
       "2025-11-03, 18:27:32",
       "https://news.ycombinator.com/item?id=45802459"
     ],
@@ -47,16 +57,6 @@
     [
       "Python Steering Council unanimously accepts \"PEP 810, Explicit lazy imports\"",
       "https://discuss.python.org/t/pep-810-explicit-lazy-imports/104131?page=23"
-    ]
-  ],
-  [
-    [
-      "2025-11-03, 16:35:44",
-      "https://news.ycombinator.com/item?id=45800955"
-    ],
-    [
-      "Why We Migrated from Python to Node.js",
-      "https://blog.yakkomajuri.com/blog/python-to-node"
     ]
   ],
   [
@@ -191,16 +191,6 @@
   ],
   [
     [
-      "2025-11-03, 12:05:28",
-      "https://news.ycombinator.com/item?id=45798193"
-    ],
-    [
-      "OSS Alternative to Open WebUI – ChatGPT-Like UI, API and CLI",
-      "https://github.com/ServiceStack/llms"
-    ]
-  ],
-  [
-    [
       "2025-11-03, 09:20:01",
       "https://news.ycombinator.com/item?id=45797242"
     ],
@@ -257,6 +247,16 @@
     [
       "Show HN: Tamagotchi P1 for FPGAs",
       "https://github.com/agg23/fpga-tamagotchi"
+    ]
+  ],
+  [
+    [
+      "2025-10-27, 13:36:34",
+      "https://news.ycombinator.com/item?id=45720919"
+    ],
+    [
+      "S1130 – IBM 1130 Emulator in C#",
+      "https://github.com/semuhphor/S1130/tree/feature/web-frontend"
     ]
   ],
   [
