@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-11-04](index.md)
 
+* [2025-11-04, 11:52:02](https://news.ycombinator.com/item?id=45809897) - [This Month in Ladybird – October 2025](https://ladybird.org/newsletter/2025-10-31/)
+* [2025-11-04, 11:47:46](https://news.ycombinator.com/item?id=45809876) - [Studio Ghibli, Bandai Namco, Square Enix Demand OpenAI to Stop Using Their IP](https://www.theverge.com/news/812545/coda-studio-ghibli-sora-2-copyright-infringement)
+* [2025-11-04, 11:47:06](https://news.ycombinator.com/item?id=45809866) - [Over $70T of inherited wealth over next decade will widen inequality, economists](https://www.theguardian.com/inequality/2025/nov/03/more-than-70tn-of-inherited-wealth-over-next-decade-will-widen-inequality-economists-warn)
 * [2025-11-04, 09:58:14](https://news.ycombinator.com/item?id=45809193) - [What Is a Manifold?](https://www.quantamagazine.org/what-is-a-manifold-20251103/)
 * [2025-11-04, 09:25:31](https://news.ycombinator.com/item?id=45808998) - [Bloom filters are good for search that does not scale](https://notpeerreviewed.com/blog/bloom-filters/)
 * [2025-11-04, 09:11:27](https://news.ycombinator.com/item?id=45808918) - [Show HN: Yourshoesmells.com – Find the most smelly boulder gym](https://yourshoesmells.com)

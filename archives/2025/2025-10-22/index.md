@@ -18,6 +18,7 @@
 * [2025-10-22, 20:46:06](https://news.ycombinator.com/item?id=45674923) - [Rethinking CQRS: An Interview on OpenCQRS](https://docs.eventsourcingdb.io/blog/2025/10/23/rethinking-cqrs-an-interview-on-opencqrs/)
 * [2025-10-22, 20:35:53](https://news.ycombinator.com/item?id=45674822) - [The Science of Satiety per Calorie](https://www.dietdoctor.com/satiety/science)
 * [2025-10-22, 20:30:58](https://news.ycombinator.com/item?id=45674766) - [A Fork in the Road: Deciding Kafka's Diskless Future](https://jack-vanlightly.com/blog/2025/10/22/a-fork-in-the-road-deciding-kafkas-diskless-future)
+* [2025-10-22, 20:23:09](https://news.ycombinator.com/item?id=45674676) - [The Farmer Was Replaced [video]](https://www.youtube.com/watch?v=aP2WHQKJVsw)
 * [2025-10-22, 20:13:31](https://news.ycombinator.com/item?id=45674568) - [Why SSA Compilers?](https://mcyoung.xyz/2025/10/21/ssa-1/)
 * [2025-10-22, 20:07:13](https://news.ycombinator.com/item?id=45674470) - [Notes on Waveguide Synthesis (2018)](https://www.osar.fr/notes/waveguides/)
 * [2025-10-22, 19:46:24](https://news.ycombinator.com/item?id=45674209) - [Django 6.0 beta 1 released](https://www.djangoproject.com/weblog/2025/oct/22/django-60-beta-released/)

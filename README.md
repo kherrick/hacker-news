@@ -1,5 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-11-04, 11:52:02](https://news.ycombinator.com/item?id=45809897) - [This Month in Ladybird – October 2025](https://ladybird.org/newsletter/2025-10-31/)
+* [2025-11-04, 11:47:46](https://news.ycombinator.com/item?id=45809876) - [Studio Ghibli, Bandai Namco, Square Enix Demand OpenAI to Stop Using Their IP](https://www.theverge.com/news/812545/coda-studio-ghibli-sora-2-copyright-infringement)
+* [2025-11-04, 11:47:06](https://news.ycombinator.com/item?id=45809866) - [Over $70T of inherited wealth over next decade will widen inequality, economists](https://www.theguardian.com/inequality/2025/nov/03/more-than-70tn-of-inherited-wealth-over-next-decade-will-widen-inequality-economists-warn)
 * [2025-11-04, 09:58:14](https://news.ycombinator.com/item?id=45809193) - [What Is a Manifold?](https://www.quantamagazine.org/what-is-a-manifold-20251103/)
 * [2025-11-04, 09:25:31](https://news.ycombinator.com/item?id=45808998) - [Bloom filters are good for search that does not scale](https://notpeerreviewed.com/blog/bloom-filters/)
 * [2025-11-04, 09:11:27](https://news.ycombinator.com/item?id=45808918) - [Show HN: Yourshoesmells.com – Find the most smelly boulder gym](https://yourshoesmells.com)
@@ -13,7 +16,6 @@
 * [2025-11-03, 22:54:20](https://news.ycombinator.com/item?id=45805458) - [Guideline has been acquired by Gusto](https://help.guideline.com/en/articles/12694322-guideline-has-joined-gusto-faqs-about-our-recent-acquisition)
 * [2025-11-03, 21:01:09](https://news.ycombinator.com/item?id=45804377) - [AI's Dial-Up Era](https://www.wreflection.com/p/ai-dial-up-era)
 * [2025-11-03, 20:37:34](https://news.ycombinator.com/item?id=45804122) - [The Mack Super Pumper was a locomotive engined fire fighter (2018)](https://bangshift.com/bangshiftxl/mack-super-pumper-system-locomotive-engine-powered-pumper-extinguish-hell-often/)
-* [2025-11-03, 18:27:32](https://news.ycombinator.com/item?id=45802459) - [Gallery of wonderful drawings our little thermal printer received](https://guestbook.goodenough.us)
 * [2025-11-03, 17:55:10](https://news.ycombinator.com/item?id=45802029) - [The Case That A.I. Is Thinking](https://www.newyorker.com/magazine/2025/11/10/the-case-that-ai-is-thinking)
 * [2025-11-03, 16:23:11](https://news.ycombinator.com/item?id=45800777) - [Learning to read Arthur Whitney's C to become smart (2024)](https://needleful.net/blog/2024/01/arthur_whitney.html)
 * [2025-11-03, 16:00:00](https://news.ycombinator.com/item?id=45800465) - [Ask HN: Who is hiring? (November 2025)](https://news.ycombinator.com/item?id=45800465)
@@ -21,15 +23,13 @@
 * [2025-11-03, 14:40:51](https://news.ycombinator.com/item?id=45799478) - [State of Terminal Emulators in 2025: The Errant Champions](https://www.jeffquast.com/post/state-of-terminal-emulation-2025/)
 * [2025-11-03, 12:50:27](https://news.ycombinator.com/item?id=45798479) - [The Case Against PGVector](https://alex-jacobs.com/posts/the-case-against-pgvector/)
 * [2025-11-03, 06:39:13](https://news.ycombinator.com/item?id=45796421) - [First recording of a dying human brain shows waves similar to memory flashbacks (2022)](https://louisville.edu/medicine/news/first-ever-recording-of-a-dying-human-brain-shows-waves-similar-to-memory-flashbacks)
-* [2025-11-01, 16:39:05](https://news.ycombinator.com/item?id=45783074) - [WebAssembly (WASM) arch support for the Linux kernel](https://github.com/joelseverin/linux-wasm)
 * [2025-10-29, 16:09:39](https://news.ycombinator.com/item?id=45748816) - [A visualization of the RGB space covered by named colors](https://codepen.io/meodai/full/zdgXJj/)
 * [2025-10-29, 08:37:36](https://news.ycombinator.com/item?id=45744209) - [Ask HN: How to deal with long vibe-coded PRs?](https://news.ycombinator.com/item?id=45744209)
 * [2025-10-28, 11:28:56](https://news.ycombinator.com/item?id=45731469) - [Resolution limit of the eye – how many pixels can we see?](https://www.nature.com/articles/s41467-025-64679-2)
 * [2025-10-28, 05:01:38](https://news.ycombinator.com/item?id=45729340) - [Reverse-engineered CUPS driver for Phomemo receipt/label printers](https://github.com/vivier/phomemo-tools)
-* [2025-10-28, 03:15:03](https://news.ycombinator.com/item?id=45728889) - [Is Your Data Valid? Why Bufstream Guarantees What Kafka Can't](https://vutr.substack.com/p/is-your-data-valid-why-bufstream)
 * [2025-10-27, 10:17:24](https://news.ycombinator.com/item?id=45719250) - [Inside an Isotemp OCXO107-10 Oven Controlled Crystal Oscillator](https://tomverbeure.github.io/2025/10/26/Inside-an-Isotemp-OCXO107-10.html)
 * [2025-10-27, 08:58:09](https://news.ycombinator.com/item?id=45718710) - [Tenacity – a multi-track audio editor/recorder](https://tenacityaudio.org)
-* [2025-10-24, 22:08:02](https://news.ycombinator.com/item?id=45699598) - [How to Draw a Tetrapod](https://dotat.at/@/2025-10-24-tetrapod.html)
+* [2025-10-22, 20:23:09](https://news.ycombinator.com/item?id=45674676) - [The Farmer Was Replaced [video]](https://www.youtube.com/watch?v=aP2WHQKJVsw)
 
 ## [Archives](archives/index.md)
 
