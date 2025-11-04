@@ -5,8 +5,10 @@
 ### [Archives](../../index.md) for [2025-11-04](index.md)
 
 * [2025-11-04, 18:06:42](https://news.ycombinator.com/item?id=45813994) - [We're open-sourcing the successor of Jupyter notebook](https://deepnote.com/blog/were-open-sourcing-the-successor-of-jupyter-notebook)
+* [2025-11-04, 17:47:09](https://news.ycombinator.com/item?id=45813767) - [Codemaps: Understand Code, Before You Vibe It](https://cognition.ai/blog/codemaps)
 * [2025-11-04, 17:44:12](https://news.ycombinator.com/item?id=45813734) - [Michael Burry a.k.a. \"Big Short\",discloses $1.1B bet against Nvidia&Palantir](https://sherwood.news/markets/michael-burry-big-short-discloses-1-1-billion-options-bet-against-nvidia-palantir-puts/)
 * [2025-11-04, 17:15:55](https://news.ycombinator.com/item?id=45813417) - [The Rust Foundation Maintainers Fund](https://rustfoundation.org/media/announcing-the-rust-foundation-maintainers-fund/)
+* [2025-11-04, 17:10:35](https://news.ycombinator.com/item?id=45813343) - [NoLongerEvil-Thermostat – Nest Generation 1 and 2 Firmware](https://github.com/codykociemba/NoLongerEvil-Thermostat)
 * [2025-11-04, 17:07:47](https://news.ycombinator.com/item?id=45813310) - [Launch HN: Plexe (YC X25) – Build production-grade ML models from prompts](https://www.plexe.ai/)
 * [2025-11-04, 17:04:47](https://news.ycombinator.com/item?id=45813267) - [Exploring a space-based, scalable AI infrastructure system design](https://research.google/blog/exploring-a-space-based-scalable-ai-infrastructure-system-design/)
 * [2025-11-04, 17:00:32](https://news.ycombinator.com/item?id=45813208) - [Inside Pinecone: Slab Architecture](https://www.pinecone.io/learn/slab-architecture/)
