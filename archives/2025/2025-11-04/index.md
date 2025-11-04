@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-11-04](index.md)
 
+* [2025-11-04, 22:59:22](https://news.ycombinator.com/item?id=45816879) - [Patching 68K Software – SimpleText](https://tinkerdifferent.com/threads/patching-68k-software-simpletext.4793/)
 * [2025-11-04, 21:48:26](https://news.ycombinator.com/item?id=45816260) - [US gives local police a face-scanning app similar to one used by ICE agents](https://arstechnica.com/tech-policy/2025/11/us-gives-local-police-a-face-scanning-app-similar-to-one-used-by-ice-agents/)
 * [2025-11-04, 21:42:29](https://news.ycombinator.com/item?id=45816217) - [CPUs and GPUs to Become More Expensive After TSMC Price Hike in 2026](https://www.guru3d.com/story/cpus-and-gpus-to-become-more-expensive-after-tsmc-price-hike-in-2026/)
 * [2025-11-04, 21:39:56](https://news.ycombinator.com/item?id=45816195) - [74% of CEOs worry AI failures could cost them their jobs](https://cfo.economictimes.indiatimes.com/news/74-of-ceos-worry-ai-failures-could-cost-them-their-jobs-report/118923383)
@@ -17,6 +18,7 @@
 * [2025-11-04, 18:06:42](https://news.ycombinator.com/item?id=45813994) - [We're open-sourcing the successor of Jupyter notebook](https://deepnote.com/blog/were-open-sourcing-the-successor-of-jupyter-notebook)
 * [2025-11-04, 17:47:09](https://news.ycombinator.com/item?id=45813767) - [Codemaps: Understand Code, Before You Vibe It](https://cognition.ai/blog/codemaps)
 * [2025-11-04, 17:44:12](https://news.ycombinator.com/item?id=45813734) - [Michael Burry a.k.a. \"Big Short\",discloses $1.1B bet against Nvidia&Palantir](https://sherwood.news/markets/michael-burry-big-short-discloses-1-1-billion-options-bet-against-nvidia-palantir-puts/)
+* [2025-11-04, 17:43:00](https://news.ycombinator.com/item?id=45813719) - [SocketAddrV6 is not roundtrip serializable](https://sunshowers.io/posts/socketaddrv6-not-roundtrip/)
 * [2025-11-04, 17:15:55](https://news.ycombinator.com/item?id=45813417) - [The Rust Foundation Maintainers Fund](https://rustfoundation.org/media/announcing-the-rust-foundation-maintainers-fund/)
 * [2025-11-04, 17:10:35](https://news.ycombinator.com/item?id=45813343) - [NoLongerEvil-Thermostat – Nest Generation 1 and 2 Firmware](https://github.com/codykociemba/NoLongerEvil-Thermostat)
 * [2025-11-04, 17:07:47](https://news.ycombinator.com/item?id=45813310) - [Launch HN: Plexe (YC X25) – Build production-grade ML models from prompts](https://www.plexe.ai/)
