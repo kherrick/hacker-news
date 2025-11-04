@@ -1,12 +1,22 @@
 [
   [
     [
-      "2025-11-04, 05:53:02",
-      "https://news.ycombinator.com/item?id=45807775"
+      "2025-11-04, 07:26:45",
+      "https://news.ycombinator.com/item?id=45808308"
     ],
     [
-      "Tell HN: X is opening any tweet link in a webview whether you press it or not",
-      "https://news.ycombinator.com/item?id=45807775"
+      "Lessons from 70 interviews on deploying AI Agents in production",
+      "https://mmc.vc/research/state-of-agentic-ai-founders-edition/"
+    ]
+  ],
+  [
+    [
+      "2025-11-04, 05:41:51",
+      "https://news.ycombinator.com/item?id=45807735"
+    ],
+    [
+      "Pain Points of OCaml",
+      "https://quamserena.com/2025-11-03/pain-points-of-ocaml"
     ]
   ],
   [
@@ -191,16 +201,6 @@
   ],
   [
     [
-      "2025-11-03, 13:21:09",
-      "https://news.ycombinator.com/item?id=45798681"
-    ],
-    [
-      "Why Nextcloud feels slow to use",
-      "https://ounapuu.ee/posts/2025/11/03/nextcloud-slow/"
-    ]
-  ],
-  [
-    [
       "2025-11-03, 12:50:27",
       "https://news.ycombinator.com/item?id=45798479"
     ],
@@ -291,12 +291,12 @@
   ],
   [
     [
-      "2025-10-24, 15:36:33",
-      "https://news.ycombinator.com/item?id=45695712"
+      "2025-10-25, 11:25:49",
+      "https://news.ycombinator.com/item?id=45702993"
     ],
     [
-      "Pixi: Reproducible Package Management for Robotics",
-      "https://prefix.dev/blog/reproducible-package-management-for-robotics"
+      "Visual Features Across Modalities: SVG and ASCII Art Cross-Modal Understanding",
+      "https://transformer-circuits.pub/2025/october-update/index.html#svg-cross-modal"
     ]
   ]
 ]
