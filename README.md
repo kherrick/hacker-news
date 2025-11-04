@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-11-04, 02:58:40](https://news.ycombinator.com/item?id=45807018) - [An individual can change an organization](https://notes.eatonphil.com/2025-11-03-an-individual-can-change-an-organization.html)
-* [2025-11-04, 02:37:01](https://news.ycombinator.com/item?id=45806903) - [My Truck Desk](https://www.theparisreview.org/blog/2025/10/29/truck-desk/)
 * [2025-11-04, 00:48:56](https://news.ycombinator.com/item?id=45806348) - [When stick figures fought](https://animationobsessive.substack.com/p/when-stick-figures-fought)
 * [2025-11-03, 23:49:03](https://news.ycombinator.com/item?id=45805900) - [Things you can do with diodes](https://lcamtuf.substack.com/p/things-you-can-do-with-diodes)
 * [2025-11-03, 23:04:22](https://news.ycombinator.com/item?id=45805539) - [A friendly tour of process memory on Linux](https://www.0xkato.xyz/linux-process-memory/)
@@ -22,6 +21,7 @@
 * [2025-11-03, 12:50:27](https://news.ycombinator.com/item?id=45798479) - [The Case Against PGVector](https://alex-jacobs.com/posts/the-case-against-pgvector/)
 * [2025-11-03, 06:39:13](https://news.ycombinator.com/item?id=45796421) - [First recording of a dying human brain shows waves similar to memory flashbacks (2022)](https://louisville.edu/medicine/news/first-ever-recording-of-a-dying-human-brain-shows-waves-similar-to-memory-flashbacks)
 * [2025-11-01, 16:39:05](https://news.ycombinator.com/item?id=45783074) - [WebAssembly (WASM) arch support for the Linux kernel](https://github.com/joelseverin/linux-wasm)
+* [2025-10-30, 03:13:23](https://news.ycombinator.com/item?id=45756058) - [Why is Python's OrderedDict ordered?](https://www.piglei.com/articles/en-why-is-python-ordereddict-ordered/)
 * [2025-10-29, 16:09:39](https://news.ycombinator.com/item?id=45748816) - [A visualization of the RGB space covered by named colors](https://codepen.io/meodai/full/zdgXJj/)
 * [2025-10-29, 08:37:36](https://news.ycombinator.com/item?id=45744209) - [Ask HN: How to deal with long vibe-coded PRs?](https://news.ycombinator.com/item?id=45744209)
 * [2025-10-28, 00:30:23](https://news.ycombinator.com/item?id=45728017) - [Handwriting Programs in J (2017)](https://www.hillelwayne.com/handwriting-j/)

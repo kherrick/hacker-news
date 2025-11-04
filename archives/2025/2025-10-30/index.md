@@ -51,6 +51,7 @@
 * [2025-10-30, 10:23:03](https://news.ycombinator.com/item?id=45758318) - [Trump directs nuclear weapons testing to resume for first time in over 30 years](https://www.bbc.com/news/articles/c4gzq2p0yk4o)
 * [2025-10-30, 09:47:24](https://news.ycombinator.com/item?id=45758093) - [Language Models Are Injective and Hence Invertible](https://arxiv.org/abs/2510.15511)
 * [2025-10-30, 04:29:45](https://news.ycombinator.com/item?id=45756445) - [Carlo Rovelli: 'Time Is an Illusion'](https://www.quantamagazine.org/carlo-rovellis-radical-perspective-on-reality-20251029/)
+* [2025-10-30, 03:13:23](https://news.ycombinator.com/item?id=45756058) - [Why is Python's OrderedDict ordered?](https://www.piglei.com/articles/en-why-is-python-ordereddict-ordered/)
 * [2025-10-30, 02:48:21](https://news.ycombinator.com/item?id=45755911) - [One Year with Next.js App Router – Why We're Moving On](https://paperclover.net/blog/webdev/one-year-next-app-router)
 * [2025-10-30, 02:37:35](https://news.ycombinator.com/item?id=45755821) - [Hello-World iOS App in Assembly](https://gist.github.com/nicolas17/966a03ce49f949dd17b0123415ef2e31)
 * [2025-10-30, 02:31:43](https://news.ycombinator.com/item?id=45755788) - [IRCd service written in awk](https://example.fi/blog/ircd.html)
