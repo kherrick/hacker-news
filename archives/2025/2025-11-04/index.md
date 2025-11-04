@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-11-04](index.md)
 
+* [2025-11-04, 21:48:26](https://news.ycombinator.com/item?id=45816260) - [US gives local police a face-scanning app similar to one used by ICE agents](https://arstechnica.com/tech-policy/2025/11/us-gives-local-police-a-face-scanning-app-similar-to-one-used-by-ice-agents/)
+* [2025-11-04, 21:42:29](https://news.ycombinator.com/item?id=45816217) - [CPUs and GPUs to Become More Expensive After TSMC Price Hike in 2026](https://www.guru3d.com/story/cpus-and-gpus-to-become-more-expensive-after-tsmc-price-hike-in-2026/)
+* [2025-11-04, 21:19:15](https://news.ycombinator.com/item?id=45816013) - [AI and Copyright: Expanding Copyright Hurts Everyone–Here's What to Do Instead](https://www.eff.org/deeplinks/2025/02/ai-and-copyright-expanding-copyright-hurts-everyone-heres-what-do-instead)
 * [2025-11-04, 21:03:11](https://news.ycombinator.com/item?id=45815857) - [Paramount blacklists actors for pro-Palestinian activism](https://www.worldofreel.com/blog/2025/11/4/paramount-has-blacklisted-talent-deemed-overtly-antisemitic)
 * [2025-11-04, 20:26:35](https://news.ycombinator.com/item?id=45815515) - [How AGI became the most consequential conspiracy theory of our time](https://www.technologyreview.com/2025/10/30/1127057/agi-conspiracy-theory-artifcial-general-intelligence/)
 * [2025-11-04, 19:34:26](https://news.ycombinator.com/item?id=45815010) - [Cheaper MacBook powered by iPhone chip coming in 2026, per new report](https://9to5mac.com/2025/11/04/cheaper-macbook-powered-by-iphone-chip-coming-in-2026-per-new-report/)
