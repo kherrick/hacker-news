@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-11-04, 17:07:47](https://news.ycombinator.com/item?id=45813310) - [Launch HN: Plexe (YC X25) – Build production-grade ML models from prompts](https://www.plexe.ai/)
+* [2025-11-04, 17:04:47](https://news.ycombinator.com/item?id=45813267) - [Exploring a space-based, scalable AI infrastructure system design](https://research.google/blog/exploring-a-space-based-scalable-ai-infrastructure-system-design/)
+* [2025-11-04, 16:59:05](https://news.ycombinator.com/item?id=45813195) - [US nuclear weapons testing can forever scar a nation.Just ask Marshall Island](https://www.cnn.com/2025/11/04/asia/nuclear-testing-marshall-islands-legacy-intl-hnk-dst)
 * [2025-11-04, 16:54:27](https://news.ycombinator.com/item?id=45813148) - [Data breach at major Swedish software supplier impacts 1.5M](https://www.bleepingcomputer.com/news/security/data-breach-at-major-swedish-software-supplier-impacts-15-million/)
 * [2025-11-04, 16:36:52](https://news.ycombinator.com/item?id=45812901) - [YouTube AI error costs creator his channel over alleged link to Japanese account](https://piunikaweb.com/2025/11/04/youtube-ai-error-terminates-enderman-channel/)
 * [2025-11-04, 16:12:27](https://news.ycombinator.com/item?id=45812606) - [Pg_lake: Postgres with Iceberg and data lake access](https://github.com/Snowflake-Labs/pg_lake)
@@ -11,7 +13,6 @@
 * [2025-11-04, 14:31:27](https://news.ycombinator.com/item?id=45811447) - [Optimizing Datalog for the GPU](https://danglingpointers.substack.com/p/optimizing-datalog-for-the-gpu)
 * [2025-11-04, 13:58:35](https://news.ycombinator.com/item?id=45811093) - [Show HN: A CSS-Only Terrain Generator](https://terra.layoutit.com)
 * [2025-11-04, 13:34:45](https://news.ycombinator.com/item?id=45810856) - [Show HN: I built a local-first daily planner for iOS](https://apps.apple.com/ca/app/to-do-list-planner-zesfy/id6479947874)
-* [2025-11-04, 13:15:52](https://news.ycombinator.com/item?id=45810676) - [The Art of Atari (2016)](http://www.artofatari.com)
 * [2025-11-04, 12:52:54](https://news.ycombinator.com/item?id=45810430) - [Chaining FFmpeg with a Browser Agent](https://100x.bot/a/chaining-ffmpeg-with-browser-agent)
 * [2025-11-04, 09:58:14](https://news.ycombinator.com/item?id=45809193) - [What is a manifold?](https://www.quantamagazine.org/what-is-a-manifold-20251103/)
 * [2025-11-04, 09:25:31](https://news.ycombinator.com/item?id=45808998) - [Bloom filters are good for search that does not scale](https://notpeerreviewed.com/blog/bloom-filters/)
@@ -29,7 +30,6 @@
 * [2025-10-27, 08:58:09](https://news.ycombinator.com/item?id=45718710) - [Tenacity – a multi-track audio editor/recorder](https://tenacityaudio.org)
 * [2025-10-25, 08:52:11](https://news.ycombinator.com/item?id=45702316) - [Customize Nano Text Editor](https://shafi.ddns.net/blog/customize-nano-text-editor)
 * [2025-10-23, 17:38:38](https://news.ycombinator.com/item?id=45684564) - [Recovering videos from my Sony camera that I stupidly deleted](https://www.jeffgeerling.com/blog/2025/recovering-videos-my-sony-camera-i-stupidly-deleted)
-* [2025-10-22, 20:23:09](https://news.ycombinator.com/item?id=45674676) - [The Farmer Was Replaced [video]](https://www.youtube.com/watch?v=aP2WHQKJVsw)
 
 ## [Archives](archives/index.md)
 
