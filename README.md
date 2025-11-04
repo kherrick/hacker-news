@@ -26,9 +26,9 @@
 * [2025-10-29, 16:09:39](https://news.ycombinator.com/item?id=45748816) - [A visualization of the RGB space covered by named colors](https://codepen.io/meodai/full/zdgXJj/)
 * [2025-10-29, 08:37:36](https://news.ycombinator.com/item?id=45744209) - [Ask HN: How to deal with long vibe-coded PRs?](https://news.ycombinator.com/item?id=45744209)
 * [2025-10-28, 11:28:56](https://news.ycombinator.com/item?id=45731469) - [Resolution limit of the eye – how many pixels can we see?](https://www.nature.com/articles/s41467-025-64679-2)
+* [2025-10-28, 05:01:38](https://news.ycombinator.com/item?id=45729340) - [Reverse-engineered CUPS driver for Phomemo receipt/label printers](https://github.com/vivier/phomemo-tools)
 * [2025-10-27, 10:17:24](https://news.ycombinator.com/item?id=45719250) - [Inside an Isotemp OCXO107-10 Oven Controlled Crystal Oscillator](https://tomverbeure.github.io/2025/10/26/Inside-an-Isotemp-OCXO107-10.html)
 * [2025-10-27, 08:58:09](https://news.ycombinator.com/item?id=45718710) - [Tenacity – a multi-track audio editor/recorder](https://tenacityaudio.org)
-* [2025-10-26, 20:23:58](https://news.ycombinator.com/item?id=45714937) - [The MP3.com Rescue Barge Barge](https://blog.somnolescent.net/2025/09/mp3-com-rescue-barge-barge/)
 * [2025-10-24, 22:08:02](https://news.ycombinator.com/item?id=45699598) - [How to Draw a Tetrapod](https://dotat.at/@/2025-10-24-tetrapod.html)
 
 ## [Archives](archives/index.md)
