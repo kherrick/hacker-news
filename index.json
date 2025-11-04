@@ -31,16 +31,6 @@
   ],
   [
     [
-      "2025-11-04, 08:27:23",
-      "https://news.ycombinator.com/item?id=45808690"
-    ],
-    [
-      "Some software bloat is OK",
-      "https://waspdev.com/articles/2025-11-04/some-software-bloat-is-ok"
-    ]
-  ],
-  [
-    [
       "2025-11-04, 07:26:45",
       "https://news.ycombinator.com/item?id=45808308"
     ],
@@ -267,6 +257,16 @@
     [
       "Reverse-engineered CUPS driver for Phomemo receipt/label printers",
       "https://github.com/vivier/phomemo-tools"
+    ]
+  ],
+  [
+    [
+      "2025-10-28, 03:15:03",
+      "https://news.ycombinator.com/item?id=45728889"
+    ],
+    [
+      "Is Your Data Valid? Why Bufstream Guarantees What Kafka Can't",
+      "https://vutr.substack.com/p/is-your-data-valid-why-bufstream"
     ]
   ],
   [
