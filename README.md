@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-11-04, 00:48:56](https://news.ycombinator.com/item?id=45806348) - [When stick figures fought](https://animationobsessive.substack.com/p/when-stick-figures-fought)
 * [2025-11-03, 23:49:03](https://news.ycombinator.com/item?id=45805900) - [Things you can do with diodes](https://lcamtuf.substack.com/p/things-you-can-do-with-diodes)
 * [2025-11-03, 23:04:22](https://news.ycombinator.com/item?id=45805539) - [A friendly tour of process memory on Linux](https://www.0xkato.xyz/linux-process-memory/)
 * [2025-11-03, 23:01:08](https://news.ycombinator.com/item?id=45805514) - [Linkers: A 20 Part Series (2007)](https://www.airs.com/blog/archives/38)
@@ -24,9 +25,8 @@
 * [2025-11-03, 06:39:13](https://news.ycombinator.com/item?id=45796421) - [First recording of a dying human brain shows waves similar to memory flashbacks (2022)](https://louisville.edu/medicine/news/first-ever-recording-of-a-dying-human-brain-shows-waves-similar-to-memory-flashbacks)
 * [2025-11-01, 16:39:05](https://news.ycombinator.com/item?id=45783074) - [WebAssembly (WASM) arch support for the Linux kernel](https://github.com/joelseverin/linux-wasm)
 * [2025-10-29, 16:09:39](https://news.ycombinator.com/item?id=45748816) - [A visualization of the RGB space covered by named colors](https://codepen.io/meodai/full/zdgXJj/)
-* [2025-10-28, 19:34:45](https://news.ycombinator.com/item?id=45737872) - [Show HN: Tamagotchi P1 for FPGAs](https://github.com/agg23/fpga-tamagotchi)
-* [2025-10-28, 00:30:23](https://news.ycombinator.com/item?id=45728017) - [Handwriting Programs in J](https://www.hillelwayne.com/handwriting-j/)
-* [2025-10-27, 13:36:34](https://news.ycombinator.com/item?id=45720919) - [S1130 – IBM 1130 Emulator in C#](https://github.com/semuhphor/S1130/tree/feature/web-frontend)
+* [2025-10-28, 00:30:23](https://news.ycombinator.com/item?id=45728017) - [Handwriting Programs in J (2017)](https://www.hillelwayne.com/handwriting-j/)
+* [2025-10-27, 10:17:24](https://news.ycombinator.com/item?id=45719250) - [Inside An Isotemp Oven Controlled Crystal Oscillator](https://tomverbeure.github.io/2025/10/26/Inside-an-Isotemp-OCXO107-10.html)
 * [2025-10-26, 20:23:58](https://news.ycombinator.com/item?id=45714937) - [The MP3.com Rescue Barge Barge](https://blog.somnolescent.net/2025/09/mp3-com-rescue-barge-barge/)
 * [2025-10-24, 15:36:33](https://news.ycombinator.com/item?id=45695712) - [Pixi: Reproducible Package Management for Robotics](https://prefix.dev/blog/reproducible-package-management-for-robotics)
 * [2025-10-23, 11:23:51](https://news.ycombinator.com/item?id=45680602) - [Harder, Better, Faster, Stronger Version of Uber H3 in Rust](https://grim7reaper.github.io/blog/2023/01/09/the-hydronium-project/)
