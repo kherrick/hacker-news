@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-11-04](index.md)
 
+* [2025-11-04, 12:27:46](https://news.ycombinator.com/item?id=45810127) - [Ask HN: Why are most status pages delayed?](https://news.ycombinator.com/item?id=45810127)
+* [2025-11-04, 11:56:23](https://news.ycombinator.com/item?id=45809932) - [Former US Vice-President Cheney Dies](https://www.reuters.com/world/us/former-us-vp-dick-cheney-dead-84-punchbowl-news-says-2025-11-04/)
 * [2025-11-04, 11:52:02](https://news.ycombinator.com/item?id=45809897) - [This Month in Ladybird – October 2025](https://ladybird.org/newsletter/2025-10-31/)
 * [2025-11-04, 11:47:46](https://news.ycombinator.com/item?id=45809876) - [Studio Ghibli, Bandai Namco, Square Enix Demand OpenAI to Stop Using Their IP](https://www.theverge.com/news/812545/coda-studio-ghibli-sora-2-copyright-infringement)
 * [2025-11-04, 11:47:06](https://news.ycombinator.com/item?id=45809866) - [Over $70T of inherited wealth over next decade will widen inequality, economists](https://www.theguardian.com/inequality/2025/nov/03/more-than-70tn-of-inherited-wealth-over-next-decade-will-widen-inequality-economists-warn)
