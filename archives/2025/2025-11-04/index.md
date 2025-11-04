@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-11-04](index.md)
 
+* [2025-11-04, 23:35:27](https://news.ycombinator.com/item?id=45817167) - [Uncle Sam wants to scan your iris and collect your DNA, citizen or not](https://www.theregister.com/2025/11/04/dhs_wants_to_collect_biometric_data/)
 * [2025-11-04, 23:13:06](https://news.ycombinator.com/item?id=45816981) - [WASM 45% slower than Native Code](https://ar5iv.labs.arxiv.org/html/1901.09056)
 * [2025-11-04, 23:11:20](https://news.ycombinator.com/item?id=45816968) - [Google Removed 749M Anna's Archive URLs from Its Search Results](https://torrentfreak.com/google-removed-749-million-annas-archive-urls-from-its-search-results/)
 * [2025-11-04, 23:07:57](https://news.ycombinator.com/item?id=45816946) - [Border Patrol agent testifies sandwich thrown at him \"exploded all over,\"](https://www.cbsnews.com/news/sean-dunn-trial-dc-sandwich-thrower-testimony-onions-mustard/)
@@ -17,6 +18,7 @@
 * [2025-11-04, 21:22:15](https://news.ycombinator.com/item?id=45816041) - [Send this article to your friend who still thinks the cloud is a good idea](https://rameerez.com/send-this-article-to-your-friend-who-still-thinks-the-cloud-is-a-good-idea/)
 * [2025-11-04, 21:19:15](https://news.ycombinator.com/item?id=45816013) - [AI and Copyright: Expanding Copyright Hurts Everyone–Here's What to Do Instead](https://www.eff.org/deeplinks/2025/02/ai-and-copyright-expanding-copyright-hurts-everyone-heres-what-do-instead)
 * [2025-11-04, 21:03:11](https://news.ycombinator.com/item?id=45815857) - [Paramount blacklists actors for pro-Palestinian activism](https://www.worldofreel.com/blog/2025/11/4/paramount-has-blacklisted-talent-deemed-overtly-antisemitic)
+* [2025-11-04, 20:38:27](https://news.ycombinator.com/item?id=45815623) - [Precompiled headers and why Squid won't be using them (2023)](https://squidproxy.wordpress.com/2023/10/10/precompiled-headers-and-why-squid-wont-be-using-them/)
 * [2025-11-04, 20:26:35](https://news.ycombinator.com/item?id=45815515) - [How AGI became the most consequential conspiracy theory of our time](https://www.technologyreview.com/2025/10/30/1127057/agi-conspiracy-theory-artifcial-general-intelligence/)
 * [2025-11-04, 19:34:26](https://news.ycombinator.com/item?id=45815010) - [Cheaper MacBook powered by iPhone chip coming in 2026, per new report](https://9to5mac.com/2025/11/04/cheaper-macbook-powered-by-iphone-chip-coming-in-2026-per-new-report/)
 * [2025-11-04, 18:48:06](https://news.ycombinator.com/item?id=45814522) - [Man spent 200 days building a solar-powered explorer yacht that can run forever](https://supercarblondie.com/solar-powered-explorer-yacht-helios-11/)
