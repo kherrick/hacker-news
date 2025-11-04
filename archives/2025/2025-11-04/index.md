@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-11-04](index.md)
 
+* [2025-11-04, 23:13:06](https://news.ycombinator.com/item?id=45816981) - [WASM 45% slower than Native Code](https://ar5iv.labs.arxiv.org/html/1901.09056)
+* [2025-11-04, 23:07:57](https://news.ycombinator.com/item?id=45816946) - [Border Patrol agent testifies sandwich thrown at him \"exploded all over,\"](https://www.cbsnews.com/news/sean-dunn-trial-dc-sandwich-thrower-testimony-onions-mustard/)
 * [2025-11-04, 22:59:22](https://news.ycombinator.com/item?id=45816879) - [Patching 68K Software – SimpleText](https://tinkerdifferent.com/threads/patching-68k-software-simpletext.4793/)
 * [2025-11-04, 21:48:26](https://news.ycombinator.com/item?id=45816260) - [US gives local police a face-scanning app similar to one used by ICE agents](https://arstechnica.com/tech-policy/2025/11/us-gives-local-police-a-face-scanning-app-similar-to-one-used-by-ice-agents/)
 * [2025-11-04, 21:42:29](https://news.ycombinator.com/item?id=45816217) - [CPUs and GPUs to Become More Expensive After TSMC Price Hike in 2026](https://www.guru3d.com/story/cpus-and-gpus-to-become-more-expensive-after-tsmc-price-hike-in-2026/)

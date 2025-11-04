@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-11-04, 23:13:06](https://news.ycombinator.com/item?id=45816981) - [WASM 45% slower than Native Code](https://ar5iv.labs.arxiv.org/html/1901.09056)
+* [2025-11-04, 23:07:57](https://news.ycombinator.com/item?id=45816946) - [Border Patrol agent testifies sandwich thrown at him \"exploded all over,\"](https://www.cbsnews.com/news/sean-dunn-trial-dc-sandwich-thrower-testimony-onions-mustard/)
 * [2025-11-04, 22:59:22](https://news.ycombinator.com/item?id=45816879) - [Patching 68K Software – SimpleText](https://tinkerdifferent.com/threads/patching-68k-software-simpletext.4793/)
 * [2025-11-04, 21:39:56](https://news.ycombinator.com/item?id=45816195) - [74% of CEOs worry AI failures could cost them their jobs](https://cfo.economictimes.indiatimes.com/news/74-of-ceos-worry-ai-failures-could-cost-them-their-jobs-report/118923383)
 * [2025-11-04, 21:22:15](https://news.ycombinator.com/item?id=45816041) - [Send this article to your friend who still thinks the cloud is a good idea](https://rameerez.com/send-this-article-to-your-friend-who-still-thinks-the-cloud-is-a-good-idea/)
@@ -7,7 +9,6 @@
 * [2025-11-04, 17:43:00](https://news.ycombinator.com/item?id=45813719) - [SocketAddrV6 is not roundtrip serializable](https://sunshowers.io/posts/socketaddrv6-not-roundtrip/)
 * [2025-11-04, 17:10:35](https://news.ycombinator.com/item?id=45813343) - [NoLongerEvil-Thermostat – Nest Generation 1 and 2 Firmware](https://github.com/codykociemba/NoLongerEvil-Thermostat)
 * [2025-11-04, 17:07:47](https://news.ycombinator.com/item?id=45813310) - [Launch HN: Plexe (YC X25) – Build production-grade ML models from prompts](https://www.plexe.ai/)
-* [2025-11-04, 16:54:27](https://news.ycombinator.com/item?id=45813148) - [Data breach at major Swedish software supplier impacts 1.5M](https://www.bleepingcomputer.com/news/security/data-breach-at-major-swedish-software-supplier-impacts-15-million/)
 * [2025-11-04, 16:12:27](https://news.ycombinator.com/item?id=45812606) - [Pg_lake: Postgres with Iceberg and data lake access](https://github.com/Snowflake-Labs/pg_lake)
 * [2025-11-04, 15:23:14](https://news.ycombinator.com/item?id=45812024) - [This Day in 1988, the Morris worm infected 10% of the Internet within 24 hours](https://www.tomshardware.com/tech-industry/cyber-security/on-this-day-in-1988-the-morris-worm-slithered-out-and-sparked-a-new-era-in-cybersecurity-10-percent-of-the-internet-was-infected-within-24-hours)
 * [2025-11-04, 15:21:16](https://news.ycombinator.com/item?id=45812000) - [How devtools map minified JS code back to your TypeScript source code](https://www.polarsignals.com/blog/posts/2025/11/04/javascript-source-maps-internals)
@@ -21,15 +22,14 @@
 * [2025-11-04, 00:48:56](https://news.ycombinator.com/item?id=45806348) - [When stick figures fought](https://animationobsessive.substack.com/p/when-stick-figures-fought)
 * [2025-11-04, 00:37:14](https://news.ycombinator.com/item?id=45806263) - [You can't cURL a Border](https://drobinin.com/posts/you-cant-curl-a-border/)
 * [2025-11-03, 23:49:03](https://news.ycombinator.com/item?id=45805900) - [Things you can do with diodes](https://lcamtuf.substack.com/p/things-you-can-do-with-diodes)
-* [2025-11-03, 23:04:22](https://news.ycombinator.com/item?id=45805539) - [A friendly tour of process memory on Linux](https://www.0xkato.xyz/linux-process-memory/)
 * [2025-10-31, 12:11:03](https://news.ycombinator.com/item?id=45771151) - [By the Power of Grayscale](https://zserge.com/posts/grayskull/)
 * [2025-10-28, 15:36:39](https://news.ycombinator.com/item?id=45734259) - [Whole Earth Index](https://wholeearth.info/)
+* [2025-10-28, 15:08:31](https://news.ycombinator.com/item?id=45733836) - [Frozen String Literals: Past, Present, Future?](https://byroot.github.io/ruby/performance/2025/10/28/string-literals.html)
 * [2025-10-28, 05:01:38](https://news.ycombinator.com/item?id=45729340) - [Reverse-engineered CUPS driver for Phomemo receipt/label printers](https://github.com/vivier/phomemo-tools)
 * [2025-10-27, 11:27:42](https://news.ycombinator.com/item?id=45719732) - [Zip Files All the Way Down (2010)](https://research.swtch.com/zip)
 * [2025-10-27, 08:58:09](https://news.ycombinator.com/item?id=45718710) - [Tenacity – a multi-track audio editor/recorder](https://tenacityaudio.org)
 * [2025-10-25, 08:52:11](https://news.ycombinator.com/item?id=45702316) - [Customize Nano Text Editor](https://shafi.ddns.net/blog/customize-nano-text-editor)
 * [2025-10-24, 07:54:17](https://news.ycombinator.com/item?id=45692042) - [Singing bus horns in West Sumatra](https://www.auralarchipelago.com/auralarchipelago/kalason)
-* [2025-10-23, 17:38:38](https://news.ycombinator.com/item?id=45684564) - [Recovering videos from my Sony camera that I stupidly deleted](https://www.jeffgeerling.com/blog/2025/recovering-videos-my-sony-camera-i-stupidly-deleted)
 
 ## [Archives](archives/index.md)
 

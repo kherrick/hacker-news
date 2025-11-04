@@ -48,6 +48,7 @@
 * [2025-10-28, 15:53:52](https://news.ycombinator.com/item?id=45734486) - [Nvidia takes $1B stake in Nokia](https://www.cnbc.com/2025/10/28/nvidia-nokia-ai.html)
 * [2025-10-28, 15:49:51](https://news.ycombinator.com/item?id=45734429) - [Show HN: Research Hacker News, ArXiv & Google with Hierarchical Bayesian Models](https://sturdystatistics.com/deepdive-search)
 * [2025-10-28, 15:36:39](https://news.ycombinator.com/item?id=45734259) - [Whole Earth Index](https://wholeearth.info/)
+* [2025-10-28, 15:08:31](https://news.ycombinator.com/item?id=45733836) - [Frozen String Literals: Past, Present, Future?](https://byroot.github.io/ruby/performance/2025/10/28/string-literals.html)
 * [2025-10-28, 15:02:59](https://news.ycombinator.com/item?id=45733772) - [How to build a 747 – A WorldFlight Story](https://www.x-plane.com/2025/10/how-to-build-a-747-a-worldflight-story/)
 * [2025-10-28, 14:58:04](https://news.ycombinator.com/item?id=45733707) - [EuroLLM: LLM made in Europe built to support all 24 official EU languages](https://eurollm.io/)
 * [2025-10-28, 14:43:19](https://news.ycombinator.com/item?id=45733525) - [Text2SQL is dead – long live text2SQL](https://www.exasol.com/blog/text-to-sql-governance/)
