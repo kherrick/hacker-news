@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-11-04, 08:27:23](https://news.ycombinator.com/item?id=45808690) - [Some software bloat is OK](https://waspdev.com/articles/2025-11-04/some-software-bloat-is-ok)
 * [2025-11-04, 07:26:45](https://news.ycombinator.com/item?id=45808308) - [Lessons from 70 interviews on deploying AI Agents in production](https://mmc.vc/research/state-of-agentic-ai-founders-edition/)
 * [2025-11-04, 05:41:51](https://news.ycombinator.com/item?id=45807735) - [Pain Points of OCaml](https://quamserena.com/2025-11-03/pain-points-of-ocaml)
 * [2025-11-04, 04:53:46](https://news.ycombinator.com/item?id=45807542) - [Why AC is cheap, but AC repair is a luxury](https://a16z.substack.com/p/why-ac-is-cheap-but-ac-repair-is)
@@ -9,7 +10,6 @@
 * [2025-11-04, 00:37:14](https://news.ycombinator.com/item?id=45806263) - [You can't cURL a Border](https://drobinin.com/posts/you-cant-curl-a-border/)
 * [2025-11-03, 23:49:03](https://news.ycombinator.com/item?id=45805900) - [Things you can do with diodes](https://lcamtuf.substack.com/p/things-you-can-do-with-diodes)
 * [2025-11-03, 23:04:22](https://news.ycombinator.com/item?id=45805539) - [A friendly tour of process memory on Linux](https://www.0xkato.xyz/linux-process-memory/)
-* [2025-11-03, 23:01:08](https://news.ycombinator.com/item?id=45805514) - [Linkers (2007)](https://www.airs.com/blog/archives/38)
 * [2025-11-03, 22:54:20](https://news.ycombinator.com/item?id=45805458) - [Guideline has been acquired by Gusto](https://help.guideline.com/en/articles/12694322-guideline-has-joined-gusto-faqs-about-our-recent-acquisition)
 * [2025-11-03, 21:01:09](https://news.ycombinator.com/item?id=45804377) - [AI's Dial-Up Era](https://www.wreflection.com/p/ai-dial-up-era)
 * [2025-11-03, 20:37:34](https://news.ycombinator.com/item?id=45804122) - [The Mack Super Pumper was a locomotive engined fire fighter (2018)](https://bangshift.com/bangshiftxl/mack-super-pumper-system-locomotive-engine-powered-pumper-extinguish-hell-often/)
@@ -29,7 +29,7 @@
 * [2025-10-27, 10:17:24](https://news.ycombinator.com/item?id=45719250) - [Inside an Isotemp OCXO107-10 Oven Controlled Crystal Oscillator](https://tomverbeure.github.io/2025/10/26/Inside-an-Isotemp-OCXO107-10.html)
 * [2025-10-27, 08:58:09](https://news.ycombinator.com/item?id=45718710) - [Tenacity – a multi-track audio editor/recorder](https://tenacityaudio.org)
 * [2025-10-26, 20:23:58](https://news.ycombinator.com/item?id=45714937) - [The MP3.com Rescue Barge Barge](https://blog.somnolescent.net/2025/09/mp3-com-rescue-barge-barge/)
-* [2025-10-25, 11:25:49](https://news.ycombinator.com/item?id=45702993) - [Visual Features Across Modalities: SVG and ASCII Art Cross-Modal Understanding](https://transformer-circuits.pub/2025/october-update/index.html#svg-cross-modal)
+* [2025-10-24, 22:08:02](https://news.ycombinator.com/item?id=45699598) - [How to Draw a Tetrapod](https://dotat.at/@/2025-10-24-tetrapod.html)
 
 ## [Archives](archives/index.md)
 

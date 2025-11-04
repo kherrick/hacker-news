@@ -9,6 +9,7 @@
 * [2025-10-24, 23:07:21](https://news.ycombinator.com/item?id=45700008) - [The Peter Principle and exploiting overconfident workers](https://marginalrevolution.com/marginalrevolution/2025/10/the-peter-principle-and-exploiting-overconfident-workers.html)
 * [2025-10-24, 22:23:50](https://news.ycombinator.com/item?id=45699725) - [New OSM file format: 30% smaller than PBF, 5x faster to import](https://community.openstreetmap.org/t/new-osm-file-format-30-smaller-than-pbf-5x-faster-to-import/137151)
 * [2025-10-24, 22:12:05](https://news.ycombinator.com/item?id=45699618) - [Google Pixel's most dangerous bug: failing to call 911](https://www.androidpolice.com/google-pixels-most-dangerous-bug-refuses-to-die/)
+* [2025-10-24, 22:08:02](https://news.ycombinator.com/item?id=45699598) - [How to Draw a Tetrapod](https://dotat.at/@/2025-10-24-tetrapod.html)
 * [2025-10-24, 21:29:17](https://news.ycombinator.com/item?id=45699294) - [Leaving the Freedesktop.org Community](https://vt.social/@lina/115431232807081648)
 * [2025-10-24, 21:28:39](https://news.ycombinator.com/item?id=45699285) - [Dead soldiers' teeth reveal diseases that doomed Napoleon's army](https://www.washingtonpost.com/science/2025/10/24/napoleons-army-diseases-ancient-dna-teeth/)
 * [2025-10-24, 21:00:27](https://news.ycombinator.com/item?id=45699023) - [Conductor (YC S24) Is Hiring a Founding Engineer in San Francisco](https://www.ycombinator.com/companies/conductor/jobs/MYjJzBV-founding-engineer)
