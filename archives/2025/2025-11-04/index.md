@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-11-04](index.md)
 
+* [2025-11-04, 21:03:11](https://news.ycombinator.com/item?id=45815857) - [Paramount blacklists actors for pro-Palestinian activism](https://www.worldofreel.com/blog/2025/11/4/paramount-has-blacklisted-talent-deemed-overtly-antisemitic)
 * [2025-11-04, 20:26:35](https://news.ycombinator.com/item?id=45815515) - [How AGI became the most consequential conspiracy theory of our time](https://www.technologyreview.com/2025/10/30/1127057/agi-conspiracy-theory-artifcial-general-intelligence/)
 * [2025-11-04, 19:34:26](https://news.ycombinator.com/item?id=45815010) - [Cheaper MacBook powered by iPhone chip coming in 2026, per new report](https://9to5mac.com/2025/11/04/cheaper-macbook-powered-by-iphone-chip-coming-in-2026-per-new-report/)
 * [2025-11-04, 18:48:06](https://news.ycombinator.com/item?id=45814522) - [Man spent 200 days building a solar-powered explorer yacht that can run forever](https://supercarblondie.com/solar-powered-explorer-yacht-helios-11/)
