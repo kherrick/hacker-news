@@ -6,6 +6,7 @@
 
 * [2025-11-04, 21:48:26](https://news.ycombinator.com/item?id=45816260) - [US gives local police a face-scanning app similar to one used by ICE agents](https://arstechnica.com/tech-policy/2025/11/us-gives-local-police-a-face-scanning-app-similar-to-one-used-by-ice-agents/)
 * [2025-11-04, 21:42:29](https://news.ycombinator.com/item?id=45816217) - [CPUs and GPUs to Become More Expensive After TSMC Price Hike in 2026](https://www.guru3d.com/story/cpus-and-gpus-to-become-more-expensive-after-tsmc-price-hike-in-2026/)
+* [2025-11-04, 21:39:56](https://news.ycombinator.com/item?id=45816195) - [74% of CEOs worry AI failures could cost them their jobs](https://cfo.economictimes.indiatimes.com/news/74-of-ceos-worry-ai-failures-could-cost-them-their-jobs-report/118923383)
 * [2025-11-04, 21:22:15](https://news.ycombinator.com/item?id=45816041) - [Send this article to your friend who still thinks the cloud is a good idea](https://rameerez.com/send-this-article-to-your-friend-who-still-thinks-the-cloud-is-a-good-idea/)
 * [2025-11-04, 21:19:15](https://news.ycombinator.com/item?id=45816013) - [AI and Copyright: Expanding Copyright Hurts Everyone–Here's What to Do Instead](https://www.eff.org/deeplinks/2025/02/ai-and-copyright-expanding-copyright-hurts-everyone-heres-what-do-instead)
 * [2025-11-04, 21:03:11](https://news.ycombinator.com/item?id=45815857) - [Paramount blacklists actors for pro-Palestinian activism](https://www.worldofreel.com/blog/2025/11/4/paramount-has-blacklisted-talent-deemed-overtly-antisemitic)
