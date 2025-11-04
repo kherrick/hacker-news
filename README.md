@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-11-04, 05:53:02](https://news.ycombinator.com/item?id=45807775) - [Tell HN: X is opening any tweet link in a webview whether you press it or not](https://news.ycombinator.com/item?id=45807775)
+* [2025-11-04, 07:26:45](https://news.ycombinator.com/item?id=45808308) - [Lessons from 70 interviews on deploying AI Agents in production](https://mmc.vc/research/state-of-agentic-ai-founders-edition/)
+* [2025-11-04, 05:41:51](https://news.ycombinator.com/item?id=45807735) - [Pain Points of OCaml](https://quamserena.com/2025-11-03/pain-points-of-ocaml)
 * [2025-11-04, 04:53:46](https://news.ycombinator.com/item?id=45807542) - [Why AC is cheap, but AC repair is a luxury](https://a16z.substack.com/p/why-ac-is-cheap-but-ac-repair-is)
 * [2025-11-04, 04:46:47](https://news.ycombinator.com/item?id=45807502) - [Show HN: MyTimers.app offline-first PWA with no build step and zero dependencies](https://mytimers.app/)
 * [2025-11-04, 02:37:01](https://news.ycombinator.com/item?id=45806903) - [My Truck Desk](https://www.theparisreview.org/blog/2025/10/29/truck-desk/)
@@ -19,7 +20,6 @@
 * [2025-11-03, 16:00:00](https://news.ycombinator.com/item?id=45800464) - [Ask HN: Who wants to be hired? (November 2025)](https://news.ycombinator.com/item?id=45800464)
 * [2025-11-03, 14:40:51](https://news.ycombinator.com/item?id=45799478) - [State of Terminal Emulators in 2025: The Errant Champions](https://www.jeffquast.com/post/state-of-terminal-emulation-2025/)
 * [2025-11-03, 13:46:19](https://news.ycombinator.com/item?id=45798881) - [Skyfall-GS – Synthesizing Immersive 3D Urban Scenes from Satellite Imagery](https://skyfall-gs.jayinnn.dev/)
-* [2025-11-03, 13:21:09](https://news.ycombinator.com/item?id=45798681) - [Why Nextcloud feels slow to use](https://ounapuu.ee/posts/2025/11/03/nextcloud-slow/)
 * [2025-11-03, 12:50:27](https://news.ycombinator.com/item?id=45798479) - [The Case Against PGVector](https://alex-jacobs.com/posts/the-case-against-pgvector/)
 * [2025-11-03, 06:39:13](https://news.ycombinator.com/item?id=45796421) - [First recording of a dying human brain shows waves similar to memory flashbacks (2022)](https://louisville.edu/medicine/news/first-ever-recording-of-a-dying-human-brain-shows-waves-similar-to-memory-flashbacks)
 * [2025-11-01, 16:39:05](https://news.ycombinator.com/item?id=45783074) - [WebAssembly (WASM) arch support for the Linux kernel](https://github.com/joelseverin/linux-wasm)
@@ -29,7 +29,7 @@
 * [2025-10-27, 10:17:24](https://news.ycombinator.com/item?id=45719250) - [Inside an Isotemp OCXO107-10 Oven Controlled Crystal Oscillator](https://tomverbeure.github.io/2025/10/26/Inside-an-Isotemp-OCXO107-10.html)
 * [2025-10-27, 08:58:09](https://news.ycombinator.com/item?id=45718710) - [Tenacity – a multi-track audio editor/recorder](https://tenacityaudio.org)
 * [2025-10-26, 20:23:58](https://news.ycombinator.com/item?id=45714937) - [The MP3.com Rescue Barge Barge](https://blog.somnolescent.net/2025/09/mp3-com-rescue-barge-barge/)
-* [2025-10-24, 15:36:33](https://news.ycombinator.com/item?id=45695712) - [Pixi: Reproducible Package Management for Robotics](https://prefix.dev/blog/reproducible-package-management-for-robotics)
+* [2025-10-25, 11:25:49](https://news.ycombinator.com/item?id=45702993) - [Visual Features Across Modalities: SVG and ASCII Art Cross-Modal Understanding](https://transformer-circuits.pub/2025/october-update/index.html#svg-cross-modal)
 
 ## [Archives](archives/index.md)
 

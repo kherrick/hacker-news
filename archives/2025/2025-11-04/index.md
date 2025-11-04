@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2025-11-04](index.md)
 
+* [2025-11-04, 07:26:45](https://news.ycombinator.com/item?id=45808308) - [Lessons from 70 interviews on deploying AI Agents in production](https://mmc.vc/research/state-of-agentic-ai-founders-edition/)
 * [2025-11-04, 05:57:20](https://news.ycombinator.com/item?id=45807794) - [Once Australia's second priciest city, Melbourne has become more affordable](https://www.theguardian.com/australia-news/2025/oct/25/once-australias-second-priciest-city-melbourne-has-become-more-affordable-what-happened-and-will-it-last)
 * [2025-11-04, 05:53:02](https://news.ycombinator.com/item?id=45807775) - [Tell HN: X is opening any tweet link in a webview whether you press it or not](https://news.ycombinator.com/item?id=45807775)
+* [2025-11-04, 05:41:51](https://news.ycombinator.com/item?id=45807735) - [Pain Points of OCaml](https://quamserena.com/2025-11-03/pain-points-of-ocaml)
 * [2025-11-04, 04:53:46](https://news.ycombinator.com/item?id=45807542) - [Why AC is cheap, but AC repair is a luxury](https://a16z.substack.com/p/why-ac-is-cheap-but-ac-repair-is)
 * [2025-11-04, 04:46:47](https://news.ycombinator.com/item?id=45807502) - [Show HN: MyTimers.app offline-first PWA with no build step and zero dependencies](https://mytimers.app/)
 * [2025-11-04, 04:08:43](https://news.ycombinator.com/item?id=45807329) - [The Morals of Chess (1786)](https://americanliterature.com/author/benjamin-franklin/essay/the-morals-of-chess)
