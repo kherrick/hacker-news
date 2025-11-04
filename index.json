@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-11-04, 23:13:06",
+      "https://news.ycombinator.com/item?id=45816981"
+    ],
+    [
+      "WASM 45% slower than Native Code",
+      "https://ar5iv.labs.arxiv.org/html/1901.09056"
+    ]
+  ],
+  [
+    [
+      "2025-11-04, 23:07:57",
+      "https://news.ycombinator.com/item?id=45816946"
+    ],
+    [
+      "Border Patrol agent testifies sandwich thrown at him \"exploded all over,\"",
+      "https://www.cbsnews.com/news/sean-dunn-trial-dc-sandwich-thrower-testimony-onions-mustard/"
+    ]
+  ],
+  [
+    [
       "2025-11-04, 22:59:22",
       "https://news.ycombinator.com/item?id=45816879"
     ],
@@ -67,16 +87,6 @@
     [
       "Launch HN: Plexe (YC X25) – Build production-grade ML models from prompts",
       "https://www.plexe.ai/"
-    ]
-  ],
-  [
-    [
-      "2025-11-04, 16:54:27",
-      "https://news.ycombinator.com/item?id=45813148"
-    ],
-    [
-      "Data breach at major Swedish software supplier impacts 1.5M",
-      "https://www.bleepingcomputer.com/news/security/data-breach-at-major-swedish-software-supplier-impacts-15-million/"
     ]
   ],
   [
@@ -211,16 +221,6 @@
   ],
   [
     [
-      "2025-11-03, 23:04:22",
-      "https://news.ycombinator.com/item?id=45805539"
-    ],
-    [
-      "A friendly tour of process memory on Linux",
-      "https://www.0xkato.xyz/linux-process-memory/"
-    ]
-  ],
-  [
-    [
       "2025-10-31, 12:11:03",
       "https://news.ycombinator.com/item?id=45771151"
     ],
@@ -237,6 +237,16 @@
     [
       "Whole Earth Index",
       "https://wholeearth.info/"
+    ]
+  ],
+  [
+    [
+      "2025-10-28, 15:08:31",
+      "https://news.ycombinator.com/item?id=45733836"
+    ],
+    [
+      "Frozen String Literals: Past, Present, Future?",
+      "https://byroot.github.io/ruby/performance/2025/10/28/string-literals.html"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Singing bus horns in West Sumatra",
       "https://www.auralarchipelago.com/auralarchipelago/kalason"
-    ]
-  ],
-  [
-    [
-      "2025-10-23, 17:38:38",
-      "https://news.ycombinator.com/item?id=45684564"
-    ],
-    [
-      "Recovering videos from my Sony camera that I stupidly deleted",
-      "https://www.jeffgeerling.com/blog/2025/recovering-videos-my-sony-camera-i-stupidly-deleted"
     ]
   ]
 ]
