@@ -30,6 +30,7 @@
 * [2025-10-24, 16:03:53](https://news.ycombinator.com/item?id=45695979) - [Why I code as a CTO](https://www.assembled.com/blog/why-i-code-as-a-cto)
 * [2025-10-24, 16:01:23](https://news.ycombinator.com/item?id=45695956) - [The Mainframe Six](https://arcanesciences.com/os2200/app1.html)
 * [2025-10-24, 15:49:58](https://news.ycombinator.com/item?id=45695841) - [\"ChatGPT said this\" Is Lazy](https://terriblesoftware.org/2025/10/24/chatgpt-said-this-is-lazy/)
+* [2025-10-24, 15:36:33](https://news.ycombinator.com/item?id=45695712) - [Pixi: Reproducible Package Management for Robotics](https://prefix.dev/blog/reproducible-package-management-for-robotics)
 * [2025-10-24, 15:25:17](https://news.ycombinator.com/item?id=45695621) - [Code Like a Surgeon](https://www.geoffreylitt.com/2025/10/24/code-like-a-surgeon)
 * [2025-10-24, 15:12:33](https://news.ycombinator.com/item?id=45695483) - [Automatically Translating C to Rust](https://cacm.acm.org/research/automatically-translating-c-to-rust/)
 * [2025-10-24, 14:40:34](https://news.ycombinator.com/item?id=45695134) - [Unlocking Free WiFi on British Airways](https://www.saxrag.com/tech/reversing/2025/06/01/BAWiFi.html)

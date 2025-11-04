@@ -93,3 +93,4 @@
 * [2025-10-28, 02:39:30](https://news.ycombinator.com/item?id=45728729) - [Drivers who do 10k miles a year 'face new £1,500 charge'](https://www.birminghammail.co.uk/motoring/motoring-news/drivers-who-10000-miles-year-32727647)
 * [2025-10-28, 02:00:58](https://news.ycombinator.com/item?id=45728525) - [GLP-1 therapeutics: Their emerging role in alcohol and substance use disorders](https://academic.oup.com/jes/article/9/11/bvaf141/8277723?login=false)
 * [2025-10-28, 00:52:44](https://news.ycombinator.com/item?id=45728170) - [Quantifying pass-by-value overhead](https://owen.cafe/posts/struct-sizes/)
+* [2025-10-28, 00:30:23](https://news.ycombinator.com/item?id=45728017) - [Handwriting Programs in J](https://www.hillelwayne.com/handwriting-j/)
