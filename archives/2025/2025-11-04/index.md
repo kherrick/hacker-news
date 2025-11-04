@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-11-04](index.md)
 
+* [2025-11-04, 15:23:14](https://news.ycombinator.com/item?id=45812024) - [This Day in 1988, the Morris worm infected 10% of the Internet within 24 hours](https://www.tomshardware.com/tech-industry/cyber-security/on-this-day-in-1988-the-morris-worm-slithered-out-and-sparked-a-new-era-in-cybersecurity-10-percent-of-the-internet-was-infected-within-24-hours)
 * [2025-11-04, 14:48:32](https://news.ycombinator.com/item?id=45811624) - [Google Cloud suspended customer's account 3 times, for 3 different reasons](https://www.theregister.com/2025/11/04/google_cloud_suspended_customers_account/)
 * [2025-11-04, 14:48:31](https://news.ycombinator.com/item?id=45811623) - [Tesla's ‘Robotaxis' Keep Crashing—Even With Human ‘Safety Monitors' Onboard](https://www.miamiherald.com/news/business/article312728957.html)
 * [2025-11-04, 14:31:27](https://news.ycombinator.com/item?id=45811447) - [Optimizing Datalog for the GPU](https://danglingpointers.substack.com/p/optimizing-datalog-for-the-gpu)

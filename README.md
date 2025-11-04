@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-11-04, 15:23:14](https://news.ycombinator.com/item?id=45812024) - [This Day in 1988, the Morris worm infected 10% of the Internet within 24 hours](https://www.tomshardware.com/tech-industry/cyber-security/on-this-day-in-1988-the-morris-worm-slithered-out-and-sparked-a-new-era-in-cybersecurity-10-percent-of-the-internet-was-infected-within-24-hours)
+* [2025-11-04, 14:48:32](https://news.ycombinator.com/item?id=45811624) - [Google Cloud suspended customer's account 3 times, for 3 different reasons](https://www.theregister.com/2025/11/04/google_cloud_suspended_customers_account/)
 * [2025-11-04, 14:31:27](https://news.ycombinator.com/item?id=45811447) - [Optimizing Datalog for the GPU](https://danglingpointers.substack.com/p/optimizing-datalog-for-the-gpu)
 * [2025-11-04, 13:58:35](https://news.ycombinator.com/item?id=45811093) - [Show HN: A CSS-Only Terrain Generator](https://terra.layoutit.com)
 * [2025-11-04, 13:34:45](https://news.ycombinator.com/item?id=45810856) - [Show HN: I built a local-first daily planner for iOS](https://apps.apple.com/ca/app/to-do-list-planner-zesfy/id6479947874)
@@ -23,9 +25,7 @@
 * [2025-11-03, 14:40:51](https://news.ycombinator.com/item?id=45799478) - [State of Terminal Emulators in 2025: The Errant Champions](https://www.jeffquast.com/post/state-of-terminal-emulation-2025/)
 * [2025-11-03, 12:50:27](https://news.ycombinator.com/item?id=45798479) - [The Case Against PGVector](https://alex-jacobs.com/posts/the-case-against-pgvector/)
 * [2025-11-03, 06:39:13](https://news.ycombinator.com/item?id=45796421) - [First recording of a dying human brain shows waves similar to memory flashbacks (2022)](https://louisville.edu/medicine/news/first-ever-recording-of-a-dying-human-brain-shows-waves-similar-to-memory-flashbacks)
-* [2025-10-29, 16:09:39](https://news.ycombinator.com/item?id=45748816) - [A visualization of the RGB space covered by named colors](https://codepen.io/meodai/full/zdgXJj/)
 * [2025-10-29, 01:01:41](https://news.ycombinator.com/item?id=45741357) - [Aisuru botnet shifts from DDoS to residential proxies](https://krebsonsecurity.com/2025/10/aisuru-botnet-shifts-from-ddos-to-residential-proxies/)
-* [2025-10-28, 14:34:07](https://news.ycombinator.com/item?id=45733410) - [Learning from Sudoku Solvers (2007)](http://ravimohan.blogspot.com/2007/04/learning-from-sudoku-solvers.html)
 * [2025-10-28, 05:01:38](https://news.ycombinator.com/item?id=45729340) - [Reverse-engineered CUPS driver for Phomemo receipt/label printers](https://github.com/vivier/phomemo-tools)
 * [2025-10-27, 08:58:09](https://news.ycombinator.com/item?id=45718710) - [Tenacity – a multi-track audio editor/recorder](https://tenacityaudio.org)
 * [2025-10-25, 08:52:11](https://news.ycombinator.com/item?id=45702316) - [Customize Nano Text Editor](https://shafi.ddns.net/blog/customize-nano-text-editor)
