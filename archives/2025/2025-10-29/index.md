@@ -71,6 +71,7 @@
 * [2025-10-29, 12:22:03](https://news.ycombinator.com/item?id=45745876) - [Now any body can write JavaScript code in Rust](https://github.com/Shyam20001/rsjs)
 * [2025-10-29, 11:55:42](https://news.ycombinator.com/item?id=45745607) - [Collatz-Weyl Generators: Pseudorandom Number Generators](https://arxiv.org/abs/2312.17043)
 * [2025-10-29, 11:50:58](https://news.ycombinator.com/item?id=45745566) - [Show HN: Learn German with Games](https://www.learngermanwithgames.com/)
+* [2025-10-29, 11:47:31](https://news.ycombinator.com/item?id=45745536) - [US startup Substrate announces chipmaking tool that it says will rival ASML](https://www.reuters.com/world/asia-pacific/us-startup-substrate-announces-chipmaking-tool-that-it-says-will-rival-asml-2025-10-28/)
 * [2025-10-29, 11:32:27](https://news.ycombinator.com/item?id=45745415) - [Solar-powered QR reading postboxes being rolled out across UK](https://www.bbc.co.uk/news/articles/cgln72rgrero)
 * [2025-10-29, 11:28:17](https://news.ycombinator.com/item?id=45745382) - [Autodesk's John Walker Explained HP and IBM in 1991](https://www.cringely.com/2015/06/03/autodesks-john-walker-explained-hp-and-ibm-in-1991/)
 * [2025-10-29, 11:14:38](https://news.ycombinator.com/item?id=45745281) - [AWS to Bare Metal Two Years Later: Answering Your Questions About Leaving AWS](https://oneuptime.com/blog/post/2025-10-29-aws-to-bare-metal-two-years-later/view)
