@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2025-11-04, 02:37:01",
-      "https://news.ycombinator.com/item?id=45806903"
-    ],
-    [
-      "My Truck Desk",
-      "https://www.theparisreview.org/blog/2025/10/29/truck-desk/"
-    ]
-  ],
-  [
-    [
       "2025-11-04, 00:48:56",
       "https://news.ycombinator.com/item?id=45806348"
     ],
@@ -217,6 +207,16 @@
     [
       "WebAssembly (WASM) arch support for the Linux kernel",
       "https://github.com/joelseverin/linux-wasm"
+    ]
+  ],
+  [
+    [
+      "2025-10-30, 03:13:23",
+      "https://news.ycombinator.com/item?id=45756058"
+    ],
+    [
+      "Why is Python's OrderedDict ordered?",
+      "https://www.piglei.com/articles/en-why-is-python-ordereddict-ordered/"
     ]
   ],
   [
