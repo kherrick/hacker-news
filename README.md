@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-11-04, 02:10:21](https://news.ycombinator.com/item?id=45806775) - [UnitedHealth pays its own physician groups 17% more than outside ones](https://www.statnews.com/2025/11/03/unitedhealth-pays-its-optum-physicians-17-percent-more/)
 * [2025-11-04, 00:48:56](https://news.ycombinator.com/item?id=45806348) - [When stick figures fought](https://animationobsessive.substack.com/p/when-stick-figures-fought)
 * [2025-11-03, 23:49:03](https://news.ycombinator.com/item?id=45805900) - [Things you can do with diodes](https://lcamtuf.substack.com/p/things-you-can-do-with-diodes)
 * [2025-11-03, 23:04:22](https://news.ycombinator.com/item?id=45805539) - [A friendly tour of process memory on Linux](https://www.0xkato.xyz/linux-process-memory/)
@@ -11,7 +12,6 @@
 * [2025-11-03, 19:28:46](https://news.ycombinator.com/item?id=45803306) - [FreakWAN: A floor-routing WAN implementing a chat over bare-LoRa (no LoRaWAN)](https://github.com/antirez/freakwan)
 * [2025-11-03, 18:27:32](https://news.ycombinator.com/item?id=45802459) - [Gallery of wonderful drawings our little thermal printer received](https://guestbook.goodenough.us)
 * [2025-11-03, 18:16:43](https://news.ycombinator.com/item?id=45802290) - [Agent-o-rama: build, trace, evaluate, and monitor LLM agents in Java or Clojure](https://blog.redplanetlabs.com/2025/11/03/introducing-agent-o-rama-build-trace-evaluate-and-monitor-stateful-llm-agents-in-java-or-clojure/)
-* [2025-11-03, 17:08:22](https://news.ycombinator.com/item?id=45801416) - [Why engineers can't be rational about programming languages](https://spf13.com/p/the-hidden-conversation/)
 * [2025-11-03, 16:35:44](https://news.ycombinator.com/item?id=45800955) - [Why we migrated from Python to Node.js](https://blog.yakkomajuri.com/blog/python-to-node)
 * [2025-11-03, 16:23:11](https://news.ycombinator.com/item?id=45800777) - [Learning to read Arthur Whitney's C to become smart (2024)](https://needleful.net/blog/2024/01/arthur_whitney.html)
 * [2025-11-03, 16:00:00](https://news.ycombinator.com/item?id=45800465) - [Ask HN: Who is hiring? (November 2025)](https://news.ycombinator.com/item?id=45800465)
