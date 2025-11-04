@@ -69,6 +69,7 @@
 * [2025-10-27, 11:39:44](https://news.ycombinator.com/item?id=45719820) - [Canada Set to Side with China on EVs](https://www.thewirechina.com/2025/10/26/canada-set-to-side-with-china-on-evs/)
 * [2025-10-27, 11:38:00](https://news.ycombinator.com/item?id=45719805) - [Isomorphic JS/TS Functions Orchestrator](https://github.com/damianofalcioni/js-functions-orchestrator)
 * [2025-10-27, 11:35:58](https://news.ycombinator.com/item?id=45719788) - [You Are How You Act](https://boz.com/articles/you-are-how-you-act)
+* [2025-10-27, 11:27:42](https://news.ycombinator.com/item?id=45719732) - [Zip Files All the Way Down (2010)](https://research.swtch.com/zip)
 * [2025-10-27, 11:19:27](https://news.ycombinator.com/item?id=45719669) - [Microsoft's folds losses from OpenAI into $4.7B expense line – \"other\"](https://www.theverge.com/news/806880/microsofts-not-very-open-about-openai)
 * [2025-10-27, 11:19:27](https://news.ycombinator.com/item?id=45719669) - [Microsoft needs to open up more about its OpenAI dealings](https://www.wsj.com/tech/ai/microsoft-needs-to-open-up-more-about-its-openai-dealings-59102de8)
 * [2025-10-27, 11:18:53](https://news.ycombinator.com/item?id=45719662) - [I built my own CityMapper](https://asherfalcon.com/blog/posts/5)
