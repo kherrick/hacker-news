@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-11-04](index.md)
 
+* [2025-11-04, 17:15:55](https://news.ycombinator.com/item?id=45813417) - [The Rust Foundation Maintainers Fund](https://rustfoundation.org/media/announcing-the-rust-foundation-maintainers-fund/)
 * [2025-11-04, 17:07:47](https://news.ycombinator.com/item?id=45813310) - [Launch HN: Plexe (YC X25) – Build production-grade ML models from prompts](https://www.plexe.ai/)
 * [2025-11-04, 17:04:47](https://news.ycombinator.com/item?id=45813267) - [Exploring a space-based, scalable AI infrastructure system design](https://research.google/blog/exploring-a-space-based-scalable-ai-infrastructure-system-design/)
 * [2025-11-04, 17:00:32](https://news.ycombinator.com/item?id=45813208) - [Inside Pinecone: Slab Architecture](https://www.pinecone.io/learn/slab-architecture/)

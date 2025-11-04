@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-11-04, 17:15:55](https://news.ycombinator.com/item?id=45813417) - [The Rust Foundation Maintainers Fund](https://rustfoundation.org/media/announcing-the-rust-foundation-maintainers-fund/)
 * [2025-11-04, 17:07:47](https://news.ycombinator.com/item?id=45813310) - [Launch HN: Plexe (YC X25) – Build production-grade ML models from prompts](https://www.plexe.ai/)
 * [2025-11-04, 17:04:47](https://news.ycombinator.com/item?id=45813267) - [Exploring a space-based, scalable AI infrastructure system design](https://research.google/blog/exploring-a-space-based-scalable-ai-infrastructure-system-design/)
 * [2025-11-04, 16:59:05](https://news.ycombinator.com/item?id=45813195) - [US nuclear weapons testing can forever scar a nation.Just ask Marshall Island](https://www.cnn.com/2025/11/04/asia/nuclear-testing-marshall-islands-legacy-intl-hnk-dst)
@@ -23,7 +24,6 @@
 * [2025-11-03, 23:49:03](https://news.ycombinator.com/item?id=45805900) - [Things you can do with diodes](https://lcamtuf.substack.com/p/things-you-can-do-with-diodes)
 * [2025-11-03, 23:04:22](https://news.ycombinator.com/item?id=45805539) - [A friendly tour of process memory on Linux](https://www.0xkato.xyz/linux-process-memory/)
 * [2025-11-03, 21:01:09](https://news.ycombinator.com/item?id=45804377) - [AI's Dial-Up Era](https://www.wreflection.com/p/ai-dial-up-era)
-* [2025-11-03, 16:00:00](https://news.ycombinator.com/item?id=45800465) - [Ask HN: Who is hiring? (November 2025)](https://news.ycombinator.com/item?id=45800465)
 * [2025-10-29, 11:47:31](https://news.ycombinator.com/item?id=45745536) - [US startup Substrate announces chipmaking tool that it says will rival ASML](https://www.reuters.com/world/asia-pacific/us-startup-substrate-announces-chipmaking-tool-that-it-says-will-rival-asml-2025-10-28/)
 * [2025-10-29, 01:01:41](https://news.ycombinator.com/item?id=45741357) - [Aisuru botnet shifts from DDoS to residential proxies](https://krebsonsecurity.com/2025/10/aisuru-botnet-shifts-from-ddos-to-residential-proxies/)
 * [2025-10-28, 05:01:38](https://news.ycombinator.com/item?id=45729340) - [Reverse-engineered CUPS driver for Phomemo receipt/label printers](https://github.com/vivier/phomemo-tools)
