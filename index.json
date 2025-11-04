@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-11-04, 02:58:40",
+      "https://news.ycombinator.com/item?id=45807018"
+    ],
+    [
+      "An individual can change an organization",
+      "https://notes.eatonphil.com/2025-11-03-an-individual-can-change-an-organization.html"
+    ]
+  ],
+  [
+    [
+      "2025-11-04, 02:45:03",
+      "https://news.ycombinator.com/item?id=45806945"
+    ],
+    [
+      "A robotaxi killed a beloved SF cat; city supervisor wants driverless car reform",
+      "https://www.sfchronicle.com/sf/article/waymo-killed-cat-21136038.php"
+    ]
+  ],
+  [
+    [
       "2025-11-04, 02:10:21",
       "https://news.ycombinator.com/item?id=45806775"
     ],
@@ -61,16 +81,6 @@
   ],
   [
     [
-      "2025-11-03, 21:47:41",
-      "https://news.ycombinator.com/item?id=45804839"
-    ],
-    [
-      "R interface to Apple's MLX library",
-      "https://hughjonesd.github.io/Rmlx/index.html"
-    ]
-  ],
-  [
-    [
       "2025-11-03, 21:01:09",
       "https://news.ycombinator.com/item?id=45804377"
     ],
@@ -87,16 +97,6 @@
     [
       "The Mack Super Pumper was a locomotive engined fire fighter (2018)",
       "https://bangshift.com/bangshiftxl/mack-super-pumper-system-locomotive-engine-powered-pumper-extinguish-hell-often/"
-    ]
-  ],
-  [
-    [
-      "2025-11-03, 19:33:02",
-      "https://news.ycombinator.com/item?id=45803358"
-    ],
-    [
-      "</> Htmx – The Fetch()ening",
-      "https://htmx.org/essays/the-fetchening/"
     ]
   ],
   [
@@ -157,16 +157,6 @@
     [
       "Ask HN: Who wants to be hired? (November 2025)",
       "https://news.ycombinator.com/item?id=45800464"
-    ]
-  ],
-  [
-    [
-      "2025-11-03, 15:45:31",
-      "https://news.ycombinator.com/item?id=45800308"
-    ],
-    [
-      "Robert Hooke's \"Cyberpunk” Letter to Gottfried Leibniz",
-      "https://mynamelowercase.com/blog/robert-hookes-cyberpunk-letter-to-gottfried-leibniz/"
     ]
   ],
   [
@@ -265,7 +255,7 @@
       "https://news.ycombinator.com/item?id=45719250"
     ],
     [
-      "Inside An Isotemp Oven Controlled Crystal Oscillator",
+      "Inside an Isotemp OCXO107-10 Oven Controlled Crystal Oscillator",
       "https://tomverbeure.github.io/2025/10/26/Inside-an-Isotemp-OCXO107-10.html"
     ]
   ],
@@ -277,6 +267,16 @@
     [
       "The MP3.com Rescue Barge Barge",
       "https://blog.somnolescent.net/2025/09/mp3-com-rescue-barge-barge/"
+    ]
+  ],
+  [
+    [
+      "2025-10-25, 17:33:43",
+      "https://news.ycombinator.com/item?id=45705583"
+    ],
+    [
+      "Draw high dimensional tensors as a matrix of matrices",
+      "https://blog.ezyang.com/2025/10/draw-high-dimensional-tensors-as-a-matrix-of-matrices/"
     ]
   ],
   [
