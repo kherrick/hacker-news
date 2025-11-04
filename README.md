@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-11-04, 05:57:20](https://news.ycombinator.com/item?id=45807794) - [Once Australia's second priciest city, Melbourne has become more affordable](https://www.theguardian.com/australia-news/2025/oct/25/once-australias-second-priciest-city-melbourne-has-become-more-affordable-what-happened-and-will-it-last)
 * [2025-11-04, 05:53:02](https://news.ycombinator.com/item?id=45807775) - [Tell HN: X is opening any tweet link in a webview whether you press it or not](https://news.ycombinator.com/item?id=45807775)
 * [2025-11-04, 04:53:46](https://news.ycombinator.com/item?id=45807542) - [Why AC is cheap, but AC repair is a luxury](https://a16z.substack.com/p/why-ac-is-cheap-but-ac-repair-is)
+* [2025-11-04, 04:46:47](https://news.ycombinator.com/item?id=45807502) - [Show HN: MyTimers.app offline-first PWA with no build step and zero dependencies](https://mytimers.app/)
 * [2025-11-04, 02:58:40](https://news.ycombinator.com/item?id=45807018) - [An individual can change an organization](https://notes.eatonphil.com/2025-11-03-an-individual-can-change-an-organization.html)
 * [2025-11-04, 02:37:01](https://news.ycombinator.com/item?id=45806903) - [My Truck Desk](https://www.theparisreview.org/blog/2025/10/29/truck-desk/)
 * [2025-11-04, 00:48:56](https://news.ycombinator.com/item?id=45806348) - [When stick figures fought](https://animationobsessive.substack.com/p/when-stick-figures-fought)
