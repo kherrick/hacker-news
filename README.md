@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-11-04, 02:58:40](https://news.ycombinator.com/item?id=45807018) - [An individual can change an organization](https://notes.eatonphil.com/2025-11-03-an-individual-can-change-an-organization.html)
+* [2025-11-04, 02:37:01](https://news.ycombinator.com/item?id=45806903) - [My Truck Desk](https://www.theparisreview.org/blog/2025/10/29/truck-desk/)
 * [2025-11-04, 00:48:56](https://news.ycombinator.com/item?id=45806348) - [When stick figures fought](https://animationobsessive.substack.com/p/when-stick-figures-fought)
 * [2025-11-03, 23:49:03](https://news.ycombinator.com/item?id=45805900) - [Things you can do with diodes](https://lcamtuf.substack.com/p/things-you-can-do-with-diodes)
 * [2025-11-03, 23:04:22](https://news.ycombinator.com/item?id=45805539) - [A friendly tour of process memory on Linux](https://www.0xkato.xyz/linux-process-memory/)
@@ -8,7 +9,6 @@
 * [2025-11-03, 22:54:20](https://news.ycombinator.com/item?id=45805458) - [Guideline has been acquired by Gusto](https://help.guideline.com/en/articles/12694322-guideline-has-joined-gusto-faqs-about-our-recent-acquisition)
 * [2025-11-03, 21:01:09](https://news.ycombinator.com/item?id=45804377) - [AI's Dial-Up Era](https://www.wreflection.com/p/ai-dial-up-era)
 * [2025-11-03, 20:37:34](https://news.ycombinator.com/item?id=45804122) - [The Mack Super Pumper was a locomotive engined fire fighter (2018)](https://bangshift.com/bangshiftxl/mack-super-pumper-system-locomotive-engine-powered-pumper-extinguish-hell-often/)
-* [2025-11-03, 19:28:46](https://news.ycombinator.com/item?id=45803306) - [FreakWAN: A floor-routing WAN implementing a chat over bare-LoRa (no LoRaWAN)](https://github.com/antirez/freakwan)
 * [2025-11-03, 18:27:32](https://news.ycombinator.com/item?id=45802459) - [Gallery of wonderful drawings our little thermal printer received](https://guestbook.goodenough.us)
 * [2025-11-03, 18:16:43](https://news.ycombinator.com/item?id=45802290) - [Agent-o-rama: build, trace, evaluate, and monitor LLM agents in Java or Clojure](https://blog.redplanetlabs.com/2025/11/03/introducing-agent-o-rama-build-trace-evaluate-and-monitor-stateful-llm-agents-in-java-or-clojure/)
 * [2025-11-03, 17:55:10](https://news.ycombinator.com/item?id=45802029) - [The Case That A.I. Is Thinking](https://www.newyorker.com/magazine/2025/11/10/the-case-that-ai-is-thinking)
