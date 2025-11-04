@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-11-04](index.md)
 
+* [2025-11-04, 14:48:32](https://news.ycombinator.com/item?id=45811624) - [Google Cloud suspended customer's account 3 times, for 3 different reasons](https://www.theregister.com/2025/11/04/google_cloud_suspended_customers_account/)
+* [2025-11-04, 13:58:35](https://news.ycombinator.com/item?id=45811093) - [Show HN: A CSS-Only Terrain Generator](https://terra.layoutit.com)
 * [2025-11-04, 13:34:45](https://news.ycombinator.com/item?id=45810856) - [Show HN: I built a local-first daily planner for iOS](https://apps.apple.com/ca/app/to-do-list-planner-zesfy/id6479947874)
 * [2025-11-04, 13:15:52](https://news.ycombinator.com/item?id=45810676) - [The Art of Atari (2016)](http://www.artofatari.com)
 * [2025-11-04, 12:52:54](https://news.ycombinator.com/item?id=45810430) - [Chaining FFmpeg with a Browser Agent](https://100x.bot/a/chaining-ffmpeg-with-browser-agent)
