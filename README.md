@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-11-04, 17:00:32](https://news.ycombinator.com/item?id=45813208) - [Inside Pinecone: Slab Architecture](https://www.pinecone.io/learn/slab-architecture/)
+* [2025-11-04, 17:07:47](https://news.ycombinator.com/item?id=45813310) - [Launch HN: Plexe (YC X25) – Build production-grade ML models from prompts](https://www.plexe.ai/)
 * [2025-11-04, 16:54:27](https://news.ycombinator.com/item?id=45813148) - [Data breach at major Swedish software supplier impacts 1.5M](https://www.bleepingcomputer.com/news/security/data-breach-at-major-swedish-software-supplier-impacts-15-million/)
 * [2025-11-04, 16:36:52](https://news.ycombinator.com/item?id=45812901) - [YouTube AI error costs creator his channel over alleged link to Japanese account](https://piunikaweb.com/2025/11/04/youtube-ai-error-terminates-enderman-channel/)
 * [2025-11-04, 16:12:27](https://news.ycombinator.com/item?id=45812606) - [Pg_lake: Postgres with Iceberg and data lake access](https://github.com/Snowflake-Labs/pg_lake)
@@ -22,13 +22,13 @@
 * [2025-11-03, 23:49:03](https://news.ycombinator.com/item?id=45805900) - [Things you can do with diodes](https://lcamtuf.substack.com/p/things-you-can-do-with-diodes)
 * [2025-11-03, 23:04:22](https://news.ycombinator.com/item?id=45805539) - [A friendly tour of process memory on Linux](https://www.0xkato.xyz/linux-process-memory/)
 * [2025-11-03, 21:01:09](https://news.ycombinator.com/item?id=45804377) - [AI's Dial-Up Era](https://www.wreflection.com/p/ai-dial-up-era)
-* [2025-11-03, 16:23:11](https://news.ycombinator.com/item?id=45800777) - [Learning to read Arthur Whitney's C to become smart (2024)](https://needleful.net/blog/2024/01/arthur_whitney.html)
 * [2025-11-03, 16:00:00](https://news.ycombinator.com/item?id=45800465) - [Ask HN: Who is hiring? (November 2025)](https://news.ycombinator.com/item?id=45800465)
 * [2025-10-29, 11:47:31](https://news.ycombinator.com/item?id=45745536) - [US startup Substrate announces chipmaking tool that it says will rival ASML](https://www.reuters.com/world/asia-pacific/us-startup-substrate-announces-chipmaking-tool-that-it-says-will-rival-asml-2025-10-28/)
 * [2025-10-29, 01:01:41](https://news.ycombinator.com/item?id=45741357) - [Aisuru botnet shifts from DDoS to residential proxies](https://krebsonsecurity.com/2025/10/aisuru-botnet-shifts-from-ddos-to-residential-proxies/)
 * [2025-10-28, 05:01:38](https://news.ycombinator.com/item?id=45729340) - [Reverse-engineered CUPS driver for Phomemo receipt/label printers](https://github.com/vivier/phomemo-tools)
 * [2025-10-27, 08:58:09](https://news.ycombinator.com/item?id=45718710) - [Tenacity – a multi-track audio editor/recorder](https://tenacityaudio.org)
 * [2025-10-25, 08:52:11](https://news.ycombinator.com/item?id=45702316) - [Customize Nano Text Editor](https://shafi.ddns.net/blog/customize-nano-text-editor)
+* [2025-10-23, 17:38:38](https://news.ycombinator.com/item?id=45684564) - [Recovering videos from my Sony camera that I stupidly deleted](https://www.jeffgeerling.com/blog/2025/recovering-videos-my-sony-camera-i-stupidly-deleted)
 * [2025-10-22, 20:23:09](https://news.ycombinator.com/item?id=45674676) - [The Farmer Was Replaced [video]](https://www.youtube.com/watch?v=aP2WHQKJVsw)
 
 ## [Archives](archives/index.md)

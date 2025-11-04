@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-11-04](index.md)
 
+* [2025-11-04, 17:07:47](https://news.ycombinator.com/item?id=45813310) - [Launch HN: Plexe (YC X25) – Build production-grade ML models from prompts](https://www.plexe.ai/)
 * [2025-11-04, 17:00:32](https://news.ycombinator.com/item?id=45813208) - [Inside Pinecone: Slab Architecture](https://www.pinecone.io/learn/slab-architecture/)
 * [2025-11-04, 16:54:27](https://news.ycombinator.com/item?id=45813148) - [Data breach at major Swedish software supplier impacts 1.5M](https://www.bleepingcomputer.com/news/security/data-breach-at-major-swedish-software-supplier-impacts-15-million/)
 * [2025-11-04, 16:36:52](https://news.ycombinator.com/item?id=45812901) - [YouTube AI error costs creator his channel over alleged link to Japanese account](https://piunikaweb.com/2025/11/04/youtube-ai-error-terminates-enderman-channel/)

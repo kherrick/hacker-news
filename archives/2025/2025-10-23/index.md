@@ -29,6 +29,7 @@
 * [2025-10-23, 18:09:37](https://news.ycombinator.com/item?id=45684934) - [Armed police swarm student after AI mistakes bag of Doritos for a weapon](https://www.dexerto.com/entertainment/armed-police-swarm-student-after-ai-mistakes-bag-of-doritos-for-a-weapon-3273512/)
 * [2025-10-23, 17:52:18](https://news.ycombinator.com/item?id=45684736) - [OpenMaxIO is a community-maintained fork of MinIO](https://github.com/OpenMaxIO/openmaxio-object-browser)
 * [2025-10-23, 17:48:13](https://news.ycombinator.com/item?id=45684689) - [Show HN: I built a tech news aggregator that works the way my brain does](https://deadstack.net/recent)
+* [2025-10-23, 17:38:38](https://news.ycombinator.com/item?id=45684564) - [Recovering videos from my Sony camera that I stupidly deleted](https://www.jeffgeerling.com/blog/2025/recovering-videos-my-sony-camera-i-stupidly-deleted)
 * [2025-10-23, 17:37:04](https://news.ycombinator.com/item?id=45684548) - [U.S. Details Gambling Cases Involving Pro Athletes and Mafia Families](https://www.nytimes.com/live/2025/10/23/nyregion/nba-illegal-gambling-arrests)
 * [2025-10-23, 17:21:41](https://news.ycombinator.com/item?id=45684414) - [Tamper-Sensing Meshes Using Low-Cost, Embedded Time-Domain Reflectometry](https://jaseg.de/blog/paper-sampling-mesh-monitor/)
 * [2025-10-23, 17:06:35](https://news.ycombinator.com/item?id=45684253) - [The bug that taught me more about PyTorch than years of using it](https://elanapearl.github.io/blog/2025/the-bug-that-taught-me-pytorch/)
