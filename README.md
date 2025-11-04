@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-11-04, 08:27:23](https://news.ycombinator.com/item?id=45808690) - [Some software bloat is OK](https://waspdev.com/articles/2025-11-04/some-software-bloat-is-ok)
-* [2025-11-04, 07:26:45](https://news.ycombinator.com/item?id=45808308) - [Lessons from 70 interviews on deploying AI Agents in production](https://mmc.vc/research/state-of-agentic-ai-founders-edition/)
+* [2025-11-04, 07:26:45](https://news.ycombinator.com/item?id=45808308) - [Lessons from interviews on deploying AI Agents in production](https://mmc.vc/research/state-of-agentic-ai-founders-edition/)
 * [2025-11-04, 05:41:51](https://news.ycombinator.com/item?id=45807735) - [Pain Points of OCaml](https://quamserena.com/2025-11-03/pain-points-of-ocaml)
 * [2025-11-04, 04:53:46](https://news.ycombinator.com/item?id=45807542) - [Why AC is cheap, but AC repair is a luxury](https://a16z.substack.com/p/why-ac-is-cheap-but-ac-repair-is)
 * [2025-11-04, 04:46:47](https://news.ycombinator.com/item?id=45807502) - [Show HN: MyTimers.app offline-first PWA with no build step and zero dependencies](https://mytimers.app/)
