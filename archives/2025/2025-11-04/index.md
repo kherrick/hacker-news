@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-11-04](index.md)
 
+* [2025-11-04, 18:48:06](https://news.ycombinator.com/item?id=45814522) - [Man spent 200 days building a solar-powered explorer yacht that can run forever](https://supercarblondie.com/solar-powered-explorer-yacht-helios-11/)
 * [2025-11-04, 18:06:42](https://news.ycombinator.com/item?id=45813994) - [We're open-sourcing the successor of Jupyter notebook](https://deepnote.com/blog/were-open-sourcing-the-successor-of-jupyter-notebook)
 * [2025-11-04, 17:47:09](https://news.ycombinator.com/item?id=45813767) - [Codemaps: Understand Code, Before You Vibe It](https://cognition.ai/blog/codemaps)
 * [2025-11-04, 17:44:12](https://news.ycombinator.com/item?id=45813734) - [Michael Burry a.k.a. \"Big Short\",discloses $1.1B bet against Nvidia&Palantir](https://sherwood.news/markets/michael-burry-big-short-discloses-1-1-billion-options-bet-against-nvidia-palantir-puts/)

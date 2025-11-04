@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-11-04, 18:48:06](https://news.ycombinator.com/item?id=45814522) - [Man spent 200 days building a solar-powered explorer yacht that can run forever](https://supercarblondie.com/solar-powered-explorer-yacht-helios-11/)
 * [2025-11-04, 18:06:42](https://news.ycombinator.com/item?id=45813994) - [We're open-sourcing the successor of Jupyter notebook](https://deepnote.com/blog/were-open-sourcing-the-successor-of-jupyter-notebook)
 * [2025-11-04, 17:47:09](https://news.ycombinator.com/item?id=45813767) - [Codemaps: Understand Code, Before You Vibe It](https://cognition.ai/blog/codemaps)
-* [2025-11-04, 17:44:12](https://news.ycombinator.com/item?id=45813734) - [Michael Burry a.k.a. \"Big Short\",discloses $1.1B bet against Nvidia&Palantir](https://sherwood.news/markets/michael-burry-big-short-discloses-1-1-billion-options-bet-against-nvidia-palantir-puts/)
 * [2025-11-04, 17:15:55](https://news.ycombinator.com/item?id=45813417) - [The Rust Foundation Maintainers Fund](https://rustfoundation.org/media/announcing-the-rust-foundation-maintainers-fund/)
 * [2025-11-04, 17:10:35](https://news.ycombinator.com/item?id=45813343) - [NoLongerEvil-Thermostat – Nest Generation 1 and 2 Firmware](https://github.com/codykociemba/NoLongerEvil-Thermostat)
 * [2025-11-04, 17:07:47](https://news.ycombinator.com/item?id=45813310) - [Launch HN: Plexe (YC X25) – Build production-grade ML models from prompts](https://www.plexe.ai/)
@@ -26,7 +26,7 @@
 * [2025-11-03, 21:01:09](https://news.ycombinator.com/item?id=45804377) - [AI's Dial-Up Era](https://www.wreflection.com/p/ai-dial-up-era)
 * [2025-10-29, 15:16:08](https://news.ycombinator.com/item?id=45747938) - [Normalize Identifying Corporate Devices in Your Software](https://lgug2z.com/articles/normalize-identifying-corporate-devices-in-your-software/)
 * [2025-10-29, 01:01:41](https://news.ycombinator.com/item?id=45741357) - [Aisuru botnet shifts from DDoS to residential proxies](https://krebsonsecurity.com/2025/10/aisuru-botnet-shifts-from-ddos-to-residential-proxies/)
-* [2025-10-28, 05:01:38](https://news.ycombinator.com/item?id=45729340) - [Reverse-engineered CUPS driver for Phomemo receipt/label printers](https://github.com/vivier/phomemo-tools)
+* [2025-10-28, 15:36:39](https://news.ycombinator.com/item?id=45734259) - [Whole Earth Index](https://wholeearth.info/)
 * [2025-10-27, 08:58:09](https://news.ycombinator.com/item?id=45718710) - [Tenacity – a multi-track audio editor/recorder](https://tenacityaudio.org)
 * [2025-10-25, 08:52:11](https://news.ycombinator.com/item?id=45702316) - [Customize Nano Text Editor](https://shafi.ddns.net/blog/customize-nano-text-editor)
 * [2025-10-23, 17:38:38](https://news.ycombinator.com/item?id=45684564) - [Recovering videos from my Sony camera that I stupidly deleted](https://www.jeffgeerling.com/blog/2025/recovering-videos-my-sony-camera-i-stupidly-deleted)
