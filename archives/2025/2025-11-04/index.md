@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-11-04](index.md)
 
+* [2025-11-04, 05:57:20](https://news.ycombinator.com/item?id=45807794) - [Once Australia's second priciest city, Melbourne has become more affordable](https://www.theguardian.com/australia-news/2025/oct/25/once-australias-second-priciest-city-melbourne-has-become-more-affordable-what-happened-and-will-it-last)
+* [2025-11-04, 05:53:02](https://news.ycombinator.com/item?id=45807775) - [Tell HN: X is opening any tweet link in a webview whether you press it or not](https://news.ycombinator.com/item?id=45807775)
 * [2025-11-04, 04:53:46](https://news.ycombinator.com/item?id=45807542) - [Why AC is cheap, but AC repair is a luxury](https://a16z.substack.com/p/why-ac-is-cheap-but-ac-repair-is)
 * [2025-11-04, 02:58:40](https://news.ycombinator.com/item?id=45807018) - [An individual can change an organization](https://notes.eatonphil.com/2025-11-03-an-individual-can-change-an-organization.html)
 * [2025-11-04, 02:45:03](https://news.ycombinator.com/item?id=45806945) - [A robotaxi killed a beloved SF cat; city supervisor wants driverless car reform](https://www.sfchronicle.com/sf/article/waymo-killed-cat-21136038.php)

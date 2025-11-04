@@ -69,6 +69,7 @@
 * [2025-10-28, 12:49:15](https://news.ycombinator.com/item?id=45732160) - [Floppy Disk / Diskettes // retrocmp / retro computing](https://retrocmp.de/fdd/diskette/diskette.htm)
 * [2025-10-28, 12:19:38](https://news.ycombinator.com/item?id=45731848) - [Tailscale Services](https://tailscale.com/blog/services-beta)
 * [2025-10-28, 11:39:24](https://news.ycombinator.com/item?id=45731539) - [Amazon confirms 14,000 job losses in corporate division](https://www.bbc.com/news/articles/c1m3zm9jnl1o)
+* [2025-10-28, 11:28:56](https://news.ycombinator.com/item?id=45731469) - [Resolution limit of the eye – how many pixels can we see?](https://www.nature.com/articles/s41467-025-64679-2)
 * [2025-10-28, 11:14:54](https://news.ycombinator.com/item?id=45731385) - [Nine months later, is still the \"Gulf of Mexico\" to news outlets](https://www.niemanlab.org/2025/10/nine-months-later-that-body-of-water-down-south-is-still-the-gulf-of-mexico-to-news-outlets/)
 * [2025-10-28, 11:12:32](https://news.ycombinator.com/item?id=45731366) - [Show HN: Bash Screensavers](https://github.com/attogram/bash-screensavers)
 * [2025-10-28, 11:03:59](https://news.ycombinator.com/item?id=45731321) - [Your vibe coded slop PR is not welcome](https://samsaffron.com/archive/2025/10/27/your-vibe-coded-slop-pr-is-not-welcome)
