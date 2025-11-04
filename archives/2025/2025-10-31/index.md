@@ -42,6 +42,7 @@
 * [2025-10-31, 13:03:46](https://news.ycombinator.com/item?id=45771538) - [OpenAI Uses Complex and Circular Deals to Fuel Its Multibillion-Dollar Rise](https://www.nytimes.com/interactive/2025/10/31/technology/openai-fundraising-deals.html)
 * [2025-10-31, 12:18:35](https://news.ycombinator.com/item?id=45771211) - [Affinity, targeting office workers over pros, making pro tools the loss leader](https://tedium.co/2025/10/30/canva-affinity-free-loss-leader-strategy/)
 * [2025-10-31, 12:11:39](https://news.ycombinator.com/item?id=45771157) - [Telephone: A Game for Artists](https://telephonegame.art/game)
+* [2025-10-31, 12:11:03](https://news.ycombinator.com/item?id=45771151) - [By the Power of Grayscale](https://zserge.com/posts/grayskull/)
 * [2025-10-31, 11:54:00](https://news.ycombinator.com/item?id=45771019) - [Perfetto: Swiss army knife for Linux client tracing](https://lalitm.com/perfetto-swiss-army-knife/)
 * [2025-10-31, 11:41:25](https://news.ycombinator.com/item?id=45770928) - [After delays, Egypt set for lavish opening of grand museum](https://phys.org/news/2025-10-delays-egypt-lavish-grand-museum.html)
 * [2025-10-31, 11:33:41](https://news.ycombinator.com/item?id=45770875) - [The cryptography behind electronic passports](https://blog.trailofbits.com/2025/10/31/the-cryptography-behind-electronic-passports/)
