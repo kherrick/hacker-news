@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-11-05, 16:18:01](https://news.ycombinator.com/item?id=45824658) - [Norway reviews cybersecurity after remote-access feature found in Chinese buses](https://scandasia.com/norway-reviews-cybersecurity-after-hidden-remote-access-feature-found-in-chinese-buses/)
 * [2025-11-05, 15:24:35](https://news.ycombinator.com/item?id=45823831) - [Ruby and Its Neighbors: Smalltalk](https://noelrappin.com/blog/2025/11/ruby-and-its-neighbors-smalltalk/)
 * [2025-11-05, 14:43:26](https://news.ycombinator.com/item?id=45823358) - [Kosmos: An AI Scientist for Autonomous Discovery](https://arxiv.org/abs/2511.02824)
 * [2025-11-05, 14:29:49](https://news.ycombinator.com/item?id=45823234) - [Ask HN: My family business runs on a 1993-era text-based-UI (TUI). Anybody else?](https://news.ycombinator.com/item?id=45823234)
@@ -9,7 +10,6 @@
 * [2025-11-05, 14:06:22](https://news.ycombinator.com/item?id=45822982) - [A P2P Vision for QUIC (2024)](https://seemann.io/posts/2024-10-26---p2p-quic/)
 * [2025-11-05, 14:00:41](https://news.ycombinator.com/item?id=45822902) - [Microsoft Can't Keep EU Data Safe from US Authorities](https://www.forbes.com/sites/emmawoollacott/2025/07/22/microsoft-cant-keep-eu-data-safe-from-us-authorities/)
 * [2025-11-05, 13:22:35](https://news.ycombinator.com/item?id=45822559) - [Radiant Computer](https://radiant.computer)
-* [2025-11-05, 13:20:16](https://news.ycombinator.com/item?id=45822539) - [NY smartphone ban has made lunch loud again](https://gothamist.com/news/ny-smartphone-ban-has-made-lunch-loud-again)
 * [2025-11-05, 12:51:44](https://news.ycombinator.com/item?id=45822302) - [iOS 26.2 to allow third-party app stores in Japan ahead of regulatory deadline](https://www.macrumors.com/2025/11/05/ios-26-2-third-party-app-stores-japan/)
 * [2025-11-05, 12:21:39](https://news.ycombinator.com/item?id=45822071) - [The grim truth behind the Pied Piper (2020)](https://www.bbc.com/travel/article/20200902-the-grim-truth-behind-the-pied-piper)
 * [2025-11-05, 12:00:17](https://news.ycombinator.com/item?id=45821921) - [Founder in Residence at Woz (San Francisco)](https://news.ycombinator.com/item?id=45821921)
