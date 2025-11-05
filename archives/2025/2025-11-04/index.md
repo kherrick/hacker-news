@@ -41,6 +41,7 @@
 * [2025-11-04, 16:59:05](https://news.ycombinator.com/item?id=45813195) - [US nuclear weapons testing can forever scar a nation.Just ask Marshall Island](https://www.cnn.com/2025/11/04/asia/nuclear-testing-marshall-islands-legacy-intl-hnk-dst)
 * [2025-11-04, 16:54:27](https://news.ycombinator.com/item?id=45813148) - [Data breach at major Swedish software supplier impacts 1.5M](https://www.bleepingcomputer.com/news/security/data-breach-at-major-swedish-software-supplier-impacts-15-million/)
 * [2025-11-04, 16:36:52](https://news.ycombinator.com/item?id=45812901) - [YouTube AI error costs creator his channel over alleged link to Japanese account](https://piunikaweb.com/2025/11/04/youtube-ai-error-terminates-enderman-channel/)
+* [2025-11-04, 16:26:09](https://news.ycombinator.com/item?id=45812756) - [An eBPF Loophole: Using XDP for Egress Traffic](https://loopholelabs.io/blog/xdp-for-egress-traffic)
 * [2025-11-04, 16:12:27](https://news.ycombinator.com/item?id=45812606) - [Pg_lake: Postgres with Iceberg and data lake access](https://github.com/Snowflake-Labs/pg_lake)
 * [2025-11-04, 16:04:18](https://news.ycombinator.com/item?id=45812499) - [The 512KB Club](https://512kb.club/)
 * [2025-11-04, 15:55:59](https://news.ycombinator.com/item?id=45812403) - [Server DRAM prices surge 50% as AI-induced memory shortage hits hyperscalers](https://www.tomshardware.com/pc-components/storage/server-dram-prices-surge-50-percent)
