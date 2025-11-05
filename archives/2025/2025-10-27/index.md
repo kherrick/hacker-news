@@ -12,6 +12,7 @@
 * [2025-10-27, 22:30:59](https://news.ycombinator.com/item?id=45727097) - [Linux VM Without VM Software – User Mode Linux](https://popovicu.com/posts/linux-vm-without-vm-software-user-mode/)
 * [2025-10-27, 22:26:30](https://news.ycombinator.com/item?id=45727060) - [OpenAI says over a million people talk to ChatGPT about suicide weekly](https://techcrunch.com/2025/10/27/openai-says-over-a-million-people-talk-to-chatgpt-about-suicide-weekly/)
 * [2025-10-27, 21:47:07](https://news.ycombinator.com/item?id=45726718) - [Welcome to hell; please drive carefully](https://2earth.github.io/website/20251026.html)
+* [2025-10-27, 21:35:46](https://news.ycombinator.com/item?id=45726597) - [Inside an Isotemp OCXO107-10 Oven Controlled Crystal Oscillator](https://tomverbeure.github.io/2025/10/26/Inside-an-Isotemp-OCXO107-10.html)
 * [2025-10-27, 21:04:11](https://news.ycombinator.com/item?id=45726272) - [Movycat – A terminal movie player written in Zig](https://github.com/M64GitHub/movycat)
 * [2025-10-27, 20:57:12](https://news.ycombinator.com/item?id=45726192) - [Easy RISC-V: An interactive introduction to RISC-V assembly programming](https://dramforever.github.io/easyriscv/)
 * [2025-10-27, 20:52:08](https://news.ycombinator.com/item?id=45726137) - [The PSF has withdrawn a $1.5M proposal to US Government grant program](https://simonwillison.net/2025/Oct/27/psf-withdrawn-proposal/)

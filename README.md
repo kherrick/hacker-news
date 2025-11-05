@@ -2,7 +2,6 @@
 
 * [2025-11-05, 04:12:53](https://news.ycombinator.com/item?id=45818973) - [Epic vs. Google settlement: Opening up Android](https://twitter.com/TimSweeneyEpic/status/1985920786545123613)
 * [2025-11-05, 03:15:37](https://news.ycombinator.com/item?id=45818562) - [Hypothesis: Property-Based Testing for Python](https://hypothesis.readthedocs.io/en/latest/)
-* [2025-11-05, 03:04:58](https://news.ycombinator.com/item?id=45818499) - [Preventing Kubernetes from Pulling the Pause Image from the Internet](https://kyle.cascade.family/posts/preventing-kubernetes-from-pulling-the-pause-image-from-the-internet/)
 * [2025-11-05, 03:01:59](https://news.ycombinator.com/item?id=45818483) - [What Happened to Piracy? Copyright Enforcement Fades as AI Giants Rise](https://www.leefang.com/p/what-happened-to-piracy-copyright)
 * [2025-11-05, 02:50:06](https://news.ycombinator.com/item?id=45818421) - [Zohran Mamdani wins the New York mayoral race](https://www.nbcnews.com/politics/elections/new-york-city-mayor-election-winner-2025-race-rcna238909)
 * [2025-11-05, 02:30:38](https://news.ycombinator.com/item?id=45818319) - [Direct File won't happen in 2026, IRS tells states](https://www.nextgov.com/digital-government/2025/11/direct-file-wont-happen-2026-irs-tells-states/409309/)
@@ -29,6 +28,7 @@
 * [2025-10-28, 15:36:39](https://news.ycombinator.com/item?id=45734259) - [Whole Earth Index](https://wholeearth.info/)
 * [2025-10-28, 15:08:31](https://news.ycombinator.com/item?id=45733836) - [Frozen String Literals: Past, Present, Future?](https://byroot.github.io/ruby/performance/2025/10/28/string-literals.html)
 * [2025-10-28, 14:17:04](https://news.ycombinator.com/item?id=45733204) - [Asus Announces October Availability of ProArt Display 8K PA32KCX](https://press.asus.com/news/press-releases/asus-proart-display-8k-pa32kcx-availability/)
+* [2025-10-27, 21:35:46](https://news.ycombinator.com/item?id=45726597) - [Inside an Isotemp OCXO107-10 Oven Controlled Crystal Oscillator](https://tomverbeure.github.io/2025/10/26/Inside-an-Isotemp-OCXO107-10.html)
 * [2025-10-24, 07:54:17](https://news.ycombinator.com/item?id=45692042) - [Singing bus horns in West Sumatra](https://www.auralarchipelago.com/auralarchipelago/kalason)
 
 ## [Archives](archives/index.md)
