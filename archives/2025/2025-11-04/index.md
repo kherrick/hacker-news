@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-11-04](index.md)
 
+* [2025-11-04, 23:53:02](https://news.ycombinator.com/item?id=45817308) - [FDA described as a \"clown show\" amid latest scandal; top drug regulator is out](https://arstechnica.com/health/2025/11/fda-described-as-a-clown-show-amid-latest-scandal-top-drug-regulator-is-out/)
 * [2025-11-04, 23:35:27](https://news.ycombinator.com/item?id=45817167) - [Uncle Sam wants to scan your iris and collect your DNA, citizen or not](https://www.theregister.com/2025/11/04/dhs_wants_to_collect_biometric_data/)
 * [2025-11-04, 23:29:31](https://news.ycombinator.com/item?id=45817114) - [Bluetui – A TUI for managing Bluetooth on Linux](https://github.com/pythops/bluetui)
 * [2025-11-04, 23:13:06](https://news.ycombinator.com/item?id=45816981) - [WASM 45% slower than Native Code](https://ar5iv.labs.arxiv.org/html/1901.09056)
@@ -55,6 +56,7 @@
 * [2025-11-04, 11:52:02](https://news.ycombinator.com/item?id=45809897) - [This Month in Ladybird – October 2025](https://ladybird.org/newsletter/2025-10-31/)
 * [2025-11-04, 11:47:46](https://news.ycombinator.com/item?id=45809876) - [Studio Ghibli, Bandai Namco, Square Enix Demand OpenAI to Stop Using Their IP](https://www.theverge.com/news/812545/coda-studio-ghibli-sora-2-copyright-infringement)
 * [2025-11-04, 11:47:06](https://news.ycombinator.com/item?id=45809866) - [Over $70T of inherited wealth over next decade will widen inequality, economists](https://www.theguardian.com/inequality/2025/nov/03/more-than-70tn-of-inherited-wealth-over-next-decade-will-widen-inequality-economists-warn)
+* [2025-11-04, 11:09:24](https://news.ycombinator.com/item?id=45809644) - [Building blobd: single-machine object store with sub-ms reads and 15 GB/s upload](https://blog.wilsonl.in/blobd/)
 * [2025-11-04, 09:58:14](https://news.ycombinator.com/item?id=45809193) - [What Is a Manifold?](https://www.quantamagazine.org/what-is-a-manifold-20251103/)
 * [2025-11-04, 09:25:31](https://news.ycombinator.com/item?id=45808998) - [Bloom filters are good for search that does not scale](https://notpeerreviewed.com/blog/bloom-filters/)
 * [2025-11-04, 09:11:27](https://news.ycombinator.com/item?id=45808918) - [Show HN: Yourshoesmells.com – Find the most smelly boulder gym](https://yourshoesmells.com)
