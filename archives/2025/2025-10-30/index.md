@@ -35,6 +35,7 @@
 * [2025-10-30, 16:20:35](https://news.ycombinator.com/item?id=45761746) - [Dating: A Mysterious Constellation of Facts](https://dynomight.net/dating/)
 * [2025-10-30, 16:13:19](https://news.ycombinator.com/item?id=45761659) - [Affinity by Canva](https://www.affinity.studio/)
 * [2025-10-30, 15:54:38](https://news.ycombinator.com/item?id=45761445) - [Affinity Studio Now Free](https://www.affinity.studio/get-affinity)
+* [2025-10-30, 15:53:21](https://news.ycombinator.com/item?id=45761433) - [Apple uses 3D Gaussian splatting for Personas and 3D conversions of photos](https://www.cnet.com/tech/computing/apple-talks-to-me-about-vision-pro-personas-where-is-our-virtual-presence-headed/)
 * [2025-10-30, 15:21:46](https://news.ycombinator.com/item?id=45761042) - [ZOZO's Contact Solver (for physics-based simulations)](https://github.com/st-tech/ppf-contact-solver)
 * [2025-10-30, 15:20:37](https://news.ycombinator.com/item?id=45761027) - [PlanetScale Offering $5 Databases](https://planetscale.com/blog/5-dollar-planetscale)
 * [2025-10-30, 15:07:15](https://news.ycombinator.com/item?id=45760878) - [Free software scares normal people](https://danieldelaney.net/normal/)
