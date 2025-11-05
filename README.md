@@ -13,6 +13,7 @@
 * [2025-11-05, 12:51:44](https://news.ycombinator.com/item?id=45822302) - [iOS 26.2 to allow third-party app stores in Japan ahead of regulatory deadline](https://www.macrumors.com/2025/11/05/ios-26-2-third-party-app-stores-japan/)
 * [2025-11-05, 12:21:39](https://news.ycombinator.com/item?id=45822071) - [The grim truth behind the Pied Piper (2020)](https://www.bbc.com/travel/article/20200902-the-grim-truth-behind-the-pied-piper)
 * [2025-11-05, 12:00:17](https://news.ycombinator.com/item?id=45821921) - [Founder in Residence at Woz (San Francisco)](https://news.ycombinator.com/item?id=45821921)
+* [2025-11-05, 08:54:11](https://news.ycombinator.com/item?id=45820872) - [I’m worried that they put co-pilot in Excel](https://simonwillison.net/2025/Nov/5/brenda/)
 * [2025-11-05, 03:15:37](https://news.ycombinator.com/item?id=45818562) - [Hypothesis: Property-Based Testing for Python](https://hypothesis.readthedocs.io/en/latest/)
 * [2025-11-05, 02:58:25](https://news.ycombinator.com/item?id=45818471) - [The Microsoft SoftCard for the Apple II: Getting two processors to share memory](https://devblogs.microsoft.com/oldnewthing/20251104-00/?p=111758)
 * [2025-11-04, 23:29:31](https://news.ycombinator.com/item?id=45817114) - [Bluetui – A TUI for managing Bluetooth on Linux](https://github.com/pythops/bluetui)
@@ -27,7 +28,6 @@
 * [2025-10-30, 15:53:21](https://news.ycombinator.com/item?id=45761433) - [Apple’s Persona technology uses Gaussian splatting to create 3D facial scans](https://www.cnet.com/tech/computing/apple-talks-to-me-about-vision-pro-personas-where-is-our-virtual-presence-headed/)
 * [2025-10-30, 13:30:37](https://news.ycombinator.com/item?id=45759839) - [RISC-V takes first step toward international ISO/IEC standardization](https://riscv.org/blog/risc-v-jtc1-pas-submitter/)
 * [2025-10-28, 14:17:04](https://news.ycombinator.com/item?id=45733204) - [Asus Announces October Availability of ProArt Display 8K PA32KCX](https://press.asus.com/news/press-releases/asus-proart-display-8k-pa32kcx-availability/)
-* [2025-10-27, 22:38:48](https://news.ycombinator.com/item?id=45727173) - [Blue Prince (1989)](https://novalis.org/blog/2025-10-27-blue-prince-1989.html)
 * [2025-10-27, 06:36:27](https://news.ycombinator.com/item?id=45718002) - [Stack walking: space and time trade-offs](https://maskray.me/blog/2025-10-26-stack-walking-space-and-time-trade-offs)
 * [2025-10-24, 18:07:53](https://news.ycombinator.com/item?id=45697414) - [Parsing Chemistry](https://re.factorcode.org/2025/10/parsing-chemistry.html)
 
