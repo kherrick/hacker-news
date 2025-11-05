@@ -58,6 +58,7 @@
 * [2025-10-28, 14:34:18](https://news.ycombinator.com/item?id=45733412) - [A brief history of random numbers](https://crates.io/crates/oorandom#a-brief-history-of-random-numbers)
 * [2025-10-28, 14:34:07](https://news.ycombinator.com/item?id=45733410) - [Learning from Sudoku Solvers (2007)](http://ravimohan.blogspot.com/2007/04/learning-from-sudoku-solvers.html)
 * [2025-10-28, 14:27:37](https://news.ycombinator.com/item?id=45733329) - [The AirPods Pro 3 flight problem](https://basicappleguy.com/basicappleblog/the-airpods-pro-3-flight-problem)
+* [2025-10-28, 14:17:04](https://news.ycombinator.com/item?id=45733204) - [Asus Announces October Availability of ProArt Display 8K PA32KCX](https://press.asus.com/news/press-releases/asus-proart-display-8k-pa32kcx-availability/)
 * [2025-10-28, 14:16:42](https://news.ycombinator.com/item?id=45733197) - [Washington Post editorials omit a key disclosure: Bezos' financial ties](https://www.npr.org/2025/10/28/nx-s1-5587932/washington-post-editorials-omit-a-key-disclosure-bezos-financial-ties)
 * [2025-10-28, 14:13:25](https://news.ycombinator.com/item?id=45733169) - [Our LLM-controlled office robot can't pass butter](https://andonlabs.com/evals/butter-bench)
 * [2025-10-28, 14:01:03](https://news.ycombinator.com/item?id=45733030) - [Society will accept a death caused by a robotaxi, Waymo co-CEO says](https://www.sfgate.com/tech/article/society-accept-robotaxi-death-waymo-21123178.php)
