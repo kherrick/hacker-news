@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-11-05](index.md)
 
+* [2025-11-05, 15:24:35](https://news.ycombinator.com/item?id=45823831) - [Ruby and Its Neighbors: Smalltalk](https://noelrappin.com/blog/2025/11/ruby-and-its-neighbors-smalltalk/)
 * [2025-11-05, 14:52:30](https://news.ycombinator.com/item?id=45823449) - [Global stock markets fall sharply over AI bubble fears](https://www.theguardian.com/business/2025/nov/05/global-stock-markets-fall-sharply-over-ai-bubble-fears)
 * [2025-11-05, 14:43:26](https://news.ycombinator.com/item?id=45823358) - [Kosmos: An AI Scientist for Autonomous Discovery](https://arxiv.org/abs/2511.02824)
 * [2025-11-05, 14:38:27](https://news.ycombinator.com/item?id=45823313) - [Michael Burry is back with two bets against Nvidia and Palantir](https://www.cnn.com/2025/11/05/business/nvidia-palantir-michael-burry-stock)

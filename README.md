@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-11-05, 15:24:35](https://news.ycombinator.com/item?id=45823831) - [Ruby and Its Neighbors: Smalltalk](https://noelrappin.com/blog/2025/11/ruby-and-its-neighbors-smalltalk/)
 * [2025-11-05, 14:43:26](https://news.ycombinator.com/item?id=45823358) - [Kosmos: An AI Scientist for Autonomous Discovery](https://arxiv.org/abs/2511.02824)
 * [2025-11-05, 14:29:49](https://news.ycombinator.com/item?id=45823234) - [Ask HN: My family business runs on a 1993-era text-based-UI (TUI). Anybody else?](https://news.ycombinator.com/item?id=45823234)
 * [2025-11-05, 14:25:36](https://news.ycombinator.com/item?id=45823186) - [Carice TC2 – A non-digital electric car](https://www.caricecars.com/)
-* [2025-11-05, 14:24:15](https://news.ycombinator.com/item?id=45823162) - [Gnome Mutter Now \"Completely Drops the Whole X11 Back End\"](https://www.phoronix.com/news/GNOME-Mutter-Drops-X11)
 * [2025-11-05, 14:21:13](https://news.ycombinator.com/item?id=45823141) - [The shadows lurking in the equations](https://gods.art/articles/equation_shadows.html)
 * [2025-11-05, 14:14:23](https://news.ycombinator.com/item?id=45823059) - [Removing XSLT for a more secure browser](https://developer.chrome.com/docs/web-platform/deprecating-xslt)
 * [2025-11-05, 14:06:22](https://news.ycombinator.com/item?id=45822982) - [A P2P Vision for QUIC (2024)](https://seemann.io/posts/2024-10-26---p2p-quic/)
@@ -28,7 +28,7 @@
 * [2025-10-30, 15:53:21](https://news.ycombinator.com/item?id=45761433) - [Apple’s Persona technology uses Gaussian splatting to create 3D facial scans](https://www.cnet.com/tech/computing/apple-talks-to-me-about-vision-pro-personas-where-is-our-virtual-presence-headed/)
 * [2025-10-30, 13:30:37](https://news.ycombinator.com/item?id=45759839) - [RISC-V takes first step toward international ISO/IEC standardization](https://riscv.org/blog/risc-v-jtc1-pas-submitter/)
 * [2025-10-28, 14:17:04](https://news.ycombinator.com/item?id=45733204) - [Asus Announces October Availability of ProArt Display 8K PA32KCX](https://press.asus.com/news/press-releases/asus-proart-display-8k-pa32kcx-availability/)
-* [2025-10-27, 22:38:48](https://news.ycombinator.com/item?id=45727173) - [Blue Prince (1989)](https://novalis.org/blog/2025-10-27-blue-prince-1989.html)
+* [2025-10-27, 06:36:27](https://news.ycombinator.com/item?id=45718002) - [Stack walking: space and time trade-offs](https://maskray.me/blog/2025-10-26-stack-walking-space-and-time-trade-offs)
 * [2025-10-24, 18:07:53](https://news.ycombinator.com/item?id=45697414) - [Parsing Chemistry](https://re.factorcode.org/2025/10/parsing-chemistry.html)
 
 ## [Archives](archives/index.md)
