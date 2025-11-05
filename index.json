@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-11-05, 14:21:13",
+      "https://news.ycombinator.com/item?id=45823141"
+    ],
+    [
+      "The Shadows Lurking in the Equations",
+      "https://gods.art/articles/equation_shadows.html"
+    ]
+  ],
+  [
+    [
       "2025-11-05, 13:20:16",
       "https://news.ycombinator.com/item?id=45822539"
     ],
@@ -77,16 +87,6 @@
     [
       "Hypothesis: Property-Based Testing for Python",
       "https://hypothesis.readthedocs.io/en/latest/"
-    ]
-  ],
-  [
-    [
-      "2025-11-05, 03:04:58",
-      "https://news.ycombinator.com/item?id=45818499"
-    ],
-    [
-      "Preventing Kubernetes from Pulling the Pause Image from the Internet",
-      "https://kyle.cascade.family/posts/preventing-kubernetes-from-pulling-the-pause-image-from-the-internet/"
     ]
   ],
   [
