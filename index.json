@@ -1,16 +1,6 @@
 [
   [
     [
-      "2025-11-05, 04:12:53",
-      "https://news.ycombinator.com/item?id=45818973"
-    ],
-    [
-      "Epic vs. Google settlement: Opening up Android",
-      "https://twitter.com/TimSweeneyEpic/status/1985920786545123613"
-    ]
-  ],
-  [
-    [
       "2025-11-05, 03:15:37",
       "https://news.ycombinator.com/item?id=45818562"
     ],
@@ -181,6 +171,16 @@
   ],
   [
     [
+      "2025-11-04, 14:31:27",
+      "https://news.ycombinator.com/item?id=45811447"
+    ],
+    [
+      "Optimizing Datalog for the GPU",
+      "https://danglingpointers.substack.com/p/optimizing-datalog-for-the-gpu"
+    ]
+  ],
+  [
+    [
       "2025-11-04, 13:58:35",
       "https://news.ycombinator.com/item?id=45811093"
     ],
@@ -211,6 +211,16 @@
   ],
   [
     [
+      "2025-10-30, 16:08:25",
+      "https://news.ycombinator.com/item?id=45761594"
+    ],
+    [
+      "SPy: An interpreter and compiler for a fast statically typed variant of Python",
+      "https://antocuni.eu/2025/10/29/inside-spy-part-1-motivations-and-goals/"
+    ]
+  ],
+  [
+    [
       "2025-10-30, 15:53:21",
       "https://news.ycombinator.com/item?id=45761433"
     ],
@@ -227,16 +237,6 @@
     [
       "RISC-V takes first step toward international ISO/IEC standardization",
       "https://riscv.org/blog/risc-v-jtc1-pas-submitter/"
-    ]
-  ],
-  [
-    [
-      "2025-10-29, 17:19:40",
-      "https://news.ycombinator.com/item?id=45750005"
-    ],
-    [
-      "Vectorizing for Fun and Performance",
-      "https://www.ibm.com/support/pages/vectorizing-fun-and-performance"
     ]
   ],
   [
