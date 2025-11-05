@@ -13,6 +13,7 @@
 * [2025-11-05, 14:21:13](https://news.ycombinator.com/item?id=45823141) - [The Shadows Lurking in the Equations](https://gods.art/articles/equation_shadows.html)
 * [2025-11-05, 14:14:23](https://news.ycombinator.com/item?id=45823059) - [Removing XSLT for a more secure browser](https://developer.chrome.com/docs/web-platform/deprecating-xslt)
 * [2025-11-05, 14:06:22](https://news.ycombinator.com/item?id=45822982) - [A P2P Vision for QUIC (2024)](https://seemann.io/posts/2024-10-26---p2p-quic/)
+* [2025-11-05, 14:00:41](https://news.ycombinator.com/item?id=45822902) - [Microsoft Can't Keep EU Data Safe from US Authorities](https://www.forbes.com/sites/emmawoollacott/2025/07/22/microsoft-cant-keep-eu-data-safe-from-us-authorities/)
 * [2025-11-05, 13:22:35](https://news.ycombinator.com/item?id=45822559) - [Radiant Computer](https://radiant.computer)
 * [2025-11-05, 13:20:16](https://news.ycombinator.com/item?id=45822539) - [NY Smartphone Ban Has Made Lunch Loud Again](https://gothamist.com/news/ny-smartphone-ban-has-made-lunch-loud-again)
 * [2025-11-05, 13:16:58](https://news.ycombinator.com/item?id=45822513) - [Optimism Associated with Exceptional Longevity](https://www.pnas.org/doi/10.1073/pnas.1900712116)
