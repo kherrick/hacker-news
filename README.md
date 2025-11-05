@@ -18,6 +18,7 @@
 * [2025-11-05, 13:20:16](https://news.ycombinator.com/item?id=45822539) - [NY smartphone ban has made lunch loud again](https://gothamist.com/news/ny-smartphone-ban-has-made-lunch-loud-again)
 * [2025-11-05, 13:16:58](https://news.ycombinator.com/item?id=45822513) - [Optimism associated with exceptional longevity (2019)](https://www.pnas.org/doi/10.1073/pnas.1900712116)
 * [2025-11-05, 12:00:17](https://news.ycombinator.com/item?id=45821921) - [Founder in Residence at Woz (San Francisco)](https://news.ycombinator.com/item?id=45821921)
+* [2025-11-04, 23:10:53](https://news.ycombinator.com/item?id=45816963) - [UPS plane crashes near Louisville airport](https://avherald.com/h?article=52f5748f&opt=0)
 * [2025-11-04, 20:16:45](https://news.ycombinator.com/item?id=45815419) - [I was right about dishwasher pods and now I can prove it [video]](https://www.youtube.com/watch?v=DAX2_mPr9W8)
 * [2025-11-04, 16:26:09](https://news.ycombinator.com/item?id=45812756) - [An eBPF Loophole: Using XDP for Egress Traffic](https://loopholelabs.io/blog/xdp-for-egress-traffic)
 * [2025-11-04, 06:35:27](https://news.ycombinator.com/item?id=45807993) - [I want a good parallel language [video]](https://www.youtube.com/watch?v=0-eViUyPwso)
@@ -27,7 +28,6 @@
 * [2025-11-01, 16:00:47](https://news.ycombinator.com/item?id=45782702) - [Timing Wheels](https://pncnmnp.github.io/blogs/timing-wheels.html)
 * [2025-10-30, 18:18:40](https://news.ycombinator.com/item?id=45763262) - [Learning from failure to tackle hard problems](https://blog.ml.cmu.edu/2025/10/27/learning-from-failure-to-tackle-extremely-hard-problems/)
 * [2025-10-30, 16:08:25](https://news.ycombinator.com/item?id=45761594) - [SPy: An interpreter and compiler for a fast statically typed variant of Python](https://antocuni.eu/2025/10/29/inside-spy-part-1-motivations-and-goals/)
-* [2025-10-29, 09:54:05](https://news.ycombinator.com/item?id=45744683) - [Making MLS More Decentralized](https://blog.phnx.im/making-mls-more-decentralized/)
 * [2025-10-29, 08:10:58](https://news.ycombinator.com/item?id=45744038) - [Firefox profiles: Private, focused spaces for all the ways you browse](https://blog.mozilla.org/en/firefox/profile-management/)
 * [2025-10-24, 00:51:43](https://news.ycombinator.com/item?id=45689443) - [Unicode Footguns in Python](https://pythonkoans.substack.com/p/koan-15-the-invisible-ink)
 
