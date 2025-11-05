@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-11-05, 22:06:54](https://news.ycombinator.com/item?id=45828742) - [Microsoft and Google overstate job creation at Chile data centers](https://restofworld.org/2025/data-centers-jobs-microsoft-google-chile/)
 * [2025-11-05, 20:40:39](https://news.ycombinator.com/item?id=45827661) - [A Lost IBM PC/at Model? Analyzing a Newfound Old Bios](https://int10h.org/blog/2025/11/lost-ibm-at-model-bios-analysis/)
 * [2025-11-05, 20:00:40](https://news.ycombinator.com/item?id=45827190) - [Solarpunk is happening in Africa](https://climatedrift.substack.com/p/why-solarpunk-is-already-happening)
 * [2025-11-05, 19:49:27](https://news.ycombinator.com/item?id=45827042) - [3D Geological Models in Minecraft](https://www.bgs.ac.uk/discovering-geology/maps-and-resources/maps/minecraft-3d-geological-models/)
@@ -16,7 +17,6 @@
 * [2025-11-05, 14:06:22](https://news.ycombinator.com/item?id=45822982) - [A P2P Vision for QUIC (2024)](https://seemann.io/posts/2024-10-26---p2p-quic/)
 * [2025-11-05, 13:20:16](https://news.ycombinator.com/item?id=45822539) - [NY smartphone ban has made lunch loud again](https://gothamist.com/news/ny-smartphone-ban-has-made-lunch-loud-again)
 * [2025-11-05, 13:16:58](https://news.ycombinator.com/item?id=45822513) - [Optimism associated with exceptional longevity (2019)](https://www.pnas.org/doi/10.1073/pnas.1900712116)
-* [2025-11-05, 12:21:39](https://news.ycombinator.com/item?id=45822071) - [The grim truth behind the Pied Piper (2020)](https://www.bbc.com/travel/article/20200902-the-grim-truth-behind-the-pied-piper)
 * [2025-11-05, 12:00:17](https://news.ycombinator.com/item?id=45821921) - [Founder in Residence at Woz (San Francisco)](https://news.ycombinator.com/item?id=45821921)
 * [2025-11-04, 20:16:45](https://news.ycombinator.com/item?id=45815419) - [I was right about dishwasher pods and now I can prove it [video]](https://www.youtube.com/watch?v=DAX2_mPr9W8)
 * [2025-11-04, 16:26:09](https://news.ycombinator.com/item?id=45812756) - [An eBPF Loophole: Using XDP for Egress Traffic](https://loopholelabs.io/blog/xdp-for-egress-traffic)
