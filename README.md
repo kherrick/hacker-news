@@ -29,7 +29,7 @@
 * [2025-10-30, 16:08:25](https://news.ycombinator.com/item?id=45761594) - [SPy: An interpreter and compiler for a fast statically typed variant of Python](https://antocuni.eu/2025/10/29/inside-spy-part-1-motivations-and-goals/)
 * [2025-10-29, 09:54:05](https://news.ycombinator.com/item?id=45744683) - [Making MLS More Decentralized](https://blog.phnx.im/making-mls-more-decentralized/)
 * [2025-10-29, 08:10:58](https://news.ycombinator.com/item?id=45744038) - [Firefox profiles: Private, focused spaces for all the ways you browse](https://blog.mozilla.org/en/firefox/profile-management/)
-* [2025-10-25, 05:08:30](https://news.ycombinator.com/item?id=45701484) - [Wafer-Scale AI Compute: A System Software Perspective](https://www.sigops.org/2025/wafer-scale-ai-compute-a-system-software-perspective/)
+* [2025-10-24, 00:51:43](https://news.ycombinator.com/item?id=45689443) - [Unicode Footguns in Python](https://pythonkoans.substack.com/p/koan-15-the-invisible-ink)
 
 ## [Archives](archives/index.md)
 
