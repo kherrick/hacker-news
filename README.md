@@ -2,6 +2,7 @@
 
 * [2025-11-05, 20:40:39](https://news.ycombinator.com/item?id=45827661) - [A Lost IBM PC/at Model? Analyzing a Newfound Old Bios](https://int10h.org/blog/2025/11/lost-ibm-at-model-bios-analysis/)
 * [2025-11-05, 20:00:40](https://news.ycombinator.com/item?id=45827190) - [Solarpunk is already happening in Africa](https://climatedrift.substack.com/p/why-solarpunk-is-already-happening)
+* [2025-11-05, 19:49:27](https://news.ycombinator.com/item?id=45827042) - [3D Geological Models in Minecraft](https://www.bgs.ac.uk/discovering-geology/maps-and-resources/maps/minecraft-3d-geological-models/)
 * [2025-11-05, 19:44:49](https://news.ycombinator.com/item?id=45826995) - [New gel restores dental enamel and could revolutionise tooth repair](https://www.nottingham.ac.uk/news/new-gel-restores-dental-enamel-and-could-revolutionise-tooth-repair)
 * [2025-11-05, 18:59:39](https://news.ycombinator.com/item?id=45826500) - [Internet Archive's legal fights are over, but its founder mourns what was lost](https://arstechnica.com/tech-policy/2025/11/the-internet-archive-survived-major-copyright-losses-whats-next/)
 * [2025-11-05, 18:45:57](https://news.ycombinator.com/item?id=45826348) - [The state of SIMD in Rust in 2025](https://shnatsel.medium.com/the-state-of-simd-in-rust-in-2025-32c263e5f53d)
@@ -29,7 +30,6 @@
 * [2025-10-30, 16:08:25](https://news.ycombinator.com/item?id=45761594) - [SPy: An interpreter and compiler for a fast statically typed variant of Python](https://antocuni.eu/2025/10/29/inside-spy-part-1-motivations-and-goals/)
 * [2025-10-29, 09:54:05](https://news.ycombinator.com/item?id=45744683) - [Making MLS More Decentralized](https://blog.phnx.im/making-mls-more-decentralized/)
 * [2025-10-29, 08:10:58](https://news.ycombinator.com/item?id=45744038) - [Firefox profiles: Private, focused spaces for all the ways you browse](https://blog.mozilla.org/en/firefox/profile-management/)
-* [2025-10-25, 05:08:30](https://news.ycombinator.com/item?id=45701484) - [Wafer-Scale AI Compute: A System Software Perspective](https://www.sigops.org/2025/wafer-scale-ai-compute-a-system-software-perspective/)
 
 ## [Archives](archives/index.md)
 
