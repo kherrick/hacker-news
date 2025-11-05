@@ -86,6 +86,7 @@
 * [2025-10-25, 05:30:57](https://news.ycombinator.com/item?id=45701546) - [How the brain's activity, energy use and blood flow change as people fall asleep](https://www.massgeneralbrigham.org/en/about/newsroom/press-releases/research-shows-coordinated-shift-in-brain-activity-while-asleep)
 * [2025-10-25, 05:14:53](https://news.ycombinator.com/item?id=45701506) - [The Suppliers Behind the Apple Pencil Pro](https://quartr.com/insights/company-research/the-suppliers-behind-the-apple-pencil-pro)
 * [2025-10-25, 05:14:16](https://news.ycombinator.com/item?id=45701503) - [The Goon Squad](https://harpers.org/archive/2025/11/the-goon-squad-daniel-kolitz-porn-masturbation-loneliness/)
+* [2025-10-25, 05:08:30](https://news.ycombinator.com/item?id=45701484) - [Wafer-Scale AI Compute: A System Software Perspective](https://www.sigops.org/2025/wafer-scale-ai-compute-a-system-software-perspective/)
 * [2025-10-25, 04:48:10](https://news.ycombinator.com/item?id=45701427) - [SuperSonic: SuperCollider in the Browser](https://sonic-pi.net/supersonic/demo.html)
 * [2025-10-25, 04:42:09](https://news.ycombinator.com/item?id=45701404) - [Mistakes I see engineers making in their code reviews](https://www.seangoedecke.com/good-code-reviews/)
 * [2025-10-25, 04:41:01](https://news.ycombinator.com/item?id=45701400) - [Wheeled Inverted Pendulum Model](https://scaron.info/robotics/wheeled-inverted-pendulum-model.html)

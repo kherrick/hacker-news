@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-11-05, 20:13:37](https://news.ycombinator.com/item?id=45827352) - [I Stopped Being a Climate Catastrophist](https://www.breakthroughjournal.org/p/why-i-stopped-being-a-climate-catastrophist)
 * [2025-11-05, 20:11:00](https://news.ycombinator.com/item?id=45827314) - [Tesla's German car sales more than halve in October as wider EV sales jump](https://www.reuters.com/business/autos-transportation/teslas-german-car-sales-more-than-halved-october-2025-11-05/)
 * [2025-11-05, 20:00:40](https://news.ycombinator.com/item?id=45827190) - [Solarpunk is already happening in Africa](https://climatedrift.substack.com/p/why-solarpunk-is-already-happening)
 * [2025-11-05, 19:44:49](https://news.ycombinator.com/item?id=45826995) - [New gel restores dental enamel and could revolutionise tooth repair](https://www.nottingham.ac.uk/news/new-gel-restores-dental-enamel-and-could-revolutionise-tooth-repair)
-* [2025-11-05, 19:42:58](https://news.ycombinator.com/item?id=45826971) - [Fiber reduces overall mortality by 23%](https://www.empirical.health/blog/dietary-fiber-reduces-all-cause-morality/)
 * [2025-11-05, 18:59:39](https://news.ycombinator.com/item?id=45826500) - [Internet Archive's legal fights are over, but its founder mourns what was lost](https://arstechnica.com/tech-policy/2025/11/the-internet-archive-survived-major-copyright-losses-whats-next/)
 * [2025-11-05, 18:45:57](https://news.ycombinator.com/item?id=45826348) - [The state of SIMD in Rust in 2025](https://shnatsel.medium.com/the-state-of-simd-in-rust-in-2025-32c263e5f53d)
 * [2025-11-05, 18:40:32](https://news.ycombinator.com/item?id=45826266) - [Dillo, a multi-platform graphical web browser](https://github.com/dillo-browser/dillo)
@@ -23,13 +23,13 @@
 * [2025-11-05, 12:51:44](https://news.ycombinator.com/item?id=45822302) - [iOS 26.2 to allow third-party app stores in Japan ahead of regulatory deadline](https://www.macrumors.com/2025/11/05/ios-26-2-third-party-app-stores-japan/)
 * [2025-11-05, 12:21:39](https://news.ycombinator.com/item?id=45822071) - [The grim truth behind the Pied Piper (2020)](https://www.bbc.com/travel/article/20200902-the-grim-truth-behind-the-pied-piper)
 * [2025-11-05, 12:00:17](https://news.ycombinator.com/item?id=45821921) - [Founder in Residence at Woz (San Francisco)](https://news.ycombinator.com/item?id=45821921)
-* [2025-11-04, 22:57:12](https://news.ycombinator.com/item?id=45816853) - [Mr TIFF](https://inventingthefuture.ghost.io/mr-tiff/)
+* [2025-11-04, 23:10:53](https://news.ycombinator.com/item?id=45816963) - [UPS plane crashes near Louisville airport](https://avherald.com/h?article=52f5748f&opt=0)
 * [2025-11-04, 16:26:09](https://news.ycombinator.com/item?id=45812756) - [An eBPF Loophole: Using XDP for Egress Traffic](https://loopholelabs.io/blog/xdp-for-egress-traffic)
 * [2025-11-04, 06:35:27](https://news.ycombinator.com/item?id=45807993) - [I want a good parallel language [video]](https://www.youtube.com/watch?v=0-eViUyPwso)
-* [2025-10-31, 11:00:54](https://news.ycombinator.com/item?id=45770654) - [DynGen – Run dynamic scripts on a SuperCollider server](https://scsynth.org/t/dyngen-dynamic-ugen/12518)
 * [2025-10-30, 18:18:40](https://news.ycombinator.com/item?id=45763262) - [Learning from failure to tackle hard problems](https://blog.ml.cmu.edu/2025/10/27/learning-from-failure-to-tackle-extremely-hard-problems/)
 * [2025-10-30, 16:08:25](https://news.ycombinator.com/item?id=45761594) - [SPy: An interpreter and compiler for a fast statically typed variant of Python](https://antocuni.eu/2025/10/29/inside-spy-part-1-motivations-and-goals/)
 * [2025-10-29, 09:54:05](https://news.ycombinator.com/item?id=45744683) - [Making MLS More Decentralized](https://blog.phnx.im/making-mls-more-decentralized/)
+* [2025-10-25, 05:08:30](https://news.ycombinator.com/item?id=45701484) - [Wafer-Scale AI Compute: A System Software Perspective](https://www.sigops.org/2025/wafer-scale-ai-compute-a-system-software-perspective/)
 
 ## [Archives](archives/index.md)
 
