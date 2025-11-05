@@ -10,6 +10,7 @@
 * [2025-11-04, 23:13:06](https://news.ycombinator.com/item?id=45816981) - [WASM 45% slower than Native Code](https://ar5iv.labs.arxiv.org/html/1901.09056)
 * [2025-11-04, 23:11:20](https://news.ycombinator.com/item?id=45816968) - [Google Removed 749M Anna's Archive URLs from Its Search Results](https://torrentfreak.com/google-removed-749-million-annas-archive-urls-from-its-search-results/)
 * [2025-11-04, 23:10:53](https://news.ycombinator.com/item?id=45816963) - [UPS plane crashes near Louisville airport](https://www.cbsnews.com/news/ups-plane-crash-louisville-kentucky/)
+* [2025-11-04, 23:10:53](https://news.ycombinator.com/item?id=45816963) - [UPS plane crashes near Louisville airport](https://avherald.com/h?article=52f5748f&opt=0)
 * [2025-11-04, 23:07:57](https://news.ycombinator.com/item?id=45816946) - [Border Patrol agent testifies sandwich thrown at him \"exploded all over,\"](https://www.cbsnews.com/news/sean-dunn-trial-dc-sandwich-thrower-testimony-onions-mustard/)
 * [2025-11-04, 22:59:22](https://news.ycombinator.com/item?id=45816879) - [Patching 68K Software – SimpleText](https://tinkerdifferent.com/threads/patching-68k-software-simpletext.4793/)
 * [2025-11-04, 22:57:12](https://news.ycombinator.com/item?id=45816853) - [Mr Tiff](https://inventingthefuture.ghost.io/mr-tiff/)
