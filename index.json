@@ -1,12 +1,12 @@
 [
   [
     [
-      "2025-11-05, 20:13:37",
-      "https://news.ycombinator.com/item?id=45827352"
+      "2025-11-05, 20:40:39",
+      "https://news.ycombinator.com/item?id=45827661"
     ],
     [
-      "I Stopped Being a Climate Catastrophist",
-      "https://www.breakthroughjournal.org/p/why-i-stopped-being-a-climate-catastrophist"
+      "A Lost IBM PC/at Model? Analyzing a Newfound Old Bios",
+      "https://int10h.org/blog/2025/11/lost-ibm-at-model-bios-analysis/"
     ]
   ],
   [
@@ -17,16 +17,6 @@
     [
       "Solarpunk is already happening in Africa",
       "https://climatedrift.substack.com/p/why-solarpunk-is-already-happening"
-    ]
-  ],
-  [
-    [
-      "2025-11-05, 19:49:27",
-      "https://news.ycombinator.com/item?id=45827042"
-    ],
-    [
-      "3D Geological Models in Minecraft",
-      "https://www.bgs.ac.uk/discovering-geology/maps-and-resources/maps/minecraft-3d-geological-models/"
     ]
   ],
   [
@@ -161,26 +151,6 @@
   ],
   [
     [
-      "2025-11-05, 14:00:41",
-      "https://news.ycombinator.com/item?id=45822902"
-    ],
-    [
-      "Microsoft Can't Keep EU Data Safe from US Authorities",
-      "https://www.forbes.com/sites/emmawoollacott/2025/07/22/microsoft-cant-keep-eu-data-safe-from-us-authorities/"
-    ]
-  ],
-  [
-    [
-      "2025-11-05, 13:22:35",
-      "https://news.ycombinator.com/item?id=45822559"
-    ],
-    [
-      "Radiant Computer",
-      "https://radiant.computer"
-    ]
-  ],
-  [
-    [
       "2025-11-05, 13:20:16",
       "https://news.ycombinator.com/item?id=45822539"
     ],
@@ -231,12 +201,12 @@
   ],
   [
     [
-      "2025-11-04, 23:10:53",
-      "https://news.ycombinator.com/item?id=45816963"
+      "2025-11-04, 20:16:45",
+      "https://news.ycombinator.com/item?id=45815419"
     ],
     [
-      "UPS plane crashes near Louisville airport",
-      "https://avherald.com/h?article=52f5748f&opt=0"
+      "I was right about dishwasher pods and now I can prove it [video]",
+      "https://www.youtube.com/watch?v=DAX2_mPr9W8"
     ]
   ],
   [
@@ -261,12 +231,22 @@
   ],
   [
     [
-      "2025-10-31, 11:00:54",
-      "https://news.ycombinator.com/item?id=45770654"
+      "2025-11-03, 21:27:56",
+      "https://news.ycombinator.com/item?id=45804664"
     ],
     [
-      "DynGen – Run dynamic scripts on a SuperCollider server",
-      "https://scsynth.org/t/dyngen-dynamic-ugen/12518"
+      "Apple App Store frontend source code archive",
+      "https://github.com/rxliuli/apps.apple.com"
+    ]
+  ],
+  [
+    [
+      "2025-11-01, 17:25:00",
+      "https://news.ycombinator.com/item?id=45783467"
+    ],
+    [
+      "Vacuum bricked after user blocks data collection – user mods it to run anyway",
+      "https://www.tomshardware.com/tech-industry/big-tech/manufacturer-issues-remote-kill-command-to-nuke-smart-vacuum-after-engineer-blocks-it-from-collecting-data-user-revives-it-with-custom-hardware-and-python-scripts-to-run-offline"
     ]
   ],
   [
@@ -297,6 +277,26 @@
     [
       "Making MLS More Decentralized",
       "https://blog.phnx.im/making-mls-more-decentralized/"
+    ]
+  ],
+  [
+    [
+      "2025-10-29, 08:10:58",
+      "https://news.ycombinator.com/item?id=45744038"
+    ],
+    [
+      "Firefox profiles: Private, focused spaces for all the ways you browse",
+      "https://blog.mozilla.org/en/firefox/profile-management/"
+    ]
+  ],
+  [
+    [
+      "2025-10-25, 05:08:30",
+      "https://news.ycombinator.com/item?id=45701484"
+    ],
+    [
+      "Wafer-Scale AI Compute: A System Software Perspective",
+      "https://www.sigops.org/2025/wafer-scale-ai-compute-a-system-software-perspective/"
     ]
   ]
 ]
