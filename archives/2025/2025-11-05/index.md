@@ -8,6 +8,7 @@
 * [2025-11-05, 14:38:27](https://news.ycombinator.com/item?id=45823313) - [Michael Burry is back with two bets against Nvidia and Palantir](https://www.cnn.com/2025/11/05/business/nvidia-palantir-michael-burry-stock)
 * [2025-11-05, 14:29:49](https://news.ycombinator.com/item?id=45823234) - [Ask HN: My family business runs on a 1993-era text-based-UI (TUI). Anybody else?](https://news.ycombinator.com/item?id=45823234)
 * [2025-11-05, 14:25:36](https://news.ycombinator.com/item?id=45823186) - [Carice TC2 – An fully analog electric car](https://www.caricecars.com/)
+* [2025-11-05, 14:24:15](https://news.ycombinator.com/item?id=45823162) - [Gnome Mutter Now \"Completely Drops the Whole X11 Back End\"](https://www.phoronix.com/news/GNOME-Mutter-Drops-X11)
 * [2025-11-05, 14:21:13](https://news.ycombinator.com/item?id=45823141) - [The Shadows Lurking in the Equations](https://gods.art/articles/equation_shadows.html)
 * [2025-11-05, 14:14:23](https://news.ycombinator.com/item?id=45823059) - [Removing XSLT for a more secure browser](https://developer.chrome.com/docs/web-platform/deprecating-xslt)
 * [2025-11-05, 14:06:22](https://news.ycombinator.com/item?id=45822982) - [A P2P Vision for QUIC (2024)](https://seemann.io/posts/2024-10-26---p2p-quic/)

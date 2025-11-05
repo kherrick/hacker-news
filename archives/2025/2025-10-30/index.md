@@ -20,6 +20,7 @@
 * [2025-10-30, 18:25:05](https://news.ycombinator.com/item?id=45763359) - [How We Found 7 TiB of Memory Just Sitting Around](https://render.com/blog/how-we-found-7-tib-of-memory-just-sitting-around)
 * [2025-10-30, 18:23:09](https://news.ycombinator.com/item?id=45763327) - [GooglePlay reports latest F-Droid version of Aves Libre as potential malware](https://github.com/deckerst/aves/issues/1802)
 * [2025-10-30, 18:19:12](https://news.ycombinator.com/item?id=45763267) - [SF neighborhood mourns loss of bodega cat allegedly killed by Waymo](https://www.sfgate.com/local/article/sf-neighborhood-mourns-cat-waymo-21127713.php)
+* [2025-10-30, 18:18:40](https://news.ycombinator.com/item?id=45763262) - [Learning from Failure to Tackle Hard Problems](https://blog.ml.cmu.edu/2025/10/27/learning-from-failure-to-tackle-extremely-hard-problems/)
 * [2025-10-30, 18:05:39](https://news.ycombinator.com/item?id=45763076) - [I have released a 69.0MB version of Windows 7 x86](https://twitter.com/XenoPanther/status/1983477707968291075)
 * [2025-10-30, 17:45:53](https://news.ycombinator.com/item?id=45762837) - [Some people can't see mental images](https://www.newyorker.com/magazine/2025/11/03/some-people-cant-see-mental-images-the-consequences-are-profound)
 * [2025-10-30, 17:10:27](https://news.ycombinator.com/item?id=45762358) - [You can't turn off Copilot in the web versions of Word, Excel, or PowerPoint](https://support.microsoft.com/en-us/office/turn-off-copilot-in-microsoft-365-apps-bc7e530b-152d-4123-8e78-edc06f8b85f1)
