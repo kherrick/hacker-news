@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-11-05, 03:34:31",
+      "https://news.ycombinator.com/item?id=45818694"
+    ],
+    [
+      "Live Updates: Mamdani Wins NYC Mayor's Race After Highest Turnout in Decades",
+      "https://www.nytimes.com/live/2025/11/04/nyregion/nyc-mayor-election"
+    ]
+  ],
+  [
+    [
+      "2025-11-05, 03:01:59",
+      "https://news.ycombinator.com/item?id=45818483"
+    ],
+    [
+      "What Happened to Piracy? Copyright Enforcement Fades as AI Giants Rise",
+      "https://www.leefang.com/p/what-happened-to-piracy-copyright"
+    ]
+  ],
+  [
+    [
       "2025-11-05, 02:50:06",
       "https://news.ycombinator.com/item?id=45818421"
     ],
@@ -17,6 +37,16 @@
     [
       "Direct File won't happen in 2026, IRS tells states",
       "https://www.nextgov.com/digital-government/2025/11/direct-file-wont-happen-2026-irs-tells-states/409309/"
+    ]
+  ],
+  [
+    [
+      "2025-11-05, 02:24:20",
+      "https://news.ycombinator.com/item?id=45818282"
+    ],
+    [
+      "GM Deprecating In-Car App Store for Models as Recent as 2020",
+      "https://gmauthority.com/blog/2025/11/these-gm-vehicles-can-no-longer-download-apps-through-their-infotainment-system/"
     ]
   ],
   [
@@ -97,16 +127,6 @@
     [
       "Grayskull: A tiny computer vision library in C for embedded systems, etc.",
       "https://github.com/zserge/grayskull"
-    ]
-  ],
-  [
-    [
-      "2025-11-04, 21:39:32",
-      "https://news.ycombinator.com/item?id=45816191"
-    ],
-    [
-      "BlackRock's Larry Fink: \"Tokenization\", Digital IDs, & Social Credit",
-      "https://thewinepress.substack.com/p/tokenization-blackrocks-larry-fink"
     ]
   ],
   [
@@ -201,16 +221,6 @@
   ],
   [
     [
-      "2025-11-04, 12:52:54",
-      "https://news.ycombinator.com/item?id=45810430"
-    ],
-    [
-      "Chaining FFmpeg with a Browser Agent",
-      "https://100x.bot/a/chaining-ffmpeg-with-browser-agent"
-    ]
-  ],
-  [
-    [
       "2025-11-04, 11:09:24",
       "https://news.ycombinator.com/item?id=45809644"
     ],
@@ -235,7 +245,7 @@
       "https://news.ycombinator.com/item?id=45761433"
     ],
     [
-      "Apple uses 3D Gaussian splatting for Personas and 3D conversions of photos",
+      "Apple’s Persona technology uses Gaussian splatting to create 3D facial scans",
       "https://www.cnet.com/tech/computing/apple-talks-to-me-about-vision-pro-personas-where-is-our-virtual-presence-headed/"
     ]
   ],
@@ -277,16 +287,6 @@
     [
       "Asus Announces October Availability of ProArt Display 8K PA32KCX",
       "https://press.asus.com/news/press-releases/asus-proart-display-8k-pa32kcx-availability/"
-    ]
-  ],
-  [
-    [
-      "2025-10-25, 08:52:11",
-      "https://news.ycombinator.com/item?id=45702316"
-    ],
-    [
-      "Customize Nano Text Editor (2022)",
-      "https://shafi.ddns.net/blog/customize-nano-text-editor"
     ]
   ],
   [
