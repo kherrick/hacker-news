@@ -1,16 +1,6 @@
 [
   [
     [
-      "2025-11-05, 14:52:30",
-      "https://news.ycombinator.com/item?id=45823449"
-    ],
-    [
-      "Global stock markets fall sharply over AI bubble fears",
-      "https://www.theguardian.com/business/2025/nov/05/global-stock-markets-fall-sharply-over-ai-bubble-fears"
-    ]
-  ],
-  [
-    [
       "2025-11-05, 14:43:26",
       "https://news.ycombinator.com/item?id=45823358"
     ],
@@ -35,7 +25,7 @@
       "https://news.ycombinator.com/item?id=45823186"
     ],
     [
-      "Carice TC2 – An fully analog electric car",
+      "Carice TC2 – A non-digital electric car",
       "https://www.caricecars.com/"
     ]
   ],
@@ -55,8 +45,18 @@
       "https://news.ycombinator.com/item?id=45823141"
     ],
     [
-      "The Shadows Lurking in the Equations",
+      "The shadows lurking in the equations",
       "https://gods.art/articles/equation_shadows.html"
+    ]
+  ],
+  [
+    [
+      "2025-11-05, 14:14:23",
+      "https://news.ycombinator.com/item?id=45823059"
+    ],
+    [
+      "Removing XSLT for a more secure browser",
+      "https://developer.chrome.com/docs/web-platform/deprecating-xslt"
     ]
   ],
   [
@@ -67,6 +67,16 @@
     [
       "A P2P Vision for QUIC (2024)",
       "https://seemann.io/posts/2024-10-26---p2p-quic/"
+    ]
+  ],
+  [
+    [
+      "2025-11-05, 14:00:41",
+      "https://news.ycombinator.com/item?id=45822902"
+    ],
+    [
+      "Microsoft Can't Keep EU Data Safe from US Authorities",
+      "https://www.forbes.com/sites/emmawoollacott/2025/07/22/microsoft-cant-keep-eu-data-safe-from-us-authorities/"
     ]
   ],
   [
@@ -85,18 +95,8 @@
       "https://news.ycombinator.com/item?id=45822539"
     ],
     [
-      "NY Smartphone Ban Has Made Lunch Loud Again",
+      "NY smartphone ban has made lunch loud again",
       "https://gothamist.com/news/ny-smartphone-ban-has-made-lunch-loud-again"
-    ]
-  ],
-  [
-    [
-      "2025-11-05, 13:16:58",
-      "https://news.ycombinator.com/item?id=45822513"
-    ],
-    [
-      "Optimism Associated with Exceptional Longevity",
-      "https://www.pnas.org/doi/10.1073/pnas.1900712116"
     ]
   ],
   [
@@ -107,6 +107,16 @@
     [
       "iOS 26.2 to allow third-party app stores in Japan ahead of regulatory deadline",
       "https://www.macrumors.com/2025/11/05/ios-26-2-third-party-app-stores-japan/"
+    ]
+  ],
+  [
+    [
+      "2025-11-05, 12:21:39",
+      "https://news.ycombinator.com/item?id=45822071"
+    ],
+    [
+      "The grim truth behind the Pied Piper (2020)",
+      "https://www.bbc.com/travel/article/20200902-the-grim-truth-behind-the-pied-piper"
     ]
   ],
   [
@@ -201,16 +211,6 @@
   ],
   [
     [
-      "2025-11-04, 16:12:27",
-      "https://news.ycombinator.com/item?id=45812606"
-    ],
-    [
-      "Pg_lake: Postgres with Iceberg and data lake access",
-      "https://github.com/Snowflake-Labs/pg_lake"
-    ]
-  ],
-  [
-    [
       "2025-11-02, 07:04:59",
       "https://news.ycombinator.com/item?id=45788385"
     ],
@@ -235,7 +235,7 @@
       "https://news.ycombinator.com/item?id=45763262"
     ],
     [
-      "Learning from Failure to Tackle Hard Problems",
+      "Learning from failure to tackle hard problems",
       "https://blog.ml.cmu.edu/2025/10/27/learning-from-failure-to-tackle-extremely-hard-problems/"
     ]
   ],
