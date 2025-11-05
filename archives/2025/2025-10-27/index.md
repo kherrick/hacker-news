@@ -9,6 +9,7 @@
 * [2025-10-27, 23:41:32](https://news.ycombinator.com/item?id=45727664) - [AI can code, but it can't build software](https://bytesauna.com/post/coding-vs-software-engineering)
 * [2025-10-27, 23:28:13](https://news.ycombinator.com/item?id=45727557) - [Iroh-Blobs](https://www.iroh.computer/blog/iroh-blobs-0-95-new-features)
 * [2025-10-27, 22:42:28](https://news.ycombinator.com/item?id=45727194) - [FDD – Diskettes](https://retrocmp.de/fdd/diskette/diskette.htm)
+* [2025-10-27, 22:38:48](https://news.ycombinator.com/item?id=45727173) - [Blue Prince (1989)](https://novalis.org/blog/2025-10-27-blue-prince-1989.html)
 * [2025-10-27, 22:35:00](https://news.ycombinator.com/item?id=45727137) - [Are these real CVEs? VulDB entries for dnsmasq rely on replacing config files](https://seclists.org/oss-sec/2025/q4/79)
 * [2025-10-27, 22:30:59](https://news.ycombinator.com/item?id=45727097) - [Linux VM Without VM Software – User Mode Linux](https://popovicu.com/posts/linux-vm-without-vm-software-user-mode/)
 * [2025-10-27, 22:26:30](https://news.ycombinator.com/item?id=45727060) - [OpenAI says over a million people talk to ChatGPT about suicide weekly](https://techcrunch.com/2025/10/27/openai-says-over-a-million-people-talk-to-chatgpt-about-suicide-weekly/)
