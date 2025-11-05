@@ -4,7 +4,13 @@
 
 ### [Archives](../../index.md) for [2025-11-05](index.md)
 
+* [2025-11-05, 14:43:26](https://news.ycombinator.com/item?id=45823358) - [Kosmos: An AI Scientist for Autonomous Discovery](https://arxiv.org/abs/2511.02824)
+* [2025-11-05, 14:38:27](https://news.ycombinator.com/item?id=45823313) - [Michael Burry is back with two bets against Nvidia and Palantir](https://www.cnn.com/2025/11/05/business/nvidia-palantir-michael-burry-stock)
+* [2025-11-05, 14:25:36](https://news.ycombinator.com/item?id=45823186) - [Carice TC2 – An fully analog electric car](https://www.caricecars.com/)
 * [2025-11-05, 14:21:13](https://news.ycombinator.com/item?id=45823141) - [The Shadows Lurking in the Equations](https://gods.art/articles/equation_shadows.html)
+* [2025-11-05, 14:14:23](https://news.ycombinator.com/item?id=45823059) - [Removing XSLT for a more secure browser](https://developer.chrome.com/docs/web-platform/deprecating-xslt)
+* [2025-11-05, 14:06:22](https://news.ycombinator.com/item?id=45822982) - [A P2P Vision for QUIC (2024)](https://seemann.io/posts/2024-10-26---p2p-quic/)
+* [2025-11-05, 13:22:35](https://news.ycombinator.com/item?id=45822559) - [Radiant Computer](https://radiant.computer)
 * [2025-11-05, 13:20:16](https://news.ycombinator.com/item?id=45822539) - [NY Smartphone Ban Has Made Lunch Loud Again](https://gothamist.com/news/ny-smartphone-ban-has-made-lunch-loud-again)
 * [2025-11-05, 13:16:58](https://news.ycombinator.com/item?id=45822513) - [Optimism Associated with Exceptional Longevity](https://www.pnas.org/doi/10.1073/pnas.1900712116)
 * [2025-11-05, 12:51:44](https://news.ycombinator.com/item?id=45822302) - [iOS 26.2 to Allow Third-Party App Stores in Japan Ahead of Regulatory Deadline](https://www.macrumors.com/2025/11/05/ios-26-2-third-party-app-stores-japan/)
