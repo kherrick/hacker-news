@@ -1,12 +1,22 @@
 [
   [
     [
-      "2025-11-05, 12:13:08",
-      "https://news.ycombinator.com/item?id=45822018"
+      "2025-11-05, 13:16:58",
+      "https://news.ycombinator.com/item?id=45822513"
     ],
     [
-      "YouTube Erased More Than 700 Videos Documenting Israeli Human Rights Violations",
-      "https://theintercept.com/2025/11/04/youtube-google-israel-palestine-human-rights-censorship/"
+      "Optimism Associated with Exceptional Longevity",
+      "https://www.pnas.org/doi/10.1073/pnas.1900712116"
+    ]
+  ],
+  [
+    [
+      "2025-11-05, 12:51:44",
+      "https://news.ycombinator.com/item?id=45822302"
+    ],
+    [
+      "iOS 26.2 to Allow Third-Party App Stores in Japan Ahead of Regulatory Deadline",
+      "https://www.macrumors.com/2025/11/05/ios-26-2-third-party-app-stores-japan/"
     ]
   ],
   [
@@ -17,6 +27,16 @@
     [
       "Founder in Residence at Woz (San Francisco)",
       "https://news.ycombinator.com/item?id=45821921"
+    ]
+  ],
+  [
+    [
+      "2025-11-05, 10:28:50",
+      "https://news.ycombinator.com/item?id=45821423"
+    ],
+    [
+      "72% of devs believe Steam has a monopoly on PC games, according to study",
+      "https://www.gamesindustry.biz/72-of-devs-believe-steam-has-a-monopoly-on-pc-games-according-to-study"
     ]
   ],
   [
@@ -161,16 +181,6 @@
   ],
   [
     [
-      "2025-11-04, 17:07:47",
-      "https://news.ycombinator.com/item?id=45813310"
-    ],
-    [
-      "Launch HN: Plexe (YC X25) – Build production-grade ML models from prompts",
-      "https://www.plexe.ai/"
-    ]
-  ],
-  [
-    [
       "2025-11-04, 16:12:27",
       "https://news.ycombinator.com/item?id=45812606"
     ],
@@ -271,16 +281,6 @@
   ],
   [
     [
-      "2025-10-28, 15:08:31",
-      "https://news.ycombinator.com/item?id=45733836"
-    ],
-    [
-      "Frozen String Literals: Past, Present, Future?",
-      "https://byroot.github.io/ruby/performance/2025/10/28/string-literals.html"
-    ]
-  ],
-  [
-    [
       "2025-10-28, 14:17:04",
       "https://news.ycombinator.com/item?id=45733204"
     ],
@@ -291,12 +291,12 @@
   ],
   [
     [
-      "2025-10-27, 21:35:46",
-      "https://news.ycombinator.com/item?id=45726597"
+      "2025-10-24, 18:07:53",
+      "https://news.ycombinator.com/item?id=45697414"
     ],
     [
-      "Inside an Isotemp OCXO107-10 Oven Controlled Crystal Oscillator",
-      "https://tomverbeure.github.io/2025/10/26/Inside-an-Isotemp-OCXO107-10.html"
+      "Parsing Chemistry",
+      "https://re.factorcode.org/2025/10/parsing-chemistry.html"
     ]
   ]
 ]
