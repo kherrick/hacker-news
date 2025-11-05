@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-11-05, 08:54:11](https://news.ycombinator.com/item?id=45820872) - [A Quote from Belligerentbarbies](https://simonwillison.net/2025/Nov/5/brenda/)
 * [2025-11-05, 08:28:04](https://news.ycombinator.com/item?id=45820715) - [The Hackers Manifesto (The Conscience of a Hacker) (1986)](https://phrack.org/issues/7/3)
 * [2025-11-05, 03:15:37](https://news.ycombinator.com/item?id=45818562) - [Hypothesis: Property-Based Testing for Python](https://hypothesis.readthedocs.io/en/latest/)
 * [2025-11-05, 03:04:58](https://news.ycombinator.com/item?id=45818499) - [Preventing Kubernetes from Pulling the Pause Image from the Internet](https://kyle.cascade.family/posts/preventing-kubernetes-from-pulling-the-pause-image-from-the-internet/)
@@ -18,18 +17,19 @@
 * [2025-11-04, 17:07:47](https://news.ycombinator.com/item?id=45813310) - [Launch HN: Plexe (YC X25) – Build production-grade ML models from prompts](https://www.plexe.ai/)
 * [2025-11-04, 16:12:27](https://news.ycombinator.com/item?id=45812606) - [Pg_lake: Postgres with Iceberg and data lake access](https://github.com/Snowflake-Labs/pg_lake)
 * [2025-11-04, 15:23:14](https://news.ycombinator.com/item?id=45812024) - [This week in 1988, Robert Morris unleashed his eponymous worm](https://www.tomshardware.com/tech-industry/cyber-security/on-this-day-in-1988-the-morris-worm-slithered-out-and-sparked-a-new-era-in-cybersecurity-10-percent-of-the-internet-was-infected-within-24-hours)
+* [2025-11-04, 11:09:24](https://news.ycombinator.com/item?id=45809644) - [Building blobd: single-machine object store with sub-ms reads and 15 GB/s upload](https://blog.wilsonl.in/blobd/)
 * [2025-11-02, 07:04:59](https://news.ycombinator.com/item?id=45788385) - [Intervaltree with Rust Back End](https://github.com/Athe-kunal/intervaltree_rs)
 * [2025-10-31, 12:11:03](https://news.ycombinator.com/item?id=45771151) - [By the Power of Grayscale](https://zserge.com/posts/grayskull/)
 * [2025-10-30, 16:08:25](https://news.ycombinator.com/item?id=45761594) - [SPy: An interpreter and compiler for a fast statically typed variant of Python](https://antocuni.eu/2025/10/29/inside-spy-part-1-motivations-and-goals/)
 * [2025-10-30, 15:53:21](https://news.ycombinator.com/item?id=45761433) - [Apple’s Persona technology uses Gaussian splatting to create 3D facial scans](https://www.cnet.com/tech/computing/apple-talks-to-me-about-vision-pro-personas-where-is-our-virtual-presence-headed/)
 * [2025-10-30, 13:30:37](https://news.ycombinator.com/item?id=45759839) - [RISC-V takes first step toward international ISO/IEC standardization](https://riscv.org/blog/risc-v-jtc1-pas-submitter/)
 * [2025-10-29, 17:19:40](https://news.ycombinator.com/item?id=45750005) - [Vectorizing for Fun and Performance](https://www.ibm.com/support/pages/vectorizing-fun-and-performance)
-* [2025-10-29, 17:08:28](https://news.ycombinator.com/item?id=45749833) - [Developers are choosing older AI models, and the data explains why](https://www.augmentcode.com/blog/developers-are-choosing-older-ai-models-and-16b-tokens-of-data-explain-why)
 * [2025-10-28, 15:36:39](https://news.ycombinator.com/item?id=45734259) - [Whole Earth Index](https://wholeearth.info/)
 * [2025-10-28, 15:08:31](https://news.ycombinator.com/item?id=45733836) - [Frozen String Literals: Past, Present, Future?](https://byroot.github.io/ruby/performance/2025/10/28/string-literals.html)
 * [2025-10-28, 14:17:04](https://news.ycombinator.com/item?id=45733204) - [Asus Announces October Availability of ProArt Display 8K PA32KCX](https://press.asus.com/news/press-releases/asus-proart-display-8k-pa32kcx-availability/)
 * [2025-10-27, 22:42:28](https://news.ycombinator.com/item?id=45727194) - [FDD – Diskettes](https://retrocmp.de/fdd/diskette/diskette.htm)
 * [2025-10-27, 21:35:46](https://news.ycombinator.com/item?id=45726597) - [Inside an Isotemp OCXO107-10 Oven Controlled Crystal Oscillator](https://tomverbeure.github.io/2025/10/26/Inside-an-Isotemp-OCXO107-10.html)
+* [2025-10-24, 07:54:17](https://news.ycombinator.com/item?id=45692042) - [Singing bus horns in West Sumatra](https://www.auralarchipelago.com/auralarchipelago/kalason)
 
 ## [Archives](archives/index.md)
 
