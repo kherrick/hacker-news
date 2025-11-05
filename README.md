@@ -1,7 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-11-05, 12:13:08](https://news.ycombinator.com/item?id=45822018) - [YouTube Erased More Than 700 Videos Documenting Israeli Human Rights Violations](https://theintercept.com/2025/11/04/youtube-google-israel-palestine-human-rights-censorship/)
+* [2025-11-05, 13:16:58](https://news.ycombinator.com/item?id=45822513) - [Optimism Associated with Exceptional Longevity](https://www.pnas.org/doi/10.1073/pnas.1900712116)
+* [2025-11-05, 12:51:44](https://news.ycombinator.com/item?id=45822302) - [iOS 26.2 to Allow Third-Party App Stores in Japan Ahead of Regulatory Deadline](https://www.macrumors.com/2025/11/05/ios-26-2-third-party-app-stores-japan/)
 * [2025-11-05, 12:00:17](https://news.ycombinator.com/item?id=45821921) - [Founder in Residence at Woz (San Francisco)](https://news.ycombinator.com/item?id=45821921)
+* [2025-11-05, 10:28:50](https://news.ycombinator.com/item?id=45821423) - [72% of devs believe Steam has a monopoly on PC games, according to study](https://www.gamesindustry.biz/72-of-devs-believe-steam-has-a-monopoly-on-pc-games-according-to-study)
 * [2025-11-05, 08:54:11](https://news.ycombinator.com/item?id=45820872) - [I’m worried that they put co-pilot in Excel](https://simonwillison.net/2025/Nov/5/brenda/)
 * [2025-11-05, 08:28:04](https://news.ycombinator.com/item?id=45820715) - [The Hacker’s Manifesto (1986)](https://phrack.org/issues/7/3)
 * [2025-11-05, 03:15:37](https://news.ycombinator.com/item?id=45818562) - [Hypothesis: Property-Based Testing for Python](https://hypothesis.readthedocs.io/en/latest/)
@@ -16,7 +18,6 @@
 * [2025-11-04, 22:35:58](https://news.ycombinator.com/item?id=45816673) - [Grayskull: A tiny computer vision library in C for embedded systems, etc.](https://github.com/zserge/grayskull)
 * [2025-11-04, 21:22:15](https://news.ycombinator.com/item?id=45816041) - [I took all my projects off the cloud, saving thousands of dollars](https://rameerez.com/send-this-article-to-your-friend-who-still-thinks-the-cloud-is-a-good-idea/)
 * [2025-11-04, 17:47:09](https://news.ycombinator.com/item?id=45813767) - [Codemaps: Understand Code, Before You Vibe It](https://cognition.ai/blog/codemaps)
-* [2025-11-04, 17:07:47](https://news.ycombinator.com/item?id=45813310) - [Launch HN: Plexe (YC X25) – Build production-grade ML models from prompts](https://www.plexe.ai/)
 * [2025-11-04, 16:12:27](https://news.ycombinator.com/item?id=45812606) - [Pg_lake: Postgres with Iceberg and data lake access](https://github.com/Snowflake-Labs/pg_lake)
 * [2025-11-04, 15:23:14](https://news.ycombinator.com/item?id=45812024) - [This week in 1988, Robert Morris unleashed his eponymous worm](https://www.tomshardware.com/tech-industry/cyber-security/on-this-day-in-1988-the-morris-worm-slithered-out-and-sparked-a-new-era-in-cybersecurity-10-percent-of-the-internet-was-infected-within-24-hours)
 * [2025-11-02, 07:04:59](https://news.ycombinator.com/item?id=45788385) - [Intervaltree with Rust Back End](https://github.com/Athe-kunal/intervaltree_rs)
@@ -27,9 +28,8 @@
 * [2025-10-30, 13:30:37](https://news.ycombinator.com/item?id=45759839) - [RISC-V takes first step toward international ISO/IEC standardization](https://riscv.org/blog/risc-v-jtc1-pas-submitter/)
 * [2025-10-29, 17:08:28](https://news.ycombinator.com/item?id=45749833) - [Developers are choosing older AI models](https://www.augmentcode.com/blog/developers-are-choosing-older-ai-models-and-16b-tokens-of-data-explain-why)
 * [2025-10-28, 15:36:39](https://news.ycombinator.com/item?id=45734259) - [Whole Earth Index](https://wholeearth.info/)
-* [2025-10-28, 15:08:31](https://news.ycombinator.com/item?id=45733836) - [Frozen String Literals: Past, Present, Future?](https://byroot.github.io/ruby/performance/2025/10/28/string-literals.html)
 * [2025-10-28, 14:17:04](https://news.ycombinator.com/item?id=45733204) - [Asus Announces October Availability of ProArt Display 8K PA32KCX](https://press.asus.com/news/press-releases/asus-proart-display-8k-pa32kcx-availability/)
-* [2025-10-27, 21:35:46](https://news.ycombinator.com/item?id=45726597) - [Inside an Isotemp OCXO107-10 Oven Controlled Crystal Oscillator](https://tomverbeure.github.io/2025/10/26/Inside-an-Isotemp-OCXO107-10.html)
+* [2025-10-24, 18:07:53](https://news.ycombinator.com/item?id=45697414) - [Parsing Chemistry](https://re.factorcode.org/2025/10/parsing-chemistry.html)
 
 ## [Archives](archives/index.md)
 
