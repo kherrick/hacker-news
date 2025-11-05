@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2025-11-05, 20:11:00",
-      "https://news.ycombinator.com/item?id=45827314"
-    ],
-    [
-      "Tesla's German car sales more than halve in October as wider EV sales jump",
-      "https://www.reuters.com/business/autos-transportation/teslas-german-car-sales-more-than-halved-october-2025-11-05/"
-    ]
-  ],
-  [
-    [
       "2025-11-05, 20:00:40",
       "https://news.ycombinator.com/item?id=45827190"
     ],
@@ -75,7 +65,7 @@
       "https://news.ycombinator.com/item?id=45825965"
     ],
     [
-      "OpenAI ends legal and medical advice on ChatGPT",
+      "ChatGPT terms disallow its use in providing legal and medical advice to others",
       "https://www.ctvnews.ca/sci-tech/article/openai-updates-policies-so-chatgpt-wont-provide-medical-or-legal-advice/"
     ]
   ],
@@ -257,6 +247,16 @@
     [
       "I want a good parallel language [video]",
       "https://www.youtube.com/watch?v=0-eViUyPwso"
+    ]
+  ],
+  [
+    [
+      "2025-10-31, 11:00:54",
+      "https://news.ycombinator.com/item?id=45770654"
+    ],
+    [
+      "DynGen – Run dynamic scripts on a SuperCollider server",
+      "https://scsynth.org/t/dyngen-dynamic-ugen/12518"
     ]
   ],
   [
