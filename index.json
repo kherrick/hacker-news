@@ -131,16 +131,6 @@
   ],
   [
     [
-      "2025-11-05, 14:14:23",
-      "https://news.ycombinator.com/item?id=45823059"
-    ],
-    [
-      "Removing XSLT for a more secure browser",
-      "https://developer.chrome.com/docs/web-platform/deprecating-xslt"
-    ]
-  ],
-  [
-    [
       "2025-11-05, 14:06:22",
       "https://news.ycombinator.com/item?id=45822982"
     ],
@@ -167,16 +157,6 @@
     [
       "Optimism associated with exceptional longevity (2019)",
       "https://www.pnas.org/doi/10.1073/pnas.1900712116"
-    ]
-  ],
-  [
-    [
-      "2025-11-05, 12:51:44",
-      "https://news.ycombinator.com/item?id=45822302"
-    ],
-    [
-      "iOS 26.2 to allow third-party app stores in Japan ahead of regulatory deadline",
-      "https://www.macrumors.com/2025/11/05/ios-26-2-third-party-app-stores-japan/"
     ]
   ],
   [
@@ -261,6 +241,16 @@
   ],
   [
     [
+      "2025-11-01, 16:00:47",
+      "https://news.ycombinator.com/item?id=45782702"
+    ],
+    [
+      "Timing Wheels",
+      "https://pncnmnp.github.io/blogs/timing-wheels.html"
+    ]
+  ],
+  [
+    [
       "2025-10-30, 18:18:40",
       "https://news.ycombinator.com/item?id=45763262"
     ],
@@ -297,6 +287,16 @@
     [
       "Firefox profiles: Private, focused spaces for all the ways you browse",
       "https://blog.mozilla.org/en/firefox/profile-management/"
+    ]
+  ],
+  [
+    [
+      "2025-10-25, 05:08:30",
+      "https://news.ycombinator.com/item?id=45701484"
+    ],
+    [
+      "Wafer-Scale AI Compute: A System Software Perspective",
+      "https://www.sigops.org/2025/wafer-scale-ai-compute-a-system-software-perspective/"
     ]
   ]
 ]
