@@ -41,6 +41,16 @@
   ],
   [
     [
+      "2025-11-05, 14:24:15",
+      "https://news.ycombinator.com/item?id=45823162"
+    ],
+    [
+      "Gnome Mutter Now \"Completely Drops the Whole X11 Back End\"",
+      "https://www.phoronix.com/news/GNOME-Mutter-Drops-X11"
+    ]
+  ],
+  [
+    [
       "2025-11-05, 14:21:13",
       "https://news.ycombinator.com/item?id=45823141"
     ],
@@ -111,16 +121,6 @@
   ],
   [
     [
-      "2025-11-05, 12:21:39",
-      "https://news.ycombinator.com/item?id=45822071"
-    ],
-    [
-      "The grim truth behind the Pied Piper (2020)",
-      "https://www.bbc.com/travel/article/20200902-the-grim-truth-behind-the-pied-piper"
-    ]
-  ],
-  [
-    [
       "2025-11-05, 12:00:17",
       "https://news.ycombinator.com/item?id=45821921"
     ],
@@ -147,16 +147,6 @@
     [
       "Hypothesis: Property-Based Testing for Python",
       "https://hypothesis.readthedocs.io/en/latest/"
-    ]
-  ],
-  [
-    [
-      "2025-11-05, 02:58:25",
-      "https://news.ycombinator.com/item?id=45818471"
-    ],
-    [
-      "The Microsoft SoftCard for the Apple II: Getting two processors to share memory",
-      "https://devblogs.microsoft.com/oldnewthing/20251104-00/?p=111758"
     ]
   ],
   [
@@ -237,6 +227,16 @@
     [
       "Moving tables across PostgreSQL instances",
       "https://ananthakumaran.in/2025/11/02/moving-tables-across-postgres-instances.html"
+    ]
+  ],
+  [
+    [
+      "2025-10-30, 18:18:40",
+      "https://news.ycombinator.com/item?id=45763262"
+    ],
+    [
+      "Learning from Failure to Tackle Hard Problems",
+      "https://blog.ml.cmu.edu/2025/10/27/learning-from-failure-to-tackle-extremely-hard-problems/"
     ]
   ],
   [
