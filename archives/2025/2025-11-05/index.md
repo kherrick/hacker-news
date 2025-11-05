@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-11-05](index.md)
 
+* [2025-11-05, 14:21:13](https://news.ycombinator.com/item?id=45823141) - [The Shadows Lurking in the Equations](https://gods.art/articles/equation_shadows.html)
 * [2025-11-05, 13:20:16](https://news.ycombinator.com/item?id=45822539) - [NY Smartphone Ban Has Made Lunch Loud Again](https://gothamist.com/news/ny-smartphone-ban-has-made-lunch-loud-again)
 * [2025-11-05, 13:16:58](https://news.ycombinator.com/item?id=45822513) - [Optimism Associated with Exceptional Longevity](https://www.pnas.org/doi/10.1073/pnas.1900712116)
 * [2025-11-05, 12:51:44](https://news.ycombinator.com/item?id=45822302) - [iOS 26.2 to Allow Third-Party App Stores in Japan Ahead of Regulatory Deadline](https://www.macrumors.com/2025/11/05/ios-26-2-third-party-app-stores-japan/)

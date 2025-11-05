@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-11-05, 14:21:13](https://news.ycombinator.com/item?id=45823141) - [The Shadows Lurking in the Equations](https://gods.art/articles/equation_shadows.html)
 * [2025-11-05, 13:20:16](https://news.ycombinator.com/item?id=45822539) - [NY Smartphone Ban Has Made Lunch Loud Again](https://gothamist.com/news/ny-smartphone-ban-has-made-lunch-loud-again)
 * [2025-11-05, 13:16:58](https://news.ycombinator.com/item?id=45822513) - [Optimism Associated with Exceptional Longevity](https://www.pnas.org/doi/10.1073/pnas.1900712116)
 * [2025-11-05, 12:51:44](https://news.ycombinator.com/item?id=45822302) - [iOS 26.2 to allow third-party app stores in Japan ahead of regulatory deadline](https://www.macrumors.com/2025/11/05/ios-26-2-third-party-app-stores-japan/)
@@ -8,7 +9,6 @@
 * [2025-11-05, 08:54:11](https://news.ycombinator.com/item?id=45820872) - [I’m worried that they put co-pilot in Excel](https://simonwillison.net/2025/Nov/5/brenda/)
 * [2025-11-05, 08:28:04](https://news.ycombinator.com/item?id=45820715) - [The Hacker’s Manifesto (1986)](https://phrack.org/issues/7/3)
 * [2025-11-05, 03:15:37](https://news.ycombinator.com/item?id=45818562) - [Hypothesis: Property-Based Testing for Python](https://hypothesis.readthedocs.io/en/latest/)
-* [2025-11-05, 03:04:58](https://news.ycombinator.com/item?id=45818499) - [Preventing Kubernetes from Pulling the Pause Image from the Internet](https://kyle.cascade.family/posts/preventing-kubernetes-from-pulling-the-pause-image-from-the-internet/)
 * [2025-11-05, 02:58:25](https://news.ycombinator.com/item?id=45818471) - [The Microsoft SoftCard for the Apple II: Getting two processors to share memory](https://devblogs.microsoft.com/oldnewthing/20251104-00/?p=111758)
 * [2025-11-04, 23:29:31](https://news.ycombinator.com/item?id=45817114) - [Bluetui – A TUI for managing Bluetooth on Linux](https://github.com/pythops/bluetui)
 * [2025-11-04, 23:10:53](https://news.ycombinator.com/item?id=45816963) - [UPS plane crashes near Louisville airport](https://avherald.com/h?article=52f5748f&opt=0)
