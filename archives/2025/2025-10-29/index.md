@@ -28,6 +28,7 @@
 * [2025-10-29, 17:37:08](https://news.ycombinator.com/item?id=45750303) - [Pentagon orders states' national guards to form 'quick reaction forces'](https://www.theguardian.com/us-news/2025/oct/29/pentagon-memo-quick-reaction-forces)
 * [2025-10-29, 17:19:40](https://news.ycombinator.com/item?id=45750005) - [Vectorizing for Fun and Performance](https://www.ibm.com/support/pages/vectorizing-fun-and-performance)
 * [2025-10-29, 17:15:33](https://news.ycombinator.com/item?id=45749935) - [Building a Robot Dog (with an airsoft gun)](https://erikschluntz.com/hardware/2025/10/26/robot-dog.html)
+* [2025-10-29, 17:08:28](https://news.ycombinator.com/item?id=45749833) - [Developers are choosing older AI models, and the data explains why](https://www.augmentcode.com/blog/developers-are-choosing-older-ai-models-and-16b-tokens-of-data-explain-why)
 * [2025-10-29, 17:05:24](https://news.ycombinator.com/item?id=45749781) - [ICE and CBP Agents Are Scanning Faces on the Street to Verify Citizenship](https://www.404media.co/ice-and-cbp-agents-are-scanning-peoples-faces-on-the-street-to-verify-citizenship/)
 * [2025-10-29, 17:04:48](https://news.ycombinator.com/item?id=45749763) - [A Year of Fast Apply – Our Path to 10k Tokens per Second](https://www.relace.ai/blog/relace-apply-3)
 * [2025-10-29, 17:03:51](https://news.ycombinator.com/item?id=45749746) - [The Green Tea Garbage Collector](https://go.dev/blog/greenteagc)
