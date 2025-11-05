@@ -34,6 +34,7 @@
 * [2025-10-30, 16:23:56](https://news.ycombinator.com/item?id=45761789) - [Qt Creator 18 Released](https://www.qt.io/blog/qt-creator-18-released)
 * [2025-10-30, 16:20:35](https://news.ycombinator.com/item?id=45761746) - [Dating: A Mysterious Constellation of Facts](https://dynomight.net/dating/)
 * [2025-10-30, 16:13:19](https://news.ycombinator.com/item?id=45761659) - [Affinity by Canva](https://www.affinity.studio/)
+* [2025-10-30, 16:08:25](https://news.ycombinator.com/item?id=45761594) - [SPy: An interpreter and compiler for a fast statically typed variant of Python](https://antocuni.eu/2025/10/29/inside-spy-part-1-motivations-and-goals/)
 * [2025-10-30, 15:54:38](https://news.ycombinator.com/item?id=45761445) - [Affinity Studio Now Free](https://www.affinity.studio/get-affinity)
 * [2025-10-30, 15:53:21](https://news.ycombinator.com/item?id=45761433) - [Apple uses 3D Gaussian splatting for Personas and 3D conversions of photos](https://www.cnet.com/tech/computing/apple-talks-to-me-about-vision-pro-personas-where-is-our-virtual-presence-headed/)
 * [2025-10-30, 15:21:46](https://news.ycombinator.com/item?id=45761042) - [ZOZO's Contact Solver (for physics-based simulations)](https://github.com/st-tech/ppf-contact-solver)
