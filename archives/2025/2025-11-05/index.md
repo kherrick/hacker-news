@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-11-05](index.md)
 
+* [2025-11-05, 04:12:53](https://news.ycombinator.com/item?id=45818973) - [Epic vs. Google settlement: Opening up Android](https://twitter.com/TimSweeneyEpic/status/1985920786545123613)
 * [2025-11-05, 03:34:31](https://news.ycombinator.com/item?id=45818694) - [Live Updates: Mamdani Wins NYC Mayor's Race After Highest Turnout in Decades](https://www.nytimes.com/live/2025/11/04/nyregion/nyc-mayor-election)
 * [2025-11-05, 03:15:37](https://news.ycombinator.com/item?id=45818562) - [Hypothesis: Property-Based Testing for Python](https://hypothesis.readthedocs.io/en/latest/)
 * [2025-11-05, 03:04:58](https://news.ycombinator.com/item?id=45818499) - [Preventing Kubernetes from Pulling the Pause Image from the Internet](https://kyle.cascade.family/posts/preventing-kubernetes-from-pulling-the-pause-image-from-the-internet/)

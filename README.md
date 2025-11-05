@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-11-05, 04:12:53](https://news.ycombinator.com/item?id=45818973) - [Epic vs. Google settlement: Opening up Android](https://twitter.com/TimSweeneyEpic/status/1985920786545123613)
 * [2025-11-05, 03:15:37](https://news.ycombinator.com/item?id=45818562) - [Hypothesis: Property-Based Testing for Python](https://hypothesis.readthedocs.io/en/latest/)
 * [2025-11-05, 03:04:58](https://news.ycombinator.com/item?id=45818499) - [Preventing Kubernetes from Pulling the Pause Image from the Internet](https://kyle.cascade.family/posts/preventing-kubernetes-from-pulling-the-pause-image-from-the-internet/)
 * [2025-11-05, 03:01:59](https://news.ycombinator.com/item?id=45818483) - [What Happened to Piracy? Copyright Enforcement Fades as AI Giants Rise](https://www.leefang.com/p/what-happened-to-piracy-copyright)
@@ -19,7 +20,6 @@
 * [2025-11-04, 17:07:47](https://news.ycombinator.com/item?id=45813310) - [Launch HN: Plexe (YC X25) – Build production-grade ML models from prompts](https://www.plexe.ai/)
 * [2025-11-04, 16:12:27](https://news.ycombinator.com/item?id=45812606) - [Pg_lake: Postgres with Iceberg and data lake access](https://github.com/Snowflake-Labs/pg_lake)
 * [2025-11-04, 15:23:14](https://news.ycombinator.com/item?id=45812024) - [This Day in 1988, the Morris worm infected 10% of the Internet within 24 hours](https://www.tomshardware.com/tech-industry/cyber-security/on-this-day-in-1988-the-morris-worm-slithered-out-and-sparked-a-new-era-in-cybersecurity-10-percent-of-the-internet-was-infected-within-24-hours)
-* [2025-11-04, 14:31:27](https://news.ycombinator.com/item?id=45811447) - [Optimizing Datalog for the GPU](https://danglingpointers.substack.com/p/optimizing-datalog-for-the-gpu)
 * [2025-11-04, 13:58:35](https://news.ycombinator.com/item?id=45811093) - [Show HN: A CSS-Only Terrain Generator](https://terra.layoutit.com)
 * [2025-11-04, 11:09:24](https://news.ycombinator.com/item?id=45809644) - [Building blobd: single-machine object store with sub-ms reads and 15 GB/s upload](https://blog.wilsonl.in/blobd/)
 * [2025-10-31, 12:11:03](https://news.ycombinator.com/item?id=45771151) - [By the Power of Grayscale](https://zserge.com/posts/grayskull/)
