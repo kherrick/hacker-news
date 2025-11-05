@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-11-05](index.md)
 
+* [2025-11-05, 08:54:11](https://news.ycombinator.com/item?id=45820872) - [A Quote from Belligerentbarbies](https://simonwillison.net/2025/Nov/5/brenda/)
 * [2025-11-05, 08:28:04](https://news.ycombinator.com/item?id=45820715) - [The Hackers Manifesto (The Conscience of a Hacker) (1986)](https://phrack.org/issues/7/3)
 * [2025-11-05, 04:12:53](https://news.ycombinator.com/item?id=45818973) - [Epic vs. Google settlement: Opening up Android](https://twitter.com/TimSweeneyEpic/status/1985920786545123613)
 * [2025-11-05, 03:34:31](https://news.ycombinator.com/item?id=45818694) - [Live Updates: Mamdani Wins NYC Mayor's Race After Highest Turnout in Decades](https://www.nytimes.com/live/2025/11/04/nyregion/nyc-mayor-election)
