@@ -1,6 +1,46 @@
 [
   [
     [
+      "2025-11-05, 01:51:27",
+      "https://news.ycombinator.com/item?id=45818123"
+    ],
+    [
+      "Munich's surfers left stunned after famed river wave vanishes",
+      "https://www.theguardian.com/world/2025/nov/04/munichs-surfers-left-stunned-after-famed-river-wave-vanishes"
+    ]
+  ],
+  [
+    [
+      "2025-11-05, 01:44:42",
+      "https://news.ycombinator.com/item?id=45818089"
+    ],
+    [
+      "At least 3 dead after cargo plane crashes at Kentucky airport",
+      "https://www.bbc.com/news/live/c201kgq59qgt"
+    ]
+  ],
+  [
+    [
+      "2025-11-05, 01:37:53",
+      "https://news.ycombinator.com/item?id=45818043"
+    ],
+    [
+      "At least 3 dead after UPS plane crashes at Louisville airport; fire spreading",
+      "https://www.wlky.com/article/plane-crash-explosion-louisville-airport/69255042"
+    ]
+  ],
+  [
+    [
+      "2025-11-04, 23:53:02",
+      "https://news.ycombinator.com/item?id=45817308"
+    ],
+    [
+      "FDA described as a \"clown show\" amid latest scandal; top drug regulator is out",
+      "https://arstechnica.com/health/2025/11/fda-described-as-a-clown-show-amid-latest-scandal-top-drug-regulator-is-out/"
+    ]
+  ],
+  [
+    [
       "2025-11-04, 23:35:27",
       "https://news.ycombinator.com/item?id=45817167"
     ],
@@ -151,16 +191,6 @@
   ],
   [
     [
-      "2025-11-04, 15:21:16",
-      "https://news.ycombinator.com/item?id=45812000"
-    ],
-    [
-      "How devtools map minified JS code back to your TypeScript source code",
-      "https://www.polarsignals.com/blog/posts/2025/11/04/javascript-source-maps-internals"
-    ]
-  ],
-  [
-    [
       "2025-11-04, 14:31:27",
       "https://news.ycombinator.com/item?id=45811447"
     ],
@@ -181,32 +211,12 @@
   ],
   [
     [
-      "2025-11-04, 12:52:54",
-      "https://news.ycombinator.com/item?id=45810430"
+      "2025-11-04, 11:09:24",
+      "https://news.ycombinator.com/item?id=45809644"
     ],
     [
-      "Chaining FFmpeg with a Browser Agent",
-      "https://100x.bot/a/chaining-ffmpeg-with-browser-agent"
-    ]
-  ],
-  [
-    [
-      "2025-11-04, 09:58:14",
-      "https://news.ycombinator.com/item?id=45809193"
-    ],
-    [
-      "What is a manifold?",
-      "https://www.quantamagazine.org/what-is-a-manifold-20251103/"
-    ]
-  ],
-  [
-    [
-      "2025-11-04, 09:25:31",
-      "https://news.ycombinator.com/item?id=45808998"
-    ],
-    [
-      "Bloom filters are good for search that does not scale",
-      "https://notpeerreviewed.com/blog/bloom-filters/"
+      "Building blobd: single-machine object store with sub-ms reads and 15 GB/s upload",
+      "https://blog.wilsonl.in/blobd/"
     ]
   ],
   [
@@ -241,6 +251,16 @@
   ],
   [
     [
+      "2025-10-30, 13:30:37",
+      "https://news.ycombinator.com/item?id=45759839"
+    ],
+    [
+      "RISC-V takes first step toward international ISO/IEC standardization",
+      "https://riscv.org/blog/risc-v-jtc1-pas-submitter/"
+    ]
+  ],
+  [
+    [
       "2025-10-28, 15:36:39",
       "https://news.ycombinator.com/item?id=45734259"
     ],
@@ -261,32 +281,12 @@
   ],
   [
     [
-      "2025-10-28, 05:01:38",
-      "https://news.ycombinator.com/item?id=45729340"
-    ],
-    [
-      "Reverse-engineered CUPS driver for Phomemo receipt/label printers",
-      "https://github.com/vivier/phomemo-tools"
-    ]
-  ],
-  [
-    [
       "2025-10-27, 11:27:42",
       "https://news.ycombinator.com/item?id=45719732"
     ],
     [
       "Zip Files All the Way Down (2010)",
       "https://research.swtch.com/zip"
-    ]
-  ],
-  [
-    [
-      "2025-10-25, 08:52:11",
-      "https://news.ycombinator.com/item?id=45702316"
-    ],
-    [
-      "Customize Nano Text Editor",
-      "https://shafi.ddns.net/blog/customize-nano-text-editor"
     ]
   ],
   [
