@@ -9,6 +9,7 @@
 * [2025-11-03, 23:01:08](https://news.ycombinator.com/item?id=45805514) - [Linkers: A 20 Part Series (2007)](https://www.airs.com/blog/archives/38)
 * [2025-11-03, 22:54:20](https://news.ycombinator.com/item?id=45805458) - [Guideline has been acquired by Gusto](https://help.guideline.com/en/articles/12694322-guideline-has-joined-gusto-faqs-about-our-recent-acquisition)
 * [2025-11-03, 21:47:41](https://news.ycombinator.com/item?id=45804839) - [R interface to Apple's MLX library](https://hughjonesd.github.io/Rmlx/index.html)
+* [2025-11-03, 21:27:56](https://news.ycombinator.com/item?id=45804664) - [Apple App Store frontend source code archive](https://github.com/rxliuli/apps.apple.com)
 * [2025-11-03, 21:01:09](https://news.ycombinator.com/item?id=45804377) - [AI's Dial-Up Era](https://www.wreflection.com/p/ai-dial-up-era)
 * [2025-11-03, 20:37:34](https://news.ycombinator.com/item?id=45804122) - [2,400 HP FDNY Super Pumper could extinguish hell itself](https://bangshift.com/bangshiftxl/mack-super-pumper-system-locomotive-engine-powered-pumper-extinguish-hell-often/)
 * [2025-11-03, 19:37:57](https://news.ycombinator.com/item?id=45803427) - [Leverage Points: Places to Intervene in a System (1999)](https://donellameadows.org/archives/leverage-points-places-to-intervene-in-a-system/)

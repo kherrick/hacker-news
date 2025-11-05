@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-11-05](index.md)
 
+* [2025-11-05, 20:40:39](https://news.ycombinator.com/item?id=45827661) - [A Lost IBM PC/at Model? Analyzing a Newfound Old Bios](https://int10h.org/blog/2025/11/lost-ibm-at-model-bios-analysis/)
 * [2025-11-05, 20:13:37](https://news.ycombinator.com/item?id=45827352) - [I Stopped Being a Climate Catastrophist](https://www.breakthroughjournal.org/p/why-i-stopped-being-a-climate-catastrophist)
 * [2025-11-05, 20:11:00](https://news.ycombinator.com/item?id=45827314) - [Tesla's German car sales more than halve in October as wider EV sales jump](https://www.reuters.com/business/autos-transportation/teslas-german-car-sales-more-than-halved-october-2025-11-05/)
 * [2025-11-05, 20:00:40](https://news.ycombinator.com/item?id=45827190) - [Solarpunk is already happening in Africa](https://climatedrift.substack.com/p/why-solarpunk-is-already-happening)
