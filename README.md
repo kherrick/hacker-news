@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-11-05, 19:44:49](https://news.ycombinator.com/item?id=45826995) - [New gel restores dental enamel and could revolutionise tooth repair](https://www.nottingham.ac.uk/news/new-gel-restores-dental-enamel-and-could-revolutionise-tooth-repair)
 * [2025-11-05, 18:59:39](https://news.ycombinator.com/item?id=45826500) - [Internet Archive's legal fights are over, but its founder mourns what was lost](https://arstechnica.com/tech-policy/2025/11/the-internet-archive-survived-major-copyright-losses-whats-next/)
 * [2025-11-05, 18:45:57](https://news.ycombinator.com/item?id=45826348) - [The state of SIMD in Rust in 2025](https://shnatsel.medium.com/the-state-of-simd-in-rust-in-2025-32c263e5f53d)
 * [2025-11-05, 18:40:32](https://news.ycombinator.com/item?id=45826266) - [Dillo, a multi-platform graphical web browser](https://github.com/dillo-browser/dillo)
@@ -11,6 +12,7 @@
 * [2025-11-05, 14:14:23](https://news.ycombinator.com/item?id=45823059) - [Removing XSLT for a more secure browser](https://developer.chrome.com/docs/web-platform/deprecating-xslt)
 * [2025-11-05, 14:06:22](https://news.ycombinator.com/item?id=45822982) - [A P2P Vision for QUIC (2024)](https://seemann.io/posts/2024-10-26---p2p-quic/)
 * [2025-11-05, 14:00:41](https://news.ycombinator.com/item?id=45822902) - [Microsoft Can't Keep EU Data Safe from US Authorities](https://www.forbes.com/sites/emmawoollacott/2025/07/22/microsoft-cant-keep-eu-data-safe-from-us-authorities/)
+* [2025-11-05, 13:33:53](https://news.ycombinator.com/item?id=45822650) - [Why Your Best Engineers Are Interviewing Elsewhere, CodeGood](https://codegood.co/writing/why-your-best-engineers-are-interviewing-elsewhere)
 * [2025-11-05, 13:22:35](https://news.ycombinator.com/item?id=45822559) - [Radiant Computer](https://radiant.computer)
 * [2025-11-05, 12:51:44](https://news.ycombinator.com/item?id=45822302) - [iOS 26.2 to allow third-party app stores in Japan ahead of regulatory deadline](https://www.macrumors.com/2025/11/05/ios-26-2-third-party-app-stores-japan/)
 * [2025-11-05, 12:21:39](https://news.ycombinator.com/item?id=45822071) - [The grim truth behind the Pied Piper (2020)](https://www.bbc.com/travel/article/20200902-the-grim-truth-behind-the-pied-piper)
@@ -24,11 +26,9 @@
 * [2025-10-31, 11:00:54](https://news.ycombinator.com/item?id=45770654) - [DynGen – Run dynamic scripts on a SuperCollider server](https://scsynth.org/t/dyngen-dynamic-ugen/12518)
 * [2025-10-30, 18:18:40](https://news.ycombinator.com/item?id=45763262) - [Learning from failure to tackle hard problems](https://blog.ml.cmu.edu/2025/10/27/learning-from-failure-to-tackle-extremely-hard-problems/)
 * [2025-10-30, 16:08:25](https://news.ycombinator.com/item?id=45761594) - [SPy: An interpreter and compiler for a fast statically typed variant of Python](https://antocuni.eu/2025/10/29/inside-spy-part-1-motivations-and-goals/)
-* [2025-10-30, 15:53:21](https://news.ycombinator.com/item?id=45761433) - [Apple’s Persona technology uses Gaussian splatting to create 3D facial scans](https://www.cnet.com/tech/computing/apple-talks-to-me-about-vision-pro-personas-where-is-our-virtual-presence-headed/)
 * [2025-10-30, 13:30:37](https://news.ycombinator.com/item?id=45759839) - [RISC-V takes first step toward international ISO/IEC standardization](https://riscv.org/blog/risc-v-jtc1-pas-submitter/)
 * [2025-10-29, 09:54:05](https://news.ycombinator.com/item?id=45744683) - [Making MLS More Decentralized](https://blog.phnx.im/making-mls-more-decentralized/)
 * [2025-10-28, 14:17:04](https://news.ycombinator.com/item?id=45733204) - [Asus Announces October Availability of ProArt Display 8K PA32KCX](https://press.asus.com/news/press-releases/asus-proart-display-8k-pa32kcx-availability/)
-* [2025-10-27, 06:36:27](https://news.ycombinator.com/item?id=45718002) - [Stack walking: space and time trade-offs](https://maskray.me/blog/2025-10-26-stack-walking-space-and-time-trade-offs)
 * [2025-10-24, 18:07:53](https://news.ycombinator.com/item?id=45697414) - [Parsing Chemistry](https://re.factorcode.org/2025/10/parsing-chemistry.html)
 
 ## [Archives](archives/index.md)

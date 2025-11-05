@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-11-05](index.md)
 
+* [2025-11-05, 19:44:49](https://news.ycombinator.com/item?id=45826995) - [New gel restores dental enamel and could revolutionise tooth repair](https://www.nottingham.ac.uk/news/new-gel-restores-dental-enamel-and-could-revolutionise-tooth-repair)
 * [2025-11-05, 18:59:39](https://news.ycombinator.com/item?id=45826500) - [Internet Archive's legal fights are over, but its founder mourns what was lost](https://arstechnica.com/tech-policy/2025/11/the-internet-archive-survived-major-copyright-losses-whats-next/)
 * [2025-11-05, 18:45:57](https://news.ycombinator.com/item?id=45826348) - [The state of SIMD in Rust in 2025](https://shnatsel.medium.com/the-state-of-simd-in-rust-in-2025-32c263e5f53d)
 * [2025-11-05, 18:40:32](https://news.ycombinator.com/item?id=45826266) - [Dillo, a multi-platform graphical web browser](https://github.com/dillo-browser/dillo)
@@ -22,6 +23,7 @@
 * [2025-11-05, 14:14:23](https://news.ycombinator.com/item?id=45823059) - [Removing XSLT for a more secure browser](https://developer.chrome.com/docs/web-platform/deprecating-xslt)
 * [2025-11-05, 14:06:22](https://news.ycombinator.com/item?id=45822982) - [A P2P Vision for QUIC (2024)](https://seemann.io/posts/2024-10-26---p2p-quic/)
 * [2025-11-05, 14:00:41](https://news.ycombinator.com/item?id=45822902) - [Microsoft Can't Keep EU Data Safe from US Authorities](https://www.forbes.com/sites/emmawoollacott/2025/07/22/microsoft-cant-keep-eu-data-safe-from-us-authorities/)
+* [2025-11-05, 13:33:53](https://news.ycombinator.com/item?id=45822650) - [Why Your Best Engineers Are Interviewing Elsewhere, CodeGood](https://codegood.co/writing/why-your-best-engineers-are-interviewing-elsewhere)
 * [2025-11-05, 13:22:35](https://news.ycombinator.com/item?id=45822559) - [Radiant Computer](https://radiant.computer)
 * [2025-11-05, 13:20:16](https://news.ycombinator.com/item?id=45822539) - [NY Smartphone Ban Has Made Lunch Loud Again](https://gothamist.com/news/ny-smartphone-ban-has-made-lunch-loud-again)
 * [2025-11-05, 13:16:58](https://news.ycombinator.com/item?id=45822513) - [Optimism Associated with Exceptional Longevity](https://www.pnas.org/doi/10.1073/pnas.1900712116)
