@@ -1,12 +1,32 @@
 [
   [
     [
-      "2025-11-05, 18:11:16",
-      "https://news.ycombinator.com/item?id=45825965"
+      "2025-11-05, 18:45:57",
+      "https://news.ycombinator.com/item?id=45826348"
     ],
     [
-      "OpenAI ends legal and medical advice on ChatGPT",
-      "https://www.ctvnews.ca/sci-tech/article/openai-updates-policies-so-chatgpt-wont-provide-medical-or-legal-advice/"
+      "The state of SIMD in Rust in 2025",
+      "https://shnatsel.medium.com/the-state-of-simd-in-rust-in-2025-32c263e5f53d"
+    ]
+  ],
+  [
+    [
+      "2025-11-05, 18:40:32",
+      "https://news.ycombinator.com/item?id=45826266"
+    ],
+    [
+      "Dillo, a multi-platform graphical web browser",
+      "https://github.com/dillo-browser/dillo"
+    ]
+  ],
+  [
+    [
+      "2025-11-05, 16:32:43",
+      "https://news.ycombinator.com/item?id=45824864"
+    ],
+    [
+      "Why aren't smart people happier?",
+      "https://www.theseedsofscience.pub/p/why-arent-smart-people-happier"
     ]
   ],
   [
@@ -141,16 +161,6 @@
   ],
   [
     [
-      "2025-11-05, 02:58:25",
-      "https://news.ycombinator.com/item?id=45818471"
-    ],
-    [
-      "The Microsoft SoftCard for the Apple II: Getting two processors to share memory",
-      "https://devblogs.microsoft.com/oldnewthing/20251104-00/?p=111758"
-    ]
-  ],
-  [
-    [
       "2025-11-04, 23:29:31",
       "https://news.ycombinator.com/item?id=45817114"
     ],
@@ -201,22 +211,12 @@
   ],
   [
     [
-      "2025-11-02, 07:04:59",
-      "https://news.ycombinator.com/item?id=45788385"
+      "2025-11-04, 06:35:27",
+      "https://news.ycombinator.com/item?id=45807993"
     ],
     [
-      "Intervaltree with Rust Back End",
-      "https://github.com/Athe-kunal/intervaltree_rs"
-    ]
-  ],
-  [
-    [
-      "2025-11-02, 05:47:46",
-      "https://news.ycombinator.com/item?id=45788086"
-    ],
-    [
-      "Moving tables across PostgreSQL instances",
-      "https://ananthakumaran.in/2025/11/02/moving-tables-across-postgres-instances.html"
+      "I want a good parallel language [video]",
+      "https://www.youtube.com/watch?v=0-eViUyPwso"
     ]
   ],
   [
