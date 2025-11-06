@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-11-06](index.md)
 
+* [2025-11-06, 08:49:06](https://news.ycombinator.com/item?id=45832954) - [Erlang Meets Idris: Cure Programming Language](https://cure-lang.org/)
+* [2025-11-06, 08:23:46](https://news.ycombinator.com/item?id=45832803) - [What the hell have you built](https://wthhyb.sacha.house/)
 * [2025-11-06, 07:37:25](https://news.ycombinator.com/item?id=45832515) - [From Swift to Mojo and High-Performance AI Engineering with Chris Lattner[video]](https://www.youtube.com/watch?v=Fxp3131i1yE)
 * [2025-11-06, 07:09:07](https://news.ycombinator.com/item?id=45832341) - [How I am deeply integrating Emacs](https://joshblais.com/blog/how-i-am-deeply-integrating-emacs/)
 * [2025-11-06, 06:43:00](https://news.ycombinator.com/item?id=45832198) - [Flutter_compositions: Vue-inspired reactive building blocks for Flutter](https://github.com/yoyo930021/flutter_compositions)

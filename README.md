@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-11-06, 08:49:06](https://news.ycombinator.com/item?id=45832954) - [Erlang Meets Idris: Cure Programming Language](https://cure-lang.org/)
+* [2025-11-06, 08:23:46](https://news.ycombinator.com/item?id=45832803) - [What the hell have you built](https://wthhyb.sacha.house/)
 * [2025-11-06, 07:09:07](https://news.ycombinator.com/item?id=45832341) - [How I am deeply integrating Emacs](https://joshblais.com/blog/how-i-am-deeply-integrating-emacs/)
 * [2025-11-06, 06:43:00](https://news.ycombinator.com/item?id=45832198) - [Show HN: Flutter_compositions: Vue-inspired reactive building blocks for Flutter](https://github.com/yoyo930021/flutter_compositions)
 * [2025-11-06, 02:50:31](https://news.ycombinator.com/item?id=45830829) - [Ratatui – App Showcase](https://ratatui.rs/showcase/apps/)
@@ -20,10 +22,8 @@
 * [2025-11-05, 13:22:35](https://news.ycombinator.com/item?id=45822559) - [Radiant Computer](https://radiant.computer)
 * [2025-11-05, 13:20:16](https://news.ycombinator.com/item?id=45822539) - [NY school phone ban has made lunch loud again](https://gothamist.com/news/ny-smartphone-ban-has-made-lunch-loud-again)
 * [2025-11-04, 20:16:45](https://news.ycombinator.com/item?id=45815419) - [I was right about dishwasher pods and now I can prove it [video]](https://www.youtube.com/watch?v=DAX2_mPr9W8)
-* [2025-11-04, 16:26:09](https://news.ycombinator.com/item?id=45812756) - [An eBPF Loophole: Using XDP for Egress Traffic](https://loopholelabs.io/blog/xdp-for-egress-traffic)
 * [2025-11-04, 06:35:27](https://news.ycombinator.com/item?id=45807993) - [I want a good parallel language [video]](https://www.youtube.com/watch?v=0-eViUyPwso)
 * [2025-11-03, 21:27:56](https://news.ycombinator.com/item?id=45804664) - [App Store web has exposed all its source code](https://www.reddit.com/r/webdev/comments/1onnzlj/app_store_web_has_exposed_all_its_source_code/)
-* [2025-11-03, 09:17:06](https://news.ycombinator.com/item?id=45797228) - [Absurd Workflows: Durable Execution with Just Postgres](https://lucumr.pocoo.org/2025/11/3/absurd-workflows/)
 * [2025-11-01, 23:50:57](https://news.ycombinator.com/item?id=45786599) - [Scientists growing colour without chemicals](https://www.forbes.com/sites/maevecampbell/2025/06/20/dyeing-for-fashion-meet-the-scientists-growing-colour-without-chemicals/)
 * [2025-11-01, 17:25:00](https://news.ycombinator.com/item?id=45783467) - [Vacuum bricked after user blocks data collection – user mods it to run anyway](https://www.tomshardware.com/tech-industry/big-tech/manufacturer-issues-remote-kill-command-to-nuke-smart-vacuum-after-engineer-blocks-it-from-collecting-data-user-revives-it-with-custom-hardware-and-python-scripts-to-run-offline)
 * [2025-10-31, 21:52:02](https://news.ycombinator.com/item?id=45777109) - [The Transformations of Fernand Braudel](https://www.historytoday.com/archive/behind-times/transformations-fernand-braudel)
