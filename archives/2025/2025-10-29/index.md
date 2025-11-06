@@ -20,6 +20,7 @@
 * [2025-10-29, 19:32:00](https://news.ycombinator.com/item?id=45751868) - [Independently verifying Go's reproducible builds](https://www.agwa.name/blog/post/verifying_go_reproducible_builds)
 * [2025-10-29, 18:57:29](https://news.ycombinator.com/item?id=45751400) - [Uv is the best thing to happen to the Python ecosystem in a decade](https://emily.space/posts/251023-uv)
 * [2025-10-29, 18:52:46](https://news.ycombinator.com/item?id=45751339) - [Show HN: SQLite Graph – Graph database with Cypher queries (alpha, but working)](https://github.com/agentflare-ai/sqlite-graph)
+* [2025-10-29, 18:45:47](https://news.ycombinator.com/item?id=45751263) - [Phantom in the Light: The story of early spectroscopy](https://chrisdempewolf.com/posts/phantom-in-the-light/)
 * [2025-10-29, 18:25:01](https://news.ycombinator.com/item?id=45750995) - [Extropic is building thermodynamic computing hardware](https://extropic.ai/)
 * [2025-10-29, 18:21:35](https://news.ycombinator.com/item?id=45750954) - [Dithering – Part 1](https://visualrambling.space/dithering-part-1/)
 * [2025-10-29, 18:16:07](https://news.ycombinator.com/item?id=45750875) - [The Internet Runs on Free and Open Source Software–and So Does the DNS](https://www.icann.org/en/blogs/details/the-internet-runs-on-free-and-open-source-softwareand-so-does-the-dns-23-10-2025-en)

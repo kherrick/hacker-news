@@ -1,12 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-11-06, 18:04:28](https://news.ycombinator.com/item?id=45838239) - [OpenDesk – a flexible all-in-one office suite for the public sector](https://www.opendesk.eu/de)
 * [2025-11-06, 17:37:49](https://news.ycombinator.com/item?id=45837871) - [Swift on FreeBSD Preview](https://forums.swift.org/t/swift-on-freebsd-preview/83064)
 * [2025-11-06, 17:06:47](https://news.ycombinator.com/item?id=45837452) - [The English language doesn't exist – it's just French that's badly pronounced](https://www.frenchclasses.com/tablettes-de-chocolat/the-english-language-doesnt-exist-its-just-french-thats-badly-pronounced/)
 * [2025-11-06, 17:04:41](https://news.ycombinator.com/item?id=45837425) - [The Parallel Search API](https://parallel.ai/blog/introducing-parallel-search)
 * [2025-11-06, 17:00:03](https://news.ycombinator.com/item?id=45837364) - [Senior BizOps at Artie (San Francisco)](https://www.ycombinator.com/companies/artie/jobs/gqANVBc-senior-business-operations)
 * [2025-11-06, 16:57:55](https://news.ycombinator.com/item?id=45837342) - [ICC ditches Microsoft 365 for openDesk](https://www.binnenlandsbestuur.nl/digitaal/internationaal-strafhof-neemt-afscheid-van-microsoft-365)
 * [2025-11-06, 16:18:18](https://news.ycombinator.com/item?id=45836826) - [FBI tries to unmask owner of archive.is](https://www.heise.de/en/news/Archive-today-FBI-Demands-Data-from-Provider-Tucows-11066346.html)
-* [2025-11-06, 16:17:09](https://news.ycombinator.com/item?id=45836809) - [OpenAI probably can't make ends meet. That's where you come in](https://garymarcus.substack.com/p/if-you-thought-the-2008-bank-bailout)
 * [2025-11-06, 15:46:01](https://news.ycombinator.com/item?id=45836466) - [Supply chain attacks are exploiting our assumptions](https://blog.trailofbits.com/2025/09/24/supply-chain-attacks-are-exploiting-our-assumptions/)
 * [2025-11-06, 15:08:56](https://news.ycombinator.com/item?id=45836104) - [Australia has so much solar that it's offering everyone free electricity](https://electrek.co/2025/11/04/australia-has-so-much-solar-that-its-offering-everyone-free-electricity-3h-day/)
 * [2025-11-06, 15:06:06](https://news.ycombinator.com/item?id=45836070) - [Kimi K2 Thinking, a SOTA open-source trillion-parameter reasoning model](https://moonshotai.github.io/Kimi-K2/thinking.html)
@@ -27,9 +27,9 @@
 * [2025-11-05, 15:52:27](https://news.ycombinator.com/item?id=45824243) - [Open Source Implementation of Apple's Private Compute Cloud](https://github.com/openpcc/openpcc)
 * [2025-11-01, 22:34:43](https://news.ycombinator.com/item?id=45786041) - [How often does Python allocate?](https://zackoverflow.dev/writing/how-often-does-python-allocate/)
 * [2025-10-31, 05:23:52](https://news.ycombinator.com/item?id=45768688) - [Pico-100BASE-TX: Bit-Banged 100 MBit/s Ethernet and UDP Framer for RP2040/RP2350](https://github.com/steve-m/Pico-100BASE-TX)
+* [2025-10-29, 18:45:47](https://news.ycombinator.com/item?id=45751263) - [Phantom in the Light: The story of early spectroscopy](https://chrisdempewolf.com/posts/phantom-in-the-light/)
 * [2025-10-29, 09:29:17](https://news.ycombinator.com/item?id=45744518) - [Springs and Bounces in Native CSS](https://www.joshwcomeau.com/animation/linear-timing-function/)
 * [2025-10-29, 08:10:58](https://news.ycombinator.com/item?id=45744038) - [Firefox profiles: Private, focused spaces for all the ways you browse](https://blog.mozilla.org/en/firefox/profile-management/)
-* [2025-10-27, 19:44:49](https://news.ycombinator.com/item?id=45725431) - [The seven second kernel compile](http://es.tldp.org/Presentaciones/200211hispalinux/blanchard/talk_2.html)
 
 ## [Archives](archives/index.md)
 
