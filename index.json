@@ -1,12 +1,32 @@
 [
   [
     [
-      "2025-11-06, 19:19:09",
-      "https://news.ycombinator.com/item?id=45839129"
+      "2025-11-06, 20:20:23",
+      "https://news.ycombinator.com/item?id=45839901"
     ],
     [
-      "Mark Zuckerberg Had Illegal School at His Palo Alto Compound. Neighbors Revolted",
-      "https://www.wired.com/story/mark-zuckerberg-school-palo-alto-shut-down/"
+      "Two Billion Email Addresses Were Exposed",
+      "https://www.troyhunt.com/2-billion-email-addresses-were-exposed-and-we-indexed-them-all-in-have-i-been-pwned/"
+    ]
+  ],
+  [
+    [
+      "2025-11-06, 20:01:08",
+      "https://news.ycombinator.com/item?id=45839655"
+    ],
+    [
+      "UK outperforms US in creating unicorns from early stage VC investment",
+      "https://www.cityam.com/uk-outperforms-us-in-creating-unicorns-from-early-stage-vc-investment/"
+    ]
+  ],
+  [
+    [
+      "2025-11-06, 18:54:33",
+      "https://news.ycombinator.com/item?id=45838864"
+    ],
+    [
+      "Black Hole Flare Is Biggest and Most Distant Seen",
+      "https://www.caltech.edu/about/news/black-hole-flare-is-biggest-and-most-distant-seen"
     ]
   ],
   [
@@ -81,6 +101,16 @@
   ],
   [
     [
+      "2025-11-06, 16:35:53",
+      "https://news.ycombinator.com/item?id=45837067"
+    ],
+    [
+      "Show HN: Dynamic code and feedback walkthroughs with your coding Agent in VSCode",
+      "https://www.intraview.ai/hn-demo"
+    ]
+  ],
+  [
+    [
       "2025-11-06, 16:18:18",
       "https://news.ycombinator.com/item?id=45836826"
     ],
@@ -117,6 +147,16 @@
     [
       "Kimi K2 Thinking, a SOTA open-source trillion-parameter reasoning model",
       "https://moonshotai.github.io/Kimi-K2/thinking.html"
+    ]
+  ],
+  [
+    [
+      "2025-11-06, 14:54:16",
+      "https://news.ycombinator.com/item?id=45835931"
+    ],
+    [
+      "Auraphone: A simple app to collect people's info at events",
+      "https://andrewarrow.dev/2025/11/simple-app-collect-peoples-info-at-events/"
     ]
   ],
   [
@@ -201,42 +241,22 @@
   ],
   [
     [
-      "2025-11-06, 02:50:31",
-      "https://news.ycombinator.com/item?id=45830829"
-    ],
-    [
-      "Ratatui – App Showcase",
-      "https://ratatui.rs/showcase/apps/"
-    ]
-  ],
-  [
-    [
-      "2025-11-06, 02:38:53",
-      "https://news.ycombinator.com/item?id=45830770"
-    ],
-    [
-      "End of Japanese community",
-      "https://support.mozilla.org/en-US/forums/contributors/717446"
-    ]
-  ],
-  [
-    [
-      "2025-11-05, 20:00:40",
-      "https://news.ycombinator.com/item?id=45827190"
-    ],
-    [
-      "Solarpunk is happening in Africa",
-      "https://climatedrift.substack.com/p/why-solarpunk-is-already-happening"
-    ]
-  ],
-  [
-    [
       "2025-11-05, 18:57:09",
       "https://news.ycombinator.com/item?id=45826472"
     ],
     [
       "Show HN: See chords as flags – Visual harmony of top composers on musescore",
       "https://rawl.rocks/"
+    ]
+  ],
+  [
+    [
+      "2025-11-05, 17:50:45",
+      "https://news.ycombinator.com/item?id=45825733"
+    ],
+    [
+      "Show HN: I scraped 3B Goodreads reviews to train a better recommendation model",
+      "https://book.sv"
     ]
   ],
   [
@@ -251,32 +271,12 @@
   ],
   [
     [
-      "2025-11-01, 22:34:43",
-      "https://news.ycombinator.com/item?id=45786041"
-    ],
-    [
-      "How often does Python allocate?",
-      "https://zackoverflow.dev/writing/how-often-does-python-allocate/"
-    ]
-  ],
-  [
-    [
       "2025-10-31, 05:23:52",
       "https://news.ycombinator.com/item?id=45768688"
     ],
     [
       "Pico-100BASE-TX: Bit-Banged 100 MBit/s Ethernet and UDP Framer for RP2040/RP2350",
       "https://github.com/steve-m/Pico-100BASE-TX"
-    ]
-  ],
-  [
-    [
-      "2025-10-29, 18:45:47",
-      "https://news.ycombinator.com/item?id=45751263"
-    ],
-    [
-      "Phantom in the Light: The story of early spectroscopy",
-      "https://chrisdempewolf.com/posts/phantom-in-the-light/"
     ]
   ],
   [
