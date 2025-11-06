@@ -11,6 +11,7 @@
 * [2025-10-31, 21:32:36](https://news.ycombinator.com/item?id=45776941) - [The only people who feel good are making over $200k and have large portfolios](https://fortune.com/2025/10/24/why-is-economy-so-bad-recession-not-inflation-fed-rate-cuts-2025/)
 * [2025-10-31, 20:20:42](https://news.ycombinator.com/item?id=45776269) - [A theoretical way to circumvent Android developer verification](https://enaix.github.io/2025/10/30/developer-verification.html)
 * [2025-10-31, 19:16:05](https://news.ycombinator.com/item?id=45775642) - [How to build silos and decrease collaboration (on purpose)](https://www.rubick.com/how-to-build-silos-and-decrease-collaboration/)
+* [2025-10-31, 18:29:37](https://news.ycombinator.com/item?id=45775149) - [A computing legend speaks, a new oral history with Ken Thompson](https://computerhistory.org/blog/a-computing-legend-speaks/)
 * [2025-10-31, 18:21:50](https://news.ycombinator.com/item?id=45775066) - [OpenAI thought to be preparing for $1T stock market float](https://www.theguardian.com/technology/2025/oct/30/openai-1tn-stock-market-float-ipo)
 * [2025-10-31, 18:16:10](https://news.ycombinator.com/item?id=45775000) - [The Hunger Games Begin](https://paulkrugman.substack.com/p/the-hunger-games-begin)
 * [2025-10-31, 17:49:16](https://news.ycombinator.com/item?id=45774724) - [x86 architecture 1 byte opcodes](https://www.sandpile.org/x86/opc_1.htm)
