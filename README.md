@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-11-06, 20:20:23](https://news.ycombinator.com/item?id=45839901) - [Two Billion Email Addresses Were Exposed](https://www.troyhunt.com/2-billion-email-addresses-were-exposed-and-we-indexed-them-all-in-have-i-been-pwned/)
+* [2025-11-06, 20:20:23](https://news.ycombinator.com/item?id=45839901) - [Two billion email addresses were exposed](https://www.troyhunt.com/2-billion-email-addresses-were-exposed-and-we-indexed-them-all-in-have-i-been-pwned/)
 * [2025-11-06, 20:01:08](https://news.ycombinator.com/item?id=45839655) - [UK outperforms US in creating unicorns from early stage VC investment](https://www.cityam.com/uk-outperforms-us-in-creating-unicorns-from-early-stage-vc-investment/)
 * [2025-11-06, 18:54:33](https://news.ycombinator.com/item?id=45838864) - [Black Hole Flare Is Biggest and Most Distant Seen](https://www.caltech.edu/about/news/black-hole-flare-is-biggest-and-most-distant-seen)
 * [2025-11-06, 18:29:03](https://news.ycombinator.com/item?id=45838564) - [LLMs Encode How Difficult Problems Are](https://arxiv.org/abs/2510.18147)
@@ -13,7 +13,6 @@
 * [2025-11-06, 16:35:53](https://news.ycombinator.com/item?id=45837067) - [Show HN: Dynamic code and feedback walkthroughs with your coding Agent in VSCode](https://www.intraview.ai/hn-demo)
 * [2025-11-06, 16:18:18](https://news.ycombinator.com/item?id=45836826) - [FBI tries to unmask owner of archive.is](https://www.heise.de/en/news/Archive-today-FBI-Demands-Data-from-Provider-Tucows-11066346.html)
 * [2025-11-06, 15:46:01](https://news.ycombinator.com/item?id=45836466) - [Supply chain attacks are exploiting our assumptions](https://blog.trailofbits.com/2025/09/24/supply-chain-attacks-are-exploiting-our-assumptions/)
-* [2025-11-06, 15:08:56](https://news.ycombinator.com/item?id=45836104) - [Australia has so much solar that it's offering everyone free electricity](https://electrek.co/2025/11/04/australia-has-so-much-solar-that-its-offering-everyone-free-electricity-3h-day/)
 * [2025-11-06, 15:06:06](https://news.ycombinator.com/item?id=45836070) - [Kimi K2 Thinking, a SOTA open-source trillion-parameter reasoning model](https://moonshotai.github.io/Kimi-K2/thinking.html)
 * [2025-11-06, 14:54:16](https://news.ycombinator.com/item?id=45835931) - [Auraphone: A simple app to collect people's info at events](https://andrewarrow.dev/2025/11/simple-app-collect-peoples-info-at-events/)
 * [2025-11-06, 13:41:14](https://news.ycombinator.com/item?id=45835123) - [Cloudflare Tells U.S. Govt That Foreign Site Blocking Efforts Are Trade Barriers](https://torrentfreak.com/cloudflare-tells-u-s-govt-that-foreign-site-blocking-efforts-are-digital-trade-barriers/)
@@ -28,6 +27,7 @@
 * [2025-11-05, 17:50:45](https://news.ycombinator.com/item?id=45825733) - [Show HN: I scraped 3B Goodreads reviews to train a better recommendation model](https://book.sv)
 * [2025-11-05, 15:52:27](https://news.ycombinator.com/item?id=45824243) - [Open Source Implementation of Apple's Private Compute Cloud](https://github.com/openpcc/openpcc)
 * [2025-10-31, 05:23:52](https://news.ycombinator.com/item?id=45768688) - [Pico-100BASE-TX: Bit-Banged 100 MBit/s Ethernet and UDP Framer for RP2040/RP2350](https://github.com/steve-m/Pico-100BASE-TX)
+* [2025-10-29, 18:45:47](https://news.ycombinator.com/item?id=45751263) - [Phantom in the Light: The story of early spectroscopy](https://chrisdempewolf.com/posts/phantom-in-the-light/)
 * [2025-10-29, 09:29:17](https://news.ycombinator.com/item?id=45744518) - [Springs and Bounces in Native CSS](https://www.joshwcomeau.com/animation/linear-timing-function/)
 * [2025-10-27, 09:55:32](https://news.ycombinator.com/item?id=45719090) - [What if hard work felt easier?](https://jeanhsu.substack.com/p/what-if-hard-work-felt-easier)
 
