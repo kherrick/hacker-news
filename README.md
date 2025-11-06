@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-11-06, 11:42:47](https://news.ycombinator.com/item?id=45834145) - [The Telegraph: How a secret dossier blew open anti-Israel bias at the BBC [video]](https://www.youtube.com/watch?v=qdIIHMAMEiM)
 * [2025-11-06, 10:59:42](https://news.ycombinator.com/item?id=45833811) - [Show HN: qqqa – a fast, stateless LLM-powered assistant for your shell](https://github.com/matisojka/qqqa)
 * [2025-11-06, 10:47:51](https://news.ycombinator.com/item?id=45833734) - [80year old grandmother becomes oldest woman to finish Ironman World Championship](https://bigislandnow.com/2025/10/19/80-year-old-grandmother-becomes-oldest-woman-to-finish-ironman-world-championship-in-kona/)
 * [2025-11-06, 09:24:42](https://news.ycombinator.com/item?id=45833162) - [Mathematical Exploration and Discovery at Scale](https://terrytao.wordpress.com/2025/11/05/mathematical-exploration-and-discovery-at-scale/)
@@ -30,6 +29,7 @@
 * [2025-10-31, 21:52:02](https://news.ycombinator.com/item?id=45777109) - [The Transformations of Fernand Braudel](https://www.historytoday.com/archive/behind-times/transformations-fernand-braudel)
 * [2025-10-31, 18:29:37](https://news.ycombinator.com/item?id=45775149) - [A new oral history interview with Ken Thompson](https://computerhistory.org/blog/a-computing-legend-speaks/)
 * [2025-10-29, 08:10:58](https://news.ycombinator.com/item?id=45744038) - [Firefox profiles: Private, focused spaces for all the ways you browse](https://blog.mozilla.org/en/firefox/profile-management/)
+* [2025-10-28, 17:51:34](https://news.ycombinator.com/item?id=45736282) - [Show HN: CoordConversions NPM Module for Map Coordinate Conversions](https://github.com/matthewcsimpson/CoordConversions)
 
 ## [Archives](archives/index.md)
 

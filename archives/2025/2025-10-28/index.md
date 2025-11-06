@@ -33,6 +33,7 @@
 * [2025-10-28, 18:01:40](https://news.ycombinator.com/item?id=45736457) - [1X Neo – Home Robot - Pre Order](https://www.1x.tech/order)
 * [2025-10-28, 17:59:45](https://news.ycombinator.com/item?id=45736426) - [Cancer survival rates are misleading](https://www.allendowney.com/blog/2025/10/27/cancer-survival-rates-are-misleading/)
 * [2025-10-28, 17:58:51](https://news.ycombinator.com/item?id=45736400) - [Show HN: Apache Fory Rust – 10-20x faster serialization than JSON/Protobuf](https://fory.apache.org/blog/2025/10/29/fory_rust_versatile_serialization_framework/)
+* [2025-10-28, 17:51:34](https://news.ycombinator.com/item?id=45736282) - [Show HN: CoordConversions NPM Module for Map Coordinate Conversions](https://github.com/matthewcsimpson/CoordConversions)
 * [2025-10-28, 17:39:21](https://news.ycombinator.com/item?id=45736075) - [From epoll to io_uring's Multishot Receives](https://codemia.io/blog/path/From-epoll-to-iourings-Multishot-Receives--Why-2025-Is-the-Year-We-Finally-Kill-the-Event-Loop)
 * [2025-10-28, 17:25:04](https://news.ycombinator.com/item?id=45735877) - [Fil-C: A memory-safe C implementation](https://lwn.net/SubscriberLink/1042938/658ade3768dd4758/)
 * [2025-10-28, 17:00:31](https://news.ycombinator.com/item?id=45735491) - [SigNoz (YC W21) Is Hiring DevRel Engineers in the US – Open Source O11y Platform](https://jobs.ashbyhq.com/SigNoz/8447522c-1163-48d0-8f55-fac25f64a0f3)
