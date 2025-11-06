@@ -4,7 +4,11 @@
 
 ### [Archives](../../index.md) for [2025-11-06](index.md)
 
+* [2025-11-06, 17:04:41](https://news.ycombinator.com/item?id=45837425) - [The Parallel Search API](https://parallel.ai/blog/introducing-parallel-search)
+* [2025-11-06, 17:00:03](https://news.ycombinator.com/item?id=45837364) - [Senior BizOps at Artie (San Francisco)](https://www.ycombinator.com/companies/artie/jobs/gqANVBc-senior-business-operations)
+* [2025-11-06, 16:57:55](https://news.ycombinator.com/item?id=45837342) - [ICC ditches Microsoft 365 for openDesk](https://www.binnenlandsbestuur.nl/digitaal/internationaal-strafhof-neemt-afscheid-van-microsoft-365)
 * [2025-11-06, 16:18:18](https://news.ycombinator.com/item?id=45836826) - [FBI Tries to Unmask Owner of Archive.is Site](https://www.heise.de/en/news/Archive-today-FBI-Demands-Data-from-Provider-Tucows-11066346.html)
+* [2025-11-06, 16:17:09](https://news.ycombinator.com/item?id=45836809) - [OpenAI probably can't make ends meet. That's where you come in](https://garymarcus.substack.com/p/if-you-thought-the-2008-bank-bailout)
 * [2025-11-06, 15:09:56](https://news.ycombinator.com/item?id=45836110) - [The Florentine Diamond Resurfaces After 100 Years in Hiding](https://www.nytimes.com/2025/11/06/arts/design/florentine-diamond-resurfaces-hapsburg.html)
 * [2025-11-06, 15:08:56](https://news.ycombinator.com/item?id=45836104) - [Australia has so much solar that it's offering everyone free electricity](https://electrek.co/2025/11/04/australia-has-so-much-solar-that-its-offering-everyone-free-electricity-3h-day/)
 * [2025-11-06, 15:06:06](https://news.ycombinator.com/item?id=45836070) - [Kimi K2 Thinking, a SOTA open-source trillion-parameter reasoning model](https://moonshotai.github.io/Kimi-K2/thinking.html)
