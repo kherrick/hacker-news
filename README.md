@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-11-06, 18:12:56](https://news.ycombinator.com/item?id=45838365) - [Benchmarking the Most Reliable Document Parsing API](https://www.tensorlake.ai/blog/benchmarks)
 * [2025-11-06, 18:04:28](https://news.ycombinator.com/item?id=45838239) - [OpenDesk – a flexible all-in-one office suite for the public sector](https://www.opendesk.eu/de)
 * [2025-11-06, 17:37:49](https://news.ycombinator.com/item?id=45837871) - [Swift on FreeBSD Preview](https://forums.swift.org/t/swift-on-freebsd-preview/83064)
-* [2025-11-06, 17:06:47](https://news.ycombinator.com/item?id=45837452) - [The English language doesn't exist – it's just French that's badly pronounced](https://www.frenchclasses.com/tablettes-de-chocolat/the-english-language-doesnt-exist-its-just-french-thats-badly-pronounced/)
 * [2025-11-06, 17:04:41](https://news.ycombinator.com/item?id=45837425) - [The Parallel Search API](https://parallel.ai/blog/introducing-parallel-search)
 * [2025-11-06, 17:00:03](https://news.ycombinator.com/item?id=45837364) - [Senior BizOps at Artie (San Francisco)](https://www.ycombinator.com/companies/artie/jobs/gqANVBc-senior-business-operations)
 * [2025-11-06, 16:57:55](https://news.ycombinator.com/item?id=45837342) - [ICC ditches Microsoft 365 for openDesk](https://www.binnenlandsbestuur.nl/digitaal/internationaal-strafhof-neemt-afscheid-van-microsoft-365)
