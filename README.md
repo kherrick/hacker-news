@@ -26,8 +26,8 @@
 * [2025-11-05, 18:57:09](https://news.ycombinator.com/item?id=45826472) - [Show HN: See chords as flags – Visual harmony of top composers on musescore](https://rawl.rocks/)
 * [2025-11-05, 17:50:45](https://news.ycombinator.com/item?id=45825733) - [Show HN: I scraped 3B Goodreads reviews to train a better recommendation model](https://book.sv)
 * [2025-11-05, 15:52:27](https://news.ycombinator.com/item?id=45824243) - [Open Source Implementation of Apple's Private Compute Cloud](https://github.com/openpcc/openpcc)
+* [2025-11-01, 22:34:43](https://news.ycombinator.com/item?id=45786041) - [How often does Python allocate?](https://zackoverflow.dev/writing/how-often-does-python-allocate/)
 * [2025-10-31, 05:23:52](https://news.ycombinator.com/item?id=45768688) - [Pico-100BASE-TX: Bit-Banged 100 MBit/s Ethernet and UDP Framer for RP2040/RP2350](https://github.com/steve-m/Pico-100BASE-TX)
-* [2025-10-29, 18:45:47](https://news.ycombinator.com/item?id=45751263) - [Phantom in the Light: The story of early spectroscopy](https://chrisdempewolf.com/posts/phantom-in-the-light/)
 * [2025-10-29, 09:29:17](https://news.ycombinator.com/item?id=45744518) - [Springs and Bounces in Native CSS](https://www.joshwcomeau.com/animation/linear-timing-function/)
 * [2025-10-27, 09:55:32](https://news.ycombinator.com/item?id=45719090) - [What if hard work felt easier?](https://jeanhsu.substack.com/p/what-if-hard-work-felt-easier)
 
