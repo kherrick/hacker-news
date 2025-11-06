@@ -1,6 +1,36 @@
 [
   [
     [
+      "2025-11-06, 21:23:46",
+      "https://news.ycombinator.com/item?id=45840612"
+    ],
+    [
+      "Hightouch (YC S19) Is Hiring",
+      "https://job-boards.greenhouse.io/hightouch/jobs/5542602004"
+    ]
+  ],
+  [
+    [
+      "2025-11-06, 20:45:39",
+      "https://news.ycombinator.com/item?id=45840200"
+    ],
+    [
+      "Universe's expansion 'is now slowing, not speeding up'",
+      "https://ras.ac.uk/news-and-press/research-highlights/universes-expansion-now-slowing-not-speeding"
+    ]
+  ],
+  [
+    [
+      "2025-11-06, 20:37:06",
+      "https://news.ycombinator.com/item?id=45840088"
+    ],
+    [
+      "You Should Write An Agent",
+      "https://fly.io/blog/everyone-write-an-agent/"
+    ]
+  ],
+  [
+    [
       "2025-11-06, 20:20:23",
       "https://news.ycombinator.com/item?id=45839901"
     ],
@@ -61,6 +91,16 @@
   ],
   [
     [
+      "2025-11-06, 18:08:52",
+      "https://news.ycombinator.com/item?id=45838297"
+    ],
+    [
+      "Please stop asking me to provide feedback #8036",
+      "https://github.com/anthropics/claude-code/issues/8036"
+    ]
+  ],
+  [
+    [
       "2025-11-06, 17:37:49",
       "https://news.ycombinator.com/item?id=45837871"
     ],
@@ -77,16 +117,6 @@
     [
       "The Parallel Search API",
       "https://parallel.ai/blog/introducing-parallel-search"
-    ]
-  ],
-  [
-    [
-      "2025-11-06, 17:00:03",
-      "https://news.ycombinator.com/item?id=45837364"
-    ],
-    [
-      "Senior BizOps at Artie (San Francisco)",
-      "https://www.ycombinator.com/companies/artie/jobs/gqANVBc-senior-business-operations"
     ]
   ],
   [
@@ -211,16 +241,6 @@
   ],
   [
     [
-      "2025-11-06, 04:37:45",
-      "https://news.ycombinator.com/item?id=45831541"
-    ],
-    [
-      "I may have found a way to spot U.S. at-sea strikes before they're announced",
-      "https://old.reddit.com/r/OSINT/comments/1opjjyv/i_may_have_found_a_way_to_spot_us_atsea_strikes/"
-    ]
-  ],
-  [
-    [
       "2025-11-05, 18:57:09",
       "https://news.ycombinator.com/item?id=45826472"
     ],
@@ -251,32 +271,12 @@
   ],
   [
     [
-      "2025-11-01, 22:34:43",
-      "https://news.ycombinator.com/item?id=45786041"
-    ],
-    [
-      "How often does Python allocate?",
-      "https://zackoverflow.dev/writing/how-often-does-python-allocate/"
-    ]
-  ],
-  [
-    [
       "2025-10-31, 10:52:24",
       "https://news.ycombinator.com/item?id=45770577"
     ],
     [
       "C++: A prvalue is not a temporary",
       "https://blog.knatten.org/2025/10/31/a-prvalue-is-not-a-temporary/"
-    ]
-  ],
-  [
-    [
-      "2025-10-31, 05:23:52",
-      "https://news.ycombinator.com/item?id=45768688"
-    ],
-    [
-      "Pico-100BASE-TX: Bit-Banged 100 MBit/s Ethernet and UDP Framer for RP2040/RP2350",
-      "https://github.com/steve-m/Pico-100BASE-TX"
     ]
   ],
   [
