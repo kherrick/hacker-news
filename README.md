@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-11-06, 10:59:42](https://news.ycombinator.com/item?id=45833811) - [Show HN: qqqa – a fast, stateless LLM-powered assistant for your shell](https://github.com/matisojka/qqqa)
+* [2025-11-06, 10:47:51](https://news.ycombinator.com/item?id=45833734) - [80year old grandmother becomes oldest woman to finish Ironman World Championship](https://bigislandnow.com/2025/10/19/80-year-old-grandmother-becomes-oldest-woman-to-finish-ironman-world-championship-in-kona/)
 * [2025-11-06, 09:24:42](https://news.ycombinator.com/item?id=45833162) - [Mathematical Exploration and Discovery at Scale](https://terrytao.wordpress.com/2025/11/05/mathematical-exploration-and-discovery-at-scale/)
-* [2025-11-06, 08:49:06](https://news.ycombinator.com/item?id=45832954) - [Erlang Meets Idris: Cure Programming Language](https://cure-lang.org/)
 * [2025-11-06, 08:23:46](https://news.ycombinator.com/item?id=45832803) - [What the hell have you built](https://wthhyb.sacha.house/)
 * [2025-11-06, 07:09:07](https://news.ycombinator.com/item?id=45832341) - [How I am deeply integrating Emacs](https://joshblais.com/blog/how-i-am-deeply-integrating-emacs/)
 * [2025-11-06, 06:43:00](https://news.ycombinator.com/item?id=45832198) - [Show HN: Flutter_compositions: Vue-inspired reactive building blocks for Flutter](https://github.com/yoyo930021/flutter_compositions)
