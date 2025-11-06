@@ -19,6 +19,7 @@
 * [2025-11-05, 18:40:32](https://news.ycombinator.com/item?id=45826266) - [Dillo, a multi-platform graphical web browser](https://github.com/dillo-browser/dillo)
 * [2025-11-05, 18:28:36](https://news.ycombinator.com/item?id=45826142) - [Fintech CEO caught manipulating social media likes](https://patrickstoica.substack.com/p/fintech-ceo-caught-manipulating-social)
 * [2025-11-05, 18:11:16](https://news.ycombinator.com/item?id=45825965) - [OpenAI ends legal and medical advice on ChatGPT](https://www.ctvnews.ca/sci-tech/article/openai-updates-policies-so-chatgpt-wont-provide-medical-or-legal-advice/)
+* [2025-11-05, 17:50:45](https://news.ycombinator.com/item?id=45825733) - [Show HN: I scraped 3B Goodreads reviews to train a better recommendation model](https://book.sv)
 * [2025-11-05, 16:32:43](https://news.ycombinator.com/item?id=45824864) - [Why aren't smart people happier?](https://www.theseedsofscience.pub/p/why-arent-smart-people-happier)
 * [2025-11-05, 16:18:01](https://news.ycombinator.com/item?id=45824658) - [Norway reviews cybersecurity after remote-access feature found in Chinese buses](https://scandasia.com/norway-reviews-cybersecurity-after-hidden-remote-access-feature-found-in-chinese-buses/)
 * [2025-11-05, 15:52:27](https://news.ycombinator.com/item?id=45824243) - [Open Source Implementation of Apple's Private Compute Cloud](https://github.com/openpcc/openpcc)
