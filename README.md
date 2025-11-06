@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-11-06, 18:26:53](https://news.ycombinator.com/item?id=45838540) - [Show HN: TabPFN-2.5 – SOTA foundation model for tabular data](https://priorlabs.ai/technical-reports/tabpfn-2-5-model-report)
 * [2025-11-06, 18:12:56](https://news.ycombinator.com/item?id=45838365) - [Benchmarking the Most Reliable Document Parsing API](https://www.tensorlake.ai/blog/benchmarks)
 * [2025-11-06, 18:04:28](https://news.ycombinator.com/item?id=45838239) - [OpenDesk – a flexible all-in-one office suite for the public sector](https://www.opendesk.eu/de)
 * [2025-11-06, 17:37:49](https://news.ycombinator.com/item?id=45837871) - [Swift on FreeBSD Preview](https://forums.swift.org/t/swift-on-freebsd-preview/83064)
@@ -22,14 +23,13 @@
 * [2025-11-06, 02:38:53](https://news.ycombinator.com/item?id=45830770) - [End of Japanese community](https://support.mozilla.org/en-US/forums/contributors/717446)
 * [2025-11-05, 20:00:40](https://news.ycombinator.com/item?id=45827190) - [Solarpunk is happening in Africa](https://climatedrift.substack.com/p/why-solarpunk-is-already-happening)
 * [2025-11-05, 18:57:09](https://news.ycombinator.com/item?id=45826472) - [Show HN: See chords as flags – Visual harmony of top composers on musescore](https://rawl.rocks/)
-* [2025-11-05, 18:40:32](https://news.ycombinator.com/item?id=45826266) - [Dillo, a multi-platform graphical web browser](https://github.com/dillo-browser/dillo)
-* [2025-11-05, 18:11:16](https://news.ycombinator.com/item?id=45825965) - [ChatGPT terms disallow its use in providing legal and medical advice to others](https://www.ctvnews.ca/sci-tech/article/openai-updates-policies-so-chatgpt-wont-provide-medical-or-legal-advice/)
 * [2025-11-05, 15:52:27](https://news.ycombinator.com/item?id=45824243) - [Open Source Implementation of Apple's Private Compute Cloud](https://github.com/openpcc/openpcc)
 * [2025-11-01, 22:34:43](https://news.ycombinator.com/item?id=45786041) - [How often does Python allocate?](https://zackoverflow.dev/writing/how-often-does-python-allocate/)
 * [2025-10-31, 05:23:52](https://news.ycombinator.com/item?id=45768688) - [Pico-100BASE-TX: Bit-Banged 100 MBit/s Ethernet and UDP Framer for RP2040/RP2350](https://github.com/steve-m/Pico-100BASE-TX)
 * [2025-10-29, 18:45:47](https://news.ycombinator.com/item?id=45751263) - [Phantom in the Light: The story of early spectroscopy](https://chrisdempewolf.com/posts/phantom-in-the-light/)
 * [2025-10-29, 09:29:17](https://news.ycombinator.com/item?id=45744518) - [Springs and Bounces in Native CSS](https://www.joshwcomeau.com/animation/linear-timing-function/)
-* [2025-10-29, 08:10:58](https://news.ycombinator.com/item?id=45744038) - [Firefox profiles: Private, focused spaces for all the ways you browse](https://blog.mozilla.org/en/firefox/profile-management/)
+* [2025-10-27, 12:30:34](https://news.ycombinator.com/item?id=45720239) - [Musik magazine archives (1995-2003)](https://www.muzikmagazine.co.uk)
+* [2025-10-27, 09:55:32](https://news.ycombinator.com/item?id=45719090) - [What if hard work felt easier?](https://jeanhsu.substack.com/p/what-if-hard-work-felt-easier)
 
 ## [Archives](archives/index.md)
 

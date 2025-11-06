@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-11-06](index.md)
 
+* [2025-11-06, 18:26:53](https://news.ycombinator.com/item?id=45838540) - [Show HN: TabPFN-2.5 – SOTA foundation model for tabular data](https://priorlabs.ai/technical-reports/tabpfn-2-5-model-report)
 * [2025-11-06, 18:12:56](https://news.ycombinator.com/item?id=45838365) - [Benchmarking the Most Reliable Document Parsing API](https://www.tensorlake.ai/blog/benchmarks)
 * [2025-11-06, 18:04:28](https://news.ycombinator.com/item?id=45838239) - [OpenDesk – a flexible all-in-one office suite for the public sector](https://www.opendesk.eu/de)
 * [2025-11-06, 17:37:49](https://news.ycombinator.com/item?id=45837871) - [Swift on FreeBSD Preview](https://forums.swift.org/t/swift-on-freebsd-preview/83064)
