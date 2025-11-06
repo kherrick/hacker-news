@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-11-06, 07:09:07](https://news.ycombinator.com/item?id=45832341) - [How I am deeply integrating Emacs](https://joshblais.com/blog/how-i-am-deeply-integrating-emacs/)
-* [2025-11-06, 06:43:00](https://news.ycombinator.com/item?id=45832198) - [Flutter_compositions: Vue-inspired reactive building blocks for Flutter](https://github.com/yoyo930021/flutter_compositions)
+* [2025-11-06, 06:43:00](https://news.ycombinator.com/item?id=45832198) - [Show HN: Flutter_compositions: Vue-inspired reactive building blocks for Flutter](https://github.com/yoyo930021/flutter_compositions)
 * [2025-11-06, 02:50:31](https://news.ycombinator.com/item?id=45830829) - [Ratatui – App Showcase](https://ratatui.rs/showcase/apps/)
 * [2025-11-06, 02:46:23](https://news.ycombinator.com/item?id=45830808) - [Brain-IT: Image Reconstruction from fMRI via Brain-Interaction Transformer](https://AmitZalcher.github.io/Brain-IT/)
 * [2025-11-06, 02:38:53](https://news.ycombinator.com/item?id=45830770) - [End of Japanese community](https://support.mozilla.org/en-US/forums/contributors/717446)
