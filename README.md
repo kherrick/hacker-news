@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-11-06, 10:59:42](https://news.ycombinator.com/item?id=45833811) - [Show HN: qqqa – a fast, stateless LLM-powered assistant for your shell](https://github.com/matisojka/qqqa)
 * [2025-11-06, 09:24:42](https://news.ycombinator.com/item?id=45833162) - [Mathematical Exploration and Discovery at Scale](https://terrytao.wordpress.com/2025/11/05/mathematical-exploration-and-discovery-at-scale/)
 * [2025-11-06, 08:49:06](https://news.ycombinator.com/item?id=45832954) - [Erlang Meets Idris: Cure Programming Language](https://cure-lang.org/)
 * [2025-11-06, 08:23:46](https://news.ycombinator.com/item?id=45832803) - [What the hell have you built](https://wthhyb.sacha.house/)
@@ -9,7 +10,6 @@
 * [2025-11-06, 02:38:53](https://news.ycombinator.com/item?id=45830770) - [End of Japanese community](https://support.mozilla.org/en-US/forums/contributors/717446)
 * [2025-11-06, 01:09:18](https://news.ycombinator.com/item?id=45830223) - [Recursive macros in C, demystified (once the ugly crying stops)](https://h4x0r.org/big-mac-ro-attack/)
 * [2025-11-05, 22:58:38](https://news.ycombinator.com/item?id=45829210) - [The Basic Laws of Human Stupidity (1987) [pdf]](https://gandalf.fee.urv.cat/professors/AntonioQuesada/Curs1920/Cipolla_laws.pdf)
-* [2025-11-05, 20:40:39](https://news.ycombinator.com/item?id=45827661) - [A Lost IBM PC/at Model? Analyzing a Newfound Old Bios](https://int10h.org/blog/2025/11/lost-ibm-at-model-bios-analysis/)
 * [2025-11-05, 20:00:40](https://news.ycombinator.com/item?id=45827190) - [Solarpunk is happening in Africa](https://climatedrift.substack.com/p/why-solarpunk-is-already-happening)
 * [2025-11-05, 19:44:49](https://news.ycombinator.com/item?id=45826995) - [New gel restores dental enamel and could revolutionise tooth repair](https://www.nottingham.ac.uk/news/new-gel-restores-dental-enamel-and-could-revolutionise-tooth-repair)
 * [2025-11-05, 18:45:57](https://news.ycombinator.com/item?id=45826348) - [The state of SIMD in Rust in 2025](https://shnatsel.medium.com/the-state-of-simd-in-rust-in-2025-32c263e5f53d)
