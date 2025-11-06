@@ -21,6 +21,7 @@
 * [2025-10-22, 20:23:09](https://news.ycombinator.com/item?id=45674676) - [The Farmer Was Replaced [video]](https://www.youtube.com/watch?v=aP2WHQKJVsw)
 * [2025-10-22, 20:13:31](https://news.ycombinator.com/item?id=45674568) - [Why SSA Compilers?](https://mcyoung.xyz/2025/10/21/ssa-1/)
 * [2025-10-22, 20:07:13](https://news.ycombinator.com/item?id=45674470) - [Notes on Waveguide Synthesis (2018)](https://www.osar.fr/notes/waveguides/)
+* [2025-10-22, 19:48:03](https://news.ycombinator.com/item?id=45674227) - [LibreArm – Breathing New Life into QardioArm Devices](https://ptylr.com/posts/2025-09-28-librearm-breathing-new-life-into-qardioarm-devices)
 * [2025-10-22, 19:46:24](https://news.ycombinator.com/item?id=45674209) - [Django 6.0 beta 1 released](https://www.djangoproject.com/weblog/2025/oct/22/django-60-beta-released/)
 * [2025-10-22, 19:42:36](https://news.ycombinator.com/item?id=45674166) - [Ovi](https://github.com/character-ai/Ovi)
 * [2025-10-22, 19:38:54](https://news.ycombinator.com/item?id=45674126) - [Show HN: Cuq – Formal Verification of Rust GPU Kernels](https://github.com/neelsomani/cuq)
