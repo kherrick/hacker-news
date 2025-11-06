@@ -56,6 +56,7 @@
 * [2025-10-31, 09:13:03](https://news.ycombinator.com/item?id=45769901) - [Claude.ai Is Down](https://claude.ai)
 * [2025-10-31, 09:05:08](https://news.ycombinator.com/item?id=45769857) - [Show HN: A fast, dependency-free traceroute implementation in pure C](https://github.com/davidesantangelo/fastrace)
 * [2025-10-31, 06:09:25](https://news.ycombinator.com/item?id=45768889) - [Pornhub says UK visitors down 77% since age checks came in](https://www.bbc.com/news/articles/cgkz3m3re1zo)
+* [2025-10-31, 05:23:52](https://news.ycombinator.com/item?id=45768688) - [Pico-100BASE-TX: Bit-Banged 100 MBit/s Ethernet and UDP Framer for RP2040/RP2350](https://github.com/steve-m/Pico-100BASE-TX)
 * [2025-10-31, 04:37:42](https://news.ycombinator.com/item?id=45768482) - [A Look at Antml: The Anthropic Markup Language](https://karashiiro.leaflet.pub/3m4gf7geefs2l)
 * [2025-10-31, 03:39:34](https://news.ycombinator.com/item?id=45768156) - [No Code](https://github.com/lemonyte/no-code)
 * [2025-10-31, 03:07:48](https://news.ycombinator.com/item?id=45767916) - [AMD Could Enter ARM Market with Sound Wave APU Built on TSMC 3nm Process](https://www.guru3d.com/story/amd-enters-arm-market-with-sound-wave-apu-built-on-tsmc-3nm-process/)
