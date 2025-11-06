@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-11-06](index.md)
 
+* [2025-11-06, 04:37:45](https://news.ycombinator.com/item?id=45831541) - [\"I may have found a way to spot U.S. at-sea strikes before they're announced\"](https://old.reddit.com/r/OSINT/comments/1opjjyv/i_may_have_found_a_way_to_spot_us_atsea_strikes/)
 * [2025-11-06, 03:00:01](https://news.ycombinator.com/item?id=45830881) - [Economic Anger Once Again Punishes the Party in Power](https://www.wsj.com/politics/elections/economic-anger-once-again-punishes-the-party-in-power-71d14d18)
 * [2025-11-06, 02:50:31](https://news.ycombinator.com/item?id=45830829) - [Rust's TUI Revolution](https://ratatui.rs/showcase/apps/)
 * [2025-11-06, 02:46:23](https://news.ycombinator.com/item?id=45830808) - [Brain-IT: Image Reconstruction from fMRI via Brain-Interaction Transformer](https://AmitZalcher.github.io/Brain-IT/)

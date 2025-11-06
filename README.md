@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-11-06, 04:37:45](https://news.ycombinator.com/item?id=45831541) - [\"I may have found a way to spot U.S. at-sea strikes before they're announced\"](https://old.reddit.com/r/OSINT/comments/1opjjyv/i_may_have_found_a_way_to_spot_us_atsea_strikes/)
 * [2025-11-06, 02:50:31](https://news.ycombinator.com/item?id=45830829) - [Rust's TUI Revolution](https://ratatui.rs/showcase/apps/)
 * [2025-11-06, 02:46:23](https://news.ycombinator.com/item?id=45830808) - [Brain-IT: Image Reconstruction from fMRI via Brain-Interaction Transformer](https://AmitZalcher.github.io/Brain-IT/)
 * [2025-11-06, 02:38:53](https://news.ycombinator.com/item?id=45830770) - [Longtime Mozilla Support Japanese Community Shuts Down over AI Translation Usage](https://support.mozilla.org/en-US/forums/contributors/717446)
@@ -28,7 +29,6 @@
 * [2025-10-30, 20:51:32](https://news.ycombinator.com/item?id=45765174) - [Gloomth](https://www.lrb.co.uk/the-paper/v47/n20/jon-day/gloomth)
 * [2025-10-30, 16:08:25](https://news.ycombinator.com/item?id=45761594) - [SPy: An interpreter and compiler for a fast statically typed variant of Python](https://antocuni.eu/2025/10/29/inside-spy-part-1-motivations-and-goals/)
 * [2025-10-29, 08:10:58](https://news.ycombinator.com/item?id=45744038) - [Firefox profiles: Private, focused spaces for all the ways you browse](https://blog.mozilla.org/en/firefox/profile-management/)
-* [2025-10-26, 22:16:59](https://news.ycombinator.com/item?id=45715623) - [Show HN: The Legal Embedding Benchmark (MLEB)](https://huggingface.co/blog/isaacus/introducing-mleb)
 * [2025-10-24, 00:51:43](https://news.ycombinator.com/item?id=45689443) - [Unicode Footguns in Python](https://pythonkoans.substack.com/p/koan-15-the-invisible-ink)
 
 ## [Archives](archives/index.md)
