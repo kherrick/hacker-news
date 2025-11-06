@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-11-06, 19:19:09](https://news.ycombinator.com/item?id=45839129) - [Mark Zuckerberg Had Illegal School at His Palo Alto Compound. Neighbors Revolted](https://www.wired.com/story/mark-zuckerberg-school-palo-alto-shut-down/)
 * [2025-11-06, 18:29:03](https://news.ycombinator.com/item?id=45838564) - [LLMs Encode How Difficult Problems Are](https://arxiv.org/abs/2510.18147)
 * [2025-11-06, 18:26:53](https://news.ycombinator.com/item?id=45838540) - [Show HN: TabPFN-2.5 – SOTA foundation model for tabular data](https://priorlabs.ai/technical-reports/tabpfn-2-5-model-report)
 * [2025-11-06, 18:12:56](https://news.ycombinator.com/item?id=45838365) - [Benchmarking the Most Reliable Document Parsing API](https://www.tensorlake.ai/blog/benchmarks)
@@ -28,7 +29,6 @@
 * [2025-10-31, 05:23:52](https://news.ycombinator.com/item?id=45768688) - [Pico-100BASE-TX: Bit-Banged 100 MBit/s Ethernet and UDP Framer for RP2040/RP2350](https://github.com/steve-m/Pico-100BASE-TX)
 * [2025-10-29, 18:45:47](https://news.ycombinator.com/item?id=45751263) - [Phantom in the Light: The story of early spectroscopy](https://chrisdempewolf.com/posts/phantom-in-the-light/)
 * [2025-10-29, 09:29:17](https://news.ycombinator.com/item?id=45744518) - [Springs and Bounces in Native CSS](https://www.joshwcomeau.com/animation/linear-timing-function/)
-* [2025-10-27, 12:30:34](https://news.ycombinator.com/item?id=45720239) - [Musik magazine archives (1995-2003)](https://www.muzikmagazine.co.uk)
 * [2025-10-27, 09:55:32](https://news.ycombinator.com/item?id=45719090) - [What if hard work felt easier?](https://jeanhsu.substack.com/p/what-if-hard-work-felt-easier)
 
 ## [Archives](archives/index.md)
