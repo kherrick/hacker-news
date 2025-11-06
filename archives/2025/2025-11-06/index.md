@@ -6,6 +6,7 @@
 
 * [2025-11-06, 07:37:25](https://news.ycombinator.com/item?id=45832515) - [From Swift to Mojo and High-Performance AI Engineering with Chris Lattner[video]](https://www.youtube.com/watch?v=Fxp3131i1yE)
 * [2025-11-06, 07:09:07](https://news.ycombinator.com/item?id=45832341) - [How I am deeply integrating Emacs](https://joshblais.com/blog/how-i-am-deeply-integrating-emacs/)
+* [2025-11-06, 06:43:00](https://news.ycombinator.com/item?id=45832198) - [Flutter_compositions: Vue-inspired reactive building blocks for Flutter](https://github.com/yoyo930021/flutter_compositions)
 * [2025-11-06, 04:37:45](https://news.ycombinator.com/item?id=45831541) - [\"I may have found a way to spot U.S. at-sea strikes before they're announced\"](https://old.reddit.com/r/OSINT/comments/1opjjyv/i_may_have_found_a_way_to_spot_us_atsea_strikes/)
 * [2025-11-06, 03:00:01](https://news.ycombinator.com/item?id=45830881) - [Economic Anger Once Again Punishes the Party in Power](https://www.wsj.com/politics/elections/economic-anger-once-again-punishes-the-party-in-power-71d14d18)
 * [2025-11-06, 02:50:31](https://news.ycombinator.com/item?id=45830829) - [Rust's TUI Revolution](https://ratatui.rs/showcase/apps/)
