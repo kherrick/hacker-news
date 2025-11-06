@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-10-30](index.md)
 
 * [2025-10-30, 23:12:10](https://news.ycombinator.com/item?id=45766501) - [Leaker reveals which Pixels are vulnerable to Cellebrite phone hacking](https://arstechnica.com/gadgets/2025/10/leaker-reveals-which-pixels-are-vulnerable-to-cellebrite-phone-hacking/)
+* [2025-10-30, 22:53:01](https://news.ycombinator.com/item?id=45766347) - [The MDL (\"Muddle\") Programming Language (1979) [pdf]](http://bitsavers.informatik.uni-stuttgart.de/pdf/mit/lcs/tr/MIT-LCS-TR-0293_MDL_Pgmg_Lang.pdf)
 * [2025-10-30, 22:41:50](https://news.ycombinator.com/item?id=45766253) - [Why We're Never Using Wise Again – A Cautionary Tale from a Business Burned](https://shaun.nz/why-were-never-using-wise-again-a-cautionary-tale-from-a-business-burned/)
 * [2025-10-30, 21:49:11](https://news.ycombinator.com/item?id=45765787) - [Phone numbers for use in TV shows, films and creative works](https://www.acma.gov.au/phone-numbers-use-tv-shows-films-and-creative-works)
 * [2025-10-30, 21:35:42](https://news.ycombinator.com/item?id=45765664) - [Denmark reportedly withdraws Chat Control proposal following controversy](https://therecord.media/demark-reportedly-withdraws-chat-control-proposal)

@@ -2,7 +2,6 @@
 
 * [2025-11-06, 02:50:31](https://news.ycombinator.com/item?id=45830829) - [Rust's TUI Revolution](https://ratatui.rs/showcase/apps/)
 * [2025-11-06, 02:46:23](https://news.ycombinator.com/item?id=45830808) - [Brain-IT: Image Reconstruction from fMRI via Brain-Interaction Transformer](https://AmitZalcher.github.io/Brain-IT/)
-* [2025-11-06, 02:44:05](https://news.ycombinator.com/item?id=45830797) - [FAA to cut flights by 10% at 40 major airports due to government shutdown](https://www.cnbc.com/2025/11/05/faa-cuts-flight-capacity-shutdown.html)
 * [2025-11-06, 02:38:53](https://news.ycombinator.com/item?id=45830770) - [Longtime Mozilla Support Japanese Community Shuts Down over AI Translation Usage](https://support.mozilla.org/en-US/forums/contributors/717446)
 * [2025-11-06, 01:09:18](https://news.ycombinator.com/item?id=45830223) - [Recursive macros in C, demystified (once the ugly crying stops)](https://h4x0r.org/big-mac-ro-attack/)
 * [2025-11-05, 22:58:38](https://news.ycombinator.com/item?id=45829210) - [The Basic Laws of Human Stupidity (1987) [pdf]](https://gandalf.fee.urv.cat/professors/AntonioQuesada/Curs1920/Cipolla_laws.pdf)
@@ -25,6 +24,7 @@
 * [2025-11-03, 09:17:06](https://news.ycombinator.com/item?id=45797228) - [Absurd Workflows: Durable Execution with Just Postgres](https://lucumr.pocoo.org/2025/11/3/absurd-workflows/)
 * [2025-11-01, 17:25:00](https://news.ycombinator.com/item?id=45783467) - [Vacuum bricked after user blocks data collection – user mods it to run anyway](https://www.tomshardware.com/tech-industry/big-tech/manufacturer-issues-remote-kill-command-to-nuke-smart-vacuum-after-engineer-blocks-it-from-collecting-data-user-revives-it-with-custom-hardware-and-python-scripts-to-run-offline)
 * [2025-11-01, 16:00:47](https://news.ycombinator.com/item?id=45782702) - [Timing Wheels](https://pncnmnp.github.io/blogs/timing-wheels.html)
+* [2025-10-30, 22:53:01](https://news.ycombinator.com/item?id=45766347) - [The MDL (\"Muddle\") Programming Language (1979) [pdf]](http://bitsavers.informatik.uni-stuttgart.de/pdf/mit/lcs/tr/MIT-LCS-TR-0293_MDL_Pgmg_Lang.pdf)
 * [2025-10-30, 20:51:32](https://news.ycombinator.com/item?id=45765174) - [Gloomth](https://www.lrb.co.uk/the-paper/v47/n20/jon-day/gloomth)
 * [2025-10-30, 16:08:25](https://news.ycombinator.com/item?id=45761594) - [SPy: An interpreter and compiler for a fast statically typed variant of Python](https://antocuni.eu/2025/10/29/inside-spy-part-1-motivations-and-goals/)
 * [2025-10-29, 08:10:58](https://news.ycombinator.com/item?id=45744038) - [Firefox profiles: Private, focused spaces for all the ways you browse](https://blog.mozilla.org/en/firefox/profile-management/)
