@@ -11,6 +11,7 @@
 * [2025-10-26, 22:36:34](https://news.ycombinator.com/item?id=45715726) - [Poison, Poison Everywhere](https://loeber.substack.com/p/29-poison-poison-everywhere)
 * [2025-10-26, 22:34:25](https://news.ycombinator.com/item?id=45715714) - [The Apple Network Server macOS ROMs Have Resurfaced](http://oldvcr.blogspot.com/2025/10/the-apple-network-server-macos-roms.html)
 * [2025-10-26, 22:19:02](https://news.ycombinator.com/item?id=45715632) - [TOON – Token Oriented Object Notation](https://github.com/johannschopplich/toon)
+* [2025-10-26, 22:16:59](https://news.ycombinator.com/item?id=45715623) - [Show HN: The Legal Embedding Benchmark (MLEB)](https://huggingface.co/blog/isaacus/introducing-mleb)
 * [2025-10-26, 21:36:58](https://news.ycombinator.com/item?id=45715408) - [Chip Hall of Fame: Intel 8088 Microprocessor](https://spectrum.ieee.org/chip-hall-of-fame-intel-8088-microprocessor)
 * [2025-10-26, 21:05:09](https://news.ycombinator.com/item?id=45715204) - [We Saved $500k per Year by Rolling Our Own \"S3\"](https://engineering.nanit.com/how-we-saved-500-000-per-year-by-rolling-our-own-s3-6caec1ee1143)
 * [2025-10-26, 20:43:40](https://news.ycombinator.com/item?id=45715055) - [Show HN: MyraOS – My 32-bit operating system in C and ASM (Hack Club project)](https://github.com/dvir-biton/MyraOS)

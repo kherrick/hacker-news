@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-11-06, 03:00:01](https://news.ycombinator.com/item?id=45830881) - [Economic Anger Once Again Punishes the Party in Power](https://www.wsj.com/politics/elections/economic-anger-once-again-punishes-the-party-in-power-71d14d18)
+* [2025-11-06, 02:50:31](https://news.ycombinator.com/item?id=45830829) - [Rust's TUI Revolution](https://ratatui.rs/showcase/apps/)
 * [2025-11-06, 02:44:05](https://news.ycombinator.com/item?id=45830797) - [FAA to cut flights by 10% at 40 major airports due to government shutdown](https://www.cnbc.com/2025/11/05/faa-cuts-flight-capacity-shutdown.html)
 * [2025-11-06, 02:38:53](https://news.ycombinator.com/item?id=45830770) - [Longtime Mozilla Support Japanese Community Shuts Down over AI Translation Usage](https://support.mozilla.org/en-US/forums/contributors/717446)
 * [2025-11-06, 01:09:18](https://news.ycombinator.com/item?id=45830223) - [Recursive macros in C, demystified (once the ugly crying stops)](https://h4x0r.org/big-mac-ro-attack/)
@@ -15,7 +15,7 @@
 * [2025-11-05, 15:24:35](https://news.ycombinator.com/item?id=45823831) - [Ruby and Its Neighbors: Smalltalk](https://noelrappin.com/blog/2025/11/ruby-and-its-neighbors-smalltalk/)
 * [2025-11-05, 14:25:36](https://news.ycombinator.com/item?id=45823186) - [Carice TC2 – A non-digital electric car](https://www.caricecars.com/)
 * [2025-11-05, 14:21:13](https://news.ycombinator.com/item?id=45823141) - [The shadows lurking in the equations](https://gods.art/articles/equation_shadows.html)
-* [2025-11-05, 14:06:22](https://news.ycombinator.com/item?id=45822982) - [A P2P Vision for QUIC (2024)](https://seemann.io/posts/2024-10-26---p2p-quic/)
+* [2025-11-05, 13:22:35](https://news.ycombinator.com/item?id=45822559) - [Radiant Computer](https://radiant.computer)
 * [2025-11-05, 13:20:16](https://news.ycombinator.com/item?id=45822539) - [NY school phone ban has made lunch loud again](https://gothamist.com/news/ny-smartphone-ban-has-made-lunch-loud-again)
 * [2025-11-04, 20:16:45](https://news.ycombinator.com/item?id=45815419) - [I was right about dishwasher pods and now I can prove it [video]](https://www.youtube.com/watch?v=DAX2_mPr9W8)
 * [2025-11-04, 16:26:09](https://news.ycombinator.com/item?id=45812756) - [An eBPF Loophole: Using XDP for Egress Traffic](https://loopholelabs.io/blog/xdp-for-egress-traffic)
@@ -28,7 +28,7 @@
 * [2025-10-30, 18:18:40](https://news.ycombinator.com/item?id=45763262) - [Learning from failure to tackle hard problems](https://blog.ml.cmu.edu/2025/10/27/learning-from-failure-to-tackle-extremely-hard-problems/)
 * [2025-10-30, 16:08:25](https://news.ycombinator.com/item?id=45761594) - [SPy: An interpreter and compiler for a fast statically typed variant of Python](https://antocuni.eu/2025/10/29/inside-spy-part-1-motivations-and-goals/)
 * [2025-10-29, 08:10:58](https://news.ycombinator.com/item?id=45744038) - [Firefox profiles: Private, focused spaces for all the ways you browse](https://blog.mozilla.org/en/firefox/profile-management/)
-* [2025-10-25, 19:31:49](https://news.ycombinator.com/item?id=45706372) - [Visualizing the most common unisex names in the US](https://nameplay.org/blog/common-unisex-names-by-gender-ratio)
+* [2025-10-26, 22:16:59](https://news.ycombinator.com/item?id=45715623) - [Show HN: The Legal Embedding Benchmark (MLEB)](https://huggingface.co/blog/isaacus/introducing-mleb)
 * [2025-10-24, 00:51:43](https://news.ycombinator.com/item?id=45689443) - [Unicode Footguns in Python](https://pythonkoans.substack.com/p/koan-15-the-invisible-ink)
 
 ## [Archives](archives/index.md)
