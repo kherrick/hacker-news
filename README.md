@@ -5,7 +5,7 @@
 * [2025-11-06, 22:05:58](https://news.ycombinator.com/item?id=45841056) - [Writing software is an act of learning. Don’t automate it.](https://martinfowler.com/articles/llm-learning-loop.html)
 * [2025-11-06, 21:23:46](https://news.ycombinator.com/item?id=45840612) - [Hightouch (YC S19) Is Hiring](https://job-boards.greenhouse.io/hightouch/jobs/5542602004)
 * [2025-11-06, 20:45:39](https://news.ycombinator.com/item?id=45840200) - [Universe's expansion 'is now slowing, not speeding up'](https://ras.ac.uk/news-and-press/research-highlights/universes-expansion-now-slowing-not-speeding)
-* [2025-11-06, 20:37:06](https://news.ycombinator.com/item?id=45840088) - [You Should Write An Agent](https://fly.io/blog/everyone-write-an-agent/)
+* [2025-11-06, 20:37:06](https://news.ycombinator.com/item?id=45840088) - [You should write an agent](https://fly.io/blog/everyone-write-an-agent/)
 * [2025-11-06, 20:20:23](https://news.ycombinator.com/item?id=45839901) - [Two billion email addresses were exposed](https://www.troyhunt.com/2-billion-email-addresses-were-exposed-and-we-indexed-them-all-in-have-i-been-pwned/)
 * [2025-11-06, 18:29:03](https://news.ycombinator.com/item?id=45838564) - [LLMs Encode How Difficult Problems Are](https://arxiv.org/abs/2510.18147)
 * [2025-11-06, 18:26:53](https://news.ycombinator.com/item?id=45838540) - [Show HN: TabPFN-2.5 – SOTA foundation model for tabular data](https://priorlabs.ai/technical-reports/tabpfn-2-5-model-report)
