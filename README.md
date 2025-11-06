@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-11-06, 02:50:31](https://news.ycombinator.com/item?id=45830829) - [Rust's TUI Revolution](https://ratatui.rs/showcase/apps/)
+* [2025-11-06, 02:46:23](https://news.ycombinator.com/item?id=45830808) - [Brain-IT: Image Reconstruction from fMRI via Brain-Interaction Transformer](https://AmitZalcher.github.io/Brain-IT/)
 * [2025-11-06, 02:44:05](https://news.ycombinator.com/item?id=45830797) - [FAA to cut flights by 10% at 40 major airports due to government shutdown](https://www.cnbc.com/2025/11/05/faa-cuts-flight-capacity-shutdown.html)
 * [2025-11-06, 02:38:53](https://news.ycombinator.com/item?id=45830770) - [Longtime Mozilla Support Japanese Community Shuts Down over AI Translation Usage](https://support.mozilla.org/en-US/forums/contributors/717446)
 * [2025-11-06, 01:09:18](https://news.ycombinator.com/item?id=45830223) - [Recursive macros in C, demystified (once the ugly crying stops)](https://h4x0r.org/big-mac-ro-attack/)
@@ -25,7 +26,6 @@
 * [2025-11-01, 17:25:00](https://news.ycombinator.com/item?id=45783467) - [Vacuum bricked after user blocks data collection – user mods it to run anyway](https://www.tomshardware.com/tech-industry/big-tech/manufacturer-issues-remote-kill-command-to-nuke-smart-vacuum-after-engineer-blocks-it-from-collecting-data-user-revives-it-with-custom-hardware-and-python-scripts-to-run-offline)
 * [2025-11-01, 16:00:47](https://news.ycombinator.com/item?id=45782702) - [Timing Wheels](https://pncnmnp.github.io/blogs/timing-wheels.html)
 * [2025-10-30, 20:51:32](https://news.ycombinator.com/item?id=45765174) - [Gloomth](https://www.lrb.co.uk/the-paper/v47/n20/jon-day/gloomth)
-* [2025-10-30, 18:18:40](https://news.ycombinator.com/item?id=45763262) - [Learning from failure to tackle hard problems](https://blog.ml.cmu.edu/2025/10/27/learning-from-failure-to-tackle-extremely-hard-problems/)
 * [2025-10-30, 16:08:25](https://news.ycombinator.com/item?id=45761594) - [SPy: An interpreter and compiler for a fast statically typed variant of Python](https://antocuni.eu/2025/10/29/inside-spy-part-1-motivations-and-goals/)
 * [2025-10-29, 08:10:58](https://news.ycombinator.com/item?id=45744038) - [Firefox profiles: Private, focused spaces for all the ways you browse](https://blog.mozilla.org/en/firefox/profile-management/)
 * [2025-10-26, 22:16:59](https://news.ycombinator.com/item?id=45715623) - [Show HN: The Legal Embedding Benchmark (MLEB)](https://huggingface.co/blog/isaacus/introducing-mleb)
