@@ -82,6 +82,7 @@
 * [2025-10-29, 10:47:25](https://news.ycombinator.com/item?id=45745072) - [Aggressive bots ruined my weekend](https://herman.bearblog.dev/agressive-bots/)
 * [2025-10-29, 10:21:59](https://news.ycombinator.com/item?id=45744885) - [Linux Tidbits and Collecting Pebbles](https://unixbhaskar.wordpress.com/2025/03/02/linux-tidbits-and-collecting-pebbles/)
 * [2025-10-29, 09:54:05](https://news.ycombinator.com/item?id=45744683) - [Making MLS More Decentralized](https://blog.phnx.im/making-mls-more-decentralized/)
+* [2025-10-29, 09:29:17](https://news.ycombinator.com/item?id=45744518) - [Springs and Bounces in Native CSS](https://www.joshwcomeau.com/animation/linear-timing-function/)
 * [2025-10-29, 09:26:09](https://news.ycombinator.com/item?id=45744503) - [YouTube is taking down videos on performing nonstandard Windows 11 installs](https://old.reddit.com/r/DataHoarder/comments/1oiz0v0/youtube_is_taking_down_videos_on_performing/)
 * [2025-10-29, 09:06:36](https://news.ycombinator.com/item?id=45744395) - [SpiderMonkey Garbage Collector](https://firefox-source-docs.mozilla.org/js/gc.html)
 * [2025-10-29, 08:37:36](https://news.ycombinator.com/item?id=45744209) - [Ask HN: How to deal with long vibe-coded PRs?](https://news.ycombinator.com/item?id=45744209)
