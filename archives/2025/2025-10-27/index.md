@@ -18,6 +18,7 @@
 * [2025-10-27, 21:04:11](https://news.ycombinator.com/item?id=45726272) - [Movycat – A terminal movie player written in Zig](https://github.com/M64GitHub/movycat)
 * [2025-10-27, 20:57:12](https://news.ycombinator.com/item?id=45726192) - [Easy RISC-V: An interactive introduction to RISC-V assembly programming](https://dramforever.github.io/easyriscv/)
 * [2025-10-27, 20:52:08](https://news.ycombinator.com/item?id=45726137) - [The PSF has withdrawn a $1.5M proposal to US Government grant program](https://simonwillison.net/2025/Oct/27/psf-withdrawn-proposal/)
+* [2025-10-27, 19:44:49](https://news.ycombinator.com/item?id=45725431) - [The seven second kernel compile](http://es.tldp.org/Presentaciones/200211hispalinux/blanchard/talk_2.html)
 * [2025-10-27, 19:06:34](https://news.ycombinator.com/item?id=45725009) - [Study finds growing social circles may fuel polarization](https://phys.org/news/2025-10-friends-division-social-circles-fuel.html)
 * [2025-10-27, 18:57:57](https://news.ycombinator.com/item?id=45724913) - [Creating an All-Weather Driver](https://waymo.com/blog/2025/10/creating-an-all-weather-driver)
 * [2025-10-27, 17:57:18](https://news.ycombinator.com/item?id=45724229) - [Show HN: Meals You Love – AI-powered meal planning and grocery shopping](https://mealsyoulove.com)
