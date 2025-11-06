@@ -19,7 +19,6 @@
 * [2025-11-06, 15:06:06](https://news.ycombinator.com/item?id=45836070) - [Kimi K2 Thinking, a SOTA open-source trillion-parameter reasoning model](https://moonshotai.github.io/Kimi-K2/thinking.html)
 * [2025-11-06, 14:54:16](https://news.ycombinator.com/item?id=45835931) - [Auraphone: A simple app to collect people's info at events](https://andrewarrow.dev/2025/11/simple-app-collect-peoples-info-at-events/)
 * [2025-11-06, 13:37:07](https://news.ycombinator.com/item?id=45835083) - [I analyzed the lineups at the most popular nightclubs](https://dev.karltryggvason.com/how-i-analyzed-the-lineups-at-the-worlds-most-popular-nightclubs/)
-* [2025-11-06, 13:26:37](https://news.ycombinator.com/item?id=45834980) - [IKEA launches new smart home range with 21 Matter-compatible products](https://www.ikea.com/global/en/newsroom/retail/the-new-smart-home-from-ikea-matter-compatible-251106/)
 * [2025-11-06, 11:57:01](https://news.ycombinator.com/item?id=45834254) - [Eating stinging nettles](https://rachel.blog/2018/04/29/eating-stinging-nettles/)
 * [2025-11-06, 10:59:42](https://news.ycombinator.com/item?id=45833811) - [Show HN: qqqa – A fast, stateless LLM-powered assistant for your shell](https://github.com/matisojka/qqqa)
 * [2025-11-06, 09:24:42](https://news.ycombinator.com/item?id=45833162) - [Mathematical exploration and discovery at scale](https://terrytao.wordpress.com/2025/11/05/mathematical-exploration-and-discovery-at-scale/)
@@ -30,6 +29,7 @@
 * [2025-10-31, 10:52:24](https://news.ycombinator.com/item?id=45770577) - [C++: A prvalue is not a temporary](https://blog.knatten.org/2025/10/31/a-prvalue-is-not-a-temporary/)
 * [2025-10-29, 09:29:17](https://news.ycombinator.com/item?id=45744518) - [Springs and Bounces in Native CSS](https://www.joshwcomeau.com/animation/linear-timing-function/)
 * [2025-10-27, 09:55:32](https://news.ycombinator.com/item?id=45719090) - [What if hard work felt easier?](https://jeanhsu.substack.com/p/what-if-hard-work-felt-easier)
+* [2025-10-24, 14:54:55](https://news.ycombinator.com/item?id=45695282) - [Writing Advice](https://chadnauseam.com/advice/writing-advice)
 
 ## [Archives](archives/index.md)
 
