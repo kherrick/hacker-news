@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-11-06, 13:21:43",
+      "https://news.ycombinator.com/item?id=45834932"
+    ],
+    [
+      "Refund requests flood Microsoft after tricking users into AI upgrades",
+      "https://www.afr.com/technology/microsoft-offers-refunds-after-tricking-customers-into-ai-upgrades-20251105-p5n81k"
+    ]
+  ],
+  [
+    [
+      "2025-11-06, 13:15:19",
+      "https://news.ycombinator.com/item?id=45834873"
+    ],
+    [
+      "Say Hi to Kit",
+      "https://www.firefox.com/en-US/kit/"
+    ]
+  ],
+  [
+    [
       "2025-11-06, 12:05:12",
       "https://news.ycombinator.com/item?id=45834303"
     ],
@@ -21,22 +41,22 @@
   ],
   [
     [
-      "2025-11-06, 10:59:42",
-      "https://news.ycombinator.com/item?id=45833811"
-    ],
-    [
-      "Show HN: qqqa – a fast, stateless LLM-powered assistant for your shell",
-      "https://github.com/matisojka/qqqa"
-    ]
-  ],
-  [
-    [
       "2025-11-06, 10:47:51",
       "https://news.ycombinator.com/item?id=45833734"
     ],
     [
-      "80year old grandmother becomes oldest woman to finish Ironman World Championship",
+      "Oldest woman to finish Ironman World Championship in Kona",
       "https://bigislandnow.com/2025/10/19/80-year-old-grandmother-becomes-oldest-woman-to-finish-ironman-world-championship-in-kona/"
+    ]
+  ],
+  [
+    [
+      "2025-11-06, 10:12:04",
+      "https://news.ycombinator.com/item?id=45833496"
+    ],
+    [
+      "The trust collapse: Infinite AI content is awful",
+      "https://arnon.dk/the-trust-collapse-infinite-ai-content-is-awful/"
     ]
   ],
   [
@@ -45,18 +65,18 @@
       "https://news.ycombinator.com/item?id=45833162"
     ],
     [
-      "Mathematical Exploration and Discovery at Scale",
+      "Mathematical exploration and discovery at scale",
       "https://terrytao.wordpress.com/2025/11/05/mathematical-exploration-and-discovery-at-scale/"
     ]
   ],
   [
     [
-      "2025-11-06, 08:23:46",
-      "https://news.ycombinator.com/item?id=45832803"
+      "2025-11-06, 07:09:07",
+      "https://news.ycombinator.com/item?id=45832341"
     ],
     [
-      "What the hell have you built",
-      "https://wthhyb.sacha.house/"
+      "How I am deeply integrating Emacs",
+      "https://joshblais.com/blog/how-i-am-deeply-integrating-emacs/"
     ]
   ],
   [
@@ -171,6 +191,16 @@
   ],
   [
     [
+      "2025-11-05, 15:52:27",
+      "https://news.ycombinator.com/item?id=45824243"
+    ],
+    [
+      "Open Source Implementation of Apple's Private Compute Cloud",
+      "https://github.com/openpcc/openpcc"
+    ]
+  ],
+  [
+    [
       "2025-11-05, 15:24:35",
       "https://news.ycombinator.com/item?id=45823831"
     ],
@@ -211,42 +241,12 @@
   ],
   [
     [
-      "2025-11-04, 20:16:45",
-      "https://news.ycombinator.com/item?id=45815419"
-    ],
-    [
-      "I was right about dishwasher pods and now I can prove it [video]",
-      "https://www.youtube.com/watch?v=DAX2_mPr9W8"
-    ]
-  ],
-  [
-    [
-      "2025-11-03, 21:27:56",
-      "https://news.ycombinator.com/item?id=45804664"
-    ],
-    [
-      "App Store web has exposed all its source code",
-      "https://www.reddit.com/r/webdev/comments/1onnzlj/app_store_web_has_exposed_all_its_source_code/"
-    ]
-  ],
-  [
-    [
       "2025-11-01, 23:50:57",
       "https://news.ycombinator.com/item?id=45786599"
     ],
     [
       "Scientists growing colour without chemicals",
       "https://www.forbes.com/sites/maevecampbell/2025/06/20/dyeing-for-fashion-meet-the-scientists-growing-colour-without-chemicals/"
-    ]
-  ],
-  [
-    [
-      "2025-11-01, 17:25:00",
-      "https://news.ycombinator.com/item?id=45783467"
-    ],
-    [
-      "Vacuum bricked after user blocks data collection – user mods it to run anyway",
-      "https://www.tomshardware.com/tech-industry/big-tech/manufacturer-issues-remote-kill-command-to-nuke-smart-vacuum-after-engineer-blocks-it-from-collecting-data-user-revives-it-with-custom-hardware-and-python-scripts-to-run-offline"
     ]
   ],
   [
