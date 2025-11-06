@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-11-06, 13:21:43](https://news.ycombinator.com/item?id=45834932) - [Refund requests flood Microsoft after tricking users into AI upgrades](https://www.afr.com/technology/microsoft-offers-refunds-after-tricking-customers-into-ai-upgrades-20251105-p5n81k)
+* [2025-11-06, 13:41:14](https://news.ycombinator.com/item?id=45835123) - [Cloudflare Tells U.S. Govt That Foreign Site Blocking Efforts Are Trade Barriers](https://torrentfreak.com/cloudflare-tells-u-s-govt-that-foreign-site-blocking-efforts-are-digital-trade-barriers/)
+* [2025-11-06, 13:26:37](https://news.ycombinator.com/item?id=45834980) - [IKEA launches new smart home range with 21 Matter-compatible products](https://www.ikea.com/global/en/newsroom/retail/the-new-smart-home-from-ikea-matter-compatible-251106/)
 * [2025-11-06, 13:15:19](https://news.ycombinator.com/item?id=45834873) - [Say Hi to Kit](https://www.firefox.com/en-US/kit/)
 * [2025-11-06, 12:05:12](https://news.ycombinator.com/item?id=45834303) - [AI Slop vs. OSS Security](https://devansh.bearblog.dev/ai-slop/)
 * [2025-11-06, 11:57:01](https://news.ycombinator.com/item?id=45834254) - [Eating Stinging Nettles](https://rachel.blog/2018/04/29/eating-stinging-nettles/)
@@ -15,6 +16,7 @@
 * [2025-11-05, 22:58:38](https://news.ycombinator.com/item?id=45829210) - [The Basic Laws of Human Stupidity (1987) [pdf]](https://gandalf.fee.urv.cat/professors/AntonioQuesada/Curs1920/Cipolla_laws.pdf)
 * [2025-11-05, 20:00:40](https://news.ycombinator.com/item?id=45827190) - [Solarpunk is happening in Africa](https://climatedrift.substack.com/p/why-solarpunk-is-already-happening)
 * [2025-11-05, 19:44:49](https://news.ycombinator.com/item?id=45826995) - [New gel restores dental enamel and could revolutionise tooth repair](https://www.nottingham.ac.uk/news/new-gel-restores-dental-enamel-and-could-revolutionise-tooth-repair)
+* [2025-11-05, 18:57:09](https://news.ycombinator.com/item?id=45826472) - [Show HN: See chords as flags – Visual harmony of top composers on musescore](https://rawl.rocks/)
 * [2025-11-05, 18:45:57](https://news.ycombinator.com/item?id=45826348) - [The state of SIMD in Rust in 2025](https://shnatsel.medium.com/the-state-of-simd-in-rust-in-2025-32c263e5f53d)
 * [2025-11-05, 18:40:32](https://news.ycombinator.com/item?id=45826266) - [Dillo, a multi-platform graphical web browser](https://github.com/dillo-browser/dillo)
 * [2025-11-05, 18:11:16](https://news.ycombinator.com/item?id=45825965) - [ChatGPT terms disallow its use in providing legal and medical advice to others](https://www.ctvnews.ca/sci-tech/article/openai-updates-policies-so-chatgpt-wont-provide-medical-or-legal-advice/)
@@ -22,14 +24,12 @@
 * [2025-11-05, 15:52:27](https://news.ycombinator.com/item?id=45824243) - [Open Source Implementation of Apple's Private Compute Cloud](https://github.com/openpcc/openpcc)
 * [2025-11-05, 15:24:35](https://news.ycombinator.com/item?id=45823831) - [Ruby and Its Neighbors: Smalltalk](https://noelrappin.com/blog/2025/11/ruby-and-its-neighbors-smalltalk/)
 * [2025-11-05, 14:25:36](https://news.ycombinator.com/item?id=45823186) - [Carice TC2 – A non-digital electric car](https://www.caricecars.com/)
-* [2025-11-05, 14:21:13](https://news.ycombinator.com/item?id=45823141) - [The shadows lurking in the equations](https://gods.art/articles/equation_shadows.html)
+* [2025-11-05, 14:07:50](https://news.ycombinator.com/item?id=45823000) - [Staying opinionated as you grow](https://hugo.writizzy.com/being-opinionated/57a0fa35-1afc-4824-8d42-3bce26e94ade)
 * [2025-11-05, 13:20:16](https://news.ycombinator.com/item?id=45822539) - [NY school phone ban has made lunch loud again](https://gothamist.com/news/ny-smartphone-ban-has-made-lunch-loud-again)
-* [2025-11-01, 23:50:57](https://news.ycombinator.com/item?id=45786599) - [Scientists growing colour without chemicals](https://www.forbes.com/sites/maevecampbell/2025/06/20/dyeing-for-fashion-meet-the-scientists-growing-colour-without-chemicals/)
 * [2025-11-01, 01:10:05](https://news.ycombinator.com/item?id=45778418) - [Chibi Izumi: Phased dependency injection for TypeScript](https://github.com/7mind/izumi-chibi-ts)
 * [2025-10-31, 18:29:37](https://news.ycombinator.com/item?id=45775149) - [A new oral history interview with Ken Thompson](https://computerhistory.org/blog/a-computing-legend-speaks/)
 * [2025-10-31, 05:23:52](https://news.ycombinator.com/item?id=45768688) - [Pico-100BASE-TX: Bit-Banged 100 MBit/s Ethernet and UDP Framer for RP2040/RP2350](https://github.com/steve-m/Pico-100BASE-TX)
 * [2025-10-29, 08:10:58](https://news.ycombinator.com/item?id=45744038) - [Firefox profiles: Private, focused spaces for all the ways you browse](https://blog.mozilla.org/en/firefox/profile-management/)
-* [2025-10-28, 17:51:34](https://news.ycombinator.com/item?id=45736282) - [Show HN: CoordConversions NPM Module for Map Coordinate Conversions](https://github.com/matthewcsimpson/CoordConversions)
 
 ## [Archives](archives/index.md)
 
