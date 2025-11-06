@@ -57,6 +57,7 @@
 * [2025-10-29, 14:35:17](https://news.ycombinator.com/item?id=45747380) - [Life After Work](https://www.mechanize.work/blog/life-after-work/)
 * [2025-10-29, 14:25:00](https://news.ycombinator.com/item?id=45747263) - [Mom's son was asking Tesla's Grok AI bot about soccer; told him to send nudes](https://www.cbc.ca/news/investigates/tesla-grok-mom-9.6956930)
 * [2025-10-29, 14:12:50](https://news.ycombinator.com/item?id=45747112) - [I made a 10¢ MCU Talk](https://www.atomic14.com/2025/10/29/CH32V003-talking)
+* [2025-10-29, 14:12:35](https://news.ycombinator.com/item?id=45747106) - [The human visual system: image shape and binocular vision](https://pixelcraft.photo.blog/2022/05/03/the-human-visual-system-image-shape-and-binocular-vision/)
 * [2025-10-29, 14:06:01](https://news.ycombinator.com/item?id=45747018) - [Kafka is Fast – I'll use Postgres](https://topicpartition.io/blog/postgres-pubsub-queue-benchmarks)
 * [2025-10-29, 14:02:06](https://news.ycombinator.com/item?id=45746964) - [Samsung's $2000 smart fridges are getting ads](https://www.ghacks.net/2025/10/29/samsungs-2000-smart-fridges-are-getting-ads/)
 * [2025-10-29, 13:52:31](https://news.ycombinator.com/item?id=45746844) - [Character.ai to bar children under 18 from using its chatbots](https://www.nytimes.com/2025/10/29/technology/characterai-underage-users.html)

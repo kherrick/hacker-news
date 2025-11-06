@@ -28,7 +28,7 @@
 * [2025-11-01, 17:25:00](https://news.ycombinator.com/item?id=45783467) - [Vacuum bricked after user blocks data collection – user mods it to run anyway](https://www.tomshardware.com/tech-industry/big-tech/manufacturer-issues-remote-kill-command-to-nuke-smart-vacuum-after-engineer-blocks-it-from-collecting-data-user-revives-it-with-custom-hardware-and-python-scripts-to-run-offline)
 * [2025-10-31, 21:52:02](https://news.ycombinator.com/item?id=45777109) - [The Transformations of Fernand Braudel](https://www.historytoday.com/archive/behind-times/transformations-fernand-braudel)
 * [2025-10-31, 18:29:37](https://news.ycombinator.com/item?id=45775149) - [A new oral history interview with Ken Thompson](https://computerhistory.org/blog/a-computing-legend-speaks/)
-* [2025-10-30, 16:08:25](https://news.ycombinator.com/item?id=45761594) - [SPy: An interpreter and compiler for a fast statically typed variant of Python](https://antocuni.eu/2025/10/29/inside-spy-part-1-motivations-and-goals/)
+* [2025-10-29, 14:12:35](https://news.ycombinator.com/item?id=45747106) - [The human visual system: image shape and binocular vision](https://pixelcraft.photo.blog/2022/05/03/the-human-visual-system-image-shape-and-binocular-vision/)
 * [2025-10-29, 08:10:58](https://news.ycombinator.com/item?id=45744038) - [Firefox profiles: Private, focused spaces for all the ways you browse](https://blog.mozilla.org/en/firefox/profile-management/)
 
 ## [Archives](archives/index.md)
