@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-11-01](index.md)
 
+* [2025-11-01, 23:50:57](https://news.ycombinator.com/item?id=45786599) - [Scientists Growing Colour Without Chemicals](https://www.forbes.com/sites/maevecampbell/2025/06/20/dyeing-for-fashion-meet-the-scientists-growing-colour-without-chemicals/)
 * [2025-11-01, 23:41:04](https://news.ycombinator.com/item?id=45786533) - [Show HN: Duper – The Format That's Super](https://duper.dev.br/)
 * [2025-11-01, 23:09:25](https://news.ycombinator.com/item?id=45786324) - [Pomelli](https://labs.google.com/pomelli/about/)
 * [2025-11-01, 23:09:25](https://news.ycombinator.com/item?id=45786324) - [Pomelli](https://blog.google/technology/google-labs/pomelli/)

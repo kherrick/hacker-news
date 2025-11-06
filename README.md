@@ -23,13 +23,13 @@
 * [2025-11-04, 06:35:27](https://news.ycombinator.com/item?id=45807993) - [I want a good parallel language [video]](https://www.youtube.com/watch?v=0-eViUyPwso)
 * [2025-11-03, 21:27:56](https://news.ycombinator.com/item?id=45804664) - [App Store web has exposed all its source code](https://www.reddit.com/r/webdev/comments/1onnzlj/app_store_web_has_exposed_all_its_source_code/)
 * [2025-11-03, 09:17:06](https://news.ycombinator.com/item?id=45797228) - [Absurd Workflows: Durable Execution with Just Postgres](https://lucumr.pocoo.org/2025/11/3/absurd-workflows/)
+* [2025-11-01, 23:50:57](https://news.ycombinator.com/item?id=45786599) - [Scientists Growing Colour Without Chemicals](https://www.forbes.com/sites/maevecampbell/2025/06/20/dyeing-for-fashion-meet-the-scientists-growing-colour-without-chemicals/)
 * [2025-11-01, 17:25:00](https://news.ycombinator.com/item?id=45783467) - [Vacuum bricked after user blocks data collection – user mods it to run anyway](https://www.tomshardware.com/tech-industry/big-tech/manufacturer-issues-remote-kill-command-to-nuke-smart-vacuum-after-engineer-blocks-it-from-collecting-data-user-revives-it-with-custom-hardware-and-python-scripts-to-run-offline)
 * [2025-11-01, 16:00:47](https://news.ycombinator.com/item?id=45782702) - [Timing Wheels](https://pncnmnp.github.io/blogs/timing-wheels.html)
 * [2025-10-30, 22:53:01](https://news.ycombinator.com/item?id=45766347) - [The MDL (\"Muddle\") Programming Language (1979) [pdf]](http://bitsavers.informatik.uni-stuttgart.de/pdf/mit/lcs/tr/MIT-LCS-TR-0293_MDL_Pgmg_Lang.pdf)
 * [2025-10-30, 20:51:32](https://news.ycombinator.com/item?id=45765174) - [Gloomth](https://www.lrb.co.uk/the-paper/v47/n20/jon-day/gloomth)
 * [2025-10-30, 16:08:25](https://news.ycombinator.com/item?id=45761594) - [SPy: An interpreter and compiler for a fast statically typed variant of Python](https://antocuni.eu/2025/10/29/inside-spy-part-1-motivations-and-goals/)
 * [2025-10-29, 08:10:58](https://news.ycombinator.com/item?id=45744038) - [Firefox profiles: Private, focused spaces for all the ways you browse](https://blog.mozilla.org/en/firefox/profile-management/)
-* [2025-10-24, 00:51:43](https://news.ycombinator.com/item?id=45689443) - [Unicode Footguns in Python](https://pythonkoans.substack.com/p/koan-15-the-invisible-ink)
 
 ## [Archives](archives/index.md)
 
