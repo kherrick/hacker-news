@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-11-06, 08:49:06",
+      "https://news.ycombinator.com/item?id=45832954"
+    ],
+    [
+      "Erlang Meets Idris: Cure Programming Language",
+      "https://cure-lang.org/"
+    ]
+  ],
+  [
+    [
+      "2025-11-06, 08:23:46",
+      "https://news.ycombinator.com/item?id=45832803"
+    ],
+    [
+      "What the hell have you built",
+      "https://wthhyb.sacha.house/"
+    ]
+  ],
+  [
+    [
       "2025-11-06, 07:09:07",
       "https://news.ycombinator.com/item?id=45832341"
     ],
@@ -201,16 +221,6 @@
   ],
   [
     [
-      "2025-11-04, 16:26:09",
-      "https://news.ycombinator.com/item?id=45812756"
-    ],
-    [
-      "An eBPF Loophole: Using XDP for Egress Traffic",
-      "https://loopholelabs.io/blog/xdp-for-egress-traffic"
-    ]
-  ],
-  [
-    [
       "2025-11-04, 06:35:27",
       "https://news.ycombinator.com/item?id=45807993"
     ],
@@ -227,16 +237,6 @@
     [
       "App Store web has exposed all its source code",
       "https://www.reddit.com/r/webdev/comments/1onnzlj/app_store_web_has_exposed_all_its_source_code/"
-    ]
-  ],
-  [
-    [
-      "2025-11-03, 09:17:06",
-      "https://news.ycombinator.com/item?id=45797228"
-    ],
-    [
-      "Absurd Workflows: Durable Execution with Just Postgres",
-      "https://lucumr.pocoo.org/2025/11/3/absurd-workflows/"
     ]
   ],
   [
