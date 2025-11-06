@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-11-06](index.md)
 
+* [2025-11-06, 21:23:46](https://news.ycombinator.com/item?id=45840612) - [Hightouch (YC S19) Is Hiring](https://job-boards.greenhouse.io/hightouch/jobs/5542602004)
+* [2025-11-06, 20:45:39](https://news.ycombinator.com/item?id=45840200) - [Universe's expansion 'is now slowing, not speeding up'](https://ras.ac.uk/news-and-press/research-highlights/universes-expansion-now-slowing-not-speeding)
+* [2025-11-06, 20:37:06](https://news.ycombinator.com/item?id=45840088) - [You Should Write An Agent](https://fly.io/blog/everyone-write-an-agent/)
 * [2025-11-06, 20:20:23](https://news.ycombinator.com/item?id=45839901) - [Two Billion Email Addresses Were Exposed](https://www.troyhunt.com/2-billion-email-addresses-were-exposed-and-we-indexed-them-all-in-have-i-been-pwned/)
 * [2025-11-06, 20:01:08](https://news.ycombinator.com/item?id=45839655) - [UK outperforms US in creating unicorns from early stage VC investment](https://www.cityam.com/uk-outperforms-us-in-creating-unicorns-from-early-stage-vc-investment/)
 * [2025-11-06, 19:19:09](https://news.ycombinator.com/item?id=45839129) - [Mark Zuckerberg Had Illegal School at His Palo Alto Compound. Neighbors Revolted](https://www.wired.com/story/mark-zuckerberg-school-palo-alto-shut-down/)
@@ -11,6 +14,7 @@
 * [2025-11-06, 18:29:03](https://news.ycombinator.com/item?id=45838564) - [LLMs Encode How Difficult Problems Are](https://arxiv.org/abs/2510.18147)
 * [2025-11-06, 18:26:53](https://news.ycombinator.com/item?id=45838540) - [Show HN: TabPFN-2.5 – SOTA foundation model for tabular data](https://priorlabs.ai/technical-reports/tabpfn-2-5-model-report)
 * [2025-11-06, 18:12:56](https://news.ycombinator.com/item?id=45838365) - [Benchmarking the Most Reliable Document Parsing API](https://www.tensorlake.ai/blog/benchmarks)
+* [2025-11-06, 18:08:52](https://news.ycombinator.com/item?id=45838297) - [Please stop asking me to provide feedback #8036](https://github.com/anthropics/claude-code/issues/8036)
 * [2025-11-06, 18:04:28](https://news.ycombinator.com/item?id=45838239) - [OpenDesk – a flexible all-in-one office suite for the public sector](https://www.opendesk.eu/de)
 * [2025-11-06, 17:37:49](https://news.ycombinator.com/item?id=45837871) - [Swift on FreeBSD Preview](https://forums.swift.org/t/swift-on-freebsd-preview/83064)
 * [2025-11-06, 17:06:47](https://news.ycombinator.com/item?id=45837452) - [The English language doesn't exist – it's just French that's badly pronounced](https://www.frenchclasses.com/tablettes-de-chocolat/the-english-language-doesnt-exist-its-just-french-thats-badly-pronounced/)
