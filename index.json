@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-11-06, 22:24:23",
+      "https://news.ycombinator.com/item?id=45841262"
+    ],
+    [
+      "Game Design Is Simple",
+      "https://www.raphkoster.com/2025/11/03/game-design-is-simple-actually/"
+    ]
+  ],
+  [
+    [
+      "2025-11-06, 22:22:14",
+      "https://news.ycombinator.com/item?id=45841231"
+    ],
+    [
+      "Europeans recognize Zohran Mamdani's policies as 'normal'",
+      "https://www.theguardian.com/us-news/2025/nov/06/europe-zohran-mamdani-policies-normal"
+    ]
+  ],
+  [
+    [
       "2025-11-06, 21:23:46",
       "https://news.ycombinator.com/item?id=45840612"
     ],
@@ -201,16 +221,6 @@
   ],
   [
     [
-      "2025-11-06, 10:59:42",
-      "https://news.ycombinator.com/item?id=45833811"
-    ],
-    [
-      "Show HN: qqqa – A fast, stateless LLM-powered assistant for your shell",
-      "https://github.com/matisojka/qqqa"
-    ]
-  ],
-  [
-    [
       "2025-11-06, 09:24:42",
       "https://news.ycombinator.com/item?id=45833162"
     ],
@@ -257,16 +267,6 @@
     [
       "Open Source Implementation of Apple's Private Compute Cloud",
       "https://github.com/openpcc/openpcc"
-    ]
-  ],
-  [
-    [
-      "2025-11-01, 22:34:43",
-      "https://news.ycombinator.com/item?id=45786041"
-    ],
-    [
-      "How often does Python allocate?",
-      "https://zackoverflow.dev/writing/how-often-does-python-allocate/"
     ]
   ],
   [
