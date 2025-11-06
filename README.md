@@ -26,10 +26,10 @@
 * [2025-11-03, 21:27:56](https://news.ycombinator.com/item?id=45804664) - [App Store web has exposed all its source code](https://www.reddit.com/r/webdev/comments/1onnzlj/app_store_web_has_exposed_all_its_source_code/)
 * [2025-11-01, 23:50:57](https://news.ycombinator.com/item?id=45786599) - [Scientists growing colour without chemicals](https://www.forbes.com/sites/maevecampbell/2025/06/20/dyeing-for-fashion-meet-the-scientists-growing-colour-without-chemicals/)
 * [2025-11-01, 17:25:00](https://news.ycombinator.com/item?id=45783467) - [Vacuum bricked after user blocks data collection – user mods it to run anyway](https://www.tomshardware.com/tech-industry/big-tech/manufacturer-issues-remote-kill-command-to-nuke-smart-vacuum-after-engineer-blocks-it-from-collecting-data-user-revives-it-with-custom-hardware-and-python-scripts-to-run-offline)
+* [2025-11-01, 01:10:05](https://news.ycombinator.com/item?id=45778418) - [Chibi Izumi: Phased dependency injection for TypeScript](https://github.com/7mind/izumi-chibi-ts)
 * [2025-10-31, 21:52:02](https://news.ycombinator.com/item?id=45777109) - [The Transformations of Fernand Braudel](https://www.historytoday.com/archive/behind-times/transformations-fernand-braudel)
 * [2025-10-31, 18:29:37](https://news.ycombinator.com/item?id=45775149) - [A new oral history interview with Ken Thompson](https://computerhistory.org/blog/a-computing-legend-speaks/)
 * [2025-10-29, 08:10:58](https://news.ycombinator.com/item?id=45744038) - [Firefox profiles: Private, focused spaces for all the ways you browse](https://blog.mozilla.org/en/firefox/profile-management/)
-* [2025-10-22, 19:48:03](https://news.ycombinator.com/item?id=45674227) - [LibreArm – Breathing New Life into QardioArm Devices](https://ptylr.com/posts/2025-09-28-librearm-breathing-new-life-into-qardioarm-devices)
 
 ## [Archives](archives/index.md)
 

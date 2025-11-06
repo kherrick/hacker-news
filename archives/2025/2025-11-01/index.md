@@ -59,4 +59,5 @@
 * [2025-11-01, 04:09:20](https://news.ycombinator.com/item?id=45779181) - [New analog chip that is 1k times faster than high-end Nvidia GPUs](https://www.livescience.com/technology/computing/china-solves-century-old-problem-with-new-analog-chip-that-is-1-000-times-faster-than-high-end-nvidia-gpus)
 * [2025-11-01, 03:18:04](https://news.ycombinator.com/item?id=45778984) - [The Profitable Startup](https://linear.app/now/the-profitable-startup)
 * [2025-11-01, 01:38:24](https://news.ycombinator.com/item?id=45778566) - [Fungus: The Befunge CPU(2015)](https://www.bedroomlan.org/hardware/fungus/)
+* [2025-11-01, 01:10:05](https://news.ycombinator.com/item?id=45778418) - [Chibi Izumi: Phased dependency injection for TypeScript](https://github.com/7mind/izumi-chibi-ts)
 * [2025-11-01, 00:19:02](https://news.ycombinator.com/item?id=45778139) - [I Love My Wife, My Wife Is Dead](https://www.bingqiangao.com/poetry/i-love-my-wife-my-wife-is-dead)
