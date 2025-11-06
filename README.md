@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-11-06, 13:41:14](https://news.ycombinator.com/item?id=45835123) - [Cloudflare Tells U.S. Govt That Foreign Site Blocking Efforts Are Trade Barriers](https://torrentfreak.com/cloudflare-tells-u-s-govt-that-foreign-site-blocking-efforts-are-digital-trade-barriers/)
+* [2025-11-06, 13:37:07](https://news.ycombinator.com/item?id=45835083) - [I analyzed the lineups at the most popular nightclubs](https://dev.karltryggvason.com/how-i-analyzed-the-lineups-at-the-worlds-most-popular-nightclubs/)
 * [2025-11-06, 13:26:37](https://news.ycombinator.com/item?id=45834980) - [IKEA launches new smart home range with 21 Matter-compatible products](https://www.ikea.com/global/en/newsroom/retail/the-new-smart-home-from-ikea-matter-compatible-251106/)
 * [2025-11-06, 13:15:19](https://news.ycombinator.com/item?id=45834873) - [Say Hi to Kit](https://www.firefox.com/en-US/kit/)
 * [2025-11-06, 12:05:12](https://news.ycombinator.com/item?id=45834303) - [AI Slop vs. OSS Security](https://devansh.bearblog.dev/ai-slop/)
 * [2025-11-06, 11:57:01](https://news.ycombinator.com/item?id=45834254) - [Eating Stinging Nettles](https://rachel.blog/2018/04/29/eating-stinging-nettles/)
-* [2025-11-06, 10:47:51](https://news.ycombinator.com/item?id=45833734) - [Oldest woman to finish Ironman World Championship in Kona](https://bigislandnow.com/2025/10/19/80-year-old-grandmother-becomes-oldest-woman-to-finish-ironman-world-championship-in-kona/)
 * [2025-11-06, 10:12:04](https://news.ycombinator.com/item?id=45833496) - [The trust collapse: Infinite AI content is awful](https://arnon.dk/the-trust-collapse-infinite-ai-content-is-awful/)
 * [2025-11-06, 09:24:42](https://news.ycombinator.com/item?id=45833162) - [Mathematical exploration and discovery at scale](https://terrytao.wordpress.com/2025/11/05/mathematical-exploration-and-discovery-at-scale/)
 * [2025-11-06, 07:09:07](https://news.ycombinator.com/item?id=45832341) - [How I am deeply integrating Emacs](https://joshblais.com/blog/how-i-am-deeply-integrating-emacs/)
@@ -17,7 +17,6 @@
 * [2025-11-05, 20:00:40](https://news.ycombinator.com/item?id=45827190) - [Solarpunk is happening in Africa](https://climatedrift.substack.com/p/why-solarpunk-is-already-happening)
 * [2025-11-05, 19:44:49](https://news.ycombinator.com/item?id=45826995) - [New gel restores dental enamel and could revolutionise tooth repair](https://www.nottingham.ac.uk/news/new-gel-restores-dental-enamel-and-could-revolutionise-tooth-repair)
 * [2025-11-05, 18:57:09](https://news.ycombinator.com/item?id=45826472) - [Show HN: See chords as flags – Visual harmony of top composers on musescore](https://rawl.rocks/)
-* [2025-11-05, 18:45:57](https://news.ycombinator.com/item?id=45826348) - [The state of SIMD in Rust in 2025](https://shnatsel.medium.com/the-state-of-simd-in-rust-in-2025-32c263e5f53d)
 * [2025-11-05, 18:40:32](https://news.ycombinator.com/item?id=45826266) - [Dillo, a multi-platform graphical web browser](https://github.com/dillo-browser/dillo)
 * [2025-11-05, 18:11:16](https://news.ycombinator.com/item?id=45825965) - [ChatGPT terms disallow its use in providing legal and medical advice to others](https://www.ctvnews.ca/sci-tech/article/openai-updates-policies-so-chatgpt-wont-provide-medical-or-legal-advice/)
 * [2025-11-05, 16:32:43](https://news.ycombinator.com/item?id=45824864) - [Why aren't smart people happier?](https://www.theseedsofscience.pub/p/why-arent-smart-people-happier)
@@ -30,6 +29,7 @@
 * [2025-10-31, 18:29:37](https://news.ycombinator.com/item?id=45775149) - [A new oral history interview with Ken Thompson](https://computerhistory.org/blog/a-computing-legend-speaks/)
 * [2025-10-31, 05:23:52](https://news.ycombinator.com/item?id=45768688) - [Pico-100BASE-TX: Bit-Banged 100 MBit/s Ethernet and UDP Framer for RP2040/RP2350](https://github.com/steve-m/Pico-100BASE-TX)
 * [2025-10-29, 08:10:58](https://news.ycombinator.com/item?id=45744038) - [Firefox profiles: Private, focused spaces for all the ways you browse](https://blog.mozilla.org/en/firefox/profile-management/)
+* [2025-10-27, 12:30:34](https://news.ycombinator.com/item?id=45720239) - [Musik magazine archives (1995-2003)](https://www.muzikmagazine.co.uk)
 
 ## [Archives](archives/index.md)
 

@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-11-06](index.md)
 
 * [2025-11-06, 13:41:14](https://news.ycombinator.com/item?id=45835123) - [Cloudflare Tells U.S. Govt That Foreign Site Blocking Efforts Are Trade Barriers](https://torrentfreak.com/cloudflare-tells-u-s-govt-that-foreign-site-blocking-efforts-are-digital-trade-barriers/)
+* [2025-11-06, 13:37:07](https://news.ycombinator.com/item?id=45835083) - [I analyzed the lineups at the most popular nightclubs](https://dev.karltryggvason.com/how-i-analyzed-the-lineups-at-the-worlds-most-popular-nightclubs/)
 * [2025-11-06, 13:26:37](https://news.ycombinator.com/item?id=45834980) - [IKEA launches new smart home range with 21 Matter-compatible products](https://www.ikea.com/global/en/newsroom/retail/the-new-smart-home-from-ikea-matter-compatible-251106/)
 * [2025-11-06, 13:21:43](https://news.ycombinator.com/item?id=45834932) - [Refund requests flood Microsoft after tricking users into AI upgrades](https://www.afr.com/technology/microsoft-offers-refunds-after-tricking-customers-into-ai-upgrades-20251105-p5n81k)
 * [2025-11-06, 13:15:19](https://news.ycombinator.com/item?id=45834873) - [Say Hi to Kit](https://www.firefox.com/en-US/kit/)

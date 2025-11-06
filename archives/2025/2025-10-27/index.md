@@ -64,6 +64,7 @@
 * [2025-10-27, 13:06:46](https://news.ycombinator.com/item?id=45720616) - [Florian Schneider Collection: Instruments and Equipment Up for Auction](https://www.juliensauctions.com/en/articles/the-florian-schneider-collection-rare-instruments-and-iconic-equipment-from-kraftwerk)
 * [2025-10-27, 12:42:42](https://news.ycombinator.com/item?id=45720376) - [10M people watched a YouTuber shim a lock; the lock company sued him – bad idea](https://arstechnica.com/tech-policy/2025/10/suing-a-popular-youtuber-who-shimmed-a-130-lock-what-could-possibly-go-wrong/)
 * [2025-10-27, 12:39:52](https://news.ycombinator.com/item?id=45720345) - [Pre-emptive Z80 multitasking explainer](https://github.com/bchiha/Ready-Z80/tree/main/29-Multitasking)
+* [2025-10-27, 12:30:34](https://news.ycombinator.com/item?id=45720239) - [Musik magazine archives (1995-2003)](https://www.muzikmagazine.co.uk)
 * [2025-10-27, 12:05:16](https://news.ycombinator.com/item?id=45720024) - [Fish in the Wrong Place](https://www.lrb.co.uk/the-paper/v47/n19/oliver-cussen/fish-in-the-wrong-place)
 * [2025-10-27, 12:00:30](https://news.ycombinator.com/item?id=45719996) - [Artifact (YC W25) is hiring engineers in NYC to build modern ECAD](https://news.ycombinator.com/item?id=45719996)
 * [2025-10-27, 11:53:22](https://news.ycombinator.com/item?id=45719927) - [Amazon strategised about keeping water use secret](https://www.source-material.org/amazon-leak-reveals-true-data-centres-water-usage-secret-plan/)
