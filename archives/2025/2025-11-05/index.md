@@ -20,6 +20,7 @@
 * [2025-11-05, 18:11:16](https://news.ycombinator.com/item?id=45825965) - [OpenAI ends legal and medical advice on ChatGPT](https://www.ctvnews.ca/sci-tech/article/openai-updates-policies-so-chatgpt-wont-provide-medical-or-legal-advice/)
 * [2025-11-05, 16:32:43](https://news.ycombinator.com/item?id=45824864) - [Why aren't smart people happier?](https://www.theseedsofscience.pub/p/why-arent-smart-people-happier)
 * [2025-11-05, 16:18:01](https://news.ycombinator.com/item?id=45824658) - [Norway reviews cybersecurity after remote-access feature found in Chinese buses](https://scandasia.com/norway-reviews-cybersecurity-after-hidden-remote-access-feature-found-in-chinese-buses/)
+* [2025-11-05, 15:52:27](https://news.ycombinator.com/item?id=45824243) - [Open Source Implementation of Apple's Private Compute Cloud](https://github.com/openpcc/openpcc)
 * [2025-11-05, 15:24:35](https://news.ycombinator.com/item?id=45823831) - [Ruby and Its Neighbors: Smalltalk](https://noelrappin.com/blog/2025/11/ruby-and-its-neighbors-smalltalk/)
 * [2025-11-05, 14:52:30](https://news.ycombinator.com/item?id=45823449) - [Global stock markets fall sharply over AI bubble fears](https://www.theguardian.com/business/2025/nov/05/global-stock-markets-fall-sharply-over-ai-bubble-fears)
 * [2025-11-05, 14:43:26](https://news.ycombinator.com/item?id=45823358) - [Kosmos: An AI Scientist for Autonomous Discovery](https://arxiv.org/abs/2511.02824)
