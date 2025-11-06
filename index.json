@@ -1,21 +1,11 @@
 [
   [
     [
-      "2025-11-06, 22:50:45",
-      "https://news.ycombinator.com/item?id=45841464"
-    ],
-    [
-      "Man who threw sandwich at US border agent not guilty of assault",
-      "https://www.bbc.com/news/articles/c5ypvv8n1jvo"
-    ]
-  ],
-  [
-    [
       "2025-11-06, 22:24:23",
       "https://news.ycombinator.com/item?id=45841262"
     ],
     [
-      "Game Design Is Simple",
+      "Game design is simple",
       "https://www.raphkoster.com/2025/11/03/game-design-is-simple-actually/"
     ]
   ],
@@ -25,7 +15,7 @@
       "https://news.ycombinator.com/item?id=45841056"
     ],
     [
-      "Writing software is an act of learning. Don’t automate it.",
+      "The Learning Loop and LLMs",
       "https://martinfowler.com/articles/llm-learning-loop.html"
     ]
   ],
@@ -75,7 +65,7 @@
       "https://news.ycombinator.com/item?id=45838564"
     ],
     [
-      "LLMs Encode How Difficult Problems Are",
+      "LLMs encode how difficult problems are",
       "https://arxiv.org/abs/2510.18147"
     ]
   ],
@@ -87,16 +77,6 @@
     [
       "Show HN: TabPFN-2.5 – SOTA foundation model for tabular data",
       "https://priorlabs.ai/technical-reports/tabpfn-2-5-model-report"
-    ]
-  ],
-  [
-    [
-      "2025-11-06, 18:08:52",
-      "https://news.ycombinator.com/item?id=45838297"
-    ],
-    [
-      "Please stop asking me to provide feedback #8036",
-      "https://github.com/anthropics/claude-code/issues/8036"
     ]
   ],
   [
@@ -201,6 +181,16 @@
   ],
   [
     [
+      "2025-11-06, 10:59:42",
+      "https://news.ycombinator.com/item?id=45833811"
+    ],
+    [
+      "Show HN: qqqa – A fast, stateless LLM-powered assistant for your shell",
+      "https://github.com/matisojka/qqqa"
+    ]
+  ],
+  [
+    [
       "2025-11-06, 09:24:42",
       "https://news.ycombinator.com/item?id=45833162"
     ],
@@ -267,6 +257,16 @@
     [
       "C++: A prvalue is not a temporary",
       "https://blog.knatten.org/2025/10/31/a-prvalue-is-not-a-temporary/"
+    ]
+  ],
+  [
+    [
+      "2025-10-31, 05:23:52",
+      "https://news.ycombinator.com/item?id=45768688"
+    ],
+    [
+      "Pico-100BASE-TX: Bit-Banged 100 MBit/s Ethernet and UDP Framer for RP2040/RP2350",
+      "https://github.com/steve-m/Pico-100BASE-TX"
     ]
   ],
   [
