@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-11-06, 04:37:45](https://news.ycombinator.com/item?id=45831541) - [\"I may have found a way to spot U.S. at-sea strikes before they're announced\"](https://old.reddit.com/r/OSINT/comments/1opjjyv/i_may_have_found_a_way_to_spot_us_atsea_strikes/)
-* [2025-11-06, 02:50:31](https://news.ycombinator.com/item?id=45830829) - [Rust's TUI Revolution](https://ratatui.rs/showcase/apps/)
+* [2025-11-06, 04:37:45](https://news.ycombinator.com/item?id=45831541) - [I may have found a way to spot U.S. at-sea strikes before they're announced](https://old.reddit.com/r/OSINT/comments/1opjjyv/i_may_have_found_a_way_to_spot_us_atsea_strikes/)
+* [2025-11-06, 02:50:31](https://news.ycombinator.com/item?id=45830829) - [Ratatui – App Showcase](https://ratatui.rs/showcase/apps/)
 * [2025-11-06, 02:46:23](https://news.ycombinator.com/item?id=45830808) - [Brain-IT: Image Reconstruction from fMRI via Brain-Interaction Transformer](https://AmitZalcher.github.io/Brain-IT/)
-* [2025-11-06, 02:38:53](https://news.ycombinator.com/item?id=45830770) - [Longtime Mozilla Support Japanese Community Shuts Down over AI Translation Usage](https://support.mozilla.org/en-US/forums/contributors/717446)
+* [2025-11-06, 02:38:53](https://news.ycombinator.com/item?id=45830770) - [End of Japanese community](https://support.mozilla.org/en-US/forums/contributors/717446)
 * [2025-11-06, 01:09:18](https://news.ycombinator.com/item?id=45830223) - [Recursive macros in C, demystified (once the ugly crying stops)](https://h4x0r.org/big-mac-ro-attack/)
 * [2025-11-05, 22:58:38](https://news.ycombinator.com/item?id=45829210) - [The Basic Laws of Human Stupidity (1987) [pdf]](https://gandalf.fee.urv.cat/professors/AntonioQuesada/Curs1920/Cipolla_laws.pdf)
 * [2025-11-05, 20:40:39](https://news.ycombinator.com/item?id=45827661) - [A Lost IBM PC/at Model? Analyzing a Newfound Old Bios](https://int10h.org/blog/2025/11/lost-ibm-at-model-bios-analysis/)
