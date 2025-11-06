@@ -11,6 +11,7 @@
 * [2025-10-30, 21:27:17](https://news.ycombinator.com/item?id=45765596) - [If a pilot ejects, what is the autopilot programmed to do? (2018)](https://aviation.stackexchange.com/questions/52862/if-a-pilot-ejects-what-is-the-autopilot-programmed-to-do)
 * [2025-10-30, 21:23:59](https://news.ycombinator.com/item?id=45765557) - [We are building AI slaves. Alignment through control will fail](https://utopai.substack.com/p/autopoietic-mutualism)
 * [2025-10-30, 21:03:46](https://news.ycombinator.com/item?id=45765328) - [Show HN: ekoAcademic – Convert ArXiv papers to interactive podcasts](https://www.wadamczyk.io/projects/ekoacademic/index.html)
+* [2025-10-30, 20:51:32](https://news.ycombinator.com/item?id=45765174) - [Gloomth](https://www.lrb.co.uk/the-paper/v47/n20/jon-day/gloomth)
 * [2025-10-30, 20:34:02](https://news.ycombinator.com/item?id=45764986) - [Apple reports fourth quarter results](https://www.apple.com/newsroom/2025/10/apple-reports-fourth-quarter-results/)
 * [2025-10-30, 19:30:48](https://news.ycombinator.com/item?id=45764265) - [Show HN: Ellipticc Drive – open-source cloud drive with E2E and PQ encryption](https://ellipticc.com)
 * [2025-10-30, 18:59:02](https://news.ycombinator.com/item?id=45763877) - [Minecraft HDL, an HDL for Redstone](https://github.com/itsfrank/MinecraftHDL)
