@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-11-06, 17:37:49](https://news.ycombinator.com/item?id=45837871) - [Swift on FreeBSD Preview](https://forums.swift.org/t/swift-on-freebsd-preview/83064)
 * [2025-11-06, 17:06:47](https://news.ycombinator.com/item?id=45837452) - [The English language doesn't exist – it's just French that's badly pronounced](https://www.frenchclasses.com/tablettes-de-chocolat/the-english-language-doesnt-exist-its-just-french-thats-badly-pronounced/)
 * [2025-11-06, 17:04:41](https://news.ycombinator.com/item?id=45837425) - [The Parallel Search API](https://parallel.ai/blog/introducing-parallel-search)
 * [2025-11-06, 17:00:03](https://news.ycombinator.com/item?id=45837364) - [Senior BizOps at Artie (San Francisco)](https://www.ycombinator.com/companies/artie/jobs/gqANVBc-senior-business-operations)
@@ -29,7 +30,6 @@
 * [2025-10-29, 09:29:17](https://news.ycombinator.com/item?id=45744518) - [Springs and Bounces in Native CSS](https://www.joshwcomeau.com/animation/linear-timing-function/)
 * [2025-10-29, 08:10:58](https://news.ycombinator.com/item?id=45744038) - [Firefox profiles: Private, focused spaces for all the ways you browse](https://blog.mozilla.org/en/firefox/profile-management/)
 * [2025-10-27, 19:44:49](https://news.ycombinator.com/item?id=45725431) - [The seven second kernel compile](http://es.tldp.org/Presentaciones/200211hispalinux/blanchard/talk_2.html)
-* [2025-10-27, 12:30:34](https://news.ycombinator.com/item?id=45720239) - [Musik magazine archives (1995-2003)](https://www.muzikmagazine.co.uk)
 
 ## [Archives](archives/index.md)
 
