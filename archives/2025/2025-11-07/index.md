@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-11-07](index.md)
 
+* [2025-11-07, 23:04:39](https://news.ycombinator.com/item?id=45852328) - [Why is Zig so Cool?](https://nilostolte.github.io/tech/articles/ZigCool.html)
 * [2025-11-07, 22:59:04](https://news.ycombinator.com/item?id=45852275) - [FAA restricts commercial rocket launches indefinitely due to air traffic risks](https://www.space.com/space-exploration/launches-spacecraft/faa-restricts-commercial-rocket-launches-indefinitely-due-to-air-traffic-risks-from-government-shutdown)
+* [2025-11-07, 22:15:41](https://news.ycombinator.com/item?id=45851807) - [Show HN: VoxConvo – \"X but it's only voice messages\"](https://voxconvo.com)
 * [2025-11-07, 22:13:37](https://news.ycombinator.com/item?id=45851786) - [Using the Web Monetization API for fun and profit](https://blog.tomayac.com/2025/11/07/using-the-web-monetization-api-for-fun-and-profit/)
 * [2025-11-07, 21:45:03](https://news.ycombinator.com/item?id=45851495) - [Becoming a Compiler Engineer](https://rona.substack.com/p/becoming-a-compiler-engineer)
 * [2025-11-07, 21:44:04](https://news.ycombinator.com/item?id=45851483) - [AI is Dunning-Kruger as a service](https://christianheilmann.com/2025/10/30/ai-is-dunning-kruger-as-a-service/)
