@@ -2,6 +2,7 @@
 
 * [2025-11-07, 03:01:32](https://news.ycombinator.com/item?id=45843146) - [A Fond Farewell from Farmers' Almanac](https://www.farmersalmanac.com/fond-farewell-from-farmers-almanac)
 * [2025-11-07, 02:57:02](https://news.ycombinator.com/item?id=45843120) - [A prvalue is not a temporary](https://blog.knatten.org/2025/10/31/a-prvalue-is-not-a-temporary/)
+* [2025-11-07, 01:57:02](https://news.ycombinator.com/item?id=45842777) - [HTML Slides with notes](https://nbd.neocities.org/slidepresentation/Slide%20presentation%20about%20slides)
 * [2025-11-07, 00:59:58](https://news.ycombinator.com/item?id=45842494) - [A Note on Fil-C](https://graydon2.dreamwidth.org/320265.html)
 * [2025-11-07, 00:22:53](https://news.ycombinator.com/item?id=45842263) - [Scientists find ways to boost memory in aging brains](https://news.vt.edu/articles/2025/10/cals-jarome-improving-memory.html)
 * [2025-11-06, 23:39:07](https://news.ycombinator.com/item?id=45841910) - [The secret campaign to silence critics of a hospital real estate empire](https://www.motherjones.com/politics/2025/10/medical-properties-trust-mpt-steward-health-care-ed-aldag-secret-campaign-critics-surveillance-reit/)
@@ -11,7 +12,6 @@
 * [2025-11-06, 20:37:06](https://news.ycombinator.com/item?id=45840088) - [You should write an agent](https://fly.io/blog/everyone-write-an-agent/)
 * [2025-11-06, 20:20:23](https://news.ycombinator.com/item?id=45839901) - [Two billion email addresses were exposed](https://www.troyhunt.com/2-billion-email-addresses-were-exposed-and-we-indexed-them-all-in-have-i-been-pwned/)
 * [2025-11-06, 18:29:03](https://news.ycombinator.com/item?id=45838564) - [LLMs encode how difficult problems are](https://arxiv.org/abs/2510.18147)
-* [2025-11-06, 18:26:53](https://news.ycombinator.com/item?id=45838540) - [Show HN: TabPFN-2.5 – SOTA foundation model for tabular data](https://priorlabs.ai/technical-reports/tabpfn-2-5-model-report)
 * [2025-11-06, 17:37:49](https://news.ycombinator.com/item?id=45837871) - [Swift on FreeBSD Preview](https://forums.swift.org/t/swift-on-freebsd-preview/83064)
 * [2025-11-06, 17:04:41](https://news.ycombinator.com/item?id=45837425) - [The Parallel Search API](https://parallel.ai/blog/introducing-parallel-search)
 * [2025-11-06, 16:57:55](https://news.ycombinator.com/item?id=45837342) - [ICC ditches Microsoft 365 for openDesk](https://www.binnenlandsbestuur.nl/digitaal/internationaal-strafhof-neemt-afscheid-van-microsoft-365)
