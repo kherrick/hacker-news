@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-11-07, 21:44:04](https://news.ycombinator.com/item?id=45851483) - [AI is Dunning-Kruger as a service](https://christianheilmann.com/2025/10/30/ai-is-dunning-kruger-as-a-service/)
 * [2025-11-07, 20:50:40](https://news.ycombinator.com/item?id=45850963) - [YouTube Removes Windows 11 Bypass Tutorials, Claims 'Risk of Physical Harm'](https://news.itsfoss.com/youtube-removes-windows-11-bypass-tutorials/)
 * [2025-11-07, 20:31:36](https://news.ycombinator.com/item?id=45850751) - [VLC's Jean-Baptiste Kempf Receives the European SFS Award 2025](https://fsfe.org/news/2025/news-20251107-01.en.html)
 * [2025-11-07, 20:26:26](https://news.ycombinator.com/item?id=45850671) - [Ribir: Non-intrusive GUI framework for Rust/WASM](https://github.com/RibirX/Ribir)
@@ -28,7 +29,6 @@
 * [2025-11-02, 21:57:16](https://news.ycombinator.com/item?id=45793783) - [Skeena Indigenous Typeface](https://microsoft.github.io/Skeena-Indigenous-Typeface/)
 * [2025-11-02, 10:00:07](https://news.ycombinator.com/item?id=45789143) - [Comparison Traits – Understanding Equality and Ordering in Rust](https://itsfoxstudio.substack.com/p/comparison-traits-understanding-equality)
 * [2025-11-02, 06:21:37](https://news.ycombinator.com/item?id=45788194) - [PyTorch Helion](https://pytorch.org/blog/helion/)
-* [2025-11-01, 23:34:51](https://news.ycombinator.com/item?id=45786490) - [Text case changes the size of QR codes](https://www.johndcook.com/blog/2025/10/31/smaller-qr-codes/)
 * [2025-11-01, 01:56:57](https://news.ycombinator.com/item?id=45778653) - [1973 implementation of Wordle was published by DEC (2022)](https://troypress.com/1973-implementation-of-wordle-was-published-by-dec/)
 
 ## [Archives](archives/index.md)
