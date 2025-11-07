@@ -7,6 +7,7 @@
 * [2025-11-07, 20:26:26](https://news.ycombinator.com/item?id=45850671) - [Ribir: Non-intrusive GUI framework for Rust/WASM](https://github.com/RibirX/Ribir)
 * [2025-11-07, 20:05:32](https://news.ycombinator.com/item?id=45850430) - [Apple is crossing a Steve Jobs red line](https://kensegall.com/2025/11/07/apple-is-crossing-a-steve-jobs-red-line/)
 * [2025-11-07, 20:01:09](https://news.ycombinator.com/item?id=45850382) - [How did I get here?](https://how-did-i-get-here.net/)
+* [2025-11-07, 19:40:32](https://news.ycombinator.com/item?id=45850171) - [Should facial analysis help determine whom companies hire?](https://www.economist.com/business/2025/11/06/should-facial-analysis-help-determine-whom-companies-hire)
 * [2025-11-07, 19:36:11](https://news.ycombinator.com/item?id=45850125) - [Show HN: Three Emojis, a daily word puzzle for language learners](https://threeemojis.com/en-US/play/hex/en-US/2025-11-07)
 * [2025-11-07, 19:30:18](https://news.ycombinator.com/item?id=45850069) - [James Watson, Co-Discoverer of the Structure of DNA, Is Dead at 97](https://www.nytimes.com/2025/11/07/science/james-watson-dead.html)
 * [2025-11-07, 18:45:35](https://news.ycombinator.com/item?id=45849528) - [Ruby Solved My Problem](https://newsletter.masilotti.com/p/ruby-already-solved-my-problem)
