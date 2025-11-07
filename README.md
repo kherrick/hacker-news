@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-11-07, 03:01:32](https://news.ycombinator.com/item?id=45843146) - [A Fond Farewell from Farmers' Almanac](https://www.farmersalmanac.com/fond-farewell-from-farmers-almanac)
 * [2025-11-07, 02:57:02](https://news.ycombinator.com/item?id=45843120) - [A prvalue is not a temporary](https://blog.knatten.org/2025/10/31/a-prvalue-is-not-a-temporary/)
 * [2025-11-07, 00:59:58](https://news.ycombinator.com/item?id=45842494) - [A Note on Fil-C](https://graydon2.dreamwidth.org/320265.html)
 * [2025-11-07, 00:22:53](https://news.ycombinator.com/item?id=45842263) - [Scientists find ways to boost memory in aging brains](https://news.vt.edu/articles/2025/10/cals-jarome-improving-memory.html)
@@ -26,9 +27,8 @@
 * [2025-11-05, 17:50:45](https://news.ycombinator.com/item?id=45825733) - [Show HN: I scraped 3B Goodreads reviews to train a better recommendation model](https://book.sv)
 * [2025-11-05, 15:52:27](https://news.ycombinator.com/item?id=45824243) - [Open Source Implementation of Apple's Private Compute Cloud](https://github.com/openpcc/openpcc)
 * [2025-11-04, 09:02:49](https://news.ycombinator.com/item?id=45808863) - [From web developer to database developer in 10 years](https://notes.eatonphil.com/2025-02-15-from-web-developer-to-database-developer-in-10-years.html)
-* [2025-11-02, 11:03:49](https://news.ycombinator.com/item?id=45789431) - [Show HN: Auto-Adjust Keyboard and LCD Brightness via Ambient Light Sensor[Linux]](https://github.com/donjajo/als-led-backlight)
+* [2025-11-02, 11:03:49](https://news.ycombinator.com/item?id=45789431) - [Show HN: Ambient light sensor control of keyboard and screen brightness in Linux](https://github.com/donjajo/als-led-backlight)
 * [2025-11-02, 07:16:20](https://news.ycombinator.com/item?id=45788441) - [GT – Experimental multiplexing tensor framework for distributed GPU computing](https://github.com/bwasti/gt)
-* [2025-11-01, 22:34:43](https://news.ycombinator.com/item?id=45786041) - [How often does Python allocate?](https://zackoverflow.dev/writing/how-often-does-python-allocate/)
 * [2025-10-31, 23:06:25](https://news.ycombinator.com/item?id=45777701) - [The Geometry of Schemes [pdf]](https://webhomes.maths.ed.ac.uk/~v1ranick/papers/eisenbudharris.pdf)
 
 ## [Archives](archives/index.md)

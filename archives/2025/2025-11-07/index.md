@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-11-07](index.md)
 
+* [2025-11-07, 03:01:32](https://news.ycombinator.com/item?id=45843146) - [A Fond Farewell from Farmers' Almanac](https://www.farmersalmanac.com/fond-farewell-from-farmers-almanac)
 * [2025-11-07, 02:57:02](https://news.ycombinator.com/item?id=45843120) - [A prvalue is not a temporary](https://blog.knatten.org/2025/10/31/a-prvalue-is-not-a-temporary/)
 * [2025-11-07, 00:59:58](https://news.ycombinator.com/item?id=45842494) - [A Note on Fil-C](https://graydon2.dreamwidth.org/320265.html)
 * [2025-11-07, 00:42:50](https://news.ycombinator.com/item?id=45842380) - [IRS Ends Direct File](https://www.wsj.com/politics/policy/irs-direct-file-tax-program-ended-00172148)
