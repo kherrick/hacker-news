@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-11-07, 17:12:19](https://news.ycombinator.com/item?id=45848552) - [Notes on Being a Man](https://www.profgalloway.com/notes-on-being-a-man/)
+* [2025-11-07, 17:07:01](https://news.ycombinator.com/item?id=45848504) - [Gmail AI gets more intrusive](https://daveverse.org/2025/11/07/gmail-ai-gets-even-more-intrusive/)
+* [2025-11-07, 17:05:06](https://news.ycombinator.com/item?id=45848484) - [Vodafone Germany is killing the open internet – one peering connection at a time](https://coffee.link/vodafone-germany-is-killing-the-open-internet-one-peering-connection-at-a-time/)
 * [2025-11-07, 16:59:49](https://news.ycombinator.com/item?id=45848428) - [Nasdaq 100 set for worst week since April meltdown](https://fortune.com/2025/11/07/nasdaq-100-worst-week-since-april-bear-market-correction/)
 * [2025-11-07, 16:52:05](https://news.ycombinator.com/item?id=45848341) - [Toxic Salton Sea dust triggers changes in lung microbiome after just one week](https://phys.org/news/2025-10-toxic-salton-sea-triggers-lung.html)
 * [2025-11-07, 16:49:14](https://news.ycombinator.com/item?id=45848302) - [3I/ATLAS shows perihelion burst and radial-only non-gravitational acceleration](https://old.reddit.com/r/dataisbeautiful/comments/1oqfau8/3iatlas_shows_perihelion_burst_and_radialonly/)
@@ -22,7 +23,6 @@
 * [2025-11-06, 20:20:23](https://news.ycombinator.com/item?id=45839901) - [Two billion email addresses were exposed](https://www.troyhunt.com/2-billion-email-addresses-were-exposed-and-we-indexed-them-all-in-have-i-been-pwned/)
 * [2025-11-05, 17:50:45](https://news.ycombinator.com/item?id=45825733) - [Show HN: I scraped 3B Goodreads reviews to train a better recommendation model](https://book.sv)
 * [2025-11-04, 11:10:04](https://news.ycombinator.com/item?id=45809649) - [My Experience of building Bytebeat player in Zig](https://blog.karanjanthe.me/posts/zig-beat/)
-* [2025-11-04, 09:02:49](https://news.ycombinator.com/item?id=45808863) - [From web developer to database developer in 10 years](https://notes.eatonphil.com/2025-02-15-from-web-developer-to-database-developer-in-10-years.html)
 * [2025-11-03, 08:13:49](https://news.ycombinator.com/item?id=45796892) - [How to Keep Winning](https://amasad.me/keep-winning)
 * [2025-11-02, 10:17:22](https://news.ycombinator.com/item?id=45789218) - [Revisiting Interface Segregation in Go](https://rednafi.com/go/interface-segregation/)
 * [2025-11-02, 10:00:07](https://news.ycombinator.com/item?id=45789143) - [Comparison Traits – Understanding Equality and Ordering in Rust](https://itsfoxstudio.substack.com/p/comparison-traits-understanding-equality)
