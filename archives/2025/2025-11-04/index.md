@@ -64,6 +64,7 @@
 * [2025-11-04, 11:10:04](https://news.ycombinator.com/item?id=45809649) - [My Experience of building Bytebeat player in Zig](https://blog.karanjanthe.me/posts/zig-beat/)
 * [2025-11-04, 11:09:24](https://news.ycombinator.com/item?id=45809644) - [Building blobd: single-machine object store with sub-ms reads and 15 GB/s upload](https://blog.wilsonl.in/blobd/)
 * [2025-11-04, 09:58:14](https://news.ycombinator.com/item?id=45809193) - [What Is a Manifold?](https://www.quantamagazine.org/what-is-a-manifold-20251103/)
+* [2025-11-04, 09:27:57](https://news.ycombinator.com/item?id=45809007) - [Venn Diagram for 7 Sets](https://moebio.com/research/sevensets/)
 * [2025-11-04, 09:25:31](https://news.ycombinator.com/item?id=45808998) - [Bloom filters are good for search that does not scale](https://notpeerreviewed.com/blog/bloom-filters/)
 * [2025-11-04, 09:11:27](https://news.ycombinator.com/item?id=45808918) - [Show HN: Yourshoesmells.com – Find the most smelly boulder gym](https://yourshoesmells.com)
 * [2025-11-04, 09:02:49](https://news.ycombinator.com/item?id=45808863) - [From web developer to database developer in 10 years](https://notes.eatonphil.com/2025-02-15-from-web-developer-to-database-developer-in-10-years.html)

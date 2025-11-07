@@ -7,6 +7,7 @@
 * [2025-11-07, 18:45:35](https://news.ycombinator.com/item?id=45849528) - [Ruby Solved My Problem](https://newsletter.masilotti.com/p/ruby-already-solved-my-problem)
 * [2025-11-07, 18:33:09](https://news.ycombinator.com/item?id=45849396) - [Sam Altman Subpoenaed on Stage](https://twitter.com/KarluskaP/status/1986766915277140052)
 * [2025-11-07, 18:27:36](https://news.ycombinator.com/item?id=45849342) - [Myna: Monospace typeface designed for symbol-heavy programming languages](https://github.com/sayyadirfanali/Myna)
+* [2025-11-07, 18:22:09](https://news.ycombinator.com/item?id=45849281) - [Rockstar employee shares account of the company's union-busting efforts](https://gtaforums.com/topic/1004182-rockstar-games-alleged-union-busting/)
 * [2025-11-07, 18:15:55](https://news.ycombinator.com/item?id=45849204) - [Why Zig Is Quietly Doing What Rust Couldn't: Staying Simple](https://freedium-mirror.cfd/@daxx5/why-zig-is-quietly-doing-what-rust-couldnt-staying-simple-a47f86b3a58a)
 * [2025-11-07, 17:12:19](https://news.ycombinator.com/item?id=45848552) - [Notes on Being a Man](https://www.profgalloway.com/notes-on-being-a-man/)
 * [2025-11-07, 17:07:01](https://news.ycombinator.com/item?id=45848504) - [Gmail AI gets more intrusive](https://daveverse.org/2025/11/07/gmail-ai-gets-even-more-intrusive/)
