@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-11-07, 03:17:19",
+      "https://news.ycombinator.com/item?id=45843220"
+    ],
+    [
+      "Dead Framework Theory",
+      "https://aifoc.us/dead-framework-theory/"
+    ]
+  ],
+  [
+    [
       "2025-11-07, 03:01:32",
       "https://news.ycombinator.com/item?id=45843146"
     ],
@@ -17,6 +27,16 @@
     [
       "A prvalue is not a temporary",
       "https://blog.knatten.org/2025/10/31/a-prvalue-is-not-a-temporary/"
+    ]
+  ],
+  [
+    [
+      "2025-11-07, 02:03:57",
+      "https://news.ycombinator.com/item?id=45842815"
+    ],
+    [
+      "My tutorial and take on C++20 coroutines (2021)",
+      "https://www.scs.stanford.edu/~dm/blog/c++-coroutines.html"
     ]
   ],
   [
@@ -47,16 +67,6 @@
     [
       "Scientists find ways to boost memory in aging brains",
       "https://news.vt.edu/articles/2025/10/cals-jarome-improving-memory.html"
-    ]
-  ],
-  [
-    [
-      "2025-11-06, 23:39:07",
-      "https://news.ycombinator.com/item?id=45841910"
-    ],
-    [
-      "The secret campaign to silence critics of a hospital real estate empire",
-      "https://www.motherjones.com/politics/2025/10/medical-properties-trust-mpt-steward-health-care-ed-aldag-secret-campaign-critics-surveillance-reit/"
     ]
   ],
   [
@@ -221,16 +231,6 @@
   ],
   [
     [
-      "2025-11-06, 04:37:45",
-      "https://news.ycombinator.com/item?id=45831541"
-    ],
-    [
-      "I may have found a way to spot U.S. at-sea strikes before they're announced",
-      "https://old.reddit.com/r/OSINT/comments/1opjjyv/i_may_have_found_a_way_to_spot_us_atsea_strikes/"
-    ]
-  ],
-  [
-    [
       "2025-11-05, 17:50:45",
       "https://news.ycombinator.com/item?id=45825733"
     ],
@@ -261,6 +261,16 @@
   ],
   [
     [
+      "2025-11-03, 00:50:41",
+      "https://news.ycombinator.com/item?id=45794824"
+    ],
+    [
+      "We built a cloud GPU notebook that boots in seconds",
+      "https://modal.com/blog/notebooks-internals"
+    ]
+  ],
+  [
+    [
       "2025-11-02, 11:03:49",
       "https://news.ycombinator.com/item?id=45789431"
     ],
@@ -277,16 +287,6 @@
     [
       "GT – Experimental multiplexing tensor framework for distributed GPU computing",
       "https://github.com/bwasti/gt"
-    ]
-  ],
-  [
-    [
-      "2025-11-01, 23:01:24",
-      "https://news.ycombinator.com/item?id=45786266"
-    ],
-    [
-      "The purported benefits of effect systems",
-      "https://typesanitizer.com/blog/effects-convo.html"
     ]
   ],
   [
