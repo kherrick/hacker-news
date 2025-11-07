@@ -61,6 +61,7 @@
 * [2025-11-04, 11:47:46](https://news.ycombinator.com/item?id=45809876) - [Studio Ghibli, Bandai Namco, Square Enix Demand OpenAI to Stop Using Their IP](https://www.theverge.com/news/812545/coda-studio-ghibli-sora-2-copyright-infringement)
 * [2025-11-04, 11:47:06](https://news.ycombinator.com/item?id=45809866) - [Over $70T of inherited wealth over next decade will widen inequality, economists](https://www.theguardian.com/inequality/2025/nov/03/more-than-70tn-of-inherited-wealth-over-next-decade-will-widen-inequality-economists-warn)
 * [2025-11-04, 11:42:10](https://news.ycombinator.com/item?id=45809835) - [OpenTelemetry: Escape Hatch from the Observability Cartel](https://oneuptime.com/blog/post/2025-11-03-opentelemetry-escape-from-observability-cartel/view)
+* [2025-11-04, 11:10:04](https://news.ycombinator.com/item?id=45809649) - [My Experience of building Bytebeat player in Zig](https://blog.karanjanthe.me/posts/zig-beat/)
 * [2025-11-04, 11:09:24](https://news.ycombinator.com/item?id=45809644) - [Building blobd: single-machine object store with sub-ms reads and 15 GB/s upload](https://blog.wilsonl.in/blobd/)
 * [2025-11-04, 09:58:14](https://news.ycombinator.com/item?id=45809193) - [What Is a Manifold?](https://www.quantamagazine.org/what-is-a-manifold-20251103/)
 * [2025-11-04, 09:25:31](https://news.ycombinator.com/item?id=45808998) - [Bloom filters are good for search that does not scale](https://notpeerreviewed.com/blog/bloom-filters/)

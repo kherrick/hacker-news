@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-11-07, 15:34:33](https://news.ycombinator.com/item?id=45847465) - [A.I. and Social Media Contribute to 'Brain Rot'](https://www.nytimes.com/2025/11/06/technology/personaltech/ai-social-media-brain-rot.html)
 * [2025-11-07, 14:31:07](https://news.ycombinator.com/item?id=45846769) - [Claude Is Down](https://status.claude.com/incidents/tgtw1sqs9ths)
 * [2025-11-07, 14:05:49](https://news.ycombinator.com/item?id=45846517) - [I Love OCaml](https://mccd.space/posts/ocaml-the-worlds-best/)
 * [2025-11-07, 13:52:39](https://news.ycombinator.com/item?id=45846360) - [I'm Making a Small RPG and I Need Feeback Regarding Performance](https://jslegenddev.substack.com/p/im-making-a-small-rpg-and-i-need)
@@ -19,9 +20,8 @@
 * [2025-11-06, 20:20:23](https://news.ycombinator.com/item?id=45839901) - [Two billion email addresses were exposed](https://www.troyhunt.com/2-billion-email-addresses-were-exposed-and-we-indexed-them-all-in-have-i-been-pwned/)
 * [2025-11-06, 15:06:06](https://news.ycombinator.com/item?id=45836070) - [Kimi K2 Thinking, a SOTA open-source trillion-parameter reasoning model](https://moonshotai.github.io/Kimi-K2/thinking.html)
 * [2025-11-05, 17:50:45](https://news.ycombinator.com/item?id=45825733) - [Show HN: I scraped 3B Goodreads reviews to train a better recommendation model](https://book.sv)
-* [2025-11-04, 11:42:10](https://news.ycombinator.com/item?id=45809835) - [OpenTelemetry: Escape Hatch from the Observability Cartel](https://oneuptime.com/blog/post/2025-11-03-opentelemetry-escape-from-observability-cartel/view)
+* [2025-11-04, 11:10:04](https://news.ycombinator.com/item?id=45809649) - [My Experience of building Bytebeat player in Zig](https://blog.karanjanthe.me/posts/zig-beat/)
 * [2025-11-04, 09:02:49](https://news.ycombinator.com/item?id=45808863) - [From web developer to database developer in 10 years](https://notes.eatonphil.com/2025-02-15-from-web-developer-to-database-developer-in-10-years.html)
-* [2025-11-03, 14:12:06](https://news.ycombinator.com/item?id=45799109) - [Cryptography 101 with Alfred Menezes](https://cryptography101.ca)
 * [2025-11-03, 00:50:41](https://news.ycombinator.com/item?id=45794824) - [We built a cloud GPU notebook that boots in seconds](https://modal.com/blog/notebooks-internals)
 * [2025-11-02, 10:17:22](https://news.ycombinator.com/item?id=45789218) - [Revisiting Interface Segregation in Go](https://rednafi.com/go/interface-segregation/)
 * [2025-11-02, 10:00:07](https://news.ycombinator.com/item?id=45789143) - [Comparison Traits – Understanding Equality and Ordering in Rust](https://itsfoxstudio.substack.com/p/comparison-traits-understanding-equality)

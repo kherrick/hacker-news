@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-11-07](index.md)
 
+* [2025-11-07, 15:34:33](https://news.ycombinator.com/item?id=45847465) - [A.I. and Social Media Contribute to 'Brain Rot'](https://www.nytimes.com/2025/11/06/technology/personaltech/ai-social-media-brain-rot.html)
 * [2025-11-07, 14:31:07](https://news.ycombinator.com/item?id=45846769) - [Claude Is Down](https://status.claude.com/incidents/tgtw1sqs9ths)
 * [2025-11-07, 14:05:49](https://news.ycombinator.com/item?id=45846517) - [I Love OCaml](https://mccd.space/posts/ocaml-the-worlds-best/)
 * [2025-11-07, 13:52:39](https://news.ycombinator.com/item?id=45846360) - [I'm Making a Small RPG and I Need Feeback Regarding Performance](https://jslegenddev.substack.com/p/im-making-a-small-rpg-and-i-need)
