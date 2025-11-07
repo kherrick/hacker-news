@@ -71,6 +71,16 @@
   ],
   [
     [
+      "2025-11-07, 02:03:57",
+      "https://news.ycombinator.com/item?id=45842815"
+    ],
+    [
+      "My tutorial and take on C++20 coroutines (2021)",
+      "https://www.scs.stanford.edu/~dm/blog/c++-coroutines.html"
+    ]
+  ],
+  [
+    [
       "2025-11-07, 01:57:02",
       "https://news.ycombinator.com/item?id=45842777"
     ],
@@ -287,16 +297,6 @@
     [
       "The Geometry of Schemes [pdf]",
       "https://webhomes.maths.ed.ac.uk/~v1ranick/papers/eisenbudharris.pdf"
-    ]
-  ],
-  [
-    [
-      "2025-10-31, 19:49:31",
-      "https://news.ycombinator.com/item?id=45775988"
-    ],
-    [
-      "Word2Vec-style vector arithmetic on docs embeddings",
-      "https://technicalwriting.dev/embeddings/arithmetic/index.html"
     ]
   ]
 ]
