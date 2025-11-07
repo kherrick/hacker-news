@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-11-07, 22:59:04",
+      "https://news.ycombinator.com/item?id=45852275"
+    ],
+    [
+      "FAA restricts commercial rocket launches indefinitely due to air traffic risks",
+      "https://www.space.com/space-exploration/launches-spacecraft/faa-restricts-commercial-rocket-launches-indefinitely-due-to-air-traffic-risks-from-government-shutdown"
+    ]
+  ],
+  [
+    [
       "2025-11-07, 22:13:37",
       "https://news.ycombinator.com/item?id=45851786"
     ],
@@ -171,16 +181,6 @@
   ],
   [
     [
-      "2025-11-07, 13:10:49",
-      "https://news.ycombinator.com/item?id=45845958"
-    ],
-    [
-      "We chose OCaml to write Stategraph",
-      "https://stategraph.dev/blog/why-we-chose-ocaml"
-    ]
-  ],
-  [
-    [
       "2025-11-07, 12:39:54",
       "https://news.ycombinator.com/item?id=45845772"
     ],
@@ -261,12 +261,12 @@
   ],
   [
     [
-      "2025-11-02, 10:00:07",
-      "https://news.ycombinator.com/item?id=45789143"
+      "2025-11-02, 16:47:55",
+      "https://news.ycombinator.com/item?id=45791596"
     ],
     [
-      "Comparison Traits – Understanding Equality and Ordering in Rust",
-      "https://itsfoxstudio.substack.com/p/comparison-traits-understanding-equality"
+      "Objective-C for Windows, including UIKit (public archive). From Microsoft",
+      "https://github.com/microsoft/WinObjC"
     ]
   ],
   [
