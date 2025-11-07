@@ -1,6 +1,46 @@
 [
   [
     [
+      "2025-11-07, 00:59:58",
+      "https://news.ycombinator.com/item?id=45842494"
+    ],
+    [
+      "A Note on Fil-C",
+      "https://graydon2.dreamwidth.org/320265.html"
+    ]
+  ],
+  [
+    [
+      "2025-11-07, 00:42:50",
+      "https://news.ycombinator.com/item?id=45842380"
+    ],
+    [
+      "IRS Ends Direct File",
+      "https://www.wsj.com/politics/policy/irs-direct-file-tax-program-ended-00172148"
+    ]
+  ],
+  [
+    [
+      "2025-11-07, 00:22:53",
+      "https://news.ycombinator.com/item?id=45842263"
+    ],
+    [
+      "Scientists find ways to boost memory in aging brains",
+      "https://news.vt.edu/articles/2025/10/cals-jarome-improving-memory.html"
+    ]
+  ],
+  [
+    [
+      "2025-11-06, 23:39:07",
+      "https://news.ycombinator.com/item?id=45841910"
+    ],
+    [
+      "The secret campaign to silence critics of a hospital real estate empire",
+      "https://www.motherjones.com/politics/2025/10/medical-properties-trust-mpt-steward-health-care-ed-aldag-secret-campaign-critics-surveillance-reit/"
+    ]
+  ],
+  [
+    [
       "2025-11-06, 22:24:23",
       "https://news.ycombinator.com/item?id=45841262"
     ],
@@ -111,32 +151,12 @@
   ],
   [
     [
-      "2025-11-06, 16:35:53",
-      "https://news.ycombinator.com/item?id=45837067"
-    ],
-    [
-      "Show HN: Dynamic code and feedback walkthroughs with your coding Agent in VSCode",
-      "https://www.intraview.ai/hn-demo"
-    ]
-  ],
-  [
-    [
       "2025-11-06, 16:18:18",
       "https://news.ycombinator.com/item?id=45836826"
     ],
     [
       "FBI tries to unmask owner of archive.is",
       "https://www.heise.de/en/news/Archive-today-FBI-Demands-Data-from-Provider-Tucows-11066346.html"
-    ]
-  ],
-  [
-    [
-      "2025-11-06, 15:46:01",
-      "https://news.ycombinator.com/item?id=45836466"
-    ],
-    [
-      "Supply chain attacks are exploiting our assumptions",
-      "https://blog.trailofbits.com/2025/09/24/supply-chain-attacks-are-exploiting-our-assumptions/"
     ]
   ],
   [
@@ -171,16 +191,6 @@
   ],
   [
     [
-      "2025-11-06, 13:26:37",
-      "https://news.ycombinator.com/item?id=45834980"
-    ],
-    [
-      "IKEA launches new smart home range with 21 Matter-compatible products",
-      "https://www.ikea.com/global/en/newsroom/retail/the-new-smart-home-from-ikea-matter-compatible-251106/"
-    ]
-  ],
-  [
-    [
       "2025-11-06, 11:57:01",
       "https://news.ycombinator.com/item?id=45834254"
     ],
@@ -211,32 +221,12 @@
   ],
   [
     [
-      "2025-11-06, 07:09:07",
-      "https://news.ycombinator.com/item?id=45832341"
-    ],
-    [
-      "How I am deeply integrating Emacs",
-      "https://joshblais.com/blog/how-i-am-deeply-integrating-emacs/"
-    ]
-  ],
-  [
-    [
       "2025-11-06, 04:37:45",
       "https://news.ycombinator.com/item?id=45831541"
     ],
     [
       "I may have found a way to spot U.S. at-sea strikes before they're announced",
       "https://old.reddit.com/r/OSINT/comments/1opjjyv/i_may_have_found_a_way_to_spot_us_atsea_strikes/"
-    ]
-  ],
-  [
-    [
-      "2025-11-06, 02:50:31",
-      "https://news.ycombinator.com/item?id=45830829"
-    ],
-    [
-      "Ratatui – App Showcase",
-      "https://ratatui.rs/showcase/apps/"
     ]
   ],
   [
@@ -271,6 +261,16 @@
   ],
   [
     [
+      "2025-11-03, 07:57:48",
+      "https://news.ycombinator.com/item?id=45796820"
+    ],
+    [
+      "The APM paradox: Too much data, too few answers",
+      "https://www.honeybadger.io/blog/apm-paradox/"
+    ]
+  ],
+  [
+    [
       "2025-11-02, 11:03:49",
       "https://news.ycombinator.com/item?id=45789431"
     ],
@@ -281,12 +281,12 @@
   ],
   [
     [
-      "2025-11-01, 22:34:43",
-      "https://news.ycombinator.com/item?id=45786041"
+      "2025-11-02, 07:16:20",
+      "https://news.ycombinator.com/item?id=45788441"
     ],
     [
-      "How often does Python allocate?",
-      "https://zackoverflow.dev/writing/how-often-does-python-allocate/"
+      "Gt: [experimental] multiplexing tensor framework",
+      "https://github.com/bwasti/gt"
     ]
   ],
   [
