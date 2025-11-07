@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-11-07, 18:45:35](https://news.ycombinator.com/item?id=45849528) - [Ruby Solved My Problem](https://newsletter.masilotti.com/p/ruby-already-solved-my-problem)
-* [2025-11-07, 18:33:09](https://news.ycombinator.com/item?id=45849396) - [Sam Altman Subpoenaed on Stage](https://twitter.com/KarluskaP/status/1986766915277140052)
 * [2025-11-07, 18:27:36](https://news.ycombinator.com/item?id=45849342) - [Myna: Monospace typeface designed for symbol-heavy programming languages](https://github.com/sayyadirfanali/Myna)
 * [2025-11-07, 18:22:09](https://news.ycombinator.com/item?id=45849281) - [Rockstar employee shares account of the company's union-busting efforts](https://gtaforums.com/topic/1004182-rockstar-games-alleged-union-busting/)
 * [2025-11-07, 17:07:01](https://news.ycombinator.com/item?id=45848504) - [Gmail AI gets more intrusive](https://daveverse.org/2025/11/07/gmail-ai-gets-even-more-intrusive/)
@@ -12,7 +11,6 @@
 * [2025-11-07, 16:28:31](https://news.ycombinator.com/item?id=45848083) - [Denmark's government aims to ban access to social media for children under 15](https://apnews.com/article/denmark-social-media-ban-children-7862d2a8cc590b4969c8931a01adc7f4)
 * [2025-11-07, 15:34:33](https://news.ycombinator.com/item?id=45847465) - [A.I. and Social Media Contribute to 'Brain Rot'](https://www.nytimes.com/2025/11/06/technology/personaltech/ai-social-media-brain-rot.html)
 * [2025-11-07, 14:05:49](https://news.ycombinator.com/item?id=45846517) - [I Love OCaml](https://mccd.space/posts/ocaml-the-worlds-best/)
-* [2025-11-07, 13:52:39](https://news.ycombinator.com/item?id=45846360) - [I'm Making a Small RPG and I Need Feeback Regarding Performance](https://jslegenddev.substack.com/p/im-making-a-small-rpg-and-i-need)
 * [2025-11-07, 13:25:27](https://news.ycombinator.com/item?id=45846090) - [OpenMW 0.50.0 Released – open-source Morrowind reimplementation](https://openmw.org/2025/openmw-0-50-0-released/)
 * [2025-11-07, 13:10:49](https://news.ycombinator.com/item?id=45845958) - [We chose OCaml to write Stategraph](https://stategraph.dev/blog/why-we-chose-ocaml)
 * [2025-11-07, 12:43:49](https://news.ycombinator.com/item?id=45845800) - [From Memorization to Reasoning in the Spectrum of Loss Curvature](https://arxiv.org/abs/2510.24256)
@@ -20,6 +18,7 @@
 * [2025-11-07, 12:00:40](https://news.ycombinator.com/item?id=45845568) - [Sweep (YC S23) is hiring to build autocomplete for JetBrains](https://www.ycombinator.com/companies/sweep/jobs/8dUn406-founding-engineer-intern)
 * [2025-11-07, 06:14:50](https://news.ycombinator.com/item?id=45843948) - [Leaving Meta and PyTorch](https://soumith.ch/blog/2025-11-06-leaving-meta-and-pytorch.md.html)
 * [2025-11-07, 03:01:32](https://news.ycombinator.com/item?id=45843146) - [A Fond Farewell](https://www.farmersalmanac.com/fond-farewell-from-farmers-almanac)
+* [2025-11-06, 22:24:23](https://news.ycombinator.com/item?id=45841262) - [Game design is simple](https://www.raphkoster.com/2025/11/03/game-design-is-simple-actually/)
 * [2025-11-05, 17:50:45](https://news.ycombinator.com/item?id=45825733) - [Show HN: I scraped 3B Goodreads reviews to train a better recommendation model](https://book.sv)
 * [2025-11-04, 11:10:04](https://news.ycombinator.com/item?id=45809649) - [My Experience of building Bytebeat player in Zig](https://blog.karanjanthe.me/posts/zig-beat/)
 * [2025-11-04, 09:27:57](https://news.ycombinator.com/item?id=45809007) - [Venn Diagram for 7 Sets](https://moebio.com/research/sevensets/)
@@ -29,6 +28,7 @@
 * [2025-11-02, 10:00:07](https://news.ycombinator.com/item?id=45789143) - [Comparison Traits – Understanding Equality and Ordering in Rust](https://itsfoxstudio.substack.com/p/comparison-traits-understanding-equality)
 * [2025-11-02, 06:21:37](https://news.ycombinator.com/item?id=45788194) - [PyTorch Helion](https://pytorch.org/blog/helion/)
 * [2025-11-01, 23:34:51](https://news.ycombinator.com/item?id=45786490) - [Text case changes the size of QR codes](https://www.johndcook.com/blog/2025/10/31/smaller-qr-codes/)
+* [2025-11-01, 14:40:09](https://news.ycombinator.com/item?id=45781965) - [The Silent Scientist: When Software Research Fails to Reach Its Audience](https://cacm.acm.org/opinion/the-silent-scientist-when-software-research-fails-to-reach-its-audience/)
 * [2025-11-01, 01:56:57](https://news.ycombinator.com/item?id=45778653) - [1973 implementation of Wordle was published by DEC (2022)](https://troypress.com/1973-implementation-of-wordle-was-published-by-dec/)
 
 ## [Archives](archives/index.md)
