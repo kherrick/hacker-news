@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-10-31](index.md)
 
 * [2025-10-31, 23:23:59](https://news.ycombinator.com/item?id=45777810) - [Show HN: Strange Attractors](https://blog.shashanktomar.com/posts/strange-attractors)
+* [2025-10-31, 23:06:25](https://news.ycombinator.com/item?id=45777701) - [The Geometry of Schemes [pdf]](https://webhomes.maths.ed.ac.uk/~v1ranick/papers/eisenbudharris.pdf)
 * [2025-10-31, 23:03:56](https://news.ycombinator.com/item?id=45777683) - [Photographing the rare brown hyena stalking a diamond mining ghost town](https://www.bbc.com/future/article/20251014-the-rare-hyena-stalking-a-diamond-mining-ghost-town)
 * [2025-10-31, 23:03:18](https://news.ycombinator.com/item?id=45777682) - [S.a.r.c.a.s.m: Slightly Annoying Rubik's Cube Automatic Solving Machine](https://github.com/vindar/SARCASM)
 * [2025-10-31, 21:52:02](https://news.ycombinator.com/item?id=45777109) - [The Transformations of Fernand Braudel](https://www.historytoday.com/archive/behind-times/transformations-fernand-braudel)
