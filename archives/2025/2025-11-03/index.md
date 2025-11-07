@@ -73,3 +73,4 @@
 * [2025-11-03, 02:48:45](https://news.ycombinator.com/item?id=45795413) - [The Great Decoupling of Labor and Capital](https://www.mbi-deepdives.com/the-great-decoupling-of-labor-and-capital/)
 * [2025-11-03, 01:59:07](https://news.ycombinator.com/item?id=45795186) - [Syllabi – Open-source agentic AI with tools, RAG, and multi-channel deploy](https://www.syllabi-ai.com/)
 * [2025-11-03, 01:27:48](https://news.ycombinator.com/item?id=45795036) - [Simple trick to increase coverage: Lying to users about signal strength](https://nickvsnetworking.com/simple-trick-to-increase-coverage-lying-to-users-about-signal-strength/)
+* [2025-11-03, 00:50:41](https://news.ycombinator.com/item?id=45794824) - [We built a cloud GPU notebook that boots in seconds](https://modal.com/blog/notebooks-internals)
