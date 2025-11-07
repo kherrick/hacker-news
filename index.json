@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-11-07, 14:31:07",
+      "https://news.ycombinator.com/item?id=45846769"
+    ],
+    [
+      "Claude Is Down",
+      "https://status.claude.com/incidents/tgtw1sqs9ths"
+    ]
+  ],
+  [
+    [
+      "2025-11-07, 13:52:39",
+      "https://news.ycombinator.com/item?id=45846360"
+    ],
+    [
+      "I'm Making a Small RPG and I Need Feeback Regarding Performance",
+      "https://jslegenddev.substack.com/p/im-making-a-small-rpg-and-i-need"
+    ]
+  ],
+  [
+    [
       "2025-11-07, 13:25:27",
       "https://news.ycombinator.com/item?id=45846090"
     ],
@@ -51,32 +71,12 @@
   ],
   [
     [
-      "2025-11-07, 12:02:01",
-      "https://news.ycombinator.com/item?id=45845575"
-    ],
-    [
-      "Show HN: OSS implementation of Test Time Diffusion that runs on a 24gb GPU",
-      "https://github.com/eamag/MMU-RAG-competition"
-    ]
-  ],
-  [
-    [
       "2025-11-07, 12:00:40",
       "https://news.ycombinator.com/item?id=45845568"
     ],
     [
       "Sweep (YC S23) is hiring to build autocomplete for JetBrains",
       "https://www.ycombinator.com/companies/sweep/jobs/8dUn406-founding-engineer-intern"
-    ]
-  ],
-  [
-    [
-      "2025-11-07, 10:32:50",
-      "https://news.ycombinator.com/item?id=45845147"
-    ],
-    [
-      "Majority of teens hold negative views of news media, says report",
-      "https://www.niemanlab.org/2025/11/biased-boring-chaotic-and-bad-a-majority-of-teens-hold-negative-views-of-news-media-report-finds/"
     ]
   ],
   [
@@ -171,16 +171,6 @@
   ],
   [
     [
-      "2025-11-06, 17:37:49",
-      "https://news.ycombinator.com/item?id=45837871"
-    ],
-    [
-      "Swift on FreeBSD Preview",
-      "https://forums.swift.org/t/swift-on-freebsd-preview/83064"
-    ]
-  ],
-  [
-    [
       "2025-11-06, 15:06:06",
       "https://news.ycombinator.com/item?id=45836070"
     ],
@@ -201,12 +191,12 @@
   ],
   [
     [
-      "2025-11-05, 15:52:27",
-      "https://news.ycombinator.com/item?id=45824243"
+      "2025-11-04, 11:42:10",
+      "https://news.ycombinator.com/item?id=45809835"
     ],
     [
-      "Open Source Implementation of Apple's Private Compute Cloud",
-      "https://github.com/openpcc/openpcc"
+      "OpenTelemetry: Escape Hatch from the Observability Cartel",
+      "https://oneuptime.com/blog/post/2025-11-03-opentelemetry-escape-from-observability-cartel/view"
     ]
   ],
   [
@@ -237,6 +227,16 @@
     [
       "We built a cloud GPU notebook that boots in seconds",
       "https://modal.com/blog/notebooks-internals"
+    ]
+  ],
+  [
+    [
+      "2025-11-02, 10:17:22",
+      "https://news.ycombinator.com/item?id=45789218"
+    ],
+    [
+      "Revisiting Interface Segregation in Go",
+      "https://rednafi.com/go/interface-segregation/"
     ]
   ],
   [
@@ -295,7 +295,7 @@
       "https://news.ycombinator.com/item?id=45778653"
     ],
     [
-      "1973 Implementation of Wordle Was Published by Dec (2022)",
+      "1973 Implementation of Wordle was Published by DEC (2022)",
       "https://troypress.com/1973-implementation-of-wordle-was-published-by-dec/"
     ]
   ]
