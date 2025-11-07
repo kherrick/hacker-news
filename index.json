@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-11-07, 15:34:33",
+      "https://news.ycombinator.com/item?id=45847465"
+    ],
+    [
+      "A.I. and Social Media Contribute to 'Brain Rot'",
+      "https://www.nytimes.com/2025/11/06/technology/personaltech/ai-social-media-brain-rot.html"
+    ]
+  ],
+  [
+    [
       "2025-11-07, 14:31:07",
       "https://news.ycombinator.com/item?id=45846769"
     ],
@@ -191,12 +201,12 @@
   ],
   [
     [
-      "2025-11-04, 11:42:10",
-      "https://news.ycombinator.com/item?id=45809835"
+      "2025-11-04, 11:10:04",
+      "https://news.ycombinator.com/item?id=45809649"
     ],
     [
-      "OpenTelemetry: Escape Hatch from the Observability Cartel",
-      "https://oneuptime.com/blog/post/2025-11-03-opentelemetry-escape-from-observability-cartel/view"
+      "My Experience of building Bytebeat player in Zig",
+      "https://blog.karanjanthe.me/posts/zig-beat/"
     ]
   ],
   [
@@ -207,16 +217,6 @@
     [
       "From web developer to database developer in 10 years",
       "https://notes.eatonphil.com/2025-02-15-from-web-developer-to-database-developer-in-10-years.html"
-    ]
-  ],
-  [
-    [
-      "2025-11-03, 14:12:06",
-      "https://news.ycombinator.com/item?id=45799109"
-    ],
-    [
-      "Cryptography 101 with Alfred Menezes",
-      "https://cryptography101.ca"
     ]
   ],
   [
