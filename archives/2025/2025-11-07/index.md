@@ -15,6 +15,7 @@
 * [2025-11-07, 12:02:01](https://news.ycombinator.com/item?id=45845575) - [Show HN: OSS implementation of Test Time Diffusion that runs on a 24gb GPU](https://github.com/eamag/MMU-RAG-competition)
 * [2025-11-07, 12:00:40](https://news.ycombinator.com/item?id=45845568) - [Sweep (YC S23) is hiring to build autocomplete for JetBrains](https://www.ycombinator.com/companies/sweep/jobs/8dUn406-founding-engineer-intern)
 * [2025-11-07, 10:41:22](https://news.ycombinator.com/item?id=45845179) - [Video games can alter reality](https://particle.scitech.org.au/tech/video-games-can-alter-reality/)
+* [2025-11-07, 10:32:50](https://news.ycombinator.com/item?id=45845147) - [Majority of teens hold negative views of news media, says report](https://www.niemanlab.org/2025/11/biased-boring-chaotic-and-bad-a-majority-of-teens-hold-negative-views-of-news-media-report-finds/)
 * [2025-11-07, 08:50:14](https://news.ycombinator.com/item?id=45844655) - [A startup’s quest to store electricity in the ocean](https://techcrunch.com/2025/10/22/one-startups-quest-to-store-electricity-in-the-ocean/)
 * [2025-11-07, 07:09:30](https://news.ycombinator.com/item?id=45844197) - [Lessons from Growing a Piracy Streaming Site](https://prison.josh.mn/lessons)
 * [2025-11-07, 07:00:02](https://news.ycombinator.com/item?id=45844151) - [Photoroom (YC S20) Is Hiring a Senior AI Front End Engineer in Paris](https://jobs.ashbyhq.com/photoroom/7644fc7d-7840-406d-a1b1-b9d2d7ffa9b8)
