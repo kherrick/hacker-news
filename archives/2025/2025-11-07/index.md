@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-11-07](index.md)
 
+* [2025-11-07, 20:05:32](https://news.ycombinator.com/item?id=45850430) - [Apple is crossing a Steve Jobs red line](https://kensegall.com/2025/11/07/apple-is-crossing-a-steve-jobs-red-line/)
+* [2025-11-07, 20:01:09](https://news.ycombinator.com/item?id=45850382) - [How did I get here?](https://how-did-i-get-here.net/)
 * [2025-11-07, 19:30:18](https://news.ycombinator.com/item?id=45850069) - [James Watson, Co-Discoverer of the Structure of DNA, Is Dead at 97](https://www.nytimes.com/2025/11/07/science/james-watson-dead.html)
 * [2025-11-07, 18:45:35](https://news.ycombinator.com/item?id=45849528) - [Ruby Solved My Problem](https://newsletter.masilotti.com/p/ruby-already-solved-my-problem)
 * [2025-11-07, 18:33:09](https://news.ycombinator.com/item?id=45849396) - [Sam Altman Subpoenaed on Stage](https://twitter.com/KarluskaP/status/1986766915277140052)

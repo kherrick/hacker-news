@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-11-07, 20:05:32](https://news.ycombinator.com/item?id=45850430) - [Apple is crossing a Steve Jobs red line](https://kensegall.com/2025/11/07/apple-is-crossing-a-steve-jobs-red-line/)
+* [2025-11-07, 20:01:09](https://news.ycombinator.com/item?id=45850382) - [How did I get here?](https://how-did-i-get-here.net/)
 * [2025-11-07, 19:30:18](https://news.ycombinator.com/item?id=45850069) - [James Watson, Co-Discoverer of the Structure of DNA, Is Dead at 97](https://www.nytimes.com/2025/11/07/science/james-watson-dead.html)
 * [2025-11-07, 18:45:35](https://news.ycombinator.com/item?id=45849528) - [Ruby Solved My Problem](https://newsletter.masilotti.com/p/ruby-already-solved-my-problem)
 * [2025-11-07, 18:27:36](https://news.ycombinator.com/item?id=45849342) - [Myna: Monospace typeface designed for symbol-heavy programming languages](https://github.com/sayyadirfanali/Myna)
@@ -19,7 +21,6 @@
 * [2025-11-07, 06:14:50](https://news.ycombinator.com/item?id=45843948) - [Leaving Meta and PyTorch](https://soumith.ch/blog/2025-11-06-leaving-meta-and-pytorch.md.html)
 * [2025-11-07, 03:01:32](https://news.ycombinator.com/item?id=45843146) - [A Fond Farewell](https://www.farmersalmanac.com/fond-farewell-from-farmers-almanac)
 * [2025-11-06, 22:24:23](https://news.ycombinator.com/item?id=45841262) - [Game design is simple](https://www.raphkoster.com/2025/11/03/game-design-is-simple-actually/)
-* [2025-11-05, 17:50:45](https://news.ycombinator.com/item?id=45825733) - [Show HN: I scraped 3B Goodreads reviews to train a better recommendation model](https://book.sv)
 * [2025-11-04, 11:10:04](https://news.ycombinator.com/item?id=45809649) - [My Experience of building Bytebeat player in Zig](https://blog.karanjanthe.me/posts/zig-beat/)
 * [2025-11-04, 09:27:57](https://news.ycombinator.com/item?id=45809007) - [Venn Diagram for 7 Sets](https://moebio.com/research/sevensets/)
 * [2025-11-03, 08:13:49](https://news.ycombinator.com/item?id=45796892) - [How to Keep Winning](https://amasad.me/keep-winning)
@@ -28,7 +29,6 @@
 * [2025-11-02, 10:00:07](https://news.ycombinator.com/item?id=45789143) - [Comparison Traits – Understanding Equality and Ordering in Rust](https://itsfoxstudio.substack.com/p/comparison-traits-understanding-equality)
 * [2025-11-02, 06:21:37](https://news.ycombinator.com/item?id=45788194) - [PyTorch Helion](https://pytorch.org/blog/helion/)
 * [2025-11-01, 23:34:51](https://news.ycombinator.com/item?id=45786490) - [Text case changes the size of QR codes](https://www.johndcook.com/blog/2025/10/31/smaller-qr-codes/)
-* [2025-11-01, 14:40:09](https://news.ycombinator.com/item?id=45781965) - [The Silent Scientist: When Software Research Fails to Reach Its Audience](https://cacm.acm.org/opinion/the-silent-scientist-when-software-research-fails-to-reach-its-audience/)
 * [2025-11-01, 01:56:57](https://news.ycombinator.com/item?id=45778653) - [1973 implementation of Wordle was published by DEC (2022)](https://troypress.com/1973-implementation-of-wordle-was-published-by-dec/)
 
 ## [Archives](archives/index.md)
