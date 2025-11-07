@@ -4,9 +4,13 @@
 
 ### [Archives](../../index.md) for [2025-11-07](index.md)
 
+* [2025-11-07, 13:25:27](https://news.ycombinator.com/item?id=45846090) - [OpenMW 0.50.0 Released – open-source Morrowind reimplementation](https://openmw.org/2025/openmw-0-50-0-released/)
+* [2025-11-07, 13:10:49](https://news.ycombinator.com/item?id=45845958) - [We chose OCaml to write Stategraph](https://stategraph.dev/blog/why-we-chose-ocaml)
+* [2025-11-07, 13:09:07](https://news.ycombinator.com/item?id=45845948) - [Is Software the UFOlogy of Engineering Disciplines?](https://codemanship.wordpress.com/2025/11/07/is-software-the-ufology-of-engineering-disciplines/)
 * [2025-11-07, 12:43:49](https://news.ycombinator.com/item?id=45845800) - [From Memorization to Reasoning in the Spectrum of Loss Curvature](https://arxiv.org/abs/2510.24256)
 * [2025-11-07, 12:39:54](https://news.ycombinator.com/item?id=45845772) - [Meta projected 10% of 2024 revenue came from scams](https://sherwood.news/tech/meta-projected-10-of-2024-revenue-came-from-scams-and-banned-goods-reuters/)
 * [2025-11-07, 12:27:49](https://news.ycombinator.com/item?id=45845709) - ['You're just ready:' Parents say ChatGPT encouraged son to kill himself](https://www.cnn.com/2025/11/06/us/openai-chatgpt-uicide-lawsuit-invs-vis)
+* [2025-11-07, 12:02:01](https://news.ycombinator.com/item?id=45845575) - [Show HN: OSS implementation of Test Time Diffusion that runs on a 24gb GPU](https://github.com/eamag/MMU-RAG-competition)
 * [2025-11-07, 12:00:40](https://news.ycombinator.com/item?id=45845568) - [Sweep (YC S23) is hiring to build autocomplete for JetBrains](https://www.ycombinator.com/companies/sweep/jobs/8dUn406-founding-engineer-intern)
 * [2025-11-07, 10:41:22](https://news.ycombinator.com/item?id=45845179) - [Video games can alter reality](https://particle.scitech.org.au/tech/video-games-can-alter-reality/)
 * [2025-11-07, 08:50:14](https://news.ycombinator.com/item?id=45844655) - [A startup’s quest to store electricity in the ocean](https://techcrunch.com/2025/10/22/one-startups-quest-to-store-electricity-in-the-ocean/)
