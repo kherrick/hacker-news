@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-11-07, 17:12:19](https://news.ycombinator.com/item?id=45848552) - [Notes on Being a Man](https://www.profgalloway.com/notes-on-being-a-man/)
 * [2025-11-07, 16:59:49](https://news.ycombinator.com/item?id=45848428) - [Nasdaq 100 set for worst week since April meltdown](https://fortune.com/2025/11/07/nasdaq-100-worst-week-since-april-bear-market-correction/)
 * [2025-11-07, 16:52:05](https://news.ycombinator.com/item?id=45848341) - [Toxic Salton Sea dust triggers changes in lung microbiome after just one week](https://phys.org/news/2025-10-toxic-salton-sea-triggers-lung.html)
 * [2025-11-07, 16:49:14](https://news.ycombinator.com/item?id=45848302) - [3I/ATLAS shows perihelion burst and radial-only non-gravitational acceleration](https://old.reddit.com/r/dataisbeautiful/comments/1oqfau8/3iatlas_shows_perihelion_burst_and_radialonly/)
@@ -19,7 +20,6 @@
 * [2025-11-06, 20:45:39](https://news.ycombinator.com/item?id=45840200) - [Analysis indicates that the universe’s expansion is not accelerating](https://ras.ac.uk/news-and-press/research-highlights/universes-expansion-now-slowing-not-speeding)
 * [2025-11-06, 20:37:06](https://news.ycombinator.com/item?id=45840088) - [You should write an agent](https://fly.io/blog/everyone-write-an-agent/)
 * [2025-11-06, 20:20:23](https://news.ycombinator.com/item?id=45839901) - [Two billion email addresses were exposed](https://www.troyhunt.com/2-billion-email-addresses-were-exposed-and-we-indexed-them-all-in-have-i-been-pwned/)
-* [2025-11-06, 15:06:06](https://news.ycombinator.com/item?id=45836070) - [Kimi K2 Thinking, a SOTA open-source trillion-parameter reasoning model](https://moonshotai.github.io/Kimi-K2/thinking.html)
 * [2025-11-05, 17:50:45](https://news.ycombinator.com/item?id=45825733) - [Show HN: I scraped 3B Goodreads reviews to train a better recommendation model](https://book.sv)
 * [2025-11-04, 11:10:04](https://news.ycombinator.com/item?id=45809649) - [My Experience of building Bytebeat player in Zig](https://blog.karanjanthe.me/posts/zig-beat/)
 * [2025-11-04, 09:02:49](https://news.ycombinator.com/item?id=45808863) - [From web developer to database developer in 10 years](https://notes.eatonphil.com/2025-02-15-from-web-developer-to-database-developer-in-10-years.html)
@@ -29,7 +29,7 @@
 * [2025-11-02, 06:21:37](https://news.ycombinator.com/item?id=45788194) - [PyTorch Helion](https://pytorch.org/blog/helion/)
 * [2025-11-01, 23:34:51](https://news.ycombinator.com/item?id=45786490) - [Text case changes the size of QR codes](https://www.johndcook.com/blog/2025/10/31/smaller-qr-codes/)
 * [2025-11-01, 14:40:09](https://news.ycombinator.com/item?id=45781965) - [The Silent Scientist: When Software Research Fails to Reach Its Audience](https://cacm.acm.org/opinion/the-silent-scientist-when-software-research-fails-to-reach-its-audience/)
-* [2025-11-01, 01:56:57](https://news.ycombinator.com/item?id=45778653) - [1973 Implementation of Wordle was Published by DEC (2022)](https://troypress.com/1973-implementation-of-wordle-was-published-by-dec/)
+* [2025-11-01, 01:56:57](https://news.ycombinator.com/item?id=45778653) - [1973 implementation of Wordle was published by DEC (2022)](https://troypress.com/1973-implementation-of-wordle-was-published-by-dec/)
 
 ## [Archives](archives/index.md)
 
