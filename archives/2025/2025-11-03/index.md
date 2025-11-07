@@ -65,6 +65,7 @@
 * [2025-11-03, 09:20:01](https://news.ycombinator.com/item?id=45797242) - [Tiny electric motor outperforms record holder by 40%](https://supercarblondie.com/electric-motor-yasa-more-powerful-tesla-mercedes/)
 * [2025-11-03, 09:17:06](https://news.ycombinator.com/item?id=45797228) - [Absurd Workflows: Durable Execution with Just Postgres](https://lucumr.pocoo.org/2025/11/3/absurd-workflows/)
 * [2025-11-03, 08:15:50](https://news.ycombinator.com/item?id=45796907) - [China intimidated UK university to ditch human rights research, documents show](https://www.bbc.com/news/articles/cq50j5vwny6o)
+* [2025-11-03, 08:13:49](https://news.ycombinator.com/item?id=45796892) - [How to Keep Winning](https://amasad.me/keep-winning)
 * [2025-11-03, 07:57:48](https://news.ycombinator.com/item?id=45796820) - [The APM paradox: Too much data, too few answers](https://www.honeybadger.io/blog/apm-paradox/)
 * [2025-11-03, 06:54:30](https://news.ycombinator.com/item?id=45796487) - [Stop AI: 14 Steps to turn off AI](https://againstdata.com/blog/stop-ai)
 * [2025-11-03, 06:39:13](https://news.ycombinator.com/item?id=45796421) - [First recording of a dying human brain shows waves similar to memory flashbacks](https://louisville.edu/medicine/news/first-ever-recording-of-a-dying-human-brain-shows-waves-similar-to-memory-flashbacks)

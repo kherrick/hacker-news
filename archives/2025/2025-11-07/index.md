@@ -4,8 +4,11 @@
 
 ### [Archives](../../index.md) for [2025-11-07](index.md)
 
+* [2025-11-07, 17:12:19](https://news.ycombinator.com/item?id=45848552) - [Notes on Being a Man](https://www.profgalloway.com/notes-on-being-a-man/)
+* [2025-11-07, 16:59:49](https://news.ycombinator.com/item?id=45848428) - [Nasdaq 100 set for worst week since April meltdown](https://fortune.com/2025/11/07/nasdaq-100-worst-week-since-april-bear-market-correction/)
 * [2025-11-07, 16:52:05](https://news.ycombinator.com/item?id=45848341) - [Toxic Salton Sea dust triggers changes in lung microbiome after just one week](https://phys.org/news/2025-10-toxic-salton-sea-triggers-lung.html)
 * [2025-11-07, 16:49:14](https://news.ycombinator.com/item?id=45848302) - [3I/ATLAS shows perihelion burst and radial-only non-gravitational acceleration](https://old.reddit.com/r/dataisbeautiful/comments/1oqfau8/3iatlas_shows_perihelion_burst_and_radialonly/)
+* [2025-11-07, 16:28:31](https://news.ycombinator.com/item?id=45848083) - [Denmark's government aims to ban access to social media for children under 15](https://apnews.com/article/denmark-social-media-ban-children-7862d2a8cc590b4969c8931a01adc7f4)
 * [2025-11-07, 15:34:33](https://news.ycombinator.com/item?id=45847465) - [A.I. and Social Media Contribute to 'Brain Rot'](https://www.nytimes.com/2025/11/06/technology/personaltech/ai-social-media-brain-rot.html)
 * [2025-11-07, 14:31:07](https://news.ycombinator.com/item?id=45846769) - [Claude Is Down](https://status.claude.com/incidents/tgtw1sqs9ths)
 * [2025-11-07, 14:05:49](https://news.ycombinator.com/item?id=45846517) - [I Love OCaml](https://mccd.space/posts/ocaml-the-worlds-best/)
