@@ -1,22 +1,22 @@
 [
   [
     [
+      "2025-11-07, 02:57:02",
+      "https://news.ycombinator.com/item?id=45843120"
+    ],
+    [
+      "A prvalue is not a temporary",
+      "https://blog.knatten.org/2025/10/31/a-prvalue-is-not-a-temporary/"
+    ]
+  ],
+  [
+    [
       "2025-11-07, 00:59:58",
       "https://news.ycombinator.com/item?id=45842494"
     ],
     [
       "A Note on Fil-C",
       "https://graydon2.dreamwidth.org/320265.html"
-    ]
-  ],
-  [
-    [
-      "2025-11-07, 00:42:50",
-      "https://news.ycombinator.com/item?id=45842380"
-    ],
-    [
-      "IRS Ends Direct File",
-      "https://www.wsj.com/politics/policy/irs-direct-file-tax-program-ended-00172148"
     ]
   ],
   [
@@ -51,16 +51,6 @@
   ],
   [
     [
-      "2025-11-06, 22:05:58",
-      "https://news.ycombinator.com/item?id=45841056"
-    ],
-    [
-      "The Learning Loop and LLMs",
-      "https://martinfowler.com/articles/llm-learning-loop.html"
-    ]
-  ],
-  [
-    [
       "2025-11-06, 21:23:46",
       "https://news.ycombinator.com/item?id=45840612"
     ],
@@ -75,7 +65,7 @@
       "https://news.ycombinator.com/item?id=45840200"
     ],
     [
-      "Universe's expansion 'is now slowing, not speeding up'",
+      "Analysis indicates that the universe’s expansion is not accelerating",
       "https://ras.ac.uk/news-and-press/research-highlights/universes-expansion-now-slowing-not-speeding"
     ]
   ],
@@ -261,12 +251,12 @@
   ],
   [
     [
-      "2025-11-03, 07:57:48",
-      "https://news.ycombinator.com/item?id=45796820"
+      "2025-11-04, 09:02:49",
+      "https://news.ycombinator.com/item?id=45808863"
     ],
     [
-      "The APM paradox: Too much data, too few answers",
-      "https://www.honeybadger.io/blog/apm-paradox/"
+      "From web developer to database developer in 10 years",
+      "https://notes.eatonphil.com/2025-02-15-from-web-developer-to-database-developer-in-10-years.html"
     ]
   ],
   [
@@ -285,8 +275,18 @@
       "https://news.ycombinator.com/item?id=45788441"
     ],
     [
-      "Gt: [experimental] multiplexing tensor framework",
+      "GT – Experimental multiplexing tensor framework for distributed GPU computing",
       "https://github.com/bwasti/gt"
+    ]
+  ],
+  [
+    [
+      "2025-11-01, 22:34:43",
+      "https://news.ycombinator.com/item?id=45786041"
+    ],
+    [
+      "How often does Python allocate?",
+      "https://zackoverflow.dev/writing/how-often-does-python-allocate/"
     ]
   ],
   [
