@@ -1,9 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-11-07, 12:43:49](https://news.ycombinator.com/item?id=45845800) - [From Memorization to Reasoning in the Spectrum of Loss Curvature](https://arxiv.org/abs/2510.24256)
+* [2025-11-07, 12:39:54](https://news.ycombinator.com/item?id=45845772) - [Meta projected 10% of 2024 revenue came from scams](https://sherwood.news/tech/meta-projected-10-of-2024-revenue-came-from-scams-and-banned-goods-reuters/)
 * [2025-11-07, 12:27:49](https://news.ycombinator.com/item?id=45845709) - ['You're just ready:' Parents say ChatGPT encouraged son to kill himself](https://www.cnn.com/2025/11/06/us/openai-chatgpt-uicide-lawsuit-invs-vis)
 * [2025-11-07, 12:00:40](https://news.ycombinator.com/item?id=45845568) - [Sweep (YC S23) is hiring to build autocomplete for JetBrains](https://www.ycombinator.com/companies/sweep/jobs/8dUn406-founding-engineer-intern)
 * [2025-11-07, 10:41:22](https://news.ycombinator.com/item?id=45845179) - [Video games can alter reality](https://particle.scitech.org.au/tech/video-games-can-alter-reality/)
-* [2025-11-07, 08:50:14](https://news.ycombinator.com/item?id=45844655) - [A startup’s quest to store electricity in the ocean](https://techcrunch.com/2025/10/22/one-startups-quest-to-store-electricity-in-the-ocean/)
 * [2025-11-07, 07:09:30](https://news.ycombinator.com/item?id=45844197) - [Lessons from Growing a Piracy Streaming Site](https://prison.josh.mn/lessons)
 * [2025-11-07, 06:14:50](https://news.ycombinator.com/item?id=45843948) - [Leaving Meta and PyTorch](https://soumith.ch/blog/2025-11-06-leaving-meta-and-pytorch.md.html)
 * [2025-11-07, 04:38:40](https://news.ycombinator.com/item?id=45843603) - [JermCAD: Browser-Based CAD Software](https://github.com/jeremyaboyd/jerm-cad)
@@ -29,7 +30,6 @@
 * [2025-11-02, 06:13:07](https://news.ycombinator.com/item?id=45788167) - [Machine Scheduler in LLVM – Part II](https://myhsu.xyz/llvm-machine-scheduler-2/)
 * [2025-11-01, 23:34:51](https://news.ycombinator.com/item?id=45786490) - [Text case changes the size of QR codes](https://www.johndcook.com/blog/2025/10/31/smaller-qr-codes/)
 * [2025-11-01, 14:40:09](https://news.ycombinator.com/item?id=45781965) - [The Silent Scientist: When Software Research Fails to Reach Its Audience](https://cacm.acm.org/opinion/the-silent-scientist-when-software-research-fails-to-reach-its-audience/)
-* [2025-10-31, 19:49:31](https://news.ycombinator.com/item?id=45775988) - [Word2Vec-style vector arithmetic on docs embeddings](https://technicalwriting.dev/embeddings/arithmetic/index.html)
 
 ## [Archives](archives/index.md)
 
