@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-11-07, 19:30:18](https://news.ycombinator.com/item?id=45850069) - [James Watson, Co-Discoverer of the Structure of DNA, Is Dead at 97](https://www.nytimes.com/2025/11/07/science/james-watson-dead.html)
 * [2025-11-07, 18:45:35](https://news.ycombinator.com/item?id=45849528) - [Ruby Solved My Problem](https://newsletter.masilotti.com/p/ruby-already-solved-my-problem)
 * [2025-11-07, 18:27:36](https://news.ycombinator.com/item?id=45849342) - [Myna: Monospace typeface designed for symbol-heavy programming languages](https://github.com/sayyadirfanali/Myna)
 * [2025-11-07, 18:22:09](https://news.ycombinator.com/item?id=45849281) - [Rockstar employee shares account of the company's union-busting efforts](https://gtaforums.com/topic/1004182-rockstar-games-alleged-union-busting/)
@@ -18,7 +19,6 @@
 * [2025-11-07, 06:14:50](https://news.ycombinator.com/item?id=45843948) - [Leaving Meta and PyTorch](https://soumith.ch/blog/2025-11-06-leaving-meta-and-pytorch.md.html)
 * [2025-11-07, 03:01:32](https://news.ycombinator.com/item?id=45843146) - [A Fond Farewell](https://www.farmersalmanac.com/fond-farewell-from-farmers-almanac)
 * [2025-11-06, 22:24:23](https://news.ycombinator.com/item?id=45841262) - [Game design is simple](https://www.raphkoster.com/2025/11/03/game-design-is-simple-actually/)
-* [2025-11-06, 20:37:06](https://news.ycombinator.com/item?id=45840088) - [You should write an agent](https://fly.io/blog/everyone-write-an-agent/)
 * [2025-11-05, 17:50:45](https://news.ycombinator.com/item?id=45825733) - [Show HN: I scraped 3B Goodreads reviews to train a better recommendation model](https://book.sv)
 * [2025-11-04, 11:10:04](https://news.ycombinator.com/item?id=45809649) - [My Experience of building Bytebeat player in Zig](https://blog.karanjanthe.me/posts/zig-beat/)
 * [2025-11-04, 09:27:57](https://news.ycombinator.com/item?id=45809007) - [Venn Diagram for 7 Sets](https://moebio.com/research/sevensets/)
