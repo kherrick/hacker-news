@@ -71,16 +71,6 @@
   ],
   [
     [
-      "2025-11-07, 02:03:57",
-      "https://news.ycombinator.com/item?id=45842815"
-    ],
-    [
-      "My tutorial and take on C++20 coroutines (2021)",
-      "https://www.scs.stanford.edu/~dm/blog/c++-coroutines.html"
-    ]
-  ],
-  [
-    [
       "2025-11-07, 01:57:02",
       "https://news.ycombinator.com/item?id=45842777"
     ],
@@ -267,6 +257,16 @@
     [
       "We built a cloud GPU notebook that boots in seconds",
       "https://modal.com/blog/notebooks-internals"
+    ]
+  ],
+  [
+    [
+      "2025-11-02, 06:13:07",
+      "https://news.ycombinator.com/item?id=45788167"
+    ],
+    [
+      "Machine Scheduler in LLVM – Part II",
+      "https://myhsu.xyz/llvm-machine-scheduler-2/"
     ]
   ],
   [
