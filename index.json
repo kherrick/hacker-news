@@ -1,6 +1,36 @@
 [
   [
     [
+      "2025-11-07, 13:25:27",
+      "https://news.ycombinator.com/item?id=45846090"
+    ],
+    [
+      "OpenMW 0.50.0 Released – open-source Morrowind reimplementation",
+      "https://openmw.org/2025/openmw-0-50-0-released/"
+    ]
+  ],
+  [
+    [
+      "2025-11-07, 13:10:49",
+      "https://news.ycombinator.com/item?id=45845958"
+    ],
+    [
+      "We chose OCaml to write Stategraph",
+      "https://stategraph.dev/blog/why-we-chose-ocaml"
+    ]
+  ],
+  [
+    [
+      "2025-11-07, 13:09:07",
+      "https://news.ycombinator.com/item?id=45845948"
+    ],
+    [
+      "Is Software the UFOlogy of Engineering Disciplines?",
+      "https://codemanship.wordpress.com/2025/11/07/is-software-the-ufology-of-engineering-disciplines/"
+    ]
+  ],
+  [
+    [
       "2025-11-07, 12:43:49",
       "https://news.ycombinator.com/item?id=45845800"
     ],
@@ -27,6 +57,16 @@
     [
       "'You're just ready:' Parents say ChatGPT encouraged son to kill himself",
       "https://www.cnn.com/2025/11/06/us/openai-chatgpt-uicide-lawsuit-invs-vis"
+    ]
+  ],
+  [
+    [
+      "2025-11-07, 12:02:01",
+      "https://news.ycombinator.com/item?id=45845575"
+    ],
+    [
+      "Show HN: OSS implementation of Test Time Diffusion that runs on a 24gb GPU",
+      "https://github.com/eamag/MMU-RAG-competition"
     ]
   ],
   [
@@ -81,42 +121,12 @@
   ],
   [
     [
-      "2025-11-07, 03:17:19",
-      "https://news.ycombinator.com/item?id=45843220"
-    ],
-    [
-      "Dead Framework Theory",
-      "https://aifoc.us/dead-framework-theory/"
-    ]
-  ],
-  [
-    [
       "2025-11-07, 03:01:32",
       "https://news.ycombinator.com/item?id=45843146"
     ],
     [
       "A Fond Farewell",
       "https://www.farmersalmanac.com/fond-farewell-from-farmers-almanac"
-    ]
-  ],
-  [
-    [
-      "2025-11-07, 01:57:02",
-      "https://news.ycombinator.com/item?id=45842777"
-    ],
-    [
-      "HTML Slides with notes",
-      "https://nbd.neocities.org/slidepresentation/Slide%20presentation%20about%20slides"
-    ]
-  ],
-  [
-    [
-      "2025-11-07, 01:26:06",
-      "https://news.ycombinator.com/item?id=45842629"
-    ],
-    [
-      "Time Immemorial turns 750: The Medieval law that froze history at 1189",
-      "https://www.ianvisits.co.uk/articles/time-immemorial-turns-750-the-medieval-law-that-froze-history-at-1189-84893/"
     ]
   ],
   [
@@ -171,32 +181,12 @@
   ],
   [
     [
-      "2025-11-06, 17:37:49",
-      "https://news.ycombinator.com/item?id=45837871"
-    ],
-    [
-      "Swift on FreeBSD Preview",
-      "https://forums.swift.org/t/swift-on-freebsd-preview/83064"
-    ]
-  ],
-  [
-    [
       "2025-11-06, 15:06:06",
       "https://news.ycombinator.com/item?id=45836070"
     ],
     [
       "Kimi K2 Thinking, a SOTA open-source trillion-parameter reasoning model",
       "https://moonshotai.github.io/Kimi-K2/thinking.html"
-    ]
-  ],
-  [
-    [
-      "2025-11-06, 11:57:01",
-      "https://news.ycombinator.com/item?id=45834254"
-    ],
-    [
-      "Eating stinging nettles",
-      "https://rachel.blog/2018/04/29/eating-stinging-nettles/"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "The Silent Scientist: When Software Research Fails to Reach Its Audience",
       "https://cacm.acm.org/opinion/the-silent-scientist-when-software-research-fails-to-reach-its-audience/"
+    ]
+  ],
+  [
+    [
+      "2025-11-01, 01:56:57",
+      "https://news.ycombinator.com/item?id=45778653"
+    ],
+    [
+      "1973 Implementation of Wordle Was Published by Dec (2022)",
+      "https://troypress.com/1973-implementation-of-wordle-was-published-by-dec/"
     ]
   ]
 ]
