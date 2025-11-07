@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-11-07, 21:45:03](https://news.ycombinator.com/item?id=45851495) - [Becoming a Compiler Engineer](https://rona.substack.com/p/becoming-a-compiler-engineer)
 * [2025-11-07, 21:44:04](https://news.ycombinator.com/item?id=45851483) - [AI is Dunning-Kruger as a service](https://christianheilmann.com/2025/10/30/ai-is-dunning-kruger-as-a-service/)
 * [2025-11-07, 20:50:40](https://news.ycombinator.com/item?id=45850963) - [YouTube Removes Windows 11 Bypass Tutorials, Claims 'Risk of Physical Harm'](https://news.itsfoss.com/youtube-removes-windows-11-bypass-tutorials/)
 * [2025-11-07, 20:31:36](https://news.ycombinator.com/item?id=45850751) - [VLC's Jean-Baptiste Kempf Receives the European SFS Award 2025](https://fsfe.org/news/2025/news-20251107-01.en.html)
@@ -16,7 +17,6 @@
 * [2025-11-07, 16:28:31](https://news.ycombinator.com/item?id=45848083) - [Denmark's government aims to ban access to social media for children under 15](https://apnews.com/article/denmark-social-media-ban-children-7862d2a8cc590b4969c8931a01adc7f4)
 * [2025-11-07, 14:05:49](https://news.ycombinator.com/item?id=45846517) - [I Love OCaml](https://mccd.space/posts/ocaml-the-worlds-best/)
 * [2025-11-07, 13:52:39](https://news.ycombinator.com/item?id=45846360) - [I'm making a small RPG and I need feeback regarding performance](https://jslegenddev.substack.com/p/im-making-a-small-rpg-and-i-need)
-* [2025-11-07, 13:25:27](https://news.ycombinator.com/item?id=45846090) - [OpenMW 0.50.0 Released – open-source Morrowind reimplementation](https://openmw.org/2025/openmw-0-50-0-released/)
 * [2025-11-07, 13:10:49](https://news.ycombinator.com/item?id=45845958) - [We chose OCaml to write Stategraph](https://stategraph.dev/blog/why-we-chose-ocaml)
 * [2025-11-07, 12:39:54](https://news.ycombinator.com/item?id=45845772) - [Meta projected 10% of 2024 revenue came from scams](https://sherwood.news/tech/meta-projected-10-of-2024-revenue-came-from-scams-and-banned-goods-reuters/)
 * [2025-11-07, 12:00:40](https://news.ycombinator.com/item?id=45845568) - [Sweep (YC S23) is hiring to build autocomplete for JetBrains](https://www.ycombinator.com/companies/sweep/jobs/8dUn406-founding-engineer-intern)
