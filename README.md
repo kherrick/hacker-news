@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-11-07, 07:00:02](https://news.ycombinator.com/item?id=45844151) - [Photoroom (YC S20) Is Hiring a Senior AI Front End Engineer in Paris](https://jobs.ashbyhq.com/photoroom/7644fc7d-7840-406d-a1b1-b9d2d7ffa9b8)
+* [2025-11-07, 06:51:36](https://news.ycombinator.com/item?id=45844117) - [JavaScript Just Leveled Up: ES2025 – You'll Fall in Love With](https://jsdevspace.substack.com/p/javascript-just-leveled-up-es2025)
+* [2025-11-07, 06:21:20](https://news.ycombinator.com/item?id=45843976) - [Windows \"SUCKS\": How I'd Fix it by a retired Microsoft Windows engineer[video]](https://www.youtube.com/watch?v=oTpA5jt1g60)
 * [2025-11-07, 06:14:50](https://news.ycombinator.com/item?id=45843948) - [Leaving Meta and PyTorch](https://soumith.ch/blog/2025-11-06-leaving-meta-and-pytorch.md.html)
 * [2025-11-07, 03:17:19](https://news.ycombinator.com/item?id=45843220) - [Dead Framework Theory](https://aifoc.us/dead-framework-theory/)
 * [2025-11-07, 03:01:32](https://news.ycombinator.com/item?id=45843146) - [A Fond Farewell from Farmers' Almanac](https://www.farmersalmanac.com/fond-farewell-from-farmers-almanac)
@@ -21,15 +23,13 @@
 * [2025-11-06, 13:37:07](https://news.ycombinator.com/item?id=45835083) - [I analyzed the lineups at the most popular nightclubs](https://dev.karltryggvason.com/how-i-analyzed-the-lineups-at-the-worlds-most-popular-nightclubs/)
 * [2025-11-06, 11:57:01](https://news.ycombinator.com/item?id=45834254) - [Eating stinging nettles](https://rachel.blog/2018/04/29/eating-stinging-nettles/)
 * [2025-11-06, 09:24:42](https://news.ycombinator.com/item?id=45833162) - [Mathematical exploration and discovery at scale](https://terrytao.wordpress.com/2025/11/05/mathematical-exploration-and-discovery-at-scale/)
-* [2025-11-06, 04:37:45](https://news.ycombinator.com/item?id=45831541) - [I may have found a way to spot U.S. at-sea strikes before they're announced](https://old.reddit.com/r/OSINT/comments/1opjjyv/i_may_have_found_a_way_to_spot_us_atsea_strikes/)
 * [2025-11-05, 17:50:45](https://news.ycombinator.com/item?id=45825733) - [Show HN: I scraped 3B Goodreads reviews to train a better recommendation model](https://book.sv)
 * [2025-11-05, 15:52:27](https://news.ycombinator.com/item?id=45824243) - [Open Source Implementation of Apple's Private Compute Cloud](https://github.com/openpcc/openpcc)
 * [2025-11-04, 09:02:49](https://news.ycombinator.com/item?id=45808863) - [From web developer to database developer in 10 years](https://notes.eatonphil.com/2025-02-15-from-web-developer-to-database-developer-in-10-years.html)
 * [2025-11-03, 14:12:06](https://news.ycombinator.com/item?id=45799109) - [Cryptography 101 with Alfred Menezes](https://cryptography101.ca)
 * [2025-11-03, 00:50:41](https://news.ycombinator.com/item?id=45794824) - [We built a cloud GPU notebook that boots in seconds](https://modal.com/blog/notebooks-internals)
-* [2025-11-02, 11:03:49](https://news.ycombinator.com/item?id=45789431) - [Show HN: Ambient light sensor control of keyboard and screen brightness in Linux](https://github.com/donjajo/als-led-backlight)
-* [2025-11-02, 07:16:20](https://news.ycombinator.com/item?id=45788441) - [GT – Experimental multiplexing tensor framework for distributed GPU computing](https://github.com/bwasti/gt)
 * [2025-10-31, 23:06:25](https://news.ycombinator.com/item?id=45777701) - [The Geometry of Schemes [pdf]](https://webhomes.maths.ed.ac.uk/~v1ranick/papers/eisenbudharris.pdf)
+* [2025-10-31, 19:49:31](https://news.ycombinator.com/item?id=45775988) - [Word2Vec-style vector arithmetic on docs embeddings](https://technicalwriting.dev/embeddings/arithmetic/index.html)
 
 ## [Archives](archives/index.md)
 
