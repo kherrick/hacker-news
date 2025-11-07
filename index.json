@@ -61,16 +61,6 @@
   ],
   [
     [
-      "2025-11-07, 02:57:02",
-      "https://news.ycombinator.com/item?id=45843120"
-    ],
-    [
-      "A prvalue is not a temporary",
-      "https://blog.knatten.org/2025/10/31/a-prvalue-is-not-a-temporary/"
-    ]
-  ],
-  [
-    [
       "2025-11-07, 02:03:57",
       "https://news.ycombinator.com/item?id=45842815"
     ],
@@ -297,6 +287,16 @@
     [
       "The Geometry of Schemes [pdf]",
       "https://webhomes.maths.ed.ac.uk/~v1ranick/papers/eisenbudharris.pdf"
+    ]
+  ],
+  [
+    [
+      "2025-10-31, 19:49:31",
+      "https://news.ycombinator.com/item?id=45775988"
+    ],
+    [
+      "Word2Vec-style vector arithmetic on docs embeddings",
+      "https://technicalwriting.dev/embeddings/arithmetic/index.html"
     ]
   ]
 ]
