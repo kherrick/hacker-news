@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-11-06](index.md)
 
+* [2025-11-06, 23:39:07](https://news.ycombinator.com/item?id=45841910) - [The secret campaign to silence critics of a hospital real estate empire](https://www.motherjones.com/politics/2025/10/medical-properties-trust-mpt-steward-health-care-ed-aldag-secret-campaign-critics-surveillance-reit/)
 * [2025-11-06, 22:50:45](https://news.ycombinator.com/item?id=45841464) - [Man who threw sandwich at US border agent not guilty of assault](https://www.bbc.com/news/articles/c5ypvv8n1jvo)
 * [2025-11-06, 22:24:23](https://news.ycombinator.com/item?id=45841262) - [Game Design Is Simple](https://www.raphkoster.com/2025/11/03/game-design-is-simple-actually/)
 * [2025-11-06, 22:22:14](https://news.ycombinator.com/item?id=45841231) - [Europeans recognize Zohran Mamdani's policies as 'normal'](https://www.theguardian.com/us-news/2025/nov/06/europe-zohran-mamdani-policies-normal)
