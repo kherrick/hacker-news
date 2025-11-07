@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-11-07, 20:31:36](https://news.ycombinator.com/item?id=45850751) - [VLC's Jean-Baptiste Kempf Receives the European SFS Award 2025](https://fsfe.org/news/2025/news-20251107-01.en.html)
 * [2025-11-07, 20:26:26](https://news.ycombinator.com/item?id=45850671) - [Ribir: Non-intrusive GUI framework for Rust/WASM](https://github.com/RibirX/Ribir)
-* [2025-11-07, 20:05:32](https://news.ycombinator.com/item?id=45850430) - [Apple is crossing a Steve Jobs red line](https://kensegall.com/2025/11/07/apple-is-crossing-a-steve-jobs-red-line/)
 * [2025-11-07, 20:01:09](https://news.ycombinator.com/item?id=45850382) - [How did I get here?](https://how-did-i-get-here.net/)
 * [2025-11-07, 19:40:32](https://news.ycombinator.com/item?id=45850171) - [Should facial analysis help determine whom companies hire?](https://www.economist.com/business/2025/11/06/should-facial-analysis-help-determine-whom-companies-hire)
 * [2025-11-07, 19:36:11](https://news.ycombinator.com/item?id=45850125) - [Show HN: Three Emojis, a daily word puzzle for language learners](https://threeemojis.com/en-US/play/hex/en-US/2025-11-07)
-* [2025-11-07, 19:30:18](https://news.ycombinator.com/item?id=45850069) - [James Watson, Co-Discoverer of the Structure of DNA, Is Dead at 97](https://www.nytimes.com/2025/11/07/science/james-watson-dead.html)
+* [2025-11-07, 19:30:18](https://news.ycombinator.com/item?id=45850069) - [James Watson has died](https://www.nytimes.com/2025/11/07/science/james-watson-dead.html)
 * [2025-11-07, 18:45:35](https://news.ycombinator.com/item?id=45849528) - [Ruby Solved My Problem](https://newsletter.masilotti.com/p/ruby-already-solved-my-problem)
 * [2025-11-07, 18:27:36](https://news.ycombinator.com/item?id=45849342) - [Myna: Monospace typeface designed for symbol-heavy programming languages](https://github.com/sayyadirfanali/Myna)
 * [2025-11-07, 18:22:09](https://news.ycombinator.com/item?id=45849281) - [Rockstar employee shares account of the company's union-busting efforts](https://gtaforums.com/topic/1004182-rockstar-games-alleged-union-busting/)
