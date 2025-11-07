@@ -5,8 +5,7 @@
 * [2025-11-07, 07:00:02](https://news.ycombinator.com/item?id=45844151) - [Photoroom (YC S20) Is Hiring a Senior AI Front End Engineer in Paris](https://jobs.ashbyhq.com/photoroom/7644fc7d-7840-406d-a1b1-b9d2d7ffa9b8)
 * [2025-11-07, 06:14:50](https://news.ycombinator.com/item?id=45843948) - [Leaving Meta and PyTorch](https://soumith.ch/blog/2025-11-06-leaving-meta-and-pytorch.md.html)
 * [2025-11-07, 04:38:40](https://news.ycombinator.com/item?id=45843603) - [JermCAD: Browser-Based CAD Software](https://github.com/jeremyaboyd/jerm-cad)
-* [2025-11-07, 03:17:19](https://news.ycombinator.com/item?id=45843220) - [Dead Framework Theory](https://aifoc.us/dead-framework-theory/)
-* [2025-11-07, 03:01:32](https://news.ycombinator.com/item?id=45843146) - [A Fond Farewell from Farmers' Almanac](https://www.farmersalmanac.com/fond-farewell-from-farmers-almanac)
+* [2025-11-07, 03:01:32](https://news.ycombinator.com/item?id=45843146) - [A Fond Farewell](https://www.farmersalmanac.com/fond-farewell-from-farmers-almanac)
 * [2025-11-07, 02:57:02](https://news.ycombinator.com/item?id=45843120) - [A prvalue is not a temporary](https://blog.knatten.org/2025/10/31/a-prvalue-is-not-a-temporary/)
 * [2025-11-07, 01:57:02](https://news.ycombinator.com/item?id=45842777) - [HTML Slides with notes](https://nbd.neocities.org/slidepresentation/Slide%20presentation%20about%20slides)
 * [2025-11-07, 01:26:06](https://news.ycombinator.com/item?id=45842629) - [Time Immemorial turns 750: The Medieval law that froze history at 1189](https://www.ianvisits.co.uk/articles/time-immemorial-turns-750-the-medieval-law-that-froze-history-at-1189-84893/)
@@ -28,6 +27,7 @@
 * [2025-11-03, 14:12:06](https://news.ycombinator.com/item?id=45799109) - [Cryptography 101 with Alfred Menezes](https://cryptography101.ca)
 * [2025-11-03, 00:50:41](https://news.ycombinator.com/item?id=45794824) - [We built a cloud GPU notebook that boots in seconds](https://modal.com/blog/notebooks-internals)
 * [2025-11-01, 23:34:51](https://news.ycombinator.com/item?id=45786490) - [Text case changes the size of QR codes](https://www.johndcook.com/blog/2025/10/31/smaller-qr-codes/)
+* [2025-11-01, 14:40:09](https://news.ycombinator.com/item?id=45781965) - [The Silent Scientist: When Software Research Fails to Reach Its Audience](https://cacm.acm.org/opinion/the-silent-scientist-when-software-research-fails-to-reach-its-audience/)
 * [2025-10-31, 23:06:25](https://news.ycombinator.com/item?id=45777701) - [The Geometry of Schemes [pdf]](https://webhomes.maths.ed.ac.uk/~v1ranick/papers/eisenbudharris.pdf)
 * [2025-10-31, 19:49:31](https://news.ycombinator.com/item?id=45775988) - [Word2Vec-style vector arithmetic on docs embeddings](https://technicalwriting.dev/embeddings/arithmetic/index.html)
 

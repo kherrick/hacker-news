@@ -45,6 +45,7 @@
 * [2025-11-01, 15:21:00](https://news.ycombinator.com/item?id=45782348) - [Open-Source Ada: From Gateware to Application](https://blog.adacore.com/open-source-ada-from-gateware-to-application)
 * [2025-11-01, 15:12:00](https://news.ycombinator.com/item?id=45782267) - [Tech companies are firing everyone to \"fund AI\", spending money on each other](https://old.reddit.com/r/ArtificialInteligence/comments/1oj52xx/tech_companies_are_firing_everyone_to_fund_ai_but/)
 * [2025-11-01, 14:58:05](https://news.ycombinator.com/item?id=45782136) - [arXiv No Longer Accepts Computer Science Position or Review Papers Due to LLMs](https://blog.arxiv.org/2025/10/31/attention-authors-updated-practice-for-review-articles-and-position-papers-in-arxiv-cs-category/)
+* [2025-11-01, 14:40:09](https://news.ycombinator.com/item?id=45781965) - [The Silent Scientist: When Software Research Fails to Reach Its Audience](https://cacm.acm.org/opinion/the-silent-scientist-when-software-research-fails-to-reach-its-audience/)
 * [2025-11-01, 14:20:38](https://news.ycombinator.com/item?id=45781843) - [Tigerbeetle Simulator](https://sim.tigerbeetle.com/)
 * [2025-11-01, 14:14:07](https://news.ycombinator.com/item?id=45781792) - [Async/Await is finally back in Zig](https://charlesfonseca.substack.com/p/asyncawait-is-finally-back-in-zig)
 * [2025-11-01, 13:45:03](https://news.ycombinator.com/item?id=45781597) - [Show HN: AI Operator from Hell – Autonomous AI Sysadmin Writing Tech Stories](https://www.aiofh.com)
