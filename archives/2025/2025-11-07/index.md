@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-11-07](index.md)
 
+* [2025-11-07, 07:09:30](https://news.ycombinator.com/item?id=45844197) - [Lessons from Growing a Piracy Streaming Site](https://prison.josh.mn/lessons)
 * [2025-11-07, 07:00:02](https://news.ycombinator.com/item?id=45844151) - [Photoroom (YC S20) Is Hiring a Senior AI Front End Engineer in Paris](https://jobs.ashbyhq.com/photoroom/7644fc7d-7840-406d-a1b1-b9d2d7ffa9b8)
 * [2025-11-07, 06:51:36](https://news.ycombinator.com/item?id=45844117) - [JavaScript Just Leveled Up: ES2025 – You'll Fall in Love With](https://jsdevspace.substack.com/p/javascript-just-leveled-up-es2025)
 * [2025-11-07, 06:21:20](https://news.ycombinator.com/item?id=45843976) - [Windows \"SUCKS\": How I'd Fix it by a retired Microsoft Windows engineer[video]](https://www.youtube.com/watch?v=oTpA5jt1g60)
@@ -15,6 +16,7 @@
 * [2025-11-07, 02:10:52](https://news.ycombinator.com/item?id=45842851) - [A File Format Uncracked for 20 Years](https://landaire.net/a-file-format-uncracked-for-20-years/)
 * [2025-11-07, 02:03:57](https://news.ycombinator.com/item?id=45842815) - [My tutorial and take on C++20 coroutines (2021)](https://www.scs.stanford.edu/~dm/blog/c++-coroutines.html)
 * [2025-11-07, 01:57:02](https://news.ycombinator.com/item?id=45842777) - [HTML Slides with notes](https://nbd.neocities.org/slidepresentation/Slide%20presentation%20about%20slides)
+* [2025-11-07, 01:26:06](https://news.ycombinator.com/item?id=45842629) - [Time Immemorial turns 750: The Medieval law that froze history at 1189](https://www.ianvisits.co.uk/articles/time-immemorial-turns-750-the-medieval-law-that-froze-history-at-1189-84893/)
 * [2025-11-07, 00:59:58](https://news.ycombinator.com/item?id=45842494) - [A Note on Fil-C](https://graydon2.dreamwidth.org/320265.html)
 * [2025-11-07, 00:42:50](https://news.ycombinator.com/item?id=45842380) - [IRS Ends Direct File](https://www.wsj.com/politics/policy/irs-direct-file-tax-program-ended-00172148)
 * [2025-11-07, 00:22:53](https://news.ycombinator.com/item?id=45842263) - [Scientists find ways to boost memory in aging brains](https://news.vt.edu/articles/2025/10/cals-jarome-improving-memory.html)
