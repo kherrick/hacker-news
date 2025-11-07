@@ -11,7 +11,6 @@
 * [2025-11-07, 19:30:18](https://news.ycombinator.com/item?id=45850069) - [James Watson has died](https://www.nytimes.com/2025/11/07/science/james-watson-dead.html)
 * [2025-11-07, 18:45:35](https://news.ycombinator.com/item?id=45849528) - [Ruby Solved My Problem](https://newsletter.masilotti.com/p/ruby-already-solved-my-problem)
 * [2025-11-07, 18:27:36](https://news.ycombinator.com/item?id=45849342) - [Myna: Monospace typeface designed for symbol-heavy programming languages](https://github.com/sayyadirfanali/Myna)
-* [2025-11-07, 18:22:09](https://news.ycombinator.com/item?id=45849281) - [Rockstar employee shares account of the company's union-busting efforts](https://gtaforums.com/topic/1004182-rockstar-games-alleged-union-busting/)
 * [2025-11-07, 17:03:30](https://news.ycombinator.com/item?id=45848468) - [Angel Investors, a Field Guide](https://www.jeanyang.com/posts/angel-investors-a-field-guide/)
 * [2025-11-07, 16:52:05](https://news.ycombinator.com/item?id=45848341) - [Toxic Salton Sea dust triggers changes in lung microbiome after just one week](https://phys.org/news/2025-10-toxic-salton-sea-triggers-lung.html)
 * [2025-11-07, 16:28:31](https://news.ycombinator.com/item?id=45848083) - [Denmark's government aims to ban access to social media for children under 15](https://apnews.com/article/denmark-social-media-ban-children-7862d2a8cc590b4969c8931a01adc7f4)
@@ -29,6 +28,7 @@
 * [2025-11-02, 21:57:16](https://news.ycombinator.com/item?id=45793783) - [Skeena Indigenous Typeface](https://microsoft.github.io/Skeena-Indigenous-Typeface/)
 * [2025-11-02, 10:00:07](https://news.ycombinator.com/item?id=45789143) - [Comparison Traits – Understanding Equality and Ordering in Rust](https://itsfoxstudio.substack.com/p/comparison-traits-understanding-equality)
 * [2025-11-02, 06:21:37](https://news.ycombinator.com/item?id=45788194) - [PyTorch Helion](https://pytorch.org/blog/helion/)
+* [2025-11-01, 02:14:18](https://news.ycombinator.com/item?id=45778729) - [Developers in C-Level Meetings](https://radekmie.dev/blog/on-developers-in-c-level-meetings/)
 * [2025-11-01, 01:56:57](https://news.ycombinator.com/item?id=45778653) - [1973 implementation of Wordle was published by DEC (2022)](https://troypress.com/1973-implementation-of-wordle-was-published-by-dec/)
 
 ## [Archives](archives/index.md)

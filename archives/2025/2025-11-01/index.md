@@ -61,6 +61,7 @@
 * [2025-11-01, 04:31:52](https://news.ycombinator.com/item?id=45779261) - [Intent to Deprecate and Remove: Deprecate and Remove XSLT](https://groups.google.com/a/chromium.org/g/blink-dev/c/CxL4gYZeSJA/m/yNs4EsD5AQAJ)
 * [2025-11-01, 04:09:20](https://news.ycombinator.com/item?id=45779181) - [New analog chip that is 1k times faster than high-end Nvidia GPUs](https://www.livescience.com/technology/computing/china-solves-century-old-problem-with-new-analog-chip-that-is-1-000-times-faster-than-high-end-nvidia-gpus)
 * [2025-11-01, 03:18:04](https://news.ycombinator.com/item?id=45778984) - [The Profitable Startup](https://linear.app/now/the-profitable-startup)
+* [2025-11-01, 02:14:18](https://news.ycombinator.com/item?id=45778729) - [Developers in C-Level Meetings](https://radekmie.dev/blog/on-developers-in-c-level-meetings/)
 * [2025-11-01, 01:56:57](https://news.ycombinator.com/item?id=45778653) - [1973 Implementation of Wordle Was Published by Dec (2022)](https://troypress.com/1973-implementation-of-wordle-was-published-by-dec/)
 * [2025-11-01, 01:38:24](https://news.ycombinator.com/item?id=45778566) - [Fungus: The Befunge CPU(2015)](https://www.bedroomlan.org/hardware/fungus/)
 * [2025-11-01, 01:10:05](https://news.ycombinator.com/item?id=45778418) - [Chibi Izumi: Phased dependency injection for TypeScript](https://github.com/7mind/izumi-chibi-ts)
