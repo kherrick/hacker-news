@@ -129,6 +129,27 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
+        <section id="45852328">
+          <h3>
+            <a
+              class="item"
+              href="https://nilostolte.github.io/tech/articles/ZigCool.html"
+              >Why is Zig so Cool?</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2025-11-07 @ 23:04:39</span
+              ><span class="points-container"
+                >Points: <span class="points">14</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=45852328"
+                  >Comments</a
+                ><span class="descendants">: 0</span></span
+              >
+            </h4>
+          </section>
+        </section>
         <section id="45852275">
           <h3>
             <a
@@ -142,13 +163,88 @@
             <h4>
               <span>2025-11-07 @ 22:59:04</span
               ><span class="points-container"
-                >Points: <span class="points">28</span></span
+                >Points: <span class="points">39</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45852275"
                   >Comments</a
                 ><span class="descendants">: 2</span></span
               >
             </h4>
+          </section>
+        </section>
+        <section id="45851807">
+          <h3>
+            <a class="item" href="https://voxconvo.com"
+              >Show HN: VoxConvo – "X but it's only voice messages"</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2025-11-07 @ 22:15:41</span
+              ><span class="points-container"
+                >Points: <span class="points">4</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=45851807"
+                  >Comments</a
+                ><span class="descendants">: 3</span></span
+              >
+            </h4>
+            <div class="text">
+              <p>
+                I saw this tweet: "Hear me out: X but it's only voice messages
+                (with AI transcriptions)" - and couldn't stop thinking about it.
+              </p>
+              <p>So I built VoxConvo.</p>
+              <p>Why this exists:</p>
+              <p>
+                AI-generated content is drowning social media. ChatGPT replies,
+                bot threads, AI slop everywhere.
+              </p>
+              <p>
+                When you hear someone's actual voice: their tone, hesitation,
+                excitement - you know it's real. That authenticity is what we're
+                losing.
+              </p>
+              <p>
+                So I built a simple platform where voice is the ONLY option.
+              </p>
+              <p>The experience:</p>
+              <p>
+                Every post is voice + transcript with word-level timestamps:
+              </p>
+              <p>
+                Read mode: Scan the transcript like normal text or listen mode:
+                hit play and words highlight in real-time.
+              </p>
+              <p>You get the emotion of voice with the scannability of text.</p>
+              <p>Key features:</p>
+              <p>- Voice shorts</p>
+              <p>- Real-time transcription</p>
+              <p>
+                - Visual voice editing - click a word in transcript deletes that
+                audio segment to remove filler words, mistakes, pauses
+              </p>
+              <p>- Word-level timestamp sync</p>
+              <p>- No LLM content generation</p>
+              <p>Technical details:</p>
+              <p>Backend running on Mac Mini M1:</p>
+              <p>- TypeGraphQL + Apollo Server</p>
+              <p>- MongoDB + Atlas Search (community mongo + mongot)</p>
+              <p>- Redis pub/sub for GraphQL subscriptions</p>
+              <p>- Docker containerization for ready to scale</p>
+              <p>Transcription:</p>
+              <p>- VOSK real time gigaspeech model eats about 7GB RAM</p>
+              <p>- WebSocket streaming for real-time partial results</p>
+              <p>- Word-level timestamp extraction plus punctuation model</p>
+              <p>Storage:</p>
+              <p>- Audio files are stored to AWS S3</p>
+              <p>- Everything else is local</p>
+              <p>
+                Why Mac Mini for MVP? Validation first, scaling later.
+                Architecture is containerized and ready to migrate. But I'd
+                rather prove demand on gigabit fiber than burn cloud budget.
+              </p>
+            </div>
           </section>
         </section>
         <section id="45851786">
@@ -184,11 +280,11 @@
             <h4>
               <span>2025-11-07 @ 21:45:03</span
               ><span class="points-container"
-                >Points: <span class="points">27</span></span
+                >Points: <span class="points">32</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45851495"
                   >Comments</a
-                ><span class="descendants">: 2</span></span
+                ><span class="descendants">: 4</span></span
               >
             </h4>
           </section>
@@ -205,11 +301,11 @@
             <h4>
               <span>2025-11-07 @ 21:44:04</span
               ><span class="points-container"
-                >Points: <span class="points">172</span></span
+                >Points: <span class="points">181</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45851483"
                   >Comments</a
-                ><span class="descendants">: 138</span></span
+                ><span class="descendants">: 144</span></span
               >
             </h4>
           </section>
@@ -227,11 +323,11 @@
             <h4>
               <span>2025-11-07 @ 20:50:40</span
               ><span class="points-container"
-                >Points: <span class="points">262</span></span
+                >Points: <span class="points">278</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45850963"
                   >Comments</a
-                ><span class="descendants">: 92</span></span
+                ><span class="descendants">: 95</span></span
               >
             </h4>
           </section>
@@ -248,7 +344,7 @@
             <h4>
               <span>2025-11-07 @ 20:31:36</span
               ><span class="points-container"
-                >Points: <span class="points">193</span></span
+                >Points: <span class="points">197</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45850751"
                   >Comments</a
@@ -288,7 +384,7 @@
             <h4>
               <span>2025-11-07 @ 20:05:32</span
               ><span class="points-container"
-                >Points: <span class="points">217</span></span
+                >Points: <span class="points">221</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45850430"
                   >Comments</a
@@ -307,32 +403,11 @@
             <h4>
               <span>2025-11-07 @ 20:01:09</span
               ><span class="points-container"
-                >Points: <span class="points">90</span></span
+                >Points: <span class="points">95</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45850382"
                   >Comments</a
                 ><span class="descendants">: 29</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="45850171">
-          <h3>
-            <a
-              class="item"
-              href="https://www.economist.com/business/2025/11/06/should-facial-analysis-help-determine-whom-companies-hire"
-              >Should facial analysis help determine whom companies hire?</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2025-11-07 @ 19:40:32</span
-              ><span class="points-container"
-                >Points: <span class="points">17</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=45850171"
-                  >Comments</a
-                ><span class="descendants">: 28</span></span
               >
             </h4>
           </section>
@@ -403,11 +478,11 @@
             <h4>
               <span>2025-11-07 @ 19:30:18</span
               ><span class="points-container"
-                >Points: <span class="points">189</span></span
+                >Points: <span class="points">191</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45850069"
                   >Comments</a
-                ><span class="descendants">: 90</span></span
+                ><span class="descendants">: 94</span></span
               >
             </h4>
             <div class="text">
@@ -427,11 +502,11 @@
             <h4>
               <span>2025-11-07 @ 18:45:35</span
               ><span class="points-container"
-                >Points: <span class="points">139</span></span
+                >Points: <span class="points">140</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45849528"
                   >Comments</a
-                ><span class="descendants">: 54</span></span
+                ><span class="descendants">: 55</span></span
               >
             </h4>
           </section>
@@ -447,11 +522,11 @@
             <h4>
               <span>2025-11-07 @ 18:27:36</span
               ><span class="points-container"
-                >Points: <span class="points">171</span></span
+                >Points: <span class="points">176</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45849342"
                   >Comments</a
-                ><span class="descendants">: 69</span></span
+                ><span class="descendants">: 71</span></span
               >
             </h4>
           </section>
@@ -490,11 +565,11 @@
             <h4>
               <span>2025-11-07 @ 16:28:31</span
               ><span class="points-container"
-                >Points: <span class="points">369</span></span
+                >Points: <span class="points">372</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45848083"
                   >Comments</a
-                ><span class="descendants">: 264</span></span
+                ><span class="descendants">: 266</span></span
               >
             </h4>
           </section>
@@ -511,11 +586,11 @@
             <h4>
               <span>2025-11-07 @ 14:05:49</span
               ><span class="points-container"
-                >Points: <span class="points">279</span></span
+                >Points: <span class="points">281</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45846517"
                   >Comments</a
-                ><span class="descendants">: 189</span></span
+                ><span class="descendants">: 191</span></span
               >
             </h4>
           </section>
@@ -533,11 +608,11 @@
             <h4>
               <span>2025-11-07 @ 13:52:39</span
               ><span class="points-container"
-                >Points: <span class="points">60</span></span
+                >Points: <span class="points">61</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45846360"
                   >Comments</a
-                ><span class="descendants">: 55</span></span
+                ><span class="descendants">: 54</span></span
               >
             </h4>
           </section>
@@ -554,11 +629,11 @@
             <h4>
               <span>2025-11-07 @ 12:39:54</span
               ><span class="points-container"
-                >Points: <span class="points">616</span></span
+                >Points: <span class="points">618</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45845772"
                   >Comments</a
-                ><span class="descendants">: 464</span></span
+                ><span class="descendants">: 466</span></span
               >
             </h4>
           </section>
@@ -592,7 +667,7 @@
             <h4>
               <span>2025-11-07 @ 06:14:50</span
               ><span class="points-container"
-                >Points: <span class="points">665</span></span
+                >Points: <span class="points">666</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45843948"
                   >Comments</a
@@ -611,7 +686,7 @@
             <h4>
               <span>2025-11-04 @ 11:10:04</span
               ><span class="points-container"
-                >Points: <span class="points">76</span></span
+                >Points: <span class="points">77</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45809649"
                   >Comments</a
@@ -632,7 +707,7 @@
             <h4>
               <span>2025-11-04 @ 10:32:26</span
               ><span class="points-container"
-                >Points: <span class="points">58</span></span
+                >Points: <span class="points">59</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45809429"
                   >Comments</a
@@ -670,32 +745,11 @@
             <h4>
               <span>2025-11-03 @ 11:55:02</span
               ><span class="points-container"
-                >Points: <span class="points">25</span></span
+                >Points: <span class="points">26</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45798123"
                   >Comments</a
-                ><span class="descendants">: 17</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="45793783">
-          <h3>
-            <a
-              class="item"
-              href="https://microsoft.github.io/Skeena-Indigenous-Typeface/"
-              >Skeena Indigenous Typeface</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2025-11-02 @ 21:57:16</span
-              ><span class="points-container"
-                >Points: <span class="points">54</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=45793783"
-                  >Comments</a
-                ><span class="descendants">: 11</span></span
+                ><span class="descendants">: 18</span></span
               >
             </h4>
           </section>
@@ -711,11 +765,11 @@
             <h4>
               <span>2025-11-02 @ 16:47:55</span
               ><span class="points-container"
-                >Points: <span class="points">8</span></span
+                >Points: <span class="points">9</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45791596"
                   >Comments</a
-                ><span class="descendants">: 1</span></span
+                ><span class="descendants">: 2</span></span
               >
             </h4>
           </section>
@@ -751,11 +805,11 @@
             <h4>
               <span>2025-11-01 @ 02:14:18</span
               ><span class="points-container"
-                >Points: <span class="points">10</span></span
+                >Points: <span class="points">12</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45778729"
                   >Comments</a
-                ><span class="descendants">: 0</span></span
+                ><span class="descendants">: 1</span></span
               >
             </h4>
           </section>
@@ -776,7 +830,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45778653"
                   >Comments</a
-                ><span class="descendants">: 30</span></span
+                ><span class="descendants">: 31</span></span
               >
             </h4>
           </section>
