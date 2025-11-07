@@ -63,6 +63,7 @@
 * [2025-11-04, 11:42:10](https://news.ycombinator.com/item?id=45809835) - [OpenTelemetry: Escape Hatch from the Observability Cartel](https://oneuptime.com/blog/post/2025-11-03-opentelemetry-escape-from-observability-cartel/view)
 * [2025-11-04, 11:10:04](https://news.ycombinator.com/item?id=45809649) - [My Experience of building Bytebeat player in Zig](https://blog.karanjanthe.me/posts/zig-beat/)
 * [2025-11-04, 11:09:24](https://news.ycombinator.com/item?id=45809644) - [Building blobd: single-machine object store with sub-ms reads and 15 GB/s upload](https://blog.wilsonl.in/blobd/)
+* [2025-11-04, 10:32:26](https://news.ycombinator.com/item?id=45809429) - [Transducer: Composition, Abstraction, Performance](https://funktionale-programmierung.de/en/2018/03/22/transducer.html)
 * [2025-11-04, 09:58:14](https://news.ycombinator.com/item?id=45809193) - [What Is a Manifold?](https://www.quantamagazine.org/what-is-a-manifold-20251103/)
 * [2025-11-04, 09:27:57](https://news.ycombinator.com/item?id=45809007) - [Venn Diagram for 7 Sets](https://moebio.com/research/sevensets/)
 * [2025-11-04, 09:25:31](https://news.ycombinator.com/item?id=45808998) - [Bloom filters are good for search that does not scale](https://notpeerreviewed.com/blog/bloom-filters/)

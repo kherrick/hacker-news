@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-11-07](index.md)
 
+* [2025-11-07, 20:50:40](https://news.ycombinator.com/item?id=45850963) - [YouTube Removes Windows 11 Bypass Tutorials, Claims 'Risk of Physical Harm'](https://news.itsfoss.com/youtube-removes-windows-11-bypass-tutorials/)
 * [2025-11-07, 20:31:36](https://news.ycombinator.com/item?id=45850751) - [VLC's Jean-Baptiste Kempf Receives the European SFS Award 2025](https://fsfe.org/news/2025/news-20251107-01.en.html)
 * [2025-11-07, 20:26:26](https://news.ycombinator.com/item?id=45850671) - [Ribir: Non-intrusive GUI framework for Rust/WASM](https://github.com/RibirX/Ribir)
 * [2025-11-07, 20:05:32](https://news.ycombinator.com/item?id=45850430) - [Apple is crossing a Steve Jobs red line](https://kensegall.com/2025/11/07/apple-is-crossing-a-steve-jobs-red-line/)
