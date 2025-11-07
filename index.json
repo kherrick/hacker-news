@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-11-07, 03:01:32",
+      "https://news.ycombinator.com/item?id=45843146"
+    ],
+    [
+      "A Fond Farewell from Farmers' Almanac",
+      "https://www.farmersalmanac.com/fond-farewell-from-farmers-almanac"
+    ]
+  ],
+  [
+    [
       "2025-11-07, 02:57:02",
       "https://news.ycombinator.com/item?id=45843120"
     ],
@@ -265,7 +275,7 @@
       "https://news.ycombinator.com/item?id=45789431"
     ],
     [
-      "Show HN: Auto-Adjust Keyboard and LCD Brightness via Ambient Light Sensor[Linux]",
+      "Show HN: Ambient light sensor control of keyboard and screen brightness in Linux",
       "https://github.com/donjajo/als-led-backlight"
     ]
   ],
@@ -277,16 +287,6 @@
     [
       "GT – Experimental multiplexing tensor framework for distributed GPU computing",
       "https://github.com/bwasti/gt"
-    ]
-  ],
-  [
-    [
-      "2025-11-01, 22:34:43",
-      "https://news.ycombinator.com/item?id=45786041"
-    ],
-    [
-      "How often does Python allocate?",
-      "https://zackoverflow.dev/writing/how-often-does-python-allocate/"
     ]
   ],
   [
