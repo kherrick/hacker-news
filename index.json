@@ -231,6 +231,16 @@
   ],
   [
     [
+      "2025-11-04, 07:22:46",
+      "https://news.ycombinator.com/item?id=45808288"
+    ],
+    [
+      "Reverse Engineering a Neural Network's Clever Solution to Binary Addition (2023)",
+      "https://cprimozic.net/blog/reverse-engineering-a-small-neural-network/"
+    ]
+  ],
+  [
+    [
       "2025-11-03, 17:27:12",
       "https://news.ycombinator.com/item?id=45801651"
     ],
@@ -267,16 +277,6 @@
     [
       "Friendly Attributes Pattern in Ruby",
       "https://brunosutic.com/blog/ruby-friendly-attributes-pattern"
-    ]
-  ],
-  [
-    [
-      "2025-11-02, 17:43:18",
-      "https://news.ycombinator.com/item?id=45792012"
-    ],
-    [
-      "Cure – Verification-First Programming for the Beam",
-      "https://cure-lang.org/index.html"
     ]
   ],
   [
