@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-11-08, 07:29:35](https://news.ycombinator.com/item?id=45854862) - [Making Democracy Work: Fixing and Simplifying Egalitarian Paxos](https://arxiv.org/abs/2511.02743)
 * [2025-11-08, 05:37:08](https://news.ycombinator.com/item?id=45854441) - [Apple's \"notarisation\" – blocking software freedom of developers and users](https://fsfe.org/news/2025/news-20251105-01.en.html)
 * [2025-11-08, 02:27:48](https://news.ycombinator.com/item?id=45853536) - [Local First Htmx](https://elijahm.com/posts/local_first_htmx/)
 * [2025-11-08, 01:18:12](https://news.ycombinator.com/item?id=45853204) - [Running a 68060 CPU in Quadra 650](https://github.com/ZigZagJoe/Macintosh-Q650-68060)
@@ -27,7 +28,6 @@
 * [2025-11-03, 15:20:24](https://news.ycombinator.com/item?id=45800009) - [Show HN: Find matching acrylic paints for any HEX color](https://acrylicmatch.com/)
 * [2025-11-03, 07:11:14](https://news.ycombinator.com/item?id=45796575) - [FSF40 Hackathon](https://www.fsf.org/events/fsf40-hackathon)
 * [2025-11-02, 19:02:04](https://news.ycombinator.com/item?id=45792555) - [Friendly Attributes Pattern in Ruby](https://brunosutic.com/blog/ruby-friendly-attributes-pattern)
-* [2025-11-02, 16:47:55](https://news.ycombinator.com/item?id=45791596) - [WinObjC – The Windows Bridge for iOS](https://github.com/microsoft/WinObjC)
 * [2025-11-02, 10:58:33](https://news.ycombinator.com/item?id=45789405) - [Why I love my Boox Palma e-reader](https://minimal.bearblog.dev/why-i-love-my-boox-palma-e-reader/)
 * [2025-11-01, 22:34:49](https://news.ycombinator.com/item?id=45786042) - [Can you save on LLM tokens using images instead of text?](https://pagewatch.ai/blog/post/llm-text-as-image-tokens/)
 
