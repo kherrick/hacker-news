@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-11-08](index.md)
 
+* [2025-11-08, 18:53:01](https://news.ycombinator.com/item?id=45858967) - [The Medici Method](https://letter.palladiummag.com/p/early-article-the-medici-method)
 * [2025-11-08, 17:34:39](https://news.ycombinator.com/item?id=45858404) - [Driver livestreams on TikTok as she apparently hits and kills man in Chicago](https://www.theguardian.com/us-news/2025/nov/08/tiktok-live-stream-fatal-crash-chicago)
+* [2025-11-08, 16:30:32](https://news.ycombinator.com/item?id=45857890) - [Mothers say chatbots encouraged their sons to kill themselves](https://www.bbc.com/news/articles/ce3xgwyywe4o)
 * [2025-11-08, 16:25:41](https://news.ycombinator.com/item?id=45857836) - [Cloudflare Scrubs Aisuru Botnet from Top Domains List](https://krebsonsecurity.com/2025/11/cloudflare-scrubs-aisuru-botnet-from-top-domains-list/)
 * [2025-11-08, 16:12:14](https://news.ycombinator.com/item?id=45857695) - [52 Year old data tape could contain Unix history](https://www.theregister.com/2025/11/07/unix_fourth_edition_tape_rediscovered/)
 * [2025-11-08, 15:43:13](https://news.ycombinator.com/item?id=45857449) - [Authorities Shut Down Film Festival in New York](https://www.hrw.org/news/2025/11/07/china-authorities-shut-down-film-festival-in-new-york)
