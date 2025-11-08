@@ -10,3 +10,4 @@
 * [2025-11-08, 00:21:45](https://news.ycombinator.com/item?id=45852895) - [Immutable Software Deploys Using ZFS Jails on FreeBSD](https://conradresearch.com/articles/immutable-software-deploy-zfs-jails)
 * [2025-11-08, 00:15:16](https://news.ycombinator.com/item?id=45852859) - [The Boss Has a Message: Use AI or You're Fired](https://www.wsj.com/tech/ai/ai-work-use-performance-reviews-1e8975df)
 * [2025-11-08, 00:14:50](https://news.ycombinator.com/item?id=45852854) - [Snapchat open-sources Valdi a cross-platform UI framework](https://github.com/Snapchat/Valdi)
+* [2025-11-08, 00:00:27](https://news.ycombinator.com/item?id=45852751) - [Cerebras Code now supports GLM 4.6 at 1000 tokens/sec](https://www.cerebras.ai/code)

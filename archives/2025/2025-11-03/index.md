@@ -36,6 +36,7 @@
 * [2025-11-03, 16:00:00](https://news.ycombinator.com/item?id=45800464) - [Ask HN: Who wants to be hired? (November 2025)](https://news.ycombinator.com/item?id=45800464)
 * [2025-11-03, 15:45:31](https://news.ycombinator.com/item?id=45800308) - [Robert Hooke's \"Cyberpunk” Letter to Gottfried Leibniz](https://mynamelowercase.com/blog/robert-hookes-cyberpunk-letter-to-gottfried-leibniz/)
 * [2025-11-03, 15:29:13](https://news.ycombinator.com/item?id=45800117) - [Show HN: FinBodhi – Local-first, double-entry app/PWA for your financial journey](https://finbodhi.com/)
+* [2025-11-03, 15:20:24](https://news.ycombinator.com/item?id=45800009) - [Show HN: Find matching acrylic paints for any HEX color](https://acrylicmatch.com/)
 * [2025-11-03, 14:54:12](https://news.ycombinator.com/item?id=45799652) - [Uv Crash Course](https://lernerpython.com/uv-crash-course/)
 * [2025-11-03, 14:40:51](https://news.ycombinator.com/item?id=45799478) - [State of Terminal Emulators in 2025: The Errant Champions](https://www.jeffquast.com/post/state-of-terminal-emulation-2025/)
 * [2025-11-03, 14:20:05](https://news.ycombinator.com/item?id=45799211) - [OpenAI Signs $38B Cloud Computing Deal with Amazon](https://www.nytimes.com/2025/11/03/technology/openai-amazon-cloud-computing.html)
