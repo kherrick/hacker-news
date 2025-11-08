@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-11-08, 18:53:01](https://news.ycombinator.com/item?id=45858967) - [The Medici Method](https://letter.palladiummag.com/p/early-article-the-medici-method)
+* [2025-11-08, 18:51:37](https://news.ycombinator.com/item?id=45858959) - [Firefox Forcing LLM Features](https://equk.co.uk/2025/10/28/firefox-forcing-llm-features/)
 * [2025-11-08, 18:43:55](https://news.ycombinator.com/item?id=45858905) - [Marko – A declarative, HTML‑based language that makes building web apps fun](https://markojs.com/)
 * [2025-11-08, 16:25:41](https://news.ycombinator.com/item?id=45857836) - [Cloudflare Scrubs Aisuru Botnet from Top Domains List](https://krebsonsecurity.com/2025/11/cloudflare-scrubs-aisuru-botnet-from-top-domains-list/)
 * [2025-11-08, 16:12:14](https://news.ycombinator.com/item?id=45857695) - [52 Year old data tape could contain Unix history](https://www.theregister.com/2025/11/07/unix_fourth_edition_tape_rediscovered/)
@@ -18,7 +19,6 @@
 * [2025-11-08, 00:00:27](https://news.ycombinator.com/item?id=45852751) - [Cerebras Code now supports GLM 4.6 at 1000 tokens/sec](https://www.cerebras.ai/code)
 * [2025-11-07, 23:04:39](https://news.ycombinator.com/item?id=45852328) - [Why is Zig so cool?](https://nilostolte.github.io/tech/articles/ZigCool.html)
 * [2025-11-07, 20:50:40](https://news.ycombinator.com/item?id=45850963) - [YouTube Removes Windows 11 Bypass Tutorials, Claims 'Risk of Physical Harm'](https://news.itsfoss.com/youtube-removes-windows-11-bypass-tutorials/)
-* [2025-11-07, 20:05:32](https://news.ycombinator.com/item?id=45850430) - [Apple is crossing a Steve Jobs red line](https://kensegall.com/2025/11/07/apple-is-crossing-a-steve-jobs-red-line/)
 * [2025-11-07, 20:01:09](https://news.ycombinator.com/item?id=45850382) - [How did I get here?](https://how-did-i-get-here.net/)
 * [2025-11-07, 18:27:36](https://news.ycombinator.com/item?id=45849342) - [Myna: Monospace typeface designed for symbol-heavy programming languages](https://github.com/sayyadirfanali/Myna)
 * [2025-11-07, 14:05:49](https://news.ycombinator.com/item?id=45846517) - [Why I love OCaml (2023)](https://mccd.space/posts/ocaml-the-worlds-best/)
