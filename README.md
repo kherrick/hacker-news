@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-11-08, 03:54:30](https://news.ycombinator.com/item?id=45853995) - [Oddest ChatGPT leaks yet: Cringey chat logs found in Google Analytics tool](https://arstechnica.com/tech-policy/2025/11/oddest-chatgpt-leaks-yet-cringey-chat-logs-found-in-google-analytics-tool/)
+* [2025-11-08, 02:27:48](https://news.ycombinator.com/item?id=45853536) - [Local First Htmx](https://elijahm.com/posts/local_first_htmx/)
 * [2025-11-08, 01:18:12](https://news.ycombinator.com/item?id=45853204) - [Running a 68060 CPU in Quadra 650](https://github.com/ZigZagJoe/Macintosh-Q650-68060)
 * [2025-11-08, 00:37:36](https://news.ycombinator.com/item?id=45852974) - [Mullvad: Shutting down our search proxy Leta](https://mullvad.net/en/blog/shutting-down-our-search-proxy-leta)
 * [2025-11-08, 00:21:45](https://news.ycombinator.com/item?id=45852895) - [Immutable Software Deploys Using ZFS Jails on FreeBSD](https://conradresearch.com/articles/immutable-software-deploy-zfs-jails)
@@ -27,7 +28,6 @@
 * [2025-11-03, 17:27:12](https://news.ycombinator.com/item?id=45801651) - [How to find your ideal customer, right away](https://www.reifyworks.com/writing/2023-01-30-iicp)
 * [2025-11-03, 15:20:24](https://news.ycombinator.com/item?id=45800009) - [Show HN: Find matching acrylic paints for any HEX color](https://acrylicmatch.com/)
 * [2025-11-03, 07:11:14](https://news.ycombinator.com/item?id=45796575) - [FSF40 Hackathon](https://www.fsf.org/events/fsf40-hackathon)
-* [2025-11-02, 16:47:55](https://news.ycombinator.com/item?id=45791596) - [WinObjC – The Windows Bridge for iOS](https://github.com/microsoft/WinObjC)
 * [2025-11-02, 10:58:33](https://news.ycombinator.com/item?id=45789405) - [Why I love my Boox Palma e-reader](https://minimal.bearblog.dev/why-i-love-my-boox-palma-e-reader/)
 * [2025-11-01, 22:34:49](https://news.ycombinator.com/item?id=45786042) - [Can you save on LLM tokens using images instead of text?](https://pagewatch.ai/blog/post/llm-text-as-image-tokens/)
 
