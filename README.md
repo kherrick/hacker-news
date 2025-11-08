@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-11-08, 15:05:41](https://news.ycombinator.com/item?id=45857099) - [$1T in Tech Stocks Sold Off as Market Grows Skeptical of AI](https://gizmodo.com/1-trillion-in-tech-stocks-sold-off-as-market-grows-skeptical-of-ai-2000683226)
+* [2025-11-08, 15:03:26](https://news.ycombinator.com/item?id=45857087) - [Reputational consequences of victim signaling: Victimhood decreases status](https://www.sciencedirect.com/science/article/pii/S0191886925004775)
 * [2025-11-08, 14:33:00](https://news.ycombinator.com/item?id=45856883) - [Why Sam Altman Won't Be on the Hook for OpenAI's Spending Spree](https://www.forbes.com/sites/rashishrivastava/2025/11/07/why-sam-altman-wont-be-on-the-hook-for-openais-massive-spending-spree/)
 * [2025-11-08, 14:18:22](https://news.ycombinator.com/item?id=45856804) - [AI benchmarks are a bad joke – and LLM makers are the ones laughing](https://www.theregister.com/2025/11/07/measuring_ai_models_hampered_by/)
-* [2025-11-08, 13:36:30](https://news.ycombinator.com/item?id=45856563) - [Why hasn't there been a new major sports league?](https://humaninvariant.substack.com/p/why-hasnt-there-been-a-new-major)
 * [2025-11-08, 12:00:50](https://news.ycombinator.com/item?id=45856069) - [Cekura (YC F24) Is Hiring](https://news.ycombinator.com/item?id=45856069)
 * [2025-11-08, 11:27:56](https://news.ycombinator.com/item?id=45855933) - [My friends and I accidentally faked the Ryzen 7 9700X3D leaks](https://old.reddit.com/r/pcmasterrace/comments/1orc6jl/my_friends_and_i_accidentally_faked_the_ryzen_7/)
 * [2025-11-08, 07:29:35](https://news.ycombinator.com/item?id=45854862) - [Making Democracy Work: Fixing and Simplifying Egalitarian Paxos](https://arxiv.org/abs/2511.02743)
