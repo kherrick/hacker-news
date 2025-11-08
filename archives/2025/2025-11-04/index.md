@@ -61,6 +61,7 @@
 * [2025-11-04, 11:47:46](https://news.ycombinator.com/item?id=45809876) - [Studio Ghibli, Bandai Namco, Square Enix Demand OpenAI to Stop Using Their IP](https://www.theverge.com/news/812545/coda-studio-ghibli-sora-2-copyright-infringement)
 * [2025-11-04, 11:47:06](https://news.ycombinator.com/item?id=45809866) - [Over $70T of inherited wealth over next decade will widen inequality, economists](https://www.theguardian.com/inequality/2025/nov/03/more-than-70tn-of-inherited-wealth-over-next-decade-will-widen-inequality-economists-warn)
 * [2025-11-04, 11:42:10](https://news.ycombinator.com/item?id=45809835) - [OpenTelemetry: Escape Hatch from the Observability Cartel](https://oneuptime.com/blog/post/2025-11-03-opentelemetry-escape-from-observability-cartel/view)
+* [2025-11-04, 11:27:59](https://news.ycombinator.com/item?id=45809746) - [Shell Grotto: England's mysterious underground seashell chamber](https://boingboing.net/2025/09/05/shell-grotto-englands-mysterious-underground-seashell-chamber.html)
 * [2025-11-04, 11:10:04](https://news.ycombinator.com/item?id=45809649) - [My Experience of building Bytebeat player in Zig](https://blog.karanjanthe.me/posts/zig-beat/)
 * [2025-11-04, 11:09:24](https://news.ycombinator.com/item?id=45809644) - [Building blobd: single-machine object store with sub-ms reads and 15 GB/s upload](https://blog.wilsonl.in/blobd/)
 * [2025-11-04, 10:32:26](https://news.ycombinator.com/item?id=45809429) - [Transducer: Composition, Abstraction, Performance](https://funktionale-programmierung.de/en/2018/03/22/transducer.html)

@@ -68,6 +68,7 @@
 * [2025-11-03, 08:15:50](https://news.ycombinator.com/item?id=45796907) - [China intimidated UK university to ditch human rights research, documents show](https://www.bbc.com/news/articles/cq50j5vwny6o)
 * [2025-11-03, 08:13:49](https://news.ycombinator.com/item?id=45796892) - [How to Keep Winning](https://amasad.me/keep-winning)
 * [2025-11-03, 07:57:48](https://news.ycombinator.com/item?id=45796820) - [The APM paradox: Too much data, too few answers](https://www.honeybadger.io/blog/apm-paradox/)
+* [2025-11-03, 07:11:14](https://news.ycombinator.com/item?id=45796575) - [FSF40 Hackathon](https://www.fsf.org/events/fsf40-hackathon)
 * [2025-11-03, 06:54:30](https://news.ycombinator.com/item?id=45796487) - [Stop AI: 14 Steps to turn off AI](https://againstdata.com/blog/stop-ai)
 * [2025-11-03, 06:39:13](https://news.ycombinator.com/item?id=45796421) - [First recording of a dying human brain shows waves similar to memory flashbacks](https://louisville.edu/medicine/news/first-ever-recording-of-a-dying-human-brain-shows-waves-similar-to-memory-flashbacks)
 * [2025-11-03, 06:25:23](https://news.ycombinator.com/item?id=45796373) - ['No idea who he is', says Trump after pardoning crypto tycoon](https://www.bbc.com/news/articles/cn7ek63e5xyo)

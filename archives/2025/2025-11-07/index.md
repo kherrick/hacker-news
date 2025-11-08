@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-11-07](index.md)
 
+* [2025-11-07, 23:42:01](https://news.ycombinator.com/item?id=45852642) - [Analysis of Hedy Lamarr's Contribution to Spread-Spectrum Communication](https://researchers.one/articles/24.01.00001v4)
 * [2025-11-07, 23:04:39](https://news.ycombinator.com/item?id=45852328) - [Why is Zig so Cool?](https://nilostolte.github.io/tech/articles/ZigCool.html)
 * [2025-11-07, 22:59:04](https://news.ycombinator.com/item?id=45852275) - [FAA restricts commercial rocket launches indefinitely due to air traffic risks](https://www.space.com/space-exploration/launches-spacecraft/faa-restricts-commercial-rocket-launches-indefinitely-due-to-air-traffic-risks-from-government-shutdown)
 * [2025-11-07, 22:57:18](https://news.ycombinator.com/item?id=45852257) - [Mind captioning: Evolving descriptive text of mental content of brain activity](https://www.science.org/doi/10.1126/sciadv.adw1464)
