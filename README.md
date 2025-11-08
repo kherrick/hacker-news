@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-11-08, 21:00:45](https://news.ycombinator.com/item?id=45859928) - [Humans have remote touch 'seventh sense' like sandpipers](https://techxplore.com/news/2025-11-humans-remote-seventh-sandpipers.html)
 * [2025-11-08, 19:29:44](https://news.ycombinator.com/item?id=45859243) - [Avería: The Average Font (2011)](http://iotic.com/averia/)
 * [2025-11-08, 19:26:25](https://news.ycombinator.com/item?id=45859216) - [Near mid-air collision at LAX between American Airlines and ITA [video]](https://www.youtube.com/watch?v=-j76cp7bETw)
 * [2025-11-08, 19:18:18](https://news.ycombinator.com/item?id=45859160) - [Facebook enables gender discrimination in job ads, European human rights rules](https://www.cnn.com/2025/02/28/tech/facebook-gender-discrimination-europe-ruling-asequals-intl)
-* [2025-11-08, 19:11:16](https://news.ycombinator.com/item?id=45859107) - [Transparent computer monitor designed to protect your vision](https://www.visualinstruments.co/phantom/display)
 * [2025-11-08, 18:51:37](https://news.ycombinator.com/item?id=45858959) - [Firefox Forcing LLM Features](https://equk.co.uk/2025/10/28/firefox-forcing-llm-features/)
 * [2025-11-08, 18:49:47](https://news.ycombinator.com/item?id=45858945) - [WriterdeckOS](https://writerdeckos.com)
 * [2025-11-08, 18:43:55](https://news.ycombinator.com/item?id=45858905) - [Marko – A declarative, HTML‑based language that makes building web apps fun](https://markojs.com/)
