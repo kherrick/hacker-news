@@ -71,16 +71,6 @@
   ],
   [
     [
-      "2025-11-07, 23:42:01",
-      "https://news.ycombinator.com/item?id=45852642"
-    ],
-    [
-      "Analysis of Hedy Lamarr's Contribution to Spread-Spectrum Communication",
-      "https://researchers.one/articles/24.01.00001v4"
-    ]
-  ],
-  [
-    [
       "2025-11-07, 23:04:39",
       "https://news.ycombinator.com/item?id=45852328"
     ],
@@ -287,6 +277,16 @@
     [
       "Why I love my Boox Palma e-reader",
       "https://minimal.bearblog.dev/why-i-love-my-boox-palma-e-reader/"
+    ]
+  ],
+  [
+    [
+      "2025-11-02, 06:21:37",
+      "https://news.ycombinator.com/item?id=45788194"
+    ],
+    [
+      "Helion: A high-level DSL for performant and portable ML kernels",
+      "https://pytorch.org/blog/helion/"
     ]
   ],
   [
