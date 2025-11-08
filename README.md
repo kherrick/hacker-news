@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-11-08, 21:00:45](https://news.ycombinator.com/item?id=45859928) - [Humans have remote touch 'seventh sense' like sandpipers](https://techxplore.com/news/2025-11-humans-remote-seventh-sandpipers.html)
+* [2025-11-08, 19:47:26](https://news.ycombinator.com/item?id=45859402) - [I Want You to Understand Chicago](https://aphyr.com/posts/397-i-want-you-to-understand-chicago)
 * [2025-11-08, 19:29:44](https://news.ycombinator.com/item?id=45859243) - [Avería: The Average Font (2011)](http://iotic.com/averia/)
 * [2025-11-08, 19:26:25](https://news.ycombinator.com/item?id=45859216) - [Near mid-air collision at LAX between American Airlines and ITA [video]](https://www.youtube.com/watch?v=-j76cp7bETw)
 * [2025-11-08, 19:18:18](https://news.ycombinator.com/item?id=45859160) - [Facebook enables gender discrimination in job ads, European human rights rules](https://www.cnn.com/2025/02/28/tech/facebook-gender-discrimination-europe-ruling-asequals-intl)
@@ -24,7 +25,6 @@
 * [2025-11-07, 14:05:49](https://news.ycombinator.com/item?id=45846517) - [Why I love OCaml (2023)](https://mccd.space/posts/ocaml-the-worlds-best/)
 * [2025-11-04, 11:33:31](https://news.ycombinator.com/item?id=45809782) - [Computational Complexity of Air Travel Planning (2003) [pdf]](http://www.ai.mit.edu/courses/6.034f/psets/ps1/airtravel.pdf)
 * [2025-11-04, 07:22:46](https://news.ycombinator.com/item?id=45808288) - [Reverse engineering a neural network's clever solution to binary addition (2023)](https://cprimozic.net/blog/reverse-engineering-a-small-neural-network/)
-* [2025-11-03, 14:16:17](https://news.ycombinator.com/item?id=45799157) - [C++ move semantics from scratch (2022)](https://cbarrete.com/move-from-scratch.html)
 * [2025-11-03, 11:47:19](https://news.ycombinator.com/item?id=45798068) - [Control structures in programming languages: from goto to algebraic effects](http://xavierleroy.org/control-structures/)
 * [2025-11-02, 20:20:07](https://news.ycombinator.com/item?id=45793060) - [The modern homes hidden inside ancient ruins](https://www.ft.com/content/5f722a2e-71d8-430c-a476-95de2c4ad9a5)
 * [2025-11-02, 19:02:04](https://news.ycombinator.com/item?id=45792555) - [Friendly attributes pattern in Ruby](https://brunosutic.com/blog/ruby-friendly-attributes-pattern)
