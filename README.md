@@ -2,6 +2,7 @@
 
 * [2025-11-08, 21:46:37](https://news.ycombinator.com/item?id=45860351) - [I taught an octopus piano (It took 6 months) [video]](https://www.youtube.com/watch?v=PcWnQ7fYzwI)
 * [2025-11-08, 21:36:39](https://news.ycombinator.com/item?id=45860273) - [How to declutter, quiet down, and take the AI out of Windows 11 25H2](https://arstechnica.com/gadgets/2025/11/what-i-do-to-clean-up-a-clean-install-of-windows-11-23h2-and-edge/)
+* [2025-11-08, 21:32:30](https://news.ycombinator.com/item?id=45860229) - [What Hallucinogens Will Make You See](https://nautil.us/what-hallucinogens-will-make-you-see-308247/)
 * [2025-11-08, 21:00:45](https://news.ycombinator.com/item?id=45859928) - [Humans have remote touch 'seventh sense' like sandpipers](https://techxplore.com/news/2025-11-humans-remote-seventh-sandpipers.html)
 * [2025-11-08, 19:57:52](https://news.ycombinator.com/item?id=45859471) - [Largest Cargo Sailboat Completes Historic First Atlantic Crossing](https://www.marineinsight.com/shipping-news/worlds-largest-cargo-sailboat-completes-historic-first-atlantic-crossing/)
 * [2025-11-08, 19:47:26](https://news.ycombinator.com/item?id=45859402) - [I Want You to Understand Chicago](https://aphyr.com/posts/397-i-want-you-to-understand-chicago)
@@ -16,7 +17,6 @@
 * [2025-11-08, 14:58:03](https://news.ycombinator.com/item?id=45857045) - [An Algebraic Language for the Manipulation of Symbolic Expressions (1958) [pdf]](https://softwarepreservation.computerhistory.org/LISP/MIT/AIM-001.pdf)
 * [2025-11-08, 14:18:22](https://news.ycombinator.com/item?id=45856804) - [Study identifies weaknesses in how AI systems are evaluated](https://www.oii.ox.ac.uk/news-events/study-identifies-weaknesses-in-how-ai-systems-are-evaluated/)
 * [2025-11-08, 12:00:50](https://news.ycombinator.com/item?id=45856069) - [Cekura (YC F24) Is Hiring](https://news.ycombinator.com/item?id=45856069)
-* [2025-11-08, 11:27:56](https://news.ycombinator.com/item?id=45855933) - [My friends and I accidentally faked the Ryzen 7 9700X3D leaks](https://old.reddit.com/r/pcmasterrace/comments/1orc6jl/my_friends_and_i_accidentally_faked_the_ryzen_7/)
 * [2025-11-08, 07:29:35](https://news.ycombinator.com/item?id=45854862) - [Making Democracy Work: Fixing and Simplifying Egalitarian Paxos](https://arxiv.org/abs/2511.02743)
 * [2025-11-08, 00:21:45](https://news.ycombinator.com/item?id=45852895) - [Immutable Software Deploys Using ZFS Jails on FreeBSD](https://conradresearch.com/articles/immutable-software-deploy-zfs-jails)
 * [2025-11-08, 00:14:50](https://news.ycombinator.com/item?id=45852854) - [Valdi – A cross-platform UI framework that delivers native performance](https://github.com/Snapchat/Valdi)
@@ -27,7 +27,7 @@
 * [2025-11-04, 11:33:31](https://news.ycombinator.com/item?id=45809782) - [Computational Complexity of Air Travel Planning (2003) [pdf]](http://www.ai.mit.edu/courses/6.034f/psets/ps1/airtravel.pdf)
 * [2025-11-03, 11:47:19](https://news.ycombinator.com/item?id=45798068) - [Control structures in programming languages: from goto to algebraic effects](http://xavierleroy.org/control-structures/)
 * [2025-11-02, 20:20:07](https://news.ycombinator.com/item?id=45793060) - [The modern homes hidden inside ancient ruins](https://www.ft.com/content/5f722a2e-71d8-430c-a476-95de2c4ad9a5)
-* [2025-11-02, 19:02:04](https://news.ycombinator.com/item?id=45792555) - [Friendly attributes pattern in Ruby](https://brunosutic.com/blog/ruby-friendly-attributes-pattern)
+* [2025-11-02, 14:44:02](https://news.ycombinator.com/item?id=45790672) - [Open-source communications by bouncing signals off the Moon](https://open.space/)
 * [2025-11-01, 16:02:11](https://news.ycombinator.com/item?id=45782713) - [Syntax and Semantics of Programming Languages](https://homepage.cs.uiowa.edu/~slonnegr/plf/Book/)
 * [2025-10-31, 20:30:10](https://news.ycombinator.com/item?id=45776368) - [My first fifteen compilers (2019)](https://blog.sigplan.org/2019/07/09/my-first-fifteen-compilers/)
 

@@ -34,6 +34,7 @@
 * [2025-11-02, 15:12:08](https://news.ycombinator.com/item?id=45790867) - [New South Korean national law will turn large parking lots into solar farms](https://electrek.co/2025/11/02/new-national-law-will-turn-large-parking-lots-into-solar-power-farms/)
 * [2025-11-02, 15:06:36](https://news.ycombinator.com/item?id=45790827) - [\"Why don't you use dependent types?\"](https://lawrencecpaulson.github.io//2025/11/02/Why-not-dependent.html)
 * [2025-11-02, 14:44:35](https://news.ycombinator.com/item?id=45790677) - ['Do not trust your eyes': AI generates surge in expense fraud](https://www.ft.com/content/0849f8fe-2674-4eae-a134-587340829a58)
+* [2025-11-02, 14:44:02](https://news.ycombinator.com/item?id=45790672) - [Open-source communications by bouncing signals off the Moon](https://open.space/)
 * [2025-11-02, 14:04:07](https://news.ycombinator.com/item?id=45790443) - [Show HN: Anki-LLM – Bulk process and generate Anki flashcards with LLMs](https://github.com/raine/anki-llm)
 * [2025-11-02, 13:43:08](https://news.ycombinator.com/item?id=45790293) - [Writing FreeDOS Programs in C](https://www.freedos.org/books/cprogramming/)
 * [2025-11-02, 13:14:16](https://news.ycombinator.com/item?id=45790061) - [A prison of my own making](https://jsteuernagel.de/posts/a-prison-of-my-own-making/)
