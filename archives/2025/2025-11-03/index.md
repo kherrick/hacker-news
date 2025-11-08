@@ -24,6 +24,7 @@
 * [2025-11-03, 18:16:43](https://news.ycombinator.com/item?id=45802290) - [Agent-O-rama: build LLM agents in Java or Clojure](https://blog.redplanetlabs.com/2025/11/03/introducing-agent-o-rama-build-trace-evaluate-and-monitor-stateful-llm-agents-in-java-or-clojure/)
 * [2025-11-03, 18:14:02](https://news.ycombinator.com/item?id=45802248) - [America is bracing for political violence – and significant portion think its OK](https://www.politico.com/news/2025/11/03/poll-americans-political-violence-00632864)
 * [2025-11-03, 17:55:10](https://news.ycombinator.com/item?id=45802029) - [The Case That A.I. Is Thinking](https://www.newyorker.com/magazine/2025/11/10/the-case-that-ai-is-thinking)
+* [2025-11-03, 17:31:45](https://news.ycombinator.com/item?id=45801721) - [What Is a Manifold?](https://www.quantamagazine.org/what-is-a-manifold-20251103/)
 * [2025-11-03, 17:28:58](https://news.ycombinator.com/item?id=45801673) - [Israels top military lawyer arrested after she admitted leaking video of abuse](https://www.theguardian.com/world/2025/nov/03/israels-top-military-lawyer-arrested-after-she-admitted-leaking-video-of-soldiers-abuse)
 * [2025-11-03, 17:27:12](https://news.ycombinator.com/item?id=45801651) - [How to find your ideal customer, right away](https://www.reifyworks.com/writing/2023-01-30-iicp)
 * [2025-11-03, 17:25:49](https://news.ycombinator.com/item?id=45801630) - [Learning a Bit of VGA](https://www.usebox.net/jjm/blog/learning-a-bit-of-vga/)
