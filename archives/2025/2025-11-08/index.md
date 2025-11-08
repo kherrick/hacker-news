@@ -27,6 +27,7 @@
 * [2025-11-08, 14:52:26](https://news.ycombinator.com/item?id=45856998) - [Sam Altman Is Getting Desperate and It Is Starting to Show](https://tickerfeed.net/articles/sam-altman-reeks-of-desperation)
 * [2025-11-08, 14:50:51](https://news.ycombinator.com/item?id=45856987) - [Btop: A better modern alternative of htop with a gamified interface](https://github.com/aristocratos/btop)
 * [2025-11-08, 14:33:00](https://news.ycombinator.com/item?id=45856883) - [Why Sam Altman Won't Be on the Hook for OpenAI's Spending Spree](https://www.forbes.com/sites/rashishrivastava/2025/11/07/why-sam-altman-wont-be-on-the-hook-for-openais-massive-spending-spree/)
+* [2025-11-08, 14:18:22](https://news.ycombinator.com/item?id=45856804) - [Study identifies weaknesses in how AI systems are evaluated](https://www.oii.ox.ac.uk/news-events/study-identifies-weaknesses-in-how-ai-systems-are-evaluated/)
 * [2025-11-08, 14:18:22](https://news.ycombinator.com/item?id=45856804) - [AI benchmarks are a bad joke – and LLM makers are the ones laughing](https://www.theregister.com/2025/11/07/measuring_ai_models_hampered_by/)
 * [2025-11-08, 13:55:20](https://news.ycombinator.com/item?id=45856681) - ['Black Hole Sun' by Soundgarden](https://faroutmagazine.co.uk/the-story-behind-soundgarden-black-hole-sun/)
 * [2025-11-08, 13:48:41](https://news.ycombinator.com/item?id=45856640) - [Things I've Heard Boomers Say That I Agree with 100%](https://wildingout.substack.com/p/12-things-ive-heard-boomers-say-that)
