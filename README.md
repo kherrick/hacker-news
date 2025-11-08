@@ -2,6 +2,7 @@
 
 * [2025-11-08, 16:25:41](https://news.ycombinator.com/item?id=45857836) - [Cloudflare Scrubs Aisuru Botnet from Top Domains List](https://krebsonsecurity.com/2025/11/cloudflare-scrubs-aisuru-botnet-from-top-domains-list/)
 * [2025-11-08, 16:12:14](https://news.ycombinator.com/item?id=45857695) - [52 Year old data tape could contain Unix history](https://www.theregister.com/2025/11/07/unix_fourth_edition_tape_rediscovered/)
+* [2025-11-08, 15:43:13](https://news.ycombinator.com/item?id=45857449) - [Authorities Shut Down Film Festival in New York](https://www.hrw.org/news/2025/11/07/china-authorities-shut-down-film-festival-in-new-york)
 * [2025-11-08, 14:59:05](https://news.ycombinator.com/item?id=45857053) - [Ticker: Don't Die of Heart Disease](https://myticker.com/)
 * [2025-11-08, 14:58:03](https://news.ycombinator.com/item?id=45857045) - [An Algebraic Language for the Manipulation of Symbolic Expressions (1958) [pdf]](https://softwarepreservation.computerhistory.org/LISP/MIT/AIM-001.pdf)
 * [2025-11-08, 14:54:38](https://news.ycombinator.com/item?id=45857016) - [Zig is so cool, C is cooler](https://github.com/little-book-of/c/blob/main/articles/zig-is-cool-c-is-cooler.md)
@@ -21,7 +22,6 @@
 * [2025-11-07, 20:01:09](https://news.ycombinator.com/item?id=45850382) - [How did I get here?](https://how-did-i-get-here.net/)
 * [2025-11-07, 18:45:35](https://news.ycombinator.com/item?id=45849528) - [Ruby already solved my problem](https://newsletter.masilotti.com/p/ruby-already-solved-my-problem)
 * [2025-11-07, 18:27:36](https://news.ycombinator.com/item?id=45849342) - [Myna: Monospace typeface designed for symbol-heavy programming languages](https://github.com/sayyadirfanali/Myna)
-* [2025-11-07, 17:03:30](https://news.ycombinator.com/item?id=45848468) - [Angel Investors, a Field Guide](https://www.jeanyang.com/posts/angel-investors-a-field-guide/)
 * [2025-11-07, 14:05:49](https://news.ycombinator.com/item?id=45846517) - [Why I love OCaml (2023)](https://mccd.space/posts/ocaml-the-worlds-best/)
 * [2025-11-04, 11:33:31](https://news.ycombinator.com/item?id=45809782) - [Computational Complexity of Air Travel Planning (2003) [pdf]](http://www.ai.mit.edu/courses/6.034f/psets/ps1/airtravel.pdf)
 * [2025-11-04, 07:22:46](https://news.ycombinator.com/item?id=45808288) - [Reverse engineering a neural network's clever solution to binary addition (2023)](https://cprimozic.net/blog/reverse-engineering-a-small-neural-network/)
