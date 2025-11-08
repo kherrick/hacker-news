@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-11-08, 03:54:30",
+      "https://news.ycombinator.com/item?id=45853995"
+    ],
+    [
+      "Oddest ChatGPT leaks yet: Cringey chat logs found in Google Analytics tool",
+      "https://arstechnica.com/tech-policy/2025/11/oddest-chatgpt-leaks-yet-cringey-chat-logs-found-in-google-analytics-tool/"
+    ]
+  ],
+  [
+    [
       "2025-11-08, 01:18:12",
       "https://news.ycombinator.com/item?id=45853204"
     ],
@@ -97,16 +107,6 @@
     [
       "How a devboard works (and how to make your own)",
       "https://kaipereira.com/journal/build-a-devboard"
-    ]
-  ],
-  [
-    [
-      "2025-11-07, 22:34:15",
-      "https://news.ycombinator.com/item?id=45852011"
-    ],
-    [
-      "He Jiankui PhD Thesis: Spontaneous Emergence of Hierarchy in Biological Systems (2010)",
-      "https://repository.rice.edu/server/api/core/bitstreams/85449216-b2ec-4519-87cf-83eafe4534e7/content"
     ]
   ],
   [
@@ -261,16 +261,6 @@
   ],
   [
     [
-      "2025-11-03, 11:55:02",
-      "https://news.ycombinator.com/item?id=45798123"
-    ],
-    [
-      "Understanding traffic",
-      "https://dr2chase.wordpress.com/"
-    ]
-  ],
-  [
-    [
       "2025-11-03, 07:11:14",
       "https://news.ycombinator.com/item?id=45796575"
     ],
@@ -297,6 +287,16 @@
     [
       "Why I love my Boox Palma e-reader",
       "https://minimal.bearblog.dev/why-i-love-my-boox-palma-e-reader/"
+    ]
+  ],
+  [
+    [
+      "2025-11-01, 22:34:49",
+      "https://news.ycombinator.com/item?id=45786042"
+    ],
+    [
+      "Can you save on LLM tokens using images instead of text?",
+      "https://pagewatch.ai/blog/post/llm-text-as-image-tokens/"
     ]
   ]
 ]
