@@ -65,7 +65,7 @@
       "https://news.ycombinator.com/item?id=45857836"
     ],
     [
-      "Cloudflare Scrubs Aisuru Botnet from Top Domains List",
+      "Cloudflare scrubs Aisuru botnet from top domains list",
       "https://krebsonsecurity.com/2025/11/cloudflare-scrubs-aisuru-botnet-from-top-domains-list/"
     ]
   ],
@@ -181,16 +181,6 @@
   ],
   [
     [
-      "2025-11-08, 00:00:27",
-      "https://news.ycombinator.com/item?id=45852751"
-    ],
-    [
-      "Cerebras Code now supports GLM 4.6 at 1000 tokens/sec",
-      "https://www.cerebras.ai/code"
-    ]
-  ],
-  [
-    [
       "2025-11-07, 23:04:39",
       "https://news.ycombinator.com/item?id=45852328"
     ],
@@ -257,6 +247,16 @@
     [
       "C++ move semantics from scratch (2022)",
       "https://cbarrete.com/move-from-scratch.html"
+    ]
+  ],
+  [
+    [
+      "2025-11-03, 11:47:19",
+      "https://news.ycombinator.com/item?id=45798068"
+    ],
+    [
+      "Control structures in programming languages: from goto to algebraic effects",
+      "http://xavierleroy.org/control-structures/"
     ]
   ],
   [
