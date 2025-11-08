@@ -41,16 +41,6 @@
   ],
   [
     [
-      "2025-11-08, 18:51:37",
-      "https://news.ycombinator.com/item?id=45858959"
-    ],
-    [
-      "Firefox Forcing LLM Features",
-      "https://equk.co.uk/2025/10/28/firefox-forcing-llm-features/"
-    ]
-  ],
-  [
-    [
       "2025-11-08, 18:49:47",
       "https://news.ycombinator.com/item?id=45858945"
     ],
@@ -125,8 +115,8 @@
       "https://news.ycombinator.com/item?id=45856804"
     ],
     [
-      "AI benchmarks are a bad joke – and LLM makers are the ones laughing",
-      "https://www.theregister.com/2025/11/07/measuring_ai_models_hampered_by/"
+      "Study identifies weaknesses in how AI systems are evaluated",
+      "https://www.oii.ox.ac.uk/news-events/study-identifies-weaknesses-in-how-ai-systems-are-evaluated/"
     ]
   ],
   [
@@ -187,6 +177,16 @@
     [
       "Valdi – A cross-platform UI framework that delivers native performance",
       "https://github.com/Snapchat/Valdi"
+    ]
+  ],
+  [
+    [
+      "2025-11-08, 00:00:27",
+      "https://news.ycombinator.com/item?id=45852751"
+    ],
+    [
+      "Cerebras Code now supports GLM 4.6 at 1000 tokens/sec",
+      "https://www.cerebras.ai/code"
     ]
   ],
   [
