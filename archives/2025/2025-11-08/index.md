@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-11-08](index.md)
 
 * [2025-11-08, 18:53:01](https://news.ycombinator.com/item?id=45858967) - [The Medici Method](https://letter.palladiummag.com/p/early-article-the-medici-method)
+* [2025-11-08, 18:43:55](https://news.ycombinator.com/item?id=45858905) - [Marko – A declarative, HTML‑based language that makes building web apps fun](https://markojs.com/)
 * [2025-11-08, 17:34:39](https://news.ycombinator.com/item?id=45858404) - [Driver livestreams on TikTok as she apparently hits and kills man in Chicago](https://www.theguardian.com/us-news/2025/nov/08/tiktok-live-stream-fatal-crash-chicago)
 * [2025-11-08, 16:30:32](https://news.ycombinator.com/item?id=45857890) - [Mothers say chatbots encouraged their sons to kill themselves](https://www.bbc.com/news/articles/ce3xgwyywe4o)
 * [2025-11-08, 16:25:41](https://news.ycombinator.com/item?id=45857836) - [Cloudflare Scrubs Aisuru Botnet from Top Domains List](https://krebsonsecurity.com/2025/11/cloudflare-scrubs-aisuru-botnet-from-top-domains-list/)
