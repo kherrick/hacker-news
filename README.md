@@ -3,6 +3,7 @@
 * [2025-11-08, 09:58:09](https://news.ycombinator.com/item?id=45855546) - [A rats to riches story: Larry the Downing Street cat finds place in TV spotlight](https://www.theguardian.com/politics/2025/nov/08/a-rats-to-riches-story-larry-the-downing-street-cat-finds-place-in-tv-spotlight)
 * [2025-11-08, 07:29:35](https://news.ycombinator.com/item?id=45854862) - [Making Democracy Work: Fixing and Simplifying Egalitarian Paxos](https://arxiv.org/abs/2511.02743)
 * [2025-11-08, 05:37:08](https://news.ycombinator.com/item?id=45854441) - [Apple's \"notarisation\" – blocking software freedom of developers and users](https://fsfe.org/news/2025/news-20251105-01.en.html)
+* [2025-11-08, 03:24:25](https://news.ycombinator.com/item?id=45853849) - [GPT-OSS 120B Runs at 3000 tokens/sec on Cerebras](https://www.cerebras.ai/blog/openai-gpt-oss-120b-runs-fastest-on-cerebras)
 * [2025-11-08, 02:27:48](https://news.ycombinator.com/item?id=45853536) - [Local First Htmx](https://elijahm.com/posts/local_first_htmx/)
 * [2025-11-08, 01:18:12](https://news.ycombinator.com/item?id=45853204) - [Running a 68060 CPU in Quadra 650](https://github.com/ZigZagJoe/Macintosh-Q650-68060)
 * [2025-11-08, 00:21:45](https://news.ycombinator.com/item?id=45852895) - [Immutable Software Deploys Using ZFS Jails on FreeBSD](https://conradresearch.com/articles/immutable-software-deploy-zfs-jails)
@@ -28,7 +29,6 @@
 * [2025-11-02, 19:02:04](https://news.ycombinator.com/item?id=45792555) - [Friendly Attributes Pattern in Ruby](https://brunosutic.com/blog/ruby-friendly-attributes-pattern)
 * [2025-11-02, 17:43:18](https://news.ycombinator.com/item?id=45792012) - [Cure – Verification-First Programming for the Beam](https://cure-lang.org/index.html)
 * [2025-11-02, 06:21:37](https://news.ycombinator.com/item?id=45788194) - [Helion: A high-level DSL for performant and portable ML kernels](https://pytorch.org/blog/helion/)
-* [2025-11-02, 03:43:02](https://news.ycombinator.com/item?id=45787714) - [Hashtable vs. A-list in Scheme, which to choose?](https://nalaginrut.com/archives/2025/11/02/hashtable_vs_alist)
 * [2025-11-01, 22:34:49](https://news.ycombinator.com/item?id=45786042) - [Can you save on LLM tokens using images instead of text?](https://pagewatch.ai/blog/post/llm-text-as-image-tokens/)
 
 ## [Archives](archives/index.md)
