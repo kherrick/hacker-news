@@ -6,7 +6,9 @@
 
 * [2025-11-07, 23:04:39](https://news.ycombinator.com/item?id=45852328) - [Why is Zig so Cool?](https://nilostolte.github.io/tech/articles/ZigCool.html)
 * [2025-11-07, 22:59:04](https://news.ycombinator.com/item?id=45852275) - [FAA restricts commercial rocket launches indefinitely due to air traffic risks](https://www.space.com/space-exploration/launches-spacecraft/faa-restricts-commercial-rocket-launches-indefinitely-due-to-air-traffic-risks-from-government-shutdown)
+* [2025-11-07, 22:57:18](https://news.ycombinator.com/item?id=45852257) - [Mind captioning: Evolving descriptive text of mental content of brain activity](https://www.science.org/doi/10.1126/sciadv.adw1464)
 * [2025-11-07, 22:35:28](https://news.ycombinator.com/item?id=45852029) - [How a devboard works (and how to make your own)](https://kaipereira.com/journal/build-a-devboard)
+* [2025-11-07, 22:34:15](https://news.ycombinator.com/item?id=45852011) - [He Jiankui PhD Thesis: Spontaneous Emergence of Hierarchy in Biological Systems](https://repository.rice.edu/server/api/core/bitstreams/85449216-b2ec-4519-87cf-83eafe4534e7/content)
 * [2025-11-07, 22:15:41](https://news.ycombinator.com/item?id=45851807) - [Show HN: VoxConvo – \"X but it's only voice messages\"](https://voxconvo.com)
 * [2025-11-07, 22:13:37](https://news.ycombinator.com/item?id=45851786) - [Using the Web Monetization API for fun and profit](https://blog.tomayac.com/2025/11/07/using-the-web-monetization-api-for-fun-and-profit/)
 * [2025-11-07, 21:45:03](https://news.ycombinator.com/item?id=45851495) - [Becoming a Compiler Engineer](https://rona.substack.com/p/becoming-a-compiler-engineer)
