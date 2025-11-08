@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-11-08, 12:16:22",
+      "https://news.ycombinator.com/item?id=45856136"
+    ],
+    [
+      "Kagi Small Web",
+      "https://kagi.com/smallweb"
+    ]
+  ],
+  [
+    [
       "2025-11-08, 12:00:50",
       "https://news.ycombinator.com/item?id=45856069"
     ],
@@ -27,16 +37,6 @@
     [
       "My friends and I accidentally faked the Ryzen 7 9700X3D leaks",
       "https://old.reddit.com/r/pcmasterrace/comments/1orc6jl/my_friends_and_i_accidentally_faked_the_ryzen_7/"
-    ]
-  ],
-  [
-    [
-      "2025-11-08, 11:03:11",
-      "https://news.ycombinator.com/item?id=45855829"
-    ],
-    [
-      "The Tech CEO 'Making No Apologies for the Work with ICE' (Alex Karp)",
-      "https://www.politico.com/news/magazine/2025/11/06/alex-karp-book-michael-steinberger-trump-evolution-00638951"
     ]
   ],
   [
@@ -91,6 +91,16 @@
   ],
   [
     [
+      "2025-11-08, 00:37:36",
+      "https://news.ycombinator.com/item?id=45852974"
+    ],
+    [
+      "Mullvad: Shutting down our search proxy Leta",
+      "https://mullvad.net/en/blog/shutting-down-our-search-proxy-leta"
+    ]
+  ],
+  [
+    [
       "2025-11-08, 00:21:45",
       "https://news.ycombinator.com/item?id=45852895"
     ],
@@ -105,8 +115,18 @@
       "https://news.ycombinator.com/item?id=45852854"
     ],
     [
-      "Valdi – A cross-platform UI framework",
+      "Valdi – A cross-platform UI framework that delivers native performance",
       "https://github.com/Snapchat/Valdi"
+    ]
+  ],
+  [
+    [
+      "2025-11-08, 00:00:27",
+      "https://news.ycombinator.com/item?id=45852751"
+    ],
+    [
+      "Cerebras Code now supports GLM 4.6 at 1000 tokens/sec",
+      "https://www.cerebras.ai/code"
     ]
   ],
   [
@@ -121,21 +141,11 @@
   ],
   [
     [
-      "2025-11-07, 22:35:28",
-      "https://news.ycombinator.com/item?id=45852029"
-    ],
-    [
-      "How a devboard works (and how to make your own)",
-      "https://kaipereira.com/journal/build-a-devboard"
-    ]
-  ],
-  [
-    [
       "2025-11-07, 21:45:03",
       "https://news.ycombinator.com/item?id=45851495"
     ],
     [
-      "Becoming a Compiler Engineer",
+      "Becoming a compiler engineer",
       "https://rona.substack.com/p/becoming-a-compiler-engineer"
     ]
   ],
@@ -185,7 +195,7 @@
       "https://news.ycombinator.com/item?id=45849528"
     ],
     [
-      "Ruby Solved My Problem",
+      "Ruby already solved my problem",
       "https://newsletter.masilotti.com/p/ruby-already-solved-my-problem"
     ]
   ],
@@ -221,16 +231,6 @@
   ],
   [
     [
-      "2025-11-04, 10:32:26",
-      "https://news.ycombinator.com/item?id=45809429"
-    ],
-    [
-      "Transducer: Composition, abstraction, performance (2018)",
-      "https://funktionale-programmierung.de/en/2018/03/22/transducer.html"
-    ]
-  ],
-  [
-    [
       "2025-11-04, 09:27:57",
       "https://news.ycombinator.com/item?id=45809007"
     ],
@@ -245,7 +245,7 @@
       "https://news.ycombinator.com/item?id=45808288"
     ],
     [
-      "Reverse Engineering a Neural Network's Clever Solution to Binary Addition (2023)",
+      "Reverse engineering a neural network's clever solution to binary addition (2023)",
       "https://cprimozic.net/blog/reverse-engineering-a-small-neural-network/"
     ]
   ],
@@ -255,7 +255,7 @@
       "https://news.ycombinator.com/item?id=45801651"
     ],
     [
-      "How to find your ideal customer, right away",
+      "The Initial Ideal Customer Profile Worksheet",
       "https://www.reifyworks.com/writing/2023-01-30-iicp"
     ]
   ],
@@ -265,7 +265,7 @@
       "https://news.ycombinator.com/item?id=45799949"
     ],
     [
-      "Dark Mode by Local Sunlight",
+      "Dark mode by local sunlight (2021)",
       "https://www.ctnicholas.dev/articles/dark-mode-by-sunlight"
     ]
   ],
@@ -285,7 +285,7 @@
       "https://news.ycombinator.com/item?id=45792555"
     ],
     [
-      "Friendly Attributes Pattern in Ruby",
+      "Friendly attributes pattern in Ruby",
       "https://brunosutic.com/blog/ruby-friendly-attributes-pattern"
     ]
   ],
