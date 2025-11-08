@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-11-08, 01:18:12](https://news.ycombinator.com/item?id=45853204) - [Running a 68060 CPU in Quadra 650](https://github.com/ZigZagJoe/Macintosh-Q650-68060)
 * [2025-11-08, 01:07:26](https://news.ycombinator.com/item?id=45853155) - [Older Adults Outnumber Children in 11 States](https://www.census.gov/newsroom/press-releases/2025/older-adults-outnumber-children.html)
 * [2025-11-08, 00:37:36](https://news.ycombinator.com/item?id=45852974) - [Mullvad: Shutting down our search proxy Leta](https://mullvad.net/en/blog/shutting-down-our-search-proxy-leta)
 * [2025-11-08, 00:21:45](https://news.ycombinator.com/item?id=45852895) - [Immutable Software Deploys Using ZFS Jails on FreeBSD](https://conradresearch.com/articles/immutable-software-deploy-zfs-jails)
@@ -21,7 +22,6 @@
 * [2025-11-07, 18:27:36](https://news.ycombinator.com/item?id=45849342) - [Myna: Monospace typeface designed for symbol-heavy programming languages](https://github.com/sayyadirfanali/Myna)
 * [2025-11-07, 17:03:30](https://news.ycombinator.com/item?id=45848468) - [Angel Investors, a Field Guide](https://www.jeanyang.com/posts/angel-investors-a-field-guide/)
 * [2025-11-07, 14:05:49](https://news.ycombinator.com/item?id=45846517) - [Why I love OCaml (2023)](https://mccd.space/posts/ocaml-the-worlds-best/)
-* [2025-11-07, 13:52:39](https://news.ycombinator.com/item?id=45846360) - [I'm making a small RPG and I need feeback regarding performance](https://jslegenddev.substack.com/p/im-making-a-small-rpg-and-i-need)
 * [2025-11-04, 11:27:59](https://news.ycombinator.com/item?id=45809746) - [Shell Grotto: England's mysterious underground seashell chamber](https://boingboing.net/2025/09/05/shell-grotto-englands-mysterious-underground-seashell-chamber.html)
 * [2025-11-04, 10:32:26](https://news.ycombinator.com/item?id=45809429) - [Transducer: Composition, abstraction, performance (2018)](https://funktionale-programmierung.de/en/2018/03/22/transducer.html)
 * [2025-11-04, 09:27:57](https://news.ycombinator.com/item?id=45809007) - [Venn Diagram for 7 Sets](https://moebio.com/research/sevensets/)

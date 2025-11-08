@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-11-08](index.md)
 
 * [2025-11-08, 01:39:18](https://news.ycombinator.com/item?id=45853292) - [Sam Altman's pants are on fire](https://garymarcus.substack.com/p/sam-altmans-pants-are-totally-on)
+* [2025-11-08, 01:18:12](https://news.ycombinator.com/item?id=45853204) - [Running a 68060 CPU in Quadra 650](https://github.com/ZigZagJoe/Macintosh-Q650-68060)
 * [2025-11-08, 01:07:26](https://news.ycombinator.com/item?id=45853155) - [Older Adults Outnumber Children in 11 States](https://www.census.gov/newsroom/press-releases/2025/older-adults-outnumber-children.html)
 * [2025-11-08, 00:37:36](https://news.ycombinator.com/item?id=45852974) - [Mullvad: Shutting down our search proxy Leta](https://mullvad.net/en/blog/shutting-down-our-search-proxy-leta)
 * [2025-11-08, 00:21:45](https://news.ycombinator.com/item?id=45852895) - [Immutable Software Deploys Using ZFS Jails on FreeBSD](https://conradresearch.com/articles/immutable-software-deploy-zfs-jails)
