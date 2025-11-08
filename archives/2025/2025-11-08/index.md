@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-11-08](index.md)
 
+* [2025-11-08, 19:11:16](https://news.ycombinator.com/item?id=45859107) - [Transparent computer monitor designed to protect your vision](https://www.visualinstruments.co/phantom/display)
 * [2025-11-08, 18:53:01](https://news.ycombinator.com/item?id=45858967) - [The Medici Method](https://letter.palladiummag.com/p/early-article-the-medici-method)
 * [2025-11-08, 18:51:37](https://news.ycombinator.com/item?id=45858959) - [Firefox Forcing LLM Features](https://equk.co.uk/2025/10/28/firefox-forcing-llm-features/)
 * [2025-11-08, 18:49:47](https://news.ycombinator.com/item?id=45858945) - [WriterdeckOS](https://writerdeckos.com)

@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-11-08, 19:11:16](https://news.ycombinator.com/item?id=45859107) - [Transparent computer monitor designed to protect your vision](https://www.visualinstruments.co/phantom/display)
 * [2025-11-08, 18:51:37](https://news.ycombinator.com/item?id=45858959) - [Firefox Forcing LLM Features](https://equk.co.uk/2025/10/28/firefox-forcing-llm-features/)
 * [2025-11-08, 18:49:47](https://news.ycombinator.com/item?id=45858945) - [WriterdeckOS](https://writerdeckos.com)
 * [2025-11-08, 18:43:55](https://news.ycombinator.com/item?id=45858905) - [Marko – A declarative, HTML‑based language that makes building web apps fun](https://markojs.com/)
@@ -28,7 +29,6 @@
 * [2025-11-03, 14:16:17](https://news.ycombinator.com/item?id=45799157) - [C++ move semantics from scratch (2022)](https://cbarrete.com/move-from-scratch.html)
 * [2025-11-02, 20:20:07](https://news.ycombinator.com/item?id=45793060) - [The modern homes hidden inside ancient ruins](https://www.ft.com/content/5f722a2e-71d8-430c-a476-95de2c4ad9a5)
 * [2025-11-02, 19:02:04](https://news.ycombinator.com/item?id=45792555) - [Friendly attributes pattern in Ruby](https://brunosutic.com/blog/ruby-friendly-attributes-pattern)
-* [2025-11-02, 11:07:02](https://news.ycombinator.com/item?id=45789447) - [Nubeian Translation for Childhood Songs by Hamza El Din](https://nubianfoundation.org/translations/)
 * [2025-11-01, 16:02:11](https://news.ycombinator.com/item?id=45782713) - [Syntax and Semantics of Programming Languages](https://homepage.cs.uiowa.edu/~slonnegr/plf/Book/)
 
 ## [Archives](archives/index.md)
