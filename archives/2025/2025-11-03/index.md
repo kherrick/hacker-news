@@ -24,6 +24,7 @@
 * [2025-11-03, 18:14:02](https://news.ycombinator.com/item?id=45802248) - [America is bracing for political violence – and significant portion think its OK](https://www.politico.com/news/2025/11/03/poll-americans-political-violence-00632864)
 * [2025-11-03, 17:55:10](https://news.ycombinator.com/item?id=45802029) - [The Case That A.I. Is Thinking](https://www.newyorker.com/magazine/2025/11/10/the-case-that-ai-is-thinking)
 * [2025-11-03, 17:28:58](https://news.ycombinator.com/item?id=45801673) - [Israels top military lawyer arrested after she admitted leaking video of abuse](https://www.theguardian.com/world/2025/nov/03/israels-top-military-lawyer-arrested-after-she-admitted-leaking-video-of-soldiers-abuse)
+* [2025-11-03, 17:27:12](https://news.ycombinator.com/item?id=45801651) - [How to find your ideal customer, right away](https://www.reifyworks.com/writing/2023-01-30-iicp)
 * [2025-11-03, 17:25:49](https://news.ycombinator.com/item?id=45801630) - [Learning a Bit of VGA](https://www.usebox.net/jjm/blog/learning-a-bit-of-vga/)
 * [2025-11-03, 17:08:22](https://news.ycombinator.com/item?id=45801416) - [Why Engineers Can't Be Rational About Programming Languages](https://spf13.com/p/the-hidden-conversation/)
 * [2025-11-03, 16:53:46](https://news.ycombinator.com/item?id=45801221) - [Show HN: I was tired of wasting engineer time on screening calls so I built Niju](https://niju.dev)
