@@ -19,6 +19,7 @@
 * [2025-11-02, 20:04:15](https://news.ycombinator.com/item?id=45792958) - ['This is the big one' – tech firms bet on electrifying rail](https://www.bbc.com/news/articles/czdjg92y00no)
 * [2025-11-02, 20:02:31](https://news.ycombinator.com/item?id=45792951) - [MTurk is 20 years old today – what did you create with it?](https://news.ycombinator.com/item?id=45792951)
 * [2025-11-02, 19:05:32](https://news.ycombinator.com/item?id=45792579) - [Lisp: Notes on its Past and Future (1980)](https://www-formal.stanford.edu/jmc/lisp20th/lisp20th.html)
+* [2025-11-02, 19:02:04](https://news.ycombinator.com/item?id=45792555) - [Friendly Attributes Pattern in Ruby](https://brunosutic.com/blog/ruby-friendly-attributes-pattern)
 * [2025-11-02, 18:54:59](https://news.ycombinator.com/item?id=45792503) - [Linux gamers on Steam cross over the 3% mark](https://www.gamingonlinux.com/2025/11/linux-gamers-on-steam-finally-cross-over-the-3-mark/)
 * [2025-11-02, 18:46:15](https://news.ycombinator.com/item?id=45792435) - [Y Combinator Interview Practice Simulation](https://www.kydarin.com/uses/y-combinator-interview-practice-simulation)
 * [2025-11-02, 18:45:35](https://news.ycombinator.com/item?id=45792429) - [React-Native-Godot](https://github.com/borndotcom/react-native-godot)
