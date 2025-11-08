@@ -64,6 +64,7 @@
 * [2025-11-02, 04:59:39](https://news.ycombinator.com/item?id=45787948) - [Plumbing vs. Internet, Revisited](https://gwern.net/blog/2025/plumbing-vs-internet)
 * [2025-11-02, 04:27:31](https://news.ycombinator.com/item?id=45787842) - [LM8560, the eternal chip from the 1980 years](https://www.tycospages.com/other-themes/lm8560-the-eternal-chip-from-the-1980-years/)
 * [2025-11-02, 04:03:53](https://news.ycombinator.com/item?id=45787775) - [You Don't Need Anubis](https://fxgn.dev/blog/anubis/)
+* [2025-11-02, 03:43:02](https://news.ycombinator.com/item?id=45787714) - [Hashtable vs. A-list in Scheme, which to choose?](https://nalaginrut.com/archives/2025/11/02/hashtable_vs_alist)
 * [2025-11-02, 03:07:15](https://news.ycombinator.com/item?id=45787571) - [Crossfire: High-performance lockless spsc/mpsc/mpmc channels for Rust](https://github.com/frostyplanet/crossfire-rs)
 * [2025-11-02, 02:27:44](https://news.ycombinator.com/item?id=45787403) - [Writing an Asciidoc Parser in Rust: Asciidocr](https://www.bikesbooksandbullshit.com/bullshit/2025/01/08/writing-an-asciidoc-parser-in-rust.html)
 * [2025-11-02, 01:10:44](https://news.ycombinator.com/item?id=45787036) - [A Few Words About Async](https://yoric.github.io/post/quite-a-few-words-about-async/)
