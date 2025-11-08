@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-11-08, 19:47:26](https://news.ycombinator.com/item?id=45859402) - [I Want You to Understand Chicago](https://aphyr.com/posts/397-i-want-you-to-understand-chicago)
 * [2025-11-08, 19:29:44](https://news.ycombinator.com/item?id=45859243) - [Avería: The Average Font (2011)](http://iotic.com/averia/)
 * [2025-11-08, 19:26:25](https://news.ycombinator.com/item?id=45859216) - [Near mid-air collision at LAX between American Airlines and ITA [video]](https://www.youtube.com/watch?v=-j76cp7bETw)
 * [2025-11-08, 19:18:18](https://news.ycombinator.com/item?id=45859160) - [Facebook enables gender discrimination in job ads, European human rights rules](https://www.cnn.com/2025/02/28/tech/facebook-gender-discrimination-europe-ruling-asequals-intl)
@@ -30,6 +29,7 @@
 * [2025-11-02, 20:20:07](https://news.ycombinator.com/item?id=45793060) - [The modern homes hidden inside ancient ruins](https://www.ft.com/content/5f722a2e-71d8-430c-a476-95de2c4ad9a5)
 * [2025-11-02, 19:02:04](https://news.ycombinator.com/item?id=45792555) - [Friendly attributes pattern in Ruby](https://brunosutic.com/blog/ruby-friendly-attributes-pattern)
 * [2025-11-01, 16:02:11](https://news.ycombinator.com/item?id=45782713) - [Syntax and Semantics of Programming Languages](https://homepage.cs.uiowa.edu/~slonnegr/plf/Book/)
+* [2025-10-31, 20:30:10](https://news.ycombinator.com/item?id=45776368) - [My first fifteen compilers (2019)](https://blog.sigplan.org/2019/07/09/my-first-fifteen-compilers/)
 
 ## [Archives](archives/index.md)
 
