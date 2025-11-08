@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-11-08](index.md)
 
+* [2025-11-08, 21:46:37](https://news.ycombinator.com/item?id=45860351) - [I taught an octopus piano (It took 6 months) [video]](https://www.youtube.com/watch?v=PcWnQ7fYzwI)
 * [2025-11-08, 21:00:45](https://news.ycombinator.com/item?id=45859928) - [Humans have remote touch 'seventh sense' like sandpipers](https://techxplore.com/news/2025-11-humans-remote-seventh-sandpipers.html)
+* [2025-11-08, 19:57:52](https://news.ycombinator.com/item?id=45859471) - [Largest Cargo Sailboat Completes Historic First Atlantic Crossing](https://www.marineinsight.com/shipping-news/worlds-largest-cargo-sailboat-completes-historic-first-atlantic-crossing/)
 * [2025-11-08, 19:47:26](https://news.ycombinator.com/item?id=45859402) - [I Want You to Understand Chicago](https://aphyr.com/posts/397-i-want-you-to-understand-chicago)
 * [2025-11-08, 19:29:44](https://news.ycombinator.com/item?id=45859243) - [Avería: The Average Font (2011)](http://iotic.com/averia/)
 * [2025-11-08, 19:26:25](https://news.ycombinator.com/item?id=45859216) - [Near mid-air collision at LAX between American Airlines and ITA [video]](https://www.youtube.com/watch?v=-j76cp7bETw)
