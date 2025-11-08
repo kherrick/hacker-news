@@ -15,7 +15,6 @@
 * [2025-11-08, 00:00:27](https://news.ycombinator.com/item?id=45852751) - [Cerebras Code now supports GLM 4.6 at 1000 tokens/sec](https://www.cerebras.ai/code)
 * [2025-11-07, 23:04:39](https://news.ycombinator.com/item?id=45852328) - [Why is Zig so cool?](https://nilostolte.github.io/tech/articles/ZigCool.html)
 * [2025-11-07, 20:50:40](https://news.ycombinator.com/item?id=45850963) - [YouTube Removes Windows 11 Bypass Tutorials, Claims 'Risk of Physical Harm'](https://news.itsfoss.com/youtube-removes-windows-11-bypass-tutorials/)
-* [2025-11-07, 20:26:26](https://news.ycombinator.com/item?id=45850671) - [Ribir: Non-intrusive GUI framework for Rust/WASM](https://github.com/RibirX/Ribir)
 * [2025-11-07, 20:05:32](https://news.ycombinator.com/item?id=45850430) - [Apple is crossing a Steve Jobs red line](https://kensegall.com/2025/11/07/apple-is-crossing-a-steve-jobs-red-line/)
 * [2025-11-07, 20:01:09](https://news.ycombinator.com/item?id=45850382) - [How did I get here?](https://how-did-i-get-here.net/)
 * [2025-11-07, 18:45:35](https://news.ycombinator.com/item?id=45849528) - [Ruby already solved my problem](https://newsletter.masilotti.com/p/ruby-already-solved-my-problem)
@@ -30,6 +29,7 @@
 * [2025-11-03, 15:15:12](https://news.ycombinator.com/item?id=45799949) - [Dark mode by local sunlight (2021)](https://www.ctnicholas.dev/articles/dark-mode-by-sunlight)
 * [2025-11-03, 07:11:14](https://news.ycombinator.com/item?id=45796575) - [FSF40 Hackathon](https://www.fsf.org/events/fsf40-hackathon)
 * [2025-11-02, 19:02:04](https://news.ycombinator.com/item?id=45792555) - [Friendly attributes pattern in Ruby](https://brunosutic.com/blog/ruby-friendly-attributes-pattern)
+* [2025-11-02, 11:07:02](https://news.ycombinator.com/item?id=45789447) - [Nubeian Translation for Childhood Songs by Hamza El Din](https://nubianfoundation.org/translations/)
 
 ## [Archives](archives/index.md)
 

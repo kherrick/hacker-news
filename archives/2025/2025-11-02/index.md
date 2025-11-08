@@ -45,6 +45,7 @@
 * [2025-11-02, 11:30:50](https://news.ycombinator.com/item?id=45789556) - [Mock – An API creation and testing utility: Examples](https://dhuan.github.io/mock/latest/examples.html)
 * [2025-11-02, 11:17:16](https://news.ycombinator.com/item?id=45789494) - [Sam Altman wants a refund for his $50k Tesla Roadster deposit](https://arstechnica.com/cars/2025/10/sam-altman-wants-a-refund-for-his-50000-tesla-roadster-deposit/)
 * [2025-11-02, 11:12:58](https://news.ycombinator.com/item?id=45789474) - [Your URL Is Your State](https://alfy.blog/2025/10/31/your-url-is-your-state.html)
+* [2025-11-02, 11:07:02](https://news.ycombinator.com/item?id=45789447) - [Nubeian Translation for Childhood Songs by Hamza El Din](https://nubianfoundation.org/translations/)
 * [2025-11-02, 11:03:49](https://news.ycombinator.com/item?id=45789431) - [Show HN: Auto-Adjust Keyboard and LCD Brightness via Ambient Light Sensor[Linux]](https://github.com/donjajo/als-led-backlight)
 * [2025-11-02, 11:01:23](https://news.ycombinator.com/item?id=45789424) - [Using FreeBSD to make self-hosting fun again](https://jsteuernagel.de/posts/using-freebsd-to-make-self-hosting-fun-again/)
 * [2025-11-02, 10:58:33](https://news.ycombinator.com/item?id=45789405) - [Why I love my Boox Palma e-reader](https://minimal.bearblog.dev/why-i-love-my-boox-palma-e-reader/)
