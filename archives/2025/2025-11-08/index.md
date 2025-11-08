@@ -6,6 +6,7 @@
 
 * [2025-11-08, 15:05:41](https://news.ycombinator.com/item?id=45857099) - [$1T in Tech Stocks Sold Off as Market Grows Skeptical of AI](https://gizmodo.com/1-trillion-in-tech-stocks-sold-off-as-market-grows-skeptical-of-ai-2000683226)
 * [2025-11-08, 15:03:26](https://news.ycombinator.com/item?id=45857087) - [Reputational consequences of victim signaling: Victimhood decreases status](https://www.sciencedirect.com/science/article/pii/S0191886925004775)
+* [2025-11-08, 14:58:03](https://news.ycombinator.com/item?id=45857045) - [An Algebraic Language for the Manipulation of Symbolic Expressions (1958) [pdf]](https://softwarepreservation.computerhistory.org/LISP/MIT/AIM-001.pdf)
 * [2025-11-08, 14:52:26](https://news.ycombinator.com/item?id=45856998) - [Sam Altman Is Getting Desperate and It Is Starting to Show](https://tickerfeed.net/articles/sam-altman-reeks-of-desperation)
 * [2025-11-08, 14:33:00](https://news.ycombinator.com/item?id=45856883) - [Why Sam Altman Won't Be on the Hook for OpenAI's Spending Spree](https://www.forbes.com/sites/rashishrivastava/2025/11/07/why-sam-altman-wont-be-on-the-hook-for-openais-massive-spending-spree/)
 * [2025-11-08, 14:18:22](https://news.ycombinator.com/item?id=45856804) - [AI benchmarks are a bad joke – and LLM makers are the ones laughing](https://www.theregister.com/2025/11/07/measuring_ai_models_hampered_by/)
