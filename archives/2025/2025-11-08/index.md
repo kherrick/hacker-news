@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-11-08](index.md)
 
 * [2025-11-08, 21:46:37](https://news.ycombinator.com/item?id=45860351) - [I taught an octopus piano (It took 6 months) [video]](https://www.youtube.com/watch?v=PcWnQ7fYzwI)
+* [2025-11-08, 21:36:39](https://news.ycombinator.com/item?id=45860273) - [How to declutter, quiet down, and take the AI out of Windows 11 25H2](https://arstechnica.com/gadgets/2025/11/what-i-do-to-clean-up-a-clean-install-of-windows-11-23h2-and-edge/)
 * [2025-11-08, 21:00:45](https://news.ycombinator.com/item?id=45859928) - [Humans have remote touch 'seventh sense' like sandpipers](https://techxplore.com/news/2025-11-humans-remote-seventh-sandpipers.html)
 * [2025-11-08, 19:57:52](https://news.ycombinator.com/item?id=45859471) - [Largest Cargo Sailboat Completes Historic First Atlantic Crossing](https://www.marineinsight.com/shipping-news/worlds-largest-cargo-sailboat-completes-historic-first-atlantic-crossing/)
 * [2025-11-08, 19:47:26](https://news.ycombinator.com/item?id=45859402) - [I Want You to Understand Chicago](https://aphyr.com/posts/397-i-want-you-to-understand-chicago)
