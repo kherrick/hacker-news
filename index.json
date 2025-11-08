@@ -1,12 +1,12 @@
 [
   [
     [
-      "2025-11-08, 15:05:41",
-      "https://news.ycombinator.com/item?id=45857099"
+      "2025-11-08, 14:59:05",
+      "https://news.ycombinator.com/item?id=45857053"
     ],
     [
-      "$1T in Tech Stocks Sold Off as Market Grows Skeptical of AI",
-      "https://gizmodo.com/1-trillion-in-tech-stocks-sold-off-as-market-grows-skeptical-of-ai-2000683226"
+      "Ticker: Don't Die of Heart Disease",
+      "https://myticker.com/"
     ]
   ],
   [
@@ -17,6 +17,16 @@
     [
       "An Algebraic Language for the Manipulation of Symbolic Expressions (1958) [pdf]",
       "https://softwarepreservation.computerhistory.org/LISP/MIT/AIM-001.pdf"
+    ]
+  ],
+  [
+    [
+      "2025-11-08, 14:50:51",
+      "https://news.ycombinator.com/item?id=45856987"
+    ],
+    [
+      "Btop: A better modern alternative of htop with a gamified interface",
+      "https://github.com/aristocratos/btop"
     ]
   ],
   [
@@ -77,16 +87,6 @@
     [
       "Apple's \"notarisation\" – blocking software freedom of developers and users",
       "https://fsfe.org/news/2025/news-20251105-01.en.html"
-    ]
-  ],
-  [
-    [
-      "2025-11-08, 02:27:48",
-      "https://news.ycombinator.com/item?id=45853536"
-    ],
-    [
-      "Local First Htmx",
-      "https://elijahm.com/posts/local_first_htmx/"
     ]
   ],
   [
@@ -261,22 +261,22 @@
   ],
   [
     [
-      "2025-11-03, 15:20:24",
-      "https://news.ycombinator.com/item?id=45800009"
-    ],
-    [
-      "Show HN: Find matching acrylic paints for any HEX color",
-      "https://acrylicmatch.com/"
-    ]
-  ],
-  [
-    [
       "2025-11-03, 15:15:12",
       "https://news.ycombinator.com/item?id=45799949"
     ],
     [
       "Dark mode by local sunlight (2021)",
       "https://www.ctnicholas.dev/articles/dark-mode-by-sunlight"
+    ]
+  ],
+  [
+    [
+      "2025-11-03, 14:16:17",
+      "https://news.ycombinator.com/item?id=45799157"
+    ],
+    [
+      "C++ move semantics from scratch (2022)",
+      "https://cbarrete.com/move-from-scratch.html"
     ]
   ],
   [
