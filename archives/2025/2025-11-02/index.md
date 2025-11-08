@@ -26,6 +26,7 @@
 * [2025-11-02, 18:37:38](https://news.ycombinator.com/item?id=45792373) - [Reproducing the AWS Outage Race Condition with a Model Checker](https://wyounas.github.io/aws/concurrency/2025/10/30/reproducing-the-aws-outage-race-condition-with-model-checker/)
 * [2025-11-02, 18:12:49](https://news.ycombinator.com/item?id=45792209) - [Anti-cybercrime laws are being weaponized to repress journalism](https://www.cjr.org/analysis/nigeria-pakistan-jordan-cybercrime-laws-journalism.php)
 * [2025-11-02, 18:06:15](https://news.ycombinator.com/item?id=45792166) - [Is Your Bluetooth Chip Leaking Secrets via RF Signals?](https://www.semanticscholar.org/paper/Is-Your-Bluetooth-Chip-Leaking-Secrets-via-RF-Ji-Dubrova/c1d3ceb47ea6f9cc4f29929e2f97d36862a260a2)
+* [2025-11-02, 17:43:18](https://news.ycombinator.com/item?id=45792012) - [Cure – Verification-First Programming for the Beam](https://cure-lang.org/index.html)
 * [2025-11-02, 17:24:39](https://news.ycombinator.com/item?id=45791882) - [At the end you use Git bisect](https://kevin3010.github.io/git/2025/11/02/At-the-end-you-use-git-bisect.html)
 * [2025-11-02, 16:47:55](https://news.ycombinator.com/item?id=45791596) - [Objective-C for Windows, including UIKit (public archive). From Microsoft](https://github.com/microsoft/WinObjC)
 * [2025-11-02, 16:23:30](https://news.ycombinator.com/item?id=45791410) - [Palantir Thinks College Might Be a Waste. So It's Hiring High-School Grads](https://www.wsj.com/business/palantir-thinks-college-might-be-a-waste-so-its-hiring-high-school-grads-aed267d5)
