@@ -23,11 +23,11 @@
 * [2025-11-04, 11:27:59](https://news.ycombinator.com/item?id=45809746) - [Shell Grotto: England's mysterious underground seashell chamber](https://boingboing.net/2025/09/05/shell-grotto-englands-mysterious-underground-seashell-chamber.html)
 * [2025-11-04, 10:32:26](https://news.ycombinator.com/item?id=45809429) - [Transducer: Composition, abstraction, performance (2018)](https://funktionale-programmierung.de/en/2018/03/22/transducer.html)
 * [2025-11-04, 09:27:57](https://news.ycombinator.com/item?id=45809007) - [Venn Diagram for 7 Sets](https://moebio.com/research/sevensets/)
+* [2025-11-04, 07:22:46](https://news.ycombinator.com/item?id=45808288) - [Reverse Engineering a Neural Network's Clever Solution to Binary Addition (2023)](https://cprimozic.net/blog/reverse-engineering-a-small-neural-network/)
 * [2025-11-03, 17:27:12](https://news.ycombinator.com/item?id=45801651) - [How to find your ideal customer, right away](https://www.reifyworks.com/writing/2023-01-30-iicp)
 * [2025-11-03, 15:20:24](https://news.ycombinator.com/item?id=45800009) - [Show HN: Find matching acrylic paints for any HEX color](https://acrylicmatch.com/)
 * [2025-11-03, 07:11:14](https://news.ycombinator.com/item?id=45796575) - [FSF40 Hackathon](https://www.fsf.org/events/fsf40-hackathon)
 * [2025-11-02, 19:02:04](https://news.ycombinator.com/item?id=45792555) - [Friendly Attributes Pattern in Ruby](https://brunosutic.com/blog/ruby-friendly-attributes-pattern)
-* [2025-11-02, 17:43:18](https://news.ycombinator.com/item?id=45792012) - [Cure – Verification-First Programming for the Beam](https://cure-lang.org/index.html)
 * [2025-11-02, 06:21:37](https://news.ycombinator.com/item?id=45788194) - [Helion: A high-level DSL for performant and portable ML kernels](https://pytorch.org/blog/helion/)
 * [2025-11-01, 22:34:49](https://news.ycombinator.com/item?id=45786042) - [Can you save on LLM tokens using images instead of text?](https://pagewatch.ai/blog/post/llm-text-as-image-tokens/)
 
