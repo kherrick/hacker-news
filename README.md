@@ -1,12 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-11-08, 14:18:22](https://news.ycombinator.com/item?id=45856804) - [AI benchmarks are a bad joke – and LLM makers are the ones laughing](https://www.theregister.com/2025/11/07/measuring_ai_models_hampered_by/)
-* [2025-11-08, 13:55:20](https://news.ycombinator.com/item?id=45856681) - ['Black Hole Sun' by Soundgarden](https://faroutmagazine.co.uk/the-story-behind-soundgarden-black-hole-sun/)
+* [2025-11-08, 13:48:41](https://news.ycombinator.com/item?id=45856640) - [Things I've Heard Boomers Say That I Agree with 100%](https://wildingout.substack.com/p/12-things-ive-heard-boomers-say-that)
+* [2025-11-08, 13:36:30](https://news.ycombinator.com/item?id=45856563) - [Why hasn't there been a new major sports league?](https://humaninvariant.substack.com/p/why-hasnt-there-been-a-new-major)
 * [2025-11-08, 12:00:50](https://news.ycombinator.com/item?id=45856069) - [Cekura (YC F24) Is Hiring](https://news.ycombinator.com/item?id=45856069)
 * [2025-11-08, 11:27:56](https://news.ycombinator.com/item?id=45855933) - [My friends and I accidentally faked the Ryzen 7 9700X3D leaks](https://old.reddit.com/r/pcmasterrace/comments/1orc6jl/my_friends_and_i_accidentally_faked_the_ryzen_7/)
 * [2025-11-08, 07:29:35](https://news.ycombinator.com/item?id=45854862) - [Making Democracy Work: Fixing and Simplifying Egalitarian Paxos](https://arxiv.org/abs/2511.02743)
 * [2025-11-08, 05:37:08](https://news.ycombinator.com/item?id=45854441) - [Apple's \"notarisation\" – blocking software freedom of developers and users](https://fsfe.org/news/2025/news-20251105-01.en.html)
-* [2025-11-08, 02:27:48](https://news.ycombinator.com/item?id=45853536) - [Local First Htmx](https://elijahm.com/posts/local_first_htmx/)
 * [2025-11-08, 01:18:12](https://news.ycombinator.com/item?id=45853204) - [Running a 68060 CPU in Quadra 650](https://github.com/ZigZagJoe/Macintosh-Q650-68060)
 * [2025-11-08, 00:37:36](https://news.ycombinator.com/item?id=45852974) - [Mullvad: Shutting down our search proxy Leta](https://mullvad.net/en/blog/shutting-down-our-search-proxy-leta)
 * [2025-11-08, 00:21:45](https://news.ycombinator.com/item?id=45852895) - [Immutable Software Deploys Using ZFS Jails on FreeBSD](https://conradresearch.com/articles/immutable-software-deploy-zfs-jails)
@@ -28,8 +28,8 @@
 * [2025-11-03, 15:20:24](https://news.ycombinator.com/item?id=45800009) - [Show HN: Find matching acrylic paints for any HEX color](https://acrylicmatch.com/)
 * [2025-11-03, 15:15:12](https://news.ycombinator.com/item?id=45799949) - [Dark mode by local sunlight (2021)](https://www.ctnicholas.dev/articles/dark-mode-by-sunlight)
 * [2025-11-03, 08:37:48](https://news.ycombinator.com/item?id=45797044) - [Doo: A Simple, Fast Programming Language Built on Rust and LLVM](https://news.ycombinator.com/item?id=45797044)
+* [2025-11-03, 07:11:14](https://news.ycombinator.com/item?id=45796575) - [FSF40 Hackathon](https://www.fsf.org/events/fsf40-hackathon)
 * [2025-11-02, 19:02:04](https://news.ycombinator.com/item?id=45792555) - [Friendly attributes pattern in Ruby](https://brunosutic.com/blog/ruby-friendly-attributes-pattern)
-* [2025-11-01, 22:34:49](https://news.ycombinator.com/item?id=45786042) - [Can you save on LLM tokens using images instead of text?](https://pagewatch.ai/blog/post/llm-text-as-image-tokens/)
 
 ## [Archives](archives/index.md)
 

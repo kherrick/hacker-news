@@ -6,6 +6,8 @@
 
 * [2025-11-08, 14:18:22](https://news.ycombinator.com/item?id=45856804) - [AI benchmarks are a bad joke – and LLM makers are the ones laughing](https://www.theregister.com/2025/11/07/measuring_ai_models_hampered_by/)
 * [2025-11-08, 13:55:20](https://news.ycombinator.com/item?id=45856681) - ['Black Hole Sun' by Soundgarden](https://faroutmagazine.co.uk/the-story-behind-soundgarden-black-hole-sun/)
+* [2025-11-08, 13:48:41](https://news.ycombinator.com/item?id=45856640) - [Things I've Heard Boomers Say That I Agree with 100%](https://wildingout.substack.com/p/12-things-ive-heard-boomers-say-that)
+* [2025-11-08, 13:36:30](https://news.ycombinator.com/item?id=45856563) - [Why hasn't there been a new major sports league?](https://humaninvariant.substack.com/p/why-hasnt-there-been-a-new-major)
 * [2025-11-08, 12:16:22](https://news.ycombinator.com/item?id=45856136) - [Kagi Small Web](https://kagi.com/smallweb)
 * [2025-11-08, 12:00:50](https://news.ycombinator.com/item?id=45856069) - [Cekura (YC F24) Is Hiring](https://news.ycombinator.com/item?id=45856069)
 * [2025-11-08, 11:35:04](https://news.ycombinator.com/item?id=45855955) - [Copy button added to Stack Overflow](https://meta.stackexchange.com/questions/414573/results-of-the-october-2025-community-asks-sprint-copy-button-for-code-blocks)
