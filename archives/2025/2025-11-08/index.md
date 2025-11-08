@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-11-08](index.md)
 
+* [2025-11-08, 16:25:41](https://news.ycombinator.com/item?id=45857836) - [Cloudflare Scrubs Aisuru Botnet from Top Domains List](https://krebsonsecurity.com/2025/11/cloudflare-scrubs-aisuru-botnet-from-top-domains-list/)
 * [2025-11-08, 16:12:14](https://news.ycombinator.com/item?id=45857695) - [52 Year old data tape could contain Unix history](https://www.theregister.com/2025/11/07/unix_fourth_edition_tape_rediscovered/)
 * [2025-11-08, 15:05:41](https://news.ycombinator.com/item?id=45857099) - [$1T in Tech Stocks Sold Off as Market Grows Skeptical of AI](https://gizmodo.com/1-trillion-in-tech-stocks-sold-off-as-market-grows-skeptical-of-ai-2000683226)
 * [2025-11-08, 15:03:26](https://news.ycombinator.com/item?id=45857087) - [Reputational consequences of victim signaling: Victimhood decreases status](https://www.sciencedirect.com/science/article/pii/S0191886925004775)

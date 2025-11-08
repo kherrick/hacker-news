@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-11-08, 16:25:41](https://news.ycombinator.com/item?id=45857836) - [Cloudflare Scrubs Aisuru Botnet from Top Domains List](https://krebsonsecurity.com/2025/11/cloudflare-scrubs-aisuru-botnet-from-top-domains-list/)
 * [2025-11-08, 16:12:14](https://news.ycombinator.com/item?id=45857695) - [52 Year old data tape could contain Unix history](https://www.theregister.com/2025/11/07/unix_fourth_edition_tape_rediscovered/)
 * [2025-11-08, 14:59:05](https://news.ycombinator.com/item?id=45857053) - [Ticker: Don't Die of Heart Disease](https://myticker.com/)
 * [2025-11-08, 14:58:03](https://news.ycombinator.com/item?id=45857045) - [An Algebraic Language for the Manipulation of Symbolic Expressions (1958) [pdf]](https://softwarepreservation.computerhistory.org/LISP/MIT/AIM-001.pdf)
@@ -23,7 +24,6 @@
 * [2025-11-07, 17:03:30](https://news.ycombinator.com/item?id=45848468) - [Angel Investors, a Field Guide](https://www.jeanyang.com/posts/angel-investors-a-field-guide/)
 * [2025-11-07, 14:05:49](https://news.ycombinator.com/item?id=45846517) - [Why I love OCaml (2023)](https://mccd.space/posts/ocaml-the-worlds-best/)
 * [2025-11-04, 11:33:31](https://news.ycombinator.com/item?id=45809782) - [Computational Complexity of Air Travel Planning (2003) [pdf]](http://www.ai.mit.edu/courses/6.034f/psets/ps1/airtravel.pdf)
-* [2025-11-04, 09:27:57](https://news.ycombinator.com/item?id=45809007) - [Venn Diagram for 7 Sets](https://moebio.com/research/sevensets/)
 * [2025-11-04, 07:22:46](https://news.ycombinator.com/item?id=45808288) - [Reverse engineering a neural network's clever solution to binary addition (2023)](https://cprimozic.net/blog/reverse-engineering-a-small-neural-network/)
 * [2025-11-03, 17:27:12](https://news.ycombinator.com/item?id=45801651) - [The Initial Ideal Customer Profile Worksheet](https://www.reifyworks.com/writing/2023-01-30-iicp)
 * [2025-11-03, 15:15:12](https://news.ycombinator.com/item?id=45799949) - [Dark mode by local sunlight (2021)](https://www.ctnicholas.dev/articles/dark-mode-by-sunlight)
