@@ -2,6 +2,7 @@
 
 * [2025-11-08, 16:25:41](https://news.ycombinator.com/item?id=45857836) - [Cloudflare Scrubs Aisuru Botnet from Top Domains List](https://krebsonsecurity.com/2025/11/cloudflare-scrubs-aisuru-botnet-from-top-domains-list/)
 * [2025-11-08, 16:12:14](https://news.ycombinator.com/item?id=45857695) - [52 Year old data tape could contain Unix history](https://www.theregister.com/2025/11/07/unix_fourth_edition_tape_rediscovered/)
+* [2025-11-08, 15:43:13](https://news.ycombinator.com/item?id=45857449) - [Authorities Shut Down Film Festival in New York](https://www.hrw.org/news/2025/11/07/china-authorities-shut-down-film-festival-in-new-york)
 * [2025-11-08, 14:59:05](https://news.ycombinator.com/item?id=45857053) - [Ticker: Don't Die of Heart Disease](https://myticker.com/)
 * [2025-11-08, 14:58:03](https://news.ycombinator.com/item?id=45857045) - [An Algebraic Language for the Manipulation of Symbolic Expressions (1958) [pdf]](https://softwarepreservation.computerhistory.org/LISP/MIT/AIM-001.pdf)
 * [2025-11-08, 14:54:38](https://news.ycombinator.com/item?id=45857016) - [Zig is so cool, C is cooler](https://github.com/little-book-of/c/blob/main/articles/zig-is-cool-c-is-cooler.md)
@@ -10,7 +11,6 @@
 * [2025-11-08, 12:00:50](https://news.ycombinator.com/item?id=45856069) - [Cekura (YC F24) Is Hiring](https://news.ycombinator.com/item?id=45856069)
 * [2025-11-08, 11:27:56](https://news.ycombinator.com/item?id=45855933) - [My friends and I accidentally faked the Ryzen 7 9700X3D leaks](https://old.reddit.com/r/pcmasterrace/comments/1orc6jl/my_friends_and_i_accidentally_faked_the_ryzen_7/)
 * [2025-11-08, 07:29:35](https://news.ycombinator.com/item?id=45854862) - [Making Democracy Work: Fixing and Simplifying Egalitarian Paxos](https://arxiv.org/abs/2511.02743)
-* [2025-11-08, 05:37:08](https://news.ycombinator.com/item?id=45854441) - [Apple's \"notarisation\" – blocking software freedom of developers and users](https://fsfe.org/news/2025/news-20251105-01.en.html)
 * [2025-11-08, 00:37:36](https://news.ycombinator.com/item?id=45852974) - [Mullvad: Shutting down our search proxy Leta](https://mullvad.net/en/blog/shutting-down-our-search-proxy-leta)
 * [2025-11-08, 00:21:45](https://news.ycombinator.com/item?id=45852895) - [Immutable Software Deploys Using ZFS Jails on FreeBSD](https://conradresearch.com/articles/immutable-software-deploy-zfs-jails)
 * [2025-11-08, 00:14:50](https://news.ycombinator.com/item?id=45852854) - [Valdi – A cross-platform UI framework that delivers native performance](https://github.com/Snapchat/Valdi)
