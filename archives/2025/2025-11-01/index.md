@@ -11,6 +11,7 @@
 * [2025-11-01, 23:09:25](https://news.ycombinator.com/item?id=45786324) - [Pomelli](https://blog.google/technology/google-labs/pomelli/)
 * [2025-11-01, 23:01:24](https://news.ycombinator.com/item?id=45786266) - [The purported benefits of effect systems](https://typesanitizer.com/blog/effects-convo.html)
 * [2025-11-01, 22:52:22](https://news.ycombinator.com/item?id=45786192) - [Show HN: KeyLeak Detector – Scan websites for exposed API keys and secrets](https://github.com/Amal-David/keyleak-detector)
+* [2025-11-01, 22:34:49](https://news.ycombinator.com/item?id=45786042) - [Can you save on LLM tokens using images instead of text?](https://pagewatch.ai/blog/post/llm-text-as-image-tokens/)
 * [2025-11-01, 22:34:43](https://news.ycombinator.com/item?id=45786041) - [How often does Python allocate?](https://zackoverflow.dev/writing/how-often-does-python-allocate/)
 * [2025-11-01, 22:26:03](https://news.ycombinator.com/item?id=45785986) - [OpenDesk by the Centre for Digital Sovereignty](https://www.opendesk.eu/en/product)
 * [2025-11-01, 22:07:49](https://news.ycombinator.com/item?id=45785858) - [OS maintained by a single developer since 1997: Visopsys](https://visopsys.org/)

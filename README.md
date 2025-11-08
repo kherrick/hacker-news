@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-11-08, 03:54:30](https://news.ycombinator.com/item?id=45853995) - [Oddest ChatGPT leaks yet: Cringey chat logs found in Google Analytics tool](https://arstechnica.com/tech-policy/2025/11/oddest-chatgpt-leaks-yet-cringey-chat-logs-found-in-google-analytics-tool/)
 * [2025-11-08, 01:18:12](https://news.ycombinator.com/item?id=45853204) - [Running a 68060 CPU in Quadra 650](https://github.com/ZigZagJoe/Macintosh-Q650-68060)
 * [2025-11-08, 01:07:26](https://news.ycombinator.com/item?id=45853155) - [Older Adults Outnumber Children in 11 States](https://www.census.gov/newsroom/press-releases/2025/older-adults-outnumber-children.html)
 * [2025-11-08, 00:37:36](https://news.ycombinator.com/item?id=45852974) - [Mullvad: Shutting down our search proxy Leta](https://mullvad.net/en/blog/shutting-down-our-search-proxy-leta)
@@ -10,7 +11,6 @@
 * [2025-11-07, 23:04:39](https://news.ycombinator.com/item?id=45852328) - [Why is Zig so cool?](https://nilostolte.github.io/tech/articles/ZigCool.html)
 * [2025-11-07, 22:59:04](https://news.ycombinator.com/item?id=45852275) - [FAA to restrict commercial rocket launches to overnight hours](https://www.space.com/space-exploration/launches-spacecraft/faa-restricts-commercial-rocket-launches-indefinitely-due-to-air-traffic-risks-from-government-shutdown)
 * [2025-11-07, 22:35:28](https://news.ycombinator.com/item?id=45852029) - [How a devboard works (and how to make your own)](https://kaipereira.com/journal/build-a-devboard)
-* [2025-11-07, 22:34:15](https://news.ycombinator.com/item?id=45852011) - [He Jiankui PhD Thesis: Spontaneous Emergence of Hierarchy in Biological Systems (2010)](https://repository.rice.edu/server/api/core/bitstreams/85449216-b2ec-4519-87cf-83eafe4534e7/content)
 * [2025-11-07, 22:13:37](https://news.ycombinator.com/item?id=45851786) - [Using the Web Monetization API for fun and profit](https://blog.tomayac.com/2025/11/07/using-the-web-monetization-api-for-fun-and-profit/)
 * [2025-11-07, 21:45:03](https://news.ycombinator.com/item?id=45851495) - [Becoming a Compiler Engineer](https://rona.substack.com/p/becoming-a-compiler-engineer)
 * [2025-11-07, 20:50:40](https://news.ycombinator.com/item?id=45850963) - [YouTube Removes Windows 11 Bypass Tutorials, Claims 'Risk of Physical Harm'](https://news.itsfoss.com/youtube-removes-windows-11-bypass-tutorials/)
@@ -26,10 +26,10 @@
 * [2025-11-04, 10:32:26](https://news.ycombinator.com/item?id=45809429) - [Transducer: Composition, abstraction, performance (2018)](https://funktionale-programmierung.de/en/2018/03/22/transducer.html)
 * [2025-11-04, 09:27:57](https://news.ycombinator.com/item?id=45809007) - [Venn Diagram for 7 Sets](https://moebio.com/research/sevensets/)
 * [2025-11-03, 15:20:24](https://news.ycombinator.com/item?id=45800009) - [Show HN: Find matching acrylic paints for any HEX color](https://acrylicmatch.com/)
-* [2025-11-03, 11:55:02](https://news.ycombinator.com/item?id=45798123) - [Understanding traffic](https://dr2chase.wordpress.com/)
 * [2025-11-03, 07:11:14](https://news.ycombinator.com/item?id=45796575) - [FSF40 Hackathon](https://www.fsf.org/events/fsf40-hackathon)
 * [2025-11-02, 16:47:55](https://news.ycombinator.com/item?id=45791596) - [WinObjC – The Windows Bridge for iOS](https://github.com/microsoft/WinObjC)
 * [2025-11-02, 10:58:33](https://news.ycombinator.com/item?id=45789405) - [Why I love my Boox Palma e-reader](https://minimal.bearblog.dev/why-i-love-my-boox-palma-e-reader/)
+* [2025-11-01, 22:34:49](https://news.ycombinator.com/item?id=45786042) - [Can you save on LLM tokens using images instead of text?](https://pagewatch.ai/blog/post/llm-text-as-image-tokens/)
 
 ## [Archives](archives/index.md)
 
