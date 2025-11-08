@@ -8,6 +8,7 @@
 * [2025-11-08, 07:29:35](https://news.ycombinator.com/item?id=45854862) - [Making Democracy Work: Fixing and Simplifying Egalitarian Paxos](https://arxiv.org/abs/2511.02743)
 * [2025-11-08, 05:37:08](https://news.ycombinator.com/item?id=45854441) - [Apple's \"notarisation\" – blocking software freedom of developers and users](https://fsfe.org/news/2025/news-20251105-01.en.html)
 * [2025-11-08, 03:54:30](https://news.ycombinator.com/item?id=45853995) - [Oddest ChatGPT leaks yet: Cringey chat logs found in Google Analytics tool](https://arstechnica.com/tech-policy/2025/11/oddest-chatgpt-leaks-yet-cringey-chat-logs-found-in-google-analytics-tool/)
+* [2025-11-08, 03:24:25](https://news.ycombinator.com/item?id=45853849) - [GPT-OSS 120B Runs at 3000 tokens/sec on Cerebras](https://www.cerebras.ai/blog/openai-gpt-oss-120b-runs-fastest-on-cerebras)
 * [2025-11-08, 02:27:48](https://news.ycombinator.com/item?id=45853536) - [Local First Htmx](https://elijahm.com/posts/local_first_htmx/)
 * [2025-11-08, 01:39:18](https://news.ycombinator.com/item?id=45853292) - [Sam Altman's pants are on fire](https://garymarcus.substack.com/p/sam-altmans-pants-are-totally-on)
 * [2025-11-08, 01:18:12](https://news.ycombinator.com/item?id=45853204) - [Running a 68060 CPU in Quadra 650](https://github.com/ZigZagJoe/Macintosh-Q650-68060)
