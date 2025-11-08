@@ -1,6 +1,56 @@
 [
   [
     [
+      "2025-11-08, 00:37:36",
+      "https://news.ycombinator.com/item?id=45852974"
+    ],
+    [
+      "Mullvad: Shutting down our search proxy Leta",
+      "https://mullvad.net/en/blog/shutting-down-our-search-proxy-leta"
+    ]
+  ],
+  [
+    [
+      "2025-11-08, 00:21:45",
+      "https://news.ycombinator.com/item?id=45852895"
+    ],
+    [
+      "Immutable Software Deploys Using ZFS Jails on FreeBSD",
+      "https://conradresearch.com/articles/immutable-software-deploy-zfs-jails"
+    ]
+  ],
+  [
+    [
+      "2025-11-08, 00:15:16",
+      "https://news.ycombinator.com/item?id=45852859"
+    ],
+    [
+      "The Boss Has a Message: Use AI or You're Fired",
+      "https://www.wsj.com/tech/ai/ai-work-use-performance-reviews-1e8975df"
+    ]
+  ],
+  [
+    [
+      "2025-11-08, 00:14:50",
+      "https://news.ycombinator.com/item?id=45852854"
+    ],
+    [
+      "Snapchat open-sources Valdi a cross-platform UI framework",
+      "https://github.com/Snapchat/Valdi"
+    ]
+  ],
+  [
+    [
+      "2025-11-07, 23:42:01",
+      "https://news.ycombinator.com/item?id=45852642"
+    ],
+    [
+      "Analysis of Hedy Lamarr's Contribution to Spread-Spectrum Communication",
+      "https://researchers.one/articles/24.01.00001v4"
+    ]
+  ],
+  [
+    [
       "2025-11-07, 23:04:39",
       "https://news.ycombinator.com/item?id=45852328"
     ],
@@ -45,18 +95,8 @@
       "https://news.ycombinator.com/item?id=45852011"
     ],
     [
-      "He Jiankui PhD Thesis: Spontaneous Emergence of Hierarchy in Biological Systems",
+      "He Jiankui PhD Thesis: Spontaneous Emergence of Hierarchy in Biological Systems (2010)",
       "https://repository.rice.edu/server/api/core/bitstreams/85449216-b2ec-4519-87cf-83eafe4534e7/content"
-    ]
-  ],
-  [
-    [
-      "2025-11-07, 22:15:41",
-      "https://news.ycombinator.com/item?id=45851807"
-    ],
-    [
-      "Show HN: VoxConvo – \"X but it's only voice messages\"",
-      "https://voxconvo.com"
     ]
   ],
   [
@@ -77,16 +117,6 @@
     [
       "Becoming a Compiler Engineer",
       "https://rona.substack.com/p/becoming-a-compiler-engineer"
-    ]
-  ],
-  [
-    [
-      "2025-11-07, 21:44:04",
-      "https://news.ycombinator.com/item?id=45851483"
-    ],
-    [
-      "AI is Dunning-Kruger as a service",
-      "https://christianheilmann.com/2025/10/30/ai-is-dunning-kruger-as-a-service/"
     ]
   ],
   [
@@ -117,16 +147,6 @@
     [
       "Ribir: Non-intrusive GUI framework for Rust/WASM",
       "https://github.com/RibirX/Ribir"
-    ]
-  ],
-  [
-    [
-      "2025-11-07, 20:05:32",
-      "https://news.ycombinator.com/item?id=45850430"
-    ],
-    [
-      "Apple is crossing a Steve Jobs red line",
-      "https://kensegall.com/2025/11/07/apple-is-crossing-a-steve-jobs-red-line/"
     ]
   ],
   [
@@ -211,32 +231,12 @@
   ],
   [
     [
-      "2025-11-07, 12:39:54",
-      "https://news.ycombinator.com/item?id=45845772"
+      "2025-11-04, 11:27:59",
+      "https://news.ycombinator.com/item?id=45809746"
     ],
     [
-      "Meta projected 10% of 2024 revenue came from scams",
-      "https://sherwood.news/tech/meta-projected-10-of-2024-revenue-came-from-scams-and-banned-goods-reuters/"
-    ]
-  ],
-  [
-    [
-      "2025-11-07, 12:00:40",
-      "https://news.ycombinator.com/item?id=45845568"
-    ],
-    [
-      "Sweep (YC S23) is hiring to build autocomplete for JetBrains",
-      "https://www.ycombinator.com/companies/sweep/jobs/8dUn406-founding-engineer-intern"
-    ]
-  ],
-  [
-    [
-      "2025-11-04, 11:10:04",
-      "https://news.ycombinator.com/item?id=45809649"
-    ],
-    [
-      "My Experience of building Bytebeat player in Zig",
-      "https://blog.karanjanthe.me/posts/zig-beat/"
+      "Shell Grotto: England's mysterious underground seashell chamber",
+      "https://boingboing.net/2025/09/05/shell-grotto-englands-mysterious-underground-seashell-chamber.html"
     ]
   ],
   [
@@ -271,22 +271,22 @@
   ],
   [
     [
+      "2025-11-03, 07:11:14",
+      "https://news.ycombinator.com/item?id=45796575"
+    ],
+    [
+      "FSF40 Hackathon",
+      "https://www.fsf.org/events/fsf40-hackathon"
+    ]
+  ],
+  [
+    [
       "2025-11-02, 16:47:55",
       "https://news.ycombinator.com/item?id=45791596"
     ],
     [
       "Objective-C for Windows, including UIKit (public archive). From Microsoft",
       "https://github.com/microsoft/WinObjC"
-    ]
-  ],
-  [
-    [
-      "2025-11-02, 06:21:37",
-      "https://news.ycombinator.com/item?id=45788194"
-    ],
-    [
-      "PyTorch Helion",
-      "https://pytorch.org/blog/helion/"
     ]
   ],
   [
