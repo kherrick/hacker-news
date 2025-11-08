@@ -7,7 +7,6 @@
 * [2025-11-08, 00:21:45](https://news.ycombinator.com/item?id=45852895) - [Immutable Software Deploys Using ZFS Jails on FreeBSD](https://conradresearch.com/articles/immutable-software-deploy-zfs-jails)
 * [2025-11-08, 00:14:50](https://news.ycombinator.com/item?id=45852854) - [Snapchat open-sources Valdi a cross-platform UI framework](https://github.com/Snapchat/Valdi)
 * [2025-11-08, 00:00:27](https://news.ycombinator.com/item?id=45852751) - [Cerebras Code now supports GLM 4.6 at 1000 tokens/sec](https://www.cerebras.ai/code)
-* [2025-11-07, 23:42:01](https://news.ycombinator.com/item?id=45852642) - [Analysis of Hedy Lamarr's Contribution to Spread-Spectrum Communication](https://researchers.one/articles/24.01.00001v4)
 * [2025-11-07, 23:04:39](https://news.ycombinator.com/item?id=45852328) - [Why is Zig so cool?](https://nilostolte.github.io/tech/articles/ZigCool.html)
 * [2025-11-07, 22:35:28](https://news.ycombinator.com/item?id=45852029) - [How a devboard works (and how to make your own)](https://kaipereira.com/journal/build-a-devboard)
 * [2025-11-07, 22:13:37](https://news.ycombinator.com/item?id=45851786) - [Using the Web Monetization API for fun and profit](https://blog.tomayac.com/2025/11/07/using-the-web-monetization-api-for-fun-and-profit/)
@@ -29,6 +28,7 @@
 * [2025-11-03, 07:11:14](https://news.ycombinator.com/item?id=45796575) - [FSF40 Hackathon](https://www.fsf.org/events/fsf40-hackathon)
 * [2025-11-02, 19:02:04](https://news.ycombinator.com/item?id=45792555) - [Friendly Attributes Pattern in Ruby](https://brunosutic.com/blog/ruby-friendly-attributes-pattern)
 * [2025-11-02, 10:58:33](https://news.ycombinator.com/item?id=45789405) - [Why I love my Boox Palma e-reader](https://minimal.bearblog.dev/why-i-love-my-boox-palma-e-reader/)
+* [2025-11-02, 06:21:37](https://news.ycombinator.com/item?id=45788194) - [Helion: A high-level DSL for performant and portable ML kernels](https://pytorch.org/blog/helion/)
 * [2025-11-01, 22:34:49](https://news.ycombinator.com/item?id=45786042) - [Can you save on LLM tokens using images instead of text?](https://pagewatch.ai/blog/post/llm-text-as-image-tokens/)
 
 ## [Archives](archives/index.md)
