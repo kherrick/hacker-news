@@ -16,6 +16,7 @@
 * [2025-11-02, 20:40:54](https://news.ycombinator.com/item?id=45793244) - [Alleged Jabber Zeus Coder 'MrICQ' in U.S. Custody](https://krebsonsecurity.com/2025/11/alleged-jabber-zeus-coder-mricq-in-u-s-custody/)
 * [2025-11-02, 20:37:59](https://news.ycombinator.com/item?id=45793216) - [\"You Don't Need Kafka, Just Use Postgres\" Considered Harmful](https://www.morling.dev/blog/you-dont-need-kafka-just-use-postgres-considered-harmful/)
 * [2025-11-02, 20:22:52](https://news.ycombinator.com/item?id=45793087) - [Amazon Rivian Electric Delivery Vans Arrive in Canada](https://cleantechnica.com/2025/10/30/rivian-electric-delivery-vans-arrive-in-canada/)
+* [2025-11-02, 20:20:07](https://news.ycombinator.com/item?id=45793060) - [The modern homes hidden inside ancient ruins](https://www.ft.com/content/5f722a2e-71d8-430c-a476-95de2c4ad9a5)
 * [2025-11-02, 20:04:15](https://news.ycombinator.com/item?id=45792958) - ['This is the big one' – tech firms bet on electrifying rail](https://www.bbc.com/news/articles/czdjg92y00no)
 * [2025-11-02, 20:02:31](https://news.ycombinator.com/item?id=45792951) - [MTurk is 20 years old today – what did you create with it?](https://news.ycombinator.com/item?id=45792951)
 * [2025-11-02, 19:05:32](https://news.ycombinator.com/item?id=45792579) - [Lisp: Notes on its Past and Future (1980)](https://www-formal.stanford.edu/jmc/lisp20th/lisp20th.html)

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-11-08](index.md)
 
+* [2025-11-08, 17:34:39](https://news.ycombinator.com/item?id=45858404) - [Driver livestreams on TikTok as she apparently hits and kills man in Chicago](https://www.theguardian.com/us-news/2025/nov/08/tiktok-live-stream-fatal-crash-chicago)
 * [2025-11-08, 16:25:41](https://news.ycombinator.com/item?id=45857836) - [Cloudflare Scrubs Aisuru Botnet from Top Domains List](https://krebsonsecurity.com/2025/11/cloudflare-scrubs-aisuru-botnet-from-top-domains-list/)
 * [2025-11-08, 16:12:14](https://news.ycombinator.com/item?id=45857695) - [52 Year old data tape could contain Unix history](https://www.theregister.com/2025/11/07/unix_fourth_edition_tape_rediscovered/)
 * [2025-11-08, 15:43:13](https://news.ycombinator.com/item?id=45857449) - [Authorities Shut Down Film Festival in New York](https://www.hrw.org/news/2025/11/07/china-authorities-shut-down-film-festival-in-new-york)
@@ -23,6 +24,7 @@
 * [2025-11-08, 12:00:50](https://news.ycombinator.com/item?id=45856069) - [Cekura (YC F24) Is Hiring](https://news.ycombinator.com/item?id=45856069)
 * [2025-11-08, 11:35:04](https://news.ycombinator.com/item?id=45855955) - [Copy button added to Stack Overflow](https://meta.stackexchange.com/questions/414573/results-of-the-october-2025-community-asks-sprint-copy-button-for-code-blocks)
 * [2025-11-08, 11:27:56](https://news.ycombinator.com/item?id=45855933) - [My friends and I accidentally faked the Ryzen 7 9700X3D leaks](https://old.reddit.com/r/pcmasterrace/comments/1orc6jl/my_friends_and_i_accidentally_faked_the_ryzen_7/)
+* [2025-11-08, 11:24:43](https://news.ycombinator.com/item?id=45855918) - [Always Be Ready to Leave (Even If You Never Do)](https://andreacanton.dev/posts/2025-11-08-always-ready-to-leave/)
 * [2025-11-08, 11:03:11](https://news.ycombinator.com/item?id=45855829) - [The Tech CEO 'Making No Apologies for the Work with ICE' (Alex Karp)](https://www.politico.com/news/magazine/2025/11/06/alex-karp-book-michael-steinberger-trump-evolution-00638951)
 * [2025-11-08, 09:58:09](https://news.ycombinator.com/item?id=45855546) - [A rats to riches story: Larry the Downing Street cat finds place in TV spotlight](https://www.theguardian.com/politics/2025/nov/08/a-rats-to-riches-story-larry-the-downing-street-cat-finds-place-in-tv-spotlight)
 * [2025-11-08, 07:29:35](https://news.ycombinator.com/item?id=45854862) - [Making Democracy Work: Fixing and Simplifying Egalitarian Paxos](https://arxiv.org/abs/2511.02743)
