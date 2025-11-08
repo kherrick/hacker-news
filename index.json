@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-11-08, 01:39:18",
+      "https://news.ycombinator.com/item?id=45853292"
+    ],
+    [
+      "Sam Altman's pants are on fire",
+      "https://garymarcus.substack.com/p/sam-altmans-pants-are-totally-on"
+    ]
+  ],
+  [
+    [
+      "2025-11-08, 01:07:26",
+      "https://news.ycombinator.com/item?id=45853155"
+    ],
+    [
+      "Older Adults Outnumber Children in 11 States",
+      "https://www.census.gov/newsroom/press-releases/2025/older-adults-outnumber-children.html"
+    ]
+  ],
+  [
+    [
       "2025-11-08, 00:37:36",
       "https://news.ycombinator.com/item?id=45852974"
     ],
@@ -17,16 +37,6 @@
     [
       "Immutable Software Deploys Using ZFS Jails on FreeBSD",
       "https://conradresearch.com/articles/immutable-software-deploy-zfs-jails"
-    ]
-  ],
-  [
-    [
-      "2025-11-08, 00:15:16",
-      "https://news.ycombinator.com/item?id=45852859"
-    ],
-    [
-      "The Boss Has a Message: Use AI or You're Fired",
-      "https://www.wsj.com/tech/ai/ai-work-use-performance-reviews-1e8975df"
     ]
   ],
   [
@@ -55,7 +65,7 @@
       "https://news.ycombinator.com/item?id=45852328"
     ],
     [
-      "Why is Zig so Cool?",
+      "Why is Zig so cool?",
       "https://nilostolte.github.io/tech/articles/ZigCool.html"
     ]
   ],
@@ -65,7 +75,7 @@
       "https://news.ycombinator.com/item?id=45852275"
     ],
     [
-      "FAA restricts commercial rocket launches indefinitely due to air traffic risks",
+      "FAA to restrict commercial rocket launches to overnight hours",
       "https://www.space.com/space-exploration/launches-spacecraft/faa-restricts-commercial-rocket-launches-indefinitely-due-to-air-traffic-risks-from-government-shutdown"
     ]
   ],
@@ -201,21 +211,11 @@
   ],
   [
     [
-      "2025-11-07, 16:28:31",
-      "https://news.ycombinator.com/item?id=45848083"
-    ],
-    [
-      "Denmark's government aims to ban access to social media for children under 15",
-      "https://apnews.com/article/denmark-social-media-ban-children-7862d2a8cc590b4969c8931a01adc7f4"
-    ]
-  ],
-  [
-    [
       "2025-11-07, 14:05:49",
       "https://news.ycombinator.com/item?id=45846517"
     ],
     [
-      "I Love OCaml",
+      "Why I love OCaml (2023)",
       "https://mccd.space/posts/ocaml-the-worlds-best/"
     ]
   ],
@@ -245,7 +245,7 @@
       "https://news.ycombinator.com/item?id=45809429"
     ],
     [
-      "Transducer: Composition, Abstraction, Performance",
+      "Transducer: Composition, abstraction, performance (2018)",
       "https://funktionale-programmierung.de/en/2018/03/22/transducer.html"
     ]
   ],
@@ -285,18 +285,18 @@
       "https://news.ycombinator.com/item?id=45791596"
     ],
     [
-      "Objective-C for Windows, including UIKit (public archive). From Microsoft",
+      "WinObjC – The Windows Bridge for iOS",
       "https://github.com/microsoft/WinObjC"
     ]
   ],
   [
     [
-      "2025-11-01, 02:14:18",
-      "https://news.ycombinator.com/item?id=45778729"
+      "2025-11-02, 10:58:33",
+      "https://news.ycombinator.com/item?id=45789405"
     ],
     [
-      "Developers in C-Level Meetings",
-      "https://radekmie.dev/blog/on-developers-in-c-level-meetings/"
+      "Why I love my Boox Palma e-reader",
+      "https://minimal.bearblog.dev/why-i-love-my-boox-palma-e-reader/"
     ]
   ]
 ]
