@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-11-09, 12:44:35",
+      "https://news.ycombinator.com/item?id=45865159"
+    ],
+    [
+      "Reviving Classic Unix Games: A 20-Year Journey Through Software Archaeology",
+      "https://vejeta.com/reviving-classic-unix-games-a-20-year-journey-through-software-archaeology/"
+    ]
+  ],
+  [
+    [
+      "2025-11-09, 12:33:38",
+      "https://news.ycombinator.com/item?id=45865098"
+    ],
+    [
+      "Alive Internet Theory",
+      "https://alivetheory.net/"
+    ]
+  ],
+  [
+    [
       "2025-11-09, 12:24:50",
       "https://news.ycombinator.com/item?id=45865049"
     ],
@@ -11,12 +31,12 @@
   ],
   [
     [
-      "2025-11-09, 11:12:02",
-      "https://news.ycombinator.com/item?id=45864732"
+      "2025-11-09, 11:52:18",
+      "https://news.ycombinator.com/item?id=45864900"
     ],
     [
-      "Ask HN: How would u setup a child's first Linux computer?",
-      "https://news.ycombinator.com/item?id=45864732"
+      "Valori – A Python-native Vector Database I built from scratch",
+      "https://news.ycombinator.com/item?id=45864900"
     ]
   ],
   [
@@ -101,32 +121,12 @@
   ],
   [
     [
-      "2025-11-09, 01:19:00",
-      "https://news.ycombinator.com/item?id=45861984"
-    ],
-    [
-      "How Airbus Took Off",
-      "https://worksinprogress.co/issue/how-airbus-took-off/"
-    ]
-  ],
-  [
-    [
       "2025-11-08, 23:03:10",
       "https://news.ycombinator.com/item?id=45860843"
     ],
     [
       "Ironclad – formally verified, real-time capable, Unix-like OS kernel",
       "https://ironclad-os.org/"
-    ]
-  ],
-  [
-    [
-      "2025-11-08, 22:30:58",
-      "https://news.ycombinator.com/item?id=45860638"
-    ],
-    [
-      "Debugging BeagleBoard USB boot with a sniffer: fixing omap_loader on modern PCs",
-      "https://www.downtowndougbrown.com/2025/11/debugging-beagleboard-usb-boot-with-a-sniffer-fixing-omap_loader-on-modern-pcs/"
     ]
   ],
   [
@@ -177,6 +177,16 @@
     [
       "Study identifies weaknesses in how AI systems are evaluated",
       "https://www.oii.ox.ac.uk/news-events/study-identifies-weaknesses-in-how-ai-systems-are-evaluated/"
+    ]
+  ],
+  [
+    [
+      "2025-11-08, 00:14:50",
+      "https://news.ycombinator.com/item?id=45852854"
+    ],
+    [
+      "Valdi – A cross-platform UI framework that delivers native performance",
+      "https://github.com/Snapchat/Valdi"
     ]
   ],
   [
@@ -277,16 +287,6 @@
     [
       "Open-source communications by bouncing signals off the Moon",
       "https://open.space/"
-    ]
-  ],
-  [
-    [
-      "2025-11-01, 00:32:48",
-      "https://news.ycombinator.com/item?id=45778214"
-    ],
-    [
-      "\"Our research is greatly sped up by AI but AI still needs us\"",
-      "https://twitter.com/wtgowers/status/1984340182351634571"
     ]
   ],
   [
