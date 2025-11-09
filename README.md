@@ -18,7 +18,6 @@
 * [2025-11-08, 19:29:44](https://news.ycombinator.com/item?id=45859243) - [Avería: The Average Font (2011)](http://iotic.com/averia/)
 * [2025-11-08, 18:49:47](https://news.ycombinator.com/item?id=45858945) - [WriterdeckOS](https://writerdeckos.com)
 * [2025-11-08, 18:43:55](https://news.ycombinator.com/item?id=45858905) - [Marko – A declarative, HTML‑based language](https://markojs.com/)
-* [2025-11-08, 16:40:12](https://news.ycombinator.com/item?id=45857988) - [Opencloud – An alternative to Nextcloud written in Go](https://github.com/opencloud-eu/opencloud)
 * [2025-11-08, 16:25:41](https://news.ycombinator.com/item?id=45857836) - [Cloudflare scrubs Aisuru botnet from top domains list](https://krebsonsecurity.com/2025/11/cloudflare-scrubs-aisuru-botnet-from-top-domains-list/)
 * [2025-11-08, 14:18:22](https://news.ycombinator.com/item?id=45856804) - [Study identifies weaknesses in how AI systems are evaluated](https://www.oii.ox.ac.uk/news-events/study-identifies-weaknesses-in-how-ai-systems-are-evaluated/)
 * [2025-11-08, 00:14:50](https://news.ycombinator.com/item?id=45852854) - [Valdi – A cross-platform UI framework that delivers native performance](https://github.com/Snapchat/Valdi)
@@ -30,6 +29,7 @@
 * [2025-11-03, 08:46:51](https://news.ycombinator.com/item?id=45797083) - [How to build your own VPN, or: the history of WARP](https://blog.cloudflare.com/how-to-build-your-own-vpn-or-the-history-of-warp/)
 * [2025-11-03, 08:14:34](https://news.ycombinator.com/item?id=45796897) - [Show HN: Hephaestus – Autonomous Multi-Agent Orchestration Framework](https://github.com/Ido-Levi/Hephaestus)
 * [2025-11-02, 14:44:02](https://news.ycombinator.com/item?id=45790672) - [Open-source communications by bouncing signals off the Moon](https://open.space/)
+* [2025-10-31, 20:46:51](https://news.ycombinator.com/item?id=45776512) - [Show HN: I built a self-hosted error tracker in Rails](https://telebugs.com)
 
 ## [Archives](archives/index.md)
 
