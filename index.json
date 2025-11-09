@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-11-09, 04:10:06",
+      "https://news.ycombinator.com/item?id=45862833"
+    ],
+    [
+      "Grok 4 Fast now has 2M context window",
+      "https://docs.x.ai/docs/models"
+    ]
+  ],
+  [
+    [
       "2025-11-09, 03:32:46",
       "https://news.ycombinator.com/item?id=45862674"
     ],
@@ -211,16 +221,6 @@
   ],
   [
     [
-      "2025-11-08, 07:29:35",
-      "https://news.ycombinator.com/item?id=45854862"
-    ],
-    [
-      "Making Democracy Work: Fixing and Simplifying Egalitarian Paxos",
-      "https://arxiv.org/abs/2511.02743"
-    ]
-  ],
-  [
-    [
       "2025-11-08, 00:14:50",
       "https://news.ycombinator.com/item?id=45852854"
     ],
@@ -251,16 +251,6 @@
   ],
   [
     [
-      "2025-11-05, 05:45:22",
-      "https://news.ycombinator.com/item?id=45819635"
-    ],
-    [
-      "GPS 'kill' switch allows state police cruisers to go dark and disable tracking",
-      "https://www.boston25news.com/news/local/25-investigates-gps-kill-switch-allows-msp-cruisers-go-dark-disable-tracking/5OKMJEUJDNAVXPLN4WKFADNPLM/"
-    ]
-  ],
-  [
-    [
       "2025-11-03, 11:47:19",
       "https://news.ycombinator.com/item?id=45798068"
     ],
@@ -277,6 +267,16 @@
     [
       "How to build your own VPN, or: the history of WARP",
       "https://blog.cloudflare.com/how-to-build-your-own-vpn-or-the-history-of-warp/"
+    ]
+  ],
+  [
+    [
+      "2025-11-03, 08:14:34",
+      "https://news.ycombinator.com/item?id=45796897"
+    ],
+    [
+      "Show HN: Hephaestus – Autonomous Multi-Agent Orchestration Framework",
+      "https://github.com/Ido-Levi/Hephaestus"
     ]
   ],
   [
