@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-11-09, 06:32:37](https://news.ycombinator.com/item?id=45863435) - [Visa and Mastercard near deal with merchants that would change rewards landscape](https://www.wsj.com/finance/banking/visa-and-mastercard-near-deal-with-merchants-that-would-change-rewards-landscape-fc6a0c78)
+* [2025-11-09, 06:13:05](https://news.ycombinator.com/item?id=45863360) - [I Am Mark Zuckerberg](https://iammarkzuckerberg.com/)
 * [2025-11-09, 05:05:20](https://news.ycombinator.com/item?id=45863057) - [Study finds memory decline surge in young people](https://onepercentrule.substack.com/p/under-40s-declining-memory)
 * [2025-11-09, 04:59:19](https://news.ycombinator.com/item?id=45863024) - [Forth – is it still relevant?](https://github.com/chochain/eforth)
 * [2025-11-09, 04:47:27](https://news.ycombinator.com/item?id=45862967) - [Runc breaks pods when CPU requests aren't multiples of 10](https://github.com/opencontainers/runc/issues/4982)
@@ -29,7 +30,6 @@
 * [2025-11-03, 08:46:51](https://news.ycombinator.com/item?id=45797083) - [How to build your own VPN, or: the history of WARP](https://blog.cloudflare.com/how-to-build-your-own-vpn-or-the-history-of-warp/)
 * [2025-11-03, 08:14:34](https://news.ycombinator.com/item?id=45796897) - [Show HN: Hephaestus – Autonomous Multi-Agent Orchestration Framework](https://github.com/Ido-Levi/Hephaestus)
 * [2025-11-02, 14:44:02](https://news.ycombinator.com/item?id=45790672) - [Open-source communications by bouncing signals off the Moon](https://open.space/)
-* [2025-10-31, 20:30:10](https://news.ycombinator.com/item?id=45776368) - [My first fifteen compilers (2019)](https://blog.sigplan.org/2019/07/09/my-first-fifteen-compilers/)
 
 ## [Archives](archives/index.md)
 
