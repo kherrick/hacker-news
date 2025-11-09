@@ -1,6 +1,36 @@
 [
   [
     [
+      "2025-11-09, 05:05:20",
+      "https://news.ycombinator.com/item?id=45863057"
+    ],
+    [
+      "Under 40s Declining Memory",
+      "https://onepercentrule.substack.com/p/under-40s-declining-memory"
+    ]
+  ],
+  [
+    [
+      "2025-11-09, 04:59:19",
+      "https://news.ycombinator.com/item?id=45863024"
+    ],
+    [
+      "Forth – is it still relevant?",
+      "https://github.com/chochain/eforth"
+    ]
+  ],
+  [
+    [
+      "2025-11-09, 04:47:27",
+      "https://news.ycombinator.com/item?id=45862967"
+    ],
+    [
+      "Runc breaks pods when CPU requests aren't multiples of 10",
+      "https://github.com/opencontainers/runc/issues/4982"
+    ]
+  ],
+  [
+    [
       "2025-11-09, 04:02:47",
       "https://news.ycombinator.com/item?id=45862802"
     ],
@@ -57,16 +87,6 @@
     [
       "How Airbus Took Off",
       "https://worksinprogress.co/issue/how-airbus-took-off/"
-    ]
-  ],
-  [
-    [
-      "2025-11-09, 01:08:50",
-      "https://news.ycombinator.com/item?id=45861933"
-    ],
-    [
-      "He Chunhui's Tiny386 Turns an ESP32-S3 into a Fully-Functional 386-Powered PC",
-      "https://www.hackster.io/news/he-chunhui-s-tiny386-turns-the-humble-esp32-s3-into-a-fully-functional-386-powered-desktop-pc-5454cf6e36a1"
     ]
   ],
   [
@@ -177,26 +197,6 @@
     [
       "Cloudflare scrubs Aisuru botnet from top domains list",
       "https://krebsonsecurity.com/2025/11/cloudflare-scrubs-aisuru-botnet-from-top-domains-list/"
-    ]
-  ],
-  [
-    [
-      "2025-11-08, 14:59:05",
-      "https://news.ycombinator.com/item?id=45857053"
-    ],
-    [
-      "Ticker: Don't die of heart disease",
-      "https://myticker.com/"
-    ]
-  ],
-  [
-    [
-      "2025-11-08, 14:58:03",
-      "https://news.ycombinator.com/item?id=45857045"
-    ],
-    [
-      "An Algebraic Language for the Manipulation of Symbolic Expressions (1958) [pdf]",
-      "https://softwarepreservation.computerhistory.org/LISP/MIT/AIM-001.pdf"
     ]
   ],
   [
