@@ -21,6 +21,36 @@
   ],
   [
     [
+      "2025-11-09, 13:09:22",
+      "https://news.ycombinator.com/item?id=45865327"
+    ],
+    [
+      "Using bubblewrap to add sandboxing to NetBSD",
+      "https://blog.netbsd.org/tnf/entry/gsoc2025_bubblewrap_sandboxing"
+    ]
+  ],
+  [
+    [
+      "2025-11-09, 13:03:36",
+      "https://news.ycombinator.com/item?id=45865289"
+    ],
+    [
+      "Montana Becomes First State to Enshrine 'Right to Compute' into Law",
+      "https://montananewsroom.com/montana-becomes-first-state-to-enshrine-right-to-compute-into-law/"
+    ]
+  ],
+  [
+    [
+      "2025-11-09, 12:50:07",
+      "https://news.ycombinator.com/item?id=45865189"
+    ],
+    [
+      "Zensical – A modern static site generator built by the Material for MkDocs team",
+      "https://squidfunk.github.io/mkdocs-material/blog/2025/11/05/zensical/"
+    ]
+  ],
+  [
+    [
       "2025-11-09, 12:44:35",
       "https://news.ycombinator.com/item?id=45865159"
     ],
@@ -91,16 +121,6 @@
   ],
   [
     [
-      "2025-11-09, 04:10:06",
-      "https://news.ycombinator.com/item?id=45862833"
-    ],
-    [
-      "Grok 4 Fast now has 2M context window",
-      "https://docs.x.ai/docs/models"
-    ]
-  ],
-  [
-    [
       "2025-11-09, 04:02:47",
       "https://news.ycombinator.com/item?id=45862802"
     ],
@@ -117,16 +137,6 @@
     [
       "Tabloid: The Clickbait Headline Programming Language",
       "https://tabloid.vercel.app/"
-    ]
-  ],
-  [
-    [
-      "2025-11-09, 01:33:43",
-      "https://news.ycombinator.com/item?id=45862071"
-    ],
-    [
-      "IRIX Introduction",
-      "http://www.sgistuff.net/software/irixintro/index.html"
     ]
   ],
   [
@@ -181,16 +191,6 @@
   ],
   [
     [
-      "2025-11-08, 16:40:12",
-      "https://news.ycombinator.com/item?id=45857988"
-    ],
-    [
-      "Opencloud – An alternative to Nextcloud written in Go",
-      "https://github.com/opencloud-eu/opencloud"
-    ]
-  ],
-  [
-    [
       "2025-11-08, 14:18:22",
       "https://news.ycombinator.com/item?id=45856804"
     ],
@@ -241,16 +241,6 @@
   ],
   [
     [
-      "2025-11-03, 08:46:51",
-      "https://news.ycombinator.com/item?id=45797083"
-    ],
-    [
-      "How to build your own VPN, or: the history of WARP",
-      "https://blog.cloudflare.com/how-to-build-your-own-vpn-or-the-history-of-warp/"
-    ]
-  ],
-  [
-    [
       "2025-11-03, 08:14:34",
       "https://news.ycombinator.com/item?id=45796897"
     ],
@@ -267,6 +257,16 @@
     [
       "The overengineered solution to my pigeon problem (2022)",
       "https://maxnagy.com/posts/pigeons/"
+    ]
+  ],
+  [
+    [
+      "2025-11-02, 16:19:24",
+      "https://news.ycombinator.com/item?id=45791380"
+    ],
+    [
+      "How to get the GOT address from a PLT stub using GDB",
+      "https://rafaelbeirigo.github.io/cybersec-dojo/research/2025/11/01/how-to-get-the-got-address-from-a-plt-stub-using-gdb.html"
     ]
   ],
   [
