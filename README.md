@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-11-09, 21:30:07](https://news.ycombinator.com/item?id=45869366) - [America AI: Public Funding, Elite Extraction (not innovation)](https://x.com/Toutapodcast/article/1987591854829768791)
 * [2025-11-09, 21:02:33](https://news.ycombinator.com/item?id=45869146) - [Ask HN: What Are You Working On? (Nov 2025)](https://news.ycombinator.com/item?id=45869146)
 * [2025-11-09, 19:47:49](https://news.ycombinator.com/item?id=45868533) - [The Computer Church – Pennsylvania Computer and Technology Museum](https://www.thecomputerchurch.org/)
 * [2025-11-09, 19:15:21](https://news.ycombinator.com/item?id=45868259) - [The Sega Master System](https://bumbershootsoft.wordpress.com/2025/11/08/the-sega-master-system/)
 * [2025-11-09, 18:17:44](https://news.ycombinator.com/item?id=45867717) - [Drilling down on Uncle Sam's proposed TP-Link ban](https://krebsonsecurity.com/2025/11/drilling-down-on-uncle-sams-proposed-tp-link-ban/)
+* [2025-11-09, 17:40:38](https://news.ycombinator.com/item?id=45867371) - [American Heart Association says melatonin may be linked to serious heart risks](https://www.sciencedaily.com/releases/2025/11/251104012959.htm)
 * [2025-11-09, 17:28:45](https://news.ycombinator.com/item?id=45867277) - [Python Software Foundation gets a donor surge after rejecting federal grant](https://thenewstack.io/psf-gets-a-donor-surge-after-rejecting-anti-dei-federal-grant/)
 * [2025-11-09, 17:17:20](https://news.ycombinator.com/item?id=45867176) - [Ask HN: How do you get over the fear of sharing code?](https://news.ycombinator.com/item?id=45867176)
 * [2025-11-09, 16:34:44](https://news.ycombinator.com/item?id=45866772) - [Bumble Berry Pi – A Cheap DIY Raspberry Pi Handheld Cyberdeck](https://github.com/samcervantes/bumble-berry-pi)
