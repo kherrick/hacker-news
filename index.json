@@ -181,16 +181,6 @@
   ],
   [
     [
-      "2025-11-08, 16:40:12",
-      "https://news.ycombinator.com/item?id=45857988"
-    ],
-    [
-      "Opencloud – An alternative to Nextcloud written in Go",
-      "https://github.com/opencloud-eu/opencloud"
-    ]
-  ],
-  [
-    [
       "2025-11-08, 16:25:41",
       "https://news.ycombinator.com/item?id=45857836"
     ],
@@ -297,6 +287,16 @@
     [
       "Open-source communications by bouncing signals off the Moon",
       "https://open.space/"
+    ]
+  ],
+  [
+    [
+      "2025-10-31, 20:46:51",
+      "https://news.ycombinator.com/item?id=45776512"
+    ],
+    [
+      "Show HN: I built a self-hosted error tracker in Rails",
+      "https://telebugs.com"
     ]
   ]
 ]
