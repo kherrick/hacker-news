@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-11-09, 16:34:44",
+      "https://news.ycombinator.com/item?id=45866772"
+    ],
+    [
+      "Bumble Berry Pi – A Cheap DIY Raspberry Pi Handheld Cyberdeck",
+      "https://github.com/samcervantes/bumble-berry-pi"
+    ]
+  ],
+  [
+    [
       "2025-11-09, 16:10:23",
       "https://news.ycombinator.com/item?id=45866572"
     ],
@@ -157,16 +167,6 @@
     [
       "Reverse engineering Codex CLI to get GPT-5-Codex-Mini to draw me a pelican",
       "https://simonwillison.net/2025/Nov/9/gpt-5-codex-mini/"
-    ]
-  ],
-  [
-    [
-      "2025-11-09, 02:53:45",
-      "https://news.ycombinator.com/item?id=45862470"
-    ],
-    [
-      "Tabloid: The Clickbait Headline Programming Language",
-      "https://tabloid.vercel.app/"
     ]
   ],
   [
