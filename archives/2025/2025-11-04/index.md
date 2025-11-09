@@ -54,6 +54,7 @@
 * [2025-11-04, 14:31:27](https://news.ycombinator.com/item?id=45811447) - [Optimizing Datalog for the GPU](https://danglingpointers.substack.com/p/optimizing-datalog-for-the-gpu)
 * [2025-11-04, 13:58:35](https://news.ycombinator.com/item?id=45811093) - [Show HN: A CSS-Only Terrain Generator](https://terra.layoutit.com)
 * [2025-11-04, 13:34:45](https://news.ycombinator.com/item?id=45810856) - [Show HN: I built a local-first daily planner for iOS](https://apps.apple.com/ca/app/to-do-list-planner-zesfy/id6479947874)
+* [2025-11-04, 13:33:11](https://news.ycombinator.com/item?id=45810842) - [Show HN: PingStalker – A a macOS tool for network engineers](https://www.pingstalker.com/?hn)
 * [2025-11-04, 13:15:52](https://news.ycombinator.com/item?id=45810676) - [The Art of Atari (2016)](http://www.artofatari.com)
 * [2025-11-04, 12:52:54](https://news.ycombinator.com/item?id=45810430) - [Chaining FFmpeg with a Browser Agent](https://100x.bot/a/chaining-ffmpeg-with-browser-agent)
 * [2025-11-04, 12:27:46](https://news.ycombinator.com/item?id=45810127) - [Ask HN: Why are most status pages delayed?](https://news.ycombinator.com/item?id=45810127)
