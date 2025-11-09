@@ -12,6 +12,7 @@
 * [2025-11-03, 21:27:56](https://news.ycombinator.com/item?id=45804664) - [Apple App Store frontend source code archive](https://github.com/rxliuli/apps.apple.com)
 * [2025-11-03, 21:27:56](https://news.ycombinator.com/item?id=45804664) - [App Store web has exposed all its source code](https://www.reddit.com/r/webdev/comments/1onnzlj/app_store_web_has_exposed_all_its_source_code/)
 * [2025-11-03, 21:01:09](https://news.ycombinator.com/item?id=45804377) - [AI's Dial-Up Era](https://www.wreflection.com/p/ai-dial-up-era)
+* [2025-11-03, 20:52:50](https://news.ycombinator.com/item?id=45804295) - [CHIP8 – writing emulator, assembler, example game and VHDL hardware impl](http://blog.dominikrudnik.pl/chip8-emulator-assembler-game-vhdl)
 * [2025-11-03, 20:37:34](https://news.ycombinator.com/item?id=45804122) - [2,400 HP FDNY Super Pumper could extinguish hell itself](https://bangshift.com/bangshiftxl/mack-super-pumper-system-locomotive-engine-powered-pumper-extinguish-hell-often/)
 * [2025-11-03, 19:37:57](https://news.ycombinator.com/item?id=45803427) - [Leverage Points: Places to Intervene in a System (1999)](https://donellameadows.org/archives/leverage-points-places-to-intervene-in-a-system/)
 * [2025-11-03, 19:33:02](https://news.ycombinator.com/item?id=45803358) - [</> Htmx – The Fetch()ening](https://htmx.org/essays/the-fetchening/)

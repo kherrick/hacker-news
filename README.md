@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-11-09, 18:17:44](https://news.ycombinator.com/item?id=45867717) - [Drilling Down on Uncle Sam's Proposed TP-Link Ban](https://krebsonsecurity.com/2025/11/drilling-down-on-uncle-sams-proposed-tp-link-ban/)
-* [2025-11-09, 18:03:45](https://news.ycombinator.com/item?id=45867582) - [Orbital dynamics wizardry helped save NASA's next Mars mission](https://arstechnica.com/space/2025/11/heres-how-orbital-dynamics-wizardry-helped-save-nasas-next-mars-mission/)
+* [2025-11-09, 17:28:45](https://news.ycombinator.com/item?id=45867277) - [Python Software Foundation gets a donor surge after rejecting federal grant](https://thenewstack.io/psf-gets-a-donor-surge-after-rejecting-anti-dei-federal-grant/)
 * [2025-11-09, 17:17:20](https://news.ycombinator.com/item?id=45867176) - [Ask HN: How do you get over the fear of sharing code?](https://news.ycombinator.com/item?id=45867176)
 * [2025-11-09, 16:34:44](https://news.ycombinator.com/item?id=45866772) - [Bumble Berry Pi – A Cheap DIY Raspberry Pi Handheld Cyberdeck](https://github.com/samcervantes/bumble-berry-pi)
 * [2025-11-09, 16:26:09](https://news.ycombinator.com/item?id=45866697) - [Marble Fountain](https://willmorrison.net/posts/marble-fountain/)
@@ -23,8 +23,8 @@
 * [2025-11-08, 23:03:10](https://news.ycombinator.com/item?id=45860843) - [Ironclad – formally verified, real-time capable, Unix-like OS kernel](https://ironclad-os.org/)
 * [2025-11-08, 19:57:52](https://news.ycombinator.com/item?id=45859471) - [Largest cargo sailboat completes first Atlantic crossing](https://www.marineinsight.com/shipping-news/worlds-largest-cargo-sailboat-completes-historic-first-atlantic-crossing/)
 * [2025-11-08, 18:43:55](https://news.ycombinator.com/item?id=45858905) - [Marko – A declarative, HTML‑based language](https://markojs.com/)
-* [2025-11-08, 14:18:22](https://news.ycombinator.com/item?id=45856804) - [Study identifies weaknesses in how AI systems are evaluated](https://www.oii.ox.ac.uk/news-events/study-identifies-weaknesses-in-how-ai-systems-are-evaluated/)
 * [2025-11-04, 12:36:49](https://news.ycombinator.com/item?id=45810223) - [When Your Hash Becomes a String: Hunting Ruby's Million-to-One Memory Bug](https://mensfeld.pl/2025/11/ruby-ffi-gc-bug-hash-becomes-string/)
+* [2025-11-03, 20:52:50](https://news.ycombinator.com/item?id=45804295) - [CHIP8 – writing emulator, assembler, example game and VHDL hardware impl](http://blog.dominikrudnik.pl/chip8-emulator-assembler-game-vhdl)
 * [2025-11-03, 12:48:16](https://news.ycombinator.com/item?id=45798473) - [Toolkit to help you get started with Spec-Driven Development](https://github.com/github/spec-kit)
 * [2025-11-03, 00:48:32](https://news.ycombinator.com/item?id=45794814) - [The overengineered solution to my pigeon problem (2022)](https://maxnagy.com/posts/pigeons/)
 * [2025-11-02, 14:44:02](https://news.ycombinator.com/item?id=45790672) - [Open-source communications by bouncing signals off the Moon](https://open.space/)
