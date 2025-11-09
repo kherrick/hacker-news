@@ -2,6 +2,7 @@
 
 * [2025-11-09, 12:44:35](https://news.ycombinator.com/item?id=45865159) - [Reviving Classic Unix Games: A 20-Year Journey Through Software Archaeology](https://vejeta.com/reviving-classic-unix-games-a-20-year-journey-through-software-archaeology/)
 * [2025-11-09, 12:33:38](https://news.ycombinator.com/item?id=45865098) - [Alive internet theory](https://alivetheory.net/)
+* [2025-11-09, 12:29:12](https://news.ycombinator.com/item?id=45865076) - [Maybe Don't Talk to the New York Times About Zohran Mamdani](https://lithub.com/maybe-dont-talk-to-the-new-york-times-about-zohran-mamdani/)
 * [2025-11-09, 12:24:50](https://news.ycombinator.com/item?id=45865049) - [Visualize FastAPI endpoints with FastAPI-Voyager](https://www.newsyeah.fun/voyager/)
 * [2025-11-09, 06:13:05](https://news.ycombinator.com/item?id=45863360) - [I Am Mark Zuckerberg](https://iammarkzuckerberg.com/)
 * [2025-11-09, 05:05:20](https://news.ycombinator.com/item?id=45863057) - [Study finds memory decline surge in young people](https://onepercentrule.substack.com/p/under-40s-declining-memory)
@@ -18,7 +19,6 @@
 * [2025-11-08, 19:29:44](https://news.ycombinator.com/item?id=45859243) - [Avería: The Average Font (2011)](http://iotic.com/averia/)
 * [2025-11-08, 18:43:55](https://news.ycombinator.com/item?id=45858905) - [Marko – A declarative, HTML‑based language](https://markojs.com/)
 * [2025-11-08, 16:40:12](https://news.ycombinator.com/item?id=45857988) - [Opencloud – An alternative to Nextcloud written in Go](https://github.com/opencloud-eu/opencloud)
-* [2025-11-08, 16:25:41](https://news.ycombinator.com/item?id=45857836) - [Cloudflare scrubs Aisuru botnet from top domains list](https://krebsonsecurity.com/2025/11/cloudflare-scrubs-aisuru-botnet-from-top-domains-list/)
 * [2025-11-08, 14:18:22](https://news.ycombinator.com/item?id=45856804) - [Study identifies weaknesses in how AI systems are evaluated](https://www.oii.ox.ac.uk/news-events/study-identifies-weaknesses-in-how-ai-systems-are-evaluated/)
 * [2025-11-04, 13:33:11](https://news.ycombinator.com/item?id=45810842) - [Show HN: PingStalker – A a macOS tool for network engineers](https://www.pingstalker.com/?hn)
 * [2025-11-04, 12:24:40](https://news.ycombinator.com/item?id=45810099) - [Show HN: Sparktype – a CMS and SSG that runs entirely in the browser](https://app.sparktype.org)
