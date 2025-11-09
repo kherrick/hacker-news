@@ -6,6 +6,9 @@
 
 * [2025-11-09, 13:40:43](https://news.ycombinator.com/item?id=45865546) - [Show HN: Pipeflow-PHP – Automate anything with pipelines even non-devs can edit](https://github.com/marcosiino/pipeflow-php)
 * [2025-11-09, 13:24:43](https://news.ycombinator.com/item?id=45865426) - [Drax: Speech Recognition with Discrete Flow Matching](https://huggingface.co/papers/2510.04162)
+* [2025-11-09, 13:09:22](https://news.ycombinator.com/item?id=45865327) - [Using bubblewrap to add sandboxing to NetBSD](https://blog.netbsd.org/tnf/entry/gsoc2025_bubblewrap_sandboxing)
+* [2025-11-09, 13:03:36](https://news.ycombinator.com/item?id=45865289) - [Montana Becomes First State to Enshrine 'Right to Compute' into Law](https://montananewsroom.com/montana-becomes-first-state-to-enshrine-right-to-compute-into-law/)
+* [2025-11-09, 12:50:07](https://news.ycombinator.com/item?id=45865189) - [Zensical – A modern static site generator built by the Material for MkDocs team](https://squidfunk.github.io/mkdocs-material/blog/2025/11/05/zensical/)
 * [2025-11-09, 12:44:35](https://news.ycombinator.com/item?id=45865159) - [Reviving Classic Unix Games: A 20-Year Journey Through Software Archaeology](https://vejeta.com/reviving-classic-unix-games-a-20-year-journey-through-software-archaeology/)
 * [2025-11-09, 12:33:38](https://news.ycombinator.com/item?id=45865098) - [Alive Internet Theory](https://alivetheory.net/)
 * [2025-11-09, 12:29:12](https://news.ycombinator.com/item?id=45865076) - [Maybe Don't Talk to the New York Times About Zohran Mamdani](https://lithub.com/maybe-dont-talk-to-the-new-york-times-about-zohran-mamdani/)
