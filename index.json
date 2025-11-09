@@ -41,22 +41,22 @@
   ],
   [
     [
-      "2025-11-09, 12:29:12",
-      "https://news.ycombinator.com/item?id=45865076"
-    ],
-    [
-      "Maybe Don't Talk to the New York Times About Zohran Mamdani",
-      "https://lithub.com/maybe-dont-talk-to-the-new-york-times-about-zohran-mamdani/"
-    ]
-  ],
-  [
-    [
       "2025-11-09, 12:24:50",
       "https://news.ycombinator.com/item?id=45865049"
     ],
     [
       "Visualize FastAPI endpoints with FastAPI-Voyager",
       "https://www.newsyeah.fun/voyager/"
+    ]
+  ],
+  [
+    [
+      "2025-11-09, 11:12:02",
+      "https://news.ycombinator.com/item?id=45864732"
+    ],
+    [
+      "Ask HN: How would you set up a child’s first Linux computer?",
+      "https://news.ycombinator.com/item?id=45864732"
     ]
   ],
   [
@@ -107,16 +107,6 @@
     [
       "Reverse engineering Codex CLI to get GPT-5-Codex-Mini to draw me a pelican",
       "https://simonwillison.net/2025/Nov/9/gpt-5-codex-mini/"
-    ]
-  ],
-  [
-    [
-      "2025-11-09, 02:59:58",
-      "https://news.ycombinator.com/item?id=45862500"
-    ],
-    [
-      "Show HN: Geofenced chat communities anyone can create",
-      "https://vicinity.social/"
     ]
   ],
   [
@@ -181,6 +171,16 @@
   ],
   [
     [
+      "2025-11-08, 16:40:12",
+      "https://news.ycombinator.com/item?id=45857988"
+    ],
+    [
+      "Opencloud – An alternative to Nextcloud written in Go",
+      "https://github.com/opencloud-eu/opencloud"
+    ]
+  ],
+  [
+    [
       "2025-11-08, 14:18:22",
       "https://news.ycombinator.com/item?id=45856804"
     ],
@@ -195,7 +195,7 @@
       "https://news.ycombinator.com/item?id=45810842"
     ],
     [
-      "Show HN: PingStalker – A a macOS tool for network engineers",
+      "Show HN: PingStalker – A macOS tool for network engineers",
       "https://www.pingstalker.com/?hn"
     ]
   ],
@@ -285,7 +285,7 @@
       "https://news.ycombinator.com/item?id=45782192"
     ],
     [
-      "Email Verification Protocol",
+      "Email verification protocol",
       "https://github.com/WICG/email-verification-protocol"
     ]
   ],
