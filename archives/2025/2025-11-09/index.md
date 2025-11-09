@@ -7,6 +7,7 @@
 * [2025-11-09, 15:30:23](https://news.ycombinator.com/item?id=45866243) - [AI isn't replacing jobs. AI spending is](https://www.fastcompany.com/91435192/chatgpt-llm-openai-jobs-amazon)
 * [2025-11-09, 15:27:42](https://news.ycombinator.com/item?id=45866224) - [The Manuscripts of Edsger W. Dijkstra](https://www.cs.utexas.edu/~EWD/)
 * [2025-11-09, 15:18:23](https://news.ycombinator.com/item?id=45866165) - [Samsung Family Hub fridges will start showing adds to \"Elevate\" Home Ecosystem](https://news.samsung.com/us/samsung-family-hub-2025-update-elevates-smart-home-ecosystem/)
+* [2025-11-09, 14:50:29](https://news.ycombinator.com/item?id=45865956) - [Genetically Engineered Babies Are Banned. Tech Titans Are Trying to Make One](https://www.wsj.com/tech/biotech/genetically-engineered-babies-tech-billionaires-6779efc8)
 * [2025-11-09, 14:44:06](https://news.ycombinator.com/item?id=45865921) - [About KeePassXC's Code Quality Control](https://keepassxc.org/blog/2025-11-09-about-keepassxcs-code-quality-control/)
 * [2025-11-09, 13:40:43](https://news.ycombinator.com/item?id=45865546) - [Show HN: Pipeflow-PHP – Automate anything with pipelines even non-devs can edit](https://github.com/marcosiino/pipeflow-php)
 * [2025-11-09, 13:24:43](https://news.ycombinator.com/item?id=45865426) - [Drax: Speech Recognition with Discrete Flow Matching](https://huggingface.co/papers/2510.04162)
