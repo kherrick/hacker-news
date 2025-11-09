@@ -58,6 +58,7 @@
 * [2025-11-04, 13:15:52](https://news.ycombinator.com/item?id=45810676) - [The Art of Atari (2016)](http://www.artofatari.com)
 * [2025-11-04, 13:07:11](https://news.ycombinator.com/item?id=45810589) - [AI for Senior Software Engineers](https://www.emadibrahim.com/ai-guide)
 * [2025-11-04, 12:52:54](https://news.ycombinator.com/item?id=45810430) - [Chaining FFmpeg with a Browser Agent](https://100x.bot/a/chaining-ffmpeg-with-browser-agent)
+* [2025-11-04, 12:36:49](https://news.ycombinator.com/item?id=45810223) - [When Your Hash Becomes a String: Hunting Ruby's Million-to-One Memory Bug](https://mensfeld.pl/2025/11/ruby-ffi-gc-bug-hash-becomes-string/)
 * [2025-11-04, 12:27:46](https://news.ycombinator.com/item?id=45810127) - [Ask HN: Why are most status pages delayed?](https://news.ycombinator.com/item?id=45810127)
 * [2025-11-04, 12:24:40](https://news.ycombinator.com/item?id=45810099) - [Show HN: Sparktype – a CMS and SSG that runs entirely in the browser](https://app.sparktype.org)
 * [2025-11-04, 11:56:23](https://news.ycombinator.com/item?id=45809932) - [Former US Vice-President Cheney Dies](https://www.reuters.com/world/us/former-us-vp-dick-cheney-dead-84-punchbowl-news-says-2025-11-04/)
