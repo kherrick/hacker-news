@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2025-11-09, 15:18:23",
+      "https://news.ycombinator.com/item?id=45866165"
+    ],
+    [
+      "Samsung Family Hub fridges will start showing adds to \"Elevate\" Home Ecosystem",
+      "https://news.samsung.com/us/samsung-family-hub-2025-update-elevates-smart-home-ecosystem/"
+    ]
+  ],
+  [
+    [
       "2025-11-09, 14:44:06",
       "https://news.ycombinator.com/item?id=45865921"
     ],
@@ -201,12 +211,12 @@
   ],
   [
     [
-      "2025-11-04, 12:24:40",
-      "https://news.ycombinator.com/item?id=45810099"
+      "2025-11-04, 12:36:49",
+      "https://news.ycombinator.com/item?id=45810223"
     ],
     [
-      "Show HN: Sparktype – a CMS and SSG that runs entirely in the browser",
-      "https://app.sparktype.org"
+      "When Your Hash Becomes a String: Hunting Ruby's Million-to-One Memory Bug",
+      "https://mensfeld.pl/2025/11/ruby-ffi-gc-bug-hash-becomes-string/"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "Control structures in programming languages: from goto to algebraic effects",
       "http://xavierleroy.org/control-structures/"
-    ]
-  ],
-  [
-    [
-      "2025-11-03, 08:14:34",
-      "https://news.ycombinator.com/item?id=45796897"
-    ],
-    [
-      "Show HN: Hephaestus – Autonomous Multi-Agent Orchestration Framework",
-      "https://github.com/Ido-Levi/Hephaestus"
     ]
   ],
   [
