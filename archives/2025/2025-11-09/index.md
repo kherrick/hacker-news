@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-11-09](index.md)
 
+* [2025-11-09, 19:15:24](https://news.ycombinator.com/item?id=45868260) - [U.S. Tech Layoffs Hit Two-Decade High in October](https://thefivepost.com/u-s-tech-layoffs-hit-two-decade-high-in-october/)
 * [2025-11-09, 18:20:17](https://news.ycombinator.com/item?id=45867737) - [BBC director general and CEO resign over Trump documentary edit](https://www.bbc.com/news/live/cd9kqz1yyxkt)
 * [2025-11-09, 18:17:44](https://news.ycombinator.com/item?id=45867717) - [Drilling Down on Uncle Sam's Proposed TP-Link Ban](https://krebsonsecurity.com/2025/11/drilling-down-on-uncle-sams-proposed-tp-link-ban/)
 * [2025-11-09, 18:03:45](https://news.ycombinator.com/item?id=45867582) - [Orbital dynamics wizardry helped save NASA's next Mars mission](https://arstechnica.com/space/2025/11/heres-how-orbital-dynamics-wizardry-helped-save-nasas-next-mars-mission/)
