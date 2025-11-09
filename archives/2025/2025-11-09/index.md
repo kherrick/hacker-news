@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2025-11-09](index.md)
 
+* [2025-11-09, 12:44:35](https://news.ycombinator.com/item?id=45865159) - [Reviving Classic Unix Games: A 20-Year Journey Through Software Archaeology](https://vejeta.com/reviving-classic-unix-games-a-20-year-journey-through-software-archaeology/)
+* [2025-11-09, 12:33:38](https://news.ycombinator.com/item?id=45865098) - [Alive Internet Theory](https://alivetheory.net/)
 * [2025-11-09, 12:24:50](https://news.ycombinator.com/item?id=45865049) - [Visualize FastAPI endpoints with FastAPI-Voyager](https://www.newsyeah.fun/voyager/)
+* [2025-11-09, 11:52:18](https://news.ycombinator.com/item?id=45864900) - [Valori – A Python-native Vector Database I built from scratch](https://news.ycombinator.com/item?id=45864900)
 * [2025-11-09, 11:12:02](https://news.ycombinator.com/item?id=45864732) - [Ask HN: How would u setup a child's first Linux computer?](https://news.ycombinator.com/item?id=45864732)
 * [2025-11-09, 10:05:25](https://news.ycombinator.com/item?id=45864424) - [Blue Origin Launches NASA's Escapade Mission to Mars: How to Watch](https://www.nytimes.com/2025/11/09/science/blue-origin-new-glenn-launch.html)
 * [2025-11-09, 06:32:37](https://news.ycombinator.com/item?id=45863435) - [Visa and Mastercard Near Deal with Merchants That Would Change Rewards Landscape](https://www.wsj.com/finance/banking/visa-and-mastercard-near-deal-with-merchants-that-would-change-rewards-landscape-fc6a0c78)
