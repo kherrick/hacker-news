@@ -1,12 +1,12 @@
 [
   [
     [
-      "2025-11-09, 04:10:06",
-      "https://news.ycombinator.com/item?id=45862833"
+      "2025-11-09, 04:02:47",
+      "https://news.ycombinator.com/item?id=45862802"
     ],
     [
-      "Grok 4 Fast now has 2M context window",
-      "https://docs.x.ai/docs/models"
+      "Reverse engineering Codex CLI to get GPT-5-Codex-Mini to draw me a pelican",
+      "https://simonwillison.net/2025/Nov/9/gpt-5-codex-mini/"
     ]
   ],
   [
@@ -47,16 +47,6 @@
     [
       "Tabloid: The Clickbait Headline Programming Language",
       "https://tabloid.vercel.app/"
-    ]
-  ],
-  [
-    [
-      "2025-11-09, 01:33:43",
-      "https://news.ycombinator.com/item?id=45862071"
-    ],
-    [
-      "IRIX Introduction",
-      "http://www.sgistuff.net/software/irixintro/index.html"
     ]
   ],
   [
@@ -247,6 +237,16 @@
     [
       "Why is Zig so cool?",
       "https://nilostolte.github.io/tech/articles/ZigCool.html"
+    ]
+  ],
+  [
+    [
+      "2025-11-07, 20:01:09",
+      "https://news.ycombinator.com/item?id=45850382"
+    ],
+    [
+      "How did I get here?",
+      "https://how-did-i-get-here.net/"
     ]
   ],
   [
