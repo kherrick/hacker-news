@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-11-09, 06:32:37](https://news.ycombinator.com/item?id=45863435) - [Visa and Mastercard near deal with merchants that would change rewards landscape](https://www.wsj.com/finance/banking/visa-and-mastercard-near-deal-with-merchants-that-would-change-rewards-landscape-fc6a0c78)
 * [2025-11-09, 06:13:05](https://news.ycombinator.com/item?id=45863360) - [I Am Mark Zuckerberg](https://iammarkzuckerberg.com/)
 * [2025-11-09, 05:05:20](https://news.ycombinator.com/item?id=45863057) - [Study finds memory decline surge in young people](https://onepercentrule.substack.com/p/under-40s-declining-memory)
 * [2025-11-09, 04:59:19](https://news.ycombinator.com/item?id=45863024) - [Forth – is it still relevant?](https://github.com/chochain/eforth)
@@ -24,6 +23,7 @@
 * [2025-11-08, 14:18:22](https://news.ycombinator.com/item?id=45856804) - [Study identifies weaknesses in how AI systems are evaluated](https://www.oii.ox.ac.uk/news-events/study-identifies-weaknesses-in-how-ai-systems-are-evaluated/)
 * [2025-11-08, 00:14:50](https://news.ycombinator.com/item?id=45852854) - [Valdi – A cross-platform UI framework that delivers native performance](https://github.com/Snapchat/Valdi)
 * [2025-11-04, 13:33:11](https://news.ycombinator.com/item?id=45810842) - [Show HN: PingStalker – A a macOS tool for network engineers](https://www.pingstalker.com/?hn)
+* [2025-11-04, 13:07:11](https://news.ycombinator.com/item?id=45810589) - [AI for Senior Software Engineers](https://www.emadibrahim.com/ai-guide)
 * [2025-11-04, 12:24:40](https://news.ycombinator.com/item?id=45810099) - [Show HN: Sparktype – a CMS and SSG that runs entirely in the browser](https://app.sparktype.org)
 * [2025-11-04, 10:52:29](https://news.ycombinator.com/item?id=45809552) - [Defeating Kaslr by Doing Nothing at All](https://googleprojectzero.blogspot.com/2025/11/defeating-kaslr-by-doing-nothing-at-all.html)
 * [2025-11-03, 11:47:19](https://news.ycombinator.com/item?id=45798068) - [Control structures in programming languages: from goto to algebraic effects](http://xavierleroy.org/control-structures/)
