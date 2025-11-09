@@ -201,16 +201,6 @@
   ],
   [
     [
-      "2025-11-08, 14:58:03",
-      "https://news.ycombinator.com/item?id=45857045"
-    ],
-    [
-      "An Algebraic Language for the Manipulation of Symbolic Expressions (1958) [pdf]",
-      "https://softwarepreservation.computerhistory.org/LISP/MIT/AIM-001.pdf"
-    ]
-  ],
-  [
-    [
       "2025-11-08, 14:18:22",
       "https://news.ycombinator.com/item?id=45856804"
     ],
@@ -247,6 +237,16 @@
     [
       "Show HN: PingStalker – A a macOS tool for network engineers",
       "https://www.pingstalker.com/?hn"
+    ]
+  ],
+  [
+    [
+      "2025-11-04, 10:52:29",
+      "https://news.ycombinator.com/item?id=45809552"
+    ],
+    [
+      "Defeating Kaslr by Doing Nothing at All",
+      "https://googleprojectzero.blogspot.com/2025/11/defeating-kaslr-by-doing-nothing-at-all.html"
     ]
   ],
   [
