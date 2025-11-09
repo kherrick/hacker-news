@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-11-09, 10:05:25](https://news.ycombinator.com/item?id=45864424) - [Blue Origin Launches NASA's Escapade Mission to Mars: How to Watch](https://www.nytimes.com/2025/11/09/science/blue-origin-new-glenn-launch.html)
 * [2025-11-09, 06:13:05](https://news.ycombinator.com/item?id=45863360) - [I Am Mark Zuckerberg](https://iammarkzuckerberg.com/)
 * [2025-11-09, 05:05:20](https://news.ycombinator.com/item?id=45863057) - [Study finds memory decline surge in young people](https://onepercentrule.substack.com/p/under-40s-declining-memory)
 * [2025-11-09, 04:59:19](https://news.ycombinator.com/item?id=45863024) - [Forth – is it still relevant?](https://github.com/chochain/eforth)
@@ -28,6 +27,7 @@
 * [2025-11-03, 11:47:19](https://news.ycombinator.com/item?id=45798068) - [Control structures in programming languages: from goto to algebraic effects](http://xavierleroy.org/control-structures/)
 * [2025-11-03, 08:46:51](https://news.ycombinator.com/item?id=45797083) - [How to build your own VPN, or: the history of WARP](https://blog.cloudflare.com/how-to-build-your-own-vpn-or-the-history-of-warp/)
 * [2025-11-03, 08:14:34](https://news.ycombinator.com/item?id=45796897) - [Show HN: Hephaestus – Autonomous Multi-Agent Orchestration Framework](https://github.com/Ido-Levi/Hephaestus)
+* [2025-11-03, 00:48:32](https://news.ycombinator.com/item?id=45794814) - [The overengineered Solution to my Pigeon Problem](https://maxnagy.com/posts/pigeons/)
 * [2025-11-02, 14:44:02](https://news.ycombinator.com/item?id=45790672) - [Open-source communications by bouncing signals off the Moon](https://open.space/)
 * [2025-10-31, 20:46:51](https://news.ycombinator.com/item?id=45776512) - [Show HN: I built a self-hosted error tracker in Rails](https://telebugs.com)
 
