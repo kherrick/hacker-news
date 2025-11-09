@@ -1,12 +1,62 @@
 [
   [
     [
-      "2025-11-08, 23:06:10",
-      "https://news.ycombinator.com/item?id=45860865"
+      "2025-11-09, 01:08:50",
+      "https://news.ycombinator.com/item?id=45861933"
     ],
     [
-      "US Air Traffic Controllers Start Resigning as Shutdown Bites",
-      "https://www.thedailybeast.com/air-traffic-controllers-start-resigning-as-shutdown-bites/"
+      "He Chunhui's Tiny386 Turns an ESP32-S3 into a Fully-Functional 386-Powered PC",
+      "https://www.hackster.io/news/he-chunhui-s-tiny386-turns-the-humble-esp32-s3-into-a-fully-functional-386-powered-desktop-pc-5454cf6e36a1"
+    ]
+  ],
+  [
+    [
+      "2025-11-09, 01:03:20",
+      "https://news.ycombinator.com/item?id=45861897"
+    ],
+    [
+      "Judge says Education Dept partisan out-of-office emails violated First Amendment",
+      "https://www.npr.org/2025/11/08/nx-s1-5602859/education-department-out-of-office-emails-ruling"
+    ]
+  ],
+  [
+    [
+      "2025-11-09, 00:53:07",
+      "https://news.ycombinator.com/item?id=45861829"
+    ],
+    [
+      "Court Judge Rules Flock Safety camera data is not exempt from PRA [WA State]",
+      "https://www.goskagit.com/news/local_news/court-denies-request-that-it-find-flock-safety-camera-data-is-exempt-from-public-records/article_f1edd028-d242-479c-ada8-f2dfca73a1b1.html"
+    ]
+  ],
+  [
+    [
+      "2025-11-09, 00:14:50",
+      "https://news.ycombinator.com/item?id=45861549"
+    ],
+    [
+      "Characterizing the American Upper Paleolithic",
+      "https://www.science.org/doi/10.1126/sciadv.ady9545"
+    ]
+  ],
+  [
+    [
+      "2025-11-08, 23:58:08",
+      "https://news.ycombinator.com/item?id=45861411"
+    ],
+    [
+      "Humanity's Endgame",
+      "https://www.noemamag.com/humanitys-endgame/"
+    ]
+  ],
+  [
+    [
+      "2025-11-08, 23:48:58",
+      "https://news.ycombinator.com/item?id=45861329"
+    ],
+    [
+      "OpenAI: Our new model GPT-5-Codex-Mini – a more cost-efficient GPT-5-Codex",
+      "https://github.com/openai/codex/releases/tag/rust-v0.56.0"
     ]
   ],
   [
@@ -25,7 +75,7 @@
       "https://news.ycombinator.com/item?id=45860654"
     ],
     [
-      "IP Blocking the UK Is Not Enough to Comply with the Online Safety Act",
+      "IP blocking the UK is not enough to comply with the Online Safety Act",
       "https://prestonbyrne.com/2025/11/06/the-ofcom-files-part-2-ip-blocking-the-uk-is-not-enough-to-comply-with-the-online-safety-act/"
     ]
   ],
@@ -41,42 +91,12 @@
   ],
   [
     [
-      "2025-11-08, 21:36:39",
-      "https://news.ycombinator.com/item?id=45860273"
-    ],
-    [
-      "How to declutter, quiet down, and take the AI out of Windows 11 25H2",
-      "https://arstechnica.com/gadgets/2025/11/what-i-do-to-clean-up-a-clean-install-of-windows-11-23h2-and-edge/"
-    ]
-  ],
-  [
-    [
-      "2025-11-08, 21:32:30",
-      "https://news.ycombinator.com/item?id=45860229"
-    ],
-    [
-      "What Hallucinogens Will Make You See",
-      "https://nautil.us/what-hallucinogens-will-make-you-see-308247/"
-    ]
-  ],
-  [
-    [
       "2025-11-08, 19:57:52",
       "https://news.ycombinator.com/item?id=45859471"
     ],
     [
-      "Largest Cargo Sailboat Completes Historic First Atlantic Crossing",
+      "Largest cargo sailboat completes first Atlantic crossing",
       "https://www.marineinsight.com/shipping-news/worlds-largest-cargo-sailboat-completes-historic-first-atlantic-crossing/"
-    ]
-  ],
-  [
-    [
-      "2025-11-08, 19:47:26",
-      "https://news.ycombinator.com/item?id=45859402"
-    ],
-    [
-      "I Want You to Understand Chicago",
-      "https://aphyr.com/posts/397-i-want-you-to-understand-chicago"
     ]
   ],
   [
@@ -111,22 +131,22 @@
   ],
   [
     [
+      "2025-11-08, 16:40:12",
+      "https://news.ycombinator.com/item?id=45857988"
+    ],
+    [
+      "Opencloud – An alternative to Nextcloud written in Go",
+      "https://github.com/opencloud-eu/opencloud"
+    ]
+  ],
+  [
+    [
       "2025-11-08, 16:25:41",
       "https://news.ycombinator.com/item?id=45857836"
     ],
     [
       "Cloudflare scrubs Aisuru botnet from top domains list",
       "https://krebsonsecurity.com/2025/11/cloudflare-scrubs-aisuru-botnet-from-top-domains-list/"
-    ]
-  ],
-  [
-    [
-      "2025-11-08, 16:12:14",
-      "https://news.ycombinator.com/item?id=45857695"
-    ],
-    [
-      "52 Year old data tape could contain Unix history",
-      "https://www.theregister.com/2025/11/07/unix_fourth_edition_tape_rediscovered/"
     ]
   ],
   [
@@ -181,16 +201,6 @@
   ],
   [
     [
-      "2025-11-08, 00:21:45",
-      "https://news.ycombinator.com/item?id=45852895"
-    ],
-    [
-      "Immutable Software Deploys Using ZFS Jails on FreeBSD",
-      "https://conradresearch.com/articles/immutable-software-deploy-zfs-jails"
-    ]
-  ],
-  [
-    [
       "2025-11-08, 00:14:50",
       "https://news.ycombinator.com/item?id=45852854"
     ],
@@ -207,16 +217,6 @@
     [
       "Why is Zig so cool?",
       "https://nilostolte.github.io/tech/articles/ZigCool.html"
-    ]
-  ],
-  [
-    [
-      "2025-11-07, 20:01:09",
-      "https://news.ycombinator.com/item?id=45850382"
-    ],
-    [
-      "How did I get here?",
-      "https://how-did-i-get-here.net/"
     ]
   ],
   [
@@ -241,12 +241,22 @@
   ],
   [
     [
-      "2025-11-04, 11:33:31",
-      "https://news.ycombinator.com/item?id=45809782"
+      "2025-11-04, 16:32:36",
+      "https://news.ycombinator.com/item?id=45812835"
     ],
     [
-      "Computational Complexity of Air Travel Planning (2003) [pdf]",
-      "http://www.ai.mit.edu/courses/6.034f/psets/ps1/airtravel.pdf"
+      "When a “feature” is worse than a bug",
+      "https://medium.com/@egorich42/when-a-feature-is-worse-than-a-bug-hello-sketchfab-b88a10d52511"
+    ]
+  ],
+  [
+    [
+      "2025-11-04, 03:14:02",
+      "https://news.ycombinator.com/item?id=45807099"
+    ],
+    [
+      "Otto Nemenz, Supplier and Designer of Cameras and Lenses for Hollywood, Dies",
+      "https://www.hollywoodreporter.com/movies/movie-news/otto-nemenz-dead-cameras-lenses-hollywood-1236417089/"
     ]
   ],
   [
@@ -257,16 +267,6 @@
     [
       "Control structures in programming languages: from goto to algebraic effects",
       "http://xavierleroy.org/control-structures/"
-    ]
-  ],
-  [
-    [
-      "2025-11-02, 19:02:04",
-      "https://news.ycombinator.com/item?id=45792555"
-    ],
-    [
-      "Friendly attributes pattern in Ruby",
-      "https://brunosutic.com/blog/ruby-friendly-attributes-pattern"
     ]
   ],
   [
