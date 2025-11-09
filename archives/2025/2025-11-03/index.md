@@ -65,6 +65,7 @@
 * [2025-11-03, 13:21:09](https://news.ycombinator.com/item?id=45798681) - [Why Nextcloud feels slow to use](https://ounapuu.ee/posts/2025/11/03/nextcloud-slow/)
 * [2025-11-03, 12:52:18](https://news.ycombinator.com/item?id=45798489) - [I analyzed 180M jobs to see what jobs AI is replacing today](https://bloomberry.com/blog/i-analyzed-180m-jobs-to-see-what-jobs-ai-is-actually-replacing-today/)
 * [2025-11-03, 12:50:27](https://news.ycombinator.com/item?id=45798479) - [The Case Against PGVector](https://alex-jacobs.com/posts/the-case-against-pgvector/)
+* [2025-11-03, 12:48:16](https://news.ycombinator.com/item?id=45798473) - [Toolkit to help you get started with Spec-Driven Development](https://github.com/github/spec-kit)
 * [2025-11-03, 12:05:28](https://news.ycombinator.com/item?id=45798193) - [OSS Alternative to Open WebUI – ChatGPT-Like UI, API and CLI](https://github.com/ServiceStack/llms)
 * [2025-11-03, 11:55:02](https://news.ycombinator.com/item?id=45798123) - [Understanding traffic](https://dr2chase.wordpress.com/)
 * [2025-11-03, 11:47:19](https://news.ycombinator.com/item?id=45798068) - [Control structures in programming languages: from goto to algebraic effects](http://xavierleroy.org/control-structures/)
