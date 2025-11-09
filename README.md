@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-11-09, 18:20:17](https://news.ycombinator.com/item?id=45867737) - [BBC director general and CEO resign over Trump documentary edit](https://www.bbc.com/news/live/cd9kqz1yyxkt)
+* [2025-11-09, 18:17:44](https://news.ycombinator.com/item?id=45867717) - [Drilling Down on Uncle Sam's Proposed TP-Link Ban](https://krebsonsecurity.com/2025/11/drilling-down-on-uncle-sams-proposed-tp-link-ban/)
 * [2025-11-09, 17:17:20](https://news.ycombinator.com/item?id=45867176) - [Ask HN: How do you get over the fear of sharing code?](https://news.ycombinator.com/item?id=45867176)
 * [2025-11-09, 16:34:44](https://news.ycombinator.com/item?id=45866772) - [Bumble Berry Pi – A Cheap DIY Raspberry Pi Handheld Cyberdeck](https://github.com/samcervantes/bumble-berry-pi)
 * [2025-11-09, 16:26:09](https://news.ycombinator.com/item?id=45866697) - [Marble Fountain](https://willmorrison.net/posts/marble-fountain/)
@@ -18,7 +20,6 @@
 * [2025-11-09, 11:12:02](https://news.ycombinator.com/item?id=45864732) - [Ask HN: How would you set up a child’s first Linux computer?](https://news.ycombinator.com/item?id=45864732)
 * [2025-11-09, 06:13:05](https://news.ycombinator.com/item?id=45863360) - [I Am Mark Zuckerberg](https://iammarkzuckerberg.com/)
 * [2025-11-09, 04:02:47](https://news.ycombinator.com/item?id=45862802) - [Reverse engineering Codex CLI to get GPT-5-Codex-Mini to draw me a pelican](https://simonwillison.net/2025/Nov/9/gpt-5-codex-mini/)
-* [2025-11-09, 01:19:00](https://news.ycombinator.com/item?id=45861984) - [How Airbus took off](https://worksinprogress.co/issue/how-airbus-took-off/)
 * [2025-11-08, 23:03:10](https://news.ycombinator.com/item?id=45860843) - [Ironclad – formally verified, real-time capable, Unix-like OS kernel](https://ironclad-os.org/)
 * [2025-11-08, 19:57:52](https://news.ycombinator.com/item?id=45859471) - [Largest cargo sailboat completes first Atlantic crossing](https://www.marineinsight.com/shipping-news/worlds-largest-cargo-sailboat-completes-historic-first-atlantic-crossing/)
 * [2025-11-08, 18:43:55](https://news.ycombinator.com/item?id=45858905) - [Marko – A declarative, HTML‑based language](https://markojs.com/)
@@ -26,7 +27,6 @@
 * [2025-11-04, 12:36:49](https://news.ycombinator.com/item?id=45810223) - [When Your Hash Becomes a String: Hunting Ruby's Million-to-One Memory Bug](https://mensfeld.pl/2025/11/ruby-ffi-gc-bug-hash-becomes-string/)
 * [2025-11-03, 12:48:16](https://news.ycombinator.com/item?id=45798473) - [Toolkit to help you get started with Spec-Driven Development](https://github.com/github/spec-kit)
 * [2025-11-03, 00:48:32](https://news.ycombinator.com/item?id=45794814) - [The overengineered solution to my pigeon problem (2022)](https://maxnagy.com/posts/pigeons/)
-* [2025-11-02, 16:19:24](https://news.ycombinator.com/item?id=45791380) - [How to get the GOT address from a PLT stub using GDB](https://rafaelbeirigo.github.io/cybersec-dojo/research/2025/11/01/how-to-get-the-got-address-from-a-plt-stub-using-gdb.html)
 * [2025-11-02, 14:44:02](https://news.ycombinator.com/item?id=45790672) - [Open-source communications by bouncing signals off the Moon](https://open.space/)
 * [2025-11-02, 03:35:13](https://news.ycombinator.com/item?id=45787679) - [Knowledge Insulating Vision-Language-Action Models: Train, Run Fast, Generalize [pdf]](https://www.physicalintelligence.company/download/pi05_KI.pdf)
 * [2025-11-01, 15:04:56](https://news.ycombinator.com/item?id=45782192) - [Email verification protocol](https://github.com/WICG/email-verification-protocol)
