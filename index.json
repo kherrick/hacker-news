@@ -31,6 +31,16 @@
   ],
   [
     [
+      "2025-11-09, 14:50:29",
+      "https://news.ycombinator.com/item?id=45865956"
+    ],
+    [
+      "Genetically Engineered Babies Are Banned. Tech Titans Are Trying to Make One",
+      "https://www.wsj.com/tech/biotech/genetically-engineered-babies-tech-billionaires-6779efc8"
+    ]
+  ],
+  [
+    [
       "2025-11-09, 14:44:06",
       "https://news.ycombinator.com/item?id=45865921"
     ],
@@ -131,16 +141,6 @@
   ],
   [
     [
-      "2025-11-09, 04:59:19",
-      "https://news.ycombinator.com/item?id=45863024"
-    ],
-    [
-      "Forth – Is it still relevant?",
-      "https://github.com/chochain/eforth"
-    ]
-  ],
-  [
-    [
       "2025-11-09, 04:02:47",
       "https://news.ycombinator.com/item?id=45862802"
     ],
@@ -187,6 +187,16 @@
     [
       "Largest cargo sailboat completes first Atlantic crossing",
       "https://www.marineinsight.com/shipping-news/worlds-largest-cargo-sailboat-completes-historic-first-atlantic-crossing/"
+    ]
+  ],
+  [
+    [
+      "2025-11-08, 19:29:44",
+      "https://news.ycombinator.com/item?id=45859243"
+    ],
+    [
+      "Avería: The Average Font (2011)",
+      "http://iotic.com/averia/"
     ]
   ],
   [
@@ -241,12 +251,12 @@
   ],
   [
     [
-      "2025-11-03, 11:47:19",
-      "https://news.ycombinator.com/item?id=45798068"
+      "2025-11-03, 08:14:34",
+      "https://news.ycombinator.com/item?id=45796897"
     ],
     [
-      "Control structures in programming languages: from goto to algebraic effects",
-      "http://xavierleroy.org/control-structures/"
+      "Show HN: Hephaestus – Autonomous Multi-Agent Orchestration Framework",
+      "https://github.com/Ido-Levi/Hephaestus"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Email verification protocol",
       "https://github.com/WICG/email-verification-protocol"
-    ]
-  ],
-  [
-    [
-      "2025-10-31, 20:46:51",
-      "https://news.ycombinator.com/item?id=45776512"
-    ],
-    [
-      "Show HN: I built a self-hosted error tracker in Rails",
-      "https://telebugs.com"
     ]
   ]
 ]
