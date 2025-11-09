@@ -75,6 +75,7 @@
 * [2025-11-03, 08:46:51](https://news.ycombinator.com/item?id=45797083) - [How to build your own VPN, or: the history of WARP](https://blog.cloudflare.com/how-to-build-your-own-vpn-or-the-history-of-warp/)
 * [2025-11-03, 08:37:48](https://news.ycombinator.com/item?id=45797044) - [Doo: A Simple, Fast Programming Language Built on Rust and LLVM](https://news.ycombinator.com/item?id=45797044)
 * [2025-11-03, 08:15:50](https://news.ycombinator.com/item?id=45796907) - [China intimidated UK university to ditch human rights research, documents show](https://www.bbc.com/news/articles/cq50j5vwny6o)
+* [2025-11-03, 08:14:34](https://news.ycombinator.com/item?id=45796897) - [Show HN: Hephaestus – Autonomous Multi-Agent Orchestration Framework](https://github.com/Ido-Levi/Hephaestus)
 * [2025-11-03, 08:13:49](https://news.ycombinator.com/item?id=45796892) - [How to Keep Winning](https://amasad.me/keep-winning)
 * [2025-11-03, 07:57:48](https://news.ycombinator.com/item?id=45796820) - [The APM paradox: Too much data, too few answers](https://www.honeybadger.io/blog/apm-paradox/)
 * [2025-11-03, 07:11:14](https://news.ycombinator.com/item?id=45796575) - [FSF40 Hackathon](https://www.fsf.org/events/fsf40-hackathon)

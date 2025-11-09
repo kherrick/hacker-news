@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-11-09, 04:10:06](https://news.ycombinator.com/item?id=45862833) - [Grok 4 Fast now has 2M context window](https://docs.x.ai/docs/models)
 * [2025-11-09, 03:32:46](https://news.ycombinator.com/item?id=45862674) - [Boring Company fined nearly $500K after it dumped drilling fluids into manholes](https://www.yahoo.com/news/articles/elon-musk-boring-company-fined-150000426.html)
 * [2025-11-09, 03:15:33](https://news.ycombinator.com/item?id=45862591) - [Syntax and Semantics of Programming Languages (1995)](https://homepage.cs.uiowa.edu/~slonnegr/plf/Book/)
 * [2025-11-09, 02:59:58](https://news.ycombinator.com/item?id=45862500) - [Show HN: Geofenced chat communities anyone can create](https://vicinity.social/)
@@ -21,13 +22,12 @@
 * [2025-11-08, 14:59:05](https://news.ycombinator.com/item?id=45857053) - [Ticker: Don't die of heart disease](https://myticker.com/)
 * [2025-11-08, 14:58:03](https://news.ycombinator.com/item?id=45857045) - [An Algebraic Language for the Manipulation of Symbolic Expressions (1958) [pdf]](https://softwarepreservation.computerhistory.org/LISP/MIT/AIM-001.pdf)
 * [2025-11-08, 14:18:22](https://news.ycombinator.com/item?id=45856804) - [Study identifies weaknesses in how AI systems are evaluated](https://www.oii.ox.ac.uk/news-events/study-identifies-weaknesses-in-how-ai-systems-are-evaluated/)
-* [2025-11-08, 07:29:35](https://news.ycombinator.com/item?id=45854862) - [Making Democracy Work: Fixing and Simplifying Egalitarian Paxos](https://arxiv.org/abs/2511.02743)
 * [2025-11-08, 00:14:50](https://news.ycombinator.com/item?id=45852854) - [Valdi – A cross-platform UI framework that delivers native performance](https://github.com/Snapchat/Valdi)
 * [2025-11-07, 23:04:39](https://news.ycombinator.com/item?id=45852328) - [Why is Zig so cool?](https://nilostolte.github.io/tech/articles/ZigCool.html)
 * [2025-11-07, 20:01:09](https://news.ycombinator.com/item?id=45850382) - [How did I get here?](https://how-did-i-get-here.net/)
-* [2025-11-05, 05:45:22](https://news.ycombinator.com/item?id=45819635) - [GPS 'kill' switch allows state police cruisers to go dark and disable tracking](https://www.boston25news.com/news/local/25-investigates-gps-kill-switch-allows-msp-cruisers-go-dark-disable-tracking/5OKMJEUJDNAVXPLN4WKFADNPLM/)
 * [2025-11-03, 11:47:19](https://news.ycombinator.com/item?id=45798068) - [Control structures in programming languages: from goto to algebraic effects](http://xavierleroy.org/control-structures/)
 * [2025-11-03, 08:46:51](https://news.ycombinator.com/item?id=45797083) - [How to build your own VPN, or: the history of WARP](https://blog.cloudflare.com/how-to-build-your-own-vpn-or-the-history-of-warp/)
+* [2025-11-03, 08:14:34](https://news.ycombinator.com/item?id=45796897) - [Show HN: Hephaestus – Autonomous Multi-Agent Orchestration Framework](https://github.com/Ido-Levi/Hephaestus)
 * [2025-11-02, 14:44:02](https://news.ycombinator.com/item?id=45790672) - [Open-source communications by bouncing signals off the Moon](https://open.space/)
 * [2025-10-31, 20:30:10](https://news.ycombinator.com/item?id=45776368) - [My first fifteen compilers (2019)](https://blog.sigplan.org/2019/07/09/my-first-fifteen-compilers/)
 
