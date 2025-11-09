@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-11-08](index.md)
 
+* [2025-11-08, 23:58:08](https://news.ycombinator.com/item?id=45861411) - [Humanity's Endgame](https://www.noemamag.com/humanitys-endgame/)
+* [2025-11-08, 23:48:58](https://news.ycombinator.com/item?id=45861329) - [OpenAI: Our new model GPT-5-Codex-Mini – a more cost-efficient GPT-5-Codex](https://github.com/openai/codex/releases/tag/rust-v0.56.0)
 * [2025-11-08, 23:06:10](https://news.ycombinator.com/item?id=45860865) - [US Air Traffic Controllers Start Resigning as Shutdown Bites](https://www.thedailybeast.com/air-traffic-controllers-start-resigning-as-shutdown-bites/)
 * [2025-11-08, 23:03:10](https://news.ycombinator.com/item?id=45860843) - [Ironclad – formally verified, real-time capable, Unix-like OS kernel](https://ironclad-os.org/)
 * [2025-11-08, 23:00:17](https://news.ycombinator.com/item?id=45860827) - [Her 12-year-old son was talking to Grok. It tried to get him to 'send nudes.'](https://www.usatoday.com/story/life/health-wellness/2025/10/30/children-grok-ai-explicit-content/86951540007/)
@@ -25,6 +27,7 @@
 * [2025-11-08, 18:49:47](https://news.ycombinator.com/item?id=45858945) - [WriterdeckOS](https://writerdeckos.com)
 * [2025-11-08, 18:43:55](https://news.ycombinator.com/item?id=45858905) - [Marko – A declarative, HTML‑based language that makes building web apps fun](https://markojs.com/)
 * [2025-11-08, 17:34:39](https://news.ycombinator.com/item?id=45858404) - [Driver livestreams on TikTok as she apparently hits and kills man in Chicago](https://www.theguardian.com/us-news/2025/nov/08/tiktok-live-stream-fatal-crash-chicago)
+* [2025-11-08, 16:40:12](https://news.ycombinator.com/item?id=45857988) - [Opencloud – An alternative to Nextcloud written in Go](https://github.com/opencloud-eu/opencloud)
 * [2025-11-08, 16:30:32](https://news.ycombinator.com/item?id=45857890) - [Mothers say chatbots encouraged their sons to kill themselves](https://www.bbc.com/news/articles/ce3xgwyywe4o)
 * [2025-11-08, 16:25:41](https://news.ycombinator.com/item?id=45857836) - [Cloudflare Scrubs Aisuru Botnet from Top Domains List](https://krebsonsecurity.com/2025/11/cloudflare-scrubs-aisuru-botnet-from-top-domains-list/)
 * [2025-11-08, 16:12:14](https://news.ycombinator.com/item?id=45857695) - [52 Year old data tape could contain Unix history](https://www.theregister.com/2025/11/07/unix_fourth_edition_tape_rediscovered/)
