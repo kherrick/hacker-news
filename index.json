@@ -81,16 +81,6 @@
   ],
   [
     [
-      "2025-11-09, 13:07:18",
-      "https://news.ycombinator.com/item?id=45865316"
-    ],
-    [
-      "ChatGPT knows my IP geolocation",
-      "https://www.hermandaniel.com/blog/20251109-chatgpt-geolocation/"
-    ]
-  ],
-  [
-    [
       "2025-11-09, 13:03:36",
       "https://news.ycombinator.com/item?id=45865289"
     ],
@@ -167,6 +157,16 @@
     [
       "Reverse engineering Codex CLI to get GPT-5-Codex-Mini to draw me a pelican",
       "https://simonwillison.net/2025/Nov/9/gpt-5-codex-mini/"
+    ]
+  ],
+  [
+    [
+      "2025-11-09, 02:53:45",
+      "https://news.ycombinator.com/item?id=45862470"
+    ],
+    [
+      "Tabloid: The Clickbait Headline Programming Language",
+      "https://tabloid.vercel.app/"
     ]
   ],
   [
