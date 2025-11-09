@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-11-09, 14:44:06](https://news.ycombinator.com/item?id=45865921) - [About KeePassXC's Code Quality Control](https://keepassxc.org/blog/2025-11-09-about-keepassxcs-code-quality-control/)
 * [2025-11-09, 13:40:43](https://news.ycombinator.com/item?id=45865546) - [Show HN: Pipeflow-PHP – Automate anything with pipelines even non-devs can edit](https://github.com/marcosiino/pipeflow-php)
 * [2025-11-09, 13:24:43](https://news.ycombinator.com/item?id=45865426) - [Drax: Speech Recognition with Discrete Flow Matching](https://huggingface.co/papers/2510.04162)
 * [2025-11-09, 13:09:22](https://news.ycombinator.com/item?id=45865327) - [Using bubblewrap to add sandboxing to NetBSD](https://blog.netbsd.org/tnf/entry/gsoc2025_bubblewrap_sandboxing)
@@ -20,7 +21,6 @@
 * [2025-11-08, 19:29:44](https://news.ycombinator.com/item?id=45859243) - [Avería: The Average Font (2011)](http://iotic.com/averia/)
 * [2025-11-08, 18:43:55](https://news.ycombinator.com/item?id=45858905) - [Marko – A declarative, HTML‑based language](https://markojs.com/)
 * [2025-11-08, 14:18:22](https://news.ycombinator.com/item?id=45856804) - [Study identifies weaknesses in how AI systems are evaluated](https://www.oii.ox.ac.uk/news-events/study-identifies-weaknesses-in-how-ai-systems-are-evaluated/)
-* [2025-11-04, 12:24:40](https://news.ycombinator.com/item?id=45810099) - [Show HN: Sparktype – a CMS and SSG that runs entirely in the browser](https://app.sparktype.org)
 * [2025-11-04, 10:52:29](https://news.ycombinator.com/item?id=45809552) - [Defeating KASLR by doing nothing at all](https://googleprojectzero.blogspot.com/2025/11/defeating-kaslr-by-doing-nothing-at-all.html)
 * [2025-11-03, 12:48:16](https://news.ycombinator.com/item?id=45798473) - [Toolkit to help you get started with Spec-Driven Development](https://github.com/github/spec-kit)
 * [2025-11-03, 11:47:19](https://news.ycombinator.com/item?id=45798068) - [Control structures in programming languages: from goto to algebraic effects](http://xavierleroy.org/control-structures/)

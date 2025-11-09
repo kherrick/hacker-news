@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-11-09](index.md)
 
+* [2025-11-09, 14:44:06](https://news.ycombinator.com/item?id=45865921) - [About KeePassXC's Code Quality Control](https://keepassxc.org/blog/2025-11-09-about-keepassxcs-code-quality-control/)
 * [2025-11-09, 13:40:43](https://news.ycombinator.com/item?id=45865546) - [Show HN: Pipeflow-PHP – Automate anything with pipelines even non-devs can edit](https://github.com/marcosiino/pipeflow-php)
 * [2025-11-09, 13:24:43](https://news.ycombinator.com/item?id=45865426) - [Drax: Speech Recognition with Discrete Flow Matching](https://huggingface.co/papers/2510.04162)
 * [2025-11-09, 13:09:22](https://news.ycombinator.com/item?id=45865327) - [Using bubblewrap to add sandboxing to NetBSD](https://blog.netbsd.org/tnf/entry/gsoc2025_bubblewrap_sandboxing)
