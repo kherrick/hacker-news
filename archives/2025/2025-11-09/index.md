@@ -6,6 +6,7 @@
 
 * [2025-11-09, 03:32:46](https://news.ycombinator.com/item?id=45862674) - [Boring Company fined nearly $500K after it dumped drilling fluids into manholes](https://www.yahoo.com/news/articles/elon-musk-boring-company-fined-150000426.html)
 * [2025-11-09, 03:15:33](https://news.ycombinator.com/item?id=45862591) - [Syntax and Semantics of Programming Languages (1995)](https://homepage.cs.uiowa.edu/~slonnegr/plf/Book/)
+* [2025-11-09, 02:59:58](https://news.ycombinator.com/item?id=45862500) - [Show HN: Geofenced chat communities anyone can create](https://vicinity.social/)
 * [2025-11-09, 02:53:45](https://news.ycombinator.com/item?id=45862470) - [Tabloid: The Clickbait Headline Programming Language](https://tabloid.vercel.app/)
 * [2025-11-09, 01:19:00](https://news.ycombinator.com/item?id=45861984) - [How Airbus Took Off](https://worksinprogress.co/issue/how-airbus-took-off/)
 * [2025-11-09, 01:08:50](https://news.ycombinator.com/item?id=45861933) - [He Chunhui's Tiny386 Turns an ESP32-S3 into a Fully-Functional 386-Powered PC](https://www.hackster.io/news/he-chunhui-s-tiny386-turns-the-humble-esp32-s3-into-a-fully-functional-386-powered-desktop-pc-5454cf6e36a1)

@@ -2,6 +2,7 @@
 
 * [2025-11-09, 03:32:46](https://news.ycombinator.com/item?id=45862674) - [Boring Company fined nearly $500K after it dumped drilling fluids into manholes](https://www.yahoo.com/news/articles/elon-musk-boring-company-fined-150000426.html)
 * [2025-11-09, 03:15:33](https://news.ycombinator.com/item?id=45862591) - [Syntax and Semantics of Programming Languages (1995)](https://homepage.cs.uiowa.edu/~slonnegr/plf/Book/)
+* [2025-11-09, 02:59:58](https://news.ycombinator.com/item?id=45862500) - [Show HN: Geofenced chat communities anyone can create](https://vicinity.social/)
 * [2025-11-09, 02:53:45](https://news.ycombinator.com/item?id=45862470) - [Tabloid: The Clickbait Headline Programming Language](https://tabloid.vercel.app/)
 * [2025-11-09, 01:19:00](https://news.ycombinator.com/item?id=45861984) - [How Airbus Took Off](https://worksinprogress.co/issue/how-airbus-took-off/)
 * [2025-11-09, 01:08:50](https://news.ycombinator.com/item?id=45861933) - [He Chunhui's Tiny386 Turns an ESP32-S3 into a Fully-Functional 386-Powered PC](https://www.hackster.io/news/he-chunhui-s-tiny386-turns-the-humble-esp32-s3-into-a-fully-functional-386-powered-desktop-pc-5454cf6e36a1)
@@ -25,7 +26,6 @@
 * [2025-11-07, 23:04:39](https://news.ycombinator.com/item?id=45852328) - [Why is Zig so cool?](https://nilostolte.github.io/tech/articles/ZigCool.html)
 * [2025-11-07, 20:01:09](https://news.ycombinator.com/item?id=45850382) - [How did I get here?](https://how-did-i-get-here.net/)
 * [2025-11-05, 05:45:22](https://news.ycombinator.com/item?id=45819635) - [GPS 'kill' switch allows state police cruisers to go dark and disable tracking](https://www.boston25news.com/news/local/25-investigates-gps-kill-switch-allows-msp-cruisers-go-dark-disable-tracking/5OKMJEUJDNAVXPLN4WKFADNPLM/)
-* [2025-11-04, 16:32:36](https://news.ycombinator.com/item?id=45812835) - [When a “feature” is worse than a bug](https://medium.com/@egorich42/when-a-feature-is-worse-than-a-bug-hello-sketchfab-b88a10d52511)
 * [2025-11-03, 11:47:19](https://news.ycombinator.com/item?id=45798068) - [Control structures in programming languages: from goto to algebraic effects](http://xavierleroy.org/control-structures/)
 * [2025-11-03, 08:46:51](https://news.ycombinator.com/item?id=45797083) - [How to build your own VPN, or: the history of WARP](https://blog.cloudflare.com/how-to-build-your-own-vpn-or-the-history-of-warp/)
 * [2025-11-02, 14:44:02](https://news.ycombinator.com/item?id=45790672) - [Open-source communications by bouncing signals off the Moon](https://open.space/)
