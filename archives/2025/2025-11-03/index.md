@@ -69,6 +69,7 @@
 * [2025-11-03, 12:50:27](https://news.ycombinator.com/item?id=45798479) - [The Case Against PGVector](https://alex-jacobs.com/posts/the-case-against-pgvector/)
 * [2025-11-03, 12:48:16](https://news.ycombinator.com/item?id=45798473) - [Toolkit to help you get started with Spec-Driven Development](https://github.com/github/spec-kit)
 * [2025-11-03, 12:05:28](https://news.ycombinator.com/item?id=45798193) - [OSS Alternative to Open WebUI – ChatGPT-Like UI, API and CLI](https://github.com/ServiceStack/llms)
+* [2025-11-03, 11:59:54](https://news.ycombinator.com/item?id=45798154) - [The Symbiosis of Rust and Arm: A Conversation with David Wood](https://filtra.io/rust/interviews/arm-sep-25)
 * [2025-11-03, 11:55:02](https://news.ycombinator.com/item?id=45798123) - [Understanding traffic](https://dr2chase.wordpress.com/)
 * [2025-11-03, 11:47:19](https://news.ycombinator.com/item?id=45798068) - [Control structures in programming languages: from goto to algebraic effects](http://xavierleroy.org/control-structures/)
 * [2025-11-03, 11:22:59](https://news.ycombinator.com/item?id=45797934) - [Update and shut down no longer restarts PC, 25H2 patch addresses decades-old bug](https://www.windowslatest.com/2025/11/02/update-and-shut-down-no-longer-restarts-pc-as-windows-11-25h2-patch-addresses-a-decades-old-bug/)
