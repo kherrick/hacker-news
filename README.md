@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-11-09, 22:37:56](https://news.ycombinator.com/item?id=45869916) - [When Tesla's FSD works well, it gets credit. When it doesn't, you get blamed](https://electrek.co/2025/11/08/schrodingers-fsd-when-things-go-well-teslas-driving-when-they-dont-you-are/)
+* [2025-11-09, 22:16:38](https://news.ycombinator.com/item?id=45869742) - ['Up to 15 or 20′ air traffic controllers are retiring daily](https://www.pennlive.com/nation-world/2025/11/up-to-15-or-20-air-traffic-controllers-are-retiring-daily-official-says.html)
 * [2025-11-09, 21:59:49](https://news.ycombinator.com/item?id=45869620) - [Password to Louvre video surveillance system was 'Louvre', according to employee](https://abcnews.go.com/International/password-louvres-video-surveillance-system-louvre-employee/story?id=127236297)
 * [2025-11-09, 21:02:33](https://news.ycombinator.com/item?id=45869146) - [Ask HN: What Are You Working On? (Nov 2025)](https://news.ycombinator.com/item?id=45869146)
 * [2025-11-09, 19:47:49](https://news.ycombinator.com/item?id=45868533) - [The Computer Church – Pennsylvania Computer and Technology Museum](https://www.thecomputerchurch.org/)
@@ -22,7 +23,6 @@
 * [2025-11-09, 12:24:50](https://news.ycombinator.com/item?id=45865049) - [Visualize FastAPI endpoints with FastAPI-Voyager](https://www.newsyeah.fun/voyager/)
 * [2025-11-09, 06:13:05](https://news.ycombinator.com/item?id=45863360) - [I Am Mark Zuckerberg](https://iammarkzuckerberg.com/)
 * [2025-11-08, 23:03:10](https://news.ycombinator.com/item?id=45860843) - [Ironclad – formally verified, real-time capable, Unix-like OS kernel](https://ironclad-os.org/)
-* [2025-11-08, 19:57:52](https://news.ycombinator.com/item?id=45859471) - [Largest cargo sailboat completes first Atlantic crossing](https://www.marineinsight.com/shipping-news/worlds-largest-cargo-sailboat-completes-historic-first-atlantic-crossing/)
 * [2025-11-04, 14:30:23](https://news.ycombinator.com/item?id=45811435) - [Solving Every Sudoku Puzzle (2006)](https://norvig.com/sudoku.html)
 * [2025-11-04, 12:36:49](https://news.ycombinator.com/item?id=45810223) - [When Your Hash Becomes a String: Hunting Ruby's Million-to-One Memory Bug](https://mensfeld.pl/2025/11/ruby-ffi-gc-bug-hash-becomes-string/)
 * [2025-11-04, 09:08:23](https://news.ycombinator.com/item?id=45808899) - [JVM exceptions are weird: a decompiler perspective](https://purplesyringa.moe/blog/jvm-exceptions-are-weird-a-decompiler-perspective/)
