@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-11-09, 13:40:43",
+      "https://news.ycombinator.com/item?id=45865546"
+    ],
+    [
+      "Show HN: Pipeflow-PHP – Automate anything with pipelines even non-devs can edit",
+      "https://github.com/marcosiino/pipeflow-php"
+    ]
+  ],
+  [
+    [
+      "2025-11-09, 13:24:43",
+      "https://news.ycombinator.com/item?id=45865426"
+    ],
+    [
+      "Drax: Speech Recognition with Discrete Flow Matching",
+      "https://huggingface.co/papers/2510.04162"
+    ]
+  ],
+  [
+    [
       "2025-11-09, 12:44:35",
       "https://news.ycombinator.com/item?id=45865159"
     ],
@@ -91,16 +111,6 @@
   ],
   [
     [
-      "2025-11-09, 03:15:33",
-      "https://news.ycombinator.com/item?id=45862591"
-    ],
-    [
-      "Syntax and Semantics of Programming Languages (1995)",
-      "https://homepage.cs.uiowa.edu/~slonnegr/plf/Book/"
-    ]
-  ],
-  [
-    [
       "2025-11-09, 02:59:58",
       "https://news.ycombinator.com/item?id=45862500"
     ],
@@ -117,16 +127,6 @@
     [
       "Tabloid: The Clickbait Headline Programming Language",
       "https://tabloid.vercel.app/"
-    ]
-  ],
-  [
-    [
-      "2025-11-09, 01:33:43",
-      "https://news.ycombinator.com/item?id=45862071"
-    ],
-    [
-      "IRIX Introduction",
-      "http://www.sgistuff.net/software/irixintro/index.html"
     ]
   ],
   [
@@ -177,16 +177,6 @@
     [
       "Marko – A declarative, HTML‑based language",
       "https://markojs.com/"
-    ]
-  ],
-  [
-    [
-      "2025-11-08, 16:40:12",
-      "https://news.ycombinator.com/item?id=45857988"
-    ],
-    [
-      "Opencloud – An alternative to Nextcloud written in Go",
-      "https://github.com/opencloud-eu/opencloud"
     ]
   ],
   [
@@ -287,6 +277,16 @@
     [
       "Open-source communications by bouncing signals off the Moon",
       "https://open.space/"
+    ]
+  ],
+  [
+    [
+      "2025-11-01, 15:04:56",
+      "https://news.ycombinator.com/item?id=45782192"
+    ],
+    [
+      "Email Verification Protocol",
+      "https://github.com/WICG/email-verification-protocol"
     ]
   ],
   [
