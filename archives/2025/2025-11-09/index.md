@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-11-09](index.md)
 
+* [2025-11-09, 12:24:50](https://news.ycombinator.com/item?id=45865049) - [Visualize FastAPI endpoints with FastAPI-Voyager](https://www.newsyeah.fun/voyager/)
+* [2025-11-09, 11:12:02](https://news.ycombinator.com/item?id=45864732) - [Ask HN: How would u setup a child's first Linux computer?](https://news.ycombinator.com/item?id=45864732)
 * [2025-11-09, 10:05:25](https://news.ycombinator.com/item?id=45864424) - [Blue Origin Launches NASA's Escapade Mission to Mars: How to Watch](https://www.nytimes.com/2025/11/09/science/blue-origin-new-glenn-launch.html)
 * [2025-11-09, 06:32:37](https://news.ycombinator.com/item?id=45863435) - [Visa and Mastercard Near Deal with Merchants That Would Change Rewards Landscape](https://www.wsj.com/finance/banking/visa-and-mastercard-near-deal-with-merchants-that-would-change-rewards-landscape-fc6a0c78)
 * [2025-11-09, 06:13:05](https://news.ycombinator.com/item?id=45863360) - [I Am Mark Zuckerberg](https://iammarkzuckerberg.com/)

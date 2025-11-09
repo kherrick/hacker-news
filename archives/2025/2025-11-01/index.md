@@ -67,4 +67,5 @@
 * [2025-11-01, 01:56:57](https://news.ycombinator.com/item?id=45778653) - [1973 Implementation of Wordle Was Published by Dec (2022)](https://troypress.com/1973-implementation-of-wordle-was-published-by-dec/)
 * [2025-11-01, 01:38:24](https://news.ycombinator.com/item?id=45778566) - [Fungus: The Befunge CPU(2015)](https://www.bedroomlan.org/hardware/fungus/)
 * [2025-11-01, 01:10:05](https://news.ycombinator.com/item?id=45778418) - [Chibi Izumi: Phased dependency injection for TypeScript](https://github.com/7mind/izumi-chibi-ts)
+* [2025-11-01, 00:32:48](https://news.ycombinator.com/item?id=45778214) - [\"Our research is greatly sped up by AI but AI still needs us\"](https://twitter.com/wtgowers/status/1984340182351634571)
 * [2025-11-01, 00:19:02](https://news.ycombinator.com/item?id=45778139) - [I Love My Wife, My Wife Is Dead](https://www.bingqiangao.com/poetry/i-love-my-wife-my-wife-is-dead)
