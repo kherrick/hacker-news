@@ -52,6 +52,7 @@
 * [2025-11-04, 14:48:32](https://news.ycombinator.com/item?id=45811624) - [Google Cloud suspended customer's account 3 times, for 3 different reasons](https://www.theregister.com/2025/11/04/google_cloud_suspended_customers_account/)
 * [2025-11-04, 14:48:31](https://news.ycombinator.com/item?id=45811623) - [Tesla's ‘Robotaxis' Keep Crashing—Even With Human ‘Safety Monitors' Onboard](https://www.miamiherald.com/news/business/article312728957.html)
 * [2025-11-04, 14:31:27](https://news.ycombinator.com/item?id=45811447) - [Optimizing Datalog for the GPU](https://danglingpointers.substack.com/p/optimizing-datalog-for-the-gpu)
+* [2025-11-04, 14:30:23](https://news.ycombinator.com/item?id=45811435) - [Solving Every Sudoku Puzzle (2006)](https://norvig.com/sudoku.html)
 * [2025-11-04, 13:58:35](https://news.ycombinator.com/item?id=45811093) - [Show HN: A CSS-Only Terrain Generator](https://terra.layoutit.com)
 * [2025-11-04, 13:34:45](https://news.ycombinator.com/item?id=45810856) - [Show HN: I built a local-first daily planner for iOS](https://apps.apple.com/ca/app/to-do-list-planner-zesfy/id6479947874)
 * [2025-11-04, 13:33:11](https://news.ycombinator.com/item?id=45810842) - [Show HN: PingStalker – A a macOS tool for network engineers](https://www.pingstalker.com/?hn)
