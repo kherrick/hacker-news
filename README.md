@@ -1,10 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-11-09, 22:37:56](https://news.ycombinator.com/item?id=45869916) - [When Tesla's FSD works well, it gets credit. When it doesn't, you get blamed](https://electrek.co/2025/11/08/schrodingers-fsd-when-things-go-well-teslas-driving-when-they-dont-you-are/)
+* [2025-11-09, 21:59:49](https://news.ycombinator.com/item?id=45869620) - [Password to Louvre video surveillance system was 'Louvre', according to employee](https://abcnews.go.com/International/password-louvres-video-surveillance-system-louvre-employee/story?id=127236297)
 * [2025-11-09, 21:02:33](https://news.ycombinator.com/item?id=45869146) - [Ask HN: What Are You Working On? (Nov 2025)](https://news.ycombinator.com/item?id=45869146)
 * [2025-11-09, 19:47:49](https://news.ycombinator.com/item?id=45868533) - [The Computer Church – Pennsylvania Computer and Technology Museum](https://www.thecomputerchurch.org/)
 * [2025-11-09, 19:15:21](https://news.ycombinator.com/item?id=45868259) - [The Sega Master System](https://bumbershootsoft.wordpress.com/2025/11/08/the-sega-master-system/)
 * [2025-11-09, 18:17:44](https://news.ycombinator.com/item?id=45867717) - [Drilling down on Uncle Sam's proposed TP-Link ban](https://krebsonsecurity.com/2025/11/drilling-down-on-uncle-sams-proposed-tp-link-ban/)
-* [2025-11-09, 17:40:38](https://news.ycombinator.com/item?id=45867371) - [American Heart Association says melatonin may be linked to serious heart risks](https://www.sciencedaily.com/releases/2025/11/251104012959.htm)
 * [2025-11-09, 17:28:45](https://news.ycombinator.com/item?id=45867277) - [Python Software Foundation gets a donor surge after rejecting federal grant](https://thenewstack.io/psf-gets-a-donor-surge-after-rejecting-anti-dei-federal-grant/)
 * [2025-11-09, 17:17:20](https://news.ycombinator.com/item?id=45867176) - [Ask HN: How do you get over the fear of sharing code?](https://news.ycombinator.com/item?id=45867176)
 * [2025-11-09, 16:34:44](https://news.ycombinator.com/item?id=45866772) - [Bumble Berry Pi – A Cheap DIY Raspberry Pi Handheld Cyberdeck](https://github.com/samcervantes/bumble-berry-pi)
@@ -28,7 +29,6 @@
 * [2025-11-03, 20:52:50](https://news.ycombinator.com/item?id=45804295) - [CHIP8 – writing emulator, assembler, example game and VHDL hardware impl](http://blog.dominikrudnik.pl/chip8-emulator-assembler-game-vhdl)
 * [2025-11-03, 19:51:30](https://news.ycombinator.com/item?id=45803601) - [Building a 2.5kWh battery from disposable vapes to power my workshop [video]](https://www.youtube.com/watch?v=dy-wFixuRVU)
 * [2025-11-03, 00:48:32](https://news.ycombinator.com/item?id=45794814) - [The overengineered solution to my pigeon problem (2022)](https://maxnagy.com/posts/pigeons/)
-* [2025-11-02, 21:03:20](https://news.ycombinator.com/item?id=45793425) - [William Gass and John Gardner: A Debate on Fiction (1979)](https://medium.com/the-william-h-gass-interviews/william-h-gass-interviewed-by-thomas-leclair-with-john-gardner-1979-e6de4d424107)
 * [2025-11-01, 15:04:56](https://news.ycombinator.com/item?id=45782192) - [Email verification protocol](https://github.com/WICG/email-verification-protocol)
 
 ## [Archives](archives/index.md)
