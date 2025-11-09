@@ -171,16 +171,6 @@
   ],
   [
     [
-      "2025-11-08, 16:40:12",
-      "https://news.ycombinator.com/item?id=45857988"
-    ],
-    [
-      "Opencloud – An alternative to Nextcloud written in Go",
-      "https://github.com/opencloud-eu/opencloud"
-    ]
-  ],
-  [
-    [
       "2025-11-08, 16:25:41",
       "https://news.ycombinator.com/item?id=45857836"
     ],
@@ -247,6 +237,16 @@
     [
       "Defeating Kaslr by Doing Nothing at All",
       "https://googleprojectzero.blogspot.com/2025/11/defeating-kaslr-by-doing-nothing-at-all.html"
+    ]
+  ],
+  [
+    [
+      "2025-11-03, 12:48:16",
+      "https://news.ycombinator.com/item?id=45798473"
+    ],
+    [
+      "Toolkit to help you get started with Spec-Driven Development",
+      "https://github.com/github/spec-kit"
     ]
   ],
   [
