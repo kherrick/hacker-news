@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-11-09, 06:32:37](https://news.ycombinator.com/item?id=45863435) - [Visa and Mastercard Near Deal with Merchants That Would Change Rewards Landscape](https://www.wsj.com/finance/banking/visa-and-mastercard-near-deal-with-merchants-that-would-change-rewards-landscape-fc6a0c78)
 * [2025-11-09, 05:05:20](https://news.ycombinator.com/item?id=45863057) - [Under 40s Declining Memory](https://onepercentrule.substack.com/p/under-40s-declining-memory)
 * [2025-11-09, 04:59:19](https://news.ycombinator.com/item?id=45863024) - [Forth – is it still relevant?](https://github.com/chochain/eforth)
 * [2025-11-09, 04:47:27](https://news.ycombinator.com/item?id=45862967) - [Runc breaks pods when CPU requests aren't multiples of 10](https://github.com/opencontainers/runc/issues/4982)
@@ -10,7 +11,6 @@
 * [2025-11-09, 01:33:43](https://news.ycombinator.com/item?id=45862071) - [IRIX Introduction](http://www.sgistuff.net/software/irixintro/index.html)
 * [2025-11-09, 01:19:00](https://news.ycombinator.com/item?id=45861984) - [How Airbus Took Off](https://worksinprogress.co/issue/how-airbus-took-off/)
 * [2025-11-09, 00:53:07](https://news.ycombinator.com/item?id=45861829) - [Judge denies request to exempt Flock footage from Public Records Act](https://www.goskagit.com/news/local_news/court-denies-request-that-it-find-flock-safety-camera-data-is-exempt-from-public-records/article_f1edd028-d242-479c-ada8-f2dfca73a1b1.html)
-* [2025-11-08, 23:58:08](https://news.ycombinator.com/item?id=45861411) - [Humanity's Endgame](https://www.noemamag.com/humanitys-endgame/)
 * [2025-11-08, 23:03:10](https://news.ycombinator.com/item?id=45860843) - [Ironclad – formally verified, real-time capable, Unix-like OS kernel](https://ironclad-os.org/)
 * [2025-11-08, 22:33:56](https://news.ycombinator.com/item?id=45860654) - [IP blocking the UK is not enough to comply with the Online Safety Act](https://prestonbyrne.com/2025/11/06/the-ofcom-files-part-2-ip-blocking-the-uk-is-not-enough-to-comply-with-the-online-safety-act/)
 * [2025-11-08, 22:30:58](https://news.ycombinator.com/item?id=45860638) - [Debugging BeagleBoard USB boot with a sniffer: fixing omap_loader on modern PCs](https://www.downtowndougbrown.com/2025/11/debugging-beagleboard-usb-boot-with-a-sniffer-fixing-omap_loader-on-modern-pcs/)
