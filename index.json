@@ -51,16 +51,6 @@
   ],
   [
     [
-      "2025-11-09, 17:40:38",
-      "https://news.ycombinator.com/item?id=45867371"
-    ],
-    [
-      "American Heart Association says melatonin may be linked to serious heart risks",
-      "https://www.sciencedaily.com/releases/2025/11/251104012959.htm"
-    ]
-  ],
-  [
-    [
       "2025-11-09, 17:28:45",
       "https://news.ycombinator.com/item?id=45867277"
     ],
@@ -247,6 +237,16 @@
     [
       "When Your Hash Becomes a String: Hunting Ruby's Million-to-One Memory Bug",
       "https://mensfeld.pl/2025/11/ruby-ffi-gc-bug-hash-becomes-string/"
+    ]
+  ],
+  [
+    [
+      "2025-11-04, 09:08:23",
+      "https://news.ycombinator.com/item?id=45808899"
+    ],
+    [
+      "JVM exceptions are weird: a decompiler perspective",
+      "https://purplesyringa.moe/blog/jvm-exceptions-are-weird-a-decompiler-perspective/"
     ]
   ],
   [
