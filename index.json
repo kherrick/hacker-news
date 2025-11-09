@@ -41,16 +41,6 @@
   ],
   [
     [
-      "2025-11-09, 04:47:27",
-      "https://news.ycombinator.com/item?id=45862967"
-    ],
-    [
-      "Runc breaks pods when CPU requests aren't multiples of 10",
-      "https://github.com/opencontainers/runc/issues/4982"
-    ]
-  ],
-  [
-    [
       "2025-11-09, 04:10:06",
       "https://news.ycombinator.com/item?id=45862833"
     ],
@@ -167,6 +157,16 @@
     [
       "Marko – A declarative, HTML‑based language",
       "https://markojs.com/"
+    ]
+  ],
+  [
+    [
+      "2025-11-08, 16:40:12",
+      "https://news.ycombinator.com/item?id=45857988"
+    ],
+    [
+      "Opencloud – An alternative to Nextcloud written in Go",
+      "https://github.com/opencloud-eu/opencloud"
     ]
   ],
   [
