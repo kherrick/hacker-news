@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-11-10, 22:05:16",
+      "https://news.ycombinator.com/item?id=45881568"
+    ],
+    [
+      "High-performance 2D graphics rendering on the CPU using sparse strips [pdf]",
+      "https://github.com/LaurenzV/master-thesis/blob/main/main.pdf"
+    ]
+  ],
+  [
+    [
+      "2025-11-10, 22:04:28",
+      "https://news.ycombinator.com/item?id=45881555"
+    ],
+    [
+      "3D Heterogeneous Integration Powers New DARPA Fab",
+      "https://spectrum.ieee.org/3d-heterogeneous-integration"
+    ]
+  ],
+  [
+    [
       "2025-11-10, 21:50:03",
       "https://news.ycombinator.com/item?id=45881404"
     ],
@@ -37,16 +57,6 @@
     [
       "Fei Fei Li: Spatial Intelligence is AI’s Next Frontier",
       "https://drfeifei.substack.com/p/from-words-to-worlds-spatial-intelligence"
-    ]
-  ],
-  [
-    [
-      "2025-11-10, 20:46:11",
-      "https://news.ycombinator.com/item?id=45880716"
-    ],
-    [
-      "Show HN: Davia – Open source visual, editable wiki from your codebase",
-      "https://github.com/davialabs/davia"
     ]
   ],
   [
@@ -211,16 +221,6 @@
   ],
   [
     [
-      "2025-11-10, 11:45:15",
-      "https://news.ycombinator.com/item?id=45874987"
-    ],
-    [
-      "Vibe Code Warning – A personal casestudy",
-      "https://github.com/jackdoe/pico2-swd-riscv"
-    ]
-  ],
-  [
-    [
       "2025-11-10, 02:31:36",
       "https://news.ycombinator.com/item?id=45871688"
     ],
@@ -251,6 +251,16 @@
   ],
   [
     [
+      "2025-11-06, 20:57:09",
+      "https://news.ycombinator.com/item?id=45840321"
+    ],
+    [
+      "Unix v4 Tape Found",
+      "https://discuss.systems/@ricci/115504720054699983"
+    ]
+  ],
+  [
+    [
       "2025-11-04, 12:26:28",
       "https://news.ycombinator.com/item?id=45810116"
     ],
@@ -277,16 +287,6 @@
     [
       "Dependent Types and How to Get Rid of Them",
       "https://chadnauseam.com/coding/pltd/are-dependent-types-actually-erased"
-    ]
-  ],
-  [
-    [
-      "2025-11-02, 10:24:05",
-      "https://news.ycombinator.com/item?id=45789250"
-    ],
-    [
-      "Rewilding the Internet",
-      "https://www.protein.xyz/rewilding-the-internet/"
     ]
   ],
   [
