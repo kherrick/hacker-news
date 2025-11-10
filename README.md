@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-11-10, 06:44:40](https://news.ycombinator.com/item?id=45873113) - [Realtime BART Arrival Display](https://filbot.com/real-time-bart-display/)
 * [2025-11-10, 02:10:59](https://news.ycombinator.com/item?id=45871531) - [LLM policy?](https://github.com/opencontainers/runc/issues/4990)
 * [2025-11-10, 01:23:58](https://news.ycombinator.com/item?id=45871141) - [How the UK lost its shipbuilding industry](https://www.construction-physics.com/p/how-the-uk-lost-its-shipbuilding)
 * [2025-11-10, 00:51:33](https://news.ycombinator.com/item?id=45870925) - [Show HN: DroidDock – A sleek macOS app for browsing Android device files via ADB](https://rajivm1991.github.io/DroidDock/)
@@ -7,7 +8,6 @@
 * [2025-11-10, 00:13:11](https://news.ycombinator.com/item?id=45870675) - [Sued by Nintendo](https://www.suedbynintendo.com/)
 * [2025-11-09, 21:56:29](https://news.ycombinator.com/item?id=45869587) - [Metabolic and cellular differences between sedentary and active individuals](https://howardluksmd.substack.com/p/if-youre-not-active-youre-sick-you)
 * [2025-11-09, 21:02:33](https://news.ycombinator.com/item?id=45869146) - [Ask HN: What Are You Working On? (Nov 2025)](https://news.ycombinator.com/item?id=45869146)
-* [2025-11-09, 19:47:49](https://news.ycombinator.com/item?id=45868533) - [The Computer Church – Pennsylvania Computer and Technology Museum](https://www.thecomputerchurch.org/)
 * [2025-11-09, 19:15:21](https://news.ycombinator.com/item?id=45868259) - [The Sega Master System](https://bumbershootsoft.wordpress.com/2025/11/08/the-sega-master-system/)
 * [2025-11-09, 18:17:44](https://news.ycombinator.com/item?id=45867717) - [Drilling down on Uncle Sam's proposed TP-Link ban](https://krebsonsecurity.com/2025/11/drilling-down-on-uncle-sams-proposed-tp-link-ban/)
 * [2025-11-09, 16:34:44](https://news.ycombinator.com/item?id=45866772) - [Bumble Berry Pi – A Cheap DIY Raspberry Pi Handheld Cyberdeck](https://github.com/samcervantes/bumble-berry-pi)
