@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-11-10, 08:48:14](https://news.ycombinator.com/item?id=45873904) - [Installing and using HP-UX 9](https://thejpster.org.uk/blog/blog-2025-11-08/)
 * [2025-11-10, 08:27:27](https://news.ycombinator.com/item?id=45873756) - [EU takes aim at plastic pellets to prevent their nightmare cleanup](https://www.yahoo.com/news/articles/eu-takes-aim-plastic-pellets-030314496.html)
 * [2025-11-10, 08:25:29](https://news.ycombinator.com/item?id=45873738) - [BBC director general and News CEO resign in bias controversy](https://www.bbc.co.uk/news/live/cd9kqz1yyxkt)
 * [2025-11-10, 08:09:31](https://news.ycombinator.com/item?id=45873625) - [The Linux Kernel Looks to \"Bite the Bullet\" in Enabling Microsoft C Extensions](https://www.phoronix.com/news/Linux-6.19-Patch-Would-MS-Ext)
@@ -17,7 +18,6 @@
 * [2025-11-09, 16:10:23](https://news.ycombinator.com/item?id=45866572) - [The Principles of Diffusion Models](https://arxiv.org/abs/2510.21890)
 * [2025-11-09, 15:27:42](https://news.ycombinator.com/item?id=45866224) - [The Manuscripts of Edsger W. Dijkstra](https://www.cs.utexas.edu/~EWD/)
 * [2025-11-09, 13:03:36](https://news.ycombinator.com/item?id=45865289) - [Montana becomes first state to enshrine 'right to compute' into law](https://montananewsroom.com/montana-becomes-first-state-to-enshrine-right-to-compute-into-law/)
-* [2025-11-09, 12:50:07](https://news.ycombinator.com/item?id=45865189) - [Zensical – A modern static site generator built by the Material for MkDocs team](https://squidfunk.github.io/mkdocs-material/blog/2025/11/05/zensical/)
 * [2025-11-09, 12:44:35](https://news.ycombinator.com/item?id=45865159) - [Reviving Classic Unix Games: A 20-Year Journey Through Software Archaeology](https://vejeta.com/reviving-classic-unix-games-a-20-year-journey-through-software-archaeology/)
 * [2025-11-09, 09:46:04](https://news.ycombinator.com/item?id=45864341) - [Itiner-e: the Google Maps of Roman Roads](https://itiner-e.org/)
 * [2025-11-04, 16:00:59](https://news.ycombinator.com/item?id=45812454) - [Understanding Financial Functions in Excel](https://ciju.in/writings/understanding-financial-functions-excel-sheets)
