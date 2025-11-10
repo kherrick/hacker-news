@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-11-10](index.md)
 
+* [2025-11-10, 17:47:49](https://news.ycombinator.com/item?id=45878545) - [Hacker News Headlines (game)](https://projects.peercy.net/projects/hn-oracle/index.html)
 * [2025-11-10, 16:55:08](https://news.ycombinator.com/item?id=45877892) - [Canadian military will rely on army of public servants to grow its ranks by 300k](https://ottawacitizen.com/public-service/defence-watch/canadian-military-public-servants)
 * [2025-11-10, 16:44:40](https://news.ycombinator.com/item?id=45877770) - [ClickHouse acquires LibreChat: The open-source Agentic Data Stack](https://clickhouse.com/blog/librechat-open-source-agentic-data-stack)
 * [2025-11-10, 16:38:31](https://news.ycombinator.com/item?id=45877698) - [Benchmarking leading AI agents against Google reCAPTCHA v2](https://research.roundtable.ai/captcha-benchmarking/)
