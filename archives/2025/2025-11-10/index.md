@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-11-10](index.md)
 
+* [2025-11-10, 16:55:08](https://news.ycombinator.com/item?id=45877892) - [Canadian military will rely on army of public servants to grow its ranks by 300k](https://ottawacitizen.com/public-service/defence-watch/canadian-military-public-servants)
 * [2025-11-10, 16:44:40](https://news.ycombinator.com/item?id=45877770) - [ClickHouse acquires LibreChat: The open-source Agentic Data Stack](https://clickhouse.com/blog/librechat-open-source-agentic-data-stack)
+* [2025-11-10, 16:38:31](https://news.ycombinator.com/item?id=45877698) - [Benchmarking leading AI agents against Google reCAPTCHA v2](https://research.roundtable.ai/captcha-benchmarking/)
 * [2025-11-10, 16:23:24](https://news.ycombinator.com/item?id=45877517) - [Launch HN: Hypercubic (YC F25) – AI for COBOL and Mainframes](https://www.hypercubic.ai/)
 * [2025-11-10, 16:05:46](https://news.ycombinator.com/item?id=45877257) - [Unexpected Things that are People](https://bengoldhaber.substack.com/p/unexpected-things-that-are-people)
 * [2025-11-10, 16:01:58](https://news.ycombinator.com/item?id=45877206) - [Cops Can Get Your Private Online Data](https://www.eff.org/deeplinks/2025/06/how-cops-can-get-your-private-online-data)
