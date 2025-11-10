@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-11-10, 02:10:59](https://news.ycombinator.com/item?id=45871531) - [Open source has a growing problem with LLM generated issues](https://github.com/opencontainers/runc/issues/4990)
-* [2025-11-10, 01:23:58](https://news.ycombinator.com/item?id=45871141) - [How the UK lost its shipbuilding industry](https://www.construction-physics.com/p/how-the-uk-lost-its-shipbuilding)
 * [2025-11-10, 01:20:18](https://news.ycombinator.com/item?id=45871107) - [How to maintain good vision amidst the myopia epidemic](https://ssathe.substack.com/p/vision-in-the-digital-age)
 * [2025-11-10, 01:17:53](https://news.ycombinator.com/item?id=45871084) - [My Git history was a mess of 'update' and 'fix' – so I made AI clean it up](https://github.com/f/git-rewrite-commits)
 * [2025-11-10, 00:51:33](https://news.ycombinator.com/item?id=45870925) - [Show HN: DroidDock – A sleek macOS app for browsing Android device files via ADB](https://rajivm1991.github.io/DroidDock/)
@@ -22,6 +21,7 @@
 * [2025-11-09, 12:44:35](https://news.ycombinator.com/item?id=45865159) - [Reviving Classic Unix Games: A 20-Year Journey Through Software Archaeology](https://vejeta.com/reviving-classic-unix-games-a-20-year-journey-through-software-archaeology/)
 * [2025-11-09, 12:24:50](https://news.ycombinator.com/item?id=45865049) - [Visualize FastAPI endpoints with FastAPI-Voyager](https://www.newsyeah.fun/voyager/)
 * [2025-11-09, 09:46:04](https://news.ycombinator.com/item?id=45864341) - [Itiner-e: the Google Maps of Roman Roads](https://itiner-e.org/)
+* [2025-11-04, 16:00:59](https://news.ycombinator.com/item?id=45812454) - [Understanding Financial Functions in Excel](https://ciju.in/writings/understanding-financial-functions-excel-sheets)
 * [2025-11-04, 14:30:23](https://news.ycombinator.com/item?id=45811435) - [Solving Every Sudoku Puzzle (2006)](https://norvig.com/sudoku.html)
 * [2025-11-04, 12:36:49](https://news.ycombinator.com/item?id=45810223) - [When your hash becomes a string: Hunting Ruby's million-to-one memory bug](https://mensfeld.pl/2025/11/ruby-ffi-gc-bug-hash-becomes-string/)
 * [2025-11-04, 09:08:23](https://news.ycombinator.com/item?id=45808899) - [JVM exceptions are weird: a decompiler perspective](https://purplesyringa.moe/blog/jvm-exceptions-are-weird-a-decompiler-perspective/)

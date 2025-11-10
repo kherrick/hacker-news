@@ -46,6 +46,7 @@
 * [2025-11-04, 16:26:09](https://news.ycombinator.com/item?id=45812756) - [An eBPF Loophole: Using XDP for Egress Traffic](https://loopholelabs.io/blog/xdp-for-egress-traffic)
 * [2025-11-04, 16:12:27](https://news.ycombinator.com/item?id=45812606) - [Pg_lake: Postgres with Iceberg and data lake access](https://github.com/Snowflake-Labs/pg_lake)
 * [2025-11-04, 16:04:18](https://news.ycombinator.com/item?id=45812499) - [The 512KB Club](https://512kb.club/)
+* [2025-11-04, 16:00:59](https://news.ycombinator.com/item?id=45812454) - [Understanding Financial Functions in Excel](https://ciju.in/writings/understanding-financial-functions-excel-sheets)
 * [2025-11-04, 15:55:59](https://news.ycombinator.com/item?id=45812403) - [Server DRAM prices surge 50% as AI-induced memory shortage hits hyperscalers](https://www.tomshardware.com/pc-components/storage/server-dram-prices-surge-50-percent)
 * [2025-11-04, 15:23:14](https://news.ycombinator.com/item?id=45812024) - [This Day in 1988, the Morris worm infected 10% of the Internet within 24 hours](https://www.tomshardware.com/tech-industry/cyber-security/on-this-day-in-1988-the-morris-worm-slithered-out-and-sparked-a-new-era-in-cybersecurity-10-percent-of-the-internet-was-infected-within-24-hours)
 * [2025-11-04, 15:21:16](https://news.ycombinator.com/item?id=45812000) - [How devtools map minified JS code back to your TypeScript source code](https://www.polarsignals.com/blog/posts/2025/11/04/javascript-source-maps-internals)
