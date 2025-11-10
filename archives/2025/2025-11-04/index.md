@@ -65,6 +65,7 @@
 * [2025-11-04, 12:27:46](https://news.ycombinator.com/item?id=45810127) - [Ask HN: Why are most status pages delayed?](https://news.ycombinator.com/item?id=45810127)
 * [2025-11-04, 12:26:28](https://news.ycombinator.com/item?id=45810116) - [Pose Animator – An open source tool to bring SVG characters to life (2020)](https://blog.tensorflow.org/2020/05/pose-animator-open-source-tool-to-bring-svg-characters-to-life.html)
 * [2025-11-04, 12:24:40](https://news.ycombinator.com/item?id=45810099) - [Show HN: Sparktype – a CMS and SSG that runs entirely in the browser](https://app.sparktype.org)
+* [2025-11-04, 12:07:10](https://news.ycombinator.com/item?id=45810001) - [Registered OAuth Parameters](https://www.iana.org/assignments/oauth-parameters/oauth-parameters.xhtml#parameters)
 * [2025-11-04, 11:56:23](https://news.ycombinator.com/item?id=45809932) - [Former US Vice-President Cheney Dies](https://www.reuters.com/world/us/former-us-vp-dick-cheney-dead-84-punchbowl-news-says-2025-11-04/)
 * [2025-11-04, 11:52:02](https://news.ycombinator.com/item?id=45809897) - [This Month in Ladybird – October 2025](https://ladybird.org/newsletter/2025-10-31/)
 * [2025-11-04, 11:47:46](https://news.ycombinator.com/item?id=45809876) - [Studio Ghibli, Bandai Namco, Square Enix Demand OpenAI to Stop Using Their IP](https://www.theverge.com/news/812545/coda-studio-ghibli-sora-2-copyright-infringement)

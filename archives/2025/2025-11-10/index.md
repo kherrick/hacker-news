@@ -6,6 +6,7 @@
 
 * [2025-11-10, 20:33:45](https://news.ycombinator.com/item?id=45880589) - [Feds searched license camera readers at 18 WA police agencies without consent](https://www.seattletimes.com/seattle-news/law-justice/feds-searched-flock-security-systems-at-18-wa-police-agencies-report/)
 * [2025-11-10, 20:06:44](https://news.ycombinator.com/item?id=45880284) - [Context engineering can save your company from AI vibe code overload](https://venturebeat.com/ai/how-context-engineering-can-save-your-company-from-ai-vibe-code-overload)
+* [2025-11-10, 19:28:07](https://news.ycombinator.com/item?id=45879793) - [Using Generative AI in Content Production](https://partnerhelp.netflixstudios.com/hc/en-us/articles/43393929218323-Using-Generative-AI-in-Content-Production)
 * [2025-11-10, 19:13:01](https://news.ycombinator.com/item?id=45879602) - [I refuse to date someone who uses ChatGPT](https://www.theguardian.com/lifeandstyle/2025/nov/10/chatgpt-dating-ick)
 * [2025-11-10, 18:30:06](https://news.ycombinator.com/item?id=45879101) - [Redmond, WA, turns off Flock Safety cameras after ICE arrests](https://www.seattletimes.com/seattle-news/law-justice/redmond-turns-off-flock-safety-cameras-after-ice-arrests/)
 * [2025-11-10, 18:23:10](https://news.ycombinator.com/item?id=45879012) - [Memory Safety for Skeptics](https://queue.acm.org/detail.cfm?id=3773095)
@@ -18,6 +19,7 @@
 * [2025-11-10, 16:44:40](https://news.ycombinator.com/item?id=45877770) - [ClickHouse acquires LibreChat: The open-source Agentic Data Stack](https://clickhouse.com/blog/librechat-open-source-agentic-data-stack)
 * [2025-11-10, 16:38:31](https://news.ycombinator.com/item?id=45877698) - [Benchmarking leading AI agents against Google reCAPTCHA v2](https://research.roundtable.ai/captcha-benchmarking/)
 * [2025-11-10, 16:23:24](https://news.ycombinator.com/item?id=45877517) - [Launch HN: Hypercubic (YC F25) – AI for COBOL and Mainframes](https://www.hypercubic.ai/)
+* [2025-11-10, 16:23:24](https://news.ycombinator.com/item?id=45877517) - [Launch HN: Hypercubic (YC F25) – AI for COBOL and Mainframes](https://news.ycombinator.com/item?id=45877517)
 * [2025-11-10, 16:05:46](https://news.ycombinator.com/item?id=45877257) - [Unexpected Things that are People](https://bengoldhaber.substack.com/p/unexpected-things-that-are-people)
 * [2025-11-10, 16:01:58](https://news.ycombinator.com/item?id=45877206) - [Cops Can Get Your Private Online Data](https://www.eff.org/deeplinks/2025/06/how-cops-can-get-your-private-online-data)
 * [2025-11-10, 15:56:57](https://news.ycombinator.com/item?id=45877149) - [Asus Ascent GX10](https://www.asus.com/networking-iot-servers/desktop-ai-supercomputer/ultra-small-ai-supercomputers/asus-ascent-gx10/)
