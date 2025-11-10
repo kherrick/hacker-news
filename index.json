@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-11-10, 08:09:31",
+      "https://news.ycombinator.com/item?id=45873625"
+    ],
+    [
+      "The Linux Kernel Looks to \"Bite the Bullet\" in Enabling Microsoft C Extensions",
+      "https://www.phoronix.com/news/Linux-6.19-Patch-Would-MS-Ext"
+    ]
+  ],
+  [
+    [
       "2025-11-10, 07:39:36",
       "https://news.ycombinator.com/item?id=45873434"
     ],
@@ -77,16 +87,6 @@
     [
       "Sued by Nintendo",
       "https://www.suedbynintendo.com/"
-    ]
-  ],
-  [
-    [
-      "2025-11-09, 21:56:29",
-      "https://news.ycombinator.com/item?id=45869587"
-    ],
-    [
-      "Metabolic and cellular differences between sedentary and active individuals",
-      "https://howardluksmd.substack.com/p/if-youre-not-active-youre-sick-you"
     ]
   ],
   [
@@ -221,22 +221,22 @@
   ],
   [
     [
-      "2025-11-04, 12:36:49",
-      "https://news.ycombinator.com/item?id=45810223"
-    ],
-    [
-      "When your hash becomes a string: Hunting Ruby's million-to-one memory bug",
-      "https://mensfeld.pl/2025/11/ruby-ffi-gc-bug-hash-becomes-string/"
-    ]
-  ],
-  [
-    [
       "2025-11-04, 09:08:23",
       "https://news.ycombinator.com/item?id=45808899"
     ],
     [
       "JVM exceptions are weird: a decompiler perspective",
       "https://purplesyringa.moe/blog/jvm-exceptions-are-weird-a-decompiler-perspective/"
+    ]
+  ],
+  [
+    [
+      "2025-11-04, 01:36:51",
+      "https://news.ycombinator.com/item?id=45806606"
+    ],
+    [
+      "Lee Felsenstein",
+      "https://en.wikipedia.org/wiki/Lee_Felsenstein"
     ]
   ],
   [
