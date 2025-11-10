@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-11-10, 06:44:40](https://news.ycombinator.com/item?id=45873113) - [Realtime BART Arrival Display](https://filbot.com/real-time-bart-display/)
+* [2025-11-10, 06:29:54](https://news.ycombinator.com/item?id=45873037) - [Beets: The music geek's media organizer](https://beets.io/)
 * [2025-11-10, 02:10:59](https://news.ycombinator.com/item?id=45871531) - [LLM policy?](https://github.com/opencontainers/runc/issues/4990)
 * [2025-11-10, 01:23:58](https://news.ycombinator.com/item?id=45871141) - [How the UK lost its shipbuilding industry](https://www.construction-physics.com/p/how-the-uk-lost-its-shipbuilding)
 * [2025-11-10, 00:51:33](https://news.ycombinator.com/item?id=45870925) - [Show HN: DroidDock – A sleek macOS app for browsing Android device files via ADB](https://rajivm1991.github.io/DroidDock/)
@@ -25,10 +26,9 @@
 * [2025-11-04, 09:08:23](https://news.ycombinator.com/item?id=45808899) - [JVM exceptions are weird: a decompiler perspective](https://purplesyringa.moe/blog/jvm-exceptions-are-weird-a-decompiler-perspective/)
 * [2025-11-03, 21:49:58](https://news.ycombinator.com/item?id=45804870) - [Today I Learned: Binfmt_misc](https://dfir.ch/posts/today_i_learned_binfmt_misc/)
 * [2025-11-03, 21:05:00](https://news.ycombinator.com/item?id=45804416) - [A brief history of Time Machine (2024)](https://eclecticlight.co/2024/09/07/a-brief-history-of-time-machine/)
-* [2025-11-03, 20:52:50](https://news.ycombinator.com/item?id=45804295) - [CHIP8 – emulator, assembler, game, vhdl hardware implementations](http://blog.dominikrudnik.pl/chip8-emulator-assembler-game-vhdl)
 * [2025-11-03, 20:19:53](https://news.ycombinator.com/item?id=45803904) - [Former Nintendo employees reveal what it took to launch the NES](https://hanafuda.report/articles/former-nintendo-employees-reveal-what-it-took-to-launch-the-nes-in-america/)
 * [2025-11-03, 19:51:30](https://news.ycombinator.com/item?id=45803601) - [Building a 2.5kWh battery from disposable vapes to power my workshop [video]](https://www.youtube.com/watch?v=dy-wFixuRVU)
-* [2025-11-01, 23:32:05](https://news.ycombinator.com/item?id=45786475) - [DEC64: Decimal Floating Point](https://www.crockford.com/dec64.html)
+* [2025-11-01, 23:32:05](https://news.ycombinator.com/item?id=45786475) - [DEC64: Decimal Floating Point (2020)](https://www.crockford.com/dec64.html)
 * [2025-11-01, 15:04:56](https://news.ycombinator.com/item?id=45782192) - [Email verification protocol](https://github.com/WICG/email-verification-protocol)
 
 ## [Archives](archives/index.md)
