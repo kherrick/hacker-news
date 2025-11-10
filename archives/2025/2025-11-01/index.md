@@ -7,6 +7,7 @@
 * [2025-11-01, 23:50:57](https://news.ycombinator.com/item?id=45786599) - [Scientists Growing Colour Without Chemicals](https://www.forbes.com/sites/maevecampbell/2025/06/20/dyeing-for-fashion-meet-the-scientists-growing-colour-without-chemicals/)
 * [2025-11-01, 23:41:04](https://news.ycombinator.com/item?id=45786533) - [Show HN: Duper – The Format That's Super](https://duper.dev.br/)
 * [2025-11-01, 23:34:51](https://news.ycombinator.com/item?id=45786490) - [Text case changes the size of QR codes](https://www.johndcook.com/blog/2025/10/31/smaller-qr-codes/)
+* [2025-11-01, 23:32:05](https://news.ycombinator.com/item?id=45786475) - [DEC64: Decimal Floating Point](https://www.crockford.com/dec64.html)
 * [2025-11-01, 23:09:25](https://news.ycombinator.com/item?id=45786324) - [Pomelli](https://labs.google.com/pomelli/about/)
 * [2025-11-01, 23:09:25](https://news.ycombinator.com/item?id=45786324) - [Pomelli](https://blog.google/technology/google-labs/pomelli/)
 * [2025-11-01, 23:01:24](https://news.ycombinator.com/item?id=45786266) - [The purported benefits of effect systems](https://typesanitizer.com/blog/effects-convo.html)
