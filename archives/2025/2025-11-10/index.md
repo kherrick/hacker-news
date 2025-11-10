@@ -6,6 +6,7 @@
 
 * [2025-11-10, 15:14:05](https://news.ycombinator.com/item?id=45876744) - [LLMs are steroids for your Dunning-Kruger](https://bytesauna.com/post/dunning-kruger)
 * [2025-11-10, 14:12:11](https://news.ycombinator.com/item?id=45876190) - [Rubin Observatory Discovers Surprise 'Tail' on Iconic Galaxy](https://www.scientificamerican.com/article/rubin-observatory-discovers-surprise-tail-on-iconic-galaxy/)
+* [2025-11-10, 14:01:56](https://news.ycombinator.com/item?id=45876098) - [Multistable thin-shell metastructures for multiresponsive metabots](https://www.science.org/doi/10.1126/sciadv.adx4359)
 * [2025-11-10, 13:40:59](https://news.ycombinator.com/item?id=45875918) - [Interesting SPI Routing with iCE40 FPGAs](https://danielmangum.com/posts/spi-routing-ice40-fpga/)
 * [2025-11-10, 13:38:42](https://news.ycombinator.com/item?id=45875903) - [Steven Heller's Font of the Month: Archive Matrix](https://ilovetypography.com/2025/11/07/steven-hellers-font-of-the-month-archive-matrix/)
 * [2025-11-10, 13:19:36](https://news.ycombinator.com/item?id=45875697) - [Refashion: Reconfigurable Garments via Modular Design](https://arxiv.org/abs/2510.11941)

@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-11-10, 15:14:05](https://news.ycombinator.com/item?id=45876744) - [LLMs are steroids for your Dunning-Kruger](https://bytesauna.com/post/dunning-kruger)
+* [2025-11-10, 14:01:56](https://news.ycombinator.com/item?id=45876098) - [Multistable thin-shell metastructures for multiresponsive metabots](https://www.science.org/doi/10.1126/sciadv.adx4359)
 * [2025-11-10, 13:40:59](https://news.ycombinator.com/item?id=45875918) - [Interesting SPI Routing with iCE40 FPGAs](https://danielmangum.com/posts/spi-routing-ice40-fpga/)
 * [2025-11-10, 13:38:42](https://news.ycombinator.com/item?id=45875903) - [Steven Heller's Font of the Month: Archive Matrix](https://ilovetypography.com/2025/11/07/steven-hellers-font-of-the-month-archive-matrix/)
 * [2025-11-10, 13:19:36](https://news.ycombinator.com/item?id=45875697) - [Refashion: Reconfigurable Garments via Modular Design](https://arxiv.org/abs/2510.11941)
@@ -15,7 +16,6 @@
 * [2025-11-09, 21:02:33](https://news.ycombinator.com/item?id=45869146) - [Ask HN: What Are You Working On? (Nov 2025)](https://news.ycombinator.com/item?id=45869146)
 * [2025-11-09, 18:17:44](https://news.ycombinator.com/item?id=45867717) - [Drilling down on Uncle Sam's proposed TP-Link ban](https://krebsonsecurity.com/2025/11/drilling-down-on-uncle-sams-proposed-tp-link-ban/)
 * [2025-11-09, 16:26:09](https://news.ycombinator.com/item?id=45866697) - [Marble Fountain](https://willmorrison.net/posts/marble-fountain/)
-* [2025-11-09, 15:27:42](https://news.ycombinator.com/item?id=45866224) - [The Manuscripts of Edsger W. Dijkstra](https://www.cs.utexas.edu/~EWD/)
 * [2025-11-09, 13:03:36](https://news.ycombinator.com/item?id=45865289) - [Montana becomes first state to enshrine 'right to compute' into law](https://montananewsroom.com/montana-becomes-first-state-to-enshrine-right-to-compute-into-law/)
 * [2025-11-09, 09:46:04](https://news.ycombinator.com/item?id=45864341) - [Itiner-e: the Google Maps of Roman Roads](https://itiner-e.org/)
 * [2025-11-06, 18:31:06](https://news.ycombinator.com/item?id=45838592) - [Show HN: What Is Hacker News Working On?](https://waywo.eamag.me/)
