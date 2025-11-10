@@ -23,13 +23,13 @@
 * [2025-11-10, 13:40:59](https://news.ycombinator.com/item?id=45875918) - [Interesting SPI Routing with iCE40 FPGAs](https://danielmangum.com/posts/spi-routing-ice40-fpga/)
 * [2025-11-10, 02:31:36](https://news.ycombinator.com/item?id=45871688) - [Error ABI](https://matklad.github.io/2025/11/09/error-ABI.html)
 * [2025-11-09, 18:29:43](https://news.ycombinator.com/item?id=45867828) - [Writing your own BEAM](https://martin.janiczek.cz/2025/11/09/writing-your-own-beam.html)
+* [2025-11-09, 16:26:09](https://news.ycombinator.com/item?id=45866697) - [Marble Fountain](https://willmorrison.net/posts/marble-fountain/)
 * [2025-11-08, 00:01:05](https://news.ycombinator.com/item?id=45852755) - [Building a high-performance ticketing system with TigerBeetle](https://renerocks.ai/blog/2025-11-02--tigerfans/)
 * [2025-11-06, 20:57:09](https://news.ycombinator.com/item?id=45840321) - [Unix v4 Tape Found](https://discuss.systems/@ricci/115504720054699983)
 * [2025-11-04, 12:26:28](https://news.ycombinator.com/item?id=45810116) - [Pose Animator – An open source tool to bring SVG characters to life (2020)](https://blog.tensorflow.org/2020/05/pose-animator-open-source-tool-to-bring-svg-characters-to-life.html)
 * [2025-11-04, 12:07:10](https://news.ycombinator.com/item?id=45810001) - [Registered OAuth Parameters](https://www.iana.org/assignments/oauth-parameters/oauth-parameters.xhtml#parameters)
 * [2025-11-03, 22:16:06](https://news.ycombinator.com/item?id=45805103) - [100 Hours to Shanghai](https://medium.com/pilot-island/100-hours-to-shanghai-0c0f872e7723)
 * [2025-11-03, 17:49:25](https://news.ycombinator.com/item?id=45801966) - [Dependent types and how to get rid of them](https://chadnauseam.com/coding/pltd/are-dependent-types-actually-erased)
-* [2025-11-02, 05:47:07](https://news.ycombinator.com/item?id=45788083) - [Synesthesia helps me find four-leaf clovers (2023)](https://matthewjamestaylor.com/synesthesia-four-leaf-clovers)
 
 ## [Archives](archives/index.md)
 
