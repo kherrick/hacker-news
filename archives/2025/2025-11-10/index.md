@@ -9,6 +9,7 @@
 * [2025-11-10, 22:03:08](https://news.ycombinator.com/item?id=45881537) - [Cybersecurity breach at Congressional Budget Office remains a live threat](https://www.politico.com/live-updates/2025/11/10/congress/cbo-still-under-threat-00644930)
 * [2025-11-10, 21:50:03](https://news.ycombinator.com/item?id=45881404) - [Linux in a Pixel Shader – A RISC-V Emulator for VRChat](https://blog.pimaker.at/texts/rvc1/)
 * [2025-11-10, 21:37:39](https://news.ycombinator.com/item?id=45881279) - [TTS Still Sucks](https://duarteocarmo.com/blog/tts-still-sucks)
+* [2025-11-10, 21:20:00](https://news.ycombinator.com/item?id=45881087) - [Sysgpu – Experimental descendant of WebGPU written in Zig](https://github.com/hexops-graveyard/mach-sysgpu)
 * [2025-11-10, 21:17:04](https://news.ycombinator.com/item?id=45881056) - [Zeroing in on Zero-Point Motion Inside a Crystal](https://physics.aps.org/articles/v18/178)
 * [2025-11-10, 21:07:02](https://news.ycombinator.com/item?id=45880939) - [Fei Fei Li: Spatial Intelligence is AI’s Next Frontier](https://drfeifei.substack.com/p/from-words-to-worlds-spatial-intelligence)
 * [2025-11-10, 20:46:11](https://news.ycombinator.com/item?id=45880716) - [Show HN: Davia – Open source visual, editable wiki from your codebase](https://github.com/davialabs/davia)
