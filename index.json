@@ -11,22 +11,22 @@
   ],
   [
     [
+      "2025-11-10, 08:44:52",
+      "https://news.ycombinator.com/item?id=45873876"
+    ],
+    [
+      "Microsoft's lack of quality control is out of control",
+      "https://www.theregister.com/2025/11/08/microsoft_lacks_quality_control/"
+    ]
+  ],
+  [
+    [
       "2025-11-10, 08:27:27",
       "https://news.ycombinator.com/item?id=45873756"
     ],
     [
       "EU takes aim at plastic pellets to prevent their nightmare cleanup",
       "https://www.yahoo.com/news/articles/eu-takes-aim-plastic-pellets-030314496.html"
-    ]
-  ],
-  [
-    [
-      "2025-11-10, 08:25:29",
-      "https://news.ycombinator.com/item?id=45873738"
-    ],
-    [
-      "BBC director general and News CEO resign in bias controversy",
-      "https://www.bbc.co.uk/news/live/cd9kqz1yyxkt"
     ]
   ],
   [
@@ -261,16 +261,6 @@
   ],
   [
     [
-      "2025-11-03, 20:19:53",
-      "https://news.ycombinator.com/item?id=45803904"
-    ],
-    [
-      "Former Nintendo employees reveal what it took to launch the NES",
-      "https://hanafuda.report/articles/former-nintendo-employees-reveal-what-it-took-to-launch-the-nes-in-america/"
-    ]
-  ],
-  [
-    [
       "2025-11-03, 19:51:30",
       "https://news.ycombinator.com/item?id=45803601"
     ],
@@ -297,6 +287,16 @@
     [
       "Email verification protocol",
       "https://github.com/WICG/email-verification-protocol"
+    ]
+  ],
+  [
+    [
+      "2025-10-31, 18:20:44",
+      "https://news.ycombinator.com/item?id=45775051"
+    ],
+    [
+      "BGP zombies and excessive path hunting",
+      "https://blog.cloudflare.com/going-bgp-zombie-hunting/"
     ]
   ]
 ]
