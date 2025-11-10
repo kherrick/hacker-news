@@ -9,6 +9,7 @@
 * [2025-11-02, 23:48:12](https://news.ycombinator.com/item?id=45794455) - [Amazon has launched a major global crackdown on Fire Stick piracy](https://www.the-sun.com/tech/15422622/amazon-fire-tv-stick-dodgy-apps-block-piracy-streaming/)
 * [2025-11-02, 23:11:22](https://news.ycombinator.com/item?id=45794245) - [New Prompt Injection Papers: Agents Rule of Two and the Attacker Moves Second](https://simonwillison.net/2025/Nov/2/new-prompt-injection-papers/)
 * [2025-11-02, 22:32:42](https://news.ycombinator.com/item?id=45794032) - [Facts About Throwing Good Parties](https://www.atvbt.com/21-facts-about-throwing-good-parties/)
+* [2025-11-02, 22:30:17](https://news.ycombinator.com/item?id=45794015) - [These Men dove to the Edmund Fitzgerald shipwreck decades ago. Their stories](https://www.freep.com/story/news/local/michigan/2025/11/02/edmund-fitzgerald-wreck-diving/86752517007/)
 * [2025-11-02, 22:27:08](https://news.ycombinator.com/item?id=45793982) - [The foods that make you smell more attractive](https://www.bbc.com/future/article/20251031-the-foods-that-make-you-smell-more-attractive)
 * [2025-11-02, 21:57:16](https://news.ycombinator.com/item?id=45793783) - [Skeena Indigenous Typeface](https://microsoft.github.io/Skeena-Indigenous-Typeface/)
 * [2025-11-02, 21:35:02](https://news.ycombinator.com/item?id=45793652) - [FurtherAI (Series A – A16Z, YC) Is Hiring Across Software and AI](https://news.ycombinator.com/item?id=45793652)

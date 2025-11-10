@@ -16,6 +16,7 @@
 * [2025-11-06, 20:01:08](https://news.ycombinator.com/item?id=45839655) - [UK outperforms US in creating unicorns from early stage VC investment](https://www.cityam.com/uk-outperforms-us-in-creating-unicorns-from-early-stage-vc-investment/)
 * [2025-11-06, 19:19:09](https://news.ycombinator.com/item?id=45839129) - [Mark Zuckerberg Had Illegal School at His Palo Alto Compound. Neighbors Revolted](https://www.wired.com/story/mark-zuckerberg-school-palo-alto-shut-down/)
 * [2025-11-06, 18:54:33](https://news.ycombinator.com/item?id=45838864) - [Black Hole Flare Is Biggest and Most Distant Seen](https://www.caltech.edu/about/news/black-hole-flare-is-biggest-and-most-distant-seen)
+* [2025-11-06, 18:31:06](https://news.ycombinator.com/item?id=45838592) - [Show HN: What Is Hacker News Working On?](https://waywo.eamag.me/)
 * [2025-11-06, 18:29:03](https://news.ycombinator.com/item?id=45838564) - [LLMs Encode How Difficult Problems Are](https://arxiv.org/abs/2510.18147)
 * [2025-11-06, 18:26:53](https://news.ycombinator.com/item?id=45838540) - [Show HN: TabPFN-2.5 – SOTA foundation model for tabular data](https://priorlabs.ai/technical-reports/tabpfn-2-5-model-report)
 * [2025-11-06, 18:12:56](https://news.ycombinator.com/item?id=45838365) - [Benchmarking the Most Reliable Document Parsing API](https://www.tensorlake.ai/blog/benchmarks)
