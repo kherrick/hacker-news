@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-11-10, 21:50:03",
+      "https://news.ycombinator.com/item?id=45881404"
+    ],
+    [
+      "Linux in a Pixel Shader – A RISC-V Emulator for VRChat",
+      "https://blog.pimaker.at/texts/rvc1/"
+    ]
+  ],
+  [
+    [
+      "2025-11-10, 21:37:39",
+      "https://news.ycombinator.com/item?id=45881279"
+    ],
+    [
+      "TTS Still Sucks",
+      "https://duarteocarmo.com/blog/tts-still-sucks"
+    ]
+  ],
+  [
+    [
       "2025-11-10, 21:17:04",
       "https://news.ycombinator.com/item?id=45881056"
     ],
@@ -17,6 +37,16 @@
     [
       "Fei Fei Li: Spatial Intelligence is AI’s Next Frontier",
       "https://drfeifei.substack.com/p/from-words-to-worlds-spatial-intelligence"
+    ]
+  ],
+  [
+    [
+      "2025-11-10, 20:46:11",
+      "https://news.ycombinator.com/item?id=45880716"
+    ],
+    [
+      "Show HN: Davia – Open source visual, editable wiki from your codebase",
+      "https://github.com/davialabs/davia"
     ]
   ],
   [
@@ -191,26 +221,6 @@
   ],
   [
     [
-      "2025-11-10, 08:48:14",
-      "https://news.ycombinator.com/item?id=45873904"
-    ],
-    [
-      "Installing and using HP-UX 9",
-      "https://thejpster.org.uk/blog/blog-2025-11-08/"
-    ]
-  ],
-  [
-    [
-      "2025-11-10, 06:29:54",
-      "https://news.ycombinator.com/item?id=45873037"
-    ],
-    [
-      "Beets: The music geek’s media organizer",
-      "https://beets.io/"
-    ]
-  ],
-  [
-    [
       "2025-11-10, 02:31:36",
       "https://news.ycombinator.com/item?id=45871688"
     ],
@@ -227,16 +237,6 @@
     [
       "Writing your own BEAM",
       "https://martin.janiczek.cz/2025/11/09/writing-your-own-beam.html"
-    ]
-  ],
-  [
-    [
-      "2025-11-09, 16:26:09",
-      "https://news.ycombinator.com/item?id=45866697"
-    ],
-    [
-      "Marble Fountain",
-      "https://willmorrison.net/posts/marble-fountain/"
     ]
   ],
   [
@@ -271,6 +271,16 @@
   ],
   [
     [
+      "2025-11-03, 17:49:25",
+      "https://news.ycombinator.com/item?id=45801966"
+    ],
+    [
+      "Dependent Types and How to Get Rid of Them",
+      "https://chadnauseam.com/coding/pltd/are-dependent-types-actually-erased"
+    ]
+  ],
+  [
+    [
       "2025-11-02, 10:24:05",
       "https://news.ycombinator.com/item?id=45789250"
     ],
@@ -287,16 +297,6 @@
     [
       "Synesthesia helps me find four-leaf clovers (2023)",
       "https://matthewjamestaylor.com/synesthesia-four-leaf-clovers"
-    ]
-  ],
-  [
-    [
-      "2025-10-31, 20:06:50",
-      "https://news.ycombinator.com/item?id=45776138"
-    ],
-    [
-      "Using the expand and contract pattern for schema changes",
-      "https://www.prisma.io/dataguide/types/relational/expand-and-contract-pattern"
     ]
   ]
 ]
