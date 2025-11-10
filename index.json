@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-11-10, 02:10:59",
+      "https://news.ycombinator.com/item?id=45871531"
+    ],
+    [
+      "Open source has a growing problem with LLM generated issues",
+      "https://github.com/opencontainers/runc/issues/4990"
+    ]
+  ],
+  [
+    [
       "2025-11-10, 01:23:58",
       "https://news.ycombinator.com/item?id=45871141"
     ],
@@ -31,16 +41,6 @@
   ],
   [
     [
-      "2025-11-10, 01:11:52",
-      "https://news.ycombinator.com/item?id=45871043"
-    ],
-    [
-      "Iran faces unprecedented drought as water crisis hits Tehran",
-      "https://www.bbc.com/news/articles/cy4p2yzmem0o"
-    ]
-  ],
-  [
-    [
       "2025-11-10, 00:51:33",
       "https://news.ycombinator.com/item?id=45870925"
     ],
@@ -67,16 +67,6 @@
     [
       "Sued by Nintendo",
       "https://www.suedbynintendo.com/"
-    ]
-  ],
-  [
-    [
-      "2025-11-09, 23:26:48",
-      "https://news.ycombinator.com/item?id=45870334"
-    ],
-    [
-      "Show HN: Trilogy Studio, open-source browser-based SQL editor and visualizer",
-      "https://trilogydata.dev/trilogy-studio-core/#screen=dashboard-import&import=https%3A%2F%2Ftrilogy-data.github.io%2Ftrilogy-public-models%2Fstudio%2Fdemo-model.json&dashboard=demo_dashboard&modelName=demo-model&connection=duckdb"
     ]
   ],
   [
@@ -277,6 +267,16 @@
     [
       "CHIP8 – emulator, assembler, game, vhdl hardware implementations",
       "http://blog.dominikrudnik.pl/chip8-emulator-assembler-game-vhdl"
+    ]
+  ],
+  [
+    [
+      "2025-11-03, 20:19:53",
+      "https://news.ycombinator.com/item?id=45803904"
+    ],
+    [
+      "40 years on, Former Nintendo employees reveal what it took to launch the NES",
+      "https://hanafuda.report/articles/former-nintendo-employees-reveal-what-it-took-to-launch-the-nes-in-america/"
     ]
   ],
   [
