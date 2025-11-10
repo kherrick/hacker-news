@@ -4,12 +4,15 @@
 
 ### [Archives](../../index.md) for [2025-11-10](index.md)
 
+* [2025-11-10, 16:44:40](https://news.ycombinator.com/item?id=45877770) - [ClickHouse acquires LibreChat: The open-source Agentic Data Stack](https://clickhouse.com/blog/librechat-open-source-agentic-data-stack)
 * [2025-11-10, 16:23:24](https://news.ycombinator.com/item?id=45877517) - [Launch HN: Hypercubic (YC F25) – AI for COBOL and Mainframes](https://www.hypercubic.ai/)
+* [2025-11-10, 16:05:46](https://news.ycombinator.com/item?id=45877257) - [Unexpected Things that are People](https://bengoldhaber.substack.com/p/unexpected-things-that-are-people)
 * [2025-11-10, 16:01:58](https://news.ycombinator.com/item?id=45877206) - [Cops Can Get Your Private Online Data](https://www.eff.org/deeplinks/2025/06/how-cops-can-get-your-private-online-data)
 * [2025-11-10, 15:56:57](https://news.ycombinator.com/item?id=45877149) - [Asus Ascent GX10](https://www.asus.com/networking-iot-servers/desktop-ai-supercomputer/ultra-small-ai-supercomputers/asus-ascent-gx10/)
 * [2025-11-10, 15:50:20](https://news.ycombinator.com/item?id=45877077) - [Thiel and Zuckerberg on Facebook, Millennials, and predictions for 2030](https://www.techemails.com/p/mark-zuckerberg-peter-thiel-millennials)
 * [2025-11-10, 15:48:44](https://news.ycombinator.com/item?id=45877060) - [Games Preservation Is Hard and Sometimes Involves Private Detectives](https://kotaku.com/gog-preservation-program-private-detectives-drm-2000635611)
 * [2025-11-10, 15:46:03](https://news.ycombinator.com/item?id=45877027) - [Ryanair reminds passengers of move to digital boarding pass in own app on nov 12](https://corporate.ryanair.com/news/ryanair-issues-reminder-to-passengers-ahead-of-move-to-100-digital-boarding-passes-from-wednesday-12-nov/)
+* [2025-11-10, 15:42:14](https://news.ycombinator.com/item?id=45876990) - [Zig (and the Design Choices Within)](https://blueberrywren.dev/blog/on-zig/)
 * [2025-11-10, 15:14:05](https://news.ycombinator.com/item?id=45876744) - [LLMs are steroids for your Dunning-Kruger](https://bytesauna.com/post/dunning-kruger)
 * [2025-11-10, 14:57:26](https://news.ycombinator.com/item?id=45876598) - [Time to Start De-Appling](https://heatherburns.tech/2025/11/10/time-to-start-de-appling/)
 * [2025-11-10, 14:12:11](https://news.ycombinator.com/item?id=45876190) - [Rubin Observatory Discovers Surprise 'Tail' on Iconic Galaxy](https://www.scientificamerican.com/article/rubin-observatory-discovers-surprise-tail-on-iconic-galaxy/)
