@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-11-10](index.md)
 
 * [2025-11-10, 08:27:27](https://news.ycombinator.com/item?id=45873756) - [EU takes aim at plastic pellets to prevent their nightmare cleanup](https://www.yahoo.com/news/articles/eu-takes-aim-plastic-pellets-030314496.html)
+* [2025-11-10, 08:25:29](https://news.ycombinator.com/item?id=45873738) - [BBC director general and News CEO resign in bias controversy](https://www.bbc.co.uk/news/live/cd9kqz1yyxkt)
 * [2025-11-10, 08:09:31](https://news.ycombinator.com/item?id=45873625) - [The Linux Kernel Looks to \"Bite the Bullet\" in Enabling Microsoft C Extensions](https://www.phoronix.com/news/Linux-6.19-Patch-Would-MS-Ext)
 * [2025-11-10, 07:39:36](https://news.ycombinator.com/item?id=45873434) - [XSLT RIP](https://xslt.rip/)
 * [2025-11-10, 06:44:40](https://news.ycombinator.com/item?id=45873113) - [Realtime BART Arrival Display](https://filbot.com/real-time-bart-display/)
