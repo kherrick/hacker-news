@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-11-10](index.md)
 
+* [2025-11-10, 21:07:02](https://news.ycombinator.com/item?id=45880939) - [Fei Fei Li: Spatial Intelligence is AI’s Next Frontier](https://drfeifei.substack.com/p/from-words-to-worlds-spatial-intelligence)
 * [2025-11-10, 20:33:45](https://news.ycombinator.com/item?id=45880589) - [Feds searched license camera readers at 18 WA police agencies without consent](https://www.seattletimes.com/seattle-news/law-justice/feds-searched-flock-security-systems-at-18-wa-police-agencies-report/)
 * [2025-11-10, 20:06:44](https://news.ycombinator.com/item?id=45880284) - [Context engineering can save your company from AI vibe code overload](https://venturebeat.com/ai/how-context-engineering-can-save-your-company-from-ai-vibe-code-overload)
 * [2025-11-10, 19:28:07](https://news.ycombinator.com/item?id=45879793) - [Using Generative AI in Content Production](https://partnerhelp.netflixstudios.com/hc/en-us/articles/43393929218323-Using-Generative-AI-in-Content-Production)
