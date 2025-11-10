@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-11-10, 19:13:01](https://news.ycombinator.com/item?id=45879602) - [I refuse to date someone who uses ChatGPT](https://www.theguardian.com/lifeandstyle/2025/nov/10/chatgpt-dating-ick)
 * [2025-11-10, 18:30:06](https://news.ycombinator.com/item?id=45879101) - [Redmond, WA, turns off Flock Safety cameras after ICE arrests](https://www.seattletimes.com/seattle-news/law-justice/redmond-turns-off-flock-safety-cameras-after-ice-arrests/)
 * [2025-11-10, 17:50:21](https://news.ycombinator.com/item?id=45878578) - [The (Lazy) Git UI You Didn't Know You Need](https://www.bwplotka.dev/2025/lazygit/)
 * [2025-11-10, 17:47:49](https://news.ycombinator.com/item?id=45878545) - [Hacker News Headlines (game)](https://projects.peercy.net/projects/hn-oracle/index.html)
@@ -21,6 +20,7 @@
 * [2025-11-10, 13:19:36](https://news.ycombinator.com/item?id=45875697) - [Refashion: Reconfigurable Garments via Modular Design](https://arxiv.org/abs/2510.11941)
 * [2025-11-10, 11:21:47](https://news.ycombinator.com/item?id=45874850) - [DNS Provider Quad9 Sees Piracy Blocking Orders as \"Existential Threat\"](https://torrentfreak.com/dns-provider-quad9-sees-piracy-blocking-orders-as-existential-threat/)
 * [2025-11-10, 08:48:14](https://news.ycombinator.com/item?id=45873904) - [Installing and using HP-UX 9](https://thejpster.org.uk/blog/blog-2025-11-08/)
+* [2025-11-10, 07:39:36](https://news.ycombinator.com/item?id=45873434) - [XSLT RIP](https://xslt.rip/)
 * [2025-11-10, 06:29:54](https://news.ycombinator.com/item?id=45873037) - [Beets: The music geek’s media organizer](https://beets.io/)
 * [2025-11-09, 21:02:33](https://news.ycombinator.com/item?id=45869146) - [Ask HN: What Are You Working On? (Nov 2025)](https://news.ycombinator.com/item?id=45869146)
 * [2025-11-06, 18:31:06](https://news.ycombinator.com/item?id=45838592) - [Show HN: What Is Hacker News Working On?](https://waywo.eamag.me/)
