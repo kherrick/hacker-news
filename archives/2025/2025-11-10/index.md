@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-11-10](index.md)
 
+* [2025-11-10, 16:23:24](https://news.ycombinator.com/item?id=45877517) - [Launch HN: Hypercubic (YC F25) – AI for COBOL and Mainframes](https://www.hypercubic.ai/)
 * [2025-11-10, 16:01:58](https://news.ycombinator.com/item?id=45877206) - [Cops Can Get Your Private Online Data](https://www.eff.org/deeplinks/2025/06/how-cops-can-get-your-private-online-data)
 * [2025-11-10, 15:56:57](https://news.ycombinator.com/item?id=45877149) - [Asus Ascent GX10](https://www.asus.com/networking-iot-servers/desktop-ai-supercomputer/ultra-small-ai-supercomputers/asus-ascent-gx10/)
 * [2025-11-10, 15:50:20](https://news.ycombinator.com/item?id=45877077) - [Thiel and Zuckerberg on Facebook, Millennials, and predictions for 2030](https://www.techemails.com/p/mark-zuckerberg-peter-thiel-millennials)

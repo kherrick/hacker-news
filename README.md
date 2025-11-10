@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-11-10, 16:23:24](https://news.ycombinator.com/item?id=45877517) - [Launch HN: Hypercubic (YC F25) – AI for COBOL and Mainframes](https://www.hypercubic.ai/)
 * [2025-11-10, 16:01:58](https://news.ycombinator.com/item?id=45877206) - [Cops Can Get Your Private Online Data](https://www.eff.org/deeplinks/2025/06/how-cops-can-get-your-private-online-data)
 * [2025-11-10, 15:56:57](https://news.ycombinator.com/item?id=45877149) - [Asus Ascent GX10](https://www.asus.com/networking-iot-servers/desktop-ai-supercomputer/ultra-small-ai-supercomputers/asus-ascent-gx10/)
 * [2025-11-10, 15:48:44](https://news.ycombinator.com/item?id=45877060) - [Games Preservation Is Hard and Sometimes Involves Private Detectives](https://kotaku.com/gog-preservation-program-private-detectives-drm-2000635611)
@@ -27,7 +28,6 @@
 * [2025-11-04, 08:19:41](https://news.ycombinator.com/item?id=45808633) - [Dempster-shafer and reasoning about sets](https://emiruz.com/post/2025-10-30-epistemics/)
 * [2025-11-03, 21:49:58](https://news.ycombinator.com/item?id=45804870) - [Today I Learned: Binfmt_misc](https://dfir.ch/posts/today_i_learned_binfmt_misc/)
 * [2025-11-02, 22:30:17](https://news.ycombinator.com/item?id=45794015) - [These Men dove to the Edmund Fitzgerald shipwreck decades ago. Their stories](https://www.freep.com/story/news/local/michigan/2025/11/02/edmund-fitzgerald-wreck-diving/86752517007/)
-* [2025-11-01, 23:32:05](https://news.ycombinator.com/item?id=45786475) - [DEC64: Decimal Floating Point (2020)](https://www.crockford.com/dec64.html)
 * [2025-10-31, 20:06:50](https://news.ycombinator.com/item?id=45776138) - [Using the expand and contract pattern for schema changes](https://www.prisma.io/dataguide/types/relational/expand-and-contract-pattern)
 * [2025-10-31, 18:20:44](https://news.ycombinator.com/item?id=45775051) - [BGP zombies and excessive path hunting](https://blog.cloudflare.com/going-bgp-zombie-hunting/)
 
