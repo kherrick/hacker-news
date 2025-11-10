@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-11-10](index.md)
 
+* [2025-11-10, 08:09:31](https://news.ycombinator.com/item?id=45873625) - [The Linux Kernel Looks to \"Bite the Bullet\" in Enabling Microsoft C Extensions](https://www.phoronix.com/news/Linux-6.19-Patch-Would-MS-Ext)
 * [2025-11-10, 07:39:36](https://news.ycombinator.com/item?id=45873434) - [XSLT RIP](https://xslt.rip/)
 * [2025-11-10, 06:44:40](https://news.ycombinator.com/item?id=45873113) - [Realtime BART Arrival Display](https://filbot.com/real-time-bart-display/)
 * [2025-11-10, 06:29:54](https://news.ycombinator.com/item?id=45873037) - [Beets: The music geek's media organizer](https://beets.io/)
