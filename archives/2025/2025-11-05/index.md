@@ -45,6 +45,7 @@
 * [2025-11-05, 12:00:17](https://news.ycombinator.com/item?id=45821921) - [Founder in Residence at Woz (San Francisco)](https://news.ycombinator.com/item?id=45821921)
 * [2025-11-05, 10:28:50](https://news.ycombinator.com/item?id=45821423) - [72% of devs believe Steam has a monopoly on PC games, according to study](https://www.gamesindustry.biz/72-of-devs-believe-steam-has-a-monopoly-on-pc-games-according-to-study)
 * [2025-11-05, 08:54:11](https://news.ycombinator.com/item?id=45820872) - [A Quote from Belligerentbarbies](https://simonwillison.net/2025/Nov/5/brenda/)
+* [2025-11-05, 08:45:16](https://news.ycombinator.com/item?id=45820824) - [Largest panoramic image – 2 Terapixels](https://holmenkollen360.com/)
 * [2025-11-05, 08:28:04](https://news.ycombinator.com/item?id=45820715) - [The Hackers Manifesto (The Conscience of a Hacker) (1986)](https://phrack.org/issues/7/3)
 * [2025-11-05, 05:45:22](https://news.ycombinator.com/item?id=45819635) - [GPS 'kill' switch allows state police cruisers to go dark and disable tracking](https://www.boston25news.com/news/local/25-investigates-gps-kill-switch-allows-msp-cruisers-go-dark-disable-tracking/5OKMJEUJDNAVXPLN4WKFADNPLM/)
 * [2025-11-05, 04:12:53](https://news.ycombinator.com/item?id=45818973) - [Epic vs. Google settlement: Opening up Android](https://twitter.com/TimSweeneyEpic/status/1985920786545123613)

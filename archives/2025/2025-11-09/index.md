@@ -7,6 +7,8 @@
 * [2025-11-09, 22:37:56](https://news.ycombinator.com/item?id=45869916) - [When Tesla's FSD works well, it gets credit. When it doesn't, you get blamed](https://electrek.co/2025/11/08/schrodingers-fsd-when-things-go-well-teslas-driving-when-they-dont-you-are/)
 * [2025-11-09, 22:16:38](https://news.ycombinator.com/item?id=45869742) - ['Up to 15 or 20′ air traffic controllers are retiring daily](https://www.pennlive.com/nation-world/2025/11/up-to-15-or-20-air-traffic-controllers-are-retiring-daily-official-says.html)
 * [2025-11-09, 21:59:49](https://news.ycombinator.com/item?id=45869620) - [Password to Louvre video surveillance system was 'Louvre', according to employee](https://abcnews.go.com/International/password-louvres-video-surveillance-system-louvre-employee/story?id=127236297)
+* [2025-11-09, 21:56:29](https://news.ycombinator.com/item?id=45869587) - [If You're Not Active, You're Sick – You Just Don't Know It Yet](https://howardluksmd.substack.com/p/if-youre-not-active-youre-sick-you)
+* [2025-11-09, 21:51:31](https://news.ycombinator.com/item?id=45869543) - [Custom doorbell app with Home Assistant and WebRTC](https://www.naps62.com/posts/custom-doorbell-app-with-homeassistant)
 * [2025-11-09, 21:30:07](https://news.ycombinator.com/item?id=45869366) - [America AI: Public Funding, Elite Extraction (not innovation)](https://x.com/Toutapodcast/article/1987591854829768791)
 * [2025-11-09, 21:02:33](https://news.ycombinator.com/item?id=45869146) - [Ask HN: What Are You Working On? (Nov 2025)](https://news.ycombinator.com/item?id=45869146)
 * [2025-11-09, 19:47:49](https://news.ycombinator.com/item?id=45868533) - [The Computer Church – Pennsylvania Computer and Technology Museum](https://www.thecomputerchurch.org/)
