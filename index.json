@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2025-11-10, 06:29:54",
+      "https://news.ycombinator.com/item?id=45873037"
+    ],
+    [
+      "Beets: The music geek's media organizer",
+      "https://beets.io/"
+    ]
+  ],
+  [
+    [
       "2025-11-10, 02:10:59",
       "https://news.ycombinator.com/item?id=45871531"
     ],
@@ -251,16 +261,6 @@
   ],
   [
     [
-      "2025-11-03, 20:52:50",
-      "https://news.ycombinator.com/item?id=45804295"
-    ],
-    [
-      "CHIP8 – emulator, assembler, game, vhdl hardware implementations",
-      "http://blog.dominikrudnik.pl/chip8-emulator-assembler-game-vhdl"
-    ]
-  ],
-  [
-    [
       "2025-11-03, 20:19:53",
       "https://news.ycombinator.com/item?id=45803904"
     ],
@@ -285,7 +285,7 @@
       "https://news.ycombinator.com/item?id=45786475"
     ],
     [
-      "DEC64: Decimal Floating Point",
+      "DEC64: Decimal Floating Point (2020)",
       "https://www.crockford.com/dec64.html"
     ]
   ],
