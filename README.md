@@ -2,6 +2,7 @@
 
 * [2025-11-10, 22:05:16](https://news.ycombinator.com/item?id=45881568) - [High-performance 2D graphics rendering on the CPU using sparse strips [pdf]](https://github.com/LaurenzV/master-thesis/blob/main/main.pdf)
 * [2025-11-10, 22:04:28](https://news.ycombinator.com/item?id=45881555) - [3D Heterogeneous Integration Powers New DARPA Fab](https://spectrum.ieee.org/3d-heterogeneous-integration)
+* [2025-11-10, 22:03:08](https://news.ycombinator.com/item?id=45881537) - [Cybersecurity breach at Congressional Budget Office remains a live threat](https://www.politico.com/live-updates/2025/11/10/congress/cbo-still-under-threat-00644930)
 * [2025-11-10, 21:50:03](https://news.ycombinator.com/item?id=45881404) - [Linux in a Pixel Shader – A RISC-V Emulator for VRChat](https://blog.pimaker.at/texts/rvc1/)
 * [2025-11-10, 21:37:39](https://news.ycombinator.com/item?id=45881279) - [TTS Still Sucks](https://duarteocarmo.com/blog/tts-still-sucks)
 * [2025-11-10, 21:17:04](https://news.ycombinator.com/item?id=45881056) - [Zeroing in on Zero-Point Motion Inside a Crystal](https://physics.aps.org/articles/v18/178)
@@ -17,7 +18,6 @@
 * [2025-11-10, 16:05:46](https://news.ycombinator.com/item?id=45877257) - [Unexpected things that are people](https://bengoldhaber.substack.com/p/unexpected-things-that-are-people)
 * [2025-11-10, 16:01:58](https://news.ycombinator.com/item?id=45877206) - [How cops can get your private online data](https://www.eff.org/deeplinks/2025/06/how-cops-can-get-your-private-online-data)
 * [2025-11-10, 15:56:57](https://news.ycombinator.com/item?id=45877149) - [Asus Ascent GX10](https://www.asus.com/networking-iot-servers/desktop-ai-supercomputer/ultra-small-ai-supercomputers/asus-ascent-gx10/)
-* [2025-11-10, 15:46:03](https://news.ycombinator.com/item?id=45877027) - [Reminder to passengers ahead of move to 100% digital boarding passes](https://corporate.ryanair.com/news/ryanair-issues-reminder-to-passengers-ahead-of-move-to-100-digital-boarding-passes-from-wednesday-12-nov/)
 * [2025-11-10, 15:14:05](https://news.ycombinator.com/item?id=45876744) - [LLMs are steroids for your Dunning-Kruger](https://bytesauna.com/post/dunning-kruger)
 * [2025-11-10, 14:57:26](https://news.ycombinator.com/item?id=45876598) - [Time to start de-Appling](https://heatherburns.tech/2025/11/10/time-to-start-de-appling/)
 * [2025-11-10, 14:23:17](https://news.ycombinator.com/item?id=45876308) - [Head in the Zed Cloud](https://maxdeviant.com/posts/2025/head-in-the-zed-cloud/)

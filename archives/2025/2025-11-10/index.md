@@ -6,6 +6,7 @@
 
 * [2025-11-10, 22:05:16](https://news.ycombinator.com/item?id=45881568) - [High-performance 2D graphics rendering on the CPU using sparse strips [pdf]](https://github.com/LaurenzV/master-thesis/blob/main/main.pdf)
 * [2025-11-10, 22:04:28](https://news.ycombinator.com/item?id=45881555) - [3D Heterogeneous Integration Powers New DARPA Fab](https://spectrum.ieee.org/3d-heterogeneous-integration)
+* [2025-11-10, 22:03:08](https://news.ycombinator.com/item?id=45881537) - [Cybersecurity breach at Congressional Budget Office remains a live threat](https://www.politico.com/live-updates/2025/11/10/congress/cbo-still-under-threat-00644930)
 * [2025-11-10, 21:50:03](https://news.ycombinator.com/item?id=45881404) - [Linux in a Pixel Shader – A RISC-V Emulator for VRChat](https://blog.pimaker.at/texts/rvc1/)
 * [2025-11-10, 21:37:39](https://news.ycombinator.com/item?id=45881279) - [TTS Still Sucks](https://duarteocarmo.com/blog/tts-still-sucks)
 * [2025-11-10, 21:17:04](https://news.ycombinator.com/item?id=45881056) - [Zeroing in on Zero-Point Motion Inside a Crystal](https://physics.aps.org/articles/v18/178)
