@@ -4,7 +4,12 @@
 
 ### [Archives](../../index.md) for [2025-11-10](index.md)
 
+* [2025-11-10, 15:56:57](https://news.ycombinator.com/item?id=45877149) - [Asus Ascent GX10](https://www.asus.com/networking-iot-servers/desktop-ai-supercomputer/ultra-small-ai-supercomputers/asus-ascent-gx10/)
+* [2025-11-10, 15:50:20](https://news.ycombinator.com/item?id=45877077) - [Thiel and Zuckerberg on Facebook, Millennials, and predictions for 2030](https://www.techemails.com/p/mark-zuckerberg-peter-thiel-millennials)
+* [2025-11-10, 15:48:44](https://news.ycombinator.com/item?id=45877060) - [Games Preservation Is Hard and Sometimes Involves Private Detectives](https://kotaku.com/gog-preservation-program-private-detectives-drm-2000635611)
+* [2025-11-10, 15:46:03](https://news.ycombinator.com/item?id=45877027) - [Ryanair reminds passengers of move to digital boarding pass in own app on nov 12](https://corporate.ryanair.com/news/ryanair-issues-reminder-to-passengers-ahead-of-move-to-100-digital-boarding-passes-from-wednesday-12-nov/)
 * [2025-11-10, 15:14:05](https://news.ycombinator.com/item?id=45876744) - [LLMs are steroids for your Dunning-Kruger](https://bytesauna.com/post/dunning-kruger)
+* [2025-11-10, 14:57:26](https://news.ycombinator.com/item?id=45876598) - [Time to Start De-Appling](https://heatherburns.tech/2025/11/10/time-to-start-de-appling/)
 * [2025-11-10, 14:12:11](https://news.ycombinator.com/item?id=45876190) - [Rubin Observatory Discovers Surprise 'Tail' on Iconic Galaxy](https://www.scientificamerican.com/article/rubin-observatory-discovers-surprise-tail-on-iconic-galaxy/)
 * [2025-11-10, 14:01:56](https://news.ycombinator.com/item?id=45876098) - [Multistable thin-shell metastructures for multiresponsive metabots](https://www.science.org/doi/10.1126/sciadv.adx4359)
 * [2025-11-10, 13:40:59](https://news.ycombinator.com/item?id=45875918) - [Interesting SPI Routing with iCE40 FPGAs](https://danielmangum.com/posts/spi-routing-ice40-fpga/)
