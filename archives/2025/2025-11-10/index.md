@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-11-10](index.md)
 
+* [2025-11-10, 19:13:01](https://news.ycombinator.com/item?id=45879602) - [I refuse to date someone who uses ChatGPT](https://www.theguardian.com/lifeandstyle/2025/nov/10/chatgpt-dating-ick)
 * [2025-11-10, 18:30:06](https://news.ycombinator.com/item?id=45879101) - [Redmond, WA, turns off Flock Safety cameras after ICE arrests](https://www.seattletimes.com/seattle-news/law-justice/redmond-turns-off-flock-safety-cameras-after-ice-arrests/)
+* [2025-11-10, 17:50:21](https://news.ycombinator.com/item?id=45878578) - [The (Lazy) Git UI You Didn't Know You Need](https://www.bwplotka.dev/2025/lazygit/)
 * [2025-11-10, 17:47:49](https://news.ycombinator.com/item?id=45878545) - [Hacker News Headlines (game)](https://projects.peercy.net/projects/hn-oracle/index.html)
 * [2025-11-10, 16:55:08](https://news.ycombinator.com/item?id=45877892) - [Canadian military will rely on army of public servants to grow its ranks by 300k](https://ottawacitizen.com/public-service/defence-watch/canadian-military-public-servants)
 * [2025-11-10, 16:44:40](https://news.ycombinator.com/item?id=45877770) - [ClickHouse acquires LibreChat: The open-source Agentic Data Stack](https://clickhouse.com/blog/librechat-open-source-agentic-data-stack)
