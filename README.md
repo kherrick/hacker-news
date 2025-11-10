@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-11-10, 18:30:06](https://news.ycombinator.com/item?id=45879101) - [Redmond, WA, turns off Flock Safety cameras after ICE arrests](https://www.seattletimes.com/seattle-news/law-justice/redmond-turns-off-flock-safety-cameras-after-ice-arrests/)
 * [2025-11-10, 17:47:49](https://news.ycombinator.com/item?id=45878545) - [Hacker News Headlines (game)](https://projects.peercy.net/projects/hn-oracle/index.html)
 * [2025-11-10, 16:44:40](https://news.ycombinator.com/item?id=45877770) - [ClickHouse acquires LibreChat, open-source AI chat platform](https://clickhouse.com/blog/librechat-open-source-agentic-data-stack)
 * [2025-11-10, 16:38:31](https://news.ycombinator.com/item?id=45877698) - [Benchmarking leading AI agents against Google reCAPTCHA v2](https://research.roundtable.ai/captcha-benchmarking/)
@@ -29,7 +30,6 @@
 * [2025-11-04, 12:26:28](https://news.ycombinator.com/item?id=45810116) - [Pose Animator – An open source tool to bring SVG characters to life (2020)](https://blog.tensorflow.org/2020/05/pose-animator-open-source-tool-to-bring-svg-characters-to-life.html)
 * [2025-11-01, 20:43:08](https://news.ycombinator.com/item?id=45785154) - [Think Weirder: The Year's Best SciFi Ideas](https://thinkweirder.com)
 * [2025-10-31, 20:06:50](https://news.ycombinator.com/item?id=45776138) - [Using the expand and contract pattern for schema changes](https://www.prisma.io/dataguide/types/relational/expand-and-contract-pattern)
-* [2025-10-31, 18:20:44](https://news.ycombinator.com/item?id=45775051) - [BGP zombies and excessive path hunting](https://blog.cloudflare.com/going-bgp-zombie-hunting/)
 
 ## [Archives](archives/index.md)
 
