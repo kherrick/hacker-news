@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-11-09](index.md)
 
+* [2025-11-09, 23:26:48](https://news.ycombinator.com/item?id=45870334) - [Show HN: Trilogy Studio, open-source browser-based SQL editor and visualizer](https://trilogydata.dev/trilogy-studio-core/#screen=dashboard-import&import=https%3A%2F%2Ftrilogy-data.github.io%2Ftrilogy-public-models%2Fstudio%2Fdemo-model.json&dashboard=demo_dashboard&modelName=demo-model&connection=duckdb)
 * [2025-11-09, 22:37:56](https://news.ycombinator.com/item?id=45869916) - [When Tesla's FSD works well, it gets credit. When it doesn't, you get blamed](https://electrek.co/2025/11/08/schrodingers-fsd-when-things-go-well-teslas-driving-when-they-dont-you-are/)
 * [2025-11-09, 22:16:38](https://news.ycombinator.com/item?id=45869742) - ['Up to 15 or 20′ air traffic controllers are retiring daily](https://www.pennlive.com/nation-world/2025/11/up-to-15-or-20-air-traffic-controllers-are-retiring-daily-official-says.html)
 * [2025-11-09, 21:59:49](https://news.ycombinator.com/item?id=45869620) - [Password to Louvre video surveillance system was 'Louvre', according to employee](https://abcnews.go.com/International/password-louvres-video-surveillance-system-louvre-employee/story?id=127236297)
@@ -43,6 +44,7 @@
 * [2025-11-09, 11:52:18](https://news.ycombinator.com/item?id=45864900) - [Valori – A Python-native Vector Database I built from scratch](https://news.ycombinator.com/item?id=45864900)
 * [2025-11-09, 11:12:02](https://news.ycombinator.com/item?id=45864732) - [Ask HN: How would u setup a child's first Linux computer?](https://news.ycombinator.com/item?id=45864732)
 * [2025-11-09, 10:05:25](https://news.ycombinator.com/item?id=45864424) - [Blue Origin Launches NASA's Escapade Mission to Mars: How to Watch](https://www.nytimes.com/2025/11/09/science/blue-origin-new-glenn-launch.html)
+* [2025-11-09, 09:46:04](https://news.ycombinator.com/item?id=45864341) - [Itiner-e: the Google Maps of Roman Roads](https://itiner-e.org/)
 * [2025-11-09, 06:32:37](https://news.ycombinator.com/item?id=45863435) - [Visa and Mastercard Near Deal with Merchants That Would Change Rewards Landscape](https://www.wsj.com/finance/banking/visa-and-mastercard-near-deal-with-merchants-that-would-change-rewards-landscape-fc6a0c78)
 * [2025-11-09, 06:13:05](https://news.ycombinator.com/item?id=45863360) - [I Am Mark Zuckerberg](https://iammarkzuckerberg.com/)
 * [2025-11-09, 05:05:20](https://news.ycombinator.com/item?id=45863057) - [Under 40s Declining Memory](https://onepercentrule.substack.com/p/under-40s-declining-memory)
