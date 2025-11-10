@@ -1,9 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-11-10, 16:01:58](https://news.ycombinator.com/item?id=45877206) - [Cops Can Get Your Private Online Data](https://www.eff.org/deeplinks/2025/06/how-cops-can-get-your-private-online-data)
 * [2025-11-10, 15:56:57](https://news.ycombinator.com/item?id=45877149) - [Asus Ascent GX10](https://www.asus.com/networking-iot-servers/desktop-ai-supercomputer/ultra-small-ai-supercomputers/asus-ascent-gx10/)
-* [2025-11-10, 15:50:20](https://news.ycombinator.com/item?id=45877077) - [Thiel and Zuckerberg on Facebook, Millennials, and predictions for 2030](https://www.techemails.com/p/mark-zuckerberg-peter-thiel-millennials)
 * [2025-11-10, 15:48:44](https://news.ycombinator.com/item?id=45877060) - [Games Preservation Is Hard and Sometimes Involves Private Detectives](https://kotaku.com/gog-preservation-program-private-detectives-drm-2000635611)
-* [2025-11-10, 15:46:03](https://news.ycombinator.com/item?id=45877027) - [Ryanair reminds passengers of move to digital boarding pass in own app on nov 12](https://corporate.ryanair.com/news/ryanair-issues-reminder-to-passengers-ahead-of-move-to-100-digital-boarding-passes-from-wednesday-12-nov/)
 * [2025-11-10, 14:57:26](https://news.ycombinator.com/item?id=45876598) - [Time to Start De-Appling](https://heatherburns.tech/2025/11/10/time-to-start-de-appling/)
 * [2025-11-10, 14:01:56](https://news.ycombinator.com/item?id=45876098) - [Multistable thin-shell metastructures for multiresponsive metabots](https://www.science.org/doi/10.1126/sciadv.adx4359)
 * [2025-11-10, 13:40:59](https://news.ycombinator.com/item?id=45875918) - [Interesting SPI Routing with iCE40 FPGAs](https://danielmangum.com/posts/spi-routing-ice40-fpga/)
@@ -26,6 +25,7 @@
 * [2025-11-04, 12:57:48](https://news.ycombinator.com/item?id=45810482) - [Microservices? No, modularity is what matters](https://binaryigor.com/modular-monolith-and-microservices-modularity-is-what-truly-matters.html)
 * [2025-11-04, 12:26:28](https://news.ycombinator.com/item?id=45810116) - [Pose Animator – An open source tool to bring SVG characters to life (2020)](https://blog.tensorflow.org/2020/05/pose-animator-open-source-tool-to-bring-svg-characters-to-life.html)
 * [2025-11-04, 08:19:41](https://news.ycombinator.com/item?id=45808633) - [Dempster-shafer and reasoning about sets](https://emiruz.com/post/2025-10-30-epistemics/)
+* [2025-11-03, 21:49:58](https://news.ycombinator.com/item?id=45804870) - [Today I Learned: Binfmt_misc](https://dfir.ch/posts/today_i_learned_binfmt_misc/)
 * [2025-11-02, 22:30:17](https://news.ycombinator.com/item?id=45794015) - [These Men dove to the Edmund Fitzgerald shipwreck decades ago. Their stories](https://www.freep.com/story/news/local/michigan/2025/11/02/edmund-fitzgerald-wreck-diving/86752517007/)
 * [2025-11-01, 23:32:05](https://news.ycombinator.com/item?id=45786475) - [DEC64: Decimal Floating Point (2020)](https://www.crockford.com/dec64.html)
 * [2025-10-31, 20:06:50](https://news.ycombinator.com/item?id=45776138) - [Using the expand and contract pattern for schema changes](https://www.prisma.io/dataguide/types/relational/expand-and-contract-pattern)
