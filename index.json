@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-11-10, 18:30:06",
+      "https://news.ycombinator.com/item?id=45879101"
+    ],
+    [
+      "Redmond, WA, turns off Flock Safety cameras after ICE arrests",
+      "https://www.seattletimes.com/seattle-news/law-justice/redmond-turns-off-flock-safety-cameras-after-ice-arrests/"
+    ]
+  ],
+  [
+    [
       "2025-11-10, 17:47:49",
       "https://news.ycombinator.com/item?id=45878545"
     ],
@@ -287,16 +297,6 @@
     [
       "Using the expand and contract pattern for schema changes",
       "https://www.prisma.io/dataguide/types/relational/expand-and-contract-pattern"
-    ]
-  ],
-  [
-    [
-      "2025-10-31, 18:20:44",
-      "https://news.ycombinator.com/item?id=45775051"
-    ],
-    [
-      "BGP zombies and excessive path hunting",
-      "https://blog.cloudflare.com/going-bgp-zombie-hunting/"
     ]
   ]
 ]
