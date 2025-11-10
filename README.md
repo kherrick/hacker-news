@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-11-10, 14:12:11](https://news.ycombinator.com/item?id=45876190) - [Rubin Observatory Discovers Surprise 'Tail' on Iconic Galaxy](https://www.scientificamerican.com/article/rubin-observatory-discovers-surprise-tail-on-iconic-galaxy/)
 * [2025-11-10, 13:40:59](https://news.ycombinator.com/item?id=45875918) - [Interesting SPI Routing with iCE40 FPGAs](https://danielmangum.com/posts/spi-routing-ice40-fpga/)
 * [2025-11-10, 11:21:47](https://news.ycombinator.com/item?id=45874850) - [DNS Provider Quad9 Sees Piracy Blocking Orders as \"Existential Threat\"](https://torrentfreak.com/dns-provider-quad9-sees-piracy-blocking-orders-as-existential-threat/)
 * [2025-11-10, 10:53:35](https://news.ycombinator.com/item?id=45874659) - [Europe to decide if 6 GHz is shared between Wi-Fi and cellular networks](https://www.theregister.com/2025/11/09/europe_to_decide_if_6/)
@@ -10,7 +11,6 @@
 * [2025-11-10, 06:29:54](https://news.ycombinator.com/item?id=45873037) - [Beets: The music geek’s media organizer](https://beets.io/)
 * [2025-11-10, 01:23:58](https://news.ycombinator.com/item?id=45871141) - [How the UK lost its shipbuilding industry](https://www.construction-physics.com/p/how-the-uk-lost-its-shipbuilding)
 * [2025-11-09, 21:02:33](https://news.ycombinator.com/item?id=45869146) - [Ask HN: What Are You Working On? (Nov 2025)](https://news.ycombinator.com/item?id=45869146)
-* [2025-11-09, 19:15:21](https://news.ycombinator.com/item?id=45868259) - [The Sega Master System](https://bumbershootsoft.wordpress.com/2025/11/08/the-sega-master-system/)
 * [2025-11-09, 18:17:44](https://news.ycombinator.com/item?id=45867717) - [Drilling down on Uncle Sam's proposed TP-Link ban](https://krebsonsecurity.com/2025/11/drilling-down-on-uncle-sams-proposed-tp-link-ban/)
 * [2025-11-09, 16:34:44](https://news.ycombinator.com/item?id=45866772) - [Bumble Berry Pi – A Cheap DIY Raspberry Pi Handheld Cyberdeck](https://github.com/samcervantes/bumble-berry-pi)
 * [2025-11-09, 16:26:09](https://news.ycombinator.com/item?id=45866697) - [Marble Fountain](https://willmorrison.net/posts/marble-fountain/)
