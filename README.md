@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-11-10, 08:48:14](https://news.ycombinator.com/item?id=45873904) - [Installing and using HP-UX 9](https://thejpster.org.uk/blog/blog-2025-11-08/)
+* [2025-11-10, 08:44:52](https://news.ycombinator.com/item?id=45873876) - [Microsoft's lack of quality control is out of control](https://www.theregister.com/2025/11/08/microsoft_lacks_quality_control/)
 * [2025-11-10, 08:27:27](https://news.ycombinator.com/item?id=45873756) - [EU takes aim at plastic pellets to prevent their nightmare cleanup](https://www.yahoo.com/news/articles/eu-takes-aim-plastic-pellets-030314496.html)
-* [2025-11-10, 08:25:29](https://news.ycombinator.com/item?id=45873738) - [BBC director general and News CEO resign in bias controversy](https://www.bbc.co.uk/news/live/cd9kqz1yyxkt)
 * [2025-11-10, 08:09:31](https://news.ycombinator.com/item?id=45873625) - [The Linux Kernel Looks to \"Bite the Bullet\" in Enabling Microsoft C Extensions](https://www.phoronix.com/news/Linux-6.19-Patch-Would-MS-Ext)
 * [2025-11-10, 07:39:36](https://news.ycombinator.com/item?id=45873434) - [XSLT RIP](https://xslt.rip/)
 * [2025-11-10, 06:44:40](https://news.ycombinator.com/item?id=45873113) - [Realtime BART Arrival Display](https://filbot.com/real-time-bart-display/)
@@ -26,10 +26,10 @@
 * [2025-11-04, 01:36:51](https://news.ycombinator.com/item?id=45806606) - [Lee Felsenstein](https://en.wikipedia.org/wiki/Lee_Felsenstein)
 * [2025-11-03, 21:49:58](https://news.ycombinator.com/item?id=45804870) - [Today I Learned: Binfmt_misc](https://dfir.ch/posts/today_i_learned_binfmt_misc/)
 * [2025-11-03, 21:05:00](https://news.ycombinator.com/item?id=45804416) - [A brief history of Time Machine (2024)](https://eclecticlight.co/2024/09/07/a-brief-history-of-time-machine/)
-* [2025-11-03, 20:19:53](https://news.ycombinator.com/item?id=45803904) - [Former Nintendo employees reveal what it took to launch the NES](https://hanafuda.report/articles/former-nintendo-employees-reveal-what-it-took-to-launch-the-nes-in-america/)
 * [2025-11-03, 19:51:30](https://news.ycombinator.com/item?id=45803601) - [Building a 2.5kWh battery from disposable vapes to power my workshop [video]](https://www.youtube.com/watch?v=dy-wFixuRVU)
 * [2025-11-01, 23:32:05](https://news.ycombinator.com/item?id=45786475) - [DEC64: Decimal Floating Point (2020)](https://www.crockford.com/dec64.html)
 * [2025-11-01, 15:04:56](https://news.ycombinator.com/item?id=45782192) - [Email verification protocol](https://github.com/WICG/email-verification-protocol)
+* [2025-10-31, 18:20:44](https://news.ycombinator.com/item?id=45775051) - [BGP zombies and excessive path hunting](https://blog.cloudflare.com/going-bgp-zombie-hunting/)
 
 ## [Archives](archives/index.md)
 
