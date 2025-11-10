@@ -12,6 +12,7 @@
 * [2025-11-03, 21:47:41](https://news.ycombinator.com/item?id=45804839) - [R interface to Apple's MLX library](https://hughjonesd.github.io/Rmlx/index.html)
 * [2025-11-03, 21:27:56](https://news.ycombinator.com/item?id=45804664) - [Apple App Store frontend source code archive](https://github.com/rxliuli/apps.apple.com)
 * [2025-11-03, 21:27:56](https://news.ycombinator.com/item?id=45804664) - [App Store web has exposed all its source code](https://www.reddit.com/r/webdev/comments/1onnzlj/app_store_web_has_exposed_all_its_source_code/)
+* [2025-11-03, 21:05:00](https://news.ycombinator.com/item?id=45804416) - [A brief history of Time Machine (2024)](https://eclecticlight.co/2024/09/07/a-brief-history-of-time-machine/)
 * [2025-11-03, 21:01:09](https://news.ycombinator.com/item?id=45804377) - [AI's Dial-Up Era](https://www.wreflection.com/p/ai-dial-up-era)
 * [2025-11-03, 20:52:50](https://news.ycombinator.com/item?id=45804295) - [CHIP8 – writing emulator, assembler, example game and VHDL hardware impl](http://blog.dominikrudnik.pl/chip8-emulator-assembler-game-vhdl)
 * [2025-11-03, 20:37:34](https://news.ycombinator.com/item?id=45804122) - [2,400 HP FDNY Super Pumper could extinguish hell itself](https://bangshift.com/bangshiftxl/mack-super-pumper-system-locomotive-engine-powered-pumper-extinguish-hell-often/)
