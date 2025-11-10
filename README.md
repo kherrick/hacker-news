@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-11-10, 15:14:05](https://news.ycombinator.com/item?id=45876744) - [LLMs are steroids for your Dunning-Kruger](https://bytesauna.com/post/dunning-kruger)
 * [2025-11-10, 13:40:59](https://news.ycombinator.com/item?id=45875918) - [Interesting SPI Routing with iCE40 FPGAs](https://danielmangum.com/posts/spi-routing-ice40-fpga/)
 * [2025-11-10, 13:38:42](https://news.ycombinator.com/item?id=45875903) - [Steven Heller's Font of the Month: Archive Matrix](https://ilovetypography.com/2025/11/07/steven-hellers-font-of-the-month-archive-matrix/)
 * [2025-11-10, 13:19:36](https://news.ycombinator.com/item?id=45875697) - [Refashion: Reconfigurable Garments via Modular Design](https://arxiv.org/abs/2510.11941)
@@ -24,7 +25,6 @@
 * [2025-11-04, 08:19:41](https://news.ycombinator.com/item?id=45808633) - [Dempster-shafer and reasoning about sets](https://emiruz.com/post/2025-10-30-epistemics/)
 * [2025-11-04, 01:36:51](https://news.ycombinator.com/item?id=45806606) - [Lee Felsenstein](https://en.wikipedia.org/wiki/Lee_Felsenstein)
 * [2025-11-03, 21:49:58](https://news.ycombinator.com/item?id=45804870) - [Today I Learned: Binfmt_misc](https://dfir.ch/posts/today_i_learned_binfmt_misc/)
-* [2025-11-03, 21:05:00](https://news.ycombinator.com/item?id=45804416) - [A brief history of Time Machine (2024)](https://eclecticlight.co/2024/09/07/a-brief-history-of-time-machine/)
 * [2025-11-03, 19:51:30](https://news.ycombinator.com/item?id=45803601) - [Building a 2.5kWh battery from disposable vapes to power my workshop [video]](https://www.youtube.com/watch?v=dy-wFixuRVU)
 * [2025-11-02, 22:30:17](https://news.ycombinator.com/item?id=45794015) - [These Men dove to the Edmund Fitzgerald shipwreck decades ago. Their stories](https://www.freep.com/story/news/local/michigan/2025/11/02/edmund-fitzgerald-wreck-diving/86752517007/)
 * [2025-11-01, 23:32:05](https://news.ycombinator.com/item?id=45786475) - [DEC64: Decimal Floating Point (2020)](https://www.crockford.com/dec64.html)
