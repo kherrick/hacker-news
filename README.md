@@ -10,7 +10,6 @@
 * [2025-11-10, 06:44:40](https://news.ycombinator.com/item?id=45873113) - [Realtime BART Arrival Display](https://filbot.com/real-time-bart-display/)
 * [2025-11-10, 06:29:54](https://news.ycombinator.com/item?id=45873037) - [Beets: The music geek's media organizer](https://beets.io/)
 * [2025-11-10, 01:23:58](https://news.ycombinator.com/item?id=45871141) - [How the UK lost its shipbuilding industry](https://www.construction-physics.com/p/how-the-uk-lost-its-shipbuilding)
-* [2025-11-10, 00:13:11](https://news.ycombinator.com/item?id=45870675) - [Sued by Nintendo](https://www.suedbynintendo.com/)
 * [2025-11-09, 21:02:33](https://news.ycombinator.com/item?id=45869146) - [Ask HN: What Are You Working On? (Nov 2025)](https://news.ycombinator.com/item?id=45869146)
 * [2025-11-09, 19:15:21](https://news.ycombinator.com/item?id=45868259) - [The Sega Master System](https://bumbershootsoft.wordpress.com/2025/11/08/the-sega-master-system/)
 * [2025-11-09, 18:17:44](https://news.ycombinator.com/item?id=45867717) - [Drilling down on Uncle Sam's proposed TP-Link ban](https://krebsonsecurity.com/2025/11/drilling-down-on-uncle-sams-proposed-tp-link-ban/)
@@ -29,6 +28,7 @@
 * [2025-11-03, 19:51:30](https://news.ycombinator.com/item?id=45803601) - [Building a 2.5kWh battery from disposable vapes to power my workshop [video]](https://www.youtube.com/watch?v=dy-wFixuRVU)
 * [2025-11-02, 22:30:17](https://news.ycombinator.com/item?id=45794015) - [These Men dove to the Edmund Fitzgerald shipwreck decades ago. Their stories](https://www.freep.com/story/news/local/michigan/2025/11/02/edmund-fitzgerald-wreck-diving/86752517007/)
 * [2025-11-01, 23:32:05](https://news.ycombinator.com/item?id=45786475) - [DEC64: Decimal Floating Point (2020)](https://www.crockford.com/dec64.html)
+* [2025-10-31, 20:06:50](https://news.ycombinator.com/item?id=45776138) - [Using the expand and contract pattern for schema changes](https://www.prisma.io/dataguide/types/relational/expand-and-contract-pattern)
 * [2025-10-31, 18:20:44](https://news.ycombinator.com/item?id=45775051) - [BGP zombies and excessive path hunting](https://blog.cloudflare.com/going-bgp-zombie-hunting/)
 
 ## [Archives](archives/index.md)

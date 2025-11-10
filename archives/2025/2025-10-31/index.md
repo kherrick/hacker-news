@@ -14,6 +14,7 @@
 * [2025-10-31, 20:46:51](https://news.ycombinator.com/item?id=45776512) - [Show HN: I built a self-hosted error tracker in Rails](https://telebugs.com)
 * [2025-10-31, 20:30:10](https://news.ycombinator.com/item?id=45776368) - [My first fifteen compilers (2019)](https://blog.sigplan.org/2019/07/09/my-first-fifteen-compilers/)
 * [2025-10-31, 20:20:42](https://news.ycombinator.com/item?id=45776269) - [A theoretical way to circumvent Android developer verification](https://enaix.github.io/2025/10/30/developer-verification.html)
+* [2025-10-31, 20:06:50](https://news.ycombinator.com/item?id=45776138) - [Using the expand and contract pattern for schema changes](https://www.prisma.io/dataguide/types/relational/expand-and-contract-pattern)
 * [2025-10-31, 19:49:31](https://news.ycombinator.com/item?id=45775988) - [Word2Vec-style vector arithmetic on docs embeddings](https://technicalwriting.dev/embeddings/arithmetic/index.html)
 * [2025-10-31, 19:16:05](https://news.ycombinator.com/item?id=45775642) - [How to build silos and decrease collaboration (on purpose)](https://www.rubick.com/how-to-build-silos-and-decrease-collaboration/)
 * [2025-10-31, 18:29:37](https://news.ycombinator.com/item?id=45775149) - [A computing legend speaks, a new oral history with Ken Thompson](https://computerhistory.org/blog/a-computing-legend-speaks/)
