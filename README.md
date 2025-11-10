@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-11-10, 02:10:59](https://news.ycombinator.com/item?id=45871531) - [Open source has a growing problem with LLM generated issues](https://github.com/opencontainers/runc/issues/4990)
-* [2025-11-10, 01:20:18](https://news.ycombinator.com/item?id=45871107) - [How to maintain good vision amidst the myopia epidemic](https://ssathe.substack.com/p/vision-in-the-digital-age)
 * [2025-11-10, 01:17:53](https://news.ycombinator.com/item?id=45871084) - [My Git history was a mess of 'update' and 'fix' – so I made AI clean it up](https://github.com/f/git-rewrite-commits)
 * [2025-11-10, 00:51:33](https://news.ycombinator.com/item?id=45870925) - [Show HN: DroidDock – A sleek macOS app for browsing Android device files via ADB](https://rajivm1991.github.io/DroidDock/)
 * [2025-11-10, 00:43:59](https://news.ycombinator.com/item?id=45870863) - [Work after work: Notes from an unemployed new grad watching the job market break](https://urlahmed.com/2025/11/05/work-after-work-notes-from-an-unemployed-new-grad-watching-the-job-market-break/)
@@ -29,6 +28,7 @@
 * [2025-11-03, 20:52:50](https://news.ycombinator.com/item?id=45804295) - [CHIP8 – emulator, assembler, game, vhdl hardware implementations](http://blog.dominikrudnik.pl/chip8-emulator-assembler-game-vhdl)
 * [2025-11-03, 20:19:53](https://news.ycombinator.com/item?id=45803904) - [40 years on, Former Nintendo employees reveal what it took to launch the NES](https://hanafuda.report/articles/former-nintendo-employees-reveal-what-it-took-to-launch-the-nes-in-america/)
 * [2025-11-03, 19:51:30](https://news.ycombinator.com/item?id=45803601) - [Building a 2.5kWh battery from disposable vapes to power my workshop [video]](https://www.youtube.com/watch?v=dy-wFixuRVU)
+* [2025-11-03, 00:48:32](https://news.ycombinator.com/item?id=45794814) - [The overengineered solution to my pigeon problem (2022)](https://maxnagy.com/posts/pigeons/)
 * [2025-11-01, 15:04:56](https://news.ycombinator.com/item?id=45782192) - [Email verification protocol](https://github.com/WICG/email-verification-protocol)
 
 ## [Archives](archives/index.md)
