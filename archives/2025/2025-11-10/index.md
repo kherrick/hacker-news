@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-11-10](index.md)
 
+* [2025-11-10, 20:33:45](https://news.ycombinator.com/item?id=45880589) - [Feds searched license camera readers at 18 WA police agencies without consent](https://www.seattletimes.com/seattle-news/law-justice/feds-searched-flock-security-systems-at-18-wa-police-agencies-report/)
 * [2025-11-10, 20:06:44](https://news.ycombinator.com/item?id=45880284) - [Context engineering can save your company from AI vibe code overload](https://venturebeat.com/ai/how-context-engineering-can-save-your-company-from-ai-vibe-code-overload)
 * [2025-11-10, 19:13:01](https://news.ycombinator.com/item?id=45879602) - [I refuse to date someone who uses ChatGPT](https://www.theguardian.com/lifeandstyle/2025/nov/10/chatgpt-dating-ick)
 * [2025-11-10, 18:30:06](https://news.ycombinator.com/item?id=45879101) - [Redmond, WA, turns off Flock Safety cameras after ICE arrests](https://www.seattletimes.com/seattle-news/law-justice/redmond-turns-off-flock-safety-cameras-after-ice-arrests/)
