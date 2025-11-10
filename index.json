@@ -101,16 +101,6 @@
   ],
   [
     [
-      "2025-11-10, 00:13:11",
-      "https://news.ycombinator.com/item?id=45870675"
-    ],
-    [
-      "Sued by Nintendo",
-      "https://www.suedbynintendo.com/"
-    ]
-  ],
-  [
-    [
       "2025-11-09, 21:02:33",
       "https://news.ycombinator.com/item?id=45869146"
     ],
@@ -287,6 +277,16 @@
     [
       "DEC64: Decimal Floating Point (2020)",
       "https://www.crockford.com/dec64.html"
+    ]
+  ],
+  [
+    [
+      "2025-10-31, 20:06:50",
+      "https://news.ycombinator.com/item?id=45776138"
+    ],
+    [
+      "Using the expand and contract pattern for schema changes",
+      "https://www.prisma.io/dataguide/types/relational/expand-and-contract-pattern"
     ]
   ],
   [
