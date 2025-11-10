@@ -16,6 +16,7 @@
 * [2025-11-09, 19:16:45](https://news.ycombinator.com/item?id=45868271) - [Protect Your Consciousness from AI](https://jordangoodman.bearblog.dev/protect-your-consciousness-from-ai/)
 * [2025-11-09, 19:15:24](https://news.ycombinator.com/item?id=45868260) - [U.S. Tech Layoffs Hit Two-Decade High in October](https://thefivepost.com/u-s-tech-layoffs-hit-two-decade-high-in-october/)
 * [2025-11-09, 19:15:21](https://news.ycombinator.com/item?id=45868259) - [The Sega Master System](https://bumbershootsoft.wordpress.com/2025/11/08/the-sega-master-system/)
+* [2025-11-09, 18:29:43](https://news.ycombinator.com/item?id=45867828) - [Writing your own BEAM](https://martin.janiczek.cz/2025/11/09/writing-your-own-beam.html)
 * [2025-11-09, 18:20:17](https://news.ycombinator.com/item?id=45867737) - [BBC director general and CEO resign over Trump documentary edit](https://www.bbc.com/news/live/cd9kqz1yyxkt)
 * [2025-11-09, 18:17:44](https://news.ycombinator.com/item?id=45867717) - [Drilling Down on Uncle Sam's Proposed TP-Link Ban](https://krebsonsecurity.com/2025/11/drilling-down-on-uncle-sams-proposed-tp-link-ban/)
 * [2025-11-09, 18:03:45](https://news.ycombinator.com/item?id=45867582) - [Orbital dynamics wizardry helped save NASA's next Mars mission](https://arstechnica.com/space/2025/11/heres-how-orbital-dynamics-wizardry-helped-save-nasas-next-mars-mission/)
