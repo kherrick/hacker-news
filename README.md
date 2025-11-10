@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-11-10, 08:27:27](https://news.ycombinator.com/item?id=45873756) - [EU takes aim at plastic pellets to prevent their nightmare cleanup](https://www.yahoo.com/news/articles/eu-takes-aim-plastic-pellets-030314496.html)
 * [2025-11-10, 08:09:31](https://news.ycombinator.com/item?id=45873625) - [The Linux Kernel Looks to \"Bite the Bullet\" in Enabling Microsoft C Extensions](https://www.phoronix.com/news/Linux-6.19-Patch-Would-MS-Ext)
 * [2025-11-10, 07:39:36](https://news.ycombinator.com/item?id=45873434) - [XSLT RIP](https://xslt.rip/)
 * [2025-11-10, 06:44:40](https://news.ycombinator.com/item?id=45873113) - [Realtime BART Arrival Display](https://filbot.com/real-time-bart-display/)
@@ -21,7 +22,6 @@
 * [2025-11-09, 09:46:04](https://news.ycombinator.com/item?id=45864341) - [Itiner-e: the Google Maps of Roman Roads](https://itiner-e.org/)
 * [2025-11-04, 16:00:59](https://news.ycombinator.com/item?id=45812454) - [Understanding Financial Functions in Excel](https://ciju.in/writings/understanding-financial-functions-excel-sheets)
 * [2025-11-04, 14:30:23](https://news.ycombinator.com/item?id=45811435) - [Solving Every Sudoku Puzzle (2006)](https://norvig.com/sudoku.html)
-* [2025-11-04, 12:36:49](https://news.ycombinator.com/item?id=45810223) - [When your hash becomes a string: Hunting Ruby's million-to-one memory bug](https://mensfeld.pl/2025/11/ruby-ffi-gc-bug-hash-becomes-string/)
 * [2025-11-04, 09:08:23](https://news.ycombinator.com/item?id=45808899) - [JVM exceptions are weird: a decompiler perspective](https://purplesyringa.moe/blog/jvm-exceptions-are-weird-a-decompiler-perspective/)
 * [2025-11-04, 01:36:51](https://news.ycombinator.com/item?id=45806606) - [Lee Felsenstein](https://en.wikipedia.org/wiki/Lee_Felsenstein)
 * [2025-11-03, 21:49:58](https://news.ycombinator.com/item?id=45804870) - [Today I Learned: Binfmt_misc](https://dfir.ch/posts/today_i_learned_binfmt_misc/)
