@@ -41,6 +41,16 @@
   ],
   [
     [
+      "2025-11-10, 21:20:00",
+      "https://news.ycombinator.com/item?id=45881087"
+    ],
+    [
+      "Sysgpu – Experimental descendant of WebGPU written in Zig",
+      "https://github.com/hexops-graveyard/mach-sysgpu"
+    ]
+  ],
+  [
+    [
       "2025-11-10, 21:17:04",
       "https://news.ycombinator.com/item?id=45881056"
     ],
@@ -227,16 +237,6 @@
     [
       "Writing your own BEAM",
       "https://martin.janiczek.cz/2025/11/09/writing-your-own-beam.html"
-    ]
-  ],
-  [
-    [
-      "2025-11-09, 16:26:09",
-      "https://news.ycombinator.com/item?id=45866697"
-    ],
-    [
-      "Marble Fountain",
-      "https://willmorrison.net/posts/marble-fountain/"
     ]
   ],
   [
