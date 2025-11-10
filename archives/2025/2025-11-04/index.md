@@ -62,6 +62,7 @@
 * [2025-11-04, 12:52:54](https://news.ycombinator.com/item?id=45810430) - [Chaining FFmpeg with a Browser Agent](https://100x.bot/a/chaining-ffmpeg-with-browser-agent)
 * [2025-11-04, 12:36:49](https://news.ycombinator.com/item?id=45810223) - [When Your Hash Becomes a String: Hunting Ruby's Million-to-One Memory Bug](https://mensfeld.pl/2025/11/ruby-ffi-gc-bug-hash-becomes-string/)
 * [2025-11-04, 12:27:46](https://news.ycombinator.com/item?id=45810127) - [Ask HN: Why are most status pages delayed?](https://news.ycombinator.com/item?id=45810127)
+* [2025-11-04, 12:26:28](https://news.ycombinator.com/item?id=45810116) - [Pose Animator – An open source tool to bring SVG characters to life (2020)](https://blog.tensorflow.org/2020/05/pose-animator-open-source-tool-to-bring-svg-characters-to-life.html)
 * [2025-11-04, 12:24:40](https://news.ycombinator.com/item?id=45810099) - [Show HN: Sparktype – a CMS and SSG that runs entirely in the browser](https://app.sparktype.org)
 * [2025-11-04, 11:56:23](https://news.ycombinator.com/item?id=45809932) - [Former US Vice-President Cheney Dies](https://www.reuters.com/world/us/former-us-vp-dick-cheney-dead-84-punchbowl-news-says-2025-11-04/)
 * [2025-11-04, 11:52:02](https://news.ycombinator.com/item?id=45809897) - [This Month in Ladybird – October 2025](https://ladybird.org/newsletter/2025-10-31/)
