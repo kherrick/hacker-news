@@ -15,6 +15,7 @@
 * [2025-11-03, 21:01:09](https://news.ycombinator.com/item?id=45804377) - [AI's Dial-Up Era](https://www.wreflection.com/p/ai-dial-up-era)
 * [2025-11-03, 20:52:50](https://news.ycombinator.com/item?id=45804295) - [CHIP8 – writing emulator, assembler, example game and VHDL hardware impl](http://blog.dominikrudnik.pl/chip8-emulator-assembler-game-vhdl)
 * [2025-11-03, 20:37:34](https://news.ycombinator.com/item?id=45804122) - [2,400 HP FDNY Super Pumper could extinguish hell itself](https://bangshift.com/bangshiftxl/mack-super-pumper-system-locomotive-engine-powered-pumper-extinguish-hell-often/)
+* [2025-11-03, 20:19:53](https://news.ycombinator.com/item?id=45803904) - [40 years on, Former Nintendo employees reveal what it took to launch the NES](https://hanafuda.report/articles/former-nintendo-employees-reveal-what-it-took-to-launch-the-nes-in-america/)
 * [2025-11-03, 19:51:30](https://news.ycombinator.com/item?id=45803601) - [Building a 2.5kWh battery from disposable vapes to power my workshop [video]](https://www.youtube.com/watch?v=dy-wFixuRVU)
 * [2025-11-03, 19:37:57](https://news.ycombinator.com/item?id=45803427) - [Leverage Points: Places to Intervene in a System (1999)](https://donellameadows.org/archives/leverage-points-places-to-intervene-in-a-system/)
 * [2025-11-03, 19:33:02](https://news.ycombinator.com/item?id=45803358) - [</> Htmx – The Fetch()ening](https://htmx.org/essays/the-fetchening/)

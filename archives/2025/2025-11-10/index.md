@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-11-10](index.md)
 
+* [2025-11-10, 02:10:59](https://news.ycombinator.com/item?id=45871531) - [Open source has a growing problem with LLM generated issues](https://github.com/opencontainers/runc/issues/4990)
 * [2025-11-10, 01:23:58](https://news.ycombinator.com/item?id=45871141) - [How the UK lost its shipbuilding industry](https://www.construction-physics.com/p/how-the-uk-lost-its-shipbuilding)
 * [2025-11-10, 01:20:18](https://news.ycombinator.com/item?id=45871107) - [How to maintain good vision amidst the myopia epidemic](https://ssathe.substack.com/p/vision-in-the-digital-age)
 * [2025-11-10, 01:17:53](https://news.ycombinator.com/item?id=45871084) - [My Git history was a mess of 'update' and 'fix' – so I made AI clean it up](https://github.com/f/git-rewrite-commits)
