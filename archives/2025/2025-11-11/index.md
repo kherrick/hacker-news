@@ -4,9 +4,13 @@
 
 ### [Archives](../../index.md) for [2025-11-11](index.md)
 
+* [2025-11-11, 14:49:51](https://news.ycombinator.com/item?id=45887857) - [Drawing Text Isn't Simple: Benchmarking Console vs. Graphical Rendering](https://cv.co.hu/csabi/drawing-text-performance-graphical-vs-console.html)
+* [2025-11-11, 14:37:29](https://news.ycombinator.com/item?id=45887720) - [US Army to buy 1 million drones, in major acquisition ramp-up](https://www.reuters.com/business/aerospace-defense/us-army-buy-1-million-drones-major-acquisition-ramp-up-2025-11-07/)
 * [2025-11-11, 14:36:31](https://news.ycombinator.com/item?id=45887709) - [Show HN: Gametje – A casual online gaming platform](https://gametje.com)
 * [2025-11-11, 14:34:54](https://news.ycombinator.com/item?id=45887699) - [The department of war just shot the accountants and opted for speed](https://steveblank.com/2025/11/11/the-department-of-war-just-shot-the-accountants-and-opted-for-speed/)
 * [2025-11-11, 14:18:16](https://news.ycombinator.com/item?id=45887536) - [Show HN: Tusk Drift – Open-source tool for automating API tests](https://github.com/Use-Tusk/drift-node-sdk)
+* [2025-11-11, 13:34:15](https://news.ycombinator.com/item?id=45887105) - [The Perplexing Appeal of the Telepathy Tapes](https://asteriskmag.com/issues/12-books/paradigm-shifted-the-perplexing-appeal-of-the-telepathy-tapes)
+* [2025-11-11, 13:24:31](https://news.ycombinator.com/item?id=45887007) - [Show HN: Venturu – Zillow for the market of local businesses](https://www.venturu.com)
 * [2025-11-11, 13:14:46](https://news.ycombinator.com/item?id=45886917) - [AI adoption in US adds ~900k tons of CO₂ annually, study finds](https://techxplore.com/news/2025-11-ai-tons-annually.html)
 * [2025-11-11, 13:03:05](https://news.ycombinator.com/item?id=45886822) - [Anxiety disorders tied to low levels of choline in the brain](https://medicalxpress.com/news/2025-11-anxiety-disorders-essential-nutrient-brain.html)
 * [2025-11-11, 13:00:39](https://news.ycombinator.com/item?id=45886788) - [Show HN: Linnix – eBPF observability that predicts failures before they happen](https://github.com/linnix-os/linnix)
