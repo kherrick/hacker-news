@@ -2,7 +2,8 @@
 
 * [2025-11-11, 16:04:08](https://news.ycombinator.com/item?id=45888891) - [Firefox Expands Fingerprint Protections](https://blog.mozilla.org/en/firefox/fingerprinting-protections/)
 * [2025-11-11, 15:50:26](https://news.ycombinator.com/item?id=45888697) - [Canada loses its measles-free status, with US on track to follow](https://www.bbc.com/news/articles/cy7e2lv4r8xo)
-* [2025-11-11, 15:28:59](https://news.ycombinator.com/item?id=45888387) - [Tired of being manipulated by BigTech?](https://aol.codeberg.page/eci/)
+* [2025-11-11, 15:11:35](https://news.ycombinator.com/item?id=45888143) - [Grebedoc – static site hosting for Git forges](https://grebedoc.dev)
+* [2025-11-11, 14:58:53](https://news.ycombinator.com/item?id=45887958) - [Blender 5.1](https://developer.blender.org/docs/release_notes/5.1/)
 * [2025-11-11, 14:49:51](https://news.ycombinator.com/item?id=45887857) - [Drawing Text Isn't Simple: Benchmarking Console vs. Graphical Rendering](https://cv.co.hu/csabi/drawing-text-performance-graphical-vs-console.html)
 * [2025-11-11, 14:36:31](https://news.ycombinator.com/item?id=45887709) - [Show HN: Gametje – A casual online gaming platform](https://gametje.com)
 * [2025-11-11, 14:18:16](https://news.ycombinator.com/item?id=45887536) - [Show HN: Tusk Drift – Open-source tool for automating API tests](https://github.com/Use-Tusk/drift-node-sdk)
@@ -12,7 +13,6 @@
 * [2025-11-11, 12:00:42](https://news.ycombinator.com/item?id=45886350) - [Hazel (YC W24) Is Hiring Full Stack Engineers](https://www.ycombinator.com/companies/hazel-2/jobs/fCdGOZw-full-stack-engineer)
 * [2025-11-11, 11:34:22](https://news.ycombinator.com/item?id=45886194) - [Advent of Code on the Z-Machine](https://entropicthoughts.com/advent-of-code-on-z-machine)
 * [2025-11-11, 11:33:49](https://news.ycombinator.com/item?id=45886191) - [DARPA and Texas Bet $1.4B on Unique Foundry -3D heterogeneous integration](https://spectrum.ieee.org/3d-heterogeneous-integration)
-* [2025-11-11, 11:31:08](https://news.ycombinator.com/item?id=45886180) - [Trying two dozen different psychedelics](https://psychotechnology.substack.com/p/on-trying-two-dozen-different-psychedelics)
 * [2025-11-11, 11:20:55](https://news.ycombinator.com/item?id=45886131) - [OpenAI may not use lyrics without license, German court rules](https://www.reuters.com/world/german-court-sides-with-plaintiff-copyright-case-against-openai-2025-11-11/)
 * [2025-11-11, 10:52:39](https://news.ycombinator.com/item?id=45886002) - [Welcome, the entire land - \"Hello, world!\" in hieroglyphics](https://optional.is/required/2009/12/03/welcome-the-entire-land/)
 * [2025-11-11, 10:17:57](https://news.ycombinator.com/item?id=45885813) - [iPhone Pocket](https://www.apple.com/newsroom/2025/11/introducing-iphone-pocket-a-beautiful-way-to-wear-and-carry-iphone/)

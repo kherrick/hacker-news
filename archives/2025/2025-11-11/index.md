@@ -7,6 +7,8 @@
 * [2025-11-11, 16:04:08](https://news.ycombinator.com/item?id=45888891) - [Firefox Expands Fingerprint Protections](https://blog.mozilla.org/en/firefox/fingerprinting-protections/)
 * [2025-11-11, 15:50:26](https://news.ycombinator.com/item?id=45888697) - [Canada loses its measles-free status, with US on track to follow](https://www.bbc.com/news/articles/cy7e2lv4r8xo)
 * [2025-11-11, 15:28:59](https://news.ycombinator.com/item?id=45888387) - [Tired of being manipulated by BigTech?](https://aol.codeberg.page/eci/)
+* [2025-11-11, 15:11:35](https://news.ycombinator.com/item?id=45888143) - [Grebedoc – static site hosting for Git forges](https://grebedoc.dev)
+* [2025-11-11, 14:58:53](https://news.ycombinator.com/item?id=45887958) - [Blender 5.1](https://developer.blender.org/docs/release_notes/5.1/)
 * [2025-11-11, 14:51:13](https://news.ycombinator.com/item?id=45887873) - [Europe converged rapidly on the United States before stagnating](https://constitutionofinnovation.eu/)
 * [2025-11-11, 14:49:51](https://news.ycombinator.com/item?id=45887857) - [Drawing Text Isn't Simple: Benchmarking Console vs. Graphical Rendering](https://cv.co.hu/csabi/drawing-text-performance-graphical-vs-console.html)
 * [2025-11-11, 14:37:29](https://news.ycombinator.com/item?id=45887720) - [US Army to buy 1 million drones, in major acquisition ramp-up](https://www.reuters.com/business/aerospace-defense/us-army-buy-1-million-drones-major-acquisition-ramp-up-2025-11-07/)
