@@ -1,9 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-11-11, 22:31:41](https://news.ycombinator.com/item?id=45893795) - [Four places to see London's Roman Wall](https://diamondgeezer.blogspot.com/2025/11/odd-places-to-see-londons-roman-wall.html)
+* [2025-11-11, 22:31:41](https://news.ycombinator.com/item?id=45893795) - [Four strange places to see London's Roman Wall](https://diamondgeezer.blogspot.com/2025/11/odd-places-to-see-londons-roman-wall.html)
 * [2025-11-11, 21:25:19](https://news.ycombinator.com/item?id=45893095) - [I didn't reverse-engineer the protocol for my blood pressure monitor in 24 hours](https://james.belchamber.com/articles/blood-pressure-monitor-reverse-engineering/)
 * [2025-11-11, 21:18:26](https://news.ycombinator.com/item?id=45893004) - [X5.1 solar flare, G4 geomagnetic storm watch](https://www.spaceweatherlive.com/en/news/view/593/20251111-x5-1-solar-flare-g4-geomagnetic-storm-watch.html)
-* [2025-11-11, 21:03:19](https://news.ycombinator.com/item?id=45892809) - [CACM Practice section welcomes submissions](https://dl.acm.org/doi/10.1145/3771297)
 * [2025-11-11, 21:00:35](https://news.ycombinator.com/item?id=45892773) - [Meticulous (YC S21) is hiring to redefine software dev](https://jobs.ashbyhq.com/meticulous/3197ae3d-bb26-4750-9ed7-b830f640515e)
 * [2025-11-11, 20:34:51](https://news.ycombinator.com/item?id=45892469) - [PBM Drug Pricing Distortion Report](https://www.46brooklyn.com/research/welcome-to-private-label-park-nuf485-8h5kw-wk8y2)
 * [2025-11-11, 20:27:38](https://news.ycombinator.com/item?id=45892394) - [Collaboration sucks](https://newsletter.posthog.com/p/collaboration-sucks)
@@ -18,6 +17,7 @@
 * [2025-11-11, 17:26:54](https://news.ycombinator.com/item?id=45890186) - [We ran over 600 image generations to compare AI image models](https://latenitesoft.com/blog/evaluating-frontier-ai-image-generation-models/)
 * [2025-11-11, 17:08:00](https://news.ycombinator.com/item?id=45889891) - [Cache-friendly, low-memory Lanczos algorithm in Rust](https://lukefleed.xyz/posts/cache-friendly-low-memory-lanczos/)
 * [2025-11-11, 17:01:07](https://news.ycombinator.com/item?id=45889793) - [Show HN: Cactoide – Federated RSVP Platform](https://cactoide.org/)
+* [2025-11-11, 16:04:08](https://news.ycombinator.com/item?id=45888891) - [Firefox expands fingerprint protections](https://blog.mozilla.org/en/firefox/fingerprinting-protections/)
 * [2025-11-11, 14:58:47](https://news.ycombinator.com/item?id=45887957) - [Pikaday: A friendly guide to front-end date pickers](https://pikaday.dbushell.com)
 * [2025-11-11, 14:34:54](https://news.ycombinator.com/item?id=45887699) - [The Department of War just shot the accountants and opted for speed](https://steveblank.com/2025/11/11/the-department-of-war-just-shot-the-accountants-and-opted-for-speed/)
 * [2025-11-11, 14:11:49](https://news.ycombinator.com/item?id=45887466) - [Scaling HNSWs](https://antirez.com/news/156)
