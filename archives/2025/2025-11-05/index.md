@@ -13,6 +13,7 @@
 * [2025-11-05, 19:49:27](https://news.ycombinator.com/item?id=45827042) - [3D Geological Models in Minecraft](https://www.bgs.ac.uk/discovering-geology/maps-and-resources/maps/minecraft-3d-geological-models/)
 * [2025-11-05, 19:44:49](https://news.ycombinator.com/item?id=45826995) - [New gel restores dental enamel and could revolutionise tooth repair](https://www.nottingham.ac.uk/news/new-gel-restores-dental-enamel-and-could-revolutionise-tooth-repair)
 * [2025-11-05, 19:42:58](https://news.ycombinator.com/item?id=45826971) - [Fiber reduces overall mortality by 23%](https://www.empirical.health/blog/dietary-fiber-reduces-all-cause-morality/)
+* [2025-11-05, 19:13:30](https://news.ycombinator.com/item?id=45826660) - [Automating our home video imports](https://pierce.dev/notes/automating-our-home-video-imports)
 * [2025-11-05, 18:59:39](https://news.ycombinator.com/item?id=45826500) - [Internet Archive's legal fights are over, but its founder mourns what was lost](https://arstechnica.com/tech-policy/2025/11/the-internet-archive-survived-major-copyright-losses-whats-next/)
 * [2025-11-05, 18:57:09](https://news.ycombinator.com/item?id=45826472) - [Show HN: See chords as flags – Visual harmony of top composers on musescore](https://rawl.rocks/)
 * [2025-11-05, 18:45:57](https://news.ycombinator.com/item?id=45826348) - [The state of SIMD in Rust in 2025](https://shnatsel.medium.com/the-state-of-simd-in-rust-in-2025-32c263e5f53d)
