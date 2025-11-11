@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-11-11](index.md)
 
+* [2025-11-11, 19:44:49](https://news.ycombinator.com/item?id=45891868) - [A Catalog of Side Effects](https://bernsteinbear.com/blog/compiler-effects/)
 * [2025-11-11, 18:58:16](https://news.ycombinator.com/item?id=45891319) - [Show HN: Creavi Macropad – Built a wireless macropad with a display](https://creavi.tech/blog/creavi-macropad-build-log/)
 * [2025-11-11, 18:32:11](https://news.ycombinator.com/item?id=45891016) - [FFmpeg to Google: Fund Us or Stop Sending Bugs](https://thenewstack.io/ffmpeg-to-google-fund-us-or-stop-sending-bugs/)
 * [2025-11-11, 18:07:51](https://news.ycombinator.com/item?id=45890726) - [Terminal Latency on Windows](https://chadaustin.me/2024/02/windows-terminal-latency/)

@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-11-11, 19:44:49](https://news.ycombinator.com/item?id=45891868) - [A Catalog of Side Effects](https://bernsteinbear.com/blog/compiler-effects/)
 * [2025-11-11, 18:58:16](https://news.ycombinator.com/item?id=45891319) - [Show HN: Creavi Macropad – Built a wireless macropad with a display](https://creavi.tech/blog/creavi-macropad-build-log/)
 * [2025-11-11, 18:32:11](https://news.ycombinator.com/item?id=45891016) - [FFmpeg to Google: Fund Us or Stop Sending Bugs](https://thenewstack.io/ffmpeg-to-google-fund-us-or-stop-sending-bugs/)
 * [2025-11-11, 18:07:51](https://news.ycombinator.com/item?id=45890726) - [Terminal Latency on Windows (2024)](https://chadaustin.me/2024/02/windows-terminal-latency/)
@@ -13,7 +14,6 @@
 * [2025-11-11, 14:58:47](https://news.ycombinator.com/item?id=45887957) - [Pikaday: A friendly guide to front-end date pickers](https://pikaday.dbushell.com)
 * [2025-11-11, 14:49:51](https://news.ycombinator.com/item?id=45887857) - [Drawing Text Isn't Simple: Benchmarking Console vs. Graphical Rendering](https://cv.co.hu/csabi/drawing-text-performance-graphical-vs-console.html)
 * [2025-11-11, 14:36:31](https://news.ycombinator.com/item?id=45887709) - [Show HN: Gametje – A casual online gaming platform](https://gametje.com)
-* [2025-11-11, 14:18:16](https://news.ycombinator.com/item?id=45887536) - [Show HN: Tusk Drift – Open-source tool for automating API tests](https://github.com/Use-Tusk/drift-node-sdk)
 * [2025-11-11, 14:11:49](https://news.ycombinator.com/item?id=45887466) - [Scaling HNSWs](https://antirez.com/news/156)
 * [2025-11-11, 13:34:15](https://news.ycombinator.com/item?id=45887105) - [The Perplexing Appeal of the Telepathy Tapes](https://asteriskmag.com/issues/12-books/paradigm-shifted-the-perplexing-appeal-of-the-telepathy-tapes)
 * [2025-11-11, 12:22:38](https://news.ycombinator.com/item?id=45886479) - [Widespread distribution of bacteria containing PETases across global oceans](https://academic.oup.com/ismej/article/19/1/wraf121/8159680?login=false)
