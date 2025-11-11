@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-11-11](index.md)
 
+* [2025-11-11, 08:07:54](https://news.ycombinator.com/item?id=45885130) - [Colon cancer is rising in young people and scientists got a clue about why](https://www.nationalgeographic.com/health/article/gut-toxins-colon-cancer-early-diagnosis)
 * [2025-11-11, 04:38:24](https://news.ycombinator.com/item?id=45884169) - [Up-to-date documentation you can talk to, for every repo in the world](https://deepwiki.com/)
 * [2025-11-11, 04:04:24](https://news.ycombinator.com/item?id=45883995) - [Hiring a developer as a small indie studio (in 2025)](https://www.ballardgames.com/tales/hiring-dev-2025/)
 * [2025-11-11, 03:25:04](https://news.ycombinator.com/item?id=45883827) - [DEC Mini – computer inspired by one of the loveliest retro computers of the 80s](https://decmini.tin.cat/)

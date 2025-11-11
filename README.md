@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-11-11, 08:07:54](https://news.ycombinator.com/item?id=45885130) - [Colon cancer is rising in young people and scientists got a clue about why](https://www.nationalgeographic.com/health/article/gut-toxins-colon-cancer-early-diagnosis)
 * [2025-11-11, 04:38:24](https://news.ycombinator.com/item?id=45884169) - [AI documentation you can talk to, for every repo](https://deepwiki.com/)
 * [2025-11-11, 04:04:24](https://news.ycombinator.com/item?id=45883995) - [Hiring a developer as a small indie studio in 2025](https://www.ballardgames.com/tales/hiring-dev-2025/)
 * [2025-11-11, 03:17:43](https://news.ycombinator.com/item?id=45883788) - [The 'Toy Story' You Remember](https://animationobsessive.substack.com/p/the-toy-story-you-remember)
@@ -10,7 +11,6 @@
 * [2025-11-10, 19:28:07](https://news.ycombinator.com/item?id=45879793) - [Using Generative AI in Content Production](https://partnerhelp.netflixstudios.com/hc/en-us/articles/43393929218323-Using-Generative-AI-in-Content-Production)
 * [2025-11-10, 18:10:12](https://news.ycombinator.com/item?id=45878826) - [Omnilingual ASR: Advancing automatic speech recognition for 1600 languages](https://ai.meta.com/blog/omnilingual-asr-advancing-automatic-speech-recognition/?_fb_noscript=1)
 * [2025-11-10, 17:50:21](https://news.ycombinator.com/item?id=45878578) - [The lazy Git UI you didn't know you need](https://www.bwplotka.dev/2025/lazygit/)
-* [2025-11-10, 16:38:31](https://news.ycombinator.com/item?id=45877698) - [Benchmarking leading AI agents against Google reCAPTCHA v2](https://research.roundtable.ai/captcha-benchmarking/)
 * [2025-11-10, 16:23:24](https://news.ycombinator.com/item?id=45877517) - [Launch HN: Hypercubic (YC F25) – AI for COBOL and Mainframes](https://news.ycombinator.com/item?id=45877517)
 * [2025-11-10, 16:05:46](https://news.ycombinator.com/item?id=45877257) - [Unexpected things that are people](https://bengoldhaber.substack.com/p/unexpected-things-that-are-people)
 * [2025-11-10, 14:57:26](https://news.ycombinator.com/item?id=45876598) - [Time to start de-Appling](https://heatherburns.tech/2025/11/10/time-to-start-de-appling/)
