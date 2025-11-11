@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-11-11](index.md)
 
+* [2025-11-11, 03:25:04](https://news.ycombinator.com/item?id=45883827) - [DEC Mini – computer inspired by one of the loveliest retro computers of the 80s](https://decmini.tin.cat/)
+* [2025-11-11, 03:17:43](https://news.ycombinator.com/item?id=45883788) - [The 'Toy Story' You Remember](https://animationobsessive.substack.com/p/the-toy-story-you-remember)
 * [2025-11-11, 02:41:16](https://news.ycombinator.com/item?id=45883582) - [Virginia Teen Narrowly Defeats His Former Civics Teacher in County Election](https://www.nytimes.com/2025/11/07/us/politics/surry-county-virginia-supervisor-election.html)
 * [2025-11-11, 01:36:47](https://news.ycombinator.com/item?id=45883124) - [I hate screenshots of text](https://parkscomputing.com/page/i-hate-screenshots-of-text)
 * [2025-11-11, 01:03:53](https://news.ycombinator.com/item?id=45882920) - [Show HN: A free Instagram story viewer that lets you watch anonymously](https://instagram-story-viewer.org)

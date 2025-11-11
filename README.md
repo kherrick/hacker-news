@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-11-11, 03:25:04](https://news.ycombinator.com/item?id=45883827) - [DEC Mini – computer inspired by one of the loveliest retro computers of the 80s](https://decmini.tin.cat/)
+* [2025-11-11, 03:17:43](https://news.ycombinator.com/item?id=45883788) - [The 'Toy Story' You Remember](https://animationobsessive.substack.com/p/the-toy-story-you-remember)
 * [2025-11-11, 01:36:47](https://news.ycombinator.com/item?id=45883124) - [I hate screenshots of text](https://parkscomputing.com/page/i-hate-screenshots-of-text)
 * [2025-11-11, 00:51:44](https://news.ycombinator.com/item?id=45882837) - [Warren Buffett's final shareholder letter [pdf]](https://berkshirehathaway.com/news/nov1025.pdf)
 * [2025-11-11, 00:31:58](https://news.ycombinator.com/item?id=45882736) - [Toucan Wireless Split Keyboard with Touchpad](https://shop.beekeeb.com/products/toucan-wireless-piantor-wireless-split-keyboard-with-touchpad)
@@ -9,7 +11,6 @@
 * [2025-11-10, 21:17:04](https://news.ycombinator.com/item?id=45881056) - [Zeroing in on Zero-Point Motion Inside a Crystal](https://physics.aps.org/articles/v18/178)
 * [2025-11-10, 21:07:02](https://news.ycombinator.com/item?id=45880939) - [Spatial intelligence is AI’s next frontier](https://drfeifei.substack.com/p/from-words-to-worlds-spatial-intelligence)
 * [2025-11-10, 19:28:07](https://news.ycombinator.com/item?id=45879793) - [Using Generative AI in Content Production](https://partnerhelp.netflixstudios.com/hc/en-us/articles/43393929218323-Using-Generative-AI-in-Content-Production)
-* [2025-11-10, 18:30:06](https://news.ycombinator.com/item?id=45879101) - [Redmond, WA, turns off Flock Safety cameras after ICE arrests](https://www.seattletimes.com/seattle-news/law-justice/redmond-turns-off-flock-safety-cameras-after-ice-arrests/)
 * [2025-11-10, 18:23:10](https://news.ycombinator.com/item?id=45879012) - [Memory Safety for Skeptics](https://queue.acm.org/detail.cfm?id=3773095)
 * [2025-11-10, 18:10:12](https://news.ycombinator.com/item?id=45878826) - [Omnilingual ASR: Advancing automatic speech recognition for 1600 languages](https://ai.meta.com/blog/omnilingual-asr-advancing-automatic-speech-recognition/?_fb_noscript=1)
 * [2025-11-10, 17:50:21](https://news.ycombinator.com/item?id=45878578) - [The lazy Git UI you didn't know you need](https://www.bwplotka.dev/2025/lazygit/)
@@ -27,7 +28,6 @@
 * [2025-11-04, 13:14:26](https://news.ycombinator.com/item?id=45810658) - [The Paranoid Guide to Running Copilot CLI in a Secure Docker Sandbox](https://gordonbeeming.com/blog/2025-10-03/taming-the-ai-my-paranoid-guide-to-running-copilot-cli-in-a-secure-docker-sandbox)
 * [2025-11-04, 12:26:28](https://news.ycombinator.com/item?id=45810116) - [Pose Animator – An open source tool to bring SVG characters to life (2020)](https://blog.tensorflow.org/2020/05/pose-animator-open-source-tool-to-bring-svg-characters-to-life.html)
 * [2025-11-04, 12:16:54](https://news.ycombinator.com/item?id=45810048) - [When Soviet-Made Cars Roamed Singapore Roads](https://remembersingapore.org/2025/10/30/soviet-made-cars-singapore-70s-to-90s/)
-* [2025-11-04, 12:07:10](https://news.ycombinator.com/item?id=45810001) - [Registered OAuth Parameters](https://www.iana.org/assignments/oauth-parameters/oauth-parameters.xhtml#parameters)
 * [2025-11-03, 17:49:25](https://news.ycombinator.com/item?id=45801966) - [Dependent types and how to get rid of them](https://chadnauseam.com/coding/pltd/are-dependent-types-actually-erased)
 * [2025-11-01, 14:02:57](https://news.ycombinator.com/item?id=45781725) - [How to create accessible PDFs from the start](https://typst.app/blog/2025/accessible-pdf/)
 
