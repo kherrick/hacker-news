@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-11-11](index.md)
 
+* [2025-11-11, 17:41:45](https://news.ycombinator.com/item?id=45890370) - [Contributing to Open-Source Should Be Required, Like Jury Duty](https://www.joshbeckman.org/blog/practicing/contributing-to-opensource-should-be-required-like-jury-duty)
 * [2025-11-11, 17:08:00](https://news.ycombinator.com/item?id=45889891) - [Cache-Friendly, Low-Memory Lanczos Algorithm in Rust](https://lukefleed.xyz/posts/cache-friendly-low-memory-lanczos/)
 * [2025-11-11, 17:01:07](https://news.ycombinator.com/item?id=45889793) - [Show HN: Cactoide – Federated RSVP Platform](https://cactoide.org/)
 * [2025-11-11, 17:00:23](https://news.ycombinator.com/item?id=45889783) - [Weave (YC W25) is hiring a founding ML engineer](https://www.ycombinator.com/companies/weave-3/jobs/ZPyeXzM-founding-ml-engineer)

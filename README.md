@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-11-11, 17:41:45](https://news.ycombinator.com/item?id=45890370) - [Contributing to Open-Source Should Be Required, Like Jury Duty](https://www.joshbeckman.org/blog/practicing/contributing-to-opensource-should-be-required-like-jury-duty)
 * [2025-11-11, 17:08:00](https://news.ycombinator.com/item?id=45889891) - [Cache-Friendly, Low-Memory Lanczos Algorithm in Rust](https://lukefleed.xyz/posts/cache-friendly-low-memory-lanczos/)
 * [2025-11-11, 17:01:07](https://news.ycombinator.com/item?id=45889793) - [Show HN: Cactoide – Federated RSVP Platform](https://cactoide.org/)
 * [2025-11-11, 17:00:23](https://news.ycombinator.com/item?id=45889783) - [Weave (YC W25) is hiring a founding ML engineer](https://www.ycombinator.com/companies/weave-3/jobs/ZPyeXzM-founding-ml-engineer)
@@ -24,7 +25,6 @@
 * [2025-11-11, 08:09:05](https://news.ycombinator.com/item?id=45885135) - [Zig / C++ Interop](https://tuple.app/blog/zig-cpp-interop)
 * [2025-11-11, 03:17:43](https://news.ycombinator.com/item?id=45883788) - [The 'Toy Story' You Remember](https://animationobsessive.substack.com/p/the-toy-story-you-remember)
 * [2025-11-07, 14:06:38](https://news.ycombinator.com/item?id=45846525) - [High speed X-ray video: jumping beans, wind-up toys and more](https://www.youtube.com/watch?v=xdpDd7dyU00)
-* [2025-11-07, 12:11:42](https://news.ycombinator.com/item?id=45845620) - [SanDisk launches dongle-like Extreme Fit USB-C flash drive with up to 1 TB](https://www.notebookcheck.net/Sandisk-launches-dongle-like-Extreme-Fit-USB-C-flash-drive-with-up-to-1-TB-capacity.1156601.0.html)
 * [2025-11-07, 08:00:08](https://news.ycombinator.com/item?id=45844419) - [The R47: A new physical RPN calculator released today in 2025](https://www.swissmicros.com/product/model-r47)
 * [2025-11-07, 04:38:28](https://news.ycombinator.com/item?id=45843600) - [Array Programming the Mandelbrot Set](https://jcmorrow.com/mandelbrot/)
 * [2025-11-05, 13:02:05](https://news.ycombinator.com/item?id=45822400) - [The kind of company I want to be a part of](https://www.dvsj.in/my-company)
