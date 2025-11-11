@@ -55,6 +55,7 @@
 * [2025-11-06, 06:43:00](https://news.ycombinator.com/item?id=45832198) - [Flutter_compositions: Vue-inspired reactive building blocks for Flutter](https://github.com/yoyo930021/flutter_compositions)
 * [2025-11-06, 04:37:45](https://news.ycombinator.com/item?id=45831541) - [\"I may have found a way to spot U.S. at-sea strikes before they're announced\"](https://old.reddit.com/r/OSINT/comments/1opjjyv/i_may_have_found_a_way_to_spot_us_atsea_strikes/)
 * [2025-11-06, 03:00:01](https://news.ycombinator.com/item?id=45830881) - [Economic Anger Once Again Punishes the Party in Power](https://www.wsj.com/politics/elections/economic-anger-once-again-punishes-the-party-in-power-71d14d18)
+* [2025-11-06, 02:56:22](https://news.ycombinator.com/item?id=45830869) - [Myna: monospace typeface designed for symbol-rich programming](https://github.com/sayyadirfanali/Myna)
 * [2025-11-06, 02:50:31](https://news.ycombinator.com/item?id=45830829) - [Rust's TUI Revolution](https://ratatui.rs/showcase/apps/)
 * [2025-11-06, 02:46:23](https://news.ycombinator.com/item?id=45830808) - [Brain-IT: Image Reconstruction from fMRI via Brain-Interaction Transformer](https://AmitZalcher.github.io/Brain-IT/)
 * [2025-11-06, 02:44:05](https://news.ycombinator.com/item?id=45830797) - [FAA to cut flights by 10% at 40 major airports due to government shutdown](https://www.cnbc.com/2025/11/05/faa-cuts-flight-capacity-shutdown.html)
