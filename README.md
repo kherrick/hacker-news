@@ -24,11 +24,11 @@
 * [2025-11-11, 14:11:49](https://news.ycombinator.com/item?id=45887466) - [Scaling HNSWs](https://antirez.com/news/156)
 * [2025-11-11, 13:34:15](https://news.ycombinator.com/item?id=45887105) - [The Perplexing Appeal of the Telepathy Tapes](https://asteriskmag.com/issues/12-books/paradigm-shifted-the-perplexing-appeal-of-the-telepathy-tapes)
 * [2025-11-11, 10:17:57](https://news.ycombinator.com/item?id=45885813) - [iPhone Pocket](https://www.apple.com/newsroom/2025/11/introducing-iphone-pocket-a-beautiful-way-to-wear-and-carry-iphone/)
-* [2025-11-11, 08:29:23](https://news.ycombinator.com/item?id=45885242) - [Why effort scales superlinearly with the perceived quality of creative work](https://markusstrasser.org/creative-work-landscapes.html)
 * [2025-11-08, 22:16:40](https://news.ycombinator.com/item?id=45860552) - [The history of Casio watches](https://www.casio.com/us/watches/50th/Heritage/1970s/)
 * [2025-11-07, 08:00:08](https://news.ycombinator.com/item?id=45844419) - [The R47: A new physical RPN calculator](https://www.swissmicros.com/product/model-r47)
 * [2025-11-06, 01:04:23](https://news.ycombinator.com/item?id=45830178) - [My fan worked fine, so I gave it WiFi](https://ellis.codes/blog/my-fan-worked-fine-so-i-gave-it-wi-fi/)
 * [2025-11-04, 23:18:04](https://news.ycombinator.com/item?id=45817027) - [Étude in C minor (2020)](https://zserge.com/posts/etude-in-c/)
+* [2025-11-02, 11:58:52](https://news.ycombinator.com/item?id=45789674) - [A unique collection of laptops adorned with creative stickers](https://stickertop.art/main/)
 * [2025-11-01, 21:00:33](https://news.ycombinator.com/item?id=45785300) - [How I fell in love with Erlang](https://boragonul.com/post/falling-in-love-with-erlang)
 
 ## [Archives](archives/index.md)
