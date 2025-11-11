@@ -1,26 +1,6 @@
 [
   [
     [
-      "2025-11-11, 07:45:41",
-      "https://news.ycombinator.com/item?id=45885013"
-    ],
-    [
-      "Show HN: PhantomCollect – Open-Source Web Data Collection Framework in Python",
-      "https://github.com/xsser01/phantomcollect"
-    ]
-  ],
-  [
-    [
-      "2025-11-11, 07:32:06",
-      "https://news.ycombinator.com/item?id=45884937"
-    ],
-    [
-      "SoftBank sells its entire stake in Nvidia for $5.83B",
-      "https://www.cnbc.com/2025/11/11/softbank-sells-its-entire-stake-in-nvidia-for-5point83-billion.html"
-    ]
-  ],
-  [
-    [
       "2025-11-11, 06:30:22",
       "https://news.ycombinator.com/item?id=45884658"
     ],
@@ -151,6 +131,16 @@
   ],
   [
     [
+      "2025-11-10, 11:45:15",
+      "https://news.ycombinator.com/item?id=45874987"
+    ],
+    [
+      "Vibe Code Warning – A personal casestudy",
+      "https://github.com/jackdoe/pico2-swd-riscv"
+    ]
+  ],
+  [
+    [
       "2025-11-10, 08:09:31",
       "https://news.ycombinator.com/item?id=45873625"
     ],
@@ -177,6 +167,16 @@
     [
       "Writing your own BEAM",
       "https://martin.janiczek.cz/2025/11/09/writing-your-own-beam.html"
+    ]
+  ],
+  [
+    [
+      "2025-11-09, 16:26:09",
+      "https://news.ycombinator.com/item?id=45866697"
+    ],
+    [
+      "Marble Fountain",
+      "https://willmorrison.net/posts/marble-fountain/"
     ]
   ],
   [
@@ -221,16 +221,6 @@
   ],
   [
     [
-      "2025-11-05, 21:19:09",
-      "https://news.ycombinator.com/item?id=45828170"
-    ],
-    [
-      "Shinigami the Reaper",
-      "https://mixedmartialarts.com/street/goth-nerd-tests-his-kenpo-skills-under-mma-rules/"
-    ]
-  ],
-  [
-    [
       "2025-11-05, 19:13:30",
       "https://news.ycombinator.com/item?id=45826660"
     ],
@@ -247,6 +237,16 @@
     [
       "The physics of news, rumors, and opinions",
       "https://arxiv.org/abs/2510.15053"
+    ]
+  ],
+  [
+    [
+      "2025-11-04, 13:14:26",
+      "https://news.ycombinator.com/item?id=45810658"
+    ],
+    [
+      "The Paranoid Guide to Running Copilot CLI in a Secure Docker Sandbox",
+      "https://gordonbeeming.com/blog/2025-10-03/taming-the-ai-my-paranoid-guide-to-running-copilot-cli-in-a-secure-docker-sandbox"
     ]
   ],
   [
