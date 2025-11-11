@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2025-11-11](index.md)
 
+* [2025-11-11, 08:29:23](https://news.ycombinator.com/item?id=45885242) - [Why Effort Scales Superlinearly with the Perceived Quality of Creative Work](https://markusstrasser.org/creative-work-landscapes.html)
 * [2025-11-11, 08:07:54](https://news.ycombinator.com/item?id=45885130) - [Colon cancer is rising in young people and scientists got a clue about why](https://www.nationalgeographic.com/health/article/gut-toxins-colon-cancer-early-diagnosis)
 * [2025-11-11, 07:45:41](https://news.ycombinator.com/item?id=45885013) - [Show HN: PhantomCollect – Open-Source Web Data Collection Framework in Python](https://github.com/xsser01/phantomcollect)
+* [2025-11-11, 07:34:10](https://news.ycombinator.com/item?id=45884951) - [The \"Dependency Cutout\" Workflow Pattern](https://blog.glyph.im/2025/11/dependency-cutout-workflow-pattern.html)
 * [2025-11-11, 07:32:06](https://news.ycombinator.com/item?id=45884937) - [SoftBank sells its entire stake in Nvidia for $5.83B](https://www.cnbc.com/2025/11/11/softbank-sells-its-entire-stake-in-nvidia-for-5point83-billion.html)
 * [2025-11-11, 06:30:22](https://news.ycombinator.com/item?id=45884658) - [The Write Last, Read First Rule](https://tigerbeetle.com/blog/2025-11-06-the-write-last-read-first-rule/)
 * [2025-11-11, 05:33:53](https://news.ycombinator.com/item?id=45884428) - [Lepton – GPL Electronic Design Automation](https://github.com/lepton-eda/lepton-eda)
