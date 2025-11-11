@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-11-11](index.md)
 
+* [2025-11-11, 04:38:24](https://news.ycombinator.com/item?id=45884169) - [Up-to-date documentation you can talk to, for every repo in the world](https://deepwiki.com/)
 * [2025-11-11, 04:04:24](https://news.ycombinator.com/item?id=45883995) - [Hiring a developer as a small indie studio (in 2025)](https://www.ballardgames.com/tales/hiring-dev-2025/)
 * [2025-11-11, 03:25:04](https://news.ycombinator.com/item?id=45883827) - [DEC Mini – computer inspired by one of the loveliest retro computers of the 80s](https://decmini.tin.cat/)
 * [2025-11-11, 03:17:43](https://news.ycombinator.com/item?id=45883788) - [The 'Toy Story' You Remember](https://animationobsessive.substack.com/p/the-toy-story-you-remember)

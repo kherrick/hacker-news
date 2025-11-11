@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-11-11, 04:38:24](https://news.ycombinator.com/item?id=45884169) - [Up-to-date documentation you can talk to, for every repo in the world](https://deepwiki.com/)
 * [2025-11-11, 04:04:24](https://news.ycombinator.com/item?id=45883995) - [Hiring a developer as a small indie studio (in 2025)](https://www.ballardgames.com/tales/hiring-dev-2025/)
 * [2025-11-11, 03:25:04](https://news.ycombinator.com/item?id=45883827) - [DEC Mini – computer inspired by one of the loveliest retro computers of the 80s](https://decmini.tin.cat/)
 * [2025-11-11, 03:17:43](https://news.ycombinator.com/item?id=45883788) - [The 'Toy Story' You Remember](https://animationobsessive.substack.com/p/the-toy-story-you-remember)
 * [2025-11-11, 01:36:47](https://news.ycombinator.com/item?id=45883124) - [I hate screenshots of text](https://parkscomputing.com/page/i-hate-screenshots-of-text)
 * [2025-11-11, 00:51:44](https://news.ycombinator.com/item?id=45882837) - [Warren Buffett's final shareholder letter [pdf]](https://berkshirehathaway.com/news/nov1025.pdf)
-* [2025-11-10, 23:27:53](https://news.ycombinator.com/item?id=45882305) - [What caused performance issues in my tiny RPG](https://jslegenddev.substack.com/p/what-caused-performance-issues-in)
 * [2025-11-10, 22:05:16](https://news.ycombinator.com/item?id=45881568) - [High-performance 2D graphics rendering on the CPU using sparse strips [pdf]](https://github.com/LaurenzV/master-thesis/blob/main/main.pdf)
 * [2025-11-10, 21:50:03](https://news.ycombinator.com/item?id=45881404) - [Linux in a Pixel Shader – A RISC-V Emulator for VRChat](https://blog.pimaker.at/texts/rvc1/)
 * [2025-11-10, 21:17:04](https://news.ycombinator.com/item?id=45881056) - [Zeroing in on Zero-Point Motion Inside a Crystal](https://physics.aps.org/articles/v18/178)
