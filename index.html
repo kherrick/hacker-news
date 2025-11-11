@@ -129,6 +129,123 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
+        <section id="45886917">
+          <h3>
+            <a
+              class="item"
+              href="https://techxplore.com/news/2025-11-ai-tons-annually.html"
+              >AI adoption in US adds ~900k tons of CO₂ annually, study finds</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2025-11-11 @ 13:14:46</span
+              ><span class="points-container"
+                >Points: <span class="points">40</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=45886917"
+                  >Comments</a
+                ><span class="descendants">: 11</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="45886822">
+          <h3>
+            <a
+              class="item"
+              href="https://medicalxpress.com/news/2025-11-anxiety-disorders-essential-nutrient-brain.html"
+              >Anxiety disorders tied to low levels of choline in the brain</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2025-11-11 @ 13:03:05</span
+              ><span class="points-container"
+                >Points: <span class="points">22</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=45886822"
+                  >Comments</a
+                ><span class="descendants">: 6</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="45886788">
+          <h3>
+            <a class="item" href="https://github.com/linnix-os/linnix"
+              >Show HN: Linnix – eBPF observability that predicts failures
+              before they happen</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2025-11-11 @ 13:00:39</span
+              ><span class="points-container"
+                >Points: <span class="points">6</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=45886788"
+                  >Comments</a
+                ><span class="descendants">: 1</span></span
+              >
+            </h4>
+            <div class="text">
+              <p>
+                So I built Linnix. It watches your Linux systems at the kernel
+                level using eBPF and tries to catch problems before they cascade
+                into outages.
+              </p>
+              <p>
+                The idea is simple: instead of alerting you after your server
+                runs out of memory, it notices when memory allocation patterns
+                look weird and tells you "hey, this looks bad."
+              </p>
+              <p>
+                It uses a local LLM to spot patterns. Not trying to build AGI
+                here - just pattern matching on process behavior. Turns out LLMs
+                are actually pretty good at this.
+              </p>
+              <p>
+                Example: it flagged higher memory consumption over a short
+                period and alerted me before it was too late. Turned out to be a
+                memory leak that would've killed the process.
+              </p>
+              <p>Quick start if you want to try it:</p>
+              <p></p>
+              <pre><code>  docker pull ghcr.io/linnix-os/cognitod:latest
+  docker-compose up -d
+</code></pre>
+              Setup takes about 5 minutes. Everything runs locally - your data
+              doesn't leave your machine.
+              <p>
+                The main difference from tools like Prometheus: most monitoring
+                parses /proc files. This uses eBPF to get data directly from the
+                kernel. More accurate, way less overhead.
+              </p>
+              <p>
+                Built it in Rust using the Aya framework. No libbpf, no C - pure
+                Rust all the way down. Makes the kernel interactions less scary.
+              </p>
+              <p>
+                Current state: - Works on any Linux 5.8+ with BTF - Monitors
+                Docker/Kubernetes containers - Exports to Prometheus - Apache
+                2.0 license
+              </p>
+              <p>Still rough around the edges. Actively working on it.</p>
+              <p>
+                Would love to know: - What kinds of failures do you wish you
+                could catch earlier? - Does this seem useful for your setup?
+              </p>
+              <p>
+                GitHub:
+                <a href="https://github.com/linnix-os/linnix"
+                  >https://github.com/linnix-os/linnix</a
+                >
+              </p>
+              <p>Happy to answer questions about how it works.</p>
+            </div>
+          </section>
+        </section>
         <section id="45886350">
           <h3>
             <a
@@ -158,11 +275,11 @@
             <h4>
               <span>2025-11-11 @ 12:00:05</span
               ><span class="points-container"
-                >Points: <span class="points">65</span></span
+                >Points: <span class="points">69</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45886344"
                   >Comments</a
-                ><span class="descendants">: 58</span></span
+                ><span class="descendants">: 67</span></span
               >
             </h4>
           </section>
@@ -179,32 +296,11 @@
             <h4>
               <span>2025-11-11 @ 11:34:22</span
               ><span class="points-container"
-                >Points: <span class="points">15</span></span
+                >Points: <span class="points">21</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45886194"
                   >Comments</a
                 ><span class="descendants">: 1</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="45886131">
-          <h3>
-            <a
-              class="item"
-              href="https://www.reuters.com/world/german-court-sides-with-plaintiff-copyright-case-against-openai-2025-11-11/"
-              >OpenAI may not use lyrics without license, German court rules</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2025-11-11 @ 11:20:55</span
-              ><span class="points-container"
-                >Points: <span class="points">83</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=45886131"
-                  >Comments</a
-                ><span class="descendants">: 79</span></span
               >
             </h4>
           </section>
@@ -222,11 +318,11 @@
             <h4>
               <span>2025-11-11 @ 08:29:23</span
               ><span class="points-container"
-                >Points: <span class="points">43</span></span
+                >Points: <span class="points">47</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45885242"
                   >Comments</a
-                ><span class="descendants">: 37</span></span
+                ><span class="descendants">: 38</span></span
               >
             </h4>
           </section>
@@ -241,32 +337,11 @@
             <h4>
               <span>2025-11-11 @ 08:09:05</span
               ><span class="points-container"
-                >Points: <span class="points">52</span></span
+                >Points: <span class="points">59</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45885135"
                   >Comments</a
-                ><span class="descendants">: 3</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="45884951">
-          <h3>
-            <a
-              class="item"
-              href="https://blog.glyph.im/2025/11/dependency-cutout-workflow-pattern.html"
-              >The "Dependency Cutout" Workflow Pattern</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2025-11-11 @ 07:34:10</span
-              ><span class="points-container"
-                >Points: <span class="points">14</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=45884951"
-                  >Comments</a
-                ><span class="descendants">: 3</span></span
+                ><span class="descendants">: 4</span></span
               >
             </h4>
           </section>
@@ -283,11 +358,11 @@
             <h4>
               <span>2025-11-11 @ 06:30:22</span
               ><span class="points-container"
-                >Points: <span class="points">60</span></span
+                >Points: <span class="points">61</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45884658"
                   >Comments</a
-                ><span class="descendants">: 10</span></span
+                ><span class="descendants">: 12</span></span
               >
             </h4>
           </section>
@@ -304,11 +379,11 @@
             <h4>
               <span>2025-11-11 @ 03:17:43</span
               ><span class="points-container"
-                >Points: <span class="points">639</span></span
+                >Points: <span class="points">654</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45883788"
                   >Comments</a
-                ><span class="descendants">: 161</span></span
+                ><span class="descendants">: 164</span></span
               >
             </h4>
           </section>
@@ -351,7 +426,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45880939"
                   >Comments</a
-                ><span class="descendants">: 99</span></span
+                ><span class="descendants">: 100</span></span
               >
             </h4>
           </section>
@@ -368,11 +443,11 @@
             <h4>
               <span>2025-11-10 @ 19:28:07</span
               ><span class="points-container"
-                >Points: <span class="points">165</span></span
+                >Points: <span class="points">168</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45879793"
                   >Comments</a
-                ><span class="descendants">: 111</span></span
+                ><span class="descendants">: 113</span></span
               >
             </h4>
           </section>
@@ -390,7 +465,7 @@
             <h4>
               <span>2025-11-10 @ 18:10:12</span
               ><span class="points-container"
-                >Points: <span class="points">141</span></span
+                >Points: <span class="points">142</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45878826"
                   >Comments</a
@@ -425,149 +500,9 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45878578"
                   >Comments</a
-                ><span class="descendants">: 168</span></span
+                ><span class="descendants">: 169</span></span
               >
             </h4>
-          </section>
-        </section>
-        <section id="45877517">
-          <h3>
-            <a class="item" href="https://news.ycombinator.com/item?id=45877517"
-              >Launch HN: Hypercubic (YC F25) – AI for COBOL and Mainframes</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2025-11-10 @ 16:23:24</span
-              ><span class="points-container"
-                >Points: <span class="points">86</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=45877517"
-                  >Comments</a
-                ><span class="descendants">: 56</span></span
-              >
-            </h4>
-            <div class="text">
-              <a href="https://www.hypercubic.ai/">https://www.hypercubic.ai/</a
-              >)!
-              <p>
-                Hypercubic is an AI platform that helps Fortune 500 companies
-                understand, preserve, and modernize their mainframe systems.
-                These are the systems that run COBOL from the 1960s that still
-                quietly power banking, insurance, airlines, and governments
-                today.
-              </p>
-              <p>
-                70% of the Fortune 500 still run on mainframes, but the
-                engineers who built and maintained them are retiring. Today, the
-                average age of a COBOL/mainframe engineer is about 55 and
-                rapidly increasing. What’s left behind are opaque, black box
-                systems with almost no one who understands how they work.
-                Modernization projects often fail, documentation is decades out
-                of date, and critical institutional knowledge lives only in the
-                minds of a few senior subject matter experts who are now leaving
-                the workforce.
-              </p>
-              <p>
-                Current “AI for code” tools focus on codebases and repositories,
-                so they miss the unwritten rules, historical context, and
-                architectural reasoning that live in human minds. In the
-                COBOL/mainframe world, that institutional knowledge is the key
-                missing piece.
-              </p>
-              <p>
-                What we heard from modernization leaders is that the hard part
-                is not the code analysis. The challenge is the institutional
-                knowledge that never made it into code or documentation and has
-                walked out the door. Modernization projects fail not because no
-                one can parse COBOL, but because no one can answer “why was this
-                billing edge case added in 1995 and what breaks if we remove
-                it.”
-              </p>
-              <p>
-                Hypercubic is building an AI-native maintenance and
-                modernization platform that learns how legacy mainframe systems
-                actually work and captures the human reasoning behind operating
-                them. We’re doing this with two initial tools, HyperDocs and
-                HyperTwin.
-              </p>
-              <p>
-                HyperDocs ingests COBOL, JCL, and PL/I codebases to generate
-                documentation, architecture diagrams, and dependency graphs.
-                Enterprises currently spend months or years hiring contractors
-                to reverse-engineer these systems; HyperDocs compresses that
-                work to take much less time.
-              </p>
-              <p>
-                COBOL was designed to resemble English and business prose,
-                making it a good fit for LLMs today. Mainframes have decades of
-                consistent patterns (COBOL, JCL, CICS, batch jobs) and a finite
-                set of recurring tasks (such as payroll, transaction processing,
-                billing).
-              </p>
-              <p>
-                For example, here’s a billing fragment that would be run nightly
-                in production at large insurance companies for moving money,
-                closing accounts, and triggering downstream reports:
-              </p>
-              <p></p>
-              <pre><code>  EVALUATE TRUE
-      WHEN PAYMENT-DUE AND NOT PAID
-          PERFORM CALCULATE-LATE-FEE
-          PERFORM GENERATE-NOTICE
-      WHEN PAYMENT-RECEIVED AND BALANCE-DUE = 0
-          MOVE "ACCOUNT CLEAR" TO STATUS
-          PERFORM ARCHIVE-STATEMENT
-      WHEN OTHER
-          PERFORM LOG-ANOMALY
-  END-EVALUATE.
-</code></pre>
-              Now imagine thousands of these rules, each running payrolls,
-              processing claims, or reconciling accounts, spread across millions
-              of lines of code written over 40+ years. HyperDocs ingests that
-              code and reconstructs it into readable, living documentation that
-              shows how the black box system works.
-              <p>
-                Our other tool, HyperTwin, tackles the “tribal knowledge”
-                problem. It learns directly from subject-matter experts,
-                observing workflows, analyzing screen interactions, and
-                conducting AI-driven interviews to capture how they debug and
-                reason about their systems. The goal is to build digital “twins”
-                of the experts on how they debug, architect, and maintain these
-                systems in practice.
-              </p>
-              <p>
-                Together, HyperDocs and HyperTwin form a knowledge graph of
-                legacy systems linking code, systems, and human reasoning.
-              </p>
-              <p>
-                Here’s a demo video of our HyperTwin product:
-                <a href="https://www.youtube.com/watch?v=C-tNtl9Z_jY"
-                  >https://www.youtube.com/watch?v=C-tNtl9Z_jY</a
-                >
-              </p>
-              <p>
-                You can explore our documentation platform, including examples
-                from the AWS Card Demo (a widely used COBOL codebase example)
-                and a dummy insurance project here:
-                <a href="https://hyperdocs-public.onrender.com/"
-                  >https://hyperdocs-public.onrender.com/</a
-                >.
-              </p>
-              <p>
-                e.g. Developer perspective docs - High level system architecture
-                of credit card management:
-                <a
-                  href="https://hyperdocs-public.onrender.com/docs/aws-carddemo-with-dev-docs/developer/architecture/system-architecture"
-                  >https://hyperdocs-public.onrender.com/docs/aws-carddemo-with...</a
-                >
-              </p>
-              <p>
-                We’re curious to hear your thoughts and feedback, especially
-                from anyone who’s worked with mainframes or tried to modernize
-                legacy systems.
-              </p>
-            </div>
           </section>
         </section>
         <section id="45877257">
@@ -582,11 +517,11 @@
             <h4>
               <span>2025-11-10 @ 16:05:46</span
               ><span class="points-container"
-                >Points: <span class="points">607</span></span
+                >Points: <span class="points">611</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45877257"
                   >Comments</a
-                ><span class="descendants">: 271</span></span
+                ><span class="descendants">: 272</span></span
               >
             </h4>
           </section>
@@ -603,11 +538,11 @@
             <h4>
               <span>2025-11-10 @ 14:57:26</span
               ><span class="points-container"
-                >Points: <span class="points">536</span></span
+                >Points: <span class="points">540</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45876598"
                   >Comments</a
-                ><span class="descendants">: 367</span></span
+                ><span class="descendants">: 369</span></span
               >
             </h4>
           </section>
@@ -626,7 +561,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45869146"
                   >Comments</a
-                ><span class="descendants">: 1189</span></span
+                ><span class="descendants">: 1192</span></span
               >
             </h4>
             <div class="text">
@@ -646,11 +581,11 @@
             <h4>
               <span>2025-11-09 @ 18:29:43</span
               ><span class="points-container"
-                >Points: <span class="points">233</span></span
+                >Points: <span class="points">235</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45867828"
                   >Comments</a
-                ><span class="descendants">: 72</span></span
+                ><span class="descendants">: 73</span></span
               >
             </h4>
           </section>
@@ -667,11 +602,11 @@
             <h4>
               <span>2025-11-06 @ 20:57:09</span
               ><span class="points-container"
-                >Points: <span class="points">447</span></span
+                >Points: <span class="points">453</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45840321"
                   >Comments</a
-                ><span class="descendants">: 68</span></span
+                ><span class="descendants">: 70</span></span
               >
             </h4>
             <div class="text">
@@ -718,7 +653,7 @@
             <h4>
               <span>2025-11-05 @ 19:13:30</span
               ><span class="points-container"
-                >Points: <span class="points">61</span></span
+                >Points: <span class="points">62</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45826660"
                   >Comments</a
@@ -749,21 +684,21 @@
             </h4>
           </section>
         </section>
-        <section id="45817559">
+        <section id="45822400">
           <h3>
-            <a class="item" href="https://arxiv.org/abs/2510.15053"
-              >The physics of news, rumors, and opinions</a
+            <a class="item" href="https://www.dvsj.in/my-company"
+              >The kind of company I want to be a part of</a
             >
           </h3>
           <section>
             <h4>
-              <span>2025-11-05 @ 00:22:16</span
+              <span>2025-11-05 @ 13:02:05</span
               ><span class="points-container"
-                >Points: <span class="points">74</span></span
+                >Points: <span class="points">20</span></span
               ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=45817559"
+                ><a href="https://news.ycombinator.com/item?id=45822400"
                   >Comments</a
-                ><span class="descendants">: 21</span></span
+                ><span class="descendants">: 6</span></span
               >
             </h4>
           </section>
@@ -780,11 +715,11 @@
             <h4>
               <span>2025-11-04 @ 12:16:54</span
               ><span class="points-container"
-                >Points: <span class="points">97</span></span
+                >Points: <span class="points">98</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45810048"
                   >Comments</a
-                ><span class="descendants">: 63</span></span
+                ><span class="descendants">: 64</span></span
               >
             </h4>
           </section>
@@ -801,11 +736,11 @@
             <h4>
               <span>2025-11-04 @ 03:05:19</span
               ><span class="points-container"
-                >Points: <span class="points">60</span></span
+                >Points: <span class="points">61</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45807052"
                   >Comments</a
-                ><span class="descendants">: 23</span></span
+                ><span class="descendants">: 26</span></span
               >
             </h4>
           </section>
@@ -822,7 +757,7 @@
             <h4>
               <span>2025-11-03 @ 17:49:25</span
               ><span class="points-container"
-                >Points: <span class="points">111</span></span
+                >Points: <span class="points">113</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45801966"
                   >Comments</a
@@ -850,11 +785,11 @@
             <h4>
               <span>2025-11-03 @ 17:06:34</span
               ><span class="points-container"
-                >Points: <span class="points">20</span></span
+                >Points: <span class="points">22</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45801384"
                   >Comments</a
-                ><span class="descendants">: 9</span></span
+                ><span class="descendants">: 10</span></span
               >
             </h4>
           </section>
@@ -871,11 +806,11 @@
             <h4>
               <span>2025-11-01 @ 21:00:33</span
               ><span class="points-container"
-                >Points: <span class="points">142</span></span
+                >Points: <span class="points">157</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45785300"
                   >Comments</a
-                ><span class="descendants">: 58</span></span
+                ><span class="descendants">: 60</span></span
               >
             </h4>
           </section>
@@ -890,11 +825,11 @@
             <h4>
               <span>2025-11-01 @ 14:02:57</span
               ><span class="points-container"
-                >Points: <span class="points">84</span></span
+                >Points: <span class="points">86</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45781725"
                   >Comments</a
-                ><span class="descendants">: 9</span></span
+                ><span class="descendants">: 11</span></span
               >
             </h4>
           </section>
