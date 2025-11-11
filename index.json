@@ -1,12 +1,22 @@
 [
   [
     [
-      "2025-11-11, 17:41:45",
-      "https://news.ycombinator.com/item?id=45890370"
+      "2025-11-11, 18:07:51",
+      "https://news.ycombinator.com/item?id=45890726"
     ],
     [
-      "Contributing to Open-Source Should Be Required, Like Jury Duty",
-      "https://www.joshbeckman.org/blog/practicing/contributing-to-opensource-should-be-required-like-jury-duty"
+      "Terminal Latency on Windows",
+      "https://chadaustin.me/2024/02/windows-terminal-latency/"
+    ]
+  ],
+  [
+    [
+      "2025-11-11, 17:26:54",
+      "https://news.ycombinator.com/item?id=45890186"
+    ],
+    [
+      "We ran over 600 image generations to compare AI image models",
+      "https://latenitesoft.com/blog/evaluating-frontier-ai-image-generation-models/"
     ]
   ],
   [
@@ -51,32 +61,12 @@
   ],
   [
     [
-      "2025-11-11, 16:51:49",
-      "https://news.ycombinator.com/item?id=45889592"
-    ],
-    [
-      "Abandoned by Humans, Forsaken by Nature: The Plight of Pigeons",
-      "https://adalinebenila.medium.com/abandoned-by-humans-forsaken-by-nature-the-plight-of-pigeons-7d4f1d32a3cb"
-    ]
-  ],
-  [
-    [
       "2025-11-11, 16:04:08",
       "https://news.ycombinator.com/item?id=45888891"
     ],
     [
-      "Firefox Expands Fingerprint Protections",
+      "Firefox expands fingerprint protections",
       "https://blog.mozilla.org/en/firefox/fingerprinting-protections/"
-    ]
-  ],
-  [
-    [
-      "2025-11-11, 15:50:26",
-      "https://news.ycombinator.com/item?id=45888697"
-    ],
-    [
-      "Canada loses its measles-free status, with US on track to follow",
-      "https://www.bbc.com/news/articles/cy7e2lv4r8xo"
     ]
   ],
   [
@@ -97,6 +87,16 @@
     [
       "Blender 5.1",
       "https://developer.blender.org/docs/release_notes/5.1/"
+    ]
+  ],
+  [
+    [
+      "2025-11-11, 14:58:47",
+      "https://news.ycombinator.com/item?id=45887957"
+    ],
+    [
+      "Pikaday: A friendly guide to front-end date pickers",
+      "https://pikaday.dbushell.com"
     ]
   ],
   [
@@ -131,22 +131,22 @@
   ],
   [
     [
+      "2025-11-11, 14:11:49",
+      "https://news.ycombinator.com/item?id=45887466"
+    ],
+    [
+      "Scaling HNSWs",
+      "https://antirez.com/news/156"
+    ]
+  ],
+  [
+    [
       "2025-11-11, 13:34:15",
       "https://news.ycombinator.com/item?id=45887105"
     ],
     [
       "The Perplexing Appeal of the Telepathy Tapes",
       "https://asteriskmag.com/issues/12-books/paradigm-shifted-the-perplexing-appeal-of-the-telepathy-tapes"
-    ]
-  ],
-  [
-    [
-      "2025-11-11, 13:24:31",
-      "https://news.ycombinator.com/item?id=45887007"
-    ],
-    [
-      "Show HN: Venturu – Zillow for the market of local businesses",
-      "https://www.venturu.com"
     ]
   ],
   [
@@ -181,16 +181,6 @@
   ],
   [
     [
-      "2025-11-11, 11:20:55",
-      "https://news.ycombinator.com/item?id=45886131"
-    ],
-    [
-      "OpenAI may not use lyrics without license, German court rules",
-      "https://www.reuters.com/world/german-court-sides-with-plaintiff-copyright-case-against-openai-2025-11-11/"
-    ]
-  ],
-  [
-    [
       "2025-11-11, 10:52:39",
       "https://news.ycombinator.com/item?id=45886002"
     ],
@@ -221,12 +211,12 @@
   ],
   [
     [
-      "2025-11-11, 08:09:05",
-      "https://news.ycombinator.com/item?id=45885135"
+      "2025-11-11, 07:32:06",
+      "https://news.ycombinator.com/item?id=45884937"
     ],
     [
-      "Zig / C++ Interop",
-      "https://tuple.app/blog/zig-cpp-interop"
+      "SoftBank sells its entire stake in Nvidia",
+      "https://www.cnbc.com/2025/11/11/softbank-sells-its-entire-stake-in-nvidia-for-5point83-billion.html"
     ]
   ],
   [
@@ -237,6 +227,16 @@
     [
       "The 'Toy Story' You Remember",
       "https://animationobsessive.substack.com/p/the-toy-story-you-remember"
+    ]
+  ],
+  [
+    [
+      "2025-11-08, 22:16:40",
+      "https://news.ycombinator.com/item?id=45860552"
+    ],
+    [
+      "The history of Casio watches",
+      "https://www.casio.com/us/watches/50th/Heritage/1970s/"
     ]
   ],
   [
