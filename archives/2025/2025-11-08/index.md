@@ -12,6 +12,7 @@
 * [2025-11-08, 22:52:46](https://news.ycombinator.com/item?id=45860773) - [Supreme Court temporarily blocks full SNAP benefits even as they'd started to](https://www.npr.org/2025/11/07/nx-s1-5602351/full-snap-benefits-go-out-despite-appeal)
 * [2025-11-08, 22:33:56](https://news.ycombinator.com/item?id=45860654) - [IP Blocking the UK Is Not Enough to Comply with the Online Safety Act](https://prestonbyrne.com/2025/11/06/the-ofcom-files-part-2-ip-blocking-the-uk-is-not-enough-to-comply-with-the-online-safety-act/)
 * [2025-11-08, 22:30:58](https://news.ycombinator.com/item?id=45860638) - [Debugging BeagleBoard USB boot with a sniffer: fixing omap_loader on modern PCs](https://www.downtowndougbrown.com/2025/11/debugging-beagleboard-usb-boot-with-a-sniffer-fixing-omap_loader-on-modern-pcs/)
+* [2025-11-08, 22:16:40](https://news.ycombinator.com/item?id=45860552) - [The history of Casio watches](https://www.casio.com/us/watches/50th/Heritage/1970s/)
 * [2025-11-08, 21:46:37](https://news.ycombinator.com/item?id=45860351) - [I taught an octopus piano (It took 6 months) [video]](https://www.youtube.com/watch?v=PcWnQ7fYzwI)
 * [2025-11-08, 21:36:39](https://news.ycombinator.com/item?id=45860273) - [How to declutter, quiet down, and take the AI out of Windows 11 25H2](https://arstechnica.com/gadgets/2025/11/what-i-do-to-clean-up-a-clean-install-of-windows-11-23h2-and-edge/)
 * [2025-11-08, 21:32:30](https://news.ycombinator.com/item?id=45860229) - [What Hallucinogens Will Make You See](https://nautil.us/what-hallucinogens-will-make-you-see-308247/)
