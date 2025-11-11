@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-11-11](index.md)
 
+* [2025-11-11, 14:36:31](https://news.ycombinator.com/item?id=45887709) - [Show HN: Gametje – A casual online gaming platform](https://gametje.com)
+* [2025-11-11, 14:34:54](https://news.ycombinator.com/item?id=45887699) - [The department of war just shot the accountants and opted for speed](https://steveblank.com/2025/11/11/the-department-of-war-just-shot-the-accountants-and-opted-for-speed/)
+* [2025-11-11, 14:18:16](https://news.ycombinator.com/item?id=45887536) - [Show HN: Tusk Drift – Open-source tool for automating API tests](https://github.com/Use-Tusk/drift-node-sdk)
 * [2025-11-11, 13:14:46](https://news.ycombinator.com/item?id=45886917) - [AI adoption in US adds ~900k tons of CO₂ annually, study finds](https://techxplore.com/news/2025-11-ai-tons-annually.html)
 * [2025-11-11, 13:03:05](https://news.ycombinator.com/item?id=45886822) - [Anxiety disorders tied to low levels of choline in the brain](https://medicalxpress.com/news/2025-11-anxiety-disorders-essential-nutrient-brain.html)
 * [2025-11-11, 13:00:39](https://news.ycombinator.com/item?id=45886788) - [Show HN: Linnix – eBPF observability that predicts failures before they happen](https://github.com/linnix-os/linnix)
@@ -15,6 +18,7 @@
 * [2025-11-11, 11:31:08](https://news.ycombinator.com/item?id=45886180) - [On Trying Two Dozen Different Psychedelics](https://psychotechnology.substack.com/p/on-trying-two-dozen-different-psychedelics)
 * [2025-11-11, 11:20:55](https://news.ycombinator.com/item?id=45886131) - [OpenAI may not use lyrics without license, German court rules](https://www.reuters.com/world/german-court-sides-with-plaintiff-copyright-case-against-openai-2025-11-11/)
 * [2025-11-11, 10:52:39](https://news.ycombinator.com/item?id=45886002) - [Welcome, the entire land - \"Hello, world!\" in hieroglyphics](https://optional.is/required/2009/12/03/welcome-the-entire-land/)
+* [2025-11-11, 10:17:57](https://news.ycombinator.com/item?id=45885813) - [iPhone Pocket](https://www.apple.com/newsroom/2025/11/introducing-iphone-pocket-a-beautiful-way-to-wear-and-carry-iphone/)
 * [2025-11-11, 08:29:23](https://news.ycombinator.com/item?id=45885242) - [Why Effort Scales Superlinearly with the Perceived Quality of Creative Work](https://markusstrasser.org/creative-work-landscapes.html)
 * [2025-11-11, 08:09:05](https://news.ycombinator.com/item?id=45885135) - [Zig / C++ Interop](https://tuple.app/blog/zig-cpp-interop)
 * [2025-11-11, 08:07:54](https://news.ycombinator.com/item?id=45885130) - [Colon cancer is rising in young people and scientists got a clue about why](https://www.nationalgeographic.com/health/article/gut-toxins-colon-cancer-early-diagnosis)
