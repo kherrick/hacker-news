@@ -98,6 +98,7 @@
 * [2025-11-04, 04:46:47](https://news.ycombinator.com/item?id=45807502) - [Show HN: MyTimers.app offline-first PWA with no build step and zero dependencies](https://mytimers.app/)
 * [2025-11-04, 04:08:43](https://news.ycombinator.com/item?id=45807329) - [The Morals of Chess (1786)](https://americanliterature.com/author/benjamin-franklin/essay/the-morals-of-chess)
 * [2025-11-04, 03:14:02](https://news.ycombinator.com/item?id=45807099) - [Otto Nemenz, Supplier and Designer of Cameras and Lenses for Hollywood, Dies](https://www.hollywoodreporter.com/movies/movie-news/otto-nemenz-dead-cameras-lenses-hollywood-1236417089/)
+* [2025-11-04, 03:05:19](https://news.ycombinator.com/item?id=45807052) - [Real VT102 Emulation with MAME](https://zork.net/~st/jottings/Real-VT102-emulation-with-MAME.html)
 * [2025-11-04, 02:58:40](https://news.ycombinator.com/item?id=45807018) - [An individual can change an organization](https://notes.eatonphil.com/2025-11-03-an-individual-can-change-an-organization.html)
 * [2025-11-04, 02:45:03](https://news.ycombinator.com/item?id=45806945) - [A robotaxi killed a beloved SF cat; city supervisor wants driverless car reform](https://www.sfchronicle.com/sf/article/waymo-killed-cat-21136038.php)
 * [2025-11-04, 02:37:01](https://news.ycombinator.com/item?id=45806903) - [My Truck Desk](https://www.theparisreview.org/blog/2025/10/29/truck-desk/)

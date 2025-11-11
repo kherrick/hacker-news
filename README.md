@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-11-11, 04:04:24](https://news.ycombinator.com/item?id=45883995) - [Hiring a developer as a small indie studio (in 2025)](https://www.ballardgames.com/tales/hiring-dev-2025/)
 * [2025-11-11, 03:25:04](https://news.ycombinator.com/item?id=45883827) - [DEC Mini – computer inspired by one of the loveliest retro computers of the 80s](https://decmini.tin.cat/)
 * [2025-11-11, 03:17:43](https://news.ycombinator.com/item?id=45883788) - [The 'Toy Story' You Remember](https://animationobsessive.substack.com/p/the-toy-story-you-remember)
 * [2025-11-11, 01:36:47](https://news.ycombinator.com/item?id=45883124) - [I hate screenshots of text](https://parkscomputing.com/page/i-hate-screenshots-of-text)
 * [2025-11-11, 00:51:44](https://news.ycombinator.com/item?id=45882837) - [Warren Buffett's final shareholder letter [pdf]](https://berkshirehathaway.com/news/nov1025.pdf)
 * [2025-11-11, 00:31:58](https://news.ycombinator.com/item?id=45882736) - [Toucan Wireless Split Keyboard with Touchpad](https://shop.beekeeb.com/products/toucan-wireless-piantor-wireless-split-keyboard-with-touchpad)
-* [2025-11-10, 23:27:53](https://news.ycombinator.com/item?id=45882305) - [What caused performance issues in my tiny RPG](https://jslegenddev.substack.com/p/what-caused-performance-issues-in)
 * [2025-11-10, 22:05:16](https://news.ycombinator.com/item?id=45881568) - [High-performance 2D graphics rendering on the CPU using sparse strips [pdf]](https://github.com/LaurenzV/master-thesis/blob/main/main.pdf)
 * [2025-11-10, 21:50:03](https://news.ycombinator.com/item?id=45881404) - [Linux in a Pixel Shader – A RISC-V Emulator for VRChat](https://blog.pimaker.at/texts/rvc1/)
 * [2025-11-10, 21:17:04](https://news.ycombinator.com/item?id=45881056) - [Zeroing in on Zero-Point Motion Inside a Crystal](https://physics.aps.org/articles/v18/178)
@@ -26,8 +26,8 @@
 * [2025-11-06, 20:57:09](https://news.ycombinator.com/item?id=45840321) - [Unix v4 Tape Found](https://discuss.systems/@ricci/115504720054699983)
 * [2025-11-05, 00:22:16](https://news.ycombinator.com/item?id=45817559) - [The physics of news, rumors, and opinions](https://arxiv.org/abs/2510.15053)
 * [2025-11-04, 13:14:26](https://news.ycombinator.com/item?id=45810658) - [The Paranoid Guide to Running Copilot CLI in a Secure Docker Sandbox](https://gordonbeeming.com/blog/2025-10-03/taming-the-ai-my-paranoid-guide-to-running-copilot-cli-in-a-secure-docker-sandbox)
-* [2025-11-04, 12:26:28](https://news.ycombinator.com/item?id=45810116) - [Pose Animator – An open source tool to bring SVG characters to life (2020)](https://blog.tensorflow.org/2020/05/pose-animator-open-source-tool-to-bring-svg-characters-to-life.html)
 * [2025-11-04, 12:16:54](https://news.ycombinator.com/item?id=45810048) - [When Soviet-Made Cars Roamed Singapore Roads](https://remembersingapore.org/2025/10/30/soviet-made-cars-singapore-70s-to-90s/)
+* [2025-11-04, 03:05:19](https://news.ycombinator.com/item?id=45807052) - [Real VT102 Emulation with MAME](https://zork.net/~st/jottings/Real-VT102-emulation-with-MAME.html)
 * [2025-11-03, 17:49:25](https://news.ycombinator.com/item?id=45801966) - [Dependent types and how to get rid of them](https://chadnauseam.com/coding/pltd/are-dependent-types-actually-erased)
 * [2025-11-01, 14:02:57](https://news.ycombinator.com/item?id=45781725) - [How to create accessible PDFs from the start](https://typst.app/blog/2025/accessible-pdf/)
 
