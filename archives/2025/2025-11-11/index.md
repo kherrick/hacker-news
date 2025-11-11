@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-11-11](index.md)
 
+* [2025-11-11, 14:51:13](https://news.ycombinator.com/item?id=45887873) - [Europe converged rapidly on the United States before stagnating](https://constitutionofinnovation.eu/)
 * [2025-11-11, 14:49:51](https://news.ycombinator.com/item?id=45887857) - [Drawing Text Isn't Simple: Benchmarking Console vs. Graphical Rendering](https://cv.co.hu/csabi/drawing-text-performance-graphical-vs-console.html)
 * [2025-11-11, 14:37:29](https://news.ycombinator.com/item?id=45887720) - [US Army to buy 1 million drones, in major acquisition ramp-up](https://www.reuters.com/business/aerospace-defense/us-army-buy-1-million-drones-major-acquisition-ramp-up-2025-11-07/)
 * [2025-11-11, 14:36:31](https://news.ycombinator.com/item?id=45887709) - [Show HN: Gametje – A casual online gaming platform](https://gametje.com)
