@@ -15,7 +15,6 @@
 * [2025-11-10, 16:23:24](https://news.ycombinator.com/item?id=45877517) - [Launch HN: Hypercubic (YC F25) – AI for COBOL and Mainframes](https://news.ycombinator.com/item?id=45877517)
 * [2025-11-10, 16:05:46](https://news.ycombinator.com/item?id=45877257) - [Unexpected things that are people](https://bengoldhaber.substack.com/p/unexpected-things-that-are-people)
 * [2025-11-10, 14:57:26](https://news.ycombinator.com/item?id=45876598) - [Time to start de-Appling](https://heatherburns.tech/2025/11/10/time-to-start-de-appling/)
-* [2025-11-10, 11:45:15](https://news.ycombinator.com/item?id=45874987) - [Vibe Code Warning – A personal casestudy](https://github.com/jackdoe/pico2-swd-riscv)
 * [2025-11-10, 08:09:31](https://news.ycombinator.com/item?id=45873625) - [The Linux Kernel Looks to “Bite the Bullet” in Enabling Microsoft C Extensions](https://www.phoronix.com/news/Linux-6.19-Patch-Would-MS-Ext)
 * [2025-11-09, 21:02:33](https://news.ycombinator.com/item?id=45869146) - [Ask HN: What Are You Working On? (Nov 2025)](https://news.ycombinator.com/item?id=45869146)
 * [2025-11-09, 18:29:43](https://news.ycombinator.com/item?id=45867828) - [Writing your own BEAM](https://martin.janiczek.cz/2025/11/09/writing-your-own-beam.html)
@@ -28,6 +27,7 @@
 * [2025-11-04, 12:16:54](https://news.ycombinator.com/item?id=45810048) - [When Soviet-made cars roamed Singapore roads](https://remembersingapore.org/2025/10/30/soviet-made-cars-singapore-70s-to-90s/)
 * [2025-11-04, 03:05:19](https://news.ycombinator.com/item?id=45807052) - [Real VT102 Emulation with MAME](https://zork.net/~st/jottings/Real-VT102-emulation-with-MAME.html)
 * [2025-11-03, 17:49:25](https://news.ycombinator.com/item?id=45801966) - [Dependent types and how to get rid of them](https://chadnauseam.com/coding/pltd/are-dependent-types-actually-erased)
+* [2025-11-03, 17:06:34](https://news.ycombinator.com/item?id=45801384) - [Baby Shoggoth Is Listening](https://theamericanscholar.org/baby-shoggoth-is-listening/)
 * [2025-11-01, 21:00:33](https://news.ycombinator.com/item?id=45785300) - [I Fell in Love with Erlang](https://boragonul.com/post/falling-in-love-with-erlang)
 * [2025-11-01, 14:02:57](https://news.ycombinator.com/item?id=45781725) - [How to create accessible PDFs from the start](https://typst.app/blog/2025/accessible-pdf/)
 

@@ -36,6 +36,7 @@
 * [2025-11-03, 17:27:12](https://news.ycombinator.com/item?id=45801651) - [How to find your ideal customer, right away](https://www.reifyworks.com/writing/2023-01-30-iicp)
 * [2025-11-03, 17:25:49](https://news.ycombinator.com/item?id=45801630) - [Learning a Bit of VGA](https://www.usebox.net/jjm/blog/learning-a-bit-of-vga/)
 * [2025-11-03, 17:08:22](https://news.ycombinator.com/item?id=45801416) - [Why Engineers Can't Be Rational About Programming Languages](https://spf13.com/p/the-hidden-conversation/)
+* [2025-11-03, 17:06:34](https://news.ycombinator.com/item?id=45801384) - [Baby Shoggoth Is Listening](https://theamericanscholar.org/baby-shoggoth-is-listening/)
 * [2025-11-03, 16:53:46](https://news.ycombinator.com/item?id=45801221) - [Show HN: I was tired of wasting engineer time on screening calls so I built Niju](https://niju.dev)
 * [2025-11-03, 16:45:12](https://news.ycombinator.com/item?id=45801096) - [No Socials November](https://bjhess.com/posts/no-socials-november)
 * [2025-11-03, 16:36:29](https://news.ycombinator.com/item?id=45800967) - [Python Steering Council unanimously accepts \"PEP 810, Explicit lazy imports\"](https://discuss.python.org/t/pep-810-explicit-lazy-imports/104131?page=23)
