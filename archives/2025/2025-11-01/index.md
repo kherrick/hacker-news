@@ -53,6 +53,7 @@
 * [2025-11-01, 14:40:09](https://news.ycombinator.com/item?id=45781965) - [The Silent Scientist: When Software Research Fails to Reach Its Audience](https://cacm.acm.org/opinion/the-silent-scientist-when-software-research-fails-to-reach-its-audience/)
 * [2025-11-01, 14:20:38](https://news.ycombinator.com/item?id=45781843) - [Tigerbeetle Simulator](https://sim.tigerbeetle.com/)
 * [2025-11-01, 14:14:07](https://news.ycombinator.com/item?id=45781792) - [Async/Await is finally back in Zig](https://charlesfonseca.substack.com/p/asyncawait-is-finally-back-in-zig)
+* [2025-11-01, 14:02:57](https://news.ycombinator.com/item?id=45781725) - [How to create accessible PDFs from the start](https://typst.app/blog/2025/accessible-pdf/)
 * [2025-11-01, 13:45:03](https://news.ycombinator.com/item?id=45781597) - [Show HN: AI Operator from Hell – Autonomous AI Sysadmin Writing Tech Stories](https://www.aiofh.com)
 * [2025-11-01, 13:30:41](https://news.ycombinator.com/item?id=45781503) - [Gilded Rage – Why Silicon Valley went from libertarian to authoritarian](https://paulkrugman.substack.com/p/gilded-rage-talking-with-jacob-silverman)
 * [2025-11-01, 13:12:47](https://news.ycombinator.com/item?id=45781397) - [CharlotteOS – An Experimental Modern Operating System](https://github.com/charlotte-os/Catten)
