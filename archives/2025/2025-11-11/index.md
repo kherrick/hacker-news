@@ -12,6 +12,7 @@
 * [2025-11-11, 12:00:05](https://news.ycombinator.com/item?id=45886344) - [Stop overhyping AI, scientists tell von der Leyen](https://www.euractiv.com/news/stop-overhyping-ai-scientists-tell-von-der-leyen/)
 * [2025-11-11, 11:34:22](https://news.ycombinator.com/item?id=45886194) - [Advent of Code on the Z-Machine](https://entropicthoughts.com/advent-of-code-on-z-machine)
 * [2025-11-11, 11:33:49](https://news.ycombinator.com/item?id=45886191) - [DARPA and Texas Bet $1.4B on Unique Foundry -3D heterogeneous integration](https://spectrum.ieee.org/3d-heterogeneous-integration)
+* [2025-11-11, 11:31:08](https://news.ycombinator.com/item?id=45886180) - [On Trying Two Dozen Different Psychedelics](https://psychotechnology.substack.com/p/on-trying-two-dozen-different-psychedelics)
 * [2025-11-11, 11:20:55](https://news.ycombinator.com/item?id=45886131) - [OpenAI may not use lyrics without license, German court rules](https://www.reuters.com/world/german-court-sides-with-plaintiff-copyright-case-against-openai-2025-11-11/)
 * [2025-11-11, 10:52:39](https://news.ycombinator.com/item?id=45886002) - [Welcome, the entire land - \"Hello, world!\" in hieroglyphics](https://optional.is/required/2009/12/03/welcome-the-entire-land/)
 * [2025-11-11, 08:29:23](https://news.ycombinator.com/item?id=45885242) - [Why Effort Scales Superlinearly with the Perceived Quality of Creative Work](https://markusstrasser.org/creative-work-landscapes.html)
