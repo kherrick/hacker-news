@@ -4,10 +4,13 @@
 
 ### [Archives](../../index.md) for [2025-11-11](index.md)
 
+* [2025-11-11, 20:27:38](https://news.ycombinator.com/item?id=45892394) - [Collaboration sucks](https://newsletter.posthog.com/p/collaboration-sucks)
+* [2025-11-11, 20:24:04](https://news.ycombinator.com/item?id=45892340) - [Microplastics: No Longer a \"Maybe\"](https://ibbi.io/mp)
 * [2025-11-11, 20:10:24](https://news.ycombinator.com/item?id=45892174) - [Xortran - A PDP-11 Fortran Neural Network With Backpropagation](https://github.com/dbrll/Xortran)
 * [2025-11-11, 19:48:19](https://news.ycombinator.com/item?id=45891907) - [A modern 35mm film scanner for home](https://www.soke.engineering/)
 * [2025-11-11, 19:46:09](https://news.ycombinator.com/item?id=45891879) - [The AI Surveillance Dystopia: Spying, Data Trafficking, & Corruption](https://store.gamersnexus.net/ai-dystopia)
 * [2025-11-11, 19:44:49](https://news.ycombinator.com/item?id=45891868) - [A Catalog of Side Effects](https://bernsteinbear.com/blog/compiler-effects/)
+* [2025-11-11, 19:36:05](https://news.ycombinator.com/item?id=45891772) - [Vertical Integration is the only thing that matters](https://becca.ooo/blog/vertical-integration/)
 * [2025-11-11, 18:58:16](https://news.ycombinator.com/item?id=45891319) - [Show HN: Creavi Macropad – Built a wireless macropad with a display](https://creavi.tech/blog/creavi-macropad-build-log/)
 * [2025-11-11, 18:32:11](https://news.ycombinator.com/item?id=45891016) - [FFmpeg to Google: Fund Us or Stop Sending Bugs](https://thenewstack.io/ffmpeg-to-google-fund-us-or-stop-sending-bugs/)
 * [2025-11-11, 18:07:51](https://news.ycombinator.com/item?id=45890726) - [Terminal Latency on Windows](https://chadaustin.me/2024/02/windows-terminal-latency/)
