@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-11-11, 07:45:41](https://news.ycombinator.com/item?id=45885013) - [Show HN: PhantomCollect – Open-Source Web Data Collection Framework in Python](https://github.com/xsser01/phantomcollect)
+* [2025-11-11, 07:32:06](https://news.ycombinator.com/item?id=45884937) - [SoftBank sells its entire stake in Nvidia for $5.83B](https://www.cnbc.com/2025/11/11/softbank-sells-its-entire-stake-in-nvidia-for-5point83-billion.html)
 * [2025-11-11, 06:30:22](https://news.ycombinator.com/item?id=45884658) - [The Write Last, Read First Rule](https://tigerbeetle.com/blog/2025-11-06-the-write-last-read-first-rule/)
-* [2025-11-11, 05:33:53](https://news.ycombinator.com/item?id=45884428) - [Lepton – GPL Electronic Design Automation](https://github.com/lepton-eda/lepton-eda)
 * [2025-11-11, 04:38:24](https://news.ycombinator.com/item?id=45884169) - [AI documentation you can talk to, for every repo](https://deepwiki.com/)
 * [2025-11-11, 04:04:24](https://news.ycombinator.com/item?id=45883995) - [Hiring a developer as a small indie studio in 2025](https://www.ballardgames.com/tales/hiring-dev-2025/)
 * [2025-11-11, 03:17:43](https://news.ycombinator.com/item?id=45883788) - [The 'Toy Story' You Remember](https://animationobsessive.substack.com/p/the-toy-story-you-remember)
@@ -18,7 +19,6 @@
 * [2025-11-10, 08:09:31](https://news.ycombinator.com/item?id=45873625) - [The Linux Kernel Looks to “Bite the Bullet” in Enabling Microsoft C Extensions](https://www.phoronix.com/news/Linux-6.19-Patch-Would-MS-Ext)
 * [2025-11-09, 21:02:33](https://news.ycombinator.com/item?id=45869146) - [Ask HN: What Are You Working On? (Nov 2025)](https://news.ycombinator.com/item?id=45869146)
 * [2025-11-09, 18:29:43](https://news.ycombinator.com/item?id=45867828) - [Writing your own BEAM](https://martin.janiczek.cz/2025/11/09/writing-your-own-beam.html)
-* [2025-11-08, 00:01:05](https://news.ycombinator.com/item?id=45852755) - [Building a high-performance ticketing system with TigerBeetle](https://renerocks.ai/blog/2025-11-02--tigerfans/)
 * [2025-11-07, 12:11:42](https://news.ycombinator.com/item?id=45845620) - [SanDisk launches dongle-like Extreme Fit USB-C flash drive with up to 1 TB](https://www.notebookcheck.net/Sandisk-launches-dongle-like-Extreme-Fit-USB-C-flash-drive-with-up-to-1-TB-capacity.1156601.0.html)
 * [2025-11-06, 20:57:09](https://news.ycombinator.com/item?id=45840321) - [Unix v4 Tape Found](https://discuss.systems/@ricci/115504720054699983)
 * [2025-11-06, 02:56:22](https://news.ycombinator.com/item?id=45830869) - [Myna: monospace typeface designed for symbol-rich programming](https://github.com/sayyadirfanali/Myna)
