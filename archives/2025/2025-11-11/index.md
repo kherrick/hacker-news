@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-11-11](index.md)
 
+* [2025-11-11, 13:14:46](https://news.ycombinator.com/item?id=45886917) - [AI adoption in US adds ~900k tons of CO₂ annually, study finds](https://techxplore.com/news/2025-11-ai-tons-annually.html)
+* [2025-11-11, 13:03:05](https://news.ycombinator.com/item?id=45886822) - [Anxiety disorders tied to low levels of choline in the brain](https://medicalxpress.com/news/2025-11-anxiety-disorders-essential-nutrient-brain.html)
+* [2025-11-11, 13:00:39](https://news.ycombinator.com/item?id=45886788) - [Show HN: Linnix – eBPF observability that predicts failures before they happen](https://github.com/linnix-os/linnix)
 * [2025-11-11, 12:00:42](https://news.ycombinator.com/item?id=45886350) - [Hazel (YC W24) Is Hiring Full Stack Engineers](https://www.ycombinator.com/companies/hazel-2/jobs/fCdGOZw-full-stack-engineer)
 * [2025-11-11, 12:00:05](https://news.ycombinator.com/item?id=45886344) - [Stop overhyping AI, scientists tell von der Leyen](https://www.euractiv.com/news/stop-overhyping-ai-scientists-tell-von-der-leyen/)
 * [2025-11-11, 11:34:22](https://news.ycombinator.com/item?id=45886194) - [Advent of Code on the Z-Machine](https://entropicthoughts.com/advent-of-code-on-z-machine)

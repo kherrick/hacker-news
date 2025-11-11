@@ -43,6 +43,7 @@
 * [2025-11-05, 13:22:35](https://news.ycombinator.com/item?id=45822559) - [Radiant Computer](https://radiant.computer)
 * [2025-11-05, 13:20:16](https://news.ycombinator.com/item?id=45822539) - [NY Smartphone Ban Has Made Lunch Loud Again](https://gothamist.com/news/ny-smartphone-ban-has-made-lunch-loud-again)
 * [2025-11-05, 13:16:58](https://news.ycombinator.com/item?id=45822513) - [Optimism Associated with Exceptional Longevity](https://www.pnas.org/doi/10.1073/pnas.1900712116)
+* [2025-11-05, 13:02:05](https://news.ycombinator.com/item?id=45822400) - [The kind of company I want to be a part of](https://www.dvsj.in/my-company)
 * [2025-11-05, 12:51:44](https://news.ycombinator.com/item?id=45822302) - [iOS 26.2 to Allow Third-Party App Stores in Japan Ahead of Regulatory Deadline](https://www.macrumors.com/2025/11/05/ios-26-2-third-party-app-stores-japan/)
 * [2025-11-05, 12:21:39](https://news.ycombinator.com/item?id=45822071) - [The grim truth behind the Pied Piper](https://www.bbc.com/travel/article/20200902-the-grim-truth-behind-the-pied-piper)
 * [2025-11-05, 12:13:08](https://news.ycombinator.com/item?id=45822018) - [YouTube Erased More Than 700 Videos Documenting Israeli Human Rights Violations](https://theintercept.com/2025/11/04/youtube-google-israel-palestine-human-rights-censorship/)
