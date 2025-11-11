@@ -5,7 +5,6 @@
 * [2025-11-11, 21:25:19](https://news.ycombinator.com/item?id=45893095) - [I didn't reverse-engineer the protocol for my blood pressure monitor in 24 hours](https://james.belchamber.com/articles/blood-pressure-monitor-reverse-engineering/)
 * [2025-11-11, 21:18:26](https://news.ycombinator.com/item?id=45893004) - [X5.1 solar flare, G4 geomagnetic storm watch](https://www.spaceweatherlive.com/en/news/view/593/20251111-x5-1-solar-flare-g4-geomagnetic-storm-watch.html)
 * [2025-11-11, 21:00:35](https://news.ycombinator.com/item?id=45892773) - [Meticulous (YC S21) is hiring to redefine software dev](https://jobs.ashbyhq.com/meticulous/3197ae3d-bb26-4750-9ed7-b830f640515e)
-* [2025-11-11, 20:34:51](https://news.ycombinator.com/item?id=45892469) - [PBM Drug Pricing Distortion Report](https://www.46brooklyn.com/research/welcome-to-private-label-park-nuf485-8h5kw-wk8y2)
 * [2025-11-11, 20:27:38](https://news.ycombinator.com/item?id=45892394) - [Collaboration sucks](https://newsletter.posthog.com/p/collaboration-sucks)
 * [2025-11-11, 20:11:33](https://news.ycombinator.com/item?id=45892191) - [The terminal of the future](https://jyn.dev/the-terminal-of-the-future)
 * [2025-11-11, 20:10:24](https://news.ycombinator.com/item?id=45892174) - [Xortran - A PDP-11 Neural Network With Backpropagation in Fortran IV](https://github.com/dbrll/Xortran)
@@ -28,6 +27,7 @@
 * [2025-11-07, 04:38:28](https://news.ycombinator.com/item?id=45843600) - [Array-programming the Mandelbrot set](https://jcmorrow.com/mandelbrot/)
 * [2025-11-06, 01:04:23](https://news.ycombinator.com/item?id=45830178) - [My fan worked fine, so I gave it WiFi](https://ellis.codes/blog/my-fan-worked-fine-so-i-gave-it-wi-fi/)
 * [2025-11-04, 23:18:04](https://news.ycombinator.com/item?id=45817027) - [Étude in C minor (2020)](https://zserge.com/posts/etude-in-c/)
+* [2025-11-03, 15:27:35](https://news.ycombinator.com/item?id=45800094) - [AV1 vs. H.264: What Video Codec to Choose for Your App?](https://www.red5.net/blog/av1-vs-h264/)
 * [2025-11-02, 11:58:52](https://news.ycombinator.com/item?id=45789674) - [Laptops adorned with creative stickers](https://stickertop.art/main/)
 * [2025-11-01, 21:00:33](https://news.ycombinator.com/item?id=45785300) - [How I fell in love with Erlang](https://boragonul.com/post/falling-in-love-with-erlang)
 

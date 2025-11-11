@@ -47,6 +47,7 @@
 * [2025-11-03, 16:00:00](https://news.ycombinator.com/item?id=45800464) - [Ask HN: Who wants to be hired? (November 2025)](https://news.ycombinator.com/item?id=45800464)
 * [2025-11-03, 15:45:31](https://news.ycombinator.com/item?id=45800308) - [Robert Hooke's \"Cyberpunk” Letter to Gottfried Leibniz](https://mynamelowercase.com/blog/robert-hookes-cyberpunk-letter-to-gottfried-leibniz/)
 * [2025-11-03, 15:29:13](https://news.ycombinator.com/item?id=45800117) - [Show HN: FinBodhi – Local-first, double-entry app/PWA for your financial journey](https://finbodhi.com/)
+* [2025-11-03, 15:27:35](https://news.ycombinator.com/item?id=45800094) - [AV1 vs. H.264: What Video Codec to Choose for Your App?](https://www.red5.net/blog/av1-vs-h264/)
 * [2025-11-03, 15:20:24](https://news.ycombinator.com/item?id=45800009) - [Show HN: Find matching acrylic paints for any HEX color](https://acrylicmatch.com/)
 * [2025-11-03, 15:15:12](https://news.ycombinator.com/item?id=45799949) - [Dark Mode by Local Sunlight](https://www.ctnicholas.dev/articles/dark-mode-by-sunlight)
 * [2025-11-03, 14:54:12](https://news.ycombinator.com/item?id=45799652) - [Uv Crash Course](https://lernerpython.com/uv-crash-course/)
