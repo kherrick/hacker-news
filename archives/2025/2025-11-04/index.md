@@ -7,6 +7,7 @@
 * [2025-11-04, 23:53:02](https://news.ycombinator.com/item?id=45817308) - [FDA described as a \"clown show\" amid latest scandal; top drug regulator is out](https://arstechnica.com/health/2025/11/fda-described-as-a-clown-show-amid-latest-scandal-top-drug-regulator-is-out/)
 * [2025-11-04, 23:35:27](https://news.ycombinator.com/item?id=45817167) - [Uncle Sam wants to scan your iris and collect your DNA, citizen or not](https://www.theregister.com/2025/11/04/dhs_wants_to_collect_biometric_data/)
 * [2025-11-04, 23:29:31](https://news.ycombinator.com/item?id=45817114) - [Bluetui – A TUI for managing Bluetooth on Linux](https://github.com/pythops/bluetui)
+* [2025-11-04, 23:18:04](https://news.ycombinator.com/item?id=45817027) - [Creating minimal music with code in any programming language](https://zserge.com/posts/etude-in-c/)
 * [2025-11-04, 23:13:06](https://news.ycombinator.com/item?id=45816981) - [WASM 45% slower than Native Code](https://ar5iv.labs.arxiv.org/html/1901.09056)
 * [2025-11-04, 23:11:20](https://news.ycombinator.com/item?id=45816968) - [Google Removed 749M Anna's Archive URLs from Its Search Results](https://torrentfreak.com/google-removed-749-million-annas-archive-urls-from-its-search-results/)
 * [2025-11-04, 23:10:53](https://news.ycombinator.com/item?id=45816963) - [UPS plane crashes near Louisville airport](https://www.cbsnews.com/news/ups-plane-crash-louisville-kentucky/)

@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-11-11, 18:58:16](https://news.ycombinator.com/item?id=45891319) - [Show HN: Creavi Macropad – Built a wireless macropad with a display](https://creavi.tech/blog/creavi-macropad-build-log/)
 * [2025-11-11, 18:32:11](https://news.ycombinator.com/item?id=45891016) - [FFmpeg to Google: Fund Us or Stop Sending Bugs](https://thenewstack.io/ffmpeg-to-google-fund-us-or-stop-sending-bugs/)
 * [2025-11-11, 18:07:51](https://news.ycombinator.com/item?id=45890726) - [Terminal Latency on Windows (2024)](https://chadaustin.me/2024/02/windows-terminal-latency/)
 * [2025-11-11, 17:44:21](https://news.ycombinator.com/item?id=45890394) - [Show HN: Data Formulator 0.5 – interactive AI agents for data visualization](https://data-formulator.ai/)
-* [2025-11-11, 17:41:45](https://news.ycombinator.com/item?id=45890370) - [Contributing to Open-Source Should Be Required, Like Jury Duty](https://www.joshbeckman.org/blog/practicing/contributing-to-opensource-should-be-required-like-jury-duty)
 * [2025-11-11, 17:26:54](https://news.ycombinator.com/item?id=45890186) - [We ran over 600 image generations to compare AI image models](https://latenitesoft.com/blog/evaluating-frontier-ai-image-generation-models/)
 * [2025-11-11, 17:08:00](https://news.ycombinator.com/item?id=45889891) - [Cache-friendly, low-memory Lanczos algorithm in Rust](https://lukefleed.xyz/posts/cache-friendly-low-memory-lanczos/)
 * [2025-11-11, 17:01:07](https://news.ycombinator.com/item?id=45889793) - [Show HN: Cactoide – Federated RSVP Platform](https://cactoide.org/)
@@ -28,7 +28,7 @@
 * [2025-11-07, 14:06:38](https://news.ycombinator.com/item?id=45846525) - [High speed X-ray video: jumping beans, wind-up toys and more](https://www.youtube.com/watch?v=xdpDd7dyU00)
 * [2025-11-07, 08:00:08](https://news.ycombinator.com/item?id=45844419) - [The R47: A new physical RPN calculator](https://www.swissmicros.com/product/model-r47)
 * [2025-11-07, 04:38:28](https://news.ycombinator.com/item?id=45843600) - [Array Programming the Mandelbrot Set](https://jcmorrow.com/mandelbrot/)
-* [2025-11-03, 14:06:01](https://news.ycombinator.com/item?id=45799057) - [Making a C64/C65 compatible computer: MEGAphone contact list and Dialer](https://c65gs.blogspot.com/2025/11/megaphone-contact-list-and-dialer.html)
+* [2025-11-04, 23:18:04](https://news.ycombinator.com/item?id=45817027) - [Creating minimal music with code in any programming language](https://zserge.com/posts/etude-in-c/)
 * [2025-11-01, 21:00:33](https://news.ycombinator.com/item?id=45785300) - [How I fell in love with Erlang](https://boragonul.com/post/falling-in-love-with-erlang)
 
 ## [Archives](archives/index.md)
