@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-11-11, 11:20:55](https://news.ycombinator.com/item?id=45886131) - [OpenAI may not use lyrics without license, German court rules](https://www.reuters.com/world/german-court-sides-with-plaintiff-copyright-case-against-openai-2025-11-11/)
 * [2025-11-11, 08:29:23](https://news.ycombinator.com/item?id=45885242) - [Why Effort Scales Superlinearly with the Perceived Quality of Creative Work](https://markusstrasser.org/creative-work-landscapes.html)
 * [2025-11-11, 08:09:05](https://news.ycombinator.com/item?id=45885135) - [Zig / C++ Interop](https://tuple.app/blog/zig-cpp-interop)
 * [2025-11-11, 07:34:10](https://news.ycombinator.com/item?id=45884951) - [The \"Dependency Cutout\" Workflow Pattern](https://blog.glyph.im/2025/11/dependency-cutout-workflow-pattern.html)
@@ -19,7 +20,6 @@
 * [2025-11-09, 21:02:33](https://news.ycombinator.com/item?id=45869146) - [Ask HN: What Are You Working On? (Nov 2025)](https://news.ycombinator.com/item?id=45869146)
 * [2025-11-09, 18:29:43](https://news.ycombinator.com/item?id=45867828) - [Writing your own BEAM](https://martin.janiczek.cz/2025/11/09/writing-your-own-beam.html)
 * [2025-11-08, 00:01:05](https://news.ycombinator.com/item?id=45852755) - [Building a high-performance ticketing system with TigerBeetle](https://renerocks.ai/blog/2025-11-02--tigerfans/)
-* [2025-11-07, 12:11:42](https://news.ycombinator.com/item?id=45845620) - [SanDisk launches dongle-like Extreme Fit USB-C flash drive with up to 1 TB](https://www.notebookcheck.net/Sandisk-launches-dongle-like-Extreme-Fit-USB-C-flash-drive-with-up-to-1-TB-capacity.1156601.0.html)
 * [2025-11-06, 20:57:09](https://news.ycombinator.com/item?id=45840321) - [Unix v4 Tape Found](https://discuss.systems/@ricci/115504720054699983)
 * [2025-11-06, 02:56:22](https://news.ycombinator.com/item?id=45830869) - [Myna: monospace typeface designed for symbol-rich programming](https://github.com/sayyadirfanali/Myna)
 * [2025-11-05, 19:13:30](https://news.ycombinator.com/item?id=45826660) - [Automating our home video imports](https://pierce.dev/notes/automating-our-home-video-imports)

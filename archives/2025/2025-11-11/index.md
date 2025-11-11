@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-11-11](index.md)
 
+* [2025-11-11, 11:20:55](https://news.ycombinator.com/item?id=45886131) - [OpenAI may not use lyrics without license, German court rules](https://www.reuters.com/world/german-court-sides-with-plaintiff-copyright-case-against-openai-2025-11-11/)
 * [2025-11-11, 08:29:23](https://news.ycombinator.com/item?id=45885242) - [Why Effort Scales Superlinearly with the Perceived Quality of Creative Work](https://markusstrasser.org/creative-work-landscapes.html)
 * [2025-11-11, 08:09:05](https://news.ycombinator.com/item?id=45885135) - [Zig / C++ Interop](https://tuple.app/blog/zig-cpp-interop)
 * [2025-11-11, 08:07:54](https://news.ycombinator.com/item?id=45885130) - [Colon cancer is rising in young people and scientists got a clue about why](https://www.nationalgeographic.com/health/article/gut-toxins-colon-cancer-early-diagnosis)
