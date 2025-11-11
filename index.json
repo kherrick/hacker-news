@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-11-11, 21:25:19",
+      "https://news.ycombinator.com/item?id=45893095"
+    ],
+    [
+      "I didn't reverse-engineer the protocol for my blood pressure monitor in 24 hours",
+      "https://james.belchamber.com/articles/blood-pressure-monitor-reverse-engineering/"
+    ]
+  ],
+  [
+    [
+      "2025-11-11, 21:18:26",
+      "https://news.ycombinator.com/item?id=45893004"
+    ],
+    [
+      "X5.1 solar flare, G4 geomagnetic storm watch",
+      "https://www.spaceweatherlive.com/en/news/view/593/20251111-x5-1-solar-flare-g4-geomagnetic-storm-watch.html"
+    ]
+  ],
+  [
+    [
       "2025-11-11, 21:03:19",
       "https://news.ycombinator.com/item?id=45892809"
     ],
@@ -37,6 +57,16 @@
     [
       "Collaboration sucks",
       "https://newsletter.posthog.com/p/collaboration-sucks"
+    ]
+  ],
+  [
+    [
+      "2025-11-11, 20:24:04",
+      "https://news.ycombinator.com/item?id=45892340"
+    ],
+    [
+      "Microplastics: No longer a \"maybe\"",
+      "https://ibbi.io/mp"
     ]
   ],
   [
@@ -121,16 +151,6 @@
   ],
   [
     [
-      "2025-11-11, 18:32:11",
-      "https://news.ycombinator.com/item?id=45891016"
-    ],
-    [
-      "FFmpeg to Google: Fund us or stop sending bugs",
-      "https://thenewstack.io/ffmpeg-to-google-fund-us-or-stop-sending-bugs/"
-    ]
-  ],
-  [
-    [
       "2025-11-11, 18:07:51",
       "https://news.ycombinator.com/item?id=45890726"
     ],
@@ -201,32 +221,12 @@
   ],
   [
     [
-      "2025-11-11, 14:49:51",
-      "https://news.ycombinator.com/item?id=45887857"
-    ],
-    [
-      "Drawing Text Isn't Simple: Benchmarking Console vs. Graphical Rendering",
-      "https://cv.co.hu/csabi/drawing-text-performance-graphical-vs-console.html"
-    ]
-  ],
-  [
-    [
       "2025-11-11, 14:11:49",
       "https://news.ycombinator.com/item?id=45887466"
     ],
     [
       "Scaling HNSWs",
       "https://antirez.com/news/156"
-    ]
-  ],
-  [
-    [
-      "2025-11-11, 13:34:15",
-      "https://news.ycombinator.com/item?id=45887105"
-    ],
-    [
-      "The Perplexing Appeal of the Telepathy Tapes",
-      "https://asteriskmag.com/issues/12-books/paradigm-shifted-the-perplexing-appeal-of-the-telepathy-tapes"
     ]
   ],
   [
