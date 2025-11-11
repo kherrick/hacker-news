@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-11-11, 22:31:41](https://news.ycombinator.com/item?id=45893795) - [Four places to see London's Roman Wall](https://diamondgeezer.blogspot.com/2025/11/odd-places-to-see-londons-roman-wall.html)
 * [2025-11-11, 21:25:19](https://news.ycombinator.com/item?id=45893095) - [I didn't reverse-engineer the protocol for my blood pressure monitor in 24 hours](https://james.belchamber.com/articles/blood-pressure-monitor-reverse-engineering/)
 * [2025-11-11, 21:18:26](https://news.ycombinator.com/item?id=45893004) - [X5.1 solar flare, G4 geomagnetic storm watch](https://www.spaceweatherlive.com/en/news/view/593/20251111-x5-1-solar-flare-g4-geomagnetic-storm-watch.html)
 * [2025-11-11, 21:03:19](https://news.ycombinator.com/item?id=45892809) - [CACM Practice section welcomes submissions](https://dl.acm.org/doi/10.1145/3771297)
@@ -14,7 +15,6 @@
 * [2025-11-11, 19:40:15](https://news.ycombinator.com/item?id=45891817) - [Agentic pelican on a bicycle](https://www.robert-glaser.de/agentic-pelican-on-a-bicycle/)
 * [2025-11-11, 19:36:05](https://news.ycombinator.com/item?id=45891772) - [Vertical integration is the only thing that matters](https://becca.ooo/blog/vertical-integration/)
 * [2025-11-11, 18:07:51](https://news.ycombinator.com/item?id=45890726) - [Terminal Latency on Windows (2024)](https://chadaustin.me/2024/02/windows-terminal-latency/)
-* [2025-11-11, 17:44:21](https://news.ycombinator.com/item?id=45890394) - [Show HN: Data Formulator – interactive AI agents for data analysis (Microsoft)](https://data-formulator.ai/)
 * [2025-11-11, 17:26:54](https://news.ycombinator.com/item?id=45890186) - [We ran over 600 image generations to compare AI image models](https://latenitesoft.com/blog/evaluating-frontier-ai-image-generation-models/)
 * [2025-11-11, 17:08:00](https://news.ycombinator.com/item?id=45889891) - [Cache-friendly, low-memory Lanczos algorithm in Rust](https://lukefleed.xyz/posts/cache-friendly-low-memory-lanczos/)
 * [2025-11-11, 17:01:07](https://news.ycombinator.com/item?id=45889793) - [Show HN: Cactoide – Federated RSVP Platform](https://cactoide.org/)
