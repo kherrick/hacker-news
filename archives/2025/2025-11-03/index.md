@@ -56,6 +56,7 @@
 * [2025-11-03, 14:12:15](https://news.ycombinator.com/item?id=45799110) - [Türkiye will not sell rare earth elements to the USA](https://ceenergynews.com/climate/turkiye-rare-earth-elements-usa/)
 * [2025-11-03, 14:12:06](https://news.ycombinator.com/item?id=45799109) - [Cryptography 101 with Alfred Menezes](https://cryptography101.ca)
 * [2025-11-03, 14:10:57](https://news.ycombinator.com/item?id=45799096) - [Geonum – geometric number library for unlimited dimensions with O(1) complexity](https://github.com/mxfactorial/geonum)
+* [2025-11-03, 14:06:01](https://news.ycombinator.com/item?id=45799057) - [Making a C64/C65 compatible computer: MEGAphone contact list and Dialer](https://c65gs.blogspot.com/2025/11/megaphone-contact-list-and-dialer.html)
 * [2025-11-03, 13:56:21](https://news.ycombinator.com/item?id=45798975) - [She Was Ready to Have Her 15th Child. Then Came the Felony Charges](https://www.nytimes.com/2025/11/02/magazine/marybeth-lewis-13-children-felony-charges.html)
 * [2025-11-03, 13:56:11](https://news.ycombinator.com/item?id=45798973) - [Tech workers' fight for living wages and a 32-hour workweek is a battle for all](https://thechiefleader.com/stories/tech-workers-fight-for-living-wages-and-a-32-hour-workweek-is-a-battle-for-workers-everywhere,55298)
 * [2025-11-03, 13:48:39](https://news.ycombinator.com/item?id=45798898) - [The Problem with Farmed Seafood](https://nautil.us/the-problem-with-farmed-seafood-1243674/)
