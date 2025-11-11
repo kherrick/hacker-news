@@ -4,12 +4,18 @@
 
 ### [Archives](../../index.md) for [2025-11-11](index.md)
 
+* [2025-11-11, 21:03:19](https://news.ycombinator.com/item?id=45892809) - [CACM Practice Welcomes Submissions](https://dl.acm.org/doi/10.1145/3771297)
+* [2025-11-11, 21:00:35](https://news.ycombinator.com/item?id=45892773) - [Meticulous (YC S21) is hiring to redefine software dev](https://jobs.ashbyhq.com/meticulous/3197ae3d-bb26-4750-9ed7-b830f640515e)
+* [2025-11-11, 20:34:51](https://news.ycombinator.com/item?id=45892469) - [PBM Drug Pricing Distortion Report](https://www.46brooklyn.com/research/welcome-to-private-label-park-nuf485-8h5kw-wk8y2)
 * [2025-11-11, 20:27:38](https://news.ycombinator.com/item?id=45892394) - [Collaboration sucks](https://newsletter.posthog.com/p/collaboration-sucks)
 * [2025-11-11, 20:24:04](https://news.ycombinator.com/item?id=45892340) - [Microplastics: No Longer a \"Maybe\"](https://ibbi.io/mp)
+* [2025-11-11, 20:11:33](https://news.ycombinator.com/item?id=45892191) - [The Terminal of the Future](https://jyn.dev/the-terminal-of-the-future)
 * [2025-11-11, 20:10:24](https://news.ycombinator.com/item?id=45892174) - [Xortran - A PDP-11 Fortran Neural Network With Backpropagation](https://github.com/dbrll/Xortran)
+* [2025-11-11, 19:52:55](https://news.ycombinator.com/item?id=45891968) - [Adk-go: code-first Go toolkit for building, evaluating, and deploying AI agents](https://github.com/google/adk-go)
 * [2025-11-11, 19:48:19](https://news.ycombinator.com/item?id=45891907) - [A modern 35mm film scanner for home](https://www.soke.engineering/)
 * [2025-11-11, 19:46:09](https://news.ycombinator.com/item?id=45891879) - [The AI Surveillance Dystopia: Spying, Data Trafficking, & Corruption](https://store.gamersnexus.net/ai-dystopia)
 * [2025-11-11, 19:44:49](https://news.ycombinator.com/item?id=45891868) - [A Catalog of Side Effects](https://bernsteinbear.com/blog/compiler-effects/)
+* [2025-11-11, 19:40:15](https://news.ycombinator.com/item?id=45891817) - [Agentic Pelican on a Bicycle](https://www.robert-glaser.de/agentic-pelican-on-a-bicycle/)
 * [2025-11-11, 19:36:05](https://news.ycombinator.com/item?id=45891772) - [Vertical Integration is the only thing that matters](https://becca.ooo/blog/vertical-integration/)
 * [2025-11-11, 18:58:16](https://news.ycombinator.com/item?id=45891319) - [Show HN: Creavi Macropad – Built a wireless macropad with a display](https://creavi.tech/blog/creavi-macropad-build-log/)
 * [2025-11-11, 18:32:11](https://news.ycombinator.com/item?id=45891016) - [FFmpeg to Google: Fund Us or Stop Sending Bugs](https://thenewstack.io/ffmpeg-to-google-fund-us-or-stop-sending-bugs/)
