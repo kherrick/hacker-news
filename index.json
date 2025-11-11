@@ -1,12 +1,32 @@
 [
   [
     [
-      "2025-11-11, 13:14:46",
-      "https://news.ycombinator.com/item?id=45886917"
+      "2025-11-11, 14:36:31",
+      "https://news.ycombinator.com/item?id=45887709"
     ],
     [
-      "AI adoption in US adds ~900k tons of CO₂ annually, study finds",
-      "https://techxplore.com/news/2025-11-ai-tons-annually.html"
+      "Show HN: Gametje – A casual online gaming platform",
+      "https://gametje.com"
+    ]
+  ],
+  [
+    [
+      "2025-11-11, 14:34:54",
+      "https://news.ycombinator.com/item?id=45887699"
+    ],
+    [
+      "The department of war just shot the accountants and opted for speed",
+      "https://steveblank.com/2025/11/11/the-department-of-war-just-shot-the-accountants-and-opted-for-speed/"
+    ]
+  ],
+  [
+    [
+      "2025-11-11, 14:18:16",
+      "https://news.ycombinator.com/item?id=45887536"
+    ],
+    [
+      "Show HN: Tusk Drift – Open-source tool for automating API tests",
+      "https://github.com/Use-Tusk/drift-node-sdk"
     ]
   ],
   [
@@ -17,16 +37,6 @@
     [
       "Anxiety disorders tied to low levels of choline in the brain",
       "https://medicalxpress.com/news/2025-11-anxiety-disorders-essential-nutrient-brain.html"
-    ]
-  ],
-  [
-    [
-      "2025-11-11, 13:00:39",
-      "https://news.ycombinator.com/item?id=45886788"
-    ],
-    [
-      "Show HN: Linnix – eBPF observability that predicts failures before they happen",
-      "https://github.com/linnix-os/linnix"
     ]
   ],
   [
@@ -61,22 +71,22 @@
   ],
   [
     [
-      "2025-11-11, 11:33:49",
-      "https://news.ycombinator.com/item?id=45886191"
-    ],
-    [
-      "DARPA and Texas Bet $1.4B on Unique Foundry -3D heterogeneous integration",
-      "https://spectrum.ieee.org/3d-heterogeneous-integration"
-    ]
-  ],
-  [
-    [
       "2025-11-11, 11:31:08",
       "https://news.ycombinator.com/item?id=45886180"
     ],
     [
-      "On Trying Two Dozen Different Psychedelics",
+      "Trying two dozen different psychedelics",
       "https://psychotechnology.substack.com/p/on-trying-two-dozen-different-psychedelics"
+    ]
+  ],
+  [
+    [
+      "2025-11-11, 11:20:55",
+      "https://news.ycombinator.com/item?id=45886131"
+    ],
+    [
+      "OpenAI may not use lyrics without license, German court rules",
+      "https://www.reuters.com/world/german-court-sides-with-plaintiff-copyright-case-against-openai-2025-11-11/"
     ]
   ],
   [
@@ -91,11 +101,21 @@
   ],
   [
     [
+      "2025-11-11, 10:17:57",
+      "https://news.ycombinator.com/item?id=45885813"
+    ],
+    [
+      "iPhone Pocket",
+      "https://www.apple.com/newsroom/2025/11/introducing-iphone-pocket-a-beautiful-way-to-wear-and-carry-iphone/"
+    ]
+  ],
+  [
+    [
       "2025-11-11, 08:29:23",
       "https://news.ycombinator.com/item?id=45885242"
     ],
     [
-      "Why Effort Scales Superlinearly with the Perceived Quality of Creative Work",
+      "Why effort scales superlinearly with the perceived quality of creative work",
       "https://markusstrasser.org/creative-work-landscapes.html"
     ]
   ],
@@ -115,8 +135,28 @@
       "https://news.ycombinator.com/item?id=45884658"
     ],
     [
-      "The Write Last, Read First Rule",
+      "The write last, read first rule",
       "https://tigerbeetle.com/blog/2025-11-06-the-write-last-read-first-rule/"
+    ]
+  ],
+  [
+    [
+      "2025-11-11, 04:38:24",
+      "https://news.ycombinator.com/item?id=45884169"
+    ],
+    [
+      "AI documentation you can talk to, for every repo",
+      "https://deepwiki.com/"
+    ]
+  ],
+  [
+    [
+      "2025-11-11, 04:04:24",
+      "https://news.ycombinator.com/item?id=45883995"
+    ],
+    [
+      "Hiring a developer as a small indie studio in 2025",
+      "https://www.ballardgames.com/tales/hiring-dev-2025/"
     ]
   ],
   [
@@ -137,26 +177,6 @@
     [
       "High-performance 2D graphics rendering on the CPU using sparse strips [pdf]",
       "https://github.com/LaurenzV/master-thesis/blob/main/main.pdf"
-    ]
-  ],
-  [
-    [
-      "2025-11-10, 21:07:02",
-      "https://news.ycombinator.com/item?id=45880939"
-    ],
-    [
-      "Spatial intelligence is AI’s next frontier",
-      "https://drfeifei.substack.com/p/from-words-to-worlds-spatial-intelligence"
-    ]
-  ],
-  [
-    [
-      "2025-11-10, 19:28:07",
-      "https://news.ycombinator.com/item?id=45879793"
-    ],
-    [
-      "Using Generative AI in Content Production",
-      "https://partnerhelp.netflixstudios.com/hc/en-us/articles/43393929218323-Using-Generative-AI-in-Content-Production"
     ]
   ],
   [
@@ -191,16 +211,6 @@
   ],
   [
     [
-      "2025-11-09, 21:02:33",
-      "https://news.ycombinator.com/item?id=45869146"
-    ],
-    [
-      "Ask HN: What Are You Working On? (Nov 2025)",
-      "https://news.ycombinator.com/item?id=45869146"
-    ]
-  ],
-  [
-    [
       "2025-11-09, 18:29:43",
       "https://news.ycombinator.com/item?id=45867828"
     ],
@@ -221,32 +231,22 @@
   ],
   [
     [
+      "2025-11-07, 12:11:42",
+      "https://news.ycombinator.com/item?id=45845620"
+    ],
+    [
+      "SanDisk launches dongle-like Extreme Fit USB-C flash drive with up to 1 TB",
+      "https://www.notebookcheck.net/Sandisk-launches-dongle-like-Extreme-Fit-USB-C-flash-drive-with-up-to-1-TB-capacity.1156601.0.html"
+    ]
+  ],
+  [
+    [
       "2025-11-06, 20:57:09",
       "https://news.ycombinator.com/item?id=45840321"
     ],
     [
       "Unix v4 Tape Found",
       "https://discuss.systems/@ricci/115504720054699983"
-    ]
-  ],
-  [
-    [
-      "2025-11-06, 02:56:22",
-      "https://news.ycombinator.com/item?id=45830869"
-    ],
-    [
-      "Myna: monospace typeface designed for symbol-rich programming",
-      "https://github.com/sayyadirfanali/Myna"
-    ]
-  ],
-  [
-    [
-      "2025-11-05, 19:13:30",
-      "https://news.ycombinator.com/item?id=45826660"
-    ],
-    [
-      "Automating our home video imports",
-      "https://pierce.dev/notes/automating-our-home-video-imports"
     ]
   ],
   [
@@ -285,7 +285,7 @@
       "https://news.ycombinator.com/item?id=45801384"
     ],
     [
-      "Baby Shoggoth Is Listening",
+      "Baby shoggoth is listening",
       "https://theamericanscholar.org/baby-shoggoth-is-listening/"
     ]
   ],
