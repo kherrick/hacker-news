@@ -18,6 +18,7 @@
 * [2025-11-01, 22:07:49](https://news.ycombinator.com/item?id=45785858) - [OS maintained by a single developer since 1997: Visopsys](https://visopsys.org/)
 * [2025-11-01, 22:05:00](https://news.ycombinator.com/item?id=45785840) - [SailfishOS: A Linux-based European alternative to dominant mobile OSes](https://sailfishos.org/info/)
 * [2025-11-01, 21:58:22](https://news.ycombinator.com/item?id=45785794) - [AI Broke Interviews](https://yusufaytas.com/ai-broke-interviews/)
+* [2025-11-01, 21:00:33](https://news.ycombinator.com/item?id=45785300) - [I Fell in Love with Erlang](https://boragonul.com/post/falling-in-love-with-erlang)
 * [2025-11-01, 20:59:32](https://news.ycombinator.com/item?id=45785291) - [FFmpeg Dealing with a Security Researcher](https://twitter.com/ffmpeg/status/1984207514389586050)
 * [2025-11-01, 20:43:08](https://news.ycombinator.com/item?id=45785154) - [Think Weirder: The Year's Best SciFi Ideas](https://thinkweirder.com)
 * [2025-11-01, 19:57:23](https://news.ycombinator.com/item?id=45784810) - [Sam Altman tried to cancel his Tesla Roadster, but he was ghosted](https://electrek.co/2025/10/31/sam-altman-cancel-tesla-roadster-but-ghosted/)

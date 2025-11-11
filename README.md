@@ -25,10 +25,10 @@
 * [2025-11-05, 21:19:09](https://news.ycombinator.com/item?id=45828170) - [Shinigami the Reaper](https://mixedmartialarts.com/street/goth-nerd-tests-his-kenpo-skills-under-mma-rules/)
 * [2025-11-05, 19:13:30](https://news.ycombinator.com/item?id=45826660) - [Automating our home video imports](https://pierce.dev/notes/automating-our-home-video-imports)
 * [2025-11-05, 00:22:16](https://news.ycombinator.com/item?id=45817559) - [The physics of news, rumors, and opinions](https://arxiv.org/abs/2510.15053)
-* [2025-11-04, 13:14:26](https://news.ycombinator.com/item?id=45810658) - [The Paranoid Guide to Running Copilot CLI in a Secure Docker Sandbox](https://gordonbeeming.com/blog/2025-10-03/taming-the-ai-my-paranoid-guide-to-running-copilot-cli-in-a-secure-docker-sandbox)
 * [2025-11-04, 12:16:54](https://news.ycombinator.com/item?id=45810048) - [When Soviet-made cars roamed Singapore roads](https://remembersingapore.org/2025/10/30/soviet-made-cars-singapore-70s-to-90s/)
 * [2025-11-04, 03:05:19](https://news.ycombinator.com/item?id=45807052) - [Real VT102 Emulation with MAME](https://zork.net/~st/jottings/Real-VT102-emulation-with-MAME.html)
 * [2025-11-03, 17:49:25](https://news.ycombinator.com/item?id=45801966) - [Dependent types and how to get rid of them](https://chadnauseam.com/coding/pltd/are-dependent-types-actually-erased)
+* [2025-11-01, 21:00:33](https://news.ycombinator.com/item?id=45785300) - [I Fell in Love with Erlang](https://boragonul.com/post/falling-in-love-with-erlang)
 * [2025-11-01, 14:02:57](https://news.ycombinator.com/item?id=45781725) - [How to create accessible PDFs from the start](https://typst.app/blog/2025/accessible-pdf/)
 
 ## [Archives](archives/index.md)
