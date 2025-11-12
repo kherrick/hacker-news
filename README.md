@@ -1,8 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-11-12, 05:44:10](https://news.ycombinator.com/item?id=45896733) - [Bjarne fix your freaking language](https://marler8997.github.io/blog/bjarne-fix-your-language/)
 * [2025-11-12, 03:34:32](https://news.ycombinator.com/item?id=45896130) - [Perkeep – Personal storage system for life](https://perkeep.org/)
 * [2025-11-11, 23:59:49](https://news.ycombinator.com/item?id=45894588) - [Why Nietzsche matters in the age of artificial intelligence](https://cacm.acm.org/blogcacm/why-nietzsche-matters-in-the-age-of-artificial-intelligence/)
-* [2025-11-11, 22:50:32](https://news.ycombinator.com/item?id=45893986) - [.NET MAUI is coming to Linux and the browser, powered by Avalonia](https://avaloniaui.net/blog/net-maui-is-coming-to-linux-and-the-browser-powered-by-avalonia)
+* [2025-11-11, 22:50:32](https://news.ycombinator.com/item?id=45893986) - [.NET MAUI is coming to Linux and the browser](https://avaloniaui.net/blog/net-maui-is-coming-to-linux-and-the-browser-powered-by-avalonia)
 * [2025-11-11, 22:31:41](https://news.ycombinator.com/item?id=45893795) - [Four strange places to see London's Roman Wall](https://diamondgeezer.blogspot.com/2025/11/odd-places-to-see-londons-roman-wall.html)
 * [2025-11-11, 22:18:17](https://news.ycombinator.com/item?id=45893646) - [Heroku Support for .NET 10](https://www.heroku.com/blog/support-for-dotnet-10-lts-what-developers-need-know/)
 * [2025-11-11, 21:25:19](https://news.ycombinator.com/item?id=45893095) - [I didn't reverse-engineer the protocol for my blood pressure monitor in 24 hours](https://james.belchamber.com/articles/blood-pressure-monitor-reverse-engineering/)
@@ -25,11 +26,10 @@
 * [2025-11-07, 06:16:57](https://news.ycombinator.com/item?id=45843954) - [A Treatise on the All-Healing Qualities of Earth Bathing (1790)](https://publicdomainreview.org/collection/earth-bathing/)
 * [2025-11-07, 06:08:09](https://news.ycombinator.com/item?id=45843927) - [Modern Optimizers – An Alchemist's Notes on Deep Learning](https://notes.kvfrans.com/7-misc/modern-optimizers.html)
 * [2025-11-07, 04:38:28](https://news.ycombinator.com/item?id=45843600) - [Array-programming the Mandelbrot set](https://jcmorrow.com/mandelbrot/)
-* [2025-11-06, 23:47:39](https://news.ycombinator.com/item?id=45841998) - [Learning to Model the World with Language](https://dynalang.github.io/)
 * [2025-11-06, 01:04:23](https://news.ycombinator.com/item?id=45830178) - [My fan worked fine, so I gave it WiFi](https://ellis.codes/blog/my-fan-worked-fine-so-i-gave-it-wi-fi/)
 * [2025-11-06, 00:09:05](https://news.ycombinator.com/item?id=45829790) - [Bluetooth 6.2 – more responsive, improves security, USB comms, and testing](https://www.cnx-software.com/2025/11/05/bluetooth-6-2-gets-more-responsive-improves-security-usb-communication-and-testing-capabilities/)
 * [2025-11-03, 16:27:33](https://news.ycombinator.com/item?id=45800843) - [Metaphors for Biology: Sizes](https://press.asimov.com/articles/metaphors-size)
-* [2025-11-02, 11:58:52](https://news.ycombinator.com/item?id=45789674) - [Laptops adorned with creative stickers](https://stickertop.art/main/)
+* [2025-11-02, 11:58:52](https://news.ycombinator.com/item?id=45789674) - [Laptops with Stickers](https://stickertop.art/main/)
 
 ## [Archives](archives/index.md)
 
