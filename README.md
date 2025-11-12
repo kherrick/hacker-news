@@ -17,7 +17,6 @@
 * [2025-11-11, 19:44:49](https://news.ycombinator.com/item?id=45891868) - [A catalog of side effects](https://bernsteinbear.com/blog/compiler-effects/)
 * [2025-11-11, 19:40:15](https://news.ycombinator.com/item?id=45891817) - [Agentic pelican on a bicycle](https://www.robert-glaser.de/agentic-pelican-on-a-bicycle/)
 * [2025-11-11, 18:32:11](https://news.ycombinator.com/item?id=45891016) - [FFmpeg to Google: Fund us or stop sending bugs](https://thenewstack.io/ffmpeg-to-google-fund-us-or-stop-sending-bugs/)
-* [2025-11-11, 18:07:51](https://news.ycombinator.com/item?id=45890726) - [Terminal Latency on Windows (2024)](https://chadaustin.me/2024/02/windows-terminal-latency/)
 * [2025-11-11, 17:26:54](https://news.ycombinator.com/item?id=45890186) - [We ran over 600 image generations to compare AI image models](https://latenitesoft.com/blog/evaluating-frontier-ai-image-generation-models/)
 * [2025-11-11, 14:58:47](https://news.ycombinator.com/item?id=45887957) - [Pikaday: A friendly guide to front-end date pickers](https://pikaday.dbushell.com)
 * [2025-11-11, 14:34:54](https://news.ycombinator.com/item?id=45887699) - [The Department of War just shot the accountants and opted for speed](https://steveblank.com/2025/11/11/the-department-of-war-just-shot-the-accountants-and-opted-for-speed/)
@@ -29,6 +28,7 @@
 * [2025-11-06, 01:04:23](https://news.ycombinator.com/item?id=45830178) - [My fan worked fine, so I gave it WiFi](https://ellis.codes/blog/my-fan-worked-fine-so-i-gave-it-wi-fi/)
 * [2025-11-06, 00:09:05](https://news.ycombinator.com/item?id=45829790) - [Bluetooth 6.2 – more responsive, improves security, USB comms, and testing](https://www.cnx-software.com/2025/11/05/bluetooth-6-2-gets-more-responsive-improves-security-usb-communication-and-testing-capabilities/)
 * [2025-11-04, 12:03:02](https://news.ycombinator.com/item?id=45809975) - [Fixing LCD Screen Corruption of a Tektronix TDS220 Oscilloscope](https://tomverbeure.github.io/2025/11/03/TDS220-LCD-Corruption-Fix.html)
+* [2025-11-03, 06:51:59](https://news.ycombinator.com/item?id=45796476) - [Dynamically include files in GitLab-CI](https://www.zufallsheld.de/2025/10/03/dynamic-gitlab-ci-includes/)
 * [2025-11-02, 11:58:52](https://news.ycombinator.com/item?id=45789674) - [Laptops with Stickers](https://stickertop.art/main/)
 
 ## [Archives](archives/index.md)
