@@ -84,6 +84,7 @@
 * [2025-11-03, 11:22:59](https://news.ycombinator.com/item?id=45797934) - [Update and shut down no longer restarts PC, 25H2 patch addresses decades-old bug](https://www.windowslatest.com/2025/11/02/update-and-shut-down-no-longer-restarts-pc-as-windows-11-25h2-patch-addresses-a-decades-old-bug/)
 * [2025-11-03, 11:01:00](https://news.ycombinator.com/item?id=45797832) - [Ask HN: I underestimated how lonely building solo can be](https://news.ycombinator.com/item?id=45797832)
 * [2025-11-03, 10:47:11](https://news.ycombinator.com/item?id=45797740) - [Nvidia to invest up to $1B in AI startup Poolside](https://www.reuters.com/business/nvidia-invest-up-1-billion-ai-startup-poolside-bloomberg-news-reports-2025-10-30/)
+* [2025-11-03, 09:33:57](https://news.ycombinator.com/item?id=45797337) - [Stochastic Computing](https://scottlocklin.wordpress.com/2025/10/31/stochastic-computing/)
 * [2025-11-03, 09:20:01](https://news.ycombinator.com/item?id=45797242) - [Tiny electric motor outperforms record holder by 40%](https://supercarblondie.com/electric-motor-yasa-more-powerful-tesla-mercedes/)
 * [2025-11-03, 09:17:06](https://news.ycombinator.com/item?id=45797228) - [Absurd Workflows: Durable Execution with Just Postgres](https://lucumr.pocoo.org/2025/11/3/absurd-workflows/)
 * [2025-11-03, 08:46:51](https://news.ycombinator.com/item?id=45797083) - [How to build your own VPN, or: the history of WARP](https://blog.cloudflare.com/how-to-build-your-own-vpn-or-the-history-of-warp/)
