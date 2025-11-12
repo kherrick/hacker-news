@@ -15,7 +15,7 @@
       "https://news.ycombinator.com/item?id=45905408"
     ],
     [
-      "GLP-1 Drugs Linked to Dramatically Lower Death Rates in Colon Cancer Patients",
+      "GLP-1 drugs linked to lower death rates in colon cancer patients",
       "https://today.ucsd.edu/story/glp-1-drugs-linked-to-dramatically-lower-death-rates-in-colon-cancer-patients"
     ]
   ],
@@ -27,16 +27,6 @@
     [
       "Is your electric bill going up? AI is partly to blame",
       "https://www.npr.org/2025/11/06/nx-s1-5597971/electricity-bills-utilities-ai"
-    ]
-  ],
-  [
-    [
-      "2025-11-12, 19:05:41",
-      "https://news.ycombinator.com/item?id=45904551"
-    ],
-    [
-      "GPT-5.1: A smarter, more conversational ChatGPT",
-      "https://openai.com/index/gpt-5-1/"
     ]
   ],
   [
@@ -257,6 +247,16 @@
     [
       ".NET 10",
       "https://devblogs.microsoft.com/dotnet/announcing-dotnet-10/"
+    ]
+  ],
+  [
+    [
+      "2025-11-09, 19:26:29",
+      "https://news.ycombinator.com/item?id=45868357"
+    ],
+    [
+      "Building a CI/CD Pipeline Runner from Scratch in Python",
+      "https://muhammadraza.me/2025/building-cicd-pipeline-runner-python/"
     ]
   ],
   [
