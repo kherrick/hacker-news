@@ -4,7 +4,11 @@
 
 ### [Archives](../../index.md) for [2025-11-12](index.md)
 
+* [2025-11-12, 16:17:58](https://news.ycombinator.com/item?id=45901996) - [The PowerPC Has Still Got It (Llama on G4 Laptop)](https://www.hackster.io/news/the-powerpc-has-still-got-it-c4348bd7a88c)
 * [2025-11-12, 16:10:13](https://news.ycombinator.com/item?id=45901904) - [The last-ever penny will be minted today in Philadelphia](https://www.cnn.com/2025/11/12/business/last-penny-minted)
+* [2025-11-12, 16:07:30](https://news.ycombinator.com/item?id=45901869) - [Kubernetes Is Your Private Cloud](https://oneuptime.com/blog/post/2025-11-12-kubernetes-is-your-private-cloud/view)
+* [2025-11-12, 16:06:29](https://news.ycombinator.com/item?id=45901855) - [Waymo begins freeway rides for the public](https://techcrunch.com/2025/11/12/waymo-robotaxis-are-now-giving-rides-on-freeways-in-these-3-cities/)
+* [2025-11-12, 15:58:54](https://news.ycombinator.com/item?id=45901751) - [The Duties of John von Neumann's Assistant in the 1930s (2020)](https://www.cantorsparadise.com/the-duties-of-john-von-neumanns-assistant-in-the-1930s-8d08e538fe2b)
 * [2025-11-12, 15:37:22](https://news.ycombinator.com/item?id=45901464) - [Two women had a business meeting. AI called it childcare](https://medium.com/hold-my-juice/two-women-had-a-business-meeting-ai-called-it-childcare-6b09f5952940)
 * [2025-11-12, 15:08:35](https://news.ycombinator.com/item?id=45901149) - [Fungus in Chernobyl nuclear disaster zone has mutated to 'feed' on radiation](https://www.unilad.com/news/world-news/fungus-chernobyl-mutated-feed-radiation-164735-20241217)
 * [2025-11-12, 14:54:27](https://news.ycombinator.com/item?id=45900978) - [Learn Prolog Now](https://lpn.swi-prolog.org/lpnpage.php?pageid=top)
