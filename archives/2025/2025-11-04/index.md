@@ -87,6 +87,7 @@
 * [2025-11-04, 09:11:27](https://news.ycombinator.com/item?id=45808918) - [Show HN: Yourshoesmells.com – Find the most smelly boulder gym](https://yourshoesmells.com)
 * [2025-11-04, 09:08:23](https://news.ycombinator.com/item?id=45808899) - [JVM exceptions are weird: a decompiler perspective](https://purplesyringa.moe/blog/jvm-exceptions-are-weird-a-decompiler-perspective/)
 * [2025-11-04, 09:02:49](https://news.ycombinator.com/item?id=45808863) - [From web developer to database developer in 10 years](https://notes.eatonphil.com/2025-02-15-from-web-developer-to-database-developer-in-10-years.html)
+* [2025-11-04, 08:28:01](https://news.ycombinator.com/item?id=45808693) - [A behind-the-scenes look at Broadcom's design labs](https://www.techbrew.com/stories/2025/11/03/broadcom-design-labs-tour)
 * [2025-11-04, 08:27:23](https://news.ycombinator.com/item?id=45808690) - [Some software bloat is OK](https://waspdev.com/articles/2025-11-04/some-software-bloat-is-ok)
 * [2025-11-04, 08:19:41](https://news.ycombinator.com/item?id=45808633) - [Dempster-shafer and reasoning about sets](https://emiruz.com/post/2025-10-30-epistemics/)
 * [2025-11-04, 07:37:41](https://news.ycombinator.com/item?id=45808383) - [What If Java Had Symmetric Converter Methods on Collection?](https://donraab.medium.com/what-if-java-had-symmetric-converter-methods-on-collection-cbb824885c3f)

@@ -4,7 +4,6 @@
 * [2025-11-12, 06:58:06](https://news.ycombinator.com/item?id=45897122) - [Simulating a Planet on the GPU: Part 1 (2022)](https://www.patrickcelentano.com/blog/planet-sim-part-1)
 * [2025-11-12, 06:37:13](https://news.ycombinator.com/item?id=45897016) - [You will own nothing and be (un)happy](https://racc.blog/you-will-own-nothing-and-be-unhappy/)
 * [2025-11-12, 05:44:10](https://news.ycombinator.com/item?id=45896733) - [Problems with C++ exceptions](https://marler8997.github.io/blog/bjarne-fix-your-language/)
-* [2025-11-12, 05:36:41](https://news.ycombinator.com/item?id=45896707) - [Hard drives on backorder for two years as AI data centers trigger HDD shortage](https://www.tomshardware.com/pc-components/hdds/ai-triggers-hard-drive-shortage-amidst-dram-squeeze-enterprise-hard-drives-on-backorder-by-2-years-as-hyperscalers-switch-to-qlc-ssds)
 * [2025-11-12, 03:34:32](https://news.ycombinator.com/item?id=45896130) - [Perkeep – Personal storage system for life](https://perkeep.org/)
 * [2025-11-11, 23:59:49](https://news.ycombinator.com/item?id=45894588) - [Why Nietzsche matters in the age of artificial intelligence](https://cacm.acm.org/blogcacm/why-nietzsche-matters-in-the-age-of-artificial-intelligence/)
 * [2025-11-11, 22:50:32](https://news.ycombinator.com/item?id=45893986) - [.NET MAUI is coming to Linux and the browser](https://avaloniaui.net/blog/net-maui-is-coming-to-linux-and-the-browser-powered-by-avalonia)
@@ -28,6 +27,7 @@
 * [2025-11-06, 01:04:23](https://news.ycombinator.com/item?id=45830178) - [My fan worked fine, so I gave it WiFi](https://ellis.codes/blog/my-fan-worked-fine-so-i-gave-it-wi-fi/)
 * [2025-11-06, 00:09:05](https://news.ycombinator.com/item?id=45829790) - [Bluetooth 6.2 – more responsive, improves security, USB comms, and testing](https://www.cnx-software.com/2025/11/05/bluetooth-6-2-gets-more-responsive-improves-security-usb-communication-and-testing-capabilities/)
 * [2025-11-04, 12:03:02](https://news.ycombinator.com/item?id=45809975) - [Fixing LCD Screen Corruption of a Tektronix TDS220 Oscilloscope](https://tomverbeure.github.io/2025/11/03/TDS220-LCD-Corruption-Fix.html)
+* [2025-11-04, 08:28:01](https://news.ycombinator.com/item?id=45808693) - [A behind-the-scenes look at Broadcom's design labs](https://www.techbrew.com/stories/2025/11/03/broadcom-design-labs-tour)
 * [2025-11-03, 09:33:57](https://news.ycombinator.com/item?id=45797337) - [Stochastic computing](https://scottlocklin.wordpress.com/2025/10/31/stochastic-computing/)
 * [2025-11-02, 11:58:52](https://news.ycombinator.com/item?id=45789674) - [Laptops with Stickers](https://stickertop.art/main/)
 
