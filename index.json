@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-11-12, 17:02:38",
+      "https://news.ycombinator.com/item?id=45902604"
+    ],
+    [
+      "Helm v4.0.0",
+      "https://github.com/helm/helm/releases/tag/v4.0.0"
+    ]
+  ],
+  [
+    [
       "2025-11-12, 16:17:58",
       "https://news.ycombinator.com/item?id=45901996"
     ],
@@ -27,16 +37,6 @@
     [
       "Waymo begins freeway rides for the public",
       "https://techcrunch.com/2025/11/12/waymo-robotaxis-are-now-giving-rides-on-freeways-in-these-3-cities/"
-    ]
-  ],
-  [
-    [
-      "2025-11-12, 15:20:08",
-      "https://news.ycombinator.com/item?id=45901274"
-    ],
-    [
-      "Testing out Crush, a TUI based coding agent",
-      "https://grahamhelton.com/blog/crushing-it"
     ]
   ],
   [
