@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-11-12, 11:17:06](https://news.ycombinator.com/item?id=45898789) - [Pakistani newspaper mistakenly prints AI prompt with the article](https://twitter.com/omar_quraishi/status/1988518627859951986)
 * [2025-11-12, 09:01:41](https://news.ycombinator.com/item?id=45897935) - [What happened to Transmeta, the last big dotcom IPO](https://dfarq.homeip.net/what-happened-to-transmeta-the-last-big-dotcom-ipo/)
 * [2025-11-12, 07:56:35](https://news.ycombinator.com/item?id=45897457) - [Please donate to keep Network Time Protocol up – Goal 1k](https://www.ntp.org/)
 * [2025-11-12, 07:25:30](https://news.ycombinator.com/item?id=45897271) - [Yann LeCun to depart Meta and launch AI startup focused on 'world models'](https://www.nasdaq.com/articles/metas-chief-ai-scientist-yann-lecun-depart-and-launch-ai-start-focused-world-models)
@@ -12,10 +13,9 @@
 * [2025-11-11, 22:18:17](https://news.ycombinator.com/item?id=45893646) - [Heroku Support for .NET 10](https://www.heroku.com/blog/support-for-dotnet-10-lts-what-developers-need-know/)
 * [2025-11-11, 21:25:19](https://news.ycombinator.com/item?id=45893095) - [I didn't reverse-engineer the protocol for my blood pressure monitor in 24 hours](https://james.belchamber.com/articles/blood-pressure-monitor-reverse-engineering/)
 * [2025-11-11, 21:18:26](https://news.ycombinator.com/item?id=45893004) - [X5.1 solar flare, G4 geomagnetic storm watch](https://www.spaceweatherlive.com/en/news/view/593/20251111-x5-1-solar-flare-g4-geomagnetic-storm-watch.html)
+* [2025-11-11, 21:00:35](https://news.ycombinator.com/item?id=45892773) - [Meticulous (YC S21) is hiring to redefine software dev](https://jobs.ashbyhq.com/meticulous/3197ae3d-bb26-4750-9ed7-b830f640515e)
 * [2025-11-11, 20:11:33](https://news.ycombinator.com/item?id=45892191) - [The terminal of the future](https://jyn.dev/the-terminal-of-the-future)
 * [2025-11-11, 19:48:19](https://news.ycombinator.com/item?id=45891907) - [A modern 35mm film scanner for home](https://www.soke.engineering/)
-* [2025-11-11, 19:44:49](https://news.ycombinator.com/item?id=45891868) - [A catalog of side effects](https://bernsteinbear.com/blog/compiler-effects/)
-* [2025-11-11, 19:40:15](https://news.ycombinator.com/item?id=45891817) - [Agentic pelican on a bicycle](https://www.robert-glaser.de/agentic-pelican-on-a-bicycle/)
 * [2025-11-11, 18:32:11](https://news.ycombinator.com/item?id=45891016) - [FFmpeg to Google: Fund us or stop sending bugs](https://thenewstack.io/ffmpeg-to-google-fund-us-or-stop-sending-bugs/)
 * [2025-11-11, 17:26:54](https://news.ycombinator.com/item?id=45890186) - [We ran over 600 image generations to compare AI image models](https://latenitesoft.com/blog/evaluating-frontier-ai-image-generation-models/)
 * [2025-11-11, 15:44:35](https://news.ycombinator.com/item?id=45888620) - [.NET 10](https://devblogs.microsoft.com/dotnet/announcing-dotnet-10/)
