@@ -1,6 +1,36 @@
 [
   [
     [
+      "2025-11-11, 23:59:49",
+      "https://news.ycombinator.com/item?id=45894588"
+    ],
+    [
+      "Why Nietzsche Matters in the Age of Artificial Intelligence",
+      "https://cacm.acm.org/blogcacm/why-nietzsche-matters-in-the-age-of-artificial-intelligence/"
+    ]
+  ],
+  [
+    [
+      "2025-11-11, 23:58:08",
+      "https://news.ycombinator.com/item?id=45894569"
+    ],
+    [
+      "I can build enterprise software but I can't charge for it",
+      "https://gist.github.com/EchenD/8b211ebfa4941d2c5df7b526790b31aa"
+    ]
+  ],
+  [
+    [
+      "2025-11-11, 23:06:40",
+      "https://news.ycombinator.com/item?id=45894145"
+    ],
+    [
+      "Who Still Uses Cash?",
+      "https://www.voronoiapp.com/economy/Who-Still-Uses-Cash-7090"
+    ]
+  ],
+  [
+    [
       "2025-11-11, 22:50:32",
       "https://news.ycombinator.com/item?id=45893986"
     ],
@@ -17,6 +47,16 @@
     [
       "Four strange places to see London's Roman Wall",
       "https://diamondgeezer.blogspot.com/2025/11/odd-places-to-see-londons-roman-wall.html"
+    ]
+  ],
+  [
+    [
+      "2025-11-11, 22:18:17",
+      "https://news.ycombinator.com/item?id=45893646"
+    ],
+    [
+      "Heroku Support for .NET 10",
+      "https://www.heroku.com/blog/support-for-dotnet-10-lts-what-developers-need-know/"
     ]
   ],
   [
@@ -121,16 +161,6 @@
   ],
   [
     [
-      "2025-11-11, 19:36:05",
-      "https://news.ycombinator.com/item?id=45891772"
-    ],
-    [
-      "Vertical integration is the only thing that matters",
-      "https://becca.ooo/blog/vertical-integration/"
-    ]
-  ],
-  [
-    [
       "2025-11-11, 18:32:11",
       "https://news.ycombinator.com/item?id=45891016"
     ],
@@ -167,16 +197,6 @@
     [
       "Cache-friendly, low-memory Lanczos algorithm in Rust",
       "https://lukefleed.xyz/posts/cache-friendly-low-memory-lanczos/"
-    ]
-  ],
-  [
-    [
-      "2025-11-11, 17:01:07",
-      "https://news.ycombinator.com/item?id=45889793"
-    ],
-    [
-      "Show HN: Cactoide – Federated RSVP Platform",
-      "https://cactoide.org/"
     ]
   ],
   [
@@ -231,16 +251,6 @@
   ],
   [
     [
-      "2025-11-07, 08:00:08",
-      "https://news.ycombinator.com/item?id=45844419"
-    ],
-    [
-      "The R47: A new physical RPN calculator",
-      "https://www.swissmicros.com/product/model-r47"
-    ]
-  ],
-  [
-    [
       "2025-11-07, 04:38:28",
       "https://news.ycombinator.com/item?id=45843600"
     ],
@@ -251,32 +261,22 @@
   ],
   [
     [
+      "2025-11-06, 23:47:39",
+      "https://news.ycombinator.com/item?id=45841998"
+    ],
+    [
+      "Learning to Model the World with Language",
+      "https://dynalang.github.io/"
+    ]
+  ],
+  [
+    [
       "2025-11-06, 01:04:23",
       "https://news.ycombinator.com/item?id=45830178"
     ],
     [
       "My fan worked fine, so I gave it WiFi",
       "https://ellis.codes/blog/my-fan-worked-fine-so-i-gave-it-wi-fi/"
-    ]
-  ],
-  [
-    [
-      "2025-11-04, 23:18:04",
-      "https://news.ycombinator.com/item?id=45817027"
-    ],
-    [
-      "Étude in C minor (2020)",
-      "https://zserge.com/posts/etude-in-c/"
-    ]
-  ],
-  [
-    [
-      "2025-11-03, 15:27:35",
-      "https://news.ycombinator.com/item?id=45800094"
-    ],
-    [
-      "AV1 vs. H.264: What Video Codec to Choose for Your App?",
-      "https://www.red5.net/blog/av1-vs-h264/"
     ]
   ],
   [
