@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-11-12](index.md)
 
+* [2025-11-12, 19:53:25](https://news.ycombinator.com/item?id=45905451) - [LLM Output Drift in Financial Workflows: Validation and Mitigation (arXiv)](https://arxiv.org/abs/2511.07585)
+* [2025-11-12, 19:50:32](https://news.ycombinator.com/item?id=45905408) - [GLP-1 Drugs Linked to Dramatically Lower Death Rates in Colon Cancer Patients](https://today.ucsd.edu/story/glp-1-drugs-linked-to-dramatically-lower-death-rates-in-colon-cancer-patients)
 * [2025-11-12, 19:21:09](https://news.ycombinator.com/item?id=45904860) - [Is your electric bill going up? AI is partly to blame](https://www.npr.org/2025/11/06/nx-s1-5597971/electricity-bills-utilities-ai)
 * [2025-11-12, 19:05:41](https://news.ycombinator.com/item?id=45904551) - [GPT-5.1: A smarter, more conversational ChatGPT](https://openai.com/index/gpt-5-1/)
 * [2025-11-12, 18:46:40](https://news.ycombinator.com/item?id=45904161) - [Blasting Yeast with UV Light](https://chillphysicsenjoyer.substack.com/p/results-from-blasting-yeast-with)

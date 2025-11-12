@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-11-12, 19:53:25](https://news.ycombinator.com/item?id=45905451) - [LLM Output Drift in Financial Workflows: Validation and Mitigation (arXiv)](https://arxiv.org/abs/2511.07585)
+* [2025-11-12, 19:50:32](https://news.ycombinator.com/item?id=45905408) - [GLP-1 Drugs Linked to Dramatically Lower Death Rates in Colon Cancer Patients](https://today.ucsd.edu/story/glp-1-drugs-linked-to-dramatically-lower-death-rates-in-colon-cancer-patients)
 * [2025-11-12, 19:21:09](https://news.ycombinator.com/item?id=45904860) - [Is your electric bill going up? AI is partly to blame](https://www.npr.org/2025/11/06/nx-s1-5597971/electricity-bills-utilities-ai)
 * [2025-11-12, 19:05:41](https://news.ycombinator.com/item?id=45904551) - [GPT-5.1: A smarter, more conversational ChatGPT](https://openai.com/index/gpt-5-1/)
 * [2025-11-12, 18:46:40](https://news.ycombinator.com/item?id=45904161) - [Blasting Yeast with UV Light](https://chillphysicsenjoyer.substack.com/p/results-from-blasting-yeast-with)
@@ -23,9 +25,7 @@
 * [2025-11-12, 10:12:53](https://news.ycombinator.com/item?id=45898407) - [Yt-dlp: External JavaScript runtime now required for full YouTube support](https://github.com/yt-dlp/yt-dlp/issues/15012)
 * [2025-11-12, 09:01:41](https://news.ycombinator.com/item?id=45897935) - [What happened to Transmeta, the last big dotcom IPO](https://dfarq.homeip.net/what-happened-to-transmeta-the-last-big-dotcom-ipo/)
 * [2025-11-12, 07:25:30](https://news.ycombinator.com/item?id=45897271) - [Yann LeCun to depart Meta and launch AI startup focused on 'world models'](https://www.nasdaq.com/articles/metas-chief-ai-scientist-yann-lecun-depart-and-launch-ai-start-focused-world-models)
-* [2025-11-12, 05:36:41](https://news.ycombinator.com/item?id=45896707) - [Hard drives on backorder for two years as AI data centers trigger HDD shortage](https://www.tomshardware.com/pc-components/hdds/ai-triggers-hard-drive-shortage-amidst-dram-squeeze-enterprise-hard-drives-on-backorder-by-2-years-as-hyperscalers-switch-to-qlc-ssds)
 * [2025-11-11, 15:44:35](https://news.ycombinator.com/item?id=45888620) - [.NET 10](https://devblogs.microsoft.com/dotnet/announcing-dotnet-10/)
-* [2025-11-09, 19:26:29](https://news.ycombinator.com/item?id=45868357) - [Building a CI/CD Pipeline Runner from Scratch in Python](https://muhammadraza.me/2025/building-cicd-pipeline-runner-python/)
 * [2025-11-09, 13:56:53](https://news.ycombinator.com/item?id=45865646) - [The Single Byte That Kills Your Exploit: Understanding Endianness](https://pwnforfunandprofit.substack.com/p/the-single-byte-that-kills-your-exploit)
 * [2025-11-05, 19:07:20](https://news.ycombinator.com/item?id=45826596) - [Archive or Delete?](https://email-is-good.com/2025/11/05/archive-or-delete/)
 * [2025-11-04, 13:52:43](https://news.ycombinator.com/item?id=45811026) - [NetHack4 Philosophy](http://nethack4.org/philosophy.html)
