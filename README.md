@@ -1,9 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-11-11, 23:59:49](https://news.ycombinator.com/item?id=45894588) - [Why Nietzsche Matters in the Age of Artificial Intelligence](https://cacm.acm.org/blogcacm/why-nietzsche-matters-in-the-age-of-artificial-intelligence/)
-* [2025-11-11, 23:58:08](https://news.ycombinator.com/item?id=45894569) - [I can build enterprise software but I can't charge for it](https://gist.github.com/EchenD/8b211ebfa4941d2c5df7b526790b31aa)
-* [2025-11-11, 23:06:40](https://news.ycombinator.com/item?id=45894145) - [Who Still Uses Cash?](https://www.voronoiapp.com/economy/Who-Still-Uses-Cash-7090)
-* [2025-11-11, 22:50:32](https://news.ycombinator.com/item?id=45893986) - [.NET MAUI Is Coming to Linux and the Browser, Powered by Avalonia](https://avaloniaui.net/blog/net-maui-is-coming-to-linux-and-the-browser-powered-by-avalonia)
+* [2025-11-11, 22:50:32](https://news.ycombinator.com/item?id=45893986) - [.NET MAUI is coming to Linux and the browser, powered by Avalonia](https://avaloniaui.net/blog/net-maui-is-coming-to-linux-and-the-browser-powered-by-avalonia)
 * [2025-11-11, 22:31:41](https://news.ycombinator.com/item?id=45893795) - [Four strange places to see London's Roman Wall](https://diamondgeezer.blogspot.com/2025/11/odd-places-to-see-londons-roman-wall.html)
 * [2025-11-11, 22:18:17](https://news.ycombinator.com/item?id=45893646) - [Heroku Support for .NET 10](https://www.heroku.com/blog/support-for-dotnet-10-lts-what-developers-need-know/)
 * [2025-11-11, 21:25:19](https://news.ycombinator.com/item?id=45893095) - [I didn't reverse-engineer the protocol for my blood pressure monitor in 24 hours](https://james.belchamber.com/articles/blood-pressure-monitor-reverse-engineering/)
@@ -25,11 +23,13 @@
 * [2025-11-11, 14:11:49](https://news.ycombinator.com/item?id=45887466) - [Scaling HNSWs](https://antirez.com/news/156)
 * [2025-11-11, 10:17:57](https://news.ycombinator.com/item?id=45885813) - [iPhone Pocket](https://www.apple.com/newsroom/2025/11/introducing-iphone-pocket-a-beautiful-way-to-wear-and-carry-iphone/)
 * [2025-11-08, 22:16:40](https://news.ycombinator.com/item?id=45860552) - [The history of Casio watches](https://www.casio.com/us/watches/50th/Heritage/1970s/)
+* [2025-11-07, 06:16:57](https://news.ycombinator.com/item?id=45843954) - [A Treatise on the All-Healing Qualities of Earth Bathing (1790)](https://publicdomainreview.org/collection/earth-bathing/)
+* [2025-11-07, 06:08:09](https://news.ycombinator.com/item?id=45843927) - [Modern Optimizers – An Alchemist's Notes on Deep Learning](https://notes.kvfrans.com/7-misc/modern-optimizers.html)
 * [2025-11-07, 04:38:28](https://news.ycombinator.com/item?id=45843600) - [Array-programming the Mandelbrot set](https://jcmorrow.com/mandelbrot/)
 * [2025-11-06, 23:47:39](https://news.ycombinator.com/item?id=45841998) - [Learning to Model the World with Language](https://dynalang.github.io/)
 * [2025-11-06, 01:04:23](https://news.ycombinator.com/item?id=45830178) - [My fan worked fine, so I gave it WiFi](https://ellis.codes/blog/my-fan-worked-fine-so-i-gave-it-wi-fi/)
+* [2025-11-04, 23:18:04](https://news.ycombinator.com/item?id=45817027) - [Étude in C minor (2020)](https://zserge.com/posts/etude-in-c/)
 * [2025-11-02, 11:58:52](https://news.ycombinator.com/item?id=45789674) - [Laptops adorned with creative stickers](https://stickertop.art/main/)
-* [2025-11-01, 21:00:33](https://news.ycombinator.com/item?id=45785300) - [How I fell in love with Erlang](https://boragonul.com/post/falling-in-love-with-erlang)
 
 ## [Archives](archives/index.md)
 
