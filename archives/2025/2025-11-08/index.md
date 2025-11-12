@@ -48,6 +48,7 @@
 * [2025-11-08, 13:36:30](https://news.ycombinator.com/item?id=45856563) - [Why hasn't there been a new major sports league?](https://humaninvariant.substack.com/p/why-hasnt-there-been-a-new-major)
 * [2025-11-08, 12:16:22](https://news.ycombinator.com/item?id=45856136) - [Kagi Small Web](https://kagi.com/smallweb)
 * [2025-11-08, 12:00:50](https://news.ycombinator.com/item?id=45856069) - [Cekura (YC F24) Is Hiring](https://news.ycombinator.com/item?id=45856069)
+* [2025-11-08, 11:49:36](https://news.ycombinator.com/item?id=45856014) - [Disassembling terabytes of random data with Zig and Capstone to prove a point](https://jstrieb.github.io/posts/random-instructions/)
 * [2025-11-08, 11:35:04](https://news.ycombinator.com/item?id=45855955) - [Copy button added to Stack Overflow](https://meta.stackexchange.com/questions/414573/results-of-the-october-2025-community-asks-sprint-copy-button-for-code-blocks)
 * [2025-11-08, 11:27:56](https://news.ycombinator.com/item?id=45855933) - [My friends and I accidentally faked the Ryzen 7 9700X3D leaks](https://old.reddit.com/r/pcmasterrace/comments/1orc6jl/my_friends_and_i_accidentally_faked_the_ryzen_7/)
 * [2025-11-08, 11:24:43](https://news.ycombinator.com/item?id=45855918) - [Always Be Ready to Leave (Even If You Never Do)](https://andreacanton.dev/posts/2025-11-08-always-ready-to-leave/)

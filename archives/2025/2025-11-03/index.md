@@ -94,6 +94,7 @@
 * [2025-11-03, 08:14:34](https://news.ycombinator.com/item?id=45796897) - [Show HN: Hephaestus – Autonomous Multi-Agent Orchestration Framework](https://github.com/Ido-Levi/Hephaestus)
 * [2025-11-03, 08:13:49](https://news.ycombinator.com/item?id=45796892) - [How to Keep Winning](https://amasad.me/keep-winning)
 * [2025-11-03, 07:57:48](https://news.ycombinator.com/item?id=45796820) - [The APM paradox: Too much data, too few answers](https://www.honeybadger.io/blog/apm-paradox/)
+* [2025-11-03, 07:37:58](https://news.ycombinator.com/item?id=45796709) - [Being \"Seen\" and Feeling Part Of](https://growingfearless.substack.com/p/on-being-seen)
 * [2025-11-03, 07:11:14](https://news.ycombinator.com/item?id=45796575) - [FSF40 Hackathon](https://www.fsf.org/events/fsf40-hackathon)
 * [2025-11-03, 06:54:30](https://news.ycombinator.com/item?id=45796487) - [Stop AI: 14 Steps to turn off AI](https://againstdata.com/blog/stop-ai)
 * [2025-11-03, 06:51:59](https://news.ycombinator.com/item?id=45796476) - [Dynamically include files in GitLab-CI](https://www.zufallsheld.de/2025/10/03/dynamic-gitlab-ci-includes/)
