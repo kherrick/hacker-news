@@ -12,7 +12,7 @@
 * [2025-11-12, 17:54:58](https://news.ycombinator.com/item?id=45903325) - [Steam Frame](https://store.steampowered.com/sale/steamframe)
 * [2025-11-12, 17:43:42](https://news.ycombinator.com/item?id=45903161) - [Launch HN: JSX Tool (YC F25) – A Browser Dev-Panel IDE for React](https://news.ycombinator.com/item?id=45903161)
 * [2025-11-12, 17:24:54](https://news.ycombinator.com/item?id=45902898) - [Project Euler](https://projecteuler.net)
-* [2025-11-12, 16:40:17](https://news.ycombinator.com/item?id=45902273) - [Apple Introduced Digital ID in Apple Wallet](https://www.apple.com/newsroom/2025/11/apple-introduces-digital-id-a-new-way-to-create-and-present-an-id-in-apple-wallet/)
+* [2025-11-12, 17:01:42](https://news.ycombinator.com/item?id=45902590) - [Show HN: Cancer diagnosis makes for an interesting RL environment for LLMs](https://news.ycombinator.com/item?id=45902590)
 * [2025-11-12, 16:10:13](https://news.ycombinator.com/item?id=45901904) - [The last-ever penny will be minted today in Philadelphia](https://www.cnn.com/2025/11/12/business/last-penny-minted)
 * [2025-11-12, 16:06:29](https://news.ycombinator.com/item?id=45901855) - [Waymo robotaxis are now giving rides on freeways in LA, SF and Phoenix](https://techcrunch.com/2025/11/12/waymo-robotaxis-are-now-giving-rides-on-freeways-in-these-3-cities/)
 * [2025-11-12, 14:54:27](https://news.ycombinator.com/item?id=45900978) - [Learn Prolog Now](https://lpn.swi-prolog.org/lpnpage.php?pageid=top)
