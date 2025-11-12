@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2025-11-12, 05:36:41",
+      "https://news.ycombinator.com/item?id=45896707"
+    ],
+    [
+      "Hard drives on backorder for two years as AI data centers trigger HDD shortage",
+      "https://www.tomshardware.com/pc-components/hdds/ai-triggers-hard-drive-shortage-amidst-dram-squeeze-enterprise-hard-drives-on-backorder-by-2-years-as-hyperscalers-switch-to-qlc-ssds"
+    ]
+  ],
+  [
+    [
       "2025-11-12, 03:34:32",
       "https://news.ycombinator.com/item?id=45896130"
     ],
@@ -161,16 +171,6 @@
   ],
   [
     [
-      "2025-11-11, 18:07:51",
-      "https://news.ycombinator.com/item?id=45890726"
-    ],
-    [
-      "Terminal Latency on Windows (2024)",
-      "https://chadaustin.me/2024/02/windows-terminal-latency/"
-    ]
-  ],
-  [
-    [
       "2025-11-11, 17:26:54",
       "https://news.ycombinator.com/item?id=45890186"
     ],
@@ -241,22 +241,12 @@
   ],
   [
     [
-      "2025-11-07, 06:08:09",
-      "https://news.ycombinator.com/item?id=45843927"
+      "2025-11-06, 23:47:39",
+      "https://news.ycombinator.com/item?id=45841998"
     ],
     [
-      "Modern Optimizers – An Alchemist's Notes on Deep Learning",
-      "https://notes.kvfrans.com/7-misc/modern-optimizers.html"
-    ]
-  ],
-  [
-    [
-      "2025-11-07, 04:38:28",
-      "https://news.ycombinator.com/item?id=45843600"
-    ],
-    [
-      "Array-programming the Mandelbrot set",
-      "https://jcmorrow.com/mandelbrot/"
+      "Learning to Model the World with Language",
+      "https://dynalang.github.io/"
     ]
   ],
   [
@@ -277,6 +267,16 @@
     [
       "Bluetooth 6.2 – more responsive, improves security, USB comms, and testing",
       "https://www.cnx-software.com/2025/11/05/bluetooth-6-2-gets-more-responsive-improves-security-usb-communication-and-testing-capabilities/"
+    ]
+  ],
+  [
+    [
+      "2025-11-04, 12:03:02",
+      "https://news.ycombinator.com/item?id=45809975"
+    ],
+    [
+      "Fixing LCD Screen Corruption of a Tektronix TDS220 Oscilloscope",
+      "https://tomverbeure.github.io/2025/11/03/TDS220-LCD-Corruption-Fix.html"
     ]
   ],
   [
