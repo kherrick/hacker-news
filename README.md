@@ -20,7 +20,6 @@
 * [2025-11-12, 13:50:47](https://news.ycombinator.com/item?id=45900159) - [The Geometry Behind Normal Maps](https://www.shlom.dev/articles/geometry-behind-normal-maps/)
 * [2025-11-12, 13:46:28](https://news.ycombinator.com/item?id=45900108) - [Micro.blog launches new 'Studio' tier with video hosting](https://heydingus.net/blog/2025/11/micro-blog-offers-an-indie-alternative-to-youtube-with-its-studio-video-hosting-plan)
 * [2025-11-12, 12:10:11](https://news.ycombinator.com/item?id=45899189) - [A brief look at FreeBSD](https://yorickpeterse.com/articles/a-brief-look-at-freebsd/)
-* [2025-11-12, 11:17:06](https://news.ycombinator.com/item?id=45898789) - [Pakistani newspaper mistakenly prints AI prompt with the article](https://twitter.com/omar_quraishi/status/1988518627859951986)
 * [2025-11-12, 10:12:53](https://news.ycombinator.com/item?id=45898407) - [Yt-dlp: External JavaScript runtime now required for full YouTube support](https://github.com/yt-dlp/yt-dlp/issues/15012)
 * [2025-11-12, 09:01:41](https://news.ycombinator.com/item?id=45897935) - [What happened to Transmeta, the last big dotcom IPO](https://dfarq.homeip.net/what-happened-to-transmeta-the-last-big-dotcom-ipo/)
 * [2025-11-12, 07:25:30](https://news.ycombinator.com/item?id=45897271) - [Yann LeCun to depart Meta and launch AI startup focused on 'world models'](https://www.nasdaq.com/articles/metas-chief-ai-scientist-yann-lecun-depart-and-launch-ai-start-focused-world-models)
@@ -28,6 +27,7 @@
 * [2025-11-11, 15:44:35](https://news.ycombinator.com/item?id=45888620) - [.NET 10](https://devblogs.microsoft.com/dotnet/announcing-dotnet-10/)
 * [2025-11-09, 19:26:29](https://news.ycombinator.com/item?id=45868357) - [Building a CI/CD Pipeline Runner from Scratch in Python](https://muhammadraza.me/2025/building-cicd-pipeline-runner-python/)
 * [2025-11-09, 13:56:53](https://news.ycombinator.com/item?id=45865646) - [The Single Byte That Kills Your Exploit: Understanding Endianness](https://pwnforfunandprofit.substack.com/p/the-single-byte-that-kills-your-exploit)
+* [2025-11-05, 19:07:20](https://news.ycombinator.com/item?id=45826596) - [Archive or Delete?](https://email-is-good.com/2025/11/05/archive-or-delete/)
 * [2025-11-04, 13:52:43](https://news.ycombinator.com/item?id=45811026) - [NetHack4 Philosophy](http://nethack4.org/philosophy.html)
 * [2025-11-01, 17:18:23](https://news.ycombinator.com/item?id=45783411) - [Ioannis Yannas invented artificial skin for treatment of burns–dies at 90](https://news.mit.edu/2025/professor-ioannis-yannas-dies-1027)
 
