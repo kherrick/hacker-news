@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-11-12, 18:29:18",
+      "https://news.ycombinator.com/item?id=45903888"
+    ],
+    [
+      "Maestro Technology Sells Used SSD Drives as New",
+      "https://kozubik.com/items/MaestroTechnology/"
+    ]
+  ],
+  [
+    [
+      "2025-11-12, 18:12:29",
+      "https://news.ycombinator.com/item?id=45903586"
+    ],
+    [
+      "Async and Finaliser Deadlocks",
+      "https://tratt.net/laurie/blog/2025/async_and_finaliser_deadlocks.html"
+    ]
+  ],
+  [
+    [
       "2025-11-12, 17:59:43",
       "https://news.ycombinator.com/item?id=45903404"
     ],
@@ -31,6 +51,16 @@
   ],
   [
     [
+      "2025-11-12, 17:24:54",
+      "https://news.ycombinator.com/item?id=45902898"
+    ],
+    [
+      "Project Euler",
+      "https://projecteuler.net"
+    ]
+  ],
+  [
+    [
       "2025-11-12, 17:02:38",
       "https://news.ycombinator.com/item?id=45902604"
     ],
@@ -41,12 +71,22 @@
   ],
   [
     [
-      "2025-11-12, 16:17:58",
-      "https://news.ycombinator.com/item?id=45901996"
+      "2025-11-12, 17:01:42",
+      "https://news.ycombinator.com/item?id=45902590"
     ],
     [
-      "The PowerPC Has Still Got It (Llama on G4 Laptop)",
-      "https://www.hackster.io/news/the-powerpc-has-still-got-it-c4348bd7a88c"
+      "Show HN: Cancer diagnosis makes for an interesting RL environment for LLMs",
+      "https://news.ycombinator.com/item?id=45902590"
+    ]
+  ],
+  [
+    [
+      "2025-11-12, 16:40:17",
+      "https://news.ycombinator.com/item?id=45902273"
+    ],
+    [
+      "Apple Introduced Digital ID in Apple Wallet",
+      "https://www.apple.com/newsroom/2025/11/apple-introduces-digital-id-a-new-way-to-create-and-present-an-id-in-apple-wallet/"
     ]
   ],
   [
@@ -67,16 +107,6 @@
     [
       "Waymo robotaxis are now giving rides on freeways in LA, SF and Phoenix",
       "https://techcrunch.com/2025/11/12/waymo-robotaxis-are-now-giving-rides-on-freeways-in-these-3-cities/"
-    ]
-  ],
-  [
-    [
-      "2025-11-12, 15:08:35",
-      "https://news.ycombinator.com/item?id=45901149"
-    ],
-    [
-      "Fungus in Chernobyl nuclear disaster zone has mutated to 'feed' on radiation (2024)",
-      "https://www.unilad.com/news/world-news/fungus-chernobyl-mutated-feed-radiation-164735-20241217"
     ]
   ],
   [
@@ -121,6 +151,16 @@
   ],
   [
     [
+      "2025-11-12, 12:10:11",
+      "https://news.ycombinator.com/item?id=45899189"
+    ],
+    [
+      "A brief look at FreeBSD",
+      "https://yorickpeterse.com/articles/a-brief-look-at-freebsd/"
+    ]
+  ],
+  [
+    [
       "2025-11-12, 11:17:06",
       "https://news.ycombinator.com/item?id=45898789"
     ],
@@ -161,32 +201,12 @@
   ],
   [
     [
-      "2025-11-12, 06:58:06",
-      "https://news.ycombinator.com/item?id=45897122"
-    ],
-    [
-      "Simulating a Planet on the GPU: Part 1 (2022)",
-      "https://www.patrickcelentano.com/blog/planet-sim-part-1"
-    ]
-  ],
-  [
-    [
       "2025-11-12, 05:36:41",
       "https://news.ycombinator.com/item?id=45896707"
     ],
     [
       "Hard drives on backorder for two years as AI data centers trigger HDD shortage",
       "https://www.tomshardware.com/pc-components/hdds/ai-triggers-hard-drive-shortage-amidst-dram-squeeze-enterprise-hard-drives-on-backorder-by-2-years-as-hyperscalers-switch-to-qlc-ssds"
-    ]
-  ],
-  [
-    [
-      "2025-11-11, 22:50:32",
-      "https://news.ycombinator.com/item?id=45893986"
-    ],
-    [
-      ".NET MAUI is coming to Linux and the browser",
-      "https://avaloniaui.net/blog/net-maui-is-coming-to-linux-and-the-browser-powered-by-avalonia"
     ]
   ],
   [
@@ -201,32 +221,12 @@
   ],
   [
     [
-      "2025-11-11, 21:25:19",
-      "https://news.ycombinator.com/item?id=45893095"
-    ],
-    [
-      "I didn't reverse-engineer the protocol for my blood pressure monitor in 24 hours",
-      "https://james.belchamber.com/articles/blood-pressure-monitor-reverse-engineering/"
-    ]
-  ],
-  [
-    [
       "2025-11-11, 21:18:26",
       "https://news.ycombinator.com/item?id=45893004"
     ],
     [
       "X5.1 solar flare, G4 geomagnetic storm watch",
       "https://www.spaceweatherlive.com/en/news/view/593/20251111-x5-1-solar-flare-g4-geomagnetic-storm-watch.html"
-    ]
-  ],
-  [
-    [
-      "2025-11-11, 20:11:33",
-      "https://news.ycombinator.com/item?id=45892191"
-    ],
-    [
-      "The terminal of the future",
-      "https://jyn.dev/the-terminal-of-the-future"
     ]
   ],
   [
