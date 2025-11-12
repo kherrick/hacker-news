@@ -241,6 +241,16 @@
   ],
   [
     [
+      "2025-11-12, 05:36:41",
+      "https://news.ycombinator.com/item?id=45896707"
+    ],
+    [
+      "Hard drives on backorder for two years as AI data centers trigger HDD shortage",
+      "https://www.tomshardware.com/pc-components/hdds/ai-triggers-hard-drive-shortage-amidst-dram-squeeze-enterprise-hard-drives-on-backorder-by-2-years-as-hyperscalers-switch-to-qlc-ssds"
+    ]
+  ],
+  [
+    [
       "2025-11-11, 15:44:35",
       "https://news.ycombinator.com/item?id=45888620"
     ],
@@ -257,16 +267,6 @@
     [
       "Building a CI/CD Pipeline Runner from Scratch in Python",
       "https://muhammadraza.me/2025/building-cicd-pipeline-runner-python/"
-    ]
-  ],
-  [
-    [
-      "2025-11-09, 13:56:53",
-      "https://news.ycombinator.com/item?id=45865646"
-    ],
-    [
-      "The Single Byte That Kills Your Exploit: Understanding Endianness",
-      "https://pwnforfunandprofit.substack.com/p/the-single-byte-that-kills-your-exploit"
     ]
   ],
   [
