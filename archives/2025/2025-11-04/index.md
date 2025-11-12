@@ -69,6 +69,7 @@
 * [2025-11-04, 12:24:40](https://news.ycombinator.com/item?id=45810099) - [Show HN: Sparktype – a CMS and SSG that runs entirely in the browser](https://app.sparktype.org)
 * [2025-11-04, 12:16:54](https://news.ycombinator.com/item?id=45810048) - [When Soviet-Made Cars Roamed Singapore Roads](https://remembersingapore.org/2025/10/30/soviet-made-cars-singapore-70s-to-90s/)
 * [2025-11-04, 12:07:10](https://news.ycombinator.com/item?id=45810001) - [Registered OAuth Parameters](https://www.iana.org/assignments/oauth-parameters/oauth-parameters.xhtml#parameters)
+* [2025-11-04, 12:03:02](https://news.ycombinator.com/item?id=45809975) - [Fixing LCD Screen Corruption of a Tektronix TDS220 Oscilloscope](https://tomverbeure.github.io/2025/11/03/TDS220-LCD-Corruption-Fix.html)
 * [2025-11-04, 11:56:23](https://news.ycombinator.com/item?id=45809932) - [Former US Vice-President Cheney Dies](https://www.reuters.com/world/us/former-us-vp-dick-cheney-dead-84-punchbowl-news-says-2025-11-04/)
 * [2025-11-04, 11:52:02](https://news.ycombinator.com/item?id=45809897) - [This Month in Ladybird – October 2025](https://ladybird.org/newsletter/2025-10-31/)
 * [2025-11-04, 11:47:46](https://news.ycombinator.com/item?id=45809876) - [Studio Ghibli, Bandai Namco, Square Enix Demand OpenAI to Stop Using Their IP](https://www.theverge.com/news/812545/coda-studio-ghibli-sora-2-copyright-infringement)
