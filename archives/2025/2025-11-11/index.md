@@ -4,8 +4,12 @@
 
 ### [Archives](../../index.md) for [2025-11-11](index.md)
 
+* [2025-11-11, 23:59:49](https://news.ycombinator.com/item?id=45894588) - [Why Nietzsche Matters in the Age of Artificial Intelligence](https://cacm.acm.org/blogcacm/why-nietzsche-matters-in-the-age-of-artificial-intelligence/)
+* [2025-11-11, 23:58:08](https://news.ycombinator.com/item?id=45894569) - [I can build enterprise software but I can't charge for it](https://gist.github.com/EchenD/8b211ebfa4941d2c5df7b526790b31aa)
+* [2025-11-11, 23:06:40](https://news.ycombinator.com/item?id=45894145) - [Who Still Uses Cash?](https://www.voronoiapp.com/economy/Who-Still-Uses-Cash-7090)
 * [2025-11-11, 22:50:32](https://news.ycombinator.com/item?id=45893986) - [.NET MAUI Is Coming to Linux and the Browser, Powered by Avalonia](https://avaloniaui.net/blog/net-maui-is-coming-to-linux-and-the-browser-powered-by-avalonia)
 * [2025-11-11, 22:31:41](https://news.ycombinator.com/item?id=45893795) - [Four places to see London's Roman Wall](https://diamondgeezer.blogspot.com/2025/11/odd-places-to-see-londons-roman-wall.html)
+* [2025-11-11, 22:18:17](https://news.ycombinator.com/item?id=45893646) - [Heroku Support for .NET 10](https://www.heroku.com/blog/support-for-dotnet-10-lts-what-developers-need-know/)
 * [2025-11-11, 21:25:19](https://news.ycombinator.com/item?id=45893095) - [I didn't reverse-engineer the protocol for my blood pressure monitor in 24 hours](https://james.belchamber.com/articles/blood-pressure-monitor-reverse-engineering/)
 * [2025-11-11, 21:18:26](https://news.ycombinator.com/item?id=45893004) - [X5.1 solar flare, G4 geomagnetic storm watch](https://www.spaceweatherlive.com/en/news/view/593/20251111-x5-1-solar-flare-g4-geomagnetic-storm-watch.html)
 * [2025-11-11, 21:03:19](https://news.ycombinator.com/item?id=45892809) - [CACM Practice Welcomes Submissions](https://dl.acm.org/doi/10.1145/3771297)
