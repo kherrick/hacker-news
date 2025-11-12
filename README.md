@@ -1,6 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-11-12, 19:21:09](https://news.ycombinator.com/item?id=45904860) - [Is your electric bill going up? AI is partly to blame](https://www.npr.org/2025/11/06/nx-s1-5597971/electricity-bills-utilities-ai)
 * [2025-11-12, 19:05:41](https://news.ycombinator.com/item?id=45904551) - [GPT-5.1: A smarter, more conversational ChatGPT](https://openai.com/index/gpt-5-1/)
+* [2025-11-12, 18:46:40](https://news.ycombinator.com/item?id=45904161) - [Blasting Yeast with UV Light](https://chillphysicsenjoyer.substack.com/p/results-from-blasting-yeast-with)
+* [2025-11-12, 18:35:59](https://news.ycombinator.com/item?id=45903995) - [How Tube Amplifiers Work](https://robrobinette.com/How_Amps_Work.htm)
 * [2025-11-12, 18:29:18](https://news.ycombinator.com/item?id=45903888) - [Maestro Technology Sells Used SSD Drives as New](https://kozubik.com/items/MaestroTechnology/)
 * [2025-11-12, 18:26:25](https://news.ycombinator.com/item?id=45903840) - [Valve Announces New Steam Machine, Steam Controller and Steam Frame](https://www.phoronix.com/news/Steam-Machines-Frame-2026)
 * [2025-11-12, 18:12:29](https://news.ycombinator.com/item?id=45903586) - [Async and Finaliser Deadlocks](https://tratt.net/laurie/blog/2025/async_and_finaliser_deadlocks.html)
@@ -22,13 +25,10 @@
 * [2025-11-12, 09:01:41](https://news.ycombinator.com/item?id=45897935) - [What happened to Transmeta, the last big dotcom IPO](https://dfarq.homeip.net/what-happened-to-transmeta-the-last-big-dotcom-ipo/)
 * [2025-11-12, 07:25:30](https://news.ycombinator.com/item?id=45897271) - [Yann LeCun to depart Meta and launch AI startup focused on 'world models'](https://www.nasdaq.com/articles/metas-chief-ai-scientist-yann-lecun-depart-and-launch-ai-start-focused-world-models)
 * [2025-11-12, 05:36:41](https://news.ycombinator.com/item?id=45896707) - [Hard drives on backorder for two years as AI data centers trigger HDD shortage](https://www.tomshardware.com/pc-components/hdds/ai-triggers-hard-drive-shortage-amidst-dram-squeeze-enterprise-hard-drives-on-backorder-by-2-years-as-hyperscalers-switch-to-qlc-ssds)
-* [2025-11-11, 21:18:26](https://news.ycombinator.com/item?id=45893004) - [X5.1 solar flare, G4 geomagnetic storm watch](https://www.spaceweatherlive.com/en/news/view/593/20251111-x5-1-solar-flare-g4-geomagnetic-storm-watch.html)
 * [2025-11-11, 15:44:35](https://news.ycombinator.com/item?id=45888620) - [.NET 10](https://devblogs.microsoft.com/dotnet/announcing-dotnet-10/)
 * [2025-11-09, 19:26:29](https://news.ycombinator.com/item?id=45868357) - [Building a CI/CD Pipeline Runner from Scratch in Python](https://muhammadraza.me/2025/building-cicd-pipeline-runner-python/)
 * [2025-11-09, 13:56:53](https://news.ycombinator.com/item?id=45865646) - [The Single Byte That Kills Your Exploit: Understanding Endianness](https://pwnforfunandprofit.substack.com/p/the-single-byte-that-kills-your-exploit)
-* [2025-11-06, 00:09:05](https://news.ycombinator.com/item?id=45829790) - [Bluetooth 6.2 – more responsive, improves security, USB comms, and testing](https://www.cnx-software.com/2025/11/05/bluetooth-6-2-gets-more-responsive-improves-security-usb-communication-and-testing-capabilities/)
 * [2025-11-04, 13:52:43](https://news.ycombinator.com/item?id=45811026) - [NetHack4 Philosophy](http://nethack4.org/philosophy.html)
-* [2025-11-02, 11:58:52](https://news.ycombinator.com/item?id=45789674) - [Laptops with Stickers](https://stickertop.art/main/)
 * [2025-11-01, 17:18:23](https://news.ycombinator.com/item?id=45783411) - [Ioannis Yannas invented artificial skin for treatment of burns–dies at 90](https://news.mit.edu/2025/professor-ioannis-yannas-dies-1027)
 
 ## [Archives](archives/index.md)
