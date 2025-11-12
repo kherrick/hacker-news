@@ -26,9 +26,9 @@
 * [2025-11-07, 06:16:57](https://news.ycombinator.com/item?id=45843954) - [A Treatise on the All-Healing Qualities of Earth Bathing (1790)](https://publicdomainreview.org/collection/earth-bathing/)
 * [2025-11-07, 06:08:09](https://news.ycombinator.com/item?id=45843927) - [Modern Optimizers – An Alchemist's Notes on Deep Learning](https://notes.kvfrans.com/7-misc/modern-optimizers.html)
 * [2025-11-07, 04:38:28](https://news.ycombinator.com/item?id=45843600) - [Array-programming the Mandelbrot set](https://jcmorrow.com/mandelbrot/)
-* [2025-11-06, 23:47:39](https://news.ycombinator.com/item?id=45841998) - [Learning to Model the World with Language](https://dynalang.github.io/)
 * [2025-11-06, 01:04:23](https://news.ycombinator.com/item?id=45830178) - [My fan worked fine, so I gave it WiFi](https://ellis.codes/blog/my-fan-worked-fine-so-i-gave-it-wi-fi/)
 * [2025-11-04, 23:18:04](https://news.ycombinator.com/item?id=45817027) - [Étude in C minor (2020)](https://zserge.com/posts/etude-in-c/)
+* [2025-11-03, 16:27:33](https://news.ycombinator.com/item?id=45800843) - [Metaphors for Biology: Sizes](https://press.asimov.com/articles/metaphors-size)
 * [2025-11-02, 11:58:52](https://news.ycombinator.com/item?id=45789674) - [Laptops adorned with creative stickers](https://stickertop.art/main/)
 
 ## [Archives](archives/index.md)

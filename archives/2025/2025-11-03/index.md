@@ -41,6 +41,7 @@
 * [2025-11-03, 16:45:12](https://news.ycombinator.com/item?id=45801096) - [No Socials November](https://bjhess.com/posts/no-socials-november)
 * [2025-11-03, 16:36:29](https://news.ycombinator.com/item?id=45800967) - [Python Steering Council unanimously accepts \"PEP 810, Explicit lazy imports\"](https://discuss.python.org/t/pep-810-explicit-lazy-imports/104131?page=23)
 * [2025-11-03, 16:35:44](https://news.ycombinator.com/item?id=45800955) - [Why We Migrated from Python to Node.js](https://blog.yakkomajuri.com/blog/python-to-node)
+* [2025-11-03, 16:27:33](https://news.ycombinator.com/item?id=45800843) - [Metaphors for Biology: Sizes](https://press.asimov.com/articles/metaphors-size)
 * [2025-11-03, 16:23:11](https://news.ycombinator.com/item?id=45800777) - [Learning to read Arthur Whitney's C to become Smart (2024)](https://needleful.net/blog/2024/01/arthur_whitney.html)
 * [2025-11-03, 16:17:22](https://news.ycombinator.com/item?id=45800688) - [Google pulls AI model after senator says it fabricated assault allegation](https://www.theverge.com/news/812376/google-removes-gemma-senator-blackburn-hallucination)
 * [2025-11-03, 16:00:00](https://news.ycombinator.com/item?id=45800465) - [Ask HN: Who is hiring? (November 2025)](https://news.ycombinator.com/item?id=45800465)
