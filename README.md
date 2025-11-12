@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-11-12, 00:56:10](https://news.ycombinator.com/item?id=45895107) - [Text rendering and effects using GPU-computed distances](https://blog.pkh.me/p/47-text-rendering-and-effects-using-gpu-computed-distances.html)
 * [2025-11-11, 23:59:49](https://news.ycombinator.com/item?id=45894588) - [Why Nietzsche Matters in the Age of Artificial Intelligence](https://cacm.acm.org/blogcacm/why-nietzsche-matters-in-the-age-of-artificial-intelligence/)
 * [2025-11-11, 22:50:32](https://news.ycombinator.com/item?id=45893986) - [.NET MAUI is coming to Linux and the browser, powered by Avalonia](https://avaloniaui.net/blog/net-maui-is-coming-to-linux-and-the-browser-powered-by-avalonia)
 * [2025-11-11, 22:31:41](https://news.ycombinator.com/item?id=45893795) - [Four strange places to see London's Roman Wall](https://diamondgeezer.blogspot.com/2025/11/odd-places-to-see-londons-roman-wall.html)
@@ -9,7 +10,6 @@
 * [2025-11-11, 21:00:35](https://news.ycombinator.com/item?id=45892773) - [Meticulous (YC S21) is hiring to redefine software dev](https://jobs.ashbyhq.com/meticulous/3197ae3d-bb26-4750-9ed7-b830f640515e)
 * [2025-11-11, 20:27:38](https://news.ycombinator.com/item?id=45892394) - [Collaboration sucks](https://newsletter.posthog.com/p/collaboration-sucks)
 * [2025-11-11, 20:11:33](https://news.ycombinator.com/item?id=45892191) - [The terminal of the future](https://jyn.dev/the-terminal-of-the-future)
-* [2025-11-11, 20:10:24](https://news.ycombinator.com/item?id=45892174) - [Xortran - A PDP-11 Neural Network With Backpropagation in Fortran IV](https://github.com/dbrll/Xortran)
 * [2025-11-11, 19:52:55](https://news.ycombinator.com/item?id=45891968) - [Adk-go: code-first Go toolkit for building, evaluating, and deploying AI agents](https://github.com/google/adk-go)
 * [2025-11-11, 19:48:19](https://news.ycombinator.com/item?id=45891907) - [A modern 35mm film scanner for home](https://www.soke.engineering/)
 * [2025-11-11, 19:44:49](https://news.ycombinator.com/item?id=45891868) - [A catalog of side effects](https://bernsteinbear.com/blog/compiler-effects/)
