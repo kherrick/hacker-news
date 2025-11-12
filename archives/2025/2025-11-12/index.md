@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-11-12](index.md)
 
+* [2025-11-12, 09:01:41](https://news.ycombinator.com/item?id=45897935) - [What happened to Transmeta, the last big dotcom IPO](https://dfarq.homeip.net/what-happened-to-transmeta-the-last-big-dotcom-ipo/)
+* [2025-11-12, 07:56:35](https://news.ycombinator.com/item?id=45897457) - [Please donate to keep Network Time Protocol up – Goal 1k](https://www.ntp.org/)
 * [2025-11-12, 07:25:30](https://news.ycombinator.com/item?id=45897271) - [Yann LeCun to Depart Meta and Launch Own Startup](https://www.nasdaq.com/articles/metas-chief-ai-scientist-yann-lecun-depart-and-launch-ai-start-focused-world-models)
 * [2025-11-12, 06:58:06](https://news.ycombinator.com/item?id=45897122) - [Simulating a Planet on the GPU: Part 1](https://www.patrickcelentano.com/blog/planet-sim-part-1)
 * [2025-11-12, 06:37:13](https://news.ycombinator.com/item?id=45897016) - [You will own nothing and be (un)happy](https://racc.blog/you-will-own-nothing-and-be-unhappy/)
