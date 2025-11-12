@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-11-12](index.md)
 
+* [2025-11-12, 22:11:14](https://news.ycombinator.com/item?id=45907541) - [Marble: A Multimodal World Model](https://www.worldlabs.ai/blog/marble-world-model)
 * [2025-11-12, 21:50:14](https://news.ycombinator.com/item?id=45907259) - [Homebrew no longer allows bypassing Gatekeeper for unsigned/unnotarized software](https://github.com/Homebrew/brew/issues/20755)
 * [2025-11-12, 21:00:43](https://news.ycombinator.com/item?id=45906604) - [OmniAI (YC W24) Is Hiring Forward Deployed Engineers](https://www.ycombinator.com/companies/omniai/jobs/fuTMf2w-forward-deployed-engineer)
 * [2025-11-12, 20:02:58](https://news.ycombinator.com/item?id=45905620) - [Making the Clang AST Leaner and Faster](https://cppalliance.org/mizvekov,/clang/2025/10/20/Making-Clang-AST-Leaner-Faster.html)

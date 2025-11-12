@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-11-12, 22:11:14](https://news.ycombinator.com/item?id=45907541) - [Marble: A Multimodal World Model](https://www.worldlabs.ai/blog/marble-world-model)
 * [2025-11-12, 21:50:14](https://news.ycombinator.com/item?id=45907259) - [Homebrew no longer allows bypassing Gatekeeper for unsigned/unnotarized software](https://github.com/Homebrew/brew/issues/20755)
 * [2025-11-12, 21:00:43](https://news.ycombinator.com/item?id=45906604) - [OmniAI (YC W24) Is Hiring Forward Deployed Engineers](https://www.ycombinator.com/companies/omniai/jobs/fuTMf2w-forward-deployed-engineer)
 * [2025-11-12, 20:02:58](https://news.ycombinator.com/item?id=45905620) - [Making the Clang AST Leaner and Faster](https://cppalliance.org/mizvekov,/clang/2025/10/20/Making-Clang-AST-Leaner-Faster.html)
@@ -23,7 +24,6 @@
 * [2025-11-12, 10:12:53](https://news.ycombinator.com/item?id=45898407) - [Yt-dlp: External JavaScript runtime now required for full YouTube support](https://github.com/yt-dlp/yt-dlp/issues/15012)
 * [2025-11-12, 09:01:41](https://news.ycombinator.com/item?id=45897935) - [What happened to Transmeta, the last big dotcom IPO](https://dfarq.homeip.net/what-happened-to-transmeta-the-last-big-dotcom-ipo/)
 * [2025-11-12, 07:25:30](https://news.ycombinator.com/item?id=45897271) - [Yann LeCun to depart Meta and launch AI startup focused on 'world models'](https://www.nasdaq.com/articles/metas-chief-ai-scientist-yann-lecun-depart-and-launch-ai-start-focused-world-models)
-* [2025-11-12, 05:36:41](https://news.ycombinator.com/item?id=45896707) - [Hard drives on backorder for two years as AI data centers trigger HDD shortage](https://www.tomshardware.com/pc-components/hdds/ai-triggers-hard-drive-shortage-amidst-dram-squeeze-enterprise-hard-drives-on-backorder-by-2-years-as-hyperscalers-switch-to-qlc-ssds)
 * [2025-11-11, 15:44:35](https://news.ycombinator.com/item?id=45888620) - [.NET 10](https://devblogs.microsoft.com/dotnet/announcing-dotnet-10/)
 * [2025-11-09, 19:26:29](https://news.ycombinator.com/item?id=45868357) - [Building a CI/CD Pipeline Runner from Scratch in Python](https://muhammadraza.me/2025/building-cicd-pipeline-runner-python/)
 * [2025-11-04, 13:52:43](https://news.ycombinator.com/item?id=45811026) - [NetHack4 Philosophy](http://nethack4.org/philosophy.html)
