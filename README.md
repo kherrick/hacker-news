@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-11-12, 15:37:22](https://news.ycombinator.com/item?id=45901464) - [Two women had a business meeting. AI called it childcare](https://medium.com/hold-my-juice/two-women-had-a-business-meeting-ai-called-it-childcare-6b09f5952940)
+* [2025-11-12, 16:10:13](https://news.ycombinator.com/item?id=45901904) - [The last-ever penny will be minted today in Philadelphia](https://www.cnn.com/2025/11/12/business/last-penny-minted)
 * [2025-11-12, 15:08:35](https://news.ycombinator.com/item?id=45901149) - [Fungus in Chernobyl nuclear disaster zone has mutated to 'feed' on radiation](https://www.unilad.com/news/world-news/fungus-chernobyl-mutated-feed-radiation-164735-20241217)
+* [2025-11-12, 14:54:27](https://news.ycombinator.com/item?id=45900978) - [Learn Prolog Now](https://lpn.swi-prolog.org/lpnpage.php?pageid=top)
 * [2025-11-12, 14:08:28](https://news.ycombinator.com/item?id=45900370) - [Fighting the New York Times' invasion of user privacy](https://openai.com/index/fighting-nyt-user-privacy-invasion)
 * [2025-11-12, 13:50:47](https://news.ycombinator.com/item?id=45900159) - [The Geometry Behind Normal Maps](https://www.shlom.dev/articles/geometry-behind-normal-maps/)
 * [2025-11-12, 13:46:28](https://news.ycombinator.com/item?id=45900108) - [Micro.blog launches new 'Studio' tier with video hosting](https://heydingus.net/blog/2025/11/micro-blog-offers-an-indie-alternative-to-youtube-with-its-studio-video-hosting-plan)
@@ -12,7 +13,6 @@
 * [2025-11-12, 07:25:30](https://news.ycombinator.com/item?id=45897271) - [Yann LeCun to depart Meta and launch AI startup focused on 'world models'](https://www.nasdaq.com/articles/metas-chief-ai-scientist-yann-lecun-depart-and-launch-ai-start-focused-world-models)
 * [2025-11-12, 06:58:06](https://news.ycombinator.com/item?id=45897122) - [Simulating a Planet on the GPU: Part 1 (2022)](https://www.patrickcelentano.com/blog/planet-sim-part-1)
 * [2025-11-12, 03:34:32](https://news.ycombinator.com/item?id=45896130) - [Perkeep – Personal storage system for life](https://perkeep.org/)
-* [2025-11-11, 23:59:49](https://news.ycombinator.com/item?id=45894588) - [Why Nietzsche matters in the age of artificial intelligence](https://cacm.acm.org/blogcacm/why-nietzsche-matters-in-the-age-of-artificial-intelligence/)
 * [2025-11-11, 22:50:32](https://news.ycombinator.com/item?id=45893986) - [.NET MAUI is coming to Linux and the browser](https://avaloniaui.net/blog/net-maui-is-coming-to-linux-and-the-browser-powered-by-avalonia)
 * [2025-11-11, 22:31:41](https://news.ycombinator.com/item?id=45893795) - [Four strange places to see London's Roman Wall](https://diamondgeezer.blogspot.com/2025/11/odd-places-to-see-londons-roman-wall.html)
 * [2025-11-11, 21:25:19](https://news.ycombinator.com/item?id=45893095) - [I didn't reverse-engineer the protocol for my blood pressure monitor in 24 hours](https://james.belchamber.com/articles/blood-pressure-monitor-reverse-engineering/)

@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2025-11-12](index.md)
 
+* [2025-11-12, 16:10:13](https://news.ycombinator.com/item?id=45901904) - [The last-ever penny will be minted today in Philadelphia](https://www.cnn.com/2025/11/12/business/last-penny-minted)
 * [2025-11-12, 15:37:22](https://news.ycombinator.com/item?id=45901464) - [Two women had a business meeting. AI called it childcare](https://medium.com/hold-my-juice/two-women-had-a-business-meeting-ai-called-it-childcare-6b09f5952940)
 * [2025-11-12, 15:08:35](https://news.ycombinator.com/item?id=45901149) - [Fungus in Chernobyl nuclear disaster zone has mutated to 'feed' on radiation](https://www.unilad.com/news/world-news/fungus-chernobyl-mutated-feed-radiation-164735-20241217)
+* [2025-11-12, 14:54:27](https://news.ycombinator.com/item?id=45900978) - [Learn Prolog Now](https://lpn.swi-prolog.org/lpnpage.php?pageid=top)
 * [2025-11-12, 14:08:28](https://news.ycombinator.com/item?id=45900370) - [Fighting the New York Times' invasion of user privacy](https://openai.com/index/fighting-nyt-user-privacy-invasion)
 * [2025-11-12, 13:50:47](https://news.ycombinator.com/item?id=45900159) - [The Geometry Behind Normal Maps](https://www.shlom.dev/articles/geometry-behind-normal-maps/)
 * [2025-11-12, 13:46:28](https://news.ycombinator.com/item?id=45900108) - [Micro.blog launches new 'Studio' tier with video hosting](https://heydingus.net/blog/2025/11/micro-blog-offers-an-indie-alternative-to-youtube-with-its-studio-video-hosting-plan)
