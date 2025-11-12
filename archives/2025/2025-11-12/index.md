@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-11-12](index.md)
 
+* [2025-11-12, 13:50:47](https://news.ycombinator.com/item?id=45900159) - [The Geometry Behind Normal Maps](https://www.shlom.dev/articles/geometry-behind-normal-maps/)
 * [2025-11-12, 12:58:59](https://news.ycombinator.com/item?id=45899592) - [New study finds users are marrying and having virtual children with AI chatbots](https://www.psypost.org/new-study-finds-users-are-marrying-and-having-virtual-children-with-ai-chatbots/)
 * [2025-11-12, 11:26:33](https://news.ycombinator.com/item?id=45898856) - [Ask HN: How does one stay motivated to grind through LeetCode?](https://news.ycombinator.com/item?id=45898856)
 * [2025-11-12, 11:17:06](https://news.ycombinator.com/item?id=45898789) - [Pakistani newspaper mistakenly prints AI prompt with the article](https://twitter.com/omar_quraishi/status/1988518627859951986)

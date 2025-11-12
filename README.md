@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-11-12, 13:50:47](https://news.ycombinator.com/item?id=45900159) - [The Geometry Behind Normal Maps](https://www.shlom.dev/articles/geometry-behind-normal-maps/)
 * [2025-11-12, 12:58:59](https://news.ycombinator.com/item?id=45899592) - [New study finds users are marrying and having virtual children with AI chatbots](https://www.psypost.org/new-study-finds-users-are-marrying-and-having-virtual-children-with-ai-chatbots/)
 * [2025-11-12, 11:17:06](https://news.ycombinator.com/item?id=45898789) - [Pakistani newspaper mistakenly prints AI prompt with the article](https://twitter.com/omar_quraishi/status/1988518627859951986)
 * [2025-11-12, 10:12:53](https://news.ycombinator.com/item?id=45898407) - [Yt-dlp: External JavaScript runtime now required for full YouTube support](https://github.com/yt-dlp/yt-dlp/issues/15012)
@@ -18,7 +19,6 @@
 * [2025-11-11, 20:11:33](https://news.ycombinator.com/item?id=45892191) - [The terminal of the future](https://jyn.dev/the-terminal-of-the-future)
 * [2025-11-11, 19:48:19](https://news.ycombinator.com/item?id=45891907) - [A modern 35mm film scanner for home](https://www.soke.engineering/)
 * [2025-11-11, 18:32:11](https://news.ycombinator.com/item?id=45891016) - [FFmpeg to Google: Fund us or stop sending bugs](https://thenewstack.io/ffmpeg-to-google-fund-us-or-stop-sending-bugs/)
-* [2025-11-11, 17:26:54](https://news.ycombinator.com/item?id=45890186) - [We ran over 600 image generations to compare AI image models](https://latenitesoft.com/blog/evaluating-frontier-ai-image-generation-models/)
 * [2025-11-11, 15:44:35](https://news.ycombinator.com/item?id=45888620) - [.NET 10](https://devblogs.microsoft.com/dotnet/announcing-dotnet-10/)
 * [2025-11-11, 14:58:47](https://news.ycombinator.com/item?id=45887957) - [Pikaday: A friendly guide to front-end date pickers](https://pikaday.dbushell.com)
 * [2025-11-11, 14:34:54](https://news.ycombinator.com/item?id=45887699) - [The Department of War just shot the accountants and opted for speed](https://steveblank.com/2025/11/11/the-department-of-war-just-shot-the-accountants-and-opted-for-speed/)
