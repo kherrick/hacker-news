@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-11-12, 15:37:22](https://news.ycombinator.com/item?id=45901464) - [Two women had a business meeting. AI called it childcare](https://medium.com/hold-my-juice/two-women-had-a-business-meeting-ai-called-it-childcare-6b09f5952940)
 * [2025-11-12, 15:08:35](https://news.ycombinator.com/item?id=45901149) - [Fungus in Chernobyl nuclear disaster zone has mutated to 'feed' on radiation](https://www.unilad.com/news/world-news/fungus-chernobyl-mutated-feed-radiation-164735-20241217)
 * [2025-11-12, 14:08:28](https://news.ycombinator.com/item?id=45900370) - [Fighting the New York Times' invasion of user privacy](https://openai.com/index/fighting-nyt-user-privacy-invasion)
 * [2025-11-12, 13:50:47](https://news.ycombinator.com/item?id=45900159) - [The Geometry Behind Normal Maps](https://www.shlom.dev/articles/geometry-behind-normal-maps/)
@@ -14,9 +15,9 @@
 * [2025-11-11, 23:59:49](https://news.ycombinator.com/item?id=45894588) - [Why Nietzsche matters in the age of artificial intelligence](https://cacm.acm.org/blogcacm/why-nietzsche-matters-in-the-age-of-artificial-intelligence/)
 * [2025-11-11, 22:50:32](https://news.ycombinator.com/item?id=45893986) - [.NET MAUI is coming to Linux and the browser](https://avaloniaui.net/blog/net-maui-is-coming-to-linux-and-the-browser-powered-by-avalonia)
 * [2025-11-11, 22:31:41](https://news.ycombinator.com/item?id=45893795) - [Four strange places to see London's Roman Wall](https://diamondgeezer.blogspot.com/2025/11/odd-places-to-see-londons-roman-wall.html)
-* [2025-11-11, 22:18:17](https://news.ycombinator.com/item?id=45893646) - [Heroku Support for .NET 10](https://www.heroku.com/blog/support-for-dotnet-10-lts-what-developers-need-know/)
 * [2025-11-11, 21:25:19](https://news.ycombinator.com/item?id=45893095) - [I didn't reverse-engineer the protocol for my blood pressure monitor in 24 hours](https://james.belchamber.com/articles/blood-pressure-monitor-reverse-engineering/)
 * [2025-11-11, 21:18:26](https://news.ycombinator.com/item?id=45893004) - [X5.1 solar flare, G4 geomagnetic storm watch](https://www.spaceweatherlive.com/en/news/view/593/20251111-x5-1-solar-flare-g4-geomagnetic-storm-watch.html)
+* [2025-11-11, 21:00:35](https://news.ycombinator.com/item?id=45892773) - [Meticulous (YC S21) is hiring to redefine software dev](https://jobs.ashbyhq.com/meticulous/3197ae3d-bb26-4750-9ed7-b830f640515e)
 * [2025-11-11, 20:11:33](https://news.ycombinator.com/item?id=45892191) - [The terminal of the future](https://jyn.dev/the-terminal-of-the-future)
 * [2025-11-11, 19:48:19](https://news.ycombinator.com/item?id=45891907) - [A modern 35mm film scanner for home](https://www.soke.engineering/)
 * [2025-11-11, 18:32:11](https://news.ycombinator.com/item?id=45891016) - [FFmpeg to Google: Fund us or stop sending bugs](https://thenewstack.io/ffmpeg-to-google-fund-us-or-stop-sending-bugs/)
@@ -24,12 +25,11 @@
 * [2025-11-11, 14:34:54](https://news.ycombinator.com/item?id=45887699) - [The Department of War just shot the accountants and opted for speed](https://steveblank.com/2025/11/11/the-department-of-war-just-shot-the-accountants-and-opted-for-speed/)
 * [2025-11-08, 22:16:40](https://news.ycombinator.com/item?id=45860552) - [The history of Casio watches](https://www.casio.com/us/watches/50th/Heritage/1970s/)
 * [2025-11-06, 19:19:58](https://news.ycombinator.com/item?id=45839141) - [A Vision of Chocolate's Future in an Amsterdam Brownie](https://www.bloomberg.com/graphics/2025-opinion-future-of-chocolate/)
-* [2025-11-06, 01:04:23](https://news.ycombinator.com/item?id=45830178) - [My fan worked fine, so I gave it WiFi](https://ellis.codes/blog/my-fan-worked-fine-so-i-gave-it-wi-fi/)
 * [2025-11-06, 00:09:05](https://news.ycombinator.com/item?id=45829790) - [Bluetooth 6.2 – more responsive, improves security, USB comms, and testing](https://www.cnx-software.com/2025/11/05/bluetooth-6-2-gets-more-responsive-improves-security-usb-communication-and-testing-capabilities/)
-* [2025-11-04, 18:08:21](https://news.ycombinator.com/item?id=45814019) - [Using Street Lamps as EV Chargers](https://www.techbriefs.com/component/content/article/54104-using-street-lamps-as-ev-chargers)
 * [2025-11-04, 13:40:36](https://news.ycombinator.com/item?id=45810909) - [Seaque Live Bell Test](https://research.physics.illinois.edu/QI/Photonics/SEAQUE/)
 * [2025-11-03, 09:33:57](https://news.ycombinator.com/item?id=45797337) - [Stochastic computing](https://scottlocklin.wordpress.com/2025/10/31/stochastic-computing/)
 * [2025-11-02, 11:58:52](https://news.ycombinator.com/item?id=45789674) - [Laptops with Stickers](https://stickertop.art/main/)
+* [2025-11-01, 17:18:23](https://news.ycombinator.com/item?id=45783411) - [Ioannis Yannas invented artificial skin for treatment of burns–dies at 90](https://news.mit.edu/2025/professor-ioannis-yannas-dies-1027)
 
 ## [Archives](archives/index.md)
 
