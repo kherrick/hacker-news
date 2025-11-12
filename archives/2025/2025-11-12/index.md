@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-11-12](index.md)
 
+* [2025-11-12, 17:02:38](https://news.ycombinator.com/item?id=45902604) - [Helm v4.0.0](https://github.com/helm/helm/releases/tag/v4.0.0)
 * [2025-11-12, 16:17:58](https://news.ycombinator.com/item?id=45901996) - [The PowerPC Has Still Got It (Llama on G4 Laptop)](https://www.hackster.io/news/the-powerpc-has-still-got-it-c4348bd7a88c)
 * [2025-11-12, 16:10:13](https://news.ycombinator.com/item?id=45901904) - [The last-ever penny will be minted today in Philadelphia](https://www.cnn.com/2025/11/12/business/last-penny-minted)
 * [2025-11-12, 16:07:30](https://news.ycombinator.com/item?id=45901869) - [Kubernetes Is Your Private Cloud](https://oneuptime.com/blog/post/2025-11-12-kubernetes-is-your-private-cloud/view)

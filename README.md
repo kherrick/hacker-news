@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-11-12, 17:02:38](https://news.ycombinator.com/item?id=45902604) - [Helm v4.0.0](https://github.com/helm/helm/releases/tag/v4.0.0)
 * [2025-11-12, 16:17:58](https://news.ycombinator.com/item?id=45901996) - [The PowerPC Has Still Got It (Llama on G4 Laptop)](https://www.hackster.io/news/the-powerpc-has-still-got-it-c4348bd7a88c)
 * [2025-11-12, 16:07:30](https://news.ycombinator.com/item?id=45901869) - [Kubernetes Is Your Private Cloud](https://oneuptime.com/blog/post/2025-11-12-kubernetes-is-your-private-cloud/view)
 * [2025-11-12, 16:06:29](https://news.ycombinator.com/item?id=45901855) - [Waymo begins freeway rides for the public](https://techcrunch.com/2025/11/12/waymo-robotaxis-are-now-giving-rides-on-freeways-in-these-3-cities/)
-* [2025-11-12, 15:20:08](https://news.ycombinator.com/item?id=45901274) - [Testing out Crush, a TUI based coding agent](https://grahamhelton.com/blog/crushing-it)
 * [2025-11-12, 14:54:27](https://news.ycombinator.com/item?id=45900978) - [Learn Prolog Now](https://lpn.swi-prolog.org/lpnpage.php?pageid=top)
 * [2025-11-12, 14:08:28](https://news.ycombinator.com/item?id=45900370) - [Fighting the New York Times' invasion of user privacy](https://openai.com/index/fighting-nyt-user-privacy-invasion)
 * [2025-11-12, 13:50:47](https://news.ycombinator.com/item?id=45900159) - [The Geometry Behind Normal Maps](https://www.shlom.dev/articles/geometry-behind-normal-maps/)
