@@ -18,7 +18,6 @@
 * [2025-11-11, 20:11:33](https://news.ycombinator.com/item?id=45892191) - [The terminal of the future](https://jyn.dev/the-terminal-of-the-future)
 * [2025-11-11, 19:48:19](https://news.ycombinator.com/item?id=45891907) - [A modern 35mm film scanner for home](https://www.soke.engineering/)
 * [2025-11-11, 18:32:11](https://news.ycombinator.com/item?id=45891016) - [FFmpeg to Google: Fund us or stop sending bugs](https://thenewstack.io/ffmpeg-to-google-fund-us-or-stop-sending-bugs/)
-* [2025-11-11, 17:26:54](https://news.ycombinator.com/item?id=45890186) - [We ran over 600 image generations to compare AI image models](https://latenitesoft.com/blog/evaluating-frontier-ai-image-generation-models/)
 * [2025-11-11, 15:44:35](https://news.ycombinator.com/item?id=45888620) - [.NET 10](https://devblogs.microsoft.com/dotnet/announcing-dotnet-10/)
 * [2025-11-11, 14:58:47](https://news.ycombinator.com/item?id=45887957) - [Pikaday: A friendly guide to front-end date pickers](https://pikaday.dbushell.com)
 * [2025-11-11, 14:34:54](https://news.ycombinator.com/item?id=45887699) - [The Department of War just shot the accountants and opted for speed](https://steveblank.com/2025/11/11/the-department-of-war-just-shot-the-accountants-and-opted-for-speed/)
@@ -28,6 +27,7 @@
 * [2025-11-06, 01:04:23](https://news.ycombinator.com/item?id=45830178) - [My fan worked fine, so I gave it WiFi](https://ellis.codes/blog/my-fan-worked-fine-so-i-gave-it-wi-fi/)
 * [2025-11-06, 00:09:05](https://news.ycombinator.com/item?id=45829790) - [Bluetooth 6.2 – more responsive, improves security, USB comms, and testing](https://www.cnx-software.com/2025/11/05/bluetooth-6-2-gets-more-responsive-improves-security-usb-communication-and-testing-capabilities/)
 * [2025-11-04, 18:08:21](https://news.ycombinator.com/item?id=45814019) - [Using Street Lamps as EV Chargers](https://www.techbriefs.com/component/content/article/54104-using-street-lamps-as-ev-chargers)
+* [2025-11-04, 13:40:36](https://news.ycombinator.com/item?id=45810909) - [Seaque Live Bell Test](https://research.physics.illinois.edu/QI/Photonics/SEAQUE/)
 * [2025-11-03, 09:33:57](https://news.ycombinator.com/item?id=45797337) - [Stochastic computing](https://scottlocklin.wordpress.com/2025/10/31/stochastic-computing/)
 * [2025-11-02, 11:58:52](https://news.ycombinator.com/item?id=45789674) - [Laptops with Stickers](https://stickertop.art/main/)
 
