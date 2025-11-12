@@ -13,6 +13,7 @@
 * [2025-11-09, 21:30:07](https://news.ycombinator.com/item?id=45869366) - [America AI: Public Funding, Elite Extraction (not innovation)](https://x.com/Toutapodcast/article/1987591854829768791)
 * [2025-11-09, 21:02:33](https://news.ycombinator.com/item?id=45869146) - [Ask HN: What Are You Working On? (Nov 2025)](https://news.ycombinator.com/item?id=45869146)
 * [2025-11-09, 19:47:49](https://news.ycombinator.com/item?id=45868533) - [The Computer Church – Pennsylvania Computer and Technology Museum](https://www.thecomputerchurch.org/)
+* [2025-11-09, 19:26:29](https://news.ycombinator.com/item?id=45868357) - [Building a CI/CD Pipeline Runner from Scratch in Python](https://muhammadraza.me/2025/building-cicd-pipeline-runner-python/)
 * [2025-11-09, 19:16:45](https://news.ycombinator.com/item?id=45868271) - [Protect Your Consciousness from AI](https://jordangoodman.bearblog.dev/protect-your-consciousness-from-ai/)
 * [2025-11-09, 19:15:24](https://news.ycombinator.com/item?id=45868260) - [U.S. Tech Layoffs Hit Two-Decade High in October](https://thefivepost.com/u-s-tech-layoffs-hit-two-decade-high-in-october/)
 * [2025-11-09, 19:15:21](https://news.ycombinator.com/item?id=45868259) - [The Sega Master System](https://bumbershootsoft.wordpress.com/2025/11/08/the-sega-master-system/)
