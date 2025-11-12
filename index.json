@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-11-12, 17:59:43",
+      "https://news.ycombinator.com/item?id=45903404"
+    ],
+    [
+      "Steam Machine",
+      "https://store.steampowered.com/sale/steammachine"
+    ]
+  ],
+  [
+    [
+      "2025-11-12, 17:54:58",
+      "https://news.ycombinator.com/item?id=45903325"
+    ],
+    [
+      "Steam Frame",
+      "https://store.steampowered.com/sale/steamframe"
+    ]
+  ],
+  [
+    [
       "2025-11-12, 17:43:42",
       "https://news.ycombinator.com/item?id=45903161"
     ],
@@ -45,8 +65,18 @@
       "https://news.ycombinator.com/item?id=45901855"
     ],
     [
-      "Waymo begins freeway rides for the public",
+      "Waymo robotaxis are now giving rides on freeways in LA, SF and Phoenix",
       "https://techcrunch.com/2025/11/12/waymo-robotaxis-are-now-giving-rides-on-freeways-in-these-3-cities/"
+    ]
+  ],
+  [
+    [
+      "2025-11-12, 15:08:35",
+      "https://news.ycombinator.com/item?id=45901149"
+    ],
+    [
+      "Fungus in Chernobyl nuclear disaster zone has mutated to 'feed' on radiation (2024)",
+      "https://www.unilad.com/news/world-news/fungus-chernobyl-mutated-feed-radiation-164735-20241217"
     ]
   ],
   [
@@ -57,6 +87,16 @@
     [
       "Learn Prolog Now",
       "https://lpn.swi-prolog.org/lpnpage.php?pageid=top"
+    ]
+  ],
+  [
+    [
+      "2025-11-12, 14:08:28",
+      "https://news.ycombinator.com/item?id=45900370"
+    ],
+    [
+      "Fighting the New York Times' invasion of user privacy",
+      "https://openai.com/index/fighting-nyt-user-privacy-invasion"
     ]
   ],
   [
@@ -111,16 +151,6 @@
   ],
   [
     [
-      "2025-11-12, 07:56:35",
-      "https://news.ycombinator.com/item?id=45897457"
-    ],
-    [
-      "Please donate to keep Network Time Protocol up – Goal 1k",
-      "https://www.ntp.org/"
-    ]
-  ],
-  [
-    [
       "2025-11-12, 07:25:30",
       "https://news.ycombinator.com/item?id=45897271"
     ],
@@ -141,12 +171,12 @@
   ],
   [
     [
-      "2025-11-12, 03:34:32",
-      "https://news.ycombinator.com/item?id=45896130"
+      "2025-11-12, 05:36:41",
+      "https://news.ycombinator.com/item?id=45896707"
     ],
     [
-      "Perkeep – Personal storage system for life",
-      "https://perkeep.org/"
+      "Hard drives on backorder for two years as AI data centers trigger HDD shortage",
+      "https://www.tomshardware.com/pc-components/hdds/ai-triggers-hard-drive-shortage-amidst-dram-squeeze-enterprise-hard-drives-on-backorder-by-2-years-as-hyperscalers-switch-to-qlc-ssds"
     ]
   ],
   [
@@ -201,42 +231,22 @@
   ],
   [
     [
-      "2025-11-11, 14:58:47",
-      "https://news.ycombinator.com/item?id=45887957"
+      "2025-11-11, 15:44:35",
+      "https://news.ycombinator.com/item?id=45888620"
     ],
     [
-      "Pikaday: A friendly guide to front-end date pickers",
-      "https://pikaday.dbushell.com"
+      ".NET 10",
+      "https://devblogs.microsoft.com/dotnet/announcing-dotnet-10/"
     ]
   ],
   [
     [
-      "2025-11-11, 14:34:54",
-      "https://news.ycombinator.com/item?id=45887699"
+      "2025-11-09, 19:26:29",
+      "https://news.ycombinator.com/item?id=45868357"
     ],
     [
-      "The Department of War just shot the accountants and opted for speed",
-      "https://steveblank.com/2025/11/11/the-department-of-war-just-shot-the-accountants-and-opted-for-speed/"
-    ]
-  ],
-  [
-    [
-      "2025-11-08, 22:16:40",
-      "https://news.ycombinator.com/item?id=45860552"
-    ],
-    [
-      "The history of Casio watches",
-      "https://www.casio.com/us/watches/50th/Heritage/1970s/"
-    ]
-  ],
-  [
-    [
-      "2025-11-06, 19:19:58",
-      "https://news.ycombinator.com/item?id=45839141"
-    ],
-    [
-      "A Vision of Chocolate's Future in an Amsterdam Brownie",
-      "https://www.bloomberg.com/graphics/2025-opinion-future-of-chocolate/"
+      "Building a CI/CD Pipeline Runner from Scratch in Python",
+      "https://muhammadraza.me/2025/building-cicd-pipeline-runner-python/"
     ]
   ],
   [
@@ -251,32 +261,22 @@
   ],
   [
     [
+      "2025-11-04, 18:08:21",
+      "https://news.ycombinator.com/item?id=45814019"
+    ],
+    [
+      "Using street lamps as EV chargers",
+      "https://www.techbriefs.com/component/content/article/54104-using-street-lamps-as-ev-chargers"
+    ]
+  ],
+  [
+    [
       "2025-11-04, 13:52:43",
       "https://news.ycombinator.com/item?id=45811026"
     ],
     [
       "NetHack4 Philosophy",
       "http://nethack4.org/philosophy.html"
-    ]
-  ],
-  [
-    [
-      "2025-11-04, 13:40:36",
-      "https://news.ycombinator.com/item?id=45810909"
-    ],
-    [
-      "Seaque Live Bell Test",
-      "https://research.physics.illinois.edu/QI/Photonics/SEAQUE/"
-    ]
-  ],
-  [
-    [
-      "2025-11-03, 09:33:57",
-      "https://news.ycombinator.com/item?id=45797337"
-    ],
-    [
-      "Stochastic computing",
-      "https://scottlocklin.wordpress.com/2025/10/31/stochastic-computing/"
     ]
   ],
   [
