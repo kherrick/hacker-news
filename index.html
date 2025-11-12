@@ -129,6 +129,120 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
+        <section id="45903161">
+          <h3>
+            <a class="item" href="https://news.ycombinator.com/item?id=45903161"
+              >Launch HN: JSX Tool (YC F25) – A Browser Dev-Panel IDE for
+              React</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2025-11-12 @ 17:43:42</span
+              ><span class="points-container"
+                >Points: <span class="points">10</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=45903161"
+                  >Comments</a
+                ><span class="descendants">: 4</span></span
+              >
+            </h4>
+            <div class="text">
+              <a href="https://jsxtool.com">https://jsxtool.com</a>) a new
+              inspector/dev panel IDE that allows you to navigate to any line of
+              your React project’s JSX with just a click and a command click to
+              explore your render stack.
+              <p>
+                Demo video:
+                <a href="https://www.youtube.com/watch?v=JIIXvN7vhrs"
+                  >https://www.youtube.com/watch?v=JIIXvN7vhrs</a
+                >
+              </p>
+              <p>
+                I’ve been writing React code for nearly a decade. Since I first
+                saw source maps in the days of Babel and Redux, I’ve always
+                wanted to be able to edit my code from the source maps. I’ve
+                also always wanted to be able to inspect my JSX like it was
+                HTML.
+              </p>
+              <p>
+                Last year, I found my first real use of AI was taking ad-hoc CSS
+                changes in the Chrome element inspector, pasting them into
+                ChatGPT, and asking for the equivalent in Tailwind. I’d then
+                paste those changes into my React TSX files.
+              </p>
+              <p>
+                I wanted to streamline this process but came to the conclusion
+                that to do so I needed to build a JSX inspector. I had to write
+                a custom AST parser to create a mapping between the JSX and
+                HTML. So I hacked on an inspector for a couple of months that
+                connected JSX to the DOM in both directions.
+              </p>
+              <p>
+                The next feature was adding a CSS editor, like the one in the
+                browser inspectors but for JSX. Unlike styling a piece of HTML I
+                decided that any in memory style edits to a React fiber should
+                be globally applied, as if you had tweaked that line of code in
+                your codebase.
+              </p>
+              <p>
+                Finally, I was able to add the two AI features I really wanted:
+                (1) prompt for in-memory styles for when I was pixel tweaking,
+                and (2) save those temporary changes back to my codebase in the
+                convention of the codebase I was working in.
+              </p>
+              <p>
+                To accomplish talking to the filesystem from the Chrome
+                extension I built a little local server that mounts from the
+                root of your project and allows the extension to send
+                file-system commands back to your project root. We named this
+                the “Dev Server”. (Note: You can fully use us as a JSX inspector
+                without this server installed.)
+              </p>
+              <p>
+                After all that, I found that to convert myself as a user I
+                needed it to be a pretty fully functional IDE. I needed vim
+                bindings, I needed a typechecker, I needed auto-complete, I
+                needed a linter, I needed code search and I needed a proper file
+                explorer. Fortunately we were able to take advantage of the
+                dev-server architecture we had stumbled onto in order to add an
+                LSP server and Rip Grep. At this point, after months of dog
+                fooding, I use JSX Tool for almost all of my website edits.
+              </p>
+              <p>
+                We’re still rough around the edges for mobile but we’re working
+                on that.
+              </p>
+              <p>
+                All of the IDE stuff not involving AI is free and works fine
+                without AI. We let you get a taste of the prompting stuff for
+                free but apply some rate limits.
+              </p>
+              <p>
+                The extension itself is not open source but the dev server with
+                the LSP is. It’s a great foundation if you want to build any
+                sort of in-browser IDE and it's nearly React agnostic. Building
+                the dev server was a big undertaking so I’d love to see someone
+                fork it and find value in it.
+              </p>
+              <p>
+                In the future we want to start adding things that we are in a
+                position to take advantage of over something like Cursor, such
+                as letting AI give you code suggestions for runtime exceptions
+                or work with the network logs. We think that the convenience of
+                having your IDE in the dev panel gives us a leg up in
+                convenience and workflow context.
+              </p>
+              <p>
+                Anyway, regardless of how you feel about AI coding, I wanted to
+                make something that was useful with or without AI. We’d love it
+                if you gave it a spin and we want to share anything we can about
+                the technical side of the product that you might find
+                interesting.
+              </p>
+            </div>
+          </section>
+        </section>
         <section id="45902604">
           <h3>
             <a
@@ -141,11 +255,11 @@
             <h4>
               <span>2025-11-12 @ 17:02:38</span
               ><span class="points-container"
-                >Points: <span class="points">24</span></span
+                >Points: <span class="points">30</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45902604"
                   >Comments</a
-                ><span class="descendants">: 13</span></span
+                ><span class="descendants">: 22</span></span
               >
             </h4>
           </section>
@@ -162,32 +276,32 @@
             <h4>
               <span>2025-11-12 @ 16:17:58</span
               ><span class="points-container"
-                >Points: <span class="points">31</span></span
+                >Points: <span class="points">32</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45901996"
                   >Comments</a
-                ><span class="descendants">: 12</span></span
+                ><span class="descendants">: 14</span></span
               >
             </h4>
           </section>
         </section>
-        <section id="45901869">
+        <section id="45901904">
           <h3>
             <a
               class="item"
-              href="https://oneuptime.com/blog/post/2025-11-12-kubernetes-is-your-private-cloud/view"
-              >Kubernetes Is Your Private Cloud</a
+              href="https://www.cnn.com/2025/11/12/business/last-penny-minted"
+              >The last-ever penny will be minted today in Philadelphia</a
             >
           </h3>
           <section>
             <h4>
-              <span>2025-11-12 @ 16:07:30</span
+              <span>2025-11-12 @ 16:10:13</span
               ><span class="points-container"
-                >Points: <span class="points">36</span></span
+                >Points: <span class="points">98</span></span
               ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=45901869"
+                ><a href="https://news.ycombinator.com/item?id=45901904"
                   >Comments</a
-                ><span class="descendants">: 58</span></span
+                ><span class="descendants">: 129</span></span
               >
             </h4>
           </section>
@@ -204,11 +318,11 @@
             <h4>
               <span>2025-11-12 @ 16:06:29</span
               ><span class="points-container"
-                >Points: <span class="points">104</span></span
+                >Points: <span class="points">136</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45901855"
                   >Comments</a
-                ><span class="descendants">: 101</span></span
+                ><span class="descendants">: 133</span></span
               >
             </h4>
           </section>
@@ -225,11 +339,11 @@
             <h4>
               <span>2025-11-12 @ 14:54:27</span
               ><span class="points-container"
-                >Points: <span class="points">116</span></span
+                >Points: <span class="points">134</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45900978"
                   >Comments</a
-                ><span class="descendants">: 56</span></span
+                ><span class="descendants">: 71</span></span
               >
             </h4>
           </section>
@@ -246,7 +360,7 @@
             <h4>
               <span>2025-11-12 @ 13:50:47</span
               ><span class="points-container"
-                >Points: <span class="points">79</span></span
+                >Points: <span class="points">81</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45900159"
                   >Comments</a
@@ -267,11 +381,11 @@
             <h4>
               <span>2025-11-12 @ 13:46:28</span
               ><span class="points-container"
-                >Points: <span class="points">57</span></span
+                >Points: <span class="points">63</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45900108"
                   >Comments</a
-                ><span class="descendants">: 22</span></span
+                ><span class="descendants">: 23</span></span
               >
             </h4>
           </section>
@@ -289,11 +403,11 @@
             <h4>
               <span>2025-11-12 @ 11:17:06</span
               ><span class="points-container"
-                >Points: <span class="points">385</span></span
+                >Points: <span class="points">408</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45898789"
                   >Comments</a
-                ><span class="descendants">: 137</span></span
+                ><span class="descendants">: 141</span></span
               >
             </h4>
           </section>
@@ -309,11 +423,11 @@
             <h4>
               <span>2025-11-12 @ 10:12:53</span
               ><span class="points-container"
-                >Points: <span class="points">611</span></span
+                >Points: <span class="points">626</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45898407"
                   >Comments</a
-                ><span class="descendants">: 370</span></span
+                ><span class="descendants">: 394</span></span
               >
             </h4>
           </section>
@@ -330,11 +444,11 @@
             <h4>
               <span>2025-11-12 @ 09:01:41</span
               ><span class="points-container"
-                >Points: <span class="points">147</span></span
+                >Points: <span class="points">153</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45897935"
                   >Comments</a
-                ><span class="descendants">: 73</span></span
+                ><span class="descendants">: 78</span></span
               >
             </h4>
           </section>
@@ -349,11 +463,11 @@
             <h4>
               <span>2025-11-12 @ 07:56:35</span
               ><span class="points-container"
-                >Points: <span class="points">292</span></span
+                >Points: <span class="points">299</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45897457"
                   >Comments</a
-                ><span class="descendants">: 209</span></span
+                ><span class="descendants">: 215</span></span
               >
             </h4>
           </section>
@@ -371,11 +485,11 @@
             <h4>
               <span>2025-11-12 @ 07:25:30</span
               ><span class="points-container"
-                >Points: <span class="points">695</span></span
+                >Points: <span class="points">710</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45897271"
                   >Comments</a
-                ><span class="descendants">: 497</span></span
+                ><span class="descendants">: 506</span></span
               >
             </h4>
           </section>
@@ -392,7 +506,7 @@
             <h4>
               <span>2025-11-12 @ 06:58:06</span
               ><span class="points-container"
-                >Points: <span class="points">101</span></span
+                >Points: <span class="points">103</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45897122"
                   >Comments</a
@@ -411,7 +525,7 @@
             <h4>
               <span>2025-11-12 @ 03:34:32</span
               ><span class="points-container"
-                >Points: <span class="points">291</span></span
+                >Points: <span class="points">295</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45896130"
                   >Comments</a
@@ -436,7 +550,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45893986"
                   >Comments</a
-                ><span class="descendants">: 243</span></span
+                ><span class="descendants">: 244</span></span
               >
             </h4>
           </section>
@@ -453,7 +567,7 @@
             <h4>
               <span>2025-11-11 @ 22:31:41</span
               ><span class="points-container"
-                >Points: <span class="points">258</span></span
+                >Points: <span class="points">260</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45893795"
                   >Comments</a
@@ -475,11 +589,11 @@
             <h4>
               <span>2025-11-11 @ 21:25:19</span
               ><span class="points-container"
-                >Points: <span class="points">322</span></span
+                >Points: <span class="points">323</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45893095"
                   >Comments</a
-                ><span class="descendants">: 123</span></span
+                ><span class="descendants">: 124</span></span
               >
             </h4>
           </section>
@@ -496,7 +610,7 @@
             <h4>
               <span>2025-11-11 @ 21:18:26</span
               ><span class="points-container"
-                >Points: <span class="points">377</span></span
+                >Points: <span class="points">378</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45893004"
                   >Comments</a
@@ -515,32 +629,11 @@
             <h4>
               <span>2025-11-11 @ 20:11:33</span
               ><span class="points-container"
-                >Points: <span class="points">285</span></span
+                >Points: <span class="points">290</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45892191"
                   >Comments</a
-                ><span class="descendants">: 147</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="45891016">
-          <h3>
-            <a
-              class="item"
-              href="https://thenewstack.io/ffmpeg-to-google-fund-us-or-stop-sending-bugs/"
-              >FFmpeg to Google: Fund us or stop sending bugs</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2025-11-11 @ 18:32:11</span
-              ><span class="points-container"
-                >Points: <span class="points">1099</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=45891016"
-                  >Comments</a
-                ><span class="descendants">: 795</span></span
+                ><span class="descendants">: 152</span></span
               >
             </h4>
           </section>
@@ -555,11 +648,11 @@
             <h4>
               <span>2025-11-11 @ 14:58:47</span
               ><span class="points-container"
-                >Points: <span class="points">278</span></span
+                >Points: <span class="points">280</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45887957"
                   >Comments</a
-                ><span class="descendants">: 126</span></span
+                ><span class="descendants">: 130</span></span
               >
             </h4>
           </section>
@@ -577,11 +670,11 @@
             <h4>
               <span>2025-11-11 @ 14:34:54</span
               ><span class="points-container"
-                >Points: <span class="points">272</span></span
+                >Points: <span class="points">275</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45887699"
                   >Comments</a
-                ><span class="descendants">: 445</span></span
+                ><span class="descendants">: 452</span></span
               >
             </h4>
           </section>
@@ -598,11 +691,11 @@
             <h4>
               <span>2025-11-08 @ 22:16:40</span
               ><span class="points-container"
-                >Points: <span class="points">300</span></span
+                >Points: <span class="points">301</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45860552"
                   >Comments</a
-                ><span class="descendants">: 164</span></span
+                ><span class="descendants">: 165</span></span
               >
             </h4>
           </section>
@@ -619,11 +712,11 @@
             <h4>
               <span>2025-11-06 @ 19:19:58</span
               ><span class="points-container"
-                >Points: <span class="points">47</span></span
+                >Points: <span class="points">48</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45839141"
                   >Comments</a
-                ><span class="descendants">: 38</span></span
+                ><span class="descendants">: 40</span></span
               >
             </h4>
           </section>
@@ -641,11 +734,11 @@
             <h4>
               <span>2025-11-06 @ 00:09:05</span
               ><span class="points-container"
-                >Points: <span class="points">207</span></span
+                >Points: <span class="points">210</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45829790"
                   >Comments</a
-                ><span class="descendants">: 129</span></span
+                ><span class="descendants">: 130</span></span
               >
             </h4>
           </section>
@@ -660,11 +753,11 @@
             <h4>
               <span>2025-11-04 @ 13:52:43</span
               ><span class="points-container"
-                >Points: <span class="points">23</span></span
+                >Points: <span class="points">28</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45811026"
                   >Comments</a
-                ><span class="descendants">: 8</span></span
+                ><span class="descendants">: 12</span></span
               >
             </h4>
           </section>
@@ -702,11 +795,11 @@
             <h4>
               <span>2025-11-03 @ 09:33:57</span
               ><span class="points-container"
-                >Points: <span class="points">49</span></span
+                >Points: <span class="points">50</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45797337"
                   >Comments</a
-                ><span class="descendants">: 5</span></span
+                ><span class="descendants">: 6</span></span
               >
             </h4>
           </section>
@@ -721,11 +814,11 @@
             <h4>
               <span>2025-11-02 @ 11:58:52</span
               ><span class="points-container"
-                >Points: <span class="points">571</span></span
+                >Points: <span class="points">577</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45789674"
                   >Comments</a
-                ><span class="descendants">: 623</span></span
+                ><span class="descendants">: 629</span></span
               >
             </h4>
           </section>
@@ -743,7 +836,7 @@
             <h4>
               <span>2025-11-01 @ 17:18:23</span
               ><span class="points-container"
-                >Points: <span class="points">56</span></span
+                >Points: <span class="points">61</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45783411"
                   >Comments</a
