@@ -4,10 +4,15 @@
 
 ### [Archives](../../index.md) for [2025-11-12](index.md)
 
+* [2025-11-12, 18:29:18](https://news.ycombinator.com/item?id=45903888) - [Maestro Technology Sells Used SSD Drives as New](https://kozubik.com/items/MaestroTechnology/)
+* [2025-11-12, 18:12:29](https://news.ycombinator.com/item?id=45903586) - [Async and Finaliser Deadlocks](https://tratt.net/laurie/blog/2025/async_and_finaliser_deadlocks.html)
 * [2025-11-12, 17:59:43](https://news.ycombinator.com/item?id=45903404) - [Steam Machine](https://store.steampowered.com/sale/steammachine)
 * [2025-11-12, 17:54:58](https://news.ycombinator.com/item?id=45903325) - [Steam Frame](https://store.steampowered.com/sale/steamframe)
 * [2025-11-12, 17:43:42](https://news.ycombinator.com/item?id=45903161) - [Launch HN: JSX Tool (YC F25) – A Browser Dev-Panel IDE for React](https://news.ycombinator.com/item?id=45903161)
+* [2025-11-12, 17:24:54](https://news.ycombinator.com/item?id=45902898) - [Project Euler](https://projecteuler.net)
 * [2025-11-12, 17:02:38](https://news.ycombinator.com/item?id=45902604) - [Helm v4.0.0](https://github.com/helm/helm/releases/tag/v4.0.0)
+* [2025-11-12, 17:01:42](https://news.ycombinator.com/item?id=45902590) - [Show HN: Cancer diagnosis makes for an interesting RL environment for LLMs](https://news.ycombinator.com/item?id=45902590)
+* [2025-11-12, 16:40:17](https://news.ycombinator.com/item?id=45902273) - [Apple Introduced Digital ID in Apple Wallet](https://www.apple.com/newsroom/2025/11/apple-introduces-digital-id-a-new-way-to-create-and-present-an-id-in-apple-wallet/)
 * [2025-11-12, 16:17:58](https://news.ycombinator.com/item?id=45901996) - [The PowerPC Has Still Got It (Llama on G4 Laptop)](https://www.hackster.io/news/the-powerpc-has-still-got-it-c4348bd7a88c)
 * [2025-11-12, 16:10:13](https://news.ycombinator.com/item?id=45901904) - [The last-ever penny will be minted today in Philadelphia](https://www.cnn.com/2025/11/12/business/last-penny-minted)
 * [2025-11-12, 16:07:30](https://news.ycombinator.com/item?id=45901869) - [Kubernetes Is Your Private Cloud](https://oneuptime.com/blog/post/2025-11-12-kubernetes-is-your-private-cloud/view)
@@ -21,6 +26,7 @@
 * [2025-11-12, 13:50:47](https://news.ycombinator.com/item?id=45900159) - [The Geometry Behind Normal Maps](https://www.shlom.dev/articles/geometry-behind-normal-maps/)
 * [2025-11-12, 13:46:28](https://news.ycombinator.com/item?id=45900108) - [Micro.blog launches new 'Studio' tier with video hosting](https://heydingus.net/blog/2025/11/micro-blog-offers-an-indie-alternative-to-youtube-with-its-studio-video-hosting-plan)
 * [2025-11-12, 12:58:59](https://news.ycombinator.com/item?id=45899592) - [New study finds users are marrying and having virtual children with AI chatbots](https://www.psypost.org/new-study-finds-users-are-marrying-and-having-virtual-children-with-ai-chatbots/)
+* [2025-11-12, 12:10:11](https://news.ycombinator.com/item?id=45899189) - [A brief look at FreeBSD](https://yorickpeterse.com/articles/a-brief-look-at-freebsd/)
 * [2025-11-12, 11:26:33](https://news.ycombinator.com/item?id=45898856) - [Ask HN: How does one stay motivated to grind through LeetCode?](https://news.ycombinator.com/item?id=45898856)
 * [2025-11-12, 11:17:06](https://news.ycombinator.com/item?id=45898789) - [Pakistani newspaper mistakenly prints AI prompt with the article](https://twitter.com/omar_quraishi/status/1988518627859951986)
 * [2025-11-12, 10:12:53](https://news.ycombinator.com/item?id=45898407) - [Yt-dlp: External JavaScript runtime now required for full YouTube support](https://github.com/yt-dlp/yt-dlp/issues/15012)
