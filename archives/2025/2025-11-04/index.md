@@ -57,6 +57,7 @@
 * [2025-11-04, 14:31:27](https://news.ycombinator.com/item?id=45811447) - [Optimizing Datalog for the GPU](https://danglingpointers.substack.com/p/optimizing-datalog-for-the-gpu)
 * [2025-11-04, 14:30:23](https://news.ycombinator.com/item?id=45811435) - [Solving Every Sudoku Puzzle (2006)](https://norvig.com/sudoku.html)
 * [2025-11-04, 13:58:35](https://news.ycombinator.com/item?id=45811093) - [Show HN: A CSS-Only Terrain Generator](https://terra.layoutit.com)
+* [2025-11-04, 13:58:01](https://news.ycombinator.com/item?id=45811084) - [Debugging containers that have no shell](https://docs.docker.com/reference/cli/docker/debug)
 * [2025-11-04, 13:52:43](https://news.ycombinator.com/item?id=45811026) - [NetHack4 Philosophy](http://nethack4.org/philosophy.html)
 * [2025-11-04, 13:40:36](https://news.ycombinator.com/item?id=45810909) - [Seaque Live Bell Test](https://research.physics.illinois.edu/QI/Photonics/SEAQUE/)
 * [2025-11-04, 13:34:45](https://news.ycombinator.com/item?id=45810856) - [Show HN: I built a local-first daily planner for iOS](https://apps.apple.com/ca/app/to-do-list-planner-zesfy/id6479947874)
