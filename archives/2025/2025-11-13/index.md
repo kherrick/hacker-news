@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-11-13](index.md)
 
 * [2025-11-13, 19:03:26](https://news.ycombinator.com/item?id=45919067) - [SlopStop: Community-driven AI slop detection in Kagi Search](https://blog.kagi.com/slopstop)
+* [2025-11-13, 19:02:39](https://news.ycombinator.com/item?id=45919058) - [How to Grow your Startup Fast in 2025](https://founderpath.com/blog/how-to-grow-startup-growth-hacks)
 * [2025-11-13, 18:41:33](https://news.ycombinator.com/item?id=45918732) - [IBM Patented Euler's 200 Year Old Math Technique for 'AI Interpretability'](https://leetarxiv.substack.com/p/ibm-patented-eulers-fractions)
 * [2025-11-13, 18:01:52](https://news.ycombinator.com/item?id=45918203) - [Microsoft confirms Windows 11 is about to change gets enormous backlash – Neowin](https://www.neowin.net/news/microsoft-confirms-windows-11-is-about-to-change-massively-gets-enormous-backlash/)
 * [2025-11-13, 17:39:13](https://news.ycombinator.com/item?id=45917875) - [Nano Banana can be prompt engineered for nuanced AI image generation](https://minimaxir.com/2025/11/nano-banana-prompts/)

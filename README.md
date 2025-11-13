@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-11-13, 19:03:26](https://news.ycombinator.com/item?id=45919067) - [SlopStop: Community-driven AI slop detection in Kagi Search](https://blog.kagi.com/slopstop)
+* [2025-11-13, 19:02:39](https://news.ycombinator.com/item?id=45919058) - [How to Grow your Startup Fast in 2025](https://founderpath.com/blog/how-to-grow-startup-growth-hacks)
 * [2025-11-13, 18:41:33](https://news.ycombinator.com/item?id=45918732) - [IBM Patented Euler's 200 Year Old Math Technique for 'AI Interpretability'](https://leetarxiv.substack.com/p/ibm-patented-eulers-fractions)
 * [2025-11-13, 17:39:13](https://news.ycombinator.com/item?id=45917875) - [Nano Banana can be prompt engineered for nuanced AI image generation](https://minimaxir.com/2025/11/nano-banana-prompts/)
 * [2025-11-13, 17:22:10](https://news.ycombinator.com/item?id=45917618) - [A hemp industry shutdown has just begun](https://www.courier-journal.com/story/opinion/contributors/2025/11/13/rand-paul-congress-funding-bill-hemp-products-farmers/87247317007/)
@@ -16,7 +17,6 @@
 * [2025-11-13, 14:10:48](https://news.ycombinator.com/item?id=45915069) - [Denx (a.k.a. U-Boot) Retires](https://www.denx.de/)
 * [2025-11-13, 13:43:50](https://news.ycombinator.com/item?id=45914815) - [Heartbeats in Distributed Systems](https://arpitbhayani.me/blogs/heartbeats-in-distributed-systems/)
 * [2025-11-13, 13:38:47](https://news.ycombinator.com/item?id=45914761) - [Blender Lab](https://www.blender.org/news/introducing-blender-lab/)
-* [2025-11-13, 13:34:38](https://news.ycombinator.com/item?id=45914718) - [Britain's railway privatization was an abject failure](https://www.rosalux.de/en/news/id/53917/britains-railway-privatization-was-an-abject-failure)
 * [2025-11-13, 09:23:30](https://news.ycombinator.com/item?id=45912698) - [Checkout.com hacked, refuses ransom payment, donates to security labs](https://www.checkout.com/blog/protecting-our-merchants-standing-up-to-extortion)
 * [2025-11-13, 07:12:01](https://news.ycombinator.com/item?id=45911704) - [Reverse Engineering Yaesu FT-70D Firmware Encryption](https://landaire.net/reversing-yaesu-firmware-encryption/)
 * [2025-11-13, 03:49:23](https://news.ycombinator.com/item?id=45910381) - [Android 16 QPR1 is being pushed to the Android Open Source Project](https://grapheneos.social/@GrapheneOS/115533432439509433)
