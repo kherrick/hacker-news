@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-11-13, 14:14:36](https://news.ycombinator.com/item?id=45915114) - [Show HN: Kratos - Cloud native Auth0 open-source alternative (self-hosted)](https://github.com/ory/kratos)
 * [2025-11-13, 13:38:47](https://news.ycombinator.com/item?id=45914761) - [Blender Lab](https://www.blender.org/news/introducing-blender-lab/)
 * [2025-11-13, 13:34:38](https://news.ycombinator.com/item?id=45914718) - [Britain's railway privatization was an abject failure](https://www.rosalux.de/en/news/id/53917/britains-railway-privatization-was-an-abject-failure)
 * [2025-11-13, 11:31:23](https://news.ycombinator.com/item?id=45913663) - [Hack Club has been handling children's data for 4 years without a privacy policy](https://kys.llc/blog/my-hackclub-story)
@@ -21,7 +22,6 @@
 * [2025-11-12, 17:24:54](https://news.ycombinator.com/item?id=45902898) - [Project Euler](https://projecteuler.net)
 * [2025-11-12, 17:02:38](https://news.ycombinator.com/item?id=45902604) - [Helm 4.0](https://github.com/helm/helm/releases/tag/v4.0.0)
 * [2025-11-12, 16:10:13](https://news.ycombinator.com/item?id=45901904) - [The last-ever penny will be minted today in Philadelphia](https://www.cnn.com/2025/11/12/business/last-penny-minted)
-* [2025-11-12, 14:54:27](https://news.ycombinator.com/item?id=45900978) - [Learn Prolog Now (2006)](https://lpn.swi-prolog.org/lpnpage.php?pageid=top)
 * [2025-11-12, 14:08:28](https://news.ycombinator.com/item?id=45900370) - [Fighting the New York Times' invasion of user privacy](https://openai.com/index/fighting-nyt-user-privacy-invasion)
 * [2025-11-08, 16:08:10](https://news.ycombinator.com/item?id=45857657) - [Shader Glass](https://github.com/mausimus/ShaderGlass)
 * [2025-11-06, 20:26:58](https://news.ycombinator.com/item?id=45839980) - [Transpiler, a Meaningless Word (2023)](https://people.csail.mit.edu/rachit/post/transpiler/)
