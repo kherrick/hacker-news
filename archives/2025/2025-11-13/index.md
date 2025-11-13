@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2025-11-13](index.md)
 
+* [2025-11-13, 21:00:27](https://news.ycombinator.com/item?id=45920468) - [Piramidal (YC W24) Hiring: Front End Engineer](https://www.ycombinator.com/companies/piramidal/jobs/i9yNX5s-front-end-engineer-user-interface)
+* [2025-11-13, 20:33:43](https://news.ycombinator.com/item?id=45920156) - [Show HN: DBOS Java – Postgres-Backed Durable Workflows](https://github.com/dbos-inc/dbos-transact-java)
 * [2025-11-13, 20:32:07](https://news.ycombinator.com/item?id=45920126) - [Tesla Recalls Powerwall 2 AC Battery Power Systems Due to Fire and Burn Hazards](https://www.cpsc.gov/Recalls/2026/Tesla-Recalls-Powerwall-2-AC-Battery-Power-Systems-Due-to-Fire-and-Burn-Hazards-Risk-of-Serious-Injury-or-Death)
+* [2025-11-13, 20:25:09](https://news.ycombinator.com/item?id=45920049) - [Parsing Integers in C](https://daniel.haxx.se/blog/2025/11/13/parsing-integers-in-c/)
 * [2025-11-13, 19:03:26](https://news.ycombinator.com/item?id=45919067) - [SlopStop: Community-driven AI slop detection in Kagi Search](https://blog.kagi.com/slopstop)
 * [2025-11-13, 19:02:39](https://news.ycombinator.com/item?id=45919058) - [How to Grow your Startup Fast in 2025](https://founderpath.com/blog/how-to-grow-startup-growth-hacks)
 * [2025-11-13, 18:41:33](https://news.ycombinator.com/item?id=45918732) - [IBM Patented Euler's 200 Year Old Math Technique for 'AI Interpretability'](https://leetarxiv.substack.com/p/ibm-patented-eulers-fractions)
