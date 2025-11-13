@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-11-13, 18:01:52",
+      "https://news.ycombinator.com/item?id=45918203"
+    ],
+    [
+      "Microsoft confirms Windows 11 is about to change gets enormous backlash – Neowin",
+      "https://www.neowin.net/news/microsoft-confirms-windows-11-is-about-to-change-massively-gets-enormous-backlash/"
+    ]
+  ],
+  [
+    [
       "2025-11-13, 17:39:13",
       "https://news.ycombinator.com/item?id=45917875"
     ],
@@ -41,16 +51,6 @@
   ],
   [
     [
-      "2025-11-13, 16:20:47",
-      "https://news.ycombinator.com/item?id=45916762"
-    ],
-    [
-      "The Monks in the Casino",
-      "https://www.derekthompson.org/p/the-monks-in-the-casino"
-    ]
-  ],
-  [
-    [
       "2025-11-13, 16:03:04",
       "https://news.ycombinator.com/item?id=45916525"
     ],
@@ -85,7 +85,7 @@
       "https://news.ycombinator.com/item?id=45916037"
     ],
     [
-      "SIMA 2: An Agent That Plays, Reasons, and Learns with You in Virtual 3D Worlds",
+      "SIMA 2: An agent that plays, reasons, and learns with you in virtual 3D worlds",
       "https://deepmind.google/blog/sima-2-an-agent-that-plays-reasons-and-learns-with-you-in-virtual-3d-worlds/"
     ]
   ],
@@ -127,6 +127,16 @@
     [
       "Kratos - Cloud native Auth0 open-source alternative (self-hosted)",
       "https://github.com/ory/kratos"
+    ]
+  ],
+  [
+    [
+      "2025-11-13, 14:12:23",
+      "https://news.ycombinator.com/item?id=45915087"
+    ],
+    [
+      "Cursor: Past, Present, and Future",
+      "https://cursor.com/blog/series-d"
     ]
   ],
   [
@@ -251,12 +261,12 @@
   ],
   [
     [
-      "2025-11-08, 16:08:10",
-      "https://news.ycombinator.com/item?id=45857657"
+      "2025-11-09, 12:03:15",
+      "https://news.ycombinator.com/item?id=45864954"
     ],
     [
-      "Shader Glass",
-      "https://github.com/mausimus/ShaderGlass"
+      "Think in Math. Write in Code",
+      "https://www.jmeiners.com/think-in-math/"
     ]
   ],
   [
@@ -267,16 +277,6 @@
     [
       "COBOL to Kotlin via Formal Models (IR and Alloy and Golden Master)",
       "https://marcoeg.medium.com/from-cobol-to-kotlin-795920b1f371"
-    ]
-  ],
-  [
-    [
-      "2025-11-05, 21:49:12",
-      "https://news.ycombinator.com/item?id=45828523"
-    ],
-    [
-      "Continuous Autoregressive Language Models",
-      "https://arxiv.org/abs/2510.27688"
     ]
   ],
   [
