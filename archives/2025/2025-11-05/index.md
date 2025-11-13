@@ -25,6 +25,7 @@
 * [2025-11-05, 18:11:16](https://news.ycombinator.com/item?id=45825965) - [OpenAI ends legal and medical advice on ChatGPT](https://www.ctvnews.ca/sci-tech/article/openai-updates-policies-so-chatgpt-wont-provide-medical-or-legal-advice/)
 * [2025-11-05, 18:02:37](https://news.ycombinator.com/item?id=45825879) - [Upbeat Technology's RISC-V MCU Takes Flight with Near-Threshold Computing](https://www.allaboutcircuits.com/news/upbeat-technologys-risc-v-mcu-takes-flight-with-near-threshold-computing/)
 * [2025-11-05, 17:50:45](https://news.ycombinator.com/item?id=45825733) - [Show HN: I scraped 3B Goodreads reviews to train a better recommendation model](https://book.sv)
+* [2025-11-05, 16:49:58](https://news.ycombinator.com/item?id=45825040) - [Switching from GPG to Age](https://luke.hsiao.dev/blog/gpg-to-age/)
 * [2025-11-05, 16:32:43](https://news.ycombinator.com/item?id=45824864) - [Why aren't smart people happier?](https://www.theseedsofscience.pub/p/why-arent-smart-people-happier)
 * [2025-11-05, 16:18:01](https://news.ycombinator.com/item?id=45824658) - [Norway reviews cybersecurity after remote-access feature found in Chinese buses](https://scandasia.com/norway-reviews-cybersecurity-after-hidden-remote-access-feature-found-in-chinese-buses/)
 * [2025-11-05, 16:02:57](https://news.ycombinator.com/item?id=45824417) - [We Love Horror Stories](https://nautil.us/why-we-love-horror-stories-1245342/)
