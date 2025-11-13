@@ -31,6 +31,26 @@
   ],
   [
     [
+      "2025-11-13, 18:34:12",
+      "https://news.ycombinator.com/item?id=45918638"
+    ],
+    [
+      "Disrupting the first reported AI-orchestrated cyber espionage campaign",
+      "https://www.anthropic.com/news/disrupting-AI-espionage"
+    ]
+  ],
+  [
+    [
+      "2025-11-13, 18:32:36",
+      "https://news.ycombinator.com/item?id=45918616"
+    ],
+    [
+      "Rust in Android: move fast and fix things",
+      "https://security.googleblog.com/2025/11/rust-in-android-move-fast-fix-things.html"
+    ]
+  ],
+  [
+    [
       "2025-11-13, 17:39:13",
       "https://news.ycombinator.com/item?id=45917875"
     ],
@@ -55,7 +75,7 @@
       "https://news.ycombinator.com/item?id=45916525"
     ],
     [
-      "Launch HN: Tweeks (YC W25) – Browser extension to de-enshittify the web",
+      "Launch HN: Tweeks (YC W25) – Browser extension to deshittify the web",
       "https://www.tweeks.io/onboarding"
     ]
   ],
@@ -171,16 +191,6 @@
   ],
   [
     [
-      "2025-11-13, 13:34:38",
-      "https://news.ycombinator.com/item?id=45914718"
-    ],
-    [
-      "Britain's railway privatization was an abject failure",
-      "https://www.rosalux.de/en/news/id/53917/britains-railway-privatization-was-an-abject-failure"
-    ]
-  ],
-  [
-    [
       "2025-11-13, 09:23:30",
       "https://news.ycombinator.com/item?id=45912698"
     ],
@@ -227,16 +237,6 @@
     [
       "Android developer verification: Early access starts",
       "https://android-developers.googleblog.com/2025/11/android-developer-verification-early.html"
-    ]
-  ],
-  [
-    [
-      "2025-11-12, 21:50:14",
-      "https://news.ycombinator.com/item?id=45907259"
-    ],
-    [
-      "Homebrew no longer allows bypassing Gatekeeper for unsigned/unnotarized software",
-      "https://github.com/Homebrew/brew/issues/20755"
     ]
   ],
   [
