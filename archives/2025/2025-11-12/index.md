@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-11-12](index.md)
 
+* [2025-11-12, 23:38:56](https://news.ycombinator.com/item?id=45908483) - [Voyager 1 is a light-day away by November 2026](https://www.iflscience.com/on-november-13-2026-voyager-will-reach-one-full-light-day-away-from-earth-81432)
 * [2025-11-12, 22:35:29](https://news.ycombinator.com/item?id=45907839) - [Jasmine: A Simple, Performant and Scalable Jax-Based World Modeling Codebase](https://arxiv.org/abs/2510.27002)
 * [2025-11-12, 22:11:14](https://news.ycombinator.com/item?id=45907541) - [Marble: A Multimodal World Model](https://www.worldlabs.ai/blog/marble-world-model)
 * [2025-11-12, 21:50:14](https://news.ycombinator.com/item?id=45907259) - [Homebrew no longer allows bypassing Gatekeeper for unsigned/unnotarized software](https://github.com/Homebrew/brew/issues/20755)
