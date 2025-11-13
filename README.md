@@ -28,8 +28,8 @@
 * [2025-11-09, 01:44:26](https://news.ycombinator.com/item?id=45862128) - [Comparing the Latitude of Europe and America](https://vividmaps.com/comparing-latitude-of-europe-and-america/)
 * [2025-11-06, 20:26:58](https://news.ycombinator.com/item?id=45839980) - [Transpiler, a Meaningless Word (2023)](https://people.csail.mit.edu/rachit/post/transpiler/)
 * [2025-11-05, 21:49:12](https://news.ycombinator.com/item?id=45828523) - [Continuous Autoregressive Language Models](https://arxiv.org/abs/2510.27688)
+* [2025-11-03, 17:55:38](https://news.ycombinator.com/item?id=45802035) - [LED types by Color, Brightness, and Chemistry (2021)](https://donklipstein.com/ledc.html)
 * [2025-11-03, 14:54:54](https://news.ycombinator.com/item?id=45799664) - [Mergiraf: Syntax-Aware Merging for Git](https://lwn.net/SubscriberLink/1042355/434ad706cc594276/)
-* [2025-11-01, 17:18:23](https://news.ycombinator.com/item?id=45783411) - [Ioannis Yannas, who invented artificial skin for treatment of burns, has died](https://news.mit.edu/2025/professor-ioannis-yannas-dies-1027)
 
 ## [Archives](archives/index.md)
 

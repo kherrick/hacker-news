@@ -31,6 +31,7 @@
 * [2025-11-03, 18:27:08](https://news.ycombinator.com/item?id=45802449) - [Blood, Brick and Legend: The Chemistry of Dracula's Castle](https://news.research.gatech.edu/2025/10/31/blood-brick-and-legend-chemistry-draculas-castle)
 * [2025-11-03, 18:16:43](https://news.ycombinator.com/item?id=45802290) - [Agent-O-rama: build LLM agents in Java or Clojure](https://blog.redplanetlabs.com/2025/11/03/introducing-agent-o-rama-build-trace-evaluate-and-monitor-stateful-llm-agents-in-java-or-clojure/)
 * [2025-11-03, 18:14:02](https://news.ycombinator.com/item?id=45802248) - [America is bracing for political violence – and significant portion think its OK](https://www.politico.com/news/2025/11/03/poll-americans-political-violence-00632864)
+* [2025-11-03, 17:55:38](https://news.ycombinator.com/item?id=45802035) - [LED types by Color, Brightness, and Chemistry (2021)](https://donklipstein.com/ledc.html)
 * [2025-11-03, 17:55:10](https://news.ycombinator.com/item?id=45802029) - [The Case That A.I. Is Thinking](https://www.newyorker.com/magazine/2025/11/10/the-case-that-ai-is-thinking)
 * [2025-11-03, 17:49:25](https://news.ycombinator.com/item?id=45801966) - [Dependent Types and How to Get Rid of Them](https://chadnauseam.com/coding/pltd/are-dependent-types-actually-erased)
 * [2025-11-03, 17:31:45](https://news.ycombinator.com/item?id=45801721) - [What Is a Manifold?](https://www.quantamagazine.org/what-is-a-manifold-20251103/)
