@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-11-13](index.md)
 
+* [2025-11-13, 15:29:38](https://news.ycombinator.com/item?id=45916037) - [SIMA 2: An Agent That Plays, Reasons, and Learns with You in Virtual 3D Worlds](https://deepmind.google/blog/sima-2-an-agent-that-plays-reasons-and-learns-with-you-in-virtual-3d-worlds/)
+* [2025-11-13, 15:17:57](https://news.ycombinator.com/item?id=45915884) - [We cut our Mongo DB costs by 90% by moving to Hetzner](https://prosopo.io/blog/we-cut-our-mongodb-costs-by-90-percent/)
 * [2025-11-13, 15:04:39](https://news.ycombinator.com/item?id=45915731) - [GitHub Partial Outage](https://www.githubstatus.com/incidents/1jw8ltnr1qrj)
 * [2025-11-13, 15:00:03](https://news.ycombinator.com/item?id=45915674) - [No Competition? That's Usually a Red Flag for Solopreneurs](https://meysam.io/blog/no-competition-red-flag-solopreneur-validated-market/)
 * [2025-11-13, 14:37:54](https://news.ycombinator.com/item?id=45915380) - [Google Posts Device Trees for Booting Pixel 10 with Mainline Linux Kernel](https://www.phoronix.com/news/Google-Pixel-10-Google-DTs)
