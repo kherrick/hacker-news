@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-11-13, 04:26:56](https://news.ycombinator.com/item?id=45910625) - [CollectWise (YC F24) Is Hiring](https://www.ycombinator.com/companies/collectwise/jobs/tv3ufcc-forward-deployed-engineer)
+* [2025-11-13, 04:26:23](https://news.ycombinator.com/item?id=45910622) - [Robert Moses's unfinished business should be Mamdani's priority](https://www.eatingpolicy.com/p/robert-mosess-unfinished-business)
 * [2025-11-13, 03:49:23](https://news.ycombinator.com/item?id=45910381) - [Android 16 QPR1 is being pushed to the Android Open Source Project](https://grapheneos.social/@GrapheneOS/115533432439509433)
 * [2025-11-13, 03:44:37](https://news.ycombinator.com/item?id=45910347) - [Meta replaces WhatsApp for Windows with web wrapper that uses 1 GB RAM when idle](https://www.windowslatest.com/2025/11/12/meta-just-killed-native-whatsapp-on-windows-11-now-it-opens-webview-uses-1gb-ram-all-the-time/)
 * [2025-11-13, 03:39:56](https://news.ycombinator.com/item?id=45910305) - [Bitcoin's big secret: How cryptocurrency became law enforcement's secret weapon](https://bitwarden.com/blog/how-cryptocurrency-became-law-enforcements-secret-weapon/)
@@ -29,7 +30,6 @@
 * [2025-11-09, 01:44:26](https://news.ycombinator.com/item?id=45862128) - [Comparing the Latitude of Europe and America](https://vividmaps.com/comparing-latitude-of-europe-and-america/)
 * [2025-11-06, 20:26:58](https://news.ycombinator.com/item?id=45839980) - [Transpiler, a Meaningless Word (2023)](https://people.csail.mit.edu/rachit/post/transpiler/)
 * [2025-11-03, 14:54:54](https://news.ycombinator.com/item?id=45799664) - [Mergiraf: Syntax-Aware Merging for Git](https://lwn.net/SubscriberLink/1042355/434ad706cc594276/)
-* [2025-11-01, 17:18:23](https://news.ycombinator.com/item?id=45783411) - [Ioannis Yannas, who invented artificial skin for treatment of burns, has died](https://news.mit.edu/2025/professor-ioannis-yannas-dies-1027)
 
 ## [Archives](archives/index.md)
 
