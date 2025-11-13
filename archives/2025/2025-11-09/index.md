@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-11-09](index.md)
 
 * [2025-11-09, 23:26:48](https://news.ycombinator.com/item?id=45870334) - [Show HN: Trilogy Studio, open-source browser-based SQL editor and visualizer](https://trilogydata.dev/trilogy-studio-core/#screen=dashboard-import&import=https%3A%2F%2Ftrilogy-data.github.io%2Ftrilogy-public-models%2Fstudio%2Fdemo-model.json&dashboard=demo_dashboard&modelName=demo-model&connection=duckdb)
+* [2025-11-09, 22:38:00](https://news.ycombinator.com/item?id=45869919) - [Strap Rail](https://www.construction-physics.com/p/strap-rail)
 * [2025-11-09, 22:37:56](https://news.ycombinator.com/item?id=45869916) - [When Tesla's FSD works well, it gets credit. When it doesn't, you get blamed](https://electrek.co/2025/11/08/schrodingers-fsd-when-things-go-well-teslas-driving-when-they-dont-you-are/)
 * [2025-11-09, 22:16:38](https://news.ycombinator.com/item?id=45869742) - ['Up to 15 or 20′ air traffic controllers are retiring daily](https://www.pennlive.com/nation-world/2025/11/up-to-15-or-20-air-traffic-controllers-are-retiring-daily-official-says.html)
 * [2025-11-09, 21:59:49](https://news.ycombinator.com/item?id=45869620) - [Password to Louvre video surveillance system was 'Louvre', according to employee](https://abcnews.go.com/International/password-louvres-video-surveillance-system-louvre-employee/story?id=127236297)
