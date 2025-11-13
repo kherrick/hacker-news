@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-11-13, 11:31:23",
+      "https://news.ycombinator.com/item?id=45913663"
+    ],
+    [
+      "Hack Club has been handling children's data for 4 years without a privacy policy",
+      "https://kys.llc/blog/my-hackclub-story"
+    ]
+  ],
+  [
+    [
       "2025-11-13, 09:36:51",
       "https://news.ycombinator.com/item?id=45912785"
     ],
@@ -47,26 +57,6 @@
     [
       "Android 16 QPR1 is being pushed to the Android Open Source Project",
       "https://grapheneos.social/@GrapheneOS/115533432439509433"
-    ]
-  ],
-  [
-    [
-      "2025-11-13, 03:44:37",
-      "https://news.ycombinator.com/item?id=45910347"
-    ],
-    [
-      "Meta replaces WhatsApp for Windows with web wrapper that uses 1 GB RAM when idle",
-      "https://www.windowslatest.com/2025/11/12/meta-just-killed-native-whatsapp-on-windows-11-now-it-opens-webview-uses-1gb-ram-all-the-time/"
-    ]
-  ],
-  [
-    [
-      "2025-11-13, 03:32:24",
-      "https://news.ycombinator.com/item?id=45910244"
-    ],
-    [
-      "On USB HID, Keyboard LEDs, and device emulation (2024)",
-      "https://epsilon537.github.io/boxlambda/usb-hid/"
     ]
   ],
   [
@@ -261,6 +251,16 @@
   ],
   [
     [
+      "2025-11-08, 16:08:10",
+      "https://news.ycombinator.com/item?id=45857657"
+    ],
+    [
+      "Shader Glass",
+      "https://github.com/mausimus/ShaderGlass"
+    ]
+  ],
+  [
+    [
       "2025-11-06, 20:26:58",
       "https://news.ycombinator.com/item?id=45839980"
     ],
@@ -281,12 +281,12 @@
   ],
   [
     [
-      "2025-11-03, 17:55:38",
-      "https://news.ycombinator.com/item?id=45802035"
+      "2025-11-04, 06:43:25",
+      "https://news.ycombinator.com/item?id=45808047"
     ],
     [
-      "LED types by Color, Brightness, and Chemistry (2021)",
-      "https://donklipstein.com/ledc.html"
+      "Randomness Testing Guide",
+      "https://random.tastemaker.design/"
     ]
   ],
   [
