@@ -97,6 +97,7 @@
 * [2025-11-04, 07:37:41](https://news.ycombinator.com/item?id=45808383) - [What If Java Had Symmetric Converter Methods on Collection?](https://donraab.medium.com/what-if-java-had-symmetric-converter-methods-on-collection-cbb824885c3f)
 * [2025-11-04, 07:26:45](https://news.ycombinator.com/item?id=45808308) - [Lessons from 70 interviews on deploying AI Agents in production](https://mmc.vc/research/state-of-agentic-ai-founders-edition/)
 * [2025-11-04, 07:22:46](https://news.ycombinator.com/item?id=45808288) - [Reverse Engineering a Neural Network's Clever Solution to Binary Addition (2023)](https://cprimozic.net/blog/reverse-engineering-a-small-neural-network/)
+* [2025-11-04, 06:43:25](https://news.ycombinator.com/item?id=45808047) - [Randomness Testing Guide](https://random.tastemaker.design/)
 * [2025-11-04, 06:35:27](https://news.ycombinator.com/item?id=45807993) - [I want a good parallel language [video]](https://www.youtube.com/watch?v=0-eViUyPwso)
 * [2025-11-04, 05:57:20](https://news.ycombinator.com/item?id=45807794) - [Once Australia's second priciest city, Melbourne has become more affordable](https://www.theguardian.com/australia-news/2025/oct/25/once-australias-second-priciest-city-melbourne-has-become-more-affordable-what-happened-and-will-it-last)
 * [2025-11-04, 05:53:02](https://news.ycombinator.com/item?id=45807775) - [Tell HN: X is opening any tweet link in a webview whether you press it or not](https://news.ycombinator.com/item?id=45807775)
