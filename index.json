@@ -1,16 +1,6 @@
 [
   [
     [
-      "2025-11-13, 11:31:23",
-      "https://news.ycombinator.com/item?id=45913663"
-    ],
-    [
-      "Hack Club has been handling children's data for 4 years without a privacy policy",
-      "https://kys.llc/blog/my-hackclub-story"
-    ]
-  ],
-  [
-    [
       "2025-11-13, 09:36:51",
       "https://news.ycombinator.com/item?id=45912785"
     ],
@@ -65,7 +55,7 @@
       "https://news.ycombinator.com/item?id=45910009"
     ],
     [
-      "A Commentary on the Sixth Edition Unix Operating System",
+      "A Commentary on the Sixth Edition Unix Operating System (1977)",
       "https://warsus.github.io/lions-/"
     ]
   ],
@@ -277,6 +267,16 @@
     [
       "Continuous Autoregressive Language Models",
       "https://arxiv.org/abs/2510.27688"
+    ]
+  ],
+  [
+    [
+      "2025-11-05, 16:49:58",
+      "https://news.ycombinator.com/item?id=45825040"
+    ],
+    [
+      "Switching from GPG to Age",
+      "https://luke.hsiao.dev/blog/gpg-to-age/"
     ]
   ],
   [
