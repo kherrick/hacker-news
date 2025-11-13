@@ -1,7 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-11-13, 22:13:21](https://news.ycombinator.com/item?id=45921334) - [Disrupting the first reported AI-orchestrated cyber espionage campaign [pdf]](https://assets.anthropic.com/m/ec212e6566a0d47/original/Disrupting-the-first-reported-AI-orchestrated-cyber-espionage-campaign.pdf)
-* [2025-11-13, 21:44:16](https://news.ycombinator.com/item?id=45921011) - [Guests ejected mid-stay from bankrupt hotel chain Sonder](https://www.bbc.com/news/articles/c364yg7g351o)
 * [2025-11-13, 21:33:26](https://news.ycombinator.com/item?id=45920881) - [650GB of Data (Delta Lake on S3). Polars vs. DuckDB vs. Daft vs. Spark](https://dataengineeringcentral.substack.com/p/650gb-of-data-delta-lake-on-s3-polars)
 * [2025-11-13, 21:24:25](https://news.ycombinator.com/item?id=45920748) - [Blue Origin lands New Glenn rocket booster on second try](https://techcrunch.com/2025/11/13/blue-origin-lands-new-glenn-rocket-booster-on-second-try/)
 * [2025-11-13, 21:18:14](https://news.ycombinator.com/item?id=45920677) - [OpenMANET Wi-Fi HaLow open-source project for Raspberry Pi–based MANET radios](https://openmanet.net/)
@@ -23,11 +21,13 @@
 * [2025-11-13, 13:43:50](https://news.ycombinator.com/item?id=45914815) - [Heartbeats in Distributed Systems](https://arpitbhayani.me/blogs/heartbeats-in-distributed-systems/)
 * [2025-11-13, 13:38:47](https://news.ycombinator.com/item?id=45914761) - [Blender Lab](https://www.blender.org/news/introducing-blender-lab/)
 * [2025-11-13, 09:23:30](https://news.ycombinator.com/item?id=45912698) - [Checkout.com hacked, refuses ransom payment, donates to security labs](https://www.checkout.com/blog/protecting-our-merchants-standing-up-to-extortion)
-* [2025-11-13, 00:48:45](https://news.ycombinator.com/item?id=45909059) - [Human Fovea Detector](https://www.shadertoy.com/view/4dsXzM)
+* [2025-11-13, 03:49:23](https://news.ycombinator.com/item?id=45910381) - [Android 16 QPR1 is being pushed to the Android Open Source Project](https://grapheneos.social/@GrapheneOS/115533432439509433)
 * [2025-11-13, 00:33:25](https://news.ycombinator.com/item?id=45908938) - [Android developer verification: Early access starts](https://android-developers.googleblog.com/2025/11/android-developer-verification-early.html)
+* [2025-11-12, 17:59:43](https://news.ycombinator.com/item?id=45903404) - [Steam Machine](https://store.steampowered.com/sale/steammachine)
 * [2025-11-09, 12:03:15](https://news.ycombinator.com/item?id=45864954) - [Think in math, write in code](https://www.jmeiners.com/think-in-math/)
 * [2025-11-07, 16:58:08](https://news.ycombinator.com/item?id=45848409) - [The Grand Egyptian Museum's Astonishing Arrival](https://www.wsj.com/arts-culture/fine-art/the-grand-egyptian-museums-astonishing-arrival-ac477d5f)
 * [2025-11-07, 00:47:35](https://news.ycombinator.com/item?id=45842419) - [Remind: A sophisticated calendar and alarm program](https://dianne.skoll.ca/projects/remind/)
+* [2025-11-06, 20:13:35](https://news.ycombinator.com/item?id=45839822) - [Itiner-E – The Digital Atlas of Ancient Roads](https://itiner-e.org/)
 * [2025-11-04, 19:27:55](https://news.ycombinator.com/item?id=45814939) - [Why do we need dithering?](https://typefully.com/DanHollick/why-do-we-need-dithering-Ut7oD4k)
 * [2025-11-02, 14:19:08](https://news.ycombinator.com/item?id=45790530) - [The Useful Personal Computer](https://technicshistory.com/2025/11/02/the-useful-personal-computer/)
 
