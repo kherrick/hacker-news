@@ -65,6 +65,7 @@
 * [2025-11-04, 13:15:52](https://news.ycombinator.com/item?id=45810676) - [The Art of Atari (2016)](http://www.artofatari.com)
 * [2025-11-04, 13:14:26](https://news.ycombinator.com/item?id=45810658) - [The Paranoid Guide to Running Copilot CLI in a Secure Docker Sandbox](https://gordonbeeming.com/blog/2025-10-03/taming-the-ai-my-paranoid-guide-to-running-copilot-cli-in-a-secure-docker-sandbox)
 * [2025-11-04, 13:07:11](https://news.ycombinator.com/item?id=45810589) - [AI for Senior Software Engineers](https://www.emadibrahim.com/ai-guide)
+* [2025-11-04, 13:00:55](https://news.ycombinator.com/item?id=45810516) - [A Challenge to Roboticists: My Humanoid Olympics](https://spectrum.ieee.org/humanoid-robot-olympics)
 * [2025-11-04, 12:57:48](https://news.ycombinator.com/item?id=45810482) - [Microservices? No, modularity is what matters](https://binaryigor.com/modular-monolith-and-microservices-modularity-is-what-truly-matters.html)
 * [2025-11-04, 12:52:54](https://news.ycombinator.com/item?id=45810430) - [Chaining FFmpeg with a Browser Agent](https://100x.bot/a/chaining-ffmpeg-with-browser-agent)
 * [2025-11-04, 12:36:49](https://news.ycombinator.com/item?id=45810223) - [When Your Hash Becomes a String: Hunting Ruby's Million-to-One Memory Bug](https://mensfeld.pl/2025/11/ruby-ffi-gc-bug-hash-becomes-string/)

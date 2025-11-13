@@ -4,7 +4,12 @@
 
 ### [Archives](../../index.md) for [2025-11-13](index.md)
 
+* [2025-11-13, 15:04:39](https://news.ycombinator.com/item?id=45915731) - [GitHub Partial Outage](https://www.githubstatus.com/incidents/1jw8ltnr1qrj)
+* [2025-11-13, 15:00:03](https://news.ycombinator.com/item?id=45915674) - [No Competition? That's Usually a Red Flag for Solopreneurs](https://meysam.io/blog/no-competition-red-flag-solopreneur-validated-market/)
+* [2025-11-13, 14:37:54](https://news.ycombinator.com/item?id=45915380) - [Google Posts Device Trees for Booting Pixel 10 with Mainline Linux Kernel](https://www.phoronix.com/news/Google-Pixel-10-Google-DTs)
 * [2025-11-13, 14:14:36](https://news.ycombinator.com/item?id=45915114) - [Show HN: Kratos - Cloud native Auth0 open-source alternative (self-hosted)](https://github.com/ory/kratos)
+* [2025-11-13, 14:10:48](https://news.ycombinator.com/item?id=45915069) - [Denx (a.k.a. U-Boot) Retires](https://www.denx.de/)
+* [2025-11-13, 13:43:50](https://news.ycombinator.com/item?id=45914815) - [Heartbeats in Distributed Systems](https://arpitbhayani.me/blogs/heartbeats-in-distributed-systems/)
 * [2025-11-13, 13:38:47](https://news.ycombinator.com/item?id=45914761) - [Blender Lab](https://www.blender.org/news/introducing-blender-lab/)
 * [2025-11-13, 13:34:38](https://news.ycombinator.com/item?id=45914718) - [Britain's railway privatization was an abject failure](https://www.rosalux.de/en/news/id/53917/britains-railway-privatization-was-an-abject-failure)
 * [2025-11-13, 11:31:23](https://news.ycombinator.com/item?id=45913663) - [Hack Club has been handling children's data for 4 years without a privacy policy](https://kys.llc/blog/my-hackclub-story)
