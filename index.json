@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-11-13, 10:46:26",
+      "https://news.ycombinator.com/item?id=45913319"
+    ],
+    [
+      "fuckborderradius.com",
+      "https://fuckborderradius.com"
+    ]
+  ],
+  [
+    [
+      "2025-11-13, 09:36:51",
+      "https://news.ycombinator.com/item?id=45912785"
+    ],
+    [
+      "Seed. LINE's Custom Typeface",
+      "https://seed.line.me/index_en.html"
+    ]
+  ],
+  [
+    [
       "2025-11-13, 09:30:53",
       "https://news.ycombinator.com/item?id=45912744"
     ],
@@ -47,16 +67,6 @@
     [
       "Meta replaces WhatsApp for Windows with web wrapper that uses 1 GB RAM when idle",
       "https://www.windowslatest.com/2025/11/12/meta-just-killed-native-whatsapp-on-windows-11-now-it-opens-webview-uses-1gb-ram-all-the-time/"
-    ]
-  ],
-  [
-    [
-      "2025-11-13, 03:32:24",
-      "https://news.ycombinator.com/item?id=45910244"
-    ],
-    [
-      "On USB HID, Keyboard LEDs, and device emulation (2024)",
-      "https://epsilon537.github.io/boxlambda/usb-hid/"
     ]
   ],
   [
@@ -161,16 +171,6 @@
   ],
   [
     [
-      "2025-11-12, 17:43:42",
-      "https://news.ycombinator.com/item?id=45903161"
-    ],
-    [
-      "Launch HN: JSX Tool (YC F25) – A Browser Dev-Panel IDE for React",
-      "https://news.ycombinator.com/item?id=45903161"
-    ]
-  ],
-  [
-    [
       "2025-11-12, 17:24:54",
       "https://news.ycombinator.com/item?id=45902898"
     ],
@@ -187,16 +187,6 @@
     [
       "Helm 4.0",
       "https://github.com/helm/helm/releases/tag/v4.0.0"
-    ]
-  ],
-  [
-    [
-      "2025-11-12, 16:40:17",
-      "https://news.ycombinator.com/item?id=45902273"
-    ],
-    [
-      "Digital ID, a new way to create and present an ID in Apple Wallet",
-      "https://www.apple.com/newsroom/2025/11/apple-introduces-digital-id-a-new-way-to-create-and-present-an-id-in-apple-wallet/"
     ]
   ],
   [
@@ -257,6 +247,16 @@
     [
       "Comparing the Latitude of Europe and America",
       "https://vividmaps.com/comparing-latitude-of-europe-and-america/"
+    ]
+  ],
+  [
+    [
+      "2025-11-08, 16:08:10",
+      "https://news.ycombinator.com/item?id=45857657"
+    ],
+    [
+      "Shader Glass",
+      "https://github.com/mausimus/ShaderGlass"
     ]
   ],
   [
