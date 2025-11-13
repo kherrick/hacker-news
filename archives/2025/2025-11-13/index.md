@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-11-13](index.md)
 
+* [2025-11-13, 15:38:04](https://news.ycombinator.com/item?id=45916146) - [Tesla Is Recalling Cybertrucks Again. Yep, More Pieces Are Falling Off](https://www.popularmechanics.com/cars/hybrid-electric/a69384091/cybertruck-lightbar-recall/)
+* [2025-11-13, 15:30:15](https://news.ycombinator.com/item?id=45916044) - [European Nations Decide Against Acquiring Boeing E-7 Awacs Aircraft](https://defensemirror.com/news/40527/European_Nations_Decide_Against_Acquiring_Boeing_E_7_AWACS_Aircraft)
 * [2025-11-13, 15:29:38](https://news.ycombinator.com/item?id=45916037) - [SIMA 2: An Agent That Plays, Reasons, and Learns with You in Virtual 3D Worlds](https://deepmind.google/blog/sima-2-an-agent-that-plays-reasons-and-learns-with-you-in-virtual-3d-worlds/)
 * [2025-11-13, 15:17:57](https://news.ycombinator.com/item?id=45915884) - [We cut our Mongo DB costs by 90% by moving to Hetzner](https://prosopo.io/blog/we-cut-our-mongodb-costs-by-90-percent/)
 * [2025-11-13, 15:04:39](https://news.ycombinator.com/item?id=45915731) - [GitHub Partial Outage](https://www.githubstatus.com/incidents/1jw8ltnr1qrj)
