@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-11-13, 17:00:44](https://news.ycombinator.com/item?id=45917282) - [BAML is hiring compilers/rust engineers (YC W23)](https://github.com/BoundaryML/baml/tree/canary/jobs)
 * [2025-11-13, 16:20:47](https://news.ycombinator.com/item?id=45916762) - [The Monks in the Casino](https://www.derekthompson.org/p/the-monks-in-the-casino)
 * [2025-11-13, 16:03:04](https://news.ycombinator.com/item?id=45916525) - [Launch HN: Tweeks (YC W25) – Browser extension to de-enshittify the web](https://www.tweeks.io/onboarding)
 * [2025-11-13, 15:41:26](https://news.ycombinator.com/item?id=45916196) - [Zed Is Our Office](https://zed.dev/blog/zed-is-our-office)
@@ -16,7 +17,6 @@
 * [2025-11-13, 13:38:47](https://news.ycombinator.com/item?id=45914761) - [Blender Lab](https://www.blender.org/news/introducing-blender-lab/)
 * [2025-11-13, 13:34:38](https://news.ycombinator.com/item?id=45914718) - [Britain's railway privatization was an abject failure](https://www.rosalux.de/en/news/id/53917/britains-railway-privatization-was-an-abject-failure)
 * [2025-11-13, 09:36:51](https://news.ycombinator.com/item?id=45912785) - [Seed. LINE's Custom Typeface](https://seed.line.me/index_en.html)
-* [2025-11-13, 09:30:53](https://news.ycombinator.com/item?id=45912744) - [Telli (Voice AI – YC F24) is hiring engineers in Berlin](https://hi.telli.com/eng)
 * [2025-11-13, 09:23:30](https://news.ycombinator.com/item?id=45912698) - [Checkout.com hacked, refuses ransom payment, donates to security labs](https://www.checkout.com/blog/protecting-our-merchants-standing-up-to-extortion)
 * [2025-11-13, 07:12:01](https://news.ycombinator.com/item?id=45911704) - [Reverse Engineering Yaesu FT-70D Firmware Encryption](https://landaire.net/reversing-yaesu-firmware-encryption/)
 * [2025-11-13, 03:49:23](https://news.ycombinator.com/item?id=45910381) - [Android 16 QPR1 is being pushed to the Android Open Source Project](https://grapheneos.social/@GrapheneOS/115533432439509433)
@@ -26,10 +26,10 @@
 * [2025-11-12, 19:05:41](https://news.ycombinator.com/item?id=45904551) - [GPT-5.1: A smarter, more conversational ChatGPT](https://openai.com/index/gpt-5-1/)
 * [2025-11-12, 17:59:43](https://news.ycombinator.com/item?id=45903404) - [Steam Machine](https://store.steampowered.com/sale/steammachine)
 * [2025-11-08, 16:08:10](https://news.ycombinator.com/item?id=45857657) - [Shader Glass](https://github.com/mausimus/ShaderGlass)
-* [2025-11-06, 20:26:58](https://news.ycombinator.com/item?id=45839980) - [Transpiler, a Meaningless Word (2023)](https://people.csail.mit.edu/rachit/post/transpiler/)
+* [2025-11-08, 05:32:31](https://news.ycombinator.com/item?id=45854418) - [COBOL to Kotlin via Formal Models (IR and Alloy and Golden Master)](https://marcoeg.medium.com/from-cobol-to-kotlin-795920b1f371)
 * [2025-11-05, 21:49:12](https://news.ycombinator.com/item?id=45828523) - [Continuous Autoregressive Language Models](https://arxiv.org/abs/2510.27688)
-* [2025-11-05, 16:49:58](https://news.ycombinator.com/item?id=45825040) - [Switching from GPG to Age](https://luke.hsiao.dev/blog/gpg-to-age/)
 * [2025-11-04, 13:00:55](https://news.ycombinator.com/item?id=45810516) - [A Challenge to Roboticists: My Humanoid Olympics](https://spectrum.ieee.org/humanoid-robot-olympics)
+* [2025-11-02, 14:19:08](https://news.ycombinator.com/item?id=45790530) - [The Useful Personal Computer](https://technicshistory.com/2025/11/02/the-useful-personal-computer/)
 
 ## [Archives](archives/index.md)
 

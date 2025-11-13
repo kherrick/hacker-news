@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-11-13](index.md)
 
+* [2025-11-13, 17:00:44](https://news.ycombinator.com/item?id=45917282) - [BAML is hiring compilers/rust engineers (YC W23)](https://github.com/BoundaryML/baml/tree/canary/jobs)
 * [2025-11-13, 16:20:47](https://news.ycombinator.com/item?id=45916762) - [The Monks in the Casino](https://www.derekthompson.org/p/the-monks-in-the-casino)
 * [2025-11-13, 16:03:04](https://news.ycombinator.com/item?id=45916525) - [Launch HN: Tweeks (YC W25) – Browser extension to de-enshittify the web](https://www.tweeks.io/onboarding)
 * [2025-11-13, 15:41:26](https://news.ycombinator.com/item?id=45916196) - [Zed Is Our Office](https://zed.dev/blog/zed-is-our-office)
