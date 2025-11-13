@@ -1,12 +1,52 @@
 [
   [
     [
-      "2025-11-13, 03:19:28",
-      "https://news.ycombinator.com/item?id=45910142"
+      "2025-11-13, 04:26:56",
+      "https://news.ycombinator.com/item?id=45910625"
     ],
     [
-      "Marion County agrees to pay out $3M for newspaper raid, expresses regret",
-      "https://kansasreflector.com/2025/11/11/marion-county-agrees-to-pay-out-3m-for-newspaper-raid-express-regret/"
+      "CollectWise (YC F24) Is Hiring",
+      "https://www.ycombinator.com/companies/collectwise/jobs/tv3ufcc-forward-deployed-engineer"
+    ]
+  ],
+  [
+    [
+      "2025-11-13, 03:49:23",
+      "https://news.ycombinator.com/item?id=45910381"
+    ],
+    [
+      "Google open-sources Android 16 QPR1, two months late",
+      "https://grapheneos.social/@GrapheneOS/115533432439509433"
+    ]
+  ],
+  [
+    [
+      "2025-11-13, 03:48:15",
+      "https://news.ycombinator.com/item?id=45910370"
+    ],
+    [
+      "A67z",
+      "https://www.a67z.com/"
+    ]
+  ],
+  [
+    [
+      "2025-11-13, 03:39:56",
+      "https://news.ycombinator.com/item?id=45910305"
+    ],
+    [
+      "Bitcoin's big secret: How cryptocurrency became law enforcement's secret weapon",
+      "https://bitwarden.com/blog/how-cryptocurrency-became-law-enforcements-secret-weapon/"
+    ]
+  ],
+  [
+    [
+      "2025-11-13, 03:32:24",
+      "https://news.ycombinator.com/item?id=45910244"
+    ],
+    [
+      "On USB HID, Keyboard LEDs, and device emulation (2024)",
+      "https://epsilon537.github.io/boxlambda/usb-hid/"
     ]
   ],
   [
@@ -37,16 +77,6 @@
     [
       "Google will allow users to sideload Android apps without verification",
       "https://android-developers.googleblog.com/2025/11/android-developer-verification-early.html"
-    ]
-  ],
-  [
-    [
-      "2025-11-13, 00:01:55",
-      "https://news.ycombinator.com/item?id=45908680"
-    ],
-    [
-      "Louisiana Took Months to Sound Alarm Amid Whooping Cough Outbreak",
-      "https://undark.org/2025/11/11/louisiana-whooping-cough-slow/"
     ]
   ],
   [
@@ -87,26 +117,6 @@
     [
       "Homebrew no longer allows bypassing Gatekeeper for unsigned/unnotarized software",
       "https://github.com/Homebrew/brew/issues/20755"
-    ]
-  ],
-  [
-    [
-      "2025-11-12, 21:00:43",
-      "https://news.ycombinator.com/item?id=45906604"
-    ],
-    [
-      "OmniAI (YC W24) Is Hiring Forward Deployed Engineers",
-      "https://www.ycombinator.com/companies/omniai/jobs/fuTMf2w-forward-deployed-engineer"
-    ]
-  ],
-  [
-    [
-      "2025-11-12, 20:02:58",
-      "https://news.ycombinator.com/item?id=45905620"
-    ],
-    [
-      "Making the Clang AST Leaner and Faster",
-      "https://cppalliance.org/mizvekov,/clang/2025/10/20/Making-Clang-AST-Leaner-Faster.html"
     ]
   ],
   [
@@ -231,16 +241,6 @@
   ],
   [
     [
-      "2025-11-12, 05:36:41",
-      "https://news.ycombinator.com/item?id=45896707"
-    ],
-    [
-      "Hard drives on backorder for two years as AI data centers trigger HDD shortage",
-      "https://www.tomshardware.com/pc-components/hdds/ai-triggers-hard-drive-shortage-amidst-dram-squeeze-enterprise-hard-drives-on-backorder-by-2-years-as-hyperscalers-switch-to-qlc-ssds"
-    ]
-  ],
-  [
-    [
       "2025-11-08, 11:49:36",
       "https://news.ycombinator.com/item?id=45856014"
     ],
@@ -281,12 +281,12 @@
   ],
   [
     [
-      "2025-11-03, 19:10:36",
-      "https://news.ycombinator.com/item?id=45803071"
+      "2025-11-03, 14:54:54",
+      "https://news.ycombinator.com/item?id=45799664"
     ],
     [
-      "Software Development in the Time of New Angels",
-      "https://davegriffith.substack.com/p/software-development-in-the-time"
+      "Mergiraf: Syntax-Aware Merging for Git",
+      "https://lwn.net/SubscriberLink/1042355/434ad706cc594276/"
     ]
   ],
   [
