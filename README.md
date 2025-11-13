@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-11-13, 16:03:04](https://news.ycombinator.com/item?id=45916525) - [Launch HN: Tweeks (YC W25) – Browser extension to de-enshittify the web](https://www.tweeks.io/onboarding)
 * [2025-11-13, 15:38:04](https://news.ycombinator.com/item?id=45916146) - [Tesla Is Recalling Cybertrucks Again. Yep, More Pieces Are Falling Off](https://www.popularmechanics.com/cars/hybrid-electric/a69384091/cybertruck-lightbar-recall/)
 * [2025-11-13, 15:30:15](https://news.ycombinator.com/item?id=45916044) - [European Nations Decide Against Acquiring Boeing E-7 Awacs Aircraft](https://defensemirror.com/news/40527/European_Nations_Decide_Against_Acquiring_Boeing_E_7_AWACS_Aircraft)
 * [2025-11-13, 15:29:38](https://news.ycombinator.com/item?id=45916037) - [SIMA 2: An Agent That Plays, Reasons, and Learns with You in Virtual 3D Worlds](https://deepmind.google/blog/sima-2-an-agent-that-plays-reasons-and-learns-with-you-in-virtual-3d-worlds/)
@@ -22,14 +23,13 @@
 * [2025-11-12, 19:05:41](https://news.ycombinator.com/item?id=45904551) - [GPT-5.1: A smarter, more conversational ChatGPT](https://openai.com/index/gpt-5-1/)
 * [2025-11-12, 17:59:43](https://news.ycombinator.com/item?id=45903404) - [Steam Machine](https://store.steampowered.com/sale/steammachine)
 * [2025-11-12, 17:54:58](https://news.ycombinator.com/item?id=45903325) - [Steam Frame](https://store.steampowered.com/sale/steamframe)
-* [2025-11-12, 17:24:54](https://news.ycombinator.com/item?id=45902898) - [Project Euler](https://projecteuler.net)
 * [2025-11-08, 16:08:10](https://news.ycombinator.com/item?id=45857657) - [Shader Glass](https://github.com/mausimus/ShaderGlass)
+* [2025-11-08, 05:32:31](https://news.ycombinator.com/item?id=45854418) - [COBOL to Kotlin via Formal Models (IR and Alloy and Golden Master)](https://marcoeg.medium.com/from-cobol-to-kotlin-795920b1f371)
 * [2025-11-06, 20:26:58](https://news.ycombinator.com/item?id=45839980) - [Transpiler, a Meaningless Word (2023)](https://people.csail.mit.edu/rachit/post/transpiler/)
 * [2025-11-05, 21:49:12](https://news.ycombinator.com/item?id=45828523) - [Continuous Autoregressive Language Models](https://arxiv.org/abs/2510.27688)
 * [2025-11-05, 16:49:58](https://news.ycombinator.com/item?id=45825040) - [Switching from GPG to Age](https://luke.hsiao.dev/blog/gpg-to-age/)
 * [2025-11-04, 13:00:55](https://news.ycombinator.com/item?id=45810516) - [A Challenge to Roboticists: My Humanoid Olympics](https://spectrum.ieee.org/humanoid-robot-olympics)
 * [2025-11-04, 06:43:25](https://news.ycombinator.com/item?id=45808047) - [Randomness Testing Guide](https://random.tastemaker.design/)
-* [2025-11-03, 14:54:54](https://news.ycombinator.com/item?id=45799664) - [Mergiraf: Syntax-Aware Merging for Git](https://lwn.net/SubscriberLink/1042355/434ad706cc594276/)
 
 ## [Archives](archives/index.md)
 
