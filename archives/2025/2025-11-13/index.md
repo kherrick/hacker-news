@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-11-13](index.md)
 
+* [2025-11-13, 22:13:21](https://news.ycombinator.com/item?id=45921334) - [Disrupting the first reported AI-orchestrated cyber espionage campaign [pdf]](https://assets.anthropic.com/m/ec212e6566a0d47/original/Disrupting-the-first-reported-AI-orchestrated-cyber-espionage-campaign.pdf)
 * [2025-11-13, 21:49:37](https://news.ycombinator.com/item?id=45921066) - [I'm sorry, but you do not have enough coins for democracy](https://magazine.032c.com/magazine/i-m-sorry-but-you-do-not-have-enough-coins-for-democracy)
 * [2025-11-13, 21:44:16](https://news.ycombinator.com/item?id=45921011) - [Guests ejected mid-stay from bankrupt hotel chain Sonder](https://www.bbc.com/news/articles/c364yg7g351o)
 * [2025-11-13, 21:24:25](https://news.ycombinator.com/item?id=45920748) - [Blue Origin lands New Glenn rocket booster on second try](https://techcrunch.com/2025/11/13/blue-origin-lands-new-glenn-rocket-booster-on-second-try/)

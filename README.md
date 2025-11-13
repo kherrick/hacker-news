@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-11-13, 22:13:21](https://news.ycombinator.com/item?id=45921334) - [Disrupting the first reported AI-orchestrated cyber espionage campaign [pdf]](https://assets.anthropic.com/m/ec212e6566a0d47/original/Disrupting-the-first-reported-AI-orchestrated-cyber-espionage-campaign.pdf)
 * [2025-11-13, 21:44:16](https://news.ycombinator.com/item?id=45921011) - [Guests ejected mid-stay from bankrupt hotel chain Sonder](https://www.bbc.com/news/articles/c364yg7g351o)
 * [2025-11-13, 21:24:25](https://news.ycombinator.com/item?id=45920748) - [Blue Origin lands New Glenn rocket booster on second try](https://techcrunch.com/2025/11/13/blue-origin-lands-new-glenn-rocket-booster-on-second-try/)
 * [2025-11-13, 21:18:14](https://news.ycombinator.com/item?id=45920677) - [OpenMANET Wi-Fi HaLow open-source project for Raspberry Pi–based MANET radios](https://openmanet.net/)
@@ -17,7 +18,6 @@
 * [2025-11-13, 15:17:57](https://news.ycombinator.com/item?id=45915884) - [We cut our Mongo DB costs by 90% by moving to Hetzner](https://prosopo.io/blog/we-cut-our-mongodb-costs-by-90-percent/)
 * [2025-11-13, 15:04:39](https://news.ycombinator.com/item?id=45915731) - [GitHub Partial Outage](https://www.githubstatus.com/incidents/1jw8ltnr1qrj)
 * [2025-11-13, 14:21:25](https://news.ycombinator.com/item?id=45915210) - [How To Build A Smartwatch: Software](https://ericmigi.com/blog/how-to-build-a-smartwatch-software-setting-expectations-and-roadmap/)
-* [2025-11-13, 14:14:36](https://news.ycombinator.com/item?id=45915114) - [Kratos - Cloud native Auth0 open-source alternative (self-hosted)](https://github.com/ory/kratos)
 * [2025-11-13, 14:10:48](https://news.ycombinator.com/item?id=45915069) - [Denx (a.k.a. U-Boot) Retires](https://www.denx.de/)
 * [2025-11-13, 13:43:50](https://news.ycombinator.com/item?id=45914815) - [Heartbeats in Distributed Systems](https://arpitbhayani.me/blogs/heartbeats-in-distributed-systems/)
 * [2025-11-13, 13:38:47](https://news.ycombinator.com/item?id=45914761) - [Blender Lab](https://www.blender.org/news/introducing-blender-lab/)
