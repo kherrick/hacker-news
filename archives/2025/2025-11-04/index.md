@@ -29,6 +29,7 @@
 * [2025-11-04, 20:16:45](https://news.ycombinator.com/item?id=45815419) - [I was right about dishwasher pods and now I can prove it [video]](https://www.youtube.com/watch?v=DAX2_mPr9W8)
 * [2025-11-04, 20:02:51](https://news.ycombinator.com/item?id=45815279) - [Singapore to cane scammers as billions lost in financial crimes](https://www.freemalaysiatoday.com/category/highlight/2025/11/04/singapore-to-cane-scammers-as-billions-lost-in-financial-crimes)
 * [2025-11-04, 19:34:26](https://news.ycombinator.com/item?id=45815010) - [Cheaper MacBook powered by iPhone chip coming in 2026, per new report](https://9to5mac.com/2025/11/04/cheaper-macbook-powered-by-iphone-chip-coming-in-2026-per-new-report/)
+* [2025-11-04, 19:27:55](https://news.ycombinator.com/item?id=45814939) - [Why do we need dithering?](https://typefully.com/DanHollick/why-do-we-need-dithering-Ut7oD4k)
 * [2025-11-04, 18:48:06](https://news.ycombinator.com/item?id=45814522) - [Man spent 200 days building a solar-powered explorer yacht that can run forever](https://supercarblondie.com/solar-powered-explorer-yacht-helios-11/)
 * [2025-11-04, 18:43:11](https://news.ycombinator.com/item?id=45814461) - [Amazon Demands Perplexity Stop AI Agent from Making Purchases](https://www.bloomberg.com/news/articles/2025-11-04/amazon-demands-perplexity-stop-ai-agent-from-making-purchases)
 * [2025-11-04, 18:08:21](https://news.ycombinator.com/item?id=45814019) - [Using Street Lamps as EV Chargers – Tech Briefs](https://www.techbriefs.com/component/content/article/54104-using-street-lamps-as-ev-chargers)
