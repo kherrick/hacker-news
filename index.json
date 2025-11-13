@@ -1,12 +1,32 @@
 [
   [
     [
-      "2025-11-13, 20:32:07",
-      "https://news.ycombinator.com/item?id=45920126"
+      "2025-11-13, 21:00:27",
+      "https://news.ycombinator.com/item?id=45920468"
     ],
     [
-      "Tesla Recalls Powerwall 2 AC Battery Power Systems Due to Fire and Burn Hazards",
-      "https://www.cpsc.gov/Recalls/2026/Tesla-Recalls-Powerwall-2-AC-Battery-Power-Systems-Due-to-Fire-and-Burn-Hazards-Risk-of-Serious-Injury-or-Death"
+      "Piramidal (YC W24) Hiring: Front End Engineer",
+      "https://www.ycombinator.com/companies/piramidal/jobs/i9yNX5s-front-end-engineer-user-interface"
+    ]
+  ],
+  [
+    [
+      "2025-11-13, 20:33:43",
+      "https://news.ycombinator.com/item?id=45920156"
+    ],
+    [
+      "Show HN: DBOS Java – Postgres-Backed Durable Workflows",
+      "https://github.com/dbos-inc/dbos-transact-java"
+    ]
+  ],
+  [
+    [
+      "2025-11-13, 20:25:09",
+      "https://news.ycombinator.com/item?id=45920049"
+    ],
+    [
+      "Parsing Integers in C",
+      "https://daniel.haxx.se/blog/2025/11/13/parsing-integers-in-c/"
     ]
   ],
   [
@@ -67,16 +87,6 @@
     [
       "Nano Banana can be prompt engineered for nuanced AI image generation",
       "https://minimaxir.com/2025/11/nano-banana-prompts/"
-    ]
-  ],
-  [
-    [
-      "2025-11-13, 17:00:44",
-      "https://news.ycombinator.com/item?id=45917282"
-    ],
-    [
-      "BAML is hiring compilers/rust engineers (YC W23)",
-      "https://github.com/BoundaryML/baml/tree/canary/jobs"
     ]
   ],
   [
@@ -245,18 +255,8 @@
       "https://news.ycombinator.com/item?id=45864954"
     ],
     [
-      "Think in Math. Write in Code",
+      "Think in math, write in code",
       "https://www.jmeiners.com/think-in-math/"
-    ]
-  ],
-  [
-    [
-      "2025-11-08, 05:32:31",
-      "https://news.ycombinator.com/item?id=45854418"
-    ],
-    [
-      "COBOL to Kotlin via Formal Models (IR and Alloy and Golden Master)",
-      "https://marcoeg.medium.com/from-cobol-to-kotlin-795920b1f371"
     ]
   ],
   [
