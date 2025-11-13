@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-11-13, 03:19:28](https://news.ycombinator.com/item?id=45910142) - [Marion County agrees to pay out $3M for newspaper raid, expresses regret](https://kansasreflector.com/2025/11/11/marion-county-agrees-to-pay-out-3m-for-newspaper-raid-express-regret/)
 * [2025-11-13, 02:17:30](https://news.ycombinator.com/item?id=45909667) - [My dad could still be alive, but he's not](https://www.jenn.site/my-dad-could-still-be-alive-but-hes-not/)
 * [2025-11-13, 00:48:45](https://news.ycombinator.com/item?id=45909059) - [Human Fovea Detector](https://www.shadertoy.com/view/4dsXzM)
 * [2025-11-13, 00:33:25](https://news.ycombinator.com/item?id=45908938) - [Google will allow users to sideload Android apps without verification](https://android-developers.googleblog.com/2025/11/android-developer-verification-early.html)
@@ -23,7 +24,6 @@
 * [2025-11-12, 12:10:11](https://news.ycombinator.com/item?id=45899189) - [A brief look at FreeBSD](https://yorickpeterse.com/articles/a-brief-look-at-freebsd/)
 * [2025-11-12, 10:12:53](https://news.ycombinator.com/item?id=45898407) - [Yt-dlp: External JavaScript runtime now required for full YouTube support](https://github.com/yt-dlp/yt-dlp/issues/15012)
 * [2025-11-12, 05:36:41](https://news.ycombinator.com/item?id=45896707) - [Hard drives on backorder for two years as AI data centers trigger HDD shortage](https://www.tomshardware.com/pc-components/hdds/ai-triggers-hard-drive-shortage-amidst-dram-squeeze-enterprise-hard-drives-on-backorder-by-2-years-as-hyperscalers-switch-to-qlc-ssds)
-* [2025-11-11, 15:44:35](https://news.ycombinator.com/item?id=45888620) - [.NET 10](https://devblogs.microsoft.com/dotnet/announcing-dotnet-10/)
 * [2025-11-08, 11:49:36](https://news.ycombinator.com/item?id=45856014) - [Disassembling terabytes of random data with Zig and Capstone to prove a point](https://jstrieb.github.io/posts/random-instructions/)
 * [2025-11-06, 16:33:42](https://news.ycombinator.com/item?id=45837042) - [Benzene at 200](https://www.rigb.org/explore-science/explore/blog/tiny-vial-changed-world-benzene-200)
 * [2025-11-05, 10:01:03](https://news.ycombinator.com/item?id=45821265) - [Tetrahedral Analog of the Pythagorean Theorem](https://www.johndcook.com/blog/2025/11/03/de-gua/)
