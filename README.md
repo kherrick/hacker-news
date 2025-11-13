@@ -2,7 +2,6 @@
 
 * [2025-11-13, 18:01:52](https://news.ycombinator.com/item?id=45918203) - [Microsoft confirms Windows 11 is about to change gets enormous backlash – Neowin](https://www.neowin.net/news/microsoft-confirms-windows-11-is-about-to-change-massively-gets-enormous-backlash/)
 * [2025-11-13, 17:39:13](https://news.ycombinator.com/item?id=45917875) - [Nano Banana can be prompt engineered for nuanced AI image generation](https://minimaxir.com/2025/11/nano-banana-prompts/)
-* [2025-11-13, 17:36:47](https://news.ycombinator.com/item?id=45917830) - [Let AI do the hard parts of your holiday shopping](https://blog.google/products/shopping/agentic-checkout-holiday-ai-shopping/)
 * [2025-11-13, 17:22:10](https://news.ycombinator.com/item?id=45917618) - [Rand Paul: Congress bill destroys hemp farmer livelihoods](https://www.courier-journal.com/story/opinion/contributors/2025/11/13/rand-paul-congress-funding-bill-hemp-products-farmers/87247317007/)
 * [2025-11-13, 17:00:44](https://news.ycombinator.com/item?id=45917282) - [BAML is hiring compilers/rust engineers (YC W23)](https://github.com/BoundaryML/baml/tree/canary/jobs)
 * [2025-11-13, 16:03:04](https://news.ycombinator.com/item?id=45916525) - [Launch HN: Tweeks (YC W25) – Browser extension to de-enshittify the web](https://www.tweeks.io/onboarding)
@@ -28,6 +27,7 @@
 * [2025-11-12, 17:59:43](https://news.ycombinator.com/item?id=45903404) - [Steam Machine](https://store.steampowered.com/sale/steammachine)
 * [2025-11-09, 12:03:15](https://news.ycombinator.com/item?id=45864954) - [Think in Math. Write in Code](https://www.jmeiners.com/think-in-math/)
 * [2025-11-08, 05:32:31](https://news.ycombinator.com/item?id=45854418) - [COBOL to Kotlin via Formal Models (IR and Alloy and Golden Master)](https://marcoeg.medium.com/from-cobol-to-kotlin-795920b1f371)
+* [2025-11-05, 21:49:12](https://news.ycombinator.com/item?id=45828523) - [Continuous Autoregressive Language Models](https://arxiv.org/abs/2510.27688)
 * [2025-11-04, 13:00:55](https://news.ycombinator.com/item?id=45810516) - [A Challenge to Roboticists: My Humanoid Olympics](https://spectrum.ieee.org/humanoid-robot-olympics)
 * [2025-11-02, 14:19:08](https://news.ycombinator.com/item?id=45790530) - [The Useful Personal Computer](https://technicshistory.com/2025/11/02/the-useful-personal-computer/)
 
