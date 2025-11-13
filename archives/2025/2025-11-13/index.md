@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-11-13](index.md)
 
+* [2025-11-13, 21:18:14](https://news.ycombinator.com/item?id=45920677) - [OpenMANET Wi-Fi HaLow open-source project for Raspberry Pi–based MANET radios](https://openmanet.net/)
 * [2025-11-13, 21:00:27](https://news.ycombinator.com/item?id=45920468) - [Piramidal (YC W24) Hiring: Front End Engineer](https://www.ycombinator.com/companies/piramidal/jobs/i9yNX5s-front-end-engineer-user-interface)
 * [2025-11-13, 20:33:43](https://news.ycombinator.com/item?id=45920156) - [Show HN: DBOS Java – Postgres-Backed Durable Workflows](https://github.com/dbos-inc/dbos-transact-java)
 * [2025-11-13, 20:32:07](https://news.ycombinator.com/item?id=45920126) - [Tesla Recalls Powerwall 2 AC Battery Power Systems Due to Fire and Burn Hazards](https://www.cpsc.gov/Recalls/2026/Tesla-Recalls-Powerwall-2-AC-Battery-Power-Systems-Due-to-Fire-and-Burn-Hazards-Risk-of-Serious-Injury-or-Death)

@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-11-13, 21:18:14](https://news.ycombinator.com/item?id=45920677) - [OpenMANET Wi-Fi HaLow open-source project for Raspberry Pi–based MANET radios](https://openmanet.net/)
 * [2025-11-13, 21:00:27](https://news.ycombinator.com/item?id=45920468) - [Piramidal (YC W24) Hiring: Front End Engineer](https://www.ycombinator.com/companies/piramidal/jobs/i9yNX5s-front-end-engineer-user-interface)
 * [2025-11-13, 20:33:43](https://news.ycombinator.com/item?id=45920156) - [Show HN: DBOS Java – Postgres-Backed Durable Workflows](https://github.com/dbos-inc/dbos-transact-java)
 * [2025-11-13, 20:25:09](https://news.ycombinator.com/item?id=45920049) - [Parsing Integers in C](https://daniel.haxx.se/blog/2025/11/13/parsing-integers-in-c/)
@@ -21,14 +22,13 @@
 * [2025-11-13, 13:43:50](https://news.ycombinator.com/item?id=45914815) - [Heartbeats in Distributed Systems](https://arpitbhayani.me/blogs/heartbeats-in-distributed-systems/)
 * [2025-11-13, 13:38:47](https://news.ycombinator.com/item?id=45914761) - [Blender Lab](https://www.blender.org/news/introducing-blender-lab/)
 * [2025-11-13, 09:23:30](https://news.ycombinator.com/item?id=45912698) - [Checkout.com hacked, refuses ransom payment, donates to security labs](https://www.checkout.com/blog/protecting-our-merchants-standing-up-to-extortion)
-* [2025-11-13, 03:49:23](https://news.ycombinator.com/item?id=45910381) - [Android 16 QPR1 is being pushed to the Android Open Source Project](https://grapheneos.social/@GrapheneOS/115533432439509433)
 * [2025-11-13, 00:48:45](https://news.ycombinator.com/item?id=45909059) - [Human Fovea Detector](https://www.shadertoy.com/view/4dsXzM)
 * [2025-11-13, 00:33:25](https://news.ycombinator.com/item?id=45908938) - [Android developer verification: Early access starts](https://android-developers.googleblog.com/2025/11/android-developer-verification-early.html)
 * [2025-11-12, 17:59:43](https://news.ycombinator.com/item?id=45903404) - [Steam Machine](https://store.steampowered.com/sale/steammachine)
 * [2025-11-09, 12:03:15](https://news.ycombinator.com/item?id=45864954) - [Think in math, write in code](https://www.jmeiners.com/think-in-math/)
+* [2025-11-07, 16:58:08](https://news.ycombinator.com/item?id=45848409) - [The Grand Egyptian Museum's Astonishing Arrival](https://www.wsj.com/arts-culture/fine-art/the-grand-egyptian-museums-astonishing-arrival-ac477d5f)
 * [2025-11-07, 00:47:35](https://news.ycombinator.com/item?id=45842419) - [Remind: A sophisticated calendar and alarm program](https://dianne.skoll.ca/projects/remind/)
 * [2025-11-04, 13:00:55](https://news.ycombinator.com/item?id=45810516) - [A Challenge to Roboticists: My Humanoid Olympics](https://spectrum.ieee.org/humanoid-robot-olympics)
-* [2025-11-04, 12:51:39](https://news.ycombinator.com/item?id=45810409) - [Family Computing Interviews Jack Tramiel After Atari Purchase (1985)](https://computeradsfromthepast.substack.com/p/family-computing-interviews-jack)
 * [2025-11-02, 14:19:08](https://news.ycombinator.com/item?id=45790530) - [The Useful Personal Computer](https://technicshistory.com/2025/11/02/the-useful-personal-computer/)
 
 ## [Archives](archives/index.md)
