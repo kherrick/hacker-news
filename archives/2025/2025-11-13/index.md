@@ -15,6 +15,7 @@
 * [2025-11-13, 15:04:39](https://news.ycombinator.com/item?id=45915731) - [GitHub Partial Outage](https://www.githubstatus.com/incidents/1jw8ltnr1qrj)
 * [2025-11-13, 15:00:03](https://news.ycombinator.com/item?id=45915674) - [No Competition? That's Usually a Red Flag for Solopreneurs](https://meysam.io/blog/no-competition-red-flag-solopreneur-validated-market/)
 * [2025-11-13, 14:37:54](https://news.ycombinator.com/item?id=45915380) - [Google Posts Device Trees for Booting Pixel 10 with Mainline Linux Kernel](https://www.phoronix.com/news/Google-Pixel-10-Google-DTs)
+* [2025-11-13, 14:21:25](https://news.ycombinator.com/item?id=45915210) - [Pebble: How to Build a Smartwatch: Software – Setting Expectations and Roadmap](https://ericmigi.com/blog/how-to-build-a-smartwatch-software-setting-expectations-and-roadmap/)
 * [2025-11-13, 14:14:36](https://news.ycombinator.com/item?id=45915114) - [Show HN: Kratos - Cloud native Auth0 open-source alternative (self-hosted)](https://github.com/ory/kratos)
 * [2025-11-13, 14:10:48](https://news.ycombinator.com/item?id=45915069) - [Denx (a.k.a. U-Boot) Retires](https://www.denx.de/)
 * [2025-11-13, 13:43:50](https://news.ycombinator.com/item?id=45914815) - [Heartbeats in Distributed Systems](https://arpitbhayani.me/blogs/heartbeats-in-distributed-systems/)
