@@ -71,3 +71,4 @@
 * [2025-11-05, 01:44:42](https://news.ycombinator.com/item?id=45818089) - [At least 3 dead after cargo plane crashes at Kentucky airport](https://www.bbc.com/news/live/c201kgq59qgt)
 * [2025-11-05, 01:37:53](https://news.ycombinator.com/item?id=45818043) - [At least 3 dead after UPS plane crashes at Louisville airport; fire spreading](https://www.wlky.com/article/plane-crash-explosion-louisville-airport/69255042)
 * [2025-11-05, 00:22:16](https://news.ycombinator.com/item?id=45817559) - [The Physics of News, Rumors, and Opinions](https://arxiv.org/abs/2510.15053)
+* [2025-11-05, 00:08:14](https://news.ycombinator.com/item?id=45817425) - [Enabling Trillion-Parameter Models on AWS EFA](https://research.perplexity.ai/articles/enabling-trillion-parameter-models-on-aws-efa)
