@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-11-13, 02:17:30",
+      "https://news.ycombinator.com/item?id=45909667"
+    ],
+    [
+      "My dad could still be alive, but he's not",
+      "https://www.jenn.site/my-dad-could-still-be-alive-but-hes-not/"
+    ]
+  ],
+  [
+    [
+      "2025-11-13, 00:33:25",
+      "https://news.ycombinator.com/item?id=45908938"
+    ],
+    [
+      "Google will allow users to sideload Android apps without verification",
+      "https://android-developers.googleblog.com/2025/11/android-developer-verification-early.html"
+    ]
+  ],
+  [
+    [
       "2025-11-13, 00:01:55",
       "https://news.ycombinator.com/item?id=45908680"
     ],
@@ -17,6 +37,16 @@
     [
       "Voyager 1 is a light-day away by November 2026",
       "https://www.iflscience.com/on-november-13-2026-voyager-will-reach-one-full-light-day-away-from-earth-81432"
+    ]
+  ],
+  [
+    [
+      "2025-11-12, 23:35:41",
+      "https://news.ycombinator.com/item?id=45908464"
+    ],
+    [
+      "Valve is about to win the console generation",
+      "https://xeiaso.net/blog/2025/valve-is-about-to-win-the-console-generation/"
     ]
   ],
   [
@@ -61,6 +91,16 @@
   ],
   [
     [
+      "2025-11-12, 20:35:22",
+      "https://news.ycombinator.com/item?id=45906223"
+    ],
+    [
+      "Show HN: I built a platform where audiences fund debates between public thinkers",
+      "https://logosive.com"
+    ]
+  ],
+  [
+    [
       "2025-11-12, 20:02:58",
       "https://news.ycombinator.com/item?id=45905620"
     ],
@@ -81,32 +121,12 @@
   ],
   [
     [
-      "2025-11-12, 18:35:59",
-      "https://news.ycombinator.com/item?id=45903995"
-    ],
-    [
-      "How Tube Amplifiers Work",
-      "https://robrobinette.com/How_Amps_Work.htm"
-    ]
-  ],
-  [
-    [
       "2025-11-12, 18:26:25",
       "https://news.ycombinator.com/item?id=45903840"
     ],
     [
       "Valve Announces New Steam Machine, Steam Controller and Steam Frame",
       "https://www.phoronix.com/news/Steam-Machines-Frame-2026"
-    ]
-  ],
-  [
-    [
-      "2025-11-12, 18:12:29",
-      "https://news.ycombinator.com/item?id=45903586"
-    ],
-    [
-      "Async and Finaliser Deadlocks",
-      "https://tratt.net/laurie/blog/2025/async_and_finaliser_deadlocks.html"
     ]
   ],
   [
@@ -161,16 +181,6 @@
   ],
   [
     [
-      "2025-11-12, 16:06:29",
-      "https://news.ycombinator.com/item?id=45901855"
-    ],
-    [
-      "Waymo robotaxis are now giving rides on freeways in LA, SF and Phoenix",
-      "https://techcrunch.com/2025/11/12/waymo-robotaxis-are-now-giving-rides-on-freeways-in-these-3-cities/"
-    ]
-  ],
-  [
-    [
       "2025-11-12, 14:54:27",
       "https://news.ycombinator.com/item?id=45900978"
     ],
@@ -191,16 +201,6 @@
   ],
   [
     [
-      "2025-11-12, 13:46:28",
-      "https://news.ycombinator.com/item?id=45900108"
-    ],
-    [
-      "Micro.blog launches new 'Studio' tier with video hosting",
-      "https://heydingus.net/blog/2025/11/micro-blog-offers-an-indie-alternative-to-youtube-with-its-studio-video-hosting-plan"
-    ]
-  ],
-  [
-    [
       "2025-11-12, 12:10:11",
       "https://news.ycombinator.com/item?id=45899189"
     ],
@@ -217,16 +217,6 @@
     [
       "Yt-dlp: External JavaScript runtime now required for full YouTube support",
       "https://github.com/yt-dlp/yt-dlp/issues/15012"
-    ]
-  ],
-  [
-    [
-      "2025-11-12, 09:01:41",
-      "https://news.ycombinator.com/item?id=45897935"
-    ],
-    [
-      "What happened to Transmeta, the last big dotcom IPO",
-      "https://dfarq.homeip.net/what-happened-to-transmeta-the-last-big-dotcom-ipo/"
     ]
   ],
   [
@@ -271,22 +261,32 @@
   ],
   [
     [
+      "2025-11-06, 16:33:42",
+      "https://news.ycombinator.com/item?id=45837042"
+    ],
+    [
+      "Benzene at 200",
+      "https://www.rigb.org/explore-science/explore/blog/tiny-vial-changed-world-benzene-200"
+    ]
+  ],
+  [
+    [
+      "2025-11-03, 19:36:27",
+      "https://news.ycombinator.com/item?id=45803408"
+    ],
+    [
+      "Max Number of Simultaneous Key-Press (N-Key Rollover, NKRO, Ghosting)",
+      "http://xahlee.info/kbd/keyboard_n-key_rollover_key_ghosting.html"
+    ]
+  ],
+  [
+    [
       "2025-11-03, 19:10:36",
       "https://news.ycombinator.com/item?id=45803071"
     ],
     [
       "Software Development in the Time of New Angels",
       "https://davegriffith.substack.com/p/software-development-in-the-time"
-    ]
-  ],
-  [
-    [
-      "2025-11-02, 04:59:39",
-      "https://news.ycombinator.com/item?id=45787948"
-    ],
-    [
-      "Plumbing vs. Internet, Revisited",
-      "https://gwern.net/blog/2025/plumbing-vs-internet"
     ]
   ],
   [
