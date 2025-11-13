@@ -51,16 +51,6 @@
   ],
   [
     [
-      "2025-11-13, 03:32:24",
-      "https://news.ycombinator.com/item?id=45910244"
-    ],
-    [
-      "On USB HID, Keyboard LEDs, and device emulation (2024)",
-      "https://epsilon537.github.io/boxlambda/usb-hid/"
-    ]
-  ],
-  [
-    [
       "2025-11-13, 03:01:47",
       "https://news.ycombinator.com/item?id=45910009"
     ],
@@ -141,12 +131,22 @@
   ],
   [
     [
-      "2025-11-12, 18:46:40",
-      "https://news.ycombinator.com/item?id=45904161"
+      "2025-11-12, 19:50:32",
+      "https://news.ycombinator.com/item?id=45905408"
     ],
     [
-      "Blasting Yeast with UV Light",
-      "https://chillphysicsenjoyer.substack.com/p/results-from-blasting-yeast-with"
+      "GLP-1 drugs linked to lower death rates in colon cancer patients",
+      "https://today.ucsd.edu/story/glp-1-drugs-linked-to-dramatically-lower-death-rates-in-colon-cancer-patients"
+    ]
+  ],
+  [
+    [
+      "2025-11-12, 19:05:41",
+      "https://news.ycombinator.com/item?id=45904551"
+    ],
+    [
+      "GPT-5.1: A smarter, more conversational ChatGPT",
+      "https://openai.com/index/gpt-5-1/"
     ]
   ],
   [
@@ -201,6 +201,26 @@
   ],
   [
     [
+      "2025-11-12, 17:02:38",
+      "https://news.ycombinator.com/item?id=45902604"
+    ],
+    [
+      "Helm 4.0",
+      "https://github.com/helm/helm/releases/tag/v4.0.0"
+    ]
+  ],
+  [
+    [
+      "2025-11-12, 16:40:17",
+      "https://news.ycombinator.com/item?id=45902273"
+    ],
+    [
+      "Digital ID, a new way to create and present an ID in Apple Wallet",
+      "https://www.apple.com/newsroom/2025/11/apple-introduces-digital-id-a-new-way-to-create-and-present-an-id-in-apple-wallet/"
+    ]
+  ],
+  [
+    [
       "2025-11-12, 16:10:13",
       "https://news.ycombinator.com/item?id=45901904"
     ],
@@ -231,42 +251,12 @@
   ],
   [
     [
-      "2025-11-12, 10:12:53",
-      "https://news.ycombinator.com/item?id=45898407"
+      "2025-11-09, 01:44:26",
+      "https://news.ycombinator.com/item?id=45862128"
     ],
     [
-      "Yt-dlp: External JavaScript runtime now required for full YouTube support",
-      "https://github.com/yt-dlp/yt-dlp/issues/15012"
-    ]
-  ],
-  [
-    [
-      "2025-11-08, 11:49:36",
-      "https://news.ycombinator.com/item?id=45856014"
-    ],
-    [
-      "Disassembling terabytes of random data with Zig and Capstone to prove a point",
-      "https://jstrieb.github.io/posts/random-instructions/"
-    ]
-  ],
-  [
-    [
-      "2025-11-06, 16:33:42",
-      "https://news.ycombinator.com/item?id=45837042"
-    ],
-    [
-      "Benzene at 200",
-      "https://www.rigb.org/explore-science/explore/blog/tiny-vial-changed-world-benzene-200"
-    ]
-  ],
-  [
-    [
-      "2025-11-05, 10:01:03",
-      "https://news.ycombinator.com/item?id=45821265"
-    ],
-    [
-      "Tetrahedral Analog of the Pythagorean Theorem",
-      "https://www.johndcook.com/blog/2025/11/03/de-gua/"
+      "Comparing the Latitude of Europe and America",
+      "https://vividmaps.com/comparing-latitude-of-europe-and-america/"
     ]
   ],
   [
@@ -277,6 +267,16 @@
     [
       "Max Number of Simultaneous Key-Press (N-Key Rollover, NKRO, Ghosting) (2010)",
       "http://xahlee.info/kbd/keyboard_n-key_rollover_key_ghosting.html"
+    ]
+  ],
+  [
+    [
+      "2025-11-03, 19:10:36",
+      "https://news.ycombinator.com/item?id=45803071"
+    ],
+    [
+      "Software development in the time of strange new angels",
+      "https://davegriffith.substack.com/p/software-development-in-the-time"
     ]
   ],
   [
