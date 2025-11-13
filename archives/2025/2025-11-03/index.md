@@ -20,6 +20,7 @@
 * [2025-11-03, 20:19:53](https://news.ycombinator.com/item?id=45803904) - [40 years on, Former Nintendo employees reveal what it took to launch the NES](https://hanafuda.report/articles/former-nintendo-employees-reveal-what-it-took-to-launch-the-nes-in-america/)
 * [2025-11-03, 19:51:30](https://news.ycombinator.com/item?id=45803601) - [Building a 2.5kWh battery from disposable vapes to power my workshop [video]](https://www.youtube.com/watch?v=dy-wFixuRVU)
 * [2025-11-03, 19:37:57](https://news.ycombinator.com/item?id=45803427) - [Leverage Points: Places to Intervene in a System (1999)](https://donellameadows.org/archives/leverage-points-places-to-intervene-in-a-system/)
+* [2025-11-03, 19:36:27](https://news.ycombinator.com/item?id=45803408) - [Max Number of Simultaneous Key-Press (N-Key Rollover, NKRO, Ghosting)](http://xahlee.info/kbd/keyboard_n-key_rollover_key_ghosting.html)
 * [2025-11-03, 19:33:02](https://news.ycombinator.com/item?id=45803358) - [</> Htmx – The Fetch()ening](https://htmx.org/essays/the-fetchening/)
 * [2025-11-03, 19:28:46](https://news.ycombinator.com/item?id=45803306) - [FreakWAN: A floor-routing WAN implementing a chat over bare-LoRa (no LoRaWAN)](https://github.com/antirez/freakwan)
 * [2025-11-03, 19:11:52](https://news.ycombinator.com/item?id=45803088) - [Wikipedia row erupts as Jimmy Wales intervenes on 'Gaza genocide' page](https://www.thenational.scot/news/25591165.wikipedia-row-erupts-jimmy-wales-intervenes-gaza-genocide-page/)
