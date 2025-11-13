@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-11-13](index.md)
 
+* [2025-11-13, 18:01:52](https://news.ycombinator.com/item?id=45918203) - [Microsoft confirms Windows 11 is about to change gets enormous backlash – Neowin](https://www.neowin.net/news/microsoft-confirms-windows-11-is-about-to-change-massively-gets-enormous-backlash/)
 * [2025-11-13, 17:39:13](https://news.ycombinator.com/item?id=45917875) - [Nano Banana can be prompt engineered for nuanced AI image generation](https://minimaxir.com/2025/11/nano-banana-prompts/)
 * [2025-11-13, 17:36:47](https://news.ycombinator.com/item?id=45917830) - [Let AI do the hard parts of your holiday shopping](https://blog.google/products/shopping/agentic-checkout-holiday-ai-shopping/)
 * [2025-11-13, 17:22:10](https://news.ycombinator.com/item?id=45917618) - [Rand Paul: Congress bill destroys hemp farmer livelihoods](https://www.courier-journal.com/story/opinion/contributors/2025/11/13/rand-paul-congress-funding-bill-hemp-products-farmers/87247317007/)
@@ -21,6 +22,7 @@
 * [2025-11-13, 14:37:54](https://news.ycombinator.com/item?id=45915380) - [Google Posts Device Trees for Booting Pixel 10 with Mainline Linux Kernel](https://www.phoronix.com/news/Google-Pixel-10-Google-DTs)
 * [2025-11-13, 14:21:25](https://news.ycombinator.com/item?id=45915210) - [Pebble: How to Build a Smartwatch: Software – Setting Expectations and Roadmap](https://ericmigi.com/blog/how-to-build-a-smartwatch-software-setting-expectations-and-roadmap/)
 * [2025-11-13, 14:14:36](https://news.ycombinator.com/item?id=45915114) - [Show HN: Kratos - Cloud native Auth0 open-source alternative (self-hosted)](https://github.com/ory/kratos)
+* [2025-11-13, 14:12:23](https://news.ycombinator.com/item?id=45915087) - [Cursor: Past, Present, and Future](https://cursor.com/blog/series-d)
 * [2025-11-13, 14:10:48](https://news.ycombinator.com/item?id=45915069) - [Denx (a.k.a. U-Boot) Retires](https://www.denx.de/)
 * [2025-11-13, 13:43:50](https://news.ycombinator.com/item?id=45914815) - [Heartbeats in Distributed Systems](https://arpitbhayani.me/blogs/heartbeats-in-distributed-systems/)
 * [2025-11-13, 13:38:47](https://news.ycombinator.com/item?id=45914761) - [Blender Lab](https://www.blender.org/news/introducing-blender-lab/)
