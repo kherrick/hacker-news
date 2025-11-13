@@ -1,6 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-11-13, 16:20:47](https://news.ycombinator.com/item?id=45916762) - [The Monks in the Casino](https://www.derekthompson.org/p/the-monks-in-the-casino)
 * [2025-11-13, 16:03:04](https://news.ycombinator.com/item?id=45916525) - [Launch HN: Tweeks (YC W25) – Browser extension to de-enshittify the web](https://www.tweeks.io/onboarding)
+* [2025-11-13, 15:41:26](https://news.ycombinator.com/item?id=45916196) - [Zed Is Our Office](https://zed.dev/blog/zed-is-our-office)
+* [2025-11-13, 15:38:17](https://news.ycombinator.com/item?id=45916152) - [Hemp Ban Hidden Inside Government Shutdown Bill](https://hightimes.com/news/politics/hemp-ban-hidden-inside-government-shutdown-bill/)
 * [2025-11-13, 15:38:04](https://news.ycombinator.com/item?id=45916146) - [Tesla Is Recalling Cybertrucks Again. Yep, More Pieces Are Falling Off](https://www.popularmechanics.com/cars/hybrid-electric/a69384091/cybertruck-lightbar-recall/)
 * [2025-11-13, 15:30:15](https://news.ycombinator.com/item?id=45916044) - [European Nations Decide Against Acquiring Boeing E-7 Awacs Aircraft](https://defensemirror.com/news/40527/European_Nations_Decide_Against_Acquiring_Boeing_E_7_AWACS_Aircraft)
 * [2025-11-13, 15:29:38](https://news.ycombinator.com/item?id=45916037) - [SIMA 2: An Agent That Plays, Reasons, and Learns with You in Virtual 3D Worlds](https://deepmind.google/blog/sima-2-an-agent-that-plays-reasons-and-learns-with-you-in-virtual-3d-worlds/)
@@ -18,18 +21,15 @@
 * [2025-11-13, 03:49:23](https://news.ycombinator.com/item?id=45910381) - [Android 16 QPR1 is being pushed to the Android Open Source Project](https://grapheneos.social/@GrapheneOS/115533432439509433)
 * [2025-11-13, 00:48:45](https://news.ycombinator.com/item?id=45909059) - [Human Fovea Detector](https://www.shadertoy.com/view/4dsXzM)
 * [2025-11-13, 00:33:25](https://news.ycombinator.com/item?id=45908938) - [Android developer verification: Early access starts](https://android-developers.googleblog.com/2025/11/android-developer-verification-early.html)
-* [2025-11-12, 23:35:41](https://news.ycombinator.com/item?id=45908464) - [Valve is about to win the console generation](https://xeiaso.net/blog/2025/valve-is-about-to-win-the-console-generation/)
 * [2025-11-12, 21:50:14](https://news.ycombinator.com/item?id=45907259) - [Homebrew no longer allows bypassing Gatekeeper for unsigned/unnotarized software](https://github.com/Homebrew/brew/issues/20755)
 * [2025-11-12, 19:05:41](https://news.ycombinator.com/item?id=45904551) - [GPT-5.1: A smarter, more conversational ChatGPT](https://openai.com/index/gpt-5-1/)
 * [2025-11-12, 17:59:43](https://news.ycombinator.com/item?id=45903404) - [Steam Machine](https://store.steampowered.com/sale/steammachine)
-* [2025-11-12, 17:54:58](https://news.ycombinator.com/item?id=45903325) - [Steam Frame](https://store.steampowered.com/sale/steamframe)
 * [2025-11-08, 16:08:10](https://news.ycombinator.com/item?id=45857657) - [Shader Glass](https://github.com/mausimus/ShaderGlass)
 * [2025-11-08, 05:32:31](https://news.ycombinator.com/item?id=45854418) - [COBOL to Kotlin via Formal Models (IR and Alloy and Golden Master)](https://marcoeg.medium.com/from-cobol-to-kotlin-795920b1f371)
 * [2025-11-06, 20:26:58](https://news.ycombinator.com/item?id=45839980) - [Transpiler, a Meaningless Word (2023)](https://people.csail.mit.edu/rachit/post/transpiler/)
 * [2025-11-05, 21:49:12](https://news.ycombinator.com/item?id=45828523) - [Continuous Autoregressive Language Models](https://arxiv.org/abs/2510.27688)
 * [2025-11-05, 16:49:58](https://news.ycombinator.com/item?id=45825040) - [Switching from GPG to Age](https://luke.hsiao.dev/blog/gpg-to-age/)
 * [2025-11-04, 13:00:55](https://news.ycombinator.com/item?id=45810516) - [A Challenge to Roboticists: My Humanoid Olympics](https://spectrum.ieee.org/humanoid-robot-olympics)
-* [2025-11-04, 06:43:25](https://news.ycombinator.com/item?id=45808047) - [Randomness Testing Guide](https://random.tastemaker.design/)
 
 ## [Archives](archives/index.md)
 

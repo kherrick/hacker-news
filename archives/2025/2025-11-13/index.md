@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2025-11-13](index.md)
 
+* [2025-11-13, 16:20:47](https://news.ycombinator.com/item?id=45916762) - [The Monks in the Casino](https://www.derekthompson.org/p/the-monks-in-the-casino)
 * [2025-11-13, 16:03:04](https://news.ycombinator.com/item?id=45916525) - [Launch HN: Tweeks (YC W25) – Browser extension to de-enshittify the web](https://www.tweeks.io/onboarding)
+* [2025-11-13, 15:41:26](https://news.ycombinator.com/item?id=45916196) - [Zed Is Our Office](https://zed.dev/blog/zed-is-our-office)
+* [2025-11-13, 15:38:17](https://news.ycombinator.com/item?id=45916152) - [Hemp Ban Hidden Inside Government Shutdown Bill](https://hightimes.com/news/politics/hemp-ban-hidden-inside-government-shutdown-bill/)
 * [2025-11-13, 15:38:04](https://news.ycombinator.com/item?id=45916146) - [Tesla Is Recalling Cybertrucks Again. Yep, More Pieces Are Falling Off](https://www.popularmechanics.com/cars/hybrid-electric/a69384091/cybertruck-lightbar-recall/)
 * [2025-11-13, 15:30:15](https://news.ycombinator.com/item?id=45916044) - [European Nations Decide Against Acquiring Boeing E-7 Awacs Aircraft](https://defensemirror.com/news/40527/European_Nations_Decide_Against_Acquiring_Boeing_E_7_AWACS_Aircraft)
 * [2025-11-13, 15:29:38](https://news.ycombinator.com/item?id=45916037) - [SIMA 2: An Agent That Plays, Reasons, and Learns with You in Virtual 3D Worlds](https://deepmind.google/blog/sima-2-an-agent-that-plays-reasons-and-learns-with-you-in-virtual-3d-worlds/)
