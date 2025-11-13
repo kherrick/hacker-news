@@ -4,6 +4,11 @@
 
 ### [Archives](../../index.md) for [2025-11-13](index.md)
 
+* [2025-11-13, 04:26:56](https://news.ycombinator.com/item?id=45910625) - [CollectWise (YC F24) Is Hiring](https://www.ycombinator.com/companies/collectwise/jobs/tv3ufcc-forward-deployed-engineer)
+* [2025-11-13, 03:49:23](https://news.ycombinator.com/item?id=45910381) - [Google open-sources Android 16 QPR1, two months late](https://grapheneos.social/@GrapheneOS/115533432439509433)
+* [2025-11-13, 03:48:15](https://news.ycombinator.com/item?id=45910370) - [A67z](https://www.a67z.com/)
+* [2025-11-13, 03:39:56](https://news.ycombinator.com/item?id=45910305) - [Bitcoin's big secret: How cryptocurrency became law enforcement's secret weapon](https://bitwarden.com/blog/how-cryptocurrency-became-law-enforcements-secret-weapon/)
+* [2025-11-13, 03:32:24](https://news.ycombinator.com/item?id=45910244) - [On USB HID, Keyboard LEDs, and device emulation (2024)](https://epsilon537.github.io/boxlambda/usb-hid/)
 * [2025-11-13, 03:19:28](https://news.ycombinator.com/item?id=45910142) - [Marion County agrees to pay out $3M for newspaper raid, expresses regret](https://kansasreflector.com/2025/11/11/marion-county-agrees-to-pay-out-3m-for-newspaper-raid-express-regret/)
 * [2025-11-13, 02:17:30](https://news.ycombinator.com/item?id=45909667) - [My dad could still be alive, but he's not](https://www.jenn.site/my-dad-could-still-be-alive-but-hes-not/)
 * [2025-11-13, 00:48:45](https://news.ycombinator.com/item?id=45909059) - [Human Fovea Detector](https://www.shadertoy.com/view/4dsXzM)

@@ -53,6 +53,7 @@
 * [2025-11-03, 15:27:35](https://news.ycombinator.com/item?id=45800094) - [AV1 vs. H.264: What Video Codec to Choose for Your App?](https://www.red5.net/blog/av1-vs-h264/)
 * [2025-11-03, 15:20:24](https://news.ycombinator.com/item?id=45800009) - [Show HN: Find matching acrylic paints for any HEX color](https://acrylicmatch.com/)
 * [2025-11-03, 15:15:12](https://news.ycombinator.com/item?id=45799949) - [Dark Mode by Local Sunlight](https://www.ctnicholas.dev/articles/dark-mode-by-sunlight)
+* [2025-11-03, 14:54:54](https://news.ycombinator.com/item?id=45799664) - [Mergiraf: Syntax-Aware Merging for Git](https://lwn.net/SubscriberLink/1042355/434ad706cc594276/)
 * [2025-11-03, 14:54:12](https://news.ycombinator.com/item?id=45799652) - [Uv Crash Course](https://lernerpython.com/uv-crash-course/)
 * [2025-11-03, 14:40:51](https://news.ycombinator.com/item?id=45799478) - [State of Terminal Emulators in 2025: The Errant Champions](https://www.jeffquast.com/post/state-of-terminal-emulation-2025/)
 * [2025-11-03, 14:20:05](https://news.ycombinator.com/item?id=45799211) - [OpenAI Signs $38B Cloud Computing Deal with Amazon](https://www.nytimes.com/2025/11/03/technology/openai-amazon-cloud-computing.html)
