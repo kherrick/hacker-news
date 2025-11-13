@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-11-13](index.md)
 
+* [2025-11-13, 10:46:26](https://news.ycombinator.com/item?id=45913319) - [fuckborderradius.com](https://fuckborderradius.com)
+* [2025-11-13, 09:36:51](https://news.ycombinator.com/item?id=45912785) - [Seed. LINE's Custom Typeface](https://seed.line.me/index_en.html)
 * [2025-11-13, 09:30:53](https://news.ycombinator.com/item?id=45912744) - [Telli (Voice AI – YC F24) is hiring ambitious engineers in [on-site, Berlin]](https://hi.telli.com/eng)
 * [2025-11-13, 09:23:30](https://news.ycombinator.com/item?id=45912698) - [Checkout.com hacked, refuses ransom payment, donates to security labs](https://www.checkout.com/blog/protecting-our-merchants-standing-up-to-extortion)
 * [2025-11-13, 07:12:01](https://news.ycombinator.com/item?id=45911704) - [Reverse Engineering Yaesu FT-70D Firmware Encryption](https://landaire.net/reversing-yaesu-firmware-encryption/)
