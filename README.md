@@ -6,7 +6,6 @@
 * [2025-11-13, 03:39:56](https://news.ycombinator.com/item?id=45910305) - [Bitcoin's big secret: How cryptocurrency became law enforcement's secret weapon](https://bitwarden.com/blog/how-cryptocurrency-became-law-enforcements-secret-weapon/)
 * [2025-11-13, 03:34:02](https://news.ycombinator.com/item?id=45910257) - [Large integer precision error in Bash command output rendering](https://github.com/anthropics/claude-code/issues/11506)
 * [2025-11-13, 03:32:24](https://news.ycombinator.com/item?id=45910244) - [On USB HID, Keyboard LEDs, and device emulation (2024)](https://epsilon537.github.io/boxlambda/usb-hid/)
-* [2025-11-13, 03:01:47](https://news.ycombinator.com/item?id=45910009) - [A Commentary on the Sixth Edition Unix Operating System](https://warsus.github.io/lions-/)
 * [2025-11-13, 02:17:30](https://news.ycombinator.com/item?id=45909667) - [My dad could still be alive, but he's not](https://www.jenn.site/my-dad-could-still-be-alive-but-hes-not/)
 * [2025-11-13, 00:48:45](https://news.ycombinator.com/item?id=45909059) - [Human Fovea Detector](https://www.shadertoy.com/view/4dsXzM)
 * [2025-11-13, 00:33:25](https://news.ycombinator.com/item?id=45908938) - [Google will allow users to sideload Android apps without verification](https://android-developers.googleblog.com/2025/11/android-developer-verification-early.html)
@@ -27,7 +26,8 @@
 * [2025-11-12, 14:08:28](https://news.ycombinator.com/item?id=45900370) - [Fighting the New York Times' invasion of user privacy](https://openai.com/index/fighting-nyt-user-privacy-invasion)
 * [2025-11-12, 12:10:11](https://news.ycombinator.com/item?id=45899189) - [A brief look at FreeBSD](https://yorickpeterse.com/articles/a-brief-look-at-freebsd/)
 * [2025-11-09, 01:44:26](https://news.ycombinator.com/item?id=45862128) - [Comparing the Latitude of Europe and America](https://vividmaps.com/comparing-latitude-of-europe-and-america/)
-* [2025-11-03, 19:36:27](https://news.ycombinator.com/item?id=45803408) - [Max Number of Simultaneous Key-Press (N-Key Rollover, NKRO, Ghosting) (2010)](http://xahlee.info/kbd/keyboard_n-key_rollover_key_ghosting.html)
+* [2025-11-06, 20:26:58](https://news.ycombinator.com/item?id=45839980) - [Transpiler, a Meaningless Word (2023)](https://people.csail.mit.edu/rachit/post/transpiler/)
+* [2025-11-03, 19:10:36](https://news.ycombinator.com/item?id=45803071) - [Software development in the time of strange new angels](https://davegriffith.substack.com/p/software-development-in-the-time)
 * [2025-11-03, 14:54:54](https://news.ycombinator.com/item?id=45799664) - [Mergiraf: Syntax-Aware Merging for Git](https://lwn.net/SubscriberLink/1042355/434ad706cc594276/)
 * [2025-11-01, 17:18:23](https://news.ycombinator.com/item?id=45783411) - [Ioannis Yannas, who invented artificial skin for treatment of burns, has died](https://news.mit.edu/2025/professor-ioannis-yannas-dies-1027)
 

@@ -14,6 +14,7 @@
 * [2025-11-06, 20:57:09](https://news.ycombinator.com/item?id=45840321) - [Unix v4 Tape Found](https://discuss.systems/@ricci/115504720054699983)
 * [2025-11-06, 20:45:39](https://news.ycombinator.com/item?id=45840200) - [Universe's expansion 'is now slowing, not speeding up'](https://ras.ac.uk/news-and-press/research-highlights/universes-expansion-now-slowing-not-speeding)
 * [2025-11-06, 20:37:06](https://news.ycombinator.com/item?id=45840088) - [You Should Write An Agent](https://fly.io/blog/everyone-write-an-agent/)
+* [2025-11-06, 20:26:58](https://news.ycombinator.com/item?id=45839980) - [Transpiler, a Meaningless Word (2023)](https://people.csail.mit.edu/rachit/post/transpiler/)
 * [2025-11-06, 20:20:23](https://news.ycombinator.com/item?id=45839901) - [Two Billion Email Addresses Were Exposed](https://www.troyhunt.com/2-billion-email-addresses-were-exposed-and-we-indexed-them-all-in-have-i-been-pwned/)
 * [2025-11-06, 20:01:08](https://news.ycombinator.com/item?id=45839655) - [UK outperforms US in creating unicorns from early stage VC investment](https://www.cityam.com/uk-outperforms-us-in-creating-unicorns-from-early-stage-vc-investment/)
 * [2025-11-06, 19:19:58](https://news.ycombinator.com/item?id=45839141) - [A Vision of Chocolate's Future in an Amsterdam Brownie](https://www.bloomberg.com/graphics/2025-opinion-future-of-chocolate/)
