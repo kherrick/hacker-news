@@ -15,18 +15,18 @@
       "https://news.ycombinator.com/item?id=45910381"
     ],
     [
-      "Google open-sources Android 16 QPR1, two months late",
+      "Android 16 QPR1 is being pushed to the Android Open Source Project",
       "https://grapheneos.social/@GrapheneOS/115533432439509433"
     ]
   ],
   [
     [
-      "2025-11-13, 03:48:15",
-      "https://news.ycombinator.com/item?id=45910370"
+      "2025-11-13, 03:44:37",
+      "https://news.ycombinator.com/item?id=45910347"
     ],
     [
-      "A67z",
-      "https://www.a67z.com/"
+      "Meta replaces WhatsApp for Windows with web wrapper that uses 1 GB RAM when idle",
+      "https://www.windowslatest.com/2025/11/12/meta-just-killed-native-whatsapp-on-windows-11-now-it-opens-webview-uses-1gb-ram-all-the-time/"
     ]
   ],
   [
@@ -45,7 +45,7 @@
       "https://news.ycombinator.com/item?id=45910257"
     ],
     [
-      "Claude Code Introduces Off-by-One Errors",
+      "Large integer precision error in Bash command output rendering",
       "https://github.com/anthropics/claude-code/issues/11506"
     ]
   ],
