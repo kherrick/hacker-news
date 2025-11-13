@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-11-13, 21:49:37](https://news.ycombinator.com/item?id=45921066) - [I'm sorry, but you do not have enough coins for democracy](https://magazine.032c.com/magazine/i-m-sorry-but-you-do-not-have-enough-coins-for-democracy)
 * [2025-11-13, 21:24:25](https://news.ycombinator.com/item?id=45920748) - [Blue Origin lands New Glenn rocket booster on second try](https://techcrunch.com/2025/11/13/blue-origin-lands-new-glenn-rocket-booster-on-second-try/)
 * [2025-11-13, 21:18:14](https://news.ycombinator.com/item?id=45920677) - [OpenMANET Wi-Fi HaLow open-source project for Raspberry Pi–based MANET radios](https://openmanet.net/)
 * [2025-11-13, 21:00:27](https://news.ycombinator.com/item?id=45920468) - [Piramidal (YC W24) Hiring: Front End Engineer](https://www.ycombinator.com/companies/piramidal/jobs/i9yNX5s-front-end-engineer-user-interface)
@@ -27,7 +28,6 @@
 * [2025-11-13, 00:48:45](https://news.ycombinator.com/item?id=45909059) - [Human Fovea Detector](https://www.shadertoy.com/view/4dsXzM)
 * [2025-11-13, 00:33:25](https://news.ycombinator.com/item?id=45908938) - [Android developer verification: Early access starts](https://android-developers.googleblog.com/2025/11/android-developer-verification-early.html)
 * [2025-11-09, 12:03:15](https://news.ycombinator.com/item?id=45864954) - [Think in math, write in code](https://www.jmeiners.com/think-in-math/)
-* [2025-11-07, 16:58:08](https://news.ycombinator.com/item?id=45848409) - [The Grand Egyptian Museum's Astonishing Arrival](https://www.wsj.com/arts-culture/fine-art/the-grand-egyptian-museums-astonishing-arrival-ac477d5f)
 * [2025-11-07, 00:47:35](https://news.ycombinator.com/item?id=45842419) - [Remind: A sophisticated calendar and alarm program](https://dianne.skoll.ca/projects/remind/)
 * [2025-11-02, 14:19:08](https://news.ycombinator.com/item?id=45790530) - [The Useful Personal Computer](https://technicshistory.com/2025/11/02/the-useful-personal-computer/)
 

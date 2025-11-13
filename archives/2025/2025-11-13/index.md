@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-11-13](index.md)
 
+* [2025-11-13, 21:49:37](https://news.ycombinator.com/item?id=45921066) - [I'm sorry, but you do not have enough coins for democracy](https://magazine.032c.com/magazine/i-m-sorry-but-you-do-not-have-enough-coins-for-democracy)
 * [2025-11-13, 21:24:25](https://news.ycombinator.com/item?id=45920748) - [Blue Origin lands New Glenn rocket booster on second try](https://techcrunch.com/2025/11/13/blue-origin-lands-new-glenn-rocket-booster-on-second-try/)
 * [2025-11-13, 21:18:14](https://news.ycombinator.com/item?id=45920677) - [OpenMANET Wi-Fi HaLow open-source project for Raspberry Pi–based MANET radios](https://openmanet.net/)
 * [2025-11-13, 21:00:27](https://news.ycombinator.com/item?id=45920468) - [Piramidal (YC W24) Hiring: Front End Engineer](https://www.ycombinator.com/companies/piramidal/jobs/i9yNX5s-front-end-engineer-user-interface)
