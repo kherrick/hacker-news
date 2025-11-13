@@ -7,6 +7,7 @@
 * [2025-11-13, 04:26:56](https://news.ycombinator.com/item?id=45910625) - [CollectWise (YC F24) Is Hiring](https://www.ycombinator.com/companies/collectwise/jobs/tv3ufcc-forward-deployed-engineer)
 * [2025-11-13, 03:49:23](https://news.ycombinator.com/item?id=45910381) - [Google open-sources Android 16 QPR1, two months late](https://grapheneos.social/@GrapheneOS/115533432439509433)
 * [2025-11-13, 03:48:15](https://news.ycombinator.com/item?id=45910370) - [A67z](https://www.a67z.com/)
+* [2025-11-13, 03:44:37](https://news.ycombinator.com/item?id=45910347) - [Meta replaces WhatsApp for Windows with web wrapper that uses 1 GB RAM when idle](https://www.windowslatest.com/2025/11/12/meta-just-killed-native-whatsapp-on-windows-11-now-it-opens-webview-uses-1gb-ram-all-the-time/)
 * [2025-11-13, 03:39:56](https://news.ycombinator.com/item?id=45910305) - [Bitcoin's big secret: How cryptocurrency became law enforcement's secret weapon](https://bitwarden.com/blog/how-cryptocurrency-became-law-enforcements-secret-weapon/)
 * [2025-11-13, 03:34:02](https://news.ycombinator.com/item?id=45910257) - [Claude Code Introduces Off-by-One Errors](https://github.com/anthropics/claude-code/issues/11506)
 * [2025-11-13, 03:32:24](https://news.ycombinator.com/item?id=45910244) - [On USB HID, Keyboard LEDs, and device emulation (2024)](https://epsilon537.github.io/boxlambda/usb-hid/)
