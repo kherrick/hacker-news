@@ -16,6 +16,7 @@
 * [2025-11-12, 19:05:41](https://news.ycombinator.com/item?id=45904551) - [GPT-5.1: A smarter, more conversational ChatGPT](https://openai.com/index/gpt-5-1/)
 * [2025-11-12, 17:59:43](https://news.ycombinator.com/item?id=45903404) - [Steam Machine](https://store.steampowered.com/sale/steammachine)
 * [2025-11-12, 17:54:58](https://news.ycombinator.com/item?id=45903325) - [Steam Frame](https://store.steampowered.com/sale/steamframe)
+* [2025-11-12, 17:43:42](https://news.ycombinator.com/item?id=45903161) - [Launch HN: JSX Tool (YC F25) – A Browser Dev-Panel IDE for React](https://news.ycombinator.com/item?id=45903161)
 * [2025-11-12, 17:24:54](https://news.ycombinator.com/item?id=45902898) - [Project Euler](https://projecteuler.net)
 * [2025-11-12, 17:02:38](https://news.ycombinator.com/item?id=45902604) - [Helm 4.0](https://github.com/helm/helm/releases/tag/v4.0.0)
 * [2025-11-12, 16:40:17](https://news.ycombinator.com/item?id=45902273) - [Digital ID, a new way to create and present an ID in Apple Wallet](https://www.apple.com/newsroom/2025/11/apple-introduces-digital-id-a-new-way-to-create-and-present-an-id-in-apple-wallet/)
@@ -27,7 +28,6 @@
 * [2025-11-09, 01:44:26](https://news.ycombinator.com/item?id=45862128) - [Comparing the Latitude of Europe and America](https://vividmaps.com/comparing-latitude-of-europe-and-america/)
 * [2025-11-06, 20:26:58](https://news.ycombinator.com/item?id=45839980) - [Transpiler, a Meaningless Word (2023)](https://people.csail.mit.edu/rachit/post/transpiler/)
 * [2025-11-05, 21:49:12](https://news.ycombinator.com/item?id=45828523) - [Continuous Autoregressive Language Models](https://arxiv.org/abs/2510.27688)
-* [2025-11-04, 13:58:01](https://news.ycombinator.com/item?id=45811084) - [Debugging containers that have no shell](https://docs.docker.com/reference/cli/docker/debug)
 * [2025-11-03, 17:55:38](https://news.ycombinator.com/item?id=45802035) - [LED types by Color, Brightness, and Chemistry (2021)](https://donklipstein.com/ledc.html)
 * [2025-11-03, 14:54:54](https://news.ycombinator.com/item?id=45799664) - [Mergiraf: Syntax-Aware Merging for Git](https://lwn.net/SubscriberLink/1042355/434ad706cc594276/)
 
