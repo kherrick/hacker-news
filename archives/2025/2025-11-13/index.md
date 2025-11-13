@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-11-13](index.md)
 
+* [2025-11-13, 17:39:13](https://news.ycombinator.com/item?id=45917875) - [Nano Banana can be prompt engineered for nuanced AI image generation](https://minimaxir.com/2025/11/nano-banana-prompts/)
+* [2025-11-13, 17:36:47](https://news.ycombinator.com/item?id=45917830) - [Let AI do the hard parts of your holiday shopping](https://blog.google/products/shopping/agentic-checkout-holiday-ai-shopping/)
+* [2025-11-13, 17:22:10](https://news.ycombinator.com/item?id=45917618) - [Rand Paul: Congress bill destroys hemp farmer livelihoods](https://www.courier-journal.com/story/opinion/contributors/2025/11/13/rand-paul-congress-funding-bill-hemp-products-farmers/87247317007/)
 * [2025-11-13, 17:00:44](https://news.ycombinator.com/item?id=45917282) - [BAML is hiring compilers/rust engineers (YC W23)](https://github.com/BoundaryML/baml/tree/canary/jobs)
 * [2025-11-13, 16:20:47](https://news.ycombinator.com/item?id=45916762) - [The Monks in the Casino](https://www.derekthompson.org/p/the-monks-in-the-casino)
 * [2025-11-13, 16:03:04](https://news.ycombinator.com/item?id=45916525) - [Launch HN: Tweeks (YC W25) – Browser extension to de-enshittify the web](https://www.tweeks.io/onboarding)
