@@ -1,15 +1,14 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-11-14, 16:17:26](https://news.ycombinator.com/item?id=45928321) - [The American Tradition of Trying to Address Anxiety with Parks](https://time.com/7288956/american-tradition-anxiety-parks/)
 * [2025-11-14, 15:04:22](https://news.ycombinator.com/item?id=45927435) - [Oracle hit hard in Wall Street's tech sell-off over its AI bet](https://www.ft.com/content/583e9391-bdd0-433e-91e0-b1b93038d51e)
-* [2025-11-14, 14:32:11](https://news.ycombinator.com/item?id=45927035) - [Wealthy foreigners 'paid for chance to shoot civilians in Sarajevo'](https://www.thetimes.com/world/europe/article/wealthy-foreigners-paid-for-chance-to-shoot-civilians-in-sarajevo-zrljbb27z)
+* [2025-11-14, 14:46:27](https://news.ycombinator.com/item?id=45927210) - [Linear Algebra Explains Why Some Words Are Effectively Untranslatable](https://aethermug.com/posts/linear-algebra-explains-why-some-words-are-effectively-untranslatable)
 * [2025-11-14, 14:05:00](https://news.ycombinator.com/item?id=45926779) - [I think nobody wants AI in Firefox, Mozilla](https://manualdousuario.net/en/mozilla-firefox-window-ai/)
 * [2025-11-14, 13:21:24](https://news.ycombinator.com/item?id=45926469) - [AGI fantasy is a blocker to actual engineering](https://www.tomwphillips.co.uk/2025/11/agi-fantasy-is-a-blocker-to-actual-engineering/)
 * [2025-11-14, 13:18:09](https://news.ycombinator.com/item?id=45926439) - [Nvidia is gearing up to sell servers instead of just GPUs and components](https://www.tomshardware.com/tech-industry/artificial-intelligence/jp-morgan-says-nvidia-is-gearing-up-to-sell-entire-ai-servers-instead-of-just-ai-gpus-and-componentry-jensens-master-plan-of-vertical-integration-will-boost-profits-purportedly-starting-with-vera-rubin)
-* [2025-11-14, 13:12:11](https://news.ycombinator.com/item?id=45926395) - [Don't turn your brain off](https://computingeducationthings.substack.com/p/22-dont-turn-your-brain-off)
 * [2025-11-14, 13:10:19](https://news.ycombinator.com/item?id=45926383) - [Backblaze Drive Stats for Q3 2025](https://www.backblaze.com/blog/backblaze-drive-stats-for-q3-2025/)
-* [2025-11-14, 12:51:23](https://news.ycombinator.com/item?id=45926263) - [EDE: Small and Fast Desktop Environment](https://edeproject.org/)
+* [2025-11-14, 12:51:23](https://news.ycombinator.com/item?id=45926263) - [EDE: Small and Fast Desktop Environment (2014)](https://edeproject.org/)
 * [2025-11-14, 12:44:07](https://news.ycombinator.com/item?id=45926224) - [Winamp for OS/X](https://github.com/mgreenwood1001/winamp)
-* [2025-11-14, 12:23:53](https://news.ycombinator.com/item?id=45926105) - [Arrival Radar](https://entropicthoughts.com/arrival-radar)
 * [2025-11-14, 12:09:59](https://news.ycombinator.com/item?id=45926037) - [Magit manuals are available online again](https://github.com/magit/magit/issues/5472)
 * [2025-11-14, 12:00:57](https://news.ycombinator.com/item?id=45925996) - [Show HN: European Tech News in 6 Languages](https://europedigital.cloud/en/news)
 * [2025-11-14, 11:41:47](https://news.ycombinator.com/item?id=45925890) - [Show HN: Encore – Type-safe back end framework that generates infra from code](https://github.com/encoredev/encore)
@@ -30,6 +29,7 @@
 * [2025-11-07, 14:07:15](https://news.ycombinator.com/item?id=45846534) - [Writerdeck.org](http://www.writerdeck.org/)
 * [2025-11-05, 09:39:58](https://news.ycombinator.com/item?id=45821154) - [Incus-OS: Immutable Linux OS to run Incus as a hypervisor](https://linuxcontainers.org/incus-os/)
 * [2025-11-05, 05:33:00](https://news.ycombinator.com/item?id=45819556) - [A Common Semiconductor Just Became a Superconductor](https://www.sciencedaily.com/releases/2025/10/251030075105.htm)
+* [2025-11-03, 13:07:23](https://news.ycombinator.com/item?id=45798586) - [Cgp-serde: A modular serialization library for Serde powered by CGP](https://contextgeneric.dev/blog/cgp-serde-release/)
 
 ## [Archives](archives/index.md)
 

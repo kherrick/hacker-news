@@ -79,6 +79,7 @@
 * [2025-11-03, 13:28:37](https://news.ycombinator.com/item?id=45798741) - [An Illustrated Introduction to Linear Algebra, Chapter 2: The Dot Product](https://www.ducktyped.org/p/linear-algebra-chapter-2-the-dot)
 * [2025-11-03, 13:26:16](https://news.ycombinator.com/item?id=45798724) - [Port of Linux to WebAssembly](https://lore.kernel.org/lkml/618f3602-03aa-46a8-b2d4-3c9798c4cd2b@icemanor.se/)
 * [2025-11-03, 13:21:09](https://news.ycombinator.com/item?id=45798681) - [Why Nextcloud feels slow to use](https://ounapuu.ee/posts/2025/11/03/nextcloud-slow/)
+* [2025-11-03, 13:07:23](https://news.ycombinator.com/item?id=45798586) - [Cgp-serde: A modular serialization library for Serde powered by CGP](https://contextgeneric.dev/blog/cgp-serde-release/)
 * [2025-11-03, 12:52:18](https://news.ycombinator.com/item?id=45798489) - [I analyzed 180M jobs to see what jobs AI is replacing today](https://bloomberry.com/blog/i-analyzed-180m-jobs-to-see-what-jobs-ai-is-actually-replacing-today/)
 * [2025-11-03, 12:50:27](https://news.ycombinator.com/item?id=45798479) - [The Case Against PGVector](https://alex-jacobs.com/posts/the-case-against-pgvector/)
 * [2025-11-03, 12:48:16](https://news.ycombinator.com/item?id=45798473) - [Toolkit to help you get started with Spec-Driven Development](https://github.com/github/spec-kit)

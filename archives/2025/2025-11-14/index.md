@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-11-14](index.md)
 
+* [2025-11-14, 16:17:26](https://news.ycombinator.com/item?id=45928321) - [The American Tradition of Trying to Address Anxiety with Parks](https://time.com/7288956/american-tradition-anxiety-parks/)
 * [2025-11-14, 15:04:22](https://news.ycombinator.com/item?id=45927435) - [Oracle hit hard in Wall Street's tech sell-off over its AI bet](https://www.ft.com/content/583e9391-bdd0-433e-91e0-b1b93038d51e)
+* [2025-11-14, 14:46:27](https://news.ycombinator.com/item?id=45927210) - [Linear Algebra Explains Why Some Words Are Effectively Untranslatable](https://aethermug.com/posts/linear-algebra-explains-why-some-words-are-effectively-untranslatable)
 * [2025-11-14, 14:32:11](https://news.ycombinator.com/item?id=45927035) - [Wealthy foreigners 'paid for chance to shoot civilians in Sarajevo'](https://www.thetimes.com/world/europe/article/wealthy-foreigners-paid-for-chance-to-shoot-civilians-in-sarajevo-zrljbb27z)
 * [2025-11-14, 14:05:00](https://news.ycombinator.com/item?id=45926779) - [I think nobody wants AI in Firefox, Mozilla](https://manualdousuario.net/en/mozilla-firefox-window-ai/)
 * [2025-11-14, 13:21:24](https://news.ycombinator.com/item?id=45926469) - [AGI fantasy is a blocker to actual engineering](https://www.tomwphillips.co.uk/2025/11/agi-fantasy-is-a-blocker-to-actual-engineering/)
