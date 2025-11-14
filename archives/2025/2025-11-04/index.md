@@ -62,6 +62,7 @@
 * [2025-11-04, 13:52:43](https://news.ycombinator.com/item?id=45811026) - [NetHack4 Philosophy](http://nethack4.org/philosophy.html)
 * [2025-11-04, 13:40:36](https://news.ycombinator.com/item?id=45810909) - [Seaque Live Bell Test](https://research.physics.illinois.edu/QI/Photonics/SEAQUE/)
 * [2025-11-04, 13:34:45](https://news.ycombinator.com/item?id=45810856) - [Show HN: I built a local-first daily planner for iOS](https://apps.apple.com/ca/app/to-do-list-planner-zesfy/id6479947874)
+* [2025-11-04, 13:34:44](https://news.ycombinator.com/item?id=45810853) - [Codables – Swift-inspired, declarative JSON serialization](https://github.com/pie6k/codables)
 * [2025-11-04, 13:33:11](https://news.ycombinator.com/item?id=45810842) - [Show HN: PingStalker – A a macOS tool for network engineers](https://www.pingstalker.com/?hn)
 * [2025-11-04, 13:15:52](https://news.ycombinator.com/item?id=45810676) - [The Art of Atari (2016)](http://www.artofatari.com)
 * [2025-11-04, 13:14:26](https://news.ycombinator.com/item?id=45810658) - [The Paranoid Guide to Running Copilot CLI in a Secure Docker Sandbox](https://gordonbeeming.com/blog/2025-10-03/taming-the-ai-my-paranoid-guide-to-running-copilot-cli-in-a-secure-docker-sandbox)
