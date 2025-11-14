@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2025-11-14](index.md)
 
+* [2025-11-14, 18:42:55](https://news.ycombinator.com/item?id=45930284) - [Minisforum Stuffs Entire Arm Homelab in the MS-R1](https://www.jeffgeerling.com/blog/2025/minisforum-stuffs-entire-arm-homelab-ms-r1)
+* [2025-11-14, 18:35:22](https://news.ycombinator.com/item?id=45930151) - [AI World Clocks](https://clocks.brianmoore.com/)
 * [2025-11-14, 18:20:08](https://news.ycombinator.com/item?id=45929921) - [We Uncovered a Race Condition in Aurora RDS](https://hightouch.com/blog/uncovering-a-race-condition-in-aurora-rds)
+* [2025-11-14, 18:18:11](https://news.ycombinator.com/item?id=45929888) - [Show HN: Dumbass Business Ideas](https://dumbassideas.com)
 * [2025-11-14, 18:16:28](https://news.ycombinator.com/item?id=45929863) - [Secret Boat Strike Memo Justifies Kills by Claiming Targeting Drugs, Not People](https://theintercept.com/2025/11/14/boat-strikes-immunity-legality-trump/)
 * [2025-11-14, 17:54:07](https://news.ycombinator.com/item?id=45929511) - [Not even a month passed and Chat Control is back in the EU](https://reclaimthenet.org/the-disguised-return-of-the-eus-private-message-scanning-plot)
 * [2025-11-14, 17:43:40](https://news.ycombinator.com/item?id=45929358) - [Bitchat for Gaza – messaging without internet](https://updates.techforpalestine.org/bitchat-for-gaza-messaging-without-internet/)
