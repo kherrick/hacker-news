@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-11-14, 07:10:10](https://news.ycombinator.com/item?id=45924619) - [RegreSQL: Regression Testing for PostgreSQL Queries](https://boringsql.com/posts/regresql-testing-queries/)
 * [2025-11-14, 06:13:09](https://news.ycombinator.com/item?id=45924345) - [Hooked on Sonics: Experimenting with Sound in 19th-Century Popular Science](https://publicdomainreview.org/essay/science-of-sound/)
 * [2025-11-14, 01:30:50](https://news.ycombinator.com/item?id=45922850) - [How to Get a North Korea / Antarctica VPS](https://blog.lyc8503.net/en/post/asn-5-worldwide-servers/)
 * [2025-11-14, 00:18:23](https://news.ycombinator.com/item?id=45922420) - [What Happened with the CIA and The Paris Review?](https://www.theparisreview.org/blog/2025/11/11/what-really-happened-with-the-cia-and-the-paris-review-a-conversation-with-lance-richardson/)
@@ -17,7 +18,6 @@
 * [2025-11-13, 16:03:04](https://news.ycombinator.com/item?id=45916525) - [Launch HN: Tweeks (YC W25) – Browser extension to deshittify the web](https://www.tweeks.io/onboarding)
 * [2025-11-13, 15:41:26](https://news.ycombinator.com/item?id=45916196) - [Zed is our office](https://zed.dev/blog/zed-is-our-office)
 * [2025-11-13, 15:29:38](https://news.ycombinator.com/item?id=45916037) - [SIMA 2: An agent that plays, reasons, and learns with you in virtual 3D worlds](https://deepmind.google/blog/sima-2-an-agent-that-plays-reasons-and-learns-with-you-in-virtual-3d-worlds/)
-* [2025-11-13, 13:43:50](https://news.ycombinator.com/item?id=45914815) - [Heartbeats in Distributed Systems](https://arpitbhayani.me/blogs/heartbeats-in-distributed-systems/)
 * [2025-11-13, 13:38:47](https://news.ycombinator.com/item?id=45914761) - [Blender Lab](https://www.blender.org/news/introducing-blender-lab/)
 * [2025-11-13, 09:23:30](https://news.ycombinator.com/item?id=45912698) - [Checkout.com hacked, refuses ransom payment, donates to security labs](https://www.checkout.com/blog/protecting-our-merchants-standing-up-to-extortion)
 * [2025-11-13, 00:33:25](https://news.ycombinator.com/item?id=45908938) - [Android developer verification: Early access starts](https://android-developers.googleblog.com/2025/11/android-developer-verification-early.html)
