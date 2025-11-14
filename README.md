@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-11-14, 03:12:38](https://news.ycombinator.com/item?id=45923433) - [Fannie Mae officials ousted after sounding alarm on sharing confidential data](https://apnews.com/article/fannie-mae-freddie-mac-firing-pulte-data-a4f8c53df74fef83ec7fd07e3d524746)
 * [2025-11-14, 03:08:09](https://news.ycombinator.com/item?id=45923406) - [Copyright winter is coming (to Wikipedia?)](https://authorsalliance.substack.com/p/copyright-winter-is-coming-to-wikipedia)
 * [2025-11-14, 02:54:57](https://news.ycombinator.com/item?id=45923352) - [Why do voice transcription apps charge monthly when Whisper runs locally?](https://www.lucidvoice.app/)
 * [2025-11-14, 02:49:44](https://news.ycombinator.com/item?id=45923326) - [Why Fei-Fei Li and Yann LeCun Are Both Betting on \"World Models\"](https://entropytown.com/articles/2025-11-13-world-model-lecun-feifei-li/)
@@ -15,6 +14,7 @@
 * [2025-11-13, 20:33:43](https://news.ycombinator.com/item?id=45920156) - [Show HN: DBOS Java – Postgres-Backed Durable Workflows](https://github.com/dbos-inc/dbos-transact-java)
 * [2025-11-13, 19:03:26](https://news.ycombinator.com/item?id=45919067) - [SlopStop: Community-driven AI slop detection in Kagi Search](https://blog.kagi.com/slopstop)
 * [2025-11-13, 18:34:12](https://news.ycombinator.com/item?id=45918638) - [Disrupting the first reported AI-orchestrated cyber espionage campaign](https://www.anthropic.com/news/disrupting-AI-espionage)
+* [2025-11-13, 18:32:36](https://news.ycombinator.com/item?id=45918616) - [Rust in Android: move fast and fix things](https://security.googleblog.com/2025/11/rust-in-android-move-fast-fix-things.html)
 * [2025-11-13, 18:10:29](https://news.ycombinator.com/item?id=45918331) - [The Eggstraordinary Fortress](https://ahmed1011001.github.io/Notes/stories/eggstrodinary.html)
 * [2025-11-13, 17:39:13](https://news.ycombinator.com/item?id=45917875) - [Nano Banana can be prompt engineered for nuanced AI image generation](https://minimaxir.com/2025/11/nano-banana-prompts/)
 * [2025-11-13, 16:03:04](https://news.ycombinator.com/item?id=45916525) - [Launch HN: Tweeks (YC W25) – Browser extension to deshittify the web](https://www.tweeks.io/onboarding)
