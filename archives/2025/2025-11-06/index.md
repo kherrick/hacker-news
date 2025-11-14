@@ -12,6 +12,7 @@
 * [2025-11-06, 22:05:58](https://news.ycombinator.com/item?id=45841056) - [Writing software is an act of learning. Don’t automate it.](https://martinfowler.com/articles/llm-learning-loop.html)
 * [2025-11-06, 21:23:46](https://news.ycombinator.com/item?id=45840612) - [Hightouch (YC S19) Is Hiring](https://job-boards.greenhouse.io/hightouch/jobs/5542602004)
 * [2025-11-06, 20:57:09](https://news.ycombinator.com/item?id=45840321) - [Unix v4 Tape Found](https://discuss.systems/@ricci/115504720054699983)
+* [2025-11-06, 20:50:52](https://news.ycombinator.com/item?id=45840260) - [How to fix subsystem request failed on channel 0](https://blog.x-way.org/Linux/2025/11/06/How-to-fix-subsystem-request-failed-on-channel-0.html)
 * [2025-11-06, 20:45:39](https://news.ycombinator.com/item?id=45840200) - [Universe's expansion 'is now slowing, not speeding up'](https://ras.ac.uk/news-and-press/research-highlights/universes-expansion-now-slowing-not-speeding)
 * [2025-11-06, 20:37:06](https://news.ycombinator.com/item?id=45840088) - [You Should Write An Agent](https://fly.io/blog/everyone-write-an-agent/)
 * [2025-11-06, 20:26:58](https://news.ycombinator.com/item?id=45839980) - [Transpiler, a Meaningless Word (2023)](https://people.csail.mit.edu/rachit/post/transpiler/)
