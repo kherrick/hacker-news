@@ -3,6 +3,7 @@
 * [2025-11-14, 14:05:00](https://news.ycombinator.com/item?id=45926779) - [I think nobody wants AI in Firefox, Mozilla](https://manualdousuario.net/en/mozilla-firefox-window-ai/)
 * [2025-11-14, 13:21:24](https://news.ycombinator.com/item?id=45926469) - [AGI fantasy is a blocker to actual engineering](https://www.tomwphillips.co.uk/2025/11/agi-fantasy-is-a-blocker-to-actual-engineering/)
 * [2025-11-14, 13:18:09](https://news.ycombinator.com/item?id=45926439) - [Nvidia is gearing up to sell servers instead of just GPUs and components](https://www.tomshardware.com/tech-industry/artificial-intelligence/jp-morgan-says-nvidia-is-gearing-up-to-sell-entire-ai-servers-instead-of-just-ai-gpus-and-componentry-jensens-master-plan-of-vertical-integration-will-boost-profits-purportedly-starting-with-vera-rubin)
+* [2025-11-14, 13:12:11](https://news.ycombinator.com/item?id=45926395) - [Don't turn your brain off](https://computingeducationthings.substack.com/p/22-dont-turn-your-brain-off)
 * [2025-11-14, 13:10:19](https://news.ycombinator.com/item?id=45926383) - [Backblaze Drive Stats for Q3 2025](https://www.backblaze.com/blog/backblaze-drive-stats-for-q3-2025/)
 * [2025-11-14, 12:51:23](https://news.ycombinator.com/item?id=45926263) - [EDE: Small and Fast Desktop Environment](https://edeproject.org/)
 * [2025-11-14, 12:44:07](https://news.ycombinator.com/item?id=45926224) - [Winamp for OS/X](https://github.com/mgreenwood1001/winamp)
@@ -29,7 +30,6 @@
 * [2025-11-09, 12:03:15](https://news.ycombinator.com/item?id=45864954) - [Think in math, write in code (2019)](https://www.jmeiners.com/think-in-math/)
 * [2025-11-07, 14:07:15](https://news.ycombinator.com/item?id=45846534) - [Writerdeck.org](http://www.writerdeck.org/)
 * [2025-11-05, 05:33:00](https://news.ycombinator.com/item?id=45819556) - [A Common Semiconductor Just Became a Superconductor](https://www.sciencedaily.com/releases/2025/10/251030075105.htm)
-* [2025-11-04, 12:23:01](https://news.ycombinator.com/item?id=45810086) - [Show HN: An easy-to-use online curve fitting tool](https://byx2000.github.io/curve-fit/)
 
 ## [Archives](archives/index.md)
 
