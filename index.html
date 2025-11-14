@@ -129,6 +129,106 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
+        <section id="45930659">
+          <h3>
+            <a class="item" href="https://github.com/Whamp/chirp"
+              >Show HN: Chirp – Local Windows dictation with ParakeetV3 no
+              executable required</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2025-11-14 @ 19:07:45</span
+              ><span class="points-container"
+                >Points: <span class="points">7</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=45930659"
+                  >Comments</a
+                ><span class="descendants">: 2</span></span
+              >
+            </h4>
+            <div class="text">
+              <p>
+                To scratch that itch, I built Chirp, a Windows dictation app
+                that runs fully locally, uses NVIDIA’s ParakeetV3 model, and is
+                managed end‑to‑end with `uv`. If you can run Python on your
+                machine, you should be able to run Chirp—no additional
+                executables required.
+              </p>
+              <p>
+                Under the hood, Chirp uses the Parakeet TDT 0.6B v3 ONNX bundle.
+                ParakeetV3 has accuracy in the same ballpark as Whisper‑large‑v3
+                (multilingual WER ~4.9 vs ~5.0 in the open ASR leaderboard), but
+                it’s much faster and happy on CPU.
+              </p>
+              <p>
+                The flow is: - One‑time setup that downloads and prepares the
+                ONNX model: - `uv run python -m chirp.setup` - A long‑running
+                CLI process: - `uv run python -m chirp.main` - A global hotkey
+                that starts/stops recording and injects text into the active
+                window.
+              </p>
+              <p>A few details that might be interesting technically:</p>
+              <p>
+                - <i>Local‑only STT:</i> Everything runs on your machine using
+                ONNX Runtime; by default it uses CPU providers, with optional
+                GPU providers if your environment allows.
+              </p>
+              <p>
+                - <i>Config‑driven behavior:</i> A `config.toml` file controls
+                the global hotkey, model choice, quantization (`int8` option),
+                language, ONNX providers, and threading. There’s also a simple
+                `[word_overrides]` map so you can fix tokens that the model
+                consistently mishears.
+              </p>
+              <p>
+                - <i>Post‑processing pipeline:</i> After recognition, there’s an
+                optional “style guide” step where you can specify prompts like
+                “sentence case” or “prepend: &gt;&gt;” for the final text.
+              </p>
+              <p>
+                - <i>No clipboard gymnastics required on Windows:</i> The app
+                types directly into the focused window; there are options for
+                clipboard‑based pasting and cleanup behavior for platforms where
+                that makes more sense.
+              </p>
+              <p>
+                - <i>Audio feedback:</i> Start/stop sounds (configurable) let
+                you know when the mic is actually recording.
+              </p>
+              <p>
+                So far I’ve mainly tested this on my own Windows machines with
+                English dictation and CPU‑only setups. There are probably plenty
+                of rough edges (different keyboard layouts, language settings,
+                corporate IT policies, etc.), and I’d love feedback from people
+                who:
+              </p>
+              <p>
+                - Work in restricted corporate environments and need local
+                dictation. - Have experience with Parakeet/Whisper or ONNX
+                Runtime and see obvious ways to improve performance or
+                robustness. - Want specific features (e.g., better
+                multi‑language support, more advanced post‑processing, or
+                integrations with their editor/IDE).
+              </p>
+              <p>
+                Repo is here: `<a href="https://github.com/Whamp/chirp"
+                  >https://github.com/Whamp/chirp</a
+                >`
+              </p>
+              <p>If you try it, I’d be very interested in:</p>
+              <p>
+                - CPU usage and latency on your hardware, - How well it behaves
+                with your keyboard layout and applications, - Any weird failure
+                cases or usability annoyances you run into.
+              </p>
+              <p>
+                Happy to answer questions and dig into technical details in the
+                comments.
+              </p>
+            </div>
+          </section>
+        </section>
         <section id="45930598">
           <h3>
             <a
@@ -141,11 +241,11 @@
             <h4>
               <span>2025-11-14 @ 19:04:23</span
               ><span class="points-container"
-                >Points: <span class="points">15</span></span
+                >Points: <span class="points">17</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45930598"
                   >Comments</a
-                ><span class="descendants">: 5</span></span
+                ><span class="descendants">: 11</span></span
               >
             </h4>
           </section>
@@ -162,11 +262,11 @@
             <h4>
               <span>2025-11-14 @ 18:42:55</span
               ><span class="points-container"
-                >Points: <span class="points">18</span></span
+                >Points: <span class="points">24</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45930284"
                   >Comments</a
-                ><span class="descendants">: 14</span></span
+                ><span class="descendants">: 16</span></span
               >
             </h4>
           </section>
@@ -181,11 +281,11 @@
             <h4>
               <span>2025-11-14 @ 18:35:22</span
               ><span class="points-container"
-                >Points: <span class="points">131</span></span
+                >Points: <span class="points">189</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45930151"
                   >Comments</a
-                ><span class="descendants">: 80</span></span
+                ><span class="descendants">: 112</span></span
               >
             </h4>
             <div class="text">
@@ -206,11 +306,11 @@
             <h4>
               <span>2025-11-14 @ 18:20:08</span
               ><span class="points-container"
-                >Points: <span class="points">100</span></span
+                >Points: <span class="points">108</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45929921"
                   >Comments</a
-                ><span class="descendants">: 33</span></span
+                ><span class="descendants">: 38</span></span
               >
             </h4>
           </section>
@@ -225,11 +325,11 @@
             <h4>
               <span>2025-11-14 @ 18:18:11</span
               ><span class="points-container"
-                >Points: <span class="points">12</span></span
+                >Points: <span class="points">15</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45929888"
                   >Comments</a
-                ><span class="descendants">: 6</span></span
+                ><span class="descendants">: 11</span></span
               >
             </h4>
             <div class="text">
@@ -251,11 +351,11 @@
             <h4>
               <span>2025-11-14 @ 17:54:07</span
               ><span class="points-container"
-                >Points: <span class="points">211</span></span
+                >Points: <span class="points">243</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45929511"
                   >Comments</a
-                ><span class="descendants">: 108</span></span
+                ><span class="descendants">: 127</span></span
               >
             </h4>
             <div class="text">
@@ -278,11 +378,11 @@
             <h4>
               <span>2025-11-14 @ 17:43:40</span
               ><span class="points-container"
-                >Points: <span class="points">131</span></span
+                >Points: <span class="points">164</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45929358"
                   >Comments</a
-                ><span class="descendants">: 53</span></span
+                ><span class="descendants">: 70</span></span
               >
             </h4>
             <div class="text">
@@ -303,11 +403,11 @@
             <h4>
               <span>2025-11-14 @ 17:35:17</span
               ><span class="points-container"
-                >Points: <span class="points">67</span></span
+                >Points: <span class="points">71</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45929247"
                   >Comments</a
-                ><span class="descendants">: 24</span></span
+                ><span class="descendants">: 28</span></span
               >
             </h4>
           </section>
@@ -325,11 +425,11 @@
             <h4>
               <span>2025-11-14 @ 17:19:08</span
               ><span class="points-container"
-                >Points: <span class="points">96</span></span
+                >Points: <span class="points">105</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45929052"
                   >Comments</a
-                ><span class="descendants">: 77</span></span
+                ><span class="descendants">: 83</span></span
               >
             </h4>
           </section>
@@ -350,7 +450,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45928873"
                   >Comments</a
-                ><span class="descendants">: 49</span></span
+                ><span class="descendants">: 50</span></span
               >
             </h4>
           </section>
@@ -384,11 +484,11 @@
             <h4>
               <span>2025-11-14 @ 16:51:03</span
               ><span class="points-container"
-                >Points: <span class="points">69</span></span
+                >Points: <span class="points">77</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45928709"
                   >Comments</a
-                ><span class="descendants">: 13</span></span
+                ><span class="descendants">: 16</span></span
               >
             </h4>
           </section>
@@ -403,11 +503,11 @@
             <h4>
               <span>2025-11-14 @ 16:42:12</span
               ><span class="points-container"
-                >Points: <span class="points">36</span></span
+                >Points: <span class="points">46</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45928620"
                   >Comments</a
-                ><span class="descendants">: 10</span></span
+                ><span class="descendants">: 18</span></span
               >
             </h4>
           </section>
@@ -425,32 +525,11 @@
             <h4>
               <span>2025-11-14 @ 16:31:26</span
               ><span class="points-container"
-                >Points: <span class="points">98</span></span
+                >Points: <span class="points">103</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45928492"
                   >Comments</a
-                ><span class="descendants">: 55</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="45927435">
-          <h3>
-            <a
-              class="item"
-              href="https://www.ft.com/content/583e9391-bdd0-433e-91e0-b1b93038d51e"
-              >Oracle hit hard in Wall Street's tech sell-off over its AI bet</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2025-11-14 @ 15:04:22</span
-              ><span class="points-container"
-                >Points: <span class="points">175</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=45927435"
-                  >Comments</a
-                ><span class="descendants">: 149</span></span
+                ><span class="descendants">: 65</span></span
               >
             </h4>
           </section>
@@ -468,11 +547,11 @@
             <h4>
               <span>2025-11-14 @ 14:46:27</span
               ><span class="points-container"
-                >Points: <span class="points">73</span></span
+                >Points: <span class="points">74</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45927210"
                   >Comments</a
-                ><span class="descendants">: 46</span></span
+                ><span class="descendants">: 52</span></span
               >
             </h4>
           </section>
@@ -489,11 +568,11 @@
             <h4>
               <span>2025-11-14 @ 14:05:00</span
               ><span class="points-container"
-                >Points: <span class="points">1012</span></span
+                >Points: <span class="points">1028</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45926779"
                   >Comments</a
-                ><span class="descendants">: 625</span></span
+                ><span class="descendants">: 632</span></span
               >
             </h4>
           </section>
@@ -510,11 +589,11 @@
             <h4>
               <span>2025-11-14 @ 13:21:24</span
               ><span class="points-container"
-                >Points: <span class="points">445</span></span
+                >Points: <span class="points">458</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45926469"
                   >Comments</a
-                ><span class="descendants">: 410</span></span
+                ><span class="descendants">: 430</span></span
               >
             </h4>
           </section>
@@ -532,11 +611,11 @@
             <h4>
               <span>2025-11-14 @ 13:18:09</span
               ><span class="points-container"
-                >Points: <span class="points">145</span></span
+                >Points: <span class="points">150</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45926439"
                   >Comments</a
-                ><span class="descendants">: 62</span></span
+                ><span class="descendants">: 64</span></span
               >
             </h4>
           </section>
@@ -555,7 +634,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45926263"
                   >Comments</a
-                ><span class="descendants">: 28</span></span
+                ><span class="descendants">: 30</span></span
               >
             </h4>
           </section>
@@ -570,11 +649,11 @@
             <h4>
               <span>2025-11-14 @ 12:44:07</span
               ><span class="points-container"
-                >Points: <span class="points">118</span></span
+                >Points: <span class="points">123</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45926224"
                   >Comments</a
-                ><span class="descendants">: 90</span></span
+                ><span class="descendants">: 93</span></span
               >
             </h4>
           </section>
@@ -589,7 +668,7 @@
             <h4>
               <span>2025-11-14 @ 12:09:59</span
               ><span class="points-container"
-                >Points: <span class="points">91</span></span
+                >Points: <span class="points">94</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45926037"
                   >Comments</a
@@ -610,7 +689,7 @@
             <h4>
               <span>2025-11-14 @ 07:10:10</span
               ><span class="points-container"
-                >Points: <span class="points">138</span></span
+                >Points: <span class="points">140</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45924619"
                   >Comments</a
@@ -629,11 +708,11 @@
             <h4>
               <span>2025-11-11 @ 07:58:43</span
               ><span class="points-container"
-                >Points: <span class="points">7</span></span
+                >Points: <span class="points">11</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45885070"
                   >Comments</a
-                ><span class="descendants">: 0</span></span
+                ><span class="descendants">: 1</span></span
               >
             </h4>
           </section>
@@ -651,11 +730,11 @@
             <h4>
               <span>2025-11-10 @ 15:13:55</span
               ><span class="points-container"
-                >Points: <span class="points">21</span></span
+                >Points: <span class="points">29</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45876742"
                   >Comments</a
-                ><span class="descendants">: 0</span></span
+                ><span class="descendants">: 4</span></span
               >
             </h4>
             <div class="text">
@@ -683,7 +762,7 @@
             <h4>
               <span>2025-11-10 @ 13:11:49</span
               ><span class="points-container"
-                >Points: <span class="points">241</span></span
+                >Points: <span class="points">243</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45875618"
                   >Comments</a
@@ -705,7 +784,7 @@
             <h4>
               <span>2025-11-10 @ 03:29:27</span
               ><span class="points-container"
-                >Points: <span class="points">58</span></span
+                >Points: <span class="points">60</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45872066"
                   >Comments</a
@@ -724,7 +803,7 @@
             <h4>
               <span>2025-11-09 @ 15:46:29</span
               ><span class="points-container"
-                >Points: <span class="points">230</span></span
+                >Points: <span class="points">233</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45866366"
                   >Comments</a
@@ -743,7 +822,7 @@
             <h4>
               <span>2025-11-05 @ 09:39:58</span
               ><span class="points-container"
-                >Points: <span class="points">110</span></span
+                >Points: <span class="points">114</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45821154"
                   >Comments</a
@@ -762,11 +841,11 @@
             <h4>
               <span>2025-11-03 @ 10:40:11</span
               ><span class="points-container"
-                >Points: <span class="points">26</span></span
+                >Points: <span class="points">35</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45797689"
                   >Comments</a
-                ><span class="descendants">: 1</span></span
+                ><span class="descendants">: 5</span></span
               >
             </h4>
           </section>
