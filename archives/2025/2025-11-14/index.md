@@ -4,6 +4,11 @@
 
 ### [Archives](../../index.md) for [2025-11-14](index.md)
 
+* [2025-11-14, 18:20:08](https://news.ycombinator.com/item?id=45929921) - [We Uncovered a Race Condition in Aurora RDS](https://hightouch.com/blog/uncovering-a-race-condition-in-aurora-rds)
+* [2025-11-14, 18:16:28](https://news.ycombinator.com/item?id=45929863) - [Secret Boat Strike Memo Justifies Kills by Claiming Targeting Drugs, Not People](https://theintercept.com/2025/11/14/boat-strikes-immunity-legality-trump/)
+* [2025-11-14, 17:54:07](https://news.ycombinator.com/item?id=45929511) - [Not even a month passed and Chat Control is back in the EU](https://reclaimthenet.org/the-disguised-return-of-the-eus-private-message-scanning-plot)
+* [2025-11-14, 17:43:40](https://news.ycombinator.com/item?id=45929358) - [Bitchat for Gaza – messaging without internet](https://updates.techforpalestine.org/bitchat-for-gaza-messaging-without-internet/)
+* [2025-11-14, 17:39:35](https://news.ycombinator.com/item?id=45929304) - [Norway's Wealth Tax Unchains a Capital Exodus](https://citizenx.com/insights/norway-wealth-exodus/)
 * [2025-11-14, 17:35:17](https://news.ycombinator.com/item?id=45929247) - [Meeting notes between Forgejo and the Dutch government via Git commits](https://codeberg.org/forgejo/sustainability/pulls/137/files)
 * [2025-11-14, 17:19:08](https://news.ycombinator.com/item?id=45929052) - [Germany to Ban Huawei from Future 6G Network in Sovereignty Push](https://www.bloomberg.com/news/articles/2025-11-13/germany-to-ban-huawei-from-future-6g-network-in-sovereignty-push)
 * [2025-11-14, 17:08:15](https://news.ycombinator.com/item?id=45928912) - [You misunderstand what it means to be poor](https://blog.ctms.me/posts/2025-11-14-being-poor-or-being-broke/)
