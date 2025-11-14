@@ -100,6 +100,7 @@
 * [2025-11-04, 08:28:01](https://news.ycombinator.com/item?id=45808693) - [A behind-the-scenes look at Broadcom's design labs](https://www.techbrew.com/stories/2025/11/03/broadcom-design-labs-tour)
 * [2025-11-04, 08:27:23](https://news.ycombinator.com/item?id=45808690) - [Some software bloat is OK](https://waspdev.com/articles/2025-11-04/some-software-bloat-is-ok)
 * [2025-11-04, 08:19:41](https://news.ycombinator.com/item?id=45808633) - [Dempster-shafer and reasoning about sets](https://emiruz.com/post/2025-10-30-epistemics/)
+* [2025-11-04, 07:41:58](https://news.ycombinator.com/item?id=45808407) - [Unofficial Microsoft Teams Client for Linux](https://github.com/IsmaelMartinez/teams-for-linux)
 * [2025-11-04, 07:37:41](https://news.ycombinator.com/item?id=45808383) - [What If Java Had Symmetric Converter Methods on Collection?](https://donraab.medium.com/what-if-java-had-symmetric-converter-methods-on-collection-cbb824885c3f)
 * [2025-11-04, 07:26:45](https://news.ycombinator.com/item?id=45808308) - [Lessons from 70 interviews on deploying AI Agents in production](https://mmc.vc/research/state-of-agentic-ai-founders-edition/)
 * [2025-11-04, 07:22:46](https://news.ycombinator.com/item?id=45808288) - [Reverse Engineering a Neural Network's Clever Solution to Binary Addition (2023)](https://cprimozic.net/blog/reverse-engineering-a-small-neural-network/)
