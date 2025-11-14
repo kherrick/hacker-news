@@ -16,6 +16,7 @@
 * [2025-11-04, 22:59:22](https://news.ycombinator.com/item?id=45816879) - [Patching 68K Software – SimpleText](https://tinkerdifferent.com/threads/patching-68k-software-simpletext.4793/)
 * [2025-11-04, 22:57:12](https://news.ycombinator.com/item?id=45816853) - [Mr Tiff](https://inventingthefuture.ghost.io/mr-tiff/)
 * [2025-11-04, 22:35:58](https://news.ycombinator.com/item?id=45816673) - [Grayskull: A tiny computer vision library in C for embedded systems, etc.](https://github.com/zserge/grayskull)
+* [2025-11-04, 22:23:36](https://news.ycombinator.com/item?id=45816542) - [Sarah Mason, inventor of the continuity script, first script supervisor](https://wfpp.columbia.edu/pioneer/ccp-sarah-y-mason/)
 * [2025-11-04, 21:48:26](https://news.ycombinator.com/item?id=45816260) - [US gives local police a face-scanning app similar to one used by ICE agents](https://arstechnica.com/tech-policy/2025/11/us-gives-local-police-a-face-scanning-app-similar-to-one-used-by-ice-agents/)
 * [2025-11-04, 21:42:29](https://news.ycombinator.com/item?id=45816217) - [CPUs and GPUs to Become More Expensive After TSMC Price Hike in 2026](https://www.guru3d.com/story/cpus-and-gpus-to-become-more-expensive-after-tsmc-price-hike-in-2026/)
 * [2025-11-04, 21:39:56](https://news.ycombinator.com/item?id=45816195) - [74% of CEOs worry AI failures could cost them their jobs](https://cfo.economictimes.indiatimes.com/news/74-of-ceos-worry-ai-failures-could-cost-them-their-jobs-report/118923383)
