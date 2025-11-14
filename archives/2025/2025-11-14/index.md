@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-11-14](index.md)
 
+* [2025-11-14, 22:33:15](https://news.ycombinator.com/item?id=45932962) - [Go's Sweet 16](https://go.dev/blog/16years)
+* [2025-11-14, 22:15:04](https://news.ycombinator.com/item?id=45932798) - [SSL Configuration Generator](https://ssl-config.mozilla.org/)
 * [2025-11-14, 21:56:55](https://news.ycombinator.com/item?id=45932646) - [30 Days, 9 Cities, 1 Question: Where Did American Prosperity Go?](https://kyla.substack.com/p/30-days-9-cities-1-question-where)
 * [2025-11-14, 21:00:25](https://news.ycombinator.com/item?id=45932131) - [Mentra (YC W25) Is Hiring: Head of Growth to Make Smart Glasses Mainstream](https://www.ycombinator.com/companies/mentra/jobs/2YbQCRw-make-smart-glasses-mainstream-head-of-growth)
 * [2025-11-14, 20:53:28](https://news.ycombinator.com/item?id=45932051) - [First Microprocessor – 50th Anniversary 2020](https://firstmicroprocessor.com/)
