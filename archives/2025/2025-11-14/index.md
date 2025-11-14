@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-11-14](index.md)
 
+* [2025-11-14, 11:51:28](https://news.ycombinator.com/item?id=45925950) - [Gnome 50 Ends the X11 Era After Decades](https://linuxiac.com/gnome-50-ends-the-x11-era-after-decades/)
 * [2025-11-14, 11:41:47](https://news.ycombinator.com/item?id=45925890) - [Show HN: Encore – Type-safe back end framework that generates infra from code](https://github.com/encoredev/encore)
 * [2025-11-14, 09:53:13](https://news.ycombinator.com/item?id=45925431) - [V8 Garbage Collector](https://wingolog.org/archives/2025/11/13/the-last-couple-years-in-v8s-garbage-collector)
 * [2025-11-14, 08:06:41](https://news.ycombinator.com/item?id=45924872) - [Show HN: Pegma, the free and open-source version of the classic Peg solitaire](https://pegma.vercel.app)

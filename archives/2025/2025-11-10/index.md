@@ -47,6 +47,7 @@
 * [2025-11-10, 13:40:59](https://news.ycombinator.com/item?id=45875918) - [Interesting SPI Routing with iCE40 FPGAs](https://danielmangum.com/posts/spi-routing-ice40-fpga/)
 * [2025-11-10, 13:38:42](https://news.ycombinator.com/item?id=45875903) - [Steven Heller's Font of the Month: Archive Matrix](https://ilovetypography.com/2025/11/07/steven-hellers-font-of-the-month-archive-matrix/)
 * [2025-11-10, 13:19:36](https://news.ycombinator.com/item?id=45875697) - [Refashion: Reconfigurable Garments via Modular Design](https://arxiv.org/abs/2510.11941)
+* [2025-11-10, 13:11:49](https://news.ycombinator.com/item?id=45875618) - [Honda: 2 years of ml vs 1 month of prompting - heres what we learned](https://www.levs.fyi/blog/2-years-of-ml-vs-1-month-of-prompting/)
 * [2025-11-10, 13:09:17](https://news.ycombinator.com/item?id=45875597) - [Scientists Discover \"Gyromorphs\" Materials to Enhance Light-Based Computers](https://www.nyu.edu/about/news-publications/news/2025/november/scientists-discover-breakthrough-materials-to-enhance-light-base.html)
 * [2025-11-10, 11:45:15](https://news.ycombinator.com/item?id=45874987) - [Vibe Code Warning – A personal casestudy](https://github.com/jackdoe/pico2-swd-riscv)
 * [2025-11-10, 11:21:47](https://news.ycombinator.com/item?id=45874850) - [DNS Provider Quad9 Sees Piracy Blocking Orders as \"Existential Threat\"](https://torrentfreak.com/dns-provider-quad9-sees-piracy-blocking-orders-as-existential-threat/)
