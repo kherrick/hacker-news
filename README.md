@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-11-14, 19:54:58](https://news.ycombinator.com/item?id=45931403) - [All Praise to the Lunch Ladies](https://bittersoutherner.com/issue-no-12/all-praise-to-the-lunch-ladies)
 * [2025-11-14, 19:07:45](https://news.ycombinator.com/item?id=45930659) - [Show HN: Chirp – Local Windows dictation with ParakeetV3 no executable required](https://github.com/Whamp/chirp)
 * [2025-11-14, 19:04:23](https://news.ycombinator.com/item?id=45930598) - [Structured Outputs on the Claude Developer Platform (API)](https://www.claude.com/blog/structured-outputs-on-the-claude-developer-platform)
 * [2025-11-14, 18:42:55](https://news.ycombinator.com/item?id=45930284) - [Minisforum Stuffs Entire Arm Homelab in the MS-R1](https://www.jeffgeerling.com/blog/2025/minisforum-stuffs-entire-arm-homelab-ms-r1)
@@ -11,7 +12,6 @@
 * [2025-11-14, 17:35:17](https://news.ycombinator.com/item?id=45929247) - [Meeting notes between Forgejo and the Dutch government via Git commits](https://codeberg.org/forgejo/sustainability/pulls/137/files)
 * [2025-11-14, 17:19:08](https://news.ycombinator.com/item?id=45929052) - [Germany to ban Huawei from future 6G network](https://www.bloomberg.com/news/articles/2025-11-13/germany-to-ban-huawei-from-future-6g-network-in-sovereignty-push)
 * [2025-11-14, 17:08:15](https://news.ycombinator.com/item?id=45928912) - [Being poor vs. being broke](https://blog.ctms.me/posts/2025-11-14-being-poor-or-being-broke/)
-* [2025-11-14, 17:04:49](https://news.ycombinator.com/item?id=45928873) - [Moving Back to a Tiling WM – XMonad](https://wssite.vercel.app/blog/moving-back-to-a-tiling-wm-xmonad)
 * [2025-11-14, 17:00:19](https://news.ycombinator.com/item?id=45928822) - [RetailReady (YC W24) Is Hiring](https://www.ycombinator.com/companies/retailready/jobs/kGHAith-support-engineer)
 * [2025-11-14, 16:51:03](https://news.ycombinator.com/item?id=45928709) - [Manganese is Lyme disease's double-edge sword](https://news.northwestern.edu/stories/2025/11/manganese-is-lyme-diseases-double-edge-sword)
 * [2025-11-14, 16:42:12](https://news.ycombinator.com/item?id=45928620) - [US Tech Market Treemap](https://caplocus.com/)
