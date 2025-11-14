@@ -1,12 +1,42 @@
 [
   [
     [
+      "2025-11-14, 18:42:55",
+      "https://news.ycombinator.com/item?id=45930284"
+    ],
+    [
+      "Minisforum Stuffs Entire Arm Homelab in the MS-R1",
+      "https://www.jeffgeerling.com/blog/2025/minisforum-stuffs-entire-arm-homelab-ms-r1"
+    ]
+  ],
+  [
+    [
+      "2025-11-14, 18:35:22",
+      "https://news.ycombinator.com/item?id=45930151"
+    ],
+    [
+      "AI World Clocks",
+      "https://clocks.brianmoore.com/"
+    ]
+  ],
+  [
+    [
       "2025-11-14, 18:20:08",
       "https://news.ycombinator.com/item?id=45929921"
     ],
     [
       "We Uncovered a Race Condition in Aurora RDS",
       "https://hightouch.com/blog/uncovering-a-race-condition-in-aurora-rds"
+    ]
+  ],
+  [
+    [
+      "2025-11-14, 18:18:11",
+      "https://news.ycombinator.com/item?id=45929888"
+    ],
+    [
+      "Show HN: Dumbass Business Ideas",
+      "https://dumbassideas.com"
     ]
   ],
   [
@@ -37,16 +67,6 @@
     [
       "Bitchat for Gaza – messaging without internet",
       "https://updates.techforpalestine.org/bitchat-for-gaza-messaging-without-internet/"
-    ]
-  ],
-  [
-    [
-      "2025-11-14, 17:39:35",
-      "https://news.ycombinator.com/item?id=45929304"
-    ],
-    [
-      "Norway's Wealth Tax Unchains a Capital Exodus",
-      "https://citizenx.com/insights/norway-wealth-exodus/"
     ]
   ],
   [
@@ -151,16 +171,6 @@
   ],
   [
     [
-      "2025-11-14, 14:32:49",
-      "https://news.ycombinator.com/item?id=45927042"
-    ],
-    [
-      "What Comes After Science?",
-      "https://www.science.org/doi/10.1126/science.aec7650"
-    ]
-  ],
-  [
-    [
       "2025-11-14, 14:05:00",
       "https://news.ycombinator.com/item?id=45926779"
     ],
@@ -187,16 +197,6 @@
     [
       "Nvidia is gearing up to sell servers instead of just GPUs and components",
       "https://www.tomshardware.com/tech-industry/artificial-intelligence/jp-morgan-says-nvidia-is-gearing-up-to-sell-entire-ai-servers-instead-of-just-ai-gpus-and-componentry-jensens-master-plan-of-vertical-integration-will-boost-profits-purportedly-starting-with-vera-rubin"
-    ]
-  ],
-  [
-    [
-      "2025-11-14, 13:10:19",
-      "https://news.ycombinator.com/item?id=45926383"
-    ],
-    [
-      "Backblaze Drive Stats for Q3 2025",
-      "https://www.backblaze.com/blog/backblaze-drive-stats-for-q3-2025/"
     ]
   ],
   [
@@ -237,16 +237,6 @@
     [
       "RegreSQL: Regression Testing for PostgreSQL Queries",
       "https://boringsql.com/posts/regresql-testing-queries/"
-    ]
-  ],
-  [
-    [
-      "2025-11-13, 17:39:13",
-      "https://news.ycombinator.com/item?id=45917875"
-    ],
-    [
-      "Nano Banana can be prompt engineered for nuanced AI image generation",
-      "https://minimaxir.com/2025/11/nano-banana-prompts/"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Cgp-serde: A modular serialization library for Serde powered by CGP",
       "https://contextgeneric.dev/blog/cgp-serde-release/"
+    ]
+  ],
+  [
+    [
+      "2025-11-03, 10:40:11",
+      "https://news.ycombinator.com/item?id=45797689"
+    ],
+    [
+      "Awk Technical Notes",
+      "https://maximullaris.com/awk_tech_notes.html"
     ]
   ]
 ]
