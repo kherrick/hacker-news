@@ -23,11 +23,11 @@
 * [2025-11-13, 09:23:30](https://news.ycombinator.com/item?id=45912698) - [Checkout.com hacked, refuses ransom payment, donates to security labs](https://www.checkout.com/blog/protecting-our-merchants-standing-up-to-extortion)
 * [2025-11-13, 00:33:25](https://news.ycombinator.com/item?id=45908938) - [Android developer verification: Early access starts](https://android-developers.googleblog.com/2025/11/android-developer-verification-early.html)
 * [2025-11-12, 17:59:43](https://news.ycombinator.com/item?id=45903404) - [Steam Machine](https://store.steampowered.com/sale/steammachine)
+* [2025-11-10, 15:26:58](https://news.ycombinator.com/item?id=45876876) - [The Useful Personal Computer](https://technicshistory.com/2025/11/02/the-useful-personal-computer/)
 * [2025-11-09, 12:03:15](https://news.ycombinator.com/item?id=45864954) - [Think in math, write in code (2019)](https://www.jmeiners.com/think-in-math/)
-* [2025-11-07, 00:47:35](https://news.ycombinator.com/item?id=45842419) - [Remind: A sophisticated calendar and alarm program](https://dianne.skoll.ca/projects/remind/)
-* [2025-11-06, 20:50:52](https://news.ycombinator.com/item?id=45840260) - [How to fix subsystem request failed on channel 0](https://blog.x-way.org/Linux/2025/11/06/How-to-fix-subsystem-request-failed-on-channel-0.html)
 * [2025-11-06, 20:13:35](https://news.ycombinator.com/item?id=45839822) - [Itiner-E – The Digital Atlas of Ancient Roads](https://itiner-e.org/)
 * [2025-11-06, 14:01:25](https://news.ycombinator.com/item?id=45835331) - [Why I'm Learning Sumerian](https://mindthenerd.com/why-im-learning-sumerian-and-what-it-taught-me-about-hard-work-burnout-and-the-joy-of-doing-useless-things/)
+* [2025-11-05, 17:49:31](https://news.ycombinator.com/item?id=45825722) - [A Brutal Look at Balanced Parentheses, Computing Machines, and Pushdown Automata](https://raganwald.com/2019/02/14/i-love-programming-and-programmers.html)
 * [2025-11-04, 19:27:55](https://news.ycombinator.com/item?id=45814939) - [Why do we need dithering?](https://typefully.com/DanHollick/why-do-we-need-dithering-Ut7oD4k)
 * [2025-11-03, 13:51:21](https://news.ycombinator.com/item?id=45798934) - [I Built a One File Edge Probe to Tell Me When Time Is Lying](https://physical-ai.ghost.io/a-one-file-pwa-to-tell-you-when-time-is-lying/)
 
