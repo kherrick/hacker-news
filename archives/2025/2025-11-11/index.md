@@ -65,6 +65,7 @@
 * [2025-11-11, 10:52:39](https://news.ycombinator.com/item?id=45886002) - [Welcome, the entire land - \"Hello, world!\" in hieroglyphics](https://optional.is/required/2009/12/03/welcome-the-entire-land/)
 * [2025-11-11, 10:17:57](https://news.ycombinator.com/item?id=45885813) - [iPhone Pocket](https://www.apple.com/newsroom/2025/11/introducing-iphone-pocket-a-beautiful-way-to-wear-and-carry-iphone/)
 * [2025-11-11, 10:03:57](https://news.ycombinator.com/item?id=45885750) - [Show HN: Gerbil – an open source desktop app for running LLMs locally](https://github.com/lone-cloud/gerbil)
+* [2025-11-11, 09:48:05](https://news.ycombinator.com/item?id=45885677) - [Xqerl – Erlang XQuery 3.1 Processor](https://zadean.github.io/xqerl/)
 * [2025-11-11, 08:29:23](https://news.ycombinator.com/item?id=45885242) - [Why Effort Scales Superlinearly with the Perceived Quality of Creative Work](https://markusstrasser.org/creative-work-landscapes.html)
 * [2025-11-11, 08:09:05](https://news.ycombinator.com/item?id=45885135) - [Zig / C++ Interop](https://tuple.app/blog/zig-cpp-interop)
 * [2025-11-11, 08:07:54](https://news.ycombinator.com/item?id=45885130) - [Colon cancer is rising in young people and scientists got a clue about why](https://www.nationalgeographic.com/health/article/gut-toxins-colon-cancer-early-diagnosis)
