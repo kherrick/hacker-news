@@ -29,6 +29,7 @@
 * [2025-11-09, 16:26:09](https://news.ycombinator.com/item?id=45866697) - [Marble Fountain](https://willmorrison.net/posts/marble-fountain/)
 * [2025-11-09, 16:25:05](https://news.ycombinator.com/item?id=45866688) - [Bull markets make you feel smarter than you are](https://awealthofcommonsense.com/2025/11/ben-graham-bull-market-brains/)
 * [2025-11-09, 16:10:23](https://news.ycombinator.com/item?id=45866572) - [The Principles of Diffusion Models](https://arxiv.org/abs/2510.21890)
+* [2025-11-09, 15:46:29](https://news.ycombinator.com/item?id=45866366) - [Operating Margins](https://fi-le.net/margin/)
 * [2025-11-09, 15:30:23](https://news.ycombinator.com/item?id=45866243) - [AI isn't replacing jobs. AI spending is](https://www.fastcompany.com/91435192/chatgpt-llm-openai-jobs-amazon)
 * [2025-11-09, 15:27:42](https://news.ycombinator.com/item?id=45866224) - [The Manuscripts of Edsger W. Dijkstra](https://www.cs.utexas.edu/~EWD/)
 * [2025-11-09, 15:18:23](https://news.ycombinator.com/item?id=45866165) - [Samsung Family Hub fridges will start showing adds to \"Elevate\" Home Ecosystem](https://news.samsung.com/us/samsung-family-hub-2025-update-elevates-smart-home-ecosystem/)
