@@ -35,7 +35,7 @@
       "https://news.ycombinator.com/item?id=45929921"
     ],
     [
-      "We Uncovered a Race Condition in Aurora RDS",
+      "A race condition in Aurora RDS",
       "https://hightouch.com/blog/uncovering-a-race-condition-in-aurora-rds"
     ]
   ],
@@ -55,7 +55,7 @@
       "https://news.ycombinator.com/item?id=45929511"
     ],
     [
-      "Not even a month passed and Chat Control is back in the EU",
+      "The disguised return of EU Chat Control",
       "https://reclaimthenet.org/the-disguised-return-of-the-eus-private-message-scanning-plot"
     ]
   ],
@@ -87,16 +87,6 @@
     [
       "Germany to Ban Huawei from Future 6G Network in Sovereignty Push",
       "https://www.bloomberg.com/news/articles/2025-11-13/germany-to-ban-huawei-from-future-6g-network-in-sovereignty-push"
-    ]
-  ],
-  [
-    [
-      "2025-11-14, 17:08:15",
-      "https://news.ycombinator.com/item?id=45928912"
-    ],
-    [
-      "You misunderstand what it means to be poor",
-      "https://blog.ctms.me/posts/2025-11-14-being-poor-or-being-broke/"
     ]
   ],
   [
@@ -237,6 +227,16 @@
     [
       "RegreSQL: Regression Testing for PostgreSQL Queries",
       "https://boringsql.com/posts/regresql-testing-queries/"
+    ]
+  ],
+  [
+    [
+      "2025-11-11, 07:58:43",
+      "https://news.ycombinator.com/item?id=45885070"
+    ],
+    [
+      "GPG and Me (2015)",
+      "https://moxie.org/2015/02/24/gpg-and-me.html"
     ]
   ],
   [
