@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-11-14](index.md)
 
 * [2025-11-14, 07:10:10](https://news.ycombinator.com/item?id=45924619) - [RegreSQL: Regression Testing for PostgreSQL Queries](https://boringsql.com/posts/regresql-testing-queries/)
+* [2025-11-14, 06:57:22](https://news.ycombinator.com/item?id=45924569) - [Multi-User Dungeon (MUD)](https://en.wikipedia.org/wiki/Multi-user_dungeon)
 * [2025-11-14, 06:13:09](https://news.ycombinator.com/item?id=45924345) - [Hooked on Sonics: Experimenting with Sound in 19th-Century Popular Science](https://publicdomainreview.org/essay/science-of-sound/)
 * [2025-11-14, 03:12:38](https://news.ycombinator.com/item?id=45923433) - [Fannie Mae officials ousted after sounding alarm on sharing confidential data](https://apnews.com/article/fannie-mae-freddie-mac-firing-pulte-data-a4f8c53df74fef83ec7fd07e3d524746)
 * [2025-11-14, 03:08:09](https://news.ycombinator.com/item?id=45923406) - [Copyright Winter Is Coming (To Wikipedia?)](https://authorsalliance.substack.com/p/copyright-winter-is-coming-to-wikipedia)

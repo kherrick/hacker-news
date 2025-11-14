@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-11-14, 07:10:10](https://news.ycombinator.com/item?id=45924619) - [RegreSQL: Regression Testing for PostgreSQL Queries](https://boringsql.com/posts/regresql-testing-queries/)
+* [2025-11-14, 06:57:22](https://news.ycombinator.com/item?id=45924569) - [Multi-User Dungeon (MUD)](https://en.wikipedia.org/wiki/Multi-user_dungeon)
 * [2025-11-14, 06:13:09](https://news.ycombinator.com/item?id=45924345) - [Hooked on Sonics: Experimenting with Sound in 19th-Century Popular Science](https://publicdomainreview.org/essay/science-of-sound/)
 * [2025-11-14, 01:30:50](https://news.ycombinator.com/item?id=45922850) - [How to Get a North Korea / Antarctica VPS](https://blog.lyc8503.net/en/post/asn-5-worldwide-servers/)
 * [2025-11-14, 00:18:23](https://news.ycombinator.com/item?id=45922420) - [What Happened with the CIA and The Paris Review?](https://www.theparisreview.org/blog/2025/11/11/what-really-happened-with-the-cia-and-the-paris-review-a-conversation-with-lance-richardson/)
@@ -12,7 +13,6 @@
 * [2025-11-13, 20:33:43](https://news.ycombinator.com/item?id=45920156) - [Show HN: DBOS Java – Postgres-Backed Durable Workflows](https://github.com/dbos-inc/dbos-transact-java)
 * [2025-11-13, 19:03:26](https://news.ycombinator.com/item?id=45919067) - [SlopStop: Community-driven AI slop detection in Kagi Search](https://blog.kagi.com/slopstop)
 * [2025-11-13, 18:34:12](https://news.ycombinator.com/item?id=45918638) - [Disrupting the first reported AI-orchestrated cyber espionage campaign](https://www.anthropic.com/news/disrupting-AI-espionage)
-* [2025-11-13, 18:32:36](https://news.ycombinator.com/item?id=45918616) - [Rust in Android: move fast and fix things](https://security.googleblog.com/2025/11/rust-in-android-move-fast-fix-things.html)
 * [2025-11-13, 18:10:29](https://news.ycombinator.com/item?id=45918331) - [The Eggstraordinary Fortress](https://ahmed1011001.github.io/Notes/stories/eggstrodinary.html)
 * [2025-11-13, 17:39:13](https://news.ycombinator.com/item?id=45917875) - [Nano Banana can be prompt engineered for nuanced AI image generation](https://minimaxir.com/2025/11/nano-banana-prompts/)
 * [2025-11-13, 16:03:04](https://news.ycombinator.com/item?id=45916525) - [Launch HN: Tweeks (YC W25) – Browser extension to deshittify the web](https://www.tweeks.io/onboarding)
