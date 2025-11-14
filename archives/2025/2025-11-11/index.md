@@ -68,6 +68,7 @@
 * [2025-11-11, 08:29:23](https://news.ycombinator.com/item?id=45885242) - [Why Effort Scales Superlinearly with the Perceived Quality of Creative Work](https://markusstrasser.org/creative-work-landscapes.html)
 * [2025-11-11, 08:09:05](https://news.ycombinator.com/item?id=45885135) - [Zig / C++ Interop](https://tuple.app/blog/zig-cpp-interop)
 * [2025-11-11, 08:07:54](https://news.ycombinator.com/item?id=45885130) - [Colon cancer is rising in young people and scientists got a clue about why](https://www.nationalgeographic.com/health/article/gut-toxins-colon-cancer-early-diagnosis)
+* [2025-11-11, 07:58:43](https://news.ycombinator.com/item?id=45885070) - [GPG and Me (2015)](https://moxie.org/2015/02/24/gpg-and-me.html)
 * [2025-11-11, 07:45:41](https://news.ycombinator.com/item?id=45885013) - [Show HN: PhantomCollect – Open-Source Web Data Collection Framework in Python](https://github.com/xsser01/phantomcollect)
 * [2025-11-11, 07:34:10](https://news.ycombinator.com/item?id=45884951) - [The \"Dependency Cutout\" Workflow Pattern](https://blog.glyph.im/2025/11/dependency-cutout-workflow-pattern.html)
 * [2025-11-11, 07:32:06](https://news.ycombinator.com/item?id=45884937) - [SoftBank sells its entire stake in Nvidia for $5.83B](https://www.cnbc.com/2025/11/11/softbank-sells-its-entire-stake-in-nvidia-for-5point83-billion.html)
