@@ -4,9 +4,15 @@
 
 ### [Archives](../../index.md) for [2025-11-14](index.md)
 
+* [2025-11-14, 14:05:00](https://news.ycombinator.com/item?id=45926779) - [I think nobody wants AI in Firefox, Mozilla](https://manualdousuario.net/en/mozilla-firefox-window-ai/)
+* [2025-11-14, 13:21:24](https://news.ycombinator.com/item?id=45926469) - [AGI fantasy is a blocker to actual engineering](https://www.tomwphillips.co.uk/2025/11/agi-fantasy-is-a-blocker-to-actual-engineering/)
 * [2025-11-14, 13:18:09](https://news.ycombinator.com/item?id=45926439) - [Nvidia is gearing up to sell servers instead of just GPUs and components](https://www.tomshardware.com/tech-industry/artificial-intelligence/jp-morgan-says-nvidia-is-gearing-up-to-sell-entire-ai-servers-instead-of-just-ai-gpus-and-componentry-jensens-master-plan-of-vertical-integration-will-boost-profits-purportedly-starting-with-vera-rubin)
 * [2025-11-14, 13:10:19](https://news.ycombinator.com/item?id=45926383) - [Backblaze Drive Stats for Q3 2025](https://www.backblaze.com/blog/backblaze-drive-stats-for-q3-2025/)
+* [2025-11-14, 12:51:23](https://news.ycombinator.com/item?id=45926263) - [EDE: Small and Fast Desktop Environment](https://edeproject.org/)
+* [2025-11-14, 12:44:07](https://news.ycombinator.com/item?id=45926224) - [Winamp for OS/X](https://github.com/mgreenwood1001/winamp)
+* [2025-11-14, 12:23:53](https://news.ycombinator.com/item?id=45926105) - [Arrival Radar](https://entropicthoughts.com/arrival-radar)
 * [2025-11-14, 12:13:06](https://news.ycombinator.com/item?id=45926057) - [LiteAI – OpenAI, Anthropic, and Google LLMs at a discount](https://www.liteapi.ai/)
+* [2025-11-14, 12:09:59](https://news.ycombinator.com/item?id=45926037) - [Magit manuals are available online again](https://github.com/magit/magit/issues/5472)
 * [2025-11-14, 11:51:28](https://news.ycombinator.com/item?id=45925950) - [Gnome 50 Ends the X11 Era After Decades](https://linuxiac.com/gnome-50-ends-the-x11-era-after-decades/)
 * [2025-11-14, 11:41:47](https://news.ycombinator.com/item?id=45925890) - [Show HN: Encore – Type-safe back end framework that generates infra from code](https://github.com/encoredev/encore)
 * [2025-11-14, 11:06:29](https://news.ycombinator.com/item?id=45925755) - [A Spectral-Geometric Proof of the Riemann Hypothesis](https://zenodo.org/records/17508340)
