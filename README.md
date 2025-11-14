@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-11-14, 03:12:38](https://news.ycombinator.com/item?id=45923433) - [Fannie Mae officials ousted after sounding alarm on sharing confidential data](https://apnews.com/article/fannie-mae-freddie-mac-firing-pulte-data-a4f8c53df74fef83ec7fd07e3d524746)
 * [2025-11-14, 03:08:09](https://news.ycombinator.com/item?id=45923406) - [Copyright Winter Is Coming (To Wikipedia?)](https://authorsalliance.substack.com/p/copyright-winter-is-coming-to-wikipedia)
 * [2025-11-14, 02:49:44](https://news.ycombinator.com/item?id=45923326) - [Why Fei-Fei Li and Yann LeCun Are Both Betting on \"World Models\"](https://entropytown.com/articles/2025-11-13-world-model-lecun-feifei-li/)
 * [2025-11-14, 01:30:50](https://news.ycombinator.com/item?id=45922850) - [How to Get a North Korea / Antarctica VPS](https://blog.lyc8503.net/en/post/asn-5-worldwide-servers/)
@@ -23,13 +24,12 @@
 * [2025-11-13, 13:38:47](https://news.ycombinator.com/item?id=45914761) - [Blender Lab](https://www.blender.org/news/introducing-blender-lab/)
 * [2025-11-13, 09:23:30](https://news.ycombinator.com/item?id=45912698) - [Checkout.com hacked, refuses ransom payment, donates to security labs](https://www.checkout.com/blog/protecting-our-merchants-standing-up-to-extortion)
 * [2025-11-13, 00:33:25](https://news.ycombinator.com/item?id=45908938) - [Android developer verification: Early access starts](https://android-developers.googleblog.com/2025/11/android-developer-verification-early.html)
-* [2025-11-12, 17:59:43](https://news.ycombinator.com/item?id=45903404) - [Steam Machine](https://store.steampowered.com/sale/steammachine)
 * [2025-11-09, 12:03:15](https://news.ycombinator.com/item?id=45864954) - [Think in math, write in code (2019)](https://www.jmeiners.com/think-in-math/)
 * [2025-11-07, 00:47:35](https://news.ycombinator.com/item?id=45842419) - [Remind: A sophisticated calendar and alarm program](https://dianne.skoll.ca/projects/remind/)
 * [2025-11-06, 20:50:52](https://news.ycombinator.com/item?id=45840260) - [How to fix subsystem request failed on channel 0](https://blog.x-way.org/Linux/2025/11/06/How-to-fix-subsystem-request-failed-on-channel-0.html)
 * [2025-11-06, 20:13:35](https://news.ycombinator.com/item?id=45839822) - [Itiner-E – The Digital Atlas of Ancient Roads](https://itiner-e.org/)
+* [2025-11-05, 17:49:31](https://news.ycombinator.com/item?id=45825722) - [A Brutal Look at Balanced Parentheses, Computing Machines, and Pushdown Automata](https://raganwald.com/2019/02/14/i-love-programming-and-programmers.html)
 * [2025-11-03, 13:51:21](https://news.ycombinator.com/item?id=45798934) - [I Built a One File Edge Probe to Tell Me When Time Is Lying](https://physical-ai.ghost.io/a-one-file-pwa-to-tell-you-when-time-is-lying/)
-* [2025-11-02, 14:19:08](https://news.ycombinator.com/item?id=45790530) - [The Useful Personal Computer](https://technicshistory.com/2025/11/02/the-useful-personal-computer/)
 
 ## [Archives](archives/index.md)
 
