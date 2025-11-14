@@ -50,6 +50,7 @@
 * [2025-11-11, 14:34:54](https://news.ycombinator.com/item?id=45887699) - [The department of war just shot the accountants and opted for speed](https://steveblank.com/2025/11/11/the-department-of-war-just-shot-the-accountants-and-opted-for-speed/)
 * [2025-11-11, 14:18:16](https://news.ycombinator.com/item?id=45887536) - [Show HN: Tusk Drift – Open-source tool for automating API tests](https://github.com/Use-Tusk/drift-node-sdk)
 * [2025-11-11, 14:11:49](https://news.ycombinator.com/item?id=45887466) - [Scaling HNSWs](https://antirez.com/news/156)
+* [2025-11-11, 13:52:15](https://news.ycombinator.com/item?id=45887262) - [Has Google solved two of AI's oldest problems?](https://generativehistory.substack.com/p/has-google-quietly-solved-two-of)
 * [2025-11-11, 13:34:15](https://news.ycombinator.com/item?id=45887105) - [The Perplexing Appeal of the Telepathy Tapes](https://asteriskmag.com/issues/12-books/paradigm-shifted-the-perplexing-appeal-of-the-telepathy-tapes)
 * [2025-11-11, 13:24:31](https://news.ycombinator.com/item?id=45887007) - [Show HN: Venturu – Zillow for the market of local businesses](https://www.venturu.com)
 * [2025-11-11, 13:14:46](https://news.ycombinator.com/item?id=45886917) - [AI adoption in US adds ~900k tons of CO₂ annually, study finds](https://techxplore.com/news/2025-11-ai-tons-annually.html)
