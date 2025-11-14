@@ -55,6 +55,7 @@
 * [2025-11-05, 12:00:17](https://news.ycombinator.com/item?id=45821921) - [Founder in Residence at Woz (San Francisco)](https://news.ycombinator.com/item?id=45821921)
 * [2025-11-05, 10:28:50](https://news.ycombinator.com/item?id=45821423) - [72% of devs believe Steam has a monopoly on PC games, according to study](https://www.gamesindustry.biz/72-of-devs-believe-steam-has-a-monopoly-on-pc-games-according-to-study)
 * [2025-11-05, 10:01:03](https://news.ycombinator.com/item?id=45821265) - [Tetrahedral Analog of the Pythagorean Theorem](https://www.johndcook.com/blog/2025/11/03/de-gua/)
+* [2025-11-05, 09:39:58](https://news.ycombinator.com/item?id=45821154) - [Incus-OS: Immutable Linux OS to run Incus as a hypervisor](https://linuxcontainers.org/incus-os/)
 * [2025-11-05, 08:54:11](https://news.ycombinator.com/item?id=45820872) - [A Quote from Belligerentbarbies](https://simonwillison.net/2025/Nov/5/brenda/)
 * [2025-11-05, 08:45:16](https://news.ycombinator.com/item?id=45820824) - [Largest panoramic image – 2 Terapixels](https://holmenkollen360.com/)
 * [2025-11-05, 08:28:04](https://news.ycombinator.com/item?id=45820715) - [The Hackers Manifesto (The Conscience of a Hacker) (1986)](https://phrack.org/issues/7/3)
