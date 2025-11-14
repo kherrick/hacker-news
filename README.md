@@ -29,7 +29,7 @@
 * [2025-11-10, 03:29:27](https://news.ycombinator.com/item?id=45872066) - [Scientists Produce Powerhouse Pigment Behind Octopus Camouflage](https://today.ucsd.edu/story/scientists-produce-powerhouse-pigment-behind-octopus-camouflage)
 * [2025-11-09, 15:46:29](https://news.ycombinator.com/item?id=45866366) - [Operating Margins](https://fi-le.net/margin/)
 * [2025-11-05, 09:39:58](https://news.ycombinator.com/item?id=45821154) - [Incus-OS: Immutable Linux OS to run Incus as a hypervisor](https://linuxcontainers.org/incus-os/)
-* [2025-11-03, 10:40:11](https://news.ycombinator.com/item?id=45797689) - [Awk Technical Notes](https://maximullaris.com/awk_tech_notes.html)
+* [2025-11-03, 10:40:11](https://news.ycombinator.com/item?id=45797689) - [Awk Technical Notes (2023)](https://maximullaris.com/awk_tech_notes.html)
 
 ## [Archives](archives/index.md)
 
