@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-11-14, 09:53:13](https://news.ycombinator.com/item?id=45925431) - [V8 Garbage Collector](https://wingolog.org/archives/2025/11/13/the-last-couple-years-in-v8s-garbage-collector)
 * [2025-11-14, 08:06:41](https://news.ycombinator.com/item?id=45924872) - [Show HN: Pegma, the free and open-source version of the classic Peg solitaire](https://pegma.vercel.app)
 * [2025-11-14, 07:10:10](https://news.ycombinator.com/item?id=45924619) - [RegreSQL: Regression Testing for PostgreSQL Queries](https://boringsql.com/posts/regresql-testing-queries/)
 * [2025-11-14, 06:13:09](https://news.ycombinator.com/item?id=45924345) - [Hooked on Sonics: Experimenting with Sound in 19th-Century Popular Science](https://publicdomainreview.org/essay/science-of-sound/)
@@ -13,7 +14,6 @@
 * [2025-11-13, 20:33:43](https://news.ycombinator.com/item?id=45920156) - [Show HN: DBOS Java – Postgres-Backed Durable Workflows](https://github.com/dbos-inc/dbos-transact-java)
 * [2025-11-13, 19:03:26](https://news.ycombinator.com/item?id=45919067) - [SlopStop: Community-driven AI slop detection in Kagi Search](https://blog.kagi.com/slopstop)
 * [2025-11-13, 18:34:12](https://news.ycombinator.com/item?id=45918638) - [Disrupting the first reported AI-orchestrated cyber espionage campaign](https://www.anthropic.com/news/disrupting-AI-espionage)
-* [2025-11-13, 18:10:29](https://news.ycombinator.com/item?id=45918331) - [The Eggstraordinary Fortress](https://ahmed1011001.github.io/Notes/stories/eggstrodinary.html)
 * [2025-11-13, 17:39:13](https://news.ycombinator.com/item?id=45917875) - [Nano Banana can be prompt engineered for nuanced AI image generation](https://minimaxir.com/2025/11/nano-banana-prompts/)
 * [2025-11-13, 16:03:04](https://news.ycombinator.com/item?id=45916525) - [Launch HN: Tweeks (YC W25) – Browser extension to deshittify the web](https://www.tweeks.io/onboarding)
 * [2025-11-13, 15:41:26](https://news.ycombinator.com/item?id=45916196) - [Zed is our office](https://zed.dev/blog/zed-is-our-office)
@@ -21,7 +21,6 @@
 * [2025-11-13, 13:38:47](https://news.ycombinator.com/item?id=45914761) - [Blender Lab](https://www.blender.org/news/introducing-blender-lab/)
 * [2025-11-13, 00:33:25](https://news.ycombinator.com/item?id=45908938) - [Android developer verification: Early access starts](https://android-developers.googleblog.com/2025/11/android-developer-verification-early.html)
 * [2025-11-12, 17:59:43](https://news.ycombinator.com/item?id=45903404) - [Steam Machine](https://store.steampowered.com/sale/steammachine)
-* [2025-11-10, 17:08:20](https://news.ycombinator.com/item?id=45878067) - [The Floating Head Phenomenon](https://michaelestrin.substack.com/p/the-floating-head-phenomenon)
 * [2025-11-10, 05:54:45](https://news.ycombinator.com/item?id=45872864) - ['The Dream Factory' Review: A Building and Its Bard](https://www.wsj.com/arts-culture/books/the-dream-factory-review-a-building-and-its-bard-6d79ce43)
 * [2025-11-09, 15:46:29](https://news.ycombinator.com/item?id=45866366) - [Operating Margins](https://fi-le.net/margin/)
 * [2025-11-09, 12:03:15](https://news.ycombinator.com/item?id=45864954) - [Think in math, write in code (2019)](https://www.jmeiners.com/think-in-math/)
@@ -30,6 +29,7 @@
 * [2025-11-05, 17:49:31](https://news.ycombinator.com/item?id=45825722) - [A Brutal Look at Balanced Parentheses, Computing Machines, and Pushdown Automata](https://raganwald.com/2019/02/14/i-love-programming-and-programmers.html)
 * [2025-11-04, 22:23:36](https://news.ycombinator.com/item?id=45816542) - [Sarah Mason, inventor of the continuity script, first script supervisor](https://wfpp.columbia.edu/pioneer/ccp-sarah-y-mason/)
 * [2025-11-04, 19:27:55](https://news.ycombinator.com/item?id=45814939) - [Why do we need dithering?](https://typefully.com/DanHollick/why-do-we-need-dithering-Ut7oD4k)
+* [2025-11-04, 12:23:01](https://news.ycombinator.com/item?id=45810086) - [Show HN: An easy-to-use online curve fitting tool](https://byx2000.github.io/curve-fit/)
 
 ## [Archives](archives/index.md)
 

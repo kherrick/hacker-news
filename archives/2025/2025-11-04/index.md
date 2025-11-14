@@ -76,6 +76,7 @@
 * [2025-11-04, 12:27:46](https://news.ycombinator.com/item?id=45810127) - [Ask HN: Why are most status pages delayed?](https://news.ycombinator.com/item?id=45810127)
 * [2025-11-04, 12:26:28](https://news.ycombinator.com/item?id=45810116) - [Pose Animator – An open source tool to bring SVG characters to life (2020)](https://blog.tensorflow.org/2020/05/pose-animator-open-source-tool-to-bring-svg-characters-to-life.html)
 * [2025-11-04, 12:24:40](https://news.ycombinator.com/item?id=45810099) - [Show HN: Sparktype – a CMS and SSG that runs entirely in the browser](https://app.sparktype.org)
+* [2025-11-04, 12:23:01](https://news.ycombinator.com/item?id=45810086) - [Show HN: An easy-to-use online curve fitting tool](https://byx2000.github.io/curve-fit/)
 * [2025-11-04, 12:16:54](https://news.ycombinator.com/item?id=45810048) - [When Soviet-Made Cars Roamed Singapore Roads](https://remembersingapore.org/2025/10/30/soviet-made-cars-singapore-70s-to-90s/)
 * [2025-11-04, 12:07:10](https://news.ycombinator.com/item?id=45810001) - [Registered OAuth Parameters](https://www.iana.org/assignments/oauth-parameters/oauth-parameters.xhtml#parameters)
 * [2025-11-04, 12:03:02](https://news.ycombinator.com/item?id=45809975) - [Fixing LCD Screen Corruption of a Tektronix TDS220 Oscilloscope](https://tomverbeure.github.io/2025/11/03/TDS220-LCD-Corruption-Fix.html)
