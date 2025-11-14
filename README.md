@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-11-14, 21:56:55](https://news.ycombinator.com/item?id=45932646) - [30 Days, 9 Cities, 1 Question: Where Did American Prosperity Go?](https://kyla.substack.com/p/30-days-9-cities-1-question-where)
 * [2025-11-14, 21:00:25](https://news.ycombinator.com/item?id=45932131) - [Mentra (YC W25) Is Hiring: Head of Growth to Make Smart Glasses Mainstream](https://www.ycombinator.com/companies/mentra/jobs/2YbQCRw-make-smart-glasses-mainstream-head-of-growth)
 * [2025-11-14, 20:53:28](https://news.ycombinator.com/item?id=45932051) - [First Microprocessor – 50th Anniversary 2020](https://firstmicroprocessor.com/)
 * [2025-11-14, 20:06:31](https://news.ycombinator.com/item?id=45931552) - [Houston, We Have a Problem: Anthropic Rides an Artificial Wave – BIML](https://berryvilleiml.com/2025/11/14/houston-we-have-a-problem-anthropic-rides-an-artificial-wave/)
@@ -26,7 +27,6 @@
 * [2025-11-11, 09:48:05](https://news.ycombinator.com/item?id=45885677) - [Xqerl – Erlang XQuery 3.1 Processor](https://zadean.github.io/xqerl/)
 * [2025-11-10, 15:13:55](https://news.ycombinator.com/item?id=45876742) - [Show HN: Tiny Diffusion – A character-level text diffusion model from scratch](https://github.com/nathan-barry/tiny-diffusion)
 * [2025-11-10, 13:11:49](https://news.ycombinator.com/item?id=45875618) - [Honda: 2 years of ml vs 1 month of prompting - heres what we learned](https://www.levs.fyi/blog/2-years-of-ml-vs-1-month-of-prompting/)
-* [2025-11-09, 15:46:29](https://news.ycombinator.com/item?id=45866366) - [Operating Margins](https://fi-le.net/margin/)
 * [2025-11-08, 15:40:11](https://news.ycombinator.com/item?id=45857425) - [The accidental click that changed everything: the Apify origin story](https://blog.apify.com/apify-origin-story/)
 * [2025-11-05, 09:39:58](https://news.ycombinator.com/item?id=45821154) - [Incus-OS: Immutable Linux OS to run Incus as a hypervisor](https://linuxcontainers.org/incus-os/)
 * [2025-11-03, 10:40:11](https://news.ycombinator.com/item?id=45797689) - [Awk Technical Notes (2023)](https://maximullaris.com/awk_tech_notes.html)
