@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-11-14, 08:06:41](https://news.ycombinator.com/item?id=45924872) - [Show HN: Pegma, the free and open-source version of the classic Peg solitaire](https://pegma.vercel.app)
 * [2025-11-14, 07:10:10](https://news.ycombinator.com/item?id=45924619) - [RegreSQL: Regression Testing for PostgreSQL Queries](https://boringsql.com/posts/regresql-testing-queries/)
 * [2025-11-14, 06:57:22](https://news.ycombinator.com/item?id=45924569) - [Multi-User Dungeon (MUD)](https://en.wikipedia.org/wiki/Multi-user_dungeon)
 * [2025-11-14, 06:13:09](https://news.ycombinator.com/item?id=45924345) - [Hooked on Sonics: Experimenting with Sound in 19th-Century Popular Science](https://publicdomainreview.org/essay/science-of-sound/)
@@ -19,9 +20,9 @@
 * [2025-11-13, 15:41:26](https://news.ycombinator.com/item?id=45916196) - [Zed is our office](https://zed.dev/blog/zed-is-our-office)
 * [2025-11-13, 15:29:38](https://news.ycombinator.com/item?id=45916037) - [SIMA 2: An agent that plays, reasons, and learns with you in virtual 3D worlds](https://deepmind.google/blog/sima-2-an-agent-that-plays-reasons-and-learns-with-you-in-virtual-3d-worlds/)
 * [2025-11-13, 13:38:47](https://news.ycombinator.com/item?id=45914761) - [Blender Lab](https://www.blender.org/news/introducing-blender-lab/)
-* [2025-11-13, 09:23:30](https://news.ycombinator.com/item?id=45912698) - [Checkout.com hacked, refuses ransom payment, donates to security labs](https://www.checkout.com/blog/protecting-our-merchants-standing-up-to-extortion)
 * [2025-11-13, 00:33:25](https://news.ycombinator.com/item?id=45908938) - [Android developer verification: Early access starts](https://android-developers.googleblog.com/2025/11/android-developer-verification-early.html)
 * [2025-11-12, 17:59:43](https://news.ycombinator.com/item?id=45903404) - [Steam Machine](https://store.steampowered.com/sale/steammachine)
+* [2025-11-10, 17:08:20](https://news.ycombinator.com/item?id=45878067) - [The Floating Head Phenomenon](https://michaelestrin.substack.com/p/the-floating-head-phenomenon)
 * [2025-11-10, 05:54:45](https://news.ycombinator.com/item?id=45872864) - ['The Dream Factory' Review: A Building and Its Bard](https://www.wsj.com/arts-culture/books/the-dream-factory-review-a-building-and-its-bard-6d79ce43)
 * [2025-11-09, 12:03:15](https://news.ycombinator.com/item?id=45864954) - [Think in math, write in code (2019)](https://www.jmeiners.com/think-in-math/)
 * [2025-11-06, 20:13:35](https://news.ycombinator.com/item?id=45839822) - [Itiner-E – The Digital Atlas of Ancient Roads](https://itiner-e.org/)
@@ -29,7 +30,6 @@
 * [2025-11-05, 17:49:31](https://news.ycombinator.com/item?id=45825722) - [A Brutal Look at Balanced Parentheses, Computing Machines, and Pushdown Automata](https://raganwald.com/2019/02/14/i-love-programming-and-programmers.html)
 * [2025-11-04, 22:23:36](https://news.ycombinator.com/item?id=45816542) - [Sarah Mason, inventor of the continuity script, first script supervisor](https://wfpp.columbia.edu/pioneer/ccp-sarah-y-mason/)
 * [2025-11-04, 19:27:55](https://news.ycombinator.com/item?id=45814939) - [Why do we need dithering?](https://typefully.com/DanHollick/why-do-we-need-dithering-Ut7oD4k)
-* [2025-11-03, 13:51:21](https://news.ycombinator.com/item?id=45798934) - [I Built a One File Edge Probe to Tell Me When Time Is Lying](https://physical-ai.ghost.io/a-one-file-pwa-to-tell-you-when-time-is-lying/)
 
 ## [Archives](archives/index.md)
 
