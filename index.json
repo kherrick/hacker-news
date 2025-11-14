@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-11-14, 09:53:13",
+      "https://news.ycombinator.com/item?id=45925431"
+    ],
+    [
+      "V8 Garbage Collector",
+      "https://wingolog.org/archives/2025/11/13/the-last-couple-years-in-v8s-garbage-collector"
+    ]
+  ],
+  [
+    [
       "2025-11-14, 08:06:41",
       "https://news.ycombinator.com/item?id=45924872"
     ],
@@ -131,16 +141,6 @@
   ],
   [
     [
-      "2025-11-13, 18:10:29",
-      "https://news.ycombinator.com/item?id=45918331"
-    ],
-    [
-      "The Eggstraordinary Fortress",
-      "https://ahmed1011001.github.io/Notes/stories/eggstrodinary.html"
-    ]
-  ],
-  [
-    [
       "2025-11-13, 17:39:13",
       "https://news.ycombinator.com/item?id=45917875"
     ],
@@ -207,16 +207,6 @@
     [
       "Steam Machine",
       "https://store.steampowered.com/sale/steammachine"
-    ]
-  ],
-  [
-    [
-      "2025-11-10, 17:08:20",
-      "https://news.ycombinator.com/item?id=45878067"
-    ],
-    [
-      "The Floating Head Phenomenon",
-      "https://michaelestrin.substack.com/p/the-floating-head-phenomenon"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Why do we need dithering?",
       "https://typefully.com/DanHollick/why-do-we-need-dithering-Ut7oD4k"
+    ]
+  ],
+  [
+    [
+      "2025-11-04, 12:23:01",
+      "https://news.ycombinator.com/item?id=45810086"
+    ],
+    [
+      "Show HN: An easy-to-use online curve fitting tool",
+      "https://byx2000.github.io/curve-fit/"
     ]
   ]
 ]
