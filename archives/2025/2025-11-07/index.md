@@ -39,6 +39,7 @@
 * [2025-11-07, 15:34:33](https://news.ycombinator.com/item?id=45847465) - [A.I. and Social Media Contribute to 'Brain Rot'](https://www.nytimes.com/2025/11/06/technology/personaltech/ai-social-media-brain-rot.html)
 * [2025-11-07, 14:54:53](https://news.ycombinator.com/item?id=45847033) - [Show HN: XML-Lib – An over-engineered XML workflow with guardrails and proofs](https://github.com/farukalpay/xml-lib)
 * [2025-11-07, 14:31:07](https://news.ycombinator.com/item?id=45846769) - [Claude Is Down](https://status.claude.com/incidents/tgtw1sqs9ths)
+* [2025-11-07, 14:07:15](https://news.ycombinator.com/item?id=45846534) - [Writerdeck.org](http://www.writerdeck.org/)
 * [2025-11-07, 14:06:38](https://news.ycombinator.com/item?id=45846525) - [High speed X-ray video: jumping beans, wind-up toys and more](https://www.youtube.com/watch?v=xdpDd7dyU00)
 * [2025-11-07, 14:05:49](https://news.ycombinator.com/item?id=45846517) - [I Love OCaml](https://mccd.space/posts/ocaml-the-worlds-best/)
 * [2025-11-07, 13:52:39](https://news.ycombinator.com/item?id=45846360) - [I'm Making a Small RPG and I Need Feeback Regarding Performance](https://jslegenddev.substack.com/p/im-making-a-small-rpg-and-i-need)
