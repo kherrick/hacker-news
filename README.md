@@ -29,7 +29,7 @@
 * [2025-11-09, 12:03:15](https://news.ycombinator.com/item?id=45864954) - [Think in math, write in code (2019)](https://www.jmeiners.com/think-in-math/)
 * [2025-11-07, 14:07:15](https://news.ycombinator.com/item?id=45846534) - [Writerdeck.org](http://www.writerdeck.org/)
 * [2025-11-05, 05:33:00](https://news.ycombinator.com/item?id=45819556) - [A Common Semiconductor Just Became a Superconductor](https://www.sciencedaily.com/releases/2025/10/251030075105.htm)
-* [2025-11-04, 19:27:55](https://news.ycombinator.com/item?id=45814939) - [Why do we need dithering?](https://typefully.com/DanHollick/why-do-we-need-dithering-Ut7oD4k)
+* [2025-11-04, 12:23:01](https://news.ycombinator.com/item?id=45810086) - [Show HN: An easy-to-use online curve fitting tool](https://byx2000.github.io/curve-fit/)
 
 ## [Archives](archives/index.md)
 
