@@ -58,6 +58,7 @@
 * [2025-11-10, 07:39:36](https://news.ycombinator.com/item?id=45873434) - [XSLT RIP](https://xslt.rip/)
 * [2025-11-10, 06:44:40](https://news.ycombinator.com/item?id=45873113) - [Realtime BART Arrival Display](https://filbot.com/real-time-bart-display/)
 * [2025-11-10, 06:29:54](https://news.ycombinator.com/item?id=45873037) - [Beets: The music geek's media organizer](https://beets.io/)
+* [2025-11-10, 05:54:45](https://news.ycombinator.com/item?id=45872864) - ['The Dream Factory' Review: A Building and Its Bard](https://www.wsj.com/arts-culture/books/the-dream-factory-review-a-building-and-its-bard-6d79ce43)
 * [2025-11-10, 02:31:36](https://news.ycombinator.com/item?id=45871688) - [Error ABI](https://matklad.github.io/2025/11/09/error-ABI.html)
 * [2025-11-10, 02:10:59](https://news.ycombinator.com/item?id=45871531) - [Open source has a growing problem with LLM generated issues](https://github.com/opencontainers/runc/issues/4990)
 * [2025-11-10, 01:23:58](https://news.ycombinator.com/item?id=45871141) - [How the UK lost its shipbuilding industry](https://www.construction-physics.com/p/how-the-uk-lost-its-shipbuilding)
