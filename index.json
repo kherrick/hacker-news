@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-11-14, 16:17:26",
+      "https://news.ycombinator.com/item?id=45928321"
+    ],
+    [
+      "The American Tradition of Trying to Address Anxiety with Parks",
+      "https://time.com/7288956/american-tradition-anxiety-parks/"
+    ]
+  ],
+  [
+    [
       "2025-11-14, 15:04:22",
       "https://news.ycombinator.com/item?id=45927435"
     ],
@@ -11,12 +21,12 @@
   ],
   [
     [
-      "2025-11-14, 14:32:11",
-      "https://news.ycombinator.com/item?id=45927035"
+      "2025-11-14, 14:46:27",
+      "https://news.ycombinator.com/item?id=45927210"
     ],
     [
-      "Wealthy foreigners 'paid for chance to shoot civilians in Sarajevo'",
-      "https://www.thetimes.com/world/europe/article/wealthy-foreigners-paid-for-chance-to-shoot-civilians-in-sarajevo-zrljbb27z"
+      "Linear Algebra Explains Why Some Words Are Effectively Untranslatable",
+      "https://aethermug.com/posts/linear-algebra-explains-why-some-words-are-effectively-untranslatable"
     ]
   ],
   [
@@ -51,16 +61,6 @@
   ],
   [
     [
-      "2025-11-14, 13:12:11",
-      "https://news.ycombinator.com/item?id=45926395"
-    ],
-    [
-      "Don't turn your brain off",
-      "https://computingeducationthings.substack.com/p/22-dont-turn-your-brain-off"
-    ]
-  ],
-  [
-    [
       "2025-11-14, 13:10:19",
       "https://news.ycombinator.com/item?id=45926383"
     ],
@@ -75,7 +75,7 @@
       "https://news.ycombinator.com/item?id=45926263"
     ],
     [
-      "EDE: Small and Fast Desktop Environment",
+      "EDE: Small and Fast Desktop Environment (2014)",
       "https://edeproject.org/"
     ]
   ],
@@ -87,16 +87,6 @@
     [
       "Winamp for OS/X",
       "https://github.com/mgreenwood1001/winamp"
-    ]
-  ],
-  [
-    [
-      "2025-11-14, 12:23:53",
-      "https://news.ycombinator.com/item?id=45926105"
-    ],
-    [
-      "Arrival Radar",
-      "https://entropicthoughts.com/arrival-radar"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "A Common Semiconductor Just Became a Superconductor",
       "https://www.sciencedaily.com/releases/2025/10/251030075105.htm"
+    ]
+  ],
+  [
+    [
+      "2025-11-03, 13:07:23",
+      "https://news.ycombinator.com/item?id=45798586"
+    ],
+    [
+      "Cgp-serde: A modular serialization library for Serde powered by CGP",
+      "https://contextgeneric.dev/blog/cgp-serde-release/"
     ]
   ]
 ]
