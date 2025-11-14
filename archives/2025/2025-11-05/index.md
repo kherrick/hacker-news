@@ -28,6 +28,7 @@
 * [2025-11-05, 17:50:45](https://news.ycombinator.com/item?id=45825733) - [Show HN: I scraped 3B Goodreads reviews to train a better recommendation model](https://book.sv)
 * [2025-11-05, 17:49:31](https://news.ycombinator.com/item?id=45825722) - [A Brutal Look at Balanced Parentheses, Computing Machines, and Pushdown Automata](https://raganwald.com/2019/02/14/i-love-programming-and-programmers.html)
 * [2025-11-05, 16:49:58](https://news.ycombinator.com/item?id=45825040) - [Switching from GPG to Age](https://luke.hsiao.dev/blog/gpg-to-age/)
+* [2025-11-05, 16:46:15](https://news.ycombinator.com/item?id=45825006) - [Show HN: Cj–tiny no-deps JIT in C for x86-64 and ARM64](https://github.com/hellerve-pl-experiments/cj)
 * [2025-11-05, 16:32:43](https://news.ycombinator.com/item?id=45824864) - [Why aren't smart people happier?](https://www.theseedsofscience.pub/p/why-arent-smart-people-happier)
 * [2025-11-05, 16:18:01](https://news.ycombinator.com/item?id=45824658) - [Norway reviews cybersecurity after remote-access feature found in Chinese buses](https://scandasia.com/norway-reviews-cybersecurity-after-hidden-remote-access-feature-found-in-chinese-buses/)
 * [2025-11-05, 16:02:57](https://news.ycombinator.com/item?id=45824417) - [We Love Horror Stories](https://nautil.us/why-we-love-horror-stories-1245342/)
