@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-11-14, 17:08:15",
+      "https://news.ycombinator.com/item?id=45928912"
+    ],
+    [
+      "You misunderstand what it means to be poor",
+      "https://blog.ctms.me/posts/2025-11-14-being-poor-or-being-broke/"
+    ]
+  ],
+  [
+    [
+      "2025-11-14, 17:04:49",
+      "https://news.ycombinator.com/item?id=45928873"
+    ],
+    [
+      "Moving Back to a Tiling WM – XMonad",
+      "https://wssite.vercel.app/blog/moving-back-to-a-tiling-wm-xmonad"
+    ]
+  ],
+  [
+    [
       "2025-11-14, 17:00:19",
       "https://news.ycombinator.com/item?id=45928822"
     ],
@@ -47,6 +67,16 @@
     [
       "Linear Algebra Explains Why Some Words Are Effectively Untranslatable",
       "https://aethermug.com/posts/linear-algebra-explains-why-some-words-are-effectively-untranslatable"
+    ]
+  ],
+  [
+    [
+      "2025-11-14, 14:32:49",
+      "https://news.ycombinator.com/item?id=45927042"
+    ],
+    [
+      "What Comes After Science?",
+      "https://www.science.org/doi/10.1126/science.aec7650"
     ]
   ],
   [
@@ -161,42 +191,12 @@
   ],
   [
     [
-      "2025-11-14, 01:30:50",
-      "https://news.ycombinator.com/item?id=45922850"
-    ],
-    [
-      "How to Get a North Korea / Antarctica VPS",
-      "https://blog.lyc8503.net/en/post/asn-5-worldwide-servers/"
-    ]
-  ],
-  [
-    [
-      "2025-11-14, 00:18:23",
-      "https://news.ycombinator.com/item?id=45922420"
-    ],
-    [
-      "What Happened with the CIA and The Paris Review?",
-      "https://www.theparisreview.org/blog/2025/11/11/what-really-happened-with-the-cia-and-the-paris-review-a-conversation-with-lance-richardson/"
-    ]
-  ],
-  [
-    [
       "2025-11-13, 21:33:26",
       "https://news.ycombinator.com/item?id=45920881"
     ],
     [
       "650GB of Data (Delta Lake on S3). Polars vs. DuckDB vs. Daft vs. Spark",
       "https://dataengineeringcentral.substack.com/p/650gb-of-data-delta-lake-on-s3-polars"
-    ]
-  ],
-  [
-    [
-      "2025-11-13, 21:18:14",
-      "https://news.ycombinator.com/item?id=45920677"
-    ],
-    [
-      "OpenMANET Wi-Fi HaLow open-source project for Raspberry Pi–based MANET radios",
-      "https://openmanet.net/"
     ]
   ],
   [
