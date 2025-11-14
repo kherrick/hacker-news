@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-11-14, 07:10:10",
+      "https://news.ycombinator.com/item?id=45924619"
+    ],
+    [
+      "RegreSQL: Regression Testing for PostgreSQL Queries",
+      "https://boringsql.com/posts/regresql-testing-queries/"
+    ]
+  ],
+  [
+    [
       "2025-11-14, 06:13:09",
       "https://news.ycombinator.com/item?id=45924345"
     ],
@@ -167,16 +177,6 @@
     [
       "SIMA 2: An agent that plays, reasons, and learns with you in virtual 3D worlds",
       "https://deepmind.google/blog/sima-2-an-agent-that-plays-reasons-and-learns-with-you-in-virtual-3d-worlds/"
-    ]
-  ],
-  [
-    [
-      "2025-11-13, 13:43:50",
-      "https://news.ycombinator.com/item?id=45914815"
-    ],
-    [
-      "Heartbeats in Distributed Systems",
-      "https://arpitbhayani.me/blogs/heartbeats-in-distributed-systems/"
     ]
   ],
   [
