@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-11-14, 19:07:45](https://news.ycombinator.com/item?id=45930659) - [Show HN: Chirp – Local Windows dictation with ParakeetV3 no executable required](https://github.com/Whamp/chirp)
 * [2025-11-14, 19:04:23](https://news.ycombinator.com/item?id=45930598) - [Structured Outputs on the Claude Developer Platform (API)](https://www.claude.com/blog/structured-outputs-on-the-claude-developer-platform)
 * [2025-11-14, 18:42:55](https://news.ycombinator.com/item?id=45930284) - [Minisforum Stuffs Entire Arm Homelab in the MS-R1](https://www.jeffgeerling.com/blog/2025/minisforum-stuffs-entire-arm-homelab-ms-r1)
 * [2025-11-14, 18:35:22](https://news.ycombinator.com/item?id=45930151) - [AI World Clocks](https://clocks.brianmoore.com/)
@@ -14,7 +15,6 @@
 * [2025-11-14, 16:51:03](https://news.ycombinator.com/item?id=45928709) - [Manganese is Lyme disease's double-edge sword](https://news.northwestern.edu/stories/2025/11/manganese-is-lyme-diseases-double-edge-sword)
 * [2025-11-14, 16:42:12](https://news.ycombinator.com/item?id=45928620) - [US Tech Market Treemap](https://caplocus.com/)
 * [2025-11-14, 16:31:26](https://news.ycombinator.com/item?id=45928492) - ['No One Lives Forever' Turns 25 and You Still Can't Buy It Legitimately](https://www.techdirt.com/2025/11/13/no-one-lives-forever-turns-25-you-still-cant-buy-it-legitimately/)
-* [2025-11-14, 15:04:22](https://news.ycombinator.com/item?id=45927435) - [Oracle hit hard in Wall Street's tech sell-off over its AI bet](https://www.ft.com/content/583e9391-bdd0-433e-91e0-b1b93038d51e)
 * [2025-11-14, 14:46:27](https://news.ycombinator.com/item?id=45927210) - [Linear Algebra Explains Why Some Words Are Effectively Untranslatable](https://aethermug.com/posts/linear-algebra-explains-why-some-words-are-effectively-untranslatable)
 * [2025-11-14, 14:05:00](https://news.ycombinator.com/item?id=45926779) - [I think nobody wants AI in Firefox, Mozilla](https://manualdousuario.net/en/mozilla-firefox-window-ai/)
 * [2025-11-14, 13:21:24](https://news.ycombinator.com/item?id=45926469) - [AGI fantasy is a blocker to actual engineering](https://www.tomwphillips.co.uk/2025/11/agi-fantasy-is-a-blocker-to-actual-engineering/)
