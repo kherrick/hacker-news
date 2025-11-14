@@ -4,9 +4,13 @@
 
 ### [Archives](../../index.md) for [2025-11-14](index.md)
 
+* [2025-11-14, 17:35:17](https://news.ycombinator.com/item?id=45929247) - [Meeting notes between Forgejo and the Dutch government via Git commits](https://codeberg.org/forgejo/sustainability/pulls/137/files)
+* [2025-11-14, 17:19:08](https://news.ycombinator.com/item?id=45929052) - [Germany to Ban Huawei from Future 6G Network in Sovereignty Push](https://www.bloomberg.com/news/articles/2025-11-13/germany-to-ban-huawei-from-future-6g-network-in-sovereignty-push)
 * [2025-11-14, 17:08:15](https://news.ycombinator.com/item?id=45928912) - [You misunderstand what it means to be poor](https://blog.ctms.me/posts/2025-11-14-being-poor-or-being-broke/)
 * [2025-11-14, 17:04:49](https://news.ycombinator.com/item?id=45928873) - [Moving Back to a Tiling WM – XMonad](https://wssite.vercel.app/blog/moving-back-to-a-tiling-wm-xmonad)
 * [2025-11-14, 17:00:19](https://news.ycombinator.com/item?id=45928822) - [RetailReady (YC W24) Is Hiring](https://www.ycombinator.com/companies/retailready/jobs/kGHAith-support-engineer)
+* [2025-11-14, 16:51:03](https://news.ycombinator.com/item?id=45928709) - [Manganese is Lyme disease's double-edge sword](https://news.northwestern.edu/stories/2025/11/manganese-is-lyme-diseases-double-edge-sword)
+* [2025-11-14, 16:42:12](https://news.ycombinator.com/item?id=45928620) - [US Tech Market Treemap](https://caplocus.com/)
 * [2025-11-14, 16:31:26](https://news.ycombinator.com/item?id=45928492) - ['No One Lives Forever' Turns 25 and You Still Can't Buy It Legitimately](https://www.techdirt.com/2025/11/13/no-one-lives-forever-turns-25-you-still-cant-buy-it-legitimately/)
 * [2025-11-14, 16:17:26](https://news.ycombinator.com/item?id=45928321) - [The American Tradition of Trying to Address Anxiety with Parks](https://time.com/7288956/american-tradition-anxiety-parks/)
 * [2025-11-14, 15:04:22](https://news.ycombinator.com/item?id=45927435) - [Oracle hit hard in Wall Street's tech sell-off over its AI bet](https://www.ft.com/content/583e9391-bdd0-433e-91e0-b1b93038d51e)
