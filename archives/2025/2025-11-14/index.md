@@ -14,6 +14,7 @@
 * [2025-11-14, 12:23:53](https://news.ycombinator.com/item?id=45926105) - [Arrival Radar](https://entropicthoughts.com/arrival-radar)
 * [2025-11-14, 12:13:06](https://news.ycombinator.com/item?id=45926057) - [LiteAI – OpenAI, Anthropic, and Google LLMs at a discount](https://www.liteapi.ai/)
 * [2025-11-14, 12:09:59](https://news.ycombinator.com/item?id=45926037) - [Magit manuals are available online again](https://github.com/magit/magit/issues/5472)
+* [2025-11-14, 12:00:57](https://news.ycombinator.com/item?id=45925996) - [Show HN: European Tech News in 6 Languages](https://europedigital.cloud/en/news)
 * [2025-11-14, 11:51:28](https://news.ycombinator.com/item?id=45925950) - [Gnome 50 Ends the X11 Era After Decades](https://linuxiac.com/gnome-50-ends-the-x11-era-after-decades/)
 * [2025-11-14, 11:41:47](https://news.ycombinator.com/item?id=45925890) - [Show HN: Encore – Type-safe back end framework that generates infra from code](https://github.com/encoredev/encore)
 * [2025-11-14, 11:06:29](https://news.ycombinator.com/item?id=45925755) - [A Spectral-Geometric Proof of the Riemann Hypothesis](https://zenodo.org/records/17508340)
