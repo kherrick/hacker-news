@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-11-14, 23:39:36",
+      "https://news.ycombinator.com/item?id=45933497"
+    ],
+    [
+      "No Leak, No Problem – Bypassing ASLR with a ROP Chain to Gain RCE",
+      "https://modzero.com/en/blog/no-leak-no-problem/"
+    ]
+  ],
+  [
+    [
       "2025-11-14, 22:33:15",
       "https://news.ycombinator.com/item?id=45932962"
     ],
@@ -27,16 +37,6 @@
     [
       "Mentra (YC W25) Is Hiring: Head of Growth to Make Smart Glasses Mainstream",
       "https://www.ycombinator.com/companies/mentra/jobs/2YbQCRw-make-smart-glasses-mainstream-head-of-growth"
-    ]
-  ],
-  [
-    [
-      "2025-11-14, 20:06:31",
-      "https://news.ycombinator.com/item?id=45931552"
-    ],
-    [
-      "Houston, We Have a Problem: Anthropic Rides an Artificial Wave – BIML",
-      "https://berryvilleiml.com/2025/11/14/houston-we-have-a-problem-anthropic-rides-an-artificial-wave/"
     ]
   ],
   [
@@ -127,16 +127,6 @@
     [
       "Bitchat for Gaza – messaging without internet",
       "https://updates.techforpalestine.org/bitchat-for-gaza-messaging-without-internet/"
-    ]
-  ],
-  [
-    [
-      "2025-11-14, 17:35:17",
-      "https://news.ycombinator.com/item?id=45929247"
-    ],
-    [
-      "Meeting notes between Forgejo and the Dutch government via Git commits",
-      "https://codeberg.org/forgejo/sustainability/pulls/137/files"
     ]
   ],
   [
@@ -261,12 +251,22 @@
   ],
   [
     [
-      "2025-11-05, 16:46:15",
-      "https://news.ycombinator.com/item?id=45825006"
+      "2025-11-09, 15:46:29",
+      "https://news.ycombinator.com/item?id=45866366"
     ],
     [
-      "Show HN: Cj–tiny no-deps JIT in C for x86-64 and ARM64",
-      "https://github.com/hellerve-pl-experiments/cj"
+      "Operating Margins",
+      "https://fi-le.net/margin/"
+    ]
+  ],
+  [
+    [
+      "2025-11-05, 10:25:14",
+      "https://news.ycombinator.com/item?id=45821402"
+    ],
+    [
+      "GEN-0 / Embodied Foundation Models That Scale with Physical Interaction",
+      "https://generalistai.com/blog/nov-04-2025-GEN-0"
     ]
   ],
   [
