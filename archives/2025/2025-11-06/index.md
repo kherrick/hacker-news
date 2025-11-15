@@ -56,6 +56,7 @@
 * [2025-11-06, 10:47:51](https://news.ycombinator.com/item?id=45833734) - [80year old grandmother becomes oldest woman to finish Ironman World Championship](https://bigislandnow.com/2025/10/19/80-year-old-grandmother-becomes-oldest-woman-to-finish-ironman-world-championship-in-kona/)
 * [2025-11-06, 10:12:04](https://news.ycombinator.com/item?id=45833496) - [The trust collapse: Infinite AI content is awful](https://arnon.dk/the-trust-collapse-infinite-ai-content-is-awful/)
 * [2025-11-06, 09:24:42](https://news.ycombinator.com/item?id=45833162) - [Mathematical Exploration and Discovery at Scale](https://terrytao.wordpress.com/2025/11/05/mathematical-exploration-and-discovery-at-scale/)
+* [2025-11-06, 09:04:00](https://news.ycombinator.com/item?id=45833047) - [Random Font – a typographic experiment exploring randomness [pdf]](https://www.ilcovile.it/scritti/COVILE_834_Reprint_Random_Font.pdf)
 * [2025-11-06, 08:49:06](https://news.ycombinator.com/item?id=45832954) - [Erlang Meets Idris: Cure Programming Language](https://cure-lang.org/)
 * [2025-11-06, 08:23:46](https://news.ycombinator.com/item?id=45832803) - [What the hell have you built](https://wthhyb.sacha.house/)
 * [2025-11-06, 07:37:25](https://news.ycombinator.com/item?id=45832515) - [From Swift to Mojo and High-Performance AI Engineering with Chris Lattner[video]](https://www.youtube.com/watch?v=Fxp3131i1yE)

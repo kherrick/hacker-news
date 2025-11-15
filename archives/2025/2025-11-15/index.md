@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-11-15](index.md)
 
+* [2025-11-15, 06:37:50](https://news.ycombinator.com/item?id=45935503) - [The Internet Is Cool. Thank You, TCP](https://cefboud.com/posts/tcp-deep-dive-internals/)
 * [2025-11-15, 06:01:29](https://news.ycombinator.com/item?id=45935398) - [Ohm Editor](https://ohmjs.org/editor/)
 * [2025-11-15, 05:44:43](https://news.ycombinator.com/item?id=45935342) - [So, you want to design your own language?](https://cs.lmu.edu/~ray/notes/languagedesignnotes/)
 * [2025-11-15, 03:59:35](https://news.ycombinator.com/item?id=45934950) - [Scientists reverse kidney damage in mice, hope for humans next](https://www.sciencedaily.com/releases/2025/11/251114094525.htm)
