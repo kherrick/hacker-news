@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-11-15, 15:19:20",
+      "https://news.ycombinator.com/item?id=45937989"
+    ],
+    [
+      "Linux on the Fujitsu Lifebook U729",
+      "https://borretti.me/article/linux-on-the-fujitsu-lifebook-u729"
+    ]
+  ],
+  [
+    [
       "2025-11-15, 13:58:09",
       "https://news.ycombinator.com/item?id=45937518"
     ],
@@ -87,16 +97,6 @@
     [
       "So, you want to design your own language? (2017)",
       "https://cs.lmu.edu/~ray/notes/languagedesignnotes/"
-    ]
-  ],
-  [
-    [
-      "2025-11-14, 23:39:36",
-      "https://news.ycombinator.com/item?id=45933497"
-    ],
-    [
-      "No Leak, No Problem – Bypassing ASLR with a ROP Chain to Gain RCE",
-      "https://modzero.com/en/blog/no-leak-no-problem/"
     ]
   ],
   [
