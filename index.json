@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-11-15, 19:29:32",
+      "https://news.ycombinator.com/item?id=45939938"
+    ],
+    [
+      "Archimedes – A Python toolkit for hardware engineering",
+      "https://pinetreelabs.github.io/archimedes/blog/2025/introduction.html"
+    ]
+  ],
+  [
+    [
       "2025-11-15, 18:55:22",
       "https://news.ycombinator.com/item?id=45939678"
     ],
@@ -201,16 +211,6 @@
   ],
   [
     [
-      "2025-11-14, 02:27:20",
-      "https://news.ycombinator.com/item?id=45923188"
-    ],
-    [
-      "HipKittens: Fast and furious AMD kernels",
-      "https://hazyresearch.stanford.edu/blog/2025-11-09-hk"
-    ]
-  ],
-  [
-    [
       "2025-11-11, 13:52:15",
       "https://news.ycombinator.com/item?id=45887262"
     ],
@@ -227,16 +227,6 @@
     [
       "The Nature of the Beast: Charles Le Brun's Human-Animal Hybrids (1806)",
       "https://publicdomainreview.org/collection/le-brun-human-animal-hybrids/"
-    ]
-  ],
-  [
-    [
-      "2025-11-07, 12:42:04",
-      "https://news.ycombinator.com/item?id=45845782"
-    ],
-    [
-      "Löb and Möb: Loops in Haskell (2013)",
-      "https://github.com/quchen/articles/blob/master/loeb-moeb.md"
     ]
   ],
   [
@@ -277,6 +267,16 @@
     [
       "An Antivenom Cocktail, Made by a Llama",
       "https://www.asimov.press/p/broad-antivenom"
+    ]
+  ],
+  [
+    [
+      "2025-11-05, 10:11:43",
+      "https://news.ycombinator.com/item?id=45821328"
+    ],
+    [
+      "JVM exceptions are weird: a decompiler perspective",
+      "https://purplesyringa.moe/blog/jvm-exceptions-are-weird-a-decompiler-perspective/"
     ]
   ],
   [
