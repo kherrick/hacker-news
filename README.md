@@ -14,7 +14,6 @@
 * [2025-11-14, 19:04:23](https://news.ycombinator.com/item?id=45930598) - [Structured outputs on the Claude Developer Platform](https://www.claude.com/blog/structured-outputs-on-the-claude-developer-platform)
 * [2025-11-14, 18:35:22](https://news.ycombinator.com/item?id=45930151) - [AI World Clocks](https://clocks.brianmoore.com/)
 * [2025-11-14, 18:20:08](https://news.ycombinator.com/item?id=45929921) - [A race condition in Aurora RDS](https://hightouch.com/blog/uncovering-a-race-condition-in-aurora-rds)
-* [2025-11-14, 17:54:07](https://news.ycombinator.com/item?id=45929511) - [The disguised return of EU Chat Control](https://reclaimthenet.org/the-disguised-return-of-the-eus-private-message-scanning-plot)
 * [2025-11-14, 16:51:03](https://news.ycombinator.com/item?id=45928709) - [Manganese is Lyme disease's double-edge sword](https://news.northwestern.edu/stories/2025/11/manganese-is-lyme-diseases-double-edge-sword)
 * [2025-11-14, 16:31:26](https://news.ycombinator.com/item?id=45928492) - ['No One Lives Forever' turns 25 and you still can't buy it legitimately](https://www.techdirt.com/2025/11/13/no-one-lives-forever-turns-25-you-still-cant-buy-it-legitimately/)
 * [2025-11-14, 12:44:07](https://news.ycombinator.com/item?id=45926224) - [Winamp clone in Swift for macOS](https://github.com/mgreenwood1001/winamp)
@@ -29,6 +28,7 @@
 * [2025-11-05, 10:25:14](https://news.ycombinator.com/item?id=45821402) - [GEN-0 / Embodied Foundation Models That Scale with Physical Interaction](https://generalistai.com/blog/nov-04-2025-GEN-0)
 * [2025-11-04, 16:58:00](https://news.ycombinator.com/item?id=45813186) - [Ucs-Detect](https://ucs-detect.readthedocs.io/intro.html)
 * [2025-11-04, 12:02:24](https://news.ycombinator.com/item?id=45809972) - [Async Mutexes](https://matklad.github.io/2025/11/04/on-async-mutexes.html)
+* [2025-11-04, 11:22:24](https://news.ycombinator.com/item?id=45809722) - [Continuous Architecture: A decade of designing for change](https://continuousarchitecture.com/2025/11/04/a-decade-of-ca/)
 * [2025-11-04, 07:41:58](https://news.ycombinator.com/item?id=45808407) - [Unofficial Microsoft Teams client for Linux](https://github.com/IsmaelMartinez/teams-for-linux)
 
 ## [Archives](archives/index.md)
