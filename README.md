@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-11-15, 19:29:32](https://news.ycombinator.com/item?id=45939938) - [Archimedes – A Python toolkit for hardware engineering](https://pinetreelabs.github.io/archimedes/blog/2025/introduction.html)
 * [2025-11-15, 18:55:22](https://news.ycombinator.com/item?id=45939678) - [AWS Deprecates Two Dozen Services (Most of Which You've Never Heard Of)](https://www.lastweekinaws.com/blog/aws-deprecates-two-dozen-services-most-of-which-youve-never-heard-of/)
 * [2025-11-15, 18:44:05](https://news.ycombinator.com/item?id=45939569) - [The computer poetry of J. M. Coetzee's early programming career](https://sites.utexas.edu/ransomcentermagazine/2017/06/28/the-computer-poetry-of-j-m-coetzees-early-programming-career/)
 * [2025-11-15, 18:40:55](https://news.ycombinator.com/item?id=45939550) - [Transgenerational Epigenetic Inheritance: the story of learned avoidance](https://elifesciences.org/articles/109427)
@@ -20,14 +21,13 @@
 * [2025-11-14, 22:15:04](https://news.ycombinator.com/item?id=45932798) - [SSL Configuration Generator](https://ssl-config.mozilla.org/)
 * [2025-11-14, 16:31:26](https://news.ycombinator.com/item?id=45928492) - ['No One Lives Forever' turns 25 and you still can't buy it legitimately](https://www.techdirt.com/2025/11/13/no-one-lives-forever-turns-25-you-still-cant-buy-it-legitimately/)
 * [2025-11-14, 06:39:13](https://news.ycombinator.com/item?id=45924483) - [Lawmakers want to ban VPNs](https://www.eff.org/deeplinks/2025/11/lawmakers-want-ban-vpns-and-they-have-no-idea-what-theyre-doing)
-* [2025-11-14, 02:27:20](https://news.ycombinator.com/item?id=45923188) - [HipKittens: Fast and furious AMD kernels](https://hazyresearch.stanford.edu/blog/2025-11-09-hk)
 * [2025-11-11, 13:52:15](https://news.ycombinator.com/item?id=45887262) - [A new Google model is nearly perfect on automated handwriting recognition](https://generativehistory.substack.com/p/has-google-quietly-solved-two-of)
 * [2025-11-10, 04:46:59](https://news.ycombinator.com/item?id=45872519) - [The Nature of the Beast: Charles Le Brun's Human-Animal Hybrids (1806)](https://publicdomainreview.org/collection/le-brun-human-animal-hybrids/)
-* [2025-11-07, 12:42:04](https://news.ycombinator.com/item?id=45845782) - [Löb and Möb: Loops in Haskell (2013)](https://github.com/quchen/articles/blob/master/loeb-moeb.md)
 * [2025-11-06, 20:14:24](https://news.ycombinator.com/item?id=45839834) - [Strap Rail](https://www.construction-physics.com/p/strap-rail)
 * [2025-11-06, 06:15:43](https://news.ycombinator.com/item?id=45832051) - [Boa: A standard-conforming embeddable JavaScript engine written in Rust](https://github.com/boa-dev/boa)
 * [2025-11-05, 16:59:08](https://news.ycombinator.com/item?id=45825121) - [Streaming AI agent desktops with gaming protocols](https://blog.helix.ml/p/technical-deep-dive-on-streaming)
 * [2025-11-05, 14:51:31](https://news.ycombinator.com/item?id=45823431) - [An Antivenom Cocktail, Made by a Llama](https://www.asimov.press/p/broad-antivenom)
+* [2025-11-05, 10:11:43](https://news.ycombinator.com/item?id=45821328) - [JVM exceptions are weird: a decompiler perspective](https://purplesyringa.moe/blog/jvm-exceptions-are-weird-a-decompiler-perspective/)
 * [2025-11-04, 21:41:38](https://news.ycombinator.com/item?id=45816208) - [History and use of the Estes AstroCam 110](https://www.dembrudders.com/history-and-use-of-the-estes-astrocam-110.html)
 * [2025-11-04, 07:41:58](https://news.ycombinator.com/item?id=45808407) - [Unofficial Microsoft Teams client for Linux](https://github.com/IsmaelMartinez/teams-for-linux)
 
