@@ -48,6 +48,7 @@
 * [2025-11-07, 13:09:07](https://news.ycombinator.com/item?id=45845948) - [Is Software the UFOlogy of Engineering Disciplines?](https://codemanship.wordpress.com/2025/11/07/is-software-the-ufology-of-engineering-disciplines/)
 * [2025-11-07, 12:54:18](https://news.ycombinator.com/item?id=45845853) - [Subway sandwich thrower found not guilty in D.C. jury rebuke](https://www.npr.org/2025/11/06/nx-s1-5600772/trump-justice-federal-surge-subway-sandwich)
 * [2025-11-07, 12:43:49](https://news.ycombinator.com/item?id=45845800) - [From Memorization to Reasoning in the Spectrum of Loss Curvature](https://arxiv.org/abs/2510.24256)
+* [2025-11-07, 12:42:04](https://news.ycombinator.com/item?id=45845782) - [Löb and Möb: Loops in Haskell](https://github.com/quchen/articles/blob/master/loeb-moeb.md)
 * [2025-11-07, 12:39:54](https://news.ycombinator.com/item?id=45845772) - [Meta projected 10% of 2024 revenue came from scams](https://sherwood.news/tech/meta-projected-10-of-2024-revenue-came-from-scams-and-banned-goods-reuters/)
 * [2025-11-07, 12:27:49](https://news.ycombinator.com/item?id=45845709) - ['You're just ready:' Parents say ChatGPT encouraged son to kill himself](https://www.cnn.com/2025/11/06/us/openai-chatgpt-uicide-lawsuit-invs-vis)
 * [2025-11-07, 12:11:42](https://news.ycombinator.com/item?id=45845620) - [SanDisk launches dongle-like Extreme Fit USB-C flash drive with up to 1 TB](https://www.notebookcheck.net/Sandisk-launches-dongle-like-Extreme-Fit-USB-C-flash-drive-with-up-to-1-TB-capacity.1156601.0.html)
