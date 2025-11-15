@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-11-15, 03:58:01",
+      "https://news.ycombinator.com/item?id=45934940"
+    ],
+    [
+      "I can't recommend Grafana anymore",
+      "https://henrikgerdes.me/blog/2025-11-grafana-mess/"
+    ]
+  ],
+  [
+    [
+      "2025-11-15, 02:58:56",
+      "https://news.ycombinator.com/item?id=45934683"
+    ],
+    [
+      "Over-reliance on English hinders cognitive science",
+      "https://www.cell.com/trends/cognitive-sciences/fulltext/S1364-6613(22)00236-4"
+    ]
+  ],
+  [
+    [
       "2025-11-15, 02:11:43",
       "https://news.ycombinator.com/item?id=45934447"
     ],
@@ -161,16 +181,6 @@
   ],
   [
     [
-      "2025-11-14, 13:21:24",
-      "https://news.ycombinator.com/item?id=45926469"
-    ],
-    [
-      "AGI fantasy is a blocker to actual engineering",
-      "https://www.tomwphillips.co.uk/2025/11/agi-fantasy-is-a-blocker-to-actual-engineering/"
-    ]
-  ],
-  [
-    [
       "2025-11-14, 12:44:07",
       "https://news.ycombinator.com/item?id=45926224"
     ],
@@ -267,16 +277,6 @@
     [
       "GEN-0 / Embodied Foundation Models That Scale with Physical Interaction",
       "https://generalistai.com/blog/nov-04-2025-GEN-0"
-    ]
-  ],
-  [
-    [
-      "2025-11-05, 09:39:58",
-      "https://news.ycombinator.com/item?id=45821154"
-    ],
-    [
-      "Incus-OS: Immutable Linux OS to run Incus as a hypervisor",
-      "https://linuxcontainers.org/incus-os/"
     ]
   ],
   [
