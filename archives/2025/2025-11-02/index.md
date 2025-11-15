@@ -62,6 +62,7 @@
 * [2025-11-02, 10:00:07](https://news.ycombinator.com/item?id=45789143) - [Comparison Traits – Understanding Equality and Ordering in Rust](https://itsfoxstudio.substack.com/p/comparison-traits-understanding-equality)
 * [2025-11-02, 09:54:33](https://news.ycombinator.com/item?id=45789115) - [Leaving the Freedesktop.org Community](https://vt.social/@lina/115431232807081648)
 * [2025-11-02, 08:52:23](https://news.ycombinator.com/item?id=45788842) - [Context engineering](https://chrisloy.dev/post/2025/08/03/context-engineering)
+* [2025-11-02, 07:41:21](https://news.ycombinator.com/item?id=45788564) - [Color Comparison Between E Ink's Spectra 6 and ChLCD](https://iris-opt.com/en/blog/eink-spectra6-vs-chlcd/)
 * [2025-11-02, 07:16:20](https://news.ycombinator.com/item?id=45788441) - [Gt: [experimental] multiplexing tensor framework](https://github.com/bwasti/gt)
 * [2025-11-02, 07:04:59](https://news.ycombinator.com/item?id=45788385) - [Intervaltree with Rust Back End](https://github.com/Athe-kunal/intervaltree_rs)
 * [2025-11-02, 06:51:58](https://news.ycombinator.com/item?id=45788327) - [Why do AI models use so many em-dashes?](https://www.seangoedecke.com/em-dashes/)
