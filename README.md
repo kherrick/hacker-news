@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-11-15, 03:59:35](https://news.ycombinator.com/item?id=45934950) - [Scientists reverse kidney damage in mice, hope for humans next](https://www.sciencedaily.com/releases/2025/11/251114094525.htm)
 * [2025-11-15, 03:58:01](https://news.ycombinator.com/item?id=45934940) - [I can't recommend Grafana anymore](https://henrikgerdes.me/blog/2025-11-grafana-mess/)
 * [2025-11-15, 02:58:56](https://news.ycombinator.com/item?id=45934683) - [Over-reliance on English hinders cognitive science](https://www.cell.com/trends/cognitive-sciences/fulltext/S1364-6613(22)00236-4)
 * [2025-11-15, 02:11:43](https://news.ycombinator.com/item?id=45934447) - [AI note-taking startup Fireflies was really two guys typing notes by hand](https://www.pcgamer.com/software/ai/usd1-billion-ai-company-co-founder-admits-that-its-usd100-a-month-transcription-service-was-originally-two-guys-surviving-on-pizza-and-typing-out-notes-by-hand/)
@@ -19,7 +20,6 @@
 * [2025-11-14, 16:31:26](https://news.ycombinator.com/item?id=45928492) - ['No One Lives Forever' turns 25 and you still can't buy it legitimately](https://www.techdirt.com/2025/11/13/no-one-lives-forever-turns-25-you-still-cant-buy-it-legitimately/)
 * [2025-11-14, 14:46:27](https://news.ycombinator.com/item?id=45927210) - [Linear algebra explains why some words are effectively untranslatable](https://aethermug.com/posts/linear-algebra-explains-why-some-words-are-effectively-untranslatable)
 * [2025-11-14, 12:44:07](https://news.ycombinator.com/item?id=45926224) - [Winamp clone in Swift for macOS](https://github.com/mgreenwood1001/winamp)
-* [2025-11-14, 12:09:59](https://news.ycombinator.com/item?id=45926037) - [Magit manuals are available online again](https://github.com/magit/magit/issues/5472)
 * [2025-11-14, 02:27:20](https://news.ycombinator.com/item?id=45923188) - [HipKittens: Fast and furious AMD kernels](https://hazyresearch.stanford.edu/blog/2025-11-09-hk)
 * [2025-11-11, 13:52:15](https://news.ycombinator.com/item?id=45887262) - [Has Google solved two of AI’s oldest problems?](https://generativehistory.substack.com/p/has-google-quietly-solved-two-of)
 * [2025-11-11, 09:48:05](https://news.ycombinator.com/item?id=45885677) - [Xqerl – Erlang XQuery 3.1 Processor](https://zadean.github.io/xqerl/)
