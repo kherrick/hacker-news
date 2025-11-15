@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-11-15, 18:22:27](https://news.ycombinator.com/item?id=45939414) - [Llmdeathcount.com](https://llmdeathcount.com/)
 * [2025-11-15, 18:02:39](https://news.ycombinator.com/item?id=45939257) - [Meta Says the 2,400 'Adult Movies' They Torrented Were for Personal Use](https://www.vice.com/en/article/meta-says-the-2400-adult-movies-they-torrented-were-for-personal-use-not-training-ai/)
 * [2025-11-15, 17:04:23](https://news.ycombinator.com/item?id=45938815) - [I implemented an ISO 42001-certified AI Governance program in 6 months](https://beabytes.com/iso42001-certified-ai-governance/)
 * [2025-11-15, 17:00:38](https://news.ycombinator.com/item?id=45938785) - [Trellis AI (YC W24) Is Hiring: Streamline access to life-saving therapies](https://www.ycombinator.com/companies/trellis-ai/jobs/f4GWvH0-forward-deployed-engineer-full-time)
 * [2025-11-15, 16:53:30](https://news.ycombinator.com/item?id=45938723) - [Windhawk Windows classic theme mod for Windows 11](https://windhawk.net/mods/classic-theme-enable)
 * [2025-11-15, 16:49:49](https://news.ycombinator.com/item?id=45938698) - [The Mighty Simplex (2023)](https://galileo-unbound.blog/2023/05/03/the-mighty-simplex/)
-* [2025-11-15, 16:16:42](https://news.ycombinator.com/item?id=45938427) - [Wealth](https://saul.pw/mag/wealth/)
 * [2025-11-15, 15:25:08](https://news.ycombinator.com/item?id=45938027) - [Weighting an average to minimize variance](https://www.johndcook.com/blog/2025/11/12/minimum-variance/)
 * [2025-11-15, 15:19:20](https://news.ycombinator.com/item?id=45937989) - [Linux on the Fujitsu Lifebook U729](https://borretti.me/article/linux-on-the-fujitsu-lifebook-u729)
 * [2025-11-15, 14:53:09](https://news.ycombinator.com/item?id=45937816) - [How to tolerate annoying things](https://psyche.co/guides/how-to-respond-to-annoying-things-with-greater-ease)
@@ -26,10 +26,10 @@
 * [2025-11-06, 20:14:24](https://news.ycombinator.com/item?id=45839834) - [Strap Rail](https://www.construction-physics.com/p/strap-rail)
 * [2025-11-06, 06:15:43](https://news.ycombinator.com/item?id=45832051) - [Boa: A standard-conforming embeddable JavaScript engine written in Rust](https://github.com/boa-dev/boa)
 * [2025-11-05, 16:59:08](https://news.ycombinator.com/item?id=45825121) - [Streaming AI agent desktops with gaming protocols](https://blog.helix.ml/p/technical-deep-dive-on-streaming)
+* [2025-11-05, 14:51:31](https://news.ycombinator.com/item?id=45823431) - [An Antivenom Cocktail, Made by a Llama](https://www.asimov.press/p/broad-antivenom)
 * [2025-11-04, 21:41:38](https://news.ycombinator.com/item?id=45816208) - [History and use of the Estes AstroCam 110](https://www.dembrudders.com/history-and-use-of-the-estes-astrocam-110.html)
 * [2025-11-04, 07:41:58](https://news.ycombinator.com/item?id=45808407) - [Unofficial Microsoft Teams client for Linux](https://github.com/IsmaelMartinez/teams-for-linux)
 * [2025-11-02, 22:17:15](https://news.ycombinator.com/item?id=45793920) - [Can text be made to sound more than just its words? (2022)](https://arxiv.org/abs/2202.10631)
-* [2025-11-02, 07:41:21](https://news.ycombinator.com/item?id=45788564) - [Color Comparison Between E Ink's Spectra 6 and ChLCD](https://iris-opt.com/en/blog/eink-spectra6-vs-chlcd/)
 
 ## [Archives](archives/index.md)
 
