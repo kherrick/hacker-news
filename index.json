@@ -211,22 +211,22 @@
   ],
   [
     [
-      "2025-11-11, 09:53:27",
-      "https://news.ycombinator.com/item?id=45885699"
-    ],
-    [
-      "Blending SQL and Python with Sqlorm",
-      "https://hyperflask.dev/blog/2025/11/11/blending-sql-and-python-with-sqlorm/"
-    ]
-  ],
-  [
-    [
       "2025-11-10, 15:13:55",
       "https://news.ycombinator.com/item?id=45876742"
     ],
     [
       "Show HN: Tiny Diffusion – A character-level text diffusion model from scratch",
       "https://github.com/nathan-barry/tiny-diffusion"
+    ]
+  ],
+  [
+    [
+      "2025-11-09, 00:03:47",
+      "https://news.ycombinator.com/item?id=45861463"
+    ],
+    [
+      "Driving TFEL with RP2040: Offloading the CPU step by step (2021)",
+      "https://www.zephray.me/post/rpi_pico_driving_el/"
     ]
   ],
   [
