@@ -22,7 +22,7 @@
 * [2025-11-14, 02:27:20](https://news.ycombinator.com/item?id=45923188) - [HipKittens: Fast and furious AMD kernels](https://hazyresearch.stanford.edu/blog/2025-11-09-hk)
 * [2025-11-11, 13:52:15](https://news.ycombinator.com/item?id=45887262) - [A new Google model is nearly perfect on automated handwriting recognition](https://generativehistory.substack.com/p/has-google-quietly-solved-two-of)
 * [2025-11-10, 15:13:55](https://news.ycombinator.com/item?id=45876742) - [Show HN: Tiny Diffusion – A character-level text diffusion model from scratch](https://github.com/nathan-barry/tiny-diffusion)
-* [2025-11-07, 12:42:04](https://news.ycombinator.com/item?id=45845782) - [Löb and Möb: Loops in Haskell](https://github.com/quchen/articles/blob/master/loeb-moeb.md)
+* [2025-11-07, 12:42:04](https://news.ycombinator.com/item?id=45845782) - [Löb and Möb: Loops in Haskell (2013)](https://github.com/quchen/articles/blob/master/loeb-moeb.md)
 * [2025-11-06, 09:04:00](https://news.ycombinator.com/item?id=45833047) - [Random Font – a typographic experiment exploring randomness [pdf]](https://www.ilcovile.it/scritti/COVILE_834_Reprint_Random_Font.pdf)
 * [2025-11-05, 10:25:14](https://news.ycombinator.com/item?id=45821402) - [GEN-0 / Embodied Foundation Models That Scale with Physical Interaction](https://generalistai.com/blog/nov-04-2025-GEN-0)
 * [2025-11-04, 16:58:00](https://news.ycombinator.com/item?id=45813186) - [Ucs-Detect](https://ucs-detect.readthedocs.io/intro.html)
