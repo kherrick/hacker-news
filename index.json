@@ -71,16 +71,6 @@
   ],
   [
     [
-      "2025-11-14, 18:42:55",
-      "https://news.ycombinator.com/item?id=45930284"
-    ],
-    [
-      "Minisforum Stuffs Entire Arm Homelab in the MS-R1",
-      "https://www.jeffgeerling.com/blog/2025/minisforum-stuffs-entire-arm-homelab-ms-r1"
-    ]
-  ],
-  [
-    [
       "2025-11-14, 18:35:22",
       "https://news.ycombinator.com/item?id=45930151"
     ],
@@ -257,6 +247,16 @@
     [
       "Honda: 2 years of ml vs 1 month of prompting - heres what we learned",
       "https://www.levs.fyi/blog/2-years-of-ml-vs-1-month-of-prompting/"
+    ]
+  ],
+  [
+    [
+      "2025-11-06, 02:29:02",
+      "https://news.ycombinator.com/item?id=45830718"
+    ],
+    [
+      "I built a modular Java game engine without a GUI, designed to be AI-native",
+      "https://frontend-neutron-v2.vercel.app/"
     ]
   ],
   [
