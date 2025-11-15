@@ -20,7 +20,6 @@
 * [2025-11-14, 06:39:13](https://news.ycombinator.com/item?id=45924483) - [Lawmakers want to ban VPNs and have no idea what they're doing](https://www.eff.org/deeplinks/2025/11/lawmakers-want-ban-vpns-and-they-have-no-idea-what-theyre-doing)
 * [2025-11-14, 02:27:20](https://news.ycombinator.com/item?id=45923188) - [HipKittens: Fast and furious AMD kernels](https://hazyresearch.stanford.edu/blog/2025-11-09-hk)
 * [2025-11-11, 13:52:15](https://news.ycombinator.com/item?id=45887262) - [A new Google model is nearly perfect on automated handwriting recognition](https://generativehistory.substack.com/p/has-google-quietly-solved-two-of)
-* [2025-11-11, 09:53:27](https://news.ycombinator.com/item?id=45885699) - [Blending SQL and Python with Sqlorm](https://hyperflask.dev/blog/2025/11/11/blending-sql-and-python-with-sqlorm/)
 * [2025-11-10, 15:13:55](https://news.ycombinator.com/item?id=45876742) - [Show HN: Tiny Diffusion – A character-level text diffusion model from scratch](https://github.com/nathan-barry/tiny-diffusion)
 * [2025-11-07, 12:42:04](https://news.ycombinator.com/item?id=45845782) - [Löb and Möb: Loops in Haskell](https://github.com/quchen/articles/blob/master/loeb-moeb.md)
 * [2025-11-06, 14:01:39](https://news.ycombinator.com/item?id=45835337) - [Hiring the Joker](https://quarter--mile.com/hiring-the-joker)
@@ -30,6 +29,7 @@
 * [2025-11-04, 12:02:24](https://news.ycombinator.com/item?id=45809972) - [Async Mutexes](https://matklad.github.io/2025/11/04/on-async-mutexes.html)
 * [2025-11-04, 11:22:24](https://news.ycombinator.com/item?id=45809722) - [Continuous Architecture: A decade of designing for change](https://continuousarchitecture.com/2025/11/04/a-decade-of-ca/)
 * [2025-11-04, 07:41:58](https://news.ycombinator.com/item?id=45808407) - [Unofficial Microsoft Teams client for Linux](https://github.com/IsmaelMartinez/teams-for-linux)
+* [2025-11-02, 22:17:15](https://news.ycombinator.com/item?id=45793920) - [Can text be made to sound more than just its words? (2022)](https://arxiv.org/abs/2202.10631)
 
 ## [Archives](archives/index.md)
 
