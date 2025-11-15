@@ -11,6 +11,7 @@
 * [2025-11-15, 18:44:05](https://news.ycombinator.com/item?id=45939569) - [The computer poetry of J. M. Coetzee's early programming career](https://sites.utexas.edu/ransomcentermagazine/2017/06/28/the-computer-poetry-of-j-m-coetzees-early-programming-career/)
 * [2025-11-15, 18:40:55](https://news.ycombinator.com/item?id=45939550) - [Transgenerational Epigenetic Inheritance: the story of learned avoidance](https://elifesciences.org/articles/109427)
 * [2025-11-15, 18:29:00](https://news.ycombinator.com/item?id=45939459) - [USA Gives South Korea Green Light to Build Nuclear Submarines](https://www.navalnews.com/naval-news/2025/10/usa-gives-south-korea-green-light-to-build-nuclear-submarines/)
+* [2025-11-15, 18:24:58](https://news.ycombinator.com/item?id=45939431) - [Things that aren't doing the thing](https://strangestloop.io/essays/things-that-arent-doing-the-thing)
 * [2025-11-15, 18:22:27](https://news.ycombinator.com/item?id=45939414) - [Llmdeathcount.com](https://llmdeathcount.com/)
 * [2025-11-15, 18:03:37](https://news.ycombinator.com/item?id=45939266) - [FBI Director Waived Polygraph Security Screening for Three Senior Staff](https://www.propublica.org/article/fbi-kash-patel-dan-bongino-waived-polygraph)
 * [2025-11-15, 18:02:39](https://news.ycombinator.com/item?id=45939257) - [Meta Says the 2,400 'Adult Movies' They Torrented Were for Personal Use](https://www.vice.com/en/article/meta-says-the-2400-adult-movies-they-torrented-were-for-personal-use-not-training-ai/)
