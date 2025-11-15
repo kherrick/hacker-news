@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-11-15, 02:11:43",
+      "https://news.ycombinator.com/item?id=45934447"
+    ],
+    [
+      "AI note-taking startup Fireflies was really two guys typing notes by hand",
+      "https://www.pcgamer.com/software/ai/usd1-billion-ai-company-co-founder-admits-that-its-usd100-a-month-transcription-service-was-originally-two-guys-surviving-on-pizza-and-typing-out-notes-by-hand/"
+    ]
+  ],
+  [
+    [
       "2025-11-14, 23:39:36",
       "https://news.ycombinator.com/item?id=45933497"
     ],
@@ -55,7 +65,7 @@
       "https://news.ycombinator.com/item?id=45930598"
     ],
     [
-      "Structured Outputs on the Claude Developer Platform (API)",
+      "Structured outputs on the Claude Developer Platform",
       "https://www.claude.com/blog/structured-outputs-on-the-claude-developer-platform"
     ]
   ],
@@ -107,16 +117,6 @@
     [
       "Bitchat for Gaza – messaging without internet",
       "https://updates.techforpalestine.org/bitchat-for-gaza-messaging-without-internet/"
-    ]
-  ],
-  [
-    [
-      "2025-11-14, 17:19:08",
-      "https://news.ycombinator.com/item?id=45929052"
-    ],
-    [
-      "Germany to ban Huawei from future 6G network",
-      "https://www.bloomberg.com/news/articles/2025-11-13/germany-to-ban-huawei-from-future-6g-network-in-sovereignty-push"
     ]
   ],
   [
@@ -215,7 +215,7 @@
       "https://news.ycombinator.com/item?id=45887262"
     ],
     [
-      "Has Google solved two of AI's oldest problems?",
+      "Has Google solved two of AI’s oldest problems?",
       "https://generativehistory.substack.com/p/has-google-quietly-solved-two-of"
     ]
   ],
@@ -261,16 +261,6 @@
   ],
   [
     [
-      "2025-11-09, 15:46:29",
-      "https://news.ycombinator.com/item?id=45866366"
-    ],
-    [
-      "Operating Margins",
-      "https://fi-le.net/margin/"
-    ]
-  ],
-  [
-    [
       "2025-11-05, 10:25:14",
       "https://news.ycombinator.com/item?id=45821402"
     ],
@@ -287,6 +277,16 @@
     [
       "Incus-OS: Immutable Linux OS to run Incus as a hypervisor",
       "https://linuxcontainers.org/incus-os/"
+    ]
+  ],
+  [
+    [
+      "2025-11-04, 12:02:24",
+      "https://news.ycombinator.com/item?id=45809972"
+    ],
+    [
+      "Async Mutexes",
+      "https://matklad.github.io/2025/11/04/on-async-mutexes.html"
     ]
   ],
   [
