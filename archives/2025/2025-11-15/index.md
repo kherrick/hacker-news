@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-11-15](index.md)
 
+* [2025-11-15, 21:18:55](https://news.ycombinator.com/item?id=45940681) - [Tim Cook could step down as Apple CEO 'as soon as next year](https://9to5mac.com/2025/11/14/tim-cook-step-down-as-apple-ceo-as-soon-as-next-year-report/)
 * [2025-11-15, 20:35:33](https://news.ycombinator.com/item?id=45940413) - [AMD continues to chip away at Intel's x86 market share](https://www.tomshardware.com/pc-components/cpus/amd-continues-to-chip-away-at-intels-x86-market-share-company-now-sells-over-25-percent-of-all-x86-chips-and-powers-33-percent-of-all-desktop-systems)
 * [2025-11-15, 19:43:39](https://news.ycombinator.com/item?id=45940030) - [Caffeinated Coffee Consumption or Abstinence to Reduce Atrial Fibrillation](https://jamanetwork.com/journals/jama/fullarticle/2841253)
 * [2025-11-15, 19:29:32](https://news.ycombinator.com/item?id=45939938) - [Archimedes – A Python toolkit for hardware engineering](https://pinetreelabs.github.io/archimedes/blog/2025/introduction.html)
