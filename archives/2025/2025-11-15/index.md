@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-11-15](index.md)
 
+* [2025-11-15, 13:58:09](https://news.ycombinator.com/item?id=45937518) - [How to write type-safe generics in C](https://raphgl.github.io/blog/generics-in-c.html)
 * [2025-11-15, 12:23:08](https://news.ycombinator.com/item?id=45936964) - [Kagi Bloopers – Search Results Gone Wrong](https://help.kagi.com/kagi/bloopers/)
 * [2025-11-15, 12:01:10](https://news.ycombinator.com/item?id=45936837) - [Activeloop (YC S18) Is Hiring MTS(Back End)and AI Search Engineer](https://careers.activeloop.ai/)
 * [2025-11-15, 10:30:52](https://news.ycombinator.com/item?id=45936460) - [Adguard DNS received suspicious pressure to block archive.is](https://adguard-dns.io/en/blog/archive-today-adguard-dns-block-demand.html)
