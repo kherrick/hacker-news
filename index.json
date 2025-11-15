@@ -21,12 +21,12 @@
   ],
   [
     [
-      "2025-11-15, 02:58:56",
-      "https://news.ycombinator.com/item?id=45934683"
+      "2025-11-15, 02:46:54",
+      "https://news.ycombinator.com/item?id=45934624"
     ],
     [
-      "Over-reliance on English hinders cognitive science",
-      "https://www.cell.com/trends/cognitive-sciences/fulltext/S1364-6613(22)00236-4"
+      "Show HN: UnisonDB – B+Tree DB with sub-second replication to 100+ nodes",
+      "https://github.com/ankur-anand/unisondb"
     ]
   ],
   [
@@ -111,6 +111,16 @@
   ],
   [
     [
+      "2025-11-14, 18:42:55",
+      "https://news.ycombinator.com/item?id=45930284"
+    ],
+    [
+      "Minisforum Stuffs Entire Arm Homelab in the MS-R1",
+      "https://www.jeffgeerling.com/blog/2025/minisforum-stuffs-entire-arm-homelab-ms-r1"
+    ]
+  ],
+  [
+    [
       "2025-11-14, 18:35:22",
       "https://news.ycombinator.com/item?id=45930151"
     ],
@@ -161,16 +171,6 @@
   ],
   [
     [
-      "2025-11-14, 17:04:49",
-      "https://news.ycombinator.com/item?id=45928873"
-    ],
-    [
-      "Moving Back to a Tiling WM – XMonad",
-      "https://wssite.vercel.app/blog/moving-back-to-a-tiling-wm-xmonad"
-    ]
-  ],
-  [
-    [
       "2025-11-14, 16:51:03",
       "https://news.ycombinator.com/item?id=45928709"
     ],
@@ -191,22 +191,22 @@
   ],
   [
     [
-      "2025-11-14, 14:46:27",
-      "https://news.ycombinator.com/item?id=45927210"
-    ],
-    [
-      "Linear algebra explains why some words are effectively untranslatable",
-      "https://aethermug.com/posts/linear-algebra-explains-why-some-words-are-effectively-untranslatable"
-    ]
-  ],
-  [
-    [
       "2025-11-14, 12:44:07",
       "https://news.ycombinator.com/item?id=45926224"
     ],
     [
       "Winamp clone in Swift for macOS",
       "https://github.com/mgreenwood1001/winamp"
+    ]
+  ],
+  [
+    [
+      "2025-11-14, 06:39:13",
+      "https://news.ycombinator.com/item?id=45924483"
+    ],
+    [
+      "Lawmakers want to ban VPNs and have no idea what they're doing",
+      "https://www.eff.org/deeplinks/2025/11/lawmakers-want-ban-vpns-and-they-have-no-idea-what-theyre-doing"
     ]
   ],
   [
@@ -227,16 +227,6 @@
     [
       "A new Google model is nearly perfect on automated handwriting recognition",
       "https://generativehistory.substack.com/p/has-google-quietly-solved-two-of"
-    ]
-  ],
-  [
-    [
-      "2025-11-11, 09:48:05",
-      "https://news.ycombinator.com/item?id=45885677"
-    ],
-    [
-      "Xqerl – Erlang XQuery 3.1 Processor",
-      "https://zadean.github.io/xqerl/"
     ]
   ],
   [
@@ -271,12 +261,12 @@
   ],
   [
     [
-      "2025-11-05, 09:39:58",
-      "https://news.ycombinator.com/item?id=45821154"
+      "2025-11-04, 16:58:00",
+      "https://news.ycombinator.com/item?id=45813186"
     ],
     [
-      "Incus-OS: Immutable Linux OS to run Incus as a hypervisor",
-      "https://linuxcontainers.org/incus-os/"
+      "Ucs-Detect",
+      "https://ucs-detect.readthedocs.io/intro.html"
     ]
   ],
   [
@@ -287,6 +277,16 @@
     [
       "Async Mutexes",
       "https://matklad.github.io/2025/11/04/on-async-mutexes.html"
+    ]
+  ],
+  [
+    [
+      "2025-11-04, 07:41:58",
+      "https://news.ycombinator.com/item?id=45808407"
+    ],
+    [
+      "Unofficial Microsoft Teams client for Linux",
+      "https://github.com/IsmaelMartinez/teams-for-linux"
     ]
   ],
   [
