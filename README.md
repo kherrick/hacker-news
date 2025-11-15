@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-11-15, 10:30:52](https://news.ycombinator.com/item?id=45936460) - [Adguard DNS received suspicious pressure to block archive.is](https://adguard-dns.io/en/blog/archive-today-adguard-dns-block-demand.html)
+* [2025-11-15, 12:01:10](https://news.ycombinator.com/item?id=45936837) - [Activeloop (YC S18) Is Hiring MTS(Back End)and AI Search Engineer](https://careers.activeloop.ai/)
+* [2025-11-15, 10:30:52](https://news.ycombinator.com/item?id=45936460) - [Our investigation into the suspicious pressure on Archive.today](https://adguard-dns.io/en/blog/archive-today-adguard-dns-block-demand.html)
 * [2025-11-15, 09:44:15](https://news.ycombinator.com/item?id=45936262) - [One Handed Keyboard](https://github.com/htx-studio/One-Handed-Keyboard)
 * [2025-11-15, 09:14:34](https://news.ycombinator.com/item?id=45936111) - [NATO Ended Russia's Estonian Air Incursions](https://themilitaryanalyst.com/2025/11/13/the-real-story-how-nato-ended-russias-estonian-air-incursions/)
 * [2025-11-15, 07:48:23](https://news.ycombinator.com/item?id=45935763) - [Spec-Driven Development: The Waterfall Strikes Back](https://marmelab.com/blog/2025/11/12/spec-driven-development-waterfall-strikes-back.html)
@@ -21,7 +22,6 @@
 * [2025-11-14, 06:39:13](https://news.ycombinator.com/item?id=45924483) - [Lawmakers want to ban VPNs and have no idea what they're doing](https://www.eff.org/deeplinks/2025/11/lawmakers-want-ban-vpns-and-they-have-no-idea-what-theyre-doing)
 * [2025-11-14, 02:27:20](https://news.ycombinator.com/item?id=45923188) - [HipKittens: Fast and furious AMD kernels](https://hazyresearch.stanford.edu/blog/2025-11-09-hk)
 * [2025-11-11, 13:52:15](https://news.ycombinator.com/item?id=45887262) - [A new Google model is nearly perfect on automated handwriting recognition](https://generativehistory.substack.com/p/has-google-quietly-solved-two-of)
-* [2025-11-10, 15:13:55](https://news.ycombinator.com/item?id=45876742) - [Show HN: Tiny Diffusion – A character-level text diffusion model from scratch](https://github.com/nathan-barry/tiny-diffusion)
 * [2025-11-09, 00:03:47](https://news.ycombinator.com/item?id=45861463) - [Driving TFEL with RP2040: Offloading the CPU step by step (2021)](https://www.zephray.me/post/rpi_pico_driving_el/)
 * [2025-11-07, 12:42:04](https://news.ycombinator.com/item?id=45845782) - [Löb and Möb: Loops in Haskell (2013)](https://github.com/quchen/articles/blob/master/loeb-moeb.md)
 * [2025-11-06, 09:04:00](https://news.ycombinator.com/item?id=45833047) - [Random Font – a typographic experiment exploring randomness [pdf]](https://www.ilcovile.it/scritti/COVILE_834_Reprint_Random_Font.pdf)
