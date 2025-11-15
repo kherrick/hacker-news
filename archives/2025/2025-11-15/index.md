@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-11-15](index.md)
 
+* [2025-11-15, 08:16:35](https://news.ycombinator.com/item?id=45935874) - [How My Speed Date Got Stolen Onstage at a Live Comedy Dating Show](https://psychotechnology.substack.com/p/how-my-speed-date-got-stolen-onstage)
 * [2025-11-15, 07:48:23](https://news.ycombinator.com/item?id=45935763) - [Spec-Driven Development: The Waterfall Strikes Back](https://marmelab.com/blog/2025/11/12/spec-driven-development-waterfall-strikes-back.html)
 * [2025-11-15, 07:38:18](https://news.ycombinator.com/item?id=45935729) - [Messing with Scraper Bots](https://herman.bearblog.dev/messing-with-bots/)
 * [2025-11-15, 06:37:50](https://news.ycombinator.com/item?id=45935503) - [The Internet Is Cool. Thank You, TCP](https://cefboud.com/posts/tcp-deep-dive-internals/)
