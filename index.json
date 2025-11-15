@@ -1,11 +1,21 @@
 [
   [
     [
+      "2025-11-15, 16:49:49",
+      "https://news.ycombinator.com/item?id=45938698"
+    ],
+    [
+      "The Mighty Simplex (2023)",
+      "https://galileo-unbound.blog/2023/05/03/the-mighty-simplex/"
+    ]
+  ],
+  [
+    [
       "2025-11-15, 15:25:08",
       "https://news.ycombinator.com/item?id=45938027"
     ],
     [
-      "Weighting an Average to Minimize Variance",
+      "Weighting an average to minimize variance",
       "https://www.johndcook.com/blog/2025/11/12/minimum-variance/"
     ]
   ],
@@ -27,16 +37,6 @@
     [
       "How to Tolerate Annoying Things",
       "https://psyche.co/guides/how-to-respond-to-annoying-things-with-greater-ease"
-    ]
-  ],
-  [
-    [
-      "2025-11-15, 14:31:39",
-      "https://news.ycombinator.com/item?id=45937719"
-    ],
-    [
-      "Waymo Was on a Roll in San Francisco. Then One of Its Cars Killed a Cat",
-      "https://www.nytimes.com/2025/11/15/us/waymo-san-francisco-kit-kat.html"
     ]
   ],
   [
@@ -95,7 +95,7 @@
       "https://news.ycombinator.com/item?id=45935729"
     ],
     [
-      "Messing with Scraper Bots",
+      "Messing with scraper bots",
       "https://herman.bearblog.dev/messing-with-bots/"
     ]
   ],
@@ -105,7 +105,7 @@
       "https://news.ycombinator.com/item?id=45935503"
     ],
     [
-      "The Internet Is Cool. Thank You, TCP",
+      "TCP, the workhorse of the internet",
       "https://cefboud.com/posts/tcp-deep-dive-internals/"
     ]
   ],
@@ -115,7 +115,7 @@
       "https://news.ycombinator.com/item?id=45935342"
     ],
     [
-      "So, you want to design your own language? (2017)",
+      "Designing a Language (2017)",
       "https://cs.lmu.edu/~ray/notes/languagedesignnotes/"
     ]
   ],
@@ -211,16 +211,6 @@
   ],
   [
     [
-      "2025-11-10, 12:13:19",
-      "https://news.ycombinator.com/item?id=45875188"
-    ],
-    [
-      "Edward Burtynsky's Warning",
-      "https://www.theatlantic.com/magazine/2025/12/edward-burtynsky-photographs/684604/"
-    ]
-  ],
-  [
-    [
       "2025-11-10, 04:46:59",
       "https://news.ycombinator.com/item?id=45872519"
     ],
@@ -297,6 +287,16 @@
     [
       "Can text be made to sound more than just its words? (2022)",
       "https://arxiv.org/abs/2202.10631"
+    ]
+  ],
+  [
+    [
+      "2025-11-02, 07:41:21",
+      "https://news.ycombinator.com/item?id=45788564"
+    ],
+    [
+      "Color Comparison Between E Ink's Spectra 6 and ChLCD",
+      "https://iris-opt.com/en/blog/eink-spectra6-vs-chlcd/"
     ]
   ]
 ]
