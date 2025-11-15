@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-11-15, 13:58:09",
+      "https://news.ycombinator.com/item?id=45937518"
+    ],
+    [
+      "How to write type-safe generics in C",
+      "https://raphgl.github.io/blog/generics-in-c.html"
+    ]
+  ],
+  [
+    [
       "2025-11-15, 12:23:08",
       "https://news.ycombinator.com/item?id=45936964"
     ],
@@ -27,6 +37,16 @@
     [
       "Our investigation into the suspicious pressure on Archive.today",
       "https://adguard-dns.io/en/blog/archive-today-adguard-dns-block-demand.html"
+    ]
+  ],
+  [
+    [
+      "2025-11-15, 09:44:15",
+      "https://news.ycombinator.com/item?id=45936262"
+    ],
+    [
+      "One Handed Keyboard",
+      "https://github.com/htx-studio/One-Handed-Keyboard"
     ]
   ],
   [
@@ -71,22 +91,22 @@
   ],
   [
     [
-      "2025-11-15, 02:06:16",
-      "https://news.ycombinator.com/item?id=45934416"
-    ],
-    [
-      "AMD GPUs Go Brrr",
-      "https://hazyresearch.stanford.edu/blog/2025-11-09-amd-brr"
-    ]
-  ],
-  [
-    [
       "2025-11-14, 23:39:36",
       "https://news.ycombinator.com/item?id=45933497"
     ],
     [
       "No Leak, No Problem – Bypassing ASLR with a ROP Chain to Gain RCE",
       "https://modzero.com/en/blog/no-leak-no-problem/"
+    ]
+  ],
+  [
+    [
+      "2025-11-14, 22:33:15",
+      "https://news.ycombinator.com/item?id=45932962"
+    ],
+    [
+      "Go's Sweet 16",
+      "https://go.dev/blog/16years"
     ]
   ],
   [
@@ -247,26 +267,6 @@
     [
       "History and use of the Estes AstroCam 110",
       "https://www.dembrudders.com/history-and-use-of-the-estes-astrocam-110.html"
-    ]
-  ],
-  [
-    [
-      "2025-11-04, 16:58:00",
-      "https://news.ycombinator.com/item?id=45813186"
-    ],
-    [
-      "Ucs-Detect",
-      "https://ucs-detect.readthedocs.io/intro.html"
-    ]
-  ],
-  [
-    [
-      "2025-11-04, 12:02:24",
-      "https://news.ycombinator.com/item?id=45809972"
-    ],
-    [
-      "Async Mutexes",
-      "https://matklad.github.io/2025/11/04/on-async-mutexes.html"
     ]
   ],
   [
