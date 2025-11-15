@@ -21,6 +21,16 @@
   ],
   [
     [
+      "2025-11-15, 06:00:26",
+      "https://news.ycombinator.com/item?id=45935396"
+    ],
+    [
+      "Adding Customizable Frame Contrast to KDE Plasma",
+      "https://akselmo.dev/posts/frame-contrast-settings/"
+    ]
+  ],
+  [
+    [
       "2025-11-15, 05:44:43",
       "https://news.ycombinator.com/item?id=45935342"
     ],
@@ -287,16 +297,6 @@
     [
       "Unofficial Microsoft Teams client for Linux",
       "https://github.com/IsmaelMartinez/teams-for-linux"
-    ]
-  ],
-  [
-    [
-      "2025-11-03, 10:40:11",
-      "https://news.ycombinator.com/item?id=45797689"
-    ],
-    [
-      "Awk Technical Notes (2023)",
-      "https://maximullaris.com/awk_tech_notes.html"
     ]
   ]
 ]
