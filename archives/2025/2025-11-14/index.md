@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-11-14](index.md)
 
+* [2025-11-14, 23:39:36](https://news.ycombinator.com/item?id=45933497) - [No Leak, No Problem – Bypassing ASLR with a ROP Chain to Gain RCE](https://modzero.com/en/blog/no-leak-no-problem/)
 * [2025-11-14, 22:33:15](https://news.ycombinator.com/item?id=45932962) - [Go's Sweet 16](https://go.dev/blog/16years)
 * [2025-11-14, 22:15:04](https://news.ycombinator.com/item?id=45932798) - [SSL Configuration Generator](https://ssl-config.mozilla.org/)
 * [2025-11-14, 21:56:55](https://news.ycombinator.com/item?id=45932646) - [30 Days, 9 Cities, 1 Question: Where Did American Prosperity Go?](https://kyla.substack.com/p/30-days-9-cities-1-question-where)

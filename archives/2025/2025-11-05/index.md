@@ -56,6 +56,7 @@
 * [2025-11-05, 12:13:08](https://news.ycombinator.com/item?id=45822018) - [YouTube Erased More Than 700 Videos Documenting Israeli Human Rights Violations](https://theintercept.com/2025/11/04/youtube-google-israel-palestine-human-rights-censorship/)
 * [2025-11-05, 12:00:17](https://news.ycombinator.com/item?id=45821921) - [Founder in Residence at Woz (San Francisco)](https://news.ycombinator.com/item?id=45821921)
 * [2025-11-05, 10:28:50](https://news.ycombinator.com/item?id=45821423) - [72% of devs believe Steam has a monopoly on PC games, according to study](https://www.gamesindustry.biz/72-of-devs-believe-steam-has-a-monopoly-on-pc-games-according-to-study)
+* [2025-11-05, 10:25:14](https://news.ycombinator.com/item?id=45821402) - [GEN-0 / Embodied Foundation Models That Scale with Physical Interaction](https://generalistai.com/blog/nov-04-2025-GEN-0)
 * [2025-11-05, 10:01:03](https://news.ycombinator.com/item?id=45821265) - [Tetrahedral Analog of the Pythagorean Theorem](https://www.johndcook.com/blog/2025/11/03/de-gua/)
 * [2025-11-05, 09:39:58](https://news.ycombinator.com/item?id=45821154) - [Incus-OS: Immutable Linux OS to run Incus as a hypervisor](https://linuxcontainers.org/incus-os/)
 * [2025-11-05, 08:54:11](https://news.ycombinator.com/item?id=45820872) - [A Quote from Belligerentbarbies](https://simonwillison.net/2025/Nov/5/brenda/)
