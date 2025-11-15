@@ -1,14 +1,15 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-11-15, 18:55:22](https://news.ycombinator.com/item?id=45939678) - [AWS Deprecates Two Dozen Services (Most of Which You've Never Heard Of)](https://www.lastweekinaws.com/blog/aws-deprecates-two-dozen-services-most-of-which-youve-never-heard-of/)
 * [2025-11-15, 18:44:05](https://news.ycombinator.com/item?id=45939569) - [The computer poetry of J. M. Coetzee's early programming career](https://sites.utexas.edu/ransomcentermagazine/2017/06/28/the-computer-poetry-of-j-m-coetzees-early-programming-career/)
 * [2025-11-15, 18:40:55](https://news.ycombinator.com/item?id=45939550) - [Transgenerational Epigenetic Inheritance: the story of learned avoidance](https://elifesciences.org/articles/109427)
+* [2025-11-15, 18:29:00](https://news.ycombinator.com/item?id=45939459) - [USA Gives South Korea Green Light to Build Nuclear Submarines](https://www.navalnews.com/naval-news/2025/10/usa-gives-south-korea-green-light-to-build-nuclear-submarines/)
 * [2025-11-15, 17:04:23](https://news.ycombinator.com/item?id=45938815) - [I implemented an ISO 42001-certified AI Governance program in 6 months](https://beabytes.com/iso42001-certified-ai-governance/)
 * [2025-11-15, 17:00:38](https://news.ycombinator.com/item?id=45938785) - [Trellis AI (YC W24) Is Hiring: Streamline access to life-saving therapies](https://www.ycombinator.com/companies/trellis-ai/jobs/f4GWvH0-forward-deployed-engineer-full-time)
 * [2025-11-15, 16:53:30](https://news.ycombinator.com/item?id=45938723) - [Windhawk Windows classic theme mod for Windows 11](https://windhawk.net/mods/classic-theme-enable)
 * [2025-11-15, 16:49:49](https://news.ycombinator.com/item?id=45938698) - [The Mighty Simplex (2023)](https://galileo-unbound.blog/2023/05/03/the-mighty-simplex/)
 * [2025-11-15, 15:25:08](https://news.ycombinator.com/item?id=45938027) - [Weighting an average to minimize variance](https://www.johndcook.com/blog/2025/11/12/minimum-variance/)
 * [2025-11-15, 15:19:20](https://news.ycombinator.com/item?id=45937989) - [Linux on the Fujitsu Lifebook U729](https://borretti.me/article/linux-on-the-fujitsu-lifebook-u729)
-* [2025-11-15, 14:53:09](https://news.ycombinator.com/item?id=45937816) - [How to tolerate annoying things](https://psyche.co/guides/how-to-respond-to-annoying-things-with-greater-ease)
 * [2025-11-15, 10:30:52](https://news.ycombinator.com/item?id=45936460) - [Our investigation into the suspicious pressure on Archive.today](https://adguard-dns.io/en/blog/archive-today-adguard-dns-block-demand.html)
 * [2025-11-15, 09:44:15](https://news.ycombinator.com/item?id=45936262) - [One Handed Keyboard](https://github.com/htx-studio/One-Handed-Keyboard)
 * [2025-11-15, 07:38:18](https://news.ycombinator.com/item?id=45935729) - [Messing with scraper bots](https://herman.bearblog.dev/messing-with-bots/)
@@ -29,7 +30,6 @@
 * [2025-11-05, 14:51:31](https://news.ycombinator.com/item?id=45823431) - [An Antivenom Cocktail, Made by a Llama](https://www.asimov.press/p/broad-antivenom)
 * [2025-11-04, 21:41:38](https://news.ycombinator.com/item?id=45816208) - [History and use of the Estes AstroCam 110](https://www.dembrudders.com/history-and-use-of-the-estes-astrocam-110.html)
 * [2025-11-04, 07:41:58](https://news.ycombinator.com/item?id=45808407) - [Unofficial Microsoft Teams client for Linux](https://github.com/IsmaelMartinez/teams-for-linux)
-* [2025-11-02, 22:17:15](https://news.ycombinator.com/item?id=45793920) - [Can text be made to sound more than just its words? (2022)](https://arxiv.org/abs/2202.10631)
 
 ## [Archives](archives/index.md)
 

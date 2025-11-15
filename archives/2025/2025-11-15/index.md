@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2025-11-15](index.md)
 
+* [2025-11-15, 18:55:22](https://news.ycombinator.com/item?id=45939678) - [AWS Deprecates Two Dozen Services (Most of Which You've Never Heard Of)](https://www.lastweekinaws.com/blog/aws-deprecates-two-dozen-services-most-of-which-youve-never-heard-of/)
 * [2025-11-15, 18:44:05](https://news.ycombinator.com/item?id=45939569) - [The computer poetry of J. M. Coetzee's early programming career](https://sites.utexas.edu/ransomcentermagazine/2017/06/28/the-computer-poetry-of-j-m-coetzees-early-programming-career/)
 * [2025-11-15, 18:40:55](https://news.ycombinator.com/item?id=45939550) - [Transgenerational Epigenetic Inheritance: the story of learned avoidance](https://elifesciences.org/articles/109427)
+* [2025-11-15, 18:29:00](https://news.ycombinator.com/item?id=45939459) - [USA Gives South Korea Green Light to Build Nuclear Submarines](https://www.navalnews.com/naval-news/2025/10/usa-gives-south-korea-green-light-to-build-nuclear-submarines/)
 * [2025-11-15, 18:22:27](https://news.ycombinator.com/item?id=45939414) - [Llmdeathcount.com](https://llmdeathcount.com/)
 * [2025-11-15, 18:02:39](https://news.ycombinator.com/item?id=45939257) - [Meta Says the 2,400 'Adult Movies' They Torrented Were for Personal Use](https://www.vice.com/en/article/meta-says-the-2400-adult-movies-they-torrented-were-for-personal-use-not-training-ai/)
 * [2025-11-15, 17:35:15](https://news.ycombinator.com/item?id=45939063) - [Moving from Serverless to Functionless](https://builder.aws.com)
