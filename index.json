@@ -1,16 +1,6 @@
 [
   [
     [
-      "2025-11-15, 21:18:55",
-      "https://news.ycombinator.com/item?id=45940681"
-    ],
-    [
-      "Tim Cook could step down as Apple CEO 'as soon as next year",
-      "https://9to5mac.com/2025/11/14/tim-cook-step-down-as-apple-ceo-as-soon-as-next-year-report/"
-    ]
-  ],
-  [
-    [
       "2025-11-15, 20:35:33",
       "https://news.ycombinator.com/item?id=45940413"
     ],
@@ -37,6 +27,16 @@
     [
       "Archimedes – A Python toolkit for hardware engineering",
       "https://pinetreelabs.github.io/archimedes/blog/2025/introduction.html"
+    ]
+  ],
+  [
+    [
+      "2025-11-15, 19:10:31",
+      "https://news.ycombinator.com/item?id=45939798"
+    ],
+    [
+      "Nevada Governor's office covered up Boring Co safety violations",
+      "https://fortune.com/2025/11/12/elon-musk-boring-company-tunnels-injuries-osha-citations-fines-rescinded-nevada-governor-office-documents-altered/"
     ]
   ],
   [
@@ -241,6 +241,16 @@
   ],
   [
     [
+      "2025-11-06, 22:09:29",
+      "https://news.ycombinator.com/item?id=45841095"
+    ],
+    [
+      "When did people favor composition over inheritance?",
+      "https://www.sicpers.info/2025/11/when-did-people-favor-composition-over-inheritance/"
+    ]
+  ],
+  [
+    [
       "2025-11-06, 20:14:24",
       "https://news.ycombinator.com/item?id=45839834"
     ],
@@ -257,16 +267,6 @@
     [
       "Boa: A standard-conforming embeddable JavaScript engine written in Rust",
       "https://github.com/boa-dev/boa"
-    ]
-  ],
-  [
-    [
-      "2025-11-05, 14:51:31",
-      "https://news.ycombinator.com/item?id=45823431"
-    ],
-    [
-      "An Antivenom Cocktail, Made by a Llama",
-      "https://www.asimov.press/p/broad-antivenom"
     ]
   ],
   [
