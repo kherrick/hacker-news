@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-11-15, 17:04:23",
+      "https://news.ycombinator.com/item?id=45938815"
+    ],
+    [
+      "I implemented an ISO 42001-certified AI Governance program in 6 months",
+      "https://beabytes.com/iso42001-certified-ai-governance/"
+    ]
+  ],
+  [
+    [
       "2025-11-15, 17:00:38",
       "https://news.ycombinator.com/item?id=45938785"
     ],
@@ -87,16 +97,6 @@
     [
       "One Handed Keyboard",
       "https://github.com/htx-studio/One-Handed-Keyboard"
-    ]
-  ],
-  [
-    [
-      "2025-11-15, 07:48:23",
-      "https://news.ycombinator.com/item?id=45935763"
-    ],
-    [
-      "Spec-Driven Development: The Waterfall Strikes Back",
-      "https://marmelab.com/blog/2025/11/12/spec-driven-development-waterfall-strikes-back.html"
     ]
   ],
   [
@@ -211,16 +211,6 @@
   ],
   [
     [
-      "2025-11-11, 09:53:27",
-      "https://news.ycombinator.com/item?id=45885699"
-    ],
-    [
-      "Blending SQL and Python with Sqlorm",
-      "https://hyperflask.dev/blog/2025/11/11/blending-sql-and-python-with-sqlorm/"
-    ]
-  ],
-  [
-    [
       "2025-11-10, 04:46:59",
       "https://news.ycombinator.com/item?id=45872519"
     ],
@@ -247,6 +237,16 @@
     [
       "Strap Rail",
       "https://www.construction-physics.com/p/strap-rail"
+    ]
+  ],
+  [
+    [
+      "2025-11-06, 06:15:43",
+      "https://news.ycombinator.com/item?id=45832051"
+    ],
+    [
+      "Boa: A standard-conforming embeddable JavaScript engine written in Rust",
+      "https://github.com/boa-dev/boa"
     ]
   ],
   [
