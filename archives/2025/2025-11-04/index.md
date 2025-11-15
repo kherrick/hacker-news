@@ -44,6 +44,7 @@
 * [2025-11-04, 17:04:47](https://news.ycombinator.com/item?id=45813267) - [Exploring a space-based, scalable AI infrastructure system design](https://research.google/blog/exploring-a-space-based-scalable-ai-infrastructure-system-design/)
 * [2025-11-04, 17:00:32](https://news.ycombinator.com/item?id=45813208) - [Inside Pinecone: Slab Architecture](https://www.pinecone.io/learn/slab-architecture/)
 * [2025-11-04, 16:59:05](https://news.ycombinator.com/item?id=45813195) - [US nuclear weapons testing can forever scar a nation.Just ask Marshall Island](https://www.cnn.com/2025/11/04/asia/nuclear-testing-marshall-islands-legacy-intl-hnk-dst)
+* [2025-11-04, 16:58:00](https://news.ycombinator.com/item?id=45813186) - [Ucs-Detect](https://ucs-detect.readthedocs.io/intro.html)
 * [2025-11-04, 16:54:27](https://news.ycombinator.com/item?id=45813148) - [Data breach at major Swedish software supplier impacts 1.5M](https://www.bleepingcomputer.com/news/security/data-breach-at-major-swedish-software-supplier-impacts-15-million/)
 * [2025-11-04, 16:36:52](https://news.ycombinator.com/item?id=45812901) - [YouTube AI error costs creator his channel over alleged link to Japanese account](https://piunikaweb.com/2025/11/04/youtube-ai-error-terminates-enderman-channel/)
 * [2025-11-04, 16:32:36](https://news.ycombinator.com/item?id=45812835) - [When a “feature” is worse than a bug](https://medium.com/@egorich42/when-a-feature-is-worse-than-a-bug-hello-sketchfab-b88a10d52511)
