@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-11-15](index.md)
 
+* [2025-11-15, 17:35:15](https://news.ycombinator.com/item?id=45939063) - [Moving from Serverless to Functionless](https://builder.aws.com)
 * [2025-11-15, 17:28:16](https://news.ycombinator.com/item?id=45939004) - [US spy satellites built by SpaceX send signals in the \"wrong direction\"](https://arstechnica.com/tech-policy/2025/11/us-spy-satellites-built-by-spacex-send-signals-in-the-wrong-direction/)
 * [2025-11-15, 17:04:23](https://news.ycombinator.com/item?id=45938815) - [I implemented an ISO 42001-certified AI Governance program in 6 months](https://beabytes.com/iso42001-certified-ai-governance/)
 * [2025-11-15, 17:00:38](https://news.ycombinator.com/item?id=45938785) - [Trellis AI (YC W24) Is Hiring: Streamline access to life-saving therapies](https://www.ycombinator.com/companies/trellis-ai/jobs/f4GWvH0-forward-deployed-engineer-full-time)
