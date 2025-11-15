@@ -42,6 +42,7 @@
 * [2025-11-10, 15:14:05](https://news.ycombinator.com/item?id=45876744) - [LLMs are steroids for your Dunning-Kruger](https://bytesauna.com/post/dunning-kruger)
 * [2025-11-10, 15:13:55](https://news.ycombinator.com/item?id=45876742) - [Show HN: Tiny Diffusion – A character-level text diffusion model from scratch](https://github.com/nathan-barry/tiny-diffusion)
 * [2025-11-10, 14:57:26](https://news.ycombinator.com/item?id=45876598) - [Time to Start De-Appling](https://heatherburns.tech/2025/11/10/time-to-start-de-appling/)
+* [2025-11-10, 14:42:35](https://news.ycombinator.com/item?id=45876487) - [Raycore: GPU accelerated and modular ray intersections](https://makie.org/website/blogposts/raycore/)
 * [2025-11-10, 14:23:17](https://news.ycombinator.com/item?id=45876308) - [Head in the Zed Cloud](https://maxdeviant.com/posts/2025/head-in-the-zed-cloud/)
 * [2025-11-10, 14:12:11](https://news.ycombinator.com/item?id=45876190) - [Rubin Observatory Discovers Surprise 'Tail' on Iconic Galaxy](https://www.scientificamerican.com/article/rubin-observatory-discovers-surprise-tail-on-iconic-galaxy/)
 * [2025-11-10, 14:01:56](https://news.ycombinator.com/item?id=45876098) - [Multistable thin-shell metastructures for multiresponsive metabots](https://www.science.org/doi/10.1126/sciadv.adx4359)
