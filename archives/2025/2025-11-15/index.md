@@ -9,6 +9,7 @@
 * [2025-11-15, 18:40:55](https://news.ycombinator.com/item?id=45939550) - [Transgenerational Epigenetic Inheritance: the story of learned avoidance](https://elifesciences.org/articles/109427)
 * [2025-11-15, 18:29:00](https://news.ycombinator.com/item?id=45939459) - [USA Gives South Korea Green Light to Build Nuclear Submarines](https://www.navalnews.com/naval-news/2025/10/usa-gives-south-korea-green-light-to-build-nuclear-submarines/)
 * [2025-11-15, 18:22:27](https://news.ycombinator.com/item?id=45939414) - [Llmdeathcount.com](https://llmdeathcount.com/)
+* [2025-11-15, 18:03:37](https://news.ycombinator.com/item?id=45939266) - [FBI Director Waived Polygraph Security Screening for Three Senior Staff](https://www.propublica.org/article/fbi-kash-patel-dan-bongino-waived-polygraph)
 * [2025-11-15, 18:02:39](https://news.ycombinator.com/item?id=45939257) - [Meta Says the 2,400 'Adult Movies' They Torrented Were for Personal Use](https://www.vice.com/en/article/meta-says-the-2400-adult-movies-they-torrented-were-for-personal-use-not-training-ai/)
 * [2025-11-15, 17:35:15](https://news.ycombinator.com/item?id=45939063) - [Moving from Serverless to Functionless](https://builder.aws.com)
 * [2025-11-15, 17:28:16](https://news.ycombinator.com/item?id=45939004) - [US spy satellites built by SpaceX send signals in the \"wrong direction\"](https://arstechnica.com/tech-policy/2025/11/us-spy-satellites-built-by-spacex-send-signals-in-the-wrong-direction/)
