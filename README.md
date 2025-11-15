@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-11-15, 15:19:20](https://news.ycombinator.com/item?id=45937989) - [Linux on the Fujitsu Lifebook U729](https://borretti.me/article/linux-on-the-fujitsu-lifebook-u729)
+* [2025-11-15, 15:02:54](https://news.ycombinator.com/item?id=45937880) - [6B Miles Driven](https://www.tesla.com/fsd/safety)
 * [2025-11-15, 13:58:09](https://news.ycombinator.com/item?id=45937518) - [How to write type-safe generics in C](https://raphgl.github.io/blog/generics-in-c.html)
 * [2025-11-15, 12:23:08](https://news.ycombinator.com/item?id=45936964) - [Kagi Bloopers – Search Results Gone Wrong](https://help.kagi.com/kagi/bloopers/)
 * [2025-11-15, 12:01:10](https://news.ycombinator.com/item?id=45936837) - [Activeloop (YC S18) Is Hiring MTS(Back End)and AI Search Engineer](https://careers.activeloop.ai/)
@@ -21,7 +22,6 @@
 * [2025-11-13, 06:22:01](https://news.ycombinator.com/item?id=45911396) - [The Pen and the Spade: The Poems of Seamus Heaney](https://literaryreview.co.uk/the-pen-the-spade-2)
 * [2025-11-11, 13:52:15](https://news.ycombinator.com/item?id=45887262) - [A new Google model is nearly perfect on automated handwriting recognition](https://generativehistory.substack.com/p/has-google-quietly-solved-two-of)
 * [2025-11-11, 09:53:27](https://news.ycombinator.com/item?id=45885699) - [Blending SQL and Python with Sqlorm](https://hyperflask.dev/blog/2025/11/11/blending-sql-and-python-with-sqlorm/)
-* [2025-11-10, 12:13:19](https://news.ycombinator.com/item?id=45875188) - [Edward Burtynsky's Warning](https://www.theatlantic.com/magazine/2025/12/edward-burtynsky-photographs/684604/)
 * [2025-11-10, 04:46:59](https://news.ycombinator.com/item?id=45872519) - [The Nature of the Beast: Charles Le Brun's Human-Animal Hybrids (1806)](https://publicdomainreview.org/collection/le-brun-human-animal-hybrids/)
 * [2025-11-09, 00:03:47](https://news.ycombinator.com/item?id=45861463) - [Driving TFEL with RP2040: Offloading the CPU step by step (2021)](https://www.zephray.me/post/rpi_pico_driving_el/)
 * [2025-11-07, 12:42:04](https://news.ycombinator.com/item?id=45845782) - [Löb and Möb: Loops in Haskell (2013)](https://github.com/quchen/articles/blob/master/loeb-moeb.md)
