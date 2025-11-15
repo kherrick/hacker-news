@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-11-15, 03:58:01](https://news.ycombinator.com/item?id=45934940) - [I can't recommend Grafana anymore](https://henrikgerdes.me/blog/2025-11-grafana-mess/)
+* [2025-11-15, 02:58:56](https://news.ycombinator.com/item?id=45934683) - [Over-reliance on English hinders cognitive science](https://www.cell.com/trends/cognitive-sciences/fulltext/S1364-6613(22)00236-4)
 * [2025-11-15, 02:11:43](https://news.ycombinator.com/item?id=45934447) - [AI note-taking startup Fireflies was really two guys typing notes by hand](https://www.pcgamer.com/software/ai/usd1-billion-ai-company-co-founder-admits-that-its-usd100-a-month-transcription-service-was-originally-two-guys-surviving-on-pizza-and-typing-out-notes-by-hand/)
 * [2025-11-14, 23:39:36](https://news.ycombinator.com/item?id=45933497) - [No Leak, No Problem – Bypassing ASLR with a ROP Chain to Gain RCE](https://modzero.com/en/blog/no-leak-no-problem/)
 * [2025-11-14, 22:33:15](https://news.ycombinator.com/item?id=45932962) - [Go's Sweet 16](https://go.dev/blog/16years)
@@ -16,7 +18,6 @@
 * [2025-11-14, 16:51:03](https://news.ycombinator.com/item?id=45928709) - [Manganese is Lyme disease's double-edge sword](https://news.northwestern.edu/stories/2025/11/manganese-is-lyme-diseases-double-edge-sword)
 * [2025-11-14, 16:31:26](https://news.ycombinator.com/item?id=45928492) - ['No One Lives Forever' turns 25 and you still can't buy it legitimately](https://www.techdirt.com/2025/11/13/no-one-lives-forever-turns-25-you-still-cant-buy-it-legitimately/)
 * [2025-11-14, 14:46:27](https://news.ycombinator.com/item?id=45927210) - [Linear algebra explains why some words are effectively untranslatable](https://aethermug.com/posts/linear-algebra-explains-why-some-words-are-effectively-untranslatable)
-* [2025-11-14, 13:21:24](https://news.ycombinator.com/item?id=45926469) - [AGI fantasy is a blocker to actual engineering](https://www.tomwphillips.co.uk/2025/11/agi-fantasy-is-a-blocker-to-actual-engineering/)
 * [2025-11-14, 12:44:07](https://news.ycombinator.com/item?id=45926224) - [Winamp clone in Swift for macOS](https://github.com/mgreenwood1001/winamp)
 * [2025-11-14, 12:09:59](https://news.ycombinator.com/item?id=45926037) - [Magit manuals are available online again](https://github.com/magit/magit/issues/5472)
 * [2025-11-14, 02:27:20](https://news.ycombinator.com/item?id=45923188) - [HipKittens: Fast and furious AMD kernels](https://hazyresearch.stanford.edu/blog/2025-11-09-hk)
@@ -27,7 +28,6 @@
 * [2025-11-10, 13:11:49](https://news.ycombinator.com/item?id=45875618) - [Honda: 2 years of ml vs 1 month of prompting - heres what we learned](https://www.levs.fyi/blog/2-years-of-ml-vs-1-month-of-prompting/)
 * [2025-11-06, 02:29:02](https://news.ycombinator.com/item?id=45830718) - [I built a modular Java game engine without a GUI, designed to be AI-native](https://frontend-neutron-v2.vercel.app/)
 * [2025-11-05, 10:25:14](https://news.ycombinator.com/item?id=45821402) - [GEN-0 / Embodied Foundation Models That Scale with Physical Interaction](https://generalistai.com/blog/nov-04-2025-GEN-0)
-* [2025-11-05, 09:39:58](https://news.ycombinator.com/item?id=45821154) - [Incus-OS: Immutable Linux OS to run Incus as a hypervisor](https://linuxcontainers.org/incus-os/)
 * [2025-11-04, 12:02:24](https://news.ycombinator.com/item?id=45809972) - [Async Mutexes](https://matklad.github.io/2025/11/04/on-async-mutexes.html)
 * [2025-11-03, 10:40:11](https://news.ycombinator.com/item?id=45797689) - [Awk Technical Notes (2023)](https://maximullaris.com/awk_tech_notes.html)
 
