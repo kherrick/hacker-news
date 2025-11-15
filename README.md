@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-11-15, 23:19:50](https://news.ycombinator.com/item?id=45941389) - [Project Fucking Sucks](https://ficd.sh/blog/your-project-sucks/)
 * [2025-11-15, 22:16:33](https://news.ycombinator.com/item?id=45941025) - [libwifi: an 802.11 frame parsing and generation library written in C](https://libwifi.so/)
 * [2025-11-15, 21:22:57](https://news.ycombinator.com/item?id=45940706) - [AsciiMath](https://asciimath.org/)
 * [2025-11-15, 20:35:33](https://news.ycombinator.com/item?id=45940413) - [AMD continues to chip away at Intel's x86 market share](https://www.tomshardware.com/pc-components/cpus/amd-continues-to-chip-away-at-intels-x86-market-share-company-now-sells-over-25-percent-of-all-x86-chips-and-powers-33-percent-of-all-desktop-systems)
@@ -20,6 +19,7 @@
 * [2025-11-15, 07:38:18](https://news.ycombinator.com/item?id=45935729) - [Messing with scraper bots](https://herman.bearblog.dev/messing-with-bots/)
 * [2025-11-15, 06:37:50](https://news.ycombinator.com/item?id=45935503) - [TCP, the workhorse of the internet](https://cefboud.com/posts/tcp-deep-dive-internals/)
 * [2025-11-15, 05:44:43](https://news.ycombinator.com/item?id=45935342) - [Designing a Language (2017)](https://cs.lmu.edu/~ray/notes/languagedesignnotes/)
+* [2025-11-14, 22:33:15](https://news.ycombinator.com/item?id=45932962) - [Go's Sweet 16](https://go.dev/blog/16years)
 * [2025-11-11, 18:36:01](https://news.ycombinator.com/item?id=45891066) - [Show HN: Unflip – a puzzle game about XOR patterns of squares](https://unflipgame.com/)
 * [2025-11-11, 13:52:15](https://news.ycombinator.com/item?id=45887262) - [A new Google model is nearly perfect on automated handwriting recognition](https://generativehistory.substack.com/p/has-google-quietly-solved-two-of)
 * [2025-11-10, 04:46:59](https://news.ycombinator.com/item?id=45872519) - [The Nature of the Beast: Charles Le Brun's Human-Animal Hybrids (1806)](https://publicdomainreview.org/collection/le-brun-human-animal-hybrids/)
