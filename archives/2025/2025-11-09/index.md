@@ -70,3 +70,4 @@
 * [2025-11-09, 00:53:07](https://news.ycombinator.com/item?id=45861829) - [Court Judge Rules Flock Safety camera data is not exempt from PRA [WA State]](https://www.goskagit.com/news/local_news/court-denies-request-that-it-find-flock-safety-camera-data-is-exempt-from-public-records/article_f1edd028-d242-479c-ada8-f2dfca73a1b1.html)
 * [2025-11-09, 00:24:50](https://news.ycombinator.com/item?id=45861635) - [Judge denies request to exempt Flock footage from Public Records Act](https://www.heraldnet.com/news/judge-denies-request-to-exempt-flock-footage-from-public-records-act/)
 * [2025-11-09, 00:14:50](https://news.ycombinator.com/item?id=45861549) - [Characterizing the American Upper Paleolithic](https://www.science.org/doi/10.1126/sciadv.ady9545)
+* [2025-11-09, 00:03:47](https://news.ycombinator.com/item?id=45861463) - [Driving TFEL with RP2040: Offloading the CPU step by step (2021)](https://www.zephray.me/post/rpi_pico_driving_el/)
