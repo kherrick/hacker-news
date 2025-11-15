@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-11-15, 17:28:16](https://news.ycombinator.com/item?id=45939004) - [US spy satellites built by SpaceX send signals in the \"wrong direction\"](https://arstechnica.com/tech-policy/2025/11/us-spy-satellites-built-by-spacex-send-signals-in-the-wrong-direction/)
 * [2025-11-15, 17:00:38](https://news.ycombinator.com/item?id=45938785) - [Trellis AI (YC W24) Is Hiring: Streamline access to life-saving therapies](https://www.ycombinator.com/companies/trellis-ai/jobs/f4GWvH0-forward-deployed-engineer-full-time)
 * [2025-11-15, 16:53:30](https://news.ycombinator.com/item?id=45938723) - [Windhawk Windows classic theme mod for Windows 11](https://windhawk.net/mods/classic-theme-enable)
 * [2025-11-15, 16:49:49](https://news.ycombinator.com/item?id=45938698) - [The Mighty Simplex (2023)](https://galileo-unbound.blog/2023/05/03/the-mighty-simplex/)
@@ -10,6 +9,7 @@
 * [2025-11-15, 14:53:09](https://news.ycombinator.com/item?id=45937816) - [How to tolerate annoying things](https://psyche.co/guides/how-to-respond-to-annoying-things-with-greater-ease)
 * [2025-11-15, 10:30:52](https://news.ycombinator.com/item?id=45936460) - [Our investigation into the suspicious pressure on Archive.today](https://adguard-dns.io/en/blog/archive-today-adguard-dns-block-demand.html)
 * [2025-11-15, 09:44:15](https://news.ycombinator.com/item?id=45936262) - [One Handed Keyboard](https://github.com/htx-studio/One-Handed-Keyboard)
+* [2025-11-15, 07:48:23](https://news.ycombinator.com/item?id=45935763) - [Spec-Driven Development: The Waterfall Strikes Back](https://marmelab.com/blog/2025/11/12/spec-driven-development-waterfall-strikes-back.html)
 * [2025-11-15, 07:38:18](https://news.ycombinator.com/item?id=45935729) - [Messing with scraper bots](https://herman.bearblog.dev/messing-with-bots/)
 * [2025-11-15, 06:37:50](https://news.ycombinator.com/item?id=45935503) - [TCP, the workhorse of the internet](https://cefboud.com/posts/tcp-deep-dive-internals/)
 * [2025-11-15, 05:44:43](https://news.ycombinator.com/item?id=45935342) - [Designing a Language (2017)](https://cs.lmu.edu/~ray/notes/languagedesignnotes/)
