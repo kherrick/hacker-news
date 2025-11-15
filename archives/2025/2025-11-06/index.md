@@ -51,6 +51,7 @@
 * [2025-11-06, 13:26:37](https://news.ycombinator.com/item?id=45834980) - [IKEA launches new smart home range with 21 Matter-compatible products](https://www.ikea.com/global/en/newsroom/retail/the-new-smart-home-from-ikea-matter-compatible-251106/)
 * [2025-11-06, 13:21:43](https://news.ycombinator.com/item?id=45834932) - [Refund requests flood Microsoft after tricking users into AI upgrades](https://www.afr.com/technology/microsoft-offers-refunds-after-tricking-customers-into-ai-upgrades-20251105-p5n81k)
 * [2025-11-06, 13:15:19](https://news.ycombinator.com/item?id=45834873) - [Say Hi to Kit](https://www.firefox.com/en-US/kit/)
+* [2025-11-06, 12:08:45](https://news.ycombinator.com/item?id=45834332) - [Feature Extraction with KNN](https://davpinto.github.io/fastknn/articles/knn-extraction.html)
 * [2025-11-06, 12:05:12](https://news.ycombinator.com/item?id=45834303) - [AI Slop vs. OSS Security](https://devansh.bearblog.dev/ai-slop/)
 * [2025-11-06, 11:57:01](https://news.ycombinator.com/item?id=45834254) - [Eating Stinging Nettles](https://rachel.blog/2018/04/29/eating-stinging-nettles/)
 * [2025-11-06, 11:42:47](https://news.ycombinator.com/item?id=45834145) - [The Telegraph: How a secret dossier blew open anti-Israel bias at the BBC [video]](https://www.youtube.com/watch?v=qdIIHMAMEiM)
