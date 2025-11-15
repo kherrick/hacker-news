@@ -241,16 +241,6 @@
   ],
   [
     [
-      "2025-11-10, 14:42:35",
-      "https://news.ycombinator.com/item?id=45876487"
-    ],
-    [
-      "Raycore: GPU accelerated and modular ray intersections",
-      "https://makie.org/website/blogposts/raycore/"
-    ]
-  ],
-  [
-    [
       "2025-11-10, 13:11:49",
       "https://news.ycombinator.com/item?id=45875618"
     ],
@@ -277,6 +267,16 @@
     [
       "GEN-0 / Embodied Foundation Models That Scale with Physical Interaction",
       "https://generalistai.com/blog/nov-04-2025-GEN-0"
+    ]
+  ],
+  [
+    [
+      "2025-11-05, 09:39:58",
+      "https://news.ycombinator.com/item?id=45821154"
+    ],
+    [
+      "Incus-OS: Immutable Linux OS to run Incus as a hypervisor",
+      "https://linuxcontainers.org/incus-os/"
     ]
   ],
   [
