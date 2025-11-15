@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-11-15, 07:48:23](https://news.ycombinator.com/item?id=45935763) - [Spec-Driven Development: The Waterfall Strikes Back](https://marmelab.com/blog/2025/11/12/spec-driven-development-waterfall-strikes-back.html)
+* [2025-11-15, 07:38:18](https://news.ycombinator.com/item?id=45935729) - [Messing with Scraper Bots](https://herman.bearblog.dev/messing-with-bots/)
 * [2025-11-15, 06:37:50](https://news.ycombinator.com/item?id=45935503) - [The Internet Is Cool. Thank You, TCP](https://cefboud.com/posts/tcp-deep-dive-internals/)
 * [2025-11-15, 06:01:29](https://news.ycombinator.com/item?id=45935398) - [Ohm Editor](https://ohmjs.org/editor/)
 * [2025-11-15, 05:44:43](https://news.ycombinator.com/item?id=45935342) - [So, you want to design your own language? (2017)](https://cs.lmu.edu/~ray/notes/languagedesignnotes/)
@@ -12,7 +13,6 @@
 * [2025-11-14, 21:00:25](https://news.ycombinator.com/item?id=45932131) - [Mentra (YC W25) Is Hiring: Head of Growth to Make Smart Glasses Mainstream](https://www.ycombinator.com/companies/mentra/jobs/2YbQCRw-make-smart-glasses-mainstream-head-of-growth)
 * [2025-11-14, 19:54:58](https://news.ycombinator.com/item?id=45931403) - [All praise to the lunch ladies](https://bittersoutherner.com/issue-no-12/all-praise-to-the-lunch-ladies)
 * [2025-11-14, 19:04:23](https://news.ycombinator.com/item?id=45930598) - [Structured outputs on the Claude Developer Platform](https://www.claude.com/blog/structured-outputs-on-the-claude-developer-platform)
-* [2025-11-14, 18:42:55](https://news.ycombinator.com/item?id=45930284) - [Minisforum Stuffs Entire Arm Homelab in the MS-R1](https://www.jeffgeerling.com/blog/2025/minisforum-stuffs-entire-arm-homelab-ms-r1)
 * [2025-11-14, 18:35:22](https://news.ycombinator.com/item?id=45930151) - [AI World Clocks](https://clocks.brianmoore.com/)
 * [2025-11-14, 18:20:08](https://news.ycombinator.com/item?id=45929921) - [A race condition in Aurora RDS](https://hightouch.com/blog/uncovering-a-race-condition-in-aurora-rds)
 * [2025-11-14, 17:54:07](https://news.ycombinator.com/item?id=45929511) - [The disguised return of EU Chat Control](https://reclaimthenet.org/the-disguised-return-of-the-eus-private-message-scanning-plot)
