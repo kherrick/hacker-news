@@ -2,6 +2,7 @@
 
 * [2025-11-15, 06:37:50](https://news.ycombinator.com/item?id=45935503) - [The Internet Is Cool. Thank You, TCP](https://cefboud.com/posts/tcp-deep-dive-internals/)
 * [2025-11-15, 06:01:29](https://news.ycombinator.com/item?id=45935398) - [Ohm Editor](https://ohmjs.org/editor/)
+* [2025-11-15, 06:00:26](https://news.ycombinator.com/item?id=45935396) - [Adding Customizable Frame Contrast to KDE Plasma](https://akselmo.dev/posts/frame-contrast-settings/)
 * [2025-11-15, 05:44:43](https://news.ycombinator.com/item?id=45935342) - [So, you want to design your own language? (2017)](https://cs.lmu.edu/~ray/notes/languagedesignnotes/)
 * [2025-11-15, 03:58:01](https://news.ycombinator.com/item?id=45934940) - [I can't recommend Grafana anymore](https://henrikgerdes.me/blog/2025-11-grafana-mess/)
 * [2025-11-15, 03:50:04](https://news.ycombinator.com/item?id=45934912) - [Meet Reservoir – The World's Smartest Water Heater](https://www.reservoirhome.com/)
@@ -29,7 +30,6 @@
 * [2025-11-04, 16:58:00](https://news.ycombinator.com/item?id=45813186) - [Ucs-Detect](https://ucs-detect.readthedocs.io/intro.html)
 * [2025-11-04, 12:02:24](https://news.ycombinator.com/item?id=45809972) - [Async Mutexes](https://matklad.github.io/2025/11/04/on-async-mutexes.html)
 * [2025-11-04, 07:41:58](https://news.ycombinator.com/item?id=45808407) - [Unofficial Microsoft Teams client for Linux](https://github.com/IsmaelMartinez/teams-for-linux)
-* [2025-11-03, 10:40:11](https://news.ycombinator.com/item?id=45797689) - [Awk Technical Notes (2023)](https://maximullaris.com/awk_tech_notes.html)
 
 ## [Archives](archives/index.md)
 
