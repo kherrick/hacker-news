@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-11-15, 12:23:08](https://news.ycombinator.com/item?id=45936964) - [Kagi Bloopers – Search Results Gone Wrong](https://help.kagi.com/kagi/bloopers/)
 * [2025-11-15, 12:01:10](https://news.ycombinator.com/item?id=45936837) - [Activeloop (YC S18) Is Hiring MTS(Back End)and AI Search Engineer](https://careers.activeloop.ai/)
 * [2025-11-15, 10:30:52](https://news.ycombinator.com/item?id=45936460) - [Our investigation into the suspicious pressure on Archive.today](https://adguard-dns.io/en/blog/archive-today-adguard-dns-block-demand.html)
 * [2025-11-15, 09:44:15](https://news.ycombinator.com/item?id=45936262) - [One Handed Keyboard](https://github.com/htx-studio/One-Handed-Keyboard)
@@ -15,7 +16,6 @@
 * [2025-11-14, 19:04:23](https://news.ycombinator.com/item?id=45930598) - [Structured outputs on the Claude Developer Platform](https://www.claude.com/blog/structured-outputs-on-the-claude-developer-platform)
 * [2025-11-14, 18:35:22](https://news.ycombinator.com/item?id=45930151) - [AI World Clocks](https://clocks.brianmoore.com/)
 * [2025-11-14, 18:20:08](https://news.ycombinator.com/item?id=45929921) - [A race condition in Aurora RDS](https://hightouch.com/blog/uncovering-a-race-condition-in-aurora-rds)
-* [2025-11-14, 17:54:07](https://news.ycombinator.com/item?id=45929511) - [The disguised return of EU Chat Control](https://reclaimthenet.org/the-disguised-return-of-the-eus-private-message-scanning-plot)
 * [2025-11-14, 16:31:26](https://news.ycombinator.com/item?id=45928492) - ['No One Lives Forever' turns 25 and you still can't buy it legitimately](https://www.techdirt.com/2025/11/13/no-one-lives-forever-turns-25-you-still-cant-buy-it-legitimately/)
 * [2025-11-14, 12:44:07](https://news.ycombinator.com/item?id=45926224) - [Winamp clone in Swift for macOS](https://github.com/mgreenwood1001/winamp)
 * [2025-11-14, 06:39:13](https://news.ycombinator.com/item?id=45924483) - [Lawmakers want to ban VPNs and have no idea what they're doing](https://www.eff.org/deeplinks/2025/11/lawmakers-want-ban-vpns-and-they-have-no-idea-what-theyre-doing)
