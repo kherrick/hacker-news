@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-11-15, 09:44:15](https://news.ycombinator.com/item?id=45936262) - [One Handed Keyboard](https://github.com/htx-studio/One-Handed-Keyboard)
 * [2025-11-15, 07:48:23](https://news.ycombinator.com/item?id=45935763) - [Spec-Driven Development: The Waterfall Strikes Back](https://marmelab.com/blog/2025/11/12/spec-driven-development-waterfall-strikes-back.html)
 * [2025-11-15, 07:38:18](https://news.ycombinator.com/item?id=45935729) - [Messing with Scraper Bots](https://herman.bearblog.dev/messing-with-bots/)
 * [2025-11-15, 06:37:50](https://news.ycombinator.com/item?id=45935503) - [The Internet Is Cool. Thank You, TCP](https://cefboud.com/posts/tcp-deep-dive-internals/)
 * [2025-11-15, 06:01:29](https://news.ycombinator.com/item?id=45935398) - [Ohm Editor](https://ohmjs.org/editor/)
 * [2025-11-15, 05:44:43](https://news.ycombinator.com/item?id=45935342) - [So, you want to design your own language? (2017)](https://cs.lmu.edu/~ray/notes/languagedesignnotes/)
-* [2025-11-15, 03:50:04](https://news.ycombinator.com/item?id=45934912) - [Meet Reservoir – The World's Smartest Water Heater](https://www.reservoirhome.com/)
 * [2025-11-15, 02:06:16](https://news.ycombinator.com/item?id=45934416) - [AMD GPUs Go Brrr](https://hazyresearch.stanford.edu/blog/2025-11-09-amd-brr)
 * [2025-11-14, 23:39:36](https://news.ycombinator.com/item?id=45933497) - [No Leak, No Problem – Bypassing ASLR with a ROP Chain to Gain RCE](https://modzero.com/en/blog/no-leak-no-problem/)
 * [2025-11-14, 22:15:04](https://news.ycombinator.com/item?id=45932798) - [SSL Configuration Generator](https://ssl-config.mozilla.org/)
