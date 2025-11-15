@@ -26,7 +26,7 @@
 * [2025-11-07, 12:02:58](https://news.ycombinator.com/item?id=45845582) - [Show HN: I made a better DOM morphing algorithm](https://joel.drapper.me/p/morphlex/)
 * [2025-11-06, 20:14:24](https://news.ycombinator.com/item?id=45839834) - [Strap Rail](https://www.construction-physics.com/p/strap-rail)
 * [2025-11-06, 06:15:43](https://news.ycombinator.com/item?id=45832051) - [Boa: A standard-conforming embeddable JavaScript engine written in Rust](https://github.com/boa-dev/boa)
-* [2025-11-05, 16:59:08](https://news.ycombinator.com/item?id=45825121) - [Streaming AI agent desktops with gaming protocols](https://blog.helix.ml/p/technical-deep-dive-on-streaming)
+* [2025-11-05, 14:51:31](https://news.ycombinator.com/item?id=45823431) - [An Antivenom Cocktail, Made by a Llama](https://www.asimov.press/p/broad-antivenom)
 * [2025-11-05, 10:11:43](https://news.ycombinator.com/item?id=45821328) - [JVM exceptions are weird: a decompiler perspective](https://purplesyringa.moe/blog/jvm-exceptions-are-weird-a-decompiler-perspective/)
 * [2025-11-04, 21:41:38](https://news.ycombinator.com/item?id=45816208) - [History and use of the Estes AstroCam 110](https://www.dembrudders.com/history-and-use-of-the-estes-astrocam-110.html)
 * [2025-11-04, 07:41:58](https://news.ycombinator.com/item?id=45808407) - [Unofficial Microsoft Teams client for Linux](https://github.com/IsmaelMartinez/teams-for-linux)
