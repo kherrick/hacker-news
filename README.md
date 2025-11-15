@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-11-15, 18:22:27](https://news.ycombinator.com/item?id=45939414) - [Llmdeathcount.com](https://llmdeathcount.com/)
-* [2025-11-15, 18:02:39](https://news.ycombinator.com/item?id=45939257) - [Meta Says the 2,400 'Adult Movies' They Torrented Were for Personal Use](https://www.vice.com/en/article/meta-says-the-2400-adult-movies-they-torrented-were-for-personal-use-not-training-ai/)
+* [2025-11-15, 18:44:05](https://news.ycombinator.com/item?id=45939569) - [The computer poetry of J. M. Coetzee's early programming career](https://sites.utexas.edu/ransomcentermagazine/2017/06/28/the-computer-poetry-of-j-m-coetzees-early-programming-career/)
+* [2025-11-15, 18:40:55](https://news.ycombinator.com/item?id=45939550) - [Transgenerational Epigenetic Inheritance: the story of learned avoidance](https://elifesciences.org/articles/109427)
 * [2025-11-15, 17:04:23](https://news.ycombinator.com/item?id=45938815) - [I implemented an ISO 42001-certified AI Governance program in 6 months](https://beabytes.com/iso42001-certified-ai-governance/)
 * [2025-11-15, 17:00:38](https://news.ycombinator.com/item?id=45938785) - [Trellis AI (YC W24) Is Hiring: Streamline access to life-saving therapies](https://www.ycombinator.com/companies/trellis-ai/jobs/f4GWvH0-forward-deployed-engineer-full-time)
 * [2025-11-15, 16:53:30](https://news.ycombinator.com/item?id=45938723) - [Windhawk Windows classic theme mod for Windows 11](https://windhawk.net/mods/classic-theme-enable)
