@@ -24,10 +24,10 @@
 * [2025-11-11, 13:52:15](https://news.ycombinator.com/item?id=45887262) - [Has Google solved two of AI’s oldest problems?](https://generativehistory.substack.com/p/has-google-quietly-solved-two-of)
 * [2025-11-11, 09:48:05](https://news.ycombinator.com/item?id=45885677) - [Xqerl – Erlang XQuery 3.1 Processor](https://zadean.github.io/xqerl/)
 * [2025-11-10, 15:13:55](https://news.ycombinator.com/item?id=45876742) - [Show HN: Tiny Diffusion – A character-level text diffusion model from scratch](https://github.com/nathan-barry/tiny-diffusion)
-* [2025-11-10, 14:42:35](https://news.ycombinator.com/item?id=45876487) - [Raycore: GPU accelerated and modular ray intersections](https://makie.org/website/blogposts/raycore/)
 * [2025-11-10, 13:11:49](https://news.ycombinator.com/item?id=45875618) - [Honda: 2 years of ml vs 1 month of prompting - heres what we learned](https://www.levs.fyi/blog/2-years-of-ml-vs-1-month-of-prompting/)
 * [2025-11-06, 14:01:39](https://news.ycombinator.com/item?id=45835337) - [Hiring the Joker](https://quarter--mile.com/hiring-the-joker)
 * [2025-11-05, 10:25:14](https://news.ycombinator.com/item?id=45821402) - [GEN-0 / Embodied Foundation Models That Scale with Physical Interaction](https://generalistai.com/blog/nov-04-2025-GEN-0)
+* [2025-11-05, 09:39:58](https://news.ycombinator.com/item?id=45821154) - [Incus-OS: Immutable Linux OS to run Incus as a hypervisor](https://linuxcontainers.org/incus-os/)
 * [2025-11-04, 12:02:24](https://news.ycombinator.com/item?id=45809972) - [Async Mutexes](https://matklad.github.io/2025/11/04/on-async-mutexes.html)
 * [2025-11-03, 10:40:11](https://news.ycombinator.com/item?id=45797689) - [Awk Technical Notes (2023)](https://maximullaris.com/awk_tech_notes.html)
 
