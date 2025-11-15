@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-11-15, 06:01:29](https://news.ycombinator.com/item?id=45935398) - [Ohm Editor](https://ohmjs.org/editor/)
-* [2025-11-15, 05:44:43](https://news.ycombinator.com/item?id=45935342) - [So, you want to design your own language?](https://cs.lmu.edu/~ray/notes/languagedesignnotes/)
+* [2025-11-15, 05:44:43](https://news.ycombinator.com/item?id=45935342) - [So, you want to design your own language? (2017)](https://cs.lmu.edu/~ray/notes/languagedesignnotes/)
 * [2025-11-15, 03:58:01](https://news.ycombinator.com/item?id=45934940) - [I can't recommend Grafana anymore](https://henrikgerdes.me/blog/2025-11-grafana-mess/)
 * [2025-11-15, 03:50:04](https://news.ycombinator.com/item?id=45934912) - [Meet Reservoir – The World's Smartest Water Heater](https://www.reservoirhome.com/)
 * [2025-11-15, 02:17:31](https://news.ycombinator.com/item?id=45934481) - [A structural regular expression engine for Rust](https://www.sminez.dev/match-it-again-sam/)
