@@ -201,16 +201,6 @@
   ],
   [
     [
-      "2025-11-11, 09:53:27",
-      "https://news.ycombinator.com/item?id=45885699"
-    ],
-    [
-      "Blending SQL and Python with Sqlorm",
-      "https://hyperflask.dev/blog/2025/11/11/blending-sql-and-python-with-sqlorm/"
-    ]
-  ],
-  [
-    [
       "2025-11-10, 15:13:55",
       "https://news.ycombinator.com/item?id=45876742"
     ],
@@ -297,6 +287,16 @@
     [
       "Unofficial Microsoft Teams client for Linux",
       "https://github.com/IsmaelMartinez/teams-for-linux"
+    ]
+  ],
+  [
+    [
+      "2025-11-02, 22:17:15",
+      "https://news.ycombinator.com/item?id=45793920"
+    ],
+    [
+      "Can text be made to sound more than just its words? (2022)",
+      "https://arxiv.org/abs/2202.10631"
     ]
   ]
 ]
