@@ -19,6 +19,7 @@
 * [2025-11-04, 22:23:36](https://news.ycombinator.com/item?id=45816542) - [Sarah Mason, inventor of the continuity script, first script supervisor](https://wfpp.columbia.edu/pioneer/ccp-sarah-y-mason/)
 * [2025-11-04, 21:48:26](https://news.ycombinator.com/item?id=45816260) - [US gives local police a face-scanning app similar to one used by ICE agents](https://arstechnica.com/tech-policy/2025/11/us-gives-local-police-a-face-scanning-app-similar-to-one-used-by-ice-agents/)
 * [2025-11-04, 21:42:29](https://news.ycombinator.com/item?id=45816217) - [CPUs and GPUs to Become More Expensive After TSMC Price Hike in 2026](https://www.guru3d.com/story/cpus-and-gpus-to-become-more-expensive-after-tsmc-price-hike-in-2026/)
+* [2025-11-04, 21:41:38](https://news.ycombinator.com/item?id=45816208) - [History and use of the Estes AstroCam 110](https://www.dembrudders.com/history-and-use-of-the-estes-astrocam-110.html)
 * [2025-11-04, 21:39:56](https://news.ycombinator.com/item?id=45816195) - [74% of CEOs worry AI failures could cost them their jobs](https://cfo.economictimes.indiatimes.com/news/74-of-ceos-worry-ai-failures-could-cost-them-their-jobs-report/118923383)
 * [2025-11-04, 21:39:32](https://news.ycombinator.com/item?id=45816191) - [BlackRock's Larry Fink: \"Tokenization\", Digital IDs, & Social Credit](https://thewinepress.substack.com/p/tokenization-blackrocks-larry-fink)
 * [2025-11-04, 21:29:51](https://news.ycombinator.com/item?id=45816109) - [Narco-sub carrying 1.7 tonnes of cocaine seized in Atlantic](https://www.bbc.com/news/articles/cm274lmg7m1o)
