@@ -15,7 +15,7 @@
 * [2025-11-15, 18:40:55](https://news.ycombinator.com/item?id=45939550) - [Transgenerational Epigenetic Inheritance: the story of learned avoidance](https://elifesciences.org/articles/109427)
 * [2025-11-15, 18:24:58](https://news.ycombinator.com/item?id=45939431) - [Things that aren't doing the thing](https://strangestloop.io/essays/things-that-arent-doing-the-thing)
 * [2025-11-15, 17:00:38](https://news.ycombinator.com/item?id=45938785) - [Trellis AI (YC W24) Is Hiring: Streamline access to life-saving therapies](https://www.ycombinator.com/companies/trellis-ai/jobs/f4GWvH0-forward-deployed-engineer-full-time)
-* [2025-11-15, 16:16:42](https://news.ycombinator.com/item?id=45938427) - [Mag Wealth](https://saul.pw/mag/wealth/)
+* [2025-11-15, 16:16:42](https://news.ycombinator.com/item?id=45938427) - [Mag Wealth (2024)](https://saul.pw/mag/wealth/)
 * [2025-11-15, 15:25:08](https://news.ycombinator.com/item?id=45938027) - [Weighting an average to minimize variance](https://www.johndcook.com/blog/2025/11/12/minimum-variance/)
 * [2025-11-15, 15:19:20](https://news.ycombinator.com/item?id=45937989) - [Linux on the Fujitsu Lifebook U729](https://borretti.me/article/linux-on-the-fujitsu-lifebook-u729)
 * [2025-11-15, 10:30:52](https://news.ycombinator.com/item?id=45936460) - [Our investigation into the suspicious pressure on Archive.today](https://adguard-dns.io/en/blog/archive-today-adguard-dns-block-demand.html)
