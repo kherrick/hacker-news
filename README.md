@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-11-16, 00:56:31](https://news.ycombinator.com/item?id=45941835) - [IDEmacs: A Visual Studio Code clone for Emacs](https://codeberg.org/IDEmacs/IDEmacs)
-* [2025-11-16, 00:04:29](https://news.ycombinator.com/item?id=45941613) - [Solving Project Euler #45](https://loriculus.org/blog/euler-45/)
+* [2025-11-16, 00:04:29](https://news.ycombinator.com/item?id=45941613) - [Solving Project Euler: Problem 45](https://loriculus.org/blog/euler-45/)
 * [2025-11-16, 00:01:25](https://news.ycombinator.com/item?id=45941596) - [AirPods libreated from Apple's ecosystem](https://github.com/kavishdevar/librepods)
 * [2025-11-15, 23:55:19](https://news.ycombinator.com/item?id=45941563) - [When UPS charged me a $684 tariff on $355 of vintage computer parts](http://oldvcr.blogspot.com/2025/11/when-ups-charged-me-684-tariff-on-355.html)
 * [2025-11-15, 23:31:39](https://news.ycombinator.com/item?id=45941443) - [The inconceivable types of Rust: How to make self-borrows safe (2024)](https://blog.polybdenum.com/2024/06/07/the-inconceivable-types-of-rust-how-to-make-self-borrows-safe.html)
@@ -24,11 +24,11 @@
 * [2025-11-15, 06:37:50](https://news.ycombinator.com/item?id=45935503) - [TCP, the workhorse of the internet](https://cefboud.com/posts/tcp-deep-dive-internals/)
 * [2025-11-11, 18:36:01](https://news.ycombinator.com/item?id=45891066) - [Show HN: Unflip – a puzzle game about XOR patterns of squares](https://unflipgame.com/)
 * [2025-11-11, 10:09:45](https://news.ycombinator.com/item?id=45885773) - [Show HN: High-Performance .NET Bindings for the Vello Sparse Strips CPU Renderer](https://github.com/wieslawsoltes/SparseStrips)
-* [2025-11-08, 12:45:26](https://news.ycombinator.com/item?id=45856287) - [Itiner-e: A high-resolution dataset of roads of the Roman Empire](https://www.nature.com/articles/s41597-025-06140-z)
-* [2025-11-07, 12:02:58](https://news.ycombinator.com/item?id=45845582) - [Show HN: I made a better DOM morphing algorithm](https://joel.drapper.me/p/morphlex/)
+* [2025-11-07, 12:02:58](https://news.ycombinator.com/item?id=45845582) - [I made a better DOM morphing algorithm](https://joel.drapper.me/p/morphlex/)
 * [2025-11-06, 22:09:29](https://news.ycombinator.com/item?id=45841095) - [When did people favor composition over inheritance?](https://www.sicpers.info/2025/11/when-did-people-favor-composition-over-inheritance/)
 * [2025-11-06, 12:08:45](https://news.ycombinator.com/item?id=45834332) - [Feature Extraction with KNN](https://davpinto.github.io/fastknn/articles/knn-extraction.html)
 * [2025-11-06, 06:15:43](https://news.ycombinator.com/item?id=45832051) - [Boa: A standard-conforming embeddable JavaScript engine written in Rust](https://github.com/boa-dev/boa)
+* [2025-11-05, 21:14:12](https://news.ycombinator.com/item?id=45828106) - [Computing Across America (1983-1985)](https://microship.com/winnebiko/)
 * [2025-11-05, 10:11:43](https://news.ycombinator.com/item?id=45821328) - [JVM exceptions are weird: a decompiler perspective](https://purplesyringa.moe/blog/jvm-exceptions-are-weird-a-decompiler-perspective/)
 
 ## [Archives](archives/index.md)
