@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-11-16, 19:45:36",
+      "https://news.ycombinator.com/item?id=45947822"
+    ],
+    [
+      "Linux mode setting, from the comfort of OCaml",
+      "https://roscidus.com/blog/blog/2025/11/16/libdrm-ocaml/"
+    ]
+  ],
+  [
+    [
       "2025-11-16, 19:44:27",
       "https://news.ycombinator.com/item?id=45947810"
     ],
@@ -11,12 +21,32 @@
   ],
   [
     [
+      "2025-11-16, 19:39:52",
+      "https://news.ycombinator.com/item?id=45947770"
+    ],
+    [
+      "Tracking users with favicons, even in incognito mode",
+      "https://github.com/jonasstrehle/supercookie"
+    ]
+  ],
+  [
+    [
       "2025-11-16, 19:21:13",
       "https://news.ycombinator.com/item?id=45947639"
     ],
     [
       "The fate of \"small\" open source",
       "https://nolanlawson.com/2025/11/16/the-fate-of-small-open-source/"
+    ]
+  ],
+  [
+    [
+      "2025-11-16, 18:58:10",
+      "https://news.ycombinator.com/item?id=45947444"
+    ],
+    [
+      "What if you don't need MCP at all?",
+      "https://mariozechner.at/posts/2025-11-02-what-if-you-dont-need-mcp/"
     ]
   ],
   [
@@ -131,16 +161,6 @@
   ],
   [
     [
-      "2025-11-16, 13:44:20",
-      "https://news.ycombinator.com/item?id=45945101"
-    ],
-    [
-      "A new documentary about the history of forced psychiatric treatment in Spain",
-      "https://www.bbc.co.uk/news/articles/cr43vx0rrwvo"
-    ]
-  ],
-  [
-    [
       "2025-11-16, 13:25:32",
       "https://news.ycombinator.com/item?id=45944969"
     ],
@@ -231,16 +251,6 @@
   ],
   [
     [
-      "2025-11-15, 10:30:52",
-      "https://news.ycombinator.com/item?id=45936460"
-    ],
-    [
-      "Our investigation into the suspicious pressure on Archive.today",
-      "https://adguard-dns.io/en/blog/archive-today-adguard-dns-block-demand.html"
-    ]
-  ],
-  [
-    [
       "2025-11-14, 01:42:01",
       "https://news.ycombinator.com/item?id=45922907"
     ],
@@ -257,16 +267,6 @@
     [
       "Waiting for SQL:202y: Group by All",
       "http://peter.eisentraut.org/blog/2025/11/11/waiting-for-sql-202y-group-by-all"
-    ]
-  ],
-  [
-    [
-      "2025-11-10, 15:27:42",
-      "https://news.ycombinator.com/item?id=45876884"
-    ],
-    [
-      "Run Nix Based Environments in Kubernetes",
-      "https://flox.dev/kubernetes/"
     ]
   ],
   [
