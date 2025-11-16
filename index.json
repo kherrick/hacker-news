@@ -1,11 +1,21 @@
 [
   [
     [
+      "2025-11-16, 20:46:30",
+      "https://news.ycombinator.com/item?id=45948254"
+    ],
+    [
+      "The Pragmatic Programmer: 20th Anniversary Edition",
+      "https://www.ahalbert.com/technology/2023/12/19/the_pragmatic_programmer.html"
+    ]
+  ],
+  [
+    [
       "2025-11-16, 20:18:10",
       "https://news.ycombinator.com/item?id=45948058"
     ],
     [
-      "I have recordings proving Coinbase knew about breach 4 months before disclosure",
+      "I have recordings proving Coinbase knew about breach months before disclosure",
       "https://jonathanclark.com/posts/coinbase-breach-timeline.html"
     ]
   ],
@@ -187,16 +197,6 @@
     [
       "Garbage Collection Is Useful",
       "https://dubroy.com/blog/garbage-collection-is-useful/"
-    ]
-  ],
-  [
-    [
-      "2025-11-16, 13:23:22",
-      "https://news.ycombinator.com/item?id=45944951"
-    ],
-    [
-      "PgFirstAid: PostgreSQL function for improving stability and performance",
-      "https://github.com/randoneering/pgFirstAid"
     ]
   ],
   [
