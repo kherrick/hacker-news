@@ -161,16 +161,6 @@
   ],
   [
     [
-      "2025-11-15, 15:25:08",
-      "https://news.ycombinator.com/item?id=45938027"
-    ],
-    [
-      "Weighting an average to minimize variance",
-      "https://www.johndcook.com/blog/2025/11/12/minimum-variance/"
-    ]
-  ],
-  [
-    [
       "2025-11-15, 15:19:20",
       "https://news.ycombinator.com/item?id=45937989"
     ],
@@ -277,6 +267,16 @@
     [
       "JVM exceptions are weird: a decompiler perspective",
       "https://purplesyringa.moe/blog/jvm-exceptions-are-weird-a-decompiler-perspective/"
+    ]
+  ],
+  [
+    [
+      "2025-11-04, 10:03:40",
+      "https://news.ycombinator.com/item?id=45809225"
+    ],
+    [
+      "Writing a Data Science Book with Quarto (Using Jupyter Notebooks or Pandoc)",
+      "https://blog.stephenturner.us/p/quarto-books"
     ]
   ],
   [
