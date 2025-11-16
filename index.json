@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-11-16, 03:14:19",
+      "https://news.ycombinator.com/item?id=45942462"
+    ],
+    [
+      "$5 PlanetScale is live",
+      "https://planetscale.com/blog/5-dollar-planetscale-is-here"
+    ]
+  ],
+  [
+    [
       "2025-11-16, 00:56:31",
       "https://news.ycombinator.com/item?id=45941835"
     ],
@@ -141,16 +151,6 @@
   ],
   [
     [
-      "2025-11-15, 17:00:38",
-      "https://news.ycombinator.com/item?id=45938785"
-    ],
-    [
-      "Trellis AI (YC W24) Is Hiring: Streamline access to life-saving therapies",
-      "https://www.ycombinator.com/companies/trellis-ai/jobs/f4GWvH0-forward-deployed-engineer-full-time"
-    ]
-  ],
-  [
-    [
       "2025-11-15, 16:16:42",
       "https://news.ycombinator.com/item?id=45938427"
     ],
@@ -207,16 +207,6 @@
     [
       "TCP, the workhorse of the internet",
       "https://cefboud.com/posts/tcp-deep-dive-internals/"
-    ]
-  ],
-  [
-    [
-      "2025-11-11, 22:47:28",
-      "https://news.ycombinator.com/item?id=45893952"
-    ],
-    [
-      "How the Spoils of an Infamous Heist Traveled the World",
-      "https://nautil.us/how-the-spoils-of-an-infamous-heist-traveled-the-world-1247307/"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "JVM exceptions are weird: a decompiler perspective",
       "https://purplesyringa.moe/blog/jvm-exceptions-are-weird-a-decompiler-perspective/"
+    ]
+  ],
+  [
+    [
+      "2025-11-03, 12:46:23",
+      "https://news.ycombinator.com/item?id=45798457"
+    ],
+    [
+      "Aunt Mary's Storybook",
+      "https://cjtinc.org/projects/amsb/"
     ]
   ]
 ]
