@@ -26,8 +26,8 @@
 * [2025-11-15, 10:30:52](https://news.ycombinator.com/item?id=45936460) - [Our investigation into the suspicious pressure on Archive.today](https://adguard-dns.io/en/blog/archive-today-adguard-dns-block-demand.html)
 * [2025-11-13, 03:50:11](https://news.ycombinator.com/item?id=45910388) - [In Praise of Useless Robots](https://thereader.mitpress.mit.edu/in-praise-of-useless-robots/)
 * [2025-11-10, 15:27:42](https://news.ycombinator.com/item?id=45876884) - [Run Nix Based Environments in Kubernetes](https://flox.dev/kubernetes/)
+* [2025-11-09, 20:04:51](https://news.ycombinator.com/item?id=45868660) - [Alchemy](https://joshcollinsworth.com/blog/alchemy)
 * [2025-11-06, 22:09:29](https://news.ycombinator.com/item?id=45841095) - [When did people favor composition over inheritance?](https://www.sicpers.info/2025/11/when-did-people-favor-composition-over-inheritance/)
-* [2025-11-06, 06:15:43](https://news.ycombinator.com/item?id=45832051) - [Boa: A standard-conforming embeddable JavaScript engine written in Rust](https://github.com/boa-dev/boa)
 * [2025-11-04, 21:12:57](https://news.ycombinator.com/item?id=45815948) - [Measuring the doppler shift of WWVB during a flight](https://greatscottgadgets.com/2025/10-31-receiving-wwvb-with-hackrf-pro/)
 * [2025-11-03, 04:07:54](https://news.ycombinator.com/item?id=45795778) - [Writing a DOS Clone in 2019](https://medium.com/@andrewimm/writing-a-dos-clone-in-2019-70eac97ec3e1)
 
