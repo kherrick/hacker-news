@@ -71,6 +71,16 @@
   ],
   [
     [
+      "2025-11-16, 04:02:26",
+      "https://news.ycombinator.com/item?id=45942649"
+    ],
+    [
+      "Is our death from a hydrogen sulfide event inevitable in climate warming?",
+      "https://www.psu.edu/news/research/story/global-warming-led-climatic-hydrogen-sulfide-and-permian-extinction"
+    ]
+  ],
+  [
+    [
       "2025-11-16, 03:29:48",
       "https://news.ycombinator.com/item?id=45942518"
     ],
@@ -135,7 +145,7 @@
       "https://news.ycombinator.com/item?id=45941025"
     ],
     [
-      "libwifi: an 802.11 frame parsing and generation library written in C",
+      "libwifi: an 802.11 frame parsing and generation library written in C (2023)",
       "https://libwifi.so/"
     ]
   ],
@@ -207,16 +217,6 @@
     [
       "Our investigation into the suspicious pressure on Archive.today",
       "https://adguard-dns.io/en/blog/archive-today-adguard-dns-block-demand.html"
-    ]
-  ],
-  [
-    [
-      "2025-11-15, 08:42:33",
-      "https://news.ycombinator.com/item?id=45935970"
-    ],
-    [
-      "EyesOff: How I built a screen contact detection model",
-      "https://ym2132.github.io/building_EyesOff_part2_model_training"
     ]
   ],
   [
