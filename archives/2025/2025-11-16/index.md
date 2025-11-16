@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-11-16](index.md)
 
+* [2025-11-16, 12:25:01](https://news.ycombinator.com/item?id=45944595) - [Why are you (still) using OpenBSD?](https://www.tumfatig.net/2025/why-are-you-still-using-openbsd/)
+* [2025-11-16, 11:57:41](https://news.ycombinator.com/item?id=45944428) - [Is Perplexity the first AI unicorn to fail?](https://medium.com/@anwarzaid76/is-perplexity-the-first-ai-unicorn-to-fail-eb0e827b5e7e)
+* [2025-11-16, 11:41:10](https://news.ycombinator.com/item?id=45944337) - [Brimstone: ES2025 JavaScript engine written in Rust](https://github.com/Hans-Halverson/brimstone)
 * [2025-11-16, 11:32:39](https://news.ycombinator.com/item?id=45944296) - [Anthropic's report smells a lot like bullshit](https://djnn.sh/posts/anthropic-s-paper-smells-like-bullshit/)
 * [2025-11-16, 10:38:41](https://news.ycombinator.com/item?id=45944056) - [UK's first small nuclear power station to be built in north Wales](https://www.bbc.com/news/articles/c051y3d7myzo)
 * [2025-11-16, 10:21:07](https://news.ycombinator.com/item?id=45943992) - [Why I Don't Need a Steam Machine](https://brainbaking.com/post/2025/11/why-i-dont-need-a-steam-machine/)
