@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-11-16, 20:18:10](https://news.ycombinator.com/item?id=45948058) - [I have recordings proving Coinbase knew about breach 4 months before disclosure](https://jonathanclark.com/posts/coinbase-breach-timeline.html)
+* [2025-11-16, 20:46:30](https://news.ycombinator.com/item?id=45948254) - [The Pragmatic Programmer: 20th Anniversary Edition](https://www.ahalbert.com/technology/2023/12/19/the_pragmatic_programmer.html)
+* [2025-11-16, 20:18:10](https://news.ycombinator.com/item?id=45948058) - [I have recordings proving Coinbase knew about breach months before disclosure](https://jonathanclark.com/posts/coinbase-breach-timeline.html)
 * [2025-11-16, 19:46:28](https://news.ycombinator.com/item?id=45947827) - [Adding an imaginary unit to a finite field](https://www.johndcook.com/blog/2025/11/16/finite-field-i/)
 * [2025-11-16, 19:45:36](https://news.ycombinator.com/item?id=45947822) - [Linux mode setting, from the comfort of OCaml](https://roscidus.com/blog/blog/2025/11/16/libdrm-ocaml/)
 * [2025-11-16, 19:44:27](https://news.ycombinator.com/item?id=45947810) - [62 chapter open-source Zig book](https://www.zigbook.net)
@@ -19,7 +20,6 @@
 * [2025-11-16, 15:00:24](https://news.ycombinator.com/item?id=45945587) - [Heretic: Automatic censorship removal for language models](https://github.com/p-e-w/heretic)
 * [2025-11-16, 13:59:19](https://news.ycombinator.com/item?id=45945202) - [Running the \"Reflections on Trusting Trust\" Compiler (2023)](https://research.swtch.com/nih)
 * [2025-11-16, 13:25:32](https://news.ycombinator.com/item?id=45944969) - [Garbage Collection Is Useful](https://dubroy.com/blog/garbage-collection-is-useful/)
-* [2025-11-16, 13:23:22](https://news.ycombinator.com/item?id=45944951) - [PgFirstAid: PostgreSQL function for improving stability and performance](https://github.com/randoneering/pgFirstAid)
 * [2025-11-16, 13:15:50](https://news.ycombinator.com/item?id=45944906) - [Vintage Large Language Models](https://owainevans.github.io/talk-transcript.html)
 * [2025-11-16, 11:41:10](https://news.ycombinator.com/item?id=45944337) - [Brimstone: ES2025 JavaScript engine written in Rust](https://github.com/Hans-Halverson/brimstone)
 * [2025-11-16, 11:32:39](https://news.ycombinator.com/item?id=45944296) - [Anthropic’s paper smells like bullshit](https://djnn.sh/posts/anthropic-s-paper-smells-like-bullshit/)
