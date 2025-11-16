@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-11-16, 10:21:07](https://news.ycombinator.com/item?id=45943992) - [Why I Don't Need a Steam Machine](https://brainbaking.com/post/2025/11/why-i-dont-need-a-steam-machine/)
+* [2025-11-16, 09:29:21](https://news.ycombinator.com/item?id=45943802) - [An exposed .git folder let us dox a phishing campaign](https://news.ycombinator.com/item?id=45943802)
 * [2025-11-16, 06:55:50](https://news.ycombinator.com/item?id=45943292) - [Ubiquiti Flex Mini 2.5G Review Ubiquiti Does a Cheap 5-Port 2.5GbE Switch](https://www.servethehome.com/ubiquiti-flex-mini-2-5g-review-ubiquiti-does-a-cheap-5-port-2-5gbe-switch/)
 * [2025-11-16, 06:51:25](https://news.ycombinator.com/item?id=45943279) - [Bypassing the Branch Predictor](https://nicula.xyz/2025/03/10/bypassing-the-branch-predictor.html)
 * [2025-11-16, 03:29:48](https://news.ycombinator.com/item?id=45942518) - [Hyundai Paywalls Brake Pads replacement on Ioniq 5 N](https://www.thedrive.com/news/replacing-brake-pads-on-a-hyundai-ioniq-5-n-requires-a-professional-mechanics-login)
@@ -13,10 +15,8 @@
 * [2025-11-15, 21:18:55](https://news.ycombinator.com/item?id=45940681) - [Report: Tim Cook could step down as Apple CEO 'as soon as next year'](https://9to5mac.com/2025/11/14/tim-cook-step-down-as-apple-ceo-as-soon-as-next-year-report/)
 * [2025-11-15, 19:29:32](https://news.ycombinator.com/item?id=45939938) - [Archimedes – A Python toolkit for hardware engineering](https://pinetreelabs.github.io/archimedes/blog/2025/introduction.html)
 * [2025-11-15, 19:10:31](https://news.ycombinator.com/item?id=45939798) - [Nevada Governor's office covered up Boring Co safety violations](https://fortune.com/2025/11/12/elon-musk-boring-company-tunnels-injuries-osha-citations-fines-rescinded-nevada-governor-office-documents-altered/)
-* [2025-11-15, 18:44:05](https://news.ycombinator.com/item?id=45939569) - [The computer poetry of J. M. Coetzee's early programming career (2017)](https://sites.utexas.edu/ransomcentermagazine/2017/06/28/the-computer-poetry-of-j-m-coetzees-early-programming-career/)
 * [2025-11-15, 18:40:55](https://news.ycombinator.com/item?id=45939550) - [Transgenerational Epigenetic Inheritance: the story of learned avoidance](https://elifesciences.org/articles/109427)
 * [2025-11-15, 18:24:58](https://news.ycombinator.com/item?id=45939431) - [Things that aren't doing the thing](https://strangestloop.io/essays/things-that-arent-doing-the-thing)
-* [2025-11-15, 15:25:08](https://news.ycombinator.com/item?id=45938027) - [Weighting an average to minimize variance](https://www.johndcook.com/blog/2025/11/12/minimum-variance/)
 * [2025-11-15, 15:19:20](https://news.ycombinator.com/item?id=45937989) - [Linux on the Fujitsu Lifebook U729](https://borretti.me/article/linux-on-the-fujitsu-lifebook-u729)
 * [2025-11-15, 10:30:52](https://news.ycombinator.com/item?id=45936460) - [Our investigation into the suspicious pressure on Archive.today](https://adguard-dns.io/en/blog/archive-today-adguard-dns-block-demand.html)
 * [2025-11-15, 08:42:33](https://news.ycombinator.com/item?id=45935970) - [EyesOff: How I built a screen contact detection model](https://ym2132.github.io/building_EyesOff_part2_model_training)
