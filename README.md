@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-11-16, 03:06:36](https://news.ycombinator.com/item?id=45942427) - [Whatever Happened to String Theory?](https://gizmodo.com/whatever-happened-to-string-theory-2000686064)
 * [2025-11-16, 00:56:31](https://news.ycombinator.com/item?id=45941835) - [IDEmacs: A Visual Studio Code clone for Emacs](https://codeberg.org/IDEmacs/IDEmacs)
 * [2025-11-16, 00:01:25](https://news.ycombinator.com/item?id=45941596) - [AirPods libreated from Apple's ecosystem](https://github.com/kavishdevar/librepods)
 * [2025-11-15, 23:55:19](https://news.ycombinator.com/item?id=45941563) - [When UPS charged me a $684 tariff on $355 of vintage computer parts](http://oldvcr.blogspot.com/2025/11/when-ups-charged-me-684-tariff-on-355.html)
@@ -23,7 +24,6 @@
 * [2025-11-15, 07:38:18](https://news.ycombinator.com/item?id=45935729) - [Messing with scraper bots](https://herman.bearblog.dev/messing-with-bots/)
 * [2025-11-15, 06:37:50](https://news.ycombinator.com/item?id=45935503) - [TCP, the workhorse of the internet](https://cefboud.com/posts/tcp-deep-dive-internals/)
 * [2025-11-11, 18:36:01](https://news.ycombinator.com/item?id=45891066) - [Show HN: Unflip – a puzzle game about XOR patterns of squares](https://unflipgame.com/)
-* [2025-11-11, 13:52:15](https://news.ycombinator.com/item?id=45887262) - [A new Google model is nearly perfect on automated handwriting recognition](https://generativehistory.substack.com/p/has-google-quietly-solved-two-of)
 * [2025-11-07, 12:02:58](https://news.ycombinator.com/item?id=45845582) - [I made a better DOM morphing algorithm](https://joel.drapper.me/p/morphlex/)
 * [2025-11-06, 22:09:29](https://news.ycombinator.com/item?id=45841095) - [When did people favor composition over inheritance?](https://www.sicpers.info/2025/11/when-did-people-favor-composition-over-inheritance/)
 * [2025-11-06, 06:15:43](https://news.ycombinator.com/item?id=45832051) - [Boa: A standard-conforming embeddable JavaScript engine written in Rust](https://github.com/boa-dev/boa)
