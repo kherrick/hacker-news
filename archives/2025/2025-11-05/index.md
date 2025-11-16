@@ -34,6 +34,7 @@
 * [2025-11-05, 16:32:43](https://news.ycombinator.com/item?id=45824864) - [Why aren't smart people happier?](https://www.theseedsofscience.pub/p/why-arent-smart-people-happier)
 * [2025-11-05, 16:18:01](https://news.ycombinator.com/item?id=45824658) - [Norway reviews cybersecurity after remote-access feature found in Chinese buses](https://scandasia.com/norway-reviews-cybersecurity-after-hidden-remote-access-feature-found-in-chinese-buses/)
 * [2025-11-05, 16:02:57](https://news.ycombinator.com/item?id=45824417) - [We Love Horror Stories](https://nautil.us/why-we-love-horror-stories-1245342/)
+* [2025-11-05, 15:58:51](https://news.ycombinator.com/item?id=45824350) - [Why export templates would be useful in C++ (2010)](http://warp.povusers.org/programming/export_templates.html)
 * [2025-11-05, 15:52:27](https://news.ycombinator.com/item?id=45824243) - [Open Source Implementation of Apple's Private Compute Cloud](https://github.com/openpcc/openpcc)
 * [2025-11-05, 15:24:35](https://news.ycombinator.com/item?id=45823831) - [Ruby and Its Neighbors: Smalltalk](https://noelrappin.com/blog/2025/11/ruby-and-its-neighbors-smalltalk/)
 * [2025-11-05, 14:52:30](https://news.ycombinator.com/item?id=45823449) - [Global stock markets fall sharply over AI bubble fears](https://www.theguardian.com/business/2025/nov/05/global-stock-markets-fall-sharply-over-ai-bubble-fears)
