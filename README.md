@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-11-16, 15:50:54](https://news.ycombinator.com/item?id=45945960) - [Dissecting Flock Safety: The Cameras Tracking You Are a Security Nightmare [video]](https://www.youtube.com/watch?v=uB0gr7Fh6lY)
 * [2025-11-16, 15:26:24](https://news.ycombinator.com/item?id=45945784) - [FPGA Based IBM-PC-XT](https://bit-hack.net/2025/11/10/fpga-based-ibm-pc-xt/)
 * [2025-11-16, 15:22:16](https://news.ycombinator.com/item?id=45945750) - [De Bruijn Numerals](https://text.marvinborner.de/2023-08-22-22.html)
 * [2025-11-16, 15:00:24](https://news.ycombinator.com/item?id=45945587) - [Heretic: Automatic censorship removal for language models](https://github.com/p-e-w/heretic)
@@ -7,7 +8,6 @@
 * [2025-11-16, 13:59:05](https://news.ycombinator.com/item?id=45945200) - [Production-Grade Container Deployment with Podman Quadlets – Larvitz Blog](https://blog.hofstede.it/production-grade-container-deployment-with-podman-quadlets/index.html)
 * [2025-11-16, 13:57:03](https://news.ycombinator.com/item?id=45945188) - [Iran begins cloud seeding operations as drought bites](https://www.arabnews.com/node/2622812/middle-east)
 * [2025-11-16, 13:45:35](https://news.ycombinator.com/item?id=45945113) - [The politics of purely client-side apps](https://pfrazee.leaflet.pub/3m5hwua4sh22v)
-* [2025-11-16, 13:44:20](https://news.ycombinator.com/item?id=45945101) - [My mum was a 17-year-old free spirit so she was locked up and put in a coma](https://www.bbc.co.uk/news/articles/cr43vx0rrwvo)
 * [2025-11-16, 13:25:32](https://news.ycombinator.com/item?id=45944969) - [Garbage Collection Is Useful](https://dubroy.com/blog/garbage-collection-is-useful/)
 * [2025-11-16, 13:23:22](https://news.ycombinator.com/item?id=45944951) - [PgFirstAid: PostgreSQL function for improving stability and performance](https://github.com/randoneering/pgFirstAid)
 * [2025-11-16, 13:20:41](https://news.ycombinator.com/item?id=45944941) - [A twelve-year-old on the failed promise of educational technology](https://micahblachman.beehiiv.com/p/where-educational-technology-fails)

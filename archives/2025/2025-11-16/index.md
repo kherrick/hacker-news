@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-11-16](index.md)
 
+* [2025-11-16, 15:50:54](https://news.ycombinator.com/item?id=45945960) - [Dissecting Flock Safety: The Cameras Tracking You Are a Security Nightmare [video]](https://www.youtube.com/watch?v=uB0gr7Fh6lY)
 * [2025-11-16, 15:26:24](https://news.ycombinator.com/item?id=45945784) - [FPGA Based IBM-PC-XT](https://bit-hack.net/2025/11/10/fpga-based-ibm-pc-xt/)
 * [2025-11-16, 15:22:16](https://news.ycombinator.com/item?id=45945750) - [De Bruijn Numerals](https://text.marvinborner.de/2023-08-22-22.html)
 * [2025-11-16, 15:00:24](https://news.ycombinator.com/item?id=45945587) - [Heretic: Automatic censorship removal for language models](https://github.com/p-e-w/heretic)
