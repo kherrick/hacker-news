@@ -101,16 +101,6 @@
   ],
   [
     [
-      "2025-11-16, 13:13:12",
-      "https://news.ycombinator.com/item?id=45944881"
-    ],
-    [
-      "MCP: Model Context Pitfalls in an agentic world",
-      "https://hiddenlayer.com/innovation-hub/mcp-model-context-pitfalls-in-an-agentic-world/"
-    ]
-  ],
-  [
-    [
       "2025-11-16, 13:12:03",
       "https://news.ycombinator.com/item?id=45944870"
     ],
@@ -277,6 +267,16 @@
     [
       "When did people favor composition over inheritance?",
       "https://www.sicpers.info/2025/11/when-did-people-favor-composition-over-inheritance/"
+    ]
+  ],
+  [
+    [
+      "2025-11-06, 06:15:43",
+      "https://news.ycombinator.com/item?id=45832051"
+    ],
+    [
+      "Boa: A standard-conforming embeddable JavaScript engine written in Rust",
+      "https://github.com/boa-dev/boa"
     ]
   ],
   [
