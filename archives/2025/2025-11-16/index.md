@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-11-16](index.md)
 
+* [2025-11-16, 03:29:48](https://news.ycombinator.com/item?id=45942518) - [Hyundai Paywalls Brake Pads replacement on Ioniq 5 N](https://www.thedrive.com/news/replacing-brake-pads-on-a-hyundai-ioniq-5-n-requires-a-professional-mechanics-login)
 * [2025-11-16, 03:14:19](https://news.ycombinator.com/item?id=45942462) - [$5 PlanetScale is live](https://planetscale.com/blog/5-dollar-planetscale-is-here)
 * [2025-11-16, 03:06:36](https://news.ycombinator.com/item?id=45942427) - [Whatever Happened to String Theory?](https://gizmodo.com/whatever-happened-to-string-theory-2000686064)
 * [2025-11-16, 00:56:31](https://news.ycombinator.com/item?id=45941835) - [IDEmacs: A Visual Studio Code clone for Emacs](https://codeberg.org/IDEmacs/IDEmacs)
