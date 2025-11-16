@@ -111,16 +111,6 @@
   ],
   [
     [
-      "2025-11-16, 09:29:21",
-      "https://news.ycombinator.com/item?id=45943802"
-    ],
-    [
-      "An exposed .git folder let us dox a phishing campaign",
-      "https://news.ycombinator.com/item?id=45943802"
-    ]
-  ],
-  [
-    [
       "2025-11-16, 06:51:25",
       "https://news.ycombinator.com/item?id=45943279"
     ],
@@ -237,6 +227,16 @@
     [
       "In Praise of Useless Robots",
       "https://thereader.mitpress.mit.edu/in-praise-of-useless-robots/"
+    ]
+  ],
+  [
+    [
+      "2025-11-12, 14:51:50",
+      "https://news.ycombinator.com/item?id=45900947"
+    ],
+    [
+      "Denial of Fuzzing: Rust in the Windows Kernel",
+      "https://research.checkpoint.com/2025/denial-of-fuzzing-rust-in-the-windows-kernel/"
     ]
   ],
   [
