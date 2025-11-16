@@ -1,6 +1,66 @@
 [
   [
     [
+      "2025-11-16, 00:56:31",
+      "https://news.ycombinator.com/item?id=45941835"
+    ],
+    [
+      "IDEmacs: A Visual Studio Code clone for Emacs",
+      "https://codeberg.org/IDEmacs/IDEmacs"
+    ]
+  ],
+  [
+    [
+      "2025-11-16, 00:04:29",
+      "https://news.ycombinator.com/item?id=45941613"
+    ],
+    [
+      "Solving Project Euler #45",
+      "https://loriculus.org/blog/euler-45/"
+    ]
+  ],
+  [
+    [
+      "2025-11-16, 00:01:25",
+      "https://news.ycombinator.com/item?id=45941596"
+    ],
+    [
+      "AirPods libreated from Apple's ecosystem",
+      "https://github.com/kavishdevar/librepods"
+    ]
+  ],
+  [
+    [
+      "2025-11-15, 23:55:19",
+      "https://news.ycombinator.com/item?id=45941563"
+    ],
+    [
+      "When UPS charged me a $684 tariff on $355 of vintage computer parts",
+      "http://oldvcr.blogspot.com/2025/11/when-ups-charged-me-684-tariff-on-355.html"
+    ]
+  ],
+  [
+    [
+      "2025-11-15, 23:31:39",
+      "https://news.ycombinator.com/item?id=45941443"
+    ],
+    [
+      "The inconceivable types of Rust: How to make self-borrows safe (2024)",
+      "https://blog.polybdenum.com/2024/06/07/the-inconceivable-types-of-rust-how-to-make-self-borrows-safe.html"
+    ]
+  ],
+  [
+    [
+      "2025-11-15, 23:30:04",
+      "https://news.ycombinator.com/item?id=45941441"
+    ],
+    [
+      "Blocking LLM crawlers without JavaScript",
+      "https://www.owl.is/blogg/blocking-crawlers-without-javascript/"
+    ]
+  ],
+  [
+    [
       "2025-11-15, 22:16:33",
       "https://news.ycombinator.com/item?id=45941025"
     ],
@@ -21,22 +81,22 @@
   ],
   [
     [
+      "2025-11-15, 21:18:55",
+      "https://news.ycombinator.com/item?id=45940681"
+    ],
+    [
+      "Report: Tim Cook could step down as Apple CEO 'as soon as next year'",
+      "https://9to5mac.com/2025/11/14/tim-cook-step-down-as-apple-ceo-as-soon-as-next-year-report/"
+    ]
+  ],
+  [
+    [
       "2025-11-15, 20:35:33",
       "https://news.ycombinator.com/item?id=45940413"
     ],
     [
       "AMD continues to chip away at Intel's x86 market share",
       "https://www.tomshardware.com/pc-components/cpus/amd-continues-to-chip-away-at-intels-x86-market-share-company-now-sells-over-25-percent-of-all-x86-chips-and-powers-33-percent-of-all-desktop-systems"
-    ]
-  ],
-  [
-    [
-      "2025-11-15, 19:43:39",
-      "https://news.ycombinator.com/item?id=45940030"
-    ],
-    [
-      "Caffeinated coffee consumption or abstinence to reduce atrial fibrillation",
-      "https://jamanetwork.com/journals/jama/fullarticle/2841253"
     ]
   ],
   [
@@ -91,32 +151,12 @@
   ],
   [
     [
-      "2025-11-15, 18:03:37",
-      "https://news.ycombinator.com/item?id=45939266"
-    ],
-    [
-      "FBI Director Waived Polygraph Security Screening for Three Senior Staff",
-      "https://www.propublica.org/article/fbi-kash-patel-dan-bongino-waived-polygraph"
-    ]
-  ],
-  [
-    [
       "2025-11-15, 17:00:38",
       "https://news.ycombinator.com/item?id=45938785"
     ],
     [
       "Trellis AI (YC W24) Is Hiring: Streamline access to life-saving therapies",
       "https://www.ycombinator.com/companies/trellis-ai/jobs/f4GWvH0-forward-deployed-engineer-full-time"
-    ]
-  ],
-  [
-    [
-      "2025-11-15, 16:53:30",
-      "https://news.ycombinator.com/item?id=45938723"
-    ],
-    [
-      "Windhawk Windows classic theme mod for Windows 11",
-      "https://windhawk.net/mods/classic-theme-enable"
     ]
   ],
   [
@@ -151,12 +191,12 @@
   ],
   [
     [
-      "2025-11-15, 09:44:15",
-      "https://news.ycombinator.com/item?id=45936262"
+      "2025-11-15, 08:42:33",
+      "https://news.ycombinator.com/item?id=45935970"
     ],
     [
-      "One Handed Keyboard",
-      "https://github.com/htx-studio/One-Handed-Keyboard"
+      "EyesOff: How I built a screen contact detection model",
+      "https://ym2132.github.io/building_EyesOff_part2_model_training"
     ]
   ],
   [
@@ -181,16 +221,6 @@
   ],
   [
     [
-      "2025-11-14, 22:33:15",
-      "https://news.ycombinator.com/item?id=45932962"
-    ],
-    [
-      "Go's Sweet 16",
-      "https://go.dev/blog/16years"
-    ]
-  ],
-  [
-    [
       "2025-11-11, 18:36:01",
       "https://news.ycombinator.com/item?id=45891066"
     ],
@@ -201,22 +231,22 @@
   ],
   [
     [
-      "2025-11-11, 13:52:15",
-      "https://news.ycombinator.com/item?id=45887262"
+      "2025-11-11, 10:09:45",
+      "https://news.ycombinator.com/item?id=45885773"
     ],
     [
-      "A new Google model is nearly perfect on automated handwriting recognition",
-      "https://generativehistory.substack.com/p/has-google-quietly-solved-two-of"
+      "Show HN: High-Performance .NET Bindings for the Vello Sparse Strips CPU Renderer",
+      "https://github.com/wieslawsoltes/SparseStrips"
     ]
   ],
   [
     [
-      "2025-11-10, 04:46:59",
-      "https://news.ycombinator.com/item?id=45872519"
+      "2025-11-08, 12:45:26",
+      "https://news.ycombinator.com/item?id=45856287"
     ],
     [
-      "The Nature of the Beast: Charles Le Brun's Human-Animal Hybrids (1806)",
-      "https://publicdomainreview.org/collection/le-brun-human-animal-hybrids/"
+      "Itiner-e: A high-resolution dataset of roads of the Roman Empire",
+      "https://www.nature.com/articles/s41597-025-06140-z"
     ]
   ],
   [
@@ -237,16 +267,6 @@
     [
       "When did people favor composition over inheritance?",
       "https://www.sicpers.info/2025/11/when-did-people-favor-composition-over-inheritance/"
-    ]
-  ],
-  [
-    [
-      "2025-11-06, 20:14:24",
-      "https://news.ycombinator.com/item?id=45839834"
-    ],
-    [
-      "Strap Rail",
-      "https://www.construction-physics.com/p/strap-rail"
     ]
   ],
   [
@@ -277,26 +297,6 @@
     [
       "JVM exceptions are weird: a decompiler perspective",
       "https://purplesyringa.moe/blog/jvm-exceptions-are-weird-a-decompiler-perspective/"
-    ]
-  ],
-  [
-    [
-      "2025-11-04, 21:41:38",
-      "https://news.ycombinator.com/item?id=45816208"
-    ],
-    [
-      "History and use of the Estes AstroCam 110",
-      "https://www.dembrudders.com/history-and-use-of-the-estes-astrocam-110.html"
-    ]
-  ],
-  [
-    [
-      "2025-11-04, 07:41:58",
-      "https://news.ycombinator.com/item?id=45808407"
-    ],
-    [
-      "Unofficial Microsoft Teams client for Linux",
-      "https://github.com/IsmaelMartinez/teams-for-linux"
     ]
   ]
 ]
