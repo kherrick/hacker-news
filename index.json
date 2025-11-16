@@ -15,7 +15,7 @@
       "https://news.ycombinator.com/item?id=45948254"
     ],
     [
-      "The Pragmatic Programmer: 20th Anniversary Edition",
+      "The Pragmatic Programmer: 20th Anniversary Edition (2023)",
       "https://www.ahalbert.com/technology/2023/12/19/the_pragmatic_programmer.html"
     ]
   ],
@@ -141,16 +141,6 @@
   ],
   [
     [
-      "2025-11-16, 15:50:54",
-      "https://news.ycombinator.com/item?id=45945960"
-    ],
-    [
-      "Dissecting Flock Safety: The Cameras Tracking You Are a Security Nightmare [video]",
-      "https://www.youtube.com/watch?v=uB0gr7Fh6lY"
-    ]
-  ],
-  [
-    [
       "2025-11-16, 15:26:24",
       "https://news.ycombinator.com/item?id=45945784"
     ],
@@ -267,6 +257,16 @@
     [
       "Waiting for SQL:202y: Group by All",
       "http://peter.eisentraut.org/blog/2025/11/11/waiting-for-sql-202y-group-by-all"
+    ]
+  ],
+  [
+    [
+      "2025-11-05, 21:57:49",
+      "https://news.ycombinator.com/item?id=45828627"
+    ],
+    [
+      "Why Bcrypt Can Be Unsafe for Password Hashing?",
+      "https://blog.enamya.me/posts/bcrypt-limitation"
     ]
   ],
   [
