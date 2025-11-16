@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-11-16, 17:20:48",
+      "https://news.ycombinator.com/item?id=45946707"
+    ],
+    [
+      "Owning a Cat Could Double Your Risk of Schizophrenia, Research Suggests",
+      "https://www.sciencealert.com/owning-a-cat-could-double-your-risk-of-schizophrenia-research-suggests"
+    ]
+  ],
+  [
+    [
       "2025-11-16, 16:56:47",
       "https://news.ycombinator.com/item?id=45946498"
     ],
@@ -55,7 +65,7 @@
       "https://news.ycombinator.com/item?id=45945202"
     ],
     [
-      "Running the \"Reflections on Trusting Trust\" Compiler",
+      "Running the \"Reflections on Trusting Trust\" Compiler (2023)",
       "https://research.swtch.com/nih"
     ]
   ],
@@ -191,16 +201,6 @@
   ],
   [
     [
-      "2025-11-15, 23:30:04",
-      "https://news.ycombinator.com/item?id=45941441"
-    ],
-    [
-      "Blocking LLM crawlers without JavaScript",
-      "https://www.owl.is/blogg/blocking-crawlers-without-javascript/"
-    ]
-  ],
-  [
-    [
       "2025-11-15, 22:16:33",
       "https://news.ycombinator.com/item?id=45941025"
     ],
@@ -251,16 +251,6 @@
   ],
   [
     [
-      "2025-11-06, 06:15:43",
-      "https://news.ycombinator.com/item?id=45832051"
-    ],
-    [
-      "Boa: A standard-conforming embeddable JavaScript engine written in Rust",
-      "https://github.com/boa-dev/boa"
-    ]
-  ],
-  [
-    [
       "2025-11-05, 17:24:18",
       "https://news.ycombinator.com/item?id=45825413"
     ],
@@ -287,6 +277,16 @@
     [
       "Interactive Spectrum Chart",
       "http://www.potatofi.com/posts/spectrum-viewer/"
+    ]
+  ],
+  [
+    [
+      "2025-11-03, 16:38:58",
+      "https://news.ycombinator.com/item?id=45801004"
+    ],
+    [
+      "Diamonds and Lasers: Thermal Management for Chips",
+      "https://spectrum.ieee.org/thermal-management-chips"
     ]
   ],
   [
