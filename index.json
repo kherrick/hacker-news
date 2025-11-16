@@ -1,12 +1,42 @@
 [
   [
     [
+      "2025-11-16, 15:22:16",
+      "https://news.ycombinator.com/item?id=45945750"
+    ],
+    [
+      "De Bruijn Numerals",
+      "https://text.marvinborner.de/2023-08-22-22.html"
+    ]
+  ],
+  [
+    [
+      "2025-11-16, 15:00:24",
+      "https://news.ycombinator.com/item?id=45945587"
+    ],
+    [
+      "Heretic: Automatic censorship removal for language models",
+      "https://github.com/p-e-w/heretic"
+    ]
+  ],
+  [
+    [
       "2025-11-16, 13:59:19",
       "https://news.ycombinator.com/item?id=45945202"
     ],
     [
       "Running the \"Reflections on Trusting Trust\" Compiler",
       "https://research.swtch.com/nih"
+    ]
+  ],
+  [
+    [
+      "2025-11-16, 13:59:05",
+      "https://news.ycombinator.com/item?id=45945200"
+    ],
+    [
+      "Production-Grade Container Deployment with Podman Quadlets – Larvitz Blog",
+      "https://blog.hofstede.it/production-grade-container-deployment-with-podman-quadlets/index.html"
     ]
   ],
   [
@@ -51,12 +81,32 @@
   ],
   [
     [
+      "2025-11-16, 13:23:22",
+      "https://news.ycombinator.com/item?id=45944951"
+    ],
+    [
+      "PgFirstAid: PostgreSQL function for improving stability and performance",
+      "https://github.com/randoneering/pgFirstAid"
+    ]
+  ],
+  [
+    [
       "2025-11-16, 13:15:50",
       "https://news.ycombinator.com/item?id=45944906"
     ],
     [
       "Vintage Large Language Models",
       "https://owainevans.github.io/talk-transcript.html"
+    ]
+  ],
+  [
+    [
+      "2025-11-16, 13:13:12",
+      "https://news.ycombinator.com/item?id=45944881"
+    ],
+    [
+      "MCP: Model Context Pitfalls in an agentic world",
+      "https://hiddenlayer.com/innovation-hub/mcp-model-context-pitfalls-in-an-agentic-world/"
     ]
   ],
   [
@@ -111,16 +161,6 @@
   ],
   [
     [
-      "2025-11-16, 10:21:07",
-      "https://news.ycombinator.com/item?id=45943992"
-    ],
-    [
-      "I don’t need a Steam Machine",
-      "https://brainbaking.com/post/2025/11/why-i-dont-need-a-steam-machine/"
-    ]
-  ],
-  [
-    [
       "2025-11-16, 10:14:25",
       "https://news.ycombinator.com/item?id=45943979"
     ],
@@ -161,16 +201,6 @@
   ],
   [
     [
-      "2025-11-15, 23:31:39",
-      "https://news.ycombinator.com/item?id=45941443"
-    ],
-    [
-      "The inconceivable types of Rust: How to make self-borrows safe (2024)",
-      "https://blog.polybdenum.com/2024/06/07/the-inconceivable-types-of-rust-how-to-make-self-borrows-safe.html"
-    ]
-  ],
-  [
-    [
       "2025-11-15, 23:30:04",
       "https://news.ycombinator.com/item?id=45941441"
     ],
@@ -201,16 +231,6 @@
   ],
   [
     [
-      "2025-11-15, 15:19:20",
-      "https://news.ycombinator.com/item?id=45937989"
-    ],
-    [
-      "Linux on the Fujitsu Lifebook U729",
-      "https://borretti.me/article/linux-on-the-fujitsu-lifebook-u729"
-    ]
-  ],
-  [
-    [
       "2025-11-15, 10:30:52",
       "https://news.ycombinator.com/item?id=45936460"
     ],
@@ -231,32 +251,12 @@
   ],
   [
     [
-      "2025-11-12, 14:51:50",
-      "https://news.ycombinator.com/item?id=45900947"
-    ],
-    [
-      "Denial of Fuzzing: Rust in the Windows Kernel",
-      "https://research.checkpoint.com/2025/denial-of-fuzzing-rust-in-the-windows-kernel/"
-    ]
-  ],
-  [
-    [
       "2025-11-10, 15:27:42",
       "https://news.ycombinator.com/item?id=45876884"
     ],
     [
       "Run Nix Based Environments in Kubernetes",
       "https://flox.dev/kubernetes/"
-    ]
-  ],
-  [
-    [
-      "2025-11-09, 20:04:51",
-      "https://news.ycombinator.com/item?id=45868660"
-    ],
-    [
-      "Alchemy",
-      "https://joshcollinsworth.com/blog/alchemy"
     ]
   ],
   [
