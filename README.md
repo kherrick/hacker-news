@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-11-16, 06:55:50](https://news.ycombinator.com/item?id=45943292) - [Ubiquiti Flex Mini 2.5G Review Ubiquiti Does a Cheap 5-Port 2.5GbE Switch](https://www.servethehome.com/ubiquiti-flex-mini-2-5g-review-ubiquiti-does-a-cheap-5-port-2-5gbe-switch/)
+* [2025-11-16, 06:51:25](https://news.ycombinator.com/item?id=45943279) - [Bypassing the Branch Predictor](https://nicula.xyz/2025/03/10/bypassing-the-branch-predictor.html)
 * [2025-11-16, 03:29:48](https://news.ycombinator.com/item?id=45942518) - [Hyundai Paywalls Brake Pads replacement on Ioniq 5 N](https://www.thedrive.com/news/replacing-brake-pads-on-a-hyundai-ioniq-5-n-requires-a-professional-mechanics-login)
 * [2025-11-16, 00:56:31](https://news.ycombinator.com/item?id=45941835) - [IDEmacs: A Visual Studio Code clone for Emacs](https://codeberg.org/IDEmacs/IDEmacs)
 * [2025-11-16, 00:01:25](https://news.ycombinator.com/item?id=45941596) - [AirPods libreated from Apple's ecosystem](https://github.com/kavishdevar/librepods)
@@ -20,7 +21,6 @@
 * [2025-11-15, 15:19:20](https://news.ycombinator.com/item?id=45937989) - [Linux on the Fujitsu Lifebook U729](https://borretti.me/article/linux-on-the-fujitsu-lifebook-u729)
 * [2025-11-15, 10:30:52](https://news.ycombinator.com/item?id=45936460) - [Our investigation into the suspicious pressure on Archive.today](https://adguard-dns.io/en/blog/archive-today-adguard-dns-block-demand.html)
 * [2025-11-15, 08:42:33](https://news.ycombinator.com/item?id=45935970) - [EyesOff: How I built a screen contact detection model](https://ym2132.github.io/building_EyesOff_part2_model_training)
-* [2025-11-15, 07:38:18](https://news.ycombinator.com/item?id=45935729) - [Messing with scraper bots](https://herman.bearblog.dev/messing-with-bots/)
 * [2025-11-15, 06:37:50](https://news.ycombinator.com/item?id=45935503) - [TCP, the workhorse of the internet](https://cefboud.com/posts/tcp-deep-dive-internals/)
 * [2025-11-11, 18:36:01](https://news.ycombinator.com/item?id=45891066) - [Show HN: Unflip – a puzzle game about XOR patterns of squares](https://unflipgame.com/)
 * [2025-11-06, 22:09:29](https://news.ycombinator.com/item?id=45841095) - [When did people favor composition over inheritance?](https://www.sicpers.info/2025/11/when-did-people-favor-composition-over-inheritance/)
