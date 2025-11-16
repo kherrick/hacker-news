@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-11-16, 15:26:24",
+      "https://news.ycombinator.com/item?id=45945784"
+    ],
+    [
+      "FPGA Based IBM-PC-XT",
+      "https://bit-hack.net/2025/11/10/fpga-based-ibm-pc-xt/"
+    ]
+  ],
+  [
+    [
       "2025-11-16, 15:22:16",
       "https://news.ycombinator.com/item?id=45945750"
     ],
@@ -61,16 +71,6 @@
   ],
   [
     [
-      "2025-11-16, 13:44:20",
-      "https://news.ycombinator.com/item?id=45945101"
-    ],
-    [
-      "My mum was a 17-year-old free spirit so she was locked up and put in a coma",
-      "https://www.bbc.co.uk/news/articles/cr43vx0rrwvo"
-    ]
-  ],
-  [
-    [
       "2025-11-16, 13:25:32",
       "https://news.ycombinator.com/item?id=45944969"
     ],
@@ -87,6 +87,16 @@
     [
       "PgFirstAid: PostgreSQL function for improving stability and performance",
       "https://github.com/randoneering/pgFirstAid"
+    ]
+  ],
+  [
+    [
+      "2025-11-16, 13:20:41",
+      "https://news.ycombinator.com/item?id=45944941"
+    ],
+    [
+      "A twelve-year-old on the failed promise of educational technology",
+      "https://micahblachman.beehiiv.com/p/where-educational-technology-fails"
     ]
   ],
   [
@@ -161,16 +171,6 @@
   ],
   [
     [
-      "2025-11-16, 06:51:25",
-      "https://news.ycombinator.com/item?id=45943279"
-    ],
-    [
-      "Bypassing the Branch Predictor",
-      "https://nicula.xyz/2025/03/10/bypassing-the-branch-predictor.html"
-    ]
-  ],
-  [
-    [
       "2025-11-16, 00:56:31",
       "https://news.ycombinator.com/item?id=45941835"
     ],
@@ -231,16 +231,6 @@
   ],
   [
     [
-      "2025-11-13, 03:50:11",
-      "https://news.ycombinator.com/item?id=45910388"
-    ],
-    [
-      "In Praise of Useless Robots",
-      "https://thereader.mitpress.mit.edu/in-praise-of-useless-robots/"
-    ]
-  ],
-  [
-    [
       "2025-11-10, 15:27:42",
       "https://news.ycombinator.com/item?id=45876884"
     ],
@@ -287,6 +277,16 @@
     [
       "Measuring the doppler shift of WWVB during a flight",
       "https://greatscottgadgets.com/2025/10-31-receiving-wwvb-with-hackrf-pro/"
+    ]
+  ],
+  [
+    [
+      "2025-11-04, 21:04:44",
+      "https://news.ycombinator.com/item?id=45815874"
+    ],
+    [
+      "Interactive Spectrum Chart",
+      "http://www.potatofi.com/posts/spectrum-viewer/"
     ]
   ],
   [
