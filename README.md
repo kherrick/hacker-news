@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-11-16, 18:56:31](https://news.ycombinator.com/item?id=45947434) - [AI is killing privacy. We can't let that happen](https://www.fastcompany.com/91435189/ai-privacy-openai-tracking-apps)
+* [2025-11-16, 18:51:13](https://news.ycombinator.com/item?id=45947394) - [How to Scale Distributed Product Teams from 10 to 100](https://intelligentfuturetech.com/blog/scaling-distributed-product-teams-2025/)
 * [2025-11-16, 16:56:47](https://news.ycombinator.com/item?id=45946498) - [Three kinds of AI products work](https://www.seangoedecke.com/ai-products/)
 * [2025-11-16, 15:50:54](https://news.ycombinator.com/item?id=45945960) - [Dissecting Flock Safety: The Cameras Tracking You Are a Security Nightmare [video]](https://www.youtube.com/watch?v=uB0gr7Fh6lY)
 * [2025-11-16, 15:26:24](https://news.ycombinator.com/item?id=45945784) - [FPGA Based IBM-PC-XT](https://bit-hack.net/2025/11/10/fpga-based-ibm-pc-xt/)
@@ -22,7 +23,6 @@
 * [2025-11-16, 00:56:31](https://news.ycombinator.com/item?id=45941835) - [IDEmacs: A Visual Studio Code clone for Emacs](https://codeberg.org/IDEmacs/IDEmacs)
 * [2025-11-16, 00:01:25](https://news.ycombinator.com/item?id=45941596) - [AirPods libreated from Apple's ecosystem](https://github.com/kavishdevar/librepods)
 * [2025-11-15, 18:24:58](https://news.ycombinator.com/item?id=45939431) - [Things that aren't doing the thing](https://strangestloop.io/essays/things-that-arent-doing-the-thing)
-* [2025-11-15, 10:30:52](https://news.ycombinator.com/item?id=45936460) - [Our investigation into the suspicious pressure on Archive.today](https://adguard-dns.io/en/blog/archive-today-adguard-dns-block-demand.html)
 * [2025-11-14, 01:42:01](https://news.ycombinator.com/item?id=45922907) - [Holes (1970) [pdf]](https://rintintin.colorado.edu/~vancecd/phil375/Lewis1.pdf)
 * [2025-11-11, 09:08:42](https://news.ycombinator.com/item?id=45885410) - [Waiting for SQL:202y: Group by All](http://peter.eisentraut.org/blog/2025/11/11/waiting-for-sql-202y-group-by-all)
 * [2025-11-10, 15:27:42](https://news.ycombinator.com/item?id=45876884) - [Run Nix Based Environments in Kubernetes](https://flox.dev/kubernetes/)
