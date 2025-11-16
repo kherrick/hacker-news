@@ -108,6 +108,7 @@
 * [2025-11-03, 06:39:13](https://news.ycombinator.com/item?id=45796421) - [First recording of a dying human brain shows waves similar to memory flashbacks](https://louisville.edu/medicine/news/first-ever-recording-of-a-dying-human-brain-shows-waves-similar-to-memory-flashbacks)
 * [2025-11-03, 06:25:23](https://news.ycombinator.com/item?id=45796373) - ['No idea who he is', says Trump after pardoning crypto tycoon](https://www.bbc.com/news/articles/cn7ek63e5xyo)
 * [2025-11-03, 06:21:20](https://news.ycombinator.com/item?id=45796351) - [ECL Runs Maxima in a Browser](https://mailman3.common-lisp.net/hyperkitty/list/ecl-devel@common-lisp.net/thread/T64S5EMVV6WHDPKWZ3AQHEPO3EQE2K5M/)
+* [2025-11-03, 04:07:54](https://news.ycombinator.com/item?id=45795778) - [Writing a DOS Clone in 2019](https://medium.com/@andrewimm/writing-a-dos-clone-in-2019-70eac97ec3e1)
 * [2025-11-03, 03:13:46](https://news.ycombinator.com/item?id=45795511) - [Oxy is Cloudflare's Rust-based next generation proxy framework](https://blog.cloudflare.com/introducing-oxy/)
 * [2025-11-03, 02:48:45](https://news.ycombinator.com/item?id=45795413) - [The Great Decoupling of Labor and Capital](https://www.mbi-deepdives.com/the-great-decoupling-of-labor-and-capital/)
 * [2025-11-03, 01:59:07](https://news.ycombinator.com/item?id=45795186) - [Syllabi – Open-source agentic AI with tools, RAG, and multi-channel deploy](https://www.syllabi-ai.com/)

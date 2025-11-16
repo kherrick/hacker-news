@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-11-16, 03:29:48](https://news.ycombinator.com/item?id=45942518) - [Hyundai Paywalls Brake Pads replacement on Ioniq 5 N](https://www.thedrive.com/news/replacing-brake-pads-on-a-hyundai-ioniq-5-n-requires-a-professional-mechanics-login)
-* [2025-11-16, 03:14:19](https://news.ycombinator.com/item?id=45942462) - [$5 PlanetScale is live](https://planetscale.com/blog/5-dollar-planetscale-is-here)
 * [2025-11-16, 00:56:31](https://news.ycombinator.com/item?id=45941835) - [IDEmacs: A Visual Studio Code clone for Emacs](https://codeberg.org/IDEmacs/IDEmacs)
 * [2025-11-16, 00:01:25](https://news.ycombinator.com/item?id=45941596) - [AirPods libreated from Apple's ecosystem](https://github.com/kavishdevar/librepods)
 * [2025-11-15, 23:55:19](https://news.ycombinator.com/item?id=45941563) - [When UPS charged me a $684 tariff on $355 of vintage computer parts](http://oldvcr.blogspot.com/2025/11/when-ups-charged-me-684-tariff-on-355.html)
@@ -30,6 +29,7 @@
 * [2025-11-05, 15:58:51](https://news.ycombinator.com/item?id=45824350) - [Why export templates would be useful in C++ (2010)](http://warp.povusers.org/programming/export_templates.html)
 * [2025-11-05, 10:11:43](https://news.ycombinator.com/item?id=45821328) - [JVM exceptions are weird: a decompiler perspective](https://purplesyringa.moe/blog/jvm-exceptions-are-weird-a-decompiler-perspective/)
 * [2025-11-03, 12:46:23](https://news.ycombinator.com/item?id=45798457) - [Aunt Mary's Storybook](https://cjtinc.org/projects/amsb/)
+* [2025-11-03, 04:07:54](https://news.ycombinator.com/item?id=45795778) - [Writing a DOS Clone in 2019](https://medium.com/@andrewimm/writing-a-dos-clone-in-2019-70eac97ec3e1)
 
 ## [Archives](archives/index.md)
 
