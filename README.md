@@ -19,7 +19,7 @@
 * [2025-11-16, 15:22:16](https://news.ycombinator.com/item?id=45945750) - [De Bruijn Numerals](https://text.marvinborner.de/2023-08-22-22.html)
 * [2025-11-16, 15:00:24](https://news.ycombinator.com/item?id=45945587) - [Heretic: Automatic censorship removal for language models](https://github.com/p-e-w/heretic)
 * [2025-11-16, 13:59:19](https://news.ycombinator.com/item?id=45945202) - [Running the \"Reflections on Trusting Trust\" Compiler (2023)](https://research.swtch.com/nih)
-* [2025-11-16, 13:25:32](https://news.ycombinator.com/item?id=45944969) - [Garbage Collection Is Useful](https://dubroy.com/blog/garbage-collection-is-useful/)
+* [2025-11-16, 13:25:32](https://news.ycombinator.com/item?id=45944969) - [Garbage collection is useful](https://dubroy.com/blog/garbage-collection-is-useful/)
 * [2025-11-16, 13:15:50](https://news.ycombinator.com/item?id=45944906) - [Vintage Large Language Models](https://owainevans.github.io/talk-transcript.html)
 * [2025-11-16, 11:41:10](https://news.ycombinator.com/item?id=45944337) - [Brimstone: ES2025 JavaScript engine written in Rust](https://github.com/Hans-Halverson/brimstone)
 * [2025-11-16, 11:32:39](https://news.ycombinator.com/item?id=45944296) - [Anthropic’s paper smells like bullshit](https://djnn.sh/posts/anthropic-s-paper-smells-like-bullshit/)
