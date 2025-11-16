@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-11-16, 03:14:19](https://news.ycombinator.com/item?id=45942462) - [$5 PlanetScale is live](https://planetscale.com/blog/5-dollar-planetscale-is-here)
 * [2025-11-16, 00:56:31](https://news.ycombinator.com/item?id=45941835) - [IDEmacs: A Visual Studio Code clone for Emacs](https://codeberg.org/IDEmacs/IDEmacs)
 * [2025-11-16, 00:01:25](https://news.ycombinator.com/item?id=45941596) - [AirPods libreated from Apple's ecosystem](https://github.com/kavishdevar/librepods)
 * [2025-11-15, 23:55:19](https://news.ycombinator.com/item?id=45941563) - [When UPS charged me a $684 tariff on $355 of vintage computer parts](http://oldvcr.blogspot.com/2025/11/when-ups-charged-me-684-tariff-on-355.html)
@@ -14,14 +15,12 @@
 * [2025-11-15, 18:44:05](https://news.ycombinator.com/item?id=45939569) - [The computer poetry of J. M. Coetzee's early programming career (2017)](https://sites.utexas.edu/ransomcentermagazine/2017/06/28/the-computer-poetry-of-j-m-coetzees-early-programming-career/)
 * [2025-11-15, 18:40:55](https://news.ycombinator.com/item?id=45939550) - [Transgenerational Epigenetic Inheritance: the story of learned avoidance](https://elifesciences.org/articles/109427)
 * [2025-11-15, 18:24:58](https://news.ycombinator.com/item?id=45939431) - [Things that aren't doing the thing](https://strangestloop.io/essays/things-that-arent-doing-the-thing)
-* [2025-11-15, 17:00:38](https://news.ycombinator.com/item?id=45938785) - [Trellis AI (YC W24) Is Hiring: Streamline access to life-saving therapies](https://www.ycombinator.com/companies/trellis-ai/jobs/f4GWvH0-forward-deployed-engineer-full-time)
 * [2025-11-15, 16:16:42](https://news.ycombinator.com/item?id=45938427) - [Mag Wealth (2024)](https://saul.pw/mag/wealth/)
 * [2025-11-15, 15:25:08](https://news.ycombinator.com/item?id=45938027) - [Weighting an average to minimize variance](https://www.johndcook.com/blog/2025/11/12/minimum-variance/)
 * [2025-11-15, 15:19:20](https://news.ycombinator.com/item?id=45937989) - [Linux on the Fujitsu Lifebook U729](https://borretti.me/article/linux-on-the-fujitsu-lifebook-u729)
 * [2025-11-15, 10:30:52](https://news.ycombinator.com/item?id=45936460) - [Our investigation into the suspicious pressure on Archive.today](https://adguard-dns.io/en/blog/archive-today-adguard-dns-block-demand.html)
 * [2025-11-15, 08:42:33](https://news.ycombinator.com/item?id=45935970) - [EyesOff: How I built a screen contact detection model](https://ym2132.github.io/building_EyesOff_part2_model_training)
 * [2025-11-15, 06:37:50](https://news.ycombinator.com/item?id=45935503) - [TCP, the workhorse of the internet](https://cefboud.com/posts/tcp-deep-dive-internals/)
-* [2025-11-11, 22:47:28](https://news.ycombinator.com/item?id=45893952) - [How the Spoils of an Infamous Heist Traveled the World](https://nautil.us/how-the-spoils-of-an-infamous-heist-traveled-the-world-1247307/)
 * [2025-11-11, 18:36:01](https://news.ycombinator.com/item?id=45891066) - [Show HN: Unflip – a puzzle game about XOR patterns of squares](https://unflipgame.com/)
 * [2025-11-11, 13:52:15](https://news.ycombinator.com/item?id=45887262) - [A new Google model is nearly perfect on automated handwriting recognition](https://generativehistory.substack.com/p/has-google-quietly-solved-two-of)
 * [2025-11-07, 12:02:58](https://news.ycombinator.com/item?id=45845582) - [I made a better DOM morphing algorithm](https://joel.drapper.me/p/morphlex/)
@@ -30,6 +29,7 @@
 * [2025-11-05, 21:14:12](https://news.ycombinator.com/item?id=45828106) - [Computing Across America (1983-1985)](https://microship.com/winnebiko/)
 * [2025-11-05, 15:58:51](https://news.ycombinator.com/item?id=45824350) - [Why export templates would be useful in C++ (2010)](http://warp.povusers.org/programming/export_templates.html)
 * [2025-11-05, 10:11:43](https://news.ycombinator.com/item?id=45821328) - [JVM exceptions are weird: a decompiler perspective](https://purplesyringa.moe/blog/jvm-exceptions-are-weird-a-decompiler-perspective/)
+* [2025-11-03, 12:46:23](https://news.ycombinator.com/item?id=45798457) - [Aunt Mary's Storybook](https://cjtinc.org/projects/amsb/)
 
 ## [Archives](archives/index.md)
 

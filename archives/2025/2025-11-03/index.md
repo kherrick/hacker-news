@@ -83,6 +83,7 @@
 * [2025-11-03, 12:52:18](https://news.ycombinator.com/item?id=45798489) - [I analyzed 180M jobs to see what jobs AI is replacing today](https://bloomberry.com/blog/i-analyzed-180m-jobs-to-see-what-jobs-ai-is-actually-replacing-today/)
 * [2025-11-03, 12:50:27](https://news.ycombinator.com/item?id=45798479) - [The Case Against PGVector](https://alex-jacobs.com/posts/the-case-against-pgvector/)
 * [2025-11-03, 12:48:16](https://news.ycombinator.com/item?id=45798473) - [Toolkit to help you get started with Spec-Driven Development](https://github.com/github/spec-kit)
+* [2025-11-03, 12:46:23](https://news.ycombinator.com/item?id=45798457) - [Aunt Mary's Storybook](https://cjtinc.org/projects/amsb/)
 * [2025-11-03, 12:05:28](https://news.ycombinator.com/item?id=45798193) - [OSS Alternative to Open WebUI – ChatGPT-Like UI, API and CLI](https://github.com/ServiceStack/llms)
 * [2025-11-03, 11:59:54](https://news.ycombinator.com/item?id=45798154) - [The Symbiosis of Rust and Arm: A Conversation with David Wood](https://filtra.io/rust/interviews/arm-sep-25)
 * [2025-11-03, 11:55:02](https://news.ycombinator.com/item?id=45798123) - [Understanding traffic](https://dr2chase.wordpress.com/)
