@@ -24,12 +24,12 @@
 * [2025-11-15, 18:24:58](https://news.ycombinator.com/item?id=45939431) - [Things that aren't doing the thing](https://strangestloop.io/essays/things-that-arent-doing-the-thing)
 * [2025-11-15, 10:30:52](https://news.ycombinator.com/item?id=45936460) - [Our investigation into the suspicious pressure on Archive.today](https://adguard-dns.io/en/blog/archive-today-adguard-dns-block-demand.html)
 * [2025-11-14, 01:42:01](https://news.ycombinator.com/item?id=45922907) - [Holes (1970) [pdf]](https://rintintin.colorado.edu/~vancecd/phil375/Lewis1.pdf)
+* [2025-11-11, 09:08:42](https://news.ycombinator.com/item?id=45885410) - [Waiting for SQL:202y: Group by All](http://peter.eisentraut.org/blog/2025/11/11/waiting-for-sql-202y-group-by-all)
 * [2025-11-10, 15:27:42](https://news.ycombinator.com/item?id=45876884) - [Run Nix Based Environments in Kubernetes](https://flox.dev/kubernetes/)
 * [2025-11-09, 20:04:51](https://news.ycombinator.com/item?id=45868660) - [Alchemy](https://joshcollinsworth.com/blog/alchemy)
 * [2025-11-05, 17:24:18](https://news.ycombinator.com/item?id=45825413) - [Fourier Transforms](https://www.continuummechanics.org/fourierxforms.html)
 * [2025-11-04, 21:12:57](https://news.ycombinator.com/item?id=45815948) - [Measuring the doppler shift of WWVB during a flight](https://greatscottgadgets.com/2025/10-31-receiving-wwvb-with-hackrf-pro/)
 * [2025-11-03, 16:38:58](https://news.ycombinator.com/item?id=45801004) - [Diamonds and Lasers: Thermal Management for Chips](https://spectrum.ieee.org/thermal-management-chips)
-* [2025-11-03, 04:07:54](https://news.ycombinator.com/item?id=45795778) - [Writing a DOS Clone in 2019](https://medium.com/@andrewimm/writing-a-dos-clone-in-2019-70eac97ec3e1)
 
 ## [Archives](archives/index.md)
 

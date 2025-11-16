@@ -71,6 +71,7 @@
 * [2025-11-11, 10:03:57](https://news.ycombinator.com/item?id=45885750) - [Show HN: Gerbil – an open source desktop app for running LLMs locally](https://github.com/lone-cloud/gerbil)
 * [2025-11-11, 09:53:27](https://news.ycombinator.com/item?id=45885699) - [Blending SQL and Python with Sqlorm](https://hyperflask.dev/blog/2025/11/11/blending-sql-and-python-with-sqlorm/)
 * [2025-11-11, 09:48:05](https://news.ycombinator.com/item?id=45885677) - [Xqerl – Erlang XQuery 3.1 Processor](https://zadean.github.io/xqerl/)
+* [2025-11-11, 09:08:42](https://news.ycombinator.com/item?id=45885410) - [Waiting for SQL:202y: Group by All](http://peter.eisentraut.org/blog/2025/11/11/waiting-for-sql-202y-group-by-all)
 * [2025-11-11, 08:29:23](https://news.ycombinator.com/item?id=45885242) - [Why Effort Scales Superlinearly with the Perceived Quality of Creative Work](https://markusstrasser.org/creative-work-landscapes.html)
 * [2025-11-11, 08:09:05](https://news.ycombinator.com/item?id=45885135) - [Zig / C++ Interop](https://tuple.app/blog/zig-cpp-interop)
 * [2025-11-11, 08:07:54](https://news.ycombinator.com/item?id=45885130) - [Colon cancer is rising in young people and scientists got a clue about why](https://www.nationalgeographic.com/health/article/gut-toxins-colon-cancer-early-diagnosis)
