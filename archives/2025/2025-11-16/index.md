@@ -4,8 +4,13 @@
 
 ### [Archives](../../index.md) for [2025-11-16](index.md)
 
+* [2025-11-16, 19:21:13](https://news.ycombinator.com/item?id=45947639) - [The fate of \"small\" open source](https://nolanlawson.com/2025/11/16/the-fate-of-small-open-source/)
+* [2025-11-16, 19:09:30](https://news.ycombinator.com/item?id=45947530) - [Don't Post Passive-Aggressive Webpages](https://dontpostpassiveaggressivewebpages.com/)
 * [2025-11-16, 18:56:31](https://news.ycombinator.com/item?id=45947434) - [AI is killing privacy. We can't let that happen](https://www.fastcompany.com/91435189/ai-privacy-openai-tracking-apps)
 * [2025-11-16, 18:51:13](https://news.ycombinator.com/item?id=45947394) - [How to Scale Distributed Product Teams from 10 to 100](https://intelligentfuturetech.com/blog/scaling-distributed-product-teams-2025/)
+* [2025-11-16, 18:38:37](https://news.ycombinator.com/item?id=45947301) - [Z3 API in Python: From Sudoku to N-Queens in Under 20 Lines](https://ericpony.github.io/z3py-tutorial/guide-examples.htm)
+* [2025-11-16, 17:50:29](https://news.ycombinator.com/item?id=45946937) - [The Man Who Keeps Predicting the Web's Death](https://tedium.co/2025/10/25/web-dead-predictions-george-colony/)
+* [2025-11-16, 17:39:43](https://news.ycombinator.com/item?id=45946865) - [I finally understand Cloudflare Zero Trust tunnels](https://david.coffee/cloudflare-zero-trust-tunnels)
 * [2025-11-16, 17:20:48](https://news.ycombinator.com/item?id=45946707) - [Owning a Cat Could Double Your Risk of Schizophrenia, Research Suggests](https://www.sciencealert.com/owning-a-cat-could-double-your-risk-of-schizophrenia-research-suggests)
 * [2025-11-16, 16:56:47](https://news.ycombinator.com/item?id=45946498) - [Only three kinds of AI products work](https://www.seangoedecke.com/ai-products/)
 * [2025-11-16, 15:50:54](https://news.ycombinator.com/item?id=45945960) - [Dissecting Flock Safety: The Cameras Tracking You Are a Security Nightmare [video]](https://www.youtube.com/watch?v=uB0gr7Fh6lY)
