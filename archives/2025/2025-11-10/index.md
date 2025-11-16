@@ -38,6 +38,7 @@
 * [2025-11-10, 15:48:44](https://news.ycombinator.com/item?id=45877060) - [Games Preservation Is Hard and Sometimes Involves Private Detectives](https://kotaku.com/gog-preservation-program-private-detectives-drm-2000635611)
 * [2025-11-10, 15:46:03](https://news.ycombinator.com/item?id=45877027) - [Ryanair reminds passengers of move to digital boarding pass in own app on nov 12](https://corporate.ryanair.com/news/ryanair-issues-reminder-to-passengers-ahead-of-move-to-100-digital-boarding-passes-from-wednesday-12-nov/)
 * [2025-11-10, 15:42:14](https://news.ycombinator.com/item?id=45876990) - [Zig (and the Design Choices Within)](https://blueberrywren.dev/blog/on-zig/)
+* [2025-11-10, 15:27:42](https://news.ycombinator.com/item?id=45876884) - [Run Nix Based Environments in Kubernetes](https://flox.dev/kubernetes/)
 * [2025-11-10, 15:26:58](https://news.ycombinator.com/item?id=45876876) - [The Useful Personal Computer](https://technicshistory.com/2025/11/02/the-useful-personal-computer/)
 * [2025-11-10, 15:14:05](https://news.ycombinator.com/item?id=45876744) - [LLMs are steroids for your Dunning-Kruger](https://bytesauna.com/post/dunning-kruger)
 * [2025-11-10, 15:13:55](https://news.ycombinator.com/item?id=45876742) - [Show HN: Tiny Diffusion – A character-level text diffusion model from scratch](https://github.com/nathan-barry/tiny-diffusion)
