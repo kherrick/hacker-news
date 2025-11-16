@@ -101,16 +101,6 @@
   ],
   [
     [
-      "2025-11-16, 13:20:41",
-      "https://news.ycombinator.com/item?id=45944941"
-    ],
-    [
-      "A twelve-year-old on the failed promise of educational technology",
-      "https://micahblachman.beehiiv.com/p/where-educational-technology-fails"
-    ]
-  ],
-  [
-    [
       "2025-11-16, 13:15:50",
       "https://news.ycombinator.com/item?id=45944906"
     ],
@@ -257,6 +247,16 @@
     [
       "Alchemy",
       "https://joshcollinsworth.com/blog/alchemy"
+    ]
+  ],
+  [
+    [
+      "2025-11-06, 06:15:43",
+      "https://news.ycombinator.com/item?id=45832051"
+    ],
+    [
+      "Boa: A standard-conforming embeddable JavaScript engine written in Rust",
+      "https://github.com/boa-dev/boa"
     ]
   ],
   [
