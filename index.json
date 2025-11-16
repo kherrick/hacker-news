@@ -1,6 +1,36 @@
 [
   [
     [
+      "2025-11-16, 23:15:20",
+      "https://news.ycombinator.com/item?id=45949326"
+    ],
+    [
+      "Britney Spears' Guide to Semiconductor Physics",
+      "https://britneyspears.ac/lasers.htm"
+    ]
+  ],
+  [
+    [
+      "2025-11-16, 23:01:24",
+      "https://news.ycombinator.com/item?id=45949247"
+    ],
+    [
+      "Goldman Sachs asks in biotech Report: Is curing patients a sustainable business?",
+      "https://www.cnbc.com/2018/04/11/goldman-asks-is-curing-patients-a-sustainable-business-model.html"
+    ]
+  ],
+  [
+    [
+      "2025-11-16, 21:57:13",
+      "https://news.ycombinator.com/item?id=45948792"
+    ],
+    [
+      "How Your Brain Creates 'Aha' Moments and Why They Stick",
+      "https://www.quantamagazine.org/how-your-brain-creates-aha-moments-and-why-they-stick-20251105/"
+    ]
+  ],
+  [
+    [
       "2025-11-16, 21:19:08",
       "https://news.ycombinator.com/item?id=45948477"
     ],
@@ -91,6 +121,16 @@
   ],
   [
     [
+      "2025-11-16, 19:20:27",
+      "https://news.ycombinator.com/item?id=45947633"
+    ],
+    [
+      "Pennies Are Trash Now",
+      "https://www.theatlantic.com/ideas/2025/11/pennies-circulation-mint/684935/"
+    ]
+  ],
+  [
+    [
       "2025-11-16, 18:58:10",
       "https://news.ycombinator.com/item?id=45947444"
     ],
@@ -171,32 +211,12 @@
   ],
   [
     [
-      "2025-11-16, 13:59:19",
-      "https://news.ycombinator.com/item?id=45945202"
-    ],
-    [
-      "Running the \"Reflections on Trusting Trust\" Compiler (2023)",
-      "https://research.swtch.com/nih"
-    ]
-  ],
-  [
-    [
       "2025-11-16, 13:25:32",
       "https://news.ycombinator.com/item?id=45944969"
     ],
     [
       "Garbage collection is useful",
       "https://dubroy.com/blog/garbage-collection-is-useful/"
-    ]
-  ],
-  [
-    [
-      "2025-11-16, 13:15:50",
-      "https://news.ycombinator.com/item?id=45944906"
-    ],
-    [
-      "Vintage Large Language Models",
-      "https://owainevans.github.io/talk-transcript.html"
     ]
   ],
   [
@@ -221,16 +241,6 @@
   ],
   [
     [
-      "2025-11-16, 00:01:25",
-      "https://news.ycombinator.com/item?id=45941596"
-    ],
-    [
-      "AirPods libreated from Apple's ecosystem",
-      "https://github.com/kavishdevar/librepods"
-    ]
-  ],
-  [
-    [
       "2025-11-15, 12:31:20",
       "https://news.ycombinator.com/item?id=45936999"
     ],
@@ -241,22 +251,22 @@
   ],
   [
     [
-      "2025-11-14, 01:42:01",
-      "https://news.ycombinator.com/item?id=45922907"
-    ],
-    [
-      "Holes (1970) [pdf]",
-      "https://rintintin.colorado.edu/~vancecd/phil375/Lewis1.pdf"
-    ]
-  ],
-  [
-    [
       "2025-11-11, 09:08:42",
       "https://news.ycombinator.com/item?id=45885410"
     ],
     [
       "Waiting for SQL:202y: Group by All",
       "http://peter.eisentraut.org/blog/2025/11/11/waiting-for-sql-202y-group-by-all"
+    ]
+  ],
+  [
+    [
+      "2025-11-08, 22:12:44",
+      "https://news.ycombinator.com/item?id=45860516"
+    ],
+    [
+      "Show HN: Spam classifier in Go using Naive Bayes",
+      "https://github.com/igomez10/nspammer"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Shell Grotto, Margate",
       "https://en.wikipedia.org/wiki/Shell_Grotto,_Margate"
-    ]
-  ],
-  [
-    [
-      "2025-11-04, 21:12:57",
-      "https://news.ycombinator.com/item?id=45815948"
-    ],
-    [
-      "Measuring the doppler shift of WWVB during a flight",
-      "https://greatscottgadgets.com/2025/10-31-receiving-wwvb-with-hackrf-pro/"
     ]
   ]
 ]
