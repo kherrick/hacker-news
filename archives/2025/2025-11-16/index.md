@@ -4,9 +4,12 @@
 
 ### [Archives](../../index.md) for [2025-11-16](index.md)
 
+* [2025-11-16, 19:45:36](https://news.ycombinator.com/item?id=45947822) - [Linux mode setting, from the comfort of OCaml](https://roscidus.com/blog/blog/2025/11/16/libdrm-ocaml/)
 * [2025-11-16, 19:44:27](https://news.ycombinator.com/item?id=45947810) - [62 chapter open-source Zig book](https://www.zigbook.net)
+* [2025-11-16, 19:39:52](https://news.ycombinator.com/item?id=45947770) - [Tracking users with favicons, even in incognito mode](https://github.com/jonasstrehle/supercookie)
 * [2025-11-16, 19:21:13](https://news.ycombinator.com/item?id=45947639) - [The fate of \"small\" open source](https://nolanlawson.com/2025/11/16/the-fate-of-small-open-source/)
 * [2025-11-16, 19:09:30](https://news.ycombinator.com/item?id=45947530) - [Don't Post Passive-Aggressive Webpages](https://dontpostpassiveaggressivewebpages.com/)
+* [2025-11-16, 18:58:10](https://news.ycombinator.com/item?id=45947444) - [What if you don't need MCP at all?](https://mariozechner.at/posts/2025-11-02-what-if-you-dont-need-mcp/)
 * [2025-11-16, 18:56:31](https://news.ycombinator.com/item?id=45947434) - [AI is killing privacy. We can't let that happen](https://www.fastcompany.com/91435189/ai-privacy-openai-tracking-apps)
 * [2025-11-16, 18:51:13](https://news.ycombinator.com/item?id=45947394) - [How to Scale Distributed Product Teams from 10 to 100](https://intelligentfuturetech.com/blog/scaling-distributed-product-teams-2025/)
 * [2025-11-16, 18:38:37](https://news.ycombinator.com/item?id=45947301) - [Z3 API in Python: From Sudoku to N-Queens in Under 20 Lines](https://ericpony.github.io/z3py-tutorial/guide-examples.htm)
