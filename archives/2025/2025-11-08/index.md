@@ -48,6 +48,7 @@
 * [2025-11-08, 13:55:20](https://news.ycombinator.com/item?id=45856681) - ['Black Hole Sun' by Soundgarden](https://faroutmagazine.co.uk/the-story-behind-soundgarden-black-hole-sun/)
 * [2025-11-08, 13:48:41](https://news.ycombinator.com/item?id=45856640) - [Things I've Heard Boomers Say That I Agree with 100%](https://wildingout.substack.com/p/12-things-ive-heard-boomers-say-that)
 * [2025-11-08, 13:36:30](https://news.ycombinator.com/item?id=45856563) - [Why hasn't there been a new major sports league?](https://humaninvariant.substack.com/p/why-hasnt-there-been-a-new-major)
+* [2025-11-08, 12:45:26](https://news.ycombinator.com/item?id=45856287) - [Itiner-e: A high-resolution dataset of roads of the Roman Empire](https://www.nature.com/articles/s41597-025-06140-z)
 * [2025-11-08, 12:16:22](https://news.ycombinator.com/item?id=45856136) - [Kagi Small Web](https://kagi.com/smallweb)
 * [2025-11-08, 12:00:50](https://news.ycombinator.com/item?id=45856069) - [Cekura (YC F24) Is Hiring](https://news.ycombinator.com/item?id=45856069)
 * [2025-11-08, 11:49:36](https://news.ycombinator.com/item?id=45856014) - [Disassembling terabytes of random data with Zig and Capstone to prove a point](https://jstrieb.github.io/posts/random-instructions/)

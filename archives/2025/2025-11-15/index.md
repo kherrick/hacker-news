@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-11-15](index.md)
 
+* [2025-11-15, 23:55:19](https://news.ycombinator.com/item?id=45941563) - [When UPS charged me a $684 tariff on $355 of vintage computer parts](http://oldvcr.blogspot.com/2025/11/when-ups-charged-me-684-tariff-on-355.html)
+* [2025-11-15, 23:31:39](https://news.ycombinator.com/item?id=45941443) - [The inconceivable types of Rust: How to make self-borrows safe (2024)](https://blog.polybdenum.com/2024/06/07/the-inconceivable-types-of-rust-how-to-make-self-borrows-safe.html)
+* [2025-11-15, 23:30:04](https://news.ycombinator.com/item?id=45941441) - [Blocking LLM crawlers without JavaScript](https://www.owl.is/blogg/blocking-crawlers-without-javascript/)
 * [2025-11-15, 23:19:50](https://news.ycombinator.com/item?id=45941389) - [Project Fucking Sucks](https://ficd.sh/blog/your-project-sucks/)
 * [2025-11-15, 22:16:33](https://news.ycombinator.com/item?id=45941025) - [libwifi: an 802.11 frame parsing and generation library written in C](https://libwifi.so/)
 * [2025-11-15, 21:22:57](https://news.ycombinator.com/item?id=45940706) - [AsciiMath](https://asciimath.org/)
@@ -38,6 +41,7 @@
 * [2025-11-15, 10:30:52](https://news.ycombinator.com/item?id=45936460) - [Adguard DNS received suspicious pressure to block archive.is](https://adguard-dns.io/en/blog/archive-today-adguard-dns-block-demand.html)
 * [2025-11-15, 09:44:15](https://news.ycombinator.com/item?id=45936262) - [One Handed Keyboard](https://github.com/htx-studio/One-Handed-Keyboard)
 * [2025-11-15, 09:14:34](https://news.ycombinator.com/item?id=45936111) - [NATO Ended Russia's Estonian Air Incursions](https://themilitaryanalyst.com/2025/11/13/the-real-story-how-nato-ended-russias-estonian-air-incursions/)
+* [2025-11-15, 08:42:33](https://news.ycombinator.com/item?id=45935970) - [EyesOff: How I built a screen contact detection model](https://ym2132.github.io/building_EyesOff_part2_model_training)
 * [2025-11-15, 08:16:35](https://news.ycombinator.com/item?id=45935874) - [How My Speed Date Got Stolen Onstage at a Live Comedy Dating Show](https://psychotechnology.substack.com/p/how-my-speed-date-got-stolen-onstage)
 * [2025-11-15, 07:48:23](https://news.ycombinator.com/item?id=45935763) - [Spec-Driven Development: The Waterfall Strikes Back](https://marmelab.com/blog/2025/11/12/spec-driven-development-waterfall-strikes-back.html)
 * [2025-11-15, 07:38:18](https://news.ycombinator.com/item?id=45935729) - [Messing with Scraper Bots](https://herman.bearblog.dev/messing-with-bots/)
