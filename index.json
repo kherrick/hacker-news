@@ -131,16 +131,6 @@
   ],
   [
     [
-      "2025-11-16, 16:56:47",
-      "https://news.ycombinator.com/item?id=45946498"
-    ],
-    [
-      "Three kinds of AI products work",
-      "https://www.seangoedecke.com/ai-products/"
-    ]
-  ],
-  [
-    [
       "2025-11-16, 15:50:54",
       "https://news.ycombinator.com/item?id=45945960"
     ],
@@ -197,6 +187,16 @@
     [
       "Garbage Collection Is Useful",
       "https://dubroy.com/blog/garbage-collection-is-useful/"
+    ]
+  ],
+  [
+    [
+      "2025-11-16, 13:23:22",
+      "https://news.ycombinator.com/item?id=45944951"
+    ],
+    [
+      "PgFirstAid: PostgreSQL function for improving stability and performance",
+      "https://github.com/randoneering/pgFirstAid"
     ]
   ],
   [
