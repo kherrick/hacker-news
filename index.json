@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-11-16, 19:21:13",
+      "https://news.ycombinator.com/item?id=45947639"
+    ],
+    [
+      "The fate of \"small\" open source",
+      "https://nolanlawson.com/2025/11/16/the-fate-of-small-open-source/"
+    ]
+  ],
+  [
+    [
+      "2025-11-16, 19:09:30",
+      "https://news.ycombinator.com/item?id=45947530"
+    ],
+    [
+      "Don't Post Passive-Aggressive Webpages",
+      "https://dontpostpassiveaggressivewebpages.com/"
+    ]
+  ],
+  [
+    [
       "2025-11-16, 18:56:31",
       "https://news.ycombinator.com/item?id=45947434"
     ],
@@ -11,12 +31,32 @@
   ],
   [
     [
-      "2025-11-16, 18:51:13",
-      "https://news.ycombinator.com/item?id=45947394"
+      "2025-11-16, 18:38:37",
+      "https://news.ycombinator.com/item?id=45947301"
     ],
     [
-      "How to Scale Distributed Product Teams from 10 to 100",
-      "https://intelligentfuturetech.com/blog/scaling-distributed-product-teams-2025/"
+      "Z3 API in Python: From Sudoku to N-Queens in Under 20 Lines",
+      "https://ericpony.github.io/z3py-tutorial/guide-examples.htm"
+    ]
+  ],
+  [
+    [
+      "2025-11-16, 17:50:29",
+      "https://news.ycombinator.com/item?id=45946937"
+    ],
+    [
+      "The Man Who Keeps Predicting the Web's Death",
+      "https://tedium.co/2025/10/25/web-dead-predictions-george-colony/"
+    ]
+  ],
+  [
+    [
+      "2025-11-16, 17:39:43",
+      "https://news.ycombinator.com/item?id=45946865"
+    ],
+    [
+      "I finally understand Cloudflare Zero Trust tunnels",
+      "https://david.coffee/cloudflare-zero-trust-tunnels"
     ]
   ],
   [
@@ -91,26 +131,6 @@
   ],
   [
     [
-      "2025-11-16, 13:57:03",
-      "https://news.ycombinator.com/item?id=45945188"
-    ],
-    [
-      "Iran begins cloud seeding operations as drought bites",
-      "https://www.arabnews.com/node/2622812/middle-east"
-    ]
-  ],
-  [
-    [
-      "2025-11-16, 13:44:20",
-      "https://news.ycombinator.com/item?id=45945101"
-    ],
-    [
-      "A new documentary about the history of forced psychiatric treatment in Spain",
-      "https://www.bbc.co.uk/news/articles/cr43vx0rrwvo"
-    ]
-  ],
-  [
-    [
       "2025-11-16, 13:25:32",
       "https://news.ycombinator.com/item?id=45944969"
     ],
@@ -181,16 +201,6 @@
   ],
   [
     [
-      "2025-11-16, 10:38:41",
-      "https://news.ycombinator.com/item?id=45944056"
-    ],
-    [
-      "UK's first small nuclear power station to be built in north Wales",
-      "https://www.bbc.com/news/articles/c051y3d7myzo"
-    ]
-  ],
-  [
-    [
       "2025-11-16, 10:14:25",
       "https://news.ycombinator.com/item?id=45943979"
     ],
@@ -257,16 +267,6 @@
     [
       "Run Nix Based Environments in Kubernetes",
       "https://flox.dev/kubernetes/"
-    ]
-  ],
-  [
-    [
-      "2025-11-09, 20:04:51",
-      "https://news.ycombinator.com/item?id=45868660"
-    ],
-    [
-      "Alchemy",
-      "https://joshcollinsworth.com/blog/alchemy"
     ]
   ],
   [
