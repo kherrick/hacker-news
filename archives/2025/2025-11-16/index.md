@@ -6,6 +6,7 @@
 
 * [2025-11-16, 23:15:20](https://news.ycombinator.com/item?id=45949326) - [Britney Spears' Guide to Semiconductor Physics](https://britneyspears.ac/lasers.htm)
 * [2025-11-16, 23:01:24](https://news.ycombinator.com/item?id=45949247) - [Goldman Sachs asks in biotech Report: Is curing patients a sustainable business?](https://www.cnbc.com/2018/04/11/goldman-asks-is-curing-patients-a-sustainable-business-model.html)
+* [2025-11-16, 22:36:56](https://news.ycombinator.com/item?id=45949102) - [Why your mock breaks later](https://nedbatchelder.com/blog/202511/why_your_mock_breaks_later.html)
 * [2025-11-16, 21:57:13](https://news.ycombinator.com/item?id=45948792) - [How Your Brain Creates 'Aha' Moments and Why They Stick](https://www.quantamagazine.org/how-your-brain-creates-aha-moments-and-why-they-stick-20251105/)
 * [2025-11-16, 21:19:08](https://news.ycombinator.com/item?id=45948477) - [Peter Thiel sells off all Nvidia stock, stirring bubble fears](https://www.thestreet.com/investing/peter-thiel-dumps-top-ai-stock-stirring-bubble-fears)
 * [2025-11-16, 21:17:37](https://news.ycombinator.com/item?id=45948463) - [Call Me Maybe: Eavesdropping encrypted LTE calls with ReVoLTE (2020)](https://montsecure.com/research/revolte-attack/)
