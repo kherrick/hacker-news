@@ -57,6 +57,7 @@
 * [2025-11-13, 06:22:01](https://news.ycombinator.com/item?id=45911396) - [The Pen and the Spade: The Poems of Seamus Heaney](https://literaryreview.co.uk/the-pen-the-spade-2)
 * [2025-11-13, 04:26:56](https://news.ycombinator.com/item?id=45910625) - [CollectWise (YC F24) Is Hiring](https://www.ycombinator.com/companies/collectwise/jobs/tv3ufcc-forward-deployed-engineer)
 * [2025-11-13, 04:26:23](https://news.ycombinator.com/item?id=45910622) - [Robert Moses's unfinished business should be Mamdani's priority](https://www.eatingpolicy.com/p/robert-mosess-unfinished-business)
+* [2025-11-13, 03:50:11](https://news.ycombinator.com/item?id=45910388) - [In Praise of Useless Robots](https://thereader.mitpress.mit.edu/in-praise-of-useless-robots/)
 * [2025-11-13, 03:49:23](https://news.ycombinator.com/item?id=45910381) - [Google open-sources Android 16 QPR1, two months late](https://grapheneos.social/@GrapheneOS/115533432439509433)
 * [2025-11-13, 03:48:15](https://news.ycombinator.com/item?id=45910370) - [A67z](https://www.a67z.com/)
 * [2025-11-13, 03:44:37](https://news.ycombinator.com/item?id=45910347) - [Meta replaces WhatsApp for Windows with web wrapper that uses 1 GB RAM when idle](https://www.windowslatest.com/2025/11/12/meta-just-killed-native-whatsapp-on-windows-11-now-it-opens-webview-uses-1gb-ram-all-the-time/)
