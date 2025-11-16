@@ -31,12 +31,12 @@
   ],
   [
     [
-      "2025-11-16, 21:19:08",
-      "https://news.ycombinator.com/item?id=45948477"
+      "2025-11-16, 21:17:37",
+      "https://news.ycombinator.com/item?id=45948463"
     ],
     [
-      "Peter Thiel sells off all Nvidia stock, stirring bubble fears",
-      "https://www.thestreet.com/investing/peter-thiel-dumps-top-ai-stock-stirring-bubble-fears"
+      "Call Me Maybe: Eavesdropping encrypted LTE calls with ReVoLTE (2020)",
+      "https://montsecure.com/research/revolte-attack/"
     ]
   ],
   [
@@ -95,7 +95,7 @@
       "https://news.ycombinator.com/item?id=45947770"
     ],
     [
-      "Tracking users with favicons, even in incognito mode",
+      "Browser fingerprinting via favicon",
       "https://github.com/jonasstrehle/supercookie"
     ]
   ],
@@ -245,7 +245,7 @@
       "https://news.ycombinator.com/item?id=45936999"
     ],
     [
-      "Your Land, My Land (Offrange) – Lithium vs. Lettuce in the Imperial Valley, CA",
+      "Lithium vs. Lettuce",
       "https://ambrook.com/offrange/photo-essay/lithium-v-lettuce"
     ]
   ],
@@ -271,16 +271,6 @@
   ],
   [
     [
-      "2025-11-05, 21:57:49",
-      "https://news.ycombinator.com/item?id=45828627"
-    ],
-    [
-      "Why Bcrypt Can Be Unsafe for Password Hashing?",
-      "https://blog.enamya.me/posts/bcrypt-limitation"
-    ]
-  ],
-  [
-    [
       "2025-11-05, 17:24:18",
       "https://news.ycombinator.com/item?id=45825413"
     ],
@@ -297,6 +287,16 @@
     [
       "Shell Grotto, Margate",
       "https://en.wikipedia.org/wiki/Shell_Grotto,_Margate"
+    ]
+  ],
+  [
+    [
+      "2025-11-04, 21:12:57",
+      "https://news.ycombinator.com/item?id=45815948"
+    ],
+    [
+      "Measuring the doppler shift of WWVB during a flight",
+      "https://greatscottgadgets.com/2025/10-31-receiving-wwvb-with-hackrf-pro/"
     ]
   ]
 ]
