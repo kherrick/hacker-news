@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-11-16](index.md)
 
+* [2025-11-16, 19:44:27](https://news.ycombinator.com/item?id=45947810) - [62 chapter open-source Zig book](https://www.zigbook.net)
 * [2025-11-16, 19:21:13](https://news.ycombinator.com/item?id=45947639) - [The fate of \"small\" open source](https://nolanlawson.com/2025/11/16/the-fate-of-small-open-source/)
 * [2025-11-16, 19:09:30](https://news.ycombinator.com/item?id=45947530) - [Don't Post Passive-Aggressive Webpages](https://dontpostpassiveaggressivewebpages.com/)
 * [2025-11-16, 18:56:31](https://news.ycombinator.com/item?id=45947434) - [AI is killing privacy. We can't let that happen](https://www.fastcompany.com/91435189/ai-privacy-openai-tracking-apps)
