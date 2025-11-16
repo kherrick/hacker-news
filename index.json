@@ -1,22 +1,22 @@
 [
   [
     [
+      "2025-11-16, 19:44:27",
+      "https://news.ycombinator.com/item?id=45947810"
+    ],
+    [
+      "62 chapter open-source Zig book",
+      "https://www.zigbook.net"
+    ]
+  ],
+  [
+    [
       "2025-11-16, 19:21:13",
       "https://news.ycombinator.com/item?id=45947639"
     ],
     [
       "The fate of \"small\" open source",
       "https://nolanlawson.com/2025/11/16/the-fate-of-small-open-source/"
-    ]
-  ],
-  [
-    [
-      "2025-11-16, 19:09:30",
-      "https://news.ycombinator.com/item?id=45947530"
-    ],
-    [
-      "Don't Post Passive-Aggressive Webpages",
-      "https://dontpostpassiveaggressivewebpages.com/"
     ]
   ],
   [
@@ -221,16 +221,6 @@
   ],
   [
     [
-      "2025-11-16, 00:56:31",
-      "https://news.ycombinator.com/item?id=45941835"
-    ],
-    [
-      "IDEmacs: A Visual Studio Code clone for Emacs",
-      "https://codeberg.org/IDEmacs/IDEmacs"
-    ]
-  ],
-  [
-    [
       "2025-11-16, 00:01:25",
       "https://news.ycombinator.com/item?id=45941596"
     ],
@@ -241,12 +231,12 @@
   ],
   [
     [
-      "2025-11-15, 18:24:58",
-      "https://news.ycombinator.com/item?id=45939431"
+      "2025-11-15, 10:30:52",
+      "https://news.ycombinator.com/item?id=45936460"
     ],
     [
-      "Things that aren't doing the thing",
-      "https://strangestloop.io/essays/things-that-arent-doing-the-thing"
+      "Our investigation into the suspicious pressure on Archive.today",
+      "https://adguard-dns.io/en/blog/archive-today-adguard-dns-block-demand.html"
     ]
   ],
   [
@@ -267,6 +257,16 @@
     [
       "Waiting for SQL:202y: Group by All",
       "http://peter.eisentraut.org/blog/2025/11/11/waiting-for-sql-202y-group-by-all"
+    ]
+  ],
+  [
+    [
+      "2025-11-10, 15:27:42",
+      "https://news.ycombinator.com/item?id=45876884"
+    ],
+    [
+      "Run Nix Based Environments in Kubernetes",
+      "https://flox.dev/kubernetes/"
     ]
   ],
   [
