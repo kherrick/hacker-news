@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-11-16](index.md)
 
+* [2025-11-16, 23:15:20](https://news.ycombinator.com/item?id=45949326) - [Britney Spears' Guide to Semiconductor Physics](https://britneyspears.ac/lasers.htm)
+* [2025-11-16, 23:01:24](https://news.ycombinator.com/item?id=45949247) - [Goldman Sachs asks in biotech Report: Is curing patients a sustainable business?](https://www.cnbc.com/2018/04/11/goldman-asks-is-curing-patients-a-sustainable-business-model.html)
+* [2025-11-16, 21:57:13](https://news.ycombinator.com/item?id=45948792) - [How Your Brain Creates 'Aha' Moments and Why They Stick](https://www.quantamagazine.org/how-your-brain-creates-aha-moments-and-why-they-stick-20251105/)
 * [2025-11-16, 21:19:08](https://news.ycombinator.com/item?id=45948477) - [Peter Thiel sells off all Nvidia stock, stirring bubble fears](https://www.thestreet.com/investing/peter-thiel-dumps-top-ai-stock-stirring-bubble-fears)
 * [2025-11-16, 20:46:30](https://news.ycombinator.com/item?id=45948254) - [The Pragmatic Programmer: 20th Anniversary Edition](https://www.ahalbert.com/technology/2023/12/19/the_pragmatic_programmer.html)
 * [2025-11-16, 20:18:10](https://news.ycombinator.com/item?id=45948058) - [I have recordings proving Coinbase knew about breach 4 months before disclosure](https://jonathanclark.com/posts/coinbase-breach-timeline.html)
@@ -13,6 +16,7 @@
 * [2025-11-16, 19:39:52](https://news.ycombinator.com/item?id=45947770) - [Tracking users with favicons, even in incognito mode](https://github.com/jonasstrehle/supercookie)
 * [2025-11-16, 19:38:49](https://news.ycombinator.com/item?id=45947761) - [Dark Pattern Games](https://www.darkpattern.games)
 * [2025-11-16, 19:21:13](https://news.ycombinator.com/item?id=45947639) - [The fate of \"small\" open source](https://nolanlawson.com/2025/11/16/the-fate-of-small-open-source/)
+* [2025-11-16, 19:20:27](https://news.ycombinator.com/item?id=45947633) - [Pennies Are Trash Now](https://www.theatlantic.com/ideas/2025/11/pennies-circulation-mint/684935/)
 * [2025-11-16, 19:09:30](https://news.ycombinator.com/item?id=45947530) - [Don't Post Passive-Aggressive Webpages](https://dontpostpassiveaggressivewebpages.com/)
 * [2025-11-16, 18:58:10](https://news.ycombinator.com/item?id=45947444) - [What if you don't need MCP at all?](https://mariozechner.at/posts/2025-11-02-what-if-you-dont-need-mcp/)
 * [2025-11-16, 18:56:31](https://news.ycombinator.com/item?id=45947434) - [AI is killing privacy. We can't let that happen](https://www.fastcompany.com/91435189/ai-privacy-openai-tracking-apps)
