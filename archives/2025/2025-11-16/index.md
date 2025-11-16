@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-11-16](index.md)
 
+* [2025-11-16, 12:48:53](https://news.ycombinator.com/item?id=45944734) - [Major Bitcoin mining firm pivoting to AI](https://www.tomshardware.com/tech-industry/cryptomining/major-bitcoin-mining-firm-pivoting-to-ai-plans-to-fully-abandon-crypto-mining-by-2027-bitfarm-to-leverage-341-megawatt-capacity-for-ai-following-usd46-million-q3-loss)
 * [2025-11-16, 12:25:01](https://news.ycombinator.com/item?id=45944595) - [Why are you (still) using OpenBSD?](https://www.tumfatig.net/2025/why-are-you-still-using-openbsd/)
 * [2025-11-16, 11:57:41](https://news.ycombinator.com/item?id=45944428) - [Is Perplexity the first AI unicorn to fail?](https://medium.com/@anwarzaid76/is-perplexity-the-first-ai-unicorn-to-fail-eb0e827b5e7e)
 * [2025-11-16, 11:41:10](https://news.ycombinator.com/item?id=45944337) - [Brimstone: ES2025 JavaScript engine written in Rust](https://github.com/Hans-Halverson/brimstone)
