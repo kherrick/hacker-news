@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-11-16, 10:38:41](https://news.ycombinator.com/item?id=45944056) - [UK's first small nuclear power station to be built in north Wales](https://www.bbc.com/news/articles/c051y3d7myzo)
 * [2025-11-16, 10:21:07](https://news.ycombinator.com/item?id=45943992) - [Why I Don't Need a Steam Machine](https://brainbaking.com/post/2025/11/why-i-dont-need-a-steam-machine/)
+* [2025-11-16, 10:14:25](https://news.ycombinator.com/item?id=45943979) - [Maybe You're Not Actually Trying](https://usefulfictions.substack.com/p/maybe-youre-not-actually-trying)
 * [2025-11-16, 09:29:21](https://news.ycombinator.com/item?id=45943802) - [An exposed .git folder let us dox a phishing campaign](https://news.ycombinator.com/item?id=45943802)
 * [2025-11-16, 07:55:09](https://news.ycombinator.com/item?id=45943486) - [Facebook Text Log Between Mark Zuckerberg and Kevin Systrom(Instagram Cofounder)](https://www.dropbox.com/scl/fo/0e4qbvj7w8cwxdlpo010c/AHCMfNHmj03nPnJ-VKDYRvA?dl=0&e=1&noscript=1&preview=Facebook%2Btext%2Blog%2Bbetween%2BMark%2BZuckerberg%2Band%2BKevin%2BSystrom.pdf&rlkey=43f3smc5zi5v82h986hujmvfb)
 * [2025-11-16, 06:55:50](https://news.ycombinator.com/item?id=45943292) - [Ubiquiti Flex Mini 2.5G Review Ubiquiti Does a Cheap 5-Port 2.5GbE Switch](https://www.servethehome.com/ubiquiti-flex-mini-2-5g-review-ubiquiti-does-a-cheap-5-port-2-5gbe-switch/)
@@ -27,8 +29,6 @@
 * [2025-11-06, 22:09:29](https://news.ycombinator.com/item?id=45841095) - [When did people favor composition over inheritance?](https://www.sicpers.info/2025/11/when-did-people-favor-composition-over-inheritance/)
 * [2025-11-06, 06:15:43](https://news.ycombinator.com/item?id=45832051) - [Boa: A standard-conforming embeddable JavaScript engine written in Rust](https://github.com/boa-dev/boa)
 * [2025-11-05, 10:11:43](https://news.ycombinator.com/item?id=45821328) - [JVM exceptions are weird: a decompiler perspective](https://purplesyringa.moe/blog/jvm-exceptions-are-weird-a-decompiler-perspective/)
-* [2025-11-04, 10:03:40](https://news.ycombinator.com/item?id=45809225) - [Writing a book with Quarto](https://blog.stephenturner.us/p/quarto-books)
-* [2025-11-03, 12:46:23](https://news.ycombinator.com/item?id=45798457) - [Aunt Mary's Storybook](https://cjtinc.org/projects/amsb/)
 * [2025-11-03, 04:07:54](https://news.ycombinator.com/item?id=45795778) - [Writing a DOS Clone in 2019](https://medium.com/@andrewimm/writing-a-dos-clone-in-2019-70eac97ec3e1)
 
 ## [Archives](archives/index.md)
