@@ -7,6 +7,7 @@
 * [2025-11-05, 22:58:38](https://news.ycombinator.com/item?id=45829210) - [The Basic Laws of Human Stupidity (1987) [pdf]](https://gandalf.fee.urv.cat/professors/AntonioQuesada/Curs1920/Cipolla_laws.pdf)
 * [2025-11-05, 22:30:11](https://news.ycombinator.com/item?id=45828971) - [Why is there no Uber for plumbing/HVAC? (and why there ought to be)](https://nikolaihlebowitsh.substack.com/p/why-is-there-no-uber-for-home-maintenance)
 * [2025-11-05, 22:06:54](https://news.ycombinator.com/item?id=45828742) - [Microsoft and Google overstate job creation at Chile data centers](https://restofworld.org/2025/data-centers-jobs-microsoft-google-chile/)
+* [2025-11-05, 21:57:49](https://news.ycombinator.com/item?id=45828627) - [Why Bcrypt Can Be Unsafe for Password Hashing?](https://blog.enamya.me/posts/bcrypt-limitation)
 * [2025-11-05, 21:49:12](https://news.ycombinator.com/item?id=45828523) - [Continuous Autoregressive Language Models](https://arxiv.org/abs/2510.27688)
 * [2025-11-05, 21:19:09](https://news.ycombinator.com/item?id=45828170) - [Shinigami the Reaper](https://mixedmartialarts.com/street/goth-nerd-tests-his-kenpo-skills-under-mma-rules/)
 * [2025-11-05, 21:14:12](https://news.ycombinator.com/item?id=45828106) - [Computing Across America (1983-1985)](https://microship.com/winnebiko/)
