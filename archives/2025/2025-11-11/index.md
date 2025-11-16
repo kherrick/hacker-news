@@ -79,6 +79,7 @@
 * [2025-11-11, 07:34:10](https://news.ycombinator.com/item?id=45884951) - [The \"Dependency Cutout\" Workflow Pattern](https://blog.glyph.im/2025/11/dependency-cutout-workflow-pattern.html)
 * [2025-11-11, 07:32:06](https://news.ycombinator.com/item?id=45884937) - [SoftBank sells its entire stake in Nvidia for $5.83B](https://www.cnbc.com/2025/11/11/softbank-sells-its-entire-stake-in-nvidia-for-5point83-billion.html)
 * [2025-11-11, 06:30:22](https://news.ycombinator.com/item?id=45884658) - [The Write Last, Read First Rule](https://tigerbeetle.com/blog/2025-11-06-the-write-last-read-first-rule/)
+* [2025-11-11, 05:59:48](https://news.ycombinator.com/item?id=45884520) - [Tangled Mess](https://www.subbu.org/articles/2025/tangled-mess/)
 * [2025-11-11, 05:33:53](https://news.ycombinator.com/item?id=45884428) - [Lepton – GPL Electronic Design Automation](https://github.com/lepton-eda/lepton-eda)
 * [2025-11-11, 04:38:24](https://news.ycombinator.com/item?id=45884169) - [Up-to-date documentation you can talk to, for every repo in the world](https://deepwiki.com/)
 * [2025-11-11, 04:04:24](https://news.ycombinator.com/item?id=45883995) - [Hiring a developer as a small indie studio (in 2025)](https://www.ballardgames.com/tales/hiring-dev-2025/)
