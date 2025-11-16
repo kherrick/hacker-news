@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-11-16](index.md)
 
+* [2025-11-16, 15:26:24](https://news.ycombinator.com/item?id=45945784) - [FPGA Based IBM-PC-XT](https://bit-hack.net/2025/11/10/fpga-based-ibm-pc-xt/)
 * [2025-11-16, 15:22:16](https://news.ycombinator.com/item?id=45945750) - [De Bruijn Numerals](https://text.marvinborner.de/2023-08-22-22.html)
 * [2025-11-16, 15:00:24](https://news.ycombinator.com/item?id=45945587) - [Heretic: Automatic censorship removal for language models](https://github.com/p-e-w/heretic)
 * [2025-11-16, 13:59:19](https://news.ycombinator.com/item?id=45945202) - [Running the \"Reflections on Trusting Trust\" Compiler](https://research.swtch.com/nih)
@@ -13,6 +14,7 @@
 * [2025-11-16, 13:44:20](https://news.ycombinator.com/item?id=45945101) - [My mum was a 17-year-old free spirit – so she was locked up and put in a coma](https://www.bbc.co.uk/news/articles/cr43vx0rrwvo)
 * [2025-11-16, 13:25:32](https://news.ycombinator.com/item?id=45944969) - [Garbage Collection Is Useful](https://dubroy.com/blog/garbage-collection-is-useful/)
 * [2025-11-16, 13:23:22](https://news.ycombinator.com/item?id=45944951) - [PgFirstAid: PostgreSQL function for improving stability and performance](https://github.com/randoneering/pgFirstAid)
+* [2025-11-16, 13:20:41](https://news.ycombinator.com/item?id=45944941) - [A twelve-year-old on the failed promise of educational technology](https://micahblachman.beehiiv.com/p/where-educational-technology-fails)
 * [2025-11-16, 13:15:50](https://news.ycombinator.com/item?id=45944906) - [Vintage Large Language Models](https://owainevans.github.io/talk-transcript.html)
 * [2025-11-16, 13:13:12](https://news.ycombinator.com/item?id=45944881) - [MCP: Model Context Pitfalls in an agentic world](https://hiddenlayer.com/innovation-hub/mcp-model-context-pitfalls-in-an-agentic-world/)
 * [2025-11-16, 13:12:03](https://news.ycombinator.com/item?id=45944870) - [The Internet Is No Longer a Safe Haven](https://brainbaking.com/post/2025/10/the-internet-is-no-longer-a-safe-haven/)
