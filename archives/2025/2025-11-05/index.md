@@ -28,6 +28,7 @@
 * [2025-11-05, 18:02:37](https://news.ycombinator.com/item?id=45825879) - [Upbeat Technology's RISC-V MCU Takes Flight with Near-Threshold Computing](https://www.allaboutcircuits.com/news/upbeat-technologys-risc-v-mcu-takes-flight-with-near-threshold-computing/)
 * [2025-11-05, 17:50:45](https://news.ycombinator.com/item?id=45825733) - [Show HN: I scraped 3B Goodreads reviews to train a better recommendation model](https://book.sv)
 * [2025-11-05, 17:49:31](https://news.ycombinator.com/item?id=45825722) - [A Brutal Look at Balanced Parentheses, Computing Machines, and Pushdown Automata](https://raganwald.com/2019/02/14/i-love-programming-and-programmers.html)
+* [2025-11-05, 17:24:18](https://news.ycombinator.com/item?id=45825413) - [Fourier Transforms](https://www.continuummechanics.org/fourierxforms.html)
 * [2025-11-05, 16:59:08](https://news.ycombinator.com/item?id=45825121) - [Streaming AI Agent Desktops with Gaming Protocols](https://blog.helix.ml/p/technical-deep-dive-on-streaming)
 * [2025-11-05, 16:49:58](https://news.ycombinator.com/item?id=45825040) - [Switching from GPG to Age](https://luke.hsiao.dev/blog/gpg-to-age/)
 * [2025-11-05, 16:46:15](https://news.ycombinator.com/item?id=45825006) - [Show HN: Cj–tiny no-deps JIT in C for x86-64 and ARM64](https://github.com/hellerve-pl-experiments/cj)
