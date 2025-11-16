@@ -18,7 +18,6 @@
 * [2025-11-16, 15:22:16](https://news.ycombinator.com/item?id=45945750) - [De Bruijn Numerals](https://text.marvinborner.de/2023-08-22-22.html)
 * [2025-11-16, 15:00:24](https://news.ycombinator.com/item?id=45945587) - [Heretic: Automatic censorship removal for language models](https://github.com/p-e-w/heretic)
 * [2025-11-16, 13:59:19](https://news.ycombinator.com/item?id=45945202) - [Running the \"Reflections on Trusting Trust\" Compiler (2023)](https://research.swtch.com/nih)
-* [2025-11-16, 13:59:05](https://news.ycombinator.com/item?id=45945200) - [Production-Grade Container Deployment with Podman Quadlets – Larvitz Blog](https://blog.hofstede.it/production-grade-container-deployment-with-podman-quadlets/index.html)
 * [2025-11-16, 13:25:32](https://news.ycombinator.com/item?id=45944969) - [Garbage Collection Is Useful](https://dubroy.com/blog/garbage-collection-is-useful/)
 * [2025-11-16, 13:23:22](https://news.ycombinator.com/item?id=45944951) - [PgFirstAid: PostgreSQL function for improving stability and performance](https://github.com/randoneering/pgFirstAid)
 * [2025-11-16, 13:15:50](https://news.ycombinator.com/item?id=45944906) - [Vintage Large Language Models](https://owainevans.github.io/talk-transcript.html)
@@ -29,6 +28,7 @@
 * [2025-11-14, 01:42:01](https://news.ycombinator.com/item?id=45922907) - [Holes (1970) [pdf]](https://rintintin.colorado.edu/~vancecd/phil375/Lewis1.pdf)
 * [2025-11-11, 09:08:42](https://news.ycombinator.com/item?id=45885410) - [Waiting for SQL:202y: Group by All](http://peter.eisentraut.org/blog/2025/11/11/waiting-for-sql-202y-group-by-all)
 * [2025-11-05, 17:24:18](https://news.ycombinator.com/item?id=45825413) - [Fourier Transforms](https://www.continuummechanics.org/fourierxforms.html)
+* [2025-11-05, 07:32:50](https://news.ycombinator.com/item?id=45820358) - [Shell Grotto, Margate](https://en.wikipedia.org/wiki/Shell_Grotto,_Margate)
 * [2025-11-04, 21:12:57](https://news.ycombinator.com/item?id=45815948) - [Measuring the doppler shift of WWVB during a flight](https://greatscottgadgets.com/2025/10-31-receiving-wwvb-with-hackrf-pro/)
 
 ## [Archives](archives/index.md)
