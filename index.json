@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-11-16, 20:18:10",
+      "https://news.ycombinator.com/item?id=45948058"
+    ],
+    [
+      "I have recordings proving Coinbase knew about breach 4 months before disclosure",
+      "https://jonathanclark.com/posts/coinbase-breach-timeline.html"
+    ]
+  ],
+  [
+    [
       "2025-11-16, 19:45:36",
       "https://news.ycombinator.com/item?id=45947822"
     ],
@@ -31,6 +41,16 @@
   ],
   [
     [
+      "2025-11-16, 19:38:49",
+      "https://news.ycombinator.com/item?id=45947761"
+    ],
+    [
+      "Dark Pattern Games",
+      "https://www.darkpattern.games"
+    ]
+  ],
+  [
+    [
       "2025-11-16, 19:21:13",
       "https://news.ycombinator.com/item?id=45947639"
     ],
@@ -51,12 +71,12 @@
   ],
   [
     [
-      "2025-11-16, 18:56:31",
-      "https://news.ycombinator.com/item?id=45947434"
+      "2025-11-16, 18:47:40",
+      "https://news.ycombinator.com/item?id=45947374"
     ],
     [
-      "AI is killing privacy. We can't let that happen",
-      "https://www.fastcompany.com/91435189/ai-privacy-openai-tracking-apps"
+      "Decoding Leibniz Notation (2024)",
+      "https://www.spakhm.com/leibniz"
     ]
   ],
   [
@@ -201,16 +221,6 @@
   ],
   [
     [
-      "2025-11-16, 13:12:03",
-      "https://news.ycombinator.com/item?id=45944870"
-    ],
-    [
-      "The Internet Is No Longer a Safe Haven",
-      "https://brainbaking.com/post/2025/10/the-internet-is-no-longer-a-safe-haven/"
-    ]
-  ],
-  [
-    [
       "2025-11-16, 11:41:10",
       "https://news.ycombinator.com/item?id=45944337"
     ],
@@ -225,18 +235,8 @@
       "https://news.ycombinator.com/item?id=45944296"
     ],
     [
-      "Anthropic's report smells a lot like bullshit",
+      "Anthropic’s paper smells like bullshit",
       "https://djnn.sh/posts/anthropic-s-paper-smells-like-bullshit/"
-    ]
-  ],
-  [
-    [
-      "2025-11-16, 10:14:25",
-      "https://news.ycombinator.com/item?id=45943979"
-    ],
-    [
-      "Maybe you’re not trying",
-      "https://usefulfictions.substack.com/p/maybe-youre-not-actually-trying"
     ]
   ],
   [
@@ -247,6 +247,16 @@
     [
       "AirPods libreated from Apple's ecosystem",
       "https://github.com/kavishdevar/librepods"
+    ]
+  ],
+  [
+    [
+      "2025-11-15, 12:31:20",
+      "https://news.ycombinator.com/item?id=45936999"
+    ],
+    [
+      "Your Land, My Land (Offrange) – Lithium vs. Lettuce in the Imperial Valley, CA",
+      "https://ambrook.com/offrange/photo-essay/lithium-v-lettuce"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Measuring the doppler shift of WWVB during a flight",
       "https://greatscottgadgets.com/2025/10-31-receiving-wwvb-with-hackrf-pro/"
-    ]
-  ],
-  [
-    [
-      "2025-11-03, 16:38:58",
-      "https://news.ycombinator.com/item?id=45801004"
-    ],
-    [
-      "Diamonds and Lasers: Thermal Management for Chips",
-      "https://spectrum.ieee.org/thermal-management-chips"
     ]
   ]
 ]
