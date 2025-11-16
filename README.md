@@ -10,7 +10,6 @@
 * [2025-11-16, 13:25:32](https://news.ycombinator.com/item?id=45944969) - [Garbage Collection Is Useful](https://dubroy.com/blog/garbage-collection-is-useful/)
 * [2025-11-16, 13:23:22](https://news.ycombinator.com/item?id=45944951) - [PgFirstAid: PostgreSQL function for improving stability and performance](https://github.com/randoneering/pgFirstAid)
 * [2025-11-16, 13:15:50](https://news.ycombinator.com/item?id=45944906) - [Vintage Large Language Models](https://owainevans.github.io/talk-transcript.html)
-* [2025-11-16, 13:13:12](https://news.ycombinator.com/item?id=45944881) - [MCP: Model Context Pitfalls in an agentic world](https://hiddenlayer.com/innovation-hub/mcp-model-context-pitfalls-in-an-agentic-world/)
 * [2025-11-16, 13:12:03](https://news.ycombinator.com/item?id=45944870) - [The Internet Is No Longer a Safe Haven](https://brainbaking.com/post/2025/10/the-internet-is-no-longer-a-safe-haven/)
 * [2025-11-16, 12:25:01](https://news.ycombinator.com/item?id=45944595) - [Why use OpenBSD?](https://www.tumfatig.net/2025/why-are-you-still-using-openbsd/)
 * [2025-11-16, 11:41:10](https://news.ycombinator.com/item?id=45944337) - [Brimstone: ES2025 JavaScript engine written in Rust](https://github.com/Hans-Halverson/brimstone)
@@ -28,6 +27,7 @@
 * [2025-11-10, 15:27:42](https://news.ycombinator.com/item?id=45876884) - [Run Nix Based Environments in Kubernetes](https://flox.dev/kubernetes/)
 * [2025-11-09, 20:04:51](https://news.ycombinator.com/item?id=45868660) - [Alchemy](https://joshcollinsworth.com/blog/alchemy)
 * [2025-11-06, 22:09:29](https://news.ycombinator.com/item?id=45841095) - [When did people favor composition over inheritance?](https://www.sicpers.info/2025/11/when-did-people-favor-composition-over-inheritance/)
+* [2025-11-06, 06:15:43](https://news.ycombinator.com/item?id=45832051) - [Boa: A standard-conforming embeddable JavaScript engine written in Rust](https://github.com/boa-dev/boa)
 * [2025-11-04, 21:12:57](https://news.ycombinator.com/item?id=45815948) - [Measuring the doppler shift of WWVB during a flight](https://greatscottgadgets.com/2025/10-31-receiving-wwvb-with-hackrf-pro/)
 * [2025-11-03, 04:07:54](https://news.ycombinator.com/item?id=45795778) - [Writing a DOS Clone in 2019](https://medium.com/@andrewimm/writing-a-dos-clone-in-2019-70eac97ec3e1)
 
