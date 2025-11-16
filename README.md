@@ -16,7 +16,6 @@
 * [2025-11-15, 18:40:55](https://news.ycombinator.com/item?id=45939550) - [Transgenerational Epigenetic Inheritance: the story of learned avoidance](https://elifesciences.org/articles/109427)
 * [2025-11-15, 18:24:58](https://news.ycombinator.com/item?id=45939431) - [Things that aren't doing the thing](https://strangestloop.io/essays/things-that-arent-doing-the-thing)
 * [2025-11-15, 16:16:42](https://news.ycombinator.com/item?id=45938427) - [Mag Wealth (2024)](https://saul.pw/mag/wealth/)
-* [2025-11-15, 15:25:08](https://news.ycombinator.com/item?id=45938027) - [Weighting an average to minimize variance](https://www.johndcook.com/blog/2025/11/12/minimum-variance/)
 * [2025-11-15, 15:19:20](https://news.ycombinator.com/item?id=45937989) - [Linux on the Fujitsu Lifebook U729](https://borretti.me/article/linux-on-the-fujitsu-lifebook-u729)
 * [2025-11-15, 10:30:52](https://news.ycombinator.com/item?id=45936460) - [Our investigation into the suspicious pressure on Archive.today](https://adguard-dns.io/en/blog/archive-today-adguard-dns-block-demand.html)
 * [2025-11-15, 08:42:33](https://news.ycombinator.com/item?id=45935970) - [EyesOff: How I built a screen contact detection model](https://ym2132.github.io/building_EyesOff_part2_model_training)
@@ -28,6 +27,7 @@
 * [2025-11-06, 06:15:43](https://news.ycombinator.com/item?id=45832051) - [Boa: A standard-conforming embeddable JavaScript engine written in Rust](https://github.com/boa-dev/boa)
 * [2025-11-05, 21:14:12](https://news.ycombinator.com/item?id=45828106) - [Computing Across America (1983-1985)](https://microship.com/winnebiko/)
 * [2025-11-05, 10:11:43](https://news.ycombinator.com/item?id=45821328) - [JVM exceptions are weird: a decompiler perspective](https://purplesyringa.moe/blog/jvm-exceptions-are-weird-a-decompiler-perspective/)
+* [2025-11-04, 10:03:40](https://news.ycombinator.com/item?id=45809225) - [Writing a Data Science Book with Quarto (Using Jupyter Notebooks or Pandoc)](https://blog.stephenturner.us/p/quarto-books)
 * [2025-11-03, 12:46:23](https://news.ycombinator.com/item?id=45798457) - [Aunt Mary's Storybook](https://cjtinc.org/projects/amsb/)
 * [2025-11-03, 04:07:54](https://news.ycombinator.com/item?id=45795778) - [Writing a DOS Clone in 2019](https://medium.com/@andrewimm/writing-a-dos-clone-in-2019-70eac97ec3e1)
 
