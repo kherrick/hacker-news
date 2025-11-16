@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-11-16, 20:18:10](https://news.ycombinator.com/item?id=45948058) - [I have recordings proving Coinbase knew about breach 4 months before disclosure](https://jonathanclark.com/posts/coinbase-breach-timeline.html)
+* [2025-11-16, 19:46:28](https://news.ycombinator.com/item?id=45947827) - [Adding an imaginary unit to a finite field](https://www.johndcook.com/blog/2025/11/16/finite-field-i/)
 * [2025-11-16, 19:45:36](https://news.ycombinator.com/item?id=45947822) - [Linux mode setting, from the comfort of OCaml](https://roscidus.com/blog/blog/2025/11/16/libdrm-ocaml/)
 * [2025-11-16, 19:44:27](https://news.ycombinator.com/item?id=45947810) - [62 chapter open-source Zig book](https://www.zigbook.net)
 * [2025-11-16, 19:39:52](https://news.ycombinator.com/item?id=45947770) - [Tracking users with favicons, even in incognito mode](https://github.com/jonasstrehle/supercookie)
@@ -20,7 +21,6 @@
 * [2025-11-16, 13:59:05](https://news.ycombinator.com/item?id=45945200) - [Production-Grade Container Deployment with Podman Quadlets – Larvitz Blog](https://blog.hofstede.it/production-grade-container-deployment-with-podman-quadlets/index.html)
 * [2025-11-16, 13:25:32](https://news.ycombinator.com/item?id=45944969) - [Garbage Collection Is Useful](https://dubroy.com/blog/garbage-collection-is-useful/)
 * [2025-11-16, 13:23:22](https://news.ycombinator.com/item?id=45944951) - [PgFirstAid: PostgreSQL function for improving stability and performance](https://github.com/randoneering/pgFirstAid)
-* [2025-11-16, 13:20:41](https://news.ycombinator.com/item?id=45944941) - [Where Educational Technology Fails: A seventh-grader's perspective](https://micahblachman.beehiiv.com/p/where-educational-technology-fails)
 * [2025-11-16, 13:15:50](https://news.ycombinator.com/item?id=45944906) - [Vintage Large Language Models](https://owainevans.github.io/talk-transcript.html)
 * [2025-11-16, 11:41:10](https://news.ycombinator.com/item?id=45944337) - [Brimstone: ES2025 JavaScript engine written in Rust](https://github.com/Hans-Halverson/brimstone)
 * [2025-11-16, 11:32:39](https://news.ycombinator.com/item?id=45944296) - [Anthropic’s paper smells like bullshit](https://djnn.sh/posts/anthropic-s-paper-smells-like-bullshit/)

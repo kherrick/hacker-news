@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-11-16](index.md)
 
 * [2025-11-16, 20:18:10](https://news.ycombinator.com/item?id=45948058) - [I have recordings proving Coinbase knew about breach 4 months before disclosure](https://jonathanclark.com/posts/coinbase-breach-timeline.html)
+* [2025-11-16, 19:46:28](https://news.ycombinator.com/item?id=45947827) - [Adding an imaginary unit to a finite field](https://www.johndcook.com/blog/2025/11/16/finite-field-i/)
 * [2025-11-16, 19:45:36](https://news.ycombinator.com/item?id=45947822) - [Linux mode setting, from the comfort of OCaml](https://roscidus.com/blog/blog/2025/11/16/libdrm-ocaml/)
 * [2025-11-16, 19:44:27](https://news.ycombinator.com/item?id=45947810) - [62 chapter open-source Zig book](https://www.zigbook.net)
 * [2025-11-16, 19:39:52](https://news.ycombinator.com/item?id=45947770) - [Tracking users with favicons, even in incognito mode](https://github.com/jonasstrehle/supercookie)
