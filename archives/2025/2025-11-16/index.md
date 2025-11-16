@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-11-16](index.md)
 
+* [2025-11-16, 21:19:08](https://news.ycombinator.com/item?id=45948477) - [Peter Thiel sells off all Nvidia stock, stirring bubble fears](https://www.thestreet.com/investing/peter-thiel-dumps-top-ai-stock-stirring-bubble-fears)
 * [2025-11-16, 20:46:30](https://news.ycombinator.com/item?id=45948254) - [The Pragmatic Programmer: 20th Anniversary Edition](https://www.ahalbert.com/technology/2023/12/19/the_pragmatic_programmer.html)
 * [2025-11-16, 20:18:10](https://news.ycombinator.com/item?id=45948058) - [I have recordings proving Coinbase knew about breach 4 months before disclosure](https://jonathanclark.com/posts/coinbase-breach-timeline.html)
 * [2025-11-16, 19:46:28](https://news.ycombinator.com/item?id=45947827) - [Adding an imaginary unit to a finite field](https://www.johndcook.com/blog/2025/11/16/finite-field-i/)
