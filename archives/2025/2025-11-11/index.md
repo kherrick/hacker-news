@@ -68,6 +68,7 @@
 * [2025-11-11, 10:52:39](https://news.ycombinator.com/item?id=45886002) - [Welcome, the entire land - \"Hello, world!\" in hieroglyphics](https://optional.is/required/2009/12/03/welcome-the-entire-land/)
 * [2025-11-11, 10:17:57](https://news.ycombinator.com/item?id=45885813) - [iPhone Pocket](https://www.apple.com/newsroom/2025/11/introducing-iphone-pocket-a-beautiful-way-to-wear-and-carry-iphone/)
 * [2025-11-11, 10:09:45](https://news.ycombinator.com/item?id=45885773) - [Show HN: High-Performance .NET Bindings for the Vello Sparse Strips CPU Renderer](https://github.com/wieslawsoltes/SparseStrips)
+* [2025-11-11, 10:08:30](https://news.ycombinator.com/item?id=45885768) - [Listen to Database Changes Through the Postgres WAL](https://peterullrich.com/listen-to-database-changes-through-the-postgres-wal)
 * [2025-11-11, 10:03:57](https://news.ycombinator.com/item?id=45885750) - [Show HN: Gerbil – an open source desktop app for running LLMs locally](https://github.com/lone-cloud/gerbil)
 * [2025-11-11, 09:53:27](https://news.ycombinator.com/item?id=45885699) - [Blending SQL and Python with Sqlorm](https://hyperflask.dev/blog/2025/11/11/blending-sql-and-python-with-sqlorm/)
 * [2025-11-11, 09:48:05](https://news.ycombinator.com/item?id=45885677) - [Xqerl – Erlang XQuery 3.1 Processor](https://zadean.github.io/xqerl/)
