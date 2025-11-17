@@ -1,12 +1,12 @@
 [
   [
     [
-      "2025-11-17, 11:36:34",
-      "https://news.ycombinator.com/item?id=45952737"
+      "2025-11-17, 11:25:51",
+      "https://news.ycombinator.com/item?id=45952672"
     ],
     [
-      "Drone footage shows scale of revolting 60M-long mountain of waste next to river",
-      "https://news.sky.com/story/kidlington-fly-tipping-drone-footage-shows-scale-of-revolting-60m-long-mountain-of-waste-next-to-river-13471314"
+      "The evolution of rationality: How chimps process conflicting evidence",
+      "https://arstechnica.com/science/2025/11/the-evolution-of-rationality-how-chimps-process-conflicting-evidence/"
     ]
   ],
   [
@@ -211,16 +211,6 @@
   ],
   [
     [
-      "2025-11-16, 13:25:32",
-      "https://news.ycombinator.com/item?id=45944969"
-    ],
-    [
-      "Garbage collection is useful",
-      "https://dubroy.com/blog/garbage-collection-is-useful/"
-    ]
-  ],
-  [
-    [
       "2025-11-16, 11:32:39",
       "https://news.ycombinator.com/item?id=45944296"
     ],
@@ -297,6 +287,16 @@
     [
       "Fourier Transforms",
       "https://www.continuummechanics.org/fourierxforms.html"
+    ]
+  ],
+  [
+    [
+      "2025-11-04, 10:47:56",
+      "https://news.ycombinator.com/item?id=45809524"
+    ],
+    [
+      "Quest for Permissively Licensed PDF Library in C#",
+      "https://duerrenberger.dev/blog/2025/11/04/quest-for-permissively-licensed-pdf-library-in-csharp/"
     ]
   ]
 ]
