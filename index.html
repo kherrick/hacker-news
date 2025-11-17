@@ -129,6 +129,28 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
+        <section id="45956517">
+          <h3>
+            <a
+              class="item"
+              href="https://davidsd.org/2008/12/honda-needs-a-tune-up/"
+              >How Honda screwed up an expensive project with a simple math
+              error (2008)</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2025-11-17 @ 18:39:49</span
+              ><span class="points-container"
+                >Points: <span class="points">3</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=45956517"
+                  >Comments</a
+                ><span class="descendants">: 1</span></span
+              >
+            </h4>
+          </section>
+        </section>
         <section id="45956176">
           <h3>
             <a
@@ -141,35 +163,91 @@
             <h4>
               <span>2025-11-17 @ 18:07:17</span
               ><span class="points-container"
-                >Points: <span class="points">57</span></span
+                >Points: <span class="points">67</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45956176"
                   >Comments</a
-                ><span class="descendants">: 31</span></span
+                ><span class="descendants">: 33</span></span
               >
             </h4>
           </section>
         </section>
-        <section id="45956111">
+        <section id="45956154">
           <h3>
-            <a
-              class="item"
-              href="https://iggy.apache.org/blogs/2025/11/17/websocket-io-uring/"
-              >Show HN: Building WebSocket in Apache Iggy with Io_uring and
-              Completion Based IO</a
+            <a class="item" href="https://kalendis.dev"
+              >Show HN: Kalendis – Scheduling API (keep your UI, we handle
+              timezones/DST)</a
             >
           </h3>
           <section>
             <h4>
-              <span>2025-11-17 @ 18:00:31</span
+              <span>2025-11-17 @ 18:05:29</span
               ><span class="points-container"
-                >Points: <span class="points">5</span></span
+                >Points: <span class="points">3</span></span
               ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=45956111"
+                ><a href="https://news.ycombinator.com/item?id=45956154"
                   >Comments</a
                 ><span class="descendants">: 0</span></span
               >
             </h4>
+            <div class="text">
+              <p>
+                What it does: • MCP tool: generates typed clients and API route
+                handlers (Next.js/Express/Fastify/Nest) so you can scaffold
+                calls straight from your IDE/agent tooling. • Availability
+                engine: recurring rules + one-off exceptions/blackouts, returned
+                in a clean, queryable shape. • Bookings: conflict-safe endpoints
+                for creating/updating/canceling slots.
+              </p>
+              <p>
+                Why we built it: We kept rebuilding the same "hard parts" of
+                scheduling: time zones/DST edge cases, recurring availability,
+                conflict-aware booking, etc. We wanted a boring, reliable
+                backend so we could ship product features without adopting a
+                hosted scheduling UI.
+              </p>
+              <p>
+                How it's helped: We stopped re-implementing DST/recurrence math
+                and shipped booking flows faster. One small team (just 2
+                developers) built a robust booking platform for their business
+                using Kalendis—they kept full control of their UX without
+                spending lots of cycles on scheduling infrastructure. The MCP
+                generator cut the glue code: drop in a typed client or route,
+                call the API, move on.
+              </p>
+              <p>
+                Some tech details: • REST API with ISO-8601 timestamps and IANA
+                time zones • Recurring availability + one-off exceptions
+                (designed to compose cleanly) • Focused scope: users,
+                availability, exceptions, bookings (not a monolithic suite)
+              </p>
+              <p>
+                The MCP server exposes tools like generate-frontend-client,
+                generate-backend-client, generate-api-routes, and
+                list-endpoints. Add to your MCP settings:
+              </p>
+              <p></p>
+              <pre><code>  {
+   "mcpServers": {
+    "kalendis": {
+     "command": "npx",
+     "args": ["-y", "@kalendis/mcp"]
+    }
+   }
+  }
+
+</code></pre>
+              How to try it: Create a free account → get an API key. (<a
+                href="https://kalendis.dev"
+                >https://kalendis.dev</a
+              >). Then hit an endpoint:
+              <p></p>
+              <pre><code>  curl -H "x-api-key: $KALENDIS_API_KEY" \
+ "https://api.kalendis.dev/v1/availability/getAvailability?userId=&lt;user-id&gt;&amp;start=2025-10-07T00:00:00Z&amp;end=2025-10-14T00:00:00Z&amp;includeExceptions=true"
+</code></pre>
+              Happy to answer questions and post example snippets in the thread.
+              Thanks for taking a look!
+            </div>
           </section>
         </section>
         <section id="45955921">
@@ -182,7 +260,7 @@
             <h4>
               <span>2025-11-17 @ 17:40:45</span
               ><span class="points-container"
-                >Points: <span class="points">7</span></span
+                >Points: <span class="points">8</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45955921"
                   >Comments</a
@@ -224,11 +302,11 @@
             <h4>
               <span>2025-11-17 @ 17:39:15</span
               ><span class="points-container"
-                >Points: <span class="points">62</span></span
+                >Points: <span class="points">68</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45955900"
                   >Comments</a
-                ><span class="descendants">: 41</span></span
+                ><span class="descendants">: 59</span></span
               >
             </h4>
             <div class="text">
@@ -252,11 +330,11 @@
             <h4>
               <span>2025-11-17 @ 17:23:35</span
               ><span class="points-container"
-                >Points: <span class="points">122</span></span
+                >Points: <span class="points">125</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45955745"
                   >Comments</a
-                ><span class="descendants">: 28</span></span
+                ><span class="descendants">: 33</span></span
               >
             </h4>
           </section>
@@ -277,7 +355,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45955565"
                   >Comments</a
-                ><span class="descendants">: 10</span></span
+                ><span class="descendants">: 12</span></span
               >
             </h4>
           </section>
@@ -295,11 +373,11 @@
             <h4>
               <span>2025-11-17 @ 16:54:53</span
               ><span class="points-container"
-                >Points: <span class="points">103</span></span
+                >Points: <span class="points">116</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45955424"
                   >Comments</a
-                ><span class="descendants">: 54</span></span
+                ><span class="descendants">: 59</span></span
               >
             </h4>
           </section>
@@ -314,7 +392,7 @@
             <h4>
               <span>2025-11-17 @ 15:50:04</span
               ><span class="points-container"
-                >Points: <span class="points">108</span></span
+                >Points: <span class="points">110</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45954640"
                   >Comments</a
@@ -335,7 +413,7 @@
             <h4>
               <span>2025-11-17 @ 15:49:38</span
               ><span class="points-container"
-                >Points: <span class="points">28</span></span
+                >Points: <span class="points">29</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45954638"
                   >Comments</a
@@ -356,84 +434,13 @@
             <h4>
               <span>2025-11-17 @ 15:41:08</span
               ><span class="points-container"
-                >Points: <span class="points">240</span></span
+                >Points: <span class="points">246</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45954560"
                   >Comments</a
-                ><span class="descendants">: 186</span></span
+                ><span class="descendants">: 189</span></span
               >
             </h4>
-          </section>
-        </section>
-        <section id="45954472">
-          <h3>
-            <a class="item" href="https://news.ycombinator.com/item?id=45954472"
-              >Show HN: Bsub.io – zero-setup batch execution for command-line
-              tools</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2025-11-17 @ 15:34:38</span
-              ><span class="points-container"
-                >Points: <span class="points">3</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=45954472"
-                  >Comments</a
-                ><span class="descendants">: 0</span></span
-              >
-            </h4>
-            <div class="text">
-              <p><a href="https://www.bsub.io">https://www.bsub.io</a></p>
-              <p>
-                bsub lets you execute tools like Whisper, Typst, Pandoc,
-                Docling, and FFmpeg as remote batch jobs with no environment
-                setup. You can try them locally via the CLI or integrate via a
-                simple REST API.
-              </p>
-              <p>Example (PDF extraction):</p>
-              <p></p>
-              <pre><code>  bsubio submit -w pdf/extract \*.pdf
-</code></pre>
-              Works like running the tool locally, but the compute and isolation
-              happen in the cloud.
-              <p>
-                Technical details: - Each job runs in an isolated container with
-                defined CPU/GPU/RAM limits. - Files are stored ephemerally for
-                the duration of the job and deleted after completion. - REST API
-                returns job status, logs, and results. - Cold start for light
-                processors (Typst, Pandoc) is low; Whisper/FFmpeg take longer
-                due to model load/encoding time. - Backend scales horizontally;
-                more workers can be added during load spikes.
-              </p>
-              <p>Current processors:</p>
-              <p></p>
-              <pre><code>  SST/Whisper -- speech-to-text
-
-  Typography -- Typst, Pandoc
-
-  PDF extraction -- Docling
-
-  Video transcoding -- FFmpeg
-</code></pre>
-              More coming; suggestions welcome for tools that are painful to set
-              up locally.
-              <p>
-                Looking for testers! CLI is open source:
-                <a href="https://github.com/bsubio/cli"
-                  >https://github.com/bsubio/cli</a
-                >. Installers available for Linux/macOS; Windows testing is in
-                progress. Free during early testing; pricing TBD.
-              </p>
-              <p>
-                If you’re on Windows, feedback is especially helpful:
-                contact@bsub.io
-              </p>
-              <p>
-                If you try it, I’d appreciate feedback on API design, latency,
-                missing processors, or anything rough around the edges.
-              </p>
-            </div>
           </section>
         </section>
         <section id="45954210">
@@ -448,13 +455,46 @@
             <h4>
               <span>2025-11-17 @ 15:04:26</span
               ><span class="points-container"
-                >Points: <span class="points">79</span></span
+                >Points: <span class="points">82</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45954210"
                   >Comments</a
-                ><span class="descendants">: 33</span></span
+                ><span class="descendants">: 37</span></span
               >
             </h4>
+          </section>
+        </section>
+        <section id="45954140">
+          <h3>
+            <a class="item" href="https://angadh.com/inkhaven-7"
+              >Aldous Huxley predicts Adderall and champions alternative
+              therapies</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2025-11-17 @ 14:57:33</span
+              ><span class="points-container"
+                >Points: <span class="points">7</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=45954140"
+                  >Comments</a
+                ><span class="descendants">: 0</span></span
+              >
+            </h4>
+            <div class="text">
+              <a
+                href="https://www.youtube.com/watch?v=ld2E9LWIYJk&amp;list=PLhQ_EZYXXSe8Ymj_JlriRG3Bk4SM5cuEc&amp;index=9"
+                >https://www.youtube.com/watch?v=ld2E9LWIYJk&amp;list=PLhQ_EZYXXS...</a
+              >
+              <p>
+                Transcript:
+                <a
+                  href="https://www.organism.earth/library/document/realizing-human-potential"
+                  >https://www.organism.earth/library/document/realizing-human-...</a
+                >
+              </p>
+            </div>
           </section>
         </section>
         <section id="45953977">
@@ -468,7 +508,7 @@
             <h4>
               <span>2025-11-17 @ 14:40:54</span
               ><span class="points-container"
-                >Points: <span class="points">11</span></span
+                >Points: <span class="points">13</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45953977"
                   >Comments</a
@@ -502,7 +542,7 @@
             <h4>
               <span>2025-11-17 @ 14:11:57</span
               ><span class="points-container"
-                >Points: <span class="points">219</span></span
+                >Points: <span class="points">220</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45953702"
                   >Comments</a
@@ -523,11 +563,11 @@
             <h4>
               <span>2025-11-17 @ 13:55:53</span
               ><span class="points-container"
-                >Points: <span class="points">49</span></span
+                >Points: <span class="points">50</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45953568"
                   >Comments</a
-                ><span class="descendants">: 75</span></span
+                ><span class="descendants">: 79</span></span
               >
             </h4>
             <div class="text">
@@ -545,11 +585,11 @@
             <h4>
               <span>2025-11-17 @ 13:40:40</span
               ><span class="points-container"
-                >Points: <span class="points">169</span></span
+                >Points: <span class="points">172</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45953452"
                   >Comments</a
-                ><span class="descendants">: 37</span></span
+                ><span class="descendants">: 38</span></span
               >
             </h4>
           </section>
@@ -570,26 +610,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45952890"
                   >Comments</a
-                ><span class="descendants">: 99</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="45952824">
-          <h3>
-            <a class="item" href="https://github.com/nealmick/ned"
-              >Ned: ImGui Text Editor with GL Shaders</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2025-11-17 @ 11:53:00</span
-              ><span class="points-container"
-                >Points: <span class="points">71</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=45952824"
-                  >Comments</a
-                ><span class="descendants">: 23</span></span
+                ><span class="descendants">: 100</span></span
               >
             </h4>
           </section>
@@ -606,11 +627,11 @@
             <h4>
               <span>2025-11-17 @ 11:14:41</span
               ><span class="points-container"
-                >Points: <span class="points">20</span></span
+                >Points: <span class="points">21</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45952614"
                   >Comments</a
-                ><span class="descendants">: 7</span></span
+                ><span class="descendants">: 12</span></span
               >
             </h4>
           </section>
@@ -627,11 +648,11 @@
             <h4>
               <span>2025-11-17 @ 10:40:55</span
               ><span class="points-container"
-                >Points: <span class="points">197</span></span
+                >Points: <span class="points">198</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45952428"
                   >Comments</a
-                ><span class="descendants">: 158</span></span
+                ><span class="descendants">: 159</span></span
               >
             </h4>
           </section>
@@ -648,11 +669,11 @@
             <h4>
               <span>2025-11-17 @ 02:39:28</span
               ><span class="points-container"
-                >Points: <span class="points">83</span></span
+                >Points: <span class="points">85</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45950408"
                   >Comments</a
-                ><span class="descendants">: 86</span></span
+                ><span class="descendants">: 88</span></span
               >
             </h4>
           </section>
@@ -690,11 +711,11 @@
             <h4>
               <span>2025-11-16 @ 13:45:45</span
               ><span class="points-container"
-                >Points: <span class="points">223</span></span
+                >Points: <span class="points">226</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45945114"
                   >Comments</a
-                ><span class="descendants">: 181</span></span
+                ><span class="descendants">: 184</span></span
               >
             </h4>
           </section>
@@ -711,11 +732,11 @@
             <h4>
               <span>2025-11-16 @ 11:02:25</span
               ><span class="points-container"
-                >Points: <span class="points">75</span></span
+                >Points: <span class="points">79</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45944158"
                   >Comments</a
-                ><span class="descendants">: 17</span></span
+                ><span class="descendants">: 19</span></span
               >
             </h4>
           </section>
@@ -732,11 +753,11 @@
             <h4>
               <span>2025-11-15 @ 13:24:54</span
               ><span class="points-container"
-                >Points: <span class="points">56</span></span
+                >Points: <span class="points">64</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45937302"
                   >Comments</a
-                ><span class="descendants">: 17</span></span
+                ><span class="descendants">: 24</span></span
               >
             </h4>
           </section>
@@ -751,7 +772,7 @@
             <h4>
               <span>2025-11-15 @ 07:27:21</span
               ><span class="points-container"
-                >Points: <span class="points">62</span></span
+                >Points: <span class="points">73</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45935687"
                   >Comments</a
@@ -777,11 +798,11 @@
             <h4>
               <span>2025-11-14 @ 18:53:27</span
               ><span class="points-container"
-                >Points: <span class="points">50</span></span
+                >Points: <span class="points">51</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45930438"
                   >Comments</a
-                ><span class="descendants">: 25</span></span
+                ><span class="descendants">: 26</span></span
               >
             </h4>
           </section>
@@ -798,7 +819,7 @@
             <h4>
               <span>2025-11-14 @ 01:57:57</span
               ><span class="points-container"
-                >Points: <span class="points">6</span></span
+                >Points: <span class="points">7</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45922997"
                   >Comments</a
@@ -819,7 +840,7 @@
             <h4>
               <span>2025-11-12 @ 14:12:13</span
               ><span class="points-container"
-                >Points: <span class="points">648</span></span
+                >Points: <span class="points">662</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45900425"
                   >Comments</a
