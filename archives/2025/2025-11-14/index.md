@@ -16,6 +16,7 @@
 * [2025-11-14, 19:43:15](https://news.ycombinator.com/item?id=45931224) - [An Italian Company Builds the First Known Propellantless Space-Propulsion System](https://www.satcom.digital/news/genergo-an-italian-company-builds-the-worlds-first-known-propellantless-space-propulsion-system-flight-tested-and-validated-on-orbit)
 * [2025-11-14, 19:07:45](https://news.ycombinator.com/item?id=45930659) - [Show HN: Chirp – Local Windows dictation with ParakeetV3 no executable required](https://github.com/Whamp/chirp)
 * [2025-11-14, 19:04:23](https://news.ycombinator.com/item?id=45930598) - [Structured Outputs on the Claude Developer Platform (API)](https://www.claude.com/blog/structured-outputs-on-the-claude-developer-platform)
+* [2025-11-14, 18:53:27](https://news.ycombinator.com/item?id=45930438) - [Raccoons are showing early signs of domestication](https://www.scientificamerican.com/article/raccoons-are-showing-early-signs-of-domestication/)
 * [2025-11-14, 18:42:55](https://news.ycombinator.com/item?id=45930284) - [Minisforum Stuffs Entire Arm Homelab in the MS-R1](https://www.jeffgeerling.com/blog/2025/minisforum-stuffs-entire-arm-homelab-ms-r1)
 * [2025-11-14, 18:35:22](https://news.ycombinator.com/item?id=45930151) - [AI World Clocks](https://clocks.brianmoore.com/)
 * [2025-11-14, 18:20:08](https://news.ycombinator.com/item?id=45929921) - [We Uncovered a Race Condition in Aurora RDS](https://hightouch.com/blog/uncovering-a-race-condition-in-aurora-rds)

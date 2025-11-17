@@ -36,6 +36,7 @@
 * [2025-11-15, 14:53:09](https://news.ycombinator.com/item?id=45937816) - [How to Tolerate Annoying Things](https://psyche.co/guides/how-to-respond-to-annoying-things-with-greater-ease)
 * [2025-11-15, 14:31:39](https://news.ycombinator.com/item?id=45937719) - [Waymo Was on a Roll in San Francisco. Then One of Its Cars Killed a Cat](https://www.nytimes.com/2025/11/15/us/waymo-san-francisco-kit-kat.html)
 * [2025-11-15, 13:58:09](https://news.ycombinator.com/item?id=45937518) - [How to write type-safe generics in C](https://raphgl.github.io/blog/generics-in-c.html)
+* [2025-11-15, 13:24:54](https://news.ycombinator.com/item?id=45937302) - [My stages of learning to be a socially normal person](https://sashachapin.substack.com/p/my-six-stages-of-learning-to-be-a)
 * [2025-11-15, 12:31:20](https://news.ycombinator.com/item?id=45936999) - [Your Land, My Land (Offrange) – Lithium vs. Lettuce in the Imperial Valley, CA](https://ambrook.com/offrange/photo-essay/lithium-v-lettuce)
 * [2025-11-15, 12:23:08](https://news.ycombinator.com/item?id=45936964) - [Kagi Bloopers – Search Results Gone Wrong](https://help.kagi.com/kagi/bloopers/)
 * [2025-11-15, 12:01:10](https://news.ycombinator.com/item?id=45936837) - [Activeloop (YC S18) Is Hiring MTS(Back End)and AI Search Engineer](https://careers.activeloop.ai/)
