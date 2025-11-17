@@ -37,6 +37,7 @@
 * [2025-11-12, 15:42:35](https://news.ycombinator.com/item?id=45901543) - [Anthropic invests $50B in US AI infrastructure](https://www.anthropic.com/news/anthropic-invests-50-billion-in-american-ai-infrastructure)
 * [2025-11-12, 15:37:22](https://news.ycombinator.com/item?id=45901464) - [Two women had a business meeting. AI called it childcare](https://medium.com/hold-my-juice/two-women-had-a-business-meeting-ai-called-it-childcare-6b09f5952940)
 * [2025-11-12, 15:20:08](https://news.ycombinator.com/item?id=45901274) - [Testing out Crush, a TUI based coding agent](https://grahamhelton.com/blog/crushing-it)
+* [2025-11-12, 15:18:05](https://news.ycombinator.com/item?id=45901257) - [Extreme Moon: The Major Lunar Standstill of 2024-2025](https://griffithobservatory.org/extreme-moon-the-major-lunar-standstills-of-2024-2025/)
 * [2025-11-12, 15:08:35](https://news.ycombinator.com/item?id=45901149) - [Fungus in Chernobyl nuclear disaster zone has mutated to 'feed' on radiation](https://www.unilad.com/news/world-news/fungus-chernobyl-mutated-feed-radiation-164735-20241217)
 * [2025-11-12, 14:54:27](https://news.ycombinator.com/item?id=45900978) - [Learn Prolog Now](https://lpn.swi-prolog.org/lpnpage.php?pageid=top)
 * [2025-11-12, 14:51:50](https://news.ycombinator.com/item?id=45900947) - [Denial of Fuzzing: Rust in the Windows Kernel](https://research.checkpoint.com/2025/denial-of-fuzzing-rust-in-the-windows-kernel/)
