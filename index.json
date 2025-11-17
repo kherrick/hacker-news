@@ -21,16 +21,6 @@
   ],
   [
     [
-      "2025-11-17, 19:22:06",
-      "https://news.ycombinator.com/item?id=45957073"
-    ],
-    [
-      "Implementing Rust newtype for errors in axum",
-      "https://rup12.net/posts/learning-rust-custom-errors/"
-    ]
-  ],
-  [
-    [
       "2025-11-17, 18:07:17",
       "https://news.ycombinator.com/item?id=45956176"
     ],
@@ -117,16 +107,6 @@
     [
       "Google is killing the open web, part 2",
       "https://wok.oblomov.eu/tecnologia/google-killing-open-web-2/"
-    ]
-  ],
-  [
-    [
-      "2025-11-17, 15:34:38",
-      "https://news.ycombinator.com/item?id=45954472"
-    ],
-    [
-      "Show HN: Bsub.io – zero-setup batch execution for command-line tools",
-      "https://news.ycombinator.com/item?id=45954472"
     ]
   ],
   [
@@ -221,6 +201,16 @@
   ],
   [
     [
+      "2025-11-16, 22:36:56",
+      "https://news.ycombinator.com/item?id=45949102"
+    ],
+    [
+      "An overly aggressive mock can work fine, but break much later",
+      "https://nedbatchelder.com/blog/202511/why_your_mock_breaks_later.html"
+    ]
+  ],
+  [
+    [
       "2025-11-16, 13:45:45",
       "https://news.ycombinator.com/item?id=45945114"
     ],
@@ -277,6 +267,16 @@
     [
       "Our dogs' diversity can be traced back to the Stone Age",
       "https://www.bbc.com/news/articles/ce9d7j89ykro"
+    ]
+  ],
+  [
+    [
+      "2025-11-12, 15:44:03",
+      "https://news.ycombinator.com/item?id=45901560"
+    ],
+    [
+      "Insects on the Space Menu",
+      "https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Insects_on_the_space_menu"
     ]
   ],
   [
