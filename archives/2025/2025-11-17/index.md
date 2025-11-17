@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-11-17](index.md)
 
+* [2025-11-17, 20:37:07](https://news.ycombinator.com/item?id=45958005) - [Grok 4.1](https://x.ai/news/grok-4-1)
 * [2025-11-17, 20:04:49](https://news.ycombinator.com/item?id=45957629) - [Compiling Ruby to Machine Language](https://patshaughnessy.net/2025/11/17/compiling-ruby-to-machine-language)
 * [2025-11-17, 19:45:00](https://news.ycombinator.com/item?id=45957402) - [Show HN: PrinceJS – 19,200 req/s Bun framework in 2.8 kB (built by a 13yo)](https://princejs.vercel.app)
 * [2025-11-17, 19:22:06](https://news.ycombinator.com/item?id=45957073) - [Implementing Rust newtype for errors in axum](https://rup12.net/posts/learning-rust-custom-errors/)
@@ -14,6 +15,7 @@
 * [2025-11-17, 18:00:31](https://news.ycombinator.com/item?id=45956111) - [Show HN: Building WebSocket in Apache Iggy with Io_uring and Completion Based IO](https://iggy.apache.org/blogs/2025/11/17/websocket-io-uring/)
 * [2025-11-17, 17:40:45](https://news.ycombinator.com/item?id=45955921) - [EEG-based neurofeedback in athletes and non-athletes](https://www.mdpi.com/2306-5354/12/11/1202)
 * [2025-11-17, 17:39:43](https://news.ycombinator.com/item?id=45955904) - [DESI's Dizzying Results](https://www.universetoday.com/articles/desis-dizzying-results)
+* [2025-11-17, 17:39:15](https://news.ycombinator.com/item?id=45955900) - [Azure hit by 15 Tbps DDoS attack using 500k IP addresses](https://www.bleepingcomputer.com/news/microsoft/microsoft-aisuru-botnet-used-500-000-ips-in-15-tbps-azure-ddos-attack/)
 * [2025-11-17, 17:39:15](https://news.ycombinator.com/item?id=45955900) - [Azure hit by 15 Tbps DDoS attack using 500k IP addresses](https://techcommunity.microsoft.com/blog/azureinfrastructureblog/defending-the-cloud-azure-neutralized-a-record-breaking-15-tbps-ddos-attack/4470422)
 * [2025-11-17, 17:37:42](https://news.ycombinator.com/item?id=45955889) - [A new book recovers the origins of Effective Altruism](https://newrepublic.com/article/202433/happened-effective-altruism)
 * [2025-11-17, 17:36:15](https://news.ycombinator.com/item?id=45955879) - [The Baumol Effect and Jevons paradox are related](https://www.a16z.news/p/why-ac-is-cheap-but-ac-repair-is)

@@ -1,17 +1,16 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-11-17, 20:37:07](https://news.ycombinator.com/item?id=45958005) - [Grok 4.1](https://x.ai/news/grok-4-1)
 * [2025-11-17, 20:04:49](https://news.ycombinator.com/item?id=45957629) - [Compiling Ruby to Machine Language](https://patshaughnessy.net/2025/11/17/compiling-ruby-to-machine-language)
 * [2025-11-17, 19:45:00](https://news.ycombinator.com/item?id=45957402) - [Show HN: PrinceJS – 19,200 req/s Bun framework in 2.8 kB (built by a 13yo)](https://princejs.vercel.app)
 * [2025-11-17, 18:07:17](https://news.ycombinator.com/item?id=45956176) - [An official atlas of North Korea](https://www.cartographerstale.com/p/an-official-atlas-of-north-korea)
-* [2025-11-17, 18:00:31](https://news.ycombinator.com/item?id=45956111) - [Show HN: Building WebSocket in Apache Iggy with Io_uring and Completion Based IO](https://iggy.apache.org/blogs/2025/11/17/websocket-io-uring/)
 * [2025-11-17, 17:40:45](https://news.ycombinator.com/item?id=45955921) - [EEG-based neurofeedback in athletes and non-athletes](https://www.mdpi.com/2306-5354/12/11/1202)
 * [2025-11-17, 17:39:43](https://news.ycombinator.com/item?id=45955904) - [DESI's Dizzying Results](https://www.universetoday.com/articles/desis-dizzying-results)
+* [2025-11-17, 17:39:15](https://news.ycombinator.com/item?id=45955900) - [Azure hit by 15 Tbps DDoS attack using 500k IP addresses](https://www.bleepingcomputer.com/news/microsoft/microsoft-aisuru-botnet-used-500-000-ips-in-15-tbps-azure-ddos-attack/)
 * [2025-11-17, 17:07:17](https://news.ycombinator.com/item?id=45955565) - [How when AWS was down, we were not](https://authress.io/knowledge-base/articles/2025/11/01/how-we-prevent-aws-downtime-impacts)
-* [2025-11-17, 16:54:53](https://news.ycombinator.com/item?id=45955424) - [Israeli-founded app preloaded on Samsung phones is attracting controversy](https://www.sammobile.com/news/israeli-app-app-cloud-samsung-phones-controversy/)
 * [2025-11-17, 15:50:04](https://news.ycombinator.com/item?id=45954640) - [Project Gemini](https://geminiprotocol.net/)
 * [2025-11-17, 15:49:38](https://news.ycombinator.com/item?id=45954638) - [How to escape the Linux networking stack](https://blog.cloudflare.com/so-long-and-thanks-for-all-the-fish-how-to-escape-the-linux-networking-stack/)
 * [2025-11-17, 15:41:08](https://news.ycombinator.com/item?id=45954560) - [Google is killing the open web, part 2](https://wok.oblomov.eu/tecnologia/google-killing-open-web-2/)
-* [2025-11-17, 15:34:38](https://news.ycombinator.com/item?id=45954472) - [Show HN: Bsub.io – zero-setup batch execution for command-line tools](https://news.ycombinator.com/item?id=45954472)
 * [2025-11-17, 15:04:26](https://news.ycombinator.com/item?id=45954210) - [WeatherNext 2: Our most advanced weather forecasting model](https://blog.google/technology/google-deepmind/weathernext-2/)
 * [2025-11-17, 14:57:33](https://news.ycombinator.com/item?id=45954140) - [Aldous Huxley predicts Adderall and champions alternative therapies](https://angadh.com/inkhaven-7)
 * [2025-11-17, 14:40:54](https://news.ycombinator.com/item?id=45953977) - [Show HN: ESPectre – Motion detection based on Wi-Fi spectre analysis](https://github.com/francescopace/espectre)
@@ -30,6 +29,7 @@
 * [2025-11-12, 15:44:03](https://news.ycombinator.com/item?id=45901560) - [Insects on the Space Menu](https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Insects_on_the_space_menu)
 * [2025-11-12, 15:28:54](https://news.ycombinator.com/item?id=45901379) - [\"One Student One Chip\" Course Homepage](https://ysyx.oscc.cc/docs/en/)
 * [2025-11-12, 14:12:13](https://news.ycombinator.com/item?id=45900425) - [Show HN: I built a synth for my daughter](https://bitsnpieces.dev/posts/a-synth-for-my-daughter/)
+* [2025-11-11, 22:41:04](https://news.ycombinator.com/item?id=45893879) - [My Kind of REPL](https://ianthehenry.com/posts/my-kind-of-repl/)
 
 ## [Archives](archives/index.md)
 
