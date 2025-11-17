@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-11-17, 13:16:30",
+      "https://news.ycombinator.com/item?id=45953281"
+    ],
+    [
+      "US startup Substrate announces chipmaking tool that it says will rival ASML",
+      "https://www.msn.com/en-in/news/world/us-startup-substrate-announces-chipmaking-tool-that-it-says-will-rival-asml/ar-AA1PltWT"
+    ]
+  ],
+  [
+    [
+      "2025-11-17, 13:01:49",
+      "https://news.ycombinator.com/item?id=45953202"
+    ],
+    [
+      "GCC 16 considering changing default to C++20",
+      "https://inbox.sourceware.org/gcc/aQj1tKzhftT9GUF4@redhat.com/"
+    ]
+  ],
+  [
+    [
       "2025-11-17, 11:25:51",
       "https://news.ycombinator.com/item?id=45952672"
     ],
@@ -71,16 +91,6 @@
   ],
   [
     [
-      "2025-11-16, 23:15:20",
-      "https://news.ycombinator.com/item?id=45949326"
-    ],
-    [
-      "Britney Spears' Guide to Semiconductor Physics (2000)",
-      "https://britneyspears.ac/lasers.htm"
-    ]
-  ],
-  [
-    [
       "2025-11-16, 21:57:13",
       "https://news.ycombinator.com/item?id=45948792"
     ],
@@ -121,16 +131,6 @@
   ],
   [
     [
-      "2025-11-16, 19:45:36",
-      "https://news.ycombinator.com/item?id=45947822"
-    ],
-    [
-      "Linux mode setting, from the comfort of OCaml",
-      "https://roscidus.com/blog/blog/2025/11/16/libdrm-ocaml/"
-    ]
-  ],
-  [
-    [
       "2025-11-16, 19:44:27",
       "https://news.ycombinator.com/item?id=45947810"
     ],
@@ -147,16 +147,6 @@
     [
       "Supercookie: Browser Fingerprinting via Favicon (2021)",
       "https://github.com/jonasstrehle/supercookie"
-    ]
-  ],
-  [
-    [
-      "2025-11-16, 19:38:49",
-      "https://news.ycombinator.com/item?id=45947761"
-    ],
-    [
-      "Dark Pattern Games",
-      "https://www.darkpattern.games"
     ]
   ],
   [
@@ -211,22 +201,22 @@
   ],
   [
     [
-      "2025-11-16, 11:32:39",
-      "https://news.ycombinator.com/item?id=45944296"
-    ],
-    [
-      "Anthropic’s paper smells like bullshit",
-      "https://djnn.sh/posts/anthropic-s-paper-smells-like-bullshit/"
-    ]
-  ],
-  [
-    [
       "2025-11-14, 06:25:51",
       "https://news.ycombinator.com/item?id=45924417"
     ],
     [
       "Fastmcpp (Fastmcp for C++)",
       "https://github.com/0xeb/fastmcpp"
+    ]
+  ],
+  [
+    [
+      "2025-11-12, 14:12:13",
+      "https://news.ycombinator.com/item?id=45900425"
+    ],
+    [
+      "Show HN: I built a synth for my daughter",
+      "https://bitsnpieces.dev/posts/a-synth-for-my-daughter/"
     ]
   ],
   [
@@ -287,6 +277,16 @@
     [
       "Fourier Transforms",
       "https://www.continuummechanics.org/fourierxforms.html"
+    ]
+  ],
+  [
+    [
+      "2025-11-05, 14:04:22",
+      "https://news.ycombinator.com/item?id=45822953"
+    ],
+    [
+      "C++ implementation of SIP, ICE, TURN and related protocols",
+      "https://github.com/resiprocate/resiprocate"
     ]
   ],
   [
