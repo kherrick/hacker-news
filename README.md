@@ -5,6 +5,7 @@
 * [2025-11-17, 13:01:49](https://news.ycombinator.com/item?id=45953202) - [GCC 16 considering changing default to C++20](https://inbox.sourceware.org/gcc/aQj1tKzhftT9GUF4@redhat.com/)
 * [2025-11-17, 12:38:07](https://news.ycombinator.com/item?id=45953051) - [Mysterious drones have been spotted at airports across Europe](https://www.bbc.co.uk/news/articles/crkl3d6pegpo)
 * [2025-11-17, 11:53:00](https://news.ycombinator.com/item?id=45952824) - [Ned: ImGui Text Editor with GL Shaders](https://github.com/nealmick/ned)
+* [2025-11-17, 11:47:54](https://news.ycombinator.com/item?id=45952795) - [Republican push to make U.S. census surveys voluntary alarms statisticians](https://www.science.org/content/article/republican-push-make-u-s-census-surveys-voluntary-alarms-statisticians)
 * [2025-11-17, 10:40:55](https://news.ycombinator.com/item?id=45952428) - [Giving C a Superpower](https://hwisnu.bearblog.dev/giving-c-a-superpower-custom-header-file-safe_ch/)
 * [2025-11-17, 03:52:50](https://news.ycombinator.com/item?id=45950720) - [Building a Simple Search Engine That Works](https://karboosx.net/post/4eZxhBon/building-a-simple-search-engine-that-actually-works)
 * [2025-11-17, 03:09:58](https://news.ycombinator.com/item?id=45950553) - [Mixing Is the Heartbeat of Deep Lakes. At Crater Lake, It's Slowing Down](https://www.quantamagazine.org/mixing-is-the-heartbeat-of-deep-lakes-at-crater-lake-its-slowing-down-20251114/)
@@ -14,8 +15,6 @@
 * [2025-11-16, 21:57:13](https://news.ycombinator.com/item?id=45948792) - [Neuroscientists track the neural activity underlying an “aha”](https://www.quantamagazine.org/how-your-brain-creates-aha-moments-and-why-they-stick-20251105/)
 * [2025-11-16, 20:54:14](https://news.ycombinator.com/item?id=45948311) - [Why Castrol Honda Superbike crashes on (most) modern systems](https://seri.tools/blog/castrol-honda-superbike/)
 * [2025-11-16, 20:46:30](https://news.ycombinator.com/item?id=45948254) - [The Pragmatic Programmer: 20th Anniversary Edition (2023)](https://www.ahalbert.com/technology/2023/12/19/the_pragmatic_programmer.html)
-* [2025-11-16, 19:44:27](https://news.ycombinator.com/item?id=45947810) - [Open-source Zig book](https://www.zigbook.net)
-* [2025-11-16, 19:39:52](https://news.ycombinator.com/item?id=45947770) - [Supercookie: Browser Fingerprinting via Favicon (2021)](https://github.com/jonasstrehle/supercookie)
 * [2025-11-16, 19:21:13](https://news.ycombinator.com/item?id=45947639) - [The fate of \"small\" open source](https://nolanlawson.com/2025/11/16/the-fate-of-small-open-source/)
 * [2025-11-16, 18:38:37](https://news.ycombinator.com/item?id=45947301) - [Z3 API in Python: From Sudoku to N-Queens in Under 20 Lines (2015)](https://ericpony.github.io/z3py-tutorial/guide-examples.htm)
 * [2025-11-16, 17:39:43](https://news.ycombinator.com/item?id=45946865) - [I finally understand Cloudflare Zero Trust tunnels](https://david.coffee/cloudflare-zero-trust-tunnels)
@@ -30,6 +29,7 @@
 * [2025-11-05, 17:24:18](https://news.ycombinator.com/item?id=45825413) - [Fourier Transforms](https://www.continuummechanics.org/fourierxforms.html)
 * [2025-11-05, 14:04:22](https://news.ycombinator.com/item?id=45822953) - [C++ implementation of SIP, ICE, TURN and related protocols](https://github.com/resiprocate/resiprocate)
 * [2025-11-04, 10:47:56](https://news.ycombinator.com/item?id=45809524) - [Quest for Permissively Licensed PDF Library in C#](https://duerrenberger.dev/blog/2025/11/04/quest-for-permissively-licensed-pdf-library-in-csharp/)
+* [2025-11-03, 08:19:09](https://news.ycombinator.com/item?id=45796932) - [Celtic Code: Drawing Knots with Python](https://2earth.github.io/website/20250202.html)
 
 ## [Archives](archives/index.md)
 
