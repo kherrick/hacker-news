@@ -2,7 +2,6 @@
 
 * [2025-11-17, 03:52:50](https://news.ycombinator.com/item?id=45950720) - [Building a Simple Search Engine That Works](https://karboosx.net/post/4eZxhBon/building-a-simple-search-engine-that-actually-works)
 * [2025-11-17, 03:09:58](https://news.ycombinator.com/item?id=45950553) - [Mixing Is the Heartbeat of Deep Lakes. At Crater Lake, It's Slowing Down](https://www.quantamagazine.org/mixing-is-the-heartbeat-of-deep-lakes-at-crater-lake-its-slowing-down-20251114/)
-* [2025-11-17, 02:39:28](https://news.ycombinator.com/item?id=45950408) - [People are using iPad OS features on their iPhones](https://idevicecentral.com/ios-customization/how-to-enable-ipad-features-like-multitasking-stage-manager-on-iphone-via-mobilegestalt/)
 * [2025-11-17, 02:36:18](https://news.ycombinator.com/item?id=45950396) - [A 1961 Relay Computer Running in the Browser](https://minivac.greg.technology/)
 * [2025-11-16, 23:58:21](https://news.ycombinator.com/item?id=45949655) - [A new chapter begins for EV batteries with the expiry of key LFP patents](https://www.shoosmiths.com/insights/articles/a-new-chapter-begins-for-ev-batteries-with-the-expiry-of-key-lfp-patents)
 * [2025-11-16, 23:19:24](https://news.ycombinator.com/item?id=45949352) - [PicoIDE – An open IDE/ATAPI drive emulator](https://picoide.com/)
@@ -23,8 +22,9 @@
 * [2025-11-16, 13:45:45](https://news.ycombinator.com/item?id=45945114) - [Where do the children play?](https://unpublishablepapers.substack.com/p/where-do-the-children-play)
 * [2025-11-16, 13:25:32](https://news.ycombinator.com/item?id=45944969) - [Garbage collection is useful](https://dubroy.com/blog/garbage-collection-is-useful/)
 * [2025-11-16, 11:32:39](https://news.ycombinator.com/item?id=45944296) - [Anthropic’s paper smells like bullshit](https://djnn.sh/posts/anthropic-s-paper-smells-like-bullshit/)
+* [2025-11-16, 00:01:25](https://news.ycombinator.com/item?id=45941596) - [AirPods libreated from Apple's ecosystem](https://github.com/kavishdevar/librepods)
 * [2025-11-12, 15:18:05](https://news.ycombinator.com/item?id=45901257) - [Extreme Moon: The Major Lunar Standstill of 2024-2025](https://griffithobservatory.org/extreme-moon-the-major-lunar-standstills-of-2024-2025/)
-* [2025-11-11, 21:59:34](https://news.ycombinator.com/item?id=45893471) - [runit Linux: Guide to Unix Init Scheme with Service Supervision](https://codelucky.com/runit-linux-init-service-supervision/)
+* [2025-11-11, 21:59:34](https://news.ycombinator.com/item?id=45893471) - [Runit Linux: Complete Guide to Unix Init Scheme with Service Supervision](https://codelucky.com/runit-linux-init-service-supervision/)
 * [2025-11-11, 10:08:30](https://news.ycombinator.com/item?id=45885768) - [Listen to Database Changes Through the Postgres WAL](https://peterullrich.com/listen-to-database-changes-through-the-postgres-wal)
 * [2025-11-06, 18:57:29](https://news.ycombinator.com/item?id=45838894) - [A Man Who Rescued Faulkner](https://www.theatlantic.com/magazine/2025/12/malcolm-cowley-american-literature/684606/)
 * [2025-11-06, 16:52:19](https://news.ycombinator.com/item?id=45837259) - [A file format uncracked for 20 years](https://landaire.net/a-file-format-uncracked-for-20-years/)
