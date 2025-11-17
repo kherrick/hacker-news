@@ -8,6 +8,7 @@
 * [2025-11-17, 15:50:04](https://news.ycombinator.com/item?id=45954640) - [Project Gemini](https://geminiprotocol.net/)
 * [2025-11-17, 15:48:18](https://news.ycombinator.com/item?id=45954626) - [WBlock: A New Ad-Blocker for Safari](https://github.com/0xCUB3/wBlock)
 * [2025-11-17, 15:41:08](https://news.ycombinator.com/item?id=45954560) - [Google is killing the open web, part 2](https://wok.oblomov.eu/tecnologia/google-killing-open-web-2/)
+* [2025-11-17, 15:04:26](https://news.ycombinator.com/item?id=45954210) - [WeatherNext 2: Our most advanced weather forecasting model](https://blog.google/technology/google-deepmind/weathernext-2/)
 * [2025-11-17, 14:31:21](https://news.ycombinator.com/item?id=45953883) - [Jeff Bezos Creates A.I. Startup Where He Will Be Co-Chief Executive](https://www.nytimes.com/2025/11/17/technology/bezos-project-prometheus.html)
 * [2025-11-17, 14:11:57](https://news.ycombinator.com/item?id=45953702) - [Replicate is joining Cloudflare](https://replicate.com/blog/replicate-cloudflare)
 * [2025-11-17, 13:55:53](https://news.ycombinator.com/item?id=45953568) - [Geothermal energy might be the baseload revolution we've been looking for](https://www.newyorker.com/magazine/2025/11/24/why-the-time-has-finally-come-for-geothermal-energy)
