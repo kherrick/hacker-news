@@ -50,6 +50,7 @@
 * [2025-11-05, 14:14:23](https://news.ycombinator.com/item?id=45823059) - [Removing XSLT for a more secure browser](https://developer.chrome.com/docs/web-platform/deprecating-xslt)
 * [2025-11-05, 14:07:50](https://news.ycombinator.com/item?id=45823000) - [Staying opinionated as you grow](https://hugo.writizzy.com/being-opinionated/57a0fa35-1afc-4824-8d42-3bce26e94ade)
 * [2025-11-05, 14:06:22](https://news.ycombinator.com/item?id=45822982) - [A P2P Vision for QUIC (2024)](https://seemann.io/posts/2024-10-26---p2p-quic/)
+* [2025-11-05, 14:04:22](https://news.ycombinator.com/item?id=45822953) - [C++ implementation of SIP, ICE, TURN and related protocols](https://github.com/resiprocate/resiprocate)
 * [2025-11-05, 14:00:41](https://news.ycombinator.com/item?id=45822902) - [Microsoft Can't Keep EU Data Safe from US Authorities](https://www.forbes.com/sites/emmawoollacott/2025/07/22/microsoft-cant-keep-eu-data-safe-from-us-authorities/)
 * [2025-11-05, 13:33:53](https://news.ycombinator.com/item?id=45822650) - [Why Your Best Engineers Are Interviewing Elsewhere, CodeGood](https://codegood.co/writing/why-your-best-engineers-are-interviewing-elsewhere)
 * [2025-11-05, 13:22:35](https://news.ycombinator.com/item?id=45822559) - [Radiant Computer](https://radiant.computer)
