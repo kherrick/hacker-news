@@ -69,6 +69,7 @@
 * [2025-11-05, 09:39:58](https://news.ycombinator.com/item?id=45821154) - [Incus-OS: Immutable Linux OS to run Incus as a hypervisor](https://linuxcontainers.org/incus-os/)
 * [2025-11-05, 08:54:11](https://news.ycombinator.com/item?id=45820872) - [A Quote from Belligerentbarbies](https://simonwillison.net/2025/Nov/5/brenda/)
 * [2025-11-05, 08:45:16](https://news.ycombinator.com/item?id=45820824) - [Largest panoramic image – 2 Terapixels](https://holmenkollen360.com/)
+* [2025-11-05, 08:38:24](https://news.ycombinator.com/item?id=45820782) - [WebTransport is almost here to allow UDP-like exchange in the browser](https://developer.mozilla.org/en-US/docs/Web/API/WebTransport_API)
 * [2025-11-05, 08:28:04](https://news.ycombinator.com/item?id=45820715) - [The Hackers Manifesto (The Conscience of a Hacker) (1986)](https://phrack.org/issues/7/3)
 * [2025-11-05, 07:32:50](https://news.ycombinator.com/item?id=45820358) - [Shell Grotto, Margate](https://en.wikipedia.org/wiki/Shell_Grotto,_Margate)
 * [2025-11-05, 06:00:00](https://news.ycombinator.com/item?id=45819731) - [Deploying Temporal on AWS ECS with Terraform](https://papnori.github.io/posts/temporal-ecs-terraform/)
