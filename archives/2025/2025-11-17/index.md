@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-11-17](index.md)
 
+* [2025-11-17, 20:04:49](https://news.ycombinator.com/item?id=45957629) - [Compiling Ruby to Machine Language](https://patshaughnessy.net/2025/11/17/compiling-ruby-to-machine-language)
 * [2025-11-17, 19:45:00](https://news.ycombinator.com/item?id=45957402) - [Show HN: PrinceJS – 19,200 req/s Bun framework in 2.8 kB (built by a 13yo)](https://princejs.vercel.app)
 * [2025-11-17, 19:22:06](https://news.ycombinator.com/item?id=45957073) - [Implementing Rust newtype for errors in axum](https://rup12.net/posts/learning-rust-custom-errors/)
 * [2025-11-17, 18:39:49](https://news.ycombinator.com/item?id=45956517) - [How Honda screwed up an expensive project with a simple math error (2008)](https://davidsd.org/2008/12/honda-needs-a-tune-up/)

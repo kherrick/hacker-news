@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-11-17, 20:04:49](https://news.ycombinator.com/item?id=45957629) - [Compiling Ruby to Machine Language](https://patshaughnessy.net/2025/11/17/compiling-ruby-to-machine-language)
 * [2025-11-17, 19:45:00](https://news.ycombinator.com/item?id=45957402) - [Show HN: PrinceJS – 19,200 req/s Bun framework in 2.8 kB (built by a 13yo)](https://princejs.vercel.app)
 * [2025-11-17, 19:22:06](https://news.ycombinator.com/item?id=45957073) - [Implementing Rust newtype for errors in axum](https://rup12.net/posts/learning-rust-custom-errors/)
 * [2025-11-17, 18:07:17](https://news.ycombinator.com/item?id=45956176) - [An official atlas of North Korea](https://www.cartographerstale.com/p/an-official-atlas-of-north-korea)
@@ -26,7 +27,6 @@
 * [2025-11-15, 16:27:49](https://news.ycombinator.com/item?id=45938517) - [Show HN: Continuous Claude – run Claude Code in a loop](https://github.com/AnandChowdhary/continuous-claude)
 * [2025-11-15, 13:24:54](https://news.ycombinator.com/item?id=45937302) - [My stages of learning to be a socially normal person](https://sashachapin.substack.com/p/my-six-stages-of-learning-to-be-a)
 * [2025-11-15, 07:27:21](https://news.ycombinator.com/item?id=45935687) - [A graph explorer of the Epstein emails](https://epstein-doc-explorer-1.onrender.com/)
-* [2025-11-14, 18:53:27](https://news.ycombinator.com/item?id=45930438) - [Raccoons are showing early signs of domestication](https://www.scientificamerican.com/article/raccoons-are-showing-early-signs-of-domestication/)
 * [2025-11-14, 01:57:57](https://news.ycombinator.com/item?id=45922997) - [Our dogs' diversity can be traced back to the Stone Age](https://www.bbc.com/news/articles/ce9d7j89ykro)
 * [2025-11-12, 15:28:54](https://news.ycombinator.com/item?id=45901379) - [\"One Student One Chip\" Course Homepage](https://ysyx.oscc.cc/docs/en/)
 * [2025-11-12, 14:12:13](https://news.ycombinator.com/item?id=45900425) - [Show HN: I built a synth for my daughter](https://bitsnpieces.dev/posts/a-synth-for-my-daughter/)
