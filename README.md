@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-11-17, 22:18:41](https://news.ycombinator.com/item?id=45959033) - [Private equity firms are snapping up mobile home parks, driving out residents](https://theconversation.com/private-equity-firms-are-snapping-up-mobile-home-parks-and-driving-out-the-residents-who-can-least-afford-to-lose-them-264456)
 * [2025-11-17, 21:56:58](https://news.ycombinator.com/item?id=45958815) - [Ion: Modern System Shell in Rust](https://github.com/redox-os/ion)
 * [2025-11-17, 21:46:06](https://news.ycombinator.com/item?id=45958717) - [Run ancient Unix on modern hardware](https://github.com/felipenlunkes/run-ancient-unix)
 * [2025-11-17, 20:04:49](https://news.ycombinator.com/item?id=45957629) - [Compiling Ruby to machine language](https://patshaughnessy.net/2025/11/17/compiling-ruby-to-machine-language)
@@ -12,6 +11,7 @@
 * [2025-11-17, 17:07:17](https://news.ycombinator.com/item?id=45955565) - [How when AWS was down, we were not](https://authress.io/knowledge-base/articles/2025/11/01/how-we-prevent-aws-downtime-impacts)
 * [2025-11-17, 15:50:04](https://news.ycombinator.com/item?id=45954640) - [Project Gemini](https://geminiprotocol.net/)
 * [2025-11-17, 15:49:38](https://news.ycombinator.com/item?id=45954638) - [How to escape the Linux networking stack](https://blog.cloudflare.com/so-long-and-thanks-for-all-the-fish-how-to-escape-the-linux-networking-stack/)
+* [2025-11-17, 15:41:08](https://news.ycombinator.com/item?id=45954560) - [Google is killing the open web, part 2](https://wok.oblomov.eu/tecnologia/google-killing-open-web-2/)
 * [2025-11-17, 15:04:26](https://news.ycombinator.com/item?id=45954210) - [WeatherNext 2: Our most advanced weather forecasting model](https://blog.google/technology/google-deepmind/weathernext-2/)
 * [2025-11-17, 14:57:33](https://news.ycombinator.com/item?id=45954140) - [Aldous Huxley predicts Adderall and champions alternative therapies](https://angadh.com/inkhaven-7)
 * [2025-11-17, 14:40:54](https://news.ycombinator.com/item?id=45953977) - [Show HN: ESPectre – Motion detection based on Wi-Fi spectre analysis](https://github.com/francescopace/espectre)
