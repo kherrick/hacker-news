@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2025-11-17](index.md)
 
+* [2025-11-17, 18:39:49](https://news.ycombinator.com/item?id=45956517) - [How Honda screwed up an expensive project with a simple math error (2008)](https://davidsd.org/2008/12/honda-needs-a-tune-up/)
 * [2025-11-17, 18:07:17](https://news.ycombinator.com/item?id=45956176) - [An official atlas of North Korea](https://www.cartographerstale.com/p/an-official-atlas-of-north-korea)
 * [2025-11-17, 18:06:56](https://news.ycombinator.com/item?id=45956173) - [Reselling tickets for profit to be outlawed in UK government crackdown](https://www.theguardian.com/money/2025/nov/17/reselling-tickets-for-profit-to-be-outlawed-in-uk-government-crackdown)
+* [2025-11-17, 18:05:29](https://news.ycombinator.com/item?id=45956154) - [Show HN: Kalendis – Scheduling API (keep your UI, we handle timezones/DST)](https://kalendis.dev)
 * [2025-11-17, 18:00:31](https://news.ycombinator.com/item?id=45956111) - [Show HN: Building WebSocket in Apache Iggy with Io_uring and Completion Based IO](https://iggy.apache.org/blogs/2025/11/17/websocket-io-uring/)
 * [2025-11-17, 17:40:45](https://news.ycombinator.com/item?id=45955921) - [EEG-based neurofeedback in athletes and non-athletes](https://www.mdpi.com/2306-5354/12/11/1202)
 * [2025-11-17, 17:39:43](https://news.ycombinator.com/item?id=45955904) - [DESI's Dizzying Results](https://www.universetoday.com/articles/desis-dizzying-results)
@@ -25,6 +27,7 @@
 * [2025-11-17, 15:41:08](https://news.ycombinator.com/item?id=45954560) - [Google is killing the open web, part 2](https://wok.oblomov.eu/tecnologia/google-killing-open-web-2/)
 * [2025-11-17, 15:34:38](https://news.ycombinator.com/item?id=45954472) - [Show HN: Bsub.io – zero-setup batch execution for command-line tools](https://news.ycombinator.com/item?id=45954472)
 * [2025-11-17, 15:04:26](https://news.ycombinator.com/item?id=45954210) - [WeatherNext 2: Our most advanced weather forecasting model](https://blog.google/technology/google-deepmind/weathernext-2/)
+* [2025-11-17, 14:57:33](https://news.ycombinator.com/item?id=45954140) - [Aldous Huxley predicts Adderall and champions alternative therapies](https://angadh.com/inkhaven-7)
 * [2025-11-17, 14:40:54](https://news.ycombinator.com/item?id=45953977) - [Show HN: ESPectre – Motion detection based on Wi-Fi spectre analysis](https://github.com/francescopace/espectre)
 * [2025-11-17, 14:31:21](https://news.ycombinator.com/item?id=45953883) - [Jeff Bezos Creates A.I. Startup Where He Will Be Co-Chief Executive](https://www.nytimes.com/2025/11/17/technology/bezos-project-prometheus.html)
 * [2025-11-17, 14:11:57](https://news.ycombinator.com/item?id=45953702) - [Replicate is joining Cloudflare](https://replicate.com/blog/replicate-cloudflare)
