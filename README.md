@@ -16,7 +16,7 @@
 * [2025-11-16, 19:39:52](https://news.ycombinator.com/item?id=45947770) - [Supercookie: Browser Fingerprinting via Favicon (2021)](https://github.com/jonasstrehle/supercookie)
 * [2025-11-16, 19:38:49](https://news.ycombinator.com/item?id=45947761) - [Dark Pattern Games](https://www.darkpattern.games)
 * [2025-11-16, 19:21:13](https://news.ycombinator.com/item?id=45947639) - [The fate of \"small\" open source](https://nolanlawson.com/2025/11/16/the-fate-of-small-open-source/)
-* [2025-11-16, 18:38:37](https://news.ycombinator.com/item?id=45947301) - [Z3 API in Python: From Sudoku to N-Queens in Under 20 Lines](https://ericpony.github.io/z3py-tutorial/guide-examples.htm)
+* [2025-11-16, 18:38:37](https://news.ycombinator.com/item?id=45947301) - [Z3 API in Python: From Sudoku to N-Queens in Under 20 Lines (2015)](https://ericpony.github.io/z3py-tutorial/guide-examples.htm)
 * [2025-11-16, 17:39:43](https://news.ycombinator.com/item?id=45946865) - [I finally understand Cloudflare Zero Trust tunnels](https://david.coffee/cloudflare-zero-trust-tunnels)
 * [2025-11-16, 15:26:24](https://news.ycombinator.com/item?id=45945784) - [FPGA Based IBM-PC-XT](https://bit-hack.net/2025/11/10/fpga-based-ibm-pc-xt/)
 * [2025-11-16, 15:00:24](https://news.ycombinator.com/item?id=45945587) - [Heretic: Automatic censorship removal for language models](https://github.com/p-e-w/heretic)
