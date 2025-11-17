@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-11-17](index.md)
 
+* [2025-11-17, 17:37:42](https://news.ycombinator.com/item?id=45955889) - [A new book recovers the origins of Effective Altruism](https://newrepublic.com/article/202433/happened-effective-altruism)
+* [2025-11-17, 17:36:15](https://news.ycombinator.com/item?id=45955879) - [The Baumol Effect and Jevons paradox are related](https://www.a16z.news/p/why-ac-is-cheap-but-ac-repair-is)
 * [2025-11-17, 17:23:35](https://news.ycombinator.com/item?id=45955745) - [Cities Panic over Having to Release Mass Surveillance Recordings](https://www.nakedcapitalism.com/2025/11/cities-panic-over-having-to-release-mass-surveillance-recordings.html)
 * [2025-11-17, 16:49:47](https://news.ycombinator.com/item?id=45955367) - [You can now buy pre-owned Ford vehicles on Amazon](https://www.theverge.com/news/821258/ford-amazon-auto-online-sales-certified-preowned)
 * [2025-11-17, 16:24:34](https://news.ycombinator.com/item?id=45955077) - [Living my best Sun Microsystems ecosystem life in 2025](https://www.osnews.com/story/143570/living-my-best-sun-microsystems-ecosystem-life-in-2025/)
