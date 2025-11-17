@@ -11,6 +11,7 @@
 * [2025-11-11, 22:47:28](https://news.ycombinator.com/item?id=45893952) - [How the Spoils of an Infamous Heist Traveled the World](https://nautil.us/how-the-spoils-of-an-infamous-heist-traveled-the-world-1247307/)
 * [2025-11-11, 22:31:41](https://news.ycombinator.com/item?id=45893795) - [Four places to see London's Roman Wall](https://diamondgeezer.blogspot.com/2025/11/odd-places-to-see-londons-roman-wall.html)
 * [2025-11-11, 22:18:17](https://news.ycombinator.com/item?id=45893646) - [Heroku Support for .NET 10](https://www.heroku.com/blog/support-for-dotnet-10-lts-what-developers-need-know/)
+* [2025-11-11, 21:59:34](https://news.ycombinator.com/item?id=45893471) - [runit Linux: Guide to Unix Init Scheme with Service Supervision](https://codelucky.com/runit-linux-init-service-supervision/)
 * [2025-11-11, 21:25:19](https://news.ycombinator.com/item?id=45893095) - [I didn't reverse-engineer the protocol for my blood pressure monitor in 24 hours](https://james.belchamber.com/articles/blood-pressure-monitor-reverse-engineering/)
 * [2025-11-11, 21:18:26](https://news.ycombinator.com/item?id=45893004) - [X5.1 solar flare, G4 geomagnetic storm watch](https://www.spaceweatherlive.com/en/news/view/593/20251111-x5-1-solar-flare-g4-geomagnetic-storm-watch.html)
 * [2025-11-11, 21:03:19](https://news.ycombinator.com/item?id=45892809) - [CACM Practice Welcomes Submissions](https://dl.acm.org/doi/10.1145/3771297)
