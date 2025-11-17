@@ -21,6 +21,7 @@
 * [2025-11-06, 20:14:24](https://news.ycombinator.com/item?id=45839834) - [Strap Rail](https://www.construction-physics.com/p/strap-rail)
 * [2025-11-06, 20:13:35](https://news.ycombinator.com/item?id=45839822) - [Itiner-E – The Digital Atlas of Ancient Roads](https://itiner-e.org/)
 * [2025-11-06, 20:01:08](https://news.ycombinator.com/item?id=45839655) - [UK outperforms US in creating unicorns from early stage VC investment](https://www.cityam.com/uk-outperforms-us-in-creating-unicorns-from-early-stage-vc-investment/)
+* [2025-11-06, 19:47:37](https://news.ycombinator.com/item?id=45839474) - [What Did Medieval Peasants Know? (2022)](https://www.theatlantic.com/health/archive/2022/05/medieval-history-peasant-life-work/629783/)
 * [2025-11-06, 19:19:58](https://news.ycombinator.com/item?id=45839141) - [A Vision of Chocolate's Future in an Amsterdam Brownie](https://www.bloomberg.com/graphics/2025-opinion-future-of-chocolate/)
 * [2025-11-06, 19:19:09](https://news.ycombinator.com/item?id=45839129) - [Mark Zuckerberg Had Illegal School at His Palo Alto Compound. Neighbors Revolted](https://www.wired.com/story/mark-zuckerberg-school-palo-alto-shut-down/)
 * [2025-11-06, 18:54:33](https://news.ycombinator.com/item?id=45838864) - [Black Hole Flare Is Biggest and Most Distant Seen](https://www.caltech.edu/about/news/black-hole-flare-is-biggest-and-most-distant-seen)
