@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-11-17, 20:37:07",
+      "https://news.ycombinator.com/item?id=45958005"
+    ],
+    [
+      "Grok 4.1",
+      "https://x.ai/news/grok-4-1"
+    ]
+  ],
+  [
+    [
       "2025-11-17, 20:04:49",
       "https://news.ycombinator.com/item?id=45957629"
     ],
@@ -31,16 +41,6 @@
   ],
   [
     [
-      "2025-11-17, 18:00:31",
-      "https://news.ycombinator.com/item?id=45956111"
-    ],
-    [
-      "Show HN: Building WebSocket in Apache Iggy with Io_uring and Completion Based IO",
-      "https://iggy.apache.org/blogs/2025/11/17/websocket-io-uring/"
-    ]
-  ],
-  [
-    [
       "2025-11-17, 17:40:45",
       "https://news.ycombinator.com/item?id=45955921"
     ],
@@ -61,22 +61,22 @@
   ],
   [
     [
+      "2025-11-17, 17:39:15",
+      "https://news.ycombinator.com/item?id=45955900"
+    ],
+    [
+      "Azure hit by 15 Tbps DDoS attack using 500k IP addresses",
+      "https://www.bleepingcomputer.com/news/microsoft/microsoft-aisuru-botnet-used-500-000-ips-in-15-tbps-azure-ddos-attack/"
+    ]
+  ],
+  [
+    [
       "2025-11-17, 17:07:17",
       "https://news.ycombinator.com/item?id=45955565"
     ],
     [
       "How when AWS was down, we were not",
       "https://authress.io/knowledge-base/articles/2025/11/01/how-we-prevent-aws-downtime-impacts"
-    ]
-  ],
-  [
-    [
-      "2025-11-17, 16:54:53",
-      "https://news.ycombinator.com/item?id=45955424"
-    ],
-    [
-      "Israeli-founded app preloaded on Samsung phones is attracting controversy",
-      "https://www.sammobile.com/news/israeli-app-app-cloud-samsung-phones-controversy/"
     ]
   ],
   [
@@ -107,16 +107,6 @@
     [
       "Google is killing the open web, part 2",
       "https://wok.oblomov.eu/tecnologia/google-killing-open-web-2/"
-    ]
-  ],
-  [
-    [
-      "2025-11-17, 15:34:38",
-      "https://news.ycombinator.com/item?id=45954472"
-    ],
-    [
-      "Show HN: Bsub.io – zero-setup batch execution for command-line tools",
-      "https://news.ycombinator.com/item?id=45954472"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Show HN: I built a synth for my daughter",
       "https://bitsnpieces.dev/posts/a-synth-for-my-daughter/"
+    ]
+  ],
+  [
+    [
+      "2025-11-11, 22:41:04",
+      "https://news.ycombinator.com/item?id=45893879"
+    ],
+    [
+      "My Kind of REPL",
+      "https://ianthehenry.com/posts/my-kind-of-repl/"
     ]
   ]
 ]
