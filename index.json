@@ -21,6 +21,16 @@
   ],
   [
     [
+      "2025-11-17, 13:55:53",
+      "https://news.ycombinator.com/item?id=45953568"
+    ],
+    [
+      "Geothermal energy might be the baseload revolution we've been looking for",
+      "https://www.newyorker.com/magazine/2025/11/24/why-the-time-has-finally-come-for-geothermal-energy"
+    ]
+  ],
+  [
+    [
       "2025-11-17, 13:40:40",
       "https://news.ycombinator.com/item?id=45953452"
     ],
@@ -91,16 +101,6 @@
   ],
   [
     [
-      "2025-11-16, 23:58:21",
-      "https://news.ycombinator.com/item?id=45949655"
-    ],
-    [
-      "A new chapter begins for EV batteries with the expiry of key LFP patents",
-      "https://www.shoosmiths.com/insights/articles/a-new-chapter-begins-for-ev-batteries-with-the-expiry-of-key-lfp-patents"
-    ]
-  ],
-  [
-    [
       "2025-11-16, 23:19:24",
       "https://news.ycombinator.com/item?id=45949352"
     ],
@@ -137,16 +137,6 @@
     [
       "The Pragmatic Programmer: 20th Anniversary Edition (2023)",
       "https://www.ahalbert.com/technology/2023/12/19/the_pragmatic_programmer.html"
-    ]
-  ],
-  [
-    [
-      "2025-11-16, 19:39:52",
-      "https://news.ycombinator.com/item?id=45947770"
-    ],
-    [
-      "Supercookie: Browser Fingerprinting via Favicon (2021)",
-      "https://github.com/jonasstrehle/supercookie"
     ]
   ],
   [
@@ -237,6 +227,16 @@
     [
       "Listen to Database Changes Through the Postgres WAL",
       "https://peterullrich.com/listen-to-database-changes-through-the-postgres-wal"
+    ]
+  ],
+  [
+    [
+      "2025-11-10, 10:41:34",
+      "https://news.ycombinator.com/item?id=45874597"
+    ],
+    [
+      "Show HN: Reverse perspective camera for OpenGL (Three.js)",
+      "https://github.com/bntre/reverse-perspective-threejs"
     ]
   ],
   [
