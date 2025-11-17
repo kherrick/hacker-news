@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-11-17](index.md)
 
+* [2025-11-17, 21:56:58](https://news.ycombinator.com/item?id=45958815) - [Ion: Modern System Shell in Rust](https://github.com/redox-os/ion)
+* [2025-11-17, 21:46:06](https://news.ycombinator.com/item?id=45958717) - [Run ancient Unix on modern hardware](https://github.com/felipenlunkes/run-ancient-unix)
 * [2025-11-17, 20:37:07](https://news.ycombinator.com/item?id=45958005) - [Grok 4.1](https://x.ai/news/grok-4-1)
 * [2025-11-17, 20:04:49](https://news.ycombinator.com/item?id=45957629) - [Compiling Ruby to Machine Language](https://patshaughnessy.net/2025/11/17/compiling-ruby-to-machine-language)
 * [2025-11-17, 19:45:00](https://news.ycombinator.com/item?id=45957402) - [Show HN: PrinceJS – 19,200 req/s Bun framework in 2.8 kB (built by a 13yo)](https://princejs.vercel.app)
