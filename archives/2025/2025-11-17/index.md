@@ -4,12 +4,16 @@
 
 ### [Archives](../../index.md) for [2025-11-17](index.md)
 
+* [2025-11-17, 18:07:17](https://news.ycombinator.com/item?id=45956176) - [An official atlas of North Korea](https://www.cartographerstale.com/p/an-official-atlas-of-north-korea)
+* [2025-11-17, 18:06:56](https://news.ycombinator.com/item?id=45956173) - [Reselling tickets for profit to be outlawed in UK government crackdown](https://www.theguardian.com/money/2025/nov/17/reselling-tickets-for-profit-to-be-outlawed-in-uk-government-crackdown)
 * [2025-11-17, 17:37:42](https://news.ycombinator.com/item?id=45955889) - [A new book recovers the origins of Effective Altruism](https://newrepublic.com/article/202433/happened-effective-altruism)
 * [2025-11-17, 17:36:15](https://news.ycombinator.com/item?id=45955879) - [The Baumol Effect and Jevons paradox are related](https://www.a16z.news/p/why-ac-is-cheap-but-ac-repair-is)
 * [2025-11-17, 17:23:35](https://news.ycombinator.com/item?id=45955745) - [Cities Panic over Having to Release Mass Surveillance Recordings](https://www.nakedcapitalism.com/2025/11/cities-panic-over-having-to-release-mass-surveillance-recordings.html)
+* [2025-11-17, 17:07:17](https://news.ycombinator.com/item?id=45955565) - [When AWS was down, we were not](https://authress.io/knowledge-base/articles/2025/11/01/how-we-prevent-aws-downtime-impacts)
 * [2025-11-17, 16:49:47](https://news.ycombinator.com/item?id=45955367) - [You can now buy pre-owned Ford vehicles on Amazon](https://www.theverge.com/news/821258/ford-amazon-auto-online-sales-certified-preowned)
 * [2025-11-17, 16:24:34](https://news.ycombinator.com/item?id=45955077) - [Living my best Sun Microsystems ecosystem life in 2025](https://www.osnews.com/story/143570/living-my-best-sun-microsystems-ecosystem-life-in-2025/)
 * [2025-11-17, 15:50:04](https://news.ycombinator.com/item?id=45954640) - [Project Gemini](https://geminiprotocol.net/)
+* [2025-11-17, 15:49:38](https://news.ycombinator.com/item?id=45954638) - [How to escape the Linux networking stack](https://blog.cloudflare.com/so-long-and-thanks-for-all-the-fish-how-to-escape-the-linux-networking-stack/)
 * [2025-11-17, 15:48:18](https://news.ycombinator.com/item?id=45954626) - [WBlock: A New Ad-Blocker for Safari](https://github.com/0xCUB3/wBlock)
 * [2025-11-17, 15:41:08](https://news.ycombinator.com/item?id=45954560) - [Google is killing the open web, part 2](https://wok.oblomov.eu/tecnologia/google-killing-open-web-2/)
 * [2025-11-17, 15:04:26](https://news.ycombinator.com/item?id=45954210) - [WeatherNext 2: Our most advanced weather forecasting model](https://blog.google/technology/google-deepmind/weathernext-2/)

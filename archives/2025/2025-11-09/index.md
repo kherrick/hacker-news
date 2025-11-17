@@ -49,6 +49,7 @@
 * [2025-11-09, 12:24:50](https://news.ycombinator.com/item?id=45865049) - [Visualize FastAPI endpoints with FastAPI-Voyager](https://www.newsyeah.fun/voyager/)
 * [2025-11-09, 12:03:15](https://news.ycombinator.com/item?id=45864954) - [Think in Math. Write in Code](https://www.jmeiners.com/think-in-math/)
 * [2025-11-09, 11:52:18](https://news.ycombinator.com/item?id=45864900) - [Valori – A Python-native Vector Database I built from scratch](https://news.ycombinator.com/item?id=45864900)
+* [2025-11-09, 11:22:18](https://news.ycombinator.com/item?id=45864768) - [There Has to Be a Better Way to Make Titanium](https://www.orcasciences.com/articles/there-has-to-be-a-better-way-to-make-titanium)
 * [2025-11-09, 11:12:02](https://news.ycombinator.com/item?id=45864732) - [Ask HN: How would u setup a child's first Linux computer?](https://news.ycombinator.com/item?id=45864732)
 * [2025-11-09, 10:05:25](https://news.ycombinator.com/item?id=45864424) - [Blue Origin Launches NASA's Escapade Mission to Mars: How to Watch](https://www.nytimes.com/2025/11/09/science/blue-origin-new-glenn-launch.html)
 * [2025-11-09, 09:46:04](https://news.ycombinator.com/item?id=45864341) - [Itiner-e: the Google Maps of Roman Roads](https://itiner-e.org/)
