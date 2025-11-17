@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-11-16, 23:58:21",
+      "https://news.ycombinator.com/item?id=45949655"
+    ],
+    [
+      "A new chapter begins for EV batteries with the expiry of key LFP patents",
+      "https://www.shoosmiths.com/insights/articles/a-new-chapter-begins-for-ev-batteries-with-the-expiry-of-key-lfp-patents"
+    ]
+  ],
+  [
+    [
+      "2025-11-16, 23:19:24",
+      "https://news.ycombinator.com/item?id=45949352"
+    ],
+    [
+      "PicoIDE – An open IDE/ATAPI drive emulator",
+      "https://picoide.com/"
+    ]
+  ],
+  [
+    [
       "2025-11-16, 23:15:20",
       "https://news.ycombinator.com/item?id=45949326"
     ],
@@ -41,16 +61,6 @@
   ],
   [
     [
-      "2025-11-16, 21:17:37",
-      "https://news.ycombinator.com/item?id=45948463"
-    ],
-    [
-      "Call Me Maybe: Eavesdropping encrypted LTE calls with ReVoLTE (2020)",
-      "https://montsecure.com/research/revolte-attack/"
-    ]
-  ],
-  [
-    [
       "2025-11-16, 20:46:30",
       "https://news.ycombinator.com/item?id=45948254"
     ],
@@ -67,16 +77,6 @@
     [
       "I have recordings proving Coinbase knew about breach months before disclosure",
       "https://jonathanclark.com/posts/coinbase-breach-timeline.html"
-    ]
-  ],
-  [
-    [
-      "2025-11-16, 19:46:28",
-      "https://news.ycombinator.com/item?id=45947827"
-    ],
-    [
-      "Adding an imaginary unit to a finite field",
-      "https://www.johndcook.com/blog/2025/11/16/finite-field-i/"
     ]
   ],
   [
@@ -191,16 +191,6 @@
   ],
   [
     [
-      "2025-11-16, 15:22:16",
-      "https://news.ycombinator.com/item?id=45945750"
-    ],
-    [
-      "De Bruijn Numerals",
-      "https://text.marvinborner.de/2023-08-22-22.html"
-    ]
-  ],
-  [
-    [
       "2025-11-16, 15:00:24",
       "https://news.ycombinator.com/item?id=45945587"
     ],
@@ -271,6 +261,16 @@
   ],
   [
     [
+      "2025-11-06, 16:52:19",
+      "https://news.ycombinator.com/item?id=45837259"
+    ],
+    [
+      "A File Format Uncracked for 20 Years",
+      "https://landaire.net/a-file-format-uncracked-for-20-years/"
+    ]
+  ],
+  [
+    [
       "2025-11-05, 17:24:18",
       "https://news.ycombinator.com/item?id=45825413"
     ],
@@ -291,12 +291,12 @@
   ],
   [
     [
-      "2025-11-04, 21:12:57",
-      "https://news.ycombinator.com/item?id=45815948"
+      "2025-11-02, 06:29:15",
+      "https://news.ycombinator.com/item?id=45788220"
     ],
     [
-      "Measuring the doppler shift of WWVB during a flight",
-      "https://greatscottgadgets.com/2025/10-31-receiving-wwvb-with-hackrf-pro/"
+      "Open Catalyst Project",
+      "https://opencatalystproject.org/"
     ]
   ]
 ]
