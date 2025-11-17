@@ -16,7 +16,6 @@
 * [2025-11-16, 19:38:49](https://news.ycombinator.com/item?id=45947761) - [Dark Pattern Games](https://www.darkpattern.games)
 * [2025-11-16, 19:21:13](https://news.ycombinator.com/item?id=45947639) - [The fate of \"small\" open source](https://nolanlawson.com/2025/11/16/the-fate-of-small-open-source/)
 * [2025-11-16, 18:58:10](https://news.ycombinator.com/item?id=45947444) - [What if you don't need MCP at all?](https://mariozechner.at/posts/2025-11-02-what-if-you-dont-need-mcp/)
-* [2025-11-16, 18:47:40](https://news.ycombinator.com/item?id=45947374) - [Decoding Leibniz Notation (2024)](https://www.spakhm.com/leibniz)
 * [2025-11-16, 18:38:37](https://news.ycombinator.com/item?id=45947301) - [Z3 API in Python: From Sudoku to N-Queens in Under 20 Lines](https://ericpony.github.io/z3py-tutorial/guide-examples.htm)
 * [2025-11-16, 17:39:43](https://news.ycombinator.com/item?id=45946865) - [I finally understand Cloudflare Zero Trust tunnels](https://david.coffee/cloudflare-zero-trust-tunnels)
 * [2025-11-16, 15:26:24](https://news.ycombinator.com/item?id=45945784) - [FPGA Based IBM-PC-XT](https://bit-hack.net/2025/11/10/fpga-based-ibm-pc-xt/)
@@ -30,6 +29,7 @@
 * [2025-11-06, 19:47:37](https://news.ycombinator.com/item?id=45839474) - [What Did Medieval Peasants Know? (2022)](https://www.theatlantic.com/health/archive/2022/05/medieval-history-peasant-life-work/629783/)
 * [2025-11-06, 16:52:19](https://news.ycombinator.com/item?id=45837259) - [A File Format Uncracked for 20 Years](https://landaire.net/a-file-format-uncracked-for-20-years/)
 * [2025-11-05, 17:24:18](https://news.ycombinator.com/item?id=45825413) - [Fourier Transforms](https://www.continuummechanics.org/fourierxforms.html)
+* [2025-11-05, 07:32:50](https://news.ycombinator.com/item?id=45820358) - [Shell Grotto, Margate](https://en.wikipedia.org/wiki/Shell_Grotto,_Margate)
 
 ## [Archives](archives/index.md)
 
