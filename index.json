@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-11-17, 18:07:17",
+      "https://news.ycombinator.com/item?id=45956176"
+    ],
+    [
+      "An official atlas of North Korea",
+      "https://www.cartographerstale.com/p/an-official-atlas-of-north-korea"
+    ]
+  ],
+  [
+    [
+      "2025-11-17, 18:06:56",
+      "https://news.ycombinator.com/item?id=45956173"
+    ],
+    [
+      "Reselling tickets for profit to be outlawed in UK government crackdown",
+      "https://www.theguardian.com/money/2025/nov/17/reselling-tickets-for-profit-to-be-outlawed-in-uk-government-crackdown"
+    ]
+  ],
+  [
+    [
       "2025-11-17, 17:37:42",
       "https://news.ycombinator.com/item?id=45955889"
     ],
@@ -31,12 +51,12 @@
   ],
   [
     [
-      "2025-11-17, 16:49:47",
-      "https://news.ycombinator.com/item?id=45955367"
+      "2025-11-17, 17:07:17",
+      "https://news.ycombinator.com/item?id=45955565"
     ],
     [
-      "You can now buy pre-owned Ford vehicles on Amazon",
-      "https://www.theverge.com/news/821258/ford-amazon-auto-online-sales-certified-preowned"
+      "When AWS was down, we were not",
+      "https://authress.io/knowledge-base/articles/2025/11/01/how-we-prevent-aws-downtime-impacts"
     ]
   ],
   [
@@ -57,6 +77,16 @@
     [
       "Project Gemini",
       "https://geminiprotocol.net/"
+    ]
+  ],
+  [
+    [
+      "2025-11-17, 15:49:38",
+      "https://news.ycombinator.com/item?id=45954638"
+    ],
+    [
+      "How to escape the Linux networking stack",
+      "https://blog.cloudflare.com/so-long-and-thanks-for-all-the-fish-how-to-escape-the-linux-networking-stack/"
     ]
   ],
   [
@@ -101,12 +131,32 @@
   ],
   [
     [
+      "2025-11-17, 13:55:53",
+      "https://news.ycombinator.com/item?id=45953568"
+    ],
+    [
+      "The time has finally come for geothermal energy",
+      "https://www.newyorker.com/magazine/2025/11/24/why-the-time-has-finally-come-for-geothermal-energy"
+    ]
+  ],
+  [
+    [
       "2025-11-17, 13:40:40",
       "https://news.ycombinator.com/item?id=45953452"
     ],
     [
       "FreeMDU: Open-source Miele appliance diagnostic tools",
       "https://github.com/medusalix/FreeMDU"
+    ]
+  ],
+  [
+    [
+      "2025-11-17, 12:06:37",
+      "https://news.ycombinator.com/item?id=45952890"
+    ],
+    [
+      "Are you stuck in movie logic?",
+      "https://usefulfictions.substack.com/p/are-you-stuck-in-movie-logic"
     ]
   ],
   [
@@ -125,7 +175,7 @@
       "https://news.ycombinator.com/item?id=45952428"
     ],
     [
-      "Giving C a Superpower",
+      "Giving C a superpower: custom header file (safe_c.h)",
       "https://hwisnu.bearblog.dev/giving-c-a-superpower-custom-header-file-safe_ch/"
     ]
   ],
@@ -141,52 +191,12 @@
   ],
   [
     [
-      "2025-11-17, 02:36:18",
-      "https://news.ycombinator.com/item?id=45950396"
+      "2025-11-17, 02:39:28",
+      "https://news.ycombinator.com/item?id=45950408"
     ],
     [
-      "A 1961 Relay Computer Running in the Browser",
-      "https://minivac.greg.technology/"
-    ]
-  ],
-  [
-    [
-      "2025-11-16, 23:19:24",
-      "https://news.ycombinator.com/item?id=45949352"
-    ],
-    [
-      "PicoIDE – An open IDE/ATAPI drive emulator",
-      "https://picoide.com/"
-    ]
-  ],
-  [
-    [
-      "2025-11-16, 20:46:30",
-      "https://news.ycombinator.com/item?id=45948254"
-    ],
-    [
-      "The Pragmatic Programmer: 20th Anniversary Edition (2023)",
-      "https://www.ahalbert.com/technology/2023/12/19/the_pragmatic_programmer.html"
-    ]
-  ],
-  [
-    [
-      "2025-11-16, 19:21:13",
-      "https://news.ycombinator.com/item?id=45947639"
-    ],
-    [
-      "The fate of \"small\" open source",
-      "https://nolanlawson.com/2025/11/16/the-fate-of-small-open-source/"
-    ]
-  ],
-  [
-    [
-      "2025-11-16, 17:39:43",
-      "https://news.ycombinator.com/item?id=45946865"
-    ],
-    [
-      "I finally understand Cloudflare Zero Trust tunnels",
-      "https://david.coffee/cloudflare-zero-trust-tunnels"
+      "People are using iPad OS features on their iPhones",
+      "https://idevicecentral.com/ios-customization/how-to-enable-ipad-features-like-multitasking-stage-manager-on-iphone-via-mobilegestalt/"
     ]
   ],
   [
@@ -201,12 +211,12 @@
   ],
   [
     [
-      "2025-11-14, 06:25:51",
-      "https://news.ycombinator.com/item?id=45924417"
+      "2025-11-16, 13:45:45",
+      "https://news.ycombinator.com/item?id=45945114"
     ],
     [
-      "Fastmcpp (Fastmcp for C++)",
-      "https://github.com/0xeb/fastmcpp"
+      "Where do the children play?",
+      "https://unpublishablepapers.substack.com/p/where-do-the-children-play"
     ]
   ],
   [
@@ -221,16 +231,6 @@
   ],
   [
     [
-      "2025-11-11, 10:08:30",
-      "https://news.ycombinator.com/item?id=45885768"
-    ],
-    [
-      "Listen to Database Changes Through the Postgres WAL",
-      "https://peterullrich.com/listen-to-database-changes-through-the-postgres-wal"
-    ]
-  ],
-  [
-    [
       "2025-11-10, 10:41:34",
       "https://news.ycombinator.com/item?id=45874597"
     ],
@@ -241,22 +241,22 @@
   ],
   [
     [
+      "2025-11-09, 11:22:18",
+      "https://news.ycombinator.com/item?id=45864768"
+    ],
+    [
+      "There Has to Be a Better Way to Make Titanium",
+      "https://www.orcasciences.com/articles/there-has-to-be-a-better-way-to-make-titanium"
+    ]
+  ],
+  [
+    [
       "2025-11-07, 10:11:08",
       "https://news.ycombinator.com/item?id=45845060"
     ],
     [
       "Craft Chrome Devtools Protocol (CDP) commands with the new command editor",
       "https://developer.chrome.com/blog/cdp-command-editor"
-    ]
-  ],
-  [
-    [
-      "2025-11-06, 16:52:19",
-      "https://news.ycombinator.com/item?id=45837259"
-    ],
-    [
-      "A file format uncracked for 20 years",
-      "https://landaire.net/a-file-format-uncracked-for-20-years/"
     ]
   ],
   [
