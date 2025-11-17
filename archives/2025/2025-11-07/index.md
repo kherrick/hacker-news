@@ -57,6 +57,7 @@
 * [2025-11-07, 12:00:40](https://news.ycombinator.com/item?id=45845568) - [Sweep (YC S23) is hiring to build autocomplete for JetBrains](https://www.ycombinator.com/companies/sweep/jobs/8dUn406-founding-engineer-intern)
 * [2025-11-07, 10:41:22](https://news.ycombinator.com/item?id=45845179) - [Video games can alter reality](https://particle.scitech.org.au/tech/video-games-can-alter-reality/)
 * [2025-11-07, 10:32:50](https://news.ycombinator.com/item?id=45845147) - [Majority of teens hold negative views of news media, says report](https://www.niemanlab.org/2025/11/biased-boring-chaotic-and-bad-a-majority-of-teens-hold-negative-views-of-news-media-report-finds/)
+* [2025-11-07, 10:11:08](https://news.ycombinator.com/item?id=45845060) - [Craft Chrome Devtools Protocol (CDP) commands with the new command editor](https://developer.chrome.com/blog/cdp-command-editor)
 * [2025-11-07, 08:50:14](https://news.ycombinator.com/item?id=45844655) - [A startup’s quest to store electricity in the ocean](https://techcrunch.com/2025/10/22/one-startups-quest-to-store-electricity-in-the-ocean/)
 * [2025-11-07, 08:00:08](https://news.ycombinator.com/item?id=45844419) - [The R47: A new physical RPN calculator released today in 2025](https://www.swissmicros.com/product/model-r47)
 * [2025-11-07, 07:09:30](https://news.ycombinator.com/item?id=45844197) - [Lessons from Growing a Piracy Streaming Site](https://prison.josh.mn/lessons)
