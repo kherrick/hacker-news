@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-11-17, 11:36:34](https://news.ycombinator.com/item?id=45952737) - [Drone footage shows scale of revolting 60M-long mountain of waste next to river](https://news.sky.com/story/kidlington-fly-tipping-drone-footage-shows-scale-of-revolting-60m-long-mountain-of-waste-next-to-river-13471314)
+* [2025-11-17, 11:25:51](https://news.ycombinator.com/item?id=45952672) - [The evolution of rationality: How chimps process conflicting evidence](https://arstechnica.com/science/2025/11/the-evolution-of-rationality-how-chimps-process-conflicting-evidence/)
 * [2025-11-17, 10:40:55](https://news.ycombinator.com/item?id=45952428) - [Giving C a Superpower](https://hwisnu.bearblog.dev/giving-c-a-superpower-custom-header-file-safe_ch/)
 * [2025-11-17, 03:52:50](https://news.ycombinator.com/item?id=45950720) - [Building a Simple Search Engine That Works](https://karboosx.net/post/4eZxhBon/building-a-simple-search-engine-that-actually-works)
 * [2025-11-17, 03:09:58](https://news.ycombinator.com/item?id=45950553) - [Mixing Is the Heartbeat of Deep Lakes. At Crater Lake, It's Slowing Down](https://www.quantamagazine.org/mixing-is-the-heartbeat-of-deep-lakes-at-crater-lake-its-slowing-down-20251114/)
@@ -21,7 +21,6 @@
 * [2025-11-16, 17:39:43](https://news.ycombinator.com/item?id=45946865) - [I finally understand Cloudflare Zero Trust tunnels](https://david.coffee/cloudflare-zero-trust-tunnels)
 * [2025-11-16, 15:26:24](https://news.ycombinator.com/item?id=45945784) - [FPGA Based IBM-PC-XT](https://bit-hack.net/2025/11/10/fpga-based-ibm-pc-xt/)
 * [2025-11-16, 15:00:24](https://news.ycombinator.com/item?id=45945587) - [Heretic: Automatic censorship removal for language models](https://github.com/p-e-w/heretic)
-* [2025-11-16, 13:25:32](https://news.ycombinator.com/item?id=45944969) - [Garbage collection is useful](https://dubroy.com/blog/garbage-collection-is-useful/)
 * [2025-11-16, 11:32:39](https://news.ycombinator.com/item?id=45944296) - [Anthropic’s paper smells like bullshit](https://djnn.sh/posts/anthropic-s-paper-smells-like-bullshit/)
 * [2025-11-14, 06:25:51](https://news.ycombinator.com/item?id=45924417) - [Fastmcpp (Fastmcp for C++)](https://github.com/0xeb/fastmcpp)
 * [2025-11-11, 21:59:34](https://news.ycombinator.com/item?id=45893471) - [Runit Linux: Complete Guide to Unix Init Scheme with Service Supervision](https://codelucky.com/runit-linux-init-service-supervision/)
@@ -30,6 +29,7 @@
 * [2025-11-07, 10:11:08](https://news.ycombinator.com/item?id=45845060) - [Craft Chrome Devtools Protocol (CDP) commands with the new command editor](https://developer.chrome.com/blog/cdp-command-editor)
 * [2025-11-06, 16:52:19](https://news.ycombinator.com/item?id=45837259) - [A file format uncracked for 20 years](https://landaire.net/a-file-format-uncracked-for-20-years/)
 * [2025-11-05, 17:24:18](https://news.ycombinator.com/item?id=45825413) - [Fourier Transforms](https://www.continuummechanics.org/fourierxforms.html)
+* [2025-11-04, 10:47:56](https://news.ycombinator.com/item?id=45809524) - [Quest for Permissively Licensed PDF Library in C#](https://duerrenberger.dev/blog/2025/11/04/quest-for-permissively-licensed-pdf-library-in-csharp/)
 
 ## [Archives](archives/index.md)
 

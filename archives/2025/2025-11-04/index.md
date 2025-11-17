@@ -96,6 +96,7 @@
 * [2025-11-04, 11:10:04](https://news.ycombinator.com/item?id=45809649) - [My Experience of building Bytebeat player in Zig](https://blog.karanjanthe.me/posts/zig-beat/)
 * [2025-11-04, 11:09:24](https://news.ycombinator.com/item?id=45809644) - [Building blobd: single-machine object store with sub-ms reads and 15 GB/s upload](https://blog.wilsonl.in/blobd/)
 * [2025-11-04, 10:52:29](https://news.ycombinator.com/item?id=45809552) - [Defeating Kaslr by Doing Nothing at All](https://googleprojectzero.blogspot.com/2025/11/defeating-kaslr-by-doing-nothing-at-all.html)
+* [2025-11-04, 10:47:56](https://news.ycombinator.com/item?id=45809524) - [Quest for Permissively Licensed PDF Library in C#](https://duerrenberger.dev/blog/2025/11/04/quest-for-permissively-licensed-pdf-library-in-csharp/)
 * [2025-11-04, 10:32:26](https://news.ycombinator.com/item?id=45809429) - [Transducer: Composition, Abstraction, Performance](https://funktionale-programmierung.de/en/2018/03/22/transducer.html)
 * [2025-11-04, 10:03:40](https://news.ycombinator.com/item?id=45809225) - [Writing a Data Science Book with Quarto (Using Jupyter Notebooks or Pandoc)](https://blog.stephenturner.us/p/quarto-books)
 * [2025-11-04, 09:58:14](https://news.ycombinator.com/item?id=45809193) - [What Is a Manifold?](https://www.quantamagazine.org/what-is-a-manifold-20251103/)
