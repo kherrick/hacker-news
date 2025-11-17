@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-11-17, 14:31:21](https://news.ycombinator.com/item?id=45953883) - [Jeff Bezos Creates A.I. Startup Where He Will Be Co-Chief Executive](https://www.nytimes.com/2025/11/17/technology/bezos-project-prometheus.html)
+* [2025-11-17, 14:11:57](https://news.ycombinator.com/item?id=45953702) - [Replicate is joining Cloudflare](https://replicate.com/blog/replicate-cloudflare)
 * [2025-11-17, 13:40:40](https://news.ycombinator.com/item?id=45953452) - [FreeMDU: Open-source Miele appliance diagnostic tools](https://github.com/medusalix/FreeMDU)
 * [2025-11-17, 13:01:49](https://news.ycombinator.com/item?id=45953202) - [GCC 16 considering changing default to C++20](https://inbox.sourceware.org/gcc/aQj1tKzhftT9GUF4@redhat.com/)
-* [2025-11-17, 12:38:07](https://news.ycombinator.com/item?id=45953051) - [Mysterious drones have been spotted at airports across Europe](https://www.bbc.co.uk/news/articles/crkl3d6pegpo)
 * [2025-11-17, 11:53:00](https://news.ycombinator.com/item?id=45952824) - [Ned: ImGui Text Editor with GL Shaders](https://github.com/nealmick/ned)
-* [2025-11-17, 11:25:51](https://news.ycombinator.com/item?id=45952672) - [The evolution of rationality: How chimps process conflicting evidence](https://arstechnica.com/science/2025/11/the-evolution-of-rationality-how-chimps-process-conflicting-evidence/)
 * [2025-11-17, 10:40:55](https://news.ycombinator.com/item?id=45952428) - [Giving C a Superpower](https://hwisnu.bearblog.dev/giving-c-a-superpower-custom-header-file-safe_ch/)
 * [2025-11-17, 03:52:50](https://news.ycombinator.com/item?id=45950720) - [Building a Simple Search Engine That Works](https://karboosx.net/post/4eZxhBon/building-a-simple-search-engine-that-actually-works)
 * [2025-11-17, 03:09:58](https://news.ycombinator.com/item?id=45950553) - [Mixing Is the Heartbeat of Deep Lakes. At Crater Lake, It's Slowing Down](https://www.quantamagazine.org/mixing-is-the-heartbeat-of-deep-lakes-at-crater-lake-its-slowing-down-20251114/)
