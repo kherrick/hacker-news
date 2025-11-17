@@ -12,7 +12,7 @@
 * [2025-11-16, 20:18:10](https://news.ycombinator.com/item?id=45948058) - [I have recordings proving Coinbase knew about breach months before disclosure](https://jonathanclark.com/posts/coinbase-breach-timeline.html)
 * [2025-11-16, 19:45:36](https://news.ycombinator.com/item?id=45947822) - [Linux mode setting, from the comfort of OCaml](https://roscidus.com/blog/blog/2025/11/16/libdrm-ocaml/)
 * [2025-11-16, 19:44:27](https://news.ycombinator.com/item?id=45947810) - [Open-source Zig book](https://www.zigbook.net)
-* [2025-11-16, 19:39:52](https://news.ycombinator.com/item?id=45947770) - [Browser fingerprinting via favicon](https://github.com/jonasstrehle/supercookie)
+* [2025-11-16, 19:39:52](https://news.ycombinator.com/item?id=45947770) - [Supercookie: Browser Fingerprinting via Favicon (2021)](https://github.com/jonasstrehle/supercookie)
 * [2025-11-16, 19:38:49](https://news.ycombinator.com/item?id=45947761) - [Dark Pattern Games](https://www.darkpattern.games)
 * [2025-11-16, 19:21:13](https://news.ycombinator.com/item?id=45947639) - [The fate of \"small\" open source](https://nolanlawson.com/2025/11/16/the-fate-of-small-open-source/)
 * [2025-11-16, 18:58:10](https://news.ycombinator.com/item?id=45947444) - [What if you don't need MCP at all?](https://mariozechner.at/posts/2025-11-02-what-if-you-dont-need-mcp/)
@@ -26,10 +26,10 @@
 * [2025-11-16, 11:32:39](https://news.ycombinator.com/item?id=45944296) - [Anthropic’s paper smells like bullshit](https://djnn.sh/posts/anthropic-s-paper-smells-like-bullshit/)
 * [2025-11-15, 12:31:20](https://news.ycombinator.com/item?id=45936999) - [Lithium vs. Lettuce](https://ambrook.com/offrange/photo-essay/lithium-v-lettuce)
 * [2025-11-11, 10:08:30](https://news.ycombinator.com/item?id=45885768) - [Listen to Database Changes Through the Postgres WAL](https://peterullrich.com/listen-to-database-changes-through-the-postgres-wal)
+* [2025-11-08, 22:12:44](https://news.ycombinator.com/item?id=45860516) - [Show HN: Spam classifier in Go using Naive Bayes](https://github.com/igomez10/nspammer)
 * [2025-11-06, 19:47:37](https://news.ycombinator.com/item?id=45839474) - [What Did Medieval Peasants Know? (2022)](https://www.theatlantic.com/health/archive/2022/05/medieval-history-peasant-life-work/629783/)
 * [2025-11-06, 16:52:19](https://news.ycombinator.com/item?id=45837259) - [A File Format Uncracked for 20 Years](https://landaire.net/a-file-format-uncracked-for-20-years/)
 * [2025-11-05, 17:24:18](https://news.ycombinator.com/item?id=45825413) - [Fourier Transforms](https://www.continuummechanics.org/fourierxforms.html)
-* [2025-11-05, 07:32:50](https://news.ycombinator.com/item?id=45820358) - [Shell Grotto, Margate](https://en.wikipedia.org/wiki/Shell_Grotto,_Margate)
 
 ## [Archives](archives/index.md)
 
