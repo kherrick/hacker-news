@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-11-17, 13:40:40](https://news.ycombinator.com/item?id=45953452) - [FreeMDU: Open-source Miele appliance diagnostic tools](https://github.com/medusalix/FreeMDU)
 * [2025-11-17, 13:16:30](https://news.ycombinator.com/item?id=45953281) - [US startup Substrate announces chipmaking tool that it says will rival ASML](https://www.msn.com/en-in/news/world/us-startup-substrate-announces-chipmaking-tool-that-it-says-will-rival-asml/ar-AA1PltWT)
 * [2025-11-17, 13:01:49](https://news.ycombinator.com/item?id=45953202) - [GCC 16 considering changing default to C++20](https://inbox.sourceware.org/gcc/aQj1tKzhftT9GUF4@redhat.com/)
 * [2025-11-17, 11:25:51](https://news.ycombinator.com/item?id=45952672) - [The evolution of rationality: How chimps process conflicting evidence](https://arstechnica.com/science/2025/11/the-evolution-of-rationality-how-chimps-process-conflicting-evidence/)
@@ -12,7 +13,6 @@
 * [2025-11-16, 21:57:13](https://news.ycombinator.com/item?id=45948792) - [Neuroscientists track the neural activity underlying an “aha”](https://www.quantamagazine.org/how-your-brain-creates-aha-moments-and-why-they-stick-20251105/)
 * [2025-11-16, 20:54:14](https://news.ycombinator.com/item?id=45948311) - [Why Castrol Honda Superbike crashes on (most) modern systems](https://seri.tools/blog/castrol-honda-superbike/)
 * [2025-11-16, 20:46:30](https://news.ycombinator.com/item?id=45948254) - [The Pragmatic Programmer: 20th Anniversary Edition (2023)](https://www.ahalbert.com/technology/2023/12/19/the_pragmatic_programmer.html)
-* [2025-11-16, 20:18:10](https://news.ycombinator.com/item?id=45948058) - [I have recordings proving Coinbase knew about breach months before disclosure](https://jonathanclark.com/posts/coinbase-breach-timeline.html)
 * [2025-11-16, 19:44:27](https://news.ycombinator.com/item?id=45947810) - [Open-source Zig book](https://www.zigbook.net)
 * [2025-11-16, 19:39:52](https://news.ycombinator.com/item?id=45947770) - [Supercookie: Browser Fingerprinting via Favicon (2021)](https://github.com/jonasstrehle/supercookie)
 * [2025-11-16, 19:21:13](https://news.ycombinator.com/item?id=45947639) - [The fate of \"small\" open source](https://nolanlawson.com/2025/11/16/the-fate-of-small-open-source/)

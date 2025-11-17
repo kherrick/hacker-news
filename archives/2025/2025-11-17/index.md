@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-11-17](index.md)
 
+* [2025-11-17, 13:40:40](https://news.ycombinator.com/item?id=45953452) - [FreeMDU: Open-source Miele appliance diagnostic tools](https://github.com/medusalix/FreeMDU)
 * [2025-11-17, 13:16:30](https://news.ycombinator.com/item?id=45953281) - [US startup Substrate announces chipmaking tool that it says will rival ASML](https://www.msn.com/en-in/news/world/us-startup-substrate-announces-chipmaking-tool-that-it-says-will-rival-asml/ar-AA1PltWT)
 * [2025-11-17, 13:01:49](https://news.ycombinator.com/item?id=45953202) - [GCC 16 considering changing default to C++20](https://inbox.sourceware.org/gcc/aQj1tKzhftT9GUF4@redhat.com/)
 * [2025-11-17, 11:36:34](https://news.ycombinator.com/item?id=45952737) - [Drone footage shows scale of revolting 60M-long mountain of waste next to river](https://news.sky.com/story/kidlington-fly-tipping-drone-footage-shows-scale-of-revolting-60m-long-mountain-of-waste-next-to-river-13471314)
