@@ -58,6 +58,7 @@
 * [2025-11-10, 11:45:15](https://news.ycombinator.com/item?id=45874987) - [Vibe Code Warning – A personal casestudy](https://github.com/jackdoe/pico2-swd-riscv)
 * [2025-11-10, 11:21:47](https://news.ycombinator.com/item?id=45874850) - [DNS Provider Quad9 Sees Piracy Blocking Orders as \"Existential Threat\"](https://torrentfreak.com/dns-provider-quad9-sees-piracy-blocking-orders-as-existential-threat/)
 * [2025-11-10, 10:53:35](https://news.ycombinator.com/item?id=45874659) - [Europe to decide if 6 GHz is shared between Wi-Fi and cellular networks](https://www.theregister.com/2025/11/09/europe_to_decide_if_6/)
+* [2025-11-10, 10:41:34](https://news.ycombinator.com/item?id=45874597) - [Show HN: Reverse perspective camera for OpenGL (Three.js)](https://github.com/bntre/reverse-perspective-threejs)
 * [2025-11-10, 08:48:14](https://news.ycombinator.com/item?id=45873904) - [Installing and using HP-UX 9](https://thejpster.org.uk/blog/blog-2025-11-08/)
 * [2025-11-10, 08:44:52](https://news.ycombinator.com/item?id=45873876) - [Microsoft's lack of quality control is out of control](https://www.theregister.com/2025/11/08/microsoft_lacks_quality_control/)
 * [2025-11-10, 08:27:27](https://news.ycombinator.com/item?id=45873756) - [EU takes aim at plastic pellets to prevent their nightmare cleanup](https://www.yahoo.com/news/articles/eu-takes-aim-plastic-pellets-030314496.html)
