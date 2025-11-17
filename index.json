@@ -1,22 +1,52 @@
 [
   [
     [
+      "2025-11-17, 16:24:34",
+      "https://news.ycombinator.com/item?id=45955077"
+    ],
+    [
+      "Living my best Sun Microsystems ecosystem life in 2025",
+      "https://www.osnews.com/story/143570/living-my-best-sun-microsystems-ecosystem-life-in-2025/"
+    ]
+  ],
+  [
+    [
+      "2025-11-17, 15:50:04",
+      "https://news.ycombinator.com/item?id=45954640"
+    ],
+    [
+      "Project Gemini",
+      "https://geminiprotocol.net/"
+    ]
+  ],
+  [
+    [
+      "2025-11-17, 15:48:18",
+      "https://news.ycombinator.com/item?id=45954626"
+    ],
+    [
+      "WBlock: A New Ad-Blocker for Safari",
+      "https://github.com/0xCUB3/wBlock"
+    ]
+  ],
+  [
+    [
+      "2025-11-17, 15:41:08",
+      "https://news.ycombinator.com/item?id=45954560"
+    ],
+    [
+      "Google is killing the open web, part 2",
+      "https://wok.oblomov.eu/tecnologia/google-killing-open-web-2/"
+    ]
+  ],
+  [
+    [
       "2025-11-17, 14:11:57",
       "https://news.ycombinator.com/item?id=45953702"
     ],
     [
       "Replicate is joining Cloudflare",
       "https://replicate.com/blog/replicate-cloudflare"
-    ]
-  ],
-  [
-    [
-      "2025-11-17, 13:55:53",
-      "https://news.ycombinator.com/item?id=45953568"
-    ],
-    [
-      "Geothermal energy might be the baseload revolution we've been looking for",
-      "https://www.newyorker.com/magazine/2025/11/24/why-the-time-has-finally-come-for-geothermal-energy"
     ]
   ],
   [
@@ -57,16 +87,6 @@
     [
       "Ned: ImGui Text Editor with GL Shaders",
       "https://github.com/nealmick/ned"
-    ]
-  ],
-  [
-    [
-      "2025-11-17, 11:47:54",
-      "https://news.ycombinator.com/item?id=45952795"
-    ],
-    [
-      "Republican push to make U.S. census surveys voluntary alarms statisticians",
-      "https://www.science.org/content/article/republican-push-make-u-s-census-surveys-voluntary-alarms-statisticians"
     ]
   ],
   [
@@ -211,16 +231,6 @@
   ],
   [
     [
-      "2025-11-11, 21:59:34",
-      "https://news.ycombinator.com/item?id=45893471"
-    ],
-    [
-      "Runit Linux: Complete Guide to Unix Init Scheme with Service Supervision",
-      "https://codelucky.com/runit-linux-init-service-supervision/"
-    ]
-  ],
-  [
-    [
       "2025-11-11, 10:08:30",
       "https://news.ycombinator.com/item?id=45885768"
     ],
@@ -261,16 +271,6 @@
   ],
   [
     [
-      "2025-11-05, 17:24:18",
-      "https://news.ycombinator.com/item?id=45825413"
-    ],
-    [
-      "Fourier Transforms",
-      "https://www.continuummechanics.org/fourierxforms.html"
-    ]
-  ],
-  [
-    [
       "2025-11-05, 14:04:22",
       "https://news.ycombinator.com/item?id=45822953"
     ],
@@ -281,12 +281,12 @@
   ],
   [
     [
-      "2025-11-04, 10:47:56",
-      "https://news.ycombinator.com/item?id=45809524"
+      "2025-11-05, 06:00:00",
+      "https://news.ycombinator.com/item?id=45819731"
     ],
     [
-      "Quest for Permissively Licensed PDF Library in C#",
-      "https://duerrenberger.dev/blog/2025/11/04/quest-for-permissively-licensed-pdf-library-in-csharp/"
+      "Deploying Temporal on AWS ECS with Terraform",
+      "https://papnori.github.io/posts/temporal-ecs-terraform/"
     ]
   ],
   [
