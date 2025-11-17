@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-11-17, 18:39:49",
+      "https://news.ycombinator.com/item?id=45956517"
+    ],
+    [
+      "How Honda screwed up an expensive project with a simple math error (2008)",
+      "https://davidsd.org/2008/12/honda-needs-a-tune-up/"
+    ]
+  ],
+  [
+    [
       "2025-11-17, 18:07:17",
       "https://news.ycombinator.com/item?id=45956176"
     ],
@@ -11,12 +21,12 @@
   ],
   [
     [
-      "2025-11-17, 18:00:31",
-      "https://news.ycombinator.com/item?id=45956111"
+      "2025-11-17, 18:05:29",
+      "https://news.ycombinator.com/item?id=45956154"
     ],
     [
-      "Show HN: Building WebSocket in Apache Iggy with Io_uring and Completion Based IO",
-      "https://iggy.apache.org/blogs/2025/11/17/websocket-io-uring/"
+      "Show HN: Kalendis – Scheduling API (keep your UI, we handle timezones/DST)",
+      "https://kalendis.dev"
     ]
   ],
   [
@@ -111,22 +121,22 @@
   ],
   [
     [
-      "2025-11-17, 15:34:38",
-      "https://news.ycombinator.com/item?id=45954472"
-    ],
-    [
-      "Show HN: Bsub.io – zero-setup batch execution for command-line tools",
-      "https://news.ycombinator.com/item?id=45954472"
-    ]
-  ],
-  [
-    [
       "2025-11-17, 15:04:26",
       "https://news.ycombinator.com/item?id=45954210"
     ],
     [
       "WeatherNext 2: Our most advanced weather forecasting model",
       "https://blog.google/technology/google-deepmind/weathernext-2/"
+    ]
+  ],
+  [
+    [
+      "2025-11-17, 14:57:33",
+      "https://news.ycombinator.com/item?id=45954140"
+    ],
+    [
+      "Aldous Huxley predicts Adderall and champions alternative therapies",
+      "https://angadh.com/inkhaven-7"
     ]
   ],
   [
@@ -177,16 +187,6 @@
     [
       "Are you stuck in movie logic?",
       "https://usefulfictions.substack.com/p/are-you-stuck-in-movie-logic"
-    ]
-  ],
-  [
-    [
-      "2025-11-17, 11:53:00",
-      "https://news.ycombinator.com/item?id=45952824"
-    ],
-    [
-      "Ned: ImGui Text Editor with GL Shaders",
-      "https://github.com/nealmick/ned"
     ]
   ],
   [
