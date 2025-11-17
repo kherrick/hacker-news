@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-11-17](index.md)
 
+* [2025-11-17, 22:18:41](https://news.ycombinator.com/item?id=45959033) - [Private equity firms are snapping up mobile home parks, driving out residents](https://theconversation.com/private-equity-firms-are-snapping-up-mobile-home-parks-and-driving-out-the-residents-who-can-least-afford-to-lose-them-264456)
 * [2025-11-17, 21:56:58](https://news.ycombinator.com/item?id=45958815) - [Ion: Modern System Shell in Rust](https://github.com/redox-os/ion)
 * [2025-11-17, 21:46:06](https://news.ycombinator.com/item?id=45958717) - [Run ancient Unix on modern hardware](https://github.com/felipenlunkes/run-ancient-unix)
 * [2025-11-17, 20:37:07](https://news.ycombinator.com/item?id=45958005) - [Grok 4.1](https://x.ai/news/grok-4-1)
