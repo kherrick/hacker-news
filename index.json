@@ -11,12 +11,32 @@
   ],
   [
     [
-      "2025-11-17, 18:06:56",
-      "https://news.ycombinator.com/item?id=45956173"
+      "2025-11-17, 17:40:45",
+      "https://news.ycombinator.com/item?id=45955921"
     ],
     [
-      "Reselling tickets for profit to be outlawed in UK government crackdown",
-      "https://www.theguardian.com/money/2025/nov/17/reselling-tickets-for-profit-to-be-outlawed-in-uk-government-crackdown"
+      "EEG-based neurofeedback in athletes and non-athletes",
+      "https://www.mdpi.com/2306-5354/12/11/1202"
+    ]
+  ],
+  [
+    [
+      "2025-11-17, 17:39:43",
+      "https://news.ycombinator.com/item?id=45955904"
+    ],
+    [
+      "DESI's Dizzying Results",
+      "https://www.universetoday.com/articles/desis-dizzying-results"
+    ]
+  ],
+  [
+    [
+      "2025-11-17, 17:39:15",
+      "https://news.ycombinator.com/item?id=45955900"
+    ],
+    [
+      "Azure hit by 15 Tbps DDoS attack using 500k IP addresses",
+      "https://techcommunity.microsoft.com/blog/azureinfrastructureblog/defending-the-cloud-azure-neutralized-a-record-breaking-15-tbps-ddos-attack/4470422"
     ]
   ],
   [
@@ -25,7 +45,7 @@
       "https://news.ycombinator.com/item?id=45955889"
     ],
     [
-      "A new book recovers the origins of Effective Altruism",
+      "A new book about the origins of Effective Altruism",
       "https://newrepublic.com/article/202433/happened-effective-altruism"
     ]
   ],
@@ -41,22 +61,32 @@
   ],
   [
     [
-      "2025-11-17, 17:23:35",
-      "https://news.ycombinator.com/item?id=45955745"
-    ],
-    [
-      "Cities Panic over Having to Release Mass Surveillance Recordings",
-      "https://www.nakedcapitalism.com/2025/11/cities-panic-over-having-to-release-mass-surveillance-recordings.html"
-    ]
-  ],
-  [
-    [
       "2025-11-17, 17:07:17",
       "https://news.ycombinator.com/item?id=45955565"
     ],
     [
-      "When AWS was down, we were not",
+      "How when AWS was down, we were not",
       "https://authress.io/knowledge-base/articles/2025/11/01/how-we-prevent-aws-downtime-impacts"
+    ]
+  ],
+  [
+    [
+      "2025-11-17, 16:54:53",
+      "https://news.ycombinator.com/item?id=45955424"
+    ],
+    [
+      "Israeli-founded app preloaded on Samsung phones is attracting controversy",
+      "https://www.sammobile.com/news/israeli-app-app-cloud-samsung-phones-controversy/"
+    ]
+  ],
+  [
+    [
+      "2025-11-17, 16:52:59",
+      "https://news.ycombinator.com/item?id=45955407"
+    ],
+    [
+      "Why don't people return their shopping carts?",
+      "https://behavioralscientist.org/why-dont-people-return-their-shopping-carts-a-somewhat-scientific-investigation/"
     ]
   ],
   [
@@ -181,16 +211,6 @@
   ],
   [
     [
-      "2025-11-17, 03:52:50",
-      "https://news.ycombinator.com/item?id=45950720"
-    ],
-    [
-      "Building a Simple Search Engine That Works",
-      "https://karboosx.net/post/4eZxhBon/building-a-simple-search-engine-that-actually-works"
-    ]
-  ],
-  [
-    [
       "2025-11-17, 02:39:28",
       "https://news.ycombinator.com/item?id=45950408"
     ],
@@ -201,12 +221,12 @@
   ],
   [
     [
-      "2025-11-16, 15:00:24",
-      "https://news.ycombinator.com/item?id=45945587"
+      "2025-11-16, 22:36:56",
+      "https://news.ycombinator.com/item?id=45949102"
     ],
     [
-      "Heretic: Automatic censorship removal for language models",
-      "https://github.com/p-e-w/heretic"
+      "An overly aggressive mock can work fine, but break much later",
+      "https://nedbatchelder.com/blog/202511/why_your_mock_breaks_later.html"
     ]
   ],
   [
@@ -231,32 +251,12 @@
   ],
   [
     [
-      "2025-11-10, 10:41:34",
-      "https://news.ycombinator.com/item?id=45874597"
-    ],
-    [
-      "Show HN: Reverse perspective camera for OpenGL (Three.js)",
-      "https://github.com/bntre/reverse-perspective-threejs"
-    ]
-  ],
-  [
-    [
       "2025-11-09, 11:22:18",
       "https://news.ycombinator.com/item?id=45864768"
     ],
     [
-      "There Has to Be a Better Way to Make Titanium",
+      "There has to be a better way to make titanium",
       "https://www.orcasciences.com/articles/there-has-to-be-a-better-way-to-make-titanium"
-    ]
-  ],
-  [
-    [
-      "2025-11-07, 10:11:08",
-      "https://news.ycombinator.com/item?id=45845060"
-    ],
-    [
-      "Craft Chrome Devtools Protocol (CDP) commands with the new command editor",
-      "https://developer.chrome.com/blog/cdp-command-editor"
     ]
   ],
   [
@@ -295,7 +295,7 @@
       "https://news.ycombinator.com/item?id=45796932"
     ],
     [
-      "Celtic Code: Drawing Knots with Python",
+      "Celtic Code: Drawing knots with Python",
       "https://2earth.github.io/website/20250202.html"
     ]
   ]
