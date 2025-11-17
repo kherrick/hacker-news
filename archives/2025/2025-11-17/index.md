@@ -7,6 +7,8 @@
 * [2025-11-17, 13:40:40](https://news.ycombinator.com/item?id=45953452) - [FreeMDU: Open-source Miele appliance diagnostic tools](https://github.com/medusalix/FreeMDU)
 * [2025-11-17, 13:16:30](https://news.ycombinator.com/item?id=45953281) - [US startup Substrate announces chipmaking tool that it says will rival ASML](https://www.msn.com/en-in/news/world/us-startup-substrate-announces-chipmaking-tool-that-it-says-will-rival-asml/ar-AA1PltWT)
 * [2025-11-17, 13:01:49](https://news.ycombinator.com/item?id=45953202) - [GCC 16 considering changing default to C++20](https://inbox.sourceware.org/gcc/aQj1tKzhftT9GUF4@redhat.com/)
+* [2025-11-17, 12:38:07](https://news.ycombinator.com/item?id=45953051) - [Mysterious drones have been spotted at airports across Europe](https://www.bbc.co.uk/news/articles/crkl3d6pegpo)
+* [2025-11-17, 11:53:00](https://news.ycombinator.com/item?id=45952824) - [Ned: ImGui Text Editor with GL Shaders](https://github.com/nealmick/ned)
 * [2025-11-17, 11:36:34](https://news.ycombinator.com/item?id=45952737) - [Drone footage shows scale of revolting 60M-long mountain of waste next to river](https://news.sky.com/story/kidlington-fly-tipping-drone-footage-shows-scale-of-revolting-60m-long-mountain-of-waste-next-to-river-13471314)
 * [2025-11-17, 11:25:51](https://news.ycombinator.com/item?id=45952672) - [The evolution of rationality: How chimps process conflicting evidence](https://arstechnica.com/science/2025/11/the-evolution-of-rationality-how-chimps-process-conflicting-evidence/)
 * [2025-11-17, 10:40:55](https://news.ycombinator.com/item?id=45952428) - [Giving C a Superpower](https://hwisnu.bearblog.dev/giving-c-a-superpower-custom-header-file-safe_ch/)
