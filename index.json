@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2025-11-17, 18:00:31",
+      "https://news.ycombinator.com/item?id=45956111"
+    ],
+    [
+      "Show HN: Building WebSocket in Apache Iggy with Io_uring and Completion Based IO",
+      "https://iggy.apache.org/blogs/2025/11/17/websocket-io-uring/"
+    ]
+  ],
+  [
+    [
       "2025-11-17, 17:40:45",
       "https://news.ycombinator.com/item?id=45955921"
     ],
@@ -41,12 +51,12 @@
   ],
   [
     [
-      "2025-11-17, 17:37:42",
-      "https://news.ycombinator.com/item?id=45955889"
+      "2025-11-17, 17:23:35",
+      "https://news.ycombinator.com/item?id=45955745"
     ],
     [
-      "A new book about the origins of Effective Altruism",
-      "https://newrepublic.com/article/202433/happened-effective-altruism"
+      "Cities panic over having to release mass surveillance recordings",
+      "https://neuburger.substack.com/p/cities-panic-over-having-to-release"
     ]
   ],
   [
@@ -71,16 +81,6 @@
   ],
   [
     [
-      "2025-11-17, 16:52:59",
-      "https://news.ycombinator.com/item?id=45955407"
-    ],
-    [
-      "Why don't people return their shopping carts?",
-      "https://behavioralscientist.org/why-dont-people-return-their-shopping-carts-a-somewhat-scientific-investigation/"
-    ]
-  ],
-  [
-    [
       "2025-11-17, 15:50:04",
       "https://news.ycombinator.com/item?id=45954640"
     ],
@@ -101,16 +101,6 @@
   ],
   [
     [
-      "2025-11-17, 15:48:18",
-      "https://news.ycombinator.com/item?id=45954626"
-    ],
-    [
-      "WBlock: A New Ad-Blocker for Safari",
-      "https://github.com/0xCUB3/wBlock"
-    ]
-  ],
-  [
-    [
       "2025-11-17, 15:41:08",
       "https://news.ycombinator.com/item?id=45954560"
     ],
@@ -121,12 +111,32 @@
   ],
   [
     [
+      "2025-11-17, 15:34:38",
+      "https://news.ycombinator.com/item?id=45954472"
+    ],
+    [
+      "Show HN: Bsub.io – zero-setup batch execution for command-line tools",
+      "https://news.ycombinator.com/item?id=45954472"
+    ]
+  ],
+  [
+    [
       "2025-11-17, 15:04:26",
       "https://news.ycombinator.com/item?id=45954210"
     ],
     [
       "WeatherNext 2: Our most advanced weather forecasting model",
       "https://blog.google/technology/google-deepmind/weathernext-2/"
+    ]
+  ],
+  [
+    [
+      "2025-11-17, 14:40:54",
+      "https://news.ycombinator.com/item?id=45953977"
+    ],
+    [
+      "Show HN: ESPectre – Motion detection based on Wi-Fi spectre analysis",
+      "https://github.com/francescopace/espectre"
     ]
   ],
   [
@@ -231,12 +241,32 @@
   ],
   [
     [
+      "2025-11-16, 11:02:25",
+      "https://news.ycombinator.com/item?id=45944158"
+    ],
+    [
+      "Astrophotographer snaps skydiver falling in front of the sun",
+      "https://www.iflscience.com/the-fall-of-icarus-you-have-never-seen-an-astrophotography-picture-like-this-81570"
+    ]
+  ],
+  [
+    [
       "2025-11-15, 13:24:54",
       "https://news.ycombinator.com/item?id=45937302"
     ],
     [
       "My stages of learning to be a socially normal person",
       "https://sashachapin.substack.com/p/my-six-stages-of-learning-to-be-a"
+    ]
+  ],
+  [
+    [
+      "2025-11-15, 07:27:21",
+      "https://news.ycombinator.com/item?id=45935687"
+    ],
+    [
+      "A graph explorer of the Epstein emails",
+      "https://epstein-doc-explorer-1.onrender.com/"
     ]
   ],
   [
@@ -251,52 +281,22 @@
   ],
   [
     [
+      "2025-11-14, 01:57:57",
+      "https://news.ycombinator.com/item?id=45922997"
+    ],
+    [
+      "Our dogs' diversity can be traced back to the Stone Age",
+      "https://www.bbc.com/news/articles/ce9d7j89ykro"
+    ]
+  ],
+  [
+    [
       "2025-11-12, 14:12:13",
       "https://news.ycombinator.com/item?id=45900425"
     ],
     [
       "Show HN: I built a synth for my daughter",
       "https://bitsnpieces.dev/posts/a-synth-for-my-daughter/"
-    ]
-  ],
-  [
-    [
-      "2025-11-09, 11:22:18",
-      "https://news.ycombinator.com/item?id=45864768"
-    ],
-    [
-      "There has to be a better way to make titanium",
-      "https://www.orcasciences.com/articles/there-has-to-be-a-better-way-to-make-titanium"
-    ]
-  ],
-  [
-    [
-      "2025-11-05, 08:38:24",
-      "https://news.ycombinator.com/item?id=45820782"
-    ],
-    [
-      "WebTransport is almost here to allow UDP-like exchange in the browser",
-      "https://developer.mozilla.org/en-US/docs/Web/API/WebTransport_API"
-    ]
-  ],
-  [
-    [
-      "2025-11-05, 06:00:00",
-      "https://news.ycombinator.com/item?id=45819731"
-    ],
-    [
-      "Deploying Temporal on AWS ECS with Terraform",
-      "https://papnori.github.io/posts/temporal-ecs-terraform/"
-    ]
-  ],
-  [
-    [
-      "2025-11-03, 08:19:09",
-      "https://news.ycombinator.com/item?id=45796932"
-    ],
-    [
-      "Celtic Code: Drawing knots with Python",
-      "https://2earth.github.io/website/20250202.html"
     ]
   ]
 ]
