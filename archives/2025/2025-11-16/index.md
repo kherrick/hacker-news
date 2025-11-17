@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-11-16](index.md)
 
+* [2025-11-16, 23:58:21](https://news.ycombinator.com/item?id=45949655) - [A new chapter begins for EV batteries with the expiry of key LFP patents](https://www.shoosmiths.com/insights/articles/a-new-chapter-begins-for-ev-batteries-with-the-expiry-of-key-lfp-patents)
+* [2025-11-16, 23:19:24](https://news.ycombinator.com/item?id=45949352) - [PicoIDE – An open IDE/ATAPI drive emulator](https://picoide.com/)
 * [2025-11-16, 23:15:20](https://news.ycombinator.com/item?id=45949326) - [Britney Spears' Guide to Semiconductor Physics](https://britneyspears.ac/lasers.htm)
 * [2025-11-16, 23:01:24](https://news.ycombinator.com/item?id=45949247) - [Goldman Sachs asks in biotech Report: Is curing patients a sustainable business?](https://www.cnbc.com/2018/04/11/goldman-asks-is-curing-patients-a-sustainable-business-model.html)
 * [2025-11-16, 22:36:56](https://news.ycombinator.com/item?id=45949102) - [Why your mock breaks later](https://nedbatchelder.com/blog/202511/why_your_mock_breaks_later.html)

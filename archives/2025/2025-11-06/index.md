@@ -35,6 +35,7 @@
 * [2025-11-06, 17:04:41](https://news.ycombinator.com/item?id=45837425) - [The Parallel Search API](https://parallel.ai/blog/introducing-parallel-search)
 * [2025-11-06, 17:00:03](https://news.ycombinator.com/item?id=45837364) - [Senior BizOps at Artie (San Francisco)](https://www.ycombinator.com/companies/artie/jobs/gqANVBc-senior-business-operations)
 * [2025-11-06, 16:57:55](https://news.ycombinator.com/item?id=45837342) - [ICC ditches Microsoft 365 for openDesk](https://www.binnenlandsbestuur.nl/digitaal/internationaal-strafhof-neemt-afscheid-van-microsoft-365)
+* [2025-11-06, 16:52:19](https://news.ycombinator.com/item?id=45837259) - [A File Format Uncracked for 20 Years](https://landaire.net/a-file-format-uncracked-for-20-years/)
 * [2025-11-06, 16:35:53](https://news.ycombinator.com/item?id=45837067) - [Show HN: Dynamic code and feedback walkthroughs with your coding Agent in VSCode](https://www.intraview.ai/hn-demo)
 * [2025-11-06, 16:33:42](https://news.ycombinator.com/item?id=45837042) - [Benzene at 200](https://www.rigb.org/explore-science/explore/blog/tiny-vial-changed-world-benzene-200)
 * [2025-11-06, 16:18:18](https://news.ycombinator.com/item?id=45836826) - [FBI Tries to Unmask Owner of Archive.is Site](https://www.heise.de/en/news/Archive-today-FBI-Demands-Data-from-Provider-Tucows-11066346.html)

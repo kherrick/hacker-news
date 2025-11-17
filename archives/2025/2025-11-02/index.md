@@ -66,6 +66,7 @@
 * [2025-11-02, 07:16:20](https://news.ycombinator.com/item?id=45788441) - [Gt: [experimental] multiplexing tensor framework](https://github.com/bwasti/gt)
 * [2025-11-02, 07:04:59](https://news.ycombinator.com/item?id=45788385) - [Intervaltree with Rust Back End](https://github.com/Athe-kunal/intervaltree_rs)
 * [2025-11-02, 06:51:58](https://news.ycombinator.com/item?id=45788327) - [Why do AI models use so many em-dashes?](https://www.seangoedecke.com/em-dashes/)
+* [2025-11-02, 06:29:15](https://news.ycombinator.com/item?id=45788220) - [Open Catalyst Project](https://opencatalystproject.org/)
 * [2025-11-02, 06:23:24](https://news.ycombinator.com/item?id=45788202) - [CLI to manage your SQL database schemas and migrations](https://github.com/gh-PonyM/shed)
 * [2025-11-02, 06:21:37](https://news.ycombinator.com/item?id=45788194) - [PyTorch Helion](https://pytorch.org/blog/helion/)
 * [2025-11-02, 06:13:07](https://news.ycombinator.com/item?id=45788167) - [Machine Scheduler in LLVM – Part II](https://myhsu.xyz/llvm-machine-scheduler-2/)
