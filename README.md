@@ -23,7 +23,7 @@
 * [2025-11-16, 13:45:45](https://news.ycombinator.com/item?id=45945114) - [Where do the children play?](https://unpublishablepapers.substack.com/p/where-do-the-children-play)
 * [2025-11-16, 13:25:32](https://news.ycombinator.com/item?id=45944969) - [Garbage collection is useful](https://dubroy.com/blog/garbage-collection-is-useful/)
 * [2025-11-16, 11:32:39](https://news.ycombinator.com/item?id=45944296) - [Anthropic’s paper smells like bullshit](https://djnn.sh/posts/anthropic-s-paper-smells-like-bullshit/)
-* [2025-11-16, 00:01:25](https://news.ycombinator.com/item?id=45941596) - [AirPods libreated from Apple's ecosystem](https://github.com/kavishdevar/librepods)
+* [2025-11-14, 06:25:51](https://news.ycombinator.com/item?id=45924417) - [Fastmcpp (Fastmcp for C++)](https://github.com/0xeb/fastmcpp)
 * [2025-11-11, 21:59:34](https://news.ycombinator.com/item?id=45893471) - [Runit Linux: Complete Guide to Unix Init Scheme with Service Supervision](https://codelucky.com/runit-linux-init-service-supervision/)
 * [2025-11-11, 10:08:30](https://news.ycombinator.com/item?id=45885768) - [Listen to Database Changes Through the Postgres WAL](https://peterullrich.com/listen-to-database-changes-through-the-postgres-wal)
 * [2025-11-10, 20:39:34](https://news.ycombinator.com/item?id=45880643) - [\"Snarky\"; \"Snark\"](https://notoneoffbritishisms.com/2025/10/13/snarky-snark/)
