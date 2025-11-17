@@ -1,13 +1,13 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-11-17, 03:52:50](https://news.ycombinator.com/item?id=45950720) - [Building a Simple Search Engine That Works](https://karboosx.net/post/4eZxhBon/building-a-simple-search-engine-that-actually-works)
+* [2025-11-17, 03:09:58](https://news.ycombinator.com/item?id=45950553) - [Mixing Is the Heartbeat of Deep Lakes. At Crater Lake, It's Slowing Down](https://www.quantamagazine.org/mixing-is-the-heartbeat-of-deep-lakes-at-crater-lake-its-slowing-down-20251114/)
 * [2025-11-17, 02:36:18](https://news.ycombinator.com/item?id=45950396) - [A 1961 Relay Computer Running in the Browser](https://minivac.greg.technology/)
 * [2025-11-16, 23:58:21](https://news.ycombinator.com/item?id=45949655) - [A new chapter begins for EV batteries with the expiry of key LFP patents](https://www.shoosmiths.com/insights/articles/a-new-chapter-begins-for-ev-batteries-with-the-expiry-of-key-lfp-patents)
 * [2025-11-16, 23:19:24](https://news.ycombinator.com/item?id=45949352) - [PicoIDE – An open IDE/ATAPI drive emulator](https://picoide.com/)
 * [2025-11-16, 23:15:20](https://news.ycombinator.com/item?id=45949326) - [Britney Spears' Guide to Semiconductor Physics (2000)](https://britneyspears.ac/lasers.htm)
-* [2025-11-16, 23:01:24](https://news.ycombinator.com/item?id=45949247) - [Goldman Sachs asks in biotech Report: Is curing patients a sustainable business? (2018)](https://www.cnbc.com/2018/04/11/goldman-asks-is-curing-patients-a-sustainable-business-model.html)
 * [2025-11-16, 22:36:56](https://news.ycombinator.com/item?id=45949102) - [Why your mock breaks later](https://nedbatchelder.com/blog/202511/why_your_mock_breaks_later.html)
 * [2025-11-16, 21:57:13](https://news.ycombinator.com/item?id=45948792) - [Neuroscientists track the neural activity underlying an “aha”](https://www.quantamagazine.org/how-your-brain-creates-aha-moments-and-why-they-stick-20251105/)
-* [2025-11-16, 21:17:37](https://news.ycombinator.com/item?id=45948463) - [Call Me Maybe: Eavesdropping encrypted LTE calls with ReVoLTE (2020)](https://montsecure.com/research/revolte-attack/)
 * [2025-11-16, 20:46:30](https://news.ycombinator.com/item?id=45948254) - [The Pragmatic Programmer: 20th Anniversary Edition (2023)](https://www.ahalbert.com/technology/2023/12/19/the_pragmatic_programmer.html)
 * [2025-11-16, 20:18:10](https://news.ycombinator.com/item?id=45948058) - [I have recordings proving Coinbase knew about breach months before disclosure](https://jonathanclark.com/posts/coinbase-breach-timeline.html)
 * [2025-11-16, 19:45:36](https://news.ycombinator.com/item?id=45947822) - [Linux mode setting, from the comfort of OCaml](https://roscidus.com/blog/blog/2025/11/16/libdrm-ocaml/)
@@ -26,10 +26,10 @@
 * [2025-11-15, 12:31:20](https://news.ycombinator.com/item?id=45936999) - [Lithium vs. Lettuce](https://ambrook.com/offrange/photo-essay/lithium-v-lettuce)
 * [2025-11-12, 15:18:05](https://news.ycombinator.com/item?id=45901257) - [Extreme Moon: The Major Lunar Standstill of 2024-2025](https://griffithobservatory.org/extreme-moon-the-major-lunar-standstills-of-2024-2025/)
 * [2025-11-11, 10:08:30](https://news.ycombinator.com/item?id=45885768) - [Listen to Database Changes Through the Postgres WAL](https://peterullrich.com/listen-to-database-changes-through-the-postgres-wal)
+* [2025-11-10, 14:54:01](https://news.ycombinator.com/item?id=45876574) - [Help My LocalDate Isn't Flattened](https://horstmann.com/unblog/2025-11-08/index.html)
 * [2025-11-06, 19:47:37](https://news.ycombinator.com/item?id=45839474) - [What Did Medieval Peasants Know? (2022)](https://www.theatlantic.com/health/archive/2022/05/medieval-history-peasant-life-work/629783/)
 * [2025-11-06, 16:52:19](https://news.ycombinator.com/item?id=45837259) - [A File Format Uncracked for 20 Years](https://landaire.net/a-file-format-uncracked-for-20-years/)
 * [2025-11-05, 17:24:18](https://news.ycombinator.com/item?id=45825413) - [Fourier Transforms](https://www.continuummechanics.org/fourierxforms.html)
-* [2025-11-05, 07:32:50](https://news.ycombinator.com/item?id=45820358) - [Shell Grotto, Margate](https://en.wikipedia.org/wiki/Shell_Grotto,_Margate)
 
 ## [Archives](archives/index.md)
 
