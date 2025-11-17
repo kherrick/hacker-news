@@ -12,6 +12,7 @@
 * [2025-11-16, 21:57:13](https://news.ycombinator.com/item?id=45948792) - [How Your Brain Creates 'Aha' Moments and Why They Stick](https://www.quantamagazine.org/how-your-brain-creates-aha-moments-and-why-they-stick-20251105/)
 * [2025-11-16, 21:19:08](https://news.ycombinator.com/item?id=45948477) - [Peter Thiel sells off all Nvidia stock, stirring bubble fears](https://www.thestreet.com/investing/peter-thiel-dumps-top-ai-stock-stirring-bubble-fears)
 * [2025-11-16, 21:17:37](https://news.ycombinator.com/item?id=45948463) - [Call Me Maybe: Eavesdropping encrypted LTE calls with ReVoLTE (2020)](https://montsecure.com/research/revolte-attack/)
+* [2025-11-16, 20:54:14](https://news.ycombinator.com/item?id=45948311) - [Why Castrol Honda Superbike crashes on (most) modern systems](https://seri.tools/blog/castrol-honda-superbike/)
 * [2025-11-16, 20:46:30](https://news.ycombinator.com/item?id=45948254) - [The Pragmatic Programmer: 20th Anniversary Edition](https://www.ahalbert.com/technology/2023/12/19/the_pragmatic_programmer.html)
 * [2025-11-16, 20:18:10](https://news.ycombinator.com/item?id=45948058) - [I have recordings proving Coinbase knew about breach 4 months before disclosure](https://jonathanclark.com/posts/coinbase-breach-timeline.html)
 * [2025-11-16, 19:46:28](https://news.ycombinator.com/item?id=45947827) - [Adding an imaginary unit to a finite field](https://www.johndcook.com/blog/2025/11/16/finite-field-i/)
