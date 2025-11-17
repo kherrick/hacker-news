@@ -38,6 +38,7 @@
 * [2025-11-16, 13:59:19](https://news.ycombinator.com/item?id=45945202) - [Running the \"Reflections on Trusting Trust\" Compiler](https://research.swtch.com/nih)
 * [2025-11-16, 13:59:05](https://news.ycombinator.com/item?id=45945200) - [Production-Grade Container Deployment with Podman Quadlets – Larvitz Blog](https://blog.hofstede.it/production-grade-container-deployment-with-podman-quadlets/index.html)
 * [2025-11-16, 13:57:03](https://news.ycombinator.com/item?id=45945188) - [Iran begins cloud seeding operations as drought bites](https://www.arabnews.com/node/2622812/middle-east)
+* [2025-11-16, 13:45:45](https://news.ycombinator.com/item?id=45945114) - [Where do the children play?](https://unpublishablepapers.substack.com/p/where-do-the-children-play)
 * [2025-11-16, 13:45:35](https://news.ycombinator.com/item?id=45945113) - [The politics of purely client-side apps](https://pfrazee.leaflet.pub/3m5hwua4sh22v)
 * [2025-11-16, 13:44:20](https://news.ycombinator.com/item?id=45945101) - [My mum was a 17-year-old free spirit – so she was locked up and put in a coma](https://www.bbc.co.uk/news/articles/cr43vx0rrwvo)
 * [2025-11-16, 13:25:32](https://news.ycombinator.com/item?id=45944969) - [Garbage Collection Is Useful](https://dubroy.com/blog/garbage-collection-is-useful/)
