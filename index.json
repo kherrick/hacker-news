@@ -21,6 +21,16 @@
   ],
   [
     [
+      "2025-11-17, 02:39:28",
+      "https://news.ycombinator.com/item?id=45950408"
+    ],
+    [
+      "People are using iPad OS features on their iPhones",
+      "https://idevicecentral.com/ios-customization/how-to-enable-ipad-features-like-multitasking-stage-manager-on-iphone-via-mobilegestalt/"
+    ]
+  ],
+  [
+    [
       "2025-11-17, 02:36:18",
       "https://news.ycombinator.com/item?id=45950396"
     ],
@@ -57,6 +67,16 @@
     [
       "Britney Spears' Guide to Semiconductor Physics (2000)",
       "https://britneyspears.ac/lasers.htm"
+    ]
+  ],
+  [
+    [
+      "2025-11-16, 22:36:56",
+      "https://news.ycombinator.com/item?id=45949102"
+    ],
+    [
+      "Why your mock breaks later",
+      "https://nedbatchelder.com/blog/202511/why_your_mock_breaks_later.html"
     ]
   ],
   [
@@ -137,16 +157,6 @@
     [
       "The fate of \"small\" open source",
       "https://nolanlawson.com/2025/11/16/the-fate-of-small-open-source/"
-    ]
-  ],
-  [
-    [
-      "2025-11-16, 18:58:10",
-      "https://news.ycombinator.com/item?id=45947444"
-    ],
-    [
-      "What if you don't need MCP at all?",
-      "https://mariozechner.at/posts/2025-11-02-what-if-you-dont-need-mcp/"
     ]
   ],
   [
@@ -257,16 +267,6 @@
     [
       "Listen to Database Changes Through the Postgres WAL",
       "https://peterullrich.com/listen-to-database-changes-through-the-postgres-wal"
-    ]
-  ],
-  [
-    [
-      "2025-11-10, 14:54:01",
-      "https://news.ycombinator.com/item?id=45876574"
-    ],
-    [
-      "Help My LocalDate Isn't Flattened",
-      "https://horstmann.com/unblog/2025-11-08/index.html"
     ]
   ],
   [
