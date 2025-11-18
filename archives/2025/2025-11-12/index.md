@@ -46,6 +46,7 @@
 * [2025-11-12, 14:38:55](https://news.ycombinator.com/item?id=45900775) - [The Message in the Medium](https://asteriskmag.com/issues/12-books/the-message-in-the-medium)
 * [2025-11-12, 14:12:13](https://news.ycombinator.com/item?id=45900425) - [Show HN: I built a synth for my daughter](https://bitsnpieces.dev/posts/a-synth-for-my-daughter/)
 * [2025-11-12, 14:08:28](https://news.ycombinator.com/item?id=45900370) - [Fighting the New York Times' invasion of user privacy](https://openai.com/index/fighting-nyt-user-privacy-invasion)
+* [2025-11-12, 14:00:52](https://news.ycombinator.com/item?id=45900273) - [Ruby Symbols](https://tech.stonecharioteer.com/posts/2025/ruby-symbols/)
 * [2025-11-12, 13:50:47](https://news.ycombinator.com/item?id=45900159) - [The Geometry Behind Normal Maps](https://www.shlom.dev/articles/geometry-behind-normal-maps/)
 * [2025-11-12, 13:46:28](https://news.ycombinator.com/item?id=45900108) - [Micro.blog launches new 'Studio' tier with video hosting](https://heydingus.net/blog/2025/11/micro-blog-offers-an-indie-alternative-to-youtube-with-its-studio-video-hosting-plan)
 * [2025-11-12, 12:58:59](https://news.ycombinator.com/item?id=45899592) - [New study finds users are marrying and having virtual children with AI chatbots](https://www.psypost.org/new-study-finds-users-are-marrying-and-having-virtual-children-with-ai-chatbots/)
