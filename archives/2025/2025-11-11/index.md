@@ -41,6 +41,7 @@
 * [2025-11-11, 16:52:30](https://news.ycombinator.com/item?id=45889602) - [iPod Socks](https://en.wikipedia.org/wiki/IPod_Socks)
 * [2025-11-11, 16:51:49](https://news.ycombinator.com/item?id=45889592) - [Abandoned by Humans, Forsaken by Nature: The Plight of Pigeons](https://adalinebenila.medium.com/abandoned-by-humans-forsaken-by-nature-the-plight-of-pigeons-7d4f1d32a3cb)
 * [2025-11-11, 16:04:08](https://news.ycombinator.com/item?id=45888891) - [Firefox Expands Fingerprint Protections](https://blog.mozilla.org/en/firefox/fingerprinting-protections/)
+* [2025-11-11, 15:57:48](https://news.ycombinator.com/item?id=45888805) - [Show HN: Reversing a Cinema Camera's Peripherals Port](https://3nt3.de/blog/reversing-fs7-comms)
 * [2025-11-11, 15:50:26](https://news.ycombinator.com/item?id=45888697) - [Canada loses its measles-free status, with US on track to follow](https://www.bbc.com/news/articles/cy7e2lv4r8xo)
 * [2025-11-11, 15:44:35](https://news.ycombinator.com/item?id=45888620) - [.NET 10](https://devblogs.microsoft.com/dotnet/announcing-dotnet-10/)
 * [2025-11-11, 15:28:59](https://news.ycombinator.com/item?id=45888387) - [Tired of being manipulated by BigTech?](https://aol.codeberg.page/eci/)

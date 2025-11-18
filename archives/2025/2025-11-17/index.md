@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-11-17](index.md)
 
+* [2025-11-17, 23:47:27](https://news.ycombinator.com/item?id=45959795) - [Windows 11 adds AI agent that runs in background with access to personal folders](https://www.windowslatest.com/2025/11/18/windows-11-to-add-an-ai-agent-that-runs-in-background-with-access-to-personal-folders-warns-of-security-risk/)
+* [2025-11-17, 23:45:42](https://news.ycombinator.com/item?id=45959780) - [Show HN: Parqeye – A CLI tool to visualize and inspect Parquet files](https://github.com/kaushiksrini/parqeye)
 * [2025-11-17, 22:18:41](https://news.ycombinator.com/item?id=45959033) - [Private equity firms are snapping up mobile home parks, driving out residents](https://theconversation.com/private-equity-firms-are-snapping-up-mobile-home-parks-and-driving-out-the-residents-who-can-least-afford-to-lose-them-264456)
 * [2025-11-17, 21:56:58](https://news.ycombinator.com/item?id=45958815) - [Ion: Modern System Shell in Rust](https://github.com/redox-os/ion)
 * [2025-11-17, 21:46:06](https://news.ycombinator.com/item?id=45958717) - [Run ancient Unix on modern hardware](https://github.com/felipenlunkes/run-ancient-unix)
