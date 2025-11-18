@@ -4,6 +4,11 @@
 
 ### [Archives](../../index.md) for [2025-11-18](index.md)
 
+* [2025-11-18, 16:32:16](https://news.ycombinator.com/item?id=45968461) - [Show HN: Optimizing LiteLLM with Rust – When Expectations Meet Reality](https://github.com/neul-labs/fast-litellm)
+* [2025-11-18, 16:18:47](https://news.ycombinator.com/item?id=45968235) - [A Day at Hetzner Online in the Falkenstein Data Center](https://www.igorslab.de/en/a-day-at-hetzner-online-in-the-falkenstein-data-center-insights-into-server-technology-cooling-production-rma-and-sustainability/)
+* [2025-11-18, 16:09:31](https://news.ycombinator.com/item?id=45968104) - [5 Things to Try with Gemini 3 Pro in Gemini CLI](https://developers.googleblog.com/en/5-things-to-try-with-gemini-3-pro-in-gemini-cli/)
+* [2025-11-18, 16:08:17](https://news.ycombinator.com/item?id=45968091) - [Google Brings Gemini 3 AI Model to Search and AI Mode](https://blog.google/products/search/gemini-3-search-ai-mode/)
+* [2025-11-18, 16:06:32](https://news.ycombinator.com/item?id=45968065) - [Google Antigravity, a New Era in AI-Assisted Software Development](https://antigravity.google/blog/introducing-google-antigravity)
 * [2025-11-18, 16:06:03](https://news.ycombinator.com/item?id=45968059) - [How long can it take to become a US citizen?](https://usafacts.org/articles/how-long-can-it-take-to-become-a-us-citizen/)
 * [2025-11-18, 16:04:12](https://news.ycombinator.com/item?id=45968043) - [Gemini 3 for developers: New reasoning, agentic capabilities](https://blog.google/technology/developers/gemini-3-developers/)
 * [2025-11-18, 16:00:33](https://news.ycombinator.com/item?id=45967999) - [Gemini 3](https://blog.google/products/gemini/gemini-3/)

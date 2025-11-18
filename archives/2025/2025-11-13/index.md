@@ -51,6 +51,7 @@
 * [2025-11-13, 13:43:50](https://news.ycombinator.com/item?id=45914815) - [Heartbeats in Distributed Systems](https://arpitbhayani.me/blogs/heartbeats-in-distributed-systems/)
 * [2025-11-13, 13:38:47](https://news.ycombinator.com/item?id=45914761) - [Blender Lab](https://www.blender.org/news/introducing-blender-lab/)
 * [2025-11-13, 13:34:38](https://news.ycombinator.com/item?id=45914718) - [Britain's railway privatization was an abject failure](https://www.rosalux.de/en/news/id/53917/britains-railway-privatization-was-an-abject-failure)
+* [2025-11-13, 13:04:32](https://news.ycombinator.com/item?id=45914435) - [Beauty in/of mathematics: tessellations and their formulas](https://www.tandfonline.com/doi/full/10.1080/00036811.2025.2510472)
 * [2025-11-13, 11:31:23](https://news.ycombinator.com/item?id=45913663) - [Hack Club has been handling children's data for 4 years without a privacy policy](https://kys.llc/blog/my-hackclub-story)
 * [2025-11-13, 10:46:26](https://news.ycombinator.com/item?id=45913319) - [fuckborderradius.com](https://fuckborderradius.com)
 * [2025-11-13, 09:36:51](https://news.ycombinator.com/item?id=45912785) - [Seed. LINE's Custom Typeface](https://seed.line.me/index_en.html)
