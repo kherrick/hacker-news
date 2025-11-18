@@ -3,6 +3,7 @@
 * [2025-11-18, 13:34:44](https://news.ycombinator.com/item?id=45965664) - [Ruby 4.0.0 Preview2 Released](https://www.ruby-lang.org/en/news/2025/11/17/ruby-4-0-0-preview2-released/)
 * [2025-11-18, 12:48:45](https://news.ycombinator.com/item?id=45964987) - [Multiple Digital Ocean services down](https://status.digitalocean.com/incidents/lgt5xs2843rx)
 * [2025-11-18, 12:36:54](https://news.ycombinator.com/item?id=45964835) - [GoSign Desktop RCE flaws affecting users in Italy](https://www.ush.it/2025/11/14/multiple-vulnerabilities-gosign-desktop-remote-code-execution/)
+* [2025-11-18, 12:35:13](https://news.ycombinator.com/item?id=45964816) - [Mathematics and Computation (2019) [pdf]](https://www.math.ias.edu/files/Book-online-Aug0619.pdf)
 * [2025-11-18, 11:40:01](https://news.ycombinator.com/item?id=45963836) - [Gemini 3 Pro Model Card](https://pixeldrain.com/u/hwgaNKeH)
 * [2025-11-18, 11:35:10](https://news.ycombinator.com/item?id=45963780) - [Cloudflare Global Network experiencing issues](https://www.cloudflarestatus.com/?t=1)
 * [2025-11-18, 10:59:54](https://news.ycombinator.com/item?id=45963583) - [The Miracle of Wörgl](https://scf.green/story-of-worgl-and-others/)
@@ -14,7 +15,6 @@
 * [2025-11-18, 01:25:54](https://news.ycombinator.com/item?id=45960368) - [Rebecca Heineman has died](https://www.pcgamer.com/gaming-industry/legendary-game-designer-programmer-space-invaders-champion-and-lgbtq-trailblazer-rebecca-heineman-has-died/)
 * [2025-11-17, 23:47:27](https://news.ycombinator.com/item?id=45959795) - [Windows 11 adds AI agent that runs in background with access to personal folders](https://www.windowslatest.com/2025/11/18/windows-11-to-add-an-ai-agent-that-runs-in-background-with-access-to-personal-folders-warns-of-security-risk/)
 * [2025-11-17, 23:45:42](https://news.ycombinator.com/item?id=45959780) - [Show HN: Parqeye – A CLI tool to visualize and inspect Parquet files](https://github.com/kaushiksrini/parqeye)
-* [2025-11-17, 21:46:06](https://news.ycombinator.com/item?id=45958717) - [Run ancient UNIX on modern hardware](https://github.com/felipenlunkes/run-ancient-unix)
 * [2025-11-17, 20:04:49](https://news.ycombinator.com/item?id=45957629) - [Compiling Ruby to machine language](https://patshaughnessy.net/2025/11/17/compiling-ruby-to-machine-language)
 * [2025-11-17, 17:39:15](https://news.ycombinator.com/item?id=45955900) - [Azure hit by 15 Tbps DDoS attack using 500k IP addresses](https://www.bleepingcomputer.com/news/microsoft/microsoft-aisuru-botnet-used-500-000-ips-in-15-tbps-azure-ddos-attack/)
 * [2025-11-17, 15:50:04](https://news.ycombinator.com/item?id=45954640) - [Project Gemini](https://geminiprotocol.net/)
@@ -25,11 +25,11 @@
 * [2025-11-14, 07:30:55](https://news.ycombinator.com/item?id=45924712) - [A/B Tests over Evals](https://www.raindrop.ai/blog/thoughts-on-evals/)
 * [2025-11-13, 15:33:51](https://news.ycombinator.com/item?id=45916094) - [How many video games include a marriage proposal? At least one](https://32bits.substack.com/p/under-the-microscope-ncaa-basketball)
 * [2025-11-13, 13:55:30](https://news.ycombinator.com/item?id=45914929) - [When Reverse Proxies Surprise You: Hard Lessons from Operating at Scale](https://www.infoq.com/articles/scaling-reverse-proxies/)
+* [2025-11-13, 06:20:59](https://news.ycombinator.com/item?id=45911386) - [Roma Lister, Aradia, and the Speculative Origins of a Witchcraft Revival](https://publicdomainreview.org/essay/roma-lister-aradia/)
 * [2025-11-12, 14:12:13](https://news.ycombinator.com/item?id=45900425) - [Show HN: I built a synth for my daughter](https://bitsnpieces.dev/posts/a-synth-for-my-daughter/)
 * [2025-11-12, 14:00:52](https://news.ycombinator.com/item?id=45900273) - [Ruby Symbols](https://tech.stonecharioteer.com/posts/2025/ruby-symbols/)
 * [2025-11-12, 01:41:07](https://news.ycombinator.com/item?id=45895427) - [The Uselessness of \"Fast\" and \"Slow\" in Programming](https://jerf.org/iri/post/2025/the_uselessness_of_fast/)
 * [2025-11-11, 22:11:43](https://news.ycombinator.com/item?id=45893592) - [Ditch your (mut)ex, you deserve better](https://chrispenner.ca/posts/mutexes)
-* [2025-11-11, 17:25:44](https://news.ycombinator.com/item?id=45890170) - [Practice answers with yourself. I made a thing that I didn't want to pay for](https://look.imwithstupid.fun)
 
 ## [Archives](archives/index.md)
 

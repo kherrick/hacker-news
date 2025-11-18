@@ -58,6 +58,7 @@
 * [2025-11-13, 09:23:30](https://news.ycombinator.com/item?id=45912698) - [Checkout.com hacked, refuses ransom payment, donates to security labs](https://www.checkout.com/blog/protecting-our-merchants-standing-up-to-extortion)
 * [2025-11-13, 07:12:01](https://news.ycombinator.com/item?id=45911704) - [Reverse Engineering Yaesu FT-70D Firmware Encryption](https://landaire.net/reversing-yaesu-firmware-encryption/)
 * [2025-11-13, 06:22:01](https://news.ycombinator.com/item?id=45911396) - [The Pen and the Spade: The Poems of Seamus Heaney](https://literaryreview.co.uk/the-pen-the-spade-2)
+* [2025-11-13, 06:20:59](https://news.ycombinator.com/item?id=45911386) - [Roma Lister, Aradia, and the Speculative Origins of a Witchcraft Revival](https://publicdomainreview.org/essay/roma-lister-aradia/)
 * [2025-11-13, 04:26:56](https://news.ycombinator.com/item?id=45910625) - [CollectWise (YC F24) Is Hiring](https://www.ycombinator.com/companies/collectwise/jobs/tv3ufcc-forward-deployed-engineer)
 * [2025-11-13, 04:26:23](https://news.ycombinator.com/item?id=45910622) - [Robert Moses's unfinished business should be Mamdani's priority](https://www.eatingpolicy.com/p/robert-mosess-unfinished-business)
 * [2025-11-13, 03:50:11](https://news.ycombinator.com/item?id=45910388) - [In Praise of Useless Robots](https://thereader.mitpress.mit.edu/in-praise-of-useless-robots/)
