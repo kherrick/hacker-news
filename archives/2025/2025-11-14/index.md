@@ -46,6 +46,7 @@
 * [2025-11-14, 13:10:19](https://news.ycombinator.com/item?id=45926383) - [Backblaze Drive Stats for Q3 2025](https://www.backblaze.com/blog/backblaze-drive-stats-for-q3-2025/)
 * [2025-11-14, 12:51:23](https://news.ycombinator.com/item?id=45926263) - [EDE: Small and Fast Desktop Environment](https://edeproject.org/)
 * [2025-11-14, 12:44:07](https://news.ycombinator.com/item?id=45926224) - [Winamp for OS/X](https://github.com/mgreenwood1001/winamp)
+* [2025-11-14, 12:31:15](https://news.ycombinator.com/item?id=45926141) - [What I Learned About Creativity from a Man Painting on a Treadmill](https://quinnmaclay.com/texts/lets-paint)
 * [2025-11-14, 12:23:53](https://news.ycombinator.com/item?id=45926105) - [Arrival Radar](https://entropicthoughts.com/arrival-radar)
 * [2025-11-14, 12:13:06](https://news.ycombinator.com/item?id=45926057) - [LiteAI – OpenAI, Anthropic, and Google LLMs at a discount](https://www.liteapi.ai/)
 * [2025-11-14, 12:09:59](https://news.ycombinator.com/item?id=45926037) - [Magit manuals are available online again](https://github.com/magit/magit/issues/5472)

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-11-18](index.md)
 
+* [2025-11-18, 22:42:45](https://news.ycombinator.com/item?id=45973261) - [Monotype font licencing shake-down](https://www.insanityworks.org/randomtangent/2025/11/14/monotype-font-licencing-shake-down)
 * [2025-11-18, 21:39:18](https://news.ycombinator.com/item?id=45972519) - [Blender 5.0 Released](https://www.blender.org/download/releases/5-0/)
 * [2025-11-18, 21:29:37](https://news.ycombinator.com/item?id=45972390) - [Bild AI (YC W25) Is Hiring: Make Housing Affordable](https://www.ycombinator.com/companies/bild-ai/jobs/m2ilR5L-founding-engineer-applied-ai)
 * [2025-11-18, 20:40:46](https://news.ycombinator.com/item?id=45971726) - [GitHub: Git operation failures](https://www.githubstatus.com/incidents/5q7nmlxz30sk)
