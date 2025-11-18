@@ -1,12 +1,32 @@
 [
   [
     [
+      "2025-11-18, 18:19:10",
+      "https://news.ycombinator.com/item?id=45969974"
+    ],
+    [
+      "NPR to get $36M in settlement to operate US public radio system",
+      "https://apnews.com/article/trump-npr-lawsuit-2cc4abfa8cf00fe6f89e387e63eb4a2a"
+    ]
+  ],
+  [
+    [
       "2025-11-18, 17:55:55",
       "https://news.ycombinator.com/item?id=45969708"
     ],
     [
       "Show HN: Guts – convert Golang types to TypeScript",
       "https://github.com/coder/guts"
+    ]
+  ],
+  [
+    [
+      "2025-11-18, 17:47:41",
+      "https://news.ycombinator.com/item?id=45969581"
+    ],
+    [
+      "Google CEO: If an AI bubble pops, no one is getting out clean",
+      "https://arstechnica.com/ai/2025/11/googles-sundar-pichai-warns-of-irrationality-in-trillion-dollar-ai-investment-boom/"
     ]
   ],
   [
@@ -55,58 +75,8 @@
       "https://news.ycombinator.com/item?id=45968235"
     ],
     [
-      "A Day at Hetzner Online in the Falkenstein Data Center",
+      "A day at Hetzner online in the Falkenstein data center",
       "https://www.igorslab.de/en/a-day-at-hetzner-online-in-the-falkenstein-data-center-insights-into-server-technology-cooling-production-rma-and-sustainability/"
-    ]
-  ],
-  [
-    [
-      "2025-11-18, 16:09:31",
-      "https://news.ycombinator.com/item?id=45968104"
-    ],
-    [
-      "5 Things to Try with Gemini 3 Pro in Gemini CLI",
-      "https://developers.googleblog.com/en/5-things-to-try-with-gemini-3-pro-in-gemini-cli/"
-    ]
-  ],
-  [
-    [
-      "2025-11-18, 16:08:17",
-      "https://news.ycombinator.com/item?id=45968091"
-    ],
-    [
-      "Google Brings Gemini 3 AI Model to Search and AI Mode",
-      "https://blog.google/products/search/gemini-3-search-ai-mode/"
-    ]
-  ],
-  [
-    [
-      "2025-11-18, 16:06:32",
-      "https://news.ycombinator.com/item?id=45968065"
-    ],
-    [
-      "Google Antigravity, a New Era in AI-Assisted Software Development",
-      "https://antigravity.google/blog/introducing-google-antigravity"
-    ]
-  ],
-  [
-    [
-      "2025-11-18, 16:04:12",
-      "https://news.ycombinator.com/item?id=45968043"
-    ],
-    [
-      "Gemini 3 for developers: New reasoning, agentic capabilities",
-      "https://blog.google/technology/developers/gemini-3-developers/"
-    ]
-  ],
-  [
-    [
-      "2025-11-18, 16:00:33",
-      "https://news.ycombinator.com/item?id=45967999"
-    ],
-    [
-      "Gemini 3",
-      "https://blog.google/products/gemini/gemini-3/"
     ]
   ],
   [
@@ -125,8 +95,8 @@
       "https://news.ycombinator.com/item?id=45967211"
     ],
     [
-      "Gemini 3 Pro Preview Live in AI Studio",
-      "https://aistudio.google.com/prompts/new_chat?model=gemini-3-pro-preview"
+      "Gemini 3",
+      "https://blog.google/products/gemini/gemini-3/"
     ]
   ],
   [
@@ -151,6 +121,16 @@
   ],
   [
     [
+      "2025-11-18, 13:56:21",
+      "https://news.ycombinator.com/item?id=45966018"
+    ],
+    [
+      "Experiment: Making TypeScript Immutable-by-Default",
+      "https://evanhahn.com/typescript-immutability-experiment/"
+    ]
+  ],
+  [
+    [
       "2025-11-18, 13:34:44",
       "https://news.ycombinator.com/item?id=45965664"
     ],
@@ -165,7 +145,7 @@
       "https://news.ycombinator.com/item?id=45965060"
     ],
     [
-      "Do Not Put Your Site Behind Cloudflare If You Don't Need To",
+      "Do not put your site behind Cloudflare if you don't need to",
       "https://huijzer.xyz/posts/123/do-not-put-your-site-behind-cloudflare-if-you-dont"
     ]
   ],
@@ -241,6 +221,16 @@
   ],
   [
     [
+      "2025-11-18, 04:44:21",
+      "https://news.ycombinator.com/item?id=45961481"
+    ],
+    [
+      "The surprising benefits of giving up",
+      "https://nautil.us/the-surprising-benefits-of-giving-up-1248362/"
+    ]
+  ],
+  [
+    [
       "2025-11-17, 17:39:15",
       "https://news.ycombinator.com/item?id=45955900"
     ],
@@ -287,6 +277,16 @@
     [
       "Looking for Hidden Gems in Scientific Literature",
       "https://elicit.com/blog/literature-based-discovery"
+    ]
+  ],
+  [
+    [
+      "2025-11-11, 22:11:43",
+      "https://news.ycombinator.com/item?id=45893592"
+    ],
+    [
+      "Ditch your (mut)ex, you deserve better",
+      "https://chrispenner.ca/posts/mutexes"
     ]
   ],
   [
