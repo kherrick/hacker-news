@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-11-18, 19:16:09](https://news.ycombinator.com/item?id=45970663) - [New EU Chat Control Proposal Moves Forward](https://techreport.com/news/new-eu-chat-control-proposal-privacy-experts-see-dangerous-backdoor/)
 * [2025-11-18, 19:05:44](https://news.ycombinator.com/item?id=45970519) - [Trying out Gemini 3 Pro with audio transcription and a new pelican benchmark](https://simonwillison.net/2025/Nov/18/gemini-3/)
 * [2025-11-18, 18:50:00](https://news.ycombinator.com/item?id=45970338) - [Show HN: RowboatX – open-source Claude Code for everyday automations](https://github.com/rowboatlabs/rowboat)
 * [2025-11-18, 18:19:10](https://news.ycombinator.com/item?id=45969974) - [NPR to get $36M in settlement to operate US public radio system](https://apnews.com/article/trump-npr-lawsuit-2cc4abfa8cf00fe6f89e387e63eb4a2a)
 * [2025-11-18, 17:55:55](https://news.ycombinator.com/item?id=45969708) - [Show HN: Guts – convert Golang types to TypeScript](https://github.com/coder/guts)
-* [2025-11-18, 17:47:41](https://news.ycombinator.com/item?id=45969581) - [Google CEO: If an AI bubble pops, no one is getting out clean](https://arstechnica.com/ai/2025/11/googles-sundar-pichai-warns-of-irrationality-in-trillion-dollar-ai-investment-boom/)
 * [2025-11-18, 17:24:27](https://news.ycombinator.com/item?id=45969250) - [Pebble, Rebble, and a Path Forward](https://ericmigi.com/blog/pebble-rebble-and-a-path-forward/)
 * [2025-11-18, 16:41:34](https://news.ycombinator.com/item?id=45968611) - [Strix Halo's Memory Subsystem: Tackling iGPU Challenges](https://chipsandcheese.com/p/strix-halos-memory-subsystem-tackling)
 * [2025-11-18, 16:26:28](https://news.ycombinator.com/item?id=45968362) - [Solving a Million-Step LLM Task with Zero Errors](https://arxiv.org/abs/2511.09030)

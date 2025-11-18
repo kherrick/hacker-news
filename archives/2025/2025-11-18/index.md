@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-11-18](index.md)
 
+* [2025-11-18, 19:16:09](https://news.ycombinator.com/item?id=45970663) - [New EU Chat Control Proposal Moves Forward](https://techreport.com/news/new-eu-chat-control-proposal-privacy-experts-see-dangerous-backdoor/)
 * [2025-11-18, 19:05:44](https://news.ycombinator.com/item?id=45970519) - [Trying out Gemini 3 Pro with audio transcription and a new pelican benchmark](https://simonwillison.net/2025/Nov/18/gemini-3/)
 * [2025-11-18, 18:50:00](https://news.ycombinator.com/item?id=45970338) - [Show HN: RowboatX – open-source Claude Code for everyday automations](https://github.com/rowboatlabs/rowboat)
 * [2025-11-18, 18:19:10](https://news.ycombinator.com/item?id=45969974) - [NPR to get $36M in settlement to operate US public radio system](https://apnews.com/article/trump-npr-lawsuit-2cc4abfa8cf00fe6f89e387e63eb4a2a)
