@@ -17,6 +17,7 @@
 * [2025-11-13, 20:33:43](https://news.ycombinator.com/item?id=45920156) - [Show HN: DBOS Java – Postgres-Backed Durable Workflows](https://github.com/dbos-inc/dbos-transact-java)
 * [2025-11-13, 20:32:07](https://news.ycombinator.com/item?id=45920126) - [Tesla Recalls Powerwall 2 AC Battery Power Systems Due to Fire and Burn Hazards](https://www.cpsc.gov/Recalls/2026/Tesla-Recalls-Powerwall-2-AC-Battery-Power-Systems-Due-to-Fire-and-Burn-Hazards-Risk-of-Serious-Injury-or-Death)
 * [2025-11-13, 20:25:09](https://news.ycombinator.com/item?id=45920049) - [Parsing Integers in C](https://daniel.haxx.se/blog/2025/11/13/parsing-integers-in-c/)
+* [2025-11-13, 20:03:06](https://news.ycombinator.com/item?id=45919793) - [A Landscape of Knowledge Games](https://azhdarchid.com/against-metroidbrania-a-landscape-of-knowledge-games/)
 * [2025-11-13, 19:03:26](https://news.ycombinator.com/item?id=45919067) - [SlopStop: Community-driven AI slop detection in Kagi Search](https://blog.kagi.com/slopstop)
 * [2025-11-13, 19:02:39](https://news.ycombinator.com/item?id=45919058) - [How to Grow your Startup Fast in 2025](https://founderpath.com/blog/how-to-grow-startup-growth-hacks)
 * [2025-11-13, 18:46:16](https://news.ycombinator.com/item?id=45918802) - [GPT-5.1 for Developers](https://openai.com/index/gpt-5-1-for-developers/)
