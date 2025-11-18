@@ -43,6 +43,7 @@
 * [2025-11-12, 15:08:35](https://news.ycombinator.com/item?id=45901149) - [Fungus in Chernobyl nuclear disaster zone has mutated to 'feed' on radiation](https://www.unilad.com/news/world-news/fungus-chernobyl-mutated-feed-radiation-164735-20241217)
 * [2025-11-12, 14:54:27](https://news.ycombinator.com/item?id=45900978) - [Learn Prolog Now](https://lpn.swi-prolog.org/lpnpage.php?pageid=top)
 * [2025-11-12, 14:51:50](https://news.ycombinator.com/item?id=45900947) - [Denial of Fuzzing: Rust in the Windows Kernel](https://research.checkpoint.com/2025/denial-of-fuzzing-rust-in-the-windows-kernel/)
+* [2025-11-12, 14:38:55](https://news.ycombinator.com/item?id=45900775) - [The Message in the Medium](https://asteriskmag.com/issues/12-books/the-message-in-the-medium)
 * [2025-11-12, 14:12:13](https://news.ycombinator.com/item?id=45900425) - [Show HN: I built a synth for my daughter](https://bitsnpieces.dev/posts/a-synth-for-my-daughter/)
 * [2025-11-12, 14:08:28](https://news.ycombinator.com/item?id=45900370) - [Fighting the New York Times' invasion of user privacy](https://openai.com/index/fighting-nyt-user-privacy-invasion)
 * [2025-11-12, 13:50:47](https://news.ycombinator.com/item?id=45900159) - [The Geometry Behind Normal Maps](https://www.shlom.dev/articles/geometry-behind-normal-maps/)
