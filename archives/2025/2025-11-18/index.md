@@ -4,8 +4,12 @@
 
 ### [Archives](../../index.md) for [2025-11-18](index.md)
 
+* [2025-11-18, 11:48:56](https://news.ycombinator.com/item?id=45963949) - [Cloudflare Global Network experiencing issues](https://www.cloudflarestatus.com/incidents/8gmgl950y3h7)
+* [2025-11-18, 11:40:01](https://news.ycombinator.com/item?id=45963836) - [Gemini 3 Pro Model Card](https://pixeldrain.com/u/hwgaNKeH)
 * [2025-11-18, 11:35:10](https://news.ycombinator.com/item?id=45963780) - [Cloudflare, X, More are down](https://www.cloudflarestatus.com/?t=1)
+* [2025-11-18, 10:59:54](https://news.ycombinator.com/item?id=45963583) - [The Miracle of Wörgl](https://scf.green/story-of-worgl-and-others/)
 * [2025-11-18, 09:44:51](https://news.ycombinator.com/item?id=45963156) - [Trump, 79, Has Dementia Just Like His Father: Niece](https://vechron.com/2025/11/trump-has-dementia-just-like-his-father-says-niece/)
+* [2025-11-18, 09:17:17](https://news.ycombinator.com/item?id=45963025) - [Don't blindly trust what AI tells you, says Google's Sundar Pichai](https://www.bbc.com/news/articles/c8drzv37z4jo)
 * [2025-11-18, 09:14:22](https://news.ycombinator.com/item?id=45963006) - [Do (human) readers prefer AI writers?](https://marginalrevolution.com/marginalrevolution/2025/11/do-readers-prefer-ai-writers.html)
 * [2025-11-18, 09:13:13](https://news.ycombinator.com/item?id=45963001) - [Comparing Android Alternatives: Lineage OS, ∕E∕OS, and Graphene OS](https://kevinboone.me/lineage-eos-graphene.html)
 * [2025-11-18, 08:18:35](https://news.ycombinator.com/item?id=45962654) - [How Quake.exe got its TCP/IP stack](https://fabiensanglard.net/quake_chunnel/index.html)

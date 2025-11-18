@@ -36,6 +36,7 @@
 * [2025-11-11, 17:44:21](https://news.ycombinator.com/item?id=45890394) - [Show HN: Data Formulator 0.5 – interactive AI agents for data visualization](https://data-formulator.ai/)
 * [2025-11-11, 17:41:45](https://news.ycombinator.com/item?id=45890370) - [Contributing to Open-Source Should Be Required, Like Jury Duty](https://www.joshbeckman.org/blog/practicing/contributing-to-opensource-should-be-required-like-jury-duty)
 * [2025-11-11, 17:26:54](https://news.ycombinator.com/item?id=45890186) - [We ran over 600 image generations to compare AI image models](https://latenitesoft.com/blog/evaluating-frontier-ai-image-generation-models/)
+* [2025-11-11, 17:25:44](https://news.ycombinator.com/item?id=45890170) - [Practice answers with yourself. I made a thing that I didn't want to pay for](https://look.imwithstupid.fun)
 * [2025-11-11, 17:08:00](https://news.ycombinator.com/item?id=45889891) - [Cache-Friendly, Low-Memory Lanczos Algorithm in Rust](https://lukefleed.xyz/posts/cache-friendly-low-memory-lanczos/)
 * [2025-11-11, 17:01:07](https://news.ycombinator.com/item?id=45889793) - [Show HN: Cactoide – Federated RSVP Platform](https://cactoide.org/)
 * [2025-11-11, 17:00:23](https://news.ycombinator.com/item?id=45889783) - [Weave (YC W25) is hiring a founding ML engineer](https://www.ycombinator.com/companies/weave-3/jobs/ZPyeXzM-founding-ml-engineer)
