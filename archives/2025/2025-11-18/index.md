@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-11-18](index.md)
 
+* [2025-11-18, 07:00:50](https://news.ycombinator.com/item?id=45962178) - [Langfuse (YC W23) Hiring OSS Support Engineers in Berlin and SF](https://jobs.ashbyhq.com/langfuse/5ff18d4d-9066-4c67-8ecc-ffc0e295fee6)
 * [2025-11-18, 05:54:05](https://news.ycombinator.com/item?id=45961819) - [Chris Simpkins (designer of the Roboto font) has passed away](https://typedrawers.com/discussion/5403/chris-simpkins-has-passed-away)
 * [2025-11-18, 04:44:21](https://news.ycombinator.com/item?id=45961481) - [The Surprising Benefits of Giving Up](https://nautil.us/the-surprising-benefits-of-giving-up-1248362/)
 * [2025-11-18, 04:22:52](https://news.ycombinator.com/item?id=45961368) - [The obvious economics of preserving the Amazon](https://www.economist.com/the-americas/2025/10/23/the-obvious-economics-of-preserving-the-amazon)
