@@ -1,12 +1,22 @@
 [
   [
     [
-      "2025-11-18, 11:48:56",
-      "https://news.ycombinator.com/item?id=45963949"
+      "2025-11-18, 12:48:45",
+      "https://news.ycombinator.com/item?id=45964987"
     ],
     [
-      "Cloudflare Global Network experiencing issues",
-      "https://www.cloudflarestatus.com/incidents/8gmgl950y3h7"
+      "Multiple Digital Ocean services down",
+      "https://status.digitalocean.com/incidents/lgt5xs2843rx"
+    ]
+  ],
+  [
+    [
+      "2025-11-18, 12:36:54",
+      "https://news.ycombinator.com/item?id=45964835"
+    ],
+    [
+      "GoSign Desktop RCE flaws affecting users in Italy",
+      "https://www.ush.it/2025/11/14/multiple-vulnerabilities-gosign-desktop-remote-code-execution/"
     ]
   ],
   [
@@ -37,26 +47,6 @@
     [
       "The Miracle of Wörgl",
       "https://scf.green/story-of-worgl-and-others/"
-    ]
-  ],
-  [
-    [
-      "2025-11-18, 09:17:17",
-      "https://news.ycombinator.com/item?id=45963025"
-    ],
-    [
-      "Don't blindly trust what AI tells you, says Google's Sundar Pichai",
-      "https://www.bbc.com/news/articles/c8drzv37z4jo"
-    ]
-  ],
-  [
-    [
-      "2025-11-18, 09:13:13",
-      "https://news.ycombinator.com/item?id=45963001"
-    ],
-    [
-      "Comparing Android Alternatives: Lineage OS, ∕E∕OS, and Graphene OS",
-      "https://kevinboone.me/lineage-eos-graphene.html"
     ]
   ],
   [
@@ -95,7 +85,7 @@
       "https://news.ycombinator.com/item?id=45960922"
     ],
     [
-      "LeJEPA",
+      "LeJEPA: Provable and Scalable Self-Supervised Learning Without the Heuristics",
       "https://arxiv.org/abs/2511.08544"
     ]
   ],
@@ -287,6 +277,16 @@
     [
       "The Uselessness of \"Fast\" and \"Slow\" in Programming",
       "https://jerf.org/iri/post/2025/the_uselessness_of_fast/"
+    ]
+  ],
+  [
+    [
+      "2025-11-11, 22:11:43",
+      "https://news.ycombinator.com/item?id=45893592"
+    ],
+    [
+      "Ditch your (mut)ex, you deserve better",
+      "https://chrispenner.ca/posts/mutexes"
     ]
   ],
   [
