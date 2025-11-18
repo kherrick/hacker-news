@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-11-18, 05:54:05](https://news.ycombinator.com/item?id=45961819) - [Chris Simpkins (designer of the Roboto font) has passed away](https://typedrawers.com/discussion/5403/chris-simpkins-has-passed-away)
 * [2025-11-18, 04:44:21](https://news.ycombinator.com/item?id=45961481) - [The surprising benefits of giving up](https://nautil.us/the-surprising-benefits-of-giving-up-1248362/)
 * [2025-11-18, 02:58:31](https://news.ycombinator.com/item?id=45960922) - [LeJEPA](https://arxiv.org/abs/2511.08544)
 * [2025-11-18, 02:53:28](https://news.ycombinator.com/item?id=45960893) - [Core Devices keeps stealing our work](https://rebble.io/2025/11/17/core-devices-keeps-stealing-our-work.html)
@@ -24,6 +23,7 @@
 * [2025-11-16, 11:02:25](https://news.ycombinator.com/item?id=45944158) - [Astrophotographer snaps skydiver falling in front of the sun](https://www.iflscience.com/the-fall-of-icarus-you-have-never-seen-an-astrophotography-picture-like-this-81570)
 * [2025-11-15, 16:27:49](https://news.ycombinator.com/item?id=45938517) - [Show HN: Continuous Claude – run Claude Code in a loop](https://github.com/AnandChowdhary/continuous-claude)
 * [2025-11-15, 13:24:54](https://news.ycombinator.com/item?id=45937302) - [My stages of learning to be a socially normal person](https://sashachapin.substack.com/p/my-six-stages-of-learning-to-be-a)
+* [2025-11-14, 18:53:27](https://news.ycombinator.com/item?id=45930438) - [Raccoons are showing early signs of domestication](https://www.scientificamerican.com/article/raccoons-are-showing-early-signs-of-domestication/)
 * [2025-11-13, 20:03:06](https://news.ycombinator.com/item?id=45919793) - [A Landscape of Knowledge Games](https://azhdarchid.com/against-metroidbrania-a-landscape-of-knowledge-games/)
 * [2025-11-13, 15:33:51](https://news.ycombinator.com/item?id=45916094) - [How many video games include a marriage proposal? At least one](https://32bits.substack.com/p/under-the-microscope-ncaa-basketball)
 * [2025-11-13, 01:57:11](https://news.ycombinator.com/item?id=45909525) - [Temporal Dithering of NeoPixels on an ATtiny412](http://sarah.alroe.dk/2025/NeoInf/)
