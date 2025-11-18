@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-11-18, 23:31:22](https://news.ycombinator.com/item?id=45973709) - [Cloudflare 18 November 2025 Outage Post Mortem](https://blog.cloudflare.com/18-november-2025-outage/)
 * [2025-11-18, 22:42:45](https://news.ycombinator.com/item?id=45973261) - [Monotype font licencing shake-down](https://www.insanityworks.org/randomtangent/2025/11/14/monotype-font-licencing-shake-down)
 * [2025-11-18, 21:39:18](https://news.ycombinator.com/item?id=45972519) - [Blender 5.0](https://www.blender.org/download/releases/5-0/)
 * [2025-11-18, 21:29:37](https://news.ycombinator.com/item?id=45972390) - [Bild AI (YC W25) is hiring – Make housing affordable](https://www.ycombinator.com/companies/bild-ai/jobs/m2ilR5L-founding-engineer-applied-ai)
@@ -28,7 +29,6 @@
 * [2025-11-14, 12:31:15](https://news.ycombinator.com/item?id=45926141) - [What I Learned About Creativity from a Man Painting on a Treadmill](https://quinnmaclay.com/texts/lets-paint)
 * [2025-11-13, 20:13:44](https://news.ycombinator.com/item?id=45919926) - [When 1+1+1 Equals 1](https://mathenchant.wordpress.com/2024/12/19/when-111-equals-1/)
 * [2025-11-12, 13:58:12](https://news.ycombinator.com/item?id=45900238) - [Mysterious holes in the Andes may have been an ancient marketplace](https://www.sydney.edu.au/news-opinion/news/2025/11/10/mysterious-holes-in-the-andes-may-have-been-an-ancient-marketplace-new-research-suggests.html)
-* [2025-11-12, 12:56:06](https://news.ycombinator.com/item?id=45899568) - [Write Cypress Tests in Natural Language with Cy.prompt()](https://www.cypress.io/blog/cy-prompt-experimental-launch)
 * [2025-11-12, 10:58:12](https://news.ycombinator.com/item?id=45898674) - [Show HN: Tokenflood – simulate arbitrary loads on instruction-tuned LLMs](https://github.com/twerkmeister/tokenflood)
 
 ## [Archives](archives/index.md)
