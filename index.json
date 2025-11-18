@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-11-18, 08:18:35",
+      "https://news.ycombinator.com/item?id=45962654"
+    ],
+    [
+      "How Quake.exe got its TCP/IP stack",
+      "https://fabiensanglard.net/quake_chunnel/index.html"
+    ]
+  ],
+  [
+    [
       "2025-11-18, 07:00:50",
       "https://news.ycombinator.com/item?id=45962178"
     ],
@@ -171,16 +181,6 @@
   ],
   [
     [
-      "2025-11-17, 14:31:21",
-      "https://news.ycombinator.com/item?id=45953883"
-    ],
-    [
-      "Jeff Bezos creates A.I. startup where he will be co-chief executive",
-      "https://www.nytimes.com/2025/11/17/technology/bezos-project-prometheus.html"
-    ]
-  ],
-  [
-    [
       "2025-11-17, 13:40:40",
       "https://news.ycombinator.com/item?id=45953452"
     ],
@@ -251,16 +251,6 @@
   ],
   [
     [
-      "2025-11-13, 01:57:11",
-      "https://news.ycombinator.com/item?id=45909525"
-    ],
-    [
-      "Temporal Dithering of NeoPixels on an ATtiny412",
-      "http://sarah.alroe.dk/2025/NeoInf/"
-    ]
-  ],
-  [
-    [
       "2025-11-12, 15:28:54",
       "https://news.ycombinator.com/item?id=45901379"
     ],
@@ -277,6 +267,16 @@
     [
       "Show HN: I built a synth for my daughter",
       "https://bitsnpieces.dev/posts/a-synth-for-my-daughter/"
+    ]
+  ],
+  [
+    [
+      "2025-11-12, 01:52:13",
+      "https://news.ycombinator.com/item?id=45895490"
+    ],
+    [
+      "Implementing Wordle in LibreOffice with JavaScript Macros",
+      "https://bojidar-bg.dev/blog/2025-11-11-wordle-libreoffice/"
     ]
   ],
   [
