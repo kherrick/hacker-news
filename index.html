@@ -140,7 +140,7 @@
             <h4>
               <span>2025-11-18 @ 18:50:00</span
               ><span class="points-container"
-                >Points: <span class="points">11</span></span
+                >Points: <span class="points">14</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45970338"
                   >Comments</a
@@ -250,11 +250,11 @@
             <h4>
               <span>2025-11-18 @ 18:19:10</span
               ><span class="points-container"
-                >Points: <span class="points">42</span></span
+                >Points: <span class="points">47</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45969974"
                   >Comments</a
-                ><span class="descendants">: 14</span></span
+                ><span class="descendants">: 17</span></span
               >
             </h4>
           </section>
@@ -269,7 +269,7 @@
             <h4>
               <span>2025-11-18 @ 17:55:55</span
               ><span class="points-container"
-                >Points: <span class="points">35</span></span
+                >Points: <span class="points">37</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45969708"
                   >Comments</a
@@ -290,11 +290,11 @@
             <h4>
               <span>2025-11-18 @ 17:47:41</span
               ><span class="points-container"
-                >Points: <span class="points">51</span></span
+                >Points: <span class="points">57</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45969581"
                   >Comments</a
-                ><span class="descendants">: 35</span></span
+                ><span class="descendants">: 45</span></span
               >
             </h4>
           </section>
@@ -311,11 +311,11 @@
             <h4>
               <span>2025-11-18 @ 17:24:27</span
               ><span class="points-container"
-                >Points: <span class="points">139</span></span
+                >Points: <span class="points">147</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45969250"
                   >Comments</a
-                ><span class="descendants">: 52</span></span
+                ><span class="descendants">: 58</span></span
               >
             </h4>
           </section>
@@ -332,115 +332,13 @@
             <h4>
               <span>2025-11-18 @ 16:41:34</span
               ><span class="points-container"
-                >Points: <span class="points">37</span></span
+                >Points: <span class="points">38</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45968611"
                   >Comments</a
-                ><span class="descendants">: 14</span></span
+                ><span class="descendants">: 15</span></span
               >
             </h4>
-          </section>
-        </section>
-        <section id="45968461">
-          <h3>
-            <a class="item" href="https://github.com/neul-labs/fast-litellm"
-              >Show HN: Optimizing LiteLLM with Rust – When Expectations Meet
-              Reality</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2025-11-18 @ 16:32:16</span
-              ><span class="points-container"
-                >Points: <span class="points">24</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=45968461"
-                  >Comments</a
-                ><span class="descendants">: 9</span></span
-              >
-            </h4>
-            <div class="text">
-              <p>
-                My assumption was that LiteLLM, being a Python library, would
-                have plenty of low-hanging fruit for optimization. I set out to
-                create a Rust layer using PyO3 to accelerate the
-                performance-critical parts: token counting, routing, rate
-                limiting, and connection pooling.
-              </p>
-              <p>The Approach</p>
-              <p>
-                - Built Rust implementations for token counting using
-                tiktoken-rs
-              </p>
-              <p>
-                - Added lock-free data structures with DashMap for concurrent
-                operations
-              </p>
-              <p>- Implemented async-friendly rate limiting</p>
-              <p>
-                - Created monkeypatch shims to replace Python functions
-                transparently
-              </p>
-              <p>
-                - Added comprehensive feature flags for safe, gradual rollouts
-              </p>
-              <p>
-                - Developed performance monitoring to track improvements in
-                real-time
-              </p>
-              <p>
-                After building out all the Rust acceleration, I ran my
-                comprehensive benchmark comparing baseline LiteLLM vs. the
-                shimmed version:
-              </p>
-              <p>
-                Function Baseline Time Shimmed Time Speedup Improvement Status
-              </p>
-              <p>token_counter 0.000035s 0.000036s 0.99x -0.6%</p>
-              <p>count_tokens_batch 0.000001s 0.000001s 1.10x +9.1%</p>
-              <p>router 0.001309s 0.001299s 1.01x +0.7%</p>
-              <p>rate_limiter 0.000000s 0.000000s 1.85x +45.9%</p>
-              <p>connection_pool 0.000000s 0.000000s 1.63x +38.7%</p>
-              <p>
-                Turns out LiteLLM is already quite well-optimized! The core
-                token counting was essentially unchanged (0.6% slower, likely
-                within measurement noise), and the most significant gains came
-                from the more complex operations like rate limiting and
-                connection pooling where Rust's concurrent primitives made a
-                real difference.
-              </p>
-              <p>Key Takeaways</p>
-              <p>
-                1. Don't assume existing libraries are under-optimized - The
-                maintainers likely know their domain well 2. Focus on
-                algorithmic improvements over reimplementation - Sometimes a
-                better approach beats a faster language 3. Micro-benchmarks can
-                be misleading - Real-world performance impact varies
-                significantly 4. The most gains often come from the complex
-                parts, not the simple operations 5. Even "modest" improvements
-                can matter at scale - 45% improvements in rate limiting are
-                meaningful for high-throughput applications
-              </p>
-              <p>
-                While the core token counting saw minimal improvement, the rate
-                limiting and connection pooling gains still provide value for
-                high-volume use cases. The infrastructure I built (feature
-                flags, performance monitoring, safe fallbacks) creates a solid
-                foundation for future optimizations.
-              </p>
-              <p>
-                The project continues as Fast LiteLLM on GitHub for anyone
-                interested in the Rust-Python integration patterns, even if the
-                performance gains were humbling.
-              </p>
-              <p>
-                Edit: To clarify - the negative performance for token_counter is
-                likely in the noise range of measurement, suggesting that
-                LiteLLM's token counting is already well-optimized. The 45%+
-                gains in rate limiting and connection pooling still provide
-                value for high-throughput applications.
-              </p>
-            </div>
           </section>
         </section>
         <section id="45968362">
@@ -453,11 +351,11 @@
             <h4>
               <span>2025-11-18 @ 16:26:28</span
               ><span class="points-container"
-                >Points: <span class="points">55</span></span
+                >Points: <span class="points">56</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45968362"
                   >Comments</a
-                ><span class="descendants">: 22</span></span
+                ><span class="descendants">: 24</span></span
               >
             </h4>
           </section>
@@ -474,11 +372,11 @@
             <h4>
               <span>2025-11-18 @ 16:18:47</span
               ><span class="points-container"
-                >Points: <span class="points">110</span></span
+                >Points: <span class="points">114</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45968235"
                   >Comments</a
-                ><span class="descendants">: 28</span></span
+                ><span class="descendants">: 31</span></span
               >
             </h4>
           </section>
@@ -493,11 +391,11 @@
             <h4>
               <span>2025-11-18 @ 15:47:38</span
               ><span class="points-container"
-                >Points: <span class="points">336</span></span
+                >Points: <span class="points">354</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45967814"
                   >Comments</a
-                ><span class="descendants">: 409</span></span
+                ><span class="descendants">: 426</span></span
               >
             </h4>
           </section>
@@ -512,11 +410,11 @@
             <h4>
               <span>2025-11-18 @ 15:09:38</span
               ><span class="points-container"
-                >Points: <span class="points">624</span></span
+                >Points: <span class="points">646</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45967211"
                   >Comments</a
-                ><span class="descendants">: 505</span></span
+                ><span class="descendants">: 518</span></span
               >
             </h4>
             <div class="text">
@@ -549,7 +447,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45966435"
                   >Comments</a
-                ><span class="descendants">: 63</span></span
+                ><span class="descendants">: 64</span></span
               >
             </h4>
           </section>
@@ -566,11 +464,11 @@
             <h4>
               <span>2025-11-18 @ 14:11:17</span
               ><span class="points-container"
-                >Points: <span class="points">521</span></span
+                >Points: <span class="points">527</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45966251"
                   >Comments</a
-                ><span class="descendants">: 519</span></span
+                ><span class="descendants">: 527</span></span
               >
             </h4>
           </section>
@@ -591,7 +489,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45966018"
                   >Comments</a
-                ><span class="descendants">: 53</span></span
+                ><span class="descendants">: 55</span></span
               >
             </h4>
           </section>
@@ -608,11 +506,11 @@
             <h4>
               <span>2025-11-18 @ 13:34:44</span
               ><span class="points-container"
-                >Points: <span class="points">170</span></span
+                >Points: <span class="points">171</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45965664"
                   >Comments</a
-                ><span class="descendants">: 60</span></span
+                ><span class="descendants">: 61</span></span
               >
             </h4>
           </section>
@@ -629,11 +527,11 @@
             <h4>
               <span>2025-11-18 @ 12:54:49</span
               ><span class="points-container"
-                >Points: <span class="points">377</span></span
+                >Points: <span class="points">378</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45965060"
                   >Comments</a
-                ><span class="descendants">: 279</span></span
+                ><span class="descendants">: 283</span></span
               >
             </h4>
           </section>
@@ -719,11 +617,11 @@
             <h4>
               <span>2025-11-18 @ 11:35:10</span
               ><span class="points-container"
-                >Points: <span class="points">2151</span></span
+                >Points: <span class="points">2155</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45963780"
                   >Comments</a
-                ><span class="descendants">: 1390</span></span
+                ><span class="descendants">: 1393</span></span
               >
             </h4>
           </section>
@@ -738,7 +636,7 @@
             <h4>
               <span>2025-11-18 @ 10:59:54</span
               ><span class="points-container"
-                >Points: <span class="points">104</span></span
+                >Points: <span class="points">105</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45963583"
                   >Comments</a
@@ -759,11 +657,11 @@
             <h4>
               <span>2025-11-18 @ 08:18:35</span
               ><span class="points-container"
-                >Points: <span class="points">396</span></span
+                >Points: <span class="points">397</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45962654"
                   >Comments</a
-                ><span class="descendants">: 89</span></span
+                ><span class="descendants">: 90</span></span
               >
             </h4>
           </section>
@@ -782,6 +680,27 @@
               <span>2025-11-18 @ 07:00:50</span
               ><span class="points-container"
                 >Points: <span class="points">1</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="45961481">
+          <h3>
+            <a
+              class="item"
+              href="https://nautil.us/the-surprising-benefits-of-giving-up-1248362/"
+              >The surprising benefits of giving up</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2025-11-18 @ 04:44:21</span
+              ><span class="points-container"
+                >Points: <span class="points">188</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=45961481"
+                  >Comments</a
+                ><span class="descendants">: 147</span></span
               >
             </h4>
           </section>
@@ -826,11 +745,11 @@
             <h4>
               <span>2025-11-14 @ 17:22:57</span
               ><span class="points-container"
-                >Points: <span class="points">32</span></span
+                >Points: <span class="points">34</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45929099"
                   >Comments</a
-                ><span class="descendants">: 15</span></span
+                ><span class="descendants">: 16</span></span
               >
             </h4>
           </section>
@@ -847,7 +766,7 @@
             <h4>
               <span>2025-11-13 @ 20:13:44</span
               ><span class="points-container"
-                >Points: <span class="points">5</span></span
+                >Points: <span class="points">6</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45919926"
                   >Comments</a
@@ -929,11 +848,11 @@
             <h4>
               <span>2025-11-11 @ 18:34:12</span
               ><span class="points-container"
-                >Points: <span class="points">7</span></span
+                >Points: <span class="points">9</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45891035"
                   >Comments</a
-                ><span class="descendants">: 8</span></span
+                ><span class="descendants">: 9</span></span
               >
             </h4>
           </section>
