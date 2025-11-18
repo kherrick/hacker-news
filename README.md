@@ -25,9 +25,9 @@
 * [2025-11-14, 18:53:27](https://news.ycombinator.com/item?id=45930438) - [Raccoons are showing early signs of domestication](https://www.scientificamerican.com/article/raccoons-are-showing-early-signs-of-domestication/)
 * [2025-11-13, 15:33:51](https://news.ycombinator.com/item?id=45916094) - [How many video games include a marriage proposal? At least one](https://32bits.substack.com/p/under-the-microscope-ncaa-basketball)
 * [2025-11-13, 13:55:30](https://news.ycombinator.com/item?id=45914929) - [When Reverse Proxies Surprise You: Hard Lessons from Operating at Scale](https://www.infoq.com/articles/scaling-reverse-proxies/)
-* [2025-11-12, 15:28:54](https://news.ycombinator.com/item?id=45901379) - [“One Student One Chip” Course Homepage](https://ysyx.oscc.cc/docs/en/)
 * [2025-11-12, 14:12:13](https://news.ycombinator.com/item?id=45900425) - [Show HN: I built a synth for my daughter](https://bitsnpieces.dev/posts/a-synth-for-my-daughter/)
 * [2025-11-12, 14:00:52](https://news.ycombinator.com/item?id=45900273) - [Ruby Symbols](https://tech.stonecharioteer.com/posts/2025/ruby-symbols/)
+* [2025-11-12, 01:41:07](https://news.ycombinator.com/item?id=45895427) - [The Uselessness of \"Fast\" and \"Slow\" in Programming](https://jerf.org/iri/post/2025/the_uselessness_of_fast/)
 * [2025-11-11, 22:11:43](https://news.ycombinator.com/item?id=45893592) - [Ditch your (mut)ex, you deserve better](https://chrispenner.ca/posts/mutexes)
 * [2025-11-11, 15:57:48](https://news.ycombinator.com/item?id=45888805) - [Show HN: Reversing a Cinema Camera's Peripherals Port](https://3nt3.de/blog/reversing-fs7-comms)
 

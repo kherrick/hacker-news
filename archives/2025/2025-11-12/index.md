@@ -64,4 +64,5 @@
 * [2025-11-12, 03:34:32](https://news.ycombinator.com/item?id=45896130) - [Perkeep lets you permanently keep your stuff, for life](https://perkeep.org/)
 * [2025-11-12, 02:46:39](https://news.ycombinator.com/item?id=45895864) - [Show HN: Real-time 4D Julia set navigation via gamepad](https://banditcat.github.io/Atlas/Atlas.html)
 * [2025-11-12, 01:52:13](https://news.ycombinator.com/item?id=45895490) - [Implementing Wordle in LibreOffice with JavaScript Macros](https://bojidar-bg.dev/blog/2025-11-11-wordle-libreoffice/)
+* [2025-11-12, 01:41:07](https://news.ycombinator.com/item?id=45895427) - [The Uselessness of \"Fast\" and \"Slow\" in Programming](https://jerf.org/iri/post/2025/the_uselessness_of_fast/)
 * [2025-11-12, 00:56:10](https://news.ycombinator.com/item?id=45895107) - [Text rendering and effects using GPU-computed distances](https://blog.pkh.me/p/47-text-rendering-and-effects-using-gpu-computed-distances.html)
