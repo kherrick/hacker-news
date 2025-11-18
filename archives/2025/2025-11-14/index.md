@@ -26,6 +26,7 @@
 * [2025-11-14, 17:43:40](https://news.ycombinator.com/item?id=45929358) - [Bitchat for Gaza – messaging without internet](https://updates.techforpalestine.org/bitchat-for-gaza-messaging-without-internet/)
 * [2025-11-14, 17:39:35](https://news.ycombinator.com/item?id=45929304) - [Norway's Wealth Tax Unchains a Capital Exodus](https://citizenx.com/insights/norway-wealth-exodus/)
 * [2025-11-14, 17:35:17](https://news.ycombinator.com/item?id=45929247) - [Meeting notes between Forgejo and the Dutch government via Git commits](https://codeberg.org/forgejo/sustainability/pulls/137/files)
+* [2025-11-14, 17:22:57](https://news.ycombinator.com/item?id=45929099) - [I've Wanted to Play That 'Killer Shark' Arcade Game Briefly Seen in 'Jaws'](https://www.remindmagazine.com/article/15694/jaws-arcade-video-game-killer-shark-atari-sega-electromechanical/)
 * [2025-11-14, 17:19:08](https://news.ycombinator.com/item?id=45929052) - [Germany to Ban Huawei from Future 6G Network in Sovereignty Push](https://www.bloomberg.com/news/articles/2025-11-13/germany-to-ban-huawei-from-future-6g-network-in-sovereignty-push)
 * [2025-11-14, 17:08:15](https://news.ycombinator.com/item?id=45928912) - [You misunderstand what it means to be poor](https://blog.ctms.me/posts/2025-11-14-being-poor-or-being-broke/)
 * [2025-11-14, 17:04:49](https://news.ycombinator.com/item?id=45928873) - [Moving Back to a Tiling WM – XMonad](https://wssite.vercel.app/blog/moving-back-to-a-tiling-wm-xmonad)

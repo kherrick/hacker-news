@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-11-18](index.md)
 
+* [2025-11-18, 15:09:38](https://news.ycombinator.com/item?id=45967211) - [Gemini 3 Pro Preview Live in AI Studio](https://aistudio.google.com/prompts/new_chat?model=gemini-3-pro-preview)
 * [2025-11-18, 14:23:18](https://news.ycombinator.com/item?id=45966435) - [Short Little Difficult Books](https://countercraft.substack.com/p/short-little-difficult-books)
 * [2025-11-18, 14:11:17](https://news.ycombinator.com/item?id=45966251) - [Nearly all UK drivers say headlights are too bright](https://www.bbc.com/news/articles/c1j8ewy1p86o)
 * [2025-11-18, 13:56:21](https://news.ycombinator.com/item?id=45966018) - [Experiment: Making TypeScript Immutable-by-Default](https://evanhahn.com/typescript-immutability-experiment/)
