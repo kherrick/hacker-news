@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2025-11-18](index.md)
 
+* [2025-11-18, 16:06:03](https://news.ycombinator.com/item?id=45968059) - [How long can it take to become a US citizen?](https://usafacts.org/articles/how-long-can-it-take-to-become-a-us-citizen/)
+* [2025-11-18, 16:04:12](https://news.ycombinator.com/item?id=45968043) - [Gemini 3 for developers: New reasoning, agentic capabilities](https://blog.google/technology/developers/gemini-3-developers/)
+* [2025-11-18, 16:00:33](https://news.ycombinator.com/item?id=45967999) - [Gemini 3](https://blog.google/products/gemini/gemini-3/)
+* [2025-11-18, 15:47:38](https://news.ycombinator.com/item?id=45967814) - [Google Antigravity](https://antigravity.google/)
 * [2025-11-18, 15:09:38](https://news.ycombinator.com/item?id=45967211) - [Gemini 3 Pro Preview Live in AI Studio](https://aistudio.google.com/prompts/new_chat?model=gemini-3-pro-preview)
 * [2025-11-18, 14:23:18](https://news.ycombinator.com/item?id=45966435) - [Short Little Difficult Books](https://countercraft.substack.com/p/short-little-difficult-books)
 * [2025-11-18, 14:11:17](https://news.ycombinator.com/item?id=45966251) - [Nearly all UK drivers say headlights are too bright](https://www.bbc.com/news/articles/c1j8ewy1p86o)
