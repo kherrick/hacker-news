@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-11-18, 16:41:34](https://news.ycombinator.com/item?id=45968611) - [Strix Halo's Memory Subsystem: Tackling iGPU Challenges](https://chipsandcheese.com/p/strix-halos-memory-subsystem-tackling)
 * [2025-11-18, 16:32:16](https://news.ycombinator.com/item?id=45968461) - [Show HN: Optimizing LiteLLM with Rust – When Expectations Meet Reality](https://github.com/neul-labs/fast-litellm)
+* [2025-11-18, 16:26:28](https://news.ycombinator.com/item?id=45968362) - [Solving a Million-Step LLM Task with Zero Errors](https://arxiv.org/abs/2511.09030)
 * [2025-11-18, 16:18:47](https://news.ycombinator.com/item?id=45968235) - [A Day at Hetzner Online in the Falkenstein Data Center](https://www.igorslab.de/en/a-day-at-hetzner-online-in-the-falkenstein-data-center-insights-into-server-technology-cooling-production-rma-and-sustainability/)
 * [2025-11-18, 16:09:31](https://news.ycombinator.com/item?id=45968104) - [5 Things to Try with Gemini 3 Pro in Gemini CLI](https://developers.googleblog.com/en/5-things-to-try-with-gemini-3-pro-in-gemini-cli/)
 * [2025-11-18, 16:08:17](https://news.ycombinator.com/item?id=45968091) - [Google Brings Gemini 3 AI Model to Search and AI Mode](https://blog.google/products/search/gemini-3-search-ai-mode/)
@@ -22,12 +24,10 @@
 * [2025-11-18, 10:59:54](https://news.ycombinator.com/item?id=45963583) - [The Miracle of Wörgl](https://scf.green/story-of-worgl-and-others/)
 * [2025-11-18, 08:18:35](https://news.ycombinator.com/item?id=45962654) - [How Quake.exe got its TCP/IP stack](https://fabiensanglard.net/quake_chunnel/index.html)
 * [2025-11-18, 07:00:50](https://news.ycombinator.com/item?id=45962178) - [Langfuse (YC W23) Hiring OSS Support Engineers in Berlin and SF](https://jobs.ashbyhq.com/langfuse/5ff18d4d-9066-4c67-8ecc-ffc0e295fee6)
-* [2025-11-18, 04:44:21](https://news.ycombinator.com/item?id=45961481) - [The surprising benefits of giving up](https://nautil.us/the-surprising-benefits-of-giving-up-1248362/)
 * [2025-11-17, 17:39:15](https://news.ycombinator.com/item?id=45955900) - [Azure hit by 15 Tbps DDoS attack using 500k IP addresses](https://www.bleepingcomputer.com/news/microsoft/microsoft-aisuru-botnet-used-500-000-ips-in-15-tbps-azure-ddos-attack/)
 * [2025-11-14, 17:22:57](https://news.ycombinator.com/item?id=45929099) - [I've Wanted to Play That 'Killer Shark' Arcade Game Briefly Seen in 'Jaws'](https://www.remindmagazine.com/article/15694/jaws-arcade-video-game-killer-shark-atari-sega-electromechanical/)
 * [2025-11-13, 15:33:51](https://news.ycombinator.com/item?id=45916094) - [How many video games include a marriage proposal? At least one](https://32bits.substack.com/p/under-the-microscope-ncaa-basketball)
 * [2025-11-13, 13:04:32](https://news.ycombinator.com/item?id=45914435) - [Beauty in/of mathematics: tessellations and their formulas](https://www.tandfonline.com/doi/full/10.1080/00036811.2025.2510472)
-* [2025-11-12, 14:12:13](https://news.ycombinator.com/item?id=45900425) - [Show HN: I built a synth for my daughter](https://bitsnpieces.dev/posts/a-synth-for-my-daughter/)
 * [2025-11-12, 01:41:07](https://news.ycombinator.com/item?id=45895427) - [The Uselessness of \"Fast\" and \"Slow\" in Programming](https://jerf.org/iri/post/2025/the_uselessness_of_fast/)
 * [2025-11-11, 22:11:43](https://news.ycombinator.com/item?id=45893592) - [Ditch your (mut)ex, you deserve better](https://chrispenner.ca/posts/mutexes)
 

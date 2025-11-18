@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-11-18](index.md)
 
+* [2025-11-18, 16:41:34](https://news.ycombinator.com/item?id=45968611) - [Strix Halo's Memory Subsystem: Tackling iGPU Challenges](https://chipsandcheese.com/p/strix-halos-memory-subsystem-tackling)
 * [2025-11-18, 16:32:16](https://news.ycombinator.com/item?id=45968461) - [Show HN: Optimizing LiteLLM with Rust – When Expectations Meet Reality](https://github.com/neul-labs/fast-litellm)
+* [2025-11-18, 16:26:28](https://news.ycombinator.com/item?id=45968362) - [Solving a Million-Step LLM Task with Zero Errors](https://arxiv.org/abs/2511.09030)
 * [2025-11-18, 16:18:47](https://news.ycombinator.com/item?id=45968235) - [A Day at Hetzner Online in the Falkenstein Data Center](https://www.igorslab.de/en/a-day-at-hetzner-online-in-the-falkenstein-data-center-insights-into-server-technology-cooling-production-rma-and-sustainability/)
 * [2025-11-18, 16:09:31](https://news.ycombinator.com/item?id=45968104) - [5 Things to Try with Gemini 3 Pro in Gemini CLI](https://developers.googleblog.com/en/5-things-to-try-with-gemini-3-pro-in-gemini-cli/)
 * [2025-11-18, 16:08:17](https://news.ycombinator.com/item?id=45968091) - [Google Brings Gemini 3 AI Model to Search and AI Mode](https://blog.google/products/search/gemini-3-search-ai-mode/)
