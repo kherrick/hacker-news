@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-11-18, 04:22:52](https://news.ycombinator.com/item?id=45961368) - [The obvious economics of preserving the Amazon](https://www.economist.com/the-americas/2025/10/23/the-obvious-economics-of-preserving-the-amazon)
+* [2025-11-18, 03:09:16](https://news.ycombinator.com/item?id=45960972) - [According to a Google leak, we’re all to blame for poor quality search results](https://www.admdnewsletter.com/its-not-googles-fault-its-yours/)
 * [2025-11-18, 02:58:31](https://news.ycombinator.com/item?id=45960922) - [LeJEPA](https://arxiv.org/abs/2511.08544)
 * [2025-11-18, 02:53:28](https://news.ycombinator.com/item?id=45960893) - [Core Devices keeps stealing our work](https://rebble.io/2025/11/17/core-devices-keeps-stealing-our-work.html)
 * [2025-11-18, 02:46:50](https://news.ycombinator.com/item?id=45960852) - [Rust9x Unofficial \"Tier 4\" Rust Target for Windows 9x/Me/NT/2000/XP/Vista](https://github.com/rust9x/rust)
@@ -20,7 +21,6 @@
 * [2025-11-17, 14:31:21](https://news.ycombinator.com/item?id=45953883) - [Jeff Bezos creates A.I. startup where he will be co-chief executive](https://www.nytimes.com/2025/11/17/technology/bezos-project-prometheus.html)
 * [2025-11-17, 13:55:53](https://news.ycombinator.com/item?id=45953568) - [The time has finally come for geothermal energy](https://www.newyorker.com/magazine/2025/11/24/why-the-time-has-finally-come-for-geothermal-energy)
 * [2025-11-17, 13:40:40](https://news.ycombinator.com/item?id=45953452) - [FreeMDU: Open-source Miele appliance diagnostic tools](https://github.com/medusalix/FreeMDU)
-* [2025-11-17, 12:06:37](https://news.ycombinator.com/item?id=45952890) - [Are you stuck in movie logic?](https://usefulfictions.substack.com/p/are-you-stuck-in-movie-logic)
 * [2025-11-16, 11:02:25](https://news.ycombinator.com/item?id=45944158) - [Astrophotographer snaps skydiver falling in front of the sun](https://www.iflscience.com/the-fall-of-icarus-you-have-never-seen-an-astrophotography-picture-like-this-81570)
 * [2025-11-15, 16:27:49](https://news.ycombinator.com/item?id=45938517) - [Show HN: Continuous Claude – run Claude Code in a loop](https://github.com/AnandChowdhary/continuous-claude)
 * [2025-11-15, 13:24:54](https://news.ycombinator.com/item?id=45937302) - [My stages of learning to be a socially normal person](https://sashachapin.substack.com/p/my-six-stages-of-learning-to-be-a)
