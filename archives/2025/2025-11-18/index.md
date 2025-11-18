@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-11-18](index.md)
 
+* [2025-11-18, 18:19:10](https://news.ycombinator.com/item?id=45969974) - [NPR to get $36M in settlement to operate US public radio system](https://apnews.com/article/trump-npr-lawsuit-2cc4abfa8cf00fe6f89e387e63eb4a2a)
 * [2025-11-18, 17:55:55](https://news.ycombinator.com/item?id=45969708) - [Show HN: Guts – convert Golang types to TypeScript](https://github.com/coder/guts)
+* [2025-11-18, 17:47:41](https://news.ycombinator.com/item?id=45969581) - [Google CEO: If an AI bubble pops, no one is getting out clean](https://arstechnica.com/ai/2025/11/googles-sundar-pichai-warns-of-irrationality-in-trillion-dollar-ai-investment-boom/)
 * [2025-11-18, 17:24:27](https://news.ycombinator.com/item?id=45969250) - [Pebble, Rebble, and a Path Forward](https://ericmigi.com/blog/pebble-rebble-and-a-path-forward/)
 * [2025-11-18, 16:41:34](https://news.ycombinator.com/item?id=45968611) - [Strix Halo's Memory Subsystem: Tackling iGPU Challenges](https://chipsandcheese.com/p/strix-halos-memory-subsystem-tackling)
 * [2025-11-18, 16:32:16](https://news.ycombinator.com/item?id=45968461) - [Show HN: Optimizing LiteLLM with Rust – When Expectations Meet Reality](https://github.com/neul-labs/fast-litellm)
@@ -17,6 +19,7 @@
 * [2025-11-18, 16:04:12](https://news.ycombinator.com/item?id=45968043) - [Gemini 3 for developers: New reasoning, agentic capabilities](https://blog.google/technology/developers/gemini-3-developers/)
 * [2025-11-18, 16:00:33](https://news.ycombinator.com/item?id=45967999) - [Gemini 3](https://blog.google/products/gemini/gemini-3/)
 * [2025-11-18, 15:47:38](https://news.ycombinator.com/item?id=45967814) - [Google Antigravity](https://antigravity.google/)
+* [2025-11-18, 15:09:38](https://news.ycombinator.com/item?id=45967211) - [Gemini 3](https://blog.google/products/gemini/gemini-3/)
 * [2025-11-18, 15:09:38](https://news.ycombinator.com/item?id=45967211) - [Gemini 3 Pro Preview Live in AI Studio](https://aistudio.google.com/prompts/new_chat?model=gemini-3-pro-preview)
 * [2025-11-18, 14:23:18](https://news.ycombinator.com/item?id=45966435) - [Short Little Difficult Books](https://countercraft.substack.com/p/short-little-difficult-books)
 * [2025-11-18, 14:11:17](https://news.ycombinator.com/item?id=45966251) - [Nearly all UK drivers say headlights are too bright](https://www.bbc.com/news/articles/c1j8ewy1p86o)
