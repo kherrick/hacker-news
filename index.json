@@ -1,12 +1,52 @@
 [
   [
     [
+      "2025-11-18, 11:48:56",
+      "https://news.ycombinator.com/item?id=45963949"
+    ],
+    [
+      "Cloudflare Global Network experiencing issues",
+      "https://www.cloudflarestatus.com/incidents/8gmgl950y3h7"
+    ]
+  ],
+  [
+    [
+      "2025-11-18, 11:40:01",
+      "https://news.ycombinator.com/item?id=45963836"
+    ],
+    [
+      "Gemini 3 Pro Model Card",
+      "https://pixeldrain.com/u/hwgaNKeH"
+    ]
+  ],
+  [
+    [
       "2025-11-18, 11:35:10",
       "https://news.ycombinator.com/item?id=45963780"
     ],
     [
-      "Cloudflare, X, More are down",
+      "Cloudflare Global Network experiencing issues",
       "https://www.cloudflarestatus.com/?t=1"
+    ]
+  ],
+  [
+    [
+      "2025-11-18, 10:59:54",
+      "https://news.ycombinator.com/item?id=45963583"
+    ],
+    [
+      "The Miracle of Wörgl",
+      "https://scf.green/story-of-worgl-and-others/"
+    ]
+  ],
+  [
+    [
+      "2025-11-18, 09:17:17",
+      "https://news.ycombinator.com/item?id=45963025"
+    ],
+    [
+      "Don't blindly trust what AI tells you, says Google's Sundar Pichai",
+      "https://www.bbc.com/news/articles/c8drzv37z4jo"
     ]
   ],
   [
@@ -131,16 +171,6 @@
   ],
   [
     [
-      "2025-11-17, 17:37:42",
-      "https://news.ycombinator.com/item?id=45955889"
-    ],
-    [
-      "A new book about the origins of Effective Altruism",
-      "https://newrepublic.com/article/202433/happened-effective-altruism"
-    ]
-  ],
-  [
-    [
       "2025-11-17, 17:07:17",
       "https://news.ycombinator.com/item?id=45955565"
     ],
@@ -171,26 +201,6 @@
   ],
   [
     [
-      "2025-11-17, 14:57:33",
-      "https://news.ycombinator.com/item?id=45954140"
-    ],
-    [
-      "Aldous Huxley predicts Adderall and champions alternative therapies",
-      "https://angadh.com/inkhaven-7"
-    ]
-  ],
-  [
-    [
-      "2025-11-17, 14:40:54",
-      "https://news.ycombinator.com/item?id=45953977"
-    ],
-    [
-      "Show HN: ESPectre – Motion detection based on Wi-Fi spectre analysis",
-      "https://github.com/francescopace/espectre"
-    ]
-  ],
-  [
-    [
       "2025-11-17, 13:40:40",
       "https://news.ycombinator.com/item?id=45953452"
     ],
@@ -207,16 +217,6 @@
     [
       "Astrophotographer snaps skydiver falling in front of the sun",
       "https://www.iflscience.com/the-fall-of-icarus-you-have-never-seen-an-astrophotography-picture-like-this-81570"
-    ]
-  ],
-  [
-    [
-      "2025-11-15, 16:27:49",
-      "https://news.ycombinator.com/item?id=45938517"
-    ],
-    [
-      "Show HN: Continuous Claude – run Claude Code in a loop",
-      "https://github.com/AnandChowdhary/continuous-claude"
     ]
   ],
   [
@@ -291,12 +291,12 @@
   ],
   [
     [
-      "2025-11-11, 22:11:43",
-      "https://news.ycombinator.com/item?id=45893592"
+      "2025-11-11, 17:25:44",
+      "https://news.ycombinator.com/item?id=45890170"
     ],
     [
-      "Ditch your (mut)ex, you deserve better",
-      "https://chrispenner.ca/posts/mutexes"
+      "Practice answers with yourself. I made a thing that I didn't want to pay for",
+      "https://look.imwithstupid.fun"
     ]
   ]
 ]
