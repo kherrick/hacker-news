@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-11-18, 18:50:00](https://news.ycombinator.com/item?id=45970338) - [Show HN: RowboatX – open-source Claude Code for everyday automations](https://github.com/rowboatlabs/rowboat)
 * [2025-11-18, 18:19:10](https://news.ycombinator.com/item?id=45969974) - [NPR to get $36M in settlement to operate US public radio system](https://apnews.com/article/trump-npr-lawsuit-2cc4abfa8cf00fe6f89e387e63eb4a2a)
 * [2025-11-18, 17:55:55](https://news.ycombinator.com/item?id=45969708) - [Show HN: Guts – convert Golang types to TypeScript](https://github.com/coder/guts)
 * [2025-11-18, 17:47:41](https://news.ycombinator.com/item?id=45969581) - [Google CEO: If an AI bubble pops, no one is getting out clean](https://arstechnica.com/ai/2025/11/googles-sundar-pichai-warns-of-irrationality-in-trillion-dollar-ai-investment-boom/)
@@ -28,7 +29,6 @@
 * [2025-11-13, 15:33:51](https://news.ycombinator.com/item?id=45916094) - [How many video games include a marriage proposal? At least one](https://32bits.substack.com/p/under-the-microscope-ncaa-basketball)
 * [2025-11-13, 13:04:32](https://news.ycombinator.com/item?id=45914435) - [Beauty in/of mathematics: tessellations and their formulas](https://www.tandfonline.com/doi/full/10.1080/00036811.2025.2510472)
 * [2025-11-12, 19:14:41](https://news.ycombinator.com/item?id=45904730) - [Looking for Hidden Gems in Scientific Literature](https://elicit.com/blog/literature-based-discovery)
-* [2025-11-11, 22:11:43](https://news.ycombinator.com/item?id=45893592) - [Ditch your (mut)ex, you deserve better](https://chrispenner.ca/posts/mutexes)
 * [2025-11-11, 18:34:12](https://news.ycombinator.com/item?id=45891035) - [A squeaky nail, or the wheel that sticks out](https://prashanth.world/squeaky-nail/)
 
 ## [Archives](archives/index.md)
