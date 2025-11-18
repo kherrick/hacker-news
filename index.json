@@ -161,16 +161,6 @@
   ],
   [
     [
-      "2025-11-18, 12:48:45",
-      "https://news.ycombinator.com/item?id=45964987"
-    ],
-    [
-      "Multiple Digital Ocean services down",
-      "https://status.digitalocean.com/incidents/lgt5xs2843rx"
-    ]
-  ],
-  [
-    [
       "2025-11-18, 12:36:54",
       "https://news.ycombinator.com/item?id=45964835"
     ],
@@ -241,6 +231,16 @@
   ],
   [
     [
+      "2025-11-18, 04:44:21",
+      "https://news.ycombinator.com/item?id=45961481"
+    ],
+    [
+      "The surprising benefits of giving up",
+      "https://nautil.us/the-surprising-benefits-of-giving-up-1248362/"
+    ]
+  ],
+  [
+    [
       "2025-11-17, 17:39:15",
       "https://news.ycombinator.com/item?id=45955900"
     ],
@@ -281,22 +281,22 @@
   ],
   [
     [
+      "2025-11-12, 19:14:41",
+      "https://news.ycombinator.com/item?id=45904730"
+    ],
+    [
+      "Looking for Hidden Gems in Scientific Literature",
+      "https://elicit.com/blog/literature-based-discovery"
+    ]
+  ],
+  [
+    [
       "2025-11-12, 01:41:07",
       "https://news.ycombinator.com/item?id=45895427"
     ],
     [
       "The Uselessness of \"Fast\" and \"Slow\" in Programming",
       "https://jerf.org/iri/post/2025/the_uselessness_of_fast/"
-    ]
-  ],
-  [
-    [
-      "2025-11-11, 22:11:43",
-      "https://news.ycombinator.com/item?id=45893592"
-    ],
-    [
-      "Ditch your (mut)ex, you deserve better",
-      "https://chrispenner.ca/posts/mutexes"
     ]
   ]
 ]
