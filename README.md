@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-11-18, 08:18:35](https://news.ycombinator.com/item?id=45962654) - [How Quake.exe got its TCP/IP stack](https://fabiensanglard.net/quake_chunnel/index.html)
 * [2025-11-18, 07:00:50](https://news.ycombinator.com/item?id=45962178) - [Langfuse (YC W23) Hiring OSS Support Engineers in Berlin and SF](https://jobs.ashbyhq.com/langfuse/5ff18d4d-9066-4c67-8ecc-ffc0e295fee6)
 * [2025-11-18, 04:44:21](https://news.ycombinator.com/item?id=45961481) - [The surprising benefits of giving up](https://nautil.us/the-surprising-benefits-of-giving-up-1248362/)
 * [2025-11-18, 02:58:31](https://news.ycombinator.com/item?id=45960922) - [LeJEPA](https://arxiv.org/abs/2511.08544)
@@ -17,7 +18,6 @@
 * [2025-11-17, 15:04:26](https://news.ycombinator.com/item?id=45954210) - [WeatherNext 2: Our most advanced weather forecasting model](https://blog.google/technology/google-deepmind/weathernext-2/)
 * [2025-11-17, 14:57:33](https://news.ycombinator.com/item?id=45954140) - [Aldous Huxley predicts Adderall and champions alternative therapies](https://angadh.com/inkhaven-7)
 * [2025-11-17, 14:40:54](https://news.ycombinator.com/item?id=45953977) - [Show HN: ESPectre – Motion detection based on Wi-Fi spectre analysis](https://github.com/francescopace/espectre)
-* [2025-11-17, 14:31:21](https://news.ycombinator.com/item?id=45953883) - [Jeff Bezos creates A.I. startup where he will be co-chief executive](https://www.nytimes.com/2025/11/17/technology/bezos-project-prometheus.html)
 * [2025-11-17, 13:40:40](https://news.ycombinator.com/item?id=45953452) - [FreeMDU: Open-source Miele appliance diagnostic tools](https://github.com/medusalix/FreeMDU)
 * [2025-11-16, 11:02:25](https://news.ycombinator.com/item?id=45944158) - [Astrophotographer snaps skydiver falling in front of the sun](https://www.iflscience.com/the-fall-of-icarus-you-have-never-seen-an-astrophotography-picture-like-this-81570)
 * [2025-11-15, 16:27:49](https://news.ycombinator.com/item?id=45938517) - [Show HN: Continuous Claude – run Claude Code in a loop](https://github.com/AnandChowdhary/continuous-claude)
@@ -25,9 +25,9 @@
 * [2025-11-14, 18:53:27](https://news.ycombinator.com/item?id=45930438) - [Raccoons are showing early signs of domestication](https://www.scientificamerican.com/article/raccoons-are-showing-early-signs-of-domestication/)
 * [2025-11-13, 15:33:51](https://news.ycombinator.com/item?id=45916094) - [How many video games include a marriage proposal? At least one](https://32bits.substack.com/p/under-the-microscope-ncaa-basketball)
 * [2025-11-13, 13:55:30](https://news.ycombinator.com/item?id=45914929) - [When Reverse Proxies Surprise You: Hard Lessons from Operating at Scale](https://www.infoq.com/articles/scaling-reverse-proxies/)
-* [2025-11-13, 01:57:11](https://news.ycombinator.com/item?id=45909525) - [Temporal Dithering of NeoPixels on an ATtiny412](http://sarah.alroe.dk/2025/NeoInf/)
 * [2025-11-12, 15:28:54](https://news.ycombinator.com/item?id=45901379) - [“One Student One Chip” Course Homepage](https://ysyx.oscc.cc/docs/en/)
 * [2025-11-12, 14:12:13](https://news.ycombinator.com/item?id=45900425) - [Show HN: I built a synth for my daughter](https://bitsnpieces.dev/posts/a-synth-for-my-daughter/)
+* [2025-11-12, 01:52:13](https://news.ycombinator.com/item?id=45895490) - [Implementing Wordle in LibreOffice with JavaScript Macros](https://bojidar-bg.dev/blog/2025-11-11-wordle-libreoffice/)
 * [2025-11-11, 22:11:43](https://news.ycombinator.com/item?id=45893592) - [Ditch your (mut)ex, you deserve better](https://chrispenner.ca/posts/mutexes)
 * [2025-11-11, 15:57:48](https://news.ycombinator.com/item?id=45888805) - [Show HN: Reversing a Cinema Camera's Peripherals Port](https://3nt3.de/blog/reversing-fs7-comms)
 
