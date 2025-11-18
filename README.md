@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-11-18, 11:35:10](https://news.ycombinator.com/item?id=45963780) - [Cloudflare, X, More are down](https://www.cloudflarestatus.com/?t=1)
 * [2025-11-18, 08:18:35](https://news.ycombinator.com/item?id=45962654) - [How Quake.exe got its TCP/IP stack](https://fabiensanglard.net/quake_chunnel/index.html)
 * [2025-11-18, 07:00:50](https://news.ycombinator.com/item?id=45962178) - [Langfuse (YC W23) Hiring OSS Support Engineers in Berlin and SF](https://jobs.ashbyhq.com/langfuse/5ff18d4d-9066-4c67-8ecc-ffc0e295fee6)
 * [2025-11-18, 04:44:21](https://news.ycombinator.com/item?id=45961481) - [The surprising benefits of giving up](https://nautil.us/the-surprising-benefits-of-giving-up-1248362/)
@@ -29,7 +30,6 @@
 * [2025-11-12, 14:00:52](https://news.ycombinator.com/item?id=45900273) - [Ruby Symbols](https://tech.stonecharioteer.com/posts/2025/ruby-symbols/)
 * [2025-11-12, 01:41:07](https://news.ycombinator.com/item?id=45895427) - [The Uselessness of \"Fast\" and \"Slow\" in Programming](https://jerf.org/iri/post/2025/the_uselessness_of_fast/)
 * [2025-11-11, 22:11:43](https://news.ycombinator.com/item?id=45893592) - [Ditch your (mut)ex, you deserve better](https://chrispenner.ca/posts/mutexes)
-* [2025-11-11, 15:57:48](https://news.ycombinator.com/item?id=45888805) - [Show HN: Reversing a Cinema Camera's Peripherals Port](https://3nt3.de/blog/reversing-fs7-comms)
 
 ## [Archives](archives/index.md)
 

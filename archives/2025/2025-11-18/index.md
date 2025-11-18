@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-11-18](index.md)
 
+* [2025-11-18, 11:35:10](https://news.ycombinator.com/item?id=45963780) - [Cloudflare, X, More are down](https://www.cloudflarestatus.com/?t=1)
 * [2025-11-18, 09:44:51](https://news.ycombinator.com/item?id=45963156) - [Trump, 79, Has Dementia Just Like His Father: Niece](https://vechron.com/2025/11/trump-has-dementia-just-like-his-father-says-niece/)
 * [2025-11-18, 09:14:22](https://news.ycombinator.com/item?id=45963006) - [Do (human) readers prefer AI writers?](https://marginalrevolution.com/marginalrevolution/2025/11/do-readers-prefer-ai-writers.html)
 * [2025-11-18, 08:18:35](https://news.ycombinator.com/item?id=45962654) - [How Quake.exe got its TCP/IP stack](https://fabiensanglard.net/quake_chunnel/index.html)
