@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-11-18](index.md)
 
+* [2025-11-18, 04:44:21](https://news.ycombinator.com/item?id=45961481) - [The Surprising Benefits of Giving Up](https://nautil.us/the-surprising-benefits-of-giving-up-1248362/)
 * [2025-11-18, 04:22:52](https://news.ycombinator.com/item?id=45961368) - [The obvious economics of preserving the Amazon](https://www.economist.com/the-americas/2025/10/23/the-obvious-economics-of-preserving-the-amazon)
 * [2025-11-18, 03:09:16](https://news.ycombinator.com/item?id=45960972) - [According to a Google leak, we’re all to blame for poor quality search results](https://www.admdnewsletter.com/its-not-googles-fault-its-yours/)
 * [2025-11-18, 02:58:31](https://news.ycombinator.com/item?id=45960922) - [LeJEPA](https://arxiv.org/abs/2511.08544)
