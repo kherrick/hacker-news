@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2025-11-19](index.md)
 
+* [2025-11-19, 20:01:02](https://news.ycombinator.com/item?id=45984353) - [Cognitive and Mental Health Correlates of Short-Form Video Use](https://psycnet.apa.org/fulltext/2026-89350-001.html)
 * [2025-11-19, 19:51:08](https://news.ycombinator.com/item?id=45984219) - [The death of Arduino?](https://news.ycombinator.com/item?id=45984219)
 * [2025-11-19, 19:44:46](https://news.ycombinator.com/item?id=45984143) - [Adafruit on the Death of Arduino](https://www.linkedin.com/posts/adafruit_opensource-privacy-techpolicy-activity-7396903362237054976-r14H)
+* [2025-11-19, 19:42:38](https://news.ycombinator.com/item?id=45984112) - [Measuring Political Bias in Claude](https://www.anthropic.com/news/political-even-handedness)
 * [2025-11-19, 19:39:09](https://news.ycombinator.com/item?id=45984072) - [Pozsar's Bretton Woods III: Sometimes Money Can't Solve the Problem](https://philippdubach.com/2025/10/25/pozsars-bretton-woods-iii-the-framework-1/2/)
 * [2025-11-19, 19:13:06](https://news.ycombinator.com/item?id=45983746) - [Gov. Abbott's office redacts pages of emails about Elon Musk](https://www.kut.org/politics/2025-11-19/texas-governor-abbott-elon-musk-emails-redacted)
 * [2025-11-19, 19:09:27](https://news.ycombinator.com/item?id=45983700) - [What AI Is Really For](https://www.chrbutler.com/what-ai-is-really-for)
@@ -19,6 +21,7 @@
 * [2025-11-19, 17:31:32](https://news.ycombinator.com/item?id=45982262) - [A Chinese firm bought an insurer for CIA agents](https://www.bbc.com/news/articles/c4g311jn1m9o)
 * [2025-11-19, 17:22:46](https://news.ycombinator.com/item?id=45982162) - [Static Web Hosting on the Intel N150: FreeBSD, SmartOS, NetBSD, OpenBSD and Linu](https://it-notes.dragas.net/2025/11/19/static-web-hosting-intel-n150-freebsd-smartos-netbsd-openbsd-linux/)
 * [2025-11-19, 17:20:12](https://news.ycombinator.com/item?id=45982128) - [LLMs are bullshitters. But that doesn't mean they're not useful](https://blog.kagi.com/llms)
+* [2025-11-19, 17:14:51](https://news.ycombinator.com/item?id=45982073) - [Meta Segment Anything Model 3](https://ai.meta.com/sam3/)
 * [2025-11-19, 16:54:06](https://news.ycombinator.com/item?id=45981825) - [The \"Learned Helplessness\" of AI](https://himanshusinghbisht.substack.com/p/the-learned-helplessness-of-ai)
 * [2025-11-19, 16:49:08](https://news.ycombinator.com/item?id=45981760) - [Questions for Cloudflare](https://entropicthoughts.com/questions-for-cloudflare)
 * [2025-11-19, 16:40:24](https://news.ycombinator.com/item?id=45981666) - [Adventures in Upgrading Proxmox](https://blog.vasi.li/adventures-in-upgrading-proxmox/)
@@ -35,6 +38,7 @@
 * [2025-11-19, 13:28:40](https://news.ycombinator.com/item?id=45979297) - [Your Smartphone, Their Rules: App Stores Enable Corporate-Government Censorship](https://www.aclu.org/news/free-speech/app-store-oligopoly)
 * [2025-11-19, 13:20:42](https://news.ycombinator.com/item?id=45979232) - [The Peaceful Transfer of Power in Open Source Projects](https://shkspr.mobi/blog/2025/11/the-peaceful-transfer-of-power-in-open-source-projects/)
 * [2025-11-19, 13:20:16](https://news.ycombinator.com/item?id=45979228) - [Zo: Personal Servers for Everyone](https://www.zo.computer/)
+* [2025-11-19, 13:16:23](https://news.ycombinator.com/item?id=45979190) - [Larry Summers resigns from OpenAI board](https://www.cnbc.com/2025/11/19/larry-summers-epstein-openai.html)
 * [2025-11-19, 12:38:44](https://news.ycombinator.com/item?id=45978880) - [Geothermal's Time Has Come](https://www.economist.com/interactive/science-and-technology/2025/11/18/geothermal-time-has-finally-come)
 * [2025-11-19, 12:31:54](https://news.ycombinator.com/item?id=45978813) - [How do the pros get someone to leave a cult?](https://www.theguardian.com/science/2025/nov/19/how-to-leave-a-cult-experts-intervention)
 * [2025-11-19, 12:02:49](https://news.ycombinator.com/item?id=45978545) - [Pimped Amiga 500](https://www.pimyretro.org/pimped-amiga-500/)
