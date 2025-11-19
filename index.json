@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-11-19, 13:20:16",
+      "https://news.ycombinator.com/item?id=45979228"
+    ],
+    [
+      "Zo: Personal Servers for Everyone",
+      "https://www.zo.computer/"
+    ]
+  ],
+  [
+    [
       "2025-11-19, 12:38:44",
       "https://news.ycombinator.com/item?id=45978880"
     ],
@@ -47,6 +57,16 @@
     [
       "Multimodal Diffusion Language Models for Thinking-Aware Editing and Generation",
       "https://github.com/tyfeld/MMaDA-Parallel"
+    ]
+  ],
+  [
+    [
+      "2025-11-19, 09:15:38",
+      "https://news.ycombinator.com/item?id=45977457"
+    ],
+    [
+      "Ultra-processed food linked to harm in every major human organ, study finds",
+      "https://www.theguardian.com/society/2025/nov/18/ultra-processed-food-linked-to-harm-in-every-major-human-organ-study-finds"
     ]
   ],
   [
@@ -111,16 +131,6 @@
   ],
   [
     [
-      "2025-11-18, 18:50:00",
-      "https://news.ycombinator.com/item?id=45970338"
-    ],
-    [
-      "Show HN: RowboatX – open-source Claude Code for everyday automations",
-      "https://github.com/rowboatlabs/rowboat"
-    ]
-  ],
-  [
-    [
       "2025-11-18, 18:13:30",
       "https://news.ycombinator.com/item?id=45969909"
     ],
@@ -137,16 +147,6 @@
     [
       "Pebble, Rebble, and a path forward",
       "https://ericmigi.com/blog/pebble-rebble-and-a-path-forward/"
-    ]
-  ],
-  [
-    [
-      "2025-11-18, 16:26:28",
-      "https://news.ycombinator.com/item?id=45968362"
-    ],
-    [
-      "Solving a million-step LLM task with zero errors",
-      "https://arxiv.org/abs/2511.09030"
     ]
   ],
   [
@@ -241,16 +241,6 @@
   ],
   [
     [
-      "2025-11-14, 12:31:15",
-      "https://news.ycombinator.com/item?id=45926141"
-    ],
-    [
-      "What I learned about creativity from a man painting on a treadmill (2024)",
-      "https://quinnmaclay.com/texts/lets-paint"
-    ]
-  ],
-  [
-    [
       "2025-11-13, 11:58:43",
       "https://news.ycombinator.com/item?id=45913870"
     ],
@@ -297,6 +287,16 @@
     [
       "Itiner-e: A high-resolution dataset of roads of the Roman Empire",
       "https://www.nature.com/articles/s41597-025-06140-z"
+    ]
+  ],
+  [
+    [
+      "2025-11-11, 18:02:27",
+      "https://news.ycombinator.com/item?id=45890639"
+    ],
+    [
+      "Race optimization algorithms with good initializations (beat them with bonuses)",
+      "https://debargha.com"
     ]
   ]
 ]
