@@ -22,6 +22,7 @@
 * [2025-11-12, 18:35:59](https://news.ycombinator.com/item?id=45903995) - [How Tube Amplifiers Work](https://robrobinette.com/How_Amps_Work.htm)
 * [2025-11-12, 18:29:18](https://news.ycombinator.com/item?id=45903888) - [Maestro Technology Sells Used SSD Drives as New](https://kozubik.com/items/MaestroTechnology/)
 * [2025-11-12, 18:26:25](https://news.ycombinator.com/item?id=45903840) - [Valve Announces New Steam Machine, Steam Controller and Steam Frame](https://www.phoronix.com/news/Steam-Machines-Frame-2026)
+* [2025-11-12, 18:16:52](https://news.ycombinator.com/item?id=45903668) - [Comparing Integers and Doubles](http://databasearchitects.blogspot.com/2025/11/comparing-integers-and-doubles.html)
 * [2025-11-12, 18:12:29](https://news.ycombinator.com/item?id=45903586) - [Async and Finaliser Deadlocks](https://tratt.net/laurie/blog/2025/async_and_finaliser_deadlocks.html)
 * [2025-11-12, 18:07:27](https://news.ycombinator.com/item?id=45903510) - [UK pauses intelligence-sharing with US on suspected drug vessels in Caribbean](https://www.theguardian.com/uk-news/2025/nov/11/uk-suspends-intelligence-sharing-with-us-amid-airstikes-in-the-caribbean)
 * [2025-11-12, 18:06:02](https://news.ycombinator.com/item?id=45903485) - [Control LLM Spend and Access with any-LLM-gateway](https://blog.mozilla.ai/control-llm-spend-and-access-with-any-llm-gateway/)

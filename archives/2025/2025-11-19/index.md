@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-11-19](index.md)
 
+* [2025-11-19, 20:24:09](https://news.ycombinator.com/item?id=45984630) - [View Interstellar Comet 3I/Atlas Through NASA's Multiple Lenses](https://science.nasa.gov/solar-system/view-interstellar-comet-3i-atlas-through-nasas-multiple-lenses/)
 * [2025-11-19, 20:01:02](https://news.ycombinator.com/item?id=45984353) - [Cognitive and Mental Health Correlates of Short-Form Video Use](https://psycnet.apa.org/fulltext/2026-89350-001.html)
 * [2025-11-19, 19:51:08](https://news.ycombinator.com/item?id=45984219) - [The death of Arduino?](https://news.ycombinator.com/item?id=45984219)
 * [2025-11-19, 19:44:46](https://news.ycombinator.com/item?id=45984143) - [Adafruit on the Death of Arduino](https://www.linkedin.com/posts/adafruit_opensource-privacy-techpolicy-activity-7396903362237054976-r14H)
