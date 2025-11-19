@@ -91,16 +91,6 @@
   ],
   [
     [
-      "2025-11-18, 19:05:44",
-      "https://news.ycombinator.com/item?id=45970519"
-    ],
-    [
-      "Trying out Gemini 3 Pro with audio transcription and a new pelican benchmark",
-      "https://simonwillison.net/2025/Nov/18/gemini-3/"
-    ]
-  ],
-  [
-    [
       "2025-11-18, 18:54:54",
       "https://news.ycombinator.com/item?id=45970391"
     ],
@@ -211,6 +201,16 @@
   ],
   [
     [
+      "2025-11-18, 12:36:54",
+      "https://news.ycombinator.com/item?id=45964835"
+    ],
+    [
+      "GoSign Desktop RCE flaws affecting users in Italy",
+      "https://www.ush.it/2025/11/14/multiple-vulnerabilities-gosign-desktop-remote-code-execution/"
+    ]
+  ],
+  [
+    [
       "2025-11-18, 11:35:10",
       "https://news.ycombinator.com/item?id=45963780"
     ],
@@ -231,22 +231,22 @@
   ],
   [
     [
-      "2025-11-18, 07:14:03",
-      "https://news.ycombinator.com/item?id=45962266"
-    ],
-    [
-      "Show HN: A subtly obvious e-paper room air monitor",
-      "https://www.nicolin-dora.ch/blog/en-epaper-room-air-monitor-part-1/"
-    ]
-  ],
-  [
-    [
       "2025-11-18, 06:06:52",
       "https://news.ycombinator.com/item?id=45961886"
     ],
     [
       "Google boss says AI investment boom has 'elements of irrationality'",
       "https://www.bbc.com/news/articles/cwy7vrd8k4eo"
+    ]
+  ],
+  [
+    [
+      "2025-11-14, 19:46:24",
+      "https://news.ycombinator.com/item?id=45931273"
+    ],
+    [
+      "Better pre-commit, re-engineered in Rust",
+      "https://prek.j178.dev/"
     ]
   ],
   [
@@ -291,12 +291,12 @@
   ],
   [
     [
-      "2025-11-12, 13:58:12",
-      "https://news.ycombinator.com/item?id=45900238"
+      "2025-11-11, 21:18:33",
+      "https://news.ycombinator.com/item?id=45893007"
     ],
     [
-      "Mysterious holes in the Andes may have been an ancient marketplace",
-      "https://www.sydney.edu.au/news-opinion/news/2025/11/10/mysterious-holes-in-the-andes-may-have-been-an-ancient-marketplace-new-research-suggests.html"
+      "Ultima VII Revisited",
+      "https://github.com/ViridianGames/U7Revisited"
     ]
   ]
 ]
