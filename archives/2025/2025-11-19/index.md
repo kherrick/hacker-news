@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-11-19](index.md)
 
+* [2025-11-19, 20:51:33](https://news.ycombinator.com/item?id=45984970) - [Microsoft AI CEO pushes back against critics after recent Windows AI backlash](https://www.windowscentral.com/microsoft/windows-11/microsoft-ai-ceo-pushes-back-against-critics-after-recent-windows-ai-backlash-the-fact-that-people-are-unimpressed-is-mindblowing-to-me)
+* [2025-11-19, 20:37:45](https://news.ycombinator.com/item?id=45984789) - [Detection, Decoding of \"Power Track\" Predictive Signaling in Equity Market Data](https://github.com/TheGameStopsNow/power-tracks-research)
+* [2025-11-19, 20:26:43](https://news.ycombinator.com/item?id=45984659) - [Loose Wire Leads to Blackout, Contact with Francis Scott Key Bridge](https://www.ntsb.gov:443/news/press-releases/Pages/NR20251118.aspx)
 * [2025-11-19, 20:24:09](https://news.ycombinator.com/item?id=45984630) - [View Interstellar Comet 3I/Atlas Through NASA's Multiple Lenses](https://science.nasa.gov/solar-system/view-interstellar-comet-3i-atlas-through-nasas-multiple-lenses/)
 * [2025-11-19, 20:01:02](https://news.ycombinator.com/item?id=45984353) - [Cognitive and Mental Health Correlates of Short-Form Video Use](https://psycnet.apa.org/fulltext/2026-89350-001.html)
 * [2025-11-19, 19:51:08](https://news.ycombinator.com/item?id=45984219) - [The death of Arduino?](https://news.ycombinator.com/item?id=45984219)
