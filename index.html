@@ -129,6 +129,194 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
+        <section id="45981009">
+          <h3>
+            <a
+              class="item"
+              href="https://blog.ericgoldman.org/archives/2025/11/emoji-evidence-errors-dont-undo-a-murder-conviction-people-v-harmon.htm"
+              >Emoji Evidence Errors Don't Undo a Murder Conviction–People vs.
+              Harmon</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2025-11-19 @ 15:46:30</span
+              ><span class="points-container"
+                >Points: <span class="points">40</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=45981009"
+                  >Comments</a
+                ><span class="descendants">: 22</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="45980760">
+          <h3>
+            <a class="item" href="https://mosaic.so"
+              >Launch HN: Mosaic (YC W25) – Agentic Video Editing</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2025-11-19 @ 15:28:04</span
+              ><span class="points-container"
+                >Points: <span class="points">23</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=45980760"
+                  >Comments</a
+                ><span class="descendants">: 12</span></span
+              >
+            </h4>
+            <div class="text">
+              <a href="https://mosaic.so">https://mosaic.so</a>). Mosaic lets
+              you create and run your own multimodal video editing agents in a
+              node-based canvas. It’s different from traditional video editing
+              tools in two ways: (1) the user interface and (2) the visual
+              intelligence built into our agent.
+              <p>
+                We were engineers at Tesla and one day had a fun idea to make a
+                YouTube video of Cybertrucks in Palo Alto. We recorded hours of
+                cars driving by, but got stuck on how to scrub through all this
+                raw footage to edit it down to just the Cybertrucks.
+              </p>
+              <p>
+                We got frustrated trying to accomplish simple tasks in video
+                editors like DaVinci Resolve and Adobe Premiere Pro. Features
+                are hidden behind menus, buttons, and icons, and we often found
+                ourselves Googling or asking ChatGPT how to do certain edits.
+              </p>
+              <p>
+                We thought that surely now, with multimodal AI, we could
+                accelerate this process. Better yet, an AI video editor could
+                automatically apply edits based off what it sees and hears in
+                your video. The idea quickly snowballed and we began our side
+                quest to build “Cursor for Video Editing”.
+              </p>
+              <p>
+                We put together a prototype and to our amazement, it was able to
+                analyze and add text overlays based on what it saw or heard in
+                the video. We could now automate our Cybertruck counting with a
+                single chat prompt. That prototype is shown here:
+                <a href="https://www.youtube.com/watch?v=GXr7q7Dl9X0"
+                  >https://www.youtube.com/watch?v=GXr7q7Dl9X0</a
+                >.
+              </p>
+              <p>
+                After that, we spent a chunk of time building our own
+                timeline-based video editor and making our multimodal copilot
+                powerful and stateful. In natural language, we could now ask
+                chat to help with AI asset generation, enhancements, searching
+                through assets, and automatically applying edits like dynamic
+                text overlays. That version is shown here:
+                <a href="https://youtu.be/X4ki-QEwN40"
+                  >https://youtu.be/X4ki-QEwN40</a
+                >.
+              </p>
+              <p>
+                After talking to users though, we realized that the chat UX has
+                limitations for video: (1) the longer the video, the more time
+                it takes to process. Users have to wait too long between chat
+                responses. (2) Users have set workflows that they use across
+                video projects. Especially for people who have to produce a lot
+                of content, the chat interface is a bottleneck rather than an
+                accelerant.
+              </p>
+              <p>
+                That took us back to first principles to rethink what a
+                “non-linear editor” really means. The result: a node-based
+                canvas which enables you to create and run your own multimodal
+                video editing agents.
+                <a href="https://screen.studio/share/SP7DItVD"
+                  >https://screen.studio/share/SP7DItVD</a
+                >.
+              </p>
+              <p>
+                Each tile in the canvas represents a video editing operation and
+                is configurable, so you still have creative control. You can
+                also branch and run edits in parallel, creating multiple
+                variants from the same raw footage to A/B test different
+                prompts, models, and workflows. In the canvas, you can see
+                inline how your content evolves as the agent goes through each
+                step.
+              </p>
+              <p>
+                The idea is that canvas will run your video editing on
+                autopilot, and get you 80-90% of the way there. Then you can
+                adjust and modify it in an inline timeline editor. We support
+                exporting your timeline state out to traditional editing tools
+                like DaVinci Resolve, Adobe Premiere Pro, and Final Cut Pro.
+              </p>
+              <p>
+                We’ve also used multimodal AI to build in visual understanding
+                and intelligence. This gives our system a deep understanding of
+                video concepts, emotions, actions, spoken word, light levels,
+                shot types.
+              </p>
+              <p>
+                We’re doing a ton of additional processing in our pipeline, such
+                as saliency analysis, audio analysis, and determining objects of
+                significance—all to help guide the best edit. These are things
+                that we as human editors internalize so deeply we may not think
+                twice about it, but reverse-engineering the process to build it
+                into the AI agent has been an interesting challenge.
+              </p>
+              <p>
+                Some of our analysis findings: Optimal Safe Rectangles:
+                <a href="https://assets.frameapp.ai/mosaicresearchimage1.png"
+                  >https://assets.frameapp.ai/mosaicresearchimage1.png</a
+                >
+                Video Analysis:
+                <a href="https://assets.frameapp.ai/mosaicresearchimage2.png"
+                  >https://assets.frameapp.ai/mosaicresearchimage2.png</a
+                >
+                Saliency Analysis:
+                <a href="https://assets.frameapp.ai/mosaicresearchimage3.png"
+                  >https://assets.frameapp.ai/mosaicresearchimage3.png</a
+                >
+                Mean Movement Analysis:
+                <a href="https://assets.frameapp.ai/mosaicresearchimage4.png"
+                  >https://assets.frameapp.ai/mosaicresearchimage4.png</a
+                >
+              </p>
+              <p>
+                Use cases for editing include: - Removing bad takes or creating
+                script-based cuts from videos / talking-heads - Repurposing
+                longer-form videos into clips, shorts, and reels (e.g. podcasts,
+                webinars, interviews) - Creating sizzle reels or montages from
+                one or many input videos - Creating assembly edits and rough
+                cuts from one or many input videos - Optimizing content for
+                various social media platforms (reframing, captions, etc.) -
+                Dubbing content with voice cloning and lip syncing.
+              </p>
+              <p>
+                We also support use cases for generating content such as motion
+                graphic animations, cinematic captions, AI UGC content, adding
+                contextual AI-generated B-Rolls to existing content, or
+                modifying existing video footage (changing lighting, applying
+                VFX).
+              </p>
+              <p>
+                Currently, our canvas can be used to build repeatable agentic
+                workflows, but we’re working on a fully autonomous agent which
+                will be able to do things like: style transfer using existing
+                video content, define its own editing sequence / workflow
+                without needing a canvas, do research and pull assets from web
+                references, and so on.
+              </p>
+              <p>
+                You can try it today at
+                <a href="https://edit.mosaic.so">https://edit.mosaic.so</a>. You
+                can sign up for free and get started playing with the interface
+                by uploading videos, making workflows on the canvas, and editing
+                them in the timeline editor. We do paywall node runs to help
+                cover model costs. Our API docs are at
+                <a href="https://docs.mosaic.so">https://docs.mosaic.so</a>.
+                We’d love to hear your feedback!
+              </p>
+            </div>
+          </section>
+        </section>
         <section id="45980117">
           <h3>
             <a
@@ -141,11 +329,11 @@
             <h4>
               <span>2025-11-19 @ 14:41:30</span
               ><span class="points-container"
-                >Points: <span class="points">41</span></span
+                >Points: <span class="points">47</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45980117"
                   >Comments</a
-                ><span class="descendants">: 37</span></span
+                ><span class="descendants">: 52</span></span
               >
             </h4>
           </section>
@@ -162,11 +350,11 @@
             <h4>
               <span>2025-11-19 @ 14:40:38</span
               ><span class="points-container"
-                >Points: <span class="points">69</span></span
+                >Points: <span class="points">89</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45980106"
                   >Comments</a
-                ><span class="descendants">: 31</span></span
+                ><span class="descendants">: 58</span></span
               >
             </h4>
           </section>
@@ -183,11 +371,11 @@
             <h4>
               <span>2025-11-19 @ 14:35:17</span
               ><span class="points-container"
-                >Points: <span class="points">51</span></span
+                >Points: <span class="points">54</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45980005"
                   >Comments</a
-                ><span class="descendants">: 39</span></span
+                ><span class="descendants">: 47</span></span
               >
             </h4>
           </section>
@@ -205,11 +393,11 @@
             <h4>
               <span>2025-11-19 @ 13:28:40</span
               ><span class="points-container"
-                >Points: <span class="points">230</span></span
+                >Points: <span class="points">259</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45979297"
                   >Comments</a
-                ><span class="descendants">: 117</span></span
+                ><span class="descendants">: 129</span></span
               >
             </h4>
           </section>
@@ -226,11 +414,11 @@
             <h4>
               <span>2025-11-19 @ 13:20:42</span
               ><span class="points-container"
-                >Points: <span class="points">112</span></span
+                >Points: <span class="points">128</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45979232"
                   >Comments</a
-                ><span class="descendants">: 60</span></span
+                ><span class="descendants">: 73</span></span
               >
             </h4>
           </section>
@@ -245,11 +433,11 @@
             <h4>
               <span>2025-11-19 @ 12:02:49</span
               ><span class="points-container"
-                >Points: <span class="points">70</span></span
+                >Points: <span class="points">74</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45978545"
                   >Comments</a
-                ><span class="descendants">: 32</span></span
+                ><span class="descendants">: 34</span></span
               >
             </h4>
           </section>
@@ -266,7 +454,7 @@
             <h4>
               <span>2025-11-19 @ 11:18:59</span
               ><span class="points-container"
-                >Points: <span class="points">19</span></span
+                >Points: <span class="points">26</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45978245"
                   >Comments</a
@@ -287,33 +475,11 @@
             <h4>
               <span>2025-11-19 @ 10:00:05</span
               ><span class="points-container"
-                >Points: <span class="points">143</span></span
+                >Points: <span class="points">164</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45977744"
                   >Comments</a
-                ><span class="descendants">: 149</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="45977629">
-          <h3>
-            <a
-              class="item"
-              href="https://downdetectorsdowndetectorsdowndetectorsdowndetector.com"
-              >I made a downdetector for downdetector's downdetector's
-              downdetector</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2025-11-19 @ 09:40:13</span
-              ><span class="points-container"
-                >Points: <span class="points">76</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=45977629"
-                  >Comments</a
-                ><span class="descendants">: 13</span></span
+                ><span class="descendants">: 159</span></span
               >
             </h4>
           </section>
@@ -329,11 +495,11 @@
             <h4>
               <span>2025-11-19 @ 09:27:17</span
               ><span class="points-container"
-                >Points: <span class="points">92</span></span
+                >Points: <span class="points">94</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45977542"
                   >Comments</a
-                ><span class="descendants">: 7</span></span
+                ><span class="descendants">: 8</span></span
               >
             </h4>
           </section>
@@ -350,30 +516,11 @@
             <h4>
               <span>2025-11-19 @ 01:41:33</span
               ><span class="points-container"
-                >Points: <span class="points">202</span></span
+                >Points: <span class="points">212</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45974869"
                   >Comments</a
-                ><span class="descendants">: 194</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="45974681">
-          <h3>
-            <a class="item" href="https://github.com/Mic92/strace-macos"
-              >Strace-macOS: A clone of the strace command for macOS</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2025-11-19 @ 01:18:02</span
-              ><span class="points-container"
-                >Points: <span class="points">88</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=45974681"
-                  >Comments</a
-                ><span class="descendants">: 22</span></span
+                ><span class="descendants">: 201</span></span
               >
             </h4>
           </section>
@@ -388,11 +535,11 @@
             <h4>
               <span>2025-11-19 @ 00:05:28</span
               ><span class="points-container"
-                >Points: <span class="points">391</span></span
+                >Points: <span class="points">403</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45974012"
                   >Comments</a
-                ><span class="descendants">: 125</span></span
+                ><span class="descendants">: 126</span></span
               >
             </h4>
           </section>
@@ -409,11 +556,11 @@
             <h4>
               <span>2025-11-18 @ 23:31:22</span
               ><span class="points-container"
-                >Points: <span class="points">1333</span></span
+                >Points: <span class="points">1351</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45973709"
                   >Comments</a
-                ><span class="descendants">: 786</span></span
+                ><span class="descendants">: 791</span></span
               >
             </h4>
             <div class="text">
@@ -437,11 +584,11 @@
             <h4>
               <span>2025-11-18 @ 21:39:18</span
               ><span class="points-container"
-                >Points: <span class="points">916</span></span
+                >Points: <span class="points">926</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45972519"
                   >Comments</a
-                ><span class="descendants">: 295</span></span
+                ><span class="descendants">: 299</span></span
               >
             </h4>
           </section>
@@ -458,11 +605,11 @@
             <h4>
               <span>2025-11-18 @ 17:24:27</span
               ><span class="points-container"
-                >Points: <span class="points">439</span></span
+                >Points: <span class="points">440</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45969250"
                   >Comments</a
-                ><span class="descendants">: 225</span></span
+                ><span class="descendants">: 228</span></span
               >
             </h4>
           </section>
@@ -480,11 +627,11 @@
             <h4>
               <span>2025-11-18 @ 16:10:34</span
               ><span class="points-container"
-                >Points: <span class="points">183</span></span
+                >Points: <span class="points">184</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45968121"
                   >Comments</a
-                ><span class="descendants">: 31</span></span
+                ><span class="descendants">: 33</span></span
               >
             </h4>
             <div class="text">
@@ -506,11 +653,11 @@
             <h4>
               <span>2025-11-18 @ 15:47:38</span
               ><span class="points-container"
-                >Points: <span class="points">988</span></span
+                >Points: <span class="points">993</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45967814"
                   >Comments</a
-                ><span class="descendants">: 963</span></span
+                ><span class="descendants">: 971</span></span
               >
             </h4>
             <div class="text">
@@ -536,11 +683,11 @@
             <h4>
               <span>2025-11-18 @ 15:09:38</span
               ><span class="points-container"
-                >Points: <span class="points">1571</span></span
+                >Points: <span class="points">1583</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45967211"
                   >Comments</a
-                ><span class="descendants">: 982</span></span
+                ><span class="descendants">: 985</span></span
               >
             </h4>
             <div class="text">
@@ -570,11 +717,11 @@
             <h4>
               <span>2025-11-18 @ 15:00:36</span
               ><span class="points-container"
-                >Points: <span class="points">192</span></span
+                >Points: <span class="points">194</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45967079"
                   >Comments</a
-                ><span class="descendants">: 78</span></span
+                ><span class="descendants">: 80</span></span
               >
             </h4>
             <div class="text">
@@ -607,11 +754,11 @@
             <h4>
               <span>2025-11-18 @ 11:35:10</span
               ><span class="points-container"
-                >Points: <span class="points">2399</span></span
+                >Points: <span class="points">2402</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45963780"
                   >Comments</a
-                ><span class="descendants">: 1620</span></span
+                ><span class="descendants">: 1622</span></span
               >
             </h4>
           </section>
@@ -628,11 +775,11 @@
             <h4>
               <span>2025-11-18 @ 11:12:20</span
               ><span class="points-container"
-                >Points: <span class="points">254</span></span
+                >Points: <span class="points">258</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45963670"
                   >Comments</a
-                ><span class="descendants">: 325</span></span
+                ><span class="descendants">: 326</span></span
               >
             </h4>
           </section>
@@ -649,11 +796,11 @@
             <h4>
               <span>2025-11-15 @ 00:36:51</span
               ><span class="points-container"
-                >Points: <span class="points">76</span></span
+                >Points: <span class="points">79</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45933932"
                   >Comments</a
-                ><span class="descendants">: 14</span></span
+                ><span class="descendants">: 13</span></span
               >
             </h4>
           </section>
@@ -668,11 +815,11 @@
             <h4>
               <span>2025-11-13 @ 21:02:40</span
               ><span class="points-container"
-                >Points: <span class="points">35</span></span
+                >Points: <span class="points">52</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45920490"
                   >Comments</a
-                ><span class="descendants">: 3</span></span
+                ><span class="descendants">: 4</span></span
               >
             </h4>
           </section>
@@ -690,7 +837,7 @@
             <h4>
               <span>2025-11-13 @ 11:58:43</span
               ><span class="points-container"
-                >Points: <span class="points">65</span></span
+                >Points: <span class="points">69</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45913870"
                   >Comments</a
@@ -709,11 +856,11 @@
             <h4>
               <span>2025-11-13 @ 08:50:49</span
               ><span class="points-container"
-                >Points: <span class="points">88</span></span
+                >Points: <span class="points">92</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45912457"
                   >Comments</a
-                ><span class="descendants">: 50</span></span
+                ><span class="descendants">: 54</span></span
               >
             </h4>
           </section>
@@ -728,11 +875,11 @@
             <h4>
               <span>2025-11-12 @ 11:57:23</span
               ><span class="points-container"
-                >Points: <span class="points">50</span></span
+                >Points: <span class="points">51</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45899074"
                   >Comments</a
-                ><span class="descendants">: 15</span></span
+                ><span class="descendants">: 17</span></span
               >
             </h4>
           </section>
@@ -747,11 +894,11 @@
             <h4>
               <span>2025-11-11 @ 21:18:33</span
               ><span class="points-container"
-                >Points: <span class="points">170</span></span
+                >Points: <span class="points">176</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45893007"
                   >Comments</a
-                ><span class="descendants">: 53</span></span
+                ><span class="descendants">: 56</span></span
               >
             </h4>
           </section>
@@ -769,7 +916,7 @@
             <h4>
               <span>2025-11-11 @ 19:01:00</span
               ><span class="points-container"
-                >Points: <span class="points">20</span></span
+                >Points: <span class="points">25</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45891346"
                   >Comments</a
@@ -791,11 +938,11 @@
             <h4>
               <span>2025-11-11 @ 18:21:32</span
               ><span class="points-container"
-                >Points: <span class="points">35</span></span
+                >Points: <span class="points">41</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45890898"
                   >Comments</a
-                ><span class="descendants">: 35</span></span
+                ><span class="descendants">: 43</span></span
               >
             </h4>
           </section>
