@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-11-19](index.md)
 
+* [2025-11-19, 22:08:06](https://news.ycombinator.com/item?id=45985978) - [Tailscale Down](https://status.tailscale.com/incidents/01KAF1H8V7EGFKVG5KGZBB2RJC)
 * [2025-11-19, 22:00:28](https://news.ycombinator.com/item?id=45985890) - [The Patent Office Is About to Make Bad Patents Untouchable](https://www.eff.org/deeplinks/2025/11/patent-office-about-make-bad-patents-untouchable)
 * [2025-11-19, 21:58:47](https://news.ycombinator.com/item?id=45985867) - [It's your fault my laptop knows where I am](https://www.amoses.dev/blog/wifi-location/)
 * [2025-11-19, 21:30:02](https://news.ycombinator.com/item?id=45985506) - [Screw it, I'm installing Linux](https://www.theverge.com/tech/823337/switching-linux-gaming-desktop-cachyos)
