@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-11-19](index.md)
 
+* [2025-11-19, 19:13:06](https://news.ycombinator.com/item?id=45983746) - [Gov. Abbott's office redacts pages of emails about Elon Musk](https://www.kut.org/politics/2025-11-19/texas-governor-abbott-elon-musk-emails-redacted)
 * [2025-11-19, 18:27:36](https://news.ycombinator.com/item?id=45983069) - [Cypherpunks Hall of Fame](https://github.com/cypherpunkshall/cypherpunkshall.github.io)
 * [2025-11-19, 18:16:51](https://news.ycombinator.com/item?id=45982874) - [Netherlands returns control of Nexperia to Chinese owner](https://www.bloomberg.com/news/articles/2025-11-19/dutch-hand-back-control-of-chinese-owned-chipmaker-nexperia)
 * [2025-11-19, 18:13:18](https://news.ycombinator.com/item?id=45982818) - [To Launch Something New, You Need \"Social Dandelions\"](https://www.actiondigest.com/p/to-launch-something-new-you-need-social-dandelions)

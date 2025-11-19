@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-11-19, 19:13:06](https://news.ycombinator.com/item?id=45983746) - [Gov. Abbott's office redacts pages of emails about Elon Musk](https://www.kut.org/politics/2025-11-19/texas-governor-abbott-elon-musk-emails-redacted)
 * [2025-11-19, 18:16:51](https://news.ycombinator.com/item?id=45982874) - [Netherlands returns control of Nexperia to Chinese owner](https://www.bloomberg.com/news/articles/2025-11-19/dutch-hand-back-control-of-chinese-owned-chipmaker-nexperia)
 * [2025-11-19, 18:13:18](https://news.ycombinator.com/item?id=45982818) - [To launch something new, you need \"social dandelions\"](https://www.actiondigest.com/p/to-launch-something-new-you-need-social-dandelions)
 * [2025-11-19, 18:01:59](https://news.ycombinator.com/item?id=45982649) - [Building more with GPT-5.1-Codex-Max](https://openai.com/index/gpt-5-1-codex-max/)
@@ -20,16 +21,15 @@
 * [2025-11-19, 09:27:17](https://news.ycombinator.com/item?id=45977542) - [Multimodal Diffusion Language Models for Thinking-Aware Editing and Generation](https://github.com/tyfeld/MMaDA-Parallel)
 * [2025-11-19, 01:41:33](https://news.ycombinator.com/item?id=45974869) - [I just want working RCS messaging](https://wt.gd/i-just-want-my-rcs-messaging-to-work)
 * [2025-11-19, 00:05:28](https://news.ycombinator.com/item?id=45974012) - [Show HN: I made a down detector for down detector](https://downdetectorsdowndetector.com)
-* [2025-11-18, 17:24:27](https://news.ycombinator.com/item?id=45969250) - [Pebble, Rebble, and a path forward](https://ericmigi.com/blog/pebble-rebble-and-a-path-forward/)
 * [2025-11-18, 15:09:38](https://news.ycombinator.com/item?id=45967211) - [Gemini 3](https://blog.google/products/gemini/gemini-3/)
 * [2025-11-18, 15:00:36](https://news.ycombinator.com/item?id=45967079) - [Show HN: Browser-based interactive 3D Three-Body problem simulator](https://trisolarchaos.com/?pr=O_8(0.6)&n=3&s=5.0&so=0.00&im=rk4&dt=1.00e-4&rt=1.0e-6&at=1.0e-8&bs=0.15&sf=0&sv=0&cm=free&kt=1&st=1&tl=1500&cp=2.5208,1.5125,2.5208&ct=0.0000,0.0000,0.1670)
 * [2025-11-15, 05:32:38](https://news.ycombinator.com/item?id=45935294) - [How two photographers transformed RAW photo support on Mac](https://petapixel.com/2025/11/14/how-two-photographers-transformed-raw-photo-support-on-mac/)
 * [2025-11-14, 09:45:36](https://news.ycombinator.com/item?id=45925394) - [Reproducible C++ builds by logging Git hashes](https://jgarby.uk/posts/git_repr/)
 * [2025-11-13, 21:02:40](https://news.ycombinator.com/item?id=45920490) - [Programming the Commodore 64 with .NET](https://retroc64.github.io/)
+* [2025-11-13, 13:09:37](https://news.ycombinator.com/item?id=45914490) - [Perfecting Baseline](https://piccalil.li/blog/perfecting-baseline/)
 * [2025-11-13, 08:50:49](https://news.ycombinator.com/item?id=45912457) - [The Future of Programming (2013) [video]](https://www.youtube.com/watch?v=8pTEmbeENF4)
 * [2025-11-12, 18:06:02](https://news.ycombinator.com/item?id=45903485) - [Control LLM Spend and Access with any-LLM-gateway](https://blog.mozilla.ai/control-llm-spend-and-access-with-any-llm-gateway/)
 * [2025-11-11, 21:18:33](https://news.ycombinator.com/item?id=45893007) - [Ultima VII Revisited](https://github.com/ViridianGames/U7Revisited)
-* [2025-11-11, 18:21:32](https://news.ycombinator.com/item?id=45890898) - [Gymkhana's 1978 Subaru Brat with 9,500-RPM Redline, Active Aero](https://www.thedrive.com/news/gymkhanas-1978-subaru-brat-with-9500-rpm-redline-and-active-aero-is-one-super-ute)
 
 ## [Archives](archives/index.md)
 
