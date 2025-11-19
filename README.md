@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-11-19, 10:00:05](https://news.ycombinator.com/item?id=45977744) - [The $1k AWS Mistake](https://www.geocod.io/code-and-coordinates/2025-11-18-the-1000-aws-mistake/)
 * [2025-11-19, 09:27:17](https://news.ycombinator.com/item?id=45977542) - [Multimodal Diffusion Language Models for Thinking-Aware Editing and Generation](https://github.com/tyfeld/MMaDA-Parallel)
 * [2025-11-19, 07:36:25](https://news.ycombinator.com/item?id=45976832) - [Exploring the Limits of Large Language Models as Quant Traders](https://nof1.ai/blog/TechPost1)
 * [2025-11-19, 07:09:52](https://news.ycombinator.com/item?id=45976670) - [A down detector for down detector's down detector](https://downdetectorsdowndetectorsdowndetector.com/)
@@ -28,6 +27,7 @@
 * [2025-11-14, 12:31:15](https://news.ycombinator.com/item?id=45926141) - [What I learned about creativity from a man painting on a treadmill (2024)](https://quinnmaclay.com/texts/lets-paint)
 * [2025-11-13, 17:30:46](https://news.ycombinator.com/item?id=45917752) - [Even Realities Smart Glasses: G2](https://www.evenrealities.com/smart-glasses)
 * [2025-11-13, 11:58:43](https://news.ycombinator.com/item?id=45913870) - [Bluetooth Channel Sounding: The Next Leap in Bluetooth Innovation](https://www.embedded.com/bluetooth-channel-sounding-the-next-leap-in-bluetooth-innovation?_gl=1*8e3cij*_gcl_au*MzQwNzM2NDAxLjE3NjMwMzUwNzA.*_ga*NDc3NjU3MDk3LjE3NjMwMzUwNzA.*_ga_ZLV02RYCZ8*czE3NjMwMzUwNjkkbzEkZzAkdDE3NjMwMzUwNjkkajYwJGwwJGgw)
+* [2025-11-13, 08:50:49](https://news.ycombinator.com/item?id=45912457) - [Bret Victor the Future of Programming (2013) [video]](https://www.youtube.com/watch?v=8pTEmbeENF4)
 * [2025-11-12, 11:57:23](https://news.ycombinator.com/item?id=45899074) - [Mojo-V: Secret Computation for RISC-V](https://github.com/toddmaustin/mojo-v)
 * [2025-11-11, 21:18:33](https://news.ycombinator.com/item?id=45893007) - [Ultima VII Revisited](https://github.com/ViridianGames/U7Revisited)
 
