@@ -141,16 +141,6 @@
   ],
   [
     [
-      "2025-11-18, 16:41:34",
-      "https://news.ycombinator.com/item?id=45968611"
-    ],
-    [
-      "Strix Halo's Memory Subsystem: Tackling iGPU Challenges",
-      "https://chipsandcheese.com/p/strix-halos-memory-subsystem-tackling"
-    ]
-  ],
-  [
-    [
       "2025-11-18, 16:26:28",
       "https://news.ycombinator.com/item?id=45968362"
     ],
@@ -257,6 +247,16 @@
     [
       "Google boss says AI investment boom has 'elements of irrationality'",
       "https://www.bbc.com/news/articles/cwy7vrd8k4eo"
+    ]
+  ],
+  [
+    [
+      "2025-11-14, 19:46:24",
+      "https://news.ycombinator.com/item?id=45931273"
+    ],
+    [
+      "Better pre-commit, re-engineered in Rust",
+      "https://prek.j178.dev/"
     ]
   ],
   [
