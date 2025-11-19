@@ -9,7 +9,6 @@
 * [2025-11-18, 21:39:18](https://news.ycombinator.com/item?id=45972519) - [Blender 5.0](https://www.blender.org/download/releases/5-0/)
 * [2025-11-18, 21:29:37](https://news.ycombinator.com/item?id=45972390) - [Bild AI (YC W25) is hiring – Make housing affordable](https://www.ycombinator.com/companies/bild-ai/jobs/m2ilR5L-founding-engineer-applied-ai)
 * [2025-11-18, 20:40:46](https://news.ycombinator.com/item?id=45971726) - [GitHub: Git operation failures](https://www.githubstatus.com/incidents/5q7nmlxz30sk)
-* [2025-11-18, 19:05:44](https://news.ycombinator.com/item?id=45970519) - [Trying out Gemini 3 Pro with audio transcription and a new pelican benchmark](https://simonwillison.net/2025/Nov/18/gemini-3/)
 * [2025-11-18, 18:54:54](https://news.ycombinator.com/item?id=45970391) - [OrthoRoute – GPU-accelerated autorouting for KiCad](https://bbenchoff.github.io/pages/OrthoRoute.html)
 * [2025-11-18, 18:50:00](https://news.ycombinator.com/item?id=45970338) - [Show HN: RowboatX – open-source Claude Code for everyday automations](https://github.com/rowboatlabs/rowboat)
 * [2025-11-18, 18:13:30](https://news.ycombinator.com/item?id=45969909) - [I am stepping down as the CEO of Mastodon](https://blog.joinmastodon.org/2025/11/my-next-chapter-with-mastodon/)
@@ -29,6 +28,7 @@
 * [2025-11-14, 01:24:41](https://news.ycombinator.com/item?id=45922823) - [Microsoft-backed Veir is bringing superconductors to data centers](https://techcrunch.com/2025/11/12/microsoft-backed-veir-targets-data-centers-for-its-megawatt-class-superconductors/)
 * [2025-11-13, 11:58:43](https://news.ycombinator.com/item?id=45913870) - [Bluetooth Channel Sounding: The Next Leap in Bluetooth Innovation](https://www.embedded.com/bluetooth-channel-sounding-the-next-leap-in-bluetooth-innovation?_gl=1*8e3cij*_gcl_au*MzQwNzM2NDAxLjE3NjMwMzUwNzA.*_ga*NDc3NjU3MDk3LjE3NjMwMzUwNzA.*_ga_ZLV02RYCZ8*czE3NjMwMzUwNjkkbzEkZzAkdDE3NjMwMzUwNjkkajYwJGwwJGgw)
 * [2025-11-12, 13:58:12](https://news.ycombinator.com/item?id=45900238) - [Mysterious holes in the Andes may have been an ancient marketplace](https://www.sydney.edu.au/news-opinion/news/2025/11/10/mysterious-holes-in-the-andes-may-have-been-an-ancient-marketplace-new-research-suggests.html)
+* [2025-11-12, 11:57:23](https://news.ycombinator.com/item?id=45899074) - [Mojo-V: Secret Computation for RISC-V](https://github.com/toddmaustin/mojo-v)
 * [2025-11-11, 21:18:33](https://news.ycombinator.com/item?id=45893007) - [Ultima VII Revisited](https://github.com/ViridianGames/U7Revisited)
 
 ## [Archives](archives/index.md)

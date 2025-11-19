@@ -55,6 +55,7 @@
 * [2025-11-12, 12:58:59](https://news.ycombinator.com/item?id=45899592) - [New study finds users are marrying and having virtual children with AI chatbots](https://www.psypost.org/new-study-finds-users-are-marrying-and-having-virtual-children-with-ai-chatbots/)
 * [2025-11-12, 12:56:06](https://news.ycombinator.com/item?id=45899568) - [Write Cypress Tests in Natural Language with Cy.prompt()](https://www.cypress.io/blog/cy-prompt-experimental-launch)
 * [2025-11-12, 12:10:11](https://news.ycombinator.com/item?id=45899189) - [A brief look at FreeBSD](https://yorickpeterse.com/articles/a-brief-look-at-freebsd/)
+* [2025-11-12, 11:57:23](https://news.ycombinator.com/item?id=45899074) - [Mojo-V: Secret Computation for RISC-V](https://github.com/toddmaustin/mojo-v)
 * [2025-11-12, 11:26:33](https://news.ycombinator.com/item?id=45898856) - [Ask HN: How does one stay motivated to grind through LeetCode?](https://news.ycombinator.com/item?id=45898856)
 * [2025-11-12, 11:17:06](https://news.ycombinator.com/item?id=45898789) - [Pakistani newspaper mistakenly prints AI prompt with the article](https://twitter.com/omar_quraishi/status/1988518627859951986)
 * [2025-11-12, 10:58:12](https://news.ycombinator.com/item?id=45898674) - [Show HN: Tokenflood – simulate arbitrary loads on instruction-tuned LLMs](https://github.com/twerkmeister/tokenflood)
