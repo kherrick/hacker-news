@@ -2,6 +2,7 @@
 
 * [2025-11-19, 02:02:10](https://news.ycombinator.com/item?id=45975006) - [DOE gives Microsoft partner $1B loan to restart Three Mile Island reactor](https://techcrunch.com/2025/11/18/trump-doe-gives-microsoft-partner-1b-loan-to-restart-three-mile-island-reactor/)
 * [2025-11-19, 01:41:33](https://news.ycombinator.com/item?id=45974869) - [I just want working RCS messaging](https://wt.gd/i-just-want-my-rcs-messaging-to-work)
+* [2025-11-19, 01:18:02](https://news.ycombinator.com/item?id=45974681) - [Strace-macOS: A clone of the strace command for macOS](https://github.com/Mic92/strace-macos)
 * [2025-11-19, 00:05:28](https://news.ycombinator.com/item?id=45974012) - [I made a down detector for down detector](https://downdetectorsdowndetector.com)
 * [2025-11-18, 23:59:14](https://news.ycombinator.com/item?id=45973955) - [Lucent 7 R/E 5ESS Telephone Switch Rescue (2024)](http://kev009.com/wp/2024/07/Lucent-5ESS-Rescue/)
 * [2025-11-18, 23:31:22](https://news.ycombinator.com/item?id=45973709) - [Cloudflare outage on November 18, 2025 post mortem](https://blog.cloudflare.com/18-november-2025-outage/)
@@ -27,7 +28,6 @@
 * [2025-11-14, 12:31:15](https://news.ycombinator.com/item?id=45926141) - [What I learned about creativity from a man painting on a treadmill (2024)](https://quinnmaclay.com/texts/lets-paint)
 * [2025-11-14, 01:24:41](https://news.ycombinator.com/item?id=45922823) - [Microsoft-backed Veir is bringing superconductors to data centers](https://techcrunch.com/2025/11/12/microsoft-backed-veir-targets-data-centers-for-its-megawatt-class-superconductors/)
 * [2025-11-13, 11:58:43](https://news.ycombinator.com/item?id=45913870) - [Bluetooth Channel Sounding: The Next Leap in Bluetooth Innovation](https://www.embedded.com/bluetooth-channel-sounding-the-next-leap-in-bluetooth-innovation?_gl=1*8e3cij*_gcl_au*MzQwNzM2NDAxLjE3NjMwMzUwNzA.*_ga*NDc3NjU3MDk3LjE3NjMwMzUwNzA.*_ga_ZLV02RYCZ8*czE3NjMwMzUwNjkkbzEkZzAkdDE3NjMwMzUwNjkkajYwJGwwJGgw)
-* [2025-11-12, 13:58:12](https://news.ycombinator.com/item?id=45900238) - [Mysterious holes in the Andes may have been an ancient marketplace](https://www.sydney.edu.au/news-opinion/news/2025/11/10/mysterious-holes-in-the-andes-may-have-been-an-ancient-marketplace-new-research-suggests.html)
 * [2025-11-12, 11:57:23](https://news.ycombinator.com/item?id=45899074) - [Mojo-V: Secret Computation for RISC-V](https://github.com/toddmaustin/mojo-v)
 * [2025-11-11, 21:18:33](https://news.ycombinator.com/item?id=45893007) - [Ultima VII Revisited](https://github.com/ViridianGames/U7Revisited)
 
