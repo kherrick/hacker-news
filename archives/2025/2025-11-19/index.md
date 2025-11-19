@@ -4,7 +4,11 @@
 
 ### [Archives](../../index.md) for [2025-11-19](index.md)
 
+* [2025-11-19, 19:51:08](https://news.ycombinator.com/item?id=45984219) - [The death of Arduino?](https://news.ycombinator.com/item?id=45984219)
+* [2025-11-19, 19:44:46](https://news.ycombinator.com/item?id=45984143) - [Adafruit on the Death of Arduino](https://www.linkedin.com/posts/adafruit_opensource-privacy-techpolicy-activity-7396903362237054976-r14H)
+* [2025-11-19, 19:39:09](https://news.ycombinator.com/item?id=45984072) - [Pozsar's Bretton Woods III: Sometimes Money Can't Solve the Problem](https://philippdubach.com/2025/10/25/pozsars-bretton-woods-iii-the-framework-1/2/)
 * [2025-11-19, 19:13:06](https://news.ycombinator.com/item?id=45983746) - [Gov. Abbott's office redacts pages of emails about Elon Musk](https://www.kut.org/politics/2025-11-19/texas-governor-abbott-elon-musk-emails-redacted)
+* [2025-11-19, 19:09:27](https://news.ycombinator.com/item?id=45983700) - [What AI Is Really For](https://www.chrbutler.com/what-ai-is-really-for)
 * [2025-11-19, 18:43:02](https://news.ycombinator.com/item?id=45983312) - [Why Samsung Phones Are Failing Emergency Calls in Australia](https://hackaday.com/2025/11/19/why-samsung-phones-are-failing-emergency-calls-in-australia/)
 * [2025-11-19, 18:27:36](https://news.ycombinator.com/item?id=45983069) - [Cypherpunks Hall of Fame](https://github.com/cypherpunkshall/cypherpunkshall.github.io)
 * [2025-11-19, 18:16:51](https://news.ycombinator.com/item?id=45982874) - [Netherlands returns control of Nexperia to Chinese owner](https://www.bloomberg.com/news/articles/2025-11-19/dutch-hand-back-control-of-chinese-owned-chipmaker-nexperia)
