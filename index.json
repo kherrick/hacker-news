@@ -1,12 +1,12 @@
 [
   [
     [
-      "2025-11-19, 19:51:08",
-      "https://news.ycombinator.com/item?id=45984219"
+      "2025-11-19, 20:01:02",
+      "https://news.ycombinator.com/item?id=45984353"
     ],
     [
-      "The death of Arduino?",
-      "https://news.ycombinator.com/item?id=45984219"
+      "Cognitive and Mental Health Correlates of Short-Form Video Use",
+      "https://psycnet.apa.org/fulltext/2026-89350-001.html"
     ]
   ],
   [
@@ -15,8 +15,18 @@
       "https://news.ycombinator.com/item?id=45984143"
     ],
     [
-      "Adafruit on the Death of Arduino",
+      "The Death of Arduino?",
       "https://www.linkedin.com/posts/adafruit_opensource-privacy-techpolicy-activity-7396903362237054976-r14H"
+    ]
+  ],
+  [
+    [
+      "2025-11-19, 19:42:38",
+      "https://news.ycombinator.com/item?id=45984112"
+    ],
+    [
+      "Measuring Political Bias in Claude",
+      "https://www.anthropic.com/news/political-even-handedness"
     ]
   ],
   [
@@ -111,12 +121,12 @@
   ],
   [
     [
-      "2025-11-19, 16:40:24",
-      "https://news.ycombinator.com/item?id=45981666"
+      "2025-11-19, 17:14:51",
+      "https://news.ycombinator.com/item?id=45982073"
     ],
     [
-      "Adventures in upgrading Proxmox",
-      "https://blog.vasi.li/adventures-in-upgrading-proxmox/"
+      "Meta Segment Anything Model 3",
+      "https://ai.meta.com/sam3/"
     ]
   ],
   [
@@ -141,22 +151,22 @@
   ],
   [
     [
-      "2025-11-19, 13:28:40",
-      "https://news.ycombinator.com/item?id=45979297"
-    ],
-    [
-      "Your smartphone, their rules: App stores enable corporate-government censorship",
-      "https://www.aclu.org/news/free-speech/app-store-oligopoly"
-    ]
-  ],
-  [
-    [
       "2025-11-19, 13:20:42",
       "https://news.ycombinator.com/item?id=45979232"
     ],
     [
       "The peaceful transfer of power in open source projects",
       "https://shkspr.mobi/blog/2025/11/the-peaceful-transfer-of-power-in-open-source-projects/"
+    ]
+  ],
+  [
+    [
+      "2025-11-19, 13:16:23",
+      "https://news.ycombinator.com/item?id=45979190"
+    ],
+    [
+      "Larry Summers resigns from OpenAI board",
+      "https://www.cnbc.com/2025/11/19/larry-summers-epstein-openai.html"
     ]
   ],
   [
@@ -257,16 +267,6 @@
     [
       "Reproducible C++ builds by logging Git hashes",
       "https://jgarby.uk/posts/git_repr/"
-    ]
-  ],
-  [
-    [
-      "2025-11-13, 13:09:37",
-      "https://news.ycombinator.com/item?id=45914490"
-    ],
-    [
-      "Perfecting Baseline",
-      "https://piccalil.li/blog/perfecting-baseline/"
     ]
   ],
   [
