@@ -15,6 +15,7 @@
 * [2025-11-19, 17:31:32](https://news.ycombinator.com/item?id=45982262) - [A Chinese firm bought an insurer for CIA agents](https://www.bbc.com/news/articles/c4g311jn1m9o)
 * [2025-11-19, 17:22:46](https://news.ycombinator.com/item?id=45982162) - [Static Web Hosting on the Intel N150: FreeBSD, SmartOS, NetBSD, OpenBSD and Linu](https://it-notes.dragas.net/2025/11/19/static-web-hosting-intel-n150-freebsd-smartos-netbsd-openbsd-linux/)
 * [2025-11-19, 17:20:12](https://news.ycombinator.com/item?id=45982128) - [LLMs are bullshitters. But that doesn't mean they're not useful](https://blog.kagi.com/llms)
+* [2025-11-19, 16:54:06](https://news.ycombinator.com/item?id=45981825) - [The \"Learned Helplessness\" of AI](https://himanshusinghbisht.substack.com/p/the-learned-helplessness-of-ai)
 * [2025-11-19, 16:49:08](https://news.ycombinator.com/item?id=45981760) - [Questions for Cloudflare](https://entropicthoughts.com/questions-for-cloudflare)
 * [2025-11-19, 16:40:24](https://news.ycombinator.com/item?id=45981666) - [Adventures in Upgrading Proxmox](https://blog.vasi.li/adventures-in-upgrading-proxmox/)
 * [2025-11-19, 16:36:35](https://news.ycombinator.com/item?id=45981626) - [Build vs. Buy: What This Week's Outages Should Teach You](https://www.toddhgardner.com/blog/build-vs-buy-outages)
