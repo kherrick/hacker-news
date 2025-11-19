@@ -21,32 +21,12 @@
   ],
   [
     [
-      "2025-11-19, 14:41:30",
-      "https://news.ycombinator.com/item?id=45980117"
-    ],
-    [
-      "Europe is scaling back its landmark privacy and AI laws",
-      "https://www.theverge.com/news/823750/european-union-ai-act-gdpr-changes"
-    ]
-  ],
-  [
-    [
       "2025-11-19, 14:40:38",
       "https://news.ycombinator.com/item?id=45980106"
     ],
     [
       "How to Stay Sane in a World That Rewards Insanity",
       "https://www.joanwestenberg.com/p/how-to-stay-sane-in-a-world-that-rewards-insanity"
-    ]
-  ],
-  [
-    [
-      "2025-11-19, 14:35:17",
-      "https://news.ycombinator.com/item?id=45980005"
-    ],
-    [
-      "Proxmox Virtual Environment 9.1 available",
-      "https://www.proxmox.com/en/about/company-details/press-releases/proxmox-virtual-environment-9-1"
     ]
   ],
   [
@@ -117,6 +97,16 @@
     [
       "I just want working RCS messaging",
       "https://wt.gd/i-just-want-my-rcs-messaging-to-work"
+    ]
+  ],
+  [
+    [
+      "2025-11-19, 01:18:02",
+      "https://news.ycombinator.com/item?id=45974681"
+    ],
+    [
+      "Strace-macOS: A clone of the strace command for macOS",
+      "https://github.com/Mic92/strace-macos"
     ]
   ],
   [
@@ -221,12 +211,32 @@
   ],
   [
     [
+      "2025-11-18, 06:06:52",
+      "https://news.ycombinator.com/item?id=45961886"
+    ],
+    [
+      "Google boss says AI investment boom has 'elements of irrationality'",
+      "https://www.bbc.com/news/articles/cwy7vrd8k4eo"
+    ]
+  ],
+  [
+    [
       "2025-11-15, 00:36:51",
       "https://news.ycombinator.com/item?id=45933932"
     ],
     [
       "I wrote a Pong game in a 512-byte boot sector",
       "https://akshatjoshi.com/i-wrote-a-pong-game-in-a-512-byte-boot-sector/"
+    ]
+  ],
+  [
+    [
+      "2025-11-14, 19:35:56",
+      "https://news.ycombinator.com/item?id=45931113"
+    ],
+    [
+      "A Rigorous Approach to the Algorithmic Composition of Iannis Xenakis(2009) [pdf]",
+      "https://monoskop.org/images/3/38/Hoffmann_Peter_Music_Out_of_Nothing_A_Rigorous_Approach_to_Algorithmic_Composition_by_Iannis_Xenakis_2009.pdf"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Itiner-e: A high-resolution dataset of roads of the Roman Empire",
       "https://www.nature.com/articles/s41597-025-06140-z"
-    ]
-  ],
-  [
-    [
-      "2025-11-11, 18:21:32",
-      "https://news.ycombinator.com/item?id=45890898"
-    ],
-    [
-      "Gymkhana's 1978 Subaru Brat with 9,500-RPM Redline, Active Aero Is One Super Ute",
-      "https://www.thedrive.com/news/gymkhanas-1978-subaru-brat-with-9500-rpm-redline-and-active-aero-is-one-super-ute"
     ]
   ]
 ]
