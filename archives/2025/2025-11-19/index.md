@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-11-19](index.md)
 
+* [2025-11-19, 16:49:08](https://news.ycombinator.com/item?id=45981760) - [Questions for Cloudflare](https://entropicthoughts.com/questions-for-cloudflare)
+* [2025-11-19, 16:40:24](https://news.ycombinator.com/item?id=45981666) - [Adventures in Upgrading Proxmox](https://blog.vasi.li/adventures-in-upgrading-proxmox/)
+* [2025-11-19, 16:36:35](https://news.ycombinator.com/item?id=45981626) - [Build vs. Buy: What This Week's Outages Should Teach You](https://www.toddhgardner.com/blog/build-vs-buy-outages)
 * [2025-11-19, 16:35:35](https://news.ycombinator.com/item?id=45981608) - [Outdated Samsung handset linked to fatal emergency call failure in Australia](https://www.theregister.com/2025/11/18/samsung_emergency_call_failure/)
 * [2025-11-19, 15:46:30](https://news.ycombinator.com/item?id=45981009) - [Emoji Evidence Errors Don't Undo a Murder Conviction–People vs. Harmon](https://blog.ericgoldman.org/archives/2025/11/emoji-evidence-errors-dont-undo-a-murder-conviction-people-v-harmon.htm)
 * [2025-11-19, 15:28:04](https://news.ycombinator.com/item?id=45980760) - [Launch HN: Mosaic (YC W25) – Agentic Video Editing](https://mosaic.so)
@@ -19,6 +22,7 @@
 * [2025-11-19, 12:31:54](https://news.ycombinator.com/item?id=45978813) - [How do the pros get someone to leave a cult?](https://www.theguardian.com/science/2025/nov/19/how-to-leave-a-cult-experts-intervention)
 * [2025-11-19, 12:02:49](https://news.ycombinator.com/item?id=45978545) - [Pimped Amiga 500](https://www.pimyretro.org/pimped-amiga-500/)
 * [2025-11-19, 12:02:15](https://news.ycombinator.com/item?id=45978541) - [The Cities Skylines Paradox: how the sequel stumbled](https://selix.net/notes/the-cities-skyline-paradox)
+* [2025-11-19, 11:45:51](https://news.ycombinator.com/item?id=45978423) - [Thunderbird Adds Native Microsoft Exchange Email Support](https://blog.thunderbird.net/2025/11/thunderbird-adds-native-microsoft-exchange-email-support/)
 * [2025-11-19, 11:18:59](https://news.ycombinator.com/item?id=45978245) - [Learning to Boot from PXE](https://blog.imraniqbal.org/learning-to-boot-from-pxe/)
 * [2025-11-19, 10:25:25](https://news.ycombinator.com/item?id=45977900) - [What Killed Perl?](https://entropicthoughts.com/what-killed-perl)
 * [2025-11-19, 10:06:09](https://news.ycombinator.com/item?id=45977782) - [Quantum physicists have shrunk and \"de-censored\" DeepSeek R1](https://www.technologyreview.com/2025/11/19/1128119/quantum-physicists-compress-and-deconsor-deepseekr1/)
