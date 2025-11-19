@@ -1,13 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-11-19, 18:27:36](https://news.ycombinator.com/item?id=45983069) - [Cypherpunks Hall of Fame](https://github.com/cypherpunkshall/cypherpunkshall.github.io)
 * [2025-11-19, 18:16:51](https://news.ycombinator.com/item?id=45982874) - [Netherlands returns control of Nexperia to Chinese owner](https://www.bloomberg.com/news/articles/2025-11-19/dutch-hand-back-control-of-chinese-owned-chipmaker-nexperia)
 * [2025-11-19, 18:13:18](https://news.ycombinator.com/item?id=45982818) - [To launch something new, you need \"social dandelions\"](https://www.actiondigest.com/p/to-launch-something-new-you-need-social-dandelions)
 * [2025-11-19, 18:01:59](https://news.ycombinator.com/item?id=45982649) - [Building more with GPT-5.1-Codex-Max](https://openai.com/index/gpt-5-1-codex-max/)
 * [2025-11-19, 17:52:52](https://news.ycombinator.com/item?id=45982526) - [Show HN: DNS Benchmark Tool – Compare and monitor resolvers](https://github.com/frankovo/dns-benchmark-tool)
+* [2025-11-19, 17:22:46](https://news.ycombinator.com/item?id=45982162) - [Static Web Hosting on the Intel N150: FreeBSD, SmartOS, NetBSD, OpenBSD and Linu](https://it-notes.dragas.net/2025/11/19/static-web-hosting-intel-n150-freebsd-smartos-netbsd-openbsd-linux/)
 * [2025-11-19, 16:40:24](https://news.ycombinator.com/item?id=45981666) - [Adventures in upgrading Proxmox](https://blog.vasi.li/adventures-in-upgrading-proxmox/)
 * [2025-11-19, 16:36:35](https://news.ycombinator.com/item?id=45981626) - [Build vs. Buy: What This Week's Outages Should Teach You](https://www.toddhgardner.com/blog/build-vs-buy-outages)
-* [2025-11-19, 16:35:35](https://news.ycombinator.com/item?id=45981608) - [Outdated Samsung handset linked to fatal emergency call failure in Australia](https://www.theregister.com/2025/11/18/samsung_emergency_call_failure/)
 * [2025-11-19, 15:46:30](https://news.ycombinator.com/item?id=45981009) - [Emoji evidence errors don’t undo a murder conviction](https://blog.ericgoldman.org/archives/2025/11/emoji-evidence-errors-dont-undo-a-murder-conviction-people-v-harmon.htm)
 * [2025-11-19, 15:28:04](https://news.ycombinator.com/item?id=45980760) - [Launch HN: Mosaic (YC W25) – Agentic Video Editing](https://mosaic.so)
 * [2025-11-19, 15:24:52](https://news.ycombinator.com/item?id=45980714) - [Show HN: Vibe Prolog](https://github.com/nlothian/Vibe-Prolog)
@@ -22,6 +21,7 @@
 * [2025-11-19, 01:41:33](https://news.ycombinator.com/item?id=45974869) - [I just want working RCS messaging](https://wt.gd/i-just-want-my-rcs-messaging-to-work)
 * [2025-11-19, 00:05:28](https://news.ycombinator.com/item?id=45974012) - [Show HN: I made a down detector for down detector](https://downdetectorsdowndetector.com)
 * [2025-11-18, 17:24:27](https://news.ycombinator.com/item?id=45969250) - [Pebble, Rebble, and a path forward](https://ericmigi.com/blog/pebble-rebble-and-a-path-forward/)
+* [2025-11-18, 15:09:38](https://news.ycombinator.com/item?id=45967211) - [Gemini 3](https://blog.google/products/gemini/gemini-3/)
 * [2025-11-18, 15:00:36](https://news.ycombinator.com/item?id=45967079) - [Show HN: Browser-based interactive 3D Three-Body problem simulator](https://trisolarchaos.com/?pr=O_8(0.6)&n=3&s=5.0&so=0.00&im=rk4&dt=1.00e-4&rt=1.0e-6&at=1.0e-8&bs=0.15&sf=0&sv=0&cm=free&kt=1&st=1&tl=1500&cp=2.5208,1.5125,2.5208&ct=0.0000,0.0000,0.1670)
 * [2025-11-15, 05:32:38](https://news.ycombinator.com/item?id=45935294) - [How two photographers transformed RAW photo support on Mac](https://petapixel.com/2025/11/14/how-two-photographers-transformed-raw-photo-support-on-mac/)
 * [2025-11-14, 09:45:36](https://news.ycombinator.com/item?id=45925394) - [Reproducible C++ builds by logging Git hashes](https://jgarby.uk/posts/git_repr/)
@@ -29,7 +29,7 @@
 * [2025-11-13, 08:50:49](https://news.ycombinator.com/item?id=45912457) - [The Future of Programming (2013) [video]](https://www.youtube.com/watch?v=8pTEmbeENF4)
 * [2025-11-12, 18:06:02](https://news.ycombinator.com/item?id=45903485) - [Control LLM Spend and Access with any-LLM-gateway](https://blog.mozilla.ai/control-llm-spend-and-access-with-any-llm-gateway/)
 * [2025-11-11, 21:18:33](https://news.ycombinator.com/item?id=45893007) - [Ultima VII Revisited](https://github.com/ViridianGames/U7Revisited)
-* [2025-11-11, 19:01:00](https://news.ycombinator.com/item?id=45891346) - [Itiner-e: A high-resolution dataset of roads of the Roman Empire](https://www.nature.com/articles/s41597-025-06140-z)
+* [2025-11-11, 18:21:32](https://news.ycombinator.com/item?id=45890898) - [Gymkhana's 1978 Subaru Brat with 9,500-RPM Redline, Active Aero](https://www.thedrive.com/news/gymkhanas-1978-subaru-brat-with-9500-rpm-redline-and-active-aero-is-one-super-ute)
 
 ## [Archives](archives/index.md)
 
