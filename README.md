@@ -2,10 +2,10 @@
 
 * [2025-11-19, 02:02:10](https://news.ycombinator.com/item?id=45975006) - [DOE gives Microsoft partner $1B loan to restart Three Mile Island reactor](https://techcrunch.com/2025/11/18/trump-doe-gives-microsoft-partner-1b-loan-to-restart-three-mile-island-reactor/)
 * [2025-11-19, 01:41:33](https://news.ycombinator.com/item?id=45974869) - [I just want working RCS messaging](https://wt.gd/i-just-want-my-rcs-messaging-to-work)
+* [2025-11-19, 00:05:28](https://news.ycombinator.com/item?id=45974012) - [I made a down detector for down detector](https://downdetectorsdowndetector.com)
 * [2025-11-18, 23:59:14](https://news.ycombinator.com/item?id=45973955) - [Lucent 7 R/E 5ESS Telephone Switch Rescue (2024)](http://kev009.com/wp/2024/07/Lucent-5ESS-Rescue/)
 * [2025-11-18, 23:31:22](https://news.ycombinator.com/item?id=45973709) - [Cloudflare outage on November 18, 2025 post mortem](https://blog.cloudflare.com/18-november-2025-outage/)
 * [2025-11-18, 23:13:35](https://news.ycombinator.com/item?id=45973573) - [Rebecca Heineman – from homelessness to porting Doom (2022)](https://corecursive.com/doomed-to-fail-with-burger-becky/)
-* [2025-11-18, 22:42:45](https://news.ycombinator.com/item?id=45973261) - [Monotype font licencing shake-down](https://www.insanityworks.org/randomtangent/2025/11/14/monotype-font-licencing-shake-down)
 * [2025-11-18, 21:39:18](https://news.ycombinator.com/item?id=45972519) - [Blender 5.0](https://www.blender.org/download/releases/5-0/)
 * [2025-11-18, 21:29:37](https://news.ycombinator.com/item?id=45972390) - [Bild AI (YC W25) is hiring – Make housing affordable](https://www.ycombinator.com/companies/bild-ai/jobs/m2ilR5L-founding-engineer-applied-ai)
 * [2025-11-18, 20:40:46](https://news.ycombinator.com/item?id=45971726) - [GitHub: Git operation failures](https://www.githubstatus.com/incidents/5q7nmlxz30sk)
