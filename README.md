@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-11-19, 16:35:35](https://news.ycombinator.com/item?id=45981608) - [Outdated Samsung handset linked to fatal emergency call failure in Australia](https://www.theregister.com/2025/11/18/samsung_emergency_call_failure/)
 * [2025-11-19, 15:46:30](https://news.ycombinator.com/item?id=45981009) - [Emoji Evidence Errors Don't Undo a Murder Conviction–People vs. Harmon](https://blog.ericgoldman.org/archives/2025/11/emoji-evidence-errors-dont-undo-a-murder-conviction-people-v-harmon.htm)
 * [2025-11-19, 15:28:04](https://news.ycombinator.com/item?id=45980760) - [Launch HN: Mosaic (YC W25) – Agentic Video Editing](https://mosaic.so)
 * [2025-11-19, 14:40:38](https://news.ycombinator.com/item?id=45980106) - [How to Stay Sane in a World That Rewards Insanity](https://www.joanwestenberg.com/p/how-to-stay-sane-in-a-world-that-rewards-insanity)
@@ -23,7 +24,6 @@
 * [2025-11-18, 11:12:20](https://news.ycombinator.com/item?id=45963670) - [Gemini 3 Pro Model Card [pdf]](https://storage.googleapis.com/deepmind-media/Model-Cards/Gemini-3-Pro-Model-Card.pdf)
 * [2025-11-18, 06:06:52](https://news.ycombinator.com/item?id=45961886) - [Google boss says AI investment boom has 'elements of irrationality'](https://www.bbc.com/news/articles/cwy7vrd8k4eo)
 * [2025-11-15, 00:36:51](https://news.ycombinator.com/item?id=45933932) - [I wrote a Pong game in a 512-byte boot sector](https://akshatjoshi.com/i-wrote-a-pong-game-in-a-512-byte-boot-sector/)
-* [2025-11-14, 19:35:56](https://news.ycombinator.com/item?id=45931113) - [A Rigorous Approach to the Algorithmic Composition of Iannis Xenakis(2009) [pdf]](https://monoskop.org/images/3/38/Hoffmann_Peter_Music_Out_of_Nothing_A_Rigorous_Approach_to_Algorithmic_Composition_by_Iannis_Xenakis_2009.pdf)
 * [2025-11-13, 21:02:40](https://news.ycombinator.com/item?id=45920490) - [Programming the Commodore 64 with .NET](https://retroc64.github.io/)
 * [2025-11-13, 11:58:43](https://news.ycombinator.com/item?id=45913870) - [Bluetooth Channel Sounding: The Next Leap in Bluetooth Innovation](https://www.embedded.com/bluetooth-channel-sounding-the-next-leap-in-bluetooth-innovation?_gl=1*8e3cij*_gcl_au*MzQwNzM2NDAxLjE3NjMwMzUwNzA.*_ga*NDc3NjU3MDk3LjE3NjMwMzUwNzA.*_ga_ZLV02RYCZ8*czE3NjMwMzUwNjkkbzEkZzAkdDE3NjMwMzUwNjkkajYwJGwwJGgw)
 * [2025-11-13, 08:50:49](https://news.ycombinator.com/item?id=45912457) - [The Future of Programming (2013) [video]](https://www.youtube.com/watch?v=8pTEmbeENF4)
