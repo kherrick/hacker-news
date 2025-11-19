@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-11-19](index.md)
 
+* [2025-11-19, 14:40:38](https://news.ycombinator.com/item?id=45980106) - [How to Stay Sane in a World That Rewards Insanity](https://www.joanwestenberg.com/p/how-to-stay-sane-in-a-world-that-rewards-insanity)
 * [2025-11-19, 14:35:17](https://news.ycombinator.com/item?id=45980005) - [Proxmox Virtual Environment 9.1 available](https://www.proxmox.com/en/about/company-details/press-releases/proxmox-virtual-environment-9-1)
 * [2025-11-19, 14:05:21](https://news.ycombinator.com/item?id=45979637) - [What happens when even college students can't do math anymore?](https://www.theatlantic.com/ideas/2025/11/math-decline-ucsd/684973/)
 * [2025-11-19, 13:54:40](https://news.ycombinator.com/item?id=45979527) - [Europe's cookie nightmare is crumbling. EC wants preference at browser level](https://www.theverge.com/news/823788/europe-cookie-prompt-browser-changes-proposal)
@@ -15,8 +16,10 @@
 * [2025-11-19, 12:02:49](https://news.ycombinator.com/item?id=45978545) - [Pimped Amiga 500](https://www.pimyretro.org/pimped-amiga-500/)
 * [2025-11-19, 12:02:15](https://news.ycombinator.com/item?id=45978541) - [The Cities Skylines Paradox: how the sequel stumbled](https://selix.net/notes/the-cities-skyline-paradox)
 * [2025-11-19, 11:18:59](https://news.ycombinator.com/item?id=45978245) - [Learning to Boot from PXE](https://blog.imraniqbal.org/learning-to-boot-from-pxe/)
+* [2025-11-19, 10:25:25](https://news.ycombinator.com/item?id=45977900) - [What Killed Perl?](https://entropicthoughts.com/what-killed-perl)
 * [2025-11-19, 10:06:09](https://news.ycombinator.com/item?id=45977782) - [Quantum physicists have shrunk and \"de-censored\" DeepSeek R1](https://www.technologyreview.com/2025/11/19/1128119/quantum-physicists-compress-and-deconsor-deepseekr1/)
 * [2025-11-19, 10:00:05](https://news.ycombinator.com/item?id=45977744) - [The $1k AWS Mistake](https://www.geocod.io/code-and-coordinates/2025-11-18-the-1000-aws-mistake/)
+* [2025-11-19, 09:40:13](https://news.ycombinator.com/item?id=45977629) - [I made a downdetector for downdetector's downdetector's downdetector](https://downdetectorsdowndetectorsdowndetectorsdowndetector.com)
 * [2025-11-19, 09:27:17](https://news.ycombinator.com/item?id=45977542) - [Multimodal Diffusion Language Models for Thinking-Aware Editing and Generation](https://github.com/tyfeld/MMaDA-Parallel)
 * [2025-11-19, 09:15:38](https://news.ycombinator.com/item?id=45977457) - [Ultra-processed food linked to harm in every major human organ, study finds](https://www.theguardian.com/society/2025/nov/18/ultra-processed-food-linked-to-harm-in-every-major-human-organ-study-finds)
 * [2025-11-19, 07:36:25](https://news.ycombinator.com/item?id=45976832) - [Exploring the Limits of Large Language Models as Quant Traders](https://nof1.ai/blog/TechPost1)
