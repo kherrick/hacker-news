@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-11-19, 21:16:25](https://news.ycombinator.com/item?id=45985318) - [Labor Department Won't Publish October Unemployment Rate](https://www.wsj.com/economy/bls-to-publish-november-jobs-data-on-december-16-b9baab5c)
 * [2025-11-19, 20:55:30](https://news.ycombinator.com/item?id=45985036) - [Researchers discover security vulnerability in WhatsApp](https://www.univie.ac.at/en/news/detail/forscherinnen-entdecken-grosse-sicherheitsluecke-in-whatsapp)
 * [2025-11-19, 20:51:33](https://news.ycombinator.com/item?id=45984970) - [Microsoft AI CEO pushes back against critics after recent Windows AI backlash](https://www.windowscentral.com/microsoft/windows-11/microsoft-ai-ceo-pushes-back-against-critics-after-recent-windows-ai-backlash-the-fact-that-people-are-unimpressed-is-mindblowing-to-me)
 * [2025-11-19, 20:37:45](https://news.ycombinator.com/item?id=45984789) - [Detection, Decoding of \"Power Track\" Predictive Signaling in Equity Market Data](https://github.com/TheGameStopsNow/power-tracks-research)
@@ -17,6 +16,7 @@
 * [2025-11-19, 17:14:51](https://news.ycombinator.com/item?id=45982073) - [Meta Segment Anything Model 3](https://ai.meta.com/sam3/)
 * [2025-11-19, 15:28:04](https://news.ycombinator.com/item?id=45980760) - [Launch HN: Mosaic (YC W25) – Agentic Video Editing](https://mosaic.so)
 * [2025-11-19, 14:41:30](https://news.ycombinator.com/item?id=45980117) - [Europe is scaling back GDPR and relaxing AI laws](https://www.theverge.com/news/823750/european-union-ai-act-gdpr-changes)
+* [2025-11-19, 13:20:42](https://news.ycombinator.com/item?id=45979232) - [The peaceful transfer of power in open source projects](https://shkspr.mobi/blog/2025/11/the-peaceful-transfer-of-power-in-open-source-projects/)
 * [2025-11-19, 13:16:23](https://news.ycombinator.com/item?id=45979190) - [Larry Summers resigns from OpenAI board](https://www.cnbc.com/2025/11/19/larry-summers-epstein-openai.html)
 * [2025-11-19, 11:45:51](https://news.ycombinator.com/item?id=45978423) - [Thunderbird adds native Microsoft Exchange email support](https://blog.thunderbird.net/2025/11/thunderbird-adds-native-microsoft-exchange-email-support/)
 * [2025-11-19, 10:25:25](https://news.ycombinator.com/item?id=45977900) - [What Killed Perl?](https://entropicthoughts.com/what-killed-perl)
