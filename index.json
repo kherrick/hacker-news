@@ -1,12 +1,52 @@
 [
   [
     [
+      "2025-11-19, 19:51:08",
+      "https://news.ycombinator.com/item?id=45984219"
+    ],
+    [
+      "The death of Arduino?",
+      "https://news.ycombinator.com/item?id=45984219"
+    ]
+  ],
+  [
+    [
+      "2025-11-19, 19:44:46",
+      "https://news.ycombinator.com/item?id=45984143"
+    ],
+    [
+      "Adafruit on the Death of Arduino",
+      "https://www.linkedin.com/posts/adafruit_opensource-privacy-techpolicy-activity-7396903362237054976-r14H"
+    ]
+  ],
+  [
+    [
+      "2025-11-19, 19:39:09",
+      "https://news.ycombinator.com/item?id=45984072"
+    ],
+    [
+      "Pozsar's Bretton Woods III: Sometimes Money Can't Solve the Problem",
+      "https://philippdubach.com/2025/10/25/pozsars-bretton-woods-iii-the-framework-1/2/"
+    ]
+  ],
+  [
+    [
       "2025-11-19, 19:13:06",
       "https://news.ycombinator.com/item?id=45983746"
     ],
     [
       "Gov. Abbott's office redacts pages of emails about Elon Musk",
       "https://www.kut.org/politics/2025-11-19/texas-governor-abbott-elon-musk-emails-redacted"
+    ]
+  ],
+  [
+    [
+      "2025-11-19, 19:09:27",
+      "https://news.ycombinator.com/item?id=45983700"
+    ],
+    [
+      "What AI Is Really For",
+      "https://www.chrbutler.com/what-ai-is-really-for"
     ]
   ],
   [
@@ -71,16 +111,6 @@
   ],
   [
     [
-      "2025-11-19, 16:54:06",
-      "https://news.ycombinator.com/item?id=45981825"
-    ],
-    [
-      "The \"Learned Helplessness\" of AI",
-      "https://himanshusinghbisht.substack.com/p/the-learned-helplessness-of-ai"
-    ]
-  ],
-  [
-    [
       "2025-11-19, 16:40:24",
       "https://news.ycombinator.com/item?id=45981666"
     ],
@@ -91,32 +121,12 @@
   ],
   [
     [
-      "2025-11-19, 16:36:35",
-      "https://news.ycombinator.com/item?id=45981626"
-    ],
-    [
-      "Build vs. Buy: What This Week's Outages Should Teach You",
-      "https://www.toddhgardner.com/blog/build-vs-buy-outages"
-    ]
-  ],
-  [
-    [
       "2025-11-19, 15:28:04",
       "https://news.ycombinator.com/item?id=45980760"
     ],
     [
       "Launch HN: Mosaic (YC W25) – Agentic Video Editing",
       "https://mosaic.so"
-    ]
-  ],
-  [
-    [
-      "2025-11-19, 15:24:52",
-      "https://news.ycombinator.com/item?id=45980714"
-    ],
-    [
-      "Show HN: Vibe Prolog",
-      "https://github.com/nlothian/Vibe-Prolog"
     ]
   ],
   [
@@ -247,16 +257,6 @@
     [
       "Reproducible C++ builds by logging Git hashes",
       "https://jgarby.uk/posts/git_repr/"
-    ]
-  ],
-  [
-    [
-      "2025-11-13, 21:02:40",
-      "https://news.ycombinator.com/item?id=45920490"
-    ],
-    [
-      "Programming the Commodore 64 with .NET",
-      "https://retroc64.github.io/"
     ]
   ],
   [
