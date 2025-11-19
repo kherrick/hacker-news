@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-11-18, 23:59:14",
+      "https://news.ycombinator.com/item?id=45973955"
+    ],
+    [
+      "Lucent 7 R/E 5ESS Telephone Switch Rescue",
+      "http://kev009.com/wp/2024/07/Lucent-5ESS-Rescue/"
+    ]
+  ],
+  [
+    [
       "2025-11-18, 23:31:22",
       "https://news.ycombinator.com/item?id=45973709"
     ],
@@ -11,12 +21,12 @@
   ],
   [
     [
-      "2025-11-18, 23:23:04",
-      "https://news.ycombinator.com/item?id=45973648"
+      "2025-11-18, 23:13:35",
+      "https://news.ycombinator.com/item?id=45973573"
     ],
     [
-      "Ford can't find mechanics for $120K: It takes math to learn a trade",
-      "https://www.joannejacobs.com/post/ford-can-t-find-mechanics-for-120k-it-takes-math-to-learn-a-trade"
+      "Rebecca Heineman – from homelessness to porting Doom",
+      "https://corecursive.com/doomed-to-fail-with-burger-becky/"
     ]
   ],
   [
@@ -211,36 +221,6 @@
   ],
   [
     [
-      "2025-11-18, 11:01:21",
-      "https://news.ycombinator.com/item?id=45963592"
-    ],
-    [
-      "A 'small' vanilla Kubernetes install on NixOS",
-      "https://stephank.nl/p/2025-11-17-a-small-vanilla-kubernetes-install-on-nixos.html"
-    ]
-  ],
-  [
-    [
-      "2025-11-18, 10:59:54",
-      "https://news.ycombinator.com/item?id=45963583"
-    ],
-    [
-      "The Miracle of Wörgl",
-      "https://scf.green/story-of-worgl-and-others/"
-    ]
-  ],
-  [
-    [
-      "2025-11-18, 08:18:35",
-      "https://news.ycombinator.com/item?id=45962654"
-    ],
-    [
-      "How Quake.exe got its TCP/IP stack",
-      "https://fabiensanglard.net/quake_chunnel/index.html"
-    ]
-  ],
-  [
-    [
       "2025-11-18, 07:14:03",
       "https://news.ycombinator.com/item?id=45962266"
     ],
@@ -281,12 +261,32 @@
   ],
   [
     [
+      "2025-11-14, 01:24:41",
+      "https://news.ycombinator.com/item?id=45922823"
+    ],
+    [
+      "Microsoft-backed Veir is bringing superconductors to data centers",
+      "https://techcrunch.com/2025/11/12/microsoft-backed-veir-targets-data-centers-for-its-megawatt-class-superconductors/"
+    ]
+  ],
+  [
+    [
       "2025-11-13, 20:13:44",
       "https://news.ycombinator.com/item?id=45919926"
     ],
     [
       "When 1+1+1 Equals 1",
       "https://mathenchant.wordpress.com/2024/12/19/when-111-equals-1/"
+    ]
+  ],
+  [
+    [
+      "2025-11-12, 23:26:12",
+      "https://news.ycombinator.com/item?id=45908365"
+    ],
+    [
+      "Silverbullet: Personal productivity platform built with Markdown and Lua",
+      "https://github.com/silverbulletmd/silverbullet"
     ]
   ],
   [
