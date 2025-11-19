@@ -7,6 +7,7 @@
 * [2025-11-19, 22:08:06](https://news.ycombinator.com/item?id=45985978) - [Tailscale Down](https://status.tailscale.com/incidents/01KAF1H8V7EGFKVG5KGZBB2RJC)
 * [2025-11-19, 22:00:28](https://news.ycombinator.com/item?id=45985890) - [The Patent Office Is About to Make Bad Patents Untouchable](https://www.eff.org/deeplinks/2025/11/patent-office-about-make-bad-patents-untouchable)
 * [2025-11-19, 21:58:47](https://news.ycombinator.com/item?id=45985867) - [It's your fault my laptop knows where I am](https://www.amoses.dev/blog/wifi-location/)
+* [2025-11-19, 21:53:24](https://news.ycombinator.com/item?id=45985799) - [Roblox Requires Age Checks for Communication, Ushering in New Safety Standard](https://corp.roblox.com/newsroom/2025/11/roblox-requires-age-checks-limits-minor-and-adult-chat)
 * [2025-11-19, 21:30:02](https://news.ycombinator.com/item?id=45985506) - [Screw it, I'm installing Linux](https://www.theverge.com/tech/823337/switching-linux-gaming-desktop-cachyos)
 * [2025-11-19, 21:16:25](https://news.ycombinator.com/item?id=45985318) - [Labor Department Won't Publish October Unemployment Rate](https://www.wsj.com/economy/bls-to-publish-november-jobs-data-on-december-16-b9baab5c)
 * [2025-11-19, 21:07:05](https://news.ycombinator.com/item?id=45985196) - [How Slide Rules Work](https://amenzwa.github.io/stem/ComputingHistory/HowSlideRulesWork/)
