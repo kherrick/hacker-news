@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-11-19](index.md)
 
+* [2025-11-19, 21:58:47](https://news.ycombinator.com/item?id=45985867) - [It's your fault my laptop knows where I am](https://www.amoses.dev/blog/wifi-location/)
 * [2025-11-19, 21:30:02](https://news.ycombinator.com/item?id=45985506) - [Screw it, I'm installing Linux](https://www.theverge.com/tech/823337/switching-linux-gaming-desktop-cachyos)
 * [2025-11-19, 21:16:25](https://news.ycombinator.com/item?id=45985318) - [Labor Department Won't Publish October Unemployment Rate](https://www.wsj.com/economy/bls-to-publish-november-jobs-data-on-december-16-b9baab5c)
 * [2025-11-19, 20:55:30](https://news.ycombinator.com/item?id=45985036) - [Researchers discover security vulnerability in WhatsApp](https://www.univie.ac.at/en/news/detail/forscherinnen-entdecken-grosse-sicherheitsluecke-in-whatsapp)
@@ -11,7 +12,9 @@
 * [2025-11-19, 20:37:45](https://news.ycombinator.com/item?id=45984789) - [Detection, Decoding of \"Power Track\" Predictive Signaling in Equity Market Data](https://github.com/TheGameStopsNow/power-tracks-research)
 * [2025-11-19, 20:26:43](https://news.ycombinator.com/item?id=45984659) - [Loose Wire Leads to Blackout, Contact with Francis Scott Key Bridge](https://www.ntsb.gov:443/news/press-releases/Pages/NR20251118.aspx)
 * [2025-11-19, 20:24:09](https://news.ycombinator.com/item?id=45984630) - [View Interstellar Comet 3I/Atlas Through NASA's Multiple Lenses](https://science.nasa.gov/solar-system/view-interstellar-comet-3i-atlas-through-nasas-multiple-lenses/)
+* [2025-11-19, 20:23:47](https://news.ycombinator.com/item?id=45984623) - [Racing karts on a Rust GPU kernel driver](https://www.collabora.com/news-and-blog/news-and-events/racing-karts-on-a-rust-gpu-kernel-driver.html)
 * [2025-11-19, 20:01:02](https://news.ycombinator.com/item?id=45984353) - [Cognitive and Mental Health Correlates of Short-Form Video Use](https://psycnet.apa.org/fulltext/2026-89350-001.html)
+* [2025-11-19, 19:59:32](https://news.ycombinator.com/item?id=45984333) - [The Subversive Hyperlink](https://blog.jim-nielsen.com/2024/the-subversive-hyperlink/)
 * [2025-11-19, 19:51:08](https://news.ycombinator.com/item?id=45984219) - [The death of Arduino?](https://news.ycombinator.com/item?id=45984219)
 * [2025-11-19, 19:44:46](https://news.ycombinator.com/item?id=45984143) - [Adafruit on the Death of Arduino](https://www.linkedin.com/posts/adafruit_opensource-privacy-techpolicy-activity-7396903362237054976-r14H)
 * [2025-11-19, 19:42:38](https://news.ycombinator.com/item?id=45984112) - [Measuring Political Bias in Claude](https://www.anthropic.com/news/political-even-handedness)
