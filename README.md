@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-11-19, 10:06:09](https://news.ycombinator.com/item?id=45977782) - [Quantum physicists have shrunk and \"de-censored\" DeepSeek R1](https://www.technologyreview.com/2025/11/19/1128119/quantum-physicists-compress-and-deconsor-deepseekr1/)
 * [2025-11-19, 10:00:05](https://news.ycombinator.com/item?id=45977744) - [The $1k AWS Mistake](https://www.geocod.io/code-and-coordinates/2025-11-18-the-1000-aws-mistake/)
 * [2025-11-19, 09:27:17](https://news.ycombinator.com/item?id=45977542) - [Multimodal Diffusion Language Models for Thinking-Aware Editing and Generation](https://github.com/tyfeld/MMaDA-Parallel)
 * [2025-11-19, 07:36:25](https://news.ycombinator.com/item?id=45976832) - [Exploring the Limits of Large Language Models as Quant Traders](https://nof1.ai/blog/TechPost1)
@@ -26,6 +25,7 @@
 * [2025-11-18, 06:06:52](https://news.ycombinator.com/item?id=45961886) - [Google boss says AI investment boom has 'elements of irrationality'](https://www.bbc.com/news/articles/cwy7vrd8k4eo)
 * [2025-11-15, 00:36:51](https://news.ycombinator.com/item?id=45933932) - [I wrote a Pong game in a 512-byte boot sector](https://akshatjoshi.com/i-wrote-a-pong-game-in-a-512-byte-boot-sector/)
 * [2025-11-14, 19:35:56](https://news.ycombinator.com/item?id=45931113) - [A Rigorous Approach to the Algorithmic Composition of Iannis Xenakis(2009) [pdf]](https://monoskop.org/images/3/38/Hoffmann_Peter_Music_Out_of_Nothing_A_Rigorous_Approach_to_Algorithmic_Composition_by_Iannis_Xenakis_2009.pdf)
+* [2025-11-14, 12:31:15](https://news.ycombinator.com/item?id=45926141) - [What I learned about creativity from a man painting on a treadmill (2024)](https://quinnmaclay.com/texts/lets-paint)
 * [2025-11-13, 17:30:46](https://news.ycombinator.com/item?id=45917752) - [Even Realities Smart Glasses: G2](https://www.evenrealities.com/smart-glasses)
 * [2025-11-13, 11:58:43](https://news.ycombinator.com/item?id=45913870) - [Bluetooth Channel Sounding: The Next Leap in Bluetooth Innovation](https://www.embedded.com/bluetooth-channel-sounding-the-next-leap-in-bluetooth-innovation?_gl=1*8e3cij*_gcl_au*MzQwNzM2NDAxLjE3NjMwMzUwNzA.*_ga*NDc3NjU3MDk3LjE3NjMwMzUwNzA.*_ga_ZLV02RYCZ8*czE3NjMwMzUwNjkkbzEkZzAkdDE3NjMwMzUwNjkkajYwJGwwJGgw)
 * [2025-11-12, 11:57:23](https://news.ycombinator.com/item?id=45899074) - [Mojo-V: Secret Computation for RISC-V](https://github.com/toddmaustin/mojo-v)
