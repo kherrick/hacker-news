@@ -45,7 +45,7 @@
       "https://news.ycombinator.com/item?id=45981009"
     ],
     [
-      "Emoji Evidence Errors Don't Undo a Murder Conviction–People vs. Harmon",
+      "Emoji evidence errors don’t undo a murder conviction",
       "https://blog.ericgoldman.org/archives/2025/11/emoji-evidence-errors-dont-undo-a-murder-conviction-people-v-harmon.htm"
     ]
   ],
@@ -191,16 +191,6 @@
   ],
   [
     [
-      "2025-11-18, 16:10:34",
-      "https://news.ycombinator.com/item?id=45968121"
-    ],
-    [
-      "The code and open-source tools I used to produce a science fiction anthology",
-      "https://compellingsciencefiction.com/posts/the-code-and-open-source-tools-i-used-to-produce-a-science-fiction-anthology.html"
-    ]
-  ],
-  [
-    [
       "2025-11-18, 15:47:38",
       "https://news.ycombinator.com/item?id=45967814"
     ],
@@ -231,16 +221,6 @@
   ],
   [
     [
-      "2025-11-18, 11:35:10",
-      "https://news.ycombinator.com/item?id=45963780"
-    ],
-    [
-      "Cloudflare Global Network experiencing issues",
-      "https://www.cloudflarestatus.com/incidents/8gmgl950y3h7"
-    ]
-  ],
-  [
-    [
       "2025-11-18, 11:12:20",
       "https://news.ycombinator.com/item?id=45963670"
     ],
@@ -251,12 +231,32 @@
   ],
   [
     [
+      "2025-11-15, 05:32:38",
+      "https://news.ycombinator.com/item?id=45935294"
+    ],
+    [
+      "How two photographers transformed RAW photo support on Mac",
+      "https://petapixel.com/2025/11/14/how-two-photographers-transformed-raw-photo-support-on-mac/"
+    ]
+  ],
+  [
+    [
       "2025-11-15, 00:36:51",
       "https://news.ycombinator.com/item?id=45933932"
     ],
     [
       "I wrote a Pong game in a 512-byte boot sector",
       "https://akshatjoshi.com/i-wrote-a-pong-game-in-a-512-byte-boot-sector/"
+    ]
+  ],
+  [
+    [
+      "2025-11-14, 09:45:36",
+      "https://news.ycombinator.com/item?id=45925394"
+    ],
+    [
+      "Reproducible C++ builds by logging Git hashes",
+      "https://jgarby.uk/posts/git_repr/"
     ]
   ],
   [
