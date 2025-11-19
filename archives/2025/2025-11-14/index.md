@@ -15,6 +15,7 @@
 * [2025-11-14, 19:50:16](https://news.ycombinator.com/item?id=45931331) - [Show HN: Epstein Files Organized and Searchable](https://searchepsteinfiles.com/)
 * [2025-11-14, 19:46:24](https://news.ycombinator.com/item?id=45931273) - [Better pre-commit, re-engineered in Rust](https://prek.j178.dev/)
 * [2025-11-14, 19:43:15](https://news.ycombinator.com/item?id=45931224) - [An Italian Company Builds the First Known Propellantless Space-Propulsion System](https://www.satcom.digital/news/genergo-an-italian-company-builds-the-worlds-first-known-propellantless-space-propulsion-system-flight-tested-and-validated-on-orbit)
+* [2025-11-14, 19:35:56](https://news.ycombinator.com/item?id=45931113) - [A Rigorous Approach to the Algorithmic Composition of Iannis Xenakis(2009) [pdf]](https://monoskop.org/images/3/38/Hoffmann_Peter_Music_Out_of_Nothing_A_Rigorous_Approach_to_Algorithmic_Composition_by_Iannis_Xenakis_2009.pdf)
 * [2025-11-14, 19:07:45](https://news.ycombinator.com/item?id=45930659) - [Show HN: Chirp – Local Windows dictation with ParakeetV3 no executable required](https://github.com/Whamp/chirp)
 * [2025-11-14, 19:04:23](https://news.ycombinator.com/item?id=45930598) - [Structured Outputs on the Claude Developer Platform (API)](https://www.claude.com/blog/structured-outputs-on-the-claude-developer-platform)
 * [2025-11-14, 18:53:27](https://news.ycombinator.com/item?id=45930438) - [Raccoons are showing early signs of domestication](https://www.scientificamerican.com/article/raccoons-are-showing-early-signs-of-domestication/)

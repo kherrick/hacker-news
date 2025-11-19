@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-11-19](index.md)
 
+* [2025-11-19, 10:06:09](https://news.ycombinator.com/item?id=45977782) - [Quantum physicists have shrunk and \"de-censored\" DeepSeek R1](https://www.technologyreview.com/2025/11/19/1128119/quantum-physicists-compress-and-deconsor-deepseekr1/)
+* [2025-11-19, 10:00:05](https://news.ycombinator.com/item?id=45977744) - [The $1k AWS Mistake](https://www.geocod.io/code-and-coordinates/2025-11-18-the-1000-aws-mistake/)
 * [2025-11-19, 09:27:17](https://news.ycombinator.com/item?id=45977542) - [Multimodal Diffusion Language Models for Thinking-Aware Editing and Generation](https://github.com/tyfeld/MMaDA-Parallel)
 * [2025-11-19, 07:36:25](https://news.ycombinator.com/item?id=45976832) - [Exploring the Limits of Large Language Models as Quant Traders](https://nof1.ai/blog/TechPost1)
 * [2025-11-19, 07:20:33](https://news.ycombinator.com/item?id=45976734) - [What nicotine does to your brain](https://economist.com/science-and-technology/2025/09/12/what-nicotine-does-to-your-brain)
