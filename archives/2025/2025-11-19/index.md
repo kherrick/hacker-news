@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-11-19](index.md)
 
+* [2025-11-19, 14:41:30](https://news.ycombinator.com/item?id=45980117) - [Europe is scaling back its landmark privacy and AI laws](https://www.theverge.com/news/823750/european-union-ai-act-gdpr-changes)
 * [2025-11-19, 14:40:38](https://news.ycombinator.com/item?id=45980106) - [How to Stay Sane in a World That Rewards Insanity](https://www.joanwestenberg.com/p/how-to-stay-sane-in-a-world-that-rewards-insanity)
 * [2025-11-19, 14:35:17](https://news.ycombinator.com/item?id=45980005) - [Proxmox Virtual Environment 9.1 available](https://www.proxmox.com/en/about/company-details/press-releases/proxmox-virtual-environment-9-1)
 * [2025-11-19, 14:05:21](https://news.ycombinator.com/item?id=45979637) - [What happens when even college students can't do math anymore?](https://www.theatlantic.com/ideas/2025/11/math-decline-ucsd/684973/)
