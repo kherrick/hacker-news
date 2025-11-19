@@ -27,7 +27,7 @@
 * [2025-11-15, 02:55:06](https://news.ycombinator.com/item?id=45934665) - [Vortex: An extensible, state of the art columnar file format](https://github.com/vortex-data/vortex)
 * [2025-11-14, 09:45:36](https://news.ycombinator.com/item?id=45925394) - [Reproducible C++ builds by logging Git hashes](https://jgarby.uk/posts/git_repr/)
 * [2025-11-13, 08:50:49](https://news.ycombinator.com/item?id=45912457) - [The Future of Programming (2013) [video]](https://www.youtube.com/watch?v=8pTEmbeENF4)
-* [2025-11-12, 18:16:52](https://news.ycombinator.com/item?id=45903668) - [Comparing Integers and Doubles](http://databasearchitects.blogspot.com/2025/11/comparing-integers-and-doubles.html)
+* [2025-11-12, 18:47:15](https://news.ycombinator.com/item?id=45904178) - [Why CUDA translation wont unlock AMD](https://eliovp.com/why-cuda-translation-wont-unlock-amds-real-potential/)
 * [2025-11-12, 18:06:02](https://news.ycombinator.com/item?id=45903485) - [Control LLM Spend and Access with any-LLM-gateway](https://blog.mozilla.ai/control-llm-spend-and-access-with-any-llm-gateway/)
 * [2025-11-12, 17:50:54](https://news.ycombinator.com/item?id=45903273) - [How to identify a prime number without a computer](https://www.scientificamerican.com/article/how-to-identify-a-prime-number-without-a-computer/)
 

@@ -18,6 +18,7 @@
 * [2025-11-12, 19:21:09](https://news.ycombinator.com/item?id=45904860) - [Is your electric bill going up? AI is partly to blame](https://www.npr.org/2025/11/06/nx-s1-5597971/electricity-bills-utilities-ai)
 * [2025-11-12, 19:14:41](https://news.ycombinator.com/item?id=45904730) - [Looking for Hidden Gems in Scientific Literature](https://elicit.com/blog/literature-based-discovery)
 * [2025-11-12, 19:05:41](https://news.ycombinator.com/item?id=45904551) - [GPT-5.1: A smarter, more conversational ChatGPT](https://openai.com/index/gpt-5-1/)
+* [2025-11-12, 18:47:15](https://news.ycombinator.com/item?id=45904178) - [Why CUDA translation wont unlock AMD](https://eliovp.com/why-cuda-translation-wont-unlock-amds-real-potential/)
 * [2025-11-12, 18:46:40](https://news.ycombinator.com/item?id=45904161) - [Blasting Yeast with UV Light](https://chillphysicsenjoyer.substack.com/p/results-from-blasting-yeast-with)
 * [2025-11-12, 18:35:59](https://news.ycombinator.com/item?id=45903995) - [How Tube Amplifiers Work](https://robrobinette.com/How_Amps_Work.htm)
 * [2025-11-12, 18:29:18](https://news.ycombinator.com/item?id=45903888) - [Maestro Technology Sells Used SSD Drives as New](https://kozubik.com/items/MaestroTechnology/)
