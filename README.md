@@ -27,7 +27,7 @@
 * [2025-11-18, 06:06:52](https://news.ycombinator.com/item?id=45961886) - [Google boss says AI investment boom has 'elements of irrationality'](https://www.bbc.com/news/articles/cwy7vrd8k4eo)
 * [2025-11-14, 19:46:24](https://news.ycombinator.com/item?id=45931273) - [Better pre-commit, re-engineered in Rust](https://prek.j178.dev/)
 * [2025-11-14, 12:31:15](https://news.ycombinator.com/item?id=45926141) - [What I learned about creativity from a man painting on a treadmill (2024)](https://quinnmaclay.com/texts/lets-paint)
-* [2025-11-14, 01:24:41](https://news.ycombinator.com/item?id=45922823) - [Microsoft-backed Veir is bringing superconductors to data centers](https://techcrunch.com/2025/11/12/microsoft-backed-veir-targets-data-centers-for-its-megawatt-class-superconductors/)
+* [2025-11-13, 11:58:43](https://news.ycombinator.com/item?id=45913870) - [Bluetooth Channel Sounding: The Next Leap in Bluetooth Innovation](https://www.embedded.com/bluetooth-channel-sounding-the-next-leap-in-bluetooth-innovation?_gl=1*8e3cij*_gcl_au*MzQwNzM2NDAxLjE3NjMwMzUwNzA.*_ga*NDc3NjU3MDk3LjE3NjMwMzUwNzA.*_ga_ZLV02RYCZ8*czE3NjMwMzUwNjkkbzEkZzAkdDE3NjMwMzUwNjkkajYwJGwwJGgw)
 * [2025-11-13, 07:37:50](https://news.ycombinator.com/item?id=45911897) - [Fizz Buzz without conditionals or booleans](https://evanhahn.com/fizz-buzz-without-conditionals-or-booleans/)
 * [2025-11-12, 13:58:12](https://news.ycombinator.com/item?id=45900238) - [Mysterious holes in the Andes may have been an ancient marketplace](https://www.sydney.edu.au/news-opinion/news/2025/11/10/mysterious-holes-in-the-andes-may-have-been-an-ancient-marketplace-new-research-suggests.html)
 
