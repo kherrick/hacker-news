@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-11-19, 07:09:52](https://news.ycombinator.com/item?id=45976670) - [A down detector for down detector's down detector](https://downdetectorsdowndetectorsdowndetector.com/)
 * [2025-11-19, 02:02:10](https://news.ycombinator.com/item?id=45975006) - [DOE gives Microsoft partner $1B loan to restart Three Mile Island reactor](https://techcrunch.com/2025/11/18/trump-doe-gives-microsoft-partner-1b-loan-to-restart-three-mile-island-reactor/)
 * [2025-11-19, 01:41:33](https://news.ycombinator.com/item?id=45974869) - [I just want working RCS messaging](https://wt.gd/i-just-want-my-rcs-messaging-to-work)
 * [2025-11-19, 01:18:02](https://news.ycombinator.com/item?id=45974681) - [Strace-macOS: A clone of the strace command for macOS](https://github.com/Mic92/strace-macos)
@@ -21,7 +22,6 @@
 * [2025-11-18, 15:00:36](https://news.ycombinator.com/item?id=45967079) - [Show HN: Browser-based interactive 3D Three-Body problem simulator](https://trisolarchaos.com/?pr=O_8(0.6)&n=3&s=5.0&so=0.00&im=rk4&dt=1.00e-4&rt=1.0e-6&at=1.0e-8&bs=0.15&sf=0&sv=0&cm=free&kt=1&st=1&tl=1500&cp=2.5208,1.5125,2.5208&ct=0.0000,0.0000,0.1670)
 * [2025-11-18, 14:23:18](https://news.ycombinator.com/item?id=45966435) - [Short Little Difficult Books](https://countercraft.substack.com/p/short-little-difficult-books)
 * [2025-11-18, 14:11:17](https://news.ycombinator.com/item?id=45966251) - [Nearly all UK drivers say headlights are too bright](https://www.bbc.com/news/articles/c1j8ewy1p86o)
-* [2025-11-18, 12:36:54](https://news.ycombinator.com/item?id=45964835) - [GoSign Desktop RCE flaws affecting users in Italy](https://www.ush.it/2025/11/14/multiple-vulnerabilities-gosign-desktop-remote-code-execution/)
 * [2025-11-18, 11:35:10](https://news.ycombinator.com/item?id=45963780) - [Cloudflare Global Network experiencing issues](https://www.cloudflarestatus.com/incidents/8gmgl950y3h7)
 * [2025-11-18, 11:12:20](https://news.ycombinator.com/item?id=45963670) - [Gemini 3 Pro Model Card [pdf]](https://storage.googleapis.com/deepmind-media/Model-Cards/Gemini-3-Pro-Model-Card.pdf)
 * [2025-11-18, 06:06:52](https://news.ycombinator.com/item?id=45961886) - [Google boss says AI investment boom has 'elements of irrationality'](https://www.bbc.com/news/articles/cwy7vrd8k4eo)
