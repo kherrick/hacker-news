@@ -15,6 +15,7 @@
 * [2025-11-11, 22:11:43](https://news.ycombinator.com/item?id=45893592) - [Ditch your (mut)ex, you deserve better](https://chrispenner.ca/posts/mutexes)
 * [2025-11-11, 21:59:34](https://news.ycombinator.com/item?id=45893471) - [runit Linux: Guide to Unix Init Scheme with Service Supervision](https://codelucky.com/runit-linux-init-service-supervision/)
 * [2025-11-11, 21:25:19](https://news.ycombinator.com/item?id=45893095) - [I didn't reverse-engineer the protocol for my blood pressure monitor in 24 hours](https://james.belchamber.com/articles/blood-pressure-monitor-reverse-engineering/)
+* [2025-11-11, 21:18:33](https://news.ycombinator.com/item?id=45893007) - [Ultima VII Revisited](https://github.com/ViridianGames/U7Revisited)
 * [2025-11-11, 21:18:26](https://news.ycombinator.com/item?id=45893004) - [X5.1 solar flare, G4 geomagnetic storm watch](https://www.spaceweatherlive.com/en/news/view/593/20251111-x5-1-solar-flare-g4-geomagnetic-storm-watch.html)
 * [2025-11-11, 21:03:19](https://news.ycombinator.com/item?id=45892809) - [CACM Practice Welcomes Submissions](https://dl.acm.org/doi/10.1145/3771297)
 * [2025-11-11, 21:00:35](https://news.ycombinator.com/item?id=45892773) - [Meticulous (YC S21) is hiring to redefine software dev](https://jobs.ashbyhq.com/meticulous/3197ae3d-bb26-4750-9ed7-b830f640515e)
