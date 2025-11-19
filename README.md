@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-11-19, 20:55:30](https://news.ycombinator.com/item?id=45985036) - [Researchers discover security vulnerability in WhatsApp](https://www.univie.ac.at/en/news/detail/forscherinnen-entdecken-grosse-sicherheitsluecke-in-whatsapp)
 * [2025-11-19, 20:51:33](https://news.ycombinator.com/item?id=45984970) - [Microsoft AI CEO pushes back against critics after recent Windows AI backlash](https://www.windowscentral.com/microsoft/windows-11/microsoft-ai-ceo-pushes-back-against-critics-after-recent-windows-ai-backlash-the-fact-that-people-are-unimpressed-is-mindblowing-to-me)
 * [2025-11-19, 20:37:45](https://news.ycombinator.com/item?id=45984789) - [Detection, Decoding of \"Power Track\" Predictive Signaling in Equity Market Data](https://github.com/TheGameStopsNow/power-tracks-research)
 * [2025-11-19, 20:26:43](https://news.ycombinator.com/item?id=45984659) - [Loose Wire Leads to Blackout, Contact with Francis Scott Key Bridge](https://www.ntsb.gov:443/news/press-releases/Pages/NR20251118.aspx)
@@ -19,7 +20,6 @@
 * [2025-11-19, 13:20:42](https://news.ycombinator.com/item?id=45979232) - [The peaceful transfer of power in open source projects](https://shkspr.mobi/blog/2025/11/the-peaceful-transfer-of-power-in-open-source-projects/)
 * [2025-11-19, 13:16:23](https://news.ycombinator.com/item?id=45979190) - [Larry Summers resigns from OpenAI board](https://www.cnbc.com/2025/11/19/larry-summers-epstein-openai.html)
 * [2025-11-19, 11:45:51](https://news.ycombinator.com/item?id=45978423) - [Thunderbird adds native Microsoft Exchange email support](https://blog.thunderbird.net/2025/11/thunderbird-adds-native-microsoft-exchange-email-support/)
-* [2025-11-19, 11:18:59](https://news.ycombinator.com/item?id=45978245) - [Learning to Boot from PXE](https://blog.imraniqbal.org/learning-to-boot-from-pxe/)
 * [2025-11-19, 10:25:25](https://news.ycombinator.com/item?id=45977900) - [What Killed Perl?](https://entropicthoughts.com/what-killed-perl)
 * [2025-11-19, 10:00:05](https://news.ycombinator.com/item?id=45977744) - [A $1k AWS mistake](https://www.geocod.io/code-and-coordinates/2025-11-18-the-1000-aws-mistake/)
 * [2025-11-19, 09:27:17](https://news.ycombinator.com/item?id=45977542) - [Multimodal Diffusion Language Models for Thinking-Aware Editing and Generation](https://github.com/tyfeld/MMaDA-Parallel)
