@@ -5,11 +5,13 @@
 ### [Archives](../../index.md) for [2025-11-19](index.md)
 
 * [2025-11-19, 13:28:40](https://news.ycombinator.com/item?id=45979297) - [Your Smartphone, Their Rules: App Stores Enable Corporate-Government Censorship](https://www.aclu.org/news/free-speech/app-store-oligopoly)
+* [2025-11-19, 13:20:42](https://news.ycombinator.com/item?id=45979232) - [The Peaceful Transfer of Power in Open Source Projects](https://shkspr.mobi/blog/2025/11/the-peaceful-transfer-of-power-in-open-source-projects/)
 * [2025-11-19, 13:20:16](https://news.ycombinator.com/item?id=45979228) - [Zo: Personal Servers for Everyone](https://www.zo.computer/)
 * [2025-11-19, 12:38:44](https://news.ycombinator.com/item?id=45978880) - [Geothermal's Time Has Come](https://www.economist.com/interactive/science-and-technology/2025/11/18/geothermal-time-has-finally-come)
 * [2025-11-19, 12:31:54](https://news.ycombinator.com/item?id=45978813) - [How do the pros get someone to leave a cult?](https://www.theguardian.com/science/2025/nov/19/how-to-leave-a-cult-experts-intervention)
 * [2025-11-19, 12:02:49](https://news.ycombinator.com/item?id=45978545) - [Pimped Amiga 500](https://www.pimyretro.org/pimped-amiga-500/)
 * [2025-11-19, 12:02:15](https://news.ycombinator.com/item?id=45978541) - [The Cities Skylines Paradox: how the sequel stumbled](https://selix.net/notes/the-cities-skyline-paradox)
+* [2025-11-19, 11:18:59](https://news.ycombinator.com/item?id=45978245) - [Learning to Boot from PXE](https://blog.imraniqbal.org/learning-to-boot-from-pxe/)
 * [2025-11-19, 10:06:09](https://news.ycombinator.com/item?id=45977782) - [Quantum physicists have shrunk and \"de-censored\" DeepSeek R1](https://www.technologyreview.com/2025/11/19/1128119/quantum-physicists-compress-and-deconsor-deepseekr1/)
 * [2025-11-19, 10:00:05](https://news.ycombinator.com/item?id=45977744) - [The $1k AWS Mistake](https://www.geocod.io/code-and-coordinates/2025-11-18-the-1000-aws-mistake/)
 * [2025-11-19, 09:27:17](https://news.ycombinator.com/item?id=45977542) - [Multimodal Diffusion Language Models for Thinking-Aware Editing and Generation](https://github.com/tyfeld/MMaDA-Parallel)
