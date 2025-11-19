@@ -30,6 +30,7 @@
 * [2025-11-11, 19:44:49](https://news.ycombinator.com/item?id=45891868) - [A Catalog of Side Effects](https://bernsteinbear.com/blog/compiler-effects/)
 * [2025-11-11, 19:40:15](https://news.ycombinator.com/item?id=45891817) - [Agentic Pelican on a Bicycle](https://www.robert-glaser.de/agentic-pelican-on-a-bicycle/)
 * [2025-11-11, 19:36:05](https://news.ycombinator.com/item?id=45891772) - [Vertical Integration is the only thing that matters](https://becca.ooo/blog/vertical-integration/)
+* [2025-11-11, 19:01:00](https://news.ycombinator.com/item?id=45891346) - [Itiner-e: A high-resolution dataset of roads of the Roman Empire](https://www.nature.com/articles/s41597-025-06140-z)
 * [2025-11-11, 18:58:16](https://news.ycombinator.com/item?id=45891319) - [Show HN: Creavi Macropad – Built a wireless macropad with a display](https://creavi.tech/blog/creavi-macropad-build-log/)
 * [2025-11-11, 18:36:01](https://news.ycombinator.com/item?id=45891066) - [Show HN: Unflip – a puzzle game about XOR patterns of squares](https://unflipgame.com/)
 * [2025-11-11, 18:34:12](https://news.ycombinator.com/item?id=45891035) - [A squeaky nail, or the wheel that sticks out](https://prashanth.world/squeaky-nail/)
