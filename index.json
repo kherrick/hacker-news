@@ -1,6 +1,36 @@
 [
   [
     [
+      "2025-11-19, 16:49:08",
+      "https://news.ycombinator.com/item?id=45981760"
+    ],
+    [
+      "Questions for Cloudflare",
+      "https://entropicthoughts.com/questions-for-cloudflare"
+    ]
+  ],
+  [
+    [
+      "2025-11-19, 16:40:24",
+      "https://news.ycombinator.com/item?id=45981666"
+    ],
+    [
+      "Adventures in Upgrading Proxmox",
+      "https://blog.vasi.li/adventures-in-upgrading-proxmox/"
+    ]
+  ],
+  [
+    [
+      "2025-11-19, 16:36:35",
+      "https://news.ycombinator.com/item?id=45981626"
+    ],
+    [
+      "Build vs. Buy: What This Week's Outages Should Teach You",
+      "https://www.toddhgardner.com/blog/build-vs-buy-outages"
+    ]
+  ],
+  [
+    [
       "2025-11-19, 16:35:35",
       "https://news.ycombinator.com/item?id=45981608"
     ],
@@ -71,6 +101,16 @@
   ],
   [
     [
+      "2025-11-19, 11:45:51",
+      "https://news.ycombinator.com/item?id=45978423"
+    ],
+    [
+      "Thunderbird Adds Native Microsoft Exchange Email Support",
+      "https://blog.thunderbird.net/2025/11/thunderbird-adds-native-microsoft-exchange-email-support/"
+    ]
+  ],
+  [
+    [
       "2025-11-19, 11:18:59",
       "https://news.ycombinator.com/item?id=45978245"
     ],
@@ -107,16 +147,6 @@
     [
       "I just want working RCS messaging",
       "https://wt.gd/i-just-want-my-rcs-messaging-to-work"
-    ]
-  ],
-  [
-    [
-      "2025-11-19, 01:18:02",
-      "https://news.ycombinator.com/item?id=45974681"
-    ],
-    [
-      "Strace-macOS: A clone of the strace command for macOS",
-      "https://github.com/Mic92/strace-macos"
     ]
   ],
   [
@@ -221,16 +251,6 @@
   ],
   [
     [
-      "2025-11-18, 06:06:52",
-      "https://news.ycombinator.com/item?id=45961886"
-    ],
-    [
-      "Google boss says AI investment boom has 'elements of irrationality'",
-      "https://www.bbc.com/news/articles/cwy7vrd8k4eo"
-    ]
-  ],
-  [
-    [
       "2025-11-15, 00:36:51",
       "https://news.ycombinator.com/item?id=45933932"
     ],
@@ -251,32 +271,12 @@
   ],
   [
     [
-      "2025-11-13, 11:58:43",
-      "https://news.ycombinator.com/item?id=45913870"
-    ],
-    [
-      "Bluetooth Channel Sounding: The Next Leap in Bluetooth Innovation",
-      "https://www.embedded.com/bluetooth-channel-sounding-the-next-leap-in-bluetooth-innovation?_gl=1*8e3cij*_gcl_au*MzQwNzM2NDAxLjE3NjMwMzUwNzA.*_ga*NDc3NjU3MDk3LjE3NjMwMzUwNzA.*_ga_ZLV02RYCZ8*czE3NjMwMzUwNjkkbzEkZzAkdDE3NjMwMzUwNjkkajYwJGwwJGgw"
-    ]
-  ],
-  [
-    [
       "2025-11-13, 08:50:49",
       "https://news.ycombinator.com/item?id=45912457"
     ],
     [
       "The Future of Programming (2013) [video]",
       "https://www.youtube.com/watch?v=8pTEmbeENF4"
-    ]
-  ],
-  [
-    [
-      "2025-11-12, 11:57:23",
-      "https://news.ycombinator.com/item?id=45899074"
-    ],
-    [
-      "Mojo-V: Secret Computation for RISC-V",
-      "https://github.com/toddmaustin/mojo-v"
     ]
   ],
   [
