@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-11-19](index.md)
 
+* [2025-11-19, 17:31:32](https://news.ycombinator.com/item?id=45982262) - [A Chinese firm bought an insurer for CIA agents](https://www.bbc.com/news/articles/c4g311jn1m9o)
 * [2025-11-19, 16:49:08](https://news.ycombinator.com/item?id=45981760) - [Questions for Cloudflare](https://entropicthoughts.com/questions-for-cloudflare)
 * [2025-11-19, 16:40:24](https://news.ycombinator.com/item?id=45981666) - [Adventures in Upgrading Proxmox](https://blog.vasi.li/adventures-in-upgrading-proxmox/)
 * [2025-11-19, 16:36:35](https://news.ycombinator.com/item?id=45981626) - [Build vs. Buy: What This Week's Outages Should Teach You](https://www.toddhgardner.com/blog/build-vs-buy-outages)
