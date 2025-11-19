@@ -1,11 +1,21 @@
 [
   [
     [
+      "2025-11-19, 02:02:10",
+      "https://news.ycombinator.com/item?id=45975006"
+    ],
+    [
+      "DOE gives Microsoft partner $1B loan to restart Three Mile Island reactor",
+      "https://techcrunch.com/2025/11/18/trump-doe-gives-microsoft-partner-1b-loan-to-restart-three-mile-island-reactor/"
+    ]
+  ],
+  [
+    [
       "2025-11-18, 23:59:14",
       "https://news.ycombinator.com/item?id=45973955"
     ],
     [
-      "Lucent 7 R/E 5ESS Telephone Switch Rescue",
+      "Lucent 7 R/E 5ESS Telephone Switch Rescue (2024)",
       "http://kev009.com/wp/2024/07/Lucent-5ESS-Rescue/"
     ]
   ],
@@ -25,7 +35,7 @@
       "https://news.ycombinator.com/item?id=45973573"
     ],
     [
-      "Rebecca Heineman – from homelessness to porting Doom",
+      "Rebecca Heineman – from homelessness to porting Doom (2022)",
       "https://corecursive.com/doomed-to-fail-with-burger-becky/"
     ]
   ],
@@ -181,6 +191,16 @@
   ],
   [
     [
+      "2025-11-18, 15:00:36",
+      "https://news.ycombinator.com/item?id=45967079"
+    ],
+    [
+      "Show HN: Browser-based interactive 3D Three-Body problem simulator",
+      "https://trisolarchaos.com/?pr=O_8(0.6)&n=3&s=5.0&so=0.00&im=rk4&dt=1.00e-4&rt=1.0e-6&at=1.0e-8&bs=0.15&sf=0&sv=0&cm=free&kt=1&st=1&tl=1500&cp=2.5208,1.5125,2.5208&ct=0.0000,0.0000,0.1670"
+    ]
+  ],
+  [
+    [
       "2025-11-18, 14:23:18",
       "https://news.ycombinator.com/item?id=45966435"
     ],
@@ -241,16 +261,6 @@
   ],
   [
     [
-      "2025-11-17, 12:26:45",
-      "https://news.ycombinator.com/item?id=45953001"
-    ],
-    [
-      "Chuck Moore: Colorforth has stopped working [video]",
-      "https://www.youtube.com/watch?v=MvkGBWXb2oQ#t=22"
-    ]
-  ],
-  [
-    [
       "2025-11-14, 12:31:15",
       "https://news.ycombinator.com/item?id=45926141"
     ],
@@ -271,22 +281,12 @@
   ],
   [
     [
-      "2025-11-13, 20:13:44",
-      "https://news.ycombinator.com/item?id=45919926"
+      "2025-11-13, 07:37:50",
+      "https://news.ycombinator.com/item?id=45911897"
     ],
     [
-      "When 1+1+1 Equals 1",
-      "https://mathenchant.wordpress.com/2024/12/19/when-111-equals-1/"
-    ]
-  ],
-  [
-    [
-      "2025-11-12, 23:26:12",
-      "https://news.ycombinator.com/item?id=45908365"
-    ],
-    [
-      "Silverbullet: Personal productivity platform built with Markdown and Lua",
-      "https://github.com/silverbulletmd/silverbullet"
+      "Fizz Buzz without conditionals or booleans",
+      "https://evanhahn.com/fizz-buzz-without-conditionals-or-booleans/"
     ]
   ],
   [
