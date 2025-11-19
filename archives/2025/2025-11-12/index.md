@@ -28,6 +28,7 @@
 * [2025-11-12, 18:06:02](https://news.ycombinator.com/item?id=45903485) - [Control LLM Spend and Access with any-LLM-gateway](https://blog.mozilla.ai/control-llm-spend-and-access-with-any-llm-gateway/)
 * [2025-11-12, 17:59:43](https://news.ycombinator.com/item?id=45903404) - [Steam Machine](https://store.steampowered.com/sale/steammachine)
 * [2025-11-12, 17:54:58](https://news.ycombinator.com/item?id=45903325) - [Steam Frame](https://store.steampowered.com/sale/steamframe)
+* [2025-11-12, 17:50:54](https://news.ycombinator.com/item?id=45903273) - [How to Identify a Prime Number Without a Computer](https://www.scientificamerican.com/article/how-to-identify-a-prime-number-without-a-computer/)
 * [2025-11-12, 17:43:42](https://news.ycombinator.com/item?id=45903161) - [Launch HN: JSX Tool (YC F25) – A Browser Dev-Panel IDE for React](https://news.ycombinator.com/item?id=45903161)
 * [2025-11-12, 17:24:54](https://news.ycombinator.com/item?id=45902898) - [Project Euler](https://projecteuler.net)
 * [2025-11-12, 17:02:38](https://news.ycombinator.com/item?id=45902604) - [Helm v4.0.0](https://github.com/helm/helm/releases/tag/v4.0.0)

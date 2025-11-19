@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-11-19](index.md)
 
+* [2025-11-19, 21:16:25](https://news.ycombinator.com/item?id=45985318) - [Labor Department Won't Publish October Unemployment Rate](https://www.wsj.com/economy/bls-to-publish-november-jobs-data-on-december-16-b9baab5c)
 * [2025-11-19, 20:55:30](https://news.ycombinator.com/item?id=45985036) - [Researchers discover security vulnerability in WhatsApp](https://www.univie.ac.at/en/news/detail/forscherinnen-entdecken-grosse-sicherheitsluecke-in-whatsapp)
 * [2025-11-19, 20:51:33](https://news.ycombinator.com/item?id=45984970) - [Microsoft AI CEO pushes back against critics after recent Windows AI backlash](https://www.windowscentral.com/microsoft/windows-11/microsoft-ai-ceo-pushes-back-against-critics-after-recent-windows-ai-backlash-the-fact-that-people-are-unimpressed-is-mindblowing-to-me)
 * [2025-11-19, 20:37:45](https://news.ycombinator.com/item?id=45984789) - [Detection, Decoding of \"Power Track\" Predictive Signaling in Equity Market Data](https://github.com/TheGameStopsNow/power-tracks-research)
