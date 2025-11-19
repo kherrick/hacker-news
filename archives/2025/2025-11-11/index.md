@@ -35,6 +35,7 @@
 * [2025-11-11, 18:36:01](https://news.ycombinator.com/item?id=45891066) - [Show HN: Unflip – a puzzle game about XOR patterns of squares](https://unflipgame.com/)
 * [2025-11-11, 18:34:12](https://news.ycombinator.com/item?id=45891035) - [A squeaky nail, or the wheel that sticks out](https://prashanth.world/squeaky-nail/)
 * [2025-11-11, 18:32:11](https://news.ycombinator.com/item?id=45891016) - [FFmpeg to Google: Fund Us or Stop Sending Bugs](https://thenewstack.io/ffmpeg-to-google-fund-us-or-stop-sending-bugs/)
+* [2025-11-11, 18:21:32](https://news.ycombinator.com/item?id=45890898) - [Gymkhana's 1978 Subaru Brat with 9,500-RPM Redline, Active Aero Is One Super Ute](https://www.thedrive.com/news/gymkhanas-1978-subaru-brat-with-9500-rpm-redline-and-active-aero-is-one-super-ute)
 * [2025-11-11, 18:07:51](https://news.ycombinator.com/item?id=45890726) - [Terminal Latency on Windows](https://chadaustin.me/2024/02/windows-terminal-latency/)
 * [2025-11-11, 18:02:27](https://news.ycombinator.com/item?id=45890639) - [Race optimization algorithms with good initializations (beat them with bonuses)](https://debargha.com)
 * [2025-11-11, 17:44:21](https://news.ycombinator.com/item?id=45890394) - [Show HN: Data Formulator 0.5 – interactive AI agents for data visualization](https://data-formulator.ai/)

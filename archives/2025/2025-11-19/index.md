@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-11-19](index.md)
 
+* [2025-11-19, 14:05:21](https://news.ycombinator.com/item?id=45979637) - [What happens when even college students can't do math anymore?](https://www.theatlantic.com/ideas/2025/11/math-decline-ucsd/684973/)
+* [2025-11-19, 13:54:40](https://news.ycombinator.com/item?id=45979527) - [Europe's cookie nightmare is crumbling. EC wants preference at browser level](https://www.theverge.com/news/823788/europe-cookie-prompt-browser-changes-proposal)
 * [2025-11-19, 13:28:40](https://news.ycombinator.com/item?id=45979297) - [Your Smartphone, Their Rules: App Stores Enable Corporate-Government Censorship](https://www.aclu.org/news/free-speech/app-store-oligopoly)
 * [2025-11-19, 13:20:42](https://news.ycombinator.com/item?id=45979232) - [The Peaceful Transfer of Power in Open Source Projects](https://shkspr.mobi/blog/2025/11/the-peaceful-transfer-of-power-in-open-source-projects/)
 * [2025-11-19, 13:20:16](https://news.ycombinator.com/item?id=45979228) - [Zo: Personal Servers for Everyone](https://www.zo.computer/)
