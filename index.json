@@ -1,22 +1,52 @@
 [
   [
     [
-      "2025-11-19, 17:31:32",
-      "https://news.ycombinator.com/item?id=45982262"
+      "2025-11-19, 18:16:51",
+      "https://news.ycombinator.com/item?id=45982874"
     ],
     [
-      "A Chinese firm bought an insurer for CIA agents",
-      "https://www.bbc.com/news/articles/c4g311jn1m9o"
+      "Netherlands returns control of Nexperia to Chinese owner",
+      "https://www.bloomberg.com/news/articles/2025-11-19/dutch-hand-back-control-of-chinese-owned-chipmaker-nexperia"
     ]
   ],
   [
     [
-      "2025-11-19, 17:20:12",
-      "https://news.ycombinator.com/item?id=45982128"
+      "2025-11-19, 18:13:18",
+      "https://news.ycombinator.com/item?id=45982818"
     ],
     [
-      "LLMs are bullshitters. But that doesn't mean they're not useful",
-      "https://blog.kagi.com/llms"
+      "To Launch Something New, You Need \"Social Dandelions\"",
+      "https://www.actiondigest.com/p/to-launch-something-new-you-need-social-dandelions"
+    ]
+  ],
+  [
+    [
+      "2025-11-19, 18:01:59",
+      "https://news.ycombinator.com/item?id=45982649"
+    ],
+    [
+      "Building more with GPT-5.1-Codex-Max",
+      "https://openai.com/index/gpt-5-1-codex-max/"
+    ]
+  ],
+  [
+    [
+      "2025-11-19, 17:53:58",
+      "https://news.ycombinator.com/item?id=45982542"
+    ],
+    [
+      "I am just sooo sick of AI prediction content, let's kill it already",
+      "https://verdikapuku.com/posts/i-am-just-so-sick-of-ai-prediction-content/"
+    ]
+  ],
+  [
+    [
+      "2025-11-19, 17:52:52",
+      "https://news.ycombinator.com/item?id=45982526"
+    ],
+    [
+      "Show HN: DNS Benchmark Tool – Compare and monitor resolvers",
+      "https://github.com/frankovo/dns-benchmark-tool"
     ]
   ],
   [
@@ -71,6 +101,16 @@
   ],
   [
     [
+      "2025-11-19, 14:41:30",
+      "https://news.ycombinator.com/item?id=45980117"
+    ],
+    [
+      "Europe is scaling back GDPR and relaxing AI laws",
+      "https://www.theverge.com/news/823750/european-union-ai-act-gdpr-changes"
+    ]
+  ],
+  [
+    [
       "2025-11-19, 13:28:40",
       "https://news.ycombinator.com/item?id=45979297"
     ],
@@ -91,26 +131,6 @@
   ],
   [
     [
-      "2025-11-19, 12:31:54",
-      "https://news.ycombinator.com/item?id=45978813"
-    ],
-    [
-      "How do the pros get someone to leave a cult?",
-      "https://www.theguardian.com/science/2025/nov/19/how-to-leave-a-cult-experts-intervention"
-    ]
-  ],
-  [
-    [
-      "2025-11-19, 12:02:49",
-      "https://news.ycombinator.com/item?id=45978545"
-    ],
-    [
-      "Pimped Amiga 500",
-      "https://www.pimyretro.org/pimped-amiga-500/"
-    ]
-  ],
-  [
-    [
       "2025-11-19, 11:45:51",
       "https://news.ycombinator.com/item?id=45978423"
     ],
@@ -127,6 +147,16 @@
     [
       "Learning to Boot from PXE",
       "https://blog.imraniqbal.org/learning-to-boot-from-pxe/"
+    ]
+  ],
+  [
+    [
+      "2025-11-19, 10:25:25",
+      "https://news.ycombinator.com/item?id=45977900"
+    ],
+    [
+      "What Killed Perl?",
+      "https://entropicthoughts.com/what-killed-perl"
     ]
   ],
   [
@@ -171,42 +201,12 @@
   ],
   [
     [
-      "2025-11-18, 21:39:18",
-      "https://news.ycombinator.com/item?id=45972519"
-    ],
-    [
-      "Blender 5.0",
-      "https://www.blender.org/download/releases/5-0/"
-    ]
-  ],
-  [
-    [
       "2025-11-18, 17:24:27",
       "https://news.ycombinator.com/item?id=45969250"
     ],
     [
       "Pebble, Rebble, and a path forward",
       "https://ericmigi.com/blog/pebble-rebble-and-a-path-forward/"
-    ]
-  ],
-  [
-    [
-      "2025-11-18, 15:47:38",
-      "https://news.ycombinator.com/item?id=45967814"
-    ],
-    [
-      "Google Antigravity",
-      "https://antigravity.google/"
-    ]
-  ],
-  [
-    [
-      "2025-11-18, 15:09:38",
-      "https://news.ycombinator.com/item?id=45967211"
-    ],
-    [
-      "Gemini 3",
-      "https://blog.google/products/gemini/gemini-3/"
     ]
   ],
   [
@@ -221,32 +221,12 @@
   ],
   [
     [
-      "2025-11-18, 11:12:20",
-      "https://news.ycombinator.com/item?id=45963670"
-    ],
-    [
-      "Gemini 3 Pro Model Card [pdf]",
-      "https://storage.googleapis.com/deepmind-media/Model-Cards/Gemini-3-Pro-Model-Card.pdf"
-    ]
-  ],
-  [
-    [
       "2025-11-15, 05:32:38",
       "https://news.ycombinator.com/item?id=45935294"
     ],
     [
       "How two photographers transformed RAW photo support on Mac",
       "https://petapixel.com/2025/11/14/how-two-photographers-transformed-raw-photo-support-on-mac/"
-    ]
-  ],
-  [
-    [
-      "2025-11-15, 00:36:51",
-      "https://news.ycombinator.com/item?id=45933932"
-    ],
-    [
-      "I wrote a Pong game in a 512-byte boot sector",
-      "https://akshatjoshi.com/i-wrote-a-pong-game-in-a-512-byte-boot-sector/"
     ]
   ],
   [
@@ -281,6 +261,16 @@
   ],
   [
     [
+      "2025-11-12, 18:06:02",
+      "https://news.ycombinator.com/item?id=45903485"
+    ],
+    [
+      "Control LLM Spend and Access with any-LLM-gateway",
+      "https://blog.mozilla.ai/control-llm-spend-and-access-with-any-llm-gateway/"
+    ]
+  ],
+  [
+    [
       "2025-11-11, 21:18:33",
       "https://news.ycombinator.com/item?id=45893007"
     ],
@@ -297,6 +287,16 @@
     [
       "Itiner-e: A high-resolution dataset of roads of the Roman Empire",
       "https://www.nature.com/articles/s41597-025-06140-z"
+    ]
+  ],
+  [
+    [
+      "2025-11-11, 18:21:32",
+      "https://news.ycombinator.com/item?id=45890898"
+    ],
+    [
+      "Gymkhana's 1978 Subaru Brat with 9,500-RPM Redline, Active Aero",
+      "https://www.thedrive.com/news/gymkhanas-1978-subaru-brat-with-9500-rpm-redline-and-active-aero-is-one-super-ute"
     ]
   ]
 ]
