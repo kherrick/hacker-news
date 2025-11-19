@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-11-19, 15:46:30](https://news.ycombinator.com/item?id=45981009) - [Emoji Evidence Errors Don't Undo a Murder Conviction–People vs. Harmon](https://blog.ericgoldman.org/archives/2025/11/emoji-evidence-errors-dont-undo-a-murder-conviction-people-v-harmon.htm)
+* [2025-11-19, 15:28:04](https://news.ycombinator.com/item?id=45980760) - [Launch HN: Mosaic (YC W25) – Agentic Video Editing](https://mosaic.so)
 * [2025-11-19, 14:41:30](https://news.ycombinator.com/item?id=45980117) - [Europe is scaling back its landmark privacy and AI laws](https://www.theverge.com/news/823750/european-union-ai-act-gdpr-changes)
 * [2025-11-19, 14:40:38](https://news.ycombinator.com/item?id=45980106) - [How to Stay Sane in a World That Rewards Insanity](https://www.joanwestenberg.com/p/how-to-stay-sane-in-a-world-that-rewards-insanity)
 * [2025-11-19, 14:35:17](https://news.ycombinator.com/item?id=45980005) - [Proxmox Virtual Environment 9.1 available](https://www.proxmox.com/en/about/company-details/press-releases/proxmox-virtual-environment-9-1)
@@ -8,10 +10,8 @@
 * [2025-11-19, 12:02:49](https://news.ycombinator.com/item?id=45978545) - [Pimped Amiga 500](https://www.pimyretro.org/pimped-amiga-500/)
 * [2025-11-19, 11:18:59](https://news.ycombinator.com/item?id=45978245) - [Learning to Boot from PXE](https://blog.imraniqbal.org/learning-to-boot-from-pxe/)
 * [2025-11-19, 10:00:05](https://news.ycombinator.com/item?id=45977744) - [The $1k AWS Mistake](https://www.geocod.io/code-and-coordinates/2025-11-18-the-1000-aws-mistake/)
-* [2025-11-19, 09:40:13](https://news.ycombinator.com/item?id=45977629) - [I made a downdetector for downdetector's downdetector's downdetector](https://downdetectorsdowndetectorsdowndetectorsdowndetector.com)
 * [2025-11-19, 09:27:17](https://news.ycombinator.com/item?id=45977542) - [Multimodal Diffusion Language Models for Thinking-Aware Editing and Generation](https://github.com/tyfeld/MMaDA-Parallel)
 * [2025-11-19, 01:41:33](https://news.ycombinator.com/item?id=45974869) - [I just want working RCS messaging](https://wt.gd/i-just-want-my-rcs-messaging-to-work)
-* [2025-11-19, 01:18:02](https://news.ycombinator.com/item?id=45974681) - [Strace-macOS: A clone of the strace command for macOS](https://github.com/Mic92/strace-macos)
 * [2025-11-19, 00:05:28](https://news.ycombinator.com/item?id=45974012) - [I made a down detector for down detector](https://downdetectorsdowndetector.com)
 * [2025-11-18, 23:31:22](https://news.ycombinator.com/item?id=45973709) - [Cloudflare outage on November 18, 2025 post mortem](https://blog.cloudflare.com/18-november-2025-outage/)
 * [2025-11-18, 21:39:18](https://news.ycombinator.com/item?id=45972519) - [Blender 5.0](https://www.blender.org/download/releases/5-0/)

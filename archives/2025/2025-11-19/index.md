@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-11-19](index.md)
 
+* [2025-11-19, 15:46:30](https://news.ycombinator.com/item?id=45981009) - [Emoji Evidence Errors Don't Undo a Murder Conviction–People vs. Harmon](https://blog.ericgoldman.org/archives/2025/11/emoji-evidence-errors-dont-undo-a-murder-conviction-people-v-harmon.htm)
+* [2025-11-19, 15:28:04](https://news.ycombinator.com/item?id=45980760) - [Launch HN: Mosaic (YC W25) – Agentic Video Editing](https://mosaic.so)
 * [2025-11-19, 14:41:30](https://news.ycombinator.com/item?id=45980117) - [Europe is scaling back its landmark privacy and AI laws](https://www.theverge.com/news/823750/european-union-ai-act-gdpr-changes)
 * [2025-11-19, 14:40:38](https://news.ycombinator.com/item?id=45980106) - [How to Stay Sane in a World That Rewards Insanity](https://www.joanwestenberg.com/p/how-to-stay-sane-in-a-world-that-rewards-insanity)
 * [2025-11-19, 14:35:17](https://news.ycombinator.com/item?id=45980005) - [Proxmox Virtual Environment 9.1 available](https://www.proxmox.com/en/about/company-details/press-releases/proxmox-virtual-environment-9-1)
