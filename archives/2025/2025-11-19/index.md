@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-11-19](index.md)
 
+* [2025-11-19, 13:28:40](https://news.ycombinator.com/item?id=45979297) - [Your Smartphone, Their Rules: App Stores Enable Corporate-Government Censorship](https://www.aclu.org/news/free-speech/app-store-oligopoly)
 * [2025-11-19, 13:20:16](https://news.ycombinator.com/item?id=45979228) - [Zo: Personal Servers for Everyone](https://www.zo.computer/)
 * [2025-11-19, 12:38:44](https://news.ycombinator.com/item?id=45978880) - [Geothermal's Time Has Come](https://www.economist.com/interactive/science-and-technology/2025/11/18/geothermal-time-has-finally-come)
 * [2025-11-19, 12:31:54](https://news.ycombinator.com/item?id=45978813) - [How do the pros get someone to leave a cult?](https://www.theguardian.com/science/2025/nov/19/how-to-leave-a-cult-experts-intervention)
