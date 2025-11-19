@@ -61,3 +61,4 @@
 * [2025-11-15, 02:17:31](https://news.ycombinator.com/item?id=45934481) - [A structural regular expression engine for Rust](https://www.sminez.dev/match-it-again-sam/)
 * [2025-11-15, 02:11:43](https://news.ycombinator.com/item?id=45934447) - [AI note-taking startup Fireflies was really two guys typing notes by hand](https://www.pcgamer.com/software/ai/usd1-billion-ai-company-co-founder-admits-that-its-usd100-a-month-transcription-service-was-originally-two-guys-surviving-on-pizza-and-typing-out-notes-by-hand/)
 * [2025-11-15, 02:06:16](https://news.ycombinator.com/item?id=45934416) - [AMD GPUs Go Brrr](https://hazyresearch.stanford.edu/blog/2025-11-09-amd-brr)
+* [2025-11-15, 00:36:51](https://news.ycombinator.com/item?id=45933932) - [I wrote a Pong game in a 512-byte boot sector](https://akshatjoshi.com/i-wrote-a-pong-game-in-a-512-byte-boot-sector/)
