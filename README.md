@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-11-19, 18:27:36](https://news.ycombinator.com/item?id=45983069) - [Cypherpunks Hall of Fame](https://github.com/cypherpunkshall/cypherpunkshall.github.io)
 * [2025-11-19, 18:16:51](https://news.ycombinator.com/item?id=45982874) - [Netherlands returns control of Nexperia to Chinese owner](https://www.bloomberg.com/news/articles/2025-11-19/dutch-hand-back-control-of-chinese-owned-chipmaker-nexperia)
 * [2025-11-19, 18:13:18](https://news.ycombinator.com/item?id=45982818) - [To Launch Something New, You Need \"Social Dandelions\"](https://www.actiondigest.com/p/to-launch-something-new-you-need-social-dandelions)
 * [2025-11-19, 18:01:59](https://news.ycombinator.com/item?id=45982649) - [Building more with GPT-5.1-Codex-Max](https://openai.com/index/gpt-5-1-codex-max/)
-* [2025-11-19, 17:53:58](https://news.ycombinator.com/item?id=45982542) - [I am just sooo sick of AI prediction content, let's kill it already](https://verdikapuku.com/posts/i-am-just-so-sick-of-ai-prediction-content/)
 * [2025-11-19, 17:52:52](https://news.ycombinator.com/item?id=45982526) - [Show HN: DNS Benchmark Tool – Compare and monitor resolvers](https://github.com/frankovo/dns-benchmark-tool)
 * [2025-11-19, 16:40:24](https://news.ycombinator.com/item?id=45981666) - [Adventures in upgrading Proxmox](https://blog.vasi.li/adventures-in-upgrading-proxmox/)
 * [2025-11-19, 16:36:35](https://news.ycombinator.com/item?id=45981626) - [Build vs. Buy: What This Week's Outages Should Teach You](https://www.toddhgardner.com/blog/build-vs-buy-outages)
