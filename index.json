@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-11-19, 21:58:47",
+      "https://news.ycombinator.com/item?id=45985867"
+    ],
+    [
+      "It's your fault my laptop knows where I am",
+      "https://www.amoses.dev/blog/wifi-location/"
+    ]
+  ],
+  [
+    [
       "2025-11-19, 21:30:02",
       "https://news.ycombinator.com/item?id=45985506"
     ],
@@ -21,22 +31,22 @@
   ],
   [
     [
-      "2025-11-19, 20:37:45",
-      "https://news.ycombinator.com/item?id=45984789"
-    ],
-    [
-      "Detection, Decoding of \"Power Track\" Predictive Signaling in Equity Market Data",
-      "https://github.com/TheGameStopsNow/power-tracks-research"
-    ]
-  ],
-  [
-    [
       "2025-11-19, 20:26:43",
       "https://news.ycombinator.com/item?id=45984659"
     ],
     [
       "Loose wire leads to blackout, contact with Francis Scott Key bridge",
       "https://www.ntsb.gov:443/news/press-releases/Pages/NR20251118.aspx"
+    ]
+  ],
+  [
+    [
+      "2025-11-19, 20:23:47",
+      "https://news.ycombinator.com/item?id=45984623"
+    ],
+    [
+      "Racing karts on a Rust GPU kernel driver",
+      "https://www.collabora.com/news-and-blog/news-and-events/racing-karts-on-a-rust-gpu-kernel-driver.html"
     ]
   ],
   [
@@ -51,6 +61,16 @@
   ],
   [
     [
+      "2025-11-19, 19:59:32",
+      "https://news.ycombinator.com/item?id=45984333"
+    ],
+    [
+      "The Subversive Hyperlink",
+      "https://blog.jim-nielsen.com/2024/the-subversive-hyperlink/"
+    ]
+  ],
+  [
+    [
       "2025-11-19, 19:44:46",
       "https://news.ycombinator.com/item?id=45984143"
     ],
@@ -61,32 +81,12 @@
   ],
   [
     [
-      "2025-11-19, 19:42:38",
-      "https://news.ycombinator.com/item?id=45984112"
-    ],
-    [
-      "Measuring Political Bias in Claude",
-      "https://www.anthropic.com/news/political-even-handedness"
-    ]
-  ],
-  [
-    [
       "2025-11-19, 19:39:09",
       "https://news.ycombinator.com/item?id=45984072"
     ],
     [
       "Pozsar's Bretton Woods III: Sometimes Money Can't Solve the Problem",
       "https://philippdubach.com/2025/10/25/pozsars-bretton-woods-iii-the-framework-1/2/"
-    ]
-  ],
-  [
-    [
-      "2025-11-19, 19:09:27",
-      "https://news.ycombinator.com/item?id=45983700"
-    ],
-    [
-      "What AI Is Really For",
-      "https://www.chrbutler.com/what-ai-is-really-for"
     ]
   ],
   [
@@ -231,22 +231,22 @@
   ],
   [
     [
-      "2025-11-19, 01:41:33",
-      "https://news.ycombinator.com/item?id=45974869"
+      "2025-11-19, 07:36:25",
+      "https://news.ycombinator.com/item?id=45976832"
     ],
     [
-      "I just want working RCS messaging",
-      "https://wt.gd/i-just-want-my-rcs-messaging-to-work"
+      "Exploring the limits of large language models as quant traders",
+      "https://nof1.ai/blog/TechPost1"
     ]
   ],
   [
     [
-      "2025-11-19, 00:05:28",
-      "https://news.ycombinator.com/item?id=45974012"
+      "2025-11-15, 05:32:38",
+      "https://news.ycombinator.com/item?id=45935294"
     ],
     [
-      "Show HN: I made a down detector for down detector",
-      "https://downdetectorsdowndetector.com"
+      "How two photographers transformed RAW photo support on Mac",
+      "https://petapixel.com/2025/11/14/how-two-photographers-transformed-raw-photo-support-on-mac/"
     ]
   ],
   [
@@ -295,7 +295,7 @@
       "https://news.ycombinator.com/item?id=45903273"
     ],
     [
-      "How to Identify a Prime Number Without a Computer",
+      "How to identify a prime number without a computer",
       "https://www.scientificamerican.com/article/how-to-identify-a-prime-number-without-a-computer/"
     ]
   ]
