@@ -20,6 +20,7 @@
 * [2025-11-19, 20:23:47](https://news.ycombinator.com/item?id=45984623) - [Racing karts on a Rust GPU kernel driver](https://www.collabora.com/news-and-blog/news-and-events/racing-karts-on-a-rust-gpu-kernel-driver.html)
 * [2025-11-19, 20:01:02](https://news.ycombinator.com/item?id=45984353) - [Cognitive and Mental Health Correlates of Short-Form Video Use](https://psycnet.apa.org/fulltext/2026-89350-001.html)
 * [2025-11-19, 19:59:32](https://news.ycombinator.com/item?id=45984333) - [The Subversive Hyperlink](https://blog.jim-nielsen.com/2024/the-subversive-hyperlink/)
+* [2025-11-19, 19:55:49](https://news.ycombinator.com/item?id=45984282) - [Robert Louis Stevenson's Art of Living (and Dying)](https://lithub.com/robert-louis-stevensons-art-of-living-and-dying/)
 * [2025-11-19, 19:51:08](https://news.ycombinator.com/item?id=45984219) - [The death of Arduino?](https://news.ycombinator.com/item?id=45984219)
 * [2025-11-19, 19:44:46](https://news.ycombinator.com/item?id=45984143) - [Adafruit on the Death of Arduino](https://www.linkedin.com/posts/adafruit_opensource-privacy-techpolicy-activity-7396903362237054976-r14H)
 * [2025-11-19, 19:42:38](https://news.ycombinator.com/item?id=45984112) - [Measuring Political Bias in Claude](https://www.anthropic.com/news/political-even-handedness)
