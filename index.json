@@ -1,6 +1,46 @@
 [
   [
     [
+      "2025-11-20, 00:32:17",
+      "https://news.ycombinator.com/item?id=45987252"
+    ],
+    [
+      "Jailbreaking AI Models to Phish Elderly Victims",
+      "https://simonlermen.substack.com/p/can-ai-models-be-jailbroken-to-phish"
+    ]
+  ],
+  [
+    [
+      "2025-11-20, 00:27:22",
+      "https://news.ycombinator.com/item?id=45987220"
+    ],
+    [
+      "Workday to Acquire Pipedream",
+      "https://newsroom.workday.com/2025-11-19-Workday-Signs-Definitive-Agreement-to-Acquire-Pipedream"
+    ]
+  ],
+  [
+    [
+      "2025-11-20, 00:22:03",
+      "https://news.ycombinator.com/item?id=45987179"
+    ],
+    [
+      "Verifying your Matrix devices is becoming mandatory",
+      "https://element.io/blog/verifying-your-devices-is-becoming-mandatory-2/"
+    ]
+  ],
+  [
+    [
+      "2025-11-20, 00:02:50",
+      "https://news.ycombinator.com/item?id=45987027"
+    ],
+    [
+      "Linux Career Opportunities in 2025: Skills in High Demand",
+      "https://www.linuxcareers.com/resources/blog/2025/11/linux-career-opportunities-in-2025-skills-in-high-demand/"
+    ]
+  ],
+  [
+    [
       "2025-11-19, 22:08:06",
       "https://news.ycombinator.com/item?id=45985978"
     ],
@@ -17,16 +57,6 @@
     [
       "The patent office is about to make bad patents untouchable",
       "https://www.eff.org/deeplinks/2025/11/patent-office-about-make-bad-patents-untouchable"
-    ]
-  ],
-  [
-    [
-      "2025-11-19, 21:58:47",
-      "https://news.ycombinator.com/item?id=45985867"
-    ],
-    [
-      "It's your fault my laptop knows where I am",
-      "https://www.amoses.dev/blog/wifi-location/"
     ]
   ],
   [
@@ -101,16 +131,6 @@
   ],
   [
     [
-      "2025-11-19, 19:59:32",
-      "https://news.ycombinator.com/item?id=45984333"
-    ],
-    [
-      "The Subversive Hyperlink",
-      "https://blog.jim-nielsen.com/2024/the-subversive-hyperlink/"
-    ]
-  ],
-  [
-    [
       "2025-11-19, 19:44:46",
       "https://news.ycombinator.com/item?id=45984143"
     ],
@@ -137,16 +157,6 @@
     [
       "Building more with GPT-5.1-Codex-Max",
       "https://openai.com/index/gpt-5-1-codex-max/"
-    ]
-  ],
-  [
-    [
-      "2025-11-19, 17:52:52",
-      "https://news.ycombinator.com/item?id=45982526"
-    ],
-    [
-      "Show HN: DNS Benchmark Tool – Compare and monitor resolvers",
-      "https://github.com/frankovo/dns-benchmark-tool"
     ]
   ],
   [
@@ -251,16 +261,6 @@
   ],
   [
     [
-      "2025-11-14, 09:45:36",
-      "https://news.ycombinator.com/item?id=45925394"
-    ],
-    [
-      "Reproducible C++ builds by logging Git hashes",
-      "https://jgarby.uk/posts/git_repr/"
-    ]
-  ],
-  [
-    [
       "2025-11-13, 08:50:49",
       "https://news.ycombinator.com/item?id=45912457"
     ],
@@ -281,22 +281,22 @@
   ],
   [
     [
-      "2025-11-12, 18:06:02",
-      "https://news.ycombinator.com/item?id=45903485"
-    ],
-    [
-      "Control LLM Spend and Access with any-LLM-gateway",
-      "https://blog.mozilla.ai/control-llm-spend-and-access-with-any-llm-gateway/"
-    ]
-  ],
-  [
-    [
       "2025-11-12, 17:50:54",
       "https://news.ycombinator.com/item?id=45903273"
     ],
     [
       "How to identify a prime number without a computer",
       "https://www.scientificamerican.com/article/how-to-identify-a-prime-number-without-a-computer/"
+    ]
+  ],
+  [
+    [
+      "2025-11-12, 05:52:35",
+      "https://news.ycombinator.com/item?id=45896776"
+    ],
+    [
+      "Branching with or Without PII: The Future of Environments",
+      "https://neon.com/blog/branching-environments-anonymized-pii"
     ]
   ]
 ]
