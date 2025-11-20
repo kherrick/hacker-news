@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-11-20, 21:21:08](https://news.ycombinator.com/item?id=45997914) - [New Glenn Update – Blue Origin](https://www.blueorigin.com/news/new-glenn-upgraded-engines-subcooled-components-drive-enhanced-performance)
+* [2025-11-20, 21:05:12](https://news.ycombinator.com/item?id=45997722) - [Run Docker containers natively in Proxmox 9.1 (OCI images)](https://raymii.org/s/tutorials/Finally_run_Docker_containers_natively_in_Proxmox_9.1.html)
 * [2025-11-20, 20:30:15](https://news.ycombinator.com/item?id=45997294) - [Introducing Kagi Assistants](https://blog.kagi.com/kagi-assistants)
 * [2025-11-20, 20:15:56](https://news.ycombinator.com/item?id=45997099) - [We are replacing OOP with something worse](https://blog.jsbarretto.com/post/actors)
 * [2025-11-20, 19:52:55](https://news.ycombinator.com/item?id=45996860) - [CBP is monitoring US drivers and detaining those with suspicious travel patterns](https://apnews.com/article/immigration-border-patrol-surveillance-drivers-ice-trump-9f5d05469ce8c629d6fecf32d32098cd)
@@ -13,9 +15,7 @@
 * [2025-11-20, 17:04:34](https://news.ycombinator.com/item?id=45994854) - [Android and iPhone users can now share files, starting with the Pixel 10](https://blog.google/products/android/quick-share-airdrop/)
 * [2025-11-20, 15:04:23](https://news.ycombinator.com/item?id=45993296) - [Nano Banana Pro](https://blog.google/technology/ai/nano-banana-pro/)
 * [2025-11-20, 14:56:47](https://news.ycombinator.com/item?id=45993214) - [Freer Monads, More Extensible Effects (2015) [pdf]](https://okmij.org/ftp/Haskell/extensible/more.pdf)
-* [2025-11-20, 14:20:49](https://news.ycombinator.com/item?id=45992829) - [Firefox 147 Will Support the XDG Base Directory Specification](https://www.phoronix.com/news/Firefox-147-XDG-Base-Directory)
 * [2025-11-20, 12:21:15](https://news.ycombinator.com/item?id=45991853) - [Red Alert 2 in web browser](https://chronodivide.com/)
-* [2025-11-20, 12:01:26](https://news.ycombinator.com/item?id=45991738) - [Adversarial Poetry as a Universal Single-Turn Jailbreak Mechanism in LLMs](https://arxiv.org/abs/2511.15304)
 * [2025-11-20, 09:52:11](https://news.ycombinator.com/item?id=45990934) - [Interactive World History Atlas Since 3000 BC](http://geacron.com/home-en/)
 * [2025-11-20, 02:47:13](https://news.ycombinator.com/item?id=45988278) - [50th Anniversary of BitBLT](https://mastodon.sdf.org/@fvzappa/115574872559813280)
 * [2025-11-19, 20:09:30](https://news.ycombinator.com/item?id=45984461) - [Show HN: F32 – An Extremely Small ESP32 Board](https://github.com/PegorK/f32)
