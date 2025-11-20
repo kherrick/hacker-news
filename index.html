@@ -142,13 +142,115 @@
             <h4>
               <span>2025-11-20 @ 17:04:34</span
               ><span class="points-container"
-                >Points: <span class="points">37</span></span
+                >Points: <span class="points">54</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45994854"
                   >Comments</a
-                ><span class="descendants">: 19</span></span
+                ><span class="descendants">: 31</span></span
               >
             </h4>
+          </section>
+        </section>
+        <section id="45994592">
+          <h3>
+            <a class="item" href="https://github.com/telophasehq/tangent"
+              >Show HN: Tangent – Open-source security data pipeline</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2025-11-20 @ 16:41:31</span
+              ><span class="points-container"
+                >Points: <span class="points">5</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=45994592"
+                  >Comments</a
+                ><span class="descendants">: 0</span></span
+              >
+            </h4>
+            <div class="text">
+              <a href="https://github.com/telophasehq/tangent"
+                >https://github.com/telophasehq/tangent</a
+              >), a Rust-based log pipeline where all normalization, enrichment,
+              and detection logic runs as WASM plugins.
+              <p>
+                We kept seeing the same problems in the OCSF (<a
+                  href="https://ocsf.io"
+                  >https://ocsf.io</a
+                >) community: 1) Schemas change constantly. Large companies have
+                whole teams dedicated to keeping vendor→OCSF mappings up to
+                date. 2) There’s no shared library of mappings, so everyone
+                recreates the same work. 3) Writing mappers is tedious,
+                repetitive work. 4) Most pipelines use proprietary DSLs that are
+                hard to share and hard for tools/LLMs to generate.
+              </p>
+              <p>
+                Tangent takes a different approach: no DSLs – mappings and
+                enrichments are just normal code compiled to WASM, shareable
+                plugins – we maintain a community library (<a
+                  href="https://github.com/telophasehq/tangent-plugins"
+                  >https://github.com/telophasehq/tangent-plugins</a
+                >), interoperability – we can run other engines’ DSLs (e.g.,
+                Bloblang) inside WASM for easy migration, full flexibility –
+                plugins can validate schemas, call external APIs (<a
+                  href="https://github.com/telophasehq/tangent/blob/main/examples/enrichment/main.go#L58"
+                  >https://github.com/telophasehq/tangent/blob/main/examples/en...</a
+                >), or perform complex transforms (<a
+                  href="https://github.com/telophasehq/tangent-plugins/blob/main/zeek-ocsf/conn/main.go#L312"
+                  >https://github.com/telophasehq/tangent-plugins/blob/main/zee...</a
+                >).
+              </p>
+              <p>
+                Here's an example Python transformation plugin to drop all
+                fields from a log except `message`:
+              </p>
+              <p></p>
+              <pre><code>  import json
+  
+  from typing import List
+  
+  from wit_world.imports import log
+  
+  # `log.Logview` is Tangent's zero-copy JSON accessor type.
+  
+  def process_logs(self, logs: List[log.Logview]) -&gt; bytes:
+  
+      out = bytearray()
+  
+      for lv in logs:
+  
+          msg = lv.get("msg")
+  
+          value = msg.value if msg is not None else ""
+  
+          out.extend(json.dumps({"message": value}).encode() + b"\n")
+  
+      return bytes(out)
+</code></pre>
+              We have plenty more examples in the repo.
+              <p>
+                Because plugins are just Go/Python/Rust, LLMs can create new
+                mappers with ease. For example, I asked:
+              </p>
+              <p></p>
+              <pre><code>  Generate a mapper from AWS Security Hub Finding to OCSF
+</code></pre>
+              and only had to make a few minor tweaks. (<a
+                href="https://github.com/telophasehq/tangent-plugins/blob/main/aws-ocsf/security_hub/main.go"
+                >https://github.com/telophasehq/tangent-plugins/blob/main/aws...</a
+              >)
+              <p>
+                Performance-wise, a 16-core Amazon Linux box processes ~480 MB/s
+                end-to-end (TCP → Rust-WASM transform → sink) on ~100-byte JSON
+                logs. The CLI includes tooling to scaffold, test, and benchmark
+                plugins locally. Here's a deep dive into how we are able to get
+                this performance:
+                <a href="https://docs.telophasehq.com/runtime"
+                  >https://docs.telophasehq.com/runtime</a
+                >.
+              </p>
+              <p>We’d love to get your feedback! What do you think?</p>
+            </div>
           </section>
         </section>
         <section id="45993943">
@@ -163,11 +265,11 @@
             <h4>
               <span>2025-11-20 @ 15:53:17</span
               ><span class="points-container"
-                >Points: <span class="points">98</span></span
+                >Points: <span class="points">105</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45993943"
                   >Comments</a
-                ><span class="descendants">: 69</span></span
+                ><span class="descendants">: 80</span></span
               >
             </h4>
           </section>
@@ -184,11 +286,11 @@
             <h4>
               <span>2025-11-20 @ 15:04:23</span
               ><span class="points-container"
-                >Points: <span class="points">391</span></span
+                >Points: <span class="points">406</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45993296"
                   >Comments</a
-                ><span class="descendants">: 251</span></span
+                ><span class="descendants">: 259</span></span
               >
             </h4>
           </section>
@@ -205,11 +307,11 @@
             <h4>
               <span>2025-11-20 @ 14:56:47</span
               ><span class="points-container"
-                >Points: <span class="points">26</span></span
+                >Points: <span class="points">29</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45993214"
                   >Comments</a
-                ><span class="descendants">: 1</span></span
+                ><span class="descendants">: 2</span></span
               >
             </h4>
           </section>
@@ -226,11 +328,11 @@
             <h4>
               <span>2025-11-20 @ 14:20:49</span
               ><span class="points-container"
-                >Points: <span class="points">200</span></span
+                >Points: <span class="points">208</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45992829"
                   >Comments</a
-                ><span class="descendants">: 61</span></span
+                ><span class="descendants">: 64</span></span
               >
             </h4>
           </section>
@@ -248,11 +350,11 @@
             <h4>
               <span>2025-11-20 @ 13:37:13</span
               ><span class="points-container"
-                >Points: <span class="points">77</span></span
+                >Points: <span class="points">79</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45992403"
                   >Comments</a
-                ><span class="descendants">: 61</span></span
+                ><span class="descendants">: 65</span></span
               >
             </h4>
           </section>
@@ -267,11 +369,11 @@
             <h4>
               <span>2025-11-20 @ 12:21:15</span
               ><span class="points-container"
-                >Points: <span class="points">252</span></span
+                >Points: <span class="points">260</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45991853"
                   >Comments</a
-                ><span class="descendants">: 81</span></span
+                ><span class="descendants">: 84</span></span
               >
             </h4>
           </section>
@@ -288,11 +390,11 @@
             <h4>
               <span>2025-11-20 @ 12:08:56</span
               ><span class="points-container"
-                >Points: <span class="points">266</span></span
+                >Points: <span class="points">273</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45991787"
                   >Comments</a
-                ><span class="descendants">: 91</span></span
+                ><span class="descendants">: 92</span></span
               >
             </h4>
           </section>
@@ -308,11 +410,11 @@
             <h4>
               <span>2025-11-20 @ 12:01:26</span
               ><span class="points-container"
-                >Points: <span class="points">154</span></span
+                >Points: <span class="points">158</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45991738"
                   >Comments</a
-                ><span class="descendants">: 97</span></span
+                ><span class="descendants">: 100</span></span
               >
             </h4>
           </section>
@@ -327,7 +429,7 @@
             <h4>
               <span>2025-11-20 @ 09:52:11</span
               ><span class="points-container"
-                >Points: <span class="points">217</span></span
+                >Points: <span class="points">221</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45990934"
                   >Comments</a
@@ -348,11 +450,11 @@
             <h4>
               <span>2025-11-20 @ 09:04:30</span
               ><span class="points-container"
-                >Points: <span class="points">64</span></span
+                >Points: <span class="points">65</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45990575"
                   >Comments</a
-                ><span class="descendants">: 12</span></span
+                ><span class="descendants">: 13</span></span
               >
             </h4>
           </section>
@@ -369,7 +471,7 @@
             <h4>
               <span>2025-11-20 @ 05:41:06</span
               ><span class="points-container"
-                >Points: <span class="points">174</span></span
+                >Points: <span class="points">176</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45989329"
                   >Comments</a
@@ -390,30 +492,11 @@
             <h4>
               <span>2025-11-20 @ 00:22:03</span
               ><span class="points-container"
-                >Points: <span class="points">175</span></span
+                >Points: <span class="points">179</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45987179"
                   >Comments</a
                 ><span class="descendants">: 202</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="45985867">
-          <h3>
-            <a class="item" href="https://www.amoses.dev/blog/wifi-location/"
-              >Precise geolocation via Wi-Fi Positioning System</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2025-11-19 @ 21:58:47</span
-              ><span class="points-container"
-                >Points: <span class="points">235</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=45985867"
-                  >Comments</a
-                ><span class="descendants">: 100</span></span
               >
             </h4>
           </section>
@@ -434,7 +517,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45985036"
                   >Comments</a
-                ><span class="descendants">: 118</span></span
+                ><span class="descendants">: 119</span></span
               >
             </h4>
           </section>
@@ -452,7 +535,7 @@
             <h4>
               <span>2025-11-19 @ 20:26:43</span
               ><span class="points-container"
-                >Points: <span class="points">406</span></span
+                >Points: <span class="points">407</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45984659"
                   >Comments</a
@@ -473,7 +556,7 @@
             <h4>
               <span>2025-11-19 @ 19:44:07</span
               ><span class="points-container"
-                >Points: <span class="points">128</span></span
+                >Points: <span class="points">129</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45984133"
                   >Comments</a
@@ -496,7 +579,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45982649"
                   >Comments</a
-                ><span class="descendants">: 286</span></span
+                ><span class="descendants">: 287</span></span
               >
             </h4>
           </section>
@@ -511,7 +594,7 @@
             <h4>
               <span>2025-11-19 @ 17:14:51</span
               ><span class="points-container"
-                >Points: <span class="points">615</span></span
+                >Points: <span class="points">616</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45982073"
                   >Comments</a
@@ -532,11 +615,11 @@
             <h4>
               <span>2025-11-19 @ 14:41:30</span
               ><span class="points-container"
-                >Points: <span class="points">884</span></span
+                >Points: <span class="points">886</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45980117"
                   >Comments</a
-                ><span class="descendants">: 1021</span></span
+                ><span class="descendants">: 1025</span></span
               >
             </h4>
           </section>
@@ -554,7 +637,7 @@
             <h4>
               <span>2025-11-18 @ 19:32:27</span
               ><span class="points-container"
-                >Points: <span class="points">97</span></span
+                >Points: <span class="points">98</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45970885"
                   >Comments</a
@@ -596,11 +679,11 @@
             <h4>
               <span>2025-11-17 @ 06:28:16</span
               ><span class="points-container"
-                >Points: <span class="points">237</span></span
+                >Points: <span class="points">239</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45951275"
                   >Comments</a
-                ><span class="descendants">: 124</span></span
+                ><span class="descendants">: 126</span></span
               >
             </h4>
           </section>
@@ -615,7 +698,7 @@
             <h4>
               <span>2025-11-16 @ 18:56:56</span
               ><span class="points-container"
-                >Points: <span class="points">203</span></span
+                >Points: <span class="points">206</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45947437"
                   >Comments</a
@@ -636,11 +719,11 @@
             <h4>
               <span>2025-11-15 @ 17:44:21</span
               ><span class="points-container"
-                >Points: <span class="points">34</span></span
+                >Points: <span class="points">36</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45939148"
                   >Comments</a
-                ><span class="descendants">: 22</span></span
+                ><span class="descendants">: 23</span></span
               >
             </h4>
           </section>
@@ -658,11 +741,11 @@
             <h4>
               <span>2025-11-15 @ 03:26:22</span
               ><span class="points-container"
-                >Points: <span class="points">21</span></span
+                >Points: <span class="points">25</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45934795"
                   >Comments</a
-                ><span class="descendants">: 8</span></span
+                ><span class="descendants">: 9</span></span
               >
             </h4>
           </section>
@@ -680,11 +763,11 @@
             <h4>
               <span>2025-11-14 @ 00:51:20</span
               ><span class="points-container"
-                >Points: <span class="points">62</span></span
+                >Points: <span class="points">63</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45922610"
                   >Comments</a
-                ><span class="descendants">: 17</span></span
+                ><span class="descendants">: 18</span></span
               >
             </h4>
           </section>
@@ -701,11 +784,11 @@
             <h4>
               <span>2025-11-13 @ 09:24:53</span
               ><span class="points-container"
-                >Points: <span class="points">11</span></span
+                >Points: <span class="points">12</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45912704"
                   >Comments</a
-                ><span class="descendants">: 4</span></span
+                ><span class="descendants">: 5</span></span
               >
             </h4>
           </section>
@@ -722,7 +805,7 @@
             <h4>
               <span>2025-11-13 @ 00:18:21</span
               ><span class="points-container"
-                >Points: <span class="points">36</span></span
+                >Points: <span class="points">37</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45908801"
                   >Comments</a
@@ -743,11 +826,11 @@
             <h4>
               <span>2025-11-12 @ 00:55:13</span
               ><span class="points-container"
-                >Points: <span class="points">50</span></span
+                >Points: <span class="points">52</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45895100"
                   >Comments</a
-                ><span class="descendants">: 27</span></span
+                ><span class="descendants">: 33</span></span
               >
             </h4>
           </section>
