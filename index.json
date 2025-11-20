@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-11-20, 17:47:06",
+      "https://news.ycombinator.com/item?id=45995394"
+    ],
+    [
+      "Launch HN: Poly (YC S22) – Cursor for Files",
+      "https://news.ycombinator.com/item?id=45995394"
+    ]
+  ],
+  [
+    [
       "2025-11-20, 17:07:49",
       "https://news.ycombinator.com/item?id=45994895"
     ],
@@ -15,7 +25,7 @@
       "https://news.ycombinator.com/item?id=45994854"
     ],
     [
-      "Android and iPhone users can now share files, starting with the Pixel 10 family",
+      "Android and iPhone users can now share files, starting with the Pixel 10",
       "https://blog.google/products/android/quick-share-airdrop/"
     ]
   ],
@@ -27,16 +37,6 @@
     [
       "Show HN: Tangent – Open-source security data pipeline",
       "https://github.com/telophasehq/tangent"
-    ]
-  ],
-  [
-    [
-      "2025-11-20, 16:15:00",
-      "https://news.ycombinator.com/item?id=45994235"
-    ],
-    [
-      "Show HN: Rapid-rs – Zero-config web framework for Rust",
-      "https://crates.io/crates/rapid-rs"
     ]
   ],
   [
@@ -85,7 +85,7 @@
       "https://news.ycombinator.com/item?id=45992403"
     ],
     [
-      "Judgement on Dr Matthew Garrett (@mjg59) vs. Dr Roy Schestowitz (Techrights.org)",
+      "Dr Matthew Garrett v Dr Roy Schestowitz and Anor",
       "https://caselaw.nationalarchives.gov.uk/ewhc/kb/2025/3063"
     ]
   ],
@@ -105,7 +105,7 @@
       "https://news.ycombinator.com/item?id=45991787"
     ],
     [
-      "40 years ago, Calvin and Hobbes' burst onto the page",
+      "'Calvin and Hobbes' at 40",
       "https://www.npr.org/2025/11/18/nx-s1-5564064/calvin-and-hobbes-bill-watterson-40-years-comic-strip-lee-salem"
     ]
   ],
@@ -187,16 +187,6 @@
     [
       "The lost cause of the Lisp machines",
       "https://www.tfeb.org/fragments/2025/11/18/the-lost-cause-of-the-lisp-machines/"
-    ]
-  ],
-  [
-    [
-      "2025-11-19, 18:01:59",
-      "https://news.ycombinator.com/item?id=45982649"
-    ],
-    [
-      "Building more with GPT-5.1-Codex-Max",
-      "https://openai.com/index/gpt-5-1-codex-max/"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Smart Performance Hacks for Faster Python Code",
       "https://blog.jetbrains.com/pycharm/2025/11/10-smart-performance-hacks-for-faster-python-code/"
+    ]
+  ],
+  [
+    [
+      "2025-11-11, 22:22:05",
+      "https://news.ycombinator.com/item?id=45893696"
+    ],
+    [
+      "Typesetting the \"Begriffsschrift\" by Gottlob Frege in Plain TeX [pdf]",
+      "https://www.tug.org/TUGboat/tb36-3/tb114wermuth.pdf"
     ]
   ]
 ]
