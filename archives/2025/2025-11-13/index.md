@@ -83,4 +83,5 @@
 * [2025-11-13, 01:57:11](https://news.ycombinator.com/item?id=45909525) - [Temporal Dithering of NeoPixels on an ATtiny412](http://sarah.alroe.dk/2025/NeoInf/)
 * [2025-11-13, 00:48:45](https://news.ycombinator.com/item?id=45909059) - [Human Fovea Detector](https://www.shadertoy.com/view/4dsXzM)
 * [2025-11-13, 00:33:25](https://news.ycombinator.com/item?id=45908938) - [Google will allow users to sideload Android apps without verification](https://android-developers.googleblog.com/2025/11/android-developer-verification-early.html)
+* [2025-11-13, 00:18:21](https://news.ycombinator.com/item?id=45908801) - [New Proofs Probe Soap-Film Singularities](https://www.quantamagazine.org/new-proofs-probe-soap-film-singularities-20251112/)
 * [2025-11-13, 00:01:55](https://news.ycombinator.com/item?id=45908680) - [Louisiana Took Months to Sound Alarm Amid Whooping Cough Outbreak](https://undark.org/2025/11/11/louisiana-whooping-cough-slow/)
