@@ -1,22 +1,12 @@
 [
   [
     [
-      "2025-11-20, 12:19:00",
-      "https://news.ycombinator.com/item?id=45991835"
-    ],
-    [
-      "Tesla Robotaxi had 3 more crashes, now 7 total",
-      "https://electrek.co/2025/11/17/tesla-robotaxi-had-3-more-crashes-now-7-total/"
-    ]
-  ],
-  [
-    [
       "2025-11-20, 12:08:56",
       "https://news.ycombinator.com/item?id=45991787"
     ],
     [
       "40 years ago, Calvin and Hobbes' raucous adventures burst onto the comics page",
-      "https://text.npr.org/nx-s1-5564064"
+      "https://www.npr.org/2025/11/18/nx-s1-5564064/calvin-and-hobbes-bill-watterson-40-years-comic-strip-lee-salem"
     ]
   ],
   [
@@ -65,7 +55,7 @@
       "https://news.ycombinator.com/item?id=45989650"
     ],
     [
-      "Implementation of a Java Processor on a FPGA",
+      "Implementation of a Java Processor on a FPGA (2016)",
       "https://mavmatrix.uta.edu/electricaleng_theses/337/"
     ]
   ],
@@ -75,7 +65,7 @@
       "https://news.ycombinator.com/item?id=45989469"
     ],
     [
-      "PHP 8.5 gets released today, here's what's new",
+      "PHP 8.5",
       "https://stitcher.io/blog/new-in-php-85"
     ]
   ],
@@ -95,8 +85,18 @@
       "https://news.ycombinator.com/item?id=45989186"
     ],
     [
-      "#!magic, details about the shebang/hash-bang mechanism on various Unix flavours",
+      "Details about the shebang/hash-bang mechanism on various Unix flavours (2001)",
       "https://www.in-ulm.de/%7Emascheck/various/shebang/"
+    ]
+  ],
+  [
+    [
+      "2025-11-20, 00:22:03",
+      "https://news.ycombinator.com/item?id=45987179"
+    ],
+    [
+      "Verifying your Matrix devices is becoming mandatory",
+      "https://element.io/blog/verifying-your-devices-is-becoming-mandatory-2/"
     ]
   ],
   [
@@ -141,6 +141,16 @@
   ],
   [
     [
+      "2025-11-19, 19:44:07",
+      "https://news.ycombinator.com/item?id=45984133"
+    ],
+    [
+      "The lost cause of the Lisp machines",
+      "https://www.tfeb.org/fragments/2025/11/18/the-lost-cause-of-the-lisp-machines/"
+    ]
+  ],
+  [
+    [
       "2025-11-19, 19:09:27",
       "https://news.ycombinator.com/item?id=45983700"
     ],
@@ -165,7 +175,7 @@
       "https://news.ycombinator.com/item?id=45982162"
     ],
     [
-      "Static Web Hosting on the Intel N150: FreeBSD, SmartOS, NetBSD, OpenBSD and Linu",
+      "Static Web Hosting on the Intel N150",
       "https://it-notes.dragas.net/2025/11/19/static-web-hosting-intel-n150-freebsd-smartos-netbsd-openbsd-linux/"
     ]
   ],
@@ -201,6 +211,26 @@
   ],
   [
     [
+      "2025-11-18, 19:32:27",
+      "https://news.ycombinator.com/item?id=45970885"
+    ],
+    [
+      "A surprise with how '#!' handles its program argument in practice",
+      "https://utcc.utoronto.ca/~cks/space/blog/unix/ShebangRelativePathSurprise"
+    ]
+  ],
+  [
+    [
+      "2025-11-17, 18:32:16",
+      "https://news.ycombinator.com/item?id=45956438"
+    ],
+    [
+      "Towards Interplanetary QUIC Traffic",
+      "https://ochagavia.nl/blog/towards-interplanetary-quic-traffic/"
+    ]
+  ],
+  [
+    [
       "2025-11-17, 06:28:16",
       "https://news.ycombinator.com/item?id=45951275"
     ],
@@ -225,18 +255,8 @@
       "https://news.ycombinator.com/item?id=45939148"
     ],
     [
-      "Wrapping My Head Around AI Wrappers",
+      "Wrapping my head around AI wrappers",
       "https://www.wreflection.com/p/wrapping-my-head-around-ai-wrappers"
-    ]
-  ],
-  [
-    [
-      "2025-11-15, 02:55:06",
-      "https://news.ycombinator.com/item?id=45934665"
-    ],
-    [
-      "Vortex: An extensible, state of the art columnar file format",
-      "https://github.com/vortex-data/vortex"
     ]
   ],
   [
@@ -261,32 +281,12 @@
   ],
   [
     [
-      "2025-11-13, 12:29:55",
-      "https://news.ycombinator.com/item?id=45914115"
-    ],
-    [
-      "Foliated Distance Fields [video]",
-      "https://www.youtube.com/watch?v=3AGeLuO5WdY"
-    ]
-  ],
-  [
-    [
       "2025-11-13, 00:18:21",
       "https://news.ycombinator.com/item?id=45908801"
     ],
     [
       "New Proofs Probe Soap-Film Singularities",
       "https://www.quantamagazine.org/new-proofs-probe-soap-film-singularities-20251112/"
-    ]
-  ],
-  [
-    [
-      "2025-11-12, 17:50:54",
-      "https://news.ycombinator.com/item?id=45903273"
-    ],
-    [
-      "The Lucas-Lehmer Prime Number Test",
-      "https://www.scientificamerican.com/article/how-to-identify-a-prime-number-without-a-computer/"
     ]
   ],
   [
