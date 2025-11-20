@@ -24,6 +24,7 @@
 * [2025-11-16, 19:20:27](https://news.ycombinator.com/item?id=45947633) - [Pennies Are Trash Now](https://www.theatlantic.com/ideas/2025/11/pennies-circulation-mint/684935/)
 * [2025-11-16, 19:09:30](https://news.ycombinator.com/item?id=45947530) - [Don't Post Passive-Aggressive Webpages](https://dontpostpassiveaggressivewebpages.com/)
 * [2025-11-16, 18:58:10](https://news.ycombinator.com/item?id=45947444) - [What if you don't need MCP at all?](https://mariozechner.at/posts/2025-11-02-what-if-you-dont-need-mcp/)
+* [2025-11-16, 18:56:56](https://news.ycombinator.com/item?id=45947437) - [CUDA Ontology](https://jamesakl.com/posts/cuda-ontology/)
 * [2025-11-16, 18:56:31](https://news.ycombinator.com/item?id=45947434) - [AI is killing privacy. We can't let that happen](https://www.fastcompany.com/91435189/ai-privacy-openai-tracking-apps)
 * [2025-11-16, 18:51:13](https://news.ycombinator.com/item?id=45947394) - [How to Scale Distributed Product Teams from 10 to 100](https://intelligentfuturetech.com/blog/scaling-distributed-product-teams-2025/)
 * [2025-11-16, 18:47:40](https://news.ycombinator.com/item?id=45947374) - [Decoding Leibniz Notation (2024)](https://www.spakhm.com/leibniz)
