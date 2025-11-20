@@ -63,6 +63,7 @@
 * [2025-11-13, 10:46:26](https://news.ycombinator.com/item?id=45913319) - [fuckborderradius.com](https://fuckborderradius.com)
 * [2025-11-13, 09:36:51](https://news.ycombinator.com/item?id=45912785) - [Seed. LINE's Custom Typeface](https://seed.line.me/index_en.html)
 * [2025-11-13, 09:30:53](https://news.ycombinator.com/item?id=45912744) - [Telli (Voice AI – YC F24) is hiring ambitious engineers in [on-site, Berlin]](https://hi.telli.com/eng)
+* [2025-11-13, 09:24:53](https://news.ycombinator.com/item?id=45912704) - [IBM Delivers New Quantum Package](https://newsroom.ibm.com/2025-11-12-ibm-delivers-new-quantum-processors,-software,-and-algorithm-breakthroughs-on-path-to-advantage-and-fault-tolerance)
 * [2025-11-13, 09:23:30](https://news.ycombinator.com/item?id=45912698) - [Checkout.com hacked, refuses ransom payment, donates to security labs](https://www.checkout.com/blog/protecting-our-merchants-standing-up-to-extortion)
 * [2025-11-13, 08:50:49](https://news.ycombinator.com/item?id=45912457) - [Bret Victor the Future of Programming (2013) [video]](https://www.youtube.com/watch?v=8pTEmbeENF4)
 * [2025-11-13, 07:37:50](https://news.ycombinator.com/item?id=45911897) - [Fizz Buzz without conditionals or booleans](https://evanhahn.com/fizz-buzz-without-conditionals-or-booleans/)
