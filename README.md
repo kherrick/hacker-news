@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-11-20, 09:52:11](https://news.ycombinator.com/item?id=45990934) - [Interactive World History Atlas Since 3000 BC](http://geacron.com/home-en/)
+* [2025-11-20, 09:04:30](https://news.ycombinator.com/item?id=45990575) - [DOS Days – Laptop Displays](https://www.dosdays.co.uk/topics/laptop_displays.php)
 * [2025-11-20, 06:40:46](https://news.ycombinator.com/item?id=45989650) - [Implementation of a Java Processor on a FPGA](https://mavmatrix.uta.edu/electricaleng_theses/337/)
 * [2025-11-20, 06:07:01](https://news.ycombinator.com/item?id=45989469) - [PHP 8.5 gets released today, here's what's new](https://stitcher.io/blog/new-in-php-85)
 * [2025-11-20, 05:41:06](https://news.ycombinator.com/item?id=45989329) - [Basalt Woven Textile](https://materialdistrict.com/material/basalt-woven-textile/)
@@ -11,7 +12,6 @@
 * [2025-11-19, 21:07:05](https://news.ycombinator.com/item?id=45985196) - [How Slide Rules Work](https://amenzwa.github.io/stem/ComputingHistory/HowSlideRulesWork/)
 * [2025-11-19, 20:55:30](https://news.ycombinator.com/item?id=45985036) - [Researchers discover security vulnerability in WhatsApp](https://www.univie.ac.at/en/news/detail/forscherinnen-entdecken-grosse-sicherheitsluecke-in-whatsapp)
 * [2025-11-19, 20:26:43](https://news.ycombinator.com/item?id=45984659) - [Loose wire leads to blackout, contact with Francis Scott Key bridge](https://www.ntsb.gov:443/news/press-releases/Pages/NR20251118.aspx)
-* [2025-11-19, 19:55:49](https://news.ycombinator.com/item?id=45984282) - [Robert Louis Stevenson's Art of Living (and Dying)](https://lithub.com/robert-louis-stevensons-art-of-living-and-dying/)
 * [2025-11-19, 19:44:07](https://news.ycombinator.com/item?id=45984133) - [The lost cause of the Lisp machines](https://www.tfeb.org/fragments/2025/11/18/the-lost-cause-of-the-lisp-machines/)
 * [2025-11-19, 19:42:38](https://news.ycombinator.com/item?id=45984112) - [Measuring political bias in Claude](https://www.anthropic.com/news/political-even-handedness)
 * [2025-11-19, 19:09:27](https://news.ycombinator.com/item?id=45983700) - [AI is a front for consolidation of resources and power](https://www.chrbutler.com/what-ai-is-really-for)
