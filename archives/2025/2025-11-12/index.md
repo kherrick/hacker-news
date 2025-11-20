@@ -56,6 +56,7 @@
 * [2025-11-12, 13:58:12](https://news.ycombinator.com/item?id=45900238) - [Mysterious holes in the Andes may have been an ancient marketplace](https://www.sydney.edu.au/news-opinion/news/2025/11/10/mysterious-holes-in-the-andes-may-have-been-an-ancient-marketplace-new-research-suggests.html)
 * [2025-11-12, 13:50:47](https://news.ycombinator.com/item?id=45900159) - [The Geometry Behind Normal Maps](https://www.shlom.dev/articles/geometry-behind-normal-maps/)
 * [2025-11-12, 13:46:28](https://news.ycombinator.com/item?id=45900108) - [Micro.blog launches new 'Studio' tier with video hosting](https://heydingus.net/blog/2025/11/micro-blog-offers-an-indie-alternative-to-youtube-with-its-studio-video-hosting-plan)
+* [2025-11-12, 13:24:58](https://news.ycombinator.com/item?id=45899836) - [CoMaps emerges as an Organic Maps fork](https://lwn.net/Articles/1024387/)
 * [2025-11-12, 12:58:59](https://news.ycombinator.com/item?id=45899592) - [New study finds users are marrying and having virtual children with AI chatbots](https://www.psypost.org/new-study-finds-users-are-marrying-and-having-virtual-children-with-ai-chatbots/)
 * [2025-11-12, 12:56:06](https://news.ycombinator.com/item?id=45899568) - [Write Cypress Tests in Natural Language with Cy.prompt()](https://www.cypress.io/blog/cy-prompt-experimental-launch)
 * [2025-11-12, 12:10:11](https://news.ycombinator.com/item?id=45899189) - [A brief look at FreeBSD](https://yorickpeterse.com/articles/a-brief-look-at-freebsd/)
