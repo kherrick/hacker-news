@@ -1,16 +1,6 @@
 [
   [
     [
-      "2025-11-20, 22:10:23",
-      "https://news.ycombinator.com/item?id=45998531"
-    ],
-    [
-      "Gmail can read your emails and attachments to train its AI, unless you opt out",
-      "https://www.malwarebytes.com/blog/news/2025/11/gmail-is-reading-your-emails-and-attachments-to-train-its-ai-unless-you-turn-it-off"
-    ]
-  ],
-  [
-    [
       "2025-11-20, 21:33:37",
       "https://news.ycombinator.com/item?id=45998047"
     ],
@@ -55,7 +45,7 @@
       "https://news.ycombinator.com/item?id=45997294"
     ],
     [
-      "Introducing Kagi Assistants",
+      "Kagi Assistants",
       "https://blog.kagi.com/kagi-assistants"
     ]
   ],
@@ -67,6 +57,16 @@
     [
       "New OS aims to provide (some) compatibility with macOS",
       "https://github.com/ravynsoft/ravynos"
+    ]
+  ],
+  [
+    [
+      "2025-11-20, 20:15:56",
+      "https://news.ycombinator.com/item?id=45997099"
+    ],
+    [
+      "OOP is shifting between domains, not disappearing",
+      "https://blog.jsbarretto.com/post/actors"
     ]
   ],
   [
@@ -95,7 +95,7 @@
       "https://news.ycombinator.com/item?id=45996433"
     ],
     [
-      "Mozilla Says It's Finally Done with Two-Faced Onerep",
+      "Mozilla says it's finally done with Onerep",
       "https://krebsonsecurity.com/2025/11/mozilla-says-its-finally-done-with-two-faced-onerep/"
     ]
   ],
@@ -195,7 +195,7 @@
       "https://news.ycombinator.com/item?id=45991738"
     ],
     [
-      "Adversarial Poetry as a Universal Single-Turn Jailbreak Mechanism in LLMs",
+      "Adversarial poetry as a universal single-turn jailbreak mechanism in LLMs",
       "https://arxiv.org/abs/2511.15304"
     ]
   ],
@@ -291,12 +291,12 @@
   ],
   [
     [
-      "2025-11-13, 09:24:53",
-      "https://news.ycombinator.com/item?id=45912704"
+      "2025-11-12, 05:04:30",
+      "https://news.ycombinator.com/item?id=45896554"
     ],
     [
-      "IBM Delivers New Quantum Package",
-      "https://newsroom.ibm.com/2025-11-12-ibm-delivers-new-quantum-processors,-software,-and-algorithm-breakthroughs-on-path-to-advantage-and-fault-tolerance"
+      "Readonly Characters Are a Big Deal",
+      "https://matklad.github.io/2025/11/10/readonly-characters.html"
     ]
   ]
 ]
