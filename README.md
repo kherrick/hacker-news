@@ -1,7 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-11-20, 17:07:49](https://news.ycombinator.com/item?id=45994895) - [Go Cryptography State of the Union](https://words.filippo.io/2025-state/)
 * [2025-11-20, 17:04:34](https://news.ycombinator.com/item?id=45994854) - [Android and iPhone users can now share files, starting with the Pixel 10 family](https://blog.google/products/android/quick-share-airdrop/)
 * [2025-11-20, 16:41:31](https://news.ycombinator.com/item?id=45994592) - [Show HN: Tangent – Open-source security data pipeline](https://github.com/telophasehq/tangent)
+* [2025-11-20, 16:15:00](https://news.ycombinator.com/item?id=45994235) - [Show HN: Rapid-rs – Zero-config web framework for Rust](https://crates.io/crates/rapid-rs)
 * [2025-11-20, 15:53:17](https://news.ycombinator.com/item?id=45993943) - [The Banished Bottom of the Housing Market](https://www.ryanpuzycki.com/p/the-banished-bottom-of-the-housing)
 * [2025-11-20, 15:04:23](https://news.ycombinator.com/item?id=45993296) - [Nano Banana Pro](https://blog.google/technology/ai/nano-banana-pro/)
 * [2025-11-20, 14:56:47](https://news.ycombinator.com/item?id=45993214) - [Freer Monads, More Extensible Effects [pdf]](https://okmij.org/ftp/Haskell/extensible/more.pdf)
@@ -20,7 +22,6 @@
 * [2025-11-19, 18:01:59](https://news.ycombinator.com/item?id=45982649) - [Building more with GPT-5.1-Codex-Max](https://openai.com/index/gpt-5-1-codex-max/)
 * [2025-11-19, 17:14:51](https://news.ycombinator.com/item?id=45982073) - [Meta Segment Anything Model 3](https://ai.meta.com/sam3/)
 * [2025-11-19, 14:41:30](https://news.ycombinator.com/item?id=45980117) - [Europe is scaling back GDPR and relaxing AI laws](https://www.theverge.com/news/823750/european-union-ai-act-gdpr-changes)
-* [2025-11-18, 19:32:27](https://news.ycombinator.com/item?id=45970885) - [A surprise with how '#!' handles its program argument in practice](https://utcc.utoronto.ca/~cks/space/blog/unix/ShebangRelativePathSurprise)
 * [2025-11-17, 18:32:16](https://news.ycombinator.com/item?id=45956438) - [Towards Interplanetary QUIC Traffic](https://ochagavia.nl/blog/towards-interplanetary-quic-traffic/)
 * [2025-11-17, 06:28:16](https://news.ycombinator.com/item?id=45951275) - [Android/Linux Dual Boot](https://wiki.postmarketos.org/wiki/Dual_Booting/WiP)
 * [2025-11-16, 18:56:56](https://news.ycombinator.com/item?id=45947437) - [CUDA Ontology](https://jamesakl.com/posts/cuda-ontology/)
@@ -28,7 +29,6 @@
 * [2025-11-15, 03:26:22](https://news.ycombinator.com/item?id=45934795) - [Theft of the Weeping Woman from the National Gallery of Victoria](https://en.wikipedia.org/wiki/Theft_of_The_Weeping_Woman_from_the_National_Gallery_of_Victoria)
 * [2025-11-14, 00:51:20](https://news.ycombinator.com/item?id=45922610) - [Scientists Reveal How the Maya Predicted Eclipses for Centuries](https://www.sciencealert.com/scientists-reveal-how-the-maya-predicted-eclipses-for-centuries)
 * [2025-11-13, 09:24:53](https://news.ycombinator.com/item?id=45912704) - [IBM Delivers New Quantum Package](https://newsroom.ibm.com/2025-11-12-ibm-delivers-new-quantum-processors,-software,-and-algorithm-breakthroughs-on-path-to-advantage-and-fault-tolerance)
-* [2025-11-13, 00:18:21](https://news.ycombinator.com/item?id=45908801) - [New Proofs Probe Soap-Film Singularities](https://www.quantamagazine.org/new-proofs-probe-soap-film-singularities-20251112/)
 * [2025-11-12, 00:55:13](https://news.ycombinator.com/item?id=45895100) - [Smart Performance Hacks for Faster Python Code](https://blog.jetbrains.com/pycharm/2025/11/10-smart-performance-hacks-for-faster-python-code/)
 
 ## [Archives](archives/index.md)
