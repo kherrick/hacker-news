@@ -56,6 +56,7 @@
 * [2025-11-15, 06:00:26](https://news.ycombinator.com/item?id=45935396) - [Adding Customizable Frame Contrast to KDE Plasma](https://akselmo.dev/posts/frame-contrast-settings/)
 * [2025-11-15, 05:44:43](https://news.ycombinator.com/item?id=45935342) - [So, you want to design your own language?](https://cs.lmu.edu/~ray/notes/languagedesignnotes/)
 * [2025-11-15, 05:32:38](https://news.ycombinator.com/item?id=45935294) - [How two photographers transformed RAW photo support on Mac](https://petapixel.com/2025/11/14/how-two-photographers-transformed-raw-photo-support-on-mac/)
+* [2025-11-15, 05:01:48](https://news.ycombinator.com/item?id=45935167) - [New Proofs Probe Soap-Film Singularities](https://www.quantamagazine.org/new-proofs-probe-soap-film-singularities-20251112/)
 * [2025-11-15, 03:59:35](https://news.ycombinator.com/item?id=45934950) - [Scientists reverse kidney damage in mice, hope for humans next](https://www.sciencedaily.com/releases/2025/11/251114094525.htm)
 * [2025-11-15, 03:58:01](https://news.ycombinator.com/item?id=45934940) - [I can't recommend Grafana anymore](https://henrikgerdes.me/blog/2025-11-grafana-mess/)
 * [2025-11-15, 03:50:04](https://news.ycombinator.com/item?id=45934912) - [Meet Reservoir – The World's Smartest Water Heater](https://www.reservoirhome.com/)
