@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-11-20, 17:04:34](https://news.ycombinator.com/item?id=45994854) - [Android and iPhone users can now share files, starting with the Pixel 10 family](https://blog.google/products/android/quick-share-airdrop/)
+* [2025-11-20, 16:41:31](https://news.ycombinator.com/item?id=45994592) - [Show HN: Tangent – Open-source security data pipeline](https://github.com/telophasehq/tangent)
 * [2025-11-20, 15:53:17](https://news.ycombinator.com/item?id=45993943) - [The Banished Bottom of the Housing Market](https://www.ryanpuzycki.com/p/the-banished-bottom-of-the-housing)
 * [2025-11-20, 15:04:23](https://news.ycombinator.com/item?id=45993296) - [Nano Banana Pro](https://blog.google/technology/ai/nano-banana-pro/)
 * [2025-11-20, 14:56:47](https://news.ycombinator.com/item?id=45993214) - [Freer Monads, More Extensible Effects [pdf]](https://okmij.org/ftp/Haskell/extensible/more.pdf)
@@ -13,7 +14,6 @@
 * [2025-11-20, 09:04:30](https://news.ycombinator.com/item?id=45990575) - [DOS Days – Laptop Displays](https://www.dosdays.co.uk/topics/laptop_displays.php)
 * [2025-11-20, 05:41:06](https://news.ycombinator.com/item?id=45989329) - [Basalt Woven Textile](https://materialdistrict.com/material/basalt-woven-textile/)
 * [2025-11-20, 00:22:03](https://news.ycombinator.com/item?id=45987179) - [Verifying your Matrix devices is becoming mandatory](https://element.io/blog/verifying-your-devices-is-becoming-mandatory-2/)
-* [2025-11-19, 21:58:47](https://news.ycombinator.com/item?id=45985867) - [Precise geolocation via Wi-Fi Positioning System](https://www.amoses.dev/blog/wifi-location/)
 * [2025-11-19, 20:55:30](https://news.ycombinator.com/item?id=45985036) - [Researchers discover security vulnerability in WhatsApp](https://www.univie.ac.at/en/news/detail/forscherinnen-entdecken-grosse-sicherheitsluecke-in-whatsapp)
 * [2025-11-19, 20:26:43](https://news.ycombinator.com/item?id=45984659) - [Loose wire leads to blackout, contact with Francis Scott Key bridge](https://www.ntsb.gov:443/news/press-releases/Pages/NR20251118.aspx)
 * [2025-11-19, 19:44:07](https://news.ycombinator.com/item?id=45984133) - [The lost cause of the Lisp machines](https://www.tfeb.org/fragments/2025/11/18/the-lost-cause-of-the-lisp-machines/)
