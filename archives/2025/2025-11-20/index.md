@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-11-20](index.md)
 
 * [2025-11-20, 12:19:00](https://news.ycombinator.com/item?id=45991835) - [Tesla Robotaxi had 3 more crashes, now 7 total](https://electrek.co/2025/11/17/tesla-robotaxi-had-3-more-crashes-now-7-total/)
+* [2025-11-20, 12:08:56](https://news.ycombinator.com/item?id=45991787) - [40 years ago, Calvin and Hobbes' raucous adventures burst onto the comics page](https://www.npr.org/2025/11/18/nx-s1-5564064/calvin-and-hobbes-bill-watterson-40-years-comic-strip-lee-salem)
 * [2025-11-20, 12:08:56](https://news.ycombinator.com/item?id=45991787) - [40 years ago, Calvin and Hobbes' raucous adventures burst onto the comics page](https://text.npr.org/nx-s1-5564064)
 * [2025-11-20, 12:01:26](https://news.ycombinator.com/item?id=45991738) - [Adversarial Poetry as a Universal Single-Turn Jailbreak Mechanism in LLMs](https://arxiv.org/abs/2511.15304)
 * [2025-11-20, 11:23:35](https://news.ycombinator.com/item?id=45991497) - [Show HN: Awesome J2ME](https://github.com/hstsethi/awesome-j2me)

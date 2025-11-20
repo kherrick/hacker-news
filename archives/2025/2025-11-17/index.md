@@ -16,6 +16,7 @@
 * [2025-11-17, 19:45:00](https://news.ycombinator.com/item?id=45957402) - [Show HN: PrinceJS – 19,200 req/s Bun framework in 2.8 kB (built by a 13yo)](https://princejs.vercel.app)
 * [2025-11-17, 19:22:06](https://news.ycombinator.com/item?id=45957073) - [Implementing Rust newtype for errors in axum](https://rup12.net/posts/learning-rust-custom-errors/)
 * [2025-11-17, 18:39:49](https://news.ycombinator.com/item?id=45956517) - [How Honda screwed up an expensive project with a simple math error (2008)](https://davidsd.org/2008/12/honda-needs-a-tune-up/)
+* [2025-11-17, 18:32:16](https://news.ycombinator.com/item?id=45956438) - [Towards Interplanetary QUIC Traffic](https://ochagavia.nl/blog/towards-interplanetary-quic-traffic/)
 * [2025-11-17, 18:07:17](https://news.ycombinator.com/item?id=45956176) - [An official atlas of North Korea](https://www.cartographerstale.com/p/an-official-atlas-of-north-korea)
 * [2025-11-17, 18:06:56](https://news.ycombinator.com/item?id=45956173) - [Reselling tickets for profit to be outlawed in UK government crackdown](https://www.theguardian.com/money/2025/nov/17/reselling-tickets-for-profit-to-be-outlawed-in-uk-government-crackdown)
 * [2025-11-17, 18:05:29](https://news.ycombinator.com/item?id=45956154) - [Show HN: Kalendis – Scheduling API (keep your UI, we handle timezones/DST)](https://kalendis.dev)
