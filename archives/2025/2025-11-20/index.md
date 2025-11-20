@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-11-20](index.md)
 
+* [2025-11-20, 09:52:11](https://news.ycombinator.com/item?id=45990934) - [Interactive World History Atlas Since 3000 BC](http://geacron.com/home-en/)
 * [2025-11-20, 06:40:46](https://news.ycombinator.com/item?id=45989650) - [Implementation of a Java Processor on a FPGA](https://mavmatrix.uta.edu/electricaleng_theses/337/)
 * [2025-11-20, 06:07:01](https://news.ycombinator.com/item?id=45989469) - [PHP 8.5 gets released today, here's what's new](https://stitcher.io/blog/new-in-php-85)
 * [2025-11-20, 05:52:43](https://news.ycombinator.com/item?id=45989394) - [Show HN: An A2A-compatible, open-source framework for multi-agent networks](https://github.com/openagents-org/openagents)

@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-11-20, 09:52:11](https://news.ycombinator.com/item?id=45990934) - [Interactive World History Atlas Since 3000 BC](http://geacron.com/home-en/)
 * [2025-11-20, 06:40:46](https://news.ycombinator.com/item?id=45989650) - [Implementation of a Java Processor on a FPGA](https://mavmatrix.uta.edu/electricaleng_theses/337/)
 * [2025-11-20, 06:07:01](https://news.ycombinator.com/item?id=45989469) - [PHP 8.5 gets released today, here's what's new](https://stitcher.io/blog/new-in-php-85)
 * [2025-11-20, 05:52:43](https://news.ycombinator.com/item?id=45989394) - [Show HN: An A2A-compatible, open-source framework for multi-agent networks](https://github.com/openagents-org/openagents)
 * [2025-11-20, 05:41:06](https://news.ycombinator.com/item?id=45989329) - [Basalt Woven Textile](https://materialdistrict.com/material/basalt-woven-textile/)
 * [2025-11-20, 05:07:53](https://news.ycombinator.com/item?id=45989186) - [#!magic, details about the shebang/hash-bang mechanism on various Unix flavours](https://www.in-ulm.de/%7Emascheck/various/shebang/)
-* [2025-11-20, 00:22:03](https://news.ycombinator.com/item?id=45987179) - [Verifying your Matrix devices is becoming mandatory](https://element.io/blog/verifying-your-devices-is-becoming-mandatory-2/)
 * [2025-11-19, 22:00:28](https://news.ycombinator.com/item?id=45985890) - [The patent office is about to make bad patents untouchable](https://www.eff.org/deeplinks/2025/11/patent-office-about-make-bad-patents-untouchable)
 * [2025-11-19, 21:58:47](https://news.ycombinator.com/item?id=45985867) - [Precise geolocation via Wi-Fi Positioning System](https://www.amoses.dev/blog/wifi-location/)
 * [2025-11-19, 21:30:02](https://news.ycombinator.com/item?id=45985506) - [Gaming on Linux has never been more approachable](https://www.theverge.com/tech/823337/switching-linux-gaming-desktop-cachyos)
