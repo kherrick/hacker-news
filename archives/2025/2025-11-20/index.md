@@ -4,9 +4,12 @@
 
 ### [Archives](../../index.md) for [2025-11-20](index.md)
 
+* [2025-11-20, 21:33:37](https://news.ycombinator.com/item?id=45998047) - [GitHut – Programming Languages and GitHub](https://githut.info/)
+* [2025-11-20, 21:30:02](https://news.ycombinator.com/item?id=45998013) - [ArkA – A minimal open video protocol (first MVP demo)](https://baconpantsuppercut.github.io/arkA/)
 * [2025-11-20, 21:21:08](https://news.ycombinator.com/item?id=45997914) - [New Glenn Update – Blue Origin](https://www.blueorigin.com/news/new-glenn-upgraded-engines-subcooled-components-drive-enhanced-performance)
 * [2025-11-20, 21:05:12](https://news.ycombinator.com/item?id=45997722) - [Run Docker containers natively in Proxmox 9.1 (OCI images)](https://raymii.org/s/tutorials/Finally_run_Docker_containers_natively_in_Proxmox_9.1.html)
 * [2025-11-20, 20:30:15](https://news.ycombinator.com/item?id=45997294) - [Introducing Kagi Assistants](https://blog.kagi.com/kagi-assistants)
+* [2025-11-20, 20:24:42](https://news.ycombinator.com/item?id=45997212) - [New OS aims to provide (some) compatibility with macOS](https://github.com/ravynsoft/ravynos)
 * [2025-11-20, 20:15:56](https://news.ycombinator.com/item?id=45997099) - [We are replacing OOP with something worse](https://blog.jsbarretto.com/post/actors)
 * [2025-11-20, 19:52:55](https://news.ycombinator.com/item?id=45996860) - [CBP is monitoring US drivers and detaining those with suspicious travel patterns](https://apnews.com/article/immigration-border-patrol-surveillance-drivers-ice-trump-9f5d05469ce8c629d6fecf32d32098cd)
 * [2025-11-20, 19:26:12](https://news.ycombinator.com/item?id=45996585) - [Data-at-Rest Encryption in DuckDB](https://duckdb.org/2025/11/19/encryption-in-duckdb)
