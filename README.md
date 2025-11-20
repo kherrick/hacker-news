@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-11-20, 22:56:40](https://news.ycombinator.com/item?id=45999024) - [France is taking state actions against GrapheneOS](https://grapheneos.social/@GrapheneOS/115584160910016309)
 * [2025-11-20, 21:33:37](https://news.ycombinator.com/item?id=45998047) - [GitHut – Programming Languages and GitHub (2014)](https://githut.info/)
 * [2025-11-20, 21:30:02](https://news.ycombinator.com/item?id=45998013) - [ArkA – A minimal open video protocol (first MVP demo)](https://baconpantsuppercut.github.io/arkA/)
 * [2025-11-20, 21:21:08](https://news.ycombinator.com/item?id=45997914) - [New Glenn Update – Blue Origin](https://www.blueorigin.com/news/new-glenn-upgraded-engines-subcooled-components-drive-enhanced-performance)
@@ -7,7 +8,6 @@
 * [2025-11-20, 20:30:15](https://news.ycombinator.com/item?id=45997294) - [Kagi Assistants](https://blog.kagi.com/kagi-assistants)
 * [2025-11-20, 20:24:42](https://news.ycombinator.com/item?id=45997212) - [New OS aims to provide (some) compatibility with macOS](https://github.com/ravynsoft/ravynos)
 * [2025-11-20, 20:15:56](https://news.ycombinator.com/item?id=45997099) - [OOP is shifting between domains, not disappearing](https://blog.jsbarretto.com/post/actors)
-* [2025-11-20, 19:52:55](https://news.ycombinator.com/item?id=45996860) - [CBP is monitoring US drivers and detaining those with suspicious travel patterns](https://apnews.com/article/immigration-border-patrol-surveillance-drivers-ice-trump-9f5d05469ce8c629d6fecf32d32098cd)
 * [2025-11-20, 19:26:12](https://news.ycombinator.com/item?id=45996585) - [Data-at-Rest Encryption in DuckDB](https://duckdb.org/2025/11/19/encryption-in-duckdb)
 * [2025-11-20, 19:13:51](https://news.ycombinator.com/item?id=45996433) - [Mozilla says it's finally done with Onerep](https://krebsonsecurity.com/2025/11/mozilla-says-its-finally-done-with-two-faced-onerep/)
 * [2025-11-20, 18:20:59](https://news.ycombinator.com/item?id=45995834) - [NTSB Preliminary Report – UPS Boeing MD-11F Crash [pdf]](https://www.ntsb.gov/Documents/Prelimiary%20Report%20DCA26MA024.pdf)
@@ -28,7 +28,7 @@
 * [2025-11-17, 20:36:50](https://news.ycombinator.com/item?id=45958004) - [Ask HN: How are Markov chains so different from tiny LLMs?](https://news.ycombinator.com/item?id=45958004)
 * [2025-11-17, 20:13:54](https://news.ycombinator.com/item?id=45957743) - [Two recently found works of J.S. Bach presented in Leipzig [video]](https://www.youtube.com/watch?v=4hXzUGYIL9M#t=15m19s)
 * [2025-11-16, 07:31:25](https://news.ycombinator.com/item?id=45943397) - [What's in a Passenger Name Record (PNR)? (2013)](https://hasbrouck.org/articles/PNR.html)
-* [2025-11-15, 05:01:48](https://news.ycombinator.com/item?id=45935167) - [New Proofs Probe Soap-Film Singularities](https://www.quantamagazine.org/new-proofs-probe-soap-film-singularities-20251112/)
+* [2025-11-13, 09:24:53](https://news.ycombinator.com/item?id=45912704) - [IBM Delivers New Quantum Package](https://newsroom.ibm.com/2025-11-12-ibm-delivers-new-quantum-processors,-software,-and-algorithm-breakthroughs-on-path-to-advantage-and-fault-tolerance)
 * [2025-11-12, 05:04:30](https://news.ycombinator.com/item?id=45896554) - [Readonly Characters Are a Big Deal](https://matklad.github.io/2025/11/10/readonly-characters.html)
 
 ## [Archives](archives/index.md)
