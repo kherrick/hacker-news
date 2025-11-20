@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-11-20, 00:32:17](https://news.ycombinator.com/item?id=45987252) - [Measuring the impact of AI scams on the elderly](https://simonlermen.substack.com/p/can-ai-models-be-jailbroken-to-phish)
-* [2025-11-20, 00:27:22](https://news.ycombinator.com/item?id=45987220) - [Workday to acquire Pipedream](https://newsroom.workday.com/2025-11-19-Workday-Signs-Definitive-Agreement-to-Acquire-Pipedream)
 * [2025-11-20, 00:22:03](https://news.ycombinator.com/item?id=45987179) - [Verifying your Matrix devices is becoming mandatory](https://element.io/blog/verifying-your-devices-is-becoming-mandatory-2/)
 * [2025-11-19, 23:50:08](https://news.ycombinator.com/item?id=45986940) - [CornHub](https://cornhub.website/)
 * [2025-11-19, 22:00:28](https://news.ycombinator.com/item?id=45985890) - [The patent office is about to make bad patents untouchable](https://www.eff.org/deeplinks/2025/11/patent-office-about-make-bad-patents-untouchable)
@@ -24,6 +23,7 @@
 * [2025-11-19, 14:40:38](https://news.ycombinator.com/item?id=45980106) - [How to stay sane in a world that rewards insanity](https://www.joanwestenberg.com/p/how-to-stay-sane-in-a-world-that-rewards-insanity)
 * [2025-11-19, 13:16:23](https://news.ycombinator.com/item?id=45979190) - [Larry Summers resigns from OpenAI board](https://www.cnbc.com/2025/11/19/larry-summers-epstein-openai.html)
 * [2025-11-19, 11:45:51](https://news.ycombinator.com/item?id=45978423) - [Thunderbird adds native Microsoft Exchange email support](https://blog.thunderbird.net/2025/11/thunderbird-adds-native-microsoft-exchange-email-support/)
+* [2025-11-19, 10:00:05](https://news.ycombinator.com/item?id=45977744) - [A $1k AWS mistake](https://www.geocod.io/code-and-coordinates/2025-11-18-the-1000-aws-mistake/)
 * [2025-11-17, 23:19:11](https://news.ycombinator.com/item?id=45959586) - [Three Hapsburgs and a Reporter Walk into a Canadian Vault](https://www.nytimes.com/2025/11/16/insider/florentine-diamond-hapsburgs.html)
 * [2025-11-17, 21:35:04](https://news.ycombinator.com/item?id=45958596) - [What Influence Has the BBC Had on History?](https://www.historytoday.com/archive/head-head/what-influence-has-bbc-had-history)
 * [2025-11-15, 02:55:06](https://news.ycombinator.com/item?id=45934665) - [Vortex: An extensible, state of the art columnar file format](https://github.com/vortex-data/vortex)
