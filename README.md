@@ -21,7 +21,7 @@
 * [2025-11-19, 17:14:51](https://news.ycombinator.com/item?id=45982073) - [Meta Segment Anything Model 3](https://ai.meta.com/sam3/)
 * [2025-11-19, 15:28:04](https://news.ycombinator.com/item?id=45980760) - [Launch HN: Mosaic (YC W25) – Agentic Video Editing](https://mosaic.so)
 * [2025-11-19, 14:41:30](https://news.ycombinator.com/item?id=45980117) - [Europe is scaling back GDPR and relaxing AI laws](https://www.theverge.com/news/823750/european-union-ai-act-gdpr-changes)
-* [2025-11-17, 21:35:04](https://news.ycombinator.com/item?id=45958596) - [What influence has the BBC had on history?](https://www.historytoday.com/archive/head-head/what-influence-has-bbc-had-history)
+* [2025-11-19, 14:40:38](https://news.ycombinator.com/item?id=45980106) - [How to stay sane in a world that rewards insanity](https://www.joanwestenberg.com/p/how-to-stay-sane-in-a-world-that-rewards-insanity)
 * [2025-11-17, 06:28:16](https://news.ycombinator.com/item?id=45951275) - [Android/Linux Dual Boot](https://wiki.postmarketos.org/wiki/Dual_Booting/WiP)
 * [2025-11-16, 18:56:56](https://news.ycombinator.com/item?id=45947437) - [CUDA Ontology](https://jamesakl.com/posts/cuda-ontology/)
 * [2025-11-15, 02:55:06](https://news.ycombinator.com/item?id=45934665) - [Vortex: An extensible, state of the art columnar file format](https://github.com/vortex-data/vortex)
