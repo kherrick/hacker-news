@@ -111,16 +111,6 @@
   ],
   [
     [
-      "2025-11-19, 20:01:02",
-      "https://news.ycombinator.com/item?id=45984353"
-    ],
-    [
-      "Cognitive and mental health correlates of short-form video use",
-      "https://psycnet.apa.org/fulltext/2026-89350-001.html"
-    ]
-  ],
-  [
-    [
       "2025-11-19, 19:55:49",
       "https://news.ycombinator.com/item?id=45984282"
     ],
@@ -231,12 +221,12 @@
   ],
   [
     [
-      "2025-11-19, 10:00:05",
-      "https://news.ycombinator.com/item?id=45977744"
+      "2025-11-18, 19:32:27",
+      "https://news.ycombinator.com/item?id=45970885"
     ],
     [
-      "A $1k AWS mistake",
-      "https://www.geocod.io/code-and-coordinates/2025-11-18-the-1000-aws-mistake/"
+      "A surprise with how '#!' handles its program argument in practice",
+      "https://utcc.utoronto.ca/~cks/space/blog/unix/ShebangRelativePathSurprise"
     ]
   ],
   [
@@ -271,22 +261,32 @@
   ],
   [
     [
+      "2025-11-13, 14:10:43",
+      "https://news.ycombinator.com/item?id=45915068"
+    ],
+    [
+      "The Complete Work of Charles Darwin Online",
+      "https://darwin-online.org.uk/"
+    ]
+  ],
+  [
+    [
+      "2025-11-12, 17:50:54",
+      "https://news.ycombinator.com/item?id=45903273"
+    ],
+    [
+      "The Lucas-Lehmer Prime Number Test",
+      "https://www.scientificamerican.com/article/how-to-identify-a-prime-number-without-a-computer/"
+    ]
+  ],
+  [
+    [
       "2025-11-12, 06:45:07",
       "https://news.ycombinator.com/item?id=45897057"
     ],
     [
       "Blame as a Service",
       "https://www.humaninvariant.com/blog/blame"
-    ]
-  ],
-  [
-    [
-      "2025-11-12, 05:52:35",
-      "https://news.ycombinator.com/item?id=45896776"
-    ],
-    [
-      "Branching with or Without PII: The Future of Environments",
-      "https://neon.com/blog/branching-environments-anonymized-pii"
     ]
   ],
   [
