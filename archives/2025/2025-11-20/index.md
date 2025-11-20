@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2025-11-20](index.md)
 
+* [2025-11-20, 18:20:59](https://news.ycombinator.com/item?id=45995834) - [NTSB Preliminary Report – Ups Boeing MD-11F Crash [pdf]](https://www.ntsb.gov/Documents/Prelimiary%20Report%20DCA26MA024.pdf)
 * [2025-11-20, 18:19:31](https://news.ycombinator.com/item?id=45995816) - [The Lions Operating System](https://lionsos.org)
 * [2025-11-20, 18:13:39](https://news.ycombinator.com/item?id=45995740) - [Microsoft makes Zork open-source](https://opensource.microsoft.com/blog/2025/11/20/preserving-code-that-shaped-generations-zork-i-ii-and-iii-go-open-source)
+* [2025-11-20, 18:00:50](https://news.ycombinator.com/item?id=45995554) - [Gary Mani Mounfield of the Stone Roses and Primal Scream Dead at 63](https://www.manchestereveningnews.co.uk/news/greater-manchester-news/gary-mani-dead-stone-roses-32913693)
 * [2025-11-20, 17:47:06](https://news.ycombinator.com/item?id=45995394) - [Launch HN: Poly (YC S22) – Cursor for Files](https://news.ycombinator.com/item?id=45995394)
 * [2025-11-20, 17:07:49](https://news.ycombinator.com/item?id=45994895) - [Go Cryptography State of the Union](https://words.filippo.io/2025-state/)
 * [2025-11-20, 17:04:34](https://news.ycombinator.com/item?id=45994854) - [Android and iPhone users can now share files, starting with the Pixel 10 family](https://blog.google/products/android/quick-share-airdrop/)
