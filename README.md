@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-11-20, 05:52:43](https://news.ycombinator.com/item?id=45989394) - [Show HN: An A2A-compatible, open-source framework for multi-agent networks](https://github.com/openagents-org/openagents)
+* [2025-11-20, 05:41:06](https://news.ycombinator.com/item?id=45989329) - [Basalt Woven Textile – MaterialDistrict](https://materialdistrict.com/material/basalt-woven-textile/)
 * [2025-11-20, 00:32:17](https://news.ycombinator.com/item?id=45987252) - [Measuring the impact of AI scams on the elderly](https://simonlermen.substack.com/p/can-ai-models-be-jailbroken-to-phish)
 * [2025-11-20, 00:22:03](https://news.ycombinator.com/item?id=45987179) - [Verifying your Matrix devices is becoming mandatory](https://element.io/blog/verifying-your-devices-is-becoming-mandatory-2/)
 * [2025-11-19, 22:00:28](https://news.ycombinator.com/item?id=45985890) - [The patent office is about to make bad patents untouchable](https://www.eff.org/deeplinks/2025/11/patent-office-about-make-bad-patents-untouchable)
@@ -19,7 +21,6 @@
 * [2025-11-19, 17:14:51](https://news.ycombinator.com/item?id=45982073) - [Meta Segment Anything Model 3](https://ai.meta.com/sam3/)
 * [2025-11-19, 15:28:04](https://news.ycombinator.com/item?id=45980760) - [Launch HN: Mosaic (YC W25) – Agentic Video Editing](https://mosaic.so)
 * [2025-11-19, 14:41:30](https://news.ycombinator.com/item?id=45980117) - [Europe is scaling back GDPR and relaxing AI laws](https://www.theverge.com/news/823750/european-union-ai-act-gdpr-changes)
-* [2025-11-19, 14:40:38](https://news.ycombinator.com/item?id=45980106) - [How to stay sane in a world that rewards insanity](https://www.joanwestenberg.com/p/how-to-stay-sane-in-a-world-that-rewards-insanity)
 * [2025-11-19, 11:45:51](https://news.ycombinator.com/item?id=45978423) - [Thunderbird adds native Microsoft Exchange email support](https://blog.thunderbird.net/2025/11/thunderbird-adds-native-microsoft-exchange-email-support/)
 * [2025-11-18, 19:32:27](https://news.ycombinator.com/item?id=45970885) - [A surprise with how '#!' handles its program argument in practice](https://utcc.utoronto.ca/~cks/space/blog/unix/ShebangRelativePathSurprise)
 * [2025-11-17, 23:19:11](https://news.ycombinator.com/item?id=45959586) - [Three Hapsburgs and a Reporter Walk into a Canadian Vault](https://www.nytimes.com/2025/11/16/insider/florentine-diamond-hapsburgs.html)
@@ -28,7 +29,6 @@
 * [2025-11-14, 08:49:55](https://news.ycombinator.com/item?id=45925109) - [CLI tool to check the Git status of multiple projects](https://github.com/uralys/check-projects)
 * [2025-11-13, 14:10:43](https://news.ycombinator.com/item?id=45915068) - [The Complete Work of Charles Darwin Online](https://darwin-online.org.uk/)
 * [2025-11-12, 17:50:54](https://news.ycombinator.com/item?id=45903273) - [The Lucas-Lehmer Prime Number Test](https://www.scientificamerican.com/article/how-to-identify-a-prime-number-without-a-computer/)
-* [2025-11-12, 06:45:07](https://news.ycombinator.com/item?id=45897057) - [Blame as a Service](https://www.humaninvariant.com/blog/blame)
 * [2025-11-11, 15:54:42](https://news.ycombinator.com/item?id=45888759) - [What really happened with the CIA and The Paris Review?](https://www.theparisreview.org/blog/2025/11/11/what-really-happened-with-the-cia-and-the-paris-review-a-conversation-with-lance-richardson/)
 
 ## [Archives](archives/index.md)
