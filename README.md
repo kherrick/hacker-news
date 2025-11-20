@@ -5,7 +5,6 @@
 * [2025-11-20, 11:23:35](https://news.ycombinator.com/item?id=45991497) - [Show HN: Awesome J2ME](https://github.com/hstsethi/awesome-j2me)
 * [2025-11-20, 09:52:11](https://news.ycombinator.com/item?id=45990934) - [Interactive World History Atlas Since 3000 BC](http://geacron.com/home-en/)
 * [2025-11-20, 09:04:30](https://news.ycombinator.com/item?id=45990575) - [DOS Days – Laptop Displays](https://www.dosdays.co.uk/topics/laptop_displays.php)
-* [2025-11-20, 06:40:46](https://news.ycombinator.com/item?id=45989650) - [Implementation of a Java Processor on a FPGA (2016)](https://mavmatrix.uta.edu/electricaleng_theses/337/)
 * [2025-11-20, 06:07:01](https://news.ycombinator.com/item?id=45989469) - [PHP 8.5](https://stitcher.io/blog/new-in-php-85)
 * [2025-11-20, 05:41:06](https://news.ycombinator.com/item?id=45989329) - [Basalt Woven Textile](https://materialdistrict.com/material/basalt-woven-textile/)
 * [2025-11-20, 05:07:53](https://news.ycombinator.com/item?id=45989186) - [Details about the shebang/hash-bang mechanism on various Unix flavours (2001)](https://www.in-ulm.de/%7Emascheck/various/shebang/)
@@ -29,6 +28,7 @@
 * [2025-11-14, 08:49:55](https://news.ycombinator.com/item?id=45925109) - [CLI tool to check the Git status of multiple projects](https://github.com/uralys/check-projects)
 * [2025-11-14, 00:51:20](https://news.ycombinator.com/item?id=45922610) - [Scientists Reveal How the Maya Predicted Eclipses for Centuries](https://www.sciencealert.com/scientists-reveal-how-the-maya-predicted-eclipses-for-centuries)
 * [2025-11-13, 00:18:21](https://news.ycombinator.com/item?id=45908801) - [New Proofs Probe Soap-Film Singularities](https://www.quantamagazine.org/new-proofs-probe-soap-film-singularities-20251112/)
+* [2025-11-12, 17:50:54](https://news.ycombinator.com/item?id=45903273) - [The Lucas-Lehmer Prime Number Test](https://www.scientificamerican.com/article/how-to-identify-a-prime-number-without-a-computer/)
 * [2025-11-11, 15:54:42](https://news.ycombinator.com/item?id=45888759) - [What really happened with the CIA and The Paris Review?](https://www.theparisreview.org/blog/2025/11/11/what-really-happened-with-the-cia-and-the-paris-review-a-conversation-with-lance-richardson/)
 
 ## [Archives](archives/index.md)
