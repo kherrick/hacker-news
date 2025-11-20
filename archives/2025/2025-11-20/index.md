@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-11-20](index.md)
 
+* [2025-11-20, 17:04:34](https://news.ycombinator.com/item?id=45994854) - [Android and iPhone users can now share files, starting with the Pixel 10 family](https://blog.google/products/android/quick-share-airdrop/)
 * [2025-11-20, 15:53:17](https://news.ycombinator.com/item?id=45993943) - [The Banished Bottom of the Housing Market](https://www.ryanpuzycki.com/p/the-banished-bottom-of-the-housing)
 * [2025-11-20, 15:04:23](https://news.ycombinator.com/item?id=45993296) - [Nano Banana Pro](https://blog.google/technology/ai/nano-banana-pro/)
 * [2025-11-20, 14:56:47](https://news.ycombinator.com/item?id=45993214) - [Freer Monads, More Extensible Effects [pdf]](https://okmij.org/ftp/Haskell/extensible/more.pdf)
