@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-11-20, 19:52:55",
+      "https://news.ycombinator.com/item?id=45996860"
+    ],
+    [
+      "CBP is monitoring US drivers and detaining those with suspicious travel patterns",
+      "https://apnews.com/article/immigration-border-patrol-surveillance-drivers-ice-trump-9f5d05469ce8c629d6fecf32d32098cd"
+    ]
+  ],
+  [
+    [
+      "2025-11-20, 19:26:12",
+      "https://news.ycombinator.com/item?id=45996585"
+    ],
+    [
+      "Data-at-Rest Encryption in DuckDB",
+      "https://duckdb.org/2025/11/19/encryption-in-duckdb"
+    ]
+  ],
+  [
+    [
       "2025-11-20, 18:20:59",
       "https://news.ycombinator.com/item?id=45995834"
     ],
@@ -141,16 +161,6 @@
   ],
   [
     [
-      "2025-11-20, 05:41:06",
-      "https://news.ycombinator.com/item?id=45989329"
-    ],
-    [
-      "Basalt Woven Textile",
-      "https://materialdistrict.com/material/basalt-woven-textile/"
-    ]
-  ],
-  [
-    [
       "2025-11-20, 02:47:13",
       "https://news.ycombinator.com/item?id=45988278"
     ],
@@ -167,16 +177,6 @@
     [
       "Show HN: F32 – An Extremely Small ESP32 Board",
       "https://github.com/PegorK/f32"
-    ]
-  ],
-  [
-    [
-      "2025-11-19, 17:14:51",
-      "https://news.ycombinator.com/item?id=45982073"
-    ],
-    [
-      "Meta Segment Anything Model 3",
-      "https://ai.meta.com/sam3/"
     ]
   ],
   [
@@ -261,6 +261,16 @@
   ],
   [
     [
+      "2025-11-15, 21:05:16",
+      "https://news.ycombinator.com/item?id=45940603"
+    ],
+    [
+      "Show HN: A game where you invest into startups from history",
+      "https://startupgambit.com"
+    ]
+  ],
+  [
+    [
       "2025-11-15, 03:26:22",
       "https://news.ycombinator.com/item?id=45934795"
     ],
@@ -287,16 +297,6 @@
     [
       "CoMaps emerges as an Organic Maps fork",
       "https://lwn.net/Articles/1024387/"
-    ]
-  ],
-  [
-    [
-      "2025-11-11, 22:22:05",
-      "https://news.ycombinator.com/item?id=45893696"
-    ],
-    [
-      "Typesetting the \"Begriffsschrift\" by Gottlob Frege in Plain TeX [pdf]",
-      "https://www.tug.org/TUGboat/tb36-3/tb114wermuth.pdf"
     ]
   ]
 ]
