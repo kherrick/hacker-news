@@ -78,3 +78,4 @@
 * [2025-11-12, 01:52:13](https://news.ycombinator.com/item?id=45895490) - [Implementing Wordle in LibreOffice with JavaScript Macros](https://bojidar-bg.dev/blog/2025-11-11-wordle-libreoffice/)
 * [2025-11-12, 01:41:07](https://news.ycombinator.com/item?id=45895427) - [The Uselessness of \"Fast\" and \"Slow\" in Programming](https://jerf.org/iri/post/2025/the_uselessness_of_fast/)
 * [2025-11-12, 00:56:10](https://news.ycombinator.com/item?id=45895107) - [Text rendering and effects using GPU-computed distances](https://blog.pkh.me/p/47-text-rendering-and-effects-using-gpu-computed-distances.html)
+* [2025-11-12, 00:55:13](https://news.ycombinator.com/item?id=45895100) - [Smart Performance Hacks for Faster Python Code](https://blog.jetbrains.com/pycharm/2025/11/10-smart-performance-hacks-for-faster-python-code/)
