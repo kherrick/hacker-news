@@ -1,10 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-11-20, 00:37:30](https://news.ycombinator.com/item?id=45987289) - [Debunking the Myths of the HBO Chernobyl series (2023)](https://blog.osm-ai.net/investigation/2023/01/05/hbo-chernobyl-myth.html)
-* [2025-11-20, 00:32:17](https://news.ycombinator.com/item?id=45987252) - [Jailbreaking AI Models to Phish Elderly Victims](https://simonlermen.substack.com/p/can-ai-models-be-jailbroken-to-phish)
+* [2025-11-20, 00:32:17](https://news.ycombinator.com/item?id=45987252) - [Measuring the impact of AI scams on the elderly](https://simonlermen.substack.com/p/can-ai-models-be-jailbroken-to-phish)
 * [2025-11-20, 00:27:22](https://news.ycombinator.com/item?id=45987220) - [Workday to acquire Pipedream](https://newsroom.workday.com/2025-11-19-Workday-Signs-Definitive-Agreement-to-Acquire-Pipedream)
 * [2025-11-20, 00:22:03](https://news.ycombinator.com/item?id=45987179) - [Verifying your Matrix devices is becoming mandatory](https://element.io/blog/verifying-your-devices-is-becoming-mandatory-2/)
-* [2025-11-20, 00:02:50](https://news.ycombinator.com/item?id=45987027) - [Linux Career Opportunities in 2025: Skills in High Demand](https://www.linuxcareers.com/resources/blog/2025/11/linux-career-opportunities-in-2025-skills-in-high-demand/)
+* [2025-11-19, 23:50:08](https://news.ycombinator.com/item?id=45986940) - [CornHub](https://cornhub.website/)
 * [2025-11-19, 22:00:28](https://news.ycombinator.com/item?id=45985890) - [The patent office is about to make bad patents untouchable](https://www.eff.org/deeplinks/2025/11/patent-office-about-make-bad-patents-untouchable)
 * [2025-11-19, 21:58:47](https://news.ycombinator.com/item?id=45985867) - [Precise geolocation via Wi-Fi Positioning System](https://www.amoses.dev/blog/wifi-location/)
 * [2025-11-19, 21:30:02](https://news.ycombinator.com/item?id=45985506) - [Gaming on Linux has never been more approachable](https://www.theverge.com/tech/823337/switching-linux-gaming-desktop-cachyos)
@@ -15,6 +14,7 @@
 * [2025-11-19, 20:23:47](https://news.ycombinator.com/item?id=45984623) - [Racing karts on a Rust GPU kernel driver](https://www.collabora.com/news-and-blog/news-and-events/racing-karts-on-a-rust-gpu-kernel-driver.html)
 * [2025-11-19, 20:01:02](https://news.ycombinator.com/item?id=45984353) - [Cognitive and mental health correlates of short-form video use](https://psycnet.apa.org/fulltext/2026-89350-001.html)
 * [2025-11-19, 19:44:46](https://news.ycombinator.com/item?id=45984143) - [The Death of Arduino?](https://www.linkedin.com/posts/adafruit_opensource-privacy-techpolicy-activity-7396903362237054976-r14H)
+* [2025-11-19, 19:42:38](https://news.ycombinator.com/item?id=45984112) - [Measuring political bias in Claude](https://www.anthropic.com/news/political-even-handedness)
 * [2025-11-19, 19:39:09](https://news.ycombinator.com/item?id=45984072) - [Pozsar's Bretton Woods III: The Framework](https://philippdubach.com/2025/10/25/pozsars-bretton-woods-iii-the-framework-1/2/)
 * [2025-11-19, 19:09:27](https://news.ycombinator.com/item?id=45983700) - [AI is a front for consolidation of resources and power](https://www.chrbutler.com/what-ai-is-really-for)
 * [2025-11-19, 18:01:59](https://news.ycombinator.com/item?id=45982649) - [Building more with GPT-5.1-Codex-Max](https://openai.com/index/gpt-5-1-codex-max/)
@@ -27,9 +27,9 @@
 * [2025-11-19, 10:00:05](https://news.ycombinator.com/item?id=45977744) - [A $1k AWS mistake](https://www.geocod.io/code-and-coordinates/2025-11-18-the-1000-aws-mistake/)
 * [2025-11-15, 02:55:06](https://news.ycombinator.com/item?id=45934665) - [Vortex: An extensible, state of the art columnar file format](https://github.com/vortex-data/vortex)
 * [2025-11-12, 18:47:15](https://news.ycombinator.com/item?id=45904178) - [Why CUDA translation wont unlock AMD](https://eliovp.com/why-cuda-translation-wont-unlock-amds-real-potential/)
-* [2025-11-12, 17:50:54](https://news.ycombinator.com/item?id=45903273) - [How to identify a prime number without a computer](https://www.scientificamerican.com/article/how-to-identify-a-prime-number-without-a-computer/)
 * [2025-11-12, 06:45:07](https://news.ycombinator.com/item?id=45897057) - [Blame as a Service](https://www.humaninvariant.com/blog/blame)
 * [2025-11-12, 05:52:35](https://news.ycombinator.com/item?id=45896776) - [Branching with or Without PII: The Future of Environments](https://neon.com/blog/branching-environments-anonymized-pii)
+* [2025-11-11, 15:54:42](https://news.ycombinator.com/item?id=45888759) - [What really happened with the CIA and The Paris Review?](https://www.theparisreview.org/blog/2025/11/11/what-really-happened-with-the-cia-and-the-paris-review-a-conversation-with-lance-richardson/)
 
 ## [Archives](archives/index.md)
 
