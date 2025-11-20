@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-11-20](index.md)
 
+* [2025-11-20, 13:24:48](https://news.ycombinator.com/item?id=45992304) - [Students fight back over course taught by AI](https://www.theguardian.com/education/2025/nov/20/university-of-staffordshire-course-taught-in-large-part-by-ai-artificial-intelligence)
+* [2025-11-20, 12:21:15](https://news.ycombinator.com/item?id=45991853) - [Red Alert 2 in web browser](https://chronodivide.com/)
 * [2025-11-20, 12:19:00](https://news.ycombinator.com/item?id=45991835) - [Tesla Robotaxi had 3 more crashes, now 7 total](https://electrek.co/2025/11/17/tesla-robotaxi-had-3-more-crashes-now-7-total/)
 * [2025-11-20, 12:08:56](https://news.ycombinator.com/item?id=45991787) - [40 years ago, Calvin and Hobbes' raucous adventures burst onto the comics page](https://www.npr.org/2025/11/18/nx-s1-5564064/calvin-and-hobbes-bill-watterson-40-years-comic-strip-lee-salem)
 * [2025-11-20, 12:08:56](https://news.ycombinator.com/item?id=45991787) - [40 years ago, Calvin and Hobbes' raucous adventures burst onto the comics page](https://text.npr.org/nx-s1-5564064)
