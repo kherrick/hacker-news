@@ -201,16 +201,6 @@
   ],
   [
     [
-      "2025-11-19, 13:16:23",
-      "https://news.ycombinator.com/item?id=45979190"
-    ],
-    [
-      "Larry Summers resigns from OpenAI board",
-      "https://www.cnbc.com/2025/11/19/larry-summers-epstein-openai.html"
-    ]
-  ],
-  [
-    [
       "2025-11-19, 11:45:51",
       "https://news.ycombinator.com/item?id=45978423"
     ],
@@ -257,6 +247,16 @@
     [
       "Vortex: An extensible, state of the art columnar file format",
       "https://github.com/vortex-data/vortex"
+    ]
+  ],
+  [
+    [
+      "2025-11-14, 08:49:55",
+      "https://news.ycombinator.com/item?id=45925109"
+    ],
+    [
+      "CLI tool to check the Git status of multiple projects",
+      "https://github.com/uralys/check-projects"
     ]
   ],
   [
