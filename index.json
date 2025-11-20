@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-11-20, 06:07:01",
+      "https://news.ycombinator.com/item?id=45989469"
+    ],
+    [
+      "PHP 8.5 gets released today, here's what's new",
+      "https://stitcher.io/blog/new-in-php-85"
+    ]
+  ],
+  [
+    [
       "2025-11-20, 05:52:43",
       "https://news.ycombinator.com/item?id=45989394"
     ],
@@ -91,32 +101,12 @@
   ],
   [
     [
-      "2025-11-19, 20:51:33",
-      "https://news.ycombinator.com/item?id=45984970"
-    ],
-    [
-      "Microsoft AI CEO pushes back against critics after recent Windows AI backlash",
-      "https://www.windowscentral.com/microsoft/windows-11/microsoft-ai-ceo-pushes-back-against-critics-after-recent-windows-ai-backlash-the-fact-that-people-are-unimpressed-is-mindblowing-to-me"
-    ]
-  ],
-  [
-    [
       "2025-11-19, 20:26:43",
       "https://news.ycombinator.com/item?id=45984659"
     ],
     [
       "Loose wire leads to blackout, contact with Francis Scott Key bridge",
       "https://www.ntsb.gov:443/news/press-releases/Pages/NR20251118.aspx"
-    ]
-  ],
-  [
-    [
-      "2025-11-19, 20:23:47",
-      "https://news.ycombinator.com/item?id=45984623"
-    ],
-    [
-      "Racing karts on a Rust GPU kernel driver",
-      "https://www.collabora.com/news-and-blog/news-and-events/racing-karts-on-a-rust-gpu-kernel-driver.html"
     ]
   ],
   [
@@ -247,6 +237,16 @@
     [
       "What influence has the BBC had on history?",
       "https://www.historytoday.com/archive/head-head/what-influence-has-bbc-had-history"
+    ]
+  ],
+  [
+    [
+      "2025-11-17, 06:28:16",
+      "https://news.ycombinator.com/item?id=45951275"
+    ],
+    [
+      "Android/Linux Dual Boot",
+      "https://wiki.postmarketos.org/wiki/Dual_Booting/WiP"
     ]
   ],
   [
