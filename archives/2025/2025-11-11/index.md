@@ -11,6 +11,7 @@
 * [2025-11-11, 22:47:28](https://news.ycombinator.com/item?id=45893952) - [How the Spoils of an Infamous Heist Traveled the World](https://nautil.us/how-the-spoils-of-an-infamous-heist-traveled-the-world-1247307/)
 * [2025-11-11, 22:41:04](https://news.ycombinator.com/item?id=45893879) - [My Kind of REPL](https://ianthehenry.com/posts/my-kind-of-repl/)
 * [2025-11-11, 22:31:41](https://news.ycombinator.com/item?id=45893795) - [Four places to see London's Roman Wall](https://diamondgeezer.blogspot.com/2025/11/odd-places-to-see-londons-roman-wall.html)
+* [2025-11-11, 22:22:05](https://news.ycombinator.com/item?id=45893696) - [Typesetting the \"Begriffsschrift\" by Gottlob Frege in Plain TeX [pdf]](https://www.tug.org/TUGboat/tb36-3/tb114wermuth.pdf)
 * [2025-11-11, 22:18:17](https://news.ycombinator.com/item?id=45893646) - [Heroku Support for .NET 10](https://www.heroku.com/blog/support-for-dotnet-10-lts-what-developers-need-know/)
 * [2025-11-11, 22:11:43](https://news.ycombinator.com/item?id=45893592) - [Ditch your (mut)ex, you deserve better](https://chrispenner.ca/posts/mutexes)
 * [2025-11-11, 21:59:34](https://news.ycombinator.com/item?id=45893471) - [runit Linux: Guide to Unix Init Scheme with Service Supervision](https://codelucky.com/runit-linux-init-service-supervision/)
