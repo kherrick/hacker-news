@@ -4,10 +4,13 @@
 
 ### [Archives](../../index.md) for [2025-11-20](index.md)
 
+* [2025-11-20, 18:19:31](https://news.ycombinator.com/item?id=45995816) - [The Lions Operating System](https://lionsos.org)
+* [2025-11-20, 18:13:39](https://news.ycombinator.com/item?id=45995740) - [Microsoft makes Zork open-source](https://opensource.microsoft.com/blog/2025/11/20/preserving-code-that-shaped-generations-zork-i-ii-and-iii-go-open-source)
 * [2025-11-20, 17:47:06](https://news.ycombinator.com/item?id=45995394) - [Launch HN: Poly (YC S22) – Cursor for Files](https://news.ycombinator.com/item?id=45995394)
 * [2025-11-20, 17:07:49](https://news.ycombinator.com/item?id=45994895) - [Go Cryptography State of the Union](https://words.filippo.io/2025-state/)
 * [2025-11-20, 17:04:34](https://news.ycombinator.com/item?id=45994854) - [Android and iPhone users can now share files, starting with the Pixel 10 family](https://blog.google/products/android/quick-share-airdrop/)
 * [2025-11-20, 16:41:31](https://news.ycombinator.com/item?id=45994592) - [Show HN: Tangent – Open-source security data pipeline](https://github.com/telophasehq/tangent)
+* [2025-11-20, 16:37:42](https://news.ycombinator.com/item?id=45994537) - [The Firefly and the Pulsar](https://www.centauri-dreams.org/2025/11/20/the-firefly-and-the-pulsar/)
 * [2025-11-20, 16:15:00](https://news.ycombinator.com/item?id=45994235) - [Show HN: Rapid-rs – Zero-config web framework for Rust](https://crates.io/crates/rapid-rs)
 * [2025-11-20, 15:53:17](https://news.ycombinator.com/item?id=45993943) - [The Banished Bottom of the Housing Market](https://www.ryanpuzycki.com/p/the-banished-bottom-of-the-housing)
 * [2025-11-20, 15:04:23](https://news.ycombinator.com/item?id=45993296) - [Nano Banana Pro](https://blog.google/technology/ai/nano-banana-pro/)
@@ -29,6 +32,7 @@
 * [2025-11-20, 05:52:43](https://news.ycombinator.com/item?id=45989394) - [Show HN: An A2A-compatible, open-source framework for multi-agent networks](https://github.com/openagents-org/openagents)
 * [2025-11-20, 05:41:06](https://news.ycombinator.com/item?id=45989329) - [Basalt Woven Textile – MaterialDistrict](https://materialdistrict.com/material/basalt-woven-textile/)
 * [2025-11-20, 05:07:53](https://news.ycombinator.com/item?id=45989186) - [#!magic, details about the shebang/hash-bang mechanism on various Unix flavours](https://www.in-ulm.de/%7Emascheck/various/shebang/)
+* [2025-11-20, 02:47:13](https://news.ycombinator.com/item?id=45988278) - [50th Anniversary of BitBLT](https://mastodon.sdf.org/@fvzappa/115574872559813280)
 * [2025-11-20, 00:37:30](https://news.ycombinator.com/item?id=45987289) - [Debunking the Myths of the HBO Chernobyl series (2023)](https://blog.osm-ai.net/investigation/2023/01/05/hbo-chernobyl-myth.html)
 * [2025-11-20, 00:32:17](https://news.ycombinator.com/item?id=45987252) - [Jailbreaking AI Models to Phish Elderly Victims](https://simonlermen.substack.com/p/can-ai-models-be-jailbroken-to-phish)
 * [2025-11-20, 00:27:22](https://news.ycombinator.com/item?id=45987220) - [Workday to Acquire Pipedream](https://newsroom.workday.com/2025-11-19-Workday-Signs-Definitive-Agreement-to-Acquire-Pipedream)
