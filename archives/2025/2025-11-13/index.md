@@ -50,6 +50,7 @@
 * [2025-11-13, 14:14:36](https://news.ycombinator.com/item?id=45915114) - [Show HN: Kratos - Cloud native Auth0 open-source alternative (self-hosted)](https://github.com/ory/kratos)
 * [2025-11-13, 14:12:23](https://news.ycombinator.com/item?id=45915087) - [Cursor: Past, Present, and Future](https://cursor.com/blog/series-d)
 * [2025-11-13, 14:10:48](https://news.ycombinator.com/item?id=45915069) - [Denx (a.k.a. U-Boot) Retires](https://www.denx.de/)
+* [2025-11-13, 14:10:43](https://news.ycombinator.com/item?id=45915068) - [The Complete Work of Charles Darwin Online](https://darwin-online.org.uk/)
 * [2025-11-13, 13:55:30](https://news.ycombinator.com/item?id=45914929) - [When Reverse Proxies Surprise You: Hard Lessons from Operating at Scale](https://www.infoq.com/articles/scaling-reverse-proxies/)
 * [2025-11-13, 13:43:50](https://news.ycombinator.com/item?id=45914815) - [Heartbeats in Distributed Systems](https://arpitbhayani.me/blogs/heartbeats-in-distributed-systems/)
 * [2025-11-13, 13:38:47](https://news.ycombinator.com/item?id=45914761) - [Blender Lab](https://www.blender.org/news/introducing-blender-lab/)
