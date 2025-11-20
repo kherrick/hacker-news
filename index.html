@@ -141,11 +141,11 @@
             <h4>
               <span>2025-11-20 @ 18:20:59</span
               ><span class="points-container"
-                >Points: <span class="points">37</span></span
+                >Points: <span class="points">45</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45995834"
                   >Comments</a
-                ><span class="descendants">: 8</span></span
+                ><span class="descendants">: 22</span></span
               >
             </h4>
           </section>
@@ -160,11 +160,11 @@
             <h4>
               <span>2025-11-20 @ 18:19:31</span
               ><span class="points-container"
-                >Points: <span class="points">19</span></span
+                >Points: <span class="points">26</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45995816"
                   >Comments</a
-                ><span class="descendants">: 2</span></span
+                ><span class="descendants">: 3</span></span
               >
             </h4>
           </section>
@@ -181,11 +181,11 @@
             <h4>
               <span>2025-11-20 @ 18:13:39</span
               ><span class="points-container"
-                >Points: <span class="points">123</span></span
+                >Points: <span class="points">143</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45995740"
                   >Comments</a
-                ><span class="descendants">: 38</span></span
+                ><span class="descendants">: 48</span></span
               >
             </h4>
           </section>
@@ -203,11 +203,11 @@
             <h4>
               <span>2025-11-20 @ 18:00:50</span
               ><span class="points-container"
-                >Points: <span class="points">10</span></span
+                >Points: <span class="points">13</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45995554"
                   >Comments</a
-                ><span class="descendants">: 2</span></span
+                ><span class="descendants">: 4</span></span
               >
             </h4>
           </section>
@@ -226,7 +226,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45995394"
                   >Comments</a
-                ><span class="descendants">: 16</span></span
+                ><span class="descendants">: 18</span></span
               >
             </h4>
             <div class="text">
@@ -370,11 +370,11 @@
             <h4>
               <span>2025-11-20 @ 17:07:49</span
               ><span class="points-container"
-                >Points: <span class="points">52</span></span
+                >Points: <span class="points">54</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45994895"
                   >Comments</a
-                ><span class="descendants">: 25</span></span
+                ><span class="descendants">: 26</span></span
               >
             </h4>
           </section>
@@ -392,155 +392,11 @@
             <h4>
               <span>2025-11-20 @ 17:04:34</span
               ><span class="points-container"
-                >Points: <span class="points">166</span></span
+                >Points: <span class="points">177</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45994854"
                   >Comments</a
-                ><span class="descendants">: 145</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="45994592">
-          <h3>
-            <a class="item" href="https://github.com/telophasehq/tangent"
-              >Show HN: Tangent – Security log pipeline powered by WASM</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2025-11-20 @ 16:41:31</span
-              ><span class="points-container"
-                >Points: <span class="points">9</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=45994592"
-                  >Comments</a
-                ><span class="descendants">: 0</span></span
-              >
-            </h4>
-            <div class="text">
-              <a href="https://github.com/telophasehq/tangent"
-                >https://github.com/telophasehq/tangent</a
-              >), a Rust-based log pipeline where all normalization, enrichment,
-              and detection logic runs as WASM plugins.
-              <p>
-                We kept seeing the same problems in the OCSF (<a
-                  href="https://ocsf.io"
-                  >https://ocsf.io</a
-                >) community: 1) Schemas change constantly. Large companies have
-                whole teams dedicated to keeping vendor→OCSF mappings up to
-                date. 2) There’s no shared library of mappings, so everyone
-                recreates the same work. 3) Writing mappers is tedious,
-                repetitive work. 4) Most pipelines use proprietary DSLs that are
-                hard to share and hard for tools/LLMs to generate.
-              </p>
-              <p>
-                Tangent takes a different approach: no DSLs – mappings and
-                enrichments are just normal code compiled to WASM, shareable
-                plugins – we maintain a community library (<a
-                  href="https://github.com/telophasehq/tangent-plugins"
-                  >https://github.com/telophasehq/tangent-plugins</a
-                >), interoperability – we can run other engines’ DSLs (e.g.,
-                Bloblang) inside WASM for easy migration, full flexibility –
-                plugins can validate schemas, call external APIs (<a
-                  href="https://github.com/telophasehq/tangent/blob/main/examples/enrichment/main.go#L58"
-                  >https://github.com/telophasehq/tangent/blob/main/examples/en...</a
-                >), or perform complex transforms (<a
-                  href="https://github.com/telophasehq/tangent-plugins/blob/main/zeek-ocsf/conn/main.go#L312"
-                  >https://github.com/telophasehq/tangent-plugins/blob/main/zee...</a
-                >).
-              </p>
-              <p>
-                Here's an example Python transformation plugin to drop all
-                fields from a log except `message`:
-              </p>
-              <p></p>
-              <pre><code>  import json
-  
-  from typing import List
-  
-  from wit_world.imports import log
-  
-  # `log.Logview` is Tangent's zero-copy JSON accessor type.
-  
-  def process_logs(self, logs: List[log.Logview]) -&gt; bytes:
-  
-      out = bytearray()
-  
-      for lv in logs:
-  
-          msg = lv.get("msg")
-  
-          value = msg.value if msg is not None else ""
-  
-          out.extend(json.dumps({"message": value}).encode() + b"\n")
-  
-      return bytes(out)
-</code></pre>
-              We have plenty more examples in the repo.
-              <p>
-                Because plugins are just Go/Python/Rust, LLMs can create new
-                mappers with ease. For example, I asked:
-              </p>
-              <p></p>
-              <pre><code>  Generate a mapper from AWS Security Hub Finding to OCSF
-</code></pre>
-              and only had to make a few minor tweaks. (<a
-                href="https://github.com/telophasehq/tangent-plugins/blob/main/aws-ocsf/security_hub/main.go"
-                >https://github.com/telophasehq/tangent-plugins/blob/main/aws...</a
-              >)
-              <p>
-                Performance-wise, a 16-core Amazon Linux box processes ~480 MB/s
-                end-to-end (TCP → Rust-WASM transform → sink) on ~100-byte JSON
-                logs. The CLI includes tooling to scaffold, test, and benchmark
-                plugins locally. Here's a deep dive into how we are able to get
-                this performance:
-                <a href="https://docs.telophasehq.com/runtime"
-                  >https://docs.telophasehq.com/runtime</a
-                >.
-              </p>
-              <p>We’d love to get your feedback! What do you think?</p>
-            </div>
-          </section>
-        </section>
-        <section id="45994537">
-          <h3>
-            <a
-              class="item"
-              href="https://www.centauri-dreams.org/2025/11/20/the-firefly-and-the-pulsar/"
-              >The Firefly and the Pulsar</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2025-11-20 @ 16:37:42</span
-              ><span class="points-container"
-                >Points: <span class="points">5</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=45994537"
-                  >Comments</a
-                ><span class="descendants">: 0</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="45993943">
-          <h3>
-            <a
-              class="item"
-              href="https://www.ryanpuzycki.com/p/the-banished-bottom-of-the-housing"
-              >The Banished Bottom of the Housing Market</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2025-11-20 @ 15:53:17</span
-              ><span class="points-container"
-                >Points: <span class="points">147</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=45993943"
-                  >Comments</a
-                ><span class="descendants">: 142</span></span
+                ><span class="descendants">: 157</span></span
               >
             </h4>
           </section>
@@ -557,11 +413,11 @@
             <h4>
               <span>2025-11-20 @ 15:04:23</span
               ><span class="points-container"
-                >Points: <span class="points">508</span></span
+                >Points: <span class="points">523</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45993296"
                   >Comments</a
-                ><span class="descendants">: 347</span></span
+                ><span class="descendants">: 359</span></span
               >
             </h4>
           </section>
@@ -578,7 +434,7 @@
             <h4>
               <span>2025-11-20 @ 14:56:47</span
               ><span class="points-container"
-                >Points: <span class="points">46</span></span
+                >Points: <span class="points">49</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45993214"
                   >Comments</a
@@ -599,11 +455,11 @@
             <h4>
               <span>2025-11-20 @ 14:20:49</span
               ><span class="points-container"
-                >Points: <span class="points">264</span></span
+                >Points: <span class="points">265</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45992829"
                   >Comments</a
-                ><span class="descendants">: 97</span></span
+                ><span class="descendants">: 98</span></span
               >
             </h4>
           </section>
@@ -618,11 +474,11 @@
             <h4>
               <span>2025-11-20 @ 12:21:15</span
               ><span class="points-container"
-                >Points: <span class="points">305</span></span
+                >Points: <span class="points">308</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45991853"
                   >Comments</a
-                ><span class="descendants">: 95</span></span
+                ><span class="descendants">: 96</span></span
               >
             </h4>
           </section>
@@ -639,7 +495,7 @@
             <h4>
               <span>2025-11-20 @ 12:08:56</span
               ><span class="points-container"
-                >Points: <span class="points">303</span></span
+                >Points: <span class="points">304</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45991787"
                   >Comments</a
@@ -659,11 +515,11 @@
             <h4>
               <span>2025-11-20 @ 12:01:26</span
               ><span class="points-container"
-                >Points: <span class="points">176</span></span
+                >Points: <span class="points">177</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45991738"
                   >Comments</a
-                ><span class="descendants">: 104</span></span
+                ><span class="descendants">: 105</span></span
               >
             </h4>
           </section>
@@ -678,11 +534,11 @@
             <h4>
               <span>2025-11-20 @ 09:52:11</span
               ><span class="points-container"
-                >Points: <span class="points">238</span></span
+                >Points: <span class="points">241</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45990934"
                   >Comments</a
-                ><span class="descendants">: 118</span></span
+                ><span class="descendants">: 119</span></span
               >
             </h4>
           </section>
@@ -699,7 +555,7 @@
             <h4>
               <span>2025-11-20 @ 02:47:13</span
               ><span class="points-container"
-                >Points: <span class="points">32</span></span
+                >Points: <span class="points">35</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45988278"
                   >Comments</a
@@ -718,11 +574,11 @@
             <h4>
               <span>2025-11-19 @ 20:09:30</span
               ><span class="points-container"
-                >Points: <span class="points">95</span></span
+                >Points: <span class="points">100</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45984461"
                   >Comments</a
-                ><span class="descendants">: 12</span></span
+                ><span class="descendants">: 11</span></span
               >
             </h4>
             <div class="text">
@@ -730,6 +586,27 @@
               hand at seeing how small of an ESP32 board I can make with
               functioning WiFi.
             </div>
+          </section>
+        </section>
+        <section id="45980117">
+          <h3>
+            <a
+              class="item"
+              href="https://www.theverge.com/news/823750/european-union-ai-act-gdpr-changes"
+              >Europe is scaling back GDPR and relaxing AI laws</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2025-11-19 @ 14:41:30</span
+              ><span class="points-container"
+                >Points: <span class="points">901</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=45980117"
+                  >Comments</a
+                ><span class="descendants">: 1064</span></span
+              >
+            </h4>
           </section>
         </section>
         <section id="45976693">
@@ -743,7 +620,7 @@
             <h4>
               <span>2025-11-19 @ 07:13:00</span
               ><span class="points-container"
-                >Points: <span class="points">50</span></span
+                >Points: <span class="points">53</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45976693"
                   >Comments</a
@@ -764,11 +641,11 @@
             <h4>
               <span>2025-11-18 @ 10:17:20</span
               ><span class="points-container"
-                >Points: <span class="points">82</span></span
+                >Points: <span class="points">95</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45963350"
                   >Comments</a
-                ><span class="descendants">: 14</span></span
+                ><span class="descendants">: 23</span></span
               >
             </h4>
           </section>
@@ -785,7 +662,7 @@
             <h4>
               <span>2025-11-17 @ 22:15:44</span
               ><span class="points-container"
-                >Points: <span class="points">31</span></span
+                >Points: <span class="points">34</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45958988"
                   >Comments</a
@@ -804,11 +681,11 @@
             <h4>
               <span>2025-11-17 @ 20:36:50</span
               ><span class="points-container"
-                >Points: <span class="points">41</span></span
+                >Points: <span class="points">51</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45958004"
                   >Comments</a
-                ><span class="descendants">: 17</span></span
+                ><span class="descendants">: 24</span></span
               >
             </h4>
             <div class="text">
@@ -916,11 +793,11 @@
             <h4>
               <span>2025-11-17 @ 20:13:54</span
               ><span class="points-container"
-                >Points: <span class="points">31</span></span
+                >Points: <span class="points">33</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45957743"
                   >Comments</a
-                ><span class="descendants">: 14</span></span
+                ><span class="descendants">: 20</span></span
               >
             </h4>
             <div class="text">
@@ -971,11 +848,30 @@
             <h4>
               <span>2025-11-17 @ 00:41:08</span
               ><span class="points-container"
-                >Points: <span class="points">40</span></span
+                >Points: <span class="points">46</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45949889"
                   >Comments</a
-                ><span class="descendants">: 6</span></span
+                ><span class="descendants">: 9</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="45947437">
+          <h3>
+            <a class="item" href="https://jamesakl.com/posts/cuda-ontology/"
+              >CUDA Ontology</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2025-11-16 @ 18:56:56</span
+              ><span class="points-container"
+                >Points: <span class="points">221</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=45947437"
+                  >Comments</a
+                ><span class="descendants">: 37</span></span
               >
             </h4>
           </section>
@@ -990,7 +886,7 @@
             <h4>
               <span>2025-11-16 @ 07:31:25</span
               ><span class="points-container"
-                >Points: <span class="points">9</span></span
+                >Points: <span class="points">16</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45943397"
                   >Comments</a
@@ -1016,7 +912,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45934795"
                   >Comments</a
-                ><span class="descendants">: 23</span></span
+                ><span class="descendants">: 27</span></span
               >
             </h4>
           </section>
@@ -1033,11 +929,30 @@
             <h4>
               <span>2025-11-13 @ 09:24:53</span
               ><span class="points-container"
-                >Points: <span class="points">25</span></span
+                >Points: <span class="points">26</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45912704"
                   >Comments</a
                 ><span class="descendants">: 11</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="45899836">
+          <h3>
+            <a class="item" href="https://lwn.net/Articles/1024387/"
+              >CoMaps emerges as an Organic Maps fork</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2025-11-12 @ 13:24:58</span
+              ><span class="points-container"
+                >Points: <span class="points">20</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=45899836"
+                  >Comments</a
+                ><span class="descendants">: 2</span></span
               >
             </h4>
           </section>
@@ -1055,7 +970,7 @@
             <h4>
               <span>2025-11-11 @ 22:22:05</span
               ><span class="points-container"
-                >Points: <span class="points">18</span></span
+                >Points: <span class="points">20</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45893696"
                   >Comments</a
