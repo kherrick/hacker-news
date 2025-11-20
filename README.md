@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-11-20, 14:20:49](https://news.ycombinator.com/item?id=45992829) - [Firefox 147 Will Support the XDG Base Directory Specification](https://www.phoronix.com/news/Firefox-147-XDG-Base-Directory)
 * [2025-11-20, 13:24:48](https://news.ycombinator.com/item?id=45992304) - [Students fight back over course taught by AI](https://www.theguardian.com/education/2025/nov/20/university-of-staffordshire-course-taught-in-large-part-by-ai-artificial-intelligence)
 * [2025-11-20, 12:21:15](https://news.ycombinator.com/item?id=45991853) - [Red Alert 2 in web browser](https://chronodivide.com/)
 * [2025-11-20, 12:08:56](https://news.ycombinator.com/item?id=45991787) - [40 years ago, Calvin and Hobbes' burst onto the page](https://www.npr.org/2025/11/18/nx-s1-5564064/calvin-and-hobbes-bill-watterson-40-years-comic-strip-lee-salem)
@@ -26,7 +27,6 @@
 * [2025-11-16, 18:56:56](https://news.ycombinator.com/item?id=45947437) - [CUDA Ontology](https://jamesakl.com/posts/cuda-ontology/)
 * [2025-11-15, 17:44:21](https://news.ycombinator.com/item?id=45939148) - [Wrapping my head around AI wrappers](https://www.wreflection.com/p/wrapping-my-head-around-ai-wrappers)
 * [2025-11-14, 11:53:31](https://news.ycombinator.com/item?id=45925962) - [Show HN: I made a fireplace for your wrist (and widgets)](https://news.ycombinator.com/item?id=45925962)
-* [2025-11-14, 08:49:55](https://news.ycombinator.com/item?id=45925109) - [CLI tool to check the Git status of multiple projects](https://github.com/uralys/check-projects)
 * [2025-11-14, 00:51:20](https://news.ycombinator.com/item?id=45922610) - [Scientists Reveal How the Maya Predicted Eclipses for Centuries](https://www.sciencealert.com/scientists-reveal-how-the-maya-predicted-eclipses-for-centuries)
 * [2025-11-13, 00:18:21](https://news.ycombinator.com/item?id=45908801) - [New Proofs Probe Soap-Film Singularities](https://www.quantamagazine.org/new-proofs-probe-soap-film-singularities-20251112/)
 * [2025-11-11, 15:54:42](https://news.ycombinator.com/item?id=45888759) - [What really happened with the CIA and The Paris Review?](https://www.theparisreview.org/blog/2025/11/11/what-really-happened-with-the-cia-and-the-paris-review-a-conversation-with-lance-richardson/)
