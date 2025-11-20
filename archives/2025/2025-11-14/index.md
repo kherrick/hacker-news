@@ -75,5 +75,6 @@
 * [2025-11-14, 01:42:01](https://news.ycombinator.com/item?id=45922907) - [Holes (1970) [pdf]](https://rintintin.colorado.edu/~vancecd/phil375/Lewis1.pdf)
 * [2025-11-14, 01:30:50](https://news.ycombinator.com/item?id=45922850) - [How to Get a North Korea / Antarctica VPS](https://blog.lyc8503.net/en/post/asn-5-worldwide-servers/)
 * [2025-11-14, 01:24:41](https://news.ycombinator.com/item?id=45922823) - [Microsoft-backed Veir is bringing superconductors to data centers](https://techcrunch.com/2025/11/12/microsoft-backed-veir-targets-data-centers-for-its-megawatt-class-superconductors/)
+* [2025-11-14, 00:51:20](https://news.ycombinator.com/item?id=45922610) - [Scientists Reveal How the Maya Predicted Eclipses for Centuries](https://www.sciencealert.com/scientists-reveal-how-the-maya-predicted-eclipses-for-centuries)
 * [2025-11-14, 00:41:08](https://news.ycombinator.com/item?id=45922550) - [Apple Mini Apps Partner Program](https://developer.apple.com/programs/mini-apps-partner/)
 * [2025-11-14, 00:18:23](https://news.ycombinator.com/item?id=45922420) - [What Happened with the CIA and The Paris Review?](https://www.theparisreview.org/blog/2025/11/11/what-really-happened-with-the-cia-and-the-paris-review-a-conversation-with-lance-richardson/)
