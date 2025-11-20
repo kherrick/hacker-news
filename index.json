@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-11-20, 18:20:59",
+      "https://news.ycombinator.com/item?id=45995834"
+    ],
+    [
+      "NTSB Preliminary Report – Ups Boeing MD-11F Crash [pdf]",
+      "https://www.ntsb.gov/Documents/Prelimiary%20Report%20DCA26MA024.pdf"
+    ]
+  ],
+  [
+    [
       "2025-11-20, 18:19:31",
       "https://news.ycombinator.com/item?id=45995816"
     ],
@@ -17,6 +27,16 @@
     [
       "Microsoft makes Zork open-source",
       "https://opensource.microsoft.com/blog/2025/11/20/preserving-code-that-shaped-generations-zork-i-ii-and-iii-go-open-source"
+    ]
+  ],
+  [
+    [
+      "2025-11-20, 18:00:50",
+      "https://news.ycombinator.com/item?id=45995554"
+    ],
+    [
+      "Gary Mani Mounfield of the Stone Roses and Primal Scream Dead at 63",
+      "https://www.manchestereveningnews.co.uk/news/greater-manchester-news/gary-mani-dead-stone-roses-32913693"
     ]
   ],
   [
@@ -95,7 +115,7 @@
       "https://news.ycombinator.com/item?id=45993214"
     ],
     [
-      "Freer Monads, More Extensible Effects [pdf]",
+      "Freer Monads, More Extensible Effects (2015) [pdf]",
       "https://okmij.org/ftp/Haskell/extensible/more.pdf"
     ]
   ],
@@ -151,16 +171,6 @@
   ],
   [
     [
-      "2025-11-20, 05:41:06",
-      "https://news.ycombinator.com/item?id=45989329"
-    ],
-    [
-      "Basalt Woven Textile",
-      "https://materialdistrict.com/material/basalt-woven-textile/"
-    ]
-  ],
-  [
-    [
       "2025-11-20, 02:47:13",
       "https://news.ycombinator.com/item?id=45988278"
     ],
@@ -177,16 +187,6 @@
     [
       "Show HN: F32 – An Extremely Small ESP32 Board",
       "https://github.com/PegorK/f32"
-    ]
-  ],
-  [
-    [
-      "2025-11-19, 14:41:30",
-      "https://news.ycombinator.com/item?id=45980117"
-    ],
-    [
-      "Europe is scaling back GDPR and relaxing AI laws",
-      "https://www.theverge.com/news/823750/european-union-ai-act-gdpr-changes"
     ]
   ],
   [
@@ -261,12 +261,12 @@
   ],
   [
     [
-      "2025-11-16, 18:56:56",
-      "https://news.ycombinator.com/item?id=45947437"
+      "2025-11-16, 07:31:25",
+      "https://news.ycombinator.com/item?id=45943397"
     ],
     [
-      "CUDA Ontology",
-      "https://jamesakl.com/posts/cuda-ontology/"
+      "What's in a Passenger Name Record (PNR)? (2013)",
+      "https://hasbrouck.org/articles/PNR.html"
     ]
   ],
   [
@@ -275,7 +275,7 @@
       "https://news.ycombinator.com/item?id=45934795"
     ],
     [
-      "Theft of the Weeping Woman from the National Gallery of Victoria",
+      "Theft of 'The Weeping Woman' from the National Gallery of Victoria",
       "https://en.wikipedia.org/wiki/Theft_of_The_Weeping_Woman_from_the_National_Gallery_of_Victoria"
     ]
   ],
