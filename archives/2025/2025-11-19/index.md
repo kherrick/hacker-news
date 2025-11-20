@@ -23,6 +23,7 @@
 * [2025-11-19, 19:55:49](https://news.ycombinator.com/item?id=45984282) - [Robert Louis Stevenson's Art of Living (and Dying)](https://lithub.com/robert-louis-stevensons-art-of-living-and-dying/)
 * [2025-11-19, 19:51:08](https://news.ycombinator.com/item?id=45984219) - [The death of Arduino?](https://news.ycombinator.com/item?id=45984219)
 * [2025-11-19, 19:44:46](https://news.ycombinator.com/item?id=45984143) - [Adafruit on the Death of Arduino](https://www.linkedin.com/posts/adafruit_opensource-privacy-techpolicy-activity-7396903362237054976-r14H)
+* [2025-11-19, 19:44:07](https://news.ycombinator.com/item?id=45984133) - [The lost cause of the Lisp machines](https://www.tfeb.org/fragments/2025/11/18/the-lost-cause-of-the-lisp-machines/)
 * [2025-11-19, 19:42:38](https://news.ycombinator.com/item?id=45984112) - [Measuring Political Bias in Claude](https://www.anthropic.com/news/political-even-handedness)
 * [2025-11-19, 19:39:09](https://news.ycombinator.com/item?id=45984072) - [Pozsar's Bretton Woods III: Sometimes Money Can't Solve the Problem](https://philippdubach.com/2025/10/25/pozsars-bretton-woods-iii-the-framework-1/2/)
 * [2025-11-19, 19:13:06](https://news.ycombinator.com/item?id=45983746) - [Gov. Abbott's office redacts pages of emails about Elon Musk](https://www.kut.org/politics/2025-11-19/texas-governor-abbott-elon-musk-emails-redacted)
