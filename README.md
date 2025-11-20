@@ -2,7 +2,8 @@
 
 * [2025-11-20, 19:52:55](https://news.ycombinator.com/item?id=45996860) - [CBP is monitoring US drivers and detaining those with suspicious travel patterns](https://apnews.com/article/immigration-border-patrol-surveillance-drivers-ice-trump-9f5d05469ce8c629d6fecf32d32098cd)
 * [2025-11-20, 19:26:12](https://news.ycombinator.com/item?id=45996585) - [Data-at-Rest Encryption in DuckDB](https://duckdb.org/2025/11/19/encryption-in-duckdb)
-* [2025-11-20, 18:20:59](https://news.ycombinator.com/item?id=45995834) - [NTSB Preliminary Report – Ups Boeing MD-11F Crash [pdf]](https://www.ntsb.gov/Documents/Prelimiary%20Report%20DCA26MA024.pdf)
+* [2025-11-20, 19:13:51](https://news.ycombinator.com/item?id=45996433) - [Mozilla Says It's Finally Done with Two-Faced Onerep](https://krebsonsecurity.com/2025/11/mozilla-says-its-finally-done-with-two-faced-onerep/)
+* [2025-11-20, 18:20:59](https://news.ycombinator.com/item?id=45995834) - [NTSB Preliminary Report – UPS Boeing MD-11F Crash [pdf]](https://www.ntsb.gov/Documents/Prelimiary%20Report%20DCA26MA024.pdf)
 * [2025-11-20, 18:19:31](https://news.ycombinator.com/item?id=45995816) - [The Lions Operating System](https://lionsos.org)
 * [2025-11-20, 18:13:39](https://news.ycombinator.com/item?id=45995740) - [Microsoft makes Zork open-source](https://opensource.microsoft.com/blog/2025/11/20/preserving-code-that-shaped-generations-zork-i-ii-and-iii-go-open-source)
 * [2025-11-20, 17:47:06](https://news.ycombinator.com/item?id=45995394) - [Launch HN: Poly (YC S22) – Cursor for Files](https://news.ycombinator.com/item?id=45995394)
@@ -13,7 +14,6 @@
 * [2025-11-20, 14:56:47](https://news.ycombinator.com/item?id=45993214) - [Freer Monads, More Extensible Effects (2015) [pdf]](https://okmij.org/ftp/Haskell/extensible/more.pdf)
 * [2025-11-20, 14:20:49](https://news.ycombinator.com/item?id=45992829) - [Firefox 147 Will Support the XDG Base Directory Specification](https://www.phoronix.com/news/Firefox-147-XDG-Base-Directory)
 * [2025-11-20, 12:21:15](https://news.ycombinator.com/item?id=45991853) - [Red Alert 2 in web browser](https://chronodivide.com/)
-* [2025-11-20, 12:08:56](https://news.ycombinator.com/item?id=45991787) - ['Calvin and Hobbes' at 40](https://www.npr.org/2025/11/18/nx-s1-5564064/calvin-and-hobbes-bill-watterson-40-years-comic-strip-lee-salem)
 * [2025-11-20, 12:01:26](https://news.ycombinator.com/item?id=45991738) - [Adversarial Poetry as a Universal Single-Turn Jailbreak Mechanism in LLMs](https://arxiv.org/abs/2511.15304)
 * [2025-11-20, 09:52:11](https://news.ycombinator.com/item?id=45990934) - [Interactive World History Atlas Since 3000 BC](http://geacron.com/home-en/)
 * [2025-11-20, 02:47:13](https://news.ycombinator.com/item?id=45988278) - [50th Anniversary of BitBLT](https://mastodon.sdf.org/@fvzappa/115574872559813280)
@@ -29,7 +29,7 @@
 * [2025-11-15, 21:05:16](https://news.ycombinator.com/item?id=45940603) - [Show HN: A game where you invest into startups from history](https://startupgambit.com)
 * [2025-11-15, 03:26:22](https://news.ycombinator.com/item?id=45934795) - [Theft of 'The Weeping Woman' from the National Gallery of Victoria](https://en.wikipedia.org/wiki/Theft_of_The_Weeping_Woman_from_the_National_Gallery_of_Victoria)
 * [2025-11-13, 09:24:53](https://news.ycombinator.com/item?id=45912704) - [IBM Delivers New Quantum Package](https://newsroom.ibm.com/2025-11-12-ibm-delivers-new-quantum-processors,-software,-and-algorithm-breakthroughs-on-path-to-advantage-and-fault-tolerance)
-* [2025-11-12, 13:24:58](https://news.ycombinator.com/item?id=45899836) - [CoMaps emerges as an Organic Maps fork](https://lwn.net/Articles/1024387/)
+* [2025-11-11, 22:22:05](https://news.ycombinator.com/item?id=45893696) - [Typesetting the \"Begriffsschrift\" by Gottlob Frege in Plain TeX [pdf]](https://www.tug.org/TUGboat/tb36-3/tb114wermuth.pdf)
 
 ## [Archives](archives/index.md)
 
