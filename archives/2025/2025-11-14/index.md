@@ -58,6 +58,7 @@
 * [2025-11-14, 11:06:29](https://news.ycombinator.com/item?id=45925755) - [A Spectral-Geometric Proof of the Riemann Hypothesis](https://zenodo.org/records/17508340)
 * [2025-11-14, 09:53:13](https://news.ycombinator.com/item?id=45925431) - [V8 Garbage Collector](https://wingolog.org/archives/2025/11/13/the-last-couple-years-in-v8s-garbage-collector)
 * [2025-11-14, 09:45:36](https://news.ycombinator.com/item?id=45925394) - [Reproducible C++ builds by logging Git hashes](https://jgarby.uk/posts/git_repr/)
+* [2025-11-14, 08:49:55](https://news.ycombinator.com/item?id=45925109) - [CLI tool to check the Git status of multiple projects](https://github.com/uralys/check-projects)
 * [2025-11-14, 08:06:41](https://news.ycombinator.com/item?id=45924872) - [Show HN: Pegma, the free and open-source version of the classic Peg solitaire](https://pegma.vercel.app)
 * [2025-11-14, 07:30:55](https://news.ycombinator.com/item?id=45924712) - [A/B Tests over Evals](https://www.raindrop.ai/blog/thoughts-on-evals/)
 * [2025-11-14, 07:10:10](https://news.ycombinator.com/item?id=45924619) - [RegreSQL: Regression Testing for PostgreSQL Queries](https://boringsql.com/posts/regresql-testing-queries/)
