@@ -57,6 +57,7 @@
 * [2025-11-13, 13:34:38](https://news.ycombinator.com/item?id=45914718) - [Britain's railway privatization was an abject failure](https://www.rosalux.de/en/news/id/53917/britains-railway-privatization-was-an-abject-failure)
 * [2025-11-13, 13:09:37](https://news.ycombinator.com/item?id=45914490) - [Perfecting Baseline](https://piccalil.li/blog/perfecting-baseline/)
 * [2025-11-13, 13:04:32](https://news.ycombinator.com/item?id=45914435) - [Beauty in/of mathematics: tessellations and their formulas](https://www.tandfonline.com/doi/full/10.1080/00036811.2025.2510472)
+* [2025-11-13, 12:29:55](https://news.ycombinator.com/item?id=45914115) - [Foliated Distance Fields [video]](https://www.youtube.com/watch?v=3AGeLuO5WdY)
 * [2025-11-13, 11:58:43](https://news.ycombinator.com/item?id=45913870) - [Bluetooth Channel Sounding: The Next Leap in Bluetooth Innovation](https://www.embedded.com/bluetooth-channel-sounding-the-next-leap-in-bluetooth-innovation?_gl=1*8e3cij*_gcl_au*MzQwNzM2NDAxLjE3NjMwMzUwNzA.*_ga*NDc3NjU3MDk3LjE3NjMwMzUwNzA.*_ga_ZLV02RYCZ8*czE3NjMwMzUwNjkkbzEkZzAkdDE3NjMwMzUwNjkkajYwJGwwJGgw)
 * [2025-11-13, 11:31:23](https://news.ycombinator.com/item?id=45913663) - [Hack Club has been handling children's data for 4 years without a privacy policy](https://kys.llc/blog/my-hackclub-story)
 * [2025-11-13, 10:46:26](https://news.ycombinator.com/item?id=45913319) - [fuckborderradius.com](https://fuckborderradius.com)
