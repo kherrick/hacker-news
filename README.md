@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-11-20, 20:15:56](https://news.ycombinator.com/item?id=45997099) - [We are replacing OOP with something worse](https://blog.jsbarretto.com/post/actors)
 * [2025-11-20, 19:52:55](https://news.ycombinator.com/item?id=45996860) - [CBP is monitoring US drivers and detaining those with suspicious travel patterns](https://apnews.com/article/immigration-border-patrol-surveillance-drivers-ice-trump-9f5d05469ce8c629d6fecf32d32098cd)
 * [2025-11-20, 19:26:12](https://news.ycombinator.com/item?id=45996585) - [Data-at-Rest Encryption in DuckDB](https://duckdb.org/2025/11/19/encryption-in-duckdb)
 * [2025-11-20, 19:13:51](https://news.ycombinator.com/item?id=45996433) - [Mozilla Says It's Finally Done with Two-Faced Onerep](https://krebsonsecurity.com/2025/11/mozilla-says-its-finally-done-with-two-faced-onerep/)
@@ -24,7 +25,6 @@
 * [2025-11-17, 20:36:50](https://news.ycombinator.com/item?id=45958004) - [Ask HN: How are Markov chains so different from tiny LLMs?](https://news.ycombinator.com/item?id=45958004)
 * [2025-11-17, 20:13:54](https://news.ycombinator.com/item?id=45957743) - [Two recently found works of J.S. Bach presented in Leipzig [video]](https://www.youtube.com/watch?v=4hXzUGYIL9M#t=15m19s)
 * [2025-11-17, 06:28:16](https://news.ycombinator.com/item?id=45951275) - [Android/Linux Dual Boot](https://wiki.postmarketos.org/wiki/Dual_Booting/WiP)
-* [2025-11-16, 18:56:56](https://news.ycombinator.com/item?id=45947437) - [CUDA Ontology](https://jamesakl.com/posts/cuda-ontology/)
 * [2025-11-16, 07:31:25](https://news.ycombinator.com/item?id=45943397) - [What's in a Passenger Name Record (PNR)? (2013)](https://hasbrouck.org/articles/PNR.html)
 * [2025-11-15, 21:05:16](https://news.ycombinator.com/item?id=45940603) - [Show HN: A game where you invest into startups from history](https://startupgambit.com)
 * [2025-11-15, 03:26:22](https://news.ycombinator.com/item?id=45934795) - [Theft of 'The Weeping Woman' from the National Gallery of Victoria](https://en.wikipedia.org/wiki/Theft_of_The_Weeping_Woman_from_the_National_Gallery_of_Victoria)
