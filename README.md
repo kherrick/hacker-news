@@ -26,10 +26,10 @@
 * [2025-11-17, 06:28:16](https://news.ycombinator.com/item?id=45951275) - [Android/Linux Dual Boot](https://wiki.postmarketos.org/wiki/Dual_Booting/WiP)
 * [2025-11-16, 18:56:56](https://news.ycombinator.com/item?id=45947437) - [CUDA Ontology](https://jamesakl.com/posts/cuda-ontology/)
 * [2025-11-15, 17:44:21](https://news.ycombinator.com/item?id=45939148) - [Wrapping my head around AI wrappers](https://www.wreflection.com/p/wrapping-my-head-around-ai-wrappers)
+* [2025-11-15, 03:26:22](https://news.ycombinator.com/item?id=45934795) - [Theft of the Weeping Woman from the National Gallery of Victoria](https://en.wikipedia.org/wiki/Theft_of_The_Weeping_Woman_from_the_National_Gallery_of_Victoria)
 * [2025-11-14, 00:51:20](https://news.ycombinator.com/item?id=45922610) - [Scientists Reveal How the Maya Predicted Eclipses for Centuries](https://www.sciencealert.com/scientists-reveal-how-the-maya-predicted-eclipses-for-centuries)
 * [2025-11-13, 00:18:21](https://news.ycombinator.com/item?id=45908801) - [New Proofs Probe Soap-Film Singularities](https://www.quantamagazine.org/new-proofs-probe-soap-film-singularities-20251112/)
 * [2025-11-12, 00:55:13](https://news.ycombinator.com/item?id=45895100) - [Smart Performance Hacks for Faster Python Code](https://blog.jetbrains.com/pycharm/2025/11/10-smart-performance-hacks-for-faster-python-code/)
-* [2025-11-11, 15:54:42](https://news.ycombinator.com/item?id=45888759) - [What really happened with the CIA and The Paris Review?](https://www.theparisreview.org/blog/2025/11/11/what-really-happened-with-the-cia-and-the-paris-review-a-conversation-with-lance-richardson/)
 
 ## [Archives](archives/index.md)
 

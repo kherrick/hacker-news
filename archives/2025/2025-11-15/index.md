@@ -58,6 +58,7 @@
 * [2025-11-15, 03:59:35](https://news.ycombinator.com/item?id=45934950) - [Scientists reverse kidney damage in mice, hope for humans next](https://www.sciencedaily.com/releases/2025/11/251114094525.htm)
 * [2025-11-15, 03:58:01](https://news.ycombinator.com/item?id=45934940) - [I can't recommend Grafana anymore](https://henrikgerdes.me/blog/2025-11-grafana-mess/)
 * [2025-11-15, 03:50:04](https://news.ycombinator.com/item?id=45934912) - [Meet Reservoir – The World's Smartest Water Heater](https://www.reservoirhome.com/)
+* [2025-11-15, 03:26:22](https://news.ycombinator.com/item?id=45934795) - [Theft of the Weeping Woman from the National Gallery of Victoria](https://en.wikipedia.org/wiki/Theft_of_The_Weeping_Woman_from_the_National_Gallery_of_Victoria)
 * [2025-11-15, 02:58:56](https://news.ycombinator.com/item?id=45934683) - [Over-reliance on English hinders cognitive science](https://www.cell.com/trends/cognitive-sciences/fulltext/S1364-6613(22)00236-4)
 * [2025-11-15, 02:55:06](https://news.ycombinator.com/item?id=45934665) - [Vortex: An extensible, state of the art columnar file format](https://github.com/vortex-data/vortex)
 * [2025-11-15, 02:46:54](https://news.ycombinator.com/item?id=45934624) - [Show HN: UnisonDB – B+Tree DB with sub-second replication to 100+ nodes](https://github.com/ankur-anand/unisondb)
