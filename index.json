@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-11-20, 17:07:49",
+      "https://news.ycombinator.com/item?id=45994895"
+    ],
+    [
+      "Go Cryptography State of the Union",
+      "https://words.filippo.io/2025-state/"
+    ]
+  ],
+  [
+    [
       "2025-11-20, 17:04:34",
       "https://news.ycombinator.com/item?id=45994854"
     ],
@@ -17,6 +27,16 @@
     [
       "Show HN: Tangent – Open-source security data pipeline",
       "https://github.com/telophasehq/tangent"
+    ]
+  ],
+  [
+    [
+      "2025-11-20, 16:15:00",
+      "https://news.ycombinator.com/item?id=45994235"
+    ],
+    [
+      "Show HN: Rapid-rs – Zero-config web framework for Rust",
+      "https://crates.io/crates/rapid-rs"
     ]
   ],
   [
@@ -201,16 +221,6 @@
   ],
   [
     [
-      "2025-11-18, 19:32:27",
-      "https://news.ycombinator.com/item?id=45970885"
-    ],
-    [
-      "A surprise with how '#!' handles its program argument in practice",
-      "https://utcc.utoronto.ca/~cks/space/blog/unix/ShebangRelativePathSurprise"
-    ]
-  ],
-  [
-    [
       "2025-11-17, 18:32:16",
       "https://news.ycombinator.com/item?id=45956438"
     ],
@@ -277,16 +287,6 @@
     [
       "IBM Delivers New Quantum Package",
       "https://newsroom.ibm.com/2025-11-12-ibm-delivers-new-quantum-processors,-software,-and-algorithm-breakthroughs-on-path-to-advantage-and-fault-tolerance"
-    ]
-  ],
-  [
-    [
-      "2025-11-13, 00:18:21",
-      "https://news.ycombinator.com/item?id=45908801"
-    ],
-    [
-      "New Proofs Probe Soap-Film Singularities",
-      "https://www.quantamagazine.org/new-proofs-probe-soap-film-singularities-20251112/"
     ]
   ],
   [
