@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-11-21](index.md)
 
+* [2025-11-21, 19:19:17](https://news.ycombinator.com/item?id=46007866) - [Cloudflare Dashboard and Cloudflare API service issues](https://www.cloudflarestatus.com/incidents/9ts6gx8q69xl)
 * [2025-11-21, 18:30:52](https://news.ycombinator.com/item?id=46007294) - [Brazil charges 31 people in major carbon credit fraud investigation](https://news.mongabay.com/short-article/2025/11/brazil-charges-31-people-in-major-carbon-credit-fraud-investigation/)
 * [2025-11-21, 18:28:31](https://news.ycombinator.com/item?id=46007267) - [How/why to sweep async tasks under a Postgres table](https://taylor.town/pg-task)
 * [2025-11-21, 17:52:37](https://news.ycombinator.com/item?id=46006848) - [McDonald's is losing its low-income customers: a symptom of the wealth divide](https://www.latimes.com/business/story/2025-11-16/mcdonalds-is-losing-its-low-income-customers)
