@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-11-21, 22:40:28",
+      "https://news.ycombinator.com/item?id=46009894"
+    ],
+    [
+      "Personal blogs are back, should niche blogs be next?",
+      "https://disassociated.com/personal-blogs-back-niche-blogs-next/"
+    ]
+  ],
+  [
+    [
+      "2025-11-21, 22:17:11",
+      "https://news.ycombinator.com/item?id=46009660"
+    ],
+    [
+      "Is Matrix Multiplication Ugly?",
+      "https://mathenchant.wordpress.com/2025/11/21/is-matrix-multiplication-ugly/"
+    ]
+  ],
+  [
+    [
       "2025-11-21, 22:11:07",
       "https://news.ycombinator.com/item?id=46009591"
     ],
@@ -51,32 +71,12 @@
   ],
   [
     [
-      "2025-11-21, 20:30:51",
-      "https://news.ycombinator.com/item?id=46008628"
-    ],
-    [
-      "We remember the internet bubble. This mania looks and feels the same",
-      "https://crazystupidtech.com/2025/11/21/boom-bubble-bust-boom-why-should-ai-be-different/"
-    ]
-  ],
-  [
-    [
       "2025-11-21, 19:46:34",
       "https://news.ycombinator.com/item?id=46008156"
     ],
     [
       "Tuxedo Computers Cancels Snapdragon X1 Linux Laptop",
       "https://www.tuxedocomputers.com/en/Discontinuation-of-ARM-notebooks-with-Snapdragon-X-Elite-SoC.tuxedo"
-    ]
-  ],
-  [
-    [
-      "2025-11-21, 18:28:31",
-      "https://news.ycombinator.com/item?id=46007267"
-    ],
-    [
-      "How/why to sweep async tasks under a Postgres table",
-      "https://taylor.town/pg-task"
     ]
   ],
   [
@@ -251,6 +251,16 @@
   ],
   [
     [
+      "2025-11-17, 17:31:41",
+      "https://news.ycombinator.com/item?id=45955824"
+    ],
+    [
+      "You only live once, self host a NAT Gateway",
+      "https://www.awsistoohard.com/blog/self-hosting-nat-gateway"
+    ]
+  ],
+  [
+    [
       "2025-11-15, 13:32:12",
       "https://news.ycombinator.com/item?id=45937350"
     ],
@@ -287,16 +297,6 @@
     [
       "Shop Sans is a typeface for curved text paths",
       "https://www.futurefonts.com/hex/shop-sans"
-    ]
-  ],
-  [
-    [
-      "2025-11-12, 09:37:41",
-      "https://news.ycombinator.com/item?id=45898185"
-    ],
-    [
-      "I converted a rotary phone into a meeting handset",
-      "https://www.stavros.io/posts/i-converted-a-rotary-phone-into-a-meeting-handset/"
     ]
   ]
 ]
