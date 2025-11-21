@@ -12,6 +12,7 @@
 * [2025-11-12, 21:50:14](https://news.ycombinator.com/item?id=45907259) - [Homebrew no longer allows bypassing Gatekeeper for unsigned/unnotarized software](https://github.com/Homebrew/brew/issues/20755)
 * [2025-11-12, 21:00:43](https://news.ycombinator.com/item?id=45906604) - [OmniAI (YC W24) Is Hiring Forward Deployed Engineers](https://www.ycombinator.com/companies/omniai/jobs/fuTMf2w-forward-deployed-engineer)
 * [2025-11-12, 20:35:22](https://news.ycombinator.com/item?id=45906223) - [I built a platform where audiences fund debates between public thinkers](https://logosive.com)
+* [2025-11-12, 20:15:51](https://news.ycombinator.com/item?id=45905850) - [FEX-emu – run x86 applications on ARM64 Linux devices](https://fex-emu.com/)
 * [2025-11-12, 20:02:58](https://news.ycombinator.com/item?id=45905620) - [Making the Clang AST Leaner and Faster](https://cppalliance.org/mizvekov,/clang/2025/10/20/Making-Clang-AST-Leaner-Faster.html)
 * [2025-11-12, 19:53:25](https://news.ycombinator.com/item?id=45905451) - [LLM Output Drift in Financial Workflows: Validation and Mitigation (arXiv)](https://arxiv.org/abs/2511.07585)
 * [2025-11-12, 19:50:32](https://news.ycombinator.com/item?id=45905408) - [GLP-1 Drugs Linked to Dramatically Lower Death Rates in Colon Cancer Patients](https://today.ucsd.edu/story/glp-1-drugs-linked-to-dramatically-lower-death-rates-in-colon-cancer-patients)
