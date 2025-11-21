@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-11-21](index.md)
 
 * [2025-11-21, 06:50:14](https://news.ycombinator.com/item?id=46001889) - [Olmo 3: Charting a path through the model flow to lead open-source AI](https://allenai.org/blog/olmo3)
+* [2025-11-21, 06:37:07](https://news.ycombinator.com/item?id=46001823) - [Streaming platform Twitch added to Australia's teen social media ban](https://www.bbc.com/news/articles/cx2n2955g10o)
 * [2025-11-21, 06:19:20](https://news.ycombinator.com/item?id=46001738) - [While Eyes Are on Takaichi, Taiwan's Lai Is Quietly Redefining the Status Quo](https://jonathancc.substack.com/p/while-eyes-are-on-takaichi-taiwans)
 * [2025-11-21, 01:50:24](https://news.ycombinator.com/item?id=46000303) - [Measuring Latency (2015)](https://bravenewgeek.com/everything-you-know-about-latency-is-wrong/)
 * [2025-11-21, 01:02:44](https://news.ycombinator.com/item?id=46000032) - [Al-Shabaab Hacks MN Welfare Process](https://www.thecentersquare.com/minnesota/article_4ec1e3b3-1503-451d-8e50-25d2607568e5.html)
