@@ -11,12 +11,12 @@
   ],
   [
     [
-      "2025-11-21, 00:02:18",
-      "https://news.ycombinator.com/item?id=45999622"
+      "2025-11-21, 00:36:01",
+      "https://news.ycombinator.com/item?id=45999872"
     ],
     [
-      "Prozac 'no better than placebo' for treating children with depression, experts",
-      "https://www.theguardian.com/society/2025/nov/20/prozac-no-better-than-placebo-for-treating-children-with-depression-experts-say"
+      "Why top firms fire good workers",
+      "https://www.rochester.edu/newscenter/employee-turnover-why-top-firms-churn-good-workers-681832/"
     ]
   ],
   [
@@ -25,8 +25,28 @@
       "https://news.ycombinator.com/item?id=45999038"
     ],
     [
-      "Over-Regulation is Doubling the Cost",
+      "Over-regulation is doubling the cost",
       "https://rein.pk/over-regulation-is-doubling-the-cost"
+    ]
+  ],
+  [
+    [
+      "2025-11-20, 22:21:58",
+      "https://news.ycombinator.com/item?id=45998649"
+    ],
+    [
+      "Autocomp: An ADRS Framework for Optimizing Tensor Accelerator Code",
+      "https://adrs-ucb.notion.site/autocomp"
+    ]
+  ],
+  [
+    [
+      "2025-11-20, 21:58:45",
+      "https://news.ycombinator.com/item?id=45998396"
+    ],
+    [
+      "Virgin and Qantas to ban use of portable power banks after string of fires",
+      "https://www.abc.net.au/news/2025-11-21/airlines-virgin-australia-qantas-ban-power-banks/106033982"
     ]
   ],
   [
@@ -51,16 +71,6 @@
   ],
   [
     [
-      "2025-11-20, 21:05:12",
-      "https://news.ycombinator.com/item?id=45997722"
-    ],
-    [
-      "Run Docker containers natively in Proxmox 9.1 (OCI images)",
-      "https://raymii.org/s/tutorials/Finally_run_Docker_containers_natively_in_Proxmox_9.1.html"
-    ]
-  ],
-  [
-    [
       "2025-11-20, 20:24:42",
       "https://news.ycombinator.com/item?id=45997212"
     ],
@@ -77,6 +87,16 @@
     [
       "OOP is shifting between domains, not disappearing",
       "https://blog.jsbarretto.com/post/actors"
+    ]
+  ],
+  [
+    [
+      "2025-11-20, 19:52:55",
+      "https://news.ycombinator.com/item?id=45996860"
+    ],
+    [
+      "CBP is monitoring US drivers and detaining those with suspicious travel patterns",
+      "https://apnews.com/article/immigration-border-patrol-surveillance-drivers-ice-trump-9f5d05469ce8c629d6fecf32d32098cd"
     ]
   ],
   [
@@ -131,16 +151,6 @@
   ],
   [
     [
-      "2025-11-20, 17:07:49",
-      "https://news.ycombinator.com/item?id=45994895"
-    ],
-    [
-      "Go Cryptography State of the Union",
-      "https://words.filippo.io/2025-state/"
-    ]
-  ],
-  [
-    [
       "2025-11-20, 17:04:34",
       "https://news.ycombinator.com/item?id=45994854"
     ],
@@ -151,32 +161,22 @@
   ],
   [
     [
+      "2025-11-20, 15:53:17",
+      "https://news.ycombinator.com/item?id=45993943"
+    ],
+    [
+      "The Banished Bottom of the Housing Market",
+      "https://www.ryanpuzycki.com/p/the-banished-bottom-of-the-housing"
+    ]
+  ],
+  [
+    [
       "2025-11-20, 15:04:23",
       "https://news.ycombinator.com/item?id=45993296"
     ],
     [
       "Nano Banana Pro",
       "https://blog.google/technology/ai/nano-banana-pro/"
-    ]
-  ],
-  [
-    [
-      "2025-11-20, 14:56:47",
-      "https://news.ycombinator.com/item?id=45993214"
-    ],
-    [
-      "Freer Monads, More Extensible Effects (2015) [pdf]",
-      "https://okmij.org/ftp/Haskell/extensible/more.pdf"
-    ]
-  ],
-  [
-    [
-      "2025-11-20, 12:21:15",
-      "https://news.ycombinator.com/item?id=45991853"
-    ],
-    [
-      "Red Alert 2 in web browser",
-      "https://chronodivide.com/"
     ]
   ],
   [
@@ -241,6 +241,16 @@
   ],
   [
     [
+      "2025-11-17, 20:36:50",
+      "https://news.ycombinator.com/item?id=45958004"
+    ],
+    [
+      "Ask HN: How are Markov chains so different from tiny LLMs?",
+      "https://news.ycombinator.com/item?id=45958004"
+    ]
+  ],
+  [
+    [
       "2025-11-17, 20:13:54",
       "https://news.ycombinator.com/item?id=45957743"
     ],
@@ -251,22 +261,22 @@
   ],
   [
     [
-      "2025-11-16, 07:31:25",
-      "https://news.ycombinator.com/item?id=45943397"
-    ],
-    [
-      "What's in a Passenger Name Record (PNR)? (2013)",
-      "https://hasbrouck.org/articles/PNR.html"
-    ]
-  ],
-  [
-    [
       "2025-11-16, 02:00:38",
       "https://news.ycombinator.com/item?id=45942109"
     ],
     [
       "Exploring the Fragmentation of Wayland, an xdotool adventure",
       "https://www.semicomplete.com/blog/xdotool-and-exploring-wayland-fragmentation/"
+    ]
+  ],
+  [
+    [
+      "2025-11-15, 07:27:32",
+      "https://news.ycombinator.com/item?id=45935690"
+    ],
+    [
+      "World Othello Championship Finals",
+      "https://flipthedisc.com/live/320"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "FEX-emu – Run x86 applications on ARM64 Linux devices",
       "https://fex-emu.com/"
-    ]
-  ],
-  [
-    [
-      "2025-11-12, 05:04:30",
-      "https://news.ycombinator.com/item?id=45896554"
-    ],
-    [
-      "Readonly Characters Are a Big Deal",
-      "https://matklad.github.io/2025/11/10/readonly-characters.html"
     ]
   ]
 ]
