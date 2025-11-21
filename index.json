@@ -1,12 +1,42 @@
 [
   [
     [
+      "2025-11-21, 16:34:52",
+      "https://news.ycombinator.com/item?id=46006016"
+    ],
+    [
+      "Show HN: Wealthfolio 2.0- Open source investment tracker. Now Mobile and Docker",
+      "https://wealthfolio.app/?v=2.0"
+    ]
+  ],
+  [
+    [
+      "2025-11-21, 15:18:05",
+      "https://news.ycombinator.com/item?id=46005349"
+    ],
+    [
+      "XBMC 4.0 for the Original Xbox",
+      "https://www.xbox-scene.info/articles/announcing-xbmc-40-for-the-original-xbox-r64/"
+    ]
+  ],
+  [
+    [
       "2025-11-21, 14:52:36",
       "https://news.ycombinator.com/item?id=46005130"
     ],
     [
       "Is C++26 getting destructive move semantics?",
       "https://stackoverflow.com/questions/79817124/is-c26-getting-destructive-move-semantics"
+    ]
+  ],
+  [
+    [
+      "2025-11-21, 14:50:36",
+      "https://news.ycombinator.com/item?id=46005111"
+    ],
+    [
+      "We should all be using dependency cooldowns",
+      "https://blog.yossarian.net/2025/11/21/We-should-all-be-using-dependency-cooldowns"
     ]
   ],
   [
@@ -151,26 +181,6 @@
   ],
   [
     [
-      "2025-11-20, 18:20:59",
-      "https://news.ycombinator.com/item?id=45995834"
-    ],
-    [
-      "NTSB Preliminary Report – UPS Boeing MD-11F Crash [pdf]",
-      "https://www.ntsb.gov/Documents/Prelimiary%20Report%20DCA26MA024.pdf"
-    ]
-  ],
-  [
-    [
-      "2025-11-20, 18:19:31",
-      "https://news.ycombinator.com/item?id=45995816"
-    ],
-    [
-      "The Lions Operating System",
-      "https://lionsos.org"
-    ]
-  ],
-  [
-    [
       "2025-11-20, 17:04:34",
       "https://news.ycombinator.com/item?id=45994854"
     ],
@@ -187,16 +197,6 @@
     [
       "Nano Banana Pro",
       "https://blog.google/technology/ai/nano-banana-pro/"
-    ]
-  ],
-  [
-    [
-      "2025-11-19, 07:13:00",
-      "https://news.ycombinator.com/item?id=45976693"
-    ],
-    [
-      "Free interactive tool that shows you how PCIe lanes work on motherboards",
-      "https://mobomaps.com"
     ]
   ],
   [
