@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-11-21, 14:52:36",
+      "https://news.ycombinator.com/item?id=46005130"
+    ],
+    [
+      "Is C++26 getting destructive move semantics?",
+      "https://stackoverflow.com/questions/79817124/is-c26-getting-destructive-move-semantics"
+    ]
+  ],
+  [
+    [
       "2025-11-21, 13:30:36",
       "https://news.ycombinator.com/item?id=46004386"
     ],
@@ -167,16 +177,6 @@
     [
       "Adversarial poetry as a universal single-turn jailbreak mechanism in LLMs",
       "https://arxiv.org/abs/2511.15304"
-    ]
-  ],
-  [
-    [
-      "2025-11-19, 20:09:30",
-      "https://news.ycombinator.com/item?id=45984461"
-    ],
-    [
-      "Show HN: F32 – An Extremely Small ESP32 Board",
-      "https://github.com/PegorK/f32"
     ]
   ],
   [
