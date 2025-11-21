@@ -30,6 +30,7 @@
 * [2025-11-17, 17:39:15](https://news.ycombinator.com/item?id=45955900) - [Azure hit by 15 Tbps DDoS attack using 500k IP addresses](https://techcommunity.microsoft.com/blog/azureinfrastructureblog/defending-the-cloud-azure-neutralized-a-record-breaking-15-tbps-ddos-attack/4470422)
 * [2025-11-17, 17:37:42](https://news.ycombinator.com/item?id=45955889) - [A new book recovers the origins of Effective Altruism](https://newrepublic.com/article/202433/happened-effective-altruism)
 * [2025-11-17, 17:36:15](https://news.ycombinator.com/item?id=45955879) - [The Baumol Effect and Jevons paradox are related](https://www.a16z.news/p/why-ac-is-cheap-but-ac-repair-is)
+* [2025-11-17, 17:31:41](https://news.ycombinator.com/item?id=45955824) - [You only live once, self host a NAT Gateway](https://www.awsistoohard.com/blog/self-hosting-nat-gateway)
 * [2025-11-17, 17:23:35](https://news.ycombinator.com/item?id=45955745) - [Cities panic over having to release mass surveillance recordings](https://neuburger.substack.com/p/cities-panic-over-having-to-release)
 * [2025-11-17, 17:23:35](https://news.ycombinator.com/item?id=45955745) - [Cities Panic over Having to Release Mass Surveillance Recordings](https://www.nakedcapitalism.com/2025/11/cities-panic-over-having-to-release-mass-surveillance-recordings.html)
 * [2025-11-17, 17:07:17](https://news.ycombinator.com/item?id=45955565) - [When AWS was down, we were not](https://authress.io/knowledge-base/articles/2025/11/01/how-we-prevent-aws-downtime-impacts)
