@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-11-11](index.md)
 
 * [2025-11-11, 23:59:49](https://news.ycombinator.com/item?id=45894588) - [Why Nietzsche Matters in the Age of Artificial Intelligence](https://cacm.acm.org/blogcacm/why-nietzsche-matters-in-the-age-of-artificial-intelligence/)
+* [2025-11-11, 23:59:23](https://news.ycombinator.com/item?id=45894585) - [A Whale-Surfing Fish](https://apnews.com/article/sucker-fish-riding-whale-remoras-humpback-australia-69db9878c42b7d11e3755ecca4132588)
 * [2025-11-11, 23:58:08](https://news.ycombinator.com/item?id=45894569) - [I can build enterprise software but I can't charge for it](https://gist.github.com/EchenD/8b211ebfa4941d2c5df7b526790b31aa)
 * [2025-11-11, 23:06:40](https://news.ycombinator.com/item?id=45894145) - [Who Still Uses Cash?](https://www.voronoiapp.com/economy/Who-Still-Uses-Cash-7090)
 * [2025-11-11, 22:50:32](https://news.ycombinator.com/item?id=45893986) - [.NET MAUI Is Coming to Linux and the Browser, Powered by Avalonia](https://avaloniaui.net/blog/net-maui-is-coming-to-linux-and-the-browser-powered-by-avalonia)
