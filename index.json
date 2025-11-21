@@ -25,7 +25,7 @@
       "https://news.ycombinator.com/item?id=46004364"
     ],
     [
-      "EXIF orientation info in PNGs isn't used for image-orientation",
+      "EXIF orientation info in PNGs isn't used for image-orientation: from-image",
       "https://bugzilla.mozilla.org/show_bug.cgi?id=1627423"
     ]
   ],
@@ -37,6 +37,16 @@
     [
       "Making a Small RPG",
       "https://jslegenddev.substack.com/p/making-a-small-rpg"
+    ]
+  ],
+  [
+    [
+      "2025-11-21, 12:12:41",
+      "https://news.ycombinator.com/item?id=46003778"
+    ],
+    [
+      "How a French judge was digitally cut off by the USA",
+      "https://www.heise.de/en/news/How-a-French-judge-was-digitally-cut-off-by-the-USA-11087561.html"
     ]
   ],
   [
@@ -131,6 +141,16 @@
   ],
   [
     [
+      "2025-11-20, 18:27:51",
+      "https://news.ycombinator.com/item?id=45995913"
+    ],
+    [
+      "Show HN: Search London StreetView panoramas by text",
+      "https://london.publicinsights.uk"
+    ]
+  ],
+  [
+    [
       "2025-11-20, 18:20:59",
       "https://news.ycombinator.com/item?id=45995834"
     ],
@@ -167,16 +187,6 @@
     [
       "Nano Banana Pro",
       "https://blog.google/technology/ai/nano-banana-pro/"
-    ]
-  ],
-  [
-    [
-      "2025-11-20, 12:01:26",
-      "https://news.ycombinator.com/item?id=45991738"
-    ],
-    [
-      "Adversarial poetry as a universal single-turn jailbreak mechanism in LLMs",
-      "https://arxiv.org/abs/2511.15304"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "I converted a rotary phone into a meeting handset",
       "https://www.stavros.io/posts/i-converted-a-rotary-phone-into-a-meeting-handset/"
-    ]
-  ],
-  [
-    [
-      "2025-11-11, 18:19:56",
-      "https://news.ycombinator.com/item?id=45890876"
-    ],
-    [
-      "Historical Reasons",
-      "https://exple.tive.org/blarg/2025/11/11/historical-reasons-2/"
     ]
   ]
 ]
