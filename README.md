@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-11-21, 13:04:56](https://news.ycombinator.com/item?id=46004118) - [Jmail: Gmail Clone with Epstein's Emails](https://jmail.world)
-* [2025-11-21, 12:12:41](https://news.ycombinator.com/item?id=46003778) - [How a French judge was digitally cut off by the USA](https://www.heise.de/en/news/How-a-French-judge-was-digitally-cut-off-by-the-USA-11087561.html)
+* [2025-11-21, 13:30:36](https://news.ycombinator.com/item?id=46004386) - [Building a Minimal Viable Armv7 Emulator from Scratch](https://xnacly.me/posts/2025/building-a-minimal-viable-armv7-emulator/)
+* [2025-11-21, 13:29:14](https://news.ycombinator.com/item?id=46004364) - [EXIF orientation info in PNGs isn't used for image-orientation](https://bugzilla.mozilla.org/show_bug.cgi?id=1627423)
+* [2025-11-21, 12:49:08](https://news.ycombinator.com/item?id=46003995) - [iHeartRadio web has exposed all its source code](https://github.com/Gh0styTongue/iHeart-Frontend-Source-Code)
 * [2025-11-21, 12:00:02](https://news.ycombinator.com/item?id=46003686) - [Roundtable (YC S23) Is Hiring Two Sales Development Representatives (SDRs)](https://www.ycombinator.com/companies/roundtable/jobs/irJTEsg-sales-development-representative)
 * [2025-11-21, 10:28:49](https://news.ycombinator.com/item?id=46003144) - [FAWK: LLMs can write a language interpreter](https://martin.janiczek.cz/2025/11/21/fawk-llms-can-write-a-language-interpreter.html)
 * [2025-11-21, 10:01:37](https://news.ycombinator.com/item?id=46002989) - [HP and Dell disable HEVC support built into their laptops' CPUs](https://arstechnica.com/gadgets/2025/11/hp-and-dell-disable-hevc-support-built-into-their-laptops-cpus/)
@@ -22,7 +23,6 @@
 * [2025-11-17, 22:15:44](https://news.ycombinator.com/item?id=45958988) - [Show HN: My hobby OS that runs Minecraft](https://astral-os.org/posts/2025/10/31/astral-minecraft.html)
 * [2025-11-17, 20:13:54](https://news.ycombinator.com/item?id=45957743) - [Two recently found works of J.S. Bach presented in Leipzig [video]](https://www.youtube.com/watch?v=4hXzUGYIL9M#t=15m19s)
 * [2025-11-17, 15:06:32](https://news.ycombinator.com/item?id=45954228) - [Show HN: 32V TENS device from built from scratch under $100](https://littlemountainman.github.io/2025/11/17/tens/)
-* [2025-11-15, 16:03:54](https://news.ycombinator.com/item?id=45938314) - [Color Spaces, Bitmaps and Pumpkins](https://pmig96.wordpress.com/2025/11/12/color-spaces-bitmaps-and-pumpkins/)
 * [2025-11-15, 13:32:12](https://news.ycombinator.com/item?id=45937350) - [Scientists now know that bees can process time, a first in insects](https://www.cnn.com/2025/11/12/science/bees-visual-stimulus-study-scli-intl)
 * [2025-11-15, 13:06:38](https://news.ycombinator.com/item?id=45937183) - [WebAssembly from the Ground Up](https://wasmgroundup.com/)
 * [2025-11-13, 16:53:43](https://news.ycombinator.com/item?id=45917182) - [Open Source and Local Code Mode MCP in Deno Sandboxes](https://portofcontext.com)
