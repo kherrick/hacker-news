@@ -131,16 +131,6 @@
   ],
   [
     [
-      "2025-11-20, 17:07:49",
-      "https://news.ycombinator.com/item?id=45994895"
-    ],
-    [
-      "Go Cryptography State of the Union",
-      "https://words.filippo.io/2025-state/"
-    ]
-  ],
-  [
-    [
       "2025-11-20, 17:04:34",
       "https://news.ycombinator.com/item?id=45994854"
     ],
@@ -257,6 +247,16 @@
     [
       "Exploring the Fragmentation of Wayland, an xdotool adventure",
       "https://www.semicomplete.com/blog/xdotool-and-exploring-wayland-fragmentation/"
+    ]
+  ],
+  [
+    [
+      "2025-11-15, 13:06:38",
+      "https://news.ycombinator.com/item?id=45937183"
+    ],
+    [
+      "WebAssembly from the Ground Up",
+      "https://wasmgroundup.com/"
     ]
   ],
   [
