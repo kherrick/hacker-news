@@ -37,6 +37,7 @@
 * [2025-11-15, 15:25:08](https://news.ycombinator.com/item?id=45938027) - [Weighting an Average to Minimize Variance](https://www.johndcook.com/blog/2025/11/12/minimum-variance/)
 * [2025-11-15, 15:19:20](https://news.ycombinator.com/item?id=45937989) - [Linux on the Fujitsu Lifebook U729](https://borretti.me/article/linux-on-the-fujitsu-lifebook-u729)
 * [2025-11-15, 15:02:54](https://news.ycombinator.com/item?id=45937880) - [6B Miles Driven](https://www.tesla.com/fsd/safety)
+* [2025-11-15, 14:55:58](https://news.ycombinator.com/item?id=45937830) - [Ancient Roman Glass Reveals a Hidden \"Language\"](https://nautil.us/ancient-roman-glass-reveals-a-hidden-language-1247932/)
 * [2025-11-15, 14:53:09](https://news.ycombinator.com/item?id=45937816) - [How to Tolerate Annoying Things](https://psyche.co/guides/how-to-respond-to-annoying-things-with-greater-ease)
 * [2025-11-15, 14:31:39](https://news.ycombinator.com/item?id=45937719) - [Waymo Was on a Roll in San Francisco. Then One of Its Cars Killed a Cat](https://www.nytimes.com/2025/11/15/us/waymo-san-francisco-kit-kat.html)
 * [2025-11-15, 13:58:09](https://news.ycombinator.com/item?id=45937518) - [How to write type-safe generics in C](https://raphgl.github.io/blog/generics-in-c.html)
