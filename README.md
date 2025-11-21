@@ -2,7 +2,6 @@
 
 * [2025-11-21, 07:45:53](https://news.ycombinator.com/item?id=46002161) - [It's Hard to Build an Oscillator](https://lcamtuf.substack.com/p/its-hard-to-build-an-oscillator)
 * [2025-11-21, 06:50:14](https://news.ycombinator.com/item?id=46001889) - [Olmo 3: Charting a path through the model flow to lead open-source AI](https://allenai.org/blog/olmo3)
-* [2025-11-21, 06:37:07](https://news.ycombinator.com/item?id=46001823) - [Streaming platform Twitch added to Australia's teen social media ban](https://www.bbc.com/news/articles/cx2n2955g10o)
 * [2025-11-21, 01:50:24](https://news.ycombinator.com/item?id=46000303) - [Measuring Latency (2015)](https://bravenewgeek.com/everything-you-know-about-latency-is-wrong/)
 * [2025-11-20, 22:58:06](https://news.ycombinator.com/item?id=45999038) - [Over-regulation is doubling the cost](https://rein.pk/over-regulation-is-doubling-the-cost)
 * [2025-11-20, 21:33:37](https://news.ycombinator.com/item?id=45998047) - [GitHut – Programming Languages and GitHub (2014)](https://githut.info/)
@@ -25,6 +24,7 @@
 * [2025-11-17, 20:36:50](https://news.ycombinator.com/item?id=45958004) - [Ask HN: How are Markov chains so different from tiny LLMs?](https://news.ycombinator.com/item?id=45958004)
 * [2025-11-17, 20:13:54](https://news.ycombinator.com/item?id=45957743) - [Two recently found works of J.S. Bach presented in Leipzig [video]](https://www.youtube.com/watch?v=4hXzUGYIL9M#t=15m19s)
 * [2025-11-17, 15:06:32](https://news.ycombinator.com/item?id=45954228) - [Show HN: 32V TENS device from built from scratch under $100](https://littlemountainman.github.io/2025/11/17/tens/)
+* [2025-11-17, 11:15:27](https://news.ycombinator.com/item?id=45952621) - [Apple's iPhone Overhaul Will Reduce Its Reliance on Annual Fall Spectacle](https://www.bloomberg.com/news/newsletters/2025-11-16/apple-s-iphone-road-map-iphone-air-2-iphone-18-mac-pro-future-tesla-carplay-mi1q4l2o)
 * [2025-11-16, 09:39:45](https://news.ycombinator.com/item?id=45943846) - [Tube: A subway route planner in Dyalog APL (2011)](https://dfns.dyalog.com/tube_n_index.htm)
 * [2025-11-15, 13:06:38](https://news.ycombinator.com/item?id=45937183) - [WebAssembly from the Ground Up](https://wasmgroundup.com/)
 * [2025-11-13, 10:41:08](https://news.ycombinator.com/item?id=45913281) - [Hilbert space: Treating functions as vectors](https://eli.thegreenplace.net/2025/hilbert-space-treating-functions-as-vectors/)
