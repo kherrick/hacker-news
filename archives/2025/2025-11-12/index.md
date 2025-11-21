@@ -43,6 +43,7 @@
 * [2025-11-12, 15:58:54](https://news.ycombinator.com/item?id=45901751) - [The Duties of John von Neumann's Assistant in the 1930s (2020)](https://www.cantorsparadise.com/the-duties-of-john-von-neumanns-assistant-in-the-1930s-8d08e538fe2b)
 * [2025-11-12, 15:44:03](https://news.ycombinator.com/item?id=45901560) - [Insects on the Space Menu](https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Insects_on_the_space_menu)
 * [2025-11-12, 15:42:35](https://news.ycombinator.com/item?id=45901543) - [Anthropic invests $50B in US AI infrastructure](https://www.anthropic.com/news/anthropic-invests-50-billion-in-american-ai-infrastructure)
+* [2025-11-12, 15:40:11](https://news.ycombinator.com/item?id=45901499) - [Shop Sans is a typeface for curved text paths](https://www.futurefonts.com/hex/shop-sans)
 * [2025-11-12, 15:37:22](https://news.ycombinator.com/item?id=45901464) - [Two women had a business meeting. AI called it childcare](https://medium.com/hold-my-juice/two-women-had-a-business-meeting-ai-called-it-childcare-6b09f5952940)
 * [2025-11-12, 15:28:54](https://news.ycombinator.com/item?id=45901379) - [\"One Student One Chip\" Course Homepage](https://ysyx.oscc.cc/docs/en/)
 * [2025-11-12, 15:20:08](https://news.ycombinator.com/item?id=45901274) - [Testing out Crush, a TUI based coding agent](https://grahamhelton.com/blog/crushing-it)

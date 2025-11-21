@@ -37,6 +37,7 @@
 * [2025-11-20, 14:45:20](https://news.ycombinator.com/item?id=45993073) - [210 IQ Is Not Enough](https://taylor.town/iq-not-enough)
 * [2025-11-20, 14:20:49](https://news.ycombinator.com/item?id=45992829) - [Firefox 147 Will Support the XDG Base Directory Specification](https://www.phoronix.com/news/Firefox-147-XDG-Base-Directory)
 * [2025-11-20, 13:37:13](https://news.ycombinator.com/item?id=45992403) - [Judgement on Dr Matthew Garrett (@mjg59) vs. Dr Roy Schestowitz (Techrights.org)](https://caselaw.nationalarchives.gov.uk/ewhc/kb/2025/3063)
+* [2025-11-20, 13:26:08](https://news.ycombinator.com/item?id=45992316) - [Building a Durable Execution Engine with SQLite](https://www.morling.dev/blog/building-durable-execution-engine-with-sqlite/)
 * [2025-11-20, 13:24:48](https://news.ycombinator.com/item?id=45992304) - [Students fight back over course taught by AI](https://www.theguardian.com/education/2025/nov/20/university-of-staffordshire-course-taught-in-large-part-by-ai-artificial-intelligence)
 * [2025-11-20, 12:21:15](https://news.ycombinator.com/item?id=45991853) - [Red Alert 2 in web browser](https://chronodivide.com/)
 * [2025-11-20, 12:19:00](https://news.ycombinator.com/item?id=45991835) - [Tesla Robotaxi had 3 more crashes, now 7 total](https://electrek.co/2025/11/17/tesla-robotaxi-had-3-more-crashes-now-7-total/)
