@@ -42,6 +42,7 @@
 * [2025-11-17, 15:48:18](https://news.ycombinator.com/item?id=45954626) - [WBlock: A New Ad-Blocker for Safari](https://github.com/0xCUB3/wBlock)
 * [2025-11-17, 15:41:08](https://news.ycombinator.com/item?id=45954560) - [Google is killing the open web, part 2](https://wok.oblomov.eu/tecnologia/google-killing-open-web-2/)
 * [2025-11-17, 15:34:38](https://news.ycombinator.com/item?id=45954472) - [Show HN: Bsub.io – zero-setup batch execution for command-line tools](https://news.ycombinator.com/item?id=45954472)
+* [2025-11-17, 15:06:32](https://news.ycombinator.com/item?id=45954228) - [Show HN: 32V TENS device from built from scratch under $100](https://littlemountainman.github.io/2025/11/17/tens/)
 * [2025-11-17, 15:04:26](https://news.ycombinator.com/item?id=45954210) - [WeatherNext 2: Our most advanced weather forecasting model](https://blog.google/technology/google-deepmind/weathernext-2/)
 * [2025-11-17, 14:57:33](https://news.ycombinator.com/item?id=45954140) - [Aldous Huxley predicts Adderall and champions alternative therapies](https://angadh.com/inkhaven-7)
 * [2025-11-17, 14:40:54](https://news.ycombinator.com/item?id=45953977) - [Show HN: ESPectre – Motion detection based on Wi-Fi spectre analysis](https://github.com/francescopace/espectre)
