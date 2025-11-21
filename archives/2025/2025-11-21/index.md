@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-11-21](index.md)
 
+* [2025-11-21, 21:05:09](https://news.ycombinator.com/item?id=46008983) - [The senior population is booming. Caregiving is struggling to keep up](https://www.cnbc.com/2025/11/21/senior-caregiving-labor.html)
 * [2025-11-21, 20:46:36](https://news.ycombinator.com/item?id=46008788) - [We Remain Alive Also in a Dead Internet](https://slavoj.substack.com/p/why-we-remain-alive-also-in-a-dead-954)
 * [2025-11-21, 20:45:06](https://news.ycombinator.com/item?id=46008769) - [Pixar: The Early Days A never-before-seen 1996 interview](https://stevejobsarchive.com/stories/pixar-early-days)
 * [2025-11-21, 20:30:51](https://news.ycombinator.com/item?id=46008628) - [We remember the internet bubble. This mania looks and feels the same](https://crazystupidtech.com/2025/11/21/boom-bubble-bust-boom-why-should-ai-be-different/)

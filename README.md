@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-11-21, 21:05:09](https://news.ycombinator.com/item?id=46008983) - [The senior population is booming. Caregiving is struggling to keep up](https://www.cnbc.com/2025/11/21/senior-caregiving-labor.html)
 * [2025-11-21, 20:46:36](https://news.ycombinator.com/item?id=46008788) - [We Remain Alive Also in a Dead Internet](https://slavoj.substack.com/p/why-we-remain-alive-also-in-a-dead-954)
 * [2025-11-21, 20:45:06](https://news.ycombinator.com/item?id=46008769) - [Pixar: The Early Days A never-before-seen 1996 interview](https://stevejobsarchive.com/stories/pixar-early-days)
 * [2025-11-21, 20:30:51](https://news.ycombinator.com/item?id=46008628) - [We remember the internet bubble. This mania looks and feels the same](https://crazystupidtech.com/2025/11/21/boom-bubble-bust-boom-why-should-ai-be-different/)
@@ -25,7 +26,6 @@
 * [2025-11-20, 13:26:08](https://news.ycombinator.com/item?id=45992316) - [Building a Durable Execution Engine with SQLite](https://www.morling.dev/blog/building-durable-execution-engine-with-sqlite/)
 * [2025-11-17, 01:42:20](https://news.ycombinator.com/item?id=45950148) - [Solving the Whole Year Puzzle with Z3](https://jcrowell.net/posts/whole-year-sat)
 * [2025-11-15, 13:32:12](https://news.ycombinator.com/item?id=45937350) - [Scientists now know that bees can process time, a first in insects](https://www.cnn.com/2025/11/12/science/bees-visual-stimulus-study-scli-intl)
-* [2025-11-15, 13:06:38](https://news.ycombinator.com/item?id=45937183) - [WebAssembly from the Ground Up](https://wasmgroundup.com/)
 * [2025-11-15, 02:45:44](https://news.ycombinator.com/item?id=45934619) - [Samsung's 60% DRAM Price Hike Signals a New Phase of Global Memory Tightening](https://www.buysellram.com/blog/samsungs-memory-price-surge-sends-shockwaves-through-the-global-dram-market/)
 * [2025-11-12, 20:15:51](https://news.ycombinator.com/item?id=45905850) - [FEX-emu – Run x86 applications on ARM64 Linux devices](https://fex-emu.com/)
 * [2025-11-12, 15:40:11](https://news.ycombinator.com/item?id=45901499) - [Shop Sans is a typeface for curved text paths](https://www.futurefonts.com/hex/shop-sans)
