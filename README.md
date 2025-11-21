@@ -1,11 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-11-21, 01:50:24](https://news.ycombinator.com/item?id=46000303) - [Measuring Latency (2015)](https://bravenewgeek.com/everything-you-know-about-latency-is-wrong/)
-* [2025-11-21, 01:02:44](https://news.ycombinator.com/item?id=46000032) - [Al-Shabaab Hacks MN Welfare Process](https://www.thecentersquare.com/minnesota/article_4ec1e3b3-1503-451d-8e50-25d2607568e5.html)
 * [2025-11-21, 00:36:01](https://news.ycombinator.com/item?id=45999872) - [Why top firms fire good workers](https://www.rochester.edu/newscenter/employee-turnover-why-top-firms-churn-good-workers-681832/)
 * [2025-11-20, 22:58:06](https://news.ycombinator.com/item?id=45999038) - [Over-regulation is doubling the cost](https://rein.pk/over-regulation-is-doubling-the-cost)
 * [2025-11-20, 22:21:58](https://news.ycombinator.com/item?id=45998649) - [Autocomp: An ADRS Framework for Optimizing Tensor Accelerator Code](https://adrs-ucb.notion.site/autocomp)
-* [2025-11-20, 21:58:45](https://news.ycombinator.com/item?id=45998396) - [Virgin and Qantas to ban use of portable power banks after string of fires](https://www.abc.net.au/news/2025-11-21/airlines-virgin-australia-qantas-ban-power-banks/106033982)
 * [2025-11-20, 21:33:37](https://news.ycombinator.com/item?id=45998047) - [GitHut – Programming Languages and GitHub (2014)](https://githut.info/)
 * [2025-11-20, 21:21:08](https://news.ycombinator.com/item?id=45997914) - [New Glenn Update](https://www.blueorigin.com/news/new-glenn-upgraded-engines-subcooled-components-drive-enhanced-performance)
 * [2025-11-20, 20:24:42](https://news.ycombinator.com/item?id=45997212) - [New OS aims to provide (some) compatibility with macOS](https://github.com/ravynsoft/ravynos)
@@ -15,6 +13,7 @@
 * [2025-11-20, 18:19:31](https://news.ycombinator.com/item?id=45995816) - [The Lions Operating System](https://lionsos.org)
 * [2025-11-20, 18:13:39](https://news.ycombinator.com/item?id=45995740) - [Microsoft makes Zork open-source](https://opensource.microsoft.com/blog/2025/11/20/preserving-code-that-shaped-generations-zork-i-ii-and-iii-go-open-source)
 * [2025-11-20, 17:47:06](https://news.ycombinator.com/item?id=45995394) - [Launch HN: Poly (YC S22) – Cursor for Files](https://news.ycombinator.com/item?id=45995394)
+* [2025-11-20, 17:07:49](https://news.ycombinator.com/item?id=45994895) - [Go Cryptography State of the Union](https://words.filippo.io/2025-state/)
 * [2025-11-20, 17:04:34](https://news.ycombinator.com/item?id=45994854) - [Android and iPhone users can now share files, starting with the Pixel 10](https://blog.google/products/android/quick-share-airdrop/)
 * [2025-11-20, 15:53:17](https://news.ycombinator.com/item?id=45993943) - [The Banished Bottom of the Housing Market](https://www.ryanpuzycki.com/p/the-banished-bottom-of-the-housing)
 * [2025-11-20, 15:04:23](https://news.ycombinator.com/item?id=45993296) - [Nano Banana Pro](https://blog.google/technology/ai/nano-banana-pro/)
@@ -29,6 +28,7 @@
 * [2025-11-16, 02:00:38](https://news.ycombinator.com/item?id=45942109) - [Exploring the Fragmentation of Wayland, an xdotool adventure](https://www.semicomplete.com/blog/xdotool-and-exploring-wayland-fragmentation/)
 * [2025-11-15, 07:27:32](https://news.ycombinator.com/item?id=45935690) - [World Othello Championship Finals](https://flipthedisc.com/live/320)
 * [2025-11-13, 20:14:01](https://news.ycombinator.com/item?id=45919932) - [He built underground maze of light-filled earth homes in CA Sierras [video]](https://www.youtube.com/watch?v=U0bHhmpyKGg)
+* [2025-11-13, 10:41:08](https://news.ycombinator.com/item?id=45913281) - [Hilbert space: treating functions as vectors](https://eli.thegreenplace.net/2025/hilbert-space-treating-functions-as-vectors/)
 * [2025-11-12, 20:15:51](https://news.ycombinator.com/item?id=45905850) - [FEX-emu – Run x86 applications on ARM64 Linux devices](https://fex-emu.com/)
 
 ## [Archives](archives/index.md)

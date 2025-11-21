@@ -62,6 +62,7 @@
 * [2025-11-13, 11:58:43](https://news.ycombinator.com/item?id=45913870) - [Bluetooth Channel Sounding: The Next Leap in Bluetooth Innovation](https://www.embedded.com/bluetooth-channel-sounding-the-next-leap-in-bluetooth-innovation?_gl=1*8e3cij*_gcl_au*MzQwNzM2NDAxLjE3NjMwMzUwNzA.*_ga*NDc3NjU3MDk3LjE3NjMwMzUwNzA.*_ga_ZLV02RYCZ8*czE3NjMwMzUwNjkkbzEkZzAkdDE3NjMwMzUwNjkkajYwJGwwJGgw)
 * [2025-11-13, 11:31:23](https://news.ycombinator.com/item?id=45913663) - [Hack Club has been handling children's data for 4 years without a privacy policy](https://kys.llc/blog/my-hackclub-story)
 * [2025-11-13, 10:46:26](https://news.ycombinator.com/item?id=45913319) - [fuckborderradius.com](https://fuckborderradius.com)
+* [2025-11-13, 10:41:08](https://news.ycombinator.com/item?id=45913281) - [Hilbert space: treating functions as vectors](https://eli.thegreenplace.net/2025/hilbert-space-treating-functions-as-vectors/)
 * [2025-11-13, 09:36:51](https://news.ycombinator.com/item?id=45912785) - [Seed. LINE's Custom Typeface](https://seed.line.me/index_en.html)
 * [2025-11-13, 09:30:53](https://news.ycombinator.com/item?id=45912744) - [Telli (Voice AI – YC F24) is hiring ambitious engineers in [on-site, Berlin]](https://hi.telli.com/eng)
 * [2025-11-13, 09:24:53](https://news.ycombinator.com/item?id=45912704) - [IBM Delivers New Quantum Package](https://newsroom.ibm.com/2025-11-12-ibm-delivers-new-quantum-processors,-software,-and-algorithm-breakthroughs-on-path-to-advantage-and-fault-tolerance)
