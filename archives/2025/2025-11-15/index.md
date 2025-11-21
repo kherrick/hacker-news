@@ -33,6 +33,7 @@
 * [2025-11-15, 16:49:49](https://news.ycombinator.com/item?id=45938698) - [The Mighty Simplex (2023)](https://galileo-unbound.blog/2023/05/03/the-mighty-simplex/)
 * [2025-11-15, 16:27:49](https://news.ycombinator.com/item?id=45938517) - [Show HN: Continuous Claude – run Claude Code in a loop](https://github.com/AnandChowdhary/continuous-claude)
 * [2025-11-15, 16:16:42](https://news.ycombinator.com/item?id=45938427) - [Wealth](https://saul.pw/mag/wealth/)
+* [2025-11-15, 16:03:54](https://news.ycombinator.com/item?id=45938314) - [Color Spaces, Bitmaps and Pumpkins](https://pmig96.wordpress.com/2025/11/12/color-spaces-bitmaps-and-pumpkins/)
 * [2025-11-15, 15:25:08](https://news.ycombinator.com/item?id=45938027) - [Weighting an Average to Minimize Variance](https://www.johndcook.com/blog/2025/11/12/minimum-variance/)
 * [2025-11-15, 15:19:20](https://news.ycombinator.com/item?id=45937989) - [Linux on the Fujitsu Lifebook U729](https://borretti.me/article/linux-on-the-fujitsu-lifebook-u729)
 * [2025-11-15, 15:02:54](https://news.ycombinator.com/item?id=45937880) - [6B Miles Driven](https://www.tesla.com/fsd/safety)

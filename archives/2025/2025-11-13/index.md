@@ -35,6 +35,7 @@
 * [2025-11-13, 17:30:46](https://news.ycombinator.com/item?id=45917752) - [Even Realities Smart Glasses: G2](https://www.evenrealities.com/smart-glasses)
 * [2025-11-13, 17:22:10](https://news.ycombinator.com/item?id=45917618) - [Rand Paul: Congress bill destroys hemp farmer livelihoods](https://www.courier-journal.com/story/opinion/contributors/2025/11/13/rand-paul-congress-funding-bill-hemp-products-farmers/87247317007/)
 * [2025-11-13, 17:00:44](https://news.ycombinator.com/item?id=45917282) - [BAML is hiring compilers/rust engineers (YC W23)](https://github.com/BoundaryML/baml/tree/canary/jobs)
+* [2025-11-13, 16:53:43](https://news.ycombinator.com/item?id=45917182) - [Open Source and Local Code Mode MCP in Deno Sandboxes](https://portofcontext.com)
 * [2025-11-13, 16:20:47](https://news.ycombinator.com/item?id=45916762) - [The Monks in the Casino](https://www.derekthompson.org/p/the-monks-in-the-casino)
 * [2025-11-13, 16:03:04](https://news.ycombinator.com/item?id=45916525) - [Launch HN: Tweeks (YC W25) – Browser extension to de-enshittify the web](https://www.tweeks.io/onboarding)
 * [2025-11-13, 15:41:26](https://news.ycombinator.com/item?id=45916196) - [Zed Is Our Office](https://zed.dev/blog/zed-is-our-office)
