@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-11-21](index.md)
 
 * [2025-11-21, 20:46:36](https://news.ycombinator.com/item?id=46008788) - [We Remain Alive Also in a Dead Internet](https://slavoj.substack.com/p/why-we-remain-alive-also-in-a-dead-954)
+* [2025-11-21, 20:30:51](https://news.ycombinator.com/item?id=46008628) - [We remember the internet bubble. This mania looks and feels the same](https://crazystupidtech.com/2025/11/21/boom-bubble-bust-boom-why-should-ai-be-different/)
 * [2025-11-21, 19:19:17](https://news.ycombinator.com/item?id=46007866) - [Cloudflare Dashboard and Cloudflare API service issues](https://www.cloudflarestatus.com/incidents/9ts6gx8q69xl)
 * [2025-11-21, 18:30:52](https://news.ycombinator.com/item?id=46007294) - [Brazil charges 31 people in major carbon credit fraud investigation](https://news.mongabay.com/short-article/2025/11/brazil-charges-31-people-in-major-carbon-credit-fraud-investigation/)
 * [2025-11-21, 18:28:31](https://news.ycombinator.com/item?id=46007267) - [How/why to sweep async tasks under a Postgres table](https://taylor.town/pg-task)
