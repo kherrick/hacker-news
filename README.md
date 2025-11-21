@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-11-21, 18:30:52](https://news.ycombinator.com/item?id=46007294) - [Brazil charges 31 people in major carbon credit fraud investigation](https://news.mongabay.com/short-article/2025/11/brazil-charges-31-people-in-major-carbon-credit-fraud-investigation/)
 * [2025-11-21, 18:28:31](https://news.ycombinator.com/item?id=46007267) - [How/why to sweep async tasks under a Postgres table](https://taylor.town/pg-task)
 * [2025-11-21, 17:29:59](https://news.ycombinator.com/item?id=46006616) - [Helping Valve to Power Up Steam Devices](https://www.igalia.com/2025/11/helpingvalve.html)
 * [2025-11-21, 17:28:25](https://news.ycombinator.com/item?id=46006598) - [FizzBuzz with Cosines](https://susam.net/fizz-buzz-with-cosines.html)
@@ -11,7 +12,6 @@
 * [2025-11-21, 16:25:48](https://news.ycombinator.com/item?id=46005928) - [The New AI Consciousness Paper](https://www.astralcodexten.com/p/the-new-ai-consciousness-paper)
 * [2025-11-21, 15:44:16](https://news.ycombinator.com/item?id=46005553) - [Arduino published updated terms and conditions: no longer an open commons](https://www.molecularist.com/2025/11/did-qualcomm-kill-arduino-for-good.html)
 * [2025-11-21, 15:23:20](https://news.ycombinator.com/item?id=46005388) - [Make product worse, get money](https://dynomight.net/worse/)
-* [2025-11-21, 15:18:05](https://news.ycombinator.com/item?id=46005349) - [XBMC 4.0 for the Original Xbox](https://www.xbox-scene.info/articles/announcing-xbmc-40-for-the-original-xbox-r64/)
 * [2025-11-21, 14:50:36](https://news.ycombinator.com/item?id=46005111) - [We should all be using dependency cooldowns](https://blog.yossarian.net/2025/11/21/We-should-all-be-using-dependency-cooldowns)
 * [2025-11-21, 13:44:12](https://news.ycombinator.com/item?id=46004541) - [More tales about outages and numeric limits](https://rachelbythebay.com/w/2025/11/18/down/)
 * [2025-11-21, 13:23:16](https://news.ycombinator.com/item?id=46004293) - [Making a Small RPG](https://jslegenddev.substack.com/p/making-a-small-rpg)
