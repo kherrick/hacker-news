@@ -31,16 +31,6 @@
   ],
   [
     [
-      "2025-11-20, 22:21:58",
-      "https://news.ycombinator.com/item?id=45998649"
-    ],
-    [
-      "Autocomp: An ADRS Framework for Optimizing Tensor Accelerator Code",
-      "https://adrs-ucb.notion.site/autocomp"
-    ]
-  ],
-  [
-    [
       "2025-11-20, 21:33:37",
       "https://news.ycombinator.com/item?id=45998047"
     ],
@@ -127,6 +117,16 @@
     [
       "Launch HN: Poly (YC S22) – Cursor for Files",
       "https://news.ycombinator.com/item?id=45995394"
+    ]
+  ],
+  [
+    [
+      "2025-11-20, 17:07:49",
+      "https://news.ycombinator.com/item?id=45994895"
+    ],
+    [
+      "Go Cryptography State of the Union",
+      "https://words.filippo.io/2025-state/"
     ]
   ],
   [
@@ -285,7 +285,7 @@
       "https://news.ycombinator.com/item?id=45913281"
     ],
     [
-      "Hilbert space: treating functions as vectors",
+      "Hilbert space: Treating functions as vectors",
       "https://eli.thegreenplace.net/2025/hilbert-space-treating-functions-as-vectors/"
     ]
   ],
