@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-11-21, 01:50:24](https://news.ycombinator.com/item?id=46000303) - [Measuring Latency (2015)](https://bravenewgeek.com/everything-you-know-about-latency-is-wrong/)
+* [2025-11-21, 01:02:44](https://news.ycombinator.com/item?id=46000032) - [Al-Shabaab Hacks MN Welfare Process](https://www.thecentersquare.com/minnesota/article_4ec1e3b3-1503-451d-8e50-25d2607568e5.html)
 * [2025-11-21, 00:36:01](https://news.ycombinator.com/item?id=45999872) - [Why top firms fire good workers](https://www.rochester.edu/newscenter/employee-turnover-why-top-firms-churn-good-workers-681832/)
 * [2025-11-20, 22:58:06](https://news.ycombinator.com/item?id=45999038) - [Over-regulation is doubling the cost](https://rein.pk/over-regulation-is-doubling-the-cost)
 * [2025-11-20, 22:21:58](https://news.ycombinator.com/item?id=45998649) - [Autocomp: An ADRS Framework for Optimizing Tensor Accelerator Code](https://adrs-ucb.notion.site/autocomp)
@@ -8,7 +9,6 @@
 * [2025-11-20, 21:33:37](https://news.ycombinator.com/item?id=45998047) - [GitHut – Programming Languages and GitHub (2014)](https://githut.info/)
 * [2025-11-20, 21:21:08](https://news.ycombinator.com/item?id=45997914) - [New Glenn Update](https://www.blueorigin.com/news/new-glenn-upgraded-engines-subcooled-components-drive-enhanced-performance)
 * [2025-11-20, 20:24:42](https://news.ycombinator.com/item?id=45997212) - [New OS aims to provide (some) compatibility with macOS](https://github.com/ravynsoft/ravynos)
-* [2025-11-20, 20:15:56](https://news.ycombinator.com/item?id=45997099) - [OOP is shifting between domains, not disappearing](https://blog.jsbarretto.com/post/actors)
 * [2025-11-20, 19:52:55](https://news.ycombinator.com/item?id=45996860) - [CBP is monitoring US drivers and detaining those with suspicious travel patterns](https://apnews.com/article/immigration-border-patrol-surveillance-drivers-ice-trump-9f5d05469ce8c629d6fecf32d32098cd)
 * [2025-11-20, 19:26:12](https://news.ycombinator.com/item?id=45996585) - [Data-at-Rest Encryption in DuckDB](https://duckdb.org/2025/11/19/encryption-in-duckdb)
 * [2025-11-20, 18:20:59](https://news.ycombinator.com/item?id=45995834) - [NTSB Preliminary Report – UPS Boeing MD-11F Crash [pdf]](https://www.ntsb.gov/Documents/Prelimiary%20Report%20DCA26MA024.pdf)
