@@ -69,6 +69,7 @@
 * [2025-11-15, 02:58:56](https://news.ycombinator.com/item?id=45934683) - [Over-reliance on English hinders cognitive science](https://www.cell.com/trends/cognitive-sciences/fulltext/S1364-6613(22)00236-4)
 * [2025-11-15, 02:55:06](https://news.ycombinator.com/item?id=45934665) - [Vortex: An extensible, state of the art columnar file format](https://github.com/vortex-data/vortex)
 * [2025-11-15, 02:46:54](https://news.ycombinator.com/item?id=45934624) - [Show HN: UnisonDB – B+Tree DB with sub-second replication to 100+ nodes](https://github.com/ankur-anand/unisondb)
+* [2025-11-15, 02:45:44](https://news.ycombinator.com/item?id=45934619) - [Samsung's 60% DRAM Price Hike Signals a New Phase of Global Memory Tightening](https://www.buysellram.com/blog/samsungs-memory-price-surge-sends-shockwaves-through-the-global-dram-market/)
 * [2025-11-15, 02:17:31](https://news.ycombinator.com/item?id=45934481) - [A structural regular expression engine for Rust](https://www.sminez.dev/match-it-again-sam/)
 * [2025-11-15, 02:11:43](https://news.ycombinator.com/item?id=45934447) - [AI note-taking startup Fireflies was really two guys typing notes by hand](https://www.pcgamer.com/software/ai/usd1-billion-ai-company-co-founder-admits-that-its-usd100-a-month-transcription-service-was-originally-two-guys-surviving-on-pizza-and-typing-out-notes-by-hand/)
 * [2025-11-15, 02:06:16](https://news.ycombinator.com/item?id=45934416) - [AMD GPUs Go Brrr](https://hazyresearch.stanford.edu/blog/2025-11-09-amd-brr)
