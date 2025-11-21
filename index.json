@@ -1,16 +1,6 @@
 [
   [
     [
-      "2025-11-21, 19:19:17",
-      "https://news.ycombinator.com/item?id=46007866"
-    ],
-    [
-      "Cloudflare Dashboard and Cloudflare API service issues",
-      "https://www.cloudflarestatus.com/incidents/9ts6gx8q69xl"
-    ]
-  ],
-  [
-    [
       "2025-11-21, 18:30:52",
       "https://news.ycombinator.com/item?id=46007294"
     ],
@@ -161,16 +151,6 @@
   ],
   [
     [
-      "2025-11-21, 12:12:41",
-      "https://news.ycombinator.com/item?id=46003778"
-    ],
-    [
-      "How a French judge was digitally cut off by the USA",
-      "https://www.heise.de/en/news/How-a-French-judge-was-digitally-cut-off-by-the-USA-11087561.html"
-    ]
-  ],
-  [
-    [
       "2025-11-21, 10:28:49",
       "https://news.ycombinator.com/item?id=46003144"
     ],
@@ -251,6 +231,16 @@
   ],
   [
     [
+      "2025-11-17, 01:42:20",
+      "https://news.ycombinator.com/item?id=45950148"
+    ],
+    [
+      "Solving the Whole Year Puzzle with Z3",
+      "https://jcrowell.net/posts/whole-year-sat"
+    ]
+  ],
+  [
+    [
       "2025-11-15, 13:32:12",
       "https://news.ycombinator.com/item?id=45937350"
     ],
@@ -277,6 +267,16 @@
     [
       "The Anatomy of the Least Squares Method, Part Two",
       "https://thepalindrome.org/p/the-anatomy-of-the-least-squares-ab5"
+    ]
+  ],
+  [
+    [
+      "2025-11-12, 20:15:51",
+      "https://news.ycombinator.com/item?id=45905850"
+    ],
+    [
+      "FEX-emu – Run x86 applications on ARM64 Linux devices",
+      "https://fex-emu.com/"
     ]
   ],
   [
