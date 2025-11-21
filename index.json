@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-11-21, 18:28:31",
+      "https://news.ycombinator.com/item?id=46007267"
+    ],
+    [
+      "How/why to sweep async tasks under a Postgres table",
+      "https://taylor.town/pg-task"
+    ]
+  ],
+  [
+    [
+      "2025-11-21, 17:29:59",
+      "https://news.ycombinator.com/item?id=46006616"
+    ],
+    [
+      "Helping Valve to Power Up Steam Devices",
+      "https://www.igalia.com/2025/11/helpingvalve.html"
+    ]
+  ],
+  [
+    [
       "2025-11-21, 17:28:25",
       "https://news.ycombinator.com/item?id=46006598"
     ],
@@ -121,16 +141,6 @@
   ],
   [
     [
-      "2025-11-21, 13:30:36",
-      "https://news.ycombinator.com/item?id=46004386"
-    ],
-    [
-      "Building a Minimal Viable Armv7 Emulator from Scratch",
-      "https://xnacly.me/posts/2025/building-a-minimal-viable-armv7-emulator/"
-    ]
-  ],
-  [
-    [
       "2025-11-21, 13:23:16",
       "https://news.ycombinator.com/item?id=46004293"
     ],
@@ -201,16 +211,6 @@
   ],
   [
     [
-      "2025-11-20, 17:04:34",
-      "https://news.ycombinator.com/item?id=45994854"
-    ],
-    [
-      "Android and iPhone users can now share files, starting with the Pixel 10",
-      "https://blog.google/products/android/quick-share-airdrop/"
-    ]
-  ],
-  [
-    [
       "2025-11-20, 13:26:08",
       "https://news.ycombinator.com/item?id=45992316"
     ],
@@ -251,6 +251,16 @@
   ],
   [
     [
+      "2025-11-14, 04:10:22",
+      "https://news.ycombinator.com/item?id=45923755"
+    ],
+    [
+      "The Anatomy of the Least Squares Method, Part Two",
+      "https://thepalindrome.org/p/the-anatomy-of-the-least-squares-ab5"
+    ]
+  ],
+  [
+    [
       "2025-11-13, 16:53:43",
       "https://news.ycombinator.com/item?id=45917182"
     ],
@@ -287,16 +297,6 @@
     [
       "I converted a rotary phone into a meeting handset",
       "https://www.stavros.io/posts/i-converted-a-rotary-phone-into-a-meeting-handset/"
-    ]
-  ],
-  [
-    [
-      "2025-11-11, 23:59:23",
-      "https://news.ycombinator.com/item?id=45894585"
-    ],
-    [
-      "A Whale-Surfing Fish",
-      "https://apnews.com/article/sucker-fish-riding-whale-remoras-humpback-australia-69db9878c42b7d11e3755ecca4132588"
     ]
   ]
 ]
