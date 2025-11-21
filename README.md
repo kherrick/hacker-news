@@ -2,8 +2,9 @@
 
 * [2025-11-21, 14:52:36](https://news.ycombinator.com/item?id=46005130) - [Is C++26 getting destructive move semantics?](https://stackoverflow.com/questions/79817124/is-c26-getting-destructive-move-semantics)
 * [2025-11-21, 13:30:36](https://news.ycombinator.com/item?id=46004386) - [Building a Minimal Viable Armv7 Emulator from Scratch](https://xnacly.me/posts/2025/building-a-minimal-viable-armv7-emulator/)
-* [2025-11-21, 13:29:14](https://news.ycombinator.com/item?id=46004364) - [EXIF orientation info in PNGs isn't used for image-orientation](https://bugzilla.mozilla.org/show_bug.cgi?id=1627423)
+* [2025-11-21, 13:29:14](https://news.ycombinator.com/item?id=46004364) - [EXIF orientation info in PNGs isn't used for image-orientation: from-image](https://bugzilla.mozilla.org/show_bug.cgi?id=1627423)
 * [2025-11-21, 13:23:16](https://news.ycombinator.com/item?id=46004293) - [Making a Small RPG](https://jslegenddev.substack.com/p/making-a-small-rpg)
+* [2025-11-21, 12:12:41](https://news.ycombinator.com/item?id=46003778) - [How a French judge was digitally cut off by the USA](https://www.heise.de/en/news/How-a-French-judge-was-digitally-cut-off-by-the-USA-11087561.html)
 * [2025-11-21, 12:00:02](https://news.ycombinator.com/item?id=46003686) - [Roundtable (YC S23) Is Hiring Two Sales Development Representatives (SDRs)](https://www.ycombinator.com/companies/roundtable/jobs/irJTEsg-sales-development-representative)
 * [2025-11-21, 10:28:49](https://news.ycombinator.com/item?id=46003144) - [FAWK: LLMs can write a language interpreter](https://martin.janiczek.cz/2025/11/21/fawk-llms-can-write-a-language-interpreter.html)
 * [2025-11-21, 10:01:37](https://news.ycombinator.com/item?id=46002989) - [HP and Dell disable HEVC support built into their laptops' CPUs](https://arstechnica.com/gadgets/2025/11/hp-and-dell-disable-hevc-support-built-into-their-laptops-cpus/)
@@ -13,11 +14,11 @@
 * [2025-11-20, 22:58:06](https://news.ycombinator.com/item?id=45999038) - [Over-regulation is doubling the cost](https://rein.pk/over-regulation-is-doubling-the-cost)
 * [2025-11-20, 20:24:42](https://news.ycombinator.com/item?id=45997212) - [New OS aims to provide (some) compatibility with macOS](https://github.com/ravynsoft/ravynos)
 * [2025-11-20, 19:26:12](https://news.ycombinator.com/item?id=45996585) - [Data-at-Rest Encryption in DuckDB](https://duckdb.org/2025/11/19/encryption-in-duckdb)
+* [2025-11-20, 18:27:51](https://news.ycombinator.com/item?id=45995913) - [Show HN: Search London StreetView panoramas by text](https://london.publicinsights.uk)
 * [2025-11-20, 18:20:59](https://news.ycombinator.com/item?id=45995834) - [NTSB Preliminary Report – UPS Boeing MD-11F Crash [pdf]](https://www.ntsb.gov/Documents/Prelimiary%20Report%20DCA26MA024.pdf)
 * [2025-11-20, 18:19:31](https://news.ycombinator.com/item?id=45995816) - [The Lions Operating System](https://lionsos.org)
 * [2025-11-20, 17:04:34](https://news.ycombinator.com/item?id=45994854) - [Android and iPhone users can now share files, starting with the Pixel 10](https://blog.google/products/android/quick-share-airdrop/)
 * [2025-11-20, 15:04:23](https://news.ycombinator.com/item?id=45993296) - [Nano Banana Pro](https://blog.google/technology/ai/nano-banana-pro/)
-* [2025-11-20, 12:01:26](https://news.ycombinator.com/item?id=45991738) - [Adversarial poetry as a universal single-turn jailbreak mechanism in LLMs](https://arxiv.org/abs/2511.15304)
 * [2025-11-19, 07:13:00](https://news.ycombinator.com/item?id=45976693) - [Free interactive tool that shows you how PCIe lanes work on motherboards](https://mobomaps.com)
 * [2025-11-18, 10:17:20](https://news.ycombinator.com/item?id=45963350) - [Okta's NextJS-0auth troubles](https://joshua.hu/ai-slop-okta-nextjs-0auth-security-vulnerability)
 * [2025-11-17, 15:06:32](https://news.ycombinator.com/item?id=45954228) - [Show HN: 32V TENS device from built from scratch under $100](https://littlemountainman.github.io/2025/11/17/tens/)
@@ -29,7 +30,6 @@
 * [2025-11-13, 10:41:08](https://news.ycombinator.com/item?id=45913281) - [Hilbert space: Treating functions as vectors](https://eli.thegreenplace.net/2025/hilbert-space-treating-functions-as-vectors/)
 * [2025-11-12, 20:15:51](https://news.ycombinator.com/item?id=45905850) - [FEX-emu – Run x86 applications on ARM64 Linux devices](https://fex-emu.com/)
 * [2025-11-12, 09:37:41](https://news.ycombinator.com/item?id=45898185) - [I converted a rotary phone into a meeting handset](https://www.stavros.io/posts/i-converted-a-rotary-phone-into-a-meeting-handset/)
-* [2025-11-11, 18:19:56](https://news.ycombinator.com/item?id=45890876) - [Historical Reasons](https://exple.tive.org/blarg/2025/11/11/historical-reasons-2/)
 
 ## [Archives](archives/index.md)
 
