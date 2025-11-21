@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-11-21](index.md)
 
+* [2025-11-21, 18:28:31](https://news.ycombinator.com/item?id=46007267) - [How/why to sweep async tasks under a Postgres table](https://taylor.town/pg-task)
 * [2025-11-21, 17:52:37](https://news.ycombinator.com/item?id=46006848) - [McDonald's is losing its low-income customers: a symptom of the wealth divide](https://www.latimes.com/business/story/2025-11-16/mcdonalds-is-losing-its-low-income-customers)
+* [2025-11-21, 17:29:59](https://news.ycombinator.com/item?id=46006616) - [Helping Valve to Power Up Steam Devices](https://www.igalia.com/2025/11/helpingvalve.html)
 * [2025-11-21, 17:28:25](https://news.ycombinator.com/item?id=46006598) - [FizzBuzz with Cosines](https://susam.net/fizz-buzz-with-cosines.html)
 * [2025-11-21, 17:20:51](https://news.ycombinator.com/item?id=46006521) - [How Cops Are Using Flock's ALPR Network to Surveil Protesters and Activists](https://www.eff.org/deeplinks/2025/11/how-cops-are-using-flock-safetys-alpr-network-surveil-protesters-and-activists)
 * [2025-11-21, 17:00:00](https://news.ycombinator.com/item?id=46006250) - [Pivot Robotics (YC W24) Is Hiring for an Industrial Automation Hardware Engineer](https://www.ycombinator.com/companies/pivot-robotics/jobs/7xG9Dc6-mechanical-engineer-controls)

@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-11-21, 18:28:31](https://news.ycombinator.com/item?id=46007267) - [How/why to sweep async tasks under a Postgres table](https://taylor.town/pg-task)
+* [2025-11-21, 17:29:59](https://news.ycombinator.com/item?id=46006616) - [Helping Valve to Power Up Steam Devices](https://www.igalia.com/2025/11/helpingvalve.html)
 * [2025-11-21, 17:28:25](https://news.ycombinator.com/item?id=46006598) - [FizzBuzz with Cosines](https://susam.net/fizz-buzz-with-cosines.html)
 * [2025-11-21, 17:20:51](https://news.ycombinator.com/item?id=46006521) - [How Cops Are Using Flock's ALPR Network to Surveil Protesters and Activists](https://www.eff.org/deeplinks/2025/11/how-cops-are-using-flock-safetys-alpr-network-surveil-protesters-and-activists)
 * [2025-11-21, 17:00:00](https://news.ycombinator.com/item?id=46006250) - [Pivot Robotics (YC W24) Is Hiring for an Industrial Automation Hardware Engineer](https://www.ycombinator.com/companies/pivot-robotics/jobs/7xG9Dc6-mechanical-engineer-controls)
@@ -12,7 +14,6 @@
 * [2025-11-21, 15:18:05](https://news.ycombinator.com/item?id=46005349) - [XBMC 4.0 for the Original Xbox](https://www.xbox-scene.info/articles/announcing-xbmc-40-for-the-original-xbox-r64/)
 * [2025-11-21, 14:50:36](https://news.ycombinator.com/item?id=46005111) - [We should all be using dependency cooldowns](https://blog.yossarian.net/2025/11/21/We-should-all-be-using-dependency-cooldowns)
 * [2025-11-21, 13:44:12](https://news.ycombinator.com/item?id=46004541) - [More tales about outages and numeric limits](https://rachelbythebay.com/w/2025/11/18/down/)
-* [2025-11-21, 13:30:36](https://news.ycombinator.com/item?id=46004386) - [Building a Minimal Viable Armv7 Emulator from Scratch](https://xnacly.me/posts/2025/building-a-minimal-viable-armv7-emulator/)
 * [2025-11-21, 13:23:16](https://news.ycombinator.com/item?id=46004293) - [Making a Small RPG](https://jslegenddev.substack.com/p/making-a-small-rpg)
 * [2025-11-21, 12:12:41](https://news.ycombinator.com/item?id=46003778) - [How a French judge was digitally cut off by the USA](https://www.heise.de/en/news/How-a-French-judge-was-digitally-cut-off-by-the-USA-11087561.html)
 * [2025-11-21, 10:28:49](https://news.ycombinator.com/item?id=46003144) - [FAWK: LLMs can write a language interpreter](https://martin.janiczek.cz/2025/11/21/fawk-llms-can-write-a-language-interpreter.html)
@@ -20,16 +21,15 @@
 * [2025-11-21, 06:50:14](https://news.ycombinator.com/item?id=46001889) - [Olmo 3: Charting a path through the model flow to lead open-source AI](https://allenai.org/blog/olmo3)
 * [2025-11-21, 00:31:47](https://news.ycombinator.com/item?id=45999842) - [Homeschooling hits record numbers](https://reason.com/2025/11/19/homeschooling-hits-record-numbers/)
 * [2025-11-20, 18:27:51](https://news.ycombinator.com/item?id=45995913) - [Show HN: Search London StreetView panoramas by text](https://london.publicinsights.uk)
-* [2025-11-20, 17:04:34](https://news.ycombinator.com/item?id=45994854) - [Android and iPhone users can now share files, starting with the Pixel 10](https://blog.google/products/android/quick-share-airdrop/)
 * [2025-11-20, 13:26:08](https://news.ycombinator.com/item?id=45992316) - [Building a Durable Execution Engine with SQLite](https://www.morling.dev/blog/building-durable-execution-engine-with-sqlite/)
 * [2025-11-17, 11:22:54](https://news.ycombinator.com/item?id=45952654) - [My Favorite Math Problem](https://bytesauna.com/post/my-favorite-math-problem)
 * [2025-11-15, 13:32:12](https://news.ycombinator.com/item?id=45937350) - [Scientists now know that bees can process time, a first in insects](https://www.cnn.com/2025/11/12/science/bees-visual-stimulus-study-scli-intl)
 * [2025-11-15, 13:06:38](https://news.ycombinator.com/item?id=45937183) - [WebAssembly from the Ground Up](https://wasmgroundup.com/)
+* [2025-11-14, 04:10:22](https://news.ycombinator.com/item?id=45923755) - [The Anatomy of the Least Squares Method, Part Two](https://thepalindrome.org/p/the-anatomy-of-the-least-squares-ab5)
 * [2025-11-13, 16:53:43](https://news.ycombinator.com/item?id=45917182) - [Open Source and Local Code Mode MCP in Deno Sandboxes](https://portofcontext.com)
 * [2025-11-12, 20:15:51](https://news.ycombinator.com/item?id=45905850) - [FEX-emu – Run x86 applications on ARM64 Linux devices](https://fex-emu.com/)
 * [2025-11-12, 15:40:11](https://news.ycombinator.com/item?id=45901499) - [Shop Sans is a typeface for curved text paths](https://www.futurefonts.com/hex/shop-sans)
 * [2025-11-12, 09:37:41](https://news.ycombinator.com/item?id=45898185) - [I converted a rotary phone into a meeting handset](https://www.stavros.io/posts/i-converted-a-rotary-phone-into-a-meeting-handset/)
-* [2025-11-11, 23:59:23](https://news.ycombinator.com/item?id=45894585) - [A Whale-Surfing Fish](https://apnews.com/article/sucker-fish-riding-whale-remoras-humpback-australia-69db9878c42b7d11e3755ecca4132588)
 
 ## [Archives](archives/index.md)
 

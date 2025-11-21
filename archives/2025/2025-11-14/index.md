@@ -67,6 +67,7 @@
 * [2025-11-14, 06:39:13](https://news.ycombinator.com/item?id=45924483) - [Lawmakers want to ban VPNs and have no idea what they're doing](https://www.eff.org/deeplinks/2025/11/lawmakers-want-ban-vpns-and-they-have-no-idea-what-theyre-doing)
 * [2025-11-14, 06:25:51](https://news.ycombinator.com/item?id=45924417) - [Fastmcpp (Fastmcp for C++)](https://github.com/0xeb/fastmcpp)
 * [2025-11-14, 06:13:09](https://news.ycombinator.com/item?id=45924345) - [Hooked on Sonics: Experimenting with Sound in 19th-Century Popular Science](https://publicdomainreview.org/essay/science-of-sound/)
+* [2025-11-14, 04:10:22](https://news.ycombinator.com/item?id=45923755) - [The Anatomy of the Least Squares Method, Part Two](https://thepalindrome.org/p/the-anatomy-of-the-least-squares-ab5)
 * [2025-11-14, 03:12:38](https://news.ycombinator.com/item?id=45923433) - [Fannie Mae officials ousted after sounding alarm on sharing confidential data](https://apnews.com/article/fannie-mae-freddie-mac-firing-pulte-data-a4f8c53df74fef83ec7fd07e3d524746)
 * [2025-11-14, 03:08:09](https://news.ycombinator.com/item?id=45923406) - [Copyright Winter Is Coming (To Wikipedia?)](https://authorsalliance.substack.com/p/copyright-winter-is-coming-to-wikipedia)
 * [2025-11-14, 02:54:57](https://news.ycombinator.com/item?id=45923352) - [Why do voice transcription apps charge monthly when Whisper runs locally?](https://www.lucidvoice.app/)
