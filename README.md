@@ -23,13 +23,13 @@
 * [2025-11-20, 17:04:34](https://news.ycombinator.com/item?id=45994854) - [Android and iPhone users can now share files, starting with the Pixel 10](https://blog.google/products/android/quick-share-airdrop/)
 * [2025-11-20, 13:26:08](https://news.ycombinator.com/item?id=45992316) - [Building a Durable Execution Engine with SQLite](https://www.morling.dev/blog/building-durable-execution-engine-with-sqlite/)
 * [2025-11-17, 11:22:54](https://news.ycombinator.com/item?id=45952654) - [My Favorite Math Problem](https://bytesauna.com/post/my-favorite-math-problem)
-* [2025-11-15, 14:55:58](https://news.ycombinator.com/item?id=45937830) - [Ancient Roman Glass Reveals a Hidden \"Language\"](https://nautil.us/ancient-roman-glass-reveals-a-hidden-language-1247932/)
 * [2025-11-15, 13:32:12](https://news.ycombinator.com/item?id=45937350) - [Scientists now know that bees can process time, a first in insects](https://www.cnn.com/2025/11/12/science/bees-visual-stimulus-study-scli-intl)
 * [2025-11-15, 13:06:38](https://news.ycombinator.com/item?id=45937183) - [WebAssembly from the Ground Up](https://wasmgroundup.com/)
 * [2025-11-13, 16:53:43](https://news.ycombinator.com/item?id=45917182) - [Open Source and Local Code Mode MCP in Deno Sandboxes](https://portofcontext.com)
 * [2025-11-12, 20:15:51](https://news.ycombinator.com/item?id=45905850) - [FEX-emu – Run x86 applications on ARM64 Linux devices](https://fex-emu.com/)
 * [2025-11-12, 15:40:11](https://news.ycombinator.com/item?id=45901499) - [Shop Sans is a typeface for curved text paths](https://www.futurefonts.com/hex/shop-sans)
 * [2025-11-12, 09:37:41](https://news.ycombinator.com/item?id=45898185) - [I converted a rotary phone into a meeting handset](https://www.stavros.io/posts/i-converted-a-rotary-phone-into-a-meeting-handset/)
+* [2025-11-11, 23:59:23](https://news.ycombinator.com/item?id=45894585) - [A Whale-Surfing Fish](https://apnews.com/article/sucker-fish-riding-whale-remoras-humpback-australia-69db9878c42b7d11e3755ecca4132588)
 
 ## [Archives](archives/index.md)
 
