@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-11-21](index.md)
 
+* [2025-11-21, 16:52:48](https://news.ycombinator.com/item?id=46006183) - [Private Equity's New Venture: Youth Sports](https://jacobin.com/2025/11/youth-sports-hockey-private-equity)
 * [2025-11-21, 16:34:52](https://news.ycombinator.com/item?id=46006016) - [Show HN: Wealthfolio 2.0- Open source investment tracker. Now Mobile and Docker](https://wealthfolio.app/?v=2.0)
+* [2025-11-21, 16:25:48](https://news.ycombinator.com/item?id=46005928) - [The New AI Consciousness Paper – By Scott Alexander](https://www.astralcodexten.com/p/the-new-ai-consciousness-paper)
 * [2025-11-21, 15:18:05](https://news.ycombinator.com/item?id=46005349) - [XBMC 4.0 for the Original Xbox](https://www.xbox-scene.info/articles/announcing-xbmc-40-for-the-original-xbox-r64/)
 * [2025-11-21, 14:52:36](https://news.ycombinator.com/item?id=46005130) - [Is C++26 getting destructive move semantics?](https://stackoverflow.com/questions/79817124/is-c26-getting-destructive-move-semantics)
 * [2025-11-21, 14:50:36](https://news.ycombinator.com/item?id=46005111) - [We should all be using dependency cooldowns](https://blog.yossarian.net/2025/11/21/We-should-all-be-using-dependency-cooldowns)
