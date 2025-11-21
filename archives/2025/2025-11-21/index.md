@@ -4,10 +4,13 @@
 
 ### [Archives](../../index.md) for [2025-11-21](index.md)
 
+* [2025-11-21, 22:11:07](https://news.ycombinator.com/item?id=46009591) - [LAPD Helicopter Tracker with Real-Time Operating Costs](https://lapdhelicoptertracker.com/)
+* [2025-11-21, 21:29:28](https://news.ycombinator.com/item?id=46009209) - [The Untold History of Arduino](https://arduinohistory.github.io/)
 * [2025-11-21, 21:05:09](https://news.ycombinator.com/item?id=46008983) - [The senior population is booming. Caregiving is struggling to keep up](https://www.cnbc.com/2025/11/21/senior-caregiving-labor.html)
 * [2025-11-21, 20:46:36](https://news.ycombinator.com/item?id=46008788) - [We Remain Alive Also in a Dead Internet](https://slavoj.substack.com/p/why-we-remain-alive-also-in-a-dead-954)
 * [2025-11-21, 20:45:06](https://news.ycombinator.com/item?id=46008769) - [Pixar: The Early Days A never-before-seen 1996 interview](https://stevejobsarchive.com/stories/pixar-early-days)
 * [2025-11-21, 20:30:51](https://news.ycombinator.com/item?id=46008628) - [We remember the internet bubble. This mania looks and feels the same](https://crazystupidtech.com/2025/11/21/boom-bubble-bust-boom-why-should-ai-be-different/)
+* [2025-11-21, 19:46:34](https://news.ycombinator.com/item?id=46008156) - [Tuxedo Computers Cancels Snapdragon X1 Linux Laptop](https://www.tuxedocomputers.com/en/Discontinuation-of-ARM-notebooks-with-Snapdragon-X-Elite-SoC.tuxedo)
 * [2025-11-21, 19:19:17](https://news.ycombinator.com/item?id=46007866) - [Cloudflare Dashboard and Cloudflare API service issues](https://www.cloudflarestatus.com/incidents/9ts6gx8q69xl)
 * [2025-11-21, 18:30:52](https://news.ycombinator.com/item?id=46007294) - [Brazil charges 31 people in major carbon credit fraud investigation](https://news.mongabay.com/short-article/2025/11/brazil-charges-31-people-in-major-carbon-credit-fraud-investigation/)
 * [2025-11-21, 18:28:31](https://news.ycombinator.com/item?id=46007267) - [How/why to sweep async tasks under a Postgres table](https://taylor.town/pg-task)

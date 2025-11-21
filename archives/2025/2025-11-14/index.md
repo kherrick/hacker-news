@@ -37,6 +37,7 @@
 * [2025-11-14, 16:42:12](https://news.ycombinator.com/item?id=45928620) - [US Tech Market Treemap](https://caplocus.com/)
 * [2025-11-14, 16:31:26](https://news.ycombinator.com/item?id=45928492) - ['No One Lives Forever' Turns 25 and You Still Can't Buy It Legitimately](https://www.techdirt.com/2025/11/13/no-one-lives-forever-turns-25-you-still-cant-buy-it-legitimately/)
 * [2025-11-14, 16:17:26](https://news.ycombinator.com/item?id=45928321) - [The American Tradition of Trying to Address Anxiety with Parks](https://time.com/7288956/american-tradition-anxiety-parks/)
+* [2025-11-14, 15:11:13](https://news.ycombinator.com/item?id=45927520) - [Childhood Friends, Not Moms, Shape Attachment Styles Most](https://nautil.us/childhood-friends-not-moms-shape-attachment-styles-most-1247316/)
 * [2025-11-14, 15:04:22](https://news.ycombinator.com/item?id=45927435) - [Oracle hit hard in Wall Street's tech sell-off over its AI bet](https://www.ft.com/content/583e9391-bdd0-433e-91e0-b1b93038d51e)
 * [2025-11-14, 14:46:27](https://news.ycombinator.com/item?id=45927210) - [Linear Algebra Explains Why Some Words Are Effectively Untranslatable](https://aethermug.com/posts/linear-algebra-explains-why-some-words-are-effectively-untranslatable)
 * [2025-11-14, 14:32:49](https://news.ycombinator.com/item?id=45927042) - [What Comes After Science?](https://www.science.org/doi/10.1126/science.aec7650)
