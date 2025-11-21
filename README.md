@@ -2,6 +2,7 @@
 
 * [2025-11-21, 13:30:36](https://news.ycombinator.com/item?id=46004386) - [Building a Minimal Viable Armv7 Emulator from Scratch](https://xnacly.me/posts/2025/building-a-minimal-viable-armv7-emulator/)
 * [2025-11-21, 13:29:14](https://news.ycombinator.com/item?id=46004364) - [EXIF orientation info in PNGs isn't used for image-orientation](https://bugzilla.mozilla.org/show_bug.cgi?id=1627423)
+* [2025-11-21, 13:23:16](https://news.ycombinator.com/item?id=46004293) - [Making a Small RPG](https://jslegenddev.substack.com/p/making-a-small-rpg)
 * [2025-11-21, 12:00:02](https://news.ycombinator.com/item?id=46003686) - [Roundtable (YC S23) Is Hiring Two Sales Development Representatives (SDRs)](https://www.ycombinator.com/companies/roundtable/jobs/irJTEsg-sales-development-representative)
 * [2025-11-21, 10:28:49](https://news.ycombinator.com/item?id=46003144) - [FAWK: LLMs can write a language interpreter](https://martin.janiczek.cz/2025/11/21/fawk-llms-can-write-a-language-interpreter.html)
 * [2025-11-21, 10:01:37](https://news.ycombinator.com/item?id=46002989) - [HP and Dell disable HEVC support built into their laptops' CPUs](https://arstechnica.com/gadgets/2025/11/hp-and-dell-disable-hevc-support-built-into-their-laptops-cpus/)
@@ -19,9 +20,8 @@
 * [2025-11-19, 20:09:30](https://news.ycombinator.com/item?id=45984461) - [Show HN: F32 – An Extremely Small ESP32 Board](https://github.com/PegorK/f32)
 * [2025-11-19, 07:13:00](https://news.ycombinator.com/item?id=45976693) - [Free interactive tool that shows you how PCIe lanes work on motherboards](https://mobomaps.com)
 * [2025-11-18, 10:17:20](https://news.ycombinator.com/item?id=45963350) - [Okta's NextJS-0auth troubles](https://joshua.hu/ai-slop-okta-nextjs-0auth-security-vulnerability)
-* [2025-11-17, 22:15:44](https://news.ycombinator.com/item?id=45958988) - [Show HN: My hobby OS that runs Minecraft](https://astral-os.org/posts/2025/10/31/astral-minecraft.html)
-* [2025-11-17, 20:13:54](https://news.ycombinator.com/item?id=45957743) - [Two recently found works of J.S. Bach presented in Leipzig [video]](https://www.youtube.com/watch?v=4hXzUGYIL9M#t=15m19s)
 * [2025-11-17, 15:06:32](https://news.ycombinator.com/item?id=45954228) - [Show HN: 32V TENS device from built from scratch under $100](https://littlemountainman.github.io/2025/11/17/tens/)
+* [2025-11-17, 11:22:54](https://news.ycombinator.com/item?id=45952654) - [My Favorite Math Problem](https://bytesauna.com/post/my-favorite-math-problem)
 * [2025-11-15, 14:55:58](https://news.ycombinator.com/item?id=45937830) - [Ancient Roman Glass Reveals a Hidden \"Language\"](https://nautil.us/ancient-roman-glass-reveals-a-hidden-language-1247932/)
 * [2025-11-15, 13:32:12](https://news.ycombinator.com/item?id=45937350) - [Scientists now know that bees can process time, a first in insects](https://www.cnn.com/2025/11/12/science/bees-visual-stimulus-study-scli-intl)
 * [2025-11-15, 13:06:38](https://news.ycombinator.com/item?id=45937183) - [WebAssembly from the Ground Up](https://wasmgroundup.com/)

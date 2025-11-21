@@ -6,6 +6,7 @@
 
 * [2025-11-21, 13:30:36](https://news.ycombinator.com/item?id=46004386) - [Building a Minimal Viable Armv7 Emulator from Scratch](https://xnacly.me/posts/2025/building-a-minimal-viable-armv7-emulator/)
 * [2025-11-21, 13:29:14](https://news.ycombinator.com/item?id=46004364) - [EXIF orientation info in PNGs isn't used for image-orientation](https://bugzilla.mozilla.org/show_bug.cgi?id=1627423)
+* [2025-11-21, 13:23:16](https://news.ycombinator.com/item?id=46004293) - [Making a Small RPG](https://jslegenddev.substack.com/p/making-a-small-rpg)
 * [2025-11-21, 13:04:56](https://news.ycombinator.com/item?id=46004118) - [Jmail: Gmail Clone with Epstein's Emails](https://jmail.world)
 * [2025-11-21, 12:49:08](https://news.ycombinator.com/item?id=46003995) - [iHeartRadio web has exposed all its source code](https://github.com/Gh0styTongue/iHeart-Frontend-Source-Code)
 * [2025-11-21, 12:26:40](https://news.ycombinator.com/item?id=46003876) - [Brexit Hit to UK Economy Double Official Estimate, Study Finds](https://www.bloomberg.com/news/articles/2025-11-21/brexit-hit-to-uk-economy-double-official-estimate-study-finds)
