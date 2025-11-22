@@ -1,12 +1,32 @@
 [
   [
     [
-      "2025-11-21, 22:56:42",
-      "https://news.ycombinator.com/item?id=46010043"
+      "2025-11-21, 23:54:49",
+      "https://news.ycombinator.com/item?id=46010552"
     ],
     [
-      "Real-Time AI-Powered Texas Hold'em in Python and Flask – Play in the Browser",
-      "https://github.com/EMMA019/AI_pokergame"
+      "Explaining, at some length, Techmeme's 20 years of consistency",
+      "https://news.techmeme.com/250912/20-years"
+    ]
+  ],
+  [
+    [
+      "2025-11-21, 23:28:40",
+      "https://news.ycombinator.com/item?id=46010329"
+    ],
+    [
+      "I learned Vulkan and wrote a small game engine with it",
+      "https://edw.is/learning-vulkan/"
+    ]
+  ],
+  [
+    [
+      "2025-11-21, 23:10:17",
+      "https://news.ycombinator.com/item?id=46010173"
+    ],
+    [
+      "3D printing with unconventional vase mode",
+      "https://vorpal.se/posts/2025/jun/23/3d-printing-with-unconventional-vase-mode/"
     ]
   ],
   [
@@ -45,7 +65,7 @@
       "https://news.ycombinator.com/item?id=46009591"
     ],
     [
-      "LAPD Helicopter Tracker with Real-Time Operating Costs",
+      "LAPD helicopter tracker with real-time operating costs",
       "https://lapdhelicoptertracker.com/"
     ]
   ],
@@ -61,12 +81,12 @@
   ],
   [
     [
-      "2025-11-21, 21:05:09",
-      "https://news.ycombinator.com/item?id=46008983"
+      "2025-11-21, 20:46:36",
+      "https://news.ycombinator.com/item?id=46008788"
     ],
     [
-      "The senior population is booming. Caregiving is struggling to keep up",
-      "https://www.cnbc.com/2025/11/21/senior-caregiving-labor.html"
+      "We remain alive also in a dead internet",
+      "https://slavoj.substack.com/p/why-we-remain-alive-also-in-a-dead-954"
     ]
   ],
   [
@@ -77,6 +97,16 @@
     [
       "Pixar: The Early Days A never-before-seen 1996 interview",
       "https://stevejobsarchive.com/stories/pixar-early-days"
+    ]
+  ],
+  [
+    [
+      "2025-11-21, 20:30:51",
+      "https://news.ycombinator.com/item?id=46008628"
+    ],
+    [
+      "Boom, bubble, bust, boom. Why should AI be different?",
+      "https://crazystupidtech.com/2025/11/21/boom-bubble-bust-boom-why-should-ai-be-different/"
     ]
   ],
   [
@@ -171,16 +201,6 @@
   ],
   [
     [
-      "2025-11-21, 13:29:14",
-      "https://news.ycombinator.com/item?id=46004364"
-    ],
-    [
-      "EXIF orientation info in PNGs isn't used for image-orientation: from-image",
-      "https://bugzilla.mozilla.org/show_bug.cgi?id=1627423"
-    ]
-  ],
-  [
-    [
       "2025-11-21, 13:23:16",
       "https://news.ycombinator.com/item?id=46004293"
     ],
@@ -201,32 +221,12 @@
   ],
   [
     [
-      "2025-11-21, 07:45:53",
-      "https://news.ycombinator.com/item?id=46002161"
-    ],
-    [
-      "It's hard to build an oscillator",
-      "https://lcamtuf.substack.com/p/its-hard-to-build-an-oscillator"
-    ]
-  ],
-  [
-    [
       "2025-11-21, 06:50:14",
       "https://news.ycombinator.com/item?id=46001889"
     ],
     [
       "Olmo 3: Charting a path through the model flow to lead open-source AI",
       "https://allenai.org/blog/olmo3"
-    ]
-  ],
-  [
-    [
-      "2025-11-21, 00:31:47",
-      "https://news.ycombinator.com/item?id=45999842"
-    ],
-    [
-      "Homeschooling hits record numbers",
-      "https://reason.com/2025/11/19/homeschooling-hits-record-numbers/"
     ]
   ],
   [
@@ -261,21 +261,11 @@
   ],
   [
     [
-      "2025-11-15, 13:32:12",
-      "https://news.ycombinator.com/item?id=45937350"
-    ],
-    [
-      "Scientists now know that bees can process time, a first in insects",
-      "https://www.cnn.com/2025/11/12/science/bees-visual-stimulus-study-scli-intl"
-    ]
-  ],
-  [
-    [
       "2025-11-15, 02:45:44",
       "https://news.ycombinator.com/item?id=45934619"
     ],
     [
-      "Samsung's 60% DRAM Price Hike Signals a New Phase of Global Memory Tightening",
+      "Samsung's 60% DRAM price hike signals a new phase of global memory tightening",
       "https://www.buysellram.com/blog/samsungs-memory-price-surge-sends-shockwaves-through-the-global-dram-market/"
     ]
   ],
@@ -287,6 +277,16 @@
     [
       "Childhood Friends, Not Moms, Shape Attachment Styles Most",
       "https://nautil.us/childhood-friends-not-moms-shape-attachment-styles-most-1247316/"
+    ]
+  ],
+  [
+    [
+      "2025-11-13, 14:33:35",
+      "https://news.ycombinator.com/item?id=45915339"
+    ],
+    [
+      "RRules (yes handling RSCALE) using only PL/pgSQL",
+      "https://github.com/sirrodgepodge/rrule_plpgsql"
     ]
   ],
   [
