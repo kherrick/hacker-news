@@ -141,16 +141,6 @@
   ],
   [
     [
-      "2025-11-21, 17:00:00",
-      "https://news.ycombinator.com/item?id=46006250"
-    ],
-    [
-      "Pivot Robotics (YC W24) Is Hiring for an Industrial Automation Hardware Engineer",
-      "https://www.ycombinator.com/companies/pivot-robotics/jobs/7xG9Dc6-mechanical-engineer-controls"
-    ]
-  ],
-  [
-    [
       "2025-11-21, 16:42:19",
       "https://news.ycombinator.com/item?id=46006082"
     ],
@@ -201,16 +191,6 @@
   ],
   [
     [
-      "2025-11-21, 13:23:16",
-      "https://news.ycombinator.com/item?id=46004293"
-    ],
-    [
-      "Making a Small RPG",
-      "https://jslegenddev.substack.com/p/making-a-small-rpg"
-    ]
-  ],
-  [
-    [
       "2025-11-21, 00:31:47",
       "https://news.ycombinator.com/item?id=45999842"
     ],
@@ -257,6 +237,26 @@
     [
       "The Strange Afterlife of Hilma af Klint, Painting’s Posthumous Star",
       "https://www.newyorker.com/magazine/2025/11/24/the-strange-afterlife-of-hilma-af-klint-paintings-posthumous-star"
+    ]
+  ],
+  [
+    [
+      "2025-11-15, 23:42:55",
+      "https://news.ycombinator.com/item?id=45941493"
+    ],
+    [
+      "When functions dissolve (2020)",
+      "https://rubber-duck-typing.com/posts/2020-12-12-when-functions-dissolve.html"
+    ]
+  ],
+  [
+    [
+      "2025-11-15, 06:27:22",
+      "https://news.ycombinator.com/item?id=45935482"
+    ],
+    [
+      "Automating rootless Docker host updates with Ansible",
+      "https://du.nkel.dev/blog/2025-11-15_docker-rootless-ansible/"
     ]
   ],
   [
