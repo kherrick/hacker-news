@@ -36,6 +36,7 @@
 * [2025-11-15, 16:16:42](https://news.ycombinator.com/item?id=45938427) - [Wealth](https://saul.pw/mag/wealth/)
 * [2025-11-15, 16:03:54](https://news.ycombinator.com/item?id=45938314) - [Color Spaces, Bitmaps and Pumpkins](https://pmig96.wordpress.com/2025/11/12/color-spaces-bitmaps-and-pumpkins/)
 * [2025-11-15, 15:25:08](https://news.ycombinator.com/item?id=45938027) - [Weighting an Average to Minimize Variance](https://www.johndcook.com/blog/2025/11/12/minimum-variance/)
+* [2025-11-15, 15:21:52](https://news.ycombinator.com/item?id=45938005) - [Kodak Ran a Secret Nuclear Device in Its Basement for Decades](https://www.popularmechanics.com/science/energy/a69147321/kodak-film-nuclear-reactor/)
 * [2025-11-15, 15:19:20](https://news.ycombinator.com/item?id=45937989) - [Linux on the Fujitsu Lifebook U729](https://borretti.me/article/linux-on-the-fujitsu-lifebook-u729)
 * [2025-11-15, 15:02:54](https://news.ycombinator.com/item?id=45937880) - [6B Miles Driven](https://www.tesla.com/fsd/safety)
 * [2025-11-15, 14:55:58](https://news.ycombinator.com/item?id=45937830) - [Ancient Roman Glass Reveals a Hidden \"Language\"](https://nautil.us/ancient-roman-glass-reveals-a-hidden-language-1247932/)
