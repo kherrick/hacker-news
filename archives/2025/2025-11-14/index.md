@@ -48,6 +48,7 @@
 * [2025-11-14, 13:18:09](https://news.ycombinator.com/item?id=45926439) - [Nvidia is gearing up to sell servers instead of just GPUs and components](https://www.tomshardware.com/tech-industry/artificial-intelligence/jp-morgan-says-nvidia-is-gearing-up-to-sell-entire-ai-servers-instead-of-just-ai-gpus-and-componentry-jensens-master-plan-of-vertical-integration-will-boost-profits-purportedly-starting-with-vera-rubin)
 * [2025-11-14, 13:12:11](https://news.ycombinator.com/item?id=45926395) - [Don't turn your brain off](https://computingeducationthings.substack.com/p/22-dont-turn-your-brain-off)
 * [2025-11-14, 13:10:19](https://news.ycombinator.com/item?id=45926383) - [Backblaze Drive Stats for Q3 2025](https://www.backblaze.com/blog/backblaze-drive-stats-for-q3-2025/)
+* [2025-11-14, 13:08:27](https://news.ycombinator.com/item?id=45926371) - [Weight-sparse transformers have interpretable circuits [pdf]](https://cdn.openai.com/pdf/41df8f28-d4ef-43e9-aed2-823f9393e470/circuit-sparsity-paper.pdf)
 * [2025-11-14, 12:51:23](https://news.ycombinator.com/item?id=45926263) - [EDE: Small and Fast Desktop Environment](https://edeproject.org/)
 * [2025-11-14, 12:44:07](https://news.ycombinator.com/item?id=45926224) - [Winamp for OS/X](https://github.com/mgreenwood1001/winamp)
 * [2025-11-14, 12:31:15](https://news.ycombinator.com/item?id=45926141) - [What I Learned About Creativity from a Man Painting on a Treadmill](https://quinnmaclay.com/texts/lets-paint)
