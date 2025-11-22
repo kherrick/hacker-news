@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-11-22](index.md)
 
+* [2025-11-22, 11:31:30](https://news.ycombinator.com/item?id=46013960) - [ADHD and Monotropism (2023)](https://monotropism.org/adhd/)
 * [2025-11-22, 11:04:15](https://news.ycombinator.com/item?id=46013816) - [My private information is worth $30](https://blog.melashri.net/micro/privacy-price/)
 * [2025-11-22, 10:19:27](https://news.ycombinator.com/item?id=46013633) - [Jack Ma's family shifted wealth to UK after years-long 'disappearance'](https://www.source-material.org/jack-ma-bought-uk-home-after-years-long-disappearance/)
 * [2025-11-22, 10:08:31](https://news.ycombinator.com/item?id=46013579) - [Libpng 1.6.51: Four buffer overflow vulnerabilities fixed](https://www.openwall.com/lists/oss-security/2025/11/22/1)
