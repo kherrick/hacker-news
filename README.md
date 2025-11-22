@@ -22,7 +22,7 @@
 * [2025-11-18, 08:18:43](https://news.ycombinator.com/item?id=45962656) - [Event Sourcing in Go: From Zero to Production](https://skoredin.pro/blog/golang/event-sourcing-go)
 * [2025-11-17, 17:31:41](https://news.ycombinator.com/item?id=45955824) - [Self-hosting a NAT Gateway](https://www.awsistoohard.com/blog/self-hosting-nat-gateway)
 * [2025-11-17, 04:11:57](https://news.ycombinator.com/item?id=45950797) - [Concrete Shipbuilding – Argentina](https://thecretefleet.com/blog/f/concrete-shipbuilding-–-argentina)
-* [2025-11-15, 15:21:52](https://news.ycombinator.com/item?id=45938005) - [Kodak Ran a Secret Nuclear Device in Its Basement for Decades](https://www.popularmechanics.com/science/energy/a69147321/kodak-film-nuclear-reactor/)
+* [2025-11-15, 15:21:52](https://news.ycombinator.com/item?id=45938005) - [Kodak ran a secret nuclear device in its basement for decades](https://www.popularmechanics.com/science/energy/a69147321/kodak-film-nuclear-reactor/)
 * [2025-11-15, 11:49:24](https://news.ycombinator.com/item?id=45936776) - [The twin probes just launched toward Mars have an Easter egg on board](https://arstechnica.com/space/2025/11/the-twin-probes-just-launched-toward-mars-have-an-easter-egg-on-board/)
 * [2025-11-15, 02:45:44](https://news.ycombinator.com/item?id=45934619) - [Samsung's 60% DRAM price hike signals a new phase of global memory tightening](https://www.buysellram.com/blog/samsungs-memory-price-surge-sends-shockwaves-through-the-global-dram-market/)
 * [2025-11-14, 15:11:13](https://news.ycombinator.com/item?id=45927520) - [Childhood Friends, Not Moms, Shape Attachment Styles Most](https://nautil.us/childhood-friends-not-moms-shape-attachment-styles-most-1247316/)
