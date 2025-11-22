@@ -1,8 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-11-22, 11:31:30](https://news.ycombinator.com/item?id=46013960) - [ADHD and Monotropism (2023)](https://monotropism.org/adhd/)
+* [2025-11-22, 11:27:24](https://news.ycombinator.com/item?id=46013935) - [Agent Design Is Still Hard](https://lucumr.pocoo.org/2025/11/21/agents-are-hard/)
+* [2025-11-22, 11:21:27](https://news.ycombinator.com/item?id=46013900) - [Why DETRs are replacing YOLOs for real-time object detection](https://blog.datameister.ai/detection-transformers-real-time-object-detection)
 * [2025-11-22, 11:04:15](https://news.ycombinator.com/item?id=46013816) - [My private information is worth $30](https://blog.melashri.net/micro/privacy-price/)
-* [2025-11-22, 10:19:27](https://news.ycombinator.com/item?id=46013633) - [Jack Ma's family shifted wealth to UK after years-long 'disappearance'](https://www.source-material.org/jack-ma-bought-uk-home-after-years-long-disappearance/)
 * [2025-11-22, 10:08:31](https://news.ycombinator.com/item?id=46013579) - [Libpng 1.6.51: Four buffer overflow vulnerabilities fixed](https://www.openwall.com/lists/oss-security/2025/11/22/1)
 * [2025-11-22, 05:21:53](https://news.ycombinator.com/item?id=46012328) - [Superman copy found in mum's attic is most valuable comic ever at $9.12M](https://www.bbc.com/news/articles/c8e9rp0knj6o)
 * [2025-11-22, 03:57:29](https://news.ycombinator.com/item?id=46011978) - [Moss Survives 9 Months in Space Vacuum](https://scienceclock.com/moss-survives-9-months-in-space-vacuum/)
@@ -13,7 +14,6 @@
 * [2025-11-21, 20:45:06](https://news.ycombinator.com/item?id=46008769) - [Pixar: The Early Days A never-before-seen 1996 interview](https://stevejobsarchive.com/stories/pixar-early-days)
 * [2025-11-21, 19:46:34](https://news.ycombinator.com/item?id=46008156) - [Discontinuation of ARM Notebook with Snapdragon X Elite SoC](https://www.tuxedocomputers.com/en/Discontinuation-of-ARM-notebooks-with-Snapdragon-X-Elite-SoC.tuxedo)
 * [2025-11-21, 17:29:59](https://news.ycombinator.com/item?id=46006616) - [Helping Valve to power up Steam devices](https://www.igalia.com/2025/11/helpingvalve.html)
-* [2025-11-21, 17:28:25](https://news.ycombinator.com/item?id=46006598) - [Solving Fizz Buzz with Cosines](https://susam.net/fizz-buzz-with-cosines.html)
 * [2025-11-21, 16:42:19](https://news.ycombinator.com/item?id=46006082) - [You can make PS2 games in JavaScript](https://jslegenddev.substack.com/p/you-can-now-make-ps2-games-in-javascript)
 * [2025-11-21, 16:34:52](https://news.ycombinator.com/item?id=46006016) - [Show HN: Wealthfolio 2.0- Open source investment tracker. Now Mobile and Docker](https://wealthfolio.app/?v=2.0)
 * [2025-11-21, 15:23:20](https://news.ycombinator.com/item?id=46005388) - [Make product worse, get money](https://dynomight.net/worse/)
