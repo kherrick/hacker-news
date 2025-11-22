@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-11-22, 06:13:05](https://news.ycombinator.com/item?id=46012538) - [Building a deep-space logistics startup](https://ionmicrosys.com/)
 * [2025-11-22, 05:21:53](https://news.ycombinator.com/item?id=46012328) - [Superman copy found in mum's attic is most valuable comic ever at $9.12M](https://www.bbc.com/news/articles/c8e9rp0knj6o)
 * [2025-11-22, 03:57:29](https://news.ycombinator.com/item?id=46011978) - [Moss Survives 9 Months in Space Vacuum](https://scienceclock.com/moss-survives-9-months-in-space-vacuum/)
 * [2025-11-22, 01:54:45](https://news.ycombinator.com/item?id=46011351) - [Infinibay LXD Container](https://github.com/Infinibay/lxd)
@@ -25,6 +24,7 @@
 * [2025-11-20, 13:26:08](https://news.ycombinator.com/item?id=45992316) - [Building a Durable Execution Engine with SQLite](https://www.morling.dev/blog/building-durable-execution-engine-with-sqlite/)
 * [2025-11-18, 17:35:31](https://news.ycombinator.com/item?id=45969398) - [The Connectivity Standards Alliance Announces Zigbee 4.0 and Suzi](https://csa-iot.org/newsroom/the-connectivity-standards-alliance-announces-zigbee-4-0-and-suzi-empowering-the-next-generation-of-secure-interoperable-iot-devices/)
 * [2025-11-17, 17:31:41](https://news.ycombinator.com/item?id=45955824) - [Self-hosting a NAT Gateway](https://www.awsistoohard.com/blog/self-hosting-nat-gateway)
+* [2025-11-17, 04:11:57](https://news.ycombinator.com/item?id=45950797) - [Concrete Shipbuilding – Argentina](https://thecretefleet.com/blog/f/concrete-shipbuilding-–-argentina)
 * [2025-11-15, 15:21:52](https://news.ycombinator.com/item?id=45938005) - [Kodak Ran a Secret Nuclear Device in Its Basement for Decades](https://www.popularmechanics.com/science/energy/a69147321/kodak-film-nuclear-reactor/)
 * [2025-11-15, 06:27:22](https://news.ycombinator.com/item?id=45935482) - [Automating rootless Docker host updates with Ansible](https://du.nkel.dev/blog/2025-11-15_docker-rootless-ansible/)
 * [2025-11-15, 02:45:44](https://news.ycombinator.com/item?id=45934619) - [Samsung's 60% DRAM price hike signals a new phase of global memory tightening](https://www.buysellram.com/blog/samsungs-memory-price-surge-sends-shockwaves-through-the-global-dram-market/)
