@@ -13,6 +13,7 @@
 * [2025-11-21, 22:17:11](https://news.ycombinator.com/item?id=46009660) - [Is Matrix Multiplication Ugly?](https://mathenchant.wordpress.com/2025/11/21/is-matrix-multiplication-ugly/)
 * [2025-11-21, 22:11:07](https://news.ycombinator.com/item?id=46009591) - [LAPD Helicopter Tracker with Real-Time Operating Costs](https://lapdhelicoptertracker.com/)
 * [2025-11-21, 21:29:28](https://news.ycombinator.com/item?id=46009209) - [The Untold History of Arduino](https://arduinohistory.github.io/)
+* [2025-11-21, 21:13:11](https://news.ycombinator.com/item?id=46009056) - [Arduino Terms of Service and Privacy Policy update: setting the record straight](https://blog.arduino.cc/2025/11/21/the-arduino-terms-of-service-and-privacy-policy-update-setting-the-record-straight/)
 * [2025-11-21, 21:05:09](https://news.ycombinator.com/item?id=46008983) - [The senior population is booming. Caregiving is struggling to keep up](https://www.cnbc.com/2025/11/21/senior-caregiving-labor.html)
 * [2025-11-21, 20:46:36](https://news.ycombinator.com/item?id=46008788) - [We Remain Alive Also in a Dead Internet](https://slavoj.substack.com/p/why-we-remain-alive-also-in-a-dead-954)
 * [2025-11-21, 20:45:06](https://news.ycombinator.com/item?id=46008769) - [Pixar: The Early Days A never-before-seen 1996 interview](https://stevejobsarchive.com/stories/pixar-early-days)
