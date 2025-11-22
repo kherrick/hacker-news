@@ -4,7 +4,7 @@
 * [2025-11-22, 20:54:35](https://news.ycombinator.com/item?id=46018165) - [Show HN: Build the habit of writing meaningful commit messages](https://github.com/arpxspace/smartcommit)
 * [2025-11-22, 20:24:17](https://news.ycombinator.com/item?id=46017934) - [The Go-Between](https://theamericanscholar.org/the-go-between/)
 * [2025-11-22, 20:21:56](https://news.ycombinator.com/item?id=46017910) - [The Mozilla Cycle, Part III: Mozilla Dies in Ignominy](https://taggart-tech.com/mozilla-cycle-pt3/)
-* [2025-11-22, 20:11:47](https://news.ycombinator.com/item?id=46017833) - [The Censorship Network: Regulation and Repression in Germany Today](https://liber-net.org/germany/)
+* [2025-11-22, 20:03:14](https://news.ycombinator.com/item?id=46017782) - [Markdown Is Holding You Back](https://newsletter.bphogan.com/archive/issue-45-markdown-is-holding-you-back/)
 * [2025-11-22, 18:47:08](https://news.ycombinator.com/item?id=46017175) - [Show HN: Forty.News – Daily news, but on a 40-year delay](https://forty.news)
 * [2025-11-22, 18:05:47](https://news.ycombinator.com/item?id=46016799) - [Depot (YC W23) Is Hiring a Staff Infrastructure Engineer](https://www.ycombinator.com/companies/depot/jobs/O2iB56E-staff-infrastructure-engineer)
 * [2025-11-22, 17:49:27](https://news.ycombinator.com/item?id=46016639) - [China reaches energy milestone by \"breeding\" uranium from thorium](https://www.scmp.com/news/china/science/article/3331312/china-reaches-energy-independence-milestone-breeding-uranium-thorium)
