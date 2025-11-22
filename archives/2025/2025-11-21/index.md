@@ -19,6 +19,7 @@
 * [2025-11-21, 20:46:36](https://news.ycombinator.com/item?id=46008788) - [We Remain Alive Also in a Dead Internet](https://slavoj.substack.com/p/why-we-remain-alive-also-in-a-dead-954)
 * [2025-11-21, 20:45:06](https://news.ycombinator.com/item?id=46008769) - [Pixar: The Early Days A never-before-seen 1996 interview](https://stevejobsarchive.com/stories/pixar-early-days)
 * [2025-11-21, 20:30:51](https://news.ycombinator.com/item?id=46008628) - [We remember the internet bubble. This mania looks and feels the same](https://crazystupidtech.com/2025/11/21/boom-bubble-bust-boom-why-should-ai-be-different/)
+* [2025-11-21, 20:02:45](https://news.ycombinator.com/item?id=46008332) - [We Induced Smells With Ultrasound](https://writetobrain.com/olfactory)
 * [2025-11-21, 19:46:34](https://news.ycombinator.com/item?id=46008156) - [Tuxedo Computers Cancels Snapdragon X1 Linux Laptop](https://www.tuxedocomputers.com/en/Discontinuation-of-ARM-notebooks-with-Snapdragon-X-Elite-SoC.tuxedo)
 * [2025-11-21, 19:19:17](https://news.ycombinator.com/item?id=46007866) - [Cloudflare Dashboard and Cloudflare API service issues](https://www.cloudflarestatus.com/incidents/9ts6gx8q69xl)
 * [2025-11-21, 18:30:52](https://news.ycombinator.com/item?id=46007294) - [Brazil charges 31 people in major carbon credit fraud investigation](https://news.mongabay.com/short-article/2025/11/brazil-charges-31-people-in-major-carbon-credit-fraud-investigation/)
