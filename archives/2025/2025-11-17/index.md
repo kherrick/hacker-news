@@ -55,6 +55,7 @@
 * [2025-11-17, 13:01:49](https://news.ycombinator.com/item?id=45953202) - [GCC 16 considering changing default to C++20](https://inbox.sourceware.org/gcc/aQj1tKzhftT9GUF4@redhat.com/)
 * [2025-11-17, 12:38:07](https://news.ycombinator.com/item?id=45953051) - [Mysterious drones have been spotted at airports across Europe](https://www.bbc.co.uk/news/articles/crkl3d6pegpo)
 * [2025-11-17, 12:26:45](https://news.ycombinator.com/item?id=45953001) - [Chuck Moore: Colorforth has stopped working [video]](https://www.youtube.com/watch?v=MvkGBWXb2oQ#t=22)
+* [2025-11-17, 12:12:37](https://news.ycombinator.com/item?id=45952925) - [The Afterlife of Hilma Af Klint, Painting's Posthumous Star](https://www.newyorker.com/magazine/2025/11/24/the-strange-afterlife-of-hilma-af-klint-paintings-posthumous-star)
 * [2025-11-17, 12:06:37](https://news.ycombinator.com/item?id=45952890) - [Are you stuck in movie logic?](https://usefulfictions.substack.com/p/are-you-stuck-in-movie-logic)
 * [2025-11-17, 11:53:00](https://news.ycombinator.com/item?id=45952824) - [Ned: ImGui Text Editor with GL Shaders](https://github.com/nealmick/ned)
 * [2025-11-17, 11:47:54](https://news.ycombinator.com/item?id=45952795) - [Republican push to make U.S. census surveys voluntary alarms statisticians](https://www.science.org/content/article/republican-push-make-u-s-census-surveys-voluntary-alarms-statisticians)
