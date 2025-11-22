@@ -1,9 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-11-22, 02:28:28](https://news.ycombinator.com/item?id=46011521) - [The death of tech idealism and rise of the homeless in Northern California](https://lithub.com/on-the-death-of-tech-idealism-and-rise-of-the-homeless-in-northern-california/)
+* [2025-11-22, 03:57:29](https://news.ycombinator.com/item?id=46011978) - [Moss Survives 9 Months in Space Vacuum](https://scienceclock.com/moss-survives-9-months-in-space-vacuum/)
 * [2025-11-22, 01:54:45](https://news.ycombinator.com/item?id=46011351) - [Infinibay LXD Container](https://github.com/Infinibay/lxd)
 * [2025-11-22, 00:30:26](https://news.ycombinator.com/item?id=46010806) - [Sharper MRI scans may be on horizon thanks to new physics-based model](https://news.rice.edu/news/2025/sharper-mri-scans-may-be-horizon-thanks-new-physics-based-model)
 * [2025-11-21, 23:28:40](https://news.ycombinator.com/item?id=46010329) - [How I learned Vulkan and wrote a small game engine with it (2024)](https://edw.is/learning-vulkan/)
+* [2025-11-21, 23:16:25](https://news.ycombinator.com/item?id=46010230) - [Apple's Problem with Bodies](https://drobinin.com/posts/apples-problem-with-bodies/)
 * [2025-11-21, 23:10:17](https://news.ycombinator.com/item?id=46010173) - [3D printing with unconventional vase mode](https://vorpal.se/posts/2025/jun/23/3d-printing-with-unconventional-vase-mode/)
 * [2025-11-21, 22:40:28](https://news.ycombinator.com/item?id=46009894) - [Personal blogs are back, should niche blogs be next?](https://disassociated.com/personal-blogs-back-niche-blogs-next/)
 * [2025-11-21, 22:17:11](https://news.ycombinator.com/item?id=46009660) - [Is Matrix Multiplication Ugly?](https://mathenchant.wordpress.com/2025/11/21/is-matrix-multiplication-ugly/)
@@ -18,8 +19,6 @@
 * [2025-11-21, 16:34:52](https://news.ycombinator.com/item?id=46006016) - [Show HN: Wealthfolio 2.0- Open source investment tracker. Now Mobile and Docker](https://wealthfolio.app/?v=2.0)
 * [2025-11-21, 15:23:20](https://news.ycombinator.com/item?id=46005388) - [Make product worse, get money](https://dynomight.net/worse/)
 * [2025-11-21, 14:50:36](https://news.ycombinator.com/item?id=46005111) - [We should all be using dependency cooldowns](https://blog.yossarian.net/2025/11/21/We-should-all-be-using-dependency-cooldowns)
-* [2025-11-21, 10:28:49](https://news.ycombinator.com/item?id=46003144) - [FAWK: LLMs can write a language interpreter](https://martin.janiczek.cz/2025/11/21/fawk-llms-can-write-a-language-interpreter.html)
-* [2025-11-21, 06:50:14](https://news.ycombinator.com/item?id=46001889) - [Olmo 3: Charting a path through the model flow to lead open-source AI](https://allenai.org/blog/olmo3)
 * [2025-11-21, 00:31:47](https://news.ycombinator.com/item?id=45999842) - [Homeschooling hits record numbers](https://reason.com/2025/11/19/homeschooling-hits-record-numbers/)
 * [2025-11-21, 00:02:18](https://news.ycombinator.com/item?id=45999622) - [Prozac 'no better than placebo' for treating children with depression, experts](https://www.theguardian.com/society/2025/nov/20/prozac-no-better-than-placebo-for-treating-children-with-depression-experts-say)
 * [2025-11-20, 13:26:08](https://news.ycombinator.com/item?id=45992316) - [Building a Durable Execution Engine with SQLite](https://www.morling.dev/blog/building-durable-execution-engine-with-sqlite/)
@@ -28,6 +27,7 @@
 * [2025-11-15, 23:42:55](https://news.ycombinator.com/item?id=45941493) - [When functions dissolve (2020)](https://rubber-duck-typing.com/posts/2020-12-12-when-functions-dissolve.html)
 * [2025-11-15, 02:45:44](https://news.ycombinator.com/item?id=45934619) - [Samsung's 60% DRAM price hike signals a new phase of global memory tightening](https://www.buysellram.com/blog/samsungs-memory-price-surge-sends-shockwaves-through-the-global-dram-market/)
 * [2025-11-14, 15:11:13](https://news.ycombinator.com/item?id=45927520) - [Childhood Friends, Not Moms, Shape Attachment Styles Most](https://nautil.us/childhood-friends-not-moms-shape-attachment-styles-most-1247316/)
+* [2025-11-14, 13:37:23](https://news.ycombinator.com/item?id=45926581) - [Mexico's Female Rodeo Culture](https://www.cnn.com/2025/11/13/style/escaramuza-cowgirl-fashion-photography)
 * [2025-11-13, 14:33:35](https://news.ycombinator.com/item?id=45915339) - [RRules (yes handling RSCALE) using only PL/pgSQL](https://github.com/sirrodgepodge/rrule_plpgsql)
 * [2025-11-12, 15:40:11](https://news.ycombinator.com/item?id=45901499) - [Shop Sans is a typeface for curved text paths](https://www.futurefonts.com/hex/shop-sans)
 

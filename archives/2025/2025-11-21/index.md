@@ -6,6 +6,7 @@
 
 * [2025-11-21, 23:54:49](https://news.ycombinator.com/item?id=46010552) - [Explaining, at some length, Techmeme's 20 years of consistency](https://news.techmeme.com/250912/20-years)
 * [2025-11-21, 23:28:40](https://news.ycombinator.com/item?id=46010329) - [I learned Vulkan and wrote a small game engine with it](https://edw.is/learning-vulkan/)
+* [2025-11-21, 23:16:25](https://news.ycombinator.com/item?id=46010230) - [Apple's Problem with Bodies](https://drobinin.com/posts/apples-problem-with-bodies/)
 * [2025-11-21, 23:10:17](https://news.ycombinator.com/item?id=46010173) - [3D printing with unconventional vase mode](https://vorpal.se/posts/2025/jun/23/3d-printing-with-unconventional-vase-mode/)
 * [2025-11-21, 22:56:42](https://news.ycombinator.com/item?id=46010043) - [Real-Time AI-Powered Texas Hold'em in Python and Flask – Play in the Browser](https://github.com/EMMA019/AI_pokergame)
 * [2025-11-21, 22:52:13](https://news.ycombinator.com/item?id=46009994) - [California DMV approves map increase in Waymo driverless operations](https://www.dmv.ca.gov/portal/vehicle-industry-services/autonomous-vehicles/autonomous-vehicle-testing-permit-holders/waymo-approved-areas-of-operation-for-driverless-testing-and-deployment/)
