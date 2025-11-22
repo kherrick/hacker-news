@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-11-22, 05:21:53](https://news.ycombinator.com/item?id=46012328) - [Superman copy found in mum's attic is most valuable comic ever at $9.12M](https://www.bbc.com/news/articles/c8e9rp0knj6o)
-* [2025-11-22, 04:12:48](https://news.ycombinator.com/item?id=46012052) - [Openring-rs: a webring for static site generators written in Rust](https://github.com/lukehsiao/openring-rs)
 * [2025-11-22, 03:57:29](https://news.ycombinator.com/item?id=46011978) - [Moss Survives 9 Months in Space Vacuum](https://scienceclock.com/moss-survives-9-months-in-space-vacuum/)
 * [2025-11-22, 01:54:45](https://news.ycombinator.com/item?id=46011351) - [Infinibay LXD Container](https://github.com/Infinibay/lxd)
 * [2025-11-22, 00:30:26](https://news.ycombinator.com/item?id=46010806) - [Sharper MRI scans may be on horizon thanks to new physics-based model](https://news.rice.edu/news/2025/sharper-mri-scans-may-be-horizon-thanks-new-physics-based-model)
@@ -20,6 +19,7 @@
 * [2025-11-21, 15:23:20](https://news.ycombinator.com/item?id=46005388) - [Make product worse, get money](https://dynomight.net/worse/)
 * [2025-11-21, 15:18:05](https://news.ycombinator.com/item?id=46005349) - [XBMC 4.0 for the Original Xbox](https://www.xbox-scene.info/articles/announcing-xbmc-40-for-the-original-xbox-r64/)
 * [2025-11-21, 14:50:36](https://news.ycombinator.com/item?id=46005111) - [We should all be using dependency cooldowns](https://blog.yossarian.net/2025/11/21/We-should-all-be-using-dependency-cooldowns)
+* [2025-11-21, 13:23:16](https://news.ycombinator.com/item?id=46004293) - [Making a Small RPG](https://jslegenddev.substack.com/p/making-a-small-rpg)
 * [2025-11-21, 00:31:47](https://news.ycombinator.com/item?id=45999842) - [Homeschooling hits record numbers](https://reason.com/2025/11/19/homeschooling-hits-record-numbers/)
 * [2025-11-21, 00:02:18](https://news.ycombinator.com/item?id=45999622) - [Prozac 'no better than placebo' for treating children with depression, experts](https://www.theguardian.com/society/2025/nov/20/prozac-no-better-than-placebo-for-treating-children-with-depression-experts-say)
 * [2025-11-20, 13:26:08](https://news.ycombinator.com/item?id=45992316) - [Building a Durable Execution Engine with SQLite](https://www.morling.dev/blog/building-durable-execution-engine-with-sqlite/)
