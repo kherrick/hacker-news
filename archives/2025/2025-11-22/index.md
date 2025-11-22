@@ -8,6 +8,7 @@
 * [2025-11-22, 15:19:32](https://news.ycombinator.com/item?id=46015417) - [The Pentagon Can't Trust GPS Anymore](https://www.wsj.com/tech/the-pentagon-cant-trust-gps-anymore-is-quantum-physics-the-answer-d7b2d4e6)
 * [2025-11-22, 15:14:45](https://news.ycombinator.com/item?id=46015379) - ['The French people want to save us': help pours in for glassmaker Duralex](https://www.theguardian.com/world/2025/nov/22/french-people-want-to-save-us-help-pours-glassmaker-duralex)
 * [2025-11-22, 14:56:39](https://news.ycombinator.com/item?id=46015262) - [A looming 'insect apocalypse' could endanger global food supplies](https://www.livescience.com/animals/insects/a-looming-insect-apocalypse-could-endanger-global-food-supplies-can-we-stop-it-before-its-too-late)
+* [2025-11-22, 11:36:31](https://news.ycombinator.com/item?id=46013984) - [Show HN: PolyGPT – ChatGPT, Claude, Gemini, Perplexity responses side-by-side](https://polygpt.app)
 * [2025-11-22, 11:31:30](https://news.ycombinator.com/item?id=46013960) - [ADHD and Monotropism (2023)](https://monotropism.org/adhd/)
 * [2025-11-22, 11:27:24](https://news.ycombinator.com/item?id=46013935) - [Agent Design Is Still Hard](https://lucumr.pocoo.org/2025/11/21/agents-are-hard/)
 * [2025-11-22, 11:21:27](https://news.ycombinator.com/item?id=46013900) - [Why DETRs are replacing YOLOs for real-time object detection](https://blog.datameister.ai/detection-transformers-real-time-object-detection)

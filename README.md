@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-11-22, 16:11:12](https://news.ycombinator.com/item?id=46015763) - [In a U.S. First, New Mexico Opens Doors to Free Child Care for All](https://www.wsj.com/us-news/in-a-u-s-first-new-mexico-opens-doors-to-free-child-care-for-all-2dfdea96)
-* [2025-11-22, 15:19:32](https://news.ycombinator.com/item?id=46015417) - [The Pentagon Can't Trust GPS Anymore](https://www.wsj.com/tech/the-pentagon-cant-trust-gps-anymore-is-quantum-physics-the-answer-d7b2d4e6)
 * [2025-11-22, 15:14:45](https://news.ycombinator.com/item?id=46015379) - ['The French people want to save us': help pours in for glassmaker Duralex](https://www.theguardian.com/world/2025/nov/22/french-people-want-to-save-us-help-pours-glassmaker-duralex)
 * [2025-11-22, 14:56:39](https://news.ycombinator.com/item?id=46015262) - [A looming 'insect apocalypse' could endanger global food supplies](https://www.livescience.com/animals/insects/a-looming-insect-apocalypse-could-endanger-global-food-supplies-can-we-stop-it-before-its-too-late)
+* [2025-11-22, 11:36:31](https://news.ycombinator.com/item?id=46013984) - [Show HN: PolyGPT – ChatGPT, Claude, Gemini, Perplexity responses side-by-side](https://polygpt.app)
 * [2025-11-22, 11:31:30](https://news.ycombinator.com/item?id=46013960) - [ADHD and monotropism (2023)](https://monotropism.org/adhd/)
 * [2025-11-22, 11:27:24](https://news.ycombinator.com/item?id=46013935) - [Agent design is still hard](https://lucumr.pocoo.org/2025/11/21/agents-are-hard/)
 * [2025-11-22, 05:21:53](https://news.ycombinator.com/item?id=46012328) - [Original Superman comic becomes the highest-priced comic book ever sold](https://www.bbc.com/news/articles/c8e9rp0knj6o)
