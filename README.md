@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-11-22, 18:47:08](https://news.ycombinator.com/item?id=46017175) - [Show HN: Forty.News – Daily news, but on a 40-year delay](https://forty.news)
 * [2025-11-22, 18:05:47](https://news.ycombinator.com/item?id=46016799) - [Depot (YC W23) Is Hiring a Staff Infrastructure Engineer](https://www.ycombinator.com/companies/depot/jobs/O2iB56E-staff-infrastructure-engineer)
 * [2025-11-22, 17:49:27](https://news.ycombinator.com/item?id=46016639) - [China Reaches Energy Milestone by \"Breeding\" Uranium from Thorium](https://humanprogress.org/china-reaches-energy-milestone-by-breeding-uranium-from-thorium/)
 * [2025-11-22, 17:49:05](https://news.ycombinator.com/item?id=46016630) - [Gwern's \"Stem Humor\" Directory](https://gwern.net/doc/math/humor/index)
@@ -22,13 +23,12 @@
 * [2025-11-17, 16:17:09](https://news.ycombinator.com/item?id=45954973) - [How to See the Dead](https://www.asimov.press/p/see-the-dead)
 * [2025-11-17, 04:11:57](https://news.ycombinator.com/item?id=45950797) - [Concrete Shipbuilding – Argentina](https://thecretefleet.com/blog/f/concrete-shipbuilding-–-argentina)
 * [2025-11-17, 03:46:19](https://news.ycombinator.com/item?id=45950686) - [Digital echoes: open bus behavior on the compact Macintosh](https://thomasw.dev/post/compact-mac-openbus/)
+* [2025-11-17, 03:20:53](https://news.ycombinator.com/item?id=45950594) - [Tektronix equipment has been used in many movies and shows](https://vintagetek.org/tektronix-in-movies-shows/)
 * [2025-11-15, 22:08:28](https://news.ycombinator.com/item?id=45940980) - [$1900 Bug Bounty to Fix the Lenovo Legion Pro 7 16IAX10H's Speakers on Linux](https://github.com/nadimkobeissi/16iax10h-linux-sound-saga)
 * [2025-11-15, 17:32:35](https://news.ycombinator.com/item?id=45939036) - [TiDAR: Think in Diffusion, Talk in Autoregression](https://arxiv.org/abs/2511.08923)
-* [2025-11-15, 15:21:52](https://news.ycombinator.com/item?id=45938005) - [Kodak ran a nuclear device in its basement for decades](https://www.popularmechanics.com/science/energy/a69147321/kodak-film-nuclear-reactor/)
 * [2025-11-15, 11:49:24](https://news.ycombinator.com/item?id=45936776) - [The twin probes just launched toward Mars have an Easter egg on board](https://arstechnica.com/space/2025/11/the-twin-probes-just-launched-toward-mars-have-an-easter-egg-on-board/)
 * [2025-11-15, 02:45:44](https://news.ycombinator.com/item?id=45934619) - [Samsung's 60% DRAM price hike signals a new phase of global memory tightening](https://www.buysellram.com/blog/samsungs-memory-price-surge-sends-shockwaves-through-the-global-dram-market/)
 * [2025-11-14, 15:11:13](https://news.ycombinator.com/item?id=45927520) - [Childhood Friends, Not Moms, Shape Attachment Styles Most](https://nautil.us/childhood-friends-not-moms-shape-attachment-styles-most-1247316/)
-* [2025-11-14, 13:08:27](https://news.ycombinator.com/item?id=45926371) - [Weight-sparse transformers have interpretable circuits [pdf]](https://cdn.openai.com/pdf/41df8f28-d4ef-43e9-aed2-823f9393e470/circuit-sparsity-paper.pdf)
 * [2025-11-12, 19:21:37](https://news.ycombinator.com/item?id=45904873) - [As 'Dorian Gray' ages, its relevance only grows](https://www.washingtonpost.com/books/2025/11/08/dorian-gray-oscar-wilde-history/)
 
 ## [Archives](archives/index.md)
