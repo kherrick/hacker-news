@@ -60,6 +60,7 @@
 * [2025-11-18, 09:17:17](https://news.ycombinator.com/item?id=45963025) - [Don't blindly trust what AI tells you, says Google's Sundar Pichai](https://www.bbc.com/news/articles/c8drzv37z4jo)
 * [2025-11-18, 09:14:22](https://news.ycombinator.com/item?id=45963006) - [Do (human) readers prefer AI writers?](https://marginalrevolution.com/marginalrevolution/2025/11/do-readers-prefer-ai-writers.html)
 * [2025-11-18, 09:13:13](https://news.ycombinator.com/item?id=45963001) - [Comparing Android Alternatives: Lineage OS, ∕E∕OS, and Graphene OS](https://kevinboone.me/lineage-eos-graphene.html)
+* [2025-11-18, 08:18:43](https://news.ycombinator.com/item?id=45962656) - [Event Sourcing in Go: From Zero to Production](https://skoredin.pro/blog/golang/event-sourcing-go)
 * [2025-11-18, 08:18:35](https://news.ycombinator.com/item?id=45962654) - [How Quake.exe got its TCP/IP stack](https://fabiensanglard.net/quake_chunnel/index.html)
 * [2025-11-18, 07:14:03](https://news.ycombinator.com/item?id=45962266) - [A subtly obvious e-paper room air monitor (Part 1: Why?)](https://www.nicolin-dora.ch/blog/en-epaper-room-air-monitor-part-1/)
 * [2025-11-18, 07:00:50](https://news.ycombinator.com/item?id=45962178) - [Langfuse (YC W23) Hiring OSS Support Engineers in Berlin and SF](https://jobs.ashbyhq.com/langfuse/5ff18d4d-9066-4c67-8ecc-ffc0e295fee6)
