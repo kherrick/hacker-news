@@ -42,6 +42,7 @@
 * [2025-11-21, 13:44:12](https://news.ycombinator.com/item?id=46004541) - [More tales about outages and numeric limits](https://rachelbythebay.com/w/2025/11/18/down/)
 * [2025-11-21, 13:30:36](https://news.ycombinator.com/item?id=46004386) - [Building a Minimal Viable Armv7 Emulator from Scratch](https://xnacly.me/posts/2025/building-a-minimal-viable-armv7-emulator/)
 * [2025-11-21, 13:29:14](https://news.ycombinator.com/item?id=46004364) - [EXIF orientation info in PNGs isn't used for image-orientation](https://bugzilla.mozilla.org/show_bug.cgi?id=1627423)
+* [2025-11-21, 13:25:59](https://news.ycombinator.com/item?id=46004326) - [Pixel Art Tips for Programmers](https://jslegenddev.substack.com/p/5-pixel-art-tips-for-programmers-3d6)
 * [2025-11-21, 13:23:16](https://news.ycombinator.com/item?id=46004293) - [Making a Small RPG](https://jslegenddev.substack.com/p/making-a-small-rpg)
 * [2025-11-21, 13:04:56](https://news.ycombinator.com/item?id=46004118) - [Jmail: Gmail Clone with Epstein's Emails](https://jmail.world)
 * [2025-11-21, 12:49:08](https://news.ycombinator.com/item?id=46003995) - [iHeartRadio web has exposed all its source code](https://github.com/Gh0styTongue/iHeart-Frontend-Source-Code)
