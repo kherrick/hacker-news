@@ -10,6 +10,7 @@
 * [2025-11-15, 23:30:04](https://news.ycombinator.com/item?id=45941441) - [Blocking LLM crawlers without JavaScript](https://www.owl.is/blogg/blocking-crawlers-without-javascript/)
 * [2025-11-15, 23:19:50](https://news.ycombinator.com/item?id=45941389) - [Project Fucking Sucks](https://ficd.sh/blog/your-project-sucks/)
 * [2025-11-15, 22:16:33](https://news.ycombinator.com/item?id=45941025) - [libwifi: an 802.11 frame parsing and generation library written in C](https://libwifi.so/)
+* [2025-11-15, 22:08:28](https://news.ycombinator.com/item?id=45940980) - [$1900 Bug Bounty to Fix the Lenovo Legion Pro 7 16IAX10H's Speakers on Linux](https://github.com/nadimkobeissi/16iax10h-linux-sound-saga)
 * [2025-11-15, 21:22:57](https://news.ycombinator.com/item?id=45940706) - [AsciiMath](https://asciimath.org/)
 * [2025-11-15, 21:18:55](https://news.ycombinator.com/item?id=45940681) - [Tim Cook could step down as Apple CEO 'as soon as next year](https://9to5mac.com/2025/11/14/tim-cook-step-down-as-apple-ceo-as-soon-as-next-year-report/)
 * [2025-11-15, 21:05:16](https://news.ycombinator.com/item?id=45940603) - [Show HN: A game where you invest into startups from history](https://startupgambit.com)
