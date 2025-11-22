@@ -1,12 +1,32 @@
 [
   [
     [
+      "2025-11-22, 16:11:12",
+      "https://news.ycombinator.com/item?id=46015763"
+    ],
+    [
+      "In a U.S. First, New Mexico Opens Doors to Free Child Care for All",
+      "https://www.wsj.com/us-news/in-a-u-s-first-new-mexico-opens-doors-to-free-child-care-for-all-2dfdea96"
+    ]
+  ],
+  [
+    [
       "2025-11-22, 15:19:32",
       "https://news.ycombinator.com/item?id=46015417"
     ],
     [
       "The Pentagon Can't Trust GPS Anymore",
       "https://www.wsj.com/tech/the-pentagon-cant-trust-gps-anymore-is-quantum-physics-the-answer-d7b2d4e6"
+    ]
+  ],
+  [
+    [
+      "2025-11-22, 15:14:45",
+      "https://news.ycombinator.com/item?id=46015379"
+    ],
+    [
+      "'The French people want to save us': help pours in for glassmaker Duralex",
+      "https://www.theguardian.com/world/2025/nov/22/french-people-want-to-save-us-help-pours-glassmaker-duralex"
     ]
   ],
   [
@@ -171,16 +191,6 @@
   ],
   [
     [
-      "2025-11-21, 15:23:20",
-      "https://news.ycombinator.com/item?id=46005388"
-    ],
-    [
-      "Make product worse, get money",
-      "https://dynomight.net/worse/"
-    ]
-  ],
-  [
-    [
       "2025-11-21, 14:50:36",
       "https://news.ycombinator.com/item?id=46005111"
     ],
@@ -201,16 +211,6 @@
   ],
   [
     [
-      "2025-11-17, 17:31:41",
-      "https://news.ycombinator.com/item?id=45955824"
-    ],
-    [
-      "Self-hosting a NAT Gateway",
-      "https://www.awsistoohard.com/blog/self-hosting-nat-gateway"
-    ]
-  ],
-  [
-    [
       "2025-11-17, 16:17:09",
       "https://news.ycombinator.com/item?id=45954973"
     ],
@@ -227,6 +227,16 @@
     [
       "Concrete Shipbuilding – Argentina",
       "https://thecretefleet.com/blog/f/concrete-shipbuilding-–-argentina"
+    ]
+  ],
+  [
+    [
+      "2025-11-16, 02:31:58",
+      "https://news.ycombinator.com/item?id=45942274"
+    ],
+    [
+      "Mr. Difficult: William Gaddis and the Problem of Hard-to-Read Books (2002)",
+      "https://adilegian.com/FranzenGaddis.htm"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Weight-sparse transformers have interpretable circuits [pdf]",
       "https://cdn.openai.com/pdf/41df8f28-d4ef-43e9-aed2-823f9393e470/circuit-sparsity-paper.pdf"
-    ]
-  ],
-  [
-    [
-      "2025-11-13, 11:01:49",
-      "https://news.ycombinator.com/item?id=45913432"
-    ],
-    [
-      "An Interview with Unity CEO Matthew Bromberg About Turnarounds",
-      "https://stratechery.com/2025/an-interview-with-unity-ceo-matthew-bromberg-about-turnarounds/"
     ]
   ]
 ]
