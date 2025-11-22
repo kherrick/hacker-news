@@ -1,8 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-11-22, 20:24:17](https://news.ycombinator.com/item?id=46017934) - [The Go-Between](https://theamericanscholar.org/the-go-between/)
 * [2025-11-22, 18:47:08](https://news.ycombinator.com/item?id=46017175) - [Show HN: Forty.News – Daily news, but on a 40-year delay](https://forty.news)
 * [2025-11-22, 18:05:47](https://news.ycombinator.com/item?id=46016799) - [Depot (YC W23) Is Hiring a Staff Infrastructure Engineer](https://www.ycombinator.com/companies/depot/jobs/O2iB56E-staff-infrastructure-engineer)
-* [2025-11-22, 17:49:27](https://news.ycombinator.com/item?id=46016639) - [China Reaches Energy Milestone by \"Breeding\" Uranium from Thorium](https://humanprogress.org/china-reaches-energy-milestone-by-breeding-uranium-from-thorium/)
+* [2025-11-22, 17:49:27](https://news.ycombinator.com/item?id=46016639) - [China reaches energy milestone by \"breeding\" uranium from thorium](https://humanprogress.org/china-reaches-energy-milestone-by-breeding-uranium-from-thorium/)
 * [2025-11-22, 17:49:05](https://news.ycombinator.com/item?id=46016630) - [Gwern's \"Stem Humor\" Directory](https://gwern.net/doc/math/humor/index)
 * [2025-11-22, 17:08:36](https://news.ycombinator.com/item?id=46016249) - [The privacy nightmare of browser fingerprinting](https://kevinboone.me/fingerprinting.html)
 * [2025-11-22, 16:23:06](https://news.ycombinator.com/item?id=46015860) - [The Uncertain Origins of Aspirin](https://press.asimov.com/articles/aspirin)
@@ -21,7 +22,6 @@
 * [2025-11-21, 14:50:36](https://news.ycombinator.com/item?id=46005111) - [We should all be using dependency cooldowns](https://blog.yossarian.net/2025/11/21/We-should-all-be-using-dependency-cooldowns)
 * [2025-11-18, 17:35:31](https://news.ycombinator.com/item?id=45969398) - [The Connectivity Standards Alliance Announces Zigbee 4.0 and Suzi](https://csa-iot.org/newsroom/the-connectivity-standards-alliance-announces-zigbee-4-0-and-suzi-empowering-the-next-generation-of-secure-interoperable-iot-devices/)
 * [2025-11-17, 16:17:09](https://news.ycombinator.com/item?id=45954973) - [How to see the dead](https://www.asimov.press/p/see-the-dead)
-* [2025-11-17, 04:11:57](https://news.ycombinator.com/item?id=45950797) - [Concrete Shipbuilding – Argentina](https://thecretefleet.com/blog/f/concrete-shipbuilding-–-argentina)
 * [2025-11-17, 03:46:19](https://news.ycombinator.com/item?id=45950686) - [Digital echoes: open bus behavior on the compact Macintosh](https://thomasw.dev/post/compact-mac-openbus/)
 * [2025-11-17, 03:20:53](https://news.ycombinator.com/item?id=45950594) - [Tektronix equipment has been used in many movies and shows](https://vintagetek.org/tektronix-in-movies-shows/)
 * [2025-11-15, 22:08:28](https://news.ycombinator.com/item?id=45940980) - [$1900 Bug Bounty to Fix the Lenovo Legion Pro 7 16IAX10H's Speakers on Linux](https://github.com/nadimkobeissi/16iax10h-linux-sound-saga)
