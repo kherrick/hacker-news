@@ -5,7 +5,7 @@
       "https://news.ycombinator.com/item?id=46013960"
     ],
     [
-      "ADHD and Monotropism (2023)",
+      "ADHD and monotropism (2023)",
       "https://monotropism.org/adhd/"
     ]
   ],
@@ -15,7 +15,7 @@
       "https://news.ycombinator.com/item?id=46013935"
     ],
     [
-      "Agent Design Is Still Hard",
+      "Agent design is still hard",
       "https://lucumr.pocoo.org/2025/11/21/agents-are-hard/"
     ]
   ],
@@ -31,31 +31,11 @@
   ],
   [
     [
-      "2025-11-22, 11:04:15",
-      "https://news.ycombinator.com/item?id=46013816"
-    ],
-    [
-      "My private information is worth $30",
-      "https://blog.melashri.net/micro/privacy-price/"
-    ]
-  ],
-  [
-    [
-      "2025-11-22, 10:08:31",
-      "https://news.ycombinator.com/item?id=46013579"
-    ],
-    [
-      "Libpng 1.6.51: Four buffer overflow vulnerabilities fixed",
-      "https://www.openwall.com/lists/oss-security/2025/11/22/1"
-    ]
-  ],
-  [
-    [
       "2025-11-22, 05:21:53",
       "https://news.ycombinator.com/item?id=46012328"
     ],
     [
-      "Superman copy found in mum's attic is most valuable comic ever at $9.12M",
+      "Original Superman comic becomes the highest-priced comic book ever sold",
       "https://www.bbc.com/news/articles/c8e9rp0knj6o"
     ]
   ],
@@ -101,12 +81,32 @@
   ],
   [
     [
+      "2025-11-21, 22:17:11",
+      "https://news.ycombinator.com/item?id=46009660"
+    ],
+    [
+      "Is Matrix Multiplication Ugly?",
+      "https://mathenchant.wordpress.com/2025/11/21/is-matrix-multiplication-ugly/"
+    ]
+  ],
+  [
+    [
       "2025-11-21, 22:11:07",
       "https://news.ycombinator.com/item?id=46009591"
     ],
     [
       "LAPD helicopter tracker with real-time operating costs",
       "https://lapdhelicoptertracker.com/"
+    ]
+  ],
+  [
+    [
+      "2025-11-21, 21:13:11",
+      "https://news.ycombinator.com/item?id=46009056"
+    ],
+    [
+      "Arduino Terms of Service and Privacy Policy update: setting the record straight",
+      "https://blog.arduino.cc/2025/11/21/the-arduino-terms-of-service-and-privacy-policy-update-setting-the-record-straight/"
     ]
   ],
   [
@@ -231,12 +231,12 @@
   ],
   [
     [
-      "2025-11-15, 06:27:22",
-      "https://news.ycombinator.com/item?id=45935482"
+      "2025-11-15, 11:49:24",
+      "https://news.ycombinator.com/item?id=45936776"
     ],
     [
-      "Automating rootless Docker host updates with Ansible",
-      "https://du.nkel.dev/blog/2025-11-15_docker-rootless-ansible/"
+      "The twin probes just launched toward Mars have an Easter egg on board",
+      "https://arstechnica.com/space/2025/11/the-twin-probes-just-launched-toward-mars-have-an-easter-egg-on-board/"
     ]
   ],
   [
