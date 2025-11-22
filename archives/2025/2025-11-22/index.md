@@ -5,7 +5,9 @@
 ### [Archives](../../index.md) for [2025-11-22](index.md)
 
 * [2025-11-22, 21:20:24](https://news.ycombinator.com/item?id=46018380) - [WorldGen by Meta – Text to Immersive 3D Worlds](https://www.meta.com/en-gb/blog/worldgen-3d-world-generation-reality-labs-generative-ai-research/)
+* [2025-11-22, 21:02:34](https://news.ycombinator.com/item?id=46018229) - [Show HN: I built a wizard to turn ideas into AI coding agent-ready specs](https://vibescaffold.dev/)
 * [2025-11-22, 20:54:35](https://news.ycombinator.com/item?id=46018165) - [Show HN: Build the habit of writing meaningful commit messages](https://github.com/arpxspace/smartcommit)
+* [2025-11-22, 20:46:43](https://news.ycombinator.com/item?id=46018107) - [Show HN: RealDeed – Tokenize Real Estate into Digital Assets](https://www.realdeed.co/)
 * [2025-11-22, 20:24:17](https://news.ycombinator.com/item?id=46017934) - [The Go-Between](https://theamericanscholar.org/the-go-between/)
 * [2025-11-22, 20:21:56](https://news.ycombinator.com/item?id=46017910) - [The Mozilla Cycle, Part III: Mozilla Dies in Ignominy](https://taggart-tech.com/mozilla-cycle-pt3/)
 * [2025-11-22, 20:11:47](https://news.ycombinator.com/item?id=46017833) - [The Censorship Network: Regulation and Repression in Germany Today](https://liber-net.org/germany/)
@@ -15,6 +17,7 @@
 * [2025-11-22, 17:49:27](https://news.ycombinator.com/item?id=46016639) - [China reaches energy milestone by \"breeding\" uranium from thorium](https://www.scmp.com/news/china/science/article/3331312/china-reaches-energy-independence-milestone-breeding-uranium-thorium)
 * [2025-11-22, 17:49:27](https://news.ycombinator.com/item?id=46016639) - [China Reaches Energy Milestone by \"Breeding\" Uranium from Thorium](https://humanprogress.org/china-reaches-energy-milestone-by-breeding-uranium-from-thorium/)
 * [2025-11-22, 17:49:05](https://news.ycombinator.com/item?id=46016630) - [Gwern's \"Stem Humor\" Directory](https://gwern.net/doc/math/humor/index)
+* [2025-11-22, 17:47:23](https://news.ycombinator.com/item?id=46016613) - [The realities of being a pop star](https://itscharlibb.substack.com/p/the-realities-of-being-a-pop-star)
 * [2025-11-22, 17:08:36](https://news.ycombinator.com/item?id=46016249) - [The privacy nightmare of browser fingerprinting](https://kevinboone.me/fingerprinting.html)
 * [2025-11-22, 16:49:15](https://news.ycombinator.com/item?id=46016074) - [Our babies were taken after 'biased' parenting test](https://www.bbc.co.uk/news/articles/c1wlw2qj113o)
 * [2025-11-22, 16:23:06](https://news.ycombinator.com/item?id=46015860) - [The Uncertain Origins of Aspirin](https://press.asimov.com/articles/aspirin)
