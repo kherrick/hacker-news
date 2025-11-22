@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-11-22, 18:05:47](https://news.ycombinator.com/item?id=46016799) - [Depot (YC W23) Is Hiring a Staff Infrastructure Engineer](https://www.ycombinator.com/companies/depot/jobs/O2iB56E-staff-infrastructure-engineer)
+* [2025-11-22, 17:49:27](https://news.ycombinator.com/item?id=46016639) - [China Reaches Energy Milestone by \"Breeding\" Uranium from Thorium](https://humanprogress.org/china-reaches-energy-milestone-by-breeding-uranium-from-thorium/)
 * [2025-11-22, 17:08:36](https://news.ycombinator.com/item?id=46016249) - [The privacy nightmare of browser fingerprinting](https://kevinboone.me/fingerprinting.html)
 * [2025-11-22, 16:11:12](https://news.ycombinator.com/item?id=46015763) - [In a U.S. First, New Mexico Opens Doors to Free Child Care for All](https://www.wsj.com/us-news/in-a-u-s-first-new-mexico-opens-doors-to-free-child-care-for-all-2dfdea96)
 * [2025-11-22, 15:45:26](https://news.ycombinator.com/item?id=46015578) - [New Apple Study Shows LLMs Can Tell What You're Doing from Audio and Motion Data](https://9to5mac.com/2025/11/21/apple-research-llm-study-audio-motion-activity/)
@@ -11,7 +12,6 @@
 * [2025-11-22, 00:30:26](https://news.ycombinator.com/item?id=46010806) - [Sharper MRI scans may be on horizon thanks to new physics-based model](https://news.rice.edu/news/2025/sharper-mri-scans-may-be-horizon-thanks-new-physics-based-model)
 * [2025-11-21, 23:28:40](https://news.ycombinator.com/item?id=46010329) - [How I learned Vulkan and wrote a small game engine with it (2024)](https://edw.is/learning-vulkan/)
 * [2025-11-21, 22:40:28](https://news.ycombinator.com/item?id=46009894) - [Personal blogs are back, should niche blogs be next?](https://disassociated.com/personal-blogs-back-niche-blogs-next/)
-* [2025-11-21, 22:17:11](https://news.ycombinator.com/item?id=46009660) - [Is Matrix Multiplication Ugly?](https://mathenchant.wordpress.com/2025/11/21/is-matrix-multiplication-ugly/)
 * [2025-11-21, 22:11:07](https://news.ycombinator.com/item?id=46009591) - [LAPD helicopter tracker with real-time operating costs](https://lapdhelicoptertracker.com/)
 * [2025-11-21, 21:13:11](https://news.ycombinator.com/item?id=46009056) - [Arduino Terms of Service and Privacy Policy update: setting the record straight](https://blog.arduino.cc/2025/11/21/the-arduino-terms-of-service-and-privacy-policy-update-setting-the-record-straight/)
 * [2025-11-21, 19:46:34](https://news.ycombinator.com/item?id=46008156) - [Discontinuation of ARM Notebook with Snapdragon X Elite SoC](https://www.tuxedocomputers.com/en/Discontinuation-of-ARM-notebooks-with-Snapdragon-X-Elite-SoC.tuxedo)
