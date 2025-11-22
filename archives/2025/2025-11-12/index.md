@@ -16,6 +16,7 @@
 * [2025-11-12, 20:02:58](https://news.ycombinator.com/item?id=45905620) - [Making the Clang AST Leaner and Faster](https://cppalliance.org/mizvekov,/clang/2025/10/20/Making-Clang-AST-Leaner-Faster.html)
 * [2025-11-12, 19:53:25](https://news.ycombinator.com/item?id=45905451) - [LLM Output Drift in Financial Workflows: Validation and Mitigation (arXiv)](https://arxiv.org/abs/2511.07585)
 * [2025-11-12, 19:50:32](https://news.ycombinator.com/item?id=45905408) - [GLP-1 Drugs Linked to Dramatically Lower Death Rates in Colon Cancer Patients](https://today.ucsd.edu/story/glp-1-drugs-linked-to-dramatically-lower-death-rates-in-colon-cancer-patients)
+* [2025-11-12, 19:21:37](https://news.ycombinator.com/item?id=45904873) - [As 'Dorian Gray' ages, its relevance only grows](https://www.washingtonpost.com/books/2025/11/08/dorian-gray-oscar-wilde-history/)
 * [2025-11-12, 19:21:09](https://news.ycombinator.com/item?id=45904860) - [Is your electric bill going up? AI is partly to blame](https://www.npr.org/2025/11/06/nx-s1-5597971/electricity-bills-utilities-ai)
 * [2025-11-12, 19:14:41](https://news.ycombinator.com/item?id=45904730) - [Looking for Hidden Gems in Scientific Literature](https://elicit.com/blog/literature-based-discovery)
 * [2025-11-12, 19:05:41](https://news.ycombinator.com/item?id=45904551) - [GPT-5.1: A smarter, more conversational ChatGPT](https://openai.com/index/gpt-5-1/)
