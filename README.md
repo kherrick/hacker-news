@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-11-22, 21:20:24](https://news.ycombinator.com/item?id=46018380) - [WorldGen – Text to Immersive 3D Worlds](https://www.meta.com/en-gb/blog/worldgen-3d-world-generation-reality-labs-generative-ai-research/)
+* [2025-11-22, 21:11:15](https://news.ycombinator.com/item?id=46018292) - [Kids who own smartphones before age 13 have worse mental health outcomes: Study](https://abcnews.go.com/GMA/Family/kids-smartphones-age-13-worse-mental-health-outcomes/story?id=123961082)
 * [2025-11-22, 21:02:34](https://news.ycombinator.com/item?id=46018229) - [Show HN: I built a wizard to turn ideas into AI coding agent-ready specs](https://vibescaffold.dev/)
 * [2025-11-22, 20:54:35](https://news.ycombinator.com/item?id=46018165) - [Show HN: Build the habit of writing meaningful commit messages](https://github.com/arpxspace/smartcommit)
 * [2025-11-22, 20:46:43](https://news.ycombinator.com/item?id=46018107) - [Show HN: RealDeed – Tokenize Real Estate into Digital Assets](https://www.realdeed.co/)
@@ -15,12 +16,10 @@
 * [2025-11-22, 17:08:36](https://news.ycombinator.com/item?id=46016249) - [The privacy nightmare of browser fingerprinting](https://kevinboone.me/fingerprinting.html)
 * [2025-11-22, 16:23:06](https://news.ycombinator.com/item?id=46015860) - [The Uncertain Origins of Aspirin](https://press.asimov.com/articles/aspirin)
 * [2025-11-22, 11:27:24](https://news.ycombinator.com/item?id=46013935) - [Agent design is still hard](https://lucumr.pocoo.org/2025/11/21/agents-are-hard/)
-* [2025-11-22, 03:57:29](https://news.ycombinator.com/item?id=46011978) - [Moss Survives 9 Months in Space Vacuum](https://scienceclock.com/moss-survives-9-months-in-space-vacuum/)
 * [2025-11-21, 22:40:28](https://news.ycombinator.com/item?id=46009894) - [Personal blogs are back, should niche blogs be next?](https://disassociated.com/personal-blogs-back-niche-blogs-next/)
 * [2025-11-21, 20:02:45](https://news.ycombinator.com/item?id=46008332) - [We Induced Smells With Ultrasound](https://writetobrain.com/olfactory)
 * [2025-11-21, 17:29:59](https://news.ycombinator.com/item?id=46006616) - [Helping Valve to power up Steam devices](https://www.igalia.com/2025/11/helpingvalve.html)
 * [2025-11-21, 16:34:52](https://news.ycombinator.com/item?id=46006016) - [Show HN: Wealthfolio 2.0- Open source investment tracker. Now Mobile and Docker](https://wealthfolio.app/?v=2.0)
-* [2025-11-21, 14:50:36](https://news.ycombinator.com/item?id=46005111) - [We should all be using dependency cooldowns](https://blog.yossarian.net/2025/11/21/We-should-all-be-using-dependency-cooldowns)
 * [2025-11-18, 17:35:31](https://news.ycombinator.com/item?id=45969398) - [The Connectivity Standards Alliance Announces Zigbee 4.0 and Suzi](https://csa-iot.org/newsroom/the-connectivity-standards-alliance-announces-zigbee-4-0-and-suzi-empowering-the-next-generation-of-secure-interoperable-iot-devices/)
 * [2025-11-18, 16:23:57](https://news.ycombinator.com/item?id=45968310) - [TIL: `satisfies` is my favorite TypeScript keyword](https://sjer.red/blog/2024-12-21/)
 * [2025-11-17, 16:17:09](https://news.ycombinator.com/item?id=45954973) - [How to see the dead](https://www.asimov.press/p/see-the-dead)
@@ -28,6 +27,7 @@
 * [2025-11-17, 03:20:53](https://news.ycombinator.com/item?id=45950594) - [Tektronix equipment has been used in many movies and shows](https://vintagetek.org/tektronix-in-movies-shows/)
 * [2025-11-15, 22:08:28](https://news.ycombinator.com/item?id=45940980) - [$1900 Bug Bounty to Fix the Lenovo Legion Pro 7 16IAX10H's Speakers on Linux](https://github.com/nadimkobeissi/16iax10h-linux-sound-saga)
 * [2025-11-15, 17:32:35](https://news.ycombinator.com/item?id=45939036) - [TiDAR: Think in Diffusion, Talk in Autoregression](https://arxiv.org/abs/2511.08923)
+* [2025-11-15, 13:15:56](https://news.ycombinator.com/item?id=45937230) - [Anukari on the CPU (part 2: CPU optimization)](https://anukari.com/blog/devlog/anukari-on-the-cpu-part-2-cpu-optimization)
 * [2025-11-15, 02:45:44](https://news.ycombinator.com/item?id=45934619) - [Samsung's 60% DRAM price hike signals a new phase of global memory tightening](https://www.buysellram.com/blog/samsungs-memory-price-surge-sends-shockwaves-through-the-global-dram-market/)
 * [2025-11-12, 19:21:37](https://news.ycombinator.com/item?id=45904873) - [As 'Dorian Gray' ages, its relevance only grows](https://www.washingtonpost.com/books/2025/11/08/dorian-gray-oscar-wilde-history/)
 

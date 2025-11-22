@@ -47,6 +47,7 @@
 * [2025-11-15, 13:58:09](https://news.ycombinator.com/item?id=45937518) - [How to write type-safe generics in C](https://raphgl.github.io/blog/generics-in-c.html)
 * [2025-11-15, 13:32:12](https://news.ycombinator.com/item?id=45937350) - [Scientists now know that bees can process time, a first in insects](https://www.cnn.com/2025/11/12/science/bees-visual-stimulus-study-scli-intl)
 * [2025-11-15, 13:24:54](https://news.ycombinator.com/item?id=45937302) - [My stages of learning to be a socially normal person](https://sashachapin.substack.com/p/my-six-stages-of-learning-to-be-a)
+* [2025-11-15, 13:15:56](https://news.ycombinator.com/item?id=45937230) - [Anukari on the CPU (part 2: CPU optimization)](https://anukari.com/blog/devlog/anukari-on-the-cpu-part-2-cpu-optimization)
 * [2025-11-15, 13:06:38](https://news.ycombinator.com/item?id=45937183) - [WebAssembly from the Ground Up](https://wasmgroundup.com/)
 * [2025-11-15, 12:31:20](https://news.ycombinator.com/item?id=45936999) - [Your Land, My Land (Offrange) – Lithium vs. Lettuce in the Imperial Valley, CA](https://ambrook.com/offrange/photo-essay/lithium-v-lettuce)
 * [2025-11-15, 12:23:08](https://news.ycombinator.com/item?id=45936964) - [Kagi Bloopers – Search Results Gone Wrong](https://help.kagi.com/kagi/bloopers/)
