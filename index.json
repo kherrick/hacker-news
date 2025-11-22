@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-11-22, 11:31:30",
+      "https://news.ycombinator.com/item?id=46013960"
+    ],
+    [
+      "ADHD and Monotropism (2023)",
+      "https://monotropism.org/adhd/"
+    ]
+  ],
+  [
+    [
       "2025-11-22, 11:04:15",
       "https://news.ycombinator.com/item?id=46013816"
     ],
@@ -161,32 +171,12 @@
   ],
   [
     [
-      "2025-11-21, 15:18:05",
-      "https://news.ycombinator.com/item?id=46005349"
-    ],
-    [
-      "XBMC 4.0 for the Original Xbox",
-      "https://www.xbox-scene.info/articles/announcing-xbmc-40-for-the-original-xbox-r64/"
-    ]
-  ],
-  [
-    [
       "2025-11-21, 14:50:36",
       "https://news.ycombinator.com/item?id=46005111"
     ],
     [
       "We should all be using dependency cooldowns",
       "https://blog.yossarian.net/2025/11/21/We-should-all-be-using-dependency-cooldowns"
-    ]
-  ],
-  [
-    [
-      "2025-11-20, 13:26:08",
-      "https://news.ycombinator.com/item?id=45992316"
-    ],
-    [
-      "Building a Durable Execution Engine with SQLite",
-      "https://www.morling.dev/blog/building-durable-execution-engine-with-sqlite/"
     ]
   ],
   [
@@ -277,6 +267,16 @@
     [
       "Weight-sparse transformers have interpretable circuits [pdf]",
       "https://cdn.openai.com/pdf/41df8f28-d4ef-43e9-aed2-823f9393e470/circuit-sparsity-paper.pdf"
+    ]
+  ],
+  [
+    [
+      "2025-11-13, 11:01:49",
+      "https://news.ycombinator.com/item?id=45913432"
+    ],
+    [
+      "An Interview with Unity CEO Matthew Bromberg About Turnarounds",
+      "https://stratechery.com/2025/an-interview-with-unity-ceo-matthew-bromberg-about-turnarounds/"
     ]
   ],
   [
