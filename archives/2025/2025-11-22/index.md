@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-11-22](index.md)
 
 * [2025-11-22, 21:20:24](https://news.ycombinator.com/item?id=46018380) - [WorldGen by Meta – Text to Immersive 3D Worlds](https://www.meta.com/en-gb/blog/worldgen-3d-world-generation-reality-labs-generative-ai-research/)
+* [2025-11-22, 20:54:35](https://news.ycombinator.com/item?id=46018165) - [Show HN: Build the habit of writing meaningful commit messages](https://github.com/arpxspace/smartcommit)
 * [2025-11-22, 20:24:17](https://news.ycombinator.com/item?id=46017934) - [The Go-Between](https://theamericanscholar.org/the-go-between/)
 * [2025-11-22, 20:21:56](https://news.ycombinator.com/item?id=46017910) - [The Mozilla Cycle, Part III: Mozilla Dies in Ignominy](https://taggart-tech.com/mozilla-cycle-pt3/)
 * [2025-11-22, 20:11:47](https://news.ycombinator.com/item?id=46017833) - [The Censorship Network: Regulation and Repression in Germany Today](https://liber-net.org/germany/)
