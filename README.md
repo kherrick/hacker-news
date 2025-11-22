@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-11-22, 14:56:39](https://news.ycombinator.com/item?id=46015262) - [A looming 'insect apocalypse' could endanger global food supplies](https://www.livescience.com/animals/insects/a-looming-insect-apocalypse-could-endanger-global-food-supplies-can-we-stop-it-before-its-too-late)
 * [2025-11-22, 11:31:30](https://news.ycombinator.com/item?id=46013960) - [ADHD and monotropism (2023)](https://monotropism.org/adhd/)
 * [2025-11-22, 11:27:24](https://news.ycombinator.com/item?id=46013935) - [Agent design is still hard](https://lucumr.pocoo.org/2025/11/21/agents-are-hard/)
 * [2025-11-22, 05:21:53](https://news.ycombinator.com/item?id=46012328) - [Original Superman comic becomes the highest-priced comic book ever sold](https://www.bbc.com/news/articles/c8e9rp0knj6o)
@@ -20,6 +21,7 @@
 * [2025-11-18, 17:35:31](https://news.ycombinator.com/item?id=45969398) - [The Connectivity Standards Alliance Announces Zigbee 4.0 and Suzi](https://csa-iot.org/newsroom/the-connectivity-standards-alliance-announces-zigbee-4-0-and-suzi-empowering-the-next-generation-of-secure-interoperable-iot-devices/)
 * [2025-11-18, 08:18:43](https://news.ycombinator.com/item?id=45962656) - [Event Sourcing in Go: From Zero to Production](https://skoredin.pro/blog/golang/event-sourcing-go)
 * [2025-11-17, 17:31:41](https://news.ycombinator.com/item?id=45955824) - [Self-hosting a NAT Gateway](https://www.awsistoohard.com/blog/self-hosting-nat-gateway)
+* [2025-11-17, 16:17:09](https://news.ycombinator.com/item?id=45954973) - [How to See the Dead](https://www.asimov.press/p/see-the-dead)
 * [2025-11-17, 04:11:57](https://news.ycombinator.com/item?id=45950797) - [Concrete Shipbuilding – Argentina](https://thecretefleet.com/blog/f/concrete-shipbuilding-–-argentina)
 * [2025-11-15, 17:32:35](https://news.ycombinator.com/item?id=45939036) - [TiDAR: Think in Diffusion, Talk in Autoregression](https://arxiv.org/abs/2511.08923)
 * [2025-11-15, 15:21:52](https://news.ycombinator.com/item?id=45938005) - [Kodak ran a nuclear device in its basement for decades](https://www.popularmechanics.com/science/energy/a69147321/kodak-film-nuclear-reactor/)
@@ -28,8 +30,6 @@
 * [2025-11-14, 15:11:13](https://news.ycombinator.com/item?id=45927520) - [Childhood Friends, Not Moms, Shape Attachment Styles Most](https://nautil.us/childhood-friends-not-moms-shape-attachment-styles-most-1247316/)
 * [2025-11-14, 13:08:27](https://news.ycombinator.com/item?id=45926371) - [Weight-sparse transformers have interpretable circuits [pdf]](https://cdn.openai.com/pdf/41df8f28-d4ef-43e9-aed2-823f9393e470/circuit-sparsity-paper.pdf)
 * [2025-11-13, 11:01:49](https://news.ycombinator.com/item?id=45913432) - [An Interview with Unity CEO Matthew Bromberg About Turnarounds](https://stratechery.com/2025/an-interview-with-unity-ceo-matthew-bromberg-about-turnarounds/)
-* [2025-11-12, 15:40:11](https://news.ycombinator.com/item?id=45901499) - [Shop Sans is a typeface for curved text paths](https://www.futurefonts.com/hex/shop-sans)
-* [2025-11-11, 20:06:18](https://news.ycombinator.com/item?id=45892123) - [Single-Celled Marine Organisms Resulted in an Influential Illustrated Book](https://lithub.com/how-the-discovery-of-single-celled-marine-organisms-resulted-in-one-of-the-most-influential-illustrated-books-ever-published/)
 
 ## [Archives](archives/index.md)
 
