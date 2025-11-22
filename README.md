@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-11-22, 15:19:32](https://news.ycombinator.com/item?id=46015417) - [The Pentagon Can't Trust GPS Anymore](https://www.wsj.com/tech/the-pentagon-cant-trust-gps-anymore-is-quantum-physics-the-answer-d7b2d4e6)
 * [2025-11-22, 14:56:39](https://news.ycombinator.com/item?id=46015262) - [A looming 'insect apocalypse' could endanger global food supplies](https://www.livescience.com/animals/insects/a-looming-insect-apocalypse-could-endanger-global-food-supplies-can-we-stop-it-before-its-too-late)
 * [2025-11-22, 11:31:30](https://news.ycombinator.com/item?id=46013960) - [ADHD and monotropism (2023)](https://monotropism.org/adhd/)
 * [2025-11-22, 11:27:24](https://news.ycombinator.com/item?id=46013935) - [Agent design is still hard](https://lucumr.pocoo.org/2025/11/21/agents-are-hard/)
@@ -29,7 +30,6 @@
 * [2025-11-14, 15:11:13](https://news.ycombinator.com/item?id=45927520) - [Childhood Friends, Not Moms, Shape Attachment Styles Most](https://nautil.us/childhood-friends-not-moms-shape-attachment-styles-most-1247316/)
 * [2025-11-14, 13:08:27](https://news.ycombinator.com/item?id=45926371) - [Weight-sparse transformers have interpretable circuits [pdf]](https://cdn.openai.com/pdf/41df8f28-d4ef-43e9-aed2-823f9393e470/circuit-sparsity-paper.pdf)
 * [2025-11-13, 11:01:49](https://news.ycombinator.com/item?id=45913432) - [An Interview with Unity CEO Matthew Bromberg About Turnarounds](https://stratechery.com/2025/an-interview-with-unity-ceo-matthew-bromberg-about-turnarounds/)
-* [2025-11-12, 15:40:11](https://news.ycombinator.com/item?id=45901499) - [Shop Sans is a typeface for curved text paths](https://www.futurefonts.com/hex/shop-sans)
 
 ## [Archives](archives/index.md)
 
