@@ -22,6 +22,7 @@
 * [2025-11-18, 18:13:30](https://news.ycombinator.com/item?id=45969909) - [I am stepping down as the CEO of Mastodon](https://blog.joinmastodon.org/2025/11/my-next-chapter-with-mastodon/)
 * [2025-11-18, 17:55:55](https://news.ycombinator.com/item?id=45969708) - [Show HN: Guts – convert Golang types to TypeScript](https://github.com/coder/guts)
 * [2025-11-18, 17:47:41](https://news.ycombinator.com/item?id=45969581) - [Google CEO: If an AI bubble pops, no one is getting out clean](https://arstechnica.com/ai/2025/11/googles-sundar-pichai-warns-of-irrationality-in-trillion-dollar-ai-investment-boom/)
+* [2025-11-18, 17:35:31](https://news.ycombinator.com/item?id=45969398) - [The Connectivity Standards Alliance Announces Zigbee 4.0 and Suzi](https://csa-iot.org/newsroom/the-connectivity-standards-alliance-announces-zigbee-4-0-and-suzi-empowering-the-next-generation-of-secure-interoperable-iot-devices/)
 * [2025-11-18, 17:24:27](https://news.ycombinator.com/item?id=45969250) - [Pebble, Rebble, and a Path Forward](https://ericmigi.com/blog/pebble-rebble-and-a-path-forward/)
 * [2025-11-18, 16:41:34](https://news.ycombinator.com/item?id=45968611) - [Strix Halo's Memory Subsystem: Tackling iGPU Challenges](https://chipsandcheese.com/p/strix-halos-memory-subsystem-tackling)
 * [2025-11-18, 16:32:16](https://news.ycombinator.com/item?id=45968461) - [Show HN: Optimizing LiteLLM with Rust – When Expectations Meet Reality](https://github.com/neul-labs/fast-litellm)
