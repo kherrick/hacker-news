@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2025-11-22](index.md)
 
+* [2025-11-22, 17:08:36](https://news.ycombinator.com/item?id=46016249) - [The privacy nightmare of browser fingerprinting](https://kevinboone.me/fingerprinting.html)
+* [2025-11-22, 16:49:15](https://news.ycombinator.com/item?id=46016074) - [Our babies were taken after 'biased' parenting test](https://www.bbc.co.uk/news/articles/c1wlw2qj113o)
 * [2025-11-22, 16:11:12](https://news.ycombinator.com/item?id=46015763) - [In a U.S. First, New Mexico Opens Doors to Free Child Care for All](https://www.wsj.com/us-news/in-a-u-s-first-new-mexico-opens-doors-to-free-child-care-for-all-2dfdea96)
+* [2025-11-22, 15:45:26](https://news.ycombinator.com/item?id=46015578) - [New Apple Study Shows LLMs Can Tell What You're Doing from Audio and Motion Data](https://9to5mac.com/2025/11/21/apple-research-llm-study-audio-motion-activity/)
 * [2025-11-22, 15:19:32](https://news.ycombinator.com/item?id=46015417) - [The Pentagon Can't Trust GPS Anymore](https://www.wsj.com/tech/the-pentagon-cant-trust-gps-anymore-is-quantum-physics-the-answer-d7b2d4e6)
 * [2025-11-22, 15:14:45](https://news.ycombinator.com/item?id=46015379) - ['The French people want to save us': help pours in for glassmaker Duralex](https://www.theguardian.com/world/2025/nov/22/french-people-want-to-save-us-help-pours-glassmaker-duralex)
 * [2025-11-22, 14:56:39](https://news.ycombinator.com/item?id=46015262) - [A looming 'insect apocalypse' could endanger global food supplies](https://www.livescience.com/animals/insects/a-looming-insect-apocalypse-could-endanger-global-food-supplies-can-we-stop-it-before-its-too-late)
