@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-11-15](index.md)
 
 * [2025-11-15, 23:55:19](https://news.ycombinator.com/item?id=45941563) - [When UPS charged me a $684 tariff on $355 of vintage computer parts](http://oldvcr.blogspot.com/2025/11/when-ups-charged-me-684-tariff-on-355.html)
+* [2025-11-15, 23:42:55](https://news.ycombinator.com/item?id=45941493) - [When functions dissolve (2020)](https://rubber-duck-typing.com/posts/2020-12-12-when-functions-dissolve.html)
 * [2025-11-15, 23:31:39](https://news.ycombinator.com/item?id=45941443) - [The inconceivable types of Rust: How to make self-borrows safe (2024)](https://blog.polybdenum.com/2024/06/07/the-inconceivable-types-of-rust-how-to-make-self-borrows-safe.html)
 * [2025-11-15, 23:30:04](https://news.ycombinator.com/item?id=45941441) - [Blocking LLM crawlers without JavaScript](https://www.owl.is/blogg/blocking-crawlers-without-javascript/)
 * [2025-11-15, 23:19:50](https://news.ycombinator.com/item?id=45941389) - [Project Fucking Sucks](https://ficd.sh/blog/your-project-sucks/)
