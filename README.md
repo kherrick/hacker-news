@@ -2,7 +2,6 @@
 
 * [2025-11-22, 05:21:53](https://news.ycombinator.com/item?id=46012328) - [Superman copy found in mum's attic is most valuable comic ever at $9.12M](https://www.bbc.com/news/articles/c8e9rp0knj6o)
 * [2025-11-22, 03:57:29](https://news.ycombinator.com/item?id=46011978) - [Moss Survives 9 Months in Space Vacuum](https://scienceclock.com/moss-survives-9-months-in-space-vacuum/)
-* [2025-11-22, 01:54:45](https://news.ycombinator.com/item?id=46011351) - [Infinibay LXD Container](https://github.com/Infinibay/lxd)
 * [2025-11-22, 00:30:26](https://news.ycombinator.com/item?id=46010806) - [Sharper MRI scans may be on horizon thanks to new physics-based model](https://news.rice.edu/news/2025/sharper-mri-scans-may-be-horizon-thanks-new-physics-based-model)
 * [2025-11-21, 23:28:40](https://news.ycombinator.com/item?id=46010329) - [How I learned Vulkan and wrote a small game engine with it (2024)](https://edw.is/learning-vulkan/)
 * [2025-11-21, 23:10:17](https://news.ycombinator.com/item?id=46010173) - [3D printing with unconventional vase mode](https://vorpal.se/posts/2025/jun/23/3d-printing-with-unconventional-vase-mode/)
@@ -30,6 +29,7 @@
 * [2025-11-15, 02:45:44](https://news.ycombinator.com/item?id=45934619) - [Samsung's 60% DRAM price hike signals a new phase of global memory tightening](https://www.buysellram.com/blog/samsungs-memory-price-surge-sends-shockwaves-through-the-global-dram-market/)
 * [2025-11-14, 15:11:13](https://news.ycombinator.com/item?id=45927520) - [Childhood Friends, Not Moms, Shape Attachment Styles Most](https://nautil.us/childhood-friends-not-moms-shape-attachment-styles-most-1247316/)
 * [2025-11-12, 15:40:11](https://news.ycombinator.com/item?id=45901499) - [Shop Sans is a typeface for curved text paths](https://www.futurefonts.com/hex/shop-sans)
+* [2025-11-11, 20:06:18](https://news.ycombinator.com/item?id=45892123) - [Single-Celled Marine Organisms Resulted in an Influential Illustrated Book](https://lithub.com/how-the-discovery-of-single-celled-marine-organisms-resulted-in-one-of-the-most-influential-illustrated-books-ever-published/)
 
 ## [Archives](archives/index.md)
 
