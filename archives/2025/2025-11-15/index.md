@@ -58,6 +58,7 @@
 * [2025-11-15, 07:27:32](https://news.ycombinator.com/item?id=45935690) - [World Othello Championship Finals](https://flipthedisc.com/live/320)
 * [2025-11-15, 07:27:21](https://news.ycombinator.com/item?id=45935687) - [A graph explorer of the Epstein emails](https://epstein-doc-explorer-1.onrender.com/)
 * [2025-11-15, 06:37:50](https://news.ycombinator.com/item?id=45935503) - [The Internet Is Cool. Thank You, TCP](https://cefboud.com/posts/tcp-deep-dive-internals/)
+* [2025-11-15, 06:27:22](https://news.ycombinator.com/item?id=45935482) - [Automating rootless Docker host updates with Ansible](https://du.nkel.dev/blog/2025-11-15_docker-rootless-ansible/)
 * [2025-11-15, 06:01:29](https://news.ycombinator.com/item?id=45935398) - [Ohm Editor](https://ohmjs.org/editor/)
 * [2025-11-15, 06:00:26](https://news.ycombinator.com/item?id=45935396) - [Adding Customizable Frame Contrast to KDE Plasma](https://akselmo.dev/posts/frame-contrast-settings/)
 * [2025-11-15, 05:44:43](https://news.ycombinator.com/item?id=45935342) - [So, you want to design your own language?](https://cs.lmu.edu/~ray/notes/languagedesignnotes/)
