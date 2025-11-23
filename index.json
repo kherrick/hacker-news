@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-11-23, 02:18:03",
+      "https://news.ycombinator.com/item?id=46020151"
+    ],
+    [
+      "GCC SC approves inclusion of Algol 68 Front End",
+      "https://gcc.gnu.org/pipermail/gcc/2025-November/247020.html"
+    ]
+  ],
+  [
+    [
+      "2025-11-23, 02:08:00",
+      "https://news.ycombinator.com/item?id=46020096"
+    ],
+    [
+      "An Economy of AI Agents",
+      "https://arxiv.org/abs/2509.01063"
+    ]
+  ],
+  [
+    [
       "2025-11-23, 01:09:47",
       "https://news.ycombinator.com/item?id=46019817"
     ],
@@ -17,6 +37,26 @@
     [
       "Germany to classify date rape drugs as weapons to ensure justice for survivors",
       "https://www.theguardian.com/society/2025/nov/21/germany-to-classify-date-drugs-as-weapons-in-attempt-to-ensure-justice-for-survivors"
+    ]
+  ],
+  [
+    [
+      "2025-11-23, 00:50:49",
+      "https://news.ycombinator.com/item?id=46019714"
+    ],
+    [
+      "A Year Without Caffeine (2013)",
+      "https://bryanalexander.org/personal/a-year-without-caffeine/"
+    ]
+  ],
+  [
+    [
+      "2025-11-23, 00:46:53",
+      "https://news.ycombinator.com/item?id=46019685"
+    ],
+    [
+      "A monopoly ISP refuses to fix upstream infrastructure",
+      "https://sacbear.com/xfinity-wont-fix-internet/"
     ]
   ],
   [
@@ -81,32 +121,12 @@
   ],
   [
     [
-      "2025-11-22, 20:54:35",
-      "https://news.ycombinator.com/item?id=46018165"
-    ],
-    [
-      "Show HN: Build the habit of writing meaningful commit messages",
-      "https://github.com/arpxspace/smartcommit"
-    ]
-  ],
-  [
-    [
       "2025-11-22, 20:54:02",
       "https://news.ycombinator.com/item?id=46018158"
     ],
     [
       "A Reverse Engineer's Anatomy of the macOS Boot Chain and Security Architecture",
       "https://stack.int.mov/a-reverse-engineers-anatomy-of-the-macos-boot-chain-security-architecture/"
-    ]
-  ],
-  [
-    [
-      "2025-11-22, 20:21:56",
-      "https://news.ycombinator.com/item?id=46017910"
-    ],
-    [
-      "The Mozilla Cycle, Part III: Mozilla Dies in Ignominy",
-      "https://taggart-tech.com/mozilla-cycle-pt3/"
     ]
   ],
   [
@@ -161,16 +181,6 @@
   ],
   [
     [
-      "2025-11-22, 17:47:23",
-      "https://news.ycombinator.com/item?id=46016613"
-    ],
-    [
-      "The realities of being a pop star",
-      "https://itscharlibb.substack.com/p/the-realities-of-being-a-pop-star"
-    ]
-  ],
-  [
-    [
       "2025-11-22, 17:08:36",
       "https://news.ycombinator.com/item?id=46016249"
     ],
@@ -221,16 +231,6 @@
   ],
   [
     [
-      "2025-11-18, 17:35:31",
-      "https://news.ycombinator.com/item?id=45969398"
-    ],
-    [
-      "The Connectivity Standards Alliance Announces Zigbee 4.0 and Suzi",
-      "https://csa-iot.org/newsroom/the-connectivity-standards-alliance-announces-zigbee-4-0-and-suzi-empowering-the-next-generation-of-secure-interoperable-iot-devices/"
-    ]
-  ],
-  [
-    [
       "2025-11-18, 16:23:57",
       "https://news.ycombinator.com/item?id=45968310"
     ],
@@ -241,12 +241,12 @@
   ],
   [
     [
-      "2025-11-17, 16:17:09",
-      "https://news.ycombinator.com/item?id=45954973"
+      "2025-11-18, 04:12:51",
+      "https://news.ycombinator.com/item?id=45961308"
     ],
     [
-      "How to see the dead",
-      "https://www.asimov.press/p/see-the-dead"
+      "SimpleMMO – How I made a hole a home (2021)",
+      "https://blog.galahadcreative.com/simplemmo-how-i-made-a-hole-a-home/"
     ]
   ],
   [
@@ -271,22 +271,22 @@
   ],
   [
     [
+      "2025-11-16, 00:38:51",
+      "https://news.ycombinator.com/item?id=45941775"
+    ],
+    [
+      "Garibaldi, History's Sexiest Revolutionary?",
+      "https://www.historyextra.com/period/victorian/historys-sexiest-revolutionary-meet-the-mesmerising-general-whose-charms-helped-win-a-war/"
+    ]
+  ],
+  [
+    [
       "2025-11-15, 22:08:28",
       "https://news.ycombinator.com/item?id=45940980"
     ],
     [
       "$1900 Bug Bounty to Fix the Lenovo Legion Pro 7 16IAX10H's Speakers on Linux",
       "https://github.com/nadimkobeissi/16iax10h-linux-sound-saga"
-    ]
-  ],
-  [
-    [
-      "2025-11-15, 17:32:35",
-      "https://news.ycombinator.com/item?id=45939036"
-    ],
-    [
-      "TiDAR: Think in Diffusion, Talk in Autoregression",
-      "https://arxiv.org/abs/2511.08923"
     ]
   ],
   [
