@@ -21,6 +21,7 @@
 * [2025-11-13, 20:14:01](https://news.ycombinator.com/item?id=45919932) - [He built underground maze of light-filled earth homes in CA Sierras [video]](https://www.youtube.com/watch?v=U0bHhmpyKGg)
 * [2025-11-13, 20:13:44](https://news.ycombinator.com/item?id=45919926) - [When 1+1+1 Equals 1](https://mathenchant.wordpress.com/2024/12/19/when-111-equals-1/)
 * [2025-11-13, 20:03:06](https://news.ycombinator.com/item?id=45919793) - [A Landscape of Knowledge Games](https://azhdarchid.com/against-metroidbrania-a-landscape-of-knowledge-games/)
+* [2025-11-13, 19:07:57](https://news.ycombinator.com/item?id=45919118) - [I Learned the Pythagorean Theorem](https://danq.me/2025/11/13/pythagorean-theorem/)
 * [2025-11-13, 19:03:26](https://news.ycombinator.com/item?id=45919067) - [SlopStop: Community-driven AI slop detection in Kagi Search](https://blog.kagi.com/slopstop)
 * [2025-11-13, 19:02:39](https://news.ycombinator.com/item?id=45919058) - [How to Grow your Startup Fast in 2025](https://founderpath.com/blog/how-to-grow-startup-growth-hacks)
 * [2025-11-13, 19:02:30](https://news.ycombinator.com/item?id=45919054) - [The Inference Economy: Why demand matters more than supply](https://frontierai.substack.com/p/the-inference-economy-part-ii)
