@@ -61,16 +61,6 @@
   ],
   [
     [
-      "2025-11-23, 00:50:49",
-      "https://news.ycombinator.com/item?id=46019714"
-    ],
-    [
-      "A year without caffeine (2013)",
-      "https://bryanalexander.org/personal/a-year-without-caffeine/"
-    ]
-  ],
-  [
-    [
       "2025-11-23, 00:46:53",
       "https://news.ycombinator.com/item?id=46019685"
     ],
@@ -91,6 +81,16 @@
   ],
   [
     [
+      "2025-11-22, 23:08:57",
+      "https://news.ycombinator.com/item?id=46019168"
+    ],
+    [
+      "How to Spot a Counterfeit Lithium-Ion Battery",
+      "https://spectrum.ieee.org/counterfeit-lithium-ion-batteries"
+    ]
+  ],
+  [
+    [
       "2025-11-22, 22:03:29",
       "https://news.ycombinator.com/item?id=46018664"
     ],
@@ -107,16 +107,6 @@
     [
       "WorldGen – Text to Immersive 3D Worlds",
       "https://www.meta.com/en-gb/blog/worldgen-3d-world-generation-reality-labs-generative-ai-research/"
-    ]
-  ],
-  [
-    [
-      "2025-11-22, 21:02:34",
-      "https://news.ycombinator.com/item?id=46018229"
-    ],
-    [
-      "Show HN: I built a wizard to turn ideas into AI coding agent-ready specs",
-      "https://vibescaffold.dev/"
     ]
   ],
   [
@@ -287,6 +277,16 @@
     [
       "$1900 Bug Bounty to Fix the Lenovo Legion Pro 7 16IAX10H's Speakers on Linux",
       "https://github.com/nadimkobeissi/16iax10h-linux-sound-saga"
+    ]
+  ],
+  [
+    [
+      "2025-11-15, 10:53:03",
+      "https://news.ycombinator.com/item?id=45936564"
+    ],
+    [
+      "Show HN: A tool to safely migrate GitHub Actions workflows to Ubuntu-slim runner",
+      "https://github.com/fchimpan/gh-slimify"
     ]
   ],
   [
