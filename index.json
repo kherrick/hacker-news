@@ -51,16 +51,6 @@
   ],
   [
     [
-      "2025-11-23, 01:00:04",
-      "https://news.ycombinator.com/item?id=46019760"
-    ],
-    [
-      "Germany to classify date rape drugs as weapons to ensure justice for survivors",
-      "https://www.theguardian.com/society/2025/nov/21/germany-to-classify-date-drugs-as-weapons-in-attempt-to-ensure-justice-for-survivors"
-    ]
-  ],
-  [
-    [
       "2025-11-23, 00:50:49",
       "https://news.ycombinator.com/item?id=46019714"
     ],
@@ -287,6 +277,16 @@
     [
       "$1900 Bug Bounty to Fix the Lenovo Legion Pro 7 16IAX10H's Speakers on Linux",
       "https://github.com/nadimkobeissi/16iax10h-linux-sound-saga"
+    ]
+  ],
+  [
+    [
+      "2025-11-15, 10:53:03",
+      "https://news.ycombinator.com/item?id=45936564"
+    ],
+    [
+      "Show HN: A tool to safely migrate GitHub Actions workflows to Ubuntu-slim runner",
+      "https://github.com/fchimpan/gh-slimify"
     ]
   ],
   [
