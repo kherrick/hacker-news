@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-11-23, 18:24:42](https://news.ycombinator.com/item?id=46025978) - [Scoop: Judge Caught Using AI to Read His Court Decisions](https://migrantinsider.com/p/scoop-judge-caught-using-ai-to-read)
 * [2025-11-23, 18:20:27](https://news.ycombinator.com/item?id=46025942) - [Fran Sans – font inspired by San Francisco light rail displays](https://emilysneddon.com/fran-sans-essay)
 * [2025-11-23, 17:55:11](https://news.ycombinator.com/item?id=46025721) - [Native Secure Enclave backed SSH keys on macOS](https://gist.github.com/arianvp/5f59f1783e3eaf1a2d4cd8e952bb4acf)
 * [2025-11-23, 17:38:28](https://news.ycombinator.com/item?id=46025477) - [SVG.js v3.2](https://svgjs.dev/docs/3.2/)
@@ -13,6 +12,7 @@
 * [2025-11-23, 14:59:38](https://news.ycombinator.com/item?id=46024032) - [Editing Code in Emacs](https://redpenguin101.github.io/html/posts/2025_11_23_emacs_for_code_editing.html)
 * [2025-11-23, 13:43:24](https://news.ycombinator.com/item?id=46023531) - [Tosijs-schema is a super lightweight schema-first LLM-native JSON schema library](https://www.npmjs.com/package/tosijs-schema)
 * [2025-11-23, 13:35:27](https://news.ycombinator.com/item?id=46023460) - [Racket v9.0](https://blog.racket-lang.org/2025/11/racket-v9-0.html)
+* [2025-11-23, 13:10:27](https://news.ycombinator.com/item?id=46023286) - [Gordon Bell finalist team pushes scale of rocket simulation on El Capitan](https://www.llnl.gov/article/53626/gordon-bell-finalist-team-pushes-scale-rocket-simulation-el-capitan)
 * [2025-11-23, 12:26:30](https://news.ycombinator.com/item?id=46023013) - [Shaders: How to draw high fidelity graphics with just x and y coordinates](https://www.makingsoftware.com/chapters/shaders)
 * [2025-11-23, 08:40:41](https://news.ycombinator.com/item?id=46021825) - [After my dad died, we found the love letters](https://www.jenn.site/after-my-dad-died-we-found-the-love-letters/)
 * [2025-11-23, 03:33:42](https://news.ycombinator.com/item?id=46020543) - [Unusual circuits in the Intel 386's standard cell logic](https://www.righto.com/2025/11/unusual-386-standard-cell-circuits.html)
