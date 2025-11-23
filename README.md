@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-11-23, 22:36:07](https://news.ycombinator.com/item?id=46028046) - [Liva AI (YC S25) Is Hiring](https://www.ycombinator.com/companies/liva-ai/jobs/fYP8QP8-growth-intern)
+* [2025-11-23, 22:06:44](https://news.ycombinator.com/item?id=46027833) - [Iowa City Made Its Buses Free. Traffic Cleared, and So Did the Air](https://www.nytimes.com/2025/11/18/climate/iowa-city-free-buses.html)
 * [2025-11-23, 21:54:32](https://news.ycombinator.com/item?id=46027722) - [Particle Life – Sandbox Science](https://sandbox-science.com/particle-life)
 * [2025-11-23, 20:58:35](https://news.ycombinator.com/item?id=46027265) - [AI Content Pipeline: My Experience](https://techlife.blog/posts/ai-content-pipeline/)
 * [2025-11-23, 20:56:23](https://news.ycombinator.com/item?id=46027245) - [Lead magnet creation for blue collar SaaS](https://estimatekit.com/free-templates)
@@ -8,7 +10,6 @@
 * [2025-11-23, 18:20:27](https://news.ycombinator.com/item?id=46025942) - [Fran Sans – font inspired by San Francisco light rail displays](https://emilysneddon.com/fran-sans-essay)
 * [2025-11-23, 17:55:11](https://news.ycombinator.com/item?id=46025721) - [Native Secure Enclave backed SSH keys on macOS](https://gist.github.com/arianvp/5f59f1783e3eaf1a2d4cd8e952bb4acf)
 * [2025-11-23, 17:38:28](https://news.ycombinator.com/item?id=46025477) - [SVG.js v3.2](https://svgjs.dev/docs/3.2/)
-* [2025-11-23, 17:01:04](https://news.ycombinator.com/item?id=46025055) - [HumanLayer (YC F24) Is Hiring Founding Engineers](https://www.ycombinator.com/companies/humanlayer/jobs/oBCZzc7-founding-product-engineer)
 * [2025-11-23, 16:31:50](https://news.ycombinator.com/item?id=46024773) - [Calculus for Mathematicians, Computer Scientists, and Physicists [pdf]](https://mathcs.holycross.edu/~ahwang/print/calc.pdf)
 * [2025-11-23, 16:12:06](https://news.ycombinator.com/item?id=46024584) - [Mount Proton Drive on Linux using rclone and systemd](https://github.com/dadtronics/protondrive-linux)
 * [2025-11-23, 15:18:00](https://news.ycombinator.com/item?id=46024184) - [Court filings allege Meta downplayed risks to children and misled the public](https://time.com/7336204/meta-lawsuit-files-child-safety/)
@@ -22,7 +23,6 @@
 * [2025-11-23, 00:46:53](https://news.ycombinator.com/item?id=46019685) - [A monopoly ISP refuses to fix upstream infrastructure](https://sacbear.com/xfinity-wont-fix-internet/)
 * [2025-11-22, 20:27:41](https://news.ycombinator.com/item?id=46017972) - [Terence Tao: At the Erdos problem website, AI assistance now becoming routine](https://mathstodon.xyz/@tao/115591487350860999)
 * [2025-11-21, 22:48:39](https://news.ycombinator.com/item?id=46009962) - [A time-travelling door bug in Half Life 2](https://mastodon.gamedev.place/@TomF/115589875974658415)
-* [2025-11-19, 13:36:43](https://news.ycombinator.com/item?id=45979357) - [Forever Object: The Staple-Less Oceanus Brass Stapler](https://www.core77.com/posts/139027/Forever-Object-The-Staple-less-Oceanus-Brass-Stapler)
 * [2025-11-18, 12:47:04](https://news.ycombinator.com/item?id=45964956) - [Show HN: Gitlogue – A terminal tool that replays your Git commits with animation](https://github.com/unhappychoice/gitlogue)
 * [2025-11-17, 20:28:32](https://news.ycombinator.com/item?id=45957911) - [Almost all Collatz orbits attain almost bounded values](https://mathvideos.org/2023/terence-tao-almost-all-collatz-orbits-attain-almost-bounded-values/)
 * [2025-11-17, 18:41:35](https://news.ycombinator.com/item?id=45956542) - [Pyrotechnic Display Design Software](https://github.com/giuseppe-coco/FireShow)

@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-11-23](index.md)
 
+* [2025-11-23, 22:36:07](https://news.ycombinator.com/item?id=46028046) - [Liva AI (YC S25) Is Hiring](https://www.ycombinator.com/companies/liva-ai/jobs/fYP8QP8-growth-intern)
+* [2025-11-23, 22:06:44](https://news.ycombinator.com/item?id=46027833) - [Iowa City Made Its Buses Free. Traffic Cleared, and So Did the Air](https://www.nytimes.com/2025/11/18/climate/iowa-city-free-buses.html)
 * [2025-11-23, 21:54:32](https://news.ycombinator.com/item?id=46027722) - [Particle Life – Sandbox Science](https://sandbox-science.com/particle-life)
 * [2025-11-23, 21:01:26](https://news.ycombinator.com/item?id=46027290) - [Meet the AI workers who tell their friends and family to stay away from AI](https://www.theguardian.com/technology/2025/nov/22/ai-workers-tell-family-stay-away)
 * [2025-11-23, 20:58:35](https://news.ycombinator.com/item?id=46027265) - [AI Content Pipeline: My Experience](https://techlife.blog/posts/ai-content-pipeline/)
