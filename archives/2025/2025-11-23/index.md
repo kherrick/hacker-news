@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-11-23](index.md)
 
+* [2025-11-23, 21:01:26](https://news.ycombinator.com/item?id=46027290) - [Meet the AI workers who tell their friends and family to stay away from AI](https://www.theguardian.com/technology/2025/nov/22/ai-workers-tell-family-stay-away)
 * [2025-11-23, 20:16:04](https://news.ycombinator.com/item?id=46026939) - [\"Good engineering management\" is a fad](https://lethain.com/good-eng-mgmt-is-a-fad/)
 * [2025-11-23, 20:14:46](https://news.ycombinator.com/item?id=46026919) - [I Let Claude Build My Home Network: Two ISPs Bonded, $312/Year Saved](https://jonathanclark.com/posts/bonded-internet-connection-ai.html)
 * [2025-11-23, 19:57:33](https://news.ycombinator.com/item?id=46026764) - [Thiel, Karp, Ellison, Catz, Bezos, Lessin appear in newly leaked Israel emails](https://sfstandard.com/2025/11/23/extended-courtship-linking-jeffrey-epstein-peter-thiel-israeli-officials/)
