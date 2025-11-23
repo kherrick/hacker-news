@@ -6,7 +6,7 @@
 * [2025-11-23, 02:08:00](https://news.ycombinator.com/item?id=46020096) - [An Economy of AI Agents](https://arxiv.org/abs/2509.01063)
 * [2025-11-23, 01:09:47](https://news.ycombinator.com/item?id=46019817) - [Meta buried 'causal' evidence of social media harm, US court filings allege](https://www.reuters.com/sustainability/boards-policy-regulation/meta-buried-causal-evidence-social-media-harm-us-court-filings-allege-2025-11-23/)
 * [2025-11-23, 01:00:04](https://news.ycombinator.com/item?id=46019760) - [Germany to classify date rape drugs as weapons to ensure justice for survivors](https://www.theguardian.com/society/2025/nov/21/germany-to-classify-date-drugs-as-weapons-in-attempt-to-ensure-justice-for-survivors)
-* [2025-11-23, 00:50:49](https://news.ycombinator.com/item?id=46019714) - [A Year Without Caffeine (2013)](https://bryanalexander.org/personal/a-year-without-caffeine/)
+* [2025-11-23, 00:50:49](https://news.ycombinator.com/item?id=46019714) - [A year without caffeine (2013)](https://bryanalexander.org/personal/a-year-without-caffeine/)
 * [2025-11-23, 00:46:53](https://news.ycombinator.com/item?id=46019685) - [A monopoly ISP refuses to fix upstream infrastructure](https://sacbear.com/xfinity-wont-fix-internet/)
 * [2025-11-23, 00:35:27](https://news.ycombinator.com/item?id=46019636) - [NTSB report: Decryption of images from the Titan submersible camera [pdf]](https://data.ntsb.gov/Docket/Document/docBLOB?ID=18741602&FileExtension=pdf&FileName=Underwater%20Camera%20-%20Specialist%27s%20Factual%20Report-Rel.pdf)
 * [2025-11-22, 23:08:57](https://news.ycombinator.com/item?id=46019168) - [How to Spot a Counterfeit Lithium-Ion Battery](https://spectrum.ieee.org/counterfeit-lithium-ion-batteries)
@@ -26,10 +26,10 @@
 * [2025-11-19, 19:47:31](https://news.ycombinator.com/item?id=45984173) - [The Boring Part of Bell Labs](https://elizabethvannostrand.substack.com/p/the-boring-part-of-bell-labs)
 * [2025-11-18, 16:23:57](https://news.ycombinator.com/item?id=45968310) - [TIL: `satisfies` is my favorite TypeScript keyword](https://sjer.red/blog/2024-12-21/)
 * [2025-11-18, 04:12:51](https://news.ycombinator.com/item?id=45961308) - [SimpleMMO – How I made a hole a home (2021)](https://blog.galahadcreative.com/simplemmo-how-i-made-a-hole-a-home/)
-* [2025-11-17, 03:46:19](https://news.ycombinator.com/item?id=45950686) - [Digital echoes: open bus behavior on the compact Macintosh](https://thomasw.dev/post/compact-mac-openbus/)
 * [2025-11-17, 03:20:53](https://news.ycombinator.com/item?id=45950594) - [Tektronix equipment has been used in many movies and shows](https://vintagetek.org/tektronix-in-movies-shows/)
 * [2025-11-16, 00:38:51](https://news.ycombinator.com/item?id=45941775) - [Garibaldi, History's Sexiest Revolutionary?](https://www.historyextra.com/period/victorian/historys-sexiest-revolutionary-meet-the-mesmerising-general-whose-charms-helped-win-a-war/)
 * [2025-11-15, 22:08:28](https://news.ycombinator.com/item?id=45940980) - [$1900 Bug Bounty to Fix the Lenovo Legion Pro 7 16IAX10H's Speakers on Linux](https://github.com/nadimkobeissi/16iax10h-linux-sound-saga)
+* [2025-11-11, 18:53:45](https://news.ycombinator.com/item?id=45891265) - [\"Spaghetti-Grows-on-Trees\" Hoax: One of TV's First April Fools' Pranks](https://www.openculture.com/2025/11/the-1957-spaghetti-grows-on-trees-hoax.html)
 
 ## [Archives](archives/index.md)
 
