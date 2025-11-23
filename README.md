@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-11-23, 15:37:04](https://news.ycombinator.com/item?id=46024328) - [Inmates at a Mississippi jail were ordered to do the guards' bidding](https://www.nytimes.com/2025/11/14/us/mississippi-jail-inmates-rankin-county.html)
 * [2025-11-23, 15:02:39](https://news.ycombinator.com/item?id=46024062) - [UK minister ducks cost questions on nationwide digital ID scheme](https://www.theregister.com/2025/11/21/uk_digital_id_costs_uncertain/)
 * [2025-11-23, 13:43:24](https://news.ycombinator.com/item?id=46023531) - [Tosijs-schema is a super lightweight schema-first LLM-native JSON schema library](https://www.npmjs.com/package/tosijs-schema)
 * [2025-11-23, 13:35:27](https://news.ycombinator.com/item?id=46023460) - [Racket v9.0](https://blog.racket-lang.org/2025/11/racket-v9-0.html)
@@ -15,12 +16,12 @@
 * [2025-11-23, 00:46:53](https://news.ycombinator.com/item?id=46019685) - [A monopoly ISP refuses to fix upstream infrastructure](https://sacbear.com/xfinity-wont-fix-internet/)
 * [2025-11-23, 00:35:27](https://news.ycombinator.com/item?id=46019636) - [NTSB report: Decryption of images from the Titan submersible camera [pdf] (2024)](https://data.ntsb.gov/Docket/Document/docBLOB?ID=18741602&FileExtension=pdf&FileName=Underwater%20Camera%20-%20Specialist%27s%20Factual%20Report-Rel.pdf)
 * [2025-11-22, 21:20:24](https://news.ycombinator.com/item?id=46018380) - [WorldGen – Text to Immersive 3D Worlds](https://www.meta.com/en-gb/blog/worldgen-3d-world-generation-reality-labs-generative-ai-research/)
-* [2025-11-22, 20:03:14](https://news.ycombinator.com/item?id=46017782) - [Markdown is holding you back](https://newsletter.bphogan.com/archive/issue-45-markdown-is-holding-you-back/)
 * [2025-11-22, 18:47:08](https://news.ycombinator.com/item?id=46017175) - [Show HN: Forty.News – Daily news, but on a 40-year delay](https://forty.news)
 * [2025-11-22, 17:08:36](https://news.ycombinator.com/item?id=46016249) - [The privacy nightmare of browser fingerprinting](https://kevinboone.me/fingerprinting.html)
 * [2025-11-21, 20:02:45](https://news.ycombinator.com/item?id=46008332) - [We Induced Smells With Ultrasound](https://writetobrain.com/olfactory)
 * [2025-11-20, 12:47:41](https://news.ycombinator.com/item?id=45992035) - [Ubuntu LTS releases to 15 years with Legacy add-on](https://canonical.com/blog/canonical-expands-total-coverage-for-ubuntu-lts-releases-to-15-years-with-legacy-add-on)
 * [2025-11-19, 19:47:31](https://news.ycombinator.com/item?id=45984173) - [The Boring Part of Bell Labs](https://elizabethvannostrand.substack.com/p/the-boring-part-of-bell-labs)
+* [2025-11-19, 08:06:15](https://news.ycombinator.com/item?id=45976999) - [Asymptotically optimal approximate Hadamard matrices](https://arxiv.org/abs/2511.14653)
 * [2025-11-19, 01:57:37](https://news.ycombinator.com/item?id=45974977) - [First kiss dates back 21M years](https://www.bbc.com/news/articles/cr43gq61g2qo)
 * [2025-11-18, 16:23:57](https://news.ycombinator.com/item?id=45968310) - [`satisfies` is my favorite TypeScript keyword (2024)](https://sjer.red/blog/2024-12-21/)
 * [2025-11-18, 11:33:39](https://news.ycombinator.com/item?id=45963768) - [Typechecking is undecideable when 'type' is a type (1989) [pdf]](https://dspace.mit.edu/bitstream/handle/1721.1/149366/MIT-LCS-TR-458.pdf)
@@ -29,7 +30,6 @@
 * [2025-11-15, 22:08:28](https://news.ycombinator.com/item?id=45940980) - [$1900 Bug Bounty to Fix the Lenovo Legion Pro 7 16IAX10H's Speakers on Linux](https://github.com/nadimkobeissi/16iax10h-linux-sound-saga)
 * [2025-11-12, 00:31:46](https://news.ycombinator.com/item?id=45894872) - [CERN Council reviews feasibility study for a next-generation collider](https://home.cern/news/press-release/accelerators/cern-council-reviews-feasibility-study-next-generation-collider)
 * [2025-11-11, 19:52:26](https://news.ycombinator.com/item?id=45891961) - [Antic Magazine Interviews Alan Reeve, the Creator of the Diamond OS (1990)](https://computeradsfromthepast.substack.com/p/antic-magazine-interviews-alan-reeve)
-* [2025-11-11, 18:53:45](https://news.ycombinator.com/item?id=45891265) - [The 1957 “Spaghetti-Grows-on-Trees” Hoax](https://www.openculture.com/2025/11/the-1957-spaghetti-grows-on-trees-hoax.html)
 
 ## [Archives](archives/index.md)
 
