@@ -23,6 +23,7 @@
 * [2025-11-13, 20:03:06](https://news.ycombinator.com/item?id=45919793) - [A Landscape of Knowledge Games](https://azhdarchid.com/against-metroidbrania-a-landscape-of-knowledge-games/)
 * [2025-11-13, 19:03:26](https://news.ycombinator.com/item?id=45919067) - [SlopStop: Community-driven AI slop detection in Kagi Search](https://blog.kagi.com/slopstop)
 * [2025-11-13, 19:02:39](https://news.ycombinator.com/item?id=45919058) - [How to Grow your Startup Fast in 2025](https://founderpath.com/blog/how-to-grow-startup-growth-hacks)
+* [2025-11-13, 19:02:30](https://news.ycombinator.com/item?id=45919054) - [The Inference Economy: Why demand matters more than supply](https://frontierai.substack.com/p/the-inference-economy-part-ii)
 * [2025-11-13, 18:46:16](https://news.ycombinator.com/item?id=45918802) - [GPT-5.1 for Developers](https://openai.com/index/gpt-5-1-for-developers/)
 * [2025-11-13, 18:41:33](https://news.ycombinator.com/item?id=45918732) - [IBM Patented Euler's 200 Year Old Math Technique for 'AI Interpretability'](https://leetarxiv.substack.com/p/ibm-patented-eulers-fractions)
 * [2025-11-13, 18:34:12](https://news.ycombinator.com/item?id=45918638) - [Disrupting the first reported AI-orchestrated cyber espionage campaign](https://www.anthropic.com/news/disrupting-AI-espionage)
