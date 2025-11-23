@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-11-23, 17:01:04",
+      "https://news.ycombinator.com/item?id=46025055"
+    ],
+    [
+      "HumanLayer (YC F24) Is Hiring Founding Engineers",
+      "https://www.ycombinator.com/companies/humanlayer/jobs/oBCZzc7-founding-product-engineer"
+    ]
+  ],
+  [
+    [
       "2025-11-23, 16:31:50",
       "https://news.ycombinator.com/item?id=46024773"
     ],
@@ -11,22 +21,32 @@
   ],
   [
     [
+      "2025-11-23, 16:30:16",
+      "https://news.ycombinator.com/item?id=46024754"
+    ],
+    [
+      "Raycast for Windows Is Here",
+      "https://www.raycast.com/blog/raycast-for-windows"
+    ]
+  ],
+  [
+    [
+      "2025-11-23, 16:30:08",
+      "https://news.ycombinator.com/item?id=46024753"
+    ],
+    [
+      "Ask HN: Good resources to learn financial systems engineering?",
+      "https://news.ycombinator.com/item?id=46024753"
+    ]
+  ],
+  [
+    [
       "2025-11-23, 16:17:57",
       "https://news.ycombinator.com/item?id=46024644"
     ],
     [
       "73% of AI startups are just prompt engineering",
       "https://pub.towardsai.net/i-reverse-engineered-200-ai-startups-73-are-lying-a8610acab0d3"
-    ]
-  ],
-  [
-    [
-      "2025-11-23, 15:37:04",
-      "https://news.ycombinator.com/item?id=46024328"
-    ],
-    [
-      "Inmates at a Mississippi jail were ordered to do the guards' bidding",
-      "https://www.nytimes.com/2025/11/14/us/mississippi-jail-inmates-rankin-county.html"
     ]
   ],
   [
@@ -47,6 +67,16 @@
     [
       "UK minister ducks cost questions on nationwide digital ID scheme",
       "https://www.theregister.com/2025/11/21/uk_digital_id_costs_uncertain/"
+    ]
+  ],
+  [
+    [
+      "2025-11-23, 14:58:29",
+      "https://news.ycombinator.com/item?id=46024023"
+    ],
+    [
+      "Gnome is better macOS than macOS",
+      "https://andreyor.st/posts/2025-11-23-gnome-is-better-macos-than-macos/"
     ]
   ],
   [
@@ -87,16 +117,6 @@
     [
       "Shaders: How to draw high fidelity graphics with just x and y coordinates",
       "https://www.makingsoftware.com/chapters/shaders"
-    ]
-  ],
-  [
-    [
-      "2025-11-23, 12:03:06",
-      "https://news.ycombinator.com/item?id=46022892"
-    ],
-    [
-      "Deepnote (YC S19) is hiring engineers to build a better Jupyter notebook",
-      "https://deepnote.com/join-us"
     ]
   ],
   [
@@ -241,16 +261,6 @@
   ],
   [
     [
-      "2025-11-18, 16:23:57",
-      "https://news.ycombinator.com/item?id=45968310"
-    ],
-    [
-      "`satisfies` is my favorite TypeScript keyword (2024)",
-      "https://sjer.red/blog/2024-12-21/"
-    ]
-  ],
-  [
-    [
       "2025-11-18, 11:33:39",
       "https://news.ycombinator.com/item?id=45963768"
     ],
@@ -277,16 +287,6 @@
     [
       "sit: Create StuffIt archives on Unix systems",
       "https://github.com/thecloudexpanse/sit"
-    ]
-  ],
-  [
-    [
-      "2025-11-15, 22:08:28",
-      "https://news.ycombinator.com/item?id=45940980"
-    ],
-    [
-      "$1900 Bug Bounty to Fix the Lenovo Legion Pro 7 16IAX10H's Speakers on Linux",
-      "https://github.com/nadimkobeissi/16iax10h-linux-sound-saga"
     ]
   ],
   [
