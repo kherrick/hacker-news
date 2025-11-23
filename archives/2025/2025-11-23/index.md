@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-11-23](index.md)
 
 * [2025-11-23, 17:01:04](https://news.ycombinator.com/item?id=46025055) - [HumanLayer (YC F24) Is Hiring Founding Engineers](https://www.ycombinator.com/companies/humanlayer/jobs/oBCZzc7-founding-product-engineer)
+* [2025-11-23, 16:45:33](https://news.ycombinator.com/item?id=46024894) - [Dark Mode Sucks](https://www.tomechangosubanana.com/2025/dark-mode-sucks/)
 * [2025-11-23, 16:31:50](https://news.ycombinator.com/item?id=46024773) - [Calculus for Mathematicians, Computer Scientists, and Physicists [pdf]](https://mathcs.holycross.edu/~ahwang/print/calc.pdf)
 * [2025-11-23, 16:30:16](https://news.ycombinator.com/item?id=46024754) - [Raycast for Windows Is Here](https://www.raycast.com/blog/raycast-for-windows)
 * [2025-11-23, 16:30:08](https://news.ycombinator.com/item?id=46024753) - [Ask HN: Good resources to learn financial systems engineering?](https://news.ycombinator.com/item?id=46024753)

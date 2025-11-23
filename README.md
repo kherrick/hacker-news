@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-11-23, 17:01:04](https://news.ycombinator.com/item?id=46025055) - [HumanLayer (YC F24) Is Hiring Founding Engineers](https://www.ycombinator.com/companies/humanlayer/jobs/oBCZzc7-founding-product-engineer)
+* [2025-11-23, 16:45:33](https://news.ycombinator.com/item?id=46024894) - [Dark Mode Sucks](https://www.tomechangosubanana.com/2025/dark-mode-sucks/)
 * [2025-11-23, 16:31:50](https://news.ycombinator.com/item?id=46024773) - [Calculus for Mathematicians, Computer Scientists, and Physicists [pdf]](https://mathcs.holycross.edu/~ahwang/print/calc.pdf)
 * [2025-11-23, 16:30:16](https://news.ycombinator.com/item?id=46024754) - [Raycast for Windows Is Here](https://www.raycast.com/blog/raycast-for-windows)
 * [2025-11-23, 16:30:08](https://news.ycombinator.com/item?id=46024753) - [Ask HN: Good resources to learn financial systems engineering?](https://news.ycombinator.com/item?id=46024753)
@@ -24,7 +25,6 @@
 * [2025-11-21, 20:02:45](https://news.ycombinator.com/item?id=46008332) - [We Induced Smells With Ultrasound](https://writetobrain.com/olfactory)
 * [2025-11-20, 12:47:41](https://news.ycombinator.com/item?id=45992035) - [Ubuntu LTS releases to 15 years with Legacy add-on](https://canonical.com/blog/canonical-expands-total-coverage-for-ubuntu-lts-releases-to-15-years-with-legacy-add-on)
 * [2025-11-19, 19:47:31](https://news.ycombinator.com/item?id=45984173) - [The Boring Part of Bell Labs](https://elizabethvannostrand.substack.com/p/the-boring-part-of-bell-labs)
-* [2025-11-19, 08:06:15](https://news.ycombinator.com/item?id=45976999) - [Asymptotically optimal approximate Hadamard matrices](https://arxiv.org/abs/2511.14653)
 * [2025-11-19, 01:57:37](https://news.ycombinator.com/item?id=45974977) - [First kiss dates back 21M years](https://www.bbc.com/news/articles/cr43gq61g2qo)
 * [2025-11-18, 11:33:39](https://news.ycombinator.com/item?id=45963768) - [Typechecking is undecideable when 'type' is a type (1989) [pdf]](https://dspace.mit.edu/bitstream/handle/1721.1/149366/MIT-LCS-TR-458.pdf)
 * [2025-11-17, 20:28:32](https://news.ycombinator.com/item?id=45957911) - [Almost all Collatz orbits attain almost bounded values](https://mathvideos.org/2023/terence-tao-almost-all-collatz-orbits-attain-almost-bounded-values/)
