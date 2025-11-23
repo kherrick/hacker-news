@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-11-23, 03:47:17",
+      "https://news.ycombinator.com/item?id=46020596"
+    ],
+    [
+      "Cryptographers Held an Election. They Can't Decrypt the Results",
+      "https://www.nytimes.com/2025/11/21/world/cryptography-group-lost-election-results.html"
+    ]
+  ],
+  [
+    [
+      "2025-11-23, 03:33:42",
+      "https://news.ycombinator.com/item?id=46020543"
+    ],
+    [
+      "Unusual circuits in the Intel 386's standard cell logic",
+      "https://www.righto.com/2025/11/unusual-386-standard-cell-circuits.html"
+    ]
+  ],
+  [
+    [
       "2025-11-23, 02:18:03",
       "https://news.ycombinator.com/item?id=46020151"
     ],
@@ -127,16 +147,6 @@
     [
       "A Reverse Engineer's Anatomy of the macOS Boot Chain and Security Architecture",
       "https://stack.int.mov/a-reverse-engineers-anatomy-of-the-macos-boot-chain-security-architecture/"
-    ]
-  ],
-  [
-    [
-      "2025-11-22, 20:09:48",
-      "https://news.ycombinator.com/item?id=46017821"
-    ],
-    [
-      "Data General History by Foster",
-      "http://www.teamfoster.com/billteamfostercom"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "$1900 Bug Bounty to Fix the Lenovo Legion Pro 7 16IAX10H's Speakers on Linux",
       "https://github.com/nadimkobeissi/16iax10h-linux-sound-saga"
-    ]
-  ],
-  [
-    [
-      "2025-11-15, 10:53:03",
-      "https://news.ycombinator.com/item?id=45936564"
-    ],
-    [
-      "Show HN: A tool to safely migrate GitHub Actions workflows to Ubuntu-slim runner",
-      "https://github.com/fchimpan/gh-slimify"
     ]
   ]
 ]
