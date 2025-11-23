@@ -5,8 +5,11 @@
 ### [Archives](../../index.md) for [2025-11-23](index.md)
 
 * [2025-11-23, 20:16:04](https://news.ycombinator.com/item?id=46026939) - [\"Good engineering management\" is a fad](https://lethain.com/good-eng-mgmt-is-a-fad/)
+* [2025-11-23, 19:57:33](https://news.ycombinator.com/item?id=46026764) - [Thiel, Karp, Ellison, Catz, Bezos, Lessin appear in newly leaked Israel emails](https://sfstandard.com/2025/11/23/extended-courtship-linking-jeffrey-epstein-peter-thiel-israeli-officials/)
+* [2025-11-23, 19:38:15](https://news.ycombinator.com/item?id=46026579) - [780k Windows Users Downloaded Linux Distro Zorin OS in the Last 5 Weeks](https://blog.zorin.com/2025/11/18/test-the-upgrade-from-zorin-os-17-to-18-and-celebrating-1-million-downloads-of-zorin-os-18/loaded-this-linux-distro-in-a-month/)
 * [2025-11-23, 18:24:42](https://news.ycombinator.com/item?id=46025978) - [Scoop: Judge Caught Using AI to Read His Court Decisions](https://migrantinsider.com/p/scoop-judge-caught-using-ai-to-read)
 * [2025-11-23, 18:20:27](https://news.ycombinator.com/item?id=46025942) - [Fran Sans – font inspired by San Francisco light rail displays](https://emilysneddon.com/fran-sans-essay)
+* [2025-11-23, 18:19:27](https://news.ycombinator.com/item?id=46025933) - [Apple to focus on 'quality and underlying performance' with iOS 27 next year](https://9to5mac.com/2025/11/23/apple-focusing-on-software-quality-improvements-ios-27-next-year-report/)
 * [2025-11-23, 17:55:11](https://news.ycombinator.com/item?id=46025721) - [Native Secure Enclave backed SSH keys on macOS](https://gist.github.com/arianvp/5f59f1783e3eaf1a2d4cd8e952bb4acf)
 * [2025-11-23, 17:38:28](https://news.ycombinator.com/item?id=46025477) - [SVG.js v3.2](https://svgjs.dev/docs/3.2/)
 * [2025-11-23, 17:14:41](https://news.ycombinator.com/item?id=46025196) - [Are consumers just tech debt to Microsoft?](https://birchtree.me/blog/are-consumers-just-tech-debt-to-microsoft/)
