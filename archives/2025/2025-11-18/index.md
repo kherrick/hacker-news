@@ -58,6 +58,7 @@
 * [2025-11-18, 10:59:54](https://news.ycombinator.com/item?id=45963583) - [The Miracle of Wörgl](https://scf.green/story-of-worgl-and-others/)
 * [2025-11-18, 10:17:20](https://news.ycombinator.com/item?id=45963350) - [Okta's NextJS-0auth troubles](https://joshua.hu/ai-slop-okta-nextjs-0auth-security-vulnerability)
 * [2025-11-18, 09:44:51](https://news.ycombinator.com/item?id=45963156) - [Trump, 79, Has Dementia Just Like His Father: Niece](https://vechron.com/2025/11/trump-has-dementia-just-like-his-father-says-niece/)
+* [2025-11-18, 09:38:48](https://news.ycombinator.com/item?id=45963116) - [Take a Look the First Musical Robot](https://egodai.com/)
 * [2025-11-18, 09:17:17](https://news.ycombinator.com/item?id=45963025) - [Don't blindly trust what AI tells you, says Google's Sundar Pichai](https://www.bbc.com/news/articles/c8drzv37z4jo)
 * [2025-11-18, 09:14:22](https://news.ycombinator.com/item?id=45963006) - [Do (human) readers prefer AI writers?](https://marginalrevolution.com/marginalrevolution/2025/11/do-readers-prefer-ai-writers.html)
 * [2025-11-18, 09:13:13](https://news.ycombinator.com/item?id=45963001) - [Comparing Android Alternatives: Lineage OS, ∕E∕OS, and Graphene OS](https://kevinboone.me/lineage-eos-graphene.html)
