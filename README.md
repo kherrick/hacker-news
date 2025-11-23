@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-11-23, 22:36:07](https://news.ycombinator.com/item?id=46028046) - [Liva AI (YC S25) Is Hiring](https://www.ycombinator.com/companies/liva-ai/jobs/fYP8QP8-growth-intern)
+* [2025-11-23, 22:33:34](https://news.ycombinator.com/item?id=46028033) - [Sunsetting Supermaven](https://supermaven.com/blog/sunsetting-supermaven)
+* [2025-11-23, 22:24:23](https://news.ycombinator.com/item?id=46027947) - [A desktop app for isolated, parallel agentic development](https://github.com/coder/mux)
 * [2025-11-23, 22:06:44](https://news.ycombinator.com/item?id=46027833) - [Iowa City Made Its Buses Free. Traffic Cleared, and So Did the Air](https://www.nytimes.com/2025/11/18/climate/iowa-city-free-buses.html)
 * [2025-11-23, 21:54:32](https://news.ycombinator.com/item?id=46027722) - [Particle Life – Sandbox Science](https://sandbox-science.com/particle-life)
 * [2025-11-23, 21:52:48](https://news.ycombinator.com/item?id=46027709) - [Rust is a disappointment](https://bykozy.me/blog/rust-is-a-disappointment/)
@@ -18,7 +20,6 @@
 * [2025-11-23, 08:40:41](https://news.ycombinator.com/item?id=46021825) - [After my dad died, we found the love letters](https://www.jenn.site/after-my-dad-died-we-found-the-love-letters/)
 * [2025-11-23, 03:33:42](https://news.ycombinator.com/item?id=46020543) - [Unusual circuits in the Intel 386's standard cell logic](https://www.righto.com/2025/11/unusual-386-standard-cell-circuits.html)
 * [2025-11-23, 03:27:04](https://news.ycombinator.com/item?id=46020502) - [MCP Apps: Extending servers with interactive user interfaces](http://blog.modelcontextprotocol.io/posts/2025-11-21-mcp-apps/)
-* [2025-11-23, 02:18:03](https://news.ycombinator.com/item?id=46020151) - [GCC SC approves inclusion of Algol 68 Front End](https://gcc.gnu.org/pipermail/gcc/2025-November/247020.html)
 * [2025-11-23, 00:46:53](https://news.ycombinator.com/item?id=46019685) - [A monopoly ISP refuses to fix upstream infrastructure](https://sacbear.com/xfinity-wont-fix-internet/)
 * [2025-11-22, 20:27:41](https://news.ycombinator.com/item?id=46017972) - [Terence Tao: At the Erdos problem website, AI assistance now becoming routine](https://mathstodon.xyz/@tao/115591487350860999)
 * [2025-11-21, 22:48:39](https://news.ycombinator.com/item?id=46009962) - [A time-travelling door bug in Half Life 2](https://mastodon.gamedev.place/@TomF/115589875974658415)
@@ -29,7 +30,6 @@
 * [2025-11-16, 00:38:51](https://news.ycombinator.com/item?id=45941775) - [Garibaldi, history's sexiest revolutionary?](https://www.historyextra.com/period/victorian/historys-sexiest-revolutionary-meet-the-mesmerising-general-whose-charms-helped-win-a-war/)
 * [2025-11-14, 00:32:40](https://news.ycombinator.com/item?id=45922514) - [Spectral rendering, part 2: Real-time rendering](https://momentsingraphics.de/SpectralRendering2Rendering.html)
 * [2025-11-13, 19:07:57](https://news.ycombinator.com/item?id=45919118) - [I Learned the Pythagorean Theorem](https://danq.me/2025/11/13/pythagorean-theorem/)
-* [2025-11-13, 19:02:30](https://news.ycombinator.com/item?id=45919054) - [The Inference Economy: Why demand matters more than supply](https://frontierai.substack.com/p/the-inference-economy-part-ii)
 
 ## [Archives](archives/index.md)
 

@@ -5,6 +5,8 @@
 ### [Archives](../../index.md) for [2025-11-23](index.md)
 
 * [2025-11-23, 22:36:07](https://news.ycombinator.com/item?id=46028046) - [Liva AI (YC S25) Is Hiring](https://www.ycombinator.com/companies/liva-ai/jobs/fYP8QP8-growth-intern)
+* [2025-11-23, 22:33:34](https://news.ycombinator.com/item?id=46028033) - [Sunsetting Supermaven](https://supermaven.com/blog/sunsetting-supermaven)
+* [2025-11-23, 22:24:23](https://news.ycombinator.com/item?id=46027947) - [A desktop app for isolated, parallel agentic development](https://github.com/coder/mux)
 * [2025-11-23, 22:06:44](https://news.ycombinator.com/item?id=46027833) - [Iowa City Made Its Buses Free. Traffic Cleared, and So Did the Air](https://www.nytimes.com/2025/11/18/climate/iowa-city-free-buses.html)
 * [2025-11-23, 21:54:32](https://news.ycombinator.com/item?id=46027722) - [Particle Life – Sandbox Science](https://sandbox-science.com/particle-life)
 * [2025-11-23, 21:52:48](https://news.ycombinator.com/item?id=46027709) - [Rust is a disappointment](https://bykozy.me/blog/rust-is-a-disappointment/)
