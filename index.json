@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2025-11-23, 20:14:46",
+      "https://news.ycombinator.com/item?id=46026919"
+    ],
+    [
+      "I Let Claude Build My Home Network: Two ISPs Bonded, $312/Year Saved",
+      "https://jonathanclark.com/posts/bonded-internet-connection-ai.html"
+    ]
+  ],
+  [
+    [
       "2025-11-23, 19:38:15",
       "https://news.ycombinator.com/item?id=46026579"
     ],
@@ -81,16 +91,6 @@
   ],
   [
     [
-      "2025-11-23, 16:30:08",
-      "https://news.ycombinator.com/item?id=46024753"
-    ],
-    [
-      "Ask HN: Good resources to learn financial systems engineering?",
-      "https://news.ycombinator.com/item?id=46024753"
-    ]
-  ],
-  [
-    [
       "2025-11-23, 16:12:06",
       "https://news.ycombinator.com/item?id=46024584"
     ],
@@ -117,6 +117,16 @@
     [
       "Editing Code in Emacs",
       "https://redpenguin101.github.io/html/posts/2025_11_23_emacs_for_code_editing.html"
+    ]
+  ],
+  [
+    [
+      "2025-11-23, 13:43:24",
+      "https://news.ycombinator.com/item?id=46023531"
+    ],
+    [
+      "Tosijs-schema is a super lightweight schema-first LLM-native JSON schema library",
+      "https://www.npmjs.com/package/tosijs-schema"
     ]
   ],
   [
@@ -211,16 +221,6 @@
   ],
   [
     [
-      "2025-11-21, 20:02:45",
-      "https://news.ycombinator.com/item?id=46008332"
-    ],
-    [
-      "We Induced Smells With Ultrasound",
-      "https://writetobrain.com/olfactory"
-    ]
-  ],
-  [
-    [
       "2025-11-19, 13:36:43",
       "https://news.ycombinator.com/item?id=45979357"
     ],
@@ -231,12 +231,12 @@
   ],
   [
     [
-      "2025-11-18, 11:33:39",
-      "https://news.ycombinator.com/item?id=45963768"
+      "2025-11-18, 12:47:04",
+      "https://news.ycombinator.com/item?id=45964956"
     ],
     [
-      "Typechecking is undecideable when 'type' is a type (1989) [pdf]",
-      "https://dspace.mit.edu/bitstream/handle/1721.1/149366/MIT-LCS-TR-458.pdf"
+      "Show HN: Gitlogue – A terminal tool that replays your Git commits with animation",
+      "https://github.com/unhappychoice/gitlogue"
     ]
   ],
   [
