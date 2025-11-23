@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-11-22](index.md)
 
+* [2025-11-22, 23:08:57](https://news.ycombinator.com/item?id=46019168) - [How to Spot a Counterfeit Lithium-Ion Battery](https://spectrum.ieee.org/counterfeit-lithium-ion-batteries)
 * [2025-11-22, 22:03:29](https://news.ycombinator.com/item?id=46018664) - [Windows ARM64 Internals: Deconstructing Pointer Authentication](https://www.preludesecurity.com/blog/windows-arm64-internals-deconstructing-pointer-authentication)
 * [2025-11-22, 21:20:24](https://news.ycombinator.com/item?id=46018380) - [WorldGen by Meta – Text to Immersive 3D Worlds](https://www.meta.com/en-gb/blog/worldgen-3d-world-generation-reality-labs-generative-ai-research/)
 * [2025-11-22, 21:11:15](https://news.ycombinator.com/item?id=46018292) - [Kids who own smartphones before age 13 have worse mental health outcomes: Study](https://abcnews.go.com/GMA/Family/kids-smartphones-age-13-worse-mental-health-outcomes/story?id=123961082)
@@ -14,6 +15,7 @@
 * [2025-11-22, 20:24:17](https://news.ycombinator.com/item?id=46017934) - [The Go-Between](https://theamericanscholar.org/the-go-between/)
 * [2025-11-22, 20:21:56](https://news.ycombinator.com/item?id=46017910) - [The Mozilla Cycle, Part III: Mozilla Dies in Ignominy](https://taggart-tech.com/mozilla-cycle-pt3/)
 * [2025-11-22, 20:11:47](https://news.ycombinator.com/item?id=46017833) - [The Censorship Network: Regulation and Repression in Germany Today](https://liber-net.org/germany/)
+* [2025-11-22, 20:09:48](https://news.ycombinator.com/item?id=46017821) - [Data General History by Foster](http://www.teamfoster.com/billteamfostercom)
 * [2025-11-22, 20:03:14](https://news.ycombinator.com/item?id=46017782) - [Markdown Is Holding You Back](https://newsletter.bphogan.com/archive/issue-45-markdown-is-holding-you-back/)
 * [2025-11-22, 18:47:08](https://news.ycombinator.com/item?id=46017175) - [Show HN: Forty.News – Daily news, but on a 40-year delay](https://forty.news)
 * [2025-11-22, 18:05:47](https://news.ycombinator.com/item?id=46016799) - [Depot (YC W23) Is Hiring a Staff Infrastructure Engineer](https://www.ycombinator.com/companies/depot/jobs/O2iB56E-staff-infrastructure-engineer)

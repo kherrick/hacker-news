@@ -53,6 +53,7 @@
 * [2025-11-15, 12:23:08](https://news.ycombinator.com/item?id=45936964) - [Kagi Bloopers – Search Results Gone Wrong](https://help.kagi.com/kagi/bloopers/)
 * [2025-11-15, 12:01:10](https://news.ycombinator.com/item?id=45936837) - [Activeloop (YC S18) Is Hiring MTS(Back End)and AI Search Engineer](https://careers.activeloop.ai/)
 * [2025-11-15, 11:49:24](https://news.ycombinator.com/item?id=45936776) - [The twin probes just launched toward Mars have an Easter egg on board](https://arstechnica.com/space/2025/11/the-twin-probes-just-launched-toward-mars-have-an-easter-egg-on-board/)
+* [2025-11-15, 10:53:03](https://news.ycombinator.com/item?id=45936564) - [Show HN: A tool to safely migrate GitHub Actions workflows to Ubuntu-slim runner](https://github.com/fchimpan/gh-slimify)
 * [2025-11-15, 10:30:52](https://news.ycombinator.com/item?id=45936460) - [Adguard DNS received suspicious pressure to block archive.is](https://adguard-dns.io/en/blog/archive-today-adguard-dns-block-demand.html)
 * [2025-11-15, 09:44:15](https://news.ycombinator.com/item?id=45936262) - [One Handed Keyboard](https://github.com/htx-studio/One-Handed-Keyboard)
 * [2025-11-15, 09:14:34](https://news.ycombinator.com/item?id=45936111) - [NATO Ended Russia's Estonian Air Incursions](https://themilitaryanalyst.com/2025/11/13/the-real-story-how-nato-ended-russias-estonian-air-incursions/)
