@@ -28,7 +28,7 @@
 * [2025-11-16, 00:38:51](https://news.ycombinator.com/item?id=45941775) - [Garibaldi, History's Sexiest Revolutionary?](https://www.historyextra.com/period/victorian/historys-sexiest-revolutionary-meet-the-mesmerising-general-whose-charms-helped-win-a-war/)
 * [2025-11-15, 22:08:28](https://news.ycombinator.com/item?id=45940980) - [$1900 Bug Bounty to Fix the Lenovo Legion Pro 7 16IAX10H's Speakers on Linux](https://github.com/nadimkobeissi/16iax10h-linux-sound-saga)
 * [2025-11-15, 10:53:03](https://news.ycombinator.com/item?id=45936564) - [Show HN: A tool to safely migrate GitHub Actions workflows to Ubuntu-slim runner](https://github.com/fchimpan/gh-slimify)
-* [2025-11-13, 18:18:01](https://news.ycombinator.com/item?id=45918442) - [Unicode Binary Input Terminal](https://hackaday.io/project/192644-unicode-binary-input-terminal)
+* [2025-11-12, 00:31:46](https://news.ycombinator.com/item?id=45894872) - [CERN Council reviews feasibility study for a next-generation collider](https://home.cern/news/press-release/accelerators/cern-council-reviews-feasibility-study-next-generation-collider)
 * [2025-11-11, 18:53:45](https://news.ycombinator.com/item?id=45891265) - [The 1957 “Spaghetti-Grows-on-Trees” Hoax](https://www.openculture.com/2025/11/the-1957-spaghetti-grows-on-trees-hoax.html)
 
 ## [Archives](archives/index.md)
