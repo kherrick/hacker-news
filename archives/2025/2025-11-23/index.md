@@ -4,11 +4,15 @@
 
 ### [Archives](../../index.md) for [2025-11-23](index.md)
 
+* [2025-11-23, 17:01:04](https://news.ycombinator.com/item?id=46025055) - [HumanLayer (YC F24) Is Hiring Founding Engineers](https://www.ycombinator.com/companies/humanlayer/jobs/oBCZzc7-founding-product-engineer)
 * [2025-11-23, 16:31:50](https://news.ycombinator.com/item?id=46024773) - [Calculus for Mathematicians, Computer Scientists, and Physicists [pdf]](https://mathcs.holycross.edu/~ahwang/print/calc.pdf)
+* [2025-11-23, 16:30:16](https://news.ycombinator.com/item?id=46024754) - [Raycast for Windows Is Here](https://www.raycast.com/blog/raycast-for-windows)
+* [2025-11-23, 16:30:08](https://news.ycombinator.com/item?id=46024753) - [Ask HN: Good resources to learn financial systems engineering?](https://news.ycombinator.com/item?id=46024753)
 * [2025-11-23, 16:17:57](https://news.ycombinator.com/item?id=46024644) - [73% of AI startups are just prompt engineering](https://pub.towardsai.net/i-reverse-engineered-200-ai-startups-73-are-lying-a8610acab0d3)
 * [2025-11-23, 15:37:04](https://news.ycombinator.com/item?id=46024328) - [Inmates at a Mississippi jail were ordered to do the guards' bidding](https://www.nytimes.com/2025/11/14/us/mississippi-jail-inmates-rankin-county.html)
 * [2025-11-23, 15:18:00](https://news.ycombinator.com/item?id=46024184) - [Court filings allege Meta downplayed risks to children and misled the public](https://time.com/7336204/meta-lawsuit-files-child-safety/)
 * [2025-11-23, 15:02:39](https://news.ycombinator.com/item?id=46024062) - [UK minister ducks cost questions on nationwide digital ID scheme](https://www.theregister.com/2025/11/21/uk_digital_id_costs_uncertain/)
+* [2025-11-23, 14:58:29](https://news.ycombinator.com/item?id=46024023) - [Gnome is better macOS than macOS](https://andreyor.st/posts/2025-11-23-gnome-is-better-macos-than-macos/)
 * [2025-11-23, 13:51:51](https://news.ycombinator.com/item?id=46023573) - [Demand for UK Food Bank Up 15% Year on Year](https://www.theguardian.com/society/2025/nov/23/food-banks-demand-prices-frontline-cost-of-living-crisis)
 * [2025-11-23, 13:43:24](https://news.ycombinator.com/item?id=46023531) - [Tosijs-schema is a super lightweight schema-first LLM-native JSON schema library](https://www.npmjs.com/package/tosijs-schema)
 * [2025-11-23, 13:35:27](https://news.ycombinator.com/item?id=46023460) - [Racket v9.0](https://blog.racket-lang.org/2025/11/racket-v9-0.html)
