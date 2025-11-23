@@ -8,6 +8,7 @@
 * [2025-11-23, 04:38:54](https://news.ycombinator.com/item?id=46020794) - [Rust Isn't the Future of Systems Programming – It's Just the Hype Cycle](https://freedium-mirror.cfd/cachecowboy/rust-isnt-the-future-of-systems-programming-it-s-just-the-hype-cycle-29afd73ff871)
 * [2025-11-23, 03:47:17](https://news.ycombinator.com/item?id=46020596) - [Cryptographers Held an Election. They Can't Decrypt the Results](https://www.nytimes.com/2025/11/21/world/cryptography-group-lost-election-results.html)
 * [2025-11-23, 03:33:42](https://news.ycombinator.com/item?id=46020543) - [Unusual circuits in the Intel 386's standard cell logic](https://www.righto.com/2025/11/unusual-386-standard-cell-circuits.html)
+* [2025-11-23, 03:27:04](https://news.ycombinator.com/item?id=46020502) - [MCP Apps just dropped (OpenAI and Anthropic collab) and I think this is huge](http://blog.modelcontextprotocol.io/posts/2025-11-21-mcp-apps/)
 * [2025-11-23, 02:18:03](https://news.ycombinator.com/item?id=46020151) - [GCC SC approves inclusion of Algol 68 Front End](https://gcc.gnu.org/pipermail/gcc/2025-November/247020.html)
 * [2025-11-23, 02:08:00](https://news.ycombinator.com/item?id=46020096) - [An Economy of AI Agents](https://arxiv.org/abs/2509.01063)
 * [2025-11-23, 01:09:47](https://news.ycombinator.com/item?id=46019817) - [Meta buried 'causal' evidence of social media harm, US court filings allege](https://www.reuters.com/sustainability/boards-policy-regulation/meta-buried-causal-evidence-social-media-harm-us-court-filings-allege-2025-11-23/)
