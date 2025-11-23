@@ -101,16 +101,6 @@
   ],
   [
     [
-      "2025-11-22, 21:11:15",
-      "https://news.ycombinator.com/item?id=46018292"
-    ],
-    [
-      "Kids who own smartphones before age 13 have worse mental health outcomes: Study",
-      "https://abcnews.go.com/GMA/Family/kids-smartphones-age-13-worse-mental-health-outcomes/story?id=123961082"
-    ]
-  ],
-  [
-    [
       "2025-11-22, 20:54:35",
       "https://news.ycombinator.com/item?id=46018165"
     ],
@@ -237,6 +227,16 @@
     [
       "`satisfies` is my favorite TypeScript keyword (2024)",
       "https://sjer.red/blog/2024-12-21/"
+    ]
+  ],
+  [
+    [
+      "2025-11-17, 09:35:51",
+      "https://news.ycombinator.com/item?id=45952137"
+    ],
+    [
+      "Simplifying Cluster-Wide PostgreSQL Execution with Exec_node() and Spock OSS",
+      "https://www.pgedge.com/blog/simplifying-cluster-wide-sql-execution-in-pgedge-with-exec_node"
     ]
   ],
   [
