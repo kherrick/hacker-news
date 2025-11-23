@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-11-23, 06:05:51](https://news.ycombinator.com/item?id=46021179) - [Google Revisits JPEG XL in Chromium After Earlier Removal](https://windowsreport.com/google-revisits-jpeg-xl-in-chromium-after-earlier-removal/)
-* [2025-11-23, 04:38:54](https://news.ycombinator.com/item?id=46020794) - [Rust Isn't the Future of Systems Programming – It's Just the Hype Cycle](https://freedium-mirror.cfd/cachecowboy/rust-isnt-the-future-of-systems-programming-it-s-just-the-hype-cycle-29afd73ff871)
 * [2025-11-23, 03:47:17](https://news.ycombinator.com/item?id=46020596) - [A cryptography research body held an election and they can't decrypt the results](https://www.nytimes.com/2025/11/21/world/cryptography-group-lost-election-results.html)
 * [2025-11-23, 03:33:42](https://news.ycombinator.com/item?id=46020543) - [Unusual circuits in the Intel 386's standard cell logic](https://www.righto.com/2025/11/unusual-386-standard-cell-circuits.html)
 * [2025-11-23, 02:18:03](https://news.ycombinator.com/item?id=46020151) - [GCC SC approves inclusion of Algol 68 Front End](https://gcc.gnu.org/pipermail/gcc/2025-November/247020.html)
@@ -11,6 +10,7 @@
 * [2025-11-23, 00:35:27](https://news.ycombinator.com/item?id=46019636) - [NTSB report: Decryption of images from the Titan submersible camera [pdf] (2024)](https://data.ntsb.gov/Docket/Document/docBLOB?ID=18741602&FileExtension=pdf&FileName=Underwater%20Camera%20-%20Specialist%27s%20Factual%20Report-Rel.pdf)
 * [2025-11-22, 22:03:29](https://news.ycombinator.com/item?id=46018664) - [Windows ARM64 Internals: Deconstructing Pointer Authentication](https://www.preludesecurity.com/blog/windows-arm64-internals-deconstructing-pointer-authentication)
 * [2025-11-22, 21:20:24](https://news.ycombinator.com/item?id=46018380) - [WorldGen – Text to Immersive 3D Worlds](https://www.meta.com/en-gb/blog/worldgen-3d-world-generation-reality-labs-generative-ai-research/)
+* [2025-11-22, 21:11:15](https://news.ycombinator.com/item?id=46018292) - [Kids who own smartphones before age 13 have worse mental health outcomes: Study](https://abcnews.go.com/GMA/Family/kids-smartphones-age-13-worse-mental-health-outcomes/story?id=123961082)
 * [2025-11-22, 20:54:35](https://news.ycombinator.com/item?id=46018165) - [Show HN: Build the habit of writing meaningful commit messages](https://github.com/arpxspace/smartcommit)
 * [2025-11-22, 20:54:02](https://news.ycombinator.com/item?id=46018158) - [A Reverse Engineer's Anatomy of the macOS Boot Chain and Security Architecture](https://stack.int.mov/a-reverse-engineers-anatomy-of-the-macos-boot-chain-security-architecture/)
 * [2025-11-22, 20:03:14](https://news.ycombinator.com/item?id=46017782) - [Markdown is holding you back](https://newsletter.bphogan.com/archive/issue-45-markdown-is-holding-you-back/)
