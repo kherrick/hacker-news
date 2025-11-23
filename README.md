@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-11-23, 12:58:54](https://news.ycombinator.com/item?id=46023213) - [Maybe that's not liquid water on Mars after all](https://phys.org/news/2025-11-liquid-mars.html)
-* [2025-11-23, 12:46:11](https://news.ycombinator.com/item?id=46023143) - [X.com Is Gonna Snitch You Out to the Public If You Use a VPN](https://www.vice.com/en/article/x-show-vpn-warning/)
 * [2025-11-23, 12:03:06](https://news.ycombinator.com/item?id=46022892) - [Deepnote (YC S19) is hiring engineers to build a better Jupyter notebook](https://deepnote.com/join-us)
 * [2025-11-23, 08:40:41](https://news.ycombinator.com/item?id=46021825) - [After my dad died, we found the love letters](https://www.jenn.site/after-my-dad-died-we-found-the-love-letters/)
 * [2025-11-23, 06:05:51](https://news.ycombinator.com/item?id=46021179) - [Google Revisits JPEG XL in Chromium After Earlier Removal](https://windowsreport.com/google-revisits-jpeg-xl-in-chromium-after-earlier-removal/)
@@ -22,6 +21,7 @@
 * [2025-11-21, 13:25:59](https://news.ycombinator.com/item?id=46004326) - [Pixel Art Tips for Programmers](https://jslegenddev.substack.com/p/5-pixel-art-tips-for-programmers-3d6)
 * [2025-11-20, 12:47:41](https://news.ycombinator.com/item?id=45992035) - [Ubuntu LTS releases to 15 years with Legacy add-on](https://canonical.com/blog/canonical-expands-total-coverage-for-ubuntu-lts-releases-to-15-years-with-legacy-add-on)
 * [2025-11-19, 19:47:31](https://news.ycombinator.com/item?id=45984173) - [The Boring Part of Bell Labs](https://elizabethvannostrand.substack.com/p/the-boring-part-of-bell-labs)
+* [2025-11-19, 01:57:37](https://news.ycombinator.com/item?id=45974977) - [First kiss dates back 21M years](https://www.bbc.com/news/articles/cr43gq61g2qo)
 * [2025-11-18, 16:23:57](https://news.ycombinator.com/item?id=45968310) - [`satisfies` is my favorite TypeScript keyword (2024)](https://sjer.red/blog/2024-12-21/)
 * [2025-11-17, 20:28:32](https://news.ycombinator.com/item?id=45957911) - [Almost all Collatz orbits attain almost bounded values](https://mathvideos.org/2023/terence-tao-almost-all-collatz-orbits-attain-almost-bounded-values/)
 * [2025-11-17, 02:28:57](https://news.ycombinator.com/item?id=45950364) - [sit: Create StuffIt archives on Unix systems](https://github.com/thecloudexpanse/sit)
