@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-11-23](index.md)
 
+* [2025-11-23, 12:58:54](https://news.ycombinator.com/item?id=46023213) - [Maybe that's not liquid water on Mars after all](https://phys.org/news/2025-11-liquid-mars.html)
+* [2025-11-23, 12:46:11](https://news.ycombinator.com/item?id=46023143) - [X.com Is Gonna Snitch You Out to the Public If You Use a VPN](https://www.vice.com/en/article/x-show-vpn-warning/)
 * [2025-11-23, 12:03:06](https://news.ycombinator.com/item?id=46022892) - [Deepnote (YC S19) is hiring engineers to build a better Jupyter notebook](https://deepnote.com/join-us)
 * [2025-11-23, 10:22:24](https://news.ycombinator.com/item?id=46022279) - [Signal knows who you're talking to](https://sanesecurityguy.com/articles/signal-knows-who-youre-talking-to/)
 * [2025-11-23, 08:40:41](https://news.ycombinator.com/item?id=46021825) - [After my dad died, we found the love letters](https://www.jenn.site/after-my-dad-died-we-found-the-love-letters/)

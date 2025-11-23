@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-11-23, 12:58:54](https://news.ycombinator.com/item?id=46023213) - [Maybe that's not liquid water on Mars after all](https://phys.org/news/2025-11-liquid-mars.html)
+* [2025-11-23, 12:46:11](https://news.ycombinator.com/item?id=46023143) - [X.com Is Gonna Snitch You Out to the Public If You Use a VPN](https://www.vice.com/en/article/x-show-vpn-warning/)
 * [2025-11-23, 12:03:06](https://news.ycombinator.com/item?id=46022892) - [Deepnote (YC S19) is hiring engineers to build a better Jupyter notebook](https://deepnote.com/join-us)
-* [2025-11-23, 10:22:24](https://news.ycombinator.com/item?id=46022279) - [Signal knows who you're talking to](https://sanesecurityguy.com/articles/signal-knows-who-youre-talking-to/)
 * [2025-11-23, 08:40:41](https://news.ycombinator.com/item?id=46021825) - [After my dad died, we found the love letters](https://www.jenn.site/after-my-dad-died-we-found-the-love-letters/)
 * [2025-11-23, 06:05:51](https://news.ycombinator.com/item?id=46021179) - [Google Revisits JPEG XL in Chromium After Earlier Removal](https://windowsreport.com/google-revisits-jpeg-xl-in-chromium-after-earlier-removal/)
 * [2025-11-23, 03:33:42](https://news.ycombinator.com/item?id=46020543) - [Unusual circuits in the Intel 386's standard cell logic](https://www.righto.com/2025/11/unusual-386-standard-cell-circuits.html)
@@ -15,7 +16,6 @@
 * [2025-11-22, 20:03:14](https://news.ycombinator.com/item?id=46017782) - [Markdown is holding you back](https://newsletter.bphogan.com/archive/issue-45-markdown-is-holding-you-back/)
 * [2025-11-22, 18:47:08](https://news.ycombinator.com/item?id=46017175) - [Show HN: Forty.News – Daily news, but on a 40-year delay](https://forty.news)
 * [2025-11-22, 17:49:27](https://news.ycombinator.com/item?id=46016639) - [China reaches energy milestone by \"breeding\" uranium from thorium](https://www.scmp.com/news/china/science/article/3331312/china-reaches-energy-independence-milestone-breeding-uranium-thorium)
-* [2025-11-22, 17:47:23](https://news.ycombinator.com/item?id=46016613) - [The realities of being a pop star](https://itscharlibb.substack.com/p/the-realities-of-being-a-pop-star)
 * [2025-11-22, 17:08:36](https://news.ycombinator.com/item?id=46016249) - [The privacy nightmare of browser fingerprinting](https://kevinboone.me/fingerprinting.html)
 * [2025-11-21, 20:02:45](https://news.ycombinator.com/item?id=46008332) - [We Induced Smells With Ultrasound](https://writetobrain.com/olfactory)
 * [2025-11-21, 13:25:59](https://news.ycombinator.com/item?id=46004326) - [Pixel Art Tips for Programmers](https://jslegenddev.substack.com/p/5-pixel-art-tips-for-programmers-3d6)
