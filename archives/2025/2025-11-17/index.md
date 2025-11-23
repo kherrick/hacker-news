@@ -66,6 +66,7 @@
 * [2025-11-17, 11:15:27](https://news.ycombinator.com/item?id=45952621) - [Apple's iPhone Overhaul Will Reduce Its Reliance on Annual Fall Spectacle](https://www.bloomberg.com/news/newsletters/2025-11-16/apple-s-iphone-road-map-iphone-air-2-iphone-18-mac-pro-future-tesla-carplay-mi1q4l2o)
 * [2025-11-17, 11:14:41](https://news.ycombinator.com/item?id=45952614) - [Things I don't like in configuration languages](https://medv.io/blog/things-i-dont-like-in-configuration-languages)
 * [2025-11-17, 10:40:55](https://news.ycombinator.com/item?id=45952428) - [Giving C a Superpower](https://hwisnu.bearblog.dev/giving-c-a-superpower-custom-header-file-safe_ch/)
+* [2025-11-17, 09:35:51](https://news.ycombinator.com/item?id=45952137) - [Simplifying Cluster-Wide PostgreSQL Execution with Exec_node() and Spock OSS](https://www.pgedge.com/blog/simplifying-cluster-wide-sql-execution-in-pgedge-with-exec_node)
 * [2025-11-17, 06:28:16](https://news.ycombinator.com/item?id=45951275) - [Android/Linux Dual Boot](https://wiki.postmarketos.org/wiki/Dual_Booting/WiP)
 * [2025-11-17, 04:11:57](https://news.ycombinator.com/item?id=45950797) - [Concrete Shipbuilding – Argentina](https://thecretefleet.com/blog/f/concrete-shipbuilding-–-argentina)
 * [2025-11-17, 03:52:50](https://news.ycombinator.com/item?id=45950720) - [Building a Simple Search Engine That Works](https://karboosx.net/post/4eZxhBon/building-a-simple-search-engine-that-actually-works)
