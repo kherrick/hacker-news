@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-11-23, 16:17:57",
+      "https://news.ycombinator.com/item?id=46024644"
+    ],
+    [
+      "73% of AI startups are just prompt engineering",
+      "https://pub.towardsai.net/i-reverse-engineered-200-ai-startups-73-are-lying-a8610acab0d3"
+    ]
+  ],
+  [
+    [
       "2025-11-23, 15:37:04",
       "https://news.ycombinator.com/item?id=46024328"
     ],
@@ -61,16 +71,6 @@
   ],
   [
     [
-      "2025-11-23, 12:58:54",
-      "https://news.ycombinator.com/item?id=46023213"
-    ],
-    [
-      "Maybe that's not liquid water on Mars after all",
-      "https://phys.org/news/2025-11-liquid-mars.html"
-    ]
-  ],
-  [
-    [
       "2025-11-23, 12:26:30",
       "https://news.ycombinator.com/item?id=46023013"
     ],
@@ -87,16 +87,6 @@
     [
       "Deepnote (YC S19) is hiring engineers to build a better Jupyter notebook",
       "https://deepnote.com/join-us"
-    ]
-  ],
-  [
-    [
-      "2025-11-23, 11:32:15",
-      "https://news.ycombinator.com/item?id=46022704"
-    ],
-    [
-      "Silicon Valley startups: being evil, again and again",
-      "https://notesfrombelow.org/article/silicon-valley-startups-doing-evil-again-and-again"
     ]
   ],
   [
@@ -287,6 +277,16 @@
     [
       "$1900 Bug Bounty to Fix the Lenovo Legion Pro 7 16IAX10H's Speakers on Linux",
       "https://github.com/nadimkobeissi/16iax10h-linux-sound-saga"
+    ]
+  ],
+  [
+    [
+      "2025-11-14, 00:32:40",
+      "https://news.ycombinator.com/item?id=45922514"
+    ],
+    [
+      "Spectral rendering, part 2: Real-time rendering",
+      "https://momentsingraphics.de/SpectralRendering2Rendering.html"
     ]
   ],
   [
