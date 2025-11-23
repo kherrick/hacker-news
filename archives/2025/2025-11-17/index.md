@@ -14,6 +14,7 @@
 * [2025-11-17, 21:35:04](https://news.ycombinator.com/item?id=45958596) - [What Influence Has the BBC Had on History?](https://www.historytoday.com/archive/head-head/what-influence-has-bbc-had-history)
 * [2025-11-17, 20:37:07](https://news.ycombinator.com/item?id=45958005) - [Grok 4.1](https://x.ai/news/grok-4-1)
 * [2025-11-17, 20:36:50](https://news.ycombinator.com/item?id=45958004) - [Ask HN: How are Markov chains so different from tiny LLMs?](https://news.ycombinator.com/item?id=45958004)
+* [2025-11-17, 20:28:32](https://news.ycombinator.com/item?id=45957911) - [Almost all Collatz orbits attain almost bounded values](https://mathvideos.org/2023/terence-tao-almost-all-collatz-orbits-attain-almost-bounded-values/)
 * [2025-11-17, 20:13:54](https://news.ycombinator.com/item?id=45957743) - [Two recently found works of J.S. Bach presented in Leipzig [video]](https://www.youtube.com/watch?v=4hXzUGYIL9M#t=15m19s)
 * [2025-11-17, 20:04:49](https://news.ycombinator.com/item?id=45957629) - [Compiling Ruby to Machine Language](https://patshaughnessy.net/2025/11/17/compiling-ruby-to-machine-language)
 * [2025-11-17, 19:45:00](https://news.ycombinator.com/item?id=45957402) - [Show HN: PrinceJS – 19,200 req/s Bun framework in 2.8 kB (built by a 13yo)](https://princejs.vercel.app)
