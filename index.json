@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-11-23, 23:25:03",
+      "https://news.ycombinator.com/item?id=46028422"
+    ],
+    [
+      "X's new country-of-origin feature reveals many 'US' accounts to be foreign-run",
+      "https://www.hindustantimes.com/world-news/us-news/xs-new-country-of-origin-feature-shakes-maga-and-democrat-circles-as-many-us-accounts-revealed-to-be-foreignrun-101763857104296.html"
+    ]
+  ],
+  [
+    [
       "2025-11-23, 22:36:07",
       "https://news.ycombinator.com/item?id=46028046"
     ],
@@ -17,6 +27,16 @@
     [
       "Sunsetting Supermaven",
       "https://supermaven.com/blog/sunsetting-supermaven"
+    ]
+  ],
+  [
+    [
+      "2025-11-23, 22:25:36",
+      "https://news.ycombinator.com/item?id=46027962"
+    ],
+    [
+      "Show HN: I wrote a minimal memory allocator in C",
+      "https://github.com/t9nzin/memory"
     ]
   ],
   [
@@ -47,26 +67,6 @@
     [
       "Particle Life – Sandbox Science",
       "https://sandbox-science.com/particle-life"
-    ]
-  ],
-  [
-    [
-      "2025-11-23, 21:52:48",
-      "https://news.ycombinator.com/item?id=46027709"
-    ],
-    [
-      "Rust is a disappointment",
-      "https://bykozy.me/blog/rust-is-a-disappointment/"
-    ]
-  ],
-  [
-    [
-      "2025-11-23, 20:56:23",
-      "https://news.ycombinator.com/item?id=46027245"
-    ],
-    [
-      "Lead magnet creation for blue collar SaaS",
-      "https://estimatekit.com/free-templates"
     ]
   ],
   [
@@ -181,32 +181,12 @@
   ],
   [
     [
-      "2025-11-23, 03:33:42",
-      "https://news.ycombinator.com/item?id=46020543"
-    ],
-    [
-      "Unusual circuits in the Intel 386's standard cell logic",
-      "https://www.righto.com/2025/11/unusual-386-standard-cell-circuits.html"
-    ]
-  ],
-  [
-    [
       "2025-11-23, 03:27:04",
       "https://news.ycombinator.com/item?id=46020502"
     ],
     [
       "MCP Apps: Extending servers with interactive user interfaces",
       "http://blog.modelcontextprotocol.io/posts/2025-11-21-mcp-apps/"
-    ]
-  ],
-  [
-    [
-      "2025-11-23, 00:46:53",
-      "https://news.ycombinator.com/item?id=46019685"
-    ],
-    [
-      "A monopoly ISP refuses to fix upstream infrastructure",
-      "https://sacbear.com/xfinity-wont-fix-internet/"
     ]
   ],
   [
@@ -271,6 +251,16 @@
   ],
   [
     [
+      "2025-11-17, 02:28:57",
+      "https://news.ycombinator.com/item?id=45950364"
+    ],
+    [
+      "Sit – Create StuffIt archives on Unix systems",
+      "https://github.com/thecloudexpanse/sit"
+    ]
+  ],
+  [
+    [
       "2025-11-16, 00:38:51",
       "https://news.ycombinator.com/item?id=45941775"
     ],
@@ -297,6 +287,16 @@
     [
       "I Learned the Pythagorean Theorem",
       "https://danq.me/2025/11/13/pythagorean-theorem/"
+    ]
+  ],
+  [
+    [
+      "2025-11-13, 19:02:30",
+      "https://news.ycombinator.com/item?id=45919054"
+    ],
+    [
+      "The Inference Economy: Why demand matters more than supply",
+      "https://frontierai.substack.com/p/the-inference-economy-part-ii"
     ]
   ]
 ]
