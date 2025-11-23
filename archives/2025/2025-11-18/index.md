@@ -47,6 +47,7 @@
 * [2025-11-18, 13:34:44](https://news.ycombinator.com/item?id=45965664) - [Ruby 4.0.0 Preview2 Released](https://www.ruby-lang.org/en/news/2025/11/17/ruby-4-0-0-preview2-released/)
 * [2025-11-18, 12:54:49](https://news.ycombinator.com/item?id=45965060) - [Do Not Put Your Site Behind Cloudflare If You Don't Need To](https://huijzer.xyz/posts/123/do-not-put-your-site-behind-cloudflare-if-you-dont)
 * [2025-11-18, 12:48:45](https://news.ycombinator.com/item?id=45964987) - [Multiple Digital Ocean services down](https://status.digitalocean.com/incidents/lgt5xs2843rx)
+* [2025-11-18, 12:47:04](https://news.ycombinator.com/item?id=45964956) - [Show HN: Gitlogue – A terminal tool that replays your Git commits with animation](https://github.com/unhappychoice/gitlogue)
 * [2025-11-18, 12:36:54](https://news.ycombinator.com/item?id=45964835) - [GoSign Desktop RCE flaws affecting users in Italy](https://www.ush.it/2025/11/14/multiple-vulnerabilities-gosign-desktop-remote-code-execution/)
 * [2025-11-18, 12:35:13](https://news.ycombinator.com/item?id=45964816) - [Mathematics and Computation (2019) [pdf]](https://www.math.ias.edu/files/Book-online-Aug0619.pdf)
 * [2025-11-18, 11:48:56](https://news.ycombinator.com/item?id=45963949) - [Cloudflare Global Network experiencing issues](https://www.cloudflarestatus.com/incidents/8gmgl950y3h7)

@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-11-23](index.md)
 
 * [2025-11-23, 20:16:04](https://news.ycombinator.com/item?id=46026939) - [\"Good engineering management\" is a fad](https://lethain.com/good-eng-mgmt-is-a-fad/)
+* [2025-11-23, 20:14:46](https://news.ycombinator.com/item?id=46026919) - [I Let Claude Build My Home Network: Two ISPs Bonded, $312/Year Saved](https://jonathanclark.com/posts/bonded-internet-connection-ai.html)
 * [2025-11-23, 19:57:33](https://news.ycombinator.com/item?id=46026764) - [Thiel, Karp, Ellison, Catz, Bezos, Lessin appear in newly leaked Israel emails](https://sfstandard.com/2025/11/23/extended-courtship-linking-jeffrey-epstein-peter-thiel-israeli-officials/)
 * [2025-11-23, 19:38:15](https://news.ycombinator.com/item?id=46026579) - [780k Windows Users Downloaded Linux Distro Zorin OS in the Last 5 Weeks](https://blog.zorin.com/2025/11/18/test-the-upgrade-from-zorin-os-17-to-18-and-celebrating-1-million-downloads-of-zorin-os-18/loaded-this-linux-distro-in-a-month/)
 * [2025-11-23, 18:24:42](https://news.ycombinator.com/item?id=46025978) - [Scoop: Judge Caught Using AI to Read His Court Decisions](https://migrantinsider.com/p/scoop-judge-caught-using-ai-to-read)
