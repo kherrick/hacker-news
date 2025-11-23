@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-11-23, 21:01:26](https://news.ycombinator.com/item?id=46027290) - [Meet the AI workers who tell their friends and family to stay away from AI](https://www.theguardian.com/technology/2025/nov/22/ai-workers-tell-family-stay-away)
 * [2025-11-23, 20:16:04](https://news.ycombinator.com/item?id=46026939) - [\"Good engineering management\" is a fad](https://lethain.com/good-eng-mgmt-is-a-fad/)
 * [2025-11-23, 19:38:15](https://news.ycombinator.com/item?id=46026579) - [780k Windows Users Downloaded Linux Distro Zorin OS in the Last 5 Weeks](https://blog.zorin.com/2025/11/18/test-the-upgrade-from-zorin-os-17-to-18-and-celebrating-1-million-downloads-of-zorin-os-18/)
 * [2025-11-23, 18:20:27](https://news.ycombinator.com/item?id=46025942) - [Fran Sans – font inspired by San Francisco light rail displays](https://emilysneddon.com/fran-sans-essay)
@@ -23,6 +22,7 @@
 * [2025-11-21, 22:48:39](https://news.ycombinator.com/item?id=46009962) - [A time-travelling door bug in Half Life 2](https://mastodon.gamedev.place/@TomF/115589875974658415)
 * [2025-11-19, 13:36:43](https://news.ycombinator.com/item?id=45979357) - [Forever Object: The Staple-Less Oceanus Brass Stapler](https://www.core77.com/posts/139027/Forever-Object-The-Staple-less-Oceanus-Brass-Stapler)
 * [2025-11-18, 12:47:04](https://news.ycombinator.com/item?id=45964956) - [Show HN: Gitlogue – A terminal tool that replays your Git commits with animation](https://github.com/unhappychoice/gitlogue)
+* [2025-11-18, 11:33:39](https://news.ycombinator.com/item?id=45963768) - [Typechecking is undecideable when 'type' is a type (1989) [pdf]](https://dspace.mit.edu/bitstream/handle/1721.1/149366/MIT-LCS-TR-458.pdf)
 * [2025-11-17, 20:28:32](https://news.ycombinator.com/item?id=45957911) - [Almost all Collatz orbits attain almost bounded values](https://mathvideos.org/2023/terence-tao-almost-all-collatz-orbits-attain-almost-bounded-values/)
 * [2025-11-17, 18:41:35](https://news.ycombinator.com/item?id=45956542) - [Pyrotechnic Display Design Software](https://github.com/giuseppe-coco/FireShow)
 * [2025-11-17, 02:28:57](https://news.ycombinator.com/item?id=45950364) - [Sit – Create StuffIt archives on Unix systems](https://github.com/thecloudexpanse/sit)
