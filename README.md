@@ -2,7 +2,7 @@
 
 * [2025-11-23, 21:01:26](https://news.ycombinator.com/item?id=46027290) - [Meet the AI workers who tell their friends and family to stay away from AI](https://www.theguardian.com/technology/2025/nov/22/ai-workers-tell-family-stay-away)
 * [2025-11-23, 20:16:04](https://news.ycombinator.com/item?id=46026939) - [\"Good engineering management\" is a fad](https://lethain.com/good-eng-mgmt-is-a-fad/)
-* [2025-11-23, 19:38:15](https://news.ycombinator.com/item?id=46026579) - [780k Windows Users Downloaded Linux Distro Zorin OS in the Last 5 Weeks](https://blog.zorin.com/2025/11/18/test-the-upgrade-from-zorin-os-17-to-18-and-celebrating-1-million-downloads-of-zorin-os-18/loaded-this-linux-distro-in-a-month/)
+* [2025-11-23, 19:38:15](https://news.ycombinator.com/item?id=46026579) - [780k Windows Users Downloaded Linux Distro Zorin OS in the Last 5 Weeks](https://blog.zorin.com/2025/11/18/test-the-upgrade-from-zorin-os-17-to-18-and-celebrating-1-million-downloads-of-zorin-os-18/)
 * [2025-11-23, 18:20:27](https://news.ycombinator.com/item?id=46025942) - [Fran Sans – font inspired by San Francisco light rail displays](https://emilysneddon.com/fran-sans-essay)
 * [2025-11-23, 18:19:27](https://news.ycombinator.com/item?id=46025933) - [Apple to focus on 'quality and underlying performance' with iOS 27 next year](https://9to5mac.com/2025/11/23/apple-focusing-on-software-quality-improvements-ios-27-next-year-report/)
 * [2025-11-23, 17:55:11](https://news.ycombinator.com/item?id=46025721) - [Native Secure Enclave backed SSH keys on macOS](https://gist.github.com/arianvp/5f59f1783e3eaf1a2d4cd8e952bb4acf)
@@ -26,7 +26,7 @@
 * [2025-11-18, 11:33:39](https://news.ycombinator.com/item?id=45963768) - [Typechecking is undecideable when 'type' is a type (1989) [pdf]](https://dspace.mit.edu/bitstream/handle/1721.1/149366/MIT-LCS-TR-458.pdf)
 * [2025-11-17, 20:28:32](https://news.ycombinator.com/item?id=45957911) - [Almost all Collatz orbits attain almost bounded values](https://mathvideos.org/2023/terence-tao-almost-all-collatz-orbits-attain-almost-bounded-values/)
 * [2025-11-17, 18:41:35](https://news.ycombinator.com/item?id=45956542) - [Pyrotechnic Display Design Software](https://github.com/giuseppe-coco/FireShow)
-* [2025-11-17, 02:28:57](https://news.ycombinator.com/item?id=45950364) - [sit: Create StuffIt archives on Unix systems](https://github.com/thecloudexpanse/sit)
+* [2025-11-17, 02:28:57](https://news.ycombinator.com/item?id=45950364) - [Sit – Create StuffIt archives on Unix systems](https://github.com/thecloudexpanse/sit)
 * [2025-11-16, 00:38:51](https://news.ycombinator.com/item?id=45941775) - [Garibaldi, history's sexiest revolutionary?](https://www.historyextra.com/period/victorian/historys-sexiest-revolutionary-meet-the-mesmerising-general-whose-charms-helped-win-a-war/)
 * [2025-11-14, 00:32:40](https://news.ycombinator.com/item?id=45922514) - [Spectral rendering, part 2: Real-time rendering](https://momentsingraphics.de/SpectralRendering2Rendering.html)
 * [2025-11-13, 19:02:30](https://news.ycombinator.com/item?id=45919054) - [The Inference Economy: Why demand matters more than supply](https://frontierai.substack.com/p/the-inference-economy-part-ii)
