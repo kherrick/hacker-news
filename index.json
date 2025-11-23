@@ -91,16 +91,6 @@
   ],
   [
     [
-      "2025-11-23, 03:27:04",
-      "https://news.ycombinator.com/item?id=46020502"
-    ],
-    [
-      "MCP Apps just dropped (OpenAI and Anthropic collab) and I think this is huge",
-      "http://blog.modelcontextprotocol.io/posts/2025-11-21-mcp-apps/"
-    ]
-  ],
-  [
-    [
       "2025-11-23, 02:18:03",
       "https://news.ycombinator.com/item?id=46020151"
     ],
@@ -237,6 +227,16 @@
     [
       "`satisfies` is my favorite TypeScript keyword (2024)",
       "https://sjer.red/blog/2024-12-21/"
+    ]
+  ],
+  [
+    [
+      "2025-11-18, 11:33:39",
+      "https://news.ycombinator.com/item?id=45963768"
+    ],
+    [
+      "Typechecking is undecideable when 'type' is a type (1989) [pdf]",
+      "https://dspace.mit.edu/bitstream/handle/1721.1/149366/MIT-LCS-TR-458.pdf"
     ]
   ],
   [
