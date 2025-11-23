@@ -1,10 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-11-23, 15:37:04](https://news.ycombinator.com/item?id=46024328) - [Inmates at a Mississippi jail were ordered to do the guards' bidding](https://www.nytimes.com/2025/11/14/us/mississippi-jail-inmates-rankin-county.html)
+* [2025-11-23, 15:18:00](https://news.ycombinator.com/item?id=46024184) - [Court filings allege Meta downplayed risks to children and misled the public](https://time.com/7336204/meta-lawsuit-files-child-safety/)
 * [2025-11-23, 15:02:39](https://news.ycombinator.com/item?id=46024062) - [UK minister ducks cost questions on nationwide digital ID scheme](https://www.theregister.com/2025/11/21/uk_digital_id_costs_uncertain/)
 * [2025-11-23, 13:43:24](https://news.ycombinator.com/item?id=46023531) - [Tosijs-schema is a super lightweight schema-first LLM-native JSON schema library](https://www.npmjs.com/package/tosijs-schema)
 * [2025-11-23, 13:35:27](https://news.ycombinator.com/item?id=46023460) - [Racket v9.0](https://blog.racket-lang.org/2025/11/racket-v9-0.html)
-* [2025-11-23, 13:24:01](https://news.ycombinator.com/item?id=46023364) - [Claude Code Is Down](https://status.claude.com/incidents/538r2y9cjmhk)
+* [2025-11-23, 13:10:27](https://news.ycombinator.com/item?id=46023286) - [Gordon Bell finalist team pushes scale of rocket simulation on El Capitan](https://www.llnl.gov/article/53626/gordon-bell-finalist-team-pushes-scale-rocket-simulation-el-capitan)
 * [2025-11-23, 12:58:54](https://news.ycombinator.com/item?id=46023213) - [Maybe that's not liquid water on Mars after all](https://phys.org/news/2025-11-liquid-mars.html)
 * [2025-11-23, 12:26:30](https://news.ycombinator.com/item?id=46023013) - [Shaders: How to draw high fidelity graphics with just x and y coordinates](https://www.makingsoftware.com/chapters/shaders)
 * [2025-11-23, 12:03:06](https://news.ycombinator.com/item?id=46022892) - [Deepnote (YC S19) is hiring engineers to build a better Jupyter notebook](https://deepnote.com/join-us)
@@ -28,7 +29,6 @@
 * [2025-11-17, 20:28:32](https://news.ycombinator.com/item?id=45957911) - [Almost all Collatz orbits attain almost bounded values](https://mathvideos.org/2023/terence-tao-almost-all-collatz-orbits-attain-almost-bounded-values/)
 * [2025-11-17, 02:28:57](https://news.ycombinator.com/item?id=45950364) - [sit: Create StuffIt archives on Unix systems](https://github.com/thecloudexpanse/sit)
 * [2025-11-15, 22:08:28](https://news.ycombinator.com/item?id=45940980) - [$1900 Bug Bounty to Fix the Lenovo Legion Pro 7 16IAX10H's Speakers on Linux](https://github.com/nadimkobeissi/16iax10h-linux-sound-saga)
-* [2025-11-12, 00:31:46](https://news.ycombinator.com/item?id=45894872) - [CERN Council reviews feasibility study for a next-generation collider](https://home.cern/news/press-release/accelerators/cern-council-reviews-feasibility-study-next-generation-collider)
 * [2025-11-11, 19:52:26](https://news.ycombinator.com/item?id=45891961) - [Antic Magazine Interviews Alan Reeve, the Creator of the Diamond OS (1990)](https://computeradsfromthepast.substack.com/p/antic-magazine-interviews-alan-reeve)
 
 ## [Archives](archives/index.md)
