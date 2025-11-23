@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2025-11-23](index.md)
 
+* [2025-11-23, 21:54:32](https://news.ycombinator.com/item?id=46027722) - [Particle Life – Sandbox Science](https://sandbox-science.com/particle-life)
 * [2025-11-23, 21:01:26](https://news.ycombinator.com/item?id=46027290) - [Meet the AI workers who tell their friends and family to stay away from AI](https://www.theguardian.com/technology/2025/nov/22/ai-workers-tell-family-stay-away)
+* [2025-11-23, 20:58:35](https://news.ycombinator.com/item?id=46027265) - [AI Content Pipeline: My Experience](https://techlife.blog/posts/ai-content-pipeline/)
+* [2025-11-23, 20:56:23](https://news.ycombinator.com/item?id=46027245) - [Lead magnet creation for blue collar SaaS](https://estimatekit.com/free-templates)
 * [2025-11-23, 20:16:04](https://news.ycombinator.com/item?id=46026939) - [\"Good engineering management\" is a fad](https://lethain.com/good-eng-mgmt-is-a-fad/)
 * [2025-11-23, 20:14:46](https://news.ycombinator.com/item?id=46026919) - [I Let Claude Build My Home Network: Two ISPs Bonded, $312/Year Saved](https://jonathanclark.com/posts/bonded-internet-connection-ai.html)
 * [2025-11-23, 19:57:33](https://news.ycombinator.com/item?id=46026764) - [Thiel, Karp, Ellison, Catz, Bezos, Lessin appear in newly leaked Israel emails](https://sfstandard.com/2025/11/23/extended-courtship-linking-jeffrey-epstein-peter-thiel-israeli-officials/)
