@@ -53,6 +53,7 @@
 * [2025-11-17, 14:31:21](https://news.ycombinator.com/item?id=45953883) - [Jeff Bezos Creates A.I. Startup Where He Will Be Co-Chief Executive](https://www.nytimes.com/2025/11/17/technology/bezos-project-prometheus.html)
 * [2025-11-17, 14:11:57](https://news.ycombinator.com/item?id=45953702) - [Replicate is joining Cloudflare](https://replicate.com/blog/replicate-cloudflare)
 * [2025-11-17, 13:55:53](https://news.ycombinator.com/item?id=45953568) - [Geothermal energy might be the baseload revolution we've been looking for](https://www.newyorker.com/magazine/2025/11/24/why-the-time-has-finally-come-for-geothermal-energy)
+* [2025-11-17, 13:53:16](https://news.ycombinator.com/item?id=45953546) - [Darts, Dice, and Coins: Sampling from a Discrete Distribution (2011)](https://www.keithschwarz.com/darts-dice-coins/)
 * [2025-11-17, 13:40:40](https://news.ycombinator.com/item?id=45953452) - [FreeMDU: Open-source Miele appliance diagnostic tools](https://github.com/medusalix/FreeMDU)
 * [2025-11-17, 13:16:30](https://news.ycombinator.com/item?id=45953281) - [US startup Substrate announces chipmaking tool that it says will rival ASML](https://www.msn.com/en-in/news/world/us-startup-substrate-announces-chipmaking-tool-that-it-says-will-rival-asml/ar-AA1PltWT)
 * [2025-11-17, 13:01:49](https://news.ycombinator.com/item?id=45953202) - [GCC 16 considering changing default to C++20](https://inbox.sourceware.org/gcc/aQj1tKzhftT9GUF4@redhat.com/)

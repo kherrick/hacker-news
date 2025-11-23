@@ -6,7 +6,6 @@
 * [2025-11-23, 17:01:04](https://news.ycombinator.com/item?id=46025055) - [HumanLayer (YC F24) Is Hiring Founding Engineers](https://www.ycombinator.com/companies/humanlayer/jobs/oBCZzc7-founding-product-engineer)
 * [2025-11-23, 16:31:50](https://news.ycombinator.com/item?id=46024773) - [Calculus for Mathematicians, Computer Scientists, and Physicists [pdf]](https://mathcs.holycross.edu/~ahwang/print/calc.pdf)
 * [2025-11-23, 16:30:08](https://news.ycombinator.com/item?id=46024753) - [Ask HN: Good resources to learn financial systems engineering?](https://news.ycombinator.com/item?id=46024753)
-* [2025-11-23, 16:17:57](https://news.ycombinator.com/item?id=46024644) - [73% of AI startups are just prompt engineering](https://pub.towardsai.net/i-reverse-engineered-200-ai-startups-73-are-lying-a8610acab0d3)
 * [2025-11-23, 16:12:06](https://news.ycombinator.com/item?id=46024584) - [Mount Proton Drive on Linux using rclone and systemd](https://github.com/dadtronics/protondrive-linux)
 * [2025-11-23, 15:18:00](https://news.ycombinator.com/item?id=46024184) - [Court filings allege Meta downplayed risks to children and misled the public](https://time.com/7336204/meta-lawsuit-files-child-safety/)
 * [2025-11-23, 14:59:38](https://news.ycombinator.com/item?id=46024032) - [Editing Code in Emacs](https://redpenguin101.github.io/html/posts/2025_11_23_emacs_for_code_editing.html)
@@ -28,6 +27,7 @@
 * [2025-11-18, 11:33:39](https://news.ycombinator.com/item?id=45963768) - [Typechecking is undecideable when 'type' is a type (1989) [pdf]](https://dspace.mit.edu/bitstream/handle/1721.1/149366/MIT-LCS-TR-458.pdf)
 * [2025-11-17, 20:28:32](https://news.ycombinator.com/item?id=45957911) - [Almost all Collatz orbits attain almost bounded values](https://mathvideos.org/2023/terence-tao-almost-all-collatz-orbits-attain-almost-bounded-values/)
 * [2025-11-17, 18:41:35](https://news.ycombinator.com/item?id=45956542) - [Pyrotechnic Display Design Software](https://github.com/giuseppe-coco/FireShow)
+* [2025-11-17, 13:53:16](https://news.ycombinator.com/item?id=45953546) - [Darts, Dice, and Coins: Sampling from a Discrete Distribution (2011)](https://www.keithschwarz.com/darts-dice-coins/)
 * [2025-11-17, 02:28:57](https://news.ycombinator.com/item?id=45950364) - [sit: Create StuffIt archives on Unix systems](https://github.com/thecloudexpanse/sit)
 * [2025-11-14, 00:32:40](https://news.ycombinator.com/item?id=45922514) - [Spectral rendering, part 2: Real-time rendering](https://momentsingraphics.de/SpectralRendering2Rendering.html)
 
