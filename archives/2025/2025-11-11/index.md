@@ -28,6 +28,7 @@
 * [2025-11-11, 20:10:24](https://news.ycombinator.com/item?id=45892174) - [Xortran - A PDP-11 Fortran Neural Network With Backpropagation](https://github.com/dbrll/Xortran)
 * [2025-11-11, 20:06:18](https://news.ycombinator.com/item?id=45892123) - [Single-Celled Marine Organisms Resulted in an Influential Illustrated Book](https://lithub.com/how-the-discovery-of-single-celled-marine-organisms-resulted-in-one-of-the-most-influential-illustrated-books-ever-published/)
 * [2025-11-11, 19:52:55](https://news.ycombinator.com/item?id=45891968) - [Adk-go: code-first Go toolkit for building, evaluating, and deploying AI agents](https://github.com/google/adk-go)
+* [2025-11-11, 19:52:26](https://news.ycombinator.com/item?id=45891961) - [Antic Magazine Interviews Alan Reeve, the Creator of the Diamond OS (1990)](https://computeradsfromthepast.substack.com/p/antic-magazine-interviews-alan-reeve)
 * [2025-11-11, 19:48:19](https://news.ycombinator.com/item?id=45891907) - [A modern 35mm film scanner for home](https://www.soke.engineering/)
 * [2025-11-11, 19:46:09](https://news.ycombinator.com/item?id=45891879) - [The AI Surveillance Dystopia: Spying, Data Trafficking, & Corruption](https://store.gamersnexus.net/ai-dystopia)
 * [2025-11-11, 19:44:49](https://news.ycombinator.com/item?id=45891868) - [A Catalog of Side Effects](https://bernsteinbear.com/blog/compiler-effects/)

@@ -24,11 +24,11 @@
 * [2025-11-18, 16:23:57](https://news.ycombinator.com/item?id=45968310) - [`satisfies` is my favorite TypeScript keyword (2024)](https://sjer.red/blog/2024-12-21/)
 * [2025-11-17, 20:28:32](https://news.ycombinator.com/item?id=45957911) - [Almost all Collatz orbits attain almost bounded values](https://mathvideos.org/2023/terence-tao-almost-all-collatz-orbits-attain-almost-bounded-values/)
 * [2025-11-17, 09:35:51](https://news.ycombinator.com/item?id=45952137) - [Simplifying Cluster-Wide PostgreSQL Execution with Exec_node() and Spock OSS](https://www.pgedge.com/blog/simplifying-cluster-wide-sql-execution-in-pgedge-with-exec_node)
-* [2025-11-17, 03:20:53](https://news.ycombinator.com/item?id=45950594) - [Tektronix equipment has been used in many movies and shows](https://vintagetek.org/tektronix-in-movies-shows/)
 * [2025-11-16, 00:38:51](https://news.ycombinator.com/item?id=45941775) - [Garibaldi, History's Sexiest Revolutionary?](https://www.historyextra.com/period/victorian/historys-sexiest-revolutionary-meet-the-mesmerising-general-whose-charms-helped-win-a-war/)
 * [2025-11-15, 22:08:28](https://news.ycombinator.com/item?id=45940980) - [$1900 Bug Bounty to Fix the Lenovo Legion Pro 7 16IAX10H's Speakers on Linux](https://github.com/nadimkobeissi/16iax10h-linux-sound-saga)
 * [2025-11-15, 10:53:03](https://news.ycombinator.com/item?id=45936564) - [Show HN: A tool to safely migrate GitHub Actions workflows to Ubuntu-slim runner](https://github.com/fchimpan/gh-slimify)
 * [2025-11-12, 00:31:46](https://news.ycombinator.com/item?id=45894872) - [CERN Council reviews feasibility study for a next-generation collider](https://home.cern/news/press-release/accelerators/cern-council-reviews-feasibility-study-next-generation-collider)
+* [2025-11-11, 19:52:26](https://news.ycombinator.com/item?id=45891961) - [Antic Magazine Interviews Alan Reeve, the Creator of the Diamond OS (1990)](https://computeradsfromthepast.substack.com/p/antic-magazine-interviews-alan-reeve)
 * [2025-11-11, 18:53:45](https://news.ycombinator.com/item?id=45891265) - [The 1957 “Spaghetti-Grows-on-Trees” Hoax](https://www.openculture.com/2025/11/the-1957-spaghetti-grows-on-trees-hoax.html)
 
 ## [Archives](archives/index.md)
