@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-11-23, 12:03:06",
+      "https://news.ycombinator.com/item?id=46022892"
+    ],
+    [
+      "Deepnote (YC S19) is hiring engineers to build a better Jupyter notebook",
+      "https://deepnote.com/join-us"
+    ]
+  ],
+  [
+    [
       "2025-11-23, 10:22:24",
       "https://news.ycombinator.com/item?id=46022279"
     ],
@@ -87,16 +97,6 @@
     [
       "NTSB report: Decryption of images from the Titan submersible camera [pdf] (2024)",
       "https://data.ntsb.gov/Docket/Document/docBLOB?ID=18741602&FileExtension=pdf&FileName=Underwater%20Camera%20-%20Specialist%27s%20Factual%20Report-Rel.pdf"
-    ]
-  ],
-  [
-    [
-      "2025-11-22, 22:03:29",
-      "https://news.ycombinator.com/item?id=46018664"
-    ],
-    [
-      "Windows ARM64 Internals: Deconstructing Pointer Authentication",
-      "https://www.preludesecurity.com/blog/windows-arm64-internals-deconstructing-pointer-authentication"
     ]
   ],
   [
@@ -241,12 +241,12 @@
   ],
   [
     [
-      "2025-11-16, 00:38:51",
-      "https://news.ycombinator.com/item?id=45941775"
+      "2025-11-17, 02:28:57",
+      "https://news.ycombinator.com/item?id=45950364"
     ],
     [
-      "Garibaldi, History's Sexiest Revolutionary?",
-      "https://www.historyextra.com/period/victorian/historys-sexiest-revolutionary-meet-the-mesmerising-general-whose-charms-helped-win-a-war/"
+      "sit: Create StuffIt archives on Unix systems",
+      "https://github.com/thecloudexpanse/sit"
     ]
   ],
   [
