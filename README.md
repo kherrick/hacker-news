@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-11-23, 06:05:51](https://news.ycombinator.com/item?id=46021179) - [Google Revisits JPEG XL in Chromium After Earlier Removal](https://windowsreport.com/google-revisits-jpeg-xl-in-chromium-after-earlier-removal/)
+* [2025-11-23, 04:38:54](https://news.ycombinator.com/item?id=46020794) - [Rust Isn't the Future of Systems Programming – It's Just the Hype Cycle](https://freedium-mirror.cfd/cachecowboy/rust-isnt-the-future-of-systems-programming-it-s-just-the-hype-cycle-29afd73ff871)
 * [2025-11-23, 03:47:17](https://news.ycombinator.com/item?id=46020596) - [A cryptography research body held an election and they can't decrypt the results](https://www.nytimes.com/2025/11/21/world/cryptography-group-lost-election-results.html)
 * [2025-11-23, 03:33:42](https://news.ycombinator.com/item?id=46020543) - [Unusual circuits in the Intel 386's standard cell logic](https://www.righto.com/2025/11/unusual-386-standard-cell-circuits.html)
 * [2025-11-23, 02:18:03](https://news.ycombinator.com/item?id=46020151) - [GCC SC approves inclusion of Algol 68 Front End](https://gcc.gnu.org/pipermail/gcc/2025-November/247020.html)
@@ -23,7 +24,6 @@
 * [2025-11-20, 12:47:41](https://news.ycombinator.com/item?id=45992035) - [Ubuntu LTS releases to 15 years with Legacy add-on](https://canonical.com/blog/canonical-expands-total-coverage-for-ubuntu-lts-releases-to-15-years-with-legacy-add-on)
 * [2025-11-19, 19:47:31](https://news.ycombinator.com/item?id=45984173) - [The Boring Part of Bell Labs](https://elizabethvannostrand.substack.com/p/the-boring-part-of-bell-labs)
 * [2025-11-18, 16:23:57](https://news.ycombinator.com/item?id=45968310) - [`satisfies` is my favorite TypeScript keyword (2024)](https://sjer.red/blog/2024-12-21/)
-* [2025-11-18, 09:38:48](https://news.ycombinator.com/item?id=45963116) - [Take a Look the First Musical Robot](https://egodai.com/)
 * [2025-11-17, 03:20:53](https://news.ycombinator.com/item?id=45950594) - [Tektronix equipment has been used in many movies and shows](https://vintagetek.org/tektronix-in-movies-shows/)
 * [2025-11-16, 00:38:51](https://news.ycombinator.com/item?id=45941775) - [Garibaldi, History's Sexiest Revolutionary?](https://www.historyextra.com/period/victorian/historys-sexiest-revolutionary-meet-the-mesmerising-general-whose-charms-helped-win-a-war/)
 * [2025-11-15, 22:08:28](https://news.ycombinator.com/item?id=45940980) - [$1900 Bug Bounty to Fix the Lenovo Legion Pro 7 16IAX10H's Speakers on Linux](https://github.com/nadimkobeissi/16iax10h-linux-sound-saga)
