@@ -1,22 +1,22 @@
 [
   [
     [
+      "2025-11-23, 21:01:26",
+      "https://news.ycombinator.com/item?id=46027290"
+    ],
+    [
+      "Meet the AI workers who tell their friends and family to stay away from AI",
+      "https://www.theguardian.com/technology/2025/nov/22/ai-workers-tell-family-stay-away"
+    ]
+  ],
+  [
+    [
       "2025-11-23, 20:16:04",
       "https://news.ycombinator.com/item?id=46026939"
     ],
     [
       "\"Good engineering management\" is a fad",
       "https://lethain.com/good-eng-mgmt-is-a-fad/"
-    ]
-  ],
-  [
-    [
-      "2025-11-23, 20:14:46",
-      "https://news.ycombinator.com/item?id=46026919"
-    ],
-    [
-      "I Let Claude Build My Home Network: Two ISPs Bonded, $312/Year Saved",
-      "https://jonathanclark.com/posts/bonded-internet-connection-ai.html"
     ]
   ],
   [
@@ -117,16 +117,6 @@
     [
       "Editing Code in Emacs",
       "https://redpenguin101.github.io/html/posts/2025_11_23_emacs_for_code_editing.html"
-    ]
-  ],
-  [
-    [
-      "2025-11-23, 13:43:24",
-      "https://news.ycombinator.com/item?id=46023531"
-    ],
-    [
-      "Tosijs-schema is a super lightweight schema-first LLM-native JSON schema library",
-      "https://www.npmjs.com/package/tosijs-schema"
     ]
   ],
   [
@@ -237,6 +227,16 @@
     [
       "Show HN: Gitlogue – A terminal tool that replays your Git commits with animation",
       "https://github.com/unhappychoice/gitlogue"
+    ]
+  ],
+  [
+    [
+      "2025-11-18, 11:33:39",
+      "https://news.ycombinator.com/item?id=45963768"
+    ],
+    [
+      "Typechecking is undecideable when 'type' is a type (1989) [pdf]",
+      "https://dspace.mit.edu/bitstream/handle/1721.1/149366/MIT-LCS-TR-458.pdf"
     ]
   ],
   [
