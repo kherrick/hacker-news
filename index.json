@@ -11,32 +11,12 @@
   ],
   [
     [
-      "2025-11-23, 16:45:33",
-      "https://news.ycombinator.com/item?id=46024894"
-    ],
-    [
-      "Dark Mode Sucks",
-      "https://www.tomechangosubanana.com/2025/dark-mode-sucks/"
-    ]
-  ],
-  [
-    [
       "2025-11-23, 16:31:50",
       "https://news.ycombinator.com/item?id=46024773"
     ],
     [
       "Calculus for Mathematicians, Computer Scientists, and Physicists [pdf]",
       "https://mathcs.holycross.edu/~ahwang/print/calc.pdf"
-    ]
-  ],
-  [
-    [
-      "2025-11-23, 16:30:16",
-      "https://news.ycombinator.com/item?id=46024754"
-    ],
-    [
-      "Raycast for Windows Is Here",
-      "https://www.raycast.com/blog/raycast-for-windows"
     ]
   ],
   [
@@ -67,16 +47,6 @@
     [
       "Court filings allege Meta downplayed risks to children and misled the public",
       "https://time.com/7336204/meta-lawsuit-files-child-safety/"
-    ]
-  ],
-  [
-    [
-      "2025-11-23, 15:02:39",
-      "https://news.ycombinator.com/item?id=46024062"
-    ],
-    [
-      "UK minister ducks cost questions on nationwide digital ID scheme",
-      "https://www.theregister.com/2025/11/21/uk_digital_id_costs_uncertain/"
     ]
   ],
   [
@@ -261,6 +231,16 @@
   ],
   [
     [
+      "2025-11-18, 16:23:57",
+      "https://news.ycombinator.com/item?id=45968310"
+    ],
+    [
+      "`satisfies` is my favorite TypeScript keyword (2024)",
+      "https://sjer.red/blog/2024-12-21/"
+    ]
+  ],
+  [
+    [
       "2025-11-18, 11:33:39",
       "https://news.ycombinator.com/item?id=45963768"
     ],
@@ -281,12 +261,32 @@
   ],
   [
     [
+      "2025-11-17, 18:41:35",
+      "https://news.ycombinator.com/item?id=45956542"
+    ],
+    [
+      "Pyrotechnic Display Design Software",
+      "https://github.com/giuseppe-coco/FireShow"
+    ]
+  ],
+  [
+    [
       "2025-11-17, 02:28:57",
       "https://news.ycombinator.com/item?id=45950364"
     ],
     [
       "sit: Create StuffIt archives on Unix systems",
       "https://github.com/thecloudexpanse/sit"
+    ]
+  ],
+  [
+    [
+      "2025-11-15, 22:08:28",
+      "https://news.ycombinator.com/item?id=45940980"
+    ],
+    [
+      "$1900 Bug Bounty to Fix the Lenovo Legion Pro 7 16IAX10H's Speakers on Linux",
+      "https://github.com/nadimkobeissi/16iax10h-linux-sound-saga"
     ]
   ],
   [
