@@ -6,6 +6,7 @@
 
 * [2025-11-23, 13:51:51](https://news.ycombinator.com/item?id=46023573) - [Demand for UK Food Bank Up 15% Year on Year](https://www.theguardian.com/society/2025/nov/23/food-banks-demand-prices-frontline-cost-of-living-crisis)
 * [2025-11-23, 13:43:24](https://news.ycombinator.com/item?id=46023531) - [Tosijs-schema is a super lightweight schema-first LLM-native JSON schema library](https://www.npmjs.com/package/tosijs-schema)
+* [2025-11-23, 13:35:27](https://news.ycombinator.com/item?id=46023460) - [Racket v9.0](https://blog.racket-lang.org/2025/11/racket-v9-0.html)
 * [2025-11-23, 13:24:01](https://news.ycombinator.com/item?id=46023364) - [Claude Code Is Down](https://status.claude.com/incidents/538r2y9cjmhk)
 * [2025-11-23, 12:58:54](https://news.ycombinator.com/item?id=46023213) - [Maybe that's not liquid water on Mars after all](https://phys.org/news/2025-11-liquid-mars.html)
 * [2025-11-23, 12:46:11](https://news.ycombinator.com/item?id=46023143) - [X.com Is Gonna Snitch You Out to the Public If You Use a VPN](https://www.vice.com/en/article/x-show-vpn-warning/)

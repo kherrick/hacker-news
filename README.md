@@ -2,11 +2,11 @@
 
 * [2025-11-23, 13:51:51](https://news.ycombinator.com/item?id=46023573) - [Demand for UK Food Bank Up 15% Year on Year](https://www.theguardian.com/society/2025/nov/23/food-banks-demand-prices-frontline-cost-of-living-crisis)
 * [2025-11-23, 13:43:24](https://news.ycombinator.com/item?id=46023531) - [Tosijs-schema is a super lightweight schema-first LLM-native JSON schema library](https://www.npmjs.com/package/tosijs-schema)
+* [2025-11-23, 13:35:27](https://news.ycombinator.com/item?id=46023460) - [Racket v9.0](https://blog.racket-lang.org/2025/11/racket-v9-0.html)
 * [2025-11-23, 13:24:01](https://news.ycombinator.com/item?id=46023364) - [Claude Code Is Down](https://status.claude.com/incidents/538r2y9cjmhk)
 * [2025-11-23, 12:58:54](https://news.ycombinator.com/item?id=46023213) - [Maybe that's not liquid water on Mars after all](https://phys.org/news/2025-11-liquid-mars.html)
 * [2025-11-23, 12:26:30](https://news.ycombinator.com/item?id=46023013) - [Shaders: How to draw high fidelity graphics with just x and y coordinates](https://www.makingsoftware.com/chapters/shaders)
 * [2025-11-23, 12:03:06](https://news.ycombinator.com/item?id=46022892) - [Deepnote (YC S19) is hiring engineers to build a better Jupyter notebook](https://deepnote.com/join-us)
-* [2025-11-23, 11:32:15](https://news.ycombinator.com/item?id=46022704) - [Silicon Valley startups: being evil, again and again](https://notesfrombelow.org/article/silicon-valley-startups-doing-evil-again-and-again)
 * [2025-11-23, 08:40:41](https://news.ycombinator.com/item?id=46021825) - [After my dad died, we found the love letters](https://www.jenn.site/after-my-dad-died-we-found-the-love-letters/)
 * [2025-11-23, 03:33:42](https://news.ycombinator.com/item?id=46020543) - [Unusual circuits in the Intel 386's standard cell logic](https://www.righto.com/2025/11/unusual-386-standard-cell-circuits.html)
 * [2025-11-23, 02:18:03](https://news.ycombinator.com/item?id=46020151) - [GCC SC approves inclusion of Algol 68 Front End](https://gcc.gnu.org/pipermail/gcc/2025-November/247020.html)
