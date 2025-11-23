@@ -25,11 +25,11 @@
 * [2025-11-18, 12:47:04](https://news.ycombinator.com/item?id=45964956) - [Show HN: Gitlogue – A terminal tool that replays your Git commits with animation](https://github.com/unhappychoice/gitlogue)
 * [2025-11-17, 20:28:32](https://news.ycombinator.com/item?id=45957911) - [Almost all Collatz orbits attain almost bounded values](https://mathvideos.org/2023/terence-tao-almost-all-collatz-orbits-attain-almost-bounded-values/)
 * [2025-11-17, 18:41:35](https://news.ycombinator.com/item?id=45956542) - [Pyrotechnic Display Design Software](https://github.com/giuseppe-coco/FireShow)
+* [2025-11-17, 10:25:15](https://news.ycombinator.com/item?id=45952355) - ['Complicated' watch from 1907 sets world record at auction](https://www.bbc.co.uk/news/articles/cn7e4m48gdro)
 * [2025-11-17, 09:38:45](https://news.ycombinator.com/item?id=45952155) - [Halfbakery: Purely functional programming with heat output](https://www.halfbakery.com/idea/Purely_20functional_20programming_20with_20heat_20output#1763275883)
 * [2025-11-16, 00:38:51](https://news.ycombinator.com/item?id=45941775) - [Garibaldi, history's sexiest revolutionary?](https://www.historyextra.com/period/victorian/historys-sexiest-revolutionary-meet-the-mesmerising-general-whose-charms-helped-win-a-war/)
 * [2025-11-14, 00:32:40](https://news.ycombinator.com/item?id=45922514) - [Spectral rendering, part 2: Real-time rendering](https://momentsingraphics.de/SpectralRendering2Rendering.html)
 * [2025-11-13, 19:07:57](https://news.ycombinator.com/item?id=45919118) - [I Learned the Pythagorean Theorem](https://danq.me/2025/11/13/pythagorean-theorem/)
-* [2025-11-13, 19:02:30](https://news.ycombinator.com/item?id=45919054) - [The Inference Economy: Why demand matters more than supply](https://frontierai.substack.com/p/the-inference-economy-part-ii)
 
 ## [Archives](archives/index.md)
 
