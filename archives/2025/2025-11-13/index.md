@@ -27,6 +27,7 @@
 * [2025-11-13, 18:41:33](https://news.ycombinator.com/item?id=45918732) - [IBM Patented Euler's 200 Year Old Math Technique for 'AI Interpretability'](https://leetarxiv.substack.com/p/ibm-patented-eulers-fractions)
 * [2025-11-13, 18:34:12](https://news.ycombinator.com/item?id=45918638) - [Disrupting the first reported AI-orchestrated cyber espionage campaign](https://www.anthropic.com/news/disrupting-AI-espionage)
 * [2025-11-13, 18:32:36](https://news.ycombinator.com/item?id=45918616) - [Rust in Android: move fast and fix things](https://security.googleblog.com/2025/11/rust-in-android-move-fast-fix-things.html)
+* [2025-11-13, 18:18:01](https://news.ycombinator.com/item?id=45918442) - [Unicode Binary Input Terminal](https://hackaday.io/project/192644-unicode-binary-input-terminal)
 * [2025-11-13, 18:12:30](https://news.ycombinator.com/item?id=45918355) - [Ask HN: Anyone else disillusioned with \"AI experts\" in their team?](https://news.ycombinator.com/item?id=45918355)
 * [2025-11-13, 18:10:29](https://news.ycombinator.com/item?id=45918331) - [The Eggstraordinary Fortress](https://ahmed1011001.github.io/Notes/stories/eggstrodinary.html)
 * [2025-11-13, 18:01:52](https://news.ycombinator.com/item?id=45918203) - [Microsoft confirms Windows 11 is about to change gets enormous backlash – Neowin](https://www.neowin.net/news/microsoft-confirms-windows-11-is-about-to-change-massively-gets-enormous-backlash/)

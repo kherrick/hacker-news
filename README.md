@@ -8,7 +8,6 @@
 * [2025-11-23, 01:09:47](https://news.ycombinator.com/item?id=46019817) - [Meta buried 'causal' evidence of social media harm, US court filings allege](https://www.reuters.com/sustainability/boards-policy-regulation/meta-buried-causal-evidence-social-media-harm-us-court-filings-allege-2025-11-23/)
 * [2025-11-23, 00:46:53](https://news.ycombinator.com/item?id=46019685) - [A monopoly ISP refuses to fix upstream infrastructure](https://sacbear.com/xfinity-wont-fix-internet/)
 * [2025-11-23, 00:35:27](https://news.ycombinator.com/item?id=46019636) - [NTSB report: Decryption of images from the Titan submersible camera [pdf] (2024)](https://data.ntsb.gov/Docket/Document/docBLOB?ID=18741602&FileExtension=pdf&FileName=Underwater%20Camera%20-%20Specialist%27s%20Factual%20Report-Rel.pdf)
-* [2025-11-22, 23:08:57](https://news.ycombinator.com/item?id=46019168) - [How to Spot a Counterfeit Lithium-Ion Battery](https://spectrum.ieee.org/counterfeit-lithium-ion-batteries)
 * [2025-11-22, 22:03:29](https://news.ycombinator.com/item?id=46018664) - [Windows ARM64 Internals: Deconstructing Pointer Authentication](https://www.preludesecurity.com/blog/windows-arm64-internals-deconstructing-pointer-authentication)
 * [2025-11-22, 21:20:24](https://news.ycombinator.com/item?id=46018380) - [WorldGen – Text to Immersive 3D Worlds](https://www.meta.com/en-gb/blog/worldgen-3d-world-generation-reality-labs-generative-ai-research/)
 * [2025-11-22, 20:54:35](https://news.ycombinator.com/item?id=46018165) - [Show HN: Build the habit of writing meaningful commit messages](https://github.com/arpxspace/smartcommit)
@@ -29,6 +28,7 @@
 * [2025-11-16, 00:38:51](https://news.ycombinator.com/item?id=45941775) - [Garibaldi, History's Sexiest Revolutionary?](https://www.historyextra.com/period/victorian/historys-sexiest-revolutionary-meet-the-mesmerising-general-whose-charms-helped-win-a-war/)
 * [2025-11-15, 22:08:28](https://news.ycombinator.com/item?id=45940980) - [$1900 Bug Bounty to Fix the Lenovo Legion Pro 7 16IAX10H's Speakers on Linux](https://github.com/nadimkobeissi/16iax10h-linux-sound-saga)
 * [2025-11-15, 10:53:03](https://news.ycombinator.com/item?id=45936564) - [Show HN: A tool to safely migrate GitHub Actions workflows to Ubuntu-slim runner](https://github.com/fchimpan/gh-slimify)
+* [2025-11-13, 18:18:01](https://news.ycombinator.com/item?id=45918442) - [Unicode Binary Input Terminal](https://hackaday.io/project/192644-unicode-binary-input-terminal)
 * [2025-11-11, 18:53:45](https://news.ycombinator.com/item?id=45891265) - [The 1957 “Spaghetti-Grows-on-Trees” Hoax](https://www.openculture.com/2025/11/the-1957-spaghetti-grows-on-trees-hoax.html)
 
 ## [Archives](archives/index.md)
