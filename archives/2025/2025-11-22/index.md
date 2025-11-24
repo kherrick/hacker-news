@@ -40,6 +40,7 @@
 * [2025-11-22, 10:19:27](https://news.ycombinator.com/item?id=46013633) - [Jack Ma's family shifted wealth to UK after years-long 'disappearance'](https://www.source-material.org/jack-ma-bought-uk-home-after-years-long-disappearance/)
 * [2025-11-22, 10:08:31](https://news.ycombinator.com/item?id=46013579) - [Libpng 1.6.51: Four buffer overflow vulnerabilities fixed](https://www.openwall.com/lists/oss-security/2025/11/22/1)
 * [2025-11-22, 09:41:29](https://news.ycombinator.com/item?id=46013477) - [Roblox CEO Makes a Fool of Himself in Car-Crash Interview](https://kotaku.com/roblox-new-york-times-interview-baszucki-2000646174)
+* [2025-11-22, 08:26:13](https://news.ycombinator.com/item?id=46013132) - [Serflings is a remake of The Settlers 1](https://www.simpleguide.net/serflings.xhtml)
 * [2025-11-22, 07:22:55](https://news.ycombinator.com/item?id=46012846) - [Set theory with types](https://lawrencecpaulson.github.io//2025/11/21/Typed_Set_Theory.html)
 * [2025-11-22, 06:13:05](https://news.ycombinator.com/item?id=46012538) - [Building a deep-space logistics startup](https://ionmicrosys.com/)
 * [2025-11-22, 05:21:53](https://news.ycombinator.com/item?id=46012328) - [Superman copy found in mum's attic is most valuable comic ever at $9.12M](https://www.bbc.com/news/articles/c8e9rp0knj6o)

@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-11-24](index.md)
 
+* [2025-11-24, 13:58:05](https://news.ycombinator.com/item?id=46034145) - [Show HN: Cynthia – Reliably play MIDI music files – MIT / Portable / Windows](https://www.blaizenterprises.com/cynthia.html)
+* [2025-11-24, 13:57:53](https://news.ycombinator.com/item?id=46034142) - [Fast Lua runtime written in Rust](https://astra.arkforge.net/)
 * [2025-11-24, 13:37:28](https://news.ycombinator.com/item?id=46033945) - ['Nobody wants to come': What if the U.S. can no longer attract immigrant doctors](https://www.npr.org/sections/shots-health-news/2025/11/24/nx-s1-5618291/immigrant-physicians-foreign-born-doctors-trump-h1b)
 * [2025-11-24, 12:47:38](https://news.ycombinator.com/item?id=46033536) - [Trade Chaos Causes Businesses to Rethink Their Relationship with the U.S.](https://www.nytimes.com/2025/11/24/business/tariffs-trade-small-business.html)
 * [2025-11-24, 12:35:15](https://news.ycombinator.com/item?id=46033435) - [Bureau of Meteorology asked to examine $96.5M bill for website redesign](https://www.abc.net.au/news/2025-11-23/bureau-of-meteorology-new-website-cost-blowout-to-96-million/106042202)
