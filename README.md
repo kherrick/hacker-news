@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-11-24, 06:37:20](https://news.ycombinator.com/item?id=46031025) - [Git 3.0 will use main as the default branch](https://thoughtbot.com/blog/git-3-0-will-use-main-as-the-default-branch)
 * [2025-11-24, 05:17:15](https://news.ycombinator.com/item?id=46030613) - [Lambda Calculus – Animated Beta Reduction of Lambda Diagrams](https://cruzgodar.com/applets/lambda-calculus)
 * [2025-11-24, 04:33:57](https://news.ycombinator.com/item?id=46030414) - [Build desktop applications using Go and Web Technologies](https://github.com/wailsapp/wails)
 * [2025-11-24, 03:08:10](https://news.ycombinator.com/item?id=46029932) - [RuBee](https://computer.rip/2025-11-22-RuBee.html)
@@ -23,6 +22,7 @@
 * [2025-11-23, 16:12:06](https://news.ycombinator.com/item?id=46024584) - [Mount Proton Drive on Linux using rclone and systemd](https://github.com/dadtronics/protondrive-linux)
 * [2025-11-22, 20:27:41](https://news.ycombinator.com/item?id=46017972) - [Terence Tao: At the Erdos problem website, AI assistance now becoming routine](https://mathstodon.xyz/@tao/115591487350860999)
 * [2025-11-21, 22:48:39](https://news.ycombinator.com/item?id=46009962) - [A time-travelling door bug in Half Life 2](https://mastodon.gamedev.place/@TomF/115589875974658415)
+* [2025-11-20, 07:25:38](https://news.ycombinator.com/item?id=45989899) - [GravOpt – optimizer hits 99.9999% MAX-CUT in 100 steps](https://github.com/Kretski/GravOptAdaptiveE)
 * [2025-11-19, 20:53:42](https://news.ycombinator.com/item?id=45985008) - [New magnetic component discovered in the Faraday effect after nearly 2 centuries](https://phys.org/news/2025-11-magnetic-component-faraday-effect-centuries.html)
 * [2025-11-19, 09:08:10](https://news.ycombinator.com/item?id=45977386) - [The Rust Performance Book (2020)](https://nnethercote.github.io/perf-book/)
 * [2025-11-19, 07:08:49](https://news.ycombinator.com/item?id=45976666) - [Band of Holes](https://en.wikipedia.org/wiki/Band_of_Holes)

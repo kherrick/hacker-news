@@ -48,6 +48,7 @@
 * [2025-11-20, 11:23:35](https://news.ycombinator.com/item?id=45991497) - [Show HN: Awesome J2ME](https://github.com/hstsethi/awesome-j2me)
 * [2025-11-20, 09:52:11](https://news.ycombinator.com/item?id=45990934) - [Interactive World History Atlas Since 3000 BC](http://geacron.com/home-en/)
 * [2025-11-20, 09:04:30](https://news.ycombinator.com/item?id=45990575) - [DOS Days – Laptop Displays](https://www.dosdays.co.uk/topics/laptop_displays.php)
+* [2025-11-20, 07:25:38](https://news.ycombinator.com/item?id=45989899) - [GravOpt – optimizer hits 99.9999% MAX-CUT in 100 steps](https://github.com/Kretski/GravOptAdaptiveE)
 * [2025-11-20, 06:40:46](https://news.ycombinator.com/item?id=45989650) - [Implementation of a Java Processor on a FPGA](https://mavmatrix.uta.edu/electricaleng_theses/337/)
 * [2025-11-20, 06:07:01](https://news.ycombinator.com/item?id=45989469) - [PHP 8.5 gets released today, here's what's new](https://stitcher.io/blog/new-in-php-85)
 * [2025-11-20, 05:52:43](https://news.ycombinator.com/item?id=45989394) - [Show HN: An A2A-compatible, open-source framework for multi-agent networks](https://github.com/openagents-org/openagents)
