@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-11-24](index.md)
 
+* [2025-11-24, 17:52:01](https://news.ycombinator.com/item?id=46036895) - [Cool-retro-term: terminal emulator which mimics look and feel of the old CRTs](https://github.com/Swordfish90/cool-retro-term)
+* [2025-11-24, 17:51:02](https://news.ycombinator.com/item?id=46036878) - [Andrej Karpathy on X: implications of AI to schools](https://twitter.com/karpathy/status/1993010584175141038)
 * [2025-11-24, 17:00:33](https://news.ycombinator.com/item?id=46036222) - [Corvus Robotics (YC S18): Hiring Head of Mfg/Ops, Next Door to YC Mountain View](https://news.ycombinator.com/item?id=46036222)
 * [2025-11-24, 17:00:07](https://news.ycombinator.com/item?id=46036217) - [France threatens GrapheneOS with arrests / server seizure for refusing backdoors](https://mamot.fr/@LaQuadrature/115581775965025042)
 * [2025-11-24, 16:53:11](https://news.ycombinator.com/item?id=46036139) - [Britain is one of the richest countries. So why do children live in poverty?](https://www.cnn.com/2025/11/24/uk/britain-child-poverty-intl-scli)
