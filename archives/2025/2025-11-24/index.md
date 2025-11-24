@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2025-11-24](index.md)
 
+* [2025-11-24, 18:49:47](https://news.ycombinator.com/item?id=46037591) - [Google's new 'Aluminium OS' project brings Android to PC](https://www.androidauthority.com/aluminium-os-android-for-pcs-3619092/)
+* [2025-11-24, 18:48:04](https://news.ycombinator.com/item?id=46037573) - [GrapheneOS migrates server infrastructure from France](https://www.privacyguides.org/news/2025/11/22/grapheneos-migrates-server-infrastructure-from-france-amid-police-intimidation-claims/)
+* [2025-11-24, 18:37:27](https://news.ycombinator.com/item?id=46037416) - [Launch HN: Karumi (YC F25) – Personalized, agentic product demos](https://www.karumi.ai/meet/start/phlz)
+* [2025-11-24, 18:26:09](https://news.ycombinator.com/item?id=46037267) - [Mind-reading devices can now predict preconscious thoughts: is it time to worry?](https://www.nature.com/articles/d41586-025-03714-0)
 * [2025-11-24, 17:52:01](https://news.ycombinator.com/item?id=46036895) - [Cool-retro-term: terminal emulator which mimics look and feel of the old CRTs](https://github.com/Swordfish90/cool-retro-term)
 * [2025-11-24, 17:51:02](https://news.ycombinator.com/item?id=46036878) - [Andrej Karpathy on X: implications of AI to schools](https://twitter.com/karpathy/status/1993010584175141038)
 * [2025-11-24, 17:00:33](https://news.ycombinator.com/item?id=46036222) - [Corvus Robotics (YC S18): Hiring Head of Mfg/Ops, Next Door to YC Mountain View](https://news.ycombinator.com/item?id=46036222)
