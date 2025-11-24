@@ -11,6 +11,7 @@
 * [2025-11-19, 21:53:24](https://news.ycombinator.com/item?id=45985799) - [Roblox Requires Age Checks for Communication, Ushering in New Safety Standard](https://corp.roblox.com/newsroom/2025/11/roblox-requires-age-checks-limits-minor-and-adult-chat)
 * [2025-11-19, 21:30:02](https://news.ycombinator.com/item?id=45985506) - [Screw it, I'm installing Linux](https://www.theverge.com/tech/823337/switching-linux-gaming-desktop-cachyos)
 * [2025-11-19, 21:16:25](https://news.ycombinator.com/item?id=45985318) - [Labor Department Won't Publish October Unemployment Rate](https://www.wsj.com/economy/bls-to-publish-november-jobs-data-on-december-16-b9baab5c)
+* [2025-11-19, 21:15:45](https://news.ycombinator.com/item?id=45985306) - [I built an faster Notion in Rust](https://imedadel.com/outcrop/)
 * [2025-11-19, 21:07:05](https://news.ycombinator.com/item?id=45985196) - [How Slide Rules Work](https://amenzwa.github.io/stem/ComputingHistory/HowSlideRulesWork/)
 * [2025-11-19, 20:55:30](https://news.ycombinator.com/item?id=45985036) - [Researchers discover security vulnerability in WhatsApp](https://www.univie.ac.at/en/news/detail/forscherinnen-entdecken-grosse-sicherheitsluecke-in-whatsapp)
 * [2025-11-19, 20:53:42](https://news.ycombinator.com/item?id=45985008) - [New magnetic component discovered in the Faraday effect after nearly 2 centuries](https://phys.org/news/2025-11-magnetic-component-faraday-effect-centuries.html)
