@@ -1,6 +1,36 @@
 [
   [
     [
+      "2025-11-24, 12:47:38",
+      "https://news.ycombinator.com/item?id=46033536"
+    ],
+    [
+      "Trade Chaos Causes Businesses to Rethink Their Relationship with the U.S.",
+      "https://www.nytimes.com/2025/11/24/business/tariffs-trade-small-business.html"
+    ]
+  ],
+  [
+    [
+      "2025-11-24, 12:35:15",
+      "https://news.ycombinator.com/item?id=46033435"
+    ],
+    [
+      "Bureau of Meteorology asked to examine $96.5M bill for website redesign",
+      "https://www.abc.net.au/news/2025-11-23/bureau-of-meteorology-new-website-cost-blowout-to-96-million/106042202"
+    ]
+  ],
+  [
+    [
+      "2025-11-24, 12:00:55",
+      "https://news.ycombinator.com/item?id=46033151"
+    ],
+    [
+      "NSA and IETF, part 3: Dodging the issues at hand",
+      "https://blog.cr.yp.to/20251123-dodging.html"
+    ]
+  ],
+  [
+    [
       "2025-11-24, 10:40:22",
       "https://news.ycombinator.com/item?id=46032539"
     ],
@@ -121,16 +151,6 @@
   ],
   [
     [
-      "2025-11-23, 22:24:23",
-      "https://news.ycombinator.com/item?id=46027947"
-    ],
-    [
-      "A desktop app for isolated, parallel agentic development",
-      "https://github.com/coder/mux"
-    ]
-  ],
-  [
-    [
       "2025-11-23, 20:51:22",
       "https://news.ycombinator.com/item?id=46027216"
     ],
@@ -181,32 +201,12 @@
   ],
   [
     [
-      "2025-11-22, 20:27:41",
-      "https://news.ycombinator.com/item?id=46017972"
-    ],
-    [
-      "Terence Tao: At the Erdos problem website, AI assistance now becoming routine",
-      "https://mathstodon.xyz/@tao/115591487350860999"
-    ]
-  ],
-  [
-    [
       "2025-11-22, 07:22:55",
       "https://news.ycombinator.com/item?id=46012846"
     ],
     [
       "Set theory with types",
       "https://lawrencecpaulson.github.io//2025/11/21/Typed_Set_Theory.html"
-    ]
-  ],
-  [
-    [
-      "2025-11-21, 22:48:39",
-      "https://news.ycombinator.com/item?id=46009962"
-    ],
-    [
-      "A time-travelling door bug in Half Life 2",
-      "https://mastodon.gamedev.place/@TomF/115589875974658415"
     ]
   ],
   [
@@ -227,6 +227,16 @@
     [
       "Moss survived outside of the International Space Station for 9 months",
       "https://www.livescience.com/space/scientists-put-moss-on-the-outside-of-the-international-space-station-for-9-months-then-kept-it-growing-back-on-earth"
+    ]
+  ],
+  [
+    [
+      "2025-11-19, 21:15:45",
+      "https://news.ycombinator.com/item?id=45985306"
+    ],
+    [
+      "I built an faster Notion in Rust",
+      "https://imedadel.com/outcrop/"
     ]
   ],
   [
@@ -267,16 +277,6 @@
     [
       "The Rust Performance Book (2020)",
       "https://nnethercote.github.io/perf-book/"
-    ]
-  ],
-  [
-    [
-      "2025-11-19, 07:08:49",
-      "https://news.ycombinator.com/item?id=45976666"
-    ],
-    [
-      "Band of Holes",
-      "https://en.wikipedia.org/wiki/Band_of_Holes"
     ]
   ],
   [
