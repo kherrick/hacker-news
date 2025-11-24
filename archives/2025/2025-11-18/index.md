@@ -14,6 +14,7 @@
 * [2025-11-18, 21:29:37](https://news.ycombinator.com/item?id=45972390) - [Bild AI (YC W25) Is Hiring: Make Housing Affordable](https://www.ycombinator.com/companies/bild-ai/jobs/m2ilR5L-founding-engineer-applied-ai)
 * [2025-11-18, 20:40:46](https://news.ycombinator.com/item?id=45971726) - [GitHub: Git operation failures](https://www.githubstatus.com/incidents/5q7nmlxz30sk)
 * [2025-11-18, 20:29:35](https://news.ycombinator.com/item?id=45971601) - [Oracle is underwater on its 'astonishing' $300B OpenAI deal](https://www.ft.com/content/064bbca0-1cb2-45ab-85f4-25fdfc318d89)
+* [2025-11-18, 20:24:39](https://news.ycombinator.com/item?id=45971548) - [Murphyjitsu (2018)](https://www.lesswrong.com/posts/N47M3JiHveHfwdbFg/hammertime-day-10-murphyjitsu)
 * [2025-11-18, 19:32:27](https://news.ycombinator.com/item?id=45970885) - [A surprise with how '#!' handles its program argument in practice](https://utcc.utoronto.ca/~cks/space/blog/unix/ShebangRelativePathSurprise)
 * [2025-11-18, 19:16:09](https://news.ycombinator.com/item?id=45970663) - [New EU Chat Control Proposal Moves Forward](https://techreport.com/news/new-eu-chat-control-proposal-privacy-experts-see-dangerous-backdoor/)
 * [2025-11-18, 19:05:44](https://news.ycombinator.com/item?id=45970519) - [Trying out Gemini 3 Pro with audio transcription and a new pelican benchmark](https://simonwillison.net/2025/Nov/18/gemini-3/)

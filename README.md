@@ -13,7 +13,6 @@
 * [2025-11-24, 02:01:02](https://news.ycombinator.com/item?id=46029534) - [Ego, empathy, and humility at work](https://matthogg.fyi/a-unified-theory-of-ego-empathy-and-humility-at-work/)
 * [2025-11-23, 22:36:07](https://news.ycombinator.com/item?id=46028046) - [Liva AI (YC S25) Is Hiring](https://www.ycombinator.com/companies/liva-ai/jobs/fYP8QP8-growth-intern)
 * [2025-11-23, 22:25:36](https://news.ycombinator.com/item?id=46027962) - [Show HN: I wrote a minimal memory allocator in C](https://github.com/t9nzin/memory)
-* [2025-11-23, 22:24:23](https://news.ycombinator.com/item?id=46027947) - [A desktop app for isolated, parallel agentic development](https://github.com/coder/mux)
 * [2025-11-23, 20:51:22](https://news.ycombinator.com/item?id=46027216) - [µcad: New open source programming language that can generate 2D sketches and 3D](https://microcad.xyz/)
 * [2025-11-23, 18:20:27](https://news.ycombinator.com/item?id=46025942) - [Fran Sans – font inspired by San Francisco light rail displays](https://emilysneddon.com/fran-sans-essay)
 * [2025-11-23, 17:55:11](https://news.ycombinator.com/item?id=46025721) - [Native Secure Enclave backed SSH keys on macOS](https://gist.github.com/arianvp/5f59f1783e3eaf1a2d4cd8e952bb4acf)
@@ -28,6 +27,7 @@
 * [2025-11-19, 09:08:10](https://news.ycombinator.com/item?id=45977386) - [The Rust Performance Book (2020)](https://nnethercote.github.io/perf-book/)
 * [2025-11-19, 07:08:49](https://news.ycombinator.com/item?id=45976666) - [Band of Holes](https://en.wikipedia.org/wiki/Band_of_Holes)
 * [2025-11-18, 22:52:57](https://news.ycombinator.com/item?id=45973364) - [Having Fun with Complex Numbers](https://mathwonder.org/Having-Fun-with-Complex-Numbers/)
+* [2025-11-18, 20:24:39](https://news.ycombinator.com/item?id=45971548) - [Murphyjitsu (2018)](https://www.lesswrong.com/posts/N47M3JiHveHfwdbFg/hammertime-day-10-murphyjitsu)
 * [2025-11-18, 18:47:45](https://news.ycombinator.com/item?id=45970317) - [Hyperoptic: IPv6 and Out-of-Order Packets](https://blog.zakkemble.net/hyperoptic-ipv6-and-out-of-order-packets/)
 * [2025-11-18, 16:54:22](https://news.ycombinator.com/item?id=45968827) - [Disney Lost Roger Rabbit](https://pluralistic.net/2025/11/18/im-not-bad/)
 
