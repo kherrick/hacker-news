@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-11-24](index.md)
 
+* [2025-11-24, 14:08:39](https://news.ycombinator.com/item?id=46034281) - [Hugo Static Site on Cloudflare](https://techlife.blog/posts/hugo-static-site-on-cloudflare/)
 * [2025-11-24, 13:58:05](https://news.ycombinator.com/item?id=46034145) - [Show HN: Cynthia – Reliably play MIDI music files – MIT / Portable / Windows](https://www.blaizenterprises.com/cynthia.html)
 * [2025-11-24, 13:57:53](https://news.ycombinator.com/item?id=46034142) - [Fast Lua runtime written in Rust](https://astra.arkforge.net/)
 * [2025-11-24, 13:37:28](https://news.ycombinator.com/item?id=46033945) - ['Nobody wants to come': What if the U.S. can no longer attract immigrant doctors](https://www.npr.org/sections/shots-health-news/2025/11/24/nx-s1-5618291/immigrant-physicians-foreign-born-doctors-trump-h1b)
