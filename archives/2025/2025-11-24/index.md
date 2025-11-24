@@ -13,6 +13,7 @@
 * [2025-11-24, 12:35:15](https://news.ycombinator.com/item?id=46033435) - [Bureau of Meteorology asked to examine $96.5M bill for website redesign](https://www.abc.net.au/news/2025-11-23/bureau-of-meteorology-new-website-cost-blowout-to-96-million/106042202)
 * [2025-11-24, 12:23:02](https://news.ycombinator.com/item?id=46033330) - [Chrome Jpegxl Issue Reopened](https://issues.chromium.org/issues/40168998)
 * [2025-11-24, 12:00:55](https://news.ycombinator.com/item?id=46033151) - [NSA and IETF, part 3: Dodging the issues at hand](https://blog.cr.yp.to/20251123-dodging.html)
+* [2025-11-24, 11:02:51](https://news.ycombinator.com/item?id=46032694) - [I put a real search engine into a Lambda, so you only pay when you search](https://nixiesearch.substack.com/p/i-put-a-real-search-engine-into-a)
 * [2025-11-24, 10:40:22](https://news.ycombinator.com/item?id=46032539) - [Shai-Hulud Returns: Over 300 NPM Packages Infected](https://helixguard.ai/blog/malicious-sha1hulud-2025-11-24)
 * [2025-11-24, 10:37:05](https://news.ycombinator.com/item?id=46032513) - [General principles for the use of AI at CERN](https://home.web.cern.ch/news/official-news/knowledge-sharing/general-principles-use-ai-cern)
 * [2025-11-24, 07:11:38](https://news.ycombinator.com/item?id=46031208) - [Show HN: Syd – An offline-first, AI-augmented workstation for blue teams](https://www.sydsec.co.uk)
