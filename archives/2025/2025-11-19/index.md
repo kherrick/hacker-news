@@ -78,6 +78,7 @@
 * [2025-11-19, 07:20:33](https://news.ycombinator.com/item?id=45976734) - [What nicotine does to your brain](https://economist.com/science-and-technology/2025/09/12/what-nicotine-does-to-your-brain)
 * [2025-11-19, 07:13:00](https://news.ycombinator.com/item?id=45976693) - [Free interactive tool that shows you how PCIe lanes work on motherboards](https://mobomaps.com)
 * [2025-11-19, 07:09:52](https://news.ycombinator.com/item?id=45976670) - [A down detector for down detector's down detector](https://downdetectorsdowndetectorsdowndetector.com/)
+* [2025-11-19, 07:08:49](https://news.ycombinator.com/item?id=45976666) - [Band of Holes](https://en.wikipedia.org/wiki/Band_of_Holes)
 * [2025-11-19, 02:02:10](https://news.ycombinator.com/item?id=45975006) - [DOE gives Microsoft partner $1B loan to restart Three Mile Island reactor](https://techcrunch.com/2025/11/18/trump-doe-gives-microsoft-partner-1b-loan-to-restart-three-mile-island-reactor/)
 * [2025-11-19, 01:57:37](https://news.ycombinator.com/item?id=45974977) - [First kiss dates back 21M years](https://www.bbc.com/news/articles/cr43gq61g2qo)
 * [2025-11-19, 01:41:33](https://news.ycombinator.com/item?id=45974869) - [I just want working RCS messaging](https://wt.gd/i-just-want-my-rcs-messaging-to-work)
