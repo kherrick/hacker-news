@@ -40,6 +40,7 @@
 * [2025-11-19, 18:01:59](https://news.ycombinator.com/item?id=45982649) - [Building more with GPT-5.1-Codex-Max](https://openai.com/index/gpt-5-1-codex-max/)
 * [2025-11-19, 17:53:58](https://news.ycombinator.com/item?id=45982542) - [I am just sooo sick of AI prediction content, let's kill it already](https://verdikapuku.com/posts/i-am-just-so-sick-of-ai-prediction-content/)
 * [2025-11-19, 17:52:52](https://news.ycombinator.com/item?id=45982526) - [Show HN: DNS Benchmark Tool – Compare and monitor resolvers](https://github.com/frankovo/dns-benchmark-tool)
+* [2025-11-19, 17:33:45](https://news.ycombinator.com/item?id=45982280) - [Show HN: Virtual SLURM HPC cluster in a Docker Compose](https://github.com/exactlab/vhpc)
 * [2025-11-19, 17:31:32](https://news.ycombinator.com/item?id=45982262) - [A Chinese firm bought an insurer for CIA agents](https://www.bbc.com/news/articles/c4g311jn1m9o)
 * [2025-11-19, 17:22:46](https://news.ycombinator.com/item?id=45982162) - [Static Web Hosting on the Intel N150: FreeBSD, SmartOS, NetBSD, OpenBSD and Linu](https://it-notes.dragas.net/2025/11/19/static-web-hosting-intel-n150-freebsd-smartos-netbsd-openbsd-linux/)
 * [2025-11-19, 17:20:12](https://news.ycombinator.com/item?id=45982128) - [LLMs are bullshitters. But that doesn't mean they're not useful](https://blog.kagi.com/llms)
