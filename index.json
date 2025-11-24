@@ -11,22 +11,12 @@
   ],
   [
     [
-      "2025-11-24, 16:53:11",
-      "https://news.ycombinator.com/item?id=46036139"
-    ],
-    [
-      "Britain is one of the richest countries. So why do children live in poverty?",
-      "https://www.cnn.com/2025/11/24/uk/britain-child-poverty-intl-scli"
-    ]
-  ],
-  [
-    [
-      "2025-11-24, 16:40:22",
-      "https://news.ycombinator.com/item?id=46035977"
+      "2025-11-24, 17:00:07",
+      "https://news.ycombinator.com/item?id=46036217"
     ],
     [
       "France threatens GrapheneOS with arrests / server seizure for refusing backdoors",
-      "https://grapheneos.social/@watchfulcitizen@goingdark.social/115605398547420414"
+      "https://mamot.fr/@LaQuadrature/115581775965025042"
     ]
   ],
   [
@@ -77,6 +67,16 @@
     [
       "NSA and IETF, part 3: Dodging the issues at hand",
       "https://blog.cr.yp.to/20251123-dodging.html"
+    ]
+  ],
+  [
+    [
+      "2025-11-24, 11:02:51",
+      "https://news.ycombinator.com/item?id=46032694"
+    ],
+    [
+      "I put a real search engine into a Lambda, so you only pay when you search",
+      "https://nixiesearch.substack.com/p/i-put-a-real-search-engine-into-a"
     ]
   ],
   [
@@ -245,7 +245,7 @@
       "https://news.ycombinator.com/item?id=45985306"
     ],
     [
-      "I built an faster Notion in Rust",
+      "I built a faster Notion in Rust",
       "https://imedadel.com/outcrop/"
     ]
   ],
