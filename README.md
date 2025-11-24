@@ -2,9 +2,9 @@
 
 * [2025-11-24, 17:00:33](https://news.ycombinator.com/item?id=46036222) - [Corvus Robotics (YC S18): Hiring Head of Mfg/Ops, Next Door to YC Mountain View](https://news.ycombinator.com/item?id=46036222)
 * [2025-11-24, 17:00:07](https://news.ycombinator.com/item?id=46036217) - [France threatens GrapheneOS with arrests / server seizure for refusing backdoors](https://mamot.fr/@LaQuadrature/115581775965025042)
+* [2025-11-24, 16:52:21](https://news.ycombinator.com/item?id=46036129) - [A New Raspberry Pi Imager](https://www.raspberrypi.com/news/a-new-raspberry-pi-imager/)
 * [2025-11-24, 16:03:36](https://news.ycombinator.com/item?id=46035533) - [SHA1-Hulud the Second Comming – Postman, Zapier, PostHog All Compromised via NPM](https://www.aikido.dev/blog/shai-hulud-strikes-again-hitting-zapier-ensdomains)
 * [2025-11-24, 13:58:05](https://news.ycombinator.com/item?id=46034145) - [Show HN: Cynthia – Reliably play MIDI music files – MIT / Portable / Windows](https://www.blaizenterprises.com/cynthia.html)
-* [2025-11-24, 13:57:53](https://news.ycombinator.com/item?id=46034142) - [Fast Lua runtime written in Rust](https://astra.arkforge.net/)
 * [2025-11-24, 12:23:02](https://news.ycombinator.com/item?id=46033330) - [Chrome Jpegxl Issue Reopened](https://issues.chromium.org/issues/40168998)
 * [2025-11-24, 12:00:55](https://news.ycombinator.com/item?id=46033151) - [NSA and IETF, part 3: Dodging the issues at hand](https://blog.cr.yp.to/20251123-dodging.html)
 * [2025-11-24, 11:02:51](https://news.ycombinator.com/item?id=46032694) - [I put a real search engine into a Lambda, so you only pay when you search](https://nixiesearch.substack.com/p/i-put-a-real-search-engine-into-a)
