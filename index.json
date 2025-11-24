@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-11-24, 18:53:05",
+      "https://news.ycombinator.com/item?id=46037637"
+    ],
+    [
+      "Claude Opus 4.5",
+      "https://www.anthropic.com/news/claude-opus-4-5"
+    ]
+  ],
+  [
+    [
+      "2025-11-24, 18:52:12",
+      "https://news.ycombinator.com/item?id=46037626"
+    ],
+    [
+      "Pebble Watch software is now 100% open source",
+      "https://ericmigi.com/blog/pebble-watch-software-is-now-100percent-open-source"
+    ]
+  ],
+  [
+    [
       "2025-11-24, 18:49:47",
       "https://news.ycombinator.com/item?id=46037591"
     ],
@@ -21,12 +41,42 @@
   ],
   [
     [
+      "2025-11-24, 18:47:11",
+      "https://news.ycombinator.com/item?id=46037556"
+    ],
+    [
+      "Is Your Android TV Streaming Box Part of a Botnet?",
+      "https://krebsonsecurity.com/2025/11/is-your-android-tv-streaming-box-part-of-a-botnet/"
+    ]
+  ],
+  [
+    [
       "2025-11-24, 18:37:27",
       "https://news.ycombinator.com/item?id=46037416"
     ],
     [
       "Launch HN: Karumi (YC F25) – Personalized, agentic product demos",
       "https://www.karumi.ai/meet/start/phlz"
+    ]
+  ],
+  [
+    [
+      "2025-11-24, 18:32:27",
+      "https://news.ycombinator.com/item?id=46037343"
+    ],
+    [
+      "The Bitter Lesson of LLM Extensions",
+      "https://www.sawyerhood.com/blog/llm-extension"
+    ]
+  ],
+  [
+    [
+      "2025-11-24, 18:30:48",
+      "https://news.ycombinator.com/item?id=46037324"
+    ],
+    [
+      "TSMC Arizona Outage Saw Fab Halt, Apple Wafers Scrapped",
+      "https://www.culpium.com/p/tsmc-arizona-outage-saw-fab-halt"
     ]
   ],
   [
@@ -51,32 +101,12 @@
   ],
   [
     [
-      "2025-11-24, 17:51:02",
-      "https://news.ycombinator.com/item?id=46036878"
-    ],
-    [
-      "Andrej Karpathy on X: implications of AI to schools",
-      "https://twitter.com/karpathy/status/1993010584175141038"
-    ]
-  ],
-  [
-    [
       "2025-11-24, 17:00:33",
       "https://news.ycombinator.com/item?id=46036222"
     ],
     [
       "Corvus Robotics (YC S18): Hiring Head of Mfg/Ops, Next Door to YC Mountain View",
       "https://news.ycombinator.com/item?id=46036222"
-    ]
-  ],
-  [
-    [
-      "2025-11-24, 17:00:07",
-      "https://news.ycombinator.com/item?id=46036217"
-    ],
-    [
-      "France threatens GrapheneOS with arrests / server seizure for refusing backdoors",
-      "https://mamot.fr/@LaQuadrature/115581775965025042"
     ]
   ],
   [
@@ -141,16 +171,6 @@
   ],
   [
     [
-      "2025-11-24, 05:17:15",
-      "https://news.ycombinator.com/item?id=46030613"
-    ],
-    [
-      "Lambda Calculus – Animated Beta Reduction of Lambda Diagrams",
-      "https://cruzgodar.com/applets/lambda-calculus"
-    ]
-  ],
-  [
-    [
       "2025-11-24, 03:08:10",
       "https://news.ycombinator.com/item?id=46029932"
     ],
@@ -201,6 +221,16 @@
   ],
   [
     [
+      "2025-11-23, 01:25:17",
+      "https://news.ycombinator.com/item?id=46019898"
+    ],
+    [
+      "Three Years from GPT-3 to Gemini 3",
+      "https://www.oneusefulthing.org/p/three-years-from-gpt-3-to-gemini"
+    ]
+  ],
+  [
+    [
       "2025-11-22, 08:26:13",
       "https://news.ycombinator.com/item?id=46013132"
     ],
@@ -241,26 +271,6 @@
   ],
   [
     [
-      "2025-11-19, 20:53:42",
-      "https://news.ycombinator.com/item?id=45985008"
-    ],
-    [
-      "New magnetic component discovered in the Faraday effect",
-      "https://phys.org/news/2025-11-magnetic-component-faraday-effect-centuries.html"
-    ]
-  ],
-  [
-    [
-      "2025-11-19, 17:33:45",
-      "https://news.ycombinator.com/item?id=45982280"
-    ],
-    [
-      "Show HN: Virtual SLURM HPC cluster in a Docker Compose",
-      "https://github.com/exactlab/vhpc"
-    ]
-  ],
-  [
-    [
       "2025-11-19, 16:22:32",
       "https://news.ycombinator.com/item?id=45981441"
     ],
@@ -277,16 +287,6 @@
     [
       "We're (now) moving from OpenBSD to FreeBSD for firewalls",
       "https://utcc.utoronto.ca/~cks/space/blog/sysadmin/OpenBSDToFreeBSDMove"
-    ]
-  ],
-  [
-    [
-      "2025-11-19, 09:08:10",
-      "https://news.ycombinator.com/item?id=45977386"
-    ],
-    [
-      "The Rust Performance Book (2020)",
-      "https://nnethercote.github.io/perf-book/"
     ]
   ],
   [
