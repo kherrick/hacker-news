@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-11-24](index.md)
 
+* [2025-11-24, 19:29:12](https://news.ycombinator.com/item?id=46038143) - [PS5 now costs less than 64GB of DDR5 memory. RAM jumps to $600 due to shortage](https://www.tomshardware.com/pc-components/ddr5/64gb-of-ddr5-memory-now-costs-more-than-an-entire-ps5-even-after-a-discount-trident-z5-neo-kit-jumps-to-usd600-due-to-dram-shortage-and-its-expected-to-get-worse-into-2026)
+* [2025-11-24, 19:21:35](https://news.ycombinator.com/item?id=46038047) - [Claude Advanced Tool Use](https://www.anthropic.com/engineering/advanced-tool-use)
 * [2025-11-24, 18:53:05](https://news.ycombinator.com/item?id=46037637) - [Claude Opus 4.5](https://www.anthropic.com/news/claude-opus-4-5)
 * [2025-11-24, 18:52:12](https://news.ycombinator.com/item?id=46037626) - [Pebble Watch software is now 100% open source](https://ericmigi.com/blog/pebble-watch-software-is-now-100percent-open-source)
 * [2025-11-24, 18:49:47](https://news.ycombinator.com/item?id=46037591) - [Google's new 'Aluminium OS' project brings Android to PC](https://www.androidauthority.com/aluminium-os-android-for-pcs-3619092/)
@@ -11,6 +13,7 @@
 * [2025-11-24, 18:47:11](https://news.ycombinator.com/item?id=46037556) - [Is Your Android TV Streaming Box Part of a Botnet?](https://krebsonsecurity.com/2025/11/is-your-android-tv-streaming-box-part-of-a-botnet/)
 * [2025-11-24, 18:37:27](https://news.ycombinator.com/item?id=46037416) - [Launch HN: Karumi (YC F25) – Personalized, agentic product demos](https://www.karumi.ai/meet/start/phlz)
 * [2025-11-24, 18:37:27](https://news.ycombinator.com/item?id=46037416) - [Launch HN: Karumi (YC F25) – Personalized, agentic product demos](https://news.ycombinator.com/item?id=46037416)
+* [2025-11-24, 18:37:27](https://news.ycombinator.com/item?id=46037416) - [Launch HN: Karumi (YC F25) – Personalized, agentic product demos](http://karumi.ai/)
 * [2025-11-24, 18:32:27](https://news.ycombinator.com/item?id=46037343) - [The Bitter Lesson of LLM Extensions](https://www.sawyerhood.com/blog/llm-extension)
 * [2025-11-24, 18:30:48](https://news.ycombinator.com/item?id=46037324) - [TSMC Arizona Outage Saw Fab Halt, Apple Wafers Scrapped](https://www.culpium.com/p/tsmc-arizona-outage-saw-fab-halt)
 * [2025-11-24, 18:26:09](https://news.ycombinator.com/item?id=46037267) - [Mind-reading devices can now predict preconscious thoughts: is it time to worry?](https://www.nature.com/articles/d41586-025-03714-0)
