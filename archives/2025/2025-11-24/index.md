@@ -4,8 +4,11 @@
 
 ### [Archives](../../index.md) for [2025-11-24](index.md)
 
+* [2025-11-24, 04:22:12](https://news.ycombinator.com/item?id=46030360) - [Insurers retreat from AI cover as risk of multibillion-dollar claims mounts](https://www.ft.com/content/abfe9741-f438-4ed6-a673-075ec177dc62)
 * [2025-11-24, 03:08:10](https://news.ycombinator.com/item?id=46029932) - [RuBee](https://computer.rip/2025-11-22-RuBee.html)
+* [2025-11-24, 03:07:07](https://news.ycombinator.com/item?id=46029929) - [Japan's gamble to turn island of Hokkaido into global chip hub](https://www.bbc.com/news/articles/c8676qpxgnqo)
 * [2025-11-24, 03:04:10](https://news.ycombinator.com/item?id=46029908) - [The Cloudflare outage was a good thing](https://gist.github.com/jbreckmckye/32587f2907e473dd06d68b0362fb0048)
+* [2025-11-24, 03:00:31](https://news.ycombinator.com/item?id=46029889) - [A free tool that stuns LLMs with thousands of invisible Unicode characters](https://gibberifier.com)
 * [2025-11-24, 02:36:54](https://news.ycombinator.com/item?id=46029772) - [We stopped roadmap work for a week and fixed 189 bugs](https://lalitm.com/fixits-are-good-for-the-soul/)
 * [2025-11-24, 02:35:17](https://news.ycombinator.com/item?id=46029765) - [B-Trees: Why Every Database Uses Them](https://mehmetgoekce.substack.com/p/b-trees-why-every-database-uses-them)
 * [2025-11-24, 02:25:39](https://news.ycombinator.com/item?id=46029699) - [Ask HN: Hearing aid wearers, what's hot?](https://news.ycombinator.com/item?id=46029699)
