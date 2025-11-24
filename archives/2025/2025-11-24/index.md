@@ -4,13 +4,16 @@
 
 ### [Archives](../../index.md) for [2025-11-24](index.md)
 
+* [2025-11-24, 06:37:20](https://news.ycombinator.com/item?id=46031025) - [Git 3.0 will use main as the default branch](https://thoughtbot.com/blog/git-3-0-will-use-main-as-the-default-branch)
 * [2025-11-24, 05:46:14](https://news.ycombinator.com/item?id=46030750) - [The Feds Want to Make It Illegal to Even Possess an Anarchist Zine](https://theintercept.com/2025/11/23/prairieland-ice-antifa-zines-criminalize-protest-journalism/)
+* [2025-11-24, 05:17:15](https://news.ycombinator.com/item?id=46030613) - [Lambda Calculus – Animated Beta Reduction of Lambda Diagrams](https://cruzgodar.com/applets/lambda-calculus)
 * [2025-11-24, 04:33:57](https://news.ycombinator.com/item?id=46030414) - [Build desktop applications using Go and Web Technologies](https://github.com/wailsapp/wails)
 * [2025-11-24, 04:22:12](https://news.ycombinator.com/item?id=46030360) - [Insurers retreat from AI cover as risk of multibillion-dollar claims mounts](https://www.ft.com/content/abfe9741-f438-4ed6-a673-075ec177dc62)
 * [2025-11-24, 03:08:10](https://news.ycombinator.com/item?id=46029932) - [RuBee](https://computer.rip/2025-11-22-RuBee.html)
 * [2025-11-24, 03:07:07](https://news.ycombinator.com/item?id=46029929) - [Japan's gamble to turn island of Hokkaido into global chip hub](https://www.bbc.com/news/articles/c8676qpxgnqo)
 * [2025-11-24, 03:04:10](https://news.ycombinator.com/item?id=46029908) - [The Cloudflare outage was a good thing](https://gist.github.com/jbreckmckye/32587f2907e473dd06d68b0362fb0048)
 * [2025-11-24, 03:00:31](https://news.ycombinator.com/item?id=46029889) - [A free tool that stuns LLMs with thousands of invisible Unicode characters](https://gibberifier.com)
+* [2025-11-24, 02:57:34](https://news.ycombinator.com/item?id=46029872) - [McMaster Carr – The Smartest Website You Haven't Heard Of](https://www.bedelstein.com/post/mcmaster-carr)
 * [2025-11-24, 02:36:54](https://news.ycombinator.com/item?id=46029772) - [We stopped roadmap work for a week and fixed 189 bugs](https://lalitm.com/fixits-are-good-for-the-soul/)
 * [2025-11-24, 02:35:17](https://news.ycombinator.com/item?id=46029765) - [B-Trees: Why Every Database Uses Them](https://mehmetgoekce.substack.com/p/b-trees-why-every-database-uses-them)
 * [2025-11-24, 02:25:39](https://news.ycombinator.com/item?id=46029699) - [Ask HN: Hearing aid wearers, what's hot?](https://news.ycombinator.com/item?id=46029699)
