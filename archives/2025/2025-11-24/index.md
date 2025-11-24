@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-11-24](index.md)
 
 * [2025-11-24, 17:00:33](https://news.ycombinator.com/item?id=46036222) - [Corvus Robotics (YC S18): Hiring Head of Mfg/Ops, Next Door to YC Mountain View](https://news.ycombinator.com/item?id=46036222)
+* [2025-11-24, 17:00:07](https://news.ycombinator.com/item?id=46036217) - [France threatens GrapheneOS with arrests / server seizure for refusing backdoors](https://mamot.fr/@LaQuadrature/115581775965025042)
 * [2025-11-24, 16:53:11](https://news.ycombinator.com/item?id=46036139) - [Britain is one of the richest countries. So why do children live in poverty?](https://www.cnn.com/2025/11/24/uk/britain-child-poverty-intl-scli)
 * [2025-11-24, 16:40:22](https://news.ycombinator.com/item?id=46035977) - [France threatens GrapheneOS with arrests / server seizure for refusing backdoors](https://grapheneos.social/@watchfulcitizen@goingdark.social/115605398547420414)
 * [2025-11-24, 16:07:40](https://news.ycombinator.com/item?id=46035574) - [X Just Accidentally Exposed a Covert Influence Network Targeting Americans](https://weaponizedspaces.substack.com/p/x-just-accidentally-exposed-a-vast)
