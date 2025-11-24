@@ -61,22 +61,22 @@
   ],
   [
     [
+      "2025-11-24, 11:02:51",
+      "https://news.ycombinator.com/item?id=46032694"
+    ],
+    [
+      "I put a real search engine into a Lambda, so you only pay when you search",
+      "https://nixiesearch.substack.com/p/i-put-a-real-search-engine-into-a"
+    ]
+  ],
+  [
+    [
       "2025-11-24, 10:40:22",
       "https://news.ycombinator.com/item?id=46032539"
     ],
     [
       "Shai-Hulud Returns: Over 300 NPM Packages Infected",
       "https://helixguard.ai/blog/malicious-sha1hulud-2025-11-24"
-    ]
-  ],
-  [
-    [
-      "2025-11-24, 10:37:05",
-      "https://news.ycombinator.com/item?id=46032513"
-    ],
-    [
-      "General principles for the use of AI at CERN",
-      "https://home.web.cern.ch/news/official-news/knowledge-sharing/general-principles-use-ai-cern"
     ]
   ],
   [
@@ -147,6 +147,16 @@
     [
       "Ego, empathy, and humility at work",
       "https://matthogg.fyi/a-unified-theory-of-ego-empathy-and-humility-at-work/"
+    ]
+  ],
+  [
+    [
+      "2025-11-23, 22:25:36",
+      "https://news.ycombinator.com/item?id=46027962"
+    ],
+    [
+      "Show HN: I wrote a minimal memory allocator in C",
+      "https://github.com/t9nzin/memory"
     ]
   ],
   [
@@ -267,16 +277,6 @@
     [
       "Slicing Is All You Need: Towards a Universal One-Sided Distributed MatMul",
       "https://arxiv.org/abs/2510.08874"
-    ]
-  ],
-  [
-    [
-      "2025-11-19, 15:17:19",
-      "https://news.ycombinator.com/item?id=45980608"
-    ],
-    [
-      "The only GM EV1 ever publicly sold, and where it's going next",
-      "https://www.theautopian.com/how-the-only-gm-ev1-ever-sold-didnt-get-crushed-and-where-its-going-now/"
     ]
   ],
   [
