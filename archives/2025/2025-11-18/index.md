@@ -8,6 +8,7 @@
 * [2025-11-18, 23:31:22](https://news.ycombinator.com/item?id=45973709) - [Cloudflare 18 November 2025 Outage Post Mortem](https://blog.cloudflare.com/18-november-2025-outage/)
 * [2025-11-18, 23:23:04](https://news.ycombinator.com/item?id=45973648) - [Ford can't find mechanics for $120K: It takes math to learn a trade](https://www.joannejacobs.com/post/ford-can-t-find-mechanics-for-120k-it-takes-math-to-learn-a-trade)
 * [2025-11-18, 23:13:35](https://news.ycombinator.com/item?id=45973573) - [Rebecca Heineman – from homelessness to porting Doom](https://corecursive.com/doomed-to-fail-with-burger-becky/)
+* [2025-11-18, 22:52:57](https://news.ycombinator.com/item?id=45973364) - [Having Fun with Complex Numbers: A Real-Life Journey for Upper Elementary Studen](https://mathwonder.org/Having-Fun-with-Complex-Numbers/)
 * [2025-11-18, 22:42:45](https://news.ycombinator.com/item?id=45973261) - [Monotype font licencing shake-down](https://www.insanityworks.org/randomtangent/2025/11/14/monotype-font-licencing-shake-down)
 * [2025-11-18, 21:39:18](https://news.ycombinator.com/item?id=45972519) - [Blender 5.0 Released](https://www.blender.org/download/releases/5-0/)
 * [2025-11-18, 21:29:37](https://news.ycombinator.com/item?id=45972390) - [Bild AI (YC W25) Is Hiring: Make Housing Affordable](https://www.ycombinator.com/companies/bild-ai/jobs/m2ilR5L-founding-engineer-applied-ai)

@@ -6,7 +6,6 @@
 * [2025-11-24, 02:25:39](https://news.ycombinator.com/item?id=46029699) - [Ask HN: Hearing aid wearers, what's hot?](https://news.ycombinator.com/item?id=46029699)
 * [2025-11-24, 02:16:42](https://news.ycombinator.com/item?id=46029649) - [Passing the Torch – My Last Root DNSSEC KSK Ceremony as Crypto Officer 4](https://technotes.seastrom.com/2025/11/23/passing-the-torch.html)
 * [2025-11-24, 02:01:02](https://news.ycombinator.com/item?id=46029534) - [A Unified Theory of Ego, Empathy, and Humility at Work](https://matthogg.fyi/a-unified-theory-of-ego-empathy-and-humility-at-work/)
-* [2025-11-24, 01:30:51](https://news.ycombinator.com/item?id=46029312) - [A ncurses-based command line torrent client for high performance](https://github.com/rakshasa/rtorrent)
 * [2025-11-23, 22:36:07](https://news.ycombinator.com/item?id=46028046) - [Liva AI (YC S25) Is Hiring](https://www.ycombinator.com/companies/liva-ai/jobs/fYP8QP8-growth-intern)
 * [2025-11-23, 22:33:34](https://news.ycombinator.com/item?id=46028033) - [Sunsetting Supermaven](https://supermaven.com/blog/sunsetting-supermaven)
 * [2025-11-23, 22:25:36](https://news.ycombinator.com/item?id=46027962) - [Show HN: I wrote a minimal memory allocator in C](https://github.com/t9nzin/memory)
@@ -27,8 +26,9 @@
 * [2025-11-22, 20:27:41](https://news.ycombinator.com/item?id=46017972) - [Terence Tao: At the Erdos problem website, AI assistance now becoming routine](https://mathstodon.xyz/@tao/115591487350860999)
 * [2025-11-21, 22:48:39](https://news.ycombinator.com/item?id=46009962) - [A time-travelling door bug in Half Life 2](https://mastodon.gamedev.place/@TomF/115589875974658415)
 * [2025-11-19, 20:53:42](https://news.ycombinator.com/item?id=45985008) - [New magnetic component discovered in the Faraday effect after nearly 2 centuries](https://phys.org/news/2025-11-magnetic-component-faraday-effect-centuries.html)
-* [2025-11-19, 09:08:10](https://news.ycombinator.com/item?id=45977386) - [The Rust Performance Book](https://nnethercote.github.io/perf-book/)
+* [2025-11-19, 09:08:10](https://news.ycombinator.com/item?id=45977386) - [The Rust Performance Book (2020)](https://nnethercote.github.io/perf-book/)
 * [2025-11-19, 07:08:49](https://news.ycombinator.com/item?id=45976666) - [Band of Holes](https://en.wikipedia.org/wiki/Band_of_Holes)
+* [2025-11-18, 22:52:57](https://news.ycombinator.com/item?id=45973364) - [Having Fun with Complex Numbers: A Real-Life Journey for Upper Elementary Studen](https://mathwonder.org/Having-Fun-with-Complex-Numbers/)
 * [2025-11-18, 12:47:04](https://news.ycombinator.com/item?id=45964956) - [Show HN: Gitlogue – A terminal tool that replays your Git commits with animation](https://github.com/unhappychoice/gitlogue)
 
 ## [Archives](archives/index.md)
