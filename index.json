@@ -1,6 +1,36 @@
 [
   [
     [
+      "2025-11-24, 00:18:21",
+      "https://news.ycombinator.com/item?id=46028827"
+    ],
+    [
+      "'Invisible' microplastics spread in skies as global pollutant",
+      "https://www.asahi.com/ajw/articles/16137995"
+    ]
+  ],
+  [
+    [
+      "2025-11-24, 00:05:14",
+      "https://news.ycombinator.com/item?id=46028721"
+    ],
+    [
+      "Doge 'doesn't exist' with eight months left on its charter",
+      "https://www.reuters.com/world/us/doge-doesnt-exist-with-eight-months-left-its-charter-2025-11-23/"
+    ]
+  ],
+  [
+    [
+      "2025-11-23, 23:53:06",
+      "https://news.ycombinator.com/item?id=46028627"
+    ],
+    [
+      "ISPs more likely to throttle netizens who connect through CG-NAT: Cloudflare",
+      "https://www.theregister.com/2025/11/03/cloudflare_cgnat_bias_research/"
+    ]
+  ],
+  [
+    [
       "2025-11-23, 23:25:03",
       "https://news.ycombinator.com/item?id=46028422"
     ],
@@ -55,7 +85,7 @@
       "https://news.ycombinator.com/item?id=46027833"
     ],
     [
-      "Iowa City Made Its Buses Free. Traffic Cleared, and So Did the Air",
+      "Iowa City made its buses free. traffic cleared, and so did the air",
       "https://www.nytimes.com/2025/11/18/climate/iowa-city-free-buses.html"
     ]
   ],
@@ -71,12 +101,32 @@
   ],
   [
     [
+      "2025-11-23, 21:52:48",
+      "https://news.ycombinator.com/item?id=46027709"
+    ],
+    [
+      "Several core problems with Rust",
+      "https://bykozy.me/blog/rust-is-a-disappointment/"
+    ]
+  ],
+  [
+    [
       "2025-11-23, 20:51:22",
       "https://news.ycombinator.com/item?id=46027216"
     ],
     [
       "µcad: New open source programming language that can generate 2D sketches and 3D",
       "https://microcad.xyz/"
+    ]
+  ],
+  [
+    [
+      "2025-11-23, 20:31:45",
+      "https://news.ycombinator.com/item?id=46027065"
+    ],
+    [
+      "Giving the Jakks Atari Paddle a Spin",
+      "https://nicole.express/2025/paddle-me-atari.html"
     ]
   ],
   [
@@ -95,7 +145,7 @@
       "https://news.ycombinator.com/item?id=46026579"
     ],
     [
-      "780k Windows Users Downloaded Linux Distro Zorin OS in the Last 5 Weeks",
+      "1M Downloads of Zorin OS 18",
       "https://blog.zorin.com/2025/11/18/test-the-upgrade-from-zorin-os-17-to-18-and-celebrating-1-million-downloads-of-zorin-os-18/"
     ]
   ],
@@ -201,6 +251,16 @@
   ],
   [
     [
+      "2025-11-23, 02:08:00",
+      "https://news.ycombinator.com/item?id=46020096"
+    ],
+    [
+      "An Economy of AI Agents",
+      "https://arxiv.org/abs/2509.01063"
+    ]
+  ],
+  [
+    [
       "2025-11-22, 20:27:41",
       "https://news.ycombinator.com/item?id=46017972"
     ],
@@ -221,82 +281,22 @@
   ],
   [
     [
+      "2025-11-19, 20:53:42",
+      "https://news.ycombinator.com/item?id=45985008"
+    ],
+    [
+      "New magnetic component discovered in the Faraday effect after nearly 2 centuries",
+      "https://phys.org/news/2025-11-magnetic-component-faraday-effect-centuries.html"
+    ]
+  ],
+  [
+    [
       "2025-11-18, 12:47:04",
       "https://news.ycombinator.com/item?id=45964956"
     ],
     [
       "Show HN: Gitlogue – A terminal tool that replays your Git commits with animation",
       "https://github.com/unhappychoice/gitlogue"
-    ]
-  ],
-  [
-    [
-      "2025-11-17, 20:28:32",
-      "https://news.ycombinator.com/item?id=45957911"
-    ],
-    [
-      "Almost all Collatz orbits attain almost bounded values",
-      "https://mathvideos.org/2023/terence-tao-almost-all-collatz-orbits-attain-almost-bounded-values/"
-    ]
-  ],
-  [
-    [
-      "2025-11-17, 18:41:35",
-      "https://news.ycombinator.com/item?id=45956542"
-    ],
-    [
-      "Pyrotechnic Display Design Software",
-      "https://github.com/giuseppe-coco/FireShow"
-    ]
-  ],
-  [
-    [
-      "2025-11-17, 10:25:15",
-      "https://news.ycombinator.com/item?id=45952355"
-    ],
-    [
-      "'Complicated' watch from 1907 sets world record at auction",
-      "https://www.bbc.co.uk/news/articles/cn7e4m48gdro"
-    ]
-  ],
-  [
-    [
-      "2025-11-17, 09:38:45",
-      "https://news.ycombinator.com/item?id=45952155"
-    ],
-    [
-      "Halfbakery: Purely functional programming with heat output",
-      "https://www.halfbakery.com/idea/Purely_20functional_20programming_20with_20heat_20output#1763275883"
-    ]
-  ],
-  [
-    [
-      "2025-11-16, 00:38:51",
-      "https://news.ycombinator.com/item?id=45941775"
-    ],
-    [
-      "Garibaldi, history's sexiest revolutionary?",
-      "https://www.historyextra.com/period/victorian/historys-sexiest-revolutionary-meet-the-mesmerising-general-whose-charms-helped-win-a-war/"
-    ]
-  ],
-  [
-    [
-      "2025-11-14, 00:32:40",
-      "https://news.ycombinator.com/item?id=45922514"
-    ],
-    [
-      "Spectral rendering, part 2: Real-time rendering",
-      "https://momentsingraphics.de/SpectralRendering2Rendering.html"
-    ]
-  ],
-  [
-    [
-      "2025-11-13, 19:07:57",
-      "https://news.ycombinator.com/item?id=45919118"
-    ],
-    [
-      "I Learned the Pythagorean Theorem",
-      "https://danq.me/2025/11/13/pythagorean-theorem/"
     ]
   ]
 ]
