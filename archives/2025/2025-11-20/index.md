@@ -32,6 +32,7 @@
 * [2025-11-20, 16:41:31](https://news.ycombinator.com/item?id=45994592) - [Show HN: Tangent – Open-source security data pipeline](https://github.com/telophasehq/tangent)
 * [2025-11-20, 16:37:42](https://news.ycombinator.com/item?id=45994537) - [The Firefly and the Pulsar](https://www.centauri-dreams.org/2025/11/20/the-firefly-and-the-pulsar/)
 * [2025-11-20, 16:15:00](https://news.ycombinator.com/item?id=45994235) - [Show HN: Rapid-rs – Zero-config web framework for Rust](https://crates.io/crates/rapid-rs)
+* [2025-11-20, 16:07:22](https://news.ycombinator.com/item?id=45994124) - [Everything you need to know about hard drive vibration (2016)](https://www.ept.ca/features/everything-need-know-hard-drive-vibration/)
 * [2025-11-20, 15:53:17](https://news.ycombinator.com/item?id=45993943) - [The Banished Bottom of the Housing Market](https://www.ryanpuzycki.com/p/the-banished-bottom-of-the-housing)
 * [2025-11-20, 15:04:23](https://news.ycombinator.com/item?id=45993296) - [Nano Banana Pro](https://blog.google/technology/ai/nano-banana-pro/)
 * [2025-11-20, 14:56:47](https://news.ycombinator.com/item?id=45993214) - [Freer Monads, More Extensible Effects [pdf]](https://okmij.org/ftp/Haskell/extensible/more.pdf)
