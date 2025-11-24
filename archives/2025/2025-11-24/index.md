@@ -5,11 +5,13 @@
 ### [Archives](../../index.md) for [2025-11-24](index.md)
 
 * [2025-11-24, 03:08:10](https://news.ycombinator.com/item?id=46029932) - [RuBee](https://computer.rip/2025-11-22-RuBee.html)
+* [2025-11-24, 03:04:10](https://news.ycombinator.com/item?id=46029908) - [The Cloudflare outage was a good thing](https://gist.github.com/jbreckmckye/32587f2907e473dd06d68b0362fb0048)
 * [2025-11-24, 02:36:54](https://news.ycombinator.com/item?id=46029772) - [We stopped roadmap work for a week and fixed 189 bugs](https://lalitm.com/fixits-are-good-for-the-soul/)
 * [2025-11-24, 02:35:17](https://news.ycombinator.com/item?id=46029765) - [B-Trees: Why Every Database Uses Them](https://mehmetgoekce.substack.com/p/b-trees-why-every-database-uses-them)
 * [2025-11-24, 02:25:39](https://news.ycombinator.com/item?id=46029699) - [Ask HN: Hearing aid wearers, what's hot?](https://news.ycombinator.com/item?id=46029699)
 * [2025-11-24, 02:16:42](https://news.ycombinator.com/item?id=46029649) - [Passing the Torch – My Last Root DNSSEC KSK Ceremony as Crypto Officer 4](https://technotes.seastrom.com/2025/11/23/passing-the-torch.html)
 * [2025-11-24, 02:05:01](https://news.ycombinator.com/item?id=46029561) - [My Life Is a Lie: How a Broken Benchmark Broke America](https://www.yesigiveafig.com/p/part-1-my-life-is-a-lie)
+* [2025-11-24, 02:01:02](https://news.ycombinator.com/item?id=46029534) - [A Unified Theory of Ego, Empathy, and Humility at Work](https://matthogg.fyi/a-unified-theory-of-ego-empathy-and-humility-at-work/)
 * [2025-11-24, 01:30:51](https://news.ycombinator.com/item?id=46029312) - [A ncurses-based command line torrent client for high performance](https://github.com/rakshasa/rtorrent)
 * [2025-11-24, 00:18:21](https://news.ycombinator.com/item?id=46028827) - ['Invisible' microplastics spread in skies as global pollutant](https://www.asahi.com/ajw/articles/16137995)
 * [2025-11-24, 00:05:14](https://news.ycombinator.com/item?id=46028721) - [Doge 'doesn't exist' with eight months left on its charter](https://www.reuters.com/world/us/doge-doesnt-exist-with-eight-months-left-its-charter-2025-11-23/)
