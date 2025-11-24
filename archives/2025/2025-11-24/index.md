@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-11-24](index.md)
 
 * [2025-11-24, 07:11:38](https://news.ycombinator.com/item?id=46031208) - [Show HN: Syd – An offline-first, AI-augmented workstation for blue teams](https://www.sydsec.co.uk)
+* [2025-11-24, 07:09:28](https://news.ycombinator.com/item?id=46031196) - [A One-Minute ADHD Test](https://psychotechnology.substack.com/p/a-one-minute-adhd-test-2330)
 * [2025-11-24, 06:37:20](https://news.ycombinator.com/item?id=46031025) - [Git 3.0 will use main as the default branch](https://thoughtbot.com/blog/git-3-0-will-use-main-as-the-default-branch)
 * [2025-11-24, 05:46:14](https://news.ycombinator.com/item?id=46030750) - [The Feds Want to Make It Illegal to Even Possess an Anarchist Zine](https://theintercept.com/2025/11/23/prairieland-ice-antifa-zines-criminalize-protest-journalism/)
 * [2025-11-24, 05:17:15](https://news.ycombinator.com/item?id=46030613) - [Lambda Calculus – Animated Beta Reduction of Lambda Diagrams](https://cruzgodar.com/applets/lambda-calculus)
