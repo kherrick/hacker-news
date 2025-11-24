@@ -1,12 +1,32 @@
 [
   [
     [
+      "2025-11-24, 06:37:20",
+      "https://news.ycombinator.com/item?id=46031025"
+    ],
+    [
+      "Git 3.0 will use main as the default branch",
+      "https://thoughtbot.com/blog/git-3-0-will-use-main-as-the-default-branch"
+    ]
+  ],
+  [
+    [
       "2025-11-24, 05:46:14",
       "https://news.ycombinator.com/item?id=46030750"
     ],
     [
       "The Feds Want to Make It Illegal to Even Possess an Anarchist Zine",
       "https://theintercept.com/2025/11/23/prairieland-ice-antifa-zines-criminalize-protest-journalism/"
+    ]
+  ],
+  [
+    [
+      "2025-11-24, 05:17:15",
+      "https://news.ycombinator.com/item?id=46030613"
+    ],
+    [
+      "Lambda Calculus – Animated Beta Reduction of Lambda Diagrams",
+      "https://cruzgodar.com/applets/lambda-calculus"
     ]
   ],
   [
@@ -31,16 +51,6 @@
   ],
   [
     [
-      "2025-11-24, 03:07:07",
-      "https://news.ycombinator.com/item?id=46029929"
-    ],
-    [
-      "Japan's gamble to turn island of Hokkaido into global chip hub",
-      "https://www.bbc.com/news/articles/c8676qpxgnqo"
-    ]
-  ],
-  [
-    [
       "2025-11-24, 03:04:10",
       "https://news.ycombinator.com/item?id=46029908"
     ],
@@ -57,6 +67,16 @@
     [
       "A free tool that stuns LLMs with thousands of invisible Unicode characters",
       "https://gibberifier.com"
+    ]
+  ],
+  [
+    [
+      "2025-11-24, 02:57:34",
+      "https://news.ycombinator.com/item?id=46029872"
+    ],
+    [
+      "McMaster Carr – The Smartest Website You Haven't Heard Of",
+      "https://www.bedelstein.com/post/mcmaster-carr"
     ]
   ],
   [
@@ -187,26 +207,6 @@
     [
       "Calculus for Mathematicians, Computer Scientists, and Physicists [pdf]",
       "https://mathcs.holycross.edu/~ahwang/print/calc.pdf"
-    ]
-  ],
-  [
-    [
-      "2025-11-23, 16:12:06",
-      "https://news.ycombinator.com/item?id=46024584"
-    ],
-    [
-      "Mount Proton Drive on Linux using rclone and systemd",
-      "https://github.com/dadtronics/protondrive-linux"
-    ]
-  ],
-  [
-    [
-      "2025-11-23, 13:35:27",
-      "https://news.ycombinator.com/item?id=46023460"
-    ],
-    [
-      "Racket v9.0",
-      "https://blog.racket-lang.org/2025/11/racket-v9-0.html"
     ]
   ],
   [
