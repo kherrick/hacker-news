@@ -201,6 +201,16 @@
   ],
   [
     [
+      "2025-11-21, 17:56:50",
+      "https://news.ycombinator.com/item?id=46006891"
+    ],
+    [
+      "Building the largest known Kubernetes cluster, with 130k nodes",
+      "https://cloud.google.com/blog/products/containers-kubernetes/how-we-built-a-130000-node-gke-cluster/"
+    ]
+  ],
+  [
+    [
       "2025-11-21, 00:03:14",
       "https://news.ycombinator.com/item?id=45999631"
     ],
@@ -267,16 +277,6 @@
     [
       "Having Fun with Complex Numbers",
       "https://mathwonder.org/Having-Fun-with-Complex-Numbers/"
-    ]
-  ],
-  [
-    [
-      "2025-11-18, 20:24:39",
-      "https://news.ycombinator.com/item?id=45971548"
-    ],
-    [
-      "Murphyjitsu (2018)",
-      "https://www.lesswrong.com/posts/N47M3JiHveHfwdbFg/hammertime-day-10-murphyjitsu"
     ]
   ],
   [
