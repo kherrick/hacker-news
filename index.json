@@ -1,12 +1,12 @@
 [
   [
     [
-      "2025-11-24, 14:08:39",
-      "https://news.ycombinator.com/item?id=46034281"
+      "2025-11-24, 14:43:01",
+      "https://news.ycombinator.com/item?id=46034652"
     ],
     [
-      "Hugo Static Site on Cloudflare",
-      "https://techlife.blog/posts/hugo-static-site-on-cloudflare/"
+      "Booking.com cancels $4K hotel reservation, offers same rooms again for $17K",
+      "https://www.cbc.ca/news/gopublic/go-public-booking-com-hotel-rates-9.6985480"
     ]
   ],
   [
@@ -151,16 +151,6 @@
   ],
   [
     [
-      "2025-11-23, 22:36:07",
-      "https://news.ycombinator.com/item?id=46028046"
-    ],
-    [
-      "Liva AI (YC S25) Is Hiring",
-      "https://www.ycombinator.com/companies/liva-ai/jobs/fYP8QP8-growth-intern"
-    ]
-  ],
-  [
-    [
       "2025-11-23, 20:51:22",
       "https://news.ycombinator.com/item?id=46027216"
     ],
@@ -257,6 +247,16 @@
     [
       "New magnetic component discovered in the Faraday effect",
       "https://phys.org/news/2025-11-magnetic-component-faraday-effect-centuries.html"
+    ]
+  ],
+  [
+    [
+      "2025-11-19, 17:33:45",
+      "https://news.ycombinator.com/item?id=45982280"
+    ],
+    [
+      "Show HN: Virtual SLURM HPC cluster in a Docker Compose",
+      "https://github.com/exactlab/vhpc"
     ]
   ],
   [
