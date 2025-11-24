@@ -39,6 +39,7 @@
 * [2025-11-22, 11:04:15](https://news.ycombinator.com/item?id=46013816) - [My private information is worth $30](https://blog.melashri.net/micro/privacy-price/)
 * [2025-11-22, 10:19:27](https://news.ycombinator.com/item?id=46013633) - [Jack Ma's family shifted wealth to UK after years-long 'disappearance'](https://www.source-material.org/jack-ma-bought-uk-home-after-years-long-disappearance/)
 * [2025-11-22, 10:08:31](https://news.ycombinator.com/item?id=46013579) - [Libpng 1.6.51: Four buffer overflow vulnerabilities fixed](https://www.openwall.com/lists/oss-security/2025/11/22/1)
+* [2025-11-22, 09:41:46](https://news.ycombinator.com/item?id=46013478) - [The history of Indian science fiction](https://altermag.com/articles/the-secret-history-of-indian-science-fiction)
 * [2025-11-22, 09:41:29](https://news.ycombinator.com/item?id=46013477) - [Roblox CEO Makes a Fool of Himself in Car-Crash Interview](https://kotaku.com/roblox-new-york-times-interview-baszucki-2000646174)
 * [2025-11-22, 08:26:13](https://news.ycombinator.com/item?id=46013132) - [Serflings is a remake of The Settlers 1](https://www.simpleguide.net/serflings.xhtml)
 * [2025-11-22, 07:22:55](https://news.ycombinator.com/item?id=46012846) - [Set theory with types](https://lawrencecpaulson.github.io//2025/11/21/Typed_Set_Theory.html)
