@@ -1,6 +1,36 @@
 [
   [
     [
+      "2025-11-24, 03:08:10",
+      "https://news.ycombinator.com/item?id=46029932"
+    ],
+    [
+      "RuBee",
+      "https://computer.rip/2025-11-22-RuBee.html"
+    ]
+  ],
+  [
+    [
+      "2025-11-24, 02:36:54",
+      "https://news.ycombinator.com/item?id=46029772"
+    ],
+    [
+      "We stopped roadmap work for a week and fixed 189 bugs",
+      "https://lalitm.com/fixits-are-good-for-the-soul/"
+    ]
+  ],
+  [
+    [
+      "2025-11-24, 02:35:17",
+      "https://news.ycombinator.com/item?id=46029765"
+    ],
+    [
+      "B-Trees: Why Every Database Uses Them",
+      "https://mehmetgoekce.substack.com/p/b-trees-why-every-database-uses-them"
+    ]
+  ],
+  [
+    [
       "2025-11-24, 02:25:39",
       "https://news.ycombinator.com/item?id=46029699"
     ],
@@ -31,22 +61,12 @@
   ],
   [
     [
-      "2025-11-24, 00:18:21",
-      "https://news.ycombinator.com/item?id=46028827"
+      "2025-11-24, 01:30:51",
+      "https://news.ycombinator.com/item?id=46029312"
     ],
     [
-      "'Invisible' microplastics spread in skies as global pollutant",
-      "https://www.asahi.com/ajw/articles/16137995"
-    ]
-  ],
-  [
-    [
-      "2025-11-23, 23:25:03",
-      "https://news.ycombinator.com/item?id=46028422"
-    ],
-    [
-      "X's new country-of-origin feature reveals many 'US' accounts to be foreign-run",
-      "https://www.hindustantimes.com/world-news/us-news/xs-new-country-of-origin-feature-shakes-maga-and-democrat-circles-as-many-us-accounts-revealed-to-be-foreignrun-101763857104296.html"
+      "A ncurses-based command line torrent client for high performance",
+      "https://github.com/rakshasa/rtorrent"
     ]
   ],
   [
@@ -95,7 +115,7 @@
       "https://news.ycombinator.com/item?id=46027833"
     ],
     [
-      "Iowa City made its buses free. traffic cleared, and so did the air",
+      "Iowa City made its buses free. Traffic cleared, and so did the air",
       "https://www.nytimes.com/2025/11/18/climate/iowa-city-free-buses.html"
     ]
   ],
@@ -117,26 +137,6 @@
     [
       "µcad: New open source programming language that can generate 2D sketches and 3D",
       "https://microcad.xyz/"
-    ]
-  ],
-  [
-    [
-      "2025-11-23, 20:16:04",
-      "https://news.ycombinator.com/item?id=46026939"
-    ],
-    [
-      "\"Good engineering management\" is a fad",
-      "https://lethain.com/good-eng-mgmt-is-a-fad/"
-    ]
-  ],
-  [
-    [
-      "2025-11-23, 19:38:15",
-      "https://news.ycombinator.com/item?id=46026579"
-    ],
-    [
-      "1M Downloads of Zorin OS 18",
-      "https://blog.zorin.com/2025/11/18/test-the-upgrade-from-zorin-os-17-to-18-and-celebrating-1-million-downloads-of-zorin-os-18/"
     ]
   ],
   [
@@ -177,16 +177,6 @@
     [
       "Mount Proton Drive on Linux using rclone and systemd",
       "https://github.com/dadtronics/protondrive-linux"
-    ]
-  ],
-  [
-    [
-      "2025-11-23, 15:18:00",
-      "https://news.ycombinator.com/item?id=46024184"
-    ],
-    [
-      "Court filings allege Meta downplayed risks to children and misled the public",
-      "https://time.com/7336204/meta-lawsuit-files-child-safety/"
     ]
   ],
   [
@@ -287,6 +277,16 @@
     [
       "The Rust Performance Book",
       "https://nnethercote.github.io/perf-book/"
+    ]
+  ],
+  [
+    [
+      "2025-11-19, 07:08:49",
+      "https://news.ycombinator.com/item?id=45976666"
+    ],
+    [
+      "Band of Holes",
+      "https://en.wikipedia.org/wiki/Band_of_Holes"
     ]
   ],
   [
