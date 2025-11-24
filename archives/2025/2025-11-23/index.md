@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-11-23](index.md)
 
+* [2025-11-23, 23:53:06](https://news.ycombinator.com/item?id=46028627) - [ISPs more likely to throttle netizens who connect through CG-NAT: Cloudflare](https://www.theregister.com/2025/11/03/cloudflare_cgnat_bias_research/)
 * [2025-11-23, 23:25:03](https://news.ycombinator.com/item?id=46028422) - [X's new country-of-origin feature reveals many 'US' accounts to be foreign-run](https://www.hindustantimes.com/world-news/us-news/xs-new-country-of-origin-feature-shakes-maga-and-democrat-circles-as-many-us-accounts-revealed-to-be-foreignrun-101763857104296.html)
 * [2025-11-23, 22:36:07](https://news.ycombinator.com/item?id=46028046) - [Liva AI (YC S25) Is Hiring](https://www.ycombinator.com/companies/liva-ai/jobs/fYP8QP8-growth-intern)
 * [2025-11-23, 22:33:34](https://news.ycombinator.com/item?id=46028033) - [Sunsetting Supermaven](https://supermaven.com/blog/sunsetting-supermaven)
@@ -16,6 +17,7 @@
 * [2025-11-23, 20:58:35](https://news.ycombinator.com/item?id=46027265) - [AI Content Pipeline: My Experience](https://techlife.blog/posts/ai-content-pipeline/)
 * [2025-11-23, 20:56:23](https://news.ycombinator.com/item?id=46027245) - [Lead magnet creation for blue collar SaaS](https://estimatekit.com/free-templates)
 * [2025-11-23, 20:51:22](https://news.ycombinator.com/item?id=46027216) - [µcad: New open source programming language that can generate 2D sketches and 3D](https://microcad.xyz/)
+* [2025-11-23, 20:31:45](https://news.ycombinator.com/item?id=46027065) - [Giving the Jakks Atari Paddle a Spin](https://nicole.express/2025/paddle-me-atari.html)
 * [2025-11-23, 20:16:04](https://news.ycombinator.com/item?id=46026939) - [\"Good engineering management\" is a fad](https://lethain.com/good-eng-mgmt-is-a-fad/)
 * [2025-11-23, 20:14:46](https://news.ycombinator.com/item?id=46026919) - [I Let Claude Build My Home Network: Two ISPs Bonded, $312/Year Saved](https://jonathanclark.com/posts/bonded-internet-connection-ai.html)
 * [2025-11-23, 19:57:33](https://news.ycombinator.com/item?id=46026764) - [Thiel, Karp, Ellison, Catz, Bezos, Lessin appear in newly leaked Israel emails](https://sfstandard.com/2025/11/23/extended-courtship-linking-jeffrey-epstein-peter-thiel-israeli-officials/)
