@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-11-24, 10:40:22",
+      "https://news.ycombinator.com/item?id=46032539"
+    ],
+    [
+      "Shai-Hulud Returns: Over 300 NPM Packages Infected",
+      "https://helixguard.ai/blog/malicious-sha1hulud-2025-11-24"
+    ]
+  ],
+  [
+    [
       "2025-11-24, 07:11:38",
       "https://news.ycombinator.com/item?id=46031208"
     ],
@@ -117,16 +127,6 @@
     [
       "Show HN: I wrote a minimal memory allocator in C",
       "https://github.com/t9nzin/memory"
-    ]
-  ],
-  [
-    [
-      "2025-11-23, 22:24:23",
-      "https://news.ycombinator.com/item?id=46027947"
-    ],
-    [
-      "A desktop app for isolated, parallel agentic development",
-      "https://github.com/coder/mux"
     ]
   ],
   [
