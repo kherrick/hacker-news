@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2025-11-24, 05:46:14",
-      "https://news.ycombinator.com/item?id=46030750"
-    ],
-    [
-      "The Feds Want to Make It Illegal to Even Possess an Anarchist Zine",
-      "https://theintercept.com/2025/11/23/prairieland-ice-antifa-zines-criminalize-protest-journalism/"
-    ]
-  ],
-  [
-    [
       "2025-11-24, 05:17:15",
       "https://news.ycombinator.com/item?id=46030613"
     ],
@@ -207,6 +197,16 @@
     [
       "Calculus for Mathematicians, Computer Scientists, and Physicists [pdf]",
       "https://mathcs.holycross.edu/~ahwang/print/calc.pdf"
+    ]
+  ],
+  [
+    [
+      "2025-11-23, 16:12:06",
+      "https://news.ycombinator.com/item?id=46024584"
+    ],
+    [
+      "Mount Proton Drive on Linux using rclone and systemd",
+      "https://github.com/dadtronics/protondrive-linux"
     ]
   ],
   [
