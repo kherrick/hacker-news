@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-11-24, 07:11:38](https://news.ycombinator.com/item?id=46031208) - [Show HN: Syd – An offline-first, AI-augmented workstation for blue teams](https://www.sydsec.co.uk)
 * [2025-11-24, 05:17:15](https://news.ycombinator.com/item?id=46030613) - [Lambda Calculus – Animated Beta Reduction of Lambda Diagrams](https://cruzgodar.com/applets/lambda-calculus)
 * [2025-11-24, 04:33:57](https://news.ycombinator.com/item?id=46030414) - [Build desktop applications using Go and Web Technologies](https://github.com/wailsapp/wails)
 * [2025-11-24, 03:08:10](https://news.ycombinator.com/item?id=46029932) - [RuBee](https://computer.rip/2025-11-22-RuBee.html)
@@ -19,7 +20,6 @@
 * [2025-11-23, 18:20:27](https://news.ycombinator.com/item?id=46025942) - [Fran Sans – font inspired by San Francisco light rail displays](https://emilysneddon.com/fran-sans-essay)
 * [2025-11-23, 17:55:11](https://news.ycombinator.com/item?id=46025721) - [Native Secure Enclave backed SSH keys on macOS](https://gist.github.com/arianvp/5f59f1783e3eaf1a2d4cd8e952bb4acf)
 * [2025-11-23, 16:31:50](https://news.ycombinator.com/item?id=46024773) - [Calculus for Mathematicians, Computer Scientists, and Physicists [pdf]](https://mathcs.holycross.edu/~ahwang/print/calc.pdf)
-* [2025-11-23, 16:12:06](https://news.ycombinator.com/item?id=46024584) - [Mount Proton Drive on Linux using rclone and systemd](https://github.com/dadtronics/protondrive-linux)
 * [2025-11-22, 20:27:41](https://news.ycombinator.com/item?id=46017972) - [Terence Tao: At the Erdos problem website, AI assistance now becoming routine](https://mathstodon.xyz/@tao/115591487350860999)
 * [2025-11-21, 22:48:39](https://news.ycombinator.com/item?id=46009962) - [A time-travelling door bug in Half Life 2](https://mastodon.gamedev.place/@TomF/115589875974658415)
 * [2025-11-20, 07:25:38](https://news.ycombinator.com/item?id=45989899) - [GravOpt – optimizer hits 99.9999% MAX-CUT in 100 steps](https://github.com/Kretski/GravOptAdaptiveE)
