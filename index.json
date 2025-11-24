@@ -1,6 +1,36 @@
 [
   [
     [
+      "2025-11-24, 17:00:33",
+      "https://news.ycombinator.com/item?id=46036222"
+    ],
+    [
+      "Corvus Robotics (YC S18): Hiring Head of Mfg/Ops, Next Door to YC Mountain View",
+      "https://news.ycombinator.com/item?id=46036222"
+    ]
+  ],
+  [
+    [
+      "2025-11-24, 16:53:11",
+      "https://news.ycombinator.com/item?id=46036139"
+    ],
+    [
+      "Britain is one of the richest countries. So why do children live in poverty?",
+      "https://www.cnn.com/2025/11/24/uk/britain-child-poverty-intl-scli"
+    ]
+  ],
+  [
+    [
+      "2025-11-24, 16:40:22",
+      "https://news.ycombinator.com/item?id=46035977"
+    ],
+    [
+      "France threatens GrapheneOS with arrests / server seizure for refusing backdoors",
+      "https://grapheneos.social/@watchfulcitizen@goingdark.social/115605398547420414"
+    ]
+  ],
+  [
+    [
       "2025-11-24, 16:03:36",
       "https://news.ycombinator.com/item?id=46035533"
     ],
@@ -31,16 +61,6 @@
   ],
   [
     [
-      "2025-11-24, 12:35:15",
-      "https://news.ycombinator.com/item?id=46033435"
-    ],
-    [
-      "Bureau of Meteorology's new boss asked to examine $96M bill for website redesign",
-      "https://www.abc.net.au/news/2025-11-23/bureau-of-meteorology-new-website-cost-blowout-to-96-million/106042202"
-    ]
-  ],
-  [
-    [
       "2025-11-24, 12:23:02",
       "https://news.ycombinator.com/item?id=46033330"
     ],
@@ -57,16 +77,6 @@
     [
       "NSA and IETF, part 3: Dodging the issues at hand",
       "https://blog.cr.yp.to/20251123-dodging.html"
-    ]
-  ],
-  [
-    [
-      "2025-11-24, 11:02:51",
-      "https://news.ycombinator.com/item?id=46032694"
-    ],
-    [
-      "I put a real search engine into a Lambda, so you only pay when you search",
-      "https://nixiesearch.substack.com/p/i-put-a-real-search-engine-into-a"
     ]
   ],
   [
@@ -151,16 +161,6 @@
   ],
   [
     [
-      "2025-11-23, 22:25:36",
-      "https://news.ycombinator.com/item?id=46027962"
-    ],
-    [
-      "Show HN: I wrote a minimal memory allocator in C",
-      "https://github.com/t9nzin/memory"
-    ]
-  ],
-  [
-    [
       "2025-11-23, 20:51:22",
       "https://news.ycombinator.com/item?id=46027216"
     ],
@@ -177,16 +177,6 @@
     [
       "Fran Sans – font inspired by San Francisco light rail displays",
       "https://emilysneddon.com/fran-sans-essay"
-    ]
-  ],
-  [
-    [
-      "2025-11-23, 17:55:11",
-      "https://news.ycombinator.com/item?id=46025721"
-    ],
-    [
-      "Native Secure Enclave backed SSH keys on macOS",
-      "https://gist.github.com/arianvp/5f59f1783e3eaf1a2d4cd8e952bb4acf"
     ]
   ],
   [
@@ -227,6 +217,16 @@
     [
       "Building the largest known Kubernetes cluster, with 130k nodes",
       "https://cloud.google.com/blog/products/containers-kubernetes/how-we-built-a-130000-node-gke-cluster/"
+    ]
+  ],
+  [
+    [
+      "2025-11-20, 19:21:27",
+      "https://news.ycombinator.com/item?id=45996527"
+    ],
+    [
+      "Historically Accurate Airport Dioramas by AV Pro Designs",
+      "https://www.core77.com/posts/138995/Historically-Accurate-Airport-Dioramas-by-AV-Pro-Designs"
     ]
   ],
   [
