@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2025-11-24, 07:09:28",
-      "https://news.ycombinator.com/item?id=46031196"
-    ],
-    [
-      "A One-Minute ADHD Test",
-      "https://psychotechnology.substack.com/p/a-one-minute-adhd-test-2330"
-    ]
-  ],
-  [
-    [
       "2025-11-24, 05:17:15",
       "https://news.ycombinator.com/item?id=46030613"
     ],
@@ -127,6 +117,16 @@
     [
       "Show HN: I wrote a minimal memory allocator in C",
       "https://github.com/t9nzin/memory"
+    ]
+  ],
+  [
+    [
+      "2025-11-23, 22:24:23",
+      "https://news.ycombinator.com/item?id=46027947"
+    ],
+    [
+      "A desktop app for isolated, parallel agentic development",
+      "https://github.com/coder/mux"
     ]
   ],
   [
