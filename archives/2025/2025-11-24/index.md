@@ -4,9 +4,14 @@
 
 ### [Archives](../../index.md) for [2025-11-24](index.md)
 
+* [2025-11-24, 18:53:05](https://news.ycombinator.com/item?id=46037637) - [Claude Opus 4.5](https://www.anthropic.com/news/claude-opus-4-5)
+* [2025-11-24, 18:52:12](https://news.ycombinator.com/item?id=46037626) - [Pebble Watch software is now 100% open source](https://ericmigi.com/blog/pebble-watch-software-is-now-100percent-open-source)
 * [2025-11-24, 18:49:47](https://news.ycombinator.com/item?id=46037591) - [Google's new 'Aluminium OS' project brings Android to PC](https://www.androidauthority.com/aluminium-os-android-for-pcs-3619092/)
 * [2025-11-24, 18:48:04](https://news.ycombinator.com/item?id=46037573) - [GrapheneOS migrates server infrastructure from France](https://www.privacyguides.org/news/2025/11/22/grapheneos-migrates-server-infrastructure-from-france-amid-police-intimidation-claims/)
+* [2025-11-24, 18:47:11](https://news.ycombinator.com/item?id=46037556) - [Is Your Android TV Streaming Box Part of a Botnet?](https://krebsonsecurity.com/2025/11/is-your-android-tv-streaming-box-part-of-a-botnet/)
 * [2025-11-24, 18:37:27](https://news.ycombinator.com/item?id=46037416) - [Launch HN: Karumi (YC F25) – Personalized, agentic product demos](https://www.karumi.ai/meet/start/phlz)
+* [2025-11-24, 18:32:27](https://news.ycombinator.com/item?id=46037343) - [The Bitter Lesson of LLM Extensions](https://www.sawyerhood.com/blog/llm-extension)
+* [2025-11-24, 18:30:48](https://news.ycombinator.com/item?id=46037324) - [TSMC Arizona Outage Saw Fab Halt, Apple Wafers Scrapped](https://www.culpium.com/p/tsmc-arizona-outage-saw-fab-halt)
 * [2025-11-24, 18:26:09](https://news.ycombinator.com/item?id=46037267) - [Mind-reading devices can now predict preconscious thoughts: is it time to worry?](https://www.nature.com/articles/d41586-025-03714-0)
 * [2025-11-24, 17:52:01](https://news.ycombinator.com/item?id=46036895) - [Cool-retro-term: terminal emulator which mimics look and feel of the old CRTs](https://github.com/Swordfish90/cool-retro-term)
 * [2025-11-24, 17:51:02](https://news.ycombinator.com/item?id=46036878) - [Andrej Karpathy on X: implications of AI to schools](https://twitter.com/karpathy/status/1993010584175141038)

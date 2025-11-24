@@ -61,6 +61,7 @@
 * [2025-11-23, 03:27:04](https://news.ycombinator.com/item?id=46020502) - [MCP Apps just dropped (OpenAI and Anthropic collab) and I think this is huge](http://blog.modelcontextprotocol.io/posts/2025-11-21-mcp-apps/)
 * [2025-11-23, 02:18:03](https://news.ycombinator.com/item?id=46020151) - [GCC SC approves inclusion of Algol 68 Front End](https://gcc.gnu.org/pipermail/gcc/2025-November/247020.html)
 * [2025-11-23, 02:08:00](https://news.ycombinator.com/item?id=46020096) - [An Economy of AI Agents](https://arxiv.org/abs/2509.01063)
+* [2025-11-23, 01:25:17](https://news.ycombinator.com/item?id=46019898) - [Three Years from GPT-3 to Gemini 3](https://www.oneusefulthing.org/p/three-years-from-gpt-3-to-gemini)
 * [2025-11-23, 01:09:47](https://news.ycombinator.com/item?id=46019817) - [Meta buried 'causal' evidence of social media harm, US court filings allege](https://www.reuters.com/sustainability/boards-policy-regulation/meta-buried-causal-evidence-social-media-harm-us-court-filings-allege-2025-11-23/)
 * [2025-11-23, 01:00:04](https://news.ycombinator.com/item?id=46019760) - [Germany to classify date rape drugs as weapons to ensure justice for survivors](https://www.theguardian.com/society/2025/nov/21/germany-to-classify-date-drugs-as-weapons-in-attempt-to-ensure-justice-for-survivors)
 * [2025-11-23, 00:50:49](https://news.ycombinator.com/item?id=46019714) - [A Year Without Caffeine (2013)](https://bryanalexander.org/personal/a-year-without-caffeine/)
