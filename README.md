@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-11-24, 05:46:14](https://news.ycombinator.com/item?id=46030750) - [The Feds Want to Make It Illegal to Even Possess an Anarchist Zine](https://theintercept.com/2025/11/23/prairieland-ice-antifa-zines-criminalize-protest-journalism/)
 * [2025-11-24, 04:33:57](https://news.ycombinator.com/item?id=46030414) - [Build desktop applications using Go and Web Technologies](https://github.com/wailsapp/wails)
 * [2025-11-24, 03:08:10](https://news.ycombinator.com/item?id=46029932) - [RuBee](https://computer.rip/2025-11-22-RuBee.html)
 * [2025-11-24, 03:07:07](https://news.ycombinator.com/item?id=46029929) - [Japan's gamble to turn island of Hokkaido into global chip hub](https://www.bbc.com/news/articles/c8676qpxgnqo)
@@ -10,7 +11,6 @@
 * [2025-11-24, 02:16:42](https://news.ycombinator.com/item?id=46029649) - [Passing the Torch – My Last Root DNSSEC KSK Ceremony as Crypto Officer 4](https://technotes.seastrom.com/2025/11/23/passing-the-torch.html)
 * [2025-11-24, 02:01:02](https://news.ycombinator.com/item?id=46029534) - [Ego, empathy, and humility at work](https://matthogg.fyi/a-unified-theory-of-ego-empathy-and-humility-at-work/)
 * [2025-11-23, 22:36:07](https://news.ycombinator.com/item?id=46028046) - [Liva AI (YC S25) Is Hiring](https://www.ycombinator.com/companies/liva-ai/jobs/fYP8QP8-growth-intern)
-* [2025-11-23, 22:33:34](https://news.ycombinator.com/item?id=46028033) - [Sunsetting Supermaven](https://supermaven.com/blog/sunsetting-supermaven)
 * [2025-11-23, 22:25:36](https://news.ycombinator.com/item?id=46027962) - [Show HN: I wrote a minimal memory allocator in C](https://github.com/t9nzin/memory)
 * [2025-11-23, 22:24:23](https://news.ycombinator.com/item?id=46027947) - [A desktop app for isolated, parallel agentic development](https://github.com/coder/mux)
 * [2025-11-23, 22:06:44](https://news.ycombinator.com/item?id=46027833) - [Iowa City made its buses free. Traffic cleared, and so did the air](https://www.nytimes.com/2025/11/18/climate/iowa-city-free-buses.html)
@@ -26,7 +26,7 @@
 * [2025-11-19, 20:53:42](https://news.ycombinator.com/item?id=45985008) - [New magnetic component discovered in the Faraday effect after nearly 2 centuries](https://phys.org/news/2025-11-magnetic-component-faraday-effect-centuries.html)
 * [2025-11-19, 09:08:10](https://news.ycombinator.com/item?id=45977386) - [The Rust Performance Book (2020)](https://nnethercote.github.io/perf-book/)
 * [2025-11-19, 07:08:49](https://news.ycombinator.com/item?id=45976666) - [Band of Holes](https://en.wikipedia.org/wiki/Band_of_Holes)
-* [2025-11-18, 22:52:57](https://news.ycombinator.com/item?id=45973364) - [Having Fun with Complex Numbers: A Real-Life Journey for Upper Elementary Studen](https://mathwonder.org/Having-Fun-with-Complex-Numbers/)
+* [2025-11-18, 22:52:57](https://news.ycombinator.com/item?id=45973364) - [Having Fun with Complex Numbers](https://mathwonder.org/Having-Fun-with-Complex-Numbers/)
 * [2025-11-18, 18:47:45](https://news.ycombinator.com/item?id=45970317) - [Hyperoptic: IPv6 and Out-of-Order Packets](https://blog.zakkemble.net/hyperoptic-ipv6-and-out-of-order-packets/)
 * [2025-11-18, 16:54:22](https://news.ycombinator.com/item?id=45968827) - [Disney Lost Roger Rabbit](https://pluralistic.net/2025/11/18/im-not-bad/)
 * [2025-11-18, 12:47:04](https://news.ycombinator.com/item?id=45964956) - [Show HN: Gitlogue – A terminal tool that replays your Git commits with animation](https://github.com/unhappychoice/gitlogue)

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-11-24](index.md)
 
+* [2025-11-24, 05:46:14](https://news.ycombinator.com/item?id=46030750) - [The Feds Want to Make It Illegal to Even Possess an Anarchist Zine](https://theintercept.com/2025/11/23/prairieland-ice-antifa-zines-criminalize-protest-journalism/)
 * [2025-11-24, 04:33:57](https://news.ycombinator.com/item?id=46030414) - [Build desktop applications using Go and Web Technologies](https://github.com/wailsapp/wails)
 * [2025-11-24, 04:22:12](https://news.ycombinator.com/item?id=46030360) - [Insurers retreat from AI cover as risk of multibillion-dollar claims mounts](https://www.ft.com/content/abfe9741-f438-4ed6-a673-075ec177dc62)
 * [2025-11-24, 03:08:10](https://news.ycombinator.com/item?id=46029932) - [RuBee](https://computer.rip/2025-11-22-RuBee.html)
