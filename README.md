@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-11-24, 13:37:28](https://news.ycombinator.com/item?id=46033945) - ['Nobody wants to come': What if the U.S. can no longer attract immigrant doctors](https://www.npr.org/sections/shots-health-news/2025/11/24/nx-s1-5618291/immigrant-physicians-foreign-born-doctors-trump-h1b)
 * [2025-11-24, 12:47:38](https://news.ycombinator.com/item?id=46033536) - [Trade Chaos Causes Businesses to Rethink Their Relationship with the U.S.](https://www.nytimes.com/2025/11/24/business/tariffs-trade-small-business.html)
-* [2025-11-24, 12:35:15](https://news.ycombinator.com/item?id=46033435) - [Bureau of Meteorology asked to examine $96.5M bill for website redesign](https://www.abc.net.au/news/2025-11-23/bureau-of-meteorology-new-website-cost-blowout-to-96-million/106042202)
+* [2025-11-24, 12:35:15](https://news.ycombinator.com/item?id=46033435) - [Bureau of Meteorology's new boss asked to examine $96M bill for website redesign](https://www.abc.net.au/news/2025-11-23/bureau-of-meteorology-new-website-cost-blowout-to-96-million/106042202)
 * [2025-11-24, 12:00:55](https://news.ycombinator.com/item?id=46033151) - [NSA and IETF, part 3: Dodging the issues at hand](https://blog.cr.yp.to/20251123-dodging.html)
 * [2025-11-24, 10:40:22](https://news.ycombinator.com/item?id=46032539) - [Shai-Hulud Returns: Over 300 NPM Packages Infected](https://helixguard.ai/blog/malicious-sha1hulud-2025-11-24)
 * [2025-11-24, 10:37:05](https://news.ycombinator.com/item?id=46032513) - [General principles for the use of AI at CERN](https://home.web.cern.ch/news/official-news/knowledge-sharing/general-principles-use-ai-cern)
@@ -26,9 +27,8 @@
 * [2025-11-19, 21:15:45](https://news.ycombinator.com/item?id=45985306) - [I built an faster Notion in Rust](https://imedadel.com/outcrop/)
 * [2025-11-19, 20:53:42](https://news.ycombinator.com/item?id=45985008) - [New magnetic component discovered in the Faraday effect after nearly 2 centuries](https://phys.org/news/2025-11-magnetic-component-faraday-effect-centuries.html)
 * [2025-11-19, 16:22:32](https://news.ycombinator.com/item?id=45981441) - [Slicing Is All You Need: Towards a Universal One-Sided Distributed MatMul](https://arxiv.org/abs/2510.08874)
-* [2025-11-19, 15:17:19](https://news.ycombinator.com/item?id=45980608) - [The Only GM EV1 Ever Publicly Sold, and Where It's Going Next](https://www.theautopian.com/how-the-only-gm-ev1-ever-sold-didnt-get-crushed-and-where-its-going-now/)
+* [2025-11-19, 15:17:19](https://news.ycombinator.com/item?id=45980608) - [The only GM EV1 ever publicly sold, and where it's going next](https://www.theautopian.com/how-the-only-gm-ev1-ever-sold-didnt-get-crushed-and-where-its-going-now/)
 * [2025-11-19, 09:08:10](https://news.ycombinator.com/item?id=45977386) - [The Rust Performance Book (2020)](https://nnethercote.github.io/perf-book/)
-* [2025-11-18, 18:47:45](https://news.ycombinator.com/item?id=45970317) - [Hyperoptic: IPv6 and Out-of-Order Packets](https://blog.zakkemble.net/hyperoptic-ipv6-and-out-of-order-packets/)
 * [2025-11-18, 16:54:22](https://news.ycombinator.com/item?id=45968827) - [Disney Lost Roger Rabbit](https://pluralistic.net/2025/11/18/im-not-bad/)
 
 ## [Archives](archives/index.md)
