@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-11-24, 10:40:22](https://news.ycombinator.com/item?id=46032539) - [Shai-Hulud Returns: Over 300 NPM Packages Infected](https://helixguard.ai/blog/malicious-sha1hulud-2025-11-24)
-* [2025-11-24, 07:11:38](https://news.ycombinator.com/item?id=46031208) - [Syd – An offline-first, AI-augmented workstation for blue teams](https://www.sydsec.co.uk)
+* [2025-11-24, 10:37:05](https://news.ycombinator.com/item?id=46032513) - [General principles for the use of AI at CERN](https://home.web.cern.ch/news/official-news/knowledge-sharing/general-principles-use-ai-cern)
 * [2025-11-24, 05:17:15](https://news.ycombinator.com/item?id=46030613) - [Lambda Calculus – Animated Beta Reduction of Lambda Diagrams](https://cruzgodar.com/applets/lambda-calculus)
 * [2025-11-24, 04:33:57](https://news.ycombinator.com/item?id=46030414) - [Build desktop applications using Go and Web Technologies](https://github.com/wailsapp/wails)
 * [2025-11-24, 03:08:10](https://news.ycombinator.com/item?id=46029932) - [RuBee](https://computer.rip/2025-11-22-RuBee.html)
