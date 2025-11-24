@@ -72,6 +72,7 @@
 * [2025-11-19, 09:40:13](https://news.ycombinator.com/item?id=45977629) - [I made a downdetector for downdetector's downdetector's downdetector](https://downdetectorsdowndetectorsdowndetectorsdowndetector.com)
 * [2025-11-19, 09:27:17](https://news.ycombinator.com/item?id=45977542) - [Multimodal Diffusion Language Models for Thinking-Aware Editing and Generation](https://github.com/tyfeld/MMaDA-Parallel)
 * [2025-11-19, 09:15:38](https://news.ycombinator.com/item?id=45977457) - [Ultra-processed food linked to harm in every major human organ, study finds](https://www.theguardian.com/society/2025/nov/18/ultra-processed-food-linked-to-harm-in-every-major-human-organ-study-finds)
+* [2025-11-19, 09:08:10](https://news.ycombinator.com/item?id=45977386) - [The Rust Performance Book](https://nnethercote.github.io/perf-book/)
 * [2025-11-19, 08:06:15](https://news.ycombinator.com/item?id=45976999) - [Asymptotically optimal approximate Hadamard matrices](https://arxiv.org/abs/2511.14653)
 * [2025-11-19, 07:36:25](https://news.ycombinator.com/item?id=45976832) - [Exploring the Limits of Large Language Models as Quant Traders](https://nof1.ai/blog/TechPost1)
 * [2025-11-19, 07:20:33](https://news.ycombinator.com/item?id=45976734) - [What nicotine does to your brain](https://economist.com/science-and-technology/2025/09/12/what-nicotine-does-to-your-brain)
