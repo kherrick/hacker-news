@@ -1,32 +1,42 @@
 [
   [
     [
+      "2025-11-24, 02:25:39",
+      "https://news.ycombinator.com/item?id=46029699"
+    ],
+    [
+      "Ask HN: Hearing aid wearers, what's hot?",
+      "https://news.ycombinator.com/item?id=46029699"
+    ]
+  ],
+  [
+    [
+      "2025-11-24, 02:16:42",
+      "https://news.ycombinator.com/item?id=46029649"
+    ],
+    [
+      "Passing the Torch – My Last Root DNSSEC KSK Ceremony as Crypto Officer 4",
+      "https://technotes.seastrom.com/2025/11/23/passing-the-torch.html"
+    ]
+  ],
+  [
+    [
+      "2025-11-24, 02:05:01",
+      "https://news.ycombinator.com/item?id=46029561"
+    ],
+    [
+      "My Life Is a Lie: How a Broken Benchmark Broke America",
+      "https://www.yesigiveafig.com/p/part-1-my-life-is-a-lie"
+    ]
+  ],
+  [
+    [
       "2025-11-24, 00:18:21",
       "https://news.ycombinator.com/item?id=46028827"
     ],
     [
       "'Invisible' microplastics spread in skies as global pollutant",
       "https://www.asahi.com/ajw/articles/16137995"
-    ]
-  ],
-  [
-    [
-      "2025-11-24, 00:05:14",
-      "https://news.ycombinator.com/item?id=46028721"
-    ],
-    [
-      "Doge 'doesn't exist' with eight months left on its charter",
-      "https://www.reuters.com/world/us/doge-doesnt-exist-with-eight-months-left-its-charter-2025-11-23/"
-    ]
-  ],
-  [
-    [
-      "2025-11-23, 23:53:06",
-      "https://news.ycombinator.com/item?id=46028627"
-    ],
-    [
-      "ISPs more likely to throttle netizens who connect through CG-NAT: Cloudflare",
-      "https://www.theregister.com/2025/11/03/cloudflare_cgnat_bias_research/"
     ]
   ],
   [
@@ -101,32 +111,12 @@
   ],
   [
     [
-      "2025-11-23, 21:52:48",
-      "https://news.ycombinator.com/item?id=46027709"
-    ],
-    [
-      "Several core problems with Rust",
-      "https://bykozy.me/blog/rust-is-a-disappointment/"
-    ]
-  ],
-  [
-    [
       "2025-11-23, 20:51:22",
       "https://news.ycombinator.com/item?id=46027216"
     ],
     [
       "µcad: New open source programming language that can generate 2D sketches and 3D",
       "https://microcad.xyz/"
-    ]
-  ],
-  [
-    [
-      "2025-11-23, 20:31:45",
-      "https://news.ycombinator.com/item?id=46027065"
-    ],
-    [
-      "Giving the Jakks Atari Paddle a Spin",
-      "https://nicole.express/2025/paddle-me-atari.html"
     ]
   ],
   [
@@ -287,6 +277,16 @@
     [
       "New magnetic component discovered in the Faraday effect after nearly 2 centuries",
       "https://phys.org/news/2025-11-magnetic-component-faraday-effect-centuries.html"
+    ]
+  ],
+  [
+    [
+      "2025-11-19, 09:08:10",
+      "https://news.ycombinator.com/item?id=45977386"
+    ],
+    [
+      "The Rust Performance Book",
+      "https://nnethercote.github.io/perf-book/"
     ]
   ],
   [
