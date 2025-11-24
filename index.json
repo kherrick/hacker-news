@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2025-11-24, 16:03:36",
+      "https://news.ycombinator.com/item?id=46035533"
+    ],
+    [
+      "SHA1-Hulud the Second Comming – Postman, Zapier, PostHog All Compromised via NPM",
+      "https://www.aikido.dev/blog/shai-hulud-strikes-again-hitting-zapier-ensdomains"
+    ]
+  ],
+  [
+    [
       "2025-11-24, 13:58:05",
       "https://news.ycombinator.com/item?id=46034145"
     ],
@@ -151,26 +161,6 @@
   ],
   [
     [
-      "2025-11-23, 22:36:07",
-      "https://news.ycombinator.com/item?id=46028046"
-    ],
-    [
-      "Liva AI (YC S25) Is Hiring",
-      "https://www.ycombinator.com/companies/liva-ai/jobs/fYP8QP8-growth-intern"
-    ]
-  ],
-  [
-    [
-      "2025-11-23, 22:25:36",
-      "https://news.ycombinator.com/item?id=46027962"
-    ],
-    [
-      "Show HN: I wrote a minimal memory allocator in C",
-      "https://github.com/t9nzin/memory"
-    ]
-  ],
-  [
-    [
       "2025-11-23, 20:51:22",
       "https://news.ycombinator.com/item?id=46027216"
     ],
@@ -247,6 +237,16 @@
     [
       "Inside Rust's std and parking_lot mutexes – who wins?",
       "https://blog.cuongle.dev/p/inside-rusts-std-and-parking-lot-mutexes-who-win"
+    ]
+  ],
+  [
+    [
+      "2025-11-19, 21:15:45",
+      "https://news.ycombinator.com/item?id=45985306"
+    ],
+    [
+      "I built an faster Notion in Rust",
+      "https://imedadel.com/outcrop/"
     ]
   ],
   [
