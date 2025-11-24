@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-11-24, 22:12:04](https://news.ycombinator.com/item?id=46040005) - [DoGE \"cut muscle, not fat\"; 26K experts rehired after brutal cuts](https://arstechnica.com/tech-policy/2025/11/doge-doesnt-exist-anymore-but-expert-says-its-still-not-dead/)
 * [2025-11-24, 19:29:12](https://news.ycombinator.com/item?id=46038143) - [PS5 now costs less than 64GB of DDR5 memory. RAM jumps to $600 due to shortage](https://www.tomshardware.com/pc-components/ddr5/64gb-of-ddr5-memory-now-costs-more-than-an-entire-ps5-even-after-a-discount-trident-z5-neo-kit-jumps-to-usd600-due-to-dram-shortage-and-its-expected-to-get-worse-into-2026)
 * [2025-11-24, 19:25:25](https://news.ycombinator.com/item?id=46038099) - [Unpowered SSDs slowly lose data](https://www.xda-developers.com/your-unpowered-ssd-is-slowly-losing-your-data/)
 * [2025-11-24, 19:21:35](https://news.ycombinator.com/item?id=46038047) - [Claude Advanced Tool Use](https://www.anthropic.com/engineering/advanced-tool-use)
@@ -28,6 +27,7 @@
 * [2025-11-21, 16:44:45](https://news.ycombinator.com/item?id=46006104) - [Show HN: OCR Arena – A playground for OCR models](https://www.ocrarena.ai/battle)
 * [2025-11-20, 16:07:22](https://news.ycombinator.com/item?id=45994124) - [Everything you need to know about hard drive vibration (2016)](https://www.ept.ca/features/everything-need-know-hard-drive-vibration/)
 * [2025-11-20, 05:32:13](https://news.ycombinator.com/item?id=45989284) - [Inside Rust's std and parking_lot mutexes – who wins?](https://blog.cuongle.dev/p/inside-rusts-std-and-parking-lot-mutexes-who-win)
+* [2025-11-19, 15:17:19](https://news.ycombinator.com/item?id=45980608) - [The only GM EV1 ever publicly sold](https://www.theautopian.com/how-the-only-gm-ev1-ever-sold-didnt-get-crushed-and-where-its-going-now/)
 * [2025-11-19, 15:07:35](https://news.ycombinator.com/item?id=45980474) - [Moving from OpenBSD to FreeBSD for firewalls](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/OpenBSDToFreeBSDMove)
 * [2025-11-19, 01:24:12](https://news.ycombinator.com/item?id=45974732) - [Neopets.com Changed My Life (2019)](https://annastreetman.com/2019/05/19/how-neopets-com-changed-my-life/)
 
