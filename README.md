@@ -18,7 +18,6 @@
 * [2025-11-24, 12:00:55](https://news.ycombinator.com/item?id=46033151) - [NSA and IETF, part 3: Dodging the issues at hand](https://blog.cr.yp.to/20251123-dodging.html)
 * [2025-11-24, 10:40:22](https://news.ycombinator.com/item?id=46032539) - [Shai-Hulud Returns: Over 300 NPM Packages Infected](https://helixguard.ai/blog/malicious-sha1hulud-2025-11-24)
 * [2025-11-24, 06:44:57](https://news.ycombinator.com/item?id=46031068) - [The Arithmetic of Braids (2022)](https://mathcenter.oxford.emory.edu/site/math108/braid_arithmetic/)
-* [2025-11-24, 05:58:08](https://news.ycombinator.com/item?id=46030799) - [What OpenAI did when ChatGPT users lost touch with reality](https://www.nytimes.com/2025/11/23/technology/openai-chatgpt-users-risks.html)
 * [2025-11-23, 16:06:46](https://news.ycombinator.com/item?id=46024541) - [We stopped roadmap work for a week and fixed bugs](https://lalitm.com/fixits-are-good-for-the-soul/)
 * [2025-11-23, 01:25:17](https://news.ycombinator.com/item?id=46019898) - [Three Years from GPT-3 to Gemini 3](https://www.oneusefulthing.org/p/three-years-from-gpt-3-to-gemini)
 * [2025-11-22, 13:36:02](https://news.ycombinator.com/item?id=46014685) - [You can see a working Quantum Computer in IBM's London office](https://www.ianvisits.co.uk/articles/you-can-see-a-working-quantum-computer-in-ibms-london-office-85464/)
@@ -29,6 +28,7 @@
 * [2025-11-20, 05:32:13](https://news.ycombinator.com/item?id=45989284) - [Inside Rust's std and parking_lot mutexes – who wins?](https://blog.cuongle.dev/p/inside-rusts-std-and-parking-lot-mutexes-who-win)
 * [2025-11-19, 15:17:19](https://news.ycombinator.com/item?id=45980608) - [The only GM EV1 ever publicly sold](https://www.theautopian.com/how-the-only-gm-ev1-ever-sold-didnt-get-crushed-and-where-its-going-now/)
 * [2025-11-19, 15:07:35](https://news.ycombinator.com/item?id=45980474) - [Moving from OpenBSD to FreeBSD for firewalls](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/OpenBSDToFreeBSDMove)
+* [2025-11-19, 01:24:12](https://news.ycombinator.com/item?id=45974732) - [Neopets.com Changed My Life (2019)](https://annastreetman.com/2019/05/19/how-neopets-com-changed-my-life/)
 * [2025-11-18, 16:54:22](https://news.ycombinator.com/item?id=45968827) - [Disney Lost Roger Rabbit](https://pluralistic.net/2025/11/18/im-not-bad/)
 
 ## [Archives](archives/index.md)
