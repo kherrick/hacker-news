@@ -19,6 +19,7 @@
 * [2025-11-18, 19:05:44](https://news.ycombinator.com/item?id=45970519) - [Trying out Gemini 3 Pro with audio transcription and a new pelican benchmark](https://simonwillison.net/2025/Nov/18/gemini-3/)
 * [2025-11-18, 18:54:54](https://news.ycombinator.com/item?id=45970391) - [OrthoRoute – GPU-accelerated autorouting for KiCad](https://bbenchoff.github.io/pages/OrthoRoute.html)
 * [2025-11-18, 18:50:00](https://news.ycombinator.com/item?id=45970338) - [Show HN: RowboatX – open-source Claude Code for everyday automations](https://github.com/rowboatlabs/rowboat)
+* [2025-11-18, 18:47:45](https://news.ycombinator.com/item?id=45970317) - [Hyperoptic: IPv6 and Out-of-Order Packets](https://blog.zakkemble.net/hyperoptic-ipv6-and-out-of-order-packets/)
 * [2025-11-18, 18:19:10](https://news.ycombinator.com/item?id=45969974) - [NPR to get $36M in settlement to operate US public radio system](https://apnews.com/article/trump-npr-lawsuit-2cc4abfa8cf00fe6f89e387e63eb4a2a)
 * [2025-11-18, 18:13:30](https://news.ycombinator.com/item?id=45969909) - [I am stepping down as the CEO of Mastodon](https://blog.joinmastodon.org/2025/11/my-next-chapter-with-mastodon/)
 * [2025-11-18, 17:55:55](https://news.ycombinator.com/item?id=45969708) - [Show HN: Guts – convert Golang types to TypeScript](https://github.com/coder/guts)
