@@ -1,16 +1,6 @@
 [
   [
     [
-      "2025-11-24, 06:37:20",
-      "https://news.ycombinator.com/item?id=46031025"
-    ],
-    [
-      "Git 3.0 will use main as the default branch",
-      "https://thoughtbot.com/blog/git-3-0-will-use-main-as-the-default-branch"
-    ]
-  ],
-  [
-    [
       "2025-11-24, 05:17:15",
       "https://news.ycombinator.com/item?id=46030613"
     ],
@@ -227,6 +217,16 @@
     [
       "A time-travelling door bug in Half Life 2",
       "https://mastodon.gamedev.place/@TomF/115589875974658415"
+    ]
+  ],
+  [
+    [
+      "2025-11-20, 07:25:38",
+      "https://news.ycombinator.com/item?id=45989899"
+    ],
+    [
+      "GravOpt – optimizer hits 99.9999% MAX-CUT in 100 steps",
+      "https://github.com/Kretski/GravOptAdaptiveE"
     ]
   ],
   [
