@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-11-24](index.md)
 
+* [2025-11-24, 17:00:33](https://news.ycombinator.com/item?id=46036222) - [Corvus Robotics (YC S18): Hiring Head of Mfg/Ops, Next Door to YC Mountain View](https://news.ycombinator.com/item?id=46036222)
+* [2025-11-24, 16:53:11](https://news.ycombinator.com/item?id=46036139) - [Britain is one of the richest countries. So why do children live in poverty?](https://www.cnn.com/2025/11/24/uk/britain-child-poverty-intl-scli)
+* [2025-11-24, 16:40:22](https://news.ycombinator.com/item?id=46035977) - [France threatens GrapheneOS with arrests / server seizure for refusing backdoors](https://grapheneos.social/@watchfulcitizen@goingdark.social/115605398547420414)
 * [2025-11-24, 16:07:40](https://news.ycombinator.com/item?id=46035574) - [X Just Accidentally Exposed a Covert Influence Network Targeting Americans](https://weaponizedspaces.substack.com/p/x-just-accidentally-exposed-a-vast)
 * [2025-11-24, 16:03:36](https://news.ycombinator.com/item?id=46035533) - [SHA1-Hulud the Second Comming – Postman, Zapier, PostHog All Compromised via NPM](https://www.aikido.dev/blog/shai-hulud-strikes-again-hitting-zapier-ensdomains)
 * [2025-11-24, 14:43:01](https://news.ycombinator.com/item?id=46034652) - [Booking.com cancels $4K hotel reservation, offers same rooms again for $17K](https://www.cbc.ca/news/gopublic/go-public-booking-com-hotel-rates-9.6985480)
