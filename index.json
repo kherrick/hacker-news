@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-11-24, 17:52:01",
+      "https://news.ycombinator.com/item?id=46036895"
+    ],
+    [
+      "Cool-retro-term: terminal emulator which mimics look and feel of the old CRTs",
+      "https://github.com/Swordfish90/cool-retro-term"
+    ]
+  ],
+  [
+    [
+      "2025-11-24, 17:51:02",
+      "https://news.ycombinator.com/item?id=46036878"
+    ],
+    [
+      "Andrej Karpathy on X: implications of AI to schools",
+      "https://twitter.com/karpathy/status/1993010584175141038"
+    ]
+  ],
+  [
+    [
       "2025-11-24, 17:00:33",
       "https://news.ycombinator.com/item?id=46036222"
     ],
@@ -71,16 +91,6 @@
   ],
   [
     [
-      "2025-11-24, 11:02:51",
-      "https://news.ycombinator.com/item?id=46032694"
-    ],
-    [
-      "I put a real search engine into a Lambda, so you only pay when you search",
-      "https://nixiesearch.substack.com/p/i-put-a-real-search-engine-into-a"
-    ]
-  ],
-  [
-    [
       "2025-11-24, 10:40:22",
       "https://news.ycombinator.com/item?id=46032539"
     ],
@@ -117,16 +127,6 @@
     [
       "Japan's gamble to turn island of Hokkaido into global chip hub",
       "https://www.bbc.com/news/articles/c8676qpxgnqo"
-    ]
-  ],
-  [
-    [
-      "2025-11-24, 03:04:10",
-      "https://news.ycombinator.com/item?id=46029908"
-    ],
-    [
-      "The Cloudflare outage might be a good thing",
-      "https://gist.github.com/jbreckmckye/32587f2907e473dd06d68b0362fb0048"
     ]
   ],
   [
@@ -211,16 +211,6 @@
   ],
   [
     [
-      "2025-11-21, 17:56:50",
-      "https://news.ycombinator.com/item?id=46006891"
-    ],
-    [
-      "Building the largest known Kubernetes cluster, with 130k nodes",
-      "https://cloud.google.com/blog/products/containers-kubernetes/how-we-built-a-130000-node-gke-cluster/"
-    ]
-  ],
-  [
-    [
       "2025-11-20, 19:21:27",
       "https://news.ycombinator.com/item?id=45996527"
     ],
@@ -277,6 +267,16 @@
     [
       "Slicing Is All You Need: Towards a Universal One-Sided Distributed MatMul",
       "https://arxiv.org/abs/2510.08874"
+    ]
+  ],
+  [
+    [
+      "2025-11-19, 15:07:35",
+      "https://news.ycombinator.com/item?id=45980474"
+    ],
+    [
+      "We're (now) moving from OpenBSD to FreeBSD for firewalls",
+      "https://utcc.utoronto.ca/~cks/space/blog/sysadmin/OpenBSDToFreeBSDMove"
     ]
   ],
   [
