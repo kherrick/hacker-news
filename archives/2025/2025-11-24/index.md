@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-11-24](index.md)
 
+* [2025-11-24, 10:40:22](https://news.ycombinator.com/item?id=46032539) - [Shai-Hulud Returns: Over 300 NPM Packages Infected](https://helixguard.ai/blog/malicious-sha1hulud-2025-11-24)
 * [2025-11-24, 07:11:38](https://news.ycombinator.com/item?id=46031208) - [Show HN: Syd – An offline-first, AI-augmented workstation for blue teams](https://www.sydsec.co.uk)
 * [2025-11-24, 07:09:28](https://news.ycombinator.com/item?id=46031196) - [A One-Minute ADHD Test](https://psychotechnology.substack.com/p/a-one-minute-adhd-test-2330)
 * [2025-11-24, 06:37:20](https://news.ycombinator.com/item?id=46031025) - [Git 3.0 will use main as the default branch](https://thoughtbot.com/blog/git-3-0-will-use-main-as-the-default-branch)
