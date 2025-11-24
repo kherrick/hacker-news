@@ -20,6 +20,7 @@
 * [2025-11-23, 16:06:46](https://news.ycombinator.com/item?id=46024541) - [We stopped roadmap work for a week and fixed bugs](https://lalitm.com/fixits-are-good-for-the-soul/)
 * [2025-11-22, 07:22:55](https://news.ycombinator.com/item?id=46012846) - [Set theory with types](https://lawrencecpaulson.github.io//2025/11/21/Typed_Set_Theory.html)
 * [2025-11-21, 22:48:39](https://news.ycombinator.com/item?id=46009962) - [A time-travelling door bug in Half Life 2](https://mastodon.gamedev.place/@TomF/115589875974658415)
+* [2025-11-21, 17:56:50](https://news.ycombinator.com/item?id=46006891) - [Building the largest known Kubernetes cluster, with 130k nodes](https://cloud.google.com/blog/products/containers-kubernetes/how-we-built-a-130000-node-gke-cluster/)
 * [2025-11-21, 00:03:14](https://news.ycombinator.com/item?id=45999631) - [Moss survived outside of the International Space Station for 9 months](https://www.livescience.com/space/scientists-put-moss-on-the-outside-of-the-international-space-station-for-9-months-then-kept-it-growing-back-on-earth)
 * [2025-11-19, 20:53:42](https://news.ycombinator.com/item?id=45985008) - [New magnetic component discovered in the Faraday effect after nearly 2 centuries](https://phys.org/news/2025-11-magnetic-component-faraday-effect-centuries.html)
 * [2025-11-19, 19:19:20](https://news.ycombinator.com/item?id=45983809) - [Pixar: The Early Days](https://stevejobsarchive.com/stories/pixar-early-days)
@@ -27,7 +28,6 @@
 * [2025-11-19, 09:08:10](https://news.ycombinator.com/item?id=45977386) - [The Rust Performance Book (2020)](https://nnethercote.github.io/perf-book/)
 * [2025-11-19, 07:08:49](https://news.ycombinator.com/item?id=45976666) - [Band of Holes](https://en.wikipedia.org/wiki/Band_of_Holes)
 * [2025-11-18, 22:52:57](https://news.ycombinator.com/item?id=45973364) - [Having Fun with Complex Numbers](https://mathwonder.org/Having-Fun-with-Complex-Numbers/)
-* [2025-11-18, 20:24:39](https://news.ycombinator.com/item?id=45971548) - [Murphyjitsu (2018)](https://www.lesswrong.com/posts/N47M3JiHveHfwdbFg/hammertime-day-10-murphyjitsu)
 * [2025-11-18, 18:47:45](https://news.ycombinator.com/item?id=45970317) - [Hyperoptic: IPv6 and Out-of-Order Packets](https://blog.zakkemble.net/hyperoptic-ipv6-and-out-of-order-packets/)
 * [2025-11-18, 16:54:22](https://news.ycombinator.com/item?id=45968827) - [Disney Lost Roger Rabbit](https://pluralistic.net/2025/11/18/im-not-bad/)
 
