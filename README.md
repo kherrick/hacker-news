@@ -27,9 +27,9 @@
 * [2025-11-20, 19:21:27](https://news.ycombinator.com/item?id=45996527) - [Historically Accurate Airport Dioramas by AV Pro Designs](https://www.core77.com/posts/138995/Historically-Accurate-Airport-Dioramas-by-AV-Pro-Designs)
 * [2025-11-20, 18:27:51](https://news.ycombinator.com/item?id=45995913) - [Show HN: Search London StreetView panoramas by text](https://london.publicinsights.uk)
 * [2025-11-20, 05:32:13](https://news.ycombinator.com/item?id=45989284) - [Inside Rust's std and parking_lot mutexes – who wins?](https://blog.cuongle.dev/p/inside-rusts-std-and-parking-lot-mutexes-who-win)
-* [2025-11-19, 21:15:45](https://news.ycombinator.com/item?id=45985306) - [I built a faster Notion in Rust](https://imedadel.com/outcrop/)
 * [2025-11-19, 15:17:19](https://news.ycombinator.com/item?id=45980608) - [The only GM EV1 ever publicly sold](https://www.theautopian.com/how-the-only-gm-ev1-ever-sold-didnt-get-crushed-and-where-its-going-now/)
 * [2025-11-19, 15:07:35](https://news.ycombinator.com/item?id=45980474) - [Moving from OpenBSD to FreeBSD for firewalls](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/OpenBSDToFreeBSDMove)
+* [2025-11-18, 16:54:22](https://news.ycombinator.com/item?id=45968827) - [Disney Lost Roger Rabbit](https://pluralistic.net/2025/11/18/im-not-bad/)
 
 ## [Archives](archives/index.md)
 
