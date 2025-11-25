@@ -58,6 +58,7 @@
 * [2025-11-21, 12:12:41](https://news.ycombinator.com/item?id=46003778) - [How a French judge was digitally cut off by the USA](https://www.heise.de/en/news/How-a-French-judge-was-digitally-cut-off-by-the-USA-11087561.html)
 * [2025-11-21, 12:00:02](https://news.ycombinator.com/item?id=46003686) - [Roundtable (YC S23) Is Hiring Two Sales Development Representatives (SDRs)](https://www.ycombinator.com/companies/roundtable/jobs/irJTEsg-sales-development-representative)
 * [2025-11-21, 11:47:38](https://news.ycombinator.com/item?id=46003606) - [Nearby peer discovery without GPS using environmental fingerprints](https://www.svendewaerhert.com/blog/nearby-peer-discovery/)
+* [2025-11-21, 10:54:15](https://news.ycombinator.com/item?id=46003271) - [The 101 of Analog Signal Filtering](https://lcamtuf.substack.com/p/the-101-of-analog-signal-filtering)
 * [2025-11-21, 10:52:52](https://news.ycombinator.com/item?id=46003266) - [Germany: States Pass Porn Filters for Operating Systems](https://www.heise.de/en/news/Youth-Protection-States-Pass-Porn-Filters-for-Operating-Systems-11086768.html)
 * [2025-11-21, 10:28:49](https://news.ycombinator.com/item?id=46003144) - [FAWK: LLMs can write a language interpreter](https://martin.janiczek.cz/2025/11/21/fawk-llms-can-write-a-language-interpreter.html)
 * [2025-11-21, 10:01:37](https://news.ycombinator.com/item?id=46002989) - [HP and Dell disable HEVC support built into their laptops' CPUs](https://arstechnica.com/gadgets/2025/11/hp-and-dell-disable-hevc-support-built-into-their-laptops-cpus/)

@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-11-25, 16:21:24](https://news.ycombinator.com/item?id=46047350) - [Orion 1.0 – Browse Beyond](https://blog.kagi.com/orion)
 * [2025-11-25, 16:12:22](https://news.ycombinator.com/item?id=46047229) - [Roblox is a problem – but it's a symptom of something worse](https://www.platformer.news/roblox-ceo-interview-backlash-analysis/)
 * [2025-11-25, 15:47:14](https://news.ycombinator.com/item?id=46046916) - [FLUX.2: Frontier Visual Intelligence](https://bfl.ai/blog/flux-2)
 * [2025-11-25, 14:20:30](https://news.ycombinator.com/item?id=46045987) - [Launch HN: Onyx (YC W24) – The open-source chat UI](https://news.ycombinator.com/item?id=46045987)
@@ -20,16 +21,15 @@
 * [2025-11-24, 05:58:08](https://news.ycombinator.com/item?id=46030799) - [What OpenAI did when ChatGPT users lost touch with reality](https://www.nytimes.com/2025/11/23/technology/openai-chatgpt-users-risks.html)
 * [2025-11-23, 01:25:17](https://news.ycombinator.com/item?id=46019898) - [Three Years from GPT-3 to Gemini 3](https://www.oneusefulthing.org/p/three-years-from-gpt-3-to-gemini)
 * [2025-11-22, 14:33:57](https://news.ycombinator.com/item?id=46015095) - [A million ways to die from a data race in Go](https://gaultier.github.io/blog/a_million_ways_to_data_race_in_go.html)
-* [2025-11-22, 09:41:46](https://news.ycombinator.com/item?id=46013478) - [The history of Indian science fiction](https://altermag.com/articles/the-secret-history-of-indian-science-fiction)
 * [2025-11-21, 23:54:49](https://news.ycombinator.com/item?id=46010552) - [Explaining, at some length, Techmeme's 20 years of consistency](https://news.techmeme.com/250912/20-years)
 * [2025-11-21, 22:45:53](https://news.ycombinator.com/item?id=46009935) - [How the Atomic Tests Looked Like from Los Angeles](https://www.amusingplanet.com/2016/09/how-atomic-tests-looked-like-from-los.html)
 * [2025-11-21, 22:36:24](https://news.ycombinator.com/item?id=46009851) - [Using an Array of Needles to Create Solid Knitted Shapes](https://dl.acm.org/doi/10.1145/3746059.3747759)
 * [2025-11-21, 16:44:45](https://news.ycombinator.com/item?id=46006104) - [Show HN: OCR Arena – A playground for OCR models](https://www.ocrarena.ai/battle)
 * [2025-11-21, 11:47:38](https://news.ycombinator.com/item?id=46003606) - [Nearby peer discovery without GPS using environmental fingerprints](https://www.svendewaerhert.com/blog/nearby-peer-discovery/)
+* [2025-11-21, 10:54:15](https://news.ycombinator.com/item?id=46003271) - [The 101 of Analog Signal Filtering](https://lcamtuf.substack.com/p/the-101-of-analog-signal-filtering)
 * [2025-11-19, 20:58:50](https://news.ycombinator.com/item?id=45985081) - [Rethinking C++: Architecture, Concepts, and Responsibility](https://blogs.embarcadero.com/rethinking-c-architecture-concepts-and-responsibility/)
 * [2025-11-19, 18:16:53](https://news.ycombinator.com/item?id=45982875) - [Broccoli Man, Remastered](https://mbleigh.dev/posts/broccoli-man-remastered/)
 * [2025-11-19, 16:27:31](https://news.ycombinator.com/item?id=45981514) - [Meta Segment Anything Model 3](https://ai.meta.com/blog/segment-anything-model-3/?_fb_noscript=1)
-* [2025-11-19, 15:59:33](https://news.ycombinator.com/item?id=45981163) - [Mary Beard: Hollywood Lied to You About Ancient Rome. Here's the Truth](https://kottke.org/25/11/mary-beard-hollywood-lied-to-you-about-ancient-rome-heres-the-truth)
 
 ## [Archives](archives/index.md)
 

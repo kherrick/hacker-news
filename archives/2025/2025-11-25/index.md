@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-11-25](index.md)
 
+* [2025-11-25, 16:21:24](https://news.ycombinator.com/item?id=46047350) - [Orion 1.0 – Browse Beyond](https://blog.kagi.com/orion)
 * [2025-11-25, 16:12:22](https://news.ycombinator.com/item?id=46047229) - [Roblox is a problem – but it's a symptom of something worse](https://www.platformer.news/roblox-ceo-interview-backlash-analysis/)
 * [2025-11-25, 15:47:14](https://news.ycombinator.com/item?id=46046916) - [FLUX.2: Frontier Visual Intelligence](https://bfl.ai/blog/flux-2)
 * [2025-11-25, 15:24:59](https://news.ycombinator.com/item?id=46046626) - [Cryptology firm cancels elections after losing encryption key](https://www.bbc.com/news/articles/c62vl05rz0ko)
