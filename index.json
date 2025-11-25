@@ -1,16 +1,6 @@
 [
   [
     [
-      "2025-11-25, 09:17:43",
-      "https://news.ycombinator.com/item?id=46043972"
-    ],
-    [
-      "Show HN: I built the literal Duolingo Killer",
-      "https://kanjieight.vercel.app/"
-    ]
-  ],
-  [
-    [
       "2025-11-25, 06:39:36",
       "https://news.ycombinator.com/item?id=46042969"
     ],
@@ -191,6 +181,16 @@
   ],
   [
     [
+      "2025-11-23, 16:06:46",
+      "https://news.ycombinator.com/item?id=46024541"
+    ],
+    [
+      "We stopped roadmap work for a week and fixed bugs",
+      "https://lalitm.com/fixits-are-good-for-the-soul/"
+    ]
+  ],
+  [
+    [
       "2025-11-23, 01:25:17",
       "https://news.ycombinator.com/item?id=46019898"
     ],
@@ -207,16 +207,6 @@
     [
       "Migrating to Bazel symbolic macros",
       "https://www.tweag.io/blog/2025-11-20-migrating-bazel-symbolic-macros/"
-    ]
-  ],
-  [
-    [
-      "2025-11-22, 14:33:57",
-      "https://news.ycombinator.com/item?id=46015095"
-    ],
-    [
-      "A million ways to die from a data race in Go",
-      "https://gaultier.github.io/blog/a_million_ways_to_data_race_in_go.html"
     ]
   ],
   [
@@ -287,6 +277,16 @@
     [
       "Rethinking C++: Architecture, Concepts, and Responsibility",
       "https://blogs.embarcadero.com/rethinking-c-architecture-concepts-and-responsibility/"
+    ]
+  ],
+  [
+    [
+      "2025-11-19, 16:10:18",
+      "https://news.ycombinator.com/item?id=45981281"
+    ],
+    [
+      "Dumb Ways to Die: Printed Ephemera",
+      "https://ilovetypography.com/2025/11/19/dumb-ways-to-die-printed-ephemera/"
     ]
   ],
   [
