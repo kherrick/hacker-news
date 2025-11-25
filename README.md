@@ -22,7 +22,7 @@
 * [2025-11-23, 01:25:17](https://news.ycombinator.com/item?id=46019898) - [Three Years from GPT-3 to Gemini 3](https://www.oneusefulthing.org/p/three-years-from-gpt-3-to-gemini)
 * [2025-11-22, 15:26:44](https://news.ycombinator.com/item?id=46015467) - [Migrating to Bazel symbolic macros](https://www.tweag.io/blog/2025-11-20-migrating-bazel-symbolic-macros/)
 * [2025-11-22, 14:33:57](https://news.ycombinator.com/item?id=46015095) - [A million ways to die from a data race in Go](https://gaultier.github.io/blog/a_million_ways_to_data_race_in_go.html)
-* [2025-11-21, 23:53:42](https://news.ycombinator.com/item?id=46010540) - [Using Antigravity for Statistical Physics in JavaScript](https://christopherkrapu.com/blog/2025/antigravity-stat-mech/)
+* [2025-11-21, 22:45:53](https://news.ycombinator.com/item?id=46009935) - [How the Atomic Tests Looked Like from Los Angeles](https://www.amusingplanet.com/2016/09/how-atomic-tests-looked-like-from-los.html)
 * [2025-11-21, 17:56:50](https://news.ycombinator.com/item?id=46006891) - [Building the largest known Kubernetes cluster](https://cloud.google.com/blog/products/containers-kubernetes/how-we-built-a-130000-node-gke-cluster/)
 * [2025-11-21, 16:44:45](https://news.ycombinator.com/item?id=46006104) - [Show HN: OCR Arena – A playground for OCR models](https://www.ocrarena.ai/battle)
 * [2025-11-21, 16:23:50](https://news.ycombinator.com/item?id=46005910) - [How did the Windows 95 user interface code get to the Windows NT code base?](https://devblogs.microsoft.com/oldnewthing/20251028-00/?p=111733)
