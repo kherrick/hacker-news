@@ -18,7 +18,7 @@
 * [2025-11-24, 07:14:55](https://news.ycombinator.com/item?id=46031220) - [Build a Compiler in Five Projects](https://kmicinski.com/functional-programming/2025/11/23/build-a-language/)
 * [2025-11-24, 05:58:08](https://news.ycombinator.com/item?id=46030799) - [What OpenAI did when ChatGPT users lost touch with reality](https://www.nytimes.com/2025/11/23/technology/openai-chatgpt-users-risks.html)
 * [2025-11-23, 01:25:17](https://news.ycombinator.com/item?id=46019898) - [Three Years from GPT-3 to Gemini 3](https://www.oneusefulthing.org/p/three-years-from-gpt-3-to-gemini)
-* [2025-11-22, 15:26:44](https://news.ycombinator.com/item?id=46015467) - [Migrating to Bazel symbolic macros](https://www.tweag.io/blog/2025-11-20-migrating-bazel-symbolic-macros/)
+* [2025-11-22, 09:41:46](https://news.ycombinator.com/item?id=46013478) - [The history of Indian science fiction](https://altermag.com/articles/the-secret-history-of-indian-science-fiction)
 * [2025-11-21, 23:53:42](https://news.ycombinator.com/item?id=46010540) - [Using Antigravity for Statistical Physics in JavaScript](https://christopherkrapu.com/blog/2025/antigravity-stat-mech/)
 * [2025-11-21, 22:45:53](https://news.ycombinator.com/item?id=46009935) - [How the Atomic Tests Looked Like from Los Angeles](https://www.amusingplanet.com/2016/09/how-atomic-tests-looked-like-from-los.html)
 * [2025-11-21, 22:36:24](https://news.ycombinator.com/item?id=46009851) - [Using an Array of Needles to Create Solid Knitted Shapes](https://dl.acm.org/doi/10.1145/3746059.3747759)
