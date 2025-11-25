@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-11-21](index.md)
 
 * [2025-11-21, 23:54:49](https://news.ycombinator.com/item?id=46010552) - [Explaining, at some length, Techmeme's 20 years of consistency](https://news.techmeme.com/250912/20-years)
+* [2025-11-21, 23:53:42](https://news.ycombinator.com/item?id=46010540) - [Using Antigravity for Statistical Physics in JavaScript](https://christopherkrapu.com/blog/2025/antigravity-stat-mech/)
 * [2025-11-21, 23:43:53](https://news.ycombinator.com/item?id=46010466) - [How sea turtles learn locations using Earth’s magnetic field: research](https://uncnews.unc.edu/2025/02/13/sea-turtles-secret-gps-researchers-uncover-how-sea-turtles-learn-locations-using-earths-magnetic-field/)
 * [2025-11-21, 23:28:40](https://news.ycombinator.com/item?id=46010329) - [I learned Vulkan and wrote a small game engine with it](https://edw.is/learning-vulkan/)
 * [2025-11-21, 23:16:25](https://news.ycombinator.com/item?id=46010230) - [Apple's Problem with Bodies](https://drobinin.com/posts/apples-problem-with-bodies/)
