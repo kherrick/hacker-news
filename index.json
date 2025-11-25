@@ -1,16 +1,6 @@
 [
   [
     [
-      "2025-11-25, 06:39:36",
-      "https://news.ycombinator.com/item?id=46042969"
-    ],
-    [
-      "What you can get for the price of a Netflix subscription",
-      "https://nmil.dev/what-you-can-get-for-the-price-of-a-netflix-subscription"
-    ]
-  ],
-  [
-    [
       "2025-11-25, 06:35:59",
       "https://news.ycombinator.com/item?id=46042946"
     ],
@@ -211,6 +201,16 @@
   ],
   [
     [
+      "2025-11-21, 23:53:42",
+      "https://news.ycombinator.com/item?id=46010540"
+    ],
+    [
+      "Using Antigravity for Statistical Physics in JavaScript",
+      "https://christopherkrapu.com/blog/2025/antigravity-stat-mech/"
+    ]
+  ],
+  [
+    [
       "2025-11-21, 22:45:53",
       "https://news.ycombinator.com/item?id=46009935"
     ],
@@ -245,7 +245,7 @@
       "https://news.ycombinator.com/item?id=46005910"
     ],
     [
-      "How did the Windows 95 user interface code get to the Windows NT code base?",
+      "How did the Win 95 user interface code get brought to the Windows NT code base?",
       "https://devblogs.microsoft.com/oldnewthing/20251028-00/?p=111733"
     ]
   ],
