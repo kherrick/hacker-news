@@ -26,9 +26,9 @@
 * [2025-11-24, 19:25:25](https://news.ycombinator.com/item?id=46038099) - [Unpowered SSDs slowly lose data](https://www.xda-developers.com/your-unpowered-ssd-is-slowly-losing-your-data/)
 * [2025-11-24, 19:21:35](https://news.ycombinator.com/item?id=46038047) - [Claude Advanced Tool Use](https://www.anthropic.com/engineering/advanced-tool-use)
 * [2025-11-22, 18:16:59](https://news.ycombinator.com/item?id=46016902) - [how to repurpose your old phone into a web server](https://far.computer/how-to/)
+* [2025-11-22, 03:08:28](https://news.ycombinator.com/item?id=46011712) - [Auditing JDBC Drivers at Scale with AI led to 85000 bounty](https://www.hacktron.ai/blog/jdbc-audit-at-scale)
 * [2025-11-21, 13:42:33](https://news.ycombinator.com/item?id=46004519) - [Inflatable Space Stations](https://worksinprogress.co/issue/inflatable-space-stations/)
 * [2025-11-21, 10:54:15](https://news.ycombinator.com/item?id=46003271) - [The 101 of analog signal filtering (2024)](https://lcamtuf.substack.com/p/the-101-of-analog-signal-filtering)
-* [2025-11-19, 18:16:53](https://news.ycombinator.com/item?id=45982875) - [Broccoli Man, Remastered](https://mbleigh.dev/posts/broccoli-man-remastered/)
 * [2025-11-19, 13:14:38](https://news.ycombinator.com/item?id=45979180) - [LPLB: An early research stage MoE load balancer based on linear programming](https://github.com/deepseek-ai/LPLB)
 
 ## [Archives](archives/index.md)
