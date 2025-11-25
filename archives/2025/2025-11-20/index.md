@@ -59,6 +59,7 @@
 * [2025-11-20, 05:32:13](https://news.ycombinator.com/item?id=45989284) - [Inside Rust's std and parking_lot mutexes – who wins?](https://blog.cuongle.dev/p/inside-rusts-std-and-parking-lot-mutexes-who-win)
 * [2025-11-20, 05:07:53](https://news.ycombinator.com/item?id=45989186) - [#!magic, details about the shebang/hash-bang mechanism on various Unix flavours](https://www.in-ulm.de/%7Emascheck/various/shebang/)
 * [2025-11-20, 02:47:13](https://news.ycombinator.com/item?id=45988278) - [50th Anniversary of BitBLT](https://mastodon.sdf.org/@fvzappa/115574872559813280)
+* [2025-11-20, 02:08:17](https://news.ycombinator.com/item?id=45988000) - [A rare GM EV1 saved from the crusher is going to be driveable again](https://electrek.co/2025/11/19/gm-ev1-saved-from-crusher-going-driveable-again/)
 * [2025-11-20, 00:37:30](https://news.ycombinator.com/item?id=45987289) - [Debunking the Myths of the HBO Chernobyl series (2023)](https://blog.osm-ai.net/investigation/2023/01/05/hbo-chernobyl-myth.html)
 * [2025-11-20, 00:32:17](https://news.ycombinator.com/item?id=45987252) - [Jailbreaking AI Models to Phish Elderly Victims](https://simonlermen.substack.com/p/can-ai-models-be-jailbroken-to-phish)
 * [2025-11-20, 00:27:22](https://news.ycombinator.com/item?id=45987220) - [Workday to Acquire Pipedream](https://newsroom.workday.com/2025-11-19-Workday-Signs-Definitive-Agreement-to-Acquire-Pipedream)
