@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-11-25](index.md)
 
+* [2025-11-25, 21:26:14](https://news.ycombinator.com/item?id=46050997) - [Stop Putting Your Passwords into Random Websites (Yes, Seriously, You Are the PR](https://labs.watchtowr.com/stop-putting-your-passwords-into-random-websites-yes-seriously-you-are-the-problem/)
 * [2025-11-25, 20:39:07](https://news.ycombinator.com/item?id=46050471) - [ZoomInfo CEO Blocks Researcher After Documenting Pre-Consent Biometric Tracking](https://github.com/clark-prog/blackout-public)
 * [2025-11-25, 20:02:05](https://news.ycombinator.com/item?id=46050029) - [ICE Offers Up to $280M to Immigrant-Tracking 'Bounty Hunter' Firms](https://www.wired.com/story/ice-bounty-hunter-spy-program/)
 * [2025-11-25, 19:58:10](https://news.ycombinator.com/item?id=46049981) - [How to repurpose your old phone's GPS modem into a web server](https://blog.nns.ee/2021/04/01/modem-blog)

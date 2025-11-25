@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-11-23](index.md)
 
 * [2025-11-23, 23:53:06](https://news.ycombinator.com/item?id=46028627) - [ISPs more likely to throttle netizens who connect through CG-NAT: Cloudflare](https://www.theregister.com/2025/11/03/cloudflare_cgnat_bias_research/)
+* [2025-11-23, 23:42:22](https://news.ycombinator.com/item?id=46028548) - [The fall of Labubus and the mush of modern internet trends](https://www.michigandaily.com/arts/digital-culture/the-fall-of-labubus-and-the-mush-of-modern-internet-trends/)
 * [2025-11-23, 23:25:03](https://news.ycombinator.com/item?id=46028422) - [X's new country-of-origin feature reveals many 'US' accounts to be foreign-run](https://www.hindustantimes.com/world-news/us-news/xs-new-country-of-origin-feature-shakes-maga-and-democrat-circles-as-many-us-accounts-revealed-to-be-foreignrun-101763857104296.html)
 * [2025-11-23, 22:36:07](https://news.ycombinator.com/item?id=46028046) - [Liva AI (YC S25) Is Hiring](https://www.ycombinator.com/companies/liva-ai/jobs/fYP8QP8-growth-intern)
 * [2025-11-23, 22:33:34](https://news.ycombinator.com/item?id=46028033) - [Sunsetting Supermaven](https://supermaven.com/blog/sunsetting-supermaven)

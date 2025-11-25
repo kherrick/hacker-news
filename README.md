@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-11-25, 21:26:14](https://news.ycombinator.com/item?id=46050997) - [Stop Putting Your Passwords into Random Websites (Yes, Seriously, You Are the PR](https://labs.watchtowr.com/stop-putting-your-passwords-into-random-websites-yes-seriously-you-are-the-problem/)
 * [2025-11-25, 20:39:07](https://news.ycombinator.com/item?id=46050471) - [ZoomInfo CEO blocks researcher after documenting pre-consent biometric tracking](https://github.com/clark-prog/blackout-public)
 * [2025-11-25, 19:58:10](https://news.ycombinator.com/item?id=46049981) - [This blog is now hosted on a GPS/LTE modem (2021)](https://blog.nns.ee/2021/04/01/modem-blog)
 * [2025-11-25, 19:53:20](https://news.ycombinator.com/item?id=46049932) - [A new bridge links the math of infinity to computer science](https://www.quantamagazine.org/a-new-bridge-links-the-strange-math-of-infinity-to-computer-science-20251121/)
@@ -24,11 +25,10 @@
 * [2025-11-25, 06:09:05](https://news.ycombinator.com/item?id=46042810) - [Jakarta is now the biggest city in the world](https://www.axios.com/2025/11/24/jakarta-tokyo-worlds-biggest-city-population)
 * [2025-11-24, 19:50:47](https://news.ycombinator.com/item?id=46038417) - [PRC elites voice AI-skepticism](https://jamestown.org/prc-elites-voice-ai-skepticism/)
 * [2025-11-24, 19:21:35](https://news.ycombinator.com/item?id=46038047) - [Claude Advanced Tool Use](https://www.anthropic.com/engineering/advanced-tool-use)
+* [2025-11-23, 23:42:22](https://news.ycombinator.com/item?id=46028548) - [The fall of Labubus and the mush of modern internet trends](https://www.michigandaily.com/arts/digital-culture/the-fall-of-labubus-and-the-mush-of-modern-internet-trends/)
 * [2025-11-22, 18:16:59](https://news.ycombinator.com/item?id=46016902) - [How to repurpose your old phone into a web server](https://far.computer/how-to/)
 * [2025-11-21, 13:42:33](https://news.ycombinator.com/item?id=46004519) - [Inflatable Space Stations](https://worksinprogress.co/issue/inflatable-space-stations/)
-* [2025-11-21, 11:47:38](https://news.ycombinator.com/item?id=46003606) - [Nearby peer discovery without GPS using environmental fingerprints](https://www.svendewaerhert.com/blog/nearby-peer-discovery/)
 * [2025-11-21, 10:54:15](https://news.ycombinator.com/item?id=46003271) - [The 101 of analog signal filtering (2024)](https://lcamtuf.substack.com/p/the-101-of-analog-signal-filtering)
-* [2025-11-19, 18:16:53](https://news.ycombinator.com/item?id=45982875) - [Broccoli Man, Remastered](https://mbleigh.dev/posts/broccoli-man-remastered/)
 * [2025-11-19, 13:14:38](https://news.ycombinator.com/item?id=45979180) - [LPLB: An early research stage MoE load balancer based on linear programming](https://github.com/deepseek-ai/LPLB)
 
 ## [Archives](archives/index.md)
