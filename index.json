@@ -21,6 +21,16 @@
   ],
   [
     [
+      "2025-11-24, 21:03:22",
+      "https://news.ycombinator.com/item?id=46039274"
+    ],
+    [
+      "AI has a deep understanding of how this code works",
+      "https://github.com/ocaml/ocaml/pull/14369"
+    ]
+  ],
+  [
+    [
       "2025-11-24, 19:29:12",
       "https://news.ycombinator.com/item?id=46038143"
     ],
@@ -177,16 +187,6 @@
     [
       "Three Years from GPT-3 to Gemini 3",
       "https://www.oneusefulthing.org/p/three-years-from-gpt-3-to-gemini"
-    ]
-  ],
-  [
-    [
-      "2025-11-22, 15:26:44",
-      "https://news.ycombinator.com/item?id=46015467"
-    ],
-    [
-      "Migrating to Bazel symbolic macros",
-      "https://www.tweag.io/blog/2025-11-20-migrating-bazel-symbolic-macros/"
     ]
   ],
   [
