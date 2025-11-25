@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-11-25](index.md)
 
+* [2025-11-25, 19:33:00](https://news.ycombinator.com/item?id=46049722) - [Unison 1.0 Release](https://www.unison-lang.org/unison-1-0/)
 * [2025-11-25, 19:23:04](https://news.ycombinator.com/item?id=46049624) - [IQ differences of identical twins reared apart are influenced by education](https://www.sciencedirect.com/science/article/pii/S0001691825003853)
 * [2025-11-25, 19:00:28](https://news.ycombinator.com/item?id=46049370) - [Show HN: Secure private diffchecker with merge support](https://diffchecker.dev)
 * [2025-11-25, 18:36:10](https://news.ycombinator.com/item?id=46049066) - [Bad UX World Cup 2025](https://badux.lol/)

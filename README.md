@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-11-25, 19:33:00](https://news.ycombinator.com/item?id=46049722) - [Unison 1.0 Release](https://www.unison-lang.org/unison-1-0/)
 * [2025-11-25, 19:23:04](https://news.ycombinator.com/item?id=46049624) - [IQ differences of identical twins reared apart are influenced by education](https://www.sciencedirect.com/science/article/pii/S0001691825003853)
 * [2025-11-25, 19:00:28](https://news.ycombinator.com/item?id=46049370) - [Show HN: Secure private diffchecker with merge support](https://diffchecker.dev)
 * [2025-11-25, 18:36:10](https://news.ycombinator.com/item?id=46049066) - [Bad UX World Cup 2025](https://badux.lol/)
@@ -23,7 +24,6 @@
 * [2025-11-24, 19:25:25](https://news.ycombinator.com/item?id=46038099) - [Unpowered SSDs slowly lose data](https://www.xda-developers.com/your-unpowered-ssd-is-slowly-losing-your-data/)
 * [2025-11-24, 19:21:35](https://news.ycombinator.com/item?id=46038047) - [Claude Advanced Tool Use](https://www.anthropic.com/engineering/advanced-tool-use)
 * [2025-11-22, 18:16:59](https://news.ycombinator.com/item?id=46016902) - [how to repurpose your old phone into a web server](https://far.computer/how-to/)
-* [2025-11-22, 06:25:10](https://news.ycombinator.com/item?id=46012588) - [Room-temperature processible ceramics enable sustainable electronics](https://www.dezeen.com/2025/11/17/geolectric-light-mit-design-intelligence-lab/)
 * [2025-11-21, 22:36:24](https://news.ycombinator.com/item?id=46009851) - [Using an Array of Needles to Create Solid Knitted Shapes](https://dl.acm.org/doi/10.1145/3746059.3747759)
 * [2025-11-21, 13:42:33](https://news.ycombinator.com/item?id=46004519) - [Inflatable Space Stations](https://worksinprogress.co/issue/inflatable-space-stations/)
 * [2025-11-21, 11:47:38](https://news.ycombinator.com/item?id=46003606) - [Nearby peer discovery without GPS using environmental fingerprints](https://www.svendewaerhert.com/blog/nearby-peer-discovery/)
