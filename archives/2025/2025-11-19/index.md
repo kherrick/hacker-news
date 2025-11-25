@@ -53,6 +53,7 @@
 * [2025-11-19, 16:35:35](https://news.ycombinator.com/item?id=45981608) - [Outdated Samsung handset linked to fatal emergency call failure in Australia](https://www.theregister.com/2025/11/18/samsung_emergency_call_failure/)
 * [2025-11-19, 16:31:44](https://news.ycombinator.com/item?id=45981568) - [Random lasers from peanut kernel doped with birch leaf–derived carbon dots](https://www.degruyterbrill.com/document/doi/10.1515/nanoph-2025-0312/html)
 * [2025-11-19, 16:22:32](https://news.ycombinator.com/item?id=45981441) - [Slicing Is All You Need: Towards a Universal One-Sided Distributed MatMul](https://arxiv.org/abs/2510.08874)
+* [2025-11-19, 16:10:18](https://news.ycombinator.com/item?id=45981281) - [Dumb Ways to Die: Printed Ephemera](https://ilovetypography.com/2025/11/19/dumb-ways-to-die-printed-ephemera/)
 * [2025-11-19, 15:46:30](https://news.ycombinator.com/item?id=45981009) - [Emoji Evidence Errors Don't Undo a Murder Conviction–People vs. Harmon](https://blog.ericgoldman.org/archives/2025/11/emoji-evidence-errors-dont-undo-a-murder-conviction-people-v-harmon.htm)
 * [2025-11-19, 15:28:04](https://news.ycombinator.com/item?id=45980760) - [Launch HN: Mosaic (YC W25) – Agentic Video Editing](https://mosaic.so)
 * [2025-11-19, 15:24:52](https://news.ycombinator.com/item?id=45980714) - [Show HN: Vibe Prolog](https://github.com/nlothian/Vibe-Prolog)
