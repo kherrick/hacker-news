@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-11-25, 06:31:31](https://news.ycombinator.com/item?id=46042928) - [Human brains are preconfigured with instructions for understanding the world](https://news.ucsc.edu/2025/11/sharf-preconfigured-brain/)
+* [2025-11-25, 05:33:44](https://news.ycombinator.com/item?id=46042655) - [Windows GUI – Good, Bad and Pretty Ugly (2023)](https://creolened.com/windows-gui-good-bad-and-pretty-ugly-ranked/)
 * [2025-11-24, 19:29:12](https://news.ycombinator.com/item?id=46038143) - [PS5 now costs less than 64GB of DDR5 memory. RAM jumps to $600 due to shortage](https://www.tomshardware.com/pc-components/ddr5/64gb-of-ddr5-memory-now-costs-more-than-an-entire-ps5-even-after-a-discount-trident-z5-neo-kit-jumps-to-usd600-due-to-dram-shortage-and-its-expected-to-get-worse-into-2026)
 * [2025-11-24, 19:25:25](https://news.ycombinator.com/item?id=46038099) - [Unpowered SSDs slowly lose data](https://www.xda-developers.com/your-unpowered-ssd-is-slowly-losing-your-data/)
 * [2025-11-24, 19:21:35](https://news.ycombinator.com/item?id=46038047) - [Claude Advanced Tool Use](https://www.anthropic.com/engineering/advanced-tool-use)
@@ -22,13 +24,11 @@
 * [2025-11-22, 14:33:57](https://news.ycombinator.com/item?id=46015095) - [A million ways to die from a data race in Go](https://gaultier.github.io/blog/a_million_ways_to_data_race_in_go.html)
 * [2025-11-22, 09:41:46](https://news.ycombinator.com/item?id=46013478) - [The history of Indian science fiction](https://altermag.com/articles/the-secret-history-of-indian-science-fiction)
 * [2025-11-21, 23:53:42](https://news.ycombinator.com/item?id=46010540) - [Using Antigravity for Statistical Physics in JavaScript](https://christopherkrapu.com/blog/2025/antigravity-stat-mech/)
-* [2025-11-21, 23:43:53](https://news.ycombinator.com/item?id=46010466) - [How sea turtles learn locations using Earth’s magnetic field: research](https://uncnews.unc.edu/2025/02/13/sea-turtles-secret-gps-researchers-uncover-how-sea-turtles-learn-locations-using-earths-magnetic-field/)
 * [2025-11-21, 17:56:50](https://news.ycombinator.com/item?id=46006891) - [Building the largest known Kubernetes cluster](https://cloud.google.com/blog/products/containers-kubernetes/how-we-built-a-130000-node-gke-cluster/)
 * [2025-11-21, 16:44:45](https://news.ycombinator.com/item?id=46006104) - [Show HN: OCR Arena – A playground for OCR models](https://www.ocrarena.ai/battle)
 * [2025-11-21, 16:23:50](https://news.ycombinator.com/item?id=46005910) - [How did the Windows 95 user interface code get to the Windows NT code base?](https://devblogs.microsoft.com/oldnewthing/20251028-00/?p=111733)
 * [2025-11-21, 06:57:21](https://news.ycombinator.com/item?id=46001920) - [Show HN: Datamorph – A clean JSON ⇄ CSV converter with auto-detect](https://datamorphio.vercel.app)
 * [2025-11-20, 05:32:13](https://news.ycombinator.com/item?id=45989284) - [Inside Rust's std and parking_lot mutexes – who wins?](https://blog.cuongle.dev/p/inside-rusts-std-and-parking-lot-mutexes-who-win)
-* [2025-11-19, 16:31:44](https://news.ycombinator.com/item?id=45981568) - [Random lasers from peanut kernel doped with birch leaf–derived carbon dots](https://www.degruyterbrill.com/document/doi/10.1515/nanoph-2025-0312/html)
 * [2025-11-19, 15:07:35](https://news.ycombinator.com/item?id=45980474) - [Moving from OpenBSD to FreeBSD for firewalls](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/OpenBSDToFreeBSDMove)
 
 ## [Archives](archives/index.md)
