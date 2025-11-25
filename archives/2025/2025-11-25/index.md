@@ -7,6 +7,8 @@
 * [2025-11-25, 18:31:16](https://news.ycombinator.com/item?id=46048996) - [Google Antigravity Exfiltrates Data](https://www.promptarmor.com/resources/google-antigravity-exfiltrates-data)
 * [2025-11-25, 17:33:50](https://news.ycombinator.com/item?id=46048252) - [Show HN: We built an open source, zero webhooks payment processor](https://github.com/flowglad/flowglad)
 * [2025-11-25, 17:31:47](https://news.ycombinator.com/item?id=46048229) - [It is ok to say \"CSS variables\" instead of \"custom properties\"](https://blog.kizu.dev/css-variables/)
+* [2025-11-25, 17:25:03](https://news.ycombinator.com/item?id=46048159) - [Stop Telling Us XMPP Should Use JSON](https://www.process-one.net/blog/stop-telling-us-xmpp-should-use-json/)
+* [2025-11-25, 17:08:49](https://news.ycombinator.com/item?id=46047980) - [US banks scramble to assess data theft after hackers breach financial tech firm](https://techcrunch.com/2025/11/24/us-banks-scramble-to-assess-data-theft-after-hackers-breach-financial-tech-firm/)
 * [2025-11-25, 16:38:57](https://news.ycombinator.com/item?id=46047580) - [Python is not a great language for data science](https://blog.genesmindsmachines.com/p/python-is-not-a-great-language-for)
 * [2025-11-25, 16:34:08](https://news.ycombinator.com/item?id=46047513) - [Ozempic does not slow Alzheimer's, study finds](https://www.semafor.com/article/11/25/2025/ozempic-does-not-slow-alzheimers-study-finds)
 * [2025-11-25, 16:26:42](https://news.ycombinator.com/item?id=46047409) - [Choosing a hash function for 2030 and beyond: SHA-2 vs. SHA-3 vs. BLAKE3](https://kerkour.com/fast-secure-hash-function-sha256-sha512-sha3-blake3)
