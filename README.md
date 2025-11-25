@@ -23,12 +23,12 @@
 * [2025-11-24, 19:25:25](https://news.ycombinator.com/item?id=46038099) - [Unpowered SSDs slowly lose data](https://www.xda-developers.com/your-unpowered-ssd-is-slowly-losing-your-data/)
 * [2025-11-24, 19:21:35](https://news.ycombinator.com/item?id=46038047) - [Claude Advanced Tool Use](https://www.anthropic.com/engineering/advanced-tool-use)
 * [2025-11-22, 18:16:59](https://news.ycombinator.com/item?id=46016902) - [how to repurpose your old phone into a web server](https://far.computer/how-to/)
+* [2025-11-22, 06:25:10](https://news.ycombinator.com/item?id=46012588) - [Room-temperature processible ceramics enable sustainable electronics](https://www.dezeen.com/2025/11/17/geolectric-light-mit-design-intelligence-lab/)
 * [2025-11-21, 22:36:24](https://news.ycombinator.com/item?id=46009851) - [Using an Array of Needles to Create Solid Knitted Shapes](https://dl.acm.org/doi/10.1145/3746059.3747759)
 * [2025-11-21, 13:42:33](https://news.ycombinator.com/item?id=46004519) - [Inflatable Space Stations](https://worksinprogress.co/issue/inflatable-space-stations/)
 * [2025-11-21, 11:47:38](https://news.ycombinator.com/item?id=46003606) - [Nearby peer discovery without GPS using environmental fingerprints](https://www.svendewaerhert.com/blog/nearby-peer-discovery/)
 * [2025-11-21, 10:54:15](https://news.ycombinator.com/item?id=46003271) - [The 101 of analog signal filtering (2024)](https://lcamtuf.substack.com/p/the-101-of-analog-signal-filtering)
 * [2025-11-19, 18:16:53](https://news.ycombinator.com/item?id=45982875) - [Broccoli Man, Remastered](https://mbleigh.dev/posts/broccoli-man-remastered/)
-* [2025-11-19, 15:59:33](https://news.ycombinator.com/item?id=45981163) - [Hollywood's vision of ancient Rome is all wrong, according to Mary Beard](https://www.openculture.com/2025/11/why-your-vision-of-ancient-rome-is-all-wrong-according-to-historian-mary-beard.html)
 * [2025-11-19, 13:14:38](https://news.ycombinator.com/item?id=45979180) - [LPLB: An early research stage MoE load balancer based on linear programming](https://github.com/deepseek-ai/LPLB)
 
 ## [Archives](archives/index.md)
