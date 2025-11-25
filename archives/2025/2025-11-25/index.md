@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-11-25](index.md)
 
+* [2025-11-25, 17:33:50](https://news.ycombinator.com/item?id=46048252) - [Show HN: We built an open source, zero webhooks payment processor](https://github.com/flowglad/flowglad)
 * [2025-11-25, 16:34:08](https://news.ycombinator.com/item?id=46047513) - [Ozempic does not slow Alzheimer's, study finds](https://www.semafor.com/article/11/25/2025/ozempic-does-not-slow-alzheimers-study-finds)
 * [2025-11-25, 16:26:42](https://news.ycombinator.com/item?id=46047409) - [Choosing a hash function for 2030 and beyond: SHA-2 vs. SHA-3 vs. BLAKE3](https://kerkour.com/fast-secure-hash-function-sha256-sha512-sha3-blake3)
 * [2025-11-25, 16:21:24](https://news.ycombinator.com/item?id=46047350) - [Orion 1.0 – Browse Beyond](https://blog.kagi.com/orion)

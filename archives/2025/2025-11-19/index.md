@@ -74,6 +74,7 @@
 * [2025-11-19, 13:20:16](https://news.ycombinator.com/item?id=45979228) - [Zo: Personal Servers for Everyone](https://www.zo.computer/)
 * [2025-11-19, 13:19:39](https://news.ycombinator.com/item?id=45979220) - [Breakthrough in antimatter production](https://home.cern/news/news/experiments/breakthrough-antimatter-production)
 * [2025-11-19, 13:16:23](https://news.ycombinator.com/item?id=45979190) - [Larry Summers resigns from OpenAI board](https://www.cnbc.com/2025/11/19/larry-summers-epstein-openai.html)
+* [2025-11-19, 13:14:38](https://news.ycombinator.com/item?id=45979180) - [LPLB: An early research stage MoE load balancer based on linear programming](https://github.com/deepseek-ai/LPLB)
 * [2025-11-19, 12:38:44](https://news.ycombinator.com/item?id=45978880) - [Geothermal's Time Has Come](https://www.economist.com/interactive/science-and-technology/2025/11/18/geothermal-time-has-finally-come)
 * [2025-11-19, 12:31:54](https://news.ycombinator.com/item?id=45978813) - [How do the pros get someone to leave a cult?](https://www.theguardian.com/science/2025/nov/19/how-to-leave-a-cult-experts-intervention)
 * [2025-11-19, 12:02:49](https://news.ycombinator.com/item?id=45978545) - [Pimped Amiga 500](https://www.pimyretro.org/pimped-amiga-500/)
