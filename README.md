@@ -3,7 +3,7 @@
 * [2025-11-25, 12:05:39](https://news.ycombinator.com/item?id=46045039) - [Making Crash Bandicoot (2011)](https://all-things-andy-gavin.com/video-games/making-crash/)
 * [2025-11-25, 06:35:59](https://news.ycombinator.com/item?id=46042946) - [Most Stable Raspberry Pi? 81% Better NTP with Thermal Management](https://austinsnerdythings.com/2025/11/24/worlds-most-stable-raspberry-pi-81-better-ntp-with-thermal-management/)
 * [2025-11-25, 06:31:31](https://news.ycombinator.com/item?id=46042928) - [Human brains are preconfigured with instructions for understanding the world](https://news.ucsc.edu/2025/11/sharf-preconfigured-brain/)
-* [2025-11-24, 21:03:22](https://news.ycombinator.com/item?id=46039274) - [AI has a deep understanding of how this code works](https://github.com/ocaml/ocaml/pull/14369)
+* [2025-11-24, 19:29:12](https://news.ycombinator.com/item?id=46038143) - [PS5 now costs less than 64GB of DDR5 memory. RAM jumps to $600 due to shortage](https://www.tomshardware.com/pc-components/ddr5/64gb-of-ddr5-memory-now-costs-more-than-an-entire-ps5-even-after-a-discount-trident-z5-neo-kit-jumps-to-usd600-due-to-dram-shortage-and-its-expected-to-get-worse-into-2026)
 * [2025-11-24, 19:25:25](https://news.ycombinator.com/item?id=46038099) - [Unpowered SSDs slowly lose data](https://www.xda-developers.com/your-unpowered-ssd-is-slowly-losing-your-data/)
 * [2025-11-24, 19:21:35](https://news.ycombinator.com/item?id=46038047) - [Claude Advanced Tool Use](https://www.anthropic.com/engineering/advanced-tool-use)
 * [2025-11-24, 18:53:05](https://news.ycombinator.com/item?id=46037637) - [Claude Opus 4.5](https://www.anthropic.com/news/claude-opus-4-5)
