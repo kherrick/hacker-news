@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-11-25, 19:58:10](https://news.ycombinator.com/item?id=46049981) - [How to repurpose your old phone's GPS modem into a web server](https://blog.nns.ee/2021/04/01/modem-blog)
-* [2025-11-25, 19:53:20](https://news.ycombinator.com/item?id=46049932) - [A New Bridge Links the Math of Infinity to Computer Science](https://www.quantamagazine.org/a-new-bridge-links-the-strange-math-of-infinity-to-computer-science-20251121/)
+* [2025-11-25, 19:53:20](https://news.ycombinator.com/item?id=46049932) - [A new bridge links the math of infinity to computer science](https://www.quantamagazine.org/a-new-bridge-links-the-strange-math-of-infinity-to-computer-science-20251121/)
 * [2025-11-25, 19:33:00](https://news.ycombinator.com/item?id=46049722) - [Unison 1.0 Release](https://www.unison-lang.org/unison-1-0/)
 * [2025-11-25, 19:23:04](https://news.ycombinator.com/item?id=46049624) - [IQ differences of identical twins reared apart are influenced by education](https://www.sciencedirect.com/science/article/pii/S0001691825003853)
 * [2025-11-25, 18:36:10](https://news.ycombinator.com/item?id=46049066) - [Bad UX World Cup 2025](https://badux.lol/)
@@ -27,8 +27,8 @@
 * [2025-11-21, 13:42:33](https://news.ycombinator.com/item?id=46004519) - [Inflatable Space Stations](https://worksinprogress.co/issue/inflatable-space-stations/)
 * [2025-11-21, 11:47:38](https://news.ycombinator.com/item?id=46003606) - [Nearby peer discovery without GPS using environmental fingerprints](https://www.svendewaerhert.com/blog/nearby-peer-discovery/)
 * [2025-11-21, 10:54:15](https://news.ycombinator.com/item?id=46003271) - [The 101 of analog signal filtering (2024)](https://lcamtuf.substack.com/p/the-101-of-analog-signal-filtering)
-* [2025-11-20, 02:08:17](https://news.ycombinator.com/item?id=45988000) - [A rare GM EV1 saved from the crusher is going to be driveable again](https://electrek.co/2025/11/19/gm-ev1-saved-from-crusher-going-driveable-again/)
 * [2025-11-19, 18:16:53](https://news.ycombinator.com/item?id=45982875) - [Broccoli Man, Remastered](https://mbleigh.dev/posts/broccoli-man-remastered/)
+* [2025-11-19, 15:59:33](https://news.ycombinator.com/item?id=45981163) - [Hollywood's vision of ancient Rome is all wrong, according to Mary Beard](https://www.openculture.com/2025/11/why-your-vision-of-ancient-rome-is-all-wrong-according-to-historian-mary-beard.html)
 * [2025-11-19, 13:14:38](https://news.ycombinator.com/item?id=45979180) - [LPLB: An early research stage MoE load balancer based on linear programming](https://github.com/deepseek-ai/LPLB)
 
 ## [Archives](archives/index.md)
