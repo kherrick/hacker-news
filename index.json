@@ -1,6 +1,66 @@
 [
   [
     [
+      "2025-11-25, 23:28:17",
+      "https://news.ycombinator.com/item?id=46052102"
+    ],
+    [
+      "Image models generating partially-eaten burritos over time",
+      "https://www.generativist.com/notes/2025/Nov/25/generative-burrito-test.html"
+    ]
+  ],
+  [
+    [
+      "2025-11-25, 22:40:52",
+      "https://news.ycombinator.com/item?id=46051724"
+    ],
+    [
+      "Notes on the Troubleshooting and Repair of Computer and Video Monitors",
+      "https://www.repairfaq.org/sam/monfaq.htm"
+    ]
+  ],
+  [
+    [
+      "2025-11-25, 22:37:48",
+      "https://news.ycombinator.com/item?id=46051691"
+    ],
+    [
+      "Reinventing How .NET Builds and Ships (Again)",
+      "https://devblogs.microsoft.com/dotnet/reinventing-how-dotnet-builds-and-ships-again/"
+    ]
+  ],
+  [
+    [
+      "2025-11-25, 22:13:35",
+      "https://news.ycombinator.com/item?id=46051449"
+    ],
+    [
+      "A DOOM vector engine for rendering in KiCad, and over an audio jack",
+      "https://www.mikeayles.com/#kidoom"
+    ]
+  ],
+  [
+    [
+      "2025-11-25, 22:08:25",
+      "https://news.ycombinator.com/item?id=46051393"
+    ],
+    [
+      "What They Don't Tell You About Maintaining an Open Source Project",
+      "https://andrej.sh/blog/maintaining-open-source-project/"
+    ]
+  ],
+  [
+    [
+      "2025-11-25, 22:04:31",
+      "https://news.ycombinator.com/item?id=46051340"
+    ],
+    [
+      "Someone at YouTube Needs Glasses: The Prophecy Has Been Fulfilled",
+      "https://jayd.ml/2025/11/10/someone-at-youtube-needs-glasses-prophecy-fulfilled.html"
+    ]
+  ],
+  [
+    [
       "2025-11-25, 21:45:01",
       "https://news.ycombinator.com/item?id=46051169"
     ],
@@ -27,16 +87,6 @@
     [
       "ZoomInfo CEO blocks researcher after documenting pre-consent biometric tracking",
       "https://github.com/clark-prog/blackout-public"
-    ]
-  ],
-  [
-    [
-      "2025-11-25, 19:58:10",
-      "https://news.ycombinator.com/item?id=46049981"
-    ],
-    [
-      "This blog is now hosted on a GPS/LTE modem (2021)",
-      "https://blog.nns.ee/2021/04/01/modem-blog"
     ]
   ],
   [
@@ -121,32 +171,12 @@
   ],
   [
     [
-      "2025-11-25, 16:34:08",
-      "https://news.ycombinator.com/item?id=46047513"
-    ],
-    [
-      "Ozempic does not slow Alzheimer's, study finds",
-      "https://www.semafor.com/article/11/25/2025/ozempic-does-not-slow-alzheimers-study-finds"
-    ]
-  ],
-  [
-    [
       "2025-11-25, 16:21:24",
       "https://news.ycombinator.com/item?id=46047350"
     ],
     [
       "Orion 1.0",
       "https://blog.kagi.com/orion"
-    ]
-  ],
-  [
-    [
-      "2025-11-25, 16:12:22",
-      "https://news.ycombinator.com/item?id=46047229"
-    ],
-    [
-      "Roblox is a problem but it's a symptom of something worse",
-      "https://www.platformer.news/roblox-ceo-interview-backlash-analysis/"
     ]
   ],
   [
@@ -231,16 +261,6 @@
   ],
   [
     [
-      "2025-11-24, 19:50:47",
-      "https://news.ycombinator.com/item?id=46038417"
-    ],
-    [
-      "PRC elites voice AI-skepticism",
-      "https://jamestown.org/prc-elites-voice-ai-skepticism/"
-    ]
-  ],
-  [
-    [
       "2025-11-23, 23:42:22",
       "https://news.ycombinator.com/item?id=46028548"
     ],
@@ -277,26 +297,6 @@
     [
       "The 101 of analog signal filtering (2024)",
       "https://lcamtuf.substack.com/p/the-101-of-analog-signal-filtering"
-    ]
-  ],
-  [
-    [
-      "2025-11-19, 18:16:53",
-      "https://news.ycombinator.com/item?id=45982875"
-    ],
-    [
-      "Broccoli Man, Remastered",
-      "https://mbleigh.dev/posts/broccoli-man-remastered/"
-    ]
-  ],
-  [
-    [
-      "2025-11-19, 13:14:38",
-      "https://news.ycombinator.com/item?id=45979180"
-    ],
-    [
-      "LPLB: An early research stage MoE load balancer based on linear programming",
-      "https://github.com/deepseek-ai/LPLB"
     ]
   ]
 ]
