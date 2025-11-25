@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-11-25](index.md)
 
+* [2025-11-25, 13:38:12](https://news.ycombinator.com/item?id=46045661) - [Brain has five 'eras' – with adult mode not starting until early 30s](https://www.theguardian.com/science/2025/nov/25/brain-human-cognitive-development-life-stages-cambridge-study)
 * [2025-11-25, 12:05:39](https://news.ycombinator.com/item?id=46045039) - [Making Crash Bandicoot (2011)](https://all-things-andy-gavin.com/video-games/making-crash/)
 * [2025-11-25, 09:17:43](https://news.ycombinator.com/item?id=46043972) - [Show HN: I built the literal Duolingo Killer](https://kanjieight.vercel.app/)
 * [2025-11-25, 06:39:36](https://news.ycombinator.com/item?id=46042969) - [What you can get for the price of a Netflix subscription](https://nmil.dev/what-you-can-get-for-the-price-of-a-netflix-subscription)
