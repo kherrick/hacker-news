@@ -62,6 +62,7 @@
 * [2025-11-19, 14:35:17](https://news.ycombinator.com/item?id=45980005) - [Proxmox Virtual Environment 9.1 available](https://www.proxmox.com/en/about/company-details/press-releases/proxmox-virtual-environment-9-1)
 * [2025-11-19, 14:05:21](https://news.ycombinator.com/item?id=45979637) - [What happens when even college students can't do math anymore?](https://www.theatlantic.com/ideas/2025/11/math-decline-ucsd/684973/)
 * [2025-11-19, 13:54:40](https://news.ycombinator.com/item?id=45979527) - [Europe's cookie nightmare is crumbling. EC wants preference at browser level](https://www.theverge.com/news/823788/europe-cookie-prompt-browser-changes-proposal)
+* [2025-11-19, 13:54:04](https://news.ycombinator.com/item?id=45979520) - [Show HN: Hypercamera – a browser-based 4D camera simulator](https://dugas.ch/4d_creatures/4d_camera.html)
 * [2025-11-19, 13:36:43](https://news.ycombinator.com/item?id=45979357) - [Forever Object: The Staple-Less Oceanus Brass Stapler](https://www.core77.com/posts/139027/Forever-Object-The-Staple-less-Oceanus-Brass-Stapler)
 * [2025-11-19, 13:28:40](https://news.ycombinator.com/item?id=45979297) - [Your Smartphone, Their Rules: App Stores Enable Corporate-Government Censorship](https://www.aclu.org/news/free-speech/app-store-oligopoly)
 * [2025-11-19, 13:20:42](https://news.ycombinator.com/item?id=45979232) - [The Peaceful Transfer of Power in Open Source Projects](https://shkspr.mobi/blog/2025/11/the-peaceful-transfer-of-power-in-open-source-projects/)
