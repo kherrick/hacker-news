@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-11-25, 14:20:30",
+      "https://news.ycombinator.com/item?id=46045987"
+    ],
+    [
+      "Launch HN: Onyx (YC W24) – The open-source chat UI",
+      "https://news.ycombinator.com/item?id=46045987"
+    ]
+  ],
+  [
+    [
       "2025-11-25, 14:18:01",
       "https://news.ycombinator.com/item?id=46045972"
     ],
@@ -111,16 +121,6 @@
   ],
   [
     [
-      "2025-11-24, 18:26:09",
-      "https://news.ycombinator.com/item?id=46037267"
-    ],
-    [
-      "Mind-reading devices can now predict preconscious thoughts",
-      "https://www.nature.com/articles/d41586-025-03714-0"
-    ]
-  ],
-  [
-    [
       "2025-11-24, 17:52:43",
       "https://news.ycombinator.com/item?id=46036908"
     ],
@@ -197,6 +197,16 @@
     [
       "A million ways to die from a data race in Go",
       "https://gaultier.github.io/blog/a_million_ways_to_data_race_in_go.html"
+    ]
+  ],
+  [
+    [
+      "2025-11-22, 09:41:46",
+      "https://news.ycombinator.com/item?id=46013478"
+    ],
+    [
+      "The history of Indian science fiction",
+      "https://altermag.com/articles/the-secret-history-of-indian-science-fiction"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Mary Beard: Hollywood Lied to You About Ancient Rome. Here's the Truth",
       "https://kottke.org/25/11/mary-beard-hollywood-lied-to-you-about-ancient-rome-heres-the-truth"
-    ]
-  ],
-  [
-    [
-      "2025-11-19, 15:07:35",
-      "https://news.ycombinator.com/item?id=45980474"
-    ],
-    [
-      "Moving from OpenBSD to FreeBSD for firewalls",
-      "https://utcc.utoronto.ca/~cks/space/blog/sysadmin/OpenBSDToFreeBSDMove"
     ]
   ]
 ]
