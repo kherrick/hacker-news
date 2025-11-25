@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-11-25, 15:24:59](https://news.ycombinator.com/item?id=46046626) - [Cryptology firm cancels elections after losing encryption key](https://www.bbc.com/news/articles/c62vl05rz0ko)
 * [2025-11-25, 14:20:30](https://news.ycombinator.com/item?id=46045987) - [Launch HN: Onyx (YC W24) – The open-source chat UI](https://news.ycombinator.com/item?id=46045987)
 * [2025-11-25, 14:18:01](https://news.ycombinator.com/item?id=46045972) - [Apt Rust requirement raises questions](https://lwn.net/SubscriberLink/1046841/5bbf1fc049a18947/)
 * [2025-11-25, 13:38:12](https://news.ycombinator.com/item?id=46045661) - [Brain has five 'eras' with adult mode not starting until early 30s](https://www.theguardian.com/science/2025/nov/25/brain-human-cognitive-development-life-stages-cambridge-study)
@@ -15,7 +16,6 @@
 * [2025-11-24, 17:52:43](https://news.ycombinator.com/item?id=46036908) - [Show HN: I built an interactive HN Simulator](https://news.ysimulator.run/news)
 * [2025-11-24, 17:52:01](https://news.ycombinator.com/item?id=46036895) - [Cool-retro-term: terminal emulator which mimics look and feel of CRTs](https://github.com/Swordfish90/cool-retro-term)
 * [2025-11-24, 17:51:02](https://news.ycombinator.com/item?id=46036878) - [Implications of AI to schools](https://twitter.com/karpathy/status/1993010584175141038)
-* [2025-11-24, 12:23:02](https://news.ycombinator.com/item?id=46033330) - [Chrome Jpegxl Issue Reopened](https://issues.chromium.org/issues/40168998)
 * [2025-11-24, 07:14:55](https://news.ycombinator.com/item?id=46031220) - [Build a Compiler in Five Projects](https://kmicinski.com/functional-programming/2025/11/23/build-a-language/)
 * [2025-11-24, 05:58:08](https://news.ycombinator.com/item?id=46030799) - [What OpenAI did when ChatGPT users lost touch with reality](https://www.nytimes.com/2025/11/23/technology/openai-chatgpt-users-risks.html)
 * [2025-11-23, 01:25:17](https://news.ycombinator.com/item?id=46019898) - [Three Years from GPT-3 to Gemini 3](https://www.oneusefulthing.org/p/three-years-from-gpt-3-to-gemini)
