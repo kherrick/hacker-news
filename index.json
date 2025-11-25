@@ -191,16 +191,6 @@
   ],
   [
     [
-      "2025-11-22, 16:53:06",
-      "https://news.ycombinator.com/item?id=46016104"
-    ],
-    [
-      "Advice for crime analyst to break into data science",
-      "https://andrewpwheeler.com/2025/11/21/advice-for-crime-analyst-to-break-into-data-science/"
-    ]
-  ],
-  [
-    [
       "2025-11-22, 15:26:44",
       "https://news.ycombinator.com/item?id=46015467"
     ],
@@ -267,6 +257,16 @@
     [
       "How did the Windows 95 user interface code get to the Windows NT code base?",
       "https://devblogs.microsoft.com/oldnewthing/20251028-00/?p=111733"
+    ]
+  ],
+  [
+    [
+      "2025-11-21, 06:57:21",
+      "https://news.ycombinator.com/item?id=46001920"
+    ],
+    [
+      "Show HN: Datamorph – A clean JSON ⇄ CSV converter with auto-detect",
+      "https://datamorphio.vercel.app"
     ]
   ],
   [
