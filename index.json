@@ -61,26 +61,6 @@
   ],
   [
     [
-      "2025-11-24, 18:48:04",
-      "https://news.ycombinator.com/item?id=46037573"
-    ],
-    [
-      "GrapheneOS migrates server infrastructure from France",
-      "https://www.privacyguides.org/news/2025/11/22/grapheneos-migrates-server-infrastructure-from-france-amid-police-intimidation-claims/"
-    ]
-  ],
-  [
-    [
-      "2025-11-24, 18:37:27",
-      "https://news.ycombinator.com/item?id=46037416"
-    ],
-    [
-      "Launch HN: Karumi (YC F25) – Personalized, agentic product demos",
-      "http://karumi.ai/"
-    ]
-  ],
-  [
-    [
       "2025-11-24, 18:32:27",
       "https://news.ycombinator.com/item?id=46037343"
     ],
@@ -125,7 +105,7 @@
       "https://news.ycombinator.com/item?id=46036895"
     ],
     [
-      "Cool-retro-term: terminal emulator which mimics look and feel of the old CRTs",
+      "Cool-retro-term: terminal emulator which mimics look and feel of CRTs",
       "https://github.com/Swordfish90/cool-retro-term"
     ]
   ],
@@ -161,12 +141,32 @@
   ],
   [
     [
+      "2025-11-24, 09:51:45",
+      "https://news.ycombinator.com/item?id=46032230"
+    ],
+    [
+      "A fast EDN (Extensible Data Notation) reader written in C11 with SIMD boost",
+      "https://github.com/DotFox/edn.c"
+    ]
+  ],
+  [
+    [
       "2025-11-24, 09:40:32",
       "https://news.ycombinator.com/item?id=46032148"
     ],
     [
       "Fifty Shades of OOP",
       "https://lesleylai.info/en/fifty_shades_of_oop/"
+    ]
+  ],
+  [
+    [
+      "2025-11-24, 07:14:55",
+      "https://news.ycombinator.com/item?id=46031220"
+    ],
+    [
+      "Build a Compiler in Five Projects",
+      "https://kmicinski.com/functional-programming/2025/11/23/build-a-language/"
     ]
   ],
   [
@@ -221,6 +221,16 @@
   ],
   [
     [
+      "2025-11-21, 23:43:53",
+      "https://news.ycombinator.com/item?id=46010466"
+    ],
+    [
+      "How sea turtles learn locations using Earth’s magnetic field: research",
+      "https://uncnews.unc.edu/2025/02/13/sea-turtles-secret-gps-researchers-uncover-how-sea-turtles-learn-locations-using-earths-magnetic-field/"
+    ]
+  ],
+  [
+    [
       "2025-11-21, 17:56:50",
       "https://news.ycombinator.com/item?id=46006891"
     ],
@@ -237,16 +247,6 @@
     [
       "Show HN: OCR Arena – A playground for OCR models",
       "https://www.ocrarena.ai/battle"
-    ]
-  ],
-  [
-    [
-      "2025-11-20, 18:39:38",
-      "https://news.ycombinator.com/item?id=45996064"
-    ],
-    [
-      "Show HN: Supabase-Test – Fast Isolated Postgres DBs for Testing Supabase RLS",
-      "https://www.npmjs.com/package/supabase-test"
     ]
   ],
   [
@@ -291,12 +291,12 @@
   ],
   [
     [
-      "2025-11-19, 01:24:12",
-      "https://news.ycombinator.com/item?id=45974732"
+      "2025-11-19, 13:54:04",
+      "https://news.ycombinator.com/item?id=45979520"
     ],
     [
-      "Neopets.com changed my life (2019)",
-      "https://annastreetman.com/2019/05/19/how-neopets-com-changed-my-life/"
+      "Show HN: Hypercamera – a browser-based 4D camera simulator",
+      "https://dugas.ch/4d_creatures/4d_camera.html"
     ]
   ]
 ]
