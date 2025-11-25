@@ -4,10 +4,13 @@
 
 ### [Archives](../../index.md) for [2025-11-25](index.md)
 
+* [2025-11-25, 16:12:22](https://news.ycombinator.com/item?id=46047229) - [Roblox is a problem – but it's a symptom of something worse](https://www.platformer.news/roblox-ceo-interview-backlash-analysis/)
+* [2025-11-25, 15:47:14](https://news.ycombinator.com/item?id=46046916) - [FLUX.2: Frontier Visual Intelligence](https://bfl.ai/blog/flux-2)
 * [2025-11-25, 15:24:59](https://news.ycombinator.com/item?id=46046626) - [Cryptology firm cancels elections after losing encryption key](https://www.bbc.com/news/articles/c62vl05rz0ko)
 * [2025-11-25, 14:20:30](https://news.ycombinator.com/item?id=46045987) - [Launch HN: Onyx (YC W24) – The open-source chat UI](https://news.ycombinator.com/item?id=46045987)
 * [2025-11-25, 14:18:01](https://news.ycombinator.com/item?id=46045972) - [Apt Rust requirement raises questions](https://lwn.net/SubscriberLink/1046841/5bbf1fc049a18947/)
 * [2025-11-25, 13:38:12](https://news.ycombinator.com/item?id=46045661) - [Brain has five 'eras' – with adult mode not starting until early 30s](https://www.theguardian.com/science/2025/nov/25/brain-human-cognitive-development-life-stages-cambridge-study)
+* [2025-11-25, 12:14:11](https://news.ycombinator.com/item?id=46045085) - [Trillions Spent and Big Software Projects Are Still Failing](https://spectrum.ieee.org/it-management-software-failures)
 * [2025-11-25, 12:05:39](https://news.ycombinator.com/item?id=46045039) - [Making Crash Bandicoot (2011)](https://all-things-andy-gavin.com/video-games/making-crash/)
 * [2025-11-25, 09:17:43](https://news.ycombinator.com/item?id=46043972) - [Show HN: I built the literal Duolingo Killer](https://kanjieight.vercel.app/)
 * [2025-11-25, 06:39:36](https://news.ycombinator.com/item?id=46042969) - [What you can get for the price of a Netflix subscription](https://nmil.dev/what-you-can-get-for-the-price-of-a-netflix-subscription)
