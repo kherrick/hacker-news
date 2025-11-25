@@ -25,7 +25,7 @@
       "https://news.ycombinator.com/item?id=46049722"
     ],
     [
-      "Unison 1.0 Release",
+      "Unison 1.0",
       "https://www.unison-lang.org/unison-1-0/"
     ]
   ],
@@ -55,7 +55,7 @@
       "https://news.ycombinator.com/item?id=46048996"
     ],
     [
-      "Google Antigravity exfiltrates data",
+      "Google Antigravity exfiltrates data via indirect prompt injection attack",
       "https://www.promptarmor.com/resources/google-antigravity-exfiltrates-data"
     ]
   ],
@@ -71,12 +71,12 @@
   ],
   [
     [
-      "2025-11-25, 17:31:47",
-      "https://news.ycombinator.com/item?id=46048229"
+      "2025-11-25, 17:21:52",
+      "https://news.ycombinator.com/item?id=46048125"
     ],
     [
-      "It is ok to say \"CSS variables\" instead of \"custom properties\"",
-      "https://blog.kizu.dev/css-variables/"
+      "Ilya Sutskever: We're moving from the age of scaling to the age of research",
+      "https://www.dwarkesh.com/p/ilya-sutskever-2"
     ]
   ],
   [
@@ -87,6 +87,26 @@
     [
       "US banks scramble to assess data theft after hackers breach financial tech firm",
       "https://techcrunch.com/2025/11/24/us-banks-scramble-to-assess-data-theft-after-hackers-breach-financial-tech-firm/"
+    ]
+  ],
+  [
+    [
+      "2025-11-25, 17:07:06",
+      "https://news.ycombinator.com/item?id=46047958"
+    ],
+    [
+      "Unifying our mobile and desktop domains",
+      "https://techblog.wikimedia.org/2025/11/21/unifying-mobile-and-desktop-domains/"
+    ]
+  ],
+  [
+    [
+      "2025-11-25, 16:38:57",
+      "https://news.ycombinator.com/item?id=46047580"
+    ],
+    [
+      "Python is not a great language for data science",
+      "https://blog.genesmindsmachines.com/p/python-is-not-a-great-language-for"
     ]
   ],
   [
@@ -141,12 +161,12 @@
   ],
   [
     [
-      "2025-11-25, 13:38:12",
-      "https://news.ycombinator.com/item?id=46045661"
+      "2025-11-25, 13:02:06",
+      "https://news.ycombinator.com/item?id=46045385"
     ],
     [
-      "Brain has five 'eras' with adult mode not starting until early 30s",
-      "https://www.theguardian.com/science/2025/nov/25/brain-human-cognitive-development-life-stages-cambridge-study"
+      "Constant-time support coming to LLVM: Protecting cryptographic code",
+      "https://blog.trailofbits.com/2025/11/25/constant-time-support-coming-to-llvm-protecting-cryptographic-code-at-the-compiler-level/"
     ]
   ],
   [
@@ -251,16 +271,6 @@
   ],
   [
     [
-      "2025-11-21, 11:47:38",
-      "https://news.ycombinator.com/item?id=46003606"
-    ],
-    [
-      "Nearby peer discovery without GPS using environmental fingerprints",
-      "https://www.svendewaerhert.com/blog/nearby-peer-discovery/"
-    ]
-  ],
-  [
-    [
       "2025-11-21, 10:54:15",
       "https://news.ycombinator.com/item?id=46003271"
     ],
@@ -277,16 +287,6 @@
     [
       "Broccoli Man, Remastered",
       "https://mbleigh.dev/posts/broccoli-man-remastered/"
-    ]
-  ],
-  [
-    [
-      "2025-11-19, 15:59:33",
-      "https://news.ycombinator.com/item?id=45981163"
-    ],
-    [
-      "Hollywood's vision of ancient Rome is all wrong, according to Mary Beard",
-      "https://www.openculture.com/2025/11/why-your-vision-of-ancient-rome-is-all-wrong-according-to-historian-mary-beard.html"
     ]
   ],
   [
