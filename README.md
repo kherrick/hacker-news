@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-11-25, 20:39:07](https://news.ycombinator.com/item?id=46050471) - [ZoomInfo CEO Blocks Researcher After Documenting Pre-Consent Biometric Tracking](https://github.com/clark-prog/blackout-public)
 * [2025-11-25, 19:58:10](https://news.ycombinator.com/item?id=46049981) - [How to repurpose your old phone's GPS modem into a web server](https://blog.nns.ee/2021/04/01/modem-blog)
 * [2025-11-25, 19:53:20](https://news.ycombinator.com/item?id=46049932) - [A new bridge links the math of infinity to computer science](https://www.quantamagazine.org/a-new-bridge-links-the-strange-math-of-infinity-to-computer-science-20251121/)
 * [2025-11-25, 19:33:00](https://news.ycombinator.com/item?id=46049722) - [Unison 1.0](https://www.unison-lang.org/unison-1-0/)
-* [2025-11-25, 19:23:04](https://news.ycombinator.com/item?id=46049624) - [IQ differences of identical twins reared apart are influenced by education](https://www.sciencedirect.com/science/article/pii/S0001691825003853)
 * [2025-11-25, 18:36:10](https://news.ycombinator.com/item?id=46049066) - [Bad UX World Cup 2025](https://badux.lol/)
 * [2025-11-25, 18:31:16](https://news.ycombinator.com/item?id=46048996) - [Google Antigravity exfiltrates data via indirect prompt injection attack](https://www.promptarmor.com/resources/google-antigravity-exfiltrates-data)
 * [2025-11-25, 17:33:50](https://news.ycombinator.com/item?id=46048252) - [Show HN: We built an open source, zero webhooks payment processor](https://github.com/flowglad/flowglad)
@@ -26,9 +26,9 @@
 * [2025-11-24, 19:25:25](https://news.ycombinator.com/item?id=46038099) - [Unpowered SSDs slowly lose data](https://www.xda-developers.com/your-unpowered-ssd-is-slowly-losing-your-data/)
 * [2025-11-24, 19:21:35](https://news.ycombinator.com/item?id=46038047) - [Claude Advanced Tool Use](https://www.anthropic.com/engineering/advanced-tool-use)
 * [2025-11-22, 18:16:59](https://news.ycombinator.com/item?id=46016902) - [how to repurpose your old phone into a web server](https://far.computer/how-to/)
-* [2025-11-22, 03:08:28](https://news.ycombinator.com/item?id=46011712) - [Auditing JDBC Drivers at Scale with AI led to 85000 bounty](https://www.hacktron.ai/blog/jdbc-audit-at-scale)
 * [2025-11-21, 13:42:33](https://news.ycombinator.com/item?id=46004519) - [Inflatable Space Stations](https://worksinprogress.co/issue/inflatable-space-stations/)
 * [2025-11-21, 10:54:15](https://news.ycombinator.com/item?id=46003271) - [The 101 of analog signal filtering (2024)](https://lcamtuf.substack.com/p/the-101-of-analog-signal-filtering)
+* [2025-11-19, 18:16:53](https://news.ycombinator.com/item?id=45982875) - [Broccoli Man, Remastered](https://mbleigh.dev/posts/broccoli-man-remastered/)
 * [2025-11-19, 13:14:38](https://news.ycombinator.com/item?id=45979180) - [LPLB: An early research stage MoE load balancer based on linear programming](https://github.com/deepseek-ai/LPLB)
 
 ## [Archives](archives/index.md)
