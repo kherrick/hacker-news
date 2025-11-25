@@ -19,6 +19,7 @@
 * [2025-11-22, 20:09:48](https://news.ycombinator.com/item?id=46017821) - [Data General History by Foster](http://www.teamfoster.com/billteamfostercom)
 * [2025-11-22, 20:03:14](https://news.ycombinator.com/item?id=46017782) - [Markdown Is Holding You Back](https://newsletter.bphogan.com/archive/issue-45-markdown-is-holding-you-back/)
 * [2025-11-22, 18:47:08](https://news.ycombinator.com/item?id=46017175) - [Show HN: Forty.News – Daily news, but on a 40-year delay](https://forty.news)
+* [2025-11-22, 18:16:59](https://news.ycombinator.com/item?id=46016902) - [how to repurpose your old phone into a web server](https://far.computer/how-to/)
 * [2025-11-22, 18:05:47](https://news.ycombinator.com/item?id=46016799) - [Depot (YC W23) Is Hiring a Staff Infrastructure Engineer](https://www.ycombinator.com/companies/depot/jobs/O2iB56E-staff-infrastructure-engineer)
 * [2025-11-22, 17:49:27](https://news.ycombinator.com/item?id=46016639) - [China reaches energy milestone by \"breeding\" uranium from thorium](https://www.scmp.com/news/china/science/article/3331312/china-reaches-energy-independence-milestone-breeding-uranium-thorium)
 * [2025-11-22, 17:49:27](https://news.ycombinator.com/item?id=46016639) - [China Reaches Energy Milestone by \"Breeding\" Uranium from Thorium](https://humanprogress.org/china-reaches-energy-milestone-by-breeding-uranium-from-thorium/)

@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2025-11-25](index.md)
 
+* [2025-11-25, 18:31:16](https://news.ycombinator.com/item?id=46048996) - [Google Antigravity Exfiltrates Data](https://www.promptarmor.com/resources/google-antigravity-exfiltrates-data)
 * [2025-11-25, 17:33:50](https://news.ycombinator.com/item?id=46048252) - [Show HN: We built an open source, zero webhooks payment processor](https://github.com/flowglad/flowglad)
+* [2025-11-25, 17:31:47](https://news.ycombinator.com/item?id=46048229) - [It is ok to say \"CSS variables\" instead of \"custom properties\"](https://blog.kizu.dev/css-variables/)
+* [2025-11-25, 16:38:57](https://news.ycombinator.com/item?id=46047580) - [Python is not a great language for data science](https://blog.genesmindsmachines.com/p/python-is-not-a-great-language-for)
 * [2025-11-25, 16:34:08](https://news.ycombinator.com/item?id=46047513) - [Ozempic does not slow Alzheimer's, study finds](https://www.semafor.com/article/11/25/2025/ozempic-does-not-slow-alzheimers-study-finds)
 * [2025-11-25, 16:26:42](https://news.ycombinator.com/item?id=46047409) - [Choosing a hash function for 2030 and beyond: SHA-2 vs. SHA-3 vs. BLAKE3](https://kerkour.com/fast-secure-hash-function-sha256-sha512-sha3-blake3)
 * [2025-11-25, 16:21:24](https://news.ycombinator.com/item?id=46047350) - [Orion 1.0 – Browse Beyond](https://blog.kagi.com/orion)
@@ -20,5 +23,6 @@
 * [2025-11-25, 06:39:36](https://news.ycombinator.com/item?id=46042969) - [What you can get for the price of a Netflix subscription](https://nmil.dev/what-you-can-get-for-the-price-of-a-netflix-subscription)
 * [2025-11-25, 06:35:59](https://news.ycombinator.com/item?id=46042946) - [Most Stable Raspberry Pi? 81% Better NTP with Thermal Management](https://austinsnerdythings.com/2025/11/24/worlds-most-stable-raspberry-pi-81-better-ntp-with-thermal-management/)
 * [2025-11-25, 06:31:31](https://news.ycombinator.com/item?id=46042928) - [Human brains are preconfigured with instructions for understanding the world](https://news.ucsc.edu/2025/11/sharf-preconfigured-brain/)
+* [2025-11-25, 06:09:05](https://news.ycombinator.com/item?id=46042810) - [Jakarta is now the biggest city in the world](https://www.axios.com/2025/11/24/jakarta-tokyo-worlds-biggest-city-population)
 * [2025-11-25, 06:07:34](https://news.ycombinator.com/item?id=46042800) - [Why I (Still) Love Linux ?](https://it-notes.dragas.net/2025/11/24/why-i-still-love-linux/)
 * [2025-11-25, 05:33:44](https://news.ycombinator.com/item?id=46042655) - [Windows GUI – Good, Bad and Pretty Ugly (2023)](https://creolened.com/windows-gui-good-bad-and-pretty-ugly-ranked/)

@@ -7,6 +7,7 @@
 * [2025-11-24, 23:24:15](https://news.ycombinator.com/item?id=46040623) - [How we built the v0 iOS app](https://vercel.com/blog/how-we-built-the-v0-ios-app)
 * [2025-11-24, 22:12:04](https://news.ycombinator.com/item?id=46040005) - [DoGE \"cut muscle, not fat\"; 26K experts rehired after brutal cuts](https://arstechnica.com/tech-policy/2025/11/doge-doesnt-exist-anymore-but-expert-says-its-still-not-dead/)
 * [2025-11-24, 21:03:22](https://news.ycombinator.com/item?id=46039274) - [AI has a deep understanding of how this code works](https://github.com/ocaml/ocaml/pull/14369)
+* [2025-11-24, 19:50:47](https://news.ycombinator.com/item?id=46038417) - [PRC elites voice AI-skepticism](https://jamestown.org/prc-elites-voice-ai-skepticism/)
 * [2025-11-24, 19:29:12](https://news.ycombinator.com/item?id=46038143) - [PS5 now costs less than 64GB of DDR5 memory. RAM jumps to $600 due to shortage](https://www.tomshardware.com/pc-components/ddr5/64gb-of-ddr5-memory-now-costs-more-than-an-entire-ps5-even-after-a-discount-trident-z5-neo-kit-jumps-to-usd600-due-to-dram-shortage-and-its-expected-to-get-worse-into-2026)
 * [2025-11-24, 19:25:25](https://news.ycombinator.com/item?id=46038099) - [Unpowered SSDs slowly lose data](https://www.xda-developers.com/your-unpowered-ssd-is-slowly-losing-your-data/)
 * [2025-11-24, 19:21:35](https://news.ycombinator.com/item?id=46038047) - [Claude Advanced Tool Use](https://www.anthropic.com/engineering/advanced-tool-use)

@@ -57,6 +57,7 @@
 * [2025-11-19, 16:22:32](https://news.ycombinator.com/item?id=45981441) - [Slicing Is All You Need: Towards a Universal One-Sided Distributed MatMul](https://arxiv.org/abs/2510.08874)
 * [2025-11-19, 16:10:18](https://news.ycombinator.com/item?id=45981281) - [Dumb Ways to Die: Printed Ephemera](https://ilovetypography.com/2025/11/19/dumb-ways-to-die-printed-ephemera/)
 * [2025-11-19, 15:59:33](https://news.ycombinator.com/item?id=45981163) - [Mary Beard: Hollywood Lied to You About Ancient Rome. Here's the Truth](https://kottke.org/25/11/mary-beard-hollywood-lied-to-you-about-ancient-rome-heres-the-truth)
+* [2025-11-19, 15:59:33](https://news.ycombinator.com/item?id=45981163) - [Hollywood's vision of ancient Rome is all wrong, according to Mary Beard](https://www.openculture.com/2025/11/why-your-vision-of-ancient-rome-is-all-wrong-according-to-historian-mary-beard.html)
 * [2025-11-19, 15:46:30](https://news.ycombinator.com/item?id=45981009) - [Emoji Evidence Errors Don't Undo a Murder Conviction–People vs. Harmon](https://blog.ericgoldman.org/archives/2025/11/emoji-evidence-errors-dont-undo-a-murder-conviction-people-v-harmon.htm)
 * [2025-11-19, 15:28:04](https://news.ycombinator.com/item?id=45980760) - [Launch HN: Mosaic (YC W25) – Agentic Video Editing](https://mosaic.so)
 * [2025-11-19, 15:24:52](https://news.ycombinator.com/item?id=45980714) - [Show HN: Vibe Prolog](https://github.com/nlothian/Vibe-Prolog)
