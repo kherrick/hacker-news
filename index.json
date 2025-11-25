@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-11-25, 17:33:50",
+      "https://news.ycombinator.com/item?id=46048252"
+    ],
+    [
+      "Show HN: We built an open source, zero webhooks payment processor",
+      "https://github.com/flowglad/flowglad"
+    ]
+  ],
+  [
+    [
       "2025-11-25, 16:34:08",
       "https://news.ycombinator.com/item?id=46047513"
     ],
@@ -35,7 +45,7 @@
       "https://news.ycombinator.com/item?id=46045987"
     ],
     [
-      "Launch HN: Onyx (YC W24) – The open-source chat UI",
+      "Launch HN: Onyx (YC W24) – Open-source chat UI",
       "https://news.ycombinator.com/item?id=46045987"
     ]
   ],
@@ -111,6 +121,16 @@
   ],
   [
     [
+      "2025-11-24, 23:24:15",
+      "https://news.ycombinator.com/item?id=46040623"
+    ],
+    [
+      "How we built the v0 iOS app",
+      "https://vercel.com/blog/how-we-built-the-v0-ios-app"
+    ]
+  ],
+  [
+    [
       "2025-11-24, 19:25:25",
       "https://news.ycombinator.com/item?id=46038099"
     ],
@@ -181,16 +201,6 @@
   ],
   [
     [
-      "2025-11-24, 05:58:08",
-      "https://news.ycombinator.com/item?id=46030799"
-    ],
-    [
-      "What OpenAI did when ChatGPT users lost touch with reality",
-      "https://www.nytimes.com/2025/11/23/technology/openai-chatgpt-users-risks.html"
-    ]
-  ],
-  [
-    [
       "2025-11-23, 01:25:17",
       "https://news.ycombinator.com/item?id=46019898"
     ],
@@ -207,16 +217,6 @@
     [
       "A million ways to die from a data race in Go",
       "https://gaultier.github.io/blog/a_million_ways_to_data_race_in_go.html"
-    ]
-  ],
-  [
-    [
-      "2025-11-21, 23:54:49",
-      "https://news.ycombinator.com/item?id=46010552"
-    ],
-    [
-      "Explaining, at some length, Techmeme's 20 years of consistency",
-      "https://news.techmeme.com/250912/20-years"
     ]
   ],
   [
@@ -271,16 +271,6 @@
   ],
   [
     [
-      "2025-11-19, 20:58:50",
-      "https://news.ycombinator.com/item?id=45985081"
-    ],
-    [
-      "Rethinking C++: Architecture, Concepts, and Responsibility",
-      "https://blogs.embarcadero.com/rethinking-c-architecture-concepts-and-responsibility/"
-    ]
-  ],
-  [
-    [
       "2025-11-19, 18:16:53",
       "https://news.ycombinator.com/item?id=45982875"
     ],
@@ -297,6 +287,16 @@
     [
       "Meta Segment Anything Model 3",
       "https://ai.meta.com/blog/segment-anything-model-3/?_fb_noscript=1"
+    ]
+  ],
+  [
+    [
+      "2025-11-19, 13:14:38",
+      "https://news.ycombinator.com/item?id=45979180"
+    ],
+    [
+      "LPLB: An early research stage MoE load balancer based on linear programming",
+      "https://github.com/deepseek-ai/LPLB"
     ]
   ]
 ]
