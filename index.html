@@ -142,7 +142,7 @@
             <h4>
               <span>2025-11-24 @ 19:29:12</span
               ><span class="points-container"
-                >Points: <span class="points">298</span></span
+                >Points: <span class="points">307</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46038143"
                   >Comments</a
@@ -163,11 +163,11 @@
             <h4>
               <span>2025-11-24 @ 19:25:25</span
               ><span class="points-container"
-                >Points: <span class="points">244</span></span
+                >Points: <span class="points">254</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46038099"
                   >Comments</a
-                ><span class="descendants">: 104</span></span
+                ><span class="descendants">: 109</span></span
               >
             </h4>
           </section>
@@ -184,11 +184,11 @@
             <h4>
               <span>2025-11-24 @ 19:21:35</span
               ><span class="points-container"
-                >Points: <span class="points">384</span></span
+                >Points: <span class="points">391</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46038047"
                   >Comments</a
-                ><span class="descendants">: 146</span></span
+                ><span class="descendants">: 148</span></span
               >
             </h4>
           </section>
@@ -205,11 +205,11 @@
             <h4>
               <span>2025-11-24 @ 18:53:05</span
               ><span class="points-container"
-                >Points: <span class="points">806</span></span
+                >Points: <span class="points">815</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46037637"
                   >Comments</a
-                ><span class="descendants">: 363</span></span
+                ><span class="descendants">: 371</span></span
               >
             </h4>
             <div class="text">
@@ -232,11 +232,11 @@
             <h4>
               <span>2025-11-24 @ 18:52:12</span
               ><span class="points-container"
-                >Points: <span class="points">744</span></span
+                >Points: <span class="points">751</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46037626"
                   >Comments</a
-                ><span class="descendants">: 119</span></span
+                ><span class="descendants">: 120</span></span
               >
             </h4>
           </section>
@@ -253,13 +253,110 @@
             <h4>
               <span>2025-11-24 @ 18:49:47</span
               ><span class="points-container"
-                >Points: <span class="points">72</span></span
+                >Points: <span class="points">75</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46037591"
                   >Comments</a
-                ><span class="descendants">: 68</span></span
+                ><span class="descendants">: 73</span></span
               >
             </h4>
+          </section>
+        </section>
+        <section id="46037416">
+          <h3>
+            <a class="item" href="http://karumi.ai/"
+              >Launch HN: Karumi (YC F25) – Personalized, agentic product
+              demos</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2025-11-24 @ 18:37:27</span
+              ><span class="points-container"
+                >Points: <span class="points">34</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=46037416"
+                  >Comments</a
+                ><span class="descendants">: 11</span></span
+              >
+            </h4>
+            <div class="text">
+              <a href="https://www.karumi.ai">https://www.karumi.ai</a>), a
+              system that lets your users get instant, scalable, guided demos of
+              your product, fully automated, zero human interaction. It works in
+              any language.
+              <p>
+                Here's a demo video:
+                <a
+                  href="https://www.loom.com/share/e7f7e00f2284478e8335f8f4d4dac6bd"
+                  >https://www.loom.com/share/e7f7e00f2284478e8335f8f4d4dac6bd</a
+                >. There's also a live demo at
+                <a href="https://www.karumi.ai/meet/start/phlz"
+                  >https://www.karumi.ai/meet/start/phlz</a
+                >.
+              </p>
+              <p>
+                Karumi is an AI agent that operates a real web app in a shared
+                browser session and talks the user through it. Instead of a
+                human giving a screen-share demo, the agent opens your product,
+                clicks around, fills forms, and explains what it’s doing. We
+                started building this as an internal tool at our previous
+                company. As the product grew, people kept asking “what’s the
+                right way to demo feature X?“. Docs and scripts became outdated
+                quickly, and the quality of demos depended too much on who was
+                presenting. We wanted something closer to a repeatable program:
+                an agent that knows the main flows, understands who it’s talking
+                to, and can walk through the product without getting lost.
+              </p>
+              <p>Over time this turned into three main components:</p>
+              <p>Planning/control layer</p>
+              <p>
+                A loop that decides the next step: ask something, click,
+                navigate, reset, etc. It uses a reasoning model, but only within
+                a fixed set of allowed actions with guards (timeouts, depth
+                limits, reset states). It never gets free control of the
+                browser.
+              </p>
+              <p>Browser execution layer</p>
+              <p>
+                A controlled browser session, streamed in a video call. The
+                agent can only interact with the elements we want. We log each
+                action with a timestamp and the agent’s “reason”, which helps
+                debug odd behavior.
+              </p>
+              <p>Product knowledge layer</p>
+              <p>
+                We ingest docs, demo scripts &amp; videos, and usage analytics,
+                to train the agent. At runtime, the agent uses its knowledge to
+                decide what flow to show and how to explain it.
+              </p>
+              <p>Some practical details and limitations:</p>
+              <p>
+                We only support web apps right now. Desktop apps will come next.
+                LLMs introduce non-determinism, so we bias toward safe,
+                predictable behavior: checkpoints, conservative navigation, and
+                “escape hatches” that reset to known states. If the agent
+                doesn’t understand a UI state (unknown modal, layout shift,
+                etc.), it asks the user instead of guessing. Regarding pricing,
+                it’s still early. We tailor it to each customer based on their
+                needs. Our current thinking is a platform fee plus a per-call
+                charge for the agent. The platform fee varies depending on
+                complexity, support requirements, and overall scope.
+              </p>
+              <p>
+                People currently use Karumi for inbound demos and internal demo
+                environments. If you want to see it inside a real product,
+                here’s Karumi running in Deel’s platform:
+                <a
+                  href="https://www.loom.com/share/e7f7e00f2284478e8335f8f4d4dac6bd"
+                  >https://www.loom.com/share/e7f7e00f2284478e8335f8f4d4dac6bd</a
+                >
+              </p>
+              <p>
+                We’ll be around to answer questions and look forward to your
+                feedback!
+              </p>
+            </div>
           </section>
         </section>
         <section id="46037343">
@@ -272,11 +369,11 @@
             <h4>
               <span>2025-11-24 @ 18:32:27</span
               ><span class="points-container"
-                >Points: <span class="points">88</span></span
+                >Points: <span class="points">89</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46037343"
                   >Comments</a
-                ><span class="descendants">: 47</span></span
+                ><span class="descendants">: 48</span></span
               >
             </h4>
           </section>
@@ -293,11 +390,11 @@
             <h4>
               <span>2025-11-24 @ 18:30:48</span
               ><span class="points-container"
-                >Points: <span class="points">182</span></span
+                >Points: <span class="points">184</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46037324"
                   >Comments</a
-                ><span class="descendants">: 72</span></span
+                ><span class="descendants">: 73</span></span
               >
             </h4>
           </section>
@@ -314,7 +411,7 @@
             <h4>
               <span>2025-11-24 @ 18:26:09</span
               ><span class="points-container"
-                >Points: <span class="points">128</span></span
+                >Points: <span class="points">131</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46037267"
                   >Comments</a
@@ -333,11 +430,11 @@
             <h4>
               <span>2025-11-24 @ 17:52:43</span
               ><span class="points-container"
-                >Points: <span class="points">193</span></span
+                >Points: <span class="points">201</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46036908"
                   >Comments</a
-                ><span class="descendants">: 108</span></span
+                ><span class="descendants">: 110</span></span
               >
             </h4>
             <div class="text">
@@ -402,7 +499,7 @@
             <h4>
               <span>2025-11-24 @ 17:52:01</span
               ><span class="points-container"
-                >Points: <span class="points">179</span></span
+                >Points: <span class="points">183</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46036895"
                   >Comments</a
@@ -465,7 +562,7 @@
             <h4>
               <span>2025-11-24 @ 12:23:02</span
               ><span class="points-container"
-                >Points: <span class="points">218</span></span
+                >Points: <span class="points">219</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46033330"
                   >Comments</a
@@ -486,11 +583,11 @@
             <h4>
               <span>2025-11-24 @ 10:40:22</span
               ><span class="points-container"
-                >Points: <span class="points">881</span></span
+                >Points: <span class="points">887</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46032539"
                   >Comments</a
-                ><span class="descendants">: 698</span></span
+                ><span class="descendants">: 699</span></span
               >
             </h4>
             <div class="text">
@@ -509,11 +606,11 @@
             <h4>
               <span>2025-11-24 @ 09:51:45</span
               ><span class="points-container"
-                >Points: <span class="points">50</span></span
+                >Points: <span class="points">52</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46032230"
                   >Comments</a
-                ><span class="descendants">: 4</span></span
+                ><span class="descendants">: 6</span></span
               >
             </h4>
           </section>
@@ -530,11 +627,11 @@
             <h4>
               <span>2025-11-24 @ 09:40:32</span
               ><span class="points-container"
-                >Points: <span class="points">58</span></span
+                >Points: <span class="points">61</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46032148"
                   >Comments</a
-                ><span class="descendants">: 15</span></span
+                ><span class="descendants">: 16</span></span
               >
             </h4>
           </section>
@@ -551,11 +648,11 @@
             <h4>
               <span>2025-11-24 @ 07:14:55</span
               ><span class="points-container"
-                >Points: <span class="points">39</span></span
+                >Points: <span class="points">41</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46031220"
                   >Comments</a
-                ><span class="descendants">: 6</span></span
+                ><span class="descendants">: 7</span></span
               >
             </h4>
           </section>
@@ -572,11 +669,11 @@
             <h4>
               <span>2025-11-24 @ 05:58:08</span
               ><span class="points-container"
-                >Points: <span class="points">126</span></span
+                >Points: <span class="points">133</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46030799"
                   >Comments</a
-                ><span class="descendants">: 144</span></span
+                ><span class="descendants">: 153</span></span
               >
             </h4>
           </section>
@@ -615,11 +712,11 @@
             <h4>
               <span>2025-11-23 @ 01:25:17</span
               ><span class="points-container"
-                >Points: <span class="points">207</span></span
+                >Points: <span class="points">211</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46019898"
                   >Comments</a
-                ><span class="descendants">: 139</span></span
+                ><span class="descendants">: 145</span></span
               >
             </h4>
           </section>
@@ -640,7 +737,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46014685"
                   >Comments</a
-                ><span class="descendants">: 9</span></span
+                ><span class="descendants">: 11</span></span
               >
             </h4>
           </section>
@@ -657,7 +754,7 @@
             <h4>
               <span>2025-11-22 @ 09:41:46</span
               ><span class="points-container"
-                >Points: <span class="points">108</span></span
+                >Points: <span class="points">114</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46013478"
                   >Comments</a
@@ -683,7 +780,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46010466"
                   >Comments</a
-                ><span class="descendants">: 3</span></span
+                ><span class="descendants">: 4</span></span
               >
             </h4>
           </section>
@@ -700,7 +797,7 @@
             <h4>
               <span>2025-11-21 @ 17:56:50</span
               ><span class="points-container"
-                >Points: <span class="points">110</span></span
+                >Points: <span class="points">112</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46006891"
                   >Comments</a
@@ -719,11 +816,11 @@
             <h4>
               <span>2025-11-21 @ 16:44:45</span
               ><span class="points-container"
-                >Points: <span class="points">76</span></span
+                >Points: <span class="points">82</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46006104"
                   >Comments</a
-                ><span class="descendants">: 26</span></span
+                ><span class="descendants">: 27</span></span
               >
             </h4>
             <div class="text">
@@ -739,27 +836,6 @@
             </div>
           </section>
         </section>
-        <section id="45994124">
-          <h3>
-            <a
-              class="item"
-              href="https://www.ept.ca/features/everything-need-know-hard-drive-vibration/"
-              >Everything you need to know about hard drive vibration (2016)</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2025-11-20 @ 16:07:22</span
-              ><span class="points-container"
-                >Points: <span class="points">26</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=45994124"
-                  >Comments</a
-                ><span class="descendants">: 11</span></span
-              >
-            </h4>
-          </section>
-        </section>
         <section id="45989284">
           <h3>
             <a
@@ -772,11 +848,11 @@
             <h4>
               <span>2025-11-20 @ 05:32:13</span
               ><span class="points-container"
-                >Points: <span class="points">138</span></span
+                >Points: <span class="points">139</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45989284"
                   >Comments</a
-                ><span class="descendants">: 61</span></span
+                ><span class="descendants">: 64</span></span
               >
             </h4>
           </section>
@@ -815,11 +891,11 @@
             <h4>
               <span>2025-11-19 @ 15:07:35</span
               ><span class="points-container"
-                >Points: <span class="points">155</span></span
+                >Points: <span class="points">157</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45980474"
                   >Comments</a
-                ><span class="descendants">: 81</span></span
+                ><span class="descendants">: 82</span></span
               >
             </h4>
           </section>
@@ -838,7 +914,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45979520"
                   >Comments</a
-                ><span class="descendants">: 1</span></span
+                ><span class="descendants">: 2</span></span
               >
             </h4>
           </section>
