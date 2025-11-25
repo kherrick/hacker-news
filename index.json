@@ -71,16 +71,6 @@
   ],
   [
     [
-      "2025-11-24, 18:26:09",
-      "https://news.ycombinator.com/item?id=46037267"
-    ],
-    [
-      "Mind-reading devices can now predict preconscious thoughts",
-      "https://www.nature.com/articles/d41586-025-03714-0"
-    ]
-  ],
-  [
-    [
       "2025-11-24, 17:52:43",
       "https://news.ycombinator.com/item?id=46036908"
     ],
@@ -141,16 +131,6 @@
   ],
   [
     [
-      "2025-11-24, 09:51:45",
-      "https://news.ycombinator.com/item?id=46032230"
-    ],
-    [
-      "A fast EDN (Extensible Data Notation) reader written in C11 with SIMD boost",
-      "https://github.com/DotFox/edn.c"
-    ]
-  ],
-  [
-    [
       "2025-11-24, 09:40:32",
       "https://news.ycombinator.com/item?id=46032148"
     ],
@@ -177,6 +157,16 @@
     [
       "What OpenAI did when ChatGPT users lost touch with reality",
       "https://www.nytimes.com/2025/11/23/technology/openai-chatgpt-users-risks.html"
+    ]
+  ],
+  [
+    [
+      "2025-11-23, 15:47:50",
+      "https://news.ycombinator.com/item?id=46024402"
+    ],
+    [
+      "Bytes before FLOPS: your algorithm is (mostly) fine, your data isn't",
+      "https://www.bitsdraumar.is/bytes-before-flops/"
     ]
   ],
   [
@@ -227,6 +217,16 @@
     [
       "Using Antigravity for Statistical Physics in JavaScript",
       "https://christopherkrapu.com/blog/2025/antigravity-stat-mech/"
+    ]
+  ],
+  [
+    [
+      "2025-11-21, 23:43:53",
+      "https://news.ycombinator.com/item?id=46010466"
+    ],
+    [
+      "How sea turtles learn locations using Earth’s magnetic field: research",
+      "https://uncnews.unc.edu/2025/02/13/sea-turtles-secret-gps-researchers-uncover-how-sea-turtles-learn-locations-using-earths-magnetic-field/"
     ]
   ],
   [
