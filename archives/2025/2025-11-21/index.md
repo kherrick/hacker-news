@@ -15,6 +15,7 @@
 * [2025-11-21, 22:48:39](https://news.ycombinator.com/item?id=46009962) - [A time-travelling door bug in Half Life 2](https://mastodon.gamedev.place/@TomF/115589875974658415)
 * [2025-11-21, 22:45:53](https://news.ycombinator.com/item?id=46009935) - [How the Atomic Tests Looked Like from Los Angeles](https://www.amusingplanet.com/2016/09/how-atomic-tests-looked-like-from-los.html)
 * [2025-11-21, 22:40:28](https://news.ycombinator.com/item?id=46009894) - [Personal blogs are back, should niche blogs be next?](https://disassociated.com/personal-blogs-back-niche-blogs-next/)
+* [2025-11-21, 22:36:24](https://news.ycombinator.com/item?id=46009851) - [Using an Array of Needles to Create Solid Knitted Shapes](https://dl.acm.org/doi/10.1145/3746059.3747759)
 * [2025-11-21, 22:17:11](https://news.ycombinator.com/item?id=46009660) - [Is Matrix Multiplication Ugly?](https://mathenchant.wordpress.com/2025/11/21/is-matrix-multiplication-ugly/)
 * [2025-11-21, 22:11:07](https://news.ycombinator.com/item?id=46009591) - [LAPD Helicopter Tracker with Real-Time Operating Costs](https://lapdhelicoptertracker.com/)
 * [2025-11-21, 21:29:28](https://news.ycombinator.com/item?id=46009209) - [The Untold History of Arduino](https://arduinohistory.github.io/)
