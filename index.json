@@ -1,12 +1,42 @@
 [
   [
     [
+      "2025-11-25, 18:31:16",
+      "https://news.ycombinator.com/item?id=46048996"
+    ],
+    [
+      "Google Antigravity Exfiltrates Data",
+      "https://www.promptarmor.com/resources/google-antigravity-exfiltrates-data"
+    ]
+  ],
+  [
+    [
       "2025-11-25, 17:33:50",
       "https://news.ycombinator.com/item?id=46048252"
     ],
     [
       "Show HN: We built an open source, zero webhooks payment processor",
       "https://github.com/flowglad/flowglad"
+    ]
+  ],
+  [
+    [
+      "2025-11-25, 17:31:47",
+      "https://news.ycombinator.com/item?id=46048229"
+    ],
+    [
+      "It is ok to say \"CSS variables\" instead of \"custom properties\"",
+      "https://blog.kizu.dev/css-variables/"
+    ]
+  ],
+  [
+    [
+      "2025-11-25, 16:38:57",
+      "https://news.ycombinator.com/item?id=46047580"
+    ],
+    [
+      "Python is not a great language for data science",
+      "https://blog.genesmindsmachines.com/p/python-is-not-a-great-language-for"
     ]
   ],
   [
@@ -25,8 +55,18 @@
       "https://news.ycombinator.com/item?id=46047350"
     ],
     [
-      "Orion 1.0 – Browse Beyond",
+      "Orion 1.0",
       "https://blog.kagi.com/orion"
+    ]
+  ],
+  [
+    [
+      "2025-11-25, 16:12:22",
+      "https://news.ycombinator.com/item?id=46047229"
+    ],
+    [
+      "Roblox is a problem but it's a symptom of something worse",
+      "https://www.platformer.news/roblox-ceo-interview-backlash-analysis/"
     ]
   ],
   [
@@ -75,7 +115,7 @@
       "https://news.ycombinator.com/item?id=46045085"
     ],
     [
-      "Trillions Spent and Big Software Projects Are Still Failing",
+      "Trillions spent and big software projects are still failing",
       "https://spectrum.ieee.org/it-management-software-failures"
     ]
   ],
@@ -111,22 +151,22 @@
   ],
   [
     [
-      "2025-11-25, 05:33:44",
-      "https://news.ycombinator.com/item?id=46042655"
+      "2025-11-25, 06:09:05",
+      "https://news.ycombinator.com/item?id=46042810"
     ],
     [
-      "Windows GUI – Good, Bad and Pretty Ugly (2023)",
-      "https://creolened.com/windows-gui-good-bad-and-pretty-ugly-ranked/"
+      "Jakarta is now the biggest city in the world",
+      "https://www.axios.com/2025/11/24/jakarta-tokyo-worlds-biggest-city-population"
     ]
   ],
   [
     [
-      "2025-11-24, 23:24:15",
-      "https://news.ycombinator.com/item?id=46040623"
+      "2025-11-24, 19:50:47",
+      "https://news.ycombinator.com/item?id=46038417"
     ],
     [
-      "How we built the v0 iOS app",
-      "https://vercel.com/blog/how-we-built-the-v0-ios-app"
+      "PRC elites voice AI-skepticism",
+      "https://jamestown.org/prc-elites-voice-ai-skepticism/"
     ]
   ],
   [
@@ -171,36 +211,6 @@
   ],
   [
     [
-      "2025-11-24, 17:52:01",
-      "https://news.ycombinator.com/item?id=46036895"
-    ],
-    [
-      "Cool-retro-term: terminal emulator which mimics look and feel of CRTs",
-      "https://github.com/Swordfish90/cool-retro-term"
-    ]
-  ],
-  [
-    [
-      "2025-11-24, 17:51:02",
-      "https://news.ycombinator.com/item?id=46036878"
-    ],
-    [
-      "Implications of AI to schools",
-      "https://twitter.com/karpathy/status/1993010584175141038"
-    ]
-  ],
-  [
-    [
-      "2025-11-24, 07:14:55",
-      "https://news.ycombinator.com/item?id=46031220"
-    ],
-    [
-      "Build a Compiler in Five Projects",
-      "https://kmicinski.com/functional-programming/2025/11/23/build-a-language/"
-    ]
-  ],
-  [
-    [
       "2025-11-23, 01:25:17",
       "https://news.ycombinator.com/item?id=46019898"
     ],
@@ -211,12 +221,12 @@
   ],
   [
     [
-      "2025-11-22, 14:33:57",
-      "https://news.ycombinator.com/item?id=46015095"
+      "2025-11-22, 18:16:59",
+      "https://news.ycombinator.com/item?id=46016902"
     ],
     [
-      "A million ways to die from a data race in Go",
-      "https://gaultier.github.io/blog/a_million_ways_to_data_race_in_go.html"
+      "how to repurpose your old phone into a web server",
+      "https://far.computer/how-to/"
     ]
   ],
   [
@@ -241,16 +251,6 @@
   ],
   [
     [
-      "2025-11-21, 16:44:45",
-      "https://news.ycombinator.com/item?id=46006104"
-    ],
-    [
-      "Show HN: OCR Arena – A playground for OCR models",
-      "https://www.ocrarena.ai/battle"
-    ]
-  ],
-  [
-    [
       "2025-11-21, 11:47:38",
       "https://news.ycombinator.com/item?id=46003606"
     ],
@@ -265,7 +265,7 @@
       "https://news.ycombinator.com/item?id=46003271"
     ],
     [
-      "The 101 of Analog Signal Filtering",
+      "The 101 of analog signal filtering (2024)",
       "https://lcamtuf.substack.com/p/the-101-of-analog-signal-filtering"
     ]
   ],
@@ -281,12 +281,12 @@
   ],
   [
     [
-      "2025-11-19, 16:27:31",
-      "https://news.ycombinator.com/item?id=45981514"
+      "2025-11-19, 15:59:33",
+      "https://news.ycombinator.com/item?id=45981163"
     ],
     [
-      "Meta Segment Anything Model 3",
-      "https://ai.meta.com/blog/segment-anything-model-3/?_fb_noscript=1"
+      "Hollywood's vision of ancient Rome is all wrong, according to Mary Beard",
+      "https://www.openculture.com/2025/11/why-your-vision-of-ancient-rome-is-all-wrong-according-to-historian-mary-beard.html"
     ]
   ],
   [
