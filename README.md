@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-11-25, 16:26:42](https://news.ycombinator.com/item?id=46047409) - [Choosing a hash function for 2030 and beyond: SHA-2 vs. SHA-3 vs. BLAKE3](https://kerkour.com/fast-secure-hash-function-sha256-sha512-sha3-blake3)
+* [2025-11-25, 16:34:08](https://news.ycombinator.com/item?id=46047513) - [Ozempic does not slow Alzheimer's, study finds](https://www.semafor.com/article/11/25/2025/ozempic-does-not-slow-alzheimers-study-finds)
 * [2025-11-25, 16:21:24](https://news.ycombinator.com/item?id=46047350) - [Orion 1.0 – Browse Beyond](https://blog.kagi.com/orion)
 * [2025-11-25, 15:47:14](https://news.ycombinator.com/item?id=46046916) - [FLUX.2: Frontier Visual Intelligence](https://bfl.ai/blog/flux-2)
 * [2025-11-25, 14:20:30](https://news.ycombinator.com/item?id=46045987) - [Launch HN: Onyx (YC W24) – The open-source chat UI](https://news.ycombinator.com/item?id=46045987)
