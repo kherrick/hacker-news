@@ -21,6 +21,7 @@
 * [2025-11-20, 19:26:12](https://news.ycombinator.com/item?id=45996585) - [Data-at-Rest Encryption in DuckDB](https://duckdb.org/2025/11/19/encryption-in-duckdb)
 * [2025-11-20, 19:21:27](https://news.ycombinator.com/item?id=45996527) - [Historically Accurate Airport Dioramas by AV Pro Designs](https://www.core77.com/posts/138995/Historically-Accurate-Airport-Dioramas-by-AV-Pro-Designs)
 * [2025-11-20, 19:13:51](https://news.ycombinator.com/item?id=45996433) - [Mozilla Says It's Finally Done with Two-Faced Onerep](https://krebsonsecurity.com/2025/11/mozilla-says-its-finally-done-with-two-faced-onerep/)
+* [2025-11-20, 18:39:38](https://news.ycombinator.com/item?id=45996064) - [Show HN: Supabase-Test – Fast Isolated Postgres DBs for Testing Supabase RLS](https://www.npmjs.com/package/supabase-test)
 * [2025-11-20, 18:27:51](https://news.ycombinator.com/item?id=45995913) - [Show HN: Search London StreetView panoramas by text](https://london.publicinsights.uk)
 * [2025-11-20, 18:20:59](https://news.ycombinator.com/item?id=45995834) - [NTSB Preliminary Report – Ups Boeing MD-11F Crash [pdf]](https://www.ntsb.gov/Documents/Prelimiary%20Report%20DCA26MA024.pdf)
 * [2025-11-20, 18:19:31](https://news.ycombinator.com/item?id=45995816) - [The Lions Operating System](https://lionsos.org)
