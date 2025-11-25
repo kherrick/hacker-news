@@ -36,6 +36,7 @@
 * [2025-11-19, 19:09:27](https://news.ycombinator.com/item?id=45983700) - [What AI Is Really For](https://www.chrbutler.com/what-ai-is-really-for)
 * [2025-11-19, 18:43:02](https://news.ycombinator.com/item?id=45983312) - [Why Samsung Phones Are Failing Emergency Calls in Australia](https://hackaday.com/2025/11/19/why-samsung-phones-are-failing-emergency-calls-in-australia/)
 * [2025-11-19, 18:27:36](https://news.ycombinator.com/item?id=45983069) - [Cypherpunks Hall of Fame](https://github.com/cypherpunkshall/cypherpunkshall.github.io)
+* [2025-11-19, 18:16:53](https://news.ycombinator.com/item?id=45982875) - [Broccoli Man, Remastered](https://mbleigh.dev/posts/broccoli-man-remastered/)
 * [2025-11-19, 18:16:51](https://news.ycombinator.com/item?id=45982874) - [Netherlands returns control of Nexperia to Chinese owner](https://www.bloomberg.com/news/articles/2025-11-19/dutch-hand-back-control-of-chinese-owned-chipmaker-nexperia)
 * [2025-11-19, 18:13:18](https://news.ycombinator.com/item?id=45982818) - [To Launch Something New, You Need \"Social Dandelions\"](https://www.actiondigest.com/p/to-launch-something-new-you-need-social-dandelions)
 * [2025-11-19, 18:01:59](https://news.ycombinator.com/item?id=45982649) - [Building more with GPT-5.1-Codex-Max](https://openai.com/index/gpt-5-1-codex-max/)

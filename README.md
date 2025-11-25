@@ -25,9 +25,9 @@
 * [2025-11-21, 17:56:50](https://news.ycombinator.com/item?id=46006891) - [Building the largest known Kubernetes cluster](https://cloud.google.com/blog/products/containers-kubernetes/how-we-built-a-130000-node-gke-cluster/)
 * [2025-11-21, 16:44:45](https://news.ycombinator.com/item?id=46006104) - [Show HN: OCR Arena – A playground for OCR models](https://www.ocrarena.ai/battle)
 * [2025-11-21, 16:23:50](https://news.ycombinator.com/item?id=46005910) - [How did the Win 95 user interface code get brought to the Windows NT code base?](https://devblogs.microsoft.com/oldnewthing/20251028-00/?p=111733)
-* [2025-11-21, 06:57:21](https://news.ycombinator.com/item?id=46001920) - [Show HN: Datamorph – A clean JSON ⇄ CSV converter with auto-detect](https://datamorphio.vercel.app)
 * [2025-11-20, 05:32:13](https://news.ycombinator.com/item?id=45989284) - [Inside Rust's std and parking_lot mutexes – who wins?](https://blog.cuongle.dev/p/inside-rusts-std-and-parking-lot-mutexes-who-win)
 * [2025-11-19, 20:58:50](https://news.ycombinator.com/item?id=45985081) - [Rethinking C++: Architecture, Concepts, and Responsibility](https://blogs.embarcadero.com/rethinking-c-architecture-concepts-and-responsibility/)
+* [2025-11-19, 18:16:53](https://news.ycombinator.com/item?id=45982875) - [Broccoli Man, Remastered](https://mbleigh.dev/posts/broccoli-man-remastered/)
 * [2025-11-19, 16:10:18](https://news.ycombinator.com/item?id=45981281) - [Dumb Ways to Die: Printed Ephemera](https://ilovetypography.com/2025/11/19/dumb-ways-to-die-printed-ephemera/)
 * [2025-11-19, 15:07:35](https://news.ycombinator.com/item?id=45980474) - [Moving from OpenBSD to FreeBSD for firewalls](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/OpenBSDToFreeBSDMove)
 
