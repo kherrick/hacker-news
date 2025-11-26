@@ -129,6 +129,122 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
+        <section id="46053566">
+          <h3>
+            <a
+              class="item"
+              href="https://alienseries.wordpress.com/2012/10/23/space-truckin-the-nostromo/"
+              >Space Truckin' – The Nostromo (2012)</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2025-11-26 @ 02:31:41</span
+              ><span class="points-container"
+                >Points: <span class="points">19</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=46053566"
+                  >Comments</a
+                ><span class="descendants">: 4</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="46053385">
+          <h3>
+            <a
+              class="item"
+              href="https://wordpress.org/plugins/bandwidth-saver/"
+              >Show HN: A WordPress plugin that rewrites image URLs for
+              near-zero-cost delivery</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2025-11-26 @ 02:05:36</span
+              ><span class="points-container"
+                >Points: <span class="points">18</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=46053385"
+                  >Comments</a
+                ><span class="descendants">: 3</span></span
+              >
+            </h4>
+            <div class="text">
+              <p>
+                I built a WordPress plugin called Bandwidth Saver. It takes the
+                images your site already has and serves them through Cloudflare
+                R2 and Workers, which means zero egress fees and extremely low
+                storage cost. The goal is to make image delivery fast and cheap
+                without adding any of the complexity of traditional optimization
+                plugins.
+              </p>
+              <p>
+                The idea is simple. WordPress keeps generating images normally.
+                The plugin rewrites the URLs on the frontend so images are
+                served from a Cloudflare Worker. On the first request, the
+                Worker fetches the original image and stores it in R2. After
+                that, Cloudflare’s edge serves the image from its global cache
+                with no egress charges. There’s no need to preload or sync
+                anything, and if something fails, the original image loads.
+                That’s the entire system.
+              </p>
+              <p>
+                I built this because most image CDN plugins try to do
+                everything: compression, resizing, AI transforms, asset
+                management, custom dashboards, and monthly fees. That’s useful
+                for some users, but it’s unnecessary for most sites that just
+                want their existing media to load faster without breaking the
+                bank. Bandwidth Saver focuses only on delivery, not
+                transformations. It’s intentionally minimal.
+              </p>
+              <p>
+                There are two ways to use it. The plugin is completely free if
+                you want to run your own Cloudflare Worker. I included the
+                Worker code and the steps needed to deploy it. If you don’t want
+                to deal with any Cloudflare setup, there’s a managed option for
+                $2.99 per month that uses my Worker and my R2 bucket. I’m trying
+                to keep it accessible while also covering operational costs.
+              </p>
+              <p>
+                The plugin works with any theme or builder and doesn’t modify
+                the database. It only rewrites URLs on output. WordPress remains
+                the system of record for all media. R2 simply becomes a cheap,
+                durable cache layer backed by Cloudflare’s edge.
+              </p>
+              <p>
+                I’m especially interested in feedback about the approach. Does
+                the fetch-on-first-request model make sense? Is the pricing fair
+                for a plugin of this scope? Should I prioritize allowing users
+                to connect their own R2 buckets or the managed service? And for
+                those with experience in edge compute or CDNs, I would love
+                thoughts on how to improve the Worker or the rewrite strategy.
+              </p>
+              <p>Thanks for reading, happy to answer any questions.</p>
+            </div>
+          </section>
+        </section>
+        <section id="46053017">
+          <h3>
+            <a
+              class="item"
+              href="https://catacombs.space1999.net/main/pguide/upsfx.html"
+              >Space: 1999 – Special Effects Techniques</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2025-11-26 @ 01:19:17</span
+              ><span class="points-container"
+                >Points: <span class="points">15</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=46053017"
+                  >Comments</a
+                ><span class="descendants">: 2</span></span
+              >
+            </h4>
+          </section>
+        </section>
         <section id="46052685">
           <h3>
             <a class="item" href="https://web.stanford.edu/class/cs234/"
@@ -139,72 +255,11 @@
             <h4>
               <span>2025-11-26 @ 00:33:29</span
               ><span class="points-container"
-                >Points: <span class="points">28</span></span
+                >Points: <span class="points">36</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46052685"
                   >Comments</a
-                ><span class="descendants">: 2</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="46052672">
-          <h3>
-            <a class="item" href="https://www.joshwcomeau.com/css/subgrid/"
-              >Brand New Layouts with CSS Subgrid</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2025-11-26 @ 00:31:46</span
-              ><span class="points-container"
-                >Points: <span class="points">18</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=46052672"
-                  >Comments</a
-                ><span class="descendants">: 1</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="46052667">
-          <h3>
-            <a
-              class="item"
-              href="https://brooker.co.za/blog/2025/11/20/what-now"
-              >What Now? Handling Errors in Large Systems</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2025-11-26 @ 00:31:26</span
-              ><span class="points-container"
-                >Points: <span class="points">10</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=46052667"
-                  >Comments</a
-                ><span class="descendants">: 0</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="46052527">
-          <h3>
-            <a
-              class="item"
-              href="https://www.businessinsider.com/gruesome-tech-jobs-data-scientists-analytics-indeed-2025-11"
-              >The gruesome new data on tech jobs</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2025-11-26 @ 00:14:21</span
-              ><span class="points-container"
-                >Points: <span class="points">48</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=46052527"
-                  >Comments</a
-                ><span class="descendants">: 47</span></span
+                ><span class="descendants">: 4</span></span
               >
             </h4>
           </section>
@@ -221,33 +276,11 @@
             <h4>
               <span>2025-11-25 @ 23:28:17</span
               ><span class="points-container"
-                >Points: <span class="points">93</span></span
+                >Points: <span class="points">95</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46052102"
                   >Comments</a
-                ><span class="descendants">: 45</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="46052090">
-          <h3>
-            <a
-              class="item"
-              href="https://blog.trailofbits.com/2025/11/25/constant-time-support-lands-in-llvm-protecting-cryptographic-code-at-the-compiler-level/"
-              >LLVM Adds Constant-Time Support for Protecting Cryptographic
-              Code</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2025-11-25 @ 23:26:38</span
-              ><span class="points-container"
-                >Points: <span class="points">25</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=46052090"
-                  >Comments</a
-                ><span class="descendants">: 4</span></span
+                ><span class="descendants">: 48</span></span
               >
             </h4>
           </section>
@@ -263,11 +296,11 @@
             <h4>
               <span>2025-11-25 @ 22:40:52</span
               ><span class="points-container"
-                >Points: <span class="points">21</span></span
+                >Points: <span class="points">26</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46051724"
                   >Comments</a
-                ><span class="descendants">: 5</span></span
+                ><span class="descendants">: 6</span></span
               >
             </h4>
           </section>
@@ -284,11 +317,11 @@
             <h4>
               <span>2025-11-25 @ 22:37:48</span
               ><span class="points-container"
-                >Points: <span class="points">109</span></span
+                >Points: <span class="points">117</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46051691"
                   >Comments</a
-                ><span class="descendants">: 43</span></span
+                ><span class="descendants">: 48</span></span
               >
             </h4>
           </section>
@@ -296,19 +329,18 @@
         <section id="46051449">
           <h3>
             <a class="item" href="https://www.mikeayles.com/#kidoom"
-              >A DOOM vector engine for rendering in KiCad, and over an audio
-              jack</a
+              >Show HN: KiDoom – Running DOOM on PCB Traces</a
             >
           </h3>
           <section>
             <h4>
               <span>2025-11-25 @ 22:13:35</span
               ><span class="points-container"
-                >Points: <span class="points">90</span></span
+                >Points: <span class="points">108</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46051449"
                   >Comments</a
-                ><span class="descendants">: 11</span></span
+                ><span class="descendants">: 14</span></span
               >
             </h4>
             <div class="text">
@@ -398,40 +430,19 @@
             <a
               class="item"
               href="https://andrej.sh/blog/maintaining-open-source-project/"
-              >What They Don't Tell You About Maintaining an Open Source
-              Project</a
+              >What they don't tell you about maintaining an open source
+              project</a
             >
           </h3>
           <section>
             <h4>
               <span>2025-11-25 @ 22:08:25</span
               ><span class="points-container"
-                >Points: <span class="points">95</span></span
+                >Points: <span class="points">104</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46051393"
                   >Comments</a
-                ><span class="descendants">: 72</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="46051345">
-          <h3>
-            <a
-              class="item"
-              href="https://blog.google/products/google-cloud/ironwood-google-tpu-things-to-know/"
-              >Ironwood, our latest TPU</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2025-11-25 @ 22:04:44</span
-              ><span class="points-container"
-                >Points: <span class="points">50</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=46051345"
-                  >Comments</a
-                ><span class="descendants">: 9</span></span
+                ><span class="descendants">: 75</span></span
               >
             </h4>
           </section>
@@ -449,11 +460,11 @@
             <h4>
               <span>2025-11-25 @ 22:04:31</span
               ><span class="points-container"
-                >Points: <span class="points">347</span></span
+                >Points: <span class="points">384</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46051340"
                   >Comments</a
-                ><span class="descendants">: 261</span></span
+                ><span class="descendants">: 280</span></span
               >
             </h4>
             <div class="text">
@@ -463,28 +474,6 @@
               >
               - April 2025 (694 comments)
             </div>
-          </section>
-        </section>
-        <section id="46051169">
-          <h3>
-            <a
-              class="item"
-              href="https://pluralistic.net/2025/11/25/open-season/"
-              >Google steers Americans looking for health care into "junk
-              insurance"</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2025-11-25 @ 21:45:01</span
-              ><span class="points-container"
-                >Points: <span class="points">95</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=46051169"
-                  >Comments</a
-                ><span class="descendants">: 35</span></span
-              >
-            </h4>
           </section>
         </section>
         <section id="46049932">
@@ -499,11 +488,32 @@
             <h4>
               <span>2025-11-25 @ 19:53:20</span
               ><span class="points-container"
-                >Points: <span class="points">132</span></span
+                >Points: <span class="points">140</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46049932"
                   >Comments</a
-                ><span class="descendants">: 35</span></span
+                ><span class="descendants">: 38</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="46049835">
+          <h3>
+            <a
+              class="item"
+              href="https://tsvibt.blogspot.com/2025/11/the-bughouse-effect.html"
+              >The Bughouse Effect</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2025-11-25 @ 19:43:42</span
+              ><span class="points-container"
+                >Points: <span class="points">10</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=46049835"
+                  >Comments</a
+                ><span class="descendants">: 1</span></span
               >
             </h4>
           </section>
@@ -521,11 +531,11 @@
             <h4>
               <span>2025-11-25 @ 18:31:16</span
               ><span class="points-container"
-                >Points: <span class="points">577</span></span
+                >Points: <span class="points">588</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46048996"
                   >Comments</a
-                ><span class="descendants">: 159</span></span
+                ><span class="descendants">: 161</span></span
               >
             </h4>
           </section>
@@ -541,11 +551,11 @@
             <h4>
               <span>2025-11-25 @ 17:33:50</span
               ><span class="points-container"
-                >Points: <span class="points">235</span></span
+                >Points: <span class="points">243</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46048252"
                   >Comments</a
-                ><span class="descendants">: 146</span></span
+                ><span class="descendants">: 147</span></span
               >
             </h4>
             <div class="text">
@@ -640,11 +650,11 @@
             <h4>
               <span>2025-11-25 @ 17:21:52</span
               ><span class="points-container"
-                >Points: <span class="points">206</span></span
+                >Points: <span class="points">217</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46048125"
                   >Comments</a
-                ><span class="descendants">: 182</span></span
+                ><span class="descendants">: 184</span></span
               >
             </h4>
           </section>
@@ -661,11 +671,11 @@
             <h4>
               <span>2025-11-25 @ 17:07:06</span
               ><span class="points-container"
-                >Points: <span class="points">109</span></span
+                >Points: <span class="points">117</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46047958"
                   >Comments</a
-                ><span class="descendants">: 28</span></span
+                ><span class="descendants">: 30</span></span
               >
             </h4>
           </section>
@@ -682,11 +692,30 @@
             <h4>
               <span>2025-11-25 @ 16:38:57</span
               ><span class="points-container"
-                >Points: <span class="points">147</span></span
+                >Points: <span class="points">151</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46047580"
                   >Comments</a
-                ><span class="descendants">: 157</span></span
+                ><span class="descendants">: 162</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="46047053">
+          <h3>
+            <a class="item" href="https://www.joshwcomeau.com/css/subgrid/"
+              >Brand New Layouts with CSS Subgrid</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2025-11-25 @ 15:57:54</span
+              ><span class="points-container"
+                >Points: <span class="points">60</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=46047053"
+                  >Comments</a
+                ><span class="descendants">: 8</span></span
               >
             </h4>
           </section>
@@ -701,11 +730,11 @@
             <h4>
               <span>2025-11-25 @ 15:47:14</span
               ><span class="points-container"
-                >Points: <span class="points">249</span></span
+                >Points: <span class="points">251</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46046916"
                   >Comments</a
-                ><span class="descendants">: 76</span></span
+                ><span class="descendants">: 78</span></span
               >
             </h4>
           </section>
@@ -720,11 +749,11 @@
             <h4>
               <span>2025-11-25 @ 14:20:30</span
               ><span class="points-container"
-                >Points: <span class="points">170</span></span
+                >Points: <span class="points">171</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46045987"
                   >Comments</a
-                ><span class="descendants">: 126</span></span
+                ><span class="descendants">: 127</span></span
               >
             </h4>
             <div class="text">
@@ -872,11 +901,11 @@
             <h4>
               <span>2025-11-25 @ 13:02:06</span
               ><span class="points-container"
-                >Points: <span class="points">49</span></span
+                >Points: <span class="points">54</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46045385"
                   >Comments</a
-                ><span class="descendants">: 20</span></span
+                ><span class="descendants">: 21</span></span
               >
             </h4>
             <div class="text">
@@ -896,11 +925,11 @@
             <h4>
               <span>2025-11-25 @ 12:14:11</span
               ><span class="points-container"
-                >Points: <span class="points">327</span></span
+                >Points: <span class="points">346</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46045085"
                   >Comments</a
-                ><span class="descendants">: 294</span></span
+                ><span class="descendants">: 304</span></span
               >
             </h4>
           </section>
@@ -917,11 +946,11 @@
             <h4>
               <span>2025-11-25 @ 06:09:05</span
               ><span class="points-container"
-                >Points: <span class="points">265</span></span
+                >Points: <span class="points">272</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46042810"
                   >Comments</a
-                ><span class="descendants">: 171</span></span
+                ><span class="descendants">: 178</span></span
               >
             </h4>
           </section>
@@ -938,11 +967,11 @@
             <h4>
               <span>2025-11-24 @ 22:17:40</span
               ><span class="points-container"
-                >Points: <span class="points">28</span></span
+                >Points: <span class="points">31</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46040053"
                   >Comments</a
-                ><span class="descendants">: 14</span></span
+                ><span class="descendants">: 15</span></span
               >
             </h4>
           </section>
@@ -959,11 +988,32 @@
             <h4>
               <span>2025-11-23 @ 23:42:22</span
               ><span class="points-container"
-                >Points: <span class="points">49</span></span
+                >Points: <span class="points">60</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46028548"
                   >Comments</a
-                ><span class="descendants">: 53</span></span
+                ><span class="descendants">: 65</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="46021577">
+          <h3>
+            <a
+              class="item"
+              href="https://kristofferbalintona.me/posts/202505291438/"
+              >Surprisingly, Emacs on Android is pretty good</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2025-11-23 @ 07:40:26</span
+              ><span class="points-container"
+                >Points: <span class="points">45</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=46021577"
+                  >Comments</a
+                ><span class="descendants">: 8</span></span
               >
             </h4>
           </section>
@@ -980,11 +1030,11 @@
             <h4>
               <span>2025-11-23 @ 03:38:22</span
               ><span class="points-container"
-                >Points: <span class="points">17</span></span
+                >Points: <span class="points">23</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46020564"
                   >Comments</a
-                ><span class="descendants">: 7</span></span
+                ><span class="descendants">: 10</span></span
               >
             </h4>
           </section>
@@ -999,7 +1049,7 @@
             <h4>
               <span>2025-11-22 @ 18:16:59</span
               ><span class="points-container"
-                >Points: <span class="points">182</span></span
+                >Points: <span class="points">185</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46016902"
                   >Comments</a
@@ -1024,32 +1074,30 @@
             <h4>
               <span>2025-11-21 @ 13:42:33</span
               ><span class="points-container"
-                >Points: <span class="points">69</span></span
+                >Points: <span class="points">71</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46004519"
                   >Comments</a
-                ><span class="descendants">: 28</span></span
+                ><span class="descendants">: 31</span></span
               >
             </h4>
           </section>
         </section>
-        <section id="46003271">
+        <section id="45989947">
           <h3>
-            <a
-              class="item"
-              href="https://lcamtuf.substack.com/p/the-101-of-analog-signal-filtering"
-              >The 101 of analog signal filtering (2024)</a
+            <a class="item" href="https://www.eastgate.com/MS/Title_184.html"
+              >Marble Springs (1993)</a
             >
           </h3>
           <section>
             <h4>
-              <span>2025-11-21 @ 10:54:15</span
+              <span>2025-11-20 @ 07:33:38</span
               ><span class="points-container"
-                >Points: <span class="points">128</span></span
+                >Points: <span class="points">8</span></span
               ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=46003271"
+                ><a href="https://news.ycombinator.com/item?id=45989947"
                   >Comments</a
-                ><span class="descendants">: 10</span></span
+                ><span class="descendants">: 0</span></span
               >
             </h4>
           </section>
