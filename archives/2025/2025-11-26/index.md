@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-11-26](index.md)
 
+* [2025-11-26, 19:23:40](https://news.ycombinator.com/item?id=46061362) - [Widespread service disruptions reported as major platforms go down worldwide](https://www.ynetnews.com/tech-and-digital/article/bky0aavb11g)
 * [2025-11-26, 19:12:26](https://news.ycombinator.com/item?id=46061232) - [API that auto-routes to the cheapest AI provider (OpenAI/Anthropic/Gemini)](https://tokensaver.org/)
 * [2025-11-26, 18:45:43](https://news.ycombinator.com/item?id=46060935) - [China Has Three Reusable Rockets Ready for Their Debut Flights](https://www.china-in-space.com/p/china-has-three-reusable-rockets)
 * [2025-11-26, 18:08:02](https://news.ycombinator.com/item?id=46060508) - [Gemini CLI Tips and Tricks for Agentic Coding](https://github.com/addyosmani/gemini-cli-tips)

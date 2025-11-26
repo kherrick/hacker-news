@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-11-26, 19:23:40](https://news.ycombinator.com/item?id=46061362) - [Widespread service disruptions reported as major platforms go down worldwide](https://www.ynetnews.com/tech-and-digital/article/bky0aavb11g)
 * [2025-11-26, 19:12:26](https://news.ycombinator.com/item?id=46061232) - [API that auto-routes to the cheapest AI provider (OpenAI/Anthropic/Gemini)](https://tokensaver.org/)
 * [2025-11-26, 18:45:43](https://news.ycombinator.com/item?id=46060935) - [China Has Three Reusable Rockets Ready for Their Debut Flights](https://www.china-in-space.com/p/china-has-three-reusable-rockets)
 * [2025-11-26, 18:08:02](https://news.ycombinator.com/item?id=46060508) - [Gemini CLI Tips and Tricks for Agentic Coding](https://github.com/addyosmani/gemini-cli-tips)
@@ -10,7 +11,6 @@
 * [2025-11-26, 15:49:11](https://news.ycombinator.com/item?id=46058600) - [From blood sugar to brain relief: GLP-1 therapy slashes migraine frequency](https://www.medlink.com/news/from-blood-sugar-to-brain-relief-glp-1-therapy-slashes-migraine-frequency)
 * [2025-11-26, 15:06:37](https://news.ycombinator.com/item?id=46058065) - [OpenAI needs to raise at least $207B by 2030](https://ft.com/content/23e54a28-6f63-4533-ab96-3756d9c88bad)
 * [2025-11-26, 14:02:46](https://news.ycombinator.com/item?id=46057488) - [Voyager 1 Is About to Reach One Light-Day from Earth](https://scienceclock.com/voyager-1-is-about-to-reach-one-light-day-from-earth/)
-* [2025-11-26, 13:40:04](https://news.ycombinator.com/item?id=46057304) - [I DM'd a Korean presidential candidate and ended up building his core campaign](https://medium.com/@wjsdj2008/i-dmd-a-korean-presidential-candidate-and-ended-up-building-his-core-campaign-platform-the-38eb1c5f5e7d)
 * [2025-11-26, 12:26:49](https://news.ycombinator.com/item?id=46056757) - [Qiskit open-source SDK for working with quantum computers](https://github.com/Qiskit/qiskit)
 * [2025-11-26, 10:06:41](https://news.ycombinator.com/item?id=46055935) - [A cell so minimal that it challenges definitions of life](https://www.quantamagazine.org/a-cell-so-minimal-that-it-challenges-definitions-of-life-20251124/)
 * [2025-11-26, 08:40:29](https://news.ycombinator.com/item?id=46055421) - [Statistical Process Control in Python](https://timothyfraser.com/sigma/statistical-process-control-in-python.html)
