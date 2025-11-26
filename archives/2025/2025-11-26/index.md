@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-11-26](index.md)
 
+* [2025-11-26, 14:02:46](https://news.ycombinator.com/item?id=46057488) - [Voyager 1 Is About to Reach One Light-Day from Earth](https://scienceclock.com/voyager-1-is-about-to-reach-one-light-day-from-earth/)
 * [2025-11-26, 13:40:04](https://news.ycombinator.com/item?id=46057304) - [I DM'd a Korean Presidential Candidate – and Ended Up Building His Core Campaign](https://medium.com/@wjsdj2008/i-dmd-a-korean-presidential-candidate-and-ended-up-building-his-core-campaign-platform-the-38eb1c5f5e7d)
 * [2025-11-26, 13:05:33](https://news.ycombinator.com/item?id=46057000) - [Indie game developers have a new sales pitch: being 'AI free'](https://www.theverge.com/entertainment/827650/indie-developers-gen-ai-nexon-arc-raiders)
 * [2025-11-26, 12:28:30](https://news.ycombinator.com/item?id=46056763) - [Kagi Hub Belgrade](https://blog.kagi.com/kagi-hub)
