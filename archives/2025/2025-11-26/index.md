@@ -4,10 +4,12 @@
 
 ### [Archives](../../index.md) for [2025-11-26](index.md)
 
+* [2025-11-26, 17:57:13](https://news.ycombinator.com/item?id=46060357) - [Investors expect AI use to soar. That's not happening](https://www.economist.com/finance-and-economics/2025/11/26/investors-expect-ai-use-to-soar-thats-not-happening)
 * [2025-11-26, 17:40:16](https://news.ycombinator.com/item?id=46060122) - [Scaleway turns Mac minis into high‑density, Raspberry Pi–managed servers](https://www.scaleway.com/en/blog/how-we-turn-apples-mac-mini-into-high-performance-dedicated-servers/)
 * [2025-11-26, 17:13:44](https://news.ycombinator.com/item?id=46059765) - [GrapheneOS is leaving France after receiving threats from law enforcement](https://grapheneos.social/@GrapheneOS/115606319562587450)
 * [2025-11-26, 17:12:01](https://news.ycombinator.com/item?id=46059737) - [DRAM prices are spiking, but I don't trust the industry's why](https://www.xda-developers.com/dram-prices-spiking-dont-trust-industry-reasons/)
 * [2025-11-26, 17:03:21](https://news.ycombinator.com/item?id=46059620) - [Optery (YC W22) Hiring CISO, Release Manager, Tech Lead (Node), Full Stack Eng](https://www.optery.com/careers/)
+* [2025-11-26, 17:00:23](https://news.ycombinator.com/item?id=46059582) - [A Vibe Coded SaaS Killed My Team](https://cendyne.dev/posts/2025-11-26-a-vibe-coded-saas-killed-my-team.html)
 * [2025-11-26, 16:34:58](https://news.ycombinator.com/item?id=46059227) - [Cloudflare outage should not have happened](https://ebellani.github.io/blog/2025/cloudflare-outage-should-not-have-happened-and-they-seem-to-be-missing-the-point-on-how-to-avoid-it-in-the-future/)
 * [2025-11-26, 16:24:29](https://news.ycombinator.com/item?id=46059069) - [Slop Detective – Fight the Slop Syndicate](https://slopdetective.kagi.com/)
 * [2025-11-26, 16:12:51](https://news.ycombinator.com/item?id=46058912) - [Slashdot Effect](https://en.wikipedia.org/wiki/Slashdot_effect)
