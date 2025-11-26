@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-11-26, 17:57:13](https://news.ycombinator.com/item?id=46060357) - [Investors expect AI use to soar. That's not happening](https://www.economist.com/finance-and-economics/2025/11/26/investors-expect-ai-use-to-soar-thats-not-happening)
-* [2025-11-26, 17:40:16](https://news.ycombinator.com/item?id=46060122) - [Scaleway turns Mac minis into high‑density, Raspberry Pi–managed servers](https://www.scaleway.com/en/blog/how-we-turn-apples-mac-mini-into-high-performance-dedicated-servers/)
+* [2025-11-26, 17:40:16](https://news.ycombinator.com/item?id=46060122) - [Scaleway turns Mac Minis into high‑density, Raspberry Pi–managed servers](https://www.scaleway.com/en/blog/how-we-turn-apples-mac-mini-into-high-performance-dedicated-servers/)
 * [2025-11-26, 17:12:01](https://news.ycombinator.com/item?id=46059737) - [DRAM prices are spiking, but I don't trust the industry's why](https://www.xda-developers.com/dram-prices-spiking-dont-trust-industry-reasons/)
 * [2025-11-26, 17:03:21](https://news.ycombinator.com/item?id=46059620) - [Optery (YC W22) Hiring CISO, Release Manager, Tech Lead (Node), Full Stack Eng](https://www.optery.com/careers/)
 * [2025-11-26, 17:00:23](https://news.ycombinator.com/item?id=46059582) - [A Vibe Coded SaaS Killed My Team](https://cendyne.dev/posts/2025-11-26-a-vibe-coded-saas-killed-my-team.html)
