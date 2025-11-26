@@ -43,6 +43,7 @@
 * [2025-11-21, 16:33:28](https://news.ycombinator.com/item?id=46006004) - [Command Lines – AI Coding's Control Spectrum](https://www.wreflection.com/p/command-lines-ai-coding)
 * [2025-11-21, 16:25:48](https://news.ycombinator.com/item?id=46005928) - [The New AI Consciousness Paper – By Scott Alexander](https://www.astralcodexten.com/p/the-new-ai-consciousness-paper)
 * [2025-11-21, 16:23:50](https://news.ycombinator.com/item?id=46005910) - [How did the Windows 95 user interface code get brought to the Windows NT?](https://devblogs.microsoft.com/oldnewthing/20251028-00/?p=111733)
+* [2025-11-21, 15:47:20](https://news.ycombinator.com/item?id=46005581) - [Is DWPD Still a Useful SSD Spec?](https://klarasystems.com/articles/is-dwpd-still-useful-ssd-spec/)
 * [2025-11-21, 15:44:16](https://news.ycombinator.com/item?id=46005553) - [Arduino published updated terms and conditions: no longer an open commons](https://www.molecularist.com/2025/11/did-qualcomm-kill-arduino-for-good.html)
 * [2025-11-21, 15:23:20](https://news.ycombinator.com/item?id=46005388) - [Make product worse, get money](https://dynomight.net/worse/)
 * [2025-11-21, 15:18:05](https://news.ycombinator.com/item?id=46005349) - [XBMC 4.0 for the Original Xbox](https://www.xbox-scene.info/articles/announcing-xbmc-40-for-the-original-xbox-r64/)
