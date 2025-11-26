@@ -14,6 +14,7 @@
 * [2025-11-20, 21:30:02](https://news.ycombinator.com/item?id=45998013) - [ArkA – A minimal open video protocol (first MVP demo)](https://baconpantsuppercut.github.io/arkA/)
 * [2025-11-20, 21:21:08](https://news.ycombinator.com/item?id=45997914) - [New Glenn Update – Blue Origin](https://www.blueorigin.com/news/new-glenn-upgraded-engines-subcooled-components-drive-enhanced-performance)
 * [2025-11-20, 21:05:12](https://news.ycombinator.com/item?id=45997722) - [Run Docker containers natively in Proxmox 9.1 (OCI images)](https://raymii.org/s/tutorials/Finally_run_Docker_containers_natively_in_Proxmox_9.1.html)
+* [2025-11-20, 20:49:43](https://news.ycombinator.com/item?id=45997514) - [Microsoft makes Zork I, II, and III open source under MIT License](https://arstechnica.com/gaming/2025/11/microsoft-makes-zork-i-ii-and-iii-open-source-under-mit-license/)
 * [2025-11-20, 20:30:15](https://news.ycombinator.com/item?id=45997294) - [Introducing Kagi Assistants](https://blog.kagi.com/kagi-assistants)
 * [2025-11-20, 20:24:42](https://news.ycombinator.com/item?id=45997212) - [New OS aims to provide (some) compatibility with macOS](https://github.com/ravynsoft/ravynos)
 * [2025-11-20, 20:15:56](https://news.ycombinator.com/item?id=45997099) - [We are replacing OOP with something worse](https://blog.jsbarretto.com/post/actors)
