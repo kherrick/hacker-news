@@ -1,11 +1,31 @@
 [
   [
     [
+      "2025-11-26, 22:57:56",
+      "https://news.ycombinator.com/item?id=46063272"
+    ],
+    [
+      "Running Unsupported iOS on Deprecated Devices",
+      "https://nyansatan.github.io/run-unsupported-ios/"
+    ]
+  ],
+  [
+    [
+      "2025-11-26, 22:26:36",
+      "https://news.ycombinator.com/item?id=46063072"
+    ],
+    [
+      "Bring Back Doors – Bring Bathroom Doors Back to Hotels",
+      "https://bringbackdoors.com/"
+    ]
+  ],
+  [
+    [
       "2025-11-26, 21:52:14",
       "https://news.ycombinator.com/item?id=46062777"
     ],
     [
-      "EU approves Chat Control policy",
+      "EU Council approves Chat Control mandate for negotiation with Parliament",
       "https://www.techradar.com/vpn/vpn-privacy-security/chat-control-eu-lawmakers-finally-agree-on-the-voluntary-scanning-of-your-private-chats"
     ]
   ],
@@ -131,16 +151,6 @@
   ],
   [
     [
-      "2025-11-26, 15:06:37",
-      "https://news.ycombinator.com/item?id=46058065"
-    ],
-    [
-      "OpenAI needs to raise at least $207B by 2030",
-      "https://ft.com/content/23e54a28-6f63-4533-ab96-3756d9c88bad"
-    ]
-  ],
-  [
-    [
       "2025-11-26, 15:03:09",
       "https://news.ycombinator.com/item?id=46058033"
     ],
@@ -191,42 +201,12 @@
   ],
   [
     [
-      "2025-11-26, 00:33:29",
-      "https://news.ycombinator.com/item?id=46052685"
-    ],
-    [
-      "CS234: Reinforcement Learning Winter 2025",
-      "https://web.stanford.edu/class/cs234/"
-    ]
-  ],
-  [
-    [
       "2025-11-25, 22:13:35",
       "https://news.ycombinator.com/item?id=46051449"
     ],
     [
       "Show HN: KiDoom – Running DOOM on PCB Traces",
       "https://www.mikeayles.com/#kidoom"
-    ]
-  ],
-  [
-    [
-      "2025-11-25, 19:53:20",
-      "https://news.ycombinator.com/item?id=46049932"
-    ],
-    [
-      "A new bridge links the math of infinity to computer science",
-      "https://www.quantamagazine.org/a-new-bridge-links-the-strange-math-of-infinity-to-computer-science-20251121/"
-    ]
-  ],
-  [
-    [
-      "2025-11-25, 17:33:50",
-      "https://news.ycombinator.com/item?id=46048252"
-    ],
-    [
-      "Show HN: We built an open source, zero webhooks payment processor",
-      "https://github.com/flowglad/flowglad"
     ]
   ],
   [
@@ -241,12 +221,32 @@
   ],
   [
     [
+      "2025-11-24, 14:02:04",
+      "https://news.ycombinator.com/item?id=46034189"
+    ],
+    [
+      "Show HN: Yolodex – real-time customer enrichment API",
+      "https://api.yolodex.ai"
+    ]
+  ],
+  [
+    [
       "2025-11-23, 22:14:14",
       "https://news.ycombinator.com/item?id=46027878"
     ],
     [
       "Show HN: Safe-NPM – only install packages that are +90 days old",
       "https://github.com/kevinslin/safe-npm"
+    ]
+  ],
+  [
+    [
+      "2025-11-23, 17:17:19",
+      "https://news.ycombinator.com/item?id=46025223"
+    ],
+    [
+      "JOPA: Java compiler in C++, Jikes modernized to Java 6 with Claude",
+      "https://github.com/7mind/jopa"
     ]
   ],
   [
