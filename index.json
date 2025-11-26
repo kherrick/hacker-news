@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-11-26, 15:44:09",
+      "https://news.ycombinator.com/item?id=46058531"
+    ],
+    [
+      "KDE Plasma 6.8 Will Go Wayland-Exclusive in Dropping X11 Session Support",
+      "https://www.phoronix.com/news/KDE-Plasma-68-Wayland-Exclusive"
+    ]
+  ],
+  [
+    [
+      "2025-11-26, 15:32:06",
+      "https://news.ycombinator.com/item?id=46058361"
+    ],
+    [
+      "MIT study finds AI can replace 11.7% of U.S. workforce",
+      "https://www.cnbc.com/2025/11/26/mit-study-finds-ai-can-already-replace-11point7percent-of-us-workforce.html"
+    ]
+  ],
+  [
+    [
       "2025-11-26, 15:06:37",
       "https://news.ycombinator.com/item?id=46058065"
     ],
@@ -251,22 +271,12 @@
   ],
   [
     [
-      "2025-11-22, 17:44:12",
-      "https://news.ycombinator.com/item?id=46016579"
+      "2025-11-22, 17:11:52",
+      "https://news.ycombinator.com/item?id=46016288"
     ],
     [
-      "Java Decompiler",
-      "http://java-decompiler.github.io"
-    ]
-  ],
-  [
-    [
-      "2025-11-21, 16:55:14",
-      "https://news.ycombinator.com/item?id=46006211"
-    ],
-    [
-      "Largest-Triangle-Three-Buckets and the Fourier Transform (2024)",
-      "https://daniel.mitterdorfer.name/posts/2024-01-30-downsampling-lttb-and-fft/"
+      "Show HN: I turned algae into a bio-altimeter and put it on a weather balloon",
+      "https://radi8.dev/blog/stratospore/"
     ]
   ],
   [
@@ -277,16 +287,6 @@
     [
       "Is DWPD Still a Useful SSD Spec?",
       "https://klarasystems.com/articles/is-dwpd-still-useful-ssd-spec/"
-    ]
-  ],
-  [
-    [
-      "2025-11-20, 19:18:43",
-      "https://news.ycombinator.com/item?id=45996495"
-    ],
-    [
-      "RunC Container Escape: What Docker and Kubernetes Users Need to Know",
-      "https://www.minimus.io/post/new-vulnerabilities-in-runc-allow-container-escape-what-docker-and-kubernetes-users-need-to-know"
     ]
   ],
   [
