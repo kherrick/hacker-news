@@ -1,11 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-11-26, 06:27:41](https://news.ycombinator.com/item?id=46054713) - [ICE Arrests the Press](https://petapixel.com/2025/11/24/photojournalist-arrested-covering-ice-protest-as-authorities-impound-his-camera-gear/)
+* [2025-11-26, 06:57:04](https://news.ycombinator.com/item?id=46054854) - ['Once in 300 years' rain hits Thai city as floods ravage South East Asia](https://www.bbc.com/news/articles/ckg97wx144jo)
 * [2025-11-26, 02:31:41](https://news.ycombinator.com/item?id=46053566) - [Space Truckin' – The Nostromo (2012)](https://alienseries.wordpress.com/2012/10/23/space-truckin-the-nostromo/)
 * [2025-11-26, 02:05:36](https://news.ycombinator.com/item?id=46053385) - [Show HN: A WordPress plugin that rewrites image URLs for near-zero-cost delivery](https://wordpress.org/plugins/bandwidth-saver/)
 * [2025-11-26, 01:51:26](https://news.ycombinator.com/item?id=46053262) - [BebboSSH: SSH2 implementation for Amiga systems (68000, GPLv3)](https://franke.ms/git/bebbo/bebbossh)
 * [2025-11-26, 01:19:17](https://news.ycombinator.com/item?id=46053017) - [Space: 1999 – Special Effects Techniques](https://catacombs.space1999.net/main/pguide/upsfx.html)
 * [2025-11-26, 00:33:29](https://news.ycombinator.com/item?id=46052685) - [CS234: Reinforcement Learning Winter 2025](https://web.stanford.edu/class/cs234/)
+* [2025-11-25, 22:40:52](https://news.ycombinator.com/item?id=46051724) - [Notes on the Troubleshooting and Repair of Computer and Video Monitors](https://www.repairfaq.org/sam/monfaq.htm)
 * [2025-11-25, 22:37:48](https://news.ycombinator.com/item?id=46051691) - [Reinventing how .NET builds and ships (again)](https://devblogs.microsoft.com/dotnet/reinventing-how-dotnet-builds-and-ships-again/)
 * [2025-11-25, 22:13:35](https://news.ycombinator.com/item?id=46051449) - [Show HN: KiDoom – Running DOOM on PCB Traces](https://www.mikeayles.com/#kidoom)
 * [2025-11-25, 22:04:31](https://news.ycombinator.com/item?id=46051340) - [Someone at YouTube Needs Glasses: The Prophecy Has Been Fulfilled](https://jayd.ml/2025/11/10/someone-at-youtube-needs-glasses-prophecy-fulfilled.html)
@@ -27,7 +28,6 @@
 * [2025-11-23, 07:40:26](https://news.ycombinator.com/item?id=46021577) - [Surprisingly, Emacs on Android is pretty good](https://kristofferbalintona.me/posts/202505291438/)
 * [2025-11-22, 18:16:59](https://news.ycombinator.com/item?id=46016902) - [How to repurpose your old phone into a web server](https://far.computer/how-to/)
 * [2025-11-22, 17:44:12](https://news.ycombinator.com/item?id=46016579) - [Java Decompiler](http://java-decompiler.github.io)
-* [2025-11-20, 16:17:09](https://news.ycombinator.com/item?id=45994277) - [First Air-Breathing Spacecraft](https://rdw.com/newsroom/redwire-awarded-44-million-darpa-contract-to-advance-very-low-earth-orbit-mission/)
 * [2025-11-20, 07:33:38](https://news.ycombinator.com/item?id=45989947) - [Marble Springs (1993)](https://www.eastgate.com/MS/Title_184.html)
 * [2025-11-19, 20:44:16](https://news.ycombinator.com/item?id=45984864) - [Copyparty, the FOSS file server [video]](https://www.youtube.com/watch?v=15_-hgsX2V0)
 
