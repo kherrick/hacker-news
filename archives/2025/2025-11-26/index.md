@@ -4,11 +4,14 @@
 
 ### [Archives](../../index.md) for [2025-11-26](index.md)
 
+* [2025-11-26, 21:25:36](https://news.ycombinator.com/item?id=46062504) - [The EU made Apple adopt new Wi-Fi standards, and now Android can support AirDrop](https://arstechnica.com/gadgets/2025/11/the-eu-made-apple-adopt-new-wi-fi-standards-and-now-android-can-support-airdrop/)
 * [2025-11-26, 20:53:45](https://news.ycombinator.com/item?id=46062198) - [Why 90s Movies Feel More Alive Than Anything on Netflix](https://afranca.com.br/why-90s-movies-feel-more-alive-than-anything-on-netflix)
 * [2025-11-26, 20:14:17](https://news.ycombinator.com/item?id=46061840) - [Crews Claim Boring Company Failed to Pay Workers and Snubbed OSHA Concerns](https://nashvillebanner.com/2025/11/25/boring-company-nashville-shane-trucking-and-excavating/)
 * [2025-11-26, 20:01:41](https://news.ycombinator.com/item?id=46061714) - [The most male and female reasons to end up hospital](https://leobenedictus.substack.com/p/the-most-male-and-female-reasons)
 * [2025-11-26, 19:58:27](https://news.ycombinator.com/item?id=46061682) - [S&box is now an open source game engine](https://sbox.game/news/update-25-11-26)
+* [2025-11-26, 19:51:52](https://news.ycombinator.com/item?id=46061623) - [Don't Download Apps](https://blog.calebjay.com/posts/dont-download-apps/)
 * [2025-11-26, 19:23:40](https://news.ycombinator.com/item?id=46061362) - [Widespread service disruptions reported as major platforms go down worldwide](https://www.ynetnews.com/tech-and-digital/article/bky0aavb11g)
+* [2025-11-26, 19:12:40](https://news.ycombinator.com/item?id=46061239) - [Alan.app – Add a Border to macOS Active Window](https://tyler.io/2025/11/alan/)
 * [2025-11-26, 19:12:26](https://news.ycombinator.com/item?id=46061232) - [API that auto-routes to the cheapest AI provider (OpenAI/Anthropic/Gemini)](https://tokensaver.org/)
 * [2025-11-26, 18:45:43](https://news.ycombinator.com/item?id=46060935) - [China Has Three Reusable Rockets Ready for Their Debut Flights](https://www.china-in-space.com/p/china-has-three-reusable-rockets)
 * [2025-11-26, 18:08:02](https://news.ycombinator.com/item?id=46060508) - [Gemini CLI Tips and Tricks for Agentic Coding](https://github.com/addyosmani/gemini-cli-tips)
