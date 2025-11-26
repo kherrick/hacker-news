@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-11-26, 15:44:09](https://news.ycombinator.com/item?id=46058531) - [KDE Plasma 6.8 Will Go Wayland-Exclusive in Dropping X11 Session Support](https://www.phoronix.com/news/KDE-Plasma-68-Wayland-Exclusive)
+* [2025-11-26, 15:32:06](https://news.ycombinator.com/item?id=46058361) - [MIT study finds AI can replace 11.7% of U.S. workforce](https://www.cnbc.com/2025/11/26/mit-study-finds-ai-can-already-replace-11point7percent-of-us-workforce.html)
 * [2025-11-26, 15:06:37](https://news.ycombinator.com/item?id=46058065) - [OpenAI needs to raise at least $207B by 2030 so it can continue to lose money](https://ft.com/content/23e54a28-6f63-4533-ab96-3756d9c88bad)
 * [2025-11-26, 14:46:05](https://news.ycombinator.com/item?id=46057852) - [Justice dept. requires Realpage end sharing competitively sensitive information](https://www.justice.gov/opa/pr/justice-department-requires-realpage-end-sharing-competitively-sensitive-information-and)
 * [2025-11-26, 14:21:40](https://news.ycombinator.com/item?id=46057628) - [There may not be a safe off-ramp for some taking GLP-1 drugs, study suggests](https://arstechnica.com/health/2025/11/glp-1-drugs-improve-heart-health-but-only-if-you-keep-taking-them/)
@@ -25,10 +27,8 @@
 * [2025-11-23, 07:40:26](https://news.ycombinator.com/item?id=46021577) - [Surprisingly, Emacs on Android is pretty good](https://kristofferbalintona.me/posts/202505291438/)
 * [2025-11-22, 20:05:38](https://news.ycombinator.com/item?id=46017797) - [After 15 years, I use Outlook as my build pipeline](https://iwriteaboutcode.blogspot.com/2025/11/after-15-years-i-have-finally-reached.html)
 * [2025-11-22, 18:16:59](https://news.ycombinator.com/item?id=46016902) - [How to repurpose your old phone into a web server](https://far.computer/how-to/)
-* [2025-11-22, 17:44:12](https://news.ycombinator.com/item?id=46016579) - [Java Decompiler](http://java-decompiler.github.io)
-* [2025-11-21, 16:55:14](https://news.ycombinator.com/item?id=46006211) - [Largest-Triangle-Three-Buckets and the Fourier Transform (2024)](https://daniel.mitterdorfer.name/posts/2024-01-30-downsampling-lttb-and-fft/)
+* [2025-11-22, 17:11:52](https://news.ycombinator.com/item?id=46016288) - [Show HN: I turned algae into a bio-altimeter and put it on a weather balloon](https://radi8.dev/blog/stratospore/)
 * [2025-11-21, 15:47:20](https://news.ycombinator.com/item?id=46005581) - [Is DWPD Still a Useful SSD Spec?](https://klarasystems.com/articles/is-dwpd-still-useful-ssd-spec/)
-* [2025-11-20, 19:18:43](https://news.ycombinator.com/item?id=45996495) - [RunC Container Escape: What Docker and Kubernetes Users Need to Know](https://www.minimus.io/post/new-vulnerabilities-in-runc-allow-container-escape-what-docker-and-kubernetes-users-need-to-know)
 * [2025-11-19, 20:44:16](https://news.ycombinator.com/item?id=45984864) - [Copyparty, the FOSS file server [video]](https://www.youtube.com/watch?v=15_-hgsX2V0)
 
 ## [Archives](archives/index.md)
