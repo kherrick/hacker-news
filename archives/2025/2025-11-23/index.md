@@ -29,6 +29,7 @@
 * [2025-11-23, 18:19:27](https://news.ycombinator.com/item?id=46025933) - [Apple to focus on 'quality and underlying performance' with iOS 27 next year](https://9to5mac.com/2025/11/23/apple-focusing-on-software-quality-improvements-ios-27-next-year-report/)
 * [2025-11-23, 17:55:11](https://news.ycombinator.com/item?id=46025721) - [Native Secure Enclave backed SSH keys on macOS](https://gist.github.com/arianvp/5f59f1783e3eaf1a2d4cd8e952bb4acf)
 * [2025-11-23, 17:38:28](https://news.ycombinator.com/item?id=46025477) - [SVG.js v3.2](https://svgjs.dev/docs/3.2/)
+* [2025-11-23, 17:17:19](https://news.ycombinator.com/item?id=46025223) - [JOPA: Java compiler in C++, Jikes modernized to Java 6 with Claude](https://github.com/7mind/jopa)
 * [2025-11-23, 17:14:41](https://news.ycombinator.com/item?id=46025196) - [Are consumers just tech debt to Microsoft?](https://birchtree.me/blog/are-consumers-just-tech-debt-to-microsoft/)
 * [2025-11-23, 17:01:04](https://news.ycombinator.com/item?id=46025055) - [HumanLayer (YC F24) Is Hiring Founding Engineers](https://www.ycombinator.com/companies/humanlayer/jobs/oBCZzc7-founding-product-engineer)
 * [2025-11-23, 16:45:33](https://news.ycombinator.com/item?id=46024894) - [Dark Mode Sucks](https://www.tomechangosubanana.com/2025/dark-mode-sucks/)

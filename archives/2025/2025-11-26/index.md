@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-11-26](index.md)
 
+* [2025-11-26, 17:03:21](https://news.ycombinator.com/item?id=46059620) - [Optery (YC W22) Hiring CISO, Release Manager, Tech Lead (Node), Full Stack Eng](https://www.optery.com/careers/)
 * [2025-11-26, 16:34:58](https://news.ycombinator.com/item?id=46059227) - [Cloudflare outage should not have happened](https://ebellani.github.io/blog/2025/cloudflare-outage-should-not-have-happened-and-they-seem-to-be-missing-the-point-on-how-to-avoid-it-in-the-future/)
 * [2025-11-26, 16:12:51](https://news.ycombinator.com/item?id=46058912) - [Slashdot Effect](https://en.wikipedia.org/wiki/Slashdot_effect)
 * [2025-11-26, 15:44:09](https://news.ycombinator.com/item?id=46058531) - [KDE Plasma 6.8 Will Go Wayland-Exclusive in Dropping X11 Session Support](https://www.phoronix.com/news/KDE-Plasma-68-Wayland-Exclusive)
