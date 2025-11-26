@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-11-26, 12:28:30",
+      "https://news.ycombinator.com/item?id=46056763"
+    ],
+    [
+      "Kagi Hub Belgrade",
+      "https://blog.kagi.com/kagi-hub"
+    ]
+  ],
+  [
+    [
       "2025-11-26, 12:01:24",
       "https://news.ycombinator.com/item?id=46056583"
     ],
@@ -11,12 +21,12 @@
   ],
   [
     [
-      "2025-11-26, 11:00:49",
-      "https://news.ycombinator.com/item?id=46056197"
+      "2025-11-26, 10:08:20",
+      "https://news.ycombinator.com/item?id=46055944"
     ],
     [
-      "Await Is Not a Context Switch: Understanding Python's Coroutines vs. Tasks",
-      "https://mergify.com/blog/await-is-not-a-context-switch-understanding-python-s-coroutines-vs-tasks"
+      "I don't care how well your \"AI\" works",
+      "https://fokus.cool/2025/11/25/i-dont-care-how-well-your-ai-works.html"
     ]
   ],
   [
@@ -25,7 +35,7 @@
       "https://news.ycombinator.com/item?id=46055935"
     ],
     [
-      "A Cell So Minimal That It Challenges Definitions of Life",
+      "A cell so minimal that it challenges definitions of life",
       "https://www.quantamagazine.org/a-cell-so-minimal-that-it-challenges-definitions-of-life-20251124/"
     ]
   ],
@@ -141,16 +151,6 @@
   ],
   [
     [
-      "2025-11-25, 17:07:06",
-      "https://news.ycombinator.com/item?id=46047958"
-    ],
-    [
-      "Unifying our mobile and desktop domains",
-      "https://techblog.wikimedia.org/2025/11/21/unifying-mobile-and-desktop-domains/"
-    ]
-  ],
-  [
-    [
       "2025-11-25, 16:38:57",
       "https://news.ycombinator.com/item?id=46047580"
     ],
@@ -211,6 +211,16 @@
   ],
   [
     [
+      "2025-11-25, 06:09:05",
+      "https://news.ycombinator.com/item?id=46042810"
+    ],
+    [
+      "Jakarta is now the biggest city in the world",
+      "https://www.axios.com/2025/11/24/jakarta-tokyo-worlds-biggest-city-population"
+    ]
+  ],
+  [
+    [
       "2025-11-24, 22:17:40",
       "https://news.ycombinator.com/item?id=46040053"
     ],
@@ -227,16 +237,6 @@
     [
       "Efficient solar cooking that stores heat in sand",
       "https://www.sciencedirect.com/science/article/pii/S266711312500035X"
-    ]
-  ],
-  [
-    [
-      "2025-11-23, 23:42:22",
-      "https://news.ycombinator.com/item?id=46028548"
-    ],
-    [
-      "The fall of Labubus and the mush of modern internet trends",
-      "https://www.michigandaily.com/arts/digital-culture/the-fall-of-labubus-and-the-mush-of-modern-internet-trends/"
     ]
   ],
   [
@@ -275,7 +275,7 @@
       "https://news.ycombinator.com/item?id=46006211"
     ],
     [
-      "Downsampling: Largest-Triangle-Three-Buckets and the Fourier Transform",
+      "Largest-Triangle-Three-Buckets and the Fourier Transform (2024)",
       "https://daniel.mitterdorfer.name/posts/2024-01-30-downsampling-lttb-and-fft/"
     ]
   ],
