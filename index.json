@@ -21,16 +21,6 @@
   ],
   [
     [
-      "2025-11-26, 21:52:14",
-      "https://news.ycombinator.com/item?id=46062777"
-    ],
-    [
-      "EU Council approves Chat Control mandate for negotiation with Parliament",
-      "https://www.techradar.com/vpn/vpn-privacy-security/chat-control-eu-lawmakers-finally-agree-on-the-voluntary-scanning-of-your-private-chats"
-    ]
-  ],
-  [
-    [
       "2025-11-26, 21:25:36",
       "https://news.ycombinator.com/item?id=46062504"
     ],
@@ -85,7 +75,7 @@
       "https://news.ycombinator.com/item?id=46061208"
     ],
     [
-      "Fara-7B by Microsoft: An agentic small language model designed for computer use",
+      "Fara-7B: An efficient agentic model for computer use",
       "https://github.com/microsoft/fara"
     ]
   ],
@@ -207,6 +197,16 @@
     [
       "Show HN: KiDoom – Running DOOM on PCB Traces",
       "https://www.mikeayles.com/#kidoom"
+    ]
+  ],
+  [
+    [
+      "2025-11-25, 17:33:50",
+      "https://news.ycombinator.com/item?id=46048252"
+    ],
+    [
+      "Show HN: We built an open source, zero webhooks payment processor",
+      "https://github.com/flowglad/flowglad"
     ]
   ],
   [
