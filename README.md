@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-11-26, 19:12:26](https://news.ycombinator.com/item?id=46061232) - [API that auto-routes to the cheapest AI provider (OpenAI/Anthropic/Gemini)](https://tokensaver.org/)
 * [2025-11-26, 18:45:43](https://news.ycombinator.com/item?id=46060935) - [China Has Three Reusable Rockets Ready for Their Debut Flights](https://www.china-in-space.com/p/china-has-three-reusable-rockets)
 * [2025-11-26, 18:08:02](https://news.ycombinator.com/item?id=46060508) - [Gemini CLI Tips and Tricks for Agentic Coding](https://github.com/addyosmani/gemini-cli-tips)
 * [2025-11-26, 17:40:16](https://news.ycombinator.com/item?id=46060122) - [Scaleway turns Mac Minis into high‑density, Raspberry Pi–managed servers](https://www.scaleway.com/en/blog/how-we-turn-apples-mac-mini-into-high-performance-dedicated-servers/)
@@ -18,7 +19,6 @@
 * [2025-11-25, 22:13:35](https://news.ycombinator.com/item?id=46051449) - [Show HN: KiDoom – Running DOOM on PCB Traces](https://www.mikeayles.com/#kidoom)
 * [2025-11-25, 19:53:20](https://news.ycombinator.com/item?id=46049932) - [A new bridge links the math of infinity to computer science](https://www.quantamagazine.org/a-new-bridge-links-the-strange-math-of-infinity-to-computer-science-20251121/)
 * [2025-11-25, 17:33:50](https://news.ycombinator.com/item?id=46048252) - [Show HN: We built an open source, zero webhooks payment processor](https://github.com/flowglad/flowglad)
-* [2025-11-25, 15:47:14](https://news.ycombinator.com/item?id=46046916) - [FLUX.2: Frontier Visual Intelligence](https://bfl.ai/blog/flux-2)
 * [2025-11-25, 14:20:30](https://news.ycombinator.com/item?id=46045987) - [Launch HN: Onyx (YC W24) – Open-source chat UI](https://news.ycombinator.com/item?id=46045987)
 * [2025-11-25, 06:09:05](https://news.ycombinator.com/item?id=46042810) - [Jakarta is now the biggest city in the world](https://www.axios.com/2025/11/24/jakarta-tokyo-worlds-biggest-city-population)
 * [2025-11-24, 22:17:40](https://news.ycombinator.com/item?id=46040053) - [1,700-year-old Roman sarcophagus is unearthed in Budapest](https://apnews.com/article/hungary-roman-sarcophagus-discovery-budapest-77a41fe190bbcc167b43d05141536f54)
