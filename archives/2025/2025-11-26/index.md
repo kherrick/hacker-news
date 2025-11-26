@@ -6,6 +6,7 @@
 
 * [2025-11-26, 08:40:29](https://news.ycombinator.com/item?id=46055421) - [Statistical Process Control in Python](https://timothyfraser.com/sigma/statistical-process-control-in-python.html)
 * [2025-11-26, 08:18:45](https://news.ycombinator.com/item?id=46055298) - [AWS is 10x slower than a dedicated server for the same price [video]](https://www.youtube.com/watch?v=Ps3AI1kTIR4)
+* [2025-11-26, 07:55:49](https://news.ycombinator.com/item?id=46055177) - [Image Diffusion Models Exhibit Emergent Temporal Propagation in Videos](https://arxiv.org/abs/2511.19936)
 * [2025-11-26, 06:57:04](https://news.ycombinator.com/item?id=46054854) - ['Once in 300 years' rain hits Thai city as floods ravage South East Asia](https://www.bbc.com/news/articles/ckg97wx144jo)
 * [2025-11-26, 06:27:41](https://news.ycombinator.com/item?id=46054713) - [ICE Arrests the Press](https://petapixel.com/2025/11/24/photojournalist-arrested-covering-ice-protest-as-authorities-impound-his-camera-gear/)
 * [2025-11-26, 03:05:29](https://news.ycombinator.com/item?id=46053787) - [The myth of reflected power (2017)](https://www.iz2uuf.net/wp/index.php/2017/07/29/the-myth-of-reflected-power/)
