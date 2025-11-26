@@ -24,10 +24,10 @@
 * [2025-11-24, 01:47:33](https://news.ycombinator.com/item?id=46029453) - [Practical Security in Production](https://queue.acm.org/detail.cfm?id=3773097)
 * [2025-11-23, 23:42:22](https://news.ycombinator.com/item?id=46028548) - [The fall of Labubus and the mush of modern internet trends](https://www.michigandaily.com/arts/digital-culture/the-fall-of-labubus-and-the-mush-of-modern-internet-trends/)
 * [2025-11-23, 07:40:26](https://news.ycombinator.com/item?id=46021577) - [Surprisingly, Emacs on Android is pretty good](https://kristofferbalintona.me/posts/202505291438/)
-* [2025-11-23, 04:16:55](https://news.ycombinator.com/item?id=46020701) - [Show HN: Wolfrominoes](https://demos.samgentle.com/wolfrominoes/)
 * [2025-11-22, 21:19:35](https://news.ycombinator.com/item?id=46018374) - [Pitch Multiplication (2017)](https://klangnewmusic.weebly.com/direct-sound/pitch-multiplication)
 * [2025-11-22, 18:16:59](https://news.ycombinator.com/item?id=46016902) - [How to repurpose your old phone into a web server](https://far.computer/how-to/)
 * [2025-11-22, 17:44:12](https://news.ycombinator.com/item?id=46016579) - [Java Decompiler](http://java-decompiler.github.io)
+* [2025-11-21, 16:55:14](https://news.ycombinator.com/item?id=46006211) - [Downsampling: Largest-Triangle-Three-Buckets and the Fourier Transform](https://daniel.mitterdorfer.name/posts/2024-01-30-downsampling-lttb-and-fft/)
 * [2025-11-20, 07:33:38](https://news.ycombinator.com/item?id=45989947) - [Marble Springs (1993)](https://www.eastgate.com/MS/Title_184.html)
 * [2025-11-19, 20:44:16](https://news.ycombinator.com/item?id=45984864) - [Copyparty, the FOSS file server [video]](https://www.youtube.com/watch?v=15_-hgsX2V0)
 

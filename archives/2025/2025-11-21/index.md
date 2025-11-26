@@ -35,6 +35,7 @@
 * [2025-11-21, 17:28:25](https://news.ycombinator.com/item?id=46006598) - [FizzBuzz with Cosines](https://susam.net/fizz-buzz-with-cosines.html)
 * [2025-11-21, 17:20:51](https://news.ycombinator.com/item?id=46006521) - [How Cops Are Using Flock's ALPR Network to Surveil Protesters and Activists](https://www.eff.org/deeplinks/2025/11/how-cops-are-using-flock-safetys-alpr-network-surveil-protesters-and-activists)
 * [2025-11-21, 17:00:00](https://news.ycombinator.com/item?id=46006250) - [Pivot Robotics (YC W24) Is Hiring for an Industrial Automation Hardware Engineer](https://www.ycombinator.com/companies/pivot-robotics/jobs/7xG9Dc6-mechanical-engineer-controls)
+* [2025-11-21, 16:55:14](https://news.ycombinator.com/item?id=46006211) - [Downsampling: Largest-Triangle-Three-Buckets and the Fourier Transform](https://daniel.mitterdorfer.name/posts/2024-01-30-downsampling-lttb-and-fft/)
 * [2025-11-21, 16:52:48](https://news.ycombinator.com/item?id=46006183) - [Private Equity's New Venture: Youth Sports](https://jacobin.com/2025/11/youth-sports-hockey-private-equity)
 * [2025-11-21, 16:44:45](https://news.ycombinator.com/item?id=46006104) - [Show HN: OCR Arena – A playground for OCR models](https://www.ocrarena.ai/battle)
 * [2025-11-21, 16:42:19](https://news.ycombinator.com/item?id=46006082) - [You Can Now Make PS2 Games in JavaScript](https://jslegenddev.substack.com/p/you-can-now-make-ps2-games-in-javascript)
