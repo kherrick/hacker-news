@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-11-26](index.md)
 
+* [2025-11-26, 11:00:49](https://news.ycombinator.com/item?id=46056197) - [Await Is Not a Context Switch: Understanding Python's Coroutines vs. Tasks](https://mergify.com/blog/await-is-not-a-context-switch-understanding-python-s-coroutines-vs-tasks)
+* [2025-11-26, 10:08:20](https://news.ycombinator.com/item?id=46055944) - [I don't care how well your \"AI\" works](https://fokus.cool/2025/11/25/i-dont-care-how-well-your-ai-works.html)
 * [2025-11-26, 08:40:29](https://news.ycombinator.com/item?id=46055421) - [Statistical Process Control in Python](https://timothyfraser.com/sigma/statistical-process-control-in-python.html)
 * [2025-11-26, 08:18:45](https://news.ycombinator.com/item?id=46055298) - [AWS is 10x slower than a dedicated server for the same price [video]](https://www.youtube.com/watch?v=Ps3AI1kTIR4)
 * [2025-11-26, 07:55:49](https://news.ycombinator.com/item?id=46055177) - [Image Diffusion Models Exhibit Emergent Temporal Propagation in Videos](https://arxiv.org/abs/2511.19936)
