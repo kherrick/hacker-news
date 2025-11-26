@@ -17,6 +17,7 @@
 * [2025-11-22, 20:24:17](https://news.ycombinator.com/item?id=46017934) - [The Go-Between](https://theamericanscholar.org/the-go-between/)
 * [2025-11-22, 20:21:56](https://news.ycombinator.com/item?id=46017910) - [The Mozilla Cycle, Part III: Mozilla Dies in Ignominy](https://taggart-tech.com/mozilla-cycle-pt3/)
 * [2025-11-22, 20:11:47](https://news.ycombinator.com/item?id=46017833) - [The Censorship Network: Regulation and Repression in Germany Today](https://liber-net.org/germany/)
+* [2025-11-22, 20:11:25](https://news.ycombinator.com/item?id=46017830) - [A Woman on a Mission to Photograph Every Species of Hummingbird](https://www.audubon.org/magazine/meet-woman-mission-photograph-every-species-of-hummingbird-world)
 * [2025-11-22, 20:09:48](https://news.ycombinator.com/item?id=46017821) - [Data General History by Foster](http://www.teamfoster.com/billteamfostercom)
 * [2025-11-22, 20:05:38](https://news.ycombinator.com/item?id=46017797) - [After 15 years, I use Outlook as my build pipeline](https://iwriteaboutcode.blogspot.com/2025/11/after-15-years-i-have-finally-reached.html)
 * [2025-11-22, 20:03:14](https://news.ycombinator.com/item?id=46017782) - [Markdown Is Holding You Back](https://newsletter.bphogan.com/archive/issue-45-markdown-is-holding-you-back/)
