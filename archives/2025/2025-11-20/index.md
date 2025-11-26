@@ -21,6 +21,7 @@
 * [2025-11-20, 19:52:55](https://news.ycombinator.com/item?id=45996860) - [CBP is monitoring US drivers and detaining those with suspicious travel patterns](https://apnews.com/article/immigration-border-patrol-surveillance-drivers-ice-trump-9f5d05469ce8c629d6fecf32d32098cd)
 * [2025-11-20, 19:26:12](https://news.ycombinator.com/item?id=45996585) - [Data-at-Rest Encryption in DuckDB](https://duckdb.org/2025/11/19/encryption-in-duckdb)
 * [2025-11-20, 19:21:27](https://news.ycombinator.com/item?id=45996527) - [Historically Accurate Airport Dioramas by AV Pro Designs](https://www.core77.com/posts/138995/Historically-Accurate-Airport-Dioramas-by-AV-Pro-Designs)
+* [2025-11-20, 19:18:43](https://news.ycombinator.com/item?id=45996495) - [RunC Container Escape: What Docker and Kubernetes Users Need to Know](https://www.minimus.io/post/new-vulnerabilities-in-runc-allow-container-escape-what-docker-and-kubernetes-users-need-to-know)
 * [2025-11-20, 19:13:51](https://news.ycombinator.com/item?id=45996433) - [Mozilla Says It's Finally Done with Two-Faced Onerep](https://krebsonsecurity.com/2025/11/mozilla-says-its-finally-done-with-two-faced-onerep/)
 * [2025-11-20, 18:39:38](https://news.ycombinator.com/item?id=45996064) - [Show HN: Supabase-Test – Fast Isolated Postgres DBs for Testing Supabase RLS](https://www.npmjs.com/package/supabase-test)
 * [2025-11-20, 18:27:51](https://news.ycombinator.com/item?id=45995913) - [Show HN: Search London StreetView panoramas by text](https://london.publicinsights.uk)
