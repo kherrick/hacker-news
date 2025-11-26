@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-11-26, 17:12:01](https://news.ycombinator.com/item?id=46059737) - [DRAM prices are spiking, but I don't trust the industry's why](https://www.xda-developers.com/dram-prices-spiking-dont-trust-industry-reasons/)
 * [2025-11-26, 17:03:21](https://news.ycombinator.com/item?id=46059620) - [Optery (YC W22) Hiring CISO, Release Manager, Tech Lead (Node), Full Stack Eng](https://www.optery.com/careers/)
 * [2025-11-26, 16:34:58](https://news.ycombinator.com/item?id=46059227) - [Cloudflare outage should not have happened](https://ebellani.github.io/blog/2025/cloudflare-outage-should-not-have-happened-and-they-seem-to-be-missing-the-point-on-how-to-avoid-it-in-the-future/)
 * [2025-11-26, 16:12:51](https://news.ycombinator.com/item?id=46058912) - [Slashdot Effect](https://en.wikipedia.org/wiki/Slashdot_effect)
@@ -26,7 +27,6 @@
 * [2025-11-23, 17:17:19](https://news.ycombinator.com/item?id=46025223) - [JOPA: Java compiler in C++, Jikes modernized to Java 6 with Claude](https://github.com/7mind/jopa)
 * [2025-11-23, 07:40:26](https://news.ycombinator.com/item?id=46021577) - [Surprisingly, Emacs on Android is pretty good](https://kristofferbalintona.me/posts/202505291438/)
 * [2025-11-22, 18:16:59](https://news.ycombinator.com/item?id=46016902) - [How to repurpose your old phone into a web server](https://far.computer/how-to/)
-* [2025-11-22, 17:44:12](https://news.ycombinator.com/item?id=46016579) - [Java Decompiler](http://java-decompiler.github.io)
 * [2025-11-22, 17:11:52](https://news.ycombinator.com/item?id=46016288) - [Show HN: I turned algae into a bio-altimeter and put it on a weather balloon](https://radi8.dev/blog/stratospore/)
 * [2025-11-21, 15:47:20](https://news.ycombinator.com/item?id=46005581) - [Is DWPD Still a Useful SSD Spec?](https://klarasystems.com/articles/is-dwpd-still-useful-ssd-spec/)
 * [2025-11-19, 20:44:16](https://news.ycombinator.com/item?id=45984864) - [Copyparty, the FOSS file server [video]](https://www.youtube.com/watch?v=15_-hgsX2V0)
