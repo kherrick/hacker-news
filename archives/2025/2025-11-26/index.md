@@ -6,6 +6,7 @@
 
 * [2025-11-26, 15:06:37](https://news.ycombinator.com/item?id=46058065) - [OpenAI needs to raise at least $207B by 2030 so it can continue to lose money](https://ft.com/content/23e54a28-6f63-4533-ab96-3756d9c88bad)
 * [2025-11-26, 14:47:58](https://news.ycombinator.com/item?id=46057874) - [A National Mission to Accelerate Science Through Artificial Intelligence](https://energy.gov/genesis)
+* [2025-11-26, 14:46:05](https://news.ycombinator.com/item?id=46057852) - [Justice dept. requires Realpage end sharing competitively sensitive information](https://www.justice.gov/opa/pr/justice-department-requires-realpage-end-sharing-competitively-sensitive-information-and)
 * [2025-11-26, 14:21:40](https://news.ycombinator.com/item?id=46057628) - [There may not be a safe off-ramp for some taking GLP-1 drugs, study suggests](https://arstechnica.com/health/2025/11/glp-1-drugs-improve-heart-health-but-only-if-you-keep-taking-them/)
 * [2025-11-26, 14:02:46](https://news.ycombinator.com/item?id=46057488) - [Voyager 1 Is About to Reach One Light-Day from Earth](https://scienceclock.com/voyager-1-is-about-to-reach-one-light-day-from-earth/)
 * [2025-11-26, 13:40:04](https://news.ycombinator.com/item?id=46057304) - [I DM'd a Korean Presidential Candidate – and Ended Up Building His Core Campaign](https://medium.com/@wjsdj2008/i-dmd-a-korean-presidential-candidate-and-ended-up-building-his-core-campaign-platform-the-38eb1c5f5e7d)
