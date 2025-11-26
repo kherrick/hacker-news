@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-11-26](index.md)
 
+* [2025-11-26, 21:52:14](https://news.ycombinator.com/item?id=46062777) - [EU approves Chat Control policy](https://www.techradar.com/vpn/vpn-privacy-security/chat-control-eu-lawmakers-finally-agree-on-the-voluntary-scanning-of-your-private-chats)
 * [2025-11-26, 21:25:36](https://news.ycombinator.com/item?id=46062504) - [The EU made Apple adopt new Wi-Fi standards, and now Android can support AirDrop](https://arstechnica.com/gadgets/2025/11/the-eu-made-apple-adopt-new-wi-fi-standards-and-now-android-can-support-airdrop/)
 * [2025-11-26, 21:24:09](https://news.ycombinator.com/item?id=46062483) - [AirDrop support for Pixel 10 likely exists because of the EU ruling](https://9to5google.com/2025/11/21/googles-airdrop-support-for-pixel-10-likely-exists-because-of-the-eus-apple-ruling/)
 * [2025-11-26, 20:53:45](https://news.ycombinator.com/item?id=46062198) - [Why 90s Movies Feel More Alive Than Anything on Netflix](https://afranca.com.br/why-90s-movies-feel-more-alive-than-anything-on-netflix)
@@ -29,6 +30,7 @@
 * [2025-11-26, 15:44:09](https://news.ycombinator.com/item?id=46058531) - [KDE Plasma 6.8 Will Go Wayland-Exclusive in Dropping X11 Session Support](https://www.phoronix.com/news/KDE-Plasma-68-Wayland-Exclusive)
 * [2025-11-26, 15:32:06](https://news.ycombinator.com/item?id=46058361) - [MIT study finds AI can replace 11.7% of U.S. workforce](https://www.cnbc.com/2025/11/26/mit-study-finds-ai-can-already-replace-11point7percent-of-us-workforce.html)
 * [2025-11-26, 15:06:37](https://news.ycombinator.com/item?id=46058065) - [OpenAI needs to raise at least $207B by 2030 so it can continue to lose money](https://ft.com/content/23e54a28-6f63-4533-ab96-3756d9c88bad)
+* [2025-11-26, 15:03:09](https://news.ycombinator.com/item?id=46058033) - [Compressed filesystems à la language models](https://grohan.co/2025/11/25/llmfuse/)
 * [2025-11-26, 14:47:58](https://news.ycombinator.com/item?id=46057874) - [A National Mission to Accelerate Science Through Artificial Intelligence](https://energy.gov/genesis)
 * [2025-11-26, 14:46:05](https://news.ycombinator.com/item?id=46057852) - [Justice dept. requires Realpage end sharing competitively sensitive information](https://www.justice.gov/opa/pr/justice-department-requires-realpage-end-sharing-competitively-sensitive-information-and)
 * [2025-11-26, 14:32:13](https://news.ycombinator.com/item?id=46057717) - [Show HN: Offline RAG System Using Docker and Llama 3 (No Cloud APIs)](https://github.com/PhilYeh1212/Local-AI-Knowledge-Base-Docker-Llama3)
