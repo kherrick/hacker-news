@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-11-26](index.md)
 
+* [2025-11-26, 12:01:24](https://news.ycombinator.com/item?id=46056583) - [Cekura (YC F24) Is Hiring](https://www.ycombinator.com/companies/cekura-ai/jobs/0ZGLW69-forward-deployed-engineer-us)
+* [2025-11-26, 11:31:42](https://news.ycombinator.com/item?id=46056358) - [EU council reaches position on Chat Control](https://www.consilium.europa.eu/de/press/press-releases/2025/11/26/child-sexual-abuse-council-reaches-position-on-law-protecting-children-from-online-abuse/)
 * [2025-11-26, 11:00:49](https://news.ycombinator.com/item?id=46056197) - [Await Is Not a Context Switch: Understanding Python's Coroutines vs. Tasks](https://mergify.com/blog/await-is-not-a-context-switch-understanding-python-s-coroutines-vs-tasks)
 * [2025-11-26, 10:08:20](https://news.ycombinator.com/item?id=46055944) - [I don't care how well your \"AI\" works](https://fokus.cool/2025/11/25/i-dont-care-how-well-your-ai-works.html)
 * [2025-11-26, 08:40:29](https://news.ycombinator.com/item?id=46055421) - [Statistical Process Control in Python](https://timothyfraser.com/sigma/statistical-process-control-in-python.html)
