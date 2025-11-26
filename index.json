@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-11-26, 21:52:14",
+      "https://news.ycombinator.com/item?id=46062777"
+    ],
+    [
+      "EU approves Chat Control policy",
+      "https://www.techradar.com/vpn/vpn-privacy-security/chat-control-eu-lawmakers-finally-agree-on-the-voluntary-scanning-of-your-private-chats"
+    ]
+  ],
+  [
+    [
       "2025-11-26, 21:25:36",
       "https://news.ycombinator.com/item?id=46062504"
     ],
@@ -17,16 +27,6 @@
     [
       "AirDrop support for Pixel 10 likely exists because of the EU ruling",
       "https://9to5google.com/2025/11/21/googles-airdrop-support-for-pixel-10-likely-exists-because-of-the-eus-apple-ruling/"
-    ]
-  ],
-  [
-    [
-      "2025-11-26, 20:14:17",
-      "https://news.ycombinator.com/item?id=46061840"
-    ],
-    [
-      "Crews claim Boring Company failed to pay workers and snubbed OSHA concerns",
-      "https://nashvillebanner.com/2025/11/25/boring-company-nashville-shane-trucking-and-excavating/"
     ]
   ],
   [
@@ -91,6 +91,16 @@
   ],
   [
     [
+      "2025-11-26, 16:34:58",
+      "https://news.ycombinator.com/item?id=46059227"
+    ],
+    [
+      "Cloudflare outage should not have happened",
+      "https://ebellani.github.io/blog/2025/cloudflare-outage-should-not-have-happened-and-they-seem-to-be-missing-the-point-on-how-to-avoid-it-in-the-future/"
+    ]
+  ],
+  [
+    [
       "2025-11-26, 16:24:29",
       "https://news.ycombinator.com/item?id=46059069"
     ],
@@ -121,22 +131,22 @@
   ],
   [
     [
+      "2025-11-26, 15:03:09",
+      "https://news.ycombinator.com/item?id=46058033"
+    ],
+    [
+      "Compressed filesystems à la language models",
+      "https://grohan.co/2025/11/25/llmfuse/"
+    ]
+  ],
+  [
+    [
       "2025-11-26, 14:02:46",
       "https://news.ycombinator.com/item?id=46057488"
     ],
     [
       "Voyager 1 is about to reach one light-day from earth",
       "https://scienceclock.com/voyager-1-is-about-to-reach-one-light-day-from-earth/"
-    ]
-  ],
-  [
-    [
-      "2025-11-26, 12:26:49",
-      "https://news.ycombinator.com/item?id=46056757"
-    ],
-    [
-      "Qiskit open-source SDK for working with quantum computers",
-      "https://github.com/Qiskit/qiskit"
     ]
   ],
   [
@@ -221,16 +231,6 @@
   ],
   [
     [
-      "2025-11-23, 17:17:19",
-      "https://news.ycombinator.com/item?id=46025223"
-    ],
-    [
-      "JOPA: Java compiler in C++, Jikes modernized to Java 6 with Claude",
-      "https://github.com/7mind/jopa"
-    ]
-  ],
-  [
-    [
       "2025-11-23, 07:40:26",
       "https://news.ycombinator.com/item?id=46021577"
     ],
@@ -281,22 +281,22 @@
   ],
   [
     [
-      "2025-11-20, 00:00:15",
-      "https://news.ycombinator.com/item?id=45987014"
+      "2025-11-21, 20:54:49",
+      "https://news.ycombinator.com/item?id=46008879"
     ],
     [
-      "An Homage to 90s –/Public_HTML Hosting",
-      "https://public.monster/"
+      "FEX: A fast usermode x86 and x86-64 emulator for ARM64 Linux",
+      "https://github.com/FEX-Emu/FEX"
     ]
   ],
   [
     [
-      "2025-11-19, 20:44:16",
-      "https://news.ycombinator.com/item?id=45984864"
+      "2025-11-21, 15:04:01",
+      "https://news.ycombinator.com/item?id=46005237"
     ],
     [
-      "Copyparty, the FOSS file server [video]",
-      "https://www.youtube.com/watch?v=15_-hgsX2V0"
+      "The Weird and Wonderful Chemistry of Audioactive Decay (1986) [pdf]",
+      "https://static01.nyt.com/packages/pdf/crossword/GENIUS_AT_PLAY_Eureka_Article.pdf"
     ]
   ]
 ]
