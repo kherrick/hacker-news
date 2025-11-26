@@ -1,6 +1,36 @@
 [
   [
     [
+      "2025-11-26, 15:06:37",
+      "https://news.ycombinator.com/item?id=46058065"
+    ],
+    [
+      "OpenAI needs to raise at least $207B by 2030 so it can continue to lose money",
+      "https://ft.com/content/23e54a28-6f63-4533-ab96-3756d9c88bad"
+    ]
+  ],
+  [
+    [
+      "2025-11-26, 14:47:58",
+      "https://news.ycombinator.com/item?id=46057874"
+    ],
+    [
+      "A National Mission to Accelerate Science Through Artificial Intelligence",
+      "https://energy.gov/genesis"
+    ]
+  ],
+  [
+    [
+      "2025-11-26, 14:21:40",
+      "https://news.ycombinator.com/item?id=46057628"
+    ],
+    [
+      "There may not be a safe off-ramp for some taking GLP-1 drugs, study suggests",
+      "https://arstechnica.com/health/2025/11/glp-1-drugs-improve-heart-health-but-only-if-you-keep-taking-them/"
+    ]
+  ],
+  [
+    [
       "2025-11-26, 14:02:46",
       "https://news.ycombinator.com/item?id=46057488"
     ],
@@ -101,16 +131,6 @@
   ],
   [
     [
-      "2025-11-26, 01:51:26",
-      "https://news.ycombinator.com/item?id=46053262"
-    ],
-    [
-      "BebboSSH: SSH2 implementation for Amiga systems (68000, GPLv3)",
-      "https://franke.ms/git/bebbo/bebbossh"
-    ]
-  ],
-  [
-    [
       "2025-11-26, 00:33:29",
       "https://news.ycombinator.com/item?id=46052685"
     ],
@@ -147,26 +167,6 @@
     [
       "Show HN: We built an open source, zero webhooks payment processor",
       "https://github.com/flowglad/flowglad"
-    ]
-  ],
-  [
-    [
-      "2025-11-25, 16:38:57",
-      "https://news.ycombinator.com/item?id=46047580"
-    ],
-    [
-      "Python is not a great language for data science",
-      "https://blog.genesmindsmachines.com/p/python-is-not-a-great-language-for"
-    ]
-  ],
-  [
-    [
-      "2025-11-25, 15:57:54",
-      "https://news.ycombinator.com/item?id=46047053"
-    ],
-    [
-      "New layouts with CSS Subgrid",
-      "https://www.joshwcomeau.com/css/subgrid/"
     ]
   ],
   [
@@ -271,22 +271,22 @@
   ],
   [
     [
-      "2025-11-21, 16:55:14",
-      "https://news.ycombinator.com/item?id=46006211"
-    ],
-    [
-      "Largest-Triangle-Three-Buckets and the Fourier Transform (2024)",
-      "https://daniel.mitterdorfer.name/posts/2024-01-30-downsampling-lttb-and-fft/"
-    ]
-  ],
-  [
-    [
       "2025-11-21, 15:47:20",
       "https://news.ycombinator.com/item?id=46005581"
     ],
     [
       "Is DWPD Still a Useful SSD Spec?",
       "https://klarasystems.com/articles/is-dwpd-still-useful-ssd-spec/"
+    ]
+  ],
+  [
+    [
+      "2025-11-20, 19:18:43",
+      "https://news.ycombinator.com/item?id=45996495"
+    ],
+    [
+      "RunC Container Escape: What Docker and Kubernetes Users Need to Know",
+      "https://www.minimus.io/post/new-vulnerabilities-in-runc-allow-container-escape-what-docker-and-kubernetes-users-need-to-know"
     ]
   ],
   [
