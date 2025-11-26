@@ -2,7 +2,6 @@
 
 * [2025-11-26, 06:57:04](https://news.ycombinator.com/item?id=46054854) - ['Once in 300 years' rain hits Thai city as floods ravage South East Asia](https://www.bbc.com/news/articles/ckg97wx144jo)
 * [2025-11-26, 02:31:41](https://news.ycombinator.com/item?id=46053566) - [Space Truckin' – The Nostromo (2012)](https://alienseries.wordpress.com/2012/10/23/space-truckin-the-nostromo/)
-* [2025-11-26, 02:05:36](https://news.ycombinator.com/item?id=46053385) - [Show HN: A WordPress plugin that rewrites image URLs for near-zero-cost delivery](https://wordpress.org/plugins/bandwidth-saver/)
 * [2025-11-26, 01:51:26](https://news.ycombinator.com/item?id=46053262) - [BebboSSH: SSH2 implementation for Amiga systems (68000, GPLv3)](https://franke.ms/git/bebbo/bebbossh)
 * [2025-11-26, 01:19:17](https://news.ycombinator.com/item?id=46053017) - [Space: 1999 – Special Effects Techniques](https://catacombs.space1999.net/main/pguide/upsfx.html)
 * [2025-11-26, 00:33:29](https://news.ycombinator.com/item?id=46052685) - [CS234: Reinforcement Learning Winter 2025](https://web.stanford.edu/class/cs234/)
@@ -24,6 +23,7 @@
 * [2025-11-25, 12:14:11](https://news.ycombinator.com/item?id=46045085) - [Trillions spent and big software projects are still failing](https://spectrum.ieee.org/it-management-software-failures)
 * [2025-11-25, 06:09:05](https://news.ycombinator.com/item?id=46042810) - [Jakarta is now the biggest city in the world](https://www.axios.com/2025/11/24/jakarta-tokyo-worlds-biggest-city-population)
 * [2025-11-24, 22:17:40](https://news.ycombinator.com/item?id=46040053) - [1,700-year-old Roman sarcophagus is unearthed in Budapest](https://apnews.com/article/hungary-roman-sarcophagus-discovery-budapest-77a41fe190bbcc167b43d05141536f54)
+* [2025-11-24, 01:47:33](https://news.ycombinator.com/item?id=46029453) - [Practical Security in Production](https://queue.acm.org/detail.cfm?id=3773097)
 * [2025-11-23, 23:42:22](https://news.ycombinator.com/item?id=46028548) - [The fall of Labubus and the mush of modern internet trends](https://www.michigandaily.com/arts/digital-culture/the-fall-of-labubus-and-the-mush-of-modern-internet-trends/)
 * [2025-11-23, 07:40:26](https://news.ycombinator.com/item?id=46021577) - [Surprisingly, Emacs on Android is pretty good](https://kristofferbalintona.me/posts/202505291438/)
 * [2025-11-22, 18:16:59](https://news.ycombinator.com/item?id=46016902) - [How to repurpose your old phone into a web server](https://far.computer/how-to/)
