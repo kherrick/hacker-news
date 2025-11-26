@@ -65,6 +65,7 @@
 * [2025-11-23, 03:38:22](https://news.ycombinator.com/item?id=46020564) - [The Definitive Classic Mac Pro (2006-2012) Upgrade Guide](https://blog.greggant.com/posts/2018/05/07/definitive-mac-pro-upgrade-guide.html)
 * [2025-11-23, 03:33:42](https://news.ycombinator.com/item?id=46020543) - [Unusual circuits in the Intel 386's standard cell logic](https://www.righto.com/2025/11/unusual-386-standard-cell-circuits.html)
 * [2025-11-23, 03:27:04](https://news.ycombinator.com/item?id=46020502) - [MCP Apps just dropped (OpenAI and Anthropic collab) and I think this is huge](http://blog.modelcontextprotocol.io/posts/2025-11-21-mcp-apps/)
+* [2025-11-23, 02:27:16](https://news.ycombinator.com/item?id=46020193) - [A Fast 64-Bit Date Algorithm (30–40% faster by counting dates backwards)](https://www.benjoffe.com/fast-date-64)
 * [2025-11-23, 02:18:03](https://news.ycombinator.com/item?id=46020151) - [GCC SC approves inclusion of Algol 68 Front End](https://gcc.gnu.org/pipermail/gcc/2025-November/247020.html)
 * [2025-11-23, 02:08:00](https://news.ycombinator.com/item?id=46020096) - [An Economy of AI Agents](https://arxiv.org/abs/2509.01063)
 * [2025-11-23, 01:25:17](https://news.ycombinator.com/item?id=46019898) - [Three Years from GPT-3 to Gemini 3](https://www.oneusefulthing.org/p/three-years-from-gpt-3-to-gemini)
