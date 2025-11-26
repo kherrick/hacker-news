@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2025-11-26, 17:13:44",
-      "https://news.ycombinator.com/item?id=46059765"
-    ],
-    [
-      "GrapheneOS is leaving France after receiving threats from law enforcement",
-      "https://grapheneos.social/@GrapheneOS/115606319562587450"
-    ]
-  ],
-  [
-    [
       "2025-11-26, 17:12:01",
       "https://news.ycombinator.com/item?id=46059737"
     ],
@@ -51,12 +41,12 @@
   ],
   [
     [
-      "2025-11-26, 16:12:51",
-      "https://news.ycombinator.com/item?id=46058912"
+      "2025-11-26, 16:24:29",
+      "https://news.ycombinator.com/item?id=46059069"
     ],
     [
-      "Slashdot Effect",
-      "https://en.wikipedia.org/wiki/Slashdot_effect"
+      "Slop Detective – Fight the Slop Syndicate",
+      "https://slopdetective.kagi.com/"
     ]
   ],
   [
@@ -75,18 +65,8 @@
       "https://news.ycombinator.com/item?id=46058065"
     ],
     [
-      "OpenAI needs to raise at least $207B by 2030 so it can continue to lose money",
+      "OpenAI needs to raise at least $207B by 2030",
       "https://ft.com/content/23e54a28-6f63-4533-ab96-3756d9c88bad"
-    ]
-  ],
-  [
-    [
-      "2025-11-26, 14:46:05",
-      "https://news.ycombinator.com/item?id=46057852"
-    ],
-    [
-      "Justice dept. requires Realpage end sharing competitively sensitive information",
-      "https://www.justice.gov/opa/pr/justice-department-requires-realpage-end-sharing-competitively-sensitive-information-and"
     ]
   ],
   [
@@ -117,16 +97,6 @@
     [
       "Qiskit open-source SDK for working with quantum computers",
       "https://github.com/Qiskit/qiskit"
-    ]
-  ],
-  [
-    [
-      "2025-11-26, 10:08:20",
-      "https://news.ycombinator.com/item?id=46055944"
-    ],
-    [
-      "I don't care how well your \"AI\" works",
-      "https://fokus.cool/2025/11/25/i-dont-care-how-well-your-ai-works.html"
     ]
   ],
   [
@@ -201,6 +171,16 @@
   ],
   [
     [
+      "2025-11-25, 15:47:14",
+      "https://news.ycombinator.com/item?id=46046916"
+    ],
+    [
+      "FLUX.2: Frontier Visual Intelligence",
+      "https://bfl.ai/blog/flux-2"
+    ]
+  ],
+  [
+    [
       "2025-11-25, 14:20:30",
       "https://news.ycombinator.com/item?id=46045987"
     ],
@@ -261,12 +241,32 @@
   ],
   [
     [
+      "2025-11-23, 02:27:16",
+      "https://news.ycombinator.com/item?id=46020193"
+    ],
+    [
+      "A Fast 64-Bit Date Algorithm (30–40% faster by counting dates backwards)",
+      "https://www.benjoffe.com/fast-date-64"
+    ]
+  ],
+  [
+    [
       "2025-11-22, 18:16:59",
       "https://news.ycombinator.com/item?id=46016902"
     ],
     [
       "How to repurpose your old phone into a web server",
       "https://far.computer/how-to/"
+    ]
+  ],
+  [
+    [
+      "2025-11-22, 17:44:12",
+      "https://news.ycombinator.com/item?id=46016579"
+    ],
+    [
+      "Java Decompiler",
+      "http://java-decompiler.github.io"
     ]
   ],
   [
