@@ -6,6 +6,7 @@
 * [2025-11-26, 19:58:27](https://news.ycombinator.com/item?id=46061682) - [S&box is now an open source game engine](https://sbox.game/news/update-25-11-26)
 * [2025-11-26, 19:51:52](https://news.ycombinator.com/item?id=46061623) - [Don't Download Apps](https://blog.calebjay.com/posts/dont-download-apps/)
 * [2025-11-26, 19:12:40](https://news.ycombinator.com/item?id=46061239) - [Alan.app – Add a Border to macOS Active Window](https://tyler.io/2025/11/alan/)
+* [2025-11-26, 19:10:24](https://news.ycombinator.com/item?id=46061208) - [Fara-7B by Microsoft: An agentic small language model designed for computer use](https://github.com/microsoft/fara)
 * [2025-11-26, 18:08:02](https://news.ycombinator.com/item?id=46060508) - [Gemini CLI Tips and Tricks for Agentic Coding](https://github.com/addyosmani/gemini-cli-tips)
 * [2025-11-26, 17:12:01](https://news.ycombinator.com/item?id=46059737) - [DRAM prices are spiking, but I don't trust the industry's why](https://www.xda-developers.com/dram-prices-spiking-dont-trust-industry-reasons/)
 * [2025-11-26, 17:03:21](https://news.ycombinator.com/item?id=46059620) - [Optery (YC W22) Hiring CISO, Release Manager, Tech Lead (Node), Full Stack Eng](https://www.optery.com/careers/)
@@ -27,7 +28,6 @@
 * [2025-11-23, 07:40:26](https://news.ycombinator.com/item?id=46021577) - [Surprisingly, Emacs on Android is pretty good](https://kristofferbalintona.me/posts/202505291438/)
 * [2025-11-23, 02:27:16](https://news.ycombinator.com/item?id=46020193) - [A Fast 64-Bit Date Algorithm (30–40% faster by counting dates backwards)](https://www.benjoffe.com/fast-date-64)
 * [2025-11-22, 20:11:25](https://news.ycombinator.com/item?id=46017830) - [A woman on a mission to photograph every species of hummingbird](https://www.audubon.org/magazine/meet-woman-mission-photograph-every-species-of-hummingbird-world)
-* [2025-11-22, 18:16:59](https://news.ycombinator.com/item?id=46016902) - [How to repurpose your old phone into a web server](https://far.computer/how-to/)
 * [2025-11-22, 17:11:52](https://news.ycombinator.com/item?id=46016288) - [Show HN: I turned algae into a bio-altimeter and put it on a weather balloon](https://radi8.dev/blog/stratospore/)
 * [2025-11-21, 15:04:01](https://news.ycombinator.com/item?id=46005237) - [The Weird and Wonderful Chemistry of Audioactive Decay (1986) [pdf]](https://static01.nyt.com/packages/pdf/crossword/GENIUS_AT_PLAY_Eureka_Article.pdf)
 
