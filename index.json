@@ -191,16 +191,6 @@
   ],
   [
     [
-      "2025-11-25, 14:20:30",
-      "https://news.ycombinator.com/item?id=46045987"
-    ],
-    [
-      "Launch HN: Onyx (YC W24) – Open-source chat UI",
-      "https://news.ycombinator.com/item?id=46045987"
-    ]
-  ],
-  [
-    [
       "2025-11-25, 06:09:05",
       "https://news.ycombinator.com/item?id=46042810"
     ],
@@ -217,6 +207,16 @@
     [
       "1,700-year-old Roman sarcophagus is unearthed in Budapest",
       "https://apnews.com/article/hungary-roman-sarcophagus-discovery-budapest-77a41fe190bbcc167b43d05141536f54"
+    ]
+  ],
+  [
+    [
+      "2025-11-23, 22:14:14",
+      "https://news.ycombinator.com/item?id=46027878"
+    ],
+    [
+      "Show HN: Safe-NPM – only install packages that are +90 days old",
+      "https://github.com/kevinslin/safe-npm"
     ]
   ],
   [
