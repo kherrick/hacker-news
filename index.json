@@ -11,22 +11,22 @@
   ],
   [
     [
-      "2025-11-26, 11:31:42",
-      "https://news.ycombinator.com/item?id=46056358"
-    ],
-    [
-      "EU council reaches position on Chat Control",
-      "https://www.consilium.europa.eu/de/press/press-releases/2025/11/26/child-sexual-abuse-council-reaches-position-on-law-protecting-children-from-online-abuse/"
-    ]
-  ],
-  [
-    [
       "2025-11-26, 11:00:49",
       "https://news.ycombinator.com/item?id=46056197"
     ],
     [
       "Await Is Not a Context Switch: Understanding Python's Coroutines vs. Tasks",
       "https://mergify.com/blog/await-is-not-a-context-switch-understanding-python-s-coroutines-vs-tasks"
+    ]
+  ],
+  [
+    [
+      "2025-11-26, 10:06:41",
+      "https://news.ycombinator.com/item?id=46055935"
+    ],
+    [
+      "A Cell So Minimal That It Challenges Definitions of Life",
+      "https://www.quantamagazine.org/a-cell-so-minimal-that-it-challenges-definitions-of-life-20251124/"
     ]
   ],
   [
@@ -251,16 +251,6 @@
   ],
   [
     [
-      "2025-11-22, 21:19:35",
-      "https://news.ycombinator.com/item?id=46018374"
-    ],
-    [
-      "Pitch Multiplication (2017)",
-      "https://klangnewmusic.weebly.com/direct-sound/pitch-multiplication"
-    ]
-  ],
-  [
-    [
       "2025-11-22, 18:16:59",
       "https://news.ycombinator.com/item?id=46016902"
     ],
@@ -287,6 +277,16 @@
     [
       "Downsampling: Largest-Triangle-Three-Buckets and the Fourier Transform",
       "https://daniel.mitterdorfer.name/posts/2024-01-30-downsampling-lttb-and-fft/"
+    ]
+  ],
+  [
+    [
+      "2025-11-21, 15:47:20",
+      "https://news.ycombinator.com/item?id=46005581"
+    ],
+    [
+      "Is DWPD Still a Useful SSD Spec?",
+      "https://klarasystems.com/articles/is-dwpd-still-useful-ssd-spec/"
     ]
   ],
   [
