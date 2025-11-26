@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-11-26, 03:05:29",
+      "https://news.ycombinator.com/item?id=46053787"
+    ],
+    [
+      "The myth of reflected power (2017)",
+      "https://www.iz2uuf.net/wp/index.php/2017/07/29/the-myth-of-reflected-power/"
+    ]
+  ],
+  [
+    [
       "2025-11-26, 02:31:41",
       "https://news.ycombinator.com/item?id=46053566"
     ],
@@ -21,6 +31,16 @@
   ],
   [
     [
+      "2025-11-26, 01:51:26",
+      "https://news.ycombinator.com/item?id=46053262"
+    ],
+    [
+      "BebboSSH: SSH2 implementation for Amiga systems (68000, GPLv3)",
+      "https://franke.ms/git/bebbo/bebbossh"
+    ]
+  ],
+  [
+    [
       "2025-11-26, 01:19:17",
       "https://news.ycombinator.com/item?id=46053017"
     ],
@@ -37,16 +57,6 @@
     [
       "CS234: Reinforcement Learning Winter 2025",
       "https://web.stanford.edu/class/cs234/"
-    ]
-  ],
-  [
-    [
-      "2025-11-25, 23:28:17",
-      "https://news.ycombinator.com/item?id=46052102"
-    ],
-    [
-      "The Generative Burrito Test",
-      "https://www.generativist.com/notes/2025/Nov/25/generative-burrito-test.html"
     ]
   ],
   [
@@ -161,16 +171,6 @@
   ],
   [
     [
-      "2025-11-25, 16:38:57",
-      "https://news.ycombinator.com/item?id=46047580"
-    ],
-    [
-      "Python is not a great language for data science",
-      "https://blog.genesmindsmachines.com/p/python-is-not-a-great-language-for"
-    ]
-  ],
-  [
-    [
       "2025-11-25, 15:57:54",
       "https://news.ycombinator.com/item?id=46047053"
     ],
@@ -281,12 +281,12 @@
   ],
   [
     [
-      "2025-11-21, 13:42:33",
-      "https://news.ycombinator.com/item?id=46004519"
+      "2025-11-22, 17:44:12",
+      "https://news.ycombinator.com/item?id=46016579"
     ],
     [
-      "Inflatable Space Stations",
-      "https://worksinprogress.co/issue/inflatable-space-stations/"
+      "Java Decompiler",
+      "http://java-decompiler.github.io"
     ]
   ],
   [
