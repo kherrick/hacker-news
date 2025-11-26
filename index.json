@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-11-26, 16:34:58",
+      "https://news.ycombinator.com/item?id=46059227"
+    ],
+    [
+      "Cloudflare outage should not have happened",
+      "https://ebellani.github.io/blog/2025/cloudflare-outage-should-not-have-happened-and-they-seem-to-be-missing-the-point-on-how-to-avoid-it-in-the-future/"
+    ]
+  ],
+  [
+    [
       "2025-11-26, 16:12:51",
       "https://news.ycombinator.com/item?id=46058912"
     ],
@@ -17,16 +27,6 @@
     [
       "KDE Plasma 6.8 Will Go Wayland-Exclusive in Dropping X11 Session Support",
       "https://www.phoronix.com/news/KDE-Plasma-68-Wayland-Exclusive"
-    ]
-  ],
-  [
-    [
-      "2025-11-26, 15:32:06",
-      "https://news.ycombinator.com/item?id=46058361"
-    ],
-    [
-      "MIT study finds AI can replace 11.7% of U.S. workforce",
-      "https://www.cnbc.com/2025/11/26/mit-study-finds-ai-can-already-replace-11point7percent-of-us-workforce.html"
     ]
   ],
   [
@@ -51,12 +51,12 @@
   ],
   [
     [
-      "2025-11-26, 14:21:40",
-      "https://news.ycombinator.com/item?id=46057628"
+      "2025-11-26, 14:32:13",
+      "https://news.ycombinator.com/item?id=46057717"
     ],
     [
-      "There may not be a safe off-ramp for some taking GLP-1 drugs, study suggests",
-      "https://arstechnica.com/health/2025/11/glp-1-drugs-improve-heart-health-but-only-if-you-keep-taking-them/"
+      "Show HN: Offline RAG System Using Docker and Llama 3 (No Cloud APIs)",
+      "https://github.com/PhilYeh1212/Local-AI-Knowledge-Base-Docker-Llama3"
     ]
   ],
   [
