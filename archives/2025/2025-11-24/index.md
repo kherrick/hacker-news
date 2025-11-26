@@ -37,6 +37,7 @@
 * [2025-11-24, 16:03:36](https://news.ycombinator.com/item?id=46035533) - [SHA1-Hulud the Second Comming – Postman, Zapier, PostHog All Compromised via NPM](https://www.aikido.dev/blog/shai-hulud-strikes-again-hitting-zapier-ensdomains)
 * [2025-11-24, 14:43:01](https://news.ycombinator.com/item?id=46034652) - [Booking.com cancels $4K hotel reservation, offers same rooms again for $17K](https://www.cbc.ca/news/gopublic/go-public-booking-com-hotel-rates-9.6985480)
 * [2025-11-24, 14:08:39](https://news.ycombinator.com/item?id=46034281) - [Hugo Static Site on Cloudflare](https://techlife.blog/posts/hugo-static-site-on-cloudflare/)
+* [2025-11-24, 14:02:04](https://news.ycombinator.com/item?id=46034189) - [Show HN: Yolodex – real-time customer enrichment API](https://api.yolodex.ai)
 * [2025-11-24, 13:58:05](https://news.ycombinator.com/item?id=46034145) - [Show HN: Cynthia – Reliably play MIDI music files – MIT / Portable / Windows](https://www.blaizenterprises.com/cynthia.html)
 * [2025-11-24, 13:57:53](https://news.ycombinator.com/item?id=46034142) - [Fast Lua runtime written in Rust](https://astra.arkforge.net/)
 * [2025-11-24, 13:37:28](https://news.ycombinator.com/item?id=46033945) - ['Nobody wants to come': What if the U.S. can no longer attract immigrant doctors](https://www.npr.org/sections/shots-health-news/2025/11/24/nx-s1-5618291/immigrant-physicians-foreign-born-doctors-trump-h1b)

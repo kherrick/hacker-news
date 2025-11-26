@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-11-26](index.md)
 
+* [2025-11-26, 22:57:56](https://news.ycombinator.com/item?id=46063272) - [Running Unsupported iOS on Deprecated Devices](https://nyansatan.github.io/run-unsupported-ios/)
+* [2025-11-26, 22:26:36](https://news.ycombinator.com/item?id=46063072) - [Bring Back Doors – Bring Bathroom Doors Back to Hotels](https://bringbackdoors.com/)
 * [2025-11-26, 21:52:14](https://news.ycombinator.com/item?id=46062777) - [EU approves Chat Control policy](https://www.techradar.com/vpn/vpn-privacy-security/chat-control-eu-lawmakers-finally-agree-on-the-voluntary-scanning-of-your-private-chats)
 * [2025-11-26, 21:25:36](https://news.ycombinator.com/item?id=46062504) - [The EU made Apple adopt new Wi-Fi standards, and now Android can support AirDrop](https://arstechnica.com/gadgets/2025/11/the-eu-made-apple-adopt-new-wi-fi-standards-and-now-android-can-support-airdrop/)
 * [2025-11-26, 21:24:09](https://news.ycombinator.com/item?id=46062483) - [AirDrop support for Pixel 10 likely exists because of the EU ruling](https://9to5google.com/2025/11/21/googles-airdrop-support-for-pixel-10-likely-exists-because-of-the-eus-apple-ruling/)
