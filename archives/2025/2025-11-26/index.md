@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-11-26](index.md)
 
 * [2025-11-26, 21:25:36](https://news.ycombinator.com/item?id=46062504) - [The EU made Apple adopt new Wi-Fi standards, and now Android can support AirDrop](https://arstechnica.com/gadgets/2025/11/the-eu-made-apple-adopt-new-wi-fi-standards-and-now-android-can-support-airdrop/)
+* [2025-11-26, 21:24:09](https://news.ycombinator.com/item?id=46062483) - [AirDrop support for Pixel 10 likely exists because of the EU ruling](https://9to5google.com/2025/11/21/googles-airdrop-support-for-pixel-10-likely-exists-because-of-the-eus-apple-ruling/)
 * [2025-11-26, 20:53:45](https://news.ycombinator.com/item?id=46062198) - [Why 90s Movies Feel More Alive Than Anything on Netflix](https://afranca.com.br/why-90s-movies-feel-more-alive-than-anything-on-netflix)
 * [2025-11-26, 20:14:17](https://news.ycombinator.com/item?id=46061840) - [Crews Claim Boring Company Failed to Pay Workers and Snubbed OSHA Concerns](https://nashvillebanner.com/2025/11/25/boring-company-nashville-shane-trucking-and-excavating/)
 * [2025-11-26, 20:01:41](https://news.ycombinator.com/item?id=46061714) - [The most male and female reasons to end up hospital](https://leobenedictus.substack.com/p/the-most-male-and-female-reasons)
