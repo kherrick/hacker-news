@@ -25,6 +25,7 @@
 * [2025-11-22, 17:49:27](https://news.ycombinator.com/item?id=46016639) - [China Reaches Energy Milestone by \"Breeding\" Uranium from Thorium](https://humanprogress.org/china-reaches-energy-milestone-by-breeding-uranium-from-thorium/)
 * [2025-11-22, 17:49:05](https://news.ycombinator.com/item?id=46016630) - [Gwern's \"Stem Humor\" Directory](https://gwern.net/doc/math/humor/index)
 * [2025-11-22, 17:47:23](https://news.ycombinator.com/item?id=46016613) - [The realities of being a pop star](https://itscharlibb.substack.com/p/the-realities-of-being-a-pop-star)
+* [2025-11-22, 17:44:12](https://news.ycombinator.com/item?id=46016579) - [Java Decompiler](http://java-decompiler.github.io)
 * [2025-11-22, 17:08:36](https://news.ycombinator.com/item?id=46016249) - [The privacy nightmare of browser fingerprinting](https://kevinboone.me/fingerprinting.html)
 * [2025-11-22, 16:53:06](https://news.ycombinator.com/item?id=46016104) - [Advice for crime analyst to break into data science](https://andrewpwheeler.com/2025/11/21/advice-for-crime-analyst-to-break-into-data-science/)
 * [2025-11-22, 16:49:15](https://news.ycombinator.com/item?id=46016074) - [Our babies were taken after 'biased' parenting test](https://www.bbc.co.uk/news/articles/c1wlw2qj113o)
