@@ -7,6 +7,7 @@
 * [2025-11-26, 17:03:21](https://news.ycombinator.com/item?id=46059620) - [Optery (YC W22) Hiring CISO, Release Manager, Tech Lead (Node), Full Stack Eng](https://www.optery.com/careers/)
 * [2025-11-26, 16:34:58](https://news.ycombinator.com/item?id=46059227) - [Cloudflare outage should not have happened](https://ebellani.github.io/blog/2025/cloudflare-outage-should-not-have-happened-and-they-seem-to-be-missing-the-point-on-how-to-avoid-it-in-the-future/)
 * [2025-11-26, 16:12:51](https://news.ycombinator.com/item?id=46058912) - [Slashdot Effect](https://en.wikipedia.org/wiki/Slashdot_effect)
+* [2025-11-26, 15:49:11](https://news.ycombinator.com/item?id=46058600) - [From blood sugar to brain relief: GLP-1 therapy slashes migraine frequency](https://www.medlink.com/news/from-blood-sugar-to-brain-relief-glp-1-therapy-slashes-migraine-frequency)
 * [2025-11-26, 15:44:09](https://news.ycombinator.com/item?id=46058531) - [KDE Plasma 6.8 Will Go Wayland-Exclusive in Dropping X11 Session Support](https://www.phoronix.com/news/KDE-Plasma-68-Wayland-Exclusive)
 * [2025-11-26, 15:32:06](https://news.ycombinator.com/item?id=46058361) - [MIT study finds AI can replace 11.7% of U.S. workforce](https://www.cnbc.com/2025/11/26/mit-study-finds-ai-can-already-replace-11point7percent-of-us-workforce.html)
 * [2025-11-26, 15:06:37](https://news.ycombinator.com/item?id=46058065) - [OpenAI needs to raise at least $207B by 2030 so it can continue to lose money](https://ft.com/content/23e54a28-6f63-4533-ab96-3756d9c88bad)
