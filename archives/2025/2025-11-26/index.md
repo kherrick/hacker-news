@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-11-26](index.md)
 
+* [2025-11-26, 13:40:04](https://news.ycombinator.com/item?id=46057304) - [I DM'd a Korean Presidential Candidate – and Ended Up Building His Core Campaign](https://medium.com/@wjsdj2008/i-dmd-a-korean-presidential-candidate-and-ended-up-building-his-core-campaign-platform-the-38eb1c5f5e7d)
 * [2025-11-26, 12:28:30](https://news.ycombinator.com/item?id=46056763) - [Kagi Hub Belgrade](https://blog.kagi.com/kagi-hub)
 * [2025-11-26, 12:01:24](https://news.ycombinator.com/item?id=46056583) - [Cekura (YC F24) Is Hiring](https://www.ycombinator.com/companies/cekura-ai/jobs/0ZGLW69-forward-deployed-engineer-us)
 * [2025-11-26, 11:31:42](https://news.ycombinator.com/item?id=46056358) - [EU council reaches position on Chat Control](https://www.consilium.europa.eu/de/press/press-releases/2025/11/26/child-sexual-abuse-council-reaches-position-on-law-protecting-children-from-online-abuse/)

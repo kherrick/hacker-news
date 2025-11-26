@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-11-26, 13:40:04](https://news.ycombinator.com/item?id=46057304) - [I DM'd a Korean Presidential Candidate – and Ended Up Building His Core Campaign](https://medium.com/@wjsdj2008/i-dmd-a-korean-presidential-candidate-and-ended-up-building-his-core-campaign-platform-the-38eb1c5f5e7d)
 * [2025-11-26, 12:28:30](https://news.ycombinator.com/item?id=46056763) - [Kagi Hub Belgrade](https://blog.kagi.com/kagi-hub)
 * [2025-11-26, 12:01:24](https://news.ycombinator.com/item?id=46056583) - [Cekura (YC F24) Is Hiring](https://www.ycombinator.com/companies/cekura-ai/jobs/0ZGLW69-forward-deployed-engineer-us)
 * [2025-11-26, 10:08:20](https://news.ycombinator.com/item?id=46055944) - [I don't care how well your \"AI\" works](https://fokus.cool/2025/11/25/i-dont-care-how-well-your-ai-works.html)
@@ -10,7 +11,6 @@
 * [2025-11-26, 01:51:26](https://news.ycombinator.com/item?id=46053262) - [BebboSSH: SSH2 implementation for Amiga systems (68000, GPLv3)](https://franke.ms/git/bebbo/bebbossh)
 * [2025-11-26, 00:33:29](https://news.ycombinator.com/item?id=46052685) - [CS234: Reinforcement Learning Winter 2025](https://web.stanford.edu/class/cs234/)
 * [2025-11-25, 22:13:35](https://news.ycombinator.com/item?id=46051449) - [Show HN: KiDoom – Running DOOM on PCB Traces](https://www.mikeayles.com/#kidoom)
-* [2025-11-25, 22:04:31](https://news.ycombinator.com/item?id=46051340) - [Someone at YouTube Needs Glasses: The Prophecy Has Been Fulfilled](https://jayd.ml/2025/11/10/someone-at-youtube-needs-glasses-prophecy-fulfilled.html)
 * [2025-11-25, 19:53:20](https://news.ycombinator.com/item?id=46049932) - [A new bridge links the math of infinity to computer science](https://www.quantamagazine.org/a-new-bridge-links-the-strange-math-of-infinity-to-computer-science-20251121/)
 * [2025-11-25, 18:31:16](https://news.ycombinator.com/item?id=46048996) - [Google Antigravity exfiltrates data via indirect prompt injection attack](https://www.promptarmor.com/resources/google-antigravity-exfiltrates-data)
 * [2025-11-25, 17:33:50](https://news.ycombinator.com/item?id=46048252) - [Show HN: We built an open source, zero webhooks payment processor](https://github.com/flowglad/flowglad)
