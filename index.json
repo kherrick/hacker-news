@@ -141,12 +141,12 @@
   ],
   [
     [
-      "2025-11-27, 06:14:21",
-      "https://news.ycombinator.com/item?id=46066255"
+      "2025-11-27, 05:21:16",
+      "https://news.ycombinator.com/item?id=46065955"
     ],
     [
-      "Last Issue of \"ECMAScript News\"",
-      "https://ecmascript.news/archive/es-next-news-2025-11-26.html"
+      "Tell HN: Happy Thanksgiving",
+      "https://news.ycombinator.com/item?id=46065955"
     ]
   ],
   [
@@ -281,22 +281,22 @@
   ],
   [
     [
-      "2025-11-23, 02:27:16",
-      "https://news.ycombinator.com/item?id=46020193"
-    ],
-    [
-      "A Fast 64-Bit Date Algorithm (30–40% faster by counting dates backwards)",
-      "https://www.benjoffe.com/fast-date-64"
-    ]
-  ],
-  [
-    [
       "2025-11-21, 15:04:13",
       "https://news.ycombinator.com/item?id=46005239"
     ],
     [
       "The Concrete Pontoons of Bristol",
       "https://thecretefleet.com/blog/f/the-concrete-pontoons-of-bristol"
+    ]
+  ],
+  [
+    [
+      "2025-11-21, 12:28:37",
+      "https://news.ycombinator.com/item?id=46003887"
+    ],
+    [
+      "Abuse of the nullish coalescing operator in JS/TS",
+      "https://fredrikmalmo.com/blog/js-ts-nullish-empty-string-coalescing"
     ]
   ]
 ]
