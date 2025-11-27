@@ -10,6 +10,7 @@
 * [2025-11-22, 21:19:35](https://news.ycombinator.com/item?id=46018374) - [Pitch Multiplication (2017)](https://klangnewmusic.weebly.com/direct-sound/pitch-multiplication)
 * [2025-11-22, 21:11:15](https://news.ycombinator.com/item?id=46018292) - [Kids who own smartphones before age 13 have worse mental health outcomes: Study](https://abcnews.go.com/GMA/Family/kids-smartphones-age-13-worse-mental-health-outcomes/story?id=123961082)
 * [2025-11-22, 21:02:34](https://news.ycombinator.com/item?id=46018229) - [Show HN: I built a wizard to turn ideas into AI coding agent-ready specs](https://vibescaffold.dev/)
+* [2025-11-22, 21:02:02](https://news.ycombinator.com/item?id=46018226) - [Cardiac implantable electronic devices' longevity: A novel modelling tool](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0333195)
 * [2025-11-22, 20:54:35](https://news.ycombinator.com/item?id=46018165) - [Show HN: Build the habit of writing meaningful commit messages](https://github.com/arpxspace/smartcommit)
 * [2025-11-22, 20:54:02](https://news.ycombinator.com/item?id=46018158) - [A Reverse Engineer's Anatomy of the macOS Boot Chain and Security Architecture](https://stack.int.mov/a-reverse-engineers-anatomy-of-the-macos-boot-chain-security-architecture/)
 * [2025-11-22, 20:46:43](https://news.ycombinator.com/item?id=46018107) - [Show HN: RealDeed – Tokenize Real Estate into Digital Assets](https://www.realdeed.co/)
