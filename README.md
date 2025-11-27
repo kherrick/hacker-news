@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-11-27, 12:48:12](https://news.ycombinator.com/item?id=46068777) - [The State of GPL Propagation to AI Models](https://shujisado.org/2025/11/27/gpl-propagates-to-ai-models-trained-on-gpl-code/)
+* [2025-11-27, 12:39:06](https://news.ycombinator.com/item?id=46068716) - [AGI is not possible even in 10 years](https://medium.com/@anwarzaid76/agi-is-not-possible-even-in-10-years-013a1aec0d9c)
 * [2025-11-27, 11:11:46](https://news.ycombinator.com/item?id=46068147) - [C64 Burrow.BAS](https://basic-code.bearblog.dev/c64-burrow/)
 * [2025-11-27, 10:54:02](https://news.ycombinator.com/item?id=46068015) - [Arthur Conan Doyle explored men’s mental health through Sherlock Holmes](https://scienceclock.com/arthur-conan-doyle-delved-into-mens-mental-health-through-his-sherlock-holmes-stories/)
 * [2025-11-27, 07:31:24](https://news.ycombinator.com/item?id=46066695) - [Ray Marching Soft Shadows in 2D (2020)](https://www.rykap.com/2020/09/23/distance-fields/)
@@ -26,7 +27,6 @@
 * [2025-11-24, 11:46:05](https://news.ycombinator.com/item?id=46033046) - [Essence and accident in language model-assisted coding](https://www.sicpers.info/2025/11/essence-and-accident-in-language-model-assisted-coding/)
 * [2025-11-23, 18:16:58](https://news.ycombinator.com/item?id=46025911) - [G0-G3 corners, visualised: learn what \"Apple corners\" are](https://www.printables.com/model/1490911-g0-g3-corners-visualised-learn-what-apple-corners)
 * [2025-11-23, 02:27:16](https://news.ycombinator.com/item?id=46020193) - [A Fast 64-Bit Date Algorithm (30–40% faster by counting dates backwards)](https://www.benjoffe.com/fast-date-64)
-* [2025-11-22, 20:11:25](https://news.ycombinator.com/item?id=46017830) - [A woman on a mission to photograph every species of hummingbird](https://www.audubon.org/magazine/meet-woman-mission-photograph-every-species-of-hummingbird-world)
 * [2025-11-22, 07:50:44](https://news.ycombinator.com/item?id=46012980) - [Can you take an ox to Oxford?](https://alexwlchan.net/2025/ox-in-oxford/)
 * [2025-11-21, 18:28:31](https://news.ycombinator.com/item?id=46007267) - [How/why to sweep async tasks under a Postgres table](https://taylor.town/pg-task)
 * [2025-11-20, 21:33:06](https://news.ycombinator.com/item?id=45998044) - [Closest Harmonic Number to an Integer](https://www.johndcook.com/blog/2025/11/19/closest-harmonic-number-to-an-integer/)
