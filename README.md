@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-11-27, 14:48:02](https://news.ycombinator.com/item?id=46069743) - [Don't be a scary old guy: My 40s survival strategy with charm](https://www.devas.life/dont-be-a-scary-old-guy-my-40s-survival-strategy-with-charm/)
+* [2025-11-27, 15:07:51](https://news.ycombinator.com/item?id=46069919) - [What Happens When You Train Pure Logic Without Knowledge: 15-Expert Moe](https://github.com/vac-architector/VAC-Memory-System/blob/main/LOGICA_MOE_STORY.md)
 * [2025-11-27, 14:26:35](https://news.ycombinator.com/item?id=46069556) - [Show HN: Runprompt – run .prompt files from the command line](https://github.com/chr15m/runprompt)
 * [2025-11-27, 13:28:34](https://news.ycombinator.com/item?id=46069048) - [TPUs vs. GPUs and why Google is positioned to win AI race in the long term](https://www.uncoveralpha.com/p/the-chip-made-for-the-ai-inference)
 * [2025-11-27, 13:00:17](https://news.ycombinator.com/item?id=46068847) - [Show HN: MkSlides – Markdown to slides with a similar workflow to MkDocs](https://github.com/MartenBE/mkslides)
@@ -25,9 +25,9 @@
 * [2025-11-24, 20:48:18](https://news.ycombinator.com/item?id=46039106) - [Interactive λ-Reduction](https://deltanets.org/)
 * [2025-11-24, 12:39:10](https://news.ycombinator.com/item?id=46033472) - [Technical Deflation](https://benanderson.work/blog/technical-deflation/)
 * [2025-11-24, 11:46:05](https://news.ycombinator.com/item?id=46033046) - [Essence and accident in language model-assisted coding](https://www.sicpers.info/2025/11/essence-and-accident-in-language-model-assisted-coding/)
-* [2025-11-23, 23:16:15](https://news.ycombinator.com/item?id=46028339) - [A Nicotine Analogue I Had Known and Didn't Love: 6-Methylnicotine](https://psychotechnology.substack.com/p/a-nicotine-analogue-i-had-known-and)
 * [2025-11-23, 18:16:58](https://news.ycombinator.com/item?id=46025911) - [G0-G3 corners, visualised: learn what \"Apple corners\" are](https://www.printables.com/model/1490911-g0-g3-corners-visualised-learn-what-apple-corners)
 * [2025-11-23, 02:27:16](https://news.ycombinator.com/item?id=46020193) - [A Fast 64-Bit Date Algorithm (30–40% faster by counting dates backwards)](https://www.benjoffe.com/fast-date-64)
+* [2025-11-21, 18:28:31](https://news.ycombinator.com/item?id=46007267) - [How/why to sweep async tasks under a Postgres table](https://taylor.town/pg-task)
 * [2025-11-21, 15:04:13](https://news.ycombinator.com/item?id=46005239) - [The Concrete Pontoons of Bristol](https://thecretefleet.com/blog/f/the-concrete-pontoons-of-bristol)
 * [2025-11-20, 21:33:06](https://news.ycombinator.com/item?id=45998044) - [Closest Harmonic Number to an Integer](https://www.johndcook.com/blog/2025/11/19/closest-harmonic-number-to-an-integer/)
 
