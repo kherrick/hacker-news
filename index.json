@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-11-27, 22:50:26",
+      "https://news.ycombinator.com/item?id=46073862"
+    ],
+    [
+      "Show HN: Whole-home VPN router with hardware kill switch (OpenWrt and WireGuard)",
+      "https://github.com/yoloshii/privacy-first-network"
+    ]
+  ],
+  [
+    [
       "2025-11-27, 22:48:44",
       "https://news.ycombinator.com/item?id=46073855"
     ],
@@ -51,12 +61,12 @@
   ],
   [
     [
-      "2025-11-27, 18:37:41",
-      "https://news.ycombinator.com/item?id=46072002"
+      "2025-11-27, 19:07:29",
+      "https://news.ycombinator.com/item?id=46072296"
     ],
     [
-      "AI CEO – Replace your boss before they replace you",
-      "https://replaceyourboss.ai/"
+      "Internet Handle",
+      "https://internethandle.org/"
     ]
   ],
   [
@@ -97,16 +107,6 @@
     [
       "Same-day upstream Linux support for Snapdragon 8 Elite Gen 5",
       "https://www.qualcomm.com/developer/blog/2025/10/same-day-snapdragon-8-elite-gen-5-upstream-linux-support"
-    ]
-  ],
-  [
-    [
-      "2025-11-27, 15:36:56",
-      "https://news.ycombinator.com/item?id=46070203"
-    ],
-    [
-      "GitLab discovers widespread NPM supply chain attack",
-      "https://about.gitlab.com/blog/gitlab-discovers-widespread-npm-supply-chain-attack/"
     ]
   ],
   [
@@ -181,6 +181,16 @@
   ],
   [
     [
+      "2025-11-27, 04:55:57",
+      "https://news.ycombinator.com/item?id=46065817"
+    ],
+    [
+      "Music eases surgery and speeds recovery, study finds",
+      "https://www.bbc.com/news/articles/c231dv9zpz3o"
+    ]
+  ],
+  [
+    [
       "2025-11-27, 04:34:56",
       "https://news.ycombinator.com/item?id=46065698"
     ],
@@ -251,32 +261,22 @@
   ],
   [
     [
-      "2025-11-24, 20:48:18",
-      "https://news.ycombinator.com/item?id=46039106"
-    ],
-    [
-      "Interactive λ-Reduction",
-      "https://deltanets.org/"
-    ]
-  ],
-  [
-    [
-      "2025-11-24, 13:27:58",
-      "https://news.ycombinator.com/item?id=46033876"
-    ],
-    [
-      "Generating Cats with KPN Filtering",
-      "https://aschrein.github.io/jekyll/update/2025/11/22/generating_cats.html"
-    ]
-  ],
-  [
-    [
       "2025-11-24, 08:10:11",
       "https://news.ycombinator.com/item?id=46031552"
     ],
     [
       "Quake Engine Indicators",
       "https://fabiensanglard.net/quake_indicators/index.html"
+    ]
+  ],
+  [
+    [
+      "2025-11-23, 15:33:22",
+      "https://news.ycombinator.com/item?id=46024302"
+    ],
+    [
+      "Indie, Alone, and Figuring It Out",
+      "https://danijelavrzan.com/posts/2025/11/indie-dev/"
     ]
   ],
   [
