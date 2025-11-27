@@ -65,7 +65,7 @@
       "https://news.ycombinator.com/item?id=46069771"
     ],
     [
-      "We're Losing Our Voice to LLMs",
+      "We're losing our voice to LLMs",
       "https://tonyalicea.dev/blog/were-losing-our-voice-to-llms/"
     ]
   ],
@@ -91,12 +91,32 @@
   ],
   [
     [
+      "2025-11-27, 13:28:34",
+      "https://news.ycombinator.com/item?id=46069048"
+    ],
+    [
+      "TPUs vs. GPUs and why Google is positioned to win AI race in the long term",
+      "https://www.uncoveralpha.com/p/the-chip-made-for-the-ai-inference"
+    ]
+  ],
+  [
+    [
       "2025-11-27, 13:00:17",
       "https://news.ycombinator.com/item?id=46068847"
     ],
     [
       "Show HN: MkSlides – Markdown to slides with a similar workflow to MkDocs",
       "https://github.com/MartenBE/mkslides"
+    ]
+  ],
+  [
+    [
+      "2025-11-27, 12:48:12",
+      "https://news.ycombinator.com/item?id=46068777"
+    ],
+    [
+      "The current state of the theory that GPL propagates to AI models",
+      "https://shujisado.org/2025/11/27/gpl-propagates-to-ai-models-trained-on-gpl-code/"
     ]
   ],
   [
@@ -161,16 +181,6 @@
   ],
   [
     [
-      "2025-11-27, 04:34:56",
-      "https://news.ycombinator.com/item?id=46065698"
-    ],
-    [
-      "Coq: The World's Best Macro Assembler? (2013) [pdf]",
-      "https://nickbenton.name/coqasm.pdf"
-    ]
-  ],
-  [
-    [
       "2025-11-27, 02:54:23",
       "https://news.ycombinator.com/item?id=46065034"
     ],
@@ -191,22 +201,22 @@
   ],
   [
     [
-      "2025-11-27, 02:04:57",
-      "https://news.ycombinator.com/item?id=46064680"
-    ],
-    [
-      "Functional Data Structures and Algorithms: a Proof Assistant Approach",
-      "https://fdsa-book.net/"
-    ]
-  ],
-  [
-    [
       "2025-11-26, 22:57:56",
       "https://news.ycombinator.com/item?id=46063272"
     ],
     [
       "Running Unsupported iOS on Deprecated Devices",
       "https://nyansatan.github.io/run-unsupported-ios/"
+    ]
+  ],
+  [
+    [
+      "2025-11-26, 22:00:48",
+      "https://news.ycombinator.com/item?id=46062855"
+    ],
+    [
+      "Why Strong Consistency?",
+      "https://brooker.co.za/blog/2025/11/18/consistency.html"
     ]
   ],
   [
@@ -227,16 +237,6 @@
     [
       "Gemini CLI Tips and Tricks for Agentic Coding",
       "https://github.com/addyosmani/gemini-cli-tips"
-    ]
-  ],
-  [
-    [
-      "2025-11-26, 14:02:46",
-      "https://news.ycombinator.com/item?id=46057488"
-    ],
-    [
-      "Voyager 1 is about to reach one light-day from Earth",
-      "https://scienceclock.com/voyager-1-is-about-to-reach-one-light-day-from-earth/"
     ]
   ],
   [
