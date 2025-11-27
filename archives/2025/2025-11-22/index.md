@@ -53,6 +53,7 @@
 * [2025-11-22, 09:41:46](https://news.ycombinator.com/item?id=46013478) - [The history of Indian science fiction](https://altermag.com/articles/the-secret-history-of-indian-science-fiction)
 * [2025-11-22, 09:41:29](https://news.ycombinator.com/item?id=46013477) - [Roblox CEO Makes a Fool of Himself in Car-Crash Interview](https://kotaku.com/roblox-new-york-times-interview-baszucki-2000646174)
 * [2025-11-22, 08:26:13](https://news.ycombinator.com/item?id=46013132) - [Serflings is a remake of The Settlers 1](https://www.simpleguide.net/serflings.xhtml)
+* [2025-11-22, 07:50:44](https://news.ycombinator.com/item?id=46012980) - [Can you take an ox to Oxford?](https://alexwlchan.net/2025/ox-in-oxford/)
 * [2025-11-22, 07:22:55](https://news.ycombinator.com/item?id=46012846) - [Set theory with types](https://lawrencecpaulson.github.io//2025/11/21/Typed_Set_Theory.html)
 * [2025-11-22, 06:25:10](https://news.ycombinator.com/item?id=46012588) - [Room-temperature processible ceramics enable sustainable electronics](https://www.dezeen.com/2025/11/17/geolectric-light-mit-design-intelligence-lab/)
 * [2025-11-22, 06:13:05](https://news.ycombinator.com/item?id=46012538) - [Building a deep-space logistics startup](https://ionmicrosys.com/)
