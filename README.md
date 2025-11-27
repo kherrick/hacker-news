@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-11-27, 15:07:51](https://news.ycombinator.com/item?id=46069919) - [What Happens When You Train Pure Logic Without Knowledge: 15-Expert Moe](https://github.com/vac-architector/VAC-Memory-System/blob/main/LOGICA_MOE_STORY.md)
+* [2025-11-27, 14:51:01](https://news.ycombinator.com/item?id=46069771) - [We're Losing Our Voice to LLMs](https://tonyalicea.dev/blog/were-losing-our-voice-to-llms/)
 * [2025-11-27, 14:26:35](https://news.ycombinator.com/item?id=46069556) - [Show HN: Runprompt – run .prompt files from the command line](https://github.com/chr15m/runprompt)
 * [2025-11-27, 13:28:34](https://news.ycombinator.com/item?id=46069048) - [TPUs vs. GPUs and why Google is positioned to win AI race in the long term](https://www.uncoveralpha.com/p/the-chip-made-for-the-ai-inference)
 * [2025-11-27, 13:00:17](https://news.ycombinator.com/item?id=46068847) - [Show HN: MkSlides – Markdown to slides with a similar workflow to MkDocs](https://github.com/MartenBE/mkslides)
