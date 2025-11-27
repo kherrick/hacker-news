@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-11-22](index.md)
 
 * [2025-11-22, 23:08:57](https://news.ycombinator.com/item?id=46019168) - [How to Spot a Counterfeit Lithium-Ion Battery](https://spectrum.ieee.org/counterfeit-lithium-ion-batteries)
+* [2025-11-22, 23:08:50](https://news.ycombinator.com/item?id=46019167) - [ZZ9000 multifunction card for Zorro Amigas](https://www.amiga-shop.net/en/Amiga-Hardware/Amiga-graphic-cards/ZZ9000-multifunction-card-for-Zorro-Amigas::1011.html)
 * [2025-11-22, 22:03:29](https://news.ycombinator.com/item?id=46018664) - [Windows ARM64 Internals: Deconstructing Pointer Authentication](https://www.preludesecurity.com/blog/windows-arm64-internals-deconstructing-pointer-authentication)
 * [2025-11-22, 21:20:24](https://news.ycombinator.com/item?id=46018380) - [WorldGen by Meta – Text to Immersive 3D Worlds](https://www.meta.com/en-gb/blog/worldgen-3d-world-generation-reality-labs-generative-ai-research/)
 * [2025-11-22, 21:19:35](https://news.ycombinator.com/item?id=46018374) - [Pitch Multiplication (2017)](https://klangnewmusic.weebly.com/direct-sound/pitch-multiplication)
