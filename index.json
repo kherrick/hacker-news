@@ -1,6 +1,36 @@
 [
   [
     [
+      "2025-11-27, 02:54:23",
+      "https://news.ycombinator.com/item?id=46065034"
+    ],
+    [
+      "DIY NAS: 2026 Edition",
+      "https://blog.briancmoses.com/2025/11/diy-nas-2026-edition.html"
+    ]
+  ],
+  [
+    [
+      "2025-11-27, 02:51:31",
+      "https://news.ycombinator.com/item?id=46065015"
+    ],
+    [
+      "Green Card Interviews End in Handcuffs for Spouses of U.S. Citizens",
+      "https://www.nytimes.com/2025/11/26/us/trump-green-card-interview-arrests.html"
+    ]
+  ],
+  [
+    [
+      "2025-11-27, 02:14:36",
+      "https://news.ycombinator.com/item?id=46064757"
+    ],
+    [
+      "Penpot: The Open-Source Figma",
+      "https://github.com/penpot/penpot"
+    ]
+  ],
+  [
+    [
       "2025-11-27, 01:49:00",
       "https://news.ycombinator.com/item?id=46064571"
     ],
@@ -11,12 +41,22 @@
   ],
   [
     [
-      "2025-11-27, 01:18:22",
-      "https://news.ycombinator.com/item?id=46064352"
+      "2025-11-27, 01:20:33",
+      "https://news.ycombinator.com/item?id=46064367"
     ],
     [
-      "Solar's growth in US almost enough to offset rising energy use",
-      "https://arstechnica.com/science/2025/11/solars-growth-in-us-almost-enough-to-offset-rising-energy-use/"
+      "bonsai_term: A library for building dynamic terminal apps by Jane Street",
+      "https://github.com/janestreet/bonsai_term"
+    ]
+  ],
+  [
+    [
+      "2025-11-27, 00:42:13",
+      "https://news.ycombinator.com/item?id=46064065"
+    ],
+    [
+      "DSP 101 Part 1: An Introductory Course in DSP System Design",
+      "https://www.analog.com/en/resources/analog-dialogue/articles/dsp-101-part-1.html"
     ]
   ],
   [
@@ -121,16 +161,6 @@
   ],
   [
     [
-      "2025-11-26, 17:12:01",
-      "https://news.ycombinator.com/item?id=46059737"
-    ],
-    [
-      "DRAM prices are spiking, but I don't trust the industry's why",
-      "https://www.xda-developers.com/dram-prices-spiking-dont-trust-industry-reasons/"
-    ]
-  ],
-  [
-    [
       "2025-11-26, 17:03:21",
       "https://news.ycombinator.com/item?id=46059620"
     ],
@@ -191,16 +221,6 @@
   ],
   [
     [
-      "2025-11-24, 14:02:04",
-      "https://news.ycombinator.com/item?id=46034189"
-    ],
-    [
-      "Show HN: Yolodex – real-time customer enrichment API",
-      "https://api.yolodex.ai"
-    ]
-  ],
-  [
-    [
       "2025-11-24, 04:16:02",
       "https://news.ycombinator.com/item?id=46030325"
     ],
@@ -221,16 +241,6 @@
   ],
   [
     [
-      "2025-11-23, 17:17:19",
-      "https://news.ycombinator.com/item?id=46025223"
-    ],
-    [
-      "JOPA: Java compiler in C++, Jikes modernized to Java 6 with Claude",
-      "https://github.com/7mind/jopa"
-    ]
-  ],
-  [
-    [
       "2025-11-23, 07:40:26",
       "https://news.ycombinator.com/item?id=46021577"
     ],
@@ -241,22 +251,22 @@
   ],
   [
     [
-      "2025-11-23, 06:49:53",
-      "https://news.ycombinator.com/item?id=46021356"
-    ],
-    [
-      "A lightweight code editor with Vim mode, Git integration, and more",
-      "https://athas.dev"
-    ]
-  ],
-  [
-    [
       "2025-11-23, 02:27:16",
       "https://news.ycombinator.com/item?id=46020193"
     ],
     [
       "A Fast 64-Bit Date Algorithm (30–40% faster by counting dates backwards)",
       "https://www.benjoffe.com/fast-date-64"
+    ]
+  ],
+  [
+    [
+      "2025-11-22, 21:02:02",
+      "https://news.ycombinator.com/item?id=46018226"
+    ],
+    [
+      "Cardiac implantable electronic devices' longevity: A novel modelling tool",
+      "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0333195"
     ]
   ],
   [
@@ -277,16 +287,6 @@
     [
       "Show HN: I turned algae into a bio-altimeter and put it on a weather balloon",
       "https://radi8.dev/blog/stratospore/"
-    ]
-  ],
-  [
-    [
-      "2025-11-21, 15:04:01",
-      "https://news.ycombinator.com/item?id=46005237"
-    ],
-    [
-      "The Weird and Wonderful Chemistry of Audioactive Decay (1986) [pdf]",
-      "https://static01.nyt.com/packages/pdf/crossword/GENIUS_AT_PLAY_Eureka_Article.pdf"
     ]
   ],
   [
