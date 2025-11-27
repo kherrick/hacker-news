@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-11-27](index.md)
 
+* [2025-11-27, 06:14:21](https://news.ycombinator.com/item?id=46066255) - [Last Issue of \"ECMAScript News\"](https://ecmascript.news/archive/es-next-news-2025-11-26.html)
 * [2025-11-27, 05:51:21](https://news.ycombinator.com/item?id=46066126) - [Principles of Vasocomputation](https://opentheory.net/2023/07/principles-of-vasocomputation-a-unification-of-buddhist-phenomenology-active-inference-and-physical-reflex-part-i/)
 * [2025-11-27, 05:28:50](https://news.ycombinator.com/item?id=46065997) - [Show HN: Era – Open-source local sandbox for AI agents](https://github.com/BinSquare/ERA)
 * [2025-11-27, 05:22:28](https://news.ycombinator.com/item?id=46065959) - [Evaluating Uniform Memory Access Mode on AMD's Turin](https://chipsandcheese.com/p/evaluating-uniform-memory-access)

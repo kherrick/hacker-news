@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-11-27, 06:14:21](https://news.ycombinator.com/item?id=46066255) - [Last Issue of \"ECMAScript News\"](https://ecmascript.news/archive/es-next-news-2025-11-26.html)
 * [2025-11-27, 05:51:21](https://news.ycombinator.com/item?id=46066126) - [Principles of Vasocomputation](https://opentheory.net/2023/07/principles-of-vasocomputation-a-unification-of-buddhist-phenomenology-active-inference-and-physical-reflex-part-i/)
 * [2025-11-27, 05:28:50](https://news.ycombinator.com/item?id=46065997) - [Show HN: Era – Open-source local sandbox for AI agents](https://github.com/BinSquare/ERA)
 * [2025-11-27, 05:22:28](https://news.ycombinator.com/item?id=46065959) - [Evaluating Uniform Memory Access Mode on AMD's Turin](https://chipsandcheese.com/p/evaluating-uniform-memory-access)
@@ -24,7 +25,6 @@
 * [2025-11-26, 10:06:41](https://news.ycombinator.com/item?id=46055935) - [A cell so minimal that it challenges definitions of life](https://www.quantamagazine.org/a-cell-so-minimal-that-it-challenges-definitions-of-life-20251124/)
 * [2025-11-24, 21:12:25](https://news.ycombinator.com/item?id=46039387) - [Willis Whitfield: A simple man with a simple solution that changed the world](https://www.sandia.gov/labnews/2024/04/04/willis-whitfield-a-simple-man-with-a-simple-solution-that-changed-the-world/)
 * [2025-11-24, 08:30:00](https://news.ycombinator.com/item?id=46031664) - [Ruby Was Ready from the Start](https://obie.medium.com/ruby-was-ready-from-the-start-4b089b17babb)
-* [2025-11-24, 04:16:02](https://news.ycombinator.com/item?id=46030325) - [How Does Microwaving Grapes Create Plumes of Plasma?](https://www.pbs.org/wgbh/nova/article/how-does-microwaving-grapes-create-plumes-plasma/)
 * [2025-11-23, 21:09:33](https://news.ycombinator.com/item?id=46027348) - [Making my 1970's-style renderer multi-threaded](https://filiph.net/text/making-my-1970s-renderer-multi-threaded.html)
 * [2025-11-23, 18:16:58](https://news.ycombinator.com/item?id=46025911) - [G0-G3 corners, visualised: learn what \"Apple corners\" are](https://www.printables.com/model/1490911-g0-g3-corners-visualised-learn-what-apple-corners)
 * [2025-11-23, 02:27:16](https://news.ycombinator.com/item?id=46020193) - [A Fast 64-Bit Date Algorithm (30–40% faster by counting dates backwards)](https://www.benjoffe.com/fast-date-64)
