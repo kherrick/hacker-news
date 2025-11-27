@@ -25,9 +25,9 @@
 * [2025-11-26, 15:40:14](https://news.ycombinator.com/item?id=46058471) - [Feedback doesn't scale](https://another.rodeo/feedback/)
 * [2025-11-26, 13:36:19](https://news.ycombinator.com/item?id=46057266) - [Memories of .us](https://computer.rip/2025-11-11-dot-us.html)
 * [2025-11-24, 20:48:18](https://news.ycombinator.com/item?id=46039106) - [Interactive λ-Reduction](https://deltanets.org/)
+* [2025-11-24, 13:27:58](https://news.ycombinator.com/item?id=46033876) - [Generating Cats with KPN Filtering](https://aschrein.github.io/jekyll/update/2025/11/22/generating_cats.html)
 * [2025-11-24, 12:39:10](https://news.ycombinator.com/item?id=46033472) - [Technical Deflation](https://benanderson.work/blog/technical-deflation/)
 * [2025-11-24, 08:10:11](https://news.ycombinator.com/item?id=46031552) - [Quake Engine Indicators](https://fabiensanglard.net/quake_indicators/index.html)
-* [2025-11-23, 18:16:58](https://news.ycombinator.com/item?id=46025911) - [G0-G3 corners, visualised: learn what \"Apple corners\" are](https://www.printables.com/model/1490911-g0-g3-corners-visualised-learn-what-apple-corners)
 * [2025-11-22, 23:08:50](https://news.ycombinator.com/item?id=46019167) - [ZZ9000 multifunction card for Zorro Amigas](https://www.amiga-shop.net/en/Amiga-Hardware/Amiga-graphic-cards/ZZ9000-multifunction-card-for-Zorro-Amigas::1011.html)
 * [2025-11-22, 20:54:06](https://news.ycombinator.com/item?id=46018159) - [Physicists drive antihydrogen breakthrough at CERN](https://phys.org/news/2025-11-physicists-antihydrogen-breakthrough-cern-technique.html)
 
