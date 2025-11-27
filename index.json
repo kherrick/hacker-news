@@ -35,7 +35,7 @@
       "https://news.ycombinator.com/item?id=46064571"
     ],
     [
-      "Migrating the Main Zig Repository from GitHub to Codeberg",
+      "Migrating the main Zig repository from GitHub to Codeberg",
       "https://ziglang.org/news/migrating-from-github-to-codeberg/"
     ]
   ],
@@ -151,16 +151,6 @@
   ],
   [
     [
-      "2025-11-26, 17:12:01",
-      "https://news.ycombinator.com/item?id=46059737"
-    ],
-    [
-      "DRAM prices are spiking, but I don't trust the industry's why",
-      "https://www.xda-developers.com/dram-prices-spiking-dont-trust-industry-reasons/"
-    ]
-  ],
-  [
-    [
       "2025-11-26, 17:03:21",
       "https://news.ycombinator.com/item?id=46059620"
     ],
@@ -237,6 +227,16 @@
     [
       "Show HN: Safe-NPM – only install packages that are +90 days old",
       "https://github.com/kevinslin/safe-npm"
+    ]
+  ],
+  [
+    [
+      "2025-11-23, 21:09:33",
+      "https://news.ycombinator.com/item?id=46027348"
+    ],
+    [
+      "Making my 1970's-style renderer multi-threaded",
+      "https://filiph.net/text/making-my-1970s-renderer-multi-threaded.html"
     ]
   ],
   [
