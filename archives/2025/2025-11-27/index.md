@@ -4,7 +4,11 @@
 
 ### [Archives](../../index.md) for [2025-11-27](index.md)
 
+* [2025-11-27, 05:51:21](https://news.ycombinator.com/item?id=46066126) - [Principles of Vasocomputation](https://opentheory.net/2023/07/principles-of-vasocomputation-a-unification-of-buddhist-phenomenology-active-inference-and-physical-reflex-part-i/)
+* [2025-11-27, 05:28:50](https://news.ycombinator.com/item?id=46065997) - [Show HN: Era – Open-source local sandbox for AI agents](https://github.com/BinSquare/ERA)
+* [2025-11-27, 05:22:28](https://news.ycombinator.com/item?id=46065959) - [Evaluating Uniform Memory Access Mode on AMD's Turin](https://chipsandcheese.com/p/evaluating-uniform-memory-access)
 * [2025-11-27, 05:21:16](https://news.ycombinator.com/item?id=46065955) - [Tell HN: Happy Thanksgiving](https://news.ycombinator.com/item?id=46065955)
+* [2025-11-27, 04:55:57](https://news.ycombinator.com/item?id=46065817) - [Music eases surgery and speeds recovery, study finds](https://www.bbc.com/news/articles/c231dv9zpz3o)
 * [2025-11-27, 04:34:56](https://news.ycombinator.com/item?id=46065698) - [Coq: The World's Best Macro Assembler? [pdf]](https://nickbenton.name/coqasm.pdf)
 * [2025-11-27, 02:54:23](https://news.ycombinator.com/item?id=46065034) - [DIY NAS: 2026 Edition](https://blog.briancmoses.com/2025/11/diy-nas-2026-edition.html)
 * [2025-11-27, 02:51:31](https://news.ycombinator.com/item?id=46065015) - [Green Card Interviews End in Handcuffs for Spouses of U.S. Citizens](https://www.nytimes.com/2025/11/26/us/trump-green-card-interview-arrests.html)
