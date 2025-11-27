@@ -23,13 +23,13 @@
 * [2025-11-27, 02:14:36](https://news.ycombinator.com/item?id=46064757) - [Penpot: The Open-Source Figma](https://github.com/penpot/penpot)
 * [2025-11-26, 22:00:48](https://news.ycombinator.com/item?id=46062855) - [Why Strong Consistency?](https://brooker.co.za/blog/2025/11/18/consistency.html)
 * [2025-11-26, 20:17:44](https://news.ycombinator.com/item?id=46061871) - [Inspired by Spider-Man, scientists recreate web-slinging technology](https://scienceclock.com/inspired-by-spider-man-scientists-recreate-web-slinging-technology/)
+* [2025-11-26, 15:40:14](https://news.ycombinator.com/item?id=46058471) - [Feedback doesn't scale](https://another.rodeo/feedback/)
+* [2025-11-26, 13:36:19](https://news.ycombinator.com/item?id=46057266) - [Memories of .us](https://computer.rip/2025-11-11-dot-us.html)
 * [2025-11-24, 20:48:18](https://news.ycombinator.com/item?id=46039106) - [Interactive λ-Reduction](https://deltanets.org/)
 * [2025-11-24, 12:39:10](https://news.ycombinator.com/item?id=46033472) - [Technical Deflation](https://benanderson.work/blog/technical-deflation/)
 * [2025-11-24, 12:37:43](https://news.ycombinator.com/item?id=46033454) - [Move Expressions](https://smallcultfollowing.com/babysteps/blog/2025/11/21/move-expressions/)
 * [2025-11-24, 08:10:11](https://news.ycombinator.com/item?id=46031552) - [Quake Engine Indicators](https://fabiensanglard.net/quake_indicators/index.html)
 * [2025-11-23, 18:16:58](https://news.ycombinator.com/item?id=46025911) - [G0-G3 corners, visualised: learn what \"Apple corners\" are](https://www.printables.com/model/1490911-g0-g3-corners-visualised-learn-what-apple-corners)
-* [2025-11-21, 15:04:13](https://news.ycombinator.com/item?id=46005239) - [The Concrete Pontoons of Bristol](https://thecretefleet.com/blog/f/the-concrete-pontoons-of-bristol)
-* [2025-11-21, 12:28:37](https://news.ycombinator.com/item?id=46003887) - [Abuse of the nullish coalescing operator in JS/TS](https://fredrikmalmo.com/blog/js-ts-nullish-empty-string-coalescing)
 
 ## [Archives](archives/index.md)
 
