@@ -4,10 +4,12 @@
 
 ### [Archives](../../index.md) for [2025-11-27](index.md)
 
+* [2025-11-27, 16:19:03](https://news.ycombinator.com/item?id=46070668) - [Same-day upstream Linux support for Snapdragon 8 Elite Gen 5](https://www.qualcomm.com/developer/blog/2025/10/same-day-snapdragon-8-elite-gen-5-upstream-linux-support)
 * [2025-11-27, 16:11:52](https://news.ycombinator.com/item?id=46070597) - [Face transplants promised hope. Patients were put through the unthinkable](https://www.theguardian.com/science/2025/nov/27/face-transplant-patients-results-outcomes)
 * [2025-11-27, 15:07:51](https://news.ycombinator.com/item?id=46069919) - [What Happens When You Train Pure Logic Without Knowledge: 15-Expert Moe](https://github.com/vac-architector/VAC-Memory-System/blob/main/LOGICA_MOE_STORY.md)
 * [2025-11-27, 14:51:01](https://news.ycombinator.com/item?id=46069771) - [We're Losing Our Voice to LLMs](https://tonyalicea.dev/blog/were-losing-our-voice-to-llms/)
 * [2025-11-27, 14:48:02](https://news.ycombinator.com/item?id=46069743) - [Don't be a scary old guy: My 40s survival strategy with charm](https://www.devas.life/dont-be-a-scary-old-guy-my-40s-survival-strategy-with-charm/)
+* [2025-11-27, 14:31:44](https://news.ycombinator.com/item?id=46069598) - [Show HN: SyncKit – Offline-first sync engine (Rust/WASM and TypeScript)](https://github.com/Dancode-188/synckit)
 * [2025-11-27, 14:26:35](https://news.ycombinator.com/item?id=46069556) - [Show HN: Runprompt – run .prompt files from the command line](https://github.com/chr15m/runprompt)
 * [2025-11-27, 14:09:39](https://news.ycombinator.com/item?id=46069408) - [Crypto investors face tax crackdown as 70% non-compliant](https://www.thepost.co.nz/business/360897298/crypto-investors-face-tax-crackdown-70-non-compliant)
 * [2025-11-27, 13:28:34](https://news.ycombinator.com/item?id=46069048) - [TPUs vs. GPUs and why Google is positioned to win AI race in the long term](https://www.uncoveralpha.com/p/the-chip-made-for-the-ai-inference)
