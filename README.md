@@ -6,7 +6,6 @@
 * [2025-11-27, 06:14:21](https://news.ycombinator.com/item?id=46066255) - [Last Issue of \"ECMAScript News\"](https://ecmascript.news/archive/es-next-news-2025-11-26.html)
 * [2025-11-27, 05:51:21](https://news.ycombinator.com/item?id=46066126) - [Principles of Vasocomputation](https://opentheory.net/2023/07/principles-of-vasocomputation-a-unification-of-buddhist-phenomenology-active-inference-and-physical-reflex-part-i/)
 * [2025-11-27, 05:28:50](https://news.ycombinator.com/item?id=46065997) - [Show HN: Era – Open-source local sandbox for AI agents](https://github.com/BinSquare/ERA)
-* [2025-11-27, 05:22:28](https://news.ycombinator.com/item?id=46065959) - [Evaluating Uniform Memory Access Mode on AMD's Turin](https://chipsandcheese.com/p/evaluating-uniform-memory-access)
 * [2025-11-27, 05:05:46](https://news.ycombinator.com/item?id=46065870) - [$96M AUD revamp of Bom website bombs out on launch](https://www.bbc.com/news/articles/c2k4dy15nqqo)
 * [2025-11-27, 04:55:57](https://news.ycombinator.com/item?id=46065817) - [Music eases surgery and speeds recovery, study finds](https://www.bbc.com/news/articles/c231dv9zpz3o)
 * [2025-11-27, 04:34:56](https://news.ycombinator.com/item?id=46065698) - [Coq: The World's Best Macro Assembler? [pdf] [2013]](https://nickbenton.name/coqasm.pdf)
@@ -30,6 +29,7 @@
 * [2025-11-22, 20:11:25](https://news.ycombinator.com/item?id=46017830) - [A woman on a mission to photograph every species of hummingbird](https://www.audubon.org/magazine/meet-woman-mission-photograph-every-species-of-hummingbird-world)
 * [2025-11-22, 07:50:44](https://news.ycombinator.com/item?id=46012980) - [Can you take an ox to Oxford?](https://alexwlchan.net/2025/ox-in-oxford/)
 * [2025-11-21, 18:28:31](https://news.ycombinator.com/item?id=46007267) - [How/why to sweep async tasks under a Postgres table](https://taylor.town/pg-task)
+* [2025-11-20, 21:33:06](https://news.ycombinator.com/item?id=45998044) - [Closest Harmonic Number to an Integer](https://www.johndcook.com/blog/2025/11/19/closest-harmonic-number-to-an-integer/)
 
 ## [Archives](archives/index.md)
 

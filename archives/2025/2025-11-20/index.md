@@ -12,6 +12,7 @@
 * [2025-11-20, 21:58:45](https://news.ycombinator.com/item?id=45998396) - [Virgin and Qantas to ban use of portable power banks after string of fires](https://www.abc.net.au/news/2025-11-21/airlines-virgin-australia-qantas-ban-power-banks/106033982)
 * [2025-11-20, 21:58:36](https://news.ycombinator.com/item?id=45998392) - [Comic Code Reviews](https://www.jona.ca/2025/11/comic-code-reviews.html)
 * [2025-11-20, 21:33:37](https://news.ycombinator.com/item?id=45998047) - [GitHut – Programming Languages and GitHub](https://githut.info/)
+* [2025-11-20, 21:33:06](https://news.ycombinator.com/item?id=45998044) - [Closest Harmonic Number to an Integer](https://www.johndcook.com/blog/2025/11/19/closest-harmonic-number-to-an-integer/)
 * [2025-11-20, 21:30:02](https://news.ycombinator.com/item?id=45998013) - [ArkA – A minimal open video protocol (first MVP demo)](https://baconpantsuppercut.github.io/arkA/)
 * [2025-11-20, 21:21:08](https://news.ycombinator.com/item?id=45997914) - [New Glenn Update – Blue Origin](https://www.blueorigin.com/news/new-glenn-upgraded-engines-subcooled-components-drive-enhanced-performance)
 * [2025-11-20, 21:05:12](https://news.ycombinator.com/item?id=45997722) - [Run Docker containers natively in Proxmox 9.1 (OCI images)](https://raymii.org/s/tutorials/Finally_run_Docker_containers_natively_in_Proxmox_9.1.html)
