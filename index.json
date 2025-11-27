@@ -1,12 +1,12 @@
 [
   [
     [
-      "2025-11-27, 14:48:02",
-      "https://news.ycombinator.com/item?id=46069743"
+      "2025-11-27, 15:07:51",
+      "https://news.ycombinator.com/item?id=46069919"
     ],
     [
-      "Don't be a scary old guy: My 40s survival strategy with charm",
-      "https://www.devas.life/dont-be-a-scary-old-guy-my-40s-survival-strategy-with-charm/"
+      "What Happens When You Train Pure Logic Without Knowledge: 15-Expert Moe",
+      "https://github.com/vac-architector/VAC-Memory-System/blob/main/LOGICA_MOE_STORY.md"
     ]
   ],
   [
@@ -251,16 +251,6 @@
   ],
   [
     [
-      "2025-11-23, 23:16:15",
-      "https://news.ycombinator.com/item?id=46028339"
-    ],
-    [
-      "A Nicotine Analogue I Had Known and Didn't Love: 6-Methylnicotine",
-      "https://psychotechnology.substack.com/p/a-nicotine-analogue-i-had-known-and"
-    ]
-  ],
-  [
-    [
       "2025-11-23, 18:16:58",
       "https://news.ycombinator.com/item?id=46025911"
     ],
@@ -277,6 +267,16 @@
     [
       "A Fast 64-Bit Date Algorithm (30–40% faster by counting dates backwards)",
       "https://www.benjoffe.com/fast-date-64"
+    ]
+  ],
+  [
+    [
+      "2025-11-21, 18:28:31",
+      "https://news.ycombinator.com/item?id=46007267"
+    ],
+    [
+      "How/why to sweep async tasks under a Postgres table",
+      "https://taylor.town/pg-task"
     ]
   ],
   [
