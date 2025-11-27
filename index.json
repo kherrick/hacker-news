@@ -1,12 +1,12 @@
 [
   [
     [
-      "2025-11-27, 16:11:52",
-      "https://news.ycombinator.com/item?id=46070597"
+      "2025-11-27, 16:19:03",
+      "https://news.ycombinator.com/item?id=46070668"
     ],
     [
-      "Face transplants promised hope. Patients were put through the unthinkable",
-      "https://www.theguardian.com/science/2025/nov/27/face-transplant-patients-results-outcomes"
+      "Same-day upstream Linux support for Snapdragon 8 Elite Gen 5",
+      "https://www.qualcomm.com/developer/blog/2025/10/same-day-snapdragon-8-elite-gen-5-upstream-linux-support"
     ]
   ],
   [
@@ -17,6 +17,16 @@
     [
       "We're Losing Our Voice to LLMs",
       "https://tonyalicea.dev/blog/were-losing-our-voice-to-llms/"
+    ]
+  ],
+  [
+    [
+      "2025-11-27, 14:31:44",
+      "https://news.ycombinator.com/item?id=46069598"
+    ],
+    [
+      "Show HN: SyncKit – Offline-first sync engine (Rust/WASM and TypeScript)",
+      "https://github.com/Dancode-188/synckit"
     ]
   ],
   [
@@ -97,16 +107,6 @@
     [
       "Last Issue of \"ECMAScript News\"",
       "https://ecmascript.news/archive/es-next-news-2025-11-26.html"
-    ]
-  ],
-  [
-    [
-      "2025-11-27, 05:28:50",
-      "https://news.ycombinator.com/item?id=46065997"
-    ],
-    [
-      "Show HN: Era – Open-source local sandbox for AI agents",
-      "https://github.com/BinSquare/ERA"
     ]
   ],
   [
