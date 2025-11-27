@@ -1,6 +1,46 @@
 [
   [
     [
+      "2025-11-27, 00:20:37",
+      "https://news.ycombinator.com/item?id=46063915"
+    ],
+    [
+      "AdBlock and Signal are for terrorists, according to the French government [video]",
+      "https://www.youtube.com/watch?v=1q1hjmwLqe4"
+    ]
+  ],
+  [
+    [
+      "2025-11-27, 00:07:49",
+      "https://news.ycombinator.com/item?id=46063819"
+    ],
+    [
+      "Crypto hoarders dump tokens as shares tumble",
+      "https://arstechnica.com/information-technology/2025/11/crypto-hoarders-dump-tokens-as-shares-tumble/"
+    ]
+  ],
+  [
+    [
+      "2025-11-26, 23:33:12",
+      "https://news.ycombinator.com/item?id=46063531"
+    ],
+    [
+      "Sutskever and LeCun: Scaling LLMs Won't Yield More Useful Results",
+      "https://www.abzglobal.net/web-development-blog/ilya-sutskever-yann-lecun-and-the-end-of-just-add-gpus"
+    ]
+  ],
+  [
+    [
+      "2025-11-26, 23:22:24",
+      "https://news.ycombinator.com/item?id=46063450"
+    ],
+    [
+      "C100 Developer Terminal",
+      "https://caligra.com/"
+    ]
+  ],
+  [
+    [
       "2025-11-26, 22:57:56",
       "https://news.ycombinator.com/item?id=46063272"
     ],
@@ -27,16 +67,6 @@
     [
       "The EU made Apple adopt new Wi-Fi standards, and now Android can support AirDrop",
       "https://arstechnica.com/gadgets/2025/11/the-eu-made-apple-adopt-new-wi-fi-standards-and-now-android-can-support-airdrop/"
-    ]
-  ],
-  [
-    [
-      "2025-11-26, 21:24:09",
-      "https://news.ycombinator.com/item?id=46062483"
-    ],
-    [
-      "AirDrop support for Pixel 10 likely exists because of the EU ruling",
-      "https://9to5google.com/2025/11/21/googles-airdrop-support-for-pixel-10-likely-exists-because-of-the-eus-apple-ruling/"
     ]
   ],
   [
@@ -121,26 +151,6 @@
   ],
   [
     [
-      "2025-11-26, 16:24:29",
-      "https://news.ycombinator.com/item?id=46059069"
-    ],
-    [
-      "Slop Detective – Fight the Slop Syndicate",
-      "https://slopdetective.kagi.com/"
-    ]
-  ],
-  [
-    [
-      "2025-11-26, 15:49:11",
-      "https://news.ycombinator.com/item?id=46058600"
-    ],
-    [
-      "From blood sugar to brain relief: GLP-1 therapy slashes migraine frequency",
-      "https://www.medlink.com/news/from-blood-sugar-to-brain-relief-glp-1-therapy-slashes-migraine-frequency"
-    ]
-  ],
-  [
-    [
       "2025-11-26, 15:03:09",
       "https://news.ycombinator.com/item?id=46058033"
     ],
@@ -181,16 +191,6 @@
   ],
   [
     [
-      "2025-11-26, 07:55:49",
-      "https://news.ycombinator.com/item?id=46055177"
-    ],
-    [
-      "Image Diffusion Models Exhibit Emergent Temporal Propagation in Videos",
-      "https://arxiv.org/abs/2511.19936"
-    ]
-  ],
-  [
-    [
       "2025-11-25, 22:13:35",
       "https://news.ycombinator.com/item?id=46051449"
     ],
@@ -201,32 +201,22 @@
   ],
   [
     [
-      "2025-11-25, 17:33:50",
-      "https://news.ycombinator.com/item?id=46048252"
-    ],
-    [
-      "Show HN: We built an open source, zero webhooks payment processor",
-      "https://github.com/flowglad/flowglad"
-    ]
-  ],
-  [
-    [
-      "2025-11-25, 06:09:05",
-      "https://news.ycombinator.com/item?id=46042810"
-    ],
-    [
-      "Jakarta is now the biggest city in the world",
-      "https://www.axios.com/2025/11/24/jakarta-tokyo-worlds-biggest-city-population"
-    ]
-  ],
-  [
-    [
       "2025-11-24, 14:02:04",
       "https://news.ycombinator.com/item?id=46034189"
     ],
     [
       "Show HN: Yolodex – real-time customer enrichment API",
       "https://api.yolodex.ai"
+    ]
+  ],
+  [
+    [
+      "2025-11-24, 04:16:02",
+      "https://news.ycombinator.com/item?id=46030325"
+    ],
+    [
+      "How Does Microwaving Grapes Create Plumes of Plasma?",
+      "https://www.pbs.org/wgbh/nova/article/how-does-microwaving-grapes-create-plumes-plasma/"
     ]
   ],
   [
@@ -257,6 +247,16 @@
     [
       "Surprisingly, Emacs on Android is pretty good",
       "https://kristofferbalintona.me/posts/202505291438/"
+    ]
+  ],
+  [
+    [
+      "2025-11-23, 06:49:53",
+      "https://news.ycombinator.com/item?id=46021356"
+    ],
+    [
+      "A lightweight code editor with Vim mode, Git integration, and more",
+      "https://athas.dev"
     ]
   ],
   [
