@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-11-27, 16:11:52",
+      "https://news.ycombinator.com/item?id=46070597"
+    ],
+    [
+      "Face transplants promised hope. Patients were put through the unthinkable",
+      "https://www.theguardian.com/science/2025/nov/27/face-transplant-patients-results-outcomes"
+    ]
+  ],
+  [
+    [
       "2025-11-27, 14:51:01",
       "https://news.ycombinator.com/item?id=46069771"
     ],
@@ -17,16 +27,6 @@
     [
       "Show HN: Runprompt – run .prompt files from the command line",
       "https://github.com/chr15m/runprompt"
-    ]
-  ],
-  [
-    [
-      "2025-11-27, 13:28:34",
-      "https://news.ycombinator.com/item?id=46069048"
-    ],
-    [
-      "TPUs vs. GPUs and why Google is positioned to win AI race in the long term",
-      "https://www.uncoveralpha.com/p/the-chip-made-for-the-ai-inference"
     ]
   ],
   [
@@ -97,6 +97,16 @@
     [
       "Last Issue of \"ECMAScript News\"",
       "https://ecmascript.news/archive/es-next-news-2025-11-26.html"
+    ]
+  ],
+  [
+    [
+      "2025-11-27, 05:28:50",
+      "https://news.ycombinator.com/item?id=46065997"
+    ],
+    [
+      "Show HN: Era – Open-source local sandbox for AI agents",
+      "https://github.com/BinSquare/ERA"
     ]
   ],
   [
@@ -241,16 +251,6 @@
   ],
   [
     [
-      "2025-11-24, 11:46:05",
-      "https://news.ycombinator.com/item?id=46033046"
-    ],
-    [
-      "Essence and accident in language model-assisted coding",
-      "https://www.sicpers.info/2025/11/essence-and-accident-in-language-model-assisted-coding/"
-    ]
-  ],
-  [
-    [
       "2025-11-23, 18:16:58",
       "https://news.ycombinator.com/item?id=46025911"
     ],
@@ -261,22 +261,22 @@
   ],
   [
     [
+      "2025-11-23, 07:21:16",
+      "https://news.ycombinator.com/item?id=46021490"
+    ],
+    [
+      "'Turncoat' by Dennis Sewell Review",
+      "https://www.historytoday.com/archive/review/turncoat-dennis-sewell-review"
+    ]
+  ],
+  [
+    [
       "2025-11-23, 02:27:16",
       "https://news.ycombinator.com/item?id=46020193"
     ],
     [
       "A Fast 64-Bit Date Algorithm (30–40% faster by counting dates backwards)",
       "https://www.benjoffe.com/fast-date-64"
-    ]
-  ],
-  [
-    [
-      "2025-11-21, 18:28:31",
-      "https://news.ycombinator.com/item?id=46007267"
-    ],
-    [
-      "How/why to sweep async tasks under a Postgres table",
-      "https://taylor.town/pg-task"
     ]
   ],
   [
