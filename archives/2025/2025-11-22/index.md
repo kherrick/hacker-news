@@ -12,6 +12,7 @@
 * [2025-11-22, 21:02:34](https://news.ycombinator.com/item?id=46018229) - [Show HN: I built a wizard to turn ideas into AI coding agent-ready specs](https://vibescaffold.dev/)
 * [2025-11-22, 21:02:02](https://news.ycombinator.com/item?id=46018226) - [Cardiac implantable electronic devices' longevity: A novel modelling tool](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0333195)
 * [2025-11-22, 20:54:35](https://news.ycombinator.com/item?id=46018165) - [Show HN: Build the habit of writing meaningful commit messages](https://github.com/arpxspace/smartcommit)
+* [2025-11-22, 20:54:06](https://news.ycombinator.com/item?id=46018159) - [Physicists drive antihydrogen breakthrough at CERN](https://phys.org/news/2025-11-physicists-antihydrogen-breakthrough-cern-technique.html)
 * [2025-11-22, 20:54:02](https://news.ycombinator.com/item?id=46018158) - [A Reverse Engineer's Anatomy of the macOS Boot Chain and Security Architecture](https://stack.int.mov/a-reverse-engineers-anatomy-of-the-macos-boot-chain-security-architecture/)
 * [2025-11-22, 20:46:43](https://news.ycombinator.com/item?id=46018107) - [Show HN: RealDeed – Tokenize Real Estate into Digital Assets](https://www.realdeed.co/)
 * [2025-11-22, 20:27:41](https://news.ycombinator.com/item?id=46017972) - [Terence Tao: At the Erdos problem website, AI assistance now becoming routine](https://mathstodon.xyz/@tao/115591487350860999)

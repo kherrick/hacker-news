@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-11-27](index.md)
 
+* [2025-11-27, 20:03:25](https://news.ycombinator.com/item?id=46072786) - [DeepSeekMath-V2: Towards Self-Verifiable Mathematical Reasoning [pdf]](https://github.com/deepseek-ai/DeepSeek-Math-V2/blob/main/DeepSeekMath_V2.pdf)
 * [2025-11-27, 18:37:41](https://news.ycombinator.com/item?id=46072002) - [Replace your boss before they replace you](https://replaceyourboss.ai/)
 * [2025-11-27, 18:22:30](https://news.ycombinator.com/item?id=46071848) - [Cherry gives up German production and wants to sell core division](https://www.heise.de/en/news/Cherry-gives-up-German-production-and-wants-to-sell-core-division-11092713.html)
 * [2025-11-27, 16:55:30](https://news.ycombinator.com/item?id=46071030) - [The Input Stack on Linux: An End-to-End Architecture Overview](https://venam.net/blog/unix/2025/11/27/input_devices_linux.html)
