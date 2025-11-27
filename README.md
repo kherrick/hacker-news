@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-11-27, 18:37:41](https://news.ycombinator.com/item?id=46072002) - [Replace your boss before they replace you](https://replaceyourboss.ai/)
+* [2025-11-27, 18:22:30](https://news.ycombinator.com/item?id=46071848) - [Cherry gives up German production and wants to sell core division](https://www.heise.de/en/news/Cherry-gives-up-German-production-and-wants-to-sell-core-division-11092713.html)
 * [2025-11-27, 16:55:30](https://news.ycombinator.com/item?id=46071030) - [The Input Stack on Linux: An End-to-End Architecture Overview](https://venam.net/blog/unix/2025/11/27/input_devices_linux.html)
 * [2025-11-27, 16:48:34](https://news.ycombinator.com/item?id=46070982) - [Seagate achieves 6.9TB storage capacity per platter](https://www.tomshardware.com/pc-components/hdds/seagate-achieves-a-whopping-6-9tb-storage-capacity-per-platter-in-its-laboratory-55tb-to-69tb-hard-drives-now-physically-possible)
 * [2025-11-27, 16:42:40](https://news.ycombinator.com/item?id=46070915) - [Pakistan says rooftop solar output to exceed grid demand in some hubs next year](https://www.reuters.com/sustainability/boards-policy-regulation/pakistan-says-rooftop-solar-output-exceed-grid-demand-some-hubs-next-year-2025-11-22/)
@@ -21,8 +22,7 @@
 * [2025-11-27, 02:54:23](https://news.ycombinator.com/item?id=46065034) - [DIY NAS: 2026 Edition](https://blog.briancmoses.com/2025/11/diy-nas-2026-edition.html)
 * [2025-11-27, 02:14:36](https://news.ycombinator.com/item?id=46064757) - [Penpot: The Open-Source Figma](https://github.com/penpot/penpot)
 * [2025-11-26, 22:00:48](https://news.ycombinator.com/item?id=46062855) - [Why Strong Consistency?](https://brooker.co.za/blog/2025/11/18/consistency.html)
-* [2025-11-26, 15:40:14](https://news.ycombinator.com/item?id=46058471) - [Feedback doesn't scale](https://another.rodeo/feedback/)
-* [2025-11-26, 13:36:19](https://news.ycombinator.com/item?id=46057266) - [Memories of .us](https://computer.rip/2025-11-11-dot-us.html)
+* [2025-11-26, 20:17:44](https://news.ycombinator.com/item?id=46061871) - [Inspired by Spider-Man, scientists recreate web-slinging technology](https://scienceclock.com/inspired-by-spider-man-scientists-recreate-web-slinging-technology/)
 * [2025-11-24, 20:48:18](https://news.ycombinator.com/item?id=46039106) - [Interactive λ-Reduction](https://deltanets.org/)
 * [2025-11-24, 12:39:10](https://news.ycombinator.com/item?id=46033472) - [Technical Deflation](https://benanderson.work/blog/technical-deflation/)
 * [2025-11-24, 12:37:43](https://news.ycombinator.com/item?id=46033454) - [Move Expressions](https://smallcultfollowing.com/babysteps/blog/2025/11/21/move-expressions/)
