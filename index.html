@@ -129,25 +129,135 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
-        <section id="46069408">
+        <section id="46069556">
           <h3>
-            <a
-              class="item"
-              href="https://www.thepost.co.nz/business/360897298/crypto-investors-face-tax-crackdown-70-non-compliant"
-              >Crypto investors face tax crackdown as 70% non-compliant</a
+            <a class="item" href="https://github.com/chr15m/runprompt"
+              >Show HN: Runprompt – run .prompt files from the command line</a
             >
           </h3>
           <section>
             <h4>
-              <span>2025-11-27 @ 14:09:39</span
+              <span>2025-11-27 @ 14:26:35</span
               ><span class="points-container"
-                >Points: <span class="points">34</span></span
+                >Points: <span class="points">12</span></span
               ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=46069408"
+                ><a href="https://news.ycombinator.com/item?id=46069556"
                   >Comments</a
-                ><span class="descendants">: 53</span></span
+                ><span class="descendants">: 0</span></span
               >
             </h4>
+            <div class="text">
+              <p>
+                When I discovered Google's Dotprompt format (frontmatter +
+                Handlebars templates), I realized it was perfect for something
+                I'd been wanting: treating prompts as first-class programs you
+                can pipe together Unix-style. Google uses Dotprompt in Firebase
+                Genkit and I wanted something simpler - just run a .prompt file
+                directly on the command line.
+              </p>
+              <p>Here's what it looks like:</p>
+              <p>
+                --- model: anthropic/claude-sonnet-4-20250514 output: format:
+                json schema: sentiment: string, positive/negative/neutral
+                confidence: number, 0-1 score --- Analyze the sentiment of:
+                {{STDIN}}
+              </p>
+              <p>Running it:</p>
+              <p>
+                cat reviews.txt | ./runprompt sentiment.prompt | jq '.sentiment'
+              </p>
+              <p>The things I think are interesting:</p>
+              <p>
+                * Structured output schemas: Define JSON schemas in the
+                frontmatter using a simple `field: type, description` syntax.
+                The LLM reliably returns valid JSON you can pipe to other tools.
+              </p>
+              <p>
+                * Prompt chaining: Pipe JSON output from one prompt as template
+                variables into the next. This makes it easy to build multi-step
+                agentic workflows as simple shell pipelines.
+              </p>
+              <p>
+                * Zero dependencies: It's a single Python file that uses only
+                stdlib. Just curl it down and run it.
+              </p>
+              <p>
+                * Provider agnostic: Works with Anthropic, OpenAI, Google AI,
+                and OpenRouter (which gives you access to dozens of models
+                through one API key).
+              </p>
+              <p>
+                You can use it to automate things like extracting structured
+                data from unstructured text, generating reports from logs, and
+                building small agentic workflows without spinning up a whole
+                framework.
+              </p>
+              <p>Would love your feedback, and PRs are most welcome!</p>
+            </div>
+          </section>
+        </section>
+        <section id="46069048">
+          <h3>
+            <a
+              class="item"
+              href="https://www.uncoveralpha.com/p/the-chip-made-for-the-ai-inference"
+              >TPUs vs. GPUs and why Google is positioned to win AI race in the
+              long term</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2025-11-27 @ 13:28:34</span
+              ><span class="points-container"
+                >Points: <span class="points">30</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=46069048"
+                  >Comments</a
+                ><span class="descendants">: 15</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="46068847">
+          <h3>
+            <a class="item" href="https://github.com/MartenBE/mkslides"
+              >Show HN: MkSlides – Markdown to slides with a similar workflow to
+              MkDocs</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2025-11-27 @ 13:00:17</span
+              ><span class="points-container"
+                >Points: <span class="points">9</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=46068847"
+                  >Comments</a
+                ><span class="descendants">: 1</span></span
+              >
+            </h4>
+            <div class="text">
+              <p>Install: `pip install mkslides`</p>
+              <p>Building slides: `mkslides build`</p>
+              <p>Live preview during editing: `mkslides serve`</p>
+              <p>Comparison with other tools like marp, slidev, ...:</p>
+              <p>
+                - This tool is a single command and easy to integrate in CI/CD
+                pipelines.
+              </p>
+              <p>- It only needs Python.</p>
+              <p>
+                - The workflow is also very similar to MkDocs, which makes it
+                easy to combine the two in a single GitHub/GitLab repo.
+              </p>
+              <p>
+                - Generates an index landing page for multiple slideshows in a
+                folder which is really convenient if you have e.g. a slideshow
+                per chapter.
+              </p>
+              <p>- It is lightweight.</p>
+              <p>- Everything is IaC.</p>
+            </div>
           </section>
         </section>
         <section id="46068777">
@@ -162,11 +272,11 @@
             <h4>
               <span>2025-11-27 @ 12:48:12</span
               ><span class="points-container"
-                >Points: <span class="points">79</span></span
+                >Points: <span class="points">85</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46068777"
                   >Comments</a
-                ><span class="descendants">: 91</span></span
+                ><span class="descendants">: 99</span></span
               >
             </h4>
           </section>
@@ -181,7 +291,7 @@
             <h4>
               <span>2025-11-27 @ 11:11:46</span
               ><span class="points-container"
-                >Points: <span class="points">17</span></span
+                >Points: <span class="points">19</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46068147"
                   >Comments</a
@@ -203,11 +313,11 @@
             <h4>
               <span>2025-11-27 @ 10:54:02</span
               ><span class="points-container"
-                >Points: <span class="points">105</span></span
+                >Points: <span class="points">117</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46068015"
                   >Comments</a
-                ><span class="descendants">: 97</span></span
+                ><span class="descendants">: 116</span></span
               >
             </h4>
           </section>
@@ -224,11 +334,11 @@
             <h4>
               <span>2025-11-27 @ 07:31:24</span
               ><span class="points-container"
-                >Points: <span class="points">130</span></span
+                >Points: <span class="points">132</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46066695"
                   >Comments</a
-                ><span class="descendants">: 20</span></span
+                ><span class="descendants">: 21</span></span
               >
             </h4>
           </section>
@@ -245,7 +355,7 @@
             <h4>
               <span>2025-11-27 @ 07:02:40</span
               ><span class="points-container"
-                >Points: <span class="points">104</span></span
+                >Points: <span class="points">110</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46066522"
                   >Comments</a
@@ -264,7 +374,7 @@
             <h4>
               <span>2025-11-27 @ 06:17:37</span
               ><span class="points-container"
-                >Points: <span class="points">327</span></span
+                >Points: <span class="points">342</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46066280"
                   >Comments</a
@@ -285,58 +395,13 @@
             <h4>
               <span>2025-11-27 @ 06:14:21</span
               ><span class="points-container"
-                >Points: <span class="points">42</span></span
+                >Points: <span class="points">46</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46066255"
-                  >Comments</a
-                ><span class="descendants">: 9</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="46065997">
-          <h3>
-            <a class="item" href="https://github.com/BinSquare/ERA"
-              >Show HN: Era – Open-source local sandbox for AI agents</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2025-11-27 @ 05:28:50</span
-              ><span class="points-container"
-                >Points: <span class="points">38</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=46065997"
                   >Comments</a
                 ><span class="descendants">: 10</span></span
               >
             </h4>
-            <div class="text">
-              <a href="https://www.youtube.com/watch?v=efwDZw7l2Nk"
-                >https://www.youtube.com/watch?v=efwDZw7l2Nk</a
-              >) about attackers jailbreaking Claude to run cyber attacks. The
-              core issue: AI agents need isolation.
-              <p>
-                We built ERA to fix this – local microVM-based sandboxing for
-                AI-generated code with hardware-level security. Think
-                containers, but safer. Such attacks wouldn't touch your host if
-                running in ERA.
-              </p>
-              <p>
-                GitHub:
-                <a href="https://github.com/BinSquare/ERA"
-                  >https://github.com/BinSquare/ERA</a
-                >
-              </p>
-              <p>
-                Quick start:
-                <a
-                  href="https://github.com/BinSquare/ERA/tree/main/era-agent/tutorials"
-                  >https://github.com/BinSquare/ERA/tree/main/era-agent/tutoria...</a
-                >
-              </p>
-              <p>Would love your thoughts and feedback!</p>
-            </div>
           </section>
         </section>
         <section id="46065817">
@@ -351,7 +416,7 @@
             <h4>
               <span>2025-11-27 @ 04:55:57</span
               ><span class="points-container"
-                >Points: <span class="points">128</span></span
+                >Points: <span class="points">131</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46065817"
                   >Comments</a
@@ -376,7 +441,7 @@
             <h4>
               <span>2025-11-27 @ 04:34:56</span
               ><span class="points-container"
-                >Points: <span class="points">102</span></span
+                >Points: <span class="points">103</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46065698"
                   >Comments</a
@@ -397,11 +462,11 @@
             <h4>
               <span>2025-11-27 @ 02:54:23</span
               ><span class="points-container"
-                >Points: <span class="points">275</span></span
+                >Points: <span class="points">282</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46065034"
                   >Comments</a
-                ><span class="descendants">: 148</span></span
+                ><span class="descendants">: 154</span></span
               >
             </h4>
           </section>
@@ -416,11 +481,11 @@
             <h4>
               <span>2025-11-27 @ 02:14:36</span
               ><span class="points-container"
-                >Points: <span class="points">496</span></span
+                >Points: <span class="points">503</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46064757"
                   >Comments</a
-                ><span class="descendants">: 116</span></span
+                ><span class="descendants">: 117</span></span
               >
             </h4>
           </section>
@@ -436,11 +501,11 @@
             <h4>
               <span>2025-11-27 @ 02:04:57</span
               ><span class="points-container"
-                >Points: <span class="points">83</span></span
+                >Points: <span class="points">84</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46064680"
                   >Comments</a
-                ><span class="descendants">: 10</span></span
+                ><span class="descendants">: 11</span></span
               >
             </h4>
           </section>
@@ -457,11 +522,11 @@
             <h4>
               <span>2025-11-27 @ 01:49:00</span
               ><span class="points-container"
-                >Points: <span class="points">745</span></span
+                >Points: <span class="points">760</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46064571"
                   >Comments</a
-                ><span class="descendants">: 651</span></span
+                ><span class="descendants">: 666</span></span
               >
             </h4>
           </section>
@@ -478,11 +543,11 @@
             <h4>
               <span>2025-11-26 @ 22:57:56</span
               ><span class="points-container"
-                >Points: <span class="points">184</span></span
+                >Points: <span class="points">185</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46063272"
                   >Comments</a
-                ><span class="descendants">: 76</span></span
+                ><span class="descendants">: 77</span></span
               >
             </h4>
           </section>
@@ -497,11 +562,11 @@
             <h4>
               <span>2025-11-26 @ 19:58:27</span
               ><span class="points-container"
-                >Points: <span class="points">359</span></span
+                >Points: <span class="points">363</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46061682"
                   >Comments</a
-                ><span class="descendants">: 122</span></span
+                ><span class="descendants">: 125</span></span
               >
             </h4>
           </section>
@@ -520,7 +585,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46061208"
                   >Comments</a
-                ><span class="descendants">: 58</span></span
+                ><span class="descendants">: 60</span></span
               >
             </h4>
           </section>
@@ -535,11 +600,11 @@
             <h4>
               <span>2025-11-26 @ 18:08:02</span
               ><span class="points-container"
-                >Points: <span class="points">329</span></span
+                >Points: <span class="points">333</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46060508"
                   >Comments</a
-                ><span class="descendants">: 113</span></span
+                ><span class="descendants">: 114</span></span
               >
             </h4>
           </section>
@@ -556,11 +621,11 @@
             <h4>
               <span>2025-11-26 @ 14:02:46</span
               ><span class="points-container"
-                >Points: <span class="points">984</span></span
+                >Points: <span class="points">988</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46057488"
                   >Comments</a
-                ><span class="descendants">: 339</span></span
+                ><span class="descendants">: 341</span></span
               >
             </h4>
           </section>
@@ -578,11 +643,11 @@
             <h4>
               <span>2025-11-24 @ 21:12:25</span
               ><span class="points-container"
-                >Points: <span class="points">118</span></span
+                >Points: <span class="points">122</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46039387"
                   >Comments</a
-                ><span class="descendants">: 41</span></span
+                ><span class="descendants">: 42</span></span
               >
             </h4>
           </section>
@@ -597,7 +662,7 @@
             <h4>
               <span>2025-11-24 @ 20:48:18</span
               ><span class="points-container"
-                >Points: <span class="points">71</span></span
+                >Points: <span class="points">76</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46039106"
                   >Comments</a
@@ -618,11 +683,11 @@
             <h4>
               <span>2025-11-24 @ 12:39:10</span
               ><span class="points-container"
-                >Points: <span class="points">31</span></span
+                >Points: <span class="points">36</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46033472"
                   >Comments</a
-                ><span class="descendants">: 22</span></span
+                ><span class="descendants">: 24</span></span
               >
             </h4>
           </section>
@@ -639,11 +704,33 @@
             <h4>
               <span>2025-11-24 @ 11:46:05</span
               ><span class="points-container"
-                >Points: <span class="points">7</span></span
+                >Points: <span class="points">8</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46033046"
                   >Comments</a
                 ><span class="descendants">: 0</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="46028339">
+          <h3>
+            <a
+              class="item"
+              href="https://psychotechnology.substack.com/p/a-nicotine-analogue-i-had-known-and"
+              >A Nicotine Analogue I Had Known and Didn't Love:
+              6-Methylnicotine</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2025-11-23 @ 23:16:15</span
+              ><span class="points-container"
+                >Points: <span class="points">11</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=46028339"
+                  >Comments</a
+                ><span class="descendants">: 4</span></span
               >
             </h4>
           </section>
@@ -660,7 +747,7 @@
             <h4>
               <span>2025-11-23 @ 18:16:58</span
               ><span class="points-container"
-                >Points: <span class="points">76</span></span
+                >Points: <span class="points">80</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46025911"
                   >Comments</a
@@ -680,49 +767,11 @@
             <h4>
               <span>2025-11-23 @ 02:27:16</span
               ><span class="points-container"
-                >Points: <span class="points">359</span></span
+                >Points: <span class="points">360</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46020193"
                   >Comments</a
-                ><span class="descendants">: 83</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="46012980">
-          <h3>
-            <a class="item" href="https://alexwlchan.net/2025/ox-in-oxford/"
-              >Can you take an ox to Oxford?</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2025-11-22 @ 07:50:44</span
-              ><span class="points-container"
-                >Points: <span class="points">27</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=46012980"
-                  >Comments</a
-                ><span class="descendants">: 49</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="46007267">
-          <h3>
-            <a class="item" href="https://taylor.town/pg-task"
-              >How/why to sweep async tasks under a Postgres table</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2025-11-21 @ 18:28:31</span
-              ><span class="points-container"
-                >Points: <span class="points">76</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=46007267"
-                  >Comments</a
-                ><span class="descendants">: 25</span></span
+                ><span class="descendants">: 84</span></span
               >
             </h4>
           </section>
@@ -739,7 +788,7 @@
             <h4>
               <span>2025-11-21 @ 15:04:13</span
               ><span class="points-container"
-                >Points: <span class="points">8</span></span
+                >Points: <span class="points">13</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46005239"
                   >Comments</a
@@ -760,11 +809,11 @@
             <h4>
               <span>2025-11-20 @ 21:33:06</span
               ><span class="points-container"
-                >Points: <span class="points">21</span></span
+                >Points: <span class="points">23</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45998044"
                   >Comments</a
-                ><span class="descendants">: 3</span></span
+                ><span class="descendants">: 4</span></span
               >
             </h4>
           </section>
