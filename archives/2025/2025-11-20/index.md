@@ -10,6 +10,7 @@
 * [2025-11-20, 22:21:58](https://news.ycombinator.com/item?id=45998649) - [AI Is Writing Its Own Kernels, and They Are 17x Faster](https://adrs-ucb.notion.site/autocomp)
 * [2025-11-20, 22:10:23](https://news.ycombinator.com/item?id=45998531) - [Gmail can read your emails and attachments to train its AI, unless you opt out](https://www.malwarebytes.com/blog/news/2025/11/gmail-is-reading-your-emails-and-attachments-to-train-its-ai-unless-you-turn-it-off)
 * [2025-11-20, 21:58:45](https://news.ycombinator.com/item?id=45998396) - [Virgin and Qantas to ban use of portable power banks after string of fires](https://www.abc.net.au/news/2025-11-21/airlines-virgin-australia-qantas-ban-power-banks/106033982)
+* [2025-11-20, 21:58:36](https://news.ycombinator.com/item?id=45998392) - [Comic Code Reviews](https://www.jona.ca/2025/11/comic-code-reviews.html)
 * [2025-11-20, 21:33:37](https://news.ycombinator.com/item?id=45998047) - [GitHut – Programming Languages and GitHub](https://githut.info/)
 * [2025-11-20, 21:30:02](https://news.ycombinator.com/item?id=45998013) - [ArkA – A minimal open video protocol (first MVP demo)](https://baconpantsuppercut.github.io/arkA/)
 * [2025-11-20, 21:21:08](https://news.ycombinator.com/item?id=45997914) - [New Glenn Update – Blue Origin](https://www.blueorigin.com/news/new-glenn-upgraded-engines-subcooled-components-drive-enhanced-performance)

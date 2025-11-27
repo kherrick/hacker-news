@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-11-27, 00:20:37](https://news.ycombinator.com/item?id=46063915) - [AdBlock and Signal are for terrorists, according to the French government [video]](https://www.youtube.com/watch?v=1q1hjmwLqe4)
-* [2025-11-27, 00:07:49](https://news.ycombinator.com/item?id=46063819) - [Crypto hoarders dump tokens as shares tumble](https://arstechnica.com/information-technology/2025/11/crypto-hoarders-dump-tokens-as-shares-tumble/)
-* [2025-11-26, 23:33:12](https://news.ycombinator.com/item?id=46063531) - [Sutskever and LeCun: Scaling LLMs Won't Yield More Useful Results](https://www.abzglobal.net/web-development-blog/ilya-sutskever-yann-lecun-and-the-end-of-just-add-gpus)
-* [2025-11-26, 23:22:24](https://news.ycombinator.com/item?id=46063450) - [C100 Developer Terminal](https://caligra.com/)
+* [2025-11-27, 01:49:00](https://news.ycombinator.com/item?id=46064571) - [Migrating the Main Zig Repository from GitHub to Codeberg](https://ziglang.org/news/migrating-from-github-to-codeberg/)
+* [2025-11-27, 01:18:22](https://news.ycombinator.com/item?id=46064352) - [Solar's growth in US almost enough to offset rising energy use](https://arstechnica.com/science/2025/11/solars-growth-in-us-almost-enough-to-offset-rising-energy-use/)
+* [2025-11-27, 00:20:37](https://news.ycombinator.com/item?id=46063915) - [AdBlock and Signal are for terrorists, according to French govt (2023) [video]](https://www.youtube.com/watch?v=1q1hjmwLqe4)
+* [2025-11-26, 23:33:12](https://news.ycombinator.com/item?id=46063531) - [Ilya Sutskever, Yann LeCun and the End of “Just Add GPUs”](https://www.abzglobal.net/web-development-blog/ilya-sutskever-yann-lecun-and-the-end-of-just-add-gpus)
 * [2025-11-26, 22:57:56](https://news.ycombinator.com/item?id=46063272) - [Running Unsupported iOS on Deprecated Devices](https://nyansatan.github.io/run-unsupported-ios/)
 * [2025-11-26, 22:26:36](https://news.ycombinator.com/item?id=46063072) - [Bring Bathroom Doors Back to Hotels](https://bringbackdoors.com/)
 * [2025-11-26, 21:25:36](https://news.ycombinator.com/item?id=46062504) - [The EU made Apple adopt new Wi-Fi standards, and now Android can support AirDrop](https://arstechnica.com/gadgets/2025/11/the-eu-made-apple-adopt-new-wi-fi-standards-and-now-android-can-support-airdrop/)
@@ -14,9 +14,8 @@
 * [2025-11-26, 18:08:02](https://news.ycombinator.com/item?id=46060508) - [Gemini CLI Tips and Tricks for Agentic Coding](https://github.com/addyosmani/gemini-cli-tips)
 * [2025-11-26, 17:12:01](https://news.ycombinator.com/item?id=46059737) - [DRAM prices are spiking, but I don't trust the industry's why](https://www.xda-developers.com/dram-prices-spiking-dont-trust-industry-reasons/)
 * [2025-11-26, 17:03:21](https://news.ycombinator.com/item?id=46059620) - [Optery (YC W22) Hiring CISO, Release Manager, Tech Lead (Node), Full Stack Eng](https://www.optery.com/careers/)
-* [2025-11-26, 16:34:58](https://news.ycombinator.com/item?id=46059227) - [Cloudflare outage should not have happened](https://ebellani.github.io/blog/2025/cloudflare-outage-should-not-have-happened-and-they-seem-to-be-missing-the-point-on-how-to-avoid-it-in-the-future/)
 * [2025-11-26, 15:03:09](https://news.ycombinator.com/item?id=46058033) - [Compressed filesystems à la language models](https://grohan.co/2025/11/25/llmfuse/)
-* [2025-11-26, 14:02:46](https://news.ycombinator.com/item?id=46057488) - [Voyager 1 is about to reach one light-day from earth](https://scienceclock.com/voyager-1-is-about-to-reach-one-light-day-from-earth/)
+* [2025-11-26, 14:02:46](https://news.ycombinator.com/item?id=46057488) - [Voyager 1 is about to reach one light-day from Earth](https://scienceclock.com/voyager-1-is-about-to-reach-one-light-day-from-earth/)
 * [2025-11-26, 10:06:41](https://news.ycombinator.com/item?id=46055935) - [A cell so minimal that it challenges definitions of life](https://www.quantamagazine.org/a-cell-so-minimal-that-it-challenges-definitions-of-life-20251124/)
 * [2025-11-26, 08:40:29](https://news.ycombinator.com/item?id=46055421) - [Statistical Process Control in Python](https://timothyfraser.com/sigma/statistical-process-control-in-python.html)
 * [2025-11-25, 22:13:35](https://news.ycombinator.com/item?id=46051449) - [Show HN: KiDoom – Running DOOM on PCB Traces](https://www.mikeayles.com/#kidoom)
@@ -30,6 +29,7 @@
 * [2025-11-22, 20:11:25](https://news.ycombinator.com/item?id=46017830) - [A woman on a mission to photograph every species of hummingbird](https://www.audubon.org/magazine/meet-woman-mission-photograph-every-species-of-hummingbird-world)
 * [2025-11-22, 17:11:52](https://news.ycombinator.com/item?id=46016288) - [Show HN: I turned algae into a bio-altimeter and put it on a weather balloon](https://radi8.dev/blog/stratospore/)
 * [2025-11-21, 15:04:01](https://news.ycombinator.com/item?id=46005237) - [The Weird and Wonderful Chemistry of Audioactive Decay (1986) [pdf]](https://static01.nyt.com/packages/pdf/crossword/GENIUS_AT_PLAY_Eureka_Article.pdf)
+* [2025-11-20, 21:58:36](https://news.ycombinator.com/item?id=45998392) - [Comic Code Reviews](https://www.jona.ca/2025/11/comic-code-reviews.html)
 
 ## [Archives](archives/index.md)
 
