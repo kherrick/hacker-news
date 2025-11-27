@@ -14,7 +14,6 @@
 * [2025-11-27, 02:14:36](https://news.ycombinator.com/item?id=46064757) - [Penpot: The Open-Source Figma](https://github.com/penpot/penpot)
 * [2025-11-27, 02:04:57](https://news.ycombinator.com/item?id=46064680) - [Functional Data Structures and Algorithms: a Proof Assistant Approach](https://fdsa-book.net/)
 * [2025-11-27, 01:49:00](https://news.ycombinator.com/item?id=46064571) - [Migrating the main Zig repository from GitHub to Codeberg](https://ziglang.org/news/migrating-from-github-to-codeberg/)
-* [2025-11-27, 01:20:33](https://news.ycombinator.com/item?id=46064367) - [Bonsai_term: A library for building dynamic terminal apps by Jane Street](https://github.com/janestreet/bonsai_term)
 * [2025-11-27, 00:42:13](https://news.ycombinator.com/item?id=46064065) - [DSP 101 Part 1: An Introductory Course in DSP System Design](https://www.analog.com/en/resources/analog-dialogue/articles/dsp-101-part-1.html)
 * [2025-11-26, 23:22:24](https://news.ycombinator.com/item?id=46063450) - [C100 Developer Terminal](https://caligra.com/)
 * [2025-11-26, 22:57:56](https://news.ycombinator.com/item?id=46063272) - [Running Unsupported iOS on Deprecated Devices](https://nyansatan.github.io/run-unsupported-ios/)
@@ -30,6 +29,7 @@
 * [2025-11-23, 18:16:58](https://news.ycombinator.com/item?id=46025911) - [G0-G3 corners, visualised: learn what \"Apple corners\" are](https://www.printables.com/model/1490911-g0-g3-corners-visualised-learn-what-apple-corners)
 * [2025-11-23, 02:27:16](https://news.ycombinator.com/item?id=46020193) - [A Fast 64-Bit Date Algorithm (30–40% faster by counting dates backwards)](https://www.benjoffe.com/fast-date-64)
 * [2025-11-22, 20:11:25](https://news.ycombinator.com/item?id=46017830) - [A woman on a mission to photograph every species of hummingbird](https://www.audubon.org/magazine/meet-woman-mission-photograph-every-species-of-hummingbird-world)
+* [2025-11-21, 18:28:31](https://news.ycombinator.com/item?id=46007267) - [How/why to sweep async tasks under a Postgres table](https://taylor.town/pg-task)
 
 ## [Archives](archives/index.md)
 
