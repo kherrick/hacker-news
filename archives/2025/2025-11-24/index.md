@@ -50,6 +50,7 @@
 * [2025-11-24, 10:37:05](https://news.ycombinator.com/item?id=46032513) - [General principles for the use of AI at CERN](https://home.web.cern.ch/news/official-news/knowledge-sharing/general-principles-use-ai-cern)
 * [2025-11-24, 09:51:45](https://news.ycombinator.com/item?id=46032230) - [A fast EDN (Extensible Data Notation) reader written in C11 with SIMD boost](https://github.com/DotFox/edn.c)
 * [2025-11-24, 09:40:32](https://news.ycombinator.com/item?id=46032148) - [Fifty Shades of OOP](https://lesleylai.info/en/fifty_shades_of_oop/)
+* [2025-11-24, 08:30:00](https://news.ycombinator.com/item?id=46031664) - [Ruby Was Ready from the Start](https://obie.medium.com/ruby-was-ready-from-the-start-4b089b17babb)
 * [2025-11-24, 07:14:55](https://news.ycombinator.com/item?id=46031220) - [Build a Compiler in Five Projects](https://kmicinski.com/functional-programming/2025/11/23/build-a-language/)
 * [2025-11-24, 07:11:38](https://news.ycombinator.com/item?id=46031208) - [Show HN: Syd – An offline-first, AI-augmented workstation for blue teams](https://www.sydsec.co.uk)
 * [2025-11-24, 07:09:28](https://news.ycombinator.com/item?id=46031196) - [A One-Minute ADHD Test](https://psychotechnology.substack.com/p/a-one-minute-adhd-test-2330)
