@@ -8,6 +8,7 @@
 * [2025-11-27, 07:38:28](https://news.ycombinator.com/item?id=46066736) - [DNS Firewalling with MISP and Technitium DNS Server](https://zaferbalkan.com/technitium-misp/)
 * [2025-11-27, 07:31:24](https://news.ycombinator.com/item?id=46066695) - [Ray Marching Soft Shadows in 2D](https://www.rykap.com/2020/09/23/distance-fields/)
 * [2025-11-27, 07:02:40](https://news.ycombinator.com/item?id=46066522) - [Mixpanel Security Breach](https://mixpanel.com/blog/sms-security-incident/)
+* [2025-11-27, 06:53:17](https://news.ycombinator.com/item?id=46066482) - [The Nerd Reich – Silicon Valley Fascism and the War on Democracy](https://www.simonandschuster.com/books/The-Nerd-Reich/Gil-Duran/9781668221402)
 * [2025-11-27, 06:17:37](https://news.ycombinator.com/item?id=46066280) - [Linux Kernel Explorer](https://reverser.dev/linux-kernel-explorer)
 * [2025-11-27, 06:14:21](https://news.ycombinator.com/item?id=46066255) - [Last Issue of \"ECMAScript News\"](https://ecmascript.news/archive/es-next-news-2025-11-26.html)
 * [2025-11-27, 05:51:21](https://news.ycombinator.com/item?id=46066126) - [Principles of Vasocomputation](https://opentheory.net/2023/07/principles-of-vasocomputation-a-unification-of-buddhist-phenomenology-active-inference-and-physical-reflex-part-i/)
