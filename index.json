@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-11-27, 18:37:41",
+      "https://news.ycombinator.com/item?id=46072002"
+    ],
+    [
+      "Replace your boss before they replace you",
+      "https://replaceyourboss.ai/"
+    ]
+  ],
+  [
+    [
       "2025-11-27, 16:55:30",
       "https://news.ycombinator.com/item?id=46071030"
     ],
@@ -47,16 +57,6 @@
     [
       "Same-day upstream Linux support for Snapdragon 8 Elite Gen 5",
       "https://www.qualcomm.com/developer/blog/2025/10/same-day-snapdragon-8-elite-gen-5-upstream-linux-support"
-    ]
-  ],
-  [
-    [
-      "2025-11-27, 15:31:55",
-      "https://news.ycombinator.com/item?id=46070151"
-    ],
-    [
-      "Protect Public School Students from Surveillance of Off-Campus Speech",
-      "https://www.eff.org/deeplinks/2025/11/eff-arizona-federal-court-protect-public-school-students-surveillance-and"
     ]
   ],
   [
@@ -121,16 +121,6 @@
   ],
   [
     [
-      "2025-11-27, 10:54:02",
-      "https://news.ycombinator.com/item?id=46068015"
-    ],
-    [
-      "Arthur Conan Doyle explored men’s mental health through Sherlock Holmes",
-      "https://scienceclock.com/arthur-conan-doyle-delved-into-mens-mental-health-through-his-sherlock-holmes-stories/"
-    ]
-  ],
-  [
-    [
       "2025-11-27, 07:31:24",
       "https://news.ycombinator.com/item?id=46066695"
     ],
@@ -181,6 +171,16 @@
   ],
   [
     [
+      "2025-11-27, 04:34:56",
+      "https://news.ycombinator.com/item?id=46065698"
+    ],
+    [
+      "Coq: The World's Best Macro Assembler? (2013) [pdf]",
+      "https://nickbenton.name/coqasm.pdf"
+    ]
+  ],
+  [
+    [
       "2025-11-27, 02:54:23",
       "https://news.ycombinator.com/item?id=46065034"
     ],
@@ -201,16 +201,6 @@
   ],
   [
     [
-      "2025-11-26, 22:57:56",
-      "https://news.ycombinator.com/item?id=46063272"
-    ],
-    [
-      "Running Unsupported iOS on Deprecated Devices",
-      "https://nyansatan.github.io/run-unsupported-ios/"
-    ]
-  ],
-  [
-    [
       "2025-11-26, 22:00:48",
       "https://news.ycombinator.com/item?id=46062855"
     ],
@@ -221,32 +211,22 @@
   ],
   [
     [
-      "2025-11-26, 19:58:27",
-      "https://news.ycombinator.com/item?id=46061682"
+      "2025-11-26, 15:40:14",
+      "https://news.ycombinator.com/item?id=46058471"
     ],
     [
-      "S&box is now an open source game engine",
-      "https://sbox.game/news/update-25-11-26"
+      "Feedback doesn't scale",
+      "https://another.rodeo/feedback/"
     ]
   ],
   [
     [
-      "2025-11-26, 18:08:02",
-      "https://news.ycombinator.com/item?id=46060508"
+      "2025-11-26, 13:36:19",
+      "https://news.ycombinator.com/item?id=46057266"
     ],
     [
-      "Gemini CLI Tips and Tricks for Agentic Coding",
-      "https://github.com/addyosmani/gemini-cli-tips"
-    ]
-  ],
-  [
-    [
-      "2025-11-24, 21:12:25",
-      "https://news.ycombinator.com/item?id=46039387"
-    ],
-    [
-      "Willis Whitfield: Creator of clean room technology still in use today (2024)",
-      "https://www.sandia.gov/labnews/2024/04/04/willis-whitfield-a-simple-man-with-a-simple-solution-that-changed-the-world/"
+      "Memories of .us",
+      "https://computer.rip/2025-11-11-dot-us.html"
     ]
   ],
   [
@@ -257,6 +237,26 @@
     [
       "Interactive λ-Reduction",
       "https://deltanets.org/"
+    ]
+  ],
+  [
+    [
+      "2025-11-24, 12:39:10",
+      "https://news.ycombinator.com/item?id=46033472"
+    ],
+    [
+      "Technical Deflation",
+      "https://benanderson.work/blog/technical-deflation/"
+    ]
+  ],
+  [
+    [
+      "2025-11-24, 12:37:43",
+      "https://news.ycombinator.com/item?id=46033454"
+    ],
+    [
+      "Move Expressions",
+      "https://smallcultfollowing.com/babysteps/blog/2025/11/21/move-expressions/"
     ]
   ],
   [
