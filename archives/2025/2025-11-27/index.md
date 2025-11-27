@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-11-27](index.md)
 
+* [2025-11-27, 21:13:39](https://news.ycombinator.com/item?id=46073279) - [FileZilla Pro \"Perpetual License\" – A Warning to All Users](https://github.com/x011/FileZilla-Pro-Download)
 * [2025-11-27, 20:37:51](https://news.ycombinator.com/item?id=46073033) - [Underrated reasons to be thankful V](https://dynomight.net/thanks-5/)
 * [2025-11-27, 20:30:21](https://news.ycombinator.com/item?id=46072988) - [LinkedIn is loud, and corporate is hell](https://ramones.dev/posts/linkedin-is-loud/)
 * [2025-11-27, 20:03:25](https://news.ycombinator.com/item?id=46072786) - [DeepSeekMath-V2: Towards Self-Verifiable Mathematical Reasoning [pdf]](https://github.com/deepseek-ai/DeepSeek-Math-V2/blob/main/DeepSeekMath_V2.pdf)

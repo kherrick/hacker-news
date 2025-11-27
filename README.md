@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-11-27, 21:13:39](https://news.ycombinator.com/item?id=46073279) - [FileZilla Pro \"Perpetual License\" – A Warning to All Users](https://github.com/x011/FileZilla-Pro-Download)
 * [2025-11-27, 20:37:51](https://news.ycombinator.com/item?id=46073033) - [Underrated reasons to be thankful V](https://dynomight.net/thanks-5/)
 * [2025-11-27, 20:30:21](https://news.ycombinator.com/item?id=46072988) - [LinkedIn is loud, and corporate is hell](https://ramones.dev/posts/linkedin-is-loud/)
 * [2025-11-27, 20:03:25](https://news.ycombinator.com/item?id=46072786) - [DeepSeekMath-V2: Towards Self-Verifiable Mathematical Reasoning [pdf]](https://github.com/deepseek-ai/DeepSeek-Math-V2/blob/main/DeepSeekMath_V2.pdf)
@@ -16,7 +17,6 @@
 * [2025-11-27, 07:02:40](https://news.ycombinator.com/item?id=46066522) - [Mixpanel Security Breach](https://mixpanel.com/blog/sms-security-incident/)
 * [2025-11-27, 06:17:37](https://news.ycombinator.com/item?id=46066280) - [Linux Kernel Explorer](https://reverser.dev/linux-kernel-explorer)
 * [2025-11-27, 05:21:16](https://news.ycombinator.com/item?id=46065955) - [Tell HN: Happy Thanksgiving](https://news.ycombinator.com/item?id=46065955)
-* [2025-11-27, 04:55:57](https://news.ycombinator.com/item?id=46065817) - [Music eases surgery and speeds recovery, study finds](https://www.bbc.com/news/articles/c231dv9zpz3o)
 * [2025-11-27, 04:34:56](https://news.ycombinator.com/item?id=46065698) - [Coq: The World's Best Macro Assembler? (2013) [pdf]](https://nickbenton.name/coqasm.pdf)
 * [2025-11-27, 02:54:23](https://news.ycombinator.com/item?id=46065034) - [DIY NAS: 2026 Edition](https://blog.briancmoses.com/2025/11/diy-nas-2026-edition.html)
 * [2025-11-27, 02:14:36](https://news.ycombinator.com/item?id=46064757) - [Penpot: The Open-Source Figma](https://github.com/penpot/penpot)
