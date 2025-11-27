@@ -1,22 +1,32 @@
 [
   [
     [
-      "2025-11-27, 00:20:37",
-      "https://news.ycombinator.com/item?id=46063915"
+      "2025-11-27, 01:49:00",
+      "https://news.ycombinator.com/item?id=46064571"
     ],
     [
-      "AdBlock and Signal are for terrorists, according to the French government [video]",
-      "https://www.youtube.com/watch?v=1q1hjmwLqe4"
+      "Migrating the Main Zig Repository from GitHub to Codeberg",
+      "https://ziglang.org/news/migrating-from-github-to-codeberg/"
     ]
   ],
   [
     [
-      "2025-11-27, 00:07:49",
-      "https://news.ycombinator.com/item?id=46063819"
+      "2025-11-27, 01:18:22",
+      "https://news.ycombinator.com/item?id=46064352"
     ],
     [
-      "Crypto hoarders dump tokens as shares tumble",
-      "https://arstechnica.com/information-technology/2025/11/crypto-hoarders-dump-tokens-as-shares-tumble/"
+      "Solar's growth in US almost enough to offset rising energy use",
+      "https://arstechnica.com/science/2025/11/solars-growth-in-us-almost-enough-to-offset-rising-energy-use/"
+    ]
+  ],
+  [
+    [
+      "2025-11-27, 00:20:37",
+      "https://news.ycombinator.com/item?id=46063915"
+    ],
+    [
+      "AdBlock and Signal are for terrorists, according to French govt (2023) [video]",
+      "https://www.youtube.com/watch?v=1q1hjmwLqe4"
     ]
   ],
   [
@@ -25,18 +35,8 @@
       "https://news.ycombinator.com/item?id=46063531"
     ],
     [
-      "Sutskever and LeCun: Scaling LLMs Won't Yield More Useful Results",
+      "Ilya Sutskever, Yann LeCun and the End of “Just Add GPUs”",
       "https://www.abzglobal.net/web-development-blog/ilya-sutskever-yann-lecun-and-the-end-of-just-add-gpus"
-    ]
-  ],
-  [
-    [
-      "2025-11-26, 23:22:24",
-      "https://news.ycombinator.com/item?id=46063450"
-    ],
-    [
-      "C100 Developer Terminal",
-      "https://caligra.com/"
     ]
   ],
   [
@@ -141,16 +141,6 @@
   ],
   [
     [
-      "2025-11-26, 16:34:58",
-      "https://news.ycombinator.com/item?id=46059227"
-    ],
-    [
-      "Cloudflare outage should not have happened",
-      "https://ebellani.github.io/blog/2025/cloudflare-outage-should-not-have-happened-and-they-seem-to-be-missing-the-point-on-how-to-avoid-it-in-the-future/"
-    ]
-  ],
-  [
-    [
       "2025-11-26, 15:03:09",
       "https://news.ycombinator.com/item?id=46058033"
     ],
@@ -165,7 +155,7 @@
       "https://news.ycombinator.com/item?id=46057488"
     ],
     [
-      "Voyager 1 is about to reach one light-day from earth",
+      "Voyager 1 is about to reach one light-day from Earth",
       "https://scienceclock.com/voyager-1-is-about-to-reach-one-light-day-from-earth/"
     ]
   ],
@@ -297,6 +287,16 @@
     [
       "The Weird and Wonderful Chemistry of Audioactive Decay (1986) [pdf]",
       "https://static01.nyt.com/packages/pdf/crossword/GENIUS_AT_PLAY_Eureka_Article.pdf"
+    ]
+  ],
+  [
+    [
+      "2025-11-20, 21:58:36",
+      "https://news.ycombinator.com/item?id=45998392"
+    ],
+    [
+      "Comic Code Reviews",
+      "https://www.jona.ca/2025/11/comic-code-reviews.html"
     ]
   ]
 ]
