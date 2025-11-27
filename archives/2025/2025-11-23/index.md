@@ -45,6 +45,7 @@
 * [2025-11-23, 16:06:46](https://news.ycombinator.com/item?id=46024541) - [We stopped roadmap work for a week and fixed bugs](https://lalitm.com/fixits-are-good-for-the-soul/)
 * [2025-11-23, 15:47:50](https://news.ycombinator.com/item?id=46024402) - [Bytes before FLOPS: your algorithm is (mostly) fine, your data isn't](https://www.bitsdraumar.is/bytes-before-flops/)
 * [2025-11-23, 15:37:04](https://news.ycombinator.com/item?id=46024328) - [Inmates at a Mississippi jail were ordered to do the guards' bidding](https://www.nytimes.com/2025/11/14/us/mississippi-jail-inmates-rankin-county.html)
+* [2025-11-23, 15:33:22](https://news.ycombinator.com/item?id=46024302) - [Indie, Alone, and Figuring It Out](https://danijelavrzan.com/posts/2025/11/indie-dev/)
 * [2025-11-23, 15:18:00](https://news.ycombinator.com/item?id=46024184) - [Court filings allege Meta downplayed risks to children and misled the public](https://time.com/7336204/meta-lawsuit-files-child-safety/)
 * [2025-11-23, 15:02:39](https://news.ycombinator.com/item?id=46024062) - [UK minister ducks cost questions on nationwide digital ID scheme](https://www.theregister.com/2025/11/21/uk_digital_id_costs_uncertain/)
 * [2025-11-23, 14:59:38](https://news.ycombinator.com/item?id=46024032) - [Editing Code in Emacs](https://redpenguin101.github.io/html/posts/2025_11_23_emacs_for_code_editing.html)

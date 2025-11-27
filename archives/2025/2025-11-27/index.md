@@ -4,11 +4,13 @@
 
 ### [Archives](../../index.md) for [2025-11-27](index.md)
 
+* [2025-11-27, 22:50:26](https://news.ycombinator.com/item?id=46073862) - [Show HN: Whole-home VPN router with hardware kill switch (OpenWrt and WireGuard)](https://github.com/yoloshii/privacy-first-network)
 * [2025-11-27, 22:48:44](https://news.ycombinator.com/item?id=46073855) - [250MWh 'Sand Battery' to start construction in Finland](https://www.energy-storage.news/250mwh-sand-battery-to-start-construction-in-finland-for-both-heating-and-ancillary-services/)
 * [2025-11-27, 21:13:39](https://news.ycombinator.com/item?id=46073279) - [FileZilla Pro \"Perpetual License\" – A Warning to All Users](https://github.com/x011/FileZilla-Pro-Download)
 * [2025-11-27, 20:37:51](https://news.ycombinator.com/item?id=46073033) - [Underrated reasons to be thankful V](https://dynomight.net/thanks-5/)
 * [2025-11-27, 20:30:21](https://news.ycombinator.com/item?id=46072988) - [LinkedIn is loud, and corporate is hell](https://ramones.dev/posts/linkedin-is-loud/)
 * [2025-11-27, 20:03:25](https://news.ycombinator.com/item?id=46072786) - [DeepSeekMath-V2: Towards Self-Verifiable Mathematical Reasoning [pdf]](https://github.com/deepseek-ai/DeepSeek-Math-V2/blob/main/DeepSeekMath_V2.pdf)
+* [2025-11-27, 19:07:29](https://news.ycombinator.com/item?id=46072296) - [Internet Handle](https://internethandle.org/)
 * [2025-11-27, 18:37:41](https://news.ycombinator.com/item?id=46072002) - [Replace your boss before they replace you](https://replaceyourboss.ai/)
 * [2025-11-27, 18:22:30](https://news.ycombinator.com/item?id=46071848) - [Cherry gives up German production and wants to sell core division](https://www.heise.de/en/news/Cherry-gives-up-German-production-and-wants-to-sell-core-division-11092713.html)
 * [2025-11-27, 16:55:30](https://news.ycombinator.com/item?id=46071030) - [The Input Stack on Linux: An End-to-End Architecture Overview](https://venam.net/blog/unix/2025/11/27/input_devices_linux.html)
