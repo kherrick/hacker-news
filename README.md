@@ -14,7 +14,7 @@
 * [2025-11-27, 07:31:24](https://news.ycombinator.com/item?id=46066695) - [Ray Marching Soft Shadows in 2D (2020)](https://www.rykap.com/2020/09/23/distance-fields/)
 * [2025-11-27, 07:02:40](https://news.ycombinator.com/item?id=46066522) - [Mixpanel Security Breach](https://mixpanel.com/blog/sms-security-incident/)
 * [2025-11-27, 06:17:37](https://news.ycombinator.com/item?id=46066280) - [Linux Kernel Explorer](https://reverser.dev/linux-kernel-explorer)
-* [2025-11-27, 06:14:21](https://news.ycombinator.com/item?id=46066255) - [Last Issue of \"ECMAScript News\"](https://ecmascript.news/archive/es-next-news-2025-11-26.html)
+* [2025-11-27, 05:21:16](https://news.ycombinator.com/item?id=46065955) - [Tell HN: Happy Thanksgiving](https://news.ycombinator.com/item?id=46065955)
 * [2025-11-27, 04:55:57](https://news.ycombinator.com/item?id=46065817) - [Music eases surgery and speeds recovery, study finds](https://www.bbc.com/news/articles/c231dv9zpz3o)
 * [2025-11-27, 04:34:56](https://news.ycombinator.com/item?id=46065698) - [Coq: The World's Best Macro Assembler? (2013) [pdf]](https://nickbenton.name/coqasm.pdf)
 * [2025-11-27, 02:54:23](https://news.ycombinator.com/item?id=46065034) - [DIY NAS: 2026 Edition](https://blog.briancmoses.com/2025/11/diy-nas-2026-edition.html)
@@ -28,8 +28,8 @@
 * [2025-11-24, 20:48:18](https://news.ycombinator.com/item?id=46039106) - [Interactive λ-Reduction](https://deltanets.org/)
 * [2025-11-24, 08:10:11](https://news.ycombinator.com/item?id=46031552) - [Quake Engine Indicators](https://fabiensanglard.net/quake_indicators/index.html)
 * [2025-11-23, 18:16:58](https://news.ycombinator.com/item?id=46025911) - [G0-G3 corners, visualised: learn what \"Apple corners\" are](https://www.printables.com/model/1490911-g0-g3-corners-visualised-learn-what-apple-corners)
-* [2025-11-23, 02:27:16](https://news.ycombinator.com/item?id=46020193) - [A Fast 64-Bit Date Algorithm (30–40% faster by counting dates backwards)](https://www.benjoffe.com/fast-date-64)
 * [2025-11-21, 15:04:13](https://news.ycombinator.com/item?id=46005239) - [The Concrete Pontoons of Bristol](https://thecretefleet.com/blog/f/the-concrete-pontoons-of-bristol)
+* [2025-11-21, 12:28:37](https://news.ycombinator.com/item?id=46003887) - [Abuse of the nullish coalescing operator in JS/TS](https://fredrikmalmo.com/blog/js-ts-nullish-empty-string-coalescing)
 
 ## [Archives](archives/index.md)
 
