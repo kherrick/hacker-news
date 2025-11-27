@@ -61,16 +61,6 @@
   ],
   [
     [
-      "2025-11-27, 05:22:28",
-      "https://news.ycombinator.com/item?id=46065959"
-    ],
-    [
-      "Evaluating Uniform Memory Access Mode on AMD's Turin",
-      "https://chipsandcheese.com/p/evaluating-uniform-memory-access"
-    ]
-  ],
-  [
-    [
       "2025-11-27, 05:05:46",
       "https://news.ycombinator.com/item?id=46065870"
     ],
@@ -297,6 +287,16 @@
     [
       "How/why to sweep async tasks under a Postgres table",
       "https://taylor.town/pg-task"
+    ]
+  ],
+  [
+    [
+      "2025-11-20, 21:33:06",
+      "https://news.ycombinator.com/item?id=45998044"
+    ],
+    [
+      "Closest Harmonic Number to an Integer",
+      "https://www.johndcook.com/blog/2025/11/19/closest-harmonic-number-to-an-integer/"
     ]
   ]
 ]
