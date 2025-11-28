@@ -71,16 +71,6 @@
   ],
   [
     [
-      "2025-11-28, 11:21:39",
-      "https://news.ycombinator.com/item?id=46077650"
-    ],
-    [
-      "Cats became our companions way later than you think",
-      "https://www.bbc.co.uk/news/articles/cq8dvdp9gn7o"
-    ]
-  ],
-  [
-    [
       "2025-11-28, 10:36:08",
       "https://news.ycombinator.com/item?id=46077393"
     ],
@@ -187,6 +177,16 @@
     [
       "250MWh 'Sand Battery' to start construction in Finland",
       "https://www.energy-storage.news/250mwh-sand-battery-to-start-construction-in-finland-for-both-heating-and-ancillary-services/"
+    ]
+  ],
+  [
+    [
+      "2025-11-27, 22:41:06",
+      "https://news.ycombinator.com/item?id=46073817"
+    ],
+    [
+      "A programmer-friendly I/O abstraction over io_uring and kqueue (2022)",
+      "https://tigerbeetle.com/blog/2022-11-23-a-friendly-abstraction-over-iouring-and-kqueue/"
     ]
   ],
   [
