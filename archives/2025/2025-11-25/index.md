@@ -24,6 +24,7 @@
 * [2025-11-25, 19:00:28](https://news.ycombinator.com/item?id=46049370) - [Show HN: Secure private diffchecker with merge support](https://diffchecker.dev)
 * [2025-11-25, 18:36:10](https://news.ycombinator.com/item?id=46049066) - [Bad UX World Cup 2025](https://badux.lol/)
 * [2025-11-25, 18:31:16](https://news.ycombinator.com/item?id=46048996) - [Google Antigravity Exfiltrates Data](https://www.promptarmor.com/resources/google-antigravity-exfiltrates-data)
+* [2025-11-25, 17:40:05](https://news.ycombinator.com/item?id=46048327) - [DJI ROMO robot vacuum [video]](https://www.youtube.com/watch?v=Iv7BYURURRI)
 * [2025-11-25, 17:33:50](https://news.ycombinator.com/item?id=46048252) - [Show HN: We built an open source, zero webhooks payment processor](https://github.com/flowglad/flowglad)
 * [2025-11-25, 17:31:47](https://news.ycombinator.com/item?id=46048229) - [It is ok to say \"CSS variables\" instead of \"custom properties\"](https://blog.kizu.dev/css-variables/)
 * [2025-11-25, 17:25:03](https://news.ycombinator.com/item?id=46048159) - [Stop Telling Us XMPP Should Use JSON](https://www.process-one.net/blog/stop-telling-us-xmpp-should-use-json/)
