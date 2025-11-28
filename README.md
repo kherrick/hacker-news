@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-11-28, 20:06:52](https://news.ycombinator.com/item?id=46082296) - [Airbus A320 Fly by wire corrupted by radiation in flight](https://viewfromthewing.com/airbus-a320s-could-be-temporarily-grounded-worldwide-for-software-update-after-faulty-jetblue-computer-triggered-sudden-uncommanded-descent/)
 * [2025-11-28, 19:58:13](https://news.ycombinator.com/item?id=46082204) - [The original ABC language, Python's predecessor (1991)](https://github.com/gvanrossum/abc-unix)
 * [2025-11-28, 19:05:16](https://news.ycombinator.com/item?id=46081704) - [Effective harnesses for long-running agents](https://www.anthropic.com/engineering/effective-harnesses-for-long-running-agents)
 * [2025-11-28, 18:39:34](https://news.ycombinator.com/item?id=46081443) - [Show HN: Pulse 2.0 – Live co-listening rooms where anyone can be a DJ](https://473999.net/pulse)
@@ -13,6 +12,7 @@
 * [2025-11-28, 17:16:52](https://news.ycombinator.com/item?id=46080597) - [Anti-patterns while working with LLMs](https://instavm.io/blog/llm-anti-patterns)
 * [2025-11-28, 17:15:20](https://news.ycombinator.com/item?id=46080579) - [C++ Web Server on my custom hobby OS](https://oshub.org/projects/retros-32/posts/getting-a-webserver-running)
 * [2025-11-28, 17:05:31](https://news.ycombinator.com/item?id=46080473) - [Bringing Sexy Back. Internet surveillance has killed eroticism](https://lux-magazine.com/article/privacy-eroticism/)
+* [2025-11-28, 17:00:46](https://news.ycombinator.com/item?id=46080424) - [Apple and Intel Rumored to Partner on Mac Chips](https://www.macrumors.com/2025/11/28/intel-rumored-to-supply-new-mac-chip/)
 * [2025-11-28, 16:54:56](https://news.ycombinator.com/item?id=46080364) - [So you wanna build a local RAG?](https://blog.yakkomajuri.com/blog/local-rag)
 * [2025-11-28, 16:49:12](https://news.ycombinator.com/item?id=46080289) - [Airloom – 3D Flight Tracker](https://objectiveunclear.com/airloom.html)
 * [2025-11-28, 16:42:46](https://news.ycombinator.com/item?id=46080218) - [Lobsters Interview](https://susam.net/my-lobsters-interview.html)
