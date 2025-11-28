@@ -1,6 +1,46 @@
 [
   [
     [
+      "2025-11-28, 16:09:50",
+      "https://news.ycombinator.com/item?id=46079868"
+    ],
+    [
+      "Meta hiding $27B in debt using advanced geometry",
+      "https://stohl.substack.com/p/exclusive-credit-report-shows-meta"
+    ]
+  ],
+  [
+    [
+      "2025-11-28, 16:09:00",
+      "https://news.ycombinator.com/item?id=46079858"
+    ],
+    [
+      "Looking Back at a Pandemic Simulator",
+      "https://www.raphkoster.com/2025/11/16/looking-back-at-a-pandemic-simulator/"
+    ]
+  ],
+  [
+    [
+      "2025-11-28, 16:05:07",
+      "https://news.ycombinator.com/item?id=46079818"
+    ],
+    [
+      "Open-Source Nouveau+NVK vs. Nvidia 580 Linux Gaming&Compute Driver Performance",
+      "https://www.phoronix.com/review/nvidia-nvk-linux-618-mesa-26"
+    ]
+  ],
+  [
+    [
+      "2025-11-28, 15:57:27",
+      "https://news.ycombinator.com/item?id=46079745"
+    ],
+    [
+      "Tell HN: Want a better HN? Visit /newest",
+      "https://news.ycombinator.com/item?id=46079745"
+    ]
+  ],
+  [
+    [
       "2025-11-28, 15:27:49",
       "https://news.ycombinator.com/item?id=46079460"
     ],
@@ -11,32 +51,12 @@
   ],
   [
     [
-      "2025-11-28, 14:41:53",
-      "https://news.ycombinator.com/item?id=46079067"
-    ],
-    [
-      "Louvre to hike ticket prices for most non-EU tourists by 45%",
-      "https://www.bbc.com/news/articles/clyd4llgrego"
-    ]
-  ],
-  [
-    [
       "2025-11-28, 14:08:14",
       "https://news.ycombinator.com/item?id=46078770"
     ],
     [
       "Petition to formally recognize open source work as civic service in Germany",
       "https://www.openpetition.de/petition/online/anerkennung-von-open-source-arbeit-als-ehrenamt-in-deutschland#petition-main"
-    ]
-  ],
-  [
-    [
-      "2025-11-28, 13:21:17",
-      "https://news.ycombinator.com/item?id=46078407"
-    ],
-    [
-      "A trillion dollars (potentially) wasted on gen-AI",
-      "https://garymarcus.substack.com/p/a-trillion-dollars-is-a-terrible"
     ]
   ],
   [
@@ -181,16 +201,6 @@
   ],
   [
     [
-      "2025-11-27, 22:48:44",
-      "https://news.ycombinator.com/item?id=46073855"
-    ],
-    [
-      "250MWh 'Sand Battery' to start construction in Finland",
-      "https://www.energy-storage.news/250mwh-sand-battery-to-start-construction-in-finland-for-both-heating-and-ancillary-services/"
-    ]
-  ],
-  [
-    [
       "2025-11-27, 16:19:03",
       "https://news.ycombinator.com/item?id=46070668"
     ],
@@ -231,16 +241,6 @@
   ],
   [
     [
-      "2025-11-24, 20:15:53",
-      "https://news.ycombinator.com/item?id=46038684"
-    ],
-    [
-      "Implementing Bluetooth LE Audio and Auracast on Linux Systems",
-      "https://www.collabora.com/news-and-blog/blog/2025/11/24/implementing-bluetooth-le-audio-and-auracast-on-linux-systems/"
-    ]
-  ],
-  [
-    [
       "2025-11-24, 12:28:44",
       "https://news.ycombinator.com/item?id=46033386"
     ],
@@ -251,22 +251,22 @@
   ],
   [
     [
-      "2025-11-24, 10:52:37",
-      "https://news.ycombinator.com/item?id=46032623"
-    ],
-    [
-      "OS Malevich – how we made a system that embodies the idea of simplicity (2017)",
-      "https://www.ajax-systems.uz/blog/hub-os-malevich-story/"
-    ]
-  ],
-  [
-    [
       "2025-11-24, 09:51:45",
       "https://news.ycombinator.com/item?id=46032230"
     ],
     [
       "A fast EDN (Extensible Data Notation) reader written in C11 with SIMD boost",
       "https://github.com/DotFox/edn.c"
+    ]
+  ],
+  [
+    [
+      "2025-11-23, 20:36:59",
+      "https://news.ycombinator.com/item?id=46027104"
+    ],
+    [
+      "NSA and IETF, Part 2",
+      "https://blog.cr.yp.to/20251123-corruption.html"
     ]
   ],
   [
