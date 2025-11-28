@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-11-28, 15:27:49](https://news.ycombinator.com/item?id=46079460) - [Swedish publishers file police report against Meta's Zuckerberg for fraud](https://www.sverigesradio.se/artikel/swedish-publishers-file-police-report-against-metas-zuckerberg-for-fraud)
 * [2025-11-28, 14:41:53](https://news.ycombinator.com/item?id=46079067) - [Louvre to hike ticket prices for most non-EU tourists by 45%](https://www.bbc.com/news/articles/clyd4llgrego)
 * [2025-11-28, 14:08:14](https://news.ycombinator.com/item?id=46078770) - [Petition to formally recognize open source work as civic service in Germany](https://www.openpetition.de/petition/online/anerkennung-von-open-source-arbeit-als-ehrenamt-in-deutschland#petition-main)
 * [2025-11-28, 13:21:17](https://news.ycombinator.com/item?id=46078407) - [A trillion dollars (potentially) wasted on gen-AI](https://garymarcus.substack.com/p/a-trillion-dollars-is-a-terrible)
@@ -18,7 +19,6 @@
 * [2025-11-28, 00:10:38](https://news.ycombinator.com/item?id=46074362) - [How Charles M Schulz created Charlie Brown and Snoopy (2024)](https://www.bbc.com/culture/article/20241205-how-charles-m-schulz-created-charlie-brown-and-snoopy)
 * [2025-11-27, 23:30:11](https://news.ycombinator.com/item?id=46074111) - [Vsora Jotunn-8 5nm European inference chip](https://vsora.com/products/jotunn-8/)
 * [2025-11-27, 22:48:44](https://news.ycombinator.com/item?id=46073855) - [250MWh 'Sand Battery' to start construction in Finland](https://www.energy-storage.news/250mwh-sand-battery-to-start-construction-in-finland-for-both-heating-and-ancillary-services/)
-* [2025-11-27, 22:41:06](https://news.ycombinator.com/item?id=46073817) - [A programmer-friendly I/O abstraction over io_uring and kqueue (2022)](https://tigerbeetle.com/blog/2022-11-23-a-friendly-abstraction-over-iouring-and-kqueue/)
 * [2025-11-27, 16:19:03](https://news.ycombinator.com/item?id=46070668) - [Same-day upstream Linux support for Snapdragon 8 Elite Gen 5](https://www.qualcomm.com/developer/blog/2025/10/same-day-snapdragon-8-elite-gen-5-upstream-linux-support)
 * [2025-11-27, 15:36:56](https://news.ycombinator.com/item?id=46070203) - [GitLab discovers widespread NPM supply chain attack](https://about.gitlab.com/blog/gitlab-discovers-widespread-npm-supply-chain-attack/)
 * [2025-11-27, 11:10:51](https://news.ycombinator.com/item?id=46068138) - [Show HN: Spikelog – A simple metrics service for scripts, cron jobs, and MVPs](https://spikelog.com)
