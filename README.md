@@ -8,7 +8,6 @@
 * [2025-11-28, 04:15:34](https://news.ycombinator.com/item?id=46075462) - [Migrating to Positron, a next-generation data science IDE for Python and R](https://posit.co/blog/positron-migration-guides)
 * [2025-11-28, 03:45:04](https://news.ycombinator.com/item?id=46075320) - [Pocketbase – open-source realtime back end in 1 file](https://pocketbase.io/)
 * [2025-11-28, 00:10:38](https://news.ycombinator.com/item?id=46074362) - [How Charles M Schulz created Charlie Brown and Snoopy (2024)](https://www.bbc.com/culture/article/20241205-how-charles-m-schulz-created-charlie-brown-and-snoopy)
-* [2025-11-27, 23:57:57](https://news.ycombinator.com/item?id=46074286) - [Bird flu viruses are resistant to fever, making them a major threat to humans](https://medicalxpress.com/news/2025-11-bird-flu-viruses-resistant-fever.html)
 * [2025-11-27, 23:30:11](https://news.ycombinator.com/item?id=46074111) - [Vsora Jotunn-8 5nm European inference chip](https://vsora.com/products/jotunn-8/)
 * [2025-11-27, 22:48:44](https://news.ycombinator.com/item?id=46073855) - [250MWh 'Sand Battery' to start construction in Finland](https://www.energy-storage.news/250mwh-sand-battery-to-start-construction-in-finland-for-both-heating-and-ancillary-services/)
 * [2025-11-27, 22:41:06](https://news.ycombinator.com/item?id=46073817) - [A programmer-friendly I/O abstraction over io_uring and kqueue (2022)](https://tigerbeetle.com/blog/2022-11-23-a-friendly-abstraction-over-iouring-and-kqueue/)
@@ -29,6 +28,7 @@
 * [2025-11-23, 19:09:17](https://news.ycombinator.com/item?id=46026343) - [Designing a Mechanical Calculator](https://signoregalilei.com/2025/11/22/designing-a-mechanical-calculator/)
 * [2025-11-23, 15:33:22](https://news.ycombinator.com/item?id=46024302) - [Indie, alone, and figuring it out](https://danijelavrzan.com/posts/2025/11/indie-dev/)
 * [2025-11-23, 10:05:32](https://news.ycombinator.com/item?id=46022203) - [Experimenting with Robin Hood Hashing](https://twdev.blog/2025/11/robin_hood/)
+* [2025-11-23, 03:37:49](https://news.ycombinator.com/item?id=46020561) - [How to make precise sheet metal parts (photochemical machining) [video]](https://www.youtube.com/watch?v=bR9EN3kUlfg)
 * [2025-11-22, 20:54:06](https://news.ycombinator.com/item?id=46018159) - [Physicists drive antihydrogen breakthrough at CERN](https://phys.org/news/2025-11-physicists-antihydrogen-breakthrough-cern-technique.html)
 
 ## [Archives](archives/index.md)

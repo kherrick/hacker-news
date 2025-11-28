@@ -73,6 +73,7 @@
 * [2025-11-23, 04:16:55](https://news.ycombinator.com/item?id=46020701) - [Show HN: Wolfrominoes](https://demos.samgentle.com/wolfrominoes/)
 * [2025-11-23, 03:47:17](https://news.ycombinator.com/item?id=46020596) - [Cryptographers Held an Election. They Can't Decrypt the Results](https://www.nytimes.com/2025/11/21/world/cryptography-group-lost-election-results.html)
 * [2025-11-23, 03:38:22](https://news.ycombinator.com/item?id=46020564) - [The Definitive Classic Mac Pro (2006-2012) Upgrade Guide](https://blog.greggant.com/posts/2018/05/07/definitive-mac-pro-upgrade-guide.html)
+* [2025-11-23, 03:37:49](https://news.ycombinator.com/item?id=46020561) - [How to make precise sheet metal parts (photochemical machining) [video]](https://www.youtube.com/watch?v=bR9EN3kUlfg)
 * [2025-11-23, 03:33:42](https://news.ycombinator.com/item?id=46020543) - [Unusual circuits in the Intel 386's standard cell logic](https://www.righto.com/2025/11/unusual-386-standard-cell-circuits.html)
 * [2025-11-23, 03:27:04](https://news.ycombinator.com/item?id=46020502) - [MCP Apps just dropped (OpenAI and Anthropic collab) and I think this is huge](http://blog.modelcontextprotocol.io/posts/2025-11-21-mcp-apps/)
 * [2025-11-23, 02:27:16](https://news.ycombinator.com/item?id=46020193) - [A Fast 64-Bit Date Algorithm (30–40% faster by counting dates backwards)](https://www.benjoffe.com/fast-date-64)
