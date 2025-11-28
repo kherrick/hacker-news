@@ -34,6 +34,7 @@
 * [2025-11-24, 17:00:07](https://news.ycombinator.com/item?id=46036217) - [France threatens GrapheneOS with arrests / server seizure for refusing backdoors](https://mamot.fr/@LaQuadrature/115581775965025042)
 * [2025-11-24, 16:53:11](https://news.ycombinator.com/item?id=46036139) - [Britain is one of the richest countries. So why do children live in poverty?](https://www.cnn.com/2025/11/24/uk/britain-child-poverty-intl-scli)
 * [2025-11-24, 16:52:21](https://news.ycombinator.com/item?id=46036129) - [A New Raspberry Pi Imager](https://www.raspberrypi.com/news/a-new-raspberry-pi-imager/)
+* [2025-11-24, 16:51:50](https://news.ycombinator.com/item?id=46036124) - [Modelling Agent Systems with Erlang (2004) [pdf]](https://erlang.org/workshop/2004/carlosvarela.pdf)
 * [2025-11-24, 16:40:22](https://news.ycombinator.com/item?id=46035977) - [France threatens GrapheneOS with arrests / server seizure for refusing backdoors](https://grapheneos.social/@watchfulcitizen@goingdark.social/115605398547420414)
 * [2025-11-24, 16:07:40](https://news.ycombinator.com/item?id=46035574) - [X Just Accidentally Exposed a Covert Influence Network Targeting Americans](https://weaponizedspaces.substack.com/p/x-just-accidentally-exposed-a-vast)
 * [2025-11-24, 16:03:36](https://news.ycombinator.com/item?id=46035533) - [SHA1-Hulud the Second Comming – Postman, Zapier, PostHog All Compromised via NPM](https://www.aikido.dev/blog/shai-hulud-strikes-again-hitting-zapier-ensdomains)
