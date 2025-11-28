@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-11-28](index.md)
 
+* [2025-11-28, 16:37:32](https://news.ycombinator.com/item?id=46080161) - [Stellantis Is Spamming Owners' Screens with Pop-Up Ads for New Car Discounts](https://www.thedrive.com/news/stellantis-is-spamming-owners-screens-with-pop-up-ads-for-new-car-discounts)
 * [2025-11-28, 16:35:24](https://news.ycombinator.com/item?id=46080143) - [True P2P Email on Top of Yggdrasil Network](https://github.com/JB-SelfCompany/Tyr)
 * [2025-11-28, 16:34:13](https://news.ycombinator.com/item?id=46080131) - [The Pro-Israel Information War](https://www.leefang.com/p/inside-the-pro-israel-information)
 * [2025-11-28, 16:21:09](https://news.ycombinator.com/item?id=46079987) - [AI Adoption Rates Starting to Flatten Out](https://www.apolloacademy.com/ai-adoption-rates-starting-to-flatten-out/)
@@ -11,10 +12,12 @@
 * [2025-11-28, 16:09:50](https://news.ycombinator.com/item?id=46079868) - [Meta hiding $27B in debt using advanced geometry](https://stohl.substack.com/p/exclusive-credit-report-shows-meta)
 * [2025-11-28, 16:09:06](https://news.ycombinator.com/item?id=46079860) - [The Signal Is the Noise](https://www.magazine.dirt.fyi/p/the-signal-is-the-noise)
 * [2025-11-28, 16:09:00](https://news.ycombinator.com/item?id=46079858) - [Looking Back at a Pandemic Simulator](https://www.raphkoster.com/2025/11/16/looking-back-at-a-pandemic-simulator/)
+* [2025-11-28, 16:08:52](https://news.ycombinator.com/item?id=46079857) - [Playtiles: The Pocket-Sized Gaming Platform](https://get.playtil.es)
 * [2025-11-28, 16:05:07](https://news.ycombinator.com/item?id=46079818) - [Open-Source Nouveau+NVK vs. Nvidia 580 Linux Gaming&Compute Driver Performance](https://www.phoronix.com/review/nvidia-nvk-linux-618-mesa-26)
 * [2025-11-28, 16:01:01](https://news.ycombinator.com/item?id=46079785) - [Don't tug on that, you never know what it might be attached to](https://blog.plover.com/2016/07/01/#tmpdir)
 * [2025-11-28, 15:57:27](https://news.ycombinator.com/item?id=46079745) - [Tell HN: Want a better HN? Visit /newest](https://news.ycombinator.com/item?id=46079745)
 * [2025-11-28, 15:53:39](https://news.ycombinator.com/item?id=46079721) - [Can Dutch universities do without Microsoft?](https://dub.uu.nl/en/news/can-dutch-universities-do-without-microsoft)
+* [2025-11-28, 15:40:49](https://news.ycombinator.com/item?id=46079567) - [Generating 3D Meshes from Text](https://cprimozic.net/notes/posts/generating-3d-meshes-from-text/)
 * [2025-11-28, 15:27:49](https://news.ycombinator.com/item?id=46079460) - [Swedish publishers file police report against Meta's Zuckerberg for fraud](https://www.sverigesradio.se/artikel/swedish-publishers-file-police-report-against-metas-zuckerberg-for-fraud)
 * [2025-11-28, 14:41:53](https://news.ycombinator.com/item?id=46079067) - [Louvre to hike ticket prices for most non-EU tourists by 45%](https://www.bbc.com/news/articles/clyd4llgrego)
 * [2025-11-28, 14:08:14](https://news.ycombinator.com/item?id=46078770) - [Petition to formally recognize open source work as civic service in Germany](https://www.openpetition.de/petition/online/anerkennung-von-open-source-arbeit-als-ehrenamt-in-deutschland#petition-main)
