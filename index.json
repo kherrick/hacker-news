@@ -1,6 +1,36 @@
 [
   [
     [
+      "2025-11-28, 00:10:38",
+      "https://news.ycombinator.com/item?id=46074362"
+    ],
+    [
+      "How Charles M Schulz created Charlie Brown and Snoopy (2024)",
+      "https://www.bbc.com/culture/article/20241205-how-charles-m-schulz-created-charlie-brown-and-snoopy"
+    ]
+  ],
+  [
+    [
+      "2025-11-27, 23:57:57",
+      "https://news.ycombinator.com/item?id=46074286"
+    ],
+    [
+      "Bird flu viruses are resistant to fever, making them a major threat to humans",
+      "https://medicalxpress.com/news/2025-11-bird-flu-viruses-resistant-fever.html"
+    ]
+  ],
+  [
+    [
+      "2025-11-27, 23:30:11",
+      "https://news.ycombinator.com/item?id=46074111"
+    ],
+    [
+      "Vsora Jotunn-8 5nm European inference chip",
+      "https://vsora.com/products/jotunn-8/"
+    ]
+  ],
+  [
+    [
       "2025-11-27, 22:48:44",
       "https://news.ycombinator.com/item?id=46073855"
     ],
@@ -47,16 +77,6 @@
     [
       "DeepSeekMath-V2: Towards Self-Verifiable Mathematical Reasoning [pdf]",
       "https://github.com/deepseek-ai/DeepSeek-Math-V2/blob/main/DeepSeekMath_V2.pdf"
-    ]
-  ],
-  [
-    [
-      "2025-11-27, 16:55:30",
-      "https://news.ycombinator.com/item?id=46071030"
-    ],
-    [
-      "The input stack on Linux: An end-to-end architecture overview",
-      "https://venam.net/blog/unix/2025/11/27/input_devices_linux.html"
     ]
   ],
   [
@@ -191,16 +211,6 @@
   ],
   [
     [
-      "2025-11-27, 02:14:36",
-      "https://news.ycombinator.com/item?id=46064757"
-    ],
-    [
-      "Penpot: The Open-Source Figma",
-      "https://github.com/penpot/penpot"
-    ]
-  ],
-  [
-    [
       "2025-11-26, 22:00:48",
       "https://news.ycombinator.com/item?id=46062855"
     ],
@@ -241,22 +251,12 @@
   ],
   [
     [
-      "2025-11-24, 20:48:18",
-      "https://news.ycombinator.com/item?id=46039106"
+      "2025-11-24, 16:51:50",
+      "https://news.ycombinator.com/item?id=46036124"
     ],
     [
-      "Interactive λ-Reduction",
-      "https://deltanets.org/"
-    ]
-  ],
-  [
-    [
-      "2025-11-24, 13:27:58",
-      "https://news.ycombinator.com/item?id=46033876"
-    ],
-    [
-      "Generating Cats with KPN Filtering",
-      "https://aschrein.github.io/jekyll/update/2025/11/22/generating_cats.html"
+      "Modelling Agent Systems with Erlang (2004) [pdf]",
+      "https://erlang.org/workshop/2004/carlosvarela.pdf"
     ]
   ],
   [
