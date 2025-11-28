@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2025-11-28](index.md)
 
+* [2025-11-28, 12:41:32](https://news.ycombinator.com/item?id=46078138) - [A Remarkable Assertion from A16Z](https://nealstephenson.substack.com/p/a-remarkable-assertion-from-a16z)
+* [2025-11-28, 12:17:15](https://news.ycombinator.com/item?id=46077992) - [The mysterious black fungus from Chernobyl that may eat radiation](https://www.bbc.com/future/article/20251125-the-mysterious-black-fungus-from-chernobyl-that-appears-to-eat-radiation)
+* [2025-11-28, 12:11:39](https://news.ycombinator.com/item?id=46077964) - [A Tale of Four Fuzzers](https://tigerbeetle.com/blog/2025-11-28-tale-of-four-fuzzers/)
+* [2025-11-28, 12:00:35](https://news.ycombinator.com/item?id=46077885) - [Switzerland: Data Protection Officers Impose Broad Cloud Ban for Authorities](https://www.heise.de/en/news/Switzerland-Data-Protection-Officers-Impose-Broad-Cloud-Ban-for-Authorities-11093477.html)
 * [2025-11-28, 11:21:39](https://news.ycombinator.com/item?id=46077650) - [Cats became our companions way later than you think](https://www.bbc.co.uk/news/articles/cq8dvdp9gn7o)
 * [2025-11-28, 10:45:29](https://news.ycombinator.com/item?id=46077445) - [Africa's forests have switched from absorbing to emitting carbon](https://phys.org/news/2025-11-africa-forests-absorbing-emitting-carbon.html)
 * [2025-11-28, 10:38:41](https://news.ycombinator.com/item?id=46077404) - [Google denies 'misleading' reports of Gmail using your emails to train AI](https://www.theverge.com/news/826902/gmail-ai-training-data-opt-out)
