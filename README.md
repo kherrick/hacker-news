@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-11-28, 09:32:38](https://news.ycombinator.com/item?id=46077106) - [A Repository with 44 Years of Unix Evolution](https://www.spinellis.gr/pubs/conf/2015-MSR-Unix-History/html/Spi15c.html)
 * [2025-11-28, 09:21:55](https://news.ycombinator.com/item?id=46077038) - [Tech Titans Amass Multimillion-Dollar War Chests to Fight AI Regulation](https://www.wsj.com/tech/ai/tech-titans-amass-multimillion-dollar-war-chests-to-fight-ai-regulation-88c600e1)
 * [2025-11-28, 05:52:38](https://news.ycombinator.com/item?id=46075882) - [Show HN: Glasses to detect smart-glasses that have cameras](https://github.com/NullPxl/banrays)
 * [2025-11-28, 05:19:45](https://news.ycombinator.com/item?id=46075746) - [How to use Linux vsock for fast VM communication](https://popovicu.com/posts/how-to-use-linux-vsock-for-fast-vm-communication/)
@@ -23,7 +24,6 @@
 * [2025-11-24, 20:15:53](https://news.ycombinator.com/item?id=46038684) - [Implementing Bluetooth LE Audio and Auracast on Linux Systems](https://www.collabora.com/news-and-blog/blog/2025/11/24/implementing-bluetooth-le-audio-and-auracast-on-linux-systems/)
 * [2025-11-24, 16:26:22](https://news.ycombinator.com/item?id=46035819) - [Maxduino Review: Tape Cassette Emulator for Multiple Retro Computers](https://retrogamecoders.com/maxduino-review/)
 * [2025-11-24, 08:10:11](https://news.ycombinator.com/item?id=46031552) - [Quake Engine Indicators](https://fabiensanglard.net/quake_indicators/index.html)
-* [2025-11-23, 20:31:45](https://news.ycombinator.com/item?id=46027065) - [Giving the Jakks Atari Paddle a Spin](https://nicole.express/2025/paddle-me-atari.html)
 * [2025-11-23, 19:09:17](https://news.ycombinator.com/item?id=46026343) - [Designing a Mechanical Calculator](https://signoregalilei.com/2025/11/22/designing-a-mechanical-calculator/)
 * [2025-11-23, 15:33:22](https://news.ycombinator.com/item?id=46024302) - [Indie, alone, and figuring it out](https://danijelavrzan.com/posts/2025/11/indie-dev/)
 * [2025-11-23, 10:05:32](https://news.ycombinator.com/item?id=46022203) - [Experimenting with Robin Hood Hashing](https://twdev.blog/2025/11/robin_hood/)
