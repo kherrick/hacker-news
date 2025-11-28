@@ -14,6 +14,7 @@
 * [2025-11-28, 10:36:08](https://news.ycombinator.com/item?id=46077393) - [EU Council Approves New \"Chat Control\" Mandate Pushing Mass Surveillance](https://reclaimthenet.org/eu-council-approves-new-chat-control-mandate-pushing-mass-surveillance)
 * [2025-11-28, 09:32:38](https://news.ycombinator.com/item?id=46077106) - [A Repository with 44 Years of Unix Evolution](https://www.spinellis.gr/pubs/conf/2015-MSR-Unix-History/html/Spi15c.html)
 * [2025-11-28, 09:21:55](https://news.ycombinator.com/item?id=46077038) - [Tech Titans Amass Multimillion-Dollar War Chests to Fight AI Regulation](https://www.wsj.com/tech/ai/tech-titans-amass-multimillion-dollar-war-chests-to-fight-ai-regulation-88c600e1)
+* [2025-11-28, 08:15:50](https://news.ycombinator.com/item?id=46076642) - [SQLite as an Application File Format](https://sqlite.org/appfileformat.html)
 * [2025-11-28, 06:44:51](https://news.ycombinator.com/item?id=46076156) - ['A step-change': tech firms battle for undersea dominance with submarine drones](https://www.theguardian.com/business/2025/nov/28/tech-submarine-drones-startups-big-defence-companies)
 * [2025-11-28, 06:43:13](https://news.ycombinator.com/item?id=46076150) - [GrapheneOS Moving Out of France](https://xcancel.com/GrapheneOS/status/1993035936800584103)
 * [2025-11-28, 05:52:38](https://news.ycombinator.com/item?id=46075882) - [Show HN: Ray-BANNED, Glasses to detect smart-glasses that have cameras](https://github.com/NullPxl/banrays)

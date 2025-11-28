@@ -57,6 +57,7 @@
 * [2025-11-24, 12:00:55](https://news.ycombinator.com/item?id=46033151) - [NSA and IETF, part 3: Dodging the issues at hand](https://blog.cr.yp.to/20251123-dodging.html)
 * [2025-11-24, 11:46:05](https://news.ycombinator.com/item?id=46033046) - [Essence and accident in language model-assisted coding](https://www.sicpers.info/2025/11/essence-and-accident-in-language-model-assisted-coding/)
 * [2025-11-24, 11:02:51](https://news.ycombinator.com/item?id=46032694) - [I put a real search engine into a Lambda, so you only pay when you search](https://nixiesearch.substack.com/p/i-put-a-real-search-engine-into-a)
+* [2025-11-24, 10:52:37](https://news.ycombinator.com/item?id=46032623) - [OS Malevich – how we made a system that embodies the idea of simplicity (2017)](https://www.ajax-systems.uz/blog/hub-os-malevich-story/)
 * [2025-11-24, 10:40:22](https://news.ycombinator.com/item?id=46032539) - [Shai-Hulud Returns: Over 300 NPM Packages Infected](https://helixguard.ai/blog/malicious-sha1hulud-2025-11-24)
 * [2025-11-24, 10:37:05](https://news.ycombinator.com/item?id=46032513) - [General principles for the use of AI at CERN](https://home.web.cern.ch/news/official-news/knowledge-sharing/general-principles-use-ai-cern)
 * [2025-11-24, 09:51:45](https://news.ycombinator.com/item?id=46032230) - [A fast EDN (Extensible Data Notation) reader written in C11 with SIMD boost](https://github.com/DotFox/edn.c)
