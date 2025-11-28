@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-11-28, 19:05:16",
+      "https://news.ycombinator.com/item?id=46081704"
+    ],
+    [
+      "Effective harnesses for long-running agents",
+      "https://www.anthropic.com/engineering/effective-harnesses-for-long-running-agents"
+    ]
+  ],
+  [
+    [
       "2025-11-28, 18:39:34",
       "https://news.ycombinator.com/item?id=46081443"
     ],
@@ -211,32 +221,12 @@
   ],
   [
     [
-      "2025-11-28, 15:40:49",
-      "https://news.ycombinator.com/item?id=46079567"
-    ],
-    [
-      "Generating 3D Meshes from Text",
-      "https://cprimozic.net/notes/posts/generating-3d-meshes-from-text/"
-    ]
-  ],
-  [
-    [
       "2025-11-28, 14:08:14",
       "https://news.ycombinator.com/item?id=46078770"
     ],
     [
       "Petition to formally recognize open source work as civic service in Germany",
       "https://www.openpetition.de/petition/online/anerkennung-von-open-source-arbeit-als-ehrenamt-in-deutschland#petition-main"
-    ]
-  ],
-  [
-    [
-      "2025-11-28, 12:11:39",
-      "https://news.ycombinator.com/item?id=46077964"
-    ],
-    [
-      "A Tale of Four Fuzzers",
-      "https://tigerbeetle.com/blog/2025-11-28-tale-of-four-fuzzers/"
     ]
   ],
   [
@@ -287,6 +277,16 @@
     [
       "Analog Hoverboard Controller",
       "https://github.com/skrubis/analog-hoverboard"
+    ]
+  ],
+  [
+    [
+      "2025-11-23, 23:54:55",
+      "https://news.ycombinator.com/item?id=46028649"
+    ],
+    [
+      "Generalizing Printf in C",
+      "https://webb.is-a.dev/articles/generalizedprintf/"
     ]
   ],
   [
