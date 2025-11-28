@@ -61,6 +61,7 @@
 * [2025-11-23, 12:03:06](https://news.ycombinator.com/item?id=46022892) - [Deepnote (YC S19) is hiring engineers to build a better Jupyter notebook](https://deepnote.com/join-us)
 * [2025-11-23, 11:32:15](https://news.ycombinator.com/item?id=46022704) - [Silicon Valley startups: being evil, again and again](https://notesfrombelow.org/article/silicon-valley-startups-doing-evil-again-and-again)
 * [2025-11-23, 10:22:24](https://news.ycombinator.com/item?id=46022279) - [Signal knows who you're talking to](https://sanesecurityguy.com/articles/signal-knows-who-youre-talking-to/)
+* [2025-11-23, 10:05:32](https://news.ycombinator.com/item?id=46022203) - [Experimenting with Robin Hood Hashing](https://twdev.blog/2025/11/robin_hood/)
 * [2025-11-23, 09:37:22](https://news.ycombinator.com/item?id=46022059) - [A Camera of Miroslav Tichý](https://artblart.com/tag/a-camera-of-miroslav-tichy/)
 * [2025-11-23, 08:40:41](https://news.ycombinator.com/item?id=46021825) - [After my dad died, we found the love letters](https://www.jenn.site/after-my-dad-died-we-found-the-love-letters/)
 * [2025-11-23, 07:40:26](https://news.ycombinator.com/item?id=46021577) - [Surprisingly, Emacs on Android is pretty good](https://kristofferbalintona.me/posts/202505291438/)

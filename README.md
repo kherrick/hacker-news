@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-11-28, 03:40:52](https://news.ycombinator.com/item?id=46075305) - [China's BEV Trucks and the End of Diesel's Dominance](https://cleantechnica.com/2025/11/26/chinas-bev-trucks-and-the-end-of-diesels-dominance/)
 * [2025-11-28, 03:08:27](https://news.ycombinator.com/item?id=46075178) - [The VPN panic is only getting started](https://www.theverge.com/tech/827435/uk-vpn-restrictions-ban-online-safety-act)
 * [2025-11-28, 00:10:38](https://news.ycombinator.com/item?id=46074362) - [How Charles M Schulz created Charlie Brown and Snoopy (2024)](https://www.bbc.com/culture/article/20241205-how-charles-m-schulz-created-charlie-brown-and-snoopy)
 * [2025-11-27, 23:57:57](https://news.ycombinator.com/item?id=46074286) - [Bird flu viruses are resistant to fever, making them a major threat to humans](https://medicalxpress.com/news/2025-11-bird-flu-viruses-resistant-fever.html)
@@ -11,7 +12,6 @@
 * [2025-11-27, 16:19:03](https://news.ycombinator.com/item?id=46070668) - [Same-day upstream Linux support for Snapdragon 8 Elite Gen 5](https://www.qualcomm.com/developer/blog/2025/10/same-day-snapdragon-8-elite-gen-5-upstream-linux-support)
 * [2025-11-27, 15:36:56](https://news.ycombinator.com/item?id=46070203) - [GitLab discovers widespread NPM supply chain attack](https://about.gitlab.com/blog/gitlab-discovers-widespread-npm-supply-chain-attack/)
 * [2025-11-27, 13:28:34](https://news.ycombinator.com/item?id=46069048) - [TPUs vs. GPUs and why Google is positioned to win AI race in the long term](https://www.uncoveralpha.com/p/the-chip-made-for-the-ai-inference)
-* [2025-11-27, 12:48:12](https://news.ycombinator.com/item?id=46068777) - [The current state of the theory that GPL propagates to AI models](https://shujisado.org/2025/11/27/gpl-propagates-to-ai-models-trained-on-gpl-code/)
 * [2025-11-27, 07:31:24](https://news.ycombinator.com/item?id=46066695) - [Ray Marching Soft Shadows in 2D (2020)](https://www.rykap.com/2020/09/23/distance-fields/)
 * [2025-11-27, 07:02:40](https://news.ycombinator.com/item?id=46066522) - [Mixpanel Security Breach](https://mixpanel.com/blog/sms-security-incident/)
 * [2025-11-27, 06:17:37](https://news.ycombinator.com/item?id=46066280) - [Linux Kernel Explorer](https://reverser.dev/linux-kernel-explorer)
@@ -23,11 +23,11 @@
 * [2025-11-26, 20:17:44](https://news.ycombinator.com/item?id=46061871) - [Inspired by Spider-Man, scientists recreate web-slinging technology](https://scienceclock.com/inspired-by-spider-man-scientists-recreate-web-slinging-technology/)
 * [2025-11-26, 15:40:14](https://news.ycombinator.com/item?id=46058471) - [Feedback doesn't scale](https://another.rodeo/feedback/)
 * [2025-11-26, 13:36:19](https://news.ycombinator.com/item?id=46057266) - [Memories of .us](https://computer.rip/2025-11-11-dot-us.html)
-* [2025-11-24, 20:48:18](https://news.ycombinator.com/item?id=46039106) - [Interactive λ-Reduction](https://deltanets.org/)
 * [2025-11-24, 16:26:22](https://news.ycombinator.com/item?id=46035819) - [Maxduino Review: Tape Cassette Emulator for Multiple Retro Computers](https://retrogamecoders.com/maxduino-review/)
 * [2025-11-24, 08:10:11](https://news.ycombinator.com/item?id=46031552) - [Quake Engine Indicators](https://fabiensanglard.net/quake_indicators/index.html)
 * [2025-11-23, 20:31:45](https://news.ycombinator.com/item?id=46027065) - [Giving the Jakks Atari Paddle a Spin](https://nicole.express/2025/paddle-me-atari.html)
 * [2025-11-23, 15:33:22](https://news.ycombinator.com/item?id=46024302) - [Indie, alone, and figuring it out](https://danijelavrzan.com/posts/2025/11/indie-dev/)
+* [2025-11-23, 10:05:32](https://news.ycombinator.com/item?id=46022203) - [Experimenting with Robin Hood Hashing](https://twdev.blog/2025/11/robin_hood/)
 * [2025-11-23, 09:37:22](https://news.ycombinator.com/item?id=46022059) - [A Camera of Miroslav Tichý](https://artblart.com/tag/a-camera-of-miroslav-tichy/)
 * [2025-11-22, 20:54:06](https://news.ycombinator.com/item?id=46018159) - [Physicists drive antihydrogen breakthrough at CERN](https://phys.org/news/2025-11-physicists-antihydrogen-breakthrough-cern-technique.html)
 
