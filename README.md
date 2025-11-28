@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-11-28, 03:45:04](https://news.ycombinator.com/item?id=46075320) - [Pocketbase – open-source realtime back end in 1 file](https://pocketbase.io/)
 * [2025-11-28, 03:40:52](https://news.ycombinator.com/item?id=46075305) - [China's BEV Trucks and the End of Diesel's Dominance](https://cleantechnica.com/2025/11/26/chinas-bev-trucks-and-the-end-of-diesels-dominance/)
 * [2025-11-28, 03:08:27](https://news.ycombinator.com/item?id=46075178) - [The VPN panic is only getting started](https://www.theverge.com/tech/827435/uk-vpn-restrictions-ban-online-safety-act)
 * [2025-11-28, 00:10:38](https://news.ycombinator.com/item?id=46074362) - [How Charles M Schulz created Charlie Brown and Snoopy (2024)](https://www.bbc.com/culture/article/20241205-how-charles-m-schulz-created-charlie-brown-and-snoopy)
@@ -23,7 +24,6 @@
 * [2025-11-26, 20:17:44](https://news.ycombinator.com/item?id=46061871) - [Inspired by Spider-Man, scientists recreate web-slinging technology](https://scienceclock.com/inspired-by-spider-man-scientists-recreate-web-slinging-technology/)
 * [2025-11-26, 15:40:14](https://news.ycombinator.com/item?id=46058471) - [Feedback doesn't scale](https://another.rodeo/feedback/)
 * [2025-11-26, 13:36:19](https://news.ycombinator.com/item?id=46057266) - [Memories of .us](https://computer.rip/2025-11-11-dot-us.html)
-* [2025-11-24, 20:48:18](https://news.ycombinator.com/item?id=46039106) - [Interactive λ-Reduction](https://deltanets.org/)
 * [2025-11-24, 16:26:22](https://news.ycombinator.com/item?id=46035819) - [Maxduino Review: Tape Cassette Emulator for Multiple Retro Computers](https://retrogamecoders.com/maxduino-review/)
 * [2025-11-24, 08:10:11](https://news.ycombinator.com/item?id=46031552) - [Quake Engine Indicators](https://fabiensanglard.net/quake_indicators/index.html)
 * [2025-11-23, 20:31:45](https://news.ycombinator.com/item?id=46027065) - [Giving the Jakks Atari Paddle a Spin](https://nicole.express/2025/paddle-me-atari.html)
