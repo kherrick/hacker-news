@@ -101,6 +101,16 @@
   ],
   [
     [
+      "2025-11-28, 08:15:50",
+      "https://news.ycombinator.com/item?id=46076642"
+    ],
+    [
+      "SQLite as an Application File Format",
+      "https://sqlite.org/appfileformat.html"
+    ]
+  ],
+  [
+    [
       "2025-11-28, 05:52:38",
       "https://news.ycombinator.com/item?id=46075882"
     ],
@@ -147,16 +157,6 @@
     [
       "Pocketbase – open-source realtime back end in 1 file",
       "https://pocketbase.io/"
-    ]
-  ],
-  [
-    [
-      "2025-11-28, 03:19:51",
-      "https://news.ycombinator.com/item?id=46075219"
-    ],
-    [
-      "Shor's algorithm: the one quantum algo that ends RSA/ECC tomorrow",
-      "https://blog.ellipticc.com/posts/what-is-shors-algorithm-and-why-its-the-single-biggest-threat-to-classical-cryptography/"
     ]
   ],
   [
@@ -251,6 +251,16 @@
   ],
   [
     [
+      "2025-11-24, 09:51:45",
+      "https://news.ycombinator.com/item?id=46032230"
+    ],
+    [
+      "A fast EDN (Extensible Data Notation) reader written in C11 with SIMD boost",
+      "https://github.com/DotFox/edn.c"
+    ]
+  ],
+  [
+    [
       "2025-11-24, 08:10:11",
       "https://news.ycombinator.com/item?id=46031552"
     ],
@@ -267,16 +277,6 @@
     [
       "How to make precise sheet metal parts (photochemical machining) [video]",
       "https://www.youtube.com/watch?v=bR9EN3kUlfg"
-    ]
-  ],
-  [
-    [
-      "2025-11-22, 20:54:06",
-      "https://news.ycombinator.com/item?id=46018159"
-    ],
-    [
-      "Physicists drive antihydrogen breakthrough at CERN",
-      "https://phys.org/news/2025-11-physicists-antihydrogen-breakthrough-cern-technique.html"
     ]
   ],
   [
