@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-11-28, 10:45:29",
+      "https://news.ycombinator.com/item?id=46077445"
+    ],
+    [
+      "Africa's forests have switched from absorbing to emitting carbon",
+      "https://phys.org/news/2025-11-africa-forests-absorbing-emitting-carbon.html"
+    ]
+  ],
+  [
+    [
       "2025-11-28, 10:36:08",
       "https://news.ycombinator.com/item?id=46077393"
     ],
@@ -131,16 +141,6 @@
   ],
   [
     [
-      "2025-11-27, 20:03:25",
-      "https://news.ycombinator.com/item?id=46072786"
-    ],
-    [
-      "DeepSeekMath-V2: Towards Self-Verifiable Mathematical Reasoning [pdf]",
-      "https://github.com/deepseek-ai/DeepSeek-Math-V2/blob/main/DeepSeekMath_V2.pdf"
-    ]
-  ],
-  [
-    [
       "2025-11-27, 16:19:03",
       "https://news.ycombinator.com/item?id=46070668"
     ],
@@ -157,16 +157,6 @@
     [
       "GitLab discovers widespread NPM supply chain attack",
       "https://about.gitlab.com/blog/gitlab-discovers-widespread-npm-supply-chain-attack/"
-    ]
-  ],
-  [
-    [
-      "2025-11-27, 13:28:34",
-      "https://news.ycombinator.com/item?id=46069048"
-    ],
-    [
-      "TPUs vs. GPUs and why Google is positioned to win AI race in the long term",
-      "https://www.uncoveralpha.com/p/the-chip-made-for-the-ai-inference"
     ]
   ],
   [
@@ -227,6 +217,16 @@
     [
       "Maxduino Review: Tape Cassette Emulator for Multiple Retro Computers",
       "https://retrogamecoders.com/maxduino-review/"
+    ]
+  ],
+  [
+    [
+      "2025-11-24, 12:28:44",
+      "https://news.ycombinator.com/item?id=46033386"
+    ],
+    [
+      "Open (Apache 2.0) TTS model for streaming conversational audio in realtime",
+      "https://github.com/nari-labs/dia2"
     ]
   ],
   [
