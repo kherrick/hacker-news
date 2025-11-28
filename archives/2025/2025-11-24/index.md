@@ -21,6 +21,7 @@
 * [2025-11-24, 18:49:47](https://news.ycombinator.com/item?id=46037591) - [Google's new 'Aluminium OS' project brings Android to PC](https://www.androidauthority.com/aluminium-os-android-for-pcs-3619092/)
 * [2025-11-24, 18:48:04](https://news.ycombinator.com/item?id=46037573) - [GrapheneOS migrates server infrastructure from France](https://www.privacyguides.org/news/2025/11/22/grapheneos-migrates-server-infrastructure-from-france-amid-police-intimidation-claims/)
 * [2025-11-24, 18:47:11](https://news.ycombinator.com/item?id=46037556) - [Is Your Android TV Streaming Box Part of a Botnet?](https://krebsonsecurity.com/2025/11/is-your-android-tv-streaming-box-part-of-a-botnet/)
+* [2025-11-24, 18:42:42](https://news.ycombinator.com/item?id=46037486) - [Analog Hoverboard Controller](https://github.com/skrubis/analog-hoverboard)
 * [2025-11-24, 18:37:27](https://news.ycombinator.com/item?id=46037416) - [Launch HN: Karumi (YC F25) – Personalized, agentic product demos](https://www.karumi.ai/meet/start/phlz)
 * [2025-11-24, 18:37:27](https://news.ycombinator.com/item?id=46037416) - [Launch HN: Karumi (YC F25) – Personalized, agentic product demos](https://news.ycombinator.com/item?id=46037416)
 * [2025-11-24, 18:37:27](https://news.ycombinator.com/item?id=46037416) - [Launch HN: Karumi (YC F25) – Personalized, agentic product demos](http://karumi.ai/)
