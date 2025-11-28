@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-11-28](index.md)
 
+* [2025-11-28, 19:29:25](https://news.ycombinator.com/item?id=46081956) - [The Google Trends Spike Before the D.C. Shooting Raises New Questions](https://www.allenanalysis.com/p/the-google-trends-spike-before-the)
 * [2025-11-28, 19:05:16](https://news.ycombinator.com/item?id=46081704) - [Effective harnesses for long-running agents](https://www.anthropic.com/engineering/effective-harnesses-for-long-running-agents)
 * [2025-11-28, 18:39:34](https://news.ycombinator.com/item?id=46081443) - [Show HN: Pulse 2.0 – Live co-listening rooms where anyone can be a DJ](https://473999.net/pulse)
 * [2025-11-28, 18:30:18](https://news.ycombinator.com/item?id=46081357) - [How wealth dies](https://surplusenergyeconomics.wordpress.com/2025/11/02/314-how-wealth-dies/)
