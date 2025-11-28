@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-11-28, 17:30:41](https://news.ycombinator.com/item?id=46080737) - [Show HN: An LLM-Powered Tool to Catch PCB Schematic Mistakes](https://netlist.io/)
 * [2025-11-28, 17:15:20](https://news.ycombinator.com/item?id=46080579) - [C++ Web Server on my custom hobby OS](https://oshub.org/projects/retros-32/posts/getting-a-webserver-running)
 * [2025-11-28, 17:05:31](https://news.ycombinator.com/item?id=46080473) - [Bringing Sexy Back. Internet surveillance has killed eroticism](https://lux-magazine.com/article/privacy-eroticism/)
 * [2025-11-28, 17:00:46](https://news.ycombinator.com/item?id=46080424) - [Apple and Intel Rumored to Partner on Mac Chips](https://www.macrumors.com/2025/11/28/intel-rumored-to-supply-new-mac-chip/)
@@ -8,7 +9,6 @@
 * [2025-11-28, 16:35:24](https://news.ycombinator.com/item?id=46080143) - [True P2P Email on Top of Yggdrasil Network](https://github.com/JB-SelfCompany/Tyr)
 * [2025-11-28, 16:24:20](https://news.ycombinator.com/item?id=46080027) - [Pink Lexical Slime: The Dark Side of Autocorrect](https://www.cyberdemon.org/2017/12/12/pink-lexical-slime.html)
 * [2025-11-28, 16:21:09](https://news.ycombinator.com/item?id=46079987) - [AI Adoption Rates Starting to Flatten Out](https://www.apolloacademy.com/ai-adoption-rates-starting-to-flatten-out/)
-* [2025-11-28, 16:20:26](https://news.ycombinator.com/item?id=46079975) - [Artificial Computation](https://cultureandcommunication.org/galloway/artificial-computation)
 * [2025-11-28, 16:09:50](https://news.ycombinator.com/item?id=46079868) - [Meta hiding $27B in debt using advanced geometry](https://stohl.substack.com/p/exclusive-credit-report-shows-meta)
 * [2025-11-28, 16:09:06](https://news.ycombinator.com/item?id=46079860) - [The Signal Is the Noise](https://www.magazine.dirt.fyi/p/the-signal-is-the-noise)
 * [2025-11-28, 16:08:52](https://news.ycombinator.com/item?id=46079857) - [Playtiles: The Pocket-Sized Gaming Platform](https://get.playtil.es)
