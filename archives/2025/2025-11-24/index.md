@@ -52,6 +52,7 @@
 * [2025-11-24, 12:39:10](https://news.ycombinator.com/item?id=46033472) - [Technical Deflation](https://benanderson.work/blog/technical-deflation/)
 * [2025-11-24, 12:37:43](https://news.ycombinator.com/item?id=46033454) - [Move Expressions](https://smallcultfollowing.com/babysteps/blog/2025/11/21/move-expressions/)
 * [2025-11-24, 12:35:15](https://news.ycombinator.com/item?id=46033435) - [Bureau of Meteorology asked to examine $96.5M bill for website redesign](https://www.abc.net.au/news/2025-11-23/bureau-of-meteorology-new-website-cost-blowout-to-96-million/106042202)
+* [2025-11-24, 12:28:44](https://news.ycombinator.com/item?id=46033386) - [Open (Apache 2.0) TTS model for streaming conversational audio in realtime](https://github.com/nari-labs/dia2)
 * [2025-11-24, 12:23:02](https://news.ycombinator.com/item?id=46033330) - [Chrome Jpegxl Issue Reopened](https://issues.chromium.org/issues/40168998)
 * [2025-11-24, 12:00:55](https://news.ycombinator.com/item?id=46033151) - [NSA and IETF, part 3: Dodging the issues at hand](https://blog.cr.yp.to/20251123-dodging.html)
 * [2025-11-24, 11:46:05](https://news.ycombinator.com/item?id=46033046) - [Essence and accident in language model-assisted coding](https://www.sicpers.info/2025/11/essence-and-accident-in-language-model-assisted-coding/)
