@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-11-28](index.md)
 
+* [2025-11-28, 06:43:13](https://news.ycombinator.com/item?id=46076150) - [GrapheneOS Moving Out of France](https://xcancel.com/GrapheneOS/status/1993035936800584103)
+* [2025-11-28, 05:52:38](https://news.ycombinator.com/item?id=46075882) - [Show HN: Ray-BANNED, Glasses to detect smart-glasses that have cameras](https://github.com/NullPxl/banrays)
 * [2025-11-28, 04:53:07](https://news.ycombinator.com/item?id=46075628) - [TigerStyle: Coding philosophy focused on safety, performance, dev experience](https://tigerstyle.dev/)
 * [2025-11-28, 04:43:24](https://news.ycombinator.com/item?id=46075575) - [Andrew Kelley removed his \"monkeys\" and \"losers\" references](https://web.archive.org/web/20251127021007/https://ziglang.org/news/migrating-from-github-to-codeberg/)
 * [2025-11-28, 04:15:34](https://news.ycombinator.com/item?id=46075462) - [Migrating to Positron, a next-generation data science IDE for Python and R](https://posit.co/blog/positron-migration-guides)
