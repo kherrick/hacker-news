@@ -23,12 +23,12 @@
 * [2025-11-26, 20:17:44](https://news.ycombinator.com/item?id=46061871) - [Inspired by Spider-Man, scientists recreate web-slinging technology](https://scienceclock.com/inspired-by-spider-man-scientists-recreate-web-slinging-technology/)
 * [2025-11-26, 15:40:14](https://news.ycombinator.com/item?id=46058471) - [Feedback doesn't scale](https://another.rodeo/feedback/)
 * [2025-11-26, 13:36:19](https://news.ycombinator.com/item?id=46057266) - [Memories of .us](https://computer.rip/2025-11-11-dot-us.html)
+* [2025-11-24, 20:48:18](https://news.ycombinator.com/item?id=46039106) - [Interactive λ-Reduction](https://deltanets.org/)
 * [2025-11-24, 16:26:22](https://news.ycombinator.com/item?id=46035819) - [Maxduino Review: Tape Cassette Emulator for Multiple Retro Computers](https://retrogamecoders.com/maxduino-review/)
 * [2025-11-24, 08:10:11](https://news.ycombinator.com/item?id=46031552) - [Quake Engine Indicators](https://fabiensanglard.net/quake_indicators/index.html)
 * [2025-11-23, 20:31:45](https://news.ycombinator.com/item?id=46027065) - [Giving the Jakks Atari Paddle a Spin](https://nicole.express/2025/paddle-me-atari.html)
 * [2025-11-23, 15:33:22](https://news.ycombinator.com/item?id=46024302) - [Indie, alone, and figuring it out](https://danijelavrzan.com/posts/2025/11/indie-dev/)
 * [2025-11-23, 10:05:32](https://news.ycombinator.com/item?id=46022203) - [Experimenting with Robin Hood Hashing](https://twdev.blog/2025/11/robin_hood/)
-* [2025-11-23, 09:37:22](https://news.ycombinator.com/item?id=46022059) - [A Camera of Miroslav Tichý](https://artblart.com/tag/a-camera-of-miroslav-tichy/)
 * [2025-11-22, 20:54:06](https://news.ycombinator.com/item?id=46018159) - [Physicists drive antihydrogen breakthrough at CERN](https://phys.org/news/2025-11-physicists-antihydrogen-breakthrough-cern-technique.html)
 
 ## [Archives](archives/index.md)
