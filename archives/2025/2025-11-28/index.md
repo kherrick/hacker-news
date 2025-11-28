@@ -4,11 +4,15 @@
 
 ### [Archives](../../index.md) for [2025-11-28](index.md)
 
+* [2025-11-28, 17:15:20](https://news.ycombinator.com/item?id=46080579) - [C++ Web Server on my custom hobby OS](https://oshub.org/projects/retros-32/posts/getting-a-webserver-running)
+* [2025-11-28, 17:05:31](https://news.ycombinator.com/item?id=46080473) - [Bringing Sexy Back. Internet surveillance has killed eroticism](https://lux-magazine.com/article/privacy-eroticism/)
 * [2025-11-28, 17:00:46](https://news.ycombinator.com/item?id=46080424) - [Apple and Intel Rumored to Partner on Mac Chips](https://www.macrumors.com/2025/11/28/intel-rumored-to-supply-new-mac-chip/)
 * [2025-11-28, 16:56:19](https://news.ycombinator.com/item?id=46080381) - [200 Lines of Python beats $50M supercomputer – Navier-Stokes at Re=10⁸ [pdf]](https://philpapers.org/archive/CAMIIA-3.pdf)
+* [2025-11-28, 16:54:56](https://news.ycombinator.com/item?id=46080364) - [So you wanna build a local RAG?](https://blog.yakkomajuri.com/blog/local-rag)
 * [2025-11-28, 16:37:32](https://news.ycombinator.com/item?id=46080161) - [Stellantis Is Spamming Owners' Screens with Pop-Up Ads for New Car Discounts](https://www.thedrive.com/news/stellantis-is-spamming-owners-screens-with-pop-up-ads-for-new-car-discounts)
 * [2025-11-28, 16:35:24](https://news.ycombinator.com/item?id=46080143) - [True P2P Email on Top of Yggdrasil Network](https://github.com/JB-SelfCompany/Tyr)
 * [2025-11-28, 16:34:13](https://news.ycombinator.com/item?id=46080131) - [The Pro-Israel Information War](https://www.leefang.com/p/inside-the-pro-israel-information)
+* [2025-11-28, 16:24:20](https://news.ycombinator.com/item?id=46080027) - [Pink Lexical Slime: The Dark Side of Autocorrect](https://www.cyberdemon.org/2017/12/12/pink-lexical-slime.html)
 * [2025-11-28, 16:21:09](https://news.ycombinator.com/item?id=46079987) - [AI Adoption Rates Starting to Flatten Out](https://www.apolloacademy.com/ai-adoption-rates-starting-to-flatten-out/)
 * [2025-11-28, 16:20:26](https://news.ycombinator.com/item?id=46079975) - [Artificial Computation](https://cultureandcommunication.org/galloway/artificial-computation)
 * [2025-11-28, 16:09:50](https://news.ycombinator.com/item?id=46079868) - [Meta hiding $27B in debt using advanced geometry](https://stohl.substack.com/p/exclusive-credit-report-shows-meta)
