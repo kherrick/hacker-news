@@ -39,6 +39,7 @@
 * [2025-11-27, 12:39:06](https://news.ycombinator.com/item?id=46068716) - [AGI is not possible even in 10 years](https://medium.com/@anwarzaid76/agi-is-not-possible-even-in-10-years-013a1aec0d9c)
 * [2025-11-27, 12:06:36](https://news.ycombinator.com/item?id=46068490) - [Docker Superpowers You Forget to Use](https://oneuptime.com/blog/post/2025-11-27-ten-docker-superpowers-youre-probably-not-using/view)
 * [2025-11-27, 11:11:46](https://news.ycombinator.com/item?id=46068147) - [C64 Burrow.BAS](https://basic-code.bearblog.dev/c64-burrow/)
+* [2025-11-27, 11:10:51](https://news.ycombinator.com/item?id=46068138) - [Show HN: Spikelog – A simple metrics service for scripts, cron jobs, and MVPs](https://spikelog.com)
 * [2025-11-27, 10:54:02](https://news.ycombinator.com/item?id=46068015) - [How Arthur Conan Doyle Explored Men's Mental Health Through Sherlock Holmes](https://scienceclock.com/arthur-conan-doyle-delved-into-mens-mental-health-through-his-sherlock-holmes-stories/)
 * [2025-11-27, 09:16:06](https://news.ycombinator.com/item?id=46067363) - [New research highlights a shortage of male mentors for boys and young men](https://www.psypost.org/new-research-highlights-a-shortage-of-male-mentors-for-boys-and-young-men/)
 * [2025-11-27, 07:38:28](https://news.ycombinator.com/item?id=46066736) - [DNS Firewalling with MISP and Technitium DNS Server](https://zaferbalkan.com/technitium-misp/)

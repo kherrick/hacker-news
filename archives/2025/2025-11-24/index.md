@@ -8,6 +8,7 @@
 * [2025-11-24, 22:17:40](https://news.ycombinator.com/item?id=46040053) - [1,700-year-old Roman sarcophagus is unearthed in Budapest](https://apnews.com/article/hungary-roman-sarcophagus-discovery-budapest-77a41fe190bbcc167b43d05141536f54)
 * [2025-11-24, 22:12:04](https://news.ycombinator.com/item?id=46040005) - [DoGE \"cut muscle, not fat\"; 26K experts rehired after brutal cuts](https://arstechnica.com/tech-policy/2025/11/doge-doesnt-exist-anymore-but-expert-says-its-still-not-dead/)
 * [2025-11-24, 21:12:25](https://news.ycombinator.com/item?id=46039387) - [Willis Whitfield: A simple man with a simple solution that changed the world](https://www.sandia.gov/labnews/2024/04/04/willis-whitfield-a-simple-man-with-a-simple-solution-that-changed-the-world/)
+* [2025-11-24, 21:06:39](https://news.ycombinator.com/item?id=46039317) - [Atuin’s New Runbook Execution Engine](https://blog.atuin.sh/introducing-the-new-runbook-execution-engine/)
 * [2025-11-24, 21:03:22](https://news.ycombinator.com/item?id=46039274) - [AI has a deep understanding of how this code works](https://github.com/ocaml/ocaml/pull/14369)
 * [2025-11-24, 20:48:18](https://news.ycombinator.com/item?id=46039106) - [Interactive λ-Reduction](https://deltanets.org/)
 * [2025-11-24, 20:15:53](https://news.ycombinator.com/item?id=46038684) - [Implementing Bluetooth LE Audio and Auracast on Linux Systems](https://www.collabora.com/news-and-blog/blog/2025/11/24/implementing-bluetooth-le-audio-and-auracast-on-linux-systems/)
