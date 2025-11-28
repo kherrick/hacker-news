@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-11-28, 18:39:34](https://news.ycombinator.com/item?id=46081443) - [Show HN: Pulse 2.0 – Live co-listening rooms where anyone can be a DJ](https://473999.net/pulse)
 * [2025-11-28, 18:30:18](https://news.ycombinator.com/item?id=46081357) - [How wealth dies](https://surplusenergyeconomics.wordpress.com/2025/11/02/314-how-wealth-dies/)
 * [2025-11-28, 18:15:50](https://news.ycombinator.com/item?id=46081188) - [Imgur Geo-Blocked the UK, So I Geo-Unblocked My Network](https://blog.tymscar.com/posts/imgurukproxy/)
 * [2025-11-28, 18:02:04](https://news.ycombinator.com/item?id=46081053) - [28M Hacker News comments as vector embedding search dataset](https://clickhouse.com/docs/getting-started/example-datasets/hackernews-vector-search-dataset)
@@ -22,7 +23,6 @@
 * [2025-11-28, 15:53:39](https://news.ycombinator.com/item?id=46079721) - [Can Dutch universities do without Microsoft?](https://dub.uu.nl/en/news/can-dutch-universities-do-without-microsoft)
 * [2025-11-28, 15:40:49](https://news.ycombinator.com/item?id=46079567) - [Generating 3D Meshes from Text](https://cprimozic.net/notes/posts/generating-3d-meshes-from-text/)
 * [2025-11-28, 14:08:14](https://news.ycombinator.com/item?id=46078770) - [Petition to formally recognize open source work as civic service in Germany](https://www.openpetition.de/petition/online/anerkennung-von-open-source-arbeit-als-ehrenamt-in-deutschland#petition-main)
-* [2025-11-28, 12:41:32](https://news.ycombinator.com/item?id=46078138) - [A Remarkable Assertion from A16Z](https://nealstephenson.substack.com/p/a-remarkable-assertion-from-a16z)
 * [2025-11-28, 12:11:39](https://news.ycombinator.com/item?id=46077964) - [A Tale of Four Fuzzers](https://tigerbeetle.com/blog/2025-11-28-tale-of-four-fuzzers/)
 * [2025-11-28, 09:21:55](https://news.ycombinator.com/item?id=46077038) - [Tech Titans Amass Multimillion-Dollar War Chests to Fight AI Regulation](https://www.wsj.com/tech/ai/tech-titans-amass-multimillion-dollar-war-chests-to-fight-ai-regulation-88c600e1)
 * [2025-11-28, 05:52:38](https://news.ycombinator.com/item?id=46075882) - [Show HN: Glasses to detect smart-glasses that have cameras](https://github.com/NullPxl/banrays)
