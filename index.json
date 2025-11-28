@@ -21,12 +21,32 @@
   ],
   [
     [
+      "2025-11-28, 05:19:45",
+      "https://news.ycombinator.com/item?id=46075746"
+    ],
+    [
+      "How to use Linux vsock for fast VM communication",
+      "https://popovicu.com/posts/how-to-use-linux-vsock-for-fast-vm-communication/"
+    ]
+  ],
+  [
+    [
       "2025-11-28, 04:53:07",
       "https://news.ycombinator.com/item?id=46075628"
     ],
     [
       "TigerStyle: Coding philosophy focused on safety, performance, dev experience",
       "https://tigerstyle.dev/"
+    ]
+  ],
+  [
+    [
+      "2025-11-28, 04:50:57",
+      "https://news.ycombinator.com/item?id=46075616"
+    ],
+    [
+      "Beads – A memory upgrade for your coding agent",
+      "https://github.com/steveyegge/beads"
     ]
   ],
   [
@@ -81,16 +101,6 @@
   ],
   [
     [
-      "2025-11-27, 23:42:00",
-      "https://news.ycombinator.com/item?id=46074183"
-    ],
-    [
-      "ML-KEM Mythbusting",
-      "https://keymaterial.net/2025/11/27/ml-kem-mythbusting/"
-    ]
-  ],
-  [
-    [
       "2025-11-27, 23:30:11",
       "https://news.ycombinator.com/item?id=46074111"
     ],
@@ -117,16 +127,6 @@
     [
       "A programmer-friendly I/O abstraction over io_uring and kqueue (2022)",
       "https://tigerbeetle.com/blog/2022-11-23-a-friendly-abstraction-over-iouring-and-kqueue/"
-    ]
-  ],
-  [
-    [
-      "2025-11-27, 20:37:51",
-      "https://news.ycombinator.com/item?id=46073033"
-    ],
-    [
-      "Underrated reasons to be thankful V",
-      "https://dynomight.net/thanks-5/"
     ]
   ],
   [
@@ -171,16 +171,6 @@
   ],
   [
     [
-      "2025-11-27, 07:02:40",
-      "https://news.ycombinator.com/item?id=46066522"
-    ],
-    [
-      "Mixpanel Security Breach",
-      "https://mixpanel.com/blog/sms-security-incident/"
-    ]
-  ],
-  [
-    [
       "2025-11-27, 05:21:16",
       "https://news.ycombinator.com/item?id=46065955"
     ],
@@ -207,6 +197,16 @@
     [
       "Memories of .us",
       "https://computer.rip/2025-11-11-dot-us.html"
+    ]
+  ],
+  [
+    [
+      "2025-11-26, 06:13:26",
+      "https://news.ycombinator.com/item?id=46054661"
+    ],
+    [
+      "Comparing xeus-Haskell and ihaskell kernels",
+      "https://www.datahaskell.org/blog/2025/11/25/a-tale-of-two-kernels.html"
     ]
   ],
   [
