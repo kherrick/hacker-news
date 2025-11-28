@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-11-28, 19:59:32](https://news.ycombinator.com/item?id=46082223) - [Good engineers write bad code at big companies](https://www.seangoedecke.com/bad-code-at-big-companies/)
 * [2025-11-28, 19:58:13](https://news.ycombinator.com/item?id=46082204) - [The original ABC language, Python's predecessor (1991)](https://github.com/gvanrossum/abc-unix)
 * [2025-11-28, 19:05:16](https://news.ycombinator.com/item?id=46081704) - [Effective harnesses for long-running agents](https://www.anthropic.com/engineering/effective-harnesses-for-long-running-agents)
 * [2025-11-28, 18:39:34](https://news.ycombinator.com/item?id=46081443) - [Show HN: Pulse 2.0 – Live co-listening rooms where anyone can be a DJ](https://473999.net/pulse)
@@ -16,7 +17,6 @@
 * [2025-11-28, 16:54:56](https://news.ycombinator.com/item?id=46080364) - [So you wanna build a local RAG?](https://blog.yakkomajuri.com/blog/local-rag)
 * [2025-11-28, 16:49:12](https://news.ycombinator.com/item?id=46080289) - [Airloom – 3D Flight Tracker](https://objectiveunclear.com/airloom.html)
 * [2025-11-28, 16:42:46](https://news.ycombinator.com/item?id=46080218) - [Lobsters Interview](https://susam.net/my-lobsters-interview.html)
-* [2025-11-28, 16:37:32](https://news.ycombinator.com/item?id=46080161) - [Stellantis Is Spamming Owners' Screens with Pop-Up Ads for New Car Discounts](https://www.thedrive.com/news/stellantis-is-spamming-owners-screens-with-pop-up-ads-for-new-car-discounts)
 * [2025-11-28, 16:35:24](https://news.ycombinator.com/item?id=46080143) - [True P2P Email on Top of Yggdrasil Network](https://github.com/JB-SelfCompany/Tyr)
 * [2025-11-28, 16:21:09](https://news.ycombinator.com/item?id=46079987) - [AI Adoption Rates Starting to Flatten Out](https://www.apolloacademy.com/ai-adoption-rates-starting-to-flatten-out/)
 * [2025-11-28, 16:09:50](https://news.ycombinator.com/item?id=46079868) - [Meta hiding $27B in debt using advanced geometry](https://stohl.substack.com/p/exclusive-credit-report-shows-meta)
@@ -25,7 +25,7 @@
 * [2025-11-28, 14:08:14](https://news.ycombinator.com/item?id=46078770) - [Petition to formally recognize open source work as civic service in Germany](https://www.openpetition.de/petition/online/anerkennung-von-open-source-arbeit-als-ehrenamt-in-deutschland#petition-main)
 * [2025-11-28, 09:21:55](https://news.ycombinator.com/item?id=46077038) - [Tech Titans Amass Multimillion-Dollar War Chests to Fight AI Regulation](https://www.wsj.com/tech/ai/tech-titans-amass-multimillion-dollar-war-chests-to-fight-ai-regulation-88c600e1)
 * [2025-11-28, 05:52:38](https://news.ycombinator.com/item?id=46075882) - [Show HN: Glasses to detect smart-glasses that have cameras](https://github.com/NullPxl/banrays)
-* [2025-11-25, 05:18:14](https://news.ycombinator.com/item?id=46042581) - [How I talk to whales](https://www.nytimes.com/2025/11/23/opinion/whale-language-ai.html)
+* [2025-11-24, 23:52:48](https://news.ycombinator.com/item?id=46040815) - [Why synthetic emerald-green pigments degrade over time](https://arstechnica.com/science/2025/11/why-synthetic-emerald-green-pigments-degrade-over-time/)
 * [2025-11-24, 21:06:39](https://news.ycombinator.com/item?id=46039317) - [Atuin’s New Runbook Execution Engine](https://blog.atuin.sh/introducing-the-new-runbook-execution-engine/)
 * [2025-11-24, 18:42:42](https://news.ycombinator.com/item?id=46037486) - [Analog Hoverboard Controller](https://github.com/skrubis/analog-hoverboard)
 * [2025-11-23, 23:54:55](https://news.ycombinator.com/item?id=46028649) - [Generalizing Printf in C](https://webb.is-a.dev/articles/generalizedprintf/)
