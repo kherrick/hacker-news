@@ -45,7 +45,7 @@
       "https://news.ycombinator.com/item?id=46073817"
     ],
     [
-      "A Programmer-Friendly I/O Abstraction Over io_uring and kqueue",
+      "A programmer-friendly I/O abstraction over io_uring and kqueue (2022)",
       "https://tigerbeetle.com/blog/2022-11-23-a-friendly-abstraction-over-iouring-and-kqueue/"
     ]
   ],
@@ -61,32 +61,12 @@
   ],
   [
     [
-      "2025-11-27, 20:30:21",
-      "https://news.ycombinator.com/item?id=46072988"
-    ],
-    [
-      "LinkedIn is loud, and corporate is hell",
-      "https://ramones.dev/posts/linkedin-is-loud/"
-    ]
-  ],
-  [
-    [
       "2025-11-27, 20:03:25",
       "https://news.ycombinator.com/item?id=46072786"
     ],
     [
       "DeepSeekMath-V2: Towards Self-Verifiable Mathematical Reasoning [pdf]",
       "https://github.com/deepseek-ai/DeepSeek-Math-V2/blob/main/DeepSeekMath_V2.pdf"
-    ]
-  ],
-  [
-    [
-      "2025-11-27, 16:42:40",
-      "https://news.ycombinator.com/item?id=46070915"
-    ],
-    [
-      "Pakistan says rooftop solar output to exceed grid demand in some hubs next year",
-      "https://www.reuters.com/sustainability/boards-policy-regulation/pakistan-says-rooftop-solar-output-exceed-grid-demand-some-hubs-next-year-2025-11-22/"
     ]
   ],
   [
@@ -211,6 +191,16 @@
   ],
   [
     [
+      "2025-11-27, 02:14:36",
+      "https://news.ycombinator.com/item?id=46064757"
+    ],
+    [
+      "Penpot: The Open-Source Figma",
+      "https://github.com/penpot/penpot"
+    ]
+  ],
+  [
+    [
       "2025-11-26, 22:00:48",
       "https://news.ycombinator.com/item?id=46062855"
     ],
@@ -251,12 +241,22 @@
   ],
   [
     [
-      "2025-11-24, 16:51:50",
-      "https://news.ycombinator.com/item?id=46036124"
+      "2025-11-24, 20:48:18",
+      "https://news.ycombinator.com/item?id=46039106"
     ],
     [
-      "Modelling Agent Systems with Erlang (2004) [pdf]",
-      "https://erlang.org/workshop/2004/carlosvarela.pdf"
+      "Interactive λ-Reduction",
+      "https://deltanets.org/"
+    ]
+  ],
+  [
+    [
+      "2025-11-24, 16:26:22",
+      "https://news.ycombinator.com/item?id=46035819"
+    ],
+    [
+      "Maxduino Review: Tape Cassette Emulator for Multiple Retro Computers",
+      "https://retrogamecoders.com/maxduino-review/"
     ]
   ],
   [
@@ -275,18 +275,18 @@
       "https://news.ycombinator.com/item?id=46024302"
     ],
     [
-      "Indie, Alone, and Figuring It Out",
+      "Indie, alone, and figuring it out",
       "https://danijelavrzan.com/posts/2025/11/indie-dev/"
     ]
   ],
   [
     [
-      "2025-11-22, 23:08:50",
-      "https://news.ycombinator.com/item?id=46019167"
+      "2025-11-23, 09:37:22",
+      "https://news.ycombinator.com/item?id=46022059"
     ],
     [
-      "ZZ9000 multifunction card for Zorro Amigas",
-      "https://www.amiga-shop.net/en/Amiga-Hardware/Amiga-graphic-cards/ZZ9000-multifunction-card-for-Zorro-Amigas::1011.html"
+      "A Camera of Miroslav Tichý",
+      "https://artblart.com/tag/a-camera-of-miroslav-tichy/"
     ]
   ],
   [
