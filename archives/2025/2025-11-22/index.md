@@ -57,6 +57,7 @@
 * [2025-11-22, 08:26:13](https://news.ycombinator.com/item?id=46013132) - [Serflings is a remake of The Settlers 1](https://www.simpleguide.net/serflings.xhtml)
 * [2025-11-22, 07:50:44](https://news.ycombinator.com/item?id=46012980) - [Can you take an ox to Oxford?](https://alexwlchan.net/2025/ox-in-oxford/)
 * [2025-11-22, 07:22:55](https://news.ycombinator.com/item?id=46012846) - [Set theory with types](https://lawrencecpaulson.github.io//2025/11/21/Typed_Set_Theory.html)
+* [2025-11-22, 07:11:59](https://news.ycombinator.com/item?id=46012803) - [Moss: a Rust Linux-compatible kernel in 26,000 lines of code](https://github.com/hexagonal-sun/moss)
 * [2025-11-22, 06:25:10](https://news.ycombinator.com/item?id=46012588) - [Room-temperature processible ceramics enable sustainable electronics](https://www.dezeen.com/2025/11/17/geolectric-light-mit-design-intelligence-lab/)
 * [2025-11-22, 06:13:05](https://news.ycombinator.com/item?id=46012538) - [Building a deep-space logistics startup](https://ionmicrosys.com/)
 * [2025-11-22, 05:21:53](https://news.ycombinator.com/item?id=46012328) - [Superman copy found in mum's attic is most valuable comic ever at $9.12M](https://www.bbc.com/news/articles/c8e9rp0knj6o)
