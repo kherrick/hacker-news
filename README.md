@@ -2,8 +2,8 @@
 
 * [2025-11-28, 21:46:07](https://news.ycombinator.com/item?id=46083051) - [A first look at Django's new background tasks](https://roam.be/notes/2025/a-first-look-at-djangos-new-background-tasks/)
 * [2025-11-28, 21:16:46](https://news.ycombinator.com/item?id=46082825) - [Flight disruption warning as Airbus requests modifications to 6k planes](https://www.bbc.com/news/live/cvg4y6g74ert)
-* [2025-11-28, 21:16:03](https://news.ycombinator.com/item?id=46082821) - [The Secret Superfood of Thanksgiving](https://www.twopct.com/p/the-secret-superfood-of-thanksgiving)
 * [2025-11-28, 20:58:15](https://news.ycombinator.com/item?id=46082711) - [Ask HN: What is the purpose of all these AI spam comments?](https://news.ycombinator.com/item?id=46082711)
+* [2025-11-28, 20:06:30](https://news.ycombinator.com/item?id=46082291) - [Electron vs. Tauri](https://www.dolthub.com/blog/2025-11-13-electron-vs-tauri/)
 * [2025-11-28, 19:59:32](https://news.ycombinator.com/item?id=46082223) - [Good engineers write bad code at big companies](https://www.seangoedecke.com/bad-code-at-big-companies/)
 * [2025-11-28, 19:58:13](https://news.ycombinator.com/item?id=46082204) - [The original ABC language, Python's predecessor (1991)](https://github.com/gvanrossum/abc-unix)
 * [2025-11-28, 19:05:16](https://news.ycombinator.com/item?id=46081704) - [Effective harnesses for long-running agents](https://www.anthropic.com/engineering/effective-harnesses-for-long-running-agents)

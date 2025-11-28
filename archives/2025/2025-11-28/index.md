@@ -9,6 +9,7 @@
 * [2025-11-28, 21:16:03](https://news.ycombinator.com/item?id=46082821) - [The Secret Superfood of Thanksgiving](https://www.twopct.com/p/the-secret-superfood-of-thanksgiving)
 * [2025-11-28, 20:58:15](https://news.ycombinator.com/item?id=46082711) - [Ask HN: What is the purpose of all these AI spam comments?](https://news.ycombinator.com/item?id=46082711)
 * [2025-11-28, 20:06:52](https://news.ycombinator.com/item?id=46082296) - [Airbus A320 Fly by wire corrupted by radiation in flight](https://viewfromthewing.com/airbus-a320s-could-be-temporarily-grounded-worldwide-for-software-update-after-faulty-jetblue-computer-triggered-sudden-uncommanded-descent/)
+* [2025-11-28, 20:06:30](https://news.ycombinator.com/item?id=46082291) - [Electron vs. Tauri](https://www.dolthub.com/blog/2025-11-13-electron-vs-tauri/)
 * [2025-11-28, 19:59:32](https://news.ycombinator.com/item?id=46082223) - [Good engineers write bad code at big companies](https://www.seangoedecke.com/bad-code-at-big-companies/)
 * [2025-11-28, 19:58:13](https://news.ycombinator.com/item?id=46082204) - [The original ABC language, Python's predecessor (1991)](https://github.com/gvanrossum/abc-unix)
 * [2025-11-28, 19:29:25](https://news.ycombinator.com/item?id=46081956) - [The Google Trends Spike Before the D.C. Shooting Raises New Questions](https://www.allenanalysis.com/p/the-google-trends-spike-before-the)
