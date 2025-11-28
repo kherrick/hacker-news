@@ -1,12 +1,32 @@
 [
   [
     [
-      "2025-11-28, 04:43:24",
-      "https://news.ycombinator.com/item?id=46075575"
+      "2025-11-28, 04:53:07",
+      "https://news.ycombinator.com/item?id=46075628"
     ],
     [
-      "Andrew Kelley removed his \"monkeys\" and \"losers\" references",
-      "https://web.archive.org/web/20251127021007/https://ziglang.org/news/migrating-from-github-to-codeberg/"
+      "TigerStyle: Coding philosophy focused on safety, performance, dev experience",
+      "https://tigerstyle.dev/"
+    ]
+  ],
+  [
+    [
+      "2025-11-28, 04:15:34",
+      "https://news.ycombinator.com/item?id=46075462"
+    ],
+    [
+      "Migrating to Positron, a next-generation data science IDE for Python and R",
+      "https://posit.co/blog/positron-migration-guides"
+    ]
+  ],
+  [
+    [
+      "2025-11-28, 03:55:37",
+      "https://news.ycombinator.com/item?id=46075367"
+    ],
+    [
+      "GitLab scan finds 17,000 secrets in public repos, leading to $9000+ in bounties",
+      "https://trufflesecurity.com/blog/scanning-5-6-million-public-gitlab-repositories-for-secrets"
     ]
   ],
   [
@@ -27,6 +47,16 @@
     [
       "China's BEV Trucks and the End of Diesel's Dominance",
       "https://cleantechnica.com/2025/11/26/chinas-bev-trucks-and-the-end-of-diesels-dominance/"
+    ]
+  ],
+  [
+    [
+      "2025-11-28, 01:22:13",
+      "https://news.ycombinator.com/item?id=46074729"
+    ],
+    [
+      "Overlord: AI accountability that watches over you",
+      "https://overlord.app/"
     ]
   ],
   [
@@ -151,32 +181,12 @@
   ],
   [
     [
-      "2025-11-27, 06:17:37",
-      "https://news.ycombinator.com/item?id=46066280"
-    ],
-    [
-      "Linux Kernel Explorer",
-      "https://reverser.dev/linux-kernel-explorer"
-    ]
-  ],
-  [
-    [
       "2025-11-27, 05:21:16",
       "https://news.ycombinator.com/item?id=46065955"
     ],
     [
       "Tell HN: Happy Thanksgiving",
       "https://news.ycombinator.com/item?id=46065955"
-    ]
-  ],
-  [
-    [
-      "2025-11-27, 04:55:57",
-      "https://news.ycombinator.com/item?id=46065817"
-    ],
-    [
-      "Music eases surgery and speeds recovery, study finds",
-      "https://www.bbc.com/news/articles/c231dv9zpz3o"
     ]
   ],
   [
@@ -197,16 +207,6 @@
     [
       "DIY NAS: 2026 Edition",
       "https://blog.briancmoses.com/2025/11/diy-nas-2026-edition.html"
-    ]
-  ],
-  [
-    [
-      "2025-11-26, 20:17:44",
-      "https://news.ycombinator.com/item?id=46061871"
-    ],
-    [
-      "Inspired by Spider-Man, scientists recreate web-slinging technology",
-      "https://scienceclock.com/inspired-by-spider-man-scientists-recreate-web-slinging-technology/"
     ]
   ],
   [
