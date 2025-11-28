@@ -21,16 +21,6 @@
   ],
   [
     [
-      "2025-11-28, 03:55:37",
-      "https://news.ycombinator.com/item?id=46075367"
-    ],
-    [
-      "GitLab scan finds 17,000 secrets in public repos, leading to $9000+ in bounties",
-      "https://trufflesecurity.com/blog/scanning-5-6-million-public-gitlab-repositories-for-secrets"
-    ]
-  ],
-  [
-    [
       "2025-11-28, 03:45:04",
       "https://news.ycombinator.com/item?id=46075320"
     ],
@@ -77,6 +67,16 @@
     [
       "Bird flu viruses are resistant to fever, making them a major threat to humans",
       "https://medicalxpress.com/news/2025-11-bird-flu-viruses-resistant-fever.html"
+    ]
+  ],
+  [
+    [
+      "2025-11-27, 23:42:00",
+      "https://news.ycombinator.com/item?id=46074183"
+    ],
+    [
+      "ML-KEM Mythbusting",
+      "https://keymaterial.net/2025/11/27/ml-kem-mythbusting/"
     ]
   ],
   [
@@ -161,16 +161,6 @@
   ],
   [
     [
-      "2025-11-27, 07:31:24",
-      "https://news.ycombinator.com/item?id=46066695"
-    ],
-    [
-      "Ray Marching Soft Shadows in 2D (2020)",
-      "https://www.rykap.com/2020/09/23/distance-fields/"
-    ]
-  ],
-  [
-    [
       "2025-11-27, 07:02:40",
       "https://news.ycombinator.com/item?id=46066522"
     ],
@@ -227,6 +217,16 @@
     [
       "Memories of .us",
       "https://computer.rip/2025-11-11-dot-us.html"
+    ]
+  ],
+  [
+    [
+      "2025-11-24, 20:15:53",
+      "https://news.ycombinator.com/item?id=46038684"
+    ],
+    [
+      "Implementing Bluetooth LE Audio and Auracast on Linux Systems",
+      "https://www.collabora.com/news-and-blog/blog/2025/11/24/implementing-bluetooth-le-audio-and-auracast-on-linux-systems/"
     ]
   ],
   [
