@@ -51,3 +51,4 @@
 * [2025-11-25, 06:09:05](https://news.ycombinator.com/item?id=46042810) - [Jakarta is now the biggest city in the world](https://www.axios.com/2025/11/24/jakarta-tokyo-worlds-biggest-city-population)
 * [2025-11-25, 06:07:34](https://news.ycombinator.com/item?id=46042800) - [Why I (Still) Love Linux ?](https://it-notes.dragas.net/2025/11/24/why-i-still-love-linux/)
 * [2025-11-25, 05:33:44](https://news.ycombinator.com/item?id=46042655) - [Windows GUI – Good, Bad and Pretty Ugly (2023)](https://creolened.com/windows-gui-good-bad-and-pretty-ugly-ranked/)
+* [2025-11-25, 05:18:14](https://news.ycombinator.com/item?id=46042581) - [How I talk to whales](https://www.nytimes.com/2025/11/23/opinion/whale-language-ai.html)
