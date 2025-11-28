@@ -31,16 +31,6 @@
   ],
   [
     [
-      "2025-11-28, 04:53:07",
-      "https://news.ycombinator.com/item?id=46075628"
-    ],
-    [
-      "TigerStyle: Coding philosophy focused on safety, performance, dev experience",
-      "https://tigerstyle.dev/"
-    ]
-  ],
-  [
-    [
       "2025-11-28, 04:50:57",
       "https://news.ycombinator.com/item?id=46075616"
     ],
@@ -67,6 +57,16 @@
     [
       "Pocketbase – open-source realtime back end in 1 file",
       "https://pocketbase.io/"
+    ]
+  ],
+  [
+    [
+      "2025-11-28, 03:19:51",
+      "https://news.ycombinator.com/item?id=46075219"
+    ],
+    [
+      "Shor's algorithm: the one quantum algo that ends RSA/ECC tomorrow",
+      "https://blog.ellipticc.com/posts/what-is-shors-algorithm-and-why-its-the-single-biggest-threat-to-classical-cryptography/"
     ]
   ],
   [
@@ -107,16 +107,6 @@
     [
       "A programmer-friendly I/O abstraction over io_uring and kqueue (2022)",
       "https://tigerbeetle.com/blog/2022-11-23-a-friendly-abstraction-over-iouring-and-kqueue/"
-    ]
-  ],
-  [
-    [
-      "2025-11-27, 20:37:51",
-      "https://news.ycombinator.com/item?id=46073033"
-    ],
-    [
-      "Underrated reasons to be thankful V",
-      "https://dynomight.net/thanks-5/"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Physicists drive antihydrogen breakthrough at CERN",
       "https://phys.org/news/2025-11-physicists-antihydrogen-breakthrough-cern-technique.html"
+    ]
+  ],
+  [
+    [
+      "2025-11-22, 07:11:59",
+      "https://news.ycombinator.com/item?id=46012803"
+    ],
+    [
+      "Moss: a Rust Linux-compatible kernel in 26,000 lines of code",
+      "https://github.com/hexagonal-sun/moss"
     ]
   ]
 ]
