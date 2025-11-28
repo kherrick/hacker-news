@@ -59,6 +59,7 @@
 * [2025-11-26, 07:55:49](https://news.ycombinator.com/item?id=46055177) - [Image Diffusion Models Exhibit Emergent Temporal Propagation in Videos](https://arxiv.org/abs/2511.19936)
 * [2025-11-26, 06:57:04](https://news.ycombinator.com/item?id=46054854) - ['Once in 300 years' rain hits Thai city as floods ravage South East Asia](https://www.bbc.com/news/articles/ckg97wx144jo)
 * [2025-11-26, 06:27:41](https://news.ycombinator.com/item?id=46054713) - [ICE Arrests the Press](https://petapixel.com/2025/11/24/photojournalist-arrested-covering-ice-protest-as-authorities-impound-his-camera-gear/)
+* [2025-11-26, 06:13:26](https://news.ycombinator.com/item?id=46054661) - [Comparing xeus-Haskell and ihaskell kernels](https://www.datahaskell.org/blog/2025/11/25/a-tale-of-two-kernels.html)
 * [2025-11-26, 03:05:29](https://news.ycombinator.com/item?id=46053787) - [The myth of reflected power (2017)](https://www.iz2uuf.net/wp/index.php/2017/07/29/the-myth-of-reflected-power/)
 * [2025-11-26, 02:31:41](https://news.ycombinator.com/item?id=46053566) - [Space Truckin' – The Nostromo (2012)](https://alienseries.wordpress.com/2012/10/23/space-truckin-the-nostromo/)
 * [2025-11-26, 02:05:36](https://news.ycombinator.com/item?id=46053385) - [Show HN: A WordPress plugin that rewrites image URLs for near-zero-cost delivery](https://wordpress.org/plugins/bandwidth-saver/)
