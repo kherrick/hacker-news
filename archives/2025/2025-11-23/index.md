@@ -21,6 +21,7 @@
 * [2025-11-23, 20:58:35](https://news.ycombinator.com/item?id=46027265) - [AI Content Pipeline: My Experience](https://techlife.blog/posts/ai-content-pipeline/)
 * [2025-11-23, 20:56:23](https://news.ycombinator.com/item?id=46027245) - [Lead magnet creation for blue collar SaaS](https://estimatekit.com/free-templates)
 * [2025-11-23, 20:51:22](https://news.ycombinator.com/item?id=46027216) - [µcad: New open source programming language that can generate 2D sketches and 3D](https://microcad.xyz/)
+* [2025-11-23, 20:36:59](https://news.ycombinator.com/item?id=46027104) - [NSA and IETF, Part 2](https://blog.cr.yp.to/20251123-corruption.html)
 * [2025-11-23, 20:31:45](https://news.ycombinator.com/item?id=46027065) - [Giving the Jakks Atari Paddle a Spin](https://nicole.express/2025/paddle-me-atari.html)
 * [2025-11-23, 20:16:04](https://news.ycombinator.com/item?id=46026939) - [\"Good engineering management\" is a fad](https://lethain.com/good-eng-mgmt-is-a-fad/)
 * [2025-11-23, 20:14:46](https://news.ycombinator.com/item?id=46026919) - [I Let Claude Build My Home Network: Two ISPs Bonded, $312/Year Saved](https://jonathanclark.com/posts/bonded-internet-connection-ai.html)
