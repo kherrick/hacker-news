@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-11-28](index.md)
 
+* [2025-11-28, 11:21:39](https://news.ycombinator.com/item?id=46077650) - [Cats became our companions way later than you think](https://www.bbc.co.uk/news/articles/cq8dvdp9gn7o)
 * [2025-11-28, 10:45:29](https://news.ycombinator.com/item?id=46077445) - [Africa's forests have switched from absorbing to emitting carbon](https://phys.org/news/2025-11-africa-forests-absorbing-emitting-carbon.html)
 * [2025-11-28, 10:38:41](https://news.ycombinator.com/item?id=46077404) - [Google denies 'misleading' reports of Gmail using your emails to train AI](https://www.theverge.com/news/826902/gmail-ai-training-data-opt-out)
 * [2025-11-28, 10:36:08](https://news.ycombinator.com/item?id=46077393) - [EU Council Approves New \"Chat Control\" Mandate Pushing Mass Surveillance](https://reclaimthenet.org/eu-council-approves-new-chat-control-mandate-pushing-mass-surveillance)

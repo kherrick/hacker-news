@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-11-20](index.md)
 
+* [2025-11-20, 23:43:30](https://news.ycombinator.com/item?id=45999475) - [The three thousand year journey of colchicine](https://www.worksinprogress.news/p/the-three-thousand-year-journey-of)
 * [2025-11-20, 23:21:25](https://news.ycombinator.com/item?id=45999256) - [RI judge intervenes after ICE mistakenly detains Superior Court intern](https://www.wpri.com/news/local-news/providence/ri-judge-intervenes-after-ice-mistakenly-detains-superior-court-intern/)
 * [2025-11-20, 22:58:06](https://news.ycombinator.com/item?id=45999038) - [Over-Regulation Is Doubling the Cost by Peter Reinhardt](https://rein.pk/over-regulation-is-doubling-the-cost)
 * [2025-11-20, 22:56:40](https://news.ycombinator.com/item?id=45999024) - [France is taking state actions against GrapheneOS](https://grapheneos.social/@GrapheneOS/115584160910016309)
