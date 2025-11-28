@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-11-28](index.md)
 
+* [2025-11-28, 17:00:46](https://news.ycombinator.com/item?id=46080424) - [Apple and Intel Rumored to Partner on Mac Chips](https://www.macrumors.com/2025/11/28/intel-rumored-to-supply-new-mac-chip/)
+* [2025-11-28, 16:56:19](https://news.ycombinator.com/item?id=46080381) - [200 Lines of Python beats $50M supercomputer – Navier-Stokes at Re=10⁸ [pdf]](https://philpapers.org/archive/CAMIIA-3.pdf)
 * [2025-11-28, 16:37:32](https://news.ycombinator.com/item?id=46080161) - [Stellantis Is Spamming Owners' Screens with Pop-Up Ads for New Car Discounts](https://www.thedrive.com/news/stellantis-is-spamming-owners-screens-with-pop-up-ads-for-new-car-discounts)
 * [2025-11-28, 16:35:24](https://news.ycombinator.com/item?id=46080143) - [True P2P Email on Top of Yggdrasil Network](https://github.com/JB-SelfCompany/Tyr)
 * [2025-11-28, 16:34:13](https://news.ycombinator.com/item?id=46080131) - [The Pro-Israel Information War](https://www.leefang.com/p/inside-the-pro-israel-information)
@@ -17,6 +19,7 @@
 * [2025-11-28, 16:01:01](https://news.ycombinator.com/item?id=46079785) - [Don't tug on that, you never know what it might be attached to](https://blog.plover.com/2016/07/01/#tmpdir)
 * [2025-11-28, 15:57:27](https://news.ycombinator.com/item?id=46079745) - [Tell HN: Want a better HN? Visit /newest](https://news.ycombinator.com/item?id=46079745)
 * [2025-11-28, 15:53:39](https://news.ycombinator.com/item?id=46079721) - [Can Dutch universities do without Microsoft?](https://dub.uu.nl/en/news/can-dutch-universities-do-without-microsoft)
+* [2025-11-28, 15:44:04](https://news.ycombinator.com/item?id=46079605) - [Open-Source n8n Alternative for Workflow Building (GUI and Docker Included)](https://github.com/empowerd-cms/nyno)
 * [2025-11-28, 15:40:49](https://news.ycombinator.com/item?id=46079567) - [Generating 3D Meshes from Text](https://cprimozic.net/notes/posts/generating-3d-meshes-from-text/)
 * [2025-11-28, 15:27:49](https://news.ycombinator.com/item?id=46079460) - [Swedish publishers file police report against Meta's Zuckerberg for fraud](https://www.sverigesradio.se/artikel/swedish-publishers-file-police-report-against-metas-zuckerberg-for-fraud)
 * [2025-11-28, 14:41:53](https://news.ycombinator.com/item?id=46079067) - [Louvre to hike ticket prices for most non-EU tourists by 45%](https://www.bbc.com/news/articles/clyd4llgrego)
