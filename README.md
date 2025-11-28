@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-11-28, 21:46:07](https://news.ycombinator.com/item?id=46083051) - [A first look at Django's new background tasks](https://roam.be/notes/2025/a-first-look-at-djangos-new-background-tasks/)
 * [2025-11-28, 21:16:46](https://news.ycombinator.com/item?id=46082825) - [Flight disruption warning as Airbus requests modifications to 6k planes](https://www.bbc.com/news/live/cvg4y6g74ert)
 * [2025-11-28, 21:16:03](https://news.ycombinator.com/item?id=46082821) - [The Secret Superfood of Thanksgiving](https://www.twopct.com/p/the-secret-superfood-of-thanksgiving)
 * [2025-11-28, 20:58:15](https://news.ycombinator.com/item?id=46082711) - [Ask HN: What is the purpose of all these AI spam comments?](https://news.ycombinator.com/item?id=46082711)
@@ -23,7 +24,6 @@
 * [2025-11-28, 16:09:50](https://news.ycombinator.com/item?id=46079868) - [Meta hiding $27B in debt using advanced geometry](https://stohl.substack.com/p/exclusive-credit-report-shows-meta)
 * [2025-11-28, 16:01:01](https://news.ycombinator.com/item?id=46079785) - [Don't tug on that, you never know what it might be attached to (2016)](https://blog.plover.com/2016/07/01/#tmpdir)
 * [2025-11-28, 15:53:39](https://news.ycombinator.com/item?id=46079721) - [Can Dutch universities do without Microsoft?](https://dub.uu.nl/en/news/can-dutch-universities-do-without-microsoft)
-* [2025-11-28, 14:08:14](https://news.ycombinator.com/item?id=46078770) - [Petition to formally recognize open source work as civic service in Germany](https://www.openpetition.de/petition/online/anerkennung-von-open-source-arbeit-als-ehrenamt-in-deutschland#petition-main)
 * [2025-11-28, 09:21:55](https://news.ycombinator.com/item?id=46077038) - [Tech Titans Amass Multimillion-Dollar War Chests to Fight AI Regulation](https://www.wsj.com/tech/ai/tech-titans-amass-multimillion-dollar-war-chests-to-fight-ai-regulation-88c600e1)
 * [2025-11-24, 23:52:48](https://news.ycombinator.com/item?id=46040815) - [Why synthetic emerald-green pigments degrade over time](https://arstechnica.com/science/2025/11/why-synthetic-emerald-green-pigments-degrade-over-time/)
 * [2025-11-24, 21:06:39](https://news.ycombinator.com/item?id=46039317) - [Atuin’s New Runbook Execution Engine](https://blog.atuin.sh/introducing-the-new-runbook-execution-engine/)
