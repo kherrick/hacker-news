@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-11-28, 14:41:53",
+      "https://news.ycombinator.com/item?id=46079067"
+    ],
+    [
+      "Louvre to hike ticket prices for most non-EU tourists by 45%",
+      "https://www.bbc.com/news/articles/clyd4llgrego"
+    ]
+  ],
+  [
+    [
       "2025-11-28, 14:08:14",
       "https://news.ycombinator.com/item?id=46078770"
     ],
@@ -141,16 +151,6 @@
   ],
   [
     [
-      "2025-11-28, 04:50:57",
-      "https://news.ycombinator.com/item?id=46075616"
-    ],
-    [
-      "Beads – A memory upgrade for your coding agent",
-      "https://github.com/steveyegge/beads"
-    ]
-  ],
-  [
-    [
       "2025-11-28, 03:45:04",
       "https://news.ycombinator.com/item?id=46075320"
     ],
@@ -191,16 +191,6 @@
   ],
   [
     [
-      "2025-11-27, 22:41:06",
-      "https://news.ycombinator.com/item?id=46073817"
-    ],
-    [
-      "A programmer-friendly I/O abstraction over io_uring and kqueue (2022)",
-      "https://tigerbeetle.com/blog/2022-11-23-a-friendly-abstraction-over-iouring-and-kqueue/"
-    ]
-  ],
-  [
-    [
       "2025-11-27, 16:19:03",
       "https://news.ycombinator.com/item?id=46070668"
     ],
@@ -217,6 +207,26 @@
     [
       "GitLab discovers widespread NPM supply chain attack",
       "https://about.gitlab.com/blog/gitlab-discovers-widespread-npm-supply-chain-attack/"
+    ]
+  ],
+  [
+    [
+      "2025-11-27, 11:10:51",
+      "https://news.ycombinator.com/item?id=46068138"
+    ],
+    [
+      "Show HN: Spikelog – A simple metrics service for scripts, cron jobs, and MVPs",
+      "https://spikelog.com"
+    ]
+  ],
+  [
+    [
+      "2025-11-24, 21:06:39",
+      "https://news.ycombinator.com/item?id=46039317"
+    ],
+    [
+      "Atuin’s New Runbook Execution Engine",
+      "https://blog.atuin.sh/introducing-the-new-runbook-execution-engine/"
     ]
   ],
   [
@@ -257,16 +267,6 @@
     [
       "A fast EDN (Extensible Data Notation) reader written in C11 with SIMD boost",
       "https://github.com/DotFox/edn.c"
-    ]
-  ],
-  [
-    [
-      "2025-11-24, 08:10:11",
-      "https://news.ycombinator.com/item?id=46031552"
-    ],
-    [
-      "Quake Engine Indicators",
-      "https://fabiensanglard.net/quake_indicators/index.html"
     ]
   ],
   [
