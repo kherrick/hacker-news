@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-11-28](index.md)
 
+* [2025-11-28, 06:44:51](https://news.ycombinator.com/item?id=46076156) - ['A step-change': tech firms battle for undersea dominance with submarine drones](https://www.theguardian.com/business/2025/nov/28/tech-submarine-drones-startups-big-defence-companies)
 * [2025-11-28, 06:43:13](https://news.ycombinator.com/item?id=46076150) - [GrapheneOS Moving Out of France](https://xcancel.com/GrapheneOS/status/1993035936800584103)
 * [2025-11-28, 05:52:38](https://news.ycombinator.com/item?id=46075882) - [Show HN: Ray-BANNED, Glasses to detect smart-glasses that have cameras](https://github.com/NullPxl/banrays)
 * [2025-11-28, 04:53:07](https://news.ycombinator.com/item?id=46075628) - [TigerStyle: Coding philosophy focused on safety, performance, dev experience](https://tigerstyle.dev/)
