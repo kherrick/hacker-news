@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-11-28, 21:16:46](https://news.ycombinator.com/item?id=46082825) - [Flight disruption warning as Airbus requests modifications to 6k planes](https://www.bbc.com/news/live/cvg4y6g74ert)
+* [2025-11-28, 20:58:15](https://news.ycombinator.com/item?id=46082711) - [Ask HN: What is the purpose of all these AI spam comments?](https://news.ycombinator.com/item?id=46082711)
 * [2025-11-28, 19:59:32](https://news.ycombinator.com/item?id=46082223) - [Good engineers write bad code at big companies](https://www.seangoedecke.com/bad-code-at-big-companies/)
 * [2025-11-28, 19:58:13](https://news.ycombinator.com/item?id=46082204) - [The original ABC language, Python's predecessor (1991)](https://github.com/gvanrossum/abc-unix)
 * [2025-11-28, 19:05:16](https://news.ycombinator.com/item?id=46081704) - [Effective harnesses for long-running agents](https://www.anthropic.com/engineering/effective-harnesses-for-long-running-agents)
@@ -13,7 +15,6 @@
 * [2025-11-28, 17:16:52](https://news.ycombinator.com/item?id=46080597) - [Anti-patterns while working with LLMs](https://instavm.io/blog/llm-anti-patterns)
 * [2025-11-28, 17:15:20](https://news.ycombinator.com/item?id=46080579) - [C++ Web Server on my custom hobby OS](https://oshub.org/projects/retros-32/posts/getting-a-webserver-running)
 * [2025-11-28, 17:05:31](https://news.ycombinator.com/item?id=46080473) - [Bringing Sexy Back. Internet surveillance has killed eroticism](https://lux-magazine.com/article/privacy-eroticism/)
-* [2025-11-28, 17:00:46](https://news.ycombinator.com/item?id=46080424) - [Apple and Intel Rumored to Partner on Mac Chips](https://www.macrumors.com/2025/11/28/intel-rumored-to-supply-new-mac-chip/)
 * [2025-11-28, 16:54:56](https://news.ycombinator.com/item?id=46080364) - [So you wanna build a local RAG?](https://blog.yakkomajuri.com/blog/local-rag)
 * [2025-11-28, 16:49:12](https://news.ycombinator.com/item?id=46080289) - [Airloom – 3D Flight Tracker](https://objectiveunclear.com/airloom.html)
 * [2025-11-28, 16:42:46](https://news.ycombinator.com/item?id=46080218) - [Lobsters Interview](https://susam.net/my-lobsters-interview.html)
@@ -27,7 +28,6 @@
 * [2025-11-28, 05:52:38](https://news.ycombinator.com/item?id=46075882) - [Show HN: Glasses to detect smart-glasses that have cameras](https://github.com/NullPxl/banrays)
 * [2025-11-24, 23:52:48](https://news.ycombinator.com/item?id=46040815) - [Why synthetic emerald-green pigments degrade over time](https://arstechnica.com/science/2025/11/why-synthetic-emerald-green-pigments-degrade-over-time/)
 * [2025-11-24, 21:06:39](https://news.ycombinator.com/item?id=46039317) - [Atuin’s New Runbook Execution Engine](https://blog.atuin.sh/introducing-the-new-runbook-execution-engine/)
-* [2025-11-24, 18:42:42](https://news.ycombinator.com/item?id=46037486) - [Analog Hoverboard Controller](https://github.com/skrubis/analog-hoverboard)
 * [2025-11-23, 23:54:55](https://news.ycombinator.com/item?id=46028649) - [Generalizing Printf in C](https://webb.is-a.dev/articles/generalizedprintf/)
 * [2025-11-22, 07:11:59](https://news.ycombinator.com/item?id=46012803) - [Moss: a Rust Linux-compatible kernel in 26,000 lines of code](https://github.com/hexagonal-sun/moss)
 
