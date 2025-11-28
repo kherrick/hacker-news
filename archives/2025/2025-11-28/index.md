@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-11-28](index.md)
 
 * [2025-11-28, 21:16:46](https://news.ycombinator.com/item?id=46082825) - [Flight disruption warning as Airbus requests modifications to 6k planes](https://www.bbc.com/news/live/cvg4y6g74ert)
+* [2025-11-28, 21:16:03](https://news.ycombinator.com/item?id=46082821) - [The Secret Superfood of Thanksgiving](https://www.twopct.com/p/the-secret-superfood-of-thanksgiving)
 * [2025-11-28, 20:58:15](https://news.ycombinator.com/item?id=46082711) - [Ask HN: What is the purpose of all these AI spam comments?](https://news.ycombinator.com/item?id=46082711)
 * [2025-11-28, 20:06:52](https://news.ycombinator.com/item?id=46082296) - [Airbus A320 Fly by wire corrupted by radiation in flight](https://viewfromthewing.com/airbus-a320s-could-be-temporarily-grounded-worldwide-for-software-update-after-faulty-jetblue-computer-triggered-sudden-uncommanded-descent/)
 * [2025-11-28, 19:59:32](https://news.ycombinator.com/item?id=46082223) - [Good engineers write bad code at big companies](https://www.seangoedecke.com/bad-code-at-big-companies/)

@@ -29,6 +29,7 @@
 * [2025-11-22, 18:05:47](https://news.ycombinator.com/item?id=46016799) - [Depot (YC W23) Is Hiring a Staff Infrastructure Engineer](https://www.ycombinator.com/companies/depot/jobs/O2iB56E-staff-infrastructure-engineer)
 * [2025-11-22, 17:49:27](https://news.ycombinator.com/item?id=46016639) - [China reaches energy milestone by \"breeding\" uranium from thorium](https://www.scmp.com/news/china/science/article/3331312/china-reaches-energy-independence-milestone-breeding-uranium-thorium)
 * [2025-11-22, 17:49:27](https://news.ycombinator.com/item?id=46016639) - [China Reaches Energy Milestone by \"Breeding\" Uranium from Thorium](https://humanprogress.org/china-reaches-energy-milestone-by-breeding-uranium-from-thorium/)
+* [2025-11-22, 17:49:17](https://news.ycombinator.com/item?id=46016634) - [I mathematically proved the best \"Guess Who?\" strategy [video]](https://www.youtube.com/watch?v=_3RNB8eOSx0)
 * [2025-11-22, 17:49:05](https://news.ycombinator.com/item?id=46016630) - [Gwern's \"Stem Humor\" Directory](https://gwern.net/doc/math/humor/index)
 * [2025-11-22, 17:47:23](https://news.ycombinator.com/item?id=46016613) - [The realities of being a pop star](https://itscharlibb.substack.com/p/the-realities-of-being-a-pop-star)
 * [2025-11-22, 17:44:12](https://news.ycombinator.com/item?id=46016579) - [Java Decompiler](http://java-decompiler.github.io)
