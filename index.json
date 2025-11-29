@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-11-29, 06:37:05",
+      "https://news.ycombinator.com/item?id=46085585"
+    ],
+    [
+      "Garfield's Proof of the Pythagorean Theorem",
+      "https://en.wikipedia.org/wiki/Garfield%27s_proof_of_the_Pythagorean_theorem"
+    ]
+  ],
+  [
+    [
       "2025-11-29, 05:22:13",
       "https://news.ycombinator.com/item?id=46085344"
     ],
@@ -141,16 +151,6 @@
   ],
   [
     [
-      "2025-11-28, 19:05:16",
-      "https://news.ycombinator.com/item?id=46081704"
-    ],
-    [
-      "Effective harnesses for long-running agents",
-      "https://www.anthropic.com/engineering/effective-harnesses-for-long-running-agents"
-    ]
-  ],
-  [
-    [
       "2025-11-28, 18:15:50",
       "https://news.ycombinator.com/item?id=46081188"
     ],
@@ -231,16 +231,6 @@
   ],
   [
     [
-      "2025-11-27, 00:25:53",
-      "https://news.ycombinator.com/item?id=46063955"
-    ],
-    [
-      "The weirdest tool I own is also one of the most useful",
-      "https://www.zdnet.com/article/the-weirdest-tool-i-own-is-also-one-of-the-most-useful-and-its-14-on-amazon/"
-    ]
-  ],
-  [
-    [
       "2025-11-25, 12:34:25",
       "https://news.ycombinator.com/item?id=46045207"
     ],
@@ -257,6 +247,16 @@
     [
       "How to get Pandoc to respect custom table styles in Word templates",
       "https://johnathandos.com/posts/2025-11-24-custom-tables-with-pandoc/"
+    ]
+  ],
+  [
+    [
+      "2025-11-24, 18:05:08",
+      "https://news.ycombinator.com/item?id=46037031"
+    ],
+    [
+      "Show HN: Explore what the browser exposes about you",
+      "https://neberej.github.io/exposedbydefault/"
     ]
   ],
   [
