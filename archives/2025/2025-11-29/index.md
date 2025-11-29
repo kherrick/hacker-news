@@ -6,6 +6,7 @@
 
 * [2025-11-29, 21:10:15](https://news.ycombinator.com/item?id=46090794) - [Europe's New War on Privacy](https://unherd.com/2025/11/europes-new-war-on-privacy/)
 * [2025-11-29, 20:44:24](https://news.ycombinator.com/item?id=46090619) - [Show HN: Nano PDF – A CLI Tool to Edit PDFs with Gemini's Nano Banana](https://github.com/gavrielc/Nano-PDF)
+* [2025-11-29, 20:37:59](https://news.ycombinator.com/item?id=46090574) - [Joe Armstrong interviews Alan Kay (2016) [video]](https://www.youtube.com/watch?v=fhOHn9TClXY)
 * [2025-11-29, 20:22:44](https://news.ycombinator.com/item?id=46090433) - [All it takes is for one to work out](https://alearningaday.blog/2025/11/28/all-it-takes-is-for-one-to-work-out-2/)
 * [2025-11-29, 20:12:37](https://news.ycombinator.com/item?id=46090372) - [Baboon: Data Modeling with Automatic Evolutions and tagless binary codecs](https://github.com/7mind/baboon)
 * [2025-11-29, 20:06:54](https://news.ycombinator.com/item?id=46090330) - [FBI RFP for tool to scrape Gab, Parler, 8Kun, and Telegram (5k licenses) [pdf]](https://vault.fbi.gov/contract-15f06722c0000258)

@@ -2,6 +2,7 @@
 
 * [2025-11-29, 21:10:15](https://news.ycombinator.com/item?id=46090794) - [Europe's New War on Privacy](https://unherd.com/2025/11/europes-new-war-on-privacy/)
 * [2025-11-29, 20:44:24](https://news.ycombinator.com/item?id=46090619) - [Show HN: Nano PDF – A CLI Tool to Edit PDFs with Gemini's Nano Banana](https://github.com/gavrielc/Nano-PDF)
+* [2025-11-29, 20:37:59](https://news.ycombinator.com/item?id=46090574) - [Joe Armstrong interviews Alan Kay (2016) [video]](https://www.youtube.com/watch?v=fhOHn9TClXY)
 * [2025-11-29, 20:22:44](https://news.ycombinator.com/item?id=46090433) - [All it takes is for one to work out](https://alearningaday.blog/2025/11/28/all-it-takes-is-for-one-to-work-out-2/)
 * [2025-11-29, 20:12:37](https://news.ycombinator.com/item?id=46090372) - [Baboon: Data Modeling with Automatic Evolutions and tagless binary codecs](https://github.com/7mind/baboon)
 * [2025-11-29, 19:59:12](https://news.ycombinator.com/item?id=46090294) - [The Origins of Scala (2009)](https://www.artima.com/articles/the-origins-of-scala)
@@ -24,9 +25,8 @@
 * [2025-11-26, 13:22:46](https://news.ycombinator.com/item?id=46057141) - [Post-mortem of Shai-Hulud attack on November 24th, 2025](https://posthog.com/blog/nov-24-shai-hulud-attack-post-mortem)
 * [2025-11-26, 07:40:43](https://news.ycombinator.com/item?id=46055091) - [Plinko PIR Tutorial](https://vitalik.eth.limo/general/2025/11/25/plinko.html)
 * [2025-11-26, 07:03:27](https://news.ycombinator.com/item?id=46054879) - [Anthony Bourdain's Lost Li.st's](https://bourdain.greg.technology/)
-* [2025-11-25, 22:03:00](https://news.ycombinator.com/item?id=46051332) - [Building road signs at home using a Cricut Machine](https://annanay.dev/build-a-signboard/)
+* [2025-11-25, 21:12:55](https://news.ycombinator.com/item?id=46050861) - [Men Who Made America's Self-Made Man](https://www.historynewsnetwork.org/article/self-made)
 * [2025-11-25, 12:34:25](https://news.ycombinator.com/item?id=46045207) - [WinApps: Run Windows apps as if they were a part of the native Linux OS](https://github.com/winapps-org/winapps)
-* [2025-11-24, 15:27:53](https://news.ycombinator.com/item?id=46035126) - [WebR – R in the Browser](https://webr.sh/)
 * [2025-11-24, 09:30:40](https://news.ycombinator.com/item?id=46032074) - [Show HN: Network Monitor – a GUI to spot anomalous connections on your Linux](https://news.ycombinator.com/item?id=46032074)
 * [2025-11-23, 04:22:41](https://news.ycombinator.com/item?id=46020730) - [Hardening the C++ Standard Library at scale](https://queue.acm.org/detail.cfm?id=3773097)
 * [2025-11-21, 17:06:21](https://news.ycombinator.com/item?id=46006323) - [Bronze Age mega-settlement in Kazakhstan has advanced urban planning, metallurgy](https://archaeologymag.com/2025/11/bronze-age-mega-settlement-in-kazakhstan/)
