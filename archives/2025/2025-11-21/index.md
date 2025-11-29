@@ -35,6 +35,7 @@
 * [2025-11-21, 17:29:59](https://news.ycombinator.com/item?id=46006616) - [Helping Valve to Power Up Steam Devices](https://www.igalia.com/2025/11/helpingvalve.html)
 * [2025-11-21, 17:28:25](https://news.ycombinator.com/item?id=46006598) - [FizzBuzz with Cosines](https://susam.net/fizz-buzz-with-cosines.html)
 * [2025-11-21, 17:20:51](https://news.ycombinator.com/item?id=46006521) - [How Cops Are Using Flock's ALPR Network to Surveil Protesters and Activists](https://www.eff.org/deeplinks/2025/11/how-cops-are-using-flock-safetys-alpr-network-surveil-protesters-and-activists)
+* [2025-11-21, 17:06:21](https://news.ycombinator.com/item?id=46006323) - [Bronze Age mega-settlement in Kazakhstan has advanced urban planning, metallurgy](https://archaeologymag.com/2025/11/bronze-age-mega-settlement-in-kazakhstan/)
 * [2025-11-21, 17:00:00](https://news.ycombinator.com/item?id=46006250) - [Pivot Robotics (YC W24) Is Hiring for an Industrial Automation Hardware Engineer](https://www.ycombinator.com/companies/pivot-robotics/jobs/7xG9Dc6-mechanical-engineer-controls)
 * [2025-11-21, 16:55:14](https://news.ycombinator.com/item?id=46006211) - [Downsampling: Largest-Triangle-Three-Buckets and the Fourier Transform](https://daniel.mitterdorfer.name/posts/2024-01-30-downsampling-lttb-and-fft/)
 * [2025-11-21, 16:52:48](https://news.ycombinator.com/item?id=46006183) - [Private Equity's New Venture: Youth Sports](https://jacobin.com/2025/11/youth-sports-hockey-private-equity)

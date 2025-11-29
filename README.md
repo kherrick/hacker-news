@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-11-29, 14:20:46](https://news.ycombinator.com/item?id=46087737) - [It's Always the Process, Stupid](https://its.promp.td/its-always-the-process-stupid/)
-* [2025-11-29, 14:05:53](https://news.ycombinator.com/item?id=46087616) - [Datacenters in space are a terrible, horrible, no good idea](https://taranis.ie/datacenters-in-space-are-a-terrible-horrible-no-good-idea/)
 * [2025-11-29, 14:02:23](https://news.ycombinator.com/item?id=46087596) - [DNS LOC Record (2014)](https://blog.cloudflare.com/the-weird-and-wonderful-world-of-dns-loc-records/)
 * [2025-11-29, 13:56:04](https://news.ycombinator.com/item?id=46087549) - [Hachi: An Image Search Engine](https://eagledot.xyz/hachi.md.html)
 * [2025-11-29, 12:26:54](https://news.ycombinator.com/item?id=46087029) - [Chainalysis Successful Deanonymization Attack on Monero](https://darkwebinformer.com/chainalysis-successful-deanonymization-attack-on-monero-2/)
@@ -30,6 +29,7 @@
 * [2025-11-24, 18:05:08](https://news.ycombinator.com/item?id=46037031) - [Show HN: Explore what the browser exposes about you](https://neberej.github.io/exposedbydefault/)
 * [2025-11-24, 15:27:53](https://news.ycombinator.com/item?id=46035126) - [WebR – R in the Browser](https://webr.sh/)
 * [2025-11-22, 08:51:08](https://news.ycombinator.com/item?id=46013269) - [The risk of round numbers and sharp thresholds in clinical practice](https://www.nature.com/articles/s41746-025-02079-y)
+* [2025-11-21, 17:06:21](https://news.ycombinator.com/item?id=46006323) - [Bronze Age mega-settlement in Kazakhstan has advanced urban planning, metallurgy](https://archaeologymag.com/2025/11/bronze-age-mega-settlement-in-kazakhstan/)
 
 ## [Archives](archives/index.md)
 
