@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2025-11-28, 23:24:16",
-      "https://news.ycombinator.com/item?id=46083730"
-    ],
-    [
-      "The Fatal Trap UBI Boosters Keep Falling Into",
-      "https://thereader.mitpress.mit.edu/the-fatal-trap-ubi-boosters-keep-falling-into/"
-    ]
-  ],
-  [
-    [
       "2025-11-28, 22:32:03",
       "https://news.ycombinator.com/item?id=46083375"
     ],
@@ -77,6 +67,16 @@
     [
       "Flight disruption warning as Airbus requests modifications to 6k planes",
       "https://www.bbc.com/news/live/cvg4y6g74ert"
+    ]
+  ],
+  [
+    [
+      "2025-11-28, 20:06:30",
+      "https://news.ycombinator.com/item?id=46082291"
+    ],
+    [
+      "Electron vs. Tauri",
+      "https://www.dolthub.com/blog/2025-11-13-electron-vs-tauri/"
     ]
   ],
   [
@@ -211,16 +211,6 @@
   ],
   [
     [
-      "2025-11-28, 16:42:46",
-      "https://news.ycombinator.com/item?id=46080218"
-    ],
-    [
-      "Lobsters Interview",
-      "https://susam.net/my-lobsters-interview.html"
-    ]
-  ],
-  [
-    [
       "2025-11-28, 16:35:24",
       "https://news.ycombinator.com/item?id=46080143"
     ],
@@ -247,6 +237,16 @@
     [
       "Can Dutch universities do without Microsoft?",
       "https://dub.uu.nl/en/news/can-dutch-universities-do-without-microsoft"
+    ]
+  ],
+  [
+    [
+      "2025-11-28, 14:42:19",
+      "https://news.ycombinator.com/item?id=46079073"
+    ],
+    [
+      "Language is primarily a tool for communication rather than thought [pdf]",
+      "https://gwern.net/doc/psychology/linguistics/2024-fedorenko.pdf"
     ]
   ],
   [
@@ -291,12 +291,12 @@
   ],
   [
     [
-      "2025-11-22, 07:11:59",
-      "https://news.ycombinator.com/item?id=46012803"
+      "2025-11-21, 14:24:21",
+      "https://news.ycombinator.com/item?id=46004895"
     ],
     [
-      "Moss: a Rust Linux-compatible kernel in 26,000 lines of code",
-      "https://github.com/hexagonal-sun/moss"
+      "Show HN: Choose your own adventure style Presentation",
+      "https://github.com/Skarlso/adventure-voter"
     ]
   ]
 ]
