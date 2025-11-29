@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-11-29, 03:26:01",
+      "https://news.ycombinator.com/item?id=46084956"
+    ],
+    [
+      "System 7 natively boots on the Mac mini G4",
+      "https://macos9lives.com/smforum/index.php?topic=7711.0"
+    ]
+  ],
+  [
+    [
+      "2025-11-29, 01:37:42",
+      "https://news.ycombinator.com/item?id=46084535"
+    ],
+    [
+      "Every mathematician has only a few tricks",
+      "https://mathoverflow.net/questions/363119/every-mathematician-has-only-a-few-tricks"
+    ]
+  ],
+  [
+    [
       "2025-11-29, 00:26:42",
       "https://news.ycombinator.com/item?id=46084122"
     ],
@@ -161,16 +181,6 @@
   ],
   [
     [
-      "2025-11-28, 17:30:41",
-      "https://news.ycombinator.com/item?id=46080737"
-    ],
-    [
-      "Show HN: An LLM-Powered Tool to Catch PCB Schematic Mistakes",
-      "https://netlist.io/"
-    ]
-  ],
-  [
-    [
       "2025-11-28, 17:15:20",
       "https://news.ycombinator.com/item?id=46080579"
     ],
@@ -241,16 +251,6 @@
   ],
   [
     [
-      "2025-11-28, 14:42:19",
-      "https://news.ycombinator.com/item?id=46079073"
-    ],
-    [
-      "Language is primarily a tool for communication rather than thought [pdf]",
-      "https://gwern.net/doc/psychology/linguistics/2024-fedorenko.pdf"
-    ]
-  ],
-  [
-    [
       "2025-11-26, 01:19:17",
       "https://news.ycombinator.com/item?id=46053017"
     ],
@@ -261,12 +261,12 @@
   ],
   [
     [
-      "2025-11-24, 21:06:39",
-      "https://news.ycombinator.com/item?id=46039317"
+      "2025-11-25, 03:33:03",
+      "https://news.ycombinator.com/item?id=46042074"
     ],
     [
-      "Atuin’s New Runbook Execution Engine",
-      "https://blog.atuin.sh/introducing-the-new-runbook-execution-engine/"
+      "How to get Pandoc to respect custom table styles in Word templates",
+      "https://johnathandos.com/posts/2025-11-24-custom-tables-with-pandoc/"
     ]
   ],
   [
