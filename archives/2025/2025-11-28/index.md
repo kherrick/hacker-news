@@ -57,6 +57,7 @@
 * [2025-11-28, 14:42:19](https://news.ycombinator.com/item?id=46079073) - [Language is primarily a tool for communication rather than thought [pdf]](https://gwern.net/doc/psychology/linguistics/2024-fedorenko.pdf)
 * [2025-11-28, 14:41:53](https://news.ycombinator.com/item?id=46079067) - [Louvre to hike ticket prices for most non-EU tourists by 45%](https://www.bbc.com/news/articles/clyd4llgrego)
 * [2025-11-28, 14:08:14](https://news.ycombinator.com/item?id=46078770) - [Petition to formally recognize open source work as civic service in Germany](https://www.openpetition.de/petition/online/anerkennung-von-open-source-arbeit-als-ehrenamt-in-deutschland#petition-main)
+* [2025-11-28, 13:57:43](https://news.ycombinator.com/item?id=46078684) - [An update on the Farphone's battery](https://far.computer/battery-update/)
 * [2025-11-28, 13:43:17](https://news.ycombinator.com/item?id=46078566) - [Writing Builds Resilience in Everyday Challenges by Changing Your Brain](https://scienceclock.com/writing-builds-resilience-in-everyday-challenges-by-changing-your-brain/)
 * [2025-11-28, 13:21:17](https://news.ycombinator.com/item?id=46078407) - [A trillion dollars (potentially) wasted on gen-AI](https://garymarcus.substack.com/p/a-trillion-dollars-is-a-terrible)
 * [2025-11-28, 12:41:32](https://news.ycombinator.com/item?id=46078138) - [A Remarkable Assertion from A16Z](https://nealstephenson.substack.com/p/a-remarkable-assertion-from-a16z)
