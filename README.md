@@ -1,8 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-11-29, 14:20:46](https://news.ycombinator.com/item?id=46087737) - [It's Always the Process, Stupid](https://its.promp.td/its-always-the-process-stupid/)
+* [2025-11-29, 14:05:53](https://news.ycombinator.com/item?id=46087616) - [Datacenters in space are a terrible, horrible, no good idea](https://taranis.ie/datacenters-in-space-are-a-terrible-horrible-no-good-idea/)
+* [2025-11-29, 14:02:23](https://news.ycombinator.com/item?id=46087596) - [DNS LOC Record](https://blog.cloudflare.com/the-weird-and-wonderful-world-of-dns-loc-records/)
 * [2025-11-29, 13:56:04](https://news.ycombinator.com/item?id=46087549) - [Hachi: An Image Search Engine](https://eagledot.xyz/hachi.md.html)
-* [2025-11-29, 13:49:22](https://news.ycombinator.com/item?id=46087518) - [How ICE is becoming a secret police force](https://theconversation.com/how-ice-is-becoming-a-secret-police-force-under-the-trump-administration-255019)
 * [2025-11-29, 12:04:23](https://news.ycombinator.com/item?id=46086920) - [Show HN: I built Magiclip – an all-in-one AI studio](https://magiclip.io/)
 * [2025-11-29, 11:52:21](https://news.ycombinator.com/item?id=46086863) - [DMT-induced shifts in criticality correlate with self-dissolution](https://www.jneurosci.org/content/early/2025/10/24/JNEUROSCI.0344-25.2025)
 * [2025-11-29, 11:31:58](https://news.ycombinator.com/item?id=46086771) - [Leak confirms OpenAI is preparing ads on ChatGPT for public roll out](https://www.bleepingcomputer.com/news/artificial-intelligence/leak-confirms-openai-is-preparing-ads-on-chatgpt-for-public-roll-out/)
@@ -29,7 +30,6 @@
 * [2025-11-24, 18:05:08](https://news.ycombinator.com/item?id=46037031) - [Show HN: Explore what the browser exposes about you](https://neberej.github.io/exposedbydefault/)
 * [2025-11-24, 15:27:53](https://news.ycombinator.com/item?id=46035126) - [WebR – R in the Browser](https://webr.sh/)
 * [2025-11-22, 08:51:08](https://news.ycombinator.com/item?id=46013269) - [The risk of round numbers and sharp thresholds in clinical practice](https://www.nature.com/articles/s41746-025-02079-y)
-* [2025-11-21, 14:24:21](https://news.ycombinator.com/item?id=46004895) - [Show HN: Choose your own adventure style Presentation](https://github.com/Skarlso/adventure-voter)
 
 ## [Archives](archives/index.md)
 
