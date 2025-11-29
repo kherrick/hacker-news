@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-11-29, 06:37:05](https://news.ycombinator.com/item?id=46085585) - [Garfield's Proof of the Pythagorean Theorem](https://en.wikipedia.org/wiki/Garfield%27s_proof_of_the_Pythagorean_theorem)
+* [2025-11-29, 05:22:13](https://news.ycombinator.com/item?id=46085344) - [The 'S&P 493' reveals a different U.S. economy](https://www.msn.com/en-us/money/markets/the-s-p-493-reveals-a-very-different-us-economy/ar-AA1R1VUJ)
 * [2025-11-29, 05:00:27](https://news.ycombinator.com/item?id=46085276) - [The Great Downzoning](https://worksinprogress.co/issue/the-great-downzoning/)
 * [2025-11-29, 03:26:01](https://news.ycombinator.com/item?id=46084956) - [System 7 natively boots on the Mac mini G4](https://macos9lives.com/smforum/index.php?topic=7711.0)
 * [2025-11-29, 01:37:42](https://news.ycombinator.com/item?id=46084535) - [Every mathematician has only a few tricks (2020)](https://mathoverflow.net/questions/363119/every-mathematician-has-only-a-few-tricks)
@@ -24,7 +25,6 @@
 * [2025-11-28, 14:42:19](https://news.ycombinator.com/item?id=46079073) - [Language is primarily a tool for communication rather than thought (2024) [pdf]](https://gwern.net/doc/psychology/linguistics/2024-fedorenko.pdf)
 * [2025-11-26, 07:03:27](https://news.ycombinator.com/item?id=46054879) - [Show HN: Anthony Bourdain's Lost Li.st's](https://bourdain.greg.technology/)
 * [2025-11-25, 12:34:25](https://news.ycombinator.com/item?id=46045207) - [WinApps: Run Windows apps as if they were a part of the native Linux OS](https://github.com/winapps-org/winapps)
-* [2025-11-25, 03:33:03](https://news.ycombinator.com/item?id=46042074) - [How to get Pandoc to respect custom table styles in Word templates](https://johnathandos.com/posts/2025-11-24-custom-tables-with-pandoc/)
 * [2025-11-24, 18:05:08](https://news.ycombinator.com/item?id=46037031) - [Show HN: Explore what the browser exposes about you](https://neberej.github.io/exposedbydefault/)
 * [2025-11-24, 14:06:40](https://news.ycombinator.com/item?id=46034255) - [Show HN: Mu – The Micro Network](https://github.com/asim/mu)
 * [2025-11-22, 17:49:17](https://news.ycombinator.com/item?id=46016634) - [I mathematically proved the best \"Guess Who?\" strategy [video]](https://www.youtube.com/watch?v=_3RNB8eOSx0)
