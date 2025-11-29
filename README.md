@@ -4,7 +4,7 @@
 * [2025-11-29, 11:31:58](https://news.ycombinator.com/item?id=46086771) - [Leak confirms OpenAI is preparing ads on ChatGPT for public roll out](https://www.bleepingcomputer.com/news/artificial-intelligence/leak-confirms-openai-is-preparing-ads-on-chatgpt-for-public-roll-out/)
 * [2025-11-29, 11:10:39](https://news.ycombinator.com/item?id=46086681) - [Belgian Police exposed using botnets to manipulate EU data law impact assessment](https://old.reddit.com/r/europe/comments/1p9kxhm/belgian_federal_police_forgot_to_turn_their_vpn/)
 * [2025-11-29, 10:54:16](https://news.ycombinator.com/item?id=46086624) - [High air pollution could diminish exercise benefits by half – study](https://scienceclock.com/exercise-may-protect-less-when-air-pollution-is-high-study-finds/)
-* [2025-11-29, 08:14:23](https://news.ycombinator.com/item?id=46085897) - [The undeserved status of the pigeon-hole principle (EWD 1094)](https://www.cs.utexas.edu/~EWD/transcriptions/EWD10xx/EWD1094.html)
+* [2025-11-29, 08:14:23](https://news.ycombinator.com/item?id=46085897) - [The undeserved status of the pigeon-hole principle (1991)](https://www.cs.utexas.edu/~EWD/transcriptions/EWD10xx/EWD1094.html)
 * [2025-11-29, 06:37:05](https://news.ycombinator.com/item?id=46085585) - [Garfield's Proof of the Pythagorean Theorem](https://en.wikipedia.org/wiki/Garfield%27s_proof_of_the_Pythagorean_theorem)
 * [2025-11-29, 03:26:01](https://news.ycombinator.com/item?id=46084956) - [System 7 natively boots on the Mac mini G4](https://macos9lives.com/smforum/index.php?topic=7711.0)
 * [2025-11-29, 01:37:42](https://news.ycombinator.com/item?id=46084535) - [Every mathematician has only a few tricks (2020)](https://mathoverflow.net/questions/363119/every-mathematician-has-only-a-few-tricks)
