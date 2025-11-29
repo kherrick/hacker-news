@@ -2,6 +2,7 @@
 
 * [2025-11-29, 19:18:46](https://news.ycombinator.com/item?id=46090009) - [Ported freetype, fontconfig, harfbuzz, and graphite to Fil-C](https://twitter.com/filpizlo/status/1994563191528198653)
 * [2025-11-29, 19:14:13](https://news.ycombinator.com/item?id=46089980) - [Framework Computer Now Sponsoring LVFS / Fwupd Development](https://www.phoronix.com/news/Framework-Sponsoring-LVFS)
+* [2025-11-29, 19:12:48](https://news.ycombinator.com/item?id=46089971) - [Electric vehicle sales are booming in South America – without Tesla](https://www.reuters.com/sustainability/climate-energy/electric-vehicle-sales-are-booming-south-america-without-tesla-2025-11-17/)
 * [2025-11-29, 18:19:29](https://news.ycombinator.com/item?id=46089579) - [An Update on the Farphone's Battery](https://far.computer/battery-update/)
 * [2025-11-29, 18:14:21](https://news.ycombinator.com/item?id=46089546) - [Student Perceptions of AI Coding Assistants in Learning](https://arxiv.org/abs/2507.22900)
 * [2025-11-29, 17:53:57](https://news.ycombinator.com/item?id=46089394) - [Zero Knowlege Proof of Compositeness](https://www.johndcook.com/blog/2025/11/29/zkp-composite/)
@@ -24,7 +25,6 @@
 * [2025-11-26, 07:03:27](https://news.ycombinator.com/item?id=46054879) - [Anthony Bourdain's Lost Li.st's](https://bourdain.greg.technology/)
 * [2025-11-25, 22:03:00](https://news.ycombinator.com/item?id=46051332) - [Building road signs at home using a Cricut Machine](https://annanay.dev/build-a-signboard/)
 * [2025-11-25, 12:34:25](https://news.ycombinator.com/item?id=46045207) - [WinApps: Run Windows apps as if they were a part of the native Linux OS](https://github.com/winapps-org/winapps)
-* [2025-11-25, 07:43:39](https://news.ycombinator.com/item?id=46043318) - [Build Your Own Router with URLPattern()](https://jschof.dev/posts/2025/11/build-your-own-router/)
 * [2025-11-24, 18:05:08](https://news.ycombinator.com/item?id=46037031) - [Show HN: Explore what the browser exposes about you](https://neberej.github.io/exposedbydefault/)
 * [2025-11-24, 15:27:53](https://news.ycombinator.com/item?id=46035126) - [WebR – R in the Browser](https://webr.sh/)
 * [2025-11-24, 09:30:40](https://news.ycombinator.com/item?id=46032074) - [Show HN: Network Monitor – a GUI to spot anomalous connections on your Linux](https://news.ycombinator.com/item?id=46032074)
