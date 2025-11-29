@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-11-28](index.md)
 
+* [2025-11-28, 23:24:16](https://news.ycombinator.com/item?id=46083730) - [The Fatal Trap UBI Boosters Keep Falling Into](https://thereader.mitpress.mit.edu/the-fatal-trap-ubi-boosters-keep-falling-into/)
 * [2025-11-28, 22:32:03](https://news.ycombinator.com/item?id=46083375) - [Fabric Project](https://github.com/Fabric-Project/Fabric)
 * [2025-11-28, 22:21:25](https://news.ycombinator.com/item?id=46083303) - [Confessions of a Software Developer: No More Self-Censorship](https://kerrick.blog/articles/2025/confessions-of-a-software-developer-no-more-self-censorship/)
 * [2025-11-28, 22:00:51](https://news.ycombinator.com/item?id=46083162) - [A Tale of Two AI Failures: Debugging a Simple Bug with LLMs](https://bitmovin.com/blog/hackathon-debugging-ai-tools-llms/)

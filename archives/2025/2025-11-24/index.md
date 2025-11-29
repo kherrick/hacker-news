@@ -63,6 +63,7 @@
 * [2025-11-24, 10:52:37](https://news.ycombinator.com/item?id=46032623) - [OS Malevich – how we made a system that embodies the idea of simplicity (2017)](https://www.ajax-systems.uz/blog/hub-os-malevich-story/)
 * [2025-11-24, 10:40:22](https://news.ycombinator.com/item?id=46032539) - [Shai-Hulud Returns: Over 300 NPM Packages Infected](https://helixguard.ai/blog/malicious-sha1hulud-2025-11-24)
 * [2025-11-24, 10:37:05](https://news.ycombinator.com/item?id=46032513) - [General principles for the use of AI at CERN](https://home.web.cern.ch/news/official-news/knowledge-sharing/general-principles-use-ai-cern)
+* [2025-11-24, 10:16:59](https://news.ycombinator.com/item?id=46032371) - [AltSendme: Another Alternative to MAgic Wormhole?](https://github.com/tonyantony300/alt-sendme)
 * [2025-11-24, 09:51:45](https://news.ycombinator.com/item?id=46032230) - [A fast EDN (Extensible Data Notation) reader written in C11 with SIMD boost](https://github.com/DotFox/edn.c)
 * [2025-11-24, 09:40:32](https://news.ycombinator.com/item?id=46032148) - [Fifty Shades of OOP](https://lesleylai.info/en/fifty_shades_of_oop/)
 * [2025-11-24, 08:30:00](https://news.ycombinator.com/item?id=46031664) - [Ruby Was Ready from the Start](https://obie.medium.com/ruby-was-ready-from-the-start-4b089b17babb)
