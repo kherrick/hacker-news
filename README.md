@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-11-29, 15:28:05](https://news.ycombinator.com/item?id=46088241) - [Copenhagenize Index 2025: The Global Ranking of Bicycle-Friendly Cities](https://copenhagenizeindex.eu/)
 * [2025-11-29, 14:20:46](https://news.ycombinator.com/item?id=46087737) - [It's Always the Process, Stupid](https://its.promp.td/its-always-the-process-stupid/)
 * [2025-11-29, 14:02:23](https://news.ycombinator.com/item?id=46087596) - [DNS LOC Record (2014)](https://blog.cloudflare.com/the-weird-and-wonderful-world-of-dns-loc-records/)
 * [2025-11-29, 13:56:04](https://news.ycombinator.com/item?id=46087549) - [Hachi: An Image Search Engine](https://eagledot.xyz/hachi.md.html)
@@ -8,7 +9,6 @@
 * [2025-11-29, 12:04:23](https://news.ycombinator.com/item?id=46086920) - [Show HN: I built Magiclip – an all-in-one AI studio](https://magiclip.io/)
 * [2025-11-29, 11:52:21](https://news.ycombinator.com/item?id=46086863) - [DMT-induced shifts in criticality correlate with self-dissolution](https://www.jneurosci.org/content/early/2025/10/24/JNEUROSCI.0344-25.2025)
 * [2025-11-29, 11:31:58](https://news.ycombinator.com/item?id=46086771) - [Leak confirms OpenAI is preparing ads on ChatGPT for public roll out](https://www.bleepingcomputer.com/news/artificial-intelligence/leak-confirms-openai-is-preparing-ads-on-chatgpt-for-public-roll-out/)
-* [2025-11-29, 11:10:39](https://news.ycombinator.com/item?id=46086681) - [Belgian Police exposed using botnets to manipulate EU data law impact assessment](https://old.reddit.com/r/europe/comments/1p9kxhm/belgian_federal_police_forgot_to_turn_their_vpn/)
 * [2025-11-29, 10:54:16](https://news.ycombinator.com/item?id=46086624) - [High air pollution could diminish exercise benefits by half – study](https://scienceclock.com/exercise-may-protect-less-when-air-pollution-is-high-study-finds/)
 * [2025-11-29, 06:37:05](https://news.ycombinator.com/item?id=46085585) - [Garfield's Proof of the Pythagorean Theorem](https://en.wikipedia.org/wiki/Garfield%27s_proof_of_the_Pythagorean_theorem)
 * [2025-11-29, 03:26:01](https://news.ycombinator.com/item?id=46084956) - [System 7 natively boots on the Mac mini G4](https://macos9lives.com/smforum/index.php?topic=7711.0)
