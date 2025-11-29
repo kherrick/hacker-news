@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-11-29](index.md)
 
+* [2025-11-29, 06:37:05](https://news.ycombinator.com/item?id=46085585) - [Garfield's Proof of the Pythagorean Theorem](https://en.wikipedia.org/wiki/Garfield%27s_proof_of_the_Pythagorean_theorem)
 * [2025-11-29, 05:22:13](https://news.ycombinator.com/item?id=46085344) - [The 'S&P 493' reveals a different U.S. economy](https://www.msn.com/en-us/money/markets/the-s-p-493-reveals-a-very-different-us-economy/ar-AA1R1VUJ)
 * [2025-11-29, 05:00:27](https://news.ycombinator.com/item?id=46085276) - [The Great Downzoning](https://worksinprogress.co/issue/the-great-downzoning/)
 * [2025-11-29, 03:26:01](https://news.ycombinator.com/item?id=46084956) - [System 7 natively boots on the Mac mini G4](https://macos9lives.com/smforum/index.php?topic=7711.0)

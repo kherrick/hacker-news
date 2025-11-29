@@ -31,6 +31,7 @@
 * [2025-11-24, 18:26:09](https://news.ycombinator.com/item?id=46037267) - [Mind-reading devices can now predict preconscious thoughts: is it time to worry?](https://www.nature.com/articles/d41586-025-03714-0)
 * [2025-11-24, 18:25:53](https://news.ycombinator.com/item?id=46037261) - [Installing Java in 2025, and Version Managers](https://blog.hakanserce.com/post/version_managers/)
 * [2025-11-24, 18:07:47](https://news.ycombinator.com/item?id=46037056) - [Shopping research in ChatGPT](https://openai.com/index/chatgpt-shopping-research/)
+* [2025-11-24, 18:05:08](https://news.ycombinator.com/item?id=46037031) - [Show HN: Explore what the browser exposes about you](https://neberej.github.io/exposedbydefault/)
 * [2025-11-24, 17:52:43](https://news.ycombinator.com/item?id=46036908) - [Show HN: I built an interactive HN Simulator](https://news.ysimulator.run/news)
 * [2025-11-24, 17:52:01](https://news.ycombinator.com/item?id=46036895) - [Cool-retro-term: terminal emulator which mimics look and feel of the old CRTs](https://github.com/Swordfish90/cool-retro-term)
 * [2025-11-24, 17:51:02](https://news.ycombinator.com/item?id=46036878) - [Andrej Karpathy on X: implications of AI to schools](https://twitter.com/karpathy/status/1993010584175141038)
