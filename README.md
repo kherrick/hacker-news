@@ -11,7 +11,6 @@
 * [2025-11-29, 12:26:54](https://news.ycombinator.com/item?id=46087029) - [Chainalysis Successful Deanonymization Attack on Monero](https://darkwebinformer.com/chainalysis-successful-deanonymization-attack-on-monero-2/)
 * [2025-11-29, 12:25:35](https://news.ycombinator.com/item?id=46087022) - [The CRDT Dictionary: A Field Guide to Conflict-Free Replicated Data Types](https://www.iankduncan.com/engineering/2025-11-27-crdt-dictionary/)
 * [2025-11-29, 12:04:23](https://news.ycombinator.com/item?id=46086920) - [Show HN: I built Magiclip – an all-in-one AI studio](https://magiclip.io/)
-* [2025-11-29, 11:52:21](https://news.ycombinator.com/item?id=46086863) - [DMT-induced shifts in criticality correlate with self-dissolution](https://www.jneurosci.org/content/early/2025/10/24/JNEUROSCI.0344-25.2025)
 * [2025-11-29, 10:54:16](https://news.ycombinator.com/item?id=46086624) - [High air pollution could diminish exercise benefits by half – study](https://scienceclock.com/exercise-may-protect-less-when-air-pollution-is-high-study-finds/)
 * [2025-11-29, 06:37:05](https://news.ycombinator.com/item?id=46085585) - [Garfield's Proof of the Pythagorean Theorem](https://en.wikipedia.org/wiki/Garfield%27s_proof_of_the_Pythagorean_theorem)
 * [2025-11-29, 03:26:01](https://news.ycombinator.com/item?id=46084956) - [System 7 natively boots on the Mac mini G4](https://macos9lives.com/smforum/index.php?topic=7711.0)
@@ -28,6 +27,7 @@
 * [2025-11-25, 07:43:39](https://news.ycombinator.com/item?id=46043318) - [Build Your Own Router with URLPattern()](https://jschof.dev/posts/2025/11/build-your-own-router/)
 * [2025-11-24, 18:05:08](https://news.ycombinator.com/item?id=46037031) - [Show HN: Explore what the browser exposes about you](https://neberej.github.io/exposedbydefault/)
 * [2025-11-24, 15:27:53](https://news.ycombinator.com/item?id=46035126) - [WebR – R in the Browser](https://webr.sh/)
+* [2025-11-23, 04:22:41](https://news.ycombinator.com/item?id=46020730) - [Hardening the C++ Standard Library at scale](https://queue.acm.org/detail.cfm?id=3773097)
 * [2025-11-22, 08:51:08](https://news.ycombinator.com/item?id=46013269) - [The risk of round numbers and sharp thresholds in clinical practice](https://www.nature.com/articles/s41746-025-02079-y)
 * [2025-11-21, 17:06:21](https://news.ycombinator.com/item?id=46006323) - [Bronze Age mega-settlement in Kazakhstan has advanced urban planning, metallurgy](https://archaeologymag.com/2025/11/bronze-age-mega-settlement-in-kazakhstan/)
 

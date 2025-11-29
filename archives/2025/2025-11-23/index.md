@@ -72,6 +72,7 @@
 * [2025-11-23, 06:49:53](https://news.ycombinator.com/item?id=46021356) - [A lightweight code editor with Vim mode, Git integration, and more](https://athas.dev)
 * [2025-11-23, 06:05:51](https://news.ycombinator.com/item?id=46021179) - [Google Revisits JPEG XL in Chromium After Earlier Removal](https://windowsreport.com/google-revisits-jpeg-xl-in-chromium-after-earlier-removal/)
 * [2025-11-23, 04:38:54](https://news.ycombinator.com/item?id=46020794) - [Rust Isn't the Future of Systems Programming – It's Just the Hype Cycle](https://freedium-mirror.cfd/cachecowboy/rust-isnt-the-future-of-systems-programming-it-s-just-the-hype-cycle-29afd73ff871)
+* [2025-11-23, 04:22:41](https://news.ycombinator.com/item?id=46020730) - [Hardening the C++ Standard Library at scale](https://queue.acm.org/detail.cfm?id=3773097)
 * [2025-11-23, 04:16:55](https://news.ycombinator.com/item?id=46020701) - [Show HN: Wolfrominoes](https://demos.samgentle.com/wolfrominoes/)
 * [2025-11-23, 03:47:17](https://news.ycombinator.com/item?id=46020596) - [Cryptographers Held an Election. They Can't Decrypt the Results](https://www.nytimes.com/2025/11/21/world/cryptography-group-lost-election-results.html)
 * [2025-11-23, 03:38:22](https://news.ycombinator.com/item?id=46020564) - [The Definitive Classic Mac Pro (2006-2012) Upgrade Guide](https://blog.greggant.com/posts/2018/05/07/definitive-mac-pro-upgrade-guide.html)
