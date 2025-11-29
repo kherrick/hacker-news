@@ -7,6 +7,7 @@
 * [2025-11-29, 15:28:05](https://news.ycombinator.com/item?id=46088241) - [Copenhagenize Index 2025: The Global Ranking of Bicycle-Friendly Cities](https://copenhagenizeindex.eu/)
 * [2025-11-29, 15:26:58](https://news.ycombinator.com/item?id=46088236) - [Major AI conference flooded with peer reviews written by AI](https://www.nature.com/articles/d41586-025-03506-6)
 * [2025-11-29, 15:21:29](https://news.ycombinator.com/item?id=46088192) - [Iceland declares ocean-current instability a national security risk](https://www.dagens.com/news/iceland-declares-ocean-current-instability-a-national-security-risk)
+* [2025-11-29, 15:05:48](https://news.ycombinator.com/item?id=46088080) - [Israel has 'de facto state policy' of organised torture, says UN report](https://www.theguardian.com/world/2025/nov/29/israel-has-de-facto-state-policy-of-organised-torture-says-un-report)
 * [2025-11-29, 14:20:46](https://news.ycombinator.com/item?id=46087737) - [It's Always the Process, Stupid](https://its.promp.td/its-always-the-process-stupid/)
 * [2025-11-29, 14:05:53](https://news.ycombinator.com/item?id=46087616) - [Datacenters in space are a terrible, horrible, no good idea](https://taranis.ie/datacenters-in-space-are-a-terrible-horrible-no-good-idea/)
 * [2025-11-29, 14:02:23](https://news.ycombinator.com/item?id=46087596) - [DNS LOC Record](https://blog.cloudflare.com/the-weird-and-wonderful-world-of-dns-loc-records/)

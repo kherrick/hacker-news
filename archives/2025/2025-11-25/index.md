@@ -12,6 +12,7 @@
 * [2025-11-25, 22:08:25](https://news.ycombinator.com/item?id=46051393) - [What They Don't Tell You About Maintaining an Open Source Project](https://andrej.sh/blog/maintaining-open-source-project/)
 * [2025-11-25, 22:04:44](https://news.ycombinator.com/item?id=46051345) - [Ironwood, our latest TPU](https://blog.google/products/google-cloud/ironwood-google-tpu-things-to-know/)
 * [2025-11-25, 22:04:31](https://news.ycombinator.com/item?id=46051340) - [Someone at YouTube Needs Glasses: The Prophecy Has Been Fulfilled](https://jayd.ml/2025/11/10/someone-at-youtube-needs-glasses-prophecy-fulfilled.html)
+* [2025-11-25, 22:03:00](https://news.ycombinator.com/item?id=46051332) - [Building road signs at home using a Cricut Machine](https://annanay.dev/build-a-signboard/)
 * [2025-11-25, 21:45:01](https://news.ycombinator.com/item?id=46051169) - [Google steers Americans looking for health care into \"junk insurance\"](https://pluralistic.net/2025/11/25/open-season/)
 * [2025-11-25, 21:26:14](https://news.ycombinator.com/item?id=46050997) - [Stop Putting Your Passwords into Random Websites (Yes, Seriously, You Are the PR](https://labs.watchtowr.com/stop-putting-your-passwords-into-random-websites-yes-seriously-you-are-the-problem/)
 * [2025-11-25, 20:39:07](https://news.ycombinator.com/item?id=46050471) - [ZoomInfo CEO Blocks Researcher After Documenting Pre-Consent Biometric Tracking](https://github.com/clark-prog/blackout-public)
