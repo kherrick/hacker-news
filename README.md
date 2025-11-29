@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-11-29, 19:18:46](https://news.ycombinator.com/item?id=46090009) - [Ported freetype, fontconfig, harfbuzz, and graphite to Fil-C](https://twitter.com/filpizlo/status/1994563191528198653)
+* [2025-11-29, 19:14:13](https://news.ycombinator.com/item?id=46089980) - [Framework Computer Now Sponsoring LVFS / Fwupd Development](https://www.phoronix.com/news/Framework-Sponsoring-LVFS)
 * [2025-11-29, 18:19:29](https://news.ycombinator.com/item?id=46089579) - [An Update on the Farphone's Battery](https://far.computer/battery-update/)
 * [2025-11-29, 18:14:21](https://news.ycombinator.com/item?id=46089546) - [Student Perceptions of AI Coding Assistants in Learning](https://arxiv.org/abs/2507.22900)
 * [2025-11-29, 17:53:57](https://news.ycombinator.com/item?id=46089394) - [Zero Knowlege Proof of Compositeness](https://www.johndcook.com/blog/2025/11/29/zkp-composite/)
@@ -19,8 +20,7 @@
 * [2025-11-28, 22:21:25](https://news.ycombinator.com/item?id=46083303) - [Confessions of a Software Developer: No More Self-Censorship](https://kerrick.blog/articles/2025/confessions-of-a-software-developer-no-more-self-censorship/)
 * [2025-11-28, 21:40:21](https://news.ycombinator.com/item?id=46083004) - [Airbus A320 – intense solar radiation may corrupt data critical for flight](https://www.airbus.com/en/newsroom/press-releases/2025-11-airbus-update-on-a320-family-precautionary-fleet-action)
 * [2025-11-28, 18:15:50](https://news.ycombinator.com/item?id=46081188) - [Imgur geo-blocked the UK, so I geo-unblocked my network](https://blog.tymscar.com/posts/imgurukproxy/)
-* [2025-11-28, 16:54:56](https://news.ycombinator.com/item?id=46080364) - [So you wanna build a local RAG?](https://blog.yakkomajuri.com/blog/local-rag)
-* [2025-11-26, 12:20:04](https://news.ycombinator.com/item?id=46056715) - [Running a Business Means Contact with Reality](https://fredkozlowski.com/2025/11/02/running-a-business-means-contact-with-reality/)
+* [2025-11-26, 07:40:43](https://news.ycombinator.com/item?id=46055091) - [Plinko PIR Tutorial](https://vitalik.eth.limo/general/2025/11/25/plinko.html)
 * [2025-11-26, 07:03:27](https://news.ycombinator.com/item?id=46054879) - [Anthony Bourdain's Lost Li.st's](https://bourdain.greg.technology/)
 * [2025-11-25, 22:03:00](https://news.ycombinator.com/item?id=46051332) - [Building road signs at home using a Cricut Machine](https://annanay.dev/build-a-signboard/)
 * [2025-11-25, 12:34:25](https://news.ycombinator.com/item?id=46045207) - [WinApps: Run Windows apps as if they were a part of the native Linux OS](https://github.com/winapps-org/winapps)
