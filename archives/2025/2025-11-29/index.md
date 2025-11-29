@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2025-11-29](index.md)
 
+* [2025-11-29, 21:10:15](https://news.ycombinator.com/item?id=46090794) - [Europe's New War on Privacy](https://unherd.com/2025/11/europes-new-war-on-privacy/)
 * [2025-11-29, 20:44:24](https://news.ycombinator.com/item?id=46090619) - [Show HN: Nano PDF – A CLI Tool to Edit PDFs with Gemini's Nano Banana](https://github.com/gavrielc/Nano-PDF)
 * [2025-11-29, 20:22:44](https://news.ycombinator.com/item?id=46090433) - [All it takes is for one to work out](https://alearningaday.blog/2025/11/28/all-it-takes-is-for-one-to-work-out-2/)
+* [2025-11-29, 20:12:37](https://news.ycombinator.com/item?id=46090372) - [Baboon: Data Modeling with Automatic Evolutions and tagless binary codecs](https://github.com/7mind/baboon)
 * [2025-11-29, 20:06:54](https://news.ycombinator.com/item?id=46090330) - [FBI RFP for tool to scrape Gab, Parler, 8Kun, and Telegram (5k licenses) [pdf]](https://vault.fbi.gov/contract-15f06722c0000258)
 * [2025-11-29, 19:59:12](https://news.ycombinator.com/item?id=46090294) - [The Origins of Scala (2009)](https://www.artima.com/articles/the-origins-of-scala)
 * [2025-11-29, 19:55:17](https://news.ycombinator.com/item?id=46090269) - [Learning Feynman's Trick for Integrals](https://zackyzz.github.io/feynman.html)
