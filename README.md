@@ -26,7 +26,7 @@
 * [2025-11-28, 15:53:39](https://news.ycombinator.com/item?id=46079721) - [Can Dutch universities do without Microsoft?](https://dub.uu.nl/en/news/can-dutch-universities-do-without-microsoft)
 * [2025-11-28, 14:42:19](https://news.ycombinator.com/item?id=46079073) - [Language is primarily a tool for communication rather than thought (2024) [pdf]](https://gwern.net/doc/psychology/linguistics/2024-fedorenko.pdf)
 * [2025-11-26, 01:19:17](https://news.ycombinator.com/item?id=46053017) - [Space: 1999 – Special Effects Techniques](https://catacombs.space1999.net/main/pguide/upsfx.html)
-* [2025-11-24, 21:06:39](https://news.ycombinator.com/item?id=46039317) - [Atuin’s New Runbook Execution Engine](https://blog.atuin.sh/introducing-the-new-runbook-execution-engine/)
+* [2025-11-25, 03:33:03](https://news.ycombinator.com/item?id=46042074) - [How to get Pandoc to respect custom table styles in Word templates](https://johnathandos.com/posts/2025-11-24-custom-tables-with-pandoc/)
 * [2025-11-24, 14:06:40](https://news.ycombinator.com/item?id=46034255) - [Show HN: Mu – The Micro Network](https://github.com/asim/mu)
 * [2025-11-22, 17:49:17](https://news.ycombinator.com/item?id=46016634) - [I mathematically proved the best \"Guess Who?\" strategy [video]](https://www.youtube.com/watch?v=_3RNB8eOSx0)
 * [2025-11-21, 14:24:21](https://news.ycombinator.com/item?id=46004895) - [Show HN: Choose your own adventure style Presentation](https://github.com/Skarlso/adventure-voter)
