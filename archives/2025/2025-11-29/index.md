@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-11-29](index.md)
 
+* [2025-11-29, 17:00:23](https://news.ycombinator.com/item?id=46089008) - [AccessOwl (YC S22) Is Hiring a Technical Account Manager (IAM)](https://www.ycombinator.com/companies/accessowl/jobs/dGC3pcO-technical-account-manager-identity-access-management)
 * [2025-11-29, 15:28:05](https://news.ycombinator.com/item?id=46088241) - [Copenhagenize Index 2025: The Global Ranking of Bicycle-Friendly Cities](https://copenhagenizeindex.eu/)
 * [2025-11-29, 15:26:58](https://news.ycombinator.com/item?id=46088236) - [Major AI conference flooded with peer reviews written by AI](https://www.nature.com/articles/d41586-025-03506-6)
 * [2025-11-29, 15:21:29](https://news.ycombinator.com/item?id=46088192) - [Iceland declares ocean-current instability a national security risk](https://www.dagens.com/news/iceland-declares-ocean-current-instability-a-national-security-risk)
