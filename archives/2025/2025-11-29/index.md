@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-11-29](index.md)
 
+* [2025-11-29, 14:20:46](https://news.ycombinator.com/item?id=46087737) - [It's Always the Process, Stupid](https://its.promp.td/its-always-the-process-stupid/)
 * [2025-11-29, 13:56:04](https://news.ycombinator.com/item?id=46087549) - [Hachi: An Image Search Engine](https://eagledot.xyz/hachi.md.html)
 * [2025-11-29, 13:49:37](https://news.ycombinator.com/item?id=46087520) - [Quebec to ban public prayer in sweeping new secularism law](https://www.theguardian.com/world/2025/nov/28/quebec-prayer-law-canada)
 * [2025-11-29, 13:49:22](https://news.ycombinator.com/item?id=46087518) - [How ICE is becoming a secret police force](https://theconversation.com/how-ice-is-becoming-a-secret-police-force-under-the-trump-administration-255019)

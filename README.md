@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-11-29, 14:20:46](https://news.ycombinator.com/item?id=46087737) - [It's Always the Process, Stupid](https://its.promp.td/its-always-the-process-stupid/)
 * [2025-11-29, 13:56:04](https://news.ycombinator.com/item?id=46087549) - [Hachi: An Image Search Engine](https://eagledot.xyz/hachi.md.html)
-* [2025-11-29, 13:49:37](https://news.ycombinator.com/item?id=46087520) - [Quebec to ban public prayer in sweeping new secularism law](https://www.theguardian.com/world/2025/nov/28/quebec-prayer-law-canada)
 * [2025-11-29, 13:49:22](https://news.ycombinator.com/item?id=46087518) - [How ICE is becoming a secret police force](https://theconversation.com/how-ice-is-becoming-a-secret-police-force-under-the-trump-administration-255019)
 * [2025-11-29, 12:04:23](https://news.ycombinator.com/item?id=46086920) - [Show HN: I built Magiclip – an all-in-one AI studio](https://magiclip.io/)
 * [2025-11-29, 11:52:21](https://news.ycombinator.com/item?id=46086863) - [DMT-induced shifts in criticality correlate with self-dissolution](https://www.jneurosci.org/content/early/2025/10/24/JNEUROSCI.0344-25.2025)
@@ -24,10 +24,10 @@
 * [2025-11-26, 12:20:04](https://news.ycombinator.com/item?id=46056715) - [Running a Business Means Contact with Reality](https://fredkozlowski.com/2025/11/02/running-a-business-means-contact-with-reality/)
 * [2025-11-26, 07:03:27](https://news.ycombinator.com/item?id=46054879) - [Anthony Bourdain's Lost Li.st's](https://bourdain.greg.technology/)
 * [2025-11-25, 12:34:25](https://news.ycombinator.com/item?id=46045207) - [WinApps: Run Windows apps as if they were a part of the native Linux OS](https://github.com/winapps-org/winapps)
+* [2025-11-25, 07:43:39](https://news.ycombinator.com/item?id=46043318) - [Build Your Own Router with URLPattern()](https://jschof.dev/posts/2025/11/build-your-own-router/)
 * [2025-11-24, 20:29:21](https://news.ycombinator.com/item?id=46038868) - [How stealth addresses work in Monero](https://www.johndcook.com/blog/2025/11/24/monero-stealth-addresses/)
 * [2025-11-24, 18:05:08](https://news.ycombinator.com/item?id=46037031) - [Show HN: Explore what the browser exposes about you](https://neberej.github.io/exposedbydefault/)
 * [2025-11-24, 15:27:53](https://news.ycombinator.com/item?id=46035126) - [WebR – R in the Browser](https://webr.sh/)
-* [2025-11-24, 14:06:40](https://news.ycombinator.com/item?id=46034255) - [Show HN: Mu – The Micro Network](https://github.com/asim/mu)
 * [2025-11-22, 08:51:08](https://news.ycombinator.com/item?id=46013269) - [The risk of round numbers and sharp thresholds in clinical practice](https://www.nature.com/articles/s41746-025-02079-y)
 * [2025-11-21, 14:24:21](https://news.ycombinator.com/item?id=46004895) - [Show HN: Choose your own adventure style Presentation](https://github.com/Skarlso/adventure-voter)
 
