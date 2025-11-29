@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-11-29](index.md)
 
+* [2025-11-29, 21:49:20](https://news.ycombinator.com/item?id=46091100) - [Copper Thieves Are Wreaking Havoc Across America](https://www.wsj.com/business/telecom/copper-thieves-are-wreaking-havoc-across-america-9135906f)
 * [2025-11-29, 21:30:53](https://news.ycombinator.com/item?id=46090969) - [Landlock-Ing Linux](https://blog.prizrak.me/post/landlock/)
 * [2025-11-29, 21:10:15](https://news.ycombinator.com/item?id=46090794) - [Europe's New War on Privacy](https://unherd.com/2025/11/europes-new-war-on-privacy/)
 * [2025-11-29, 20:44:24](https://news.ycombinator.com/item?id=46090619) - [Show HN: Nano PDF – A CLI Tool to Edit PDFs with Gemini's Nano Banana](https://github.com/gavrielc/Nano-PDF)
