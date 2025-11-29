@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-11-29, 11:52:21](https://news.ycombinator.com/item?id=46086863) - [DMT-induced shifts in criticality correlate with self-dissolution](https://www.jneurosci.org/content/early/2025/10/24/JNEUROSCI.0344-25.2025)
 * [2025-11-29, 11:31:58](https://news.ycombinator.com/item?id=46086771) - [Leak confirms OpenAI is preparing ads on ChatGPT for public roll out](https://www.bleepingcomputer.com/news/artificial-intelligence/leak-confirms-openai-is-preparing-ads-on-chatgpt-for-public-roll-out/)
 * [2025-11-29, 11:10:39](https://news.ycombinator.com/item?id=46086681) - [Belgian Police exposed using botnets to manipulate EU data law impact assessment](https://old.reddit.com/r/europe/comments/1p9kxhm/belgian_federal_police_forgot_to_turn_their_vpn/)
 * [2025-11-29, 10:54:16](https://news.ycombinator.com/item?id=46086624) - [High Air Pollution Could Diminish Exercise Benefits by 50%, Study Finds](https://scienceclock.com/exercise-may-protect-less-when-air-pollution-is-high-study-finds/)
@@ -8,7 +9,6 @@
 * [2025-11-29, 03:26:01](https://news.ycombinator.com/item?id=46084956) - [System 7 natively boots on the Mac mini G4](https://macos9lives.com/smforum/index.php?topic=7711.0)
 * [2025-11-29, 01:37:42](https://news.ycombinator.com/item?id=46084535) - [Every mathematician has only a few tricks (2020)](https://mathoverflow.net/questions/363119/every-mathematician-has-only-a-few-tricks)
 * [2025-11-29, 00:26:42](https://news.ycombinator.com/item?id=46084122) - [A triangle whose interior angles sum to zero](https://www.johndcook.com/blog/2025/11/28/tricusp-triangle/)
-* [2025-11-28, 22:32:03](https://news.ycombinator.com/item?id=46083375) - [Fabric Project](https://github.com/Fabric-Project/Fabric)
 * [2025-11-28, 22:21:25](https://news.ycombinator.com/item?id=46083303) - [Confessions of a Software Developer: No More Self-Censorship](https://kerrick.blog/articles/2025/confessions-of-a-software-developer-no-more-self-censorship/)
 * [2025-11-28, 21:46:07](https://news.ycombinator.com/item?id=46083051) - [A first look at Django's new background tasks](https://roam.be/notes/2025/a-first-look-at-djangos-new-background-tasks/)
 * [2025-11-28, 21:40:21](https://news.ycombinator.com/item?id=46083004) - [Airbus A320 – intense solar radiation may corrupt data critical for flight](https://www.airbus.com/en/newsroom/press-releases/2025-11-airbus-update-on-a320-family-precautionary-fleet-action)
@@ -20,7 +20,6 @@
 * [2025-11-28, 16:54:56](https://news.ycombinator.com/item?id=46080364) - [So you wanna build a local RAG?](https://blog.yakkomajuri.com/blog/local-rag)
 * [2025-11-28, 16:49:12](https://news.ycombinator.com/item?id=46080289) - [Airloom – 3D Flight Tracker](https://objectiveunclear.com/airloom.html)
 * [2025-11-28, 16:35:24](https://news.ycombinator.com/item?id=46080143) - [True P2P Email on Top of Yggdrasil Network](https://github.com/JB-SelfCompany/Tyr)
-* [2025-11-28, 16:01:01](https://news.ycombinator.com/item?id=46079785) - [Don't tug on that, you never know what it might be attached to (2016)](https://blog.plover.com/2016/07/01/#tmpdir)
 * [2025-11-28, 14:42:19](https://news.ycombinator.com/item?id=46079073) - [Language is primarily a tool for communication rather than thought (2024) [pdf]](https://gwern.net/doc/psychology/linguistics/2024-fedorenko.pdf)
 * [2025-11-26, 07:03:27](https://news.ycombinator.com/item?id=46054879) - [Show HN: Anthony Bourdain's Lost Li.st's](https://bourdain.greg.technology/)
 * [2025-11-25, 12:34:25](https://news.ycombinator.com/item?id=46045207) - [WinApps: Run Windows apps as if they were a part of the native Linux OS](https://github.com/winapps-org/winapps)
@@ -28,6 +27,7 @@
 * [2025-11-24, 18:05:08](https://news.ycombinator.com/item?id=46037031) - [Show HN: Explore what the browser exposes about you](https://neberej.github.io/exposedbydefault/)
 * [2025-11-24, 15:27:53](https://news.ycombinator.com/item?id=46035126) - [WebR – R in the Browser](https://webr.sh/)
 * [2025-11-24, 14:06:40](https://news.ycombinator.com/item?id=46034255) - [Show HN: Mu – The Micro Network](https://github.com/asim/mu)
+* [2025-11-22, 17:49:17](https://news.ycombinator.com/item?id=46016634) - [I mathematically proved the best \"Guess Who?\" strategy [video]](https://www.youtube.com/watch?v=_3RNB8eOSx0)
 * [2025-11-22, 08:51:08](https://news.ycombinator.com/item?id=46013269) - [The risk of round numbers and sharp thresholds in clinical practice](https://www.nature.com/articles/s41746-025-02079-y)
 * [2025-11-21, 14:24:21](https://news.ycombinator.com/item?id=46004895) - [Show HN: Choose your own adventure style Presentation](https://github.com/Skarlso/adventure-voter)
 
