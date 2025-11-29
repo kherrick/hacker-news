@@ -10,6 +10,7 @@
 * [2025-11-29, 19:18:46](https://news.ycombinator.com/item?id=46090009) - [Ported freetype, fontconfig, harfbuzz, and graphite to Fil-C](https://twitter.com/filpizlo/status/1994563191528198653)
 * [2025-11-29, 19:14:13](https://news.ycombinator.com/item?id=46089980) - [Framework Computer Now Sponsoring LVFS / Fwupd Development](https://www.phoronix.com/news/Framework-Sponsoring-LVFS)
 * [2025-11-29, 19:12:48](https://news.ycombinator.com/item?id=46089971) - [Electric vehicle sales are booming in South America – without Tesla](https://www.reuters.com/sustainability/climate-energy/electric-vehicle-sales-are-booming-south-america-without-tesla-2025-11-17/)
+* [2025-11-29, 18:45:49](https://news.ycombinator.com/item?id=46089764) - [Show HN: Zero-power photonic language model–code](https://zenodo.org/records/17764289)
 * [2025-11-29, 18:19:29](https://news.ycombinator.com/item?id=46089579) - [An Update on the Farphone's Battery](https://far.computer/battery-update/)
 * [2025-11-29, 18:14:21](https://news.ycombinator.com/item?id=46089546) - [Student Perceptions of AI Coding Assistants in Learning](https://arxiv.org/abs/2507.22900)
 * [2025-11-29, 17:53:57](https://news.ycombinator.com/item?id=46089394) - [Zero Knowlege Proof of Compositeness](https://www.johndcook.com/blog/2025/11/29/zkp-composite/)
