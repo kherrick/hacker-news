@@ -52,6 +52,7 @@
 * [2025-11-21, 15:04:01](https://news.ycombinator.com/item?id=46005237) - [The Weird and Wonderful Chemistry of Audioactive Decay (1986) [pdf]](https://static01.nyt.com/packages/pdf/crossword/GENIUS_AT_PLAY_Eureka_Article.pdf)
 * [2025-11-21, 14:52:36](https://news.ycombinator.com/item?id=46005130) - [Is C++26 getting destructive move semantics?](https://stackoverflow.com/questions/79817124/is-c26-getting-destructive-move-semantics)
 * [2025-11-21, 14:50:36](https://news.ycombinator.com/item?id=46005111) - [We should all be using dependency cooldowns](https://blog.yossarian.net/2025/11/21/We-should-all-be-using-dependency-cooldowns)
+* [2025-11-21, 14:24:21](https://news.ycombinator.com/item?id=46004895) - [Show HN: Choose your own adventure style Presentation](https://github.com/Skarlso/adventure-voter)
 * [2025-11-21, 13:44:12](https://news.ycombinator.com/item?id=46004541) - [More tales about outages and numeric limits](https://rachelbythebay.com/w/2025/11/18/down/)
 * [2025-11-21, 13:42:33](https://news.ycombinator.com/item?id=46004519) - [Inflatable Space Stations](https://worksinprogress.co/issue/inflatable-space-stations/)
 * [2025-11-21, 13:30:36](https://news.ycombinator.com/item?id=46004386) - [Building a Minimal Viable Armv7 Emulator from Scratch](https://xnacly.me/posts/2025/building-a-minimal-viable-armv7-emulator/)
