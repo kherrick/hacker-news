@@ -63,5 +63,6 @@
 * [2025-11-27, 01:20:33](https://news.ycombinator.com/item?id=46064367) - [bonsai_term: A library for building dynamic terminal apps by Jane Street](https://github.com/janestreet/bonsai_term)
 * [2025-11-27, 01:18:22](https://news.ycombinator.com/item?id=46064352) - [Solar's growth in US almost enough to offset rising energy use](https://arstechnica.com/science/2025/11/solars-growth-in-us-almost-enough-to-offset-rising-energy-use/)
 * [2025-11-27, 00:42:13](https://news.ycombinator.com/item?id=46064065) - [DSP 101 Part 1: An Introductory Course in DSP System Design](https://www.analog.com/en/resources/analog-dialogue/articles/dsp-101-part-1.html)
+* [2025-11-27, 00:25:53](https://news.ycombinator.com/item?id=46063955) - [The weirdest tool I own is also one of the most useful](https://www.zdnet.com/article/the-weirdest-tool-i-own-is-also-one-of-the-most-useful-and-its-14-on-amazon/)
 * [2025-11-27, 00:20:37](https://news.ycombinator.com/item?id=46063915) - [AdBlock and Signal are for terrorists, according to the French government [video]](https://www.youtube.com/watch?v=1q1hjmwLqe4)
 * [2025-11-27, 00:07:49](https://news.ycombinator.com/item?id=46063819) - [Crypto hoarders dump tokens as shares tumble](https://arstechnica.com/information-technology/2025/11/crypto-hoarders-dump-tokens-as-shares-tumble/)

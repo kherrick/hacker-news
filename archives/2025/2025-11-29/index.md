@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-11-29](index.md)
 
+* [2025-11-29, 05:22:13](https://news.ycombinator.com/item?id=46085344) - [The 'S&P 493' reveals a different U.S. economy](https://www.msn.com/en-us/money/markets/the-s-p-493-reveals-a-very-different-us-economy/ar-AA1R1VUJ)
 * [2025-11-29, 03:26:01](https://news.ycombinator.com/item?id=46084956) - [System 7 natively boots on the Mac mini G4](https://macos9lives.com/smforum/index.php?topic=7711.0)
 * [2025-11-29, 03:21:47](https://news.ycombinator.com/item?id=46084937) - [Neato vacuum robots to stop working](https://support.neatorobotics.com/support/solutions/articles/204000073686-announcement-6th-oct-2025)
 * [2025-11-29, 01:37:42](https://news.ycombinator.com/item?id=46084535) - [Every mathematician has only a few tricks](https://mathoverflow.net/questions/363119/every-mathematician-has-only-a-few-tricks)
