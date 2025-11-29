@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-11-29](index.md)
 
+* [2025-11-29, 18:19:29](https://news.ycombinator.com/item?id=46089579) - [An Update on the Farphone's Battery](https://far.computer/battery-update/)
+* [2025-11-29, 17:53:57](https://news.ycombinator.com/item?id=46089394) - [Zero Knowlege Proof of Compositeness](https://www.johndcook.com/blog/2025/11/29/zkp-composite/)
 * [2025-11-29, 17:00:23](https://news.ycombinator.com/item?id=46089008) - [AccessOwl (YC S22) Is Hiring a Technical Account Manager (IAM)](https://www.ycombinator.com/companies/accessowl/jobs/dGC3pcO-technical-account-manager-identity-access-management)
 * [2025-11-29, 16:58:58](https://news.ycombinator.com/item?id=46088998) - [We're learning more about what Vitamin D does to our bodies](https://www.technologyreview.com/2025/11/21/1128206/vitamin-d-bodies-bone-health-immune/)
 * [2025-11-29, 15:43:58](https://news.ycombinator.com/item?id=46088379) - [Testing Shows Automotive Glassbreakers Can't Break Modern Automotive Glass](https://www.core77.com/posts/138925/Testing-Shows-Automotive-Glassbreakers-Cant-Break-Modern-Automotive-Glass)

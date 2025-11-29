@@ -71,6 +71,7 @@
 * [2025-11-24, 10:16:59](https://news.ycombinator.com/item?id=46032371) - [AltSendme: Another Alternative to MAgic Wormhole?](https://github.com/tonyantony300/alt-sendme)
 * [2025-11-24, 09:51:45](https://news.ycombinator.com/item?id=46032230) - [A fast EDN (Extensible Data Notation) reader written in C11 with SIMD boost](https://github.com/DotFox/edn.c)
 * [2025-11-24, 09:40:32](https://news.ycombinator.com/item?id=46032148) - [Fifty Shades of OOP](https://lesleylai.info/en/fifty_shades_of_oop/)
+* [2025-11-24, 09:30:40](https://news.ycombinator.com/item?id=46032074) - [Show HN: Network Monitor – a GUI to spot anomalous connections on your Linux](https://news.ycombinator.com/item?id=46032074)
 * [2025-11-24, 08:30:00](https://news.ycombinator.com/item?id=46031664) - [Ruby Was Ready from the Start](https://obie.medium.com/ruby-was-ready-from-the-start-4b089b17babb)
 * [2025-11-24, 08:10:11](https://news.ycombinator.com/item?id=46031552) - [Quake Engine Indicators](https://fabiensanglard.net/quake_indicators/index.html)
 * [2025-11-24, 07:14:55](https://news.ycombinator.com/item?id=46031220) - [Build a Compiler in Five Projects](https://kmicinski.com/functional-programming/2025/11/23/build-a-language/)
