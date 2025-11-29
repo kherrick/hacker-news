@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-11-29, 20:44:24",
+      "https://news.ycombinator.com/item?id=46090619"
+    ],
+    [
+      "Show HN: Nano PDF – A CLI Tool to Edit PDFs with Gemini's Nano Banana",
+      "https://github.com/gavrielc/Nano-PDF"
+    ]
+  ],
+  [
+    [
       "2025-11-29, 20:22:44",
       "https://news.ycombinator.com/item?id=46090433"
     ],
@@ -121,16 +131,6 @@
   ],
   [
     [
-      "2025-11-29, 14:20:46",
-      "https://news.ycombinator.com/item?id=46087737"
-    ],
-    [
-      "It's Always the Process, Stupid",
-      "https://its.promp.td/its-always-the-process-stupid/"
-    ]
-  ],
-  [
-    [
       "2025-11-29, 14:02:23",
       "https://news.ycombinator.com/item?id=46087596"
     ],
@@ -157,16 +157,6 @@
     [
       "The CRDT Dictionary: A Field Guide to Conflict-Free Replicated Data Types",
       "https://www.iankduncan.com/engineering/2025-11-27-crdt-dictionary/"
-    ]
-  ],
-  [
-    [
-      "2025-11-29, 06:37:05",
-      "https://news.ycombinator.com/item?id=46085585"
-    ],
-    [
-      "Garfield's Proof of the Pythagorean Theorem",
-      "https://en.wikipedia.org/wiki/Garfield%27s_proof_of_the_Pythagorean_theorem"
     ]
   ],
   [
@@ -207,6 +197,16 @@
     [
       "Rare X-ray images of a 4.5-ton satellite that returned intact from space",
       "https://www.empa.ch/web/s604/eureca-satellit-mit-roentgenmethoden-untersucht"
+    ]
+  ],
+  [
+    [
+      "2025-11-26, 13:22:46",
+      "https://news.ycombinator.com/item?id=46057141"
+    ],
+    [
+      "Post-mortem of Shai-Hulud attack on November 24th, 2025",
+      "https://posthog.com/blog/nov-24-shai-hulud-attack-post-mortem"
     ]
   ],
   [
