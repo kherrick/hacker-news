@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-11-29](index.md)
 
+* [2025-11-29, 19:18:46](https://news.ycombinator.com/item?id=46090009) - [Ported freetype, fontconfig, harfbuzz, and graphite to Fil-C](https://twitter.com/filpizlo/status/1994563191528198653)
 * [2025-11-29, 18:19:29](https://news.ycombinator.com/item?id=46089579) - [An Update on the Farphone's Battery](https://far.computer/battery-update/)
 * [2025-11-29, 18:14:21](https://news.ycombinator.com/item?id=46089546) - [Student Perceptions of AI Coding Assistants in Learning](https://arxiv.org/abs/2507.22900)
 * [2025-11-29, 17:53:57](https://news.ycombinator.com/item?id=46089394) - [Zero Knowlege Proof of Compositeness](https://www.johndcook.com/blog/2025/11/29/zkp-composite/)
@@ -14,6 +15,7 @@
 * [2025-11-29, 15:28:05](https://news.ycombinator.com/item?id=46088241) - [Copenhagenize Index 2025: The Global Ranking of Bicycle-Friendly Cities](https://copenhagenizeindex.eu/)
 * [2025-11-29, 15:26:58](https://news.ycombinator.com/item?id=46088236) - [Major AI conference flooded with peer reviews written by AI](https://www.nature.com/articles/d41586-025-03506-6)
 * [2025-11-29, 15:21:29](https://news.ycombinator.com/item?id=46088192) - [Iceland declares ocean-current instability a national security risk](https://www.dagens.com/news/iceland-declares-ocean-current-instability-a-national-security-risk)
+* [2025-11-29, 15:21:29](https://news.ycombinator.com/item?id=46088192) - [Iceland declares ocean-current instability a national security risk](https://edition.cnn.com/2025/11/15/climate/iceland-warming-current-amoc-collapse-threat)
 * [2025-11-29, 15:05:48](https://news.ycombinator.com/item?id=46088080) - [Israel has 'de facto state policy' of organised torture, says UN report](https://www.theguardian.com/world/2025/nov/29/israel-has-de-facto-state-policy-of-organised-torture-says-un-report)
 * [2025-11-29, 14:20:46](https://news.ycombinator.com/item?id=46087737) - [It's Always the Process, Stupid](https://its.promp.td/its-always-the-process-stupid/)
 * [2025-11-29, 14:05:53](https://news.ycombinator.com/item?id=46087616) - [Datacenters in space are a terrible, horrible, no good idea](https://taranis.ie/datacenters-in-space-are-a-terrible-horrible-no-good-idea/)
