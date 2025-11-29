@@ -43,6 +43,7 @@
 * [2025-11-25, 14:18:01](https://news.ycombinator.com/item?id=46045972) - [Apt Rust requirement raises questions](https://lwn.net/SubscriberLink/1046841/5bbf1fc049a18947/)
 * [2025-11-25, 13:38:12](https://news.ycombinator.com/item?id=46045661) - [Brain has five 'eras' – with adult mode not starting until early 30s](https://www.theguardian.com/science/2025/nov/25/brain-human-cognitive-development-life-stages-cambridge-study)
 * [2025-11-25, 13:02:06](https://news.ycombinator.com/item?id=46045385) - [Constant-time support coming to LLVM: Protecting cryptographic code](https://blog.trailofbits.com/2025/11/25/constant-time-support-coming-to-llvm-protecting-cryptographic-code-at-the-compiler-level/)
+* [2025-11-25, 12:34:25](https://news.ycombinator.com/item?id=46045207) - [WinApps: Run Windows apps as if they were a part of the native Linux OS](https://github.com/winapps-org/winapps)
 * [2025-11-25, 12:14:11](https://news.ycombinator.com/item?id=46045085) - [Trillions Spent and Big Software Projects Are Still Failing](https://spectrum.ieee.org/it-management-software-failures)
 * [2025-11-25, 12:05:39](https://news.ycombinator.com/item?id=46045039) - [Making Crash Bandicoot (2011)](https://all-things-andy-gavin.com/video-games/making-crash/)
 * [2025-11-25, 09:17:43](https://news.ycombinator.com/item?id=46043972) - [Show HN: I built the literal Duolingo Killer](https://kanjieight.vercel.app/)
