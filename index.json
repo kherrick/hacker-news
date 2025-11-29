@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-11-29, 00:26:42",
+      "https://news.ycombinator.com/item?id=46084122"
+    ],
+    [
+      "A triangle whose interior angles sum to zero",
+      "https://www.johndcook.com/blog/2025/11/28/tricusp-triangle/"
+    ]
+  ],
+  [
+    [
+      "2025-11-28, 23:24:16",
+      "https://news.ycombinator.com/item?id=46083730"
+    ],
+    [
+      "The Fatal Trap UBI Boosters Keep Falling Into",
+      "https://thereader.mitpress.mit.edu/the-fatal-trap-ubi-boosters-keep-falling-into/"
+    ]
+  ],
+  [
+    [
       "2025-11-28, 22:32:03",
       "https://news.ycombinator.com/item?id=46083375"
     ],
@@ -61,16 +81,6 @@
   ],
   [
     [
-      "2025-11-28, 20:58:15",
-      "https://news.ycombinator.com/item?id=46082711"
-    ],
-    [
-      "Ask HN: What is the purpose of all these AI spam comments?",
-      "https://news.ycombinator.com/item?id=46082711"
-    ]
-  ],
-  [
-    [
       "2025-11-28, 19:59:32",
       "https://news.ycombinator.com/item?id=46082223"
     ],
@@ -115,7 +125,7 @@
       "https://news.ycombinator.com/item?id=46081188"
     ],
     [
-      "Imgur Geo-Blocked the UK, So I Geo-Unblocked My Network",
+      "Imgur geo-blocked the UK, so I geo-unblocked my network",
       "https://blog.tymscar.com/posts/imgurukproxy/"
     ]
   ],
@@ -147,6 +157,16 @@
     [
       "JSON Schema Demystified: Dialects, Vocabularies and Metaschemas",
       "https://www.iankduncan.com/engineering/2025-11-24-json-schema-demystified/"
+    ]
+  ],
+  [
+    [
+      "2025-11-28, 17:30:41",
+      "https://news.ycombinator.com/item?id=46080737"
+    ],
+    [
+      "Show HN: An LLM-Powered Tool to Catch PCB Schematic Mistakes",
+      "https://netlist.io/"
     ]
   ],
   [
@@ -211,16 +231,6 @@
   ],
   [
     [
-      "2025-11-28, 16:09:50",
-      "https://news.ycombinator.com/item?id=46079868"
-    ],
-    [
-      "Meta hiding $27B in debt using advanced geometry",
-      "https://stohl.substack.com/p/exclusive-credit-report-shows-meta"
-    ]
-  ],
-  [
-    [
       "2025-11-28, 16:01:01",
       "https://news.ycombinator.com/item?id=46079785"
     ],
@@ -241,22 +251,12 @@
   ],
   [
     [
-      "2025-11-28, 09:21:55",
-      "https://news.ycombinator.com/item?id=46077038"
+      "2025-11-26, 01:19:17",
+      "https://news.ycombinator.com/item?id=46053017"
     ],
     [
-      "Tech Titans Amass Multimillion-Dollar War Chests to Fight AI Regulation",
-      "https://www.wsj.com/tech/ai/tech-titans-amass-multimillion-dollar-war-chests-to-fight-ai-regulation-88c600e1"
-    ]
-  ],
-  [
-    [
-      "2025-11-25, 17:40:05",
-      "https://news.ycombinator.com/item?id=46048327"
-    ],
-    [
-      "DJI ROMO robot vacuum [video]",
-      "https://www.youtube.com/watch?v=Iv7BYURURRI"
+      "Space: 1999 – Special Effects Techniques",
+      "https://catacombs.space1999.net/main/pguide/upsfx.html"
     ]
   ],
   [
@@ -271,12 +271,12 @@
   ],
   [
     [
-      "2025-11-23, 23:54:55",
-      "https://news.ycombinator.com/item?id=46028649"
+      "2025-11-24, 10:16:59",
+      "https://news.ycombinator.com/item?id=46032371"
     ],
     [
-      "Generalizing Printf in C",
-      "https://webb.is-a.dev/articles/generalizedprintf/"
+      "AltSendme: Another Alternative to MAgic Wormhole?",
+      "https://github.com/tonyantony300/alt-sendme"
     ]
   ],
   [
