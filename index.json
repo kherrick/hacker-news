@@ -25,7 +25,7 @@
       "https://news.ycombinator.com/item?id=46087596"
     ],
     [
-      "DNS LOC Record",
+      "DNS LOC Record (2014)",
       "https://blog.cloudflare.com/the-weird-and-wonderful-world-of-dns-loc-records/"
     ]
   ],
@@ -37,6 +37,26 @@
     [
       "Hachi: An Image Search Engine",
       "https://eagledot.xyz/hachi.md.html"
+    ]
+  ],
+  [
+    [
+      "2025-11-29, 12:26:54",
+      "https://news.ycombinator.com/item?id=46087029"
+    ],
+    [
+      "Chainalysis Successful Deanonymization Attack on Monero",
+      "https://darkwebinformer.com/chainalysis-successful-deanonymization-attack-on-monero-2/"
+    ]
+  ],
+  [
+    [
+      "2025-11-29, 12:25:35",
+      "https://news.ycombinator.com/item?id=46087022"
+    ],
+    [
+      "The CRDT Dictionary: A Field Guide to Conflict-Free Replicated Data Types",
+      "https://www.iankduncan.com/engineering/2025-11-27-crdt-dictionary/"
     ]
   ],
   [
@@ -151,32 +171,12 @@
   ],
   [
     [
-      "2025-11-28, 19:58:13",
-      "https://news.ycombinator.com/item?id=46082204"
-    ],
-    [
-      "The original ABC language, Python's predecessor (1991)",
-      "https://github.com/gvanrossum/abc-unix"
-    ]
-  ],
-  [
-    [
       "2025-11-28, 18:15:50",
       "https://news.ycombinator.com/item?id=46081188"
     ],
     [
       "Imgur geo-blocked the UK, so I geo-unblocked my network",
       "https://blog.tymscar.com/posts/imgurukproxy/"
-    ]
-  ],
-  [
-    [
-      "2025-11-28, 18:02:04",
-      "https://news.ycombinator.com/item?id=46081053"
-    ],
-    [
-      "28M Hacker News comments as vector embedding search dataset",
-      "https://clickhouse.com/docs/getting-started/example-datasets/hackernews-vector-search-dataset"
     ]
   ],
   [
