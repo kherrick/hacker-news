@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-11-29, 21:49:20](https://news.ycombinator.com/item?id=46091100) - [Copper Thieves Are Wreaking Havoc Across America](https://www.wsj.com/business/telecom/copper-thieves-are-wreaking-havoc-across-america-9135906f)
 * [2025-11-29, 21:30:53](https://news.ycombinator.com/item?id=46090969) - [Landlock-Ing Linux](https://blog.prizrak.me/post/landlock/)
 * [2025-11-29, 21:10:15](https://news.ycombinator.com/item?id=46090794) - [Europe's New War on Privacy](https://unherd.com/2025/11/europes-new-war-on-privacy/)
 * [2025-11-29, 20:44:24](https://news.ycombinator.com/item?id=46090619) - [Show HN: Nano PDF – A CLI Tool to Edit PDFs with Gemini's Nano Banana](https://github.com/gavrielc/Nano-PDF)
@@ -18,6 +17,7 @@
 * [2025-11-29, 14:02:23](https://news.ycombinator.com/item?id=46087596) - [DNS LOC Record (2014)](https://blog.cloudflare.com/the-weird-and-wonderful-world-of-dns-loc-records/)
 * [2025-11-29, 13:56:04](https://news.ycombinator.com/item?id=46087549) - [Hachi: An Image Search Engine](https://eagledot.xyz/hachi.md.html)
 * [2025-11-29, 12:25:35](https://news.ycombinator.com/item?id=46087022) - [The CRDT Dictionary: A Field Guide to Conflict-Free Replicated Data Types](https://www.iankduncan.com/engineering/2025-11-27-crdt-dictionary/)
+* [2025-11-29, 06:37:05](https://news.ycombinator.com/item?id=46085585) - [Garfield's Proof of the Pythagorean Theorem](https://en.wikipedia.org/wiki/Garfield%27s_proof_of_the_Pythagorean_theorem)
 * [2025-11-28, 13:57:43](https://news.ycombinator.com/item?id=46078684) - [An update on the Farphone's battery](https://far.computer/battery-update/)
 * [2025-11-27, 17:13:51](https://news.ycombinator.com/item?id=46071221) - [Blender facial animation tool. What else should it do?](https://github.com/shun126/livelinkface_arkit_receiver/wiki)
 * [2025-11-26, 18:02:45](https://news.ycombinator.com/item?id=46060432) - [Rare X-ray images of a 4.5-ton satellite that returned intact from space](https://www.empa.ch/web/s604/eureca-satellit-mit-roentgenmethoden-untersucht)
