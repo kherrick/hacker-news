@@ -58,5 +58,6 @@
 * [2025-11-25, 06:09:05](https://news.ycombinator.com/item?id=46042810) - [Jakarta is now the biggest city in the world](https://www.axios.com/2025/11/24/jakarta-tokyo-worlds-biggest-city-population)
 * [2025-11-25, 06:07:34](https://news.ycombinator.com/item?id=46042800) - [Why I (Still) Love Linux ?](https://it-notes.dragas.net/2025/11/24/why-i-still-love-linux/)
 * [2025-11-25, 05:33:44](https://news.ycombinator.com/item?id=46042655) - [Windows GUI – Good, Bad and Pretty Ugly (2023)](https://creolened.com/windows-gui-good-bad-and-pretty-ugly-ranked/)
+* [2025-11-25, 05:20:09](https://news.ycombinator.com/item?id=46042597) - [The Druridge Bay Ruin [video]](https://www.youtube.com/watch?v=mCceufLwJxU)
 * [2025-11-25, 05:18:14](https://news.ycombinator.com/item?id=46042581) - [How I talk to whales](https://www.nytimes.com/2025/11/23/opinion/whale-language-ai.html)
 * [2025-11-25, 03:33:03](https://news.ycombinator.com/item?id=46042074) - [How to get Pandoc to respect custom table styles in Word templates](https://johnathandos.com/posts/2025-11-24-custom-tables-with-pandoc/)
