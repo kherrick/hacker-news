@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-11-30](index.md)
 
+* [2025-11-30, 23:21:32](https://news.ycombinator.com/item?id=46101492) - [Algorithms for Optimization [pdf]](https://algorithmsbook.com/optimization/files/optimization.pdf)
 * [2025-11-30, 22:05:07](https://news.ycombinator.com/item?id=46100892) - [A Love Letter to FreeBSD](https://www.tara.sh/posts/2025/2025-11-25_freebsd_letter/)
 * [2025-11-30, 21:30:51](https://news.ycombinator.com/item?id=46100637) - [Ty](https://docs.astral.sh/ty/)
 * [2025-11-30, 21:24:22](https://news.ycombinator.com/item?id=46100566) - [Stackoverflow Outage](https://www.stackstatus.net/)
