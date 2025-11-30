@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-11-30](index.md)
 
+* [2025-11-30, 03:46:35](https://news.ycombinator.com/item?id=46093473) - [Show HN: Boing](https://boing.greg.technology/)
 * [2025-11-30, 01:33:27](https://news.ycombinator.com/item?id=46092688) - [Tell HN: Regrets. Think carefully about how you spend your time](https://news.ycombinator.com/item?id=46092688)
 * [2025-11-30, 01:25:43](https://news.ycombinator.com/item?id=46092630) - [Stopping bad guys from using my open source project (feedback wanted)](https://evanhahn.com/stopping-bad-guys-from-using-my-open-source-project/)
 * [2025-11-30, 01:15:59](https://news.ycombinator.com/item?id=46092558) - [Meshtastic](https://meshtastic.org/)
