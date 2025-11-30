@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-11-30, 10:03:31](https://news.ycombinator.com/item?id=46095363) - [Silicon Valley's Man in the White House Is Benefiting Himself and His Friends](https://www.nytimes.com/2025/11/30/technology/david-sacks-white-house-profits.html)
+* [2025-11-30, 10:47:27](https://news.ycombinator.com/item?id=46095585) - [CachyOS: Fast and Customizable Linux Distribution](https://cachyos.org/)
+* [2025-11-30, 10:32:45](https://news.ycombinator.com/item?id=46095521) - [Austria's armed forces rely on LibreOffice instead of Microsoft](https://oe1.orf.at/programm/20250916/807304/Freie-Software-fuer-das-Bundesheer)
 * [2025-11-30, 07:00:40](https://news.ycombinator.com/item?id=46094478) - [Jiga (YC W21) Is Hiring Product Designer](https://www.ycombinator.com/companies/jiga/jobs/Cco7vyK-product-designer-remote-europe)
 * [2025-11-30, 06:57:36](https://news.ycombinator.com/item?id=46094465) - [The Copenhagen Trap: How the West made passivity the only safe strategy](https://aliveness.kunnas.com/articles/copenhagen-trap)
 * [2025-11-30, 03:54:51](https://news.ycombinator.com/item?id=46093518) - [Zigbook Is Plagiarizing the Zigtools Playground](https://zigtools.org/blog/zigbook-plagiarizing-playground/)
 * [2025-11-30, 03:46:35](https://news.ycombinator.com/item?id=46093473) - [Show HN: Boing](https://boing.greg.technology/)
-* [2025-11-30, 01:25:43](https://news.ycombinator.com/item?id=46092630) - [Stopping bad guys from using my open source project (feedback wanted)](https://evanhahn.com/stopping-bad-guys-from-using-my-open-source-project/)
 * [2025-11-30, 01:15:59](https://news.ycombinator.com/item?id=46092558) - [Meshtastic](https://meshtastic.org/)
 * [2025-11-30, 01:03:44](https://news.ycombinator.com/item?id=46092478) - [A new Little Prince museum has opened its doors in Switzerland](https://www.lepetitprince.com/en/events-around-the-world/a-new-little-prince-museum-has-opened-its-doors-in-switzerland/)
 * [2025-11-29, 23:51:21](https://news.ycombinator.com/item?id=46092000) - [Scala](https://www.huygens-fokker.org/scala/)
