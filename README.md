@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-11-30, 22:05:07](https://news.ycombinator.com/item?id=46100892) - [A Love Letter to FreeBSD](https://www.tara.sh/posts/2025/2025-11-25_freebsd_letter/)
+* [2025-11-30, 21:30:51](https://news.ycombinator.com/item?id=46100637) - [Ty](https://docs.astral.sh/ty/)
 * [2025-11-30, 21:24:22](https://news.ycombinator.com/item?id=46100566) - [Stackoverflow Outage](https://www.stackstatus.net/)
 * [2025-11-30, 20:54:43](https://news.ycombinator.com/item?id=46100323) - [\"Boobs check\" – Technique to verify if sites behind CDN are hosted in Iran](https://twitter.com/hkashfi/status/1995109785679573167)
 * [2025-11-30, 20:14:12](https://news.ycombinator.com/item?id=46099985) - [People keep flocking to Linux, not just to escape Windows](https://www.zdnet.com/article/why-people-keep-flocking-to-linux-in-2025-and-its-not-just-to-escape-windows/)
@@ -17,7 +18,6 @@
 * [2025-11-30, 16:12:13](https://news.ycombinator.com/item?id=46097829) - [GitHub to Codeberg: my experience](https://eldred.fr/blog/forge-migration/)
 * [2025-11-30, 16:07:11](https://news.ycombinator.com/item?id=46097773) - [The Thinking Game Film – Google DeepMind documentary](https://thinkinggamefilm.com)
 * [2025-11-30, 15:57:34](https://news.ycombinator.com/item?id=46097671) - [Langjam Gamejam: Build a programming language then make a game with it](https://langjamgamejam.com/)
-* [2025-11-30, 15:52:41](https://news.ycombinator.com/item?id=46097624) - [Modern cars are spying on you. Here's what you can do about it](https://apnews.com/article/auto-car-privacy-3674ce59c9b30f2861d29178a31e6ab7)
 * [2025-11-30, 14:11:40](https://news.ycombinator.com/item?id=46096800) - [Migrating Dillo from GitHub](https://dillo-browser.org/news/migration-from-github/)
 * [2025-11-30, 13:40:17](https://news.ycombinator.com/item?id=46096556) - [Windows drive letters are not limited to A-Z](https://www.ryanliptak.com/blog/windows-drive-letters-are-not-limited-to-a-z/)
 * [2025-11-30, 13:07:15](https://news.ycombinator.com/item?id=46096337) - [Advent of Code 2025](https://adventofcode.com/2025/about)
@@ -25,10 +25,10 @@
 * [2025-11-30, 03:54:51](https://news.ycombinator.com/item?id=46093518) - [Zigbook Is Plagiarizing the Zigtools Playground](https://zigtools.org/blog/zigbook-plagiarizing-playground/)
 * [2025-11-30, 03:46:35](https://news.ycombinator.com/item?id=46093473) - [Show HN: Boing](https://boing.greg.technology/)
 * [2025-11-27, 07:40:43](https://news.ycombinator.com/item?id=46066746) - [Finding the grain of sand in a heap of Salt](https://blog.cloudflare.com/finding-the-grain-of-sand-in-a-heap-of-salt/)
+* [2025-11-26, 21:38:44](https://news.ycombinator.com/item?id=46062650) - [David Lerner, cofounder of Tekserve, has died](https://www.nytimes.com/2025/11/26/technology/personaltech/david-lerner-dead.html)
 * [2025-11-26, 15:55:48](https://news.ycombinator.com/item?id=46058670) - [Stop Hacklore – An Open Letter](https://www.hacklore.org/letter)
 * [2025-11-26, 15:46:51](https://news.ycombinator.com/item?id=46058566) - [Show HN: Fixing Google Nano Banana Pixel Art with Rust](https://github.com/Hugo-Dz/spritefusion-pixel-snapper)
 * [2025-11-26, 01:27:16](https://news.ycombinator.com/item?id=46053076) - [Show HN: Real-time system that tracks how news spreads across 200k websites](https://yandori.io/news-flow/)
-* [2025-11-25, 22:11:50](https://news.ycombinator.com/item?id=46051422) - [Paul Hegarty's updated CS193p SwiftUI course released by Stanford](https://cs193p.stanford.edu/)
 * [2025-11-25, 16:37:31](https://news.ycombinator.com/item?id=46047562) - [A Second Look at Geolocation and Starlink](https://www.potaroo.net/ispcol/2025-11/starlinkgeo2.html)
 
 ## [Archives](archives/index.md)
