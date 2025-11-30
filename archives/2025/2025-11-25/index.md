@@ -9,6 +9,7 @@
 * [2025-11-25, 22:40:52](https://news.ycombinator.com/item?id=46051724) - [Notes on the Troubleshooting and Repair of Computer and Video Monitors](https://www.repairfaq.org/sam/monfaq.htm)
 * [2025-11-25, 22:37:48](https://news.ycombinator.com/item?id=46051691) - [Reinventing How .NET Builds and Ships (Again)](https://devblogs.microsoft.com/dotnet/reinventing-how-dotnet-builds-and-ships-again/)
 * [2025-11-25, 22:13:35](https://news.ycombinator.com/item?id=46051449) - [A DOOM vector engine for rendering in KiCad, and over an audio jack](https://www.mikeayles.com/#kidoom)
+* [2025-11-25, 22:11:50](https://news.ycombinator.com/item?id=46051422) - [Paul Hegarty's updated CS193p SwiftUI course released by Stanford](https://cs193p.stanford.edu/)
 * [2025-11-25, 22:08:25](https://news.ycombinator.com/item?id=46051393) - [What They Don't Tell You About Maintaining an Open Source Project](https://andrej.sh/blog/maintaining-open-source-project/)
 * [2025-11-25, 22:04:44](https://news.ycombinator.com/item?id=46051345) - [Ironwood, our latest TPU](https://blog.google/products/google-cloud/ironwood-google-tpu-things-to-know/)
 * [2025-11-25, 22:04:31](https://news.ycombinator.com/item?id=46051340) - [Someone at YouTube Needs Glasses: The Prophecy Has Been Fulfilled](https://jayd.ml/2025/11/10/someone-at-youtube-needs-glasses-prophecy-fulfilled.html)
