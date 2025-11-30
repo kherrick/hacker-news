@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-11-30](index.md)
 
+* [2025-11-30, 17:01:24](https://news.ycombinator.com/item?id=46098336) - [RetailReady (YC W24) Is Hiring Associate Product Manager](https://www.ycombinator.com/companies/retailready/jobs/KPKDu3D-associate-product-manager)
 * [2025-11-30, 16:28:41](https://news.ycombinator.com/item?id=46097992) - [Google CEO says ‘vibe coding’ made software development ‘so much more enjoyable’](https://www.google.com/url?q=https://indianexpress.com/article/technology/tech-news-technology/google-ceo-sundar-pichai-says-vibe-coding-has-made-software-development-so-much-more-enjoyable-10393752/)
 * [2025-11-30, 16:07:11](https://news.ycombinator.com/item?id=46097773) - [The Thinking Game Film – Google DeepMind Documentary](https://thinkinggamefilm.com)
 * [2025-11-30, 15:52:41](https://news.ycombinator.com/item?id=46097624) - [Modern cars are spying on you. Here's what you can do about it](https://apnews.com/article/auto-car-privacy-3674ce59c9b30f2861d29178a31e6ab7)

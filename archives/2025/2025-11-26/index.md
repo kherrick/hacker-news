@@ -35,6 +35,7 @@
 * [2025-11-26, 16:24:29](https://news.ycombinator.com/item?id=46059069) - [Slop Detective – Fight the Slop Syndicate](https://slopdetective.kagi.com/)
 * [2025-11-26, 16:12:51](https://news.ycombinator.com/item?id=46058912) - [Slashdot Effect](https://en.wikipedia.org/wiki/Slashdot_effect)
 * [2025-11-26, 15:49:11](https://news.ycombinator.com/item?id=46058600) - [From blood sugar to brain relief: GLP-1 therapy slashes migraine frequency](https://www.medlink.com/news/from-blood-sugar-to-brain-relief-glp-1-therapy-slashes-migraine-frequency)
+* [2025-11-26, 15:46:51](https://news.ycombinator.com/item?id=46058566) - [Show HN: Fixing Google Nano Banana Pixel Art with Rust](https://github.com/Hugo-Dz/spritefusion-pixel-snapper)
 * [2025-11-26, 15:44:09](https://news.ycombinator.com/item?id=46058531) - [KDE Plasma 6.8 Will Go Wayland-Exclusive in Dropping X11 Session Support](https://www.phoronix.com/news/KDE-Plasma-68-Wayland-Exclusive)
 * [2025-11-26, 15:40:14](https://news.ycombinator.com/item?id=46058471) - [Feedback doesn't scale](https://another.rodeo/feedback/)
 * [2025-11-26, 15:32:06](https://news.ycombinator.com/item?id=46058361) - [MIT study finds AI can replace 11.7% of U.S. workforce](https://www.cnbc.com/2025/11/26/mit-study-finds-ai-can-already-replace-11point7percent-of-us-workforce.html)
