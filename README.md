@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-11-30, 14:52:06](https://news.ycombinator.com/item?id=46097102) - [The Undermining of the CDC](https://www.newyorker.com/magazine/2025/12/08/the-undermining-of-the-cdc)
 * [2025-11-30, 14:29:26](https://news.ycombinator.com/item?id=46096921) - [Geothermal Breakthrough in South Texas Signals New Era for Ercot](https://www.powermag.com/geothermal-breakthrough-in-south-texas-signals-new-era-for-ercot/)
+* [2025-11-30, 14:17:41](https://news.ycombinator.com/item?id=46096841) - [Discovering that my smartphone had infiltrated my life](https://utcc.utoronto.ca/~cks/space/blog/tech/SmartphoneInfiltratedMyLife)
 * [2025-11-30, 14:11:40](https://news.ycombinator.com/item?id=46096800) - [Migrating Dillo from GitHub](https://dillo-browser.org/news/migration-from-github/)
 * [2025-11-30, 14:09:01](https://news.ycombinator.com/item?id=46096781) - [Don't throw away your old PC–it makes a better NAS than anything you can buy](https://www.howtogeek.com/turned-old-windows-pc-into-inexpensive-nas/)
 * [2025-11-30, 13:40:17](https://news.ycombinator.com/item?id=46096556) - [Windows drive letters are not limited to A-Z](https://www.ryanliptak.com/blog/windows-drive-letters-are-not-limited-to-a-z/)
@@ -24,11 +26,9 @@
 * [2025-11-27, 16:07:24](https://news.ycombinator.com/item?id=46070537) - [The Easiest Way to Build a Type Checker](https://jimmyhmiller.com/easiest-way-to-build-type-checker)
 * [2025-11-27, 08:23:03](https://news.ycombinator.com/item?id=46067011) - [RL is more information inefficient than you thought](https://www.dwarkesh.com/p/bits-per-sample)
 * [2025-11-26, 12:57:35](https://news.ycombinator.com/item?id=46056954) - [The HTTP Query Method](https://www.ietf.org/archive/id/draft-ietf-httpbis-safe-method-w-body-14.html)
-* [2025-11-26, 07:03:27](https://news.ycombinator.com/item?id=46054879) - [Anthony Bourdain's Lost Li.st's](https://bourdain.greg.technology/)
 * [2025-11-26, 01:27:16](https://news.ycombinator.com/item?id=46053076) - [Show HN: Real-time system that tracks how news spreads across 200k websites](https://yandori.io/news-flow/)
 * [2025-11-25, 22:11:50](https://news.ycombinator.com/item?id=46051422) - [Paul Hegarty's updated CS193p SwiftUI course released by Stanford](https://cs193p.stanford.edu/)
 * [2025-11-25, 15:57:53](https://news.ycombinator.com/item?id=46047052) - [Matrix Core Programming on AMD CDNA Architecture](https://rocm.blogs.amd.com/software-tools-optimization/matrix-cores-cdna/README.html)
-* [2025-11-25, 06:36:01](https://news.ycombinator.com/item?id=46042947) - [Our Phosphorescent World](https://aeon.co/essays/the-cycling-of-phosphorus-is-the-basis-for-all-life-on-earth)
 * [2025-11-22, 16:53:06](https://news.ycombinator.com/item?id=46016104) - [Advice for crime analyst to break into data science](https://andrewpwheeler.com/2025/11/21/advice-for-crime-analyst-to-break-into-data-science/)
 
 ## [Archives](archives/index.md)
