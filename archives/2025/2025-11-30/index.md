@@ -4,9 +4,11 @@
 
 ### [Archives](../../index.md) for [2025-11-30](index.md)
 
+* [2025-11-30, 18:46:03](https://news.ycombinator.com/item?id=46099222) - [Garry Tan says MCP \"barely works\" today](https://www.reddit.com/r/mcp/s/dQoNo0fSx3)
 * [2025-11-30, 18:21:45](https://news.ycombinator.com/item?id=46099022) - [NixOS 25.11 Released](https://nixos.org/blog/announcements/2025/nixos-2511/)
 * [2025-11-30, 18:17:13](https://news.ycombinator.com/item?id=46098992) - [Don't push AI down our throats](https://gpt3experiments.substack.com/p/dont-push-ai-down-our-throats)
 * [2025-11-30, 18:15:37](https://news.ycombinator.com/item?id=46098979) - [There is No Quintic Formula [video]](https://www.youtube.com/watch?v=9HIy5dJE-zQ)
+* [2025-11-30, 18:12:32](https://news.ycombinator.com/item?id=46098965) - [Does 'Laziness' Start in the Brain?](https://www.theguardian.com/books/2025/nov/30/does-laziness-start-in-the-brain-apathy-motivation)
 * [2025-11-30, 17:45:51](https://news.ycombinator.com/item?id=46098747) - [ETH-Zurich: Digital Design and Computer Architecture; 227-0003-10L, Spring, 2025](https://safari.ethz.ch/ddca/spring2025/doku.php?id=start)
 * [2025-11-30, 17:37:09](https://news.ycombinator.com/item?id=46098673) - [ESA Sentinel-1D delivers first high-resolution images](https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-1/Sentinel-1D_delivers_first_images_from_Antarctica_to_Bremen)
 * [2025-11-30, 17:25:40](https://news.ycombinator.com/item?id=46098569) - [Notes on Shadowing a Hospitalist](https://humaninvariant.substack.com/p/notes-on-shadowing-a-hospitalist)
