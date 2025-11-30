@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-11-30, 19:02:04](https://news.ycombinator.com/item?id=46099367) - [You Want Microservices, but Do You Need Them?](https://www.docker.com/blog/do-you-really-need-microservices/)
-* [2025-11-30, 18:34:52](https://news.ycombinator.com/item?id=46099108) - [Program-of-Thought Prompting Outperforms Chain-of-Thought by 15%](https://arxiv.org/abs/2211.12588)
+* [2025-11-30, 18:34:52](https://news.ycombinator.com/item?id=46099108) - [Program-of-Thought Prompting Outperforms Chain-of-Thought by 15% (2022)](https://arxiv.org/abs/2211.12588)
 * [2025-11-30, 18:21:45](https://news.ycombinator.com/item?id=46099022) - [NixOS 25.11 Released](https://nixos.org/blog/announcements/2025/nixos-2511/)
 * [2025-11-30, 18:17:13](https://news.ycombinator.com/item?id=46098992) - [Don't push AI down our throats](https://gpt3experiments.substack.com/p/dont-push-ai-down-our-throats)
 * [2025-11-30, 18:15:37](https://news.ycombinator.com/item?id=46098979) - [There is No Quintic Formula [video]](https://www.youtube.com/watch?v=9HIy5dJE-zQ)
@@ -20,6 +19,7 @@
 * [2025-11-30, 13:40:09](https://news.ycombinator.com/item?id=46096555) - [Norway wealth fund to vote for human rights report at Microsoft, against Nadella](https://www.cnbc.com/2025/11/30/norway-wealth-fund-to-vote-for-human-rights-report-at-microsoft-agm-against-management.html)
 * [2025-11-30, 13:07:15](https://news.ycombinator.com/item?id=46096337) - [Advent of Code 2025](https://adventofcode.com/2025/about)
 * [2025-11-30, 10:47:27](https://news.ycombinator.com/item?id=46095585) - [CachyOS: Fast and Customizable Linux Distribution](https://cachyos.org/)
+* [2025-11-30, 09:44:15](https://news.ycombinator.com/item?id=46095250) - [The space of minds](https://karpathy.bearblog.dev/the-space-of-minds/)
 * [2025-11-30, 03:54:51](https://news.ycombinator.com/item?id=46093518) - [Zigbook Is Plagiarizing the Zigtools Playground](https://zigtools.org/blog/zigbook-plagiarizing-playground/)
 * [2025-11-30, 03:46:35](https://news.ycombinator.com/item?id=46093473) - [Show HN: Boing](https://boing.greg.technology/)
 * [2025-11-29, 20:22:44](https://news.ycombinator.com/item?id=46090433) - [All it takes is for one to work out](https://alearningaday.blog/2025/11/28/all-it-takes-is-for-one-to-work-out-2/)
