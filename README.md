@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-11-30, 15:52:41](https://news.ycombinator.com/item?id=46097624) - [Modern cars are spying on you. Here's what you can do about it](https://apnews.com/article/auto-car-privacy-3674ce59c9b30f2861d29178a31e6ab7)
+* [2025-11-30, 15:51:03](https://news.ycombinator.com/item?id=46097609) - [Atlas Shrugged](https://david-jasso.com/2024/04/11/atlas-shrugged/)
 * [2025-11-30, 14:52:06](https://news.ycombinator.com/item?id=46097102) - [The Undermining of the CDC](https://www.newyorker.com/magazine/2025/12/08/the-undermining-of-the-cdc)
 * [2025-11-30, 14:29:26](https://news.ycombinator.com/item?id=46096921) - [Geothermal Breakthrough in South Texas Signals New Era for Ercot](https://www.powermag.com/geothermal-breakthrough-in-south-texas-signals-new-era-for-ercot/)
 * [2025-11-30, 14:17:41](https://news.ycombinator.com/item?id=46096841) - [Discovering that my smartphone had infiltrated my life](https://utcc.utoronto.ca/~cks/space/blog/tech/SmartphoneInfiltratedMyLife)
@@ -20,7 +22,6 @@
 * [2025-11-29, 20:22:44](https://news.ycombinator.com/item?id=46090433) - [All it takes is for one to work out](https://alearningaday.blog/2025/11/28/all-it-takes-is-for-one-to-work-out-2/)
 * [2025-11-29, 19:55:17](https://news.ycombinator.com/item?id=46090269) - [Learning Feynman's Trick for Integrals](https://zackyzz.github.io/feynman.html)
 * [2025-11-29, 14:05:53](https://news.ycombinator.com/item?id=46087616) - [Datacenters in space aren't going to work](https://taranis.ie/datacenters-in-space-are-a-terrible-horrible-no-good-idea/)
-* [2025-11-29, 11:31:58](https://news.ycombinator.com/item?id=46086771) - [Leak confirms OpenAI is preparing ads on ChatGPT for public roll out](https://www.bleepingcomputer.com/news/artificial-intelligence/leak-confirms-openai-is-preparing-ads-on-chatgpt-for-public-roll-out/)
 * [2025-11-27, 17:23:06](https://news.ycombinator.com/item?id=46071317) - [What's Hiding Inside Haribo's Power Bank and Headphones?](https://www.lumafield.com/first-article/posts/whats-hiding-inside-haribos-power-bank-and-headphones)
 * [2025-11-27, 17:13:51](https://news.ycombinator.com/item?id=46071221) - [Blender facial animation tool. What else should it do?](https://github.com/shun126/livelinkface_arkit_receiver/wiki)
 * [2025-11-27, 16:07:24](https://news.ycombinator.com/item?id=46070537) - [The Easiest Way to Build a Type Checker](https://jimmyhmiller.com/easiest-way-to-build-type-checker)
@@ -29,7 +30,6 @@
 * [2025-11-26, 04:15:57](https://news.ycombinator.com/item?id=46054142) - [Show HN: I engineered a 2mm micro-bearing D20 ring that free-spin for 20 seconds](https://news.ycombinator.com/item?id=46054142)
 * [2025-11-26, 01:27:16](https://news.ycombinator.com/item?id=46053076) - [Show HN: Real-time system that tracks how news spreads across 200k websites](https://yandori.io/news-flow/)
 * [2025-11-25, 22:11:50](https://news.ycombinator.com/item?id=46051422) - [Paul Hegarty's updated CS193p SwiftUI course released by Stanford](https://cs193p.stanford.edu/)
-* [2025-11-22, 16:53:06](https://news.ycombinator.com/item?id=46016104) - [Advice for crime analyst to break into data science](https://andrewpwheeler.com/2025/11/21/advice-for-crime-analyst-to-break-into-data-science/)
 
 ## [Archives](archives/index.md)
 
