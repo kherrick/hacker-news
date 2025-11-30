@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-11-30, 17:02:48](https://news.ycombinator.com/item?id=46098359) - [LLVM-MOS – Clang LLVM fork targeting the 6502](https://llvm-mos.org/wiki/Welcome)
 * [2025-11-30, 17:01:24](https://news.ycombinator.com/item?id=46098336) - [RetailReady (YC W24) Is Hiring Associate Product Manager](https://www.ycombinator.com/companies/retailready/jobs/KPKDu3D-associate-product-manager)
 * [2025-11-30, 16:07:11](https://news.ycombinator.com/item?id=46097773) - [The Thinking Game Film – Google DeepMind Documentary](https://thinkinggamefilm.com)
 * [2025-11-30, 15:52:41](https://news.ycombinator.com/item?id=46097624) - [Modern cars are spying on you. Here's what you can do about it](https://apnews.com/article/auto-car-privacy-3674ce59c9b30f2861d29178a31e6ab7)
@@ -23,7 +24,6 @@
 * [2025-11-29, 14:05:53](https://news.ycombinator.com/item?id=46087616) - [Datacenters in space aren't going to work](https://taranis.ie/datacenters-in-space-are-a-terrible-horrible-no-good-idea/)
 * [2025-11-29, 11:31:58](https://news.ycombinator.com/item?id=46086771) - [Leak confirms OpenAI is preparing ads on ChatGPT for public roll out](https://www.bleepingcomputer.com/news/artificial-intelligence/leak-confirms-openai-is-preparing-ads-on-chatgpt-for-public-roll-out/)
 * [2025-11-27, 17:23:06](https://news.ycombinator.com/item?id=46071317) - [What's Hiding Inside Haribo's Power Bank and Headphones?](https://www.lumafield.com/first-article/posts/whats-hiding-inside-haribos-power-bank-and-headphones)
-* [2025-11-27, 17:13:51](https://news.ycombinator.com/item?id=46071221) - [Blender facial animation tool. What else should it do?](https://github.com/shun126/livelinkface_arkit_receiver/wiki)
 * [2025-11-27, 16:07:24](https://news.ycombinator.com/item?id=46070537) - [The Easiest Way to Build a Type Checker](https://jimmyhmiller.com/easiest-way-to-build-type-checker)
 * [2025-11-27, 08:23:03](https://news.ycombinator.com/item?id=46067011) - [RL is more information inefficient than you thought](https://www.dwarkesh.com/p/bits-per-sample)
 * [2025-11-26, 15:46:51](https://news.ycombinator.com/item?id=46058566) - [Show HN: Fixing Google Nano Banana Pixel Art with Rust](https://github.com/Hugo-Dz/spritefusion-pixel-snapper)
