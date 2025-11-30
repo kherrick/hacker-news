@@ -1,12 +1,42 @@
 [
   [
     [
-      "2025-11-29, 23:59:49",
-      "https://news.ycombinator.com/item?id=46092056"
+      "2025-11-30, 01:33:27",
+      "https://news.ycombinator.com/item?id=46092688"
     ],
     [
-      "Dilution vs. Risk taking: Capital gains taxes and entrepreneurs",
-      "https://www.nber.org/papers/w34512"
+      "Tell HN: Regrets. Think carefully about how you spend your time",
+      "https://news.ycombinator.com/item?id=46092688"
+    ]
+  ],
+  [
+    [
+      "2025-11-30, 01:25:43",
+      "https://news.ycombinator.com/item?id=46092630"
+    ],
+    [
+      "Stopping bad guys from using my open source project (feedback wanted)",
+      "https://evanhahn.com/stopping-bad-guys-from-using-my-open-source-project/"
+    ]
+  ],
+  [
+    [
+      "2025-11-30, 01:15:59",
+      "https://news.ycombinator.com/item?id=46092558"
+    ],
+    [
+      "Meshtastic",
+      "https://meshtastic.org/"
+    ]
+  ],
+  [
+    [
+      "2025-11-30, 01:03:44",
+      "https://news.ycombinator.com/item?id=46092478"
+    ],
+    [
+      "A new Little Prince museum has opened its doors in Switzerland",
+      "https://www.lepetitprince.com/en/events-around-the-world/a-new-little-prince-museum-has-opened-its-doors-in-switzerland/"
     ]
   ],
   [
@@ -37,16 +67,6 @@
     [
       "Landlock-Ing Linux",
       "https://blog.prizrak.me/post/landlock/"
-    ]
-  ],
-  [
-    [
-      "2025-11-29, 21:10:15",
-      "https://news.ycombinator.com/item?id=46090794"
-    ],
-    [
-      "Europe's New War on Privacy",
-      "https://unherd.com/2025/11/europes-new-war-on-privacy/"
     ]
   ],
   [
@@ -131,16 +151,6 @@
   ],
   [
     [
-      "2025-11-29, 16:58:58",
-      "https://news.ycombinator.com/item?id=46088998"
-    ],
-    [
-      "We're learning more about what Vitamin D does",
-      "https://www.technologyreview.com/2025/11/21/1128206/vitamin-d-bodies-bone-health-immune/"
-    ]
-  ],
-  [
-    [
       "2025-11-29, 15:43:58",
       "https://news.ycombinator.com/item?id=46088379"
     ],
@@ -157,26 +167,6 @@
     [
       "Datacenters in space aren't going to work",
       "https://taranis.ie/datacenters-in-space-are-a-terrible-horrible-no-good-idea/"
-    ]
-  ],
-  [
-    [
-      "2025-11-29, 14:02:23",
-      "https://news.ycombinator.com/item?id=46087596"
-    ],
-    [
-      "DNS LOC Record (2014)",
-      "https://blog.cloudflare.com/the-weird-and-wonderful-world-of-dns-loc-records/"
-    ]
-  ],
-  [
-    [
-      "2025-11-29, 13:56:04",
-      "https://news.ycombinator.com/item?id=46087549"
-    ],
-    [
-      "Hachi: An Image Search Engine",
-      "https://eagledot.xyz/hachi.md.html"
     ]
   ],
   [
@@ -241,6 +231,16 @@
   ],
   [
     [
+      "2025-11-26, 12:57:35",
+      "https://news.ycombinator.com/item?id=46056954"
+    ],
+    [
+      "The HTTP Query Method",
+      "https://www.ietf.org/archive/id/draft-ietf-httpbis-safe-method-w-body-14.html"
+    ]
+  ],
+  [
+    [
       "2025-11-26, 07:03:27",
       "https://news.ycombinator.com/item?id=46054879"
     ],
@@ -251,22 +251,22 @@
   ],
   [
     [
-      "2025-11-25, 21:46:21",
-      "https://news.ycombinator.com/item?id=46051182"
-    ],
-    [
-      "Let go of StackOverflow; communities must take ownership",
-      "https://ahelwer.ca/post/2025-11-25-stackoverflow/"
-    ]
-  ],
-  [
-    [
       "2025-11-25, 20:24:12",
       "https://news.ycombinator.com/item?id=46050302"
     ],
     [
       "1964 Recompiling Engine Documentation (2001) [pdf]",
       "https://emudev.org/docs/1964-recompiling-engine-documentation.pdf"
+    ]
+  ],
+  [
+    [
+      "2025-11-24, 13:27:46",
+      "https://news.ycombinator.com/item?id=46033872"
+    ],
+    [
+      "Generating Cats with learned lookup tables",
+      "https://aschrein.github.io/jekyll/update/2025/11/23/generating_cats2.html"
     ]
   ],
   [
