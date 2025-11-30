@@ -4,6 +4,11 @@
 
 ### [Archives](../../index.md) for [2025-11-30](index.md)
 
+* [2025-11-30, 18:21:45](https://news.ycombinator.com/item?id=46099022) - [NixOS 25.11 Released](https://nixos.org/blog/announcements/2025/nixos-2511/)
+* [2025-11-30, 18:17:13](https://news.ycombinator.com/item?id=46098992) - [Don't push AI down our throats](https://gpt3experiments.substack.com/p/dont-push-ai-down-our-throats)
+* [2025-11-30, 18:15:37](https://news.ycombinator.com/item?id=46098979) - [There is No Quintic Formula [video]](https://www.youtube.com/watch?v=9HIy5dJE-zQ)
+* [2025-11-30, 17:45:51](https://news.ycombinator.com/item?id=46098747) - [ETH-Zurich: Digital Design and Computer Architecture; 227-0003-10L, Spring, 2025](https://safari.ethz.ch/ddca/spring2025/doku.php?id=start)
+* [2025-11-30, 17:37:09](https://news.ycombinator.com/item?id=46098673) - [ESA Sentinel-1D delivers first high-resolution images](https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-1/Sentinel-1D_delivers_first_images_from_Antarctica_to_Bremen)
 * [2025-11-30, 17:02:48](https://news.ycombinator.com/item?id=46098359) - [LLVM-MOS – Clang LLVM fork targeting the 6502](https://llvm-mos.org/wiki/Welcome)
 * [2025-11-30, 17:01:24](https://news.ycombinator.com/item?id=46098336) - [RetailReady (YC W24) Is Hiring Associate Product Manager](https://www.ycombinator.com/companies/retailready/jobs/KPKDu3D-associate-product-manager)
 * [2025-11-30, 16:28:41](https://news.ycombinator.com/item?id=46097992) - [Google CEO says ‘vibe coding’ made software development ‘so much more enjoyable’](https://www.google.com/url?q=https://indianexpress.com/article/technology/tech-news-technology/google-ceo-sundar-pichai-says-vibe-coding-has-made-software-development-so-much-more-enjoyable-10393752/)
