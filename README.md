@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-11-30, 07:00:40](https://news.ycombinator.com/item?id=46094478) - [Jiga (YC W21) Is Hiring Product Designer](https://www.ycombinator.com/companies/jiga/jobs/Cco7vyK-product-designer-remote-europe)
+* [2025-11-30, 06:57:36](https://news.ycombinator.com/item?id=46094465) - [The Copenhagen Trap: How the West made passivity the only safe strategy](https://aliveness.kunnas.com/articles/copenhagen-trap)
 * [2025-11-30, 03:54:51](https://news.ycombinator.com/item?id=46093518) - [Zigbook Is Plagiarizing the Zigtools Playground](https://zigtools.org/blog/zigbook-plagiarizing-playground/)
 * [2025-11-30, 03:46:35](https://news.ycombinator.com/item?id=46093473) - [Show HN: Boing](https://boing.greg.technology/)
 * [2025-11-30, 01:25:43](https://news.ycombinator.com/item?id=46092630) - [Stopping bad guys from using my open source project (feedback wanted)](https://evanhahn.com/stopping-bad-guys-from-using-my-open-source-project/)
@@ -14,7 +16,6 @@
 * [2025-11-29, 19:59:12](https://news.ycombinator.com/item?id=46090294) - [The Origins of Scala (2009)](https://www.artima.com/articles/the-origins-of-scala)
 * [2025-11-29, 19:55:17](https://news.ycombinator.com/item?id=46090269) - [Learning Feynman's Trick for Integrals](https://zackyzz.github.io/feynman.html)
 * [2025-11-29, 19:41:55](https://news.ycombinator.com/item?id=46090172) - [Be Like Clippy](https://be-clippy.com/)
-* [2025-11-29, 18:14:21](https://news.ycombinator.com/item?id=46089546) - [Student perceptions of AI coding assistants in learning](https://arxiv.org/abs/2507.22900)
 * [2025-11-29, 17:53:57](https://news.ycombinator.com/item?id=46089394) - [Zero knowlege proof of compositeness](https://www.johndcook.com/blog/2025/11/29/zkp-composite/)
 * [2025-11-29, 15:43:58](https://news.ycombinator.com/item?id=46088379) - [Testing shows automotive glassbreakers can't break modern automotive glass](https://www.core77.com/posts/138925/Testing-Shows-Automotive-Glassbreakers-Cant-Break-Modern-Automotive-Glass)
 * [2025-11-29, 14:05:53](https://news.ycombinator.com/item?id=46087616) - [Datacenters in space aren't going to work](https://taranis.ie/datacenters-in-space-are-a-terrible-horrible-no-good-idea/)
@@ -29,7 +30,6 @@
 * [2025-11-25, 06:36:01](https://news.ycombinator.com/item?id=46042947) - [Our Phosphorescent World](https://aeon.co/essays/the-cycling-of-phosphorus-is-the-basis-for-all-life-on-earth)
 * [2025-11-24, 09:30:40](https://news.ycombinator.com/item?id=46032074) - [Show HN: Network Monitor – a GUI to spot anomalous connections on your Linux](https://news.ycombinator.com/item?id=46032074)
 * [2025-11-23, 04:22:41](https://news.ycombinator.com/item?id=46020730) - [Hardening the C++ Standard Library at scale](https://queue.acm.org/detail.cfm?id=3773097)
-* [2025-11-21, 17:06:21](https://news.ycombinator.com/item?id=46006323) - [Bronze Age mega-settlement in Kazakhstan has advanced urban planning, metallurgy](https://archaeologymag.com/2025/11/bronze-age-mega-settlement-in-kazakhstan/)
 
 ## [Archives](archives/index.md)
 
