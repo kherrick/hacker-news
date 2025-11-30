@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-11-30](index.md)
 
+* [2025-11-30, 20:49:49](https://news.ycombinator.com/item?id=46100282) - [How to run phones while being struck by suicide drones](https://nasa.cx/hn/posts/how-to-run-hundreds-of-phones-while-being-struck-by-suicide-drones/)
 * [2025-11-30, 20:14:12](https://news.ycombinator.com/item?id=46099985) - [By my count, Linux has 11% of the desktop market. Here's how I got that number](https://www.zdnet.com/article/why-people-keep-flocking-to-linux-in-2025-and-its-not-just-to-escape-windows/)
 * [2025-11-30, 19:02:04](https://news.ycombinator.com/item?id=46099367) - [You Want Microservices, but Do You Need Them?](https://www.docker.com/blog/do-you-really-need-microservices/)
 * [2025-11-30, 18:46:03](https://news.ycombinator.com/item?id=46099222) - [Garry Tan says MCP \"barely works\" today](https://www.reddit.com/r/mcp/s/dQoNo0fSx3)
