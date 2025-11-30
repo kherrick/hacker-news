@@ -54,6 +54,7 @@
 * [2025-11-25, 09:17:43](https://news.ycombinator.com/item?id=46043972) - [Show HN: I built the literal Duolingo Killer](https://kanjieight.vercel.app/)
 * [2025-11-25, 07:43:39](https://news.ycombinator.com/item?id=46043318) - [Build Your Own Router with URLPattern()](https://jschof.dev/posts/2025/11/build-your-own-router/)
 * [2025-11-25, 06:39:36](https://news.ycombinator.com/item?id=46042969) - [What you can get for the price of a Netflix subscription](https://nmil.dev/what-you-can-get-for-the-price-of-a-netflix-subscription)
+* [2025-11-25, 06:36:01](https://news.ycombinator.com/item?id=46042947) - [Our Phosphorescent World](https://aeon.co/essays/the-cycling-of-phosphorus-is-the-basis-for-all-life-on-earth)
 * [2025-11-25, 06:35:59](https://news.ycombinator.com/item?id=46042946) - [Most Stable Raspberry Pi? 81% Better NTP with Thermal Management](https://austinsnerdythings.com/2025/11/24/worlds-most-stable-raspberry-pi-81-better-ntp-with-thermal-management/)
 * [2025-11-25, 06:31:31](https://news.ycombinator.com/item?id=46042928) - [Human brains are preconfigured with instructions for understanding the world](https://news.ucsc.edu/2025/11/sharf-preconfigured-brain/)
 * [2025-11-25, 06:09:05](https://news.ycombinator.com/item?id=46042810) - [Jakarta is now the biggest city in the world](https://www.axios.com/2025/11/24/jakarta-tokyo-worlds-biggest-city-population)
