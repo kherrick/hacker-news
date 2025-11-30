@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-11-30](index.md)
 
+* [2025-11-30, 16:07:11](https://news.ycombinator.com/item?id=46097773) - [The Thinking Game Film – Google DeepMind Documentary](https://thinkinggamefilm.com)
 * [2025-11-30, 15:52:41](https://news.ycombinator.com/item?id=46097624) - [Modern cars are spying on you. Here's what you can do about it](https://apnews.com/article/auto-car-privacy-3674ce59c9b30f2861d29178a31e6ab7)
 * [2025-11-30, 15:51:03](https://news.ycombinator.com/item?id=46097609) - [Atlas Shrugged](https://david-jasso.com/2024/04/11/atlas-shrugged/)
 * [2025-11-30, 14:52:06](https://news.ycombinator.com/item?id=46097102) - [The Undermining of the CDC](https://www.newyorker.com/magazine/2025/12/08/the-undermining-of-the-cdc)
@@ -13,6 +14,7 @@
 * [2025-11-30, 14:09:01](https://news.ycombinator.com/item?id=46096781) - [Don't throw away your old PC–it makes a better NAS than anything you can buy](https://www.howtogeek.com/turned-old-windows-pc-into-inexpensive-nas/)
 * [2025-11-30, 13:40:17](https://news.ycombinator.com/item?id=46096556) - [Windows drive letters are not limited to A-Z](https://www.ryanliptak.com/blog/windows-drive-letters-are-not-limited-to-a-z/)
 * [2025-11-30, 13:40:09](https://news.ycombinator.com/item?id=46096555) - [Norway wealth fund to vote for human rights report at Microsoft, against Nadella](https://www.cnbc.com/2025/11/30/norway-wealth-fund-to-vote-for-human-rights-report-at-microsoft-agm-against-management.html)
+* [2025-11-30, 13:39:52](https://news.ycombinator.com/item?id=46096552) - [Apple Desktop Bus Protocol (2021)](https://www.lopaciuk.eu/2021/03/26/apple-adb-protocol.html)
 * [2025-11-30, 13:07:15](https://news.ycombinator.com/item?id=46096337) - [Advent of Code 2025](https://adventofcode.com/2025/about)
 * [2025-11-30, 13:03:01](https://news.ycombinator.com/item?id=46096312) - [OpenBSD: Free, Functional, and Secure](https://www.openbsd.org/)
 * [2025-11-30, 10:47:27](https://news.ycombinator.com/item?id=46095585) - [CachyOS: Fast and Customizable Linux Distribution](https://cachyos.org/)
