@@ -1,14 +1,13 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-11-30, 10:47:27](https://news.ycombinator.com/item?id=46095585) - [CachyOS: Fast and Customizable Linux Distribution](https://cachyos.org/)
-* [2025-11-30, 10:03:31](https://news.ycombinator.com/item?id=46095363) - [Silicon Valley's Man in the White House Is Benefiting Himself and His Friends](https://www.nytimes.com/2025/11/30/technology/david-sacks-white-house-profits.html)
-* [2025-11-30, 09:44:15](https://news.ycombinator.com/item?id=46095250) - [The Space of Minds](https://karpathy.bearblog.dev/the-space-of-minds/)
+* [2025-11-30, 10:03:31](https://news.ycombinator.com/item?id=46095363) - [Silicon Valley's man in the White House is benefiting himself and his friends](https://www.nytimes.com/2025/11/30/technology/david-sacks-white-house-profits.html)
+* [2025-11-30, 09:44:15](https://news.ycombinator.com/item?id=46095250) - [The space of minds](https://karpathy.bearblog.dev/the-space-of-minds/)
 * [2025-11-30, 07:00:40](https://news.ycombinator.com/item?id=46094478) - [Jiga (YC W21) Is Hiring Product Designer](https://www.ycombinator.com/companies/jiga/jobs/Cco7vyK-product-designer-remote-europe)
 * [2025-11-30, 03:54:51](https://news.ycombinator.com/item?id=46093518) - [Zigbook Is Plagiarizing the Zigtools Playground](https://zigtools.org/blog/zigbook-plagiarizing-playground/)
 * [2025-11-30, 03:46:35](https://news.ycombinator.com/item?id=46093473) - [Show HN: Boing](https://boing.greg.technology/)
 * [2025-11-30, 01:15:59](https://news.ycombinator.com/item?id=46092558) - [Meshtastic](https://meshtastic.org/)
 * [2025-11-30, 01:03:44](https://news.ycombinator.com/item?id=46092478) - [A new Little Prince museum has opened its doors in Switzerland](https://www.lepetitprince.com/en/events-around-the-world/a-new-little-prince-museum-has-opened-its-doors-in-switzerland/)
-* [2025-11-29, 23:51:21](https://news.ycombinator.com/item?id=46092000) - [Scala](https://www.huygens-fokker.org/scala/)
 * [2025-11-29, 22:56:14](https://news.ycombinator.com/item?id=46091591) - [Americans no longer see four-year college degrees as worth the cost](https://www.nbcnews.com/politics/politics-news/poll-dramatic-shift-americans-no-longer-see-four-year-college-degrees-rcna243672)
 * [2025-11-29, 22:22:24](https://news.ycombinator.com/item?id=46091362) - [Bazzite: The next generation of Linux gaming](https://bazzite.gg/)
 * [2025-11-29, 21:30:53](https://news.ycombinator.com/item?id=46090969) - [Landlock-Ing Linux](https://blog.prizrak.me/post/landlock/)
@@ -30,6 +29,7 @@
 * [2025-11-25, 15:57:53](https://news.ycombinator.com/item?id=46047052) - [Matrix Core Programming on AMD CDNA Architecture](https://rocm.blogs.amd.com/software-tools-optimization/matrix-cores-cdna/README.html)
 * [2025-11-25, 06:36:01](https://news.ycombinator.com/item?id=46042947) - [Our Phosphorescent World](https://aeon.co/essays/the-cycling-of-phosphorus-is-the-basis-for-all-life-on-earth)
 * [2025-11-24, 09:30:40](https://news.ycombinator.com/item?id=46032074) - [Show HN: Network Monitor – a GUI to spot anomalous connections on your Linux](https://news.ycombinator.com/item?id=46032074)
+* [2025-11-22, 16:53:06](https://news.ycombinator.com/item?id=46016104) - [Advice for crime analyst to break into data science](https://andrewpwheeler.com/2025/11/21/advice-for-crime-analyst-to-break-into-data-science/)
 
 ## [Archives](archives/index.md)
 
