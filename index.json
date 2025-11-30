@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-11-30, 19:02:04",
+      "https://news.ycombinator.com/item?id=46099367"
+    ],
+    [
+      "You Want Microservices, but Do You Need Them?",
+      "https://www.docker.com/blog/do-you-really-need-microservices/"
+    ]
+  ],
+  [
+    [
+      "2025-11-30, 18:34:52",
+      "https://news.ycombinator.com/item?id=46099108"
+    ],
+    [
+      "Program-of-Thought Prompting Outperforms Chain-of-Thought by 15%",
+      "https://arxiv.org/abs/2211.12588"
+    ]
+  ],
+  [
+    [
       "2025-11-30, 18:21:45",
       "https://news.ycombinator.com/item?id=46099022"
     ],
@@ -27,6 +47,16 @@
     [
       "There is No Quintic Formula [video]",
       "https://www.youtube.com/watch?v=9HIy5dJE-zQ"
+    ]
+  ],
+  [
+    [
+      "2025-11-30, 17:56:43",
+      "https://news.ycombinator.com/item?id=46098838"
+    ],
+    [
+      "Writing a Good Claude.md",
+      "https://www.humanlayer.dev/blog/writing-a-good-claude-md"
     ]
   ],
   [
@@ -77,6 +107,16 @@
     [
       "RetailReady (YC W24) Is Hiring Associate Product Manager",
       "https://www.ycombinator.com/companies/retailready/jobs/KPKDu3D-associate-product-manager"
+    ]
+  ],
+  [
+    [
+      "2025-11-30, 16:12:13",
+      "https://news.ycombinator.com/item?id=46097829"
+    ],
+    [
+      "GitHub to Codeberg: My Experience",
+      "https://eldred.fr/blog/forge-migration/"
     ]
   ],
   [
@@ -191,26 +231,6 @@
   ],
   [
     [
-      "2025-11-30, 01:15:59",
-      "https://news.ycombinator.com/item?id=46092558"
-    ],
-    [
-      "Meshtastic",
-      "https://meshtastic.org/"
-    ]
-  ],
-  [
-    [
-      "2025-11-29, 21:30:53",
-      "https://news.ycombinator.com/item?id=46090969"
-    ],
-    [
-      "Landlock-Ing Linux",
-      "https://blog.prizrak.me/post/landlock/"
-    ]
-  ],
-  [
-    [
       "2025-11-29, 20:22:44",
       "https://news.ycombinator.com/item?id=46090433"
     ],
@@ -237,26 +257,6 @@
     [
       "The Easiest Way to Build a Type Checker",
       "https://jimmyhmiller.com/easiest-way-to-build-type-checker"
-    ]
-  ],
-  [
-    [
-      "2025-11-27, 08:23:03",
-      "https://news.ycombinator.com/item?id=46067011"
-    ],
-    [
-      "The inefficiency of RL, and implications for RLVR progress",
-      "https://www.dwarkesh.com/p/bits-per-sample"
-    ]
-  ],
-  [
-    [
-      "2025-11-26, 16:46:05",
-      "https://news.ycombinator.com/item?id=46059386"
-    ],
-    [
-      "Drawing with Chaos",
-      "https://yberreby.com/posts/strangedraw/"
     ]
   ],
   [
