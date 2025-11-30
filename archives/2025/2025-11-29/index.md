@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-11-29](index.md)
 
+* [2025-11-29, 23:59:49](https://news.ycombinator.com/item?id=46092056) - [Dilution vs. Risk taking: Capital gains taxes and entrepreneurs](https://www.nber.org/papers/w34512)
+* [2025-11-29, 23:51:21](https://news.ycombinator.com/item?id=46092000) - [Scala](https://www.huygens-fokker.org/scala/)
 * [2025-11-29, 22:56:14](https://news.ycombinator.com/item?id=46091591) - [Americans no longer see four-year college degrees as worth the cost](https://www.nbcnews.com/politics/politics-news/poll-dramatic-shift-americans-no-longer-see-four-year-college-degrees-rcna243672)
 * [2025-11-29, 22:22:24](https://news.ycombinator.com/item?id=46091362) - [Bazzite: The next generation of Linux gaming](https://bazzite.gg/)
 * [2025-11-29, 21:49:20](https://news.ycombinator.com/item?id=46091100) - [Copper Thieves Are Wreaking Havoc Across America](https://www.wsj.com/business/telecom/copper-thieves-are-wreaking-havoc-across-america-9135906f)
