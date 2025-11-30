@@ -1,21 +1,11 @@
 [
   [
     [
-      "2025-11-30, 19:02:04",
-      "https://news.ycombinator.com/item?id=46099367"
-    ],
-    [
-      "You Want Microservices, but Do You Need Them?",
-      "https://www.docker.com/blog/do-you-really-need-microservices/"
-    ]
-  ],
-  [
-    [
       "2025-11-30, 18:34:52",
       "https://news.ycombinator.com/item?id=46099108"
     ],
     [
-      "Program-of-Thought Prompting Outperforms Chain-of-Thought by 15%",
+      "Program-of-Thought Prompting Outperforms Chain-of-Thought by 15% (2022)",
       "https://arxiv.org/abs/2211.12588"
     ]
   ],
@@ -197,6 +187,16 @@
     [
       "CachyOS: Fast and Customizable Linux Distribution",
       "https://cachyos.org/"
+    ]
+  ],
+  [
+    [
+      "2025-11-30, 09:44:15",
+      "https://news.ycombinator.com/item?id=46095250"
+    ],
+    [
+      "The space of minds",
+      "https://karpathy.bearblog.dev/the-space-of-minds/"
     ]
   ],
   [
