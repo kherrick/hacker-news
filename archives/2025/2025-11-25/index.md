@@ -37,6 +37,7 @@
 * [2025-11-25, 17:08:49](https://news.ycombinator.com/item?id=46047980) - [US banks scramble to assess data theft after hackers breach financial tech firm](https://techcrunch.com/2025/11/24/us-banks-scramble-to-assess-data-theft-after-hackers-breach-financial-tech-firm/)
 * [2025-11-25, 17:07:06](https://news.ycombinator.com/item?id=46047958) - [Unifying our mobile and desktop domains](https://techblog.wikimedia.org/2025/11/21/unifying-mobile-and-desktop-domains/)
 * [2025-11-25, 16:38:57](https://news.ycombinator.com/item?id=46047580) - [Python is not a great language for data science](https://blog.genesmindsmachines.com/p/python-is-not-a-great-language-for)
+* [2025-11-25, 16:37:31](https://news.ycombinator.com/item?id=46047562) - [A Second Look at Geolocation and Starlink](https://www.potaroo.net/ispcol/2025-11/starlinkgeo2.html)
 * [2025-11-25, 16:34:08](https://news.ycombinator.com/item?id=46047513) - [Ozempic does not slow Alzheimer's, study finds](https://www.semafor.com/article/11/25/2025/ozempic-does-not-slow-alzheimers-study-finds)
 * [2025-11-25, 16:26:42](https://news.ycombinator.com/item?id=46047409) - [Choosing a hash function for 2030 and beyond: SHA-2 vs. SHA-3 vs. BLAKE3](https://kerkour.com/fast-secure-hash-function-sha256-sha512-sha3-blake3)
 * [2025-11-25, 16:21:24](https://news.ycombinator.com/item?id=46047350) - [Orion 1.0 – Browse Beyond](https://blog.kagi.com/orion)
