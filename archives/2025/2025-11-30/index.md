@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-11-30](index.md)
 
+* [2025-11-30, 13:40:17](https://news.ycombinator.com/item?id=46096556) - [Windows drive letters are not limited to A-Z](https://www.ryanliptak.com/blog/windows-drive-letters-are-not-limited-to-a-z/)
 * [2025-11-30, 13:40:09](https://news.ycombinator.com/item?id=46096555) - [Norway wealth fund to vote for human rights report at Microsoft, against Nadella](https://www.cnbc.com/2025/11/30/norway-wealth-fund-to-vote-for-human-rights-report-at-microsoft-agm-against-management.html)
 * [2025-11-30, 13:07:15](https://news.ycombinator.com/item?id=46096337) - [Advent of Code 2025](https://adventofcode.com/2025/about)
 * [2025-11-30, 13:03:01](https://news.ycombinator.com/item?id=46096312) - [OpenBSD: Free, Functional, and Secure](https://www.openbsd.org/)

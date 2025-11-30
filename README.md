@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-11-30, 13:40:17](https://news.ycombinator.com/item?id=46096556) - [Windows drive letters are not limited to A-Z](https://www.ryanliptak.com/blog/windows-drive-letters-are-not-limited-to-a-z/)
 * [2025-11-30, 13:40:09](https://news.ycombinator.com/item?id=46096555) - [Norway wealth fund to vote for human rights report at Microsoft, against Nadella](https://www.cnbc.com/2025/11/30/norway-wealth-fund-to-vote-for-human-rights-report-at-microsoft-agm-against-management.html)
 * [2025-11-30, 13:07:15](https://news.ycombinator.com/item?id=46096337) - [Advent of Code 2025](https://adventofcode.com/2025/about)
 * [2025-11-30, 10:47:27](https://news.ycombinator.com/item?id=46095585) - [CachyOS: Fast and Customizable Linux Distribution](https://cachyos.org/)
@@ -22,7 +23,6 @@
 * [2025-11-27, 17:13:51](https://news.ycombinator.com/item?id=46071221) - [Blender facial animation tool. What else should it do?](https://github.com/shun126/livelinkface_arkit_receiver/wiki)
 * [2025-11-27, 08:23:03](https://news.ycombinator.com/item?id=46067011) - [RL is more information inefficient than you thought](https://www.dwarkesh.com/p/bits-per-sample)
 * [2025-11-26, 12:57:35](https://news.ycombinator.com/item?id=46056954) - [The HTTP Query Method](https://www.ietf.org/archive/id/draft-ietf-httpbis-safe-method-w-body-14.html)
-* [2025-11-26, 10:08:19](https://news.ycombinator.com/item?id=46055942) - [Dynamic Skillset Reference Architecture](https://chatbotkit.com/examples/dynamic-skillset-reference-architecture)
 * [2025-11-26, 07:03:27](https://news.ycombinator.com/item?id=46054879) - [Anthony Bourdain's Lost Li.st's](https://bourdain.greg.technology/)
 * [2025-11-26, 01:27:16](https://news.ycombinator.com/item?id=46053076) - [Show HN: Real-time system that tracks how news spreads across 200k websites](https://yandori.io/news-flow/)
 * [2025-11-25, 22:11:50](https://news.ycombinator.com/item?id=46051422) - [Paul Hegarty's updated CS193p SwiftUI course released by Stanford](https://cs193p.stanford.edu/)
