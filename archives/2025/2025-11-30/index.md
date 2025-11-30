@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-11-30](index.md)
 
+* [2025-11-30, 22:05:07](https://news.ycombinator.com/item?id=46100892) - [A Love Letter to FreeBSD](https://www.tara.sh/posts/2025/2025-11-25_freebsd_letter/)
+* [2025-11-30, 21:24:22](https://news.ycombinator.com/item?id=46100566) - [Stackoverflow Outage](https://www.stackstatus.net/)
 * [2025-11-30, 20:54:43](https://news.ycombinator.com/item?id=46100323) - [\"Boobs check\" verify if sites behind CDN are hosted in Inside Iran or not](https://twitter.com/hkashfi/status/1995109785679573167)
 * [2025-11-30, 20:49:49](https://news.ycombinator.com/item?id=46100282) - [How to run phones while being struck by suicide drones](https://nasa.cx/hn/posts/how-to-run-hundreds-of-phones-while-being-struck-by-suicide-drones/)
 * [2025-11-30, 20:14:12](https://news.ycombinator.com/item?id=46099985) - [By my count, Linux has 11% of the desktop market. Here's how I got that number](https://www.zdnet.com/article/why-people-keep-flocking-to-linux-in-2025-and-its-not-just-to-escape-windows/)
