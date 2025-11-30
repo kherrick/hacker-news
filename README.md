@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-11-30, 22:05:07](https://news.ycombinator.com/item?id=46100892) - [A Love Letter to FreeBSD](https://www.tara.sh/posts/2025/2025-11-25_freebsd_letter/)
-* [2025-11-30, 21:30:51](https://news.ycombinator.com/item?id=46100637) - [Ty](https://docs.astral.sh/ty/)
+* [2025-11-30, 21:30:51](https://news.ycombinator.com/item?id=46100637) - [Ty – A fast Python type checker, written in Rust](https://docs.astral.sh/ty/)
 * [2025-11-30, 21:24:22](https://news.ycombinator.com/item?id=46100566) - [Stackoverflow Outage](https://www.stackstatus.net/)
 * [2025-11-30, 20:54:43](https://news.ycombinator.com/item?id=46100323) - [\"Boobs check\" – Technique to verify if sites behind CDN are hosted in Iran](https://twitter.com/hkashfi/status/1995109785679573167)
 * [2025-11-30, 20:14:12](https://news.ycombinator.com/item?id=46099985) - [People keep flocking to Linux, not just to escape Windows](https://www.zdnet.com/article/why-people-keep-flocking-to-linux-in-2025-and-its-not-just-to-escape-windows/)
