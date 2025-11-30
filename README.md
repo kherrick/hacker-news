@@ -23,12 +23,12 @@
 * [2025-11-30, 13:07:15](https://news.ycombinator.com/item?id=46096337) - [Advent of Code 2025](https://adventofcode.com/2025/about)
 * [2025-11-30, 10:47:27](https://news.ycombinator.com/item?id=46095585) - [CachyOS: Fast and Customizable Linux Distribution](https://cachyos.org/)
 * [2025-11-30, 03:54:51](https://news.ycombinator.com/item?id=46093518) - [Zigbook Is Plagiarizing the Zigtools Playground](https://zigtools.org/blog/zigbook-plagiarizing-playground/)
-* [2025-11-30, 03:46:35](https://news.ycombinator.com/item?id=46093473) - [Show HN: Boing](https://boing.greg.technology/)
 * [2025-11-27, 07:40:43](https://news.ycombinator.com/item?id=46066746) - [Finding the grain of sand in a heap of Salt](https://blog.cloudflare.com/finding-the-grain-of-sand-in-a-heap-of-salt/)
 * [2025-11-26, 21:38:44](https://news.ycombinator.com/item?id=46062650) - [David Lerner, cofounder of Tekserve, has died](https://www.nytimes.com/2025/11/26/technology/personaltech/david-lerner-dead.html)
 * [2025-11-26, 15:55:48](https://news.ycombinator.com/item?id=46058670) - [Stop Hacklore – An Open Letter](https://www.hacklore.org/letter)
 * [2025-11-26, 15:46:51](https://news.ycombinator.com/item?id=46058566) - [Show HN: Fixing Google Nano Banana Pixel Art with Rust](https://github.com/Hugo-Dz/spritefusion-pixel-snapper)
 * [2025-11-26, 01:27:16](https://news.ycombinator.com/item?id=46053076) - [Show HN: Real-time system that tracks how news spreads across 200k websites](https://yandori.io/news-flow/)
+* [2025-11-25, 22:11:50](https://news.ycombinator.com/item?id=46051422) - [Paul Hegarty's updated CS193p SwiftUI course released by Stanford](https://cs193p.stanford.edu/)
 * [2025-11-25, 16:37:31](https://news.ycombinator.com/item?id=46047562) - [A Second Look at Geolocation and Starlink](https://www.potaroo.net/ispcol/2025-11/starlinkgeo2.html)
 
 ## [Archives](archives/index.md)
