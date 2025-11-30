@@ -56,6 +56,7 @@
 * [2025-11-24, 13:57:53](https://news.ycombinator.com/item?id=46034142) - [Fast Lua runtime written in Rust](https://astra.arkforge.net/)
 * [2025-11-24, 13:37:28](https://news.ycombinator.com/item?id=46033945) - ['Nobody wants to come': What if the U.S. can no longer attract immigrant doctors](https://www.npr.org/sections/shots-health-news/2025/11/24/nx-s1-5618291/immigrant-physicians-foreign-born-doctors-trump-h1b)
 * [2025-11-24, 13:27:58](https://news.ycombinator.com/item?id=46033876) - [Generating Cats with KPN Filtering](https://aschrein.github.io/jekyll/update/2025/11/22/generating_cats.html)
+* [2025-11-24, 13:27:46](https://news.ycombinator.com/item?id=46033872) - [Generating Cats with learned lookup tables](https://aschrein.github.io/jekyll/update/2025/11/23/generating_cats2.html)
 * [2025-11-24, 12:47:38](https://news.ycombinator.com/item?id=46033536) - [Trade Chaos Causes Businesses to Rethink Their Relationship with the U.S.](https://www.nytimes.com/2025/11/24/business/tariffs-trade-small-business.html)
 * [2025-11-24, 12:39:10](https://news.ycombinator.com/item?id=46033472) - [Technical Deflation](https://benanderson.work/blog/technical-deflation/)
 * [2025-11-24, 12:37:43](https://news.ycombinator.com/item?id=46033454) - [Move Expressions](https://smallcultfollowing.com/babysteps/blog/2025/11/21/move-expressions/)

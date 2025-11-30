@@ -49,6 +49,7 @@
 * [2025-11-26, 13:36:19](https://news.ycombinator.com/item?id=46057266) - [Memories of .us](https://computer.rip/2025-11-11-dot-us.html)
 * [2025-11-26, 13:22:46](https://news.ycombinator.com/item?id=46057141) - [Post-mortem of Shai-Hulud attack on November 24th, 2025](https://posthog.com/blog/nov-24-shai-hulud-attack-post-mortem)
 * [2025-11-26, 13:05:33](https://news.ycombinator.com/item?id=46057000) - [Indie game developers have a new sales pitch: being 'AI free'](https://www.theverge.com/entertainment/827650/indie-developers-gen-ai-nexon-arc-raiders)
+* [2025-11-26, 12:57:35](https://news.ycombinator.com/item?id=46056954) - [The HTTP Query Method](https://www.ietf.org/archive/id/draft-ietf-httpbis-safe-method-w-body-14.html)
 * [2025-11-26, 12:28:30](https://news.ycombinator.com/item?id=46056763) - [Kagi Hub Belgrade](https://blog.kagi.com/kagi-hub)
 * [2025-11-26, 12:26:49](https://news.ycombinator.com/item?id=46056757) - [Qiskit open-source SDK for working with quantum computers](https://github.com/Qiskit/qiskit)
 * [2025-11-26, 12:20:04](https://news.ycombinator.com/item?id=46056715) - [Running a Business Means Contact with Reality](https://fredkozlowski.com/2025/11/02/running-a-business-means-contact-with-reality/)
