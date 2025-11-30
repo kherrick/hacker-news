@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-11-30, 20:54:43](https://news.ycombinator.com/item?id=46100323) - [\"Boobs check\" verify if sites behind CDN are hosted in Inside Iran or not](https://twitter.com/hkashfi/status/1995109785679573167)
+* [2025-11-30, 20:54:43](https://news.ycombinator.com/item?id=46100323) - [\"Boobs check\" – Technique to verify if sites behind CDN are hosted in Iran](https://twitter.com/hkashfi/status/1995109785679573167)
 * [2025-11-30, 20:14:12](https://news.ycombinator.com/item?id=46099985) - [People keep flocking to Linux, not just to escape Windows](https://www.zdnet.com/article/why-people-keep-flocking-to-linux-in-2025-and-its-not-just-to-escape-windows/)
 * [2025-11-30, 18:34:52](https://news.ycombinator.com/item?id=46099108) - [Program-of-Thought Prompting Outperforms Chain-of-Thought by 15% (2022)](https://arxiv.org/abs/2211.12588)
 * [2025-11-30, 18:21:45](https://news.ycombinator.com/item?id=46099022) - [NixOS 25.11 released](https://nixos.org/blog/announcements/2025/nixos-2511/)
