@@ -26,9 +26,9 @@
 * [2025-11-27, 16:07:24](https://news.ycombinator.com/item?id=46070537) - [The Easiest Way to Build a Type Checker](https://jimmyhmiller.com/easiest-way-to-build-type-checker)
 * [2025-11-27, 08:23:03](https://news.ycombinator.com/item?id=46067011) - [RL is more information inefficient than you thought](https://www.dwarkesh.com/p/bits-per-sample)
 * [2025-11-26, 12:57:35](https://news.ycombinator.com/item?id=46056954) - [The HTTP Query Method](https://www.ietf.org/archive/id/draft-ietf-httpbis-safe-method-w-body-14.html)
+* [2025-11-26, 04:15:57](https://news.ycombinator.com/item?id=46054142) - [Show HN: I engineered a 2mm micro-bearing D20 ring that free-spin for 20 seconds](https://news.ycombinator.com/item?id=46054142)
 * [2025-11-26, 01:27:16](https://news.ycombinator.com/item?id=46053076) - [Show HN: Real-time system that tracks how news spreads across 200k websites](https://yandori.io/news-flow/)
 * [2025-11-25, 22:11:50](https://news.ycombinator.com/item?id=46051422) - [Paul Hegarty's updated CS193p SwiftUI course released by Stanford](https://cs193p.stanford.edu/)
-* [2025-11-25, 15:57:53](https://news.ycombinator.com/item?id=46047052) - [Matrix Core Programming on AMD CDNA Architecture](https://rocm.blogs.amd.com/software-tools-optimization/matrix-cores-cdna/README.html)
 * [2025-11-22, 16:53:06](https://news.ycombinator.com/item?id=46016104) - [Advice for crime analyst to break into data science](https://andrewpwheeler.com/2025/11/21/advice-for-crime-analyst-to-break-into-data-science/)
 
 ## [Archives](archives/index.md)
