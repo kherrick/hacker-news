@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-11-30, 22:05:07",
+      "https://news.ycombinator.com/item?id=46100892"
+    ],
+    [
+      "A Love Letter to FreeBSD",
+      "https://www.tara.sh/posts/2025/2025-11-25_freebsd_letter/"
+    ]
+  ],
+  [
+    [
+      "2025-11-30, 21:24:22",
+      "https://news.ycombinator.com/item?id=46100566"
+    ],
+    [
+      "Stackoverflow Outage",
+      "https://www.stackstatus.net/"
+    ]
+  ],
+  [
+    [
       "2025-11-30, 20:54:43",
       "https://news.ycombinator.com/item?id=46100323"
     ],
@@ -131,16 +151,6 @@
   ],
   [
     [
-      "2025-11-30, 16:07:11",
-      "https://news.ycombinator.com/item?id=46097773"
-    ],
-    [
-      "The Thinking Game Film – Google DeepMind Documentary",
-      "https://thinkinggamefilm.com"
-    ]
-  ],
-  [
-    [
       "2025-11-30, 15:57:34",
       "https://news.ycombinator.com/item?id=46097671"
     ],
@@ -231,32 +241,22 @@
   ],
   [
     [
-      "2025-11-27, 17:23:06",
-      "https://news.ycombinator.com/item?id=46071317"
-    ],
-    [
-      "What's Hiding Inside Haribo's Power Bank and Headphones?",
-      "https://www.lumafield.com/first-article/posts/whats-hiding-inside-haribos-power-bank-and-headphones"
-    ]
-  ],
-  [
-    [
-      "2025-11-27, 16:07:24",
-      "https://news.ycombinator.com/item?id=46070537"
-    ],
-    [
-      "The Easiest Way to Build a Type Checker",
-      "https://jimmyhmiller.com/easiest-way-to-build-type-checker"
-    ]
-  ],
-  [
-    [
       "2025-11-27, 07:40:43",
       "https://news.ycombinator.com/item?id=46066746"
     ],
     [
       "Finding the grain of sand in a heap of Salt",
       "https://blog.cloudflare.com/finding-the-grain-of-sand-in-a-heap-of-salt/"
+    ]
+  ],
+  [
+    [
+      "2025-11-26, 15:55:48",
+      "https://news.ycombinator.com/item?id=46058670"
+    ],
+    [
+      "Stop Hacklore (modern urban legends about digital safety)",
+      "https://www.hacklore.org/letter"
     ]
   ],
   [
