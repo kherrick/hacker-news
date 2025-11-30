@@ -57,6 +57,7 @@
 * [2025-11-26, 11:31:42](https://news.ycombinator.com/item?id=46056358) - [EU council reaches position on Chat Control](https://www.consilium.europa.eu/de/press/press-releases/2025/11/26/child-sexual-abuse-council-reaches-position-on-law-protecting-children-from-online-abuse/)
 * [2025-11-26, 11:00:49](https://news.ycombinator.com/item?id=46056197) - [Await Is Not a Context Switch: Understanding Python's Coroutines vs. Tasks](https://mergify.com/blog/await-is-not-a-context-switch-understanding-python-s-coroutines-vs-tasks)
 * [2025-11-26, 10:08:20](https://news.ycombinator.com/item?id=46055944) - [I don't care how well your \"AI\" works](https://fokus.cool/2025/11/25/i-dont-care-how-well-your-ai-works.html)
+* [2025-11-26, 10:08:19](https://news.ycombinator.com/item?id=46055942) - [Dynamic Skillset Reference Architecture](https://chatbotkit.com/examples/dynamic-skillset-reference-architecture)
 * [2025-11-26, 10:06:41](https://news.ycombinator.com/item?id=46055935) - [A Cell So Minimal That It Challenges Definitions of Life](https://www.quantamagazine.org/a-cell-so-minimal-that-it-challenges-definitions-of-life-20251124/)
 * [2025-11-26, 08:40:29](https://news.ycombinator.com/item?id=46055421) - [Statistical Process Control in Python](https://timothyfraser.com/sigma/statistical-process-control-in-python.html)
 * [2025-11-26, 08:18:45](https://news.ycombinator.com/item?id=46055298) - [AWS is 10x slower than a dedicated server for the same price [video]](https://www.youtube.com/watch?v=Ps3AI1kTIR4)
