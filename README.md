@@ -2,7 +2,6 @@
 
 * [2025-11-30, 03:54:51](https://news.ycombinator.com/item?id=46093518) - [Zigbook Is Plagiarizing the Zigtools Playground](https://zigtools.org/blog/zigbook-plagiarizing-playground/)
 * [2025-11-30, 03:46:35](https://news.ycombinator.com/item?id=46093473) - [Show HN: Boing](https://boing.greg.technology/)
-* [2025-11-30, 03:44:22](https://news.ycombinator.com/item?id=46093458) - [MIT Report Claims 11.7% of U.S. Labor Can Be Replaced with Existing AI](https://iceberg.mit.edu/)
 * [2025-11-30, 01:25:43](https://news.ycombinator.com/item?id=46092630) - [Stopping bad guys from using my open source project (feedback wanted)](https://evanhahn.com/stopping-bad-guys-from-using-my-open-source-project/)
 * [2025-11-30, 01:15:59](https://news.ycombinator.com/item?id=46092558) - [Meshtastic](https://meshtastic.org/)
 * [2025-11-30, 01:03:44](https://news.ycombinator.com/item?id=46092478) - [A new Little Prince museum has opened its doors in Switzerland](https://www.lepetitprince.com/en/events-around-the-world/a-new-little-prince-museum-has-opened-its-doors-in-switzerland/)
@@ -17,9 +16,9 @@
 * [2025-11-29, 19:41:55](https://news.ycombinator.com/item?id=46090172) - [Be Like Clippy](https://be-clippy.com/)
 * [2025-11-29, 18:14:21](https://news.ycombinator.com/item?id=46089546) - [Student perceptions of AI coding assistants in learning](https://arxiv.org/abs/2507.22900)
 * [2025-11-29, 17:53:57](https://news.ycombinator.com/item?id=46089394) - [Zero knowlege proof of compositeness](https://www.johndcook.com/blog/2025/11/29/zkp-composite/)
-* [2025-11-29, 17:00:23](https://news.ycombinator.com/item?id=46089008) - [AccessOwl (YC S22) Is Hiring a Technical Account Manager (IAM)](https://www.ycombinator.com/companies/accessowl/jobs/dGC3pcO-technical-account-manager-identity-access-management)
 * [2025-11-29, 15:43:58](https://news.ycombinator.com/item?id=46088379) - [Testing shows automotive glassbreakers can't break modern automotive glass](https://www.core77.com/posts/138925/Testing-Shows-Automotive-Glassbreakers-Cant-Break-Modern-Automotive-Glass)
 * [2025-11-29, 14:05:53](https://news.ycombinator.com/item?id=46087616) - [Datacenters in space aren't going to work](https://taranis.ie/datacenters-in-space-are-a-terrible-horrible-no-good-idea/)
+* [2025-11-29, 12:25:35](https://news.ycombinator.com/item?id=46087022) - [The CRDT Dictionary: A Field Guide to Conflict-Free Replicated Data Types](https://www.iankduncan.com/engineering/2025-11-27-crdt-dictionary/)
 * [2025-11-29, 11:31:58](https://news.ycombinator.com/item?id=46086771) - [Leak confirms OpenAI is preparing ads on ChatGPT for public roll out](https://www.bleepingcomputer.com/news/artificial-intelligence/leak-confirms-openai-is-preparing-ads-on-chatgpt-for-public-roll-out/)
 * [2025-11-28, 13:57:43](https://news.ycombinator.com/item?id=46078684) - [An update on the Farphone's battery](https://far.computer/battery-update/)
 * [2025-11-27, 17:13:51](https://news.ycombinator.com/item?id=46071221) - [Blender facial animation tool. What else should it do?](https://github.com/shun126/livelinkface_arkit_receiver/wiki)
@@ -30,6 +29,7 @@
 * [2025-11-25, 15:57:53](https://news.ycombinator.com/item?id=46047052) - [Matrix Core Programming on AMD CDNA Architecture](https://rocm.blogs.amd.com/software-tools-optimization/matrix-cores-cdna/README.html)
 * [2025-11-24, 09:30:40](https://news.ycombinator.com/item?id=46032074) - [Show HN: Network Monitor – a GUI to spot anomalous connections on your Linux](https://news.ycombinator.com/item?id=46032074)
 * [2025-11-23, 04:22:41](https://news.ycombinator.com/item?id=46020730) - [Hardening the C++ Standard Library at scale](https://queue.acm.org/detail.cfm?id=3773097)
+* [2025-11-21, 17:06:21](https://news.ycombinator.com/item?id=46006323) - [Bronze Age mega-settlement in Kazakhstan has advanced urban planning, metallurgy](https://archaeologymag.com/2025/11/bronze-age-mega-settlement-in-kazakhstan/)
 
 ## [Archives](archives/index.md)
 
