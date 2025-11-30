@@ -9,6 +9,7 @@
 * [2025-11-24, 23:05:31](https://news.ycombinator.com/item?id=46040459) - [One of the Greatest Polar-Bear Hunters Confronts a Vanishing World](https://www.newyorker.com/magazine/2025/12/01/one-of-the-greatest-polar-bear-hunters-confronts-a-vanishing-world)
 * [2025-11-24, 22:17:40](https://news.ycombinator.com/item?id=46040053) - [1,700-year-old Roman sarcophagus is unearthed in Budapest](https://apnews.com/article/hungary-roman-sarcophagus-discovery-budapest-77a41fe190bbcc167b43d05141536f54)
 * [2025-11-24, 22:12:04](https://news.ycombinator.com/item?id=46040005) - [DoGE \"cut muscle, not fat\"; 26K experts rehired after brutal cuts](https://arstechnica.com/tech-policy/2025/11/doge-doesnt-exist-anymore-but-expert-says-its-still-not-dead/)
+* [2025-11-24, 21:31:04](https://news.ycombinator.com/item?id=46039594) - [I Made a Quieter Air Purifier](https://chillphysicsenjoyer.substack.com/p/i-made-a-quieter-air-purifier)
 * [2025-11-24, 21:12:25](https://news.ycombinator.com/item?id=46039387) - [Willis Whitfield: A simple man with a simple solution that changed the world](https://www.sandia.gov/labnews/2024/04/04/willis-whitfield-a-simple-man-with-a-simple-solution-that-changed-the-world/)
 * [2025-11-24, 21:06:39](https://news.ycombinator.com/item?id=46039317) - [Atuin’s New Runbook Execution Engine](https://blog.atuin.sh/introducing-the-new-runbook-execution-engine/)
 * [2025-11-24, 21:03:22](https://news.ycombinator.com/item?id=46039274) - [AI has a deep understanding of how this code works](https://github.com/ocaml/ocaml/pull/14369)
