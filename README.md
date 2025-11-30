@@ -25,7 +25,7 @@
 * [2025-11-30, 03:46:35](https://news.ycombinator.com/item?id=46093473) - [Show HN: Boing](https://boing.greg.technology/)
 * [2025-11-29, 20:22:44](https://news.ycombinator.com/item?id=46090433) - [All it takes is for one to work out](https://alearningaday.blog/2025/11/28/all-it-takes-is-for-one-to-work-out-2/)
 * [2025-11-27, 07:40:43](https://news.ycombinator.com/item?id=46066746) - [Finding the grain of sand in a heap of Salt](https://blog.cloudflare.com/finding-the-grain-of-sand-in-a-heap-of-salt/)
-* [2025-11-26, 15:55:48](https://news.ycombinator.com/item?id=46058670) - [Stop Hacklore (modern urban legends about digital safety)](https://www.hacklore.org/letter)
+* [2025-11-26, 15:55:48](https://news.ycombinator.com/item?id=46058670) - [Stop Hacklore – An Open Letter](https://www.hacklore.org/letter)
 * [2025-11-26, 15:46:51](https://news.ycombinator.com/item?id=46058566) - [Show HN: Fixing Google Nano Banana Pixel Art with Rust](https://github.com/Hugo-Dz/spritefusion-pixel-snapper)
 * [2025-11-26, 01:27:16](https://news.ycombinator.com/item?id=46053076) - [Show HN: Real-time system that tracks how news spreads across 200k websites](https://yandori.io/news-flow/)
 * [2025-11-25, 22:11:50](https://news.ycombinator.com/item?id=46051422) - [Paul Hegarty's updated CS193p SwiftUI course released by Stanford](https://cs193p.stanford.edu/)
