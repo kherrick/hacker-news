@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-11-30, 16:28:41](https://news.ycombinator.com/item?id=46097992) - [Google CEO says ‘vibe coding’ made software development ‘so much more enjoyable’](https://www.google.com/url?q=https://indianexpress.com/article/technology/tech-news-technology/google-ceo-sundar-pichai-says-vibe-coding-has-made-software-development-so-much-more-enjoyable-10393752/)
 * [2025-11-30, 16:07:11](https://news.ycombinator.com/item?id=46097773) - [The Thinking Game Film – Google DeepMind Documentary](https://thinkinggamefilm.com)
 * [2025-11-30, 15:52:41](https://news.ycombinator.com/item?id=46097624) - [Modern cars are spying on you. Here's what you can do about it](https://apnews.com/article/auto-car-privacy-3674ce59c9b30f2861d29178a31e6ab7)
 * [2025-11-30, 15:51:03](https://news.ycombinator.com/item?id=46097609) - [Atlas Shrugged](https://david-jasso.com/2024/04/11/atlas-shrugged/)
@@ -22,7 +23,6 @@
 * [2025-11-29, 20:22:44](https://news.ycombinator.com/item?id=46090433) - [All it takes is for one to work out](https://alearningaday.blog/2025/11/28/all-it-takes-is-for-one-to-work-out-2/)
 * [2025-11-29, 19:55:17](https://news.ycombinator.com/item?id=46090269) - [Learning Feynman's Trick for Integrals](https://zackyzz.github.io/feynman.html)
 * [2025-11-29, 14:05:53](https://news.ycombinator.com/item?id=46087616) - [Datacenters in space aren't going to work](https://taranis.ie/datacenters-in-space-are-a-terrible-horrible-no-good-idea/)
-* [2025-11-29, 11:31:58](https://news.ycombinator.com/item?id=46086771) - [Leak confirms OpenAI is preparing ads on ChatGPT for public roll out](https://www.bleepingcomputer.com/news/artificial-intelligence/leak-confirms-openai-is-preparing-ads-on-chatgpt-for-public-roll-out/)
 * [2025-11-27, 17:23:06](https://news.ycombinator.com/item?id=46071317) - [What's Hiding Inside Haribo's Power Bank and Headphones?](https://www.lumafield.com/first-article/posts/whats-hiding-inside-haribos-power-bank-and-headphones)
 * [2025-11-27, 16:07:24](https://news.ycombinator.com/item?id=46070537) - [The Easiest Way to Build a Type Checker](https://jimmyhmiller.com/easiest-way-to-build-type-checker)
 * [2025-11-27, 08:23:03](https://news.ycombinator.com/item?id=46067011) - [RL is more information inefficient than you thought](https://www.dwarkesh.com/p/bits-per-sample)
