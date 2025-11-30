@@ -41,6 +41,7 @@
 * [2025-11-25, 16:21:24](https://news.ycombinator.com/item?id=46047350) - [Orion 1.0 – Browse Beyond](https://blog.kagi.com/orion)
 * [2025-11-25, 16:12:22](https://news.ycombinator.com/item?id=46047229) - [Roblox is a problem – but it's a symptom of something worse](https://www.platformer.news/roblox-ceo-interview-backlash-analysis/)
 * [2025-11-25, 15:57:54](https://news.ycombinator.com/item?id=46047053) - [Brand New Layouts with CSS Subgrid](https://www.joshwcomeau.com/css/subgrid/)
+* [2025-11-25, 15:57:53](https://news.ycombinator.com/item?id=46047052) - [Matrix Core Programming on AMD CDNA Architecture](https://rocm.blogs.amd.com/software-tools-optimization/matrix-cores-cdna/README.html)
 * [2025-11-25, 15:47:14](https://news.ycombinator.com/item?id=46046916) - [FLUX.2: Frontier Visual Intelligence](https://bfl.ai/blog/flux-2)
 * [2025-11-25, 15:24:59](https://news.ycombinator.com/item?id=46046626) - [Cryptology firm cancels elections after losing encryption key](https://www.bbc.com/news/articles/c62vl05rz0ko)
 * [2025-11-25, 14:20:30](https://news.ycombinator.com/item?id=46045987) - [Launch HN: Onyx (YC W24) – The open-source chat UI](https://news.ycombinator.com/item?id=46045987)
