@@ -27,9 +27,9 @@
 * [2025-11-26, 07:03:27](https://news.ycombinator.com/item?id=46054879) - [Anthony Bourdain's Lost Li.st's](https://bourdain.greg.technology/)
 * [2025-11-25, 21:12:55](https://news.ycombinator.com/item?id=46050861) - [A new myth appeared during the presidential campaign of Andrew Jackson](https://www.historynewsnetwork.org/article/self-made)
 * [2025-11-25, 15:57:53](https://news.ycombinator.com/item?id=46047052) - [Matrix Core Programming on AMD CDNA Architecture](https://rocm.blogs.amd.com/software-tools-optimization/matrix-cores-cdna/README.html)
-* [2025-11-24, 23:05:31](https://news.ycombinator.com/item?id=46040459) - [One of the Greatest Polar-Bear Hunters Confronts a Vanishing World](https://www.newyorker.com/magazine/2025/12/01/one-of-the-greatest-polar-bear-hunters-confronts-a-vanishing-world)
 * [2025-11-24, 09:30:40](https://news.ycombinator.com/item?id=46032074) - [Show HN: Network Monitor – a GUI to spot anomalous connections on your Linux](https://news.ycombinator.com/item?id=46032074)
 * [2025-11-23, 04:22:41](https://news.ycombinator.com/item?id=46020730) - [Hardening the C++ Standard Library at scale](https://queue.acm.org/detail.cfm?id=3773097)
+* [2025-11-21, 17:06:21](https://news.ycombinator.com/item?id=46006323) - [Bronze Age mega-settlement in Kazakhstan has advanced urban planning, metallurgy](https://archaeologymag.com/2025/11/bronze-age-mega-settlement-in-kazakhstan/)
 
 ## [Archives](archives/index.md)
 
