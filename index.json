@@ -1,12 +1,22 @@
 [
   [
     [
-      "2025-11-29, 22:56:14",
-      "https://news.ycombinator.com/item?id=46091591"
+      "2025-11-29, 23:59:49",
+      "https://news.ycombinator.com/item?id=46092056"
     ],
     [
-      "Americans no longer see four-year college degrees as worth the cost",
-      "https://www.nbcnews.com/politics/politics-news/poll-dramatic-shift-americans-no-longer-see-four-year-college-degrees-rcna243672"
+      "Dilution vs. Risk taking: Capital gains taxes and entrepreneurs",
+      "https://www.nber.org/papers/w34512"
+    ]
+  ],
+  [
+    [
+      "2025-11-29, 23:51:21",
+      "https://news.ycombinator.com/item?id=46092000"
+    ],
+    [
+      "Scala",
+      "https://www.huygens-fokker.org/scala/"
     ]
   ],
   [
@@ -51,32 +61,12 @@
   ],
   [
     [
-      "2025-11-29, 20:37:59",
-      "https://news.ycombinator.com/item?id=46090574"
-    ],
-    [
-      "Joe Armstrong interviews Alan Kay (2016) [video]",
-      "https://www.youtube.com/watch?v=fhOHn9TClXY"
-    ]
-  ],
-  [
-    [
       "2025-11-29, 20:22:44",
       "https://news.ycombinator.com/item?id=46090433"
     ],
     [
       "All it takes is for one to work out",
       "https://alearningaday.blog/2025/11/28/all-it-takes-is-for-one-to-work-out-2/"
-    ]
-  ],
-  [
-    [
-      "2025-11-29, 20:12:37",
-      "https://news.ycombinator.com/item?id=46090372"
-    ],
-    [
-      "Baboon: Data Modeling with Automatic Evolutions and tagless binary codecs",
-      "https://github.com/7mind/baboon"
     ]
   ],
   [
@@ -111,12 +101,12 @@
   ],
   [
     [
-      "2025-11-29, 19:14:13",
-      "https://news.ycombinator.com/item?id=46089980"
+      "2025-11-29, 18:14:21",
+      "https://news.ycombinator.com/item?id=46089546"
     ],
     [
-      "Framework Computer Now Sponsoring LVFS / Fwupd Development",
-      "https://www.phoronix.com/news/Framework-Sponsoring-LVFS"
+      "Student perceptions of AI coding assistants in learning",
+      "https://arxiv.org/abs/2507.22900"
     ]
   ],
   [
@@ -141,12 +131,32 @@
   ],
   [
     [
-      "2025-11-29, 15:21:29",
-      "https://news.ycombinator.com/item?id=46088192"
+      "2025-11-29, 16:58:58",
+      "https://news.ycombinator.com/item?id=46088998"
     ],
     [
-      "Iceland declares ocean-current instability a national security risk",
-      "https://edition.cnn.com/2025/11/15/climate/iceland-warming-current-amoc-collapse-threat"
+      "We're learning more about what Vitamin D does",
+      "https://www.technologyreview.com/2025/11/21/1128206/vitamin-d-bodies-bone-health-immune/"
+    ]
+  ],
+  [
+    [
+      "2025-11-29, 15:43:58",
+      "https://news.ycombinator.com/item?id=46088379"
+    ],
+    [
+      "Testing shows automotive glassbreakers can't break modern automotive glass",
+      "https://www.core77.com/posts/138925/Testing-Shows-Automotive-Glassbreakers-Cant-Break-Modern-Automotive-Glass"
+    ]
+  ],
+  [
+    [
+      "2025-11-29, 14:05:53",
+      "https://news.ycombinator.com/item?id=46087616"
+    ],
+    [
+      "Datacenters in space aren't going to work",
+      "https://taranis.ie/datacenters-in-space-are-a-terrible-horrible-no-good-idea/"
     ]
   ],
   [
@@ -177,6 +187,16 @@
     [
       "The CRDT Dictionary: A Field Guide to Conflict-Free Replicated Data Types",
       "https://www.iankduncan.com/engineering/2025-11-27-crdt-dictionary/"
+    ]
+  ],
+  [
+    [
+      "2025-11-29, 11:31:58",
+      "https://news.ycombinator.com/item?id=46086771"
+    ],
+    [
+      "Leak confirms OpenAI is preparing ads on ChatGPT for public roll out",
+      "https://www.bleepingcomputer.com/news/artificial-intelligence/leak-confirms-openai-is-preparing-ads-on-chatgpt-for-public-roll-out/"
     ]
   ],
   [
@@ -221,16 +241,6 @@
   ],
   [
     [
-      "2025-11-26, 07:40:43",
-      "https://news.ycombinator.com/item?id=46055091"
-    ],
-    [
-      "Plinko PIR Tutorial",
-      "https://vitalik.eth.limo/general/2025/11/25/plinko.html"
-    ]
-  ],
-  [
-    [
       "2025-11-26, 07:03:27",
       "https://news.ycombinator.com/item?id=46054879"
     ],
@@ -251,22 +261,12 @@
   ],
   [
     [
-      "2025-11-25, 21:12:55",
-      "https://news.ycombinator.com/item?id=46050861"
+      "2025-11-25, 20:24:12",
+      "https://news.ycombinator.com/item?id=46050302"
     ],
     [
-      "Men Who Made America's Self-Made Man",
-      "https://www.historynewsnetwork.org/article/self-made"
-    ]
-  ],
-  [
-    [
-      "2025-11-24, 15:27:53",
-      "https://news.ycombinator.com/item?id=46035126"
-    ],
-    [
-      "WebR – R in the Browser",
-      "https://webr.sh/"
+      "1964 Recompiling Engine Documentation (2001) [pdf]",
+      "https://emudev.org/docs/1964-recompiling-engine-documentation.pdf"
     ]
   ],
   [
