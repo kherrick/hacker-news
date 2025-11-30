@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-11-30](index.md)
 
+* [2025-11-30, 13:03:01](https://news.ycombinator.com/item?id=46096312) - [OpenBSD: Free, Functional, and Secure](https://www.openbsd.org/)
 * [2025-11-30, 10:47:27](https://news.ycombinator.com/item?id=46095585) - [CachyOS: Fast and Customizable Linux Distribution](https://cachyos.org/)
 * [2025-11-30, 10:32:45](https://news.ycombinator.com/item?id=46095521) - [Austria's armed forces rely on LibreOffice instead of Microsoft](https://oe1.orf.at/programm/20250916/807304/Freie-Software-fuer-das-Bundesheer)
 * [2025-11-30, 10:03:31](https://news.ycombinator.com/item?id=46095363) - [Silicon Valley's Man in the White House Is Benefiting Himself and His Friends](https://www.nytimes.com/2025/11/30/technology/david-sacks-white-house-profits.html)

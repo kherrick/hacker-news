@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-11-30, 13:03:01](https://news.ycombinator.com/item?id=46096312) - [OpenBSD: Free, Functional, and Secure](https://www.openbsd.org/)
 * [2025-11-30, 10:47:27](https://news.ycombinator.com/item?id=46095585) - [CachyOS: Fast and Customizable Linux Distribution](https://cachyos.org/)
 * [2025-11-30, 10:03:31](https://news.ycombinator.com/item?id=46095363) - [Silicon Valley's man in the White House is benefiting himself and his friends](https://www.nytimes.com/2025/11/30/technology/david-sacks-white-house-profits.html)
 * [2025-11-30, 09:44:15](https://news.ycombinator.com/item?id=46095250) - [The space of minds](https://karpathy.bearblog.dev/the-space-of-minds/)
@@ -11,7 +12,6 @@
 * [2025-11-29, 22:56:14](https://news.ycombinator.com/item?id=46091591) - [Americans no longer see four-year college degrees as worth the cost](https://www.nbcnews.com/politics/politics-news/poll-dramatic-shift-americans-no-longer-see-four-year-college-degrees-rcna243672)
 * [2025-11-29, 22:22:24](https://news.ycombinator.com/item?id=46091362) - [Bazzite: The next generation of Linux gaming](https://bazzite.gg/)
 * [2025-11-29, 21:30:53](https://news.ycombinator.com/item?id=46090969) - [Landlock-Ing Linux](https://blog.prizrak.me/post/landlock/)
-* [2025-11-29, 20:44:24](https://news.ycombinator.com/item?id=46090619) - [Show HN: Nano PDF – A CLI Tool to Edit PDFs with Gemini's Nano Banana](https://github.com/gavrielc/Nano-PDF)
 * [2025-11-29, 20:22:44](https://news.ycombinator.com/item?id=46090433) - [All it takes is for one to work out](https://alearningaday.blog/2025/11/28/all-it-takes-is-for-one-to-work-out-2/)
 * [2025-11-29, 19:55:17](https://news.ycombinator.com/item?id=46090269) - [Learning Feynman's Trick for Integrals](https://zackyzz.github.io/feynman.html)
 * [2025-11-29, 19:41:55](https://news.ycombinator.com/item?id=46090172) - [Be Like Clippy](https://be-clippy.com/)
