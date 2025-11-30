@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-11-30, 20:14:12](https://news.ycombinator.com/item?id=46099985) - [By my count, Linux has 11% of the desktop market. Here's how I got that number](https://www.zdnet.com/article/why-people-keep-flocking-to-linux-in-2025-and-its-not-just-to-escape-windows/)
 * [2025-11-30, 18:34:52](https://news.ycombinator.com/item?id=46099108) - [Program-of-Thought Prompting Outperforms Chain-of-Thought by 15% (2022)](https://arxiv.org/abs/2211.12588)
 * [2025-11-30, 18:21:45](https://news.ycombinator.com/item?id=46099022) - [NixOS 25.11 Released](https://nixos.org/blog/announcements/2025/nixos-2511/)
 * [2025-11-30, 18:17:13](https://news.ycombinator.com/item?id=46098992) - [Don't push AI down our throats](https://gpt3experiments.substack.com/p/dont-push-ai-down-our-throats)
@@ -29,7 +30,6 @@
 * [2025-11-26, 01:27:16](https://news.ycombinator.com/item?id=46053076) - [Show HN: Real-time system that tracks how news spreads across 200k websites](https://yandori.io/news-flow/)
 * [2025-11-25, 22:11:50](https://news.ycombinator.com/item?id=46051422) - [Paul Hegarty's updated CS193p SwiftUI course released by Stanford](https://cs193p.stanford.edu/)
 * [2025-11-25, 16:37:31](https://news.ycombinator.com/item?id=46047562) - [A Second Look at Geolocation and Starlink](https://www.potaroo.net/ispcol/2025-11/starlinkgeo2.html)
-* [2025-11-24, 21:31:04](https://news.ycombinator.com/item?id=46039594) - [I Made a Quieter Air Purifier](https://chillphysicsenjoyer.substack.com/p/i-made-a-quieter-air-purifier)
 
 ## [Archives](archives/index.md)
 
