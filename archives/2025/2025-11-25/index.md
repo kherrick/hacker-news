@@ -67,3 +67,4 @@
 * [2025-11-25, 05:14:47](https://news.ycombinator.com/item?id=46042562) - [Magicians of the Miniature (2014)](http://nzpetesmatteshot.blogspot.com/2014/12/magicians-of-miniature.html)
 * [2025-11-25, 03:42:05](https://news.ycombinator.com/item?id=46042145) - [Stereo Images of Giant Galaxies](https://www.bbc.com/future/article/20251121-sir-brian-mays-stereo-vision-of-galaxies)
 * [2025-11-25, 03:33:03](https://news.ycombinator.com/item?id=46042074) - [How to get Pandoc to respect custom table styles in Word templates](https://johnathandos.com/posts/2025-11-24-custom-tables-with-pandoc/)
+* [2025-11-25, 01:04:49](https://news.ycombinator.com/item?id=46041253) - [Seeing a Molecule's Quantum Shadow](https://physics.aps.org/articles/v18/s149)

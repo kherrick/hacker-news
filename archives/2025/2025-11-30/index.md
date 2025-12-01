@@ -48,6 +48,7 @@
 * [2025-11-30, 09:44:15](https://news.ycombinator.com/item?id=46095250) - [The Space of Minds](https://karpathy.bearblog.dev/the-space-of-minds/)
 * [2025-11-30, 07:00:40](https://news.ycombinator.com/item?id=46094478) - [Jiga (YC W21) Is Hiring Product Designer](https://www.ycombinator.com/companies/jiga/jobs/Cco7vyK-product-designer-remote-europe)
 * [2025-11-30, 06:57:36](https://news.ycombinator.com/item?id=46094465) - [The Copenhagen Trap: How the West made passivity the only safe strategy](https://aliveness.kunnas.com/articles/copenhagen-trap)
+* [2025-11-30, 05:19:33](https://news.ycombinator.com/item?id=46094037) - [AI just proved Erdos Problem #124](https://www.erdosproblems.com/forum/thread/124#post-1892)
 * [2025-11-30, 03:54:51](https://news.ycombinator.com/item?id=46093518) - [Zigbook Is Plagiarizing the Zigtools Playground](https://zigtools.org/blog/zigbook-plagiarizing-playground/)
 * [2025-11-30, 03:46:35](https://news.ycombinator.com/item?id=46093473) - [Show HN: Boing](https://boing.greg.technology/)
 * [2025-11-30, 03:44:22](https://news.ycombinator.com/item?id=46093458) - [MIT Report Claims 11.7% of U.S. Labor Can Be Replaced with Existing AI](https://iceberg.mit.edu/)
