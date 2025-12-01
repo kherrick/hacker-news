@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-12-01](index.md)
 
+* [2025-12-01, 20:20:19](https://news.ycombinator.com/item?id=46112640) - [Sycophancy is the first LLM \"dark pattern\"](https://www.seangoedecke.com/ai-sycophancy/)
 * [2025-12-01, 18:58:50](https://news.ycombinator.com/item?id=46111469) - [Better Than JSON](https://aloisdeniel.com/blog/better-than-json)
 * [2025-12-01, 18:57:27](https://news.ycombinator.com/item?id=46111449) - [React and Remix Choose Different Futures](https://laconicwit.com/react-and-remix-choose-different-futures/)
 * [2025-12-01, 18:46:17](https://news.ycombinator.com/item?id=46111284) - [Intel could return to Apple computers in 2027](https://www.theverge.com/news/832366/intel-apple-m-chip-low-end-processor)
@@ -11,6 +12,7 @@
 * [2025-12-01, 18:21:19](https://news.ycombinator.com/item?id=46110908) - [High-income job losses are cooling housing demand](https://jbrec.com/insights/job-growth-housing-demand-metro-analysis-2026/)
 * [2025-12-01, 18:17:02](https://news.ycombinator.com/item?id=46110842) - [Ghostty compiled to WASM with xterm.js API compatibility](https://github.com/coder/ghostty-web)
 * [2025-12-01, 18:16:09](https://news.ycombinator.com/item?id=46110836) - [Response to Ruby Is Not a Serious Programming Language](https://robbyonrails.com/articles/2025/12/01/why-so-serious/)
+* [2025-12-01, 17:04:10](https://news.ycombinator.com/item?id=46109843) - [Show HN: RFC Hub](https://rfchub.app/)
 * [2025-12-01, 17:01:18](https://news.ycombinator.com/item?id=46109802) - [Better Auth (YC X25) Is Hiring](https://www.ycombinator.com/companies/better-auth/jobs/eKk5nLt-developer-relation-engineer)
 * [2025-12-01, 16:42:15](https://news.ycombinator.com/item?id=46109534) - [A New AI Winter Is Coming](https://taranis.ie/llms-are-a-failure-a-new-ai-winter-is-coming/)
 * [2025-12-01, 16:11:15](https://news.ycombinator.com/item?id=46109080) - [ImAnim: Modern animation capabilities to ImGui applications](https://github.com/soufianekhiat/ImAnim)
