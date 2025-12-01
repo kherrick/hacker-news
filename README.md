@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-12-01, 21:44:34](https://news.ycombinator.com/item?id=46113689) - [Why Am I Paying $40k for the Birth of My Child?](https://aaronstannard.com/40k-baby/)
+* [2025-12-01, 21:20:28](https://news.ycombinator.com/item?id=46113387) - [Pose-free 3D Gaussian splatting via shape-ray estimation](https://arxiv.org/abs/2505.22978)
 * [2025-12-01, 21:08:07](https://news.ycombinator.com/item?id=46113232) - [Lawmakers Want to Ban VPNs–and They Have No Idea What They're Doing](https://www.techdirt.com/2025/12/01/lawmakers-want-to-ban-vpns-and-they-have-no-idea-what-theyre-doing/)
 * [2025-12-01, 20:55:56](https://news.ycombinator.com/item?id=46113092) - [Instagram chief orders staff back to the office five days a week in 2026](https://www.businessinsider.com/instagram-chief-adam-mosseri-announces-five-day-office-return-2025-12)
 * [2025-12-01, 20:40:58](https://news.ycombinator.com/item?id=46112906) - [How to Attend Meetings – Internal guidelines from the New York Times](https://docs.google.com/presentation/d/1l7s1aAsNPlNhSye8OsMqmH6pMR32OYGGdLT6VKyFaQE/edit#slide=id.p)
@@ -24,11 +26,9 @@
 * [2025-12-01, 07:05:57](https://news.ycombinator.com/item?id=46104396) - [Games using anti-cheats and their compatibility with GNU/Linux or Wine/Proton](https://areweanticheatyet.com/)
 * [2025-12-01, 06:30:14](https://news.ycombinator.com/item?id=46104193) - [India orders smartphone makers to preload state-owned cyber safety app](https://www.reuters.com/sustainability/boards-policy-regulation/india-orders-mobile-phones-preloaded-with-government-app-ensure-cyber-safety-2025-12-01/)
 * [2025-12-01, 05:36:48](https://news.ycombinator.com/item?id=46103858) - [It’s been a very hard year](https://bell.bz/its-been-a-very-hard-year/)
-* [2025-12-01, 04:06:06](https://news.ycombinator.com/item?id=46103376) - [Search tool that only returns content created before ChatGPT's public release](https://tegabrain.com/Slop-Evader)
 * [2025-11-30, 15:57:34](https://news.ycombinator.com/item?id=46097671) - [Langjam Gamejam: Build a programming language then make a game with it](https://langjamgamejam.com/)
 * [2025-11-27, 15:06:35](https://news.ycombinator.com/item?id=46069905) - [Ancestry and the NRS: when the corporate genealogy world turns ugly](http://scottishgenes.blogspot.com/2025/09/ancestry-and-nrs-when-corporate.html)
 * [2025-11-26, 11:05:26](https://news.ycombinator.com/item?id=46056232) - [Amazon faces FAA probe after delivery drone snaps internet cable in Texas](https://www.cnbc.com/2025/11/25/amazon-faa-probe-delivery-drone-incident-texas.html)
-* [2025-11-26, 05:33:49](https://news.ycombinator.com/item?id=46054471) - [Spleen Monospaced Bitmap Fonts](https://github.com/fcambus/spleen)
 * [2025-11-25, 14:04:37](https://news.ycombinator.com/item?id=46045876) - [Historic Engineering Wonders: Photos That Reveal How They Pulled It Off](https://rarehistoricalphotos.com/engineering-methods-from-the-past/)
 
 ## [Archives](archives/index.md)
