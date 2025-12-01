@@ -63,6 +63,7 @@
 * [2025-11-22, 06:25:10](https://news.ycombinator.com/item?id=46012588) - [Room-temperature processible ceramics enable sustainable electronics](https://www.dezeen.com/2025/11/17/geolectric-light-mit-design-intelligence-lab/)
 * [2025-11-22, 06:13:05](https://news.ycombinator.com/item?id=46012538) - [Building a deep-space logistics startup](https://ionmicrosys.com/)
 * [2025-11-22, 05:21:53](https://news.ycombinator.com/item?id=46012328) - [Superman copy found in mum's attic is most valuable comic ever at $9.12M](https://www.bbc.com/news/articles/c8e9rp0knj6o)
+* [2025-11-22, 04:36:23](https://news.ycombinator.com/item?id=46012135) - [Boring Laser Eyes Simulator: Add laser beams to your eyes with your webcam](https://news.ycombinator.com/item?id=46012135)
 * [2025-11-22, 04:12:48](https://news.ycombinator.com/item?id=46012052) - [Openring-rs: a webring for static site generators written in Rust](https://github.com/lukehsiao/openring-rs)
 * [2025-11-22, 03:57:29](https://news.ycombinator.com/item?id=46011978) - [Moss Survives 9 Months in Space Vacuum](https://scienceclock.com/moss-survives-9-months-in-space-vacuum/)
 * [2025-11-22, 03:08:28](https://news.ycombinator.com/item?id=46011712) - [Auditing JDBC Drivers at Scale with AI led to 85000 bounty](https://www.hacktron.ai/blog/jdbc-audit-at-scale)

@@ -4,6 +4,11 @@
 
 ### [Archives](../../index.md) for [2025-12-01](index.md)
 
+* [2025-12-01, 16:11:15](https://news.ycombinator.com/item?id=46109080) - [ImAnim: Modern animation capabilities to ImGui applications](https://github.com/soufianekhiat/ImAnim)
+* [2025-12-01, 16:01:26](https://news.ycombinator.com/item?id=46108941) - [Ask HN: Who is hiring? (December 2025)](https://news.ycombinator.com/item?id=46108941)
+* [2025-12-01, 15:57:18](https://news.ycombinator.com/item?id=46108892) - [Show HN: I built a 1.8MB native app with self-built UI, vision and AI libraries](https://github.com/Okery/Aivition)
+* [2025-12-01, 15:28:49](https://news.ycombinator.com/item?id=46108563) - [Google *Unkills* JPEG XL?](https://tonisagrista.com/blog/2025/google-unkills-jpegxl/)
+* [2025-12-01, 15:18:42](https://news.ycombinator.com/item?id=46108437) - [Google, Nvidia, and OpenAI – Stratechery by Ben Thompson](https://stratechery.com/2025/google-nvidia-and-openai/)
 * [2025-12-01, 15:00:45](https://news.ycombinator.com/item?id=46108243) - [WordPress plugin quirk resulted in UK Gov OBR Budget leak [pdf]](https://obr.uk/docs/dlm_uploads/01122025-Investigation-into-November-2025-EFO-publication-error.pdf)
 * [2025-12-01, 14:50:16](https://news.ycombinator.com/item?id=46108106) - [Netflix Kills Casting from Its Mobile App to Most Modern TVs](https://www.macrumors.com/2025/12/01/netflix-kills-casting-from-mobile-app-to-tvs/)
 * [2025-12-01, 14:47:48](https://news.ycombinator.com/item?id=46108071) - [Ask HN: Quality of recent gens of Dell/Lenovo laptops worse than 10 years ago?](https://news.ycombinator.com/item?id=46108071)
