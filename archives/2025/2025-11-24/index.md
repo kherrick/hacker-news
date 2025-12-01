@@ -33,6 +33,7 @@
 * [2025-11-24, 18:30:48](https://news.ycombinator.com/item?id=46037324) - [TSMC Arizona Outage Saw Fab Halt, Apple Wafers Scrapped](https://www.culpium.com/p/tsmc-arizona-outage-saw-fab-halt)
 * [2025-11-24, 18:26:09](https://news.ycombinator.com/item?id=46037267) - [Mind-reading devices can now predict preconscious thoughts: is it time to worry?](https://www.nature.com/articles/d41586-025-03714-0)
 * [2025-11-24, 18:25:53](https://news.ycombinator.com/item?id=46037261) - [Installing Java in 2025, and Version Managers](https://blog.hakanserce.com/post/version_managers/)
+* [2025-11-24, 18:19:09](https://news.ycombinator.com/item?id=46037185) - [Whole-body Learning in Creating Mathematical/Architectural Structures [pdf]](https://archive.bridgesmathart.org/2017/bridges2017-523.pdf)
 * [2025-11-24, 18:07:47](https://news.ycombinator.com/item?id=46037056) - [Shopping research in ChatGPT](https://openai.com/index/chatgpt-shopping-research/)
 * [2025-11-24, 18:05:08](https://news.ycombinator.com/item?id=46037031) - [Show HN: Explore what the browser exposes about you](https://neberej.github.io/exposedbydefault/)
 * [2025-11-24, 17:52:43](https://news.ycombinator.com/item?id=46036908) - [Show HN: I built an interactive HN Simulator](https://news.ysimulator.run/news)

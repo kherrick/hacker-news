@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-12-01](index.md)
 
+* [2025-12-01, 10:37:39](https://news.ycombinator.com/item?id=46105803) - [AWS data centers' water use tied to spike in cancer and miscarriages in Oregon](https://techoreon.com/oregon-data-centers-water-use-nitrates-cancer-miscarriage/)
+* [2025-12-01, 10:35:57](https://news.ycombinator.com/item?id=46105798) - [KDE Plasma 6.8 Set to Drop X11 Support Completely](https://itsfoss.com/news/kde-plasma-to-drop-x11-support/)
 * [2025-12-01, 08:54:31](https://news.ycombinator.com/item?id=46105079) - [DeepSeek releases open-weights math model with IMO gold medal performance](https://huggingface.co/deepseek-ai/DeepSeek-Math-V2)
 * [2025-12-01, 07:26:47](https://news.ycombinator.com/item?id=46104511) - [Do the Thinking Models Actually Think?](https://bytesauna.com/post/consciousness)
 * [2025-12-01, 07:05:57](https://news.ycombinator.com/item?id=46104396) - [Games using anti-cheats and their compatibility with GNU/Linux or Wine/Proton](https://areweanticheatyet.com/)
