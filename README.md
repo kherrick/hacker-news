@@ -12,6 +12,7 @@
 * [2025-12-01, 18:46:17](https://news.ycombinator.com/item?id=46111284) - [Intel could return to Apple computers in 2027](https://www.theverge.com/news/832366/intel-apple-m-chip-low-end-processor)
 * [2025-12-01, 18:35:01](https://news.ycombinator.com/item?id=46111120) - [Durin is a library for reading and writing the Dwarf debugging format](https://github.com/tmcgilchrist/durin)
 * [2025-12-01, 18:17:02](https://news.ycombinator.com/item?id=46110842) - [Ghostty compiled to WASM with xterm.js API compatibility](https://github.com/coder/ghostty-web)
+* [2025-12-01, 18:16:09](https://news.ycombinator.com/item?id=46110836) - [Response to \"Ruby Is Not a Serious Programming Language\"](https://robbyonrails.com/articles/2025/12/01/why-so-serious/)
 * [2025-12-01, 17:01:18](https://news.ycombinator.com/item?id=46109802) - [Better Auth (YC X25) Is Hiring](https://www.ycombinator.com/companies/better-auth/jobs/eKk5nLt-developer-relation-engineer)
 * [2025-12-01, 16:11:15](https://news.ycombinator.com/item?id=46109080) - [ImAnim: Modern animation capabilities to ImGui applications](https://github.com/soufianekhiat/ImAnim)
 * [2025-12-01, 16:01:26](https://news.ycombinator.com/item?id=46108941) - [Ask HN: Who is hiring? (December 2025)](https://news.ycombinator.com/item?id=46108941)
@@ -28,7 +29,6 @@
 * [2025-11-28, 17:41:01](https://news.ycombinator.com/item?id=46080835) - [Codex, Opus, Gemini try to build Counter Strike](https://www.instantdb.com/essays/agents_building_counterstrike)
 * [2025-11-28, 11:19:34](https://news.ycombinator.com/item?id=46077637) - [Help, My Java Object Vanished (and the GC Is Not at Fault)](https://arraying.de/posts/markword/)
 * [2025-11-27, 16:39:35](https://news.ycombinator.com/item?id=46070883) - [10 years of writing a blog nobody reads](https://flowtwo.io/post/on-10-years-of-writing-a-blog-nobody-reads)
-* [2025-11-26, 12:16:52](https://news.ycombinator.com/item?id=46056700) - [Genesis DB is a event sourcing database and there are the technical insights](https://docs.genesisdb.io/technical-insights)
 * [2025-11-26, 11:05:26](https://news.ycombinator.com/item?id=46056232) - [Amazon faces FAA probe after delivery drone snaps internet cable in Texas](https://www.cnbc.com/2025/11/25/amazon-faa-probe-delivery-drone-incident-texas.html)
 
 ## [Archives](archives/index.md)
