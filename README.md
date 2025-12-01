@@ -14,6 +14,7 @@
 * [2025-12-01, 15:48:03](https://news.ycombinator.com/item?id=46108780) - [DeepSeek-v3.2: Pushing the frontier of open large language models [pdf]](https://huggingface.co/deepseek-ai/DeepSeek-V3.2/resolve/main/assets/paper.pdf)
 * [2025-12-01, 15:28:49](https://news.ycombinator.com/item?id=46108563) - [Google unkills JPEG XL?](https://tonisagrista.com/blog/2025/google-unkills-jpegxl/)
 * [2025-12-01, 15:00:45](https://news.ycombinator.com/item?id=46108243) - [WordPress plugin quirk resulted in UK Gov OBR Budget leak [pdf]](https://obr.uk/docs/dlm_uploads/01122025-Investigation-into-November-2025-EFO-publication-error.pdf)
+* [2025-12-01, 14:13:06](https://news.ycombinator.com/item?id=46107658) - [The Penicillin Myth](https://www.asimov.press/p/penicillin-myth)
 * [2025-12-01, 13:41:15](https://news.ycombinator.com/item?id=46107282) - [Cartographers Have Been Hiding Covert Illustrations Inside of Switzerland's Maps](https://eyeondesign.aiga.org/for-decades-cartographers-have-been-hiding-covert-illustrations-inside-of-switzerlands-official-maps/)
 * [2025-12-01, 13:31:58](https://news.ycombinator.com/item?id=46107177) - [A vector graphics workstation from the 70s](https://justanotherelectronicsblog.com/?p=1429)
 * [2025-12-01, 12:22:35](https://news.ycombinator.com/item?id=46106556) - [Why xor eax, eax?](https://xania.org/202512/01-xor-eax-eax)
@@ -23,13 +24,12 @@
 * [2025-12-01, 05:36:48](https://news.ycombinator.com/item?id=46103858) - [It’s been a very hard year](https://bell.bz/its-been-a-very-hard-year/)
 * [2025-12-01, 04:06:06](https://news.ycombinator.com/item?id=46103376) - [Search tool that only returns content created before ChatGPT's public release](https://tegabrain.com/Slop-Evader)
 * [2025-11-30, 15:57:34](https://news.ycombinator.com/item?id=46097671) - [Langjam Gamejam: Build a programming language then make a game with it](https://langjamgamejam.com/)
-* [2025-11-26, 19:26:43](https://news.ycombinator.com/item?id=46061390) - [Detection of triboelectric discharges during dust events on Mars](https://gizmodo.com/weve-detected-lightning-on-mars-for-the-first-time-2000691996)
+* [2025-11-29, 21:57:23](https://news.ycombinator.com/item?id=46091173) - [AI-Revived Cube World](https://news.ycombinator.com/item?id=46091173)
 * [2025-11-26, 05:33:49](https://news.ycombinator.com/item?id=46054471) - [Spleen Monospaced Bitmap Fonts](https://github.com/fcambus/spleen)
 * [2025-11-25, 14:04:37](https://news.ycombinator.com/item?id=46045876) - [Historic Engineering Wonders: Photos That Reveal How They Pulled It Off](https://rarehistoricalphotos.com/engineering-methods-from-the-past/)
 * [2025-11-24, 23:24:15](https://news.ycombinator.com/item?id=46040623) - [How we built the v0 iOS app](https://vercel.com/blog/how-we-built-the-v0-ios-app)
 * [2025-11-24, 21:31:04](https://news.ycombinator.com/item?id=46039594) - [I made a quieter air purifier](https://chillphysicsenjoyer.substack.com/p/i-made-a-quieter-air-purifier)
 * [2025-11-24, 20:50:54](https://news.ycombinator.com/item?id=46039140) - [Isn't WSL2 just a VM?](https://ssg.dev/isnt-wsl2-just-a-vm/)
-* [2025-11-24, 08:19:45](https://news.ycombinator.com/item?id=46031608) - [Trifold is a tool to quickly and cheaply host static websites using a CDN](https://www.jpt.sh/projects/trifold/)
 
 ## [Archives](archives/index.md)
 
