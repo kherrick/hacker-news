@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-12-01, 11:37:18",
+      "https://news.ycombinator.com/item?id=46106186"
+    ],
+    [
+      "1GB Raspberry Pi 5, and memory-driven price rises",
+      "https://www.raspberrypi.com/news/1gb-raspberry-pi-5-now-available-at-45-and-memory-driven-price-rises/"
+    ]
+  ],
+  [
+    [
       "2025-12-01, 11:35:34",
       "https://news.ycombinator.com/item?id=46106181"
     ],
@@ -257,16 +267,6 @@
     [
       "We've Detected Lightning on Mars",
       "https://gizmodo.com/weve-detected-lightning-on-mars-for-the-first-time-2000691996"
-    ]
-  ],
-  [
-    [
-      "2025-11-25, 21:35:29",
-      "https://news.ycombinator.com/item?id=46051077"
-    ],
-    [
-      "NVMe driver for Windows 2000, targeting both x86 and Alpha AXP platforms",
-      "https://github.com/techomancer/nvme2k"
     ]
   ],
   [
