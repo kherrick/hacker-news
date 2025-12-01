@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-12-01](index.md)
 
 * [2025-12-01, 21:44:34](https://news.ycombinator.com/item?id=46113689) - [Why Am I Paying $40k for the Birth of My Child?](https://aaronstannard.com/40k-baby/)
+* [2025-12-01, 21:44:07](https://news.ycombinator.com/item?id=46113682) - [Mozilla's Latest Quagmire](https://rubenerd.com/mozillas-latest-quagmire/)
 * [2025-12-01, 21:20:28](https://news.ycombinator.com/item?id=46113387) - [Pose-free 3D Gaussian splatting via shape-ray estimation](https://arxiv.org/abs/2505.22978)
 * [2025-12-01, 21:08:07](https://news.ycombinator.com/item?id=46113232) - [Lawmakers Want to Ban VPNs–and They Have No Idea What They're Doing](https://www.techdirt.com/2025/12/01/lawmakers-want-to-ban-vpns-and-they-have-no-idea-what-theyre-doing/)
 * [2025-12-01, 20:55:56](https://news.ycombinator.com/item?id=46113092) - [Instagram chief orders staff back to the office five days a week in 2026](https://www.businessinsider.com/instagram-chief-adam-mosseri-announces-five-day-office-return-2025-12)
