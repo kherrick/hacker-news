@@ -21,6 +21,7 @@
 * [2025-11-26, 20:01:41](https://news.ycombinator.com/item?id=46061714) - [The most male and female reasons to end up hospital](https://leobenedictus.substack.com/p/the-most-male-and-female-reasons)
 * [2025-11-26, 19:58:27](https://news.ycombinator.com/item?id=46061682) - [S&box is now an open source game engine](https://sbox.game/news/update-25-11-26)
 * [2025-11-26, 19:51:52](https://news.ycombinator.com/item?id=46061623) - [Don't Download Apps](https://blog.calebjay.com/posts/dont-download-apps/)
+* [2025-11-26, 19:26:43](https://news.ycombinator.com/item?id=46061390) - [We've Detected Lightning on Mars](https://gizmodo.com/weve-detected-lightning-on-mars-for-the-first-time-2000691996)
 * [2025-11-26, 19:23:40](https://news.ycombinator.com/item?id=46061362) - [Widespread service disruptions reported as major platforms go down worldwide](https://www.ynetnews.com/tech-and-digital/article/bky0aavb11g)
 * [2025-11-26, 19:12:40](https://news.ycombinator.com/item?id=46061239) - [Alan.app – Add a Border to macOS Active Window](https://tyler.io/2025/11/alan/)
 * [2025-11-26, 19:12:26](https://news.ycombinator.com/item?id=46061232) - [API that auto-routes to the cheapest AI provider (OpenAI/Anthropic/Gemini)](https://tokensaver.org/)
