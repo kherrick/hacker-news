@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-12-01, 07:26:47](https://news.ycombinator.com/item?id=46104511) - [Do the Thinking Models Actually Think?](https://bytesauna.com/post/consciousness)
 * [2025-12-01, 05:49:35](https://news.ycombinator.com/item?id=46103945) - [Show HN: CurioQuest – A simple web trivia/fun facts game](https://curioquest.fun/)
 * [2025-12-01, 05:36:48](https://news.ycombinator.com/item?id=46103858) - [It’s been a very hard year](https://bell.bz/its-been-a-very-hard-year/)
 * [2025-12-01, 05:01:01](https://news.ycombinator.com/item?id=46103657) - [SmartTube Compromised](https://www.aftvnews.com/smarttubes-official-apk-was-compromised-with-malware-what-you-should-do-if-you-use-it/)
@@ -20,7 +21,6 @@
 * [2025-11-30, 17:37:09](https://news.ycombinator.com/item?id=46098673) - [ESA Sentinel-1D delivers first high-resolution images](https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-1/Sentinel-1D_delivers_first_images_from_Antarctica_to_Bremen)
 * [2025-11-30, 17:02:48](https://news.ycombinator.com/item?id=46098359) - [LLVM-MOS – Clang LLVM fork targeting the 6502](https://llvm-mos.org/wiki/Welcome)
 * [2025-11-30, 16:12:13](https://news.ycombinator.com/item?id=46097829) - [GitHub to Codeberg: my experience](https://eldred.fr/blog/forge-migration/)
-* [2025-11-30, 16:07:11](https://news.ycombinator.com/item?id=46097773) - [The Thinking Game Film – Google DeepMind documentary](https://thinkinggamefilm.com)
 * [2025-11-30, 14:11:40](https://news.ycombinator.com/item?id=46096800) - [Migrating Dillo from GitHub](https://dillo-browser.org/news/migration-from-github/)
 * [2025-11-30, 13:40:17](https://news.ycombinator.com/item?id=46096556) - [Windows drive letters are not limited to A-Z](https://www.ryanliptak.com/blog/windows-drive-letters-are-not-limited-to-a-z/)
 * [2025-11-30, 13:07:15](https://news.ycombinator.com/item?id=46096337) - [Advent of Code 2025](https://adventofcode.com/2025/about)

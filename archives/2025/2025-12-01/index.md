@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-12-01](index.md)
 
+* [2025-12-01, 07:26:47](https://news.ycombinator.com/item?id=46104511) - [Do the Thinking Models Actually Think?](https://bytesauna.com/post/consciousness)
 * [2025-12-01, 05:49:35](https://news.ycombinator.com/item?id=46103945) - [Show HN: CurioQuest – A simple web trivia/fun facts game](https://curioquest.fun/)
 * [2025-12-01, 05:36:48](https://news.ycombinator.com/item?id=46103858) - [It’s been a very hard year](https://bell.bz/its-been-a-very-hard-year/)
 * [2025-12-01, 05:01:01](https://news.ycombinator.com/item?id=46103657) - [SmartTube Compromised](https://www.aftvnews.com/smarttubes-official-apk-was-compromised-with-malware-what-you-should-do-if-you-use-it/)
