@@ -16,6 +16,7 @@
 * [2025-11-25, 22:03:00](https://news.ycombinator.com/item?id=46051332) - [Building road signs at home using a Cricut Machine](https://annanay.dev/build-a-signboard/)
 * [2025-11-25, 21:46:21](https://news.ycombinator.com/item?id=46051182) - [Let go of StackOverflow; communities must take ownership](https://ahelwer.ca/post/2025-11-25-stackoverflow/)
 * [2025-11-25, 21:45:01](https://news.ycombinator.com/item?id=46051169) - [Google steers Americans looking for health care into \"junk insurance\"](https://pluralistic.net/2025/11/25/open-season/)
+* [2025-11-25, 21:35:29](https://news.ycombinator.com/item?id=46051077) - [NVMe driver for Windows 2000, targeting both x86 and Alpha AXP platforms](https://github.com/techomancer/nvme2k)
 * [2025-11-25, 21:26:14](https://news.ycombinator.com/item?id=46050997) - [Stop Putting Your Passwords into Random Websites (Yes, Seriously, You Are the PR](https://labs.watchtowr.com/stop-putting-your-passwords-into-random-websites-yes-seriously-you-are-the-problem/)
 * [2025-11-25, 21:12:55](https://news.ycombinator.com/item?id=46050861) - [Men Who Made America's Self-Made Man](https://www.historynewsnetwork.org/article/self-made)
 * [2025-11-25, 20:39:07](https://news.ycombinator.com/item?id=46050471) - [ZoomInfo CEO Blocks Researcher After Documenting Pre-Consent Biometric Tracking](https://github.com/clark-prog/blackout-public)
