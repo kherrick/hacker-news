@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-12-01, 18:58:50](https://news.ycombinator.com/item?id=46111469) - [Better Than JSON](https://aloisdeniel.com/blog/better-than-json)
 * [2025-12-01, 18:57:27](https://news.ycombinator.com/item?id=46111449) - [React and Remix Choose Different Futures](https://laconicwit.com/react-and-remix-choose-different-futures/)
 * [2025-12-01, 18:46:17](https://news.ycombinator.com/item?id=46111284) - [Intel could return to Apple computers in 2027](https://www.theverge.com/news/832366/intel-apple-m-chip-low-end-processor)
 * [2025-12-01, 18:35:01](https://news.ycombinator.com/item?id=46111120) - [Durin is a library for reading and writing the Dwarf debugging format](https://github.com/tmcgilchrist/durin)
@@ -30,6 +29,7 @@
 * [2025-11-24, 23:24:15](https://news.ycombinator.com/item?id=46040623) - [How we built the v0 iOS app](https://vercel.com/blog/how-we-built-the-v0-ios-app)
 * [2025-11-24, 21:31:04](https://news.ycombinator.com/item?id=46039594) - [I made a quieter air purifier](https://chillphysicsenjoyer.substack.com/p/i-made-a-quieter-air-purifier)
 * [2025-11-24, 20:50:54](https://news.ycombinator.com/item?id=46039140) - [Isn't WSL2 just a VM?](https://ssg.dev/isnt-wsl2-just-a-vm/)
+* [2025-11-24, 08:19:45](https://news.ycombinator.com/item?id=46031608) - [Trifold is a tool to quickly and cheaply host static websites using a CDN](https://www.jpt.sh/projects/trifold/)
 
 ## [Archives](archives/index.md)
 
