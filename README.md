@@ -13,7 +13,6 @@
 * [2025-11-30, 23:21:32](https://news.ycombinator.com/item?id=46101492) - [Algorithms for Optimization [pdf]](https://algorithmsbook.com/optimization/files/optimization.pdf)
 * [2025-11-30, 22:53:08](https://news.ycombinator.com/item?id=46101263) - [Bricklink suspends Marketplace operations in 35 countries](https://jaysbrickblog.com/news/bricklink-suspends-marketplace-operations-in-35-countries/)
 * [2025-11-30, 22:05:07](https://news.ycombinator.com/item?id=46100892) - [A Love Letter to FreeBSD](https://www.tara.sh/posts/2025/2025-11-25_freebsd_letter/)
-* [2025-11-30, 20:49:49](https://news.ycombinator.com/item?id=46100282) - [How to run phones while being struck by suicide drones](https://nasa.cx/hn/posts/how-to-run-hundreds-of-phones-while-being-struck-by-suicide-drones/)
 * [2025-11-30, 18:34:52](https://news.ycombinator.com/item?id=46099108) - [Program-of-Thought Prompting Outperforms Chain-of-Thought by 15% (2022)](https://arxiv.org/abs/2211.12588)
 * [2025-11-30, 17:56:43](https://news.ycombinator.com/item?id=46098838) - [Writing a good Claude.md](https://www.humanlayer.dev/blog/writing-a-good-claude-md)
 * [2025-11-30, 17:45:51](https://news.ycombinator.com/item?id=46098747) - [ETH-Zurich: Digital Design and Computer Architecture; 227-0003-10L, Spring, 2025](https://safari.ethz.ch/ddca/spring2025/doku.php?id=start)
@@ -30,6 +29,7 @@
 * [2025-11-26, 15:46:51](https://news.ycombinator.com/item?id=46058566) - [Show HN: Fixing Google Nano Banana Pixel Art with Rust](https://github.com/Hugo-Dz/spritefusion-pixel-snapper)
 * [2025-11-25, 21:35:29](https://news.ycombinator.com/item?id=46051077) - [NVMe driver for Windows 2000, targeting both x86 and Alpha AXP platforms](https://github.com/techomancer/nvme2k)
 * [2025-11-25, 13:35:22](https://news.ycombinator.com/item?id=46045643) - [N-Body Simulator – Interactive 3 Body Problem and Gravitational Physics](https://trisolarchaos.com/?pr=lagrange&n=3&s=5.0&so=0.01&im=verlet&dt=5.00e-4&rt=1.0e-6&at=1.0e-8&bs=0.50&sf=0&sv=0&cm=free&kt=1&st=1&ag=0&tl=1500&cp=0.0000,0.0000,10.0000&ct=0.0000,0.0000,0.0000)
+* [2025-11-24, 08:19:45](https://news.ycombinator.com/item?id=46031608) - [Trifold is a tool to quickly and cheaply host static websites using a CDN](https://www.jpt.sh/projects/trifold/)
 
 ## [Archives](archives/index.md)
 
