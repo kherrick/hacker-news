@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-12-01, 10:37:39](https://news.ycombinator.com/item?id=46105803) - [AWS data centers' water use tied to spike in cancer and miscarriages in Oregon](https://techoreon.com/oregon-data-centers-water-use-nitrates-cancer-miscarriage/)
-* [2025-12-01, 10:35:57](https://news.ycombinator.com/item?id=46105798) - [KDE Plasma 6.8 Set to Drop X11 Support Completely](https://itsfoss.com/news/kde-plasma-to-drop-x11-support/)
 * [2025-12-01, 08:54:31](https://news.ycombinator.com/item?id=46105079) - [DeepSeek releases open-weights math model with IMO gold medal performance](https://huggingface.co/deepseek-ai/DeepSeek-Math-V2)
 * [2025-12-01, 07:05:57](https://news.ycombinator.com/item?id=46104396) - [Games using anti-cheats and their compatibility with GNU/Linux or Wine/Proton](https://areweanticheatyet.com/)
 * [2025-12-01, 05:01:01](https://news.ycombinator.com/item?id=46103657) - [SmartTube Compromised](https://www.aftvnews.com/smarttubes-official-apk-was-compromised-with-malware-what-you-should-do-if-you-use-it/)
@@ -26,6 +25,7 @@
 * [2025-11-27, 19:34:23](https://news.ycombinator.com/item?id=46072521) - [Replacing My Window Manager with Google Chrome](https://foxmoss.com/blog/dote/)
 * [2025-11-26, 22:38:24](https://news.ycombinator.com/item?id=46063145) - [Engineers repurpose a mosquito proboscis to create a 3D printing nozzle](https://techxplore.com/news/2025-11-repurpose-mosquito-proboscis-3d-nozzle.html)
 * [2025-11-26, 19:26:43](https://news.ycombinator.com/item?id=46061390) - [We've Detected Lightning on Mars](https://gizmodo.com/weve-detected-lightning-on-mars-for-the-first-time-2000691996)
+* [2025-11-26, 15:46:51](https://news.ycombinator.com/item?id=46058566) - [Show HN: Fixing Google Nano Banana Pixel Art with Rust](https://github.com/Hugo-Dz/spritefusion-pixel-snapper)
 * [2025-11-25, 21:35:29](https://news.ycombinator.com/item?id=46051077) - [NVMe driver for Windows 2000, targeting both x86 and Alpha AXP platforms](https://github.com/techomancer/nvme2k)
 * [2025-11-25, 13:35:22](https://news.ycombinator.com/item?id=46045643) - [N-Body Simulator – Interactive 3 Body Problem and Gravitational Physics](https://trisolarchaos.com/?pr=lagrange&n=3&s=5.0&so=0.01&im=verlet&dt=5.00e-4&rt=1.0e-6&at=1.0e-8&bs=0.50&sf=0&sv=0&cm=free&kt=1&st=1&ag=0&tl=1500&cp=0.0000,0.0000,10.0000&ct=0.0000,0.0000,0.0000)
 * [2025-11-24, 18:19:09](https://news.ycombinator.com/item?id=46037185) - [Whole-body Learning in Creating Mathematical/Architectural Structures [pdf]](https://archive.bridgesmathart.org/2017/bridges2017-523.pdf)
