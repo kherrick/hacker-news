@@ -1,12 +1,32 @@
 [
   [
     [
+      "2025-12-01, 22:56:16",
+      "https://news.ycombinator.com/item?id=46114599"
+    ],
+    [
+      "Losing Confidence",
+      "https://eclecticlight.co/2025/11/30/last-week-on-my-mac-losing-confidence/"
+    ]
+  ],
+  [
+    [
       "2025-12-01, 22:22:56",
       "https://news.ycombinator.com/item?id=46114144"
     ],
     [
       "Apple AI Chief Retiring After Siri Failure",
       "https://www.macrumors.com/2025/12/01/apple-ai-chief-retiring-after-siri-failure/"
+    ]
+  ],
+  [
+    [
+      "2025-12-01, 21:44:34",
+      "https://news.ycombinator.com/item?id=46113689"
+    ],
+    [
+      "The healthcare market is taxing reproduction out of existence",
+      "https://aaronstannard.com/40k-baby/"
     ]
   ],
   [
@@ -31,26 +51,6 @@
   ],
   [
     [
-      "2025-12-01, 21:08:07",
-      "https://news.ycombinator.com/item?id=46113232"
-    ],
-    [
-      "Lawmakers Want to Ban VPNs–and They Have No Idea What They're Doing",
-      "https://www.techdirt.com/2025/12/01/lawmakers-want-to-ban-vpns-and-they-have-no-idea-what-theyre-doing/"
-    ]
-  ],
-  [
-    [
-      "2025-12-01, 20:55:56",
-      "https://news.ycombinator.com/item?id=46113092"
-    ],
-    [
-      "Instagram chief orders staff back to the office five days a week in 2026",
-      "https://www.businessinsider.com/instagram-chief-adam-mosseri-announces-five-day-office-return-2025-12"
-    ]
-  ],
-  [
-    [
       "2025-12-01, 20:40:58",
       "https://news.ycombinator.com/item?id=46112906"
     ],
@@ -67,6 +67,16 @@
     [
       "Sycophancy is the first LLM \"dark pattern\"",
       "https://www.seangoedecke.com/ai-sycophancy/"
+    ]
+  ],
+  [
+    [
+      "2025-12-01, 18:58:50",
+      "https://news.ycombinator.com/item?id=46111469"
+    ],
+    [
+      "Why I stopped using JSON for my APIs",
+      "https://aloisdeniel.com/blog/better-than-json"
     ]
   ],
   [
@@ -111,12 +121,12 @@
   ],
   [
     [
-      "2025-12-01, 17:04:10",
-      "https://news.ycombinator.com/item?id=46109843"
+      "2025-12-01, 18:16:09",
+      "https://news.ycombinator.com/item?id=46110836"
     ],
     [
-      "Show HN: RFC Hub",
-      "https://rfchub.app/"
+      "Response to \"Ruby Is Not a Serious Programming Language\"",
+      "https://robbyonrails.com/articles/2025/12/01/why-so-serious/"
     ]
   ],
   [
@@ -181,6 +191,16 @@
   ],
   [
     [
+      "2025-12-01, 14:47:48",
+      "https://news.ycombinator.com/item?id=46108071"
+    ],
+    [
+      "Ask HN: Quality of recent gens of Dell/Lenovo laptops worse than 10 years ago?",
+      "https://news.ycombinator.com/item?id=46108071"
+    ]
+  ],
+  [
+    [
       "2025-12-01, 13:41:15",
       "https://news.ycombinator.com/item?id=46107282"
     ],
@@ -221,42 +241,12 @@
   ],
   [
     [
-      "2025-12-01, 07:05:57",
-      "https://news.ycombinator.com/item?id=46104396"
-    ],
-    [
-      "Games using anti-cheats and their compatibility with GNU/Linux or Wine/Proton",
-      "https://areweanticheatyet.com/"
-    ]
-  ],
-  [
-    [
       "2025-12-01, 06:30:14",
       "https://news.ycombinator.com/item?id=46104193"
     ],
     [
       "India orders smartphone makers to preload state-owned cyber safety app",
       "https://www.reuters.com/sustainability/boards-policy-regulation/india-orders-mobile-phones-preloaded-with-government-app-ensure-cyber-safety-2025-12-01/"
-    ]
-  ],
-  [
-    [
-      "2025-12-01, 05:36:48",
-      "https://news.ycombinator.com/item?id=46103858"
-    ],
-    [
-      "It’s been a very hard year",
-      "https://bell.bz/its-been-a-very-hard-year/"
-    ]
-  ],
-  [
-    [
-      "2025-12-01, 04:06:06",
-      "https://news.ycombinator.com/item?id=46103376"
-    ],
-    [
-      "Search tool that only returns content created before ChatGPT's public release",
-      "https://tegabrain.com/Slop-Evader"
     ]
   ],
   [
@@ -271,6 +261,16 @@
   ],
   [
     [
+      "2025-11-28, 17:41:01",
+      "https://news.ycombinator.com/item?id=46080835"
+    ],
+    [
+      "Codex, Opus, Gemini try to build Counter Strike",
+      "https://www.instantdb.com/essays/agents_building_counterstrike"
+    ]
+  ],
+  [
+    [
       "2025-11-28, 11:19:34",
       "https://news.ycombinator.com/item?id=46077637"
     ],
@@ -281,22 +281,22 @@
   ],
   [
     [
+      "2025-11-27, 16:39:35",
+      "https://news.ycombinator.com/item?id=46070883"
+    ],
+    [
+      "10 years of writing a blog nobody reads",
+      "https://flowtwo.io/post/on-10-years-of-writing-a-blog-nobody-reads"
+    ]
+  ],
+  [
+    [
       "2025-11-26, 11:05:26",
       "https://news.ycombinator.com/item?id=46056232"
     ],
     [
       "Amazon faces FAA probe after delivery drone snaps internet cable in Texas",
       "https://www.cnbc.com/2025/11/25/amazon-faa-probe-delivery-drone-incident-texas.html"
-    ]
-  ],
-  [
-    [
-      "2025-11-25, 14:04:37",
-      "https://news.ycombinator.com/item?id=46045876"
-    ],
-    [
-      "Historic Engineering Wonders: Photos That Reveal How They Pulled It Off",
-      "https://rarehistoricalphotos.com/engineering-methods-from-the-past/"
     ]
   ]
 ]
