@@ -2,9 +2,9 @@
 
 * [2025-12-01, 13:41:15](https://news.ycombinator.com/item?id=46107282) - [Cartographers Have Been Hiding Covert Illustrations Inside of Switzerland's Maps](https://eyeondesign.aiga.org/for-decades-cartographers-have-been-hiding-covert-illustrations-inside-of-switzerlands-official-maps/)
 * [2025-12-01, 13:23:44](https://news.ycombinator.com/item?id=46107109) - [WhatsApp will become interoperable with other messaging apps](https://tuta.com/blog/whatsapp-interoperable-in-europe)
+* [2025-12-01, 12:30:24](https://news.ycombinator.com/item?id=46106629) - [WW1 toxic compound sprayed on Georgian protesters, BBC evidence suggests](https://www.bbc.com/news/articles/czrk7g50e1po)
 * [2025-12-01, 12:22:35](https://news.ycombinator.com/item?id=46106556) - [Why xor eax, eax?](https://xania.org/202512/01-xor-eax-eax)
 * [2025-12-01, 11:37:18](https://news.ycombinator.com/item?id=46106186) - [1GB Raspberry Pi 5, and memory-driven price rises](https://www.raspberrypi.com/news/1gb-raspberry-pi-5-now-available-at-45-and-memory-driven-price-rises/)
-* [2025-12-01, 11:35:34](https://news.ycombinator.com/item?id=46106181) - [UK Government plans new powers to label dissenting movements as 'subversion'](https://netpol.org/2025/11/28/government-plans-new-powers-to-label-dissenting-movements-as-subversion/)
 * [2025-12-01, 11:26:39](https://news.ycombinator.com/item?id=46106132) - [Self-hosting a Matrix server for 5 years](https://yaky.dev/2025-11-30-self-hosting-matrix/)
 * [2025-12-01, 10:41:14](https://news.ycombinator.com/item?id=46105825) - [Accenture dubs 800k staff 'reinventors' amid shift to AI](https://www.theguardian.com/business/2025/dec/01/accenture-rebrands-staff-reinventors-ai-artificial-intelligence)
 * [2025-12-01, 08:54:31](https://news.ycombinator.com/item?id=46105079) - [DeepSeekMath-V2: Towards Self-Verifiable Mathematical Reasoning](https://huggingface.co/deepseek-ai/DeepSeek-Math-V2)
