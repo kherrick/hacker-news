@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-12-01, 11:37:18](https://news.ycombinator.com/item?id=46106186) - [1GB Raspberry Pi 5, and memory-driven price rises](https://www.raspberrypi.com/news/1gb-raspberry-pi-5-now-available-at-45-and-memory-driven-price-rises/)
 * [2025-12-01, 11:35:34](https://news.ycombinator.com/item?id=46106181) - [UK Government plans new powers to label dissenting movements as 'subversion'](https://netpol.org/2025/11/28/government-plans-new-powers-to-label-dissenting-movements-as-subversion/)
 * [2025-12-01, 11:26:39](https://news.ycombinator.com/item?id=46106132) - [Self-hosting a Matrix server for 5 years](https://yaky.dev/2025-11-30-self-hosting-matrix/)
 * [2025-12-01, 10:51:37](https://news.ycombinator.com/item?id=46105897) - [Xlibre is a fork of the Xorg Xserver with lots of code cleanups](https://x11libre.net/)
@@ -26,7 +27,6 @@
 * [2025-11-27, 19:34:23](https://news.ycombinator.com/item?id=46072521) - [Replacing My Window Manager with Google Chrome](https://foxmoss.com/blog/dote/)
 * [2025-11-26, 22:38:24](https://news.ycombinator.com/item?id=46063145) - [Engineers repurpose a mosquito proboscis to create a 3D printing nozzle](https://techxplore.com/news/2025-11-repurpose-mosquito-proboscis-3d-nozzle.html)
 * [2025-11-26, 19:26:43](https://news.ycombinator.com/item?id=46061390) - [We've Detected Lightning on Mars](https://gizmodo.com/weve-detected-lightning-on-mars-for-the-first-time-2000691996)
-* [2025-11-25, 21:35:29](https://news.ycombinator.com/item?id=46051077) - [NVMe driver for Windows 2000, targeting both x86 and Alpha AXP platforms](https://github.com/techomancer/nvme2k)
 * [2025-11-25, 13:35:22](https://news.ycombinator.com/item?id=46045643) - [N-Body Simulator – Interactive 3 Body Problem and Gravitational Physics](https://trisolarchaos.com/?pr=lagrange&n=3&s=5.0&so=0.01&im=verlet&dt=5.00e-4&rt=1.0e-6&at=1.0e-8&bs=0.50&sf=0&sv=0&cm=free&kt=1&st=1&ag=0&tl=1500&cp=0.0000,0.0000,10.0000&ct=0.0000,0.0000,0.0000)
 * [2025-11-24, 18:19:09](https://news.ycombinator.com/item?id=46037185) - [Whole-body Learning in Creating Mathematical/Architectural Structures [pdf]](https://archive.bridgesmathart.org/2017/bridges2017-523.pdf)
 * [2025-11-24, 08:19:45](https://news.ycombinator.com/item?id=46031608) - [Trifold is a tool to quickly and cheaply host static websites using a CDN](https://www.jpt.sh/projects/trifold/)
