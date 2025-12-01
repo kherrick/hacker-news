@@ -21,7 +21,6 @@
 * [2025-11-30, 17:37:09](https://news.ycombinator.com/item?id=46098673) - [ESA Sentinel-1D delivers first high-resolution images](https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-1/Sentinel-1D_delivers_first_images_from_Antarctica_to_Bremen)
 * [2025-11-30, 17:02:48](https://news.ycombinator.com/item?id=46098359) - [LLVM-MOS – Clang LLVM fork targeting the 6502](https://llvm-mos.org/wiki/Welcome)
 * [2025-11-30, 16:12:13](https://news.ycombinator.com/item?id=46097829) - [GitHub to Codeberg: my experience](https://eldred.fr/blog/forge-migration/)
-* [2025-11-30, 16:07:11](https://news.ycombinator.com/item?id=46097773) - [The Thinking Game Film – Google DeepMind documentary](https://thinkinggamefilm.com)
 * [2025-11-30, 14:11:40](https://news.ycombinator.com/item?id=46096800) - [Migrating Dillo from GitHub](https://dillo-browser.org/news/migration-from-github/)
 * [2025-11-30, 13:40:17](https://news.ycombinator.com/item?id=46096556) - [Windows drive letters are not limited to A-Z](https://www.ryanliptak.com/blog/windows-drive-letters-are-not-limited-to-a-z/)
 * [2025-11-30, 13:07:15](https://news.ycombinator.com/item?id=46096337) - [Advent of Code 2025](https://adventofcode.com/2025/about)
@@ -30,6 +29,7 @@
 * [2025-11-26, 15:46:51](https://news.ycombinator.com/item?id=46058566) - [Show HN: Fixing Google Nano Banana Pixel Art with Rust](https://github.com/Hugo-Dz/spritefusion-pixel-snapper)
 * [2025-11-25, 21:35:29](https://news.ycombinator.com/item?id=46051077) - [NVMe driver for Windows 2000, targeting both x86 and Alpha AXP platforms](https://github.com/techomancer/nvme2k)
 * [2025-11-25, 13:35:22](https://news.ycombinator.com/item?id=46045643) - [N-Body Simulator – Interactive 3 Body Problem and Gravitational Physics](https://trisolarchaos.com/?pr=lagrange&n=3&s=5.0&so=0.01&im=verlet&dt=5.00e-4&rt=1.0e-6&at=1.0e-8&bs=0.50&sf=0&sv=0&cm=free&kt=1&st=1&ag=0&tl=1500&cp=0.0000,0.0000,10.0000&ct=0.0000,0.0000,0.0000)
+* [2025-11-25, 01:04:49](https://news.ycombinator.com/item?id=46041253) - [Seeing a Molecule's Quantum Shadow](https://physics.aps.org/articles/v18/s149)
 
 ## [Archives](archives/index.md)
 
