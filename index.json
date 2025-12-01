@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-12-01, 20:20:19",
+      "https://news.ycombinator.com/item?id=46112640"
+    ],
+    [
+      "Sycophancy is the first LLM \"dark pattern\"",
+      "https://www.seangoedecke.com/ai-sycophancy/"
+    ]
+  ],
+  [
+    [
       "2025-12-01, 18:57:27",
       "https://news.ycombinator.com/item?id=46111449"
     ],
@@ -57,6 +67,16 @@
     [
       "Response to \"Ruby Is Not a Serious Programming Language\"",
       "https://robbyonrails.com/articles/2025/12/01/why-so-serious/"
+    ]
+  ],
+  [
+    [
+      "2025-12-01, 17:04:10",
+      "https://news.ycombinator.com/item?id=46109843"
+    ],
+    [
+      "Show HN: RFC Hub",
+      "https://rfchub.app/"
     ]
   ],
   [
@@ -231,16 +251,6 @@
   ],
   [
     [
-      "2025-11-29, 21:57:23",
-      "https://news.ycombinator.com/item?id=46091173"
-    ],
-    [
-      "AI-Revived Cube World",
-      "https://news.ycombinator.com/item?id=46091173"
-    ]
-  ],
-  [
-    [
       "2025-11-26, 05:33:49",
       "https://news.ycombinator.com/item?id=46054471"
     ],
@@ -287,16 +297,6 @@
     [
       "Isn't WSL2 just a VM?",
       "https://ssg.dev/isnt-wsl2-just-a-vm/"
-    ]
-  ],
-  [
-    [
-      "2025-11-24, 08:19:45",
-      "https://news.ycombinator.com/item?id=46031608"
-    ],
-    [
-      "Trifold is a tool to quickly and cheaply host static websites using a CDN",
-      "https://www.jpt.sh/projects/trifold/"
     ]
   ]
 ]
