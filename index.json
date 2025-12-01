@@ -141,6 +141,16 @@
   ],
   [
     [
+      "2025-12-01, 14:13:06",
+      "https://news.ycombinator.com/item?id=46107658"
+    ],
+    [
+      "The Penicillin Myth",
+      "https://www.asimov.press/p/penicillin-myth"
+    ]
+  ],
+  [
+    [
       "2025-12-01, 13:41:15",
       "https://news.ycombinator.com/item?id=46107282"
     ],
@@ -231,12 +241,12 @@
   ],
   [
     [
-      "2025-11-26, 19:26:43",
-      "https://news.ycombinator.com/item?id=46061390"
+      "2025-11-29, 21:57:23",
+      "https://news.ycombinator.com/item?id=46091173"
     ],
     [
-      "Detection of triboelectric discharges during dust events on Mars",
-      "https://gizmodo.com/weve-detected-lightning-on-mars-for-the-first-time-2000691996"
+      "AI-Revived Cube World",
+      "https://news.ycombinator.com/item?id=46091173"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Isn't WSL2 just a VM?",
       "https://ssg.dev/isnt-wsl2-just-a-vm/"
-    ]
-  ],
-  [
-    [
-      "2025-11-24, 08:19:45",
-      "https://news.ycombinator.com/item?id=46031608"
-    ],
-    [
-      "Trifold is a tool to quickly and cheaply host static websites using a CDN",
-      "https://www.jpt.sh/projects/trifold/"
     ]
   ]
 ]
