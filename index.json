@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-12-01, 00:58:32",
+      "https://news.ycombinator.com/item?id=46102202"
+    ],
+    [
+      "Is America's jobs market nearing a cliff?",
+      "https://www.economist.com/finance-and-economics/2025/11/30/is-americas-jobs-market-nearing-a-cliff"
+    ]
+  ],
+  [
+    [
       "2025-11-30, 23:21:32",
       "https://news.ycombinator.com/item?id=46101492"
     ],
@@ -11,22 +21,22 @@
   ],
   [
     [
+      "2025-11-30, 22:53:08",
+      "https://news.ycombinator.com/item?id=46101263"
+    ],
+    [
+      "Bricklink suspends Marketplace operations in 35 countries",
+      "https://jaysbrickblog.com/news/bricklink-suspends-marketplace-operations-in-35-countries/"
+    ]
+  ],
+  [
+    [
       "2025-11-30, 22:05:07",
       "https://news.ycombinator.com/item?id=46100892"
     ],
     [
       "A Love Letter to FreeBSD",
       "https://www.tara.sh/posts/2025/2025-11-25_freebsd_letter/"
-    ]
-  ],
-  [
-    [
-      "2025-11-30, 21:24:22",
-      "https://news.ycombinator.com/item?id=46100566"
-    ],
-    [
-      "Stackoverflow Outage",
-      "https://www.stackstatus.net/"
     ]
   ],
   [
@@ -51,16 +61,6 @@
   ],
   [
     [
-      "2025-11-30, 19:02:04",
-      "https://news.ycombinator.com/item?id=46099367"
-    ],
-    [
-      "You want microservices, but do you need them?",
-      "https://www.docker.com/blog/do-you-really-need-microservices/"
-    ]
-  ],
-  [
-    [
       "2025-11-30, 18:34:52",
       "https://news.ycombinator.com/item?id=46099108"
     ],
@@ -77,16 +77,6 @@
     [
       "NixOS 25.11 released",
       "https://nixos.org/blog/announcements/2025/nixos-2511/"
-    ]
-  ],
-  [
-    [
-      "2025-11-30, 18:17:13",
-      "https://news.ycombinator.com/item?id=46098992"
-    ],
-    [
-      "Don't push AI down our throats",
-      "https://gpt3experiments.substack.com/p/dont-push-ai-down-our-throats"
     ]
   ],
   [
@@ -181,6 +171,16 @@
   ],
   [
     [
+      "2025-11-30, 15:52:41",
+      "https://news.ycombinator.com/item?id=46097624"
+    ],
+    [
+      "Modern cars are spying on you. Here's what you can do about it",
+      "https://apnews.com/article/auto-car-privacy-3674ce59c9b30f2861d29178a31e6ab7"
+    ]
+  ],
+  [
+    [
       "2025-11-30, 14:11:40",
       "https://news.ycombinator.com/item?id=46096800"
     ],
@@ -221,12 +221,12 @@
   ],
   [
     [
-      "2025-11-30, 03:54:51",
-      "https://news.ycombinator.com/item?id=46093518"
+      "2025-11-27, 17:23:06",
+      "https://news.ycombinator.com/item?id=46071317"
     ],
     [
-      "Zigbook Is Plagiarizing the Zigtools Playground",
-      "https://zigtools.org/blog/zigbook-plagiarizing-playground/"
+      "What's Hiding Inside Haribo's Power Bank and Headphones?",
+      "https://www.lumafield.com/first-article/posts/whats-hiding-inside-haribos-power-bank-and-headphones"
     ]
   ],
   [
@@ -237,16 +237,6 @@
     [
       "Finding the grain of sand in a heap of Salt",
       "https://blog.cloudflare.com/finding-the-grain-of-sand-in-a-heap-of-salt/"
-    ]
-  ],
-  [
-    [
-      "2025-11-26, 21:38:44",
-      "https://news.ycombinator.com/item?id=46062650"
-    ],
-    [
-      "David Lerner, cofounder of Tekserve, has died",
-      "https://www.nytimes.com/2025/11/26/technology/personaltech/david-lerner-dead.html"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "A Second Look at Geolocation and Starlink",
       "https://www.potaroo.net/ispcol/2025-11/starlinkgeo2.html"
+    ]
+  ],
+  [
+    [
+      "2025-11-25, 03:42:05",
+      "https://news.ycombinator.com/item?id=46042145"
+    ],
+    [
+      "Stereo Images of Giant Galaxies",
+      "https://www.bbc.com/future/article/20251121-sir-brian-mays-stereo-vision-of-galaxies"
     ]
   ]
 ]
