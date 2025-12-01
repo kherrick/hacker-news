@@ -49,6 +49,7 @@
 * [2025-11-24, 16:26:22](https://news.ycombinator.com/item?id=46035819) - [Maxduino Review: Tape Cassette Emulator for Multiple Retro Computers](https://retrogamecoders.com/maxduino-review/)
 * [2025-11-24, 16:07:40](https://news.ycombinator.com/item?id=46035574) - [X Just Accidentally Exposed a Covert Influence Network Targeting Americans](https://weaponizedspaces.substack.com/p/x-just-accidentally-exposed-a-vast)
 * [2025-11-24, 16:03:36](https://news.ycombinator.com/item?id=46035533) - [SHA1-Hulud the Second Comming – Postman, Zapier, PostHog All Compromised via NPM](https://www.aikido.dev/blog/shai-hulud-strikes-again-hitting-zapier-ensdomains)
+* [2025-11-24, 16:00:26](https://news.ycombinator.com/item?id=46035507) - [Victorian-Style Lines for the Web: Elements of Identical Width](https://jacobfilipp.com/victorian-line/)
 * [2025-11-24, 15:42:37](https://news.ycombinator.com/item?id=46035298) - [Comments on \"Glauert's optimum rotor disk revisited\"](https://wes.copernicus.org/preprints/wes-2025-105/)
 * [2025-11-24, 15:27:53](https://news.ycombinator.com/item?id=46035126) - [WebR – R in the Browser](https://webr.sh/)
 * [2025-11-24, 14:43:01](https://news.ycombinator.com/item?id=46034652) - [Booking.com cancels $4K hotel reservation, offers same rooms again for $17K](https://www.cbc.ca/news/gopublic/go-public-booking-com-hotel-rates-9.6985480)

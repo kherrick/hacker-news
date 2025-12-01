@@ -4,11 +4,13 @@
 
 ### [Archives](../../index.md) for [2025-12-01](index.md)
 
+* [2025-12-01, 12:22:35](https://news.ycombinator.com/item?id=46106556) - [Why xor eax, eax?](https://xania.org/202512/01-xor-eax-eax)
 * [2025-12-01, 11:37:18](https://news.ycombinator.com/item?id=46106186) - [1GB Raspberry Pi 5, and memory-driven price rises](https://www.raspberrypi.com/news/1gb-raspberry-pi-5-now-available-at-45-and-memory-driven-price-rises/)
 * [2025-12-01, 11:35:34](https://news.ycombinator.com/item?id=46106181) - [UK Government plans new powers to label dissenting movements as 'subversion'](https://netpol.org/2025/11/28/government-plans-new-powers-to-label-dissenting-movements-as-subversion/)
 * [2025-12-01, 11:26:39](https://news.ycombinator.com/item?id=46106132) - [Self-hosting a Matrix server for 5 years](https://yaky.dev/2025-11-30-self-hosting-matrix/)
 * [2025-12-01, 10:51:37](https://news.ycombinator.com/item?id=46105897) - [Xlibre is a fork of the Xorg Xserver with lots of code cleanups](https://x11libre.net/)
 * [2025-12-01, 10:51:16](https://news.ycombinator.com/item?id=46105896) - [Why Is ChatGPT for Mac So Good?](https://allenpike.com/2025/why-is-chatgpt-so-good-claude)
+* [2025-12-01, 10:41:14](https://news.ycombinator.com/item?id=46105825) - [Accenture dubs 800k staff 'reinventors' amid shift to AI](https://www.theguardian.com/business/2025/dec/01/accenture-rebrands-staff-reinventors-ai-artificial-intelligence)
 * [2025-12-01, 10:37:39](https://news.ycombinator.com/item?id=46105803) - [AWS data centers' water use tied to spike in cancer and miscarriages in Oregon](https://techoreon.com/oregon-data-centers-water-use-nitrates-cancer-miscarriage/)
 * [2025-12-01, 10:35:57](https://news.ycombinator.com/item?id=46105798) - [KDE Plasma 6.8 Set to Drop X11 Support Completely](https://itsfoss.com/news/kde-plasma-to-drop-x11-support/)
 * [2025-12-01, 08:54:31](https://news.ycombinator.com/item?id=46105079) - [DeepSeek releases open-weights math model with IMO gold medal performance](https://huggingface.co/deepseek-ai/DeepSeek-Math-V2)
