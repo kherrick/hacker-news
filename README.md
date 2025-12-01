@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-12-01, 13:41:15](https://news.ycombinator.com/item?id=46107282) - [Cartographers Have Been Hiding Covert Illustrations Inside of Switzerland's Maps](https://eyeondesign.aiga.org/for-decades-cartographers-have-been-hiding-covert-illustrations-inside-of-switzerlands-official-maps/)
 * [2025-12-01, 13:23:44](https://news.ycombinator.com/item?id=46107109) - [WhatsApp will become interoperable with other messaging apps](https://tuta.com/blog/whatsapp-interoperable-in-europe)
 * [2025-12-01, 12:22:35](https://news.ycombinator.com/item?id=46106556) - [Why xor eax, eax?](https://xania.org/202512/01-xor-eax-eax)
 * [2025-12-01, 11:37:18](https://news.ycombinator.com/item?id=46106186) - [1GB Raspberry Pi 5, and memory-driven price rises](https://www.raspberrypi.com/news/1gb-raspberry-pi-5-now-available-at-45-and-memory-driven-price-rises/)
@@ -14,7 +15,6 @@
 * [2025-12-01, 04:06:06](https://news.ycombinator.com/item?id=46103376) - [Search tool that only returns content created before ChatGPT's public release](https://tegabrain.com/Slop-Evader)
 * [2025-12-01, 03:12:29](https://news.ycombinator.com/item?id=46103097) - [X210Ai is a new motherboard to upgrade ThinkPad X201/200](https://www.tpart.net/about-x210ai/)
 * [2025-12-01, 01:17:28](https://news.ycombinator.com/item?id=46102347) - [Advent of Sysadmin 2025](https://sadservers.com/advent)
-* [2025-12-01, 00:28:04](https://news.ycombinator.com/item?id=46101996) - [Ly – A lightweight TUI (ncurses-like) display manager for Linux and BSD](https://codeberg.org/fairyglade/ly)
 * [2025-11-30, 23:21:32](https://news.ycombinator.com/item?id=46101492) - [Algorithms for Optimization [pdf]](https://algorithmsbook.com/optimization/files/optimization.pdf)
 * [2025-11-30, 22:05:07](https://news.ycombinator.com/item?id=46100892) - [A Love Letter to FreeBSD](https://www.tara.sh/posts/2025/2025-11-25_freebsd_letter/)
 * [2025-11-30, 17:56:43](https://news.ycombinator.com/item?id=46098838) - [Writing a good Claude.md](https://www.humanlayer.dev/blog/writing-a-good-claude-md)
@@ -25,10 +25,10 @@
 * [2025-11-27, 19:34:23](https://news.ycombinator.com/item?id=46072521) - [Replacing My Window Manager with Google Chrome](https://foxmoss.com/blog/dote/)
 * [2025-11-26, 22:38:24](https://news.ycombinator.com/item?id=46063145) - [Engineers repurpose a mosquito proboscis to create a 3D printing nozzle](https://techxplore.com/news/2025-11-repurpose-mosquito-proboscis-3d-nozzle.html)
 * [2025-11-26, 19:26:43](https://news.ycombinator.com/item?id=46061390) - [Detection of triboelectric discharges during dust events on Mars](https://gizmodo.com/weve-detected-lightning-on-mars-for-the-first-time-2000691996)
+* [2025-11-25, 14:04:37](https://news.ycombinator.com/item?id=46045876) - [Historic Engineering Wonders: Photos That Reveal How They Pulled It Off](https://rarehistoricalphotos.com/engineering-methods-from-the-past/)
 * [2025-11-25, 13:35:22](https://news.ycombinator.com/item?id=46045643) - [N-Body Simulator – Interactive 3 Body Problem and Gravitational Physics](https://trisolarchaos.com/?pr=lagrange&n=3&s=5.0&so=0.01&im=verlet&dt=5.00e-4&rt=1.0e-6&at=1.0e-8&bs=0.50&sf=0&sv=0&cm=free&kt=1&st=1&ag=0&tl=1500&cp=0.0000,0.0000,10.0000&ct=0.0000,0.0000,0.0000)
 * [2025-11-24, 18:19:09](https://news.ycombinator.com/item?id=46037185) - [Dancing rope and braid into being (2017) [pdf]](https://archive.bridgesmathart.org/2017/bridges2017-523.pdf)
 * [2025-11-24, 16:00:26](https://news.ycombinator.com/item?id=46035507) - [Victorian-style lines for the web: Elements of identical width](https://jacobfilipp.com/victorian-line/)
-* [2025-11-24, 13:17:53](https://news.ycombinator.com/item?id=46033778) - [Cuddle Fish – A Soft Floating Robot for Safe Physical Interaction](https://kaikunze.de/post/2025-11.18-cuddle-fish/)
 * [2025-11-24, 08:19:45](https://news.ycombinator.com/item?id=46031608) - [Trifold is a tool to quickly and cheaply host static websites using a CDN](https://www.jpt.sh/projects/trifold/)
 
 ## [Archives](archives/index.md)
