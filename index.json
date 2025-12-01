@@ -1,12 +1,42 @@
 [
   [
     [
+      "2025-12-01, 01:54:16",
+      "https://news.ycombinator.com/item?id=46102583"
+    ],
+    [
+      "In Re: 23andMe, Inc. Customer Data Security Breach Litigation",
+      "https://www.23andmedatasettlement.com/"
+    ]
+  ],
+  [
+    [
+      "2025-12-01, 01:17:28",
+      "https://news.ycombinator.com/item?id=46102347"
+    ],
+    [
+      "Advent of Sysadmin 2025",
+      "https://sadservers.com/advent"
+    ]
+  ],
+  [
+    [
       "2025-12-01, 00:58:32",
       "https://news.ycombinator.com/item?id=46102202"
     ],
     [
       "Is America's jobs market nearing a cliff?",
       "https://www.economist.com/finance-and-economics/2025/11/30/is-americas-jobs-market-nearing-a-cliff"
+    ]
+  ],
+  [
+    [
+      "2025-12-01, 00:53:12",
+      "https://news.ycombinator.com/item?id=46102167"
+    ],
+    [
+      "Malware embedded into audio driver is silently recording from system mic",
+      "https://twitter.com/Officialwhyte22/status/1995024999934001602"
     ]
   ],
   [
@@ -45,18 +75,18 @@
       "https://news.ycombinator.com/item?id=46100323"
     ],
     [
-      "\"Boobs check\" – Technique to verify if sites behind CDN are hosted in Iran",
+      "“Boobs check” – Technique to verify if sites behind CDN are hosted in Iran",
       "https://twitter.com/hkashfi/status/1995109785679573167"
     ]
   ],
   [
     [
-      "2025-11-30, 20:14:12",
-      "https://news.ycombinator.com/item?id=46099985"
+      "2025-11-30, 20:49:49",
+      "https://news.ycombinator.com/item?id=46100282"
     ],
     [
-      "People keep flocking to Linux, not just to escape Windows",
-      "https://www.zdnet.com/article/why-people-keep-flocking-to-linux-in-2025-and-its-not-just-to-escape-windows/"
+      "How to run phones while being struck by suicide drones",
+      "https://nasa.cx/hn/posts/how-to-run-hundreds-of-phones-while-being-struck-by-suicide-drones/"
     ]
   ],
   [
@@ -67,16 +97,6 @@
     [
       "Program-of-Thought Prompting Outperforms Chain-of-Thought by 15% (2022)",
       "https://arxiv.org/abs/2211.12588"
-    ]
-  ],
-  [
-    [
-      "2025-11-30, 18:21:45",
-      "https://news.ycombinator.com/item?id=46099022"
-    ],
-    [
-      "NixOS 25.11 released",
-      "https://nixos.org/blog/announcements/2025/nixos-2511/"
     ]
   ],
   [
@@ -171,16 +191,6 @@
   ],
   [
     [
-      "2025-11-30, 15:52:41",
-      "https://news.ycombinator.com/item?id=46097624"
-    ],
-    [
-      "Modern cars are spying on you. Here's what you can do about it",
-      "https://apnews.com/article/auto-car-privacy-3674ce59c9b30f2861d29178a31e6ab7"
-    ]
-  ],
-  [
-    [
       "2025-11-30, 14:11:40",
       "https://news.ycombinator.com/item?id=46096800"
     ],
@@ -221,32 +231,12 @@
   ],
   [
     [
-      "2025-11-27, 17:23:06",
-      "https://news.ycombinator.com/item?id=46071317"
+      "2025-11-30, 05:19:33",
+      "https://news.ycombinator.com/item?id=46094037"
     ],
     [
-      "What's Hiding Inside Haribo's Power Bank and Headphones?",
-      "https://www.lumafield.com/first-article/posts/whats-hiding-inside-haribos-power-bank-and-headphones"
-    ]
-  ],
-  [
-    [
-      "2025-11-27, 07:40:43",
-      "https://news.ycombinator.com/item?id=46066746"
-    ],
-    [
-      "Finding the grain of sand in a heap of Salt",
-      "https://blog.cloudflare.com/finding-the-grain-of-sand-in-a-heap-of-salt/"
-    ]
-  ],
-  [
-    [
-      "2025-11-26, 15:55:48",
-      "https://news.ycombinator.com/item?id=46058670"
-    ],
-    [
-      "Stop Hacklore – An Open Letter",
-      "https://www.hacklore.org/letter"
+      "AI just proved Erdos Problem #124",
+      "https://www.erdosproblems.com/forum/thread/124#post-1892"
     ]
   ],
   [
@@ -281,22 +271,32 @@
   ],
   [
     [
-      "2025-11-25, 16:37:31",
-      "https://news.ycombinator.com/item?id=46047562"
-    ],
-    [
-      "A Second Look at Geolocation and Starlink",
-      "https://www.potaroo.net/ispcol/2025-11/starlinkgeo2.html"
-    ]
-  ],
-  [
-    [
       "2025-11-25, 03:42:05",
       "https://news.ycombinator.com/item?id=46042145"
     ],
     [
       "Stereo Images of Giant Galaxies",
       "https://www.bbc.com/future/article/20251121-sir-brian-mays-stereo-vision-of-galaxies"
+    ]
+  ],
+  [
+    [
+      "2025-11-25, 01:04:49",
+      "https://news.ycombinator.com/item?id=46041253"
+    ],
+    [
+      "Seeing a Molecule's Quantum Shadow",
+      "https://physics.aps.org/articles/v18/s149"
+    ]
+  ],
+  [
+    [
+      "2025-11-24, 13:45:07",
+      "https://news.ycombinator.com/item?id=46034024"
+    ],
+    [
+      "Mike Gordon and hardware verification (2023)",
+      "https://lawrencecpaulson.github.io/2023/01/04/Hardware_Verification.html"
     ]
   ]
 ]
