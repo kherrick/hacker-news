@@ -27,6 +27,7 @@
 * [2025-11-28, 18:02:04](https://news.ycombinator.com/item?id=46081053) - [28M Hacker News comments as vector embedding search dataset](https://clickhouse.com/docs/getting-started/example-datasets/hackernews-vector-search-dataset)
 * [2025-11-28, 17:54:05](https://news.ycombinator.com/item?id=46080972) - [Rock Paper Scissors Solitaire](https://klezlab.it/rock-paper-scissors-solitaire.html)
 * [2025-11-28, 17:48:25](https://news.ycombinator.com/item?id=46080916) - [Molly: An Improved Signal App](https://molly.im/)
+* [2025-11-28, 17:41:01](https://news.ycombinator.com/item?id=46080835) - [Codex, Opus, Gemini try to build Counter Strike](https://www.instantdb.com/essays/agents_building_counterstrike)
 * [2025-11-28, 17:34:26](https://news.ycombinator.com/item?id=46080769) - [JSON Schema Demystified: Dialects, Vocabularies and Metaschemas](https://www.iankduncan.com/engineering/2025-11-24-json-schema-demystified/)
 * [2025-11-28, 17:30:41](https://news.ycombinator.com/item?id=46080737) - [Show HN: An LLM-Powered Tool to Catch PCB Schematic Mistakes](https://netlist.io/)
 * [2025-11-28, 17:16:52](https://news.ycombinator.com/item?id=46080597) - [Anti-patterns while working with LLMs](https://instavm.io/blog/llm-anti-patterns)
