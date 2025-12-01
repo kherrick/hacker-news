@@ -7,6 +7,7 @@
 * [2025-12-01, 18:46:17](https://news.ycombinator.com/item?id=46111284) - [Intel could return to Apple computers in 2027](https://www.theverge.com/news/832366/intel-apple-m-chip-low-end-processor)
 * [2025-12-01, 18:35:01](https://news.ycombinator.com/item?id=46111120) - [Durin is a library for reading and writing the Dwarf debugging format](https://github.com/tmcgilchrist/durin)
 * [2025-12-01, 18:17:02](https://news.ycombinator.com/item?id=46110842) - [Ghostty compiled to WASM with xterm.js API compatibility](https://github.com/coder/ghostty-web)
+* [2025-12-01, 17:04:10](https://news.ycombinator.com/item?id=46109843) - [Show HN: RFC Hub](https://rfchub.app/)
 * [2025-12-01, 17:01:18](https://news.ycombinator.com/item?id=46109802) - [Better Auth (YC X25) Is Hiring](https://www.ycombinator.com/companies/better-auth/jobs/eKk5nLt-developer-relation-engineer)
 * [2025-12-01, 16:11:15](https://news.ycombinator.com/item?id=46109080) - [ImAnim: Modern animation capabilities to ImGui applications](https://github.com/soufianekhiat/ImAnim)
 * [2025-12-01, 16:01:26](https://news.ycombinator.com/item?id=46108941) - [Ask HN: Who is hiring? (December 2025)](https://news.ycombinator.com/item?id=46108941)
@@ -24,12 +25,11 @@
 * [2025-12-01, 05:36:48](https://news.ycombinator.com/item?id=46103858) - [It’s been a very hard year](https://bell.bz/its-been-a-very-hard-year/)
 * [2025-12-01, 04:06:06](https://news.ycombinator.com/item?id=46103376) - [Search tool that only returns content created before ChatGPT's public release](https://tegabrain.com/Slop-Evader)
 * [2025-11-30, 15:57:34](https://news.ycombinator.com/item?id=46097671) - [Langjam Gamejam: Build a programming language then make a game with it](https://langjamgamejam.com/)
+* [2025-11-30, 13:07:15](https://news.ycombinator.com/item?id=46096337) - [Advent of Code 2025](https://adventofcode.com/2025/about)
+* [2025-11-27, 15:06:35](https://news.ycombinator.com/item?id=46069905) - [Ancestry and the NRS: when the corporate genealogy world turns ugly](http://scottishgenes.blogspot.com/2025/09/ancestry-and-nrs-when-corporate.html)
 * [2025-11-26, 11:05:26](https://news.ycombinator.com/item?id=46056232) - [Amazon faces FAA probe after delivery drone snaps internet cable in Texas](https://www.cnbc.com/2025/11/25/amazon-faa-probe-delivery-drone-incident-texas.html)
 * [2025-11-26, 05:33:49](https://news.ycombinator.com/item?id=46054471) - [Spleen Monospaced Bitmap Fonts](https://github.com/fcambus/spleen)
 * [2025-11-25, 14:04:37](https://news.ycombinator.com/item?id=46045876) - [Historic Engineering Wonders: Photos That Reveal How They Pulled It Off](https://rarehistoricalphotos.com/engineering-methods-from-the-past/)
-* [2025-11-24, 23:24:15](https://news.ycombinator.com/item?id=46040623) - [How we built the v0 iOS app](https://vercel.com/blog/how-we-built-the-v0-ios-app)
-* [2025-11-24, 21:31:04](https://news.ycombinator.com/item?id=46039594) - [I made a quieter air purifier](https://chillphysicsenjoyer.substack.com/p/i-made-a-quieter-air-purifier)
-* [2025-11-24, 20:50:54](https://news.ycombinator.com/item?id=46039140) - [Isn't WSL2 just a VM?](https://ssg.dev/isnt-wsl2-just-a-vm/)
 
 ## [Archives](archives/index.md)
 

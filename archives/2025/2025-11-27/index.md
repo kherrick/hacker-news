@@ -32,6 +32,7 @@
 * [2025-11-27, 15:36:56](https://news.ycombinator.com/item?id=46070203) - [GitLab discovers widespread NPM supply chain attack](https://about.gitlab.com/blog/gitlab-discovers-widespread-npm-supply-chain-attack/)
 * [2025-11-27, 15:31:55](https://news.ycombinator.com/item?id=46070151) - [Protect Public School Students from Surveillance of Off-Campus Speech](https://www.eff.org/deeplinks/2025/11/eff-arizona-federal-court-protect-public-school-students-surveillance-and)
 * [2025-11-27, 15:07:51](https://news.ycombinator.com/item?id=46069919) - [What Happens When You Train Pure Logic Without Knowledge: 15-Expert Moe](https://github.com/vac-architector/VAC-Memory-System/blob/main/LOGICA_MOE_STORY.md)
+* [2025-11-27, 15:06:35](https://news.ycombinator.com/item?id=46069905) - [Ancestry and the NRS: when the corporate genealogy world turns ugly](http://scottishgenes.blogspot.com/2025/09/ancestry-and-nrs-when-corporate.html)
 * [2025-11-27, 14:51:01](https://news.ycombinator.com/item?id=46069771) - [We're Losing Our Voice to LLMs](https://tonyalicea.dev/blog/were-losing-our-voice-to-llms/)
 * [2025-11-27, 14:48:02](https://news.ycombinator.com/item?id=46069743) - [Don't be a scary old guy: My 40s survival strategy with charm](https://www.devas.life/dont-be-a-scary-old-guy-my-40s-survival-strategy-with-charm/)
 * [2025-11-27, 14:31:44](https://news.ycombinator.com/item?id=46069598) - [Show HN: SyncKit – Offline-first sync engine (Rust/WASM and TypeScript)](https://github.com/Dancode-188/synckit)
