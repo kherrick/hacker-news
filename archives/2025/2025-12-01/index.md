@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-12-01](index.md)
 
+* [2025-12-01, 17:01:18](https://news.ycombinator.com/item?id=46109802) - [Better Auth (YC X25) Is Hiring](https://www.ycombinator.com/companies/better-auth/jobs/eKk5nLt-developer-relation-engineer)
+* [2025-12-01, 16:42:15](https://news.ycombinator.com/item?id=46109534) - [A New AI Winter Is Coming](https://taranis.ie/llms-are-a-failure-a-new-ai-winter-is-coming/)
 * [2025-12-01, 16:11:15](https://news.ycombinator.com/item?id=46109080) - [ImAnim: Modern animation capabilities to ImGui applications](https://github.com/soufianekhiat/ImAnim)
 * [2025-12-01, 16:01:26](https://news.ycombinator.com/item?id=46108941) - [Ask HN: Who is hiring? (December 2025)](https://news.ycombinator.com/item?id=46108941)
 * [2025-12-01, 15:57:18](https://news.ycombinator.com/item?id=46108892) - [Show HN: I built a 1.8MB native app with self-built UI, vision and AI libraries](https://github.com/Okery/Aivition)
