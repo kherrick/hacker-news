@@ -1,6 +1,36 @@
 [
   [
     [
+      "2025-12-01, 11:35:34",
+      "https://news.ycombinator.com/item?id=46106181"
+    ],
+    [
+      "UK Government plans new powers to label dissenting movements as 'subversion'",
+      "https://netpol.org/2025/11/28/government-plans-new-powers-to-label-dissenting-movements-as-subversion/"
+    ]
+  ],
+  [
+    [
+      "2025-12-01, 11:26:39",
+      "https://news.ycombinator.com/item?id=46106132"
+    ],
+    [
+      "Self-hosting a Matrix server for 5 years",
+      "https://yaky.dev/2025-11-30-self-hosting-matrix/"
+    ]
+  ],
+  [
+    [
+      "2025-12-01, 10:51:37",
+      "https://news.ycombinator.com/item?id=46105897"
+    ],
+    [
+      "Xlibre is a fork of the Xorg Xserver with lots of code cleanups",
+      "https://x11libre.net/"
+    ]
+  ],
+  [
+    [
       "2025-12-01, 10:37:39",
       "https://news.ycombinator.com/item?id=46105803"
     ],
@@ -81,16 +111,6 @@
   ],
   [
     [
-      "2025-12-01, 00:58:32",
-      "https://news.ycombinator.com/item?id=46102202"
-    ],
-    [
-      "Is America's jobs market nearing a cliff?",
-      "https://www.economist.com/finance-and-economics/2025/11/30/is-americas-jobs-market-nearing-a-cliff"
-    ]
-  ],
-  [
-    [
       "2025-12-01, 00:28:04",
       "https://news.ycombinator.com/item?id=46101996"
     ],
@@ -157,16 +177,6 @@
     [
       "ETH-Zurich: Digital Design and Computer Architecture; 227-0003-10L, Spring, 2025",
       "https://safari.ethz.ch/ddca/spring2025/doku.php?id=start"
-    ]
-  ],
-  [
-    [
-      "2025-11-30, 17:37:09",
-      "https://news.ycombinator.com/item?id=46098673"
-    ],
-    [
-      "ESA Sentinel-1D delivers first high-resolution images",
-      "https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-1/Sentinel-1D_delivers_first_images_from_Antarctica_to_Bremen"
     ]
   ],
   [
@@ -247,16 +257,6 @@
     [
       "We've Detected Lightning on Mars",
       "https://gizmodo.com/weve-detected-lightning-on-mars-for-the-first-time-2000691996"
-    ]
-  ],
-  [
-    [
-      "2025-11-26, 15:46:51",
-      "https://news.ycombinator.com/item?id=46058566"
-    ],
-    [
-      "Show HN: Fixing Google Nano Banana Pixel Art with Rust",
-      "https://github.com/Hugo-Dz/spritefusion-pixel-snapper"
     ]
   ],
   [
