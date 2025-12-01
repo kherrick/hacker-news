@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2025-12-01, 21:44:07",
+      "https://news.ycombinator.com/item?id=46113682"
+    ],
+    [
+      "Mozilla's Latest Quagmire",
+      "https://rubenerd.com/mozillas-latest-quagmire/"
+    ]
+  ],
+  [
+    [
       "2025-12-01, 21:20:28",
       "https://news.ycombinator.com/item?id=46113387"
     ],
@@ -87,16 +97,6 @@
     [
       "Durin is a library for reading and writing the Dwarf debugging format",
       "https://github.com/tmcgilchrist/durin"
-    ]
-  ],
-  [
-    [
-      "2025-12-01, 18:20:46",
-      "https://news.ycombinator.com/item?id=46110897"
-    ],
-    [
-      "Show HN: An AI zettelkasten that extracts ideas from articles, videos, and PDFs",
-      "https://github.com/schoblaska/jargon"
     ]
   ],
   [
@@ -181,16 +181,6 @@
   ],
   [
     [
-      "2025-12-01, 14:13:06",
-      "https://news.ycombinator.com/item?id=46107658"
-    ],
-    [
-      "The Penicillin Myth",
-      "https://www.asimov.press/p/penicillin-myth"
-    ]
-  ],
-  [
-    [
       "2025-12-01, 13:41:15",
       "https://news.ycombinator.com/item?id=46107282"
     ],
@@ -261,6 +251,16 @@
   ],
   [
     [
+      "2025-12-01, 04:06:06",
+      "https://news.ycombinator.com/item?id=46103376"
+    ],
+    [
+      "Search tool that only returns content created before ChatGPT's public release",
+      "https://tegabrain.com/Slop-Evader"
+    ]
+  ],
+  [
+    [
       "2025-11-30, 15:57:34",
       "https://news.ycombinator.com/item?id=46097671"
     ],
@@ -271,12 +271,12 @@
   ],
   [
     [
-      "2025-11-27, 15:06:35",
-      "https://news.ycombinator.com/item?id=46069905"
+      "2025-11-28, 11:19:34",
+      "https://news.ycombinator.com/item?id=46077637"
     ],
     [
-      "Ancestry and the NRS: when the corporate genealogy world turns ugly",
-      "http://scottishgenes.blogspot.com/2025/09/ancestry-and-nrs-when-corporate.html"
+      "Help, My Java Object Vanished (and the GC Is Not at Fault)",
+      "https://arraying.de/posts/markword/"
     ]
   ],
   [
