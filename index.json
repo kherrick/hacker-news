@@ -1,6 +1,56 @@
 [
   [
     [
+      "2025-12-01, 16:11:15",
+      "https://news.ycombinator.com/item?id=46109080"
+    ],
+    [
+      "ImAnim: Modern animation capabilities to ImGui applications",
+      "https://github.com/soufianekhiat/ImAnim"
+    ]
+  ],
+  [
+    [
+      "2025-12-01, 16:01:26",
+      "https://news.ycombinator.com/item?id=46108941"
+    ],
+    [
+      "Ask HN: Who is hiring? (December 2025)",
+      "https://news.ycombinator.com/item?id=46108941"
+    ]
+  ],
+  [
+    [
+      "2025-12-01, 15:57:18",
+      "https://news.ycombinator.com/item?id=46108892"
+    ],
+    [
+      "Show HN: I built a 1.8MB native app with self-built UI, vision and AI libraries",
+      "https://github.com/Okery/Aivition"
+    ]
+  ],
+  [
+    [
+      "2025-12-01, 15:28:49",
+      "https://news.ycombinator.com/item?id=46108563"
+    ],
+    [
+      "Google *Unkills* JPEG XL?",
+      "https://tonisagrista.com/blog/2025/google-unkills-jpegxl/"
+    ]
+  ],
+  [
+    [
+      "2025-12-01, 15:18:42",
+      "https://news.ycombinator.com/item?id=46108437"
+    ],
+    [
+      "Google, Nvidia, and OpenAI – Stratechery by Ben Thompson",
+      "https://stratechery.com/2025/google-nvidia-and-openai/"
+    ]
+  ],
+  [
+    [
       "2025-12-01, 15:00:45",
       "https://news.ycombinator.com/item?id=46108243"
     ],
@@ -61,16 +111,6 @@
   ],
   [
     [
-      "2025-12-01, 11:37:18",
-      "https://news.ycombinator.com/item?id=46106186"
-    ],
-    [
-      "1GB Raspberry Pi 5, and memory-driven price rises",
-      "https://www.raspberrypi.com/news/1gb-raspberry-pi-5-now-available-at-45-and-memory-driven-price-rises/"
-    ]
-  ],
-  [
-    [
       "2025-12-01, 11:26:39",
       "https://news.ycombinator.com/item?id=46106132"
     ],
@@ -117,16 +157,6 @@
     [
       "SmartTube Compromised",
       "https://www.aftvnews.com/smarttubes-official-apk-was-compromised-with-malware-what-you-should-do-if-you-use-it/"
-    ]
-  ],
-  [
-    [
-      "2025-12-01, 04:39:28",
-      "https://news.ycombinator.com/item?id=46103532"
-    ],
-    [
-      "Google Antigravity just deleted the contents of whole drive",
-      "https://old.reddit.com/r/google_antigravity/comments/1p82or6/google_antigravity_just_deleted_the_contents_of/"
     ]
   ],
   [
@@ -191,52 +221,12 @@
   ],
   [
     [
-      "2025-11-30, 16:12:13",
-      "https://news.ycombinator.com/item?id=46097829"
-    ],
-    [
-      "GitHub to Codeberg: my experience",
-      "https://eldred.fr/blog/forge-migration/"
-    ]
-  ],
-  [
-    [
-      "2025-11-30, 14:11:40",
-      "https://news.ycombinator.com/item?id=46096800"
-    ],
-    [
-      "Migrating Dillo from GitHub",
-      "https://dillo-browser.org/news/migration-from-github/"
-    ]
-  ],
-  [
-    [
-      "2025-11-30, 13:40:17",
-      "https://news.ycombinator.com/item?id=46096556"
-    ],
-    [
-      "Windows drive letters are not limited to A-Z",
-      "https://www.ryanliptak.com/blog/windows-drive-letters-are-not-limited-to-a-z/"
-    ]
-  ],
-  [
-    [
       "2025-11-30, 13:07:15",
       "https://news.ycombinator.com/item?id=46096337"
     ],
     [
       "Advent of Code 2025",
       "https://adventofcode.com/2025/about"
-    ]
-  ],
-  [
-    [
-      "2025-11-26, 22:38:24",
-      "https://news.ycombinator.com/item?id=46063145"
-    ],
-    [
-      "Engineers repurpose a mosquito proboscis to create a 3D printing nozzle",
-      "https://techxplore.com/news/2025-11-repurpose-mosquito-proboscis-3d-nozzle.html"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Trifold is a tool to quickly and cheaply host static websites using a CDN",
       "https://www.jpt.sh/projects/trifold/"
+    ]
+  ],
+  [
+    [
+      "2025-11-22, 04:36:23",
+      "https://news.ycombinator.com/item?id=46012135"
+    ],
+    [
+      "Boring Laser Eyes Simulator: Add laser beams to your eyes with your webcam",
+      "https://news.ycombinator.com/item?id=46012135"
     ]
   ]
 ]
