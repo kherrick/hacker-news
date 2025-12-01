@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-12-01](index.md)
 
+* [2025-12-01, 05:49:35](https://news.ycombinator.com/item?id=46103945) - [Show HN: CurioQuest – A simple web trivia/fun facts game](https://curioquest.fun/)
 * [2025-12-01, 05:36:48](https://news.ycombinator.com/item?id=46103858) - [It’s been a very hard year](https://bell.bz/its-been-a-very-hard-year/)
 * [2025-12-01, 05:01:01](https://news.ycombinator.com/item?id=46103657) - [SmartTube Compromised](https://www.aftvnews.com/smarttubes-official-apk-was-compromised-with-malware-what-you-should-do-if-you-use-it/)
 * [2025-12-01, 04:52:29](https://news.ycombinator.com/item?id=46103603) - ['A full-blown crisis': Americans brace for a surge in healthcare costs](https://www.ft.com/content/beec76df-8e6d-4238-bae2-e51683b62aa4)
