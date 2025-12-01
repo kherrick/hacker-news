@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-12-01, 17:01:18",
+      "https://news.ycombinator.com/item?id=46109802"
+    ],
+    [
+      "Better Auth (YC X25) Is Hiring",
+      "https://www.ycombinator.com/companies/better-auth/jobs/eKk5nLt-developer-relation-engineer"
+    ]
+  ],
+  [
+    [
+      "2025-12-01, 16:42:15",
+      "https://news.ycombinator.com/item?id=46109534"
+    ],
+    [
+      "A New AI Winter Is Coming",
+      "https://taranis.ie/llms-are-a-failure-a-new-ai-winter-is-coming/"
+    ]
+  ],
+  [
+    [
       "2025-12-01, 16:11:15",
       "https://news.ycombinator.com/item?id=46109080"
     ],
@@ -17,16 +37,6 @@
     [
       "Ask HN: Who is hiring? (December 2025)",
       "https://news.ycombinator.com/item?id=46108941"
-    ]
-  ],
-  [
-    [
-      "2025-12-01, 15:57:18",
-      "https://news.ycombinator.com/item?id=46108892"
-    ],
-    [
-      "Show HN: I built a 1.8MB native app with self-built UI, vision and AI libraries",
-      "https://github.com/Okery/Aivition"
     ]
   ],
   [
@@ -57,16 +67,6 @@
     [
       "WordPress plugin quirk resulted in UK Gov OBR Budget leak [pdf]",
       "https://obr.uk/docs/dlm_uploads/01122025-Investigation-into-November-2025-EFO-publication-error.pdf"
-    ]
-  ],
-  [
-    [
-      "2025-12-01, 14:50:16",
-      "https://news.ycombinator.com/item?id=46108106"
-    ],
-    [
-      "Netflix Kills Casting from Its Mobile App to Most Modern TVs",
-      "https://www.macrumors.com/2025/12/01/netflix-kills-casting-from-mobile-app-to-tvs/"
     ]
   ],
   [
@@ -157,16 +157,6 @@
     [
       "SmartTube Compromised",
       "https://www.aftvnews.com/smarttubes-official-apk-was-compromised-with-malware-what-you-should-do-if-you-use-it/"
-    ]
-  ],
-  [
-    [
-      "2025-12-01, 04:39:28",
-      "https://news.ycombinator.com/item?id=46103532"
-    ],
-    [
-      "Google Antigravity just deleted the contents of whole drive",
-      "https://old.reddit.com/r/google_antigravity/comments/1p82or6/google_antigravity_just_deleted_the_contents_of/"
     ]
   ],
   [
@@ -267,6 +257,16 @@
     [
       "Historic Engineering Wonders: Photos That Reveal How They Pulled It Off",
       "https://rarehistoricalphotos.com/engineering-methods-from-the-past/"
+    ]
+  ],
+  [
+    [
+      "2025-11-24, 20:50:54",
+      "https://news.ycombinator.com/item?id=46039140"
+    ],
+    [
+      "Isn't WSL2 just a VM?",
+      "https://ssg.dev/isnt-wsl2-just-a-vm/"
     ]
   ],
   [
