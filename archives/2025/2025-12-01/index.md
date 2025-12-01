@@ -13,6 +13,7 @@
 * [2025-12-01, 18:46:17](https://news.ycombinator.com/item?id=46111284) - [Intel could return to Apple computers in 2027](https://www.theverge.com/news/832366/intel-apple-m-chip-low-end-processor)
 * [2025-12-01, 18:35:01](https://news.ycombinator.com/item?id=46111120) - [Durin is a library for reading and writing the Dwarf debugging format](https://github.com/tmcgilchrist/durin)
 * [2025-12-01, 18:21:19](https://news.ycombinator.com/item?id=46110908) - [High-income job losses are cooling housing demand](https://jbrec.com/insights/job-growth-housing-demand-metro-analysis-2026/)
+* [2025-12-01, 18:20:46](https://news.ycombinator.com/item?id=46110897) - [Show HN: An AI zettelkasten that extracts ideas from articles, videos, and PDFs](https://github.com/schoblaska/jargon)
 * [2025-12-01, 18:17:02](https://news.ycombinator.com/item?id=46110842) - [Ghostty compiled to WASM with xterm.js API compatibility](https://github.com/coder/ghostty-web)
 * [2025-12-01, 18:16:09](https://news.ycombinator.com/item?id=46110836) - [Response to Ruby Is Not a Serious Programming Language](https://robbyonrails.com/articles/2025/12/01/why-so-serious/)
 * [2025-12-01, 17:04:10](https://news.ycombinator.com/item?id=46109843) - [Show HN: RFC Hub](https://rfchub.app/)
