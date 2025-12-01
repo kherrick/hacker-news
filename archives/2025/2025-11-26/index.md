@@ -7,6 +7,7 @@
 * [2025-11-26, 23:33:12](https://news.ycombinator.com/item?id=46063531) - [Sutskever and LeCun: Scaling LLMs Won't Yield More Useful Results](https://www.abzglobal.net/web-development-blog/ilya-sutskever-yann-lecun-and-the-end-of-just-add-gpus)
 * [2025-11-26, 23:22:24](https://news.ycombinator.com/item?id=46063450) - [C100 Developer Terminal](https://caligra.com/)
 * [2025-11-26, 22:57:56](https://news.ycombinator.com/item?id=46063272) - [Running Unsupported iOS on Deprecated Devices](https://nyansatan.github.io/run-unsupported-ios/)
+* [2025-11-26, 22:38:24](https://news.ycombinator.com/item?id=46063145) - [Engineers repurpose a mosquito proboscis to create a 3D printing nozzle](https://techxplore.com/news/2025-11-repurpose-mosquito-proboscis-3d-nozzle.html)
 * [2025-11-26, 22:26:36](https://news.ycombinator.com/item?id=46063072) - [Bring Back Doors – Bring Bathroom Doors Back to Hotels](https://bringbackdoors.com/)
 * [2025-11-26, 22:00:48](https://news.ycombinator.com/item?id=46062855) - [Why Strong Consistency?](https://brooker.co.za/blog/2025/11/18/consistency.html)
 * [2025-11-26, 21:52:14](https://news.ycombinator.com/item?id=46062777) - [EU approves Chat Control policy](https://www.techradar.com/vpn/vpn-privacy-security/chat-control-eu-lawmakers-finally-agree-on-the-voluntary-scanning-of-your-private-chats)
