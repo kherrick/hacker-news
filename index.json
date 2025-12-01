@@ -1,16 +1,6 @@
 [
   [
     [
-      "2025-12-01, 18:58:50",
-      "https://news.ycombinator.com/item?id=46111469"
-    ],
-    [
-      "Better Than JSON",
-      "https://aloisdeniel.com/blog/better-than-json"
-    ]
-  ],
-  [
-    [
       "2025-12-01, 18:57:27",
       "https://news.ycombinator.com/item?id=46111449"
     ],
@@ -297,6 +287,16 @@
     [
       "Isn't WSL2 just a VM?",
       "https://ssg.dev/isnt-wsl2-just-a-vm/"
+    ]
+  ],
+  [
+    [
+      "2025-11-24, 08:19:45",
+      "https://news.ycombinator.com/item?id=46031608"
+    ],
+    [
+      "Trifold is a tool to quickly and cheaply host static websites using a CDN",
+      "https://www.jpt.sh/projects/trifold/"
     ]
   ]
 ]
