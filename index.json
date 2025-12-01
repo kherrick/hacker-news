@@ -31,22 +31,12 @@
   ],
   [
     [
-      "2025-12-01, 10:51:37",
-      "https://news.ycombinator.com/item?id=46105897"
+      "2025-12-01, 10:51:16",
+      "https://news.ycombinator.com/item?id=46105896"
     ],
     [
-      "Xlibre is a fork of the Xorg Xserver with lots of code cleanups",
-      "https://x11libre.net/"
-    ]
-  ],
-  [
-    [
-      "2025-12-01, 10:37:39",
-      "https://news.ycombinator.com/item?id=46105803"
-    ],
-    [
-      "AWS data centers' water use tied to spike in cancer and miscarriages in Oregon",
-      "https://techoreon.com/oregon-data-centers-water-use-nitrates-cancer-miscarriage/"
+      "Why Is ChatGPT for Mac So Good?",
+      "https://allenpike.com/2025/why-is-chatgpt-so-good-claude"
     ]
   ],
   [
@@ -55,7 +45,7 @@
       "https://news.ycombinator.com/item?id=46105079"
     ],
     [
-      "DeepSeek releases open-weights math model with IMO gold medal performance",
+      "DeepSeekMath-V2: Towards Self-Verifiable Mathematical Reasoning",
       "https://huggingface.co/deepseek-ai/DeepSeek-Math-V2"
     ]
   ],
@@ -141,16 +131,6 @@
   ],
   [
     [
-      "2025-11-30, 22:53:08",
-      "https://news.ycombinator.com/item?id=46101263"
-    ],
-    [
-      "Bricklink suspends Marketplace operations in 35 countries",
-      "https://jaysbrickblog.com/news/bricklink-suspends-marketplace-operations-in-35-countries/"
-    ]
-  ],
-  [
-    [
       "2025-11-30, 22:05:07",
       "https://news.ycombinator.com/item?id=46100892"
     ],
@@ -187,6 +167,16 @@
     [
       "ETH-Zurich: Digital Design and Computer Architecture; 227-0003-10L, Spring, 2025",
       "https://safari.ethz.ch/ddca/spring2025/doku.php?id=start"
+    ]
+  ],
+  [
+    [
+      "2025-11-30, 17:37:09",
+      "https://news.ycombinator.com/item?id=46098673"
+    ],
+    [
+      "ESA Sentinel-1D delivers first high-resolution images",
+      "https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-1/Sentinel-1D_delivers_first_images_from_Antarctica_to_Bremen"
     ]
   ],
   [
@@ -265,7 +255,7 @@
       "https://news.ycombinator.com/item?id=46061390"
     ],
     [
-      "We've Detected Lightning on Mars",
+      "Detection of triboelectric discharges during dust events on Mars",
       "https://gizmodo.com/weve-detected-lightning-on-mars-for-the-first-time-2000691996"
     ]
   ],
@@ -287,6 +277,16 @@
     [
       "Whole-body Learning in Creating Mathematical/Architectural Structures [pdf]",
       "https://archive.bridgesmathart.org/2017/bridges2017-523.pdf"
+    ]
+  ],
+  [
+    [
+      "2025-11-24, 13:17:53",
+      "https://news.ycombinator.com/item?id=46033778"
+    ],
+    [
+      "Cuddle Fish – A Soft Floating Robot for Safe Physical Interaction",
+      "https://kaikunze.de/post/2025-11.18-cuddle-fish/"
     ]
   ],
   [
