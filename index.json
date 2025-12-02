@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-12-02, 20:08:55",
+      "https://news.ycombinator.com/item?id=46126141"
+    ],
+    [
+      "Free static site generator for small restaurants and cafes",
+      "https://lite.localcafe.org/"
+    ]
+  ],
+  [
+    [
       "2025-12-02, 19:05:54",
       "https://news.ycombinator.com/item?id=46125184"
     ],
@@ -21,16 +31,6 @@
   ],
   [
     [
-      "2025-12-02, 18:50:25",
-      "https://news.ycombinator.com/item?id=46124930"
-    ],
-    [
-      "Microsoft won't let me pay a $24 bill, blocking thousands in Azure spending",
-      "https://news.ycombinator.com/item?id=46124930"
-    ]
-  ],
-  [
-    [
       "2025-12-02, 18:47:53",
       "https://news.ycombinator.com/item?id=46124892"
     ],
@@ -47,16 +47,6 @@
     [
       "Anthropic acquires Bun",
       "https://bun.com/blog/bun-joins-anthropic"
-    ]
-  ],
-  [
-    [
-      "2025-12-02, 18:04:23",
-      "https://news.ycombinator.com/item?id=46124258"
-    ],
-    [
-      "Anthropic Acquires Bun",
-      "https://www.anthropic.com/news/anthropic-acquires-bun-as-claude-code-reaches-usd1b-milestone"
     ]
   ],
   [
@@ -211,16 +201,6 @@
   ],
   [
     [
-      "2025-12-02, 09:11:41",
-      "https://news.ycombinator.com/item?id=46119214"
-    ],
-    [
-      "Comparing AWS Lambda ARM64 vs. x86_64 Performance Across Runtimes in Late 2025",
-      "https://chrisebert.net/comparing-aws-lambda-arm64-vs-x86_64-performance-across-multiple-runtimes-in-late-2025/"
-    ]
-  ],
-  [
-    [
       "2025-12-02, 05:10:01",
       "https://news.ycombinator.com/item?id=46117802"
     ],
@@ -237,6 +217,26 @@
     [
       "What will enter the public domain in 2026?",
       "https://publicdomainreview.org/features/entering-the-public-domain/2026/"
+    ]
+  ],
+  [
+    [
+      "2025-12-01, 17:43:10",
+      "https://news.ycombinator.com/item?id=46110395"
+    ],
+    [
+      "All about automotive lidar",
+      "https://mainstreetautonomy.com/blog/2025-08-29-all-about-automotive-lidar/"
+    ]
+  ],
+  [
+    [
+      "2025-11-30, 11:03:13",
+      "https://news.ycombinator.com/item?id=46095662"
+    ],
+    [
+      "Beej's Guide to Learning Computer Science",
+      "https://beej.us/guide/bglcs/"
     ]
   ],
   [
