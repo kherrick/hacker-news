@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-12-02, 15:20:11",
+      "https://news.ycombinator.com/item?id=46122071"
+    ],
+    [
+      "Is 2026 Next Year?",
+      "https://www.google.com/search?q=is+2026+next+year&oq=is+2026+next+year"
+    ]
+  ],
+  [
+    [
       "2025-12-02, 15:01:53",
       "https://news.ycombinator.com/item?id=46121889"
     ],
@@ -17,6 +27,16 @@
     [
       "Show HN: Marmot – Single-binary data catalog (no Kafka, no Elasticsearch)",
       "https://github.com/marmotdata/marmot"
+    ]
+  ],
+  [
+    [
+      "2025-12-02, 14:54:49",
+      "https://news.ycombinator.com/item?id=46121799"
+    ],
+    [
+      "Nixtml: Static website and blog generator written in Nix",
+      "https://github.com/arnarg/nixtml"
     ]
   ],
   [
@@ -141,16 +161,6 @@
   ],
   [
     [
-      "2025-12-02, 03:24:44",
-      "https://news.ycombinator.com/item?id=46117126"
-    ],
-    [
-      "Decreasing Certificate Lifetimes to 45 Days",
-      "https://letsencrypt.org/2025/12/02/from-90-to-45.html"
-    ]
-  ],
-  [
-    [
       "2025-12-02, 03:23:10",
       "https://news.ycombinator.com/item?id=46117112"
     ],
@@ -177,26 +187,6 @@
     [
       "After Windows Update, Password icon invisible, click where it used to be",
       "https://support.microsoft.com/en-us/topic/august-29-2025-kb5064081-os-build-26100-5074-preview-3f9eb9e1-72ca-4b42-af97-39aace788d93"
-    ]
-  ],
-  [
-    [
-      "2025-12-01, 18:17:02",
-      "https://news.ycombinator.com/item?id=46110842"
-    ],
-    [
-      "Ghostty compiled to WASM with xterm.js API compatibility",
-      "https://github.com/coder/ghostty-web"
-    ]
-  ],
-  [
-    [
-      "2025-12-01, 16:01:26",
-      "https://news.ycombinator.com/item?id=46108941"
-    ],
-    [
-      "Ask HN: Who is hiring? (December 2025)",
-      "https://news.ycombinator.com/item?id=46108941"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Learning Music with Strudel",
       "https://terryds.notion.site/Learning-Music-with-Strudel-2ac98431b24180deb890cc7de667ea92"
+    ]
+  ],
+  [
+    [
+      "2025-11-25, 16:08:33",
+      "https://news.ycombinator.com/item?id=46047170"
+    ],
+    [
+      "YesNotice",
+      "https://infinitedigits.co/docs/software/yesnotice/"
     ]
   ]
 ]
