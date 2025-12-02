@@ -129,25 +129,95 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
-        <section id="46122071">
+        <section id="46122518">
           <h3>
             <a
               class="item"
-              href="https://www.google.com/search?q=is+2026+next+year&amp;oq=is+2026+next+year"
-              >Is 2026 Next Year?</a
+              href="https://arstechnica.com/gaming/2025/12/fallout-2-designer-chris-avellone-recalls-his-first-forays-into-game-development/"
+              >Fallout 2's Chris Avellone describes his game design
+              philosophy</a
             >
           </h3>
           <section>
             <h4>
-              <span>2025-12-02 @ 15:20:11</span
+              <span>2025-12-02 @ 15:56:39</span
               ><span class="points-container"
-                >Points: <span class="points">102</span></span
+                >Points: <span class="points">22</span></span
               ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=46122071"
+                ><a href="https://news.ycombinator.com/item?id=46122518"
                   >Comments</a
-                ><span class="descendants">: 46</span></span
+                ><span class="descendants">: 3</span></span
               >
             </h4>
+          </section>
+        </section>
+        <section id="46121951">
+          <h3>
+            <a class="item" href="https://github.com/runmat-org/runmat"
+              >Show HN: RunMat – runtime with auto CPU/GPU routing for dense
+              math</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2025-12-02 @ 15:07:49</span
+              ><span class="points-container"
+                >Points: <span class="points">9</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=46121951"
+                  >Comments</a
+                ><span class="descendants">: 2</span></span
+              >
+            </h4>
+            <div class="text">
+              <a href="https://news.ycombinator.com/item?id=44972919"
+                >https://news.ycombinator.com/item?id=44972919</a
+              >
+              <p>
+                Since then, I’ve taken it further with RunMat Accelerate: the
+                runtime now automatically fuses operations and routes work
+                between CPU and GPU. You write MATLAB-style code, and RunMat
+                runs your computation across CPUs and GPUs for speed. No CUDA,
+                no kernel code.
+              </p>
+              <p>
+                Under the hood, it builds a graph of your array math, fuses long
+                chains into a few kernels, keeps data on the GPU when that
+                helps, and falls back to CPU JIT / BLAS for small cases.
+              </p>
+              <p>
+                On an Apple M2 Max (32 GB), here are some current benchmarks
+                (median of several runs):
+              </p>
+              <p>
+                * 5M-path Monte Carlo * RunMat ≈ 0.61 s * PyTorch ≈ 1.70 s *
+                NumPy ≈ 79.9 s → ~2.8× faster than PyTorch and ~130× faster than
+                NumPy on this test.
+              </p>
+              <p>
+                * 64 × 4K image preprocessing pipeline (mean/std, normalize,
+                gain/bias, gamma, MSE) * RunMat ≈ 0.68 s * PyTorch ≈ 1.20 s *
+                NumPy ≈ 7.0 s → ~1.8× faster than PyTorch and ~10× faster than
+                NumPy.
+              </p>
+              <p>
+                * 1B-point elementwise chain (sin / exp / cos / tanh mix) *
+                RunMat ≈ 0.14 s * PyTorch ≈ 20.8 s * NumPy ≈ 11.9 s → ~140×
+                faster than PyTorch and ~80× faster than NumPy.
+              </p>
+              <p>
+                If you want more detail on how the fusion and CPU/GPU routing
+                work, I wrote up a longer post here:
+                <a href="https://runmat.org/blog/runmat-accel-intro-blog"
+                  >https://runmat.org/blog/runmat-accel-intro-blog</a
+                >
+              </p>
+              <p>
+                You can run the same benchmarks yourself from the GitHub repo in
+                the main HN link. Feedback, bug reports, and “here’s where it
+                breaks or is slow” examples are very welcome.
+              </p>
+            </div>
           </section>
         </section>
         <section id="46121889">
@@ -160,11 +230,32 @@
             <h4>
               <span>2025-12-02 @ 15:01:53</span
               ><span class="points-container"
-                >Points: <span class="points">237</span></span
+                >Points: <span class="points">273</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46121889"
                   >Comments</a
-                ><span class="descendants">: 64</span></span
+                ><span class="descendants">: 81</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="46121870">
+          <h3>
+            <a
+              class="item"
+              href="https://www.theverge.com/news/836212/openai-code-red-chatgpt"
+              >OpenAI declares 'code red' as Google catches up in AI race</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2025-12-02 @ 15:00:16</span
+              ><span class="points-container"
+                >Points: <span class="points">47</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=46121870"
+                  >Comments</a
+                ><span class="descendants">: 54</span></span
               >
             </h4>
           </section>
@@ -180,11 +271,11 @@
             <h4>
               <span>2025-12-02 @ 14:59:40</span
               ><span class="points-container"
-                >Points: <span class="points">39</span></span
+                >Points: <span class="points">43</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46121860"
                   >Comments</a
-                ><span class="descendants">: 5</span></span
+                ><span class="descendants">: 7</span></span
               >
             </h4>
           </section>
@@ -199,7 +290,7 @@
             <h4>
               <span>2025-12-02 @ 14:54:49</span
               ><span class="points-container"
-                >Points: <span class="points">37</span></span
+                >Points: <span class="points">40</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46121799"
                   >Comments</a
@@ -220,11 +311,11 @@
             <h4>
               <span>2025-12-02 @ 14:31:16</span
               ><span class="points-container"
-                >Points: <span class="points">60</span></span
+                >Points: <span class="points">69</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46121539"
                   >Comments</a
-                ><span class="descendants">: 48</span></span
+                ><span class="descendants">: 55</span></span
               >
             </h4>
           </section>
@@ -242,11 +333,11 @@
             <h4>
               <span>2025-12-02 @ 14:01:05</span
               ><span class="points-container"
-                >Points: <span class="points">101</span></span
+                >Points: <span class="points">108</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46121243"
                   >Comments</a
-                ><span class="descendants">: 66</span></span
+                ><span class="descendants">: 76</span></span
               >
             </h4>
           </section>
@@ -263,11 +354,11 @@
             <h4>
               <span>2025-12-02 @ 12:38:28</span
               ><span class="points-container"
-                >Points: <span class="points">75</span></span
+                >Points: <span class="points">85</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46120611"
                   >Comments</a
-                ><span class="descendants">: 15</span></span
+                ><span class="descendants">: 18</span></span
               >
             </h4>
           </section>
@@ -284,7 +375,7 @@
             <h4>
               <span>2025-12-02 @ 12:37:47</span
               ><span class="points-container"
-                >Points: <span class="points">20</span></span
+                >Points: <span class="points">21</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46120603"
                   >Comments</a
@@ -305,11 +396,11 @@
             <h4>
               <span>2025-12-02 @ 12:28:34</span
               ><span class="points-container"
-                >Points: <span class="points">83</span></span
+                >Points: <span class="points">88</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46120549"
                   >Comments</a
-                ><span class="descendants">: 48</span></span
+                ><span class="descendants">: 52</span></span
               >
             </h4>
           </section>
@@ -324,11 +415,11 @@
             <h4>
               <span>2025-12-02 @ 11:30:29</span
               ><span class="points-container"
-                >Points: <span class="points">191</span></span
+                >Points: <span class="points">198</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46120181"
                   >Comments</a
-                ><span class="descendants">: 55</span></span
+                ><span class="descendants">: 60</span></span
               >
             </h4>
           </section>
@@ -345,7 +436,7 @@
             <h4>
               <span>2025-12-02 @ 10:20:34</span
               ><span class="points-container"
-                >Points: <span class="points">128</span></span
+                >Points: <span class="points">130</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46119699"
                   >Comments</a
@@ -366,7 +457,7 @@
             <h4>
               <span>2025-12-02 @ 09:51:42</span
               ><span class="points-container"
-                >Points: <span class="points">240</span></span
+                >Points: <span class="points">246</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46119500"
                   >Comments</a
@@ -388,11 +479,11 @@
             <h4>
               <span>2025-12-02 @ 09:11:41</span
               ><span class="points-container"
-                >Points: <span class="points">87</span></span
+                >Points: <span class="points">93</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46119214"
                   >Comments</a
-                ><span class="descendants">: 39</span></span
+                ><span class="descendants">: 42</span></span
               >
             </h4>
           </section>
@@ -409,11 +500,11 @@
             <h4>
               <span>2025-12-02 @ 07:46:47</span
               ><span class="points-container"
-                >Points: <span class="points">136</span></span
+                >Points: <span class="points">138</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46118722"
                   >Comments</a
-                ><span class="descendants">: 68</span></span
+                ><span class="descendants">: 74</span></span
               >
             </h4>
           </section>
@@ -447,11 +538,11 @@
             <h4>
               <span>2025-12-02 @ 05:10:01</span
               ><span class="points-container"
-                >Points: <span class="points">333</span></span
+                >Points: <span class="points">343</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46117802"
                   >Comments</a
-                ><span class="descendants">: 105</span></span
+                ><span class="descendants">: 110</span></span
               >
             </h4>
           </section>
@@ -468,11 +559,11 @@
             <h4>
               <span>2025-12-02 @ 03:23:10</span
               ><span class="points-container"
-                >Points: <span class="points">389</span></span
+                >Points: <span class="points">395</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46117112"
                   >Comments</a
-                ><span class="descendants">: 248</span></span
+                ><span class="descendants">: 252</span></span
               >
             </h4>
           </section>
@@ -489,11 +580,11 @@
             <h4>
               <span>2025-12-02 @ 02:35:47</span
               ><span class="points-container"
-                >Points: <span class="points">144</span></span
+                >Points: <span class="points">147</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46116724"
                   >Comments</a
-                ><span class="descendants">: 29</span></span
+                ><span class="descendants">: 30</span></span
               >
             </h4>
           </section>
@@ -511,30 +602,11 @@
             <h4>
               <span>2025-12-02 @ 02:12:14</span
               ><span class="points-container"
-                >Points: <span class="points">140</span></span
+                >Points: <span class="points">145</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46116567"
                   >Comments</a
-                ><span class="descendants">: 139</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="46110842">
-          <h3>
-            <a class="item" href="https://github.com/coder/ghostty-web"
-              >Ghostty compiled to WASM with xterm.js API compatibility</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2025-12-01 @ 18:17:02</span
-              ><span class="points-container"
-                >Points: <span class="points">376</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=46110842"
-                  >Comments</a
-                ><span class="descendants">: 106</span></span
+                ><span class="descendants">: 150</span></span
               >
             </h4>
           </section>
@@ -552,11 +624,11 @@
             <h4>
               <span>2025-12-01 @ 15:48:03</span
               ><span class="points-container"
-                >Points: <span class="points">904</span></span
+                >Points: <span class="points">907</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46108780"
                   >Comments</a
-                ><span class="descendants">: 426</span></span
+                ><span class="descendants">: 432</span></span
               >
             </h4>
             <div class="text">
@@ -584,11 +656,11 @@
             <h4>
               <span>2025-12-01 @ 06:30:14</span
               ><span class="points-container"
-                >Points: <span class="points">827</span></span
+                >Points: <span class="points">830</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46104193"
                   >Comments</a
-                ><span class="descendants">: 603</span></span
+                ><span class="descendants">: 611</span></span
               >
             </h4>
           </section>
@@ -603,11 +675,11 @@
             <h4>
               <span>2025-11-30 @ 11:03:13</span
               ><span class="points-container"
-                >Points: <span class="points">261</span></span
+                >Points: <span class="points">269</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46095662"
                   >Comments</a
-                ><span class="descendants">: 94</span></span
+                ><span class="descendants">: 97</span></span
               >
             </h4>
           </section>
@@ -624,11 +696,11 @@
             <h4>
               <span>2025-11-30 @ 04:09:41</span
               ><span class="points-container"
-                >Points: <span class="points">117</span></span
+                >Points: <span class="points">121</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46093613"
                   >Comments</a
-                ><span class="descendants">: 21</span></span
+                ><span class="descendants">: 23</span></span
               >
             </h4>
           </section>
@@ -645,7 +717,7 @@
             <h4>
               <span>2025-11-29 @ 22:03:33</span
               ><span class="points-container"
-                >Points: <span class="points">147</span></span
+                >Points: <span class="points">149</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46091211"
                   >Comments</a
@@ -666,27 +738,6 @@
                 >)
               </p>
             </div>
-          </section>
-        </section>
-        <section id="46080835">
-          <h3>
-            <a
-              class="item"
-              href="https://www.instantdb.com/essays/agents_building_counterstrike"
-              >Codex, Opus, Gemini try to build Counter Strike</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2025-11-28 @ 17:41:01</span
-              ><span class="points-container"
-                >Points: <span class="points">268</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=46080835"
-                  >Comments</a
-                ><span class="descendants">: 107</span></span
-              >
-            </h4>
           </section>
         </section>
         <section id="46066764">
@@ -720,11 +771,11 @@
             <h4>
               <span>2025-11-27 @ 07:22:31</span
               ><span class="points-container"
-                >Points: <span class="points">52</span></span
+                >Points: <span class="points">58</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46066640"
                   >Comments</a
-                ><span class="descendants">: 9</span></span
+                ><span class="descendants">: 11</span></span
               >
             </h4>
           </section>
@@ -741,11 +792,11 @@
             <h4>
               <span>2025-11-26 @ 00:09:19</span
               ><span class="points-container"
-                >Points: <span class="points">122</span></span
+                >Points: <span class="points">150</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46052478"
                   >Comments</a
-                ><span class="descendants">: 26</span></span
+                ><span class="descendants">: 31</span></span
               >
             </h4>
           </section>
@@ -762,11 +813,11 @@
             <h4>
               <span>2025-11-25 @ 16:08:33</span
               ><span class="points-container"
-                >Points: <span class="points">35</span></span
+                >Points: <span class="points">47</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46047170"
                   >Comments</a
-                ><span class="descendants">: 20</span></span
+                ><span class="descendants">: 24</span></span
               >
             </h4>
           </section>
