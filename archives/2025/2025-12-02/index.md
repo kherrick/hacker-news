@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-12-02](index.md)
 
+* [2025-12-02, 21:09:10](https://news.ycombinator.com/item?id=46126906) - [We're Committing $6.25B to Give 25M Children a Financial Head Start](https://www.onedell.com/investamerica/)
 * [2025-12-02, 21:00:59](https://news.ycombinator.com/item?id=46126822) - [Delty (YC X25) Is Hiring](https://www.ycombinator.com/companies/delty/jobs/aPWMaiq-full-stack-software-engineer)
 * [2025-12-02, 20:14:20](https://news.ycombinator.com/item?id=46126217) - [Paged Out](https://pagedout.institute)
 * [2025-12-02, 20:08:55](https://news.ycombinator.com/item?id=46126141) - [Free static site generator for small restaurants and cafes](https://lite.localcafe.org/)

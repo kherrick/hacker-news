@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-12-02, 21:09:10](https://news.ycombinator.com/item?id=46126906) - [We're Committing $6.25B to Give 25M Children a Financial Head Start](https://www.onedell.com/investamerica/)
 * [2025-12-02, 21:00:59](https://news.ycombinator.com/item?id=46126822) - [Delty (YC X25) Is Hiring](https://www.ycombinator.com/companies/delty/jobs/aPWMaiq-full-stack-software-engineer)
 * [2025-12-02, 20:14:20](https://news.ycombinator.com/item?id=46126217) - [Paged Out](https://pagedout.institute)
 * [2025-12-02, 20:08:55](https://news.ycombinator.com/item?id=46126141) - [Free static site generator for small restaurants and cafes](https://lite.localcafe.org/)
@@ -8,7 +9,6 @@
 * [2025-12-02, 18:47:53](https://news.ycombinator.com/item?id=46124892) - [Cursed circuits: charge pump voltage halver](https://lcamtuf.substack.com/p/cursed-circuits-charge-pump-voltage)
 * [2025-12-02, 18:05:44](https://news.ycombinator.com/item?id=46124267) - [Anthropic acquires Bun](https://bun.com/blog/bun-joins-anthropic)
 * [2025-12-02, 17:59:53](https://news.ycombinator.com/item?id=46124205) - [100k TPS over a billion rows: the unreasonable effectiveness of SQLite](https://andersmurphy.com/2025/12/02/100000-tps-over-a-billion-rows-the-unreasonable-effectiveness-of-sqlite.html)
-* [2025-12-02, 17:58:11](https://news.ycombinator.com/item?id=46124179) - [School Cell Phone Bans and Student Achievement (NBER Digest)](https://www.nber.org/digest/202512/school-cell-phone-bans-and-student-achievement)
 * [2025-12-02, 17:48:33](https://news.ycombinator.com/item?id=46124063) - [The Junior Hiring Crisis](https://people-work.io/blog/junior-hiring-crisis/)
 * [2025-12-02, 15:01:53](https://news.ycombinator.com/item?id=46121889) - [Mistral 3 family of models released](https://mistral.ai/news/mistral-3)
 * [2025-12-02, 15:00:16](https://news.ycombinator.com/item?id=46121870) - [OpenAI declares 'code red' as Google catches up in AI race](https://www.theverge.com/news/836212/openai-code-red-chatgpt)
