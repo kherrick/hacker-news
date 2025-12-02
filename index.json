@@ -1,6 +1,36 @@
 [
   [
     [
+      "2025-12-02, 19:05:54",
+      "https://news.ycombinator.com/item?id=46125184"
+    ],
+    [
+      "Claude 4.5 Opus' Soul Document",
+      "https://simonwillison.net/2025/Dec/2/claude-soul-document/"
+    ]
+  ],
+  [
+    [
+      "2025-12-02, 19:04:31",
+      "https://news.ycombinator.com/item?id=46125155"
+    ],
+    [
+      "Amazon launches Trainium3",
+      "https://techcrunch.com/2025/12/02/amazon-releases-an-impressive-new-ai-chip-and-teases-a-nvidia-friendly-roadmap/"
+    ]
+  ],
+  [
+    [
+      "2025-12-02, 18:47:53",
+      "https://news.ycombinator.com/item?id=46124892"
+    ],
+    [
+      "Cursed circuits: charge pump voltage halver",
+      "https://lcamtuf.substack.com/p/cursed-circuits-charge-pump-voltage"
+    ]
+  ],
+  [
+    [
       "2025-12-02, 18:10:23",
       "https://news.ycombinator.com/item?id=46124324"
     ],
@@ -35,7 +65,7 @@
       "https://news.ycombinator.com/item?id=46124205"
     ],
     [
-      "100000 TPS over a billion rows: the unreasonable effectiveness of SQLite",
+      "100k TPS over a billion rows: the unreasonable effectiveness of SQLite",
       "https://andersmurphy.com/2025/12/02/100000-tps-over-a-billion-rows-the-unreasonable-effectiveness-of-sqlite.html"
     ]
   ],
@@ -67,16 +97,6 @@
     [
       "Progress on TypeScript 7 – December 2025",
       "https://devblogs.microsoft.com/typescript/progress-on-typescript-7-december-2025/"
-    ]
-  ],
-  [
-    [
-      "2025-12-02, 17:24:33",
-      "https://news.ycombinator.com/item?id=46123747"
-    ],
-    [
-      "Apple to beat Samsung in smartphone shipments for first time in 14 years",
-      "https://sherwood.news/tech/apple-to-beat-samsung-in-smartphone-shipments-for-first-time-in-14-years/"
     ]
   ],
   [
@@ -171,16 +191,6 @@
   ],
   [
     [
-      "2025-12-02, 12:37:47",
-      "https://news.ycombinator.com/item?id=46120603"
-    ],
-    [
-      "Lazier Binary Decision Diagrams for set-theoretic types",
-      "https://elixir-lang.org/blog/2025/12/02/lazier-bdds-for-set-theoretic-types/"
-    ]
-  ],
-  [
-    [
       "2025-12-02, 12:28:34",
       "https://news.ycombinator.com/item?id=46120549"
     ],
@@ -241,21 +251,11 @@
   ],
   [
     [
-      "2025-11-30, 11:03:13",
-      "https://news.ycombinator.com/item?id=46095662"
-    ],
-    [
-      "Beej's Guide to Learning Computer Science",
-      "https://beej.us/guide/bglcs/"
-    ]
-  ],
-  [
-    [
       "2025-11-30, 06:56:33",
       "https://news.ycombinator.com/item?id=46094460"
     ],
     [
-      "I Designed and Printed a Custom Nose Guard to Help My Dog with DLE",
+      "I designed and printed a custom nose guard to help my dog with DLE",
       "https://snoutcover.com/billie-story"
     ]
   ],
@@ -285,7 +285,7 @@
       "https://news.ycombinator.com/item?id=46052478"
     ],
     [
-      "Learning Music with Strudel",
+      "Learning music with Strudel",
       "https://terryds.notion.site/Learning-Music-with-Strudel-2ac98431b24180deb890cc7de667ea92"
     ]
   ],
