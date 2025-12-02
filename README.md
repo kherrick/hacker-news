@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-12-02, 16:23:27](https://news.ycombinator.com/item?id=46122851) - [Peter Thiel's Apocalyptic Worldview Is a Dangerous Fantasy](https://jacobin.com/2025/11/peter-thiel-palantir-apocalypse-antichrist)
+* [2025-12-02, 17:06:24](https://news.ycombinator.com/item?id=46123469) - [API GitHub Meta](https://api.github.com/meta)
+* [2025-12-02, 17:00:12](https://news.ycombinator.com/item?id=46123374) - [Poka Labs (YC S24) Is Hiring a Founding Engineer](https://www.ycombinator.com/companies/poka-labs/jobs/RCQgmqB-founding-engineer)
 * [2025-12-02, 15:56:39](https://news.ycombinator.com/item?id=46122518) - [Fallout 2's Chris Avellone describes his game design philosophy](https://arstechnica.com/gaming/2025/12/fallout-2-designer-chris-avellone-recalls-his-first-forays-into-game-development/)
 * [2025-12-02, 15:07:49](https://news.ycombinator.com/item?id=46121951) - [Show HN: RunMat – runtime with auto CPU/GPU routing for dense math](https://github.com/runmat-org/runmat)
 * [2025-12-02, 15:01:53](https://news.ycombinator.com/item?id=46121889) - [Mistral 3 family of models released](https://mistral.ai/news/mistral-3)
@@ -26,7 +27,6 @@
 * [2025-11-30, 06:56:33](https://news.ycombinator.com/item?id=46094460) - [I Designed and Printed a Custom Nose Guard to Help My Dog with DLE](https://snoutcover.com/billie-story)
 * [2025-11-30, 04:09:41](https://news.ycombinator.com/item?id=46093613) - [YouTube increases FreeBASIC performance (2019)](https://freebasic.net/forum/viewtopic.php?t=27927)
 * [2025-11-29, 22:03:33](https://news.ycombinator.com/item?id=46091211) - [Tom Stoppard has died](https://www.bbc.com/news/articles/c74xe49q7vlo)
-* [2025-11-28, 17:41:01](https://news.ycombinator.com/item?id=46080835) - [Codex, Opus, Gemini try to build Counter Strike](https://www.instantdb.com/essays/agents_building_counterstrike)
 * [2025-11-27, 07:22:31](https://news.ycombinator.com/item?id=46066640) - [An LED panel that shows the aviation around you](https://github.com/AxisNimble/TheFlightWall_OSS)
 * [2025-11-26, 00:09:19](https://news.ycombinator.com/item?id=46052478) - [Learning Music with Strudel](https://terryds.notion.site/Learning-Music-with-Strudel-2ac98431b24180deb890cc7de667ea92)
 * [2025-11-25, 16:08:33](https://news.ycombinator.com/item?id=46047170) - [YesNotice](https://infinitedigits.co/docs/software/yesnotice/)
