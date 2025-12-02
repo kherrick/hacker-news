@@ -13,7 +13,6 @@
 * [2025-12-02, 02:12:14](https://news.ycombinator.com/item?id=46116567) - [After Windows Update, Password icon invisible, click where it used to be](https://support.microsoft.com/en-us/topic/august-29-2025-kb5064081-os-build-26100-5074-preview-3f9eb9e1-72ca-4b42-af97-39aace788d93)
 * [2025-12-02, 01:30:15](https://news.ycombinator.com/item?id=46116179) - [Notes on Bhutan](https://apropos.substack.com/p/notes-on-bhutan)
 * [2025-12-02, 00:31:01](https://news.ycombinator.com/item?id=46115682) - [Arcee Trinity Mini: US-Trained Moe Model](https://www.arcee.ai/blog/the-trinity-manifesto?src=hn)
-* [2025-12-01, 22:20:33](https://news.ycombinator.com/item?id=46114122) - [John Giannandrea to retire from Apple](https://www.apple.com/newsroom/2025/12/john-giannandrea-to-retire-from-apple/)
 * [2025-12-01, 18:17:02](https://news.ycombinator.com/item?id=46110842) - [Ghostty compiled to WASM with xterm.js API compatibility](https://github.com/coder/ghostty-web)
 * [2025-12-01, 16:01:26](https://news.ycombinator.com/item?id=46108941) - [Ask HN: Who is hiring? (December 2025)](https://news.ycombinator.com/item?id=46108941)
 * [2025-12-01, 15:48:03](https://news.ycombinator.com/item?id=46108780) - [DeepSeek-v3.2: Pushing the frontier of open large language models [pdf]](https://huggingface.co/deepseek-ai/DeepSeek-V3.2/resolve/main/assets/paper.pdf)
@@ -29,6 +28,7 @@
 * [2025-11-27, 23:47:07](https://news.ycombinator.com/item?id=46074222) - [Shrinking While Linking](https://www.tweag.io/blog/2025-11-27-shrinking-static-libs/)
 * [2025-11-27, 16:39:35](https://news.ycombinator.com/item?id=46070883) - [10 years of writing a blog nobody reads](https://flowtwo.io/post/on-10-years-of-writing-a-blog-nobody-reads)
 * [2025-11-27, 07:42:39](https://news.ycombinator.com/item?id=46066764) - [URL in C Puzzle](https://susam.net/url-in-c.html)
+* [2025-11-26, 10:24:56](https://news.ycombinator.com/item?id=46056022) - [Invisible Details of Interaction Design](https://rauno.me/craft/interaction-design)
 * [2025-11-26, 06:43:58](https://news.ycombinator.com/item?id=46054787) - [Stride Game Engine 4.3 with .NET 10 Support](https://www.stride3d.net/blog/announcing-stride-4-3-in-dotnet-10/)
 
 ## [Archives](archives/index.md)
