@@ -48,6 +48,7 @@
 * [2025-11-26, 15:32:06](https://news.ycombinator.com/item?id=46058361) - [MIT study finds AI can replace 11.7% of U.S. workforce](https://www.cnbc.com/2025/11/26/mit-study-finds-ai-can-already-replace-11point7percent-of-us-workforce.html)
 * [2025-11-26, 15:06:37](https://news.ycombinator.com/item?id=46058065) - [OpenAI needs to raise at least $207B by 2030 so it can continue to lose money](https://ft.com/content/23e54a28-6f63-4533-ab96-3756d9c88bad)
 * [2025-11-26, 15:03:09](https://news.ycombinator.com/item?id=46058033) - [Compressed filesystems à la language models](https://grohan.co/2025/11/25/llmfuse/)
+* [2025-11-26, 14:53:52](https://news.ycombinator.com/item?id=46057932) - [Solving the Partridge Packing Problem Using MiniZinc](https://zayenz.se/blog/post/partridge-packing/)
 * [2025-11-26, 14:47:58](https://news.ycombinator.com/item?id=46057874) - [A National Mission to Accelerate Science Through Artificial Intelligence](https://energy.gov/genesis)
 * [2025-11-26, 14:46:05](https://news.ycombinator.com/item?id=46057852) - [Justice dept. requires Realpage end sharing competitively sensitive information](https://www.justice.gov/opa/pr/justice-department-requires-realpage-end-sharing-competitively-sensitive-information-and)
 * [2025-11-26, 14:32:13](https://news.ycombinator.com/item?id=46057717) - [Show HN: Offline RAG System Using Docker and Llama 3 (No Cloud APIs)](https://github.com/PhilYeh1212/Local-AI-Knowledge-Base-Docker-Llama3)
