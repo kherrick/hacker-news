@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-12-02, 22:32:45](https://news.ycombinator.com/item?id=46127868) - [Exploring Large HTML Documents on the Web](https://calendar.perfplanet.com/2025/exploring-large-html-documents-on-the-web/)
 * [2025-12-02, 21:52:30](https://news.ycombinator.com/item?id=46127400) - [AI generated font using nano banana](https://constanttime.notion.site/Worlds-first-Ai-generated-font-using-nano-banana-2ba6f8e15af18012864bdb760fa9c9ba?pvs=74)
 * [2025-12-02, 21:31:35](https://news.ycombinator.com/item?id=46127143) - [EmacsConf 2025](https://emacsconf.org/2025/)
 * [2025-12-02, 21:14:38](https://news.ycombinator.com/item?id=46126964) - [Ecosia: The greenest AI is here](https://blog.ecosia.org/ecosia-ai/)
@@ -25,7 +26,6 @@
 * [2025-11-30, 07:27:25](https://news.ycombinator.com/item?id=46094606) - [Qwen3-VL can scan two-hour videos and pinpoint nearly every detail](https://the-decoder.com/qwen3-vl-can-scan-two-hour-videos-and-pinpoint-nearly-every-detail/)
 * [2025-11-30, 06:56:33](https://news.ycombinator.com/item?id=46094460) - [I designed and printed a custom nose guard to help my dog with DLE](https://snoutcover.com/billie-story)
 * [2025-11-29, 16:39:00](https://news.ycombinator.com/item?id=46088823) - [Show HN: Rhubarb – C89 Libraries in Latin](https://github.com/farant/rhubarb)
-* [2025-11-28, 16:50:32](https://news.ycombinator.com/item?id=46080307) - [Lowtype: Elegant Types in Ruby](https://codeberg.org/Iow/type)
 * [2025-11-26, 14:53:52](https://news.ycombinator.com/item?id=46057932) - [Solving the Partridge Packing Problem Using MiniZinc](https://zayenz.se/blog/post/partridge-packing/)
 * [2025-11-26, 05:00:50](https://news.ycombinator.com/item?id=46054338) - [Code Wiki: Accelerating your code understanding](https://developers.googleblog.com/en/introducing-code-wiki-accelerating-your-code-understanding/)
 * [2025-11-26, 00:09:19](https://news.ycombinator.com/item?id=46052478) - [Learning music with Strudel](https://terryds.notion.site/Learning-Music-with-Strudel-2ac98431b24180deb890cc7de667ea92)
