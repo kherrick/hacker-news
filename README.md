@@ -1,7 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-12-02, 15:20:11](https://news.ycombinator.com/item?id=46122071) - [Is 2026 Next Year?](https://www.google.com/search?q=is+2026+next+year&oq=is+2026+next+year)
 * [2025-12-02, 15:01:53](https://news.ycombinator.com/item?id=46121889) - [Mistral 3 family of models released](https://mistral.ai/news/mistral-3)
 * [2025-12-02, 14:59:40](https://news.ycombinator.com/item?id=46121860) - [Show HN: Marmot – Single-binary data catalog (no Kafka, no Elasticsearch)](https://github.com/marmotdata/marmot)
+* [2025-12-02, 14:54:49](https://news.ycombinator.com/item?id=46121799) - [Nixtml: Static website and blog generator written in Nix](https://github.com/arnarg/nixtml)
 * [2025-12-02, 14:31:16](https://news.ycombinator.com/item?id=46121539) - [Zig's new plan for asynchronous programs](https://lwn.net/SubscriberLink/1046084/4c048ee008e1c70e/)
 * [2025-12-02, 14:01:05](https://news.ycombinator.com/item?id=46121243) - [Proximity to coworkers increases long-run development, lowers short-term output](https://pallais.scholars.harvard.edu/publications/power-proximity-coworkers-training-tomorrow-or-productivity-today)
 * [2025-12-02, 12:38:28](https://news.ycombinator.com/item?id=46120611) - [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
@@ -14,12 +16,9 @@
 * [2025-12-02, 07:46:47](https://news.ycombinator.com/item?id=46118722) - [How Brian Eno Created Ambient 1: Music for Airports (2019)](https://reverbmachine.com/blog/deconstructing-brian-eno-music-for-airports/)
 * [2025-12-02, 07:01:03](https://news.ycombinator.com/item?id=46118432) - [Rootless Pings in Rust](https://bou.ke/blog/rust-ping/)
 * [2025-12-02, 05:10:01](https://news.ycombinator.com/item?id=46117802) - [Apple Releases Open Weights Video Model](https://starflow-v.github.io)
-* [2025-12-02, 03:24:44](https://news.ycombinator.com/item?id=46117126) - [Decreasing Certificate Lifetimes to 45 Days](https://letsencrypt.org/2025/12/02/from-90-to-45.html)
 * [2025-12-02, 03:23:10](https://news.ycombinator.com/item?id=46117112) - [What will enter the public domain in 2026?](https://publicdomainreview.org/features/entering-the-public-domain/2026/)
 * [2025-12-02, 02:35:47](https://news.ycombinator.com/item?id=46116724) - [Reverse math shows why hard problems are hard](https://www.quantamagazine.org/reverse-mathematics-illuminates-why-hard-problems-are-hard-20251201/)
 * [2025-12-02, 02:12:14](https://news.ycombinator.com/item?id=46116567) - [After Windows Update, Password icon invisible, click where it used to be](https://support.microsoft.com/en-us/topic/august-29-2025-kb5064081-os-build-26100-5074-preview-3f9eb9e1-72ca-4b42-af97-39aace788d93)
-* [2025-12-01, 18:17:02](https://news.ycombinator.com/item?id=46110842) - [Ghostty compiled to WASM with xterm.js API compatibility](https://github.com/coder/ghostty-web)
-* [2025-12-01, 16:01:26](https://news.ycombinator.com/item?id=46108941) - [Ask HN: Who is hiring? (December 2025)](https://news.ycombinator.com/item?id=46108941)
 * [2025-12-01, 15:48:03](https://news.ycombinator.com/item?id=46108780) - [DeepSeek-v3.2: Pushing the frontier of open large language models [pdf]](https://huggingface.co/deepseek-ai/DeepSeek-V3.2/resolve/main/assets/paper.pdf)
 * [2025-12-01, 06:30:14](https://news.ycombinator.com/item?id=46104193) - [India orders smartphone makers to preload state-owned cyber safety app](https://www.reuters.com/sustainability/boards-policy-regulation/india-orders-mobile-phones-preloaded-with-government-app-ensure-cyber-safety-2025-12-01/)
 * [2025-11-30, 11:03:13](https://news.ycombinator.com/item?id=46095662) - [Beej's Guide to Learning Computer Science](https://beej.us/guide/bglcs/)
@@ -30,6 +29,7 @@
 * [2025-11-27, 07:42:39](https://news.ycombinator.com/item?id=46066764) - [URL in C (2011)](https://susam.net/url-in-c.html)
 * [2025-11-27, 07:22:31](https://news.ycombinator.com/item?id=46066640) - [An LED panel that shows the aviation around you](https://github.com/AxisNimble/TheFlightWall_OSS)
 * [2025-11-26, 00:09:19](https://news.ycombinator.com/item?id=46052478) - [Learning Music with Strudel](https://terryds.notion.site/Learning-Music-with-Strudel-2ac98431b24180deb890cc7de667ea92)
+* [2025-11-25, 16:08:33](https://news.ycombinator.com/item?id=46047170) - [YesNotice](https://infinitedigits.co/docs/software/yesnotice/)
 
 ## [Archives](archives/index.md)
 
