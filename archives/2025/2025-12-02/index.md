@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-12-02](index.md)
 
+* [2025-12-02, 15:01:53](https://news.ycombinator.com/item?id=46121889) - [Mistral 3 family of models released](https://mistral.ai/news/mistral-3)
+* [2025-12-02, 14:59:40](https://news.ycombinator.com/item?id=46121860) - [Show HN: Marmot – Single-binary data catalog (no Kafka, no Elasticsearch)](https://github.com/marmotdata/marmot)
 * [2025-12-02, 14:31:16](https://news.ycombinator.com/item?id=46121539) - [Zig's new plan for asynchronous programs](https://lwn.net/SubscriberLink/1046084/4c048ee008e1c70e/)
 * [2025-12-02, 14:01:05](https://news.ycombinator.com/item?id=46121243) - [Proximity to coworkers increases long-run development, lowers short-term output](https://pallais.scholars.harvard.edu/publications/power-proximity-coworkers-training-tomorrow-or-productivity-today)
 * [2025-12-02, 12:54:56](https://news.ycombinator.com/item?id=46120728) - [Gary Tan claims Zoho will be out of business due to vibe coding](https://twitter.com/garrytan/status/1995664097007091818)
