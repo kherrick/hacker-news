@@ -8,6 +8,7 @@
 * [2025-12-02, 18:05:44](https://news.ycombinator.com/item?id=46124267) - [Bun has been acquired by Anthropic](https://bun.com/blog/bun-joins-anthropic)
 * [2025-12-02, 18:04:23](https://news.ycombinator.com/item?id=46124258) - [Anthropic Acquires Bun](https://www.anthropic.com/news/anthropic-acquires-bun-as-claude-code-reaches-usd1b-milestone)
 * [2025-12-02, 17:59:53](https://news.ycombinator.com/item?id=46124205) - [100000 TPS over a billion rows: the unreasonable effectiveness of SQLite](https://andersmurphy.com/2025/12/02/100000-tps-over-a-billion-rows-the-unreasonable-effectiveness-of-sqlite.html)
+* [2025-12-02, 17:58:11](https://news.ycombinator.com/item?id=46124179) - [School Cell Phone Bans and Student Achievement (NBER Digest)](https://www.nber.org/digest/202512/school-cell-phone-bans-and-student-achievement)
 * [2025-12-02, 17:48:33](https://news.ycombinator.com/item?id=46124063) - [The Junior Hiring Crisis](https://people-work.io/blog/junior-hiring-crisis/)
 * [2025-12-02, 17:37:06](https://news.ycombinator.com/item?id=46123921) - [Progress on TypeScript 7 – December 2025](https://devblogs.microsoft.com/typescript/progress-on-typescript-7-december-2025/)
 * [2025-12-02, 17:24:33](https://news.ycombinator.com/item?id=46123747) - [Apple to beat Samsung in smartphone shipments for first time in 14 years](https://sherwood.news/tech/apple-to-beat-samsung-in-smartphone-shipments-for-first-time-in-14-years/)
