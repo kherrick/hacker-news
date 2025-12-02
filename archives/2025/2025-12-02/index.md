@@ -13,6 +13,7 @@
 * [2025-12-02, 03:24:44](https://news.ycombinator.com/item?id=46117126) - [Decreasing Certificate Lifetimes to 45 Days](https://letsencrypt.org/2025/12/02/from-90-to-45.html)
 * [2025-12-02, 03:23:10](https://news.ycombinator.com/item?id=46117112) - [What Will Enter the Public Domain in 2026?](https://publicdomainreview.org/features/entering-the-public-domain/2026/)
 * [2025-12-02, 02:35:47](https://news.ycombinator.com/item?id=46116724) - [Reverse math shows why hard problems are hard](https://www.quantamagazine.org/reverse-mathematics-illuminates-why-hard-problems-are-hard-20251201/)
+* [2025-12-02, 02:12:14](https://news.ycombinator.com/item?id=46116567) - [After Windows Update, Password icon invisible, click where it used to be](https://support.microsoft.com/en-us/topic/august-29-2025-kb5064081-os-build-26100-5074-preview-3f9eb9e1-72ca-4b42-af97-39aace788d93)
 * [2025-12-02, 01:30:15](https://news.ycombinator.com/item?id=46116179) - [Notes on Bhutan](https://apropos.substack.com/p/notes-on-bhutan)
 * [2025-12-02, 00:36:23](https://news.ycombinator.com/item?id=46115731) - [US air travelers without REAL IDs will be charged a $45 fee](https://apnews.com/article/real-id-fee-airport-security-travel-tsa-fe8c7ed55cf3dacafa10d50cc2112eb7)
 * [2025-12-02, 00:36:15](https://news.ycombinator.com/item?id=46115729) - [Around The World, Part 27: Planting trees](https://frozenfractal.com/blog/2025/11/28/around-the-world-27-planting-trees/)
