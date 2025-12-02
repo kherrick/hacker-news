@@ -32,6 +32,7 @@
 * [2025-11-29, 17:42:29](https://news.ycombinator.com/item?id=46089304) - [OCaml maintainers reject massive AI-generated pull request](https://devclass.com/2025/11/27/ocaml-maintainers-reject-massive-ai-generated-pull-request/)
 * [2025-11-29, 17:00:23](https://news.ycombinator.com/item?id=46089008) - [AccessOwl (YC S22) Is Hiring a Technical Account Manager (IAM)](https://www.ycombinator.com/companies/accessowl/jobs/dGC3pcO-technical-account-manager-identity-access-management)
 * [2025-11-29, 16:58:58](https://news.ycombinator.com/item?id=46088998) - [We're learning more about what Vitamin D does to our bodies](https://www.technologyreview.com/2025/11/21/1128206/vitamin-d-bodies-bone-health-immune/)
+* [2025-11-29, 16:39:00](https://news.ycombinator.com/item?id=46088823) - [Show HN: Rhubarb – C89 Libraries in Latin](https://github.com/farant/rhubarb)
 * [2025-11-29, 15:43:58](https://news.ycombinator.com/item?id=46088379) - [Testing Shows Automotive Glassbreakers Can't Break Modern Automotive Glass](https://www.core77.com/posts/138925/Testing-Shows-Automotive-Glassbreakers-Cant-Break-Modern-Automotive-Glass)
 * [2025-11-29, 15:28:05](https://news.ycombinator.com/item?id=46088241) - [Copenhagenize Index 2025: The Global Ranking of Bicycle-Friendly Cities](https://copenhagenizeindex.eu/)
 * [2025-11-29, 15:26:58](https://news.ycombinator.com/item?id=46088236) - [Major AI conference flooded with peer reviews written by AI](https://www.nature.com/articles/d41586-025-03506-6)
