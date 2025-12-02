@@ -81,6 +81,7 @@
 * [2025-11-26, 06:27:41](https://news.ycombinator.com/item?id=46054713) - [ICE Arrests the Press](https://petapixel.com/2025/11/24/photojournalist-arrested-covering-ice-protest-as-authorities-impound-his-camera-gear/)
 * [2025-11-26, 06:13:26](https://news.ycombinator.com/item?id=46054661) - [Comparing xeus-Haskell and ihaskell kernels](https://www.datahaskell.org/blog/2025/11/25/a-tale-of-two-kernels.html)
 * [2025-11-26, 05:33:49](https://news.ycombinator.com/item?id=46054471) - [Spleen Monospaced Bitmap Fonts](https://github.com/fcambus/spleen)
+* [2025-11-26, 05:00:50](https://news.ycombinator.com/item?id=46054338) - [Code Wiki: Accelerating your code understanding](https://developers.googleblog.com/en/introducing-code-wiki-accelerating-your-code-understanding/)
 * [2025-11-26, 04:15:57](https://news.ycombinator.com/item?id=46054142) - [Show HN: I engineered a 2mm micro-bearing D20 ring that free-spin for 20 seconds](https://news.ycombinator.com/item?id=46054142)
 * [2025-11-26, 03:05:29](https://news.ycombinator.com/item?id=46053787) - [The myth of reflected power (2017)](https://www.iz2uuf.net/wp/index.php/2017/07/29/the-myth-of-reflected-power/)
 * [2025-11-26, 02:31:41](https://news.ycombinator.com/item?id=46053566) - [Space Truckin' – The Nostromo (2012)](https://alienseries.wordpress.com/2012/10/23/space-truckin-the-nostromo/)
