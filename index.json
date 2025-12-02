@@ -5,7 +5,7 @@
       "https://news.ycombinator.com/item?id=46120181"
     ],
     [
-      "Addressing the adding situation – Matt Godbolt",
+      "Addressing the adding situation",
       "https://xania.org/202512/02-adding-integers"
     ]
   ],
@@ -127,16 +127,6 @@
     [
       "Notes on Bhutan",
       "https://apropos.substack.com/p/notes-on-bhutan"
-    ]
-  ],
-  [
-    [
-      "2025-12-02, 00:31:01",
-      "https://news.ycombinator.com/item?id=46115682"
-    ],
-    [
-      "Arcee Trinity Mini: US-Trained Moe Model",
-      "https://www.arcee.ai/blog/the-trinity-manifesto?src=hn"
     ]
   ],
   [
@@ -285,8 +275,18 @@
       "https://news.ycombinator.com/item?id=46066764"
     ],
     [
-      "URL in C Puzzle",
+      "URL in C (2011)",
       "https://susam.net/url-in-c.html"
+    ]
+  ],
+  [
+    [
+      "2025-11-27, 07:22:31",
+      "https://news.ycombinator.com/item?id=46066640"
+    ],
+    [
+      "An LED panel that shows the aviation around you",
+      "https://github.com/AxisNimble/TheFlightWall_OSS"
     ]
   ],
   [
@@ -295,7 +295,7 @@
       "https://news.ycombinator.com/item?id=46056022"
     ],
     [
-      "Invisible Details of Interaction Design",
+      "Invisible details of interaction design (2023)",
       "https://rauno.me/craft/interaction-design"
     ]
   ]
