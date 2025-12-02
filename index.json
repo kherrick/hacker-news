@@ -15,7 +15,7 @@
       "https://news.ycombinator.com/item?id=46124267"
     ],
     [
-      "Bun has been acquired by Anthropic",
+      "Anthropic acquires Bun",
       "https://bun.com/blog/bun-joins-anthropic"
     ]
   ],
@@ -37,6 +37,16 @@
     [
       "100000 TPS over a billion rows: the unreasonable effectiveness of SQLite",
       "https://andersmurphy.com/2025/12/02/100000-tps-over-a-billion-rows-the-unreasonable-effectiveness-of-sqlite.html"
+    ]
+  ],
+  [
+    [
+      "2025-12-02, 17:58:11",
+      "https://news.ycombinator.com/item?id=46124179"
+    ],
+    [
+      "School Cell Phone Bans and Student Achievement (NBER Digest)",
+      "https://www.nber.org/digest/202512/school-cell-phone-bans-and-student-achievement"
     ]
   ],
   [
@@ -81,16 +91,6 @@
   ],
   [
     [
-      "2025-12-02, 16:50:25",
-      "https://news.ycombinator.com/item?id=46123238"
-    ],
-    [
-      "Memtest86+ v8.00 Released",
-      "https://github.com/memtest86plus/memtest86plus/releases/tag/v8.00"
-    ]
-  ],
-  [
-    [
       "2025-12-02, 16:30:52",
       "https://news.ycombinator.com/item?id=46122957"
     ],
@@ -101,22 +101,22 @@
   ],
   [
     [
-      "2025-12-02, 15:07:49",
-      "https://news.ycombinator.com/item?id=46121951"
-    ],
-    [
-      "Show HN: RunMat – runtime with auto CPU/GPU routing for dense math",
-      "https://github.com/runmat-org/runmat"
-    ]
-  ],
-  [
-    [
       "2025-12-02, 15:01:53",
       "https://news.ycombinator.com/item?id=46121889"
     ],
     [
       "Mistral 3 family of models released",
       "https://mistral.ai/news/mistral-3"
+    ]
+  ],
+  [
+    [
+      "2025-12-02, 15:00:16",
+      "https://news.ycombinator.com/item?id=46121870"
+    ],
+    [
+      "OpenAI declares 'code red' as Google catches up in AI race",
+      "https://www.theverge.com/news/836212/openai-code-red-chatgpt"
     ]
   ],
   [
@@ -137,6 +137,26 @@
     [
       "Nixtml: Static website and blog generator written in Nix",
       "https://github.com/arnarg/nixtml"
+    ]
+  ],
+  [
+    [
+      "2025-12-02, 14:31:16",
+      "https://news.ycombinator.com/item?id=46121539"
+    ],
+    [
+      "Zig's new plan for asynchronous programs",
+      "https://lwn.net/SubscriberLink/1046084/4c048ee008e1c70e/"
+    ]
+  ],
+  [
+    [
+      "2025-12-02, 14:01:05",
+      "https://news.ycombinator.com/item?id=46121243"
+    ],
+    [
+      "Proximity to coworkers increases long-run development, lowers short-term output (2023)",
+      "https://pallais.scholars.harvard.edu/publications/power-proximity-coworkers-training-tomorrow-or-productivity-today"
     ]
   ],
   [
@@ -201,16 +221,6 @@
   ],
   [
     [
-      "2025-12-02, 07:46:47",
-      "https://news.ycombinator.com/item?id=46118722"
-    ],
-    [
-      "How Brian Eno Created Ambient 1: Music for Airports (2019)",
-      "https://reverbmachine.com/blog/deconstructing-brian-eno-music-for-airports/"
-    ]
-  ],
-  [
-    [
       "2025-12-02, 05:10:01",
       "https://news.ycombinator.com/item?id=46117802"
     ],
@@ -267,16 +277,6 @@
     [
       "Lowtype: Elegant Types in Ruby",
       "https://codeberg.org/Iow/type"
-    ]
-  ],
-  [
-    [
-      "2025-11-27, 07:22:31",
-      "https://news.ycombinator.com/item?id=46066640"
-    ],
-    [
-      "An LED panel that shows the aviation around you",
-      "https://github.com/AxisNimble/TheFlightWall_OSS"
     ]
   ],
   [
