@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-12-02, 07:46:47](https://news.ycombinator.com/item?id=46118722) - [How Brian Eno Created Ambient 1: Music for Airports (2019)](https://reverbmachine.com/blog/deconstructing-brian-eno-music-for-airports/)
 * [2025-12-02, 07:01:03](https://news.ycombinator.com/item?id=46118432) - [Rootless Pings in Rust](https://bou.ke/blog/rust-ping/)
 * [2025-12-02, 05:40:39](https://news.ycombinator.com/item?id=46117993) - [Why Replicate is joining Cloudflare](https://blog.cloudflare.com/why-replicate-joining-cloudflare/)
 * [2025-12-02, 05:27:18](https://news.ycombinator.com/item?id=46117900) - [Frequently Asked Unicycling Questions](https://vale.rocks/posts/unicycle-faq)
@@ -11,11 +12,9 @@
 * [2025-12-02, 00:31:01](https://news.ycombinator.com/item?id=46115682) - [Arcee Trinity Mini: US-Trained Moe Model](https://www.arcee.ai/blog/the-trinity-manifesto?src=hn)
 * [2025-12-01, 23:44:51](https://news.ycombinator.com/item?id=46115214) - [AI agents find $4.6M in blockchain smart contract exploits](https://red.anthropic.com/2025/smart-contracts/)
 * [2025-12-01, 22:20:33](https://news.ycombinator.com/item?id=46114122) - [John Giannandrea to retire from Apple](https://www.apple.com/newsroom/2025/12/john-giannandrea-to-retire-from-apple/)
-* [2025-12-01, 20:55:56](https://news.ycombinator.com/item?id=46113092) - [Instagram chief orders staff back to the office five days a week in 2026](https://www.businessinsider.com/instagram-chief-adam-mosseri-announces-five-day-office-return-2025-12)
 * [2025-12-01, 18:58:50](https://news.ycombinator.com/item?id=46111469) - [Why I stopped using JSON for my APIs](https://aloisdeniel.com/blog/better-than-json)
 * [2025-12-01, 18:17:02](https://news.ycombinator.com/item?id=46110842) - [Ghostty compiled to WASM with xterm.js API compatibility](https://github.com/coder/ghostty-web)
 * [2025-12-01, 16:01:26](https://news.ycombinator.com/item?id=46108941) - [Ask HN: Who is hiring? (December 2025)](https://news.ycombinator.com/item?id=46108941)
-* [2025-12-01, 16:01:26](https://news.ycombinator.com/item?id=46108940) - [Ask HN: Who wants to be hired? (December 2025)](https://news.ycombinator.com/item?id=46108940)
 * [2025-12-01, 15:48:03](https://news.ycombinator.com/item?id=46108780) - [DeepSeek-v3.2: Pushing the frontier of open large language models [pdf]](https://huggingface.co/deepseek-ai/DeepSeek-V3.2/resolve/main/assets/paper.pdf)
 * [2025-12-01, 15:28:49](https://news.ycombinator.com/item?id=46108563) - [Google unkills JPEG XL?](https://tonisagrista.com/blog/2025/google-unkills-jpegxl/)
 * [2025-12-01, 15:18:42](https://news.ycombinator.com/item?id=46108437) - [Google, Nvidia, and OpenAI](https://stratechery.com/2025/google-nvidia-and-openai/)
@@ -30,6 +29,7 @@
 * [2025-11-27, 18:39:11](https://news.ycombinator.com/item?id=46072016) - [Cloud-Init on Raspberry Pi OS](https://www.raspberrypi.com/news/cloud-init-on-raspberry-pi-os/)
 * [2025-11-27, 16:39:35](https://news.ycombinator.com/item?id=46070883) - [10 years of writing a blog nobody reads](https://flowtwo.io/post/on-10-years-of-writing-a-blog-nobody-reads)
 * [2025-11-27, 07:42:39](https://news.ycombinator.com/item?id=46066764) - [URL in C Puzzle](https://susam.net/url-in-c.html)
+* [2025-11-26, 06:43:58](https://news.ycombinator.com/item?id=46054787) - [Stride Game Engine 4.3 with .NET 10 Support](https://www.stride3d.net/blog/announcing-stride-4-3-in-dotnet-10/)
 
 ## [Archives](archives/index.md)
 

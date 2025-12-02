@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-12-02](index.md)
 
+* [2025-12-02, 07:46:47](https://news.ycombinator.com/item?id=46118722) - [How Brian Eno Created Ambient 1: Music for Airports (2019)](https://reverbmachine.com/blog/deconstructing-brian-eno-music-for-airports/)
 * [2025-12-02, 07:01:03](https://news.ycombinator.com/item?id=46118432) - [Rootless Pings in Rust](https://bou.ke/blog/rust-ping/)
 * [2025-12-02, 06:19:28](https://news.ycombinator.com/item?id=46118195) - [Beej's Guide to C Programming](https://beej.us/guide/bgc/)
 * [2025-12-02, 05:40:39](https://news.ycombinator.com/item?id=46117993) - [Why Replicate is joining Cloudflare](https://blog.cloudflare.com/why-replicate-joining-cloudflare/)
