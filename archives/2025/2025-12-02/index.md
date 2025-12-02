@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-12-02](index.md)
 
+* [2025-12-02, 09:51:42](https://news.ycombinator.com/item?id=46119500) - [Advent of Compiler Optimisations 2025](https://xania.org/202511/advent-of-compiler-optimisation)
+* [2025-12-02, 09:11:41](https://news.ycombinator.com/item?id=46119214) - [Comparing AWS Lambda ARM64 vs. x86_64 Performance Across Runtimes in Late 2025](https://chrisebert.net/comparing-aws-lambda-arm64-vs-x86_64-performance-across-multiple-runtimes-in-late-2025/)
 * [2025-12-02, 07:46:47](https://news.ycombinator.com/item?id=46118722) - [How Brian Eno Created Ambient 1: Music for Airports (2019)](https://reverbmachine.com/blog/deconstructing-brian-eno-music-for-airports/)
 * [2025-12-02, 07:01:03](https://news.ycombinator.com/item?id=46118432) - [Rootless Pings in Rust](https://bou.ke/blog/rust-ping/)
 * [2025-12-02, 06:19:28](https://news.ycombinator.com/item?id=46118195) - [Beej's Guide to C Programming](https://beej.us/guide/bgc/)
