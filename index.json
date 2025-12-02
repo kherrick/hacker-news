@@ -21,6 +21,16 @@
   ],
   [
     [
+      "2025-12-02, 12:37:47",
+      "https://news.ycombinator.com/item?id=46120603"
+    ],
+    [
+      "Lazier Binary Decision Diagrams for set-theoretic types",
+      "https://elixir-lang.org/blog/2025/12/02/lazier-bdds-for-set-theoretic-types/"
+    ]
+  ],
+  [
+    [
       "2025-12-02, 12:28:34",
       "https://news.ycombinator.com/item?id=46120549"
     ],
@@ -251,16 +261,6 @@
   ],
   [
     [
-      "2025-11-28, 17:36:11",
-      "https://news.ycombinator.com/item?id=46080790"
-    ],
-    [
-      "Forward compatibility and fault tolerance in TypeScript API Clients/SDKs",
-      "https://www.speakeasy.com/blog/typescript-forward-compatibility"
-    ]
-  ],
-  [
-    [
       "2025-11-27, 16:39:35",
       "https://news.ycombinator.com/item?id=46070883"
     ],
@@ -291,12 +291,12 @@
   ],
   [
     [
-      "2025-11-26, 10:24:56",
-      "https://news.ycombinator.com/item?id=46056022"
+      "2025-11-26, 00:09:19",
+      "https://news.ycombinator.com/item?id=46052478"
     ],
     [
-      "Invisible details of interaction design (2023)",
-      "https://rauno.me/craft/interaction-design"
+      "Learn to code music in the browser with strudel.cc (Free and open-source)",
+      "https://terryds.notion.site/Learning-Music-with-Strudel-2ac98431b24180deb890cc7de667ea92"
     ]
   ]
 ]
