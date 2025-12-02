@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-12-02](index.md)
 
+* [2025-12-02, 17:24:33](https://news.ycombinator.com/item?id=46123747) - [Apple to beat Samsung in smartphone shipments for first time in 14 years](https://sherwood.news/tech/apple-to-beat-samsung-in-smartphone-shipments-for-first-time-in-14-years/)
 * [2025-12-02, 17:06:24](https://news.ycombinator.com/item?id=46123469) - [API GitHub Meta](https://api.github.com/meta)
 * [2025-12-02, 17:00:12](https://news.ycombinator.com/item?id=46123374) - [Poka Labs (YC S24) Is Hiring a Founding Engineer](https://www.ycombinator.com/companies/poka-labs/jobs/RCQgmqB-founding-engineer)
 * [2025-12-02, 16:23:27](https://news.ycombinator.com/item?id=46122851) - [Peter Thiel's Apocalyptic Worldview Is a Dangerous Fantasy](https://jacobin.com/2025/11/peter-thiel-palantir-apocalypse-antichrist)
