@@ -24,12 +24,12 @@
 * [2025-11-30, 11:03:13](https://news.ycombinator.com/item?id=46095662) - [Beej's Guide to Learning Computer Science](https://beej.us/guide/bglcs/)
 * [2025-11-30, 04:09:41](https://news.ycombinator.com/item?id=46093613) - [YouTube increases FreeBASIC performance (2019)](https://freebasic.net/forum/viewtopic.php?t=27927)
 * [2025-11-29, 22:03:33](https://news.ycombinator.com/item?id=46091211) - [Tom Stoppard has died](https://www.bbc.com/news/articles/c74xe49q7vlo)
+* [2025-11-29, 05:02:06](https://news.ycombinator.com/item?id=46085279) - [Wacky Fun Physics Ideas](https://scottlocklin.wordpress.com/2025/11/22/wacky-fun-physics-ideas/)
 * [2025-11-28, 17:41:01](https://news.ycombinator.com/item?id=46080835) - [Codex, Opus, Gemini try to build Counter Strike](https://www.instantdb.com/essays/agents_building_counterstrike)
 * [2025-11-27, 23:47:07](https://news.ycombinator.com/item?id=46074222) - [Shrinking While Linking](https://www.tweag.io/blog/2025-11-27-shrinking-static-libs/)
 * [2025-11-27, 16:39:35](https://news.ycombinator.com/item?id=46070883) - [10 years of writing a blog nobody reads](https://flowtwo.io/post/on-10-years-of-writing-a-blog-nobody-reads)
 * [2025-11-27, 07:42:39](https://news.ycombinator.com/item?id=46066764) - [URL in C Puzzle](https://susam.net/url-in-c.html)
 * [2025-11-26, 10:24:56](https://news.ycombinator.com/item?id=46056022) - [Invisible Details of Interaction Design](https://rauno.me/craft/interaction-design)
-* [2025-11-26, 06:43:58](https://news.ycombinator.com/item?id=46054787) - [Stride Game Engine 4.3 with .NET 10 Support](https://www.stride3d.net/blog/announcing-stride-4-3-in-dotnet-10/)
 
 ## [Archives](archives/index.md)
 
