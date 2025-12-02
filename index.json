@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-12-02, 09:51:42",
+      "https://news.ycombinator.com/item?id=46119500"
+    ],
+    [
+      "Advent of Compiler Optimisations 2025",
+      "https://xania.org/202511/advent-of-compiler-optimisation"
+    ]
+  ],
+  [
+    [
+      "2025-12-02, 09:11:41",
+      "https://news.ycombinator.com/item?id=46119214"
+    ],
+    [
+      "Comparing AWS Lambda ARM64 vs. x86_64 Performance Across Runtimes in Late 2025",
+      "https://chrisebert.net/comparing-aws-lambda-arm64-vs-x86_64-performance-across-multiple-runtimes-in-late-2025/"
+    ]
+  ],
+  [
+    [
       "2025-12-02, 07:46:47",
       "https://news.ycombinator.com/item?id=46118722"
     ],
@@ -111,12 +131,12 @@
   ],
   [
     [
-      "2025-12-01, 20:55:56",
-      "https://news.ycombinator.com/item?id=46113092"
+      "2025-12-01, 18:58:50",
+      "https://news.ycombinator.com/item?id=46111469"
     ],
     [
-      "Instagram chief orders staff back to the office five days a week in 2026",
-      "https://www.businessinsider.com/instagram-chief-adam-mosseri-announces-five-day-office-return-2025-12"
+      "Why I stopped using JSON for my APIs",
+      "https://aloisdeniel.com/blog/better-than-json"
     ]
   ],
   [
@@ -221,16 +241,6 @@
   ],
   [
     [
-      "2025-11-29, 19:43:59",
-      "https://news.ycombinator.com/item?id=46090184"
-    ],
-    [
-      "Tested: 1981 Datsun 280ZX Turbo (1981)",
-      "https://www.caranddriver.com/reviews/a69529696/1981-datsun-280-zx-turbo-archive-test/"
-    ]
-  ],
-  [
-    [
       "2025-11-28, 17:41:01",
       "https://news.ycombinator.com/item?id=46080835"
     ],
@@ -247,16 +257,6 @@
     [
       "Shrinking While Linking",
       "https://www.tweag.io/blog/2025-11-27-shrinking-static-libs/"
-    ]
-  ],
-  [
-    [
-      "2025-11-27, 18:39:11",
-      "https://news.ycombinator.com/item?id=46072016"
-    ],
-    [
-      "Cloud-Init on Raspberry Pi OS",
-      "https://www.raspberrypi.com/news/cloud-init-on-raspberry-pi-os/"
     ]
   ],
   [
