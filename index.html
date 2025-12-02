@@ -141,11 +141,11 @@
             <h4>
               <span>2025-12-02 @ 19:05:54</span
               ><span class="points-container"
-                >Points: <span class="points">51</span></span
+                >Points: <span class="points">62</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46125184"
                   >Comments</a
-                ><span class="descendants">: 16</span></span
+                ><span class="descendants">: 20</span></span
               >
             </h4>
           </section>
@@ -162,13 +162,119 @@
             <h4>
               <span>2025-12-02 @ 19:04:31</span
               ><span class="points-container"
-                >Points: <span class="points">28</span></span
+                >Points: <span class="points">33</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46125155"
                   >Comments</a
-                ><span class="descendants">: 9</span></span
+                ><span class="descendants">: 10</span></span
               >
             </h4>
+          </section>
+        </section>
+        <section id="46124930">
+          <h3>
+            <a class="item" href="https://news.ycombinator.com/item?id=46124930"
+              >Microsoft won't let me pay a $24 bill, blocking thousands in
+              Azure spending</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2025-12-02 @ 18:50:25</span
+              ><span class="points-container"
+                >Points: <span class="points">40</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=46124930"
+                  >Comments</a
+                ><span class="descendants">: 23</span></span
+              >
+            </h4>
+            <div class="text">
+              <p>
+                I cannot pay this invoice. There is no button to pay it. There
+                is no button to dismiss it. There is no way to interact with it
+                at all.
+              </p>
+              <p>
+                Azure displays a banner: "You must pay all previous invoices
+                before creating new subscriptions." Fair enough. I would love to
+                pay it. Microsoft won't let me.
+              </p>
+              <p>So I tried to contact support.</p>
+              <p>
+                The Azure portal requires a "paid support plan" to create a
+                support ticket. To purchase a paid support plan, you must create
+                a subscription. To create a subscription, you must clear
+                outstanding invoices. To clear outstanding invoices, you must
+                contact support.
+              </p>
+              <p>
+                Azure on Twitter, as well as the website claims to have a "free
+                support ticket" option for billing issues, but every possible
+                link just drives you back to the same FAQ page while refusing to
+                let you submit a ticket.
+              </p>
+              <p>I called every number I could find:</p>
+              <p>
+                1-800-867-1389 rings busy indefinitely. 1-855-270-0615 connects
+                to an AI that asks what you need, tells you to visit the
+                website, and disconnects. 1-800-642-7676 connects to a different
+                AI that also tells you to visit the website. The website has a
+                chatbot that redirects you to FAQ articles regardless of what
+                you type. If you express frustration, it throws an error and
+                stops responding.
+              </p>
+              <p>
+                I submitted feedback through the Azure portal every few days for
+                weeks. No response.
+              </p>
+              <p>I am a software engineer, so I did something ridiculous.</p>
+              <p>
+                I wrote a PowerShell WinForms application that authenticates via
+                device code flow, queries the Az.Support API for problem
+                classifications, and calls New-AzSupportTicketsNoSubscription to
+                submit a billing support ticket directly, bypassing the portal
+                entirely.
+              </p>
+              <p>
+                Note the API name: NoSubscription. Microsoft has an explicit API
+                for ticketing without a subscription.
+              </p>
+              <p>
+                It worked. The ticket was submitted. I felt briefly victorious.
+              </p>
+              <p>
+                The API responded: "Your support plan type is Free. To create
+                and update support tickets, you need access to our high-tier
+                support plans."
+              </p>
+              <p>
+                I had built custom software specifically to work around
+                Microsoft's broken support infrastructure, and I still hit a
+                paywall.
+              </p>
+              <p>The total amount Microsoft is owed: $24.</p>
+              <p>
+                The total amount Microsoft is preventing me from spending on new
+                Azure services: thousands. I currently run numerous websites out
+                of my house, and it's getting to be enough that I want to
+                offload it to Azure VMs. Additionally, I was going to shift my
+                development to Azure boxes, etc.
+              </p>
+              <p>
+                I have exhausted every official channel. Every phone number,
+                every chatbot, every feedback form, every API endpoint. There is
+                no path to a human being without first paying for a support plan
+                that I cannot purchase because of the billing block that I need
+                support to resolve.
+              </p>
+              <p>
+                Has anyone successfully escaped a loop like this? Is there a
+                secret handshake I'm missing? Or is the only option to abandon
+                this Microsoft account entirely, get a new phone, and start
+                fresh?
+              </p>
+            </div>
           </section>
         </section>
         <section id="46124892">
@@ -183,7 +289,7 @@
             <h4>
               <span>2025-12-02 @ 18:47:53</span
               ><span class="points-container"
-                >Points: <span class="points">6</span></span
+                >Points: <span class="points">8</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46124892"
                   >Comments</a
@@ -205,11 +311,11 @@
             <h4>
               <span>2025-12-02 @ 18:10:23</span
               ><span class="points-container"
-                >Points: <span class="points">88</span></span
+                >Points: <span class="points">93</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46124324"
                   >Comments</a
-                ><span class="descendants">: 88</span></span
+                ><span class="descendants">: 102</span></span
               >
             </h4>
           </section>
@@ -224,11 +330,11 @@
             <h4>
               <span>2025-12-02 @ 18:05:44</span
               ><span class="points-container"
-                >Points: <span class="points">575</span></span
+                >Points: <span class="points">624</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46124267"
                   >Comments</a
-                ><span class="descendants">: 263</span></span
+                ><span class="descendants">: 285</span></span
               >
             </h4>
           </section>
@@ -245,11 +351,11 @@
             <h4>
               <span>2025-12-02 @ 18:04:23</span
               ><span class="points-container"
-                >Points: <span class="points">56</span></span
+                >Points: <span class="points">59</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46124258"
                   >Comments</a
-                ><span class="descendants">: 10</span></span
+                ><span class="descendants">: 11</span></span
               >
             </h4>
           </section>
@@ -267,11 +373,11 @@
             <h4>
               <span>2025-12-02 @ 17:59:53</span
               ><span class="points-container"
-                >Points: <span class="points">122</span></span
+                >Points: <span class="points">128</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46124205"
                   >Comments</a
-                ><span class="descendants">: 32</span></span
+                ><span class="descendants">: 34</span></span
               >
             </h4>
           </section>
@@ -288,11 +394,11 @@
             <h4>
               <span>2025-12-02 @ 17:58:11</span
               ><span class="points-container"
-                >Points: <span class="points">19</span></span
+                >Points: <span class="points">21</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46124179"
                   >Comments</a
-                ><span class="descendants">: 12</span></span
+                ><span class="descendants">: 13</span></span
               >
             </h4>
           </section>
@@ -309,32 +415,11 @@
             <h4>
               <span>2025-12-02 @ 17:48:33</span
               ><span class="points-container"
-                >Points: <span class="points">84</span></span
+                >Points: <span class="points">87</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46124063"
                   >Comments</a
-                ><span class="descendants">: 76</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="46123921">
-          <h3>
-            <a
-              class="item"
-              href="https://devblogs.microsoft.com/typescript/progress-on-typescript-7-december-2025/"
-              >Progress on TypeScript 7 – December 2025</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2025-12-02 @ 17:37:06</span
-              ><span class="points-container"
-                >Points: <span class="points">49</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=46123921"
-                  >Comments</a
-                ><span class="descendants">: 13</span></span
+                ><span class="descendants">: 83</span></span
               >
             </h4>
           </section>
@@ -369,7 +454,7 @@
             <h4>
               <span>2025-12-02 @ 16:30:52</span
               ><span class="points-container"
-                >Points: <span class="points">50</span></span
+                >Points: <span class="points">54</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46122957"
                   >Comments</a
@@ -388,11 +473,11 @@
             <h4>
               <span>2025-12-02 @ 15:01:53</span
               ><span class="points-container"
-                >Points: <span class="points">500</span></span
+                >Points: <span class="points">507</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46121889"
                   >Comments</a
-                ><span class="descendants">: 156</span></span
+                ><span class="descendants">: 157</span></span
               >
             </h4>
           </section>
@@ -409,11 +494,11 @@
             <h4>
               <span>2025-12-02 @ 15:00:16</span
               ><span class="points-container"
-                >Points: <span class="points">114</span></span
+                >Points: <span class="points">125</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46121870"
                   >Comments</a
-                ><span class="descendants">: 120</span></span
+                ><span class="descendants">: 137</span></span
               >
             </h4>
           </section>
@@ -429,7 +514,7 @@
             <h4>
               <span>2025-12-02 @ 14:59:40</span
               ><span class="points-container"
-                >Points: <span class="points">72</span></span
+                >Points: <span class="points">73</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46121860"
                   >Comments</a
@@ -452,7 +537,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46121799"
                   >Comments</a
-                ><span class="descendants">: 23</span></span
+                ><span class="descendants">: 24</span></span
               >
             </h4>
           </section>
@@ -469,7 +554,7 @@
             <h4>
               <span>2025-12-02 @ 14:31:16</span
               ><span class="points-container"
-                >Points: <span class="points">112</span></span
+                >Points: <span class="points">116</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46121539"
                   >Comments</a
@@ -491,7 +576,7 @@
             <h4>
               <span>2025-12-02 @ 14:01:05</span
               ><span class="points-container"
-                >Points: <span class="points">152</span></span
+                >Points: <span class="points">154</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46121243"
                   >Comments</a
@@ -512,7 +597,7 @@
             <h4>
               <span>2025-12-02 @ 12:38:28</span
               ><span class="points-container"
-                >Points: <span class="points">151</span></span
+                >Points: <span class="points">152</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46120611"
                   >Comments</a
@@ -552,11 +637,11 @@
             <h4>
               <span>2025-12-02 @ 11:30:29</span
               ><span class="points-container"
-                >Points: <span class="points">230</span></span
+                >Points: <span class="points">231</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46120181"
                   >Comments</a
-                ><span class="descendants">: 72</span></span
+                ><span class="descendants">: 73</span></span
               >
             </h4>
           </section>
@@ -577,29 +662,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46119500"
                   >Comments</a
-                ><span class="descendants">: 48</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="46119214">
-          <h3>
-            <a
-              class="item"
-              href="https://chrisebert.net/comparing-aws-lambda-arm64-vs-x86_64-performance-across-multiple-runtimes-in-late-2025/"
-              >Comparing AWS Lambda ARM64 vs. x86_64 Performance Across Runtimes
-              in Late 2025</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2025-12-02 @ 09:11:41</span
-              ><span class="points-container"
-                >Points: <span class="points">111</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=46119214"
-                  >Comments</a
-                ><span class="descendants">: 51</span></span
+                ><span class="descendants">: 49</span></span
               >
             </h4>
           </section>
@@ -614,11 +677,11 @@
             <h4>
               <span>2025-12-02 @ 05:10:01</span
               ><span class="points-container"
-                >Points: <span class="points">398</span></span
+                >Points: <span class="points">400</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46117802"
                   >Comments</a
-                ><span class="descendants">: 130</span></span
+                ><span class="descendants">: 133</span></span
               >
             </h4>
           </section>
@@ -639,7 +702,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46117112"
                   >Comments</a
-                ><span class="descendants">: 305</span></span
+                ><span class="descendants">: 306</span></span
               >
             </h4>
           </section>
@@ -655,11 +718,11 @@
             <h4>
               <span>2025-11-30 @ 06:56:33</span
               ><span class="points-container"
-                >Points: <span class="points">208</span></span
+                >Points: <span class="points">210</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46094460"
                   >Comments</a
-                ><span class="descendants">: 31</span></span
+                ><span class="descendants">: 32</span></span
               >
             </h4>
           </section>
@@ -695,11 +758,32 @@
             <h4>
               <span>2025-11-28 @ 16:50:32</span
               ><span class="points-container"
-                >Points: <span class="points">36</span></span
+                >Points: <span class="points">39</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46080307"
                   >Comments</a
-                ><span class="descendants">: 17</span></span
+                ><span class="descendants">: 18</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="46054338">
+          <h3>
+            <a
+              class="item"
+              href="https://developers.googleblog.com/en/introducing-code-wiki-accelerating-your-code-understanding/"
+              >Code Wiki: Accelerating your code understanding</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2025-11-26 @ 05:00:50</span
+              ><span class="points-container"
+                >Points: <span class="points">7</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=46054338"
+                  >Comments</a
+                ><span class="descendants">: 2</span></span
               >
             </h4>
           </section>
@@ -716,11 +800,11 @@
             <h4>
               <span>2025-11-26 @ 00:09:19</span
               ><span class="points-container"
-                >Points: <span class="points">281</span></span
+                >Points: <span class="points">285</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46052478"
                   >Comments</a
-                ><span class="descendants">: 67</span></span
+                ><span class="descendants">: 68</span></span
               >
             </h4>
           </section>
@@ -737,7 +821,7 @@
             <h4>
               <span>2025-11-25 @ 16:08:33</span
               ><span class="points-container"
-                >Points: <span class="points">107</span></span
+                >Points: <span class="points">108</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46047170"
                   >Comments</a
