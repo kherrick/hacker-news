@@ -12,7 +12,7 @@
 * [2025-12-02, 00:31:01](https://news.ycombinator.com/item?id=46115682) - [Arcee Trinity Mini: US-Trained Moe Model](https://www.arcee.ai/blog/the-trinity-manifesto?src=hn)
 * [2025-12-01, 23:44:51](https://news.ycombinator.com/item?id=46115214) - [AI agents find $4.6M in blockchain smart contract exploits](https://red.anthropic.com/2025/smart-contracts/)
 * [2025-12-01, 22:20:33](https://news.ycombinator.com/item?id=46114122) - [John Giannandrea to retire from Apple](https://www.apple.com/newsroom/2025/12/john-giannandrea-to-retire-from-apple/)
-* [2025-12-01, 18:58:50](https://news.ycombinator.com/item?id=46111469) - [Why I stopped using JSON for my APIs](https://aloisdeniel.com/blog/better-than-json)
+* [2025-12-01, 20:55:56](https://news.ycombinator.com/item?id=46113092) - [Instagram chief orders staff back to the office five days a week in 2026](https://www.businessinsider.com/instagram-chief-adam-mosseri-announces-five-day-office-return-2025-12)
 * [2025-12-01, 18:17:02](https://news.ycombinator.com/item?id=46110842) - [Ghostty compiled to WASM with xterm.js API compatibility](https://github.com/coder/ghostty-web)
 * [2025-12-01, 16:01:26](https://news.ycombinator.com/item?id=46108941) - [Ask HN: Who is hiring? (December 2025)](https://news.ycombinator.com/item?id=46108941)
 * [2025-12-01, 15:48:03](https://news.ycombinator.com/item?id=46108780) - [DeepSeek-v3.2: Pushing the frontier of open large language models [pdf]](https://huggingface.co/deepseek-ai/DeepSeek-V3.2/resolve/main/assets/paper.pdf)
