@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-12-02, 21:14:38](https://news.ycombinator.com/item?id=46126964) - [Ecosia: The greenest AI is here](https://blog.ecosia.org/ecosia-ai/)
 * [2025-12-02, 21:09:10](https://news.ycombinator.com/item?id=46126906) - [We're Committing $6.25B to Give 25M Children a Financial Head Start](https://www.onedell.com/investamerica/)
 * [2025-12-02, 21:00:59](https://news.ycombinator.com/item?id=46126822) - [Delty (YC X25) Is Hiring](https://www.ycombinator.com/companies/delty/jobs/aPWMaiq-full-stack-software-engineer)
 * [2025-12-02, 20:14:20](https://news.ycombinator.com/item?id=46126217) - [Paged Out](https://pagedout.institute)
@@ -22,9 +23,8 @@
 * [2025-12-02, 05:10:01](https://news.ycombinator.com/item?id=46117802) - [Apple Releases Open Weights Video Model](https://starflow-v.github.io)
 * [2025-12-02, 03:23:10](https://news.ycombinator.com/item?id=46117112) - [What will enter the public domain in 2026?](https://publicdomainreview.org/features/entering-the-public-domain/2026/)
 * [2025-12-01, 17:43:10](https://news.ycombinator.com/item?id=46110395) - [All about automotive lidar](https://mainstreetautonomy.com/blog/2025-08-29-all-about-automotive-lidar/)
-* [2025-11-30, 11:03:13](https://news.ycombinator.com/item?id=46095662) - [Beej's Guide to Learning Computer Science](https://beej.us/guide/bglcs/)
+* [2025-11-30, 07:27:25](https://news.ycombinator.com/item?id=46094606) - [Qwen3-VL can scan two-hour videos and pinpoint nearly every detail](https://the-decoder.com/qwen3-vl-can-scan-two-hour-videos-and-pinpoint-nearly-every-detail/)
 * [2025-11-30, 06:56:33](https://news.ycombinator.com/item?id=46094460) - [I designed and printed a custom nose guard to help my dog with DLE](https://snoutcover.com/billie-story)
-* [2025-11-30, 04:09:41](https://news.ycombinator.com/item?id=46093613) - [YouTube increases FreeBASIC performance (2019)](https://freebasic.net/forum/viewtopic.php?t=27927)
 * [2025-11-28, 16:50:32](https://news.ycombinator.com/item?id=46080307) - [Lowtype: Elegant Types in Ruby](https://codeberg.org/Iow/type)
 * [2025-11-26, 14:53:52](https://news.ycombinator.com/item?id=46057932) - [Solving the Partridge Packing Problem Using MiniZinc](https://zayenz.se/blog/post/partridge-packing/)
 * [2025-11-26, 05:00:50](https://news.ycombinator.com/item?id=46054338) - [Code Wiki: Accelerating your code understanding](https://developers.googleblog.com/en/introducing-code-wiki-accelerating-your-code-understanding/)
