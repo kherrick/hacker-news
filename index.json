@@ -121,16 +121,6 @@
   ],
   [
     [
-      "2025-12-02, 02:12:14",
-      "https://news.ycombinator.com/item?id=46116567"
-    ],
-    [
-      "After Windows Update, Password icon invisible, click where it used to be",
-      "https://support.microsoft.com/en-us/topic/august-29-2025-kb5064081-os-build-26100-5074-preview-3f9eb9e1-72ca-4b42-af97-39aace788d93"
-    ]
-  ],
-  [
-    [
       "2025-12-01, 18:17:02",
       "https://news.ycombinator.com/item?id=46110842"
     ],
@@ -247,6 +237,16 @@
     [
       "Codex, Opus, Gemini try to build Counter Strike",
       "https://www.instantdb.com/essays/agents_building_counterstrike"
+    ]
+  ],
+  [
+    [
+      "2025-11-28, 17:36:11",
+      "https://news.ycombinator.com/item?id=46080790"
+    ],
+    [
+      "Forward compatibility and fault tolerance in TypeScript API Clients/SDKs",
+      "https://www.speakeasy.com/blog/typescript-forward-compatibility"
     ]
   ],
   [
