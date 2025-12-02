@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-12-02, 15:01:53",
+      "https://news.ycombinator.com/item?id=46121889"
+    ],
+    [
+      "Mistral 3 family of models released",
+      "https://mistral.ai/news/mistral-3"
+    ]
+  ],
+  [
+    [
+      "2025-12-02, 14:59:40",
+      "https://news.ycombinator.com/item?id=46121860"
+    ],
+    [
+      "Show HN: Marmot – Single-binary data catalog (no Kafka, no Elasticsearch)",
+      "https://github.com/marmotdata/marmot"
+    ]
+  ],
+  [
+    [
       "2025-12-02, 14:31:16",
       "https://news.ycombinator.com/item?id=46121539"
     ],
@@ -111,22 +131,22 @@
   ],
   [
     [
-      "2025-12-02, 05:40:39",
-      "https://news.ycombinator.com/item?id=46117993"
-    ],
-    [
-      "Why Replicate is joining Cloudflare",
-      "https://blog.cloudflare.com/why-replicate-joining-cloudflare/"
-    ]
-  ],
-  [
-    [
       "2025-12-02, 05:10:01",
       "https://news.ycombinator.com/item?id=46117802"
     ],
     [
       "Apple Releases Open Weights Video Model",
       "https://starflow-v.github.io"
+    ]
+  ],
+  [
+    [
+      "2025-12-02, 03:24:44",
+      "https://news.ycombinator.com/item?id=46117126"
+    ],
+    [
+      "Decreasing Certificate Lifetimes to 45 Days",
+      "https://letsencrypt.org/2025/12/02/from-90-to-45.html"
     ]
   ],
   [
@@ -147,6 +167,16 @@
     [
       "Reverse math shows why hard problems are hard",
       "https://www.quantamagazine.org/reverse-mathematics-illuminates-why-hard-problems-are-hard-20251201/"
+    ]
+  ],
+  [
+    [
+      "2025-12-02, 02:12:14",
+      "https://news.ycombinator.com/item?id=46116567"
+    ],
+    [
+      "After Windows Update, Password icon invisible, click where it used to be",
+      "https://support.microsoft.com/en-us/topic/august-29-2025-kb5064081-os-build-26100-5074-preview-3f9eb9e1-72ca-4b42-af97-39aace788d93"
     ]
   ],
   [
@@ -177,26 +207,6 @@
     [
       "DeepSeek-v3.2: Pushing the frontier of open large language models [pdf]",
       "https://huggingface.co/deepseek-ai/DeepSeek-V3.2/resolve/main/assets/paper.pdf"
-    ]
-  ],
-  [
-    [
-      "2025-12-01, 15:18:42",
-      "https://news.ycombinator.com/item?id=46108437"
-    ],
-    [
-      "Google, Nvidia, and OpenAI",
-      "https://stratechery.com/2025/google-nvidia-and-openai/"
-    ]
-  ],
-  [
-    [
-      "2025-12-01, 13:41:15",
-      "https://news.ycombinator.com/item?id=46107282"
-    ],
-    [
-      "Cartographers have been hiding illustrations inside Switzerland’s maps (2020)",
-      "https://eyeondesign.aiga.org/for-decades-cartographers-have-been-hiding-covert-illustrations-inside-of-switzerlands-official-maps/"
     ]
   ],
   [
@@ -261,16 +271,6 @@
   ],
   [
     [
-      "2025-11-27, 16:39:35",
-      "https://news.ycombinator.com/item?id=46070883"
-    ],
-    [
-      "10 years of writing a blog nobody reads",
-      "https://flowtwo.io/post/on-10-years-of-writing-a-blog-nobody-reads"
-    ]
-  ],
-  [
-    [
       "2025-11-27, 07:42:39",
       "https://news.ycombinator.com/item?id=46066764"
     ],
@@ -295,7 +295,7 @@
       "https://news.ycombinator.com/item?id=46052478"
     ],
     [
-      "Learn to code music in the browser with strudel.cc (Free and open-source)",
+      "Learning Music with Strudel",
       "https://terryds.notion.site/Learning-Music-with-Strudel-2ac98431b24180deb890cc7de667ea92"
     ]
   ]
