@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-12-02, 06:19:28](https://news.ycombinator.com/item?id=46118195) - [Beej's Guide to C Programming](https://beej.us/guide/bgc/)
 * [2025-12-02, 05:27:18](https://news.ycombinator.com/item?id=46117900) - [Frequently Asked Unicycling Questions](https://vale.rocks/posts/unicycle-faq)
 * [2025-12-02, 03:47:11](https://news.ycombinator.com/item?id=46117280) - [Beej's Guide to Learning Computer Science](https://beej.us/guide/bglcs/html/split/)
 * [2025-12-02, 03:24:44](https://news.ycombinator.com/item?id=46117126) - [Decreasing Certificate Lifetimes to 45 Days](https://letsencrypt.org/2025/12/02/from-90-to-45.html)
@@ -22,6 +21,7 @@
 * [2025-12-01, 15:18:42](https://news.ycombinator.com/item?id=46108437) - [Google, Nvidia, and OpenAI](https://stratechery.com/2025/google-nvidia-and-openai/)
 * [2025-12-01, 14:13:06](https://news.ycombinator.com/item?id=46107658) - [The Penicillin Myth](https://www.asimov.press/p/penicillin-myth)
 * [2025-12-01, 13:41:15](https://news.ycombinator.com/item?id=46107282) - [Cartographers have been hiding illustrations inside Switzerland’s maps (2020)](https://eyeondesign.aiga.org/for-decades-cartographers-have-been-hiding-covert-illustrations-inside-of-switzerlands-official-maps/)
+* [2025-12-01, 13:31:58](https://news.ycombinator.com/item?id=46107177) - [A vector graphics workstation from the 70s](https://justanotherelectronicsblog.com/?p=1429)
 * [2025-12-01, 06:30:14](https://news.ycombinator.com/item?id=46104193) - [India orders smartphone makers to preload state-owned cyber safety app](https://www.reuters.com/sustainability/boards-policy-regulation/india-orders-mobile-phones-preloaded-with-government-app-ensure-cyber-safety-2025-12-01/)
 * [2025-11-30, 00:48:53](https://news.ycombinator.com/item?id=46092387) - [A Bus Ride and the (At Least) 3x UX FAILs](https://bsdly.blogspot.com/2025/11/a-bus-ride-and-at-least-3x-ux-fails.html)
 * [2025-11-29, 22:03:33](https://news.ycombinator.com/item?id=46091211) - [Tom Stoppard has died](https://www.bbc.com/news/articles/c74xe49q7vlo)
