@@ -4,9 +4,17 @@
 
 ### [Archives](../../index.md) for [2025-12-02](index.md)
 
+* [2025-12-02, 18:10:23](https://news.ycombinator.com/item?id=46124324) - [IBM CEO says there is 'no way' spending on AI data centers will pay off](https://www.businessinsider.com/ibm-ceo-big-tech-ai-capex-data-center-spending-2025-12)
+* [2025-12-02, 18:05:44](https://news.ycombinator.com/item?id=46124267) - [Bun has been acquired by Anthropic](https://bun.com/blog/bun-joins-anthropic)
+* [2025-12-02, 18:04:23](https://news.ycombinator.com/item?id=46124258) - [Anthropic Acquires Bun](https://www.anthropic.com/news/anthropic-acquires-bun-as-claude-code-reaches-usd1b-milestone)
+* [2025-12-02, 17:59:53](https://news.ycombinator.com/item?id=46124205) - [100000 TPS over a billion rows: the unreasonable effectiveness of SQLite](https://andersmurphy.com/2025/12/02/100000-tps-over-a-billion-rows-the-unreasonable-effectiveness-of-sqlite.html)
+* [2025-12-02, 17:48:33](https://news.ycombinator.com/item?id=46124063) - [The Junior Hiring Crisis](https://people-work.io/blog/junior-hiring-crisis/)
+* [2025-12-02, 17:37:06](https://news.ycombinator.com/item?id=46123921) - [Progress on TypeScript 7 – December 2025](https://devblogs.microsoft.com/typescript/progress-on-typescript-7-december-2025/)
 * [2025-12-02, 17:24:33](https://news.ycombinator.com/item?id=46123747) - [Apple to beat Samsung in smartphone shipments for first time in 14 years](https://sherwood.news/tech/apple-to-beat-samsung-in-smartphone-shipments-for-first-time-in-14-years/)
 * [2025-12-02, 17:06:24](https://news.ycombinator.com/item?id=46123469) - [API GitHub Meta](https://api.github.com/meta)
 * [2025-12-02, 17:00:12](https://news.ycombinator.com/item?id=46123374) - [Poka Labs (YC S24) Is Hiring a Founding Engineer](https://www.ycombinator.com/companies/poka-labs/jobs/RCQgmqB-founding-engineer)
+* [2025-12-02, 16:50:25](https://news.ycombinator.com/item?id=46123238) - [Memtest86+ v8.00 Released](https://github.com/memtest86plus/memtest86plus/releases/tag/v8.00)
+* [2025-12-02, 16:30:52](https://news.ycombinator.com/item?id=46122957) - [4.3M Browsers Infected: Inside ShadyPanda's 7-Year Malware Campaign](https://www.koi.ai/blog/4-million-browsers-infected-inside-shadypanda-7-year-malware-campaign)
 * [2025-12-02, 16:23:27](https://news.ycombinator.com/item?id=46122851) - [Peter Thiel's Apocalyptic Worldview Is a Dangerous Fantasy](https://jacobin.com/2025/11/peter-thiel-palantir-apocalypse-antichrist)
 * [2025-12-02, 15:56:39](https://news.ycombinator.com/item?id=46122518) - [Fallout 2's Chris Avellone describes his game design philosophy](https://arstechnica.com/gaming/2025/12/fallout-2-designer-chris-avellone-recalls-his-first-forays-into-game-development/)
 * [2025-12-02, 15:20:11](https://news.ycombinator.com/item?id=46122071) - [Is 2026 Next Year?](https://www.google.com/search?q=is+2026+next+year&oq=is+2026+next+year)
