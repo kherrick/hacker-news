@@ -38,6 +38,7 @@
 * [2025-11-26, 16:46:05](https://news.ycombinator.com/item?id=46059386) - [Drawing with Chaos](https://yberreby.com/posts/strangedraw/)
 * [2025-11-26, 16:34:58](https://news.ycombinator.com/item?id=46059227) - [Cloudflare outage should not have happened](https://ebellani.github.io/blog/2025/cloudflare-outage-should-not-have-happened-and-they-seem-to-be-missing-the-point-on-how-to-avoid-it-in-the-future/)
 * [2025-11-26, 16:24:29](https://news.ycombinator.com/item?id=46059069) - [Slop Detective – Fight the Slop Syndicate](https://slopdetective.kagi.com/)
+* [2025-11-26, 16:17:39](https://news.ycombinator.com/item?id=46058980) - [Myths of Fleming's Penicillin Discovery](https://press.asimov.com/articles/penicillin-myth)
 * [2025-11-26, 16:12:51](https://news.ycombinator.com/item?id=46058912) - [Slashdot Effect](https://en.wikipedia.org/wiki/Slashdot_effect)
 * [2025-11-26, 15:55:48](https://news.ycombinator.com/item?id=46058670) - [Stop Hacklore (modern urban legends about digital safety)](https://www.hacklore.org/letter)
 * [2025-11-26, 15:49:11](https://news.ycombinator.com/item?id=46058600) - [From blood sugar to brain relief: GLP-1 therapy slashes migraine frequency](https://www.medlink.com/news/from-blood-sugar-to-brain-relief-glp-1-therapy-slashes-migraine-frequency)

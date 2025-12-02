@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2025-12-01](index.md)
 
+* [2025-12-01, 23:44:51](https://news.ycombinator.com/item?id=46115214) - [Anthropic: AI agents find $4.6M in blockchain smart contract exploits](https://red.anthropic.com/2025/smart-contracts/)
 * [2025-12-01, 22:56:16](https://news.ycombinator.com/item?id=46114599) - [Losing Confidence](https://eclecticlight.co/2025/11/30/last-week-on-my-mac-losing-confidence/)
 * [2025-12-01, 22:22:56](https://news.ycombinator.com/item?id=46114144) - [Apple AI Chief Retiring After Siri Failure](https://www.macrumors.com/2025/12/01/apple-ai-chief-retiring-after-siri-failure/)
+* [2025-12-01, 22:20:33](https://news.ycombinator.com/item?id=46114122) - [John Giannandrea to Retire from Apple](https://www.apple.com/newsroom/2025/12/john-giannandrea-to-retire-from-apple/)
 * [2025-12-01, 21:44:34](https://news.ycombinator.com/item?id=46113689) - [Why Am I Paying $40k for the Birth of My Child?](https://aaronstannard.com/40k-baby/)
 * [2025-12-01, 21:44:07](https://news.ycombinator.com/item?id=46113682) - [Mozilla's Latest Quagmire](https://rubenerd.com/mozillas-latest-quagmire/)
 * [2025-12-01, 21:20:28](https://news.ycombinator.com/item?id=46113387) - [Pose-free 3D Gaussian splatting via shape-ray estimation](https://arxiv.org/abs/2505.22978)
