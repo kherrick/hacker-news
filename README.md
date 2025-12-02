@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-12-02, 12:28:34](https://news.ycombinator.com/item?id=46120549) - [A series of vignettes from my childhood and early career](https://www.jasonscheirer.com/weblog/vignettes/)
 * [2025-12-02, 11:30:29](https://news.ycombinator.com/item?id=46120181) - [Addressing the adding situation](https://xania.org/202512/02-adding-integers)
 * [2025-12-02, 10:20:34](https://news.ycombinator.com/item?id=46119699) - [Man unexpectedly cured of HIV after stem cell transplant](https://www.newscientist.com/article/2506595-man-unexpectedly-cured-of-hiv-after-stem-cell-transplant/)
 * [2025-12-02, 09:51:42](https://news.ycombinator.com/item?id=46119500) - [Advent of Compiler Optimisations 2025](https://xania.org/202511/advent-of-compiler-optimisation)
@@ -12,7 +13,6 @@
 * [2025-12-02, 03:23:10](https://news.ycombinator.com/item?id=46117112) - [What will enter the public domain in 2026?](https://publicdomainreview.org/features/entering-the-public-domain/2026/)
 * [2025-12-02, 02:35:47](https://news.ycombinator.com/item?id=46116724) - [Reverse math shows why hard problems are hard](https://www.quantamagazine.org/reverse-mathematics-illuminates-why-hard-problems-are-hard-20251201/)
 * [2025-12-02, 02:12:14](https://news.ycombinator.com/item?id=46116567) - [After Windows Update, Password icon invisible, click where it used to be](https://support.microsoft.com/en-us/topic/august-29-2025-kb5064081-os-build-26100-5074-preview-3f9eb9e1-72ca-4b42-af97-39aace788d93)
-* [2025-12-02, 01:30:15](https://news.ycombinator.com/item?id=46116179) - [Notes on Bhutan](https://apropos.substack.com/p/notes-on-bhutan)
 * [2025-12-01, 18:17:02](https://news.ycombinator.com/item?id=46110842) - [Ghostty compiled to WASM with xterm.js API compatibility](https://github.com/coder/ghostty-web)
 * [2025-12-01, 16:01:26](https://news.ycombinator.com/item?id=46108941) - [Ask HN: Who is hiring? (December 2025)](https://news.ycombinator.com/item?id=46108941)
 * [2025-12-01, 15:48:03](https://news.ycombinator.com/item?id=46108780) - [DeepSeek-v3.2: Pushing the frontier of open large language models [pdf]](https://huggingface.co/deepseek-ai/DeepSeek-V3.2/resolve/main/assets/paper.pdf)
