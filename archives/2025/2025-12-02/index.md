@@ -6,6 +6,7 @@
 
 * [2025-12-02, 06:19:28](https://news.ycombinator.com/item?id=46118195) - [Beej's Guide to C Programming](https://beej.us/guide/bgc/)
 * [2025-12-02, 05:27:18](https://news.ycombinator.com/item?id=46117900) - [Frequently Asked Unicycling Questions](https://vale.rocks/posts/unicycle-faq)
+* [2025-12-02, 05:10:01](https://news.ycombinator.com/item?id=46117802) - [Apple Releases Open Weights Video Model](https://starflow-v.github.io)
 * [2025-12-02, 03:47:11](https://news.ycombinator.com/item?id=46117280) - [Beej's Guide to Learning Computer Science](https://beej.us/guide/bglcs/html/split/)
 * [2025-12-02, 03:24:44](https://news.ycombinator.com/item?id=46117126) - [Decreasing Certificate Lifetimes to 45 Days](https://letsencrypt.org/2025/12/02/from-90-to-45.html)
 * [2025-12-02, 03:23:10](https://news.ycombinator.com/item?id=46117112) - [What Will Enter the Public Domain in 2026?](https://publicdomainreview.org/features/entering-the-public-domain/2026/)

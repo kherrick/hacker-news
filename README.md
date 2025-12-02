@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-12-02, 05:27:18](https://news.ycombinator.com/item?id=46117900) - [Frequently Asked Unicycling Questions](https://vale.rocks/posts/unicycle-faq)
-* [2025-12-02, 03:47:11](https://news.ycombinator.com/item?id=46117280) - [Beej's Guide to Learning Computer Science](https://beej.us/guide/bglcs/html/split/)
+* [2025-12-02, 05:10:01](https://news.ycombinator.com/item?id=46117802) - [Apple Releases Open Weights Video Model](https://starflow-v.github.io)
 * [2025-12-02, 03:24:44](https://news.ycombinator.com/item?id=46117126) - [Decreasing Certificate Lifetimes to 45 Days](https://letsencrypt.org/2025/12/02/from-90-to-45.html)
 * [2025-12-02, 03:23:10](https://news.ycombinator.com/item?id=46117112) - [What will enter the public domain in 2026?](https://publicdomainreview.org/features/entering-the-public-domain/2026/)
 * [2025-12-02, 02:35:47](https://news.ycombinator.com/item?id=46116724) - [Reverse math shows why hard problems are hard](https://www.quantamagazine.org/reverse-mathematics-illuminates-why-hard-problems-are-hard-20251201/)
@@ -21,15 +21,15 @@
 * [2025-12-01, 15:18:42](https://news.ycombinator.com/item?id=46108437) - [Google, Nvidia, and OpenAI](https://stratechery.com/2025/google-nvidia-and-openai/)
 * [2025-12-01, 14:13:06](https://news.ycombinator.com/item?id=46107658) - [The Penicillin Myth](https://www.asimov.press/p/penicillin-myth)
 * [2025-12-01, 13:41:15](https://news.ycombinator.com/item?id=46107282) - [Cartographers have been hiding illustrations inside Switzerland’s maps (2020)](https://eyeondesign.aiga.org/for-decades-cartographers-have-been-hiding-covert-illustrations-inside-of-switzerlands-official-maps/)
-* [2025-12-01, 13:31:58](https://news.ycombinator.com/item?id=46107177) - [A vector graphics workstation from the 70s](https://justanotherelectronicsblog.com/?p=1429)
 * [2025-12-01, 06:30:14](https://news.ycombinator.com/item?id=46104193) - [India orders smartphone makers to preload state-owned cyber safety app](https://www.reuters.com/sustainability/boards-policy-regulation/india-orders-mobile-phones-preloaded-with-government-app-ensure-cyber-safety-2025-12-01/)
-* [2025-11-30, 00:48:53](https://news.ycombinator.com/item?id=46092387) - [A Bus Ride and the (At Least) 3x UX FAILs](https://bsdly.blogspot.com/2025/11/a-bus-ride-and-at-least-3x-ux-fails.html)
+* [2025-11-30, 11:03:13](https://news.ycombinator.com/item?id=46095662) - [Beej's Guide to Learning Computer Science](https://beej.us/guide/bglcs/)
 * [2025-11-29, 22:03:33](https://news.ycombinator.com/item?id=46091211) - [Tom Stoppard has died](https://www.bbc.com/news/articles/c74xe49q7vlo)
 * [2025-11-29, 19:43:59](https://news.ycombinator.com/item?id=46090184) - [Tested: 1981 Datsun 280ZX Turbo (1981)](https://www.caranddriver.com/reviews/a69529696/1981-datsun-280-zx-turbo-archive-test/)
 * [2025-11-28, 17:41:01](https://news.ycombinator.com/item?id=46080835) - [Codex, Opus, Gemini try to build Counter Strike](https://www.instantdb.com/essays/agents_building_counterstrike)
-* [2025-11-28, 15:46:01](https://news.ycombinator.com/item?id=46079629) - [Dark Corners of Unicode (2015)](https://eev.ee/blog/2015/09/12/dark-corners-of-unicode/)
 * [2025-11-27, 23:47:07](https://news.ycombinator.com/item?id=46074222) - [Shrinking While Linking](https://www.tweag.io/blog/2025-11-27-shrinking-static-libs/)
+* [2025-11-27, 18:39:11](https://news.ycombinator.com/item?id=46072016) - [Cloud-Init on Raspberry Pi OS](https://www.raspberrypi.com/news/cloud-init-on-raspberry-pi-os/)
 * [2025-11-27, 16:39:35](https://news.ycombinator.com/item?id=46070883) - [10 years of writing a blog nobody reads](https://flowtwo.io/post/on-10-years-of-writing-a-blog-nobody-reads)
+* [2025-11-27, 07:42:39](https://news.ycombinator.com/item?id=46066764) - [URL in C Puzzle](https://susam.net/url-in-c.html)
 
 ## [Archives](archives/index.md)
 
