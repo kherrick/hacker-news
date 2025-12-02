@@ -1,12 +1,12 @@
 [
   [
     [
-      "2025-12-02, 17:06:24",
-      "https://news.ycombinator.com/item?id=46123469"
+      "2025-12-02, 17:24:33",
+      "https://news.ycombinator.com/item?id=46123747"
     ],
     [
-      "API GitHub Meta",
-      "https://api.github.com/meta"
+      "Apple to beat Samsung in smartphone shipments for first time in 14 years",
+      "https://sherwood.news/tech/apple-to-beat-samsung-in-smartphone-shipments-for-first-time-in-14-years/"
     ]
   ],
   [
@@ -67,16 +67,6 @@
     [
       "Nixtml: Static website and blog generator written in Nix",
       "https://github.com/arnarg/nixtml"
-    ]
-  ],
-  [
-    [
-      "2025-12-02, 14:31:16",
-      "https://news.ycombinator.com/item?id=46121539"
-    ],
-    [
-      "Zig's new plan for asynchronous programs",
-      "https://lwn.net/SubscriberLink/1046084/4c048ee008e1c70e/"
     ]
   ],
   [
@@ -267,6 +257,16 @@
     [
       "Tom Stoppard has died",
       "https://www.bbc.com/news/articles/c74xe49q7vlo"
+    ]
+  ],
+  [
+    [
+      "2025-11-28, 16:50:32",
+      "https://news.ycombinator.com/item?id=46080307"
+    ],
+    [
+      "Lowtype: Elegant Types in Ruby",
+      "https://codeberg.org/Iow/type"
     ]
   ],
   [
