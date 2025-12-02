@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-12-02](index.md)
 
+* [2025-12-02, 07:01:03](https://news.ycombinator.com/item?id=46118432) - [Rootless Pings in Rust](https://bou.ke/blog/rust-ping/)
 * [2025-12-02, 06:19:28](https://news.ycombinator.com/item?id=46118195) - [Beej's Guide to C Programming](https://beej.us/guide/bgc/)
+* [2025-12-02, 05:40:39](https://news.ycombinator.com/item?id=46117993) - [Why Replicate is joining Cloudflare](https://blog.cloudflare.com/why-replicate-joining-cloudflare/)
 * [2025-12-02, 05:27:18](https://news.ycombinator.com/item?id=46117900) - [Frequently Asked Unicycling Questions](https://vale.rocks/posts/unicycle-faq)
 * [2025-12-02, 05:10:01](https://news.ycombinator.com/item?id=46117802) - [Apple Releases Open Weights Video Model](https://starflow-v.github.io)
 * [2025-12-02, 03:47:11](https://news.ycombinator.com/item?id=46117280) - [Beej's Guide to Learning Computer Science](https://beej.us/guide/bglcs/html/split/)
