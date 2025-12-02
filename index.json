@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-12-02, 12:54:56",
+      "https://news.ycombinator.com/item?id=46120728"
+    ],
+    [
+      "Gary Tan claims Zoho will be out of business due to vibe coding",
+      "https://twitter.com/garrytan/status/1995664097007091818"
+    ]
+  ],
+  [
+    [
+      "2025-12-02, 12:38:28",
+      "https://news.ycombinator.com/item?id=46120611"
+    ],
+    [
+      "Python Data Science Handbook",
+      "https://jakevdp.github.io/PythonDataScienceHandbook/"
+    ]
+  ],
+  [
+    [
       "2025-12-02, 12:28:34",
       "https://news.ycombinator.com/item?id=46120549"
     ],
@@ -77,16 +97,6 @@
     [
       "Why Replicate is joining Cloudflare",
       "https://blog.cloudflare.com/why-replicate-joining-cloudflare/"
-    ]
-  ],
-  [
-    [
-      "2025-12-02, 05:27:18",
-      "https://news.ycombinator.com/item?id=46117900"
-    ],
-    [
-      "Frequently Asked Unicycling Questions",
-      "https://vale.rocks/posts/unicycle-faq"
     ]
   ],
   [
@@ -247,16 +257,6 @@
     [
       "Forward compatibility and fault tolerance in TypeScript API Clients/SDKs",
       "https://www.speakeasy.com/blog/typescript-forward-compatibility"
-    ]
-  ],
-  [
-    [
-      "2025-11-27, 23:47:07",
-      "https://news.ycombinator.com/item?id=46074222"
-    ],
-    [
-      "Shrinking While Linking",
-      "https://www.tweag.io/blog/2025-11-27-shrinking-static-libs/"
     ]
   ],
   [
