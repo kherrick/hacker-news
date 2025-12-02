@@ -1,11 +1,21 @@
 [
   [
     [
+      "2025-12-02, 03:47:11",
+      "https://news.ycombinator.com/item?id=46117280"
+    ],
+    [
+      "Beej's Guide to Learning Computer Science",
+      "https://beej.us/guide/bglcs/html/split/"
+    ]
+  ],
+  [
+    [
       "2025-12-02, 03:23:10",
       "https://news.ycombinator.com/item?id=46117112"
     ],
     [
-      "What Will Enter the Public Domain in 2026?",
+      "What will enter the public domain in 2026?",
       "https://publicdomainreview.org/features/entering-the-public-domain/2026/"
     ]
   ],
@@ -221,32 +231,22 @@
   ],
   [
     [
-      "2025-12-01, 12:22:35",
-      "https://news.ycombinator.com/item?id=46106556"
-    ],
-    [
-      "Why xor eax, eax?",
-      "https://xania.org/202512/01-xor-eax-eax"
-    ]
-  ],
-  [
-    [
-      "2025-12-01, 11:26:39",
-      "https://news.ycombinator.com/item?id=46106132"
-    ],
-    [
-      "Self-hosting a Matrix server for 5 years",
-      "https://yaky.dev/2025-11-30-self-hosting-matrix/"
-    ]
-  ],
-  [
-    [
       "2025-12-01, 06:30:14",
       "https://news.ycombinator.com/item?id=46104193"
     ],
     [
       "India orders smartphone makers to preload state-owned cyber safety app",
       "https://www.reuters.com/sustainability/boards-policy-regulation/india-orders-mobile-phones-preloaded-with-government-app-ensure-cyber-safety-2025-12-01/"
+    ]
+  ],
+  [
+    [
+      "2025-11-29, 22:03:33",
+      "https://news.ycombinator.com/item?id=46091211"
+    ],
+    [
+      "Tom Stoppard has died",
+      "https://www.bbc.com/news/articles/c74xe49q7vlo"
     ]
   ],
   [
@@ -271,6 +271,16 @@
   ],
   [
     [
+      "2025-11-28, 15:46:01",
+      "https://news.ycombinator.com/item?id=46079629"
+    ],
+    [
+      "Dark Corners of Unicode (2015)",
+      "https://eev.ee/blog/2015/09/12/dark-corners-of-unicode/"
+    ]
+  ],
+  [
+    [
       "2025-11-27, 18:39:11",
       "https://news.ycombinator.com/item?id=46072016"
     ],
@@ -287,16 +297,6 @@
     [
       "10 years of writing a blog nobody reads",
       "https://flowtwo.io/post/on-10-years-of-writing-a-blog-nobody-reads"
-    ]
-  ],
-  [
-    [
-      "2025-11-26, 11:05:26",
-      "https://news.ycombinator.com/item?id=46056232"
-    ],
-    [
-      "Amazon faces FAA probe after delivery drone snaps internet cable in Texas",
-      "https://www.cnbc.com/2025/11/25/amazon-faa-probe-delivery-drone-incident-texas.html"
     ]
   ]
 ]
