@@ -21,6 +21,16 @@
   ],
   [
     [
+      "2025-12-02, 18:50:25",
+      "https://news.ycombinator.com/item?id=46124930"
+    ],
+    [
+      "Microsoft won't let me pay a $24 bill, blocking thousands in Azure spending",
+      "https://news.ycombinator.com/item?id=46124930"
+    ]
+  ],
+  [
+    [
       "2025-12-02, 18:47:53",
       "https://news.ycombinator.com/item?id=46124892"
     ],
@@ -87,16 +97,6 @@
     [
       "The Junior Hiring Crisis",
       "https://people-work.io/blog/junior-hiring-crisis/"
-    ]
-  ],
-  [
-    [
-      "2025-12-02, 17:37:06",
-      "https://news.ycombinator.com/item?id=46123921"
-    ],
-    [
-      "Progress on TypeScript 7 – December 2025",
-      "https://devblogs.microsoft.com/typescript/progress-on-typescript-7-december-2025/"
     ]
   ],
   [
@@ -221,16 +221,6 @@
   ],
   [
     [
-      "2025-12-02, 09:11:41",
-      "https://news.ycombinator.com/item?id=46119214"
-    ],
-    [
-      "Comparing AWS Lambda ARM64 vs. x86_64 Performance Across Runtimes in Late 2025",
-      "https://chrisebert.net/comparing-aws-lambda-arm64-vs-x86_64-performance-across-multiple-runtimes-in-late-2025/"
-    ]
-  ],
-  [
-    [
       "2025-12-02, 05:10:01",
       "https://news.ycombinator.com/item?id=46117802"
     ],
@@ -277,6 +267,16 @@
     [
       "Lowtype: Elegant Types in Ruby",
       "https://codeberg.org/Iow/type"
+    ]
+  ],
+  [
+    [
+      "2025-11-26, 05:00:50",
+      "https://news.ycombinator.com/item?id=46054338"
+    ],
+    [
+      "Code Wiki: Accelerating your code understanding",
+      "https://developers.googleblog.com/en/introducing-code-wiki-accelerating-your-code-understanding/"
     ]
   ],
   [
