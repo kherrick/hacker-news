@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-12-02](index.md)
 
+* [2025-12-02, 19:05:54](https://news.ycombinator.com/item?id=46125184) - [Claude 4.5 Opus' Soul Document](https://simonwillison.net/2025/Dec/2/claude-soul-document/)
+* [2025-12-02, 19:04:31](https://news.ycombinator.com/item?id=46125155) - [Amazon launches Trainium3](https://techcrunch.com/2025/12/02/amazon-releases-an-impressive-new-ai-chip-and-teases-a-nvidia-friendly-roadmap/)
+* [2025-12-02, 18:47:53](https://news.ycombinator.com/item?id=46124892) - [Cursed circuits: charge pump voltage halver](https://lcamtuf.substack.com/p/cursed-circuits-charge-pump-voltage)
 * [2025-12-02, 18:10:23](https://news.ycombinator.com/item?id=46124324) - [IBM CEO says there is 'no way' spending on AI data centers will pay off](https://www.businessinsider.com/ibm-ceo-big-tech-ai-capex-data-center-spending-2025-12)
 * [2025-12-02, 18:05:44](https://news.ycombinator.com/item?id=46124267) - [Bun has been acquired by Anthropic](https://bun.com/blog/bun-joins-anthropic)
 * [2025-12-02, 18:04:23](https://news.ycombinator.com/item?id=46124258) - [Anthropic Acquires Bun](https://www.anthropic.com/news/anthropic-acquires-bun-as-claude-code-reaches-usd1b-milestone)
