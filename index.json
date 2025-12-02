@@ -41,16 +41,6 @@
   ],
   [
     [
-      "2025-12-02, 18:10:23",
-      "https://news.ycombinator.com/item?id=46124324"
-    ],
-    [
-      "IBM CEO says there is 'no way' spending on AI data centers will pay off",
-      "https://www.businessinsider.com/ibm-ceo-big-tech-ai-capex-data-center-spending-2025-12"
-    ]
-  ],
-  [
-    [
       "2025-12-02, 18:05:44",
       "https://news.ycombinator.com/item?id=46124267"
     ],
@@ -217,6 +207,16 @@
     [
       "Advent of Compiler Optimisations 2025",
       "https://xania.org/202511/advent-of-compiler-optimisation"
+    ]
+  ],
+  [
+    [
+      "2025-12-02, 09:11:41",
+      "https://news.ycombinator.com/item?id=46119214"
+    ],
+    [
+      "Comparing AWS Lambda ARM64 vs. x86_64 Performance Across Runtimes in Late 2025",
+      "https://chrisebert.net/comparing-aws-lambda-arm64-vs-x86_64-performance-across-multiple-runtimes-in-late-2025/"
     ]
   ],
   [
