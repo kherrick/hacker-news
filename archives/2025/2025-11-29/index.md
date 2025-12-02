@@ -8,6 +8,7 @@
 * [2025-11-29, 23:51:21](https://news.ycombinator.com/item?id=46092000) - [Scala](https://www.huygens-fokker.org/scala/)
 * [2025-11-29, 22:56:14](https://news.ycombinator.com/item?id=46091591) - [Americans no longer see four-year college degrees as worth the cost](https://www.nbcnews.com/politics/politics-news/poll-dramatic-shift-americans-no-longer-see-four-year-college-degrees-rcna243672)
 * [2025-11-29, 22:22:24](https://news.ycombinator.com/item?id=46091362) - [Bazzite: The next generation of Linux gaming](https://bazzite.gg/)
+* [2025-11-29, 22:03:33](https://news.ycombinator.com/item?id=46091211) - [Tom Stoppard has died](https://www.bbc.com/news/articles/c74xe49q7vlo)
 * [2025-11-29, 21:57:23](https://news.ycombinator.com/item?id=46091173) - [AI-Revived Cube World](https://news.ycombinator.com/item?id=46091173)
 * [2025-11-29, 21:49:20](https://news.ycombinator.com/item?id=46091100) - [Copper Thieves Are Wreaking Havoc Across America](https://www.wsj.com/business/telecom/copper-thieves-are-wreaking-havoc-across-america-9135906f)
 * [2025-11-29, 21:30:53](https://news.ycombinator.com/item?id=46090969) - [Landlock-Ing Linux](https://blog.prizrak.me/post/landlock/)

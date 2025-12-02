@@ -52,6 +52,7 @@
 * [2025-11-28, 16:01:01](https://news.ycombinator.com/item?id=46079785) - [Don't tug on that, you never know what it might be attached to](https://blog.plover.com/2016/07/01/#tmpdir)
 * [2025-11-28, 15:57:27](https://news.ycombinator.com/item?id=46079745) - [Tell HN: Want a better HN? Visit /newest](https://news.ycombinator.com/item?id=46079745)
 * [2025-11-28, 15:53:39](https://news.ycombinator.com/item?id=46079721) - [Can Dutch universities do without Microsoft?](https://dub.uu.nl/en/news/can-dutch-universities-do-without-microsoft)
+* [2025-11-28, 15:46:01](https://news.ycombinator.com/item?id=46079629) - [Dark Corners of Unicode (2015)](https://eev.ee/blog/2015/09/12/dark-corners-of-unicode/)
 * [2025-11-28, 15:44:04](https://news.ycombinator.com/item?id=46079605) - [Open-Source n8n Alternative for Workflow Building (GUI and Docker Included)](https://github.com/empowerd-cms/nyno)
 * [2025-11-28, 15:40:49](https://news.ycombinator.com/item?id=46079567) - [Generating 3D Meshes from Text](https://cprimozic.net/notes/posts/generating-3d-meshes-from-text/)
 * [2025-11-28, 15:27:49](https://news.ycombinator.com/item?id=46079460) - [Swedish publishers file police report against Meta's Zuckerberg for fraud](https://www.sverigesradio.se/artikel/swedish-publishers-file-police-report-against-metas-zuckerberg-for-fraud)
