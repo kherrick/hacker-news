@@ -23,6 +23,7 @@
 * [2025-12-01, 18:20:46](https://news.ycombinator.com/item?id=46110897) - [Show HN: An AI zettelkasten that extracts ideas from articles, videos, and PDFs](https://github.com/schoblaska/jargon)
 * [2025-12-01, 18:17:02](https://news.ycombinator.com/item?id=46110842) - [Ghostty compiled to WASM with xterm.js API compatibility](https://github.com/coder/ghostty-web)
 * [2025-12-01, 18:16:09](https://news.ycombinator.com/item?id=46110836) - [Response to Ruby Is Not a Serious Programming Language](https://robbyonrails.com/articles/2025/12/01/why-so-serious/)
+* [2025-12-01, 17:43:10](https://news.ycombinator.com/item?id=46110395) - [All about automotive lidar](https://mainstreetautonomy.com/blog/2025-08-29-all-about-automotive-lidar/)
 * [2025-12-01, 17:04:10](https://news.ycombinator.com/item?id=46109843) - [Show HN: RFC Hub](https://rfchub.app/)
 * [2025-12-01, 17:01:18](https://news.ycombinator.com/item?id=46109802) - [Better Auth (YC X25) Is Hiring](https://www.ycombinator.com/companies/better-auth/jobs/eKk5nLt-developer-relation-engineer)
 * [2025-12-01, 16:42:15](https://news.ycombinator.com/item?id=46109534) - [A New AI Winter Is Coming](https://taranis.ie/llms-are-a-failure-a-new-ai-winter-is-coming/)

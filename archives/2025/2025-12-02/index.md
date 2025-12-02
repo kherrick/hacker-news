@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-12-02](index.md)
 
+* [2025-12-02, 20:08:55](https://news.ycombinator.com/item?id=46126141) - [Free static site generator for small restaurants and cafes](https://lite.localcafe.org/)
 * [2025-12-02, 19:05:54](https://news.ycombinator.com/item?id=46125184) - [Claude 4.5 Opus' Soul Document](https://simonwillison.net/2025/Dec/2/claude-soul-document/)
 * [2025-12-02, 19:04:31](https://news.ycombinator.com/item?id=46125155) - [Amazon launches Trainium3](https://techcrunch.com/2025/12/02/amazon-releases-an-impressive-new-ai-chip-and-teases-a-nvidia-friendly-roadmap/)
 * [2025-12-02, 18:50:25](https://news.ycombinator.com/item?id=46124930) - [Microsoft won't let me pay a $24 bill, blocking thousands in Azure spending](https://news.ycombinator.com/item?id=46124930)
