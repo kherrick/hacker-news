@@ -80,6 +80,7 @@
 * [2025-11-28, 06:44:51](https://news.ycombinator.com/item?id=46076156) - ['A step-change': tech firms battle for undersea dominance with submarine drones](https://www.theguardian.com/business/2025/nov/28/tech-submarine-drones-startups-big-defence-companies)
 * [2025-11-28, 06:43:13](https://news.ycombinator.com/item?id=46076150) - [GrapheneOS Moving Out of France](https://xcancel.com/GrapheneOS/status/1993035936800584103)
 * [2025-11-28, 05:52:38](https://news.ycombinator.com/item?id=46075882) - [Show HN: Ray-BANNED, Glasses to detect smart-glasses that have cameras](https://github.com/NullPxl/banrays)
+* [2025-11-28, 05:50:20](https://news.ycombinator.com/item?id=46075873) - [Mission Critical Advanced Scheduling (ALAP/ASAP) System](https://github.com/rodmena-limited/scriptplan)
 * [2025-11-28, 05:19:45](https://news.ycombinator.com/item?id=46075746) - [How to use Linux vsock for fast VM communication](https://popovicu.com/posts/how-to-use-linux-vsock-for-fast-vm-communication/)
 * [2025-11-28, 04:53:07](https://news.ycombinator.com/item?id=46075628) - [TigerStyle: Coding philosophy focused on safety, performance, dev experience](https://tigerstyle.dev/)
 * [2025-11-28, 04:50:57](https://news.ycombinator.com/item?id=46075616) - [Beads – A memory upgrade for your coding agent](https://github.com/steveyegge/beads)
