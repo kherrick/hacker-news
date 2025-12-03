@@ -71,6 +71,16 @@
   ],
   [
     [
+      "2025-12-03, 19:00:03",
+      "https://news.ycombinator.com/item?id=46138493"
+    ],
+    [
+      "The only winning move is not to play",
+      "https://gregg.io/the-only-winning-move"
+    ]
+  ],
+  [
+    [
       "2025-12-03, 18:40:06",
       "https://news.ycombinator.com/item?id=46138238"
     ],
@@ -221,6 +231,16 @@
   ],
   [
     [
+      "2025-12-03, 11:14:56",
+      "https://news.ycombinator.com/item?id=46133141"
+    ],
+    [
+      "Are we repeating the telecoms crash with AI datacenters?",
+      "https://martinalderson.com/posts/are-we-really-repeating-the-telecoms-crash-with-ai-datacenters/"
+    ]
+  ],
+  [
+    [
       "2025-12-03, 09:53:27",
       "https://news.ycombinator.com/item?id=46132531"
     ],
@@ -237,6 +257,16 @@
     [
       "Valve reveals it’s the architect behind a push to bring Windows games to Arm",
       "https://www.theverge.com/report/820656/valve-interview-arm-gaming-steamos-pierre-loup-griffais"
+    ]
+  ],
+  [
+    [
+      "2025-12-01, 02:19:43",
+      "https://news.ycombinator.com/item?id=46102753"
+    ],
+    [
+      "Show HN: FastLanes based integer compression in Zig",
+      "https://github.com/steelcake/zint"
     ]
   ],
   [
@@ -267,36 +297,6 @@
     [
       "How to Synthesize a House Loop",
       "https://loopmaster.xyz/tutorials/how-to-synthesize-a-house-loop"
-    ]
-  ],
-  [
-    [
-      "2025-11-27, 12:42:04",
-      "https://news.ycombinator.com/item?id=46068731"
-    ],
-    [
-      "Solving the Partridge square packing problem using MiniZinc",
-      "https://zayenz.se/blog/post/partridge-packing/"
-    ]
-  ],
-  [
-    [
-      "2025-11-26, 12:18:40",
-      "https://news.ycombinator.com/item?id=46056708"
-    ],
-    [
-      "R packages for data science",
-      "https://tidyverse.org/"
-    ]
-  ],
-  [
-    [
-      "2025-11-25, 21:12:36",
-      "https://news.ycombinator.com/item?id=46050855"
-    ],
-    [
-      "A Look at Rust from 2012",
-      "https://purplesyringa.moe/blog/a-look-at-rust-from-2012/"
     ]
   ]
 ]
