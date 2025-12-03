@@ -4,9 +4,12 @@
 
 ### [Archives](../../index.md) for [2025-12-03](index.md)
 
+* [2025-12-03, 17:01:18](https://news.ycombinator.com/item?id=46136918) - [Rocketable (YC W25) is hiring a founding engineer to automate software companies](https://www.ycombinator.com/companies/rocketable/jobs/CArgzmX-founding-engineer-automation-platform)
+* [2025-12-03, 17:00:13](https://news.ycombinator.com/item?id=46136901) - [Steam Deck lead reveals Valve is funding ARM compatibility of Windows games](https://frvr.com/blog/news/steam-deck-lead-reveals-valve-is-funding-arm-compatibility-of-windows-games-to-expand-pc-gaming-and-release-ultraportables-in-the-future/)
 * [2025-12-03, 16:03:27](https://news.ycombinator.com/item?id=46136067) - [Critical RCE Vulnerabilities in React and Next.js](https://www.wiz.io/blog/critical-vulnerability-in-react-cve-2025-55182)
 * [2025-12-03, 16:00:23](https://news.ycombinator.com/item?id=46136026) - [RCE Vulnerability in React and Next.js](https://github.com/vercel/next.js/security/advisories/GHSA-9qr9-h5gf-34mp)
 * [2025-12-03, 16:00:19](https://news.ycombinator.com/item?id=46136023) - [MinIO is now in maintenance-mode](https://github.com/minio/minio/commit/27742d469462e1561c776f88ca7a1f26816d69e2)
+* [2025-12-03, 15:43:45](https://news.ycombinator.com/item?id=46135784) - [Critical Security Vulnerability in React Server Components](https://react.dev/blog/2025/12/03/critical-security-vulnerability-in-react-server-components)
 * [2025-12-03, 15:32:57](https://news.ycombinator.com/item?id=46135661) - [VA staff flag dangerous errors in Oracle-built electronic health record](https://www.washingtonpost.com/investigations/2025/12/03/veterans-administration-va-hospitals-health/)
 * [2025-12-03, 15:30:30](https://news.ycombinator.com/item?id=46135627) - [Why are my headphones buzzing whenever I run my game?](https://alexene.dev/2025/12/03/Why-do-my-headphones-buzz-when-i-run-my-game.html)
 * [2025-12-03, 15:11:58](https://news.ycombinator.com/item?id=46135388) - [Microsoft lowers AI software sales quota](https://finance.yahoo.com/news/microsoft-lowers-ai-software-sales-141531121.html)
