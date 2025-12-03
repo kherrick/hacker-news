@@ -49,6 +49,7 @@
 * [2025-11-27, 11:11:46](https://news.ycombinator.com/item?id=46068147) - [C64 Burrow.BAS](https://basic-code.bearblog.dev/c64-burrow/)
 * [2025-11-27, 11:10:51](https://news.ycombinator.com/item?id=46068138) - [Show HN: Spikelog – A simple metrics service for scripts, cron jobs, and MVPs](https://spikelog.com)
 * [2025-11-27, 10:54:02](https://news.ycombinator.com/item?id=46068015) - [How Arthur Conan Doyle Explored Men's Mental Health Through Sherlock Holmes](https://scienceclock.com/arthur-conan-doyle-delved-into-mens-mental-health-through-his-sherlock-holmes-stories/)
+* [2025-11-27, 10:52:15](https://news.ycombinator.com/item?id=46067995) - [AI Agents Break Rules Under Everyday Pressure](https://spectrum.ieee.org/ai-agents-safety)
 * [2025-11-27, 09:16:06](https://news.ycombinator.com/item?id=46067363) - [New research highlights a shortage of male mentors for boys and young men](https://www.psypost.org/new-research-highlights-a-shortage-of-male-mentors-for-boys-and-young-men/)
 * [2025-11-27, 08:23:03](https://news.ycombinator.com/item?id=46067011) - [RL is more information inefficient than you thought](https://www.dwarkesh.com/p/bits-per-sample)
 * [2025-11-27, 07:42:39](https://news.ycombinator.com/item?id=46066764) - [URL in C Puzzle](https://susam.net/url-in-c.html)
