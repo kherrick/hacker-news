@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-12-03](index.md)
 
+* [2025-12-03, 17:47:15](https://news.ycombinator.com/item?id=46137548) - [Launch HN: Phind 3 (YC S22) – Every answer is a mini-app](https://news.ycombinator.com/item?id=46137548)
 * [2025-12-03, 17:24:49](https://news.ycombinator.com/item?id=46137253) - [1D Conway's Life glider found, 3.7B cells long](https://conwaylife.com/forums/viewtopic.php?&p=222136#p222136)
 * [2025-12-03, 17:01:18](https://news.ycombinator.com/item?id=46136918) - [Rocketable (YC W25) is hiring a founding engineer to automate software companies](https://www.ycombinator.com/companies/rocketable/jobs/CArgzmX-founding-engineer-automation-platform)
 * [2025-12-03, 17:00:13](https://news.ycombinator.com/item?id=46136901) - [Steam Deck lead reveals Valve is funding ARM compatibility of Windows games](https://frvr.com/blog/news/steam-deck-lead-reveals-valve-is-funding-arm-compatibility-of-windows-games-to-expand-pc-gaming-and-release-ultraportables-in-the-future/)
