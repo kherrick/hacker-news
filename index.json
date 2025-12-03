@@ -21,12 +21,32 @@
   ],
   [
     [
+      "2025-12-03, 18:57:54",
+      "https://news.ycombinator.com/item?id=46138465"
+    ],
+    [
+      "Teaching an LLM a Niche Diagraming Language",
+      "https://www.huy.rocks/everyday/12-01-2025-ai-teaching-an-llm-a-niche-diagraming-language"
+    ]
+  ],
+  [
+    [
       "2025-12-03, 18:40:06",
       "https://news.ycombinator.com/item?id=46138238"
     ],
     [
       "Ghostty is now non-profit",
       "https://mitchellh.com/writing/ghostty-non-profit"
+    ]
+  ],
+  [
+    [
+      "2025-12-03, 18:39:04",
+      "https://news.ycombinator.com/item?id=46138226"
+    ],
+    [
+      "Formally verifying Advent of Code using Dijkstra's program construction",
+      "https://haripm.com/blog/aoc-day-3-without-thinking/"
     ]
   ],
   [
@@ -145,7 +165,7 @@
       "https://news.ycombinator.com/item?id=46134443"
     ],
     [
-      "\"Captain Gains\" on Capitol Hill",
+      "“Captain Gains” on Capitol Hill",
       "https://www.nber.org/papers/w34524"
     ]
   ],
@@ -195,8 +215,8 @@
       "https://news.ycombinator.com/item?id=46132531"
     ],
     [
-      "Anthropic reportedly preparing for $300B IPO",
-      "https://vechron.com/2025/12/anthropic-hires-wilson-sonsini-ipo-2026-openai-race/"
+      "Anthropic taps IPO lawyers as it races OpenAI to go public",
+      "https://www.ft.com/content/3254fa30-5bdb-4c30-8560-7cd7ebbefc5f"
     ]
   ],
   [
@@ -227,16 +247,6 @@
     [
       "Valve reveals it’s the architect behind a push to bring Windows games to Arm",
       "https://www.theverge.com/report/820656/valve-interview-arm-gaming-steamos-pierre-loup-griffais"
-    ]
-  ],
-  [
-    [
-      "2025-12-01, 16:28:14",
-      "https://news.ycombinator.com/item?id=46109332"
-    ],
-    [
-      "Boston's subway system replacing 1890s-era wooden catenary system",
-      "https://www.mbta.com/news/2025-11-18/mbta-announces-december-service-changes"
     ]
   ],
   [
@@ -275,18 +285,8 @@
       "https://news.ycombinator.com/item?id=46056708"
     ],
     [
-      "Tidyverse: R Packages for Data Science",
+      "R packages for data science",
       "https://tidyverse.org/"
-    ]
-  ],
-  [
-    [
-      "2025-11-26, 05:32:28",
-      "https://news.ycombinator.com/item?id=46054467"
-    ],
-    [
-      "Super fast aggregations in PostgreSQL 19",
-      "https://www.cybertec-postgresql.com/en/super-fast-aggregations-in-postgresql-19/"
     ]
   ],
   [
