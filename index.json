@@ -1,6 +1,36 @@
 [
   [
     [
+      "2025-12-03, 15:11:58",
+      "https://news.ycombinator.com/item?id=46135388"
+    ],
+    [
+      "Microsoft lowers AI software sales quota",
+      "https://finance.yahoo.com/news/microsoft-lowers-ai-software-sales-141531121.html"
+    ]
+  ],
+  [
+    [
+      "2025-12-03, 14:42:02",
+      "https://news.ycombinator.com/item?id=46135008"
+    ],
+    [
+      "Mapping Every Dollar of America's $5T Healthcare System",
+      "https://healthisotherpeople.substack.com/p/an-abominable-creature"
+    ]
+  ],
+  [
+    [
+      "2025-12-03, 14:40:25",
+      "https://news.ycombinator.com/item?id=46134991"
+    ],
+    [
+      "GSWT: Gaussian Splatting Wang Tiles",
+      "https://yunfan.zone/gswt_webpage/"
+    ]
+  ],
+  [
+    [
       "2025-12-03, 13:50:10",
       "https://news.ycombinator.com/item?id=46134443"
     ],
@@ -121,16 +151,6 @@
   ],
   [
     [
-      "2025-12-02, 19:04:31",
-      "https://news.ycombinator.com/item?id=46125155"
-    ],
-    [
-      "Amazon launches Trainium3",
-      "https://techcrunch.com/2025/12/02/amazon-releases-an-impressive-new-ai-chip-and-teases-a-nvidia-friendly-roadmap/"
-    ]
-  ],
-  [
-    [
       "2025-12-02, 18:10:23",
       "https://news.ycombinator.com/item?id=46124324"
     ],
@@ -167,16 +187,6 @@
     [
       "Zig's new plan for asynchronous programs",
       "https://lwn.net/SubscriberLink/1046084/4c048ee008e1c70e/"
-    ]
-  ],
-  [
-    [
-      "2025-12-01, 17:43:10",
-      "https://news.ycombinator.com/item?id=46110395"
-    ],
-    [
-      "All about automotive lidar",
-      "https://mainstreetautonomy.com/blog/2025-08-29-all-about-automotive-lidar/"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "A Look at Rust from 2012",
       "https://purplesyringa.moe/blog/a-look-at-rust-from-2012/"
-    ]
-  ],
-  [
-    [
-      "2025-11-25, 20:51:33",
-      "https://news.ycombinator.com/item?id=46050624"
-    ],
-    [
-      "Counter Galois Onion: Improved encryption for Tor circuit traffic",
-      "https://blog.torproject.org/introducing-cgo/"
     ]
   ]
 ]
