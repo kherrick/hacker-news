@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2025-12-03](index.md)
 
+* [2025-12-03, 21:16:11](https://news.ycombinator.com/item?id=46140244) - [8086 Microcode Browser](https://nand2mario.github.io/posts/2025/8086_microcode_browser/)
 * [2025-12-03, 20:57:02](https://news.ycombinator.com/item?id=46140038) - [Chips for the Rest of Us](https://engineering.nyu.edu/about/unconventional-engineer/chips-for-us)
 * [2025-12-03, 20:47:45](https://news.ycombinator.com/item?id=46139905) - [Agentic Development Environment by JetBrains](https://air.dev)
+* [2025-12-03, 20:37:08](https://news.ycombinator.com/item?id=46139782) - [Checked-size array parameters in C](https://lwn.net/SubscriberLink/1046840/3eb9029084cc9e1e/)
 * [2025-12-03, 20:35:27](https://news.ycombinator.com/item?id=46139761) - [Show HN: I built a dashboard to compare mortgage rates across 120 credit unions](https://finfam.app/blog/credit-union-mortgages)
 * [2025-12-03, 19:39:50](https://news.ycombinator.com/item?id=46138984) - [No room for error – A case study of Gleam in production at Uncover](https://gleam.run/case-studies/uncover/)
 * [2025-12-03, 19:37:25](https://news.ycombinator.com/item?id=46138952) - [Everyone in Seattle Hates AI](https://jonready.com/blog/posts/everyone-in-seattle-hates-ai.html)
