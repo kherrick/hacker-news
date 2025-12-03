@@ -19,6 +19,7 @@
 * [2025-11-25, 21:35:29](https://news.ycombinator.com/item?id=46051077) - [NVMe driver for Windows 2000, targeting both x86 and Alpha AXP platforms](https://github.com/techomancer/nvme2k)
 * [2025-11-25, 21:26:14](https://news.ycombinator.com/item?id=46050997) - [Stop Putting Your Passwords into Random Websites (Yes, Seriously, You Are the PR](https://labs.watchtowr.com/stop-putting-your-passwords-into-random-websites-yes-seriously-you-are-the-problem/)
 * [2025-11-25, 21:12:55](https://news.ycombinator.com/item?id=46050861) - [Men Who Made America's Self-Made Man](https://www.historynewsnetwork.org/article/self-made)
+* [2025-11-25, 20:51:33](https://news.ycombinator.com/item?id=46050624) - [Counter Galois Onion: Improved encryption for Tor circuit traffic](https://blog.torproject.org/introducing-cgo/)
 * [2025-11-25, 20:39:07](https://news.ycombinator.com/item?id=46050471) - [ZoomInfo CEO Blocks Researcher After Documenting Pre-Consent Biometric Tracking](https://github.com/clark-prog/blackout-public)
 * [2025-11-25, 20:24:12](https://news.ycombinator.com/item?id=46050302) - [1964 Recompiling Engine Documentation (2001) [pdf]](https://emudev.org/docs/1964-recompiling-engine-documentation.pdf)
 * [2025-11-25, 20:02:05](https://news.ycombinator.com/item?id=46050029) - [ICE Offers Up to $280M to Immigrant-Tracking 'Bounty Hunter' Firms](https://www.wired.com/story/ice-bounty-hunter-spy-program/)
