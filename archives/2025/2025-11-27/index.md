@@ -17,6 +17,7 @@
 * [2025-11-27, 20:30:21](https://news.ycombinator.com/item?id=46072988) - [LinkedIn is loud, and corporate is hell](https://ramones.dev/posts/linkedin-is-loud/)
 * [2025-11-27, 20:03:25](https://news.ycombinator.com/item?id=46072786) - [DeepSeekMath-V2: Towards Self-Verifiable Mathematical Reasoning [pdf]](https://github.com/deepseek-ai/DeepSeek-Math-V2/blob/main/DeepSeekMath_V2.pdf)
 * [2025-11-27, 19:34:23](https://news.ycombinator.com/item?id=46072521) - [Replacing My Window Manager with Google Chrome](https://foxmoss.com/blog/dote/)
+* [2025-11-27, 19:10:56](https://news.ycombinator.com/item?id=46072323) - [Trying Out C++26 Executors](https://mropert.github.io/2025/11/21/trying_out_stdexec/)
 * [2025-11-27, 19:07:29](https://news.ycombinator.com/item?id=46072296) - [Internet Handle](https://internethandle.org/)
 * [2025-11-27, 18:39:11](https://news.ycombinator.com/item?id=46072016) - [Cloud-Init on Raspberry Pi OS](https://www.raspberrypi.com/news/cloud-init-on-raspberry-pi-os/)
 * [2025-11-27, 18:37:41](https://news.ycombinator.com/item?id=46072002) - [Replace your boss before they replace you](https://replaceyourboss.ai/)
