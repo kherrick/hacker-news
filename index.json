@@ -1,12 +1,42 @@
 [
   [
     [
+      "2025-12-03, 18:09:49",
+      "https://news.ycombinator.com/item?id=46137845"
+    ],
+    [
+      "Stop Talking",
+      "https://gurkan.in/2025/12/stop-talking/"
+    ]
+  ],
+  [
+    [
+      "2025-12-03, 18:01:11",
+      "https://news.ycombinator.com/item?id=46137746"
+    ],
+    [
+      "Prompt Injection via Poetry",
+      "https://www.wired.com/story/poems-can-trick-ai-into-helping-you-make-a-nuclear-weapon/"
+    ]
+  ],
+  [
+    [
       "2025-12-03, 17:47:15",
       "https://news.ycombinator.com/item?id=46137548"
     ],
     [
       "Launch HN: Phind 3 (YC S22) – Every answer is a mini-app",
       "https://news.ycombinator.com/item?id=46137548"
+    ]
+  ],
+  [
+    [
+      "2025-12-03, 17:44:33",
+      "https://news.ycombinator.com/item?id=46137514"
+    ],
+    [
+      "Reverse engineering a $1B Legal AI tool exposed 100k+ confidential files",
+      "https://alexschapiro.com/security/vulnerability/2025/12/02/filevine-api-100k"
     ]
   ],
   [
@@ -37,16 +67,6 @@
     [
       "Steam Deck lead reveals Valve is funding ARM compatibility of Windows games",
       "https://frvr.com/blog/news/steam-deck-lead-reveals-valve-is-funding-arm-compatibility-of-windows-games-to-expand-pc-gaming-and-release-ultraportables-in-the-future/"
-    ]
-  ],
-  [
-    [
-      "2025-12-03, 16:03:27",
-      "https://news.ycombinator.com/item?id=46136067"
-    ],
-    [
-      "Critical RCE Vulnerabilities in React and Next.js",
-      "https://www.wiz.io/blog/critical-vulnerability-in-react-cve-2025-55182"
     ]
   ],
   [
@@ -91,12 +111,12 @@
   ],
   [
     [
-      "2025-12-03, 14:42:02",
-      "https://news.ycombinator.com/item?id=46135008"
+      "2025-12-03, 14:45:26",
+      "https://news.ycombinator.com/item?id=46135067"
     ],
     [
-      "Mapping Every Dollar of America's $5T Healthcare System",
-      "https://healthisotherpeople.substack.com/p/an-abominable-creature"
+      "Show HN: Fresh – A new terminal editor built in Rust",
+      "https://sinelaw.github.io/fresh/"
     ]
   ],
   [
@@ -241,32 +261,12 @@
   ],
   [
     [
-      "2025-11-28, 21:42:02",
-      "https://news.ycombinator.com/item?id=46083014"
-    ],
-    [
-      "Optimizations in C++ compilers: a practical journey",
-      "https://queue.acm.org/detail.cfm?id=3372264"
-    ]
-  ],
-  [
-    [
       "2025-11-27, 19:04:56",
       "https://news.ycombinator.com/item?id=46072280"
     ],
     [
       "How to Synthesize a House Loop",
       "https://loopmaster.xyz/tutorials/how-to-synthesize-a-house-loop"
-    ]
-  ],
-  [
-    [
-      "2025-11-27, 10:52:15",
-      "https://news.ycombinator.com/item?id=46067995"
-    ],
-    [
-      "AI agents break rules under everyday pressure",
-      "https://spectrum.ieee.org/ai-agents-safety"
     ]
   ],
   [
