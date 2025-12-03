@@ -65,6 +65,7 @@
 * [2025-11-26, 12:28:30](https://news.ycombinator.com/item?id=46056763) - [Kagi Hub Belgrade](https://blog.kagi.com/kagi-hub)
 * [2025-11-26, 12:26:49](https://news.ycombinator.com/item?id=46056757) - [Qiskit open-source SDK for working with quantum computers](https://github.com/Qiskit/qiskit)
 * [2025-11-26, 12:20:04](https://news.ycombinator.com/item?id=46056715) - [Running a Business Means Contact with Reality](https://fredkozlowski.com/2025/11/02/running-a-business-means-contact-with-reality/)
+* [2025-11-26, 12:18:40](https://news.ycombinator.com/item?id=46056708) - [Tidyverse: R Packages for Data Science](https://tidyverse.org/)
 * [2025-11-26, 12:16:52](https://news.ycombinator.com/item?id=46056700) - [Genesis DB is a event sourcing database and there are the technical insights](https://docs.genesisdb.io/technical-insights)
 * [2025-11-26, 12:01:24](https://news.ycombinator.com/item?id=46056583) - [Cekura (YC F24) Is Hiring](https://www.ycombinator.com/companies/cekura-ai/jobs/0ZGLW69-forward-deployed-engineer-us)
 * [2025-11-26, 11:31:42](https://news.ycombinator.com/item?id=46056358) - [EU council reaches position on Chat Control](https://www.consilium.europa.eu/de/press/press-releases/2025/11/26/child-sexual-abuse-council-reaches-position-on-law-protecting-children-from-online-abuse/)
