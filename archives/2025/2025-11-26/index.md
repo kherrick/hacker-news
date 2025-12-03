@@ -47,6 +47,7 @@
 * [2025-11-26, 15:44:09](https://news.ycombinator.com/item?id=46058531) - [KDE Plasma 6.8 Will Go Wayland-Exclusive in Dropping X11 Session Support](https://www.phoronix.com/news/KDE-Plasma-68-Wayland-Exclusive)
 * [2025-11-26, 15:40:14](https://news.ycombinator.com/item?id=46058471) - [Feedback doesn't scale](https://another.rodeo/feedback/)
 * [2025-11-26, 15:32:06](https://news.ycombinator.com/item?id=46058361) - [MIT study finds AI can replace 11.7% of U.S. workforce](https://www.cnbc.com/2025/11/26/mit-study-finds-ai-can-already-replace-11point7percent-of-us-workforce.html)
+* [2025-11-26, 15:14:42](https://news.ycombinator.com/item?id=46058154) - [The Writing Is on the Wall for Handwriting Recognition](https://newsletter.dancohen.org/archive/the-writing-is-on-the-wall-for-handwriting-recognition/)
 * [2025-11-26, 15:06:37](https://news.ycombinator.com/item?id=46058065) - [OpenAI needs to raise at least $207B by 2030 so it can continue to lose money](https://ft.com/content/23e54a28-6f63-4533-ab96-3756d9c88bad)
 * [2025-11-26, 15:03:09](https://news.ycombinator.com/item?id=46058033) - [Compressed filesystems à la language models](https://grohan.co/2025/11/25/llmfuse/)
 * [2025-11-26, 14:53:52](https://news.ycombinator.com/item?id=46057932) - [Solving the Partridge Packing Problem Using MiniZinc](https://zayenz.se/blog/post/partridge-packing/)
