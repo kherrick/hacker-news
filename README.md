@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-12-03, 20:47:45](https://news.ycombinator.com/item?id=46139905) - [Agentic Development Environment by JetBrains](https://air.dev)
 * [2025-12-03, 19:37:25](https://news.ycombinator.com/item?id=46138952) - [Everyone in Seattle hates AI](https://jonready.com/blog/posts/everyone-in-seattle-hates-ai.html)
 * [2025-12-03, 19:12:40](https://news.ycombinator.com/item?id=46138632) - [Lie groups are crucial to some of the most fundamental theories in physics](https://www.quantamagazine.org/what-are-lie-groups-20251203/)
 * [2025-12-03, 18:40:06](https://news.ycombinator.com/item?id=46138238) - [Ghostty is now non-profit](https://mitchellh.com/writing/ghostty-non-profit)
@@ -28,7 +29,6 @@
 * [2025-11-27, 19:04:56](https://news.ycombinator.com/item?id=46072280) - [How to Synthesize a House Loop](https://loopmaster.xyz/tutorials/how-to-synthesize-a-house-loop)
 * [2025-11-26, 15:14:42](https://news.ycombinator.com/item?id=46058154) - [The writing is on the wall for handwriting recognition](https://newsletter.dancohen.org/archive/the-writing-is-on-the-wall-for-handwriting-recognition/)
 * [2025-11-26, 12:18:40](https://news.ycombinator.com/item?id=46056708) - [R packages for data science](https://tidyverse.org/)
-* [2025-11-26, 05:32:28](https://news.ycombinator.com/item?id=46054467) - [Super fast aggregations in PostgreSQL 19](https://www.cybertec-postgresql.com/en/super-fast-aggregations-in-postgresql-19/)
 * [2025-11-25, 21:12:36](https://news.ycombinator.com/item?id=46050855) - [A Look at Rust from 2012](https://purplesyringa.moe/blog/a-look-at-rust-from-2012/)
 
 ## [Archives](archives/index.md)
