@@ -15,7 +15,6 @@
 * [2025-12-02, 18:05:44](https://news.ycombinator.com/item?id=46124267) - [Anthropic acquires Bun](https://bun.com/blog/bun-joins-anthropic)
 * [2025-12-02, 17:59:53](https://news.ycombinator.com/item?id=46124205) - [100k TPS over a billion rows: the unreasonable effectiveness of SQLite](https://andersmurphy.com/2025/12/02/100000-tps-over-a-billion-rows-the-unreasonable-effectiveness-of-sqlite.html)
 * [2025-12-02, 17:58:11](https://news.ycombinator.com/item?id=46124179) - [School cell phone bans and student achievement](https://www.nber.org/digest/202512/school-cell-phone-bans-and-student-achievement)
-* [2025-12-02, 15:01:53](https://news.ycombinator.com/item?id=46121889) - [Mistral 3 family of models released](https://mistral.ai/news/mistral-3)
 * [2025-12-02, 15:00:16](https://news.ycombinator.com/item?id=46121870) - [OpenAI declares 'code red' as Google catches up in AI race](https://www.theverge.com/news/836212/openai-code-red-chatgpt)
 * [2025-12-02, 14:31:16](https://news.ycombinator.com/item?id=46121539) - [Zig's new plan for asynchronous programs](https://lwn.net/SubscriberLink/1046084/4c048ee008e1c70e/)
 * [2025-12-02, 12:38:28](https://news.ycombinator.com/item?id=46120611) - [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
@@ -29,6 +28,7 @@
 * [2025-11-26, 05:32:28](https://news.ycombinator.com/item?id=46054467) - [Super fast aggregations in PostgreSQL 19](https://www.cybertec-postgresql.com/en/super-fast-aggregations-in-postgresql-19/)
 * [2025-11-26, 04:47:50](https://news.ycombinator.com/item?id=46054295) - [All Sources of DirectX 12 Documentation](https://asawicki.info/news_1794_all_sources_of_directx_12_documentation)
 * [2025-11-26, 00:09:19](https://news.ycombinator.com/item?id=46052478) - [Learning music with Strudel](https://terryds.notion.site/Learning-Music-with-Strudel-2ac98431b24180deb890cc7de667ea92)
+* [2025-11-25, 21:15:05](https://news.ycombinator.com/item?id=46050884) - [What, if anything, is universal to music cognition? (2024)](https://www.nature.com/articles/s41562-023-01800-9)
 * [2025-11-25, 20:51:33](https://news.ycombinator.com/item?id=46050624) - [Counter Galois Onion: Improved encryption for Tor circuit traffic](https://blog.torproject.org/introducing-cgo/)
 
 ## [Archives](archives/index.md)
