@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-12-03](index.md)
 
+* [2025-12-03, 06:10:22](https://news.ycombinator.com/item?id=46130798) - [AI Is Breaking the Moral Foundation of Modern Society](https://eyeofthesquid.com/ai-is-breaking-the-moral-foundation-of-modern-society-a145d471694f)
+* [2025-12-03, 06:07:22](https://news.ycombinator.com/item?id=46130784) - [Quad9 DOH HTTP/1.1 Retirement, December 15, 2025](https://quad9.net/news/blog/doh-http-1-1-retirement/)
 * [2025-12-03, 05:05:34](https://news.ycombinator.com/item?id=46130506) - [Sending DMARC reports is somewhat hazardous](https://utcc.utoronto.ca/~cks/space/blog/spam/DMARCSendingReportsProblems)
 * [2025-12-03, 04:32:16](https://news.ycombinator.com/item?id=46130335) - [Interview with RollerCoaster Tycoon's Creator, Chris Sawyer (2024)](https://medium.com/atari-club/interview-with-rollercoaster-tycoons-creator-chris-sawyer-684a0efb0f13)
 * [2025-12-03, 04:13:41](https://news.ycombinator.com/item?id=46130233) - [Understanding ECDSA](https://avidthinker.github.io/2025/11/28/understanding-ecdsa/)

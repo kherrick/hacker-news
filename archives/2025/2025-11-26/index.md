@@ -84,6 +84,7 @@
 * [2025-11-26, 06:27:41](https://news.ycombinator.com/item?id=46054713) - [ICE Arrests the Press](https://petapixel.com/2025/11/24/photojournalist-arrested-covering-ice-protest-as-authorities-impound-his-camera-gear/)
 * [2025-11-26, 06:13:26](https://news.ycombinator.com/item?id=46054661) - [Comparing xeus-Haskell and ihaskell kernels](https://www.datahaskell.org/blog/2025/11/25/a-tale-of-two-kernels.html)
 * [2025-11-26, 05:33:49](https://news.ycombinator.com/item?id=46054471) - [Spleen Monospaced Bitmap Fonts](https://github.com/fcambus/spleen)
+* [2025-11-26, 05:32:28](https://news.ycombinator.com/item?id=46054467) - [Super fast aggregations in PostgreSQL 19](https://www.cybertec-postgresql.com/en/super-fast-aggregations-in-postgresql-19/)
 * [2025-11-26, 05:00:50](https://news.ycombinator.com/item?id=46054338) - [Code Wiki: Accelerating your code understanding](https://developers.googleblog.com/en/introducing-code-wiki-accelerating-your-code-understanding/)
 * [2025-11-26, 04:47:50](https://news.ycombinator.com/item?id=46054295) - [All Sources of DirectX 12 Documentation](https://asawicki.info/news_1794_all_sources_of_directx_12_documentation)
 * [2025-11-26, 04:15:57](https://news.ycombinator.com/item?id=46054142) - [Show HN: I engineered a 2mm micro-bearing D20 ring that free-spin for 20 seconds](https://news.ycombinator.com/item?id=46054142)
