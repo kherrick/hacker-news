@@ -81,16 +81,6 @@
   ],
   [
     [
-      "2025-12-02, 19:05:54",
-      "https://news.ycombinator.com/item?id=46125184"
-    ],
-    [
-      "Claude 4.5 Opus’ Soul Document",
-      "https://www.lesswrong.com/posts/vpNG99GhbBoLov9og/claude-4-5-opus-soul-document"
-    ]
-  ],
-  [
-    [
       "2025-12-02, 19:04:31",
       "https://news.ycombinator.com/item?id=46125155"
     ],
@@ -151,16 +141,6 @@
   ],
   [
     [
-      "2025-12-02, 17:48:33",
-      "https://news.ycombinator.com/item?id=46124063"
-    ],
-    [
-      "The Junior Hiring Crisis",
-      "https://people-work.io/blog/junior-hiring-crisis/"
-    ]
-  ],
-  [
-    [
       "2025-12-02, 15:01:53",
       "https://news.ycombinator.com/item?id=46121889"
     ],
@@ -197,6 +177,16 @@
     [
       "Python Data Science Handbook",
       "https://jakevdp.github.io/PythonDataScienceHandbook/"
+    ]
+  ],
+  [
+    [
+      "2025-12-02, 12:28:34",
+      "https://news.ycombinator.com/item?id=46120549"
+    ],
+    [
+      "A series of vignettes from my childhood and early career",
+      "https://www.jasonscheirer.com/weblog/vignettes/"
     ]
   ],
   [
@@ -287,6 +277,16 @@
     [
       "Learning music with Strudel",
       "https://terryds.notion.site/Learning-Music-with-Strudel-2ac98431b24180deb890cc7de667ea92"
+    ]
+  ],
+  [
+    [
+      "2025-11-25, 20:51:33",
+      "https://news.ycombinator.com/item?id=46050624"
+    ],
+    [
+      "Counter Galois Onion: Improved encryption for Tor circuit traffic",
+      "https://blog.torproject.org/introducing-cgo/"
     ]
   ],
   [
