@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-12-03, 06:10:22](https://news.ycombinator.com/item?id=46130798) - [AI Is Breaking the Moral Foundation of Modern Society](https://eyeofthesquid.com/ai-is-breaking-the-moral-foundation-of-modern-society-a145d471694f)
 * [2025-12-03, 06:07:22](https://news.ycombinator.com/item?id=46130784) - [Quad9 DOH HTTP/1.1 Retirement, December 15, 2025](https://quad9.net/news/blog/doh-http-1-1-retirement/)
 * [2025-12-03, 05:05:34](https://news.ycombinator.com/item?id=46130506) - [Sending DMARC reports is somewhat hazardous](https://utcc.utoronto.ca/~cks/space/blog/spam/DMARCSendingReportsProblems)
 * [2025-12-03, 04:32:16](https://news.ycombinator.com/item?id=46130335) - [Interview with RollerCoaster Tycoon's Creator, Chris Sawyer (2024)](https://medium.com/atari-club/interview-with-rollercoaster-tycoons-creator-chris-sawyer-684a0efb0f13)
@@ -16,6 +15,7 @@
 * [2025-12-02, 18:05:44](https://news.ycombinator.com/item?id=46124267) - [Anthropic acquires Bun](https://bun.com/blog/bun-joins-anthropic)
 * [2025-12-02, 17:59:53](https://news.ycombinator.com/item?id=46124205) - [100k TPS over a billion rows: the unreasonable effectiveness of SQLite](https://andersmurphy.com/2025/12/02/100000-tps-over-a-billion-rows-the-unreasonable-effectiveness-of-sqlite.html)
 * [2025-12-02, 17:58:11](https://news.ycombinator.com/item?id=46124179) - [School cell phone bans and student achievement](https://www.nber.org/digest/202512/school-cell-phone-bans-and-student-achievement)
+* [2025-12-02, 15:01:53](https://news.ycombinator.com/item?id=46121889) - [Mistral 3 family of models released](https://mistral.ai/news/mistral-3)
 * [2025-12-02, 15:00:16](https://news.ycombinator.com/item?id=46121870) - [OpenAI declares 'code red' as Google catches up in AI race](https://www.theverge.com/news/836212/openai-code-red-chatgpt)
 * [2025-12-02, 14:31:16](https://news.ycombinator.com/item?id=46121539) - [Zig's new plan for asynchronous programs](https://lwn.net/SubscriberLink/1046084/4c048ee008e1c70e/)
 * [2025-12-02, 12:38:28](https://news.ycombinator.com/item?id=46120611) - [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
@@ -23,7 +23,7 @@
 * [2025-12-01, 17:43:10](https://news.ycombinator.com/item?id=46110395) - [All about automotive lidar](https://mainstreetautonomy.com/blog/2025-08-29-all-about-automotive-lidar/)
 * [2025-11-30, 07:27:25](https://news.ycombinator.com/item?id=46094606) - [Qwen3-VL can scan two-hour videos and pinpoint nearly every detail](https://the-decoder.com/qwen3-vl-can-scan-two-hour-videos-and-pinpoint-nearly-every-detail/)
 * [2025-11-30, 06:56:33](https://news.ycombinator.com/item?id=46094460) - [I designed and printed a custom nose guard to help my dog with DLE](https://snoutcover.com/billie-story)
-* [2025-11-27, 10:52:15](https://news.ycombinator.com/item?id=46067995) - [AI Agents Break Rules Under Everyday Pressure](https://spectrum.ieee.org/ai-agents-safety)
+* [2025-11-27, 10:52:15](https://news.ycombinator.com/item?id=46067995) - [AI agents break rules under everyday pressure](https://spectrum.ieee.org/ai-agents-safety)
 * [2025-11-26, 19:02:31](https://news.ycombinator.com/item?id=46061133) - [Load ZX Spectrum – first Museum dedicated to our first personal computer](https://loadzx.com/en/)
 * [2025-11-26, 10:57:32](https://news.ycombinator.com/item?id=46056181) - [Practical Intro to Operational Transformation](https://archive.casouri.cc/note/2025/practical-intro-ot/)
 * [2025-11-26, 05:32:28](https://news.ycombinator.com/item?id=46054467) - [Super fast aggregations in PostgreSQL 19](https://www.cybertec-postgresql.com/en/super-fast-aggregations-in-postgresql-19/)
