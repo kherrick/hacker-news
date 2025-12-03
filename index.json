@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-12-03, 04:13:41",
+      "https://news.ycombinator.com/item?id=46130233"
+    ],
+    [
+      "Understanding ECDSA",
+      "https://avidthinker.github.io/2025/11/28/understanding-ecdsa/"
+    ]
+  ],
+  [
+    [
       "2025-12-03, 02:06:25",
       "https://news.ycombinator.com/item?id=46129476"
     ],
@@ -71,16 +81,6 @@
   ],
   [
     [
-      "2025-12-02, 19:05:54",
-      "https://news.ycombinator.com/item?id=46125184"
-    ],
-    [
-      "Claude 4.5 Opus’ Soul Document",
-      "https://www.lesswrong.com/posts/vpNG99GhbBoLov9og/claude-4-5-opus-soul-document"
-    ]
-  ],
-  [
-    [
       "2025-12-02, 19:04:31",
       "https://news.ycombinator.com/item?id=46125155"
     ],
@@ -141,16 +141,6 @@
   ],
   [
     [
-      "2025-12-02, 17:48:33",
-      "https://news.ycombinator.com/item?id=46124063"
-    ],
-    [
-      "The Junior Hiring Crisis",
-      "https://people-work.io/blog/junior-hiring-crisis/"
-    ]
-  ],
-  [
-    [
       "2025-12-02, 15:01:53",
       "https://news.ycombinator.com/item?id=46121889"
     ],
@@ -187,6 +177,16 @@
     [
       "Python Data Science Handbook",
       "https://jakevdp.github.io/PythonDataScienceHandbook/"
+    ]
+  ],
+  [
+    [
+      "2025-12-02, 12:28:34",
+      "https://news.ycombinator.com/item?id=46120549"
+    ],
+    [
+      "A series of vignettes from my childhood and early career",
+      "https://www.jasonscheirer.com/weblog/vignettes/"
     ]
   ],
   [
@@ -241,6 +241,16 @@
   ],
   [
     [
+      "2025-11-27, 10:52:15",
+      "https://news.ycombinator.com/item?id=46067995"
+    ],
+    [
+      "AI Agents Break Rules Under Everyday Pressure",
+      "https://spectrum.ieee.org/ai-agents-safety"
+    ]
+  ],
+  [
+    [
       "2025-11-26, 19:02:31",
       "https://news.ycombinator.com/item?id=46061133"
     ],
@@ -257,16 +267,6 @@
     [
       "Practical Intro to Operational Transformation",
       "https://archive.casouri.cc/note/2025/practical-intro-ot/"
-    ]
-  ],
-  [
-    [
-      "2025-11-26, 03:54:09",
-      "https://news.ycombinator.com/item?id=46054026"
-    ],
-    [
-      "StutterZero: Speech Conversion for Stuttering Transcription and Correction",
-      "https://arxiv.org/abs/2510.18938"
     ]
   ],
   [
