@@ -3,7 +3,6 @@
 * [2025-12-03, 21:56:37](https://news.ycombinator.com/item?id=46140753) - [Greeting Vocalizations in Domestic Cats Are More Frequent with Male Caregivers](https://onlinelibrary.wiley.com/doi/10.1111/eth.70033)
 * [2025-12-03, 21:16:11](https://news.ycombinator.com/item?id=46140244) - [8086 Microcode Browser](https://nand2mario.github.io/posts/2025/8086_microcode_browser/)
 * [2025-12-03, 20:57:02](https://news.ycombinator.com/item?id=46140038) - [Chips for the Rest of Us](https://engineering.nyu.edu/about/unconventional-engineer/chips-for-us)
-* [2025-12-03, 20:47:45](https://news.ycombinator.com/item?id=46139905) - [Agentic Development Environment by JetBrains](https://air.dev)
 * [2025-12-03, 20:37:08](https://news.ycombinator.com/item?id=46139782) - [Checked-size array parameters in C](https://lwn.net/SubscriberLink/1046840/3eb9029084cc9e1e/)
 * [2025-12-03, 20:35:27](https://news.ycombinator.com/item?id=46139761) - [Show HN: I built a dashboard to compare mortgage rates across 120 credit unions](https://finfam.app/blog/credit-union-mortgages)
 * [2025-12-03, 19:37:25](https://news.ycombinator.com/item?id=46138952) - [Everyone in Seattle hates AI](https://jonready.com/blog/posts/everyone-in-seattle-hates-ai.html)
@@ -28,6 +27,7 @@
 * [2025-11-30, 13:39:52](https://news.ycombinator.com/item?id=46096552) - [Apple Desktop Bus Protocol (2021)](https://www.lopaciuk.eu/2021/03/26/apple-adb-protocol.html)
 * [2025-11-28, 09:23:38](https://news.ycombinator.com/item?id=46077047) - [Cross-Compiling Common Lisp to WASM](https://turtleware.eu/posts/Common-Lisp-and-WebAssembly.html)
 * [2025-11-27, 19:04:56](https://news.ycombinator.com/item?id=46072280) - [How to Synthesize a House Loop](https://loopmaster.xyz/tutorials/how-to-synthesize-a-house-loop)
+* [2025-11-27, 12:42:04](https://news.ycombinator.com/item?id=46068731) - [Solving the Partridge square packing problem using MiniZinc](https://zayenz.se/blog/post/partridge-packing/)
 * [2025-11-26, 12:18:40](https://news.ycombinator.com/item?id=46056708) - [R packages for data science](https://tidyverse.org/)
 * [2025-11-25, 21:12:36](https://news.ycombinator.com/item?id=46050855) - [A Look at Rust from 2012](https://purplesyringa.moe/blog/a-look-at-rust-from-2012/)
 

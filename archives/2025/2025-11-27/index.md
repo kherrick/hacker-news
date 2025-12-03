@@ -47,6 +47,7 @@
 * [2025-11-27, 13:28:34](https://news.ycombinator.com/item?id=46069048) - [TPUs vs. GPUs and why Google is positioned to win AI race in the long term](https://www.uncoveralpha.com/p/the-chip-made-for-the-ai-inference)
 * [2025-11-27, 13:00:17](https://news.ycombinator.com/item?id=46068847) - [Show HN: MkSlides – Markdown to slides with a similar workflow to MkDocs](https://github.com/MartenBE/mkslides)
 * [2025-11-27, 12:48:12](https://news.ycombinator.com/item?id=46068777) - [The State of GPL Propagation to AI Models](https://shujisado.org/2025/11/27/gpl-propagates-to-ai-models-trained-on-gpl-code/)
+* [2025-11-27, 12:42:04](https://news.ycombinator.com/item?id=46068731) - [Solving the Partridge square packing problem using MiniZinc](https://zayenz.se/blog/post/partridge-packing/)
 * [2025-11-27, 12:39:06](https://news.ycombinator.com/item?id=46068716) - [AGI is not possible even in 10 years](https://medium.com/@anwarzaid76/agi-is-not-possible-even-in-10-years-013a1aec0d9c)
 * [2025-11-27, 12:06:36](https://news.ycombinator.com/item?id=46068490) - [Docker Superpowers You Forget to Use](https://oneuptime.com/blog/post/2025-11-27-ten-docker-superpowers-youre-probably-not-using/view)
 * [2025-11-27, 11:11:46](https://news.ycombinator.com/item?id=46068147) - [C64 Burrow.BAS](https://basic-code.bearblog.dev/c64-burrow/)
