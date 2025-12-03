@@ -26,6 +26,7 @@
 * [2025-11-26, 19:12:40](https://news.ycombinator.com/item?id=46061239) - [Alan.app – Add a Border to macOS Active Window](https://tyler.io/2025/11/alan/)
 * [2025-11-26, 19:12:26](https://news.ycombinator.com/item?id=46061232) - [API that auto-routes to the cheapest AI provider (OpenAI/Anthropic/Gemini)](https://tokensaver.org/)
 * [2025-11-26, 19:10:24](https://news.ycombinator.com/item?id=46061208) - [Fara-7B by Microsoft: An agentic small language model designed for computer use](https://github.com/microsoft/fara)
+* [2025-11-26, 19:09:13](https://news.ycombinator.com/item?id=46061193) - [I made maps that show time instead of space [video]](https://www.youtube.com/watch?v=rC2VQ-oyDG0)
 * [2025-11-26, 19:02:31](https://news.ycombinator.com/item?id=46061133) - [Load ZX Spectrum – first Museum dedicated to our first personal computer](https://loadzx.com/en/)
 * [2025-11-26, 18:45:43](https://news.ycombinator.com/item?id=46060935) - [China Has Three Reusable Rockets Ready for Their Debut Flights](https://www.china-in-space.com/p/china-has-three-reusable-rockets)
 * [2025-11-26, 18:08:02](https://news.ycombinator.com/item?id=46060508) - [Gemini CLI Tips and Tricks for Agentic Coding](https://github.com/addyosmani/gemini-cli-tips)
