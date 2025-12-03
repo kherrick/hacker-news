@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-12-03](index.md)
 
+* [2025-12-03, 16:03:27](https://news.ycombinator.com/item?id=46136067) - [Critical RCE Vulnerabilities in React and Next.js](https://www.wiz.io/blog/critical-vulnerability-in-react-cve-2025-55182)
+* [2025-12-03, 16:00:19](https://news.ycombinator.com/item?id=46136023) - [MinIO is now in maintenance-mode](https://github.com/minio/minio/commit/27742d469462e1561c776f88ca7a1f26816d69e2)
+* [2025-12-03, 15:32:57](https://news.ycombinator.com/item?id=46135661) - [VA staff flag dangerous errors in Oracle-built electronic health record](https://www.washingtonpost.com/investigations/2025/12/03/veterans-administration-va-hospitals-health/)
 * [2025-12-03, 15:30:30](https://news.ycombinator.com/item?id=46135627) - [Why are my headphones buzzing whenever I run my game?](https://alexene.dev/2025/12/03/Why-do-my-headphones-buzz-when-i-run-my-game.html)
 * [2025-12-03, 15:11:58](https://news.ycombinator.com/item?id=46135388) - [Microsoft lowers AI software sales quota](https://finance.yahoo.com/news/microsoft-lowers-ai-software-sales-141531121.html)
 * [2025-12-03, 14:42:02](https://news.ycombinator.com/item?id=46135008) - [Mapping Every Dollar of America's $5T Healthcare System](https://healthisotherpeople.substack.com/p/an-abominable-creature)
