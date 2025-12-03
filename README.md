@@ -1,5 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-12-03, 15:11:58](https://news.ycombinator.com/item?id=46135388) - [Microsoft lowers AI software sales quota](https://finance.yahoo.com/news/microsoft-lowers-ai-software-sales-141531121.html)
+* [2025-12-03, 14:42:02](https://news.ycombinator.com/item?id=46135008) - [Mapping Every Dollar of America's $5T Healthcare System](https://healthisotherpeople.substack.com/p/an-abominable-creature)
+* [2025-12-03, 14:40:25](https://news.ycombinator.com/item?id=46134991) - [GSWT: Gaussian Splatting Wang Tiles](https://yunfan.zone/gswt_webpage/)
 * [2025-12-03, 13:50:10](https://news.ycombinator.com/item?id=46134443) - [Congressional lawmakers 47% pts better at picking stocks](https://www.nber.org/papers/w34524)
 * [2025-12-03, 13:20:58](https://news.ycombinator.com/item?id=46134178) - [Helldivers 2 devs slash install size from 154GB to 23GB](https://www.tomshardware.com/video-games/pc-gaming/helldivers-2-install-size-slashed-from-154gb-to-just-23gb-85-percent-reduction-accomplished-by-de-duplicating-game-data-an-optimization-for-older-mechanical-hard-drives)
 * [2025-12-03, 12:14:34](https://news.ycombinator.com/item?id=46133622) - [You Can't Fool the Optimizer](https://xania.org/202512/03-more-adding-integers)
@@ -12,12 +15,10 @@
 * [2025-12-03, 04:32:16](https://news.ycombinator.com/item?id=46130335) - [Interview with RollerCoaster Tycoon's Creator, Chris Sawyer (2024)](https://medium.com/atari-club/interview-with-rollercoaster-tycoons-creator-chris-sawyer-684a0efb0f13)
 * [2025-12-03, 04:13:41](https://news.ycombinator.com/item?id=46130233) - [Understanding ECDSA](https://avidthinker.github.io/2025/11/28/understanding-ecdsa/)
 * [2025-12-02, 20:14:20](https://news.ycombinator.com/item?id=46126217) - [Paged Out](https://pagedout.institute)
-* [2025-12-02, 19:04:31](https://news.ycombinator.com/item?id=46125155) - [Amazon launches Trainium3](https://techcrunch.com/2025/12/02/amazon-releases-an-impressive-new-ai-chip-and-teases-a-nvidia-friendly-roadmap/)
 * [2025-12-02, 18:10:23](https://news.ycombinator.com/item?id=46124324) - [IBM CEO says there is 'no way' spending on AI data centers will pay off](https://www.businessinsider.com/ibm-ceo-big-tech-ai-capex-data-center-spending-2025-12)
 * [2025-12-02, 18:05:44](https://news.ycombinator.com/item?id=46124267) - [Anthropic acquires Bun](https://bun.com/blog/bun-joins-anthropic)
 * [2025-12-02, 15:00:16](https://news.ycombinator.com/item?id=46121870) - [OpenAI declares 'code red' as Google catches up in AI race](https://www.theverge.com/news/836212/openai-code-red-chatgpt)
 * [2025-12-02, 14:31:16](https://news.ycombinator.com/item?id=46121539) - [Zig's new plan for asynchronous programs](https://lwn.net/SubscriberLink/1046084/4c048ee008e1c70e/)
-* [2025-12-01, 17:43:10](https://news.ycombinator.com/item?id=46110395) - [All about automotive lidar](https://mainstreetautonomy.com/blog/2025-08-29-all-about-automotive-lidar/)
 * [2025-11-30, 07:27:25](https://news.ycombinator.com/item?id=46094606) - [Qwen3-VL can scan two-hour videos and pinpoint nearly every detail](https://the-decoder.com/qwen3-vl-can-scan-two-hour-videos-and-pinpoint-nearly-every-detail/)
 * [2025-11-30, 06:56:33](https://news.ycombinator.com/item?id=46094460) - [I designed and printed a custom nose guard to help my dog with DLE](https://snoutcover.com/billie-story)
 * [2025-11-28, 21:42:02](https://news.ycombinator.com/item?id=46083014) - [Optimizations in C++ compilers: a practical journey](https://queue.acm.org/detail.cfm?id=3372264)
@@ -29,7 +30,6 @@
 * [2025-11-26, 00:09:19](https://news.ycombinator.com/item?id=46052478) - [Learning music with Strudel](https://terryds.notion.site/Learning-Music-with-Strudel-2ac98431b24180deb890cc7de667ea92)
 * [2025-11-25, 21:15:05](https://news.ycombinator.com/item?id=46050884) - [What, if anything, is universal to music cognition? (2024)](https://www.nature.com/articles/s41562-023-01800-9)
 * [2025-11-25, 21:12:36](https://news.ycombinator.com/item?id=46050855) - [A Look at Rust from 2012](https://purplesyringa.moe/blog/a-look-at-rust-from-2012/)
-* [2025-11-25, 20:51:33](https://news.ycombinator.com/item?id=46050624) - [Counter Galois Onion: Improved encryption for Tor circuit traffic](https://blog.torproject.org/introducing-cgo/)
 
 ## [Archives](archives/index.md)
 
