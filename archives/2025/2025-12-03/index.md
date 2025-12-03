@@ -18,6 +18,7 @@
 * [2025-12-03, 18:56:22](https://news.ycombinator.com/item?id=46138444) - ['Carspreading' is on the rise – and not everyone is happy about it](https://www.bbc.co.uk/news/articles/cy7vdvl2531o)
 * [2025-12-03, 18:40:06](https://news.ycombinator.com/item?id=46138238) - [Ghostty Is Now Non-Profit](https://mitchellh.com/writing/ghostty-non-profit)
 * [2025-12-03, 18:39:04](https://news.ycombinator.com/item?id=46138226) - [Formally verifying Advent of Code using Dijkstra's program construction](https://haripm.com/blog/aoc-day-3-without-thinking/)
+* [2025-12-03, 18:18:23](https://news.ycombinator.com/item?id=46137953) - [Show HN: Microlandia, a brutally honest city builder](https://microlandia.city)
 * [2025-12-03, 18:09:49](https://news.ycombinator.com/item?id=46137845) - [Stop Talking](https://gurkan.in/2025/12/stop-talking/)
 * [2025-12-03, 18:04:32](https://news.ycombinator.com/item?id=46137783) - [Micron Announces Exit from Crucial Consumer Business](https://investors.micron.com/news-releases/news-release-details/micron-announces-exit-crucial-consumer-business)
 * [2025-12-03, 18:01:11](https://news.ycombinator.com/item?id=46137746) - [Prompt Injection via Poetry](https://www.wired.com/story/poems-can-trick-ai-into-helping-you-make-a-nuclear-weapon/)
