@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2025-12-03, 16:00:23",
+      "https://news.ycombinator.com/item?id=46136026"
+    ],
+    [
+      "RCE Vulnerability in React and Next.js",
+      "https://github.com/vercel/next.js/security/advisories/GHSA-9qr9-h5gf-34mp"
+    ]
+  ],
+  [
+    [
       "2025-12-03, 16:00:19",
       "https://news.ycombinator.com/item?id=46136023"
     ],
@@ -161,16 +171,6 @@
   ],
   [
     [
-      "2025-12-03, 06:07:22",
-      "https://news.ycombinator.com/item?id=46130784"
-    ],
-    [
-      "Quad9 DOH HTTP/1.1 Retirement, December 15, 2025",
-      "https://quad9.net/news/blog/doh-http-1-1-retirement/"
-    ]
-  ],
-  [
-    [
       "2025-12-03, 04:32:16",
       "https://news.ycombinator.com/item?id=46130335"
     ],
@@ -231,22 +231,22 @@
   ],
   [
     [
+      "2025-11-28, 21:56:21",
+      "https://news.ycombinator.com/item?id=46083133"
+    ],
+    [
+      "universal-tbxi-patchset: Mac OS New World ROM patchset to boot System 7.5",
+      "https://github.com/Wack0/universal-tbxi-patchset"
+    ]
+  ],
+  [
+    [
       "2025-11-28, 21:42:02",
       "https://news.ycombinator.com/item?id=46083014"
     ],
     [
       "Optimizations in C++ compilers: a practical journey",
       "https://queue.acm.org/detail.cfm?id=3372264"
-    ]
-  ],
-  [
-    [
-      "2025-11-27, 19:10:56",
-      "https://news.ycombinator.com/item?id=46072323"
-    ],
-    [
-      "Trying Out C++26 Executors",
-      "https://mropert.github.io/2025/11/21/trying_out_stdexec/"
     ]
   ],
   [
