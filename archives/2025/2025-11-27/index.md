@@ -8,6 +8,7 @@
 * [2025-11-27, 23:47:07](https://news.ycombinator.com/item?id=46074222) - [Shrinking While Linking](https://www.tweag.io/blog/2025-11-27-shrinking-static-libs/)
 * [2025-11-27, 23:42:00](https://news.ycombinator.com/item?id=46074183) - [ML-KEM Mythbusting](https://keymaterial.net/2025/11/27/ml-kem-mythbusting/)
 * [2025-11-27, 23:30:11](https://news.ycombinator.com/item?id=46074111) - [Vsora Jotunn-8 5nm European inference chip](https://vsora.com/products/jotunn-8/)
+* [2025-11-27, 23:05:54](https://news.ycombinator.com/item?id=46073978) - [Mathematics is hard for mathematicians to understand too](https://www.science.org/doi/10.1126/science.aec9014)
 * [2025-11-27, 22:50:26](https://news.ycombinator.com/item?id=46073862) - [Show HN: Whole-home VPN router with hardware kill switch (OpenWrt and WireGuard)](https://github.com/yoloshii/privacy-first-network)
 * [2025-11-27, 22:48:44](https://news.ycombinator.com/item?id=46073855) - [250MWh 'Sand Battery' to start construction in Finland](https://www.energy-storage.news/250mwh-sand-battery-to-start-construction-in-finland-for-both-heating-and-ancillary-services/)
 * [2025-11-27, 22:41:06](https://news.ycombinator.com/item?id=46073817) - [A Programmer-Friendly I/O Abstraction Over io_uring and kqueue](https://tigerbeetle.com/blog/2022-11-23-a-friendly-abstraction-over-iouring-and-kqueue/)
