@@ -1,16 +1,6 @@
 [
   [
     [
-      "2025-12-03, 19:39:50",
-      "https://news.ycombinator.com/item?id=46138984"
-    ],
-    [
-      "No room for error – A case study of Gleam in production at Uncover",
-      "https://gleam.run/case-studies/uncover/"
-    ]
-  ],
-  [
-    [
       "2025-12-03, 19:37:25",
       "https://news.ycombinator.com/item?id=46138952"
     ],
@@ -27,16 +17,6 @@
     [
       "Lie groups are crucial to some of the most fundamental theories in physics",
       "https://www.quantamagazine.org/what-are-lie-groups-20251203/"
-    ]
-  ],
-  [
-    [
-      "2025-12-03, 18:57:54",
-      "https://news.ycombinator.com/item?id=46138465"
-    ],
-    [
-      "Teaching an LLM a Niche Diagraming Language",
-      "https://www.huy.rocks/everyday/12-01-2025-ai-teaching-an-llm-a-niche-diagraming-language"
     ]
   ],
   [
@@ -231,6 +211,16 @@
   ],
   [
     [
+      "2025-12-03, 04:32:16",
+      "https://news.ycombinator.com/item?id=46130335"
+    ],
+    [
+      "Interview with RollerCoaster Tycoon's Creator, Chris Sawyer (2024)",
+      "https://medium.com/atari-club/interview-with-rollercoaster-tycoons-creator-chris-sawyer-684a0efb0f13"
+    ]
+  ],
+  [
+    [
       "2025-12-02, 20:33:10",
       "https://news.ycombinator.com/item?id=46126446"
     ],
@@ -287,6 +277,16 @@
     [
       "R packages for data science",
       "https://tidyverse.org/"
+    ]
+  ],
+  [
+    [
+      "2025-11-26, 05:32:28",
+      "https://news.ycombinator.com/item?id=46054467"
+    ],
+    [
+      "Super fast aggregations in PostgreSQL 19",
+      "https://www.cybertec-postgresql.com/en/super-fast-aggregations-in-postgresql-19/"
     ]
   ],
   [
