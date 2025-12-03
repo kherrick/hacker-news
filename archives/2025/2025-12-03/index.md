@@ -6,8 +6,10 @@
 
 * [2025-12-03, 19:37:25](https://news.ycombinator.com/item?id=46138952) - [Everyone in Seattle Hates AI](https://jonready.com/blog/posts/everyone-in-seattle-hates-ai.html)
 * [2025-12-03, 19:12:40](https://news.ycombinator.com/item?id=46138632) - [What Are Lie Groups?](https://www.quantamagazine.org/what-are-lie-groups-20251203/)
+* [2025-12-03, 18:57:54](https://news.ycombinator.com/item?id=46138465) - [Teaching an LLM a Niche Diagraming Language](https://www.huy.rocks/everyday/12-01-2025-ai-teaching-an-llm-a-niche-diagraming-language)
 * [2025-12-03, 18:56:22](https://news.ycombinator.com/item?id=46138444) - ['Carspreading' is on the rise – and not everyone is happy about it](https://www.bbc.co.uk/news/articles/cy7vdvl2531o)
 * [2025-12-03, 18:40:06](https://news.ycombinator.com/item?id=46138238) - [Ghostty Is Now Non-Profit](https://mitchellh.com/writing/ghostty-non-profit)
+* [2025-12-03, 18:39:04](https://news.ycombinator.com/item?id=46138226) - [Formally verifying Advent of Code using Dijkstra's program construction](https://haripm.com/blog/aoc-day-3-without-thinking/)
 * [2025-12-03, 18:09:49](https://news.ycombinator.com/item?id=46137845) - [Stop Talking](https://gurkan.in/2025/12/stop-talking/)
 * [2025-12-03, 18:04:32](https://news.ycombinator.com/item?id=46137783) - [Micron Announces Exit from Crucial Consumer Business](https://investors.micron.com/news-releases/news-release-details/micron-announces-exit-crucial-consumer-business)
 * [2025-12-03, 18:01:11](https://news.ycombinator.com/item?id=46137746) - [Prompt Injection via Poetry](https://www.wired.com/story/poems-can-trick-ai-into-helping-you-make-a-nuclear-weapon/)
@@ -33,6 +35,7 @@
 * [2025-12-03, 11:50:00](https://news.ycombinator.com/item?id=46133422) - [The \"Mad Men\" in 4K on HBO Max Debacle](http://fxrant.blogspot.com/2025/12/the-mad-men-in-4k-on-hbo-max-debacle.html)
 * [2025-12-03, 11:14:56](https://news.ycombinator.com/item?id=46133141) - [Are we repeating the telecoms crash with AI datacenters?](https://martinalderson.com/posts/are-we-really-repeating-the-telecoms-crash-with-ai-datacenters/)
 * [2025-12-03, 11:06:10](https://news.ycombinator.com/item?id=46133068) - [India scraps order to pre-install state-run cyber safety app on smartphones](https://www.bbc.com/news/articles/clydg2re4d1o)
+* [2025-12-03, 09:53:27](https://news.ycombinator.com/item?id=46132531) - [Anthropic taps IPO lawyers as it races OpenAI to go public](https://www.ft.com/content/3254fa30-5bdb-4c30-8560-7cd7ebbefc5f)
 * [2025-12-03, 09:53:27](https://news.ycombinator.com/item?id=46132531) - [Anthropic reportedly preparing for $300B IPO](https://vechron.com/2025/12/anthropic-hires-wilson-sonsini-ipo-2026-openai-race/)
 * [2025-12-03, 08:26:46](https://news.ycombinator.com/item?id=46131693) - [Codeberg Is Down](https://status.codeberg.org/status/codeberg)
 * [2025-12-03, 07:52:37](https://news.ycombinator.com/item?id=46131406) - [Zig quits GitHub, says Microsoft's AI obsession has ruined the service](https://www.theregister.com/2025/12/02/zig_quits_github_microsoft_ai_obsession/)
