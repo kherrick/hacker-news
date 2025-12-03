@@ -11,6 +11,7 @@
 * [2025-12-02, 21:14:38](https://news.ycombinator.com/item?id=46126964) - [Ecosia: The greenest AI is here](https://blog.ecosia.org/ecosia-ai/)
 * [2025-12-02, 21:09:10](https://news.ycombinator.com/item?id=46126906) - [We're Committing $6.25B to Give 25M Children a Financial Head Start](https://www.onedell.com/investamerica/)
 * [2025-12-02, 21:00:59](https://news.ycombinator.com/item?id=46126822) - [Delty (YC X25) Is Hiring](https://www.ycombinator.com/companies/delty/jobs/aPWMaiq-full-stack-software-engineer)
+* [2025-12-02, 20:33:10](https://news.ycombinator.com/item?id=46126446) - [Valve reveals it’s the architect behind a push to bring Windows games to Arm](https://www.theverge.com/report/820656/valve-interview-arm-gaming-steamos-pierre-loup-griffais)
 * [2025-12-02, 20:14:20](https://news.ycombinator.com/item?id=46126217) - [Paged Out](https://pagedout.institute)
 * [2025-12-02, 20:08:55](https://news.ycombinator.com/item?id=46126141) - [Free static site generator for small restaurants and cafes](https://lite.localcafe.org/)
 * [2025-12-02, 19:05:54](https://news.ycombinator.com/item?id=46125184) - [Claude 4.5 Opus’ Soul Document](https://www.lesswrong.com/posts/vpNG99GhbBoLov9og/claude-4-5-opus-soul-document)
