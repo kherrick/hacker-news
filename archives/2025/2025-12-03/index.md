@@ -9,6 +9,7 @@
 * [2025-12-03, 12:14:34](https://news.ycombinator.com/item?id=46133622) - [You Can't Fool the Optimizer](https://xania.org/202512/03-more-adding-integers)
 * [2025-12-03, 11:50:00](https://news.ycombinator.com/item?id=46133422) - [The \"Mad Men\" in 4K on HBO Max Debacle](http://fxrant.blogspot.com/2025/12/the-mad-men-in-4k-on-hbo-max-debacle.html)
 * [2025-12-03, 11:06:10](https://news.ycombinator.com/item?id=46133068) - [India scraps order to pre-install state-run cyber safety app on smartphones](https://www.bbc.com/news/articles/clydg2re4d1o)
+* [2025-12-03, 09:53:27](https://news.ycombinator.com/item?id=46132531) - [Anthropic reportedly preparing for $300B IPO](https://vechron.com/2025/12/anthropic-hires-wilson-sonsini-ipo-2026-openai-race/)
 * [2025-12-03, 08:26:46](https://news.ycombinator.com/item?id=46131693) - [Codeberg Is Down](https://status.codeberg.org/status/codeberg)
 * [2025-12-03, 07:52:37](https://news.ycombinator.com/item?id=46131406) - [Zig quits GitHub, says Microsoft's AI obsession has ruined the service](https://www.theregister.com/2025/12/02/zig_quits_github_microsoft_ai_obsession/)
 * [2025-12-03, 07:41:51](https://news.ycombinator.com/item?id=46131330) - [Accepting US car standards would risk European lives](https://etsc.eu/accepting-us-car-standards-would-risk-european-lives-warn-cities-and-civil-society/)

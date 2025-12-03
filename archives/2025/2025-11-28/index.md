@@ -10,6 +10,7 @@
 * [2025-11-28, 22:00:51](https://news.ycombinator.com/item?id=46083162) - [A Tale of Two AI Failures: Debugging a Simple Bug with LLMs](https://bitmovin.com/blog/hackathon-debugging-ai-tools-llms/)
 * [2025-11-28, 21:56:58](https://news.ycombinator.com/item?id=46083137) - [How to Short the Bubbliest Firms](https://www.economist.com/finance-and-economics/2025/11/26/how-to-short-the-bubbliest-firms)
 * [2025-11-28, 21:46:07](https://news.ycombinator.com/item?id=46083051) - [A first look at Django's new background tasks](https://roam.be/notes/2025/a-first-look-at-djangos-new-background-tasks/)
+* [2025-11-28, 21:42:02](https://news.ycombinator.com/item?id=46083014) - [Optimizations in C++ compilers: a practical journey](https://queue.acm.org/detail.cfm?id=3372264)
 * [2025-11-28, 21:40:21](https://news.ycombinator.com/item?id=46083004) - [Airbus A320 – intense solar radiation may corrupt data critical for flight](https://www.airbus.com/en/newsroom/press-releases/2025-11-airbus-update-on-a320-family-precautionary-fleet-action)
 * [2025-11-28, 21:16:46](https://news.ycombinator.com/item?id=46082825) - [Flight disruption warning as Airbus requests modifications to 6k planes](https://www.bbc.com/news/live/cvg4y6g74ert)
 * [2025-11-28, 21:16:03](https://news.ycombinator.com/item?id=46082821) - [The Secret Superfood of Thanksgiving](https://www.twopct.com/p/the-secret-superfood-of-thanksgiving)
