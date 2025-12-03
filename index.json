@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-12-03, 06:10:22",
+      "https://news.ycombinator.com/item?id=46130798"
+    ],
+    [
+      "AI Is Breaking the Moral Foundation of Modern Society",
+      "https://eyeofthesquid.com/ai-is-breaking-the-moral-foundation-of-modern-society-a145d471694f"
+    ]
+  ],
+  [
+    [
+      "2025-12-03, 06:07:22",
+      "https://news.ycombinator.com/item?id=46130784"
+    ],
+    [
+      "Quad9 DOH HTTP/1.1 Retirement, December 15, 2025",
+      "https://quad9.net/news/blog/doh-http-1-1-retirement/"
+    ]
+  ],
+  [
+    [
       "2025-12-03, 05:05:34",
       "https://news.ycombinator.com/item?id=46130506"
     ],
@@ -57,16 +77,6 @@
     [
       "DOOM could have had PC Speaker Music",
       "https://lenowo.org/viewtopic.php?t=45"
-    ]
-  ],
-  [
-    [
-      "2025-12-02, 21:14:38",
-      "https://news.ycombinator.com/item?id=46126964"
-    ],
-    [
-      "Ecosia: The greenest AI is here",
-      "https://blog.ecosia.org/ecosia-ai/"
     ]
   ],
   [
@@ -151,16 +161,6 @@
   ],
   [
     [
-      "2025-12-02, 15:01:53",
-      "https://news.ycombinator.com/item?id=46121889"
-    ],
-    [
-      "Mistral 3 family of models released",
-      "https://mistral.ai/news/mistral-3"
-    ]
-  ],
-  [
-    [
       "2025-12-02, 15:00:16",
       "https://news.ycombinator.com/item?id=46121870"
     ],
@@ -187,16 +187,6 @@
     [
       "Python Data Science Handbook",
       "https://jakevdp.github.io/PythonDataScienceHandbook/"
-    ]
-  ],
-  [
-    [
-      "2025-12-02, 11:30:29",
-      "https://news.ycombinator.com/item?id=46120181"
-    ],
-    [
-      "Addressing the adding situation",
-      "https://xania.org/202512/02-adding-integers"
     ]
   ],
   [
@@ -257,6 +247,16 @@
     [
       "Practical Intro to Operational Transformation",
       "https://archive.casouri.cc/note/2025/practical-intro-ot/"
+    ]
+  ],
+  [
+    [
+      "2025-11-26, 05:32:28",
+      "https://news.ycombinator.com/item?id=46054467"
+    ],
+    [
+      "Super fast aggregations in PostgreSQL 19",
+      "https://www.cybertec-postgresql.com/en/super-fast-aggregations-in-postgresql-19/"
     ]
   ],
   [
