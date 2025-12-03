@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-12-03](index.md)
 
+* [2025-12-03, 21:56:37](https://news.ycombinator.com/item?id=46140753) - [Greeting Vocalizations in Domestic Cats Are More Frequent with Male Caregivers](https://onlinelibrary.wiley.com/doi/10.1111/eth.70033)
 * [2025-12-03, 21:16:11](https://news.ycombinator.com/item?id=46140244) - [8086 Microcode Browser](https://nand2mario.github.io/posts/2025/8086_microcode_browser/)
 * [2025-12-03, 20:57:02](https://news.ycombinator.com/item?id=46140038) - [Chips for the Rest of Us](https://engineering.nyu.edu/about/unconventional-engineer/chips-for-us)
 * [2025-12-03, 20:47:45](https://news.ycombinator.com/item?id=46139905) - [Agentic Development Environment by JetBrains](https://air.dev)
@@ -12,6 +13,7 @@
 * [2025-12-03, 19:39:50](https://news.ycombinator.com/item?id=46138984) - [No room for error – A case study of Gleam in production at Uncover](https://gleam.run/case-studies/uncover/)
 * [2025-12-03, 19:37:25](https://news.ycombinator.com/item?id=46138952) - [Everyone in Seattle Hates AI](https://jonready.com/blog/posts/everyone-in-seattle-hates-ai.html)
 * [2025-12-03, 19:12:40](https://news.ycombinator.com/item?id=46138632) - [What Are Lie Groups?](https://www.quantamagazine.org/what-are-lie-groups-20251203/)
+* [2025-12-03, 19:00:03](https://news.ycombinator.com/item?id=46138493) - [The only winning move is not to play](https://gregg.io/the-only-winning-move)
 * [2025-12-03, 18:57:54](https://news.ycombinator.com/item?id=46138465) - [Teaching an LLM a Niche Diagraming Language](https://www.huy.rocks/everyday/12-01-2025-ai-teaching-an-llm-a-niche-diagraming-language)
 * [2025-12-03, 18:56:22](https://news.ycombinator.com/item?id=46138444) - ['Carspreading' is on the rise – and not everyone is happy about it](https://www.bbc.co.uk/news/articles/cy7vdvl2531o)
 * [2025-12-03, 18:40:06](https://news.ycombinator.com/item?id=46138238) - [Ghostty Is Now Non-Profit](https://mitchellh.com/writing/ghostty-non-profit)
