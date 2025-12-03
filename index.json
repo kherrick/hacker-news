@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-12-03, 08:26:46",
+      "https://news.ycombinator.com/item?id=46131693"
+    ],
+    [
+      "Codeberg Is Down",
+      "https://status.codeberg.org/status/codeberg"
+    ]
+  ],
+  [
+    [
       "2025-12-03, 07:52:37",
       "https://news.ycombinator.com/item?id=46131406"
     ],
@@ -151,16 +161,6 @@
   ],
   [
     [
-      "2025-12-02, 17:59:53",
-      "https://news.ycombinator.com/item?id=46124205"
-    ],
-    [
-      "100k TPS over a billion rows: the unreasonable effectiveness of SQLite",
-      "https://andersmurphy.com/2025/12/02/100000-tps-over-a-billion-rows-the-unreasonable-effectiveness-of-sqlite.html"
-    ]
-  ],
-  [
-    [
       "2025-12-02, 17:58:11",
       "https://news.ycombinator.com/item?id=46124179"
     ],
@@ -187,16 +187,6 @@
     [
       "Zig's new plan for asynchronous programs",
       "https://lwn.net/SubscriberLink/1046084/4c048ee008e1c70e/"
-    ]
-  ],
-  [
-    [
-      "2025-12-02, 12:38:28",
-      "https://news.ycombinator.com/item?id=46120611"
-    ],
-    [
-      "Python Data Science Handbook",
-      "https://jakevdp.github.io/PythonDataScienceHandbook/"
     ]
   ],
   [
@@ -247,6 +237,16 @@
     [
       "Load ZX Spectrum – first Museum dedicated to our first personal computer",
       "https://loadzx.com/en/"
+    ]
+  ],
+  [
+    [
+      "2025-11-26, 15:14:42",
+      "https://news.ycombinator.com/item?id=46058154"
+    ],
+    [
+      "The Writing Is on the Wall for Handwriting Recognition",
+      "https://newsletter.dancohen.org/archive/the-writing-is-on-the-wall-for-handwriting-recognition/"
     ]
   ],
   [
