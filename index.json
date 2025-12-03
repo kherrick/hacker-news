@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-12-03, 21:16:11",
+      "https://news.ycombinator.com/item?id=46140244"
+    ],
+    [
+      "8086 Microcode Browser",
+      "https://nand2mario.github.io/posts/2025/8086_microcode_browser/"
+    ]
+  ],
+  [
+    [
       "2025-12-03, 20:57:02",
       "https://news.ycombinator.com/item?id=46140038"
     ],
@@ -17,6 +27,16 @@
     [
       "Agentic Development Environment by JetBrains",
       "https://air.dev"
+    ]
+  ],
+  [
+    [
+      "2025-12-03, 20:37:08",
+      "https://news.ycombinator.com/item?id=46139782"
+    ],
+    [
+      "Checked-size array parameters in C",
+      "https://lwn.net/SubscriberLink/1046840/3eb9029084cc9e1e/"
     ]
   ],
   [
@@ -221,26 +241,6 @@
   ],
   [
     [
-      "2025-12-03, 07:52:37",
-      "https://news.ycombinator.com/item?id=46131406"
-    ],
-    [
-      "Zig quits GitHub, says Microsoft's AI obsession has ruined the service",
-      "https://www.theregister.com/2025/12/02/zig_quits_github_microsoft_ai_obsession/"
-    ]
-  ],
-  [
-    [
-      "2025-12-03, 04:32:16",
-      "https://news.ycombinator.com/item?id=46130335"
-    ],
-    [
-      "Interview with RollerCoaster Tycoon's Creator, Chris Sawyer (2024)",
-      "https://medium.com/atari-club/interview-with-rollercoaster-tycoons-creator-chris-sawyer-684a0efb0f13"
-    ]
-  ],
-  [
-    [
       "2025-12-02, 20:33:10",
       "https://news.ycombinator.com/item?id=46126446"
     ],
@@ -261,12 +261,12 @@
   ],
   [
     [
-      "2025-11-30, 10:05:13",
-      "https://news.ycombinator.com/item?id=46095372"
+      "2025-11-28, 09:23:38",
+      "https://news.ycombinator.com/item?id=46077047"
     ],
     [
-      "Shrinking While Linking",
-      "https://www.tweag.io/blog/2025-11-27-shrinking-static-libs/"
+      "Cross-Compiling Common Lisp to WASM",
+      "https://turtleware.eu/posts/Common-Lisp-and-WebAssembly.html"
     ]
   ],
   [
