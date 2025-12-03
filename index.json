@@ -1,6 +1,36 @@
 [
   [
     [
+      "2025-12-03, 16:03:27",
+      "https://news.ycombinator.com/item?id=46136067"
+    ],
+    [
+      "Critical RCE Vulnerabilities in React and Next.js",
+      "https://www.wiz.io/blog/critical-vulnerability-in-react-cve-2025-55182"
+    ]
+  ],
+  [
+    [
+      "2025-12-03, 16:00:19",
+      "https://news.ycombinator.com/item?id=46136023"
+    ],
+    [
+      "MinIO is now in maintenance-mode",
+      "https://github.com/minio/minio/commit/27742d469462e1561c776f88ca7a1f26816d69e2"
+    ]
+  ],
+  [
+    [
+      "2025-12-03, 15:32:57",
+      "https://news.ycombinator.com/item?id=46135661"
+    ],
+    [
+      "VA staff flag dangerous errors in Oracle-built electronic health record",
+      "https://www.washingtonpost.com/investigations/2025/12/03/veterans-administration-va-hospitals-health/"
+    ]
+  ],
+  [
+    [
       "2025-12-03, 15:30:30",
       "https://news.ycombinator.com/item?id=46135627"
     ],
@@ -191,16 +221,6 @@
   ],
   [
     [
-      "2025-11-30, 07:27:25",
-      "https://news.ycombinator.com/item?id=46094606"
-    ],
-    [
-      "Qwen3-VL can scan two-hour videos and pinpoint nearly every detail",
-      "https://the-decoder.com/qwen3-vl-can-scan-two-hour-videos-and-pinpoint-nearly-every-detail/"
-    ]
-  ],
-  [
-    [
       "2025-11-30, 06:56:33",
       "https://news.ycombinator.com/item?id=46094460"
     ],
@@ -217,16 +237,6 @@
     [
       "Optimizations in C++ compilers: a practical journey",
       "https://queue.acm.org/detail.cfm?id=3372264"
-    ]
-  ],
-  [
-    [
-      "2025-11-28, 05:50:20",
-      "https://news.ycombinator.com/item?id=46075873"
-    ],
-    [
-      "Mission Critical Advanced Scheduling (ALAP/ASAP) System",
-      "https://github.com/rodmena-limited/scriptplan"
     ]
   ],
   [
@@ -277,16 +287,6 @@
     [
       "Super fast aggregations in PostgreSQL 19",
       "https://www.cybertec-postgresql.com/en/super-fast-aggregations-in-postgresql-19/"
-    ]
-  ],
-  [
-    [
-      "2025-11-26, 00:09:19",
-      "https://news.ycombinator.com/item?id=46052478"
-    ],
-    [
-      "Learning music with Strudel",
-      "https://terryds.notion.site/Learning-Music-with-Strudel-2ac98431b24180deb890cc7de667ea92"
     ]
   ],
   [
