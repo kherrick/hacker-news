@@ -129,6 +129,138 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
+        <section id="46137548">
+          <h3>
+            <a class="item" href="https://news.ycombinator.com/item?id=46137548"
+              >Launch HN: Phind 3 (YC S22) – Every answer is a mini-app</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2025-12-03 @ 17:47:15</span
+              ><span class="points-container"
+                >Points: <span class="points">22</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=46137548"
+                  >Comments</a
+                ><span class="descendants">: 14</span></span
+              >
+            </h4>
+            <div class="text">
+              <p>
+                We are launching Phind 3 (<a href="https://www.phind.com"
+                  >https://www.phind.com</a
+                >), an AI answer engine that instantly builds a complete
+                mini-app to answer and visualize your questions in an
+                interactive way. A Phind mini-app appears as a beautiful,
+                interactive webpage — with images, charts, diagrams, maps, and
+                other widgets. Phind 3 doesn’t just present information more
+                beautifully; interacting with these widgets dynamically updates
+                the content on the page and enables new functionality that
+                wasn’t possible before.
+              </p>
+              <p>
+                For example, asking Phind for “options for a one-bedroom
+                apartment in the Lower East Side” (<a
+                  href="https://www.phind.com/search/find-me-options-for-a-72e019ce-9524-4611-82d8-9f556d30cac2"
+                  >https://www.phind.com/search/find-me-options-for-a-72e019ce-...</a
+                >) gives an interactive apartment-finding experience with
+                customizable filters and a map view. And asking for a “recipe
+                for bone-in chicken thighs” gives you a customizable recipe
+                where changing the seasoning, cooking method, and other
+                parameters will update the recipe content itself in real-time
+                (<a
+                  href="https://www.phind.com/search/make-me-an-recipe-for-7c30ea6c-7395-41b7-ad75-7b6a5a3981f9"
+                  >https://www.phind.com/search/make-me-an-recipe-for-7c30ea6c-...</a
+                >).
+              </p>
+              <p>
+                Unlike Phind 2 and ChatGPT apps, which use pre-built brittle
+                widgets that can’t truly adapt to your task, Phind 3 is able to
+                create tools and widgets for itself in real-time. We learned
+                this lesson the hard way with our previous launch – the
+                pre-built widgets made the answers much prettier, but they
+                didn’t fundamentally enable new functionality. For example,
+                asking for “Give me round-trip flight options from JFK to SEA on
+                Delta from December 1st-5th in both miles and cash” (<a
+                  href="https://www.phind.com/search/give-me-round-trip-flight-c0ebe523-5ded-4038-9f68-4c6653871614"
+                  >https://www.phind.com/search/give-me-round-trip-flight-c0ebe...</a
+                >) is not something that neither Phind 2 nor ChatGPT apps can
+                handle, because its Expedia widget can only display cash fares
+                and not those with points. We realized that Phind needs to be
+                able to create and consume its own tools, with schema it
+                designs, all in real time. Phind 3’s ability to design and
+                create fully custom widgets in real-time means that it can
+                answer these questions while these other tools can’t. Phind 3
+                now generates raw React code and is able to create any tool to
+                harness its underlying AI answer, search, and code execution
+                capabilities.
+              </p>
+              <p>
+                Building on our history of helping developers solve complex
+                technical questions, Phind 3 is able to answer and visualize
+                developers’ questions like never before. For example, asking to
+                “visualize quicksort” (<a
+                  href="https://www.phind.com/search/make-me-a-beautiful-visualization-ee7a7f4a-0606-4250-bdfc-08be51c76e1a"
+                  >https://www.phind.com/search/make-me-a-beautiful-visualizati...</a
+                >) gives an interactive step-by-step walkthrough of how the
+                algorithm works.
+              </p>
+              <p>
+                Phind 3 can help visualize and bring your ideas to life in
+                seconds — you can ask it to “make me a 3D Minecraft simulation”
+                (<a
+                  href="https://www.phind.com/search/make-me-a-3d-minecraft-fde7033f-8846-446c-9e27-6c50c19358b3"
+                  >https://www.phind.com/search/make-me-a-3d-minecraft-fde7033f...</a
+                >) or “make me a 3D roller coaster simulation” (<a
+                  href="https://www.phind.com/search/make-me-a-3d-roller-472647fc-e475-4e11-80d6-2c0c1a951995"
+                  >https://www.phind.com/search/make-me-a-3d-roller-472647fc-e4...</a
+                >).
+              </p>
+              <p>
+                Our goal with Phind 3 is to usher in the era of on-demand
+                software. You shouldn’t have to compromise by either settling
+                for text-based AI conversations or using pre-built webpages that
+                weren’t customized for you. With Phind 3, we create a “personal
+                internet” for you with the visualization and interactivity of
+                the internet combined with the customization possible with AI.
+                We think that this current “chat” era of AI is akin to the era
+                of text-only interfaces in computers. The Mac ushering in the
+                GUI in 1984 didn’t just make computer outputs prettier — it
+                ushered in a whole new era of interactivity and possibilities.
+                We aim to do that now with AI.
+              </p>
+              <p>On a technical level, we are particularly excited about:</p>
+              <p>
+                - Phind 3’s ability to create its own tools with its own custom
+                schema and then consume them
+              </p>
+              <p>
+                - Significant improvements in agentic searching and a new deep
+                research mode to surface hard-to-access information
+              </p>
+              <p>
+                - All-new custom Phind models that blend speed and quality. The
+                new Phind Fast model is based on GLM-4.5-Air while the new Phind
+                Large model is based on GLM 4.6. Both models are
+                state-of-the-art when it comes to reliable code generation,
+                producing over 70% fewer errors than GPT-5.1-Codex (high) on our
+                internal mini-app generation benchmark. Furthermore, we trained
+                custom Eagle3 heads for both Phind Fast and Phind Large for fast
+                inference. Phind Fast runs at up to 300 tokens per second, and
+                Phind Large runs at up to 200 tokens per second, making them the
+                fastest Phind models ever.
+              </p>
+              <p>
+                While we have done Show HNs before for previous Phind versions,
+                we’ve never actually done a proper Launch HN for Phind. As
+                always, we can’t wait to hear your feedback! We are also hiring,
+                so please don’t hesitate to reach out.
+              </p>
+              <p>– Michael</p>
+            </div>
+          </section>
+        </section>
         <section id="46137253">
           <h3>
             <a
@@ -141,11 +273,11 @@
             <h4>
               <span>2025-12-03 @ 17:24:49</span
               ><span class="points-container"
-                >Points: <span class="points">43</span></span
+                >Points: <span class="points">95</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46137253"
                   >Comments</a
-                ><span class="descendants">: 7</span></span
+                ><span class="descendants">: 20</span></span
               >
             </h4>
           </section>
@@ -181,11 +313,11 @@
             <h4>
               <span>2025-12-03 @ 17:00:13</span
               ><span class="points-container"
-                >Points: <span class="points">97</span></span
+                >Points: <span class="points">176</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46136901"
                   >Comments</a
-                ><span class="descendants">: 34</span></span
+                ><span class="descendants">: 83</span></span
               >
             </h4>
           </section>
@@ -202,11 +334,11 @@
             <h4>
               <span>2025-12-03 @ 16:03:27</span
               ><span class="points-container"
-                >Points: <span class="points">120</span></span
+                >Points: <span class="points">122</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46136067"
                   >Comments</a
-                ><span class="descendants">: 52</span></span
+                ><span class="descendants">: 58</span></span
               >
             </h4>
           </section>
@@ -223,11 +355,11 @@
             <h4>
               <span>2025-12-03 @ 16:00:23</span
               ><span class="points-container"
-                >Points: <span class="points">76</span></span
+                >Points: <span class="points">121</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46136026"
                   >Comments</a
-                ><span class="descendants">: 21</span></span
+                ><span class="descendants">: 34</span></span
               >
             </h4>
           </section>
@@ -244,11 +376,11 @@
             <h4>
               <span>2025-12-03 @ 16:00:19</span
               ><span class="points-container"
-                >Points: <span class="points">165</span></span
+                >Points: <span class="points">204</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46136023"
                   >Comments</a
-                ><span class="descendants">: 109</span></span
+                ><span class="descendants">: 125</span></span
               >
             </h4>
           </section>
@@ -266,11 +398,11 @@
             <h4>
               <span>2025-12-03 @ 15:32:57</span
               ><span class="points-container"
-                >Points: <span class="points">47</span></span
+                >Points: <span class="points">62</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46135661"
                   >Comments</a
-                ><span class="descendants">: 6</span></span
+                ><span class="descendants">: 9</span></span
               >
             </h4>
           </section>
@@ -287,32 +419,11 @@
             <h4>
               <span>2025-12-03 @ 15:30:30</span
               ><span class="points-container"
-                >Points: <span class="points">68</span></span
+                >Points: <span class="points">73</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46135627"
                   >Comments</a
-                ><span class="descendants">: 60</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="46135388">
-          <h3>
-            <a
-              class="item"
-              href="https://finance.yahoo.com/news/microsoft-lowers-ai-software-sales-141531121.html"
-              >Microsoft lowers AI software growth targets</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2025-12-03 @ 15:11:58</span
-              ><span class="points-container"
-                >Points: <span class="points">86</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=46135388"
-                  >Comments</a
-                ><span class="descendants">: 66</span></span
+                ><span class="descendants">: 68</span></span
               >
             </h4>
           </section>
@@ -329,11 +440,11 @@
             <h4>
               <span>2025-12-03 @ 14:42:02</span
               ><span class="points-container"
-                >Points: <span class="points">110</span></span
+                >Points: <span class="points">117</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46135008"
                   >Comments</a
-                ><span class="descendants">: 102</span></span
+                ><span class="descendants">: 108</span></span
               >
             </h4>
           </section>
@@ -348,11 +459,11 @@
             <h4>
               <span>2025-12-03 @ 14:40:25</span
               ><span class="points-container"
-                >Points: <span class="points">48</span></span
+                >Points: <span class="points">51</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46134991"
                   >Comments</a
-                ><span class="descendants">: 12</span></span
+                ><span class="descendants">: 13</span></span
               >
             </h4>
           </section>
@@ -367,11 +478,11 @@
             <h4>
               <span>2025-12-03 @ 13:50:10</span
               ><span class="points-container"
-                >Points: <span class="points">624</span></span
+                >Points: <span class="points">660</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46134443"
                   >Comments</a
-                ><span class="descendants">: 381</span></span
+                ><span class="descendants">: 400</span></span
               >
             </h4>
           </section>
@@ -388,11 +499,11 @@
             <h4>
               <span>2025-12-03 @ 13:20:58</span
               ><span class="points-container"
-                >Points: <span class="points">261</span></span
+                >Points: <span class="points">280</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46134178"
                   >Comments</a
-                ><span class="descendants">: 193</span></span
+                ><span class="descendants">: 203</span></span
               >
             </h4>
           </section>
@@ -409,11 +520,11 @@
             <h4>
               <span>2025-12-03 @ 12:14:34</span
               ><span class="points-container"
-                >Points: <span class="points">174</span></span
+                >Points: <span class="points">180</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46133622"
                   >Comments</a
-                ><span class="descendants">: 98</span></span
+                ><span class="descendants">: 105</span></span
               >
             </h4>
           </section>
@@ -430,11 +541,11 @@
             <h4>
               <span>2025-12-03 @ 11:50:00</span
               ><span class="points-container"
-                >Points: <span class="points">305</span></span
+                >Points: <span class="points">324</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46133422"
                   >Comments</a
-                ><span class="descendants">: 134</span></span
+                ><span class="descendants">: 144</span></span
               >
             </h4>
           </section>
@@ -451,33 +562,11 @@
             <h4>
               <span>2025-12-03 @ 11:14:56</span
               ><span class="points-container"
-                >Points: <span class="points">67</span></span
+                >Points: <span class="points">89</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46133141"
                   >Comments</a
-                ><span class="descendants">: 26</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="46133068">
-          <h3>
-            <a
-              class="item"
-              href="https://www.bbc.com/news/articles/clydg2re4d1o"
-              >India scraps order to pre-install state-run cyber safety app on
-              smartphones</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2025-12-03 @ 11:06:10</span
-              ><span class="points-container"
-                >Points: <span class="points">163</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=46133068"
-                  >Comments</a
-                ><span class="descendants">: 35</span></span
+                ><span class="descendants">: 43</span></span
               >
             </h4>
           </section>
@@ -494,11 +583,11 @@
             <h4>
               <span>2025-12-03 @ 09:53:27</span
               ><span class="points-container"
-                >Points: <span class="points">143</span></span
+                >Points: <span class="points">164</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46132531"
                   >Comments</a
-                ><span class="descendants">: 109</span></span
+                ><span class="descendants">: 123</span></span
               >
             </h4>
           </section>
@@ -516,11 +605,11 @@
             <h4>
               <span>2025-12-03 @ 07:52:37</span
               ><span class="points-container"
-                >Points: <span class="points">765</span></span
+                >Points: <span class="points">792</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46131406"
                   >Comments</a
-                ><span class="descendants">: 429</span></span
+                ><span class="descendants">: 447</span></span
               >
             </h4>
           </section>
@@ -538,7 +627,7 @@
             <h4>
               <span>2025-12-03 @ 06:34:28</span
               ><span class="points-container"
-                >Points: <span class="points">80</span></span
+                >Points: <span class="points">85</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46130907"
                   >Comments</a
@@ -560,11 +649,11 @@
             <h4>
               <span>2025-12-03 @ 04:32:16</span
               ><span class="points-container"
-                >Points: <span class="points">228</span></span
+                >Points: <span class="points">235</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46130335"
                   >Comments</a
-                ><span class="descendants">: 40</span></span
+                ><span class="descendants">: 42</span></span
               >
             </h4>
           </section>
@@ -577,11 +666,11 @@
             <h4>
               <span>2025-12-02 @ 20:14:20</span
               ><span class="points-container"
-                >Points: <span class="points">532</span></span
+                >Points: <span class="points">540</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46126217"
                   >Comments</a
-                ><span class="descendants">: 56</span></span
+                ><span class="descendants">: 57</span></span
               >
             </h4>
           </section>
@@ -596,11 +685,32 @@
             <h4>
               <span>2025-12-02 @ 18:05:44</span
               ><span class="points-container"
-                >Points: <span class="points">2072</span></span
+                >Points: <span class="points">2080</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46124267"
                   >Comments</a
-                ><span class="descendants">: 988</span></span
+                ><span class="descendants">: 998</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="46095372">
+          <h3>
+            <a
+              class="item"
+              href="https://www.tweag.io/blog/2025-11-27-shrinking-static-libs/"
+              >Shrinking While Linking</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2025-11-30 @ 10:05:13</span
+              ><span class="points-container"
+                >Points: <span class="points">11</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=46095372"
+                  >Comments</a
+                ><span class="descendants">: 1</span></span
               >
             </h4>
           </section>
@@ -618,7 +728,7 @@
             <h4>
               <span>2025-11-28 @ 21:56:21</span
               ><span class="points-container"
-                >Points: <span class="points">24</span></span
+                >Points: <span class="points">28</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46083133"
                   >Comments</a
@@ -637,7 +747,7 @@
             <h4>
               <span>2025-11-28 @ 21:42:02</span
               ><span class="points-container"
-                >Points: <span class="points">23</span></span
+                >Points: <span class="points">26</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46083014"
                   >Comments</a
@@ -658,11 +768,11 @@
             <h4>
               <span>2025-11-27 @ 19:04:56</span
               ><span class="points-container"
-                >Points: <span class="points">68</span></span
+                >Points: <span class="points">86</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46072280"
                   >Comments</a
-                ><span class="descendants">: 16</span></span
+                ><span class="descendants">: 23</span></span
               >
             </h4>
           </section>
@@ -677,11 +787,11 @@
             <h4>
               <span>2025-11-27 @ 10:52:15</span
               ><span class="points-container"
-                >Points: <span class="points">261</span></span
+                >Points: <span class="points">264</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46067995"
                   >Comments</a
-                ><span class="descendants">: 142</span></span
+                ><span class="descendants">: 145</span></span
               >
             </h4>
           </section>
@@ -698,11 +808,11 @@
             <h4>
               <span>2025-11-26 @ 15:14:42</span
               ><span class="points-container"
-                >Points: <span class="points">144</span></span
+                >Points: <span class="points">150</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46058154"
                   >Comments</a
-                ><span class="descendants">: 82</span></span
+                ><span class="descendants">: 85</span></span
               >
             </h4>
           </section>
@@ -719,11 +829,11 @@
             <h4>
               <span>2025-11-26 @ 05:32:28</span
               ><span class="points-container"
-                >Points: <span class="points">185</span></span
+                >Points: <span class="points">192</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46054467"
                   >Comments</a
-                ><span class="descendants">: 17</span></span
+                ><span class="descendants">: 18</span></span
               >
             </h4>
           </section>
@@ -740,11 +850,11 @@
             <h4>
               <span>2025-11-25 @ 21:12:36</span
               ><span class="points-container"
-                >Points: <span class="points">114</span></span
+                >Points: <span class="points">120</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46050855"
                   >Comments</a
-                ><span class="descendants">: 27</span></span
+                ><span class="descendants">: 32</span></span
               >
             </h4>
           </section>
