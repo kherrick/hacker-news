@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-12-03, 13:50:10](https://news.ycombinator.com/item?id=46134443) - [Congressional lawmakers 47% pts better at picking stocks](https://www.nber.org/papers/w34524)
 * [2025-12-03, 13:20:58](https://news.ycombinator.com/item?id=46134178) - [Helldivers 2 devs slash install size from 154GB to 23GB](https://www.tomshardware.com/video-games/pc-gaming/helldivers-2-install-size-slashed-from-154gb-to-just-23gb-85-percent-reduction-accomplished-by-de-duplicating-game-data-an-optimization-for-older-mechanical-hard-drives)
 * [2025-12-03, 12:14:34](https://news.ycombinator.com/item?id=46133622) - [You Can't Fool the Optimizer](https://xania.org/202512/03-more-adding-integers)
 * [2025-12-03, 11:50:00](https://news.ycombinator.com/item?id=46133422) - [The \"Mad Men\" in 4K on HBO Max Debacle](http://fxrant.blogspot.com/2025/12/the-mad-men-in-4k-on-hbo-max-debacle.html)
@@ -10,7 +11,6 @@
 * [2025-12-03, 05:05:34](https://news.ycombinator.com/item?id=46130506) - [Sending DMARC reports is somewhat hazardous](https://utcc.utoronto.ca/~cks/space/blog/spam/DMARCSendingReportsProblems)
 * [2025-12-03, 04:32:16](https://news.ycombinator.com/item?id=46130335) - [Interview with RollerCoaster Tycoon's Creator, Chris Sawyer (2024)](https://medium.com/atari-club/interview-with-rollercoaster-tycoons-creator-chris-sawyer-684a0efb0f13)
 * [2025-12-03, 04:13:41](https://news.ycombinator.com/item?id=46130233) - [Understanding ECDSA](https://avidthinker.github.io/2025/11/28/understanding-ecdsa/)
-* [2025-12-02, 23:19:07](https://news.ycombinator.com/item?id=46128286) - [DOOM could have had PC Speaker Music](https://lenowo.org/viewtopic.php?t=45)
 * [2025-12-02, 20:14:20](https://news.ycombinator.com/item?id=46126217) - [Paged Out](https://pagedout.institute)
 * [2025-12-02, 19:04:31](https://news.ycombinator.com/item?id=46125155) - [Amazon launches Trainium3](https://techcrunch.com/2025/12/02/amazon-releases-an-impressive-new-ai-chip-and-teases-a-nvidia-friendly-roadmap/)
 * [2025-12-02, 18:10:23](https://news.ycombinator.com/item?id=46124324) - [IBM CEO says there is 'no way' spending on AI data centers will pay off](https://www.businessinsider.com/ibm-ceo-big-tech-ai-capex-data-center-spending-2025-12)
