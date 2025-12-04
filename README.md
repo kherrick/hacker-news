@@ -1,8 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-12-04, 01:53:57](https://news.ycombinator.com/item?id=46142843) - [Apple’s head of user interface design, Alan Dye, will join Meta](https://www.cnbc.com/2025/12/03/liquid-glass-alan-dye-leaving-apple.html)
+* [2025-12-04, 02:48:31](https://news.ycombinator.com/item?id=46143230) - [Cellebrite to Acquire Corellium](https://www.corellium.com/blog/cellebrite-to-acquire-corellium)
 * [2025-12-04, 00:08:26](https://news.ycombinator.com/item?id=46142100) - [Average DRAM price in USD over last 18 months](https://pcpartpicker.com/trends/price/memory/)
 * [2025-12-03, 23:58:04](https://news.ycombinator.com/item?id=46142000) - [Kea DHCP: Modern, open source DHCPv4 and DHCPv6 server](https://www.isc.org/kea/)
+* [2025-12-03, 23:46:30](https://news.ycombinator.com/item?id=46141893) - [Zmx: Session Persistence for Terminal Processes](https://github.com/neurosnap/zmx)
 * [2025-12-03, 23:28:34](https://news.ycombinator.com/item?id=46141745) - [Acme, a brief history of one of the protocols which has changed the Internet](https://blog.brocas.org/2025/12/01/ACME-a-brief-history-of-one-of-the-protocols-which-has-changed-the-Internet-Security/)
 * [2025-12-03, 21:56:37](https://news.ycombinator.com/item?id=46140753) - [Greeting Vocalizations in Domestic Cats Are More Frequent with Male Caregivers](https://onlinelibrary.wiley.com/doi/10.1111/eth.70033)
 * [2025-12-03, 21:16:11](https://news.ycombinator.com/item?id=46140244) - [8086 Microcode Browser](https://nand2mario.github.io/posts/2025/8086_microcode_browser/)
@@ -28,7 +29,6 @@
 * [2025-11-30, 16:39:46](https://news.ycombinator.com/item?id=46098108) - [What I don’t like about chains of thoughts (2023)](https://samsja.github.io/blogs/cot/blog/)
 * [2025-11-30, 12:42:04](https://news.ycombinator.com/item?id=46096193) - [Schubfach: The smallest floating point double-to-string impleme](https://vitaut.net/posts/2025/smallest-dtoa/)
 * [2025-11-29, 08:32:21](https://news.ycombinator.com/item?id=46085982) - [Preserving Snow Crystals](https://www.its.caltech.edu/~atomic/snowcrystals/preserve/preserve.htm)
-* [2025-11-28, 09:23:38](https://news.ycombinator.com/item?id=46077047) - [Cross-Compiling Common Lisp to WASM](https://turtleware.eu/posts/Common-Lisp-and-WebAssembly.html)
 * [2025-11-27, 19:04:56](https://news.ycombinator.com/item?id=46072280) - [How to Synthesize a House Loop](https://loopmaster.xyz/tutorials/how-to-synthesize-a-house-loop)
 
 ## [Archives](archives/index.md)
