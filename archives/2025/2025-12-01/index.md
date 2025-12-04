@@ -56,6 +56,7 @@
 * [2025-12-01, 10:37:39](https://news.ycombinator.com/item?id=46105803) - [AWS data centers' water use tied to spike in cancer and miscarriages in Oregon](https://techoreon.com/oregon-data-centers-water-use-nitrates-cancer-miscarriage/)
 * [2025-12-01, 10:35:57](https://news.ycombinator.com/item?id=46105798) - [KDE Plasma 6.8 Set to Drop X11 Support Completely](https://itsfoss.com/news/kde-plasma-to-drop-x11-support/)
 * [2025-12-01, 08:54:31](https://news.ycombinator.com/item?id=46105079) - [DeepSeek releases open-weights math model with IMO gold medal performance](https://huggingface.co/deepseek-ai/DeepSeek-Math-V2)
+* [2025-12-01, 07:30:46](https://news.ycombinator.com/item?id=46104539) - [A lost Amazon world just reappeared in Bolivia](https://www.sciencedaily.com/releases/2025/11/251130205421.htm)
 * [2025-12-01, 07:26:47](https://news.ycombinator.com/item?id=46104511) - [Do the Thinking Models Actually Think?](https://bytesauna.com/post/consciousness)
 * [2025-12-01, 07:05:57](https://news.ycombinator.com/item?id=46104396) - [Games using anti-cheats and their compatibility with GNU/Linux or Wine/Proton](https://areweanticheatyet.com/)
 * [2025-12-01, 06:30:14](https://news.ycombinator.com/item?id=46104193) - [India orders smartphone makers to preload state-owned cyber safety app](https://www.reuters.com/sustainability/boards-policy-regulation/india-orders-mobile-phones-preloaded-with-government-app-ensure-cyber-safety-2025-12-01/)
