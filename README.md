@@ -29,7 +29,7 @@
 * [2025-11-30, 10:21:34](https://news.ycombinator.com/item?id=46095474) - [Show HN: MTXT – Music Text Format](https://github.com/Daninet/mtxt)
 * [2025-11-29, 23:57:13](https://news.ycombinator.com/item?id=46092035) - [The long wait is over, Ganymede has arrived](https://endeavouros.com/news/the-long-wait-is-over-ganymede-has-arrived/)
 * [2025-11-29, 17:48:17](https://news.ycombinator.com/item?id=46089344) - [Show HN: Chess on a Donut/Torus and Deep-Dive](https://mchess.io/donut)
-* [2025-11-27, 21:24:10](https://news.ycombinator.com/item?id=46073346) - [Yawning Abyss of the Decimal Labyrinth](https://oh4.co/site/numogrammaticism.html)
+* [2025-11-27, 21:24:10](https://news.ycombinator.com/item?id=46073346) - [Yawning abyss of the decimal labyrinth](https://oh4.co/site/numogrammaticism.html)
 
 ## [Archives](archives/index.md)
 
