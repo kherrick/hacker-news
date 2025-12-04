@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-12-03, 23:58:04",
+      "https://news.ycombinator.com/item?id=46142000"
+    ],
+    [
+      "Kea DHCP: Modern, open source DHCPv4 and DHCPv6 server",
+      "https://www.isc.org/kea/"
+    ]
+  ],
+  [
+    [
       "2025-12-03, 23:28:34",
       "https://news.ycombinator.com/item?id=46141745"
     ],
@@ -87,16 +97,6 @@
     [
       "Ghostty is now non-profit",
       "https://mitchellh.com/writing/ghostty-non-profit"
-    ]
-  ],
-  [
-    [
-      "2025-12-03, 18:39:04",
-      "https://news.ycombinator.com/item?id=46138226"
-    ],
-    [
-      "Formally verifying Advent of Code using Dijkstra's program construction",
-      "https://haripm.com/blog/aoc-day-3-without-thinking/"
     ]
   ],
   [
@@ -211,16 +211,6 @@
   ],
   [
     [
-      "2025-12-03, 13:50:10",
-      "https://news.ycombinator.com/item?id=46134443"
-    ],
-    [
-      "“Captain Gains” on Capitol Hill",
-      "https://www.nber.org/papers/w34524"
-    ]
-  ],
-  [
-    [
       "2025-12-03, 12:14:34",
       "https://news.ycombinator.com/item?id=46133622"
     ],
@@ -261,12 +251,12 @@
   ],
   [
     [
-      "2025-12-01, 02:19:43",
-      "https://news.ycombinator.com/item?id=46102753"
+      "2025-11-30, 16:39:46",
+      "https://news.ycombinator.com/item?id=46098108"
     ],
     [
-      "Show HN: FastLanes based integer compression in Zig",
-      "https://github.com/steelcake/zint"
+      "What I don’t like about chains of thoughts (2023)",
+      "https://samsja.github.io/blogs/cot/blog/"
     ]
   ],
   [
@@ -277,6 +267,16 @@
     [
       "Apple Desktop Bus Protocol (2021)",
       "https://www.lopaciuk.eu/2021/03/26/apple-adb-protocol.html"
+    ]
+  ],
+  [
+    [
+      "2025-11-29, 08:32:21",
+      "https://news.ycombinator.com/item?id=46085982"
+    ],
+    [
+      "Preserving Snow Crystals",
+      "https://www.its.caltech.edu/~atomic/snowcrystals/preserve/preserve.htm"
     ]
   ],
   [
