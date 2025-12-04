@@ -12,6 +12,7 @@
 * [2025-11-27, 22:50:26](https://news.ycombinator.com/item?id=46073862) - [Show HN: Whole-home VPN router with hardware kill switch (OpenWrt and WireGuard)](https://github.com/yoloshii/privacy-first-network)
 * [2025-11-27, 22:48:44](https://news.ycombinator.com/item?id=46073855) - [250MWh 'Sand Battery' to start construction in Finland](https://www.energy-storage.news/250mwh-sand-battery-to-start-construction-in-finland-for-both-heating-and-ancillary-services/)
 * [2025-11-27, 22:41:06](https://news.ycombinator.com/item?id=46073817) - [A Programmer-Friendly I/O Abstraction Over io_uring and kqueue](https://tigerbeetle.com/blog/2022-11-23-a-friendly-abstraction-over-iouring-and-kqueue/)
+* [2025-11-27, 21:24:10](https://news.ycombinator.com/item?id=46073346) - [Yawning Abyss of the Decimal Labyrinth](https://oh4.co/site/numogrammaticism.html)
 * [2025-11-27, 21:20:03](https://news.ycombinator.com/item?id=46073319) - [Show HN: No Black Friday – A directory of fair-price brands](https://no-blackfriday.com)
 * [2025-11-27, 21:13:39](https://news.ycombinator.com/item?id=46073279) - [FileZilla Pro \"Perpetual License\" – A Warning to All Users](https://github.com/x011/FileZilla-Pro-Download)
 * [2025-11-27, 20:37:51](https://news.ycombinator.com/item?id=46073033) - [Underrated reasons to be thankful V](https://dynomight.net/thanks-5/)

@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-12-04](index.md)
 
 * [2025-12-04, 19:16:11](https://news.ycombinator.com/item?id=46151578) - [The RAM Shortage Comes for Us All](https://www.jeffgeerling.com/blog/2025/ram-shortage-comes-us-all)
+* [2025-12-04, 18:52:22](https://news.ycombinator.com/item?id=46151335) - [Hammersmith Bridge – Where did 25,000 vehicles go?](https://nickmaini.substack.com/p/hammersmith-bridge)
 * [2025-12-04, 18:11:36](https://news.ycombinator.com/item?id=46150806) - [Crucial shutting down as Micron wants to sell RAM/SSDs to AI companies instead](https://www.theverge.com/news/837594/crucial-ram-ssd-micron-ai)
 * [2025-12-04, 18:04:07](https://news.ycombinator.com/item?id=46150715) - [Why Are 38 Percent of Stanford Students Saying They're Disabled?](https://reason.com/2025/12/04/why-are-38-percent-of-stanford-students-saying-theyre-disabled/)
 * [2025-12-04, 17:43:07](https://news.ycombinator.com/item?id=46150447) - [PyTogether: Collaborative lightweight real-time Python IDE for teachers/learners](https://github.com/SJRiz/pytogether)
