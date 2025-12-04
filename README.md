@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-12-04, 19:16:11](https://news.ycombinator.com/item?id=46151578) - [The RAM Shortage Comes for Us All](https://www.jeffgeerling.com/blog/2025/ram-shortage-comes-us-all)
 * [2025-12-04, 18:04:07](https://news.ycombinator.com/item?id=46150715) - [Why are 38 percent of Stanford students saying they're disabled?](https://reason.com/2025/12/04/why-are-38-percent-of-stanford-students-saying-theyre-disabled/)
 * [2025-12-04, 17:43:07](https://news.ycombinator.com/item?id=46150447) - [PyTogether: Collaborative lightweight real-time Python IDE for teachers/learners](https://github.com/SJRiz/pytogether)
 * [2025-12-04, 17:00:37](https://news.ycombinator.com/item?id=46149849) - [Converge (YC S23) is hiring a martech expert in NYC](https://www.runconverge.com/careers/technical-customer-success-manager)
@@ -20,7 +21,6 @@
 * [2025-12-04, 11:03:16](https://news.ycombinator.com/item?id=46146204) - [Building optimistic UI in Rails (and learn custom elements)](https://railsdesigner.com/custom-elements/)
 * [2025-12-04, 10:52:42](https://news.ycombinator.com/item?id=46146133) - [PGlite – Embeddable Postgres](https://pglite.dev/)
 * [2025-12-04, 10:15:53](https://news.ycombinator.com/item?id=46145902) - [Tunnl.gg](https://tunnl.gg)
-* [2025-12-04, 10:06:35](https://news.ycombinator.com/item?id=46145834) - [Unreal Tournament 2004 is back](https://old.reddit.com/r/unrealtournament/comments/1pdbe69/breaking_unreal_tournament_2004_is_back/)
 * [2025-12-04, 09:01:55](https://news.ycombinator.com/item?id=46145365) - [It’s time to free JavaScript (2024)](https://javascript.tm/letter)
 * [2025-12-04, 06:02:23](https://news.ycombinator.com/item?id=46144275) - [Uncloud - Tool for deploying containerised apps across servers without k8s](https://uncloud.run/)
 * [2025-12-02, 14:37:55](https://news.ycombinator.com/item?id=46121619) - [What Is \"Open Recursion\"?](https://journal.stuffwithstuff.com/2013/08/26/what-is-open-recursion/)
