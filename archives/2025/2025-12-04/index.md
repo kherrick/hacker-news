@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-12-04](index.md)
 
+* [2025-12-04, 15:33:14](https://news.ycombinator.com/item?id=46148763) - [The Free Software Foundation Europe deleted its account on X](https://fsfe.org/news/2025/news-20251204-01.en.html)
+* [2025-12-04, 15:23:28](https://news.ycombinator.com/item?id=46148649) - [Microsoft faces complaint in EU over Israeli surveillance data](https://www.france24.com/en/live-news/20251204-microsoft-faces-complaint-in-eu-over-israeli-surveillance-data)
 * [2025-12-04, 13:40:00](https://news.ycombinator.com/item?id=46147540) - [Transparent Leadership Beats Servant Leadership](https://entropicthoughts.com/transparent-leadership-beats-servant-leadership)
 * [2025-12-04, 13:34:27](https://news.ycombinator.com/item?id=46147493) - [The Age-Gated Internet Is Sweeping the US. Activists Are Fighting Back](https://www.wired.com/story/age-verification-is-sweeping-the-us-activists-are-fighting-back/)
 * [2025-12-04, 13:22:35](https://news.ycombinator.com/item?id=46147371) - [Human hair grows through 'pulling' not pushing, study shows](https://phys.org/news/2025-12-human-hair.html)
