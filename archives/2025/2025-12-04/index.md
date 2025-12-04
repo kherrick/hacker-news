@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-12-04](index.md)
 
+* [2025-12-04, 21:40:24](https://news.ycombinator.com/item?id=46153466) - [Thoughts on Go vs. Rust vs. Zig](https://sinclairtarget.com/blog/2025/08/thoughts-on-go-vs.-rust-vs.-zig/)
 * [2025-12-04, 21:09:56](https://news.ycombinator.com/item?id=46153116) - [Django 6 Released](https://docs.djangoproject.com/en/6.0/releases/6.0/)
 * [2025-12-04, 21:04:29](https://news.ycombinator.com/item?id=46153058) - [CUDA-L2: Surpassing cuBLAS Performance for Matrix Multiplication Through RL](https://github.com/deepreinforce-ai/CUDA-L2)
 * [2025-12-04, 20:56:08](https://news.ycombinator.com/item?id=46152941) - [Plane crashed after 3D-printed part collapsed](https://www.bbc.com/news/articles/c1w932vqye0o)
