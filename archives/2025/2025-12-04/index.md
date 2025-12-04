@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2025-12-04](index.md)
 
+* [2025-12-04, 20:56:08](https://news.ycombinator.com/item?id=46152941) - [Plane crashed after 3D-printed part collapsed](https://www.bbc.com/news/articles/c1w932vqye0o)
+* [2025-12-04, 19:55:04](https://news.ycombinator.com/item?id=46152098) - [CJEU has made it effectively impossible to run a user-generated platform legally](https://www.techdirt.com/2025/12/04/eus-top-court-just-made-it-literally-impossible-to-run-a-user-generated-content-platform-legally/)
 * [2025-12-04, 19:16:11](https://news.ycombinator.com/item?id=46151578) - [The RAM Shortage Comes for Us All](https://www.jeffgeerling.com/blog/2025/ram-shortage-comes-us-all)
+* [2025-12-04, 18:55:06](https://news.ycombinator.com/item?id=46151363) - [Who Hooked Up a Laptop to a 1930s Dance Hall Machine?](https://www.chrisbako.com/posts/2025-12-04-speelkok-museam)
 * [2025-12-04, 18:52:22](https://news.ycombinator.com/item?id=46151335) - [Hammersmith Bridge – Where did 25,000 vehicles go?](https://nickmaini.substack.com/p/hammersmith-bridge)
 * [2025-12-04, 18:11:36](https://news.ycombinator.com/item?id=46150806) - [Crucial shutting down as Micron wants to sell RAM/SSDs to AI companies instead](https://www.theverge.com/news/837594/crucial-ram-ssd-micron-ai)
 * [2025-12-04, 18:04:07](https://news.ycombinator.com/item?id=46150715) - [Why Are 38 Percent of Stanford Students Saying They're Disabled?](https://reason.com/2025/12/04/why-are-38-percent-of-stanford-students-saying-theyre-disabled/)
