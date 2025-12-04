@@ -1,6 +1,36 @@
 [
   [
     [
+      "2025-12-04, 07:00:51",
+      "https://news.ycombinator.com/item?id=46144613"
+    ],
+    [
+      "Saturn (YC S24) Is Hiring Senior AI Engineer",
+      "https://www.ycombinator.com/companies/saturn/jobs/R9s9o5f-senior-ai-engineer"
+    ]
+  ],
+  [
+    [
+      "2025-12-04, 06:02:23",
+      "https://news.ycombinator.com/item?id=46144275"
+    ],
+    [
+      "Uncloud - Tool for deploying containerised apps across servers without k8s",
+      "https://uncloud.run/"
+    ]
+  ],
+  [
+    [
+      "2025-12-04, 05:47:31",
+      "https://news.ycombinator.com/item?id=46144199"
+    ],
+    [
+      "Mirror_bridge – C++ reflection for generating Python/JS/Lua bindings",
+      "https://chico.dev/Mirror-Bridge/"
+    ]
+  ],
+  [
+    [
       "2025-12-04, 05:29:51",
       "https://news.ycombinator.com/item?id=46144113"
     ],
@@ -77,16 +107,6 @@
     [
       "8086 Microcode Browser",
       "https://nand2mario.github.io/posts/2025/8086_microcode_browser/"
-    ]
-  ],
-  [
-    [
-      "2025-12-03, 20:37:08",
-      "https://news.ycombinator.com/item?id=46139782"
-    ],
-    [
-      "Checked-size array parameters in C",
-      "https://lwn.net/SubscriberLink/1046840/3eb9029084cc9e1e/"
     ]
   ],
   [
@@ -181,16 +201,6 @@
   ],
   [
     [
-      "2025-12-03, 16:00:19",
-      "https://news.ycombinator.com/item?id=46136023"
-    ],
-    [
-      "MinIO is now in maintenance-mode",
-      "https://github.com/minio/minio/commit/27742d469462e1561c776f88ca7a1f26816d69e2"
-    ]
-  ],
-  [
-    [
       "2025-12-03, 15:30:30",
       "https://news.ycombinator.com/item?id=46135627"
     ],
@@ -231,6 +241,16 @@
   ],
   [
     [
+      "2025-12-02, 09:29:06",
+      "https://news.ycombinator.com/item?id=46119337"
+    ],
+    [
+      "Visualize 4B Years: The Trillions of Generations: LUCA to Modern Human",
+      "https://www.g9n.com/tools/learning/evolution-visualisation"
+    ]
+  ],
+  [
+    [
       "2025-12-01, 00:03:51",
       "https://news.ycombinator.com/item?id=46101816"
     ],
@@ -251,32 +271,12 @@
   ],
   [
     [
-      "2025-11-30, 16:39:46",
-      "https://news.ycombinator.com/item?id=46098108"
-    ],
-    [
-      "What I don’t like about chains of thoughts (2023)",
-      "https://samsja.github.io/blogs/cot/blog/"
-    ]
-  ],
-  [
-    [
       "2025-11-30, 15:46:36",
       "https://news.ycombinator.com/item?id=46097563"
     ],
     [
       "Ethiopian Volcano Erupts for First Time in Nearly 12K Years of Records",
       "https://www.smithsonianmag.com/smart-news/ethiopian-volcano-erupts-for-the-first-time-in-nearly-12000-years-of-scientific-records-180987764/"
-    ]
-  ],
-  [
-    [
-      "2025-11-30, 12:42:04",
-      "https://news.ycombinator.com/item?id=46096193"
-    ],
-    [
-      "Schubfach: The smallest floating point double-to-string impleme",
-      "https://vitaut.net/posts/2025/smallest-dtoa/"
     ]
   ],
   [
