@@ -26,6 +26,7 @@
 * [2025-11-30, 17:25:40](https://news.ycombinator.com/item?id=46098569) - [Notes on Shadowing a Hospitalist](https://humaninvariant.substack.com/p/notes-on-shadowing-a-hospitalist)
 * [2025-11-30, 17:02:48](https://news.ycombinator.com/item?id=46098359) - [LLVM-MOS – Clang LLVM fork targeting the 6502](https://llvm-mos.org/wiki/Welcome)
 * [2025-11-30, 17:01:24](https://news.ycombinator.com/item?id=46098336) - [RetailReady (YC W24) Is Hiring Associate Product Manager](https://www.ycombinator.com/companies/retailready/jobs/KPKDu3D-associate-product-manager)
+* [2025-11-30, 16:39:46](https://news.ycombinator.com/item?id=46098108) - [What I don’t like about chains of thoughts (2023)](https://samsja.github.io/blogs/cot/blog/)
 * [2025-11-30, 16:28:41](https://news.ycombinator.com/item?id=46097992) - [Google CEO says ‘vibe coding’ made software development ‘so much more enjoyable’](https://www.google.com/url?q=https://indianexpress.com/article/technology/tech-news-technology/google-ceo-sundar-pichai-says-vibe-coding-has-made-software-development-so-much-more-enjoyable-10393752/)
 * [2025-11-30, 16:12:13](https://news.ycombinator.com/item?id=46097829) - [GitHub to Codeberg: My Experience](https://eldred.fr/blog/forge-migration/)
 * [2025-11-30, 16:07:11](https://news.ycombinator.com/item?id=46097773) - [The Thinking Game Film – Google DeepMind Documentary](https://thinkinggamefilm.com)
