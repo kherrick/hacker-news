@@ -17,6 +17,7 @@
 * [2025-12-04, 13:20:07](https://news.ycombinator.com/item?id=46147353) - [RAM is so expensive, Samsung won't even sell it to Samsung](https://www.pcworld.com/article/2998935/ram-is-so-expensive-samsung-wont-even-sell-it-to-samsung.html)
 * [2025-12-04, 13:18:38](https://news.ycombinator.com/item?id=46147341) - [Functional Quadtrees](https://lbjgruppen.com/en/posts/functional-quadtree-clojure)
 * [2025-12-04, 11:36:36](https://news.ycombinator.com/item?id=46146451) - [I ignore the spotlight as a staff engineer](https://lalitm.com/software-engineering-outside-the-spotlight/)
+* [2025-12-04, 11:03:16](https://news.ycombinator.com/item?id=46146204) - [Building optimistic UI in Rails (and learn custom elements)](https://railsdesigner.com/custom-elements/)
 * [2025-12-04, 10:52:42](https://news.ycombinator.com/item?id=46146133) - [PGlite – Embeddable Postgres](https://pglite.dev/)
 * [2025-12-04, 10:15:53](https://news.ycombinator.com/item?id=46145902) - [Tunnl.gg](https://tunnl.gg)
 * [2025-12-04, 09:01:55](https://news.ycombinator.com/item?id=46145365) - [It’s time to free JavaScript (2024)](https://javascript.tm/letter)
@@ -27,7 +28,6 @@
 * [2025-12-01, 07:30:46](https://news.ycombinator.com/item?id=46104539) - [A lost Amazon world just reappeared in Bolivia](https://www.frontiersin.org/news/2025/11/06/landscapes-that-remember-indigenous-peoples-thrived-amazon)
 * [2025-12-01, 00:03:51](https://news.ycombinator.com/item?id=46101816) - [The differences between an IndyCar and a F1 car](https://www.openwheelworld.net/en/indycar101/76/IndyCar_vs_Formula_1_cars)
 * [2025-11-30, 10:21:34](https://news.ycombinator.com/item?id=46095474) - [Show HN: MTXT – Music Text Format](https://github.com/Daninet/mtxt)
-* [2025-11-29, 23:57:13](https://news.ycombinator.com/item?id=46092035) - [The long wait is over, Ganymede has arrived](https://endeavouros.com/news/the-long-wait-is-over-ganymede-has-arrived/)
 * [2025-11-29, 17:48:17](https://news.ycombinator.com/item?id=46089344) - [Show HN: Chess on a Donut/Torus and Deep-Dive](https://mchess.io/donut)
 * [2025-11-27, 21:24:10](https://news.ycombinator.com/item?id=46073346) - [Yawning abyss of the decimal labyrinth](https://oh4.co/site/numogrammaticism.html)
 
