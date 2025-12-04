@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-12-04, 22:26:43](https://news.ycombinator.com/item?id=46154022) - [State of AI: An Empirical 100T Token Study with OpenRouter](https://openrouter.ai/state-of-ai)
 * [2025-12-04, 21:40:24](https://news.ycombinator.com/item?id=46153466) - [Thoughts on Go vs. Rust vs. Zig](https://sinclairtarget.com/blog/2025/08/thoughts-on-go-vs.-rust-vs.-zig/)
+* [2025-12-04, 21:27:36](https://news.ycombinator.com/item?id=46153332) - [Countdown until the AI bubble bursts](https://pop-the-bubble.xyz/)
 * [2025-12-04, 21:09:56](https://news.ycombinator.com/item?id=46153116) - [Django 6](https://docs.djangoproject.com/en/6.0/releases/6.0/)
 * [2025-12-04, 21:04:29](https://news.ycombinator.com/item?id=46153058) - [CUDA-L2: Surpassing cuBLAS Performance for Matrix Multiplication Through RL](https://github.com/deepreinforce-ai/CUDA-L2)
 * [2025-12-04, 20:56:08](https://news.ycombinator.com/item?id=46152941) - [Plane crashed after 3D-printed part collapsed](https://www.bbc.com/news/articles/c1w932vqye0o)
@@ -22,14 +24,12 @@
 * [2025-12-04, 13:18:38](https://news.ycombinator.com/item?id=46147341) - [Functional Quadtrees](https://lbjgruppen.com/en/posts/functional-quadtree-clojure)
 * [2025-12-04, 11:36:36](https://news.ycombinator.com/item?id=46146451) - [I ignore the spotlight as a staff engineer](https://lalitm.com/software-engineering-outside-the-spotlight/)
 * [2025-12-04, 10:52:42](https://news.ycombinator.com/item?id=46146133) - [PGlite – Embeddable Postgres](https://pglite.dev/)
-* [2025-12-04, 10:15:53](https://news.ycombinator.com/item?id=46145902) - [Tunnl.gg](https://tunnl.gg)
 * [2025-12-04, 09:01:55](https://news.ycombinator.com/item?id=46145365) - [It’s time to free JavaScript (2024)](https://javascript.tm/letter)
 * [2025-12-04, 08:38:17](https://news.ycombinator.com/item?id=46145180) - [How elites could shape mass preferences as AI reduces persuasion costs](https://arxiv.org/abs/2512.04047)
 * [2025-12-04, 06:02:23](https://news.ycombinator.com/item?id=46144275) - [Uncloud - Tool for deploying containerised apps across servers without k8s](https://uncloud.run/)
 * [2025-12-02, 15:23:57](https://news.ycombinator.com/item?id=46122114) - [Some models of reality are bolder than others](https://cjauvin.github.io/posts/metaphysical-boldness/)
 * [2025-12-01, 14:13:14](https://news.ycombinator.com/item?id=46107660) - [A Most Important Mustard](https://www.asimov.press/p/arabidopsis)
 * [2025-12-01, 07:30:46](https://news.ycombinator.com/item?id=46104539) - [A lost Amazon world just reappeared in Bolivia](https://www.frontiersin.org/news/2025/11/06/landscapes-that-remember-indigenous-peoples-thrived-amazon)
-* [2025-11-27, 21:24:10](https://news.ycombinator.com/item?id=46073346) - [Yawning abyss of the decimal labyrinth](https://oh4.co/site/numogrammaticism.html)
 
 ## [Archives](archives/index.md)
 
