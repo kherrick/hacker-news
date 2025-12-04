@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-12-04, 15:33:14",
+      "https://news.ycombinator.com/item?id=46148763"
+    ],
+    [
+      "The Free Software Foundation Europe deleted its account on X",
+      "https://fsfe.org/news/2025/news-20251204-01.en.html"
+    ]
+  ],
+  [
+    [
+      "2025-12-04, 15:23:28",
+      "https://news.ycombinator.com/item?id=46148649"
+    ],
+    [
+      "Microsoft faces complaint in EU over Israeli surveillance data",
+      "https://www.france24.com/en/live-news/20251204-microsoft-faces-complaint-in-eu-over-israeli-surveillance-data"
+    ]
+  ],
+  [
+    [
       "2025-12-04, 13:40:00",
       "https://news.ycombinator.com/item?id=46147540"
     ],
@@ -115,7 +135,7 @@
       "https://news.ycombinator.com/item?id=46145365"
     ],
     [
-      "It’s time to free JavaScript",
+      "It’s time to free JavaScript (2024)",
       "https://javascript.tm/letter"
     ]
   ],
@@ -171,16 +191,6 @@
   ],
   [
     [
-      "2025-12-03, 23:58:04",
-      "https://news.ycombinator.com/item?id=46142000"
-    ],
-    [
-      "Kea DHCP: Modern, open source DHCPv4 and DHCPv6 server",
-      "https://www.isc.org/kea/"
-    ]
-  ],
-  [
-    [
       "2025-12-03, 20:35:27",
       "https://news.ycombinator.com/item?id=46139761"
     ],
@@ -207,16 +217,6 @@
     [
       "Micron Announces Exit from Crucial Consumer Business",
       "https://investors.micron.com/news-releases/news-release-details/micron-announces-exit-crucial-consumer-business"
-    ]
-  ],
-  [
-    [
-      "2025-12-03, 17:44:33",
-      "https://news.ycombinator.com/item?id=46137514"
-    ],
-    [
-      "Reverse engineering a $1B Legal AI tool exposed 100k+ confidential files",
-      "https://alexschapiro.com/security/vulnerability/2025/12/02/filevine-api-100k"
     ]
   ],
   [
