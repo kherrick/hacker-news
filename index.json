@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-12-04, 01:53:57",
+      "https://news.ycombinator.com/item?id=46142843"
+    ],
+    [
+      "Apple’s head of user interface design, Alan Dye, will join Meta",
+      "https://www.cnbc.com/2025/12/03/liquid-glass-alan-dye-leaving-apple.html"
+    ]
+  ],
+  [
+    [
+      "2025-12-04, 00:08:26",
+      "https://news.ycombinator.com/item?id=46142100"
+    ],
+    [
+      "Average DRAM price in USD over last 18 months",
+      "https://pcpartpicker.com/trends/price/memory/"
+    ]
+  ],
+  [
+    [
       "2025-12-03, 23:58:04",
       "https://news.ycombinator.com/item?id=46142000"
     ],
@@ -37,16 +57,6 @@
     [
       "8086 Microcode Browser",
       "https://nand2mario.github.io/posts/2025/8086_microcode_browser/"
-    ]
-  ],
-  [
-    [
-      "2025-12-03, 20:57:02",
-      "https://news.ycombinator.com/item?id=46140038"
-    ],
-    [
-      "Chips for the Rest of Us",
-      "https://engineering.nyu.edu/about/unconventional-engineer/chips-for-us"
     ]
   ],
   [
@@ -221,16 +231,6 @@
   ],
   [
     [
-      "2025-12-03, 11:14:56",
-      "https://news.ycombinator.com/item?id=46133141"
-    ],
-    [
-      "Are we repeating the telecoms crash with AI datacenters?",
-      "https://martinalderson.com/posts/are-we-really-repeating-the-telecoms-crash-with-ai-datacenters/"
-    ]
-  ],
-  [
-    [
       "2025-12-03, 09:53:27",
       "https://news.ycombinator.com/item?id=46132531"
     ],
@@ -261,12 +261,12 @@
   ],
   [
     [
-      "2025-11-30, 13:39:52",
-      "https://news.ycombinator.com/item?id=46096552"
+      "2025-11-30, 12:42:04",
+      "https://news.ycombinator.com/item?id=46096193"
     ],
     [
-      "Apple Desktop Bus Protocol (2021)",
-      "https://www.lopaciuk.eu/2021/03/26/apple-adb-protocol.html"
+      "Schubfach: The smallest floating point double-to-string impleme",
+      "https://vitaut.net/posts/2025/smallest-dtoa/"
     ]
   ],
   [
