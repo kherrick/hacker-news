@@ -129,6 +129,207 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
+        <section id="46149727">
+          <h3>
+            <a class="item" href="https://www.browserbuddy.com/"
+              >Launch HN: Browser Buddy (YC W24) – A recommendation system for
+              Internet writing</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2025-12-04 @ 16:52:56</span
+              ><span class="points-container"
+                >Points: <span class="points">7</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=46149727"
+                  >Comments</a
+                ><span class="descendants">: 1</span></span
+              >
+            </h4>
+            <div class="text">
+              <p>
+                As we've grown up, this writing was a source of inspiration that
+                helped us discover ideas and opportunities we didn't even know
+                we were looking for (ex. applying to YC because of PG's essays).
+              </p>
+              <p>
+                But despite so many new creators and websites coming online, the
+                best of the open Internet remains hard-to-find, scattered across
+                personal sites (<a href="https://www.paulgraham.com/"
+                  >https://www.paulgraham.com/</a
+                >,
+                <a href="https://www.eugenewei.com/"
+                  >https://www.eugenewei.com/</a
+                >), niche publications (<a href="https://www.noemamag.com/"
+                  >https://www.noemamag.com/</a
+                >,
+                <a href="https://worksinprogress.co/"
+                  >https://worksinprogress.co/</a
+                >), and various independent publishing platforms (<a
+                  href="https://bearblog.dev/"
+                  >https://bearblog.dev/</a
+                >, <a href="https://substack.com/">https://substack.com/</a>,
+                <a href="https://medium.com/">https://medium.com/</a>). Outside
+                of "social" media platforms, there's very high friction to get
+                into a new subject or stumble upon credible people who write
+                about your interests.
+              </p>
+              <p>
+                We feel there should be an easier (and mobile-friendly) way to
+                find fantastic media and curate this intentional, interesting
+                information diet for yourself.
+              </p>
+              <p>
+                Browser Buddy is an iOS app that curates this interesting,
+                thought-provoking writing for you from across the Internet. It's
+                particularly good to explore topics like programming, startups,
+                math, philosophy, machine learning, and design.
+              </p>
+              <p>
+                Here's a demo:
+                <a href="https://www.youtube.com/watch?v=VmEeo4mjc7U"
+                  >https://www.youtube.com/watch?v=VmEeo4mjc7U</a
+                >
+              </p>
+              <p>Here are some example recommendations:</p>
+              <p>
+                "I'm trying to grow my early stage consumer internet company":
+                <a
+                  href="https://cdixon.org/2015/01/31/come-for-the-tool-stay-for-the-network"
+                  >https://cdixon.org/2015/01/31/come-for-the-tool-stay-for-the...</a
+                >
+                <a
+                  href="https://www.lennysnewsletter.com/p/how-the-biggest-consumer-apps-got"
+                  >https://www.lennysnewsletter.com/p/how-the-biggest-consumer-...</a
+                >
+              </p>
+              <p>
+                "I want to learn how to build beautiful web interfaces":
+                <a href="https://frankchimero.com/blog/2015/the-webs-grain/"
+                  >https://frankchimero.com/blog/2015/the-webs-grain/</a
+                >
+                <a href="https://alistapart.com/article/responsive-web-design/"
+                  >https://alistapart.com/article/responsive-web-design/</a
+                >
+              </p>
+              <p>
+                "Teach me the history of the Internet":
+                <a
+                  href="https://www.mic.com/impact/how-geocities-webrings-made-the-90s-internet-a-cozier-place-19638198"
+                  >https://www.mic.com/impact/how-geocities-webrings-made-the-9...</a
+                >
+                <a
+                  href="https://computerhistory.org/blog/history-of-the-future-october-29-1969-fifty-years-of-a-connected-world/"
+                  >https://computerhistory.org/blog/history-of-the-future-octob...</a
+                >
+              </p>
+              <p>
+                "I'm trying to read more about games and game theory":
+                <a href="https://franklantz.substack.com/p/playing-balatro"
+                  >https://franklantz.substack.com/p/playing-balatro</a
+                >
+                <a
+                  href="https://joecarlsmith.com/2022/03/16/on-expected-utility-part-1-skyscrapers-and-madmen"
+                  >https://joecarlsmith.com/2022/03/16/on-expected-utility-part...</a
+                >
+              </p>
+              <p>
+                "I've been getting into network science and network theory":
+                <a
+                  href="https://www.ribbonfarm.com/2010/10/27/warrens-plazas-and-the-edge-of-legibility/"
+                  >https://www.ribbonfarm.com/2010/10/27/warrens-plazas-and-the...</a
+                >
+                <a
+                  href="https://www.strangeloopcanon.com/p/seeing-like-a-network"
+                  >https://www.strangeloopcanon.com/p/seeing-like-a-network</a
+                >
+              </p>
+              <p>
+                We trained a language model to recommend webpages how people do
+                through hyperlinks. Hyperlinks can be an expressive way to
+                describe a webpage (<a
+                  href="https://www.ribbonfarm.com/2009/07/01/the-rhetoric-of-the-hyperlink/"
+                  >https://www.ribbonfarm.com/2009/07/01/the-rhetoric-of-the-hy...</a
+                >), but there's a lot of spam and low-quality linking online
+                that would serve as bad training examples. We found the
+                structure of the link graph to still be a fantastic way to
+                understand what content is salient, and used it heavily to
+                filter and build our dataset. The resulting model is best for
+                expressive, exploratory queries where you describe what you are
+                looking for (like a prompt to an LLM) rather than entering in
+                keywords (like a search on Google). This model is the main
+                "curation" step in our system that picks from our index of ~150
+                million (and growing) webpages.
+              </p>
+              <p>
+                We built Browser Buddy to try and recreate the feeling of
+                getting a thoughtful recommendation from a smart friend. Our
+                early users have described it as a "refreshing stream of timely
+                and timeless writing", "serendipitous discovery", "rabbit holes
+                that feel joyfully unfunneled". We are iterating on the concept
+                and how it's presented, but we really value the HN community and
+                would love to hear what you all think:
+              </p>
+              <p>
+                <a
+                  href="https://apps.apple.com/us/app/browser-buddy/id6752281959"
+                  >https://apps.apple.com/us/app/browser-buddy/id6752281959</a
+                >
+              </p>
+              <p>
+                Thank you for your time and being a part of the Internet we
+                love!
+              </p>
+              <p>
+                Jeremy (jeremy@browserbuddy.com) and Arnav
+                (arnav@browserbuddy.com)
+              </p>
+            </div>
+          </section>
+        </section>
+        <section id="46149066">
+          <h3>
+            <a
+              class="item"
+              href="https://entropicthoughts.com/feynman-vs-computer"
+              >Feynman vs. Computer</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2025-12-04 @ 16:03:02</span
+              ><span class="points-container"
+                >Points: <span class="points">10</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=46149066"
+                  >Comments</a
+                ><span class="descendants">: 2</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="46149019">
+          <h3>
+            <a
+              class="item"
+              href="https://github.com/zenfyrdev/bootloader-unlock-wall-of-shame"
+              >Bootloader Unlock Wall of Shame</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2025-12-04 @ 15:57:21</span
+              ><span class="points-container"
+                >Points: <span class="points">23</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=46149019"
+                  >Comments</a
+                ><span class="descendants">: 4</span></span
+              >
+            </h4>
+          </section>
+        </section>
         <section id="46148763">
           <h3>
             <a
@@ -141,11 +342,11 @@
             <h4>
               <span>2025-12-04 @ 15:33:14</span
               ><span class="points-container"
-                >Points: <span class="points">109</span></span
+                >Points: <span class="points">120</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46148763"
                   >Comments</a
-                ><span class="descendants">: 90</span></span
+                ><span class="descendants">: 107</span></span
               >
             </h4>
           </section>
@@ -163,11 +364,11 @@
             <h4>
               <span>2025-12-04 @ 15:31:52</span
               ><span class="points-container"
-                >Points: <span class="points">74</span></span
+                >Points: <span class="points">107</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46148748"
                   >Comments</a
-                ><span class="descendants">: 31</span></span
+                ><span class="descendants">: 75</span></span
               >
             </h4>
           </section>
@@ -184,11 +385,11 @@
             <h4>
               <span>2025-12-04 @ 15:31:12</span
               ><span class="points-container"
-                >Points: <span class="points">24</span></span
+                >Points: <span class="points">37</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46148744"
                   >Comments</a
-                ><span class="descendants">: 0</span></span
+                ><span class="descendants">: 3</span></span
               >
             </h4>
           </section>
@@ -206,11 +407,11 @@
             <h4>
               <span>2025-12-04 @ 15:06:08</span
               ><span class="points-container"
-                >Points: <span class="points">15</span></span
+                >Points: <span class="points">26</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46148460"
                   >Comments</a
-                ><span class="descendants">: 5</span></span
+                ><span class="descendants">: 16</span></span
               >
             </h4>
           </section>
@@ -227,11 +428,11 @@
             <h4>
               <span>2025-12-04 @ 13:40:00</span
               ><span class="points-container"
-                >Points: <span class="points">131</span></span
+                >Points: <span class="points">157</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46147540"
                   >Comments</a
-                ><span class="descendants">: 56</span></span
+                ><span class="descendants">: 69</span></span
               >
             </h4>
           </section>
@@ -246,11 +447,11 @@
             <h4>
               <span>2025-12-04 @ 13:22:35</span
               ><span class="points-container"
-                >Points: <span class="points">86</span></span
+                >Points: <span class="points">91</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46147371"
                   >Comments</a
-                ><span class="descendants">: 21</span></span
+                ><span class="descendants">: 30</span></span
               >
             </h4>
           </section>
@@ -267,11 +468,11 @@
             <h4>
               <span>2025-12-04 @ 13:20:07</span
               ><span class="points-container"
-                >Points: <span class="points">198</span></span
+                >Points: <span class="points">222</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46147353"
                   >Comments</a
-                ><span class="descendants">: 178</span></span
+                ><span class="descendants">: 191</span></span
               >
             </h4>
           </section>
@@ -288,11 +489,11 @@
             <h4>
               <span>2025-12-04 @ 13:18:38</span
               ><span class="points-container"
-                >Points: <span class="points">60</span></span
+                >Points: <span class="points">68</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46147341"
                   >Comments</a
-                ><span class="descendants">: 20</span></span
+                ><span class="descendants">: 21</span></span
               >
             </h4>
           </section>
@@ -310,11 +511,11 @@
             <h4>
               <span>2025-12-04 @ 12:09:43</span
               ><span class="points-container"
-                >Points: <span class="points">90</span></span
+                >Points: <span class="points">100</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46146740"
                   >Comments</a
-                ><span class="descendants">: 61</span></span
+                ><span class="descendants">: 83</span></span
               >
             </h4>
           </section>
@@ -331,11 +532,11 @@
             <h4>
               <span>2025-12-04 @ 11:36:36</span
               ><span class="points-container"
-                >Points: <span class="points">242</span></span
+                >Points: <span class="points">252</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46146451"
                   >Comments</a
-                ><span class="descendants">: 88</span></span
+                ><span class="descendants">: 101</span></span
               >
             </h4>
           </section>
@@ -352,11 +553,11 @@
             <h4>
               <span>2025-12-04 @ 11:32:00</span
               ><span class="points-container"
-                >Points: <span class="points">131</span></span
+                >Points: <span class="points">140</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46146406"
                   >Comments</a
-                ><span class="descendants">: 49</span></span
+                ><span class="descendants">: 55</span></span
               >
             </h4>
           </section>
@@ -375,7 +576,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46146204"
                   >Comments</a
-                ><span class="descendants">: 6</span></span
+                ><span class="descendants">: 7</span></span
               >
             </h4>
           </section>
@@ -390,11 +591,11 @@
             <h4>
               <span>2025-12-04 @ 10:52:42</span
               ><span class="points-container"
-                >Points: <span class="points">357</span></span
+                >Points: <span class="points">373</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46146133"
                   >Comments</a
-                ><span class="descendants">: 82</span></span
+                ><span class="descendants">: 85</span></span
               >
             </h4>
           </section>
@@ -411,11 +612,11 @@
             <h4>
               <span>2025-12-04 @ 10:06:35</span
               ><span class="points-container"
-                >Points: <span class="points">315</span></span
+                >Points: <span class="points">329</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46145834"
                   >Comments</a
-                ><span class="descendants">: 115</span></span
+                ><span class="descendants">: 127</span></span
               >
             </h4>
           </section>
@@ -430,31 +631,11 @@
             <h4>
               <span>2025-12-04 @ 09:01:55</span
               ><span class="points-container"
-                >Points: <span class="points">481</span></span
+                >Points: <span class="points">498</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46145365"
                   >Comments</a
-                ><span class="descendants">: 241</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="46145180">
-          <h3>
-            <a class="item" href="https://arxiv.org/abs/2512.04047"
-              >Elites could shape mass preferences as AI reduces persuasion
-              costs</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2025-12-04 @ 08:38:17</span
-              ><span class="points-container"
-                >Points: <span class="points">356</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=46145180"
-                  >Comments</a
-                ><span class="descendants">: 366</span></span
+                ><span class="descendants">: 252</span></span
               >
             </h4>
           </section>
@@ -487,11 +668,11 @@
             <h4>
               <span>2025-12-04 @ 06:02:23</span
               ><span class="points-container"
-                >Points: <span class="points">253</span></span
+                >Points: <span class="points">264</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46144275"
                   >Comments</a
-                ><span class="descendants">: 111</span></span
+                ><span class="descendants">: 116</span></span
               >
             </h4>
           </section>
@@ -506,11 +687,11 @@
             <h4>
               <span>2025-12-04 @ 00:08:26</span
               ><span class="points-container"
-                >Points: <span class="points">443</span></span
+                >Points: <span class="points">452</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46142100"
                   >Comments</a
-                ><span class="descendants">: 326</span></span
+                ><span class="descendants">: 331</span></span
               >
             </h4>
           </section>
@@ -528,11 +709,11 @@
             <h4>
               <span>2025-12-03 @ 20:35:27</span
               ><span class="points-container"
-                >Points: <span class="points">337</span></span
+                >Points: <span class="points">344</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46139761"
                   >Comments</a
-                ><span class="descendants">: 108</span></span
+                ><span class="descendants">: 115</span></span
               >
             </h4>
             <div class="text">
@@ -598,32 +779,11 @@
             <h4>
               <span>2025-12-03 @ 18:40:06</span
               ><span class="points-container"
-                >Points: <span class="points">1240</span></span
+                >Points: <span class="points">1248</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46138238"
                   >Comments</a
                 ><span class="descendants">: 265</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="46137783">
-          <h3>
-            <a
-              class="item"
-              href="https://investors.micron.com/news-releases/news-release-details/micron-announces-exit-crucial-consumer-business"
-              >Micron Announces Exit from Crucial Consumer Business</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2025-12-03 @ 18:04:32</span
-              ><span class="points-container"
-                >Points: <span class="points">693</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=46137783"
-                  >Comments</a
-                ><span class="descendants">: 344</span></span
               >
             </h4>
           </section>
@@ -640,38 +800,13 @@
             <h4>
               <span>2025-12-03 @ 17:24:49</span
               ><span class="points-container"
-                >Points: <span class="points">493</span></span
+                >Points: <span class="points">495</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46137253"
                   >Comments</a
-                ><span class="descendants">: 188</span></span
+                ><span class="descendants">: 189</span></span
               >
             </h4>
-          </section>
-        </section>
-        <section id="46126446">
-          <h3>
-            <a
-              class="item"
-              href="https://www.theverge.com/report/820656/valve-interview-arm-gaming-steamos-pierre-loup-griffais"
-              >Valve reveals it’s the architect behind a push to bring Windows
-              games to Arm</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2025-12-02 @ 20:33:10</span
-              ><span class="points-container"
-                >Points: <span class="points">893</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=46126446"
-                  >Comments</a
-                ><span class="descendants">: 758</span></span
-              >
-            </h4>
-            <div class="text">
-              <a href="https://archive.is/AKhTr">https://archive.is/AKhTr</a>
-            </div>
           </section>
         </section>
         <section id="46121619">
@@ -686,7 +821,7 @@
             <h4>
               <span>2025-12-02 @ 14:37:55</span
               ><span class="points-container"
-                >Points: <span class="points">7</span></span
+                >Points: <span class="points">14</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46121619"
                   >Comments</a
@@ -707,7 +842,7 @@
             <h4>
               <span>2025-12-01 @ 16:14:39</span
               ><span class="points-container"
-                >Points: <span class="points">10</span></span
+                >Points: <span class="points">12</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46109130"
                   >Comments</a
@@ -726,11 +861,11 @@
             <h4>
               <span>2025-12-01 @ 15:28:13</span
               ><span class="points-container"
-                >Points: <span class="points">99</span></span
+                >Points: <span class="points">101</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46108557"
                   >Comments</a
-                ><span class="descendants">: 33</span></span
+                ><span class="descendants">: 34</span></span
               >
             </h4>
           </section>
@@ -747,11 +882,11 @@
             <h4>
               <span>2025-12-01 @ 07:30:46</span
               ><span class="points-container"
-                >Points: <span class="points">41</span></span
+                >Points: <span class="points">45</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46104539"
                   >Comments</a
-                ><span class="descendants">: 6</span></span
+                ><span class="descendants">: 7</span></span
               >
             </h4>
           </section>
@@ -766,11 +901,11 @@
             <h4>
               <span>2025-11-30 @ 10:21:34</span
               ><span class="points-container"
-                >Points: <span class="points">61</span></span
+                >Points: <span class="points">65</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46095474"
                   >Comments</a
-                ><span class="descendants">: 24</span></span
+                ><span class="descendants">: 26</span></span
               >
             </h4>
           </section>
@@ -787,11 +922,11 @@
             <h4>
               <span>2025-11-29 @ 05:02:13</span
               ><span class="points-container"
-                >Points: <span class="points">65</span></span
+                >Points: <span class="points">70</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46085280"
                   >Comments</a
-                ><span class="descendants">: 26</span></span
+                ><span class="descendants">: 27</span></span
               >
             </h4>
           </section>
