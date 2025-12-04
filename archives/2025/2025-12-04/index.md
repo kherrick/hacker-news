@@ -4,12 +4,16 @@
 
 ### [Archives](../../index.md) for [2025-12-04](index.md)
 
+* [2025-12-04, 11:36:36](https://news.ycombinator.com/item?id=46146451) - [I Ignore the Spotlight as a Staff Engineer](https://lalitm.com/software-engineering-outside-the-spotlight/)
+* [2025-12-04, 11:32:00](https://news.ycombinator.com/item?id=46146406) - [30 years ago today \"Netscape and Sun announce JavaScript\"](https://web.archive.org/web/20070916144913/http://wp.netscape.com/newsref/pr/newsrelease67.html)
 * [2025-12-04, 11:14:04](https://news.ycombinator.com/item?id=46146266) - [NextJS Security Vulnerability](https://nextjs.org/blog/CVE-2025-66478)
+* [2025-12-04, 11:03:16](https://news.ycombinator.com/item?id=46146204) - [Building optimistic UI in Rails (and learn custom elements)](https://railsdesigner.com/custom-elements/)
 * [2025-12-04, 10:52:42](https://news.ycombinator.com/item?id=46146133) - [PGlite – Embeddable Postgres](https://pglite.dev/)
 * [2025-12-04, 10:47:21](https://news.ycombinator.com/item?id=46146103) - [Porn company fined £1M over inadequate age checks (UK)](https://www.bbc.co.uk/news/articles/c93nll07z3go)
 * [2025-12-04, 10:25:39](https://news.ycombinator.com/item?id=46145960) - [Recreating the lost SDK for a 42-year-old operating system: VisiCorp Visi On](https://git.sr.ht/~nkali/vision-sdk/tree/main/item/note/index.md)
 * [2025-12-04, 10:15:53](https://news.ycombinator.com/item?id=46145902) - [Tunnl.gg](https://tunnl.gg)
 * [2025-12-04, 10:06:35](https://news.ycombinator.com/item?id=46145834) - [Unreal Tournament 2004 is back](https://old.reddit.com/r/unrealtournament/comments/1pdbe69/breaking_unreal_tournament_2004_is_back/)
+* [2025-12-04, 10:01:27](https://news.ycombinator.com/item?id=46145797) - [Programming Peaked](https://functional.computer/blog/programming-peaked)
 * [2025-12-04, 09:01:55](https://news.ycombinator.com/item?id=46145365) - [Oracle, it’s time to free JavaScript](https://javascript.tm/letter)
 * [2025-12-04, 08:38:17](https://news.ycombinator.com/item?id=46145180) - [Elites Could Shape Mass Preferences as AI Reduces Persuasion Costs](https://arxiv.org/abs/2512.04047)
 * [2025-12-04, 08:33:33](https://news.ycombinator.com/item?id=46145154) - [The Mysterious Realm of JavaScriptCore (2021)](https://www.cyberark.com/resources/threat-research-blog/the-mysterious-realm-of-javascriptcore)
