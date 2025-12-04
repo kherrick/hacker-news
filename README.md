@@ -22,12 +22,12 @@
 * [2025-12-04, 10:06:35](https://news.ycombinator.com/item?id=46145834) - [Unreal Tournament 2004 is back](https://old.reddit.com/r/unrealtournament/comments/1pdbe69/breaking_unreal_tournament_2004_is_back/)
 * [2025-12-04, 09:01:55](https://news.ycombinator.com/item?id=46145365) - [It’s time to free JavaScript (2024)](https://javascript.tm/letter)
 * [2025-12-04, 06:02:23](https://news.ycombinator.com/item?id=46144275) - [Uncloud - Tool for deploying containerised apps across servers without k8s](https://uncloud.run/)
+* [2025-12-04, 00:08:26](https://news.ycombinator.com/item?id=46142100) - [Average DRAM price in USD over last 18 months](https://pcpartpicker.com/trends/price/memory/)
 * [2025-12-03, 17:24:49](https://news.ycombinator.com/item?id=46137253) - [1D Conway's Life glider found, 3.7B cells long](https://conwaylife.com/forums/viewtopic.php?&p=222136#p222136)
 * [2025-12-02, 14:37:55](https://news.ycombinator.com/item?id=46121619) - [What Is \"Open Recursion\"?](https://journal.stuffwithstuff.com/2013/08/26/what-is-open-recursion/)
 * [2025-12-01, 16:14:39](https://news.ycombinator.com/item?id=46109130) - [Contextualization Machines](https://stochasm.blog/posts/contextualization-machines/)
 * [2025-12-01, 15:28:13](https://news.ycombinator.com/item?id=46108557) - [Show HN: Walrus – a Kafka alternative written in Rust](https://github.com/nubskr/walrus)
 * [2025-12-01, 07:30:46](https://news.ycombinator.com/item?id=46104539) - [A lost Amazon world just reappeared in Bolivia](https://www.sciencedaily.com/releases/2025/11/251130205421.htm)
-* [2025-11-30, 11:37:08](https://news.ycombinator.com/item?id=46095819) - [FLUX.2](https://bfl.ai/models/flux-2)
 * [2025-11-30, 10:21:34](https://news.ycombinator.com/item?id=46095474) - [Show HN: MTXT – Music Text Format](https://github.com/Daninet/mtxt)
 * [2025-11-29, 05:02:13](https://news.ycombinator.com/item?id=46085280) - [All the Way Down](https://www.futilitycloset.com/2025/11/17/all-the-way-down-2/)
 
