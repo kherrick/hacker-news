@@ -41,6 +41,7 @@
 * [2025-12-01, 14:50:16](https://news.ycombinator.com/item?id=46108106) - [Netflix Kills Casting from Its Mobile App to Most Modern TVs](https://www.macrumors.com/2025/12/01/netflix-kills-casting-from-mobile-app-to-tvs/)
 * [2025-12-01, 14:47:48](https://news.ycombinator.com/item?id=46108071) - [Ask HN: Quality of recent gens of Dell/Lenovo laptops worse than 10 years ago?](https://news.ycombinator.com/item?id=46108071)
 * [2025-12-01, 14:19:53](https://news.ycombinator.com/item?id=46107738) - [Runway rolls out new AI video model that beats Google, OpenAI in key benchmark](https://www.cnbc.com/2025/12/01/runway-gen-4-5-video-model-google-open-ai.html)
+* [2025-12-01, 14:13:14](https://news.ycombinator.com/item?id=46107660) - [A Most Important Mustard](https://www.asimov.press/p/arabidopsis)
 * [2025-12-01, 14:13:06](https://news.ycombinator.com/item?id=46107658) - [The Penicillin Myth](https://www.asimov.press/p/penicillin-myth)
 * [2025-12-01, 13:41:15](https://news.ycombinator.com/item?id=46107282) - [Cartographers Have Been Hiding Covert Illustrations Inside of Switzerland's Maps](https://eyeondesign.aiga.org/for-decades-cartographers-have-been-hiding-covert-illustrations-inside-of-switzerlands-official-maps/)
 * [2025-12-01, 13:31:58](https://news.ycombinator.com/item?id=46107177) - [A vector graphics workstation from the 70s](https://justanotherelectronicsblog.com/?p=1429)

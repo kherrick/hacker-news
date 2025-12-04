@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-12-04, 21:09:56](https://news.ycombinator.com/item?id=46153116) - [Django 6 Released](https://docs.djangoproject.com/en/6.0/releases/6.0/)
+* [2025-12-04, 21:04:29](https://news.ycombinator.com/item?id=46153058) - [CUDA-L2: Surpassing cuBLAS Performance for Matrix Multiplication Through RL](https://github.com/deepreinforce-ai/CUDA-L2)
 * [2025-12-04, 20:56:08](https://news.ycombinator.com/item?id=46152941) - [Plane crashed after 3D-printed part collapsed](https://www.bbc.com/news/articles/c1w932vqye0o)
 * [2025-12-04, 19:55:04](https://news.ycombinator.com/item?id=46152098) - [CJEU has made it effectively impossible to run a user-generated platform legally](https://www.techdirt.com/2025/12/04/eus-top-court-just-made-it-literally-impossible-to-run-a-user-generated-content-platform-legally/)
 * [2025-12-04, 19:16:11](https://news.ycombinator.com/item?id=46151578) - [The RAM shortage comes for us all](https://www.jeffgeerling.com/blog/2025/ram-shortage-comes-us-all)
@@ -24,10 +26,8 @@
 * [2025-12-04, 09:01:55](https://news.ycombinator.com/item?id=46145365) - [It’s time to free JavaScript (2024)](https://javascript.tm/letter)
 * [2025-12-04, 08:38:17](https://news.ycombinator.com/item?id=46145180) - [How elites could shape mass preferences as AI reduces persuasion costs](https://arxiv.org/abs/2512.04047)
 * [2025-12-04, 06:02:23](https://news.ycombinator.com/item?id=46144275) - [Uncloud - Tool for deploying containerised apps across servers without k8s](https://uncloud.run/)
-* [2025-12-02, 14:37:55](https://news.ycombinator.com/item?id=46121619) - [What Is \"Open Recursion\"? (2013)](https://journal.stuffwithstuff.com/2013/08/26/what-is-open-recursion/)
+* [2025-12-01, 14:13:14](https://news.ycombinator.com/item?id=46107660) - [A Most Important Mustard](https://www.asimov.press/p/arabidopsis)
 * [2025-12-01, 07:30:46](https://news.ycombinator.com/item?id=46104539) - [A lost Amazon world just reappeared in Bolivia](https://www.frontiersin.org/news/2025/11/06/landscapes-that-remember-indigenous-peoples-thrived-amazon)
-* [2025-12-01, 00:03:51](https://news.ycombinator.com/item?id=46101816) - [The differences between an IndyCar and a F1 car](https://www.openwheelworld.net/en/indycar101/76/IndyCar_vs_Formula_1_cars)
-* [2025-11-30, 10:21:34](https://news.ycombinator.com/item?id=46095474) - [Show HN: MTXT – Music Text Format](https://github.com/Daninet/mtxt)
 * [2025-11-29, 17:48:17](https://news.ycombinator.com/item?id=46089344) - [Show HN: Chess on a Donut/Torus and Deep-Dive](https://mchess.io/donut)
 * [2025-11-27, 21:24:10](https://news.ycombinator.com/item?id=46073346) - [Yawning abyss of the decimal labyrinth](https://oh4.co/site/numogrammaticism.html)
 
