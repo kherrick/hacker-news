@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-12-04](index.md)
 
 * [2025-12-04, 07:00:51](https://news.ycombinator.com/item?id=46144613) - [Saturn (YC S24) Is Hiring Senior AI Engineer](https://www.ycombinator.com/companies/saturn/jobs/R9s9o5f-senior-ai-engineer)
+* [2025-12-04, 06:12:23](https://news.ycombinator.com/item?id=46144331) - [Show HN: Mirror_bridge – C++ Reflection powered Python binding generation](https://github.com/FranciscoThiesen/mirror_bridge)
 * [2025-12-04, 06:02:23](https://news.ycombinator.com/item?id=46144275) - [Uncloud - Tool for deploying containerised apps across servers without k8s](https://uncloud.run/)
 * [2025-12-04, 05:47:31](https://news.ycombinator.com/item?id=46144199) - [Mirror_bridge – C++ reflection for generating Python/JS/Lua bindings](https://chico.dev/Mirror-Bridge/)
 * [2025-12-04, 05:29:51](https://news.ycombinator.com/item?id=46144113) - [Show HN: A Minimal Monthly Task Planner (printable, offline, no signup)](https://printcalendar.top/)

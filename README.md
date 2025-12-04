@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-12-04, 07:00:51](https://news.ycombinator.com/item?id=46144613) - [Saturn (YC S24) Is Hiring Senior AI Engineer](https://www.ycombinator.com/companies/saturn/jobs/R9s9o5f-senior-ai-engineer)
+* [2025-12-04, 06:12:23](https://news.ycombinator.com/item?id=46144331) - [Show HN: Mirror_bridge – C++ Reflection powered Python binding generation](https://github.com/FranciscoThiesen/mirror_bridge)
 * [2025-12-04, 06:02:23](https://news.ycombinator.com/item?id=46144275) - [Uncloud - Tool for deploying containerised apps across servers without k8s](https://uncloud.run/)
 * [2025-12-04, 05:47:31](https://news.ycombinator.com/item?id=46144199) - [Mirror_bridge – C++ reflection for generating Python/JS/Lua bindings](https://chico.dev/Mirror-Bridge/)
 * [2025-12-04, 05:29:51](https://news.ycombinator.com/item?id=46144113) - [Show HN: A Minimal Monthly Task Planner (printable, offline, no signup)](https://printcalendar.top/)
@@ -26,7 +27,6 @@
 * [2025-12-02, 20:33:10](https://news.ycombinator.com/item?id=46126446) - [Valve reveals it’s the architect behind a push to bring Windows games to Arm](https://www.theverge.com/report/820656/valve-interview-arm-gaming-steamos-pierre-loup-griffais)
 * [2025-12-02, 09:29:06](https://news.ycombinator.com/item?id=46119337) - [Visualize 4B Years: The Trillions of Generations: LUCA to Modern Human](https://www.g9n.com/tools/learning/evolution-visualisation)
 * [2025-12-01, 00:03:51](https://news.ycombinator.com/item?id=46101816) - [The Differences Between an IndyCar and a F1 Car](https://www.openwheelworld.net/en/indycar101/76/IndyCar_vs_Formula_1_cars)
-* [2025-11-30, 22:07:08](https://news.ycombinator.com/item?id=46100913) - [Show HN: Identifiy test coverage gaps in your Go projects](https://github.com/LeanerCloud/testvet)
 * [2025-11-30, 15:46:36](https://news.ycombinator.com/item?id=46097563) - [Ethiopian Volcano Erupts for First Time in Nearly 12K Years of Records](https://www.smithsonianmag.com/smart-news/ethiopian-volcano-erupts-for-the-first-time-in-nearly-12000-years-of-scientific-records-180987764/)
 * [2025-11-29, 08:32:21](https://news.ycombinator.com/item?id=46085982) - [Preserving Snow Crystals](https://www.its.caltech.edu/~atomic/snowcrystals/preserve/preserve.htm)
 * [2025-11-27, 19:04:56](https://news.ycombinator.com/item?id=46072280) - [How to Synthesize a House Loop](https://loopmaster.xyz/tutorials/how-to-synthesize-a-house-loop)
