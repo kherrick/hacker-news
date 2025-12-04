@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-12-04, 15:33:14](https://news.ycombinator.com/item?id=46148763) - [The Free Software Foundation Europe deleted its account on X](https://fsfe.org/news/2025/news-20251204-01.en.html)
-* [2025-12-04, 15:23:28](https://news.ycombinator.com/item?id=46148649) - [Microsoft faces complaint in EU over Israeli surveillance data](https://www.france24.com/en/live-news/20251204-microsoft-faces-complaint-in-eu-over-israeli-surveillance-data)
+* [2025-12-04, 15:26:29](https://news.ycombinator.com/item?id=46148686) - [The Math Legend Who Just Left Academia–For an AI Startup Run by a 24-Year-Old](https://www.wsj.com/tech/ai/math-ken-ono-carina-hong-axiom-startup-649bc417)
 * [2025-12-04, 13:40:00](https://news.ycombinator.com/item?id=46147540) - [Transparent Leadership Beats Servant Leadership](https://entropicthoughts.com/transparent-leadership-beats-servant-leadership)
 * [2025-12-04, 13:22:35](https://news.ycombinator.com/item?id=46147371) - [Human hair grows through 'pulling' not pushing, study shows](https://phys.org/news/2025-12-human-hair.html)
 * [2025-12-04, 13:20:07](https://news.ycombinator.com/item?id=46147353) - [RAM is so expensive, Samsung won't even sell it to Samsung](https://www.pcworld.com/article/2998935/ram-is-so-expensive-samsung-wont-even-sell-it-to-samsung.html)
