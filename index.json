@@ -1,22 +1,22 @@
 [
   [
     [
-      "2025-12-04, 18:11:36",
-      "https://news.ycombinator.com/item?id=46150806"
-    ],
-    [
-      "Crucial shutting down as Micron wants to sell RAM/SSDs to AI companies instead",
-      "https://www.theverge.com/news/837594/crucial-ram-ssd-micron-ai"
-    ]
-  ],
-  [
-    [
       "2025-12-04, 18:04:07",
       "https://news.ycombinator.com/item?id=46150715"
     ],
     [
-      "Why Are 38 Percent of Stanford Students Saying They're Disabled?",
+      "Why are 38 percent of Stanford students saying they're disabled?",
       "https://reason.com/2025/12/04/why-are-38-percent-of-stanford-students-saying-theyre-disabled/"
+    ]
+  ],
+  [
+    [
+      "2025-12-04, 17:43:07",
+      "https://news.ycombinator.com/item?id=46150447"
+    ],
+    [
+      "PyTogether: Collaborative lightweight real-time Python IDE for teachers/learners",
+      "https://github.com/SJRiz/pytogether"
     ]
   ],
   [
@@ -37,16 +37,6 @@
     [
       "Multivox: Volumetric Display",
       "https://github.com/AncientJames/multivox"
-    ]
-  ],
-  [
-    [
-      "2025-12-04, 16:53:49",
-      "https://news.ycombinator.com/item?id=46149740"
-    ],
-    [
-      "The End of the Train-Test Split",
-      "https://folio.benguzovsky.com/train-test"
     ]
   ],
   [
@@ -115,7 +105,7 @@
       "https://news.ycombinator.com/item?id=46148460"
     ],
     [
-      "Show HN: OnlyRecipe 2.0 – I added all features HN requested – 4 years later",
+      "Show HN: Onlyrecipe 2.0 – I added all features HN requested – 4 years later",
       "https://onlyrecipeapp.com/?url=https://www.allrecipes.com/turkish-pasta-recipe-8754903"
     ]
   ],
@@ -125,8 +115,18 @@
       "https://news.ycombinator.com/item?id=46147540"
     ],
     [
-      "Transparent Leadership Beats Servant Leadership",
+      "Transparent leadership beats servant leadership",
       "https://entropicthoughts.com/transparent-leadership-beats-servant-leadership"
+    ]
+  ],
+  [
+    [
+      "2025-12-04, 13:34:27",
+      "https://news.ycombinator.com/item?id=46147493"
+    ],
+    [
+      "Fighting the age-gated internet",
+      "https://www.wired.com/story/age-verification-is-sweeping-the-us-activists-are-fighting-back/"
     ]
   ],
   [
@@ -155,7 +155,7 @@
       "https://news.ycombinator.com/item?id=46146740"
     ],
     [
-      "Japanese Four-Cylinder Engine Is So Reliable Still in Production After 25 Years",
+      "Japanese four-cylinder engine is so reliable still in production after 25 years",
       "https://www.topspeed.com/reliable-japanese-four-cylinder-engine-still-in-production/"
     ]
   ],
@@ -167,16 +167,6 @@
     [
       "I ignore the spotlight as a staff engineer",
       "https://lalitm.com/software-engineering-outside-the-spotlight/"
-    ]
-  ],
-  [
-    [
-      "2025-12-04, 11:32:00",
-      "https://news.ycombinator.com/item?id=46146406"
-    ],
-    [
-      "30 years ago today \"Netscape and Sun announce JavaScript\"",
-      "https://web.archive.org/web/20070916144913/http://wp.netscape.com/newsref/pr/newsrelease67.html"
     ]
   ],
   [
@@ -197,6 +187,16 @@
     [
       "PGlite – Embeddable Postgres",
       "https://pglite.dev/"
+    ]
+  ],
+  [
+    [
+      "2025-12-04, 10:15:53",
+      "https://news.ycombinator.com/item?id=46145902"
+    ],
+    [
+      "Tunnl.gg",
+      "https://tunnl.gg"
     ]
   ],
   [
@@ -231,32 +231,12 @@
   ],
   [
     [
-      "2025-12-04, 00:08:26",
-      "https://news.ycombinator.com/item?id=46142100"
-    ],
-    [
-      "Average DRAM price in USD over last 18 months",
-      "https://pcpartpicker.com/trends/price/memory/"
-    ]
-  ],
-  [
-    [
       "2025-12-02, 14:37:55",
       "https://news.ycombinator.com/item?id=46121619"
     ],
     [
       "What Is \"Open Recursion\"?",
       "https://journal.stuffwithstuff.com/2013/08/26/what-is-open-recursion/"
-    ]
-  ],
-  [
-    [
-      "2025-12-01, 16:14:39",
-      "https://news.ycombinator.com/item?id=46109130"
-    ],
-    [
-      "Contextualization Machines",
-      "https://stochasm.blog/posts/contextualization-machines/"
     ]
   ],
   [
@@ -281,6 +261,16 @@
   ],
   [
     [
+      "2025-12-01, 00:03:51",
+      "https://news.ycombinator.com/item?id=46101816"
+    ],
+    [
+      "The differences between an IndyCar and a F1 car",
+      "https://www.openwheelworld.net/en/indycar101/76/IndyCar_vs_Formula_1_cars"
+    ]
+  ],
+  [
+    [
       "2025-11-30, 10:21:34",
       "https://news.ycombinator.com/item?id=46095474"
     ],
@@ -297,6 +287,16 @@
     [
       "The long wait is over, Ganymede has arrived",
       "https://endeavouros.com/news/the-long-wait-is-over-ganymede-has-arrived/"
+    ]
+  ],
+  [
+    [
+      "2025-11-29, 17:48:17",
+      "https://news.ycombinator.com/item?id=46089344"
+    ],
+    [
+      "Show HN: Chess on a Donut/Torus and Deep-Dive",
+      "https://mchess.io/donut"
     ]
   ]
 ]
