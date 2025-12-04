@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-12-04](index.md)
 
+* [2025-12-04, 10:25:39](https://news.ycombinator.com/item?id=46145960) - [Recreating the lost SDK for a 42-year-old operating system: VisiCorp Visi On](https://git.sr.ht/~nkali/vision-sdk/tree/main/item/note/index.md)
+* [2025-12-04, 10:06:35](https://news.ycombinator.com/item?id=46145834) - [Unreal Tournament 2004 is back](https://old.reddit.com/r/unrealtournament/comments/1pdbe69/breaking_unreal_tournament_2004_is_back/)
 * [2025-12-04, 08:38:17](https://news.ycombinator.com/item?id=46145180) - [Elites Could Shape Mass Preferences as AI Reduces Persuasion Costs](https://arxiv.org/abs/2512.04047)
 * [2025-12-04, 08:33:33](https://news.ycombinator.com/item?id=46145154) - [The Mysterious Realm of JavaScriptCore (2021)](https://www.cyberark.com/resources/threat-research-blog/the-mysterious-realm-of-javascriptcore)
 * [2025-12-04, 07:26:39](https://news.ycombinator.com/item?id=46144752) - [How AI is transforming work at Anthropic](https://www.anthropic.com/research/how-ai-is-transforming-work-at-anthropic)

@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-12-04, 10:25:39](https://news.ycombinator.com/item?id=46145960) - [Recreating the lost SDK for a 42-year-old operating system: VisiCorp Visi On](https://git.sr.ht/~nkali/vision-sdk/tree/main/item/note/index.md)
+* [2025-12-04, 10:06:35](https://news.ycombinator.com/item?id=46145834) - [Unreal Tournament 2004 is back](https://old.reddit.com/r/unrealtournament/comments/1pdbe69/breaking_unreal_tournament_2004_is_back/)
 * [2025-12-04, 08:38:17](https://news.ycombinator.com/item?id=46145180) - [Elites Could Shape Mass Preferences as AI Reduces Persuasion Costs](https://arxiv.org/abs/2512.04047)
 * [2025-12-04, 08:33:33](https://news.ycombinator.com/item?id=46145154) - [The Mysterious Realm of JavaScriptCore (2021)](https://www.cyberark.com/resources/threat-research-blog/the-mysterious-realm-of-javascriptcore)
 * [2025-12-04, 07:00:51](https://news.ycombinator.com/item?id=46144613) - [Saturn (YC S24) Is Hiring Senior AI Engineer](https://www.ycombinator.com/companies/saturn/jobs/R9s9o5f-senior-ai-engineer)
@@ -13,7 +15,6 @@
 * [2025-12-03, 23:28:34](https://news.ycombinator.com/item?id=46141745) - [Acme, a brief history of one of the protocols which has changed the Internet](https://blog.brocas.org/2025/12/01/ACME-a-brief-history-of-one-of-the-protocols-which-has-changed-the-Internet-Security/)
 * [2025-12-03, 21:16:11](https://news.ycombinator.com/item?id=46140244) - [8086 Microcode Browser](https://nand2mario.github.io/posts/2025/8086_microcode_browser/)
 * [2025-12-03, 20:35:27](https://news.ycombinator.com/item?id=46139761) - [Show HN: I built a dashboard to compare mortgage rates across 120 credit unions](https://finfam.app/blog/credit-union-mortgages)
-* [2025-12-03, 19:37:25](https://news.ycombinator.com/item?id=46138952) - [Everyone in Seattle hates AI](https://jonready.com/blog/posts/everyone-in-seattle-hates-ai.html)
 * [2025-12-03, 19:12:40](https://news.ycombinator.com/item?id=46138632) - [Lie groups are crucial to some of the most fundamental theories in physics](https://www.quantamagazine.org/what-are-lie-groups-20251203/)
 * [2025-12-03, 18:40:06](https://news.ycombinator.com/item?id=46138238) - [Ghostty is now non-profit](https://mitchellh.com/writing/ghostty-non-profit)
 * [2025-12-03, 18:04:32](https://news.ycombinator.com/item?id=46137783) - [Micron Announces Exit from Crucial Consumer Business](https://investors.micron.com/news-releases/news-release-details/micron-announces-exit-crucial-consumer-business)
@@ -22,7 +23,6 @@
 * [2025-12-03, 17:24:49](https://news.ycombinator.com/item?id=46137253) - [1D Conway's Life glider found, 3.7B cells long](https://conwaylife.com/forums/viewtopic.php?&p=222136#p222136)
 * [2025-12-03, 16:00:23](https://news.ycombinator.com/item?id=46136026) - [RCE Vulnerability in React and Next.js](https://github.com/vercel/next.js/security/advisories/GHSA-9qr9-h5gf-34mp)
 * [2025-12-03, 15:30:30](https://news.ycombinator.com/item?id=46135627) - [Why are my headphones buzzing whenever I run my game?](https://alexene.dev/2025/12/03/Why-do-my-headphones-buzz-when-i-run-my-game.html)
-* [2025-12-03, 12:14:34](https://news.ycombinator.com/item?id=46133622) - [You can't fool the optimizer](https://xania.org/202512/03-more-adding-integers)
 * [2025-12-02, 20:33:10](https://news.ycombinator.com/item?id=46126446) - [Valve reveals it’s the architect behind a push to bring Windows games to Arm](https://www.theverge.com/report/820656/valve-interview-arm-gaming-steamos-pierre-loup-griffais)
 * [2025-12-01, 15:28:13](https://news.ycombinator.com/item?id=46108557) - [Show HN: Walrus – a Kafka alternative written in Rust](https://github.com/nubskr/walrus)
 * [2025-11-30, 15:46:36](https://news.ycombinator.com/item?id=46097563) - [Ethiopian Volcano Erupts for First Time in Nearly 12K Years of Records](https://www.smithsonianmag.com/smart-news/ethiopian-volcano-erupts-for-the-first-time-in-nearly-12000-years-of-scientific-records-180987764/)
