@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-12-04](index.md)
 
+* [2025-12-04, 13:22:35](https://news.ycombinator.com/item?id=46147371) - [Human hair grows through 'pulling' not pushing, study shows](https://phys.org/news/2025-12-human-hair.html)
+* [2025-12-04, 13:20:07](https://news.ycombinator.com/item?id=46147353) - [RAM is so expensive, Samsung won't even sell it to Samsung](https://www.pcworld.com/article/2998935/ram-is-so-expensive-samsung-wont-even-sell-it-to-samsung.html)
+* [2025-12-04, 13:18:38](https://news.ycombinator.com/item?id=46147341) - [Functional Quadtrees](https://lbjgruppen.com/en/posts/functional-quadtree-clojure)
 * [2025-12-04, 11:36:36](https://news.ycombinator.com/item?id=46146451) - [I Ignore the Spotlight as a Staff Engineer](https://lalitm.com/software-engineering-outside-the-spotlight/)
 * [2025-12-04, 11:32:00](https://news.ycombinator.com/item?id=46146406) - [30 years ago today \"Netscape and Sun announce JavaScript\"](https://web.archive.org/web/20070916144913/http://wp.netscape.com/newsref/pr/newsrelease67.html)
 * [2025-12-04, 11:14:04](https://news.ycombinator.com/item?id=46146266) - [NextJS Security Vulnerability](https://nextjs.org/blog/CVE-2025-66478)
