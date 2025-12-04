@@ -5,7 +5,7 @@
       "https://news.ycombinator.com/item?id=46146451"
     ],
     [
-      "I Ignore the Spotlight as a Staff Engineer",
+      "I ignore the spotlight as a staff engineer",
       "https://lalitm.com/software-engineering-outside-the-spotlight/"
     ]
   ],
@@ -17,16 +17,6 @@
     [
       "30 years ago today \"Netscape and Sun announce JavaScript\"",
       "https://web.archive.org/web/20070916144913/http://wp.netscape.com/newsref/pr/newsrelease67.html"
-    ]
-  ],
-  [
-    [
-      "2025-12-04, 11:14:04",
-      "https://news.ycombinator.com/item?id=46146266"
-    ],
-    [
-      "NextJS Security Vulnerability",
-      "https://nextjs.org/blog/CVE-2025-66478"
     ]
   ],
   [
@@ -65,7 +55,7 @@
       "https://news.ycombinator.com/item?id=46145797"
     ],
     [
-      "Programming Peaked",
+      "Programming peaked",
       "https://functional.computer/blog/programming-peaked"
     ]
   ],
@@ -287,6 +277,16 @@
     [
       "All the Way Down",
       "https://www.futilitycloset.com/2025/11/17/all-the-way-down-2/"
+    ]
+  ],
+  [
+    [
+      "2025-11-29, 03:55:55",
+      "https://news.ycombinator.com/item?id=46085070"
+    ],
+    [
+      "Shrinking Elephants: Managing large projects with Gradle",
+      "https://engineering.block.xyz/blog/shrinking-elephants"
     ]
   ],
   [
