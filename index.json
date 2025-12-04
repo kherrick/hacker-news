@@ -1,6 +1,36 @@
 [
   [
     [
+      "2025-12-04, 13:22:35",
+      "https://news.ycombinator.com/item?id=46147371"
+    ],
+    [
+      "Human hair grows through 'pulling' not pushing, study shows",
+      "https://phys.org/news/2025-12-human-hair.html"
+    ]
+  ],
+  [
+    [
+      "2025-12-04, 13:20:07",
+      "https://news.ycombinator.com/item?id=46147353"
+    ],
+    [
+      "RAM is so expensive, Samsung won't even sell it to Samsung",
+      "https://www.pcworld.com/article/2998935/ram-is-so-expensive-samsung-wont-even-sell-it-to-samsung.html"
+    ]
+  ],
+  [
+    [
+      "2025-12-04, 13:18:38",
+      "https://news.ycombinator.com/item?id=46147341"
+    ],
+    [
+      "Functional Quadtrees",
+      "https://lbjgruppen.com/en/posts/functional-quadtree-clojure"
+    ]
+  ],
+  [
+    [
       "2025-12-04, 11:36:36",
       "https://news.ycombinator.com/item?id=46146451"
     ],
@@ -191,16 +221,6 @@
   ],
   [
     [
-      "2025-12-03, 17:47:15",
-      "https://news.ycombinator.com/item?id=46137548"
-    ],
-    [
-      "Launch HN: Phind 3 (YC S22) – Every answer is a mini-app",
-      "https://news.ycombinator.com/item?id=46137548"
-    ]
-  ],
-  [
-    [
       "2025-12-03, 17:44:33",
       "https://news.ycombinator.com/item?id=46137514"
     ],
@@ -217,16 +237,6 @@
     [
       "1D Conway's Life glider found, 3.7B cells long",
       "https://conwaylife.com/forums/viewtopic.php?&p=222136#p222136"
-    ]
-  ],
-  [
-    [
-      "2025-12-03, 16:00:23",
-      "https://news.ycombinator.com/item?id=46136026"
-    ],
-    [
-      "RCE Vulnerability in React and Next.js",
-      "https://github.com/vercel/next.js/security/advisories/GHSA-9qr9-h5gf-34mp"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Shrinking Elephants: Managing large projects with Gradle",
       "https://engineering.block.xyz/blog/shrinking-elephants"
-    ]
-  ],
-  [
-    [
-      "2025-11-27, 19:04:56",
-      "https://news.ycombinator.com/item?id=46072280"
-    ],
-    [
-      "How to Synthesize a House Loop",
-      "https://loopmaster.xyz/tutorials/how-to-synthesize-a-house-loop"
     ]
   ]
 ]
