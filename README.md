@@ -1,12 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-12-04, 11:36:36](https://news.ycombinator.com/item?id=46146451) - [I Ignore the Spotlight as a Staff Engineer](https://lalitm.com/software-engineering-outside-the-spotlight/)
+* [2025-12-04, 11:36:36](https://news.ycombinator.com/item?id=46146451) - [I ignore the spotlight as a staff engineer](https://lalitm.com/software-engineering-outside-the-spotlight/)
 * [2025-12-04, 11:32:00](https://news.ycombinator.com/item?id=46146406) - [30 years ago today \"Netscape and Sun announce JavaScript\"](https://web.archive.org/web/20070916144913/http://wp.netscape.com/newsref/pr/newsrelease67.html)
-* [2025-12-04, 11:14:04](https://news.ycombinator.com/item?id=46146266) - [NextJS Security Vulnerability](https://nextjs.org/blog/CVE-2025-66478)
 * [2025-12-04, 11:03:16](https://news.ycombinator.com/item?id=46146204) - [Building optimistic UI in Rails (and learn custom elements)](https://railsdesigner.com/custom-elements/)
 * [2025-12-04, 10:52:42](https://news.ycombinator.com/item?id=46146133) - [PGlite – Embeddable Postgres](https://pglite.dev/)
 * [2025-12-04, 10:06:35](https://news.ycombinator.com/item?id=46145834) - [Unreal Tournament 2004 is back](https://old.reddit.com/r/unrealtournament/comments/1pdbe69/breaking_unreal_tournament_2004_is_back/)
-* [2025-12-04, 10:01:27](https://news.ycombinator.com/item?id=46145797) - [Programming Peaked](https://functional.computer/blog/programming-peaked)
+* [2025-12-04, 10:01:27](https://news.ycombinator.com/item?id=46145797) - [Programming peaked](https://functional.computer/blog/programming-peaked)
 * [2025-12-04, 09:01:55](https://news.ycombinator.com/item?id=46145365) - [It’s time to free JavaScript](https://javascript.tm/letter)
 * [2025-12-04, 08:38:17](https://news.ycombinator.com/item?id=46145180) - [Elites could shape mass preferences as AI reduces persuasion costs](https://arxiv.org/abs/2512.04047)
 * [2025-12-04, 07:00:51](https://news.ycombinator.com/item?id=46144613) - [Saturn (YC S24) Is Hiring Senior AI Engineer](https://www.ycombinator.com/companies/saturn/jobs/R9s9o5f-senior-ai-engineer)
@@ -29,6 +28,7 @@
 * [2025-11-30, 17:02:32](https://news.ycombinator.com/item?id=46098356) - [Interop and MathML Core](https://conflor.es/blog/2025-11-27-interop-and-mathml/)
 * [2025-11-30, 10:21:34](https://news.ycombinator.com/item?id=46095474) - [Show HN: MTXT – Music Text Format](https://github.com/Daninet/mtxt)
 * [2025-11-29, 05:02:13](https://news.ycombinator.com/item?id=46085280) - [All the Way Down](https://www.futilitycloset.com/2025/11/17/all-the-way-down-2/)
+* [2025-11-29, 03:55:55](https://news.ycombinator.com/item?id=46085070) - [Shrinking Elephants: Managing large projects with Gradle](https://engineering.block.xyz/blog/shrinking-elephants)
 * [2025-11-27, 19:04:56](https://news.ycombinator.com/item?id=46072280) - [How to Synthesize a House Loop](https://loopmaster.xyz/tutorials/how-to-synthesize-a-house-loop)
 
 ## [Archives](archives/index.md)

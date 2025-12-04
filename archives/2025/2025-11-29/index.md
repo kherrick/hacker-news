@@ -63,6 +63,7 @@
 * [2025-11-29, 05:02:13](https://news.ycombinator.com/item?id=46085280) - [All the Way Down](https://www.futilitycloset.com/2025/11/17/all-the-way-down-2/)
 * [2025-11-29, 05:02:06](https://news.ycombinator.com/item?id=46085279) - [Wacky Fun Physics Ideas](https://scottlocklin.wordpress.com/2025/11/22/wacky-fun-physics-ideas/)
 * [2025-11-29, 05:00:27](https://news.ycombinator.com/item?id=46085276) - [The Great Downzoning](https://worksinprogress.co/issue/the-great-downzoning/)
+* [2025-11-29, 03:55:55](https://news.ycombinator.com/item?id=46085070) - [Shrinking Elephants: Managing large projects with Gradle](https://engineering.block.xyz/blog/shrinking-elephants)
 * [2025-11-29, 03:26:01](https://news.ycombinator.com/item?id=46084956) - [System 7 natively boots on the Mac mini G4](https://macos9lives.com/smforum/index.php?topic=7711.0)
 * [2025-11-29, 03:21:47](https://news.ycombinator.com/item?id=46084937) - [Neato vacuum robots to stop working](https://support.neatorobotics.com/support/solutions/articles/204000073686-announcement-6th-oct-2025)
 * [2025-11-29, 01:37:42](https://news.ycombinator.com/item?id=46084535) - [Every mathematician has only a few tricks](https://mathoverflow.net/questions/363119/every-mathematician-has-only-a-few-tricks)
