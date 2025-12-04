@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-12-04, 18:11:36](https://news.ycombinator.com/item?id=46150806) - [Crucial shutting down as Micron wants to sell RAM/SSDs to AI companies instead](https://www.theverge.com/news/837594/crucial-ram-ssd-micron-ai)
 * [2025-12-04, 18:04:07](https://news.ycombinator.com/item?id=46150715) - [Why Are 38 Percent of Stanford Students Saying They're Disabled?](https://reason.com/2025/12/04/why-are-38-percent-of-stanford-students-saying-theyre-disabled/)
 * [2025-12-04, 17:00:37](https://news.ycombinator.com/item?id=46149849) - [Converge (YC S23) is hiring a martech expert in NYC](https://www.runconverge.com/careers/technical-customer-success-manager)
 * [2025-12-04, 16:58:35](https://news.ycombinator.com/item?id=46149813) - [Multivox: Volumetric Display](https://github.com/AncientJames/multivox)
@@ -12,7 +13,6 @@
 * [2025-12-04, 15:31:12](https://news.ycombinator.com/item?id=46148744) - [Proxmox Datacenter Manager 1.0 available](https://www.proxmox.com/en/about/company-details/press-releases/proxmox-datacenter-manager-1-0)
 * [2025-12-04, 15:06:08](https://news.ycombinator.com/item?id=46148460) - [Show HN: OnlyRecipe 2.0 – I added all features HN requested – 4 years later](https://onlyrecipeapp.com/?url=https://www.allrecipes.com/turkish-pasta-recipe-8754903)
 * [2025-12-04, 13:40:00](https://news.ycombinator.com/item?id=46147540) - [Transparent Leadership Beats Servant Leadership](https://entropicthoughts.com/transparent-leadership-beats-servant-leadership)
-* [2025-12-04, 13:22:35](https://news.ycombinator.com/item?id=46147371) - [Human hair grows through 'pulling' not pushing, study shows](https://phys.org/news/2025-12-human-hair.html)
 * [2025-12-04, 13:20:07](https://news.ycombinator.com/item?id=46147353) - [RAM is so expensive, Samsung won't even sell it to Samsung](https://www.pcworld.com/article/2998935/ram-is-so-expensive-samsung-wont-even-sell-it-to-samsung.html)
 * [2025-12-04, 13:18:38](https://news.ycombinator.com/item?id=46147341) - [Functional Quadtrees](https://lbjgruppen.com/en/posts/functional-quadtree-clojure)
 * [2025-12-04, 12:09:43](https://news.ycombinator.com/item?id=46146740) - [Japanese Four-Cylinder Engine Is So Reliable Still in Production After 25 Years](https://www.topspeed.com/reliable-japanese-four-cylinder-engine-still-in-production/)
