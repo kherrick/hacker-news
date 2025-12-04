@@ -72,3 +72,4 @@
 * [2025-12-01, 00:58:32](https://news.ycombinator.com/item?id=46102202) - [Is America's jobs market nearing a cliff?](https://www.economist.com/finance-and-economics/2025/11/30/is-americas-jobs-market-nearing-a-cliff)
 * [2025-12-01, 00:53:12](https://news.ycombinator.com/item?id=46102167) - [Malware embedded into audio driver is silently recording from system mic](https://twitter.com/Officialwhyte22/status/1995024999934001602)
 * [2025-12-01, 00:28:04](https://news.ycombinator.com/item?id=46101996) - [Ly – A lightweight TUI (ncurses-like) display manager for Linux and BSD](https://codeberg.org/fairyglade/ly)
+* [2025-12-01, 00:03:51](https://news.ycombinator.com/item?id=46101816) - [The Differences Between an IndyCar and a F1 Car](https://www.openwheelworld.net/en/indycar101/76/IndyCar_vs_Formula_1_cars)
