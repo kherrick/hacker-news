@@ -6,6 +6,7 @@
 
 * [2025-12-04, 17:00:37](https://news.ycombinator.com/item?id=46149849) - [Converge (YC S23) is hiring a martech expert in NYC](https://www.runconverge.com/careers/technical-customer-success-manager)
 * [2025-12-04, 16:58:35](https://news.ycombinator.com/item?id=46149813) - [Multivox: Volumetric Display](https://github.com/AncientJames/multivox)
+* [2025-12-04, 16:53:49](https://news.ycombinator.com/item?id=46149740) - [The End of the Train-Test Split](https://folio.benguzovsky.com/train-test)
 * [2025-12-04, 16:52:56](https://news.ycombinator.com/item?id=46149727) - [Launch HN: Browser Buddy (YC W24) – A recommendation system for Internet writing](https://www.browserbuddy.com/)
 * [2025-12-04, 16:25:31](https://news.ycombinator.com/item?id=46149375) - [Autism should not be treated as a single condition](https://www.economist.com/science-and-technology/2025/12/03/why-autism-should-not-be-treated-as-a-single-condition)
 * [2025-12-04, 16:03:02](https://news.ycombinator.com/item?id=46149066) - [Feynman vs. Computer](https://entropicthoughts.com/feynman-vs-computer)
