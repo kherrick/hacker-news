@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-12-04, 23:08:25",
+      "https://news.ycombinator.com/item?id=46154491"
+    ],
+    [
+      "We gave 5 LLMs $100K to trade stocks for 8 months",
+      "https://www.aitradearena.com/research/we-ran-llms-for-8-months"
+    ]
+  ],
+  [
+    [
       "2025-12-04, 22:26:43",
       "https://news.ycombinator.com/item?id=46154022"
     ],
@@ -21,16 +31,6 @@
   ],
   [
     [
-      "2025-12-04, 21:27:36",
-      "https://news.ycombinator.com/item?id=46153332"
-    ],
-    [
-      "Countdown until the AI bubble bursts",
-      "https://pop-the-bubble.xyz/"
-    ]
-  ],
-  [
-    [
       "2025-12-04, 21:09:56",
       "https://news.ycombinator.com/item?id=46153116"
     ],
@@ -45,7 +45,7 @@
       "https://news.ycombinator.com/item?id=46153058"
     ],
     [
-      "CUDA-L2: Surpassing cuBLAS Performance for Matrix Multiplication Through RL",
+      "CUDA-l2: Surpassing cuBLAS performance for matrix multiplication through RL",
       "https://github.com/deepreinforce-ai/CUDA-L2"
     ]
   ],
@@ -55,18 +55,8 @@
       "https://news.ycombinator.com/item?id=46152941"
     ],
     [
-      "Plane crashed after 3D-printed part collapsed",
+      "A Cozy Mk IV light aircraft crashed after 3D-printed part was weakened by heat",
       "https://www.bbc.com/news/articles/c1w932vqye0o"
-    ]
-  ],
-  [
-    [
-      "2025-12-04, 19:55:04",
-      "https://news.ycombinator.com/item?id=46152098"
-    ],
-    [
-      "CJEU has made it effectively impossible to run a user-generated platform legally",
-      "https://www.techdirt.com/2025/12/04/eus-top-court-just-made-it-literally-impossible-to-run-a-user-generated-content-platform-legally/"
     ]
   ],
   [
@@ -87,16 +77,6 @@
     [
       "Who Hooked Up a Laptop to a 1930s Dance Hall Machine?",
       "https://www.chrisbako.com/posts/2025-12-04-speelkok-museam"
-    ]
-  ],
-  [
-    [
-      "2025-12-04, 18:52:22",
-      "https://news.ycombinator.com/item?id=46151335"
-    ],
-    [
-      "Hammersmith Bridge – Where did 25,000 vehicles go?",
-      "https://nickmaini.substack.com/p/hammersmith-bridge"
     ]
   ],
   [
@@ -241,6 +221,16 @@
   ],
   [
     [
+      "2025-12-04, 10:15:53",
+      "https://news.ycombinator.com/item?id=46145902"
+    ],
+    [
+      "Tunnl.gg",
+      "https://tunnl.gg"
+    ]
+  ],
+  [
+    [
       "2025-12-04, 09:01:55",
       "https://news.ycombinator.com/item?id=46145365"
     ],
@@ -297,6 +287,16 @@
     [
       "A lost Amazon world just reappeared in Bolivia",
       "https://www.frontiersin.org/news/2025/11/06/landscapes-that-remember-indigenous-peoples-thrived-amazon"
+    ]
+  ],
+  [
+    [
+      "2025-11-28, 16:24:20",
+      "https://news.ycombinator.com/item?id=46080027"
+    ],
+    [
+      "Pink Lexical Slime: The Dark Side of Autocorrect",
+      "https://www.cyberdemon.org/2017/12/12/pink-lexical-slime.html"
     ]
   ]
 ]
