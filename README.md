@@ -1,12 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-12-04, 04:34:14](https://news.ycombinator.com/item?id=46143841) - [Russia Bans Roblox](https://www.bbc.com/news/articles/cn41q11gy58o)
 * [2025-12-04, 03:51:09](https://news.ycombinator.com/item?id=46143622) - [New homes in London were delayed by 'energy-hungry' data centres](https://www.bbc.com/news/articles/c0mpr1mvwj3o)
 * [2025-12-04, 03:50:36](https://news.ycombinator.com/item?id=46143618) - [Euler Conjecture and CDC 6600](https://fortran-lang.discourse.group/t/euler-conjecture-and-cdc-6600/10501)
 * [2025-12-04, 00:08:26](https://news.ycombinator.com/item?id=46142100) - [Average DRAM price in USD over last 18 months](https://pcpartpicker.com/trends/price/memory/)
 * [2025-12-03, 23:58:04](https://news.ycombinator.com/item?id=46142000) - [Kea DHCP: Modern, open source DHCPv4 and DHCPv6 server](https://www.isc.org/kea/)
 * [2025-12-03, 23:46:30](https://news.ycombinator.com/item?id=46141893) - [Zmx: Session Persistence for Terminal Processes](https://github.com/neurosnap/zmx)
 * [2025-12-03, 23:28:34](https://news.ycombinator.com/item?id=46141745) - [Acme, a brief history of one of the protocols which has changed the Internet](https://blog.brocas.org/2025/12/01/ACME-a-brief-history-of-one-of-the-protocols-which-has-changed-the-Internet-Security/)
-* [2025-12-03, 21:56:37](https://news.ycombinator.com/item?id=46140753) - [Greeting Vocalizations in Domestic Cats Are More Frequent with Male Caregivers](https://onlinelibrary.wiley.com/doi/10.1111/eth.70033)
 * [2025-12-03, 21:16:11](https://news.ycombinator.com/item?id=46140244) - [8086 Microcode Browser](https://nand2mario.github.io/posts/2025/8086_microcode_browser/)
 * [2025-12-03, 20:37:08](https://news.ycombinator.com/item?id=46139782) - [Checked-size array parameters in C](https://lwn.net/SubscriberLink/1046840/3eb9029084cc9e1e/)
 * [2025-12-03, 20:35:27](https://news.ycombinator.com/item?id=46139761) - [Show HN: I built a dashboard to compare mortgage rates across 120 credit unions](https://finfam.app/blog/credit-union-mortgages)
