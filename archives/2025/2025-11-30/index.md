@@ -47,6 +47,7 @@
 * [2025-11-30, 13:07:15](https://news.ycombinator.com/item?id=46096337) - [Advent of Code 2025](https://adventofcode.com/2025/about)
 * [2025-11-30, 13:03:01](https://news.ycombinator.com/item?id=46096312) - [OpenBSD: Free, Functional, and Secure](https://www.openbsd.org/)
 * [2025-11-30, 12:42:04](https://news.ycombinator.com/item?id=46096193) - [Schubfach: The smallest floating point double-to-string impleme](https://vitaut.net/posts/2025/smallest-dtoa/)
+* [2025-11-30, 11:37:08](https://news.ycombinator.com/item?id=46095819) - [FLUX.2](https://bfl.ai/models/flux-2)
 * [2025-11-30, 11:03:13](https://news.ycombinator.com/item?id=46095662) - [Beej's Guide to Learning Computer Science](https://beej.us/guide/bglcs/)
 * [2025-11-30, 10:47:27](https://news.ycombinator.com/item?id=46095585) - [CachyOS: Fast and Customizable Linux Distribution](https://cachyos.org/)
 * [2025-11-30, 10:32:45](https://news.ycombinator.com/item?id=46095521) - [Austria's armed forces rely on LibreOffice instead of Microsoft](https://oe1.orf.at/programm/20250916/807304/Freie-Software-fuer-das-Bundesheer)
