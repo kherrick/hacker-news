@@ -1,11 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-12-04, 11:14:04](https://news.ycombinator.com/item?id=46146266) - [NextJS Security Vulnerability](https://nextjs.org/blog/CVE-2025-66478)
 * [2025-12-04, 10:52:42](https://news.ycombinator.com/item?id=46146133) - [PGlite – Embeddable Postgres](https://pglite.dev/)
 * [2025-12-04, 10:47:21](https://news.ycombinator.com/item?id=46146103) - [Porn company fined £1M over inadequate age checks (UK)](https://www.bbc.co.uk/news/articles/c93nll07z3go)
 * [2025-12-04, 10:15:53](https://news.ycombinator.com/item?id=46145902) - [Tunnl.gg](https://tunnl.gg)
 * [2025-12-04, 10:06:35](https://news.ycombinator.com/item?id=46145834) - [Unreal Tournament 2004 is back](https://old.reddit.com/r/unrealtournament/comments/1pdbe69/breaking_unreal_tournament_2004_is_back/)
 * [2025-12-04, 09:01:55](https://news.ycombinator.com/item?id=46145365) - [Oracle, it’s time to free JavaScript](https://javascript.tm/letter)
-* [2025-12-04, 08:38:17](https://news.ycombinator.com/item?id=46145180) - [Elites Could Shape Mass Preferences as AI Reduces Persuasion Costs](https://arxiv.org/abs/2512.04047)
+* [2025-12-04, 08:38:17](https://news.ycombinator.com/item?id=46145180) - [Elites could shape mass preferences as AI reduces persuasion costs](https://arxiv.org/abs/2512.04047)
 * [2025-12-04, 08:33:33](https://news.ycombinator.com/item?id=46145154) - [The Mysterious Realm of JavaScriptCore (2021)](https://www.cyberark.com/resources/threat-research-blog/the-mysterious-realm-of-javascriptcore)
 * [2025-12-04, 07:00:51](https://news.ycombinator.com/item?id=46144613) - [Saturn (YC S24) Is Hiring Senior AI Engineer](https://www.ycombinator.com/companies/saturn/jobs/R9s9o5f-senior-ai-engineer)
 * [2025-12-04, 06:02:23](https://news.ycombinator.com/item?id=46144275) - [Uncloud - Tool for deploying containerised apps across servers without k8s](https://uncloud.run/)
@@ -26,8 +27,7 @@
 * [2025-12-02, 20:33:10](https://news.ycombinator.com/item?id=46126446) - [Valve reveals it’s the architect behind a push to bring Windows games to Arm](https://www.theverge.com/report/820656/valve-interview-arm-gaming-steamos-pierre-loup-griffais)
 * [2025-12-01, 15:28:13](https://news.ycombinator.com/item?id=46108557) - [Show HN: Walrus – a Kafka alternative written in Rust](https://github.com/nubskr/walrus)
 * [2025-11-30, 17:02:32](https://news.ycombinator.com/item?id=46098356) - [Interop and MathML Core](https://conflor.es/blog/2025-11-27-interop-and-mathml/)
-* [2025-11-30, 15:46:36](https://news.ycombinator.com/item?id=46097563) - [Ethiopian Volcano Erupts for First Time in Nearly 12K Years of Records](https://www.smithsonianmag.com/smart-news/ethiopian-volcano-erupts-for-the-first-time-in-nearly-12000-years-of-scientific-records-180987764/)
-* [2025-11-29, 08:32:21](https://news.ycombinator.com/item?id=46085982) - [Preserving Snow Crystals](https://www.its.caltech.edu/~atomic/snowcrystals/preserve/preserve.htm)
+* [2025-11-30, 15:46:36](https://news.ycombinator.com/item?id=46097563) - [Ethiopian volcano erupts for first time in nearly 12k years of records](https://www.smithsonianmag.com/smart-news/ethiopian-volcano-erupts-for-the-first-time-in-nearly-12000-years-of-scientific-records-180987764/)
 * [2025-11-29, 05:02:13](https://news.ycombinator.com/item?id=46085280) - [All the Way Down](https://www.futilitycloset.com/2025/11/17/all-the-way-down-2/)
 * [2025-11-27, 19:04:56](https://news.ycombinator.com/item?id=46072280) - [How to Synthesize a House Loop](https://loopmaster.xyz/tutorials/how-to-synthesize-a-house-loop)
 
