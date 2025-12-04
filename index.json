@@ -1,12 +1,42 @@
 [
   [
     [
+      "2025-12-04, 17:00:37",
+      "https://news.ycombinator.com/item?id=46149849"
+    ],
+    [
+      "Converge (YC S23) is hiring a martech expert in NYC",
+      "https://www.runconverge.com/careers/technical-customer-success-manager"
+    ]
+  ],
+  [
+    [
+      "2025-12-04, 16:58:35",
+      "https://news.ycombinator.com/item?id=46149813"
+    ],
+    [
+      "Multivox: Volumetric Display",
+      "https://github.com/AncientJames/multivox"
+    ]
+  ],
+  [
+    [
       "2025-12-04, 16:52:56",
       "https://news.ycombinator.com/item?id=46149727"
     ],
     [
       "Launch HN: Browser Buddy (YC W24) – A recommendation system for Internet writing",
       "https://www.browserbuddy.com/"
+    ]
+  ],
+  [
+    [
+      "2025-12-04, 16:25:31",
+      "https://news.ycombinator.com/item?id=46149375"
+    ],
+    [
+      "Autism should not be treated as a single condition",
+      "https://www.economist.com/science-and-technology/2025/12/03/why-autism-should-not-be-treated-as-a-single-condition"
     ]
   ],
   [
@@ -27,16 +57,6 @@
     [
       "Bootloader Unlock Wall of Shame",
       "https://github.com/zenfyrdev/bootloader-unlock-wall-of-shame"
-    ]
-  ],
-  [
-    [
-      "2025-12-04, 15:33:14",
-      "https://news.ycombinator.com/item?id=46148763"
-    ],
-    [
-      "The Free Software Foundation Europe deleted its account on X",
-      "https://fsfe.org/news/2025/news-20251204-01.en.html"
     ]
   ],
   [
@@ -181,16 +201,6 @@
   ],
   [
     [
-      "2025-12-04, 07:00:51",
-      "https://news.ycombinator.com/item?id=46144613"
-    ],
-    [
-      "Saturn (YC S24) Is Hiring Senior AI Engineer",
-      "https://www.ycombinator.com/companies/saturn/jobs/R9s9o5f-senior-ai-engineer"
-    ]
-  ],
-  [
-    [
       "2025-12-04, 06:02:23",
       "https://news.ycombinator.com/item?id=46144275"
     ],
@@ -207,26 +217,6 @@
     [
       "Average DRAM price in USD over last 18 months",
       "https://pcpartpicker.com/trends/price/memory/"
-    ]
-  ],
-  [
-    [
-      "2025-12-03, 20:35:27",
-      "https://news.ycombinator.com/item?id=46139761"
-    ],
-    [
-      "Show HN: I built a dashboard to compare mortgage rates across 120 credit unions",
-      "https://finfam.app/blog/credit-union-mortgages"
-    ]
-  ],
-  [
-    [
-      "2025-12-03, 18:40:06",
-      "https://news.ycombinator.com/item?id=46138238"
-    ],
-    [
-      "Ghostty is now non-profit",
-      "https://mitchellh.com/writing/ghostty-non-profit"
     ]
   ],
   [
@@ -277,6 +267,16 @@
     [
       "A lost Amazon world just reappeared in Bolivia",
       "https://www.sciencedaily.com/releases/2025/11/251130205421.htm"
+    ]
+  ],
+  [
+    [
+      "2025-11-30, 11:37:08",
+      "https://news.ycombinator.com/item?id=46095819"
+    ],
+    [
+      "FLUX.2",
+      "https://bfl.ai/models/flux-2"
     ]
   ],
   [
