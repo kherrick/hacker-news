@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-12-04](index.md)
 
+* [2025-12-04, 18:04:07](https://news.ycombinator.com/item?id=46150715) - [Why Are 38 Percent of Stanford Students Saying They're Disabled?](https://reason.com/2025/12/04/why-are-38-percent-of-stanford-students-saying-theyre-disabled/)
 * [2025-12-04, 17:00:37](https://news.ycombinator.com/item?id=46149849) - [Converge (YC S23) is hiring a martech expert in NYC](https://www.runconverge.com/careers/technical-customer-success-manager)
 * [2025-12-04, 16:58:35](https://news.ycombinator.com/item?id=46149813) - [Multivox: Volumetric Display](https://github.com/AncientJames/multivox)
 * [2025-12-04, 16:53:49](https://news.ycombinator.com/item?id=46149740) - [The End of the Train-Test Split](https://folio.benguzovsky.com/train-test)

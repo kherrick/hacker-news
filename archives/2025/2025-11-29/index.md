@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-11-29](index.md)
 
 * [2025-11-29, 23:59:49](https://news.ycombinator.com/item?id=46092056) - [Dilution vs. Risk taking: Capital gains taxes and entrepreneurs](https://www.nber.org/papers/w34512)
+* [2025-11-29, 23:57:13](https://news.ycombinator.com/item?id=46092035) - [The long wait is over, Ganymede has arrived](https://endeavouros.com/news/the-long-wait-is-over-ganymede-has-arrived/)
 * [2025-11-29, 23:51:21](https://news.ycombinator.com/item?id=46092000) - [Scala](https://www.huygens-fokker.org/scala/)
 * [2025-11-29, 23:21:42](https://news.ycombinator.com/item?id=46091785) - [Zenroom – No-code cryptographic virtual machine](https://zenroom.org/)
 * [2025-11-29, 22:56:14](https://news.ycombinator.com/item?id=46091591) - [Americans no longer see four-year college degrees as worth the cost](https://www.nbcnews.com/politics/politics-news/poll-dramatic-shift-americans-no-longer-see-four-year-college-degrees-rcna243672)
