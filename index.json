@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2025-12-04, 13:34:27",
-      "https://news.ycombinator.com/item?id=46147493"
-    ],
-    [
-      "The Age-Gated Internet Is Sweeping the US. Activists Are Fighting Back",
-      "https://www.wired.com/story/age-verification-is-sweeping-the-us-activists-are-fighting-back/"
-    ]
-  ],
-  [
-    [
       "2025-12-04, 13:22:35",
       "https://news.ycombinator.com/item?id=46147371"
     ],
@@ -47,16 +37,6 @@
     [
       "Functional Quadtrees",
       "https://lbjgruppen.com/en/posts/functional-quadtree-clojure"
-    ]
-  ],
-  [
-    [
-      "2025-12-04, 12:25:47",
-      "https://news.ycombinator.com/item?id=46146877"
-    ],
-    [
-      "Imo.im – Instant Messenger",
-      "https://imo.im/"
     ]
   ],
   [
@@ -231,6 +211,16 @@
   ],
   [
     [
+      "2025-12-03, 17:44:33",
+      "https://news.ycombinator.com/item?id=46137514"
+    ],
+    [
+      "Reverse engineering a $1B Legal AI tool exposed 100k+ confidential files",
+      "https://alexschapiro.com/security/vulnerability/2025/12/02/filevine-api-100k"
+    ]
+  ],
+  [
+    [
       "2025-12-03, 17:24:49",
       "https://news.ycombinator.com/item?id=46137253"
     ],
@@ -247,6 +237,16 @@
     [
       "Valve reveals it’s the architect behind a push to bring Windows games to Arm",
       "https://www.theverge.com/report/820656/valve-interview-arm-gaming-steamos-pierre-loup-griffais"
+    ]
+  ],
+  [
+    [
+      "2025-12-01, 16:14:39",
+      "https://news.ycombinator.com/item?id=46109130"
+    ],
+    [
+      "Contextualization Machines",
+      "https://stochasm.blog/posts/contextualization-machines/"
     ]
   ],
   [
