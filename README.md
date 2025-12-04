@@ -10,7 +10,6 @@
 * [2025-12-04, 07:00:51](https://news.ycombinator.com/item?id=46144613) - [Saturn (YC S24) Is Hiring Senior AI Engineer](https://www.ycombinator.com/companies/saturn/jobs/R9s9o5f-senior-ai-engineer)
 * [2025-12-04, 06:02:23](https://news.ycombinator.com/item?id=46144275) - [Uncloud - Tool for deploying containerised apps across servers without k8s](https://uncloud.run/)
 * [2025-12-04, 05:29:51](https://news.ycombinator.com/item?id=46144113) - [Show HN: A Minimal Monthly Task Planner (printable, offline, no signup)](https://printcalendar.top/)
-* [2025-12-04, 03:50:36](https://news.ycombinator.com/item?id=46143618) - [Euler Conjecture and CDC 6600](https://fortran-lang.discourse.group/t/euler-conjecture-and-cdc-6600/10501)
 * [2025-12-04, 01:58:15](https://news.ycombinator.com/item?id=46142866) - [Why WinQuake exists and how it works](https://fabiensanglard.net/winquake/index.html)
 * [2025-12-04, 00:08:26](https://news.ycombinator.com/item?id=46142100) - [Average DRAM price in USD over last 18 months](https://pcpartpicker.com/trends/price/memory/)
 * [2025-12-03, 23:58:04](https://news.ycombinator.com/item?id=46142000) - [Kea DHCP: Modern, open source DHCPv4 and DHCPv6 server](https://www.isc.org/kea/)
@@ -28,6 +27,7 @@
 * [2025-12-01, 15:28:13](https://news.ycombinator.com/item?id=46108557) - [Show HN: Walrus – a Kafka alternative written in Rust](https://github.com/nubskr/walrus)
 * [2025-11-30, 17:02:32](https://news.ycombinator.com/item?id=46098356) - [Interop and MathML Core](https://conflor.es/blog/2025-11-27-interop-and-mathml/)
 * [2025-11-30, 15:46:36](https://news.ycombinator.com/item?id=46097563) - [Ethiopian Volcano Erupts for First Time in Nearly 12K Years of Records](https://www.smithsonianmag.com/smart-news/ethiopian-volcano-erupts-for-the-first-time-in-nearly-12000-years-of-scientific-records-180987764/)
+* [2025-11-29, 08:32:21](https://news.ycombinator.com/item?id=46085982) - [Preserving Snow Crystals](https://www.its.caltech.edu/~atomic/snowcrystals/preserve/preserve.htm)
 * [2025-11-29, 05:02:13](https://news.ycombinator.com/item?id=46085280) - [All the Way Down](https://www.futilitycloset.com/2025/11/17/all-the-way-down-2/)
 * [2025-11-27, 19:04:56](https://news.ycombinator.com/item?id=46072280) - [How to Synthesize a House Loop](https://loopmaster.xyz/tutorials/how-to-synthesize-a-house-loop)
 
