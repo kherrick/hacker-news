@@ -24,7 +24,7 @@
 * [2025-12-03, 15:30:30](https://news.ycombinator.com/item?id=46135627) - [Why are my headphones buzzing whenever I run my game?](https://alexene.dev/2025/12/03/Why-do-my-headphones-buzz-when-i-run-my-game.html)
 * [2025-12-03, 12:14:34](https://news.ycombinator.com/item?id=46133622) - [You can't fool the optimizer](https://xania.org/202512/03-more-adding-integers)
 * [2025-12-02, 20:33:10](https://news.ycombinator.com/item?id=46126446) - [Valve reveals it’s the architect behind a push to bring Windows games to Arm](https://www.theverge.com/report/820656/valve-interview-arm-gaming-steamos-pierre-loup-griffais)
-* [2025-12-01, 00:03:51](https://news.ycombinator.com/item?id=46101816) - [The Differences Between an IndyCar and a F1 Car](https://www.openwheelworld.net/en/indycar101/76/IndyCar_vs_Formula_1_cars)
+* [2025-12-01, 15:28:13](https://news.ycombinator.com/item?id=46108557) - [Show HN: Walrus – a Kafka alternative written in Rust](https://github.com/nubskr/walrus)
 * [2025-11-30, 15:46:36](https://news.ycombinator.com/item?id=46097563) - [Ethiopian Volcano Erupts for First Time in Nearly 12K Years of Records](https://www.smithsonianmag.com/smart-news/ethiopian-volcano-erupts-for-the-first-time-in-nearly-12000-years-of-scientific-records-180987764/)
 * [2025-11-29, 18:14:31](https://news.ycombinator.com/item?id=46089548) - [In Northern Scotland, the Neolithic Age Never Ended](https://www.newyorker.com/magazine/2025/12/01/in-northern-scotland-the-neolithic-age-never-ended)
 * [2025-11-29, 08:32:21](https://news.ycombinator.com/item?id=46085982) - [Preserving Snow Crystals](https://www.its.caltech.edu/~atomic/snowcrystals/preserve/preserve.htm)
