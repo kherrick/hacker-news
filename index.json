@@ -1,12 +1,12 @@
 [
   [
     [
-      "2025-12-04, 01:53:57",
-      "https://news.ycombinator.com/item?id=46142843"
+      "2025-12-04, 02:48:31",
+      "https://news.ycombinator.com/item?id=46143230"
     ],
     [
-      "Apple’s head of user interface design, Alan Dye, will join Meta",
-      "https://www.cnbc.com/2025/12/03/liquid-glass-alan-dye-leaving-apple.html"
+      "Cellebrite to Acquire Corellium",
+      "https://www.corellium.com/blog/cellebrite-to-acquire-corellium"
     ]
   ],
   [
@@ -27,6 +27,16 @@
     [
       "Kea DHCP: Modern, open source DHCPv4 and DHCPv6 server",
       "https://www.isc.org/kea/"
+    ]
+  ],
+  [
+    [
+      "2025-12-03, 23:46:30",
+      "https://news.ycombinator.com/item?id=46141893"
+    ],
+    [
+      "Zmx: Session Persistence for Terminal Processes",
+      "https://github.com/neurosnap/zmx"
     ]
   ],
   [
@@ -277,16 +287,6 @@
     [
       "Preserving Snow Crystals",
       "https://www.its.caltech.edu/~atomic/snowcrystals/preserve/preserve.htm"
-    ]
-  ],
-  [
-    [
-      "2025-11-28, 09:23:38",
-      "https://news.ycombinator.com/item?id=46077047"
-    ],
-    [
-      "Cross-Compiling Common Lisp to WASM",
-      "https://turtleware.eu/posts/Common-Lisp-and-WebAssembly.html"
     ]
   ],
   [
