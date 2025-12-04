@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-12-04](index.md)
 
+* [2025-12-04, 05:29:51](https://news.ycombinator.com/item?id=46144113) - [Show HN: A Minimal Monthly Task Planner (printable, offline, no signup)](https://printcalendar.top/)
 * [2025-12-04, 04:34:14](https://news.ycombinator.com/item?id=46143841) - [Russia Bans Roblox](https://www.bbc.com/news/articles/cn41q11gy58o)
 * [2025-12-04, 03:51:09](https://news.ycombinator.com/item?id=46143622) - [New homes in London were delayed by 'energy-hungry' data centres](https://www.bbc.com/news/articles/c0mpr1mvwj3o)
 * [2025-12-04, 03:50:36](https://news.ycombinator.com/item?id=46143618) - [Euler Conjecture and CDC 6600](https://fortran-lang.discourse.group/t/euler-conjecture-and-cdc-6600/10501)

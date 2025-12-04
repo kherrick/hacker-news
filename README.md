@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-12-04, 03:51:09](https://news.ycombinator.com/item?id=46143622) - [New homes in London were delayed by 'energy-hungry' data centres](https://www.bbc.com/news/articles/c0mpr1mvwj3o)
+* [2025-12-04, 05:29:51](https://news.ycombinator.com/item?id=46144113) - [Show HN: A Minimal Monthly Task Planner (printable, offline, no signup)](https://printcalendar.top/)
+* [2025-12-04, 03:51:09](https://news.ycombinator.com/item?id=46143622) - [The rapid growth of data centres is delaying new homes in London](https://www.bbc.com/news/articles/c0mpr1mvwj3o)
 * [2025-12-04, 03:50:36](https://news.ycombinator.com/item?id=46143618) - [Euler Conjecture and CDC 6600](https://fortran-lang.discourse.group/t/euler-conjecture-and-cdc-6600/10501)
 * [2025-12-04, 01:58:15](https://news.ycombinator.com/item?id=46142866) - [Why WinQuake exists and how it works](https://fabiensanglard.net/winquake/index.html)
 * [2025-12-04, 00:08:26](https://news.ycombinator.com/item?id=46142100) - [Average DRAM price in USD over last 18 months](https://pcpartpicker.com/trends/price/memory/)
@@ -16,7 +17,6 @@
 * [2025-12-03, 17:47:15](https://news.ycombinator.com/item?id=46137548) - [Launch HN: Phind 3 (YC S22) – Every answer is a mini-app](https://news.ycombinator.com/item?id=46137548)
 * [2025-12-03, 17:44:33](https://news.ycombinator.com/item?id=46137514) - [Reverse engineering a $1B Legal AI tool exposed 100k+ confidential files](https://alexschapiro.com/security/vulnerability/2025/12/02/filevine-api-100k)
 * [2025-12-03, 17:24:49](https://news.ycombinator.com/item?id=46137253) - [1D Conway's Life glider found, 3.7B cells long](https://conwaylife.com/forums/viewtopic.php?&p=222136#p222136)
-* [2025-12-03, 17:01:18](https://news.ycombinator.com/item?id=46136918) - [Rocketable (YC W25) is hiring a founding engineer to automate software companies](https://www.ycombinator.com/companies/rocketable/jobs/CArgzmX-founding-engineer-automation-platform)
 * [2025-12-03, 16:00:23](https://news.ycombinator.com/item?id=46136026) - [RCE Vulnerability in React and Next.js](https://github.com/vercel/next.js/security/advisories/GHSA-9qr9-h5gf-34mp)
 * [2025-12-03, 16:00:19](https://news.ycombinator.com/item?id=46136023) - [MinIO is now in maintenance-mode](https://github.com/minio/minio/commit/27742d469462e1561c776f88ca7a1f26816d69e2)
 * [2025-12-03, 15:30:30](https://news.ycombinator.com/item?id=46135627) - [Why are my headphones buzzing whenever I run my game?](https://alexene.dev/2025/12/03/Why-do-my-headphones-buzz-when-i-run-my-game.html)
