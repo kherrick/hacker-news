@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-12-05, 17:47:16](https://news.ycombinator.com/item?id=46164646) - [Shingles vaccination prevented or delayed dementia](https://www.cell.com/cell/fulltext/S0092-8674(25)01256-5)
+* [2025-12-05, 17:29:47](https://news.ycombinator.com/item?id=46164419) - [The AI Backlash Is Here: Why Public Patience with Tech Giants Is Running Out](https://www.newsweek.com/ai-backlash-openai-meta-friend-10807425)
 * [2025-12-05, 17:00:10](https://news.ycombinator.com/item?id=46163977) - [Onlook (YC W25) the Cursor for Designers Is Hiring a Founding Fullstack Engineer](https://news.ycombinator.com/item?id=46163977)
 * [2025-12-05, 16:48:44](https://news.ycombinator.com/item?id=46163804) - [Jony Ive's OpenAI Device Barred from Using 'Io' Name](https://www.macrumors.com/2025/12/05/openai-device-barred-from-io-name/)
 * [2025-12-05, 16:42:13](https://news.ycombinator.com/item?id=46163721) - [X hit with $140M EU fine for breaching content rules](https://www.reuters.com/sustainability/boards-policy-regulation/eu-fines-x-140-mln-breaching-online-content-rules-tiktok-settles-with-2025-12-05/)
@@ -7,7 +9,6 @@
 * [2025-12-05, 16:04:20](https://news.ycombinator.com/item?id=46163121) - [I'm Peter Roberts, immigration attorney who does work for YC and startups. AMA](https://news.ycombinator.com/item?id=46163121)
 * [2025-12-05, 15:49:56](https://news.ycombinator.com/item?id=46162872) - [Framework Laptop 13 gets ARM processor with 12 cores via upgrade kit](https://www.notebookcheck.net/Framework-Laptop-13-gets-ARM-processor-with-12-cores-via-upgrade-kit.1177930.0.html)
 * [2025-12-05, 15:35:43](https://news.ycombinator.com/item?id=46162656) - [Cloudflare outage on December 5, 2025](https://blog.cloudflare.com/5-december-2025-outage/)
-* [2025-12-05, 15:15:12](https://news.ycombinator.com/item?id=46162368) - [Jolla Phone Pre-Order](https://commerce.jolla.com/products/jolla-phone-preorder)
 * [2025-12-05, 15:07:42](https://news.ycombinator.com/item?id=46162262) - [Covid-19 mRNA Vaccination and 4-Year All-Cause Mortality](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2842305)
 * [2025-12-05, 13:39:04](https://news.ycombinator.com/item?id=46161125) - [Influential study on glyphosate safety retracted 25 years after publication](https://www.lemonde.fr/en/environment/article/2025/12/03/influential-study-on-glyphosate-safety-retracted-25-years-after-publication_6748114_114.html)
 * [2025-12-05, 13:13:03](https://news.ycombinator.com/item?id=46160824) - [Show HN: Pbnj – A minimal, self-hosted pastebin you can deploy in 60 seconds](https://pbnj.sh/)
@@ -20,7 +21,6 @@
 * [2025-12-05, 01:05:57](https://news.ycombinator.com/item?id=46155619) - [BMW PHEV: Safety fuse replacement is extremely expensive](https://evclinic.eu/2025/12/04/2021-phev-bmw-ibmucp-21f37e-post-crash-recovery-when-eu-engineering-becomes-a-synonym-for-unrepairable-generating-waste/)
 * [2025-12-05, 00:09:57](https://news.ycombinator.com/item?id=46155135) - [Netflix’s AV1 Journey: From Android to TVs and Beyond](https://netflixtechblog.com/av1-now-powering-30-of-netflix-streaming-02f592242d80)
 * [2025-12-05, 00:03:36](https://news.ycombinator.com/item?id=46155085) - [Trick users and bypass warnings – Modern SVG Clickjacking attacks](https://lyra.horse/blog/2025/12/svg-clickjacking/)
-* [2025-12-04, 23:08:25](https://news.ycombinator.com/item?id=46154491) - [We gave 5 LLMs $100K to trade stocks for 8 months](https://www.aitradearena.com/research/we-ran-llms-for-8-months)
 * [2025-12-04, 18:49:20](https://news.ycombinator.com/item?id=46151299) - [I have been writing a niche history blog for 15 years](https://resobscura.substack.com/p/why-i-have-been-writing-a-niche-history)
 * [2025-12-04, 08:38:17](https://news.ycombinator.com/item?id=46145180) - [How elites could shape mass preferences as AI reduces persuasion costs](https://arxiv.org/abs/2512.04047)
 * [2025-12-04, 07:35:10](https://news.ycombinator.com/item?id=46144801) - [Show HN: Kraa – Writing App for Everything](https://kraa.io/about)
