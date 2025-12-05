@@ -63,6 +63,7 @@
 * [2025-11-29, 10:08:24](https://news.ycombinator.com/item?id=46086410) - [I Know We're in an AI Bubble Because Nobody Wants Me](https://petewarden.com/2025/11/29/i-know-were-in-an-ai-bubble-because-nobody-wants-me-%f0%9f%98%ad/)
 * [2025-11-29, 08:32:21](https://news.ycombinator.com/item?id=46085982) - [Preserving Snow Crystals](https://www.its.caltech.edu/~atomic/snowcrystals/preserve/preserve.htm)
 * [2025-11-29, 08:14:23](https://news.ycombinator.com/item?id=46085897) - [The undeserved status of the pigeon-hole principle (EWD 1094)](https://www.cs.utexas.edu/~EWD/transcriptions/EWD10xx/EWD1094.html)
+* [2025-11-29, 07:30:30](https://news.ycombinator.com/item?id=46085753) - [How fast can browsers process base64 data?](https://lemire.me/blog/2025/11/29/how-fast-can-browsers-process-base64-data/)
 * [2025-11-29, 06:37:05](https://news.ycombinator.com/item?id=46085585) - [Garfield's Proof of the Pythagorean Theorem](https://en.wikipedia.org/wiki/Garfield%27s_proof_of_the_Pythagorean_theorem)
 * [2025-11-29, 05:22:13](https://news.ycombinator.com/item?id=46085344) - [The 'S&P 493' reveals a different U.S. economy](https://www.msn.com/en-us/money/markets/the-s-p-493-reveals-a-very-different-us-economy/ar-AA1R1VUJ)
 * [2025-11-29, 05:02:13](https://news.ycombinator.com/item?id=46085280) - [All the Way Down](https://www.futilitycloset.com/2025/11/17/all-the-way-down-2/)
