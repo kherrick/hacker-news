@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-12-05](index.md)
 
+* [2025-12-05, 16:04:20](https://news.ycombinator.com/item?id=46163121) - [I'm Peter Roberts, immigration attorney who does work for YC and startups. AMA](https://news.ycombinator.com/item?id=46163121)
+* [2025-12-05, 15:49:56](https://news.ycombinator.com/item?id=46162872) - [Framework Laptop 13 gets ARM processor with 12 cores via upgrade kit](https://www.notebookcheck.net/Framework-Laptop-13-gets-ARM-processor-with-12-cores-via-upgrade-kit.1177930.0.html)
 * [2025-12-05, 15:35:43](https://news.ycombinator.com/item?id=46162656) - [Cloudflare outage on December 5, 2025](https://blog.cloudflare.com/5-december-2025-outage/)
 * [2025-12-05, 15:15:12](https://news.ycombinator.com/item?id=46162368) - [Jolla Phone Pre-Order](https://commerce.jolla.com/products/jolla-phone-preorder)
 * [2025-12-05, 15:07:42](https://news.ycombinator.com/item?id=46162262) - [Covid-19 mRNA Vaccination and 4-Year All-Cause Mortality](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2842305)
