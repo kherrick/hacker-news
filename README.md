@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-12-05, 07:20:02](https://news.ycombinator.com/item?id=46157648) - [Undisclosed Deaths in the Pfizer mRNA Covid-19 Vaccine Trial [pdf]](https://jpands.org/vol30no4/kunadhasan.pdf)
+* [2025-12-05, 07:06:38](https://news.ycombinator.com/item?id=46157594) - [UniFi 5G](https://blog.ui.com/article/introducing-unifi-5g)
 * [2025-12-05, 04:59:08](https://news.ycombinator.com/item?id=46156979) - [State Department to deny visas to fact checkers and others, citing 'censorship'](https://www.npr.org/2025/12/04/nx-s1-5633444/trump-content-moderation-visas-censorship)
 * [2025-12-05, 04:26:10](https://news.ycombinator.com/item?id=46156832) - [Rats Snatching Bats Out of the Air and Eating Them–Researchers Got It on Video](https://www.smithsonianmag.com/smart-news/rats-are-snatching-bats-out-of-the-air-and-eating-them-and-researchers-got-it-on-video-180987610/)
 * [2025-12-05, 04:00:28](https://news.ycombinator.com/item?id=46156718) - [Fast trigram based code search](https://github.com/sourcegraph/zoekt)
@@ -10,7 +12,6 @@
 * [2025-12-05, 00:41:08](https://news.ycombinator.com/item?id=46155401) - [The Ofcom Files, Part 4: Ofcom Rides Again](https://prestonbyrne.com/2025/12/04/the-ofcom-files-part-4-ofcom-rides-again/)
 * [2025-12-05, 00:09:57](https://news.ycombinator.com/item?id=46155135) - [Netflix’s AV1 Journey: From Android to TVs and Beyond](https://netflixtechblog.com/av1-now-powering-30-of-netflix-streaming-02f592242d80)
 * [2025-12-05, 00:03:36](https://news.ycombinator.com/item?id=46155085) - [Trick users and bypass warnings – Modern SVG Clickjacking attacks](https://lyra.horse/blog/2025/12/svg-clickjacking/)
-* [2025-12-04, 23:43:47](https://news.ycombinator.com/item?id=46154892) - [What is better: a lookup table or an enum type?](https://www.cybertec-postgresql.com/en/lookup-table-or-enum-type/)
 * [2025-12-04, 22:56:08](https://news.ycombinator.com/item?id=46154344) - [StardustOS: Library operating system for building light-weight Unikernels](https://github.com/StardustOS)
 * [2025-12-04, 22:26:43](https://news.ycombinator.com/item?id=46154022) - [State of AI: An Empirical 100T Token Study with OpenRouter](https://openrouter.ai/state-of-ai)
 * [2025-12-04, 21:40:24](https://news.ycombinator.com/item?id=46153466) - [Thoughts on Go vs. Rust vs. Zig](https://sinclairtarget.com/blog/2025/08/thoughts-on-go-vs.-rust-vs.-zig/)
@@ -19,7 +20,6 @@
 * [2025-12-04, 18:49:20](https://news.ycombinator.com/item?id=46151299) - [I have been writing a niche history blog for 15 years](https://resobscura.substack.com/p/why-i-have-been-writing-a-niche-history)
 * [2025-12-04, 18:04:07](https://news.ycombinator.com/item?id=46150715) - [Why are 38 percent of Stanford students saying they're disabled?](https://reason.com/2025/12/04/why-are-38-percent-of-stanford-students-saying-theyre-disabled/)
 * [2025-12-04, 16:58:35](https://news.ycombinator.com/item?id=46149813) - [Multivox: Volumetric Display](https://github.com/AncientJames/multivox)
-* [2025-12-04, 16:52:56](https://news.ycombinator.com/item?id=46149727) - [Launch HN: Browser Buddy (YC W24) – A recommendation system for Internet writing](https://www.browserbuddy.com/)
 * [2025-12-04, 15:06:08](https://news.ycombinator.com/item?id=46148460) - [Show HN: Onlyrecipe 2.0 – I added all features HN requested – 4 years later](https://onlyrecipeapp.com/?url=https://www.allrecipes.com/turkish-pasta-recipe-8754903)
 * [2025-12-04, 13:40:00](https://news.ycombinator.com/item?id=46147540) - [Transparent leadership beats servant leadership](https://entropicthoughts.com/transparent-leadership-beats-servant-leadership)
 * [2025-12-04, 13:34:27](https://news.ycombinator.com/item?id=46147493) - [Fighting the age-gated internet](https://www.wired.com/story/age-verification-is-sweeping-the-us-activists-are-fighting-back/)

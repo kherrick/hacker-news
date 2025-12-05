@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-12-05](index.md)
 
+* [2025-12-05, 07:20:02](https://news.ycombinator.com/item?id=46157648) - [Undisclosed Deaths in the Pfizer mRNA Covid-19 Vaccine Trial [pdf]](https://jpands.org/vol30no4/kunadhasan.pdf)
+* [2025-12-05, 07:06:38](https://news.ycombinator.com/item?id=46157594) - [UniFi 5G](https://blog.ui.com/article/introducing-unifi-5g)
 * [2025-12-05, 04:59:08](https://news.ycombinator.com/item?id=46156979) - [State Department to deny visas to fact checkers and others, citing 'censorship'](https://www.npr.org/2025/12/04/nx-s1-5633444/trump-content-moderation-visas-censorship)
 * [2025-12-05, 04:36:42](https://news.ycombinator.com/item?id=46156880) - [Netflix in exclusive talks to buy HBO](https://www.cnn.com/2025/12/04/media/netflix-paramount-wbd-bidding-war-warner-bros-discovery)
 * [2025-12-05, 04:26:10](https://news.ycombinator.com/item?id=46156832) - [Rats Snatching Bats Out of the Air and Eating Them–Researchers Got It on Video](https://www.smithsonianmag.com/smart-news/rats-are-snatching-bats-out-of-the-air-and-eating-them-and-researchers-got-it-on-video-180987610/)
