@@ -14,6 +14,7 @@
 * [2025-11-30, 20:49:49](https://news.ycombinator.com/item?id=46100282) - [How to run phones while being struck by suicide drones](https://nasa.cx/hn/posts/how-to-run-hundreds-of-phones-while-being-struck-by-suicide-drones/)
 * [2025-11-30, 20:15:45](https://news.ycombinator.com/item?id=46099997) - [Hacking on the ReMarkable 2](https://sgt.hootr.club/blog/hacking-on-the-remarkable-2/)
 * [2025-11-30, 20:14:12](https://news.ycombinator.com/item?id=46099985) - [By my count, Linux has 11% of the desktop market. Here's how I got that number](https://www.zdnet.com/article/why-people-keep-flocking-to-linux-in-2025-and-its-not-just-to-escape-windows/)
+* [2025-11-30, 19:45:59](https://news.ycombinator.com/item?id=46099739) - [New 3D scan reveals a hidden network of moai carvers on Easter Island](https://www.sciencedaily.com/releases/2025/11/251130050717.htm)
 * [2025-11-30, 19:02:04](https://news.ycombinator.com/item?id=46099367) - [You Want Microservices, but Do You Need Them?](https://www.docker.com/blog/do-you-really-need-microservices/)
 * [2025-11-30, 18:46:03](https://news.ycombinator.com/item?id=46099222) - [Garry Tan says MCP \"barely works\" today](https://www.reddit.com/r/mcp/s/dQoNo0fSx3)
 * [2025-11-30, 18:34:52](https://news.ycombinator.com/item?id=46099108) - [Program-of-Thought Prompting Outperforms Chain-of-Thought by 15%](https://arxiv.org/abs/2211.12588)
