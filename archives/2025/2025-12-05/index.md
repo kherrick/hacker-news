@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-12-05](index.md)
 
+* [2025-12-05, 04:00:28](https://news.ycombinator.com/item?id=46156718) - [Fast trigram based code search](https://github.com/sourcegraph/zoekt)
 * [2025-12-05, 02:55:34](https://news.ycombinator.com/item?id=46156379) - [Blogging in 2025: Screaming into the Void](https://askmike.org/articles/blogging-in-2025-screaming-into-the-void/)
 * [2025-12-05, 01:39:24](https://news.ycombinator.com/item?id=46155868) - [Brussels writes so many laws](https://www.siliconcontinent.com/p/how-brussels-writes-so-many-laws)
 * [2025-12-05, 01:15:42](https://news.ycombinator.com/item?id=46155701) - [NeurIPS best paper awards 2025](https://blog.neurips.cc/2025/11/26/announcing-the-neurips-2025-best-paper-awards/)

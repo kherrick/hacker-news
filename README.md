@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-12-05, 04:00:28](https://news.ycombinator.com/item?id=46156718) - [Fast trigram based code search](https://github.com/sourcegraph/zoekt)
 * [2025-12-05, 02:55:34](https://news.ycombinator.com/item?id=46156379) - [Blogging in 2025: Screaming into the Void](https://askmike.org/articles/blogging-in-2025-screaming-into-the-void/)
 * [2025-12-05, 01:15:42](https://news.ycombinator.com/item?id=46155701) - [NeurIPS 2025 Best Paper Awards](https://blog.neurips.cc/2025/11/26/announcing-the-neurips-2025-best-paper-awards/)
 * [2025-12-05, 01:05:57](https://news.ycombinator.com/item?id=46155619) - [BMW PHEV: Safety fuse replacement is extremely expensive](https://evclinic.eu/2025/12/04/2021-phev-bmw-ibmucp-21f37e-post-crash-recovery-when-eu-engineering-becomes-a-synonym-for-unrepairable-generating-waste/)
@@ -13,7 +14,6 @@
 * [2025-12-04, 21:40:24](https://news.ycombinator.com/item?id=46153466) - [Thoughts on Go vs. Rust vs. Zig](https://sinclairtarget.com/blog/2025/08/thoughts-on-go-vs.-rust-vs.-zig/)
 * [2025-12-04, 21:09:56](https://news.ycombinator.com/item?id=46153116) - [Django 6](https://docs.djangoproject.com/en/6.0/releases/6.0/)
 * [2025-12-04, 21:04:29](https://news.ycombinator.com/item?id=46153058) - [CUDA-l2: Surpassing cuBLAS performance for matrix multiplication through RL](https://github.com/deepreinforce-ai/CUDA-L2)
-* [2025-12-04, 20:56:08](https://news.ycombinator.com/item?id=46152941) - [A Cozy Mk IV light aircraft crashed after 3D-printed part was weakened by heat](https://www.bbc.com/news/articles/c1w932vqye0o)
 * [2025-12-04, 18:49:20](https://news.ycombinator.com/item?id=46151299) - [I have been writing a niche history blog for 15 years](https://resobscura.substack.com/p/why-i-have-been-writing-a-niche-history)
 * [2025-12-04, 18:04:07](https://news.ycombinator.com/item?id=46150715) - [Why are 38 percent of Stanford students saying they're disabled?](https://reason.com/2025/12/04/why-are-38-percent-of-stanford-students-saying-theyre-disabled/)
 * [2025-12-04, 17:43:07](https://news.ycombinator.com/item?id=46150447) - [PyTogether: Collaborative lightweight real-time Python IDE for teachers/learners](https://github.com/SJRiz/pytogether)
