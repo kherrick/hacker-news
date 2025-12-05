@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-12-05](index.md)
 
+* [2025-12-05, 13:07:59](https://news.ycombinator.com/item?id=46160773) - [Most Technical Problems Are People Problems](https://blog.joeschrag.com/2023/11/most-technical-problems-are-really.html)
 * [2025-12-05, 12:21:19](https://news.ycombinator.com/item?id=46160315) - [Netflix to Acquire Warner Bros. In an $82.7B Deal](https://about.netflix.com/en/news/netflix-to-acquire-warner-bros)
 * [2025-12-05, 12:12:52](https://news.ycombinator.com/item?id=46160239) - [Sugars, Gum, Stardust Found in NASA's Asteroid Bennu Samples](https://www.nasa.gov/missions/osiris-rex/sugars-gum-stardust-found-in-nasas-asteroid-bennu-samples/)
 * [2025-12-05, 11:07:07](https://news.ycombinator.com/item?id=46159703) - [Why We Can't Quit Excel](https://www.bloomberg.com/features/2025-microsoft-excel-ai-software/)
