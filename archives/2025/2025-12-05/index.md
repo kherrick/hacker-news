@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-12-05](index.md)
 
+* [2025-12-05, 21:31:40](https://news.ycombinator.com/item?id=46167621) - [Frank Gehry Died](https://www.bbc.co.uk/news/articles/c5y2p22z9gno)
 * [2025-12-05, 21:27:22](https://news.ycombinator.com/item?id=46167557) - [A $20 drug in Europe requires a prescription and $800 in the U.S.](https://www.statnews.com/2025/10/31/why-miebo-costs-40-times-more-than-its-european-version/)
+* [2025-12-05, 21:23:03](https://news.ycombinator.com/item?id=46167500) - [Perpetual Futures](https://www.bitsaboutmoney.com/archive/perpetual-futures-explained/)
 * [2025-12-05, 20:42:04](https://news.ycombinator.com/item?id=46166994) - [Judge Signals Win for Software Freedom Conservancy in Vizio GPL Case](https://fossforce.com/2025/12/judge-signals-win-for-software-freedom-conservancy-in-vizio-gpl-case/)
 * [2025-12-05, 20:18:34](https://news.ycombinator.com/item?id=46166709) - [Advertising as a major source of human dissatisfaction (2019) [pdf]](https://www.andrewoswald.com/docs/AdvertisingMicheletal2019EasterlinVolume.pdf)
 * [2025-12-05, 20:18:22](https://news.ycombinator.com/item?id=46166708) - [Fizz Buzz in CSS](https://susam.net/fizz-buzz-in-css.html)
