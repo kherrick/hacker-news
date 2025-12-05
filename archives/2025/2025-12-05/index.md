@@ -5,7 +5,9 @@
 ### [Archives](../../index.md) for [2025-12-05](index.md)
 
 * [2025-12-05, 17:00:10](https://news.ycombinator.com/item?id=46163977) - [Onlook (YC W25) the Cursor for Designers Is Hiring a Founding Fullstack Engineer](https://news.ycombinator.com/item?id=46163977)
+* [2025-12-05, 16:48:44](https://news.ycombinator.com/item?id=46163804) - [Jony Ive's OpenAI Device Barred from Using 'Io' Name](https://www.macrumors.com/2025/12/05/openai-device-barred-from-io-name/)
 * [2025-12-05, 16:42:13](https://news.ycombinator.com/item?id=46163721) - [X hit with $140M EU fine for breaching content rules](https://www.reuters.com/sustainability/boards-policy-regulation/eu-fines-x-140-mln-breaching-online-content-rules-tiktok-settles-with-2025-12-05/)
+* [2025-12-05, 16:34:25](https://news.ycombinator.com/item?id=46163609) - [Patterns for Defensive Programming in Rust](https://corrode.dev/blog/defensive-programming/)
 * [2025-12-05, 16:04:20](https://news.ycombinator.com/item?id=46163121) - [I'm Peter Roberts, immigration attorney who does work for YC and startups. AMA](https://news.ycombinator.com/item?id=46163121)
 * [2025-12-05, 15:49:56](https://news.ycombinator.com/item?id=46162872) - [Framework Laptop 13 gets ARM processor with 12 cores via upgrade kit](https://www.notebookcheck.net/Framework-Laptop-13-gets-ARM-processor-with-12-cores-via-upgrade-kit.1177930.0.html)
 * [2025-12-05, 15:35:43](https://news.ycombinator.com/item?id=46162656) - [Cloudflare outage on December 5, 2025](https://blog.cloudflare.com/5-december-2025-outage/)
