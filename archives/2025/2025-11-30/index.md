@@ -70,3 +70,4 @@
 * [2025-11-30, 01:15:59](https://news.ycombinator.com/item?id=46092558) - [Meshtastic](https://meshtastic.org/)
 * [2025-11-30, 01:03:44](https://news.ycombinator.com/item?id=46092478) - [A new Little Prince museum has opened its doors in Switzerland](https://www.lepetitprince.com/en/events-around-the-world/a-new-little-prince-museum-has-opened-its-doors-in-switzerland/)
 * [2025-11-30, 00:48:53](https://news.ycombinator.com/item?id=46092387) - [A Bus Ride and the (At Least) 3x UX FAILs](https://bsdly.blogspot.com/2025/11/a-bus-ride-and-at-least-3x-ux-fails.html)
+* [2025-11-30, 00:21:19](https://news.ycombinator.com/item?id=46092198) - [CSS now has an if() conditional function](https://caniuse.com/?search=if)
