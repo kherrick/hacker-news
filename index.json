@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-12-05, 22:10:50",
+      "https://news.ycombinator.com/item?id=46168057"
+    ],
+    [
+      "Adenosine on the common path of rapid antidepressant action: The coffee paradox",
+      "https://genomicpress.kglmeridian.com/view/journals/brainmed/aop/article-10.61373-bm025c.0134/article-10.61373-bm025c.0134.xml"
+    ]
+  ],
+  [
+    [
       "2025-12-05, 21:31:40",
       "https://news.ycombinator.com/item?id=46167621"
     ],
@@ -61,16 +71,6 @@
   ],
   [
     [
-      "2025-12-05, 20:18:34",
-      "https://news.ycombinator.com/item?id=46166709"
-    ],
-    [
-      "Advertising as a major source of human dissatisfaction (2019) [pdf]",
-      "https://www.andrewoswald.com/docs/AdvertisingMicheletal2019EasterlinVolume.pdf"
-    ]
-  ],
-  [
-    [
       "2025-12-05, 20:18:22",
       "https://news.ycombinator.com/item?id=46166708"
     ],
@@ -117,6 +117,16 @@
     [
       "Onlook (YC W25) the Cursor for Designers Is Hiring a Founding Fullstack Engineer",
       "https://news.ycombinator.com/item?id=46163977"
+    ]
+  ],
+  [
+    [
+      "2025-12-05, 16:38:30",
+      "https://news.ycombinator.com/item?id=46163671"
+    ],
+    [
+      "Synadia and TigerBeetle Pledge $512k to the Zig Software Foundation",
+      "https://tigerbeetle.com/blog/2025-10-25-synadia-and-tigerbeetle-pledge-512k-to-the-zig-software-foundation/"
     ]
   ],
   [
@@ -211,26 +221,6 @@
   ],
   [
     [
-      "2025-12-05, 01:05:57",
-      "https://news.ycombinator.com/item?id=46155619"
-    ],
-    [
-      "BMW PHEV: Safety fuse replacement is extremely expensive",
-      "https://evclinic.eu/2025/12/04/2021-phev-bmw-ibmucp-21f37e-post-crash-recovery-when-eu-engineering-becomes-a-synonym-for-unrepairable-generating-waste/"
-    ]
-  ],
-  [
-    [
-      "2025-12-05, 00:09:57",
-      "https://news.ycombinator.com/item?id=46155135"
-    ],
-    [
-      "Netflix’s AV1 Journey: From Android to TVs and Beyond",
-      "https://netflixtechblog.com/av1-now-powering-30-of-netflix-streaming-02f592242d80"
-    ]
-  ],
-  [
-    [
       "2025-12-04, 07:35:10",
       "https://news.ycombinator.com/item?id=46144801"
     ],
@@ -297,6 +287,16 @@
     [
       "Idempotency Keys for Exactly-Once Processing",
       "https://www.morling.dev/blog/on-idempotency-keys/"
+    ]
+  ],
+  [
+    [
+      "2025-11-29, 07:30:30",
+      "https://news.ycombinator.com/item?id=46085753"
+    ],
+    [
+      "How fast can browsers process base64 data?",
+      "https://lemire.me/blog/2025/11/29/how-fast-can-browsers-process-base64-data/"
     ]
   ]
 ]
