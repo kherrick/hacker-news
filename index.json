@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-12-05, 20:18:34",
+      "https://news.ycombinator.com/item?id=46166709"
+    ],
+    [
+      "Advertising as a major source of human dissatisfaction (2019) [pdf]",
+      "https://www.andrewoswald.com/docs/AdvertisingMicheletal2019EasterlinVolume.pdf"
+    ]
+  ],
+  [
+    [
       "2025-12-05, 18:49:07",
       "https://news.ycombinator.com/item?id=46165513"
     ],
@@ -221,16 +231,6 @@
   ],
   [
     [
-      "2025-12-05, 00:03:36",
-      "https://news.ycombinator.com/item?id=46155085"
-    ],
-    [
-      "Trick users and bypass warnings – Modern SVG Clickjacking attacks",
-      "https://lyra.horse/blog/2025/12/svg-clickjacking/"
-    ]
-  ],
-  [
-    [
       "2025-12-04, 18:49:20",
       "https://news.ycombinator.com/item?id=46151299"
     ],
@@ -271,12 +271,12 @@
   ],
   [
     [
-      "2025-12-01, 17:13:29",
-      "https://news.ycombinator.com/item?id=46109978"
+      "2025-12-01, 12:07:33",
+      "https://news.ycombinator.com/item?id=46106411"
     ],
     [
-      "After 40 years of adventure games, Ron Gilbert pivots to outrunning Death",
-      "https://arstechnica.com/gaming/2025/12/after-40-years-of-adventure-games-ron-gilbert-pivots-to-outrunning-death/"
+      "Idempotency Keys for Exactly-Once Processing",
+      "https://www.morling.dev/blog/on-idempotency-keys/"
     ]
   ],
   [
