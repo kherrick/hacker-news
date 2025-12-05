@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-12-05, 16:04:20",
+      "https://news.ycombinator.com/item?id=46163121"
+    ],
+    [
+      "I'm Peter Roberts, immigration attorney who does work for YC and startups. AMA",
+      "https://news.ycombinator.com/item?id=46163121"
+    ]
+  ],
+  [
+    [
+      "2025-12-05, 15:49:56",
+      "https://news.ycombinator.com/item?id=46162872"
+    ],
+    [
+      "Framework Laptop 13 gets ARM processor with 12 cores via upgrade kit",
+      "https://www.notebookcheck.net/Framework-Laptop-13-gets-ARM-processor-with-12-cores-via-upgrade-kit.1177930.0.html"
+    ]
+  ],
+  [
+    [
       "2025-12-05, 15:35:43",
       "https://news.ycombinator.com/item?id=46162656"
     ],
@@ -121,16 +141,6 @@
   ],
   [
     [
-      "2025-12-05, 01:15:42",
-      "https://news.ycombinator.com/item?id=46155701"
-    ],
-    [
-      "NeurIPS 2025 Best Paper Awards",
-      "https://blog.neurips.cc/2025/11/26/announcing-the-neurips-2025-best-paper-awards/"
-    ]
-  ],
-  [
-    [
       "2025-12-05, 01:05:57",
       "https://news.ycombinator.com/item?id=46155619"
     ],
@@ -181,16 +191,6 @@
   ],
   [
     [
-      "2025-12-04, 16:58:35",
-      "https://news.ycombinator.com/item?id=46149813"
-    ],
-    [
-      "Multivox: Volumetric Display",
-      "https://github.com/AncientJames/multivox"
-    ]
-  ],
-  [
-    [
       "2025-12-04, 13:40:00",
       "https://news.ycombinator.com/item?id=46147540"
     ],
@@ -217,16 +217,6 @@
     [
       "Show HN: Kraa – Writing App for Everything",
       "https://kraa.io/about"
-    ]
-  ],
-  [
-    [
-      "2025-12-02, 09:14:00",
-      "https://news.ycombinator.com/item?id=46119234"
-    ],
-    [
-      "Show HN: I was reintroduced to computers: Raspberry Pi",
-      "https://airoboticist.blog/2025/12/01/i-was-reintroduced-to-computers-raspberry-pi/"
     ]
   ],
   [
@@ -267,6 +257,16 @@
     [
       "Ephemeral Infrastructure: Why Short-Lived Is a Good Thing",
       "https://lukasniessen.medium.com/ephemeral-infrastructure-why-short-lived-is-a-good-thing-2cf26afd75ef"
+    ]
+  ],
+  [
+    [
+      "2025-11-30, 10:43:27",
+      "https://news.ycombinator.com/item?id=46095571"
+    ],
+    [
+      "Write ReactJS in Rust",
+      "https://github.com/hyper-forge/brahma-react"
     ]
   ],
   [
