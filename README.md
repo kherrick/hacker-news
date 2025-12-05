@@ -18,7 +18,6 @@
 * [2025-12-04, 18:49:20](https://news.ycombinator.com/item?id=46151299) - [I have been writing a niche history blog for 15 years](https://resobscura.substack.com/p/why-i-have-been-writing-a-niche-history)
 * [2025-12-04, 18:04:07](https://news.ycombinator.com/item?id=46150715) - [Why are 38 percent of Stanford students saying they're disabled?](https://reason.com/2025/12/04/why-are-38-percent-of-stanford-students-saying-theyre-disabled/)
 * [2025-12-04, 16:58:35](https://news.ycombinator.com/item?id=46149813) - [Multivox: Volumetric Display](https://github.com/AncientJames/multivox)
-* [2025-12-04, 15:06:08](https://news.ycombinator.com/item?id=46148460) - [Show HN: Onlyrecipe 2.0 – I added all features HN requested – 4 years later](https://onlyrecipeapp.com/?url=https://www.allrecipes.com/turkish-pasta-recipe-8754903)
 * [2025-12-04, 13:40:00](https://news.ycombinator.com/item?id=46147540) - [Transparent leadership beats servant leadership](https://entropicthoughts.com/transparent-leadership-beats-servant-leadership)
 * [2025-12-04, 13:34:27](https://news.ycombinator.com/item?id=46147493) - [Fighting the age-gated internet](https://www.wired.com/story/age-verification-is-sweeping-the-us-activists-are-fighting-back/)
 * [2025-12-04, 11:36:36](https://news.ycombinator.com/item?id=46146451) - [I ignore the spotlight as a staff engineer](https://lalitm.com/software-engineering-outside-the-spotlight/)
@@ -29,6 +28,7 @@
 * [2025-11-30, 06:18:57](https://news.ycombinator.com/item?id=46094330) - [Show HN: Tacopy – Tail Call Optimization for Python](https://github.com/raaidrt/tacopy)
 * [2025-11-30, 00:59:41](https://news.ycombinator.com/item?id=46092453) - [What's the deal with Euler's identity?](https://lcamtuf.substack.com/p/whats-the-deal-with-eulers-identity)
 * [2025-11-30, 00:21:19](https://news.ycombinator.com/item?id=46092198) - [CSS now has an if() conditional function](https://caniuse.com/?search=if)
+* [2025-11-28, 16:37:45](https://news.ycombinator.com/item?id=46080163) - [The Fat-Tailed Sheep on the First Fleet; Australia's First Sheep](https://www.singletonmills.com/sydney-first-sheep.html)
 * [2025-11-27, 18:14:45](https://news.ycombinator.com/item?id=46071785) - [At IT School with Apple Lisa](https://blisscast.wordpress.com/2024/06/04/apple-lisa-gui-wonderland-3/)
 
 ## [Archives](archives/index.md)

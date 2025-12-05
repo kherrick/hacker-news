@@ -42,6 +42,7 @@
 * [2025-11-28, 16:50:32](https://news.ycombinator.com/item?id=46080307) - [Lowtype: Elegant Types in Ruby](https://codeberg.org/Iow/type)
 * [2025-11-28, 16:49:12](https://news.ycombinator.com/item?id=46080289) - [Airloom – 3D Flight Tracker](https://objectiveunclear.com/airloom.html)
 * [2025-11-28, 16:42:46](https://news.ycombinator.com/item?id=46080218) - [Lobsters Interview](https://susam.net/my-lobsters-interview.html)
+* [2025-11-28, 16:37:45](https://news.ycombinator.com/item?id=46080163) - [The Fat-Tailed Sheep on the First Fleet; Australia's First Sheep](https://www.singletonmills.com/sydney-first-sheep.html)
 * [2025-11-28, 16:37:32](https://news.ycombinator.com/item?id=46080161) - [Stellantis Is Spamming Owners' Screens with Pop-Up Ads for New Car Discounts](https://www.thedrive.com/news/stellantis-is-spamming-owners-screens-with-pop-up-ads-for-new-car-discounts)
 * [2025-11-28, 16:35:24](https://news.ycombinator.com/item?id=46080143) - [True P2P Email on Top of Yggdrasil Network](https://github.com/JB-SelfCompany/Tyr)
 * [2025-11-28, 16:34:13](https://news.ycombinator.com/item?id=46080131) - [The Pro-Israel Information War](https://www.leefang.com/p/inside-the-pro-israel-information)
