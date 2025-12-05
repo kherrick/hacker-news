@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-12-05](index.md)
 
+* [2025-12-05, 08:59:00](https://news.ycombinator.com/item?id=46158338) - [Cloudflare Is Down](https://cloudflare.com/)
+* [2025-12-05, 08:55:47](https://news.ycombinator.com/item?id=46158275) - [Is Cloudflare Down Again? Also, DownDetector/Claude.ai/LinkedIn?](https://news.ycombinator.com/item?id=46158275)
+* [2025-12-05, 08:51:42](https://news.ycombinator.com/item?id=46158200) - [Cloudflare Down Again – and DownDetector Is Also Down](https://news.ycombinator.com/item?id=46158200)
 * [2025-12-05, 08:50:16](https://news.ycombinator.com/item?id=46158191) - [Cloudflare is down](https://www.cloudflare.com/)
 * [2025-12-05, 07:20:02](https://news.ycombinator.com/item?id=46157648) - [Undisclosed Deaths in the Pfizer mRNA Covid-19 Vaccine Trial [pdf]](https://jpands.org/vol30no4/kunadhasan.pdf)
 * [2025-12-05, 07:06:38](https://news.ycombinator.com/item?id=46157594) - [UniFi 5G](https://blog.ui.com/article/introducing-unifi-5g)
