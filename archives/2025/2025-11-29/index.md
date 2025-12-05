@@ -31,6 +31,7 @@
 * [2025-11-29, 18:19:29](https://news.ycombinator.com/item?id=46089579) - [An Update on the Farphone's Battery](https://far.computer/battery-update/)
 * [2025-11-29, 18:14:31](https://news.ycombinator.com/item?id=46089548) - [In Northern Scotland, the Neolithic Age Never Ended](https://www.newyorker.com/magazine/2025/12/01/in-northern-scotland-the-neolithic-age-never-ended)
 * [2025-11-29, 18:14:21](https://news.ycombinator.com/item?id=46089546) - [Student Perceptions of AI Coding Assistants in Learning](https://arxiv.org/abs/2507.22900)
+* [2025-11-29, 18:02:55](https://news.ycombinator.com/item?id=46089444) - [The Forgotten Roman Ruins of the ‘Pompeii of the Middle East’](https://news.artnet.com/art-world/huge-jerash-jordan-pompeii-middle-easy-2708480)
 * [2025-11-29, 17:53:57](https://news.ycombinator.com/item?id=46089394) - [Zero Knowlege Proof of Compositeness](https://www.johndcook.com/blog/2025/11/29/zkp-composite/)
 * [2025-11-29, 17:48:17](https://news.ycombinator.com/item?id=46089344) - [Show HN: Chess on a Donut/Torus and Deep-Dive](https://mchess.io/donut)
 * [2025-11-29, 17:42:29](https://news.ycombinator.com/item?id=46089304) - [OCaml maintainers reject massive AI-generated pull request](https://devclass.com/2025/11/27/ocaml-maintainers-reject-massive-ai-generated-pull-request/)

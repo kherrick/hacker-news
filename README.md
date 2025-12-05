@@ -27,9 +27,9 @@
 * [2025-12-01, 17:13:29](https://news.ycombinator.com/item?id=46109978) - [After 40 years of adventure games, Ron Gilbert pivots to outrunning Death](https://arstechnica.com/gaming/2025/12/after-40-years-of-adventure-games-ron-gilbert-pivots-to-outrunning-death/)
 * [2025-11-30, 19:45:59](https://news.ycombinator.com/item?id=46099739) - [New 3D scan reveals a hidden network of moai carvers on Easter Island](https://www.sciencedaily.com/releases/2025/11/251130050717.htm)
 * [2025-11-30, 10:50:32](https://news.ycombinator.com/item?id=46095602) - [Ephemeral Infrastructure: Why Short-Lived Is a Good Thing](https://lukasniessen.medium.com/ephemeral-infrastructure-why-short-lived-is-a-good-thing-2cf26afd75ef)
-* [2025-11-30, 10:43:27](https://news.ycombinator.com/item?id=46095571) - [Write ReactJS in Rust](https://github.com/hyper-forge/brahma-react)
 * [2025-11-30, 06:18:57](https://news.ycombinator.com/item?id=46094330) - [Show HN: Tacopy – Tail Call Optimization for Python](https://github.com/raaidrt/tacopy)
 * [2025-11-30, 00:21:19](https://news.ycombinator.com/item?id=46092198) - [CSS now has an if() conditional function](https://caniuse.com/?search=if)
+* [2025-11-29, 18:02:55](https://news.ycombinator.com/item?id=46089444) - [The Forgotten Roman Ruins of the ‘Pompeii of the Middle East’](https://news.artnet.com/art-world/huge-jerash-jordan-pompeii-middle-easy-2708480)
 
 ## [Archives](archives/index.md)
 
