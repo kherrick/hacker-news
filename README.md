@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-12-05, 15:35:43](https://news.ycombinator.com/item?id=46162656) - [Cloudflare outage on December 5, 2025](https://blog.cloudflare.com/5-december-2025-outage/)
 * [2025-12-05, 15:15:12](https://news.ycombinator.com/item?id=46162368) - [Jolla Phone Pre-Order](https://commerce.jolla.com/products/jolla-phone-preorder)
+* [2025-12-05, 15:07:42](https://news.ycombinator.com/item?id=46162262) - [Covid-19 mRNA Vaccination and 4-Year All-Cause Mortality](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2842305)
 * [2025-12-05, 14:06:53](https://news.ycombinator.com/item?id=46161460) - [Emerge Career (YC S22) Is Hiring](https://www.ycombinator.com/companies/emerge-career/jobs/qQhLEmC-founding-design-engineer)
 * [2025-12-05, 13:39:04](https://news.ycombinator.com/item?id=46161125) - [Influential study on glyphosate safety retracted 25 years after publication](https://www.lemonde.fr/en/environment/article/2025/12/03/influential-study-on-glyphosate-safety-retracted-25-years-after-publication_6748114_114.html)
 * [2025-12-05, 13:13:03](https://news.ycombinator.com/item?id=46160824) - [Show HN: Pbnj – A minimal, self-hosted pastebin you can deploy in 60 seconds](https://pbnj.sh/)
@@ -10,7 +12,6 @@
 * [2025-12-05, 12:12:52](https://news.ycombinator.com/item?id=46160239) - [Sugars, Gum, Stardust Found in NASA's Asteroid Bennu Samples](https://www.nasa.gov/missions/osiris-rex/sugars-gum-stardust-found-in-nasas-asteroid-bennu-samples/)
 * [2025-12-05, 09:09:25](https://news.ycombinator.com/item?id=46158578) - [Kenyan court declares law banning seed sharing unconstitutional](https://apnews.com/article/kenya-seed-sharing-law-ruling-ad4df5a364299b3a9f8515c0f52d5f80)
 * [2025-12-05, 07:06:38](https://news.ycombinator.com/item?id=46157594) - [UniFi 5G](https://blog.ui.com/article/introducing-unifi-5g)
-* [2025-12-05, 01:15:42](https://news.ycombinator.com/item?id=46155701) - [NeurIPS 2025 Best Paper Awards](https://blog.neurips.cc/2025/11/26/announcing-the-neurips-2025-best-paper-awards/)
 * [2025-12-05, 01:05:57](https://news.ycombinator.com/item?id=46155619) - [BMW PHEV: Safety fuse replacement is extremely expensive](https://evclinic.eu/2025/12/04/2021-phev-bmw-ibmucp-21f37e-post-crash-recovery-when-eu-engineering-becomes-a-synonym-for-unrepairable-generating-waste/)
 * [2025-12-05, 00:09:57](https://news.ycombinator.com/item?id=46155135) - [Netflix’s AV1 Journey: From Android to TVs and Beyond](https://netflixtechblog.com/av1-now-powering-30-of-netflix-streaming-02f592242d80)
 * [2025-12-05, 00:03:36](https://news.ycombinator.com/item?id=46155085) - [Trick users and bypass warnings – Modern SVG Clickjacking attacks](https://lyra.horse/blog/2025/12/svg-clickjacking/)
@@ -29,7 +30,6 @@
 * [2025-11-30, 06:18:57](https://news.ycombinator.com/item?id=46094330) - [Show HN: Tacopy – Tail Call Optimization for Python](https://github.com/raaidrt/tacopy)
 * [2025-11-30, 00:21:19](https://news.ycombinator.com/item?id=46092198) - [CSS now has an if() conditional function](https://caniuse.com/?search=if)
 * [2025-11-28, 14:52:39](https://news.ycombinator.com/item?id=46079151) - [Reframing Impact](https://turntrout.com/reframing-impact)
-* [2025-11-27, 18:14:45](https://news.ycombinator.com/item?id=46071785) - [At IT School with Apple Lisa](https://blisscast.wordpress.com/2024/06/04/apple-lisa-gui-wonderland-3/)
 
 ## [Archives](archives/index.md)
 
