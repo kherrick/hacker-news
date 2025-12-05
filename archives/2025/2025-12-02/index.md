@@ -51,6 +51,7 @@
 * [2025-12-02, 10:20:34](https://news.ycombinator.com/item?id=46119699) - [Man unexpectedly cured of HIV after stem cell transplant](https://www.newscientist.com/article/2506595-man-unexpectedly-cured-of-hiv-after-stem-cell-transplant/)
 * [2025-12-02, 09:51:42](https://news.ycombinator.com/item?id=46119500) - [Advent of Compiler Optimisations 2025](https://xania.org/202511/advent-of-compiler-optimisation)
 * [2025-12-02, 09:29:06](https://news.ycombinator.com/item?id=46119337) - [Visualize 4B Years: The Trillions of Generations: LUCA to Modern Human](https://www.g9n.com/tools/learning/evolution-visualisation)
+* [2025-12-02, 09:14:00](https://news.ycombinator.com/item?id=46119234) - [Show HN: I was reintroduced to computers: Raspberry Pi](https://airoboticist.blog/2025/12/01/i-was-reintroduced-to-computers-raspberry-pi/)
 * [2025-12-02, 09:11:41](https://news.ycombinator.com/item?id=46119214) - [Comparing AWS Lambda ARM64 vs. x86_64 Performance Across Runtimes in Late 2025](https://chrisebert.net/comparing-aws-lambda-arm64-vs-x86_64-performance-across-multiple-runtimes-in-late-2025/)
 * [2025-12-02, 07:46:47](https://news.ycombinator.com/item?id=46118722) - [How Brian Eno Created Ambient 1: Music for Airports (2019)](https://reverbmachine.com/blog/deconstructing-brian-eno-music-for-airports/)
 * [2025-12-02, 07:01:03](https://news.ycombinator.com/item?id=46118432) - [Rootless Pings in Rust](https://bou.ke/blog/rust-ping/)
