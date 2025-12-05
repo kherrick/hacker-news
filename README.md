@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-12-05, 19:39:01](https://news.ycombinator.com/item?id=46166248) - [US Supreme Court agrees to hear case challenging birthright citizenship](https://www.bbc.com/news/articles/c208j0wrzrvo)
+* [2025-12-05, 18:49:07](https://news.ycombinator.com/item?id=46165513) - [SpaceX in Talks for Share Sale That Would Boost Valuation to $800B](https://www.wsj.com/business/spacex-in-talks-for-share-sale-that-would-boost-valuation-to-800-billion-b2852191)
 * [2025-12-05, 18:30:06](https://news.ycombinator.com/item?id=46165251) - [Show HN: SerpApi MCP Server](https://github.com/serpapi/serpapi-mcp)
 * [2025-12-05, 18:29:50](https://news.ycombinator.com/item?id=46165249) - [Why we built Lightpanda in Zig](https://lightpanda.io/blog/posts/why-we-built-lightpanda-in-zig)
 * [2025-12-05, 18:08:19](https://news.ycombinator.com/item?id=46164952) - [WikiFlix: Full Movies Hosted on Wikimedia Commons](https://commons.wikimedia.org/wiki/User:Spinster/WikiFlix)
@@ -24,10 +24,10 @@
 * [2025-12-05, 00:09:57](https://news.ycombinator.com/item?id=46155135) - [Netflix’s AV1 Journey: From Android to TVs and Beyond](https://netflixtechblog.com/av1-now-powering-30-of-netflix-streaming-02f592242d80)
 * [2025-12-05, 00:03:36](https://news.ycombinator.com/item?id=46155085) - [Trick users and bypass warnings – Modern SVG Clickjacking attacks](https://lyra.horse/blog/2025/12/svg-clickjacking/)
 * [2025-12-04, 18:49:20](https://news.ycombinator.com/item?id=46151299) - [I have been writing a niche history blog for 15 years](https://resobscura.substack.com/p/why-i-have-been-writing-a-niche-history)
-* [2025-12-04, 07:35:10](https://news.ycombinator.com/item?id=46144801) - [Show HN: Kraa – Writing App for Everything](https://kraa.io/about)
 * [2025-12-03, 04:20:44](https://news.ycombinator.com/item?id=46130260) - [Show HN: HCB Mobile – financial app built by 17 y/o, processing $6M/month](https://hackclub.com/fiscal-sponsorship/mobile/)
 * [2025-12-02, 08:33:52](https://news.ycombinator.com/item?id=46118986) - [Compassionate Curmudgeon: Why we must root ourselves in the real world](https://theamericanscholar.org/compassionate-curmudgeon/)
 * [2025-12-02, 00:39:41](https://news.ycombinator.com/item?id=46115758) - [Nimony (Nim 3.0) Design Principles](https://nim-lang.org/araq/nimony.html)
+* [2025-12-01, 17:13:29](https://news.ycombinator.com/item?id=46109978) - [After 40 years of adventure games, Ron Gilbert pivots to outrunning Death](https://arstechnica.com/gaming/2025/12/after-40-years-of-adventure-games-ron-gilbert-pivots-to-outrunning-death/)
 * [2025-12-01, 01:48:15](https://news.ycombinator.com/item?id=46102546) - [Building a Copying GC for the Plush Programming Language](https://pointersgonewild.com/2025-11-29-building-a-copying-gc-for-the-plush-programming-language/)
 * [2025-11-29, 18:02:55](https://news.ycombinator.com/item?id=46089444) - [The Forgotten Roman Ruins of the ‘Pompeii of the Middle East’](https://news.artnet.com/art-world/huge-jerash-jordan-pompeii-middle-easy-2708480)
 
