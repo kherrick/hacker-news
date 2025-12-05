@@ -1,16 +1,6 @@
 [
   [
     [
-      "2025-12-05, 07:20:02",
-      "https://news.ycombinator.com/item?id=46157648"
-    ],
-    [
-      "Undisclosed Deaths in the Pfizer mRNA Covid-19 Vaccine Trial [pdf]",
-      "https://jpands.org/vol30no4/kunadhasan.pdf"
-    ]
-  ],
-  [
-    [
       "2025-12-05, 07:06:38",
       "https://news.ycombinator.com/item?id=46157594"
     ],
@@ -117,6 +107,16 @@
     [
       "Trick users and bypass warnings – Modern SVG Clickjacking attacks",
       "https://lyra.horse/blog/2025/12/svg-clickjacking/"
+    ]
+  ],
+  [
+    [
+      "2025-12-04, 23:43:47",
+      "https://news.ycombinator.com/item?id=46154892"
+    ],
+    [
+      "What is better: a lookup table or an enum type?",
+      "https://www.cybertec-postgresql.com/en/lookup-table-or-enum-type/"
     ]
   ],
   [
