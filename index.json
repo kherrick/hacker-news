@@ -71,6 +71,16 @@
   ],
   [
     [
+      "2025-12-05, 18:51:38",
+      "https://news.ycombinator.com/item?id=46165555"
+    ],
+    [
+      "The Debug Adapter Protocol is a REPL protocol in disguise",
+      "https://zignar.net/2025/06/23/debug-adapter-protocol-is-a-repl-protocol/"
+    ]
+  ],
+  [
+    [
       "2025-12-05, 18:30:06",
       "https://news.ycombinator.com/item?id=46165251"
     ],
@@ -261,6 +271,16 @@
   ],
   [
     [
+      "2025-12-02, 00:39:41",
+      "https://news.ycombinator.com/item?id=46115758"
+    ],
+    [
+      "Nimony (Nim 3.0) Design Principles",
+      "https://nim-lang.org/araq/nimony.html"
+    ]
+  ],
+  [
+    [
       "2025-12-01, 20:14:53",
       "https://news.ycombinator.com/item?id=46112560"
     ],
@@ -277,26 +297,6 @@
     [
       "Idempotency Keys for Exactly-Once Processing",
       "https://www.morling.dev/blog/on-idempotency-keys/"
-    ]
-  ],
-  [
-    [
-      "2025-12-01, 01:48:15",
-      "https://news.ycombinator.com/item?id=46102546"
-    ],
-    [
-      "Building a Copying GC for the Plush Programming Language",
-      "https://pointersgonewild.com/2025-11-29-building-a-copying-gc-for-the-plush-programming-language/"
-    ]
-  ],
-  [
-    [
-      "2025-11-29, 18:02:55",
-      "https://news.ycombinator.com/item?id=46089444"
-    ],
-    [
-      "The Forgotten Roman Ruins of the ‘Pompeii of the Middle East’",
-      "https://news.artnet.com/art-world/huge-jerash-jordan-pompeii-middle-easy-2708480"
     ]
   ]
 ]
