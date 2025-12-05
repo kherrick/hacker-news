@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-12-05, 18:49:07](https://news.ycombinator.com/item?id=46165513) - [SpaceX in Talks for Share Sale That Would Boost Valuation to $800B](https://www.wsj.com/business/spacex-in-talks-for-share-sale-that-would-boost-valuation-to-800-billion-b2852191)
 * [2025-12-05, 18:30:06](https://news.ycombinator.com/item?id=46165251) - [Show HN: SerpApi MCP Server](https://github.com/serpapi/serpapi-mcp)
+* [2025-12-05, 18:29:50](https://news.ycombinator.com/item?id=46165249) - [We Built Lightpanda in Zig](https://lightpanda.io/blog/posts/why-we-built-lightpanda-in-zig)
 * [2025-12-05, 18:21:43](https://news.ycombinator.com/item?id=46165122) - [Wall Street races to protect itself from AI bubble](https://rollingout.com/2025/12/05/wall-street-protects-itself-ai-bubble/)
 * [2025-12-05, 18:08:19](https://news.ycombinator.com/item?id=46164952) - [WikiFlix: Full Movies Hosted on Wikimedia Commons](https://commons.wikimedia.org/wiki/User:Spinster/WikiFlix)
 * [2025-12-05, 17:47:16](https://news.ycombinator.com/item?id=46164646) - [Shingles vaccination prevented or delayed dementia](https://www.cell.com/cell/fulltext/S0092-8674(25)01256-5)
-* [2025-12-05, 17:44:28](https://news.ycombinator.com/item?id=46164614) - [Detainees at 'Alligator Alcatraz' facing 'harrowing human right violations'](https://www.theguardian.com/us-news/2025/dec/04/alligator-alcatraz-human-right-violations-amnesty-report)
-* [2025-12-05, 17:29:47](https://news.ycombinator.com/item?id=46164419) - [The AI Backlash Is Here: Why Public Patience with Tech Giants Is Running Out](https://www.newsweek.com/ai-backlash-openai-meta-friend-10807425)
 * [2025-12-05, 17:00:10](https://news.ycombinator.com/item?id=46163977) - [Onlook (YC W25) the Cursor for Designers Is Hiring a Founding Fullstack Engineer](https://news.ycombinator.com/item?id=46163977)
 * [2025-12-05, 16:48:44](https://news.ycombinator.com/item?id=46163804) - [Jony Ive's OpenAI Device Barred from Using 'Io' Name](https://www.macrumors.com/2025/12/05/openai-device-barred-from-io-name/)
 * [2025-12-05, 16:38:30](https://news.ycombinator.com/item?id=46163671) - [Synadia and TigerBeetle Pledge $512,000 to the Zig Software Foundation](https://tigerbeetle.com/blog/2025-10-25-synadia-and-tigerbeetle-pledge-512k-to-the-zig-software-foundation/)

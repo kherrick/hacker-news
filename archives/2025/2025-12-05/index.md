@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-12-05](index.md)
 
+* [2025-12-05, 18:49:07](https://news.ycombinator.com/item?id=46165513) - [SpaceX in Talks for Share Sale That Would Boost Valuation to $800B](https://www.wsj.com/business/spacex-in-talks-for-share-sale-that-would-boost-valuation-to-800-billion-b2852191)
 * [2025-12-05, 18:30:06](https://news.ycombinator.com/item?id=46165251) - [Show HN: SerpApi MCP Server](https://github.com/serpapi/serpapi-mcp)
+* [2025-12-05, 18:29:50](https://news.ycombinator.com/item?id=46165249) - [We Built Lightpanda in Zig](https://lightpanda.io/blog/posts/why-we-built-lightpanda-in-zig)
 * [2025-12-05, 18:21:43](https://news.ycombinator.com/item?id=46165122) - [Wall Street races to protect itself from AI bubble](https://rollingout.com/2025/12/05/wall-street-protects-itself-ai-bubble/)
 * [2025-12-05, 18:08:19](https://news.ycombinator.com/item?id=46164952) - [WikiFlix: Full Movies Hosted on Wikimedia Commons](https://commons.wikimedia.org/wiki/User:Spinster/WikiFlix)
 * [2025-12-05, 17:47:16](https://news.ycombinator.com/item?id=46164646) - [Shingles vaccination prevented or delayed dementia](https://www.cell.com/cell/fulltext/S0092-8674(25)01256-5)
