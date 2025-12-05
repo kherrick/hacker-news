@@ -1,11 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-12-05, 17:00:10](https://news.ycombinator.com/item?id=46163977) - [Onlook (YC W25) the Cursor for Designers Is Hiring a Founding Fullstack Engineer](https://news.ycombinator.com/item?id=46163977)
+* [2025-12-05, 16:42:13](https://news.ycombinator.com/item?id=46163721) - [X hit with $140M EU fine for breaching content rules](https://www.reuters.com/sustainability/boards-policy-regulation/eu-fines-x-140-mln-breaching-online-content-rules-tiktok-settles-with-2025-12-05/)
 * [2025-12-05, 16:04:20](https://news.ycombinator.com/item?id=46163121) - [I'm Peter Roberts, immigration attorney who does work for YC and startups. AMA](https://news.ycombinator.com/item?id=46163121)
 * [2025-12-05, 15:49:56](https://news.ycombinator.com/item?id=46162872) - [Framework Laptop 13 gets ARM processor with 12 cores via upgrade kit](https://www.notebookcheck.net/Framework-Laptop-13-gets-ARM-processor-with-12-cores-via-upgrade-kit.1177930.0.html)
 * [2025-12-05, 15:35:43](https://news.ycombinator.com/item?id=46162656) - [Cloudflare outage on December 5, 2025](https://blog.cloudflare.com/5-december-2025-outage/)
 * [2025-12-05, 15:15:12](https://news.ycombinator.com/item?id=46162368) - [Jolla Phone Pre-Order](https://commerce.jolla.com/products/jolla-phone-preorder)
 * [2025-12-05, 15:07:42](https://news.ycombinator.com/item?id=46162262) - [Covid-19 mRNA Vaccination and 4-Year All-Cause Mortality](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2842305)
-* [2025-12-05, 14:06:53](https://news.ycombinator.com/item?id=46161460) - [Emerge Career (YC S22) Is Hiring](https://www.ycombinator.com/companies/emerge-career/jobs/qQhLEmC-founding-design-engineer)
 * [2025-12-05, 13:39:04](https://news.ycombinator.com/item?id=46161125) - [Influential study on glyphosate safety retracted 25 years after publication](https://www.lemonde.fr/en/environment/article/2025/12/03/influential-study-on-glyphosate-safety-retracted-25-years-after-publication_6748114_114.html)
 * [2025-12-05, 13:13:03](https://news.ycombinator.com/item?id=46160824) - [Show HN: Pbnj – A minimal, self-hosted pastebin you can deploy in 60 seconds](https://pbnj.sh/)
 * [2025-12-05, 13:07:59](https://news.ycombinator.com/item?id=46160773) - [Most technical problems are people problems](https://blog.joeschrag.com/2023/11/most-technical-problems-are-really.html)
@@ -29,7 +30,6 @@
 * [2025-11-30, 10:43:27](https://news.ycombinator.com/item?id=46095571) - [Write ReactJS in Rust](https://github.com/hyper-forge/brahma-react)
 * [2025-11-30, 06:18:57](https://news.ycombinator.com/item?id=46094330) - [Show HN: Tacopy – Tail Call Optimization for Python](https://github.com/raaidrt/tacopy)
 * [2025-11-30, 00:21:19](https://news.ycombinator.com/item?id=46092198) - [CSS now has an if() conditional function](https://caniuse.com/?search=if)
-* [2025-11-28, 14:52:39](https://news.ycombinator.com/item?id=46079151) - [Reframing Impact](https://turntrout.com/reframing-impact)
 
 ## [Archives](archives/index.md)
 
