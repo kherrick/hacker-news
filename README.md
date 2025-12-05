@@ -2,6 +2,7 @@
 
 * [2025-12-05, 04:59:08](https://news.ycombinator.com/item?id=46156979) - [State Department to deny visas to fact checkers and others, citing 'censorship'](https://www.npr.org/2025/12/04/nx-s1-5633444/trump-content-moderation-visas-censorship)
 * [2025-12-05, 04:36:42](https://news.ycombinator.com/item?id=46156880) - [Netflix in exclusive talks to buy HBO](https://www.cnn.com/2025/12/04/media/netflix-paramount-wbd-bidding-war-warner-bros-discovery)
+* [2025-12-05, 04:26:10](https://news.ycombinator.com/item?id=46156832) - [Rats Snatching Bats Out of the Air and Eating Them–Researchers Got It on Video](https://www.smithsonianmag.com/smart-news/rats-are-snatching-bats-out-of-the-air-and-eating-them-and-researchers-got-it-on-video-180987610/)
 * [2025-12-05, 04:00:28](https://news.ycombinator.com/item?id=46156718) - [Fast trigram based code search](https://github.com/sourcegraph/zoekt)
 * [2025-12-05, 02:55:34](https://news.ycombinator.com/item?id=46156379) - [Blogging in 2025: Screaming into the Void](https://askmike.org/articles/blogging-in-2025-screaming-into-the-void/)
 * [2025-12-05, 01:15:42](https://news.ycombinator.com/item?id=46155701) - [NeurIPS 2025 Best Paper Awards](https://blog.neurips.cc/2025/11/26/announcing-the-neurips-2025-best-paper-awards/)
@@ -19,7 +20,6 @@
 * [2025-12-04, 18:49:20](https://news.ycombinator.com/item?id=46151299) - [I have been writing a niche history blog for 15 years](https://resobscura.substack.com/p/why-i-have-been-writing-a-niche-history)
 * [2025-12-04, 18:04:07](https://news.ycombinator.com/item?id=46150715) - [Why are 38 percent of Stanford students saying they're disabled?](https://reason.com/2025/12/04/why-are-38-percent-of-stanford-students-saying-theyre-disabled/)
 * [2025-12-04, 17:43:07](https://news.ycombinator.com/item?id=46150447) - [PyTogether: Collaborative lightweight real-time Python IDE for teachers/learners](https://github.com/SJRiz/pytogether)
-* [2025-12-04, 17:00:37](https://news.ycombinator.com/item?id=46149849) - [Converge (YC S23) is hiring a martech expert in NYC](https://www.runconverge.com/careers/technical-customer-success-manager)
 * [2025-12-04, 16:58:35](https://news.ycombinator.com/item?id=46149813) - [Multivox: Volumetric Display](https://github.com/AncientJames/multivox)
 * [2025-12-04, 15:06:08](https://news.ycombinator.com/item?id=46148460) - [Show HN: Onlyrecipe 2.0 – I added all features HN requested – 4 years later](https://onlyrecipeapp.com/?url=https://www.allrecipes.com/turkish-pasta-recipe-8754903)
 * [2025-12-04, 13:40:00](https://news.ycombinator.com/item?id=46147540) - [Transparent leadership beats servant leadership](https://entropicthoughts.com/transparent-leadership-beats-servant-leadership)

@@ -6,6 +6,7 @@
 
 * [2025-12-05, 04:59:08](https://news.ycombinator.com/item?id=46156979) - [State Department to deny visas to fact checkers and others, citing 'censorship'](https://www.npr.org/2025/12/04/nx-s1-5633444/trump-content-moderation-visas-censorship)
 * [2025-12-05, 04:36:42](https://news.ycombinator.com/item?id=46156880) - [Netflix in exclusive talks to buy HBO](https://www.cnn.com/2025/12/04/media/netflix-paramount-wbd-bidding-war-warner-bros-discovery)
+* [2025-12-05, 04:26:10](https://news.ycombinator.com/item?id=46156832) - [Rats Snatching Bats Out of the Air and Eating Them–Researchers Got It on Video](https://www.smithsonianmag.com/smart-news/rats-are-snatching-bats-out-of-the-air-and-eating-them-and-researchers-got-it-on-video-180987610/)
 * [2025-12-05, 04:00:28](https://news.ycombinator.com/item?id=46156718) - [Fast trigram based code search](https://github.com/sourcegraph/zoekt)
 * [2025-12-05, 02:55:34](https://news.ycombinator.com/item?id=46156379) - [Blogging in 2025: Screaming into the Void](https://askmike.org/articles/blogging-in-2025-screaming-into-the-void/)
 * [2025-12-05, 01:39:24](https://news.ycombinator.com/item?id=46155868) - [Brussels writes so many laws](https://www.siliconcontinent.com/p/how-brussels-writes-so-many-laws)
