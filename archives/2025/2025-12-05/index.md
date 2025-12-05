@@ -6,6 +6,7 @@
 
 * [2025-12-05, 09:58:01](https://news.ycombinator.com/item?id=46159193) - [The US polluters that are rewriting the EU's human rights and climate law](https://www.somo.nl/the-secretive-cabal-of-us-polluters-that-is-rewriting-the-eus-human-rights-and-climate-law/)
 * [2025-12-05, 09:30:07](https://news.ycombinator.com/item?id=46158920) - [Awful AI is a curated list to track current scary usages of AI](https://github.com/daviddao/awful-ai)
+* [2025-12-05, 09:09:25](https://news.ycombinator.com/item?id=46158578) - [Kenyan court declares law banning seed sharing unconstitutional](https://apnews.com/article/kenya-seed-sharing-law-ruling-ad4df5a364299b3a9f8515c0f52d5f80)
 * [2025-12-05, 08:59:00](https://news.ycombinator.com/item?id=46158338) - [Cloudflare Is Down](https://cloudflare.com/)
 * [2025-12-05, 08:55:47](https://news.ycombinator.com/item?id=46158275) - [Is Cloudflare Down Again? Also, DownDetector/Claude.ai/LinkedIn?](https://news.ycombinator.com/item?id=46158275)
 * [2025-12-05, 08:51:42](https://news.ycombinator.com/item?id=46158200) - [Cloudflare Down Again – and DownDetector Is Also Down](https://news.ycombinator.com/item?id=46158200)

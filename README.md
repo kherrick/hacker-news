@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-12-05, 09:58:01](https://news.ycombinator.com/item?id=46159193) - [The US polluters that are rewriting the EU's human rights and climate law](https://www.somo.nl/the-secretive-cabal-of-us-polluters-that-is-rewriting-the-eus-human-rights-and-climate-law/)
+* [2025-12-05, 09:09:25](https://news.ycombinator.com/item?id=46158578) - [Kenyan court declares law banning seed sharing unconstitutional](https://apnews.com/article/kenya-seed-sharing-law-ruling-ad4df5a364299b3a9f8515c0f52d5f80)
 * [2025-12-05, 08:51:42](https://news.ycombinator.com/item?id=46158200) - [Cloudflare Down Again – and DownDetector Is Also Down](https://news.ycombinator.com/item?id=46158200)
 * [2025-12-05, 08:50:16](https://news.ycombinator.com/item?id=46158191) - [Cloudflare is down](https://www.cloudflare.com/)
 * [2025-12-05, 07:06:38](https://news.ycombinator.com/item?id=46157594) - [UniFi 5G](https://blog.ui.com/article/introducing-unifi-5g)
-* [2025-12-05, 04:59:08](https://news.ycombinator.com/item?id=46156979) - [State Department to deny visas to fact checkers and others, citing 'censorship'](https://www.npr.org/2025/12/04/nx-s1-5633444/trump-content-moderation-visas-censorship)
 * [2025-12-05, 04:26:10](https://news.ycombinator.com/item?id=46156832) - [Rats Snatching Bats Out of the Air and Eating Them–Researchers Got It on Video](https://www.smithsonianmag.com/smart-news/rats-are-snatching-bats-out-of-the-air-and-eating-them-and-researchers-got-it-on-video-180987610/)
 * [2025-12-05, 04:00:28](https://news.ycombinator.com/item?id=46156718) - [Fast trigram based code search](https://github.com/sourcegraph/zoekt)
 * [2025-12-05, 03:44:12](https://news.ycombinator.com/item?id=46156645) - [Warner Bros Begins Exclusive Deal Talks With Netflix](https://www.bloomberg.com/news/articles/2025-12-05/warner-bros-is-said-to-begin-exclusive-deal-talks-with-netflix)
