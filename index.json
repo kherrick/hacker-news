@@ -1,12 +1,22 @@
 [
   [
     [
-      "2025-12-05, 11:07:07",
-      "https://news.ycombinator.com/item?id=46159703"
+      "2025-12-05, 12:21:19",
+      "https://news.ycombinator.com/item?id=46160315"
     ],
     [
-      "Why We Can't Quit Excel",
-      "https://www.bloomberg.com/features/2025-microsoft-excel-ai-software/"
+      "Netflix to Acquire Warner Bros. In an $82.7B Deal",
+      "https://about.netflix.com/en/news/netflix-to-acquire-warner-bros"
+    ]
+  ],
+  [
+    [
+      "2025-12-05, 12:12:52",
+      "https://news.ycombinator.com/item?id=46160239"
+    ],
+    [
+      "Sugars, Gum, Stardust Found in NASA's Asteroid Bennu Samples",
+      "https://www.nasa.gov/missions/osiris-rex/sugars-gum-stardust-found-in-nasas-asteroid-bennu-samples/"
     ]
   ],
   [
@@ -31,42 +41,12 @@
   ],
   [
     [
-      "2025-12-05, 08:51:42",
-      "https://news.ycombinator.com/item?id=46158200"
-    ],
-    [
-      "Cloudflare Down Again – and DownDetector Is Also Down",
-      "https://news.ycombinator.com/item?id=46158200"
-    ]
-  ],
-  [
-    [
-      "2025-12-05, 08:50:16",
-      "https://news.ycombinator.com/item?id=46158191"
-    ],
-    [
-      "Cloudflare is down",
-      "https://www.cloudflare.com/"
-    ]
-  ],
-  [
-    [
       "2025-12-05, 07:06:38",
       "https://news.ycombinator.com/item?id=46157594"
     ],
     [
       "UniFi 5G",
       "https://blog.ui.com/article/introducing-unifi-5g"
-    ]
-  ],
-  [
-    [
-      "2025-12-05, 04:26:10",
-      "https://news.ycombinator.com/item?id=46156832"
-    ],
-    [
-      "Rats Snatching Bats Out of the Air and Eating Them–Researchers Got It on Video",
-      "https://www.smithsonianmag.com/smart-news/rats-are-snatching-bats-out-of-the-air-and-eating-them-and-researchers-got-it-on-video-180987610/"
     ]
   ],
   [
@@ -81,12 +61,12 @@
   ],
   [
     [
-      "2025-12-05, 03:44:12",
-      "https://news.ycombinator.com/item?id=46156645"
+      "2025-12-05, 02:55:34",
+      "https://news.ycombinator.com/item?id=46156379"
     ],
     [
-      "Warner Bros Begins Exclusive Deal Talks With Netflix",
-      "https://www.bloomberg.com/news/articles/2025-12-05/warner-bros-is-said-to-begin-exclusive-deal-talks-with-netflix"
+      "Blogging in 2025: Screaming into the Void",
+      "https://askmike.org/articles/blogging-in-2025-screaming-into-the-void/"
     ]
   ],
   [
@@ -137,6 +117,16 @@
     [
       "StardustOS: Library operating system for building light-weight Unikernels",
       "https://github.com/StardustOS"
+    ]
+  ],
+  [
+    [
+      "2025-12-04, 21:40:24",
+      "https://news.ycombinator.com/item?id=46153466"
+    ],
+    [
+      "Thoughts on Go vs. Rust vs. Zig",
+      "https://sinclairtarget.com/blog/2025/08/thoughts-on-go-vs.-rust-vs.-zig/"
     ]
   ],
   [
@@ -227,6 +217,16 @@
     [
       "Show HN: I was reintroduced to computers: Raspberry Pi",
       "https://airoboticist.blog/2025/12/01/i-was-reintroduced-to-computers-raspberry-pi/"
+    ]
+  ],
+  [
+    [
+      "2025-12-02, 00:39:41",
+      "https://news.ycombinator.com/item?id=46115758"
+    ],
+    [
+      "Nimony (Nim 3.0) Design Principles",
+      "https://nim-lang.org/araq/nimony.html"
     ]
   ],
   [
