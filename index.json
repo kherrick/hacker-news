@@ -85,7 +85,7 @@
       "https://news.ycombinator.com/item?id=46155135"
     ],
     [
-      "AV1: A Modern, Open Codec",
+      "AV1 powers approximately 30% of Netflix viewing",
       "https://netflixtechblog.com/av1-now-powering-30-of-netflix-streaming-02f592242d80"
     ]
   ],
@@ -107,16 +107,6 @@
     [
       "What is better: a lookup table or an enum type?",
       "https://www.cybertec-postgresql.com/en/lookup-table-or-enum-type/"
-    ]
-  ],
-  [
-    [
-      "2025-12-04, 23:08:25",
-      "https://news.ycombinator.com/item?id=46154491"
-    ],
-    [
-      "We gave 5 LLMs $100K to trade stocks for 8 months",
-      "https://www.aitradearena.com/research/we-ran-llms-for-8-months"
     ]
   ],
   [
@@ -211,6 +201,16 @@
   ],
   [
     [
+      "2025-12-04, 16:52:56",
+      "https://news.ycombinator.com/item?id=46149727"
+    ],
+    [
+      "Launch HN: Browser Buddy (YC W24) – A recommendation system for Internet writing",
+      "https://www.browserbuddy.com/"
+    ]
+  ],
+  [
+    [
       "2025-12-04, 15:06:08",
       "https://news.ycombinator.com/item?id=46148460"
     ],
@@ -251,16 +251,6 @@
   ],
   [
     [
-      "2025-12-04, 09:01:55",
-      "https://news.ycombinator.com/item?id=46145365"
-    ],
-    [
-      "It’s time to free JavaScript (2024)",
-      "https://javascript.tm/letter"
-    ]
-  ],
-  [
-    [
       "2025-12-04, 08:38:17",
       "https://news.ycombinator.com/item?id=46145180"
     ],
@@ -277,6 +267,16 @@
     [
       "After 40 years of adventure games, Ron Gilbert pivots to outrunning Death",
       "https://arstechnica.com/gaming/2025/12/after-40-years-of-adventure-games-ron-gilbert-pivots-to-outrunning-death/"
+    ]
+  ],
+  [
+    [
+      "2025-11-30, 06:18:57",
+      "https://news.ycombinator.com/item?id=46094330"
+    ],
+    [
+      "Show HN: Tacopy – Tail Call Optimization for Python",
+      "https://github.com/raaidrt/tacopy"
     ]
   ],
   [
