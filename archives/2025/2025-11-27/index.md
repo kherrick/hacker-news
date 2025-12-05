@@ -25,6 +25,7 @@
 * [2025-11-27, 18:39:11](https://news.ycombinator.com/item?id=46072016) - [Cloud-Init on Raspberry Pi OS](https://www.raspberrypi.com/news/cloud-init-on-raspberry-pi-os/)
 * [2025-11-27, 18:37:41](https://news.ycombinator.com/item?id=46072002) - [Replace your boss before they replace you](https://replaceyourboss.ai/)
 * [2025-11-27, 18:22:30](https://news.ycombinator.com/item?id=46071848) - [Cherry gives up German production and wants to sell core division](https://www.heise.de/en/news/Cherry-gives-up-German-production-and-wants-to-sell-core-division-11092713.html)
+* [2025-11-27, 18:14:45](https://news.ycombinator.com/item?id=46071785) - [At IT School with Apple Lisa](https://blisscast.wordpress.com/2024/06/04/apple-lisa-gui-wonderland-3/)
 * [2025-11-27, 17:23:06](https://news.ycombinator.com/item?id=46071317) - [What's Hiding Inside Haribo's Power Bank and Headphones?](https://www.lumafield.com/first-article/posts/whats-hiding-inside-haribos-power-bank-and-headphones)
 * [2025-11-27, 17:13:51](https://news.ycombinator.com/item?id=46071221) - [Blender facial animation tool. What else should it do?](https://github.com/shun126/livelinkface_arkit_receiver/wiki)
 * [2025-11-27, 16:55:30](https://news.ycombinator.com/item?id=46071030) - [The Input Stack on Linux: An End-to-End Architecture Overview](https://venam.net/blog/unix/2025/11/27/input_devices_linux.html)

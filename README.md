@@ -11,7 +11,6 @@
 * [2025-12-05, 00:09:57](https://news.ycombinator.com/item?id=46155135) - [Netflix’s AV1 Journey: From Android to TVs and Beyond](https://netflixtechblog.com/av1-now-powering-30-of-netflix-streaming-02f592242d80)
 * [2025-12-05, 00:03:36](https://news.ycombinator.com/item?id=46155085) - [Trick users and bypass warnings – Modern SVG Clickjacking attacks](https://lyra.horse/blog/2025/12/svg-clickjacking/)
 * [2025-12-04, 23:43:47](https://news.ycombinator.com/item?id=46154892) - [What is better: a lookup table or an enum type?](https://www.cybertec-postgresql.com/en/lookup-table-or-enum-type/)
-* [2025-12-04, 23:08:25](https://news.ycombinator.com/item?id=46154491) - [We gave 5 LLMs $100K to trade stocks for 8 months](https://www.aitradearena.com/research/we-ran-llms-for-8-months)
 * [2025-12-04, 22:56:08](https://news.ycombinator.com/item?id=46154344) - [StardustOS: Library operating system for building light-weight Unikernels](https://github.com/StardustOS)
 * [2025-12-04, 22:26:43](https://news.ycombinator.com/item?id=46154022) - [State of AI: An Empirical 100T Token Study with OpenRouter](https://openrouter.ai/state-of-ai)
 * [2025-12-04, 21:40:24](https://news.ycombinator.com/item?id=46153466) - [Thoughts on Go vs. Rust vs. Zig](https://sinclairtarget.com/blog/2025/08/thoughts-on-go-vs.-rust-vs.-zig/)
@@ -30,6 +29,7 @@
 * [2025-11-30, 06:18:57](https://news.ycombinator.com/item?id=46094330) - [Show HN: Tacopy – Tail Call Optimization for Python](https://github.com/raaidrt/tacopy)
 * [2025-11-30, 00:59:41](https://news.ycombinator.com/item?id=46092453) - [What's the deal with Euler's identity?](https://lcamtuf.substack.com/p/whats-the-deal-with-eulers-identity)
 * [2025-11-30, 00:21:19](https://news.ycombinator.com/item?id=46092198) - [CSS now has an if() conditional function](https://caniuse.com/?search=if)
+* [2025-11-27, 18:14:45](https://news.ycombinator.com/item?id=46071785) - [At IT School with Apple Lisa](https://blisscast.wordpress.com/2024/06/04/apple-lisa-gui-wonderland-3/)
 
 ## [Archives](archives/index.md)
 
