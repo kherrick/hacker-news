@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-12-05, 04:59:08",
+      "https://news.ycombinator.com/item?id=46156979"
+    ],
+    [
+      "State Department to deny visas to fact checkers and others, citing 'censorship'",
+      "https://www.npr.org/2025/12/04/nx-s1-5633444/trump-content-moderation-visas-censorship"
+    ]
+  ],
+  [
+    [
+      "2025-12-05, 04:36:42",
+      "https://news.ycombinator.com/item?id=46156880"
+    ],
+    [
+      "Netflix in exclusive talks to buy HBO",
+      "https://www.cnn.com/2025/12/04/media/netflix-paramount-wbd-bidding-war-warner-bros-discovery"
+    ]
+  ],
+  [
+    [
       "2025-12-05, 04:00:28",
       "https://news.ycombinator.com/item?id=46156718"
     ],
@@ -191,16 +211,6 @@
   ],
   [
     [
-      "2025-12-04, 16:25:31",
-      "https://news.ycombinator.com/item?id=46149375"
-    ],
-    [
-      "Autism should not be treated as a single condition",
-      "https://www.economist.com/science-and-technology/2025/12/03/why-autism-should-not-be-treated-as-a-single-condition"
-    ]
-  ],
-  [
-    [
       "2025-12-04, 15:06:08",
       "https://news.ycombinator.com/item?id=46148460"
     ],
@@ -241,16 +251,6 @@
   ],
   [
     [
-      "2025-12-04, 10:52:42",
-      "https://news.ycombinator.com/item?id=46146133"
-    ],
-    [
-      "PGlite – Embeddable Postgres",
-      "https://pglite.dev/"
-    ]
-  ],
-  [
-    [
       "2025-12-04, 09:01:55",
       "https://news.ycombinator.com/item?id=46145365"
     ],
@@ -281,22 +281,22 @@
   ],
   [
     [
+      "2025-11-30, 00:59:41",
+      "https://news.ycombinator.com/item?id=46092453"
+    ],
+    [
+      "What's the Deal with Euler's Identity?",
+      "https://lcamtuf.substack.com/p/whats-the-deal-with-eulers-identity"
+    ]
+  ],
+  [
+    [
       "2025-11-30, 00:21:19",
       "https://news.ycombinator.com/item?id=46092198"
     ],
     [
       "CSS now has an if() conditional function",
       "https://caniuse.com/?search=if"
-    ]
-  ],
-  [
-    [
-      "2025-11-28, 15:04:55",
-      "https://news.ycombinator.com/item?id=46079255"
-    ],
-    [
-      "Nice Functions [pdf]",
-      "https://math.mit.edu/~gs/dela/nice_functions.pdf"
     ]
   ]
 ]
