@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-12-05, 20:42:04](https://news.ycombinator.com/item?id=46166994) - [Judge Signals Win for Software Freedom Conservancy in Vizio GPL Case](https://fossforce.com/2025/12/judge-signals-win-for-software-freedom-conservancy-in-vizio-gpl-case/)
 * [2025-12-05, 20:18:34](https://news.ycombinator.com/item?id=46166709) - [Advertising as a major source of human dissatisfaction (2019) [pdf]](https://www.andrewoswald.com/docs/AdvertisingMicheletal2019EasterlinVolume.pdf)
-* [2025-12-05, 18:49:07](https://news.ycombinator.com/item?id=46165513) - [SpaceX in Talks for Share Sale That Would Boost Valuation to $800B](https://www.wsj.com/business/spacex-in-talks-for-share-sale-that-would-boost-valuation-to-800-billion-b2852191)
+* [2025-12-05, 20:03:21](https://news.ycombinator.com/item?id=46166536) - [Framework Sponsors CachyOS](https://discuss.cachyos.org/t/framework-sponsorship-for-cachyos/19376)
 * [2025-12-05, 18:30:06](https://news.ycombinator.com/item?id=46165251) - [Show HN: SerpApi MCP Server](https://github.com/serpapi/serpapi-mcp)
 * [2025-12-05, 18:29:50](https://news.ycombinator.com/item?id=46165249) - [Why we built Lightpanda in Zig](https://lightpanda.io/blog/posts/why-we-built-lightpanda-in-zig)
 * [2025-12-05, 18:08:19](https://news.ycombinator.com/item?id=46164952) - [WikiFlix: Full Movies Hosted on Wikimedia Commons](https://commons.wikimedia.org/wiki/User:Spinster/WikiFlix)
@@ -26,7 +27,6 @@
 * [2025-12-04, 18:49:20](https://news.ycombinator.com/item?id=46151299) - [I have been writing a niche history blog for 15 years](https://resobscura.substack.com/p/why-i-have-been-writing-a-niche-history)
 * [2025-12-03, 04:20:44](https://news.ycombinator.com/item?id=46130260) - [Show HN: HCB Mobile – financial app built by 17 y/o, processing $6M/month](https://hackclub.com/fiscal-sponsorship/mobile/)
 * [2025-12-02, 08:33:52](https://news.ycombinator.com/item?id=46118986) - [Compassionate Curmudgeon: Why we must root ourselves in the real world](https://theamericanscholar.org/compassionate-curmudgeon/)
-* [2025-12-02, 00:39:41](https://news.ycombinator.com/item?id=46115758) - [Nimony (Nim 3.0) Design Principles](https://nim-lang.org/araq/nimony.html)
 * [2025-12-01, 12:07:33](https://news.ycombinator.com/item?id=46106411) - [Idempotency Keys for Exactly-Once Processing](https://www.morling.dev/blog/on-idempotency-keys/)
 * [2025-12-01, 01:48:15](https://news.ycombinator.com/item?id=46102546) - [Building a Copying GC for the Plush Programming Language](https://pointersgonewild.com/2025-11-29-building-a-copying-gc-for-the-plush-programming-language/)
 * [2025-11-29, 18:02:55](https://news.ycombinator.com/item?id=46089444) - [The Forgotten Roman Ruins of the ‘Pompeii of the Middle East’](https://news.artnet.com/art-world/huge-jerash-jordan-pompeii-middle-easy-2708480)
