@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2025-12-05, 04:36:42",
-      "https://news.ycombinator.com/item?id=46156880"
-    ],
-    [
-      "Netflix in exclusive talks to buy HBO",
-      "https://www.cnn.com/2025/12/04/media/netflix-paramount-wbd-bidding-war-warner-bros-discovery"
-    ]
-  ],
-  [
-    [
       "2025-12-05, 04:26:10",
       "https://news.ycombinator.com/item?id=46156832"
     ],
@@ -37,6 +27,16 @@
     [
       "Fast trigram based code search",
       "https://github.com/sourcegraph/zoekt"
+    ]
+  ],
+  [
+    [
+      "2025-12-05, 03:44:12",
+      "https://news.ycombinator.com/item?id=46156645"
+    ],
+    [
+      "Warner Bros Begins Exclusive Deal Talks With Netflix",
+      "https://www.bloomberg.com/news/articles/2025-12-05/warner-bros-is-said-to-begin-exclusive-deal-talks-with-netflix"
     ]
   ],
   [
@@ -85,7 +85,7 @@
       "https://news.ycombinator.com/item?id=46155135"
     ],
     [
-      "AV1 powers approximately 30% of Netflix viewing",
+      "Netflix’s AV1 Journey: From Android to TVs and Beyond",
       "https://netflixtechblog.com/av1-now-powering-30-of-netflix-streaming-02f592242d80"
     ]
   ],
@@ -107,6 +107,16 @@
     [
       "What is better: a lookup table or an enum type?",
       "https://www.cybertec-postgresql.com/en/lookup-table-or-enum-type/"
+    ]
+  ],
+  [
+    [
+      "2025-12-04, 23:08:25",
+      "https://news.ycombinator.com/item?id=46154491"
+    ],
+    [
+      "We gave 5 LLMs $100K to trade stocks for 8 months",
+      "https://www.aitradearena.com/research/we-ran-llms-for-8-months"
     ]
   ],
   [
@@ -177,16 +187,6 @@
     [
       "Why are 38 percent of Stanford students saying they're disabled?",
       "https://reason.com/2025/12/04/why-are-38-percent-of-stanford-students-saying-theyre-disabled/"
-    ]
-  ],
-  [
-    [
-      "2025-12-04, 17:43:07",
-      "https://news.ycombinator.com/item?id=46150447"
-    ],
-    [
-      "PyTogether: Collaborative lightweight real-time Python IDE for teachers/learners",
-      "https://github.com/SJRiz/pytogether"
     ]
   ],
   [
@@ -285,7 +285,7 @@
       "https://news.ycombinator.com/item?id=46092453"
     ],
     [
-      "What's the Deal with Euler's Identity?",
+      "What's the deal with Euler's identity?",
       "https://lcamtuf.substack.com/p/whats-the-deal-with-eulers-identity"
     ]
   ],
