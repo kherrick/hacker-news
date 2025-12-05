@@ -15,6 +15,7 @@
 * [2025-12-01, 20:55:56](https://news.ycombinator.com/item?id=46113092) - [Instagram chief orders staff back to the office five days a week in 2026](https://www.businessinsider.com/instagram-chief-adam-mosseri-announces-five-day-office-return-2025-12)
 * [2025-12-01, 20:40:58](https://news.ycombinator.com/item?id=46112906) - [\"How to Attend Meetings\" – Internal Guidelines from the New York Times](https://docs.google.com/presentation/d/1l7s1aAsNPlNhSye8OsMqmH6pMR32OYGGdLT6VKyFaQE/edit#slide=id.p)
 * [2025-12-01, 20:20:19](https://news.ycombinator.com/item?id=46112640) - [Sycophancy is the first LLM \"dark pattern\"](https://www.seangoedecke.com/ai-sycophancy/)
+* [2025-12-01, 20:14:53](https://news.ycombinator.com/item?id=46112560) - [Tides are weirder than you think](https://signoregalilei.com/2025/11/12/tides-are-weirder-than-you-think/)
 * [2025-12-01, 18:58:50](https://news.ycombinator.com/item?id=46111469) - [Better Than JSON](https://aloisdeniel.com/blog/better-than-json)
 * [2025-12-01, 18:57:27](https://news.ycombinator.com/item?id=46111449) - [React and Remix Choose Different Futures](https://laconicwit.com/react-and-remix-choose-different-futures/)
 * [2025-12-01, 18:46:17](https://news.ycombinator.com/item?id=46111284) - [Intel could return to Apple computers in 2027](https://www.theverge.com/news/832366/intel-apple-m-chip-low-end-processor)
