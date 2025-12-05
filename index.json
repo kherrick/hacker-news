@@ -21,12 +21,32 @@
   ],
   [
     [
+      "2025-12-05, 20:18:22",
+      "https://news.ycombinator.com/item?id=46166708"
+    ],
+    [
+      "Fizz Buzz in CSS",
+      "https://susam.net/fizz-buzz-in-css.html"
+    ]
+  ],
+  [
+    [
       "2025-12-05, 20:03:21",
       "https://news.ycombinator.com/item?id=46166536"
     ],
     [
       "Framework Sponsors CachyOS",
       "https://discuss.cachyos.org/t/framework-sponsorship-for-cachyos/19376"
+    ]
+  ],
+  [
+    [
+      "2025-12-05, 18:51:38",
+      "https://news.ycombinator.com/item?id=46165555"
+    ],
+    [
+      "The Debug Adapter Protocol is a REPL protocol in disguise",
+      "https://zignar.net/2025/06/23/debug-adapter-protocol-is-a-repl-protocol/"
     ]
   ],
   [
@@ -61,16 +81,6 @@
   ],
   [
     [
-      "2025-12-05, 17:47:16",
-      "https://news.ycombinator.com/item?id=46164646"
-    ],
-    [
-      "The effect of shingles vaccination at different stages of dementia",
-      "https://www.cell.com/cell/fulltext/S0092-8674(25)01256-5"
-    ]
-  ],
-  [
-    [
       "2025-12-05, 17:00:10",
       "https://news.ycombinator.com/item?id=46163977"
     ],
@@ -91,32 +101,12 @@
   ],
   [
     [
-      "2025-12-05, 16:38:01",
-      "https://news.ycombinator.com/item?id=46163659"
-    ],
-    [
-      "Mobile GPUs and Tile-Based Rendering",
-      "https://hyeondg.org/gpu/tbr"
-    ]
-  ],
-  [
-    [
       "2025-12-05, 16:34:25",
       "https://news.ycombinator.com/item?id=46163609"
     ],
     [
       "Patterns for Defensive Programming in Rust",
       "https://corrode.dev/blog/defensive-programming/"
-    ]
-  ],
-  [
-    [
-      "2025-12-05, 16:18:58",
-      "https://news.ycombinator.com/item?id=46163377"
-    ],
-    [
-      "Zellij: A terminal workspace with batteries included",
-      "https://zellij.dev"
     ]
   ],
   [
@@ -157,26 +147,6 @@
     [
       "Cloudflare outage on December 5, 2025",
       "https://blog.cloudflare.com/5-december-2025-outage/"
-    ]
-  ],
-  [
-    [
-      "2025-12-05, 13:39:04",
-      "https://news.ycombinator.com/item?id=46161125"
-    ],
-    [
-      "Influential study on glyphosate safety retracted 25 years after publication",
-      "https://www.lemonde.fr/en/environment/article/2025/12/03/influential-study-on-glyphosate-safety-retracted-25-years-after-publication_6748114_114.html"
-    ]
-  ],
-  [
-    [
-      "2025-12-05, 13:13:03",
-      "https://news.ycombinator.com/item?id=46160824"
-    ],
-    [
-      "Show HN: Pbnj – A minimal, self-hosted pastebin you can deploy in 60 seconds",
-      "https://pbnj.sh/"
     ]
   ],
   [
@@ -251,6 +221,16 @@
   ],
   [
     [
+      "2025-12-04, 07:35:10",
+      "https://news.ycombinator.com/item?id=46144801"
+    ],
+    [
+      "Show HN: Kraa – Writing App for Everything",
+      "https://kraa.io/about"
+    ]
+  ],
+  [
+    [
       "2025-12-03, 04:20:44",
       "https://news.ycombinator.com/item?id=46130260"
     ],
@@ -271,12 +251,32 @@
   ],
   [
     [
+      "2025-12-02, 00:39:41",
+      "https://news.ycombinator.com/item?id=46115758"
+    ],
+    [
+      "Nimony (Nim 3.0) Design Principles",
+      "https://nim-lang.org/araq/nimony.html"
+    ]
+  ],
+  [
+    [
       "2025-12-01, 12:07:33",
       "https://news.ycombinator.com/item?id=46106411"
     ],
     [
       "Idempotency Keys for Exactly-Once Processing",
       "https://www.morling.dev/blog/on-idempotency-keys/"
+    ]
+  ],
+  [
+    [
+      "2025-12-01, 04:47:30",
+      "https://news.ycombinator.com/item?id=46103571"
+    ],
+    [
+      "Stacked Diffs with git rebase —onto",
+      "https://dineshpandiyan.com/blog/stacked-diffs-with-rebase-onto/"
     ]
   ],
   [
