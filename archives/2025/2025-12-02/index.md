@@ -6,6 +6,7 @@
 
 * [2025-12-02, 23:19:07](https://news.ycombinator.com/item?id=46128286) - [DOOM could have had PC Speaker Music](https://lenowo.org/viewtopic.php?t=45)
 * [2025-12-02, 22:32:45](https://news.ycombinator.com/item?id=46127868) - [Exploring Large HTML Documents on the Web](https://calendar.perfplanet.com/2025/exploring-large-html-documents-on-the-web/)
+* [2025-12-02, 22:25:19](https://news.ycombinator.com/item?id=46127787) - [Why are your models so big? (2023)](https://pawa.lt/braindump/tiny-models/)
 * [2025-12-02, 21:52:30](https://news.ycombinator.com/item?id=46127400) - [AI generated font using nano banana](https://constanttime.notion.site/Worlds-first-Ai-generated-font-using-nano-banana-2ba6f8e15af18012864bdb760fa9c9ba?pvs=74)
 * [2025-12-02, 21:31:35](https://news.ycombinator.com/item?id=46127143) - [EmacsConf 2025](https://emacsconf.org/2025/)
 * [2025-12-02, 21:14:38](https://news.ycombinator.com/item?id=46126964) - [Ecosia: The greenest AI is here](https://blog.ecosia.org/ecosia-ai/)
