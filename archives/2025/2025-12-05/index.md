@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-12-05](index.md)
 
+* [2025-12-05, 09:58:01](https://news.ycombinator.com/item?id=46159193) - [The US polluters that are rewriting the EU's human rights and climate law](https://www.somo.nl/the-secretive-cabal-of-us-polluters-that-is-rewriting-the-eus-human-rights-and-climate-law/)
 * [2025-12-05, 09:30:07](https://news.ycombinator.com/item?id=46158920) - [Awful AI is a curated list to track current scary usages of AI](https://github.com/daviddao/awful-ai)
 * [2025-12-05, 08:59:00](https://news.ycombinator.com/item?id=46158338) - [Cloudflare Is Down](https://cloudflare.com/)
 * [2025-12-05, 08:55:47](https://news.ycombinator.com/item?id=46158275) - [Is Cloudflare Down Again? Also, DownDetector/Claude.ai/LinkedIn?](https://news.ycombinator.com/item?id=46158275)

@@ -69,6 +69,7 @@
 * [2025-12-01, 05:36:48](https://news.ycombinator.com/item?id=46103858) - [It’s been a very hard year](https://bell.bz/its-been-a-very-hard-year/)
 * [2025-12-01, 05:01:01](https://news.ycombinator.com/item?id=46103657) - [SmartTube Compromised](https://www.aftvnews.com/smarttubes-official-apk-was-compromised-with-malware-what-you-should-do-if-you-use-it/)
 * [2025-12-01, 04:52:29](https://news.ycombinator.com/item?id=46103603) - ['A full-blown crisis': Americans brace for a surge in healthcare costs](https://www.ft.com/content/beec76df-8e6d-4238-bae2-e51683b62aa4)
+* [2025-12-01, 04:47:30](https://news.ycombinator.com/item?id=46103571) - [Stacked Diffs with git rebase —onto](https://dineshpandiyan.com/blog/stacked-diffs-with-rebase-onto/)
 * [2025-12-01, 04:39:28](https://news.ycombinator.com/item?id=46103532) - [Google Antigravity just deleted the contents of whole drive](https://old.reddit.com/r/google_antigravity/comments/1p82or6/google_antigravity_just_deleted_the_contents_of/)
 * [2025-12-01, 04:06:06](https://news.ycombinator.com/item?id=46103376) - [Search tool that only returns content created before ChatGPT's public release](https://tegabrain.com/Slop-Evader)
 * [2025-12-01, 03:12:29](https://news.ycombinator.com/item?id=46103097) - [X210Ai is a new motherboard to upgrade ThinkPad X201/200](https://www.tpart.net/about-x210ai/)
