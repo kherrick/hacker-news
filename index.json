@@ -1,6 +1,36 @@
 [
   [
     [
+      "2025-12-05, 08:59:00",
+      "https://news.ycombinator.com/item?id=46158338"
+    ],
+    [
+      "Cloudflare Is Down",
+      "https://cloudflare.com/"
+    ]
+  ],
+  [
+    [
+      "2025-12-05, 08:55:47",
+      "https://news.ycombinator.com/item?id=46158275"
+    ],
+    [
+      "Is Cloudflare Down Again? Also, DownDetector/Claude.ai/LinkedIn?",
+      "https://news.ycombinator.com/item?id=46158275"
+    ]
+  ],
+  [
+    [
+      "2025-12-05, 08:51:42",
+      "https://news.ycombinator.com/item?id=46158200"
+    ],
+    [
+      "Cloudflare Down Again – and DownDetector Is Also Down",
+      "https://news.ycombinator.com/item?id=46158200"
+    ]
+  ],
+  [
+    [
       "2025-12-05, 08:50:16",
       "https://news.ycombinator.com/item?id=46158191"
     ],
@@ -61,16 +91,6 @@
   ],
   [
     [
-      "2025-12-05, 02:55:34",
-      "https://news.ycombinator.com/item?id=46156379"
-    ],
-    [
-      "Blogging in 2025: Screaming into the Void",
-      "https://askmike.org/articles/blogging-in-2025-screaming-into-the-void/"
-    ]
-  ],
-  [
-    [
       "2025-12-05, 01:15:42",
       "https://news.ycombinator.com/item?id=46155701"
     ],
@@ -121,16 +141,6 @@
   ],
   [
     [
-      "2025-12-04, 23:43:47",
-      "https://news.ycombinator.com/item?id=46154892"
-    ],
-    [
-      "What is better: a lookup table or an enum type?",
-      "https://www.cybertec-postgresql.com/en/lookup-table-or-enum-type/"
-    ]
-  ],
-  [
-    [
       "2025-12-04, 22:56:08",
       "https://news.ycombinator.com/item?id=46154344"
     ],
@@ -147,16 +157,6 @@
     [
       "State of AI: An Empirical 100T Token Study with OpenRouter",
       "https://openrouter.ai/state-of-ai"
-    ]
-  ],
-  [
-    [
-      "2025-12-04, 21:40:24",
-      "https://news.ycombinator.com/item?id=46153466"
-    ],
-    [
-      "Thoughts on Go vs. Rust vs. Zig",
-      "https://sinclairtarget.com/blog/2025/08/thoughts-on-go-vs.-rust-vs.-zig/"
     ]
   ],
   [
@@ -221,16 +221,6 @@
   ],
   [
     [
-      "2025-12-04, 11:36:36",
-      "https://news.ycombinator.com/item?id=46146451"
-    ],
-    [
-      "I ignore the spotlight as a staff engineer",
-      "https://lalitm.com/software-engineering-outside-the-spotlight/"
-    ]
-  ],
-  [
-    [
       "2025-12-04, 08:38:17",
       "https://news.ycombinator.com/item?id=46145180"
     ],
@@ -247,6 +237,16 @@
     [
       "Show HN: I was reintroduced to computers: Raspberry Pi",
       "https://airoboticist.blog/2025/12/01/i-was-reintroduced-to-computers-raspberry-pi/"
+    ]
+  ],
+  [
+    [
+      "2025-12-01, 17:35:56",
+      "https://news.ycombinator.com/item?id=46110291"
+    ],
+    [
+      "How many bytes does gzip compress?",
+      "https://www.awsistoohard.com/blog/gzip-is-cracked"
     ]
   ],
   [
