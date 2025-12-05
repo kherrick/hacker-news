@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-12-05, 01:39:24",
+      "https://news.ycombinator.com/item?id=46155868"
+    ],
+    [
+      "Brussels writes so many laws",
+      "https://www.siliconcontinent.com/p/how-brussels-writes-so-many-laws"
+    ]
+  ],
+  [
+    [
+      "2025-12-05, 01:15:42",
+      "https://news.ycombinator.com/item?id=46155701"
+    ],
+    [
+      "NeurIPS best paper awards 2025",
+      "https://blog.neurips.cc/2025/11/26/announcing-the-neurips-2025-best-paper-awards/"
+    ]
+  ],
+  [
+    [
       "2025-12-05, 01:05:57",
       "https://news.ycombinator.com/item?id=46155619"
     ],
@@ -25,7 +45,7 @@
       "https://news.ycombinator.com/item?id=46155135"
     ],
     [
-      "AV1 – Now Powering 30% of Netflix Streaming",
+      "AV1: A Modern, Open Codec",
       "https://netflixtechblog.com/av1-now-powering-30-of-netflix-streaming-02f592242d80"
     ]
   ],
@@ -41,22 +61,22 @@
   ],
   [
     [
+      "2025-12-04, 23:43:47",
+      "https://news.ycombinator.com/item?id=46154892"
+    ],
+    [
+      "What is better: a lookup table or an enum type?",
+      "https://www.cybertec-postgresql.com/en/lookup-table-or-enum-type/"
+    ]
+  ],
+  [
+    [
       "2025-12-04, 23:08:25",
       "https://news.ycombinator.com/item?id=46154491"
     ],
     [
       "We gave 5 LLMs $100K to trade stocks for 8 months",
       "https://www.aitradearena.com/research/we-ran-llms-for-8-months"
-    ]
-  ],
-  [
-    [
-      "2025-12-04, 23:08:07",
-      "https://news.ycombinator.com/item?id=46154484"
-    ],
-    [
-      "SMS phishers pivot to points, taxes, fake retailers",
-      "https://krebsonsecurity.com/2025/12/sms-phishers-pivot-to-points-taxes-fake-retailers/"
     ]
   ],
   [
@@ -161,32 +181,12 @@
   ],
   [
     [
-      "2025-12-04, 16:52:56",
-      "https://news.ycombinator.com/item?id=46149727"
-    ],
-    [
-      "Launch HN: Browser Buddy (YC W24) – A recommendation system for Internet writing",
-      "https://www.browserbuddy.com/"
-    ]
-  ],
-  [
-    [
       "2025-12-04, 16:25:31",
       "https://news.ycombinator.com/item?id=46149375"
     ],
     [
       "Autism should not be treated as a single condition",
       "https://www.economist.com/science-and-technology/2025/12/03/why-autism-should-not-be-treated-as-a-single-condition"
-    ]
-  ],
-  [
-    [
-      "2025-12-04, 16:03:02",
-      "https://news.ycombinator.com/item?id=46149066"
-    ],
-    [
-      "Feynman vs. Computer",
-      "https://entropicthoughts.com/feynman-vs-computer"
     ]
   ],
   [
@@ -271,22 +271,22 @@
   ],
   [
     [
-      "2025-12-02, 15:23:57",
-      "https://news.ycombinator.com/item?id=46122114"
-    ],
-    [
-      "Some models of reality are bolder than others",
-      "https://cjauvin.github.io/posts/metaphysical-boldness/"
-    ]
-  ],
-  [
-    [
       "2025-11-30, 00:21:19",
       "https://news.ycombinator.com/item?id=46092198"
     ],
     [
       "CSS now has an if() conditional function",
       "https://caniuse.com/?search=if"
+    ]
+  ],
+  [
+    [
+      "2025-11-29, 15:44:07",
+      "https://news.ycombinator.com/item?id=46088381"
+    ],
+    [
+      "Oedipus is about the act of figuring out what Oedipus is about",
+      "https://interconnected.org/home/2025/11/07/oedipus"
     ]
   ],
   [
