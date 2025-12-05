@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-12-05](index.md)
 
+* [2025-12-05, 02:55:34](https://news.ycombinator.com/item?id=46156379) - [Blogging in 2025: Screaming into the Void](https://askmike.org/articles/blogging-in-2025-screaming-into-the-void/)
 * [2025-12-05, 01:39:24](https://news.ycombinator.com/item?id=46155868) - [Brussels writes so many laws](https://www.siliconcontinent.com/p/how-brussels-writes-so-many-laws)
 * [2025-12-05, 01:15:42](https://news.ycombinator.com/item?id=46155701) - [NeurIPS best paper awards 2025](https://blog.neurips.cc/2025/11/26/announcing-the-neurips-2025-best-paper-awards/)
 * [2025-12-05, 01:05:57](https://news.ycombinator.com/item?id=46155619) - [BMW PHEV: When EU engineering becomes a synonym for \"unrepairable\" (EV Clinic)](https://evclinic.eu/2025/12/04/2021-phev-bmw-ibmucp-21f37e-post-crash-recovery-when-eu-engineering-becomes-a-synonym-for-unrepairable-generating-waste/)
