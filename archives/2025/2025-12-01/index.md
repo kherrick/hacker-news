@@ -75,6 +75,7 @@
 * [2025-12-01, 03:12:29](https://news.ycombinator.com/item?id=46103097) - [X210Ai is a new motherboard to upgrade ThinkPad X201/200](https://www.tpart.net/about-x210ai/)
 * [2025-12-01, 02:19:43](https://news.ycombinator.com/item?id=46102753) - [Show HN: FastLanes based integer compression in Zig](https://github.com/steelcake/zint)
 * [2025-12-01, 01:54:16](https://news.ycombinator.com/item?id=46102583) - [In Re: 23andMe, Inc. Customer Data Security Breach Litigation](https://www.23andmedatasettlement.com/)
+* [2025-12-01, 01:48:15](https://news.ycombinator.com/item?id=46102546) - [Building a Copying GC for the Plush Programming Language](https://pointersgonewild.com/2025-11-29-building-a-copying-gc-for-the-plush-programming-language/)
 * [2025-12-01, 01:33:46](https://news.ycombinator.com/item?id=46102451) - [Regarding Thien-Thi Nguyen](https://news.ycombinator.com/item?id=46102451)
 * [2025-12-01, 01:17:28](https://news.ycombinator.com/item?id=46102347) - [Advent of Sysadmin 2025](https://sadservers.com/advent)
 * [2025-12-01, 00:58:32](https://news.ycombinator.com/item?id=46102202) - [Is America's jobs market nearing a cliff?](https://www.economist.com/finance-and-economics/2025/11/30/is-americas-jobs-market-nearing-a-cliff)
