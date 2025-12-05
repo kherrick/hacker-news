@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-12-05, 11:07:07](https://news.ycombinator.com/item?id=46159703) - [Why We Can't Quit Excel](https://www.bloomberg.com/features/2025-microsoft-excel-ai-software/)
 * [2025-12-05, 09:58:01](https://news.ycombinator.com/item?id=46159193) - [The US polluters that are rewriting the EU's human rights and climate law](https://www.somo.nl/the-secretive-cabal-of-us-polluters-that-is-rewriting-the-eus-human-rights-and-climate-law/)
 * [2025-12-05, 09:09:25](https://news.ycombinator.com/item?id=46158578) - [Kenyan court declares law banning seed sharing unconstitutional](https://apnews.com/article/kenya-seed-sharing-law-ruling-ad4df5a364299b3a9f8515c0f52d5f80)
 * [2025-12-05, 08:51:42](https://news.ycombinator.com/item?id=46158200) - [Cloudflare Down Again – and DownDetector Is Also Down](https://news.ycombinator.com/item?id=46158200)
@@ -13,7 +14,6 @@
 * [2025-12-05, 00:09:57](https://news.ycombinator.com/item?id=46155135) - [Netflix’s AV1 Journey: From Android to TVs and Beyond](https://netflixtechblog.com/av1-now-powering-30-of-netflix-streaming-02f592242d80)
 * [2025-12-05, 00:03:36](https://news.ycombinator.com/item?id=46155085) - [Trick users and bypass warnings – Modern SVG Clickjacking attacks](https://lyra.horse/blog/2025/12/svg-clickjacking/)
 * [2025-12-04, 22:56:08](https://news.ycombinator.com/item?id=46154344) - [StardustOS: Library operating system for building light-weight Unikernels](https://github.com/StardustOS)
-* [2025-12-04, 21:40:24](https://news.ycombinator.com/item?id=46153466) - [Thoughts on Go vs. Rust vs. Zig](https://sinclairtarget.com/blog/2025/08/thoughts-on-go-vs.-rust-vs.-zig/)
 * [2025-12-04, 21:04:29](https://news.ycombinator.com/item?id=46153058) - [CUDA-l2: Surpassing cuBLAS performance for matrix multiplication through RL](https://github.com/deepreinforce-ai/CUDA-L2)
 * [2025-12-04, 18:49:20](https://news.ycombinator.com/item?id=46151299) - [I have been writing a niche history blog for 15 years](https://resobscura.substack.com/p/why-i-have-been-writing-a-niche-history)
 * [2025-12-04, 18:04:07](https://news.ycombinator.com/item?id=46150715) - [Why are 38 percent of Stanford students saying they're disabled?](https://reason.com/2025/12/04/why-are-38-percent-of-stanford-students-saying-theyre-disabled/)
