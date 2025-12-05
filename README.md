@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-12-05, 01:39:24](https://news.ycombinator.com/item?id=46155868) - [Brussels writes so many laws](https://www.siliconcontinent.com/p/how-brussels-writes-so-many-laws)
-* [2025-12-05, 01:15:42](https://news.ycombinator.com/item?id=46155701) - [NeurIPS best paper awards 2025](https://blog.neurips.cc/2025/11/26/announcing-the-neurips-2025-best-paper-awards/)
-* [2025-12-05, 01:05:57](https://news.ycombinator.com/item?id=46155619) - [BMW PHEV: When EU engineering becomes a synonym for \"unrepairable\" (EV Clinic)](https://evclinic.eu/2025/12/04/2021-phev-bmw-ibmucp-21f37e-post-crash-recovery-when-eu-engineering-becomes-a-synonym-for-unrepairable-generating-waste/)
+* [2025-12-05, 01:39:24](https://news.ycombinator.com/item?id=46155868) - [How Brussels writes so many laws](https://www.siliconcontinent.com/p/how-brussels-writes-so-many-laws)
+* [2025-12-05, 01:15:42](https://news.ycombinator.com/item?id=46155701) - [NeurIPS 2025 Best Paper Awards](https://blog.neurips.cc/2025/11/26/announcing-the-neurips-2025-best-paper-awards/)
+* [2025-12-05, 01:05:57](https://news.ycombinator.com/item?id=46155619) - [BMW PHEV: Safety fuse replacement is extremely expensive](https://evclinic.eu/2025/12/04/2021-phev-bmw-ibmucp-21f37e-post-crash-recovery-when-eu-engineering-becomes-a-synonym-for-unrepairable-generating-waste/)
 * [2025-12-05, 00:41:08](https://news.ycombinator.com/item?id=46155401) - [The Ofcom Files, Part 4: Ofcom Rides Again](https://prestonbyrne.com/2025/12/04/the-ofcom-files-part-4-ofcom-rides-again/)
 * [2025-12-05, 00:09:57](https://news.ycombinator.com/item?id=46155135) - [AV1: A Modern, Open Codec](https://netflixtechblog.com/av1-now-powering-30-of-netflix-streaming-02f592242d80)
 * [2025-12-05, 00:03:36](https://news.ycombinator.com/item?id=46155085) - [Trick users and bypass warnings – Modern SVG Clickjacking attacks](https://lyra.horse/blog/2025/12/svg-clickjacking/)
@@ -28,8 +28,8 @@
 * [2025-12-04, 09:01:55](https://news.ycombinator.com/item?id=46145365) - [It’s time to free JavaScript (2024)](https://javascript.tm/letter)
 * [2025-12-04, 08:38:17](https://news.ycombinator.com/item?id=46145180) - [How elites could shape mass preferences as AI reduces persuasion costs](https://arxiv.org/abs/2512.04047)
 * [2025-11-30, 00:21:19](https://news.ycombinator.com/item?id=46092198) - [CSS now has an if() conditional function](https://caniuse.com/?search=if)
-* [2025-11-29, 15:44:07](https://news.ycombinator.com/item?id=46088381) - [Oedipus is about the act of figuring out what Oedipus is about](https://interconnected.org/home/2025/11/07/oedipus)
 * [2025-11-29, 13:47:30](https://news.ycombinator.com/item?id=46087509) - [Help, My Java Object Vanished (and the GC Is Not at Fault)](https://arraying.de/posts/markword/)
+* [2025-11-28, 15:04:55](https://news.ycombinator.com/item?id=46079255) - [Nice Functions [pdf]](https://math.mit.edu/~gs/dela/nice_functions.pdf)
 
 ## [Archives](archives/index.md)
 

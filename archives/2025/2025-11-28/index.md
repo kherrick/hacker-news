@@ -60,6 +60,7 @@
 * [2025-11-28, 15:44:04](https://news.ycombinator.com/item?id=46079605) - [Open-Source n8n Alternative for Workflow Building (GUI and Docker Included)](https://github.com/empowerd-cms/nyno)
 * [2025-11-28, 15:40:49](https://news.ycombinator.com/item?id=46079567) - [Generating 3D Meshes from Text](https://cprimozic.net/notes/posts/generating-3d-meshes-from-text/)
 * [2025-11-28, 15:27:49](https://news.ycombinator.com/item?id=46079460) - [Swedish publishers file police report against Meta's Zuckerberg for fraud](https://www.sverigesradio.se/artikel/swedish-publishers-file-police-report-against-metas-zuckerberg-for-fraud)
+* [2025-11-28, 15:04:55](https://news.ycombinator.com/item?id=46079255) - [Nice Functions [pdf]](https://math.mit.edu/~gs/dela/nice_functions.pdf)
 * [2025-11-28, 14:42:19](https://news.ycombinator.com/item?id=46079073) - [Language is primarily a tool for communication rather than thought [pdf]](https://gwern.net/doc/psychology/linguistics/2024-fedorenko.pdf)
 * [2025-11-28, 14:41:53](https://news.ycombinator.com/item?id=46079067) - [Louvre to hike ticket prices for most non-EU tourists by 45%](https://www.bbc.com/news/articles/clyd4llgrego)
 * [2025-11-28, 14:08:14](https://news.ycombinator.com/item?id=46078770) - [Petition to formally recognize open source work as civic service in Germany](https://www.openpetition.de/petition/online/anerkennung-von-open-source-arbeit-als-ehrenamt-in-deutschland#petition-main)
