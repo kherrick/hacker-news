@@ -6,8 +6,10 @@
 
 * [2025-12-05, 20:42:04](https://news.ycombinator.com/item?id=46166994) - [Judge Signals Win for Software Freedom Conservancy in Vizio GPL Case](https://fossforce.com/2025/12/judge-signals-win-for-software-freedom-conservancy-in-vizio-gpl-case/)
 * [2025-12-05, 20:18:34](https://news.ycombinator.com/item?id=46166709) - [Advertising as a major source of human dissatisfaction (2019) [pdf]](https://www.andrewoswald.com/docs/AdvertisingMicheletal2019EasterlinVolume.pdf)
+* [2025-12-05, 20:18:22](https://news.ycombinator.com/item?id=46166708) - [Fizz Buzz in CSS](https://susam.net/fizz-buzz-in-css.html)
 * [2025-12-05, 20:03:21](https://news.ycombinator.com/item?id=46166536) - [Framework Sponsors CachyOS](https://discuss.cachyos.org/t/framework-sponsorship-for-cachyos/19376)
 * [2025-12-05, 19:39:01](https://news.ycombinator.com/item?id=46166248) - [US Supreme Court agrees to hear case challenging birthright citizenship](https://www.bbc.com/news/articles/c208j0wrzrvo)
+* [2025-12-05, 18:51:38](https://news.ycombinator.com/item?id=46165555) - [The Debug Adapter Protocol is a REPL protocol in disguise](https://zignar.net/2025/06/23/debug-adapter-protocol-is-a-repl-protocol/)
 * [2025-12-05, 18:49:07](https://news.ycombinator.com/item?id=46165513) - [SpaceX in Talks for Share Sale That Would Boost Valuation to $800B](https://www.wsj.com/business/spacex-in-talks-for-share-sale-that-would-boost-valuation-to-800-billion-b2852191)
 * [2025-12-05, 18:30:06](https://news.ycombinator.com/item?id=46165251) - [Show HN: SerpApi MCP Server](https://github.com/serpapi/serpapi-mcp)
 * [2025-12-05, 18:29:50](https://news.ycombinator.com/item?id=46165249) - [We Built Lightpanda in Zig](https://lightpanda.io/blog/posts/why-we-built-lightpanda-in-zig)
