@@ -1,11 +1,21 @@
 [
   [
     [
+      "2025-12-05, 13:07:59",
+      "https://news.ycombinator.com/item?id=46160773"
+    ],
+    [
+      "Most Technical Problems Are People Problems",
+      "https://blog.joeschrag.com/2023/11/most-technical-problems-are-really.html"
+    ]
+  ],
+  [
+    [
       "2025-12-05, 12:21:19",
       "https://news.ycombinator.com/item?id=46160315"
     ],
     [
-      "Netflix to Acquire Warner Bros. In an $82.7B Deal",
+      "Netflix to Acquire Warner Bros",
       "https://about.netflix.com/en/news/netflix-to-acquire-warner-bros"
     ]
   ],
@@ -61,16 +71,6 @@
   ],
   [
     [
-      "2025-12-05, 02:55:34",
-      "https://news.ycombinator.com/item?id=46156379"
-    ],
-    [
-      "Blogging in 2025: Screaming into the Void",
-      "https://askmike.org/articles/blogging-in-2025-screaming-into-the-void/"
-    ]
-  ],
-  [
-    [
       "2025-12-05, 01:15:42",
       "https://news.ycombinator.com/item?id=46155701"
     ],
@@ -111,22 +111,22 @@
   ],
   [
     [
+      "2025-12-04, 23:08:25",
+      "https://news.ycombinator.com/item?id=46154491"
+    ],
+    [
+      "We gave 5 LLMs $100K to trade stocks for 8 months",
+      "https://www.aitradearena.com/research/we-ran-llms-for-8-months"
+    ]
+  ],
+  [
+    [
       "2025-12-04, 22:56:08",
       "https://news.ycombinator.com/item?id=46154344"
     ],
     [
       "StardustOS: Library operating system for building light-weight Unikernels",
       "https://github.com/StardustOS"
-    ]
-  ],
-  [
-    [
-      "2025-12-04, 21:40:24",
-      "https://news.ycombinator.com/item?id=46153466"
-    ],
-    [
-      "Thoughts on Go vs. Rust vs. Zig",
-      "https://sinclairtarget.com/blog/2025/08/thoughts-on-go-vs.-rust-vs.-zig/"
     ]
   ],
   [
@@ -251,6 +251,16 @@
   ],
   [
     [
+      "2025-11-30, 10:50:32",
+      "https://news.ycombinator.com/item?id=46095602"
+    ],
+    [
+      "Ephemeral Infrastructure: Why Short-Lived Is a Good Thing",
+      "https://lukasniessen.medium.com/ephemeral-infrastructure-why-short-lived-is-a-good-thing-2cf26afd75ef"
+    ]
+  ],
+  [
+    [
       "2025-11-30, 06:18:57",
       "https://news.ycombinator.com/item?id=46094330"
     ],
@@ -277,16 +287,6 @@
     [
       "CSS now has an if() conditional function",
       "https://caniuse.com/?search=if"
-    ]
-  ],
-  [
-    [
-      "2025-11-28, 16:37:45",
-      "https://news.ycombinator.com/item?id=46080163"
-    ],
-    [
-      "The Fat-Tailed Sheep on the First Fleet; Australia's First Sheep",
-      "https://www.singletonmills.com/sydney-first-sheep.html"
     ]
   ],
   [
