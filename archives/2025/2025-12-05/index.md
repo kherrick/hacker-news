@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-12-05](index.md)
 
+* [2025-12-05, 14:52:29](https://news.ycombinator.com/item?id=46162067) - [H-1B Workers Now Required to Make Social Media Profiles Public](https://www.boundless.com/blog/expanded-screening-h1b-h4-social-media-requirement)
 * [2025-12-05, 14:06:53](https://news.ycombinator.com/item?id=46161460) - [Emerge Career (YC S22) Is Hiring](https://www.ycombinator.com/companies/emerge-career/jobs/qQhLEmC-founding-design-engineer)
 * [2025-12-05, 13:39:04](https://news.ycombinator.com/item?id=46161125) - [Influential study on glyphosate safety retracted 25 years after publication](https://www.lemonde.fr/en/environment/article/2025/12/03/influential-study-on-glyphosate-safety-retracted-25-years-after-publication_6748114_114.html)
 * [2025-12-05, 13:07:59](https://news.ycombinator.com/item?id=46160773) - [Most Technical Problems Are People Problems](https://blog.joeschrag.com/2023/11/most-technical-problems-are-really.html)

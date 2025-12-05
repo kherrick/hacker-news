@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-12-05, 14:52:29](https://news.ycombinator.com/item?id=46162067) - [H-1B Workers Now Required to Make Social Media Profiles Public](https://www.boundless.com/blog/expanded-screening-h1b-h4-social-media-requirement)
 * [2025-12-05, 14:06:53](https://news.ycombinator.com/item?id=46161460) - [Emerge Career (YC S22) Is Hiring](https://www.ycombinator.com/companies/emerge-career/jobs/qQhLEmC-founding-design-engineer)
 * [2025-12-05, 13:39:04](https://news.ycombinator.com/item?id=46161125) - [Influential study on glyphosate safety retracted 25 years after publication](https://www.lemonde.fr/en/environment/article/2025/12/03/influential-study-on-glyphosate-safety-retracted-25-years-after-publication_6748114_114.html)
 * [2025-12-05, 13:07:59](https://news.ycombinator.com/item?id=46160773) - [Most technical problems are people problems](https://blog.joeschrag.com/2023/11/most-technical-problems-are-really.html)
@@ -18,7 +19,6 @@
 * [2025-12-04, 18:49:20](https://news.ycombinator.com/item?id=46151299) - [I have been writing a niche history blog for 15 years](https://resobscura.substack.com/p/why-i-have-been-writing-a-niche-history)
 * [2025-12-04, 16:58:35](https://news.ycombinator.com/item?id=46149813) - [Multivox: Volumetric Display](https://github.com/AncientJames/multivox)
 * [2025-12-04, 13:40:00](https://news.ycombinator.com/item?id=46147540) - [Transparent leadership beats servant leadership](https://entropicthoughts.com/transparent-leadership-beats-servant-leadership)
-* [2025-12-04, 13:34:27](https://news.ycombinator.com/item?id=46147493) - [Fighting the age-gated internet](https://www.wired.com/story/age-verification-is-sweeping-the-us-activists-are-fighting-back/)
 * [2025-12-04, 08:38:17](https://news.ycombinator.com/item?id=46145180) - [How elites could shape mass preferences as AI reduces persuasion costs](https://arxiv.org/abs/2512.04047)
 * [2025-12-04, 07:35:10](https://news.ycombinator.com/item?id=46144801) - [Show HN: Kraa – Writing App for Everything](https://kraa.io/about)
 * [2025-12-02, 09:14:00](https://news.ycombinator.com/item?id=46119234) - [Show HN: I was reintroduced to computers: Raspberry Pi](https://airoboticist.blog/2025/12/01/i-was-reintroduced-to-computers-raspberry-pi/)
