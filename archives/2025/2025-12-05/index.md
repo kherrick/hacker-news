@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-12-05](index.md)
 
+* [2025-12-05, 12:21:19](https://news.ycombinator.com/item?id=46160315) - [Netflix to Acquire Warner Bros. In an $82.7B Deal](https://about.netflix.com/en/news/netflix-to-acquire-warner-bros)
+* [2025-12-05, 12:12:52](https://news.ycombinator.com/item?id=46160239) - [Sugars, Gum, Stardust Found in NASA's Asteroid Bennu Samples](https://www.nasa.gov/missions/osiris-rex/sugars-gum-stardust-found-in-nasas-asteroid-bennu-samples/)
 * [2025-12-05, 11:07:07](https://news.ycombinator.com/item?id=46159703) - [Why We Can't Quit Excel](https://www.bloomberg.com/features/2025-microsoft-excel-ai-software/)
 * [2025-12-05, 09:58:01](https://news.ycombinator.com/item?id=46159193) - [The US polluters that are rewriting the EU's human rights and climate law](https://www.somo.nl/the-secretive-cabal-of-us-polluters-that-is-rewriting-the-eus-human-rights-and-climate-law/)
 * [2025-12-05, 09:30:07](https://news.ycombinator.com/item?id=46158920) - [Awful AI is a curated list to track current scary usages of AI](https://github.com/daviddao/awful-ai)
