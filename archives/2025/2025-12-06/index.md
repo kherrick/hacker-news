@@ -4,8 +4,11 @@
 
 ### [Archives](../../index.md) for [2025-12-06](index.md)
 
+* [2025-12-06, 12:46:42](https://news.ycombinator.com/item?id=46172902) - [Why Speed Matters](https://lemire.me/blog/2025/12/05/why-speed-matters/)
+* [2025-12-06, 12:06:53](https://news.ycombinator.com/item?id=46172682) - ['Life being stressful is not an illness' – GPs on mental health over-diagnosis](https://www.bbc.com/news/articles/cx2pvxdn9v4o)
 * [2025-12-06, 11:18:40](https://news.ycombinator.com/item?id=46172443) - [Autism's Confusing Cousins](https://www.psychiatrymargins.com/p/autisms-confusing-cousins)
 * [2025-12-06, 10:53:56](https://news.ycombinator.com/item?id=46172312) - [How America's \"truck-driver shortage\" made the industry a hellscape](https://www.freightwaves.com/news/how-americas-trucking-industry-became-a-hellscape)
+* [2025-12-06, 10:20:19](https://news.ycombinator.com/item?id=46172167) - [Linux Instal Fest Belgrade](https://dmz.rs/lif2025_en)
 * [2025-12-06, 09:28:59](https://news.ycombinator.com/item?id=46171921) - [Ask HN: How many people got VPNs in response to laws like UK Online Safety Act?](https://news.ycombinator.com/item?id=46171921)
 * [2025-12-06, 07:31:07](https://news.ycombinator.com/item?id=46171425) - [Schizophrenia sufferer mistakes smart fridge ad for psychotic episode](https://old.reddit.com/r/LegalAdviceUK/comments/1pc7999/my_schizophrenic_sister_hospitalised_herself/)
 * [2025-12-06, 07:21:42](https://news.ycombinator.com/item?id=46171394) - [Wolfram Compute Services](https://writings.stephenwolfram.com/2025/12/instant-supercompute-launching-wolfram-compute-services/)
