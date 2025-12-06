@@ -25,6 +25,7 @@
 * [2025-11-30, 17:56:43](https://news.ycombinator.com/item?id=46098838) - [Writing a Good Claude.md](https://www.humanlayer.dev/blog/writing-a-good-claude-md)
 * [2025-11-30, 17:45:51](https://news.ycombinator.com/item?id=46098747) - [ETH-Zurich: Digital Design and Computer Architecture; 227-0003-10L, Spring, 2025](https://safari.ethz.ch/ddca/spring2025/doku.php?id=start)
 * [2025-11-30, 17:37:09](https://news.ycombinator.com/item?id=46098673) - [ESA Sentinel-1D delivers first high-resolution images](https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-1/Sentinel-1D_delivers_first_images_from_Antarctica_to_Bremen)
+* [2025-11-30, 17:34:46](https://news.ycombinator.com/item?id=46098655) - [Making tiny 0.1cc two stroke engine from scratch](https://youtu.be/nKVq9u52A-c?si=KVY6AK7tsudqnbJN)
 * [2025-11-30, 17:25:40](https://news.ycombinator.com/item?id=46098569) - [Notes on Shadowing a Hospitalist](https://humaninvariant.substack.com/p/notes-on-shadowing-a-hospitalist)
 * [2025-11-30, 17:02:48](https://news.ycombinator.com/item?id=46098359) - [LLVM-MOS – Clang LLVM fork targeting the 6502](https://llvm-mos.org/wiki/Welcome)
 * [2025-11-30, 17:02:32](https://news.ycombinator.com/item?id=46098356) - [Interop and MathML Core](https://conflor.es/blog/2025-11-27-interop-and-mathml/)
