@@ -5,6 +5,8 @@
 ### [Archives](../../index.md) for [2025-12-06](index.md)
 
 * [2025-12-06, 22:34:56](https://news.ycombinator.com/item?id=46177198) - [Wave of (Open Street Map) Vandalism in South Korea](https://www.openstreetmap.org/user/KennyDap/diary/407844)
+* [2025-12-06, 22:26:26](https://news.ycombinator.com/item?id=46177132) - [United States Antarctic Program Field Manual (2024) [pdf]](https://www.usap.gov/usapgov/travelAndDeployment/documents/Continental-Field-Manual-2024.pdf)
+* [2025-12-06, 22:11:33](https://news.ycombinator.com/item?id=46177022) - [Catala – Law to Code](https://catala-lang.org)
 * [2025-12-06, 22:06:48](https://news.ycombinator.com/item?id=46176987) - [Chernobyl protective shield can no longer confine radiation after drone strike](https://www.cnn.com/2025/12/06/europe/chernobyl-drone-strike-radiation-latam-intl)
 * [2025-12-06, 21:55:29](https://news.ycombinator.com/item?id=46176908) - [How the 'hypnagogic state' of drowsiness could enhance your creativity](https://theconversation.com/how-the-hypnagogic-state-of-drowsiness-could-enhance-your-creativity-269724)
 * [2025-12-06, 21:55:09](https://news.ycombinator.com/item?id=46176905) - [Screenshots from developers: 2002 vs. 2015 (2015)](https://anders.unix.se/2015/12/10/screenshots-from-developers--2002-vs.-2015/)
@@ -16,6 +18,7 @@
 * [2025-12-06, 20:15:54](https://news.ycombinator.com/item?id=46176289) - [Zebra-Llama: Towards Efficient Hybrid Models](https://arxiv.org/abs/2505.17272)
 * [2025-12-06, 20:00:17](https://news.ycombinator.com/item?id=46176169) - [CATL Expects Oceanic Electric Ships in 3 Years](https://cleantechnica.com/2025/12/05/catl-expects-oceanic-electric-ships-in-3-years/)
 * [2025-12-06, 19:47:13](https://news.ycombinator.com/item?id=46176072) - [The general who refused to crush Tiananmen's protesters](https://www.economist.com/china/2025/12/04/the-general-who-refused-to-crush-tiananmens-protesters)
+* [2025-12-06, 19:19:44](https://news.ycombinator.com/item?id=46175871) - [Germany votes to bring in voluntary military service programme for 18-year-olds](https://www.bbc.com/news/articles/ckg9drg8pg1o)
 * [2025-12-06, 19:14:35](https://news.ycombinator.com/item?id=46175826) - [OMSCS Open Courseware](https://sites.gatech.edu/omscsopencourseware/)
 * [2025-12-06, 18:32:07](https://news.ycombinator.com/item?id=46175481) - [Fefe is back](http://blog.fefe.de/)
 * [2025-12-06, 17:42:07](https://news.ycombinator.com/item?id=46175112) - [Perl's Decline Was Cultural](https://www.beatworm.co.uk/blog/computers/perls-decline-was-cultural-not-technical)
