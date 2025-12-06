@@ -1,8 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-12-06, 12:46:42](https://news.ycombinator.com/item?id=46172902) - [Why Speed Matters](https://lemire.me/blog/2025/12/05/why-speed-matters/)
-* [2025-12-06, 12:06:53](https://news.ycombinator.com/item?id=46172682) - ['Life being stressful is not an illness' – GPs on mental health over-diagnosis](https://www.bbc.com/news/articles/cx2pvxdn9v4o)
-* [2025-12-06, 11:18:40](https://news.ycombinator.com/item?id=46172443) - [Autism's Confusing Cousins](https://www.psychiatrymargins.com/p/autisms-confusing-cousins)
+* [2025-12-06, 11:18:40](https://news.ycombinator.com/item?id=46172443) - [Autism's confusing cousins](https://www.psychiatrymargins.com/p/autisms-confusing-cousins)
 * [2025-12-06, 10:20:19](https://news.ycombinator.com/item?id=46172167) - [Linux Instal Fest Belgrade](https://dmz.rs/lif2025_en)
 * [2025-12-06, 07:31:07](https://news.ycombinator.com/item?id=46171425) - [Schizophrenia sufferer mistakes smart fridge ad for psychotic episode](https://old.reddit.com/r/LegalAdviceUK/comments/1pc7999/my_schizophrenic_sister_hospitalised_herself/)
 * [2025-12-06, 07:21:42](https://news.ycombinator.com/item?id=46171394) - [Wolfram Compute Services](https://writings.stephenwolfram.com/2025/12/instant-supercompute-launching-wolfram-compute-services/)
@@ -26,6 +25,7 @@
 * [2025-12-02, 17:09:44](https://news.ycombinator.com/item?id=46123518) - [PC-Man and the spark of childhood wonder](https://intotheverticalblank.com/2025/12/02/interview-greg-kuperberg/)
 * [2025-12-02, 12:59:55](https://news.ycombinator.com/item?id=46120764) - [The Absent Silence (2010)](https://www.ursulakleguin.com/blog/3-the-absent-silence)
 * [2025-12-01, 22:15:53](https://news.ycombinator.com/item?id=46114064) - [Divine D native Linux open-source mobile system – Rev. 1.1 Hardware Architecture](https://docs.dawndrums.tn/blog/dd-rev1.1-arch/)
+* [2025-12-01, 20:14:53](https://news.ycombinator.com/item?id=46112560) - [Tides are weirder than you think](https://signoregalilei.com/2025/11/12/tides-are-weirder-than-you-think/)
 * [2025-12-01, 12:07:33](https://news.ycombinator.com/item?id=46106411) - [Idempotency keys for exactly-once processing](https://www.morling.dev/blog/on-idempotency-keys/)
 * [2025-11-30, 17:34:46](https://news.ycombinator.com/item?id=46098655) - [Making tiny 0.1cc two stroke engine from scratch](https://youtu.be/nKVq9u52A-c?si=KVY6AK7tsudqnbJN)
 * [2025-11-30, 09:11:40](https://news.ycombinator.com/item?id=46095087) - [Self-hosting my photos with Immich](https://michael.stapelberg.ch/posts/2025-11-29-self-hosting-photos-with-immich/)
