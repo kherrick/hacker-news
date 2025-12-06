@@ -62,6 +62,7 @@
 * [2025-11-30, 09:44:15](https://news.ycombinator.com/item?id=46095250) - [The Space of Minds](https://karpathy.bearblog.dev/the-space-of-minds/)
 * [2025-11-30, 09:11:40](https://news.ycombinator.com/item?id=46095087) - [Self-hosting my photos with Immich](https://michael.stapelberg.ch/posts/2025-11-29-self-hosting-photos-with-immich/)
 * [2025-11-30, 07:27:25](https://news.ycombinator.com/item?id=46094606) - [Qwen3-VL can scan two-hour videos and pinpoint nearly every detail](https://the-decoder.com/qwen3-vl-can-scan-two-hour-videos-and-pinpoint-nearly-every-detail/)
+* [2025-11-30, 07:24:00](https://news.ycombinator.com/item?id=46094589) - [Aurora: The Linux-based ultimate workstation](https://getaurora.dev/en)
 * [2025-11-30, 07:00:40](https://news.ycombinator.com/item?id=46094478) - [Jiga (YC W21) Is Hiring Product Designer](https://www.ycombinator.com/companies/jiga/jobs/Cco7vyK-product-designer-remote-europe)
 * [2025-11-30, 06:57:36](https://news.ycombinator.com/item?id=46094465) - [The Copenhagen Trap: How the West made passivity the only safe strategy](https://aliveness.kunnas.com/articles/copenhagen-trap)
 * [2025-11-30, 06:56:33](https://news.ycombinator.com/item?id=46094460) - [I Designed and Printed a Custom Nose Guard to Help My Dog with DLE](https://snoutcover.com/billie-story)

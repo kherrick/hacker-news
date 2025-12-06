@@ -2,7 +2,6 @@
 
 * [2025-12-06, 07:31:07](https://news.ycombinator.com/item?id=46171425) - [Schizophrenia sufferer mistakes smart fridge ad for psychotic episode](https://old.reddit.com/r/LegalAdviceUK/comments/1pc7999/my_schizophrenic_sister_hospitalised_herself/)
 * [2025-12-06, 07:21:42](https://news.ycombinator.com/item?id=46171394) - [Wolfram Compute Services](https://writings.stephenwolfram.com/2025/12/instant-supercompute-launching-wolfram-compute-services/)
-* [2025-12-06, 07:19:03](https://news.ycombinator.com/item?id=46171381) - [Wine 11.0 RC1 – Run Windows Applications on Linux, BSD, Solaris and macOS](https://gitlab.winehq.org/wine/wine/-/releases/wine-11.0-rc1)
 * [2025-12-06, 07:00:14](https://news.ycombinator.com/item?id=46171311) - [Infracost (YC W21) is hiring Sr Node Eng to make $600B/yr cloud spend proactive](https://www.ycombinator.com/companies/infracost/jobs/Sr9rmHs-senior-product-engineer-node-js)
 * [2025-12-06, 03:21:46](https://news.ycombinator.com/item?id=46170332) - [Albert Michelson's Harmonic Analyzer (2014) [pdf]](https://engineerguy.com/fourier/pdfs/albert-michelsons-harmonic-analyzer.pdf)
 * [2025-12-06, 03:17:44](https://news.ycombinator.com/item?id=46170309) - [PalmOS on FisherPrice Pixter Toy](https://dmitry.gr/?r=05.Projects&proj=27.%20rePalm#pixter)
@@ -29,6 +28,7 @@
 * [2025-12-01, 12:07:33](https://news.ycombinator.com/item?id=46106411) - [Idempotency keys for exactly-once processing](https://www.morling.dev/blog/on-idempotency-keys/)
 * [2025-11-30, 17:34:46](https://news.ycombinator.com/item?id=46098655) - [Making tiny 0.1cc two stroke engine from scratch](https://youtu.be/nKVq9u52A-c?si=KVY6AK7tsudqnbJN)
 * [2025-11-30, 09:11:40](https://news.ycombinator.com/item?id=46095087) - [Self-hosting my photos with Immich](https://michael.stapelberg.ch/posts/2025-11-29-self-hosting-photos-with-immich/)
+* [2025-11-30, 07:24:00](https://news.ycombinator.com/item?id=46094589) - [Aurora: The Linux-based ultimate workstation](https://getaurora.dev/en)
 * [2025-11-29, 15:49:20](https://news.ycombinator.com/item?id=46088430) - [Guide to making a CHIP-8 emulator (2020)](https://tobiasvl.github.io/blog/write-a-chip-8-emulator/)
 
 ## [Archives](archives/index.md)
