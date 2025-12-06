@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-12-06](index.md)
 
 * [2025-12-06, 19:14:35](https://news.ycombinator.com/item?id=46175826) - [OMSCS Open Courseware](https://sites.gatech.edu/omscsopencourseware/)
+* [2025-12-06, 18:32:07](https://news.ycombinator.com/item?id=46175481) - [Fefe is back](http://blog.fefe.de/)
 * [2025-12-06, 17:42:07](https://news.ycombinator.com/item?id=46175112) - [Perl's Decline Was Cultural](https://www.beatworm.co.uk/blog/computers/perls-decline-was-cultural-not-technical)
 * [2025-12-06, 17:13:03](https://news.ycombinator.com/item?id=46174878) - [Show HN: SFX – A language where 0.1 and 0.2 = 0.3 and Context is first-class](https://github.com/roriau0422/sfex-lang)
 * [2025-12-06, 17:01:53](https://news.ycombinator.com/item?id=46174789) - [Infisical (YC W23) Is Hiring Engineers to Build the Modern OSS Security Stack](https://www.ycombinator.com/companies/infisical/jobs/2pwGcK9-senior-full-stack-engineer-us-canada)
