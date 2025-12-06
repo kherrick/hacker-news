@@ -1,12 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-12-06, 07:00:14](https://news.ycombinator.com/item?id=46171311) - [Infracost (YC W21) is hiring Sr Node Eng to make $600B/yr cloud spend proactive](https://www.ycombinator.com/companies/infracost/jobs/Sr9rmHs-senior-product-engineer-node-js)
 * [2025-12-06, 03:32:56](https://news.ycombinator.com/item?id=46170402) - [Nook Browser](https://browsewithnook.com)
 * [2025-12-06, 03:21:46](https://news.ycombinator.com/item?id=46170332) - [Albert Michelson's Harmonic Analyzer (2014) [pdf]](https://engineerguy.com/fourier/pdfs/albert-michelsons-harmonic-analyzer.pdf)
 * [2025-12-06, 03:17:44](https://news.ycombinator.com/item?id=46170309) - [PalmOS on FisherPrice Pixter Toy](https://dmitry.gr/?r=05.Projects&proj=27.%20rePalm#pixter)
 * [2025-12-06, 03:16:35](https://news.ycombinator.com/item?id=46170302) - [Have I been Flocked? – Check if your license plate is being watched](https://haveibeenflocked.com/)
 * [2025-12-06, 01:15:48](https://news.ycombinator.com/item?id=46169554) - [YouTube caught making AI-edits to videos and adding misleading AI summaries](https://www.ynetnews.com/tech-and-digital/article/bj1qbwcklg)
 * [2025-12-06, 00:38:50](https://news.ycombinator.com/item?id=46169330) - [Extra Instructions Of The 65XX Series CPU (1996)](http://www.ffd2.com/fridge/docs/6502-NMOS.extra.opcodes)
-* [2025-12-06, 00:24:55](https://news.ycombinator.com/item?id=46169224) - [Sam Altman’s DRAM Deal](https://www.mooreslawisdead.com/post/sam-altman-s-dirty-dram-deal)
 * [2025-12-05, 22:10:50](https://news.ycombinator.com/item?id=46168057) - [Adenosine on the common path of rapid antidepressant action: The coffee paradox](https://genomicpress.kglmeridian.com/view/journals/brainmed/aop/article-10.61373-bm025c.0134/article-10.61373-bm025c.0134.xml)
 * [2025-12-05, 21:31:40](https://news.ycombinator.com/item?id=46167621) - [Frank Gehry has died](https://www.bbc.co.uk/news/articles/c5y2p22z9gno)
 * [2025-12-05, 21:27:04](https://news.ycombinator.com/item?id=46167552) - [Leaving Intel](https://www.brendangregg.com/blog//2025-12-05/leaving-intel.html)
