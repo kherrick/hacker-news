@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-12-02](index.md)
 
+* [2025-12-02, 23:59:58](https://news.ycombinator.com/item?id=46128616) - [Finding Gene Cernan's Missing Moon Camera](https://www.spacecamera.co/articles/2020/3/3/gene-cernans-missing-lunar-surface-camera)
 * [2025-12-02, 23:19:07](https://news.ycombinator.com/item?id=46128286) - [DOOM could have had PC Speaker Music](https://lenowo.org/viewtopic.php?t=45)
 * [2025-12-02, 23:13:54](https://news.ycombinator.com/item?id=46128238) - [Ivan Sutherland Sketchpad Demo 1963 [video]](https://www.youtube.com/watch?v=6orsmFndx_o)
 * [2025-12-02, 22:32:45](https://news.ycombinator.com/item?id=46127868) - [Exploring Large HTML Documents on the Web](https://calendar.perfplanet.com/2025/exploring-large-html-documents-on-the-web/)
