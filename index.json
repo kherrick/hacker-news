@@ -221,6 +221,16 @@
   ],
   [
     [
+      "2025-12-03, 02:53:33",
+      "https://news.ycombinator.com/item?id=46129766"
+    ],
+    [
+      "Roko's Dancing Basilisk",
+      "https://boston.conman.org/2025/12/02.1"
+    ]
+  ],
+  [
+    [
       "2025-12-02, 23:13:54",
       "https://news.ycombinator.com/item?id=46128238"
     ],
@@ -287,16 +297,6 @@
     [
       "Guide to making a CHIP-8 emulator (2020)",
       "https://tobiasvl.github.io/blog/write-a-chip-8-emulator/"
-    ]
-  ],
-  [
-    [
-      "2025-11-29, 07:30:30",
-      "https://news.ycombinator.com/item?id=46085753"
-    ],
-    [
-      "How fast can browsers process base64 data?",
-      "https://lemire.me/blog/2025/11/29/how-fast-can-browsers-process-base64-data/"
     ]
   ]
 ]
