@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-12-06](index.md)
 
+* [2025-12-06, 22:34:56](https://news.ycombinator.com/item?id=46177198) - [Wave of (Open Street Map) Vandalism in South Korea](https://www.openstreetmap.org/user/KennyDap/diary/407844)
+* [2025-12-06, 21:55:29](https://news.ycombinator.com/item?id=46176908) - [How the 'hypnagogic state' of drowsiness could enhance your creativity](https://theconversation.com/how-the-hypnagogic-state-of-drowsiness-could-enhance-your-creativity-269724)
 * [2025-12-06, 21:55:08](https://news.ycombinator.com/item?id=46176904) - [Copy-Item is 27% slower than File Explorer](https://til.andrew-quinn.me/posts/copy-item-is-27-percent-slower-than-file-explorer-drag-and-drop-on-windows/)
 * [2025-12-06, 21:33:03](https://news.ycombinator.com/item?id=46176766) - [Coffee link to slower biological aging in those w mental illness–to point](https://www.kcl.ac.uk/news/coffee-linked-to-slower-biological-ageing-among-those-with-severe-mental-illness-up-to-a-limit)
 * [2025-12-06, 20:56:38](https://news.ycombinator.com/item?id=46176533) - [Show HN: Tascli, a command line based (human) task and record manager](https://github.com/Aperocky/tascli)
