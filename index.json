@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-12-06, 03:21:46",
+      "https://news.ycombinator.com/item?id=46170332"
+    ],
+    [
+      "Albert Michelson's Harmonic Analyzer [pdf]",
+      "https://engineerguy.com/fourier/pdfs/albert-michelsons-harmonic-analyzer.pdf"
+    ]
+  ],
+  [
+    [
+      "2025-12-06, 03:16:35",
+      "https://news.ycombinator.com/item?id=46170302"
+    ],
+    [
+      "Have I Been Flocked? – Check If Your License Plate Is Being Watched",
+      "https://haveibeenflocked.com/"
+    ]
+  ],
+  [
+    [
       "2025-12-06, 02:37:58",
       "https://news.ycombinator.com/item?id=46170060"
     ],
@@ -36,17 +56,7 @@
     ],
     [
       "YouTube caught making AI-edits to videos and adding misleading AI summaries",
-      "https://social.growyourown.services/@FediTips/115668457530054406"
-    ]
-  ],
-  [
-    [
-      "2025-12-06, 00:41:42",
-      "https://news.ycombinator.com/item?id=46169355"
-    ],
-    [
-      "From Rockets to Heat Pumps",
-      "https://www.heatpumped.org/p/from-rockets-to-heat-pumps"
+      "https://www.ynetnews.com/tech-and-digital/article/bj1qbwcklg"
     ]
   ],
   [
@@ -107,16 +117,6 @@
     [
       "The missing standard library for multithreading in JavaScript",
       "https://github.com/W4G1/multithreading"
-    ]
-  ],
-  [
-    [
-      "2025-12-05, 20:42:04",
-      "https://news.ycombinator.com/item?id=46166994"
-    ],
-    [
-      "Judge Signals Win for Software Freedom Conservancy in Vizio GPL Case",
-      "https://fossforce.com/2025/12/judge-signals-win-for-software-freedom-conservancy-in-vizio-gpl-case/"
     ]
   ],
   [
@@ -241,22 +241,22 @@
   ],
   [
     [
-      "2025-12-02, 22:25:19",
-      "https://news.ycombinator.com/item?id=46127787"
-    ],
-    [
-      "Why are your models so big? (2023)",
-      "https://pawa.lt/braindump/tiny-models/"
-    ]
-  ],
-  [
-    [
       "2025-12-02, 20:28:18",
       "https://news.ycombinator.com/item?id=46126380"
     ],
     [
       "Frinkiac – 3M \"The Simpsons\" Screencaps",
       "https://frinkiac.com/"
+    ]
+  ],
+  [
+    [
+      "2025-12-02, 14:02:44",
+      "https://news.ycombinator.com/item?id=46121251"
+    ],
+    [
+      "Spectral rendering, part 3: Spectral vs. RGB",
+      "https://momentsingraphics.de/SpectralRendering3Results.html"
     ]
   ],
   [
