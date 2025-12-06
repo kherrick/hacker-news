@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-12-06](index.md)
 
+* [2025-12-06, 03:32:56](https://news.ycombinator.com/item?id=46170402) - [Nook Browser](https://browsewithnook.com)
 * [2025-12-06, 03:21:46](https://news.ycombinator.com/item?id=46170332) - [Albert Michelson's Harmonic Analyzer [pdf]](https://engineerguy.com/fourier/pdfs/albert-michelsons-harmonic-analyzer.pdf)
 * [2025-12-06, 03:16:35](https://news.ycombinator.com/item?id=46170302) - [Have I Been Flocked? – Check If Your License Plate Is Being Watched](https://haveibeenflocked.com/)
 * [2025-12-06, 02:37:58](https://news.ycombinator.com/item?id=46170060) - [I cracked a $200 software protection with xcopy](https://www.ud2.rip/blog/enigma-protector/)
