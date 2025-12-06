@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-12-06, 12:46:42](https://news.ycombinator.com/item?id=46172902) - [Why Speed Matters](https://lemire.me/blog/2025/12/05/why-speed-matters/)
+* [2025-12-06, 12:29:28](https://news.ycombinator.com/item?id=46172797) - [Touching the Elephant – TPUs](https://considerthebulldog.com/tte-tpu/)
 * [2025-12-06, 11:18:40](https://news.ycombinator.com/item?id=46172443) - [Autism's confusing cousins](https://www.psychiatrymargins.com/p/autisms-confusing-cousins)
 * [2025-12-06, 10:20:19](https://news.ycombinator.com/item?id=46172167) - [Linux Instal Fest Belgrade](https://dmz.rs/lif2025_en)
 * [2025-12-06, 07:31:07](https://news.ycombinator.com/item?id=46171425) - [Schizophrenia sufferer mistakes smart fridge ad for psychotic episode](https://old.reddit.com/r/LegalAdviceUK/comments/1pc7999/my_schizophrenic_sister_hospitalised_herself/)
@@ -8,7 +9,6 @@
 * [2025-12-06, 07:00:14](https://news.ycombinator.com/item?id=46171311) - [Infracost (YC W21) is hiring Sr Node Eng to make $600B/yr cloud spend proactive](https://www.ycombinator.com/companies/infracost/jobs/Sr9rmHs-senior-product-engineer-node-js)
 * [2025-12-06, 03:17:44](https://news.ycombinator.com/item?id=46170309) - [PalmOS on FisherPrice Pixter Toy](https://dmitry.gr/?r=05.Projects&proj=27.%20rePalm#pixter)
 * [2025-12-06, 03:16:35](https://news.ycombinator.com/item?id=46170302) - [Have I been Flocked? – Check if your license plate is being watched](https://haveibeenflocked.com/)
-* [2025-12-06, 00:38:50](https://news.ycombinator.com/item?id=46169330) - [Extra Instructions Of The 65XX Series CPU (1996)](http://www.ffd2.com/fridge/docs/6502-NMOS.extra.opcodes)
 * [2025-12-05, 22:10:50](https://news.ycombinator.com/item?id=46168057) - [Adenosine on the common path of rapid antidepressant action: The coffee paradox](https://genomicpress.kglmeridian.com/view/journals/brainmed/aop/article-10.61373-bm025c.0134/article-10.61373-bm025c.0134.xml)
 * [2025-12-05, 21:27:04](https://news.ycombinator.com/item?id=46167552) - [Leaving Intel](https://www.brendangregg.com/blog//2025-12-05/leaving-intel.html)
 * [2025-12-05, 21:09:11](https://news.ycombinator.com/item?id=46167349) - [The missing standard library for multithreading in JavaScript](https://github.com/W4G1/multithreading)
@@ -18,7 +18,7 @@
 * [2025-12-05, 15:35:43](https://news.ycombinator.com/item?id=46162656) - [Cloudflare outage on December 5, 2025](https://blog.cloudflare.com/5-december-2025-outage/)
 * [2025-12-05, 12:21:19](https://news.ycombinator.com/item?id=46160315) - [Netflix to Acquire Warner Bros](https://about.netflix.com/en/news/netflix-to-acquire-warner-bros)
 * [2025-12-05, 00:09:57](https://news.ycombinator.com/item?id=46155135) - [Netflix’s AV1 Journey: From Android to TVs and Beyond](https://netflixtechblog.com/av1-now-powering-30-of-netflix-streaming-02f592242d80)
-* [2025-12-03, 16:02:29](https://news.ycombinator.com/item?id=46136059) - [Guy Built a Compact Camera Using an Optical Mouse](https://petapixel.com/2025/11/13/this-guy-built-a-compact-camera-using-an-optical-mouse/)
+* [2025-12-03, 16:02:29](https://news.ycombinator.com/item?id=46136059) - [A compact camera built using an optical mouse](https://petapixel.com/2025/11/13/this-guy-built-a-compact-camera-using-an-optical-mouse/)
 * [2025-12-03, 04:20:44](https://news.ycombinator.com/item?id=46130260) - [Show HN: HCB Mobile – financial app built by 17 y/o, processing $6M/month](https://hackclub.com/fiscal-sponsorship/mobile/)
 * [2025-12-02, 23:13:54](https://news.ycombinator.com/item?id=46128238) - [Ivan Sutherland Sketchpad Demo 1963 [video]](https://www.youtube.com/watch?v=6orsmFndx_o)
 * [2025-12-02, 20:28:18](https://news.ycombinator.com/item?id=46126380) - [Frinkiac – 3M \"The Simpsons\" Screencaps](https://frinkiac.com/)
@@ -29,7 +29,7 @@
 * [2025-11-30, 17:34:46](https://news.ycombinator.com/item?id=46098655) - [Making tiny 0.1cc two stroke engine from scratch](https://youtu.be/nKVq9u52A-c?si=KVY6AK7tsudqnbJN)
 * [2025-11-30, 09:11:40](https://news.ycombinator.com/item?id=46095087) - [Self-hosting my photos with Immich](https://michael.stapelberg.ch/posts/2025-11-29-self-hosting-photos-with-immich/)
 * [2025-11-29, 15:49:20](https://news.ycombinator.com/item?id=46088430) - [Guide to making a CHIP-8 emulator (2020)](https://tobiasvl.github.io/blog/write-a-chip-8-emulator/)
-* [2025-11-28, 17:07:48](https://news.ycombinator.com/item?id=46080498) - [The Unexpected Effectiveness of One-Shot Decompilation with Claude](https://blog.chrislewis.au/the-unexpected-effectiveness-of-one-shot-decompilation-with-claude/)
+* [2025-11-28, 17:07:48](https://news.ycombinator.com/item?id=46080498) - [The unexpected effectiveness of one-shot decompilation with Claude](https://blog.chrislewis.au/the-unexpected-effectiveness-of-one-shot-decompilation-with-claude/)
 
 ## [Archives](archives/index.md)
 

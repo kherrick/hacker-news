@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-12-06](index.md)
 
 * [2025-12-06, 12:46:42](https://news.ycombinator.com/item?id=46172902) - [Why Speed Matters](https://lemire.me/blog/2025/12/05/why-speed-matters/)
+* [2025-12-06, 12:29:28](https://news.ycombinator.com/item?id=46172797) - [Touching the Elephant – TPUs](https://considerthebulldog.com/tte-tpu/)
 * [2025-12-06, 12:06:53](https://news.ycombinator.com/item?id=46172682) - ['Life being stressful is not an illness' – GPs on mental health over-diagnosis](https://www.bbc.com/news/articles/cx2pvxdn9v4o)
 * [2025-12-06, 11:18:40](https://news.ycombinator.com/item?id=46172443) - [Autism's Confusing Cousins](https://www.psychiatrymargins.com/p/autisms-confusing-cousins)
 * [2025-12-06, 10:53:56](https://news.ycombinator.com/item?id=46172312) - [How America's \"truck-driver shortage\" made the industry a hellscape](https://www.freightwaves.com/news/how-americas-trucking-industry-became-a-hellscape)
