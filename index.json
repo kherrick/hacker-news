@@ -41,16 +41,6 @@
   ],
   [
     [
-      "2025-12-06, 02:37:58",
-      "https://news.ycombinator.com/item?id=46170060"
-    ],
-    [
-      "I cracked a $200 software protection with xcopy",
-      "https://www.ud2.rip/blog/enigma-protector/"
-    ]
-  ],
-  [
-    [
       "2025-12-06, 01:15:48",
       "https://news.ycombinator.com/item?id=46169554"
     ],
@@ -297,6 +287,16 @@
     [
       "Guide to making a CHIP-8 emulator (2020)",
       "https://tobiasvl.github.io/blog/write-a-chip-8-emulator/"
+    ]
+  ],
+  [
+    [
+      "2025-11-29, 07:30:30",
+      "https://news.ycombinator.com/item?id=46085753"
+    ],
+    [
+      "How fast can browsers process base64 data?",
+      "https://lemire.me/blog/2025/11/29/how-fast-can-browsers-process-base64-data/"
     ]
   ]
 ]
