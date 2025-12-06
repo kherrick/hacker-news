@@ -51,16 +51,6 @@
   ],
   [
     [
-      "2025-12-06, 02:32:01",
-      "https://news.ycombinator.com/item?id=46170027"
-    ],
-    [
-      "EU hits X with €120M fine for breaching the Digital Services Act",
-      "https://www.dw.com/en/eu-imposes-120-million-fine-on-elon-musks-x-for-breaking-digital-rules/a-75033724"
-    ]
-  ],
-  [
-    [
       "2025-12-06, 01:15:48",
       "https://news.ycombinator.com/item?id=46169554"
     ],
@@ -211,6 +201,16 @@
   ],
   [
     [
+      "2025-12-05, 13:00:28",
+      "https://news.ycombinator.com/item?id=46160698"
+    ],
+    [
+      "Making RSS More Fun",
+      "https://matduggan.com/making-rss-more-fun/"
+    ]
+  ],
+  [
+    [
       "2025-12-05, 12:21:19",
       "https://news.ycombinator.com/item?id=46160315"
     ],
@@ -295,7 +295,7 @@
       "https://news.ycombinator.com/item?id=46088430"
     ],
     [
-      "Guide to making a CHIP-8 emulator",
+      "Guide to making a CHIP-8 emulator (2020)",
       "https://tobiasvl.github.io/blog/write-a-chip-8-emulator/"
     ]
   ]
