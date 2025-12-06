@@ -22,6 +22,7 @@
 * [2025-12-05, 12:21:19](https://news.ycombinator.com/item?id=46160315) - [Netflix to Acquire Warner Bros](https://about.netflix.com/en/news/netflix-to-acquire-warner-bros)
 * [2025-12-05, 00:09:57](https://news.ycombinator.com/item?id=46155135) - [Netflix’s AV1 Journey: From Android to TVs and Beyond](https://netflixtechblog.com/av1-now-powering-30-of-netflix-streaming-02f592242d80)
 * [2025-12-03, 04:20:44](https://news.ycombinator.com/item?id=46130260) - [Show HN: HCB Mobile – financial app built by 17 y/o, processing $6M/month](https://hackclub.com/fiscal-sponsorship/mobile/)
+* [2025-12-03, 02:53:33](https://news.ycombinator.com/item?id=46129766) - [Roko's Dancing Basilisk](https://boston.conman.org/2025/12/02.1)
 * [2025-12-02, 23:13:54](https://news.ycombinator.com/item?id=46128238) - [Ivan Sutherland Sketchpad Demo 1963 [video]](https://www.youtube.com/watch?v=6orsmFndx_o)
 * [2025-12-02, 20:28:18](https://news.ycombinator.com/item?id=46126380) - [Frinkiac – 3M \"The Simpsons\" Screencaps](https://frinkiac.com/)
 * [2025-12-01, 20:14:53](https://news.ycombinator.com/item?id=46112560) - [Tides are weirder than you think](https://signoregalilei.com/2025/11/12/tides-are-weirder-than-you-think/)
@@ -29,7 +30,6 @@
 * [2025-11-30, 17:34:46](https://news.ycombinator.com/item?id=46098655) - [Making tiny 0.1cc two stroke engine from scratch](https://youtu.be/nKVq9u52A-c?si=KVY6AK7tsudqnbJN)
 * [2025-11-30, 09:11:40](https://news.ycombinator.com/item?id=46095087) - [Self-hosting my photos with Immich](https://michael.stapelberg.ch/posts/2025-11-29-self-hosting-photos-with-immich/)
 * [2025-11-29, 15:49:20](https://news.ycombinator.com/item?id=46088430) - [Guide to making a CHIP-8 emulator (2020)](https://tobiasvl.github.io/blog/write-a-chip-8-emulator/)
-* [2025-11-29, 07:30:30](https://news.ycombinator.com/item?id=46085753) - [How fast can browsers process base64 data?](https://lemire.me/blog/2025/11/29/how-fast-can-browsers-process-base64-data/)
 
 ## [Archives](archives/index.md)
 
