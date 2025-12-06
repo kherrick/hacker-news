@@ -30,6 +30,7 @@
 * [2025-12-02, 17:48:33](https://news.ycombinator.com/item?id=46124063) - [The Junior Hiring Crisis](https://people-work.io/blog/junior-hiring-crisis/)
 * [2025-12-02, 17:37:06](https://news.ycombinator.com/item?id=46123921) - [Progress on TypeScript 7 – December 2025](https://devblogs.microsoft.com/typescript/progress-on-typescript-7-december-2025/)
 * [2025-12-02, 17:24:33](https://news.ycombinator.com/item?id=46123747) - [Apple to beat Samsung in smartphone shipments for first time in 14 years](https://sherwood.news/tech/apple-to-beat-samsung-in-smartphone-shipments-for-first-time-in-14-years/)
+* [2025-12-02, 17:09:44](https://news.ycombinator.com/item?id=46123518) - [PC-Man (IBM PC 1983) and the spark of childhood wonder](https://intotheverticalblank.com/2025/12/02/interview-greg-kuperberg/)
 * [2025-12-02, 17:06:24](https://news.ycombinator.com/item?id=46123469) - [API GitHub Meta](https://api.github.com/meta)
 * [2025-12-02, 17:00:12](https://news.ycombinator.com/item?id=46123374) - [Poka Labs (YC S24) Is Hiring a Founding Engineer](https://www.ycombinator.com/companies/poka-labs/jobs/RCQgmqB-founding-engineer)
 * [2025-12-02, 16:50:25](https://news.ycombinator.com/item?id=46123238) - [Memtest86+ v8.00 Released](https://github.com/memtest86plus/memtest86plus/releases/tag/v8.00)
