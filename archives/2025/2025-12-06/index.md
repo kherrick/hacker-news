@@ -6,6 +6,7 @@
 
 * [2025-12-06, 07:31:07](https://news.ycombinator.com/item?id=46171425) - [Schizophrenia sufferer mistakes smart fridge ad for psychotic episode](https://old.reddit.com/r/LegalAdviceUK/comments/1pc7999/my_schizophrenic_sister_hospitalised_herself/)
 * [2025-12-06, 07:21:42](https://news.ycombinator.com/item?id=46171394) - [Wolfram Compute Services](https://writings.stephenwolfram.com/2025/12/instant-supercompute-launching-wolfram-compute-services/)
+* [2025-12-06, 07:19:03](https://news.ycombinator.com/item?id=46171381) - [Wine 11.0 RC1 – Run Windows Applications on Linux, BSD, Solaris and macOS](https://gitlab.winehq.org/wine/wine/-/releases/wine-11.0-rc1)
 * [2025-12-06, 07:00:14](https://news.ycombinator.com/item?id=46171311) - [Infracost (YC W21) is hiring Sr Node Eng to make $600B/yr cloud spend proactive](https://www.ycombinator.com/companies/infracost/jobs/Sr9rmHs-senior-product-engineer-node-js)
 * [2025-12-06, 03:32:56](https://news.ycombinator.com/item?id=46170402) - [Nook Browser](https://browsewithnook.com)
 * [2025-12-06, 03:21:46](https://news.ycombinator.com/item?id=46170332) - [Albert Michelson's Harmonic Analyzer [pdf]](https://engineerguy.com/fourier/pdfs/albert-michelsons-harmonic-analyzer.pdf)
