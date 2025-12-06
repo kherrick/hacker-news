@@ -4,7 +4,6 @@
 * [2025-12-06, 03:21:46](https://news.ycombinator.com/item?id=46170332) - [Albert Michelson's Harmonic Analyzer (2014) [pdf]](https://engineerguy.com/fourier/pdfs/albert-michelsons-harmonic-analyzer.pdf)
 * [2025-12-06, 03:17:44](https://news.ycombinator.com/item?id=46170309) - [PalmOS on FisherPrice Pixter Toy](https://dmitry.gr/?r=05.Projects&proj=27.%20rePalm#pixter)
 * [2025-12-06, 03:16:35](https://news.ycombinator.com/item?id=46170302) - [Have I been Flocked? – Check if your license plate is being watched](https://haveibeenflocked.com/)
-* [2025-12-06, 02:37:58](https://news.ycombinator.com/item?id=46170060) - [I cracked a $200 software protection with xcopy](https://www.ud2.rip/blog/enigma-protector/)
 * [2025-12-06, 01:15:48](https://news.ycombinator.com/item?id=46169554) - [YouTube caught making AI-edits to videos and adding misleading AI summaries](https://www.ynetnews.com/tech-and-digital/article/bj1qbwcklg)
 * [2025-12-06, 00:38:50](https://news.ycombinator.com/item?id=46169330) - [Extra Instructions Of The 65XX Series CPU (1996)](http://www.ffd2.com/fridge/docs/6502-NMOS.extra.opcodes)
 * [2025-12-06, 00:24:55](https://news.ycombinator.com/item?id=46169224) - [Sam Altman’s DRAM Deal](https://www.mooreslawisdead.com/post/sam-altman-s-dirty-dram-deal)
@@ -30,6 +29,7 @@
 * [2025-12-01, 12:07:33](https://news.ycombinator.com/item?id=46106411) - [Idempotency keys for exactly-once processing](https://www.morling.dev/blog/on-idempotency-keys/)
 * [2025-11-30, 09:11:40](https://news.ycombinator.com/item?id=46095087) - [Self-hosting my photos with Immich](https://michael.stapelberg.ch/posts/2025-11-29-self-hosting-photos-with-immich/)
 * [2025-11-29, 15:49:20](https://news.ycombinator.com/item?id=46088430) - [Guide to making a CHIP-8 emulator (2020)](https://tobiasvl.github.io/blog/write-a-chip-8-emulator/)
+* [2025-11-29, 07:30:30](https://news.ycombinator.com/item?id=46085753) - [How fast can browsers process base64 data?](https://lemire.me/blog/2025/11/29/how-fast-can-browsers-process-base64-data/)
 
 ## [Archives](archives/index.md)
 
