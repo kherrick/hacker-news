@@ -10,6 +10,7 @@
 * [2025-12-06, 17:42:07](https://news.ycombinator.com/item?id=46175112) - [Perl's Decline Was Cultural](https://www.beatworm.co.uk/blog/computers/perls-decline-was-cultural-not-technical)
 * [2025-12-06, 17:13:03](https://news.ycombinator.com/item?id=46174878) - [Show HN: SFX – A language where 0.1 and 0.2 = 0.3 and Context is first-class](https://github.com/roriau0422/sfex-lang)
 * [2025-12-06, 17:01:53](https://news.ycombinator.com/item?id=46174789) - [Infisical (YC W23) Is Hiring Engineers to Build the Modern OSS Security Stack](https://www.ycombinator.com/companies/infisical/jobs/2pwGcK9-senior-full-stack-engineer-us-canada)
+* [2025-12-06, 16:55:13](https://news.ycombinator.com/item?id=46174744) - [Ireland's Inability to Defend Itself](https://www.irishpoliticsnewsletter.ie/p/ireland-neutrality)
 * [2025-12-06, 15:52:04](https://news.ycombinator.com/item?id=46174242) - [Skin-Shedding Code (2024)](https://registerspill.thorstenball.com/p/skin-shedding-code)
 * [2025-12-06, 14:59:52](https://news.ycombinator.com/item?id=46173825) - [HTML as an Accessible Format for Papers](https://info.arxiv.org/about/accessible_HTML.html)
 * [2025-12-06, 14:55:03](https://news.ycombinator.com/item?id=46173785) - [Carlo is no longer maintained](https://github.com/GoogleChromeLabs/carlo)
