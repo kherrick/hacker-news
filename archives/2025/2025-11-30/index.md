@@ -61,6 +61,7 @@
 * [2025-11-30, 09:55:08](https://news.ycombinator.com/item?id=46095313) - [Israel's IDF Bans Android Phones: iPhones Now Mandatory](https://www.forbes.com/sites/zakdoffman/2025/11/30/israels-idf-bans-android-to-stop-hackers-iphones-mandatory/)
 * [2025-11-30, 09:44:15](https://news.ycombinator.com/item?id=46095250) - [The Space of Minds](https://karpathy.bearblog.dev/the-space-of-minds/)
 * [2025-11-30, 09:11:40](https://news.ycombinator.com/item?id=46095087) - [Self-hosting my photos with Immich](https://michael.stapelberg.ch/posts/2025-11-29-self-hosting-photos-with-immich/)
+* [2025-11-30, 08:50:01](https://news.ycombinator.com/item?id=46094989) - [Mapping Amazing: Bee Maps](https://maphappenings.com/2025/11/06/bee-maps/)
 * [2025-11-30, 07:27:25](https://news.ycombinator.com/item?id=46094606) - [Qwen3-VL can scan two-hour videos and pinpoint nearly every detail](https://the-decoder.com/qwen3-vl-can-scan-two-hour-videos-and-pinpoint-nearly-every-detail/)
 * [2025-11-30, 07:24:00](https://news.ycombinator.com/item?id=46094589) - [Aurora: The Linux-based ultimate workstation](https://getaurora.dev/en)
 * [2025-11-30, 07:00:40](https://news.ycombinator.com/item?id=46094478) - [Jiga (YC W21) Is Hiring Product Designer](https://www.ycombinator.com/companies/jiga/jobs/Cco7vyK-product-designer-remote-europe)
