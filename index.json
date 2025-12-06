@@ -1,11 +1,21 @@
 [
   [
     [
+      "2025-12-06, 03:32:56",
+      "https://news.ycombinator.com/item?id=46170402"
+    ],
+    [
+      "Nook Browser",
+      "https://browsewithnook.com"
+    ]
+  ],
+  [
+    [
       "2025-12-06, 03:21:46",
       "https://news.ycombinator.com/item?id=46170332"
     ],
     [
-      "Albert Michelson's Harmonic Analyzer [pdf]",
+      "Albert Michelson's Harmonic Analyzer (2014) [pdf]",
       "https://engineerguy.com/fourier/pdfs/albert-michelsons-harmonic-analyzer.pdf"
     ]
   ],
@@ -15,7 +25,7 @@
       "https://news.ycombinator.com/item?id=46170302"
     ],
     [
-      "Have I Been Flocked? – Check If Your License Plate Is Being Watched",
+      "Have I been Flocked? – Check if your license plate is being watched",
       "https://haveibeenflocked.com/"
     ]
   ],
@@ -41,16 +51,6 @@
   ],
   [
     [
-      "2025-12-06, 01:33:34",
-      "https://news.ycombinator.com/item?id=46169695"
-    ],
-    [
-      "Waymo investigated for ongoing failures to stop for school busses",
-      "https://www.thestreet.com/technology/waymo-investigation-could-stop-autonomous-driving-in-its-tracks"
-    ]
-  ],
-  [
-    [
       "2025-12-06, 01:15:48",
       "https://news.ycombinator.com/item?id=46169554"
     ],
@@ -65,8 +65,18 @@
       "https://news.ycombinator.com/item?id=46169330"
     ],
     [
-      "Extra Instructions of the 65XX Series CPU",
+      "Extra Instructions Of The 65XX Series CPU (1996)",
       "http://www.ffd2.com/fridge/docs/6502-NMOS.extra.opcodes"
+    ]
+  ],
+  [
+    [
+      "2025-12-06, 00:24:55",
+      "https://news.ycombinator.com/item?id=46169224"
+    ],
+    [
+      "Sam Altman’s DRAM Deal",
+      "https://www.mooreslawisdead.com/post/sam-altman-s-dirty-dram-deal"
     ]
   ],
   [
@@ -105,7 +115,7 @@
       "https://news.ycombinator.com/item?id=46167500"
     ],
     [
-      "Perpetual Futures",
+      "Perpetual futures, explained",
       "https://www.bitsaboutmoney.com/archive/perpetual-futures-explained/"
     ]
   ],
@@ -127,16 +137,6 @@
     [
       "Fizz Buzz in CSS",
       "https://susam.net/fizz-buzz-in-css.html"
-    ]
-  ],
-  [
-    [
-      "2025-12-05, 18:29:50",
-      "https://news.ycombinator.com/item?id=46165249"
-    ],
-    [
-      "Why we built Lightpanda in Zig",
-      "https://lightpanda.io/blog/posts/why-we-built-lightpanda-in-zig"
     ]
   ],
   [
@@ -221,6 +221,16 @@
   ],
   [
     [
+      "2025-12-05, 00:09:57",
+      "https://news.ycombinator.com/item?id=46155135"
+    ],
+    [
+      "Netflix’s AV1 Journey: From Android to TVs and Beyond",
+      "https://netflixtechblog.com/av1-now-powering-30-of-netflix-streaming-02f592242d80"
+    ]
+  ],
+  [
+    [
       "2025-12-03, 04:20:44",
       "https://news.ycombinator.com/item?id=46130260"
     ],
@@ -275,7 +285,7 @@
       "https://news.ycombinator.com/item?id=46106411"
     ],
     [
-      "Idempotency Keys for Exactly-Once Processing",
+      "Idempotency keys for exactly-once processing",
       "https://www.morling.dev/blog/on-idempotency-keys/"
     ]
   ],
@@ -287,16 +297,6 @@
     [
       "Self-hosting my photos with Immich",
       "https://michael.stapelberg.ch/posts/2025-11-29-self-hosting-photos-with-immich/"
-    ]
-  ],
-  [
-    [
-      "2025-11-29, 07:30:30",
-      "https://news.ycombinator.com/item?id=46085753"
-    ],
-    [
-      "How fast can browsers process base64 data?",
-      "https://lemire.me/blog/2025/11/29/how-fast-can-browsers-process-base64-data/"
     ]
   ]
 ]
