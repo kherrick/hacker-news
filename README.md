@@ -2,6 +2,7 @@
 
 * [2025-12-06, 03:32:56](https://news.ycombinator.com/item?id=46170402) - [Nook Browser](https://browsewithnook.com)
 * [2025-12-06, 03:21:46](https://news.ycombinator.com/item?id=46170332) - [Albert Michelson's Harmonic Analyzer (2014) [pdf]](https://engineerguy.com/fourier/pdfs/albert-michelsons-harmonic-analyzer.pdf)
+* [2025-12-06, 03:17:44](https://news.ycombinator.com/item?id=46170309) - [PalmOS on FisherPrice Pixter Toy](https://dmitry.gr/?r=05.Projects&proj=27.%20rePalm#pixter)
 * [2025-12-06, 03:16:35](https://news.ycombinator.com/item?id=46170302) - [Have I been Flocked? – Check if your license plate is being watched](https://haveibeenflocked.com/)
 * [2025-12-06, 02:37:58](https://news.ycombinator.com/item?id=46170060) - [I cracked a $200 software protection with xcopy](https://www.ud2.rip/blog/enigma-protector/)
 * [2025-12-06, 02:32:01](https://news.ycombinator.com/item?id=46170027) - [EU hits X with €120M fine for breaching the Digital Services Act](https://www.dw.com/en/eu-imposes-120-million-fine-on-elon-musks-x-for-breaking-digital-rules/a-75033724)
@@ -26,7 +27,6 @@
 * [2025-12-03, 04:20:44](https://news.ycombinator.com/item?id=46130260) - [Show HN: HCB Mobile – financial app built by 17 y/o, processing $6M/month](https://hackclub.com/fiscal-sponsorship/mobile/)
 * [2025-12-02, 23:13:54](https://news.ycombinator.com/item?id=46128238) - [Ivan Sutherland Sketchpad Demo 1963 [video]](https://www.youtube.com/watch?v=6orsmFndx_o)
 * [2025-12-02, 20:28:18](https://news.ycombinator.com/item?id=46126380) - [Frinkiac – 3M \"The Simpsons\" Screencaps](https://frinkiac.com/)
-* [2025-12-02, 14:02:44](https://news.ycombinator.com/item?id=46121251) - [Spectral rendering, part 3: Spectral vs. RGB](https://momentsingraphics.de/SpectralRendering3Results.html)
 * [2025-12-01, 20:14:53](https://news.ycombinator.com/item?id=46112560) - [Tides are weirder than you think](https://signoregalilei.com/2025/11/12/tides-are-weirder-than-you-think/)
 * [2025-12-01, 12:07:33](https://news.ycombinator.com/item?id=46106411) - [Idempotency keys for exactly-once processing](https://www.morling.dev/blog/on-idempotency-keys/)
 * [2025-11-30, 09:11:40](https://news.ycombinator.com/item?id=46095087) - [Self-hosting my photos with Immich](https://michael.stapelberg.ch/posts/2025-11-29-self-hosting-photos-with-immich/)
