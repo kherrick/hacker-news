@@ -38,6 +38,7 @@
 * [2025-11-30, 15:52:41](https://news.ycombinator.com/item?id=46097624) - [Modern cars are spying on you. Here's what you can do about it](https://apnews.com/article/auto-car-privacy-3674ce59c9b30f2861d29178a31e6ab7)
 * [2025-11-30, 15:51:03](https://news.ycombinator.com/item?id=46097609) - [Atlas Shrugged](https://david-jasso.com/2024/04/11/atlas-shrugged/)
 * [2025-11-30, 15:46:36](https://news.ycombinator.com/item?id=46097563) - [Ethiopian Volcano Erupts for First Time in Nearly 12K Years of Records](https://www.smithsonianmag.com/smart-news/ethiopian-volcano-erupts-for-the-first-time-in-nearly-12000-years-of-scientific-records-180987764/)
+* [2025-11-30, 15:04:49](https://news.ycombinator.com/item?id=46097201) - [Traveling Neighborhoods](https://supernuclear.substack.com/p/traveling-neighborhoods)
 * [2025-11-30, 14:52:06](https://news.ycombinator.com/item?id=46097102) - [The Undermining of the CDC](https://www.newyorker.com/magazine/2025/12/08/the-undermining-of-the-cdc)
 * [2025-11-30, 14:29:26](https://news.ycombinator.com/item?id=46096921) - [Geothermal Breakthrough in South Texas Signals New Era for Ercot](https://www.powermag.com/geothermal-breakthrough-in-south-texas-signals-new-era-for-ercot/)
 * [2025-11-30, 14:17:41](https://news.ycombinator.com/item?id=46096841) - [Discovering that my smartphone had infiltrated my life](https://utcc.utoronto.ca/~cks/space/blog/tech/SmartphoneInfiltratedMyLife)
