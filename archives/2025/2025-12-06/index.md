@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-12-06](index.md)
 
+* [2025-12-06, 15:52:04](https://news.ycombinator.com/item?id=46174242) - [Skin-Shedding Code (2024)](https://registerspill.thorstenball.com/p/skin-shedding-code)
 * [2025-12-06, 14:59:52](https://news.ycombinator.com/item?id=46173825) - [HTML as an Accessible Format for Papers](https://info.arxiv.org/about/accessible_HTML.html)
 * [2025-12-06, 14:55:03](https://news.ycombinator.com/item?id=46173785) - [Carlo is no longer maintained](https://github.com/GoogleChromeLabs/carlo)
 * [2025-12-06, 14:40:51](https://news.ycombinator.com/item?id=46173697) - [Kidney Recipient Dies After Transplant from Organ Donor Who Had Rabies](https://www.nytimes.com/2025/12/06/health/rabies-death-skunk-kidney-transplant.html)
@@ -11,6 +12,7 @@
 * [2025-12-06, 14:24:21](https://news.ycombinator.com/item?id=46173584) - [Resolution Dynamics: Deriving the Fine Structure Constant from Shannon Capacity](https://zenodo.org/records/17821936)
 * [2025-12-06, 14:19:28](https://news.ycombinator.com/item?id=46173554) - [Why \"all-in-one\" productivity tools confuse new users](https://news.ycombinator.com/item?id=46173554)
 * [2025-12-06, 14:18:42](https://news.ycombinator.com/item?id=46173547) - [Tiny Core Linux: a 23 MB Linux distro with graphical desktop](http://www.tinycorelinux.net/)
+* [2025-12-06, 13:58:31](https://news.ycombinator.com/item?id=46173407) - [GrapheneOS is the only Android OS providing full security patches](https://grapheneos.social/@GrapheneOS/115647408229616018)
 * [2025-12-06, 13:54:59](https://news.ycombinator.com/item?id=46173383) - [How I discovered a hidden microphone on a Chinese NanoKVM](https://telefoncek.si/2025/02/2025-02-10-hidden-microphone-on-nanokvm/)
 * [2025-12-06, 12:46:42](https://news.ycombinator.com/item?id=46172902) - [Why Speed Matters](https://lemire.me/blog/2025/12/05/why-speed-matters/)
 * [2025-12-06, 12:29:28](https://news.ycombinator.com/item?id=46172797) - [Touching the Elephant – TPUs](https://considerthebulldog.com/tte-tpu/)
