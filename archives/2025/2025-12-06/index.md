@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2025-12-06](index.md)
 
+* [2025-12-06, 21:55:08](https://news.ycombinator.com/item?id=46176904) - [Copy-Item is 27% slower than File Explorer](https://til.andrew-quinn.me/posts/copy-item-is-27-percent-slower-than-file-explorer-drag-and-drop-on-windows/)
 * [2025-12-06, 21:33:03](https://news.ycombinator.com/item?id=46176766) - [Coffee link to slower biological aging in those w mental illness–to point](https://www.kcl.ac.uk/news/coffee-linked-to-slower-biological-ageing-among-those-with-severe-mental-illness-up-to-a-limit)
+* [2025-12-06, 20:56:38](https://news.ycombinator.com/item?id=46176533) - [Show HN: Tascli, a command line based (human) task and record manager](https://github.com/Aperocky/tascli)
+* [2025-12-06, 20:23:56](https://news.ycombinator.com/item?id=46176327) - [Show HN: TapeHead – A CLI tool for stateful random access of file streams](https://github.com/emamoah/tapehead)
 * [2025-12-06, 20:15:54](https://news.ycombinator.com/item?id=46176289) - [Zebra-Llama: Towards Efficient Hybrid Models](https://arxiv.org/abs/2505.17272)
 * [2025-12-06, 20:00:17](https://news.ycombinator.com/item?id=46176169) - [CATL Expects Oceanic Electric Ships in 3 Years](https://cleantechnica.com/2025/12/05/catl-expects-oceanic-electric-ships-in-3-years/)
 * [2025-12-06, 19:47:13](https://news.ycombinator.com/item?id=46176072) - [The general who refused to crush Tiananmen's protesters](https://www.economist.com/china/2025/12/04/the-general-who-refused-to-crush-tiananmens-protesters)
