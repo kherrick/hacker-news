@@ -101,16 +101,6 @@
   ],
   [
     [
-      "2025-12-06, 07:21:42",
-      "https://news.ycombinator.com/item?id=46171394"
-    ],
-    [
-      "Wolfram Compute Services",
-      "https://writings.stephenwolfram.com/2025/12/instant-supercompute-launching-wolfram-compute-services/"
-    ]
-  ],
-  [
-    [
       "2025-12-06, 03:17:44",
       "https://news.ycombinator.com/item?id=46170309"
     ],
@@ -137,6 +127,16 @@
     [
       "Leaving Intel",
       "https://www.brendangregg.com/blog//2025-12-05/leaving-intel.html"
+    ]
+  ],
+  [
+    [
+      "2025-12-05, 16:34:25",
+      "https://news.ycombinator.com/item?id=46163609"
+    ],
+    [
+      "Patterns for Defensive Programming in Rust",
+      "https://corrode.dev/blog/defensive-programming/"
     ]
   ],
   [
