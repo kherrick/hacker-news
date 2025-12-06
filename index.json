@@ -1,22 +1,22 @@
 [
   [
     [
+      "2025-12-06, 17:01:53",
+      "https://news.ycombinator.com/item?id=46174789"
+    ],
+    [
+      "Infisical (YC W23) Is Hiring Engineers to Build the Modern OSS Security Stack",
+      "https://www.ycombinator.com/companies/infisical/jobs/2pwGcK9-senior-full-stack-engineer-us-canada"
+    ]
+  ],
+  [
+    [
       "2025-12-06, 14:59:52",
       "https://news.ycombinator.com/item?id=46173825"
     ],
     [
       "HTML as an Accessible Format for Papers",
       "https://info.arxiv.org/about/accessible_HTML.html"
-    ]
-  ],
-  [
-    [
-      "2025-12-06, 14:55:03",
-      "https://news.ycombinator.com/item?id=46173785"
-    ],
-    [
-      "Carlo is no longer maintained",
-      "https://github.com/GoogleChromeLabs/carlo"
     ]
   ],
   [
@@ -97,16 +97,6 @@
     [
       "Wolfram Compute Services",
       "https://writings.stephenwolfram.com/2025/12/instant-supercompute-launching-wolfram-compute-services/"
-    ]
-  ],
-  [
-    [
-      "2025-12-06, 07:00:14",
-      "https://news.ycombinator.com/item?id=46171311"
-    ],
-    [
-      "Infracost (YC W21) is hiring Sr Node Eng to make $600B/yr cloud spend proactive",
-      "https://www.ycombinator.com/companies/infracost/jobs/Sr9rmHs-senior-product-engineer-node-js"
     ]
   ],
   [
@@ -267,6 +257,16 @@
     [
       "Making tiny 0.1cc two stroke engine from scratch",
       "https://youtu.be/nKVq9u52A-c?si=KVY6AK7tsudqnbJN"
+    ]
+  ],
+  [
+    [
+      "2025-11-30, 11:36:34",
+      "https://news.ycombinator.com/item?id=46095817"
+    ],
+    [
+      "Z-Image: Powerful and highly efficient image generation model with 6B parameters",
+      "https://github.com/Tongyi-MAI/Z-Image"
     ]
   ],
   [
