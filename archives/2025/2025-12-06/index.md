@@ -4,9 +4,12 @@
 
 ### [Archives](../../index.md) for [2025-12-06](index.md)
 
+* [2025-12-06, 03:21:46](https://news.ycombinator.com/item?id=46170332) - [Albert Michelson's Harmonic Analyzer [pdf]](https://engineerguy.com/fourier/pdfs/albert-michelsons-harmonic-analyzer.pdf)
+* [2025-12-06, 03:16:35](https://news.ycombinator.com/item?id=46170302) - [Have I Been Flocked? – Check If Your License Plate Is Being Watched](https://haveibeenflocked.com/)
 * [2025-12-06, 02:37:58](https://news.ycombinator.com/item?id=46170060) - [I cracked a $200 software protection with xcopy](https://www.ud2.rip/blog/enigma-protector/)
 * [2025-12-06, 02:32:01](https://news.ycombinator.com/item?id=46170027) - [EU hits X with €120M fine for breaching the Digital Services Act](https://www.dw.com/en/eu-imposes-120-million-fine-on-elon-musks-x-for-breaking-digital-rules/a-75033724)
 * [2025-12-06, 01:33:34](https://news.ycombinator.com/item?id=46169695) - [Waymo investigated for ongoing failures to stop for school busses](https://www.thestreet.com/technology/waymo-investigation-could-stop-autonomous-driving-in-its-tracks)
+* [2025-12-06, 01:15:48](https://news.ycombinator.com/item?id=46169554) - [YouTube caught making AI-edits to videos and adding misleading AI summaries](https://www.ynetnews.com/tech-and-digital/article/bj1qbwcklg)
 * [2025-12-06, 01:15:48](https://news.ycombinator.com/item?id=46169554) - [YouTube caught making AI-edits to videos and adding misleading AI summaries](https://social.growyourown.services/@FediTips/115668457530054406)
 * [2025-12-06, 00:41:42](https://news.ycombinator.com/item?id=46169355) - [From Rockets to Heat Pumps](https://www.heatpumped.org/p/from-rockets-to-heat-pumps)
 * [2025-12-06, 00:38:50](https://news.ycombinator.com/item?id=46169330) - [Extra Instructions of the 65XX Series CPU](http://www.ffd2.com/fridge/docs/6502-NMOS.extra.opcodes)

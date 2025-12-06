@@ -45,6 +45,7 @@
 * [2025-12-02, 14:54:49](https://news.ycombinator.com/item?id=46121799) - [Nixtml: Static website and blog generator written in Nix](https://github.com/arnarg/nixtml)
 * [2025-12-02, 14:37:55](https://news.ycombinator.com/item?id=46121619) - [What Is \"Open Recursion\"?](https://journal.stuffwithstuff.com/2013/08/26/what-is-open-recursion/)
 * [2025-12-02, 14:31:16](https://news.ycombinator.com/item?id=46121539) - [Zig's new plan for asynchronous programs](https://lwn.net/SubscriberLink/1046084/4c048ee008e1c70e/)
+* [2025-12-02, 14:02:44](https://news.ycombinator.com/item?id=46121251) - [Spectral rendering, part 3: Spectral vs. RGB](https://momentsingraphics.de/SpectralRendering3Results.html)
 * [2025-12-02, 14:01:05](https://news.ycombinator.com/item?id=46121243) - [Proximity to coworkers increases long-run development, lowers short-term output](https://pallais.scholars.harvard.edu/publications/power-proximity-coworkers-training-tomorrow-or-productivity-today)
 * [2025-12-02, 12:54:56](https://news.ycombinator.com/item?id=46120728) - [Gary Tan claims Zoho will be out of business due to vibe coding](https://twitter.com/garrytan/status/1995664097007091818)
 * [2025-12-02, 12:38:28](https://news.ycombinator.com/item?id=46120611) - [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
