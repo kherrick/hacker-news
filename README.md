@@ -13,7 +13,6 @@
 * [2025-12-05, 21:23:03](https://news.ycombinator.com/item?id=46167500) - [Perpetual futures, explained](https://www.bitsaboutmoney.com/archive/perpetual-futures-explained/)
 * [2025-12-05, 21:09:11](https://news.ycombinator.com/item?id=46167349) - [The missing standard library for multithreading in JavaScript](https://github.com/W4G1/multithreading)
 * [2025-12-05, 20:18:22](https://news.ycombinator.com/item?id=46166708) - [Fizz Buzz in CSS](https://susam.net/fizz-buzz-in-css.html)
-* [2025-12-05, 17:00:10](https://news.ycombinator.com/item?id=46163977) - [Onlook (YC W25) the Cursor for Designers Is Hiring a Founding Fullstack Engineer](https://news.ycombinator.com/item?id=46163977)
 * [2025-12-05, 16:34:25](https://news.ycombinator.com/item?id=46163609) - [Patterns for Defensive Programming in Rust](https://corrode.dev/blog/defensive-programming/)
 * [2025-12-05, 16:15:10](https://news.ycombinator.com/item?id=46163308) - [Gemini 3 Pro: the frontier of vision AI](https://blog.google/technology/developers/gemini-3-pro-vision/)
 * [2025-12-05, 16:04:20](https://news.ycombinator.com/item?id=46163121) - [I'm Peter Roberts, immigration attorney who does work for YC and startups. AMA](https://news.ycombinator.com/item?id=46163121)
@@ -30,6 +29,7 @@
 * [2025-11-30, 17:34:46](https://news.ycombinator.com/item?id=46098655) - [Making tiny 0.1cc two stroke engine from scratch](https://youtu.be/nKVq9u52A-c?si=KVY6AK7tsudqnbJN)
 * [2025-11-30, 09:11:40](https://news.ycombinator.com/item?id=46095087) - [Self-hosting my photos with Immich](https://michael.stapelberg.ch/posts/2025-11-29-self-hosting-photos-with-immich/)
 * [2025-11-29, 15:49:20](https://news.ycombinator.com/item?id=46088430) - [Guide to making a CHIP-8 emulator (2020)](https://tobiasvl.github.io/blog/write-a-chip-8-emulator/)
+* [2025-11-29, 07:30:30](https://news.ycombinator.com/item?id=46085753) - [How fast can browsers process base64 data?](https://lemire.me/blog/2025/11/29/how-fast-can-browsers-process-base64-data/)
 
 ## [Archives](archives/index.md)
 
