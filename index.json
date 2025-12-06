@@ -131,16 +131,6 @@
   ],
   [
     [
-      "2025-12-05, 17:00:10",
-      "https://news.ycombinator.com/item?id=46163977"
-    ],
-    [
-      "Onlook (YC W25) the Cursor for Designers Is Hiring a Founding Fullstack Engineer",
-      "https://news.ycombinator.com/item?id=46163977"
-    ]
-  ],
-  [
-    [
       "2025-12-05, 16:34:25",
       "https://news.ycombinator.com/item?id=46163609"
     ],
@@ -297,6 +287,16 @@
     [
       "Guide to making a CHIP-8 emulator (2020)",
       "https://tobiasvl.github.io/blog/write-a-chip-8-emulator/"
+    ]
+  ],
+  [
+    [
+      "2025-11-29, 07:30:30",
+      "https://news.ycombinator.com/item?id=46085753"
+    ],
+    [
+      "How fast can browsers process base64 data?",
+      "https://lemire.me/blog/2025/11/29/how-fast-can-browsers-process-base64-data/"
     ]
   ]
 ]
