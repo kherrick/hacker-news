@@ -35,6 +35,7 @@
 * [2025-11-28, 17:30:41](https://news.ycombinator.com/item?id=46080737) - [Show HN: An LLM-Powered Tool to Catch PCB Schematic Mistakes](https://netlist.io/)
 * [2025-11-28, 17:16:52](https://news.ycombinator.com/item?id=46080597) - [Anti-patterns while working with LLMs](https://instavm.io/blog/llm-anti-patterns)
 * [2025-11-28, 17:15:20](https://news.ycombinator.com/item?id=46080579) - [C++ Web Server on my custom hobby OS](https://oshub.org/projects/retros-32/posts/getting-a-webserver-running)
+* [2025-11-28, 17:07:48](https://news.ycombinator.com/item?id=46080498) - [The Unexpected Effectiveness of One-Shot Decompilation with Claude](https://blog.chrislewis.au/the-unexpected-effectiveness-of-one-shot-decompilation-with-claude/)
 * [2025-11-28, 17:05:31](https://news.ycombinator.com/item?id=46080473) - [Bringing Sexy Back. Internet surveillance has killed eroticism](https://lux-magazine.com/article/privacy-eroticism/)
 * [2025-11-28, 17:00:46](https://news.ycombinator.com/item?id=46080424) - [Apple and Intel Rumored to Partner on Mac Chips](https://www.macrumors.com/2025/11/28/intel-rumored-to-supply-new-mac-chip/)
 * [2025-11-28, 16:56:19](https://news.ycombinator.com/item?id=46080381) - [200 Lines of Python beats $50M supercomputer – Navier-Stokes at Re=10⁸ [pdf]](https://philpapers.org/archive/CAMIIA-3.pdf)

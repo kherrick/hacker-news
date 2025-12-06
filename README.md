@@ -25,11 +25,11 @@
 * [2025-12-02, 17:09:44](https://news.ycombinator.com/item?id=46123518) - [PC-Man and the spark of childhood wonder](https://intotheverticalblank.com/2025/12/02/interview-greg-kuperberg/)
 * [2025-12-02, 12:59:55](https://news.ycombinator.com/item?id=46120764) - [The Absent Silence (2010)](https://www.ursulakleguin.com/blog/3-the-absent-silence)
 * [2025-12-01, 22:15:53](https://news.ycombinator.com/item?id=46114064) - [Divine D native Linux open-source mobile system – Rev. 1.1 Hardware Architecture](https://docs.dawndrums.tn/blog/dd-rev1.1-arch/)
-* [2025-12-01, 20:14:53](https://news.ycombinator.com/item?id=46112560) - [Tides are weirder than you think](https://signoregalilei.com/2025/11/12/tides-are-weirder-than-you-think/)
 * [2025-12-01, 12:07:33](https://news.ycombinator.com/item?id=46106411) - [Idempotency keys for exactly-once processing](https://www.morling.dev/blog/on-idempotency-keys/)
 * [2025-11-30, 17:34:46](https://news.ycombinator.com/item?id=46098655) - [Making tiny 0.1cc two stroke engine from scratch](https://youtu.be/nKVq9u52A-c?si=KVY6AK7tsudqnbJN)
 * [2025-11-30, 09:11:40](https://news.ycombinator.com/item?id=46095087) - [Self-hosting my photos with Immich](https://michael.stapelberg.ch/posts/2025-11-29-self-hosting-photos-with-immich/)
 * [2025-11-29, 15:49:20](https://news.ycombinator.com/item?id=46088430) - [Guide to making a CHIP-8 emulator (2020)](https://tobiasvl.github.io/blog/write-a-chip-8-emulator/)
+* [2025-11-28, 17:07:48](https://news.ycombinator.com/item?id=46080498) - [The Unexpected Effectiveness of One-Shot Decompilation with Claude](https://blog.chrislewis.au/the-unexpected-effectiveness-of-one-shot-decompilation-with-claude/)
 
 ## [Archives](archives/index.md)
 
