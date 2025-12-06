@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-12-06, 15:52:04](https://news.ycombinator.com/item?id=46174242) - [Skin-Shedding Code (2024)](https://registerspill.thorstenball.com/p/skin-shedding-code)
 * [2025-12-06, 14:59:52](https://news.ycombinator.com/item?id=46173825) - [HTML as an Accessible Format for Papers](https://info.arxiv.org/about/accessible_HTML.html)
 * [2025-12-06, 14:55:03](https://news.ycombinator.com/item?id=46173785) - [Carlo is no longer maintained](https://github.com/GoogleChromeLabs/carlo)
 * [2025-12-06, 14:18:42](https://news.ycombinator.com/item?id=46173547) - [Tiny Core Linux: a 23 MB Linux distro with graphical desktop](http://www.tinycorelinux.net/)
@@ -15,6 +14,7 @@
 * [2025-12-06, 03:17:44](https://news.ycombinator.com/item?id=46170309) - [PalmOS on FisherPrice Pixter Toy](https://dmitry.gr/?r=05.Projects&proj=27.%20rePalm#pixter)
 * [2025-12-06, 03:16:35](https://news.ycombinator.com/item?id=46170302) - [Have I been Flocked? – Check if your license plate is being watched](https://haveibeenflocked.com/)
 * [2025-12-05, 21:27:04](https://news.ycombinator.com/item?id=46167552) - [Leaving Intel](https://www.brendangregg.com/blog//2025-12-05/leaving-intel.html)
+* [2025-12-05, 21:09:11](https://news.ycombinator.com/item?id=46167349) - [The missing standard library for multithreading in JavaScript](https://github.com/W4G1/multithreading)
 * [2025-12-05, 16:34:25](https://news.ycombinator.com/item?id=46163609) - [Patterns for Defensive Programming in Rust](https://corrode.dev/blog/defensive-programming/)
 * [2025-12-05, 16:15:10](https://news.ycombinator.com/item?id=46163308) - [Gemini 3 Pro: the frontier of vision AI](https://blog.google/technology/developers/gemini-3-pro-vision/)
 * [2025-12-05, 15:35:43](https://news.ycombinator.com/item?id=46162656) - [Cloudflare outage on December 5, 2025](https://blog.cloudflare.com/5-december-2025-outage/)
