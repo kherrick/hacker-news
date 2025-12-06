@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-12-06](index.md)
 
+* [2025-12-06, 09:28:59](https://news.ycombinator.com/item?id=46171921) - [Ask HN: How many people got VPNs in response to laws like UK Online Safety Act?](https://news.ycombinator.com/item?id=46171921)
 * [2025-12-06, 07:31:07](https://news.ycombinator.com/item?id=46171425) - [Schizophrenia sufferer mistakes smart fridge ad for psychotic episode](https://old.reddit.com/r/LegalAdviceUK/comments/1pc7999/my_schizophrenic_sister_hospitalised_herself/)
 * [2025-12-06, 07:21:42](https://news.ycombinator.com/item?id=46171394) - [Wolfram Compute Services](https://writings.stephenwolfram.com/2025/12/instant-supercompute-launching-wolfram-compute-services/)
 * [2025-12-06, 07:19:03](https://news.ycombinator.com/item?id=46171381) - [Wine 11.0 RC1 – Run Windows Applications on Linux, BSD, Solaris and macOS](https://gitlab.winehq.org/wine/wine/-/releases/wine-11.0-rc1)

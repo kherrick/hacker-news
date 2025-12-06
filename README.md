@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-12-06, 09:28:59](https://news.ycombinator.com/item?id=46171921) - [Ask HN: How many people got VPNs in response to laws like UK Online Safety Act?](https://news.ycombinator.com/item?id=46171921)
 * [2025-12-06, 07:31:07](https://news.ycombinator.com/item?id=46171425) - [Schizophrenia sufferer mistakes smart fridge ad for psychotic episode](https://old.reddit.com/r/LegalAdviceUK/comments/1pc7999/my_schizophrenic_sister_hospitalised_herself/)
 * [2025-12-06, 07:21:42](https://news.ycombinator.com/item?id=46171394) - [Wolfram Compute Services](https://writings.stephenwolfram.com/2025/12/instant-supercompute-launching-wolfram-compute-services/)
 * [2025-12-06, 07:00:14](https://news.ycombinator.com/item?id=46171311) - [Infracost (YC W21) is hiring Sr Node Eng to make $600B/yr cloud spend proactive](https://www.ycombinator.com/companies/infracost/jobs/Sr9rmHs-senior-product-engineer-node-js)
@@ -16,7 +17,6 @@
 * [2025-12-05, 16:15:10](https://news.ycombinator.com/item?id=46163308) - [Gemini 3 Pro: the frontier of vision AI](https://blog.google/technology/developers/gemini-3-pro-vision/)
 * [2025-12-05, 16:04:20](https://news.ycombinator.com/item?id=46163121) - [I'm Peter Roberts, immigration attorney who does work for YC and startups. AMA](https://news.ycombinator.com/item?id=46163121)
 * [2025-12-05, 15:35:43](https://news.ycombinator.com/item?id=46162656) - [Cloudflare outage on December 5, 2025](https://blog.cloudflare.com/5-december-2025-outage/)
-* [2025-12-05, 13:00:28](https://news.ycombinator.com/item?id=46160698) - [Making RSS More Fun](https://matduggan.com/making-rss-more-fun/)
 * [2025-12-05, 12:21:19](https://news.ycombinator.com/item?id=46160315) - [Netflix to Acquire Warner Bros](https://about.netflix.com/en/news/netflix-to-acquire-warner-bros)
 * [2025-12-05, 00:09:57](https://news.ycombinator.com/item?id=46155135) - [Netflix’s AV1 Journey: From Android to TVs and Beyond](https://netflixtechblog.com/av1-now-powering-30-of-netflix-streaming-02f592242d80)
 * [2025-12-03, 16:02:29](https://news.ycombinator.com/item?id=46136059) - [Guy Built a Compact Camera Using an Optical Mouse](https://petapixel.com/2025/11/13/this-guy-built-a-compact-camera-using-an-optical-mouse/)
