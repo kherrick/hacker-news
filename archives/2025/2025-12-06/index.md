@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-12-06](index.md)
 
+* [2025-12-06, 19:47:13](https://news.ycombinator.com/item?id=46176072) - [The general who refused to crush Tiananmen's protesters](https://www.economist.com/china/2025/12/04/the-general-who-refused-to-crush-tiananmens-protesters)
 * [2025-12-06, 19:14:35](https://news.ycombinator.com/item?id=46175826) - [OMSCS Open Courseware](https://sites.gatech.edu/omscsopencourseware/)
 * [2025-12-06, 18:32:07](https://news.ycombinator.com/item?id=46175481) - [Fefe is back](http://blog.fefe.de/)
 * [2025-12-06, 17:42:07](https://news.ycombinator.com/item?id=46175112) - [Perl's Decline Was Cultural](https://www.beatworm.co.uk/blog/computers/perls-decline-was-cultural-not-technical)
