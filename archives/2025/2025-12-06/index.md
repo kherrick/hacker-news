@@ -20,6 +20,7 @@
 * [2025-12-06, 19:47:13](https://news.ycombinator.com/item?id=46176072) - [The general who refused to crush Tiananmen's protesters](https://www.economist.com/china/2025/12/04/the-general-who-refused-to-crush-tiananmens-protesters)
 * [2025-12-06, 19:19:44](https://news.ycombinator.com/item?id=46175871) - [Germany votes to bring in voluntary military service programme for 18-year-olds](https://www.bbc.com/news/articles/ckg9drg8pg1o)
 * [2025-12-06, 19:14:35](https://news.ycombinator.com/item?id=46175826) - [OMSCS Open Courseware](https://sites.gatech.edu/omscsopencourseware/)
+* [2025-12-06, 18:53:57](https://news.ycombinator.com/item?id=46175662) - [Running Claude Code in a loop to mirror human development practices](https://anandchowdhary.com/blog/2025/running-claude-code-in-a-loop)
 * [2025-12-06, 18:32:07](https://news.ycombinator.com/item?id=46175481) - [Fefe is back](http://blog.fefe.de/)
 * [2025-12-06, 17:42:07](https://news.ycombinator.com/item?id=46175112) - [Perl's Decline Was Cultural](https://www.beatworm.co.uk/blog/computers/perls-decline-was-cultural-not-technical)
 * [2025-12-06, 17:13:03](https://news.ycombinator.com/item?id=46174878) - [Show HN: SFX – A language where 0.1 and 0.2 = 0.3 and Context is first-class](https://github.com/roriau0422/sfex-lang)
