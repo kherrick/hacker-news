@@ -129,6 +129,125 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
+        <section id="46175112">
+          <h3>
+            <a
+              class="item"
+              href="https://www.beatworm.co.uk/blog/computers/perls-decline-was-cultural-not-technical"
+              >Perl's Decline Was Cultural</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2025-12-06 @ 17:42:07</span
+              ><span class="points-container"
+                >Points: <span class="points">63</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=46175112"
+                  >Comments</a
+                ><span class="descendants">: 50</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="46174878">
+          <h3>
+            <a class="item" href="https://github.com/roriau0422/sfex-lang"
+              >Show HN: SFX – A language where 0.1 and 0.2 = 0.3 and Context is
+              first-class</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2025-12-06 @ 17:13:03</span
+              ><span class="points-container"
+                >Points: <span class="points">11</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=46174878"
+                  >Comments</a
+                ><span class="descendants">: 3</span></span
+              >
+            </h4>
+            <div class="text">
+              <p>Reality check first:</p>
+              <p>Solo project, 53 commits</p>
+              <p>1 GitHub star xD</p>
+              <p>Zero users besides me</p>
+              <p>No production usage</p>
+              <p>Documentation is aspirational</p>
+              <p>Many stdlib modules are minimal stubs</p>
+              <p>What actually works:</p>
+              <p>Basic interpreter (tree-walker)</p>
+              <p>Arbitrary precision decimals (0.1 + 0.2 = 0.3)</p>
+              <p>1-based indexing (controversial, I know)</p>
+              <p>Context/Situation system (the main idea)</p>
+              <p>Some file I/O and basic networking</p>
+              <p>JIT hooks exist but optimization is minimal</p>
+              <p>The Context idea (asking for feedback on this):</p>
+              <p>
+                Instead of checking if (user.isAdmin) everywhere, you define
+                Situation: AdminMode that overrides methods:
+              </p>
+              <p></p>
+              <pre><code>  Concept: User
+      To GetPermissions:
+          Return "read"
+  
+  Situation: AdminMode
+      Adjust User:
+          To GetPermissions:
+              Return "admin,write,delete"
+  
+  Story:
+      Create User Called Bob
+      Switch on AdminMode
+      Print Bob.GetPermissions  # Now returns "admin,write,delete"
+</code></pre>
+              Objects change behavior based on active situations without
+              mutating state. Is this useful or just overengineered?
+              <p>What's NOT ready:</p>
+              <p>Performance is terrible (haven't optimized anything)</p>
+              <p>Standard lib is mostly TODOs</p>
+              <p>AI features are vaporware</p>
+              <p>REPL doesn't exist</p>
+              <p>No tooling (LSP, debugger, etc.)</p>
+              <p>Tests exist but coverage is poor</p>
+              <p>My questions:</p>
+              <p>
+                Is context-oriented programming solving a real problem or
+                creating busywork?
+              </p>
+              <p>
+                Should I focus on making it fast OR making the stdlib useful?
+              </p>
+              <p>Is 1-based indexing a dealbreaker for you?</p>
+              <p>
+                Would arbitrary precision by default bother you for a
+                general-purpose language?
+              </p>
+              <p>
+                I'm not trying to replace anything. This is a learning project
+                that got out of hand.
+              </p>
+              <p>
+                Repo:
+                <a href="https://github.com/roriau0422/sfex-lang"
+                  >https://github.com/roriau0422/sfex-lang</a
+                >
+              </p>
+              <p>
+                Pages:
+                <a href="https://roriau0422.github.io/sfex-lang/"
+                  >https://roriau0422.github.io/sfex-lang/</a
+                >
+              </p>
+              <p>
+                Honest feedback wanted - including "this is pointless, stop
+                wasting time."
+              </p>
+            </div>
+          </section>
+        </section>
         <section id="46174789">
           <h3>
             <a
@@ -159,11 +278,11 @@
             <h4>
               <span>2025-12-06 @ 14:59:52</span
               ><span class="points-container"
-                >Points: <span class="points">99</span></span
+                >Points: <span class="points">107</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46173825"
                   >Comments</a
-                ><span class="descendants">: 51</span></span
+                ><span class="descendants">: 61</span></span
               >
             </h4>
           </section>
@@ -178,11 +297,11 @@
             <h4>
               <span>2025-12-06 @ 14:18:42</span
               ><span class="points-container"
-                >Points: <span class="points">187</span></span
+                >Points: <span class="points">200</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46173547"
                   >Comments</a
-                ><span class="descendants">: 95</span></span
+                ><span class="descendants">: 101</span></span
               >
             </h4>
           </section>
@@ -200,11 +319,11 @@
             <h4>
               <span>2025-12-06 @ 13:58:31</span
               ><span class="points-container"
-                >Points: <span class="points">133</span></span
+                >Points: <span class="points">162</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46173407"
                   >Comments</a
-                ><span class="descendants">: 33</span></span
+                ><span class="descendants">: 44</span></span
               >
             </h4>
           </section>
@@ -221,11 +340,11 @@
             <h4>
               <span>2025-12-06 @ 13:54:59</span
               ><span class="points-container"
-                >Points: <span class="points">198</span></span
+                >Points: <span class="points">221</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46173383"
                   >Comments</a
-                ><span class="descendants">: 55</span></span
+                ><span class="descendants">: 56</span></span
               >
             </h4>
           </section>
@@ -242,11 +361,11 @@
             <h4>
               <span>2025-12-06 @ 12:46:42</span
               ><span class="points-container"
-                >Points: <span class="points">90</span></span
+                >Points: <span class="points">95</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46172902"
                   >Comments</a
-                ><span class="descendants">: 30</span></span
+                ><span class="descendants">: 34</span></span
               >
             </h4>
           </section>
@@ -261,11 +380,11 @@
             <h4>
               <span>2025-12-06 @ 12:29:28</span
               ><span class="points-container"
-                >Points: <span class="points">76</span></span
+                >Points: <span class="points">85</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46172797"
                   >Comments</a
-                ><span class="descendants">: 22</span></span
+                ><span class="descendants">: 24</span></span
               >
             </h4>
           </section>
@@ -280,11 +399,11 @@
             <h4>
               <span>2025-12-06 @ 10:20:19</span
               ><span class="points-container"
-                >Points: <span class="points">103</span></span
+                >Points: <span class="points">106</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46172167"
                   >Comments</a
-                ><span class="descendants">: 13</span></span
+                ><span class="descendants">: 14</span></span
               >
             </h4>
           </section>
@@ -302,11 +421,11 @@
             <h4>
               <span>2025-12-06 @ 07:31:07</span
               ><span class="points-container"
-                >Points: <span class="points">364</span></span
+                >Points: <span class="points">386</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46171425"
                   >Comments</a
-                ><span class="descendants">: 316</span></span
+                ><span class="descendants">: 345</span></span
               >
             </h4>
           </section>
@@ -323,7 +442,7 @@
             <h4>
               <span>2025-12-06 @ 07:21:42</span
               ><span class="points-container"
-                >Points: <span class="points">203</span></span
+                >Points: <span class="points">205</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46171394"
                   >Comments</a
@@ -344,11 +463,11 @@
             <h4>
               <span>2025-12-06 @ 03:17:44</span
               ><span class="points-container"
-                >Points: <span class="points">156</span></span
+                >Points: <span class="points">157</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46170309"
                   >Comments</a
-                ><span class="descendants">: 20</span></span
+                ><span class="descendants">: 23</span></span
               >
             </h4>
           </section>
@@ -364,11 +483,11 @@
             <h4>
               <span>2025-12-06 @ 03:16:35</span
               ><span class="points-container"
-                >Points: <span class="points">267</span></span
+                >Points: <span class="points">268</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46170302"
                   >Comments</a
-                ><span class="descendants">: 178</span></span
+                ><span class="descendants">: 188</span></span
               >
             </h4>
           </section>
@@ -385,30 +504,11 @@
             <h4>
               <span>2025-12-05 @ 21:27:04</span
               ><span class="points-container"
-                >Points: <span class="points">308</span></span
+                >Points: <span class="points">310</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46167552"
                   >Comments</a
-                ><span class="descendants">: 174</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="46167349">
-          <h3>
-            <a class="item" href="https://github.com/W4G1/multithreading"
-              >The missing standard library for multithreading in JavaScript</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2025-12-05 @ 21:09:11</span
-              ><span class="points-container"
-                >Points: <span class="points">120</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=46167349"
-                  >Comments</a
-                ><span class="descendants">: 31</span></span
+                ><span class="descendants">: 176</span></span
               >
             </h4>
           </section>
@@ -425,11 +525,11 @@
             <h4>
               <span>2025-12-05 @ 16:34:25</span
               ><span class="points-container"
-                >Points: <span class="points">306</span></span
+                >Points: <span class="points">307</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46163609"
                   >Comments</a
-                ><span class="descendants">: 79</span></span
+                ><span class="descendants">: 83</span></span
               >
             </h4>
           </section>
@@ -446,7 +546,7 @@
             <h4>
               <span>2025-12-05 @ 16:15:10</span
               ><span class="points-container"
-                >Points: <span class="points">516</span></span
+                >Points: <span class="points">521</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46163308"
                   >Comments</a
@@ -467,11 +567,11 @@
             <h4>
               <span>2025-12-05 @ 15:35:43</span
               ><span class="points-container"
-                >Points: <span class="points">732</span></span
+                >Points: <span class="points">733</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46162656"
                   >Comments</a
-                ><span class="descendants">: 532</span></span
+                ><span class="descendants">: 537</span></span
               >
             </h4>
           </section>
@@ -488,11 +588,11 @@
             <h4>
               <span>2025-12-05 @ 12:21:19</span
               ><span class="points-container"
-                >Points: <span class="points">1640</span></span
+                >Points: <span class="points">1643</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46160315"
                   >Comments</a
-                ><span class="descendants">: 1245</span></span
+                ><span class="descendants">: 1249</span></span
               >
             </h4>
           </section>
@@ -509,7 +609,7 @@
             <h4>
               <span>2025-12-05 @ 00:09:57</span
               ><span class="points-container"
-                >Points: <span class="points">522</span></span
+                >Points: <span class="points">523</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46155135"
                   >Comments</a
@@ -530,30 +630,11 @@
             <h4>
               <span>2025-12-03 @ 16:02:29</span
               ><span class="points-container"
-                >Points: <span class="points">193</span></span
+                >Points: <span class="points">200</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46136059"
                   >Comments</a
-                ><span class="descendants">: 33</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="46126380">
-          <h3>
-            <a class="item" href="https://frinkiac.com/"
-              >Frinkiac – 3M "The Simpsons" Screencaps</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2025-12-02 @ 20:28:18</span
-              ><span class="points-container"
-                >Points: <span class="points">144</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=46126380"
-                  >Comments</a
-                ><span class="descendants">: 47</span></span
+                ><span class="descendants">: 35</span></span
               >
             </h4>
           </section>
@@ -570,11 +651,32 @@
             <h4>
               <span>2025-12-02 @ 17:22:16</span
               ><span class="points-container"
-                >Points: <span class="points">71</span></span
+                >Points: <span class="points">77</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46123720"
                   >Comments</a
-                ><span class="descendants">: 5</span></span
+                ><span class="descendants">: 7</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="46122168">
+          <h3>
+            <a
+              class="item"
+              href="https://alexwlchan.net/2025/detecting-av1-videos/"
+              >Detecting AV1-encoded videos with Python</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2025-12-02 @ 15:29:09</span
+              ><span class="points-container"
+                >Points: <span class="points">8</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=46122168"
+                  >Comments</a
+                ><span class="descendants">: 1</span></span
               >
             </h4>
           </section>
@@ -591,11 +693,11 @@
             <h4>
               <span>2025-12-02 @ 12:59:55</span
               ><span class="points-container"
-                >Points: <span class="points">56</span></span
+                >Points: <span class="points">59</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46120764"
                   >Comments</a
-                ><span class="descendants">: 13</span></span
+                ><span class="descendants">: 15</span></span
               >
             </h4>
           </section>
@@ -613,32 +715,11 @@
             <h4>
               <span>2025-12-01 @ 22:15:53</span
               ><span class="points-container"
-                >Points: <span class="points">41</span></span
+                >Points: <span class="points">42</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46114064"
                   >Comments</a
                 ><span class="descendants">: 8</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="46106411">
-          <h3>
-            <a
-              class="item"
-              href="https://www.morling.dev/blog/on-idempotency-keys/"
-              >Idempotency keys for exactly-once processing</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2025-12-01 @ 12:07:33</span
-              ><span class="points-container"
-                >Points: <span class="points">166</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=46106411"
-                  >Comments</a
-                ><span class="descendants">: 66</span></span
               >
             </h4>
           </section>
@@ -655,11 +736,11 @@
             <h4>
               <span>2025-11-30 @ 17:34:46</span
               ><span class="points-container"
-                >Points: <span class="points">116</span></span
+                >Points: <span class="points">121</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46098655"
                   >Comments</a
-                ><span class="descendants">: 29</span></span
+                ><span class="descendants">: 31</span></span
               >
             </h4>
           </section>
@@ -675,11 +756,11 @@
             <h4>
               <span>2025-11-30 @ 11:36:34</span
               ><span class="points-container"
-                >Points: <span class="points">57</span></span
+                >Points: <span class="points">66</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46095817"
                   >Comments</a
-                ><span class="descendants">: 15</span></span
+                ><span class="descendants">: 20</span></span
               >
             </h4>
           </section>
@@ -696,11 +777,11 @@
             <h4>
               <span>2025-11-30 @ 09:11:40</span
               ><span class="points-container"
-                >Points: <span class="points">542</span></span
+                >Points: <span class="points">552</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46095087"
                   >Comments</a
-                ><span class="descendants">: 309</span></span
+                ><span class="descendants">: 314</span></span
               >
             </h4>
           </section>
@@ -717,7 +798,7 @@
             <h4>
               <span>2025-11-30 @ 08:50:01</span
               ><span class="points-container"
-                >Points: <span class="points">25</span></span
+                >Points: <span class="points">30</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46094989"
                   >Comments</a
@@ -739,11 +820,11 @@
             <h4>
               <span>2025-11-28 @ 17:07:48</span
               ><span class="points-container"
-                >Points: <span class="points">98</span></span
+                >Points: <span class="points">106</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46080498"
                   >Comments</a
-                ><span class="descendants">: 48</span></span
+                ><span class="descendants">: 50</span></span
               >
             </h4>
           </section>
