@@ -1,6 +1,36 @@
 [
   [
     [
+      "2025-12-06, 02:37:58",
+      "https://news.ycombinator.com/item?id=46170060"
+    ],
+    [
+      "I cracked a $200 software protection with xcopy",
+      "https://www.ud2.rip/blog/enigma-protector/"
+    ]
+  ],
+  [
+    [
+      "2025-12-06, 02:32:01",
+      "https://news.ycombinator.com/item?id=46170027"
+    ],
+    [
+      "EU hits X with €120M fine for breaching the Digital Services Act",
+      "https://www.dw.com/en/eu-imposes-120-million-fine-on-elon-musks-x-for-breaking-digital-rules/a-75033724"
+    ]
+  ],
+  [
+    [
+      "2025-12-06, 01:33:34",
+      "https://news.ycombinator.com/item?id=46169695"
+    ],
+    [
+      "Waymo investigated for ongoing failures to stop for school busses",
+      "https://www.thestreet.com/technology/waymo-investigation-could-stop-autonomous-driving-in-its-tracks"
+    ]
+  ],
+  [
+    [
       "2025-12-06, 01:15:48",
       "https://news.ycombinator.com/item?id=46169554"
     ],
@@ -27,16 +57,6 @@
     [
       "Extra Instructions of the 65XX Series CPU",
       "http://www.ffd2.com/fridge/docs/6502-NMOS.extra.opcodes"
-    ]
-  ],
-  [
-    [
-      "2025-12-06, 00:24:55",
-      "https://news.ycombinator.com/item?id=46169224"
-    ],
-    [
-      "Sam Altman's Dirty DRAM Deal",
-      "https://www.mooreslawisdead.com/post/sam-altman-s-dirty-dram-deal"
     ]
   ],
   [
@@ -107,16 +127,6 @@
     [
       "Fizz Buzz in CSS",
       "https://susam.net/fizz-buzz-in-css.html"
-    ]
-  ],
-  [
-    [
-      "2025-12-05, 20:03:21",
-      "https://news.ycombinator.com/item?id=46166536"
-    ],
-    [
-      "Framework Sponsors CachyOS",
-      "https://discuss.cachyos.org/t/framework-sponsorship-for-cachyos/19376"
     ]
   ],
   [
@@ -211,16 +221,6 @@
   ],
   [
     [
-      "2025-12-04, 07:35:10",
-      "https://news.ycombinator.com/item?id=46144801"
-    ],
-    [
-      "Show HN: Kraa – Writing App for Everything",
-      "https://kraa.io/about"
-    ]
-  ],
-  [
-    [
       "2025-12-03, 04:20:44",
       "https://news.ycombinator.com/item?id=46130260"
     ],
@@ -261,16 +261,6 @@
   ],
   [
     [
-      "2025-12-02, 08:33:52",
-      "https://news.ycombinator.com/item?id=46118986"
-    ],
-    [
-      "Compassionate Curmudgeon: Why we must root ourselves in the real world",
-      "https://theamericanscholar.org/compassionate-curmudgeon/"
-    ]
-  ],
-  [
-    [
       "2025-12-01, 20:14:53",
       "https://news.ycombinator.com/item?id=46112560"
     ],
@@ -287,6 +277,16 @@
     [
       "Idempotency Keys for Exactly-Once Processing",
       "https://www.morling.dev/blog/on-idempotency-keys/"
+    ]
+  ],
+  [
+    [
+      "2025-11-30, 09:11:40",
+      "https://news.ycombinator.com/item?id=46095087"
+    ],
+    [
+      "Self-hosting my photos with Immich",
+      "https://michael.stapelberg.ch/posts/2025-11-29-self-hosting-photos-with-immich/"
     ]
   ],
   [
