@@ -21,7 +21,6 @@
 * [2025-12-05, 16:04:20](https://news.ycombinator.com/item?id=46163121) - [I'm Peter Roberts, immigration attorney who does work for YC and startups. AMA](https://news.ycombinator.com/item?id=46163121)
 * [2025-12-05, 15:35:43](https://news.ycombinator.com/item?id=46162656) - [Cloudflare outage on December 5, 2025](https://blog.cloudflare.com/5-december-2025-outage/)
 * [2025-12-05, 13:07:59](https://news.ycombinator.com/item?id=46160773) - [Most technical problems are people problems](https://blog.joeschrag.com/2023/11/most-technical-problems-are-really.html)
-* [2025-12-05, 13:00:28](https://news.ycombinator.com/item?id=46160698) - [Making RSS More Fun](https://matduggan.com/making-rss-more-fun/)
 * [2025-12-05, 12:21:19](https://news.ycombinator.com/item?id=46160315) - [Netflix to Acquire Warner Bros](https://about.netflix.com/en/news/netflix-to-acquire-warner-bros)
 * [2025-12-05, 00:09:57](https://news.ycombinator.com/item?id=46155135) - [Netflix’s AV1 Journey: From Android to TVs and Beyond](https://netflixtechblog.com/av1-now-powering-30-of-netflix-streaming-02f592242d80)
 * [2025-12-03, 04:20:44](https://news.ycombinator.com/item?id=46130260) - [Show HN: HCB Mobile – financial app built by 17 y/o, processing $6M/month](https://hackclub.com/fiscal-sponsorship/mobile/)
@@ -30,6 +29,7 @@
 * [2025-12-01, 20:14:53](https://news.ycombinator.com/item?id=46112560) - [Tides are weirder than you think](https://signoregalilei.com/2025/11/12/tides-are-weirder-than-you-think/)
 * [2025-12-01, 12:07:33](https://news.ycombinator.com/item?id=46106411) - [Idempotency keys for exactly-once processing](https://www.morling.dev/blog/on-idempotency-keys/)
 * [2025-11-30, 09:11:40](https://news.ycombinator.com/item?id=46095087) - [Self-hosting my photos with Immich](https://michael.stapelberg.ch/posts/2025-11-29-self-hosting-photos-with-immich/)
+* [2025-11-29, 15:49:20](https://news.ycombinator.com/item?id=46088430) - [Guide to making a CHIP-8 emulator](https://tobiasvl.github.io/blog/write-a-chip-8-emulator/)
 
 ## [Archives](archives/index.md)
 
