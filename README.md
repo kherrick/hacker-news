@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-12-07, 21:13:28](https://news.ycombinator.com/item?id=46185210) - [The Ways the AI Bubble Might Burst](https://www.wheresyoured.at/premium-the-ways-the-ai-bubble-might-burst/)
 * [2025-12-07, 20:15:26](https://news.ycombinator.com/item?id=46184730) - [Syncthing-Android have had a change of owner/maintainer](https://github.com/researchxxl/syncthing-android/issues/16)
 * [2025-12-07, 19:26:08](https://news.ycombinator.com/item?id=46184303) - [A geothermal amoeba sets a new upper temperature limit for eukaryotes](https://www.biorxiv.org/content/10.1101/2025.11.24.690213v1.full)
 * [2025-12-07, 19:17:17](https://news.ycombinator.com/item?id=46184229) - [Estimates are difficult for developers and product owners](https://thorsell.io/2025/12/07/estimates.html)
@@ -25,6 +24,7 @@
 * [2025-12-06, 21:53:35](https://news.ycombinator.com/item?id=46176893) - [The past was not that cute](https://juliawise.net/the-past-was-not-that-cute/)
 * [2025-12-05, 19:32:17](https://news.ycombinator.com/item?id=46166161) - [A two-person method to simulate die rolls](https://blog.42yeah.is/algorithm/2023/08/05/two-person-die.html)
 * [2025-12-03, 14:51:54](https://news.ycombinator.com/item?id=46135145) - [Building a Toast Component](https://emilkowal.ski/ui/building-a-toast-component)
+* [2025-12-02, 19:56:09](https://news.ycombinator.com/item?id=46125963) - [What is “literate programming”? (2024)](https://pqnelson.github.io/2024/05/29/literate-programming.html)
 * [2025-12-02, 06:50:17](https://news.ycombinator.com/item?id=46118358) - [An Interactive Guide to the Fourier Transform](https://betterexplained.com/articles/an-interactive-guide-to-the-fourier-transform/)
 * [2025-12-01, 18:57:21](https://news.ycombinator.com/item?id=46111448) - [Vanity Activities](https://quarter--mile.com/vanity-activities)
 * [2025-11-30, 17:25:28](https://news.ycombinator.com/item?id=46098567) - [The end of the road for Kafka-delta-ingest](https://brokenco.de/2025/10/30/kafka-delta-ingest-was-fun.html)
