@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-12-07, 22:31:22](https://news.ycombinator.com/item?id=46185957) - [Bag of words, have mercy on us](https://www.experimental-history.com/p/bag-of-words-have-mercy-on-us)
 * [2025-12-07, 21:55:01](https://news.ycombinator.com/item?id=46185576) - [Mechanical power generation using Earth's ambient radiation](https://www.science.org/doi/10.1126/sciadv.adw6833)
 * [2025-12-07, 21:27:28](https://news.ycombinator.com/item?id=46185323) - [iced 0.14 has been released (Rust GUI library)](https://github.com/iced-rs/iced/releases/tag/0.14.0)
 * [2025-12-07, 21:26:35](https://news.ycombinator.com/item?id=46185317) - [Proxmox delivers its software-defined datacenter contender and VMware escape](https://www.theregister.com/2025/12/05/proxmox_datacenter_manager_1_stable/)
@@ -27,7 +28,6 @@
 * [2025-12-02, 18:48:13](https://news.ycombinator.com/item?id=46124903) - [Minimum Viable Arduino Project: Aeropress Timer](https://netninja.com/2025/12/01/minimum-viable-arduino-project-aeropress-timer/)
 * [2025-12-02, 15:39:37](https://news.ycombinator.com/item?id=46122302) - [Context Plumbing (Interconnected)](https://interconnected.org/home/2025/11/28/plumbing)
 * [2025-12-02, 06:50:17](https://news.ycombinator.com/item?id=46118358) - [An Interactive Guide to the Fourier Transform](https://betterexplained.com/articles/an-interactive-guide-to-the-fourier-transform/)
-* [2025-11-30, 17:25:28](https://news.ycombinator.com/item?id=46098567) - [The end of the road for Kafka-delta-ingest](https://brokenco.de/2025/10/30/kafka-delta-ingest-was-fun.html)
 * [2025-11-29, 12:04:34](https://news.ycombinator.com/item?id=46086923) - [Build a DIY magnetometer with a couple of seasoning bottles](https://spectrum.ieee.org/listen-to-protons-diy-magnetometer)
 * [2025-11-27, 15:44:32](https://news.ycombinator.com/item?id=46070298) - [The programmers who live in Flatland](https://blog.redplanetlabs.com/2025/11/24/the-programmers-who-live-in-flatland/)
 
