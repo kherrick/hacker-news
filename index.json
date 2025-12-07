@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-12-07, 19:26:08",
+      "https://news.ycombinator.com/item?id=46184303"
+    ],
+    [
+      "A geothermal amoeba sets a new upper temperature limit for eukaryotes",
+      "https://www.biorxiv.org/content/10.1101/2025.11.24.690213v1.full"
+    ]
+  ],
+  [
+    [
       "2025-12-07, 19:17:17",
       "https://news.ycombinator.com/item?id=46184229"
     ],
@@ -45,7 +55,7 @@
       "https://news.ycombinator.com/item?id=46183294"
     ],
     [
-      "I Tried and Failed to Rebuild the 1996 Space Jam Website with Claude",
+      "I failed to recreate the 1996 Space Jam Website with Claude",
       "https://j0nah.com/i-failed-to-recreate-the-1996-space-jam-website-with-claude/"
     ]
   ],
@@ -57,16 +67,6 @@
     [
       "Semantic Compression (2014)",
       "https://caseymuratori.com/blog_0015"
-    ]
-  ],
-  [
-    [
-      "2025-12-07, 15:52:18",
-      "https://news.ycombinator.com/item?id=46182582"
-    ],
-    [
-      "OpenAI disables ChatGPT app suggestions that looked like ads",
-      "https://techoreon.com/openai-disables-chatgpt-app-suggestions-ads-backlash/"
     ]
   ],
   [
@@ -91,6 +91,16 @@
   ],
   [
     [
+      "2025-12-07, 14:47:02",
+      "https://news.ycombinator.com/item?id=46182031"
+    ],
+    [
+      "Nested Learning: A new ML paradigm for continual learning",
+      "https://research.google/blog/introducing-nested-learning-a-new-ml-paradigm-for-continual-learning/"
+    ]
+  ],
+  [
+    [
       "2025-12-07, 13:21:24",
       "https://news.ycombinator.com/item?id=46181491"
     ],
@@ -105,7 +115,7 @@
       "https://news.ycombinator.com/item?id=46181466"
     ],
     [
-      "At least 50 hallucinated citations found in ICLR 2026 submissions",
+      "Over fifty new hallucinations in ICLR 2026 submissions",
       "https://gptzero.me/news/iclr-2026/"
     ]
   ],
@@ -231,26 +241,6 @@
   ],
   [
     [
-      "2025-12-06, 14:18:42",
-      "https://news.ycombinator.com/item?id=46173547"
-    ],
-    [
-      "Tiny Core Linux: a 23 MB Linux distro with graphical desktop",
-      "http://www.tinycorelinux.net/"
-    ]
-  ],
-  [
-    [
-      "2025-12-06, 13:58:31",
-      "https://news.ycombinator.com/item?id=46173407"
-    ],
-    [
-      "GrapheneOS is the only Android OS providing full security patches",
-      "https://grapheneos.social/@GrapheneOS/115647408229616018"
-    ]
-  ],
-  [
-    [
       "2025-12-03, 14:51:54",
       "https://news.ycombinator.com/item?id=46135145"
     ],
@@ -291,11 +281,21 @@
   ],
   [
     [
+      "2025-11-30, 11:36:34",
+      "https://news.ycombinator.com/item?id=46095817"
+    ],
+    [
+      "Z-Image: Powerful and highly efficient image generation model with 6B parameters",
+      "https://github.com/Tongyi-MAI/Z-Image"
+    ]
+  ],
+  [
+    [
       "2025-11-29, 12:04:34",
       "https://news.ycombinator.com/item?id=46086923"
     ],
     [
-      "Listen to Protons for Less Than $100",
+      "Build a DIY magnetometer with a couple of seasoning bottles",
       "https://spectrum.ieee.org/listen-to-protons-diy-magnetometer"
     ]
   ]
