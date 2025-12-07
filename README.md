@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-12-07, 03:26:01](https://news.ycombinator.com/item?id=46178892) - [Discovering the Indieweb with Calm Tech](https://alexsci.com/blog/calm-tech-discover/)
 * [2025-12-07, 03:03:09](https://news.ycombinator.com/item?id=46178789) - [Z2 – Lithographically fabricated IC in a garage fab](https://sam.zeloof.xyz/second-ic/)
 * [2025-12-07, 01:47:23](https://news.ycombinator.com/item?id=46178464) - [Oblast: A better Blasto game for the Commodore 64](http://oldvcr.blogspot.com/2025/12/oblast-better-blasto-game-for-commodore.html)
 * [2025-12-07, 01:41:33](https://news.ycombinator.com/item?id=46178442) - [Eurydice: a Rust to C compiler (yes)](https://jonathan.protzenko.fr/2025/10/28/eurydice.html)
@@ -15,7 +16,6 @@
 * [2025-12-06, 21:55:09](https://news.ycombinator.com/item?id=46176905) - [Screenshots from developers: 2002 vs. 2015 (2015)](https://anders.unix.se/2015/12/10/screenshots-from-developers--2002-vs.-2015/)
 * [2025-12-06, 21:53:35](https://news.ycombinator.com/item?id=46176893) - [The past was not that cute](https://juliawise.net/the-past-was-not-that-cute/)
 * [2025-12-06, 21:33:03](https://news.ycombinator.com/item?id=46176766) - [Coffee linked to slower biological ageing among those with severe mental illness](https://www.kcl.ac.uk/news/coffee-linked-to-slower-biological-ageing-among-those-with-severe-mental-illness-up-to-a-limit)
-* [2025-12-06, 20:56:38](https://news.ycombinator.com/item?id=46176533) - [Show HN: Tascli, a command line based (human) task and record manager](https://github.com/Aperocky/tascli)
 * [2025-12-06, 20:15:54](https://news.ycombinator.com/item?id=46176289) - [Zebra-Llama: Towards Efficient Hybrid Models](https://arxiv.org/abs/2505.17272)
 * [2025-12-06, 19:14:35](https://news.ycombinator.com/item?id=46175826) - [OMSCS Open Courseware](https://sites.gatech.edu/omscsopencourseware/)
 * [2025-12-06, 17:01:53](https://news.ycombinator.com/item?id=46174789) - [Infisical (YC W23) Is Hiring Engineers to Build the Modern OSS Security Stack](https://www.ycombinator.com/companies/infisical/jobs/2pwGcK9-senior-full-stack-engineer-us-canada)

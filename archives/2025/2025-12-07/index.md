@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-12-07](index.md)
 
+* [2025-12-07, 03:26:01](https://news.ycombinator.com/item?id=46178892) - [Discovering the Indieweb with Calm Tech](https://alexsci.com/blog/calm-tech-discover/)
 * [2025-12-07, 03:03:09](https://news.ycombinator.com/item?id=46178789) - [Z2 – Lithographically fabricated IC in a garage fab](https://sam.zeloof.xyz/second-ic/)
 * [2025-12-07, 01:47:23](https://news.ycombinator.com/item?id=46178464) - [Oblast: A better Blasto game for the Commodore 64](http://oldvcr.blogspot.com/2025/12/oblast-better-blasto-game-for-commodore.html)
 * [2025-12-07, 01:41:33](https://news.ycombinator.com/item?id=46178442) - [Eurydice: a Rust to C compiler (yes)](https://jonathan.protzenko.fr/2025/10/28/eurydice.html)
