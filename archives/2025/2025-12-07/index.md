@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-12-07](index.md)
 
+* [2025-12-07, 17:18:54](https://news.ycombinator.com/item?id=46183294) - [I Tried and Failed to Rebuild the 1996 Space Jam Website with Claude](https://j0nah.com/i-failed-to-recreate-the-1996-space-jam-website-with-claude/)
 * [2025-12-07, 16:54:44](https://news.ycombinator.com/item?id=46183088) - [What the heck is going on at Apple?](https://www.cnn.com/2025/12/06/tech/apple-tim-cook-leadership-changes)
 * [2025-12-07, 16:43:38](https://news.ycombinator.com/item?id=46183011) - [The AI Wildfire Is Coming. It's Going to Be Painful and Healthy](https://ceodinner.substack.com/p/the-ai-wildfire-is-coming-its-going)
 * [2025-12-07, 15:52:18](https://news.ycombinator.com/item?id=46182582) - [OpenAI disables ChatGPT app suggestions that looked like ads](https://techoreon.com/openai-disables-chatgpt-app-suggestions-ads-backlash/)
