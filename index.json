@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-12-07, 11:51:02",
+      "https://news.ycombinator.com/item?id=46181076"
+    ],
+    [
+      "Java Hello World, LLVM Edition",
+      "https://www.javaadvent.com/2025/12/java-hello-world-llvm-edition.html"
+    ]
+  ],
+  [
+    [
+      "2025-12-07, 09:06:39",
+      "https://news.ycombinator.com/item?id=46180291"
+    ],
+    [
+      "A Struct Sockaddr Sequel",
+      "https://lwn.net/Articles/1045453/"
+    ]
+  ],
+  [
+    [
       "2025-12-07, 03:26:01",
       "https://news.ycombinator.com/item?id=46178892"
     ],
@@ -111,16 +131,6 @@
   ],
   [
     [
-      "2025-12-06, 21:33:03",
-      "https://news.ycombinator.com/item?id=46176766"
-    ],
-    [
-      "Coffee linked to slower biological ageing among those with severe mental illness",
-      "https://www.kcl.ac.uk/news/coffee-linked-to-slower-biological-ageing-among-those-with-severe-mental-illness-up-to-a-limit"
-    ]
-  ],
-  [
-    [
       "2025-12-06, 20:15:54",
       "https://news.ycombinator.com/item?id=46176289"
     ],
@@ -201,16 +211,6 @@
   ],
   [
     [
-      "2025-12-03, 18:58:36",
-      "https://news.ycombinator.com/item?id=46138473"
-    ],
-    [
-      "What Is Generative UI?",
-      "https://tambo.co/blog/posts/what-is-generative-ui"
-    ]
-  ],
-  [
-    [
       "2025-12-02, 22:10:48",
       "https://news.ycombinator.com/item?id=46127630"
     ],
@@ -225,18 +225,18 @@
       "https://news.ycombinator.com/item?id=46125963"
     ],
     [
-      "What even is \"literate programming\"?",
+      "What even is \"literate programming\"? (2024)",
       "https://pqnelson.github.io/2024/05/29/literate-programming.html"
     ]
   ],
   [
     [
-      "2025-12-02, 01:08:12",
-      "https://news.ycombinator.com/item?id=46116007"
+      "2025-12-01, 14:34:51",
+      "https://news.ycombinator.com/item?id=46107897"
     ],
     [
-      "Mathematics Without Numbers (1959)",
-      "https://www.jstor.org/stable/20026529?seq=1"
+      "Patching Pulse Oximeter Firmware",
+      "https://stefan-gloor.ch/pulseoximeter-hack"
     ]
   ],
   [
