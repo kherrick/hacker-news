@@ -44,6 +44,7 @@
 * [2025-12-01, 15:00:45](https://news.ycombinator.com/item?id=46108243) - [WordPress plugin quirk resulted in UK Gov OBR Budget leak [pdf]](https://obr.uk/docs/dlm_uploads/01122025-Investigation-into-November-2025-EFO-publication-error.pdf)
 * [2025-12-01, 14:50:16](https://news.ycombinator.com/item?id=46108106) - [Netflix Kills Casting from Its Mobile App to Most Modern TVs](https://www.macrumors.com/2025/12/01/netflix-kills-casting-from-mobile-app-to-tvs/)
 * [2025-12-01, 14:47:48](https://news.ycombinator.com/item?id=46108071) - [Ask HN: Quality of recent gens of Dell/Lenovo laptops worse than 10 years ago?](https://news.ycombinator.com/item?id=46108071)
+* [2025-12-01, 14:34:51](https://news.ycombinator.com/item?id=46107897) - [Patching Pulse Oximeter Firmware](https://stefan-gloor.ch/pulseoximeter-hack)
 * [2025-12-01, 14:19:53](https://news.ycombinator.com/item?id=46107738) - [Runway rolls out new AI video model that beats Google, OpenAI in key benchmark](https://www.cnbc.com/2025/12/01/runway-gen-4-5-video-model-google-open-ai.html)
 * [2025-12-01, 14:13:14](https://news.ycombinator.com/item?id=46107660) - [A Most Important Mustard](https://www.asimov.press/p/arabidopsis)
 * [2025-12-01, 14:13:06](https://news.ycombinator.com/item?id=46107658) - [The Penicillin Myth](https://www.asimov.press/p/penicillin-myth)
