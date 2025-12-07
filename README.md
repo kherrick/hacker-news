@@ -27,7 +27,7 @@
 * [2025-12-02, 19:56:09](https://news.ycombinator.com/item?id=46125963) - [What even is \"literate programming\"? (2024)](https://pqnelson.github.io/2024/05/29/literate-programming.html)
 * [2025-12-02, 06:50:17](https://news.ycombinator.com/item?id=46118358) - [An Interactive Guide to the Fourier Transform](https://betterexplained.com/articles/an-interactive-guide-to-the-fourier-transform/)
 * [2025-12-01, 18:57:21](https://news.ycombinator.com/item?id=46111448) - [Vanity Activities](https://quarter--mile.com/vanity-activities)
-* [2025-12-01, 14:34:51](https://news.ycombinator.com/item?id=46107897) - [Patching Pulse Oximeter Firmware](https://stefan-gloor.ch/pulseoximeter-hack)
+* [2025-12-01, 01:08:01](https://news.ycombinator.com/item?id=46102276) - [Bikeshedding, or why I want to build a laptop](https://geohot.github.io//blog/jekyll/update/2025/11/29/bikeshedding-or-laptop.html)
 * [2025-11-30, 11:36:34](https://news.ycombinator.com/item?id=46095817) - [Z-Image: Powerful and highly efficient image generation model with 6B parameters](https://github.com/Tongyi-MAI/Z-Image)
 * [2025-11-27, 15:44:32](https://news.ycombinator.com/item?id=46070298) - [The programmers who live in Flatland](https://blog.redplanetlabs.com/2025/11/24/the-programmers-who-live-in-flatland/)
 
