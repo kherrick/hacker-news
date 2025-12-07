@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-12-07](index.md)
 
+* [2025-12-07, 19:17:17](https://news.ycombinator.com/item?id=46184229) - [Estimates are difficult for developers and product owners](https://thorsell.io/2025/12/07/estimates.html)
+* [2025-12-07, 18:42:57](https://news.ycombinator.com/item?id=46183952) - [Show HN: Spotify Wrapped but for LeetCode](https://github.com/collinboler/leetcodewrapped)
 * [2025-12-07, 18:42:04](https://news.ycombinator.com/item?id=46183948) - [Should CSS be a constraint system instead?](https://pavpanchekha.com/blog/why-css-bad.html)
 * [2025-12-07, 18:07:06](https://news.ycombinator.com/item?id=46183657) - [Why Fighter Jets Ban 90% of C++ Features [video]](https://www.youtube.com/watch?v=Gv4sDL9Ljww)
 * [2025-12-07, 17:18:54](https://news.ycombinator.com/item?id=46183294) - [I Tried and Failed to Rebuild the 1996 Space Jam Website with Claude](https://j0nah.com/i-failed-to-recreate-the-1996-space-jam-website-with-claude/)
