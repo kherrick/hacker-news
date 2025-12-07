@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-12-07](index.md)
 
+* [2025-12-07, 21:55:01](https://news.ycombinator.com/item?id=46185576) - [Mechanical power generation using Earth's ambient radiation](https://www.science.org/doi/10.1126/sciadv.adw6833)
 * [2025-12-07, 21:34:45](https://news.ycombinator.com/item?id=46185393) - [F-35 Fighter Jet's C++ Coding Standards [pdf]](https://www.stroustrup.com/JSF-AV-rules.pdf)
 * [2025-12-07, 21:27:28](https://news.ycombinator.com/item?id=46185323) - [iced 0.14 has been released (Rust GUI library)](https://github.com/iced-rs/iced/releases/tag/0.14.0)
 * [2025-12-07, 21:26:35](https://news.ycombinator.com/item?id=46185317) - [Proxmox delivers its software-defined datacenter contender and VMware escape](https://www.theregister.com/2025/12/05/proxmox_datacenter_manager_1_stable/)

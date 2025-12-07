@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-12-07, 21:55:01](https://news.ycombinator.com/item?id=46185576) - [Mechanical power generation using Earth's ambient radiation](https://www.science.org/doi/10.1126/sciadv.adw6833)
 * [2025-12-07, 21:27:28](https://news.ycombinator.com/item?id=46185323) - [iced 0.14 has been released (Rust GUI library)](https://github.com/iced-rs/iced/releases/tag/0.14.0)
 * [2025-12-07, 21:26:35](https://news.ycombinator.com/item?id=46185317) - [Proxmox delivers its software-defined datacenter contender and VMware escape](https://www.theregister.com/2025/12/05/proxmox_datacenter_manager_1_stable/)
 * [2025-12-07, 20:54:16](https://news.ycombinator.com/item?id=46185060) - [XKeyscore](https://en.wikipedia.org/wiki/XKeyscore)
@@ -20,7 +21,6 @@
 * [2025-12-07, 12:23:45](https://news.ycombinator.com/item?id=46181231) - [Google Titans architecture, helping AI have long-term memory](https://research.google/blog/titans-miras-helping-ai-have-long-term-memory/)
 * [2025-12-07, 11:51:02](https://news.ycombinator.com/item?id=46181076) - [Java Hello World, LLVM Edition](https://www.javaadvent.com/2025/12/java-hello-world-llvm-edition.html)
 * [2025-12-07, 03:03:09](https://news.ycombinator.com/item?id=46178789) - [Z2 – Lithographically fabricated IC in a garage fab](https://sam.zeloof.xyz/second-ic/)
-* [2025-12-07, 01:41:33](https://news.ycombinator.com/item?id=46178442) - [Eurydice: a Rust to C compiler](https://jonathan.protzenko.fr/2025/10/28/eurydice.html)
 * [2025-12-06, 21:55:09](https://news.ycombinator.com/item?id=46176905) - [Screenshots from developers: 2002 vs. 2015 (2015)](https://anders.unix.se/2015/12/10/screenshots-from-developers--2002-vs.-2015/)
 * [2025-12-06, 21:53:35](https://news.ycombinator.com/item?id=46176893) - [The past was not that cute](https://juliawise.net/the-past-was-not-that-cute/)
 * [2025-12-05, 19:32:17](https://news.ycombinator.com/item?id=46166161) - [A two-person method to simulate die rolls](https://blog.42yeah.is/algorithm/2023/08/05/two-person-die.html)
