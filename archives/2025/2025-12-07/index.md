@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2025-12-07](index.md)
 
+* [2025-12-07, 21:34:45](https://news.ycombinator.com/item?id=46185393) - [F-35 Fighter Jet's C++ Coding Standards [pdf]](https://www.stroustrup.com/JSF-AV-rules.pdf)
+* [2025-12-07, 21:27:28](https://news.ycombinator.com/item?id=46185323) - [iced 0.14 has been released (Rust GUI library)](https://github.com/iced-rs/iced/releases/tag/0.14.0)
 * [2025-12-07, 21:13:28](https://news.ycombinator.com/item?id=46185210) - [The Ways the AI Bubble Might Burst](https://www.wheresyoured.at/premium-the-ways-the-ai-bubble-might-burst/)
+* [2025-12-07, 20:54:16](https://news.ycombinator.com/item?id=46185060) - [XKeyscore](https://en.wikipedia.org/wiki/XKeyscore)
 * [2025-12-07, 20:15:26](https://news.ycombinator.com/item?id=46184730) - [Syncthing-Android have had a change of owner/maintainer](https://github.com/researchxxl/syncthing-android/issues/16)
 * [2025-12-07, 19:26:08](https://news.ycombinator.com/item?id=46184303) - [A geothermal amoeba sets a new upper temperature limit for eukaryotes](https://www.biorxiv.org/content/10.1101/2025.11.24.690213v1.full)
 * [2025-12-07, 19:17:17](https://news.ycombinator.com/item?id=46184229) - [Estimates are difficult for developers and product owners](https://thorsell.io/2025/12/07/estimates.html)
