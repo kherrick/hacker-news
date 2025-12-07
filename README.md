@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-12-07, 03:03:09](https://news.ycombinator.com/item?id=46178789) - [Z2 – Lithographically fabricated IC in a garage fab](https://sam.zeloof.xyz/second-ic/)
+* [2025-12-07, 01:47:23](https://news.ycombinator.com/item?id=46178464) - [Oblast: A better Blasto game for the Commodore 64](http://oldvcr.blogspot.com/2025/12/oblast-better-blasto-game-for-commodore.html)
 * [2025-12-07, 01:41:33](https://news.ycombinator.com/item?id=46178442) - [Eurydice: a Rust to C compiler (yes)](https://jonathan.protzenko.fr/2025/10/28/eurydice.html)
 * [2025-12-07, 01:17:40](https://news.ycombinator.com/item?id=46178347) - [Using LLMs at Oxide](https://rfd.shared.oxide.computer/rfd/0576)
 * [2025-12-07, 00:37:15](https://news.ycombinator.com/item?id=46178108) - [Trains cancelled over fake bridge collapse image](https://www.bbc.com/news/articles/cwygqqll9k2o)
@@ -22,12 +24,10 @@
 * [2025-12-06, 13:58:31](https://news.ycombinator.com/item?id=46173407) - [GrapheneOS is the only Android OS providing full security patches](https://grapheneos.social/@GrapheneOS/115647408229616018)
 * [2025-12-06, 12:29:28](https://news.ycombinator.com/item?id=46172797) - [Touching the Elephant – TPUs](https://considerthebulldog.com/tte-tpu/)
 * [2025-12-06, 11:18:40](https://news.ycombinator.com/item?id=46172443) - [Autism's confusing cousins](https://www.psychiatrymargins.com/p/autisms-confusing-cousins)
-* [2025-12-04, 05:47:31](https://news.ycombinator.com/item?id=46144199) - [Mirror_bridge – C++ reflection for generating Python/JS/Lua bindings](https://chico.dev/Mirror-Bridge/)
+* [2025-12-04, 10:25:39](https://news.ycombinator.com/item?id=46145960) - [Recreating the lost SDK for a 42-year-old operating system: VisiCorp Visi On](https://git.sr.ht/~nkali/vision-sdk/tree/main/item/note/index.md)
 * [2025-12-03, 18:58:36](https://news.ycombinator.com/item?id=46138473) - [What Is Generative UI?](https://tambo.co/blog/posts/what-is-generative-ui)
-* [2025-12-02, 23:59:58](https://news.ycombinator.com/item?id=46128616) - [Finding Gene Cernan's Missing Moon Camera](https://www.spacecamera.co/articles/2020/3/3/gene-cernans-missing-lunar-surface-camera)
 * [2025-12-02, 16:29:04](https://news.ycombinator.com/item?id=46122921) - [Removed Rust to Gain Speed](https://www.prisma.io/blog/announcing-prisma-orm-7-0-0)
 * [2025-12-02, 01:08:12](https://news.ycombinator.com/item?id=46116007) - [Mathematics Without Numbers (1959)](https://www.jstor.org/stable/20026529?seq=1)
-* [2025-12-01, 01:08:01](https://news.ycombinator.com/item?id=46102276) - [Bikeshedding, or why I want to build a laptop](https://geohot.github.io//blog/jekyll/update/2025/11/29/bikeshedding-or-laptop.html)
 * [2025-11-30, 11:36:34](https://news.ycombinator.com/item?id=46095817) - [Z-Image: Powerful and highly efficient image generation model with 6B parameters](https://github.com/Tongyi-MAI/Z-Image)
 * [2025-11-28, 17:07:48](https://news.ycombinator.com/item?id=46080498) - [The unexpected effectiveness of one-shot decompilation with Claude](https://blog.chrislewis.au/the-unexpected-effectiveness-of-one-shot-decompilation-with-claude/)
 
