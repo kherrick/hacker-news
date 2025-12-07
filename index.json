@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-12-07, 04:10:11",
+      "https://news.ycombinator.com/item?id=46179085"
+    ],
+    [
+      "Scientists Link Popular Sugar Substitute (Sorbitol) to Liver Disease",
+      "https://scitechdaily.com/scientists-link-popular-sugar-substitute-to-liver-disease/"
+    ]
+  ],
+  [
+    [
       "2025-12-07, 03:26:01",
       "https://news.ycombinator.com/item?id=46178892"
     ],
@@ -67,16 +77,6 @@
     [
       "Show HN: FuseCells – a handcrafted logic puzzle game with 2,500 levels",
       "https://apps.apple.com/us/app/fusecells-logic-grid-puzzle/id6754704139"
-    ]
-  ],
-  [
-    [
-      "2025-12-06, 23:41:18",
-      "https://news.ycombinator.com/item?id=46177664"
-    ],
-    [
-      "OpenTelemetry Distribution Builder",
-      "https://github.com/observIQ/otel-distro-builder"
     ]
   ],
   [
@@ -271,6 +271,16 @@
   ],
   [
     [
+      "2025-12-02, 13:04:50",
+      "https://news.ycombinator.com/item?id=46120798"
+    ],
+    [
+      "Sort the Court – A Free King Simulator Where You Rule with Yes or No",
+      "https://www.sort-the-court.com"
+    ]
+  ],
+  [
+    [
       "2025-12-02, 01:08:12",
       "https://news.ycombinator.com/item?id=46116007"
     ],
@@ -287,16 +297,6 @@
     [
       "Z-Image: Powerful and highly efficient image generation model with 6B parameters",
       "https://github.com/Tongyi-MAI/Z-Image"
-    ]
-  ],
-  [
-    [
-      "2025-11-28, 17:07:48",
-      "https://news.ycombinator.com/item?id=46080498"
-    ],
-    [
-      "The unexpected effectiveness of one-shot decompilation with Claude",
-      "https://blog.chrislewis.au/the-unexpected-effectiveness-of-one-shot-decompilation-with-claude/"
     ]
   ]
 ]
