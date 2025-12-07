@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-12-07](index.md)
 
+* [2025-12-07, 16:43:38](https://news.ycombinator.com/item?id=46183011) - [The AI Wildfire Is Coming. It's Going to Be Painful and Healthy](https://ceodinner.substack.com/p/the-ai-wildfire-is-coming-its-going)
 * [2025-12-07, 15:52:18](https://news.ycombinator.com/item?id=46182582) - [OpenAI disables ChatGPT app suggestions that looked like ads](https://techoreon.com/openai-disables-chatgpt-app-suggestions-ads-backlash/)
 * [2025-12-07, 15:42:02](https://news.ycombinator.com/item?id=46182496) - [Locks in PostgreSQL](https://habr.com/en/companies/postgrespro/articles/504498/)
 * [2025-12-07, 15:23:48](https://news.ycombinator.com/item?id=46182340) - [Martin Parr has died](https://www.bbc.co.uk/news/articles/cg5m0mnvnvmo)

@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-12-07, 16:43:38](https://news.ycombinator.com/item?id=46183011) - [The AI Wildfire Is Coming. It's Going to Be Painful and Healthy](https://ceodinner.substack.com/p/the-ai-wildfire-is-coming-its-going)
 * [2025-12-07, 15:52:18](https://news.ycombinator.com/item?id=46182582) - [OpenAI disables ChatGPT app suggestions that looked like ads](https://techoreon.com/openai-disables-chatgpt-app-suggestions-ads-backlash/)
 * [2025-12-07, 15:42:02](https://news.ycombinator.com/item?id=46182496) - [Locks in PostgreSQL](https://habr.com/en/companies/postgrespro/articles/504498/)
 * [2025-12-07, 15:23:48](https://news.ycombinator.com/item?id=46182340) - [Martin Parr has died](https://www.bbc.co.uk/news/articles/cg5m0mnvnvmo)
@@ -17,7 +18,6 @@
 * [2025-12-06, 23:39:02](https://news.ycombinator.com/item?id=46177645) - [Kilauea erupts, destroying webcam [video]](https://www.youtube.com/watch?v=TK2N99BDw7A)
 * [2025-12-06, 21:55:09](https://news.ycombinator.com/item?id=46176905) - [Screenshots from developers: 2002 vs. 2015 (2015)](https://anders.unix.se/2015/12/10/screenshots-from-developers--2002-vs.-2015/)
 * [2025-12-06, 21:53:35](https://news.ycombinator.com/item?id=46176893) - [The past was not that cute](https://juliawise.net/the-past-was-not-that-cute/)
-* [2025-12-06, 20:15:54](https://news.ycombinator.com/item?id=46176289) - [Zebra-Llama – Towards efficient hybrid models](https://arxiv.org/abs/2505.17272)
 * [2025-12-06, 17:42:07](https://news.ycombinator.com/item?id=46175112) - [Perl's decline was cultural](https://www.beatworm.co.uk/blog/computers/perls-decline-was-cultural-not-technical)
 * [2025-12-06, 14:59:52](https://news.ycombinator.com/item?id=46173825) - [HTML as an Accessible Format for Papers (2023)](https://info.arxiv.org/about/accessible_HTML.html)
 * [2025-12-06, 14:18:42](https://news.ycombinator.com/item?id=46173547) - [Tiny Core Linux: a 23 MB Linux distro with graphical desktop](http://www.tinycorelinux.net/)
