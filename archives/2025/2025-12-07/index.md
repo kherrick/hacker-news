@@ -9,6 +9,7 @@
 * [2025-12-07, 21:13:28](https://news.ycombinator.com/item?id=46185210) - [The Ways the AI Bubble Might Burst](https://www.wheresyoured.at/premium-the-ways-the-ai-bubble-might-burst/)
 * [2025-12-07, 20:54:16](https://news.ycombinator.com/item?id=46185060) - [XKeyscore](https://en.wikipedia.org/wiki/XKeyscore)
 * [2025-12-07, 20:15:26](https://news.ycombinator.com/item?id=46184730) - [Syncthing-Android have had a change of owner/maintainer](https://github.com/researchxxl/syncthing-android/issues/16)
+* [2025-12-07, 19:56:03](https://news.ycombinator.com/item?id=46184575) - [Evidence from the One Laptop per Child Program in Rural Peru](https://www.nber.org/papers/w34495)
 * [2025-12-07, 19:26:08](https://news.ycombinator.com/item?id=46184303) - [A geothermal amoeba sets a new upper temperature limit for eukaryotes](https://www.biorxiv.org/content/10.1101/2025.11.24.690213v1.full)
 * [2025-12-07, 19:17:17](https://news.ycombinator.com/item?id=46184229) - [Estimates are difficult for developers and product owners](https://thorsell.io/2025/12/07/estimates.html)
 * [2025-12-07, 18:42:57](https://news.ycombinator.com/item?id=46183952) - [Show HN: Spotify Wrapped but for LeetCode](https://github.com/collinboler/leetcodewrapped)
