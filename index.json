@@ -1,12 +1,32 @@
 [
   [
     [
+      "2025-12-07, 18:07:06",
+      "https://news.ycombinator.com/item?id=46183657"
+    ],
+    [
+      "Why Fighter Jets Ban 90% of C++ Features [video]",
+      "https://www.youtube.com/watch?v=Gv4sDL9Ljww"
+    ]
+  ],
+  [
+    [
       "2025-12-07, 17:18:54",
       "https://news.ycombinator.com/item?id=46183294"
     ],
     [
       "I Tried and Failed to Rebuild the 1996 Space Jam Website with Claude",
       "https://j0nah.com/i-failed-to-recreate-the-1996-space-jam-website-with-claude/"
+    ]
+  ],
+  [
+    [
+      "2025-12-07, 16:55:15",
+      "https://news.ycombinator.com/item?id=46183091"
+    ],
+    [
+      "Semantic Compression (2014)",
+      "https://caseymuratori.com/blog_0015"
     ]
   ],
   [
@@ -37,16 +57,6 @@
     [
       "Locks in PostgreSQL",
       "https://habr.com/en/companies/postgrespro/articles/504498/"
-    ]
-  ],
-  [
-    [
-      "2025-12-07, 15:23:48",
-      "https://news.ycombinator.com/item?id=46182340"
-    ],
-    [
-      "Martin Parr has died",
-      "https://www.bbc.co.uk/news/articles/cg5m0mnvnvmo"
     ]
   ],
   [
@@ -201,16 +211,6 @@
   ],
   [
     [
-      "2025-12-06, 14:59:52",
-      "https://news.ycombinator.com/item?id=46173825"
-    ],
-    [
-      "HTML as an Accessible Format for Papers (2023)",
-      "https://info.arxiv.org/about/accessible_HTML.html"
-    ]
-  ],
-  [
-    [
       "2025-12-06, 14:18:42",
       "https://news.ycombinator.com/item?id=46173547"
     ],
@@ -261,22 +261,22 @@
   ],
   [
     [
+      "2025-12-01, 18:57:21",
+      "https://news.ycombinator.com/item?id=46111448"
+    ],
+    [
+      "Vanity Activities",
+      "https://quarter--mile.com/vanity-activities"
+    ]
+  ],
+  [
+    [
       "2025-12-01, 14:34:51",
       "https://news.ycombinator.com/item?id=46107897"
     ],
     [
       "Patching Pulse Oximeter Firmware",
       "https://stefan-gloor.ch/pulseoximeter-hack"
-    ]
-  ],
-  [
-    [
-      "2025-12-01, 01:08:01",
-      "https://news.ycombinator.com/item?id=46102276"
-    ],
-    [
-      "Bikeshedding, or why I want to build a laptop",
-      "https://geohot.github.io//blog/jekyll/update/2025/11/29/bikeshedding-or-laptop.html"
     ]
   ],
   [
