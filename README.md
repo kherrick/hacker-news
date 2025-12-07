@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-12-07, 13:21:24](https://news.ycombinator.com/item?id=46181491) - [Goodbye, Microsoft: Schleswig-Holstein Relies on Open Source and Saves Millions](https://www.heise.de/en/news/Goodbye-Microsoft-Schleswig-Holstein-relies-on-Open-Source-and-saves-millions-11105459.html)
+* [2025-12-07, 13:16:26](https://news.ycombinator.com/item?id=46181466) - [At least 50 hallucinated citations found in ICLR 2026 submissions](https://gptzero.me/news/iclr-2026/)
 * [2025-12-07, 12:45:46](https://news.ycombinator.com/item?id=46181314) - [The Reverse-Centaur's Guide to Criticizing AI](https://pluralistic.net/2025/12/05/pop-that-bubble/)
 * [2025-12-07, 12:23:45](https://news.ycombinator.com/item?id=46181231) - [Google Titans architecture, helping AI have long-term memory](https://research.google/blog/titans-miras-helping-ai-have-long-term-memory/)
 * [2025-12-07, 11:51:02](https://news.ycombinator.com/item?id=46181076) - [Java Hello World, LLVM Edition](https://www.javaadvent.com/2025/12/java-hello-world-llvm-edition.html)
@@ -27,7 +28,6 @@
 * [2025-12-01, 14:34:51](https://news.ycombinator.com/item?id=46107897) - [Patching Pulse Oximeter Firmware](https://stefan-gloor.ch/pulseoximeter-hack)
 * [2025-12-01, 01:08:01](https://news.ycombinator.com/item?id=46102276) - [Bikeshedding, or why I want to build a laptop](https://geohot.github.io//blog/jekyll/update/2025/11/29/bikeshedding-or-laptop.html)
 * [2025-11-30, 11:36:34](https://news.ycombinator.com/item?id=46095817) - [Z-Image: Powerful and highly efficient image generation model with 6B parameters](https://github.com/Tongyi-MAI/Z-Image)
-* [2025-11-28, 17:07:48](https://news.ycombinator.com/item?id=46080498) - [The unexpected effectiveness of one-shot decompilation with Claude](https://blog.chrislewis.au/the-unexpected-effectiveness-of-one-shot-decompilation-with-claude/)
 * [2025-11-28, 02:58:21](https://news.ycombinator.com/item?id=46075126) - [My car charger can boil water really fast [video]](https://www.youtube.com/watch?v=INZybkX8tLI)
 * [2025-11-27, 17:38:58](https://news.ycombinator.com/item?id=46071476) - [Desperately Seeking Squircles (2018)](https://www.figma.com/blog/desperately-seeking-squircles/)
 
