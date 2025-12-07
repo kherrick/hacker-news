@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-12-07, 04:10:11](https://news.ycombinator.com/item?id=46179085) - [Scientists link sugar substitute sorbitol to liver disease in zebrafish](https://scitechdaily.com/scientists-link-popular-sugar-substitute-to-liver-disease/)
 * [2025-12-07, 03:26:01](https://news.ycombinator.com/item?id=46178892) - [Discovering the indieweb with calm tech](https://alexsci.com/blog/calm-tech-discover/)
 * [2025-12-07, 03:03:09](https://news.ycombinator.com/item?id=46178789) - [Z2 – Lithographically fabricated IC in a garage fab](https://sam.zeloof.xyz/second-ic/)
 * [2025-12-07, 01:47:23](https://news.ycombinator.com/item?id=46178464) - [Oblast: A better Blasto game for the Commodore 64](http://oldvcr.blogspot.com/2025/12/oblast-better-blasto-game-for-commodore.html)
@@ -18,7 +17,7 @@
 * [2025-12-06, 21:33:03](https://news.ycombinator.com/item?id=46176766) - [Coffee linked to slower biological ageing among those with severe mental illness](https://www.kcl.ac.uk/news/coffee-linked-to-slower-biological-ageing-among-those-with-severe-mental-illness-up-to-a-limit)
 * [2025-12-06, 20:15:54](https://news.ycombinator.com/item?id=46176289) - [Zebra-Llama – Towards efficient hybrid models](https://arxiv.org/abs/2505.17272)
 * [2025-12-06, 19:14:35](https://news.ycombinator.com/item?id=46175826) - [OMSCS Open Courseware](https://sites.gatech.edu/omscsopencourseware/)
-* [2025-12-06, 17:01:53](https://news.ycombinator.com/item?id=46174789) - [Infisical (YC W23) Is Hiring Engineers to Build the Modern OSS Security Stack](https://www.ycombinator.com/companies/infisical/jobs/2pwGcK9-senior-full-stack-engineer-us-canada)
+* [2025-12-06, 17:42:07](https://news.ycombinator.com/item?id=46175112) - [Perl's decline was cultural](https://www.beatworm.co.uk/blog/computers/perls-decline-was-cultural-not-technical)
 * [2025-12-06, 14:59:52](https://news.ycombinator.com/item?id=46173825) - [HTML as an Accessible Format for Papers (2023)](https://info.arxiv.org/about/accessible_HTML.html)
 * [2025-12-06, 14:18:42](https://news.ycombinator.com/item?id=46173547) - [Tiny Core Linux: a 23 MB Linux distro with graphical desktop](http://www.tinycorelinux.net/)
 * [2025-12-06, 13:58:31](https://news.ycombinator.com/item?id=46173407) - [GrapheneOS is the only Android OS providing full security patches](https://grapheneos.social/@GrapheneOS/115647408229616018)
@@ -29,6 +28,7 @@
 * [2025-12-02, 16:29:04](https://news.ycombinator.com/item?id=46122921) - [Removed rust to gain speed](https://www.prisma.io/blog/announcing-prisma-orm-7-0-0)
 * [2025-12-02, 13:04:50](https://news.ycombinator.com/item?id=46120798) - [Sort the Court – A Free King Simulator Where You Rule with Yes or No](https://www.sort-the-court.com)
 * [2025-12-02, 01:08:12](https://news.ycombinator.com/item?id=46116007) - [Mathematics Without Numbers (1959)](https://www.jstor.org/stable/20026529?seq=1)
+* [2025-12-01, 01:08:01](https://news.ycombinator.com/item?id=46102276) - [Bikeshedding, or why I want to build a laptop](https://geohot.github.io//blog/jekyll/update/2025/11/29/bikeshedding-or-laptop.html)
 * [2025-11-30, 11:36:34](https://news.ycombinator.com/item?id=46095817) - [Z-Image: Powerful and highly efficient image generation model with 6B parameters](https://github.com/Tongyi-MAI/Z-Image)
 
 ## [Archives](archives/index.md)
