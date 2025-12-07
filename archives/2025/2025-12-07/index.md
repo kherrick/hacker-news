@@ -7,6 +7,7 @@
 * [2025-12-07, 13:21:24](https://news.ycombinator.com/item?id=46181491) - [Goodbye, Microsoft: Schleswig-Holstein Relies on Open Source and Saves Millions](https://www.heise.de/en/news/Goodbye-Microsoft-Schleswig-Holstein-relies-on-Open-Source-and-saves-millions-11105459.html)
 * [2025-12-07, 12:57:59](https://news.ycombinator.com/item?id=46181371) - [I Wasted 8 Years of My Life in Crypto](https://twitter.com/kenchangh/status/1994854381267947640)
 * [2025-12-07, 12:45:46](https://news.ycombinator.com/item?id=46181314) - [The Reverse-Centaur's Guide to Criticizing AI](https://pluralistic.net/2025/12/05/pop-that-bubble/)
+* [2025-12-07, 12:23:45](https://news.ycombinator.com/item?id=46181231) - [Google Titans architecture, helping AI have long-term memory](https://research.google/blog/titans-miras-helping-ai-have-long-term-memory/)
 * [2025-12-07, 11:51:02](https://news.ycombinator.com/item?id=46181076) - [Java Hello World, LLVM Edition](https://www.javaadvent.com/2025/12/java-hello-world-llvm-edition.html)
 * [2025-12-07, 09:06:39](https://news.ycombinator.com/item?id=46180291) - [A Struct Sockaddr Sequel](https://lwn.net/Articles/1045453/)
 * [2025-12-07, 04:10:11](https://news.ycombinator.com/item?id=46179085) - [Scientists Link Popular Sugar Substitute (Sorbitol) to Liver Disease](https://scitechdaily.com/scientists-link-popular-sugar-substitute-to-liver-disease/)
