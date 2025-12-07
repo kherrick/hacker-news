@@ -1,22 +1,32 @@
 [
   [
     [
+      "2025-12-07, 01:41:33",
+      "https://news.ycombinator.com/item?id=46178442"
+    ],
+    [
+      "Eurydice: a Rust to C compiler (yes)",
+      "https://jonathan.protzenko.fr/2025/10/28/eurydice.html"
+    ]
+  ],
+  [
+    [
+      "2025-12-07, 01:17:40",
+      "https://news.ycombinator.com/item?id=46178347"
+    ],
+    [
+      "Using LLMs at Oxide",
+      "https://rfd.shared.oxide.computer/rfd/0576"
+    ]
+  ],
+  [
+    [
       "2025-12-07, 00:37:15",
       "https://news.ycombinator.com/item?id=46178108"
     ],
     [
       "Trains cancelled over fake bridge collapse image",
       "https://www.bbc.com/news/articles/cwygqqll9k2o"
-    ]
-  ],
-  [
-    [
-      "2025-12-07, 00:11:47",
-      "https://news.ycombinator.com/item?id=46177926"
-    ],
-    [
-      "Magnitude-7.0 earthquake hits in remote wilderness along Alaska-Canada border",
-      "https://apnews.com/article/earthquake-alaska-canada-yukon-7c0f68370e387b1b23fa7fe7fc9c2c71"
     ]
   ],
   [
@@ -71,16 +81,6 @@
   ],
   [
     [
-      "2025-12-06, 22:34:56",
-      "https://news.ycombinator.com/item?id=46177198"
-    ],
-    [
-      "Wave of (Open Street Map) Vandalism in South Korea",
-      "https://www.openstreetmap.org/user/KennyDap/diary/407844"
-    ]
-  ],
-  [
-    [
       "2025-12-06, 22:26:26",
       "https://news.ycombinator.com/item?id=46177132"
     ],
@@ -107,6 +107,16 @@
     [
       "Screenshots from developers: 2002 vs. 2015 (2015)",
       "https://anders.unix.se/2015/12/10/screenshots-from-developers--2002-vs.-2015/"
+    ]
+  ],
+  [
+    [
+      "2025-12-06, 21:53:35",
+      "https://news.ycombinator.com/item?id=46176893"
+    ],
+    [
+      "The past was not that cute",
+      "https://juliawise.net/the-past-was-not-that-cute/"
     ]
   ],
   [
@@ -165,7 +175,7 @@
       "https://news.ycombinator.com/item?id=46173825"
     ],
     [
-      "HTML as an Accessible Format for Papers",
+      "HTML as an Accessible Format for Papers (2023)",
       "https://info.arxiv.org/about/accessible_HTML.html"
     ]
   ],
@@ -211,32 +221,22 @@
   ],
   [
     [
-      "2025-12-06, 10:20:19",
-      "https://news.ycombinator.com/item?id=46172167"
+      "2025-12-04, 05:47:31",
+      "https://news.ycombinator.com/item?id=46144199"
     ],
     [
-      "Linux Instal Fest Belgrade",
-      "https://dmz.rs/lif2025_en"
+      "Mirror_bridge – C++ reflection for generating Python/JS/Lua bindings",
+      "https://chico.dev/Mirror-Bridge/"
     ]
   ],
   [
     [
-      "2025-12-06, 03:32:56",
-      "https://news.ycombinator.com/item?id=46170402"
+      "2025-12-03, 18:58:36",
+      "https://news.ycombinator.com/item?id=46138473"
     ],
     [
-      "Nook Browser",
-      "https://browsewithnook.com"
-    ]
-  ],
-  [
-    [
-      "2025-12-04, 02:09:47",
-      "https://news.ycombinator.com/item?id=46142949"
-    ],
-    [
-      "Abstract Interpretation in the Toy Optimizer",
-      "https://bernsteinbear.com/blog/toy-abstract-interpretation/"
+      "What Is Generative UI?",
+      "https://tambo.co/blog/posts/what-is-generative-ui"
     ]
   ],
   [
@@ -247,6 +247,16 @@
     [
       "Finding Gene Cernan's Missing Moon Camera",
       "https://www.spacecamera.co/articles/2020/3/3/gene-cernans-missing-lunar-surface-camera"
+    ]
+  ],
+  [
+    [
+      "2025-12-02, 16:29:04",
+      "https://news.ycombinator.com/item?id=46122921"
+    ],
+    [
+      "Removed Rust to Gain Speed",
+      "https://www.prisma.io/blog/announcing-prisma-orm-7-0-0"
     ]
   ],
   [
@@ -267,16 +277,6 @@
     [
       "Bikeshedding, or why I want to build a laptop",
       "https://geohot.github.io//blog/jekyll/update/2025/11/29/bikeshedding-or-laptop.html"
-    ]
-  ],
-  [
-    [
-      "2025-11-30, 13:07:38",
-      "https://news.ycombinator.com/item?id=46096341"
-    ],
-    [
-      "Term-keys – Lossless keyboard input for Emacs",
-      "https://github.com/CyberShadow/term-keys"
     ]
   ],
   [
