@@ -26,10 +26,10 @@
 * [2025-12-04, 10:25:39](https://news.ycombinator.com/item?id=46145960) - [Recreating the lost SDK for a 42-year-old operating system: VisiCorp Visi On](https://git.sr.ht/~nkali/vision-sdk/tree/main/item/note/index.md)
 * [2025-12-03, 18:58:36](https://news.ycombinator.com/item?id=46138473) - [What Is Generative UI?](https://tambo.co/blog/posts/what-is-generative-ui)
 * [2025-12-02, 22:10:48](https://news.ycombinator.com/item?id=46127630) - [Dhrystone](https://en.wikipedia.org/wiki/Dhrystone)
-* [2025-12-02, 16:29:04](https://news.ycombinator.com/item?id=46122921) - [Removed rust to gain speed](https://www.prisma.io/blog/announcing-prisma-orm-7-0-0)
 * [2025-12-02, 01:08:12](https://news.ycombinator.com/item?id=46116007) - [Mathematics Without Numbers (1959)](https://www.jstor.org/stable/20026529?seq=1)
 * [2025-12-01, 01:08:01](https://news.ycombinator.com/item?id=46102276) - [Bikeshedding, or why I want to build a laptop](https://geohot.github.io//blog/jekyll/update/2025/11/29/bikeshedding-or-laptop.html)
 * [2025-11-30, 11:36:34](https://news.ycombinator.com/item?id=46095817) - [Z-Image: Powerful and highly efficient image generation model with 6B parameters](https://github.com/Tongyi-MAI/Z-Image)
+* [2025-11-28, 17:07:48](https://news.ycombinator.com/item?id=46080498) - [The unexpected effectiveness of one-shot decompilation with Claude](https://blog.chrislewis.au/the-unexpected-effectiveness-of-one-shot-decompilation-with-claude/)
 
 ## [Archives](archives/index.md)
 
