@@ -55,6 +55,7 @@
 * [2025-11-29, 13:47:30](https://news.ycombinator.com/item?id=46087509) - [Help, My Java Object Vanished (and the GC Is Not at Fault)](https://arraying.de/posts/markword/)
 * [2025-11-29, 12:26:54](https://news.ycombinator.com/item?id=46087029) - [Chainalysis Successful Deanonymization Attack on Monero](https://darkwebinformer.com/chainalysis-successful-deanonymization-attack-on-monero-2/)
 * [2025-11-29, 12:25:35](https://news.ycombinator.com/item?id=46087022) - [The CRDT Dictionary: A Field Guide to Conflict-Free Replicated Data Types](https://www.iankduncan.com/engineering/2025-11-27-crdt-dictionary/)
+* [2025-11-29, 12:04:34](https://news.ycombinator.com/item?id=46086923) - [Listen to Protons for Less Than $100](https://spectrum.ieee.org/listen-to-protons-diy-magnetometer)
 * [2025-11-29, 12:04:23](https://news.ycombinator.com/item?id=46086920) - [Show HN: I built Magiclip – an all-in-one AI studio](https://magiclip.io/)
 * [2025-11-29, 11:52:21](https://news.ycombinator.com/item?id=46086863) - [DMT-induced shifts in criticality correlate with self-dissolution](https://www.jneurosci.org/content/early/2025/10/24/JNEUROSCI.0344-25.2025)
 * [2025-11-29, 11:31:58](https://news.ycombinator.com/item?id=46086771) - [Leak confirms OpenAI is preparing ads on ChatGPT for public roll out](https://www.bleepingcomputer.com/news/artificial-intelligence/leak-confirms-openai-is-preparing-ads-on-chatgpt-for-public-roll-out/)

@@ -4,7 +4,6 @@
 * [2025-12-07, 18:07:06](https://news.ycombinator.com/item?id=46183657) - [Why Fighter Jets Ban 90% of C++ Features [video]](https://www.youtube.com/watch?v=Gv4sDL9Ljww)
 * [2025-12-07, 17:18:54](https://news.ycombinator.com/item?id=46183294) - [I Tried and Failed to Rebuild the 1996 Space Jam Website with Claude](https://j0nah.com/i-failed-to-recreate-the-1996-space-jam-website-with-claude/)
 * [2025-12-07, 16:55:15](https://news.ycombinator.com/item?id=46183091) - [Semantic Compression (2014)](https://caseymuratori.com/blog_0015)
-* [2025-12-07, 16:43:38](https://news.ycombinator.com/item?id=46183011) - [The AI Wildfire Is Coming. It's Going to Be Painful and Healthy](https://ceodinner.substack.com/p/the-ai-wildfire-is-coming-its-going)
 * [2025-12-07, 15:52:18](https://news.ycombinator.com/item?id=46182582) - [OpenAI disables ChatGPT app suggestions that looked like ads](https://techoreon.com/openai-disables-chatgpt-app-suggestions-ads-backlash/)
 * [2025-12-07, 15:42:02](https://news.ycombinator.com/item?id=46182496) - [Locks in PostgreSQL](https://habr.com/en/companies/postgrespro/articles/504498/)
 * [2025-12-07, 15:08:17](https://news.ycombinator.com/item?id=46182202) - [Scala 3 slowed us down?](https://kmaliszewski9.github.io/scala/2025/12/07/scala3-slowdown.html)
@@ -30,6 +29,7 @@
 * [2025-12-01, 18:57:21](https://news.ycombinator.com/item?id=46111448) - [Vanity Activities](https://quarter--mile.com/vanity-activities)
 * [2025-12-01, 01:08:01](https://news.ycombinator.com/item?id=46102276) - [Bikeshedding, or why I want to build a laptop](https://geohot.github.io//blog/jekyll/update/2025/11/29/bikeshedding-or-laptop.html)
 * [2025-11-30, 11:36:34](https://news.ycombinator.com/item?id=46095817) - [Z-Image: Powerful and highly efficient image generation model with 6B parameters](https://github.com/Tongyi-MAI/Z-Image)
+* [2025-11-29, 12:04:34](https://news.ycombinator.com/item?id=46086923) - [Listen to Protons for Less Than $100](https://spectrum.ieee.org/listen-to-protons-diy-magnetometer)
 
 ## [Archives](archives/index.md)
 
