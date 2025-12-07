@@ -19,7 +19,6 @@
 * [2025-12-06, 14:18:42](https://news.ycombinator.com/item?id=46173547) - [Tiny Core Linux: a 23 MB Linux distro with graphical desktop](http://www.tinycorelinux.net/)
 * [2025-12-06, 13:58:31](https://news.ycombinator.com/item?id=46173407) - [GrapheneOS is the only Android OS providing full security patches](https://grapheneos.social/@GrapheneOS/115647408229616018)
 * [2025-12-06, 11:18:40](https://news.ycombinator.com/item?id=46172443) - [Autism's confusing cousins](https://www.psychiatrymargins.com/p/autisms-confusing-cousins)
-* [2025-12-04, 19:29:04](https://news.ycombinator.com/item?id=46151724) - [Why does the Salish Sea glow in the dark?](https://www.atlasobscura.com/articles/untold-earth-105-salish-sea-bioluminescence)
 * [2025-12-04, 10:25:39](https://news.ycombinator.com/item?id=46145960) - [Recreating the lost SDK for a 42-year-old operating system: VisiCorp Visi On](https://git.sr.ht/~nkali/vision-sdk/tree/main/item/note/index.md)
 * [2025-12-03, 18:58:36](https://news.ycombinator.com/item?id=46138473) - [What Is Generative UI?](https://tambo.co/blog/posts/what-is-generative-ui)
 * [2025-12-02, 22:10:48](https://news.ycombinator.com/item?id=46127630) - [Dhrystone](https://en.wikipedia.org/wiki/Dhrystone)
@@ -30,6 +29,7 @@
 * [2025-11-30, 11:36:34](https://news.ycombinator.com/item?id=46095817) - [Z-Image: Powerful and highly efficient image generation model with 6B parameters](https://github.com/Tongyi-MAI/Z-Image)
 * [2025-11-28, 18:36:16](https://news.ycombinator.com/item?id=46081418) - [Principles of Slack Maximalism](https://aelerinya.substack.com/p/the-10-principles-of-slack-maximalism)
 * [2025-11-28, 17:07:48](https://news.ycombinator.com/item?id=46080498) - [The unexpected effectiveness of one-shot decompilation with Claude](https://blog.chrislewis.au/the-unexpected-effectiveness-of-one-shot-decompilation-with-claude/)
+* [2025-11-28, 02:58:21](https://news.ycombinator.com/item?id=46075126) - [My car charger can boil water really fast [video]](https://www.youtube.com/watch?v=INZybkX8tLI)
 
 ## [Archives](archives/index.md)
 

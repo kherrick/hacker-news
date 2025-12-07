@@ -99,5 +99,6 @@
 * [2025-11-28, 03:40:52](https://news.ycombinator.com/item?id=46075305) - [China's BEV Trucks and the End of Diesel's Dominance](https://cleantechnica.com/2025/11/26/chinas-bev-trucks-and-the-end-of-diesels-dominance/)
 * [2025-11-28, 03:19:51](https://news.ycombinator.com/item?id=46075219) - [Shor's algorithm: the one quantum algo that ends RSA/ECC tomorrow](https://blog.ellipticc.com/posts/what-is-shors-algorithm-and-why-its-the-single-biggest-threat-to-classical-cryptography/)
 * [2025-11-28, 03:08:27](https://news.ycombinator.com/item?id=46075178) - [The VPN panic is only getting started](https://www.theverge.com/tech/827435/uk-vpn-restrictions-ban-online-safety-act)
+* [2025-11-28, 02:58:21](https://news.ycombinator.com/item?id=46075126) - [My car charger can boil water really fast [video]](https://www.youtube.com/watch?v=INZybkX8tLI)
 * [2025-11-28, 01:22:13](https://news.ycombinator.com/item?id=46074729) - [Overlord: AI accountability that watches over you](https://overlord.app/)
 * [2025-11-28, 00:10:38](https://news.ycombinator.com/item?id=46074362) - [How Charles M Schulz created Charlie Brown and Snoopy (2024)](https://www.bbc.com/culture/article/20241205-how-charles-m-schulz-created-charlie-brown-and-snoopy)
