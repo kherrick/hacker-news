@@ -4,6 +4,11 @@
 
 ### [Archives](../../index.md) for [2025-12-06](index.md)
 
+* [2025-12-06, 23:51:08](https://news.ycombinator.com/item?id=46177737) - [Show HN: FuseCells – a handcrafted logic puzzle game with 2,500 levels](https://apps.apple.com/us/app/fusecells-logic-grid-puzzle/id6754704139)
+* [2025-12-06, 23:41:18](https://news.ycombinator.com/item?id=46177664) - [OpenTelemetry Distribution Builder](https://github.com/observIQ/otel-distro-builder)
+* [2025-12-06, 23:39:02](https://news.ycombinator.com/item?id=46177645) - [Kilauea erupts, destroying webcam [video]](https://www.youtube.com/watch?v=TK2N99BDw7A)
+* [2025-12-06, 23:33:23](https://news.ycombinator.com/item?id=46177615) - [PatchworkOS: An OS for x86_64, built from scratch in C and assembly](https://github.com/KaiNorberg/PatchworkOS)
+* [2025-12-06, 23:06:53](https://news.ycombinator.com/item?id=46177418) - [Saving Japan's exceptionally rare 'snow monsters'](https://www.bbc.com/future/article/20251203-japans-disappearing-snow-monsters)
 * [2025-12-06, 22:34:56](https://news.ycombinator.com/item?id=46177198) - [Wave of (Open Street Map) Vandalism in South Korea](https://www.openstreetmap.org/user/KennyDap/diary/407844)
 * [2025-12-06, 22:26:26](https://news.ycombinator.com/item?id=46177132) - [United States Antarctic Program Field Manual (2024) [pdf]](https://www.usap.gov/usapgov/travelAndDeployment/documents/Continental-Field-Manual-2024.pdf)
 * [2025-12-06, 22:11:33](https://news.ycombinator.com/item?id=46177022) - [Catala – Law to Code](https://catala-lang.org)
