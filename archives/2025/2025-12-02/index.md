@@ -25,6 +25,7 @@
 * [2025-12-02, 19:04:31](https://news.ycombinator.com/item?id=46125155) - [Amazon launches Trainium3](https://techcrunch.com/2025/12/02/amazon-releases-an-impressive-new-ai-chip-and-teases-a-nvidia-friendly-roadmap/)
 * [2025-12-02, 19:00:28](https://news.ycombinator.com/item?id=46125102) - [Show HN: A 2mm micro-bearing ring that spins like a real fidget spinner](https://news.ycombinator.com/item?id=46125102)
 * [2025-12-02, 18:50:25](https://news.ycombinator.com/item?id=46124930) - [Microsoft won't let me pay a $24 bill, blocking thousands in Azure spending](https://news.ycombinator.com/item?id=46124930)
+* [2025-12-02, 18:48:13](https://news.ycombinator.com/item?id=46124903) - [Minimum Viable Arduino Project: Aeropress Timer](https://netninja.com/2025/12/01/minimum-viable-arduino-project-aeropress-timer/)
 * [2025-12-02, 18:47:53](https://news.ycombinator.com/item?id=46124892) - [Cursed circuits: charge pump voltage halver](https://lcamtuf.substack.com/p/cursed-circuits-charge-pump-voltage)
 * [2025-12-02, 18:10:23](https://news.ycombinator.com/item?id=46124324) - [IBM CEO says there is 'no way' spending on AI data centers will pay off](https://www.businessinsider.com/ibm-ceo-big-tech-ai-capex-data-center-spending-2025-12)
 * [2025-12-02, 18:05:44](https://news.ycombinator.com/item?id=46124267) - [Bun has been acquired by Anthropic](https://bun.com/blog/bun-joins-anthropic)
