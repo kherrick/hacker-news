@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-12-07](index.md)
 
+* [2025-12-07, 19:26:08](https://news.ycombinator.com/item?id=46184303) - [A geothermal amoeba sets a new upper temperature limit for eukaryotes](https://www.biorxiv.org/content/10.1101/2025.11.24.690213v1.full)
 * [2025-12-07, 19:17:17](https://news.ycombinator.com/item?id=46184229) - [Estimates are difficult for developers and product owners](https://thorsell.io/2025/12/07/estimates.html)
 * [2025-12-07, 18:42:57](https://news.ycombinator.com/item?id=46183952) - [Show HN: Spotify Wrapped but for LeetCode](https://github.com/collinboler/leetcodewrapped)
 * [2025-12-07, 18:42:04](https://news.ycombinator.com/item?id=46183948) - [Should CSS be a constraint system instead?](https://pavpanchekha.com/blog/why-css-bad.html)
@@ -16,6 +17,7 @@
 * [2025-12-07, 15:42:02](https://news.ycombinator.com/item?id=46182496) - [Locks in PostgreSQL](https://habr.com/en/companies/postgrespro/articles/504498/)
 * [2025-12-07, 15:23:48](https://news.ycombinator.com/item?id=46182340) - [Martin Parr has died](https://www.bbc.co.uk/news/articles/cg5m0mnvnvmo)
 * [2025-12-07, 15:08:17](https://news.ycombinator.com/item?id=46182202) - [Scala 3 slowed us down?](https://kmaliszewski9.github.io/scala/2025/12/07/scala3-slowdown.html)
+* [2025-12-07, 14:47:02](https://news.ycombinator.com/item?id=46182031) - [Nested Learning: A new ML paradigm for continual learning](https://research.google/blog/introducing-nested-learning-a-new-ml-paradigm-for-continual-learning/)
 * [2025-12-07, 14:37:21](https://news.ycombinator.com/item?id=46181962) - [Dollar-stores overcharge cash-strapped customers while promising low prices](https://www.theguardian.com/us-news/2025/dec/03/customers-pay-more-rising-dollar-store-costs)
 * [2025-12-07, 13:21:24](https://news.ycombinator.com/item?id=46181491) - [Goodbye, Microsoft: Schleswig-Holstein Relies on Open Source and Saves Millions](https://www.heise.de/en/news/Goodbye-Microsoft-Schleswig-Holstein-relies-on-Open-Source-and-saves-millions-11105459.html)
 * [2025-12-07, 13:16:26](https://news.ycombinator.com/item?id=46181466) - [At least 50 hallucinated citations found in ICLR 2026 submissions](https://gptzero.me/news/iclr-2026/)
