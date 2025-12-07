@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-12-07, 18:42:04](https://news.ycombinator.com/item?id=46183948) - [Should CSS be a constraint system instead?](https://pavpanchekha.com/blog/why-css-bad.html)
 * [2025-12-07, 18:07:06](https://news.ycombinator.com/item?id=46183657) - [Why Fighter Jets Ban 90% of C++ Features [video]](https://www.youtube.com/watch?v=Gv4sDL9Ljww)
 * [2025-12-07, 17:18:54](https://news.ycombinator.com/item?id=46183294) - [I Tried and Failed to Rebuild the 1996 Space Jam Website with Claude](https://j0nah.com/i-failed-to-recreate-the-1996-space-jam-website-with-claude/)
 * [2025-12-07, 16:55:15](https://news.ycombinator.com/item?id=46183091) - [Semantic Compression (2014)](https://caseymuratori.com/blog_0015)
@@ -21,7 +22,6 @@
 * [2025-12-06, 21:55:09](https://news.ycombinator.com/item?id=46176905) - [Screenshots from developers: 2002 vs. 2015 (2015)](https://anders.unix.se/2015/12/10/screenshots-from-developers--2002-vs.-2015/)
 * [2025-12-06, 21:53:35](https://news.ycombinator.com/item?id=46176893) - [The past was not that cute](https://juliawise.net/the-past-was-not-that-cute/)
 * [2025-12-06, 17:42:07](https://news.ycombinator.com/item?id=46175112) - [Perl's decline was cultural](https://www.beatworm.co.uk/blog/computers/perls-decline-was-cultural-not-technical)
-* [2025-12-06, 14:59:52](https://news.ycombinator.com/item?id=46173825) - [HTML as an Accessible Format for Papers (2023)](https://info.arxiv.org/about/accessible_HTML.html)
 * [2025-12-06, 14:18:42](https://news.ycombinator.com/item?id=46173547) - [Tiny Core Linux: a 23 MB Linux distro with graphical desktop](http://www.tinycorelinux.net/)
 * [2025-12-06, 13:58:31](https://news.ycombinator.com/item?id=46173407) - [GrapheneOS is the only Android OS providing full security patches](https://grapheneos.social/@GrapheneOS/115647408229616018)
 * [2025-12-03, 14:51:54](https://news.ycombinator.com/item?id=46135145) - [Building a Toast Component](https://emilkowal.ski/ui/building-a-toast-component)
