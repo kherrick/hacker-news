@@ -261,16 +261,6 @@
   ],
   [
     [
-      "2025-12-02, 16:29:04",
-      "https://news.ycombinator.com/item?id=46122921"
-    ],
-    [
-      "Removed rust to gain speed",
-      "https://www.prisma.io/blog/announcing-prisma-orm-7-0-0"
-    ]
-  ],
-  [
-    [
       "2025-12-02, 01:08:12",
       "https://news.ycombinator.com/item?id=46116007"
     ],
@@ -297,6 +287,16 @@
     [
       "Z-Image: Powerful and highly efficient image generation model with 6B parameters",
       "https://github.com/Tongyi-MAI/Z-Image"
+    ]
+  ],
+  [
+    [
+      "2025-11-28, 17:07:48",
+      "https://news.ycombinator.com/item?id=46080498"
+    ],
+    [
+      "The unexpected effectiveness of one-shot decompilation with Claude",
+      "https://blog.chrislewis.au/the-unexpected-effectiveness-of-one-shot-decompilation-with-claude/"
     ]
   ]
 ]
