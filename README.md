@@ -6,7 +6,6 @@
 * [2025-12-07, 01:41:33](https://news.ycombinator.com/item?id=46178442) - [Eurydice: a Rust to C compiler (yes)](https://jonathan.protzenko.fr/2025/10/28/eurydice.html)
 * [2025-12-07, 01:17:40](https://news.ycombinator.com/item?id=46178347) - [Using LLMs at Oxide](https://rfd.shared.oxide.computer/rfd/0576)
 * [2025-12-07, 00:37:15](https://news.ycombinator.com/item?id=46178108) - [Trains cancelled over fake bridge collapse image](https://www.bbc.com/news/articles/cwygqqll9k2o)
-* [2025-12-06, 23:51:08](https://news.ycombinator.com/item?id=46177737) - [Show HN: FuseCells – a handcrafted logic puzzle game with 2,500 levels](https://apps.apple.com/us/app/fusecells-logic-grid-puzzle/id6754704139)
 * [2025-12-06, 23:39:02](https://news.ycombinator.com/item?id=46177645) - [Kilauea erupts, destroying webcam [video]](https://www.youtube.com/watch?v=TK2N99BDw7A)
 * [2025-12-06, 23:06:53](https://news.ycombinator.com/item?id=46177418) - [Saving Japan's exceptionally rare 'snow monsters'](https://www.bbc.com/future/article/20251203-japans-disappearing-snow-monsters)
 * [2025-12-06, 22:26:26](https://news.ycombinator.com/item?id=46177132) - [United States Antarctic Program Field Manual (2024) [pdf]](https://www.usap.gov/usapgov/travelAndDeployment/documents/Continental-Field-Manual-2024.pdf)
@@ -29,6 +28,7 @@
 * [2025-12-01, 11:47:01](https://news.ycombinator.com/item?id=46106246) - ['Vampire Squid from Hell' Reveals the Ancient Origins of Octopuses](https://www.sciencealert.com/vampire-squid-from-hell-reveals-the-ancient-origins-of-octopuses)
 * [2025-12-01, 01:08:01](https://news.ycombinator.com/item?id=46102276) - [Bikeshedding, or why I want to build a laptop](https://geohot.github.io//blog/jekyll/update/2025/11/29/bikeshedding-or-laptop.html)
 * [2025-11-30, 11:36:34](https://news.ycombinator.com/item?id=46095817) - [Z-Image: Powerful and highly efficient image generation model with 6B parameters](https://github.com/Tongyi-MAI/Z-Image)
+* [2025-11-28, 18:36:16](https://news.ycombinator.com/item?id=46081418) - [Principles of Slack Maximalism](https://aelerinya.substack.com/p/the-10-principles-of-slack-maximalism)
 * [2025-11-28, 17:07:48](https://news.ycombinator.com/item?id=46080498) - [The unexpected effectiveness of one-shot decompilation with Claude](https://blog.chrislewis.au/the-unexpected-effectiveness-of-one-shot-decompilation-with-claude/)
 
 ## [Archives](archives/index.md)

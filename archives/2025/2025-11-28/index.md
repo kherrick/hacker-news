@@ -23,6 +23,7 @@
 * [2025-11-28, 19:29:25](https://news.ycombinator.com/item?id=46081956) - [The Google Trends Spike Before the D.C. Shooting Raises New Questions](https://www.allenanalysis.com/p/the-google-trends-spike-before-the)
 * [2025-11-28, 19:05:16](https://news.ycombinator.com/item?id=46081704) - [Effective harnesses for long-running agents](https://www.anthropic.com/engineering/effective-harnesses-for-long-running-agents)
 * [2025-11-28, 18:39:34](https://news.ycombinator.com/item?id=46081443) - [Show HN: Pulse 2.0 – Live co-listening rooms where anyone can be a DJ](https://473999.net/pulse)
+* [2025-11-28, 18:36:16](https://news.ycombinator.com/item?id=46081418) - [Principles of Slack Maximalism](https://aelerinya.substack.com/p/the-10-principles-of-slack-maximalism)
 * [2025-11-28, 18:30:18](https://news.ycombinator.com/item?id=46081357) - [How wealth dies](https://surplusenergyeconomics.wordpress.com/2025/11/02/314-how-wealth-dies/)
 * [2025-11-28, 18:15:50](https://news.ycombinator.com/item?id=46081188) - [Imgur Geo-Blocked the UK, So I Geo-Unblocked My Network](https://blog.tymscar.com/posts/imgurukproxy/)
 * [2025-11-28, 18:02:57](https://news.ycombinator.com/item?id=46081063) - [Poll HN: What operating system do you primarily develop on?](https://news.ycombinator.com/item?id=46081063)
