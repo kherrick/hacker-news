@@ -6,7 +6,6 @@
 * [2025-12-07, 20:54:16](https://news.ycombinator.com/item?id=46185060) - [XKeyscore](https://en.wikipedia.org/wiki/XKeyscore)
 * [2025-12-07, 20:15:26](https://news.ycombinator.com/item?id=46184730) - [Syncthing-Android have had a change of owner/maintainer](https://github.com/researchxxl/syncthing-android/issues/16)
 * [2025-12-07, 19:56:03](https://news.ycombinator.com/item?id=46184575) - [Evidence from the One Laptop per Child Program in Rural Peru](https://www.nber.org/papers/w34495)
-* [2025-12-07, 19:26:08](https://news.ycombinator.com/item?id=46184303) - [A geothermal amoeba sets a new upper temperature limit for eukaryotes](https://www.biorxiv.org/content/10.1101/2025.11.24.690213v1.full)
 * [2025-12-07, 19:17:17](https://news.ycombinator.com/item?id=46184229) - [Estimates are difficult for developers and product owners](https://thorsell.io/2025/12/07/estimates.html)
 * [2025-12-07, 18:07:06](https://news.ycombinator.com/item?id=46183657) - [The C++ standard for the F-35 Fighter Jet [video]](https://www.youtube.com/watch?v=Gv4sDL9Ljww)
 * [2025-12-07, 17:18:54](https://news.ycombinator.com/item?id=46183294) - [I failed to recreate the 1996 Space Jam Website with Claude](https://j0nah.com/i-failed-to-recreate-the-1996-space-jam-website-with-claude/)
@@ -28,6 +27,7 @@
 * [2025-12-02, 15:39:37](https://news.ycombinator.com/item?id=46122302) - [Context Plumbing (Interconnected)](https://interconnected.org/home/2025/11/28/plumbing)
 * [2025-12-02, 06:50:17](https://news.ycombinator.com/item?id=46118358) - [An Interactive Guide to the Fourier Transform](https://betterexplained.com/articles/an-interactive-guide-to-the-fourier-transform/)
 * [2025-12-01, 18:57:21](https://news.ycombinator.com/item?id=46111448) - [Vanity Activities](https://quarter--mile.com/vanity-activities)
+* [2025-11-30, 17:25:28](https://news.ycombinator.com/item?id=46098567) - [The end of the road for Kafka-delta-ingest](https://brokenco.de/2025/10/30/kafka-delta-ingest-was-fun.html)
 * [2025-11-29, 12:04:34](https://news.ycombinator.com/item?id=46086923) - [Build a DIY magnetometer with a couple of seasoning bottles](https://spectrum.ieee.org/listen-to-protons-diy-magnetometer)
 * [2025-11-27, 15:44:32](https://news.ycombinator.com/item?id=46070298) - [The programmers who live in Flatland](https://blog.redplanetlabs.com/2025/11/24/the-programmers-who-live-in-flatland/)
 
