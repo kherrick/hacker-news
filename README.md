@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-12-07, 15:42:02](https://news.ycombinator.com/item?id=46182496) - [Locks in PostgreSQL](https://habr.com/en/companies/postgrespro/articles/504498/)
+* [2025-12-07, 15:23:48](https://news.ycombinator.com/item?id=46182340) - [Martin Parr has died](https://www.bbc.co.uk/news/articles/cg5m0mnvnvmo)
 * [2025-12-07, 15:08:17](https://news.ycombinator.com/item?id=46182202) - [Scala 3 slowed us down?](https://kmaliszewski9.github.io/scala/2025/12/07/scala3-slowdown.html)
-* [2025-12-07, 14:37:21](https://news.ycombinator.com/item?id=46181962) - [Dollar-stores overcharge cash-strapped customers while promising low prices](https://www.theguardian.com/us-news/2025/dec/03/customers-pay-more-rising-dollar-store-costs)
 * [2025-12-07, 13:21:24](https://news.ycombinator.com/item?id=46181491) - [Goodbye, Microsoft: Schleswig-Holstein Relies on Open Source and Saves Millions](https://www.heise.de/en/news/Goodbye-Microsoft-Schleswig-Holstein-relies-on-Open-Source-and-saves-millions-11105459.html)
 * [2025-12-07, 13:16:26](https://news.ycombinator.com/item?id=46181466) - [At least 50 hallucinated citations found in ICLR 2026 submissions](https://gptzero.me/news/iclr-2026/)
 * [2025-12-07, 12:31:53](https://news.ycombinator.com/item?id=46181268) - [The Anatomy of a macOS App](https://eclecticlight.co/2025/12/04/the-anatomy-of-a-macos-app/)
@@ -16,7 +16,6 @@
 * [2025-12-06, 23:39:02](https://news.ycombinator.com/item?id=46177645) - [Kilauea erupts, destroying webcam [video]](https://www.youtube.com/watch?v=TK2N99BDw7A)
 * [2025-12-06, 21:55:09](https://news.ycombinator.com/item?id=46176905) - [Screenshots from developers: 2002 vs. 2015 (2015)](https://anders.unix.se/2015/12/10/screenshots-from-developers--2002-vs.-2015/)
 * [2025-12-06, 21:53:35](https://news.ycombinator.com/item?id=46176893) - [The past was not that cute](https://juliawise.net/the-past-was-not-that-cute/)
-* [2025-12-06, 20:15:54](https://news.ycombinator.com/item?id=46176289) - [Zebra-Llama – Towards efficient hybrid models](https://arxiv.org/abs/2505.17272)
 * [2025-12-06, 19:14:35](https://news.ycombinator.com/item?id=46175826) - [OMSCS Open Courseware](https://sites.gatech.edu/omscsopencourseware/)
 * [2025-12-06, 17:42:07](https://news.ycombinator.com/item?id=46175112) - [Perl's decline was cultural](https://www.beatworm.co.uk/blog/computers/perls-decline-was-cultural-not-technical)
 * [2025-12-06, 14:59:52](https://news.ycombinator.com/item?id=46173825) - [HTML as an Accessible Format for Papers (2023)](https://info.arxiv.org/about/accessible_HTML.html)
@@ -30,6 +29,7 @@
 * [2025-12-01, 01:08:01](https://news.ycombinator.com/item?id=46102276) - [Bikeshedding, or why I want to build a laptop](https://geohot.github.io//blog/jekyll/update/2025/11/29/bikeshedding-or-laptop.html)
 * [2025-11-30, 11:36:34](https://news.ycombinator.com/item?id=46095817) - [Z-Image: Powerful and highly efficient image generation model with 6B parameters](https://github.com/Tongyi-MAI/Z-Image)
 * [2025-11-27, 17:38:58](https://news.ycombinator.com/item?id=46071476) - [Desperately Seeking Squircles (2018)](https://www.figma.com/blog/desperately-seeking-squircles/)
+* [2025-11-27, 15:44:32](https://news.ycombinator.com/item?id=46070298) - [The programmers who live in Flatland](https://blog.redplanetlabs.com/2025/11/24/the-programmers-who-live-in-flatland/)
 
 ## [Archives](archives/index.md)
 
