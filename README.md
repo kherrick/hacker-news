@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-12-07, 04:10:11](https://news.ycombinator.com/item?id=46179085) - [Scientists Link Popular Sugar Substitute (Sorbitol) to Liver Disease](https://scitechdaily.com/scientists-link-popular-sugar-substitute-to-liver-disease/)
 * [2025-12-07, 03:26:01](https://news.ycombinator.com/item?id=46178892) - [Discovering the Indieweb with Calm Tech](https://alexsci.com/blog/calm-tech-discover/)
 * [2025-12-07, 03:03:09](https://news.ycombinator.com/item?id=46178789) - [Z2 – Lithographically fabricated IC in a garage fab](https://sam.zeloof.xyz/second-ic/)
 * [2025-12-07, 01:47:23](https://news.ycombinator.com/item?id=46178464) - [Oblast: A better Blasto game for the Commodore 64](http://oldvcr.blogspot.com/2025/12/oblast-better-blasto-game-for-commodore.html)
@@ -7,7 +8,6 @@
 * [2025-12-07, 01:17:40](https://news.ycombinator.com/item?id=46178347) - [Using LLMs at Oxide](https://rfd.shared.oxide.computer/rfd/0576)
 * [2025-12-07, 00:37:15](https://news.ycombinator.com/item?id=46178108) - [Trains cancelled over fake bridge collapse image](https://www.bbc.com/news/articles/cwygqqll9k2o)
 * [2025-12-06, 23:51:08](https://news.ycombinator.com/item?id=46177737) - [Show HN: FuseCells – a handcrafted logic puzzle game with 2,500 levels](https://apps.apple.com/us/app/fusecells-logic-grid-puzzle/id6754704139)
-* [2025-12-06, 23:41:18](https://news.ycombinator.com/item?id=46177664) - [OpenTelemetry Distribution Builder](https://github.com/observIQ/otel-distro-builder)
 * [2025-12-06, 23:39:02](https://news.ycombinator.com/item?id=46177645) - [Kilauea erupts, destroying webcam [video]](https://www.youtube.com/watch?v=TK2N99BDw7A)
 * [2025-12-06, 23:33:23](https://news.ycombinator.com/item?id=46177615) - [PatchworkOS: An OS for x86_64, built from scratch in C and assembly](https://github.com/KaiNorberg/PatchworkOS)
 * [2025-12-06, 23:06:53](https://news.ycombinator.com/item?id=46177418) - [Saving Japan's exceptionally rare 'snow monsters'](https://www.bbc.com/future/article/20251203-japans-disappearing-snow-monsters)
@@ -27,9 +27,9 @@
 * [2025-12-03, 18:58:36](https://news.ycombinator.com/item?id=46138473) - [What Is Generative UI?](https://tambo.co/blog/posts/what-is-generative-ui)
 * [2025-12-02, 22:10:48](https://news.ycombinator.com/item?id=46127630) - [Dhrystone](https://en.wikipedia.org/wiki/Dhrystone)
 * [2025-12-02, 16:29:04](https://news.ycombinator.com/item?id=46122921) - [Removed Rust to Gain Speed](https://www.prisma.io/blog/announcing-prisma-orm-7-0-0)
+* [2025-12-02, 13:04:50](https://news.ycombinator.com/item?id=46120798) - [Sort the Court – A Free King Simulator Where You Rule with Yes or No](https://www.sort-the-court.com)
 * [2025-12-02, 01:08:12](https://news.ycombinator.com/item?id=46116007) - [Mathematics Without Numbers (1959)](https://www.jstor.org/stable/20026529?seq=1)
 * [2025-11-30, 11:36:34](https://news.ycombinator.com/item?id=46095817) - [Z-Image: Powerful and highly efficient image generation model with 6B parameters](https://github.com/Tongyi-MAI/Z-Image)
-* [2025-11-28, 17:07:48](https://news.ycombinator.com/item?id=46080498) - [The unexpected effectiveness of one-shot decompilation with Claude](https://blog.chrislewis.au/the-unexpected-effectiveness-of-one-shot-decompilation-with-claude/)
 
 ## [Archives](archives/index.md)
 
