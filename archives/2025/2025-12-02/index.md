@@ -19,6 +19,7 @@
 * [2025-12-02, 20:28:18](https://news.ycombinator.com/item?id=46126380) - [Frinkiac – 3M \"The Simpsons\" Screencaps](https://frinkiac.com/)
 * [2025-12-02, 20:14:20](https://news.ycombinator.com/item?id=46126217) - [Paged Out](https://pagedout.institute)
 * [2025-12-02, 20:08:55](https://news.ycombinator.com/item?id=46126141) - [Free static site generator for small restaurants and cafes](https://lite.localcafe.org/)
+* [2025-12-02, 19:56:09](https://news.ycombinator.com/item?id=46125963) - [What even is \"literate programming\"?](https://pqnelson.github.io/2024/05/29/literate-programming.html)
 * [2025-12-02, 19:05:54](https://news.ycombinator.com/item?id=46125184) - [Claude 4.5 Opus’ Soul Document](https://www.lesswrong.com/posts/vpNG99GhbBoLov9og/claude-4-5-opus-soul-document)
 * [2025-12-02, 19:05:54](https://news.ycombinator.com/item?id=46125184) - [Claude 4.5 Opus' Soul Document](https://simonwillison.net/2025/Dec/2/claude-soul-document/)
 * [2025-12-02, 19:04:31](https://news.ycombinator.com/item?id=46125155) - [Amazon launches Trainium3](https://techcrunch.com/2025/12/02/amazon-releases-an-impressive-new-ai-chip-and-teases-a-nvidia-friendly-roadmap/)
