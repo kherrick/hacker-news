@@ -6,6 +6,7 @@
 
 * [2025-12-07, 21:34:45](https://news.ycombinator.com/item?id=46185393) - [F-35 Fighter Jet's C++ Coding Standards [pdf]](https://www.stroustrup.com/JSF-AV-rules.pdf)
 * [2025-12-07, 21:27:28](https://news.ycombinator.com/item?id=46185323) - [iced 0.14 has been released (Rust GUI library)](https://github.com/iced-rs/iced/releases/tag/0.14.0)
+* [2025-12-07, 21:26:35](https://news.ycombinator.com/item?id=46185317) - [Proxmox delivers its software-defined datacenter contender and VMware escape](https://www.theregister.com/2025/12/05/proxmox_datacenter_manager_1_stable/)
 * [2025-12-07, 21:13:28](https://news.ycombinator.com/item?id=46185210) - [The Ways the AI Bubble Might Burst](https://www.wheresyoured.at/premium-the-ways-the-ai-bubble-might-burst/)
 * [2025-12-07, 20:54:16](https://news.ycombinator.com/item?id=46185060) - [XKeyscore](https://en.wikipedia.org/wiki/XKeyscore)
 * [2025-12-07, 20:15:26](https://news.ycombinator.com/item?id=46184730) - [Syncthing-Android have had a change of owner/maintainer](https://github.com/researchxxl/syncthing-android/issues/16)

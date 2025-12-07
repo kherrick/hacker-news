@@ -43,6 +43,7 @@
 * [2025-12-02, 16:29:04](https://news.ycombinator.com/item?id=46122921) - [Removed Rust to Gain Speed](https://www.prisma.io/blog/announcing-prisma-orm-7-0-0)
 * [2025-12-02, 16:23:27](https://news.ycombinator.com/item?id=46122851) - [Peter Thiel's Apocalyptic Worldview Is a Dangerous Fantasy](https://jacobin.com/2025/11/peter-thiel-palantir-apocalypse-antichrist)
 * [2025-12-02, 15:56:39](https://news.ycombinator.com/item?id=46122518) - [Fallout 2's Chris Avellone describes his game design philosophy](https://arstechnica.com/gaming/2025/12/fallout-2-designer-chris-avellone-recalls-his-first-forays-into-game-development/)
+* [2025-12-02, 15:39:37](https://news.ycombinator.com/item?id=46122302) - [Context Plumbing (Interconnected)](https://interconnected.org/home/2025/11/28/plumbing)
 * [2025-12-02, 15:29:09](https://news.ycombinator.com/item?id=46122168) - [Detecting AV1-encoded videos with Python](https://alexwlchan.net/2025/detecting-av1-videos/)
 * [2025-12-02, 15:23:57](https://news.ycombinator.com/item?id=46122114) - [Some models of reality are bolder than others](https://cjauvin.github.io/posts/metaphysical-boldness/)
 * [2025-12-02, 15:20:11](https://news.ycombinator.com/item?id=46122071) - [Is 2026 Next Year?](https://www.google.com/search?q=is+2026+next+year&oq=is+2026+next+year)
