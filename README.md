@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-12-07, 16:54:44](https://news.ycombinator.com/item?id=46183088) - [What the heck is going on at Apple?](https://www.cnn.com/2025/12/06/tech/apple-tim-cook-leadership-changes)
 * [2025-12-07, 16:43:38](https://news.ycombinator.com/item?id=46183011) - [The AI Wildfire Is Coming. It's Going to Be Painful and Healthy](https://ceodinner.substack.com/p/the-ai-wildfire-is-coming-its-going)
 * [2025-12-07, 15:52:18](https://news.ycombinator.com/item?id=46182582) - [OpenAI disables ChatGPT app suggestions that looked like ads](https://techoreon.com/openai-disables-chatgpt-app-suggestions-ads-backlash/)
 * [2025-12-07, 15:42:02](https://news.ycombinator.com/item?id=46182496) - [Locks in PostgreSQL](https://habr.com/en/companies/postgrespro/articles/504498/)
@@ -22,7 +23,6 @@
 * [2025-12-06, 14:59:52](https://news.ycombinator.com/item?id=46173825) - [HTML as an Accessible Format for Papers (2023)](https://info.arxiv.org/about/accessible_HTML.html)
 * [2025-12-06, 14:18:42](https://news.ycombinator.com/item?id=46173547) - [Tiny Core Linux: a 23 MB Linux distro with graphical desktop](http://www.tinycorelinux.net/)
 * [2025-12-06, 13:58:31](https://news.ycombinator.com/item?id=46173407) - [GrapheneOS is the only Android OS providing full security patches](https://grapheneos.social/@GrapheneOS/115647408229616018)
-* [2025-12-06, 11:18:40](https://news.ycombinator.com/item?id=46172443) - [Autism's confusing cousins](https://www.psychiatrymargins.com/p/autisms-confusing-cousins)
 * [2025-12-03, 14:51:54](https://news.ycombinator.com/item?id=46135145) - [Building a Toast Component](https://emilkowal.ski/ui/building-a-toast-component)
 * [2025-12-02, 19:56:09](https://news.ycombinator.com/item?id=46125963) - [What even is \"literate programming\"? (2024)](https://pqnelson.github.io/2024/05/29/literate-programming.html)
 * [2025-12-02, 06:50:17](https://news.ycombinator.com/item?id=46118358) - [An Interactive Guide to the Fourier Transform](https://betterexplained.com/articles/an-interactive-guide-to-the-fourier-transform/)
