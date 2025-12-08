@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-12-08](index.md)
 
+* [2025-12-08, 08:57:19](https://news.ycombinator.com/item?id=46189994) - [The f*** off contact page](https://www.nicchan.me/blog/the-f-off-contact-page/)
 * [2025-12-08, 08:16:26](https://news.ycombinator.com/item?id=46189704) - [Applets Are Officially Gone, but Java in the Browser Is Better](https://frequal.com/java/AppletsGoneButJavaInTheBrowserBetterThanEver.html)
+* [2025-12-08, 08:15:32](https://news.ycombinator.com/item?id=46189692) - [GitHub Actions Has a Package Manager, and It Might Be the Worst](https://nesbitt.io/2025/12/06/github-actions-package-manager.html)
 * [2025-12-08, 07:36:45](https://news.ycombinator.com/item?id=46189480) - [Show HN: Lockenv – Simple encrypted secrets storage for Git](https://github.com/illarion/lockenv)
 * [2025-12-08, 07:00:33](https://news.ycombinator.com/item?id=46189258) - [Truemetrics (YC S23) Is Hiring](https://www.ycombinator.com/companies/truemetrics/jobs/1EHTSyT-python-software-engineer-analystics-and-algorithms)
 * [2025-12-08, 04:45:20](https://news.ycombinator.com/item?id=46188451) - [Palantir Could Be the Most Overvalued Company That Ever Existed](https://247wallst.com/investing/2025/11/25/palantir-could-be-the-most-overvalued-company-that-ever-existed/)

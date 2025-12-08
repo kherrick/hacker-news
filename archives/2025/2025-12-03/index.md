@@ -7,6 +7,7 @@
 * [2025-12-03, 23:58:04](https://news.ycombinator.com/item?id=46142000) - [Kea DHCP: Modern, open source DHCPv4 and DHCPv6 server](https://www.isc.org/kea/)
 * [2025-12-03, 23:46:30](https://news.ycombinator.com/item?id=46141893) - [Zmx: Session Persistence for Terminal Processes](https://github.com/neurosnap/zmx)
 * [2025-12-03, 23:28:34](https://news.ycombinator.com/item?id=46141745) - [Acme, a brief history of one of the protocols which has changed the Internet](https://blog.brocas.org/2025/12/01/ACME-a-brief-history-of-one-of-the-protocols-which-has-changed-the-Internet-Security/)
+* [2025-12-03, 23:26:51](https://news.ycombinator.com/item?id=46141731) - [Jujutsu Worktrees Are Convenient](https://shaddy.dev/notes/jj-worktrees/)
 * [2025-12-03, 21:56:37](https://news.ycombinator.com/item?id=46140753) - [Greeting Vocalizations in Domestic Cats Are More Frequent with Male Caregivers](https://onlinelibrary.wiley.com/doi/10.1111/eth.70033)
 * [2025-12-03, 21:16:11](https://news.ycombinator.com/item?id=46140244) - [8086 Microcode Browser](https://nand2mario.github.io/posts/2025/8086_microcode_browser/)
 * [2025-12-03, 20:57:02](https://news.ycombinator.com/item?id=46140038) - [Chips for the Rest of Us](https://engineering.nyu.edu/about/unconventional-engineer/chips-for-us)
