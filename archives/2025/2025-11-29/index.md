@@ -53,6 +53,7 @@
 * [2025-11-29, 13:49:37](https://news.ycombinator.com/item?id=46087520) - [Quebec to ban public prayer in sweeping new secularism law](https://www.theguardian.com/world/2025/nov/28/quebec-prayer-law-canada)
 * [2025-11-29, 13:49:22](https://news.ycombinator.com/item?id=46087518) - [How ICE is becoming a secret police force](https://theconversation.com/how-ice-is-becoming-a-secret-police-force-under-the-trump-administration-255019)
 * [2025-11-29, 13:47:30](https://news.ycombinator.com/item?id=46087509) - [Help, My Java Object Vanished (and the GC Is Not at Fault)](https://arraying.de/posts/markword/)
+* [2025-11-29, 12:45:34](https://news.ycombinator.com/item?id=46087115) - [(2018) How I created a database of all interesting Rush Hour configurations](https://www.michaelfogleman.com/rush/)
 * [2025-11-29, 12:26:54](https://news.ycombinator.com/item?id=46087029) - [Chainalysis Successful Deanonymization Attack on Monero](https://darkwebinformer.com/chainalysis-successful-deanonymization-attack-on-monero-2/)
 * [2025-11-29, 12:25:35](https://news.ycombinator.com/item?id=46087022) - [The CRDT Dictionary: A Field Guide to Conflict-Free Replicated Data Types](https://www.iankduncan.com/engineering/2025-11-27-crdt-dictionary/)
 * [2025-11-29, 12:04:34](https://news.ycombinator.com/item?id=46086923) - [Listen to Protons for Less Than $100](https://spectrum.ieee.org/listen-to-protons-diy-magnetometer)

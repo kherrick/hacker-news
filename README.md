@@ -9,7 +9,6 @@
 * [2025-12-07, 22:18:59](https://news.ycombinator.com/item?id=46185816) - [How I block all online ads](https://troubled.engineer/posts/no-ads/)
 * [2025-12-07, 21:55:01](https://news.ycombinator.com/item?id=46185576) - [Mechanical power generation using Earth's ambient radiation](https://www.science.org/doi/10.1126/sciadv.adw6833)
 * [2025-12-07, 19:17:17](https://news.ycombinator.com/item?id=46184229) - [Estimates are difficult for developers and product owners](https://thorsell.io/2025/12/07/estimates.html)
-* [2025-12-07, 19:03:16](https://news.ycombinator.com/item?id=46184128) - [Millions of Americans mess up their taxes, but a new law will help](https://www.wakeuptopolitics.com/p/millions-of-americans-mess-up-their)
 * [2025-12-07, 18:07:06](https://news.ycombinator.com/item?id=46183657) - [The C++ standard for the F-35 Fighter Jet [video]](https://www.youtube.com/watch?v=Gv4sDL9Ljww)
 * [2025-12-07, 17:18:54](https://news.ycombinator.com/item?id=46183294) - [I failed to recreate the 1996 Space Jam website with Claude](https://j0nah.com/i-failed-to-recreate-the-1996-space-jam-website-with-claude/)
 * [2025-12-07, 16:54:44](https://news.ycombinator.com/item?id=46183088) - [What the heck is going on at Apple?](https://www.cnn.com/2025/12/06/tech/apple-tim-cook-leadership-changes)
@@ -29,6 +28,7 @@
 * [2025-12-02, 21:53:27](https://news.ycombinator.com/item?id=46127412) - [Work disincentives hit the near-poor hardest (2022)](https://www.niskanencenter.org/work-disincentives-hit-the-near-poor-hardest-why-and-what-to-do-about-it/)
 * [2025-12-02, 18:48:13](https://news.ycombinator.com/item?id=46124903) - [Minimum Viable Arduino Project: Aeropress Timer](https://netninja.com/2025/12/01/minimum-viable-arduino-project-aeropress-timer/)
 * [2025-12-02, 06:50:17](https://news.ycombinator.com/item?id=46118358) - [An Interactive Guide to the Fourier Transform](https://betterexplained.com/articles/an-interactive-guide-to-the-fourier-transform/)
+* [2025-11-29, 12:45:34](https://news.ycombinator.com/item?id=46087115) - [(2018) How I created a database of all interesting Rush Hour configurations](https://www.michaelfogleman.com/rush/)
 * [2025-11-29, 12:04:34](https://news.ycombinator.com/item?id=46086923) - [Build a DIY magnetometer with a couple of seasoning bottles](https://spectrum.ieee.org/listen-to-protons-diy-magnetometer)
 
 ## [Archives](archives/index.md)
