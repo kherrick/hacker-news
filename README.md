@@ -7,7 +7,6 @@
 * [2025-12-08, 18:48:27](https://news.ycombinator.com/item?id=46196076) - [Deep dive on Nvidia circular funding](https://philippeoger.com/pages/deep-dive-into-nvidias-virtuous-cycle)
 * [2025-12-08, 17:39:55](https://news.ycombinator.com/item?id=46195225) - [Quanta to publish popular math and physics books by Terence Tao and David Tong](https://www.simonsfoundation.org/2025/12/08/quanta-books-to-publish-popular-math-and-physics-titles-by-terence-tao-and-david-tong/)
 * [2025-12-08, 17:38:34](https://news.ycombinator.com/item?id=46195198) - [AI should only run as fast as we can catch up](https://higashi.blog/2025/12/07/ai-verification/)
-* [2025-12-08, 17:33:13](https://news.ycombinator.com/item?id=46195109) - [We collected 10k hours of neuro-language data in our basement](https://condu.it/thought/10k-hours)
 * [2025-12-08, 17:25:54](https://news.ycombinator.com/item?id=46195007) - [Show HN: DuckDB for Kafka Stream Processing](https://sql-flow.com/docs/tutorials/intro/)
 * [2025-12-08, 17:10:14](https://news.ycombinator.com/item?id=46194828) - [Launch HN: Nia (YC S25) – Give better context to coding agents](https://www.trynia.ai/)
 * [2025-12-08, 17:01:11](https://news.ycombinator.com/item?id=46194720) - [Legion Health (YC S21) is hiring a founding engineer (SF, in-person)](https://news.ycombinator.com/item?id=46194720)
@@ -30,6 +29,7 @@
 * [2025-12-05, 19:33:28](https://news.ycombinator.com/item?id=46166178) - [Microsoft Download Center Archive](https://legacyupdate.net/download-center/)
 * [2025-12-05, 08:08:42](https://news.ycombinator.com/item?id=46157914) - [Word spacing](https://en.wikipedia.org/wiki/Word_spacing)
 * [2025-12-04, 10:00:24](https://news.ycombinator.com/item?id=46145790) - [Wayland Nvidia](https://kextcache.com/wayland-nvidia-a-definite-2025-guide/)
+* [2025-12-02, 20:03:21](https://news.ycombinator.com/item?id=46126066) - [Show HN: Persistent memory for Claude Code sessions](https://github.com/TonyStef/Grov)
 
 ## [Archives](archives/index.md)
 
