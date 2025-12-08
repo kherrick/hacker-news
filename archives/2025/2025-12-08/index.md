@@ -4,10 +4,12 @@
 
 ### [Archives](../../index.md) for [2025-12-08](index.md)
 
+* [2025-12-08, 13:13:46](https://news.ycombinator.com/item?id=46191826) - [Pantone Color of the Year 2026: Pantone 11-4201 Cloud Dancer](https://www.pantone.com/color-of-the-year/2026)
 * [2025-12-08, 12:54:42](https://news.ycombinator.com/item?id=46191672) - [Removing juries: 'A move towards an authoritarian state'](https://www.theguardian.com/law/2025/dec/07/authoritarian-state-trial-by-jury-uk)
 * [2025-12-08, 12:01:13](https://news.ycombinator.com/item?id=46191269) - [Nango (YC W23) is hiring back-end engineers and dev-rels (remote)](https://jobs.ashbyhq.com/Nango)
 * [2025-12-08, 11:47:17](https://news.ycombinator.com/item?id=46191194) - [Bad Dye Job](https://daringfireball.net/2025/12/bad_dye_job)
 * [2025-12-08, 11:37:22](https://news.ycombinator.com/item?id=46191124) - [Show HN: Web app that lets you send email time capsules](https://resurf.me)
+* [2025-12-08, 10:43:35](https://news.ycombinator.com/item?id=46190796) - [One too many words on AT&T's $2k Korn shell and other Usenet topics](https://blog.gabornyeki.com/2025-12-usenet/)
 * [2025-12-08, 10:13:07](https://news.ycombinator.com/item?id=46190577) - [12 Days of Shell](https://12days.cmdchallenge.com)
 * [2025-12-08, 10:03:13](https://news.ycombinator.com/item?id=46190499) - [Why Leftover Pizza Might Be Healthier](https://www.scientificamerican.com/video/why-leftover-pizza-is-actually-healthier-the-science-of-resistant-starch/)
 * [2025-12-08, 09:42:04](https://news.ycombinator.com/item?id=46190324) - [Einstein: NewtonOS running on other operating systems](https://github.com/pguyot/Einstein)
