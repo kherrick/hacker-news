@@ -31,6 +31,16 @@
   ],
   [
     [
+      "2025-12-08, 19:00:48",
+      "https://news.ycombinator.com/item?id=46196228"
+    ],
+    [
+      "Has the cost of building software dropped 90%?",
+      "https://martinalderson.com/posts/has-the-cost-of-software-just-dropped-90-percent/"
+    ]
+  ],
+  [
+    [
       "2025-12-08, 18:51:03",
       "https://news.ycombinator.com/item?id=46196105"
     ],
@@ -67,6 +77,16 @@
     [
       "AI should only run as fast as we can catch up",
       "https://higashi.blog/2025/12/07/ai-verification/"
+    ]
+  ],
+  [
+    [
+      "2025-12-08, 17:33:13",
+      "https://news.ycombinator.com/item?id=46195109"
+    ],
+    [
+      "We collected 10k hours of neuro-language data in our basement",
+      "https://condu.it/thought/10k-hours"
     ]
   ],
   [
@@ -161,16 +181,6 @@
   ],
   [
     [
-      "2025-12-08, 15:03:09",
-      "https://news.ycombinator.com/item?id=46192997"
-    ],
-    [
-      "Nova Programming Language",
-      "https://nova-lang.net"
-    ]
-  ],
-  [
-    [
       "2025-12-08, 15:00:29",
       "https://news.ycombinator.com/item?id=46192962"
     ],
@@ -231,16 +241,6 @@
   ],
   [
     [
-      "2025-12-08, 13:13:12",
-      "https://news.ycombinator.com/item?id=46191814"
-    ],
-    [
-      "Colors of Growth",
-      "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5804462"
-    ]
-  ],
-  [
-    [
       "2025-12-08, 13:08:38",
       "https://news.ycombinator.com/item?id=46191763"
     ],
@@ -281,22 +281,22 @@
   ],
   [
     [
+      "2025-12-04, 13:16:54",
+      "https://news.ycombinator.com/item?id=46147329"
+    ],
+    [
+      "Show HN: Fanfa – Interactive and animated Mermaid diagrams",
+      "https://fanfa.dev/"
+    ]
+  ],
+  [
+    [
       "2025-12-04, 10:00:24",
       "https://news.ycombinator.com/item?id=46145790"
     ],
     [
       "Wayland Nvidia",
       "https://kextcache.com/wayland-nvidia-a-definite-2025-guide/"
-    ]
-  ],
-  [
-    [
-      "2025-12-02, 20:03:21",
-      "https://news.ycombinator.com/item?id=46126066"
-    ],
-    [
-      "Show HN: Persistent memory for Claude Code sessions",
-      "https://github.com/TonyStef/Grov"
     ]
   ]
 ]
