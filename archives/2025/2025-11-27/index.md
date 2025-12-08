@@ -37,6 +37,7 @@
 * [2025-11-27, 16:35:53](https://news.ycombinator.com/item?id=46070842) - [It's Been a Very Hard Year](https://bell.bz/its-been-a-very-hard-year/)
 * [2025-11-27, 16:19:03](https://news.ycombinator.com/item?id=46070668) - [Same-day upstream Linux support for Snapdragon 8 Elite Gen 5](https://www.qualcomm.com/developer/blog/2025/10/same-day-snapdragon-8-elite-gen-5-upstream-linux-support)
 * [2025-11-27, 16:11:52](https://news.ycombinator.com/item?id=46070597) - [Face transplants promised hope. Patients were put through the unthinkable](https://www.theguardian.com/science/2025/nov/27/face-transplant-patients-results-outcomes)
+* [2025-11-27, 16:08:57](https://news.ycombinator.com/item?id=46070562) - ['Extraordinary Discovery' at Orkney's Ness of Brodgar Neolithic Site](https://www.bbc.com/news/articles/c7836wvx4q4o)
 * [2025-11-27, 16:07:24](https://news.ycombinator.com/item?id=46070537) - [The Easiest Way to Build a Type Checker](https://jimmyhmiller.com/easiest-way-to-build-type-checker)
 * [2025-11-27, 15:44:32](https://news.ycombinator.com/item?id=46070298) - [The programmers who live in Flatland](https://blog.redplanetlabs.com/2025/11/24/the-programmers-who-live-in-flatland/)
 * [2025-11-27, 15:36:56](https://news.ycombinator.com/item?id=46070203) - [GitLab discovers widespread NPM supply chain attack](https://about.gitlab.com/blog/gitlab-discovers-widespread-npm-supply-chain-attack/)
