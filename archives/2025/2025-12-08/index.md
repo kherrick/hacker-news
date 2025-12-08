@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2025-12-08](index.md)
 
+* [2025-12-08, 19:58:41](https://news.ycombinator.com/item?id=46196831) - [GitHub no longer uses Toasts](https://primer.style/accessibility/toasts/)
 * [2025-12-08, 19:45:57](https://news.ycombinator.com/item?id=46196708) - [Myocardial Fibrosis in Athletes: Risk Marker or Physiological Adaptation?](https://www.mdpi.com/2227-9059/13/11/2747)
 * [2025-12-08, 19:30:28](https://news.ycombinator.com/item?id=46196545) - [Cancer Is Surging, Bringing a Debate About Whether to Look for It](https://www.nytimes.com/2025/12/08/health/cancer-young-people-deaths.html)
+* [2025-12-08, 19:07:59](https://news.ycombinator.com/item?id=46196308) - [Trials Avoid High Risk Patients and Underestimate Drug Harms](https://www.nber.org/papers/w34534)
 * [2025-12-08, 19:07:28](https://news.ycombinator.com/item?id=46196301) - [IBM Z17 Time Synchronization Resiliency Enhancements](https://planetmainframe.com/2025/10/ibm-z17-time-synchronization-resiliency-enhancements/)
 * [2025-12-08, 19:00:48](https://news.ycombinator.com/item?id=46196228) - [Has the cost of building software just dropped 90%?](https://martinalderson.com/posts/has-the-cost-of-software-just-dropped-90-percent/)
 * [2025-12-08, 18:51:03](https://news.ycombinator.com/item?id=46196105) - [Jepsen: NATS 2.12.1](https://jepsen.io/analyses/nats-2.12.1)
