@@ -71,16 +71,6 @@
   ],
   [
     [
-      "2025-12-08, 17:33:13",
-      "https://news.ycombinator.com/item?id=46195109"
-    ],
-    [
-      "We collected 10k hours of neuro-language data in our basement",
-      "https://condu.it/thought/10k-hours"
-    ]
-  ],
-  [
-    [
       "2025-12-08, 17:25:54",
       "https://news.ycombinator.com/item?id=46195007"
     ],
@@ -297,6 +287,16 @@
     [
       "Wayland Nvidia",
       "https://kextcache.com/wayland-nvidia-a-definite-2025-guide/"
+    ]
+  ],
+  [
+    [
+      "2025-12-02, 20:03:21",
+      "https://news.ycombinator.com/item?id=46126066"
+    ],
+    [
+      "Show HN: Persistent memory for Claude Code sessions",
+      "https://github.com/TonyStef/Grov"
     ]
   ]
 ]
