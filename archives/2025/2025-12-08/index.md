@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-12-08](index.md)
 
+* [2025-12-08, 07:00:33](https://news.ycombinator.com/item?id=46189258) - [Truemetrics (YC S23) Is Hiring](https://www.ycombinator.com/companies/truemetrics/jobs/1EHTSyT-python-software-engineer-analystics-and-algorithms)
 * [2025-12-08, 04:45:20](https://news.ycombinator.com/item?id=46188451) - [Palantir Could Be the Most Overvalued Company That Ever Existed](https://247wallst.com/investing/2025/11/25/palantir-could-be-the-most-overvalued-company-that-ever-existed/)
 * [2025-12-08, 02:48:53](https://news.ycombinator.com/item?id=46187770) - [Noninvasive imaging could replace finger pricks for measuring blood glucose](https://news.mit.edu/2025/noninvasive-imaging-could-replace-finger-pricks-diabetes-1203)
 * [2025-12-08, 02:29:01](https://news.ycombinator.com/item?id=46187645) - [Socialist Ends by Market Means: A History](https://lucasvance.github.io/2100/history/)
