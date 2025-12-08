@@ -2,7 +2,7 @@
 
 * [2025-12-08, 23:13:16](https://news.ycombinator.com/item?id=46198994) - [It's ~2026 –. ChatGPT still doesn't allow email change](https://help.openai.com/en/articles/4936827-how-to-change-your-email-address)
 * [2025-12-08, 21:54:12](https://news.ycombinator.com/item?id=46198177) - [Running on Empty: Copper](https://thehonestsorcerer.substack.com/p/running-on-empty-copper)
-* [2025-12-08, 21:27:42](https://news.ycombinator.com/item?id=46197875) - [Delivery Robots Take over Chicago Sidewalks, Sparking Debate and a Petition](https://blockclubchicago.org/2025/12/08/delivery-robots-take-over-chicago-sidewalks-sparking-debate-and-a-petition-to-hit-pause/)
+* [2025-12-08, 21:27:42](https://news.ycombinator.com/item?id=46197875) - [Delivery robots take over Chicago sidewalks](https://blockclubchicago.org/2025/12/08/delivery-robots-take-over-chicago-sidewalks-sparking-debate-and-a-petition-to-hit-pause/)
 * [2025-12-08, 19:44:00](https://news.ycombinator.com/item?id=46196688) - [Icons in Menus Everywhere – Send Help](https://blog.jim-nielsen.com/2025/icons-in-menus/)
 * [2025-12-08, 19:07:59](https://news.ycombinator.com/item?id=46196308) - [Trials avoid high risk patients and underestimate drug harms](https://www.nber.org/papers/w34534)
 * [2025-12-08, 19:00:48](https://news.ycombinator.com/item?id=46196228) - [Has the cost of building software dropped 90%?](https://martinalderson.com/posts/has-the-cost-of-software-just-dropped-90-percent/)
@@ -16,9 +16,9 @@
 * [2025-12-08, 16:44:42](https://news.ycombinator.com/item?id=46194477) - [A series of tricks and techniques I learned doing tiny GLSL demos](https://blog.pkh.me/p/48-a-series-of-tricks-and-techniques-i-learned-doing-tiny-glsl-demos.html)
 * [2025-12-08, 16:38:08](https://news.ycombinator.com/item?id=46194384) - [Hunting for North Korean Fiber Optic Cables](https://nkinternet.com/2025/12/08/hunting-for-north-korean-fiber-optic-cables/)
 * [2025-12-08, 16:34:08](https://news.ycombinator.com/item?id=46194337) - [Let's put Tailscale on a jailbroken Kindle](https://tailscale.com/blog/tailscale-jailbroken-kindle)
-* [2025-12-08, 16:32:50](https://news.ycombinator.com/item?id=46194315) - [Google confirms Android attacks; no fix for most Samsung users](https://www.forbes.com/sites/zakdoffman/2025/12/08/google-confirms-android-attacks-no-fix-for-most-samsung-users/)
 * [2025-12-08, 16:14:52](https://news.ycombinator.com/item?id=46194063) - [No more O'Reilly subscriptions for me](https://zerokspot.com/weblog/2025/12/05/no-more-oreilly-subscriptions-for-me/)
 * [2025-12-08, 16:06:14](https://news.ycombinator.com/item?id=46193931) - [AMD GPU Debugger](https://thegeeko.me/blog/amd-gpu-debugging/)
+* [2025-12-08, 15:03:09](https://news.ycombinator.com/item?id=46192997) - [Nova Programming Language](https://nova-lang.net)
 * [2025-12-08, 14:50:48](https://news.ycombinator.com/item?id=46192846) - [Strong earthquake hits northern Japan, tsunami warning issued](https://www3.nhk.or.jp/nhkworld/en/news/20251209_02/)
 * [2025-12-08, 14:16:34](https://news.ycombinator.com/item?id=46192459) - [Paramount launches hostile bid for Warner Bros](https://www.cnbc.com/2025/12/08/paramount-skydance-hostile-bid-wbd-netflix.html)
 * [2025-12-08, 13:49:21](https://news.ycombinator.com/item?id=46192186) - [Microsoft increases Office 365 and Microsoft 365 license prices](https://office365itpros.com/2025/12/08/microsoft-365-pricing-increase/)
@@ -28,8 +28,8 @@
 * [2025-12-05, 19:33:28](https://news.ycombinator.com/item?id=46166178) - [Microsoft Download Center Archive](https://legacyupdate.net/download-center/)
 * [2025-12-05, 08:08:42](https://news.ycombinator.com/item?id=46157914) - [Word spacing](https://en.wikipedia.org/wiki/Word_spacing)
 * [2025-12-04, 13:16:54](https://news.ycombinator.com/item?id=46147329) - [Show HN: Fanfa – Interactive and animated Mermaid diagrams](https://fanfa.dev/)
+* [2025-12-04, 04:30:25](https://news.ycombinator.com/item?id=46143818) - [Cassette tapes are making a comeback. Yes](https://theconversation.com/cassette-tapes-are-making-a-comeback-yes-really-268108)
 * [2025-12-02, 18:33:00](https://news.ycombinator.com/item?id=46124649) - [Amp, Inc. – Amp is spinning out of Sourcegraph](https://ampcode.com/news/amp-inc)
-* [2025-12-01, 22:08:44](https://news.ycombinator.com/item?id=46113990) - [The consumption of AI-generated content at scale](https://www.sh-reya.com/blog/consumption-ai-scale/)
 
 ## [Archives](archives/index.md)
 
