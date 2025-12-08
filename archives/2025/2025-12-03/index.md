@@ -19,6 +19,7 @@
 * [2025-12-03, 19:00:03](https://news.ycombinator.com/item?id=46138493) - [The only winning move is not to play](https://gregg.io/the-only-winning-move)
 * [2025-12-03, 18:58:36](https://news.ycombinator.com/item?id=46138473) - [What Is Generative UI?](https://tambo.co/blog/posts/what-is-generative-ui)
 * [2025-12-03, 18:57:54](https://news.ycombinator.com/item?id=46138465) - [Teaching an LLM a Niche Diagraming Language](https://www.huy.rocks/everyday/12-01-2025-ai-teaching-an-llm-a-niche-diagraming-language)
+* [2025-12-03, 18:57:08](https://news.ycombinator.com/item?id=46138459) - [Turtletoy](https://turtletoy.net/)
 * [2025-12-03, 18:56:22](https://news.ycombinator.com/item?id=46138444) - ['Carspreading' is on the rise – and not everyone is happy about it](https://www.bbc.co.uk/news/articles/cy7vdvl2531o)
 * [2025-12-03, 18:40:06](https://news.ycombinator.com/item?id=46138238) - [Ghostty Is Now Non-Profit](https://mitchellh.com/writing/ghostty-non-profit)
 * [2025-12-03, 18:39:04](https://news.ycombinator.com/item?id=46138226) - [Formally verifying Advent of Code using Dijkstra's program construction](https://haripm.com/blog/aoc-day-3-without-thinking/)
