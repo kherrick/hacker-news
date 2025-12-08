@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-12-08, 19:45:57](https://news.ycombinator.com/item?id=46196708) - [Myocardial Fibrosis in Athletes: Risk Marker or Physiological Adaptation?](https://www.mdpi.com/2227-9059/13/11/2747)
+* [2025-12-08, 19:30:28](https://news.ycombinator.com/item?id=46196545) - [Cancer Is Surging, Bringing a Debate About Whether to Look for It](https://www.nytimes.com/2025/12/08/health/cancer-young-people-deaths.html)
 * [2025-12-08, 19:00:48](https://news.ycombinator.com/item?id=46196228) - [Has the cost of building software just dropped 90%?](https://martinalderson.com/posts/has-the-cost-of-software-just-dropped-90-percent/)
 * [2025-12-08, 18:51:03](https://news.ycombinator.com/item?id=46196105) - [Jepsen: NATS 2.12.1](https://jepsen.io/analyses/nats-2.12.1)
 * [2025-12-08, 18:48:27](https://news.ycombinator.com/item?id=46196076) - [Deep dive on Nvidia circular funding](https://philippeoger.com/pages/deep-dive-into-nvidias-virtuous-cycle)
@@ -13,7 +15,6 @@
 * [2025-12-08, 16:38:08](https://news.ycombinator.com/item?id=46194384) - [Hunting for North Korean Fiber Optic Cables](https://nkinternet.com/2025/12/08/hunting-for-north-korean-fiber-optic-cables/)
 * [2025-12-08, 16:34:08](https://news.ycombinator.com/item?id=46194337) - [Let's put Tailscale on a jailbroken Kindle](https://tailscale.com/blog/tailscale-jailbroken-kindle)
 * [2025-12-08, 16:32:50](https://news.ycombinator.com/item?id=46194315) - [Google confirms Android attacks; no fix for most Samsung users](https://www.forbes.com/sites/zakdoffman/2025/12/08/google-confirms-android-attacks-no-fix-for-most-samsung-users/)
-* [2025-12-08, 16:32:12](https://news.ycombinator.com/item?id=46194302) - [How the Creator Economy Destroyed the Internet](https://www.theverge.com/cs/features/810002/influencers-creator-economy-special-series)
 * [2025-12-08, 16:06:14](https://news.ycombinator.com/item?id=46193931) - [AMD GPU Debugger](https://thegeeko.me/blog/amd-gpu-debugging/)
 * [2025-12-08, 15:33:01](https://news.ycombinator.com/item?id=46193412) - [I successfully recreated the 1996 Space Jam website with Claude](https://theahura.substack.com/p/i-successfully-recreated-the-1996)
 * [2025-12-08, 15:03:09](https://news.ycombinator.com/item?id=46192997) - [Nova Programming Language](https://nova-lang.net)
@@ -24,12 +25,11 @@
 * [2025-12-08, 13:13:12](https://news.ycombinator.com/item?id=46191814) - [Colors of Growth](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5804462)
 * [2025-12-08, 13:08:38](https://news.ycombinator.com/item?id=46191763) - [Flow: Actor-based language for C++, used by FoundationDB](https://github.com/apple/foundationdb/tree/main/flow)
 * [2025-12-08, 10:13:07](https://news.ycombinator.com/item?id=46190577) - [Twelve Days of Shell](https://12days.cmdchallenge.com)
-* [2025-12-08, 01:47:11](https://news.ycombinator.com/item?id=46187387) - [Damn Small Linux](https://www.damnsmalllinux.org/)
 * [2025-12-05, 19:33:28](https://news.ycombinator.com/item?id=46166178) - [Microsoft Download Center Archive](https://legacyupdate.net/download-center/)
 * [2025-12-05, 13:56:34](https://news.ycombinator.com/item?id=46161328) - [Emacs is my new window manager (2015)](https://www.howardism.org/Technical/Emacs/new-window-manager.html)
 * [2025-12-04, 20:48:56](https://news.ycombinator.com/item?id=46152838) - [The \"confident idiot\" problem: Why AI needs hard rules, not vibe checks](https://steerlabs.substack.com/p/confident-idiot-problem)
-* [2025-12-03, 18:57:08](https://news.ycombinator.com/item?id=46138459) - [Turtletoy](https://turtletoy.net/)
 * [2025-12-02, 20:03:21](https://news.ycombinator.com/item?id=46126066) - [Show HN: Persistent memory for Claude Code sessions](https://github.com/TonyStef/Grov)
+* [2025-12-02, 17:39:07](https://news.ycombinator.com/item?id=46123948) - [Client-side GPU load balancing with Redis and Lua](https://galileo.ai/blog/how-we-boosted-gpu-utilization-by-40-with-redis-lua)
 
 ## [Archives](archives/index.md)
 
