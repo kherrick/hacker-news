@@ -44,6 +44,7 @@
 * [2025-12-04, 13:20:07](https://news.ycombinator.com/item?id=46147353) - [RAM is so expensive, Samsung won't even sell it to Samsung](https://www.pcworld.com/article/2998935/ram-is-so-expensive-samsung-wont-even-sell-it-to-samsung.html)
 * [2025-12-04, 13:18:38](https://news.ycombinator.com/item?id=46147341) - [Functional Quadtrees](https://lbjgruppen.com/en/posts/functional-quadtree-clojure)
 * [2025-12-04, 13:11:33](https://news.ycombinator.com/item?id=46147285) - [Uninitialized garbage on ia64 can be deadly (2004)](https://devblogs.microsoft.com/oldnewthing/20040119-00/?p=41003)
+* [2025-12-04, 12:43:52](https://news.ycombinator.com/item?id=46147021) - [C++ Enum Class and Error Codes, Part 3](https://mropert.github.io/2025/12/03/enum_class_error_codes_part3/)
 * [2025-12-04, 12:25:47](https://news.ycombinator.com/item?id=46146877) - [Imo.im – Instant Messenger](https://imo.im/)
 * [2025-12-04, 12:09:43](https://news.ycombinator.com/item?id=46146740) - [Japanese Four-Cylinder Engine Is So Reliable Still in Production After 25 Years](https://www.topspeed.com/reliable-japanese-four-cylinder-engine-still-in-production/)
 * [2025-12-04, 11:36:36](https://news.ycombinator.com/item?id=46146451) - [I Ignore the Spotlight as a Staff Engineer](https://lalitm.com/software-engineering-outside-the-spotlight/)
