@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-12-08, 07:00:33",
+      "https://news.ycombinator.com/item?id=46189258"
+    ],
+    [
+      "Truemetrics (YC S23) Is Hiring",
+      "https://www.ycombinator.com/companies/truemetrics/jobs/1EHTSyT-python-software-engineer-analystics-and-algorithms"
+    ]
+  ],
+  [
+    [
       "2025-12-08, 04:45:20",
       "https://news.ycombinator.com/item?id=46188451"
     ],
@@ -17,16 +27,6 @@
     [
       "Damn Small Linux",
       "https://www.damnsmalllinux.org/"
-    ]
-  ],
-  [
-    [
-      "2025-12-08, 00:38:44",
-      "https://news.ycombinator.com/item?id=46186997"
-    ],
-    [
-      "Spinlocks vs. Mutexes: When to Spin and When to Sleep",
-      "https://howtech.substack.com/p/spinlocks-vs-mutexes-when-to-spin"
     ]
   ],
   [
@@ -231,16 +231,6 @@
   ],
   [
     [
-      "2025-12-03, 14:51:54",
-      "https://news.ycombinator.com/item?id=46135145"
-    ],
-    [
-      "Building a Toast Component",
-      "https://emilkowal.ski/ui/building-a-toast-component"
-    ]
-  ],
-  [
-    [
       "2025-12-02, 23:50:53",
       "https://news.ycombinator.com/item?id=46128548"
     ],
@@ -277,6 +267,16 @@
     [
       "An Interactive Guide to the Fourier Transform",
       "https://betterexplained.com/articles/an-interactive-guide-to-the-fourier-transform/"
+    ]
+  ],
+  [
+    [
+      "2025-11-30, 07:18:15",
+      "https://news.ycombinator.com/item?id=46094552"
+    ],
+    [
+      "Show HN: ReadyKit – Superfast SaaS Starter with Multi-Tenant Workspaces",
+      "https://readykit.dev/"
     ]
   ],
   [
