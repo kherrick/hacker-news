@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-12-08, 23:13:16](https://news.ycombinator.com/item?id=46198994) - [It's ~2026 –. ChatGPT still doesn't allow email change](https://help.openai.com/en/articles/4936827-how-to-change-your-email-address)
 * [2025-12-08, 21:54:12](https://news.ycombinator.com/item?id=46198177) - [Running on Empty: Copper](https://thehonestsorcerer.substack.com/p/running-on-empty-copper)
 * [2025-12-08, 21:27:42](https://news.ycombinator.com/item?id=46197875) - [Delivery robots take over Chicago sidewalks](https://blockclubchicago.org/2025/12/08/delivery-robots-take-over-chicago-sidewalks-sparking-debate-and-a-petition-to-hit-pause/)
 * [2025-12-08, 19:44:00](https://news.ycombinator.com/item?id=46196688) - [Icons in Menus Everywhere – Send Help](https://blog.jim-nielsen.com/2025/icons-in-menus/)
@@ -30,6 +29,7 @@
 * [2025-12-04, 13:16:54](https://news.ycombinator.com/item?id=46147329) - [Show HN: Fanfa – Interactive and animated Mermaid diagrams](https://fanfa.dev/)
 * [2025-12-04, 04:30:25](https://news.ycombinator.com/item?id=46143818) - [Cassette tapes are making a comeback. Yes](https://theconversation.com/cassette-tapes-are-making-a-comeback-yes-really-268108)
 * [2025-12-02, 18:33:00](https://news.ycombinator.com/item?id=46124649) - [Amp, Inc. – Amp is spinning out of Sourcegraph](https://ampcode.com/news/amp-inc)
+* [2025-12-01, 22:08:44](https://news.ycombinator.com/item?id=46113990) - [The consumption of AI-generated content at scale](https://www.sh-reya.com/blog/consumption-ai-scale/)
 
 ## [Archives](archives/index.md)
 
