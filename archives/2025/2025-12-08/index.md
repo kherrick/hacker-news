@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-12-08](index.md)
 
+* [2025-12-08, 22:06:21](https://news.ycombinator.com/item?id=46198294) - [Doctors' estimates of the feasibility of preserving the dying for future revival](https://www.medrxiv.org/content/10.64898/2025.12.03.25341583v1)
 * [2025-12-08, 21:54:12](https://news.ycombinator.com/item?id=46198177) - [Running on Empty: Copper](https://thehonestsorcerer.substack.com/p/running-on-empty-copper)
 * [2025-12-08, 21:27:42](https://news.ycombinator.com/item?id=46197875) - [Delivery Robots Take over Chicago Sidewalks, Sparking Debate and a Petition](https://blockclubchicago.org/2025/12/08/delivery-robots-take-over-chicago-sidewalks-sparking-debate-and-a-petition-to-hit-pause/)
 * [2025-12-08, 19:58:41](https://news.ycombinator.com/item?id=46196831) - [GitHub no longer uses Toasts](https://primer.style/accessibility/toasts/)
