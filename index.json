@@ -1,6 +1,36 @@
 [
   [
     [
+      "2025-12-08, 16:35:12",
+      "https://news.ycombinator.com/item?id=46194351"
+    ],
+    [
+      "ActivityPub Fuzzer: Improving Testing in the Fediverse",
+      "https://asml.cyber.harvard.edu/2025/10/01/introducing-the-asml-activitypub-fuzzer-improving-testing-in-the-fediverse/"
+    ]
+  ],
+  [
+    [
+      "2025-12-08, 16:34:08",
+      "https://news.ycombinator.com/item?id=46194337"
+    ],
+    [
+      "Let's put Tailscale on a jailbroken Kindle",
+      "https://tailscale.com/blog/tailscale-jailbroken-kindle"
+    ]
+  ],
+  [
+    [
+      "2025-12-08, 16:14:52",
+      "https://news.ycombinator.com/item?id=46194063"
+    ],
+    [
+      "No more O'Reilly subscriptions for me",
+      "https://zerokspot.com/weblog/2025/12/05/no-more-oreilly-subscriptions-for-me/"
+    ]
+  ],
+  [
+    [
       "2025-12-08, 16:06:14",
       "https://news.ycombinator.com/item?id=46193931"
     ],
@@ -47,6 +77,16 @@
     [
       "7.6 earthquake off the coast of Japan",
       "https://www.data.jma.go.jp/multi/quake/quake_detail.html?eventID=20251208232600&lang=en"
+    ]
+  ],
+  [
+    [
+      "2025-12-08, 15:03:09",
+      "https://news.ycombinator.com/item?id=46192997"
+    ],
+    [
+      "Nova Programming Language",
+      "https://nova-lang.net"
     ]
   ],
   [
@@ -111,16 +151,6 @@
   ],
   [
     [
-      "2025-12-08, 11:37:22",
-      "https://news.ycombinator.com/item?id=46191124"
-    ],
-    [
-      "Show HN: Web app that lets you send email time capsules",
-      "https://resurf.me"
-    ]
-  ],
-  [
-    [
       "2025-12-08, 10:13:07",
       "https://news.ycombinator.com/item?id=46190577"
     ],
@@ -167,16 +197,6 @@
     [
       "Bag of words, have mercy on us",
       "https://www.experimental-history.com/p/bag-of-words-have-mercy-on-us"
-    ]
-  ],
-  [
-    [
-      "2025-12-07, 21:55:01",
-      "https://news.ycombinator.com/item?id=46185576"
-    ],
-    [
-      "Mechanical power generation using Earth's ambient radiation",
-      "https://www.science.org/doi/10.1126/sciadv.adw6833"
     ]
   ],
   [
@@ -261,16 +281,6 @@
   ],
   [
     [
-      "2025-12-02, 22:04:54",
-      "https://news.ycombinator.com/item?id=46127575"
-    ],
-    [
-      "Optimize for momentum",
-      "http://muratbuffalo.blogspot.com/2025/12/optimize-for-momentum.html"
-    ]
-  ],
-  [
-    [
       "2025-12-02, 17:39:07",
       "https://news.ycombinator.com/item?id=46123948"
     ],
@@ -281,22 +291,12 @@
   ],
   [
     [
-      "2025-12-02, 06:50:17",
-      "https://news.ycombinator.com/item?id=46118358"
+      "2025-11-30, 12:10:21",
+      "https://news.ycombinator.com/item?id=46095988"
     ],
     [
-      "An Interactive Guide to the Fourier Transform",
-      "https://betterexplained.com/articles/an-interactive-guide-to-the-fourier-transform/"
-    ]
-  ],
-  [
-    [
-      "2025-11-30, 07:18:15",
-      "https://news.ycombinator.com/item?id=46094552"
-    ],
-    [
-      "Show HN: ReadyKit – Superfast SaaS Starter with Multi-Tenant Workspaces",
-      "https://readykit.dev/"
+      "Cool Facilities – The David Taylor Model Basin",
+      "https://www.navalgazing.net/David-Taylor-Model-Basin"
     ]
   ]
 ]
