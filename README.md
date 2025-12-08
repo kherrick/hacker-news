@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-12-08, 11:37:22](https://news.ycombinator.com/item?id=46191124) - [Show HN: Web app that lets you send email time capsules](https://resurf.me)
 * [2025-12-08, 10:13:07](https://news.ycombinator.com/item?id=46190577) - [12 Days of Shell](https://12days.cmdchallenge.com)
 * [2025-12-08, 10:03:13](https://news.ycombinator.com/item?id=46190499) - [Why Leftover Pizza Might Be Healthier](https://www.scientificamerican.com/video/why-leftover-pizza-is-actually-healthier-the-science-of-resistant-starch/)
 * [2025-12-08, 09:42:04](https://news.ycombinator.com/item?id=46190324) - [Einstein: NewtonOS running on other operating systems](https://github.com/pguyot/Einstein)
@@ -29,7 +30,6 @@
 * [2025-12-02, 06:50:17](https://news.ycombinator.com/item?id=46118358) - [An Interactive Guide to the Fourier Transform](https://betterexplained.com/articles/an-interactive-guide-to-the-fourier-transform/)
 * [2025-11-30, 07:18:15](https://news.ycombinator.com/item?id=46094552) - [Show HN: ReadyKit – Superfast SaaS Starter with Multi-Tenant Workspaces](https://readykit.dev/)
 * [2025-11-29, 12:45:34](https://news.ycombinator.com/item?id=46087115) - [Solving Rush Hour, the Puzzle (2018)](https://www.michaelfogleman.com/rush/)
-* [2025-11-27, 16:08:57](https://news.ycombinator.com/item?id=46070562) - ['Extraordinary Discovery' at Orkney's Ness of Brodgar Neolithic Site](https://www.bbc.com/news/articles/c7836wvx4q4o)
 
 ## [Archives](archives/index.md)
 
