@@ -1,12 +1,42 @@
 [
   [
     [
+      "2025-12-08, 14:06:35",
+      "https://news.ycombinator.com/item?id=46192348"
+    ],
+    [
+      "Show HN: I wrote a book – Debugging TypeScript Applications (in beta)",
+      "https://pragprog.com/titles/aodjs/debugging-typescript-applications/"
+    ]
+  ],
+  [
+    [
+      "2025-12-08, 13:49:21",
+      "https://news.ycombinator.com/item?id=46192186"
+    ],
+    [
+      "Microsoft Increases Office 365 and Microsoft 365 License Prices",
+      "https://office365itpros.com/2025/12/08/microsoft-365-pricing-increase/"
+    ]
+  ],
+  [
+    [
       "2025-12-08, 13:23:29",
       "https://news.ycombinator.com/item?id=46191933"
     ],
     [
       "Alignment Is Capability",
       "https://www.off-policy.com/alignment-is-capability/"
+    ]
+  ],
+  [
+    [
+      "2025-12-08, 13:13:12",
+      "https://news.ycombinator.com/item?id=46191814"
+    ],
+    [
+      "Colors of Growth",
+      "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5804462"
     ]
   ],
   [
@@ -47,16 +77,6 @@
     [
       "Show HN: Web app that lets you send email time capsules",
       "https://resurf.me"
-    ]
-  ],
-  [
-    [
-      "2025-12-08, 10:43:35",
-      "https://news.ycombinator.com/item?id=46190796"
-    ],
-    [
-      "One too many words on AT&T's $2k Korn shell and other Usenet topics",
-      "https://blog.gabornyeki.com/2025-12-usenet/"
     ]
   ],
   [
@@ -171,42 +191,12 @@
   ],
   [
     [
-      "2025-12-07, 12:31:53",
-      "https://news.ycombinator.com/item?id=46181268"
-    ],
-    [
-      "The Anatomy of a macOS App",
-      "https://eclecticlight.co/2025/12/04/the-anatomy-of-a-macos-app/"
-    ]
-  ],
-  [
-    [
       "2025-12-07, 12:23:45",
       "https://news.ycombinator.com/item?id=46181231"
     ],
     [
       "Google Titans architecture, helping AI have long-term memory",
       "https://research.google/blog/titans-miras-helping-ai-have-long-term-memory/"
-    ]
-  ],
-  [
-    [
-      "2025-12-06, 20:00:17",
-      "https://news.ycombinator.com/item?id=46176169"
-    ],
-    [
-      "CATL expects oceanic electric ships in three years",
-      "https://cleantechnica.com/2025/12/05/catl-expects-oceanic-electric-ships-in-3-years/"
-    ]
-  ],
-  [
-    [
-      "2025-12-06, 04:44:57",
-      "https://news.ycombinator.com/item?id=46170776"
-    ],
-    [
-      "Sperry/Ford Mark-6 Fire Control Computer (2022)",
-      "https://www.glennsmuseum.com/items/mk6/"
     ]
   ],
   [
@@ -227,6 +217,16 @@
     [
       "The \"confident idiot\" problem: Why AI needs hard rules, not vibe checks",
       "https://steerlabs.substack.com/p/confident-idiot-problem"
+    ]
+  ],
+  [
+    [
+      "2025-12-04, 12:43:52",
+      "https://news.ycombinator.com/item?id=46147021"
+    ],
+    [
+      "C++ Enum Class and Error Codes, Part 3",
+      "https://mropert.github.io/2025/12/03/enum_class_error_codes_part3/"
     ]
   ],
   [
