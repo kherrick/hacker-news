@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-12-08, 19:00:48](https://news.ycombinator.com/item?id=46196228) - [Has the cost of building software just dropped 90%?](https://martinalderson.com/posts/has-the-cost-of-software-just-dropped-90-percent/)
 * [2025-12-08, 18:51:03](https://news.ycombinator.com/item?id=46196105) - [Jepsen: NATS 2.12.1](https://jepsen.io/analyses/nats-2.12.1)
 * [2025-12-08, 18:48:27](https://news.ycombinator.com/item?id=46196076) - [Deep dive on Nvidia circular funding](https://philippeoger.com/pages/deep-dive-into-nvidias-virtuous-cycle)
 * [2025-12-08, 17:39:55](https://news.ycombinator.com/item?id=46195225) - [Quanta to publish popular math and physics books by Terence Tao and David Tong](https://www.simonsfoundation.org/2025/12/08/quanta-books-to-publish-popular-math-and-physics-titles-by-terence-tao-and-david-tong/)
@@ -29,7 +30,6 @@
 * [2025-12-04, 20:48:56](https://news.ycombinator.com/item?id=46152838) - [The \"confident idiot\" problem: Why AI needs hard rules, not vibe checks](https://steerlabs.substack.com/p/confident-idiot-problem)
 * [2025-12-03, 18:57:08](https://news.ycombinator.com/item?id=46138459) - [Turtletoy](https://turtletoy.net/)
 * [2025-12-02, 20:03:21](https://news.ycombinator.com/item?id=46126066) - [Show HN: Persistent memory for Claude Code sessions](https://github.com/TonyStef/Grov)
-* [2025-12-02, 17:39:07](https://news.ycombinator.com/item?id=46123948) - [Client-side GPU load balancing with Redis and Lua](https://galileo.ai/blog/how-we-boosted-gpu-utilization-by-40-with-redis-lua)
 
 ## [Archives](archives/index.md)
 

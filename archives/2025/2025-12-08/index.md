@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-12-08](index.md)
 
+* [2025-12-08, 19:00:48](https://news.ycombinator.com/item?id=46196228) - [Has the cost of building software just dropped 90%?](https://martinalderson.com/posts/has-the-cost-of-software-just-dropped-90-percent/)
 * [2025-12-08, 18:51:03](https://news.ycombinator.com/item?id=46196105) - [Jepsen: NATS 2.12.1](https://jepsen.io/analyses/nats-2.12.1)
 * [2025-12-08, 18:48:27](https://news.ycombinator.com/item?id=46196076) - [Deep dive on Nvidia circular funding](https://philippeoger.com/pages/deep-dive-into-nvidias-virtuous-cycle)
 * [2025-12-08, 17:39:55](https://news.ycombinator.com/item?id=46195225) - [Quanta to Publish Popular Math and Physics Titles by Terence Tao and David Tong](https://www.simonsfoundation.org/2025/12/08/quanta-books-to-publish-popular-math-and-physics-titles-by-terence-tao-and-david-tong/)
