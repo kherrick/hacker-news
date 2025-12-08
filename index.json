@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-12-08, 08:16:26",
+      "https://news.ycombinator.com/item?id=46189704"
+    ],
+    [
+      "Applets Are Officially Gone, but Java in the Browser Is Better",
+      "https://frequal.com/java/AppletsGoneButJavaInTheBrowserBetterThanEver.html"
+    ]
+  ],
+  [
+    [
       "2025-12-08, 07:00:33",
       "https://news.ycombinator.com/item?id=46189258"
     ],
@@ -27,16 +37,6 @@
     [
       "Damn Small Linux",
       "https://www.damnsmalllinux.org/"
-    ]
-  ],
-  [
-    [
-      "2025-12-08, 00:38:44",
-      "https://news.ycombinator.com/item?id=46186997"
-    ],
-    [
-      "Spinlocks vs. Mutexes: When to Spin and When to Sleep",
-      "https://howtech.substack.com/p/spinlocks-vs-mutexes-when-to-spin"
     ]
   ],
   [
@@ -77,16 +77,6 @@
     [
       "Mechanical power generation using Earth's ambient radiation",
       "https://www.science.org/doi/10.1126/sciadv.adw6833"
-    ]
-  ],
-  [
-    [
-      "2025-12-07, 19:17:17",
-      "https://news.ycombinator.com/item?id=46184229"
-    ],
-    [
-      "Estimates are difficult for developers and product owners",
-      "https://thorsell.io/2025/12/07/estimates.html"
     ]
   ],
   [
@@ -267,6 +257,16 @@
     [
       "An Interactive Guide to the Fourier Transform",
       "https://betterexplained.com/articles/an-interactive-guide-to-the-fourier-transform/"
+    ]
+  ],
+  [
+    [
+      "2025-12-02, 00:04:12",
+      "https://news.ycombinator.com/item?id=46115397"
+    ],
+    [
+      "Show HN: PVAC FHE over hypergraphs with LPN security",
+      "https://github.com/octra-labs/pvac_hfhe_cpp"
     ]
   ],
   [
