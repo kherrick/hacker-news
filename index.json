@@ -81,16 +81,6 @@
   ],
   [
     [
-      "2025-12-08, 04:45:20",
-      "https://news.ycombinator.com/item?id=46188451"
-    ],
-    [
-      "Palantir Could Be the Most Overvalued Company That Ever Existed",
-      "https://247wallst.com/investing/2025/11/25/palantir-could-be-the-most-overvalued-company-that-ever-existed/"
-    ]
-  ],
-  [
-    [
       "2025-12-08, 01:47:11",
       "https://news.ycombinator.com/item?id=46187387"
     ],
@@ -257,6 +247,16 @@
     [
       "Turtletoy",
       "https://turtletoy.net/"
+    ]
+  ],
+  [
+    [
+      "2025-12-02, 17:39:07",
+      "https://news.ycombinator.com/item?id=46123948"
+    ],
+    [
+      "Client-side GPU load balancing with Redis and Lua",
+      "https://galileo.ai/blog/how-we-boosted-gpu-utilization-by-40-with-redis-lua"
     ]
   ],
   [
