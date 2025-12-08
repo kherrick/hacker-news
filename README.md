@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-12-08, 02:29:01](https://news.ycombinator.com/item?id=46187645) - [Socialist ends by market means: A history](https://lucasvance.github.io/2100/history/)
+* [2025-12-08, 04:45:20](https://news.ycombinator.com/item?id=46188451) - [Palantir Could Be the Most Overvalued Company That Ever Existed](https://247wallst.com/investing/2025/11/25/palantir-could-be-the-most-overvalued-company-that-ever-existed/)
 * [2025-12-08, 01:47:11](https://news.ycombinator.com/item?id=46187387) - [Damn Small Linux](https://www.damnsmalllinux.org/)
 * [2025-12-08, 00:38:44](https://news.ycombinator.com/item?id=46186997) - [Spinlocks vs. Mutexes: When to Spin and When to Sleep](https://howtech.substack.com/p/spinlocks-vs-mutexes-when-to-spin)
 * [2025-12-08, 00:26:04](https://news.ycombinator.com/item?id=46186917) - [Show HN: Cdecl-dump - represent C declarations visually](https://github.com/bbu/cdecl-dump)
@@ -20,7 +20,7 @@
 * [2025-12-07, 11:51:02](https://news.ycombinator.com/item?id=46181076) - [Java Hello World, LLVM Edition](https://www.javaadvent.com/2025/12/java-hello-world-llvm-edition.html)
 * [2025-12-06, 20:00:17](https://news.ycombinator.com/item?id=46176169) - [CATL expects oceanic electric ships in 3 years](https://cleantechnica.com/2025/12/05/catl-expects-oceanic-electric-ships-in-3-years/)
 * [2025-12-05, 19:32:17](https://news.ycombinator.com/item?id=46166161) - [A two-person method to simulate die rolls (2023)](https://blog.42yeah.is/algorithm/2023/08/05/two-person-die.html)
-* [2025-12-05, 13:56:34](https://news.ycombinator.com/item?id=46161328) - [Emacs Is My New Window Manager](https://www.howardism.org/Technical/Emacs/new-window-manager.html)
+* [2025-12-05, 13:56:34](https://news.ycombinator.com/item?id=46161328) - [Emacs is my new window manager](https://www.howardism.org/Technical/Emacs/new-window-manager.html)
 * [2025-12-04, 13:11:33](https://news.ycombinator.com/item?id=46147285) - [Uninitialized garbage on ia64 can be deadly (2004)](https://devblogs.microsoft.com/oldnewthing/20040119-00/?p=41003)
 * [2025-12-03, 18:57:08](https://news.ycombinator.com/item?id=46138459) - [Turtletoy](https://turtletoy.net/)
 * [2025-12-03, 14:51:54](https://news.ycombinator.com/item?id=46135145) - [Building a Toast Component](https://emilkowal.ski/ui/building-a-toast-component)
@@ -28,7 +28,7 @@
 * [2025-12-02, 21:53:27](https://news.ycombinator.com/item?id=46127412) - [Work disincentives hit the near-poor hardest (2022)](https://www.niskanencenter.org/work-disincentives-hit-the-near-poor-hardest-why-and-what-to-do-about-it/)
 * [2025-12-02, 18:48:13](https://news.ycombinator.com/item?id=46124903) - [Minimum Viable Arduino Project: Aeropress Timer](https://netninja.com/2025/12/01/minimum-viable-arduino-project-aeropress-timer/)
 * [2025-12-02, 06:50:17](https://news.ycombinator.com/item?id=46118358) - [An Interactive Guide to the Fourier Transform](https://betterexplained.com/articles/an-interactive-guide-to-the-fourier-transform/)
-* [2025-11-29, 12:45:34](https://news.ycombinator.com/item?id=46087115) - [(2018) How I created a database of all interesting Rush Hour configurations](https://www.michaelfogleman.com/rush/)
+* [2025-11-29, 12:45:34](https://news.ycombinator.com/item?id=46087115) - [Solving Rush Hour, the Puzzle (2018)](https://www.michaelfogleman.com/rush/)
 * [2025-11-29, 12:04:34](https://news.ycombinator.com/item?id=46086923) - [Build a DIY magnetometer with a couple of seasoning bottles](https://spectrum.ieee.org/listen-to-protons-diy-magnetometer)
 
 ## [Archives](archives/index.md)
