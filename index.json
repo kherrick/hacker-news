@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-12-08, 19:00:48",
+      "https://news.ycombinator.com/item?id=46196228"
+    ],
+    [
+      "Has the cost of building software just dropped 90%?",
+      "https://martinalderson.com/posts/has-the-cost-of-software-just-dropped-90-percent/"
+    ]
+  ],
+  [
+    [
       "2025-12-08, 18:51:03",
       "https://news.ycombinator.com/item?id=46196105"
     ],
@@ -287,16 +297,6 @@
     [
       "Show HN: Persistent memory for Claude Code sessions",
       "https://github.com/TonyStef/Grov"
-    ]
-  ],
-  [
-    [
-      "2025-12-02, 17:39:07",
-      "https://news.ycombinator.com/item?id=46123948"
-    ],
-    [
-      "Client-side GPU load balancing with Redis and Lua",
-      "https://galileo.ai/blog/how-we-boosted-gpu-utilization-by-40-with-redis-lua"
     ]
   ]
 ]
