@@ -6,6 +6,7 @@
 
 * [2025-12-08, 15:33:02](https://news.ycombinator.com/item?id=46193413) - [Tsunami warning issued after 7.6-magnitude earthquake strikes Japan](https://earthquake.usgs.gov/earthquakes/map/?currentFeatureId=us6000rtdt&extent=-5.61599,111.26953&extent=70.40735,173.14453)
 * [2025-12-08, 15:33:01](https://news.ycombinator.com/item?id=46193412) - [I Successfully Recreated the 1996 Space Jam Website with Claude](https://theahura.substack.com/p/i-successfully-recreated-the-1996)
+* [2025-12-08, 15:12:28](https://news.ycombinator.com/item?id=46193116) - [Berkshire Hathaway Announces Leadership Appointments [pdf]](https://berkshirehathaway.com/news/dec0825.pdf)
 * [2025-12-08, 15:05:49](https://news.ycombinator.com/item?id=46193035) - [7.6 earthquake off the coast of Japan](https://www.data.jma.go.jp/multi/quake/quake_detail.html?eventID=20251208232600&lang=en)
 * [2025-12-08, 15:00:29](https://news.ycombinator.com/item?id=46192962) - [Uber starts selling ride/eats data to marketers](https://www.businessinsider.com/uber-ads-launches-intelligence-insights-trips-takeout-data-marketers-2025-12)
 * [2025-12-08, 14:16:34](https://news.ycombinator.com/item?id=46192459) - [Paramount launches hostile bid for Warner Bros](https://www.cnbc.com/2025/12/08/paramount-skydance-hostile-bid-wbd-netflix.html)

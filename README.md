@@ -2,6 +2,7 @@
 
 * [2025-12-08, 15:33:02](https://news.ycombinator.com/item?id=46193413) - [Tsunami warning issued after 7.6-magnitude earthquake strikes Japan](https://earthquake.usgs.gov/earthquakes/map/?currentFeatureId=us6000rtdt&extent=-5.61599,111.26953&extent=70.40735,173.14453)
 * [2025-12-08, 15:33:01](https://news.ycombinator.com/item?id=46193412) - [I Successfully Recreated the 1996 Space Jam Website with Claude](https://theahura.substack.com/p/i-successfully-recreated-the-1996)
+* [2025-12-08, 15:12:28](https://news.ycombinator.com/item?id=46193116) - [Berkshire Hathaway Announces Leadership Appointments [pdf]](https://berkshirehathaway.com/news/dec0825.pdf)
 * [2025-12-08, 15:05:49](https://news.ycombinator.com/item?id=46193035) - [7.6 earthquake off the coast of Japan](https://www.data.jma.go.jp/multi/quake/quake_detail.html?eventID=20251208232600&lang=en)
 * [2025-12-08, 15:00:29](https://news.ycombinator.com/item?id=46192962) - [Uber starts selling ride/eats data to marketers](https://www.businessinsider.com/uber-ads-launches-intelligence-insights-trips-takeout-data-marketers-2025-12)
 * [2025-12-08, 14:16:34](https://news.ycombinator.com/item?id=46192459) - [Paramount launches hostile bid for Warner Bros](https://www.cnbc.com/2025/12/08/paramount-skydance-hostile-bid-wbd-netflix.html)
@@ -27,7 +28,6 @@
 * [2025-12-04, 10:00:24](https://news.ycombinator.com/item?id=46145790) - [Wayland Nvidia: Your Complete 2025 Fix for a Broken Desktop](https://kextcache.com/wayland-nvidia-a-definite-2025-guide/)
 * [2025-12-03, 23:26:51](https://news.ycombinator.com/item?id=46141731) - [Jujutsu worktrees are convenient (2024)](https://shaddy.dev/notes/jj-worktrees/)
 * [2025-12-03, 18:57:08](https://news.ycombinator.com/item?id=46138459) - [Turtletoy](https://turtletoy.net/)
-* [2025-12-02, 22:04:54](https://news.ycombinator.com/item?id=46127575) - [Optimize for momentum](http://muratbuffalo.blogspot.com/2025/12/optimize-for-momentum.html)
 * [2025-12-02, 17:39:07](https://news.ycombinator.com/item?id=46123948) - [Client-side GPU load balancing with Redis and Lua](https://galileo.ai/blog/how-we-boosted-gpu-utilization-by-40-with-redis-lua)
 * [2025-11-30, 07:18:15](https://news.ycombinator.com/item?id=46094552) - [Show HN: ReadyKit – Superfast SaaS Starter with Multi-Tenant Workspaces](https://readykit.dev/)
 
