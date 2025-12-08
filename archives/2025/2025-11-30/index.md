@@ -52,6 +52,7 @@
 * [2025-11-30, 13:07:15](https://news.ycombinator.com/item?id=46096337) - [Advent of Code 2025](https://adventofcode.com/2025/about)
 * [2025-11-30, 13:03:01](https://news.ycombinator.com/item?id=46096312) - [OpenBSD: Free, Functional, and Secure](https://www.openbsd.org/)
 * [2025-11-30, 12:42:04](https://news.ycombinator.com/item?id=46096193) - [Schubfach: The smallest floating point double-to-string impleme](https://vitaut.net/posts/2025/smallest-dtoa/)
+* [2025-11-30, 12:10:21](https://news.ycombinator.com/item?id=46095988) - [Cool Facilities – The David Taylor Model Basin](https://www.navalgazing.net/David-Taylor-Model-Basin)
 * [2025-11-30, 11:37:08](https://news.ycombinator.com/item?id=46095819) - [FLUX.2](https://bfl.ai/models/flux-2)
 * [2025-11-30, 11:36:34](https://news.ycombinator.com/item?id=46095817) - [Z-Image: Powerful and highly efficient image generation model with 6B parameters](https://github.com/Tongyi-MAI/Z-Image)
 * [2025-11-30, 11:03:13](https://news.ycombinator.com/item?id=46095662) - [Beej's Guide to Learning Computer Science](https://beej.us/guide/bglcs/)

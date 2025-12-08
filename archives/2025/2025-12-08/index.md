@@ -4,11 +4,15 @@
 
 ### [Archives](../../index.md) for [2025-12-08](index.md)
 
+* [2025-12-08, 16:35:12](https://news.ycombinator.com/item?id=46194351) - [ActivityPub Fuzzer: Improving Testing in the Fediverse](https://asml.cyber.harvard.edu/2025/10/01/introducing-the-asml-activitypub-fuzzer-improving-testing-in-the-fediverse/)
+* [2025-12-08, 16:34:08](https://news.ycombinator.com/item?id=46194337) - [Let's put Tailscale on a jailbroken Kindle](https://tailscale.com/blog/tailscale-jailbroken-kindle)
+* [2025-12-08, 16:14:52](https://news.ycombinator.com/item?id=46194063) - [No more O'Reilly subscriptions for me](https://zerokspot.com/weblog/2025/12/05/no-more-oreilly-subscriptions-for-me/)
 * [2025-12-08, 16:06:14](https://news.ycombinator.com/item?id=46193931) - [AMD GPU Debugger](https://thegeeko.me/blog/amd-gpu-debugging/)
 * [2025-12-08, 15:33:02](https://news.ycombinator.com/item?id=46193413) - [Tsunami warning issued after 7.6-magnitude earthquake strikes Japan](https://earthquake.usgs.gov/earthquakes/map/?currentFeatureId=us6000rtdt&extent=-5.61599,111.26953&extent=70.40735,173.14453)
 * [2025-12-08, 15:33:01](https://news.ycombinator.com/item?id=46193412) - [I Successfully Recreated the 1996 Space Jam Website with Claude](https://theahura.substack.com/p/i-successfully-recreated-the-1996)
 * [2025-12-08, 15:12:28](https://news.ycombinator.com/item?id=46193116) - [Berkshire Hathaway Announces Leadership Appointments [pdf]](https://berkshirehathaway.com/news/dec0825.pdf)
 * [2025-12-08, 15:05:49](https://news.ycombinator.com/item?id=46193035) - [7.6 earthquake off the coast of Japan](https://www.data.jma.go.jp/multi/quake/quake_detail.html?eventID=20251208232600&lang=en)
+* [2025-12-08, 15:03:09](https://news.ycombinator.com/item?id=46192997) - [Nova Programming Language](https://nova-lang.net)
 * [2025-12-08, 15:00:29](https://news.ycombinator.com/item?id=46192962) - [Uber starts selling ride/eats data to marketers](https://www.businessinsider.com/uber-ads-launches-intelligence-insights-trips-takeout-data-marketers-2025-12)
 * [2025-12-08, 14:16:34](https://news.ycombinator.com/item?id=46192459) - [Paramount launches hostile bid for Warner Bros](https://www.cnbc.com/2025/12/08/paramount-skydance-hostile-bid-wbd-netflix.html)
 * [2025-12-08, 14:06:35](https://news.ycombinator.com/item?id=46192348) - [Show HN: I wrote a book – Debugging TypeScript Applications (in beta)](https://pragprog.com/titles/aodjs/debugging-typescript-applications/)
