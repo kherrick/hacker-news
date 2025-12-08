@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-12-08](index.md)
 
+* [2025-12-08, 13:23:29](https://news.ycombinator.com/item?id=46191933) - [Alignment Is Capability](https://www.off-policy.com/alignment-is-capability/)
 * [2025-12-08, 13:13:46](https://news.ycombinator.com/item?id=46191826) - [Pantone Color of the Year 2026: Pantone 11-4201 Cloud Dancer](https://www.pantone.com/color-of-the-year/2026)
+* [2025-12-08, 13:08:38](https://news.ycombinator.com/item?id=46191763) - [Flow: Actor-based language for C++, used by FoundationDB](https://github.com/apple/foundationdb/tree/main/flow)
 * [2025-12-08, 12:54:42](https://news.ycombinator.com/item?id=46191672) - [Removing juries: 'A move towards an authoritarian state'](https://www.theguardian.com/law/2025/dec/07/authoritarian-state-trial-by-jury-uk)
 * [2025-12-08, 12:01:13](https://news.ycombinator.com/item?id=46191269) - [Nango (YC W23) is hiring back-end engineers and dev-rels (remote)](https://jobs.ashbyhq.com/Nango)
 * [2025-12-08, 11:47:17](https://news.ycombinator.com/item?id=46191194) - [Bad Dye Job](https://daringfireball.net/2025/12/bad_dye_job)
