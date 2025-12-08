@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-12-08, 14:06:35](https://news.ycombinator.com/item?id=46192348) - [Show HN: I wrote a book – Debugging TypeScript Applications (in beta)](https://pragprog.com/titles/aodjs/debugging-typescript-applications/)
 * [2025-12-08, 13:49:21](https://news.ycombinator.com/item?id=46192186) - [Microsoft Increases Office 365 and Microsoft 365 License Prices](https://office365itpros.com/2025/12/08/microsoft-365-pricing-increase/)
+* [2025-12-08, 13:43:59](https://news.ycombinator.com/item?id=46192130) - [IBM to Acquire Confluent](https://www.confluent.io/blog/ibm-to-acquire-confluent/)
 * [2025-12-08, 13:23:29](https://news.ycombinator.com/item?id=46191933) - [Alignment Is Capability](https://www.off-policy.com/alignment-is-capability/)
 * [2025-12-08, 13:13:12](https://news.ycombinator.com/item?id=46191814) - [Colors of Growth](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5804462)
 * [2025-12-08, 13:08:38](https://news.ycombinator.com/item?id=46191763) - [Flow: Actor-based language for C++, used by FoundationDB](https://github.com/apple/foundationdb/tree/main/flow)
