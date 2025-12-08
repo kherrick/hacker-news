@@ -9,6 +9,7 @@
 * [2025-12-04, 23:08:07](https://news.ycombinator.com/item?id=46154484) - [SMS phishers pivot to points, taxes, fake retailers](https://krebsonsecurity.com/2025/12/sms-phishers-pivot-to-points-taxes-fake-retailers/)
 * [2025-12-04, 22:56:08](https://news.ycombinator.com/item?id=46154344) - [StardustOS: Library operating system for building light-weight Unikernels](https://github.com/StardustOS)
 * [2025-12-04, 22:26:43](https://news.ycombinator.com/item?id=46154022) - [State of AI: An Empirical 100T Token Study with OpenRouter](https://openrouter.ai/state-of-ai)
+* [2025-12-04, 22:11:19](https://news.ycombinator.com/item?id=46153822) - [Impacts of working from home on mental health tracked in study of Australians](https://www.abc.net.au/news/2025-12-05/australian-working-from-home-mental-health-impacts-tracked/106096688)
 * [2025-12-04, 21:40:24](https://news.ycombinator.com/item?id=46153466) - [Thoughts on Go vs. Rust vs. Zig](https://sinclairtarget.com/blog/2025/08/thoughts-on-go-vs.-rust-vs.-zig/)
 * [2025-12-04, 21:27:36](https://news.ycombinator.com/item?id=46153332) - [Countdown until the AI bubble bursts](https://pop-the-bubble.xyz/)
 * [2025-12-04, 21:09:56](https://news.ycombinator.com/item?id=46153116) - [Django 6 Released](https://docs.djangoproject.com/en/6.0/releases/6.0/)
