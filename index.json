@@ -1,12 +1,12 @@
 [
   [
     [
-      "2025-12-08, 17:38:59",
-      "https://news.ycombinator.com/item?id=46195205"
+      "2025-12-08, 17:39:55",
+      "https://news.ycombinator.com/item?id=46195225"
     ],
     [
-      "\"The Matilda Effect\": How Pioneering Women Are Written Out of Science History",
-      "https://www.openculture.com/2025/12/matilda-effect.html"
+      "Quanta to Publish Popular Math and Physics Titles by Terence Tao and David Tong",
+      "https://www.simonsfoundation.org/2025/12/08/quanta-books-to-publish-popular-math-and-physics-titles-by-terence-tao-and-david-tong/"
     ]
   ],
   [
@@ -17,6 +17,16 @@
     [
       "AI should only run as fast as we can catch up",
       "https://higashi.blog/2025/12/07/ai-verification/"
+    ]
+  ],
+  [
+    [
+      "2025-12-08, 17:25:54",
+      "https://news.ycombinator.com/item?id=46195007"
+    ],
+    [
+      "Show HN: DuckDB for Kafka Stream Processing",
+      "https://sql-flow.com/docs/tutorials/intro/"
     ]
   ],
   [
@@ -57,6 +67,16 @@
     [
       "Microsoft has a problem: nobody wants to buy or use its shoddy AI products",
       "https://www.windowscentral.com/artificial-intelligence/microsoft-has-a-problem-nobody-wants-to-buy-or-use-its-shoddy-ai"
+    ]
+  ],
+  [
+    [
+      "2025-12-08, 16:44:42",
+      "https://news.ycombinator.com/item?id=46194477"
+    ],
+    [
+      "A series of tricks and techniques I learned doing tiny GLSL demos",
+      "https://blog.pkh.me/p/48-a-series-of-tricks-and-techniques-i-learned-doing-tiny-glsl-demos.html"
     ]
   ],
   [
@@ -107,16 +127,6 @@
     [
       "AMD GPU Debugger",
       "https://thegeeko.me/blog/amd-gpu-debugging/"
-    ]
-  ],
-  [
-    [
-      "2025-12-08, 15:13:26",
-      "https://news.ycombinator.com/item?id=46193129"
-    ],
-    [
-      "Mac Cleaner CLI: Free and Open Source Mac Cleanup Tool",
-      "https://github.com/guhcostan/mac-cleaner-cli"
     ]
   ],
   [
@@ -191,16 +201,6 @@
   ],
   [
     [
-      "2025-12-08, 08:15:32",
-      "https://news.ycombinator.com/item?id=46189692"
-    ],
-    [
-      "GitHub Actions has a package manager, and it might be the worst",
-      "https://nesbitt.io/2025/12/06/github-actions-package-manager.html"
-    ]
-  ],
-  [
-    [
       "2025-12-08, 07:36:45",
       "https://news.ycombinator.com/item?id=46189480"
     ],
@@ -251,6 +251,16 @@
   ],
   [
     [
+      "2025-12-05, 19:33:28",
+      "https://news.ycombinator.com/item?id=46166178"
+    ],
+    [
+      "Microsoft Download Center Archive",
+      "https://legacyupdate.net/download-center/"
+    ]
+  ],
+  [
+    [
       "2025-12-05, 13:56:34",
       "https://news.ycombinator.com/item?id=46161328"
     ],
@@ -287,16 +297,6 @@
     [
       "Client-side GPU load balancing with Redis and Lua",
       "https://galileo.ai/blog/how-we-boosted-gpu-utilization-by-40-with-redis-lua"
-    ]
-  ],
-  [
-    [
-      "2025-11-30, 12:10:21",
-      "https://news.ycombinator.com/item?id=46095988"
-    ],
-    [
-      "Cool Facilities – The David Taylor Model Basin",
-      "https://www.navalgazing.net/David-Taylor-Model-Basin"
     ]
   ]
 ]
