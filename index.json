@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-12-08, 16:06:14",
+      "https://news.ycombinator.com/item?id=46193931"
+    ],
+    [
+      "AMD GPU Debugger",
+      "https://thegeeko.me/blog/amd-gpu-debugging/"
+    ]
+  ],
+  [
+    [
       "2025-12-08, 15:33:02",
       "https://news.ycombinator.com/item?id=46193413"
     ],
@@ -47,16 +57,6 @@
     [
       "Uber starts selling ride/eats data to marketers",
       "https://www.businessinsider.com/uber-ads-launches-intelligence-insights-trips-takeout-data-marketers-2025-12"
-    ]
-  ],
-  [
-    [
-      "2025-12-08, 14:16:34",
-      "https://news.ycombinator.com/item?id=46192459"
-    ],
-    [
-      "Paramount launches hostile bid for Warner Bros",
-      "https://www.cnbc.com/2025/12/08/paramount-skydance-hostile-bid-wbd-netflix.html"
     ]
   ],
   [
@@ -171,6 +171,16 @@
   ],
   [
     [
+      "2025-12-07, 21:55:01",
+      "https://news.ycombinator.com/item?id=46185576"
+    ],
+    [
+      "Mechanical power generation using Earth's ambient radiation",
+      "https://www.science.org/doi/10.1126/sciadv.adw6833"
+    ]
+  ],
+  [
+    [
       "2025-12-07, 18:07:06",
       "https://news.ycombinator.com/item?id=46183657"
     ],
@@ -211,16 +221,6 @@
   ],
   [
     [
-      "2025-12-07, 12:23:45",
-      "https://news.ycombinator.com/item?id=46181231"
-    ],
-    [
-      "Google Titans architecture, helping AI have long-term memory",
-      "https://research.google/blog/titans-miras-helping-ai-have-long-term-memory/"
-    ]
-  ],
-  [
-    [
       "2025-12-05, 13:56:34",
       "https://news.ycombinator.com/item?id=46161328"
     ],
@@ -237,26 +237,6 @@
     [
       "The \"confident idiot\" problem: Why AI needs hard rules, not vibe checks",
       "https://steerlabs.substack.com/p/confident-idiot-problem"
-    ]
-  ],
-  [
-    [
-      "2025-12-04, 12:43:52",
-      "https://news.ycombinator.com/item?id=46147021"
-    ],
-    [
-      "C++ Enum Class and Error Codes, Part 3",
-      "https://mropert.github.io/2025/12/03/enum_class_error_codes_part3/"
-    ]
-  ],
-  [
-    [
-      "2025-12-04, 10:00:24",
-      "https://news.ycombinator.com/item?id=46145790"
-    ],
-    [
-      "Wayland Nvidia: Your Complete 2025 Fix for a Broken Desktop",
-      "https://kextcache.com/wayland-nvidia-a-definite-2025-guide/"
     ]
   ],
   [
@@ -281,12 +261,32 @@
   ],
   [
     [
+      "2025-12-02, 22:04:54",
+      "https://news.ycombinator.com/item?id=46127575"
+    ],
+    [
+      "Optimize for momentum",
+      "http://muratbuffalo.blogspot.com/2025/12/optimize-for-momentum.html"
+    ]
+  ],
+  [
+    [
       "2025-12-02, 17:39:07",
       "https://news.ycombinator.com/item?id=46123948"
     ],
     [
       "Client-side GPU load balancing with Redis and Lua",
       "https://galileo.ai/blog/how-we-boosted-gpu-utilization-by-40-with-redis-lua"
+    ]
+  ],
+  [
+    [
+      "2025-12-02, 06:50:17",
+      "https://news.ycombinator.com/item?id=46118358"
+    ],
+    [
+      "An Interactive Guide to the Fourier Transform",
+      "https://betterexplained.com/articles/an-interactive-guide-to-the-fourier-transform/"
     ]
   ],
   [
