@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-12-08, 09:05:52](https://news.ycombinator.com/item?id=46190051) - [Migrating Burningboard.net Mastodon Instance to a Multi-Jail FreeBSD Setup](https://blog.hofstede.it/migrating-burningboardnet-mastodon-instance-to-a-multi-jail-freebsd-setup/index.html)
 * [2025-12-08, 08:57:19](https://news.ycombinator.com/item?id=46189994) - [The f*** off contact page](https://www.nicchan.me/blog/the-f-off-contact-page/)
 * [2025-12-08, 08:16:26](https://news.ycombinator.com/item?id=46189704) - [Applets Are Officially Gone, but Java in the Browser Is Better](https://frequal.com/java/AppletsGoneButJavaInTheBrowserBetterThanEver.html)
 * [2025-12-08, 08:15:32](https://news.ycombinator.com/item?id=46189692) - [GitHub Actions Has a Package Manager, and It Might Be the Worst](https://nesbitt.io/2025/12/06/github-actions-package-manager.html)
 * [2025-12-08, 07:36:45](https://news.ycombinator.com/item?id=46189480) - [Show HN: Lockenv – Simple encrypted secrets storage for Git](https://github.com/illarion/lockenv)
 * [2025-12-08, 07:00:33](https://news.ycombinator.com/item?id=46189258) - [Truemetrics (YC S23) Is Hiring](https://www.ycombinator.com/companies/truemetrics/jobs/1EHTSyT-python-software-engineer-analystics-and-algorithms)
-* [2025-12-08, 04:45:20](https://news.ycombinator.com/item?id=46188451) - [Palantir Could Be the Most Overvalued Company That Ever Existed](https://247wallst.com/investing/2025/11/25/palantir-could-be-the-most-overvalued-company-that-ever-existed/)
 * [2025-12-08, 01:47:11](https://news.ycombinator.com/item?id=46187387) - [Damn Small Linux](https://www.damnsmalllinux.org/)
 * [2025-12-08, 00:26:04](https://news.ycombinator.com/item?id=46186917) - [Show HN: Cdecl-dump - represent C declarations visually](https://github.com/bbu/cdecl-dump)
 * [2025-12-07, 22:31:22](https://news.ycombinator.com/item?id=46185957) - [Bag of words, have mercy on us](https://www.experimental-history.com/p/bag-of-words-have-mercy-on-us)
@@ -20,6 +20,7 @@
 * [2025-12-07, 12:31:53](https://news.ycombinator.com/item?id=46181268) - [The Anatomy of a macOS App](https://eclecticlight.co/2025/12/04/the-anatomy-of-a-macos-app/)
 * [2025-12-07, 12:23:45](https://news.ycombinator.com/item?id=46181231) - [Google Titans architecture, helping AI have long-term memory](https://research.google/blog/titans-miras-helping-ai-have-long-term-memory/)
 * [2025-12-06, 20:00:17](https://news.ycombinator.com/item?id=46176169) - [CATL expects oceanic electric ships in 3 years](https://cleantechnica.com/2025/12/05/catl-expects-oceanic-electric-ships-in-3-years/)
+* [2025-12-05, 19:32:17](https://news.ycombinator.com/item?id=46166161) - [A two-person method to simulate die rolls (2023)](https://blog.42yeah.is/algorithm/2023/08/05/two-person-die.html)
 * [2025-12-05, 13:56:34](https://news.ycombinator.com/item?id=46161328) - [Emacs is my new window manager](https://www.howardism.org/Technical/Emacs/new-window-manager.html)
 * [2025-12-04, 13:11:33](https://news.ycombinator.com/item?id=46147285) - [Uninitialized garbage on ia64 can be deadly (2004)](https://devblogs.microsoft.com/oldnewthing/20040119-00/?p=41003)
 * [2025-12-03, 23:26:51](https://news.ycombinator.com/item?id=46141731) - [Jujutsu Worktrees Are Convenient](https://shaddy.dev/notes/jj-worktrees/)
@@ -29,7 +30,6 @@
 * [2025-12-02, 00:04:12](https://news.ycombinator.com/item?id=46115397) - [Show HN: PVAC FHE over hypergraphs with LPN security](https://github.com/octra-labs/pvac_hfhe_cpp)
 * [2025-11-30, 07:18:15](https://news.ycombinator.com/item?id=46094552) - [Show HN: ReadyKit – Superfast SaaS Starter with Multi-Tenant Workspaces](https://readykit.dev/)
 * [2025-11-29, 12:45:34](https://news.ycombinator.com/item?id=46087115) - [Solving Rush Hour, the Puzzle (2018)](https://www.michaelfogleman.com/rush/)
-* [2025-11-29, 12:04:34](https://news.ycombinator.com/item?id=46086923) - [Build a DIY magnetometer with a couple of seasoning bottles](https://spectrum.ieee.org/listen-to-protons-diy-magnetometer)
 
 ## [Archives](archives/index.md)
 
