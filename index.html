@@ -129,6 +129,158 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
+        <section id="46194828">
+          <h3>
+            <a class="item" href="https://www.trynia.ai/"
+              >Launch HN: Nia (YC S25) – Give better context to coding agents</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2025-12-08 @ 17:10:14</span
+              ><span class="points-container"
+                >Points: <span class="points">14</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=46194828"
+                  >Comments</a
+                ><span class="descendants">: 10</span></span
+              >
+            </h4>
+            <div class="text">
+              <a href="https://trynia.ai">https://trynia.ai</a>), a SOTA context
+              layer for AI coding agents. Nia lets tools like Cursor, Claude
+              Code, and other MCP clients index and query real codebases and
+              documentation so they stop hallucinating against outdated or wrong
+              sources, with applications beyond coding agents to any AI system
+              that requires grounded context across domains.
+              <p>
+                Coding agents are only as good as the context you give them.
+                General models are trained on public code and documentation that
+                is often old, and they usually have no idea what is inside your
+                actual repo, internal wiki, or the exact version of a third
+                party SDK you use. The result is very familiar: you paste URLs
+                and code snippets into the prompt, the agent confidently uses an
+                outdated API or the wrong framework version, and you spend more
+                time verifying and correcting it than if you had written the
+                code yourself. Once models are good enough at generating code,
+                feeding them precise, up-to-date context becomes the bottleneck.
+              </p>
+              <p>
+                I ran into this pattern first on my own projects when (a few
+                months ago) I was still in high school in Kazakhstan, obsessed
+                with codegen tools and trying every coding agent I could find. I
+                saw it again when I got into YC and talked to other teams who
+                were also trying to use agents on real work.
+              </p>
+              <p>
+                The first version of Nia was basically “my personal MCP server
+                that knows my repos and favorite doc sites so I do not have to
+                paste URLs into Cursor anymore.” Once I saw how much smoother my
+                own workflow became, it felt obvious that this should be a
+                product other people could use too.
+              </p>
+              <p>
+                Under the hood, Nia is an indexing and retrieval service with an
+                MCP interface and an API. You point it at sources like GitHub
+                repositories, framework or provider docs, SDK pages, PDF
+                manuals, etc. We fetch and parse those with some simple
+                heuristics for code structures, headings, and tables, then
+                normalize them into chunks and build several indexes: a semantic
+                index with embeddings for natural language queries; a symbol and
+                usage index for functions, classes, types, and endpoints; a
+                basic reference graph between files, symbols, and external docs;
+                regex and file tree search for cases where you want
+                deterministic matches over raw text.
+              </p>
+              <p>
+                When an agent calls Nia, it sends a natural language query plus
+                optional hints like the current file path, stack trace, or
+                repository. Nia runs a mix of BM25 style search, embedding
+                similarity, and graph walks to rank relevant snippets, and can
+                also return precise locations like “this function definition in
+                this file and the three places it is used” instead of just a
+                fuzzy paragraph. The calling agent then decides how to use those
+                snippets in its own prompt. One Nia deployment can serve
+                multiple agents and multiple projects at once. For example, you
+                can have Cursor, Claude Code, and a browser based agent all
+                pointed at the same Nia instance that knows about your monorepo,
+                your internal wiki, and the provider docs you care about. We
+                keep an agent agnostic session record that tracks which sources
+                were used and which snippets the user accepted. Any MCP client
+                can attach to that session id, fetch the current context, and
+                extend it, so switching tools does not mean losing what has
+                already been discovered.
+              </p>
+              <p>
+                A lot of work goes into keeping indexes fresh without
+                reprocessing everything. Background workers periodically refetch
+                configured sources, detect which files or pages changed, and
+                reindex those incrementally. This matters because many of the
+                worst “hallucinations” I have seen are actually the model
+                quoting valid documentation for the wrong version. Fixing that
+                is more about version and change tracking than about model
+                quality.
+              </p>
+              <p>
+                We ship Nia with a growing set of pre-indexed public sources.
+                Today this includes around 6k packages from common frameworks
+                and provider docs, plus package search over thousands of
+                libraries from ecosystems like PyPI, npm, and RubyGems, as well
+                as pre indexed /explore page where everyone can contribute their
+                sources! The idea is that a new user can install Nia, connect
+                nothing, and still get useful answers for common libraries.
+                Then, as soon as you add your own repos and internal docs, those
+                private sources are merged into the same index. Some examples of
+                how people use Nia so far: - migrating from one payments
+                provider or API version to another by indexing the provider docs
+                plus example repos and letting the agent propose and iterate on
+                patches; - answering “how do I do X in this framework” by
+                indexing the framework source directly instead of relying only
+                on official docs that might be stale; - turning an unfamiliar
+                public codebase into a temporary wiki to self onboard, where you
+                can ask structural questions and jump to specific files,
+                functions, or commits; - building a browser agent that answers
+                questions using up to date code and docs even when the public
+                documentation lags behind.
+              </p>
+              <p>
+                Nia is a paid product (<a href="https://www.trynia.ai/"
+                  >https://www.trynia.ai/</a
+                >) but we have a free tier that should be enough for individuals
+                to try it on real projects. Above that there is a self-serve
+                paid plan for heavier individual use, and organization plans
+                with higher limits, SOC 2, seat based billing, and options for
+                teams that want to keep indexing inside their own environment.
+                For private GitHub repos we can clone and index locally so code
+                does not leave your infrastructure.
+              </p>
+              <p>
+                We store account details and basic telemetry like query counts
+                and errors to operate the service, and we store processed
+                representations of content you explicitly connect (chunks,
+                metadata, embeddings, and small graphs) so we can answer
+                queries. We do not train foundation models on customer content
+                and we do not sell user data. Moreover, I can see Nia play out
+                in the larger context of the agents space due to the global
+                problem of providing reliable context to those systems. Early
+                signals show that people are already using Nia for healthcare
+                data, cloning Paul Graham by indexing all of his essays and
+                turning him into an AI agent, using Naval’s archive to build a
+                personalized agent, and more.
+              </p>
+              <p>
+                I would love to get Nia into the hands of more engineers who are
+                already pushing coding agents hard and see where it breaks. I am
+                especially interested in hearing about failure modes, annoying
+                onboarding steps, places where the retrieval logic is obviously
+                wrong or incomplete, or any security concerns I should address.
+                I will be in the thread to answer questions, share more
+                technical details, and collect any brutal feedback you are
+                willing to give!
+              </p>
+            </div>
+          </section>
+        </section>
         <section id="46194720">
           <h3>
             <a class="item" href="https://news.ycombinator.com/item?id=46194720"
@@ -198,11 +350,11 @@
             <h4>
               <span>2025-12-08 @ 16:54:31</span
               ><span class="points-container"
-                >Points: <span class="points">97</span></span
+                >Points: <span class="points">115</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46194615"
                   >Comments</a
-                ><span class="descendants">: 50</span></span
+                ><span class="descendants">: 72</span></span
               >
             </h4>
           </section>
@@ -219,32 +371,11 @@
             <h4>
               <span>2025-12-08 @ 16:38:08</span
               ><span class="points-container"
-                >Points: <span class="points">52</span></span
+                >Points: <span class="points">67</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46194384"
                   >Comments</a
                 ><span class="descendants">: 4</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="46194351">
-          <h3>
-            <a
-              class="item"
-              href="https://asml.cyber.harvard.edu/2025/10/01/introducing-the-asml-activitypub-fuzzer-improving-testing-in-the-fediverse/"
-              >ActivityPub Fuzzer: Improving Testing in the Fediverse</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2025-12-08 @ 16:35:12</span
-              ><span class="points-container"
-                >Points: <span class="points">8</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=46194351"
-                  >Comments</a
-                ><span class="descendants">: 1</span></span
               >
             </h4>
           </section>
@@ -261,11 +392,11 @@
             <h4>
               <span>2025-12-08 @ 16:34:08</span
               ><span class="points-container"
-                >Points: <span class="points">40</span></span
+                >Points: <span class="points">47</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46194337"
                   >Comments</a
-                ><span class="descendants">: 5</span></span
+                ><span class="descendants">: 9</span></span
               >
             </h4>
           </section>
@@ -282,11 +413,11 @@
             <h4>
               <span>2025-12-08 @ 16:32:50</span
               ><span class="points-container"
-                >Points: <span class="points">24</span></span
+                >Points: <span class="points">33</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46194315"
                   >Comments</a
-                ><span class="descendants">: 15</span></span
+                ><span class="descendants">: 18</span></span
               >
             </h4>
           </section>
@@ -303,11 +434,11 @@
             <h4>
               <span>2025-12-08 @ 16:14:52</span
               ><span class="points-container"
-                >Points: <span class="points">42</span></span
+                >Points: <span class="points">47</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46194063"
                   >Comments</a
-                ><span class="descendants">: 29</span></span
+                ><span class="descendants">: 40</span></span
               >
             </h4>
           </section>
@@ -322,11 +453,30 @@
             <h4>
               <span>2025-12-08 @ 16:06:14</span
               ><span class="points-container"
-                >Points: <span class="points">81</span></span
+                >Points: <span class="points">94</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46193931"
                   >Comments</a
-                ><span class="descendants">: 3</span></span
+                ><span class="descendants">: 4</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="46193129">
+          <h3>
+            <a class="item" href="https://github.com/guhcostan/mac-cleaner-cli"
+              >Mac Cleaner CLI: Free and Open Source Mac Cleanup Tool</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2025-12-08 @ 15:13:26</span
+              ><span class="points-container"
+                >Points: <span class="points">12</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=46193129"
+                  >Comments</a
+                ><span class="descendants">: 0</span></span
               >
             </h4>
           </section>
@@ -347,7 +497,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46193116"
                   >Comments</a
-                ><span class="descendants">: 19</span></span
+                ><span class="descendants">: 20</span></span
               >
             </h4>
           </section>
@@ -362,32 +512,11 @@
             <h4>
               <span>2025-12-08 @ 15:03:09</span
               ><span class="points-container"
-                >Points: <span class="points">25</span></span
+                >Points: <span class="points">27</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46192997"
                   >Comments</a
                 ><span class="descendants">: 14</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="46192962">
-          <h3>
-            <a
-              class="item"
-              href="https://www.businessinsider.com/uber-ads-launches-intelligence-insights-trips-takeout-data-marketers-2025-12"
-              >Uber starts selling ride/eats data to marketers</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2025-12-08 @ 15:00:29</span
-              ><span class="points-container"
-                >Points: <span class="points">167</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=46192962"
-                  >Comments</a
-                ><span class="descendants">: 167</span></span
               >
             </h4>
           </section>
@@ -404,11 +533,11 @@
             <h4>
               <span>2025-12-08 @ 14:50:48</span
               ><span class="points-container"
-                >Points: <span class="points">78</span></span
+                >Points: <span class="points">91</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46192846"
                   >Comments</a
-                ><span class="descendants">: 58</span></span
+                ><span class="descendants">: 61</span></span
               >
             </h4>
             <div class="text">
@@ -449,11 +578,11 @@
             <h4>
               <span>2025-12-08 @ 13:43:59</span
               ><span class="points-container"
-                >Points: <span class="points">193</span></span
+                >Points: <span class="points">198</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46192130"
                   >Comments</a
-                ><span class="descendants">: 160</span></span
+                ><span class="descendants">: 163</span></span
               >
             </h4>
           </section>
@@ -474,7 +603,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46191933"
                   >Comments</a
-                ><span class="descendants">: 55</span></span
+                ><span class="descendants">: 57</span></span
               >
             </h4>
           </section>
@@ -512,11 +641,11 @@
             <h4>
               <span>2025-12-08 @ 13:08:38</span
               ><span class="points-container"
-                >Points: <span class="points">108</span></span
+                >Points: <span class="points">110</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46191763"
                   >Comments</a
-                ><span class="descendants">: 27</span></span
+                ><span class="descendants">: 28</span></span
               >
             </h4>
           </section>
@@ -531,7 +660,7 @@
             <h4>
               <span>2025-12-08 @ 10:13:07</span
               ><span class="points-container"
-                >Points: <span class="points">193</span></span
+                >Points: <span class="points">194</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46190577"
                   >Comments</a
@@ -553,11 +682,11 @@
             <h4>
               <span>2025-12-08 @ 08:15:32</span
               ><span class="points-container"
-                >Points: <span class="points">301</span></span
+                >Points: <span class="points">303</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46189692"
                   >Comments</a
-                ><span class="descendants">: 184</span></span
+                ><span class="descendants">: 186</span></span
               >
             </h4>
           </section>
@@ -572,11 +701,11 @@
             <h4>
               <span>2025-12-08 @ 07:36:45</span
               ><span class="points-container"
-                >Points: <span class="points">76</span></span
+                >Points: <span class="points">77</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46189480"
                   >Comments</a
-                ><span class="descendants">: 23</span></span
+                ><span class="descendants">: 24</span></span
               >
             </h4>
             <div class="text">
@@ -615,7 +744,7 @@
             <h4>
               <span>2025-12-08 @ 01:47:11</span
               ><span class="points-container"
-                >Points: <span class="points">195</span></span
+                >Points: <span class="points">199</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46187387"
                   >Comments</a
@@ -636,11 +765,11 @@
             <h4>
               <span>2025-12-07 @ 22:31:22</span
               ><span class="points-container"
-                >Points: <span class="points">276</span></span
+                >Points: <span class="points">280</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46185957"
                   >Comments</a
-                ><span class="descendants">: 296</span></span
+                ><span class="descendants">: 297</span></span
               >
             </h4>
           </section>
@@ -657,11 +786,11 @@
             <h4>
               <span>2025-12-07 @ 17:18:54</span
               ><span class="points-container"
-                >Points: <span class="points">520</span></span
+                >Points: <span class="points">521</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46183294"
                   >Comments</a
-                ><span class="descendants">: 425</span></span
+                ><span class="descendants">: 428</span></span
               >
             </h4>
           </section>
@@ -678,11 +807,11 @@
             <h4>
               <span>2025-12-07 @ 14:37:21</span
               ><span class="points-container"
-                >Points: <span class="points">473</span></span
+                >Points: <span class="points">475</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46181962"
                   >Comments</a
-                ><span class="descendants">: 651</span></span
+                ><span class="descendants">: 652</span></span
               >
             </h4>
           </section>
@@ -699,16 +828,37 @@
             <h4>
               <span>2025-12-07 @ 12:57:59</span
               ><span class="points-container"
-                >Points: <span class="points">513</span></span
+                >Points: <span class="points">526</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46181371"
                   >Comments</a
-                ><span class="descendants">: 729</span></span
+                ><span class="descendants">: 751</span></span
               >
             </h4>
             <div class="text">
               <a href="https://archive.is/jEJAj">https://archive.is/jEJAj</a>
             </div>
+          </section>
+        </section>
+        <section id="46176965">
+          <h3>
+            <a
+              class="item"
+              href="https://brettterpstra.com/2025/12/06/introducing-apex-universal-markdown-processor/"
+              >Apex: Universal Markdown Processor</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2025-12-06 @ 22:02:36</span
+              ><span class="points-container"
+                >Points: <span class="points">7</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=46176965"
+                  >Comments</a
+                ><span class="descendants">: 3</span></span
+              >
+            </h4>
           </section>
         </section>
         <section id="46161328">
@@ -723,11 +873,11 @@
             <h4>
               <span>2025-12-05 @ 13:56:34</span
               ><span class="points-container"
-                >Points: <span class="points">190</span></span
+                >Points: <span class="points">192</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46161328"
                   >Comments</a
-                ><span class="descendants">: 71</span></span
+                ><span class="descendants">: 74</span></span
               >
             </h4>
           </section>
@@ -745,30 +895,11 @@
             <h4>
               <span>2025-12-04 @ 20:48:56</span
               ><span class="points-container"
-                >Points: <span class="points">219</span></span
+                >Points: <span class="points">226</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46152838"
                   >Comments</a
-                ><span class="descendants">: 237</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="46141731">
-          <h3>
-            <a class="item" href="https://shaddy.dev/notes/jj-worktrees/"
-              >Jujutsu worktrees are convenient (2024)</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2025-12-03 @ 23:26:51</span
-              ><span class="points-container"
-                >Points: <span class="points">107</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=46141731"
-                  >Comments</a
-                ><span class="descendants">: 82</span></span
+                ><span class="descendants">: 241</span></span
               >
             </h4>
           </section>
@@ -779,7 +910,7 @@
             <h4>
               <span>2025-12-03 @ 18:57:08</span
               ><span class="points-container"
-                >Points: <span class="points">280</span></span
+                >Points: <span class="points">282</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46138459"
                   >Comments</a
@@ -800,7 +931,7 @@
             <h4>
               <span>2025-12-02 @ 17:39:07</span
               ><span class="points-container"
-                >Points: <span class="points">35</span></span
+                >Points: <span class="points">37</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46123948"
                   >Comments</a
@@ -821,7 +952,7 @@
             <h4>
               <span>2025-11-30 @ 12:10:21</span
               ><span class="points-container"
-                >Points: <span class="points">5</span></span
+                >Points: <span class="points">6</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46095988"
                   >Comments</a
