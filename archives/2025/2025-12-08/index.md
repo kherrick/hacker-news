@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-12-08](index.md)
 
+* [2025-12-08, 17:10:14](https://news.ycombinator.com/item?id=46194828) - [Launch HN: Nia (YC S25) – Give better context to coding agents](https://www.trynia.ai/)
 * [2025-12-08, 17:01:11](https://news.ycombinator.com/item?id=46194720) - [Legion Health (YC S21) is hiring a founding engineer (SF, in-person)](https://news.ycombinator.com/item?id=46194720)
 * [2025-12-08, 16:54:31](https://news.ycombinator.com/item?id=46194615) - [Microsoft has a problem: nobody wants to buy or use its shoddy AI products](https://www.windowscentral.com/artificial-intelligence/microsoft-has-a-problem-nobody-wants-to-buy-or-use-its-shoddy-ai)
 * [2025-12-08, 16:38:08](https://news.ycombinator.com/item?id=46194384) - [Hunting for North Korean Fiber Optic Cables](https://nkinternet.com/2025/12/08/hunting-for-north-korean-fiber-optic-cables/)
@@ -14,6 +15,7 @@
 * [2025-12-08, 16:06:14](https://news.ycombinator.com/item?id=46193931) - [AMD GPU Debugger](https://thegeeko.me/blog/amd-gpu-debugging/)
 * [2025-12-08, 15:33:02](https://news.ycombinator.com/item?id=46193413) - [Tsunami warning issued after 7.6-magnitude earthquake strikes Japan](https://earthquake.usgs.gov/earthquakes/map/?currentFeatureId=us6000rtdt&extent=-5.61599,111.26953&extent=70.40735,173.14453)
 * [2025-12-08, 15:33:01](https://news.ycombinator.com/item?id=46193412) - [I Successfully Recreated the 1996 Space Jam Website with Claude](https://theahura.substack.com/p/i-successfully-recreated-the-1996)
+* [2025-12-08, 15:13:26](https://news.ycombinator.com/item?id=46193129) - [Mac Cleaner CLI: Free and Open Source Mac Cleanup Tool](https://github.com/guhcostan/mac-cleaner-cli)
 * [2025-12-08, 15:12:28](https://news.ycombinator.com/item?id=46193116) - [Berkshire Hathaway Announces Leadership Appointments [pdf]](https://berkshirehathaway.com/news/dec0825.pdf)
 * [2025-12-08, 15:05:49](https://news.ycombinator.com/item?id=46193035) - [7.6 earthquake off the coast of Japan](https://www.data.jma.go.jp/multi/quake/quake_detail.html?eventID=20251208232600&lang=en)
 * [2025-12-08, 15:03:09](https://news.ycombinator.com/item?id=46192997) - [Nova Programming Language](https://nova-lang.net)

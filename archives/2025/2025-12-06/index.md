@@ -13,6 +13,7 @@
 * [2025-12-06, 22:26:26](https://news.ycombinator.com/item?id=46177132) - [United States Antarctic Program Field Manual (2024) [pdf]](https://www.usap.gov/usapgov/travelAndDeployment/documents/Continental-Field-Manual-2024.pdf)
 * [2025-12-06, 22:11:33](https://news.ycombinator.com/item?id=46177022) - [Catala – Law to Code](https://catala-lang.org)
 * [2025-12-06, 22:06:48](https://news.ycombinator.com/item?id=46176987) - [Chernobyl protective shield can no longer confine radiation after drone strike](https://www.cnn.com/2025/12/06/europe/chernobyl-drone-strike-radiation-latam-intl)
+* [2025-12-06, 22:02:36](https://news.ycombinator.com/item?id=46176965) - [Apex: Universal Markdown Processor](https://brettterpstra.com/2025/12/06/introducing-apex-universal-markdown-processor/)
 * [2025-12-06, 21:55:29](https://news.ycombinator.com/item?id=46176908) - [How the 'hypnagogic state' of drowsiness could enhance your creativity](https://theconversation.com/how-the-hypnagogic-state-of-drowsiness-could-enhance-your-creativity-269724)
 * [2025-12-06, 21:55:09](https://news.ycombinator.com/item?id=46176905) - [Screenshots from developers: 2002 vs. 2015 (2015)](https://anders.unix.se/2015/12/10/screenshots-from-developers--2002-vs.-2015/)
 * [2025-12-06, 21:55:08](https://news.ycombinator.com/item?id=46176904) - [Copy-Item is 27% slower than File Explorer](https://til.andrew-quinn.me/posts/copy-item-is-27-percent-slower-than-file-explorer-drag-and-drop-on-windows/)
