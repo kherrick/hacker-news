@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-12-08, 10:13:07](https://news.ycombinator.com/item?id=46190577) - [12 Days of Shell](https://12days.cmdchallenge.com)
+* [2025-12-08, 10:03:13](https://news.ycombinator.com/item?id=46190499) - [Why Leftover Pizza Might Be Healthier](https://www.scientificamerican.com/video/why-leftover-pizza-is-actually-healthier-the-science-of-resistant-starch/)
 * [2025-12-08, 09:42:04](https://news.ycombinator.com/item?id=46190324) - [Einstein: NewtonOS running on other operating systems](https://github.com/pguyot/Einstein)
 * [2025-12-08, 09:05:52](https://news.ycombinator.com/item?id=46190051) - [Migrating Burningboard.net Mastodon Instance to a Multi-Jail FreeBSD Setup](https://blog.hofstede.it/migrating-burningboardnet-mastodon-instance-to-a-multi-jail-freebsd-setup/index.html)
 * [2025-12-08, 08:57:19](https://news.ycombinator.com/item?id=46189994) - [The fuck off contact page](https://www.nicchan.me/blog/the-f-off-contact-page/)
@@ -21,7 +22,6 @@
 * [2025-12-07, 12:31:53](https://news.ycombinator.com/item?id=46181268) - [The Anatomy of a macOS App](https://eclecticlight.co/2025/12/04/the-anatomy-of-a-macos-app/)
 * [2025-12-07, 12:23:45](https://news.ycombinator.com/item?id=46181231) - [Google Titans architecture, helping AI have long-term memory](https://research.google/blog/titans-miras-helping-ai-have-long-term-memory/)
 * [2025-12-06, 20:00:17](https://news.ycombinator.com/item?id=46176169) - [CATL expects oceanic electric ships in 3 years](https://cleantechnica.com/2025/12/05/catl-expects-oceanic-electric-ships-in-3-years/)
-* [2025-12-05, 19:32:17](https://news.ycombinator.com/item?id=46166161) - [A two-person method to simulate die rolls (2023)](https://blog.42yeah.is/algorithm/2023/08/05/two-person-die.html)
 * [2025-12-05, 13:56:34](https://news.ycombinator.com/item?id=46161328) - [Emacs is my new window manager](https://www.howardism.org/Technical/Emacs/new-window-manager.html)
 * [2025-12-04, 13:11:33](https://news.ycombinator.com/item?id=46147285) - [Uninitialized garbage on ia64 can be deadly (2004)](https://devblogs.microsoft.com/oldnewthing/20040119-00/?p=41003)
 * [2025-12-03, 23:26:51](https://news.ycombinator.com/item?id=46141731) - [Jujutsu Worktrees Are Convenient](https://shaddy.dev/notes/jj-worktrees/)
