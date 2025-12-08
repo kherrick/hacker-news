@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2025-12-08](index.md)
 
+* [2025-12-08, 21:54:12](https://news.ycombinator.com/item?id=46198177) - [Running on Empty: Copper](https://thehonestsorcerer.substack.com/p/running-on-empty-copper)
 * [2025-12-08, 19:58:41](https://news.ycombinator.com/item?id=46196831) - [GitHub no longer uses Toasts](https://primer.style/accessibility/toasts/)
 * [2025-12-08, 19:45:57](https://news.ycombinator.com/item?id=46196708) - [Myocardial Fibrosis in Athletes: Risk Marker or Physiological Adaptation?](https://www.mdpi.com/2227-9059/13/11/2747)
+* [2025-12-08, 19:44:00](https://news.ycombinator.com/item?id=46196688) - [Icons in Menus Everywhere – Send Help](https://blog.jim-nielsen.com/2025/icons-in-menus/)
 * [2025-12-08, 19:30:28](https://news.ycombinator.com/item?id=46196545) - [Cancer Is Surging, Bringing a Debate About Whether to Look for It](https://www.nytimes.com/2025/12/08/health/cancer-young-people-deaths.html)
 * [2025-12-08, 19:07:59](https://news.ycombinator.com/item?id=46196308) - [Trials Avoid High Risk Patients and Underestimate Drug Harms](https://www.nber.org/papers/w34534)
 * [2025-12-08, 19:07:28](https://news.ycombinator.com/item?id=46196301) - [IBM Z17 Time Synchronization Resiliency Enhancements](https://planetmainframe.com/2025/10/ibm-z17-time-synchronization-resiliency-enhancements/)
