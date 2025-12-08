@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-12-08, 19:58:41](https://news.ycombinator.com/item?id=46196831) - [GitHub no longer uses Toasts](https://primer.style/accessibility/toasts/)
-* [2025-12-08, 19:30:28](https://news.ycombinator.com/item?id=46196545) - [Cancer Is Surging, Bringing a Debate About Whether to Look for It](https://www.nytimes.com/2025/12/08/health/cancer-young-people-deaths.html)
-* [2025-12-08, 19:07:59](https://news.ycombinator.com/item?id=46196308) - [Trials Avoid High Risk Patients and Underestimate Drug Harms](https://www.nber.org/papers/w34534)
+* [2025-12-08, 19:30:28](https://news.ycombinator.com/item?id=46196545) - [Cancer is surging, bringing a debate about whether to look for it](https://www.nytimes.com/2025/12/08/health/cancer-young-people-deaths.html)
+* [2025-12-08, 19:07:59](https://news.ycombinator.com/item?id=46196308) - [Trials avoid high risk patients and underestimate drug harms](https://www.nber.org/papers/w34534)
 * [2025-12-08, 18:51:03](https://news.ycombinator.com/item?id=46196105) - [Jepsen: NATS 2.12.1](https://jepsen.io/analyses/nats-2.12.1)
 * [2025-12-08, 18:48:27](https://news.ycombinator.com/item?id=46196076) - [Deep dive on Nvidia circular funding](https://philippeoger.com/pages/deep-dive-into-nvidias-virtuous-cycle)
 * [2025-12-08, 17:39:55](https://news.ycombinator.com/item?id=46195225) - [Quanta to publish popular math and physics books by Terence Tao and David Tong](https://www.simonsfoundation.org/2025/12/08/quanta-books-to-publish-popular-math-and-physics-titles-by-terence-tao-and-david-tong/)
@@ -28,7 +28,7 @@
 * [2025-12-08, 13:08:38](https://news.ycombinator.com/item?id=46191763) - [Flow: Actor-based language for C++, used by FoundationDB](https://github.com/apple/foundationdb/tree/main/flow)
 * [2025-12-08, 08:15:32](https://news.ycombinator.com/item?id=46189692) - [GitHub Actions has a package manager, and it might be the worst](https://nesbitt.io/2025/12/06/github-actions-package-manager.html)
 * [2025-12-05, 19:33:28](https://news.ycombinator.com/item?id=46166178) - [Microsoft Download Center Archive](https://legacyupdate.net/download-center/)
-* [2025-12-05, 08:08:42](https://news.ycombinator.com/item?id=46157914) - [Spaces between words only started in the 7th century in Ireland](https://en.wikipedia.org/wiki/Word_spacing)
+* [2025-12-05, 08:08:42](https://news.ycombinator.com/item?id=46157914) - [Word spacing](https://en.wikipedia.org/wiki/Word_spacing)
 * [2025-12-04, 10:00:24](https://news.ycombinator.com/item?id=46145790) - [Wayland Nvidia](https://kextcache.com/wayland-nvidia-a-definite-2025-guide/)
 
 ## [Archives](archives/index.md)
