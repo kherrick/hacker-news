@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-12-08, 15:00:29](https://news.ycombinator.com/item?id=46192962) - [Uber starts selling ride/eats data to marketers](https://www.businessinsider.com/uber-ads-launches-intelligence-insights-trips-takeout-data-marketers-2025-12)
+* [2025-12-08, 14:16:34](https://news.ycombinator.com/item?id=46192459) - [Paramount launches hostile bid for Warner Bros](https://www.cnbc.com/2025/12/08/paramount-skydance-hostile-bid-wbd-netflix.html)
 * [2025-12-08, 13:49:21](https://news.ycombinator.com/item?id=46192186) - [Microsoft Increases Office 365 and Microsoft 365 License Prices](https://office365itpros.com/2025/12/08/microsoft-365-pricing-increase/)
 * [2025-12-08, 13:43:59](https://news.ycombinator.com/item?id=46192130) - [IBM to Acquire Confluent](https://www.confluent.io/blog/ibm-to-acquire-confluent/)
 * [2025-12-08, 13:23:29](https://news.ycombinator.com/item?id=46191933) - [Alignment Is Capability](https://www.off-policy.com/alignment-is-capability/)
@@ -14,7 +16,6 @@
 * [2025-12-08, 07:36:45](https://news.ycombinator.com/item?id=46189480) - [Show HN: Lockenv – Simple encrypted secrets storage for Git](https://github.com/illarion/lockenv)
 * [2025-12-08, 01:47:11](https://news.ycombinator.com/item?id=46187387) - [Damn Small Linux](https://www.damnsmalllinux.org/)
 * [2025-12-07, 22:31:22](https://news.ycombinator.com/item?id=46185957) - [Bag of words, have mercy on us](https://www.experimental-history.com/p/bag-of-words-have-mercy-on-us)
-* [2025-12-07, 21:55:01](https://news.ycombinator.com/item?id=46185576) - [Mechanical power generation using Earth's ambient radiation](https://www.science.org/doi/10.1126/sciadv.adw6833)
 * [2025-12-07, 18:07:06](https://news.ycombinator.com/item?id=46183657) - [The C++ standard for the F-35 Fighter Jet [video]](https://www.youtube.com/watch?v=Gv4sDL9Ljww)
 * [2025-12-07, 17:18:54](https://news.ycombinator.com/item?id=46183294) - [I failed to recreate the 1996 Space Jam website with Claude](https://j0nah.com/i-failed-to-recreate-the-1996-space-jam-website-with-claude/)
 * [2025-12-07, 14:37:21](https://news.ycombinator.com/item?id=46181962) - [Dollar-stores overcharge customers while promising low prices](https://www.theguardian.com/us-news/2025/dec/03/customers-pay-more-rising-dollar-store-costs)
@@ -23,13 +24,12 @@
 * [2025-12-05, 13:56:34](https://news.ycombinator.com/item?id=46161328) - [Emacs is my new window manager](https://www.howardism.org/Technical/Emacs/new-window-manager.html)
 * [2025-12-04, 20:48:56](https://news.ycombinator.com/item?id=46152838) - [The \"confident idiot\" problem: Why AI needs hard rules, not vibe checks](https://steerlabs.substack.com/p/confident-idiot-problem)
 * [2025-12-04, 12:43:52](https://news.ycombinator.com/item?id=46147021) - [C++ Enum Class and Error Codes, Part 3](https://mropert.github.io/2025/12/03/enum_class_error_codes_part3/)
+* [2025-12-04, 10:00:24](https://news.ycombinator.com/item?id=46145790) - [Wayland Nvidia: Your Complete 2025 Fix for a Broken Desktop](https://kextcache.com/wayland-nvidia-a-definite-2025-guide/)
 * [2025-12-03, 23:26:51](https://news.ycombinator.com/item?id=46141731) - [Jujutsu worktrees are convenient (2024)](https://shaddy.dev/notes/jj-worktrees/)
 * [2025-12-03, 18:57:08](https://news.ycombinator.com/item?id=46138459) - [Turtletoy](https://turtletoy.net/)
 * [2025-12-02, 22:04:54](https://news.ycombinator.com/item?id=46127575) - [Optimize for momentum](http://muratbuffalo.blogspot.com/2025/12/optimize-for-momentum.html)
 * [2025-12-02, 17:39:07](https://news.ycombinator.com/item?id=46123948) - [Client-side GPU load balancing with Redis and Lua](https://galileo.ai/blog/how-we-boosted-gpu-utilization-by-40-with-redis-lua)
-* [2025-12-02, 06:50:17](https://news.ycombinator.com/item?id=46118358) - [An Interactive Guide to the Fourier Transform](https://betterexplained.com/articles/an-interactive-guide-to-the-fourier-transform/)
 * [2025-11-30, 07:18:15](https://news.ycombinator.com/item?id=46094552) - [Show HN: ReadyKit – Superfast SaaS Starter with Multi-Tenant Workspaces](https://readykit.dev/)
-* [2025-11-29, 12:45:34](https://news.ycombinator.com/item?id=46087115) - [Solving Rush Hour, the Puzzle (2018)](https://www.michaelfogleman.com/rush/)
 
 ## [Archives](archives/index.md)
 

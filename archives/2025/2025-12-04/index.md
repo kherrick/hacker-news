@@ -57,6 +57,7 @@
 * [2025-12-04, 10:15:53](https://news.ycombinator.com/item?id=46145902) - [Tunnl.gg](https://tunnl.gg)
 * [2025-12-04, 10:06:35](https://news.ycombinator.com/item?id=46145834) - [Unreal Tournament 2004 is back](https://old.reddit.com/r/unrealtournament/comments/1pdbe69/breaking_unreal_tournament_2004_is_back/)
 * [2025-12-04, 10:01:27](https://news.ycombinator.com/item?id=46145797) - [Programming Peaked](https://functional.computer/blog/programming-peaked)
+* [2025-12-04, 10:00:24](https://news.ycombinator.com/item?id=46145790) - [Wayland Nvidia: Your Complete 2025 Fix for a Broken Desktop](https://kextcache.com/wayland-nvidia-a-definite-2025-guide/)
 * [2025-12-04, 09:01:55](https://news.ycombinator.com/item?id=46145365) - [Oracle, it’s time to free JavaScript](https://javascript.tm/letter)
 * [2025-12-04, 08:38:17](https://news.ycombinator.com/item?id=46145180) - [Elites Could Shape Mass Preferences as AI Reduces Persuasion Costs](https://arxiv.org/abs/2512.04047)
 * [2025-12-04, 08:33:33](https://news.ycombinator.com/item?id=46145154) - [The Mysterious Realm of JavaScriptCore (2021)](https://www.cyberark.com/resources/threat-research-blog/the-mysterious-realm-of-javascriptcore)
