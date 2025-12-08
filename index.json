@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-12-08, 12:01:13",
+      "https://news.ycombinator.com/item?id=46191269"
+    ],
+    [
+      "Nango (YC W23) is hiring back-end engineers and dev-rels (remote)",
+      "https://jobs.ashbyhq.com/Nango"
+    ]
+  ],
+  [
+    [
+      "2025-12-08, 11:47:17",
+      "https://news.ycombinator.com/item?id=46191194"
+    ],
+    [
+      "Bad Dye Job",
+      "https://daringfireball.net/2025/12/bad_dye_job"
+    ]
+  ],
+  [
+    [
       "2025-12-08, 11:37:22",
       "https://news.ycombinator.com/item?id=46191124"
     ],
@@ -41,16 +61,6 @@
   ],
   [
     [
-      "2025-12-08, 09:05:52",
-      "https://news.ycombinator.com/item?id=46190051"
-    ],
-    [
-      "Migrating Burningboard.net Mastodon Instance to a Multi-Jail FreeBSD Setup",
-      "https://blog.hofstede.it/migrating-burningboardnet-mastodon-instance-to-a-multi-jail-freebsd-setup/index.html"
-    ]
-  ],
-  [
-    [
       "2025-12-08, 08:57:19",
       "https://news.ycombinator.com/item?id=46189994"
     ],
@@ -77,16 +87,6 @@
     [
       "Show HN: Lockenv – Simple encrypted secrets storage for Git",
       "https://github.com/illarion/lockenv"
-    ]
-  ],
-  [
-    [
-      "2025-12-08, 07:00:33",
-      "https://news.ycombinator.com/item?id=46189258"
-    ],
-    [
-      "Truemetrics (YC S23) Is Hiring",
-      "https://www.ycombinator.com/companies/truemetrics/jobs/1EHTSyT-python-software-engineer-analystics-and-algorithms"
     ]
   ],
   [
@@ -231,16 +231,6 @@
   ],
   [
     [
-      "2025-12-04, 13:11:33",
-      "https://news.ycombinator.com/item?id=46147285"
-    ],
-    [
-      "Uninitialized garbage on ia64 can be deadly (2004)",
-      "https://devblogs.microsoft.com/oldnewthing/20040119-00/?p=41003"
-    ]
-  ],
-  [
-    [
       "2025-12-03, 23:26:51",
       "https://news.ycombinator.com/item?id=46141731"
     ],
@@ -257,6 +247,16 @@
     [
       "Turtletoy",
       "https://turtletoy.net/"
+    ]
+  ],
+  [
+    [
+      "2025-12-02, 22:04:54",
+      "https://news.ycombinator.com/item?id=46127575"
+    ],
+    [
+      "Optimize for Momentum",
+      "http://muratbuffalo.blogspot.com/2025/12/optimize-for-momentum.html"
     ]
   ],
   [
