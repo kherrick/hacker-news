@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-12-08](index.md)
 
 * [2025-12-08, 21:54:12](https://news.ycombinator.com/item?id=46198177) - [Running on Empty: Copper](https://thehonestsorcerer.substack.com/p/running-on-empty-copper)
+* [2025-12-08, 21:27:42](https://news.ycombinator.com/item?id=46197875) - [Delivery Robots Take over Chicago Sidewalks, Sparking Debate and a Petition](https://blockclubchicago.org/2025/12/08/delivery-robots-take-over-chicago-sidewalks-sparking-debate-and-a-petition-to-hit-pause/)
 * [2025-12-08, 19:58:41](https://news.ycombinator.com/item?id=46196831) - [GitHub no longer uses Toasts](https://primer.style/accessibility/toasts/)
 * [2025-12-08, 19:45:57](https://news.ycombinator.com/item?id=46196708) - [Myocardial Fibrosis in Athletes: Risk Marker or Physiological Adaptation?](https://www.mdpi.com/2227-9059/13/11/2747)
 * [2025-12-08, 19:44:00](https://news.ycombinator.com/item?id=46196688) - [Icons in Menus Everywhere – Send Help](https://blog.jim-nielsen.com/2025/icons-in-menus/)
