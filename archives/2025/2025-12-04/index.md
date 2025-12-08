@@ -15,6 +15,7 @@
 * [2025-12-04, 21:09:56](https://news.ycombinator.com/item?id=46153116) - [Django 6 Released](https://docs.djangoproject.com/en/6.0/releases/6.0/)
 * [2025-12-04, 21:04:29](https://news.ycombinator.com/item?id=46153058) - [CUDA-L2: Surpassing cuBLAS Performance for Matrix Multiplication Through RL](https://github.com/deepreinforce-ai/CUDA-L2)
 * [2025-12-04, 20:56:08](https://news.ycombinator.com/item?id=46152941) - [Plane crashed after 3D-printed part collapsed](https://www.bbc.com/news/articles/c1w932vqye0o)
+* [2025-12-04, 20:48:56](https://news.ycombinator.com/item?id=46152838) - [The \"confident idiot\" problem: Why AI needs hard rules, not vibe checks](https://steerlabs.substack.com/p/confident-idiot-problem)
 * [2025-12-04, 19:55:04](https://news.ycombinator.com/item?id=46152098) - [CJEU has made it effectively impossible to run a user-generated platform legally](https://www.techdirt.com/2025/12/04/eus-top-court-just-made-it-literally-impossible-to-run-a-user-generated-content-platform-legally/)
 * [2025-12-04, 19:29:04](https://news.ycombinator.com/item?id=46151724) - [Why does the Salish Sea glow in the dark?](https://www.atlasobscura.com/articles/untold-earth-105-salish-sea-bioluminescence)
 * [2025-12-04, 19:16:11](https://news.ycombinator.com/item?id=46151578) - [The RAM Shortage Comes for Us All](https://www.jeffgeerling.com/blog/2025/ram-shortage-comes-us-all)
