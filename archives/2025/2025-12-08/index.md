@@ -4,12 +4,15 @@
 
 ### [Archives](../../index.md) for [2025-12-08](index.md)
 
+* [2025-12-08, 17:39:55](https://news.ycombinator.com/item?id=46195225) - [Quanta to Publish Popular Math and Physics Titles by Terence Tao and David Tong](https://www.simonsfoundation.org/2025/12/08/quanta-books-to-publish-popular-math-and-physics-titles-by-terence-tao-and-david-tong/)
 * [2025-12-08, 17:38:59](https://news.ycombinator.com/item?id=46195205) - [\"The Matilda Effect\": How Pioneering Women Are Written Out of Science History](https://www.openculture.com/2025/12/matilda-effect.html)
 * [2025-12-08, 17:38:34](https://news.ycombinator.com/item?id=46195198) - [AI should only run as fast as we can catch up](https://higashi.blog/2025/12/07/ai-verification/)
+* [2025-12-08, 17:25:54](https://news.ycombinator.com/item?id=46195007) - [Show HN: DuckDB for Kafka Stream Processing](https://sql-flow.com/docs/tutorials/intro/)
 * [2025-12-08, 17:10:14](https://news.ycombinator.com/item?id=46194828) - [Launch HN: Nia (YC S25) – Give better context to coding agents](https://www.trynia.ai/)
 * [2025-12-08, 17:08:36](https://news.ycombinator.com/item?id=46194805) - [RIP Tetsu Yamauchi (Former Free and Faces Bassist)](https://www.loudersound.com/bands-artists/former-free-and-faces-bassist-tetsu-yamauchi-dead-at-79)
 * [2025-12-08, 17:01:11](https://news.ycombinator.com/item?id=46194720) - [Legion Health (YC S21) is hiring a founding engineer (SF, in-person)](https://news.ycombinator.com/item?id=46194720)
 * [2025-12-08, 16:54:31](https://news.ycombinator.com/item?id=46194615) - [Microsoft has a problem: nobody wants to buy or use its shoddy AI products](https://www.windowscentral.com/artificial-intelligence/microsoft-has-a-problem-nobody-wants-to-buy-or-use-its-shoddy-ai)
+* [2025-12-08, 16:44:42](https://news.ycombinator.com/item?id=46194477) - [A series of tricks and techniques I learned doing tiny GLSL demos](https://blog.pkh.me/p/48-a-series-of-tricks-and-techniques-i-learned-doing-tiny-glsl-demos.html)
 * [2025-12-08, 16:38:08](https://news.ycombinator.com/item?id=46194384) - [Hunting for North Korean Fiber Optic Cables](https://nkinternet.com/2025/12/08/hunting-for-north-korean-fiber-optic-cables/)
 * [2025-12-08, 16:35:12](https://news.ycombinator.com/item?id=46194351) - [ActivityPub Fuzzer: Improving Testing in the Fediverse](https://asml.cyber.harvard.edu/2025/10/01/introducing-the-asml-activitypub-fuzzer-improving-testing-in-the-fediverse/)
 * [2025-12-08, 16:34:08](https://news.ycombinator.com/item?id=46194337) - [Let's put Tailscale on a jailbroken Kindle](https://tailscale.com/blog/tailscale-jailbroken-kindle)
