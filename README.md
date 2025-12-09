@@ -24,11 +24,11 @@
 * [2025-12-08, 13:49:21](https://news.ycombinator.com/item?id=46192186) - [Microsoft increases Office 365 and Microsoft 365 license prices](https://office365itpros.com/2025/12/08/microsoft-365-pricing-increase/)
 * [2025-12-08, 13:43:59](https://news.ycombinator.com/item?id=46192130) - [IBM to acquire Confluent](https://www.confluent.io/blog/ibm-to-acquire-confluent/)
 * [2025-12-05, 19:33:28](https://news.ycombinator.com/item?id=46166178) - [Microsoft Download Center Archive](https://legacyupdate.net/download-center/)
+* [2025-12-04, 14:45:10](https://news.ycombinator.com/item?id=46148202) - [The web runs on tolerance](https://shkspr.mobi/blog/2025/12/the-web-runs-on-tolerance/)
 * [2025-12-04, 13:16:54](https://news.ycombinator.com/item?id=46147329) - [Show HN: Fanfa – Interactive and animated Mermaid diagrams](https://fanfa.dev/)
 * [2025-12-04, 04:30:25](https://news.ycombinator.com/item?id=46143818) - [Cassette tapes are making a comeback?](https://theconversation.com/cassette-tapes-are-making-a-comeback-yes-really-268108)
 * [2025-12-03, 18:03:40](https://news.ycombinator.com/item?id=46137772) - [Periodic Spaces](https://ianthehenry.com/posts/periodic-spaces/)
 * [2025-12-03, 16:19:53](https://news.ycombinator.com/item?id=46136277) - [OSHW: Small tablet based on RK3568 and AMOLED screen](https://oshwhub.com/oglggc/rui-xin-wei-rk3568-si-ceng-jia-li-chuang-mian-fei-gong-yi)
-* [2025-12-02, 12:55:31](https://news.ycombinator.com/item?id=46120732) - [Latency Profiling in Python: From Code Bottlenecks to Observability](https://quant.engineering/latency-profiling-in-python.html)
 * [2025-12-01, 01:12:03](https://news.ycombinator.com/item?id=46102311) - [Epsilon: A WASM virtual machine written in Go](https://github.com/ziggy42/epsilon)
 
 ## [Archives](archives/index.md)
