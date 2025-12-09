@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-12-09, 18:54:55](https://news.ycombinator.com/item?id=46208962) - [10 Years of Let's Encrypt](https://letsencrypt.org/2025/12/09/10-years)
 * [2025-12-09, 18:42:27](https://news.ycombinator.com/item?id=46208773) - [So You Want to Speak at Software Conferences?](https://dylanbeattie.net/2025/12/08/so-you-want-to-speak-at-software-conferences.html)
 * [2025-12-09, 18:16:44](https://news.ycombinator.com/item?id=46208409) - [The stack circuitry of the Intel 8087 floating point chip, reverse-engineered](https://www.righto.com/2025/12/8087-stack-circuitry.html)
 * [2025-12-09, 17:35:35](https://news.ycombinator.com/item?id=46207852) - [Show HN: Detail, a Bug Finder](https://detail.dev/)
@@ -23,7 +24,6 @@
 * [2025-12-09, 10:52:58](https://news.ycombinator.com/item?id=46203499) - [ZX Spectrum Next on the Internet: Xberry Pi ESP01 and Pi Zero Upgrades](https://retrogamecoders.com/zx-spectrum-next-on-the-internet-xberry-pi-esp01-and-pi-zero-upgrades/)
 * [2025-12-09, 09:48:55](https://news.ycombinator.com/item?id=46203138) - [The Joy of Playing Grandia, on Sega Saturn](https://www.segasaturnshiro.com/2025/11/27/the-joy-of-playing-grandia-on-sega-saturn/)
 * [2025-12-09, 09:13:56](https://news.ycombinator.com/item?id=46202921) - [30 Year Anniversary of WarCraft II: Tides of Darkness](https://www.jorsys.org/archive/december_2025.html#newsitem_2025-12-09T07:42:19Z)
-* [2025-12-08, 23:53:52](https://news.ycombinator.com/item?id=46199411) - [Kroger acknowledges that its bet on robotics went too far](https://www.grocerydive.com/news/kroger-ocado-close-automated-fulfillment-centers-robotics-grocery-ecommerce/805931/)
 * [2025-12-04, 19:19:05](https://news.ycombinator.com/item?id=46151600) - [AWS Trainium3 Deep Dive – A Potential Challenger Approaching](https://newsletter.semianalysis.com/p/aws-trainium3-deep-dive-a-potential)
 * [2025-12-03, 17:50:17](https://news.ycombinator.com/item?id=46137596) - [Transformers know more than they can tell: Learning the Collatz sequence](https://www.arxiv.org/pdf/2511.10811)
 * [2025-12-03, 14:38:20](https://news.ycombinator.com/item?id=46134969) - [Agentic QA – Open-source middleware to fuzz-test agents for loops](https://news.ycombinator.com/item?id=46134969)
