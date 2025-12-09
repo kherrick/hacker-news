@@ -72,5 +72,6 @@
 * [2025-12-03, 04:04:32](https://news.ycombinator.com/item?id=46130188) - [Luarrow – True pipeline operators and elegant Haskell-style function compositio](https://github.com/aiya000/luarrow.lua)
 * [2025-12-03, 04:03:56](https://news.ycombinator.com/item?id=46130187) - [Japanese game devs face font dilemma as license increases from $380 to $20k](https://www.gamesindustry.biz/japanese-devs-face-font-licensing-dilemma-as-leading-provider-increases-annual-plan-price-from-380-to-20000)
 * [2025-12-03, 02:53:33](https://news.ycombinator.com/item?id=46129766) - [Roko's Dancing Basilisk](https://boston.conman.org/2025/12/02.1)
+* [2025-12-03, 02:12:17](https://news.ycombinator.com/item?id=46129505) - [Animalcules and Their Motors](https://www.asimov.press/p/flagella)
 * [2025-12-03, 02:06:25](https://news.ycombinator.com/item?id=46129476) - [Kohler Can Access Pictures from \"End-to-End Encrypted\" Toilet Camera](https://varlogsimon.leaflet.pub/3m6zrw6k2bs2p?interactionDrawer=quotes)
 * [2025-12-03, 00:03:21](https://news.ycombinator.com/item?id=46128639) - [Everything that is wrong in museums starts with wall labels](https://www.aaronland.info/weblog/2025/11/20/cafeteria/)

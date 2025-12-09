@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-12-09](index.md)
 
+* [2025-12-09, 17:35:35](https://news.ycombinator.com/item?id=46207852) - [Show HN: Detail, a Bug Finder](https://detail.dev/)
+* [2025-12-09, 17:26:33](https://news.ycombinator.com/item?id=46207727) - [How Private Equity Is Changing Housing](https://www.theatlantic.com/ideas/2025/12/private-equity-housing-changes/685138/)
 * [2025-12-09, 17:11:09](https://news.ycombinator.com/item?id=46207505) - [If You're Going to Vibe Code, Why Not Do It in C?](https://stephenramsay.net/posts/vibe-coding.html)
 * [2025-12-09, 17:08:37](https://news.ycombinator.com/item?id=46207464) - [PeerTube is recognized as a digital public good by Digital Public Goods Alliance](https://www.digitalpublicgoods.net/r/peertube)
 * [2025-12-09, 17:01:11](https://news.ycombinator.com/item?id=46207360) - [Clearspace (YC W23) Is Hiring a Founding Designer](https://www.ycombinator.com/companies/clearspace/jobs/yamWTLr-founding-designer-at-clearspace)
@@ -11,6 +13,7 @@
 * [2025-12-09, 16:27:05](https://news.ycombinator.com/item?id=46206863) - [Berkeley professor's camera caught student allegedly sabotaging another student](https://www.mercurynews.com/2025/12/08/uc-berkeley-professor-installed-secret-camera-allegedly-catching-phd-candidate-sabotaging-fellow-students-work/)
 * [2025-12-09, 16:06:58](https://news.ycombinator.com/item?id=46206531) - [Handsdown one of the coolest 3D websites](https://bruno-simon.com/)
 * [2025-12-09, 16:02:37](https://news.ycombinator.com/item?id=46206457) - [Ask HN: Should \"I asked $AI, and it said\" replies be forbidden in HN guidelines?](https://news.ycombinator.com/item?id=46206457)
+* [2025-12-09, 15:51:32](https://news.ycombinator.com/item?id=46206277) - [AI needs more power than the grid can deliver – supersonic tech can fix that](https://boomsupersonic.com/flyby/ai-needs-more-power-than-the-grid-can-deliver-supersonic-tech-can-fix-that)
 * [2025-12-09, 15:10:27](https://news.ycombinator.com/item?id=46205743) - [EU investigates Google over AI-generated summaries in search results](https://www.bbc.com/news/articles/crl95eg33k1o)
 * [2025-12-09, 15:08:24](https://news.ycombinator.com/item?id=46205724) - [Apple's Slow AI Pace Becomes a Strength as Market Grows Weary of Spending](https://finance.yahoo.com/news/apple-slow-ai-pace-becomes-104658095.html)
 * [2025-12-09, 15:03:09](https://news.ycombinator.com/item?id=46205661) - [New Pebble Device](https://repebble.com/blog/meet-pebble-index-01-external-memory-for-your-brain)
