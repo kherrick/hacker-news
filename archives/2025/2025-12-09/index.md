@@ -4,12 +4,16 @@
 
 ### [Archives](../../index.md) for [2025-12-09](index.md)
 
+* [2025-12-09, 16:02:37](https://news.ycombinator.com/item?id=46206457) - [Ask HN: Should \"I asked $AI, and it said\" replies be forbidden in HN guidelines?](https://news.ycombinator.com/item?id=46206457)
 * [2025-12-09, 15:10:27](https://news.ycombinator.com/item?id=46205743) - [EU investigates Google over AI-generated summaries in search results](https://www.bbc.com/news/articles/crl95eg33k1o)
 * [2025-12-09, 15:08:24](https://news.ycombinator.com/item?id=46205724) - [Apple's Slow AI Pace Becomes a Strength as Market Grows Weary of Spending](https://finance.yahoo.com/news/apple-slow-ai-pace-becomes-104658095.html)
 * [2025-12-09, 15:03:09](https://news.ycombinator.com/item?id=46205661) - [New Pebble Device](https://repebble.com/blog/meet-pebble-index-01-external-memory-for-your-brain)
+* [2025-12-09, 15:00:38](https://news.ycombinator.com/item?id=46205632) - [Show HN: Gemini Pro 3 Hallucinates the HN Front Page 10 Years from Today](https://dosaygo-studio.github.io/hn-front-page-2035/news)
 * [2025-12-09, 14:53:13](https://news.ycombinator.com/item?id=46205532) - [Engineers: Stop trying to win other people's game](https://www.anthonyputignano.com/p/the-western-front-advantage-how-junior)
 * [2025-12-09, 14:51:46](https://news.ycombinator.com/item?id=46205519) - [Kaiju – General purpose 3D/2D game engine in Go and Vulkan with built in editor](https://github.com/KaijuEngine/kaiju)
 * [2025-12-09, 14:47:20](https://news.ycombinator.com/item?id=46205461) - [My favourite small hash table](https://www.corsix.org/content/my-favourite-small-hash-table)
+* [2025-12-09, 14:45:01](https://news.ycombinator.com/item?id=46205437) - [Mistral Releases Devstral 2 (72.2% SWE-Bench Verified) and Vibe CLI](https://mistral.ai/news/devstral-2-vibe-cli)
+* [2025-12-09, 14:00:53](https://news.ycombinator.com/item?id=46204998) - [Fate: A modern data client for React and tRPC](https://fate.technology/posts/introducing-fate)
 * [2025-12-09, 13:48:26](https://news.ycombinator.com/item?id=46204886) - [Rahm Emanuel says U.S. should follow Australia's youth social media ban](https://www.politico.com/news/2025/12/09/rahm-emanuel-says-u-s-should-follow-australias-youth-social-media-ban-00682185)
 * [2025-12-09, 13:45:01](https://news.ycombinator.com/item?id=46204853) - [Oliver Sacks Put Himself into His Case Studies. What Was the Cost?](https://www.newyorker.com/magazine/2025/12/15/oliver-sacks-put-himself-into-his-case-studies-what-was-the-cost)
 * [2025-12-09, 12:20:24](https://news.ycombinator.com/item?id=46204139) - [Mazda suitcase car, a portable three-wheeled vehicle that fits in the luggage](https://www.designboom.com/technology/rediscover-mazda-suitcase-car-portable-three-wheeled-vehicle-fits-luggage-12-06-2025/)
