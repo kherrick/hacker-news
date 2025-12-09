@@ -57,6 +57,7 @@
 * [2025-12-03, 11:06:10](https://news.ycombinator.com/item?id=46133068) - [India scraps order to pre-install state-run cyber safety app on smartphones](https://www.bbc.com/news/articles/clydg2re4d1o)
 * [2025-12-03, 09:53:27](https://news.ycombinator.com/item?id=46132531) - [Anthropic taps IPO lawyers as it races OpenAI to go public](https://www.ft.com/content/3254fa30-5bdb-4c30-8560-7cd7ebbefc5f)
 * [2025-12-03, 09:53:27](https://news.ycombinator.com/item?id=46132531) - [Anthropic reportedly preparing for $300B IPO](https://vechron.com/2025/12/anthropic-hires-wilson-sonsini-ipo-2026-openai-race/)
+* [2025-12-03, 08:39:12](https://news.ycombinator.com/item?id=46131837) - [No ARIA is better than bad ARIA](https://www.w3.org/WAI/ARIA/apg/practices/read-me-first/)
 * [2025-12-03, 08:26:46](https://news.ycombinator.com/item?id=46131693) - [Codeberg Is Down](https://status.codeberg.org/status/codeberg)
 * [2025-12-03, 07:52:37](https://news.ycombinator.com/item?id=46131406) - [Zig quits GitHub, says Microsoft's AI obsession has ruined the service](https://www.theregister.com/2025/12/02/zig_quits_github_microsoft_ai_obsession/)
 * [2025-12-03, 07:41:51](https://news.ycombinator.com/item?id=46131330) - [Accepting US car standards would risk European lives](https://etsc.eu/accepting-us-car-standards-would-risk-european-lives-warn-cities-and-civil-society/)
