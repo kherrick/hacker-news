@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-12-09, 11:12:07",
+      "https://news.ycombinator.com/item?id=46203591"
+    ],
+    [
+      "Richard Stallman on ChatGPT",
+      "https://www.stallman.org/chatgpt.html"
+    ]
+  ],
+  [
+    [
       "2025-12-09, 09:48:55",
       "https://news.ycombinator.com/item?id=46203138"
     ],
@@ -207,16 +217,6 @@
     [
       "IBM to acquire Confluent",
       "https://www.confluent.io/blog/ibm-to-acquire-confluent/"
-    ]
-  ],
-  [
-    [
-      "2025-12-08, 08:15:32",
-      "https://news.ycombinator.com/item?id=46189692"
-    ],
-    [
-      "GitHub Actions has a package manager, and it might be the worst",
-      "https://nesbitt.io/2025/12/06/github-actions-package-manager.html"
     ]
   ],
   [
