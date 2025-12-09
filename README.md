@@ -9,7 +9,7 @@
 * [2025-12-09, 17:08:37](https://news.ycombinator.com/item?id=46207464) - [PeerTube is recognized as a digital public good by Digital Public Goods Alliance](https://www.digitalpublicgoods.net/r/peertube)
 * [2025-12-09, 17:05:42](https://news.ycombinator.com/item?id=46207425) - [Donating the Model Context Protocol and Establishing the Agentic AI Foundation](https://www.anthropic.com/news/donating-the-model-context-protocol-and-establishing-of-the-agentic-ai-foundation)
 * [2025-12-09, 17:01:11](https://news.ycombinator.com/item?id=46207360) - [Clearspace (YC W23) Is Hiring a Founding Designer](https://www.ycombinator.com/companies/clearspace/jobs/yamWTLr-founding-designer-at-clearspace)
-* [2025-12-09, 16:37:55](https://news.ycombinator.com/item?id=46207017) - [Launch HN: Mentat (YC F24) – Controlling LLMs with Runtime Intervention](https://playground.ctgt.ai)
+* [2025-12-09, 16:37:55](https://news.ycombinator.com/item?id=46207017) - [Launch HN: Mentat (YC F24) – Controlling LLMs with Runtime Intervention](https://news.ycombinator.com/item?id=46207017)
 * [2025-12-09, 16:06:58](https://news.ycombinator.com/item?id=46206531) - [Handsdown one of the coolest 3D websites (2019)](https://bruno-simon.com/)
 * [2025-12-09, 16:02:37](https://news.ycombinator.com/item?id=46206457) - [Ask HN: Should \"I asked $AI, and it said\" replies be forbidden in HN guidelines?](https://news.ycombinator.com/item?id=46206457)
 * [2025-12-09, 15:08:24](https://news.ycombinator.com/item?id=46205724) - [Apple's slow AI pace becomes a strength as market grows weary of spending](https://finance.yahoo.com/news/apple-slow-ai-pace-becomes-104658095.html)
@@ -24,12 +24,12 @@
 * [2025-12-09, 10:52:58](https://news.ycombinator.com/item?id=46203499) - [ZX Spectrum Next on the Internet: Xberry Pi ESP01 and Pi Zero Upgrades](https://retrogamecoders.com/zx-spectrum-next-on-the-internet-xberry-pi-esp01-and-pi-zero-upgrades/)
 * [2025-12-09, 09:48:55](https://news.ycombinator.com/item?id=46203138) - [The Joy of Playing Grandia, on Sega Saturn](https://www.segasaturnshiro.com/2025/11/27/the-joy-of-playing-grandia-on-sega-saturn/)
 * [2025-12-09, 09:13:56](https://news.ycombinator.com/item?id=46202921) - [30 Year Anniversary of WarCraft II: Tides of Darkness](https://www.jorsys.org/archive/december_2025.html#newsitem_2025-12-09T07:42:19Z)
+* [2025-12-08, 23:53:52](https://news.ycombinator.com/item?id=46199411) - [Kroger acknowledges that its bet on robotics went too far](https://www.grocerydive.com/news/kroger-ocado-close-automated-fulfillment-centers-robotics-grocery-ecommerce/805931/)
 * [2025-12-04, 19:19:05](https://news.ycombinator.com/item?id=46151600) - [AWS Trainium3 Deep Dive – A Potential Challenger Approaching](https://newsletter.semianalysis.com/p/aws-trainium3-deep-dive-a-potential)
 * [2025-12-03, 17:50:17](https://news.ycombinator.com/item?id=46137596) - [Transformers know more than they can tell: Learning the Collatz sequence](https://www.arxiv.org/pdf/2511.10811)
 * [2025-12-03, 14:38:20](https://news.ycombinator.com/item?id=46134969) - [Agentic QA – Open-source middleware to fuzz-test agents for loops](https://news.ycombinator.com/item?id=46134969)
 * [2025-12-02, 18:17:48](https://news.ycombinator.com/item?id=46124425) - [LLM from scratch, part 28 – training a base model from scratch on an RTX 3090](https://www.gilesthomas.com/2025/12/llm-from-scratch-28-training-a-base-model-from-scratch)
 * [2025-12-01, 22:44:15](https://news.ycombinator.com/item?id=46114440) - [Constructing the Word's First JPEG XL MD5 Hash Quine](https://stackchk.fail/blog/jxl_hashquine_writeup)
-* [2025-12-01, 01:12:03](https://news.ycombinator.com/item?id=46102311) - [Epsilon: A WASM virtual machine written in Go](https://github.com/ziggy42/epsilon)
 
 ## [Archives](archives/index.md)
 

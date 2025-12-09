@@ -15,6 +15,7 @@
 * [2025-12-09, 17:05:42](https://news.ycombinator.com/item?id=46207425) - [Donating the Model Context Protocol and Establishing the Agentic AI Foundation](https://www.anthropic.com/news/donating-the-model-context-protocol-and-establishing-of-the-agentic-ai-foundation)
 * [2025-12-09, 17:01:11](https://news.ycombinator.com/item?id=46207360) - [Clearspace (YC W23) Is Hiring a Founding Designer](https://www.ycombinator.com/companies/clearspace/jobs/yamWTLr-founding-designer-at-clearspace)
 * [2025-12-09, 16:37:55](https://news.ycombinator.com/item?id=46207017) - [Launch HN: Mentat (YC S16) – Controlling LLMs with Runtime Intervention](https://playground.ctgt.ai)
+* [2025-12-09, 16:37:55](https://news.ycombinator.com/item?id=46207017) - [Launch HN: Mentat (YC F24) – Controlling LLMs with Runtime Intervention](https://news.ycombinator.com/item?id=46207017)
 * [2025-12-09, 16:27:05](https://news.ycombinator.com/item?id=46206863) - [Berkeley professor's camera caught student allegedly sabotaging another student](https://www.mercurynews.com/2025/12/08/uc-berkeley-professor-installed-secret-camera-allegedly-catching-phd-candidate-sabotaging-fellow-students-work/)
 * [2025-12-09, 16:06:58](https://news.ycombinator.com/item?id=46206531) - [Handsdown one of the coolest 3D websites](https://bruno-simon.com/)
 * [2025-12-09, 16:02:37](https://news.ycombinator.com/item?id=46206457) - [Ask HN: Should \"I asked $AI, and it said\" replies be forbidden in HN guidelines?](https://news.ycombinator.com/item?id=46206457)
