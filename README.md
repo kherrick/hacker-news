@@ -15,6 +15,7 @@
 * [2025-12-08, 18:51:03](https://news.ycombinator.com/item?id=46196105) - [Jepsen: NATS 2.12.1](https://jepsen.io/analyses/nats-2.12.1)
 * [2025-12-08, 17:38:34](https://news.ycombinator.com/item?id=46195198) - [AI should only run as fast as we can catch up](https://higashi.blog/2025/12/07/ai-verification/)
 * [2025-12-08, 17:10:14](https://news.ycombinator.com/item?id=46194828) - [Launch HN: Nia (YC S25) – Give better context to coding agents](https://www.trynia.ai/)
+* [2025-12-08, 16:44:42](https://news.ycombinator.com/item?id=46194477) - [A series of tricks and techniques I learned doing tiny GLSL demos](https://blog.pkh.me/p/48-a-series-of-tricks-and-techniques-i-learned-doing-tiny-glsl-demos.html)
 * [2025-12-08, 16:38:08](https://news.ycombinator.com/item?id=46194384) - [Hunting for North Korean Fiber Optic Cables](https://nkinternet.com/2025/12/08/hunting-for-north-korean-fiber-optic-cables/)
 * [2025-12-08, 16:34:08](https://news.ycombinator.com/item?id=46194337) - [Let's put Tailscale on a jailbroken Kindle](https://tailscale.com/blog/tailscale-jailbroken-kindle)
 * [2025-12-08, 16:06:14](https://news.ycombinator.com/item?id=46193931) - [AMD GPU Debugger](https://thegeeko.me/blog/amd-gpu-debugging/)
@@ -27,7 +28,6 @@
 * [2025-12-04, 04:30:25](https://news.ycombinator.com/item?id=46143818) - [Cassette tapes are making a comeback?](https://theconversation.com/cassette-tapes-are-making-a-comeback-yes-really-268108)
 * [2025-12-03, 18:03:40](https://news.ycombinator.com/item?id=46137772) - [Periodic Spaces](https://ianthehenry.com/posts/periodic-spaces/)
 * [2025-12-03, 16:19:53](https://news.ycombinator.com/item?id=46136277) - [OSHW: Small tablet based on RK3568 and AMOLED screen](https://oshwhub.com/oglggc/rui-xin-wei-rk3568-si-ceng-jia-li-chuang-mian-fei-gong-yi)
-* [2025-12-03, 15:09:30](https://news.ycombinator.com/item?id=46135349) - [Using floating point numbers as hash keys (2017)](https://readafterwrite.wordpress.com/2017/03/23/how-to-hash-floating-point-numbers/)
 * [2025-12-03, 04:04:32](https://news.ycombinator.com/item?id=46130188) - [Luarrow – True pipeline operators and elegant Haskell-style function compositio](https://github.com/aiya000/luarrow.lua)
 * [2025-12-02, 12:55:31](https://news.ycombinator.com/item?id=46120732) - [Latency Profiling in Python: From Code Bottlenecks to Observability](https://quant.engineering/latency-profiling-in-python.html)
 
