@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-12-09](index.md)
 
+* [2025-12-09, 13:48:26](https://news.ycombinator.com/item?id=46204886) - [Rahm Emanuel says U.S. should follow Australia's youth social media ban](https://www.politico.com/news/2025/12/09/rahm-emanuel-says-u-s-should-follow-australias-youth-social-media-ban-00682185)
+* [2025-12-09, 12:20:24](https://news.ycombinator.com/item?id=46204139) - [Mazda suitcase car, a portable three-wheeled vehicle that fits in the luggage](https://www.designboom.com/technology/rediscover-mazda-suitcase-car-portable-three-wheeled-vehicle-fits-luggage-12-06-2025/)
 * [2025-12-09, 12:15:31](https://news.ycombinator.com/item?id=46204090) - [Where are you supposed to go if you don't care about growth?](https://ramones.dev/posts/where-are-you-supposed-to-go/)
 * [2025-12-09, 11:58:02](https://news.ycombinator.com/item?id=46203948) - [Why frozen test fixtures are a problem on large projects and how to avoid them](https://radanskoric.com/articles/frozen-test-fixtures)
 * [2025-12-09, 11:16:10](https://news.ycombinator.com/item?id=46203611) - [Brent's Encapsulated C Programming Rules (2020)](https://retroscience.net/brents-c-programming-rules.html)
