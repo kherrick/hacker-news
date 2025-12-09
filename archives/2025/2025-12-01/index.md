@@ -6,6 +6,7 @@
 
 * [2025-12-01, 23:44:51](https://news.ycombinator.com/item?id=46115214) - [Anthropic: AI agents find $4.6M in blockchain smart contract exploits](https://red.anthropic.com/2025/smart-contracts/)
 * [2025-12-01, 22:56:16](https://news.ycombinator.com/item?id=46114599) - [Losing Confidence](https://eclecticlight.co/2025/11/30/last-week-on-my-mac-losing-confidence/)
+* [2025-12-01, 22:44:15](https://news.ycombinator.com/item?id=46114440) - [Constructing the Word's First JPEG XL MD5 Hash Quine](https://stackchk.fail/blog/jxl_hashquine_writeup)
 * [2025-12-01, 22:22:56](https://news.ycombinator.com/item?id=46114144) - [Apple AI Chief Retiring After Siri Failure](https://www.macrumors.com/2025/12/01/apple-ai-chief-retiring-after-siri-failure/)
 * [2025-12-01, 22:20:33](https://news.ycombinator.com/item?id=46114122) - [John Giannandrea to Retire from Apple](https://www.apple.com/newsroom/2025/12/john-giannandrea-to-retire-from-apple/)
 * [2025-12-01, 22:15:53](https://news.ycombinator.com/item?id=46114064) - [Divine D native Linux open-source mobile system – Rev. 1.1 Hardware Architecture](https://docs.dawndrums.tn/blog/dd-rev1.1-arch/)
