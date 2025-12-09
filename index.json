@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2025-12-09, 11:58:02",
+      "https://news.ycombinator.com/item?id=46203948"
+    ],
+    [
+      "Why frozen test fixtures are a problem on large projects and how to avoid them",
+      "https://radanskoric.com/articles/frozen-test-fixtures"
+    ]
+  ],
+  [
+    [
       "2025-12-09, 11:16:10",
       "https://news.ycombinator.com/item?id=46203611"
     ],
@@ -37,16 +47,6 @@
     [
       "ZX Spectrum Next on the Internet: Xberry Pi ESP01 and Pi Zero Upgrades",
       "https://retrogamecoders.com/zx-spectrum-next-on-the-internet-xberry-pi-esp01-and-pi-zero-upgrades/"
-    ]
-  ],
-  [
-    [
-      "2025-12-09, 10:33:47",
-      "https://news.ycombinator.com/item?id=46203410"
-    ],
-    [
-      "Morphisms All the Way Down: API Design as Arrow-First Thinking",
-      "https://ibrahimcesar.cloud/blog/categorical-solutions-architect-part-2/"
     ]
   ],
   [
@@ -251,12 +251,12 @@
   ],
   [
     [
-      "2025-12-03, 18:03:40",
-      "https://news.ycombinator.com/item?id=46137772"
+      "2025-12-03, 17:50:17",
+      "https://news.ycombinator.com/item?id=46137596"
     ],
     [
-      "Periodic Spaces",
-      "https://ianthehenry.com/posts/periodic-spaces/"
+      "Transformers know more than they can tell: Learning the Collatz sequence",
+      "https://www.arxiv.org/pdf/2511.10811"
     ]
   ],
   [
