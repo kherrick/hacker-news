@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-12-09](index.md)
 
+* [2025-12-09, 21:19:37](https://news.ycombinator.com/item?id=46210806) - [Qt, Linux and everything: Debugging Qt WebAssembly](http://qtandeverything.blogspot.com/2025/12/debugging-qt-webassembly-dwarf.html)
 * [2025-12-09, 21:07:22](https://news.ycombinator.com/item?id=46210661) - [I misused LLMs to diagnose myself and ended up bedridden for a week](https://blog.shortround.space/blog/how-i-misused-llms-to-diagnose-myself-and-ended-up-bedridden-for-a-week/)
 * [2025-12-09, 20:33:14](https://news.ycombinator.com/item?id=46210240) - [Django: what’s new in 6.0](https://adamj.eu/tech/2025/12/03/django-whats-new-6.0/)
 * [2025-12-09, 20:21:06](https://news.ycombinator.com/item?id=46210095) - [We Need to Die](https://willllliam.com/blog/why-we-need-to-die/)
