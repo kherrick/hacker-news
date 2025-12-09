@@ -46,6 +46,7 @@
 * [2025-12-02, 17:09:44](https://news.ycombinator.com/item?id=46123518) - [PC-Man (IBM PC 1983) and the spark of childhood wonder](https://intotheverticalblank.com/2025/12/02/interview-greg-kuperberg/)
 * [2025-12-02, 17:06:24](https://news.ycombinator.com/item?id=46123469) - [API GitHub Meta](https://api.github.com/meta)
 * [2025-12-02, 17:00:12](https://news.ycombinator.com/item?id=46123374) - [Poka Labs (YC S24) Is Hiring a Founding Engineer](https://www.ycombinator.com/companies/poka-labs/jobs/RCQgmqB-founding-engineer)
+* [2025-12-02, 16:55:29](https://news.ycombinator.com/item?id=46123307) - [Velato](https://www.futilitycloset.com/2025/10/10/velato/)
 * [2025-12-02, 16:50:25](https://news.ycombinator.com/item?id=46123238) - [Memtest86+ v8.00 Released](https://github.com/memtest86plus/memtest86plus/releases/tag/v8.00)
 * [2025-12-02, 16:30:52](https://news.ycombinator.com/item?id=46122957) - [4.3M Browsers Infected: Inside ShadyPanda's 7-Year Malware Campaign](https://www.koi.ai/blog/4-million-browsers-infected-inside-shadypanda-7-year-malware-campaign)
 * [2025-12-02, 16:29:04](https://news.ycombinator.com/item?id=46122921) - [Removed Rust to Gain Speed](https://www.prisma.io/blog/announcing-prisma-orm-7-0-0)
