@@ -1,6 +1,46 @@
 [
   [
     [
+      "2025-12-09, 00:51:31",
+      "https://news.ycombinator.com/item?id=46199950"
+    ],
+    [
+      "The Lost Machine Automats and Self-Service Cafeterias of NYC (2023)",
+      "https://www.untappedcities.com/automats-cafeterias-nyc/"
+    ]
+  ],
+  [
+    [
+      "2025-12-09, 00:50:32",
+      "https://news.ycombinator.com/item?id=46199935"
+    ],
+    [
+      "Scientific and Technical Amateur Radio",
+      "https://destevez.net/"
+    ]
+  ],
+  [
+    [
+      "2025-12-09, 00:16:46",
+      "https://news.ycombinator.com/item?id=46199623"
+    ],
+    [
+      "The Universal Weight Subspace Hypothesis",
+      "https://arxiv.org/abs/2512.05117"
+    ]
+  ],
+  [
+    [
+      "2025-12-08, 23:53:52",
+      "https://news.ycombinator.com/item?id=46199411"
+    ],
+    [
+      "Kroger acknowledges that its bet on robotics went too far",
+      "https://www.grocerydive.com/news/kroger-ocado-close-automated-fulfillment-centers-robotics-grocery-ecommerce/805931/"
+    ]
+  ],
+  [
+    [
       "2025-12-08, 21:54:12",
       "https://news.ycombinator.com/item?id=46198177"
     ],
@@ -87,16 +127,6 @@
     [
       "We collected 10k hours of neuro-language data in our basement",
       "https://condu.it/thought/10k-hours"
-    ]
-  ],
-  [
-    [
-      "2025-12-08, 17:25:54",
-      "https://news.ycombinator.com/item?id=46195007"
-    ],
-    [
-      "Show HN: DuckDB for Kafka Stream Processing",
-      "https://sql-flow.com/docs/tutorials/intro/"
     ]
   ],
   [
@@ -231,16 +261,6 @@
   ],
   [
     [
-      "2025-12-08, 08:15:32",
-      "https://news.ycombinator.com/item?id=46189692"
-    ],
-    [
-      "GitHub Actions has a package manager, and it might be the worst",
-      "https://nesbitt.io/2025/12/06/github-actions-package-manager.html"
-    ]
-  ],
-  [
-    [
       "2025-12-05, 19:33:28",
       "https://news.ycombinator.com/item?id=46166178"
     ],
@@ -261,42 +281,22 @@
   ],
   [
     [
+      "2025-12-04, 22:34:54",
+      "https://news.ycombinator.com/item?id=46154114"
+    ],
+    [
+      "8086 Microcode Explorer",
+      "https://nand2mario.github.io/8086_microcode.html"
+    ]
+  ],
+  [
+    [
       "2025-12-04, 13:16:54",
       "https://news.ycombinator.com/item?id=46147329"
     ],
     [
       "Show HN: Fanfa – Interactive and animated Mermaid diagrams",
       "https://fanfa.dev/"
-    ]
-  ],
-  [
-    [
-      "2025-12-04, 04:30:25",
-      "https://news.ycombinator.com/item?id=46143818"
-    ],
-    [
-      "Cassette tapes are making a comeback. Yes",
-      "https://theconversation.com/cassette-tapes-are-making-a-comeback-yes-really-268108"
-    ]
-  ],
-  [
-    [
-      "2025-12-02, 18:33:00",
-      "https://news.ycombinator.com/item?id=46124649"
-    ],
-    [
-      "Amp, Inc. – Amp is spinning out of Sourcegraph",
-      "https://ampcode.com/news/amp-inc"
-    ]
-  ],
-  [
-    [
-      "2025-12-01, 22:08:44",
-      "https://news.ycombinator.com/item?id=46113990"
-    ],
-    [
-      "The consumption of AI-generated content at scale",
-      "https://www.sh-reya.com/blog/consumption-ai-scale/"
     ]
   ]
 ]
