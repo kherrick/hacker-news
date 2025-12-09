@@ -1,12 +1,12 @@
 [
   [
     [
-      "2025-12-09, 15:10:27",
-      "https://news.ycombinator.com/item?id=46205743"
+      "2025-12-09, 16:02:37",
+      "https://news.ycombinator.com/item?id=46206457"
     ],
     [
-      "EU investigates Google over AI-generated summaries in search results",
-      "https://www.bbc.com/news/articles/crl95eg33k1o"
+      "Ask HN: Should \"I asked $AI, and it said\" replies be forbidden in HN guidelines?",
+      "https://news.ycombinator.com/item?id=46206457"
     ]
   ],
   [
@@ -17,6 +17,16 @@
     [
       "New Pebble Device",
       "https://repebble.com/blog/meet-pebble-index-01-external-memory-for-your-brain"
+    ]
+  ],
+  [
+    [
+      "2025-12-09, 15:00:38",
+      "https://news.ycombinator.com/item?id=46205632"
+    ],
+    [
+      "Show HN: Gemini Pro 3 Hallucinates the HN Front Page 10 Years from Today",
+      "https://dosaygo-studio.github.io/hn-front-page-2035/news"
     ]
   ],
   [
@@ -37,6 +47,26 @@
     [
       "My favourite small hash table",
       "https://www.corsix.org/content/my-favourite-small-hash-table"
+    ]
+  ],
+  [
+    [
+      "2025-12-09, 14:45:01",
+      "https://news.ycombinator.com/item?id=46205437"
+    ],
+    [
+      "Mistral Releases Devstral 2 (72.2% SWE-Bench Verified) and Vibe CLI",
+      "https://mistral.ai/news/devstral-2-vibe-cli"
+    ]
+  ],
+  [
+    [
+      "2025-12-09, 14:00:53",
+      "https://news.ycombinator.com/item?id=46204998"
+    ],
+    [
+      "Fate: A modern data client for React and tRPC",
+      "https://fate.technology/posts/introducing-fate"
     ]
   ],
   [
@@ -161,16 +191,6 @@
   ],
   [
     [
-      "2025-12-08, 19:07:59",
-      "https://news.ycombinator.com/item?id=46196308"
-    ],
-    [
-      "Trials avoid high risk patients and underestimate drug harms",
-      "https://www.nber.org/papers/w34534"
-    ]
-  ],
-  [
-    [
       "2025-12-08, 19:00:48",
       "https://news.ycombinator.com/item?id=46196228"
     ],
@@ -191,26 +211,6 @@
   ],
   [
     [
-      "2025-12-08, 17:10:14",
-      "https://news.ycombinator.com/item?id=46194828"
-    ],
-    [
-      "Launch HN: Nia (YC S25) – Give better context to coding agents",
-      "https://www.trynia.ai/"
-    ]
-  ],
-  [
-    [
-      "2025-12-08, 16:34:08",
-      "https://news.ycombinator.com/item?id=46194337"
-    ],
-    [
-      "Let's put Tailscale on a jailbroken Kindle",
-      "https://tailscale.com/blog/tailscale-jailbroken-kindle"
-    ]
-  ],
-  [
-    [
       "2025-12-08, 14:50:48",
       "https://news.ycombinator.com/item?id=46192846"
     ],
@@ -221,22 +221,22 @@
   ],
   [
     [
-      "2025-12-08, 13:49:21",
-      "https://news.ycombinator.com/item?id=46192186"
-    ],
-    [
-      "Microsoft increases Office 365 and Microsoft 365 license prices",
-      "https://office365itpros.com/2025/12/08/microsoft-365-pricing-increase/"
-    ]
-  ],
-  [
-    [
       "2025-12-06, 08:42:38",
       "https://news.ycombinator.com/item?id=46171703"
     ],
     [
       "The Gamma Language",
       "https://lair.masot.net/gamma/"
+    ]
+  ],
+  [
+    [
+      "2025-12-04, 19:19:05",
+      "https://news.ycombinator.com/item?id=46151600"
+    ],
+    [
+      "AWS Trainium3 Deep Dive – A Potential Challenger Approaching",
+      "https://newsletter.semianalysis.com/p/aws-trainium3-deep-dive-a-potential"
     ]
   ],
   [
