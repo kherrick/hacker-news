@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-12-09](index.md)
 
+* [2025-12-09, 16:37:55](https://news.ycombinator.com/item?id=46207017) - [Launch HN: Mentat (YC S16) – Controlling LLMs with Runtime Intervention](https://playground.ctgt.ai)
+* [2025-12-09, 16:27:05](https://news.ycombinator.com/item?id=46206863) - [Berkeley professor's camera caught student allegedly sabotaging another student](https://www.mercurynews.com/2025/12/08/uc-berkeley-professor-installed-secret-camera-allegedly-catching-phd-candidate-sabotaging-fellow-students-work/)
+* [2025-12-09, 16:06:58](https://news.ycombinator.com/item?id=46206531) - [Handsdown one of the coolest 3D websites](https://bruno-simon.com/)
 * [2025-12-09, 16:02:37](https://news.ycombinator.com/item?id=46206457) - [Ask HN: Should \"I asked $AI, and it said\" replies be forbidden in HN guidelines?](https://news.ycombinator.com/item?id=46206457)
 * [2025-12-09, 15:10:27](https://news.ycombinator.com/item?id=46205743) - [EU investigates Google over AI-generated summaries in search results](https://www.bbc.com/news/articles/crl95eg33k1o)
 * [2025-12-09, 15:08:24](https://news.ycombinator.com/item?id=46205724) - [Apple's Slow AI Pace Becomes a Strength as Market Grows Weary of Spending](https://finance.yahoo.com/news/apple-slow-ai-pace-becomes-104658095.html)
@@ -11,6 +14,7 @@
 * [2025-12-09, 15:00:38](https://news.ycombinator.com/item?id=46205632) - [Show HN: Gemini Pro 3 Hallucinates the HN Front Page 10 Years from Today](https://dosaygo-studio.github.io/hn-front-page-2035/news)
 * [2025-12-09, 14:53:13](https://news.ycombinator.com/item?id=46205532) - [Engineers: Stop trying to win other people's game](https://www.anthonyputignano.com/p/the-western-front-advantage-how-junior)
 * [2025-12-09, 14:51:46](https://news.ycombinator.com/item?id=46205519) - [Kaiju – General purpose 3D/2D game engine in Go and Vulkan with built in editor](https://github.com/KaijuEngine/kaiju)
+* [2025-12-09, 14:49:51](https://news.ycombinator.com/item?id=46205493) - [Show HN: I got tired of switching AI tools, so I built an IDE with 11 of them](https://hivetechs.io)
 * [2025-12-09, 14:47:20](https://news.ycombinator.com/item?id=46205461) - [My favourite small hash table](https://www.corsix.org/content/my-favourite-small-hash-table)
 * [2025-12-09, 14:45:01](https://news.ycombinator.com/item?id=46205437) - [Mistral Releases Devstral 2 (72.2% SWE-Bench Verified) and Vibe CLI](https://mistral.ai/news/devstral-2-vibe-cli)
 * [2025-12-09, 14:00:53](https://news.ycombinator.com/item?id=46204998) - [Fate: A modern data client for React and tRPC](https://fate.technology/posts/introducing-fate)
