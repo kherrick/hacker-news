@@ -27,6 +27,7 @@
 * [2025-12-03, 18:18:23](https://news.ycombinator.com/item?id=46137953) - [Show HN: Microlandia, a brutally honest city builder](https://microlandia.city)
 * [2025-12-03, 18:09:49](https://news.ycombinator.com/item?id=46137845) - [Stop Talking](https://gurkan.in/2025/12/stop-talking/)
 * [2025-12-03, 18:04:32](https://news.ycombinator.com/item?id=46137783) - [Micron Announces Exit from Crucial Consumer Business](https://investors.micron.com/news-releases/news-release-details/micron-announces-exit-crucial-consumer-business)
+* [2025-12-03, 18:03:40](https://news.ycombinator.com/item?id=46137772) - [Periodic Spaces](https://ianthehenry.com/posts/periodic-spaces/)
 * [2025-12-03, 18:01:11](https://news.ycombinator.com/item?id=46137746) - [Prompt Injection via Poetry](https://www.wired.com/story/poems-can-trick-ai-into-helping-you-make-a-nuclear-weapon/)
 * [2025-12-03, 17:47:15](https://news.ycombinator.com/item?id=46137548) - [Launch HN: Phind 3 (YC S22) – Every answer is a mini-app](https://news.ycombinator.com/item?id=46137548)
 * [2025-12-03, 17:44:33](https://news.ycombinator.com/item?id=46137514) - [Reverse engineering a $1B Legal AI tool exposed 100k+ confidential files](https://alexschapiro.com/security/vulnerability/2025/12/02/filevine-api-100k)
