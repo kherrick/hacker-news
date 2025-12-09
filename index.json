@@ -1,12 +1,22 @@
 [
   [
     [
-      "2025-12-09, 20:21:06",
-      "https://news.ycombinator.com/item?id=46210095"
+      "2025-12-09, 21:07:22",
+      "https://news.ycombinator.com/item?id=46210661"
     ],
     [
-      "We Need to Die",
-      "https://willllliam.com/blog/why-we-need-to-die/"
+      "I misused LLMs to diagnose myself and ended up bedridden for a week",
+      "https://blog.shortround.space/blog/how-i-misused-llms-to-diagnose-myself-and-ended-up-bedridden-for-a-week/"
+    ]
+  ],
+  [
+    [
+      "2025-12-09, 20:33:14",
+      "https://news.ycombinator.com/item?id=46210240"
+    ],
+    [
+      "Django: what’s new in 6.0",
+      "https://adamj.eu/tech/2025/12/03/django-whats-new-6.0/"
     ]
   ],
   [
@@ -67,16 +77,6 @@
     [
       "Show HN: Detail, a Bug Finder",
       "https://detail.dev/"
-    ]
-  ],
-  [
-    [
-      "2025-12-09, 17:26:33",
-      "https://news.ycombinator.com/item?id=46207727"
-    ],
-    [
-      "How private equity is changing housing",
-      "https://www.theatlantic.com/ideas/2025/12/private-equity-housing-changes/685138/"
     ]
   ],
   [
@@ -241,16 +241,6 @@
   ],
   [
     [
-      "2025-12-05, 20:25:18",
-      "https://news.ycombinator.com/item?id=46166782"
-    ],
-    [
-      "Tutorial 48: my museum collections kit",
-      "https://svpow.com/2025/11/26/tutorial-48-my-museum-collections-kit/"
-    ]
-  ],
-  [
-    [
       "2025-12-04, 19:19:05",
       "https://news.ycombinator.com/item?id=46151600"
     ],
@@ -297,6 +287,16 @@
     [
       "Constructing the Word's First JPEG XL MD5 Hash Quine",
       "https://stackchk.fail/blog/jxl_hashquine_writeup"
+    ]
+  ],
+  [
+    [
+      "2025-12-01, 20:45:07",
+      "https://news.ycombinator.com/item?id=46112965"
+    ],
+    [
+      "ULID: Universally Unique Lexicographically Sortable Identifier",
+      "https://packagemain.tech/p/ulid-identifier-golang-postgres"
     ]
   ]
 ]
