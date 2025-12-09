@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-12-09, 21:19:37](https://news.ycombinator.com/item?id=46210806) - [Qt, Linux and everything: Debugging Qt WebAssembly](http://qtandeverything.blogspot.com/2025/12/debugging-qt-webassembly-dwarf.html)
-* [2025-12-09, 21:07:22](https://news.ycombinator.com/item?id=46210661) - [I misused LLMs to diagnose myself and ended up bedridden for a week](https://blog.shortround.space/blog/how-i-misused-llms-to-diagnose-myself-and-ended-up-bedridden-for-a-week/)
 * [2025-12-09, 20:33:14](https://news.ycombinator.com/item?id=46210240) - [Django: what’s new in 6.0](https://adamj.eu/tech/2025/12/03/django-whats-new-6.0/)
 * [2025-12-09, 20:00:39](https://news.ycombinator.com/item?id=46209846) - [Agentic AI Foundation](https://block.xyz/inside/block-anthropic-and-openai-launch-the-agentic-ai-foundation)
 * [2025-12-09, 18:54:55](https://news.ycombinator.com/item?id=46208962) - [10 Years of Let's Encrypt](https://letsencrypt.org/2025/12/09/10-years)
@@ -15,6 +14,7 @@
 * [2025-12-09, 17:01:11](https://news.ycombinator.com/item?id=46207360) - [Clearspace (YC W23) Is Hiring a Founding Designer](https://www.ycombinator.com/companies/clearspace/jobs/yamWTLr-founding-designer-at-clearspace)
 * [2025-12-09, 16:37:55](https://news.ycombinator.com/item?id=46207017) - [Launch HN: Mentat (YC F24) – Controlling LLMs with Runtime Intervention](https://news.ycombinator.com/item?id=46207017)
 * [2025-12-09, 16:06:58](https://news.ycombinator.com/item?id=46206531) - [Handsdown one of the coolest 3D websites](https://bruno-simon.com/)
+* [2025-12-09, 16:02:37](https://news.ycombinator.com/item?id=46206457) - [Ask HN: Should \"I asked $AI, and it said\" replies be forbidden in HN guidelines?](https://news.ycombinator.com/item?id=46206457)
 * [2025-12-09, 15:08:24](https://news.ycombinator.com/item?id=46205724) - [Apple's slow AI pace becomes a strength as market grows weary of spending](https://finance.yahoo.com/news/apple-slow-ai-pace-becomes-104658095.html)
 * [2025-12-09, 15:03:09](https://news.ycombinator.com/item?id=46205661) - [Pebble Index 01 – External memory for your brain](https://repebble.com/blog/meet-pebble-index-01-external-memory-for-your-brain)
 * [2025-12-09, 15:00:38](https://news.ycombinator.com/item?id=46205632) - [Show HN: Gemini Pro 3 hallucinates the HN front page 10 years from now](https://dosaygo-studio.github.io/hn-front-page-2035/news)
