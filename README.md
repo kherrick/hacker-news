@@ -22,12 +22,12 @@
 * [2025-12-08, 14:16:34](https://news.ycombinator.com/item?id=46192459) - [Paramount launches hostile bid for Warner Bros](https://www.cnbc.com/2025/12/08/paramount-skydance-hostile-bid-wbd-netflix.html)
 * [2025-12-08, 13:49:21](https://news.ycombinator.com/item?id=46192186) - [Microsoft increases Office 365 and Microsoft 365 license prices](https://office365itpros.com/2025/12/08/microsoft-365-pricing-increase/)
 * [2025-12-08, 13:43:59](https://news.ycombinator.com/item?id=46192130) - [IBM to acquire Confluent](https://www.confluent.io/blog/ibm-to-acquire-confluent/)
-* [2025-12-08, 11:45:08](https://news.ycombinator.com/item?id=46191179) - [Why I don’t root for the Many Worlds team](https://nautil.us/reality-exists-without-observers-boooo-1252289/)
 * [2025-12-05, 19:33:28](https://news.ycombinator.com/item?id=46166178) - [Microsoft Download Center Archive](https://legacyupdate.net/download-center/)
 * [2025-12-04, 14:45:10](https://news.ycombinator.com/item?id=46148202) - [The web runs on tolerance](https://shkspr.mobi/blog/2025/12/the-web-runs-on-tolerance/)
 * [2025-12-04, 13:16:54](https://news.ycombinator.com/item?id=46147329) - [Show HN: Fanfa – Interactive and animated Mermaid diagrams](https://fanfa.dev/)
 * [2025-12-04, 04:30:25](https://news.ycombinator.com/item?id=46143818) - [Cassette tapes are making a comeback?](https://theconversation.com/cassette-tapes-are-making-a-comeback-yes-really-268108)
 * [2025-12-03, 16:19:53](https://news.ycombinator.com/item?id=46136277) - [OSHW: Small tablet based on RK3568 and AMOLED screen](https://oshwhub.com/oglggc/rui-xin-wei-rk3568-si-ceng-jia-li-chuang-mian-fei-gong-yi)
+* [2025-12-03, 15:09:30](https://news.ycombinator.com/item?id=46135349) - [Using Floating Point Numbers as Hash Keys (2017)](https://readafterwrite.wordpress.com/2017/03/23/how-to-hash-floating-point-numbers/)
 * [2025-12-03, 04:04:32](https://news.ycombinator.com/item?id=46130188) - [Luarrow – True pipeline operators and elegant Haskell-style function compositio](https://github.com/aiya000/luarrow.lua)
 * [2025-12-02, 12:55:31](https://news.ycombinator.com/item?id=46120732) - [Latency Profiling in Python: From Code Bottlenecks to Observability](https://quant.engineering/latency-profiling-in-python.html)
 

@@ -42,6 +42,7 @@
 * [2025-12-03, 15:32:57](https://news.ycombinator.com/item?id=46135661) - [VA staff flag dangerous errors in Oracle-built electronic health record](https://www.washingtonpost.com/investigations/2025/12/03/veterans-administration-va-hospitals-health/)
 * [2025-12-03, 15:30:30](https://news.ycombinator.com/item?id=46135627) - [Why are my headphones buzzing whenever I run my game?](https://alexene.dev/2025/12/03/Why-do-my-headphones-buzz-when-i-run-my-game.html)
 * [2025-12-03, 15:11:58](https://news.ycombinator.com/item?id=46135388) - [Microsoft lowers AI software sales quota](https://finance.yahoo.com/news/microsoft-lowers-ai-software-sales-141531121.html)
+* [2025-12-03, 15:09:30](https://news.ycombinator.com/item?id=46135349) - [Using Floating Point Numbers as Hash Keys (2017)](https://readafterwrite.wordpress.com/2017/03/23/how-to-hash-floating-point-numbers/)
 * [2025-12-03, 14:51:54](https://news.ycombinator.com/item?id=46135145) - [Building a Toast Component](https://emilkowal.ski/ui/building-a-toast-component)
 * [2025-12-03, 14:45:26](https://news.ycombinator.com/item?id=46135067) - [Show HN: Fresh – A new terminal editor built in Rust](https://sinelaw.github.io/fresh/)
 * [2025-12-03, 14:42:02](https://news.ycombinator.com/item?id=46135008) - [Mapping Every Dollar of America's $5T Healthcare System](https://healthisotherpeople.substack.com/p/an-abominable-creature)
