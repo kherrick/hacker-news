@@ -14,6 +14,7 @@
 * [2025-12-09, 10:52:58](https://news.ycombinator.com/item?id=46203499) - [ZX Spectrum Next on the Internet: Xberry Pi ESP01 and Pi Zero Upgrades](https://retrogamecoders.com/zx-spectrum-next-on-the-internet-xberry-pi-esp01-and-pi-zero-upgrades/)
 * [2025-12-09, 10:33:47](https://news.ycombinator.com/item?id=46203410) - [Morphisms All the Way Down: API Design as Arrow-First Thinking](https://ibrahimcesar.cloud/blog/categorical-solutions-architect-part-2/)
 * [2025-12-09, 09:48:55](https://news.ycombinator.com/item?id=46203138) - [The Joy of Playing Grandia, on Sega Saturn](https://www.segasaturnshiro.com/2025/11/27/the-joy-of-playing-grandia-on-sega-saturn/)
+* [2025-12-09, 09:13:56](https://news.ycombinator.com/item?id=46202921) - [30 Year Anniversary of WarCraft II: Tides of Darkness](https://www.jorsys.org/archive/december_2025.html#newsitem_2025-12-09T07:42:19Z)
 * [2025-12-09, 07:01:38](https://news.ycombinator.com/item?id=46202058) - [A thousand-year-long composition turns 25 (2024)](https://longplayer.org/news/2024/12/31/a-thousand-year-long-composition-turns-25/)
 * [2025-12-09, 06:01:57](https://news.ycombinator.com/item?id=46201750) - [The closer we look at time, the stranger it gets](https://www.sciencefocus.com/science/the-closer-we-look-at-time-the-stranger-it-gets)
 * [2025-12-09, 04:57:53](https://news.ycombinator.com/item?id=46201381) - [Modern Cassette Walkmans](https://walkman.land/modern)
