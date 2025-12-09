@@ -129,6 +129,143 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
+        <section id="46207852">
+          <h3>
+            <a class="item" href="https://detail.dev/"
+              >Show HN: Detail, a Bug Finder</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2025-12-09 @ 17:35:35</span
+              ><span class="points-container"
+                >Points: <span class="points">18</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=46207852"
+                  >Comments</a
+                ><span class="descendants">: 6</span></span
+              >
+            </h4>
+            <div class="text">
+              <p>Long story below.</p>
+              <p>--------------------------</p>
+              <p>
+                We originally set out to work on technical debt. We had all seen
+                codebases with a lot of debt, so we had personal grudges about
+                the problem, and AI seemed to be making it a lot worse.
+              </p>
+              <p>
+                Tech debt also seemed like a great problem for AI because: 1) a
+                small portion of the work is thinky and strategic, and then the
+                bulk of the execution is pretty mechanical, and 2) when you're
+                solving technical debt, you're usually trying to preserve
+                existing behavior, just change the implementation. That means
+                you can treat it as a closed-loop problem if you figure out good
+                ways to detect unintended behavior changes due to a code change.
+                And we know how to do that – that's what tests are for!
+              </p>
+              <p>
+                So we started with writing tests. Tests create the guardrails
+                that make future code changes safer. Our thinking was: if we can
+                test well enough, we can automate a lot of other tech debt work
+                at very high quality.
+              </p>
+              <p>
+                We built an agent that could write thousands of new tests for a
+                typical codebase, most "merge-quality". Some early users merged
+                hundreds of PRs generated this way, but intuitively the tool
+                always felt "good but not great". We used it sporadically
+                ourselves, and it usually felt like a chore.
+              </p>
+              <p>
+                Around this point we realized: while we had set out to write
+                good tests, we had built a system that, with a few tweaks, might
+                be very good at finding bugs. When we tested it out on some
+                friends' codebases, we discovered that almost every repo has
+                tons of bugs lurking in it that we were able to flag. Serious
+                bugs, interesting enough that people dropped what they were
+                doing to fix them. Sitting right there in peoples codebases,
+                already merged, running in prod.
+              </p>
+              <p>
+                We also found a lot of vulns, even in mature codebases, and
+                sometimes even right after someone had gotten a pentest.
+              </p>
+              <p>
+                Under the hood: - We check out a codebase and figure out how to
+                build it for local dev and exercise it with tests. - We take
+                snapshots of the built local dev state. (We use Runloop for this
+                and are big fans.) - We spin up hundreds of copies of the local
+                dev environment to exercise the codebase in thousands of ways
+                and flag behaviors that seem wrong. - We pick the most salient,
+                scary examples and deliver them as linear tickets, github
+                issues, or emails.
+              </p>
+              <p>
+                In practice, it's working pretty well. We've been able to find
+                bugs in everything from compilers to trading platforms (even in
+                rust code), but the sweet spot is app backends.
+              </p>
+              <p>
+                Our approach trades compute for quality. Our codebase scans take
+                hours, far beyond what would be practical for a code review bot.
+                But the result is that we can make more judicious use of
+                engineers’ attention, and we think that’s going to be the most
+                important variable.
+              </p>
+              <p>
+                Longer term, we think compute is cheap, engineer attention is
+                expensive. Wielded properly, the newest models can execute
+                complicated changes, even in large codebases. That means the
+                limiting reagent in building software is human attention. It
+                still takes time and focus for an engineer to ingest
+                information, e.g. existing code, organizational context, and
+                product requirements. These are all necessary before an engineer
+                can articulate what they want in precise terms and do a
+                competent job reviewing the resulting diff.
+              </p>
+              <p>
+                For now we're finding bugs, but the techniques we're developing
+                extend to a lot of other background, semi-proactive work to
+                improve codebases.
+              </p>
+              <p>
+                Try it out and tell us what you think. Free first scan, no
+                credit card required:
+                <a href="https://detail.dev/">https://detail.dev/</a>
+              </p>
+              <p>
+                We're also scanning on OSS repos, if you have any requests. The
+                system is pretty high signal-to-noise, but we don't want to risk
+                annoying maintainers by automatically opening issues, so if you
+                request a scan for an OSS repo the results will go to you
+                personally.
+                <a href="https://detail.dev/oss">https://detail.dev/oss</a>
+              </p>
+            </div>
+          </section>
+        </section>
+        <section id="46207727">
+          <h3>
+            <a
+              class="item"
+              href="https://www.theatlantic.com/ideas/2025/12/private-equity-housing-changes/685138/"
+              >How Private Equity Is Changing Housing</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2025-12-09 @ 17:26:33</span
+              ><span class="points-container"
+                >Points: <span class="points">25</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=46207727"
+                  >Comments</a
+                ><span class="descendants">: 40</span></span
+              >
+            </h4>
+          </section>
+        </section>
         <section id="46207505">
           <h3>
             <a
@@ -141,11 +278,11 @@
             <h4>
               <span>2025-12-09 @ 17:11:09</span
               ><span class="points-container"
-                >Points: <span class="points">54</span></span
+                >Points: <span class="points">73</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46207505"
                   >Comments</a
-                ><span class="descendants">: 48</span></span
+                ><span class="descendants">: 80</span></span
               >
             </h4>
           </section>
@@ -161,11 +298,11 @@
             <h4>
               <span>2025-12-09 @ 17:08:37</span
               ><span class="points-container"
-                >Points: <span class="points">56</span></span
+                >Points: <span class="points">110</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46207464"
                   >Comments</a
-                ><span class="descendants">: 5</span></span
+                ><span class="descendants">: 14</span></span
               >
             </h4>
           </section>
@@ -198,11 +335,11 @@
             <h4>
               <span>2025-12-09 @ 16:37:55</span
               ><span class="points-container"
-                >Points: <span class="points">14</span></span
+                >Points: <span class="points">17</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46207017"
                   >Comments</a
-                ><span class="descendants">: 5</span></span
+                ><span class="descendants">: 9</span></span
               >
             </h4>
             <div class="text">
@@ -355,11 +492,11 @@
             <h4>
               <span>2025-12-09 @ 16:06:58</span
               ><span class="points-container"
-                >Points: <span class="points">108</span></span
+                >Points: <span class="points">163</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46206531"
                   >Comments</a
-                ><span class="descendants">: 29</span></span
+                ><span class="descendants">: 41</span></span
               >
             </h4>
           </section>
@@ -375,11 +512,11 @@
             <h4>
               <span>2025-12-09 @ 16:02:37</span
               ><span class="points-container"
-                >Points: <span class="points">229</span></span
+                >Points: <span class="points">342</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46206457"
                   >Comments</a
-                ><span class="descendants">: 138</span></span
+                ><span class="descendants">: 189</span></span
               >
             </h4>
             <div class="text">
@@ -425,6 +562,28 @@
             </div>
           </section>
         </section>
+        <section id="46206277">
+          <h3>
+            <a
+              class="item"
+              href="https://boomsupersonic.com/flyby/ai-needs-more-power-than-the-grid-can-deliver-supersonic-tech-can-fix-that"
+              >AI needs more power than the grid can deliver – supersonic tech
+              can fix that</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2025-12-09 @ 15:51:32</span
+              ><span class="points-container"
+                >Points: <span class="points">26</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=46206277"
+                  >Comments</a
+                ><span class="descendants">: 32</span></span
+              >
+            </h4>
+          </section>
+        </section>
         <section id="46205661">
           <h3>
             <a
@@ -437,11 +596,11 @@
             <h4>
               <span>2025-12-09 @ 15:03:09</span
               ><span class="points-container"
-                >Points: <span class="points">203</span></span
+                >Points: <span class="points">213</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46205661"
                   >Comments</a
-                ><span class="descendants">: 210</span></span
+                ><span class="descendants">: 230</span></span
               >
             </h4>
           </section>
@@ -459,11 +618,11 @@
             <h4>
               <span>2025-12-09 @ 15:00:38</span
               ><span class="points-container"
-                >Points: <span class="points">431</span></span
+                >Points: <span class="points">608</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46205632"
                   >Comments</a
-                ><span class="descendants">: 199</span></span
+                ><span class="descendants">: 272</span></span
               >
             </h4>
           </section>
@@ -479,11 +638,11 @@
             <h4>
               <span>2025-12-09 @ 14:51:46</span
               ><span class="points-container"
-                >Points: <span class="points">82</span></span
+                >Points: <span class="points">101</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46205519"
                   >Comments</a
-                ><span class="descendants">: 34</span></span
+                ><span class="descendants">: 41</span></span
               >
             </h4>
           </section>
@@ -500,11 +659,11 @@
             <h4>
               <span>2025-12-09 @ 14:47:20</span
               ><span class="points-container"
-                >Points: <span class="points">52</span></span
+                >Points: <span class="points">61</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46205461"
                   >Comments</a
-                ><span class="descendants">: 7</span></span
+                ><span class="descendants">: 12</span></span
               >
             </h4>
           </section>
@@ -520,11 +679,11 @@
             <h4>
               <span>2025-12-09 @ 14:45:01</span
               ><span class="points-container"
-                >Points: <span class="points">213</span></span
+                >Points: <span class="points">252</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46205437"
                   >Comments</a
-                ><span class="descendants">: 71</span></span
+                ><span class="descendants">: 89</span></span
               >
             </h4>
           </section>
@@ -542,32 +701,11 @@
             <h4>
               <span>2025-12-09 @ 13:45:01</span
               ><span class="points-container"
-                >Points: <span class="points">28</span></span
+                >Points: <span class="points">30</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46204853"
                   >Comments</a
-                ><span class="descendants">: 4</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="46203986">
-          <h3>
-            <a
-              class="item"
-              href="https://www.tbray.org/ongoing/When/202x/2025/12/07/Thin-Spots-In-the-AI-Bubble"
-              >After the Bubble</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2025-12-09 @ 12:02:02</span
-              ><span class="points-container"
-                >Points: <span class="points">29</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=46203986"
-                  >Comments</a
-                ><span class="descendants">: 19</span></span
+                ><span class="descendants">: 11</span></span
               >
             </h4>
           </section>
@@ -584,11 +722,11 @@
             <h4>
               <span>2025-12-09 @ 11:16:10</span
               ><span class="points-container"
-                >Points: <span class="points">54</span></span
+                >Points: <span class="points">55</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46203611"
                   >Comments</a
-                ><span class="descendants">: 25</span></span
+                ><span class="descendants">: 27</span></span
               >
             </h4>
           </section>
@@ -604,7 +742,7 @@
             <h4>
               <span>2025-12-09 @ 11:09:06</span
               ><span class="points-container"
-                >Points: <span class="points">113</span></span
+                >Points: <span class="points">120</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46203581"
                   >Comments</a
@@ -643,7 +781,7 @@
             <h4>
               <span>2025-12-09 @ 10:52:58</span
               ><span class="points-container"
-                >Points: <span class="points">46</span></span
+                >Points: <span class="points">48</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46203499"
                   >Comments</a
@@ -664,11 +802,11 @@
             <h4>
               <span>2025-12-09 @ 09:48:55</span
               ><span class="points-container"
-                >Points: <span class="points">144</span></span
+                >Points: <span class="points">147</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46203138"
                   >Comments</a
-                ><span class="descendants">: 81</span></span
+                ><span class="descendants">: 85</span></span
               >
             </h4>
           </section>
@@ -685,30 +823,11 @@
             <h4>
               <span>2025-12-09 @ 09:13:56</span
               ><span class="points-container"
-                >Points: <span class="points">80</span></span
+                >Points: <span class="points">94</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46202921"
                   >Comments</a
-                ><span class="descendants">: 58</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="46199623">
-          <h3>
-            <a class="item" href="https://arxiv.org/abs/2512.05117"
-              >The universal weight subspace hypothesis</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2025-12-09 @ 00:16:46</span
-              ><span class="points-container"
-                >Points: <span class="points">340</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=46199623"
-                  >Comments</a
-                ><span class="descendants">: 121</span></span
+                ><span class="descendants">: 68</span></span
               >
             </h4>
           </section>
@@ -725,79 +844,13 @@
             <h4>
               <span>2025-12-08 @ 23:53:52</span
               ><span class="points-container"
-                >Points: <span class="points">239</span></span
+                >Points: <span class="points">247</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46199411"
                   >Comments</a
-                ><span class="descendants">: 269</span></span
+                ><span class="descendants">: 275</span></span
               >
             </h4>
-          </section>
-        </section>
-        <section id="46198430">
-          <h3>
-            <a class="item" href="https://withdocket.com"
-              >Show HN: I built a system for active note-taking in regular
-              meetings like 1-1s</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2025-12-08 @ 22:21:26</span
-              ><span class="points-container"
-                >Points: <span class="points">145</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=46198430"
-                  >Comments</a
-                ><span class="descendants">: 117</span></span
-              >
-            </h4>
-            <div class="text">
-              <p>
-                Over the years I've learned the value of active note taking in
-                these meetings. Meaning: not minutes, not transcriptions or AI
-                summaries, but <i>me</i> using my brain to actively pull out the
-                key points in short form bullet-like notes, as the meeting is
-                going on, as I'm talking and listening (and probably typing with
-                one hand). This could be agenda points to cover, any interesting
-                sidebars raised, insights gotten to in a discussion, actions
-                agreed to (and a way to track whether they got done next time!).
-              </p>
-              <p>
-                It's both useful just to track what's going on in all these
-                different meetings week to week (at one point I was doing about
-                a dozen 1-1s per week, and it just becomes impossible to hold it
-                in RAM) but also really valuable over time when you can look
-                back and see the full history of a particular meeting, what was
-                discussed when, how themes and structure are changing, is the
-                meetings effective, etc.
-              </p>
-              <p>
-                Anyway, I've tried a bunch of different tools for taking these
-                notes over the years. All the obvious ones you've probably used
-                too. And I've always just been not <i>quite</i> satisfied with
-                the experience. They work, obviously (it's just text based notes
-                at the end of the day) but nothing is first-class for this
-                usecase.
-              </p>
-              <p>
-                So, I decided to build the tool I've always felt I want to use,
-                specifically for regular 1-1s and other types of regular
-                meetings. I've been using it myself and with friends for a while
-                already now, and I think it's got to that point where I actually
-                prefer to reach for it over other general purpose note taking
-                tools now, and I want to share it more widely.
-              </p>
-              <p>
-                There's a free tier so you can use it right away, in fact
-                without even signing up.
-              </p>
-              <p>
-                If you've also been wanting a better system to manage your notes
-                for regular meetings, give it a go and let me know what you
-                think!
-              </p>
-            </div>
           </section>
         </section>
         <section id="46196688">
@@ -812,7 +865,7 @@
             <h4>
               <span>2025-12-08 @ 19:44:00</span
               ><span class="points-container"
-                >Points: <span class="points">755</span></span
+                >Points: <span class="points">767</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46196688"
                   >Comments</a
@@ -831,7 +884,7 @@
             <h4>
               <span>2025-12-06 @ 08:42:38</span
               ><span class="points-container"
-                >Points: <span class="points">25</span></span
+                >Points: <span class="points">26</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46171703"
                   >Comments</a
@@ -852,11 +905,11 @@
             <h4>
               <span>2025-12-04 @ 19:19:05</span
               ><span class="points-container"
-                >Points: <span class="points">35</span></span
+                >Points: <span class="points">40</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46151600"
                   >Comments</a
-                ><span class="descendants">: 8</span></span
+                ><span class="descendants">: 12</span></span
               >
             </h4>
           </section>
@@ -872,11 +925,30 @@
             <h4>
               <span>2025-12-03 @ 17:50:17</span
               ><span class="points-container"
-                >Points: <span class="points">78</span></span
+                >Points: <span class="points">81</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46137596"
                   >Comments</a
-                ><span class="descendants">: 29</span></span
+                ><span class="descendants">: 30</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="46129505">
+          <h3>
+            <a class="item" href="https://www.asimov.press/p/flagella"
+              >Animalcules and Their Motors</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2025-12-03 @ 02:12:17</span
+              ><span class="points-container"
+                >Points: <span class="points">6</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=46129505"
+                  >Comments</a
+                ><span class="descendants">: 1</span></span
               >
             </h4>
           </section>
@@ -894,32 +966,11 @@
             <h4>
               <span>2025-12-02 @ 18:17:48</span
               ><span class="points-container"
-                >Points: <span class="points">358</span></span
+                >Points: <span class="points">375</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46124425"
                   >Comments</a
-                ><span class="descendants">: 79</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="46123307">
-          <h3>
-            <a
-              class="item"
-              href="https://www.futilitycloset.com/2025/10/10/velato/"
-              >Velato</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2025-12-02 @ 16:55:29</span
-              ><span class="points-container"
-                >Points: <span class="points">11</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=46123307"
-                  >Comments</a
-                ><span class="descendants">: 3</span></span
+                ><span class="descendants">: 86</span></span
               >
             </h4>
           </section>
@@ -937,7 +988,7 @@
             <h4>
               <span>2025-12-02 @ 13:42:43</span
               ><span class="points-container"
-                >Points: <span class="points">61</span></span
+                >Points: <span class="points">65</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46121105"
                   >Comments</a
@@ -958,7 +1009,7 @@
             <h4>
               <span>2025-12-01 @ 22:44:15</span
               ><span class="points-container"
-                >Points: <span class="points">69</span></span
+                >Points: <span class="points">74</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46114440"
                   >Comments</a
@@ -977,11 +1028,11 @@
             <h4>
               <span>2025-12-01 @ 01:12:03</span
               ><span class="points-container"
-                >Points: <span class="points">121</span></span
+                >Points: <span class="points">126</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46102311"
                   >Comments</a
-                ><span class="descendants">: 29</span></span
+                ><span class="descendants">: 30</span></span
               >
             </h4>
           </section>
