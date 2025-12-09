@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-12-09](index.md)
 
+* [2025-12-09, 17:11:09](https://news.ycombinator.com/item?id=46207505) - [If You're Going to Vibe Code, Why Not Do It in C?](https://stephenramsay.net/posts/vibe-coding.html)
+* [2025-12-09, 17:08:37](https://news.ycombinator.com/item?id=46207464) - [PeerTube is recognized as a digital public good by Digital Public Goods Alliance](https://www.digitalpublicgoods.net/r/peertube)
 * [2025-12-09, 17:01:11](https://news.ycombinator.com/item?id=46207360) - [Clearspace (YC W23) Is Hiring a Founding Designer](https://www.ycombinator.com/companies/clearspace/jobs/yamWTLr-founding-designer-at-clearspace)
 * [2025-12-09, 16:37:55](https://news.ycombinator.com/item?id=46207017) - [Launch HN: Mentat (YC S16) – Controlling LLMs with Runtime Intervention](https://playground.ctgt.ai)
 * [2025-12-09, 16:27:05](https://news.ycombinator.com/item?id=46206863) - [Berkeley professor's camera caught student allegedly sabotaging another student](https://www.mercurynews.com/2025/12/08/uc-berkeley-professor-installed-secret-camera-allegedly-catching-phd-candidate-sabotaging-fellow-students-work/)
@@ -23,6 +25,7 @@
 * [2025-12-09, 13:45:01](https://news.ycombinator.com/item?id=46204853) - [Oliver Sacks Put Himself into His Case Studies. What Was the Cost?](https://www.newyorker.com/magazine/2025/12/15/oliver-sacks-put-himself-into-his-case-studies-what-was-the-cost)
 * [2025-12-09, 12:20:24](https://news.ycombinator.com/item?id=46204139) - [Mazda suitcase car, a portable three-wheeled vehicle that fits in the luggage](https://www.designboom.com/technology/rediscover-mazda-suitcase-car-portable-three-wheeled-vehicle-fits-luggage-12-06-2025/)
 * [2025-12-09, 12:15:31](https://news.ycombinator.com/item?id=46204090) - [Where are you supposed to go if you don't care about growth?](https://ramones.dev/posts/where-are-you-supposed-to-go/)
+* [2025-12-09, 12:02:02](https://news.ycombinator.com/item?id=46203986) - [After the Bubble](https://www.tbray.org/ongoing/When/202x/2025/12/07/Thin-Spots-In-the-AI-Bubble)
 * [2025-12-09, 11:58:02](https://news.ycombinator.com/item?id=46203948) - [Why frozen test fixtures are a problem on large projects and how to avoid them](https://radanskoric.com/articles/frozen-test-fixtures)
 * [2025-12-09, 11:16:10](https://news.ycombinator.com/item?id=46203611) - [Brent's Encapsulated C Programming Rules (2020)](https://retroscience.net/brents-c-programming-rules.html)
 * [2025-12-09, 11:12:07](https://news.ycombinator.com/item?id=46203591) - [Richard Stallman on ChatGPT](https://www.stallman.org/chatgpt.html)
