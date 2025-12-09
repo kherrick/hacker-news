@@ -1,5 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-12-09, 00:51:31](https://news.ycombinator.com/item?id=46199950) - [The Lost Machine Automats and Self-Service Cafeterias of NYC (2023)](https://www.untappedcities.com/automats-cafeterias-nyc/)
+* [2025-12-09, 00:50:32](https://news.ycombinator.com/item?id=46199935) - [Scientific and Technical Amateur Radio](https://destevez.net/)
+* [2025-12-09, 00:16:46](https://news.ycombinator.com/item?id=46199623) - [The Universal Weight Subspace Hypothesis](https://arxiv.org/abs/2512.05117)
+* [2025-12-08, 23:53:52](https://news.ycombinator.com/item?id=46199411) - [Kroger acknowledges that its bet on robotics went too far](https://www.grocerydive.com/news/kroger-ocado-close-automated-fulfillment-centers-robotics-grocery-ecommerce/805931/)
 * [2025-12-08, 21:54:12](https://news.ycombinator.com/item?id=46198177) - [Running on Empty: Copper](https://thehonestsorcerer.substack.com/p/running-on-empty-copper)
 * [2025-12-08, 21:27:42](https://news.ycombinator.com/item?id=46197875) - [Delivery robots take over Chicago sidewalks](https://blockclubchicago.org/2025/12/08/delivery-robots-take-over-chicago-sidewalks-sparking-debate-and-a-petition-to-hit-pause/)
 * [2025-12-08, 19:44:00](https://news.ycombinator.com/item?id=46196688) - [Icons in Menus Everywhere – Send Help](https://blog.jim-nielsen.com/2025/icons-in-menus/)
@@ -9,7 +13,6 @@
 * [2025-12-08, 18:48:27](https://news.ycombinator.com/item?id=46196076) - [Deep dive on Nvidia circular funding](https://philippeoger.com/pages/deep-dive-into-nvidias-virtuous-cycle)
 * [2025-12-08, 17:38:34](https://news.ycombinator.com/item?id=46195198) - [AI should only run as fast as we can catch up](https://higashi.blog/2025/12/07/ai-verification/)
 * [2025-12-08, 17:33:13](https://news.ycombinator.com/item?id=46195109) - [We collected 10k hours of neuro-language data in our basement](https://condu.it/thought/10k-hours)
-* [2025-12-08, 17:25:54](https://news.ycombinator.com/item?id=46195007) - [Show HN: DuckDB for Kafka Stream Processing](https://sql-flow.com/docs/tutorials/intro/)
 * [2025-12-08, 17:10:14](https://news.ycombinator.com/item?id=46194828) - [Launch HN: Nia (YC S25) – Give better context to coding agents](https://www.trynia.ai/)
 * [2025-12-08, 17:01:11](https://news.ycombinator.com/item?id=46194720) - [Legion Health (YC S21) is hiring a founding engineer (SF, in-person)](https://news.ycombinator.com/item?id=46194720)
 * [2025-12-08, 16:44:42](https://news.ycombinator.com/item?id=46194477) - [A series of tricks and techniques I learned doing tiny GLSL demos](https://blog.pkh.me/p/48-a-series-of-tricks-and-techniques-i-learned-doing-tiny-glsl-demos.html)
@@ -23,13 +26,10 @@
 * [2025-12-08, 13:49:21](https://news.ycombinator.com/item?id=46192186) - [Microsoft increases Office 365 and Microsoft 365 license prices](https://office365itpros.com/2025/12/08/microsoft-365-pricing-increase/)
 * [2025-12-08, 13:43:59](https://news.ycombinator.com/item?id=46192130) - [IBM to acquire Confluent](https://www.confluent.io/blog/ibm-to-acquire-confluent/)
 * [2025-12-08, 13:08:38](https://news.ycombinator.com/item?id=46191763) - [Flow: Actor-based language for C++, used by FoundationDB](https://github.com/apple/foundationdb/tree/main/flow)
-* [2025-12-08, 08:15:32](https://news.ycombinator.com/item?id=46189692) - [GitHub Actions has a package manager, and it might be the worst](https://nesbitt.io/2025/12/06/github-actions-package-manager.html)
 * [2025-12-05, 19:33:28](https://news.ycombinator.com/item?id=46166178) - [Microsoft Download Center Archive](https://legacyupdate.net/download-center/)
 * [2025-12-05, 08:08:42](https://news.ycombinator.com/item?id=46157914) - [Word spacing](https://en.wikipedia.org/wiki/Word_spacing)
+* [2025-12-04, 22:34:54](https://news.ycombinator.com/item?id=46154114) - [8086 Microcode Explorer](https://nand2mario.github.io/8086_microcode.html)
 * [2025-12-04, 13:16:54](https://news.ycombinator.com/item?id=46147329) - [Show HN: Fanfa – Interactive and animated Mermaid diagrams](https://fanfa.dev/)
-* [2025-12-04, 04:30:25](https://news.ycombinator.com/item?id=46143818) - [Cassette tapes are making a comeback. Yes](https://theconversation.com/cassette-tapes-are-making-a-comeback-yes-really-268108)
-* [2025-12-02, 18:33:00](https://news.ycombinator.com/item?id=46124649) - [Amp, Inc. – Amp is spinning out of Sourcegraph](https://ampcode.com/news/amp-inc)
-* [2025-12-01, 22:08:44](https://news.ycombinator.com/item?id=46113990) - [The consumption of AI-generated content at scale](https://www.sh-reya.com/blog/consumption-ai-scale/)
 
 ## [Archives](archives/index.md)
 

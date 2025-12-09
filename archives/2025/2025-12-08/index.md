@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-12-08](index.md)
 
+* [2025-12-08, 23:53:52](https://news.ycombinator.com/item?id=46199411) - [Kroger acknowledges that its bet on robotics went too far](https://www.grocerydive.com/news/kroger-ocado-close-automated-fulfillment-centers-robotics-grocery-ecommerce/805931/)
 * [2025-12-08, 23:13:16](https://news.ycombinator.com/item?id=46198994) - [It's ~2026 –. ChatGPT still doesn't allow email change](https://help.openai.com/en/articles/4936827-how-to-change-your-email-address)
 * [2025-12-08, 22:06:21](https://news.ycombinator.com/item?id=46198294) - [Doctors' estimates of the feasibility of preserving the dying for future revival](https://www.medrxiv.org/content/10.64898/2025.12.03.25341583v1)
 * [2025-12-08, 21:54:12](https://news.ycombinator.com/item?id=46198177) - [Running on Empty: Copper](https://thehonestsorcerer.substack.com/p/running-on-empty-copper)

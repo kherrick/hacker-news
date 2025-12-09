@@ -8,6 +8,7 @@
 * [2025-12-04, 23:08:25](https://news.ycombinator.com/item?id=46154491) - [We gave 5 LLMs $100K to trade stocks for 8 months](https://www.aitradearena.com/research/we-ran-llms-for-8-months)
 * [2025-12-04, 23:08:07](https://news.ycombinator.com/item?id=46154484) - [SMS phishers pivot to points, taxes, fake retailers](https://krebsonsecurity.com/2025/12/sms-phishers-pivot-to-points-taxes-fake-retailers/)
 * [2025-12-04, 22:56:08](https://news.ycombinator.com/item?id=46154344) - [StardustOS: Library operating system for building light-weight Unikernels](https://github.com/StardustOS)
+* [2025-12-04, 22:34:54](https://news.ycombinator.com/item?id=46154114) - [8086 Microcode Explorer](https://nand2mario.github.io/8086_microcode.html)
 * [2025-12-04, 22:26:43](https://news.ycombinator.com/item?id=46154022) - [State of AI: An Empirical 100T Token Study with OpenRouter](https://openrouter.ai/state-of-ai)
 * [2025-12-04, 22:11:19](https://news.ycombinator.com/item?id=46153822) - [Impacts of working from home on mental health tracked in study of Australians](https://www.abc.net.au/news/2025-12-05/australian-working-from-home-mental-health-impacts-tracked/106096688)
 * [2025-12-04, 21:40:24](https://news.ycombinator.com/item?id=46153466) - [Thoughts on Go vs. Rust vs. Zig](https://sinclairtarget.com/blog/2025/08/thoughts-on-go-vs.-rust-vs.-zig/)
