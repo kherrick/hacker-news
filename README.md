@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-12-09, 18:42:27](https://news.ycombinator.com/item?id=46208773) - [So You Want to Speak at Software Conferences?](https://dylanbeattie.net/2025/12/08/so-you-want-to-speak-at-software-conferences.html)
+* [2025-12-09, 18:16:44](https://news.ycombinator.com/item?id=46208409) - [The stack circuitry of the Intel 8087 floating point chip, reverse-engineered](https://www.righto.com/2025/12/8087-stack-circuitry.html)
 * [2025-12-09, 17:35:35](https://news.ycombinator.com/item?id=46207852) - [Show HN: Detail, a Bug Finder](https://detail.dev/)
 * [2025-12-09, 17:26:33](https://news.ycombinator.com/item?id=46207727) - [How private equity is changing housing](https://www.theatlantic.com/ideas/2025/12/private-equity-housing-changes/685138/)
 * [2025-12-09, 17:11:09](https://news.ycombinator.com/item?id=46207505) - [If you're going to vibe code, why not do it in C?](https://stephenramsay.net/posts/vibe-coding.html)
@@ -26,7 +27,6 @@
 * [2025-12-04, 19:19:05](https://news.ycombinator.com/item?id=46151600) - [AWS Trainium3 Deep Dive – A Potential Challenger Approaching](https://newsletter.semianalysis.com/p/aws-trainium3-deep-dive-a-potential)
 * [2025-12-03, 17:50:17](https://news.ycombinator.com/item?id=46137596) - [Transformers know more than they can tell: Learning the Collatz sequence](https://www.arxiv.org/pdf/2511.10811)
 * [2025-12-03, 14:38:20](https://news.ycombinator.com/item?id=46134969) - [Agentic QA – Open-source middleware to fuzz-test agents for loops](https://news.ycombinator.com/item?id=46134969)
-* [2025-12-03, 02:12:17](https://news.ycombinator.com/item?id=46129505) - [Animalcules and Their Motors](https://www.asimov.press/p/flagella)
 * [2025-12-02, 18:17:48](https://news.ycombinator.com/item?id=46124425) - [LLM from scratch, part 28 – training a base model from scratch on an RTX 3090](https://www.gilesthomas.com/2025/12/llm-from-scratch-28-training-a-base-model-from-scratch)
 * [2025-12-01, 22:44:15](https://news.ycombinator.com/item?id=46114440) - [Constructing the Word's First JPEG XL MD5 Hash Quine](https://stackchk.fail/blog/jxl_hashquine_writeup)
 * [2025-12-01, 01:12:03](https://news.ycombinator.com/item?id=46102311) - [Epsilon: A WASM virtual machine written in Go](https://github.com/ziggy42/epsilon)

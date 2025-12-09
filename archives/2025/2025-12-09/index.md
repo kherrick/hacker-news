@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-12-09](index.md)
 
 * [2025-12-09, 18:42:27](https://news.ycombinator.com/item?id=46208773) - [So You Want to Speak at Software Conferences?](https://dylanbeattie.net/2025/12/08/so-you-want-to-speak-at-software-conferences.html)
+* [2025-12-09, 18:16:44](https://news.ycombinator.com/item?id=46208409) - [The stack circuitry of the Intel 8087 floating point chip, reverse-engineered](https://www.righto.com/2025/12/8087-stack-circuitry.html)
 * [2025-12-09, 17:57:55](https://news.ycombinator.com/item?id=46208160) - [\"The Matilda Effect\": Pioneering Women Scientists Written Out of Science History](https://www.openculture.com/2025/12/matilda-effect.html)
 * [2025-12-09, 17:35:35](https://news.ycombinator.com/item?id=46207852) - [Show HN: Detail, a Bug Finder](https://detail.dev/)
 * [2025-12-09, 17:26:33](https://news.ycombinator.com/item?id=46207727) - [How Private Equity Is Changing Housing](https://www.theatlantic.com/ideas/2025/12/private-equity-housing-changes/685138/)
