@@ -64,6 +64,7 @@
 * [2025-12-02, 14:31:16](https://news.ycombinator.com/item?id=46121539) - [Zig's new plan for asynchronous programs](https://lwn.net/SubscriberLink/1046084/4c048ee008e1c70e/)
 * [2025-12-02, 14:02:44](https://news.ycombinator.com/item?id=46121251) - [Spectral rendering, part 3: Spectral vs. RGB](https://momentsingraphics.de/SpectralRendering3Results.html)
 * [2025-12-02, 14:01:05](https://news.ycombinator.com/item?id=46121243) - [Proximity to coworkers increases long-run development, lowers short-term output](https://pallais.scholars.harvard.edu/publications/power-proximity-coworkers-training-tomorrow-or-productivity-today)
+* [2025-12-02, 13:42:43](https://news.ycombinator.com/item?id=46121105) - [A deep dive into QEMU: The Tiny Code Generator (TCG), part 1](https://airbus-seclab.github.io/qemu_blog/tcg_p1.html)
 * [2025-12-02, 13:04:50](https://news.ycombinator.com/item?id=46120798) - [Sort the Court – A Free King Simulator Where You Rule with Yes or No](https://www.sort-the-court.com)
 * [2025-12-02, 12:59:55](https://news.ycombinator.com/item?id=46120764) - [The Absent Silence (2010)](https://www.ursulakleguin.com/blog/3-the-absent-silence)
 * [2025-12-02, 12:55:31](https://news.ycombinator.com/item?id=46120732) - [Latency Profiling in Python: From Code Bottlenecks to Observability](https://quant.engineering/latency-profiling-in-python.html)
