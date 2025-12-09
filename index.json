@@ -21,16 +21,6 @@
   ],
   [
     [
-      "2025-12-09, 00:50:32",
-      "https://news.ycombinator.com/item?id=46199935"
-    ],
-    [
-      "Scientific and Technical Amateur Radio",
-      "https://destevez.net/"
-    ]
-  ],
-  [
-    [
       "2025-12-09, 00:26:35",
       "https://news.ycombinator.com/item?id=46199723"
     ],
@@ -171,6 +161,16 @@
   ],
   [
     [
+      "2025-12-08, 16:14:52",
+      "https://news.ycombinator.com/item?id=46194063"
+    ],
+    [
+      "No more O'Reilly subscriptions for me",
+      "https://zerokspot.com/weblog/2025/12/05/no-more-oreilly-subscriptions-for-me/"
+    ]
+  ],
+  [
+    [
       "2025-12-08, 16:06:14",
       "https://news.ycombinator.com/item?id=46193931"
     ],
@@ -275,7 +275,7 @@
       "https://news.ycombinator.com/item?id=46135349"
     ],
     [
-      "Using Floating Point Numbers as Hash Keys (2017)",
+      "Using floating point numbers as hash keys (2017)",
       "https://readafterwrite.wordpress.com/2017/03/23/how-to-hash-floating-point-numbers/"
     ]
   ],
