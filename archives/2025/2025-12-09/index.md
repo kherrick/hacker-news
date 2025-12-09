@@ -4,8 +4,12 @@
 
 ### [Archives](../../index.md) for [2025-12-09](index.md)
 
+* [2025-12-09, 12:15:31](https://news.ycombinator.com/item?id=46204090) - [Where are you supposed to go if you don't care about growth?](https://ramones.dev/posts/where-are-you-supposed-to-go/)
+* [2025-12-09, 11:16:10](https://news.ycombinator.com/item?id=46203611) - [Brent's Encapsulated C Programming Rules (2020)](https://retroscience.net/brents-c-programming-rules.html)
 * [2025-12-09, 11:12:07](https://news.ycombinator.com/item?id=46203591) - [Richard Stallman on ChatGPT](https://www.stallman.org/chatgpt.html)
 * [2025-12-09, 11:09:06](https://news.ycombinator.com/item?id=46203581) - [Show HN: AlgoDrill – Interactive drills to stop forgetting LeetCode patterns](https://algodrill.io)
+* [2025-12-09, 10:52:58](https://news.ycombinator.com/item?id=46203499) - [ZX Spectrum Next on the Internet: Xberry Pi ESP01 and Pi Zero Upgrades](https://retrogamecoders.com/zx-spectrum-next-on-the-internet-xberry-pi-esp01-and-pi-zero-upgrades/)
+* [2025-12-09, 10:33:47](https://news.ycombinator.com/item?id=46203410) - [Morphisms All the Way Down: API Design as Arrow-First Thinking](https://ibrahimcesar.cloud/blog/categorical-solutions-architect-part-2/)
 * [2025-12-09, 09:48:55](https://news.ycombinator.com/item?id=46203138) - [The Joy of Playing Grandia, on Sega Saturn](https://www.segasaturnshiro.com/2025/11/27/the-joy-of-playing-grandia-on-sega-saturn/)
 * [2025-12-09, 07:01:38](https://news.ycombinator.com/item?id=46202058) - [A thousand-year-long composition turns 25 (2024)](https://longplayer.org/news/2024/12/31/a-thousand-year-long-composition-turns-25/)
 * [2025-12-09, 06:01:57](https://news.ycombinator.com/item?id=46201750) - [The closer we look at time, the stranger it gets](https://www.sciencefocus.com/science/the-closer-we-look-at-time-the-stranger-it-gets)
