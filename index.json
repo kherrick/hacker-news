@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-12-09, 02:00:13",
+      "https://news.ycombinator.com/item?id=46200420"
+    ],
+    [
+      "The power of proximity to coworkers [pdf]",
+      "https://pallais.scholars.harvard.edu/sites/g/files/omnuum5926/files/2025-11/Power%20of%20Proximity%20to%20Coworkers%20November%202025.pdf"
+    ]
+  ],
+  [
+    [
       "2025-12-09, 00:51:31",
       "https://news.ycombinator.com/item?id=46199950"
     ],
@@ -21,6 +31,16 @@
   ],
   [
     [
+      "2025-12-09, 00:26:35",
+      "https://news.ycombinator.com/item?id=46199723"
+    ],
+    [
+      "Horses: AI progress is steady. Human equivalence is sudden",
+      "https://andyljones.com/posts/horses.html"
+    ]
+  ],
+  [
+    [
       "2025-12-09, 00:16:46",
       "https://news.ycombinator.com/item?id=46199623"
     ],
@@ -37,26 +57,6 @@
     [
       "Kroger acknowledges that its bet on robotics went too far",
       "https://www.grocerydive.com/news/kroger-ocado-close-automated-fulfillment-centers-robotics-grocery-ecommerce/805931/"
-    ]
-  ],
-  [
-    [
-      "2025-12-08, 21:54:12",
-      "https://news.ycombinator.com/item?id=46198177"
-    ],
-    [
-      "Running on Empty: Copper",
-      "https://thehonestsorcerer.substack.com/p/running-on-empty-copper"
-    ]
-  ],
-  [
-    [
-      "2025-12-08, 21:27:42",
-      "https://news.ycombinator.com/item?id=46197875"
-    ],
-    [
-      "Delivery robots take over Chicago sidewalks",
-      "https://blockclubchicago.org/2025/12/08/delivery-robots-take-over-chicago-sidewalks-sparking-debate-and-a-petition-to-hit-pause/"
     ]
   ],
   [
@@ -251,16 +251,6 @@
   ],
   [
     [
-      "2025-12-08, 13:08:38",
-      "https://news.ycombinator.com/item?id=46191763"
-    ],
-    [
-      "Flow: Actor-based language for C++, used by FoundationDB",
-      "https://github.com/apple/foundationdb/tree/main/flow"
-    ]
-  ],
-  [
-    [
       "2025-12-05, 19:33:28",
       "https://news.ycombinator.com/item?id=46166178"
     ],
@@ -271,21 +261,11 @@
   ],
   [
     [
-      "2025-12-05, 08:08:42",
-      "https://news.ycombinator.com/item?id=46157914"
-    ],
-    [
-      "Word spacing",
-      "https://en.wikipedia.org/wiki/Word_spacing"
-    ]
-  ],
-  [
-    [
       "2025-12-04, 22:34:54",
       "https://news.ycombinator.com/item?id=46154114"
     ],
     [
-      "8086 Microcode Explorer",
+      "Intel 8086 Microcode Explorer",
       "https://nand2mario.github.io/8086_microcode.html"
     ]
   ],
@@ -297,6 +277,26 @@
     [
       "Show HN: Fanfa – Interactive and animated Mermaid diagrams",
       "https://fanfa.dev/"
+    ]
+  ],
+  [
+    [
+      "2025-12-03, 16:19:53",
+      "https://news.ycombinator.com/item?id=46136277"
+    ],
+    [
+      "OSHW: Small tablet based on RK3568 and AMOLED screen",
+      "https://oshwhub.com/oglggc/rui-xin-wei-rk3568-si-ceng-jia-li-chuang-mian-fei-gong-yi"
+    ]
+  ],
+  [
+    [
+      "2025-12-02, 12:55:31",
+      "https://news.ycombinator.com/item?id=46120732"
+    ],
+    [
+      "Latency Profiling in Python: From Code Bottlenecks to Observability",
+      "https://quant.engineering/latency-profiling-in-python.html"
     ]
   ]
 ]
