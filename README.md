@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-12-09, 11:12:07](https://news.ycombinator.com/item?id=46203591) - [Richard Stallman on ChatGPT](https://www.stallman.org/chatgpt.html)
 * [2025-12-09, 11:09:06](https://news.ycombinator.com/item?id=46203581) - [Show HN: AlgoDrill – Interactive drills to stop forgetting LeetCode patterns](https://algodrill.io)
 * [2025-12-09, 09:48:55](https://news.ycombinator.com/item?id=46203138) - [The Joy of Playing Grandia, on Sega Saturn](https://www.segasaturnshiro.com/2025/11/27/the-joy-of-playing-grandia-on-sega-saturn/)
 * [2025-12-09, 07:01:38](https://news.ycombinator.com/item?id=46202058) - [A thousand-year-long composition turns 25 (2024)](https://longplayer.org/news/2024/12/31/a-thousand-year-long-composition-turns-25/)
@@ -15,6 +14,7 @@
 * [2025-12-08, 18:51:03](https://news.ycombinator.com/item?id=46196105) - [Jepsen: NATS 2.12.1](https://jepsen.io/analyses/nats-2.12.1)
 * [2025-12-08, 17:38:34](https://news.ycombinator.com/item?id=46195198) - [AI should only run as fast as we can catch up](https://higashi.blog/2025/12/07/ai-verification/)
 * [2025-12-08, 17:10:14](https://news.ycombinator.com/item?id=46194828) - [Launch HN: Nia (YC S25) – Give better context to coding agents](https://www.trynia.ai/)
+* [2025-12-08, 16:44:42](https://news.ycombinator.com/item?id=46194477) - [A series of tricks and techniques I learned doing tiny GLSL demos](https://blog.pkh.me/p/48-a-series-of-tricks-and-techniques-i-learned-doing-tiny-glsl-demos.html)
 * [2025-12-08, 16:38:08](https://news.ycombinator.com/item?id=46194384) - [Hunting for North Korean Fiber Optic Cables](https://nkinternet.com/2025/12/08/hunting-for-north-korean-fiber-optic-cables/)
 * [2025-12-08, 16:34:08](https://news.ycombinator.com/item?id=46194337) - [Let's put Tailscale on a jailbroken Kindle](https://tailscale.com/blog/tailscale-jailbroken-kindle)
 * [2025-12-08, 16:06:14](https://news.ycombinator.com/item?id=46193931) - [AMD GPU Debugger](https://thegeeko.me/blog/amd-gpu-debugging/)
