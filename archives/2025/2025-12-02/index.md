@@ -32,6 +32,7 @@
 * [2025-12-02, 18:48:13](https://news.ycombinator.com/item?id=46124903) - [Minimum Viable Arduino Project: Aeropress Timer](https://netninja.com/2025/12/01/minimum-viable-arduino-project-aeropress-timer/)
 * [2025-12-02, 18:47:53](https://news.ycombinator.com/item?id=46124892) - [Cursed circuits: charge pump voltage halver](https://lcamtuf.substack.com/p/cursed-circuits-charge-pump-voltage)
 * [2025-12-02, 18:33:00](https://news.ycombinator.com/item?id=46124649) - [Amp, Inc. – Amp is spinning out of Sourcegraph](https://ampcode.com/news/amp-inc)
+* [2025-12-02, 18:17:48](https://news.ycombinator.com/item?id=46124425) - [LLM from scratch, part 28 – training a base model from scratch on an RTX 3090](https://www.gilesthomas.com/2025/12/llm-from-scratch-28-training-a-base-model-from-scratch)
 * [2025-12-02, 18:10:23](https://news.ycombinator.com/item?id=46124324) - [IBM CEO says there is 'no way' spending on AI data centers will pay off](https://www.businessinsider.com/ibm-ceo-big-tech-ai-capex-data-center-spending-2025-12)
 * [2025-12-02, 18:05:44](https://news.ycombinator.com/item?id=46124267) - [Bun has been acquired by Anthropic](https://bun.com/blog/bun-joins-anthropic)
 * [2025-12-02, 18:04:23](https://news.ycombinator.com/item?id=46124258) - [Anthropic Acquires Bun](https://www.anthropic.com/news/anthropic-acquires-bun-as-claude-code-reaches-usd1b-milestone)
