@@ -86,6 +86,7 @@
 * [2025-12-01, 01:48:15](https://news.ycombinator.com/item?id=46102546) - [Building a Copying GC for the Plush Programming Language](https://pointersgonewild.com/2025-11-29-building-a-copying-gc-for-the-plush-programming-language/)
 * [2025-12-01, 01:33:46](https://news.ycombinator.com/item?id=46102451) - [Regarding Thien-Thi Nguyen](https://news.ycombinator.com/item?id=46102451)
 * [2025-12-01, 01:17:28](https://news.ycombinator.com/item?id=46102347) - [Advent of Sysadmin 2025](https://sadservers.com/advent)
+* [2025-12-01, 01:12:03](https://news.ycombinator.com/item?id=46102311) - [Epsilon: A WASM virtual machine written in Go](https://github.com/ziggy42/epsilon)
 * [2025-12-01, 01:08:01](https://news.ycombinator.com/item?id=46102276) - [Bikeshedding, or why I want to build a laptop](https://geohot.github.io//blog/jekyll/update/2025/11/29/bikeshedding-or-laptop.html)
 * [2025-12-01, 00:58:32](https://news.ycombinator.com/item?id=46102202) - [Is America's jobs market nearing a cliff?](https://www.economist.com/finance-and-economics/2025/11/30/is-americas-jobs-market-nearing-a-cliff)
 * [2025-12-01, 00:53:12](https://news.ycombinator.com/item?id=46102167) - [Malware embedded into audio driver is silently recording from system mic](https://twitter.com/Officialwhyte22/status/1995024999934001602)

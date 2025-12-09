@@ -28,8 +28,8 @@
 * [2025-12-04, 04:30:25](https://news.ycombinator.com/item?id=46143818) - [Cassette tapes are making a comeback?](https://theconversation.com/cassette-tapes-are-making-a-comeback-yes-really-268108)
 * [2025-12-03, 18:03:40](https://news.ycombinator.com/item?id=46137772) - [Periodic Spaces](https://ianthehenry.com/posts/periodic-spaces/)
 * [2025-12-03, 16:19:53](https://news.ycombinator.com/item?id=46136277) - [OSHW: Small tablet based on RK3568 and AMOLED screen](https://oshwhub.com/oglggc/rui-xin-wei-rk3568-si-ceng-jia-li-chuang-mian-fei-gong-yi)
-* [2025-12-03, 04:04:32](https://news.ycombinator.com/item?id=46130188) - [Luarrow – True pipeline operators and elegant Haskell-style function compositio](https://github.com/aiya000/luarrow.lua)
 * [2025-12-02, 12:55:31](https://news.ycombinator.com/item?id=46120732) - [Latency Profiling in Python: From Code Bottlenecks to Observability](https://quant.engineering/latency-profiling-in-python.html)
+* [2025-12-01, 01:12:03](https://news.ycombinator.com/item?id=46102311) - [Epsilon: A WASM virtual machine written in Go](https://github.com/ziggy42/epsilon)
 
 ## [Archives](archives/index.md)
 
