@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-12-09](index.md)
 
+* [2025-12-09, 19:36:03](https://news.ycombinator.com/item?id=46209493) - [The Big Vitamin D Mistake [pdf]](https://pmc.ncbi.nlm.nih.gov/articles/PMC5541280/pdf/jpmph-50-4-278.pdf)
 * [2025-12-09, 19:26:54](https://news.ycombinator.com/item?id=46209378) - [MCP Joins the Agentic AI Foundation](http://blog.modelcontextprotocol.io/posts/2025-12-09-mcp-joins-agentic-ai-foundation/)
 * [2025-12-09, 18:54:55](https://news.ycombinator.com/item?id=46208962) - [10 Years of Let's Encrypt](https://letsencrypt.org/2025/12/09/10-years)
 * [2025-12-09, 18:42:27](https://news.ycombinator.com/item?id=46208773) - [So You Want to Speak at Software Conferences?](https://dylanbeattie.net/2025/12/08/so-you-want-to-speak-at-software-conferences.html)

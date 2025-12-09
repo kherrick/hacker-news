@@ -12,6 +12,7 @@
 * [2025-12-05, 21:23:03](https://news.ycombinator.com/item?id=46167500) - [Perpetual Futures](https://www.bitsaboutmoney.com/archive/perpetual-futures-explained/)
 * [2025-12-05, 21:09:11](https://news.ycombinator.com/item?id=46167349) - [The missing standard library for multithreading in JavaScript](https://github.com/W4G1/multithreading)
 * [2025-12-05, 20:42:04](https://news.ycombinator.com/item?id=46166994) - [Judge Signals Win for Software Freedom Conservancy in Vizio GPL Case](https://fossforce.com/2025/12/judge-signals-win-for-software-freedom-conservancy-in-vizio-gpl-case/)
+* [2025-12-05, 20:25:18](https://news.ycombinator.com/item?id=46166782) - [Tutorial 48: my museum collections kit](https://svpow.com/2025/11/26/tutorial-48-my-museum-collections-kit/)
 * [2025-12-05, 20:18:34](https://news.ycombinator.com/item?id=46166709) - [Advertising as a major source of human dissatisfaction (2019) [pdf]](https://www.andrewoswald.com/docs/AdvertisingMicheletal2019EasterlinVolume.pdf)
 * [2025-12-05, 20:18:22](https://news.ycombinator.com/item?id=46166708) - [Fizz Buzz in CSS](https://susam.net/fizz-buzz-in-css.html)
 * [2025-12-05, 20:03:21](https://news.ycombinator.com/item?id=46166536) - [Framework Sponsors CachyOS](https://discuss.cachyos.org/t/framework-sponsorship-for-cachyos/19376)
