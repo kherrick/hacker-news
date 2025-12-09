@@ -18,6 +18,7 @@
 * [2025-12-01, 20:40:58](https://news.ycombinator.com/item?id=46112906) - [\"How to Attend Meetings\" – Internal Guidelines from the New York Times](https://docs.google.com/presentation/d/1l7s1aAsNPlNhSye8OsMqmH6pMR32OYGGdLT6VKyFaQE/edit#slide=id.p)
 * [2025-12-01, 20:20:19](https://news.ycombinator.com/item?id=46112640) - [Sycophancy is the first LLM \"dark pattern\"](https://www.seangoedecke.com/ai-sycophancy/)
 * [2025-12-01, 20:14:53](https://news.ycombinator.com/item?id=46112560) - [Tides are weirder than you think](https://signoregalilei.com/2025/11/12/tides-are-weirder-than-you-think/)
+* [2025-12-01, 20:12:10](https://news.ycombinator.com/item?id=46112520) - [The Hitchhiker's Guide to Coherent Fabrics: 5 Programming Rules](https://www.sigarch.org/the-hitchhikers-guide-to-coherent-fabrics-5-programming-rules-for-cxl-nvlink-and-infinityfabric/)
 * [2025-12-01, 18:58:50](https://news.ycombinator.com/item?id=46111469) - [Better Than JSON](https://aloisdeniel.com/blog/better-than-json)
 * [2025-12-01, 18:57:27](https://news.ycombinator.com/item?id=46111449) - [React and Remix Choose Different Futures](https://laconicwit.com/react-and-remix-choose-different-futures/)
 * [2025-12-01, 18:57:21](https://news.ycombinator.com/item?id=46111448) - [Vanity Activities](https://quarter--mile.com/vanity-activities)
