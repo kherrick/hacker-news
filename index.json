@@ -1,22 +1,22 @@
 [
   [
     [
+      "2025-12-09, 17:01:11",
+      "https://news.ycombinator.com/item?id=46207360"
+    ],
+    [
+      "Clearspace (YC W23) Is Hiring a Founding Designer",
+      "https://www.ycombinator.com/companies/clearspace/jobs/yamWTLr-founding-designer-at-clearspace"
+    ]
+  ],
+  [
+    [
       "2025-12-09, 16:37:55",
       "https://news.ycombinator.com/item?id=46207017"
     ],
     [
       "Launch HN: Mentat (YC S16) – Controlling LLMs with Runtime Intervention",
       "https://playground.ctgt.ai"
-    ]
-  ],
-  [
-    [
-      "2025-12-09, 16:27:05",
-      "https://news.ycombinator.com/item?id=46206863"
-    ],
-    [
-      "Berkeley professor's camera caught student allegedly sabotaging another student",
-      "https://www.mercurynews.com/2025/12/08/uc-berkeley-professor-installed-secret-camera-allegedly-catching-phd-candidate-sabotaging-fellow-students-work/"
     ]
   ],
   [
@@ -57,16 +57,6 @@
     [
       "Kaiju – General purpose 3D/2D game engine in Go and Vulkan with built in editor",
       "https://github.com/KaijuEngine/kaiju"
-    ]
-  ],
-  [
-    [
-      "2025-12-09, 14:49:51",
-      "https://news.ycombinator.com/item?id=46205493"
-    ],
-    [
-      "Show HN: I got tired of switching AI tools, so I built an IDE with 11 of them",
-      "https://hivetechs.io"
     ]
   ],
   [
@@ -211,22 +201,22 @@
   ],
   [
     [
-      "2025-12-08, 19:00:48",
-      "https://news.ycombinator.com/item?id=46196228"
-    ],
-    [
-      "Has the cost of building software dropped 90%?",
-      "https://martinalderson.com/posts/has-the-cost-of-software-just-dropped-90-percent/"
-    ]
-  ],
-  [
-    [
       "2025-12-08, 18:51:03",
       "https://news.ycombinator.com/item?id=46196105"
     ],
     [
       "Jepsen: NATS 2.12.1",
       "https://jepsen.io/analyses/nats-2.12.1"
+    ]
+  ],
+  [
+    [
+      "2025-12-08, 14:50:48",
+      "https://news.ycombinator.com/item?id=46192846"
+    ],
+    [
+      "Strong earthquake hits northern Japan, tsunami warning issued",
+      "https://www3.nhk.or.jp/nhkworld/en/news/20251209_02/"
     ]
   ],
   [
@@ -267,6 +257,16 @@
     [
       "LLM from scratch, part 28 – training a base model from scratch on an RTX 3090",
       "https://www.gilesthomas.com/2025/12/llm-from-scratch-28-training-a-base-model-from-scratch"
+    ]
+  ],
+  [
+    [
+      "2025-12-02, 16:55:29",
+      "https://news.ycombinator.com/item?id=46123307"
+    ],
+    [
+      "Velato",
+      "https://www.futilitycloset.com/2025/10/10/velato/"
     ]
   ],
   [
