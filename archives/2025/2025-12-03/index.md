@@ -29,6 +29,7 @@
 * [2025-12-03, 18:04:32](https://news.ycombinator.com/item?id=46137783) - [Micron Announces Exit from Crucial Consumer Business](https://investors.micron.com/news-releases/news-release-details/micron-announces-exit-crucial-consumer-business)
 * [2025-12-03, 18:03:40](https://news.ycombinator.com/item?id=46137772) - [Periodic Spaces](https://ianthehenry.com/posts/periodic-spaces/)
 * [2025-12-03, 18:01:11](https://news.ycombinator.com/item?id=46137746) - [Prompt Injection via Poetry](https://www.wired.com/story/poems-can-trick-ai-into-helping-you-make-a-nuclear-weapon/)
+* [2025-12-03, 17:50:17](https://news.ycombinator.com/item?id=46137596) - [Transformers know more than they can tell: Learning the Collatz sequence](https://www.arxiv.org/pdf/2511.10811)
 * [2025-12-03, 17:47:15](https://news.ycombinator.com/item?id=46137548) - [Launch HN: Phind 3 (YC S22) – Every answer is a mini-app](https://news.ycombinator.com/item?id=46137548)
 * [2025-12-03, 17:44:33](https://news.ycombinator.com/item?id=46137514) - [Reverse engineering a $1B Legal AI tool exposed 100k+ confidential files](https://alexschapiro.com/security/vulnerability/2025/12/02/filevine-api-100k)
 * [2025-12-03, 17:24:49](https://news.ycombinator.com/item?id=46137253) - [1D Conway's Life glider found, 3.7B cells long](https://conwaylife.com/forums/viewtopic.php?&p=222136#p222136)

@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-12-09](index.md)
 
 * [2025-12-09, 12:15:31](https://news.ycombinator.com/item?id=46204090) - [Where are you supposed to go if you don't care about growth?](https://ramones.dev/posts/where-are-you-supposed-to-go/)
+* [2025-12-09, 11:58:02](https://news.ycombinator.com/item?id=46203948) - [Why frozen test fixtures are a problem on large projects and how to avoid them](https://radanskoric.com/articles/frozen-test-fixtures)
 * [2025-12-09, 11:16:10](https://news.ycombinator.com/item?id=46203611) - [Brent's Encapsulated C Programming Rules (2020)](https://retroscience.net/brents-c-programming-rules.html)
 * [2025-12-09, 11:12:07](https://news.ycombinator.com/item?id=46203591) - [Richard Stallman on ChatGPT](https://www.stallman.org/chatgpt.html)
 * [2025-12-09, 11:09:06](https://news.ycombinator.com/item?id=46203581) - [Show HN: AlgoDrill – Interactive drills to stop forgetting LeetCode patterns](https://algodrill.io)
