@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-12-09](index.md)
 
+* [2025-12-09, 02:00:13](https://news.ycombinator.com/item?id=46200420) - [The power of proximity to coworkers [pdf]](https://pallais.scholars.harvard.edu/sites/g/files/omnuum5926/files/2025-11/Power%20of%20Proximity%20to%20Coworkers%20November%202025.pdf)
 * [2025-12-09, 00:51:31](https://news.ycombinator.com/item?id=46199950) - [The Lost Machine Automats and Self-Service Cafeterias of NYC (2023)](https://www.untappedcities.com/automats-cafeterias-nyc/)
 * [2025-12-09, 00:50:32](https://news.ycombinator.com/item?id=46199935) - [Scientific and Technical Amateur Radio](https://destevez.net/)
+* [2025-12-09, 00:26:35](https://news.ycombinator.com/item?id=46199723) - [Horses: AI progress is steady. Human equivalence is sudden](https://andyljones.com/posts/horses.html)
 * [2025-12-09, 00:16:46](https://news.ycombinator.com/item?id=46199623) - [The Universal Weight Subspace Hypothesis](https://arxiv.org/abs/2512.05117)

@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-12-09, 02:00:13](https://news.ycombinator.com/item?id=46200420) - [The power of proximity to coworkers [pdf]](https://pallais.scholars.harvard.edu/sites/g/files/omnuum5926/files/2025-11/Power%20of%20Proximity%20to%20Coworkers%20November%202025.pdf)
 * [2025-12-09, 00:51:31](https://news.ycombinator.com/item?id=46199950) - [The Lost Machine Automats and Self-Service Cafeterias of NYC (2023)](https://www.untappedcities.com/automats-cafeterias-nyc/)
 * [2025-12-09, 00:50:32](https://news.ycombinator.com/item?id=46199935) - [Scientific and Technical Amateur Radio](https://destevez.net/)
+* [2025-12-09, 00:26:35](https://news.ycombinator.com/item?id=46199723) - [Horses: AI progress is steady. Human equivalence is sudden](https://andyljones.com/posts/horses.html)
 * [2025-12-09, 00:16:46](https://news.ycombinator.com/item?id=46199623) - [The Universal Weight Subspace Hypothesis](https://arxiv.org/abs/2512.05117)
 * [2025-12-08, 23:53:52](https://news.ycombinator.com/item?id=46199411) - [Kroger acknowledges that its bet on robotics went too far](https://www.grocerydive.com/news/kroger-ocado-close-automated-fulfillment-centers-robotics-grocery-ecommerce/805931/)
-* [2025-12-08, 21:54:12](https://news.ycombinator.com/item?id=46198177) - [Running on Empty: Copper](https://thehonestsorcerer.substack.com/p/running-on-empty-copper)
-* [2025-12-08, 21:27:42](https://news.ycombinator.com/item?id=46197875) - [Delivery robots take over Chicago sidewalks](https://blockclubchicago.org/2025/12/08/delivery-robots-take-over-chicago-sidewalks-sparking-debate-and-a-petition-to-hit-pause/)
 * [2025-12-08, 19:44:00](https://news.ycombinator.com/item?id=46196688) - [Icons in Menus Everywhere – Send Help](https://blog.jim-nielsen.com/2025/icons-in-menus/)
 * [2025-12-08, 19:07:59](https://news.ycombinator.com/item?id=46196308) - [Trials avoid high risk patients and underestimate drug harms](https://www.nber.org/papers/w34534)
 * [2025-12-08, 19:00:48](https://news.ycombinator.com/item?id=46196228) - [Has the cost of building software dropped 90%?](https://martinalderson.com/posts/has-the-cost-of-software-just-dropped-90-percent/)
@@ -25,11 +25,11 @@
 * [2025-12-08, 14:16:34](https://news.ycombinator.com/item?id=46192459) - [Paramount launches hostile bid for Warner Bros](https://www.cnbc.com/2025/12/08/paramount-skydance-hostile-bid-wbd-netflix.html)
 * [2025-12-08, 13:49:21](https://news.ycombinator.com/item?id=46192186) - [Microsoft increases Office 365 and Microsoft 365 license prices](https://office365itpros.com/2025/12/08/microsoft-365-pricing-increase/)
 * [2025-12-08, 13:43:59](https://news.ycombinator.com/item?id=46192130) - [IBM to acquire Confluent](https://www.confluent.io/blog/ibm-to-acquire-confluent/)
-* [2025-12-08, 13:08:38](https://news.ycombinator.com/item?id=46191763) - [Flow: Actor-based language for C++, used by FoundationDB](https://github.com/apple/foundationdb/tree/main/flow)
 * [2025-12-05, 19:33:28](https://news.ycombinator.com/item?id=46166178) - [Microsoft Download Center Archive](https://legacyupdate.net/download-center/)
-* [2025-12-05, 08:08:42](https://news.ycombinator.com/item?id=46157914) - [Word spacing](https://en.wikipedia.org/wiki/Word_spacing)
-* [2025-12-04, 22:34:54](https://news.ycombinator.com/item?id=46154114) - [8086 Microcode Explorer](https://nand2mario.github.io/8086_microcode.html)
+* [2025-12-04, 22:34:54](https://news.ycombinator.com/item?id=46154114) - [Intel 8086 Microcode Explorer](https://nand2mario.github.io/8086_microcode.html)
 * [2025-12-04, 13:16:54](https://news.ycombinator.com/item?id=46147329) - [Show HN: Fanfa – Interactive and animated Mermaid diagrams](https://fanfa.dev/)
+* [2025-12-03, 16:19:53](https://news.ycombinator.com/item?id=46136277) - [OSHW: Small tablet based on RK3568 and AMOLED screen](https://oshwhub.com/oglggc/rui-xin-wei-rk3568-si-ceng-jia-li-chuang-mian-fei-gong-yi)
+* [2025-12-02, 12:55:31](https://news.ycombinator.com/item?id=46120732) - [Latency Profiling in Python: From Code Bottlenecks to Observability](https://quant.engineering/latency-profiling-in-python.html)
 
 ## [Archives](archives/index.md)
 
