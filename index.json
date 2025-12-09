@@ -141,16 +141,6 @@
   ],
   [
     [
-      "2025-12-08, 16:44:42",
-      "https://news.ycombinator.com/item?id=46194477"
-    ],
-    [
-      "A series of tricks and techniques I learned doing tiny GLSL demos",
-      "https://blog.pkh.me/p/48-a-series-of-tricks-and-techniques-i-learned-doing-tiny-glsl-demos.html"
-    ]
-  ],
-  [
-    [
       "2025-12-08, 16:38:08",
       "https://news.ycombinator.com/item?id=46194384"
     ],
@@ -287,6 +277,16 @@
     [
       "LLM from scratch, part 28 – training a base model from scratch on an RTX 3090",
       "https://www.gilesthomas.com/2025/12/llm-from-scratch-28-training-a-base-model-from-scratch"
+    ]
+  ],
+  [
+    [
+      "2025-12-02, 13:42:43",
+      "https://news.ycombinator.com/item?id=46121105"
+    ],
+    [
+      "A deep dive into QEMU: The Tiny Code Generator (TCG), part 1",
+      "https://airbus-seclab.github.io/qemu_blog/tcg_p1.html"
     ]
   ],
   [
