@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-12-09, 13:48:26](https://news.ycombinator.com/item?id=46204886) - [Rahm Emanuel says U.S. should follow Australia's youth social media ban](https://www.politico.com/news/2025/12/09/rahm-emanuel-says-u-s-should-follow-australias-youth-social-media-ban-00682185)
 * [2025-12-09, 12:20:24](https://news.ycombinator.com/item?id=46204139) - [Mazda suitcase car, a portable three-wheeled vehicle that fits in the luggage](https://www.designboom.com/technology/rediscover-mazda-suitcase-car-portable-three-wheeled-vehicle-fits-luggage-12-06-2025/)
 * [2025-12-09, 11:58:02](https://news.ycombinator.com/item?id=46203948) - [Why frozen test fixtures are a problem on large projects and how to avoid them](https://radanskoric.com/articles/frozen-test-fixtures)
 * [2025-12-09, 11:16:10](https://news.ycombinator.com/item?id=46203611) - [Brent's Encapsulated C Programming Rules (2020)](https://retroscience.net/brents-c-programming-rules.html)
@@ -24,6 +23,7 @@
 * [2025-12-08, 14:50:48](https://news.ycombinator.com/item?id=46192846) - [Strong earthquake hits northern Japan, tsunami warning issued](https://www3.nhk.or.jp/nhkworld/en/news/20251209_02/)
 * [2025-12-08, 13:49:21](https://news.ycombinator.com/item?id=46192186) - [Microsoft increases Office 365 and Microsoft 365 license prices](https://office365itpros.com/2025/12/08/microsoft-365-pricing-increase/)
 * [2025-12-08, 13:43:59](https://news.ycombinator.com/item?id=46192130) - [IBM to acquire Confluent](https://www.confluent.io/blog/ibm-to-acquire-confluent/)
+* [2025-12-06, 08:42:38](https://news.ycombinator.com/item?id=46171703) - [The Gamma Language](https://lair.masot.net/gamma/)
 * [2025-12-03, 17:50:17](https://news.ycombinator.com/item?id=46137596) - [Transformers know more than they can tell: Learning the Collatz sequence](https://www.arxiv.org/pdf/2511.10811)
 * [2025-12-03, 08:39:12](https://news.ycombinator.com/item?id=46131837) - [No ARIA is better than bad ARIA](https://www.w3.org/WAI/ARIA/apg/practices/read-me-first/)
 * [2025-12-02, 18:17:48](https://news.ycombinator.com/item?id=46124425) - [LLM from scratch, part 28 – training a base model from scratch on an RTX 3090](https://www.gilesthomas.com/2025/12/llm-from-scratch-28-training-a-base-model-from-scratch)
