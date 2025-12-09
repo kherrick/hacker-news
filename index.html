@@ -129,50 +129,202 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
-        <section id="46206457">
+        <section id="46207017">
           <h3>
-            <a class="item" href="https://news.ycombinator.com/item?id=46206457"
-              >Ask HN: Should "I asked $AI, and it said" replies be forbidden in
-              HN guidelines?</a
+            <a class="item" href="https://playground.ctgt.ai"
+              >Launch HN: Mentat (YC S16) – Controlling LLMs with Runtime
+              Intervention</a
             >
           </h3>
           <section>
             <h4>
-              <span>2025-12-09 @ 16:02:37</span
+              <span>2025-12-09 @ 16:37:55</span
               ><span class="points-container"
-                >Points: <span class="points">141</span></span
+                >Points: <span class="points">9</span></span
               ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=46206457"
+                ><a href="https://news.ycombinator.com/item?id=46207017"
                   >Comments</a
-                ><span class="descendants">: 95</span></span
+                ><span class="descendants">: 0</span></span
               >
             </h4>
             <div class="text">
+              <a href="https://api.ctgt.ai/v1/chat/completions"
+                >https://api.ctgt.ai/v1/chat/completions</a
+              >), an API that gives developers deterministic control over LLM
+              behavior, steering reasoning and removing bias on the fly, without
+              the compute of fine-tuning or the brittleness of prompt
+              engineering. We use feature-level intervention and graph-based
+              verification to fix hallucinations and enforce policies.
               <p>
-                While the guidelines were written (and iterated on) during a
-                different time, it seems like it might be time to have a
-                discussion about if those sort of comments should be welcomed on
-                HN or not.
+                This resonates in highly regulated industries or otherwise risky
+                applications of AI where the fallout from incorrect or
+                underperforming output can be significant. In financial
+                services, using GenAI to scan for noncompliant communications
+                can be arduous without an easy way to embed complex policies
+                into the model. Similarly, a media outlet might want to scale
+                AI-generated summaries of their content, but reliability and
+                accuracy is paramount. These are both applications where Fortune
+                500 companies have utilized our technology to improve subpar
+                performance from existing models, and we want to bring this
+                capability to more people.
               </p>
-              <p>Some examples:</p>
-              <p>- https://news.ycombinator.com/item?id=46164360</p>
-              <p>- https://news.ycombinator.com/item?id=46200460</p>
-              <p>- https://news.ycombinator.com/item?id=46080064</p>
               <p>
-                Personally, I'm on HN for the human conversation, and large
-                LLM-generated texts just get in the way of reading real text
-                from real humans (assumed, at least).
+                Here’s a quick 2-minute demo video showing the process:
+                <a
+                  href="https://video.ctgt.ai/video/ctgt-ai-compliance-playground-cfnl"
+                  >https://video.ctgt.ai/video/ctgt-ai-compliance-playground-cf...</a
+                >
               </p>
               <p>
-                What do you think? Should responses that basically boil down to
-                "I asked $LLM about $X, and here is what $LLM said:" be allowed
-                on HN, and the guidelines updated to state that people shouldn't
-                critique it (similar to other guidelines currently), or should a
-                new guideline be added to ask people from refrain from
-                copy-pasting large LLM responses into the comments, or something
-                else completely?
+                Standard "guardrails" like RAG and system prompts are
+                fundamentally probabilistic: you are essentially asking the
+                model nicely to behave. This often fails in two ways. First, RAG
+                solves knowledge <i>availability</i> but not <i>integration</i>.
+                In our benchmarks, a model given context that "Lerwick is 228
+                miles SE of Tórshavn" failed to answer "What is 228 miles NW of
+                Lerwick?" because it couldn't perform the spatial inversion.
+              </p>
+              <p>
+                Second, prompt engineering is brittle because it fights against
+                the model's pre-training priors. For example, on the TruthfulQA
+                benchmark, base models fail ~80% of the time because they mimic
+                common misconceptions found on the internet (e.g. "chameleons
+                change color for camouflage"). We found that we could literally
+                turn up the feature for "skeptical reasoning" to make the model
+                ignore the popular myth and output the scientific fact. This
+                matters because for high-stakes use cases (like Finance or
+                Pharma), "mostly safe" isn't acceptable—companies need
+                audit-grade reliability.
+              </p>
+              <p>
+                Our work stems from the CS dungeon at UCSD, with years spent
+                researching efficient and interpretable AI, trying to "open the
+                black box" of neural networks. We realized that the industry was
+                trying to patch model behavior from the outside
+                (prompts/filters) when the problem was on the inside (feature
+                activations). We knew this was important when we saw enterprises
+                struggling to deploy basic models despite having unlimited
+                compute, simply because they couldn't guarantee the output
+                wouldn't violate compliance rules. I ended up leaving my
+                research at Stanford to focus on this.
+              </p>
+              <p>
+                Our breakthrough came while researching the DeepSeek-R1 model.
+                We identified the "censorship" feature vector in its latent
+                space. Amplifying it guaranteed refusal; subtracting it
+                instantly unlocked answers to sensitive questions. This proved
+                the model <i>had</i> the knowledge but was suppressing it. We
+                realized we could apply this same logic to hallucinations,
+                suppressing "confabulation" features to reveal the grounded
+                truth. While some hallucinations stem from the inherent
+                randomness of generative models, many can be identified with the
+                concerted activation of a feature or group of features.
+              </p>
+              <p>
+                Instead of filtering outputs, we intervene at the activation
+                level during the forward pass. We identify latent feature
+                vectors (v) associated with specific behaviors (bias,
+                misconception) and mathematically modify the hidden state (h):
+              </p>
+              <p></p>
+              <pre><code>  h_prime = h - alpha * (h @ v) * v
+</code></pre>
+              This arithmetic operation lets us "edit" behavior
+              deterministically with negligible overhead (&lt;10ms on R1). For
+              factual claims, we combine this with a graph verification pipeline
+              (which works on closed weight models). We check semantic entropy
+              (is the model babbling?) and cross-reference claims against a
+              dynamic knowledge graph to catch subtle relational hallucinations
+              that vector search misses.
+              <p>
+                On GPT-OSS-120b, this approach improved TruthfulQA accuracy from
+                21% to 70% by suppressing misconception features. We also
+                improved the performance of this model to frontier levels on
+                HaluEval-QA, where we reached 96.5% accuracy, solving the
+                spatial reasoning failures where the baseline failed. It also
+                handles noisy inputs, inferring "David Icke" from the typo
+                "David Of me" where base models gave up. Full benchmarks at
+                <a href="https://ctgt.ai/benchmarks"
+                  >https://ctgt.ai/benchmarks</a
+                >.
+              </p>
+              <p>
+                Most startups in this space are observability tools that tell
+                you only after the model failed. Or they are RAG pipelines that
+                stuff context into the window. Mentat is an infrastructure layer
+                that modifies the model's processing during inference. We fix
+                the reasoning, not just the context. For example, that’s how our
+                system was able to enforce that if A is SE of B, then B is NW of
+                A.
+              </p>
+              <p>
+                We believe that our policy engine is a superior control
+                mechanism to RAG or prompting. If you’re frustrated with current
+                guardrails, we’d love it if you would stress-test our API!
+              </p>
+              <p>
+                API: Our endpoint is drop-in compatible with OpenAI’s
+                /v1/chat/completions:
+                <a
+                  href="https://docs.ctgt.ai/api-reference/endpoint/chat-completions"
+                  >https://docs.ctgt.ai/api-reference/endpoint/chat-completions</a
+                >
+              </p>
+              <p>
+                Playground: We’ve built an "Arena" view to run side-by-side
+                comparisons of an Ungoverned vs. Governed model to visualize the
+                intervention delta in real-time. No signup is required:
+                <a href="https://playground.ctgt.ai/"
+                  >https://playground.ctgt.ai/</a
+                >
+              </p>
+              <p>
+                We’d love to hear your feedback on the approach and see what
+                edge cases you can find that break standard models. We will be
+                in the comments all day. All feedback welcome!
               </p>
             </div>
+          </section>
+        </section>
+        <section id="46206863">
+          <h3>
+            <a
+              class="item"
+              href="https://www.mercurynews.com/2025/12/08/uc-berkeley-professor-installed-secret-camera-allegedly-catching-phd-candidate-sabotaging-fellow-students-work/"
+              >Berkeley professor's camera caught student allegedly sabotaging
+              another student</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2025-12-09 @ 16:27:05</span
+              ><span class="points-container"
+                >Points: <span class="points">21</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=46206863"
+                  >Comments</a
+                ><span class="descendants">: 6</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="46206531">
+          <h3>
+            <a class="item" href="https://bruno-simon.com/"
+              >Handsdown one of the coolest 3D websites</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2025-12-09 @ 16:06:58</span
+              ><span class="points-container"
+                >Points: <span class="points">44</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=46206531"
+                  >Comments</a
+                ><span class="descendants">: 15</span></span
+              >
+            </h4>
           </section>
         </section>
         <section id="46205661">
@@ -187,11 +339,11 @@
             <h4>
               <span>2025-12-09 @ 15:03:09</span
               ><span class="points-container"
-                >Points: <span class="points">163</span></span
+                >Points: <span class="points">177</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46205661"
                   >Comments</a
-                ><span class="descendants">: 173</span></span
+                ><span class="descendants">: 186</span></span
               >
             </h4>
           </section>
@@ -209,11 +361,11 @@
             <h4>
               <span>2025-12-09 @ 15:00:38</span
               ><span class="points-container"
-                >Points: <span class="points">93</span></span
+                >Points: <span class="points">197</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46205632"
                   >Comments</a
-                ><span class="descendants">: 46</span></span
+                ><span class="descendants">: 84</span></span
               >
             </h4>
           </section>
@@ -229,13 +381,48 @@
             <h4>
               <span>2025-12-09 @ 14:51:46</span
               ><span class="points-container"
-                >Points: <span class="points">62</span></span
+                >Points: <span class="points">66</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46205519"
                   >Comments</a
                 ><span class="descendants">: 29</span></span
               >
             </h4>
+          </section>
+        </section>
+        <section id="46205493">
+          <h3>
+            <a class="item" href="https://hivetechs.io"
+              >Show HN: I got tired of switching AI tools, so I built an IDE
+              with 11 of them</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2025-12-09 @ 14:49:51</span
+              ><span class="points-container"
+                >Points: <span class="points">6</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=46205493"
+                  >Comments</a
+                ><span class="descendants">: 0</span></span
+              >
+            </h4>
+            <div class="text">
+              <p>
+                Built HiveTechs: one workspace where Claude Code, Gemini CLI,
+                Codex, DROID, and 7 others run in integrated terminals with
+                shared memory.
+              </p>
+              <p>
+                Also added consensus validation - 3 AIs analyze independently,
+                4th synthesizes.
+              </p>
+              <p>
+                Real IDE with Monaco editor, Git, PTY terminals. Not a wrapper.
+              </p>
+              <p>Looking for feedback: hivetechs.io</p>
+            </div>
           </section>
         </section>
         <section id="46205461">
@@ -250,11 +437,11 @@
             <h4>
               <span>2025-12-09 @ 14:47:20</span
               ><span class="points-container"
-                >Points: <span class="points">33</span></span
+                >Points: <span class="points">40</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46205461"
                   >Comments</a
-                ><span class="descendants">: 4</span></span
+                ><span class="descendants">: 6</span></span
               >
             </h4>
           </section>
@@ -270,11 +457,11 @@
             <h4>
               <span>2025-12-09 @ 14:45:01</span
               ><span class="points-container"
-                >Points: <span class="points">125</span></span
+                >Points: <span class="points">162</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46205437"
                   >Comments</a
-                ><span class="descendants">: 32</span></span
+                ><span class="descendants">: 46</span></span
               >
             </h4>
           </section>
@@ -291,11 +478,11 @@
             <h4>
               <span>2025-12-09 @ 14:00:53</span
               ><span class="points-container"
-                >Points: <span class="points">7</span></span
+                >Points: <span class="points">10</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46204998"
                   >Comments</a
-                ><span class="descendants">: 2</span></span
+                ><span class="descendants">: 3</span></span
               >
             </h4>
           </section>
@@ -313,33 +500,11 @@
             <h4>
               <span>2025-12-09 @ 13:45:01</span
               ><span class="points-container"
-                >Points: <span class="points">13</span></span
+                >Points: <span class="points">18</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46204853"
                   >Comments</a
-                ><span class="descendants">: 1</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="46204139">
-          <h3>
-            <a
-              class="item"
-              href="https://www.designboom.com/technology/rediscover-mazda-suitcase-car-portable-three-wheeled-vehicle-fits-luggage-12-06-2025/"
-              >Mazda suitcase car, a portable three-wheeled vehicle that fits in
-              the luggage</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2025-12-09 @ 12:20:24</span
-              ><span class="points-container"
-                >Points: <span class="points">81</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=46204139"
-                  >Comments</a
-                ><span class="descendants">: 44</span></span
+                ><span class="descendants">: 3</span></span
               >
             </h4>
           </section>
@@ -356,11 +521,11 @@
             <h4>
               <span>2025-12-09 @ 11:16:10</span
               ><span class="points-container"
-                >Points: <span class="points">48</span></span
+                >Points: <span class="points">50</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46203611"
                   >Comments</a
-                ><span class="descendants">: 19</span></span
+                ><span class="descendants">: 21</span></span
               >
             </h4>
           </section>
@@ -376,11 +541,11 @@
             <h4>
               <span>2025-12-09 @ 11:09:06</span
               ><span class="points-container"
-                >Points: <span class="points">106</span></span
+                >Points: <span class="points">109</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46203581"
                   >Comments</a
-                ><span class="descendants">: 67</span></span
+                ><span class="descendants">: 71</span></span
               >
             </h4>
             <div class="text">
@@ -415,7 +580,7 @@
             <h4>
               <span>2025-12-09 @ 10:52:58</span
               ><span class="points-container"
-                >Points: <span class="points">38</span></span
+                >Points: <span class="points">42</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46203499"
                   >Comments</a
@@ -436,11 +601,11 @@
             <h4>
               <span>2025-12-09 @ 09:48:55</span
               ><span class="points-container"
-                >Points: <span class="points">134</span></span
+                >Points: <span class="points">138</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46203138"
                   >Comments</a
-                ><span class="descendants">: 67</span></span
+                ><span class="descendants">: 75</span></span
               >
             </h4>
           </section>
@@ -457,11 +622,11 @@
             <h4>
               <span>2025-12-09 @ 09:13:56</span
               ><span class="points-container"
-                >Points: <span class="points">61</span></span
+                >Points: <span class="points">66</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46202921"
                   >Comments</a
-                ><span class="descendants">: 40</span></span
+                ><span class="descendants">: 45</span></span
               >
             </h4>
           </section>
@@ -476,11 +641,11 @@
             <h4>
               <span>2025-12-09 @ 00:16:46</span
               ><span class="points-container"
-                >Points: <span class="points">333</span></span
+                >Points: <span class="points">335</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46199623"
                   >Comments</a
-                ><span class="descendants">: 119</span></span
+                ><span class="descendants">: 120</span></span
               >
             </h4>
           </section>
@@ -495,7 +660,7 @@
             <h4>
               <span>2025-12-09 @ 00:07:42</span
               ><span class="points-container"
-                >Points: <span class="points">100</span></span
+                >Points: <span class="points">102</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46199530"
                   >Comments</a
@@ -516,11 +681,11 @@
             <h4>
               <span>2025-12-08 @ 23:53:52</span
               ><span class="points-container"
-                >Points: <span class="points">227</span></span
+                >Points: <span class="points">232</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46199411"
                   >Comments</a
-                ><span class="descendants">: 248</span></span
+                ><span class="descendants">: 254</span></span
               >
             </h4>
           </section>
@@ -536,11 +701,11 @@
             <h4>
               <span>2025-12-08 @ 22:21:26</span
               ><span class="points-container"
-                >Points: <span class="points">135</span></span
+                >Points: <span class="points">137</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46198430"
                   >Comments</a
-                ><span class="descendants">: 109</span></span
+                ><span class="descendants">: 110</span></span
               >
             </h4>
             <div class="text">
@@ -603,11 +768,11 @@
             <h4>
               <span>2025-12-08 @ 19:44:00</span
               ><span class="points-container"
-                >Points: <span class="points">725</span></span
+                >Points: <span class="points">733</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46196688"
                   >Comments</a
-                ><span class="descendants">: 299</span></span
+                ><span class="descendants">: 301</span></span
               >
             </h4>
           </section>
@@ -624,11 +789,11 @@
             <h4>
               <span>2025-12-08 @ 19:00:48</span
               ><span class="points-container"
-                >Points: <span class="points">375</span></span
+                >Points: <span class="points">381</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46196228"
                   >Comments</a
-                ><span class="descendants">: 581</span></span
+                ><span class="descendants">: 597</span></span
               >
             </h4>
           </section>
@@ -643,58 +808,13 @@
             <h4>
               <span>2025-12-08 @ 18:51:03</span
               ><span class="points-container"
-                >Points: <span class="points">408</span></span
+                >Points: <span class="points">413</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46196105"
                   >Comments</a
-                ><span class="descendants">: 149</span></span
+                ><span class="descendants">: 151</span></span
               >
             </h4>
-          </section>
-        </section>
-        <section id="46192846">
-          <h3>
-            <a
-              class="item"
-              href="https://www3.nhk.or.jp/nhkworld/en/news/20251209_02/"
-              >Strong earthquake hits northern Japan, tsunami warning issued</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2025-12-08 @ 14:50:48</span
-              ><span class="points-container"
-                >Points: <span class="points">340</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=46192846"
-                  >Comments</a
-                ><span class="descendants">: 155</span></span
-              >
-            </h4>
-            <div class="text">
-              <a
-                href="https://www.data.jma.go.jp/multi/quake/quake_detail.html?eventID=20251208232600&amp;lang=en"
-                >https://www.data.jma.go.jp/multi/quake/quake_detail.html?eve...</a
-              >
-              <p>
-                <a
-                  href="https://www3.nhk.or.jp/nhkworld/en/news/weather-disaster/tsunami/"
-                  >https://www3.nhk.or.jp/nhkworld/en/news/weather-disaster/tsu...</a
-                >
-              </p>
-              <p>
-                <a
-                  href="https://earthquake.usgs.gov/earthquakes/map/?currentFeatureId=us6000rtdt&amp;extent=-5.61599,111.26953&amp;extent=70.40735,173.14453"
-                  >https://earthquake.usgs.gov/earthquakes/map/?currentFeatureI...</a
-                >
-              </p>
-              <p>
-                <a
-                  href="https://www.tsunami.gov/?p=PHEB/2025/12/08/25342050/2/WEPA40"
-                  >https://www.tsunami.gov/?p=PHEB/2025/12/08/25342050/2/WEPA40</a
-                >
-              </p>
-            </div>
           </section>
         </section>
         <section id="46171703">
@@ -707,7 +827,7 @@
             <h4>
               <span>2025-12-06 @ 08:42:38</span
               ><span class="points-container"
-                >Points: <span class="points">20</span></span
+                >Points: <span class="points">23</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46171703"
                   >Comments</a
@@ -728,11 +848,11 @@
             <h4>
               <span>2025-12-04 @ 19:19:05</span
               ><span class="points-container"
-                >Points: <span class="points">15</span></span
+                >Points: <span class="points">23</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46151600"
                   >Comments</a
-                ><span class="descendants">: 2</span></span
+                ><span class="descendants">: 5</span></span
               >
             </h4>
           </section>
@@ -748,32 +868,11 @@
             <h4>
               <span>2025-12-03 @ 17:50:17</span
               ><span class="points-container"
-                >Points: <span class="points">61</span></span
+                >Points: <span class="points">70</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46137596"
                   >Comments</a
-                ><span class="descendants">: 26</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="46131837">
-          <h3>
-            <a
-              class="item"
-              href="https://www.w3.org/WAI/ARIA/apg/practices/read-me-first/"
-              >No ARIA is better than bad ARIA</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2025-12-03 @ 08:39:12</span
-              ><span class="points-container"
-                >Points: <span class="points">116</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=46131837"
-                  >Comments</a
-                ><span class="descendants">: 80</span></span
+                ><span class="descendants">: 27</span></span
               >
             </h4>
           </section>
@@ -791,11 +890,11 @@
             <h4>
               <span>2025-12-02 @ 18:17:48</span
               ><span class="points-container"
-                >Points: <span class="points">334</span></span
+                >Points: <span class="points">341</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46124425"
                   >Comments</a
-                ><span class="descendants">: 66</span></span
+                ><span class="descendants">: 73</span></span
               >
             </h4>
           </section>
@@ -813,7 +912,7 @@
             <h4>
               <span>2025-12-02 @ 13:42:43</span
               ><span class="points-container"
-                >Points: <span class="points">53</span></span
+                >Points: <span class="points">56</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46121105"
                   >Comments</a
@@ -834,7 +933,7 @@
             <h4>
               <span>2025-12-01 @ 22:44:15</span
               ><span class="points-container"
-                >Points: <span class="points">59</span></span
+                >Points: <span class="points">61</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46114440"
                   >Comments</a
@@ -853,11 +952,11 @@
             <h4>
               <span>2025-12-01 @ 01:12:03</span
               ><span class="points-container"
-                >Points: <span class="points">113</span></span
+                >Points: <span class="points">116</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46102311"
                   >Comments</a
-                ><span class="descendants">: 28</span></span
+                ><span class="descendants">: 29</span></span
               >
             </h4>
           </section>
