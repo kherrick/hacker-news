@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-12-10, 03:15:24](https://news.ycombinator.com/item?id=46213585) - [The end of the kernel Rust experiment](https://lwn.net/Articles/1049831/)
-* [2025-12-10, 02:58:45](https://news.ycombinator.com/item?id=46213504) - [NYC congestion pricing cuts air pollution by a fifth in six months](https://airqualitynews.com/cars-freight-transport/nyc-congestion-pricing-cuts-air-pollution-by-22-in-six-months/)
+* [2025-12-10, 02:41:11](https://news.ycombinator.com/item?id=46213406) - [Atomic time source failure at NIST Gaithersburg campus](https://groups.google.com/a/list.nist.gov/g/internet-time-service/c/Zd7VaR-vqV4?pli=1)
 * [2025-12-10, 02:18:07](https://news.ycombinator.com/item?id=46213273) - [Show all your application error using Cloudflare Error Page](https://github.com/donlon/cloudflare-error-page)
 * [2025-12-10, 01:25:00](https://news.ycombinator.com/item?id=46212969) - [Post-transformer inference: 224× compression of Llama-70B with improved accuracy](https://zenodo.org/records/17873275)
 * [2025-12-09, 22:54:33](https://news.ycombinator.com/item?id=46211861) - [OpenEvolve: Teaching LLMs to Discover Algorithms Through Evolution](https://algorithmicsuperintelligence.ai/blog/openevolve-overview/index.html)
