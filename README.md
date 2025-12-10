@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-12-10, 17:49:28](https://news.ycombinator.com/item?id=46220902) - [Show HN: A 2-row, 16-key keyboard designed for smartphones](https://k-keyboard.com/Why-QWERTY-mini)
 * [2025-12-10, 17:30:43](https://news.ycombinator.com/item?id=46220640) - [Is it a bubble?](https://www.oaktreecapital.com/insights/memo/is-it-a-bubble)
 * [2025-12-10, 17:27:09](https://news.ycombinator.com/item?id=46220577) - [Show HN: MCPShark – Traffic Inspector for Model Context Protocol](https://news.ycombinator.com/item?id=46220577)
 * [2025-12-10, 17:23:53](https://news.ycombinator.com/item?id=46220540) - [Auto-grading decade-old Hacker News discussions with hindsight](https://karpathy.bearblog.dev/auto-grade-hn/)
@@ -19,8 +20,7 @@
 * [2025-12-10, 06:22:19](https://news.ycombinator.com/item?id=46214693) - [Revisiting \"Let's Build a Compiler\"](https://eli.thegreenplace.net/2025/revisiting-lets-build-a-compiler/)
 * [2025-12-10, 03:15:24](https://news.ycombinator.com/item?id=46213585) - [Rust in the kernel is no longer experimental](https://lwn.net/Articles/1049831/)
 * [2025-12-09, 18:12:29](https://news.ycombinator.com/item?id=46208348) - [Australia begins enforcing world-first teen social media ban](https://www.reuters.com/legal/litigation/australia-social-media-ban-takes-effect-world-first-2025-12-09/)
-* [2025-12-09, 17:08:37](https://news.ycombinator.com/item?id=46207464) - [PeerTube is recognized as a digital public good by Digital Public Goods Alliance](https://www.digitalpublicgoods.net/r/peertube)
-* [2025-12-09, 15:00:38](https://news.ycombinator.com/item?id=46205632) - [Show HN: Gemini Pro 3 imagines the HN front page 10 years from now](https://dosaygo-studio.github.io/hn-front-page-2035/news)
+* [2025-12-09, 16:06:58](https://news.ycombinator.com/item?id=46206531) - [Bruno Simon – 3D Portfolio](https://bruno-simon.com/)
 * [2025-12-08, 22:37:28](https://news.ycombinator.com/item?id=46198606) - [Why the Sanitizer API is just `setHTML()`](https://frederikbraun.de/why-sethtml.html)
 * [2025-12-08, 18:13:59](https://news.ycombinator.com/item?id=46195679) - [Deprecations via warnings don't work for Python libraries](https://sethmlarson.dev/deprecations-via-warnings-dont-work-for-python-libraries)
 * [2025-12-06, 04:31:42](https://news.ycombinator.com/item?id=46170707) - [Volcanic eruptions set off a chain of events that brought Black Death to Europe](https://www.cam.ac.uk/stories/volcanoes-black-death)
