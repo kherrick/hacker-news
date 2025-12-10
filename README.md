@@ -20,7 +20,6 @@
 * [2025-12-10, 15:10:36](https://news.ycombinator.com/item?id=46218538) - [COM Like a Bomb: Rust Outlook Add-in](https://tritium.legal/blog/outlook)
 * [2025-12-10, 11:33:31](https://news.ycombinator.com/item?id=46216583) - [Factor 0.101 now available](https://re.factorcode.org/2025/12/factor-0-101-now-available.html)
 * [2025-12-10, 06:22:19](https://news.ycombinator.com/item?id=46214693) - [Revisiting \"Let's Build a Compiler\"](https://eli.thegreenplace.net/2025/revisiting-lets-build-a-compiler/)
-* [2025-12-10, 03:15:24](https://news.ycombinator.com/item?id=46213585) - [Rust in the kernel is no longer experimental](https://lwn.net/Articles/1049831/)
 * [2025-12-09, 18:12:29](https://news.ycombinator.com/item?id=46208348) - [Australia begins enforcing world-first teen social media ban](https://www.reuters.com/legal/litigation/australia-social-media-ban-takes-effect-world-first-2025-12-09/)
 * [2025-12-08, 22:37:28](https://news.ycombinator.com/item?id=46198606) - [Why the Sanitizer API is just `setHTML()`](https://frederikbraun.de/why-sethtml.html)
 * [2025-12-06, 14:26:07](https://news.ycombinator.com/item?id=46173600) - [Kernel Float: Unlocking Mixed-Precision GPU Programming](https://dl.acm.org/doi/pdf/10.1145/3779120)
@@ -29,6 +28,7 @@
 * [2025-12-04, 22:43:33](https://news.ycombinator.com/item?id=46154220) - [Map of all the buildings in the world](https://gizmodo.com/literally-a-map-showing-all-the-buildings-in-the-world-2000694696)
 * [2025-12-04, 18:01:09](https://news.ycombinator.com/item?id=46150677) - [Super-Flat ASTs](https://jhwlr.io/super-flat-ast/)
 * [2025-12-04, 01:10:28](https://news.ycombinator.com/item?id=46142589) - [Golang's big miss on memory arenas](https://avittig.medium.com/golangs-big-miss-on-memory-arenas-f1375524cc90)
+* [2025-12-02, 22:44:37](https://news.ycombinator.com/item?id=46127981) - [Cloth Simulation](https://cloth.mikail-khan.com/)
 * [2025-12-02, 16:55:36](https://news.ycombinator.com/item?id=46123310) - [Gundam is just the same as Jane Austen but happens to include giant mech suits](https://eli.li/gundam-is-just-the-same-as-jane-austen-but-happens-to-include-giant-mech-suits)
 
 ## [Archives](archives/index.md)
