@@ -1,22 +1,22 @@
 [
   [
     [
-      "2025-12-10, 02:58:45",
-      "https://news.ycombinator.com/item?id=46213504"
+      "2025-12-10, 03:15:24",
+      "https://news.ycombinator.com/item?id=46213585"
     ],
     [
-      "NYC congestion pricing cuts air pollution by 22% in six months",
-      "https://airqualitynews.com/cars-freight-transport/nyc-congestion-pricing-cuts-air-pollution-by-22-in-six-months/"
+      "The end of the kernel Rust experiment",
+      "https://lwn.net/Articles/1049831/"
     ]
   ],
   [
     [
-      "2025-12-10, 02:37:34",
-      "https://news.ycombinator.com/item?id=46213385"
+      "2025-12-10, 02:58:45",
+      "https://news.ycombinator.com/item?id=46213504"
     ],
     [
-      "Making macOS Bearable",
-      "https://seg6.space/posts/making-macos-bearable/"
+      "NYC congestion pricing cuts air pollution by a fifth in six months",
+      "https://airqualitynews.com/cars-freight-transport/nyc-congestion-pricing-cuts-air-pollution-by-22-in-six-months/"
     ]
   ],
   [
@@ -27,16 +27,6 @@
     [
       "Show all your application error using Cloudflare Error Page",
       "https://github.com/donlon/cloudflare-error-page"
-    ]
-  ],
-  [
-    [
-      "2025-12-10, 01:36:56",
-      "https://news.ycombinator.com/item?id=46213045"
-    ],
-    [
-      "The AI-Education Death Spiral a.k.a. Let the Kids Cheat",
-      "https://anandsanwal.me/ai-education-death-spiral/"
     ]
   ],
   [
@@ -257,6 +247,16 @@
     [
       "30 Year Anniversary of WarCraft II: Tides of Darkness",
       "https://www.jorsys.org/archive/december_2025.html#newsitem_2025-12-09T07:42:19Z"
+    ]
+  ],
+  [
+    [
+      "2025-12-06, 09:13:02",
+      "https://news.ycombinator.com/item?id=46171844"
+    ],
+    [
+      "Distributed ID Formats Are Architectural Commitments, Not Just Data Types",
+      "https://piljoong.dev/posts/distributed-id-generation-complicated/"
     ]
   ],
   [
