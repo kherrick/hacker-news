@@ -53,6 +53,7 @@
 * [2025-12-05, 11:07:07](https://news.ycombinator.com/item?id=46159703) - [Why We Can't Quit Excel](https://www.bloomberg.com/features/2025-microsoft-excel-ai-software/)
 * [2025-12-05, 09:58:01](https://news.ycombinator.com/item?id=46159193) - [The US polluters that are rewriting the EU's human rights and climate law](https://www.somo.nl/the-secretive-cabal-of-us-polluters-that-is-rewriting-the-eus-human-rights-and-climate-law/)
 * [2025-12-05, 09:30:07](https://news.ycombinator.com/item?id=46158920) - [Awful AI is a curated list to track current scary usages of AI](https://github.com/daviddao/awful-ai)
+* [2025-12-05, 09:21:16](https://news.ycombinator.com/item?id=46158803) - [Writing our own Cheat Engine in Rust](https://lonami.dev/blog/woce-1/)
 * [2025-12-05, 09:09:25](https://news.ycombinator.com/item?id=46158578) - [Kenyan court declares law banning seed sharing unconstitutional](https://apnews.com/article/kenya-seed-sharing-law-ruling-ad4df5a364299b3a9f8515c0f52d5f80)
 * [2025-12-05, 08:59:00](https://news.ycombinator.com/item?id=46158338) - [Cloudflare Is Down](https://cloudflare.com/)
 * [2025-12-05, 08:55:47](https://news.ycombinator.com/item?id=46158275) - [Is Cloudflare Down Again? Also, DownDetector/Claude.ai/LinkedIn?](https://news.ycombinator.com/item?id=46158275)
