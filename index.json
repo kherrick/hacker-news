@@ -21,6 +21,16 @@
   ],
   [
     [
+      "2025-12-10, 20:29:12",
+      "https://news.ycombinator.com/item?id=46223311"
+    ],
+    [
+      "Getting a Gemini API key is an exercise in frustration",
+      "https://ankursethi.com/blog/gemini-api-key-frustration/"
+    ]
+  ],
+  [
+    [
       "2025-12-10, 19:19:17",
       "https://news.ycombinator.com/item?id=46222237"
     ],
@@ -237,16 +247,6 @@
     [
       "Deprecations via warnings don't work for Python libraries",
       "https://sethmlarson.dev/deprecations-via-warnings-dont-work-for-python-libraries"
-    ]
-  ],
-  [
-    [
-      "2025-12-06, 14:26:07",
-      "https://news.ycombinator.com/item?id=46173600"
-    ],
-    [
-      "Kernel Float: Unlocking Mixed-Precision GPU Programming",
-      "https://dl.acm.org/doi/pdf/10.1145/3779120"
     ]
   ],
   [
