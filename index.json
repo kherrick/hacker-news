@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-12-10, 06:22:19",
+      "https://news.ycombinator.com/item?id=46214693"
+    ],
+    [
+      "Revisiting \"Let's Build a Compiler\"",
+      "https://eli.thegreenplace.net/2025/revisiting-lets-build-a-compiler/"
+    ]
+  ],
+  [
+    [
       "2025-12-10, 04:29:30",
       "https://news.ycombinator.com/item?id=46214091"
     ],
@@ -25,7 +35,7 @@
       "https://news.ycombinator.com/item?id=46213585"
     ],
     [
-      "The end of the kernel Rust experiment",
+      "Rust in the kernel is no longer experimental",
       "https://lwn.net/Articles/1049831/"
     ]
   ],
@@ -35,18 +45,8 @@
       "https://news.ycombinator.com/item?id=46213273"
     ],
     [
-      "Show all your application error using Cloudflare Error Page",
+      "Cloudflare error page generator",
       "https://github.com/donlon/cloudflare-error-page"
-    ]
-  ],
-  [
-    [
-      "2025-12-10, 01:25:00",
-      "https://news.ycombinator.com/item?id=46212969"
-    ],
-    [
-      "Post-transformer inference: 224× compression of Llama-70B with improved accuracy",
-      "https://zenodo.org/records/17873275"
     ]
   ],
   [
@@ -181,16 +181,6 @@
   ],
   [
     [
-      "2025-12-09, 15:08:24",
-      "https://news.ycombinator.com/item?id=46205724"
-    ],
-    [
-      "Apple's slow AI pace becomes a strength as market grows weary of spending",
-      "https://finance.yahoo.com/news/apple-slow-ai-pace-becomes-104658095.html"
-    ]
-  ],
-  [
-    [
       "2025-12-09, 15:03:09",
       "https://news.ycombinator.com/item?id=46205661"
     ],
@@ -247,6 +237,16 @@
     [
       "Distributed ID Formats Are Architectural Commitments, Not Just Data Types",
       "https://piljoong.dev/posts/distributed-id-generation-complicated/"
+    ]
+  ],
+  [
+    [
+      "2025-12-06, 07:46:12",
+      "https://news.ycombinator.com/item?id=46171463"
+    ],
+    [
+      "Very Important People",
+      "https://dirt.fyi/article/2025/11/very-important-people"
     ]
   ],
   [
