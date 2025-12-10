@@ -56,6 +56,7 @@
 * [2025-12-06, 07:21:42](https://news.ycombinator.com/item?id=46171394) - [Wolfram Compute Services](https://writings.stephenwolfram.com/2025/12/instant-supercompute-launching-wolfram-compute-services/)
 * [2025-12-06, 07:19:03](https://news.ycombinator.com/item?id=46171381) - [Wine 11.0 RC1 – Run Windows Applications on Linux, BSD, Solaris and macOS](https://gitlab.winehq.org/wine/wine/-/releases/wine-11.0-rc1)
 * [2025-12-06, 07:00:14](https://news.ycombinator.com/item?id=46171311) - [Infracost (YC W21) is hiring Sr Node Eng to make $600B/yr cloud spend proactive](https://www.ycombinator.com/companies/infracost/jobs/Sr9rmHs-senior-product-engineer-node-js)
+* [2025-12-06, 06:28:01](https://news.ycombinator.com/item?id=46171184) - [Tech for Small vs. Big Firms](https://lexifina.com/blog/technology-for-firms-big-and-small)
 * [2025-12-06, 05:36:48](https://news.ycombinator.com/item?id=46171008) - [AWS Announces Graviton 5](https://aws.amazon.com/ec2/instance-types/m9g/)
 * [2025-12-06, 04:44:57](https://news.ycombinator.com/item?id=46170776) - [Sperry/Ford Mark-6 Fire Control Computer (2022)](https://www.glennsmuseum.com/items/mk6/)
 * [2025-12-06, 03:32:56](https://news.ycombinator.com/item?id=46170402) - [Nook Browser](https://browsewithnook.com)
