@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-12-10, 06:22:19](https://news.ycombinator.com/item?id=46214693) - [Revisiting \"Let's Build a Compiler\"](https://eli.thegreenplace.net/2025/revisiting-lets-build-a-compiler/)
+* [2025-12-10, 06:08:50](https://news.ycombinator.com/item?id=46214617) - [Are the Three Musketeers allergic to muskets?(2014)](https://www.ox.ac.uk/news/arts-blog/are-three-musketeers-allergic-muskets)
 * [2025-12-10, 04:29:30](https://news.ycombinator.com/item?id=46214091) - [Dependable C](https://dependablec.org/)
 * [2025-12-10, 03:33:14](https://news.ycombinator.com/item?id=46213709) - ['Source available' is not open source (and that's okay)](https://dri.es/source-available-is-not-open-source-and-that-is-okay)
 * [2025-12-10, 03:15:24](https://news.ycombinator.com/item?id=46213585) - [Rust in the kernel is no longer experimental](https://lwn.net/Articles/1049831/)
 * [2025-12-10, 02:18:07](https://news.ycombinator.com/item?id=46213273) - [Cloudflare error page generator](https://github.com/donlon/cloudflare-error-page)
-* [2025-12-09, 22:54:33](https://news.ycombinator.com/item?id=46211861) - [OpenEvolve: Teaching LLMs to Discover Algorithms Through Evolution](https://algorithmicsuperintelligence.ai/blog/openevolve-overview/index.html)
 * [2025-12-09, 22:47:36](https://news.ycombinator.com/item?id=46211802) - [Linux CVEs, more than you ever wanted to know](http://www.kroah.com/log/blog/2025/12/08/linux-cves-more-than-you-ever-wanted-to-know/)
 * [2025-12-09, 21:19:37](https://news.ycombinator.com/item?id=46210806) - [Qt, Linux and everything: Debugging Qt WebAssembly](http://qtandeverything.blogspot.com/2025/12/debugging-qt-webassembly-dwarf.html)
 * [2025-12-09, 20:33:14](https://news.ycombinator.com/item?id=46210240) - [Django: what’s new in 6.0](https://adamj.eu/tech/2025/12/03/django-whats-new-6.0/)
@@ -24,12 +24,12 @@
 * [2025-12-09, 14:45:01](https://news.ycombinator.com/item?id=46205437) - [Mistral releases Devstral2 and Mistral Vibe CLI](https://mistral.ai/news/devstral-2-vibe-cli)
 * [2025-12-09, 09:13:56](https://news.ycombinator.com/item?id=46202921) - [30 Year Anniversary of WarCraft II: Tides of Darkness](https://www.jorsys.org/archive/december_2025.html#newsitem_2025-12-09T07:42:19Z)
 * [2025-12-06, 09:13:02](https://news.ycombinator.com/item?id=46171844) - [Distributed ID Formats Are Architectural Commitments, Not Just Data Types](https://piljoong.dev/posts/distributed-id-generation-complicated/)
-* [2025-12-06, 07:46:12](https://news.ycombinator.com/item?id=46171463) - [Very Important People](https://dirt.fyi/article/2025/11/very-important-people)
 * [2025-12-06, 01:08:04](https://news.ycombinator.com/item?id=46169508) - [Are We over the \"Jaws Effect?\"](https://nautil.us/are-we-finally-over-the-jaws-effect-1253001/)
 * [2025-12-05, 17:15:01](https://news.ycombinator.com/item?id=46164197) - [When a video codec wins an Emmy](https://blog.mozilla.org/en/mozilla/av1-video-codec-wins-emmy/)
 * [2025-12-05, 09:21:16](https://news.ycombinator.com/item?id=46158803) - [Writing our own Cheat Engine in Rust](https://lonami.dev/blog/woce-1/)
 * [2025-12-05, 01:22:29](https://news.ycombinator.com/item?id=46155740) - [Italy's longest-serving barista reflects on six decades behind the counter](https://www.reuters.com/lifestyle/culture-current/anna-possi-six-decades-behind-counter-italys-bar-centrale-2025-11-20/)
 * [2025-12-04, 14:26:30](https://news.ycombinator.com/item?id=46147996) - [Operando interlayer expansion of curved graphene for dense supercapacitors](https://www.nature.com/articles/s41467-025-63485-0)
+* [2025-12-03, 21:42:48](https://news.ycombinator.com/item?id=46140579) - [Putting email in its place with Emacs and Mu4e](https://eamonnsullivan.co.uk/posts-output/email-setup/2025-12-3-putting-email-in-its-place/)
 
 ## [Archives](archives/index.md)
 
