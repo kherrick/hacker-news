@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-12-10, 09:15:18](https://news.ycombinator.com/item?id=46215688) - [Big Tech are the new Soviets](https://unherd.com/2025/12/big-tech-are-the-new-soviets/)
 * [2025-12-10, 07:06:55](https://news.ycombinator.com/item?id=46214950) - [Stop Breaking TLS](https://www.markround.com/blog/2025/12/09/stop-breaking-tls/)
 * [2025-12-10, 06:22:19](https://news.ycombinator.com/item?id=46214693) - [Revisiting \"Let's Build a Compiler\"](https://eli.thegreenplace.net/2025/revisiting-lets-build-a-compiler/)
 * [2025-12-10, 06:08:50](https://news.ycombinator.com/item?id=46214617) - [Are the Three Musketeers allergic to muskets?(2014)](https://www.ox.ac.uk/news/arts-blog/are-three-musketeers-allergic-muskets)
@@ -29,6 +28,7 @@
 * [2025-12-05, 01:22:29](https://news.ycombinator.com/item?id=46155740) - [Italy's longest-serving barista reflects on six decades behind the counter](https://www.reuters.com/lifestyle/culture-current/anna-possi-six-decades-behind-counter-italys-bar-centrale-2025-11-20/)
 * [2025-12-04, 14:26:30](https://news.ycombinator.com/item?id=46147996) - [Operando interlayer expansion of curved graphene for dense supercapacitors](https://www.nature.com/articles/s41467-025-63485-0)
 * [2025-12-03, 21:42:48](https://news.ycombinator.com/item?id=46140579) - [Putting email in its place with Emacs and Mu4e](https://eamonnsullivan.co.uk/posts-output/email-setup/2025-12-3-putting-email-in-its-place/)
+* [2025-12-03, 21:14:54](https://news.ycombinator.com/item?id=46140219) - [Passing the Torch: James Gross on the Next Chapter of Micromobility Industries](https://micromobility.io/news/how-charging-is-reshaping-the-business-of-shared-scooters-and-e-bikes)
 * [2025-12-02, 22:44:37](https://news.ycombinator.com/item?id=46127981) - [Cloth Simulation](https://cloth.mikail-khan.com/)
 
 ## [Archives](archives/index.md)

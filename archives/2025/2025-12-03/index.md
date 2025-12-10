@@ -11,6 +11,7 @@
 * [2025-12-03, 21:56:37](https://news.ycombinator.com/item?id=46140753) - [Greeting Vocalizations in Domestic Cats Are More Frequent with Male Caregivers](https://onlinelibrary.wiley.com/doi/10.1111/eth.70033)
 * [2025-12-03, 21:42:48](https://news.ycombinator.com/item?id=46140579) - [Putting email in its place with Emacs and Mu4e](https://eamonnsullivan.co.uk/posts-output/email-setup/2025-12-3-putting-email-in-its-place/)
 * [2025-12-03, 21:16:11](https://news.ycombinator.com/item?id=46140244) - [8086 Microcode Browser](https://nand2mario.github.io/posts/2025/8086_microcode_browser/)
+* [2025-12-03, 21:14:54](https://news.ycombinator.com/item?id=46140219) - [Passing the Torch: James Gross on the Next Chapter of Micromobility Industries](https://micromobility.io/news/how-charging-is-reshaping-the-business-of-shared-scooters-and-e-bikes)
 * [2025-12-03, 20:57:02](https://news.ycombinator.com/item?id=46140038) - [Chips for the Rest of Us](https://engineering.nyu.edu/about/unconventional-engineer/chips-for-us)
 * [2025-12-03, 20:47:45](https://news.ycombinator.com/item?id=46139905) - [Agentic Development Environment by JetBrains](https://air.dev)
 * [2025-12-03, 20:37:08](https://news.ycombinator.com/item?id=46139782) - [Checked-size array parameters in C](https://lwn.net/SubscriberLink/1046840/3eb9029084cc9e1e/)
