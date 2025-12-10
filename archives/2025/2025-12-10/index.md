@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-12-10](index.md)
 
+* [2025-12-10, 17:23:53](https://news.ycombinator.com/item?id=46220540) - [Auto-grading decade-old Hacker News discussions with hindsight](https://karpathy.bearblog.dev/auto-grade-hn/)
 * [2025-12-10, 17:20:06](https://news.ycombinator.com/item?id=46220488) - [Valve: HDMI Forum Continues to Block HDMI 2.1 for Linux](https://www.heise.de/en/news/Valve-HDMI-Forum-Continues-to-Block-HDMI-2-1-for-Linux-11107440.html)
 * [2025-12-10, 17:00:22](https://news.ycombinator.com/item?id=46220211) - [Mothers (YC X26) Is Hiring](https://app.dover.com/jobs/9mothers)
 * [2025-12-10, 16:34:52](https://news.ycombinator.com/item?id=46219853) - [DeepSeek uses banned Nvidia chips for AI model, report says](https://finance.yahoo.com/news/china-deepseek-uses-banned-nvidia-131207746.html)

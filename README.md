@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-12-10, 17:23:53](https://news.ycombinator.com/item?id=46220540) - [Auto-grading decade-old Hacker News discussions with hindsight](https://karpathy.bearblog.dev/auto-grade-hn/)
 * [2025-12-10, 17:20:06](https://news.ycombinator.com/item?id=46220488) - [Valve: HDMI Forum Continues to Block HDMI 2.1 for Linux](https://www.heise.de/en/news/Valve-HDMI-Forum-Continues-to-Block-HDMI-2-1-for-Linux-11107440.html)
 * [2025-12-10, 17:00:22](https://news.ycombinator.com/item?id=46220211) - [9 Mothers (YC X26) Is Hiring](https://app.dover.com/jobs/9mothers)
 * [2025-12-10, 16:34:52](https://news.ycombinator.com/item?id=46219853) - [DeepSeek uses banned Nvidia chips for AI model, report says](https://finance.yahoo.com/news/china-deepseek-uses-banned-nvidia-131207746.html)
@@ -19,7 +20,6 @@
 * [2025-12-09, 17:08:37](https://news.ycombinator.com/item?id=46207464) - [PeerTube is recognized as a digital public good by Digital Public Goods Alliance](https://www.digitalpublicgoods.net/r/peertube)
 * [2025-12-09, 16:06:58](https://news.ycombinator.com/item?id=46206531) - [Bruno Simon – 3D Portfolio](https://bruno-simon.com/)
 * [2025-12-09, 15:00:38](https://news.ycombinator.com/item?id=46205632) - [Show HN: Gemini Pro 3 imagines the HN front page 10 years from now](https://dosaygo-studio.github.io/hn-front-page-2035/news)
-* [2025-12-09, 14:45:01](https://news.ycombinator.com/item?id=46205437) - [Mistral releases Devstral2 and Mistral Vibe CLI](https://mistral.ai/news/devstral-2-vibe-cli)
 * [2025-12-08, 22:37:28](https://news.ycombinator.com/item?id=46198606) - [Why the Sanitizer API is just `setHTML()`](https://frederikbraun.de/why-sethtml.html)
 * [2025-12-08, 18:13:59](https://news.ycombinator.com/item?id=46195679) - [Deprecations via warnings don't work for Python libraries](https://sethmlarson.dev/deprecations-via-warnings-dont-work-for-python-libraries)
 * [2025-12-06, 05:36:48](https://news.ycombinator.com/item?id=46171008) - [Amazon EC2 M9g Instances](https://aws.amazon.com/ec2/instance-types/m9g/)
