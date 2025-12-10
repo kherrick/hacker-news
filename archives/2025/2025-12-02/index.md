@@ -6,6 +6,7 @@
 
 * [2025-12-02, 23:59:58](https://news.ycombinator.com/item?id=46128616) - [Finding Gene Cernan's Missing Moon Camera](https://www.spacecamera.co/articles/2020/3/3/gene-cernans-missing-lunar-surface-camera)
 * [2025-12-02, 23:50:53](https://news.ycombinator.com/item?id=46128548) - [Vibe Coding: Empowering and Imprisoning](https://www.anildash.com/2025/12/02/vibe-coding-empowering-and-imprisoning/)
+* [2025-12-02, 23:48:19](https://news.ycombinator.com/item?id=46128523) - [Running Linux on a RiscPC – why is it so hard?](https://thejpster.org.uk/blog/blog-2025-12-02/)
 * [2025-12-02, 23:19:07](https://news.ycombinator.com/item?id=46128286) - [DOOM could have had PC Speaker Music](https://lenowo.org/viewtopic.php?t=45)
 * [2025-12-02, 23:13:54](https://news.ycombinator.com/item?id=46128238) - [Ivan Sutherland Sketchpad Demo 1963 [video]](https://www.youtube.com/watch?v=6orsmFndx_o)
 * [2025-12-02, 22:44:37](https://news.ycombinator.com/item?id=46127981) - [Cloth Simulation](https://cloth.mikail-khan.com/)
