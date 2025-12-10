@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-12-10, 19:14:03](https://news.ycombinator.com/item?id=46222165) - [Terraform CDK has been phased out](https://github.com/hashicorp/terraform-cdk)
+* [2025-12-10, 19:14:03](https://news.ycombinator.com/item?id=46222165) - [The future of Terraform CDK](https://github.com/hashicorp/terraform-cdk)
 * [2025-12-10, 18:58:55](https://news.ycombinator.com/item?id=46221925) - [Super Mario 64 for the PS1](https://github.com/malucard/sm64-psx)
 * [2025-12-10, 18:37:27](https://news.ycombinator.com/item?id=46221594) - [Terrain Diffusion: A Diffusion-Based Successor to Perlin Noise](https://arxiv.org/abs/2512.08309)
-* [2025-12-10, 18:24:13](https://news.ycombinator.com/item?id=46221404) - [Intermittent Hypoxia Increases Blood Flow and Benefits Executive Function](https://onlinelibrary.wiley.com/doi/10.1111/psyp.70161)
+* [2025-12-10, 18:24:13](https://news.ycombinator.com/item?id=46221404) - [Intermittent hypoxia increases blood flow and benefits executive function](https://onlinelibrary.wiley.com/doi/10.1111/psyp.70161)
 * [2025-12-10, 17:49:28](https://news.ycombinator.com/item?id=46220902) - [Show HN: A 2-row, 16-key keyboard designed for smartphones](https://k-keyboard.com/Why-QWERTY-mini)
 * [2025-12-10, 17:42:30](https://news.ycombinator.com/item?id=46220794) - [Show HN: Automated license plate reader coverage in the USA](https://alpranalysis.com)
 * [2025-12-10, 17:30:43](https://news.ycombinator.com/item?id=46220640) - [Is it a bubble?](https://www.oaktreecapital.com/insights/memo/is-it-a-bubble)
