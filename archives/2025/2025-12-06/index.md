@@ -37,6 +37,7 @@
 * [2025-12-06, 14:55:03](https://news.ycombinator.com/item?id=46173785) - [Carlo is no longer maintained](https://github.com/GoogleChromeLabs/carlo)
 * [2025-12-06, 14:40:51](https://news.ycombinator.com/item?id=46173697) - [Kidney Recipient Dies After Transplant from Organ Donor Who Had Rabies](https://www.nytimes.com/2025/12/06/health/rabies-death-skunk-kidney-transplant.html)
 * [2025-12-06, 14:38:19](https://news.ycombinator.com/item?id=46173677) - [Decades-old study on common weed killer retracted](https://www.cbc.ca/news/health/glyphosate-retraction-9.7004363)
+* [2025-12-06, 14:26:07](https://news.ycombinator.com/item?id=46173600) - [Kernel Float: Unlocking Mixed-Precision GPU Programming](https://dl.acm.org/doi/pdf/10.1145/3779120)
 * [2025-12-06, 14:24:21](https://news.ycombinator.com/item?id=46173584) - [Resolution Dynamics: Deriving the Fine Structure Constant from Shannon Capacity](https://zenodo.org/records/17821936)
 * [2025-12-06, 14:19:28](https://news.ycombinator.com/item?id=46173554) - [Why \"all-in-one\" productivity tools confuse new users](https://news.ycombinator.com/item?id=46173554)
 * [2025-12-06, 14:18:42](https://news.ycombinator.com/item?id=46173547) - [Tiny Core Linux: a 23 MB Linux distro with graphical desktop](http://www.tinycorelinux.net/)

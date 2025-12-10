@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-12-10](index.md)
 
 * [2025-12-10, 17:49:28](https://news.ycombinator.com/item?id=46220902) - [Show HN: A 2-row, 16-key keyboard designed for smartphones](https://k-keyboard.com/Why-QWERTY-mini)
+* [2025-12-10, 17:42:30](https://news.ycombinator.com/item?id=46220794) - [Show HN: Automated license plate reader coverage in the USA](https://alpranalysis.com)
 * [2025-12-10, 17:30:43](https://news.ycombinator.com/item?id=46220640) - [Is it a bubble?](https://www.oaktreecapital.com/insights/memo/is-it-a-bubble)
 * [2025-12-10, 17:27:09](https://news.ycombinator.com/item?id=46220577) - [Show HN: MCPShark – Traffic Inspector for Model Context Protocol](https://news.ycombinator.com/item?id=46220577)
 * [2025-12-10, 17:23:53](https://news.ycombinator.com/item?id=46220540) - [Auto-grading decade-old Hacker News discussions with hindsight](https://karpathy.bearblog.dev/auto-grade-hn/)
