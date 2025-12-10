@@ -59,6 +59,7 @@
 * [2025-12-06, 06:28:01](https://news.ycombinator.com/item?id=46171184) - [Tech for Small vs. Big Firms](https://lexifina.com/blog/technology-for-firms-big-and-small)
 * [2025-12-06, 05:36:48](https://news.ycombinator.com/item?id=46171008) - [AWS Announces Graviton 5](https://aws.amazon.com/ec2/instance-types/m9g/)
 * [2025-12-06, 04:44:57](https://news.ycombinator.com/item?id=46170776) - [Sperry/Ford Mark-6 Fire Control Computer (2022)](https://www.glennsmuseum.com/items/mk6/)
+* [2025-12-06, 04:31:42](https://news.ycombinator.com/item?id=46170707) - [Volcanic eruptions set off a chain of events that brought Black Death to Europe](https://www.cam.ac.uk/stories/volcanoes-black-death)
 * [2025-12-06, 03:32:56](https://news.ycombinator.com/item?id=46170402) - [Nook Browser](https://browsewithnook.com)
 * [2025-12-06, 03:21:46](https://news.ycombinator.com/item?id=46170332) - [Albert Michelson's Harmonic Analyzer [pdf]](https://engineerguy.com/fourier/pdfs/albert-michelsons-harmonic-analyzer.pdf)
 * [2025-12-06, 03:17:44](https://news.ycombinator.com/item?id=46170309) - [PalmOS on FisherPrice Pixter Toy](https://dmitry.gr/?r=05.Projects&proj=27.%20rePalm#pixter)

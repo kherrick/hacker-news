@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-12-10, 15:43:43](https://news.ycombinator.com/item?id=46219011) - [How to Leave the USA](https://www.newyorker.com/magazine/2025/12/15/how-to-leave-the-usa)
 * [2025-12-10, 15:25:05](https://news.ycombinator.com/item?id=46218725) - [In New York City, Congestion Pricing Leads to Marked Drop in Pollution](https://e360.yale.edu/digest/new-york-congestion-pricing-pollution)
+* [2025-12-10, 15:10:36](https://news.ycombinator.com/item?id=46218538) - [Writing an Outlook Add-in in Rust](https://tritium.legal/blog/outlook)
 * [2025-12-10, 14:39:05](https://news.ycombinator.com/item?id=46218202) - [The New Kindle Scribes Are Great, but Not Great Enough](https://www.wired.com/review/kindle-scribe-colorsoft-2025/)
 * [2025-12-10, 06:22:19](https://news.ycombinator.com/item?id=46214693) - [Revisiting \"Let's Build a Compiler\"](https://eli.thegreenplace.net/2025/revisiting-lets-build-a-compiler/)
 * [2025-12-10, 03:15:24](https://news.ycombinator.com/item?id=46213585) - [Rust in the kernel is no longer experimental](https://lwn.net/Articles/1049831/)
@@ -20,8 +20,8 @@
 * [2025-12-09, 15:00:38](https://news.ycombinator.com/item?id=46205632) - [Show HN: Gemini Pro 3 hallucinates the HN front page 10 years from now](https://dosaygo-studio.github.io/hn-front-page-2035/news)
 * [2025-12-09, 14:51:46](https://news.ycombinator.com/item?id=46205519) - [Kaiju – General purpose 3D/2D game engine in Go and Vulkan with built in editor](https://github.com/KaijuEngine/kaiju)
 * [2025-12-09, 14:45:01](https://news.ycombinator.com/item?id=46205437) - [Mistral releases Devstral2 and Mistral Vibe CLI](https://mistral.ai/news/devstral-2-vibe-cli)
-* [2025-12-09, 09:13:56](https://news.ycombinator.com/item?id=46202921) - [30 Year Anniversary of WarCraft II: Tides of Darkness](https://www.jorsys.org/archive/december_2025.html#newsitem_2025-12-09T07:42:19Z)
 * [2025-12-06, 05:36:48](https://news.ycombinator.com/item?id=46171008) - [Amazon EC2 M9g Instances](https://aws.amazon.com/ec2/instance-types/m9g/)
+* [2025-12-06, 04:31:42](https://news.ycombinator.com/item?id=46170707) - [Volcanic eruptions set off a chain of events that brought Black Death to Europe](https://www.cam.ac.uk/stories/volcanoes-black-death)
 * [2025-12-05, 17:15:01](https://news.ycombinator.com/item?id=46164197) - [When a video codec wins an Emmy](https://blog.mozilla.org/en/mozilla/av1-video-codec-wins-emmy/)
 * [2025-12-05, 09:21:16](https://news.ycombinator.com/item?id=46158803) - [Writing our own Cheat Engine in Rust](https://lonami.dev/blog/woce-1/)
 * [2025-12-05, 01:22:29](https://news.ycombinator.com/item?id=46155740) - [Italy's longest-serving barista reflects on six decades behind the counter](https://www.reuters.com/lifestyle/culture-current/anna-possi-six-decades-behind-counter-italys-bar-centrale-2025-11-20/)
