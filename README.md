@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-12-10, 19:14:03](https://news.ycombinator.com/item?id=46222165) - [The future of Terraform CDK](https://github.com/hashicorp/terraform-cdk)
+* [2025-12-10, 20:35:07](https://news.ycombinator.com/item?id=46223389) - [EFF Launches Age Verification Hub as Resource Against Misguided Laws](https://www.eff.org/press/releases/eff-launches-age-verification-hub-resource-against-misguided-laws)
 * [2025-12-10, 18:58:55](https://news.ycombinator.com/item?id=46221925) - [Super Mario 64 for the PS1](https://github.com/malucard/sm64-psx)
 * [2025-12-10, 18:37:27](https://news.ycombinator.com/item?id=46221594) - [Terrain Diffusion: A Diffusion-Based Successor to Perlin Noise](https://arxiv.org/abs/2512.08309)
 * [2025-12-10, 18:24:13](https://news.ycombinator.com/item?id=46221404) - [Intermittent hypoxia increases blood flow and benefits executive function](https://onlinelibrary.wiley.com/doi/10.1111/psyp.70161)

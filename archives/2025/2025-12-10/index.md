@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-12-10](index.md)
 
+* [2025-12-10, 20:35:07](https://news.ycombinator.com/item?id=46223389) - [EFF Launches Age Verification Hub as Resource Against Misguided Laws](https://www.eff.org/press/releases/eff-launches-age-verification-hub-resource-against-misguided-laws)
 * [2025-12-10, 19:14:03](https://news.ycombinator.com/item?id=46222165) - [Terraform CDK has been phased out](https://github.com/hashicorp/terraform-cdk)
 * [2025-12-10, 18:58:55](https://news.ycombinator.com/item?id=46221925) - [Super Mario 64 for the PS1](https://github.com/malucard/sm64-psx)
 * [2025-12-10, 18:37:27](https://news.ycombinator.com/item?id=46221594) - [Terrain Diffusion: A Diffusion-Based Successor to Perlin Noise](https://arxiv.org/abs/2512.08309)
