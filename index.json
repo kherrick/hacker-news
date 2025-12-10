@@ -1,22 +1,22 @@
 [
   [
     [
+      "2025-12-10, 14:59:47",
+      "https://news.ycombinator.com/item?id=46218419"
+    ],
+    [
+      "How Much Wealth an AI Stock Market Crash Could Destroy",
+      "https://www.economist.com/interactive/graphic-detail/2025/11/05/how-much-wealth-would-be-destroyed-by-an-ai-stockmarket-crash"
+    ]
+  ],
+  [
+    [
       "2025-12-10, 14:39:05",
       "https://news.ycombinator.com/item?id=46218202"
     ],
     [
       "The New Kindle Scribes Are Great, but Not Great Enough",
       "https://www.wired.com/review/kindle-scribe-colorsoft-2025/"
-    ]
-  ],
-  [
-    [
-      "2025-12-10, 13:41:56",
-      "https://news.ycombinator.com/item?id=46217608"
-    ],
-    [
-      "I Tried the New Android XR Smart Glasses from Google and XReal",
-      "https://www.pcmag.com/news/i-tried-the-new-android-xr-smart-glasses-from-google-they-impressed-me"
     ]
   ],
   [
@@ -61,12 +61,12 @@
   ],
   [
     [
-      "2025-12-09, 22:47:36",
-      "https://news.ycombinator.com/item?id=46211802"
+      "2025-12-10, 02:18:07",
+      "https://news.ycombinator.com/item?id=46213273"
     ],
     [
-      "Linux CVEs, more than you ever wanted to know",
-      "http://www.kroah.com/log/blog/2025/12/08/linux-cves-more-than-you-ever-wanted-to-know/"
+      "Cloudflare error page generator",
+      "https://github.com/donlon/cloudflare-error-page"
     ]
   ],
   [
@@ -181,16 +181,6 @@
   ],
   [
     [
-      "2025-12-09, 14:51:46",
-      "https://news.ycombinator.com/item?id=46205519"
-    ],
-    [
-      "Kaiju – General purpose 3D/2D game engine in Go and Vulkan with built in editor",
-      "https://github.com/KaijuEngine/kaiju"
-    ]
-  ],
-  [
-    [
       "2025-12-09, 14:45:01",
       "https://news.ycombinator.com/item?id=46205437"
     ],
@@ -257,6 +247,16 @@
     [
       "Map of All the Buildings in the World",
       "https://gizmodo.com/literally-a-map-showing-all-the-buildings-in-the-world-2000694696"
+    ]
+  ],
+  [
+    [
+      "2025-12-04, 15:55:30",
+      "https://news.ycombinator.com/item?id=46148995"
+    ],
+    [
+      "Rust: Proof of Concept, Not Replacement",
+      "https://files.neoon.com/rust-game-over-203X.html"
     ]
   ],
   [
