@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-12-10](index.md)
 
+* [2025-12-10, 17:00:22](https://news.ycombinator.com/item?id=46220211) - [Mothers (YC X26) Is Hiring](https://app.dover.com/jobs/9mothers)
+* [2025-12-10, 16:34:52](https://news.ycombinator.com/item?id=46219853) - [DeepSeek uses banned Nvidia chips for AI model, report says](https://finance.yahoo.com/news/china-deepseek-uses-banned-nvidia-131207746.html)
 * [2025-12-10, 16:13:57](https://news.ycombinator.com/item?id=46219544) - [England Historic Aerial Photo Explorer](https://historicengland.org.uk/images-books/archive/collections/aerial-photos/)
 * [2025-12-10, 16:13:38](https://news.ycombinator.com/item?id=46219538) - [Qwen3-Omni-Flash-2025-12-01：a next-generation native multimodal large model](https://qwen.ai/blog?id=qwen3-omni-flash-20251201)
 * [2025-12-10, 16:05:03](https://news.ycombinator.com/item?id=46219386) - [Launch HN: InspectMind (YC W24) – AI agent for reviewing construction drawings](https://news.ycombinator.com/item?id=46219386)
@@ -20,6 +22,7 @@
 * [2025-12-10, 13:36:52](https://news.ycombinator.com/item?id=46217559) - [Apple Faces Scrutiny as Sanctioned Entities Slip Through App Store Controls](https://www.washingtonpost.com/technology/2025/12/10/us-sanctions-apple-google/)
 * [2025-12-10, 12:57:38](https://news.ycombinator.com/item?id=46217176) - [McDonald's pulls AI Christmas ad after backlash](https://www.bbc.co.uk/news/articles/czdgrnvp082o)
 * [2025-12-10, 12:37:30](https://news.ycombinator.com/item?id=46217026) - [US could ask foreign tourists for five-year social media history before entry](https://www.bbc.co.uk/news/articles/c1dz0g2ykpeo)
+* [2025-12-10, 11:33:31](https://news.ycombinator.com/item?id=46216583) - [Factor 0.101 now available](https://re.factorcode.org/2025/12/factor-0-101-now-available.html)
 * [2025-12-10, 09:15:18](https://news.ycombinator.com/item?id=46215688) - [Big Tech are the new Soviets](https://unherd.com/2025/12/big-tech-are-the-new-soviets/)
 * [2025-12-10, 07:06:55](https://news.ycombinator.com/item?id=46214950) - [Stop Breaking TLS](https://www.markround.com/blog/2025/12/09/stop-breaking-tls/)
 * [2025-12-10, 06:22:19](https://news.ycombinator.com/item?id=46214693) - [Revisiting \"Let's Build a Compiler\"](https://eli.thegreenplace.net/2025/revisiting-lets-build-a-compiler/)
