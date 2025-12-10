@@ -26,9 +26,9 @@
 * [2025-12-06, 04:31:42](https://news.ycombinator.com/item?id=46170707) - [Volcanic eruptions set off a chain of events that brought Black Death to Europe](https://www.cam.ac.uk/stories/volcanoes-black-death)
 * [2025-12-05, 15:34:49](https://news.ycombinator.com/item?id=46162643) - [Typewriter Plotters (2022)](https://biosrhythm.com/?p=2143)
 * [2025-12-04, 22:43:33](https://news.ycombinator.com/item?id=46154220) - [Map of all the buildings in the world](https://gizmodo.com/literally-a-map-showing-all-the-buildings-in-the-world-2000694696)
+* [2025-12-04, 18:11:21](https://news.ycombinator.com/item?id=46150797) - [Scientists Create Ultra Fast Memory Using Light](https://www.isi.edu/news/81186/scientists-create-ultra-fast-memory-using-light/)
 * [2025-12-04, 18:01:09](https://news.ycombinator.com/item?id=46150677) - [Super-Flat ASTs](https://jhwlr.io/super-flat-ast/)
 * [2025-12-04, 01:10:28](https://news.ycombinator.com/item?id=46142589) - [Golang's big miss on memory arenas](https://avittig.medium.com/golangs-big-miss-on-memory-arenas-f1375524cc90)
-* [2025-12-02, 22:44:37](https://news.ycombinator.com/item?id=46127981) - [Cloth Simulation](https://cloth.mikail-khan.com/)
 * [2025-12-02, 16:55:36](https://news.ycombinator.com/item?id=46123310) - [Gundam is just the same as Jane Austen but happens to include giant mech suits](https://eli.li/gundam-is-just-the-same-as-jane-austen-but-happens-to-include-giant-mech-suits)
 
 ## [Archives](archives/index.md)
