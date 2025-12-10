@@ -129,24 +129,226 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
+        <section id="46219544">
+          <h3>
+            <a
+              class="item"
+              href="https://historicengland.org.uk/images-books/archive/collections/aerial-photos/"
+              >England Historic Aerial Photo Explorer</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2025-12-10 @ 16:13:57</span
+              ><span class="points-container"
+                >Points: <span class="points">7</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=46219544"
+                  >Comments</a
+                ><span class="descendants">: 3</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="46219538">
+          <h3>
+            <a
+              class="item"
+              href="https://qwen.ai/blog?id=qwen3-omni-flash-20251201"
+              >Qwen3-Omni-Flash-2025-12-01：a next-generation native multimodal
+              large model</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2025-12-10 @ 16:13:38</span
+              ><span class="points-container"
+                >Points: <span class="points">31</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=46219538"
+                  >Comments</a
+                ><span class="descendants">: 11</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="46219386">
+          <h3>
+            <a class="item" href="https://news.ycombinator.com/item?id=46219386"
+              >Launch HN: InspectMind (YC W24) – AI agent for reviewing
+              construction drawings</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2025-12-10 @ 16:05:03</span
+              ><span class="points-container"
+                >Points: <span class="points">8</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=46219386"
+                  >Comments</a
+                ><span class="descendants">: 4</span></span
+              >
+            </h4>
+            <div class="text">
+              <a href="https://www.inspectmind.ai/"
+                >https://www.inspectmind.ai/</a
+              >), an AI “plan checker” that finds issues in construction
+              drawings, details, and specs.
+              <p>
+                Construction drawings quietly go out with lots of errors:
+                dimension conflicts, co-ordination gaps, material mismatches,
+                missing details and more. These errors turn into delays and
+                hundreds of thousands of dollars of rework during construction.
+                InspectMind reviews the full drawing set of a construction
+                project in minutes. It cross-checks architecture, engineering,
+                and specifications to catch issues that cause rework before
+                building begins.
+              </p>
+              <p>
+                Here’s a video with some examples:
+                <a href="https://www.youtube.com/watch?v=Mvn1FyHRlLQ"
+                  >https://www.youtube.com/watch?v=Mvn1FyHRlLQ</a
+                >.
+              </p>
+              <p>
+                Before this, I (Aakash) built an engineering firm that worked on
+                ~10,000 buildings across the US. One thing that always
+                frustrated us: a lot of design coordination issues don’t show up
+                until construction starts. By then, the cost of a mistake can be
+                10–100x higher, and everyone is scrambling to fix problems that
+                could have been caught earlier.
+              </p>
+              <p>
+                We tried everything including checklists, overlay reviews, peer
+                checks but scrolling through 500–2000 PDF sheets and remembering
+                how every detail connects to every other sheet is a brittle
+                process. City reviewers and GC pre-con teams try to catch issues
+                too, yet they still sneak through.
+              </p>
+              <p>
+                We thought: if models can parse code and generate working
+                software, maybe they can also help reason about the built
+                environment on paper. So we built something we wished we had!
+              </p>
+              <p>
+                You upload drawings and specs (PDFs). The system breaks them
+                into disciplines and detail hierarchies, parses geometry and
+                text, and looks for inconsistencies: - Dimensions that don’t
+                reconcile across sheets; - Clearances blocked by
+                mechanical/architectural elements; - Fire/safety details missing
+                or mismatched; - Spec requirements that never made it into
+                drawings; - Callouts referencing details that don’t exist.
+              </p>
+              <p>
+                The output is a list of potential issues with sheet refs and
+                locations for a human to review. We don’t expect automation to
+                replace design judgment, just to help ACE professionals not miss
+                the obvious stuff. Current AIs are good at obvious stuff, plus
+                can process data at quantities way beyond what humans can
+                accurately do, so this is a good application for them.
+              </p>
+              <p>
+                Construction drawings aren't standardized and every firm names
+                things differently. Earlier “automated checking” tools relied
+                heavily on manually-written rules per customer, and break when
+                naming conventions change. Instead, we’re using multimodal
+                models for OCR + vector geometry, callout graphs across the
+                entire set, constraint-based spatial checks, and
+                retrieval-augmented code interpretation. No more hard-coded
+                rules!
+              </p>
+              <p>
+                We’re processing residential, commercial, and industrial
+                projects today. Latency ranges from minutes to a few hours
+                depending on sheet count. There’s no onboarding required, simply
+                upload PDFs. There are still lots of edge cases (PDF extraction
+                weirdness, inconsistent layering, industry jargon), so we’re
+                learning a lot from failures, maybe more than successes. But the
+                tech is already delivering results that couldn’t be done with
+                previous tools.
+              </p>
+              <p>
+                Pricing is pay-as-you-go: we give an instant online quote per
+                project after you upload the project drawings. It’s hard to do
+                regular SaaS pricing since one project may be a home remodel and
+                another may be a highrise. We’re open to feedback on that too,
+                we’re still figuring it out.
+              </p>
+              <p>
+                If you work with drawings as an architect, engineer, MEP, GC
+                preconstruction, real estate developer, plan reviewer we’d love
+                a chance to run a sample set and hear what breaks, what’s
+                useful, and what’s missing!
+              </p>
+              <p>
+                We’ll be here all day to go into technical details about
+                geometry parsing, clustering failures, code reasoning attempts
+                or real-world construction stories about how things go wrong.
+                Thanks for reading! We’re happy to answer anything and look
+                forward to your comments!
+              </p>
+            </div>
+          </section>
+        </section>
+        <section id="46219346">
+          <h3>
+            <a class="item" href="https://neal.fun/size-of-life/"
+              >Size of Life</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2025-12-10 @ 16:02:57</span
+              ><span class="points-container"
+                >Points: <span class="points">119</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=46219346"
+                  >Comments</a
+                ><span class="descendants">: 28</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="46218800">
+          <h3>
+            <a
+              class="item"
+              href="https://www.qualcomm.com/news/releases/2025/12/qualcomm-acquires-ventana-micro-systems--deepening-risc-v-cpu-ex"
+              >Qualcomm acquires RISC-V focused Ventana Micro Systems</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2025-12-10 @ 15:30:46</span
+              ><span class="points-container"
+                >Points: <span class="points">12</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=46218800"
+                  >Comments</a
+                ><span class="descendants">: 4</span></span
+              >
+            </h4>
+          </section>
+        </section>
         <section id="46218725">
           <h3>
             <a
               class="item"
               href="https://e360.yale.edu/digest/new-york-congestion-pricing-pollution"
-              >In New York City, Congestion Pricing Leads to Marked Drop in
-              Pollution</a
+              >In New York City, congestion pricing leads to marked drop in
+              pollution</a
             >
           </h3>
           <section>
             <h4>
               <span>2025-12-10 @ 15:25:05</span
               ><span class="points-container"
-                >Points: <span class="points">232</span></span
+                >Points: <span class="points">257</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46218725"
                   >Comments</a
-                ><span class="descendants">: 174</span></span
+                ><span class="descendants">: 213</span></span
               >
             </h4>
           </section>
@@ -154,18 +356,18 @@
         <section id="46218538">
           <h3>
             <a class="item" href="https://tritium.legal/blog/outlook"
-              >Writing an Outlook Add-in in Rust</a
+              >COM Like a Bomb: Rust Outlook Add-in</a
             >
           </h3>
           <section>
             <h4>
               <span>2025-12-10 @ 15:10:36</span
               ><span class="points-container"
-                >Points: <span class="points">19</span></span
+                >Points: <span class="points">23</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46218538"
                   >Comments</a
-                ><span class="descendants">: 2</span></span
+                ><span class="descendants">: 9</span></span
               >
             </h4>
           </section>
@@ -186,7 +388,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46218202"
                   >Comments</a
-                ><span class="descendants">: 34</span></span
+                ><span class="descendants">: 38</span></span
               >
             </h4>
           </section>
@@ -203,11 +405,11 @@
             <h4>
               <span>2025-12-10 @ 06:22:19</span
               ><span class="points-container"
-                >Points: <span class="points">193</span></span
+                >Points: <span class="points">195</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46214693"
                   >Comments</a
-                ><span class="descendants">: 32</span></span
+                ><span class="descendants">: 33</span></span
               >
             </h4>
           </section>
@@ -222,55 +424,83 @@
             <h4>
               <span>2025-12-10 @ 03:15:24</span
               ><span class="points-container"
-                >Points: <span class="points">823</span></span
+                >Points: <span class="points">829</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46213585"
                   >Comments</a
-                ><span class="descendants">: 590</span></span
+                ><span class="descendants">: 602</span></span
               >
             </h4>
           </section>
         </section>
-        <section id="46213273">
+        <section id="46210748">
           <h3>
-            <a
-              class="item"
-              href="https://github.com/donlon/cloudflare-error-page"
-              >Cloudflare error page generator</a
+            <a class="item" href="https://www.bloodhoundsecurity.ca"
+              >Show HN: Bloodhound – Grey-box attack-path discovery in
+              Rust/Go/C++ binaries</a
             >
           </h3>
           <section>
             <h4>
-              <span>2025-12-10 @ 02:18:07</span
+              <span>2025-12-09 @ 21:14:15</span
               ><span class="points-container"
-                >Points: <span class="points">89</span></span
+                >Points: <span class="points">3</span></span
               ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=46213273"
+                ><a href="https://news.ycombinator.com/item?id=46210748"
                   >Comments</a
-                ><span class="descendants">: 14</span></span
+                ><span class="descendants">: 2</span></span
               >
             </h4>
-          </section>
-        </section>
-        <section id="46211802">
-          <h3>
-            <a
-              class="item"
-              href="http://www.kroah.com/log/blog/2025/12/08/linux-cves-more-than-you-ever-wanted-to-know/"
-              >Linux CVEs, more than you ever wanted to know</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2025-12-09 @ 22:47:36</span
-              ><span class="points-container"
-                >Points: <span class="points">87</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=46211802"
-                  >Comments</a
-                ><span class="descendants">: 47</span></span
-              >
-            </h4>
+            <div class="text">
+              <p>
+                We built a CLI tool to bridge this gap using grey box testing
+                from a red team approach. We use internal knowledge of the
+                codebase to guide parallel execution, allowing us to find
+                complex or hidden logic errors and attack paths standard
+                linters/scanners miss.
+              </p>
+              <p>
+                The Tech (Grey Box Graphing &amp; Execution): - Internal
+                Graphing (The Map): It ingests the codebase to build a
+                dependency graph of the internal logic. - Parallel Execution
+                (The Test): The code is then tested on parallel engines. We spin
+                up copies of your local dev environment to exercise the codebase
+                in thousands of ways. This is the validation that proves a bug
+                is real. - Logic Error Detection: Because It understands the
+                intended architecture (the graph) and sees the actual behavior
+                (execution), we can flag Logic Errors, (ex. race conditions,
+                state inconsistencies, memory leaks etc). - Tainted Flow
+                Mapping: We map tainted control flow over the dependency graph.
+                This highlights exactly how external input threads through your
+                logic to trigger a vulnerability. It then spins up a local
+                instance to replay this flow and confirm the exploit.
+              </p>
+              <p>
+                How it runs: It runs locally via CLI to maintain privacy with
+                secure repos and ease. Generates remediation via MD reports
+                pinpointing the line of the error and downstream effects.
+              </p>
+              <p>
+                The Trade-off: This approach trades power for speed and deep
+                testing. This testing engine is recommended for more
+                sophisticated systems.
+              </p>
+              <p>
+                Try it out: We are currently opening our beta VS extension for
+                early users.
+              </p>
+              <p>
+                Optimized for (Rust, C++, Go, Java) and IaC (Terraform, Docker,
+                K8s). Also supports Python, TS/JS, C#, PHP, and (20+ other
+                languages).
+              </p>
+              <p>
+                P.S. We are happy to run this ourselves on repos. If you
+                maintain a complex project and want to see if our engine can
+                find logic or security holes, drop a link or reach out via the
+                comments/site and we’ll do it and send the results.
+              </p>
+            </div>
           </section>
         </section>
         <section id="46210240">
@@ -285,7 +515,7 @@
             <h4>
               <span>2025-12-09 @ 20:33:14</span
               ><span class="points-container"
-                >Points: <span class="points">348</span></span
+                >Points: <span class="points">349</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46210240"
                   >Comments</a
@@ -304,11 +534,11 @@
             <h4>
               <span>2025-12-09 @ 18:54:55</span
               ><span class="points-container"
-                >Points: <span class="points">767</span></span
+                >Points: <span class="points">770</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46208962"
                   >Comments</a
-                ><span class="descendants">: 317</span></span
+                ><span class="descendants">: 320</span></span
               >
             </h4>
           </section>
@@ -325,33 +555,11 @@
             <h4>
               <span>2025-12-09 @ 18:42:27</span
               ><span class="points-container"
-                >Points: <span class="points">223</span></span
+                >Points: <span class="points">224</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46208773"
                   >Comments</a
                 ><span class="descendants">: 114</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="46208409">
-          <h3>
-            <a
-              class="item"
-              href="https://www.righto.com/2025/12/8087-stack-circuitry.html"
-              >The stack circuitry of the Intel 8087 floating point chip,
-              reverse-engineered</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2025-12-09 @ 18:16:44</span
-              ><span class="points-container"
-                >Points: <span class="points">130</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=46208409"
-                  >Comments</a
-                ><span class="descendants">: 56</span></span
               >
             </h4>
           </section>
@@ -372,7 +580,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46207505"
                   >Comments</a
-                ><span class="descendants">: 541</span></span
+                ><span class="descendants">: 546</span></span
               >
             </h4>
           </section>
@@ -388,11 +596,11 @@
             <h4>
               <span>2025-12-09 @ 17:08:37</span
               ><span class="points-container"
-                >Points: <span class="points">630</span></span
+                >Points: <span class="points">634</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46207464"
                   >Comments</a
-                ><span class="descendants">: 130</span></span
+                ><span class="descendants">: 134</span></span
               >
             </h4>
           </section>
@@ -414,7 +622,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46207425"
                   >Comments</a
-                ><span class="descendants">: 124</span></span
+                ><span class="descendants">: 125</span></span
               >
             </h4>
           </section>
@@ -450,11 +658,11 @@
             <h4>
               <span>2025-12-09 @ 15:51:32</span
               ><span class="points-container"
-                >Points: <span class="points">158</span></span
+                >Points: <span class="points">159</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46206277"
                   >Comments</a
-                ><span class="descendants">: 249</span></span
+                ><span class="descendants">: 252</span></span
               >
             </h4>
           </section>
@@ -471,11 +679,11 @@
             <h4>
               <span>2025-12-09 @ 15:03:09</span
               ><span class="points-container"
-                >Points: <span class="points">559</span></span
+                >Points: <span class="points">560</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46205661"
                   >Comments</a
-                ><span class="descendants">: 537</span></span
+                ><span class="descendants">: 538</span></span
               >
             </h4>
           </section>
@@ -485,39 +693,19 @@
             <a
               class="item"
               href="https://dosaygo-studio.github.io/hn-front-page-2035/news"
-              >Show HN: Gemini Pro 3 hallucinates the HN front page 10 years
-              from now</a
+              >Show HN: Gemini Pro 3 imagines the HN front page 10 years from
+              now</a
             >
           </h3>
           <section>
             <h4>
               <span>2025-12-09 @ 15:00:38</span
               ><span class="points-container"
-                >Points: <span class="points">3166</span></span
+                >Points: <span class="points">3176</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46205632"
                   >Comments</a
-                ><span class="descendants">: 905</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="46205519">
-          <h3>
-            <a class="item" href="https://github.com/KaijuEngine/kaiju"
-              >Kaiju – General purpose 3D/2D game engine in Go and Vulkan with
-              built in editor</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2025-12-09 @ 14:51:46</span
-              ><span class="points-container"
-                >Points: <span class="points">213</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=46205519"
-                  >Comments</a
-                ><span class="descendants">: 98</span></span
+                ><span class="descendants">: 907</span></span
               >
             </h4>
           </section>
@@ -532,7 +720,7 @@
             <h4>
               <span>2025-12-09 @ 14:45:01</span
               ><span class="points-container"
-                >Points: <span class="points">696</span></span
+                >Points: <span class="points">697</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46205437"
                   >Comments</a
@@ -553,11 +741,11 @@
             <h4>
               <span>2025-12-06 @ 05:36:48</span
               ><span class="points-container"
-                >Points: <span class="points">124</span></span
+                >Points: <span class="points">129</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46171008"
                   >Comments</a
-                ><span class="descendants">: 48</span></span
+                ><span class="descendants">: 53</span></span
               >
             </h4>
           </section>
@@ -575,11 +763,11 @@
             <h4>
               <span>2025-12-06 @ 04:31:42</span
               ><span class="points-container"
-                >Points: <span class="points">17</span></span
+                >Points: <span class="points">24</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46170707"
                   >Comments</a
-                ><span class="descendants">: 2</span></span
+                ><span class="descendants">: 3</span></span
               >
             </h4>
           </section>
@@ -596,30 +784,11 @@
             <h4>
               <span>2025-12-05 @ 17:15:01</span
               ><span class="points-container"
-                >Points: <span class="points">241</span></span
+                >Points: <span class="points">243</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46164197"
                   >Comments</a
-                ><span class="descendants">: 55</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="46158803">
-          <h3>
-            <a class="item" href="https://lonami.dev/blog/woce-1/"
-              >Writing our own Cheat Engine in Rust</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2025-12-05 @ 09:21:16</span
-              ><span class="points-container"
-                >Points: <span class="points">109</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=46158803"
-                  >Comments</a
-                ><span class="descendants">: 24</span></span
+                ><span class="descendants">: 56</span></span
               >
             </h4>
           </section>
@@ -637,11 +806,11 @@
             <h4>
               <span>2025-12-05 @ 01:22:29</span
               ><span class="points-container"
-                >Points: <span class="points">269</span></span
+                >Points: <span class="points">270</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46155740"
                   >Comments</a
-                ><span class="descendants">: 153</span></span
+                ><span class="descendants">: 156</span></span
               >
             </h4>
           </section>
@@ -651,18 +820,18 @@
             <a
               class="item"
               href="https://gizmodo.com/literally-a-map-showing-all-the-buildings-in-the-world-2000694696"
-              >Map of All the Buildings in the World</a
+              >Map of all the buildings in the world</a
             >
           </h3>
           <section>
             <h4>
               <span>2025-12-04 @ 22:43:33</span
               ><span class="points-container"
-                >Points: <span class="points">118</span></span
+                >Points: <span class="points">122</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46154220"
                   >Comments</a
-                ><span class="descendants">: 42</span></span
+                ><span class="descendants">: 45</span></span
               >
             </h4>
           </section>
@@ -679,33 +848,11 @@
             <h4>
               <span>2025-12-03 @ 21:42:48</span
               ><span class="points-container"
-                >Points: <span class="points">94</span></span
+                >Points: <span class="points">95</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46140579"
                   >Comments</a
-                ><span class="descendants">: 33</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="46140219">
-          <h3>
-            <a
-              class="item"
-              href="https://micromobility.io/news/how-charging-is-reshaping-the-business-of-shared-scooters-and-e-bikes"
-              >Passing the Torch: James Gross on the Next Chapter of
-              Micromobility Industries</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2025-12-03 @ 21:14:54</span
-              ><span class="points-container"
-                >Points: <span class="points">19</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=46140219"
-                  >Comments</a
-                ><span class="descendants">: 3</span></span
+                ><span class="descendants">: 34</span></span
               >
             </h4>
           </section>
@@ -741,11 +888,11 @@
             <h4>
               <span>2025-12-02 @ 22:44:37</span
               ><span class="points-container"
-                >Points: <span class="points">129</span></span
+                >Points: <span class="points">134</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46127981"
                   >Comments</a
-                ><span class="descendants">: 25</span></span
+                ><span class="descendants">: 26</span></span
               >
             </h4>
           </section>
