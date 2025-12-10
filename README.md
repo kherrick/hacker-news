@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-12-10, 04:29:30](https://news.ycombinator.com/item?id=46214091) - [Dependable C](https://dependablec.org/)
 * [2025-12-10, 03:33:14](https://news.ycombinator.com/item?id=46213709) - ['Source available' is not open source (and that's okay)](https://dri.es/source-available-is-not-open-source-and-that-is-okay)
 * [2025-12-10, 03:15:24](https://news.ycombinator.com/item?id=46213585) - [The end of the kernel Rust experiment](https://lwn.net/Articles/1049831/)
 * [2025-12-10, 02:18:07](https://news.ycombinator.com/item?id=46213273) - [Show all your application error using Cloudflare Error Page](https://github.com/donlon/cloudflare-error-page)
@@ -18,7 +19,6 @@
 * [2025-12-09, 17:01:11](https://news.ycombinator.com/item?id=46207360) - [Clearspace (YC W23) Is Hiring a Founding Designer](https://www.ycombinator.com/companies/clearspace/jobs/yamWTLr-founding-designer-at-clearspace)
 * [2025-12-09, 16:06:58](https://news.ycombinator.com/item?id=46206531) - [Handsdown one of the coolest 3D websites](https://bruno-simon.com/)
 * [2025-12-09, 15:51:32](https://news.ycombinator.com/item?id=46206277) - [A supersonic engine core makes the perfect power turbine](https://boomsupersonic.com/flyby/ai-needs-more-power-than-the-grid-can-deliver-supersonic-tech-can-fix-that)
-* [2025-12-09, 15:08:24](https://news.ycombinator.com/item?id=46205724) - [Apple's slow AI pace becomes a strength as market grows weary of spending](https://finance.yahoo.com/news/apple-slow-ai-pace-becomes-104658095.html)
 * [2025-12-09, 15:03:09](https://news.ycombinator.com/item?id=46205661) - [Pebble Index 01 – External memory for your brain](https://repebble.com/blog/meet-pebble-index-01-external-memory-for-your-brain)
 * [2025-12-09, 15:00:38](https://news.ycombinator.com/item?id=46205632) - [Show HN: Gemini Pro 3 hallucinates the HN front page 10 years from now](https://dosaygo-studio.github.io/hn-front-page-2035/news)
 * [2025-12-09, 14:51:46](https://news.ycombinator.com/item?id=46205519) - [Kaiju – General purpose 3D/2D game engine in Go and Vulkan with built in editor](https://github.com/KaijuEngine/kaiju)

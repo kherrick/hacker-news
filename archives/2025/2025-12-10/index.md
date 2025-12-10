@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-12-10](index.md)
 
+* [2025-12-10, 04:29:30](https://news.ycombinator.com/item?id=46214091) - [Dependable C](https://dependablec.org/)
 * [2025-12-10, 03:33:14](https://news.ycombinator.com/item?id=46213709) - ['Source available' is not open source (and that's okay)](https://dri.es/source-available-is-not-open-source-and-that-is-okay)
 * [2025-12-10, 03:15:24](https://news.ycombinator.com/item?id=46213585) - [The end of the kernel Rust experiment](https://lwn.net/Articles/1049831/)
 * [2025-12-10, 02:58:45](https://news.ycombinator.com/item?id=46213504) - [NYC congestion pricing cuts air pollution by 22% in six months](https://airqualitynews.com/cars-freight-transport/nyc-congestion-pricing-cuts-air-pollution-by-22-in-six-months/)
