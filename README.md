@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-12-10, 21:45:11](https://news.ycombinator.com/item?id=46224311) - [When Would You Ever Want Bubblesort?](https://buttondown.com/hillelwayne/archive/when-would-you-ever-want-bubblesort/)
 * [2025-12-10, 20:47:15](https://news.ycombinator.com/item?id=46223577) - [Apple Services Experiencing Outage](https://www.apple.com/support/systemstatus/)
 * [2025-12-10, 20:35:07](https://news.ycombinator.com/item?id=46223389) - [EFF Launches Age Verification Hub as Resource Against Misguided Laws](https://www.eff.org/press/releases/eff-launches-age-verification-hub-resource-against-misguided-laws)
 * [2025-12-10, 20:29:12](https://news.ycombinator.com/item?id=46223311) - [Getting a Gemini API key is an exercise in frustration](https://ankursethi.com/blog/gemini-api-key-frustration/)
@@ -24,7 +25,6 @@
 * [2025-12-10, 06:22:19](https://news.ycombinator.com/item?id=46214693) - [Revisiting \"Let's Build a Compiler\"](https://eli.thegreenplace.net/2025/revisiting-lets-build-a-compiler/)
 * [2025-12-09, 18:12:29](https://news.ycombinator.com/item?id=46208348) - [Australia begins enforcing world-first teen social media ban](https://www.reuters.com/legal/litigation/australia-social-media-ban-takes-effect-world-first-2025-12-09/)
 * [2025-12-08, 22:37:28](https://news.ycombinator.com/item?id=46198606) - [Why the Sanitizer API is just `setHTML()`](https://frederikbraun.de/why-sethtml.html)
-* [2025-12-08, 18:13:59](https://news.ycombinator.com/item?id=46195679) - [Deprecations via warnings don't work for Python libraries](https://sethmlarson.dev/deprecations-via-warnings-dont-work-for-python-libraries)
 * [2025-12-06, 04:57:15](https://news.ycombinator.com/item?id=46170847) - [Largest EV manufacturer is coming to the Western market](https://newatlas.com/motorcycles/yadea-comes-to-europe/)
 * [2025-12-05, 15:34:49](https://news.ycombinator.com/item?id=46162643) - [Typewriter Plotters (2022)](https://biosrhythm.com/?p=2143)
 * [2025-12-04, 18:11:21](https://news.ycombinator.com/item?id=46150797) - [Scientists create ultra fast memory using light](https://www.isi.edu/news/81186/scientists-create-ultra-fast-memory-using-light/)

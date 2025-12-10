@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-12-10](index.md)
 
+* [2025-12-10, 21:45:11](https://news.ycombinator.com/item?id=46224311) - [When Would You Ever Want Bubblesort?](https://buttondown.com/hillelwayne/archive/when-would-you-ever-want-bubblesort/)
 * [2025-12-10, 20:47:15](https://news.ycombinator.com/item?id=46223577) - [Apple Services Experiencing Outage](https://www.apple.com/support/systemstatus/)
 * [2025-12-10, 20:35:07](https://news.ycombinator.com/item?id=46223389) - [EFF Launches Age Verification Hub as Resource Against Misguided Laws](https://www.eff.org/press/releases/eff-launches-age-verification-hub-resource-against-misguided-laws)
 * [2025-12-10, 20:29:12](https://news.ycombinator.com/item?id=46223311) - [Getting a Gemini API key is an exercise in frustration](https://ankursethi.com/blog/gemini-api-key-frustration/)
