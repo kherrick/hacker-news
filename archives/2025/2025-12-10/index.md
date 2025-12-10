@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2025-12-10](index.md)
 
+* [2025-12-10, 14:39:05](https://news.ycombinator.com/item?id=46218202) - [The New Kindle Scribes Are Great, but Not Great Enough](https://www.wired.com/review/kindle-scribe-colorsoft-2025/)
 * [2025-12-10, 14:01:12](https://news.ycombinator.com/item?id=46217793) - [Taxing Growth](https://www.equitileconversations.com/2459100/episodes/18312924-taxing-growth)
+* [2025-12-10, 13:41:56](https://news.ycombinator.com/item?id=46217608) - [I Tried the New Android XR Smart Glasses from Google and XReal](https://www.pcmag.com/news/i-tried-the-new-android-xr-smart-glasses-from-google-they-impressed-me)
+* [2025-12-10, 13:39:16](https://news.ycombinator.com/item?id=46217578) - [New benchmark shows top LLMs struggle in real mental health care](https://swordhealth.com/newsroom/sword-introduces-mindeval)
 * [2025-12-10, 13:36:52](https://news.ycombinator.com/item?id=46217559) - [Apple Faces Scrutiny as Sanctioned Entities Slip Through App Store Controls](https://www.washingtonpost.com/technology/2025/12/10/us-sanctions-apple-google/)
 * [2025-12-10, 12:57:38](https://news.ycombinator.com/item?id=46217176) - [McDonald's pulls AI Christmas ad after backlash](https://www.bbc.co.uk/news/articles/czdgrnvp082o)
 * [2025-12-10, 12:37:30](https://news.ycombinator.com/item?id=46217026) - [US could ask foreign tourists for five-year social media history before entry](https://www.bbc.co.uk/news/articles/c1dz0g2ykpeo)
