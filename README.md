@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-12-10, 17:20:06](https://news.ycombinator.com/item?id=46220488) - [Valve: HDMI Forum Continues to Block HDMI 2.1 for Linux](https://www.heise.de/en/news/Valve-HDMI-Forum-Continues-to-Block-HDMI-2-1-for-Linux-11107440.html)
 * [2025-12-10, 17:00:22](https://news.ycombinator.com/item?id=46220211) - [9 Mothers (YC X26) Is Hiring](https://app.dover.com/jobs/9mothers)
 * [2025-12-10, 16:34:52](https://news.ycombinator.com/item?id=46219853) - [DeepSeek uses banned Nvidia chips for AI model, report says](https://finance.yahoo.com/news/china-deepseek-uses-banned-nvidia-131207746.html)
 * [2025-12-10, 16:13:57](https://news.ycombinator.com/item?id=46219544) - [England Historic Aerial Photo Explorer](https://historicengland.org.uk/images-books/archive/collections/aerial-photos/)
@@ -25,7 +26,6 @@
 * [2025-12-06, 04:31:42](https://news.ycombinator.com/item?id=46170707) - [Volcanic eruptions set off a chain of events that brought Black Death to Europe](https://www.cam.ac.uk/stories/volcanoes-black-death)
 * [2025-12-05, 17:15:01](https://news.ycombinator.com/item?id=46164197) - [When a video codec wins an Emmy](https://blog.mozilla.org/en/mozilla/av1-video-codec-wins-emmy/)
 * [2025-12-05, 15:34:49](https://news.ycombinator.com/item?id=46162643) - [Typewriter Plotters (2022)](https://biosrhythm.com/?p=2143)
-* [2025-12-05, 07:14:15](https://news.ycombinator.com/item?id=46157624) - [Cloudspecs: Cloud Hardware Evolution Through the Looking Glass [pdf]](https://www.cs.cit.tum.de/fileadmin/w00cfj/dis/papers/cloudspecs-final.pdf)
 * [2025-12-04, 22:43:33](https://news.ycombinator.com/item?id=46154220) - [Map of all the buildings in the world](https://gizmodo.com/literally-a-map-showing-all-the-buildings-in-the-world-2000694696)
 * [2025-12-04, 18:01:09](https://news.ycombinator.com/item?id=46150677) - [Super-Flat ASTs](https://jhwlr.io/super-flat-ast/)
 * [2025-12-04, 01:10:28](https://news.ycombinator.com/item?id=46142589) - [Golang's big miss on memory arenas](https://avittig.medium.com/golangs-big-miss-on-memory-arenas-f1375524cc90)
