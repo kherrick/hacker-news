@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-12-10](index.md)
 
+* [2025-12-10, 03:15:24](https://news.ycombinator.com/item?id=46213585) - [The end of the kernel Rust experiment](https://lwn.net/Articles/1049831/)
 * [2025-12-10, 02:58:45](https://news.ycombinator.com/item?id=46213504) - [NYC congestion pricing cuts air pollution by 22% in six months](https://airqualitynews.com/cars-freight-transport/nyc-congestion-pricing-cuts-air-pollution-by-22-in-six-months/)
 * [2025-12-10, 02:37:34](https://news.ycombinator.com/item?id=46213385) - [Making macOS Bearable](https://seg6.space/posts/making-macos-bearable/)
 * [2025-12-10, 02:18:07](https://news.ycombinator.com/item?id=46213273) - [Show all your application error using Cloudflare Error Page](https://github.com/donlon/cloudflare-error-page)
