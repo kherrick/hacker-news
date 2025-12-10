@@ -21,16 +21,6 @@
   ],
   [
     [
-      "2025-12-10, 20:35:07",
-      "https://news.ycombinator.com/item?id=46223389"
-    ],
-    [
-      "EFF Launches Age Verification Hub as Resource Against Misguided Laws",
-      "https://www.eff.org/press/releases/eff-launches-age-verification-hub-resource-against-misguided-laws"
-    ]
-  ],
-  [
-    [
       "2025-12-10, 20:29:12",
       "https://news.ycombinator.com/item?id=46223311"
     ],
@@ -41,12 +31,12 @@
   ],
   [
     [
-      "2025-12-10, 19:19:17",
-      "https://news.ycombinator.com/item?id=46222237"
+      "2025-12-10, 19:14:03",
+      "https://news.ycombinator.com/item?id=46222165"
     ],
     [
-      "I got an Nvidia GH200 server for €7.5k on Reddit and converted it to a desktop",
-      "https://dnhkng.github.io/posts/hopper/"
+      "The future of Terraform CDK",
+      "https://github.com/hashicorp/terraform-cdk"
     ]
   ],
   [
@@ -97,6 +87,16 @@
     [
       "Show HN: Automated license plate reader coverage in the USA",
       "https://alpranalysis.com"
+    ]
+  ],
+  [
+    [
+      "2025-12-10, 17:30:43",
+      "https://news.ycombinator.com/item?id=46220640"
+    ],
+    [
+      "Is it a bubble?",
+      "https://www.oaktreecapital.com/insights/memo/is-it-a-bubble"
     ]
   ],
   [
@@ -231,16 +231,6 @@
   ],
   [
     [
-      "2025-12-08, 22:37:28",
-      "https://news.ycombinator.com/item?id=46198606"
-    ],
-    [
-      "Why the Sanitizer API is just `setHTML()`",
-      "https://frederikbraun.de/why-sethtml.html"
-    ]
-  ],
-  [
-    [
       "2025-12-06, 04:57:15",
       "https://news.ycombinator.com/item?id=46170847"
     ],
@@ -277,6 +267,16 @@
     [
       "Should CSS be constraints?",
       "https://pavpanchekha.com/blog/why-css-bad.html"
+    ]
+  ],
+  [
+    [
+      "2025-12-04, 01:10:28",
+      "https://news.ycombinator.com/item?id=46142589"
+    ],
+    [
+      "Golang's big miss on memory arenas",
+      "https://avittig.medium.com/golangs-big-miss-on-memory-arenas-f1375524cc90"
     ]
   ],
   [
