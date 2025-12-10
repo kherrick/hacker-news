@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-12-10, 03:33:14](https://news.ycombinator.com/item?id=46213709) - ['Source available' is not open source (and that's okay)](https://dri.es/source-available-is-not-open-source-and-that-is-okay)
 * [2025-12-10, 03:15:24](https://news.ycombinator.com/item?id=46213585) - [The end of the kernel Rust experiment](https://lwn.net/Articles/1049831/)
 * [2025-12-10, 02:41:11](https://news.ycombinator.com/item?id=46213406) - [Atomic time source failure at NIST Gaithersburg campus](https://groups.google.com/a/list.nist.gov/g/internet-time-service/c/Zd7VaR-vqV4?pli=1)
 * [2025-12-10, 02:18:07](https://news.ycombinator.com/item?id=46213273) - [Show all your application error using Cloudflare Error Page](https://github.com/donlon/cloudflare-error-page)
@@ -22,7 +23,6 @@
 * [2025-12-09, 15:03:09](https://news.ycombinator.com/item?id=46205661) - [Pebble Index 01 – External memory for your brain](https://repebble.com/blog/meet-pebble-index-01-external-memory-for-your-brain)
 * [2025-12-09, 15:00:38](https://news.ycombinator.com/item?id=46205632) - [Show HN: Gemini Pro 3 hallucinates the HN front page 10 years from now](https://dosaygo-studio.github.io/hn-front-page-2035/news)
 * [2025-12-09, 14:51:46](https://news.ycombinator.com/item?id=46205519) - [Kaiju – General purpose 3D/2D game engine in Go and Vulkan with built in editor](https://github.com/KaijuEngine/kaiju)
-* [2025-12-09, 14:47:20](https://news.ycombinator.com/item?id=46205461) - [My favourite small hash table](https://www.corsix.org/content/my-favourite-small-hash-table)
 * [2025-12-09, 14:45:01](https://news.ycombinator.com/item?id=46205437) - [Mistral releases Devstral2 and Mistral Vibe CLI](https://mistral.ai/news/devstral-2-vibe-cli)
 * [2025-12-09, 09:13:56](https://news.ycombinator.com/item?id=46202921) - [30 Year Anniversary of WarCraft II: Tides of Darkness](https://www.jorsys.org/archive/december_2025.html#newsitem_2025-12-09T07:42:19Z)
 * [2025-12-06, 09:13:02](https://news.ycombinator.com/item?id=46171844) - [Distributed ID Formats Are Architectural Commitments, Not Just Data Types](https://piljoong.dev/posts/distributed-id-generation-complicated/)
