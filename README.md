@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-12-10, 12:37:30](https://news.ycombinator.com/item?id=46217026) - [US could ask foreign tourists for five-year social media history before entry](https://www.bbc.co.uk/news/articles/c1dz0g2ykpeo)
+* [2025-12-10, 12:57:38](https://news.ycombinator.com/item?id=46217176) - [McDonald's pulls AI Christmas ad after backlash](https://www.bbc.co.uk/news/articles/czdgrnvp082o)
 * [2025-12-10, 06:22:19](https://news.ycombinator.com/item?id=46214693) - [Revisiting \"Let's Build a Compiler\"](https://eli.thegreenplace.net/2025/revisiting-lets-build-a-compiler/)
 * [2025-12-10, 06:08:50](https://news.ycombinator.com/item?id=46214617) - [Are the Three Musketeers allergic to muskets? (2014)](https://www.ox.ac.uk/news/arts-blog/are-three-musketeers-allergic-muskets)
 * [2025-12-10, 03:15:24](https://news.ycombinator.com/item?id=46213585) - [Rust in the kernel is no longer experimental](https://lwn.net/Articles/1049831/)
@@ -25,7 +25,7 @@
 * [2025-12-05, 17:15:01](https://news.ycombinator.com/item?id=46164197) - [When a video codec wins an Emmy](https://blog.mozilla.org/en/mozilla/av1-video-codec-wins-emmy/)
 * [2025-12-05, 09:21:16](https://news.ycombinator.com/item?id=46158803) - [Writing our own Cheat Engine in Rust](https://lonami.dev/blog/woce-1/)
 * [2025-12-05, 01:22:29](https://news.ycombinator.com/item?id=46155740) - [Italy's longest-serving barista reflects on six decades behind the counter](https://www.reuters.com/lifestyle/culture-current/anna-possi-six-decades-behind-counter-italys-bar-centrale-2025-11-20/)
-* [2025-12-04, 14:26:30](https://news.ycombinator.com/item?id=46147996) - [Operando interlayer expansion of curved graphene for dense supercapacitors](https://www.nature.com/articles/s41467-025-63485-0)
+* [2025-12-04, 22:43:33](https://news.ycombinator.com/item?id=46154220) - [Map of All the Buildings in the World](https://gizmodo.com/literally-a-map-showing-all-the-buildings-in-the-world-2000694696)
 * [2025-12-03, 21:42:48](https://news.ycombinator.com/item?id=46140579) - [Putting email in its place with Emacs and Mu4e](https://eamonnsullivan.co.uk/posts-output/email-setup/2025-12-3-putting-email-in-its-place/)
 * [2025-12-03, 21:14:54](https://news.ycombinator.com/item?id=46140219) - [Passing the Torch: James Gross on the Next Chapter of Micromobility Industries](https://micromobility.io/news/how-charging-is-reshaping-the-business-of-shared-scooters-and-e-bikes)
 * [2025-12-02, 23:48:19](https://news.ycombinator.com/item?id=46128523) - [Running Linux on a RiscPC – why is it so hard?](https://thejpster.org.uk/blog/blog-2025-12-02/)
