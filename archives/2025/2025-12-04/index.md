@@ -35,6 +35,7 @@
 * [2025-12-04, 16:25:31](https://news.ycombinator.com/item?id=46149375) - [Autism should not be treated as a single condition](https://www.economist.com/science-and-technology/2025/12/03/why-autism-should-not-be-treated-as-a-single-condition)
 * [2025-12-04, 16:03:02](https://news.ycombinator.com/item?id=46149066) - [Feynman vs. Computer](https://entropicthoughts.com/feynman-vs-computer)
 * [2025-12-04, 15:57:21](https://news.ycombinator.com/item?id=46149019) - [Bootloader Unlock Wall of Shame](https://github.com/zenfyrdev/bootloader-unlock-wall-of-shame)
+* [2025-12-04, 15:55:30](https://news.ycombinator.com/item?id=46148995) - [Rust: Proof of Concept, Not Replacement](https://files.neoon.com/rust-game-over-203X.html)
 * [2025-12-04, 15:33:14](https://news.ycombinator.com/item?id=46148763) - [The Free Software Foundation Europe deleted its account on X](https://fsfe.org/news/2025/news-20251204-01.en.html)
 * [2025-12-04, 15:31:52](https://news.ycombinator.com/item?id=46148748) - [Microsoft drops AI sales targets in half after salespeople miss their quotas](https://arstechnica.com/ai/2025/12/microsoft-slashes-ai-sales-growth-targets-as-customers-resist-unproven-agents/)
 * [2025-12-04, 15:31:12](https://news.ycombinator.com/item?id=46148744) - [Proxmox Datacenter Manager 1.0 available](https://www.proxmox.com/en/about/company-details/press-releases/proxmox-datacenter-manager-1-0)
