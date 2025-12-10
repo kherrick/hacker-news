@@ -52,6 +52,7 @@
 * [2025-12-03, 14:42:02](https://news.ycombinator.com/item?id=46135008) - [Mapping Every Dollar of America's $5T Healthcare System](https://healthisotherpeople.substack.com/p/an-abominable-creature)
 * [2025-12-03, 14:40:25](https://news.ycombinator.com/item?id=46134991) - [GSWT: Gaussian Splatting Wang Tiles](https://yunfan.zone/gswt_webpage/)
 * [2025-12-03, 14:38:20](https://news.ycombinator.com/item?id=46134969) - [Agentic QA – Open-source middleware to fuzz-test agents for loops](https://news.ycombinator.com/item?id=46134969)
+* [2025-12-03, 14:00:14](https://news.ycombinator.com/item?id=46134541) - [Show HN: VoxCSS – A DOM based voxel engine](https://github.com/LayoutitStudio/voxcss)
 * [2025-12-03, 13:50:10](https://news.ycombinator.com/item?id=46134443) - [Congressional lawmakers 47% pts better at picking stocks](https://www.nber.org/papers/w34524)
 * [2025-12-03, 13:20:58](https://news.ycombinator.com/item?id=46134178) - [Helldivers 2 devs slash install size from 154GB to 23GB](https://www.tomshardware.com/video-games/pc-gaming/helldivers-2-install-size-slashed-from-154gb-to-just-23gb-85-percent-reduction-accomplished-by-de-duplicating-game-data-an-optimization-for-older-mechanical-hard-drives)
 * [2025-12-03, 13:19:14](https://news.ycombinator.com/item?id=46134164) - [Joyboard is a balance board peripheral for the Atari 2600](https://en.wikipedia.org/wiki/Joyboard)

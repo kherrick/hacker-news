@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-12-10](index.md)
 
+* [2025-12-10, 22:10:25](https://news.ycombinator.com/item?id=46224610) - [Rubio orders return to Times New Roman font over 'wasteful' Calibri](https://www.bbc.com/news/articles/cgkez3367xmo)
 * [2025-12-10, 21:45:11](https://news.ycombinator.com/item?id=46224311) - [When Would You Ever Want Bubblesort?](https://buttondown.com/hillelwayne/archive/when-would-you-ever-want-bubblesort/)
 * [2025-12-10, 20:47:15](https://news.ycombinator.com/item?id=46223577) - [Apple Services Experiencing Outage](https://www.apple.com/support/systemstatus/)
 * [2025-12-10, 20:35:07](https://news.ycombinator.com/item?id=46223389) - [EFF Launches Age Verification Hub as Resource Against Misguided Laws](https://www.eff.org/press/releases/eff-launches-age-verification-hub-resource-against-misguided-laws)
@@ -40,6 +41,7 @@
 * [2025-12-10, 12:57:38](https://news.ycombinator.com/item?id=46217176) - [McDonald's pulls AI Christmas ad after backlash](https://www.bbc.co.uk/news/articles/czdgrnvp082o)
 * [2025-12-10, 12:37:30](https://news.ycombinator.com/item?id=46217026) - [US could ask foreign tourists for five-year social media history before entry](https://www.bbc.co.uk/news/articles/c1dz0g2ykpeo)
 * [2025-12-10, 11:33:31](https://news.ycombinator.com/item?id=46216583) - [Factor 0.101 now available](https://re.factorcode.org/2025/12/factor-0-101-now-available.html)
+* [2025-12-10, 11:10:58](https://news.ycombinator.com/item?id=46216446) - [Common Lisp, ASDF, and Quicklisp: packaging explained](https://cdegroot.com/programming/commonlisp/2025/11/26/cl-ql-asdf.html)
 * [2025-12-10, 09:15:18](https://news.ycombinator.com/item?id=46215688) - [Big Tech are the new Soviets](https://unherd.com/2025/12/big-tech-are-the-new-soviets/)
 * [2025-12-10, 07:06:55](https://news.ycombinator.com/item?id=46214950) - [Stop Breaking TLS](https://www.markround.com/blog/2025/12/09/stop-breaking-tls/)
 * [2025-12-10, 06:22:19](https://news.ycombinator.com/item?id=46214693) - [Revisiting \"Let's Build a Compiler\"](https://eli.thegreenplace.net/2025/revisiting-lets-build-a-compiler/)
