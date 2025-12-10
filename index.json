@@ -1,6 +1,46 @@
 [
   [
     [
+      "2025-12-10, 19:14:03",
+      "https://news.ycombinator.com/item?id=46222165"
+    ],
+    [
+      "Terraform CDK has been phased out",
+      "https://github.com/hashicorp/terraform-cdk"
+    ]
+  ],
+  [
+    [
+      "2025-12-10, 18:58:55",
+      "https://news.ycombinator.com/item?id=46221925"
+    ],
+    [
+      "Super Mario 64 for the PS1",
+      "https://github.com/malucard/sm64-psx"
+    ]
+  ],
+  [
+    [
+      "2025-12-10, 18:37:27",
+      "https://news.ycombinator.com/item?id=46221594"
+    ],
+    [
+      "Terrain Diffusion: A Diffusion-Based Successor to Perlin Noise",
+      "https://arxiv.org/abs/2512.08309"
+    ]
+  ],
+  [
+    [
+      "2025-12-10, 18:24:13",
+      "https://news.ycombinator.com/item?id=46221404"
+    ],
+    [
+      "Intermittent Hypoxia Increases Blood Flow and Benefits Executive Function",
+      "https://onlinelibrary.wiley.com/doi/10.1111/psyp.70161"
+    ]
+  ],
+  [
+    [
       "2025-12-10, 17:49:28",
       "https://news.ycombinator.com/item?id=46220902"
     ],
@@ -141,16 +181,6 @@
   ],
   [
     [
-      "2025-12-10, 13:39:16",
-      "https://news.ycombinator.com/item?id=46217578"
-    ],
-    [
-      "New benchmark shows top LLMs struggle in real mental health care",
-      "https://swordhealth.com/newsroom/sword-introduces-mindeval"
-    ]
-  ],
-  [
-    [
       "2025-12-10, 11:33:31",
       "https://news.ycombinator.com/item?id=46216583"
     ],
@@ -191,16 +221,6 @@
   ],
   [
     [
-      "2025-12-09, 16:06:58",
-      "https://news.ycombinator.com/item?id=46206531"
-    ],
-    [
-      "Bruno Simon – 3D Portfolio",
-      "https://bruno-simon.com/"
-    ]
-  ],
-  [
-    [
       "2025-12-08, 22:37:28",
       "https://news.ycombinator.com/item?id=46198606"
     ],
@@ -227,16 +247,6 @@
     [
       "Volcanic eruptions set off a chain of events that brought Black Death to Europe",
       "https://www.cam.ac.uk/stories/volcanoes-black-death"
-    ]
-  ],
-  [
-    [
-      "2025-12-05, 17:15:01",
-      "https://news.ycombinator.com/item?id=46164197"
-    ],
-    [
-      "When a video codec wins an Emmy",
-      "https://blog.mozilla.org/en/mozilla/av1-video-codec-wins-emmy/"
     ]
   ],
   [
@@ -277,16 +287,6 @@
     [
       "Golang's big miss on memory arenas",
       "https://avittig.medium.com/golangs-big-miss-on-memory-arenas-f1375524cc90"
-    ]
-  ],
-  [
-    [
-      "2025-12-02, 22:44:37",
-      "https://news.ycombinator.com/item?id=46127981"
-    ],
-    [
-      "Cloth Simulation",
-      "https://cloth.mikail-khan.com/"
     ]
   ],
   [
