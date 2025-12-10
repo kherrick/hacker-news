@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-12-10, 03:33:14",
+      "https://news.ycombinator.com/item?id=46213709"
+    ],
+    [
+      "'Source available' is not open source (and that's okay)",
+      "https://dri.es/source-available-is-not-open-source-and-that-is-okay"
+    ]
+  ],
+  [
+    [
       "2025-12-10, 03:15:24",
       "https://news.ycombinator.com/item?id=46213585"
     ],
@@ -217,16 +227,6 @@
     [
       "Kaiju – General purpose 3D/2D game engine in Go and Vulkan with built in editor",
       "https://github.com/KaijuEngine/kaiju"
-    ]
-  ],
-  [
-    [
-      "2025-12-09, 14:47:20",
-      "https://news.ycombinator.com/item?id=46205461"
-    ],
-    [
-      "My favourite small hash table",
-      "https://www.corsix.org/content/my-favourite-small-hash-table"
     ]
   ],
   [
