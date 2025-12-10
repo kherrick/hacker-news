@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-12-10](index.md)
 
+* [2025-12-10, 07:06:55](https://news.ycombinator.com/item?id=46214950) - [Stop Breaking TLS](https://www.markround.com/blog/2025/12/09/stop-breaking-tls/)
 * [2025-12-10, 06:22:19](https://news.ycombinator.com/item?id=46214693) - [Revisiting \"Let's Build a Compiler\"](https://eli.thegreenplace.net/2025/revisiting-lets-build-a-compiler/)
 * [2025-12-10, 06:08:50](https://news.ycombinator.com/item?id=46214617) - [Are the Three Musketeers allergic to muskets?(2014)](https://www.ox.ac.uk/news/arts-blog/are-three-musketeers-allergic-muskets)
 * [2025-12-10, 04:29:30](https://news.ycombinator.com/item?id=46214091) - [Dependable C](https://dependablec.org/)

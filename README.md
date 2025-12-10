@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-12-10, 07:06:55](https://news.ycombinator.com/item?id=46214950) - [Stop Breaking TLS](https://www.markround.com/blog/2025/12/09/stop-breaking-tls/)
 * [2025-12-10, 06:22:19](https://news.ycombinator.com/item?id=46214693) - [Revisiting \"Let's Build a Compiler\"](https://eli.thegreenplace.net/2025/revisiting-lets-build-a-compiler/)
 * [2025-12-10, 06:08:50](https://news.ycombinator.com/item?id=46214617) - [Are the Three Musketeers allergic to muskets?(2014)](https://www.ox.ac.uk/news/arts-blog/are-three-musketeers-allergic-muskets)
 * [2025-12-10, 04:29:30](https://news.ycombinator.com/item?id=46214091) - [Dependable C](https://dependablec.org/)
@@ -9,7 +10,6 @@
 * [2025-12-09, 22:47:36](https://news.ycombinator.com/item?id=46211802) - [Linux CVEs, more than you ever wanted to know](http://www.kroah.com/log/blog/2025/12/08/linux-cves-more-than-you-ever-wanted-to-know/)
 * [2025-12-09, 21:19:37](https://news.ycombinator.com/item?id=46210806) - [Qt, Linux and everything: Debugging Qt WebAssembly](http://qtandeverything.blogspot.com/2025/12/debugging-qt-webassembly-dwarf.html)
 * [2025-12-09, 20:33:14](https://news.ycombinator.com/item?id=46210240) - [Django: what’s new in 6.0](https://adamj.eu/tech/2025/12/03/django-whats-new-6.0/)
-* [2025-12-09, 20:00:39](https://news.ycombinator.com/item?id=46209846) - [Agentic AI Foundation](https://block.xyz/inside/block-anthropic-and-openai-launch-the-agentic-ai-foundation)
 * [2025-12-09, 18:54:55](https://news.ycombinator.com/item?id=46208962) - [10 Years of Let's Encrypt](https://letsencrypt.org/2025/12/09/10-years)
 * [2025-12-09, 18:42:27](https://news.ycombinator.com/item?id=46208773) - [So you want to speak at software conferences?](https://dylanbeattie.net/2025/12/08/so-you-want-to-speak-at-software-conferences.html)
 * [2025-12-09, 18:16:44](https://news.ycombinator.com/item?id=46208409) - [The stack circuitry of the Intel 8087 floating point chip, reverse-engineered](https://www.righto.com/2025/12/8087-stack-circuitry.html)
