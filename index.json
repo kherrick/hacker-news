@@ -1,12 +1,52 @@
 [
   [
     [
-      "2025-12-10, 00:59:05",
-      "https://news.ycombinator.com/item?id=46212782"
+      "2025-12-10, 02:58:45",
+      "https://news.ycombinator.com/item?id=46213504"
     ],
     [
-      "Rubio Deletes Calibri as the State Department's Official Typeface",
-      "https://www.nytimes.com/2025/12/09/us/politics/rubio-state-department-font.html"
+      "NYC congestion pricing cuts air pollution by 22% in six months",
+      "https://airqualitynews.com/cars-freight-transport/nyc-congestion-pricing-cuts-air-pollution-by-22-in-six-months/"
+    ]
+  ],
+  [
+    [
+      "2025-12-10, 02:37:34",
+      "https://news.ycombinator.com/item?id=46213385"
+    ],
+    [
+      "Making macOS Bearable",
+      "https://seg6.space/posts/making-macos-bearable/"
+    ]
+  ],
+  [
+    [
+      "2025-12-10, 02:18:07",
+      "https://news.ycombinator.com/item?id=46213273"
+    ],
+    [
+      "Show all your application error using Cloudflare Error Page",
+      "https://github.com/donlon/cloudflare-error-page"
+    ]
+  ],
+  [
+    [
+      "2025-12-10, 01:36:56",
+      "https://news.ycombinator.com/item?id=46213045"
+    ],
+    [
+      "The AI-Education Death Spiral a.k.a. Let the Kids Cheat",
+      "https://anandsanwal.me/ai-education-death-spiral/"
+    ]
+  ],
+  [
+    [
+      "2025-12-10, 01:25:00",
+      "https://news.ycombinator.com/item?id=46212969"
+    ],
+    [
+      "Post-transformer inference: 224× compression of Llama-70B with improved accuracy",
+      "https://zenodo.org/records/17873275"
     ]
   ],
   [
@@ -131,16 +171,6 @@
   ],
   [
     [
-      "2025-12-09, 16:37:55",
-      "https://news.ycombinator.com/item?id=46207017"
-    ],
-    [
-      "Launch HN: Mentat (YC F24) – Controlling LLMs with Runtime Intervention",
-      "https://news.ycombinator.com/item?id=46207017"
-    ]
-  ],
-  [
-    [
       "2025-12-09, 16:06:58",
       "https://news.ycombinator.com/item?id=46206531"
     ],
@@ -231,6 +261,16 @@
   ],
   [
     [
+      "2025-12-05, 17:15:01",
+      "https://news.ycombinator.com/item?id=46164197"
+    ],
+    [
+      "When a video codec wins an Emmy",
+      "https://blog.mozilla.org/en/mozilla/av1-video-codec-wins-emmy/"
+    ]
+  ],
+  [
+    [
       "2025-12-05, 09:21:16",
       "https://news.ycombinator.com/item?id=46158803"
     ],
@@ -257,46 +297,6 @@
     [
       "Operando interlayer expansion of curved graphene for dense supercapacitors",
       "https://www.nature.com/articles/s41467-025-63485-0"
-    ]
-  ],
-  [
-    [
-      "2025-12-04, 08:33:33",
-      "https://news.ycombinator.com/item?id=46145154"
-    ],
-    [
-      "The Mysterious Realm of JavaScriptCore (2021)",
-      "https://www.cyberark.com/resources/threat-research-blog/the-mysterious-realm-of-javascriptcore"
-    ]
-  ],
-  [
-    [
-      "2025-12-03, 17:50:17",
-      "https://news.ycombinator.com/item?id=46137596"
-    ],
-    [
-      "Transformers know more than they can tell: Learning the Collatz sequence",
-      "https://www.arxiv.org/pdf/2511.10811"
-    ]
-  ],
-  [
-    [
-      "2025-12-02, 18:17:48",
-      "https://news.ycombinator.com/item?id=46124425"
-    ],
-    [
-      "LLM from scratch, part 28 – training a base model from scratch on an RTX 3090",
-      "https://www.gilesthomas.com/2025/12/llm-from-scratch-28-training-a-base-model-from-scratch"
-    ]
-  ],
-  [
-    [
-      "2025-12-01, 20:45:07",
-      "https://news.ycombinator.com/item?id=46112965"
-    ],
-    [
-      "ULID: Universally Unique Lexicographically Sortable Identifier",
-      "https://packagemain.tech/p/ulid-identifier-golang-postgres"
     ]
   ]
 ]
