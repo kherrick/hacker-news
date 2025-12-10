@@ -1,11 +1,61 @@
 [
   [
     [
+      "2025-12-10, 16:13:57",
+      "https://news.ycombinator.com/item?id=46219544"
+    ],
+    [
+      "England Historic Aerial Photo Explorer",
+      "https://historicengland.org.uk/images-books/archive/collections/aerial-photos/"
+    ]
+  ],
+  [
+    [
+      "2025-12-10, 16:13:38",
+      "https://news.ycombinator.com/item?id=46219538"
+    ],
+    [
+      "Qwen3-Omni-Flash-2025-12-01：a next-generation native multimodal large model",
+      "https://qwen.ai/blog?id=qwen3-omni-flash-20251201"
+    ]
+  ],
+  [
+    [
+      "2025-12-10, 16:05:03",
+      "https://news.ycombinator.com/item?id=46219386"
+    ],
+    [
+      "Launch HN: InspectMind (YC W24) – AI agent for reviewing construction drawings",
+      "https://news.ycombinator.com/item?id=46219386"
+    ]
+  ],
+  [
+    [
+      "2025-12-10, 16:02:57",
+      "https://news.ycombinator.com/item?id=46219346"
+    ],
+    [
+      "Size of Life",
+      "https://neal.fun/size-of-life/"
+    ]
+  ],
+  [
+    [
+      "2025-12-10, 15:30:46",
+      "https://news.ycombinator.com/item?id=46218800"
+    ],
+    [
+      "Qualcomm acquires RISC-V focused Ventana Micro Systems",
+      "https://www.qualcomm.com/news/releases/2025/12/qualcomm-acquires-ventana-micro-systems--deepening-risc-v-cpu-ex"
+    ]
+  ],
+  [
+    [
       "2025-12-10, 15:25:05",
       "https://news.ycombinator.com/item?id=46218725"
     ],
     [
-      "In New York City, Congestion Pricing Leads to Marked Drop in Pollution",
+      "In New York City, congestion pricing leads to marked drop in pollution",
       "https://e360.yale.edu/digest/new-york-congestion-pricing-pollution"
     ]
   ],
@@ -15,7 +65,7 @@
       "https://news.ycombinator.com/item?id=46218538"
     ],
     [
-      "Writing an Outlook Add-in in Rust",
+      "COM Like a Bomb: Rust Outlook Add-in",
       "https://tritium.legal/blog/outlook"
     ]
   ],
@@ -51,22 +101,12 @@
   ],
   [
     [
-      "2025-12-10, 02:18:07",
-      "https://news.ycombinator.com/item?id=46213273"
+      "2025-12-09, 21:14:15",
+      "https://news.ycombinator.com/item?id=46210748"
     ],
     [
-      "Cloudflare error page generator",
-      "https://github.com/donlon/cloudflare-error-page"
-    ]
-  ],
-  [
-    [
-      "2025-12-09, 22:47:36",
-      "https://news.ycombinator.com/item?id=46211802"
-    ],
-    [
-      "Linux CVEs, more than you ever wanted to know",
-      "http://www.kroah.com/log/blog/2025/12/08/linux-cves-more-than-you-ever-wanted-to-know/"
+      "Show HN: Bloodhound – Grey-box attack-path discovery in Rust/Go/C++ binaries",
+      "https://www.bloodhoundsecurity.ca"
     ]
   ],
   [
@@ -97,16 +137,6 @@
     [
       "So you want to speak at software conferences?",
       "https://dylanbeattie.net/2025/12/08/so-you-want-to-speak-at-software-conferences.html"
-    ]
-  ],
-  [
-    [
-      "2025-12-09, 18:16:44",
-      "https://news.ycombinator.com/item?id=46208409"
-    ],
-    [
-      "The stack circuitry of the Intel 8087 floating point chip, reverse-engineered",
-      "https://www.righto.com/2025/12/8087-stack-circuitry.html"
     ]
   ],
   [
@@ -175,18 +205,8 @@
       "https://news.ycombinator.com/item?id=46205632"
     ],
     [
-      "Show HN: Gemini Pro 3 hallucinates the HN front page 10 years from now",
+      "Show HN: Gemini Pro 3 imagines the HN front page 10 years from now",
       "https://dosaygo-studio.github.io/hn-front-page-2035/news"
-    ]
-  ],
-  [
-    [
-      "2025-12-09, 14:51:46",
-      "https://news.ycombinator.com/item?id=46205519"
-    ],
-    [
-      "Kaiju – General purpose 3D/2D game engine in Go and Vulkan with built in editor",
-      "https://github.com/KaijuEngine/kaiju"
     ]
   ],
   [
@@ -231,16 +251,6 @@
   ],
   [
     [
-      "2025-12-05, 09:21:16",
-      "https://news.ycombinator.com/item?id=46158803"
-    ],
-    [
-      "Writing our own Cheat Engine in Rust",
-      "https://lonami.dev/blog/woce-1/"
-    ]
-  ],
-  [
-    [
       "2025-12-05, 01:22:29",
       "https://news.ycombinator.com/item?id=46155740"
     ],
@@ -255,7 +265,7 @@
       "https://news.ycombinator.com/item?id=46154220"
     ],
     [
-      "Map of All the Buildings in the World",
+      "Map of all the buildings in the world",
       "https://gizmodo.com/literally-a-map-showing-all-the-buildings-in-the-world-2000694696"
     ]
   ],
@@ -267,16 +277,6 @@
     [
       "Putting email in its place with Emacs and Mu4e",
       "https://eamonnsullivan.co.uk/posts-output/email-setup/2025-12-3-putting-email-in-its-place/"
-    ]
-  ],
-  [
-    [
-      "2025-12-03, 21:14:54",
-      "https://news.ycombinator.com/item?id=46140219"
-    ],
-    [
-      "Passing the Torch: James Gross on the Next Chapter of Micromobility Industries",
-      "https://micromobility.io/news/how-charging-is-reshaping-the-business-of-shared-scooters-and-e-bikes"
     ]
   ],
   [
