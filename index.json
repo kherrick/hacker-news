@@ -201,16 +201,6 @@
   ],
   [
     [
-      "2025-12-10, 03:15:24",
-      "https://news.ycombinator.com/item?id=46213585"
-    ],
-    [
-      "Rust in the kernel is no longer experimental",
-      "https://lwn.net/Articles/1049831/"
-    ]
-  ],
-  [
-    [
       "2025-12-09, 18:12:29",
       "https://news.ycombinator.com/item?id=46208348"
     ],
@@ -287,6 +277,16 @@
     [
       "Golang's big miss on memory arenas",
       "https://avittig.medium.com/golangs-big-miss-on-memory-arenas-f1375524cc90"
+    ]
+  ],
+  [
+    [
+      "2025-12-02, 22:44:37",
+      "https://news.ycombinator.com/item?id=46127981"
+    ],
+    [
+      "Cloth Simulation",
+      "https://cloth.mikail-khan.com/"
     ]
   ],
   [
