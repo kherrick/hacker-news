@@ -28,6 +28,7 @@
 * [2025-12-05, 17:47:16](https://news.ycombinator.com/item?id=46164646) - [Shingles vaccination prevented or delayed dementia](https://www.cell.com/cell/fulltext/S0092-8674(25)01256-5)
 * [2025-12-05, 17:44:28](https://news.ycombinator.com/item?id=46164614) - [Detainees at 'Alligator Alcatraz' facing 'harrowing human right violations'](https://www.theguardian.com/us-news/2025/dec/04/alligator-alcatraz-human-right-violations-amnesty-report)
 * [2025-12-05, 17:29:47](https://news.ycombinator.com/item?id=46164419) - [The AI Backlash Is Here: Why Public Patience with Tech Giants Is Running Out](https://www.newsweek.com/ai-backlash-openai-meta-friend-10807425)
+* [2025-12-05, 17:15:01](https://news.ycombinator.com/item?id=46164197) - [When a video codec wins an Emmy](https://blog.mozilla.org/en/mozilla/av1-video-codec-wins-emmy/)
 * [2025-12-05, 17:00:10](https://news.ycombinator.com/item?id=46163977) - [Onlook (YC W25) the Cursor for Designers Is Hiring a Founding Fullstack Engineer](https://news.ycombinator.com/item?id=46163977)
 * [2025-12-05, 16:48:44](https://news.ycombinator.com/item?id=46163804) - [Jony Ive's OpenAI Device Barred from Using 'Io' Name](https://www.macrumors.com/2025/12/05/openai-device-barred-from-io-name/)
 * [2025-12-05, 16:42:13](https://news.ycombinator.com/item?id=46163721) - [X hit with $140M EU fine for breaching content rules](https://www.reuters.com/sustainability/boards-policy-regulation/eu-fines-x-140-mln-breaching-online-content-rules-tiktok-settles-with-2025-12-05/)
