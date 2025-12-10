@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2025-12-10, 06:08:50",
+      "https://news.ycombinator.com/item?id=46214617"
+    ],
+    [
+      "Are the Three Musketeers allergic to muskets?(2014)",
+      "https://www.ox.ac.uk/news/arts-blog/are-three-musketeers-allergic-muskets"
+    ]
+  ],
+  [
+    [
       "2025-12-10, 04:29:30",
       "https://news.ycombinator.com/item?id=46214091"
     ],
@@ -47,16 +57,6 @@
     [
       "Cloudflare error page generator",
       "https://github.com/donlon/cloudflare-error-page"
-    ]
-  ],
-  [
-    [
-      "2025-12-09, 22:54:33",
-      "https://news.ycombinator.com/item?id=46211861"
-    ],
-    [
-      "OpenEvolve: Teaching LLMs to Discover Algorithms Through Evolution",
-      "https://algorithmicsuperintelligence.ai/blog/openevolve-overview/index.html"
     ]
   ],
   [
@@ -241,16 +241,6 @@
   ],
   [
     [
-      "2025-12-06, 07:46:12",
-      "https://news.ycombinator.com/item?id=46171463"
-    ],
-    [
-      "Very Important People",
-      "https://dirt.fyi/article/2025/11/very-important-people"
-    ]
-  ],
-  [
-    [
       "2025-12-06, 01:08:04",
       "https://news.ycombinator.com/item?id=46169508"
     ],
@@ -297,6 +287,16 @@
     [
       "Operando interlayer expansion of curved graphene for dense supercapacitors",
       "https://www.nature.com/articles/s41467-025-63485-0"
+    ]
+  ],
+  [
+    [
+      "2025-12-03, 21:42:48",
+      "https://news.ycombinator.com/item?id=46140579"
+    ],
+    [
+      "Putting email in its place with Emacs and Mu4e",
+      "https://eamonnsullivan.co.uk/posts-output/email-setup/2025-12-3-putting-email-in-its-place/"
     ]
   ]
 ]
