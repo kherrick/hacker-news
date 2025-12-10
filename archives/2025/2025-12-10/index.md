@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-12-10](index.md)
 
+* [2025-12-10, 17:30:43](https://news.ycombinator.com/item?id=46220640) - [Is it a bubble?](https://www.oaktreecapital.com/insights/memo/is-it-a-bubble)
+* [2025-12-10, 17:27:09](https://news.ycombinator.com/item?id=46220577) - [Show HN: MCPShark – Traffic Inspector for Model Context Protocol](https://news.ycombinator.com/item?id=46220577)
 * [2025-12-10, 17:23:53](https://news.ycombinator.com/item?id=46220540) - [Auto-grading decade-old Hacker News discussions with hindsight](https://karpathy.bearblog.dev/auto-grade-hn/)
 * [2025-12-10, 17:20:06](https://news.ycombinator.com/item?id=46220488) - [Valve: HDMI Forum Continues to Block HDMI 2.1 for Linux](https://www.heise.de/en/news/Valve-HDMI-Forum-Continues-to-Block-HDMI-2-1-for-Linux-11107440.html)
 * [2025-12-10, 17:00:22](https://news.ycombinator.com/item?id=46220211) - [Mothers (YC X26) Is Hiring](https://app.dover.com/jobs/9mothers)
@@ -16,6 +18,7 @@
 * [2025-12-10, 15:30:46](https://news.ycombinator.com/item?id=46218800) - [Qualcomm acquires RISC-V focused Ventana Micro Systems](https://www.qualcomm.com/news/releases/2025/12/qualcomm-acquires-ventana-micro-systems--deepening-risc-v-cpu-ex)
 * [2025-12-10, 15:29:14](https://news.ycombinator.com/item?id=46218782) - [RoboCrop: Teaching robots how to pick tomatoes](https://phys.org/news/2025-12-robocrop-robots-tomatoes.html)
 * [2025-12-10, 15:25:05](https://news.ycombinator.com/item?id=46218725) - [In New York City, Congestion Pricing Leads to Marked Drop in Pollution](https://e360.yale.edu/digest/new-york-congestion-pricing-pollution)
+* [2025-12-10, 15:18:47](https://news.ycombinator.com/item?id=46218640) - [Israel used Palantir technologies in pager attack in Lebanon](https://the307.substack.com/p/revealed-israel-used-palantir-technologies)
 * [2025-12-10, 15:10:36](https://news.ycombinator.com/item?id=46218538) - [Writing an Outlook Add-in in Rust](https://tritium.legal/blog/outlook)
 * [2025-12-10, 14:59:47](https://news.ycombinator.com/item?id=46218419) - [How Much Wealth an AI Stock Market Crash Could Destroy](https://www.economist.com/interactive/graphic-detail/2025/11/05/how-much-wealth-would-be-destroyed-by-an-ai-stockmarket-crash)
 * [2025-12-10, 14:39:05](https://news.ycombinator.com/item?id=46218202) - [The New Kindle Scribes Are Great, but Not Great Enough](https://www.wired.com/review/kindle-scribe-colorsoft-2025/)
