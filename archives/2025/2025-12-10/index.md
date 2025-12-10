@@ -12,6 +12,7 @@
 * [2025-12-10, 16:02:57](https://news.ycombinator.com/item?id=46219346) - [Size of Life](https://neal.fun/size-of-life/)
 * [2025-12-10, 15:43:43](https://news.ycombinator.com/item?id=46219011) - [How to Leave the USA](https://www.newyorker.com/magazine/2025/12/15/how-to-leave-the-usa)
 * [2025-12-10, 15:30:46](https://news.ycombinator.com/item?id=46218800) - [Qualcomm acquires RISC-V focused Ventana Micro Systems](https://www.qualcomm.com/news/releases/2025/12/qualcomm-acquires-ventana-micro-systems--deepening-risc-v-cpu-ex)
+* [2025-12-10, 15:29:14](https://news.ycombinator.com/item?id=46218782) - [RoboCrop: Teaching robots how to pick tomatoes](https://phys.org/news/2025-12-robocrop-robots-tomatoes.html)
 * [2025-12-10, 15:25:05](https://news.ycombinator.com/item?id=46218725) - [In New York City, Congestion Pricing Leads to Marked Drop in Pollution](https://e360.yale.edu/digest/new-york-congestion-pricing-pollution)
 * [2025-12-10, 15:10:36](https://news.ycombinator.com/item?id=46218538) - [Writing an Outlook Add-in in Rust](https://tritium.legal/blog/outlook)
 * [2025-12-10, 14:59:47](https://news.ycombinator.com/item?id=46218419) - [How Much Wealth an AI Stock Market Crash Could Destroy](https://www.economist.com/interactive/graphic-detail/2025/11/05/how-much-wealth-would-be-destroyed-by-an-ai-stockmarket-crash)
