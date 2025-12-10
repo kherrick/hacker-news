@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-12-10, 00:59:05",
+      "https://news.ycombinator.com/item?id=46212782"
+    ],
+    [
+      "Rubio Deletes Calibri as the State Department's Official Typeface",
+      "https://www.nytimes.com/2025/12/09/us/politics/rubio-state-department-font.html"
+    ]
+  ],
+  [
+    [
       "2025-12-09, 22:54:33",
       "https://news.ycombinator.com/item?id=46211861"
     ],
@@ -205,28 +215,8 @@
       "https://news.ycombinator.com/item?id=46205437"
     ],
     [
-      "Mistral Releases Devstral 2 (72.2% SWE-Bench Verified) and Vibe CLI",
+      "Mistral releases Devstral2 and Mistral Vibe CLI",
       "https://mistral.ai/news/devstral-2-vibe-cli"
-    ]
-  ],
-  [
-    [
-      "2025-12-09, 11:09:06",
-      "https://news.ycombinator.com/item?id=46203581"
-    ],
-    [
-      "Show HN: AlgoDrill – Interactive drills to stop forgetting LeetCode patterns",
-      "https://algodrill.io"
-    ]
-  ],
-  [
-    [
-      "2025-12-09, 09:48:55",
-      "https://news.ycombinator.com/item?id=46203138"
-    ],
-    [
-      "The Joy of Playing Grandia, on Sega Saturn",
-      "https://www.segasaturnshiro.com/2025/11/27/the-joy-of-playing-grandia-on-sega-saturn/"
     ]
   ],
   [
@@ -241,6 +231,16 @@
   ],
   [
     [
+      "2025-12-05, 09:21:16",
+      "https://news.ycombinator.com/item?id=46158803"
+    ],
+    [
+      "Writing our own Cheat Engine in Rust",
+      "https://lonami.dev/blog/woce-1/"
+    ]
+  ],
+  [
+    [
       "2025-12-05, 01:22:29",
       "https://news.ycombinator.com/item?id=46155740"
     ],
@@ -251,22 +251,32 @@
   ],
   [
     [
-      "2025-12-03, 14:38:20",
-      "https://news.ycombinator.com/item?id=46134969"
+      "2025-12-04, 14:26:30",
+      "https://news.ycombinator.com/item?id=46147996"
     ],
     [
-      "Agentic QA – Open-source middleware to fuzz-test agents for loops",
-      "https://news.ycombinator.com/item?id=46134969"
+      "Operando interlayer expansion of curved graphene for dense supercapacitors",
+      "https://www.nature.com/articles/s41467-025-63485-0"
     ]
   ],
   [
     [
-      "2025-12-03, 13:19:14",
-      "https://news.ycombinator.com/item?id=46134164"
+      "2025-12-04, 08:33:33",
+      "https://news.ycombinator.com/item?id=46145154"
     ],
     [
-      "Joyboard is a balance board peripheral for the Atari 2600",
-      "https://en.wikipedia.org/wiki/Joyboard"
+      "The Mysterious Realm of JavaScriptCore (2021)",
+      "https://www.cyberark.com/resources/threat-research-blog/the-mysterious-realm-of-javascriptcore"
+    ]
+  ],
+  [
+    [
+      "2025-12-03, 17:50:17",
+      "https://news.ycombinator.com/item?id=46137596"
+    ],
+    [
+      "Transformers know more than they can tell: Learning the Collatz sequence",
+      "https://www.arxiv.org/pdf/2511.10811"
     ]
   ],
   [
@@ -277,16 +287,6 @@
     [
       "LLM from scratch, part 28 – training a base model from scratch on an RTX 3090",
       "https://www.gilesthomas.com/2025/12/llm-from-scratch-28-training-a-base-model-from-scratch"
-    ]
-  ],
-  [
-    [
-      "2025-12-01, 22:44:15",
-      "https://news.ycombinator.com/item?id=46114440"
-    ],
-    [
-      "Constructing the Word's First JPEG XL MD5 Hash Quine",
-      "https://stackchk.fail/blog/jxl_hashquine_writeup"
     ]
   ],
   [
