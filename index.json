@@ -61,16 +61,6 @@
   ],
   [
     [
-      "2025-12-10, 17:30:43",
-      "https://news.ycombinator.com/item?id=46220640"
-    ],
-    [
-      "Is it a bubble?",
-      "https://www.oaktreecapital.com/insights/memo/is-it-a-bubble"
-    ]
-  ],
-  [
-    [
       "2025-12-10, 17:23:53",
       "https://news.ycombinator.com/item?id=46220540"
     ],
@@ -151,6 +141,16 @@
   ],
   [
     [
+      "2025-12-10, 15:30:46",
+      "https://news.ycombinator.com/item?id=46218800"
+    ],
+    [
+      "Qualcomm acquires RISC-V focused Ventana Micro Systems",
+      "https://www.qualcomm.com/news/releases/2025/12/qualcomm-acquires-ventana-micro-systems--deepening-risc-v-cpu-ex"
+    ]
+  ],
+  [
+    [
       "2025-12-10, 15:29:14",
       "https://news.ycombinator.com/item?id=46218782"
     ],
@@ -221,6 +221,16 @@
   ],
   [
     [
+      "2025-12-08, 18:13:59",
+      "https://news.ycombinator.com/item?id=46195679"
+    ],
+    [
+      "Deprecations via warnings don't work for Python libraries",
+      "https://sethmlarson.dev/deprecations-via-warnings-dont-work-for-python-libraries"
+    ]
+  ],
+  [
+    [
       "2025-12-06, 14:26:07",
       "https://news.ycombinator.com/item?id=46173600"
     ],
@@ -265,7 +275,7 @@
       "https://news.ycombinator.com/item?id=46150797"
     ],
     [
-      "Scientists Create Ultra Fast Memory Using Light",
+      "Scientists create ultra fast memory using light",
       "https://www.isi.edu/news/81186/scientists-create-ultra-fast-memory-using-light/"
     ]
   ],
@@ -277,16 +287,6 @@
     [
       "Super-Flat ASTs",
       "https://jhwlr.io/super-flat-ast/"
-    ]
-  ],
-  [
-    [
-      "2025-12-04, 01:10:28",
-      "https://news.ycombinator.com/item?id=46142589"
-    ],
-    [
-      "Golang's big miss on memory arenas",
-      "https://avittig.medium.com/golangs-big-miss-on-memory-arenas-f1375524cc90"
     ]
   ],
   [
