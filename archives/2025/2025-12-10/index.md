@@ -56,3 +56,4 @@
 * [2025-12-10, 01:36:56](https://news.ycombinator.com/item?id=46213045) - [The AI-Education Death Spiral a.k.a. Let the Kids Cheat](https://anandsanwal.me/ai-education-death-spiral/)
 * [2025-12-10, 01:25:00](https://news.ycombinator.com/item?id=46212969) - [Post-transformer inference: 224× compression of Llama-70B with improved accuracy](https://zenodo.org/records/17873275)
 * [2025-12-10, 00:59:05](https://news.ycombinator.com/item?id=46212782) - [Rubio Deletes Calibri as the State Department's Official Typeface](https://www.nytimes.com/2025/12/09/us/politics/rubio-state-department-font.html)
+* [2025-12-10, 00:08:34](https://news.ycombinator.com/item?id=46212438) - [Rubio stages font coup: Times New Roman ousts Calibri](https://www.reuters.com/world/us/rubio-stages-font-coup-times-new-roman-ousts-calibri-2025-12-09/)
