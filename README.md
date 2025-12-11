@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-12-11, 15:01:49](https://news.ycombinator.com/item?id=46232222) - [Did that Colorado station sign say gas for only $1.69? Yes, it did](https://coloradosun.com/2025/12/11/colorado-gas-prices-falling-national-average/)
+* [2025-12-11, 15:01:44](https://news.ycombinator.com/item?id=46232220) - [An Orbital House of Cards: Frequent Megaconstellation Close Conjunctions](https://arxiv.org/abs/2512.09643)
 * [2025-12-11, 14:12:14](https://news.ycombinator.com/item?id=46231585) - [Disney making $1B investment in OpenAI, will allow characters on Sora AI](https://www.cnbc.com/2025/12/11/disney-openai-sora-characters-video.html)
-* [2025-12-11, 14:05:16](https://news.ycombinator.com/item?id=46231493) - [The Walt Disney Company and OpenAI Partner on Sora](https://openai.com/index/disney-sora-agreement/)
 * [2025-12-11, 13:45:08](https://news.ycombinator.com/item?id=46231274) - [Craft software that makes people feel something](https://rapha.land/craft-software-that-makes-people-feel-something/)
-* [2025-12-11, 13:35:55](https://news.ycombinator.com/item?id=46231187) - [French supermarket's Christmas advert is worldwide hit (without AI) [video]](https://www.youtube.com/watch?v=Na9VmMNJvsA)
 * [2025-12-11, 09:51:47](https://news.ycombinator.com/item?id=46229467) - [A “frozen” dictionary for Python](https://lwn.net/SubscriberLink/1047238/25c270b077849dc0/)
 * [2025-12-11, 07:21:33](https://news.ycombinator.com/item?id=46228597) - [The Cost of a Closure in C](https://thephd.dev/the-cost-of-a-closure-in-c-c2y)
 * [2025-12-11, 04:20:52](https://news.ycombinator.com/item?id=46227619) - [Incomplete list of mistakes in the design of CSS](https://wiki.csswg.org/ideas/mistakes)
