@@ -18,6 +18,7 @@
 * [2025-12-06, 21:55:09](https://news.ycombinator.com/item?id=46176905) - [Screenshots from developers: 2002 vs. 2015 (2015)](https://anders.unix.se/2015/12/10/screenshots-from-developers--2002-vs.-2015/)
 * [2025-12-06, 21:55:08](https://news.ycombinator.com/item?id=46176904) - [Copy-Item is 27% slower than File Explorer](https://til.andrew-quinn.me/posts/copy-item-is-27-percent-slower-than-file-explorer-drag-and-drop-on-windows/)
 * [2025-12-06, 21:53:35](https://news.ycombinator.com/item?id=46176893) - [The past was not that cute](https://juliawise.net/the-past-was-not-that-cute/)
+* [2025-12-06, 21:38:43](https://news.ycombinator.com/item?id=46176800) - [Kicking Robots](https://harpers.org/archive/2025/12/kicking-robots-james-vincent-humanoids/)
 * [2025-12-06, 21:33:03](https://news.ycombinator.com/item?id=46176766) - [Coffee link to slower biological aging in those w mental illness–to point](https://www.kcl.ac.uk/news/coffee-linked-to-slower-biological-ageing-among-those-with-severe-mental-illness-up-to-a-limit)
 * [2025-12-06, 20:56:38](https://news.ycombinator.com/item?id=46176533) - [Show HN: Tascli, a command line based (human) task and record manager](https://github.com/Aperocky/tascli)
 * [2025-12-06, 20:23:56](https://news.ycombinator.com/item?id=46176327) - [Show HN: TapeHead – A CLI tool for stateful random access of file streams](https://github.com/emamoah/tapehead)

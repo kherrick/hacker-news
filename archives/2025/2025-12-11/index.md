@@ -4,12 +4,15 @@
 
 ### [Archives](../../index.md) for [2025-12-11](index.md)
 
+* [2025-12-11, 16:35:48](https://news.ycombinator.com/item?id=46233570) - [Things I want to say to my boss](https://www.ithoughtaboutthatalot.com/2025/the-things-i-want-to-say-to-my-boss)
 * [2025-12-11, 16:02:32](https://news.ycombinator.com/item?id=46233067) - [A Developer Accidentally Found CSAM in AI Data. Google Banned Him for It](https://www.404media.co/a-developer-accidentally-found-csam-in-ai-data-google-banned-him-for-it/)
+* [2025-12-11, 15:52:30](https://news.ycombinator.com/item?id=46232898) - [Deprecate Like You Mean It](https://entropicthoughts.com/deprecate-like-you-mean-it)
 * [2025-12-11, 15:47:48](https://news.ycombinator.com/item?id=46232828) - [Crick and Watson Did Not Steal Franklin's Data](https://nautil.us/crick-and-watson-did-not-steal-franklins-data-1252663/)
 * [2025-12-11, 15:25:43](https://news.ycombinator.com/item?id=46232528) - [iPhone Typos? It's Not Just You – The iOS Keyboard Is Broken [video]](https://www.youtube.com/watch?v=hksVvXONrIo)
 * [2025-12-11, 15:18:51](https://news.ycombinator.com/item?id=46232434) - [Launch HN: BrowserBook (YC F24) – IDE for deterministic browser automation](https://news.ycombinator.com/item?id=46232434)
 * [2025-12-11, 15:01:49](https://news.ycombinator.com/item?id=46232222) - [Did that Colorado station sign say gas for only $1.69? Yes, it did](https://coloradosun.com/2025/12/11/colorado-gas-prices-falling-national-average/)
 * [2025-12-11, 15:01:44](https://news.ycombinator.com/item?id=46232220) - [An Orbital House of Cards: Frequent Megaconstellation Close Conjunctions](https://arxiv.org/abs/2512.09643)
+* [2025-12-11, 14:30:28](https://news.ycombinator.com/item?id=46231829) - [Pop Goes the Population Count?](https://xania.org/202512/11-pop-goes-the-weasel-er-count)
 * [2025-12-11, 14:12:14](https://news.ycombinator.com/item?id=46231585) - [Disney making $1B investment in OpenAI, will allow characters on Sora AI](https://www.cnbc.com/2025/12/11/disney-openai-sora-characters-video.html)
 * [2025-12-11, 14:05:16](https://news.ycombinator.com/item?id=46231493) - [The Walt Disney Company and OpenAI Partner on Sora](https://openai.com/index/disney-sora-agreement/)
 * [2025-12-11, 13:45:08](https://news.ycombinator.com/item?id=46231274) - [Craft software that makes people feel something](https://rapha.land/craft-software-that-makes-people-feel-something/)
