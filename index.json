@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-12-11, 09:51:47",
+      "https://news.ycombinator.com/item?id=46229467"
+    ],
+    [
+      "A \"Frozen\" Dictionary for Python",
+      "https://lwn.net/SubscriberLink/1047238/25c270b077849dc0/"
+    ]
+  ],
+  [
+    [
       "2025-12-11, 07:21:33",
       "https://news.ycombinator.com/item?id=46228597"
     ],
@@ -37,16 +47,6 @@
     [
       "Getting a Gemini API key is an exercise in frustration",
       "https://ankursethi.com/blog/gemini-api-key-frustration/"
-    ]
-  ],
-  [
-    [
-      "2025-12-10, 19:14:03",
-      "https://news.ycombinator.com/item?id=46222165"
-    ],
-    [
-      "The future of Terraform CDK",
-      "https://github.com/hashicorp/terraform-cdk"
     ]
   ],
   [
