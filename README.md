@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-12-11, 19:25:14](https://news.ycombinator.com/item?id=46235959) - [An SVG is all you need](https://jon.recoil.org/blog/2025/12/an-svg-is-all-you-need.html)
 * [2025-12-11, 19:03:45](https://news.ycombinator.com/item?id=46235618) - [Pop!_OS 24.04 LTS with Cosmic Desktop Environment Released](https://blog.system76.com/post/pop-os-letter-from-our-founder/)
+* [2025-12-11, 18:58:49](https://news.ycombinator.com/item?id=46235531) - [Age Verification Is Coming for the Internet](https://www.eff.org/deeplinks/2025/12/age-verification-coming-internet-we-built-you-resource-hub-fight-back)
 * [2025-12-11, 18:52:08](https://news.ycombinator.com/item?id=46235412) - [Going Through Snowden Documents, Part 1](https://libroot.org/posts/going-through-snowden-documents-part-1/)
 * [2025-12-11, 18:17:19](https://news.ycombinator.com/item?id=46234920) - [Rivian Unveils Custom Silicon, R2 Lidar Roadmap, and Universal Hands Free](https://riviantrackr.com/news/rivian-unveils-custom-silicon-r2-lidar-roadmap-universal-hands-free-and-its-next-gen-autonomy-platform/)
 * [2025-12-11, 18:04:47](https://news.ycombinator.com/item?id=46234788) - [GPT-5.2](https://openai.com/index/introducing-gpt-5-2/)
@@ -23,13 +25,11 @@
 * [2025-12-10, 16:02:57](https://news.ycombinator.com/item?id=46219346) - [Size of Life](https://neal.fun/size-of-life/)
 * [2025-12-09, 16:10:37](https://news.ycombinator.com/item?id=46206591) - [Show HN: Local Privacy Firewall-blocks PII and secrets before ChatGPT sees them](https://github.com/privacyshield-ai/privacy-firewall)
 * [2025-12-08, 21:33:09](https://news.ycombinator.com/item?id=46197930) - [Show HN: I've asked Claude to improve codebase quality 200 times](https://gricha.dev/blog/the-highest-quality-codebase)
-* [2025-12-08, 12:46:50](https://news.ycombinator.com/item?id=46191597) - [How the Brain Parses Language](https://www.quantamagazine.org/the-polyglot-neuroscientist-resolving-how-the-brain-parses-language-20251205/)
 * [2025-12-08, 11:49:40](https://news.ycombinator.com/item?id=46191207) - [Golang optimizations for high‑volume services](https://packagemain.tech/p/golang-optimizations-for-highvolume)
 * [2025-12-06, 21:38:43](https://news.ycombinator.com/item?id=46176800) - [Kicking Robots](https://harpers.org/archive/2025/12/kicking-robots-james-vincent-humanoids/)
 * [2025-12-05, 23:42:15](https://news.ycombinator.com/item?id=46168902) - [Oldest attestation of Austronesian language: Đông Yên Châu inscription](https://en.wikipedia.org/wiki/%C4%90%C3%B4ng_Y%C3%AAn_Ch%C3%A2u_inscription)
 * [2025-12-03, 08:08:31](https://news.ycombinator.com/item?id=46131518) - [Helldivers 2 on-disk size 85% reduction](https://store.steampowered.com/news/app/553850/view/491583942944621371)
 * [2025-12-02, 21:36:22](https://news.ycombinator.com/item?id=46127191) - [Prove It All Night: With no fame or fortune, what keeps a band onstage? (1999)](https://chicagoreader.com/news/prove-it-all-night/)
-* [2025-11-28, 22:05:16](https://news.ycombinator.com/item?id=46083184) - [Giant of the Attic: On the Majesty of Alan Moore](https://www.metropolitanreview.org/p/giant-of-the-attic)
 
 ## [Archives](archives/index.md)
 
