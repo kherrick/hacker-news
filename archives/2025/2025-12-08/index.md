@@ -66,6 +66,7 @@
 * [2025-12-08, 11:45:08](https://news.ycombinator.com/item?id=46191179) - [Why I don’t root for the Many Worlds team](https://nautil.us/reality-exists-without-observers-boooo-1252289/)
 * [2025-12-08, 11:37:22](https://news.ycombinator.com/item?id=46191124) - [Show HN: Web app that lets you send email time capsules](https://resurf.me)
 * [2025-12-08, 10:43:35](https://news.ycombinator.com/item?id=46190796) - [One too many words on AT&T's $2k Korn shell and other Usenet topics](https://blog.gabornyeki.com/2025-12-usenet/)
+* [2025-12-08, 10:39:10](https://news.ycombinator.com/item?id=46190760) - [Contact Sheet Prompting](https://www.willienotwilly.com/contact-sheet-prompting)
 * [2025-12-08, 10:13:07](https://news.ycombinator.com/item?id=46190577) - [12 Days of Shell](https://12days.cmdchallenge.com)
 * [2025-12-08, 10:03:13](https://news.ycombinator.com/item?id=46190499) - [Why Leftover Pizza Might Be Healthier](https://www.scientificamerican.com/video/why-leftover-pizza-is-actually-healthier-the-science-of-resistant-starch/)
 * [2025-12-08, 09:42:04](https://news.ycombinator.com/item?id=46190324) - [Einstein: NewtonOS running on other operating systems](https://github.com/pguyot/Einstein)
