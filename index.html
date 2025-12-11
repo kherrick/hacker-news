@@ -129,6 +129,150 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
+        <section id="46232528">
+          <h3>
+            <a class="item" href="https://www.youtube.com/watch?v=hksVvXONrIo"
+              >iPhone Typos? It's Not Just You – The iOS Keyboard Is Broken
+              [video]</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2025-12-11 @ 15:25:43</span
+              ><span class="points-container"
+                >Points: <span class="points">67</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=46232528"
+                  >Comments</a
+                ><span class="descendants">: 31</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="46232434">
+          <h3>
+            <a class="item" href="https://news.ycombinator.com/item?id=46232434"
+              >Launch HN: BrowserBook (YC F24) – IDE for deterministic browser
+              automation</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2025-12-11 @ 15:18:51</span
+              ><span class="points-container"
+                >Points: <span class="points">18</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=46232434"
+                  >Comments</a
+                ><span class="descendants">: 9</span></span
+              >
+            </h4>
+            <div class="text">
+              <a href="https://browserbook.com">https://browserbook.com</a>, and
+              there’s a demo video at
+              <a href="https://www.youtube.com/watch?v=ODGJBCNqGUI"
+                >https://www.youtube.com/watch?v=ODGJBCNqGUI</a
+              >.
+              <p>
+                Why we built this: When we were going through YC, we were a
+                company that automated back-office healthcare workflows. Since
+                the interoperability ecosystem in healthcare is so fragmented,
+                we started using browser agents to automate EMRs, practice
+                management software, and payment portals directly through the
+                web. When we did, we ran into a ton of problems:
+              </p>
+              <p>Speed: High latency on LLM calls vs. a scripting approach</p>
+              <p>
+                Cost: We burned through tokens with all the context we needed to
+                make the automations reasonably accurate
+              </p>
+              <p>
+                Reliability: Even with detailed instructions, context, and
+                tools, agents tended to drift on multi-step tasks in
+                unpredictable ways
+              </p>
+              <p>
+                Debuggability: When drift did occur, we were essentially playing
+                whack-a-mole in our prompt and re-running the whole automation
+                to debug issues (see above: speed and cost issues made this
+                quite painful)
+              </p>
+              <p>
+                More and more we were just giving our agent scripts to execute.
+                Eventually, we came to the conclusion that scripting is a better
+                approach for web automation for these sort of use cases. But
+                scripting was also too painful, so we set out to solve those
+                problems with BrowserBook.
+              </p>
+              <p>
+                Under the hood, it runs a standalone TypeScript REPL wired
+                directly into an inline browser instance, with built-in tooling
+                to make script development quick and easy. This includes:
+              </p>
+              <p>
+                - A fully interactive browser window directly in the IDE so you
+                can run your code without context switching
+              </p>
+              <p>
+                - A Jupyter-notebook-style environment - the idea here is you
+                can write portions of your automation in individual cells and
+                run them individually (and quickly reset manually in the
+                browser), instead of having to rerun the whole thing every time
+              </p>
+              <p>
+                - An AI coding assistant which uses the DOM context of the
+                current page to write automation logic, which helps avoid
+                digging around for selectors
+              </p>
+              <p>
+                - Helper functions for taking screenshots, data extraction, and
+                managed authentication for auth-required workflows.
+              </p>
+              <p>
+                Once you’ve created your automation, you can run it directly in
+                the application or in our hosted environment via API, so you can
+                use it in external apps or agentic workflows.
+              </p>
+              <p>
+                At its core, BrowserBook is an Electron app, so we can run a
+                Chrome instance directly in the app without the need for
+                cloud-hosted browsers. For API runs, we use hosted browser infra
+                via Kernel (which is a fantastic product, btw), relying on their
+                bot anti-detection capabilities (stealth mode, proxies, etc.).
+              </p>
+              <p>
+                Scripted automation can be unpopular because scripts are
+                inherently brittle; unlike “traditional” software development,
+                your code is deployed in an environment you don’t control -
+                someone else’s website. With BrowserBook, we’re trying to
+                “embrace the suck”, and acknowledge this “offensive programming”
+                environment.
+              </p>
+              <p>
+                We’ve designed from the ground up to assume scripts will break,
+                and aim to provide the tools that make building and maintaining
+                them easier. In the future, our plan is to leverage AI where it
+                has shown its strength already - writing code - to minimize
+                downtime and quickly repair broken scripts as the deployed
+                environment changes.
+              </p>
+              <p>
+                Browser agents promised to solve this by handing the reins to an
+                LLM which can handle inconsistency and ambiguity. While we think
+                there are some applications where browser agents can be
+                genuinely helpful, tasks that need to be done reliably and
+                repeatedly are not one of them.
+              </p>
+              <p>
+                We’d love for you to try it out! You can download BrowserBook
+                from our website here:
+                <a href="https://browserbook.com">https://browserbook.com</a>
+                (only available for Mac so far, sorry!) And of course, we’d
+                appreciate any feedback and comments you have!
+              </p>
+            </div>
+          </section>
+        </section>
         <section id="46232222">
           <h3>
             <a
@@ -142,11 +286,11 @@
             <h4>
               <span>2025-12-11 @ 15:01:49</span
               ><span class="points-container"
-                >Points: <span class="points">13</span></span
+                >Points: <span class="points">19</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46232222"
                   >Comments</a
-                ><span class="descendants">: 16</span></span
+                ><span class="descendants">: 36</span></span
               >
             </h4>
           </section>
@@ -162,11 +306,11 @@
             <h4>
               <span>2025-12-11 @ 15:01:44</span
               ><span class="points-container"
-                >Points: <span class="points">27</span></span
+                >Points: <span class="points">36</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46232220"
                   >Comments</a
-                ><span class="descendants">: 1</span></span
+                ><span class="descendants">: 9</span></span
               >
             </h4>
           </section>
@@ -184,11 +328,11 @@
             <h4>
               <span>2025-12-11 @ 14:12:14</span
               ><span class="points-container"
-                >Points: <span class="points">126</span></span
+                >Points: <span class="points">161</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46231585"
                   >Comments</a
-                ><span class="descendants">: 76</span></span
+                ><span class="descendants">: 111</span></span
               >
             </h4>
           </section>
@@ -205,11 +349,11 @@
             <h4>
               <span>2025-12-11 @ 13:45:08</span
               ><span class="points-container"
-                >Points: <span class="points">29</span></span
+                >Points: <span class="points">46</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46231274"
                   >Comments</a
-                ><span class="descendants">: 10</span></span
+                ><span class="descendants">: 12</span></span
               >
             </h4>
           </section>
@@ -226,11 +370,11 @@
             <h4>
               <span>2025-12-11 @ 09:51:47</span
               ><span class="points-container"
-                >Points: <span class="points">129</span></span
+                >Points: <span class="points">134</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46229467"
                   >Comments</a
-                ><span class="descendants">: 88</span></span
+                ><span class="descendants">: 93</span></span
               >
             </h4>
           </section>
@@ -247,30 +391,11 @@
             <h4>
               <span>2025-12-11 @ 07:21:33</span
               ><span class="points-container"
-                >Points: <span class="points">126</span></span
+                >Points: <span class="points">135</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46228597"
                   >Comments</a
-                ><span class="descendants">: 42</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="46227619">
-          <h3>
-            <a class="item" href="https://wiki.csswg.org/ideas/mistakes"
-              >Incomplete list of mistakes in the design of CSS</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2025-12-11 @ 04:20:52</span
-              ><span class="points-container"
-                >Points: <span class="points">163</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=46227619"
-                  >Comments</a
-                ><span class="descendants">: 108</span></span
+                ><span class="descendants">: 43</span></span
               >
             </h4>
           </section>
@@ -283,11 +408,11 @@
             <h4>
               <span>2025-12-11 @ 01:18:55</span
               ><span class="points-container"
-                >Points: <span class="points">429</span></span
+                >Points: <span class="points">435</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46226483"
                   >Comments</a
-                ><span class="descendants">: 95</span></span
+                ><span class="descendants">: 98</span></span
               >
             </h4>
           </section>
@@ -304,11 +429,11 @@
             <h4>
               <span>2025-12-10 @ 20:29:12</span
               ><span class="points-container"
-                >Points: <span class="points">687</span></span
+                >Points: <span class="points">695</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46223311"
                   >Comments</a
-                ><span class="descendants">: 269</span></span
+                ><span class="descendants">: 273</span></span
               >
             </h4>
           </section>
@@ -323,59 +448,13 @@
             <h4>
               <span>2025-12-10 @ 18:58:55</span
               ><span class="points-container"
-                >Points: <span class="points">269</span></span
+                >Points: <span class="points">272</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46221925"
                   >Comments</a
                 ><span class="descendants">: 102</span></span
               >
             </h4>
-          </section>
-        </section>
-        <section id="46220794">
-          <h3>
-            <a class="item" href="https://alpranalysis.com"
-              >Show HN: Automated license plate reader coverage in the USA</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2025-12-10 @ 17:42:30</span
-              ><span class="points-container"
-                >Points: <span class="points">216</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=46220794"
-                  >Comments</a
-                ><span class="descendants">: 128</span></span
-              >
-            </h4>
-            <div class="text">
-              <p>
-                These have gotten more controversial in recent months, due to
-                their indiscriminate large scale data collection, with 404 Media
-                publishing many original pieces (<a
-                  href="https://www.404media.co/tag/flock/"
-                  >https://www.404media.co/tag/flock/</a
-                >) about their adoption and (ab)use across the country. I wanted
-                to use open source datasets to track the rapid expansion,
-                especially per-county, as this data can be crucial for 'deflock'
-                movements to petition counties and city governments to ban and
-                remove them.
-              </p>
-              <p>
-                In some counties, the tracking becomes so widespread that most
-                people can't go anywhere without being photographed. This
-                includes possibly sensitive areas, like places of worship and
-                medical facilities.
-              </p>
-              <p>
-                The argument for their legality rests upon the notion that these
-                cameras are equivalent to 'mere observation', but the enormous
-                scope and data sharing agreements in place to share and access
-                <i>millions</i> of records without warrants blurs the lines of
-                the fourth amendment.
-              </p>
-            </div>
           </section>
         </section>
         <section id="46220540">
@@ -388,7 +467,7 @@
             <h4>
               <span>2025-12-10 @ 17:23:53</span
               ><span class="points-container"
-                >Points: <span class="points">501</span></span
+                >Points: <span class="points">504</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46220540"
                   >Comments</a
@@ -420,7 +499,7 @@
             <h4>
               <span>2025-12-10 @ 16:13:38</span
               ><span class="points-container"
-                >Points: <span class="points">291</span></span
+                >Points: <span class="points">292</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46219538"
                   >Comments</a
@@ -439,11 +518,11 @@
             <h4>
               <span>2025-12-10 @ 16:02:57</span
               ><span class="points-container"
-                >Points: <span class="points">2299</span></span
+                >Points: <span class="points">2318</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46219346"
                   >Comments</a
-                ><span class="descendants">: 259</span></span
+                ><span class="descendants">: 260</span></span
               >
             </h4>
           </section>
@@ -459,11 +538,11 @@
             <h4>
               <span>2025-12-10 @ 14:30:43</span
               ><span class="points-container"
-                >Points: <span class="points">57</span></span
+                >Points: <span class="points">59</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46218101"
                   >Comments</a
-                ><span class="descendants">: 11</span></span
+                ><span class="descendants">: 12</span></span
               >
             </h4>
             <div class="text">
@@ -516,7 +595,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46212438"
                   >Comments</a
-                ><span class="descendants">: 592</span></span
+                ><span class="descendants">: 598</span></span
               >
             </h4>
             <div class="text">
@@ -536,11 +615,11 @@
             <h4>
               <span>2025-12-09 @ 18:12:29</span
               ><span class="points-container"
-                >Points: <span class="points">883</span></span
+                >Points: <span class="points">891</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46208348"
                   >Comments</a
-                ><span class="descendants">: 1335</span></span
+                ><span class="descendants">: 1344</span></span
               >
             </h4>
             <div class="text">
@@ -574,11 +653,11 @@
             <h4>
               <span>2025-12-09 @ 16:10:37</span
               ><span class="points-container"
-                >Points: <span class="points">62</span></span
+                >Points: <span class="points">64</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46206591"
                   >Comments</a
-                ><span class="descendants">: 20</span></span
+                ><span class="descendants">: 24</span></span
               >
             </h4>
             <div class="text">
@@ -647,7 +726,29 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46203343"
                   >Comments</a
-                ><span class="descendants">: 173</span></span
+                ><span class="descendants">: 174</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="46197930">
+          <h3>
+            <a
+              class="item"
+              href="https://gricha.dev/blog/the-highest-quality-codebase"
+              >Show HN: I've asked Claude to improve codebase quality 200
+              times</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2025-12-08 @ 21:33:09</span
+              ><span class="points-container"
+                >Points: <span class="points">88</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=46197930"
+                  >Comments</a
+                ><span class="descendants">: 31</span></span
               >
             </h4>
           </section>
@@ -663,11 +764,11 @@
             <h4>
               <span>2025-12-08 @ 19:55:08</span
               ><span class="points-container"
-                >Points: <span class="points">46</span></span
+                >Points: <span class="points">48</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46196796"
                   >Comments</a
-                ><span class="descendants">: 18</span></span
+                ><span class="descendants">: 19</span></span
               >
             </h4>
             <div class="text">
@@ -727,11 +828,11 @@
             <h4>
               <span>2025-12-08 @ 14:42:01</span
               ><span class="points-container"
-                >Points: <span class="points">95</span></span
+                >Points: <span class="points">99</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46192748"
                   >Comments</a
-                ><span class="descendants">: 43</span></span
+                ><span class="descendants">: 44</span></span
               >
             </h4>
           </section>
@@ -748,11 +849,11 @@
             <h4>
               <span>2025-12-08 @ 12:46:50</span
               ><span class="points-container"
-                >Points: <span class="points">71</span></span
+                >Points: <span class="points">77</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46191597"
                   >Comments</a
-                ><span class="descendants">: 28</span></span
+                ><span class="descendants">: 34</span></span
               >
             </h4>
           </section>
@@ -767,32 +868,11 @@
             <h4>
               <span>2025-12-06 @ 16:27:35</span
               ><span class="points-container"
-                >Points: <span class="points">153</span></span
+                >Points: <span class="points">155</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46174534"
                   >Comments</a
-                ><span class="descendants">: 18</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="46170784">
-          <h3>
-            <a
-              class="item"
-              href="https://drscotthawley.github.io/blog/posts/FlowWhereYouWant.html"
-              >Flow Where You Want – Guidance for Flow Models</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2025-12-06 @ 04:46:14</span
-              ><span class="points-container"
-                >Points: <span class="points">36</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=46170784"
-                  >Comments</a
-                ><span class="descendants">: 1</span></span
+                ><span class="descendants">: 19</span></span
               >
             </h4>
           </section>
@@ -810,11 +890,11 @@
             <h4>
               <span>2025-12-05 @ 23:42:15</span
               ><span class="points-container"
-                >Points: <span class="points">22</span></span
+                >Points: <span class="points">29</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46168902"
                   >Comments</a
-                ><span class="descendants">: 0</span></span
+                ><span class="descendants">: 2</span></span
               >
             </h4>
           </section>
@@ -832,11 +912,11 @@
             <h4>
               <span>2025-12-05 @ 22:24:54</span
               ><span class="points-container"
-                >Points: <span class="points">34</span></span
+                >Points: <span class="points">39</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46168180"
                   >Comments</a
-                ><span class="descendants">: 11</span></span
+                ><span class="descendants">: 12</span></span
               >
             </h4>
           </section>
@@ -853,11 +933,11 @@
             <h4>
               <span>2025-12-05 @ 11:03:37</span
               ><span class="points-container"
-                >Points: <span class="points">40</span></span
+                >Points: <span class="points">41</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46159676"
                   >Comments</a
-                ><span class="descendants">: 36</span></span
+                ><span class="descendants">: 38</span></span
               >
             </h4>
           </section>
@@ -875,11 +955,11 @@
             <h4>
               <span>2025-12-04 @ 14:25:38</span
               ><span class="points-container"
-                >Points: <span class="points">201</span></span
+                >Points: <span class="points">207</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46147987"
                   >Comments</a
-                ><span class="descendants">: 59</span></span
+                ><span class="descendants">: 63</span></span
               >
             </h4>
           </section>
@@ -896,11 +976,11 @@
             <h4>
               <span>2025-12-03 @ 08:08:31</span
               ><span class="points-container"
-                >Points: <span class="points">121</span></span
+                >Points: <span class="points">131</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46131518"
                   >Comments</a
-                ><span class="descendants">: 103</span></span
+                ><span class="descendants">: 113</span></span
               >
             </h4>
           </section>
@@ -916,7 +996,7 @@
             <h4>
               <span>2025-11-29 @ 13:20:01</span
               ><span class="points-container"
-                >Points: <span class="points">20</span></span
+                >Points: <span class="points">24</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46087339"
                   >Comments</a
