@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-12-11, 09:51:47](https://news.ycombinator.com/item?id=46229467) - [A \"Frozen\" Dictionary for Python](https://lwn.net/SubscriberLink/1047238/25c270b077849dc0/)
 * [2025-12-11, 07:21:33](https://news.ycombinator.com/item?id=46228597) - [The Cost of a Closure in C](https://thephd.dev/the-cost-of-a-closure-in-c-c2y)
 * [2025-12-11, 04:20:52](https://news.ycombinator.com/item?id=46227619) - [Incomplete list of mistakes in the design of CSS](https://wiki.csswg.org/ideas/mistakes)
 * [2025-12-11, 01:18:55](https://news.ycombinator.com/item?id=46226483) - [Patterns.dev](https://www.patterns.dev/)
 * [2025-12-10, 20:29:12](https://news.ycombinator.com/item?id=46223311) - [Getting a Gemini API key is an exercise in frustration](https://ankursethi.com/blog/gemini-api-key-frustration/)
-* [2025-12-10, 19:14:03](https://news.ycombinator.com/item?id=46222165) - [The future of Terraform CDK](https://github.com/hashicorp/terraform-cdk)
 * [2025-12-10, 18:58:55](https://news.ycombinator.com/item?id=46221925) - [Super Mario 64 for the PS1](https://github.com/malucard/sm64-psx)
 * [2025-12-10, 18:37:27](https://news.ycombinator.com/item?id=46221594) - [Terrain Diffusion: A Diffusion-Based Successor to Perlin Noise](https://arxiv.org/abs/2512.08309)
 * [2025-12-10, 17:42:30](https://news.ycombinator.com/item?id=46220794) - [Show HN: Automated license plate reader coverage in the USA](https://alpranalysis.com)
