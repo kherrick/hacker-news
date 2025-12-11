@@ -1,12 +1,12 @@
 [
   [
     [
-      "2025-12-11, 10:38:51",
-      "https://news.ycombinator.com/item?id=46229766"
+      "2025-12-11, 11:26:45",
+      "https://news.ycombinator.com/item?id=46230072"
     ],
     [
-      "If You Quit Social Media, Will You Read More Books?",
-      "https://www.newyorker.com/news/fault-lines/if-you-quit-social-media-will-you-read-more-books"
+      "Meta shuts down global accounts linked to abortion advice and queer content",
+      "https://www.theguardian.com/global-development/2025/dec/11/meta-shuts-down-global-accounts-linked-to-abortion-advice-and-queer-content"
     ]
   ],
   [
@@ -15,7 +15,7 @@
       "https://news.ycombinator.com/item?id=46229467"
     ],
     [
-      "A \"Frozen\" Dictionary for Python",
+      "A “frozen” dictionary for Python",
       "https://lwn.net/SubscriberLink/1047238/25c270b077849dc0/"
     ]
   ],
@@ -171,6 +171,16 @@
   ],
   [
     [
+      "2025-12-09, 16:10:37",
+      "https://news.ycombinator.com/item?id=46206591"
+    ],
+    [
+      "Show HN: Local Privacy Firewall-blocks PII and secrets before ChatGPT sees them",
+      "https://github.com/privacyshield-ai/privacy-firewall"
+    ]
+  ],
+  [
+    [
       "2025-12-09, 10:20:02",
       "https://news.ycombinator.com/item?id=46203343"
     ],
@@ -261,16 +271,6 @@
   ],
   [
     [
-      "2025-12-03, 21:40:55",
-      "https://news.ycombinator.com/item?id=46140554"
-    ],
-    [
-      "3D-printed carotid artery-on-chips for personalized thrombosis investigation",
-      "https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202508890"
-    ]
-  ],
-  [
-    [
       "2025-12-03, 08:08:31",
       "https://news.ycombinator.com/item?id=46131518"
     ],
@@ -281,22 +281,22 @@
   ],
   [
     [
-      "2025-12-02, 16:55:36",
-      "https://news.ycombinator.com/item?id=46123310"
-    ],
-    [
-      "Gundam is just the same as Jane Austen but happens to include giant mech suits",
-      "https://eli.li/gundam-is-just-the-same-as-jane-austen-but-happens-to-include-giant-mech-suits"
-    ]
-  ],
-  [
-    [
       "2025-12-02, 10:30:46",
       "https://news.ycombinator.com/item?id=46119762"
     ],
     [
       "Fossils reveal anacondas have been giants for over 12 million years",
       "https://www.cam.ac.uk/stories/twelve-million-years-of-giant-anacondas"
+    ]
+  ],
+  [
+    [
+      "2025-11-29, 13:20:01",
+      "https://news.ycombinator.com/item?id=46087339"
+    ],
+    [
+      "Show HN: oeis-tui – A TUI to search OEIS integer sequences in the terminal",
+      "https://github.com/hako/oeis-tui"
     ]
   ]
 ]
