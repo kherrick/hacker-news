@@ -23,7 +23,7 @@
 * [2025-12-08, 14:42:01](https://news.ycombinator.com/item?id=46192748) - [Python Workers redux: fast cold starts, packages, and a uv-first workflow](https://blog.cloudflare.com/python-workers-advancements/)
 * [2025-12-06, 16:27:35](https://news.ycombinator.com/item?id=46174534) - [VCMI: An open-source engine for Heroes III](https://vcmi.eu/)
 * [2025-12-06, 04:57:15](https://news.ycombinator.com/item?id=46170847) - [Yadea is coming to the Western market](https://newatlas.com/motorcycles/yadea-comes-to-europe/)
-* [2025-12-05, 15:34:49](https://news.ycombinator.com/item?id=46162643) - [Typewriter Plotters (2022)](https://biosrhythm.com/?p=2143)
+* [2025-12-06, 04:46:14](https://news.ycombinator.com/item?id=46170784) - [Flow Where You Want – Guidance for Flow Models](https://drscotthawley.github.io/blog/posts/FlowWhereYouWant.html)
 * [2025-12-04, 18:11:21](https://news.ycombinator.com/item?id=46150797) - [Scientists create ultra fast memory using light](https://www.isi.edu/news/81186/scientists-create-ultra-fast-memory-using-light/)
 * [2025-12-04, 14:25:38](https://news.ycombinator.com/item?id=46147987) - [Booting Linux in QEMU and Writing PID 1 in Go to Illustrate Kernel as Program](https://serversfor.dev/linux-inside-out/the-linux-kernel-is-just-a-program/)
 * [2025-12-04, 01:10:28](https://news.ycombinator.com/item?id=46142589) - [Golang's big miss on memory arenas](https://avittig.medium.com/golangs-big-miss-on-memory-arenas-f1375524cc90)

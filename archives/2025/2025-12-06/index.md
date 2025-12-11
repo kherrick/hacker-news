@@ -62,6 +62,7 @@
 * [2025-12-06, 06:28:01](https://news.ycombinator.com/item?id=46171184) - [Tech for Small vs. Big Firms](https://lexifina.com/blog/technology-for-firms-big-and-small)
 * [2025-12-06, 05:36:48](https://news.ycombinator.com/item?id=46171008) - [AWS Announces Graviton 5](https://aws.amazon.com/ec2/instance-types/m9g/)
 * [2025-12-06, 04:57:15](https://news.ycombinator.com/item?id=46170847) - [Largest EV manufacturer is coming to the Western market](https://newatlas.com/motorcycles/yadea-comes-to-europe/)
+* [2025-12-06, 04:46:14](https://news.ycombinator.com/item?id=46170784) - [Flow Where You Want – Guidance for Flow Models](https://drscotthawley.github.io/blog/posts/FlowWhereYouWant.html)
 * [2025-12-06, 04:44:57](https://news.ycombinator.com/item?id=46170776) - [Sperry/Ford Mark-6 Fire Control Computer (2022)](https://www.glennsmuseum.com/items/mk6/)
 * [2025-12-06, 04:31:42](https://news.ycombinator.com/item?id=46170707) - [Volcanic eruptions set off a chain of events that brought Black Death to Europe](https://www.cam.ac.uk/stories/volcanoes-black-death)
 * [2025-12-06, 03:32:56](https://news.ycombinator.com/item?id=46170402) - [Nook Browser](https://browsewithnook.com)
