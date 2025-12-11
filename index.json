@@ -21,6 +21,16 @@
   ],
   [
     [
+      "2025-12-11, 20:32:22",
+      "https://news.ycombinator.com/item?id=46236738"
+    ],
+    [
+      "UK House of Lords attempting to ban use of VPNs by anyone under 16",
+      "https://alecmuffett.com/article/134925"
+    ]
+  ],
+  [
+    [
       "2025-12-11, 19:30:58",
       "https://news.ycombinator.com/item?id=46236037"
     ],
@@ -47,6 +57,26 @@
     [
       "Going Through Snowden Documents, Part 1",
       "https://libroot.org/posts/going-through-snowden-documents-part-1/"
+    ]
+  ],
+  [
+    [
+      "2025-12-11, 18:17:19",
+      "https://news.ycombinator.com/item?id=46234920"
+    ],
+    [
+      "Rivian Unveils Custom Silicon, R2 Lidar Roadmap, and Universal Hands Free",
+      "https://riviantrackr.com/news/rivian-unveils-custom-silicon-r2-lidar-roadmap-universal-hands-free-and-its-next-gen-autonomy-platform/"
+    ]
+  ],
+  [
+    [
+      "2025-12-11, 18:06:42",
+      "https://news.ycombinator.com/item?id=46234806"
+    ],
+    [
+      "Programmers and software developers lost the plot on naming their tools",
+      "https://larr.net/p/namings.html"
     ]
   ],
   [
@@ -125,7 +155,7 @@
       "https://news.ycombinator.com/item?id=46231709"
     ],
     [
-      "The architecture of \"not bad\": Decoding the Chinese source code of the void",
+      "The architecture of “not bad”: Decoding the Chinese source code of the void",
       "https://suggger.substack.com/p/the-architecture-of-not-bad-decoding"
     ]
   ],
@@ -191,32 +221,12 @@
   ],
   [
     [
-      "2025-12-10, 20:29:12",
-      "https://news.ycombinator.com/item?id=46223311"
-    ],
-    [
-      "Getting a Gemini API key is an exercise in frustration",
-      "https://ankursethi.com/blog/gemini-api-key-frustration/"
-    ]
-  ],
-  [
-    [
       "2025-12-10, 17:23:53",
       "https://news.ycombinator.com/item?id=46220540"
     ],
     [
       "Auto-grading decade-old Hacker News discussions with hindsight",
       "https://karpathy.bearblog.dev/auto-grade-hn/"
-    ]
-  ],
-  [
-    [
-      "2025-12-10, 16:02:57",
-      "https://news.ycombinator.com/item?id=46219346"
-    ],
-    [
-      "Size of Life",
-      "https://neal.fun/size-of-life/"
     ]
   ],
   [
@@ -247,16 +257,6 @@
     [
       "Golang optimizations for high‑volume services",
       "https://packagemain.tech/p/golang-optimizations-for-highvolume"
-    ]
-  ],
-  [
-    [
-      "2025-12-06, 21:38:43",
-      "https://news.ycombinator.com/item?id=46176800"
-    ],
-    [
-      "Kicking Robots",
-      "https://harpers.org/archive/2025/12/kicking-robots-james-vincent-humanoids/"
     ]
   ],
   [
