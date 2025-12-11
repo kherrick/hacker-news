@@ -57,6 +57,7 @@
 * [2025-12-08, 13:13:12](https://news.ycombinator.com/item?id=46191814) - [Colors of Growth](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5804462)
 * [2025-12-08, 13:08:38](https://news.ycombinator.com/item?id=46191763) - [Flow: Actor-based language for C++, used by FoundationDB](https://github.com/apple/foundationdb/tree/main/flow)
 * [2025-12-08, 12:54:42](https://news.ycombinator.com/item?id=46191672) - [Removing juries: 'A move towards an authoritarian state'](https://www.theguardian.com/law/2025/dec/07/authoritarian-state-trial-by-jury-uk)
+* [2025-12-08, 12:46:50](https://news.ycombinator.com/item?id=46191597) - [How the Brain Parses Language](https://www.quantamagazine.org/the-polyglot-neuroscientist-resolving-how-the-brain-parses-language-20251205/)
 * [2025-12-08, 12:01:13](https://news.ycombinator.com/item?id=46191269) - [Nango (YC W23) is hiring back-end engineers and dev-rels (remote)](https://jobs.ashbyhq.com/Nango)
 * [2025-12-08, 11:47:17](https://news.ycombinator.com/item?id=46191194) - [Bad Dye Job](https://daringfireball.net/2025/12/bad_dye_job)
 * [2025-12-08, 11:45:08](https://news.ycombinator.com/item?id=46191179) - [Why I don’t root for the Many Worlds team](https://nautil.us/reality-exists-without-observers-boooo-1252289/)
