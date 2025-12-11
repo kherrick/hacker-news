@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-12-11, 21:37:58](https://news.ycombinator.com/item?id=46237527) - [Two new RSC protocol vulnerabilities uncovered](https://nextjs.org/blog/security-update-2025-12-11)
+* [2025-12-11, 21:36:56](https://news.ycombinator.com/item?id=46237515) - [React2Shell and related RSC vulnerabilities threat brief](https://blog.cloudflare.com/react2shell-rsc-vulnerabilities-exploitation-threat-brief/)
 * [2025-12-11, 21:00:10](https://news.ycombinator.com/item?id=46237081) - [Almond (YC X25) Is Hiring SWEs and MechEs](https://www.ycombinator.com/companies/almond-2/jobs)
 * [2025-12-11, 20:46:46](https://news.ycombinator.com/item?id=46236924) - [Denial of service and source code exposure in React Server Components](https://react.dev/blog/2025/12/11/denial-of-service-and-source-code-exposure-in-react-server-components)
 * [2025-12-11, 20:32:22](https://news.ycombinator.com/item?id=46236738) - [UK House of Lords attempting to ban use of VPNs by anyone under 16](https://alecmuffett.com/article/134925)
@@ -26,8 +28,6 @@
 * [2025-12-08, 21:33:09](https://news.ycombinator.com/item?id=46197930) - [The highest quality codebase](https://gricha.dev/blog/the-highest-quality-codebase)
 * [2025-12-08, 11:49:40](https://news.ycombinator.com/item?id=46191207) - [Golang optimizations for high‑volume services](https://packagemain.tech/p/golang-optimizations-for-highvolume)
 * [2025-12-08, 10:39:10](https://news.ycombinator.com/item?id=46190760) - [Contact Sheet Prompting](https://www.willienotwilly.com/contact-sheet-prompting)
-* [2025-12-05, 23:42:15](https://news.ycombinator.com/item?id=46168902) - [Oldest attestation of Austronesian language: Đông Yên Châu inscription](https://en.wikipedia.org/wiki/%C4%90%C3%B4ng_Y%C3%AAn_Ch%C3%A2u_inscription)
-* [2025-12-03, 08:08:31](https://news.ycombinator.com/item?id=46131518) - [Helldivers 2 on-disk size 85% reduction](https://store.steampowered.com/news/app/553850/view/491583942944621371)
 * [2025-12-02, 21:39:46](https://news.ycombinator.com/item?id=46127230) - [Encountering Japanese ellipses in English translations (2013)](https://legendsoflocalization.com/articles/japanese-ellipsis-usage/)
 * [2025-12-02, 21:36:22](https://news.ycombinator.com/item?id=46127191) - [Prove It All Night: With no fame or fortune, what keeps a band onstage? (1999)](https://chicagoreader.com/news/prove-it-all-night/)
 
