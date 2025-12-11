@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-12-11, 10:53:22](https://news.ycombinator.com/item?id=46229854) - [McDonald's removes AI-generated ad after backlash](https://www.theguardian.com/business/2025/dec/11/mcdonalds-removes-ai-generated-christmas-ad-advert-backlash)
 * [2025-12-11, 09:51:47](https://news.ycombinator.com/item?id=46229467) - [A \"Frozen\" Dictionary for Python](https://lwn.net/SubscriberLink/1047238/25c270b077849dc0/)
 * [2025-12-11, 07:21:33](https://news.ycombinator.com/item?id=46228597) - [The Cost of a Closure in C](https://thephd.dev/the-cost-of-a-closure-in-c-c2y)
 * [2025-12-11, 04:20:52](https://news.ycombinator.com/item?id=46227619) - [Incomplete list of mistakes in the design of CSS](https://wiki.csswg.org/ideas/mistakes)
@@ -28,6 +27,7 @@
 * [2025-12-04, 18:11:21](https://news.ycombinator.com/item?id=46150797) - [Scientists create ultra fast memory using light](https://www.isi.edu/news/81186/scientists-create-ultra-fast-memory-using-light/)
 * [2025-12-04, 14:25:38](https://news.ycombinator.com/item?id=46147987) - [Booting Linux in QEMU and Writing PID 1 in Go to Illustrate Kernel as Program](https://serversfor.dev/linux-inside-out/the-linux-kernel-is-just-a-program/)
 * [2025-12-03, 21:40:55](https://news.ycombinator.com/item?id=46140554) - [3D-printed carotid artery-on-chips for personalized thrombosis investigation](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202508890)
+* [2025-12-03, 08:08:31](https://news.ycombinator.com/item?id=46131518) - [Helldivers 2 on-disk size 85% reduction](https://store.steampowered.com/news/app/553850/view/491583942944621371)
 * [2025-12-02, 16:55:36](https://news.ycombinator.com/item?id=46123310) - [Gundam is just the same as Jane Austen but happens to include giant mech suits](https://eli.li/gundam-is-just-the-same-as-jane-austen-but-happens-to-include-giant-mech-suits)
 * [2025-12-02, 10:30:46](https://news.ycombinator.com/item?id=46119762) - [Fossils reveal anacondas have been giants for over 12 million years](https://www.cam.ac.uk/stories/twelve-million-years-of-giant-anacondas)
 
