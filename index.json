@@ -41,16 +41,6 @@
   ],
   [
     [
-      "2025-12-10, 21:45:11",
-      "https://news.ycombinator.com/item?id=46224311"
-    ],
-    [
-      "When would you ever want bubblesort? (2023)",
-      "https://buttondown.com/hillelwayne/archive/when-would-you-ever-want-bubblesort/"
-    ]
-  ],
-  [
-    [
       "2025-12-10, 20:29:12",
       "https://news.ycombinator.com/item?id=46223311"
     ],
@@ -267,6 +257,16 @@
     [
       "Booting Linux in QEMU and Writing PID 1 in Go to Illustrate Kernel as Program",
       "https://serversfor.dev/linux-inside-out/the-linux-kernel-is-just-a-program/"
+    ]
+  ],
+  [
+    [
+      "2025-12-04, 01:10:28",
+      "https://news.ycombinator.com/item?id=46142589"
+    ],
+    [
+      "Golang's big miss on memory arenas",
+      "https://avittig.medium.com/golangs-big-miss-on-memory-arenas-f1375524cc90"
     ]
   ],
   [
