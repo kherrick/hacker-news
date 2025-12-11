@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-12-11](index.md)
 
+* [2025-12-11, 21:00:10](https://news.ycombinator.com/item?id=46237081) - [Almond (YC X25) Is Hiring SWEs and MechEs](https://www.ycombinator.com/companies/almond-2/jobs)
+* [2025-12-11, 20:46:46](https://news.ycombinator.com/item?id=46236924) - [Denial of service and source code exposure in React Server Components](https://react.dev/blog/2025/12/11/denial-of-service-and-source-code-exposure-in-react-server-components)
 * [2025-12-11, 19:30:58](https://news.ycombinator.com/item?id=46236037) - [My productivity app is a never-ending .txt file (2022)](https://jeffhuang.com/productivity_text_file/)
 * [2025-12-11, 19:25:14](https://news.ycombinator.com/item?id=46235959) - [An SVG is all you need](https://jon.recoil.org/blog/2025/12/an-svg-is-all-you-need.html)
 * [2025-12-11, 19:18:27](https://news.ycombinator.com/item?id=46235859) - [Last quarter I rolled out Microsoft Copilot to 4k employees](https://twitter.com/gothburz/status/1999124665801880032)
@@ -28,6 +30,7 @@
 * [2025-12-11, 15:01:49](https://news.ycombinator.com/item?id=46232222) - [Did that Colorado station sign say gas for only $1.69? Yes, it did](https://coloradosun.com/2025/12/11/colorado-gas-prices-falling-national-average/)
 * [2025-12-11, 15:01:44](https://news.ycombinator.com/item?id=46232220) - [An Orbital House of Cards: Frequent Megaconstellation Close Conjunctions](https://arxiv.org/abs/2512.09643)
 * [2025-12-11, 14:30:28](https://news.ycombinator.com/item?id=46231829) - [Pop Goes the Population Count?](https://xania.org/202512/11-pop-goes-the-weasel-er-count)
+* [2025-12-11, 14:21:14](https://news.ycombinator.com/item?id=46231709) - [The architecture of \"not bad\": Decoding the Chinese source code of the void](https://suggger.substack.com/p/the-architecture-of-not-bad-decoding)
 * [2025-12-11, 14:12:14](https://news.ycombinator.com/item?id=46231585) - [Disney making $1B investment in OpenAI, will allow characters on Sora AI](https://www.cnbc.com/2025/12/11/disney-openai-sora-characters-video.html)
 * [2025-12-11, 14:05:16](https://news.ycombinator.com/item?id=46231493) - [The Walt Disney Company and OpenAI Partner on Sora](https://openai.com/index/disney-sora-agreement/)
 * [2025-12-11, 14:01:22](https://news.ycombinator.com/item?id=46231460) - [Show HN: An endless scrolling word search game](https://endless-wordsearch.com)
