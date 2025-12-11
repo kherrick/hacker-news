@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-12-11](index.md)
 
+* [2025-12-11, 19:30:58](https://news.ycombinator.com/item?id=46236037) - [My productivity app is a never-ending .txt file (2022)](https://jeffhuang.com/productivity_text_file/)
 * [2025-12-11, 19:25:14](https://news.ycombinator.com/item?id=46235959) - [An SVG is all you need](https://jon.recoil.org/blog/2025/12/an-svg-is-all-you-need.html)
 * [2025-12-11, 19:18:27](https://news.ycombinator.com/item?id=46235859) - [Last quarter I rolled out Microsoft Copilot to 4k employees](https://twitter.com/gothburz/status/1999124665801880032)
 * [2025-12-11, 19:03:45](https://news.ycombinator.com/item?id=46235618) - [Pop!_OS 24.04 LTS with Cosmic Desktop Environment Released](https://blog.system76.com/post/pop-os-letter-from-our-founder/)
