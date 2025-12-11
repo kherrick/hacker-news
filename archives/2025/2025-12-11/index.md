@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-12-11](index.md)
 
+* [2025-12-11, 21:45:03](https://news.ycombinator.com/item?id=46237623) - [23,746 Patients Died on Waitlists in Past Year](https://secondstreet.org/2025/11/26/23746-patients-died-on-waitlists-in-past-year/)
 * [2025-12-11, 21:37:58](https://news.ycombinator.com/item?id=46237527) - [Two new RSC protocol vulnerabilities uncovered](https://nextjs.org/blog/security-update-2025-12-11)
 * [2025-12-11, 21:36:56](https://news.ycombinator.com/item?id=46237515) - [React2Shell and related RSC vulnerabilities threat brief](https://blog.cloudflare.com/react2shell-rsc-vulnerabilities-exploitation-threat-brief/)
 * [2025-12-11, 21:00:10](https://news.ycombinator.com/item?id=46237081) - [Almond (YC X25) Is Hiring SWEs and MechEs](https://www.ycombinator.com/companies/almond-2/jobs)
