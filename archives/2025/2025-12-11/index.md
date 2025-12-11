@@ -7,6 +7,7 @@
 * [2025-12-11, 21:45:03](https://news.ycombinator.com/item?id=46237623) - [23,746 Patients Died on Waitlists in Past Year](https://secondstreet.org/2025/11/26/23746-patients-died-on-waitlists-in-past-year/)
 * [2025-12-11, 21:37:58](https://news.ycombinator.com/item?id=46237527) - [Two new RSC protocol vulnerabilities uncovered](https://nextjs.org/blog/security-update-2025-12-11)
 * [2025-12-11, 21:36:56](https://news.ycombinator.com/item?id=46237515) - [React2Shell and related RSC vulnerabilities threat brief](https://blog.cloudflare.com/react2shell-rsc-vulnerabilities-exploitation-threat-brief/)
+* [2025-12-11, 21:35:52](https://news.ycombinator.com/item?id=46237501) - [Powder and Stone. Or, Why Medieval Rulers Loved Castles](https://1517.substack.com/p/powder-and-stone-or-why-medieval)
 * [2025-12-11, 21:18:49](https://news.ycombinator.com/item?id=46237304) - [RFC 6677 DNS Transport over TCP – Implementation Requirements](https://www.ietf.org/rfc/rfc7766.txt)
 * [2025-12-11, 21:00:10](https://news.ycombinator.com/item?id=46237081) - [Almond (YC X25) Is Hiring SWEs and MechEs](https://www.ycombinator.com/companies/almond-2/jobs)
 * [2025-12-11, 20:46:46](https://news.ycombinator.com/item?id=46236924) - [Denial of service and source code exposure in React Server Components](https://react.dev/blog/2025/12/11/denial-of-service-and-source-code-exposure-in-react-server-components)
