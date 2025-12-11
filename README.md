@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-12-11, 07:21:33](https://news.ycombinator.com/item?id=46228597) - [The Cost of a Closure in C](https://thephd.dev/the-cost-of-a-closure-in-c-c2y)
 * [2025-12-11, 04:20:52](https://news.ycombinator.com/item?id=46227619) - [Incomplete list of mistakes in the design of CSS](https://wiki.csswg.org/ideas/mistakes)
 * [2025-12-11, 01:18:55](https://news.ycombinator.com/item?id=46226483) - [Patterns.dev](https://www.patterns.dev/)
 * [2025-12-10, 21:45:11](https://news.ycombinator.com/item?id=46224311) - [When would you ever want bubblesort? (2023)](https://buttondown.com/hillelwayne/archive/when-would-you-ever-want-bubblesort/)
@@ -22,7 +23,6 @@
 * [2025-12-09, 10:20:02](https://news.ycombinator.com/item?id=46203343) - [How Google Maps allocates survival across London's restaurants](https://laurenleek.substack.com/p/how-google-maps-quietly-allocates)
 * [2025-12-08, 14:42:01](https://news.ycombinator.com/item?id=46192748) - [Python Workers redux: fast cold starts, packages, and a uv-first workflow](https://blog.cloudflare.com/python-workers-advancements/)
 * [2025-12-06, 16:27:35](https://news.ycombinator.com/item?id=46174534) - [VCMI: An open-source engine for Heroes III](https://vcmi.eu/)
-* [2025-12-06, 04:57:15](https://news.ycombinator.com/item?id=46170847) - [Yadea is coming to the Western market](https://newatlas.com/motorcycles/yadea-comes-to-europe/)
 * [2025-12-06, 04:46:14](https://news.ycombinator.com/item?id=46170784) - [Flow Where You Want – Guidance for Flow Models](https://drscotthawley.github.io/blog/posts/FlowWhereYouWant.html)
 * [2025-12-04, 18:11:21](https://news.ycombinator.com/item?id=46150797) - [Scientists create ultra fast memory using light](https://www.isi.edu/news/81186/scientists-create-ultra-fast-memory-using-light/)
 * [2025-12-04, 14:25:38](https://news.ycombinator.com/item?id=46147987) - [Booting Linux in QEMU and Writing PID 1 in Go to Illustrate Kernel as Program](https://serversfor.dev/linux-inside-out/the-linux-kernel-is-just-a-program/)
