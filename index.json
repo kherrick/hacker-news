@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2025-12-11, 03:50:04",
-      "https://news.ycombinator.com/item?id=46227422"
-    ],
-    [
-      "Vibe coding is mad depressing",
-      "https://law.gmnz.xyz/vibe-coding-is-mad-depressing/"
-    ]
-  ],
-  [
-    [
       "2025-12-11, 01:18:55",
       "https://news.ycombinator.com/item?id=46226483"
     ],
@@ -161,6 +151,16 @@
   ],
   [
     [
+      "2025-12-10, 14:30:43",
+      "https://news.ycombinator.com/item?id=46218101"
+    ],
+    [
+      "Show HN: Wirebrowser – A JavaScript debugger with breakpoint-driven heap search",
+      "https://github.com/fcavallarin/wirebrowser"
+    ]
+  ],
+  [
+    [
       "2025-12-10, 11:10:58",
       "https://news.ycombinator.com/item?id=46216446"
     ],
@@ -221,16 +221,6 @@
   ],
   [
     [
-      "2025-12-06, 11:28:56",
-      "https://news.ycombinator.com/item?id=46172498"
-    ],
-    [
-      "OpenRouter Broadcast",
-      "https://openrouter.ai/docs/guides/features/broadcast/overview"
-    ]
-  ],
-  [
-    [
       "2025-12-06, 04:57:15",
       "https://news.ycombinator.com/item?id=46170847"
     ],
@@ -257,6 +247,16 @@
     [
       "Scientists create ultra fast memory using light",
       "https://www.isi.edu/news/81186/scientists-create-ultra-fast-memory-using-light/"
+    ]
+  ],
+  [
+    [
+      "2025-12-04, 14:25:38",
+      "https://news.ycombinator.com/item?id=46147987"
+    ],
+    [
+      "Booting Linux in QEMU and Writing PID 1 in Go to Illustrate Kernel as Program",
+      "https://serversfor.dev/linux-inside-out/the-linux-kernel-is-just-a-program/"
     ]
   ],
   [
