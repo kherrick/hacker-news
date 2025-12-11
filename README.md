@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-12-11, 16:02:32](https://news.ycombinator.com/item?id=46233067) - [A Developer Accidentally Found CSAM in AI Data. Google Banned Him for It](https://www.404media.co/a-developer-accidentally-found-csam-in-ai-data-google-banned-him-for-it/)
+* [2025-12-11, 15:47:48](https://news.ycombinator.com/item?id=46232828) - [Crick and Watson Did Not Steal Franklin's Data](https://nautil.us/crick-and-watson-did-not-steal-franklins-data-1252663/)
 * [2025-12-11, 15:25:43](https://news.ycombinator.com/item?id=46232528) - [iPhone Typos? It's Not Just You – The iOS Keyboard Is Broken [video]](https://www.youtube.com/watch?v=hksVvXONrIo)
 * [2025-12-11, 15:18:51](https://news.ycombinator.com/item?id=46232434) - [Launch HN: BrowserBook (YC F24) – IDE for deterministic browser automation](https://news.ycombinator.com/item?id=46232434)
 * [2025-12-11, 15:01:49](https://news.ycombinator.com/item?id=46232222) - [Did that Colorado station sign say gas for only $1.69? Yes, it did](https://coloradosun.com/2025/12/11/colorado-gas-prices-falling-national-average/)
@@ -12,9 +14,7 @@
 * [2025-12-10, 20:29:12](https://news.ycombinator.com/item?id=46223311) - [Getting a Gemini API key is an exercise in frustration](https://ankursethi.com/blog/gemini-api-key-frustration/)
 * [2025-12-10, 18:58:55](https://news.ycombinator.com/item?id=46221925) - [Super Mario 64 for the PS1](https://github.com/malucard/sm64-psx)
 * [2025-12-10, 17:23:53](https://news.ycombinator.com/item?id=46220540) - [Auto-grading decade-old Hacker News discussions with hindsight](https://karpathy.bearblog.dev/auto-grade-hn/)
-* [2025-12-10, 16:13:38](https://news.ycombinator.com/item?id=46219538) - [Qwen3-Omni-Flash-2025-12-01：a next-generation native multimodal large model](https://qwen.ai/blog?id=qwen3-omni-flash-20251201)
 * [2025-12-10, 16:02:57](https://news.ycombinator.com/item?id=46219346) - [Size of Life](https://neal.fun/size-of-life/)
-* [2025-12-10, 14:30:43](https://news.ycombinator.com/item?id=46218101) - [Show HN: Wirebrowser – A JavaScript debugger with breakpoint-driven heap search](https://github.com/fcavallarin/wirebrowser)
 * [2025-12-10, 00:08:34](https://news.ycombinator.com/item?id=46212438) - [Rubio stages font coup: Times New Roman ousts Calibri](https://www.reuters.com/world/us/rubio-stages-font-coup-times-new-roman-ousts-calibri-2025-12-09/)
 * [2025-12-09, 18:12:29](https://news.ycombinator.com/item?id=46208348) - [Australia begins enforcing world-first teen social media ban](https://www.reuters.com/legal/litigation/australia-social-media-ban-takes-effect-world-first-2025-12-09/)
 * [2025-12-09, 16:10:37](https://news.ycombinator.com/item?id=46206591) - [Show HN: Local Privacy Firewall-blocks PII and secrets before ChatGPT sees them](https://github.com/privacyshield-ai/privacy-firewall)

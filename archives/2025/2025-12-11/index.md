@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-12-11](index.md)
 
+* [2025-12-11, 16:02:32](https://news.ycombinator.com/item?id=46233067) - [A Developer Accidentally Found CSAM in AI Data. Google Banned Him for It](https://www.404media.co/a-developer-accidentally-found-csam-in-ai-data-google-banned-him-for-it/)
+* [2025-12-11, 15:47:48](https://news.ycombinator.com/item?id=46232828) - [Crick and Watson Did Not Steal Franklin's Data](https://nautil.us/crick-and-watson-did-not-steal-franklins-data-1252663/)
 * [2025-12-11, 15:25:43](https://news.ycombinator.com/item?id=46232528) - [iPhone Typos? It's Not Just You – The iOS Keyboard Is Broken [video]](https://www.youtube.com/watch?v=hksVvXONrIo)
 * [2025-12-11, 15:18:51](https://news.ycombinator.com/item?id=46232434) - [Launch HN: BrowserBook (YC F24) – IDE for deterministic browser automation](https://news.ycombinator.com/item?id=46232434)
 * [2025-12-11, 15:01:49](https://news.ycombinator.com/item?id=46232222) - [Did that Colorado station sign say gas for only $1.69? Yes, it did](https://coloradosun.com/2025/12/11/colorado-gas-prices-falling-national-average/)
