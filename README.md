@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-12-11, 04:20:52](https://news.ycombinator.com/item?id=46227619) - [Incomplete List of Mistakes in the Design of CSS](https://wiki.csswg.org/ideas/mistakes)
 * [2025-12-11, 03:50:04](https://news.ycombinator.com/item?id=46227422) - [Vibe coding is mad depressing](https://law.gmnz.xyz/vibe-coding-is-mad-depressing/)
 * [2025-12-11, 01:18:55](https://news.ycombinator.com/item?id=46226483) - [Patterns.dev](https://www.patterns.dev/)
 * [2025-12-10, 21:45:11](https://news.ycombinator.com/item?id=46224311) - [When would you ever want bubblesort? (2023)](https://buttondown.com/hillelwayne/archive/when-would-you-ever-want-bubblesort/)
@@ -17,7 +18,6 @@
 * [2025-12-10, 16:05:03](https://news.ycombinator.com/item?id=46219386) - [Launch HN: InspectMind (YC W24) – AI agent for reviewing construction drawings](https://news.ycombinator.com/item?id=46219386)
 * [2025-12-10, 16:02:57](https://news.ycombinator.com/item?id=46219346) - [Size of Life](https://neal.fun/size-of-life/)
 * [2025-12-10, 15:29:14](https://news.ycombinator.com/item?id=46218782) - [RoboCrop: Teaching robots how to pick tomatoes](https://phys.org/news/2025-12-robocrop-robots-tomatoes.html)
-* [2025-12-10, 11:33:31](https://news.ycombinator.com/item?id=46216583) - [Factor 0.101 now available](https://re.factorcode.org/2025/12/factor-0-101-now-available.html)
 * [2025-12-10, 11:10:58](https://news.ycombinator.com/item?id=46216446) - [Common Lisp, ASDF, and Quicklisp: packaging explained](https://cdegroot.com/programming/commonlisp/2025/11/26/cl-ql-asdf.html)
 * [2025-12-10, 00:08:34](https://news.ycombinator.com/item?id=46212438) - [Rubio stages font coup: Times New Roman ousts Calibri](https://www.reuters.com/world/us/rubio-stages-font-coup-times-new-roman-ousts-calibri-2025-12-09/)
 * [2025-12-09, 18:12:29](https://news.ycombinator.com/item?id=46208348) - [Australia begins enforcing world-first teen social media ban](https://www.reuters.com/legal/litigation/australia-social-media-ban-takes-effect-world-first-2025-12-09/)
