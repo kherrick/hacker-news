@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-12-11, 10:53:22",
+      "https://news.ycombinator.com/item?id=46229854"
+    ],
+    [
+      "McDonald's removes AI-generated ad after backlash",
+      "https://www.theguardian.com/business/2025/dec/11/mcdonalds-removes-ai-generated-christmas-ad-advert-backlash"
+    ]
+  ],
+  [
+    [
       "2025-12-11, 09:51:47",
       "https://news.ycombinator.com/item?id=46229467"
     ],
@@ -257,16 +267,6 @@
     [
       "Booting Linux in QEMU and Writing PID 1 in Go to Illustrate Kernel as Program",
       "https://serversfor.dev/linux-inside-out/the-linux-kernel-is-just-a-program/"
-    ]
-  ],
-  [
-    [
-      "2025-12-04, 01:10:28",
-      "https://news.ycombinator.com/item?id=46142589"
-    ],
-    [
-      "Golang's big miss on memory arenas",
-      "https://avittig.medium.com/golangs-big-miss-on-memory-arenas-f1375524cc90"
     ]
   ],
   [
