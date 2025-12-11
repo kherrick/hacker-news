@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-12-11, 04:20:52](https://news.ycombinator.com/item?id=46227619) - [Incomplete List of Mistakes in the Design of CSS](https://wiki.csswg.org/ideas/mistakes)
+* [2025-12-11, 04:20:52](https://news.ycombinator.com/item?id=46227619) - [Incomplete list of mistakes in the design of CSS](https://wiki.csswg.org/ideas/mistakes)
 * [2025-12-11, 03:50:04](https://news.ycombinator.com/item?id=46227422) - [Vibe coding is mad depressing](https://law.gmnz.xyz/vibe-coding-is-mad-depressing/)
 * [2025-12-11, 01:18:55](https://news.ycombinator.com/item?id=46226483) - [Patterns.dev](https://www.patterns.dev/)
 * [2025-12-10, 21:45:11](https://news.ycombinator.com/item?id=46224311) - [When would you ever want bubblesort? (2023)](https://buttondown.com/hillelwayne/archive/when-would-you-ever-want-bubblesort/)
@@ -24,7 +24,7 @@
 * [2025-12-09, 10:20:02](https://news.ycombinator.com/item?id=46203343) - [How Google Maps allocates survival across London's restaurants](https://laurenleek.substack.com/p/how-google-maps-quietly-allocates)
 * [2025-12-06, 16:27:35](https://news.ycombinator.com/item?id=46174534) - [VCMI: An open-source engine for Heroes III](https://vcmi.eu/)
 * [2025-12-06, 11:28:56](https://news.ycombinator.com/item?id=46172498) - [OpenRouter Broadcast](https://openrouter.ai/docs/guides/features/broadcast/overview)
-* [2025-12-05, 15:34:49](https://news.ycombinator.com/item?id=46162643) - [Typewriter Plotters (2022)](https://biosrhythm.com/?p=2143)
+* [2025-12-06, 04:57:15](https://news.ycombinator.com/item?id=46170847) - [Yadea is coming to the Western market](https://newatlas.com/motorcycles/yadea-comes-to-europe/)
 * [2025-12-04, 18:11:21](https://news.ycombinator.com/item?id=46150797) - [Scientists create ultra fast memory using light](https://www.isi.edu/news/81186/scientists-create-ultra-fast-memory-using-light/)
 * [2025-12-04, 01:10:28](https://news.ycombinator.com/item?id=46142589) - [Golang's big miss on memory arenas](https://avittig.medium.com/golangs-big-miss-on-memory-arenas-f1375524cc90)
 * [2025-12-03, 21:40:55](https://news.ycombinator.com/item?id=46140554) - [3D-Printed Carotid Artery-on-Chips for Personalized Thrombosis Investigation](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202508890)
