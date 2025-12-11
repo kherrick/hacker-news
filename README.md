@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-12-11, 09:30:08](https://news.ycombinator.com/item?id=46229346) - [Just 0.001% hold 3 times the wealth of poorest half of humanity, report finds](https://www.theguardian.com/inequality/2025/dec/10/just-0001-hold-three-times-the-wealth-of-poorest-half-of-humanity-report-finds)
 * [2025-12-11, 07:21:33](https://news.ycombinator.com/item?id=46228597) - [The Cost of a Closure in C](https://thephd.dev/the-cost-of-a-closure-in-c-c2y)
 * [2025-12-11, 04:20:52](https://news.ycombinator.com/item?id=46227619) - [Incomplete list of mistakes in the design of CSS](https://wiki.csswg.org/ideas/mistakes)
 * [2025-12-11, 01:18:55](https://news.ycombinator.com/item?id=46226483) - [Patterns.dev](https://www.patterns.dev/)
@@ -21,6 +20,7 @@
 * [2025-12-09, 10:20:02](https://news.ycombinator.com/item?id=46203343) - [How Google Maps allocates survival across London's restaurants](https://laurenleek.substack.com/p/how-google-maps-quietly-allocates)
 * [2025-12-08, 14:42:01](https://news.ycombinator.com/item?id=46192748) - [Python Workers redux: fast cold starts, packages, and a uv-first workflow](https://blog.cloudflare.com/python-workers-advancements/)
 * [2025-12-08, 12:46:50](https://news.ycombinator.com/item?id=46191597) - [How the Brain Parses Language](https://www.quantamagazine.org/the-polyglot-neuroscientist-resolving-how-the-brain-parses-language-20251205/)
+* [2025-12-08, 08:04:51](https://news.ycombinator.com/item?id=46189632) - [Why Startups Die](https://www.techfounderstack.com/p/why-startups-die)
 * [2025-12-06, 16:27:35](https://news.ycombinator.com/item?id=46174534) - [VCMI: An open-source engine for Heroes III](https://vcmi.eu/)
 * [2025-12-06, 04:46:14](https://news.ycombinator.com/item?id=46170784) - [Flow Where You Want – Guidance for Flow Models](https://drscotthawley.github.io/blog/posts/FlowWhereYouWant.html)
 * [2025-12-05, 11:03:37](https://news.ycombinator.com/item?id=46159676) - [Go's escape analysis and why my function return worked](https://bonniesimon.in/blog/go-escape-analysis)
