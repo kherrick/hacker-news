@@ -7,6 +7,7 @@
 * [2025-11-28, 23:24:16](https://news.ycombinator.com/item?id=46083730) - [The Fatal Trap UBI Boosters Keep Falling Into](https://thereader.mitpress.mit.edu/the-fatal-trap-ubi-boosters-keep-falling-into/)
 * [2025-11-28, 22:32:03](https://news.ycombinator.com/item?id=46083375) - [Fabric Project](https://github.com/Fabric-Project/Fabric)
 * [2025-11-28, 22:21:25](https://news.ycombinator.com/item?id=46083303) - [Confessions of a Software Developer: No More Self-Censorship](https://kerrick.blog/articles/2025/confessions-of-a-software-developer-no-more-self-censorship/)
+* [2025-11-28, 22:05:16](https://news.ycombinator.com/item?id=46083184) - [Giant of the Attic: On the Majesty of Alan Moore](https://www.metropolitanreview.org/p/giant-of-the-attic)
 * [2025-11-28, 22:00:51](https://news.ycombinator.com/item?id=46083162) - [A Tale of Two AI Failures: Debugging a Simple Bug with LLMs](https://bitmovin.com/blog/hackathon-debugging-ai-tools-llms/)
 * [2025-11-28, 21:56:58](https://news.ycombinator.com/item?id=46083137) - [How to Short the Bubbliest Firms](https://www.economist.com/finance-and-economics/2025/11/26/how-to-short-the-bubbliest-firms)
 * [2025-11-28, 21:56:21](https://news.ycombinator.com/item?id=46083133) - [universal-tbxi-patchset: Mac OS New World ROM patchset to boot System 7.5](https://github.com/Wack0/universal-tbxi-patchset)

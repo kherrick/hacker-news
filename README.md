@@ -3,8 +3,7 @@
 * [2025-12-11, 16:52:37](https://news.ycombinator.com/item?id=46233798) - [Days since last GitHub incident](https://github-incidents.pages.dev/)
 * [2025-12-11, 16:35:48](https://news.ycombinator.com/item?id=46233570) - [Things I want to say to my boss](https://www.ithoughtaboutthatalot.com/2025/the-things-i-want-to-say-to-my-boss)
 * [2025-12-11, 16:02:32](https://news.ycombinator.com/item?id=46233067) - [A Developer Accidentally Found CSAM in AI Data. Google Banned Him for It](https://www.404media.co/a-developer-accidentally-found-csam-in-ai-data-google-banned-him-for-it/)
-* [2025-12-11, 15:52:30](https://news.ycombinator.com/item?id=46232898) - [Deprecate Like You Mean It](https://entropicthoughts.com/deprecate-like-you-mean-it)
-* [2025-12-11, 15:47:48](https://news.ycombinator.com/item?id=46232828) - [Crick and Watson Did Not Steal Franklin's Data](https://nautil.us/crick-and-watson-did-not-steal-franklins-data-1252663/)
+* [2025-12-11, 15:59:33](https://news.ycombinator.com/item?id=46233009) - [Show HN: GPULlama3.java Llama Compilied to PTX/OpenCL Now Integrated in Quarkus](https://news.ycombinator.com/item?id=46233009)
 * [2025-12-11, 15:25:43](https://news.ycombinator.com/item?id=46232528) - [iPhone Typos? It's Not Just You – The iOS Keyboard Is Broken [video]](https://www.youtube.com/watch?v=hksVvXONrIo)
 * [2025-12-11, 15:18:51](https://news.ycombinator.com/item?id=46232434) - [Launch HN: BrowserBook (YC F24) – IDE for deterministic browser automation](https://news.ycombinator.com/item?id=46232434)
 * [2025-12-11, 15:01:44](https://news.ycombinator.com/item?id=46232220) - [An Orbital House of Cards: Frequent Megaconstellation Close Conjunctions](https://arxiv.org/abs/2512.09643)
@@ -30,6 +29,7 @@
 * [2025-12-04, 14:25:38](https://news.ycombinator.com/item?id=46147987) - [Booting Linux in QEMU and Writing PID 1 in Go to Illustrate Kernel as Program](https://serversfor.dev/linux-inside-out/the-linux-kernel-is-just-a-program/)
 * [2025-12-03, 08:08:31](https://news.ycombinator.com/item?id=46131518) - [Helldivers 2 on-disk size 85% reduction](https://store.steampowered.com/news/app/553850/view/491583942944621371)
 * [2025-11-29, 13:20:01](https://news.ycombinator.com/item?id=46087339) - [Show HN: oeis-tui – A TUI to search OEIS integer sequences in the terminal](https://github.com/hako/oeis-tui)
+* [2025-11-28, 22:05:16](https://news.ycombinator.com/item?id=46083184) - [Giant of the Attic: On the Majesty of Alan Moore](https://www.metropolitanreview.org/p/giant-of-the-attic)
 
 ## [Archives](archives/index.md)
 
