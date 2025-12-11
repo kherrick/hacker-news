@@ -46,6 +46,7 @@
 * [2025-12-04, 15:06:08](https://news.ycombinator.com/item?id=46148460) - [Show HN: OnlyRecipe 2.0 – I added all features HN requested – 4 years later](https://onlyrecipeapp.com/?url=https://www.allrecipes.com/turkish-pasta-recipe-8754903)
 * [2025-12-04, 14:45:10](https://news.ycombinator.com/item?id=46148202) - [The web runs on tolerance](https://shkspr.mobi/blog/2025/12/the-web-runs-on-tolerance/)
 * [2025-12-04, 14:26:30](https://news.ycombinator.com/item?id=46147996) - [Operando interlayer expansion of curved graphene for dense supercapacitors](https://www.nature.com/articles/s41467-025-63485-0)
+* [2025-12-04, 14:25:38](https://news.ycombinator.com/item?id=46147987) - [Booting Linux in QEMU and Writing PID 1 in Go to Illustrate Kernel as Program](https://serversfor.dev/linux-inside-out/the-linux-kernel-is-just-a-program/)
 * [2025-12-04, 13:40:00](https://news.ycombinator.com/item?id=46147540) - [Transparent Leadership Beats Servant Leadership](https://entropicthoughts.com/transparent-leadership-beats-servant-leadership)
 * [2025-12-04, 13:34:27](https://news.ycombinator.com/item?id=46147493) - [The Age-Gated Internet Is Sweeping the US. Activists Are Fighting Back](https://www.wired.com/story/age-verification-is-sweeping-the-us-activists-are-fighting-back/)
 * [2025-12-04, 13:22:35](https://news.ycombinator.com/item?id=46147371) - [Human hair grows through 'pulling' not pushing, study shows](https://phys.org/news/2025-12-human-hair.html)

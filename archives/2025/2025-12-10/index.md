@@ -34,6 +34,7 @@
 * [2025-12-10, 15:10:36](https://news.ycombinator.com/item?id=46218538) - [Writing an Outlook Add-in in Rust](https://tritium.legal/blog/outlook)
 * [2025-12-10, 14:59:47](https://news.ycombinator.com/item?id=46218419) - [How Much Wealth an AI Stock Market Crash Could Destroy](https://www.economist.com/interactive/graphic-detail/2025/11/05/how-much-wealth-would-be-destroyed-by-an-ai-stockmarket-crash)
 * [2025-12-10, 14:39:05](https://news.ycombinator.com/item?id=46218202) - [The New Kindle Scribes Are Great, but Not Great Enough](https://www.wired.com/review/kindle-scribe-colorsoft-2025/)
+* [2025-12-10, 14:30:43](https://news.ycombinator.com/item?id=46218101) - [Show HN: Wirebrowser – A JavaScript debugger with breakpoint-driven heap search](https://github.com/fcavallarin/wirebrowser)
 * [2025-12-10, 14:01:12](https://news.ycombinator.com/item?id=46217793) - [Taxing Growth](https://www.equitileconversations.com/2459100/episodes/18312924-taxing-growth)
 * [2025-12-10, 13:41:56](https://news.ycombinator.com/item?id=46217608) - [I Tried the New Android XR Smart Glasses from Google and XReal](https://www.pcmag.com/news/i-tried-the-new-android-xr-smart-glasses-from-google-they-impressed-me)
 * [2025-12-10, 13:39:16](https://news.ycombinator.com/item?id=46217578) - [New benchmark shows top LLMs struggle in real mental health care](https://swordhealth.com/newsroom/sword-introduces-mindeval)
