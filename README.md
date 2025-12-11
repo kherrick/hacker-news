@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-12-11, 03:50:04](https://news.ycombinator.com/item?id=46227422) - [Vibe coding is mad depressing](https://law.gmnz.xyz/vibe-coding-is-mad-depressing/)
 * [2025-12-11, 01:18:55](https://news.ycombinator.com/item?id=46226483) - [Patterns.dev](https://www.patterns.dev/)
 * [2025-12-10, 21:45:11](https://news.ycombinator.com/item?id=46224311) - [When would you ever want bubblesort? (2023)](https://buttondown.com/hillelwayne/archive/when-would-you-ever-want-bubblesort/)
 * [2025-12-10, 20:29:12](https://news.ycombinator.com/item?id=46223311) - [Getting a Gemini API key is an exercise in frustration](https://ankursethi.com/blog/gemini-api-key-frustration/)
@@ -12,7 +13,6 @@
 * [2025-12-10, 17:23:53](https://news.ycombinator.com/item?id=46220540) - [Auto-grading decade-old Hacker News discussions with hindsight](https://karpathy.bearblog.dev/auto-grade-hn/)
 * [2025-12-10, 17:20:06](https://news.ycombinator.com/item?id=46220488) - [Valve: HDMI Forum Continues to Block HDMI 2.1 for Linux](https://www.heise.de/en/news/Valve-HDMI-Forum-Continues-to-Block-HDMI-2-1-for-Linux-11107440.html)
 * [2025-12-10, 17:00:22](https://news.ycombinator.com/item?id=46220211) - [9 Mothers (YC X26) Is Hiring](https://app.dover.com/jobs/9mothers)
-* [2025-12-10, 16:34:52](https://news.ycombinator.com/item?id=46219853) - [DeepSeek uses banned Nvidia chips for AI model, report says](https://finance.yahoo.com/news/china-deepseek-uses-banned-nvidia-131207746.html)
 * [2025-12-10, 16:13:38](https://news.ycombinator.com/item?id=46219538) - [Qwen3-Omni-Flash-2025-12-01：a next-generation native multimodal large model](https://qwen.ai/blog?id=qwen3-omni-flash-20251201)
 * [2025-12-10, 16:05:03](https://news.ycombinator.com/item?id=46219386) - [Launch HN: InspectMind (YC W24) – AI agent for reviewing construction drawings](https://news.ycombinator.com/item?id=46219386)
 * [2025-12-10, 16:02:57](https://news.ycombinator.com/item?id=46219346) - [Size of Life](https://neal.fun/size-of-life/)
@@ -27,7 +27,7 @@
 * [2025-12-05, 15:34:49](https://news.ycombinator.com/item?id=46162643) - [Typewriter Plotters (2022)](https://biosrhythm.com/?p=2143)
 * [2025-12-04, 18:11:21](https://news.ycombinator.com/item?id=46150797) - [Scientists create ultra fast memory using light](https://www.isi.edu/news/81186/scientists-create-ultra-fast-memory-using-light/)
 * [2025-12-04, 01:10:28](https://news.ycombinator.com/item?id=46142589) - [Golang's big miss on memory arenas](https://avittig.medium.com/golangs-big-miss-on-memory-arenas-f1375524cc90)
-* [2025-12-03, 14:00:14](https://news.ycombinator.com/item?id=46134541) - [Show HN: VoxCSS – A DOM based voxel engine](https://github.com/LayoutitStudio/voxcss)
+* [2025-12-03, 21:40:55](https://news.ycombinator.com/item?id=46140554) - [3D-Printed Carotid Artery-on-Chips for Personalized Thrombosis Investigation](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202508890)
 * [2025-12-02, 16:55:36](https://news.ycombinator.com/item?id=46123310) - [Gundam is just the same as Jane Austen but happens to include giant mech suits](https://eli.li/gundam-is-just-the-same-as-jane-austen-but-happens-to-include-giant-mech-suits)
 * [2025-12-02, 10:30:46](https://news.ycombinator.com/item?id=46119762) - [Fossils reveal anacondas have been giants for over 12 million years](https://www.cam.ac.uk/stories/twelve-million-years-of-giant-anacondas)
 
