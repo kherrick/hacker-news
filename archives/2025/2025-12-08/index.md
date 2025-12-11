@@ -36,6 +36,7 @@
 * [2025-12-08, 16:34:08](https://news.ycombinator.com/item?id=46194337) - [Let's put Tailscale on a jailbroken Kindle](https://tailscale.com/blog/tailscale-jailbroken-kindle)
 * [2025-12-08, 16:32:50](https://news.ycombinator.com/item?id=46194315) - [Google Confirms Android Attacks-No Fix for Most Samsung Users](https://www.forbes.com/sites/zakdoffman/2025/12/08/google-confirms-android-attacks-no-fix-for-most-samsung-users/)
 * [2025-12-08, 16:32:12](https://news.ycombinator.com/item?id=46194302) - [How the Creator Economy Destroyed the Internet](https://www.theverge.com/cs/features/810002/influencers-creator-economy-special-series)
+* [2025-12-08, 16:31:39](https://news.ycombinator.com/item?id=46194294) - [Sharding to Contain the Blast Radius of Data Breaches](https://www.mimirsec.com/2025/12/05/sharding-to-contain-the-blast-radius-of-data-breaches/)
 * [2025-12-08, 16:14:52](https://news.ycombinator.com/item?id=46194063) - [No more O'Reilly subscriptions for me](https://zerokspot.com/weblog/2025/12/05/no-more-oreilly-subscriptions-for-me/)
 * [2025-12-08, 16:06:14](https://news.ycombinator.com/item?id=46193931) - [AMD GPU Debugger](https://thegeeko.me/blog/amd-gpu-debugging/)
 * [2025-12-08, 15:33:02](https://news.ycombinator.com/item?id=46193413) - [Tsunami warning issued after 7.6-magnitude earthquake strikes Japan](https://earthquake.usgs.gov/earthquakes/map/?currentFeatureId=us6000rtdt&extent=-5.61599,111.26953&extent=70.40735,173.14453)
