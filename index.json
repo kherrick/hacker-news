@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-12-11, 19:30:58",
+      "https://news.ycombinator.com/item?id=46236037"
+    ],
+    [
+      "My productivity app is a never-ending .txt file (2022)",
+      "https://jeffhuang.com/productivity_text_file/"
+    ]
+  ],
+  [
+    [
       "2025-12-11, 19:25:14",
       "https://news.ycombinator.com/item?id=46235959"
     ],
@@ -15,18 +25,8 @@
       "https://news.ycombinator.com/item?id=46235618"
     ],
     [
-      "Pop!_OS 24.04 LTS with Cosmic Desktop Environment Released",
+      "Pop_OS 24.04 LTS with COSMIC desktop environment",
       "https://blog.system76.com/post/pop-os-letter-from-our-founder/"
-    ]
-  ],
-  [
-    [
-      "2025-12-11, 18:58:49",
-      "https://news.ycombinator.com/item?id=46235531"
-    ],
-    [
-      "Age Verification Is Coming for the Internet",
-      "https://www.eff.org/deeplinks/2025/12/age-verification-coming-internet-we-built-you-resource-hub-fight-back"
     ]
   ],
   [
@@ -141,16 +141,6 @@
   ],
   [
     [
-      "2025-12-11, 14:30:28",
-      "https://news.ycombinator.com/item?id=46231829"
-    ],
-    [
-      "Pop Goes the Population Count?",
-      "https://xania.org/202512/11-pop-goes-the-weasel-er-count"
-    ]
-  ],
-  [
-    [
       "2025-12-11, 14:01:22",
       "https://news.ycombinator.com/item?id=46231460"
     ],
@@ -201,6 +191,16 @@
   ],
   [
     [
+      "2025-12-10, 20:35:07",
+      "https://news.ycombinator.com/item?id=46223389"
+    ],
+    [
+      "EFF launches Age Verification Hub",
+      "https://www.eff.org/press/releases/eff-launches-age-verification-hub-resource-against-misguided-laws"
+    ]
+  ],
+  [
+    [
       "2025-12-10, 20:29:12",
       "https://news.ycombinator.com/item?id=46223311"
     ],
@@ -245,7 +245,7 @@
       "https://news.ycombinator.com/item?id=46197930"
     ],
     [
-      "Show HN: I've asked Claude to improve codebase quality 200 times",
+      "The highest quality codebase",
       "https://gricha.dev/blog/the-highest-quality-codebase"
     ]
   ],
