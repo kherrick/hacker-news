@@ -11,22 +11,22 @@
   ],
   [
     [
-      "2025-12-10, 20:47:15",
-      "https://news.ycombinator.com/item?id=46223577"
-    ],
-    [
-      "Apple Services Experiencing Outage",
-      "https://www.apple.com/support/systemstatus/"
-    ]
-  ],
-  [
-    [
       "2025-12-10, 20:29:12",
       "https://news.ycombinator.com/item?id=46223311"
     ],
     [
       "Getting a Gemini API key is an exercise in frustration",
       "https://ankursethi.com/blog/gemini-api-key-frustration/"
+    ]
+  ],
+  [
+    [
+      "2025-12-10, 19:19:17",
+      "https://news.ycombinator.com/item?id=46222237"
+    ],
+    [
+      "I got an Nvidia GH200 server for €7.5k on Reddit and converted it to a desktop",
+      "https://dnhkng.github.io/posts/hopper/"
     ]
   ],
   [
@@ -221,12 +221,22 @@
   ],
   [
     [
-      "2025-12-06, 14:24:21",
-      "https://news.ycombinator.com/item?id=46173584"
+      "2025-12-08, 22:37:28",
+      "https://news.ycombinator.com/item?id=46198606"
     ],
     [
-      "Resolution Dynamics: Deriving the Fine Structure Constant from Shannon Capacity",
-      "https://zenodo.org/records/17821936"
+      "Why the Sanitizer API is just `setHTML()`",
+      "https://frederikbraun.de/why-sethtml.html"
+    ]
+  ],
+  [
+    [
+      "2025-12-08, 16:31:39",
+      "https://news.ycombinator.com/item?id=46194294"
+    ],
+    [
+      "Sharding to Contain the Blast Radius of Data Breaches",
+      "https://www.mimirsec.com/2025/12/05/sharding-to-contain-the-blast-radius-of-data-breaches/"
     ]
   ],
   [
@@ -257,16 +267,6 @@
     [
       "Scientists create ultra fast memory using light",
       "https://www.isi.edu/news/81186/scientists-create-ultra-fast-memory-using-light/"
-    ]
-  ],
-  [
-    [
-      "2025-12-04, 05:16:01",
-      "https://news.ycombinator.com/item?id=46144039"
-    ],
-    [
-      "Should CSS be constraints?",
-      "https://pavpanchekha.com/blog/why-css-bad.html"
     ]
   ],
   [
