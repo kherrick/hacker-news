@@ -2,6 +2,7 @@
 
 * [2025-12-11, 14:12:14](https://news.ycombinator.com/item?id=46231585) - [Disney making $1B investment in OpenAI, will allow characters on Sora AI](https://www.cnbc.com/2025/12/11/disney-openai-sora-characters-video.html)
 * [2025-12-11, 14:05:16](https://news.ycombinator.com/item?id=46231493) - [The Walt Disney Company and OpenAI Partner on Sora](https://openai.com/index/disney-sora-agreement/)
+* [2025-12-11, 13:45:08](https://news.ycombinator.com/item?id=46231274) - [Craft software that makes people feel something](https://rapha.land/craft-software-that-makes-people-feel-something/)
 * [2025-12-11, 13:35:55](https://news.ycombinator.com/item?id=46231187) - [French supermarket's Christmas advert is worldwide hit (without AI) [video]](https://www.youtube.com/watch?v=Na9VmMNJvsA)
 * [2025-12-11, 09:51:47](https://news.ycombinator.com/item?id=46229467) - [A “frozen” dictionary for Python](https://lwn.net/SubscriberLink/1047238/25c270b077849dc0/)
 * [2025-12-11, 07:21:33](https://news.ycombinator.com/item?id=46228597) - [The Cost of a Closure in C](https://thephd.dev/the-cost-of-a-closure-in-c-c2y)
@@ -28,7 +29,6 @@
 * [2025-12-05, 11:03:37](https://news.ycombinator.com/item?id=46159676) - [Go's escape analysis and why my function return worked](https://bonniesimon.in/blog/go-escape-analysis)
 * [2025-12-04, 14:25:38](https://news.ycombinator.com/item?id=46147987) - [Booting Linux in QEMU and Writing PID 1 in Go to Illustrate Kernel as Program](https://serversfor.dev/linux-inside-out/the-linux-kernel-is-just-a-program/)
 * [2025-12-03, 08:08:31](https://news.ycombinator.com/item?id=46131518) - [Helldivers 2 on-disk size 85% reduction](https://store.steampowered.com/news/app/553850/view/491583942944621371)
-* [2025-12-02, 10:30:46](https://news.ycombinator.com/item?id=46119762) - [Fossils reveal anacondas have been giants for over 12 million years](https://www.cam.ac.uk/stories/twelve-million-years-of-giant-anacondas)
 * [2025-11-29, 13:20:01](https://news.ycombinator.com/item?id=46087339) - [Show HN: oeis-tui – A TUI to search OEIS integer sequences in the terminal](https://github.com/hako/oeis-tui)
 
 ## [Archives](archives/index.md)
