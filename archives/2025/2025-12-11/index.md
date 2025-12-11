@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-12-11](index.md)
 
+* [2025-12-11, 14:12:14](https://news.ycombinator.com/item?id=46231585) - [Disney making $1B investment in OpenAI, will allow characters on Sora AI](https://www.cnbc.com/2025/12/11/disney-openai-sora-characters-video.html)
+* [2025-12-11, 14:05:16](https://news.ycombinator.com/item?id=46231493) - [The Walt Disney Company and OpenAI Partner on Sora](https://openai.com/index/disney-sora-agreement/)
 * [2025-12-11, 13:35:55](https://news.ycombinator.com/item?id=46231187) - [French supermarket's Christmas advert is worldwide hit (without AI) [video]](https://www.youtube.com/watch?v=Na9VmMNJvsA)
 * [2025-12-11, 13:28:12](https://news.ycombinator.com/item?id=46231107) - [Why No Fish Wants a Tongue-Eating Parasitic Louse in Its Mouth](https://animals.howstuffworks.com/marine-life/parasitic-tongue-eating-louse.htm)
 * [2025-12-11, 12:30:25](https://news.ycombinator.com/item?id=46230576) - [South Korea – A Cautionary Tale for the Rest of Humanity](https://worksinprogress.co/issue/two-is-already-too-many/)

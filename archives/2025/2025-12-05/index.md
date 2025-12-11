@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-12-05](index.md)
 
+* [2025-12-05, 23:42:15](https://news.ycombinator.com/item?id=46168902) - [Oldest attestation of Austronesian language: Đông Yên Châu inscription](https://en.wikipedia.org/wiki/%C4%90%C3%B4ng_Y%C3%AAn_Ch%C3%A2u_inscription)
 * [2025-12-05, 23:18:56](https://news.ycombinator.com/item?id=46168699) - [Google 'Looking into' Gmail Hack Locking Users Out with No Recovery](https://www.forbes.com/sites/daveywinder/2025/12/05/google-looking-into-gmail-hack-locking-users-out-with-no-recovery/)
 * [2025-12-05, 22:24:54](https://news.ycombinator.com/item?id=46168180) - [How can I read the standard output of an already-running process?](https://devblogs.microsoft.com/oldnewthing/20251204-00/?p=111841)
 * [2025-12-05, 22:10:50](https://news.ycombinator.com/item?id=46168057) - [Adenosine on the common path of rapid antidepressant action: The coffee paradox](https://genomicpress.kglmeridian.com/view/journals/brainmed/aop/article-10.61373-bm025c.0134/article-10.61373-bm025c.0134.xml)
