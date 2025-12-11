@@ -9,6 +9,7 @@
 * [2025-12-11, 21:36:56](https://news.ycombinator.com/item?id=46237515) - [React2Shell and related RSC vulnerabilities threat brief](https://blog.cloudflare.com/react2shell-rsc-vulnerabilities-exploitation-threat-brief/)
 * [2025-12-11, 21:35:52](https://news.ycombinator.com/item?id=46237501) - [Powder and Stone. Or, Why Medieval Rulers Loved Castles](https://1517.substack.com/p/powder-and-stone-or-why-medieval)
 * [2025-12-11, 21:18:49](https://news.ycombinator.com/item?id=46237304) - [RFC 6677 DNS Transport over TCP – Implementation Requirements](https://www.ietf.org/rfc/rfc7766.txt)
+* [2025-12-11, 21:05:27](https://news.ycombinator.com/item?id=46237146) - [Show HN: Gotui – a modern Go terminal dashboard library](https://github.com/metaspartan/gotui)
 * [2025-12-11, 21:00:10](https://news.ycombinator.com/item?id=46237081) - [Almond (YC X25) Is Hiring SWEs and MechEs](https://www.ycombinator.com/companies/almond-2/jobs)
 * [2025-12-11, 20:46:46](https://news.ycombinator.com/item?id=46236924) - [Denial of service and source code exposure in React Server Components](https://react.dev/blog/2025/12/11/denial-of-service-and-source-code-exposure-in-react-server-components)
 * [2025-12-11, 20:32:22](https://news.ycombinator.com/item?id=46236738) - [UK House of Lords attempting to ban use of VPNs by anyone under 16](https://alecmuffett.com/article/134925)
