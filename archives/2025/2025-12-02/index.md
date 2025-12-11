@@ -77,6 +77,7 @@
 * [2025-12-02, 12:37:47](https://news.ycombinator.com/item?id=46120603) - [Lazier Binary Decision Diagrams for set-theoretic types](https://elixir-lang.org/blog/2025/12/02/lazier-bdds-for-set-theoretic-types/)
 * [2025-12-02, 12:28:34](https://news.ycombinator.com/item?id=46120549) - [A series of vignettes from my childhood and early career](https://www.jasonscheirer.com/weblog/vignettes/)
 * [2025-12-02, 11:30:29](https://news.ycombinator.com/item?id=46120181) - [Addressing the adding situation – Matt Godbolt](https://xania.org/202512/02-adding-integers)
+* [2025-12-02, 10:30:46](https://news.ycombinator.com/item?id=46119762) - [Fossils reveal anacondas have been giants for over 12 million years](https://www.cam.ac.uk/stories/twelve-million-years-of-giant-anacondas)
 * [2025-12-02, 10:20:34](https://news.ycombinator.com/item?id=46119699) - [Man unexpectedly cured of HIV after stem cell transplant](https://www.newscientist.com/article/2506595-man-unexpectedly-cured-of-hiv-after-stem-cell-transplant/)
 * [2025-12-02, 09:51:42](https://news.ycombinator.com/item?id=46119500) - [Advent of Compiler Optimisations 2025](https://xania.org/202511/advent-of-compiler-optimisation)
 * [2025-12-02, 09:29:06](https://news.ycombinator.com/item?id=46119337) - [Visualize 4B Years: The Trillions of Generations: LUCA to Modern Human](https://www.g9n.com/tools/learning/evolution-visualisation)

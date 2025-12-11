@@ -22,7 +22,6 @@
 * [2025-12-10, 00:08:34](https://news.ycombinator.com/item?id=46212438) - [Rubio stages font coup: Times New Roman ousts Calibri](https://www.reuters.com/world/us/rubio-stages-font-coup-times-new-roman-ousts-calibri-2025-12-09/)
 * [2025-12-09, 18:12:29](https://news.ycombinator.com/item?id=46208348) - [Australia begins enforcing world-first teen social media ban](https://www.reuters.com/legal/litigation/australia-social-media-ban-takes-effect-world-first-2025-12-09/)
 * [2025-12-09, 10:20:02](https://news.ycombinator.com/item?id=46203343) - [How Google Maps allocates survival across London's restaurants](https://laurenleek.substack.com/p/how-google-maps-quietly-allocates)
-* [2025-12-08, 16:31:39](https://news.ycombinator.com/item?id=46194294) - [Sharding to Contain the Blast Radius of Data Breaches](https://www.mimirsec.com/2025/12/05/sharding-to-contain-the-blast-radius-of-data-breaches/)
 * [2025-12-06, 16:27:35](https://news.ycombinator.com/item?id=46174534) - [VCMI: An open-source engine for Heroes III](https://vcmi.eu/)
 * [2025-12-06, 11:28:56](https://news.ycombinator.com/item?id=46172498) - [OpenRouter Broadcast](https://openrouter.ai/docs/guides/features/broadcast/overview)
 * [2025-12-05, 15:34:49](https://news.ycombinator.com/item?id=46162643) - [Typewriter Plotters (2022)](https://biosrhythm.com/?p=2143)
@@ -30,6 +29,7 @@
 * [2025-12-04, 01:10:28](https://news.ycombinator.com/item?id=46142589) - [Golang's big miss on memory arenas](https://avittig.medium.com/golangs-big-miss-on-memory-arenas-f1375524cc90)
 * [2025-12-03, 14:00:14](https://news.ycombinator.com/item?id=46134541) - [Show HN: VoxCSS – A DOM based voxel engine](https://github.com/LayoutitStudio/voxcss)
 * [2025-12-02, 16:55:36](https://news.ycombinator.com/item?id=46123310) - [Gundam is just the same as Jane Austen but happens to include giant mech suits](https://eli.li/gundam-is-just-the-same-as-jane-austen-but-happens-to-include-giant-mech-suits)
+* [2025-12-02, 10:30:46](https://news.ycombinator.com/item?id=46119762) - [Fossils reveal anacondas have been giants for over 12 million years](https://www.cam.ac.uk/stories/twelve-million-years-of-giant-anacondas)
 
 ## [Archives](archives/index.md)
 
