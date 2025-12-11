@@ -1,11 +1,31 @@
 [
   [
     [
+      "2025-12-11, 21:00:10",
+      "https://news.ycombinator.com/item?id=46237081"
+    ],
+    [
+      "Almond (YC X25) Is Hiring SWEs and MechEs",
+      "https://www.ycombinator.com/companies/almond-2/jobs"
+    ]
+  ],
+  [
+    [
+      "2025-12-11, 20:46:46",
+      "https://news.ycombinator.com/item?id=46236924"
+    ],
+    [
+      "Denial of service and source code exposure in React Server Components",
+      "https://react.dev/blog/2025/12/11/denial-of-service-and-source-code-exposure-in-react-server-components"
+    ]
+  ],
+  [
+    [
       "2025-12-11, 19:30:58",
       "https://news.ycombinator.com/item?id=46236037"
     ],
     [
-      "My productivity app is a never-ending .txt file (2022)",
+      "My productivity app is a never-ending .txt file (2020)",
       "https://jeffhuang.com/productivity_text_file/"
     ]
   ],
@@ -17,16 +37,6 @@
     [
       "An SVG is all you need",
       "https://jon.recoil.org/blog/2025/12/an-svg-is-all-you-need.html"
-    ]
-  ],
-  [
-    [
-      "2025-12-11, 19:03:45",
-      "https://news.ycombinator.com/item?id=46235618"
-    ],
-    [
-      "Pop_OS 24.04 LTS with COSMIC desktop environment",
-      "https://blog.system76.com/post/pop-os-letter-from-our-founder/"
     ]
   ],
   [
@@ -71,26 +81,6 @@
   ],
   [
     [
-      "2025-12-11, 16:52:37",
-      "https://news.ycombinator.com/item?id=46233798"
-    ],
-    [
-      "Days since last GitHub incident",
-      "https://github-incidents.pages.dev/"
-    ]
-  ],
-  [
-    [
-      "2025-12-11, 15:59:33",
-      "https://news.ycombinator.com/item?id=46233009"
-    ],
-    [
-      "Show HN: GPULlama3.java Llama Compilied to PTX/OpenCL Now Integrated in Quarkus",
-      "https://news.ycombinator.com/item?id=46233009"
-    ]
-  ],
-  [
-    [
       "2025-12-11, 15:52:30",
       "https://news.ycombinator.com/item?id=46232898"
     ],
@@ -131,12 +121,22 @@
   ],
   [
     [
-      "2025-12-11, 14:01:22",
-      "https://news.ycombinator.com/item?id=46231460"
+      "2025-12-11, 14:21:14",
+      "https://news.ycombinator.com/item?id=46231709"
     ],
     [
-      "Show HN: An endless scrolling word search game",
-      "https://endless-wordsearch.com"
+      "The architecture of \"not bad\": Decoding the Chinese source code of the void",
+      "https://suggger.substack.com/p/the-architecture-of-not-bad-decoding"
+    ]
+  ],
+  [
+    [
+      "2025-12-11, 14:05:16",
+      "https://news.ycombinator.com/item?id=46231493"
+    ],
+    [
+      "The Walt Disney Company and OpenAI Partner on Sora",
+      "https://openai.com/index/disney-sora-agreement/"
     ]
   ],
   [
@@ -151,12 +151,12 @@
   ],
   [
     [
-      "2025-12-11, 09:51:47",
-      "https://news.ycombinator.com/item?id=46229467"
+      "2025-12-11, 13:35:55",
+      "https://news.ycombinator.com/item?id=46231187"
     ],
     [
-      "A “frozen” dictionary for Python",
-      "https://lwn.net/SubscriberLink/1047238/25c270b077849dc0/"
+      "French supermarket's Christmas advert is worldwide hit (without AI) [video]",
+      "https://www.youtube.com/watch?v=Na9VmMNJvsA"
     ]
   ],
   [
@@ -285,7 +285,7 @@
       "https://news.ycombinator.com/item?id=46127230"
     ],
     [
-      "Encountering Japanese Ellipses in English Translations",
+      "Encountering Japanese ellipses in English translations (2013)",
       "https://legendsoflocalization.com/articles/japanese-ellipsis-usage/"
     ]
   ],
