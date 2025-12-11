@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-12-11](index.md)
 
+* [2025-12-11, 13:35:55](https://news.ycombinator.com/item?id=46231187) - [French supermarket's Christmas advert is worldwide hit (without AI) [video]](https://www.youtube.com/watch?v=Na9VmMNJvsA)
+* [2025-12-11, 12:30:25](https://news.ycombinator.com/item?id=46230576) - [South Korea – A Cautionary Tale for the Rest of Humanity](https://worksinprogress.co/issue/two-is-already-too-many/)
 * [2025-12-11, 11:26:45](https://news.ycombinator.com/item?id=46230072) - [Meta shuts down global accounts linked to abortion advice and queer content](https://www.theguardian.com/global-development/2025/dec/11/meta-shuts-down-global-accounts-linked-to-abortion-advice-and-queer-content)
 * [2025-12-11, 10:53:22](https://news.ycombinator.com/item?id=46229854) - [McDonald's removes AI-generated ad after backlash](https://www.theguardian.com/business/2025/dec/11/mcdonalds-removes-ai-generated-christmas-ad-advert-backlash)
 * [2025-12-11, 10:38:51](https://news.ycombinator.com/item?id=46229766) - [If You Quit Social Media, Will You Read More Books?](https://www.newyorker.com/news/fault-lines/if-you-quit-social-media-will-you-read-more-books)
