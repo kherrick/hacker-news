@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-12-11, 19:03:45",
+      "https://news.ycombinator.com/item?id=46235618"
+    ],
+    [
+      "Pop!_OS 24.04 LTS with Cosmic Desktop Environment Released",
+      "https://blog.system76.com/post/pop-os-letter-from-our-founder/"
+    ]
+  ],
+  [
+    [
+      "2025-12-11, 18:52:08",
+      "https://news.ycombinator.com/item?id=46235412"
+    ],
+    [
+      "Going Through Snowden Documents, Part 1",
+      "https://libroot.org/posts/going-through-snowden-documents-part-1/"
+    ]
+  ],
+  [
+    [
       "2025-12-11, 18:17:19",
       "https://news.ycombinator.com/item?id=46234920"
     ],
@@ -17,16 +37,6 @@
     [
       "GPT-5.2",
       "https://openai.com/index/introducing-gpt-5-2/"
-    ]
-  ],
-  [
-    [
-      "2025-12-11, 18:06:42",
-      "https://news.ycombinator.com/item?id=46234806"
-    ],
-    [
-      "Programmers and software developers lost the plot on naming their tools",
-      "https://larr.net/p/namings.html"
     ]
   ],
   [
@@ -87,6 +97,16 @@
     [
       "Show HN: GPULlama3.java Llama Compilied to PTX/OpenCL Now Integrated in Quarkus",
       "https://news.ycombinator.com/item?id=46233009"
+    ]
+  ],
+  [
+    [
+      "2025-12-11, 15:52:30",
+      "https://news.ycombinator.com/item?id=46232898"
+    ],
+    [
+      "Deprecate like you mean it",
+      "https://entropicthoughts.com/deprecate-like-you-mean-it"
     ]
   ],
   [
@@ -211,16 +231,6 @@
   ],
   [
     [
-      "2025-12-09, 10:20:02",
-      "https://news.ycombinator.com/item?id=46203343"
-    ],
-    [
-      "How Google Maps allocates survival across London's restaurants",
-      "https://laurenleek.substack.com/p/how-google-maps-quietly-allocates"
-    ]
-  ],
-  [
-    [
       "2025-12-08, 21:33:09",
       "https://news.ycombinator.com/item?id=46197930"
     ],
@@ -257,16 +267,6 @@
     [
       "Oldest attestation of Austronesian language: Đông Yên Châu inscription",
       "https://en.wikipedia.org/wiki/%C4%90%C3%B4ng_Y%C3%AAn_Ch%C3%A2u_inscription"
-    ]
-  ],
-  [
-    [
-      "2025-12-04, 14:25:38",
-      "https://news.ycombinator.com/item?id=46147987"
-    ],
-    [
-      "Booting Linux in QEMU and Writing PID 1 in Go to Illustrate Kernel as Program",
-      "https://serversfor.dev/linux-inside-out/the-linux-kernel-is-just-a-program/"
     ]
   ],
   [
