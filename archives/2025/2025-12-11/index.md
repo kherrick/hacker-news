@@ -4,12 +4,14 @@
 
 ### [Archives](../../index.md) for [2025-12-11](index.md)
 
+* [2025-12-11, 19:18:27](https://news.ycombinator.com/item?id=46235859) - [Last quarter I rolled out Microsoft Copilot to 4k employees](https://twitter.com/gothburz/status/1999124665801880032)
 * [2025-12-11, 19:03:45](https://news.ycombinator.com/item?id=46235618) - [Pop!_OS 24.04 LTS with Cosmic Desktop Environment Released](https://blog.system76.com/post/pop-os-letter-from-our-founder/)
 * [2025-12-11, 18:52:08](https://news.ycombinator.com/item?id=46235412) - [Going Through Snowden Documents, Part 1](https://libroot.org/posts/going-through-snowden-documents-part-1/)
 * [2025-12-11, 18:17:19](https://news.ycombinator.com/item?id=46234920) - [Rivian Unveils Custom Silicon, R2 Lidar Roadmap, and Universal Hands Free](https://riviantrackr.com/news/rivian-unveils-custom-silicon-r2-lidar-roadmap-universal-hands-free-and-its-next-gen-autonomy-platform/)
 * [2025-12-11, 18:12:43](https://news.ycombinator.com/item?id=46234874) - [GPT-5.2](https://openai.com/index/introducing-gpt-5-2/)
 * [2025-12-11, 18:06:42](https://news.ycombinator.com/item?id=46234806) - [Programmers and software developers lost the plot on naming their tools](https://larr.net/p/namings.html)
 * [2025-12-11, 18:04:47](https://news.ycombinator.com/item?id=46234788) - [GPT-5.2](https://platform.openai.com/docs/guides/latest-model)
+* [2025-12-11, 18:04:47](https://news.ycombinator.com/item?id=46234788) - [GPT-5.2](https://openai.com/index/introducing-gpt-5-2/)
 * [2025-12-11, 17:59:10](https://news.ycombinator.com/item?id=46234710) - [Litestream VFS](https://fly.io/blog/litestream-vfs/)
 * [2025-12-11, 17:20:11](https://news.ycombinator.com/item?id=46234186) - [Show HN: SIM – Apache-2.0 n8n alternative](https://github.com/simstudioai/sim)
 * [2025-12-11, 16:52:37](https://news.ycombinator.com/item?id=46233798) - [Days since last GitHub incident](https://github-incidents.pages.dev/)
@@ -25,6 +27,7 @@
 * [2025-12-11, 14:30:28](https://news.ycombinator.com/item?id=46231829) - [Pop Goes the Population Count?](https://xania.org/202512/11-pop-goes-the-weasel-er-count)
 * [2025-12-11, 14:12:14](https://news.ycombinator.com/item?id=46231585) - [Disney making $1B investment in OpenAI, will allow characters on Sora AI](https://www.cnbc.com/2025/12/11/disney-openai-sora-characters-video.html)
 * [2025-12-11, 14:05:16](https://news.ycombinator.com/item?id=46231493) - [The Walt Disney Company and OpenAI Partner on Sora](https://openai.com/index/disney-sora-agreement/)
+* [2025-12-11, 14:01:22](https://news.ycombinator.com/item?id=46231460) - [Show HN: An endless scrolling word search game](https://endless-wordsearch.com)
 * [2025-12-11, 13:45:08](https://news.ycombinator.com/item?id=46231274) - [Craft software that makes people feel something](https://rapha.land/craft-software-that-makes-people-feel-something/)
 * [2025-12-11, 13:35:55](https://news.ycombinator.com/item?id=46231187) - [French supermarket's Christmas advert is worldwide hit (without AI) [video]](https://www.youtube.com/watch?v=Na9VmMNJvsA)
 * [2025-12-11, 13:28:12](https://news.ycombinator.com/item?id=46231107) - [Why No Fish Wants a Tongue-Eating Parasitic Louse in Its Mouth](https://animals.howstuffworks.com/marine-life/parasitic-tongue-eating-louse.htm)
