@@ -24,11 +24,11 @@
 * [2025-12-11, 13:35:55](https://news.ycombinator.com/item?id=46231187) - [French supermarket's Christmas advert is worldwide hit (without AI) [video]](https://www.youtube.com/watch?v=Na9VmMNJvsA)
 * [2025-12-10, 20:35:07](https://news.ycombinator.com/item?id=46223389) - [EFF launches Age Verification Hub](https://www.eff.org/press/releases/eff-launches-age-verification-hub-resource-against-misguided-laws)
 * [2025-12-10, 17:23:53](https://news.ycombinator.com/item?id=46220540) - [Auto-grading decade-old Hacker News discussions with hindsight](https://karpathy.bearblog.dev/auto-grade-hn/)
-* [2025-12-09, 16:10:37](https://news.ycombinator.com/item?id=46206591) - [Show HN: Local Privacy Firewall-blocks PII and secrets before ChatGPT sees them](https://github.com/privacyshield-ai/privacy-firewall)
 * [2025-12-08, 21:33:09](https://news.ycombinator.com/item?id=46197930) - [The highest quality codebase](https://gricha.dev/blog/the-highest-quality-codebase)
 * [2025-12-08, 11:49:40](https://news.ycombinator.com/item?id=46191207) - [Golang optimizations for high‑volume services](https://packagemain.tech/p/golang-optimizations-for-highvolume)
 * [2025-12-08, 10:39:10](https://news.ycombinator.com/item?id=46190760) - [Contact Sheet Prompting](https://www.willienotwilly.com/contact-sheet-prompting)
 * [2025-12-08, 08:29:47](https://news.ycombinator.com/item?id=46189792) - [You gotta push if you wanna pull](https://www.morling.dev/blog/you-gotta-push-if-you-wanna-pull/)
+* [2025-12-06, 05:07:44](https://news.ycombinator.com/item?id=46170892) - [Christmas Tree Exec](https://en.wikipedia.org/wiki/Christmas_Tree_EXEC)
 * [2025-12-02, 21:36:22](https://news.ycombinator.com/item?id=46127191) - [Prove It All Night: With no fame or fortune, what keeps a band onstage? (1999)](https://chicagoreader.com/news/prove-it-all-night/)
 
 ## [Archives](archives/index.md)
