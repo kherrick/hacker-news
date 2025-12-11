@@ -16,6 +16,7 @@
 * [2025-12-02, 22:04:54](https://news.ycombinator.com/item?id=46127575) - [Optimize for Momentum](http://muratbuffalo.blogspot.com/2025/12/optimize-for-momentum.html)
 * [2025-12-02, 21:53:27](https://news.ycombinator.com/item?id=46127412) - [Work disincentives hit the near-poor hardest (2022)](https://www.niskanencenter.org/work-disincentives-hit-the-near-poor-hardest-why-and-what-to-do-about-it/)
 * [2025-12-02, 21:52:30](https://news.ycombinator.com/item?id=46127400) - [AI generated font using nano banana](https://constanttime.notion.site/Worlds-first-Ai-generated-font-using-nano-banana-2ba6f8e15af18012864bdb760fa9c9ba?pvs=74)
+* [2025-12-02, 21:36:22](https://news.ycombinator.com/item?id=46127191) - [Prove It All Night: With no fame or fortune, what keeps a band onstage? (1999)](https://chicagoreader.com/news/prove-it-all-night/)
 * [2025-12-02, 21:31:35](https://news.ycombinator.com/item?id=46127143) - [EmacsConf 2025](https://emacsconf.org/2025/)
 * [2025-12-02, 21:14:38](https://news.ycombinator.com/item?id=46126964) - [Ecosia: The greenest AI is here](https://blog.ecosia.org/ecosia-ai/)
 * [2025-12-02, 21:09:10](https://news.ycombinator.com/item?id=46126906) - [We're Committing $6.25B to Give 25M Children a Financial Head Start](https://www.onedell.com/investamerica/)
