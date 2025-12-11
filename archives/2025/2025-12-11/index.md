@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-12-11](index.md)
 
+* [2025-12-11, 19:03:45](https://news.ycombinator.com/item?id=46235618) - [Pop!_OS 24.04 LTS with Cosmic Desktop Environment Released](https://blog.system76.com/post/pop-os-letter-from-our-founder/)
+* [2025-12-11, 18:52:08](https://news.ycombinator.com/item?id=46235412) - [Going Through Snowden Documents, Part 1](https://libroot.org/posts/going-through-snowden-documents-part-1/)
 * [2025-12-11, 18:17:19](https://news.ycombinator.com/item?id=46234920) - [Rivian Unveils Custom Silicon, R2 Lidar Roadmap, and Universal Hands Free](https://riviantrackr.com/news/rivian-unveils-custom-silicon-r2-lidar-roadmap-universal-hands-free-and-its-next-gen-autonomy-platform/)
 * [2025-12-11, 18:12:43](https://news.ycombinator.com/item?id=46234874) - [GPT-5.2](https://openai.com/index/introducing-gpt-5-2/)
 * [2025-12-11, 18:06:42](https://news.ycombinator.com/item?id=46234806) - [Programmers and software developers lost the plot on naming their tools](https://larr.net/p/namings.html)
