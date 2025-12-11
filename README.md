@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-12-11, 10:38:51](https://news.ycombinator.com/item?id=46229766) - [If You Quit Social Media, Will You Read More Books?](https://www.newyorker.com/news/fault-lines/if-you-quit-social-media-will-you-read-more-books)
-* [2025-12-11, 09:51:47](https://news.ycombinator.com/item?id=46229467) - [A \"Frozen\" Dictionary for Python](https://lwn.net/SubscriberLink/1047238/25c270b077849dc0/)
+* [2025-12-11, 11:26:45](https://news.ycombinator.com/item?id=46230072) - [Meta shuts down global accounts linked to abortion advice and queer content](https://www.theguardian.com/global-development/2025/dec/11/meta-shuts-down-global-accounts-linked-to-abortion-advice-and-queer-content)
+* [2025-12-11, 09:51:47](https://news.ycombinator.com/item?id=46229467) - [A “frozen” dictionary for Python](https://lwn.net/SubscriberLink/1047238/25c270b077849dc0/)
 * [2025-12-11, 07:21:33](https://news.ycombinator.com/item?id=46228597) - [The Cost of a Closure in C](https://thephd.dev/the-cost-of-a-closure-in-c-c2y)
 * [2025-12-11, 04:20:52](https://news.ycombinator.com/item?id=46227619) - [Incomplete list of mistakes in the design of CSS](https://wiki.csswg.org/ideas/mistakes)
 * [2025-12-11, 01:18:55](https://news.ycombinator.com/item?id=46226483) - [Patterns.dev](https://www.patterns.dev/)
@@ -17,6 +17,7 @@
 * [2025-12-10, 11:10:58](https://news.ycombinator.com/item?id=46216446) - [Common Lisp, ASDF, and Quicklisp: packaging explained](https://cdegroot.com/programming/commonlisp/2025/11/26/cl-ql-asdf.html)
 * [2025-12-10, 00:08:34](https://news.ycombinator.com/item?id=46212438) - [Rubio stages font coup: Times New Roman ousts Calibri](https://www.reuters.com/world/us/rubio-stages-font-coup-times-new-roman-ousts-calibri-2025-12-09/)
 * [2025-12-09, 18:12:29](https://news.ycombinator.com/item?id=46208348) - [Australia begins enforcing world-first teen social media ban](https://www.reuters.com/legal/litigation/australia-social-media-ban-takes-effect-world-first-2025-12-09/)
+* [2025-12-09, 16:10:37](https://news.ycombinator.com/item?id=46206591) - [Show HN: Local Privacy Firewall-blocks PII and secrets before ChatGPT sees them](https://github.com/privacyshield-ai/privacy-firewall)
 * [2025-12-09, 10:20:02](https://news.ycombinator.com/item?id=46203343) - [How Google Maps allocates survival across London's restaurants](https://laurenleek.substack.com/p/how-google-maps-quietly-allocates)
 * [2025-12-08, 14:42:01](https://news.ycombinator.com/item?id=46192748) - [Python Workers redux: fast cold starts, packages, and a uv-first workflow](https://blog.cloudflare.com/python-workers-advancements/)
 * [2025-12-08, 12:46:50](https://news.ycombinator.com/item?id=46191597) - [How the Brain Parses Language](https://www.quantamagazine.org/the-polyglot-neuroscientist-resolving-how-the-brain-parses-language-20251205/)
@@ -26,10 +27,9 @@
 * [2025-12-05, 11:03:37](https://news.ycombinator.com/item?id=46159676) - [Go's escape analysis and why my function return worked](https://bonniesimon.in/blog/go-escape-analysis)
 * [2025-12-04, 18:11:21](https://news.ycombinator.com/item?id=46150797) - [Scientists create ultra fast memory using light](https://www.isi.edu/news/81186/scientists-create-ultra-fast-memory-using-light/)
 * [2025-12-04, 14:25:38](https://news.ycombinator.com/item?id=46147987) - [Booting Linux in QEMU and Writing PID 1 in Go to Illustrate Kernel as Program](https://serversfor.dev/linux-inside-out/the-linux-kernel-is-just-a-program/)
-* [2025-12-03, 21:40:55](https://news.ycombinator.com/item?id=46140554) - [3D-printed carotid artery-on-chips for personalized thrombosis investigation](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202508890)
 * [2025-12-03, 08:08:31](https://news.ycombinator.com/item?id=46131518) - [Helldivers 2 on-disk size 85% reduction](https://store.steampowered.com/news/app/553850/view/491583942944621371)
-* [2025-12-02, 16:55:36](https://news.ycombinator.com/item?id=46123310) - [Gundam is just the same as Jane Austen but happens to include giant mech suits](https://eli.li/gundam-is-just-the-same-as-jane-austen-but-happens-to-include-giant-mech-suits)
 * [2025-12-02, 10:30:46](https://news.ycombinator.com/item?id=46119762) - [Fossils reveal anacondas have been giants for over 12 million years](https://www.cam.ac.uk/stories/twelve-million-years-of-giant-anacondas)
+* [2025-11-29, 13:20:01](https://news.ycombinator.com/item?id=46087339) - [Show HN: oeis-tui – A TUI to search OEIS integer sequences in the terminal](https://github.com/hako/oeis-tui)
 
 ## [Archives](archives/index.md)
 
