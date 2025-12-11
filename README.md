@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-12-11, 13:28:12](https://news.ycombinator.com/item?id=46231107) - [Why No Fish Wants a Tongue-Eating Parasitic Louse in Its Mouth](https://animals.howstuffworks.com/marine-life/parasitic-tongue-eating-louse.htm)
-* [2025-12-11, 12:30:25](https://news.ycombinator.com/item?id=46230576) - [South Korea – A Cautionary Tale for the Rest of Humanity](https://worksinprogress.co/issue/two-is-already-too-many/)
+* [2025-12-11, 13:35:55](https://news.ycombinator.com/item?id=46231187) - [French supermarket's Christmas advert is worldwide hit (without AI) [video]](https://www.youtube.com/watch?v=Na9VmMNJvsA)
+* [2025-12-11, 13:28:12](https://news.ycombinator.com/item?id=46231107) - [Why no fish wants a tongue-eating parasitic louse in its mouth](https://animals.howstuffworks.com/marine-life/parasitic-tongue-eating-louse.htm)
 * [2025-12-11, 11:26:45](https://news.ycombinator.com/item?id=46230072) - [Meta shuts down global accounts linked to abortion advice and queer content](https://www.theguardian.com/global-development/2025/dec/11/meta-shuts-down-global-accounts-linked-to-abortion-advice-and-queer-content)
 * [2025-12-11, 09:51:47](https://news.ycombinator.com/item?id=46229467) - [A “frozen” dictionary for Python](https://lwn.net/SubscriberLink/1047238/25c270b077849dc0/)
 * [2025-12-11, 07:21:33](https://news.ycombinator.com/item?id=46228597) - [The Cost of a Closure in C](https://thephd.dev/the-cost-of-a-closure-in-c-c2y)
