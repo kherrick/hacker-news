@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-12-12](index.md)
 
+* [2025-12-12, 08:32:13](https://news.ycombinator.com/item?id=46242071) - [Show HN: Jottings; Anti-social microblog for your thoughts](https://jottings.me/)
 * [2025-12-12, 08:24:22](https://news.ycombinator.com/item?id=46242016) - [Journalism students expose Russian-linked vessels off the Dutch and German coast](https://www.digitaldigging.org/p/they-droned-back)
 * [2025-12-12, 07:51:04](https://news.ycombinator.com/item?id=46241849) - [Guarding My Git Forge Against AI Scrapers](https://vulpinecitrus.info/blog/guarding-git-forge-ai-scrapers/)
 * [2025-12-12, 07:36:17](https://news.ycombinator.com/item?id=46241767) - [Smartphone Without a Battery (2022)](https://yaky.dev/2022-09-06-smartphone-without-battery/)
