@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-12-12](index.md)
 
+* [2025-12-12, 18:58:43](https://news.ycombinator.com/item?id=46247415) - [Benn Jordan's flock camera jammer will send you to jail in Florida now [video]](https://www.youtube.com/watch?v=qEllWdK4l_A)
 * [2025-12-12, 18:23:21](https://news.ycombinator.com/item?id=46247000) - [Home Depot GitHub token exposed for a year, granted access to internal systems](https://techcrunch.com/2025/12/12/home-depot-exposed-access-to-internal-systems-for-a-year-says-researcher/)
 * [2025-12-12, 18:11:23](https://news.ycombinator.com/item?id=46246845) - [Id Software devs form \"wall-to-wall\" union](https://www.rockpapershotgun.com/id-software-devs-form-wall-to-wall-union-with-165-workers-at-doom-studio-the-latest-to-vote-in-favour)
 * [2025-12-12, 18:07:57](https://news.ycombinator.com/item?id=46246802) - [Google Releases Its New Google Sans Flex Font as Open Source](https://www.omgubuntu.co.uk/2025/11/google-sans-flex-font-ubuntu)
