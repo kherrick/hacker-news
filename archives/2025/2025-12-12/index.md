@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-12-12](index.md)
 
 * [2025-12-12, 10:55:08](https://news.ycombinator.com/item?id=46242907) - [How does a \"you interview for US company, we do the work\" scam work?](https://news.ycombinator.com/item?id=46242907)
+* [2025-12-12, 10:50:22](https://news.ycombinator.com/item?id=46242871) - [After 27 years within budget Austria open 6thlongest railway tunnel in the world](https://infrastruktur.oebb.at/en/projects-for-austria/railway-lines/southern-line-vienna-villach/koralm-railway)
 * [2025-12-12, 09:48:52](https://news.ycombinator.com/item?id=46242513) - [You are dating an ecosystem](https://www.razor.blog/2025/12/you-will-never-be-in-two-person.html)
 * [2025-12-12, 08:32:13](https://news.ycombinator.com/item?id=46242071) - [Show HN: Jottings; Anti-social microblog for your thoughts](https://jottings.me/)
 * [2025-12-12, 08:24:22](https://news.ycombinator.com/item?id=46242016) - [Journalism students expose Russian-linked vessels off the Dutch and German coast](https://www.digitaldigging.org/p/they-droned-back)
