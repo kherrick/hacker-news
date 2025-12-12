@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-12-12, 22:05:04",
+      "https://news.ycombinator.com/item?id=46249566"
+    ],
+    [
+      "Wine 11.0 RC2 – Run Windows Applications on Linux, BSD, Solaris and macOS",
+      "https://gitlab.winehq.org/wine/wine/-/releases/wine-11.0-rc2"
+    ]
+  ],
+  [
+    [
       "2025-12-12, 22:02:14",
       "https://news.ycombinator.com/item?id=46249538"
     ],
@@ -111,16 +121,6 @@
   ],
   [
     [
-      "2025-12-12, 17:32:48",
-      "https://news.ycombinator.com/item?id=46246395"
-    ],
-    [
-      "Nuclear energy key to decarbonising Europe, says EESC",
-      "https://www.eesc.europa.eu/en/news-media/news/nuclear-energy-key-decarbonising-europe-says-eesc"
-    ]
-  ],
-  [
-    [
       "2025-12-12, 16:52:41",
       "https://news.ycombinator.com/item?id=46245923"
     ],
@@ -157,16 +157,6 @@
     [
       "Epic celebrates \"the end of the Apple Tax\" after court win in iOS payments case",
       "https://arstechnica.com/tech-policy/2025/12/epic-celebrates-the-end-of-the-apple-tax-after-appeals-court-win-in-ios-payments-case/"
-    ]
-  ],
-  [
-    [
-      "2025-12-12, 15:58:10",
-      "https://news.ycombinator.com/item?id=46245331"
-    ],
-    [
-      "Framework Raises DDR5 Memory Prices by 50% for DIY Laptops",
-      "https://www.phoronix.com/news/Framework-50p-DDR5-Memory"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "4 billion if statements (2023)",
       "https://andreasjhkarlsson.github.io//jekyll/update/2023/12/27/4-billion-if-statements.html"
+    ]
+  ],
+  [
+    [
+      "2025-12-06, 15:08:09",
+      "https://news.ycombinator.com/item?id=46173882"
+    ],
+    [
+      "Fast Median Filter over arbitrary datatypes",
+      "https://martianlantern.github.io/2025/09/median-filter-over-arbitrary-datatypes/"
     ]
   ]
 ]
