@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-12-12](index.md)
 
+* [2025-12-12, 20:28:41](https://news.ycombinator.com/item?id=46248470) - [Security Issues with Electronic Invoices](https://invoice.secvuln.info/)
+* [2025-12-12, 20:24:04](https://news.ycombinator.com/item?id=46248417) - [New Kindle Feature Uses AI to Answer Questions About Books–Authors Can't Opt Out](https://reactormag.com/new-kindle-feature-ai-answer-questions-books-authors/)
 * [2025-12-12, 19:13:35](https://news.ycombinator.com/item?id=46247605) - [Windows 3.1 'Hot Dog Stand' color scheme true story](https://www.pcgamer.com/software/windows/windows-3-1-included-a-red-and-yellow-hot-dog-stand-color-scheme-so-garish-it-was-long-assumed-to-be-a-joke-so-i-tracked-down-the-original-designer-to-get-the-true-story/)
 * [2025-12-12, 18:58:43](https://news.ycombinator.com/item?id=46247415) - [Benn Jordan's flock camera jammer will send you to jail in Florida now [video]](https://www.youtube.com/watch?v=qEllWdK4l_A)
 * [2025-12-12, 18:23:21](https://news.ycombinator.com/item?id=46247000) - [Home Depot GitHub token exposed for a year, granted access to internal systems](https://techcrunch.com/2025/12/12/home-depot-exposed-access-to-internal-systems-for-a-year-says-researcher/)
