@@ -40,6 +40,7 @@
 * [2025-12-07, 12:23:45](https://news.ycombinator.com/item?id=46181231) - [Google Titans architecture, helping AI have long-term memory](https://research.google/blog/titans-miras-helping-ai-have-long-term-memory/)
 * [2025-12-07, 11:51:02](https://news.ycombinator.com/item?id=46181076) - [Java Hello World, LLVM Edition](https://www.javaadvent.com/2025/12/java-hello-world-llvm-edition.html)
 * [2025-12-07, 09:06:39](https://news.ycombinator.com/item?id=46180291) - [A Struct Sockaddr Sequel](https://lwn.net/Articles/1045453/)
+* [2025-12-07, 04:14:03](https://news.ycombinator.com/item?id=46179103) - [Pdsink: USB Power Delivery Sink library for embedded devices](https://github.com/pdsink/pdsink)
 * [2025-12-07, 04:10:11](https://news.ycombinator.com/item?id=46179085) - [Scientists Link Popular Sugar Substitute (Sorbitol) to Liver Disease](https://scitechdaily.com/scientists-link-popular-sugar-substitute-to-liver-disease/)
 * [2025-12-07, 03:26:01](https://news.ycombinator.com/item?id=46178892) - [Discovering the Indieweb with Calm Tech](https://alexsci.com/blog/calm-tech-discover/)
 * [2025-12-07, 03:03:09](https://news.ycombinator.com/item?id=46178789) - [Z2 – Lithographically fabricated IC in a garage fab](https://sam.zeloof.xyz/second-ic/)
