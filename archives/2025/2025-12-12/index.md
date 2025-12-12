@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-12-12](index.md)
 
+* [2025-12-12, 22:34:13](https://news.ycombinator.com/item?id=46249834) - [Can I use HTTPS RRs?](https://www.netmeister.org/blog/https-caniuse.html)
 * [2025-12-12, 22:05:04](https://news.ycombinator.com/item?id=46249566) - [Wine 11.0 RC2 – Run Windows Applications on Linux, BSD, Solaris and macOS](https://gitlab.winehq.org/wine/wine/-/releases/wine-11.0-rc2)
 * [2025-12-12, 22:02:14](https://news.ycombinator.com/item?id=46249538) - [Show HN: Tiny VM sandbox in C with apps in Rust, C and Zig](https://github.com/ringtailsoftware/uvm32)
 * [2025-12-12, 21:00:54](https://news.ycombinator.com/item?id=46248892) - [Motion (YC W20) Is Hiring Senior Staff Front End Engineers](https://jobs.ashbyhq.com/motion/715d9646-27d4-44f6-9229-61eb0380ae39)
@@ -42,6 +43,7 @@
 * [2025-12-12, 10:55:08](https://news.ycombinator.com/item?id=46242907) - [How does a \"you interview for US company, we do the work\" scam work?](https://news.ycombinator.com/item?id=46242907)
 * [2025-12-12, 10:50:22](https://news.ycombinator.com/item?id=46242871) - [After 27 years within budget Austria open 6thlongest railway tunnel in the world](https://infrastruktur.oebb.at/en/projects-for-austria/railway-lines/southern-line-vienna-villach/koralm-railway)
 * [2025-12-12, 10:37:51](https://news.ycombinator.com/item?id=46242795) - [Training LLMs for Honesty via Confessions](https://arxiv.org/abs/2512.08093)
+* [2025-12-12, 10:23:23](https://news.ycombinator.com/item?id=46242700) - [Building small Docker images faster](https://sgt.hootr.club/blog/docker-protips/)
 * [2025-12-12, 09:48:52](https://news.ycombinator.com/item?id=46242513) - [You are dating an ecosystem](https://www.razor.blog/2025/12/you-will-never-be-in-two-person.html)
 * [2025-12-12, 08:32:13](https://news.ycombinator.com/item?id=46242071) - [Show HN: Jottings; Anti-social microblog for your thoughts](https://jottings.me/)
 * [2025-12-12, 08:24:22](https://news.ycombinator.com/item?id=46242016) - [Journalism students expose Russian-linked vessels off the Dutch and German coast](https://www.digitaldigging.org/p/they-droned-back)
