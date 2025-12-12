@@ -65,6 +65,7 @@
 * [2025-12-08, 11:47:17](https://news.ycombinator.com/item?id=46191194) - [Bad Dye Job](https://daringfireball.net/2025/12/bad_dye_job)
 * [2025-12-08, 11:45:08](https://news.ycombinator.com/item?id=46191179) - [Why I don’t root for the Many Worlds team](https://nautil.us/reality-exists-without-observers-boooo-1252289/)
 * [2025-12-08, 11:37:22](https://news.ycombinator.com/item?id=46191124) - [Show HN: Web app that lets you send email time capsules](https://resurf.me)
+* [2025-12-08, 10:55:56](https://news.ycombinator.com/item?id=46190877) - [How to Articulate Yourself Intelligently](https://letters.thedankoe.com/p/how-to-articulate-yourself-intelligently)
 * [2025-12-08, 10:43:35](https://news.ycombinator.com/item?id=46190796) - [One too many words on AT&T's $2k Korn shell and other Usenet topics](https://blog.gabornyeki.com/2025-12-usenet/)
 * [2025-12-08, 10:39:10](https://news.ycombinator.com/item?id=46190760) - [Contact Sheet Prompting](https://www.willienotwilly.com/contact-sheet-prompting)
 * [2025-12-08, 10:13:07](https://news.ycombinator.com/item?id=46190577) - [12 Days of Shell](https://12days.cmdchallenge.com)

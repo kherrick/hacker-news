@@ -4,7 +4,11 @@
 
 ### [Archives](../../index.md) for [2025-12-12](index.md)
 
+* [2025-12-12, 17:10:16](https://news.ycombinator.com/item?id=46246117) - [Show HN: tomcp.org – Turn any URL into an MCP server](https://github.com/Ami3466/tomcp)
+* [2025-12-12, 17:01:07](https://news.ycombinator.com/item?id=46246031) - [Oracle made a $300B bet on OpenAI. It's paying the price](https://finance.yahoo.com/news/oracle-made-a-300-billion-bet-on-openai-its-paying-the-price-205441863.html)
+* [2025-12-12, 16:59:04](https://news.ycombinator.com/item?id=46246006) - [Japan law opening phone app stores to go into effect dec.18th](https://www3.nhk.or.jp/nhkworld/en/news/20251210_B1/)
 * [2025-12-12, 16:56:31](https://news.ycombinator.com/item?id=46245971) - [Why more American seniors are getting high](https://www.economist.com/graphic-detail/2025/12/11/why-more-american-seniors-are-getting-high)
+* [2025-12-12, 16:52:41](https://news.ycombinator.com/item?id=46245923) - [Async DNS](https://flak.tedunangst.com/post/async-dns)
 * [2025-12-12, 16:43:04](https://news.ycombinator.com/item?id=46245843) - [America's Betting Craze Has Spread to Its News Networks](https://www.newyorker.com/news/the-lede/americas-betting-craze-has-spread-to-its-news-networks)
 * [2025-12-12, 16:37:04](https://news.ycombinator.com/item?id=46245763) - [Senator endorses discredited book that claims chemical treats autism, cancer](https://www.propublica.org/article/ron-johnson-wisconsin-chlorine-dioxide-pierre-kory-endorsement)
 * [2025-12-12, 16:04:16](https://news.ycombinator.com/item?id=46245398) - [Epic celebrates \"the end of the Apple Tax\" after court win in iOS payments case](https://arstechnica.com/tech-policy/2025/12/epic-celebrates-the-end-of-the-apple-tax-after-appeals-court-win-in-ios-payments-case/)
