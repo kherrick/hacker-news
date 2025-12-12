@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-12-12, 22:05:04](https://news.ycombinator.com/item?id=46249566) - [Wine 11.0 RC2 – Run Windows Applications on Linux, BSD, Solaris and macOS](https://gitlab.winehq.org/wine/wine/-/releases/wine-11.0-rc2)
 * [2025-12-12, 22:02:14](https://news.ycombinator.com/item?id=46249538) - [Show HN: Tiny VM sandbox in C with apps in Rust, C and Zig](https://github.com/ringtailsoftware/uvm32)
 * [2025-12-12, 21:00:54](https://news.ycombinator.com/item?id=46248892) - [Motion (YC W20) Is Hiring Senior Staff Front End Engineers](https://jobs.ashbyhq.com/motion/715d9646-27d4-44f6-9229-61eb0380ae39)
 * [2025-12-12, 20:57:34](https://news.ycombinator.com/item?id=46248859) - [GNU Unifont](https://unifoundry.com/unifont/index.html)
@@ -11,12 +12,10 @@
 * [2025-12-12, 19:13:35](https://news.ycombinator.com/item?id=46247605) - [The true story of the Windows 3.1 'Hot Dog Stand' color scheme](https://www.pcgamer.com/software/windows/windows-3-1-included-a-red-and-yellow-hot-dog-stand-color-scheme-so-garish-it-was-long-assumed-to-be-a-joke-so-i-tracked-down-the-original-designer-to-get-the-true-story/)
 * [2025-12-12, 18:23:21](https://news.ycombinator.com/item?id=46247000) - [Home Depot GitHub token exposed for a year, granted access to internal systems](https://techcrunch.com/2025/12/12/home-depot-exposed-access-to-internal-systems-for-a-year-says-researcher/)
 * [2025-12-12, 18:07:57](https://news.ycombinator.com/item?id=46246802) - [Google releases its new Google Sans Flex font as open source](https://www.omgubuntu.co.uk/2025/11/google-sans-flex-font-ubuntu)
-* [2025-12-12, 17:32:48](https://news.ycombinator.com/item?id=46246395) - [Nuclear energy key to decarbonising Europe, says EESC](https://www.eesc.europa.eu/en/news-media/news/nuclear-energy-key-decarbonising-europe-says-eesc)
 * [2025-12-12, 16:52:41](https://news.ycombinator.com/item?id=46245923) - [Async DNS](https://flak.tedunangst.com/post/async-dns)
 * [2025-12-12, 16:32:43](https://news.ycombinator.com/item?id=46245731) - [Secondary school maths showing that AI systems don't think](https://www.raspberrypi.org/blog/secondary-school-maths-showing-that-ai-systems-dont-think/)
 * [2025-12-12, 16:23:10](https://news.ycombinator.com/item?id=46245622) - [String theory inspires a brilliant, baffling new math proof](https://www.quantamagazine.org/string-theory-inspires-a-brilliant-baffling-new-math-proof-20251212/)
 * [2025-12-12, 16:04:16](https://news.ycombinator.com/item?id=46245398) - [Epic celebrates \"the end of the Apple Tax\" after court win in iOS payments case](https://arstechnica.com/tech-policy/2025/12/epic-celebrates-the-end-of-the-apple-tax-after-appeals-court-win-in-ios-payments-case/)
-* [2025-12-12, 15:58:10](https://news.ycombinator.com/item?id=46245331) - [Framework Raises DDR5 Memory Prices by 50% for DIY Laptops](https://www.phoronix.com/news/Framework-50p-DDR5-Memory)
 * [2025-12-12, 15:19:19](https://news.ycombinator.com/item?id=46244922) - [CM0 – A new Raspberry Pi you can't buy](https://www.jeffgeerling.com/blog/2025/cm0-new-raspberry-pi-you-cant-buy)
 * [2025-12-12, 13:25:19](https://news.ycombinator.com/item?id=46243904) - [SQLite JSON at full index speed using generated columns](https://www.dbpro.app/blog/sqlite-json-virtual-columns-indexing)
 * [2025-12-12, 13:23:31](https://news.ycombinator.com/item?id=46243883) - [Fedora: Open-source repository for long-term digital preservation](https://fedorarepository.org/)
@@ -30,6 +29,7 @@
 * [2025-12-08, 07:24:49](https://news.ycombinator.com/item?id=46189395) - [Microservices should form a polytree](https://bytesauna.com/post/microservices)
 * [2025-12-08, 05:43:27](https://news.ycombinator.com/item?id=46188800) - [Funerary figurines found in royal tomb identifies Pharoah](https://www.sciencealert.com/trove-of-225-exceptional-egyptian-figurines-solves-long-standing-mystery)
 * [2025-12-06, 15:34:26](https://news.ycombinator.com/item?id=46174114) - [4 billion if statements (2023)](https://andreasjhkarlsson.github.io//jekyll/update/2023/12/27/4-billion-if-statements.html)
+* [2025-12-06, 15:08:09](https://news.ycombinator.com/item?id=46173882) - [Fast Median Filter over arbitrary datatypes](https://martianlantern.github.io/2025/09/median-filter-over-arbitrary-datatypes/)
 
 ## [Archives](archives/index.md)
 
