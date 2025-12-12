@@ -1,12 +1,32 @@
 [
   [
     [
+      "2025-12-12, 01:41:15",
+      "https://news.ycombinator.com/item?id=46239895"
+    ],
+    [
+      "Cadmium Zinc Telluride: The wonder material powering a medical 'revolution'",
+      "https://www.bbc.com/news/articles/c24l223d9n7o"
+    ]
+  ],
+  [
+    [
       "2025-12-12, 01:05:30",
       "https://news.ycombinator.com/item?id=46239673"
     ],
     [
       "Notes on Gamma",
       "https://poniesandlight.co.uk/reflect/gamma/"
+    ]
+  ],
+  [
+    [
+      "2025-12-12, 00:59:46",
+      "https://news.ycombinator.com/item?id=46239629"
+    ],
+    [
+      "CRISPR Fungus: Protein-Packed, Sustainable, and Tastes Like Meat",
+      "https://www.isaaa.org/kc/cropbiotechupdate/article/default.asp?ID=21607"
     ]
   ],
   [
@@ -25,7 +45,7 @@
       "https://news.ycombinator.com/item?id=46239188"
     ],
     [
-      "The Weird Way the 404 Media Zine Was Built",
+      "Laying out the 404 Media zine",
       "https://tedium.co/2025/12/10/404-media-zine-linux-affinity/?"
     ]
   ],
@@ -97,16 +117,6 @@
     [
       "An SVG is all you need",
       "https://jon.recoil.org/blog/2025/12/an-svg-is-all-you-need.html"
-    ]
-  ],
-  [
-    [
-      "2025-12-11, 18:52:08",
-      "https://news.ycombinator.com/item?id=46235412"
-    ],
-    [
-      "Going Through Snowden Documents, Part 1",
-      "https://libroot.org/posts/going-through-snowden-documents-part-1/"
     ]
   ],
   [
@@ -251,16 +261,6 @@
   ],
   [
     [
-      "2025-12-08, 11:49:40",
-      "https://news.ycombinator.com/item?id=46191207"
-    ],
-    [
-      "Golang optimizations for high‑volume services",
-      "https://packagemain.tech/p/golang-optimizations-for-highvolume"
-    ]
-  ],
-  [
-    [
       "2025-12-07, 04:14:03",
       "https://news.ycombinator.com/item?id=46179103"
     ],
@@ -281,22 +281,22 @@
   ],
   [
     [
+      "2025-12-04, 22:41:21",
+      "https://news.ycombinator.com/item?id=46154190"
+    ],
+    [
+      "Tile IR Specification",
+      "https://docs.nvidia.com/cuda/tile-ir/"
+    ]
+  ],
+  [
+    [
       "2025-12-03, 19:04:09",
       "https://news.ycombinator.com/item?id=46138534"
     ],
     [
       "The Invisible Cost: From Creator to Consumer",
       "https://edwardnoaland.substack.com/p/the-invisible-cost-from-creator-to"
-    ]
-  ],
-  [
-    [
-      "2025-12-02, 21:36:22",
-      "https://news.ycombinator.com/item?id=46127191"
-    ],
-    [
-      "Prove It All Night: With no fame or fortune, what keeps a band onstage? (1999)",
-      "https://chicagoreader.com/news/prove-it-all-night/"
     ]
   ]
 ]
