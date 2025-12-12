@@ -20,6 +20,7 @@
 * [2025-12-03, 19:39:50](https://news.ycombinator.com/item?id=46138984) - [No room for error – A case study of Gleam in production at Uncover](https://gleam.run/case-studies/uncover/)
 * [2025-12-03, 19:37:25](https://news.ycombinator.com/item?id=46138952) - [Everyone in Seattle Hates AI](https://jonready.com/blog/posts/everyone-in-seattle-hates-ai.html)
 * [2025-12-03, 19:12:40](https://news.ycombinator.com/item?id=46138632) - [What Are Lie Groups?](https://www.quantamagazine.org/what-are-lie-groups-20251203/)
+* [2025-12-03, 19:04:09](https://news.ycombinator.com/item?id=46138534) - [The Invisible Cost: From Creator to Consumer](https://edwardnoaland.substack.com/p/the-invisible-cost-from-creator-to)
 * [2025-12-03, 19:00:03](https://news.ycombinator.com/item?id=46138493) - [The only winning move is not to play](https://gregg.io/the-only-winning-move)
 * [2025-12-03, 18:58:36](https://news.ycombinator.com/item?id=46138473) - [What Is Generative UI?](https://tambo.co/blog/posts/what-is-generative-ui)
 * [2025-12-03, 18:57:54](https://news.ycombinator.com/item?id=46138465) - [Teaching an LLM a Niche Diagraming Language](https://www.huy.rocks/everyday/12-01-2025-ai-teaching-an-llm-a-niche-diagraming-language)

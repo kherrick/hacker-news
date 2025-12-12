@@ -21,6 +21,7 @@
 * [2025-12-05, 19:39:01](https://news.ycombinator.com/item?id=46166248) - [US Supreme Court agrees to hear case challenging birthright citizenship](https://www.bbc.com/news/articles/c208j0wrzrvo)
 * [2025-12-05, 19:33:28](https://news.ycombinator.com/item?id=46166178) - [Microsoft Download Center Archive](https://legacyupdate.net/download-center/)
 * [2025-12-05, 19:32:17](https://news.ycombinator.com/item?id=46166161) - [A two-person method to simulate die rolls](https://blog.42yeah.is/algorithm/2023/08/05/two-person-die.html)
+* [2025-12-05, 19:18:53](https://news.ycombinator.com/item?id=46165976) - [My Father's Instant Mashed Potatoes](https://www.astralcodexten.com/p/your-review-my-fathers-instant-mashed)
 * [2025-12-05, 18:51:38](https://news.ycombinator.com/item?id=46165555) - [The Debug Adapter Protocol is a REPL protocol in disguise](https://zignar.net/2025/06/23/debug-adapter-protocol-is-a-repl-protocol/)
 * [2025-12-05, 18:49:07](https://news.ycombinator.com/item?id=46165513) - [SpaceX in Talks for Share Sale That Would Boost Valuation to $800B](https://www.wsj.com/business/spacex-in-talks-for-share-sale-that-would-boost-valuation-to-800-billion-b2852191)
 * [2025-12-05, 18:30:06](https://news.ycombinator.com/item?id=46165251) - [Show HN: SerpApi MCP Server](https://github.com/serpapi/serpapi-mcp)
