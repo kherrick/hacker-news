@@ -5,7 +5,7 @@
       "https://news.ycombinator.com/item?id=46248470"
     ],
     [
-      "Security Issues with Electronic Invoices",
+      "Security issues with electronic invoices",
       "https://invoice.secvuln.info/"
     ]
   ],
@@ -15,7 +15,7 @@
       "https://news.ycombinator.com/item?id=46248417"
     ],
     [
-      "New Kindle Feature Uses AI to Answer Questions About Books–Authors Can't Opt Out",
+      "New Kindle feature uses AI to answer questions about books",
       "https://reactormag.com/new-kindle-feature-ai-answer-questions-books-authors/"
     ]
   ],
@@ -65,7 +65,7 @@
       "https://news.ycombinator.com/item?id=46246802"
     ],
     [
-      "Google Releases Its New Google Sans Flex Font as Open Source",
+      "Google releases its new Google Sans Flex font as open source",
       "https://www.omgubuntu.co.uk/2025/11/google-sans-flex-font-ubuntu"
     ]
   ],
@@ -135,7 +135,7 @@
       "https://news.ycombinator.com/item?id=46244922"
     ],
     [
-      "CM0 – a new Raspberry Pi you can't buy",
+      "CM0 – A new Raspberry Pi you can't buy",
       "https://www.jeffgeerling.com/blog/2025/cm0-new-raspberry-pi-you-cant-buy"
     ]
   ],
@@ -155,7 +155,7 @@
       "https://news.ycombinator.com/item?id=46243904"
     ],
     [
-      "SQLite JSON at Full Index Speed Using Generated Columns",
+      "SQLite JSON at full index speed using generated columns",
       "https://www.dbpro.app/blog/sqlite-json-virtual-columns-indexing"
     ]
   ],
@@ -167,16 +167,6 @@
     [
       "Fedora: Open-source repository for long-term digital preservation",
       "https://fedorarepository.org/"
-    ]
-  ],
-  [
-    [
-      "2025-12-12, 12:35:57",
-      "https://news.ycombinator.com/item?id=46243543"
-    ],
-    [
-      "The Tor Project is switching to Rust",
-      "https://itsfoss.com/news/tor-rust-rewrite-progress/"
     ]
   ],
   [
@@ -237,6 +227,16 @@
     [
       "Show HN: Tripwire: A new anti evil maid defense",
       "https://github.com/fr33-sh/Tripwire"
+    ]
+  ],
+  [
+    [
+      "2025-12-10, 17:14:39",
+      "https://news.ycombinator.com/item?id=46220411"
+    ],
+    [
+      "Pg_ClickHouse: A Postgres extension for querying ClickHouse",
+      "https://clickhouse.com/blog/introducing-pg_clickhouse"
     ]
   ],
   [
