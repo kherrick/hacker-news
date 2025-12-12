@@ -35,6 +35,7 @@
 * [2025-12-06, 16:55:13](https://news.ycombinator.com/item?id=46174744) - [Ireland's Inability to Defend Itself](https://www.irishpoliticsnewsletter.ie/p/ireland-neutrality)
 * [2025-12-06, 16:27:35](https://news.ycombinator.com/item?id=46174534) - [VCMI: An open-source engine for Heroes III](https://vcmi.eu/)
 * [2025-12-06, 15:52:04](https://news.ycombinator.com/item?id=46174242) - [Skin-Shedding Code (2024)](https://registerspill.thorstenball.com/p/skin-shedding-code)
+* [2025-12-06, 15:34:26](https://news.ycombinator.com/item?id=46174114) - [4B If Statements](https://andreasjhkarlsson.github.io//jekyll/update/2023/12/27/4-billion-if-statements.html)
 * [2025-12-06, 15:03:54](https://news.ycombinator.com/item?id=46173848) - [Dependent Names with a Little Encouragement](https://consteval.ca/2025/09/27/dependent-names/)
 * [2025-12-06, 14:59:52](https://news.ycombinator.com/item?id=46173825) - [HTML as an Accessible Format for Papers](https://info.arxiv.org/about/accessible_HTML.html)
 * [2025-12-06, 14:55:03](https://news.ycombinator.com/item?id=46173785) - [Carlo is no longer maintained](https://github.com/GoogleChromeLabs/carlo)

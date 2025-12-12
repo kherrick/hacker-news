@@ -11,7 +11,6 @@
 * [2025-12-12, 00:28:24](https://news.ycombinator.com/item?id=46239372) - [Stoolap: High-performance embedded SQL database in pure Rust](https://github.com/stoolap/stoolap)
 * [2025-12-12, 00:05:36](https://news.ycombinator.com/item?id=46239188) - [Laying out the 404 Media zine](https://tedium.co/2025/12/10/404-media-zine-linux-affinity/?)
 * [2025-12-12, 00:04:29](https://news.ycombinator.com/item?id=46239177) - [Nokia N900 Necromancy](https://yaky.dev/2025-12-11-nokia-n900-necromancy/)
-* [2025-12-11, 21:00:10](https://news.ycombinator.com/item?id=46237081) - [Almond (YC X25) Is Hiring SWEs and MechEs](https://www.ycombinator.com/companies/almond-2/jobs)
 * [2025-12-11, 20:46:46](https://news.ycombinator.com/item?id=46236924) - [Denial of service and source code exposure in React Server Components](https://react.dev/blog/2025/12/11/denial-of-service-and-source-code-exposure-in-react-server-components)
 * [2025-12-11, 19:25:14](https://news.ycombinator.com/item?id=46235959) - [An SVG is all you need](https://jon.recoil.org/blog/2025/12/an-svg-is-all-you-need.html)
 * [2025-12-11, 18:17:19](https://news.ycombinator.com/item?id=46234920) - [Rivian Unveils Custom Silicon, R2 Lidar Roadmap, and Universal Hands Free](https://riviantrackr.com/news/rivian-unveils-custom-silicon-r2-lidar-roadmap-universal-hands-free-and-its-next-gen-autonomy-platform/)
@@ -30,6 +29,7 @@
 * [2025-12-08, 09:37:02](https://news.ycombinator.com/item?id=46190288) - [Spirograph style Lego drawing machine](https://jkbrickworks.com/simple-drawing-machine/)
 * [2025-12-07, 16:26:45](https://news.ycombinator.com/item?id=46182874) - [He set out to walk around the world. After 27 years, his quest is nearly over](https://www.washingtonpost.com/lifestyle/2025/12/05/karl-bushby-walk-around-world/)
 * [2025-12-07, 04:14:03](https://news.ycombinator.com/item?id=46179103) - [Pdsink: USB Power Delivery Sink library for embedded devices](https://github.com/pdsink/pdsink)
+* [2025-12-06, 15:34:26](https://news.ycombinator.com/item?id=46174114) - [4B If Statements](https://andreasjhkarlsson.github.io//jekyll/update/2023/12/27/4-billion-if-statements.html)
 
 ## [Archives](archives/index.md)
 
