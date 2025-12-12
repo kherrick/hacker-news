@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-12-12, 00:04:29",
+      "https://news.ycombinator.com/item?id=46239177"
+    ],
+    [
+      "Nokia N900 Necromancy – giving a new life to a classic Linux smartphone",
+      "https://yaky.dev/2025-12-11-nokia-n900-necromancy/"
+    ]
+  ],
+  [
+    [
       "2025-12-11, 21:35:52",
       "https://news.ycombinator.com/item?id=46237501"
     ],
@@ -141,16 +151,6 @@
   ],
   [
     [
-      "2025-12-11, 15:52:30",
-      "https://news.ycombinator.com/item?id=46232898"
-    ],
-    [
-      "Deprecate like you mean it",
-      "https://entropicthoughts.com/deprecate-like-you-mean-it"
-    ]
-  ],
-  [
-    [
       "2025-12-11, 15:25:43",
       "https://news.ycombinator.com/item?id=46232528"
     ],
@@ -261,22 +261,22 @@
   ],
   [
     [
-      "2025-12-08, 10:39:10",
-      "https://news.ycombinator.com/item?id=46190760"
-    ],
-    [
-      "Contact Sheet Prompting",
-      "https://www.willienotwilly.com/contact-sheet-prompting"
-    ]
-  ],
-  [
-    [
       "2025-12-08, 08:29:47",
       "https://news.ycombinator.com/item?id=46189792"
     ],
     [
       "You gotta push if you wanna pull",
       "https://www.morling.dev/blog/you-gotta-push-if-you-wanna-pull/"
+    ]
+  ],
+  [
+    [
+      "2025-12-07, 04:14:03",
+      "https://news.ycombinator.com/item?id=46179103"
+    ],
+    [
+      "Pdsink: USB Power Delivery Sink library for embedded devices",
+      "https://github.com/pdsink/pdsink"
     ]
   ],
   [
