@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-12-12, 21:00:54](https://news.ycombinator.com/item?id=46248892) - [Motion (YC W20) Is Hiring Senior Staff Front End Engineers](https://jobs.ashbyhq.com/motion/715d9646-27d4-44f6-9229-61eb0380ae39)
 * [2025-12-12, 20:57:34](https://news.ycombinator.com/item?id=46248859) - [GNU Unifont](https://unifoundry.com/unifont/index.html)
 * [2025-12-12, 20:41:38](https://news.ycombinator.com/item?id=46248644) - [macOS 26.2 enables fast AI clusters with RDMA over Thunderbolt](https://developer.apple.com/documentation/macos-release-notes/macos-26_2-release-notes#RDMA-over-Thunderbolt)
 * [2025-12-12, 20:28:41](https://news.ycombinator.com/item?id=46248470) - [Security issues with electronic invoices](https://invoice.secvuln.info/)
@@ -22,6 +21,7 @@
 * [2025-12-12, 13:25:19](https://news.ycombinator.com/item?id=46243904) - [SQLite JSON at full index speed using generated columns](https://www.dbpro.app/blog/sqlite-json-virtual-columns-indexing)
 * [2025-12-12, 13:23:31](https://news.ycombinator.com/item?id=46243883) - [Fedora: Open-source repository for long-term digital preservation](https://fedorarepository.org/)
 * [2025-12-12, 07:35:49](https://news.ycombinator.com/item?id=46241763) - [The tiniest yet real telescope I've built](https://lucassifoni.info/blog/miniscope-tiny-telescope/)
+* [2025-12-11, 23:56:10](https://news.ycombinator.com/item?id=46239076) - [Ensuring a National Policy Framework for Artificial Intelligence](https://www.whitehouse.gov/presidential-actions/2025/12/eliminating-state-law-obstruction-of-national-artificial-intelligence-policy/)
 * [2025-12-11, 14:45:49](https://news.ycombinator.com/item?id=46232003) - [From text to token: How tokenization pipelines work](https://www.paradedb.com/blog/when-tokenization-becomes-token)
 * [2025-12-10, 17:14:39](https://news.ycombinator.com/item?id=46220411) - [Pg_ClickHouse: A Postgres extension for querying ClickHouse](https://clickhouse.com/blog/introducing-pg_clickhouse)
 * [2025-12-09, 02:25:28](https://news.ycombinator.com/item?id=46200562) - [Open sourcing the Remix Store](https://remix.run/blog/oss-remix-store)
