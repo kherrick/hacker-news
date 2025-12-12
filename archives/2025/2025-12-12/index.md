@@ -6,6 +6,7 @@
 
 * [2025-12-12, 13:25:19](https://news.ycombinator.com/item?id=46243904) - [SQLite JSON at Full Index Speed Using Generated Columns](https://www.dbpro.app/blog/sqlite-json-virtual-columns-indexing)
 * [2025-12-12, 13:23:31](https://news.ycombinator.com/item?id=46243883) - [Fedora: Open-source repository for long-term digital preservation](https://fedorarepository.org/)
+* [2025-12-12, 13:17:51](https://news.ycombinator.com/item?id=46243848) - [Why Isn't Online Age Verification Just Like Showing Your ID in Person?](https://www.eff.org/deeplinks/2025/12/why-isnt-online-age-verification-just-showing-your-id-person)
 * [2025-12-12, 12:51:58](https://news.ycombinator.com/item?id=46243658) - [Show HN: Epstein's emails reconstructed in a message-style UI (OCR and LLMs)](https://github.com/Toon-nooT/epsteins-phone-reconstructed)
 * [2025-12-12, 12:51:40](https://news.ycombinator.com/item?id=46243655) - [How to break free from smart TV ads and tracking](https://arstechnica.com/gadgets/2025/12/the-ars-technica-guide-to-dumb-tvs/)
 * [2025-12-12, 12:35:57](https://news.ycombinator.com/item?id=46243543) - [The Tor Project Is Making a Switch to Rust, Ditches C](https://itsfoss.com/news/tor-rust-rewrite-progress/)
