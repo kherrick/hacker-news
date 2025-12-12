@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-12-12, 14:20:20](https://news.ycombinator.com/item?id=46244378) - [BpfJailer: eBPF Mandatory Access Control [pdf]](https://lpc.events/event/19/contributions/2159/attachments/1833/3929/BpfJailer%20LPC%202025.pdf)
 * [2025-12-12, 13:25:19](https://news.ycombinator.com/item?id=46243904) - [SQLite JSON at Full Index Speed Using Generated Columns](https://www.dbpro.app/blog/sqlite-json-virtual-columns-indexing)
 * [2025-12-12, 13:23:31](https://news.ycombinator.com/item?id=46243883) - [Fedora: Open-source repository for long-term digital preservation](https://fedorarepository.org/)
 * [2025-12-12, 13:17:51](https://news.ycombinator.com/item?id=46243848) - [Why Isn't Online Age Verification Just Like Showing Your ID in Person?](https://www.eff.org/deeplinks/2025/12/why-isnt-online-age-verification-just-showing-your-id-person)
@@ -18,7 +19,6 @@
 * [2025-12-11, 18:17:19](https://news.ycombinator.com/item?id=46234920) - [Rivian Unveils Custom Silicon, R2 Lidar Roadmap, and Universal Hands Free](https://riviantrackr.com/news/rivian-unveils-custom-silicon-r2-lidar-roadmap-universal-hands-free-and-its-next-gen-autonomy-platform/)
 * [2025-12-11, 18:06:42](https://news.ycombinator.com/item?id=46234806) - [Programmers and software developers lost the plot on naming their tools](https://larr.net/p/namings.html)
 * [2025-12-11, 18:04:47](https://news.ycombinator.com/item?id=46234788) - [GPT-5.2](https://openai.com/index/introducing-gpt-5-2/)
-* [2025-12-11, 17:59:10](https://news.ycombinator.com/item?id=46234710) - [Litestream VFS](https://fly.io/blog/litestream-vfs/)
 * [2025-12-11, 14:45:49](https://news.ycombinator.com/item?id=46232003) - [From text to token: How tokenization pipelines work](https://www.paradedb.com/blog/when-tokenization-becomes-token)
 * [2025-12-11, 09:46:56](https://news.ycombinator.com/item?id=46229437) - [Show HN: Tripwire: A new anti evil maid defense](https://github.com/fr33-sh/Tripwire)
 * [2025-12-10, 17:23:53](https://news.ycombinator.com/item?id=46220540) - [Auto-grading decade-old Hacker News discussions with hindsight](https://karpathy.bearblog.dev/auto-grade-hn/)
