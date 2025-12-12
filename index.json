@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-12-12, 22:34:13",
+      "https://news.ycombinator.com/item?id=46249834"
+    ],
+    [
+      "Can I use HTTPS RRs?",
+      "https://www.netmeister.org/blog/https-caniuse.html"
+    ]
+  ],
+  [
+    [
       "2025-12-12, 22:05:04",
       "https://news.ycombinator.com/item?id=46249566"
     ],
@@ -75,7 +85,7 @@
       "https://news.ycombinator.com/item?id=46248323"
     ],
     [
-      "Rats Play Doom",
+      "Rats Play DOOM",
       "https://ratsplaydoom.com/"
     ]
   ],
@@ -125,7 +135,7 @@
       "https://news.ycombinator.com/item?id=46245731"
     ],
     [
-      "Secondary school maths showing that AI systems don't think",
+      "Using secondary school maths to demystify AI",
       "https://www.raspberrypi.org/blog/secondary-school-maths-showing-that-ai-systems-dont-think/"
     ]
   ],
@@ -191,22 +201,22 @@
   ],
   [
     [
+      "2025-12-12, 10:23:23",
+      "https://news.ycombinator.com/item?id=46242700"
+    ],
+    [
+      "Building small Docker images faster",
+      "https://sgt.hootr.club/blog/docker-protips/"
+    ]
+  ],
+  [
+    [
       "2025-12-12, 07:35:49",
       "https://news.ycombinator.com/item?id=46241763"
     ],
     [
       "The tiniest yet real telescope I've built",
       "https://lucassifoni.info/blog/miniscope-tiny-telescope/"
-    ]
-  ],
-  [
-    [
-      "2025-12-11, 23:56:10",
-      "https://news.ycombinator.com/item?id=46239076"
-    ],
-    [
-      "Ensuring a National Policy Framework for Artificial Intelligence",
-      "https://www.whitehouse.gov/presidential-actions/2025/12/eliminating-state-law-obstruction-of-national-artificial-intelligence-policy/"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "Open sourcing the Remix Store",
       "https://remix.run/blog/oss-remix-store"
-    ]
-  ],
-  [
-    [
-      "2025-12-08, 13:20:19",
-      "https://news.ycombinator.com/item?id=46191890"
-    ],
-    [
-      "Bit flips: How cosmic rays grounded a fleet of aircraft",
-      "https://www.bbc.com/future/article/20251201-how-cosmic-rays-grounded-thousands-of-aircraft"
     ]
   ],
   [
