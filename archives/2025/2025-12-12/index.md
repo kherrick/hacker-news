@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-12-12](index.md)
 
+* [2025-12-12, 07:51:04](https://news.ycombinator.com/item?id=46241849) - [Guarding My Git Forge Against AI Scrapers](https://vulpinecitrus.info/blog/guarding-git-forge-ai-scrapers/)
 * [2025-12-12, 07:35:49](https://news.ycombinator.com/item?id=46241763) - [The tiniest yet real telescope I've built](https://lucassifoni.info/blog/miniscope-tiny-telescope/)
 * [2025-12-12, 04:55:42](https://news.ycombinator.com/item?id=46240998) - [Show HN: I got my site down to 237kb by ditching Google Analytics](https://deadstack.net/)
 * [2025-12-12, 01:41:15](https://news.ycombinator.com/item?id=46239895) - [Cadmium Zinc Telluride: The wonder material powering a medical 'revolution'](https://www.bbc.com/news/articles/c24l223d9n7o)
