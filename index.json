@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-12-12, 23:30:19",
+      "https://news.ycombinator.com/item?id=46250332"
+    ],
+    [
+      "OpenAI are quietly adopting skills, now available in ChatGPT and Codex CLI",
+      "https://simonwillison.net/2025/Dec/12/openai-skills/"
+    ]
+  ],
+  [
+    [
+      "2025-12-12, 23:26:26",
+      "https://news.ycombinator.com/item?id=46250309"
+    ],
+    [
+      "50 years of proof assistants",
+      "https://lawrencecpaulson.github.io//2025/12/05/History_of_Proof_Assistants.html"
+    ]
+  ],
+  [
+    [
       "2025-12-12, 22:34:13",
       "https://news.ycombinator.com/item?id=46249834"
     ],
@@ -131,16 +151,6 @@
   ],
   [
     [
-      "2025-12-12, 16:04:16",
-      "https://news.ycombinator.com/item?id=46245398"
-    ],
-    [
-      "Epic celebrates \"the end of the Apple Tax\" after court win in iOS payments case",
-      "https://arstechnica.com/tech-policy/2025/12/epic-celebrates-the-end-of-the-apple-tax-after-appeals-court-win-in-ios-payments-case/"
-    ]
-  ],
-  [
-    [
       "2025-12-12, 15:46:44",
       "https://news.ycombinator.com/item?id=46245211"
     ],
@@ -167,16 +177,6 @@
     [
       "SQLite JSON at full index speed using generated columns",
       "https://www.dbpro.app/blog/sqlite-json-virtual-columns-indexing"
-    ]
-  ],
-  [
-    [
-      "2025-12-12, 13:23:31",
-      "https://news.ycombinator.com/item?id=46243883"
-    ],
-    [
-      "Fedora: Open-source repository for long-term digital preservation",
-      "https://fedorarepository.org/"
     ]
   ],
   [
