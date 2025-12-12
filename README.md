@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-12-12, 19:13:35](https://news.ycombinator.com/item?id=46247605) - [Windows 3.1 'Hot Dog Stand' color scheme true story](https://www.pcgamer.com/software/windows/windows-3-1-included-a-red-and-yellow-hot-dog-stand-color-scheme-so-garish-it-was-long-assumed-to-be-a-joke-so-i-tracked-down-the-original-designer-to-get-the-true-story/)
 * [2025-12-12, 18:58:43](https://news.ycombinator.com/item?id=46247415) - [Benn Jordan's flock camera jammer will send you to jail in Florida now [video]](https://www.youtube.com/watch?v=qEllWdK4l_A)
 * [2025-12-12, 18:23:21](https://news.ycombinator.com/item?id=46247000) - [Home Depot GitHub token exposed for a year, granted access to internal systems](https://techcrunch.com/2025/12/12/home-depot-exposed-access-to-internal-systems-for-a-year-says-researcher/)
 * [2025-12-12, 18:11:23](https://news.ycombinator.com/item?id=46246845) - [Id Software devs form \"wall-to-wall\" union](https://www.rockpapershotgun.com/id-software-devs-form-wall-to-wall-union-with-165-workers-at-doom-studio-the-latest-to-vote-in-favour)
@@ -11,7 +12,6 @@
 * [2025-12-12, 16:23:10](https://news.ycombinator.com/item?id=46245622) - [String Theory Inspires a Brilliant, Baffling New Math Proof](https://www.quantamagazine.org/string-theory-inspires-a-brilliant-baffling-new-math-proof-20251212/)
 * [2025-12-12, 16:04:16](https://news.ycombinator.com/item?id=46245398) - [Epic celebrates \"the end of the Apple Tax\" after court win in iOS payments case](https://arstechnica.com/tech-policy/2025/12/epic-celebrates-the-end-of-the-apple-tax-after-appeals-court-win-in-ios-payments-case/)
 * [2025-12-12, 15:58:10](https://news.ycombinator.com/item?id=46245331) - [Framework Raises DDR5 Memory Prices by 50% for DIY Laptops](https://www.phoronix.com/news/Framework-50p-DDR5-Memory)
-* [2025-12-12, 15:29:46](https://news.ycombinator.com/item?id=46245041) - [Berlin Approves New Expansion of Police Surveillance Powers](https://reclaimthenet.org/berlin-approves-new-expansion-of-police-surveillance-powers)
 * [2025-12-12, 15:19:19](https://news.ycombinator.com/item?id=46244922) - [CM0 – a new Raspberry Pi you can't buy](https://www.jeffgeerling.com/blog/2025/cm0-new-raspberry-pi-you-cant-buy)
 * [2025-12-12, 14:20:20](https://news.ycombinator.com/item?id=46244378) - [BpfJailer: eBPF Mandatory Access Control [pdf]](https://lpc.events/event/19/contributions/2159/attachments/1833/3929/BpfJailer%20LPC%202025.pdf)
 * [2025-12-12, 13:25:19](https://news.ycombinator.com/item?id=46243904) - [SQLite JSON at Full Index Speed Using Generated Columns](https://www.dbpro.app/blog/sqlite-json-virtual-columns-indexing)
