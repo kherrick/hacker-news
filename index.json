@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-12-12, 10:55:08",
+      "https://news.ycombinator.com/item?id=46242907"
+    ],
+    [
+      "How does a \"you interview for US company, we do the work\" scam work?",
+      "https://news.ycombinator.com/item?id=46242907"
+    ]
+  ],
+  [
+    [
       "2025-12-12, 09:48:52",
       "https://news.ycombinator.com/item?id=46242513"
     ],
@@ -97,16 +107,6 @@
     [
       "Nokia N900 Necromancy",
       "https://yaky.dev/2025-12-11-nokia-n900-necromancy/"
-    ]
-  ],
-  [
-    [
-      "2025-12-11, 21:00:10",
-      "https://news.ycombinator.com/item?id=46237081"
-    ],
-    [
-      "Almond (YC X25) Is Hiring SWEs and MechEs",
-      "https://www.ycombinator.com/companies/almond-2/jobs"
     ]
   ],
   [
@@ -221,16 +221,6 @@
   ],
   [
     [
-      "2025-12-10, 20:35:07",
-      "https://news.ycombinator.com/item?id=46223389"
-    ],
-    [
-      "EFF launches Age Verification Hub",
-      "https://www.eff.org/press/releases/eff-launches-age-verification-hub-resource-against-misguided-laws"
-    ]
-  ],
-  [
-    [
       "2025-12-10, 17:23:53",
       "https://news.ycombinator.com/item?id=46220540"
     ],
@@ -297,6 +287,16 @@
     [
       "4B If Statements",
       "https://andreasjhkarlsson.github.io//jekyll/update/2023/12/27/4-billion-if-statements.html"
+    ]
+  ],
+  [
+    [
+      "2025-12-06, 11:17:58",
+      "https://news.ycombinator.com/item?id=46172439"
+    ],
+    [
+      "Octo: A Chip8 IDE",
+      "https://github.com/JohnEarnest/Octo"
     ]
   ]
 ]
