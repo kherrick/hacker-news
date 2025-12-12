@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-12-12, 08:32:13](https://news.ycombinator.com/item?id=46242071) - [Show HN: Jottings; Anti-social microblog for your thoughts](https://jottings.me/)
-* [2025-12-12, 08:24:22](https://news.ycombinator.com/item?id=46242016) - [Journalism students expose Russian-linked vessels off the Dutch and German coast](https://www.digitaldigging.org/p/they-droned-back)
+* [2025-12-12, 09:48:52](https://news.ycombinator.com/item?id=46242513) - [You are dating an ecosystem](https://www.razor.blog/2025/12/you-will-never-be-in-two-person.html)
 * [2025-12-12, 07:51:04](https://news.ycombinator.com/item?id=46241849) - [Guarding My Git Forge Against AI Scrapers](https://vulpinecitrus.info/blog/guarding-git-forge-ai-scrapers/)
 * [2025-12-12, 07:36:17](https://news.ycombinator.com/item?id=46241767) - [Smartphone Without a Battery (2022)](https://yaky.dev/2022-09-06-smartphone-without-battery/)
 * [2025-12-12, 07:35:49](https://news.ycombinator.com/item?id=46241763) - [The tiniest yet real telescope I've built](https://lucassifoni.info/blog/miniscope-tiny-telescope/)
@@ -23,6 +22,7 @@
 * [2025-12-11, 14:05:16](https://news.ycombinator.com/item?id=46231493) - [The Walt Disney Company and OpenAI Partner on Sora](https://openai.com/index/disney-sora-agreement/)
 * [2025-12-11, 13:45:08](https://news.ycombinator.com/item?id=46231274) - [Craft software that makes people feel something](https://rapha.land/craft-software-that-makes-people-feel-something/)
 * [2025-12-11, 13:35:55](https://news.ycombinator.com/item?id=46231187) - [French supermarket's Christmas advert is worldwide hit (without AI) [video]](https://www.youtube.com/watch?v=Na9VmMNJvsA)
+* [2025-12-10, 20:35:07](https://news.ycombinator.com/item?id=46223389) - [EFF launches Age Verification Hub](https://www.eff.org/press/releases/eff-launches-age-verification-hub-resource-against-misguided-laws)
 * [2025-12-10, 17:23:53](https://news.ycombinator.com/item?id=46220540) - [Auto-grading decade-old Hacker News discussions with hindsight](https://karpathy.bearblog.dev/auto-grade-hn/)
 * [2025-12-08, 21:33:09](https://news.ycombinator.com/item?id=46197930) - [The highest quality codebase](https://gricha.dev/blog/the-highest-quality-codebase)
 * [2025-12-08, 09:42:04](https://news.ycombinator.com/item?id=46190324) - [Einstein: NewtonOS running on other operating systems](https://github.com/pguyot/Einstein)
