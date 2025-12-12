@@ -41,6 +41,7 @@
 * [2025-12-07, 12:25:04](https://news.ycombinator.com/item?id=46181237) - [How the Disappearance of Flight 19 Fueled the Legend of the Bermuda Triangle](https://www.smithsonianmag.com/history/how-the-disappearance-of-flight-19-a-navy-squadron-lost-in-1945-fueled-the-legend-of-the-bermuda-triangle-180987759/)
 * [2025-12-07, 12:23:45](https://news.ycombinator.com/item?id=46181231) - [Google Titans architecture, helping AI have long-term memory](https://research.google/blog/titans-miras-helping-ai-have-long-term-memory/)
 * [2025-12-07, 11:51:02](https://news.ycombinator.com/item?id=46181076) - [Java Hello World, LLVM Edition](https://www.javaadvent.com/2025/12/java-hello-world-llvm-edition.html)
+* [2025-12-07, 11:01:07](https://news.ycombinator.com/item?id=46180844) - [C64 Maze Chomp.BAS](https://basic-code.bearblog.dev/c64-maze-chompbas/)
 * [2025-12-07, 09:06:39](https://news.ycombinator.com/item?id=46180291) - [A Struct Sockaddr Sequel](https://lwn.net/Articles/1045453/)
 * [2025-12-07, 04:14:03](https://news.ycombinator.com/item?id=46179103) - [Pdsink: USB Power Delivery Sink library for embedded devices](https://github.com/pdsink/pdsink)
 * [2025-12-07, 04:10:11](https://news.ycombinator.com/item?id=46179085) - [Scientists Link Popular Sugar Substitute (Sorbitol) to Liver Disease](https://scitechdaily.com/scientists-link-popular-sugar-substitute-to-liver-disease/)
