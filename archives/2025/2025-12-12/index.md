@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-12-12](index.md)
 
+* [2025-12-12, 16:43:04](https://news.ycombinator.com/item?id=46245843) - [America's Betting Craze Has Spread to Its News Networks](https://www.newyorker.com/news/the-lede/americas-betting-craze-has-spread-to-its-news-networks)
+* [2025-12-12, 16:37:04](https://news.ycombinator.com/item?id=46245763) - [Senator endorses discredited book that claims chemical treats autism, cancer](https://www.propublica.org/article/ron-johnson-wisconsin-chlorine-dioxide-pierre-kory-endorsement)
 * [2025-12-12, 16:04:16](https://news.ycombinator.com/item?id=46245398) - [Epic celebrates \"the end of the Apple Tax\" after court win in iOS payments case](https://arstechnica.com/tech-policy/2025/12/epic-celebrates-the-end-of-the-apple-tax-after-appeals-court-win-in-ios-payments-case/)
 * [2025-12-12, 15:58:10](https://news.ycombinator.com/item?id=46245331) - [Framework Raises DDR5 Memory Prices by 50% for DIY Laptops](https://www.phoronix.com/news/Framework-50p-DDR5-Memory)
 * [2025-12-12, 15:29:46](https://news.ycombinator.com/item?id=46245041) - [Berlin Approves New Expansion of Police Surveillance Powers](https://reclaimthenet.org/berlin-approves-new-expansion-of-police-surveillance-powers)
