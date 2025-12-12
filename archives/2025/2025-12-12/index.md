@@ -8,6 +8,7 @@
 * [2025-12-12, 18:23:21](https://news.ycombinator.com/item?id=46247000) - [Home Depot GitHub token exposed for a year, granted access to internal systems](https://techcrunch.com/2025/12/12/home-depot-exposed-access-to-internal-systems-for-a-year-says-researcher/)
 * [2025-12-12, 18:11:23](https://news.ycombinator.com/item?id=46246845) - [Id Software devs form \"wall-to-wall\" union](https://www.rockpapershotgun.com/id-software-devs-form-wall-to-wall-union-with-165-workers-at-doom-studio-the-latest-to-vote-in-favour)
 * [2025-12-12, 18:07:57](https://news.ycombinator.com/item?id=46246802) - [Google Releases Its New Google Sans Flex Font as Open Source](https://www.omgubuntu.co.uk/2025/11/google-sans-flex-font-ubuntu)
+* [2025-12-12, 17:32:48](https://news.ycombinator.com/item?id=46246395) - [Nuclear energy key to decarbonising Europe, says EESC](https://www.eesc.europa.eu/en/news-media/news/nuclear-energy-key-decarbonising-europe-says-eesc)
 * [2025-12-12, 17:10:16](https://news.ycombinator.com/item?id=46246117) - [Show HN: tomcp.org – Turn any URL into an MCP server](https://github.com/Ami3466/tomcp)
 * [2025-12-12, 17:01:07](https://news.ycombinator.com/item?id=46246031) - [Oracle made a $300B bet on OpenAI. It's paying the price](https://finance.yahoo.com/news/oracle-made-a-300-billion-bet-on-openai-its-paying-the-price-205441863.html)
 * [2025-12-12, 16:59:04](https://news.ycombinator.com/item?id=46246006) - [Japan law opening phone app stores to go into effect dec.18th](https://www3.nhk.or.jp/nhkworld/en/news/20251210_B1/)

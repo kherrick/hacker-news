@@ -61,6 +61,7 @@
 * [2025-12-09, 07:01:38](https://news.ycombinator.com/item?id=46202058) - [A thousand-year-long composition turns 25 (2024)](https://longplayer.org/news/2024/12/31/a-thousand-year-long-composition-turns-25/)
 * [2025-12-09, 06:01:57](https://news.ycombinator.com/item?id=46201750) - [The closer we look at time, the stranger it gets](https://www.sciencefocus.com/science/the-closer-we-look-at-time-the-stranger-it-gets)
 * [2025-12-09, 04:57:53](https://news.ycombinator.com/item?id=46201381) - [Modern Cassette Walkmans](https://walkman.land/modern)
+* [2025-12-09, 02:25:28](https://news.ycombinator.com/item?id=46200562) - [Open Sourcing the Remix Store](https://remix.run/blog/oss-remix-store)
 * [2025-12-09, 02:00:13](https://news.ycombinator.com/item?id=46200420) - [The power of proximity to coworkers [pdf]](https://pallais.scholars.harvard.edu/sites/g/files/omnuum5926/files/2025-11/Power%20of%20Proximity%20to%20Coworkers%20November%202025.pdf)
 * [2025-12-09, 00:51:31](https://news.ycombinator.com/item?id=46199950) - [The Lost Machine Automats and Self-Service Cafeterias of NYC (2023)](https://www.untappedcities.com/automats-cafeterias-nyc/)
 * [2025-12-09, 00:50:32](https://news.ycombinator.com/item?id=46199935) - [Scientific and Technical Amateur Radio](https://destevez.net/)
