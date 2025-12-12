@@ -2,9 +2,11 @@
 
 * [2025-12-12, 21:00:54](https://news.ycombinator.com/item?id=46248892) - [Motion (YC W20) Is Hiring Senior Staff Front End Engineers](https://jobs.ashbyhq.com/motion/715d9646-27d4-44f6-9229-61eb0380ae39)
 * [2025-12-12, 20:57:34](https://news.ycombinator.com/item?id=46248859) - [GNU Unifont](https://unifoundry.com/unifont/index.html)
+* [2025-12-12, 20:41:38](https://news.ycombinator.com/item?id=46248644) - [macOS 26.2 enables fast AI clusters with RDMA over Thunderbolt](https://developer.apple.com/documentation/macos-release-notes/macos-26_2-release-notes#RDMA-over-Thunderbolt)
 * [2025-12-12, 20:28:41](https://news.ycombinator.com/item?id=46248470) - [Security issues with electronic invoices](https://invoice.secvuln.info/)
 * [2025-12-12, 20:24:04](https://news.ycombinator.com/item?id=46248417) - [New Kindle feature uses AI to answer questions about books](https://reactormag.com/new-kindle-feature-ai-answer-questions-books-authors/)
 * [2025-12-12, 20:15:58](https://news.ycombinator.com/item?id=46248323) - [Rats Play Doom](https://ratsplaydoom.com/)
+* [2025-12-12, 19:41:46](https://news.ycombinator.com/item?id=46247919) - [The Average Founder Ages 6 Months Each Year](https://tomtunguz.com/founder-age-median-trend/)
 * [2025-12-12, 19:13:35](https://news.ycombinator.com/item?id=46247605) - [The true story of the Windows 3.1 'Hot Dog Stand' color scheme](https://www.pcgamer.com/software/windows/windows-3-1-included-a-red-and-yellow-hot-dog-stand-color-scheme-so-garish-it-was-long-assumed-to-be-a-joke-so-i-tracked-down-the-original-designer-to-get-the-true-story/)
 * [2025-12-12, 18:58:43](https://news.ycombinator.com/item?id=46247415) - [Benn Jordan’s flock camera jammer will send you to jail in Florida now [video]](https://www.youtube.com/watch?v=qEllWdK4l_A)
 * [2025-12-12, 18:23:21](https://news.ycombinator.com/item?id=46247000) - [Home Depot GitHub token exposed for a year, granted access to internal systems](https://techcrunch.com/2025/12/12/home-depot-exposed-access-to-internal-systems-for-a-year-says-researcher/)
@@ -20,7 +22,6 @@
 * [2025-12-12, 14:20:20](https://news.ycombinator.com/item?id=46244378) - [BpfJailer: eBPF Mandatory Access Control [pdf]](https://lpc.events/event/19/contributions/2159/attachments/1833/3929/BpfJailer%20LPC%202025.pdf)
 * [2025-12-12, 13:25:19](https://news.ycombinator.com/item?id=46243904) - [SQLite JSON at full index speed using generated columns](https://www.dbpro.app/blog/sqlite-json-virtual-columns-indexing)
 * [2025-12-12, 13:23:31](https://news.ycombinator.com/item?id=46243883) - [Fedora: Open-source repository for long-term digital preservation](https://fedorarepository.org/)
-* [2025-12-12, 07:51:04](https://news.ycombinator.com/item?id=46241849) - [Guarding My Git Forge Against AI Scrapers](https://vulpinecitrus.info/blog/guarding-git-forge-ai-scrapers/)
 * [2025-12-12, 07:35:49](https://news.ycombinator.com/item?id=46241763) - [The tiniest yet real telescope I've built](https://lucassifoni.info/blog/miniscope-tiny-telescope/)
 * [2025-12-11, 14:45:49](https://news.ycombinator.com/item?id=46232003) - [From text to token: How tokenization pipelines work](https://www.paradedb.com/blog/when-tokenization-becomes-token)
 * [2025-12-10, 17:14:39](https://news.ycombinator.com/item?id=46220411) - [Pg_ClickHouse: A Postgres extension for querying ClickHouse](https://clickhouse.com/blog/introducing-pg_clickhouse)
@@ -29,7 +30,6 @@
 * [2025-12-08, 11:37:09](https://news.ycombinator.com/item?id=46191122) - [Good conversations have lots of doorknobs (2022)](https://www.experimental-history.com/p/good-conversations-have-lots-of-doorknobs)
 * [2025-12-08, 07:24:49](https://news.ycombinator.com/item?id=46189395) - [Microservices should form a polytree](https://bytesauna.com/post/microservices)
 * [2025-12-06, 15:34:26](https://news.ycombinator.com/item?id=46174114) - [4 billion if statements (2023)](https://andreasjhkarlsson.github.io//jekyll/update/2023/12/27/4-billion-if-statements.html)
-* [2025-12-06, 11:17:58](https://news.ycombinator.com/item?id=46172439) - [Octo: A Chip8 IDE](https://github.com/JohnEarnest/Octo)
 
 ## [Archives](archives/index.md)
 

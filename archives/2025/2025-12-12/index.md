@@ -6,9 +6,11 @@
 
 * [2025-12-12, 21:00:54](https://news.ycombinator.com/item?id=46248892) - [Motion (YC W20) Is Hiring Senior Staff Front End Engineers](https://jobs.ashbyhq.com/motion/715d9646-27d4-44f6-9229-61eb0380ae39)
 * [2025-12-12, 20:57:34](https://news.ycombinator.com/item?id=46248859) - [GNU Unifont](https://unifoundry.com/unifont/index.html)
+* [2025-12-12, 20:41:38](https://news.ycombinator.com/item?id=46248644) - [macOS 26.2 enables fast AI clusters with RDMA over Thunderbolt](https://developer.apple.com/documentation/macos-release-notes/macos-26_2-release-notes#RDMA-over-Thunderbolt)
 * [2025-12-12, 20:28:41](https://news.ycombinator.com/item?id=46248470) - [Security Issues with Electronic Invoices](https://invoice.secvuln.info/)
 * [2025-12-12, 20:24:04](https://news.ycombinator.com/item?id=46248417) - [New Kindle Feature Uses AI to Answer Questions About Books–Authors Can't Opt Out](https://reactormag.com/new-kindle-feature-ai-answer-questions-books-authors/)
 * [2025-12-12, 20:15:58](https://news.ycombinator.com/item?id=46248323) - [Rats Play Doom](https://ratsplaydoom.com/)
+* [2025-12-12, 19:41:46](https://news.ycombinator.com/item?id=46247919) - [The Average Founder Ages 6 Months Each Year](https://tomtunguz.com/founder-age-median-trend/)
 * [2025-12-12, 19:13:35](https://news.ycombinator.com/item?id=46247605) - [Windows 3.1 'Hot Dog Stand' color scheme true story](https://www.pcgamer.com/software/windows/windows-3-1-included-a-red-and-yellow-hot-dog-stand-color-scheme-so-garish-it-was-long-assumed-to-be-a-joke-so-i-tracked-down-the-original-designer-to-get-the-true-story/)
 * [2025-12-12, 18:58:43](https://news.ycombinator.com/item?id=46247415) - [Benn Jordan's flock camera jammer will send you to jail in Florida now [video]](https://www.youtube.com/watch?v=qEllWdK4l_A)
 * [2025-12-12, 18:23:21](https://news.ycombinator.com/item?id=46247000) - [Home Depot GitHub token exposed for a year, granted access to internal systems](https://techcrunch.com/2025/12/12/home-depot-exposed-access-to-internal-systems-for-a-year-says-researcher/)
