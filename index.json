@@ -11,22 +11,22 @@
   ],
   [
     [
-      "2025-12-12, 22:05:04",
-      "https://news.ycombinator.com/item?id=46249566"
-    ],
-    [
-      "Wine 11.0 RC2 – Run Windows Applications on Linux, BSD, Solaris and macOS",
-      "https://gitlab.winehq.org/wine/wine/-/releases/wine-11.0-rc2"
-    ]
-  ],
-  [
-    [
       "2025-12-12, 22:02:14",
       "https://news.ycombinator.com/item?id=46249538"
     ],
     [
       "Show HN: Tiny VM sandbox in C with apps in Rust, C and Zig",
       "https://github.com/ringtailsoftware/uvm32"
+    ]
+  ],
+  [
+    [
+      "2025-12-12, 21:42:04",
+      "https://news.ycombinator.com/item?id=46249337"
+    ],
+    [
+      "Capsudo: Rethinking Sudo with Object Capabilities",
+      "https://ariadne.space/2025/12/12/rethinking-sudo-with-object-capabilities.html"
     ]
   ],
   [
@@ -71,32 +71,12 @@
   ],
   [
     [
-      "2025-12-12, 20:24:04",
-      "https://news.ycombinator.com/item?id=46248417"
-    ],
-    [
-      "New Kindle feature uses AI to answer questions about books",
-      "https://reactormag.com/new-kindle-feature-ai-answer-questions-books-authors/"
-    ]
-  ],
-  [
-    [
       "2025-12-12, 20:15:58",
       "https://news.ycombinator.com/item?id=46248323"
     ],
     [
       "Rats Play DOOM",
       "https://ratsplaydoom.com/"
-    ]
-  ],
-  [
-    [
-      "2025-12-12, 19:13:35",
-      "https://news.ycombinator.com/item?id=46247605"
-    ],
-    [
-      "The true story of the Windows 3.1 'Hot Dog Stand' color scheme",
-      "https://www.pcgamer.com/software/windows/windows-3-1-included-a-red-and-yellow-hot-dog-stand-color-scheme-so-garish-it-was-long-assumed-to-be-a-joke-so-i-tracked-down-the-original-designer-to-get-the-true-story/"
     ]
   ],
   [
@@ -161,12 +141,12 @@
   ],
   [
     [
-      "2025-12-12, 15:58:10",
-      "https://news.ycombinator.com/item?id=46245331"
+      "2025-12-12, 15:46:44",
+      "https://news.ycombinator.com/item?id=46245211"
     ],
     [
-      "Framework Raises DDR5 Memory Prices by 50% for DIY Laptops",
-      "https://www.phoronix.com/news/Framework-50p-DDR5-Memory"
+      "I couldn't find a logging library that worked for my library, so I made one",
+      "https://hackers.pub/@hongminhee/2025/logtape-fedify-case-study"
     ]
   ],
   [
@@ -201,6 +181,16 @@
   ],
   [
     [
+      "2025-12-12, 12:51:40",
+      "https://news.ycombinator.com/item?id=46243655"
+    ],
+    [
+      "Sick of smart TVs? Here are your best options",
+      "https://arstechnica.com/gadgets/2025/12/the-ars-technica-guide-to-dumb-tvs/"
+    ]
+  ],
+  [
+    [
       "2025-12-12, 10:23:23",
       "https://news.ycombinator.com/item?id=46242700"
     ],
@@ -211,22 +201,32 @@
   ],
   [
     [
-      "2025-12-12, 07:35:49",
-      "https://news.ycombinator.com/item?id=46241763"
+      "2025-12-12, 06:17:28",
+      "https://news.ycombinator.com/item?id=46241368"
     ],
     [
-      "The tiniest yet real telescope I've built",
-      "https://lucassifoni.info/blog/miniscope-tiny-telescope/"
+      "Freeing a Xiaomi humidifier from the cloud",
+      "https://0l.de/blog/2025/11/xiaomi-humidifier/"
     ]
   ],
   [
     [
-      "2025-12-11, 14:45:49",
-      "https://news.ycombinator.com/item?id=46232003"
+      "2025-12-11, 23:56:10",
+      "https://news.ycombinator.com/item?id=46239076"
     ],
     [
-      "From text to token: How tokenization pipelines work",
-      "https://www.paradedb.com/blog/when-tokenization-becomes-token"
+      "Ensuring a National Policy Framework for Artificial Intelligence",
+      "https://www.whitehouse.gov/presidential-actions/2025/12/eliminating-state-law-obstruction-of-national-artificial-intelligence-policy/"
+    ]
+  ],
+  [
+    [
+      "2025-12-11, 18:00:55",
+      "https://news.ycombinator.com/item?id=46234734"
+    ],
+    [
+      "Show HN: I made a spreadsheet where formulas also update backwards",
+      "https://victorpoughon.github.io/bidicalc/"
     ]
   ],
   [
@@ -241,12 +241,12 @@
   ],
   [
     [
-      "2025-12-09, 02:25:28",
-      "https://news.ycombinator.com/item?id=46200562"
+      "2025-12-08, 13:20:19",
+      "https://news.ycombinator.com/item?id=46191890"
     ],
     [
-      "Open sourcing the Remix Store",
-      "https://remix.run/blog/oss-remix-store"
+      "Bit flips: How cosmic rays grounded a fleet of aircraft",
+      "https://www.bbc.com/future/article/20251201-how-cosmic-rays-grounded-thousands-of-aircraft"
     ]
   ],
   [
@@ -271,12 +271,12 @@
   ],
   [
     [
-      "2025-12-08, 05:43:27",
-      "https://news.ycombinator.com/item?id=46188800"
+      "2025-12-07, 11:01:07",
+      "https://news.ycombinator.com/item?id=46180844"
     ],
     [
-      "Funerary figurines found in royal tomb identifies Pharoah",
-      "https://www.sciencealert.com/trove-of-225-exceptional-egyptian-figurines-solves-long-standing-mystery"
+      "C64 Maze Chomp.BAS",
+      "https://basic-code.bearblog.dev/c64-maze-chompbas/"
     ]
   ],
   [
