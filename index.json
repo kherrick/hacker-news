@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2025-12-12, 04:55:42",
-      "https://news.ycombinator.com/item?id=46240998"
-    ],
-    [
-      "Show HN: I got my site down to 237kb by ditching Google Analytics",
-      "https://deadstack.net/"
-    ]
-  ],
-  [
-    [
       "2025-12-12, 01:41:15",
       "https://news.ycombinator.com/item?id=46239895"
     ],
@@ -31,11 +21,21 @@
   ],
   [
     [
+      "2025-12-12, 01:28:43",
+      "https://news.ycombinator.com/item?id=46239820"
+    ],
+    [
+      "The Boot Order of the Raspberry Pi Is Unusual",
+      "https://patrickmccanna.net/the-raspberry-pi-boot-order-is-unusual/"
+    ]
+  ],
+  [
+    [
       "2025-12-12, 01:20:05",
       "https://news.ycombinator.com/item?id=46239752"
     ],
     [
-      "Google De-Indexed My Bear Blog and I Don't Know Why",
+      "Google de-indexed Bear Blog and I don't know why",
       "https://journal.james-zhan.com/google-de-indexed-my-entire-bear-blog-and-i-dont-know-why/"
     ]
   ],
@@ -181,6 +181,16 @@
   ],
   [
     [
+      "2025-12-11, 15:25:43",
+      "https://news.ycombinator.com/item?id=46232528"
+    ],
+    [
+      "iPhone Typos? It's Not Just You – The iOS Keyboard Is Broken [video]",
+      "https://www.youtube.com/watch?v=hksVvXONrIo"
+    ]
+  ],
+  [
+    [
       "2025-12-11, 14:21:14",
       "https://news.ycombinator.com/item?id=46231709"
     ],
@@ -287,16 +297,6 @@
     [
       "Pdsink: USB Power Delivery Sink library for embedded devices",
       "https://github.com/pdsink/pdsink"
-    ]
-  ],
-  [
-    [
-      "2025-12-06, 15:03:54",
-      "https://news.ycombinator.com/item?id=46173848"
-    ],
-    [
-      "Dependent Names with a Little Encouragement",
-      "https://consteval.ca/2025/09/27/dependent-names/"
     ]
   ]
 ]
