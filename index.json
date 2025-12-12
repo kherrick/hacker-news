@@ -1,11 +1,41 @@
 [
   [
     [
+      "2025-12-12, 13:23:31",
+      "https://news.ycombinator.com/item?id=46243883"
+    ],
+    [
+      "Fedora: Open-source repository for long-term digital preservation",
+      "https://fedorarepository.org/"
+    ]
+  ],
+  [
+    [
+      "2025-12-12, 12:51:58",
+      "https://news.ycombinator.com/item?id=46243658"
+    ],
+    [
+      "Show HN: Epstein's emails reconstructed in a message-style UI (OCR and LLMs)",
+      "https://github.com/Toon-nooT/epsteins-phone-reconstructed"
+    ]
+  ],
+  [
+    [
+      "2025-12-12, 12:51:40",
+      "https://news.ycombinator.com/item?id=46243655"
+    ],
+    [
+      "How to break free from smart TV ads and tracking",
+      "https://arstechnica.com/gadgets/2025/12/the-ars-technica-guide-to-dumb-tvs/"
+    ]
+  ],
+  [
+    [
       "2025-12-12, 12:35:57",
       "https://news.ycombinator.com/item?id=46243543"
     ],
     [
-      "The Tor Project Is Making a Switch to Rust, Ditches C",
+      "The Tor Project is switching to Rust",
       "https://itsfoss.com/news/tor-rust-rewrite-progress/"
     ]
   ],
@@ -101,6 +131,16 @@
   ],
   [
     [
+      "2025-12-11, 21:24:34",
+      "https://news.ycombinator.com/item?id=46237358"
+    ],
+    [
+      "Show HN: Autofix Bot – Hybrid static analysis and AI code review agent",
+      "https://news.ycombinator.com/item?id=46237358"
+    ]
+  ],
+  [
+    [
       "2025-12-11, 20:46:46",
       "https://news.ycombinator.com/item?id=46236924"
     ],
@@ -161,16 +201,6 @@
   ],
   [
     [
-      "2025-12-11, 17:20:11",
-      "https://news.ycombinator.com/item?id=46234186"
-    ],
-    [
-      "Show HN: Sim – Apache-2.0 n8n alternative",
-      "https://github.com/simstudioai/sim"
-    ]
-  ],
-  [
-    [
       "2025-12-11, 14:45:49",
       "https://news.ycombinator.com/item?id=46232003"
     ],
@@ -181,42 +211,12 @@
   ],
   [
     [
-      "2025-12-11, 14:21:14",
-      "https://news.ycombinator.com/item?id=46231709"
-    ],
-    [
-      "The architecture of “not bad”: Decoding the Chinese source code of the void",
-      "https://suggger.substack.com/p/the-architecture-of-not-bad-decoding"
-    ]
-  ],
-  [
-    [
-      "2025-12-11, 14:05:16",
-      "https://news.ycombinator.com/item?id=46231493"
-    ],
-    [
-      "The Walt Disney Company and OpenAI Partner on Sora",
-      "https://openai.com/index/disney-sora-agreement/"
-    ]
-  ],
-  [
-    [
       "2025-12-11, 13:45:08",
       "https://news.ycombinator.com/item?id=46231274"
     ],
     [
       "Craft software that makes people feel something",
       "https://rapha.land/craft-software-that-makes-people-feel-something/"
-    ]
-  ],
-  [
-    [
-      "2025-12-11, 13:35:55",
-      "https://news.ycombinator.com/item?id=46231187"
-    ],
-    [
-      "French supermarket's Christmas advert is worldwide hit (without AI) [video]",
-      "https://www.youtube.com/watch?v=Na9VmMNJvsA"
     ]
   ],
   [
@@ -251,16 +251,6 @@
   ],
   [
     [
-      "2025-12-08, 09:42:04",
-      "https://news.ycombinator.com/item?id=46190324"
-    ],
-    [
-      "Einstein: NewtonOS running on other operating systems",
-      "https://github.com/pguyot/Einstein"
-    ]
-  ],
-  [
-    [
       "2025-12-08, 09:37:02",
       "https://news.ycombinator.com/item?id=46190288"
     ],
@@ -277,6 +267,16 @@
     [
       "What folk can do",
       "https://folk.computer/guides/what-folk-can-do"
+    ]
+  ],
+  [
+    [
+      "2025-12-07, 14:27:23",
+      "https://news.ycombinator.com/item?id=46181893"
+    ],
+    [
+      "BehindTheMedspeak: A Spinal Tap",
+      "https://bookofjoe2.blogspot.com/2025/10/behindthemedspeak-this-is-spinal-tap.html"
     ]
   ],
   [
