@@ -73,6 +73,7 @@
 * [2025-12-08, 09:37:02](https://news.ycombinator.com/item?id=46190288) - [Spirograph style Lego drawing machine](https://jkbrickworks.com/simple-drawing-machine/)
 * [2025-12-08, 09:05:52](https://news.ycombinator.com/item?id=46190051) - [Migrating Burningboard.net Mastodon Instance to a Multi-Jail FreeBSD Setup](https://blog.hofstede.it/migrating-burningboardnet-mastodon-instance-to-a-multi-jail-freebsd-setup/index.html)
 * [2025-12-08, 08:57:19](https://news.ycombinator.com/item?id=46189994) - [The f*** off contact page](https://www.nicchan.me/blog/the-f-off-contact-page/)
+* [2025-12-08, 08:52:03](https://news.ycombinator.com/item?id=46189962) - [Use Python for Scripting](https://hypirion.com/musings/use-python-for-scripting)
 * [2025-12-08, 08:29:47](https://news.ycombinator.com/item?id=46189792) - [You Gotta Push If You Wanna Pull](https://www.morling.dev/blog/you-gotta-push-if-you-wanna-pull/)
 * [2025-12-08, 08:16:26](https://news.ycombinator.com/item?id=46189704) - [Applets Are Officially Gone, but Java in the Browser Is Better](https://frequal.com/java/AppletsGoneButJavaInTheBrowserBetterThanEver.html)
 * [2025-12-08, 08:15:32](https://news.ycombinator.com/item?id=46189692) - [GitHub Actions Has a Package Manager, and It Might Be the Worst](https://nesbitt.io/2025/12/06/github-actions-package-manager.html)
