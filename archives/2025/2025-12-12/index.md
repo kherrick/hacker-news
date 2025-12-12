@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-12-12](index.md)
 
+* [2025-12-12, 23:30:19](https://news.ycombinator.com/item?id=46250332) - [OpenAI are quietly adopting skills, now available in ChatGPT and Codex CLI](https://simonwillison.net/2025/Dec/12/openai-skills/)
+* [2025-12-12, 23:26:26](https://news.ycombinator.com/item?id=46250309) - [50 years of proof assistants](https://lawrencecpaulson.github.io//2025/12/05/History_of_Proof_Assistants.html)
 * [2025-12-12, 22:34:13](https://news.ycombinator.com/item?id=46249834) - [Can I use HTTPS RRs?](https://www.netmeister.org/blog/https-caniuse.html)
 * [2025-12-12, 22:05:04](https://news.ycombinator.com/item?id=46249566) - [Wine 11.0 RC2 – Run Windows Applications on Linux, BSD, Solaris and macOS](https://gitlab.winehq.org/wine/wine/-/releases/wine-11.0-rc2)
 * [2025-12-12, 22:02:14](https://news.ycombinator.com/item?id=46249538) - [Show HN: Tiny VM sandbox in C with apps in Rust, C and Zig](https://github.com/ringtailsoftware/uvm32)
