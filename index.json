@@ -21,6 +21,16 @@
   ],
   [
     [
+      "2025-12-12, 20:41:38",
+      "https://news.ycombinator.com/item?id=46248644"
+    ],
+    [
+      "macOS 26.2 enables fast AI clusters with RDMA over Thunderbolt",
+      "https://developer.apple.com/documentation/macos-release-notes/macos-26_2-release-notes#RDMA-over-Thunderbolt"
+    ]
+  ],
+  [
+    [
       "2025-12-12, 20:28:41",
       "https://news.ycombinator.com/item?id=46248470"
     ],
@@ -47,6 +57,16 @@
     [
       "Rats Play Doom",
       "https://ratsplaydoom.com/"
+    ]
+  ],
+  [
+    [
+      "2025-12-12, 19:41:46",
+      "https://news.ycombinator.com/item?id=46247919"
+    ],
+    [
+      "The Average Founder Ages 6 Months Each Year",
+      "https://tomtunguz.com/founder-age-median-trend/"
     ]
   ],
   [
@@ -201,16 +221,6 @@
   ],
   [
     [
-      "2025-12-12, 07:51:04",
-      "https://news.ycombinator.com/item?id=46241849"
-    ],
-    [
-      "Guarding My Git Forge Against AI Scrapers",
-      "https://vulpinecitrus.info/blog/guarding-git-forge-ai-scrapers/"
-    ]
-  ],
-  [
-    [
       "2025-12-12, 07:35:49",
       "https://news.ycombinator.com/item?id=46241763"
     ],
@@ -287,16 +297,6 @@
     [
       "4 billion if statements (2023)",
       "https://andreasjhkarlsson.github.io//jekyll/update/2023/12/27/4-billion-if-statements.html"
-    ]
-  ],
-  [
-    [
-      "2025-12-06, 11:17:58",
-      "https://news.ycombinator.com/item?id=46172439"
-    ],
-    [
-      "Octo: A Chip8 IDE",
-      "https://github.com/JohnEarnest/Octo"
     ]
   ]
 ]
