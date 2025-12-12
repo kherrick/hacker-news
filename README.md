@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-12-12, 08:24:22](https://news.ycombinator.com/item?id=46242016) - [Journalism students expose Russian-linked vessels off the Dutch and German coast](https://www.digitaldigging.org/p/they-droned-back)
 * [2025-12-12, 07:51:04](https://news.ycombinator.com/item?id=46241849) - [Guarding My Git Forge Against AI Scrapers](https://vulpinecitrus.info/blog/guarding-git-forge-ai-scrapers/)
 * [2025-12-12, 07:35:49](https://news.ycombinator.com/item?id=46241763) - [The tiniest yet real telescope I've built](https://lucassifoni.info/blog/miniscope-tiny-telescope/)
 * [2025-12-12, 01:41:15](https://news.ycombinator.com/item?id=46239895) - [Cadmium Zinc Telluride: The wonder material powering a medical 'revolution'](https://www.bbc.com/news/articles/c24l223d9n7o)
-* [2025-12-12, 01:28:43](https://news.ycombinator.com/item?id=46239820) - [The Boot Order of the Raspberry Pi Is Unusual](https://patrickmccanna.net/the-raspberry-pi-boot-order-is-unusual/)
 * [2025-12-12, 01:20:05](https://news.ycombinator.com/item?id=46239752) - [Google de-indexed Bear Blog and I don't know why](https://journal.james-zhan.com/google-de-indexed-my-entire-bear-blog-and-i-dont-know-why/)
 * [2025-12-12, 00:59:46](https://news.ycombinator.com/item?id=46239629) - [CRISPR fungus: Protein-packed, sustainable, and tastes like meat](https://www.isaaa.org/kc/cropbiotechupdate/article/default.asp?ID=21607)
 * [2025-12-12, 00:28:24](https://news.ycombinator.com/item?id=46239372) - [Stoolap: High-performance embedded SQL database in pure Rust](https://github.com/stoolap/stoolap)
