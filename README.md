@@ -18,6 +18,7 @@
 * [2025-12-11, 18:04:47](https://news.ycombinator.com/item?id=46234788) - [GPT-5.2](https://openai.com/index/introducing-gpt-5-2/)
 * [2025-12-11, 17:59:10](https://news.ycombinator.com/item?id=46234710) - [Litestream VFS](https://fly.io/blog/litestream-vfs/)
 * [2025-12-11, 17:20:11](https://news.ycombinator.com/item?id=46234186) - [Show HN: Sim – Apache-2.0 n8n alternative](https://github.com/simstudioai/sim)
+* [2025-12-11, 15:25:43](https://news.ycombinator.com/item?id=46232528) - [iPhone Typos? It's Not Just You – The iOS Keyboard Is Broken [video]](https://www.youtube.com/watch?v=hksVvXONrIo)
 * [2025-12-11, 14:21:14](https://news.ycombinator.com/item?id=46231709) - [The architecture of “not bad”: Decoding the Chinese source code of the void](https://suggger.substack.com/p/the-architecture-of-not-bad-decoding)
 * [2025-12-11, 14:05:16](https://news.ycombinator.com/item?id=46231493) - [The Walt Disney Company and OpenAI Partner on Sora](https://openai.com/index/disney-sora-agreement/)
 * [2025-12-11, 13:45:08](https://news.ycombinator.com/item?id=46231274) - [Craft software that makes people feel something](https://rapha.land/craft-software-that-makes-people-feel-something/)
@@ -28,8 +29,7 @@
 * [2025-12-08, 21:33:09](https://news.ycombinator.com/item?id=46197930) - [The highest quality codebase](https://gricha.dev/blog/the-highest-quality-codebase)
 * [2025-12-07, 16:26:45](https://news.ycombinator.com/item?id=46182874) - [He set out to walk around the world. After 27 years, his quest is nearly over](https://www.washingtonpost.com/lifestyle/2025/12/05/karl-bushby-walk-around-world/)
 * [2025-12-07, 04:14:03](https://news.ycombinator.com/item?id=46179103) - [Pdsink: USB Power Delivery Sink library for embedded devices](https://github.com/pdsink/pdsink)
-* [2025-12-04, 22:41:21](https://news.ycombinator.com/item?id=46154190) - [Tile IR Specification](https://docs.nvidia.com/cuda/tile-ir/)
-* [2025-12-03, 19:04:09](https://news.ycombinator.com/item?id=46138534) - [The Invisible Cost: From Creator to Consumer](https://edwardnoaland.substack.com/p/the-invisible-cost-from-creator-to)
+* [2025-12-06, 15:03:54](https://news.ycombinator.com/item?id=46173848) - [Dependent Names with a Little Encouragement](https://consteval.ca/2025/09/27/dependent-names/)
 
 ## [Archives](archives/index.md)
 
