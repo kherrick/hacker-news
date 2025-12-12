@@ -8,7 +8,6 @@
 * [2025-12-12, 20:15:58](https://news.ycombinator.com/item?id=46248323) - [Rats Play Doom](https://ratsplaydoom.com/)
 * [2025-12-12, 19:41:46](https://news.ycombinator.com/item?id=46247919) - [The Average Founder Ages 6 Months Each Year](https://tomtunguz.com/founder-age-median-trend/)
 * [2025-12-12, 19:13:35](https://news.ycombinator.com/item?id=46247605) - [The true story of the Windows 3.1 'Hot Dog Stand' color scheme](https://www.pcgamer.com/software/windows/windows-3-1-included-a-red-and-yellow-hot-dog-stand-color-scheme-so-garish-it-was-long-assumed-to-be-a-joke-so-i-tracked-down-the-original-designer-to-get-the-true-story/)
-* [2025-12-12, 18:58:43](https://news.ycombinator.com/item?id=46247415) - [Benn Jordan’s flock camera jammer will send you to jail in Florida now [video]](https://www.youtube.com/watch?v=qEllWdK4l_A)
 * [2025-12-12, 18:23:21](https://news.ycombinator.com/item?id=46247000) - [Home Depot GitHub token exposed for a year, granted access to internal systems](https://techcrunch.com/2025/12/12/home-depot-exposed-access-to-internal-systems-for-a-year-says-researcher/)
 * [2025-12-12, 18:07:57](https://news.ycombinator.com/item?id=46246802) - [Google releases its new Google Sans Flex font as open source](https://www.omgubuntu.co.uk/2025/11/google-sans-flex-font-ubuntu)
 * [2025-12-12, 17:32:48](https://news.ycombinator.com/item?id=46246395) - [Nuclear energy key to decarbonising Europe, says EESC](https://www.eesc.europa.eu/en/news-media/news/nuclear-energy-key-decarbonising-europe-says-eesc)
@@ -29,6 +28,7 @@
 * [2025-12-08, 13:20:19](https://news.ycombinator.com/item?id=46191890) - [Bit flips: How cosmic rays grounded a fleet of aircraft](https://www.bbc.com/future/article/20251201-how-cosmic-rays-grounded-thousands-of-aircraft)
 * [2025-12-08, 11:37:09](https://news.ycombinator.com/item?id=46191122) - [Good conversations have lots of doorknobs (2022)](https://www.experimental-history.com/p/good-conversations-have-lots-of-doorknobs)
 * [2025-12-08, 07:24:49](https://news.ycombinator.com/item?id=46189395) - [Microservices should form a polytree](https://bytesauna.com/post/microservices)
+* [2025-12-08, 05:43:27](https://news.ycombinator.com/item?id=46188800) - [Funerary figurines found in royal tomb identifies Pharoah](https://www.sciencealert.com/trove-of-225-exceptional-egyptian-figurines-solves-long-standing-mystery)
 * [2025-12-06, 15:34:26](https://news.ycombinator.com/item?id=46174114) - [4 billion if statements (2023)](https://andreasjhkarlsson.github.io//jekyll/update/2023/12/27/4-billion-if-statements.html)
 
 ## [Archives](archives/index.md)
