@@ -2,7 +2,6 @@
 
 * [2025-12-12, 13:25:19](https://news.ycombinator.com/item?id=46243904) - [SQLite JSON at Full Index Speed Using Generated Columns](https://www.dbpro.app/blog/sqlite-json-virtual-columns-indexing)
 * [2025-12-12, 13:23:31](https://news.ycombinator.com/item?id=46243883) - [Fedora: Open-source repository for long-term digital preservation](https://fedorarepository.org/)
-* [2025-12-12, 12:51:40](https://news.ycombinator.com/item?id=46243655) - [How to break free from smart TV ads and tracking](https://arstechnica.com/gadgets/2025/12/the-ars-technica-guide-to-dumb-tvs/)
 * [2025-12-12, 12:35:57](https://news.ycombinator.com/item?id=46243543) - [The Tor Project is switching to Rust](https://itsfoss.com/news/tor-rust-rewrite-progress/)
 * [2025-12-12, 10:50:22](https://news.ycombinator.com/item?id=46242871) - [After 27 years within budget Austria open 6thlongest railway tunnel in the world](https://infrastruktur.oebb.at/en/projects-for-austria/railway-lines/southern-line-vienna-villach/koralm-railway)
 * [2025-12-12, 10:37:51](https://news.ycombinator.com/item?id=46242795) - [Training LLMs for Honesty via Confessions](https://arxiv.org/abs/2512.08093)
@@ -27,6 +26,7 @@
 * [2025-12-08, 21:33:09](https://news.ycombinator.com/item?id=46197930) - [The highest quality codebase](https://gricha.dev/blog/the-highest-quality-codebase)
 * [2025-12-08, 09:37:02](https://news.ycombinator.com/item?id=46190288) - [Spirograph style Lego drawing machine](https://jkbrickworks.com/simple-drawing-machine/)
 * [2025-12-08, 00:37:42](https://news.ycombinator.com/item?id=46186990) - [What folk can do](https://folk.computer/guides/what-folk-can-do)
+* [2025-12-07, 16:26:45](https://news.ycombinator.com/item?id=46182874) - [He set out to walk around the world. After 27 years, his quest is nearly over](https://www.washingtonpost.com/lifestyle/2025/12/05/karl-bushby-walk-around-world/)
 * [2025-12-07, 14:27:23](https://news.ycombinator.com/item?id=46181893) - [BehindTheMedspeak: A Spinal Tap](https://bookofjoe2.blogspot.com/2025/10/behindthemedspeak-this-is-spinal-tap.html)
 * [2025-12-06, 15:34:26](https://news.ycombinator.com/item?id=46174114) - [4 billion if statements (2023)](https://andreasjhkarlsson.github.io//jekyll/update/2023/12/27/4-billion-if-statements.html)
 * [2025-12-06, 11:17:58](https://news.ycombinator.com/item?id=46172439) - [Octo: A Chip8 IDE](https://github.com/JohnEarnest/Octo)
