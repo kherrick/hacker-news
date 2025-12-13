@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-12-13, 08:15:48](https://news.ycombinator.com/item?id=46252993) - [Computer Animator and Amiga fanatic Dick Van Dyke turns 100](https://news.ycombinator.com/item?id=46252993)
 * [2025-12-13, 05:06:59](https://news.ycombinator.com/item?id=46252171) - [Doxers Posing as Cops Are Tricking Big Tech Firms into Sharing People's Data](https://www.wired.com/story/doxers-posing-as-cops-are-tricking-big-tech-firms-into-sharing-peoples-private-data/)
 * [2025-12-13, 04:55:59](https://news.ycombinator.com/item?id=46252114) - [Apple has locked my Apple ID, and I have no recourse. A plea for help](https://hey.paris/posts/appleid/)
 * [2025-12-13, 03:21:32](https://news.ycombinator.com/item?id=46251684) - [Google Removes Sci-Hub Domains from U.S. Search Results Due to Dated Court Order](https://torrentfreak.com/google-removes-sci-hub-domains-from-u-s-search-results-due-to-dated-court-order/)
@@ -15,7 +16,6 @@
 * [2025-12-12, 20:41:38](https://news.ycombinator.com/item?id=46248644) - [macOS 26.2 enables fast AI clusters with RDMA over Thunderbolt](https://developer.apple.com/documentation/macos-release-notes/macos-26_2-release-notes#RDMA-over-Thunderbolt)
 * [2025-12-12, 20:15:58](https://news.ycombinator.com/item?id=46248323) - [Rats Play DOOM](https://ratsplaydoom.com/)
 * [2025-12-12, 16:23:10](https://news.ycombinator.com/item?id=46245622) - [String theory inspires a brilliant, baffling new math proof](https://www.quantamagazine.org/string-theory-inspires-a-brilliant-baffling-new-math-proof-20251212/)
-* [2025-12-12, 15:19:19](https://news.ycombinator.com/item?id=46244922) - [CM0 – A new Raspberry Pi you can't buy](https://www.jeffgeerling.com/blog/2025/cm0-new-raspberry-pi-you-cant-buy)
 * [2025-12-12, 12:51:40](https://news.ycombinator.com/item?id=46243655) - [Sick of smart TVs? Here are your best options](https://arstechnica.com/gadgets/2025/12/the-ars-technica-guide-to-dumb-tvs/)
 * [2025-12-12, 10:50:22](https://news.ycombinator.com/item?id=46242871) - [Koralm Railway](https://infrastruktur.oebb.at/en/projects-for-austria/railway-lines/southern-line-vienna-villach/koralm-railway)
 * [2025-12-12, 06:17:28](https://news.ycombinator.com/item?id=46241368) - [Freeing a Xiaomi humidifier from the cloud](https://0l.de/blog/2025/11/xiaomi-humidifier/)
