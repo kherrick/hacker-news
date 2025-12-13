@@ -11,6 +11,26 @@
   ],
   [
     [
+      "2025-12-13, 19:58:32",
+      "https://news.ycombinator.com/item?id=46257442"
+    ],
+    [
+      "What is a build system, anyway?",
+      "https://jyn.dev/what-is-a-build-system-anyway/"
+    ]
+  ],
+  [
+    [
+      "2025-12-13, 19:54:51",
+      "https://news.ycombinator.com/item?id=46257410"
+    ],
+    [
+      "We Lost Something: 1970s REPLs Were Better Than Modern Development Environments",
+      "https://programmingsimplicity.substack.com/p/we-lost-something-1970s-repls-were"
+    ]
+  ],
+  [
+    [
       "2025-12-13, 19:46:19",
       "https://news.ycombinator.com/item?id=46257339"
     ],
@@ -77,16 +97,6 @@
     [
       "I tried Gleam for Advent of Code",
       "https://blog.tymscar.com/posts/gleamaoc2025/"
-    ]
-  ],
-  [
-    [
-      "2025-12-13, 16:03:18",
-      "https://news.ycombinator.com/item?id=46255522"
-    ],
-    [
-      "Hacking Google Chrome Source Code: Make Puppeteer work over Redis PubSub",
-      "https://www.deadf00d.com/post/chromium-pub-sub-redis.html"
     ]
   ],
   [
@@ -171,16 +181,6 @@
   ],
   [
     [
-      "2025-12-11, 18:00:55",
-      "https://news.ycombinator.com/item?id=46234734"
-    ],
-    [
-      "Show HN: I made a spreadsheet where formulas also update backwards",
-      "https://victorpoughon.github.io/bidicalc/"
-    ]
-  ],
-  [
-    [
       "2025-12-10, 21:08:41",
       "https://news.ycombinator.com/item?id=46223882"
     ],
@@ -221,16 +221,6 @@
   ],
   [
     [
-      "2025-12-09, 11:44:34",
-      "https://news.ycombinator.com/item?id=46203824"
-    ],
-    [
-      "SSE sucks for transporting LLM tokens",
-      "https://zknill.io/posts/sse-sucks-for-transporting-llm-tokens/"
-    ]
-  ],
-  [
-    [
       "2025-12-08, 13:04:17",
       "https://news.ycombinator.com/item?id=46191734"
     ],
@@ -247,6 +237,16 @@
     [
       "Using Python for Scripting",
       "https://hypirion.com/musings/use-python-for-scripting"
+    ]
+  ],
+  [
+    [
+      "2025-12-08, 08:02:08",
+      "https://news.ycombinator.com/item?id=46189616"
+    ],
+    [
+      "From Azure Functions to FreeBSD",
+      "https://jmmv.dev/2025/12/from-azure-functions-to-freebsd.html"
     ]
   ],
   [
