@@ -56,6 +56,7 @@
 * [2025-12-08, 14:06:35](https://news.ycombinator.com/item?id=46192348) - [Show HN: I wrote a book – Debugging TypeScript Applications (in beta)](https://pragprog.com/titles/aodjs/debugging-typescript-applications/)
 * [2025-12-08, 13:51:30](https://news.ycombinator.com/item?id=46192212) - [Gild Just One Lily](https://www.smashingmagazine.com/2025/04/gild-just-one-lily/)
 * [2025-12-08, 13:49:21](https://news.ycombinator.com/item?id=46192186) - [Microsoft Increases Office 365 and Microsoft 365 License Prices](https://office365itpros.com/2025/12/08/microsoft-365-pricing-increase/)
+* [2025-12-08, 13:48:51](https://news.ycombinator.com/item?id=46192181) - [How Exchanges Turn Order Books into Distributed Logs](https://quant.engineering/exchange-order-book-distributed-logs.html)
 * [2025-12-08, 13:43:59](https://news.ycombinator.com/item?id=46192130) - [IBM to Acquire Confluent](https://www.confluent.io/blog/ibm-to-acquire-confluent/)
 * [2025-12-08, 13:23:29](https://news.ycombinator.com/item?id=46191933) - [Alignment Is Capability](https://www.off-policy.com/alignment-is-capability/)
 * [2025-12-08, 13:20:19](https://news.ycombinator.com/item?id=46191890) - [Bit flips: How cosmic rays grounded a fleet of aircraft](https://www.bbc.com/future/article/20251201-how-cosmic-rays-grounded-thousands-of-aircraft)
