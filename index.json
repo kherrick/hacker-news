@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-12-13, 12:03:51",
+      "https://news.ycombinator.com/item?id=46253985"
+    ],
+    [
+      "YouTube's CEO limits his kids' social media use – other tech bosses do the same",
+      "https://www.cnbc.com/2025/12/13/youtubes-ceo-is-latest-tech-boss-limiting-his-kids-social-media-use.html"
+    ]
+  ],
+  [
+    [
       "2025-12-13, 11:16:45",
       "https://news.ycombinator.com/item?id=46253763"
     ],
@@ -21,16 +31,6 @@
   ],
   [
     [
-      "2025-12-13, 05:06:59",
-      "https://news.ycombinator.com/item?id=46252171"
-    ],
-    [
-      "Doxers Posing as Cops Are Tricking Big Tech Firms into Sharing People's Data",
-      "https://www.wired.com/story/doxers-posing-as-cops-are-tricking-big-tech-firms-into-sharing-peoples-private-data/"
-    ]
-  ],
-  [
-    [
       "2025-12-13, 04:55:59",
       "https://news.ycombinator.com/item?id=46252114"
     ],
@@ -45,7 +45,7 @@
       "https://news.ycombinator.com/item?id=46251684"
     ],
     [
-      "Google Removes Sci-Hub Domains from U.S. Search Results Due to Dated Court Order",
+      "Google removes Sci-Hub domains from U.S. search results due to dated court order",
       "https://torrentfreak.com/google-removes-sci-hub-domains-from-u-s-search-results-due-to-dated-court-order/"
     ]
   ],
@@ -57,16 +57,6 @@
     [
       "The Coming Need for Formal Specification",
       "https://benjamincongdon.me/blog/2025/12/12/The-Coming-Need-for-Formal-Specification/"
-    ]
-  ],
-  [
-    [
-      "2025-12-13, 02:56:49",
-      "https://news.ycombinator.com/item?id=46251582"
-    ],
-    [
-      "1300 Still Images from the Animated Films of Hayao Miyazaki's Studio Ghibli (2023)",
-      "https://www.ghibli.jp/info/013772/"
     ]
   ],
   [
@@ -201,16 +191,6 @@
   ],
   [
     [
-      "2025-12-10, 17:14:39",
-      "https://news.ycombinator.com/item?id=46220411"
-    ],
-    [
-      "Pg_ClickHouse: A Postgres extension for querying ClickHouse",
-      "https://clickhouse.com/blog/introducing-pg_clickhouse"
-    ]
-  ],
-  [
-    [
       "2025-12-09, 20:16:15",
       "https://news.ycombinator.com/item?id=46210044"
     ],
@@ -225,8 +205,18 @@
       "https://news.ycombinator.com/item?id=46202254"
     ],
     [
-      "Optical Context Compression Is Just (Bad) Autoencoding",
+      "Optical context compression is just (bad) autoencoding",
       "https://arxiv.org/abs/2512.03643"
+    ]
+  ],
+  [
+    [
+      "2025-12-08, 16:27:29",
+      "https://news.ycombinator.com/item?id=46194245"
+    ],
+    [
+      "Obscuring P2P Nodes with Dandelion",
+      "https://www.johndcook.com/blog/2025/12/08/dandelion/"
     ]
   ],
   [
@@ -237,6 +227,16 @@
     [
       "Gild Just One Lily",
       "https://www.smashingmagazine.com/2025/04/gild-just-one-lily/"
+    ]
+  ],
+  [
+    [
+      "2025-12-08, 13:48:51",
+      "https://news.ycombinator.com/item?id=46192181"
+    ],
+    [
+      "How Exchanges Turn Order Books into Distributed Logs",
+      "https://quant.engineering/exchange-order-book-distributed-logs.html"
     ]
   ],
   [
@@ -285,7 +285,7 @@
       "https://news.ycombinator.com/item?id=46177160"
     ],
     [
-      "Photographer Built a Medium-Format Rangefinder, and So Can You",
+      "Photographer built a medium-format rangefinder, and so can you",
       "https://petapixel.com/2025/12/06/this-photographer-built-an-awesome-medium-format-rangefinder-and-so-can-you/"
     ]
   ],
@@ -295,7 +295,7 @@
       "https://news.ycombinator.com/item?id=46175888"
     ],
     [
-      "Ferrari's Formula 1 Handovers: Handovers from Surgery to Intensive Care 2008;pdf",
+      "Formula One Handovers and Handovers From Surgery to Intensive Care (2008) [pdf]",
       "https://gwern.net/doc/technology/2008-sower.pdf"
     ]
   ]
