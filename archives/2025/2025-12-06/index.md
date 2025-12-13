@@ -58,6 +58,7 @@
 * [2025-12-06, 11:28:56](https://news.ycombinator.com/item?id=46172498) - [OpenRouter Broadcast](https://openrouter.ai/docs/guides/features/broadcast/overview)
 * [2025-12-06, 11:18:40](https://news.ycombinator.com/item?id=46172443) - [Autism's Confusing Cousins](https://www.psychiatrymargins.com/p/autisms-confusing-cousins)
 * [2025-12-06, 11:17:58](https://news.ycombinator.com/item?id=46172439) - [Octo: A Chip8 IDE](https://github.com/JohnEarnest/Octo)
+* [2025-12-06, 11:14:49](https://news.ycombinator.com/item?id=46172417) - [Dynamic Pong Wars](https://markodenic.tech/dynamic-pong-wars/)
 * [2025-12-06, 10:53:56](https://news.ycombinator.com/item?id=46172312) - [How America's \"truck-driver shortage\" made the industry a hellscape](https://www.freightwaves.com/news/how-americas-trucking-industry-became-a-hellscape)
 * [2025-12-06, 10:20:19](https://news.ycombinator.com/item?id=46172167) - [Linux Instal Fest Belgrade](https://dmz.rs/lif2025_en)
 * [2025-12-06, 09:28:59](https://news.ycombinator.com/item?id=46171921) - [Ask HN: How many people got VPNs in response to laws like UK Online Safety Act?](https://news.ycombinator.com/item?id=46171921)

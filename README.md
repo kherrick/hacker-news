@@ -28,8 +28,8 @@
 * [2025-12-07, 15:19:25](https://news.ycombinator.com/item?id=46182307) - [Java FFM zero-copy transport using io_uring](https://www.mvp.express/)
 * [2025-12-06, 22:29:29](https://news.ycombinator.com/item?id=46177160) - [Photographer built a medium-format rangefinder, and so can you](https://petapixel.com/2025/12/06/this-photographer-built-an-awesome-medium-format-rangefinder-and-so-can-you/)
 * [2025-12-06, 21:06:46](https://news.ycombinator.com/item?id=46176592) - [Will West Coast Jazz Get Some Respect?](https://www.honest-broker.com/p/will-west-coast-jazz-finally-get)
-* [2025-12-06, 19:21:50](https://news.ycombinator.com/item?id=46175888) - [Formula One Handovers and Handovers From Surgery to Intensive Care (2008) [pdf]](https://gwern.net/doc/technology/2008-sower.pdf)
 * [2025-12-06, 11:48:45](https://news.ycombinator.com/item?id=46172586) - [Cryptids](https://wiki.bbchallenge.org/wiki/Cryptids)
+* [2025-12-06, 11:14:49](https://news.ycombinator.com/item?id=46172417) - [Dynamic Pong Wars](https://markodenic.tech/dynamic-pong-wars/)
 
 ## [Archives](archives/index.md)
 
