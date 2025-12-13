@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-12-13, 13:08:36](https://news.ycombinator.com/item?id=46254276) - [AI is bringing old nuclear plants out of retirement](https://www.wbur.org/hereandnow/2025/12/09/nuclear-power-ai)
 * [2025-12-13, 12:29:19](https://news.ycombinator.com/item?id=46254087) - [We built another object storage](https://fractalbits.com/blog/why-we-built-another-object-storage/)
 * [2025-12-13, 12:03:51](https://news.ycombinator.com/item?id=46253985) - [YouTube's CEO limits his kids' social media use – other tech bosses do the same](https://www.cnbc.com/2025/12/13/youtubes-ceo-is-latest-tech-boss-limiting-his-kids-social-media-use.html)
 * [2025-12-13, 08:15:48](https://news.ycombinator.com/item?id=46252993) - [Computer Animator and Amiga fanatic Dick Van Dyke turns 100](https://news.ycombinator.com/item?id=46252993)
@@ -30,6 +29,7 @@
 * [2025-12-06, 22:29:29](https://news.ycombinator.com/item?id=46177160) - [Photographer built a medium-format rangefinder, and so can you](https://petapixel.com/2025/12/06/this-photographer-built-an-awesome-medium-format-rangefinder-and-so-can-you/)
 * [2025-12-06, 21:06:46](https://news.ycombinator.com/item?id=46176592) - [Will West Coast Jazz Get Some Respect?](https://www.honest-broker.com/p/will-west-coast-jazz-finally-get)
 * [2025-12-06, 19:21:50](https://news.ycombinator.com/item?id=46175888) - [Formula One Handovers and Handovers From Surgery to Intensive Care (2008) [pdf]](https://gwern.net/doc/technology/2008-sower.pdf)
+* [2025-12-06, 11:48:45](https://news.ycombinator.com/item?id=46172586) - [Cryptids](https://wiki.bbchallenge.org/wiki/Cryptids)
 
 ## [Archives](archives/index.md)
 

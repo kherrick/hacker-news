@@ -54,6 +54,7 @@
 * [2025-12-06, 12:46:42](https://news.ycombinator.com/item?id=46172902) - [Why Speed Matters](https://lemire.me/blog/2025/12/05/why-speed-matters/)
 * [2025-12-06, 12:29:28](https://news.ycombinator.com/item?id=46172797) - [Touching the Elephant – TPUs](https://considerthebulldog.com/tte-tpu/)
 * [2025-12-06, 12:06:53](https://news.ycombinator.com/item?id=46172682) - ['Life being stressful is not an illness' – GPs on mental health over-diagnosis](https://www.bbc.com/news/articles/cx2pvxdn9v4o)
+* [2025-12-06, 11:48:45](https://news.ycombinator.com/item?id=46172586) - [Cryptids](https://wiki.bbchallenge.org/wiki/Cryptids)
 * [2025-12-06, 11:28:56](https://news.ycombinator.com/item?id=46172498) - [OpenRouter Broadcast](https://openrouter.ai/docs/guides/features/broadcast/overview)
 * [2025-12-06, 11:18:40](https://news.ycombinator.com/item?id=46172443) - [Autism's Confusing Cousins](https://www.psychiatrymargins.com/p/autisms-confusing-cousins)
 * [2025-12-06, 11:17:58](https://news.ycombinator.com/item?id=46172439) - [Octo: A Chip8 IDE](https://github.com/JohnEarnest/Octo)
