@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-12-13, 12:08:29](https://news.ycombinator.com/item?id=46254013) - [Germany's train service is one of Europe's worst. How did it get so bad?](https://www.npr.org/2025/12/12/g-s1-100794/germany-train-rail-deutsche-bahn)
 * [2025-12-13, 12:03:51](https://news.ycombinator.com/item?id=46253985) - [YouTube's CEO limits his kids' social media use – other tech bosses do the same](https://www.cnbc.com/2025/12/13/youtubes-ceo-is-latest-tech-boss-limiting-his-kids-social-media-use.html)
 * [2025-12-13, 08:15:48](https://news.ycombinator.com/item?id=46252993) - [Computer Animator and Amiga fanatic Dick Van Dyke turns 100](https://news.ycombinator.com/item?id=46252993)
-* [2025-12-13, 05:06:59](https://news.ycombinator.com/item?id=46252171) - [Doxers posing as cops are tricking big tech firms into sharing people's data](https://www.wired.com/story/doxers-posing-as-cops-are-tricking-big-tech-firms-into-sharing-peoples-private-data/)
 * [2025-12-13, 03:21:32](https://news.ycombinator.com/item?id=46251684) - [Google removes Sci-Hub domains from U.S. search results due to dated court order](https://torrentfreak.com/google-removes-sci-hub-domains-from-u-s-search-results-due-to-dated-court-order/)
 * [2025-12-13, 03:17:18](https://news.ycombinator.com/item?id=46251667) - [The Coming Need for Formal Specification](https://benjamincongdon.me/blog/2025/12/12/The-Coming-Need-for-Formal-Specification/)
 * [2025-12-13, 00:50:47](https://news.ycombinator.com/item?id=46250862) - [The Checkerboard](https://99percentinvisible.org/episode/650-the-checkerboard/)
