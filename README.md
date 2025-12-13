@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-12-13, 03:57:58](https://news.ycombinator.com/item?id=46251852) - [Show HN: Claude Code Recipes for Knowledge Workers (Open Source)](https://github.com/sgharlow/claude-code-recipes)
 * [2025-12-13, 03:21:32](https://news.ycombinator.com/item?id=46251684) - [Google Removes Sci-Hub Domains from U.S. Search Results Due to Dated Court Order](https://torrentfreak.com/google-removes-sci-hub-domains-from-u-s-search-results-due-to-dated-court-order/)
+* [2025-12-13, 03:17:18](https://news.ycombinator.com/item?id=46251667) - [The Coming Need for Formal Specification](https://benjamincongdon.me/blog/2025/12/12/The-Coming-Need-for-Formal-Specification/)
 * [2025-12-13, 03:12:47](https://news.ycombinator.com/item?id=46251654) - [Oliver Sacks fabricated key details in his books](https://boingboing.net/2025/12/12/oliver-sacks-fabricated-key-details-in-his-books.html)
 * [2025-12-13, 02:56:49](https://news.ycombinator.com/item?id=46251582) - [1300 Still Images from the Animated Films of Hayao Miyazaki's Studio Ghibli](https://www.ghibli.jp/info/013772/)
 * [2025-12-13, 00:50:47](https://news.ycombinator.com/item?id=46250862) - [The Checkerboard](https://99percentinvisible.org/episode/650-the-checkerboard/)
@@ -18,18 +20,16 @@
 * [2025-12-12, 16:23:10](https://news.ycombinator.com/item?id=46245622) - [String theory inspires a brilliant, baffling new math proof](https://www.quantamagazine.org/string-theory-inspires-a-brilliant-baffling-new-math-proof-20251212/)
 * [2025-12-12, 15:19:19](https://news.ycombinator.com/item?id=46244922) - [CM0 – A new Raspberry Pi you can't buy](https://www.jeffgeerling.com/blog/2025/cm0-new-raspberry-pi-you-cant-buy)
 * [2025-12-12, 13:25:19](https://news.ycombinator.com/item?id=46243904) - [SQLite JSON at full index speed using generated columns](https://www.dbpro.app/blog/sqlite-json-virtual-columns-indexing)
-* [2025-12-12, 13:23:31](https://news.ycombinator.com/item?id=46243883) - [Fedora: Open-source repository for long-term digital preservation](https://fedorarepository.org/)
 * [2025-12-12, 12:51:40](https://news.ycombinator.com/item?id=46243655) - [Sick of smart TVs? Here are your best options](https://arstechnica.com/gadgets/2025/12/the-ars-technica-guide-to-dumb-tvs/)
 * [2025-12-12, 10:23:23](https://news.ycombinator.com/item?id=46242700) - [Building small Docker images faster](https://sgt.hootr.club/blog/docker-protips/)
 * [2025-12-12, 06:17:28](https://news.ycombinator.com/item?id=46241368) - [Freeing a Xiaomi humidifier from the cloud](https://0l.de/blog/2025/11/xiaomi-humidifier/)
 * [2025-12-11, 23:56:10](https://news.ycombinator.com/item?id=46239076) - [Ensuring a National Policy Framework for Artificial Intelligence](https://www.whitehouse.gov/presidential-actions/2025/12/eliminating-state-law-obstruction-of-national-artificial-intelligence-policy/)
 * [2025-12-11, 18:00:55](https://news.ycombinator.com/item?id=46234734) - [Show HN: I made a spreadsheet where formulas also update backwards](https://victorpoughon.github.io/bidicalc/)
 * [2025-12-10, 17:14:39](https://news.ycombinator.com/item?id=46220411) - [Pg_ClickHouse: A Postgres extension for querying ClickHouse](https://clickhouse.com/blog/introducing-pg_clickhouse)
-* [2025-12-08, 13:20:19](https://news.ycombinator.com/item?id=46191890) - [Bit flips: How cosmic rays grounded a fleet of aircraft](https://www.bbc.com/future/article/20251201-how-cosmic-rays-grounded-thousands-of-aircraft)
+* [2025-12-08, 12:24:29](https://news.ycombinator.com/item?id=46191449) - [Slax: Live Pocket Linux](https://www.slax.org/)
 * [2025-12-07, 18:11:25](https://news.ycombinator.com/item?id=46183688) - [So What Should We Call This – A Grue Jay?](https://cns.utexas.edu/news/research/so-what-should-we-call-grue-jay)
 * [2025-12-07, 11:01:07](https://news.ycombinator.com/item?id=46180844) - [C64 Maze Chomp.BAS](https://basic-code.bearblog.dev/c64-maze-chompbas/)
 * [2025-12-06, 19:21:50](https://news.ycombinator.com/item?id=46175888) - [Ferrari's Formula 1 Handovers: Handovers from Surgery to Intensive Care 2008;pdf](https://gwern.net/doc/technology/2008-sower.pdf)
-* [2025-12-06, 15:08:09](https://news.ycombinator.com/item?id=46173882) - [Fast Median Filter over arbitrary datatypes](https://martianlantern.github.io/2025/09/median-filter-over-arbitrary-datatypes/)
 
 ## [Archives](archives/index.md)
 
