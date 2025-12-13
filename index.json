@@ -1,12 +1,12 @@
 [
   [
     [
-      "2025-12-13, 17:41:32",
-      "https://news.ycombinator.com/item?id=46256325"
+      "2025-12-13, 18:58:09",
+      "https://news.ycombinator.com/item?id=46256954"
     ],
     [
-      "Building an efficient hash table in Java",
-      "https://bluuewhale.github.io/posts/building-a-fast-and-memory-efficient-hash-table-in-java-by-borrowing-the-best-ideas/"
+      "Dick Van Dyke turns 100",
+      "https://www.theguardian.com/film/2025/dec/13/dick-van-dyke-centenarian-100-mary-poppins-chitty-chitty-bang-bang"
     ]
   ],
   [
@@ -51,6 +51,16 @@
   ],
   [
     [
+      "2025-12-13, 15:23:34",
+      "https://news.ycombinator.com/item?id=46255158"
+    ],
+    [
+      "Show HN: I audited 500 K8s pods. Java wastes ~48% RAM, Go ~18%",
+      "https://github.com/WozzHQ/wozz"
+    ]
+  ],
+  [
+    [
       "2025-12-13, 15:04:29",
       "https://news.ycombinator.com/item?id=46255007"
     ],
@@ -87,16 +97,6 @@
     [
       "OpenAI are quietly adopting skills, now available in ChatGPT and Codex CLI",
       "https://simonwillison.net/2025/Dec/12/openai-skills/"
-    ]
-  ],
-  [
-    [
-      "2025-12-12, 22:02:14",
-      "https://news.ycombinator.com/item?id=46249538"
-    ],
-    [
-      "Show HN: Tiny VM sandbox in C with apps in Rust, C and Zig",
-      "https://github.com/ringtailsoftware/uvm32"
     ]
   ],
   [
