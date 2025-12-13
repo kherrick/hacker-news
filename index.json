@@ -31,22 +31,22 @@
   ],
   [
     [
+      "2025-12-13, 15:37:16",
+      "https://news.ycombinator.com/item?id=46255285"
+    ],
+    [
+      "Ask HN: How can I get better at using AI for programming?",
+      "https://news.ycombinator.com/item?id=46255285"
+    ]
+  ],
+  [
+    [
       "2025-12-13, 12:29:19",
       "https://news.ycombinator.com/item?id=46254087"
     ],
     [
       "We built another object storage",
       "https://fractalbits.com/blog/why-we-built-another-object-storage/"
-    ]
-  ],
-  [
-    [
-      "2025-12-13, 12:03:51",
-      "https://news.ycombinator.com/item?id=46253985"
-    ],
-    [
-      "YouTube's CEO limits his kids' social media use – other tech bosses do the same",
-      "https://www.cnbc.com/2025/12/13/youtubes-ceo-is-latest-tech-boss-limiting-his-kids-social-media-use.html"
     ]
   ],
   [
@@ -71,12 +71,12 @@
   ],
   [
     [
-      "2025-12-13, 04:21:24",
-      "https://news.ycombinator.com/item?id=46251952"
+      "2025-12-13, 03:06:53",
+      "https://news.ycombinator.com/item?id=46251620"
     ],
     [
-      "Poor Johnny still won't encrypt",
-      "https://bfswa.substack.com/p/poor-johnny-still-wont-encrypt"
+      "A Lisp Interpreter Implemented in Conway's Game of Life (2021)",
+      "https://woodrush.github.io/blog/posts/2022-01-12-lisp-in-life.html"
     ]
   ],
   [
@@ -141,12 +141,12 @@
   ],
   [
     [
-      "2025-12-12, 06:17:28",
-      "https://news.ycombinator.com/item?id=46241368"
+      "2025-12-11, 19:28:40",
+      "https://news.ycombinator.com/item?id=46236001"
     ],
     [
-      "Freeing a Xiaomi humidifier from the cloud",
-      "https://0l.de/blog/2025/11/xiaomi-humidifier/"
+      "What is the nicest thing a stranger has ever done for you?",
+      "https://louplummer.lol/nice-stranger/"
     ]
   ],
   [
@@ -171,6 +171,26 @@
   ],
   [
     [
+      "2025-12-10, 19:13:49",
+      "https://news.ycombinator.com/item?id=46222162"
+    ],
+    [
+      "Researchers seeking better measures of cognitive fatigue",
+      "https://www.nature.com/articles/d41586-025-03974-w"
+    ]
+  ],
+  [
+    [
+      "2025-12-09, 21:10:52",
+      "https://news.ycombinator.com/item?id=46210705"
+    ],
+    [
+      "Go Proposal: Secret Mode",
+      "https://antonz.org/accepted/runtime-secret/"
+    ]
+  ],
+  [
+    [
       "2025-12-09, 20:16:15",
       "https://news.ycombinator.com/item?id=46210044"
     ],
@@ -187,6 +207,16 @@
     [
       "JetBrains cancels Fleet",
       "https://blog.jetbrains.com/fleet/2025/12/the-future-of-fleet/"
+    ]
+  ],
+  [
+    [
+      "2025-12-08, 17:30:15",
+      "https://news.ycombinator.com/item?id=46195068"
+    ],
+    [
+      "Indexing 100M vectors in 20 minutes on PostgreSQL with 12GB RAM",
+      "https://blog.vectorchord.ai/how-we-made-100m-vector-indexing-in-20-minutes-possible-on-postgresql"
     ]
   ],
   [
@@ -211,16 +241,6 @@
   ],
   [
     [
-      "2025-12-08, 13:48:51",
-      "https://news.ycombinator.com/item?id=46192181"
-    ],
-    [
-      "How exchanges turn order books into distributed logs",
-      "https://quant.engineering/exchange-order-book-distributed-logs.html"
-    ]
-  ],
-  [
-    [
       "2025-12-08, 13:04:17",
       "https://news.ycombinator.com/item?id=46191734"
     ],
@@ -231,32 +251,12 @@
   ],
   [
     [
-      "2025-12-08, 12:24:29",
-      "https://news.ycombinator.com/item?id=46191449"
-    ],
-    [
-      "Slax: Live Pocket Linux",
-      "https://www.slax.org/"
-    ]
-  ],
-  [
-    [
       "2025-12-07, 15:19:25",
       "https://news.ycombinator.com/item?id=46182307"
     ],
     [
       "Java FFM zero-copy transport using io_uring",
       "https://www.mvp.express/"
-    ]
-  ],
-  [
-    [
-      "2025-12-07, 11:17:42",
-      "https://news.ycombinator.com/item?id=46180911"
-    ],
-    [
-      "Go is portable, until it isn't",
-      "https://simpleobservability.com/blog/go-portable-until-isnt"
     ]
   ],
   [
