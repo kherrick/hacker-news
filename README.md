@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-12-13, 21:57:28](https://news.ycombinator.com/item?id=46258529) - [Some surprising things about DuckDuckGo you probably don't know](https://gabrielweinberg.com/p/some-surprising-things-about-duckduckgo)
 * [2025-12-13, 21:18:01](https://news.ycombinator.com/item?id=46258163) - [Recovering Anthony Bourdain's (really) lost Li.st's](https://sandyuraz.com/blogs/bourdain/)
-* [2025-12-13, 20:58:50](https://news.ycombinator.com/item?id=46257986) - [Workday project at Washington University hits $266M](https://www.theregister.com/2025/12/12/washington_university_workday_costs_revealed/)
 * [2025-12-13, 20:54:32](https://news.ycombinator.com/item?id=46257939) - [Purdue University Approves New AI Requirement for All Undergrads](https://www.forbes.com/sites/michaeltnietzel/2025/12/13/purdue-university-approves-new-ai-requirement-for-all-undergrads/)
 * [2025-12-13, 20:48:09](https://news.ycombinator.com/item?id=46257871) - [Want to sway an election? Here’s how much fake online accounts cost](https://www.science.org/content/article/want-sway-election-here-s-how-much-fake-online-accounts-cost)
 * [2025-12-13, 20:30:34](https://news.ycombinator.com/item?id=46257714) - [Why Twilio Segment moved from microservices back to a monolith](https://www.twilio.com/en-us/blog/developers/best-practices/goodbye-microservices)
