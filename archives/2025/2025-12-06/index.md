@@ -52,6 +52,7 @@
 * [2025-12-06, 13:58:31](https://news.ycombinator.com/item?id=46173407) - [GrapheneOS is the only Android OS providing full security patches](https://grapheneos.social/@GrapheneOS/115647408229616018)
 * [2025-12-06, 13:54:59](https://news.ycombinator.com/item?id=46173383) - [How I discovered a hidden microphone on a Chinese NanoKVM](https://telefoncek.si/2025/02/2025-02-10-hidden-microphone-on-nanokvm/)
 * [2025-12-06, 12:46:42](https://news.ycombinator.com/item?id=46172902) - [Why Speed Matters](https://lemire.me/blog/2025/12/05/why-speed-matters/)
+* [2025-12-06, 12:30:36](https://news.ycombinator.com/item?id=46172807) - [Show HN: Trello Clone with Source Code](https://kanban.demo.codegres.com/)
 * [2025-12-06, 12:29:28](https://news.ycombinator.com/item?id=46172797) - [Touching the Elephant – TPUs](https://considerthebulldog.com/tte-tpu/)
 * [2025-12-06, 12:06:53](https://news.ycombinator.com/item?id=46172682) - ['Life being stressful is not an illness' – GPs on mental health over-diagnosis](https://www.bbc.com/news/articles/cx2pvxdn9v4o)
 * [2025-12-06, 11:48:45](https://news.ycombinator.com/item?id=46172586) - [Cryptids](https://wiki.bbchallenge.org/wiki/Cryptids)
