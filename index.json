@@ -11,22 +11,22 @@
   ],
   [
     [
+      "2025-12-13, 04:55:59",
+      "https://news.ycombinator.com/item?id=46252114"
+    ],
+    [
+      "Apple has locked my Apple ID, and I have no recourse. A plea for help",
+      "https://hey.paris/posts/appleid/"
+    ]
+  ],
+  [
+    [
       "2025-12-13, 04:21:24",
       "https://news.ycombinator.com/item?id=46251952"
     ],
     [
       "Poor Johnny still won't encrypt",
       "https://bfswa.substack.com/p/poor-johnny-still-wont-encrypt"
-    ]
-  ],
-  [
-    [
-      "2025-12-13, 03:57:58",
-      "https://news.ycombinator.com/item?id=46251852"
-    ],
-    [
-      "Show HN: Claude Code recipes for knowledge workers",
-      "https://github.com/sgharlow/claude-code-recipes"
     ]
   ],
   [
@@ -41,12 +41,22 @@
   ],
   [
     [
+      "2025-12-13, 03:17:18",
+      "https://news.ycombinator.com/item?id=46251667"
+    ],
+    [
+      "The Coming Need for Formal Specification",
+      "https://benjamincongdon.me/blog/2025/12/12/The-Coming-Need-for-Formal-Specification/"
+    ]
+  ],
+  [
+    [
       "2025-12-13, 03:12:47",
       "https://news.ycombinator.com/item?id=46251654"
     ],
     [
-      "Oliver Sacks fabricated key details in his books",
-      "https://boingboing.net/2025/12/12/oliver-sacks-fabricated-key-details-in-his-books.html"
+      "Oliver Sacks Put Himself Into His Case Studies. What Was the Cost?",
+      "https://www.newyorker.com/magazine/2025/12/15/oliver-sacks-put-himself-into-his-case-studies-what-was-the-cost"
     ]
   ],
   [
@@ -55,7 +65,7 @@
       "https://news.ycombinator.com/item?id=46251582"
     ],
     [
-      "1300 Still Images from the Animated Films of Hayao Miyazaki's Studio Ghibli",
+      "1300 Still Images from the Animated Films of Hayao Miyazaki's Studio Ghibli (2023)",
       "https://www.ghibli.jp/info/013772/"
     ]
   ],
@@ -161,42 +171,12 @@
   ],
   [
     [
-      "2025-12-12, 18:23:21",
-      "https://news.ycombinator.com/item?id=46247000"
-    ],
-    [
-      "Home Depot GitHub token exposed for a year, granted access to internal systems",
-      "https://techcrunch.com/2025/12/12/home-depot-exposed-access-to-internal-systems-for-a-year-says-researcher/"
-    ]
-  ],
-  [
-    [
-      "2025-12-12, 16:52:41",
-      "https://news.ycombinator.com/item?id=46245923"
-    ],
-    [
-      "Async DNS",
-      "https://flak.tedunangst.com/post/async-dns"
-    ]
-  ],
-  [
-    [
       "2025-12-12, 16:23:10",
       "https://news.ycombinator.com/item?id=46245622"
     ],
     [
       "String theory inspires a brilliant, baffling new math proof",
       "https://www.quantamagazine.org/string-theory-inspires-a-brilliant-baffling-new-math-proof-20251212/"
-    ]
-  ],
-  [
-    [
-      "2025-12-12, 15:19:19",
-      "https://news.ycombinator.com/item?id=46244922"
-    ],
-    [
-      "CM0 – A new Raspberry Pi you can't buy",
-      "https://www.jeffgeerling.com/blog/2025/cm0-new-raspberry-pi-you-cant-buy"
     ]
   ],
   [
@@ -241,6 +221,16 @@
   ],
   [
     [
+      "2025-12-11, 21:44:06",
+      "https://news.ycombinator.com/item?id=46237606"
+    ],
+    [
+      "Show HN: A real-time 4D fractal explorer in the browser using WebGPU",
+      "https://bryanjj.github.io/nebula/"
+    ]
+  ],
+  [
+    [
       "2025-12-11, 18:00:55",
       "https://news.ycombinator.com/item?id=46234734"
     ],
@@ -257,6 +247,16 @@
     [
       "Pg_ClickHouse: A Postgres extension for querying ClickHouse",
       "https://clickhouse.com/blog/introducing-pg_clickhouse"
+    ]
+  ],
+  [
+    [
+      "2025-12-08, 13:51:30",
+      "https://news.ycombinator.com/item?id=46192212"
+    ],
+    [
+      "Gild Just One Lily",
+      "https://www.smashingmagazine.com/2025/04/gild-just-one-lily/"
     ]
   ],
   [
