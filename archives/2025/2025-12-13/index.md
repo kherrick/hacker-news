@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-12-13](index.md)
 
+* [2025-12-13, 18:58:09](https://news.ycombinator.com/item?id=46256954) - [Dick Van Dyke turns 100](https://www.theguardian.com/film/2025/dec/13/dick-van-dyke-centenarian-100-mary-poppins-chitty-chitty-bang-bang)
 * [2025-12-13, 17:41:32](https://news.ycombinator.com/item?id=46256325) - [Fast, Memory-Efficient Hash Table in Java: Borrowing the Best Ideas](https://bluuewhale.github.io/posts/building-a-fast-and-memory-efficient-hash-table-in-java-by-borrowing-the-best-ideas/)
 * [2025-12-13, 17:32:21](https://news.ycombinator.com/item?id=46256249) - [Analysis finds anytime electricity from solar available as battery costs plummet](https://pv-magazine-usa.com/2025/12/12/analysis-finds-anytime-electricity-from-solar-available-as-battery-costs-plummet/)
 * [2025-12-13, 17:01:25](https://news.ycombinator.com/item?id=46256002) - [EasyPost (YC S13) Is Hiring](https://www.easypost.com/careers)
