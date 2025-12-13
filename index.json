@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2025-12-13, 16:14:51",
+      "https://news.ycombinator.com/item?id=46255611"
+    ],
+    [
+      "Multiple Indicted on Charges of Theft and Re-Sale of Restaurant Cooking Oil",
+      "https://www.justice.gov/usao-sdia/pr/multiple-chinese-nationals-indicted-charges-related-theft-and-re-sale-restaurant"
+    ]
+  ],
+  [
+    [
       "2025-12-13, 15:41:24",
       "https://news.ycombinator.com/item?id=46255335"
     ],
@@ -81,16 +91,6 @@
   ],
   [
     [
-      "2025-12-12, 23:26:26",
-      "https://news.ycombinator.com/item?id=46250309"
-    ],
-    [
-      "50 years of proof assistants",
-      "https://lawrencecpaulson.github.io//2025/12/05/History_of_Proof_Assistants.html"
-    ]
-  ],
-  [
-    [
       "2025-12-12, 22:02:14",
       "https://news.ycombinator.com/item?id=46249538"
     ],
@@ -151,22 +151,22 @@
   ],
   [
     [
-      "2025-12-11, 23:56:10",
-      "https://news.ycombinator.com/item?id=46239076"
-    ],
-    [
-      "Ensuring a National Policy Framework for Artificial Intelligence",
-      "https://www.whitehouse.gov/presidential-actions/2025/12/eliminating-state-law-obstruction-of-national-artificial-intelligence-policy/"
-    ]
-  ],
-  [
-    [
       "2025-12-11, 18:00:55",
       "https://news.ycombinator.com/item?id=46234734"
     ],
     [
       "Show HN: I made a spreadsheet where formulas also update backwards",
       "https://victorpoughon.github.io/bidicalc/"
+    ]
+  ],
+  [
+    [
+      "2025-12-10, 21:08:41",
+      "https://news.ycombinator.com/item?id=46223882"
+    ],
+    [
+      "Useful patterns for building HTML tools",
+      "https://simonwillison.net/2025/Dec/10/html-tools/"
     ]
   ],
   [
@@ -181,12 +181,12 @@
   ],
   [
     [
-      "2025-12-09, 07:33:17",
-      "https://news.ycombinator.com/item?id=46202254"
+      "2025-12-09, 13:23:25",
+      "https://news.ycombinator.com/item?id=46204668"
     ],
     [
-      "Optical context compression is just (bad) autoencoding",
-      "https://arxiv.org/abs/2512.03643"
+      "JetBrains cancels Fleet",
+      "https://blog.jetbrains.com/fleet/2025/12/the-future-of-fleet/"
     ]
   ],
   [
@@ -201,12 +201,12 @@
   ],
   [
     [
-      "2025-12-08, 13:51:30",
-      "https://news.ycombinator.com/item?id=46192212"
+      "2025-12-08, 14:23:36",
+      "https://news.ycombinator.com/item?id=46192545"
     ],
     [
-      "Gild Just One Lily",
-      "https://www.smashingmagazine.com/2025/04/gild-just-one-lily/"
+      "Show HN: LinkedQL – Live Queries over Postgres, MySQL, MariaDB",
+      "https://github.com/linked-db/linked-ql"
     ]
   ],
   [
