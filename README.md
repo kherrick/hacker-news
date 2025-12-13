@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-12-13, 12:29:19](https://news.ycombinator.com/item?id=46254087) - [We Built Another Object Storage (and Why It's Different)](https://fractalbits.com/blog/why-we-built-another-object-storage/)
 * [2025-12-13, 12:08:29](https://news.ycombinator.com/item?id=46254013) - [Germany's train service is one of Europe's worst. How did it get so bad?](https://www.npr.org/2025/12/12/g-s1-100794/germany-train-rail-deutsche-bahn)
 * [2025-12-13, 12:03:51](https://news.ycombinator.com/item?id=46253985) - [YouTube's CEO limits his kids' social media use – other tech bosses do the same](https://www.cnbc.com/2025/12/13/youtubes-ceo-is-latest-tech-boss-limiting-his-kids-social-media-use.html)
 * [2025-12-13, 08:15:48](https://news.ycombinator.com/item?id=46252993) - [Computer Animator and Amiga fanatic Dick Van Dyke turns 100](https://news.ycombinator.com/item?id=46252993)
@@ -25,7 +26,6 @@
 * [2025-12-08, 13:48:51](https://news.ycombinator.com/item?id=46192181) - [How exchanges turn order books into distributed logs](https://quant.engineering/exchange-order-book-distributed-logs.html)
 * [2025-12-08, 13:04:17](https://news.ycombinator.com/item?id=46191734) - [A 'toaster with a lens': The story behind the first handheld digital camera](https://www.bbc.com/future/article/20251205-how-the-handheld-digital-camera-was-born)
 * [2025-12-08, 12:24:29](https://news.ycombinator.com/item?id=46191449) - [Slax: Live Pocket Linux](https://www.slax.org/)
-* [2025-12-07, 18:11:25](https://news.ycombinator.com/item?id=46183688) - [So What Should We Call This – A Grue Jay?](https://cns.utexas.edu/news/research/so-what-should-we-call-grue-jay)
 * [2025-12-07, 15:19:25](https://news.ycombinator.com/item?id=46182307) - [Java FFM zero-copy transport using io_uring](https://www.mvp.express/)
 * [2025-12-07, 11:17:42](https://news.ycombinator.com/item?id=46180911) - [Go is portable, until it isn't](https://simpleobservability.com/blog/go-portable-until-isnt)
 * [2025-12-06, 22:29:29](https://news.ycombinator.com/item?id=46177160) - [Photographer built a medium-format rangefinder, and so can you](https://petapixel.com/2025/12/06/this-photographer-built-an-awesome-medium-format-rangefinder-and-so-can-you/)

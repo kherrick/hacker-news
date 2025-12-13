@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-12-13](index.md)
 
+* [2025-12-13, 12:29:19](https://news.ycombinator.com/item?id=46254087) - [We Built Another Object Storage (and Why It's Different)](https://fractalbits.com/blog/why-we-built-another-object-storage/)
 * [2025-12-13, 12:08:29](https://news.ycombinator.com/item?id=46254013) - [Germany's train service is one of Europe's worst. How did it get so bad?](https://www.npr.org/2025/12/12/g-s1-100794/germany-train-rail-deutsche-bahn)
 * [2025-12-13, 12:03:51](https://news.ycombinator.com/item?id=46253985) - [YouTube's CEO limits his kids' social media use – other tech bosses do the same](https://www.cnbc.com/2025/12/13/youtubes-ceo-is-latest-tech-boss-limiting-his-kids-social-media-use.html)
 * [2025-12-13, 11:16:45](https://news.ycombinator.com/item?id=46253763) - [Bookmark for CAD/2d/3D Useful links](https://github.com/yogananda-muthaiah/SAP-CPQ/tree/main/Integrations/CAD-2d-3d)
