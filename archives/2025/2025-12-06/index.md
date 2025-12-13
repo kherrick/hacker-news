@@ -10,6 +10,7 @@
 * [2025-12-06, 23:33:23](https://news.ycombinator.com/item?id=46177615) - [PatchworkOS: An OS for x86_64, built from scratch in C and assembly](https://github.com/KaiNorberg/PatchworkOS)
 * [2025-12-06, 23:06:53](https://news.ycombinator.com/item?id=46177418) - [Saving Japan's exceptionally rare 'snow monsters'](https://www.bbc.com/future/article/20251203-japans-disappearing-snow-monsters)
 * [2025-12-06, 22:34:56](https://news.ycombinator.com/item?id=46177198) - [Wave of (Open Street Map) Vandalism in South Korea](https://www.openstreetmap.org/user/KennyDap/diary/407844)
+* [2025-12-06, 22:29:29](https://news.ycombinator.com/item?id=46177160) - [Photographer Built a Medium-Format Rangefinder, and So Can You](https://petapixel.com/2025/12/06/this-photographer-built-an-awesome-medium-format-rangefinder-and-so-can-you/)
 * [2025-12-06, 22:26:26](https://news.ycombinator.com/item?id=46177132) - [United States Antarctic Program Field Manual (2024) [pdf]](https://www.usap.gov/usapgov/travelAndDeployment/documents/Continental-Field-Manual-2024.pdf)
 * [2025-12-06, 22:11:33](https://news.ycombinator.com/item?id=46177022) - [Catala – Law to Code](https://catala-lang.org)
 * [2025-12-06, 22:06:48](https://news.ycombinator.com/item?id=46176987) - [Chernobyl protective shield can no longer confine radiation after drone strike](https://www.cnn.com/2025/12/06/europe/chernobyl-drone-strike-radiation-latam-intl)

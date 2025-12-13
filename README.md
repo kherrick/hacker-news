@@ -2,7 +2,6 @@
 
 * [2025-12-13, 05:06:59](https://news.ycombinator.com/item?id=46252171) - [Doxers Posing as Cops Are Tricking Big Tech Firms into Sharing People's Data](https://www.wired.com/story/doxers-posing-as-cops-are-tricking-big-tech-firms-into-sharing-peoples-private-data/)
 * [2025-12-13, 04:55:59](https://news.ycombinator.com/item?id=46252114) - [Apple has locked my Apple ID, and I have no recourse. A plea for help](https://hey.paris/posts/appleid/)
-* [2025-12-13, 04:21:24](https://news.ycombinator.com/item?id=46251952) - [Poor Johnny still won't encrypt](https://bfswa.substack.com/p/poor-johnny-still-wont-encrypt)
 * [2025-12-13, 03:21:32](https://news.ycombinator.com/item?id=46251684) - [Google Removes Sci-Hub Domains from U.S. Search Results Due to Dated Court Order](https://torrentfreak.com/google-removes-sci-hub-domains-from-u-s-search-results-due-to-dated-court-order/)
 * [2025-12-13, 03:17:18](https://news.ycombinator.com/item?id=46251667) - [The Coming Need for Formal Specification](https://benjamincongdon.me/blog/2025/12/12/The-Coming-Need-for-Formal-Specification/)
 * [2025-12-13, 02:56:49](https://news.ycombinator.com/item?id=46251582) - [1300 Still Images from the Animated Films of Hayao Miyazaki's Studio Ghibli (2023)](https://www.ghibli.jp/info/013772/)
@@ -29,6 +28,7 @@
 * [2025-12-08, 12:24:29](https://news.ycombinator.com/item?id=46191449) - [Slax: Live Pocket Linux](https://www.slax.org/)
 * [2025-12-07, 18:11:25](https://news.ycombinator.com/item?id=46183688) - [So What Should We Call This – A Grue Jay?](https://cns.utexas.edu/news/research/so-what-should-we-call-grue-jay)
 * [2025-12-07, 11:17:42](https://news.ycombinator.com/item?id=46180911) - [Go is portable, until it isn't](https://simpleobservability.com/blog/go-portable-until-isnt)
+* [2025-12-06, 22:29:29](https://news.ycombinator.com/item?id=46177160) - [Photographer Built a Medium-Format Rangefinder, and So Can You](https://petapixel.com/2025/12/06/this-photographer-built-an-awesome-medium-format-rangefinder-and-so-can-you/)
 * [2025-12-06, 19:21:50](https://news.ycombinator.com/item?id=46175888) - [Ferrari's Formula 1 Handovers: Handovers from Surgery to Intensive Care 2008;pdf](https://gwern.net/doc/technology/2008-sower.pdf)
 
 ## [Archives](archives/index.md)
