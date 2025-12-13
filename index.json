@@ -1,11 +1,21 @@
 [
   [
     [
+      "2025-12-13, 13:08:36",
+      "https://news.ycombinator.com/item?id=46254276"
+    ],
+    [
+      "AI is bringing old nuclear plants out of retirement",
+      "https://www.wbur.org/hereandnow/2025/12/09/nuclear-power-ai"
+    ]
+  ],
+  [
+    [
       "2025-12-13, 12:29:19",
       "https://news.ycombinator.com/item?id=46254087"
     ],
     [
-      "We Built Another Object Storage (and Why It's Different)",
+      "We built another object storage",
       "https://fractalbits.com/blog/why-we-built-another-object-storage/"
     ]
   ],
@@ -41,12 +51,22 @@
   ],
   [
     [
-      "2025-12-13, 03:21:32",
-      "https://news.ycombinator.com/item?id=46251684"
+      "2025-12-13, 04:55:59",
+      "https://news.ycombinator.com/item?id=46252114"
     ],
     [
-      "Google removes Sci-Hub domains from U.S. search results due to dated court order",
-      "https://torrentfreak.com/google-removes-sci-hub-domains-from-u-s-search-results-due-to-dated-court-order/"
+      "Apple has locked my Apple ID, and I have no recourse. A plea for help",
+      "https://hey.paris/posts/appleid/"
+    ]
+  ],
+  [
+    [
+      "2025-12-13, 04:21:24",
+      "https://news.ycombinator.com/item?id=46251952"
+    ],
+    [
+      "Poor Johnny still won't encrypt",
+      "https://bfswa.substack.com/p/poor-johnny-still-wont-encrypt"
     ]
   ],
   [
@@ -141,16 +161,6 @@
   ],
   [
     [
-      "2025-12-12, 16:23:10",
-      "https://news.ycombinator.com/item?id=46245622"
-    ],
-    [
-      "String theory inspires a brilliant, baffling new math proof",
-      "https://www.quantamagazine.org/string-theory-inspires-a-brilliant-baffling-new-math-proof-20251212/"
-    ]
-  ],
-  [
-    [
       "2025-12-12, 12:51:40",
       "https://news.ycombinator.com/item?id=46243655"
     ],
@@ -197,16 +207,6 @@
     [
       "Beautiful Abelian Sandpiles",
       "https://eavan.blog/posts/beautiful-sandpiles.html"
-    ]
-  ],
-  [
-    [
-      "2025-12-09, 07:33:17",
-      "https://news.ycombinator.com/item?id=46202254"
-    ],
-    [
-      "Optical context compression is just (bad) autoencoding",
-      "https://arxiv.org/abs/2512.03643"
     ]
   ],
   [
