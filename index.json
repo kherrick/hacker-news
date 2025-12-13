@@ -21,16 +21,6 @@
   ],
   [
     [
-      "2025-12-12, 22:34:13",
-      "https://news.ycombinator.com/item?id=46249834"
-    ],
-    [
-      "Can I use HTTPS RRs?",
-      "https://www.netmeister.org/blog/https-caniuse.html"
-    ]
-  ],
-  [
-    [
       "2025-12-12, 22:02:14",
       "https://news.ycombinator.com/item?id=46249538"
     ],
@@ -111,16 +101,6 @@
   ],
   [
     [
-      "2025-12-12, 18:07:57",
-      "https://news.ycombinator.com/item?id=46246802"
-    ],
-    [
-      "Google releases its new Google Sans Flex font as open source",
-      "https://www.omgubuntu.co.uk/2025/11/google-sans-flex-font-ubuntu"
-    ]
-  ],
-  [
-    [
       "2025-12-12, 16:52:41",
       "https://news.ycombinator.com/item?id=46245923"
     ],
@@ -151,16 +131,6 @@
   ],
   [
     [
-      "2025-12-12, 15:46:44",
-      "https://news.ycombinator.com/item?id=46245211"
-    ],
-    [
-      "I couldn't find a logging library that worked for my library, so I made one",
-      "https://hackers.pub/@hongminhee/2025/logtape-fedify-case-study"
-    ]
-  ],
-  [
-    [
       "2025-12-12, 15:19:19",
       "https://news.ycombinator.com/item?id=46244922"
     ],
@@ -177,6 +147,16 @@
     [
       "SQLite JSON at full index speed using generated columns",
       "https://www.dbpro.app/blog/sqlite-json-virtual-columns-indexing"
+    ]
+  ],
+  [
+    [
+      "2025-12-12, 13:23:31",
+      "https://news.ycombinator.com/item?id=46243883"
+    ],
+    [
+      "Fedora: Open-source repository for long-term digital preservation",
+      "https://fedorarepository.org/"
     ]
   ],
   [
@@ -241,6 +221,16 @@
   ],
   [
     [
+      "2025-12-08, 14:57:49",
+      "https://news.ycombinator.com/item?id=46192924"
+    ],
+    [
+      "How we built context management for tab completion",
+      "https://docs.getpochi.com/developer-updates/context-management-in-your-editor/"
+    ]
+  ],
+  [
+    [
       "2025-12-08, 13:20:19",
       "https://news.ycombinator.com/item?id=46191890"
     ],
@@ -267,6 +257,16 @@
     [
       "Microservices should form a polytree",
       "https://bytesauna.com/post/microservices"
+    ]
+  ],
+  [
+    [
+      "2025-12-07, 11:17:42",
+      "https://news.ycombinator.com/item?id=46180911"
+    ],
+    [
+      "Go is portable, until it isn't",
+      "https://simpleobservability.com/blog/go-portable-until-isnt"
     ]
   ],
   [
