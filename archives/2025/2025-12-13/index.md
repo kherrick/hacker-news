@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-12-13](index.md)
 
+* [2025-12-13, 17:32:21](https://news.ycombinator.com/item?id=46256249) - [Analysis finds anytime electricity from solar available as battery costs plummet](https://pv-magazine-usa.com/2025/12/12/analysis-finds-anytime-electricity-from-solar-available-as-battery-costs-plummet/)
 * [2025-12-13, 17:01:25](https://news.ycombinator.com/item?id=46256002) - [EasyPost (YC S13) Is Hiring](https://www.easypost.com/careers)
 * [2025-12-13, 17:00:14](https://news.ycombinator.com/item?id=46255991) - [I Tried Gleam for Advent of Code, and I Get the Hype](https://blog.tymscar.com/posts/gleamaoc2025/)
 * [2025-12-13, 16:24:34](https://news.ycombinator.com/item?id=46255697) - [Show HN: Kinkora – A creative playground for experimenting with video models](https://kinkora.fun/)
