@@ -201,6 +201,16 @@
   ],
   [
     [
+      "2025-12-10, 17:14:39",
+      "https://news.ycombinator.com/item?id=46220411"
+    ],
+    [
+      "Pg_ClickHouse: A Postgres extension for querying ClickHouse",
+      "https://clickhouse.com/blog/introducing-pg_clickhouse"
+    ]
+  ],
+  [
+    [
       "2025-12-09, 20:16:15",
       "https://news.ycombinator.com/item?id=46210044"
     ],
@@ -217,16 +227,6 @@
     [
       "Optical Context Compression Is Just (Bad) Autoencoding",
       "https://arxiv.org/abs/2512.03643"
-    ]
-  ],
-  [
-    [
-      "2025-12-08, 16:27:29",
-      "https://news.ycombinator.com/item?id=46194245"
-    ],
-    [
-      "Obscuring P2P Nodes with Dandelion",
-      "https://www.johndcook.com/blog/2025/12/08/dandelion/"
     ]
   ],
   [
