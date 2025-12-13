@@ -61,6 +61,7 @@
 * [2025-12-08, 13:13:46](https://news.ycombinator.com/item?id=46191826) - [Pantone Color of the Year 2026: Pantone 11-4201 Cloud Dancer](https://www.pantone.com/color-of-the-year/2026)
 * [2025-12-08, 13:13:12](https://news.ycombinator.com/item?id=46191814) - [Colors of Growth](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5804462)
 * [2025-12-08, 13:08:38](https://news.ycombinator.com/item?id=46191763) - [Flow: Actor-based language for C++, used by FoundationDB](https://github.com/apple/foundationdb/tree/main/flow)
+* [2025-12-08, 13:04:17](https://news.ycombinator.com/item?id=46191734) - [A 'toaster with a lens': The story behind the first handheld digital camera](https://www.bbc.com/future/article/20251205-how-the-handheld-digital-camera-was-born)
 * [2025-12-08, 12:54:42](https://news.ycombinator.com/item?id=46191672) - [Removing juries: 'A move towards an authoritarian state'](https://www.theguardian.com/law/2025/dec/07/authoritarian-state-trial-by-jury-uk)
 * [2025-12-08, 12:46:50](https://news.ycombinator.com/item?id=46191597) - [How the Brain Parses Language](https://www.quantamagazine.org/the-polyglot-neuroscientist-resolving-how-the-brain-parses-language-20251205/)
 * [2025-12-08, 12:24:29](https://news.ycombinator.com/item?id=46191449) - [Slax: Live Pocket Linux](https://www.slax.org/)
