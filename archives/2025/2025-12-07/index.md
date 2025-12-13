@@ -18,6 +18,7 @@
 * [2025-12-07, 19:26:08](https://news.ycombinator.com/item?id=46184303) - [A geothermal amoeba sets a new upper temperature limit for eukaryotes](https://www.biorxiv.org/content/10.1101/2025.11.24.690213v1.full)
 * [2025-12-07, 19:17:17](https://news.ycombinator.com/item?id=46184229) - [Estimates are difficult for developers and product owners](https://thorsell.io/2025/12/07/estimates.html)
 * [2025-12-07, 19:03:16](https://news.ycombinator.com/item?id=46184128) - [Millions of Americans mess up their taxes, but a new law will help](https://www.wakeuptopolitics.com/p/millions-of-americans-mess-up-their)
+* [2025-12-07, 18:51:20](https://news.ycombinator.com/item?id=46184030) - [TigerBeetle as a File Storage](https://aivarsk.com/2025/12/07/tigerbeetle-blob-storage/)
 * [2025-12-07, 18:42:57](https://news.ycombinator.com/item?id=46183952) - [Show HN: Spotify Wrapped but for LeetCode](https://github.com/collinboler/leetcodewrapped)
 * [2025-12-07, 18:42:04](https://news.ycombinator.com/item?id=46183948) - [Should CSS be a constraint system instead?](https://pavpanchekha.com/blog/why-css-bad.html)
 * [2025-12-07, 18:11:25](https://news.ycombinator.com/item?id=46183688) - [So What Should We Call This – A Grue Jay?](https://cns.utexas.edu/news/research/so-what-should-we-call-grue-jay)

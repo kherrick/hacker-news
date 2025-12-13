@@ -25,11 +25,11 @@
 * [2025-12-08, 13:04:17](https://news.ycombinator.com/item?id=46191734) - [A 'toaster with a lens': The story behind the first handheld digital camera](https://www.bbc.com/future/article/20251205-how-the-handheld-digital-camera-was-born)
 * [2025-12-08, 08:52:03](https://news.ycombinator.com/item?id=46189962) - [Using Python for Scripting](https://hypirion.com/musings/use-python-for-scripting)
 * [2025-12-08, 08:02:08](https://news.ycombinator.com/item?id=46189616) - [From Azure Functions to FreeBSD](https://jmmv.dev/2025/12/from-azure-functions-to-freebsd.html)
+* [2025-12-07, 18:51:20](https://news.ycombinator.com/item?id=46184030) - [TigerBeetle as a File Storage](https://aivarsk.com/2025/12/07/tigerbeetle-blob-storage/)
 * [2025-12-07, 15:19:25](https://news.ycombinator.com/item?id=46182307) - [Java FFM zero-copy transport using io_uring](https://www.mvp.express/)
 * [2025-12-06, 22:29:29](https://news.ycombinator.com/item?id=46177160) - [Photographer built a medium-format rangefinder](https://petapixel.com/2025/12/06/this-photographer-built-an-awesome-medium-format-rangefinder-and-so-can-you/)
 * [2025-12-06, 21:06:46](https://news.ycombinator.com/item?id=46176592) - [Will West Coast Jazz Get Some Respect?](https://www.honest-broker.com/p/will-west-coast-jazz-finally-get)
 * [2025-12-06, 11:48:45](https://news.ycombinator.com/item?id=46172586) - [Cryptids](https://wiki.bbchallenge.org/wiki/Cryptids)
-* [2025-12-06, 11:14:49](https://news.ycombinator.com/item?id=46172417) - [Dynamic Pong Wars](https://markodenic.tech/dynamic-pong-wars/)
 
 ## [Archives](archives/index.md)
 
