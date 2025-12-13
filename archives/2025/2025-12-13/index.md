@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2025-12-13](index.md)
 
+* [2025-12-13, 20:58:50](https://news.ycombinator.com/item?id=46257986) - [Workday project at Washington University hits $266M](https://www.theregister.com/2025/12/12/washington_university_workday_costs_revealed/)
+* [2025-12-13, 20:54:32](https://news.ycombinator.com/item?id=46257939) - [Purdue University Approves New AI Requirement for All Undergrads](https://www.forbes.com/sites/michaeltnietzel/2025/12/13/purdue-university-approves-new-ai-requirement-for-all-undergrads/)
 * [2025-12-13, 20:48:09](https://news.ycombinator.com/item?id=46257871) - [Want to sway an election? Here’s how much fake online accounts cost](https://www.science.org/content/article/want-sway-election-here-s-how-much-fake-online-accounts-cost)
+* [2025-12-13, 20:30:34](https://news.ycombinator.com/item?id=46257714) - [Why Twilio Segment Moved from Microservices Back to a Monolith](https://www.twilio.com/en-us/blog/developers/best-practices/goodbye-microservices)
 * [2025-12-13, 20:19:53](https://news.ycombinator.com/item?id=46257607) - [I Fed 24 Years of My Blog Posts to a Markov Model](https://susam.net/fed-24-years-of-posts-to-markov-model.html)
 * [2025-12-13, 20:04:26](https://news.ycombinator.com/item?id=46257486) - [Ask HN: How do you handle release notes for multiple audiences?](https://news.ycombinator.com/item?id=46257486)
 * [2025-12-13, 19:58:32](https://news.ycombinator.com/item?id=46257442) - [What is a build system, anyway?](https://jyn.dev/what-is-a-build-system-anyway/)
