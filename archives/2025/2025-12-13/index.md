@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-12-13](index.md)
 
+* [2025-12-13, 13:08:36](https://news.ycombinator.com/item?id=46254276) - [AI is bringing old nuclear plants out of retirement](https://www.wbur.org/hereandnow/2025/12/09/nuclear-power-ai)
 * [2025-12-13, 12:29:19](https://news.ycombinator.com/item?id=46254087) - [We Built Another Object Storage (and Why It's Different)](https://fractalbits.com/blog/why-we-built-another-object-storage/)
 * [2025-12-13, 12:08:29](https://news.ycombinator.com/item?id=46254013) - [Germany's train service is one of Europe's worst. How did it get so bad?](https://www.npr.org/2025/12/12/g-s1-100794/germany-train-rail-deutsche-bahn)
 * [2025-12-13, 12:03:51](https://news.ycombinator.com/item?id=46253985) - [YouTube's CEO limits his kids' social media use – other tech bosses do the same](https://www.cnbc.com/2025/12/13/youtubes-ceo-is-latest-tech-boss-limiting-his-kids-social-media-use.html)
