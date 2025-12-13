@@ -5,6 +5,8 @@
 ### [Archives](../../index.md) for [2025-12-13](index.md)
 
 * [2025-12-13, 20:04:26](https://news.ycombinator.com/item?id=46257486) - [Ask HN: How do you handle release notes for multiple audiences?](https://news.ycombinator.com/item?id=46257486)
+* [2025-12-13, 19:58:32](https://news.ycombinator.com/item?id=46257442) - [What is a build system, anyway?](https://jyn.dev/what-is-a-build-system-anyway/)
+* [2025-12-13, 19:54:51](https://news.ycombinator.com/item?id=46257410) - [We Lost Something: 1970s REPLs Were Better Than Modern Development Environments](https://programmingsimplicity.substack.com/p/we-lost-something-1970s-repls-were)
 * [2025-12-13, 19:46:19](https://news.ycombinator.com/item?id=46257339) - [VPN location claims don't match real traffic exits](https://ipinfo.io/blog/vpn-location-mismatch-report)
 * [2025-12-13, 18:58:09](https://news.ycombinator.com/item?id=46256954) - [Dick Van Dyke turns 100](https://www.theguardian.com/film/2025/dec/13/dick-van-dyke-centenarian-100-mary-poppins-chitty-chitty-bang-bang)
 * [2025-12-13, 18:39:53](https://news.ycombinator.com/item?id=46256834) - [Former Apple, Google designer: \"Are we stuck with the same Desktop UX forever?\" [video]](https://www.youtube.com/watch?v=1fZTOjd_bOQ)

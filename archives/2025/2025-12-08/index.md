@@ -89,6 +89,7 @@
 * [2025-12-08, 08:16:26](https://news.ycombinator.com/item?id=46189704) - [Applets Are Officially Gone, but Java in the Browser Is Better](https://frequal.com/java/AppletsGoneButJavaInTheBrowserBetterThanEver.html)
 * [2025-12-08, 08:15:32](https://news.ycombinator.com/item?id=46189692) - [GitHub Actions Has a Package Manager, and It Might Be the Worst](https://nesbitt.io/2025/12/06/github-actions-package-manager.html)
 * [2025-12-08, 08:04:51](https://news.ycombinator.com/item?id=46189632) - [Why Startups Die](https://www.techfounderstack.com/p/why-startups-die)
+* [2025-12-08, 08:02:08](https://news.ycombinator.com/item?id=46189616) - [From Azure Functions to FreeBSD](https://jmmv.dev/2025/12/from-azure-functions-to-freebsd.html)
 * [2025-12-08, 07:36:45](https://news.ycombinator.com/item?id=46189480) - [Show HN: Lockenv – Simple encrypted secrets storage for Git](https://github.com/illarion/lockenv)
 * [2025-12-08, 07:24:49](https://news.ycombinator.com/item?id=46189395) - [Microservices Should Form a Polytree](https://bytesauna.com/post/microservices)
 * [2025-12-08, 07:00:33](https://news.ycombinator.com/item?id=46189258) - [Truemetrics (YC S23) Is Hiring](https://www.ycombinator.com/companies/truemetrics/jobs/1EHTSyT-python-software-engineer-analystics-and-algorithms)
