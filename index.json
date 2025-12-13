@@ -181,16 +181,6 @@
   ],
   [
     [
-      "2025-12-10, 17:14:39",
-      "https://news.ycombinator.com/item?id=46220411"
-    ],
-    [
-      "Pg_ClickHouse: A Postgres extension for querying ClickHouse",
-      "https://clickhouse.com/blog/introducing-pg_clickhouse"
-    ]
-  ],
-  [
-    [
       "2025-12-09, 20:16:15",
       "https://news.ycombinator.com/item?id=46210044"
     ],
@@ -235,7 +225,7 @@
       "https://news.ycombinator.com/item?id=46192181"
     ],
     [
-      "How Exchanges Turn Order Books into Distributed Logs",
+      "How exchanges turn order books into distributed logs",
       "https://quant.engineering/exchange-order-book-distributed-logs.html"
     ]
   ],
@@ -267,6 +257,16 @@
     [
       "So What Should We Call This – A Grue Jay?",
       "https://cns.utexas.edu/news/research/so-what-should-we-call-grue-jay"
+    ]
+  ],
+  [
+    [
+      "2025-12-07, 15:19:25",
+      "https://news.ycombinator.com/item?id=46182307"
+    ],
+    [
+      "Java FFM zero-copy transport using io_uring",
+      "https://www.mvp.express/"
     ]
   ],
   [
