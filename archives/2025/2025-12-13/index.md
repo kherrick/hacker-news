@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-12-13](index.md)
 
+* [2025-12-13, 16:24:34](https://news.ycombinator.com/item?id=46255697) - [Show HN: Kinkora – A creative playground for experimenting with video models](https://kinkora.fun/)
+* [2025-12-13, 15:41:24](https://news.ycombinator.com/item?id=46255335) - [LG TV's new software update installed MS Copilot, which cannot be deleted](https://old.reddit.com/r/mildlyinfuriating/comments/1plldqo/my_lg_tvs_new_software_update_installed_microsoft/)
 * [2025-12-13, 13:08:36](https://news.ycombinator.com/item?id=46254276) - [AI is bringing old nuclear plants out of retirement](https://www.wbur.org/hereandnow/2025/12/09/nuclear-power-ai)
 * [2025-12-13, 12:29:19](https://news.ycombinator.com/item?id=46254087) - [We Built Another Object Storage (and Why It's Different)](https://fractalbits.com/blog/why-we-built-another-object-storage/)
 * [2025-12-13, 12:08:29](https://news.ycombinator.com/item?id=46254013) - [Germany's train service is one of Europe's worst. How did it get so bad?](https://www.npr.org/2025/12/12/g-s1-100794/germany-train-rail-deutsche-bahn)
