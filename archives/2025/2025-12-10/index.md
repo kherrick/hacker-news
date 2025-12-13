@@ -12,6 +12,7 @@
 * [2025-12-10, 20:29:12](https://news.ycombinator.com/item?id=46223311) - [Getting a Gemini API key is an exercise in frustration](https://ankursethi.com/blog/gemini-api-key-frustration/)
 * [2025-12-10, 19:19:17](https://news.ycombinator.com/item?id=46222237) - [I got an Nvidia GH200 server for €7.5k on Reddit and converted it to a desktop](https://dnhkng.github.io/posts/hopper/)
 * [2025-12-10, 19:14:03](https://news.ycombinator.com/item?id=46222165) - [Terraform CDK has been phased out](https://github.com/hashicorp/terraform-cdk)
+* [2025-12-10, 19:13:49](https://news.ycombinator.com/item?id=46222162) - [Researchers seeking better measures of cognitive fatigue](https://www.nature.com/articles/d41586-025-03974-w)
 * [2025-12-10, 18:58:55](https://news.ycombinator.com/item?id=46221925) - [Super Mario 64 for the PS1](https://github.com/malucard/sm64-psx)
 * [2025-12-10, 18:37:27](https://news.ycombinator.com/item?id=46221594) - [Terrain Diffusion: A Diffusion-Based Successor to Perlin Noise](https://arxiv.org/abs/2512.08309)
 * [2025-12-10, 18:24:13](https://news.ycombinator.com/item?id=46221404) - [Intermittent Hypoxia Increases Blood Flow and Benefits Executive Function](https://onlinelibrary.wiley.com/doi/10.1111/psyp.70161)

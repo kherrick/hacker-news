@@ -27,6 +27,7 @@
 * [2025-12-08, 17:38:59](https://news.ycombinator.com/item?id=46195205) - [\"The Matilda Effect\": How Pioneering Women Are Written Out of Science History](https://www.openculture.com/2025/12/matilda-effect.html)
 * [2025-12-08, 17:38:34](https://news.ycombinator.com/item?id=46195198) - [AI should only run as fast as we can catch up](https://higashi.blog/2025/12/07/ai-verification/)
 * [2025-12-08, 17:33:13](https://news.ycombinator.com/item?id=46195109) - [We collected 10k hours of neuro-language data in our basement](https://condu.it/thought/10k-hours)
+* [2025-12-08, 17:30:15](https://news.ycombinator.com/item?id=46195068) - [Indexing 100M vectors in 20 minutes on PostgreSQL with 12GB RAM](https://blog.vectorchord.ai/how-we-made-100m-vector-indexing-in-20-minutes-possible-on-postgresql)
 * [2025-12-08, 17:25:54](https://news.ycombinator.com/item?id=46195007) - [Show HN: DuckDB for Kafka Stream Processing](https://sql-flow.com/docs/tutorials/intro/)
 * [2025-12-08, 17:10:14](https://news.ycombinator.com/item?id=46194828) - [Launch HN: Nia (YC S25) – Give better context to coding agents](https://www.trynia.ai/)
 * [2025-12-08, 17:08:36](https://news.ycombinator.com/item?id=46194805) - [RIP Tetsu Yamauchi (Former Free and Faces Bassist)](https://www.loudersound.com/bands-artists/former-free-and-faces-bassist-tetsu-yamauchi-dead-at-79)
