@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-12-13, 23:25:05](https://news.ycombinator.com/item?id=46259233) - [Kids Rarely Read Whole Books Anymore. Even in English Class](https://www.nytimes.com/2025/12/12/us/high-school-english-teachers-assigning-books.html)
 * [2025-12-13, 22:58:29](https://news.ycombinator.com/item?id=46259064) - [Linux Sandboxes and Fil-C](https://fil-c.org/seccomp)
 * [2025-12-13, 22:38:08](https://news.ycombinator.com/item?id=46258906) - [Flat-pack washing machine spins a fairer future](https://www.positive.news/society/flat-pack-washing-machine-spins-a-fairer-future/)
 * [2025-12-13, 21:18:01](https://news.ycombinator.com/item?id=46258163) - [Recovering Anthony Bourdain's (really) lost Li.st's](https://sandyuraz.com/blogs/bourdain/)
@@ -19,8 +20,8 @@
 * [2025-12-11, 19:28:40](https://news.ycombinator.com/item?id=46236001) - [What is the nicest thing a stranger has ever done for you?](https://louplummer.lol/nice-stranger/)
 * [2025-12-10, 21:08:41](https://news.ycombinator.com/item?id=46223882) - [Useful patterns for building HTML tools](https://simonwillison.net/2025/Dec/10/html-tools/)
 * [2025-12-10, 19:13:49](https://news.ycombinator.com/item?id=46222162) - [Researchers seeking better measures of cognitive fatigue](https://www.nature.com/articles/d41586-025-03974-w)
+* [2025-12-10, 04:09:04](https://news.ycombinator.com/item?id=46213985) - [Cat Gap](https://en.wikipedia.org/wiki/Cat_gap)
 * [2025-12-09, 21:10:52](https://news.ycombinator.com/item?id=46210705) - [Go Proposal: Secret Mode](https://antonz.org/accepted/runtime-secret/)
-* [2025-12-09, 20:16:15](https://news.ycombinator.com/item?id=46210044) - [Beautiful Abelian Sandpiles](https://eavan.blog/posts/beautiful-sandpiles.html)
 * [2025-12-08, 21:27:20](https://news.ycombinator.com/item?id=46197871) - [Pig Video Arcades Critique Life in the Pen (1997)](https://www.wired.com/1997/06/pig-video-arcades-critique-life-in-the-pen/)
 * [2025-12-08, 13:04:17](https://news.ycombinator.com/item?id=46191734) - [A 'toaster with a lens': The story behind the first handheld digital camera](https://www.bbc.com/future/article/20251205-how-the-handheld-digital-camera-was-born)
 * [2025-12-08, 08:52:03](https://news.ycombinator.com/item?id=46189962) - [Using Python for Scripting](https://hypirion.com/musings/use-python-for-scripting)
@@ -28,7 +29,6 @@
 * [2025-12-07, 18:51:20](https://news.ycombinator.com/item?id=46184030) - [TigerBeetle as a File Storage](https://aivarsk.com/2025/12/07/tigerbeetle-blob-storage/)
 * [2025-12-07, 15:19:25](https://news.ycombinator.com/item?id=46182307) - [Java FFM zero-copy transport using io_uring](https://www.mvp.express/)
 * [2025-12-06, 22:29:29](https://news.ycombinator.com/item?id=46177160) - [Photographer built a medium-format rangefinder](https://petapixel.com/2025/12/06/this-photographer-built-an-awesome-medium-format-rangefinder-and-so-can-you/)
-* [2025-12-06, 21:06:46](https://news.ycombinator.com/item?id=46176592) - [Will West Coast Jazz Get Some Respect?](https://www.honest-broker.com/p/will-west-coast-jazz-finally-get)
 * [2025-12-06, 11:48:45](https://news.ycombinator.com/item?id=46172586) - [Cryptids](https://wiki.bbchallenge.org/wiki/Cryptids)
 
 ## [Archives](archives/index.md)

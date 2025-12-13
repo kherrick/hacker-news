@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-12-13](index.md)
 
+* [2025-12-13, 23:25:05](https://news.ycombinator.com/item?id=46259233) - [Kids Rarely Read Whole Books Anymore. Even in English Class](https://www.nytimes.com/2025/12/12/us/high-school-english-teachers-assigning-books.html)
 * [2025-12-13, 22:58:29](https://news.ycombinator.com/item?id=46259064) - [Linux Sandboxes and Fil-C](https://fil-c.org/seccomp)
 * [2025-12-13, 22:38:08](https://news.ycombinator.com/item?id=46258906) - [Flat-pack washing machine spins a fairer future](https://www.positive.news/society/flat-pack-washing-machine-spins-a-fairer-future/)
 * [2025-12-13, 21:57:28](https://news.ycombinator.com/item?id=46258529) - [Some surprising things about DuckDuckGo you probably don't know](https://gabrielweinberg.com/p/some-surprising-things-about-duckduckgo)
