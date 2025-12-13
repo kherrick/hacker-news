@@ -1,12 +1,13 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-12-13, 20:48:09](https://news.ycombinator.com/item?id=46257871) - [Want to sway an election? Here’s how much fake online accounts cost](https://www.science.org/content/article/want-sway-election-here-s-how-much-fake-online-accounts-cost)
+* [2025-12-13, 20:19:53](https://news.ycombinator.com/item?id=46257607) - [I Fed 24 Years of My Blog Posts to a Markov Model](https://susam.net/fed-24-years-of-posts-to-markov-model.html)
 * [2025-12-13, 20:04:26](https://news.ycombinator.com/item?id=46257486) - [Ask HN: How do you handle release notes for multiple audiences?](https://news.ycombinator.com/item?id=46257486)
 * [2025-12-13, 19:58:32](https://news.ycombinator.com/item?id=46257442) - [What is a build system, anyway?](https://jyn.dev/what-is-a-build-system-anyway/)
 * [2025-12-13, 19:54:51](https://news.ycombinator.com/item?id=46257410) - [We Lost Something: 1970s REPLs Were Better Than Modern Development Environments](https://programmingsimplicity.substack.com/p/we-lost-something-1970s-repls-were)
 * [2025-12-13, 19:46:19](https://news.ycombinator.com/item?id=46257339) - [VPN location claims don't match real traffic exits](https://ipinfo.io/blog/vpn-location-mismatch-report)
 * [2025-12-13, 18:58:09](https://news.ycombinator.com/item?id=46256954) - [Dick Van Dyke turns 100](https://www.theguardian.com/film/2025/dec/13/dick-van-dyke-centenarian-100-mary-poppins-chitty-chitty-bang-bang)
 * [2025-12-13, 18:39:53](https://news.ycombinator.com/item?id=46256834) - [Former Apple, Google designer: \"Are we stuck with the same Desktop UX forever?\" [video]](https://www.youtube.com/watch?v=1fZTOjd_bOQ)
-* [2025-12-13, 18:12:42](https://news.ycombinator.com/item?id=46256584) - [How to Watch the Radiant Geminid Meteor Shower Tonight](https://www.smithsonianmag.com/smart-news/this-years-best-and-brightest-meteor-shower-peaks-this-weekend-heres-how-to-watch-the-radiant-geminids-180987858/)
 * [2025-12-13, 17:32:21](https://news.ycombinator.com/item?id=46256249) - [Analysis finds anytime electricity from solar available as battery costs plummet](https://pv-magazine-usa.com/2025/12/12/analysis-finds-anytime-electricity-from-solar-available-as-battery-costs-plummet/)
 * [2025-12-13, 17:01:25](https://news.ycombinator.com/item?id=46256002) - [EasyPost (YC S13) Is Hiring](https://www.easypost.com/careers)
 * [2025-12-13, 17:00:14](https://news.ycombinator.com/item?id=46255991) - [I tried Gleam for Advent of Code](https://blog.tymscar.com/posts/gleamaoc2025/)
@@ -27,7 +28,6 @@
 * [2025-12-08, 08:02:08](https://news.ycombinator.com/item?id=46189616) - [From Azure Functions to FreeBSD](https://jmmv.dev/2025/12/from-azure-functions-to-freebsd.html)
 * [2025-12-07, 15:19:25](https://news.ycombinator.com/item?id=46182307) - [Java FFM zero-copy transport using io_uring](https://www.mvp.express/)
 * [2025-12-06, 22:29:29](https://news.ycombinator.com/item?id=46177160) - [Photographer built a medium-format rangefinder](https://petapixel.com/2025/12/06/this-photographer-built-an-awesome-medium-format-rangefinder-and-so-can-you/)
-* [2025-12-06, 21:06:46](https://news.ycombinator.com/item?id=46176592) - [Will West Coast Jazz Get Some Respect?](https://www.honest-broker.com/p/will-west-coast-jazz-finally-get)
 * [2025-12-06, 11:48:45](https://news.ycombinator.com/item?id=46172586) - [Cryptids](https://wiki.bbchallenge.org/wiki/Cryptids)
 * [2025-12-06, 11:14:49](https://news.ycombinator.com/item?id=46172417) - [Dynamic Pong Wars](https://markodenic.tech/dynamic-pong-wars/)
 

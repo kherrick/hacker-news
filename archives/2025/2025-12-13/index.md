@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-12-13](index.md)
 
+* [2025-12-13, 20:48:09](https://news.ycombinator.com/item?id=46257871) - [Want to sway an election? Here’s how much fake online accounts cost](https://www.science.org/content/article/want-sway-election-here-s-how-much-fake-online-accounts-cost)
+* [2025-12-13, 20:19:53](https://news.ycombinator.com/item?id=46257607) - [I Fed 24 Years of My Blog Posts to a Markov Model](https://susam.net/fed-24-years-of-posts-to-markov-model.html)
 * [2025-12-13, 20:04:26](https://news.ycombinator.com/item?id=46257486) - [Ask HN: How do you handle release notes for multiple audiences?](https://news.ycombinator.com/item?id=46257486)
 * [2025-12-13, 19:58:32](https://news.ycombinator.com/item?id=46257442) - [What is a build system, anyway?](https://jyn.dev/what-is-a-build-system-anyway/)
 * [2025-12-13, 19:54:51](https://news.ycombinator.com/item?id=46257410) - [We Lost Something: 1970s REPLs Were Better Than Modern Development Environments](https://programmingsimplicity.substack.com/p/we-lost-something-1970s-repls-were)
