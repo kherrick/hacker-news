@@ -25,6 +25,7 @@
 * [2025-12-06, 20:15:54](https://news.ycombinator.com/item?id=46176289) - [Zebra-Llama: Towards Efficient Hybrid Models](https://arxiv.org/abs/2505.17272)
 * [2025-12-06, 20:00:17](https://news.ycombinator.com/item?id=46176169) - [CATL Expects Oceanic Electric Ships in 3 Years](https://cleantechnica.com/2025/12/05/catl-expects-oceanic-electric-ships-in-3-years/)
 * [2025-12-06, 19:47:13](https://news.ycombinator.com/item?id=46176072) - [The general who refused to crush Tiananmen's protesters](https://www.economist.com/china/2025/12/04/the-general-who-refused-to-crush-tiananmens-protesters)
+* [2025-12-06, 19:21:50](https://news.ycombinator.com/item?id=46175888) - [Ferrari's Formula 1 Handovers: Handovers from Surgery to Intensive Care 2008;pdf](https://gwern.net/doc/technology/2008-sower.pdf)
 * [2025-12-06, 19:19:44](https://news.ycombinator.com/item?id=46175871) - [Germany votes to bring in voluntary military service programme for 18-year-olds](https://www.bbc.com/news/articles/ckg9drg8pg1o)
 * [2025-12-06, 19:14:35](https://news.ycombinator.com/item?id=46175826) - [OMSCS Open Courseware](https://sites.gatech.edu/omscsopencourseware/)
 * [2025-12-06, 18:53:57](https://news.ycombinator.com/item?id=46175662) - [Running Claude Code in a loop to mirror human development practices](https://anandchowdhary.com/blog/2025/running-claude-code-in-a-loop)
