@@ -52,6 +52,7 @@
 * [2025-12-08, 14:57:49](https://news.ycombinator.com/item?id=46192924) - [How we built context management for tab completion](https://docs.getpochi.com/developer-updates/context-management-in-your-editor/)
 * [2025-12-08, 14:50:48](https://news.ycombinator.com/item?id=46192846) - [Strong earthquake hits northern Japan, tsunami warning issued](https://www3.nhk.or.jp/nhkworld/en/news/20251209_02/)
 * [2025-12-08, 14:42:01](https://news.ycombinator.com/item?id=46192748) - [Python Workers redux: fast cold starts, packages, and a uv-first workflow](https://blog.cloudflare.com/python-workers-advancements/)
+* [2025-12-08, 14:23:36](https://news.ycombinator.com/item?id=46192545) - [Show HN: LinkedQL – Live Queries over Postgres, MySQL, MariaDB](https://github.com/linked-db/linked-ql)
 * [2025-12-08, 14:16:34](https://news.ycombinator.com/item?id=46192459) - [Paramount launches hostile bid for Warner Bros](https://www.cnbc.com/2025/12/08/paramount-skydance-hostile-bid-wbd-netflix.html)
 * [2025-12-08, 14:06:35](https://news.ycombinator.com/item?id=46192348) - [Show HN: I wrote a book – Debugging TypeScript Applications (in beta)](https://pragprog.com/titles/aodjs/debugging-typescript-applications/)
 * [2025-12-08, 13:51:30](https://news.ycombinator.com/item?id=46192212) - [Gild Just One Lily](https://www.smashingmagazine.com/2025/04/gild-just-one-lily/)
