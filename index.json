@@ -5,7 +5,7 @@
       "https://news.ycombinator.com/item?id=46256325"
     ],
     [
-      "Fast, Memory-Efficient Hash Table in Java: Borrowing the Best Ideas",
+      "Building an efficient hash table in Java",
       "https://bluuewhale.github.io/posts/building-a-fast-and-memory-efficient-hash-table-in-java-by-borrowing-the-best-ideas/"
     ]
   ],
@@ -41,12 +41,12 @@
   ],
   [
     [
-      "2025-12-13, 15:23:34",
-      "https://news.ycombinator.com/item?id=46255158"
+      "2025-12-13, 15:37:16",
+      "https://news.ycombinator.com/item?id=46255285"
     ],
     [
-      "Show HN: I audited 500 K8s pods. Java wastes ~48% RAM, Go ~18%",
-      "https://github.com/WozzHQ/wozz"
+      "Ask HN: How can I get better at using AI for programming?",
+      "https://news.ycombinator.com/item?id=46255285"
     ]
   ],
   [
@@ -67,16 +67,6 @@
     [
       "Computer Animator and Amiga fanatic Dick Van Dyke turns 100",
       "https://news.ycombinator.com/item?id=46252993"
-    ]
-  ],
-  [
-    [
-      "2025-12-13, 04:55:59",
-      "https://news.ycombinator.com/item?id=46252114"
-    ],
-    [
-      "Apple has locked my Apple ID, and I have no recourse. A plea for help",
-      "https://hey.paris/posts/appleid/"
     ]
   ],
   [
@@ -251,6 +241,16 @@
   ],
   [
     [
+      "2025-12-08, 08:52:03",
+      "https://news.ycombinator.com/item?id=46189962"
+    ],
+    [
+      "Using Python for Scripting",
+      "https://hypirion.com/musings/use-python-for-scripting"
+    ]
+  ],
+  [
+    [
       "2025-12-07, 15:19:25",
       "https://news.ycombinator.com/item?id=46182307"
     ],
@@ -265,7 +265,7 @@
       "https://news.ycombinator.com/item?id=46177160"
     ],
     [
-      "Photographer built a medium-format rangefinder, and so can you",
+      "Photographer built a medium-format rangefinder",
       "https://petapixel.com/2025/12/06/this-photographer-built-an-awesome-medium-format-rangefinder-and-so-can-you/"
     ]
   ],
