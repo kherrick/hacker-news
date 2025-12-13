@@ -4,9 +4,11 @@
 
 ### [Archives](../../index.md) for [2025-12-13](index.md)
 
+* [2025-12-13, 17:41:32](https://news.ycombinator.com/item?id=46256325) - [Fast, Memory-Efficient Hash Table in Java: Borrowing the Best Ideas](https://bluuewhale.github.io/posts/building-a-fast-and-memory-efficient-hash-table-in-java-by-borrowing-the-best-ideas/)
 * [2025-12-13, 17:32:21](https://news.ycombinator.com/item?id=46256249) - [Analysis finds anytime electricity from solar available as battery costs plummet](https://pv-magazine-usa.com/2025/12/12/analysis-finds-anytime-electricity-from-solar-available-as-battery-costs-plummet/)
 * [2025-12-13, 17:01:25](https://news.ycombinator.com/item?id=46256002) - [EasyPost (YC S13) Is Hiring](https://www.easypost.com/careers)
 * [2025-12-13, 17:00:14](https://news.ycombinator.com/item?id=46255991) - [I Tried Gleam for Advent of Code, and I Get the Hype](https://blog.tymscar.com/posts/gleamaoc2025/)
+* [2025-12-13, 16:51:17](https://news.ycombinator.com/item?id=46255928) - [Aging Out of Fucks: The Neuroscience of Why You Suddenly Can't Pretend Anymore](https://www.blog.lifebranches.com/p/aging-out-of-fucks-the-neuroscience)
 * [2025-12-13, 16:24:34](https://news.ycombinator.com/item?id=46255697) - [Show HN: Kinkora – A creative playground for experimenting with video models](https://kinkora.fun/)
 * [2025-12-13, 16:14:51](https://news.ycombinator.com/item?id=46255611) - [Multiple Indicted on Charges of Theft and Re-Sale of Restaurant Cooking Oil](https://www.justice.gov/usao-sdia/pr/multiple-chinese-nationals-indicted-charges-related-theft-and-re-sale-restaurant)
 * [2025-12-13, 15:41:24](https://news.ycombinator.com/item?id=46255335) - [LG TV's new software update installed MS Copilot, which cannot be deleted](https://old.reddit.com/r/mildlyinfuriating/comments/1plldqo/my_lg_tvs_new_software_update_installed_microsoft/)
