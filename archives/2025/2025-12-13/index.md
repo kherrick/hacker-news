@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-12-13](index.md)
 
+* [2025-12-13, 04:21:24](https://news.ycombinator.com/item?id=46251952) - [Poor Johnny still won't encrypt](https://bfswa.substack.com/p/poor-johnny-still-wont-encrypt)
 * [2025-12-13, 03:57:58](https://news.ycombinator.com/item?id=46251852) - [Show HN: Claude Code Recipes for Knowledge Workers (Open Source)](https://github.com/sgharlow/claude-code-recipes)
 * [2025-12-13, 03:21:32](https://news.ycombinator.com/item?id=46251684) - [Google Removes Sci-Hub Domains from U.S. Search Results Due to Dated Court Order](https://torrentfreak.com/google-removes-sci-hub-domains-from-u-s-search-results-due-to-dated-court-order/)
 * [2025-12-13, 03:17:18](https://news.ycombinator.com/item?id=46251667) - [The Coming Need for Formal Specification](https://benjamincongdon.me/blog/2025/12/12/The-Coming-Need-for-Formal-Specification/)

@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-12-13, 04:21:24](https://news.ycombinator.com/item?id=46251952) - [Poor Johnny still won't encrypt](https://bfswa.substack.com/p/poor-johnny-still-wont-encrypt)
 * [2025-12-13, 03:57:58](https://news.ycombinator.com/item?id=46251852) - [Show HN: Claude Code Recipes for Knowledge Workers (Open Source)](https://github.com/sgharlow/claude-code-recipes)
 * [2025-12-13, 03:21:32](https://news.ycombinator.com/item?id=46251684) - [Google Removes Sci-Hub Domains from U.S. Search Results Due to Dated Court Order](https://torrentfreak.com/google-removes-sci-hub-domains-from-u-s-search-results-due-to-dated-court-order/)
 * [2025-12-13, 03:17:18](https://news.ycombinator.com/item?id=46251667) - [The Coming Need for Formal Specification](https://benjamincongdon.me/blog/2025/12/12/The-Coming-Need-for-Formal-Specification/)
@@ -10,7 +11,6 @@
 * [2025-12-12, 23:26:26](https://news.ycombinator.com/item?id=46250309) - [50 years of proof assistants](https://lawrencecpaulson.github.io//2025/12/05/History_of_Proof_Assistants.html)
 * [2025-12-12, 22:02:14](https://news.ycombinator.com/item?id=46249538) - [Show HN: Tiny VM sandbox in C with apps in Rust, C and Zig](https://github.com/ringtailsoftware/uvm32)
 * [2025-12-12, 21:42:04](https://news.ycombinator.com/item?id=46249337) - [Capsudo: Rethinking Sudo with Object Capabilities](https://ariadne.space/2025/12/12/rethinking-sudo-with-object-capabilities.html)
-* [2025-12-12, 21:00:54](https://news.ycombinator.com/item?id=46248892) - [Motion (YC W20) Is Hiring Senior Staff Front End Engineers](https://jobs.ashbyhq.com/motion/715d9646-27d4-44f6-9229-61eb0380ae39)
 * [2025-12-12, 20:57:34](https://news.ycombinator.com/item?id=46248859) - [GNU Unifont](https://unifoundry.com/unifont/index.html)
 * [2025-12-12, 20:41:38](https://news.ycombinator.com/item?id=46248644) - [macOS 26.2 enables fast AI clusters with RDMA over Thunderbolt](https://developer.apple.com/documentation/macos-release-notes/macos-26_2-release-notes#RDMA-over-Thunderbolt)
 * [2025-12-12, 20:28:41](https://news.ycombinator.com/item?id=46248470) - [Security issues with electronic invoices](https://invoice.secvuln.info/)
@@ -20,6 +20,7 @@
 * [2025-12-12, 16:23:10](https://news.ycombinator.com/item?id=46245622) - [String theory inspires a brilliant, baffling new math proof](https://www.quantamagazine.org/string-theory-inspires-a-brilliant-baffling-new-math-proof-20251212/)
 * [2025-12-12, 15:19:19](https://news.ycombinator.com/item?id=46244922) - [CM0 – A new Raspberry Pi you can't buy](https://www.jeffgeerling.com/blog/2025/cm0-new-raspberry-pi-you-cant-buy)
 * [2025-12-12, 13:25:19](https://news.ycombinator.com/item?id=46243904) - [SQLite JSON at full index speed using generated columns](https://www.dbpro.app/blog/sqlite-json-virtual-columns-indexing)
+* [2025-12-12, 13:23:31](https://news.ycombinator.com/item?id=46243883) - [Fedora: Open-source repository for long-term digital preservation](https://fedorarepository.org/)
 * [2025-12-12, 12:51:40](https://news.ycombinator.com/item?id=46243655) - [Sick of smart TVs? Here are your best options](https://arstechnica.com/gadgets/2025/12/the-ars-technica-guide-to-dumb-tvs/)
 * [2025-12-12, 10:23:23](https://news.ycombinator.com/item?id=46242700) - [Building small Docker images faster](https://sgt.hootr.club/blog/docker-protips/)
 * [2025-12-12, 06:17:28](https://news.ycombinator.com/item?id=46241368) - [Freeing a Xiaomi humidifier from the cloud](https://0l.de/blog/2025/11/xiaomi-humidifier/)
@@ -28,7 +29,6 @@
 * [2025-12-10, 17:14:39](https://news.ycombinator.com/item?id=46220411) - [Pg_ClickHouse: A Postgres extension for querying ClickHouse](https://clickhouse.com/blog/introducing-pg_clickhouse)
 * [2025-12-08, 12:24:29](https://news.ycombinator.com/item?id=46191449) - [Slax: Live Pocket Linux](https://www.slax.org/)
 * [2025-12-07, 18:11:25](https://news.ycombinator.com/item?id=46183688) - [So What Should We Call This – A Grue Jay?](https://cns.utexas.edu/news/research/so-what-should-we-call-grue-jay)
-* [2025-12-07, 11:01:07](https://news.ycombinator.com/item?id=46180844) - [C64 Maze Chomp.BAS](https://basic-code.bearblog.dev/c64-maze-chompbas/)
 * [2025-12-06, 19:21:50](https://news.ycombinator.com/item?id=46175888) - [Ferrari's Formula 1 Handovers: Handovers from Surgery to Intensive Care 2008;pdf](https://gwern.net/doc/technology/2008-sower.pdf)
 
 ## [Archives](archives/index.md)
