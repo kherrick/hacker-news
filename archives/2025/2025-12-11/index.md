@@ -6,6 +6,7 @@
 
 * [2025-12-11, 23:56:10](https://news.ycombinator.com/item?id=46239076) - [Ensuring a National Policy Framework for Artificial Intelligence](https://www.whitehouse.gov/presidential-actions/2025/12/eliminating-state-law-obstruction-of-national-artificial-intelligence-policy/)
 * [2025-12-11, 21:45:03](https://news.ycombinator.com/item?id=46237623) - [23,746 Patients Died on Waitlists in Past Year](https://secondstreet.org/2025/11/26/23746-patients-died-on-waitlists-in-past-year/)
+* [2025-12-11, 21:44:06](https://news.ycombinator.com/item?id=46237606) - [Show HN: A real-time 4D fractal explorer in the browser using WebGPU](https://bryanjj.github.io/nebula/)
 * [2025-12-11, 21:37:58](https://news.ycombinator.com/item?id=46237527) - [Two new RSC protocol vulnerabilities uncovered](https://nextjs.org/blog/security-update-2025-12-11)
 * [2025-12-11, 21:36:56](https://news.ycombinator.com/item?id=46237515) - [React2Shell and related RSC vulnerabilities threat brief](https://blog.cloudflare.com/react2shell-rsc-vulnerabilities-exploitation-threat-brief/)
 * [2025-12-11, 21:35:52](https://news.ycombinator.com/item?id=46237501) - [Powder and Stone. Or, Why Medieval Rulers Loved Castles](https://1517.substack.com/p/powder-and-stone-or-why-medieval)
