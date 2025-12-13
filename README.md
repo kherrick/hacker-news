@@ -1,9 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-12-13, 17:01:25](https://news.ycombinator.com/item?id=46256002) - [EasyPost (YC S13) Is Hiring](https://www.easypost.com/careers)
 * [2025-12-13, 16:24:34](https://news.ycombinator.com/item?id=46255697) - [Show HN: Kinkora – A creative playground for experimenting with video models](https://kinkora.fun/)
 * [2025-12-13, 16:14:51](https://news.ycombinator.com/item?id=46255611) - [Multiple Indicted on Charges of Theft and Re-Sale of Restaurant Cooking Oil](https://www.justice.gov/usao-sdia/pr/multiple-chinese-nationals-indicted-charges-related-theft-and-re-sale-restaurant)
 * [2025-12-13, 15:41:24](https://news.ycombinator.com/item?id=46255335) - [LG TV's new software update installed MS Copilot, which cannot be deleted](https://old.reddit.com/r/mildlyinfuriating/comments/1plldqo/my_lg_tvs_new_software_update_installed_microsoft/)
 * [2025-12-13, 15:37:16](https://news.ycombinator.com/item?id=46255285) - [Ask HN: How can I get better at using AI for programming?](https://news.ycombinator.com/item?id=46255285)
+* [2025-12-13, 15:04:29](https://news.ycombinator.com/item?id=46255007) - [Z8086: Rebuilding the 8086 from Original Microcode](https://nand2mario.github.io/posts/2025/z8086/)
 * [2025-12-13, 12:29:19](https://news.ycombinator.com/item?id=46254087) - [We built another object storage](https://fractalbits.com/blog/why-we-built-another-object-storage/)
 * [2025-12-13, 08:15:48](https://news.ycombinator.com/item?id=46252993) - [Computer Animator and Amiga fanatic Dick Van Dyke turns 100](https://news.ycombinator.com/item?id=46252993)
 * [2025-12-13, 04:55:59](https://news.ycombinator.com/item?id=46252114) - [Apple has locked my Apple ID, and I have no recourse. A plea for help](https://hey.paris/posts/appleid/)
@@ -20,7 +22,6 @@
 * [2025-12-10, 19:13:49](https://news.ycombinator.com/item?id=46222162) - [Researchers seeking better measures of cognitive fatigue](https://www.nature.com/articles/d41586-025-03974-w)
 * [2025-12-09, 21:10:52](https://news.ycombinator.com/item?id=46210705) - [Go Proposal: Secret Mode](https://antonz.org/accepted/runtime-secret/)
 * [2025-12-09, 20:16:15](https://news.ycombinator.com/item?id=46210044) - [Beautiful Abelian Sandpiles](https://eavan.blog/posts/beautiful-sandpiles.html)
-* [2025-12-09, 13:23:25](https://news.ycombinator.com/item?id=46204668) - [JetBrains cancels Fleet](https://blog.jetbrains.com/fleet/2025/12/the-future-of-fleet/)
 * [2025-12-08, 17:30:15](https://news.ycombinator.com/item?id=46195068) - [Indexing 100M vectors in 20 minutes on PostgreSQL with 12GB RAM](https://blog.vectorchord.ai/how-we-made-100m-vector-indexing-in-20-minutes-possible-on-postgresql)
 * [2025-12-08, 16:27:29](https://news.ycombinator.com/item?id=46194245) - [Obscuring P2P Nodes with Dandelion](https://www.johndcook.com/blog/2025/12/08/dandelion/)
 * [2025-12-08, 14:23:36](https://news.ycombinator.com/item?id=46192545) - [Show HN: LinkedQL – Live Queries over Postgres, MySQL, MariaDB](https://github.com/linked-db/linked-ql)
@@ -28,7 +29,6 @@
 * [2025-12-07, 15:19:25](https://news.ycombinator.com/item?id=46182307) - [Java FFM zero-copy transport using io_uring](https://www.mvp.express/)
 * [2025-12-06, 22:29:29](https://news.ycombinator.com/item?id=46177160) - [Photographer built a medium-format rangefinder, and so can you](https://petapixel.com/2025/12/06/this-photographer-built-an-awesome-medium-format-rangefinder-and-so-can-you/)
 * [2025-12-06, 21:06:46](https://news.ycombinator.com/item?id=46176592) - [Will West Coast Jazz Get Some Respect?](https://www.honest-broker.com/p/will-west-coast-jazz-finally-get)
-* [2025-12-06, 19:21:50](https://news.ycombinator.com/item?id=46175888) - [Formula One Handovers and Handovers From Surgery to Intensive Care (2008) [pdf]](https://gwern.net/doc/technology/2008-sower.pdf)
 * [2025-12-06, 11:48:45](https://news.ycombinator.com/item?id=46172586) - [Cryptids](https://wiki.bbchallenge.org/wiki/Cryptids)
 
 ## [Archives](archives/index.md)
