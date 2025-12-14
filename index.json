@@ -1,22 +1,22 @@
 [
   [
     [
-      "2025-12-14, 19:09:33",
-      "https://news.ycombinator.com/item?id=46265817"
+      "2025-12-14, 19:41:59",
+      "https://news.ycombinator.com/item?id=46266094"
     ],
     [
-      "HyperCard on the Macintosh",
-      "https://stonetools.ghost.io/hypercard-mac/"
+      "Do Dyslexia Fonts Actually Work? (2022)",
+      "https://www.edutopia.org/article/do-dyslexia-fonts-actually-work/"
     ]
   ],
   [
     [
-      "2025-12-14, 18:51:02",
-      "https://news.ycombinator.com/item?id=46265636"
+      "2025-12-14, 19:08:57",
+      "https://news.ycombinator.com/item?id=46265811"
     ],
     [
-      "Six Big Bets",
-      "https://www.jerry.wtf/posts/six-big-bets/"
+      "GNU recutils: Plain text database",
+      "https://www.gnu.org/software/recutils/"
     ]
   ],
   [
@@ -55,7 +55,7 @@
       "https://news.ycombinator.com/item?id=46264704"
     ],
     [
-      "GraphQL: The Enterprise Honeymoon Is Over",
+      "GraphQL: The enterprise honeymoon is over",
       "https://johnjames.blog/posts/graphql-the-enterprise-honeymoon-is-over"
     ]
   ],
@@ -87,6 +87,16 @@
     [
       "Rust Coreutils 0.5.0 Release: 87.75% compatibility with GNU Coreutils",
       "https://github.com/uutils/coreutils/releases/tag/0.5.0"
+    ]
+  ],
+  [
+    [
+      "2025-12-14, 16:13:55",
+      "https://news.ycombinator.com/item?id=46264101"
+    ],
+    [
+      "iOS 26.2 fixes 20 security vulnerabilities, 2 actively exploited",
+      "https://www.macrumors.com/2025/12/12/ios-26-2-security-vulnerabilities/"
     ]
   ],
   [
@@ -191,16 +201,6 @@
   ],
   [
     [
-      "2025-12-13, 21:18:01",
-      "https://news.ycombinator.com/item?id=46258163"
-    ],
-    [
-      "Recovering Anthony Bourdain's Li.st's",
-      "https://sandyuraz.com/blogs/bourdain/"
-    ]
-  ],
-  [
-    [
       "2025-12-13, 20:19:53",
       "https://news.ycombinator.com/item?id=46257607"
     ],
@@ -271,22 +271,22 @@
   ],
   [
     [
-      "2025-12-09, 10:49:38",
-      "https://news.ycombinator.com/item?id=46203477"
-    ],
-    [
-      "Building a Modern C64 Assembly AI Toolchain",
-      "https://medium.com/@gianlucabailo/building-a-modern-c64-assembly-ai-toolchain-using-google-gemini-3-1a36464c9458"
-    ]
-  ],
-  [
-    [
       "2025-12-09, 09:05:01",
       "https://news.ycombinator.com/item?id=46202853"
     ],
     [
       "Standalone Meshtastic Command Center – One HTML File Offline",
       "https://github.com/Jordan-Townsend/Standalone"
+    ]
+  ],
+  [
+    [
+      "2025-12-08, 08:44:06",
+      "https://news.ycombinator.com/item?id=46189905"
+    ],
+    [
+      "In the Beginning Was the Command Line (1999)",
+      "https://web.stanford.edu/class/cs81n/command.txt"
     ]
   ],
   [
