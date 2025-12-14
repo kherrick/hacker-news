@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-12-14](index.md)
 
+* [2025-12-14, 04:11:05](https://news.ycombinator.com/item?id=46260686) - [Tiobe Index for December 2025: R Joins the Top as SQL Climbs](https://www.techrepublic.com/article/news-tiobe-commentary-dec-2025/)
 * [2025-12-14, 03:13:38](https://news.ycombinator.com/item?id=46260474) - [Rocket Lab – 'Raise and Shine' Launch for JAXA [video]](https://www.youtube.com/watch?v=cMP328yoUu4)
 * [2025-12-14, 01:49:11](https://news.ycombinator.com/item?id=46260128) - [Lean Theorem Prover Mathlib](https://github.com/leanprover-community/mathlib4)
 * [2025-12-14, 01:32:36](https://news.ycombinator.com/item?id=46260039) - [Therapeutic Use of Cannabis and Cannabinoids: A Review](https://jamanetwork.com/journals/jama/fullarticle/2842072?guestAccessKey=a368e622-e374-4a0c-8d3b-22a976500305)
