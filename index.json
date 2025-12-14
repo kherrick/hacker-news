@@ -1,11 +1,41 @@
 [
   [
     [
+      "2025-12-14, 21:05:13",
+      "https://news.ycombinator.com/item?id=46266875"
+    ],
+    [
+      "2002: Last.fm and Audioscrobbler Herald the Social Web",
+      "https://cybercultural.com/p/lastfm-audioscrobbler-2002/"
+    ]
+  ],
+  [
+    [
+      "2025-12-14, 20:40:16",
+      "https://news.ycombinator.com/item?id=46266655"
+    ],
+    [
+      "Opus 4.5 is the first model that makes me fear for my job",
+      "https://old.reddit.com/r/ClaudeAI/comments/1pmgk5c/opus_45_is_the_first_model_that_makes_me_actually/"
+    ]
+  ],
+  [
+    [
+      "2025-12-14, 19:42:53",
+      "https://news.ycombinator.com/item?id=46266102"
+    ],
+    [
+      "JSDoc *Is* TypeScript",
+      "https://culi.bearblog.dev/jsdoc-is-typescript/"
+    ]
+  ],
+  [
+    [
       "2025-12-14, 19:41:59",
       "https://news.ycombinator.com/item?id=46266094"
     ],
     [
-      "Do Dyslexia Fonts Actually Work? (2022)",
+      "Do dyslexia fonts work? (2022)",
       "https://www.edutopia.org/article/do-dyslexia-fonts-actually-work/"
     ]
   ],
@@ -25,7 +55,7 @@
       "https://news.ycombinator.com/item?id=46265579"
     ],
     [
-      "Stop crawling my HTML you dickheads – use the API",
+      "Stop crawling my HTML – use the API",
       "https://shkspr.mobi/blog/2025/12/stop-crawling-my-html-you-dickheads-use-the-api/"
     ]
   ],
@@ -65,7 +95,7 @@
       "https://news.ycombinator.com/item?id=46264492"
     ],
     [
-      "Hashcards: A Plain-Text Spaced Repetition System",
+      "Hashcards: A plain-text spaced repetition system",
       "https://borretti.me/article/hashcards-plain-text-spaced-repetition"
     ]
   ],
@@ -77,16 +107,6 @@
     [
       "Ask HN: What Are You Working On? (December 2025)",
       "https://news.ycombinator.com/item?id=46264491"
-    ]
-  ],
-  [
-    [
-      "2025-12-14, 16:40:40",
-      "https://news.ycombinator.com/item?id=46264329"
-    ],
-    [
-      "Rust Coreutils 0.5.0 Release: 87.75% compatibility with GNU Coreutils",
-      "https://github.com/uutils/coreutils/releases/tag/0.5.0"
     ]
   ],
   [
@@ -201,16 +221,6 @@
   ],
   [
     [
-      "2025-12-13, 21:18:01",
-      "https://news.ycombinator.com/item?id=46258163"
-    ],
-    [
-      "Recovering Anthony Bourdain's Li.st's",
-      "https://sandyuraz.com/blogs/bourdain/"
-    ]
-  ],
-  [
-    [
       "2025-12-13, 20:19:53",
       "https://news.ycombinator.com/item?id=46257607"
     ],
@@ -221,12 +231,12 @@
   ],
   [
     [
-      "2025-12-13, 17:00:14",
-      "https://news.ycombinator.com/item?id=46255991"
+      "2025-12-12, 01:16:49",
+      "https://news.ycombinator.com/item?id=46239726"
     ],
     [
-      "I tried Gleam for Advent of Code",
-      "https://blog.tymscar.com/posts/gleamaoc2025/"
+      "Disk can lie to you when you write to it",
+      "https://blog.canoozie.net/disks-lie-building-a-wal-that-actually-survives/"
     ]
   ],
   [
@@ -257,16 +267,6 @@
     [
       "Getting into Public Speaking",
       "https://james.brooks.page/blog/getting-into-public-speaking"
-    ]
-  ],
-  [
-    [
-      "2025-12-10, 04:09:04",
-      "https://news.ycombinator.com/item?id=46213985"
-    ],
-    [
-      "Cat Gap",
-      "https://en.wikipedia.org/wiki/Cat_gap"
     ]
   ],
   [
