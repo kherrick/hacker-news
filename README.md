@@ -1,12 +1,13 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-12-14, 18:56:11](https://news.ycombinator.com/item?id=46265697) - [Update Now Warning Issued to All iPhone Users](https://www.forbes.com/sites/kateoflahertyuk/2025/12/14/ios-262-update-now-waning-issued-to-all-iphone-users/)
 * [2025-12-14, 18:44:38](https://news.ycombinator.com/item?id=46265579) - [Stop crawling my HTML you dickheads – use the API](https://shkspr.mobi/blog/2025/12/stop-crawling-my-html-you-dickheads-use-the-api/)
 * [2025-12-14, 18:21:04](https://news.ycombinator.com/item?id=46265383) - [More atmospheric rivers coming for flooded Washington and the West Coast](https://www.cnn.com/2025/12/12/weather/washington-west-coast-flooding-atmospheric-rivers-climate)
 * [2025-12-14, 17:43:39](https://news.ycombinator.com/item?id=46265015) - [The Typeframe PX-88 Portable Computing System](https://www.typeframe.net/)
 * [2025-12-14, 17:13:30](https://news.ycombinator.com/item?id=46264704) - [GraphQL: The Enterprise Honeymoon Is Over](https://johnjames.blog/posts/graphql-the-enterprise-honeymoon-is-over)
 * [2025-12-14, 16:55:29](https://news.ycombinator.com/item?id=46264492) - [Hashcards: A Plain-Text Spaced Repetition System](https://borretti.me/article/hashcards-plain-text-spaced-repetition)
 * [2025-12-14, 16:40:40](https://news.ycombinator.com/item?id=46264329) - [Rust Coreutils 0.5.0 Release: 87.75% compatibility with GNU Coreutils](https://github.com/uutils/coreutils/releases/tag/0.5.0)
-* [2025-12-14, 16:13:55](https://news.ycombinator.com/item?id=46264101) - [Update Now: iOS 26.2 Fixes 20 Security Vulnerabilities, 2 Actively Exploited](https://www.macrumors.com/2025/12/12/ios-26-2-security-vulnerabilities/)
+* [2025-12-14, 16:09:44](https://news.ycombinator.com/item?id=46264068) - [Price of a bot army revealed across online platforms](https://www.cam.ac.uk/stories/price-bot-army-global-index)
 * [2025-12-14, 15:05:06](https://news.ycombinator.com/item?id=46263530) - [Illuminating the processor core with LLVM-mca](https://abseil.io/fast/99)
 * [2025-12-14, 13:45:41](https://news.ycombinator.com/item?id=46262950) - [Apple Maps claims it's 29,905 miles away](https://mathstodon.xyz/@dpiponi/115651419771418748)
 * [2025-12-14, 13:19:15](https://news.ycombinator.com/item?id=46262816) - [AI and the ironies of automation – Part 2](https://www.ufried.com/blog/ironies_of_ai_2/)
@@ -28,7 +29,6 @@
 * [2025-12-09, 14:10:41](https://news.ycombinator.com/item?id=46205089) - [Using e-ink tablet as monitor for Linux](https://alavi.me/blog/e-ink-tablet-as-monitor-linux/)
 * [2025-12-09, 10:49:38](https://news.ycombinator.com/item?id=46203477) - [Building a Modern C64 Assembly AI Toolchain](https://medium.com/@gianlucabailo/building-a-modern-c64-assembly-ai-toolchain-using-google-gemini-3-1a36464c9458)
 * [2025-12-09, 09:05:01](https://news.ycombinator.com/item?id=46202853) - [Standalone Meshtastic Command Center – One HTML File Offline](https://github.com/Jordan-Townsend/Standalone)
-* [2025-12-08, 05:13:21](https://news.ycombinator.com/item?id=46188626) - [Mystery Science Theater 3000: The Definitive Oral History of a TV Masterpiece](https://www.wired.com/2014/04/mst3k-oral-history/)
 * [2025-12-06, 16:53:40](https://news.ycombinator.com/item?id=46174735) - [Science Communications on YouTube](https://blogs.memphis.edu/awindsor/2025/02/25/science-communication-on-youtube/)
 
 ## [Archives](archives/index.md)
