@@ -1,9 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-12-14, 08:21:59](https://news.ycombinator.com/item?id=46261616) - [Bye, Mom](https://aella.substack.com/p/bye-mom)
+* [2025-12-14, 13:19:15](https://news.ycombinator.com/item?id=46262816) - [AI and the ironies of automation – Part 2](https://www.ufried.com/blog/ironies_of_ai_2/)
+* [2025-12-14, 13:04:34](https://news.ycombinator.com/item?id=46262734) - [Kimi K2 1T model runs on 2 512GB M3 Ultras](https://twitter.com/awnihannun/status/1943723599971443134)
+* [2025-12-14, 12:34:35](https://news.ycombinator.com/item?id=46262592) - [Baumol's Cost Disease](https://en.wikipedia.org/wiki/Baumol_effect)
+* [2025-12-14, 12:15:09](https://news.ycombinator.com/item?id=46262524) - [Europeans' health data sold to US firm run by ex-Israeli spies](https://www.ftm.eu/articles/europe-health-data-us-firm-israel-spies)
 * [2025-12-14, 07:45:15](https://news.ycombinator.com/item?id=46261452) - [Compiler Engineering in Practice](https://chisophugis.github.io/2025/12/08/compiler-engineering-in-practice-part-1-what-is-a-compiler.html)
 * [2025-12-14, 05:38:52](https://news.ycombinator.com/item?id=46261020) - [“You should never build a CMS”](https://www.sanity.io/blog/you-should-never-build-a-cms)
-* [2025-12-14, 03:46:51](https://news.ycombinator.com/item?id=46260596) - [Heavy metal is healing teens on the Blackfeet Nation](https://www.hcn.org/issues/57-11/heavy-metal-is-healing-teens-on-the-blackfeet-nation/)
 * [2025-12-14, 01:49:11](https://news.ycombinator.com/item?id=46260128) - [Lean theorem prover mathlib](https://github.com/leanprover-community/mathlib4)
 * [2025-12-14, 01:43:33](https://news.ycombinator.com/item?id=46260106) - [If a Meta AI model can read a brain-wide signal, why wouldn't the brain?](https://1393.xyz/writing/if-a-meta-ai-model-can-read-a-brain-wide-signal-why-wouldnt-the-brain)
 * [2025-12-14, 00:34:56](https://news.ycombinator.com/item?id=46259702) - [An Implementation of J (1992)](https://www.jsoftware.com/ioj/ioj.htm)
@@ -26,10 +28,8 @@
 * [2025-12-09, 14:10:41](https://news.ycombinator.com/item?id=46205089) - [Using e-ink tablet as monitor for Linux](https://alavi.me/blog/e-ink-tablet-as-monitor-linux/)
 * [2025-12-09, 08:32:51](https://news.ycombinator.com/item?id=46202624) - [Dagger: Define software delivery workflows and dev environments](https://dagger.io/)
 * [2025-12-08, 14:50:47](https://news.ycombinator.com/item?id=46192845) - [Dhtml Lemmings (2004)](https://www.elizium.nu/scripts/lemmings/index.php)
-* [2025-12-08, 08:52:03](https://news.ycombinator.com/item?id=46189962) - [Using Python for Scripting](https://hypirion.com/musings/use-python-for-scripting)
 * [2025-12-08, 08:02:08](https://news.ycombinator.com/item?id=46189616) - [From Azure Functions to FreeBSD](https://jmmv.dev/2025/12/from-azure-functions-to-freebsd.html)
 * [2025-12-08, 05:13:21](https://news.ycombinator.com/item?id=46188626) - [Mystery Science Theater 3000: The Definitive Oral History of a TV Masterpiece](https://www.wired.com/2014/04/mst3k-oral-history/)
-* [2025-12-06, 11:48:45](https://news.ycombinator.com/item?id=46172586) - [Cryptids](https://wiki.bbchallenge.org/wiki/Cryptids)
 
 ## [Archives](archives/index.md)
 
