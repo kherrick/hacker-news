@@ -50,6 +50,7 @@
 * [2025-12-08, 15:12:28](https://news.ycombinator.com/item?id=46193116) - [Berkshire Hathaway Announces Leadership Appointments [pdf]](https://berkshirehathaway.com/news/dec0825.pdf)
 * [2025-12-08, 15:05:49](https://news.ycombinator.com/item?id=46193035) - [7.6 earthquake off the coast of Japan](https://www.data.jma.go.jp/multi/quake/quake_detail.html?eventID=20251208232600&lang=en)
 * [2025-12-08, 15:03:09](https://news.ycombinator.com/item?id=46192997) - [Nova Programming Language](https://nova-lang.net)
+* [2025-12-08, 15:02:35](https://news.ycombinator.com/item?id=46192988) - [Branch, Test, Deploy: A Git-Inspired Approach for Data](https://motherduck.com/blog/git-for-data-part-1/)
 * [2025-12-08, 15:00:29](https://news.ycombinator.com/item?id=46192962) - [Uber starts selling ride/eats data to marketers](https://www.businessinsider.com/uber-ads-launches-intelligence-insights-trips-takeout-data-marketers-2025-12)
 * [2025-12-08, 14:57:49](https://news.ycombinator.com/item?id=46192924) - [How we built context management for tab completion](https://docs.getpochi.com/developer-updates/context-management-in-your-editor/)
 * [2025-12-08, 14:50:48](https://news.ycombinator.com/item?id=46192846) - [Strong earthquake hits northern Japan, tsunami warning issued](https://www3.nhk.or.jp/nhkworld/en/news/20251209_02/)
