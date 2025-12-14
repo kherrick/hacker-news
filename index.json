@@ -151,16 +151,6 @@
   ],
   [
     [
-      "2025-12-14, 13:13:41",
-      "https://news.ycombinator.com/item?id=46262777"
-    ],
-    [
-      "Vacuum Is a Lie: About Your Indexes",
-      "https://boringsql.com/posts/vacuum-is-lie/"
-    ]
-  ],
-  [
-    [
       "2025-12-14, 13:04:34",
       "https://news.ycombinator.com/item?id=46262734"
     ],
@@ -245,8 +235,18 @@
       "https://news.ycombinator.com/item?id=46239726"
     ],
     [
-      "Disk can lie to you when you write to it",
+      "Disks Lie: Building a WAL that actually survives",
       "https://blog.canoozie.net/disks-lie-building-a-wal-that-actually-survives/"
+    ]
+  ],
+  [
+    [
+      "2025-12-11, 14:29:16",
+      "https://news.ycombinator.com/item?id=46231813"
+    ],
+    [
+      "Interview with Kent Overstreet (Bcachefs) [audio]",
+      "https://linuxunplugged.com/644"
     ]
   ],
   [
@@ -261,22 +261,22 @@
   ],
   [
     [
+      "2025-12-10, 20:49:22",
+      "https://news.ycombinator.com/item?id=46223617"
+    ],
+    [
+      "Show HN: Cargo-rail: graph-aware monorepo tooling for Rust; 11 deps",
+      "https://github.com/loadingalias/cargo-rail"
+    ]
+  ],
+  [
+    [
       "2025-12-10, 10:03:56",
       "https://news.ycombinator.com/item?id=46216008"
     ],
     [
       "Getting into Public Speaking",
       "https://james.brooks.page/blog/getting-into-public-speaking"
-    ]
-  ],
-  [
-    [
-      "2025-12-09, 14:10:41",
-      "https://news.ycombinator.com/item?id=46205089"
-    ],
-    [
-      "Using e-ink tablet as monitor for Linux",
-      "https://alavi.me/blog/e-ink-tablet-as-monitor-linux/"
     ]
   ],
   [
