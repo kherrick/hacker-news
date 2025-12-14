@@ -111,16 +111,6 @@
   ],
   [
     [
-      "2025-12-13, 20:30:34",
-      "https://news.ycombinator.com/item?id=46257714"
-    ],
-    [
-      "Why Twilio Segment moved from microservices back to a monolith",
-      "https://www.twilio.com/en-us/blog/developers/best-practices/goodbye-microservices"
-    ]
-  ],
-  [
-    [
       "2025-12-13, 20:19:53",
       "https://news.ycombinator.com/item?id=46257607"
     ],
@@ -177,6 +167,16 @@
     [
       "Useful patterns for building HTML tools",
       "https://simonwillison.net/2025/Dec/10/html-tools/"
+    ]
+  ],
+  [
+    [
+      "2025-12-10, 20:49:22",
+      "https://news.ycombinator.com/item?id=46223617"
+    ],
+    [
+      "Show HN: Cargo-rail: graph-aware monorepo tooling for Rust; 11 deps",
+      "https://github.com/loadingalias/cargo-rail"
     ]
   ],
   [
