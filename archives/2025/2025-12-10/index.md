@@ -44,6 +44,7 @@
 * [2025-12-10, 13:39:16](https://news.ycombinator.com/item?id=46217578) - [New benchmark shows top LLMs struggle in real mental health care](https://swordhealth.com/newsroom/sword-introduces-mindeval)
 * [2025-12-10, 13:36:52](https://news.ycombinator.com/item?id=46217559) - [Apple Faces Scrutiny as Sanctioned Entities Slip Through App Store Controls](https://www.washingtonpost.com/technology/2025/12/10/us-sanctions-apple-google/)
 * [2025-12-10, 12:57:38](https://news.ycombinator.com/item?id=46217176) - [McDonald's pulls AI Christmas ad after backlash](https://www.bbc.co.uk/news/articles/czdgrnvp082o)
+* [2025-12-10, 12:50:46](https://news.ycombinator.com/item?id=46217126) - [Create a Markdown Editor in Ruby on Rails](https://blog.appsignal.com/2025/12/10/create-a-markdown-editor-in-ruby-on-rails.html)
 * [2025-12-10, 12:37:30](https://news.ycombinator.com/item?id=46217026) - [US could ask foreign tourists for five-year social media history before entry](https://www.bbc.co.uk/news/articles/c1dz0g2ykpeo)
 * [2025-12-10, 11:33:31](https://news.ycombinator.com/item?id=46216583) - [Factor 0.101 now available](https://re.factorcode.org/2025/12/factor-0-101-now-available.html)
 * [2025-12-10, 11:10:58](https://news.ycombinator.com/item?id=46216446) - [Common Lisp, ASDF, and Quicklisp: packaging explained](https://cdegroot.com/programming/commonlisp/2025/11/26/cl-ql-asdf.html)
