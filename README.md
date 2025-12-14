@@ -26,8 +26,8 @@
 * [2025-12-12, 01:16:49](https://news.ycombinator.com/item?id=46239726) - [Disks Lie: Building a WAL that actually survives](https://blog.canoozie.net/disks-lie-building-a-wal-that-actually-survives/)
 * [2025-12-11, 14:29:16](https://news.ycombinator.com/item?id=46231813) - [Interview with Kent Overstreet (Bcachefs) [audio]](https://linuxunplugged.com/644)
 * [2025-12-10, 21:44:30](https://news.ycombinator.com/item?id=46224303) - [Developing a food-safe finish for my wooden spoons](https://alinpanaitiu.com/blog/developing-hardwax-oil/)
-* [2025-12-10, 20:49:22](https://news.ycombinator.com/item?id=46223617) - [Show HN: Cargo-rail: graph-aware monorepo tooling for Rust; 11 deps](https://github.com/loadingalias/cargo-rail)
 * [2025-12-10, 10:03:56](https://news.ycombinator.com/item?id=46216008) - [Getting into Public Speaking](https://james.brooks.page/blog/getting-into-public-speaking)
+* [2025-12-09, 14:10:41](https://news.ycombinator.com/item?id=46205089) - [Using e-ink tablet as monitor for Linux](https://alavi.me/blog/e-ink-tablet-as-monitor-linux/)
 * [2025-12-09, 09:05:01](https://news.ycombinator.com/item?id=46202853) - [Standalone Meshtastic Command Center – One HTML File Offline](https://github.com/Jordan-Townsend/Standalone)
 * [2025-12-08, 08:44:06](https://news.ycombinator.com/item?id=46189905) - [In the Beginning was the Command Line (1999)](https://web.stanford.edu/class/cs81n/command.txt)
 
