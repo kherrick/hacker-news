@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-12-14, 13:45:41",
+      "https://news.ycombinator.com/item?id=46262950"
+    ],
+    [
+      "Apple Maps claims it's 29,905 miles away",
+      "https://mathstodon.xyz/@dpiponi/115651419771418748"
+    ]
+  ],
+  [
+    [
       "2025-12-14, 13:19:15",
       "https://news.ycombinator.com/item?id=46262816"
     ],
@@ -31,6 +41,16 @@
   ],
   [
     [
+      "2025-12-14, 12:18:59",
+      "https://news.ycombinator.com/item?id=46262545"
+    ],
+    [
+      "The Gorman Paradox: Where Are All the AI-Generated Apps?",
+      "https://codemanship.wordpress.com/2025/12/14/the-gorman-paradox-where-are-all-the-ai-generated-apps/"
+    ]
+  ],
+  [
+    [
       "2025-12-14, 12:15:09",
       "https://news.ycombinator.com/item?id=46262524"
     ],
@@ -41,12 +61,12 @@
   ],
   [
     [
-      "2025-12-14, 08:21:59",
-      "https://news.ycombinator.com/item?id=46261616"
+      "2025-12-14, 10:07:00",
+      "https://news.ycombinator.com/item?id=46262021"
     ],
     [
-      "Bye, Mom",
-      "https://aella.substack.com/p/bye-mom"
+      "Shai-Hulud compromised a dev machine and raided GitHub org access: a post-mortem",
+      "https://trigger.dev/blog/shai-hulud-postmortem"
     ]
   ],
   [
@@ -57,16 +77,6 @@
     [
       "Compiler Engineering in Practice",
       "https://chisophugis.github.io/2025/12/08/compiler-engineering-in-practice-part-1-what-is-a-compiler.html"
-    ]
-  ],
-  [
-    [
-      "2025-12-14, 05:38:52",
-      "https://news.ycombinator.com/item?id=46261020"
-    ],
-    [
-      "“You should never build a CMS”",
-      "https://www.sanity.io/blog/you-should-never-build-a-cms"
     ]
   ],
   [
@@ -181,16 +191,6 @@
   ],
   [
     [
-      "2025-12-13, 15:37:16",
-      "https://news.ycombinator.com/item?id=46255285"
-    ],
-    [
-      "Ask HN: How can I get better at using AI for programming?",
-      "https://news.ycombinator.com/item?id=46255285"
-    ]
-  ],
-  [
-    [
       "2025-12-10, 21:08:41",
       "https://news.ycombinator.com/item?id=46223882"
     ],
@@ -217,6 +217,16 @@
     [
       "No-Tifier (2017)",
       "https://subject.space/projects/no-tifier/"
+    ]
+  ],
+  [
+    [
+      "2025-12-10, 17:27:18",
+      "https://news.ycombinator.com/item?id=46220578"
+    ],
+    [
+      "Using Git add -p for fun (and profit)",
+      "https://techne98.com/blog/using-git-add-p/"
     ]
   ],
   [
@@ -277,16 +287,6 @@
     [
       "Dagger: Define software delivery workflows and dev environments",
       "https://dagger.io/"
-    ]
-  ],
-  [
-    [
-      "2025-12-08, 14:50:47",
-      "https://news.ycombinator.com/item?id=46192845"
-    ],
-    [
-      "Dhtml Lemmings (2004)",
-      "https://www.elizium.nu/scripts/lemmings/index.php"
     ]
   ],
   [
