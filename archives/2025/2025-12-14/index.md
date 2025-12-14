@@ -6,6 +6,7 @@
 
 * [2025-12-14, 18:56:11](https://news.ycombinator.com/item?id=46265697) - [Update Now Warning Issued to All iPhone Users](https://www.forbes.com/sites/kateoflahertyuk/2025/12/14/ios-262-update-now-waning-issued-to-all-iphone-users/)
 * [2025-12-14, 18:51:02](https://news.ycombinator.com/item?id=46265636) - [Six Big Bets](https://www.jerry.wtf/posts/six-big-bets/)
+* [2025-12-14, 18:49:39](https://news.ycombinator.com/item?id=46265627) - [Cisco Finally Did It](https://www.ft.com/content/b27ae706-6244-4337-81cd-5204bd2b9a00)
 * [2025-12-14, 18:44:38](https://news.ycombinator.com/item?id=46265579) - [Stop crawling my HTML you dickheads – use the API](https://shkspr.mobi/blog/2025/12/stop-crawling-my-html-you-dickheads-use-the-api/)
 * [2025-12-14, 18:21:04](https://news.ycombinator.com/item?id=46265383) - [More atmospheric rivers coming for flooded Washington and the West Coast](https://www.cnn.com/2025/12/12/weather/washington-west-coast-flooding-atmospheric-rivers-climate)
 * [2025-12-14, 17:43:39](https://news.ycombinator.com/item?id=46265015) - [The Typeframe PX-88 Portable Computing System](https://www.typeframe.net/)
