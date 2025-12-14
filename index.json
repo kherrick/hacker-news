@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-12-14, 15:05:06",
+      "https://news.ycombinator.com/item?id=46263530"
+    ],
+    [
+      "Illuminating the processor core with LLVM-mca",
+      "https://abseil.io/fast/99"
+    ]
+  ],
+  [
+    [
       "2025-12-14, 13:45:41",
       "https://news.ycombinator.com/item?id=46262950"
     ],
@@ -17,6 +27,16 @@
     [
       "AI and the ironies of automation – Part 2",
       "https://www.ufried.com/blog/ironies_of_ai_2/"
+    ]
+  ],
+  [
+    [
+      "2025-12-14, 13:13:41",
+      "https://news.ycombinator.com/item?id=46262777"
+    ],
+    [
+      "Vacuum Is a Lie: About Your Indexes",
+      "https://boringsql.com/posts/vacuum-is-lie/"
     ]
   ],
   [
@@ -211,16 +231,6 @@
   ],
   [
     [
-      "2025-12-10, 17:27:18",
-      "https://news.ycombinator.com/item?id=46220578"
-    ],
-    [
-      "Using Git add -p for fun (and profit)",
-      "https://techne98.com/blog/using-git-add-p/"
-    ]
-  ],
-  [
-    [
       "2025-12-10, 12:50:46",
       "https://news.ycombinator.com/item?id=46217126"
     ],
@@ -247,16 +257,6 @@
     [
       "Cat Gap",
       "https://en.wikipedia.org/wiki/Cat_gap"
-    ]
-  ],
-  [
-    [
-      "2025-12-09, 21:10:52",
-      "https://news.ycombinator.com/item?id=46210705"
-    ],
-    [
-      "Go Proposal: Secret Mode",
-      "https://antonz.org/accepted/runtime-secret/"
     ]
   ],
   [
