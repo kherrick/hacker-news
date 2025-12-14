@@ -1,12 +1,22 @@
 [
   [
     [
-      "2025-12-13, 23:25:05",
-      "https://news.ycombinator.com/item?id=46259233"
+      "2025-12-13, 23:39:48",
+      "https://news.ycombinator.com/item?id=46259334"
     ],
     [
-      "Kids Rarely Read Whole Books Anymore. Even in English Class",
-      "https://www.nytimes.com/2025/12/12/us/high-school-english-teachers-assigning-books.html"
+      "Closures as Win32 Window Procedures",
+      "https://nullprogram.com/blog/2025/12/12/"
+    ]
+  ],
+  [
+    [
+      "2025-12-13, 23:04:26",
+      "https://news.ycombinator.com/item?id=46259095"
+    ],
+    [
+      "RemoveWindowsAI",
+      "https://github.com/zoicware/RemoveWindowsAI"
     ]
   ],
   [
@@ -27,6 +37,16 @@
     [
       "Flat-pack washing machine spins a fairer future",
       "https://www.positive.news/society/flat-pack-washing-machine-spins-a-fairer-future/"
+    ]
+  ],
+  [
+    [
+      "2025-12-13, 21:57:28",
+      "https://news.ycombinator.com/item?id=46258529"
+    ],
+    [
+      "Some surprising things about DuckDuckGo",
+      "https://gabrielweinberg.com/p/some-surprising-things-about-duckduckgo"
     ]
   ],
   [
@@ -101,6 +121,16 @@
   ],
   [
     [
+      "2025-12-13, 19:22:13",
+      "https://news.ycombinator.com/item?id=46257125"
+    ],
+    [
+      "llamafile: Distribute and Run LLMs with a Single File",
+      "https://github.com/mozilla-ai/llamafile"
+    ]
+  ],
+  [
+    [
       "2025-12-13, 18:39:53",
       "https://news.ycombinator.com/item?id=46256834"
     ],
@@ -147,16 +177,6 @@
     [
       "A Giant Ball Will Help This Man Survive a Year on an Iceberg",
       "https://www.outsideonline.com/outdoor-adventure/exploration-survival/how-giant-ball-will-help-man-survive-year-iceberg/"
-    ]
-  ],
-  [
-    [
-      "2025-12-13, 03:06:53",
-      "https://news.ycombinator.com/item?id=46251620"
-    ],
-    [
-      "A Lisp Interpreter Implemented in Conway's Game of Life (2021)",
-      "https://woodrush.github.io/blog/posts/2022-01-12-lisp-in-life.html"
     ]
   ],
   [
@@ -221,26 +241,6 @@
   ],
   [
     [
-      "2025-12-08, 21:27:20",
-      "https://news.ycombinator.com/item?id=46197871"
-    ],
-    [
-      "Pig Video Arcades Critique Life in the Pen (1997)",
-      "https://www.wired.com/1997/06/pig-video-arcades-critique-life-in-the-pen/"
-    ]
-  ],
-  [
-    [
-      "2025-12-08, 13:04:17",
-      "https://news.ycombinator.com/item?id=46191734"
-    ],
-    [
-      "A 'toaster with a lens': The story behind the first handheld digital camera",
-      "https://www.bbc.com/future/article/20251205-how-the-handheld-digital-camera-was-born"
-    ]
-  ],
-  [
-    [
       "2025-12-08, 08:52:03",
       "https://news.ycombinator.com/item?id=46189962"
     ],
@@ -271,22 +271,22 @@
   ],
   [
     [
-      "2025-12-07, 15:19:25",
-      "https://news.ycombinator.com/item?id=46182307"
-    ],
-    [
-      "Java FFM zero-copy transport using io_uring",
-      "https://www.mvp.express/"
-    ]
-  ],
-  [
-    [
       "2025-12-06, 22:29:29",
       "https://news.ycombinator.com/item?id=46177160"
     ],
     [
       "Photographer built a medium-format rangefinder",
       "https://petapixel.com/2025/12/06/this-photographer-built-an-awesome-medium-format-rangefinder-and-so-can-you/"
+    ]
+  ],
+  [
+    [
+      "2025-12-06, 21:06:46",
+      "https://news.ycombinator.com/item?id=46176592"
+    ],
+    [
+      "Will West Coast Jazz Get Some Respect?",
+      "https://www.honest-broker.com/p/will-west-coast-jazz-finally-get"
     ]
   ],
   [
