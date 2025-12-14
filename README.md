@@ -18,6 +18,7 @@
 * [2025-12-13, 17:01:25](https://news.ycombinator.com/item?id=46256002) - [EasyPost (YC S13) Is Hiring](https://www.easypost.com/careers)
 * [2025-12-13, 17:00:14](https://news.ycombinator.com/item?id=46255991) - [I tried Gleam for Advent of Code](https://blog.tymscar.com/posts/gleamaoc2025/)
 * [2025-12-13, 15:37:16](https://news.ycombinator.com/item?id=46255285) - [Ask HN: How can I get better at using AI for programming?](https://news.ycombinator.com/item?id=46255285)
+* [2025-12-11, 19:28:40](https://news.ycombinator.com/item?id=46236001) - [What is the nicest thing a stranger has ever done for you?](https://louplummer.lol/nice-stranger/)
 * [2025-12-10, 21:08:41](https://news.ycombinator.com/item?id=46223882) - [Useful patterns for building HTML tools](https://simonwillison.net/2025/Dec/10/html-tools/)
 * [2025-12-10, 19:13:49](https://news.ycombinator.com/item?id=46222162) - [Researchers seeking better measures of cognitive fatigue](https://www.nature.com/articles/d41586-025-03974-w)
 * [2025-12-10, 18:36:00](https://news.ycombinator.com/item?id=46221575) - [No-Tifier (2017)](https://subject.space/projects/no-tifier/)
@@ -28,7 +29,6 @@
 * [2025-12-08, 08:52:03](https://news.ycombinator.com/item?id=46189962) - [Using Python for Scripting](https://hypirion.com/musings/use-python-for-scripting)
 * [2025-12-08, 08:02:08](https://news.ycombinator.com/item?id=46189616) - [From Azure Functions to FreeBSD](https://jmmv.dev/2025/12/from-azure-functions-to-freebsd.html)
 * [2025-12-08, 05:13:21](https://news.ycombinator.com/item?id=46188626) - [Mystery Science Theater 3000: The Definitive Oral History of a TV Masterpiece](https://www.wired.com/2014/04/mst3k-oral-history/)
-* [2025-12-07, 03:42:37](https://news.ycombinator.com/item?id=46178966) - [Rio de Janeiro's talipot palm trees bloom for the first and only time](https://en.jardineriaon.com/The-talipot-palm-trees-of-Rio-de-Janeiro-bloom-for-the-first-and-only-time.html)
 * [2025-12-06, 11:48:45](https://news.ycombinator.com/item?id=46172586) - [Cryptids](https://wiki.bbchallenge.org/wiki/Cryptids)
 
 ## [Archives](archives/index.md)
