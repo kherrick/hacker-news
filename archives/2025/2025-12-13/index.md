@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-12-13](index.md)
 
+* [2025-12-13, 23:39:48](https://news.ycombinator.com/item?id=46259334) - [Closures as Win32 Window Procedures](https://nullprogram.com/blog/2025/12/12/)
 * [2025-12-13, 23:25:05](https://news.ycombinator.com/item?id=46259233) - [Kids Rarely Read Whole Books Anymore. Even in English Class](https://www.nytimes.com/2025/12/12/us/high-school-english-teachers-assigning-books.html)
+* [2025-12-13, 23:04:26](https://news.ycombinator.com/item?id=46259095) - [RemoveWindowsAI](https://github.com/zoicware/RemoveWindowsAI)
 * [2025-12-13, 22:58:29](https://news.ycombinator.com/item?id=46259064) - [Linux Sandboxes and Fil-C](https://fil-c.org/seccomp)
 * [2025-12-13, 22:38:08](https://news.ycombinator.com/item?id=46258906) - [Flat-pack washing machine spins a fairer future](https://www.positive.news/society/flat-pack-washing-machine-spins-a-fairer-future/)
 * [2025-12-13, 21:57:28](https://news.ycombinator.com/item?id=46258529) - [Some surprising things about DuckDuckGo you probably don't know](https://gabrielweinberg.com/p/some-surprising-things-about-duckduckgo)
@@ -19,6 +21,7 @@
 * [2025-12-13, 19:58:32](https://news.ycombinator.com/item?id=46257442) - [What is a build system, anyway?](https://jyn.dev/what-is-a-build-system-anyway/)
 * [2025-12-13, 19:54:51](https://news.ycombinator.com/item?id=46257410) - [We Lost Something: 1970s REPLs Were Better Than Modern Development Environments](https://programmingsimplicity.substack.com/p/we-lost-something-1970s-repls-were)
 * [2025-12-13, 19:46:19](https://news.ycombinator.com/item?id=46257339) - [VPN location claims don't match real traffic exits](https://ipinfo.io/blog/vpn-location-mismatch-report)
+* [2025-12-13, 19:22:13](https://news.ycombinator.com/item?id=46257125) - [llamafile: Distribute and Run LLMs with a Single File](https://github.com/mozilla-ai/llamafile)
 * [2025-12-13, 18:58:09](https://news.ycombinator.com/item?id=46256954) - [Dick Van Dyke turns 100](https://www.theguardian.com/film/2025/dec/13/dick-van-dyke-centenarian-100-mary-poppins-chitty-chitty-bang-bang)
 * [2025-12-13, 18:39:53](https://news.ycombinator.com/item?id=46256834) - [Former Apple, Google designer: \"Are we stuck with the same Desktop UX forever?\" [video]](https://www.youtube.com/watch?v=1fZTOjd_bOQ)
 * [2025-12-13, 18:12:42](https://news.ycombinator.com/item?id=46256584) - [How to Watch the Radiant Geminid Meteor Shower Tonight](https://www.smithsonianmag.com/smart-news/this-years-best-and-brightest-meteor-shower-peaks-this-weekend-heres-how-to-watch-the-radiant-geminids-180987858/)
