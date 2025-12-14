@@ -49,6 +49,7 @@
 * [2025-12-07, 09:06:39](https://news.ycombinator.com/item?id=46180291) - [A Struct Sockaddr Sequel](https://lwn.net/Articles/1045453/)
 * [2025-12-07, 04:14:03](https://news.ycombinator.com/item?id=46179103) - [Pdsink: USB Power Delivery Sink library for embedded devices](https://github.com/pdsink/pdsink)
 * [2025-12-07, 04:10:11](https://news.ycombinator.com/item?id=46179085) - [Scientists Link Popular Sugar Substitute (Sorbitol) to Liver Disease](https://scitechdaily.com/scientists-link-popular-sugar-substitute-to-liver-disease/)
+* [2025-12-07, 03:42:37](https://news.ycombinator.com/item?id=46178966) - [Rio de Janeiro's talipot palm trees bloom for the first and only time](https://en.jardineriaon.com/The-talipot-palm-trees-of-Rio-de-Janeiro-bloom-for-the-first-and-only-time.html)
 * [2025-12-07, 03:26:01](https://news.ycombinator.com/item?id=46178892) - [Discovering the Indieweb with Calm Tech](https://alexsci.com/blog/calm-tech-discover/)
 * [2025-12-07, 03:03:09](https://news.ycombinator.com/item?id=46178789) - [Z2 – Lithographically fabricated IC in a garage fab](https://sam.zeloof.xyz/second-ic/)
 * [2025-12-07, 01:47:23](https://news.ycombinator.com/item?id=46178464) - [Oblast: A better Blasto game for the Commodore 64](http://oldvcr.blogspot.com/2025/12/oblast-better-blasto-game-for-commodore.html)
