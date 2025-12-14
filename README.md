@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-12-14, 23:23:00](https://news.ycombinator.com/item?id=46268222) - [Claude CLI deleted my home directory Wiped my whole Mac](https://old.reddit.com/r/ClaudeAI/comments/1pgxckk/claude_cli_deleted_my_entire_home_directory_wiped/)
+* [2025-12-14, 22:46:01](https://news.ycombinator.com/item?id=46267947) - [History of Declarative Programming](https://shenlanguage.org/TBoS/tbos_15.html)
 * [2025-12-14, 22:15:00](https://news.ycombinator.com/item?id=46267623) - [From sci-fi to reality: Researchers realise quantum teleportation using tech](https://cordis.europa.eu/article/id/462587-from-sci-fi-to-reality-researchers-realise-quantum-teleportation-using-today-s-internet-tech)
 * [2025-12-14, 21:53:13](https://news.ycombinator.com/item?id=46267385) - [Anthropic Outage for Opus 4.5 and Sonnet 4/4.5 across all services](https://status.claude.com/incidents/9g6qpr72ttbr)
 * [2025-12-14, 21:05:13](https://news.ycombinator.com/item?id=46266875) - [2002: Last.fm and Audioscrobbler Herald the Social Web](https://cybercultural.com/p/lastfm-audioscrobbler-2002/)
@@ -26,8 +28,6 @@
 * [2025-12-12, 01:16:49](https://news.ycombinator.com/item?id=46239726) - [Disks Lie: Building a WAL that actually survives](https://blog.canoozie.net/disks-lie-building-a-wal-that-actually-survives/)
 * [2025-12-11, 14:29:16](https://news.ycombinator.com/item?id=46231813) - [Interview with Kent Overstreet (Bcachefs) [audio]](https://linuxunplugged.com/644)
 * [2025-12-10, 21:44:30](https://news.ycombinator.com/item?id=46224303) - [Developing a food-safe finish for my wooden spoons](https://alinpanaitiu.com/blog/developing-hardwax-oil/)
-* [2025-12-10, 10:03:56](https://news.ycombinator.com/item?id=46216008) - [Getting into Public Speaking](https://james.brooks.page/blog/getting-into-public-speaking)
-* [2025-12-09, 14:10:41](https://news.ycombinator.com/item?id=46205089) - [Using e-ink tablet as monitor for Linux](https://alavi.me/blog/e-ink-tablet-as-monitor-linux/)
 * [2025-12-09, 09:05:01](https://news.ycombinator.com/item?id=46202853) - [Standalone Meshtastic Command Center – One HTML File Offline](https://github.com/Jordan-Townsend/Standalone)
 * [2025-12-08, 08:44:06](https://news.ycombinator.com/item?id=46189905) - [In the Beginning was the Command Line (1999)](https://web.stanford.edu/class/cs81n/command.txt)
 
