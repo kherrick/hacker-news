@@ -20,6 +20,7 @@
 * [2025-12-14, 10:07:00](https://news.ycombinator.com/item?id=46262021) - [Shai-Hulud compromised a dev machine and raided GitHub org access: a post-mortem](https://trigger.dev/blog/shai-hulud-postmortem)
 * [2025-12-14, 07:45:15](https://news.ycombinator.com/item?id=46261452) - [Compiler Engineering in Practice](https://chisophugis.github.io/2025/12/08/compiler-engineering-in-practice-part-1-what-is-a-compiler.html)
 * [2025-12-13, 22:58:29](https://news.ycombinator.com/item?id=46259064) - [Linux Sandboxes and Fil-C](https://fil-c.org/seccomp)
+* [2025-12-13, 21:18:01](https://news.ycombinator.com/item?id=46258163) - [Recovering Anthony Bourdain's Li.st's](https://sandyuraz.com/blogs/bourdain/)
 * [2025-12-13, 20:19:53](https://news.ycombinator.com/item?id=46257607) - [I fed 24 years of my blog posts to a Markov model](https://susam.net/fed-24-years-of-posts-to-markov-model.html)
 * [2025-12-13, 17:00:14](https://news.ycombinator.com/item?id=46255991) - [I tried Gleam for Advent of Code](https://blog.tymscar.com/posts/gleamaoc2025/)
 * [2025-12-10, 21:44:30](https://news.ycombinator.com/item?id=46224303) - [Developing a food-safe finish for my wooden spoons](https://alinpanaitiu.com/blog/developing-hardwax-oil/)
@@ -29,7 +30,6 @@
 * [2025-12-09, 14:10:41](https://news.ycombinator.com/item?id=46205089) - [Using e-ink tablet as monitor for Linux](https://alavi.me/blog/e-ink-tablet-as-monitor-linux/)
 * [2025-12-09, 09:05:01](https://news.ycombinator.com/item?id=46202853) - [Standalone Meshtastic Command Center – One HTML File Offline](https://github.com/Jordan-Townsend/Standalone)
 * [2025-12-08, 08:44:06](https://news.ycombinator.com/item?id=46189905) - [In the Beginning Was the Command Line (1999)](https://web.stanford.edu/class/cs81n/command.txt)
-* [2025-12-06, 16:53:40](https://news.ycombinator.com/item?id=46174735) - [Science Communications on YouTube](https://blogs.memphis.edu/awindsor/2025/02/25/science-communication-on-youtube/)
 
 ## [Archives](archives/index.md)
 
