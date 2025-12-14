@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-12-14](index.md)
 
+* [2025-12-14, 03:13:38](https://news.ycombinator.com/item?id=46260474) - [Rocket Lab – 'Raise and Shine' Launch for JAXA [video]](https://www.youtube.com/watch?v=cMP328yoUu4)
+* [2025-12-14, 01:49:11](https://news.ycombinator.com/item?id=46260128) - [Lean Theorem Prover Mathlib](https://github.com/leanprover-community/mathlib4)
+* [2025-12-14, 01:32:36](https://news.ycombinator.com/item?id=46260039) - [Therapeutic Use of Cannabis and Cannabinoids: A Review](https://jamanetwork.com/journals/jama/fullarticle/2842072?guestAccessKey=a368e622-e374-4a0c-8d3b-22a976500305)
 * [2025-12-14, 01:19:50](https://news.ycombinator.com/item?id=46259970) - [Free Software Awards Winners Announced: Andy Wingo, Alx Sa, Govdirectory](https://www.fsf.org/news/2024-free-software-awards-winners)
 * [2025-12-14, 01:10:11](https://news.ycombinator.com/item?id=46259914) - [Awesome-Jj: Jujutsu Things](https://github.com/Necior/awesome-jj)
 * [2025-12-14, 00:34:56](https://news.ycombinator.com/item?id=46259702) - [An Implementation of J](https://www.jsoftware.com/ioj/ioj.htm)
