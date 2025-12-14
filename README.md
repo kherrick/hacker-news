@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-12-14, 18:44:38](https://news.ycombinator.com/item?id=46265579) - [Stop crawling my HTML you dickheads – use the API](https://shkspr.mobi/blog/2025/12/stop-crawling-my-html-you-dickheads-use-the-api/)
+* [2025-12-14, 18:21:04](https://news.ycombinator.com/item?id=46265383) - [More atmospheric rivers coming for flooded Washington and the West Coast](https://www.cnn.com/2025/12/12/weather/washington-west-coast-flooding-atmospheric-rivers-climate)
 * [2025-12-14, 17:43:39](https://news.ycombinator.com/item?id=46265015) - [The Typeframe PX-88 Portable Computing System](https://www.typeframe.net/)
-* [2025-12-14, 17:38:12](https://news.ycombinator.com/item?id=46264955) - [Sacrificing accessibility for not getting web scraped](https://tilschuenemann.de/projects/sacrificing-accessibility-for-not-getting-web-scraped)
 * [2025-12-14, 17:13:30](https://news.ycombinator.com/item?id=46264704) - [GraphQL: The Enterprise Honeymoon Is Over](https://johnjames.blog/posts/graphql-the-enterprise-honeymoon-is-over)
-* [2025-12-14, 17:10:08](https://news.ycombinator.com/item?id=46264657) - [Show HN: a Pager](https://www.udp7777.com/)
 * [2025-12-14, 16:55:29](https://news.ycombinator.com/item?id=46264492) - [Hashcards: A Plain-Text Spaced Repetition System](https://borretti.me/article/hashcards-plain-text-spaced-repetition)
 * [2025-12-14, 16:40:40](https://news.ycombinator.com/item?id=46264329) - [Rust Coreutils 0.5.0 Release: 87.75% compatibility with GNU Coreutils](https://github.com/uutils/coreutils/releases/tag/0.5.0)
 * [2025-12-14, 16:13:55](https://news.ycombinator.com/item?id=46264101) - [Update Now: iOS 26.2 Fixes 20 Security Vulnerabilities, 2 Actively Exploited](https://www.macrumors.com/2025/12/12/ios-26-2-security-vulnerabilities/)
@@ -16,7 +16,6 @@
 * [2025-12-14, 12:04:44](https://news.ycombinator.com/item?id=46262480) - [Efficient Basic Coding for the ZX Spectrum](https://blog.jafma.net/2020/02/24/efficient-basic-coding-for-the-zx-spectrum/)
 * [2025-12-14, 10:07:00](https://news.ycombinator.com/item?id=46262021) - [Shai-Hulud compromised a dev machine and raided GitHub org access: a post-mortem](https://trigger.dev/blog/shai-hulud-postmortem)
 * [2025-12-14, 07:45:15](https://news.ycombinator.com/item?id=46261452) - [Compiler Engineering in Practice](https://chisophugis.github.io/2025/12/08/compiler-engineering-in-practice-part-1-what-is-a-compiler.html)
-* [2025-12-14, 01:49:11](https://news.ycombinator.com/item?id=46260128) - [Lean theorem prover mathlib](https://github.com/leanprover-community/mathlib4)
 * [2025-12-14, 00:34:56](https://news.ycombinator.com/item?id=46259702) - [An Implementation of J (1992)](https://www.jsoftware.com/ioj/ioj.htm)
 * [2025-12-13, 22:58:29](https://news.ycombinator.com/item?id=46259064) - [Linux Sandboxes and Fil-C](https://fil-c.org/seccomp)
 * [2025-12-13, 21:18:01](https://news.ycombinator.com/item?id=46258163) - [Recovering Anthony Bourdain's Li.st's](https://sandyuraz.com/blogs/bourdain/)
@@ -28,6 +27,7 @@
 * [2025-12-10, 04:09:04](https://news.ycombinator.com/item?id=46213985) - [Cat Gap](https://en.wikipedia.org/wiki/Cat_gap)
 * [2025-12-09, 14:10:41](https://news.ycombinator.com/item?id=46205089) - [Using e-ink tablet as monitor for Linux](https://alavi.me/blog/e-ink-tablet-as-monitor-linux/)
 * [2025-12-09, 10:49:38](https://news.ycombinator.com/item?id=46203477) - [Building a Modern C64 Assembly AI Toolchain](https://medium.com/@gianlucabailo/building-a-modern-c64-assembly-ai-toolchain-using-google-gemini-3-1a36464c9458)
+* [2025-12-09, 09:05:01](https://news.ycombinator.com/item?id=46202853) - [Standalone Meshtastic Command Center – One HTML File Offline](https://github.com/Jordan-Townsend/Standalone)
 * [2025-12-08, 05:13:21](https://news.ycombinator.com/item?id=46188626) - [Mystery Science Theater 3000: The Definitive Oral History of a TV Masterpiece](https://www.wired.com/2014/04/mst3k-oral-history/)
 * [2025-12-06, 16:53:40](https://news.ycombinator.com/item?id=46174735) - [Science Communications on YouTube](https://blogs.memphis.edu/awindsor/2025/02/25/science-communication-on-youtube/)
 
