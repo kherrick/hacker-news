@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-12-14, 18:44:38",
+      "https://news.ycombinator.com/item?id=46265579"
+    ],
+    [
+      "Stop crawling my HTML you dickheads – use the API",
+      "https://shkspr.mobi/blog/2025/12/stop-crawling-my-html-you-dickheads-use-the-api/"
+    ]
+  ],
+  [
+    [
+      "2025-12-14, 18:21:04",
+      "https://news.ycombinator.com/item?id=46265383"
+    ],
+    [
+      "More atmospheric rivers coming for flooded Washington and the West Coast",
+      "https://www.cnn.com/2025/12/12/weather/washington-west-coast-flooding-atmospheric-rivers-climate"
+    ]
+  ],
+  [
+    [
       "2025-12-14, 17:43:39",
       "https://news.ycombinator.com/item?id=46265015"
     ],
@@ -11,32 +31,12 @@
   ],
   [
     [
-      "2025-12-14, 17:38:12",
-      "https://news.ycombinator.com/item?id=46264955"
-    ],
-    [
-      "Sacrificing accessibility for not getting web scraped",
-      "https://tilschuenemann.de/projects/sacrificing-accessibility-for-not-getting-web-scraped"
-    ]
-  ],
-  [
-    [
       "2025-12-14, 17:13:30",
       "https://news.ycombinator.com/item?id=46264704"
     ],
     [
       "GraphQL: The Enterprise Honeymoon Is Over",
       "https://johnjames.blog/posts/graphql-the-enterprise-honeymoon-is-over"
-    ]
-  ],
-  [
-    [
-      "2025-12-14, 17:10:08",
-      "https://news.ycombinator.com/item?id=46264657"
-    ],
-    [
-      "Show HN: a Pager",
-      "https://www.udp7777.com/"
     ]
   ],
   [
@@ -161,16 +161,6 @@
   ],
   [
     [
-      "2025-12-14, 01:49:11",
-      "https://news.ycombinator.com/item?id=46260128"
-    ],
-    [
-      "Lean theorem prover mathlib",
-      "https://github.com/leanprover-community/mathlib4"
-    ]
-  ],
-  [
-    [
       "2025-12-14, 00:34:56",
       "https://news.ycombinator.com/item?id=46259702"
     ],
@@ -277,6 +267,16 @@
     [
       "Building a Modern C64 Assembly AI Toolchain",
       "https://medium.com/@gianlucabailo/building-a-modern-c64-assembly-ai-toolchain-using-google-gemini-3-1a36464c9458"
+    ]
+  ],
+  [
+    [
+      "2025-12-09, 09:05:01",
+      "https://news.ycombinator.com/item?id=46202853"
+    ],
+    [
+      "Standalone Meshtastic Command Center – One HTML File Offline",
+      "https://github.com/Jordan-Townsend/Standalone"
     ]
   ],
   [
