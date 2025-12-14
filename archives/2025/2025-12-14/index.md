@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-12-14](index.md)
 
+* [2025-12-14, 21:05:13](https://news.ycombinator.com/item?id=46266875) - [2002: Last.fm and Audioscrobbler Herald the Social Web](https://cybercultural.com/p/lastfm-audioscrobbler-2002/)
+* [2025-12-14, 20:40:16](https://news.ycombinator.com/item?id=46266655) - [Opus 4.5 is the first model that makes me fear for my job](https://old.reddit.com/r/ClaudeAI/comments/1pmgk5c/opus_45_is_the_first_model_that_makes_me_actually/)
+* [2025-12-14, 19:42:53](https://news.ycombinator.com/item?id=46266102) - [JSDoc *Is* TypeScript](https://culi.bearblog.dev/jsdoc-is-typescript/)
 * [2025-12-14, 19:41:59](https://news.ycombinator.com/item?id=46266094) - [Do Dyslexia Fonts Actually Work? (2022)](https://www.edutopia.org/article/do-dyslexia-fonts-actually-work/)
 * [2025-12-14, 19:09:33](https://news.ycombinator.com/item?id=46265817) - [HyperCard on the Macintosh](https://stonetools.ghost.io/hypercard-mac/)
 * [2025-12-14, 19:08:57](https://news.ycombinator.com/item?id=46265811) - [GNU recutils: Plain text database](https://www.gnu.org/software/recutils/)

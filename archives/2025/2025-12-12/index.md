@@ -60,6 +60,7 @@
 * [2025-12-12, 01:41:15](https://news.ycombinator.com/item?id=46239895) - [Cadmium Zinc Telluride: The wonder material powering a medical 'revolution'](https://www.bbc.com/news/articles/c24l223d9n7o)
 * [2025-12-12, 01:28:43](https://news.ycombinator.com/item?id=46239820) - [The Boot Order of the Raspberry Pi Is Unusual](https://patrickmccanna.net/the-raspberry-pi-boot-order-is-unusual/)
 * [2025-12-12, 01:20:05](https://news.ycombinator.com/item?id=46239752) - [Google De-Indexed My Bear Blog and I Don't Know Why](https://journal.james-zhan.com/google-de-indexed-my-entire-bear-blog-and-i-dont-know-why/)
+* [2025-12-12, 01:16:49](https://news.ycombinator.com/item?id=46239726) - [Disk can lie to you when you write to it](https://blog.canoozie.net/disks-lie-building-a-wal-that-actually-survives/)
 * [2025-12-12, 01:05:30](https://news.ycombinator.com/item?id=46239673) - [Notes on Gamma](https://poniesandlight.co.uk/reflect/gamma/)
 * [2025-12-12, 00:59:46](https://news.ycombinator.com/item?id=46239629) - [CRISPR Fungus: Protein-Packed, Sustainable, and Tastes Like Meat](https://www.isaaa.org/kc/cropbiotechupdate/article/default.asp?ID=21607)
 * [2025-12-12, 00:37:42](https://news.ycombinator.com/item?id=46239445) - [The HTML-First Approach: Why Htmx and Lightweight Frameworks Are Revolutionizin](https://www.danieleteti.it/post/html-first-frameworks-htmx-revolution-en/#building-with-html-instead-of-fighting-with-javascript-layers-)
