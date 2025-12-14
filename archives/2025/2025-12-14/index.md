@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-12-14](index.md)
 
+* [2025-12-14, 10:07:47](https://news.ycombinator.com/item?id=46262025) - [University life: From 50 years ago to now (2019)](https://www.timeshighereducation.com/student/blogs/university-life-50-years-ago-now)
 * [2025-12-14, 09:16:58](https://news.ycombinator.com/item?id=46261838) - [Is P=NP?](https://adlrocha.substack.com/p/adlrocha-is-nnp)
 * [2025-12-14, 08:54:05](https://news.ycombinator.com/item?id=46261739) - [Surface Tension of Software](https://iamstelios.com/blog/surface-tension-of-software/)
 * [2025-12-14, 08:21:59](https://news.ycombinator.com/item?id=46261616) - [Bye, Mom](https://aella.substack.com/p/bye-mom)
