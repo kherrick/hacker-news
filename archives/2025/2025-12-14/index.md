@@ -4,11 +4,14 @@
 
 ### [Archives](../../index.md) for [2025-12-14](index.md)
 
+* [2025-12-14, 13:45:41](https://news.ycombinator.com/item?id=46262950) - [Apple Maps claims it's 29,905 miles away](https://mathstodon.xyz/@dpiponi/115651419771418748)
 * [2025-12-14, 13:19:15](https://news.ycombinator.com/item?id=46262816) - [AI and the ironies of automation – Part 2](https://www.ufried.com/blog/ironies_of_ai_2/)
 * [2025-12-14, 13:04:34](https://news.ycombinator.com/item?id=46262734) - [Kimi K2 1T model runs on 2 512GB M3 Ultras](https://twitter.com/awnihannun/status/1943723599971443134)
 * [2025-12-14, 12:34:35](https://news.ycombinator.com/item?id=46262592) - [Baumol's Cost Disease](https://en.wikipedia.org/wiki/Baumol_effect)
+* [2025-12-14, 12:18:59](https://news.ycombinator.com/item?id=46262545) - [The Gorman Paradox: Where Are All the AI-Generated Apps?](https://codemanship.wordpress.com/2025/12/14/the-gorman-paradox-where-are-all-the-ai-generated-apps/)
 * [2025-12-14, 12:15:09](https://news.ycombinator.com/item?id=46262524) - [Europeans' health data sold to US firm run by ex-Israeli spies](https://www.ftm.eu/articles/europe-health-data-us-firm-israel-spies)
 * [2025-12-14, 10:07:47](https://news.ycombinator.com/item?id=46262025) - [University life: From 50 years ago to now (2019)](https://www.timeshighereducation.com/student/blogs/university-life-50-years-ago-now)
+* [2025-12-14, 10:07:00](https://news.ycombinator.com/item?id=46262021) - [Shai-Hulud compromised a dev machine and raided GitHub org access: a post-mortem](https://trigger.dev/blog/shai-hulud-postmortem)
 * [2025-12-14, 09:16:58](https://news.ycombinator.com/item?id=46261838) - [Is P=NP?](https://adlrocha.substack.com/p/adlrocha-is-nnp)
 * [2025-12-14, 08:54:05](https://news.ycombinator.com/item?id=46261739) - [Surface Tension of Software](https://iamstelios.com/blog/surface-tension-of-software/)
 * [2025-12-14, 08:21:59](https://news.ycombinator.com/item?id=46261616) - [Bye, Mom](https://aella.substack.com/p/bye-mom)
