@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-12-14](index.md)
 
 * [2025-12-14, 23:23:00](https://news.ycombinator.com/item?id=46268222) - [Claude CLI deleted my home directory Wiped my whole Mac](https://old.reddit.com/r/ClaudeAI/comments/1pgxckk/claude_cli_deleted_my_entire_home_directory_wiped/)
+* [2025-12-14, 23:02:40](https://news.ycombinator.com/item?id=46268055) - [Ask HN: Is starting a personal blog still worth it in the age of AI?](https://news.ycombinator.com/item?id=46268055)
 * [2025-12-14, 22:46:01](https://news.ycombinator.com/item?id=46267947) - [History of Declarative Programming](https://shenlanguage.org/TBoS/tbos_15.html)
 * [2025-12-14, 22:15:00](https://news.ycombinator.com/item?id=46267623) - [From sci-fi to reality: Researchers realise quantum teleportation using tech](https://cordis.europa.eu/article/id/462587-from-sci-fi-to-reality-researchers-realise-quantum-teleportation-using-today-s-internet-tech)
 * [2025-12-14, 21:53:13](https://news.ycombinator.com/item?id=46267385) - [Anthropic Outage for Opus 4.5 and Sonnet 4/4.5 across all services](https://status.claude.com/incidents/9g6qpr72ttbr)
