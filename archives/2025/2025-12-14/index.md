@@ -13,6 +13,7 @@
 * [2025-12-14, 12:04:44](https://news.ycombinator.com/item?id=46262480) - [Efficient Basic Coding for the ZX Spectrum](https://blog.jafma.net/2020/02/24/efficient-basic-coding-for-the-zx-spectrum/)
 * [2025-12-14, 10:07:47](https://news.ycombinator.com/item?id=46262025) - [University life: From 50 years ago to now (2019)](https://www.timeshighereducation.com/student/blogs/university-life-50-years-ago-now)
 * [2025-12-14, 10:07:00](https://news.ycombinator.com/item?id=46262021) - [Shai-Hulud compromised a dev machine and raided GitHub org access: a post-mortem](https://trigger.dev/blog/shai-hulud-postmortem)
+* [2025-12-14, 10:01:25](https://news.ycombinator.com/item?id=46261998) - [Willison on Merchant's \"Copywriters reveal how AI has decimated their industry\"](https://simonwillison.net/2025/Dec/14/copywriters-reveal-how-ai-has-decimated-their-industry/)
 * [2025-12-14, 09:16:58](https://news.ycombinator.com/item?id=46261838) - [Is P=NP?](https://adlrocha.substack.com/p/adlrocha-is-nnp)
 * [2025-12-14, 08:54:05](https://news.ycombinator.com/item?id=46261739) - [Surface Tension of Software](https://iamstelios.com/blog/surface-tension-of-software/)
 * [2025-12-14, 08:21:59](https://news.ycombinator.com/item?id=46261616) - [Bye, Mom](https://aella.substack.com/p/bye-mom)

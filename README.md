@@ -8,6 +8,7 @@
 * [2025-12-14, 12:15:09](https://news.ycombinator.com/item?id=46262524) - [Europeans' health data sold to US firm run by ex-Israeli spies](https://www.ftm.eu/articles/europe-health-data-us-firm-israel-spies)
 * [2025-12-14, 12:04:44](https://news.ycombinator.com/item?id=46262480) - [Efficient Basic Coding for the ZX Spectrum](https://blog.jafma.net/2020/02/24/efficient-basic-coding-for-the-zx-spectrum/)
 * [2025-12-14, 10:07:00](https://news.ycombinator.com/item?id=46262021) - [Shai-Hulud compromised a dev machine and raided GitHub org access: a post-mortem](https://trigger.dev/blog/shai-hulud-postmortem)
+* [2025-12-14, 10:01:25](https://news.ycombinator.com/item?id=46261998) - [Willison on Merchant's \"Copywriters reveal how AI has decimated their industry\"](https://simonwillison.net/2025/Dec/14/copywriters-reveal-how-ai-has-decimated-their-industry/)
 * [2025-12-14, 07:45:15](https://news.ycombinator.com/item?id=46261452) - [Compiler Engineering in Practice](https://chisophugis.github.io/2025/12/08/compiler-engineering-in-practice-part-1-what-is-a-compiler.html)
 * [2025-12-14, 01:49:11](https://news.ycombinator.com/item?id=46260128) - [Lean theorem prover mathlib](https://github.com/leanprover-community/mathlib4)
 * [2025-12-14, 00:34:56](https://news.ycombinator.com/item?id=46259702) - [An Implementation of J (1992)](https://www.jsoftware.com/ioj/ioj.htm)
@@ -28,7 +29,6 @@
 * [2025-12-09, 14:10:41](https://news.ycombinator.com/item?id=46205089) - [Using e-ink tablet as monitor for Linux](https://alavi.me/blog/e-ink-tablet-as-monitor-linux/)
 * [2025-12-09, 10:49:38](https://news.ycombinator.com/item?id=46203477) - [Building a Modern C64 Assembly AI Toolchain](https://medium.com/@gianlucabailo/building-a-modern-c64-assembly-ai-toolchain-using-google-gemini-3-1a36464c9458)
 * [2025-12-09, 08:32:51](https://news.ycombinator.com/item?id=46202624) - [Dagger: Define software delivery workflows and dev environments](https://dagger.io/)
-* [2025-12-08, 14:50:47](https://news.ycombinator.com/item?id=46192845) - [Dhtml Lemmings (2004)](https://www.elizium.nu/scripts/lemmings/index.php)
 * [2025-12-08, 05:13:21](https://news.ycombinator.com/item?id=46188626) - [Mystery Science Theater 3000: The Definitive Oral History of a TV Masterpiece](https://www.wired.com/2014/04/mst3k-oral-history/)
 
 ## [Archives](archives/index.md)
