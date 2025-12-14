@@ -2,6 +2,7 @@
 
 * [2025-12-14, 17:43:39](https://news.ycombinator.com/item?id=46265015) - [The Typeframe PX-88 Portable Computing System](https://www.typeframe.net/)
 * [2025-12-14, 17:38:12](https://news.ycombinator.com/item?id=46264955) - [Sacrificing accessibility for not getting web scraped](https://tilschuenemann.de/projects/sacrificing-accessibility-for-not-getting-web-scraped)
+* [2025-12-14, 17:13:30](https://news.ycombinator.com/item?id=46264704) - [GraphQL: The Enterprise Honeymoon Is Over](https://johnjames.blog/posts/graphql-the-enterprise-honeymoon-is-over)
 * [2025-12-14, 17:10:08](https://news.ycombinator.com/item?id=46264657) - [Show HN: a Pager](https://www.udp7777.com/)
 * [2025-12-14, 16:55:29](https://news.ycombinator.com/item?id=46264492) - [Hashcards: A Plain-Text Spaced Repetition System](https://borretti.me/article/hashcards-plain-text-spaced-repetition)
 * [2025-12-14, 16:40:40](https://news.ycombinator.com/item?id=46264329) - [Rust Coreutils 0.5.0 Release: 87.75% compatibility with GNU Coreutils](https://github.com/uutils/coreutils/releases/tag/0.5.0)
@@ -18,7 +19,6 @@
 * [2025-12-14, 01:49:11](https://news.ycombinator.com/item?id=46260128) - [Lean theorem prover mathlib](https://github.com/leanprover-community/mathlib4)
 * [2025-12-14, 00:34:56](https://news.ycombinator.com/item?id=46259702) - [An Implementation of J (1992)](https://www.jsoftware.com/ioj/ioj.htm)
 * [2025-12-13, 22:58:29](https://news.ycombinator.com/item?id=46259064) - [Linux Sandboxes and Fil-C](https://fil-c.org/seccomp)
-* [2025-12-13, 22:38:08](https://news.ycombinator.com/item?id=46258906) - [An off-grid, flat-packable washing machine](https://www.positive.news/society/flat-pack-washing-machine-spins-a-fairer-future/)
 * [2025-12-13, 21:18:01](https://news.ycombinator.com/item?id=46258163) - [Recovering Anthony Bourdain's Li.st's](https://sandyuraz.com/blogs/bourdain/)
 * [2025-12-13, 20:19:53](https://news.ycombinator.com/item?id=46257607) - [I fed 24 years of my blog posts to a Markov model](https://susam.net/fed-24-years-of-posts-to-markov-model.html)
 * [2025-12-13, 17:00:14](https://news.ycombinator.com/item?id=46255991) - [I tried Gleam for Advent of Code](https://blog.tymscar.com/posts/gleamaoc2025/)

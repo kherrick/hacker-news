@@ -6,6 +6,7 @@
 
 * [2025-12-14, 17:43:39](https://news.ycombinator.com/item?id=46265015) - [The Typeframe PX-88 Portable Computing System](https://www.typeframe.net/)
 * [2025-12-14, 17:38:12](https://news.ycombinator.com/item?id=46264955) - [Sacrificing accessibility for not getting web scraped](https://tilschuenemann.de/projects/sacrificing-accessibility-for-not-getting-web-scraped)
+* [2025-12-14, 17:13:30](https://news.ycombinator.com/item?id=46264704) - [GraphQL: The Enterprise Honeymoon Is Over](https://johnjames.blog/posts/graphql-the-enterprise-honeymoon-is-over)
 * [2025-12-14, 17:10:08](https://news.ycombinator.com/item?id=46264657) - [Show HN: a Pager](https://www.udp7777.com/)
 * [2025-12-14, 16:55:29](https://news.ycombinator.com/item?id=46264492) - [Hashcards: A Plain-Text Spaced Repetition System](https://borretti.me/article/hashcards-plain-text-spaced-repetition)
 * [2025-12-14, 16:40:40](https://news.ycombinator.com/item?id=46264329) - [Rust Coreutils 0.5.0 Release: 87.75% compatibility with GNU Coreutils](https://github.com/uutils/coreutils/releases/tag/0.5.0)
