@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-12-14](index.md)
 
 * [2025-12-14, 18:56:11](https://news.ycombinator.com/item?id=46265697) - [Update Now Warning Issued to All iPhone Users](https://www.forbes.com/sites/kateoflahertyuk/2025/12/14/ios-262-update-now-waning-issued-to-all-iphone-users/)
+* [2025-12-14, 18:51:02](https://news.ycombinator.com/item?id=46265636) - [Six Big Bets](https://www.jerry.wtf/posts/six-big-bets/)
 * [2025-12-14, 18:44:38](https://news.ycombinator.com/item?id=46265579) - [Stop crawling my HTML you dickheads – use the API](https://shkspr.mobi/blog/2025/12/stop-crawling-my-html-you-dickheads-use-the-api/)
 * [2025-12-14, 18:21:04](https://news.ycombinator.com/item?id=46265383) - [More atmospheric rivers coming for flooded Washington and the West Coast](https://www.cnn.com/2025/12/12/weather/washington-west-coast-flooding-atmospheric-rivers-climate)
 * [2025-12-14, 17:43:39](https://news.ycombinator.com/item?id=46265015) - [The Typeframe PX-88 Portable Computing System](https://www.typeframe.net/)
@@ -12,6 +13,7 @@
 * [2025-12-14, 17:13:30](https://news.ycombinator.com/item?id=46264704) - [GraphQL: The Enterprise Honeymoon Is Over](https://johnjames.blog/posts/graphql-the-enterprise-honeymoon-is-over)
 * [2025-12-14, 17:10:08](https://news.ycombinator.com/item?id=46264657) - [Show HN: a Pager](https://www.udp7777.com/)
 * [2025-12-14, 16:55:29](https://news.ycombinator.com/item?id=46264492) - [Hashcards: A Plain-Text Spaced Repetition System](https://borretti.me/article/hashcards-plain-text-spaced-repetition)
+* [2025-12-14, 16:55:25](https://news.ycombinator.com/item?id=46264491) - [Ask HN: What Are You Working On? (December 2025)](https://news.ycombinator.com/item?id=46264491)
 * [2025-12-14, 16:40:40](https://news.ycombinator.com/item?id=46264329) - [Rust Coreutils 0.5.0 Release: 87.75% compatibility with GNU Coreutils](https://github.com/uutils/coreutils/releases/tag/0.5.0)
 * [2025-12-14, 16:13:55](https://news.ycombinator.com/item?id=46264101) - [Update Now: iOS 26.2 Fixes 20 Security Vulnerabilities, 2 Actively Exploited](https://www.macrumors.com/2025/12/12/ios-26-2-security-vulnerabilities/)
 * [2025-12-14, 16:09:44](https://news.ycombinator.com/item?id=46264068) - [Price of a bot army revealed across online platforms](https://www.cam.ac.uk/stories/price-bot-army-global-index)
