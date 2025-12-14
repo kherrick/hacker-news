@@ -8,6 +8,7 @@
 * [2025-12-14, 09:16:58](https://news.ycombinator.com/item?id=46261838) - [Is P=NP?](https://adlrocha.substack.com/p/adlrocha-is-nnp)
 * [2025-12-14, 08:54:05](https://news.ycombinator.com/item?id=46261739) - [Surface Tension of Software](https://iamstelios.com/blog/surface-tension-of-software/)
 * [2025-12-14, 08:21:59](https://news.ycombinator.com/item?id=46261616) - [Bye, Mom](https://aella.substack.com/p/bye-mom)
+* [2025-12-14, 07:45:15](https://news.ycombinator.com/item?id=46261452) - [Compiler Engineering in Practice](https://chisophugis.github.io/2025/12/08/compiler-engineering-in-practice-part-1-what-is-a-compiler.html)
 * [2025-12-14, 05:38:52](https://news.ycombinator.com/item?id=46261020) - [\"You should never build a CMS\"](https://www.sanity.io/blog/you-should-never-build-a-cms)
 * [2025-12-14, 04:11:05](https://news.ycombinator.com/item?id=46260686) - [Tiobe Index for December 2025: R Joins the Top as SQL Climbs](https://www.techrepublic.com/article/news-tiobe-commentary-dec-2025/)
 * [2025-12-14, 03:46:51](https://news.ycombinator.com/item?id=46260596) - [Heavy metal is healing teens on the Blackfeet Nation](https://www.hcn.org/issues/57-11/heavy-metal-is-healing-teens-on-the-blackfeet-nation/)
