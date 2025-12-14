@@ -45,6 +45,7 @@
 * [2025-12-09, 14:49:51](https://news.ycombinator.com/item?id=46205493) - [Show HN: I got tired of switching AI tools, so I built an IDE with 11 of them](https://hivetechs.io)
 * [2025-12-09, 14:47:20](https://news.ycombinator.com/item?id=46205461) - [My favourite small hash table](https://www.corsix.org/content/my-favourite-small-hash-table)
 * [2025-12-09, 14:45:01](https://news.ycombinator.com/item?id=46205437) - [Mistral Releases Devstral 2 (72.2% SWE-Bench Verified) and Vibe CLI](https://mistral.ai/news/devstral-2-vibe-cli)
+* [2025-12-09, 14:10:41](https://news.ycombinator.com/item?id=46205089) - [Using E-Ink tablet as monitor for Linux](https://alavi.me/blog/e-ink-tablet-as-monitor-linux/)
 * [2025-12-09, 14:00:53](https://news.ycombinator.com/item?id=46204998) - [Fate: A modern data client for React and tRPC](https://fate.technology/posts/introducing-fate)
 * [2025-12-09, 13:48:26](https://news.ycombinator.com/item?id=46204886) - [Rahm Emanuel says U.S. should follow Australia's youth social media ban](https://www.politico.com/news/2025/12/09/rahm-emanuel-says-u-s-should-follow-australias-youth-social-media-ban-00682185)
 * [2025-12-09, 13:45:01](https://news.ycombinator.com/item?id=46204853) - [Oliver Sacks Put Himself into His Case Studies. What Was the Cost?](https://www.newyorker.com/magazine/2025/12/15/oliver-sacks-put-himself-into-his-case-studies-what-was-the-cost)
