@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-12-14](index.md)
 
+* [2025-12-14, 09:16:58](https://news.ycombinator.com/item?id=46261838) - [Is P=NP?](https://adlrocha.substack.com/p/adlrocha-is-nnp)
 * [2025-12-14, 08:54:05](https://news.ycombinator.com/item?id=46261739) - [Surface Tension of Software](https://iamstelios.com/blog/surface-tension-of-software/)
 * [2025-12-14, 08:21:59](https://news.ycombinator.com/item?id=46261616) - [Bye, Mom](https://aella.substack.com/p/bye-mom)
 * [2025-12-14, 05:38:52](https://news.ycombinator.com/item?id=46261020) - [\"You should never build a CMS\"](https://www.sanity.io/blog/you-should-never-build-a-cms)
