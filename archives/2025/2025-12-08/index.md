@@ -24,6 +24,7 @@
 * [2025-12-08, 18:51:03](https://news.ycombinator.com/item?id=46196105) - [Jepsen: NATS 2.12.1](https://jepsen.io/analyses/nats-2.12.1)
 * [2025-12-08, 18:48:27](https://news.ycombinator.com/item?id=46196076) - [Deep dive on Nvidia circular funding](https://philippeoger.com/pages/deep-dive-into-nvidias-virtuous-cycle)
 * [2025-12-08, 18:13:59](https://news.ycombinator.com/item?id=46195679) - [Deprecations via warnings don't work for Python libraries](https://sethmlarson.dev/deprecations-via-warnings-dont-work-for-python-libraries)
+* [2025-12-08, 17:39:57](https://news.ycombinator.com/item?id=46195226) - [Twins reared apart do not exist](https://davidbessis.substack.com/p/twins-reared-apart-do-not-exist)
 * [2025-12-08, 17:39:55](https://news.ycombinator.com/item?id=46195225) - [Quanta to Publish Popular Math and Physics Titles by Terence Tao and David Tong](https://www.simonsfoundation.org/2025/12/08/quanta-books-to-publish-popular-math-and-physics-titles-by-terence-tao-and-david-tong/)
 * [2025-12-08, 17:38:59](https://news.ycombinator.com/item?id=46195205) - [\"The Matilda Effect\": How Pioneering Women Are Written Out of Science History](https://www.openculture.com/2025/12/matilda-effect.html)
 * [2025-12-08, 17:38:34](https://news.ycombinator.com/item?id=46195198) - [AI should only run as fast as we can catch up](https://higashi.blog/2025/12/07/ai-verification/)
