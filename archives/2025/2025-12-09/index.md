@@ -64,6 +64,7 @@
 * [2025-12-09, 10:20:02](https://news.ycombinator.com/item?id=46203343) - [How Google Maps allocates survival across London's restaurants](https://laurenleek.substack.com/p/how-google-maps-quietly-allocates)
 * [2025-12-09, 09:48:55](https://news.ycombinator.com/item?id=46203138) - [The Joy of Playing Grandia, on Sega Saturn](https://www.segasaturnshiro.com/2025/11/27/the-joy-of-playing-grandia-on-sega-saturn/)
 * [2025-12-09, 09:13:56](https://news.ycombinator.com/item?id=46202921) - [30 Year Anniversary of WarCraft II: Tides of Darkness](https://www.jorsys.org/archive/december_2025.html#newsitem_2025-12-09T07:42:19Z)
+* [2025-12-09, 08:32:51](https://news.ycombinator.com/item?id=46202624) - [Dagger: Define software delivery workflows and dev environments](https://dagger.io/)
 * [2025-12-09, 07:33:17](https://news.ycombinator.com/item?id=46202254) - [Optical Context Compression Is Just (Bad) Autoencoding](https://arxiv.org/abs/2512.03643)
 * [2025-12-09, 07:01:38](https://news.ycombinator.com/item?id=46202058) - [A thousand-year-long composition turns 25 (2024)](https://longplayer.org/news/2024/12/31/a-thousand-year-long-composition-turns-25/)
 * [2025-12-09, 06:01:57](https://news.ycombinator.com/item?id=46201750) - [The closer we look at time, the stranger it gets](https://www.sciencefocus.com/science/the-closer-we-look-at-time-the-stranger-it-gets)
