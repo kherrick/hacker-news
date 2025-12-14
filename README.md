@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-12-14, 05:38:52](https://news.ycombinator.com/item?id=46261020) - [\"You should never build a CMS\"](https://www.sanity.io/blog/you-should-never-build-a-cms)
+* [2025-12-14, 05:38:52](https://news.ycombinator.com/item?id=46261020) - [“You should never build a CMS”](https://www.sanity.io/blog/you-should-never-build-a-cms)
 * [2025-12-14, 03:46:51](https://news.ycombinator.com/item?id=46260596) - [Heavy metal is healing teens on the Blackfeet Nation](https://www.hcn.org/issues/57-11/heavy-metal-is-healing-teens-on-the-blackfeet-nation/)
 * [2025-12-14, 01:49:11](https://news.ycombinator.com/item?id=46260128) - [Lean Theorem Prover Mathlib](https://github.com/leanprover-community/mathlib4)
 * [2025-12-14, 01:43:33](https://news.ycombinator.com/item?id=46260106) - [If a Meta AI model can read a brain-wide signal, why wouldn't the brain?](https://1393.xyz/writing/if-a-meta-ai-model-can-read-a-brain-wide-signal-why-wouldnt-the-brain)
