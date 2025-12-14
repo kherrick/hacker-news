@@ -7,6 +7,7 @@
 * [2025-12-10, 22:45:27](https://news.ycombinator.com/item?id=46225045) - [The Secret Life of Moles: What They're Up to Underground](https://thenaturenetwork.co.uk/the-secret-life-of-moles-what-theyre-really-up-to-underground/)
 * [2025-12-10, 22:10:25](https://news.ycombinator.com/item?id=46224610) - [Rubio orders return to Times New Roman font over 'wasteful' Calibri](https://www.bbc.com/news/articles/cgkez3367xmo)
 * [2025-12-10, 21:45:11](https://news.ycombinator.com/item?id=46224311) - [When Would You Ever Want Bubblesort?](https://buttondown.com/hillelwayne/archive/when-would-you-ever-want-bubblesort/)
+* [2025-12-10, 21:44:30](https://news.ycombinator.com/item?id=46224303) - [Developing a food-safe finish for my wooden spoons](https://alinpanaitiu.com/blog/developing-hardwax-oil/)
 * [2025-12-10, 21:08:41](https://news.ycombinator.com/item?id=46223882) - [Useful patterns for building HTML tools](https://simonwillison.net/2025/Dec/10/html-tools/)
 * [2025-12-10, 20:49:22](https://news.ycombinator.com/item?id=46223617) - [Show HN: Cargo-rail: graph-aware monorepo tooling for Rust; 11 deps](https://github.com/loadingalias/cargo-rail)
 * [2025-12-10, 20:47:15](https://news.ycombinator.com/item?id=46223577) - [Apple Services Experiencing Outage](https://www.apple.com/support/systemstatus/)
