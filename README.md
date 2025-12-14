@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-12-14, 10:07:47](https://news.ycombinator.com/item?id=46262025) - [University life: From 50 years ago to now (2019)](https://www.timeshighereducation.com/student/blogs/university-life-50-years-ago-now)
-* [2025-12-14, 08:54:05](https://news.ycombinator.com/item?id=46261739) - [Surface Tension of Software](https://iamstelios.com/blog/surface-tension-of-software/)
 * [2025-12-14, 08:21:59](https://news.ycombinator.com/item?id=46261616) - [Bye, Mom](https://aella.substack.com/p/bye-mom)
 * [2025-12-14, 03:46:51](https://news.ycombinator.com/item?id=46260596) - [Heavy metal is healing teens on the Blackfeet Nation](https://www.hcn.org/issues/57-11/heavy-metal-is-healing-teens-on-the-blackfeet-nation/)
 * [2025-12-14, 01:49:11](https://news.ycombinator.com/item?id=46260128) - [Lean theorem prover mathlib](https://github.com/leanprover-community/mathlib4)
@@ -18,6 +17,7 @@
 * [2025-12-13, 17:00:14](https://news.ycombinator.com/item?id=46255991) - [I tried Gleam for Advent of Code](https://blog.tymscar.com/posts/gleamaoc2025/)
 * [2025-12-13, 15:37:16](https://news.ycombinator.com/item?id=46255285) - [Ask HN: How can I get better at using AI for programming?](https://news.ycombinator.com/item?id=46255285)
 * [2025-12-10, 21:08:41](https://news.ycombinator.com/item?id=46223882) - [Useful patterns for building HTML tools](https://simonwillison.net/2025/Dec/10/html-tools/)
+* [2025-12-10, 19:13:49](https://news.ycombinator.com/item?id=46222162) - [Researchers seeking better measures of cognitive fatigue](https://www.nature.com/articles/d41586-025-03974-w)
 * [2025-12-10, 18:36:00](https://news.ycombinator.com/item?id=46221575) - [No-Tifier (2017)](https://subject.space/projects/no-tifier/)
 * [2025-12-10, 12:50:46](https://news.ycombinator.com/item?id=46217126) - [Create a Markdown Editor in Ruby on Rails](https://blog.appsignal.com/2025/12/10/create-a-markdown-editor-in-ruby-on-rails.html)
 * [2025-12-10, 10:03:56](https://news.ycombinator.com/item?id=46216008) - [Getting into Public Speaking](https://james.brooks.page/blog/getting-into-public-speaking)
