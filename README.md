@@ -2,14 +2,13 @@
 
 * [2025-12-14, 16:13:55](https://news.ycombinator.com/item?id=46264101) - [Update Now: iOS 26.2 Fixes 20 Security Vulnerabilities, 2 Actively Exploited](https://www.macrumors.com/2025/12/12/ios-26-2-security-vulnerabilities/)
 * [2025-12-14, 15:49:59](https://news.ycombinator.com/item?id=46263903) - [Private Equity Finds a New Source of Profit: Volunteer Fire Departments](https://www.nytimes.com/2025/12/14/us/fire-department-software-private-equity.html)
-* [2025-12-14, 15:43:51](https://news.ycombinator.com/item?id=46263838) - [Claude Code's DX is too good. And that's a problem](https://www.bharath.sh/writing/claude-code-dx)
+* [2025-12-14, 15:47:59](https://news.ycombinator.com/item?id=46263874) - [AI was not invented, it arrived](https://andrewarrow.dev/2025/12/ai-was-not-invented-it-arrived/)
 * [2025-12-14, 15:05:06](https://news.ycombinator.com/item?id=46263530) - [Illuminating the processor core with LLVM-mca](https://abseil.io/fast/99)
 * [2025-12-14, 13:45:41](https://news.ycombinator.com/item?id=46262950) - [Apple Maps claims it's 29,905 miles away](https://mathstodon.xyz/@dpiponi/115651419771418748)
 * [2025-12-14, 13:19:15](https://news.ycombinator.com/item?id=46262816) - [AI and the ironies of automation – Part 2](https://www.ufried.com/blog/ironies_of_ai_2/)
 * [2025-12-14, 13:13:41](https://news.ycombinator.com/item?id=46262777) - [Vacuum Is a Lie: About Your Indexes](https://boringsql.com/posts/vacuum-is-lie/)
 * [2025-12-14, 13:04:34](https://news.ycombinator.com/item?id=46262734) - [Kimi K2 1T model runs on 2 512GB M3 Ultras](https://twitter.com/awnihannun/status/1943723599971443134)
 * [2025-12-14, 12:34:35](https://news.ycombinator.com/item?id=46262592) - [Baumol's Cost Disease](https://en.wikipedia.org/wiki/Baumol_effect)
-* [2025-12-14, 12:18:59](https://news.ycombinator.com/item?id=46262545) - [The Gorman Paradox: Where Are All the AI-Generated Apps?](https://codemanship.wordpress.com/2025/12/14/the-gorman-paradox-where-are-all-the-ai-generated-apps/)
 * [2025-12-14, 12:15:09](https://news.ycombinator.com/item?id=46262524) - [Europeans' health data sold to US firm run by ex-Israeli spies](https://www.ftm.eu/articles/europe-health-data-us-firm-israel-spies)
 * [2025-12-14, 12:04:44](https://news.ycombinator.com/item?id=46262480) - [Efficient Basic Coding for the ZX Spectrum](https://blog.jafma.net/2020/02/24/efficient-basic-coding-for-the-zx-spectrum/)
 * [2025-12-14, 10:07:00](https://news.ycombinator.com/item?id=46262021) - [Shai-Hulud compromised a dev machine and raided GitHub org access: a post-mortem](https://trigger.dev/blog/shai-hulud-postmortem)
@@ -30,6 +29,7 @@
 * [2025-12-09, 10:49:38](https://news.ycombinator.com/item?id=46203477) - [Building a Modern C64 Assembly AI Toolchain](https://medium.com/@gianlucabailo/building-a-modern-c64-assembly-ai-toolchain-using-google-gemini-3-1a36464c9458)
 * [2025-12-09, 08:32:51](https://news.ycombinator.com/item?id=46202624) - [Dagger: Define software delivery workflows and dev environments](https://dagger.io/)
 * [2025-12-08, 05:13:21](https://news.ycombinator.com/item?id=46188626) - [Mystery Science Theater 3000: The Definitive Oral History of a TV Masterpiece](https://www.wired.com/2014/04/mst3k-oral-history/)
+* [2025-12-06, 16:53:40](https://news.ycombinator.com/item?id=46174735) - [Science Communications on YouTube](https://blogs.memphis.edu/awindsor/2025/02/25/science-communication-on-youtube/)
 
 ## [Archives](archives/index.md)
 

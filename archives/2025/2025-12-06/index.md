@@ -36,6 +36,7 @@
 * [2025-12-06, 17:13:03](https://news.ycombinator.com/item?id=46174878) - [Show HN: SFX – A language where 0.1 and 0.2 = 0.3 and Context is first-class](https://github.com/roriau0422/sfex-lang)
 * [2025-12-06, 17:01:53](https://news.ycombinator.com/item?id=46174789) - [Infisical (YC W23) Is Hiring Engineers to Build the Modern OSS Security Stack](https://www.ycombinator.com/companies/infisical/jobs/2pwGcK9-senior-full-stack-engineer-us-canada)
 * [2025-12-06, 16:55:13](https://news.ycombinator.com/item?id=46174744) - [Ireland's Inability to Defend Itself](https://www.irishpoliticsnewsletter.ie/p/ireland-neutrality)
+* [2025-12-06, 16:53:40](https://news.ycombinator.com/item?id=46174735) - [Science Communications on YouTube](https://blogs.memphis.edu/awindsor/2025/02/25/science-communication-on-youtube/)
 * [2025-12-06, 16:27:35](https://news.ycombinator.com/item?id=46174534) - [VCMI: An open-source engine for Heroes III](https://vcmi.eu/)
 * [2025-12-06, 15:52:04](https://news.ycombinator.com/item?id=46174242) - [Skin-Shedding Code (2024)](https://registerspill.thorstenball.com/p/skin-shedding-code)
 * [2025-12-06, 15:34:26](https://news.ycombinator.com/item?id=46174114) - [4B If Statements](https://andreasjhkarlsson.github.io//jekyll/update/2023/12/27/4-billion-if-statements.html)
