@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-12-15, 06:05:35](https://news.ycombinator.com/item?id=46270972) - [Why proteins fold and how GPUs help us fold](https://aval.bearblog.dev/nvidiaproteins/)
 * [2025-12-15, 05:46:35](https://news.ycombinator.com/item?id=46270882) - [Common Rust Lifetime Misconceptions](https://github.com/pretzelhammer/rust-blog/blob/master/posts/common-rust-lifetime-misconceptions.md)
 * [2025-12-15, 04:15:21](https://news.ycombinator.com/item?id=46270415) - [Read Something Wonderful](https://readsomethingwonderful.com/)
 * [2025-12-15, 04:09:51](https://news.ycombinator.com/item?id=46270386) - [The Whole App is a Blob](https://drobinin.com/posts/the-whole-app-is-a-blob/)
@@ -25,6 +24,7 @@
 * [2025-12-11, 18:54:42](https://news.ycombinator.com/item?id=46235460) - [The History of Xerox](https://www.abortretry.fail/p/the-history-of-xerox)
 * [2025-12-11, 09:30:32](https://news.ycombinator.com/item?id=46229350) - [A trip through the Graphics Pipeline (2011)](https://fgiesen.wordpress.com/2011/07/09/a-trip-through-the-graphics-pipeline-2011-index/)
 * [2025-12-11, 08:42:22](https://news.ycombinator.com/item?id=46229030) - [$5 whale listening hydrophone making workshop](https://exclav.es/2025/08/03/dinacon-2025-passive-acoustic-listening/)
+* [2025-12-10, 10:03:56](https://news.ycombinator.com/item?id=46216008) - [Getting into public speaking](https://james.brooks.page/blog/getting-into-public-speaking)
 * [2025-12-09, 22:44:19](https://news.ycombinator.com/item?id=46211767) - [How well do you know C++ auto type deduction?](https://www.volatileint.dev/posts/auto-type-deduction-gauntlet/)
 * [2025-12-08, 21:54:12](https://news.ycombinator.com/item?id=46198177) - [Running on Empty: Copper](https://thehonestsorcerer.substack.com/p/running-on-empty-copper)
 * [2025-12-08, 08:44:06](https://news.ycombinator.com/item?id=46189905) - [In the Beginning was the Command Line (1999)](https://web.stanford.edu/class/cs81n/command.txt)
