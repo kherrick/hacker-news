@@ -24,6 +24,7 @@
 * [2025-12-13, 19:22:13](https://news.ycombinator.com/item?id=46257125) - [llamafile: Distribute and Run LLMs with a Single File](https://github.com/mozilla-ai/llamafile)
 * [2025-12-13, 18:58:09](https://news.ycombinator.com/item?id=46256954) - [Dick Van Dyke turns 100](https://www.theguardian.com/film/2025/dec/13/dick-van-dyke-centenarian-100-mary-poppins-chitty-chitty-bang-bang)
 * [2025-12-13, 18:39:53](https://news.ycombinator.com/item?id=46256834) - [Former Apple, Google designer: \"Are we stuck with the same Desktop UX forever?\" [video]](https://www.youtube.com/watch?v=1fZTOjd_bOQ)
+* [2025-12-13, 18:19:51](https://news.ycombinator.com/item?id=46256643) - [Essential Semiconductor Physics,Mark Lundstrom Purdue University [pdf]](https://nanohub.org/resources/43623/download/Essential_Semiconductor_Physics.pdf)
 * [2025-12-13, 18:12:42](https://news.ycombinator.com/item?id=46256584) - [How to Watch the Radiant Geminid Meteor Shower Tonight](https://www.smithsonianmag.com/smart-news/this-years-best-and-brightest-meteor-shower-peaks-this-weekend-heres-how-to-watch-the-radiant-geminids-180987858/)
 * [2025-12-13, 18:02:46](https://news.ycombinator.com/item?id=46256504) - [Purrtran – ᓚᘏᗢ – A Programming Language for Cat People](https://github.com/cmontella/purrtran)
 * [2025-12-13, 17:41:32](https://news.ycombinator.com/item?id=46256325) - [Fast, Memory-Efficient Hash Table in Java: Borrowing the Best Ideas](https://bluuewhale.github.io/posts/building-a-fast-and-memory-efficient-hash-table-in-java-by-borrowing-the-best-ideas/)
