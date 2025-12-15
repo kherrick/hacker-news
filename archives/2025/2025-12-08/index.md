@@ -72,6 +72,7 @@
 * [2025-12-08, 13:04:17](https://news.ycombinator.com/item?id=46191734) - [A 'toaster with a lens': The story behind the first handheld digital camera](https://www.bbc.com/future/article/20251205-how-the-handheld-digital-camera-was-born)
 * [2025-12-08, 12:54:42](https://news.ycombinator.com/item?id=46191672) - [Removing juries: 'A move towards an authoritarian state'](https://www.theguardian.com/law/2025/dec/07/authoritarian-state-trial-by-jury-uk)
 * [2025-12-08, 12:46:50](https://news.ycombinator.com/item?id=46191597) - [How the Brain Parses Language](https://www.quantamagazine.org/the-polyglot-neuroscientist-resolving-how-the-brain-parses-language-20251205/)
+* [2025-12-08, 12:45:34](https://news.ycombinator.com/item?id=46191589) - [Checkpointing the Message Processing](https://event-driven.io/en/checkpointing_message_processing/)
 * [2025-12-08, 12:24:29](https://news.ycombinator.com/item?id=46191449) - [Slax: Live Pocket Linux](https://www.slax.org/)
 * [2025-12-08, 12:01:13](https://news.ycombinator.com/item?id=46191269) - [Nango (YC W23) is hiring back-end engineers and dev-rels (remote)](https://jobs.ashbyhq.com/Nango)
 * [2025-12-08, 11:49:40](https://news.ycombinator.com/item?id=46191207) - [Golang optimizations for high‑volume services](https://packagemain.tech/p/golang-optimizations-for-highvolume)
@@ -108,4 +109,5 @@
 * [2025-12-08, 00:37:42](https://news.ycombinator.com/item?id=46186990) - [What folk can do](https://folk.computer/guides/what-folk-can-do)
 * [2025-12-08, 00:31:12](https://news.ycombinator.com/item?id=46186950) - [Toyota Unintended Acceleration and the Big Bowl of \"Spaghetti\" Code(2013)](https://www.safetyresearch.net/toyota-unintended-acceleration-and-the-big-bowl-of-spaghetti-code/)
 * [2025-12-08, 00:26:04](https://news.ycombinator.com/item?id=46186917) - [Show HN: Cdecl-dump - represent C declarations visually](https://github.com/bbu/cdecl-dump)
+* [2025-12-08, 00:25:34](https://news.ycombinator.com/item?id=46186914) - [An Attempt at a Compelling Articulation of Forth's Practical Strengths and Eter](https://im-just-lee.ing/forth-why-cb234c03.txt)
 * [2025-12-08, 00:23:45](https://news.ycombinator.com/item?id=46186900) - [The era of jobs is ending](https://www.thepavement.xyz/p/the-era-of-jobs-is-ending)
