@@ -22,6 +22,7 @@
 * [2025-12-11, 19:18:27](https://news.ycombinator.com/item?id=46235859) - [Last quarter I rolled out Microsoft Copilot to 4k employees](https://twitter.com/gothburz/status/1999124665801880032)
 * [2025-12-11, 19:03:45](https://news.ycombinator.com/item?id=46235618) - [Pop!_OS 24.04 LTS with Cosmic Desktop Environment Released](https://blog.system76.com/post/pop-os-letter-from-our-founder/)
 * [2025-12-11, 18:58:49](https://news.ycombinator.com/item?id=46235531) - [Age Verification Is Coming for the Internet](https://www.eff.org/deeplinks/2025/12/age-verification-coming-internet-we-built-you-resource-hub-fight-back)
+* [2025-12-11, 18:54:42](https://news.ycombinator.com/item?id=46235460) - [The History of Xerox](https://www.abortretry.fail/p/the-history-of-xerox)
 * [2025-12-11, 18:52:08](https://news.ycombinator.com/item?id=46235412) - [Going Through Snowden Documents, Part 1](https://libroot.org/posts/going-through-snowden-documents-part-1/)
 * [2025-12-11, 18:17:19](https://news.ycombinator.com/item?id=46234920) - [Rivian Unveils Custom Silicon, R2 Lidar Roadmap, and Universal Hands Free](https://riviantrackr.com/news/rivian-unveils-custom-silicon-r2-lidar-roadmap-universal-hands-free-and-its-next-gen-autonomy-platform/)
 * [2025-12-11, 18:12:43](https://news.ycombinator.com/item?id=46234874) - [GPT-5.2](https://openai.com/index/introducing-gpt-5-2/)
