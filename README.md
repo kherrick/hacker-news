@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-12-15, 23:03:50](https://news.ycombinator.com/item?id=46282133) - [Instacart director says she was fired for Democratic congressional campaign](https://www.washingtonpost.com/politics/2025/12/15/instacart-congress-campaign-democrat/)
 * [2025-12-15, 22:48:56](https://news.ycombinator.com/item?id=46281944) - [JetBlue flight averts mid-air collision with US Air Force jet](https://www.reuters.com/world/americas/jetblue-flight-averts-mid-air-collision-with-us-air-force-jet-2025-12-15/)
 * [2025-12-15, 21:56:03](https://news.ycombinator.com/item?id=46281288) - [Economics of Orbital vs. Terrestrial Data Centers](https://andrewmccalip.com/space-datacenters)
 * [2025-12-15, 21:37:09](https://news.ycombinator.com/item?id=46281060) - [Fix HDMI-CEC weirdness with a Raspberry Pi and a $7 cable](https://johnlian.net/posts/hdmi-cec/)
@@ -12,7 +13,6 @@
 * [2025-12-15, 19:23:51](https://news.ycombinator.com/item?id=46279123) - [“Super secure” messaging app leaks everyone's phone number](https://ericdaigle.ca/posts/super-secure-maga-messaging-app-leaks-everyones-phone-number/)
 * [2025-12-15, 19:07:10](https://news.ycombinator.com/item?id=46278857) - [Problems with D-Bus on the Linux desktop](https://blog.vaxry.net/articles/2025-dbusSucks)
 * [2025-12-15, 18:16:34](https://news.ycombinator.com/item?id=46278208) - [Chafa: Terminal Graphics for the 21st Century](https://hpjansson.org/chafa/)
-* [2025-12-15, 17:19:24](https://news.ycombinator.com/item?id=46277353) - [US Tech Force](https://techforce.gov/)
 * [2025-12-15, 17:01:42](https://news.ycombinator.com/item?id=46277090) - [Cosmic-ray bath in a past supernova gives birth to Earth-like planets](https://www.science.org/doi/10.1126/sciadv.adx7892)
 * [2025-12-15, 16:08:01](https://news.ycombinator.com/item?id=46276313) - [We architected an edge caching layer to eliminate cold starts](https://www.mintlify.com/blog/page-speed-improvements)
 * [2025-12-15, 14:56:02](https://news.ycombinator.com/item?id=46275316) - [We are discontinuing the dark web report](https://support.google.com/websearch/answer/16767242?hl=en)
@@ -21,7 +21,6 @@
 * [2025-12-15, 12:12:24](https://news.ycombinator.com/item?id=46273466) - [I'm Kenyan. I don't write like ChatGPT, ChatGPT writes like me](https://marcusolang.substack.com/p/im-kenyan-i-dont-write-like-chatgpt)
 * [2025-12-15, 12:00:26](https://news.ycombinator.com/item?id=46273372) - [Optery (YC W22) Hiring CISO, Release Manager, Tech Lead (Node), Full Stack Eng](https://www.optery.com/careers/)
 * [2025-12-15, 10:08:02](https://news.ycombinator.com/item?id=46272487) - [Avoid UUID Version 4 Primary Keys in Postgres](https://andyatkinson.com/avoid-uuid-version-4-primary-keys)
-* [2025-12-15, 02:51:24](https://news.ycombinator.com/item?id=46269891) - [SoundCloud has banned VPN access](https://old.reddit.com/r/SoundCloudMusic/comments/1pltd19/soundcloud_just_banned_vpn_access/)
 * [2025-12-14, 17:10:08](https://news.ycombinator.com/item?id=46264657) - [Show HN: A pager](https://www.udp7777.com/)
 * [2025-12-14, 16:55:25](https://news.ycombinator.com/item?id=46264491) - [Ask HN: What Are You Working On? (December 2025)](https://news.ycombinator.com/item?id=46264491)
 * [2025-12-14, 09:44:13](https://news.ycombinator.com/item?id=46261942) - [Show HN: I Ching simulator with accurate Yarrow Stalk probabilities](https://castiching.com/)
@@ -30,6 +29,7 @@
 * [2025-12-12, 23:21:02](https://news.ycombinator.com/item?id=46250259) - [US TikTok investors in limbo as deal set to be delayed again](https://www.bbc.com/news/articles/cp34442z25ko)
 * [2025-12-12, 06:47:45](https://news.ycombinator.com/item?id=46241500) - [“Are you the one?” is free money](https://blog.owenlacey.dev/posts/are-you-the-one-is-free-money/)
 * [2025-12-10, 23:54:34](https://news.ycombinator.com/item?id=46225803) - [Nature's many attempts to evolve a Nostr](https://newsletter.squishy.computer/p/natures-many-attempts-to-evolve-a)
+* [2025-12-10, 18:29:28](https://news.ycombinator.com/item?id=46221479) - [The Optics and Image Processing Behind Fundus Cameras](https://www.youtube.com/watch?v=EvTolqbCHXo)
 
 ## [Archives](archives/index.md)
 

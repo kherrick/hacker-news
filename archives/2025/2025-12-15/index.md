@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-12-15](index.md)
 
+* [2025-12-15, 23:03:50](https://news.ycombinator.com/item?id=46282133) - [Instacart director says she was fired for Democratic congressional campaign](https://www.washingtonpost.com/politics/2025/12/15/instacart-congress-campaign-democrat/)
 * [2025-12-15, 22:48:56](https://news.ycombinator.com/item?id=46281944) - [JetBlue flight averts mid-air collision with US Air Force jet](https://www.reuters.com/world/americas/jetblue-flight-averts-mid-air-collision-with-us-air-force-jet-2025-12-15/)
 * [2025-12-15, 22:08:13](https://news.ycombinator.com/item?id=46281435) - [Killed by Google](https://killedbygoogle.com)
 * [2025-12-15, 21:56:03](https://news.ycombinator.com/item?id=46281288) - [Economics of Orbital vs. Terrestrial Data Centers](https://andrewmccalip.com/space-datacenters)
