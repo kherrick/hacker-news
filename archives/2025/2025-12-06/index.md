@@ -45,6 +45,7 @@
 * [2025-12-06, 15:03:54](https://news.ycombinator.com/item?id=46173848) - [Dependent Names with a Little Encouragement](https://consteval.ca/2025/09/27/dependent-names/)
 * [2025-12-06, 14:59:52](https://news.ycombinator.com/item?id=46173825) - [HTML as an Accessible Format for Papers](https://info.arxiv.org/about/accessible_HTML.html)
 * [2025-12-06, 14:55:03](https://news.ycombinator.com/item?id=46173785) - [Carlo is no longer maintained](https://github.com/GoogleChromeLabs/carlo)
+* [2025-12-06, 14:52:37](https://news.ycombinator.com/item?id=46173762) - [Make images smaller using best-in-class codecs, right in the browser](https://github.com/GoogleChromeLabs/squoosh)
 * [2025-12-06, 14:40:51](https://news.ycombinator.com/item?id=46173697) - [Kidney Recipient Dies After Transplant from Organ Donor Who Had Rabies](https://www.nytimes.com/2025/12/06/health/rabies-death-skunk-kidney-transplant.html)
 * [2025-12-06, 14:38:19](https://news.ycombinator.com/item?id=46173677) - [Decades-old study on common weed killer retracted](https://www.cbc.ca/news/health/glyphosate-retraction-9.7004363)
 * [2025-12-06, 14:26:07](https://news.ycombinator.com/item?id=46173600) - [Kernel Float: Unlocking Mixed-Precision GPU Programming](https://dl.acm.org/doi/pdf/10.1145/3779120)
