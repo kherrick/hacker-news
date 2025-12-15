@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-12-15](index.md)
 
+* [2025-12-15, 10:08:02](https://news.ycombinator.com/item?id=46272487) - [Avoid UUIDv4 Primary Keys](https://andyatkinson.com/avoid-uuid-version-4-primary-keys)
 * [2025-12-15, 06:56:04](https://news.ycombinator.com/item?id=46271232) - [English vocabulary test – how many words do you know?](https://www.myvocab.info/en)
 * [2025-12-15, 06:05:35](https://news.ycombinator.com/item?id=46270972) - [Why proteins fold and how GPUs help us fold](https://aval.bearblog.dev/nvidiaproteins/)
 * [2025-12-15, 05:46:35](https://news.ycombinator.com/item?id=46270882) - [Common Rust Lifetime Misconceptions](https://github.com/pretzelhammer/rust-blog/blob/master/posts/common-rust-lifetime-misconceptions.md)

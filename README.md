@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-12-15, 10:08:02](https://news.ycombinator.com/item?id=46272487) - [Avoid UUIDv4 Primary Keys](https://andyatkinson.com/avoid-uuid-version-4-primary-keys)
 * [2025-12-15, 05:46:35](https://news.ycombinator.com/item?id=46270882) - [Common Rust Lifetime Misconceptions](https://github.com/pretzelhammer/rust-blog/blob/master/posts/common-rust-lifetime-misconceptions.md)
 * [2025-12-15, 04:15:21](https://news.ycombinator.com/item?id=46270415) - [Read Something Wonderful](https://readsomethingwonderful.com/)
 * [2025-12-15, 04:09:51](https://news.ycombinator.com/item?id=46270386) - [The Whole App is a Blob](https://drobinin.com/posts/the-whole-app-is-a-blob/)
@@ -12,7 +13,6 @@
 * [2025-12-15, 00:35:41](https://news.ycombinator.com/item?id=46268844) - [Microsoft Copilot AI Comes to LG TVs, and Can't Be Deleted](https://www.techpowerup.com/344075/microsoft-copilot-ai-comes-to-lg-tvs-and-cant-be-deleted)
 * [2025-12-15, 00:17:02](https://news.ycombinator.com/item?id=46268709) - [If AI replaces workers, should it also pay taxes?](https://english.elpais.com/technology/2025-11-30/if-ai-replaces-workers-should-it-also-pay-taxes.html)
 * [2025-12-14, 23:48:37](https://news.ycombinator.com/item?id=46268452) - [AI agents are starting to eat SaaS](https://martinalderson.com/posts/ai-agents-are-starting-to-eat-saas/)
-* [2025-12-14, 22:46:01](https://news.ycombinator.com/item?id=46267947) - [History of Declarative Programming (2021)](https://shenlanguage.org/TBoS/tbos_15.html)
 * [2025-12-14, 21:53:13](https://news.ycombinator.com/item?id=46267385) - [Elevated errors across many models](https://status.claude.com/incidents/9g6qpr72ttbr)
 * [2025-12-14, 20:47:21](https://news.ycombinator.com/item?id=46266717) - [The Problem of Teaching Physics in Latin America (1963)](https://calteches.library.caltech.edu/46/2/LatinAmerica.htm)
 * [2025-12-14, 19:42:53](https://news.ycombinator.com/item?id=46266102) - [JSDoc is TypeScript](https://culi.bearblog.dev/jsdoc-is-typescript/)
