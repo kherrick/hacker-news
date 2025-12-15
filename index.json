@@ -1,12 +1,12 @@
 [
   [
     [
-      "2025-12-15, 20:20:05",
-      "https://news.ycombinator.com/item?id=46279996"
+      "2025-12-15, 20:52:35",
+      "https://news.ycombinator.com/item?id=46280465"
     ],
     [
-      "Taiwan May Restart Nuclear Power Plant in 2028, Minister Says",
-      "https://www.energyconnects.com/news/utilities/2025/december/taiwan-may-restart-nuclear-power-plant-in-2028-minister-says/"
+      "A Kernel Bug Froze My Machine: Debugging an Async-Profiler Deadlock",
+      "https://questdb.com/blog/async-profiler-kernel-bug/"
     ]
   ],
   [
@@ -45,7 +45,7 @@
       "https://news.ycombinator.com/item?id=46279123"
     ],
     [
-      "“Super secure” MAGA-themed messaging app leaks everyone's phone number",
+      "“Super secure” messaging app leaks everyone's phone number",
       "https://ericdaigle.ca/posts/super-secure-maga-messaging-app-leaks-everyones-phone-number/"
     ]
   ],
@@ -65,7 +65,7 @@
       "https://news.ycombinator.com/item?id=46278857"
     ],
     [
-      "D-Bus is a disgrace to the Linux desktop",
+      "Problems with D-Bus on the Linux desktop",
       "https://blog.vaxry.net/articles/2025-dbusSucks"
     ]
   ],
@@ -117,16 +117,6 @@
     [
       "Ask HN: Is building a calm, non-gamified learning app a mistake?",
       "https://news.ycombinator.com/item?id=46276019"
-    ]
-  ],
-  [
-    [
-      "2025-12-15, 14:37:12",
-      "https://news.ycombinator.com/item?id=46275079"
-    ],
-    [
-      "Thousands of U.S. farmers have Parkinson's. They blame a deadly pesticide",
-      "https://www.mlive.com/news/2025/12/thousands-of-us-farmers-have-parkinsons-they-blame-a-deadly-pesticide.html"
     ]
   ],
   [
@@ -267,6 +257,16 @@
     [
       "Essential Semiconductor Physics [pdf]",
       "https://nanohub.org/resources/43623/download/Essential_Semiconductor_Physics.pdf"
+    ]
+  ],
+  [
+    [
+      "2025-12-13, 17:41:32",
+      "https://news.ycombinator.com/item?id=46256325"
+    ],
+    [
+      "Building an efficient hash table in Java",
+      "https://bluuewhale.github.io/posts/building-a-fast-and-memory-efficient-hash-table-in-java-by-borrowing-the-best-ideas/"
     ]
   ],
   [
