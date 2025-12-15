@@ -27,6 +27,7 @@
 * [2025-12-07, 16:55:15](https://news.ycombinator.com/item?id=46183091) - [Semantic Compression (2014)](https://caseymuratori.com/blog_0015)
 * [2025-12-07, 16:54:44](https://news.ycombinator.com/item?id=46183088) - [What the heck is going on at Apple?](https://www.cnn.com/2025/12/06/tech/apple-tim-cook-leadership-changes)
 * [2025-12-07, 16:43:38](https://news.ycombinator.com/item?id=46183011) - [The AI Wildfire Is Coming. It's Going to Be Painful and Healthy](https://ceodinner.substack.com/p/the-ai-wildfire-is-coming-its-going)
+* [2025-12-07, 16:38:19](https://news.ycombinator.com/item?id=46182975) - [P-computers can solve spin-glass problems faster than quantum systems](https://news.ucsb.edu/2025/022239/new-ucsb-research-shows-p-computers-can-solve-spin-glass-problems-faster-quantum)
 * [2025-12-07, 16:26:45](https://news.ycombinator.com/item?id=46182874) - [He set out to walk around the world. After 27 years, his quest is nearly over](https://www.washingtonpost.com/lifestyle/2025/12/05/karl-bushby-walk-around-world/)
 * [2025-12-07, 15:52:18](https://news.ycombinator.com/item?id=46182582) - [OpenAI disables ChatGPT app suggestions that looked like ads](https://techoreon.com/openai-disables-chatgpt-app-suggestions-ads-backlash/)
 * [2025-12-07, 15:42:02](https://news.ycombinator.com/item?id=46182496) - [Locks in PostgreSQL](https://habr.com/en/companies/postgrespro/articles/504498/)

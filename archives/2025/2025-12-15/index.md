@@ -4,7 +4,11 @@
 
 ### [Archives](../../index.md) for [2025-12-15](index.md)
 
+* [2025-12-15, 16:33:47](https://news.ycombinator.com/item?id=46276708) - [They were almost American – then Trump cancelled their citizenship ceremonies](https://www.bbc.com/news/articles/cn8135qeezwo)
+* [2025-12-15, 16:11:37](https://news.ycombinator.com/item?id=46276378) - [$50 PlanetScale Metal Is GA for Postgres](https://planetscale.com/blog/50-dollar-planetscale-metal-is-ga-for-postgres)
+* [2025-12-15, 15:48:34](https://news.ycombinator.com/item?id=46276019) - [Ask HN: Is building a calm, non-gamified learning app a mistake?](https://news.ycombinator.com/item?id=46276019)
 * [2025-12-15, 14:57:17](https://news.ycombinator.com/item?id=46275328) - [We Put Flock Under Surveillance: Go Make Them Behave Differently [video]](https://www.youtube.com/watch?v=W420BOqga_s)
+* [2025-12-15, 14:51:36](https://news.ycombinator.com/item?id=46275258) - [Samsung may end SATA SSD production soon](https://www.techradar.com/computing/storage-backup/looking-for-a-cheap-ssd-dont-wait-samsung-could-stop-producing-budget-models-soon)
 * [2025-12-15, 14:37:12](https://news.ycombinator.com/item?id=46275079) - [Thousands of U.S. farmers have Parkinson's. They blame a deadly pesticide](https://www.mlive.com/news/2025/12/thousands-of-us-farmers-have-parkinsons-they-blame-a-deadly-pesticide.html)
 * [2025-12-15, 14:16:32](https://news.ycombinator.com/item?id=46274822) - [Top Gun's Carrier Landing: Exposed](https://relaxing.run/blag/posts/top-gun-landing/)
 * [2025-12-15, 13:48:03](https://news.ycombinator.com/item?id=46274478) - [It seems that OpenAI is scraping [certificate transparency] logs](https://benjojo.co.uk/u/benjojo/h/Gxy2qrCkn1Y327Y6D3)
