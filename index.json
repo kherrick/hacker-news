@@ -121,16 +121,6 @@
   ],
   [
     [
-      "2025-12-15, 05:46:35",
-      "https://news.ycombinator.com/item?id=46270882"
-    ],
-    [
-      "Common Rust Lifetime Misconceptions",
-      "https://github.com/pretzelhammer/rust-blog/blob/master/posts/common-rust-lifetime-misconceptions.md"
-    ]
-  ],
-  [
-    [
       "2025-12-15, 04:09:51",
       "https://news.ycombinator.com/item?id=46270386"
     ],
@@ -157,16 +147,6 @@
     [
       "Unscii",
       "http://viznut.fi/unscii/"
-    ]
-  ],
-  [
-    [
-      "2025-12-15, 03:04:50",
-      "https://news.ycombinator.com/item?id=46269991"
-    ],
-    [
-      "John Varley has died",
-      "http://floggingbabel.blogspot.com/2025/12/john-varley-1947-2025.html"
     ]
   ],
   [
@@ -221,6 +201,16 @@
   ],
   [
     [
+      "2025-12-14, 17:10:08",
+      "https://news.ycombinator.com/item?id=46264657"
+    ],
+    [
+      "Show HN: A pager",
+      "https://www.udp7777.com/"
+    ]
+  ],
+  [
+    [
       "2025-12-14, 16:55:25",
       "https://news.ycombinator.com/item?id=46264491"
     ],
@@ -231,22 +221,22 @@
   ],
   [
     [
+      "2025-12-14, 09:44:13",
+      "https://news.ycombinator.com/item?id=46261942"
+    ],
+    [
+      "Show HN: I Ching simulator with accurate Yarrow Stalk probabilities",
+      "https://castiching.com/"
+    ]
+  ],
+  [
+    [
       "2025-12-11, 08:42:22",
       "https://news.ycombinator.com/item?id=46229030"
     ],
     [
       "$5 whale listening hydrophone making workshop",
       "https://exclav.es/2025/08/03/dinacon-2025-passive-acoustic-listening/"
-    ]
-  ],
-  [
-    [
-      "2025-12-09, 22:44:19",
-      "https://news.ycombinator.com/item?id=46211767"
-    ],
-    [
-      "How well do you know C++ auto type deduction?",
-      "https://www.volatileint.dev/posts/auto-type-deduction-gauntlet/"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Invader: Where to Spot the 8-Bit Street Art in London",
       "https://londonist.com/london/art-and-photography/invader-where-to-spot-the-8-bit-street-art-in-london"
+    ]
+  ],
+  [
+    [
+      "2025-12-06, 14:52:37",
+      "https://news.ycombinator.com/item?id=46173762"
+    ],
+    [
+      "Make images smaller using best-in-class codecs, right in the browser",
+      "https://github.com/GoogleChromeLabs/squoosh"
     ]
   ]
 ]
