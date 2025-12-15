@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-12-15](index.md)
 
+* [2025-12-15, 17:21:20](https://news.ycombinator.com/item?id=46277381) - [Break up bad companies; replace bad union bosses](https://pluralistic.net/2025/12/15/class-war-labor-peace/)
 * [2025-12-15, 17:19:24](https://news.ycombinator.com/item?id=46277353) - [US Tech Force](https://techforce.gov/)
 * [2025-12-15, 17:01:42](https://news.ycombinator.com/item?id=46277090) - [Cosmic-ray bath in a past supernova gives birth to Earth-like planets](https://www.science.org/doi/10.1126/sciadv.adx7892)
 * [2025-12-15, 16:53:49](https://news.ycombinator.com/item?id=46276977) - [Even in a Populist Moment, Democrats Are Split on the Problem of Corporate Power](https://www.thebignewsletter.com/p/even-in-a-populist-moment-democrats)
