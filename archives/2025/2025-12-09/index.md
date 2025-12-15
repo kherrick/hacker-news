@@ -76,6 +76,7 @@
 * [2025-12-09, 01:20:08](https://news.ycombinator.com/item?id=46200157) - [Easel Now Has Stencils](https://easel.games/blog/2025-dec-update)
 * [2025-12-09, 00:51:31](https://news.ycombinator.com/item?id=46199950) - [The Lost Machine Automats and Self-Service Cafeterias of NYC (2023)](https://www.untappedcities.com/automats-cafeterias-nyc/)
 * [2025-12-09, 00:50:32](https://news.ycombinator.com/item?id=46199935) - [Scientific and Technical Amateur Radio](https://destevez.net/)
+* [2025-12-09, 00:47:06](https://news.ycombinator.com/item?id=46199891) - [Metacode: The new standard for machine-readable comments for Python](https://github.com/pomponchik/metacode)
 * [2025-12-09, 00:26:35](https://news.ycombinator.com/item?id=46199723) - [Horses: AI progress is steady. Human equivalence is sudden](https://andyljones.com/posts/horses.html)
 * [2025-12-09, 00:16:46](https://news.ycombinator.com/item?id=46199623) - [The Universal Weight Subspace Hypothesis](https://arxiv.org/abs/2512.05117)
 * [2025-12-09, 00:07:42](https://news.ycombinator.com/item?id=46199530) - [Manual: Spaces](https://type.today/en/journal/spaces)
