@@ -1,12 +1,12 @@
 [
   [
     [
-      "2025-12-15, 22:08:13",
-      "https://news.ycombinator.com/item?id=46281435"
+      "2025-12-15, 21:56:03",
+      "https://news.ycombinator.com/item?id=46281288"
     ],
     [
-      "Killed by Google",
-      "https://killedbygoogle.com"
+      "Economics of Orbital vs. Terrestrial Data Centers",
+      "https://andrewmccalip.com/space-datacenters"
     ]
   ],
   [
@@ -31,6 +31,16 @@
   ],
   [
     [
+      "2025-12-15, 21:24:06",
+      "https://news.ycombinator.com/item?id=46280887"
+    ],
+    [
+      "Secret Documents Show Pepsi and Walmart Colluded to Raise Food Prices",
+      "https://www.thebignewsletter.com/p/secret-documents-show-pepsi-and-walmart"
+    ]
+  ],
+  [
+    [
       "2025-12-15, 20:52:35",
       "https://news.ycombinator.com/item?id=46280465"
     ],
@@ -47,6 +57,16 @@
     [
       "I used Claude Code to write a piano web app",
       "https://jcurcioconsulting.com/posts/how-i-used-claude-code-to-write-a-piano-web-app"
+    ]
+  ],
+  [
+    [
+      "2025-12-15, 20:25:18",
+      "https://news.ycombinator.com/item?id=46280080"
+    ],
+    [
+      "1/4 of US-Trained Scientists Eventually Leave. Is the US Giving Away Its Edge?",
+      "https://arxiv.org/abs/2512.11146"
     ]
   ],
   [
@@ -107,16 +127,6 @@
     [
       "Chafa: Terminal Graphics for the 21st Century",
       "https://hpjansson.org/chafa/"
-    ]
-  ],
-  [
-    [
-      "2025-12-15, 17:19:24",
-      "https://news.ycombinator.com/item?id=46277353"
-    ],
-    [
-      "US Tech Force",
-      "https://techforce.gov/"
     ]
   ],
   [
@@ -201,26 +211,6 @@
   ],
   [
     [
-      "2025-12-15, 02:51:24",
-      "https://news.ycombinator.com/item?id=46269891"
-    ],
-    [
-      "SoundCloud has banned VPN access",
-      "https://old.reddit.com/r/SoundCloudMusic/comments/1pltd19/soundcloud_just_banned_vpn_access/"
-    ]
-  ],
-  [
-    [
-      "2025-12-14, 23:48:37",
-      "https://news.ycombinator.com/item?id=46268452"
-    ],
-    [
-      "AI agents are starting to eat SaaS",
-      "https://martinalderson.com/posts/ai-agents-are-starting-to-eat-saas/"
-    ]
-  ],
-  [
-    [
       "2025-12-14, 17:10:08",
       "https://news.ycombinator.com/item?id=46264657"
     ],
@@ -287,6 +277,16 @@
     [
       "“Are you the one?” is free money",
       "https://blog.owenlacey.dev/posts/are-you-the-one-is-free-money/"
+    ]
+  ],
+  [
+    [
+      "2025-12-10, 23:54:34",
+      "https://news.ycombinator.com/item?id=46225803"
+    ],
+    [
+      "Nature's many attempts to evolve a Nostr",
+      "https://newsletter.squishy.computer/p/natures-many-attempts-to-evolve-a"
     ]
   ],
   [
