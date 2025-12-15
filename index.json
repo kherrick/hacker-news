@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-12-15, 22:08:13",
+      "https://news.ycombinator.com/item?id=46281435"
+    ],
+    [
+      "Killed by Google",
+      "https://killedbygoogle.com"
+    ]
+  ],
+  [
+    [
       "2025-12-15, 21:46:53",
       "https://news.ycombinator.com/item?id=46281182"
     ],
@@ -11,12 +21,32 @@
   ],
   [
     [
+      "2025-12-15, 21:37:09",
+      "https://news.ycombinator.com/item?id=46281060"
+    ],
+    [
+      "Fix HDMI-CEC weirdness with a Raspberry Pi and a $7 cable",
+      "https://johnlian.net/posts/hdmi-cec/"
+    ]
+  ],
+  [
+    [
       "2025-12-15, 20:52:35",
       "https://news.ycombinator.com/item?id=46280465"
     ],
     [
       "A kernel bug froze my machine: Debugging an async-profiler deadlock",
       "https://questdb.com/blog/async-profiler-kernel-bug/"
+    ]
+  ],
+  [
+    [
+      "2025-12-15, 20:36:49",
+      "https://news.ycombinator.com/item?id=46280248"
+    ],
+    [
+      "I used Claude Code to write a piano web app",
+      "https://jcurcioconsulting.com/posts/how-i-used-claude-code-to-write-a-piano-web-app"
     ]
   ],
   [
@@ -171,42 +201,12 @@
   ],
   [
     [
-      "2025-12-15, 03:57:46",
-      "https://news.ycombinator.com/item?id=46270298"
-    ],
-    [
-      "Arborium: Tree-sitter code highlighting with Native and WASM targets",
-      "https://arborium.bearcove.eu/"
-    ]
-  ],
-  [
-    [
-      "2025-12-15, 03:55:07",
-      "https://news.ycombinator.com/item?id=46270282"
-    ],
-    [
-      "Unscii",
-      "http://viznut.fi/unscii/"
-    ]
-  ],
-  [
-    [
       "2025-12-15, 02:51:24",
       "https://news.ycombinator.com/item?id=46269891"
     ],
     [
       "SoundCloud has banned VPN access",
       "https://old.reddit.com/r/SoundCloudMusic/comments/1pltd19/soundcloud_just_banned_vpn_access/"
-    ]
-  ],
-  [
-    [
-      "2025-12-15, 00:17:02",
-      "https://news.ycombinator.com/item?id=46268709"
-    ],
-    [
-      "If AI replaces workers, should it also pay taxes?",
-      "https://english.elpais.com/technology/2025-11-30/if-ai-replaces-workers-should-it-also-pay-taxes.html"
     ]
   ],
   [
