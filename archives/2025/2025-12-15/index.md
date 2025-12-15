@@ -4,8 +4,11 @@
 
 ### [Archives](../../index.md) for [2025-12-15](index.md)
 
+* [2025-12-15, 14:37:12](https://news.ycombinator.com/item?id=46275079) - [Thousands of U.S. farmers have Parkinson's. They blame a deadly pesticide](https://www.mlive.com/news/2025/12/thousands-of-us-farmers-have-parkinsons-they-blame-a-deadly-pesticide.html)
 * [2025-12-15, 14:16:32](https://news.ycombinator.com/item?id=46274822) - [Top Gun's Carrier Landing: Exposed](https://relaxing.run/blag/posts/top-gun-landing/)
+* [2025-12-15, 13:48:03](https://news.ycombinator.com/item?id=46274478) - [It seems that OpenAI is scraping [certificate transparency] logs](https://benjojo.co.uk/u/benjojo/h/Gxy2qrCkn1Y327Y6D3)
 * [2025-12-15, 13:41:23](https://news.ycombinator.com/item?id=46274396) - [Wall Street Sees AI Bubble Coming and Is Betting on What Pops It](https://www.bloomberg.com/news/articles/2025-12-14/wall-street-sees-an-ai-bubble-forming-and-is-gaming-what-pops-it)
+* [2025-12-15, 12:45:18](https://news.ycombinator.com/item?id=46273762) - [MIT Missing Semester 2026](https://missing.csail.mit.edu/2026/)
 * [2025-12-15, 12:12:24](https://news.ycombinator.com/item?id=46273466) - [I'm Kenyan. I Don't Write Like ChatGPT. ChatGPT Writes Like Me](https://marcusolang.substack.com/p/im-kenyan-i-dont-write-like-chatgpt)
 * [2025-12-15, 12:00:26](https://news.ycombinator.com/item?id=46273372) - [Optery (YC W22) Hiring CISO, Release Manager, Tech Lead (Node), Full Stack Eng](https://www.optery.com/careers/)
 * [2025-12-15, 11:58:35](https://news.ycombinator.com/item?id=46273344) - [Largest U.S. Recycling Project to Extend Landfill Life for Virginia Residents](https://ampsortation.com/articles/largest-us-recycling-project-spsa)
