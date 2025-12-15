@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-12-15](index.md)
 
+* [2025-12-15, 02:51:24](https://news.ycombinator.com/item?id=46269891) - [SoundCloud just banned VPN access](https://old.reddit.com/r/SoundCloudMusic/comments/1pltd19/soundcloud_just_banned_vpn_access/)
+* [2025-12-15, 01:34:35](https://news.ycombinator.com/item?id=46269296) - [Mom and daughter find stranger in trunk of Waymo](https://abc7.com/post/los-angeles-viral-video-mom-daughter-find-stranger-trunk-waymo-macarthur-park/18286019/)
 * [2025-12-15, 00:45:38](https://news.ycombinator.com/item?id=46268911) - [SPhotonix – 360TB into 5-inch glass disc with femtosecond laser](https://www.tomshardware.com/pc-components/storage/sphotonix-pushes-5d-glass-storage-toward-data-center-pilots)
 * [2025-12-15, 00:39:31](https://news.ycombinator.com/item?id=46268869) - [CapROS: The Capability-Based Reliable Operating System](https://www.capros.org/)
 * [2025-12-15, 00:36:44](https://news.ycombinator.com/item?id=46268854) - [Robot Vacuum Roomba Maker Files for Bankruptcy After 35 Years](https://news.bloomberglaw.com/bankruptcy-law/robot-vacuum-roomba-maker-files-for-bankruptcy-after-35-years)
