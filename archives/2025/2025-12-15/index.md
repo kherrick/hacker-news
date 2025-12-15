@@ -6,6 +6,7 @@
 
 * [2025-12-15, 20:52:35](https://news.ycombinator.com/item?id=46280465) - [A Kernel Bug Froze My Machine: Debugging an Async-Profiler Deadlock](https://questdb.com/blog/async-profiler-kernel-bug/)
 * [2025-12-15, 20:20:05](https://news.ycombinator.com/item?id=46279996) - [Taiwan May Restart Nuclear Power Plant in 2028, Minister Says](https://www.energyconnects.com/news/utilities/2025/december/taiwan-may-restart-nuclear-power-plant-in-2028-minister-says/)
+* [2025-12-15, 20:09:48](https://news.ycombinator.com/item?id=46279825) - [The appropriate amount of effort is zero](https://expandingawareness.org/blog/the-appropriate-amount-of-effort-is-zero/)
 * [2025-12-15, 19:59:41](https://news.ycombinator.com/item?id=46279674) - [Google discontinuing their dark web report](https://support.google.com/websearch/answer/16767242?hl=en&co=GENIE.Platform%3DAndroid)
 * [2025-12-15, 19:30:22](https://news.ycombinator.com/item?id=46279241) - [Upcoming Changes to Let's Encrypt Certificates](https://community.letsencrypt.org/t/upcoming-changes-to-let-s-encrypt-certificates/243873)
 * [2025-12-15, 19:27:08](https://news.ycombinator.com/item?id=46279187) - [Umbrel – Personal Cloud](https://umbrel.com)
@@ -26,6 +27,7 @@
 * [2025-12-15, 16:08:01](https://news.ycombinator.com/item?id=46276313) - [We architected an edge caching layer to eliminate cold starts](https://www.mintlify.com/blog/page-speed-improvements)
 * [2025-12-15, 15:48:34](https://news.ycombinator.com/item?id=46276019) - [Ask HN: Is building a calm, non-gamified learning app a mistake?](https://news.ycombinator.com/item?id=46276019)
 * [2025-12-15, 14:57:17](https://news.ycombinator.com/item?id=46275328) - [We Put Flock Under Surveillance: Go Make Them Behave Differently [video]](https://www.youtube.com/watch?v=W420BOqga_s)
+* [2025-12-15, 14:56:02](https://news.ycombinator.com/item?id=46275316) - [We are discontinuing the dark web report](https://support.google.com/websearch/answer/16767242?hl=en)
 * [2025-12-15, 14:51:36](https://news.ycombinator.com/item?id=46275258) - [Samsung may end SATA SSD production soon](https://www.techradar.com/computing/storage-backup/looking-for-a-cheap-ssd-dont-wait-samsung-could-stop-producing-budget-models-soon)
 * [2025-12-15, 14:37:12](https://news.ycombinator.com/item?id=46275079) - [Thousands of U.S. farmers have Parkinson's. They blame a deadly pesticide](https://www.mlive.com/news/2025/12/thousands-of-us-farmers-have-parkinsons-they-blame-a-deadly-pesticide.html)
 * [2025-12-15, 14:16:32](https://news.ycombinator.com/item?id=46274822) - [Top Gun's Carrier Landing: Exposed](https://relaxing.run/blag/posts/top-gun-landing/)
