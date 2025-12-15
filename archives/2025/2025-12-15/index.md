@@ -6,6 +6,8 @@
 
 * [2025-12-15, 12:12:24](https://news.ycombinator.com/item?id=46273466) - [I'm Kenyan. I Don't Write Like ChatGPT. ChatGPT Writes Like Me](https://marcusolang.substack.com/p/im-kenyan-i-dont-write-like-chatgpt)
 * [2025-12-15, 12:00:26](https://news.ycombinator.com/item?id=46273372) - [Optery (YC W22) Hiring CISO, Release Manager, Tech Lead (Node), Full Stack Eng](https://www.optery.com/careers/)
+* [2025-12-15, 11:58:35](https://news.ycombinator.com/item?id=46273344) - [Largest U.S. Recycling Project to Extend Landfill Life for Virginia Residents](https://ampsortation.com/articles/largest-us-recycling-project-spsa)
+* [2025-12-15, 11:09:12](https://news.ycombinator.com/item?id=46272921) - [Copywriters reveal how AI has decimated their industry](https://www.bloodinthemachine.com/p/i-was-forced-to-use-ai-until-the)
 * [2025-12-15, 10:08:02](https://news.ycombinator.com/item?id=46272487) - [Avoid UUIDv4 Primary Keys](https://andyatkinson.com/avoid-uuid-version-4-primary-keys)
 * [2025-12-15, 06:56:04](https://news.ycombinator.com/item?id=46271232) - [English vocabulary test – how many words do you know?](https://www.myvocab.info/en)
 * [2025-12-15, 06:05:35](https://news.ycombinator.com/item?id=46270972) - [Why proteins fold and how GPUs help us fold](https://aval.bearblog.dev/nvidiaproteins/)

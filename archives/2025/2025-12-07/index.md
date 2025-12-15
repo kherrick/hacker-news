@@ -36,6 +36,7 @@
 * [2025-12-07, 14:47:02](https://news.ycombinator.com/item?id=46182031) - [Nested Learning: A new ML paradigm for continual learning](https://research.google/blog/introducing-nested-learning-a-new-ml-paradigm-for-continual-learning/)
 * [2025-12-07, 14:37:21](https://news.ycombinator.com/item?id=46181962) - [Dollar-stores overcharge cash-strapped customers while promising low prices](https://www.theguardian.com/us-news/2025/dec/03/customers-pay-more-rising-dollar-store-costs)
 * [2025-12-07, 14:27:23](https://news.ycombinator.com/item?id=46181893) - [BehindTheMedspeak: A Spinal Tap](https://bookofjoe2.blogspot.com/2025/10/behindthemedspeak-this-is-spinal-tap.html)
+* [2025-12-07, 13:43:34](https://news.ycombinator.com/item?id=46181628) - [DNA Learning Center: Mechanism of Replication 3D Animation](https://dnalc.cshl.edu/resources/3d/04-mechanism-of-replication-advanced.html)
 * [2025-12-07, 13:21:24](https://news.ycombinator.com/item?id=46181491) - [Goodbye, Microsoft: Schleswig-Holstein Relies on Open Source and Saves Millions](https://www.heise.de/en/news/Goodbye-Microsoft-Schleswig-Holstein-relies-on-Open-Source-and-saves-millions-11105459.html)
 * [2025-12-07, 13:16:26](https://news.ycombinator.com/item?id=46181466) - [At least 50 hallucinated citations found in ICLR 2026 submissions](https://gptzero.me/news/iclr-2026/)
 * [2025-12-07, 12:57:59](https://news.ycombinator.com/item?id=46181371) - [I Wasted 8 Years of My Life in Crypto](https://twitter.com/kenchangh/status/1994854381267947640)
