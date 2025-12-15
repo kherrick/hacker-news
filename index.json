@@ -1,11 +1,31 @@
 [
   [
     [
+      "2025-12-15, 19:27:08",
+      "https://news.ycombinator.com/item?id=46279187"
+    ],
+    [
+      "Umbrel – Personal Cloud",
+      "https://umbrel.com"
+    ]
+  ],
+  [
+    [
+      "2025-12-15, 19:23:51",
+      "https://news.ycombinator.com/item?id=46279123"
+    ],
+    [
+      "\"Super secure\" MAGA-themed messaging app leaks everyone's phone number",
+      "https://ericdaigle.ca/posts/super-secure-maga-messaging-app-leaks-everyones-phone-number/"
+    ]
+  ],
+  [
+    [
       "2025-12-15, 19:19:23",
       "https://news.ycombinator.com/item?id=46279053"
     ],
     [
-      "United 777-200 Fleet Faces an Uncertain Future After Dulles Engine Failure",
+      "United 777-200 fleet faces an uncertain future after dulles engine failure",
       "https://liveandletsfly.com/united-airlines-777-200-future/"
     ]
   ],
@@ -71,12 +91,32 @@
   ],
   [
     [
+      "2025-12-15, 16:08:01",
+      "https://news.ycombinator.com/item?id=46276313"
+    ],
+    [
+      "We architected an edge caching layer to eliminate cold starts",
+      "https://www.mintlify.com/blog/page-speed-improvements"
+    ]
+  ],
+  [
+    [
       "2025-12-15, 15:48:34",
       "https://news.ycombinator.com/item?id=46276019"
     ],
     [
       "Ask HN: Is building a calm, non-gamified learning app a mistake?",
       "https://news.ycombinator.com/item?id=46276019"
+    ]
+  ],
+  [
+    [
+      "2025-12-15, 14:57:17",
+      "https://news.ycombinator.com/item?id=46275328"
+    ],
+    [
+      "We Put Flock Under Surveillance: Go Make Them Behave Differently [video]",
+      "https://www.youtube.com/watch?v=W420BOqga_s"
     ]
   ],
   [
@@ -161,6 +201,16 @@
   ],
   [
     [
+      "2025-12-15, 02:51:24",
+      "https://news.ycombinator.com/item?id=46269891"
+    ],
+    [
+      "SoundCloud has banned VPN access",
+      "https://old.reddit.com/r/SoundCloudMusic/comments/1pltd19/soundcloud_just_banned_vpn_access/"
+    ]
+  ],
+  [
+    [
       "2025-12-15, 00:36:44",
       "https://news.ycombinator.com/item?id=46268854"
     ],
@@ -231,72 +281,22 @@
   ],
   [
     [
-      "2025-12-08, 06:50:59",
-      "https://news.ycombinator.com/item?id=46189205"
+      "2025-12-12, 23:21:02",
+      "https://news.ycombinator.com/item?id=46250259"
     ],
     [
-      "Speech and Language Processing (3rd ed. draft)",
-      "https://web.stanford.edu/~jurafsky/slp3/"
+      "US TikTok investors in limbo as deal set to be delayed again",
+      "https://www.bbc.com/news/articles/cp34442z25ko"
     ]
   ],
   [
     [
-      "2025-12-08, 06:20:42",
-      "https://news.ycombinator.com/item?id=46189011"
+      "2025-12-12, 20:13:26",
+      "https://news.ycombinator.com/item?id=46248294"
     ],
     [
-      "Finnix",
-      "https://en.wikipedia.org/wiki/Finnix"
-    ]
-  ],
-  [
-    [
-      "2025-12-07, 16:38:19",
-      "https://news.ycombinator.com/item?id=46182975"
-    ],
-    [
-      "P-computers can solve spin-glass problems faster than quantum systems",
-      "https://news.ucsb.edu/2025/022239/new-ucsb-research-shows-p-computers-can-solve-spin-glass-problems-faster-quantum"
-    ]
-  ],
-  [
-    [
-      "2025-12-07, 13:43:34",
-      "https://news.ycombinator.com/item?id=46181628"
-    ],
-    [
-      "DNA Learning Center: Mechanism of Replication 3D Animation",
-      "https://dnalc.cshl.edu/resources/3d/04-mechanism-of-replication-advanced.html"
-    ]
-  ],
-  [
-    [
-      "2025-12-06, 22:10:19",
-      "https://news.ycombinator.com/item?id=46177013"
-    ],
-    [
-      "Invader: Where to Spot the 8-Bit Street Art in London",
-      "https://londonist.com/london/art-and-photography/invader-where-to-spot-the-8-bit-street-art-in-london"
-    ]
-  ],
-  [
-    [
-      "2025-12-06, 17:21:03",
-      "https://news.ycombinator.com/item?id=46174949"
-    ],
-    [
-      "Show HN: I designed my own 3D printer motherboard",
-      "https://github.com/KaiPereira/Cheetah-MX4-Mini"
-    ]
-  ],
-  [
-    [
-      "2025-12-06, 14:52:37",
-      "https://news.ycombinator.com/item?id=46173762"
-    ],
-    [
-      "Make images smaller using best-in-class codecs, right in the browser",
-      "https://github.com/GoogleChromeLabs/squoosh"
+      "In Defense of Matlab Code",
+      "https://runmat.org/blog/in-defense-of-matlab-whiteboard-style-code"
     ]
   ]
 ]
