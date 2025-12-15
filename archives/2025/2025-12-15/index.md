@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-12-15](index.md)
 
+* [2025-12-15, 14:16:32](https://news.ycombinator.com/item?id=46274822) - [Top Gun's Carrier Landing: Exposed](https://relaxing.run/blag/posts/top-gun-landing/)
 * [2025-12-15, 13:41:23](https://news.ycombinator.com/item?id=46274396) - [Wall Street Sees AI Bubble Coming and Is Betting on What Pops It](https://www.bloomberg.com/news/articles/2025-12-14/wall-street-sees-an-ai-bubble-forming-and-is-gaming-what-pops-it)
 * [2025-12-15, 12:12:24](https://news.ycombinator.com/item?id=46273466) - [I'm Kenyan. I Don't Write Like ChatGPT. ChatGPT Writes Like Me](https://marcusolang.substack.com/p/im-kenyan-i-dont-write-like-chatgpt)
 * [2025-12-15, 12:00:26](https://news.ycombinator.com/item?id=46273372) - [Optery (YC W22) Hiring CISO, Release Manager, Tech Lead (Node), Full Stack Eng](https://www.optery.com/careers/)
