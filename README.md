@@ -23,13 +23,13 @@
 * [2025-12-15, 02:51:24](https://news.ycombinator.com/item?id=46269891) - [SoundCloud has banned VPN access](https://old.reddit.com/r/SoundCloudMusic/comments/1pltd19/soundcloud_just_banned_vpn_access/)
 * [2025-12-15, 00:36:44](https://news.ycombinator.com/item?id=46268854) - [Roomba maker goes bankrupt, Chinese owner emerges](https://news.bloomberglaw.com/bankruptcy-law/robot-vacuum-roomba-maker-files-for-bankruptcy-after-35-years)
 * [2025-12-15, 00:17:02](https://news.ycombinator.com/item?id=46268709) - [If AI replaces workers, should it also pay taxes?](https://english.elpais.com/technology/2025-11-30/if-ai-replaces-workers-should-it-also-pay-taxes.html)
-* [2025-12-14, 18:18:34](https://news.ycombinator.com/item?id=46265362) - [Adafruit: Arduino’s Rules Are ‘Incompatible With Open Source’](https://thenewstack.io/adafruit-arduinos-rules-are-incompatible-with-open-source/)
 * [2025-12-14, 17:10:08](https://news.ycombinator.com/item?id=46264657) - [Show HN: A pager](https://www.udp7777.com/)
 * [2025-12-14, 16:55:25](https://news.ycombinator.com/item?id=46264491) - [Ask HN: What Are You Working On? (December 2025)](https://news.ycombinator.com/item?id=46264491)
 * [2025-12-14, 09:44:13](https://news.ycombinator.com/item?id=46261942) - [Show HN: I Ching simulator with accurate Yarrow Stalk probabilities](https://castiching.com/)
 * [2025-12-13, 18:19:51](https://news.ycombinator.com/item?id=46256643) - [Essential Semiconductor Physics [pdf]](https://nanohub.org/resources/43623/download/Essential_Semiconductor_Physics.pdf)
 * [2025-12-12, 23:21:02](https://news.ycombinator.com/item?id=46250259) - [US TikTok investors in limbo as deal set to be delayed again](https://www.bbc.com/news/articles/cp34442z25ko)
 * [2025-12-12, 20:13:26](https://news.ycombinator.com/item?id=46248294) - [In Defense of Matlab Code](https://runmat.org/blog/in-defense-of-matlab-whiteboard-style-code)
+* [2025-12-10, 00:01:17](https://news.ycombinator.com/item?id=46212376) - [Liquid-rust: Liquid templating for Rust](https://github.com/cobalt-org/liquid-rust)
 
 ## [Archives](archives/index.md)
 
