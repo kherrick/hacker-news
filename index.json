@@ -1,12 +1,12 @@
 [
   [
     [
-      "2025-12-15, 13:41:23",
-      "https://news.ycombinator.com/item?id=46274396"
+      "2025-12-15, 14:16:32",
+      "https://news.ycombinator.com/item?id=46274822"
     ],
     [
-      "Wall Street Sees AI Bubble Coming and Is Betting on What Pops It",
-      "https://www.bloomberg.com/news/articles/2025-12-14/wall-street-sees-an-ai-bubble-forming-and-is-gaming-what-pops-it"
+      "Top Gun's Carrier Landing: Exposed",
+      "https://relaxing.run/blag/posts/top-gun-landing/"
     ]
   ],
   [
@@ -31,6 +31,16 @@
   ],
   [
     [
+      "2025-12-15, 10:08:02",
+      "https://news.ycombinator.com/item?id=46272487"
+    ],
+    [
+      "Avoid UUIDv4 Primary Keys",
+      "https://andyatkinson.com/avoid-uuid-version-4-primary-keys"
+    ]
+  ],
+  [
+    [
       "2025-12-15, 05:46:35",
       "https://news.ycombinator.com/item?id=46270882"
     ],
@@ -47,6 +57,16 @@
     [
       "Read Something Wonderful",
       "https://readsomethingwonderful.com/"
+    ]
+  ],
+  [
+    [
+      "2025-12-15, 04:09:51",
+      "https://news.ycombinator.com/item?id=46270386"
+    ],
+    [
+      "The Whole App is a Blob",
+      "https://drobinin.com/posts/the-whole-app-is-a-blob/"
     ]
   ],
   [
@@ -241,32 +261,12 @@
   ],
   [
     [
-      "2025-12-08, 21:54:12",
-      "https://news.ycombinator.com/item?id=46198177"
-    ],
-    [
-      "Running on Empty: Copper",
-      "https://thehonestsorcerer.substack.com/p/running-on-empty-copper"
-    ]
-  ],
-  [
-    [
       "2025-12-08, 14:06:35",
       "https://news.ycombinator.com/item?id=46192348"
     ],
     [
       "Show HN: I wrote a book – Debugging TypeScript Applications (in beta)",
       "https://pragprog.com/titles/aodjs/debugging-typescript-applications/"
-    ]
-  ],
-  [
-    [
-      "2025-12-08, 00:25:34",
-      "https://news.ycombinator.com/item?id=46186914"
-    ],
-    [
-      "An attempt to articulate Forth's practical strengths and eternal usefulness",
-      "https://im-just-lee.ing/forth-why-cb234c03.txt"
     ]
   ],
   [
