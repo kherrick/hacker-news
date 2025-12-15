@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-12-15, 12:12:24](https://news.ycombinator.com/item?id=46273466) - [I'm Kenyan. I Don't Write Like ChatGPT. ChatGPT Writes Like Me](https://marcusolang.substack.com/p/im-kenyan-i-dont-write-like-chatgpt)
+* [2025-12-15, 12:00:26](https://news.ycombinator.com/item?id=46273372) - [Optery (YC W22) Hiring CISO, Release Manager, Tech Lead (Node), Full Stack Eng](https://www.optery.com/careers/)
 * [2025-12-15, 10:08:02](https://news.ycombinator.com/item?id=46272487) - [Avoid UUIDv4 Primary Keys](https://andyatkinson.com/avoid-uuid-version-4-primary-keys)
 * [2025-12-15, 05:46:35](https://news.ycombinator.com/item?id=46270882) - [Common Rust Lifetime Misconceptions](https://github.com/pretzelhammer/rust-blog/blob/master/posts/common-rust-lifetime-misconceptions.md)
 * [2025-12-15, 04:15:21](https://news.ycombinator.com/item?id=46270415) - [Read Something Wonderful](https://readsomethingwonderful.com/)
@@ -18,18 +20,16 @@
 * [2025-12-14, 18:18:34](https://news.ycombinator.com/item?id=46265362) - [Adafruit: Arduino’s Rules Are ‘Incompatible With Open Source’](https://thenewstack.io/adafruit-arduinos-rules-are-incompatible-with-open-source/)
 * [2025-12-14, 16:55:29](https://news.ycombinator.com/item?id=46264492) - [Hashcards: A plain-text spaced repetition system](https://borretti.me/article/hashcards-plain-text-spaced-repetition)
 * [2025-12-14, 16:55:25](https://news.ycombinator.com/item?id=46264491) - [Ask HN: What Are You Working On? (December 2025)](https://news.ycombinator.com/item?id=46264491)
-* [2025-12-14, 16:09:44](https://news.ycombinator.com/item?id=46264068) - [Price of a bot army revealed across online platforms](https://www.cam.ac.uk/stories/price-bot-army-global-index)
-* [2025-12-14, 10:07:00](https://news.ycombinator.com/item?id=46262021) - [Shai-Hulud compromised a dev machine and raided GitHub org access: a post-mortem](https://trigger.dev/blog/shai-hulud-postmortem)
 * [2025-12-11, 18:54:42](https://news.ycombinator.com/item?id=46235460) - [The History of Xerox](https://www.abortretry.fail/p/the-history-of-xerox)
 * [2025-12-11, 09:30:32](https://news.ycombinator.com/item?id=46229350) - [A trip through the Graphics Pipeline (2011)](https://fgiesen.wordpress.com/2011/07/09/a-trip-through-the-graphics-pipeline-2011-index/)
 * [2025-12-11, 08:42:22](https://news.ycombinator.com/item?id=46229030) - [$5 whale listening hydrophone making workshop](https://exclav.es/2025/08/03/dinacon-2025-passive-acoustic-listening/)
 * [2025-12-10, 12:25:15](https://news.ycombinator.com/item?id=46216938) - [The Java Ring: A Wearable Computer (1998)](https://www.nngroup.com/articles/javaring-wearable-computer/)
-* [2025-12-09, 22:44:19](https://news.ycombinator.com/item?id=46211767) - [How well do you know C++ auto type deduction?](https://www.volatileint.dev/posts/auto-type-deduction-gauntlet/)
 * [2025-12-08, 21:54:12](https://news.ycombinator.com/item?id=46198177) - [Running on Empty: Copper](https://thehonestsorcerer.substack.com/p/running-on-empty-copper)
 * [2025-12-08, 14:06:35](https://news.ycombinator.com/item?id=46192348) - [Show HN: I wrote a book – Debugging TypeScript Applications (in beta)](https://pragprog.com/titles/aodjs/debugging-typescript-applications/)
 * [2025-12-08, 08:44:06](https://news.ycombinator.com/item?id=46189905) - [In the Beginning was the Command Line (1999)](https://web.stanford.edu/class/cs81n/command.txt)
 * [2025-12-08, 00:25:34](https://news.ycombinator.com/item?id=46186914) - [An attempt to articulate Forth's practical strengths and eternal usefulness](https://im-just-lee.ing/forth-why-cb234c03.txt)
 * [2025-12-07, 03:42:37](https://news.ycombinator.com/item?id=46178966) - [Rio de Janeiro's talipot palm trees bloom for the first and only time](https://apnews.com/article/brazil-rio-talipot-palm-flamengo-park-dcfb1ce237af7a10ab72205fc9bbdc02)
+* [2025-12-06, 22:10:19](https://news.ycombinator.com/item?id=46177013) - [Invader: Where to Spot the 8-Bit Street Art in London](https://londonist.com/london/art-and-photography/invader-where-to-spot-the-8-bit-street-art-in-london)
 
 ## [Archives](archives/index.md)
 

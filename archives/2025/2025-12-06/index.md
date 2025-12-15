@@ -13,6 +13,7 @@
 * [2025-12-06, 22:29:29](https://news.ycombinator.com/item?id=46177160) - [Photographer Built a Medium-Format Rangefinder, and So Can You](https://petapixel.com/2025/12/06/this-photographer-built-an-awesome-medium-format-rangefinder-and-so-can-you/)
 * [2025-12-06, 22:26:26](https://news.ycombinator.com/item?id=46177132) - [United States Antarctic Program Field Manual (2024) [pdf]](https://www.usap.gov/usapgov/travelAndDeployment/documents/Continental-Field-Manual-2024.pdf)
 * [2025-12-06, 22:11:33](https://news.ycombinator.com/item?id=46177022) - [Catala – Law to Code](https://catala-lang.org)
+* [2025-12-06, 22:10:19](https://news.ycombinator.com/item?id=46177013) - [Invader: Where to Spot the 8-Bit Street Art in London](https://londonist.com/london/art-and-photography/invader-where-to-spot-the-8-bit-street-art-in-london)
 * [2025-12-06, 22:06:48](https://news.ycombinator.com/item?id=46176987) - [Chernobyl protective shield can no longer confine radiation after drone strike](https://www.cnn.com/2025/12/06/europe/chernobyl-drone-strike-radiation-latam-intl)
 * [2025-12-06, 22:02:36](https://news.ycombinator.com/item?id=46176965) - [Apex: Universal Markdown Processor](https://brettterpstra.com/2025/12/06/introducing-apex-universal-markdown-processor/)
 * [2025-12-06, 21:55:29](https://news.ycombinator.com/item?id=46176908) - [How the 'hypnagogic state' of drowsiness could enhance your creativity](https://theconversation.com/how-the-hypnagogic-state-of-drowsiness-could-enhance-your-creativity-269724)
