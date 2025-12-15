@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-12-15](index.md)
 
+* [2025-12-15, 21:46:53](https://news.ycombinator.com/item?id=46281182) - [Ford kills the All-Electric F-150](https://www.wired.com/story/ford-kills-electric-f-150-lightning-for-hybrid/)
 * [2025-12-15, 20:52:35](https://news.ycombinator.com/item?id=46280465) - [A Kernel Bug Froze My Machine: Debugging an Async-Profiler Deadlock](https://questdb.com/blog/async-profiler-kernel-bug/)
 * [2025-12-15, 20:20:05](https://news.ycombinator.com/item?id=46279996) - [Taiwan May Restart Nuclear Power Plant in 2028, Minister Says](https://www.energyconnects.com/news/utilities/2025/december/taiwan-may-restart-nuclear-power-plant-in-2028-minister-says/)
 * [2025-12-15, 20:09:48](https://news.ycombinator.com/item?id=46279825) - [The appropriate amount of effort is zero](https://expandingawareness.org/blog/the-appropriate-amount-of-effort-is-zero/)
