@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-12-15, 22:48:56",
+      "https://news.ycombinator.com/item?id=46281944"
+    ],
+    [
+      "JetBlue flight averts mid-air collision with US Air Force jet",
+      "https://www.reuters.com/world/americas/jetblue-flight-averts-mid-air-collision-with-us-air-force-jet-2025-12-15/"
+    ]
+  ],
+  [
+    [
       "2025-12-15, 21:56:03",
       "https://news.ycombinator.com/item?id=46281288"
     ],
@@ -37,16 +47,6 @@
     [
       "A kernel bug froze my machine: Debugging an async-profiler deadlock",
       "https://questdb.com/blog/async-profiler-kernel-bug/"
-    ]
-  ],
-  [
-    [
-      "2025-12-15, 20:36:49",
-      "https://news.ycombinator.com/item?id=46280248"
-    ],
-    [
-      "I used Claude Code to write a piano web app",
-      "https://jcurcioconsulting.com/posts/how-i-used-claude-code-to-write-a-piano-web-app"
     ]
   ],
   [
@@ -191,22 +191,32 @@
   ],
   [
     [
-      "2025-12-15, 12:00:26",
-      "https://news.ycombinator.com/item?id=46273372"
-    ],
-    [
-      "Optery (YC W22) Hiring CISO, Release Manager, Tech Lead (Node), Full Stack Eng",
-      "https://www.optery.com/careers/"
-    ]
-  ],
-  [
-    [
       "2025-12-15, 10:08:02",
       "https://news.ycombinator.com/item?id=46272487"
     ],
     [
       "Avoid UUID Version 4 Primary Keys in Postgres",
       "https://andyatkinson.com/avoid-uuid-version-4-primary-keys"
+    ]
+  ],
+  [
+    [
+      "2025-12-15, 02:51:24",
+      "https://news.ycombinator.com/item?id=46269891"
+    ],
+    [
+      "SoundCloud has banned VPN access",
+      "https://old.reddit.com/r/SoundCloudMusic/comments/1pltd19/soundcloud_just_banned_vpn_access/"
+    ]
+  ],
+  [
+    [
+      "2025-12-14, 23:48:37",
+      "https://news.ycombinator.com/item?id=46268452"
+    ],
+    [
+      "AI agents are starting to eat SaaS",
+      "https://martinalderson.com/posts/ai-agents-are-starting-to-eat-saas/"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Nature's many attempts to evolve a Nostr",
       "https://newsletter.squishy.computer/p/natures-many-attempts-to-evolve-a"
-    ]
-  ],
-  [
-    [
-      "2025-12-10, 00:01:17",
-      "https://news.ycombinator.com/item?id=46212376"
-    ],
-    [
-      "Liquid-rust: Liquid templating for Rust",
-      "https://github.com/cobalt-org/liquid-rust"
     ]
   ]
 ]
