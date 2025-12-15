@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-12-15](index.md)
 
+* [2025-12-15, 22:48:56](https://news.ycombinator.com/item?id=46281944) - [JetBlue flight averts mid-air collision with US Air Force jet](https://www.reuters.com/world/americas/jetblue-flight-averts-mid-air-collision-with-us-air-force-jet-2025-12-15/)
 * [2025-12-15, 22:08:13](https://news.ycombinator.com/item?id=46281435) - [Killed by Google](https://killedbygoogle.com)
 * [2025-12-15, 21:56:03](https://news.ycombinator.com/item?id=46281288) - [Economics of Orbital vs. Terrestrial Data Centers](https://andrewmccalip.com/space-datacenters)
 * [2025-12-15, 21:46:53](https://news.ycombinator.com/item?id=46281182) - [Ford kills the All-Electric F-150](https://www.wired.com/story/ford-kills-electric-f-150-lightning-for-hybrid/)
