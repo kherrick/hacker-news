@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-12-15](index.md)
 
+* [2025-12-15, 20:52:35](https://news.ycombinator.com/item?id=46280465) - [A Kernel Bug Froze My Machine: Debugging an Async-Profiler Deadlock](https://questdb.com/blog/async-profiler-kernel-bug/)
 * [2025-12-15, 20:20:05](https://news.ycombinator.com/item?id=46279996) - [Taiwan May Restart Nuclear Power Plant in 2028, Minister Says](https://www.energyconnects.com/news/utilities/2025/december/taiwan-may-restart-nuclear-power-plant-in-2028-minister-says/)
 * [2025-12-15, 19:59:41](https://news.ycombinator.com/item?id=46279674) - [Google discontinuing their dark web report](https://support.google.com/websearch/answer/16767242?hl=en&co=GENIE.Platform%3DAndroid)
 * [2025-12-15, 19:30:22](https://news.ycombinator.com/item?id=46279241) - [Upcoming Changes to Let's Encrypt Certificates](https://community.letsencrypt.org/t/upcoming-changes-to-let-s-encrypt-certificates/243873)
