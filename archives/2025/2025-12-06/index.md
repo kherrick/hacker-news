@@ -34,6 +34,7 @@
 * [2025-12-06, 18:53:57](https://news.ycombinator.com/item?id=46175662) - [Running Claude Code in a loop to mirror human development practices](https://anandchowdhary.com/blog/2025/running-claude-code-in-a-loop)
 * [2025-12-06, 18:32:07](https://news.ycombinator.com/item?id=46175481) - [Fefe is back](http://blog.fefe.de/)
 * [2025-12-06, 17:42:07](https://news.ycombinator.com/item?id=46175112) - [Perl's Decline Was Cultural](https://www.beatworm.co.uk/blog/computers/perls-decline-was-cultural-not-technical)
+* [2025-12-06, 17:21:03](https://news.ycombinator.com/item?id=46174949) - [Show HN: I designed my own 3D printer motherboard](https://github.com/KaiPereira/Cheetah-MX4-Mini)
 * [2025-12-06, 17:13:03](https://news.ycombinator.com/item?id=46174878) - [Show HN: SFX – A language where 0.1 and 0.2 = 0.3 and Context is first-class](https://github.com/roriau0422/sfex-lang)
 * [2025-12-06, 17:01:53](https://news.ycombinator.com/item?id=46174789) - [Infisical (YC W23) Is Hiring Engineers to Build the Modern OSS Security Stack](https://www.ycombinator.com/companies/infisical/jobs/2pwGcK9-senior-full-stack-engineer-us-canada)
 * [2025-12-06, 16:55:13](https://news.ycombinator.com/item?id=46174744) - [Ireland's Inability to Defend Itself](https://www.irishpoliticsnewsletter.ie/p/ireland-neutrality)
