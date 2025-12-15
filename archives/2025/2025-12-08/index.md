@@ -100,6 +100,7 @@
 * [2025-12-08, 07:36:45](https://news.ycombinator.com/item?id=46189480) - [Show HN: Lockenv – Simple encrypted secrets storage for Git](https://github.com/illarion/lockenv)
 * [2025-12-08, 07:24:49](https://news.ycombinator.com/item?id=46189395) - [Microservices Should Form a Polytree](https://bytesauna.com/post/microservices)
 * [2025-12-08, 07:00:33](https://news.ycombinator.com/item?id=46189258) - [Truemetrics (YC S23) Is Hiring](https://www.ycombinator.com/companies/truemetrics/jobs/1EHTSyT-python-software-engineer-analystics-and-algorithms)
+* [2025-12-08, 06:50:59](https://news.ycombinator.com/item?id=46189205) - [Speech and Language Processing (3rd ed. draft)](https://web.stanford.edu/~jurafsky/slp3/)
 * [2025-12-08, 05:43:27](https://news.ycombinator.com/item?id=46188800) - [Funerary figurines found in royal tomb identifies Pharoah](https://www.sciencealert.com/trove-of-225-exceptional-egyptian-figurines-solves-long-standing-mystery)
 * [2025-12-08, 05:13:21](https://news.ycombinator.com/item?id=46188626) - [Mystery Science Theater 3000: The Definitive Oral History of a TV Masterpiece](https://www.wired.com/2014/04/mst3k-oral-history/)
 * [2025-12-08, 04:45:20](https://news.ycombinator.com/item?id=46188451) - [Palantir Could Be the Most Overvalued Company That Ever Existed](https://247wallst.com/investing/2025/11/25/palantir-could-be-the-most-overvalued-company-that-ever-existed/)
