@@ -5,10 +5,13 @@
 ### [Archives](../../index.md) for [2025-12-15](index.md)
 
 * [2025-12-15, 22:08:13](https://news.ycombinator.com/item?id=46281435) - [Killed by Google](https://killedbygoogle.com)
+* [2025-12-15, 21:56:03](https://news.ycombinator.com/item?id=46281288) - [Economics of Orbital vs. Terrestrial Data Centers](https://andrewmccalip.com/space-datacenters)
 * [2025-12-15, 21:46:53](https://news.ycombinator.com/item?id=46281182) - [Ford kills the All-Electric F-150](https://www.wired.com/story/ford-kills-electric-f-150-lightning-for-hybrid/)
 * [2025-12-15, 21:37:09](https://news.ycombinator.com/item?id=46281060) - [Fix HDMI-CEC weirdness with a Raspberry Pi and a $7 cable](https://johnlian.net/posts/hdmi-cec/)
+* [2025-12-15, 21:24:06](https://news.ycombinator.com/item?id=46280887) - [Secret Documents Show Pepsi and Walmart Colluded to Raise Food Prices](https://www.thebignewsletter.com/p/secret-documents-show-pepsi-and-walmart)
 * [2025-12-15, 20:52:35](https://news.ycombinator.com/item?id=46280465) - [A Kernel Bug Froze My Machine: Debugging an Async-Profiler Deadlock](https://questdb.com/blog/async-profiler-kernel-bug/)
 * [2025-12-15, 20:36:49](https://news.ycombinator.com/item?id=46280248) - [I used Claude Code to write a piano web app](https://jcurcioconsulting.com/posts/how-i-used-claude-code-to-write-a-piano-web-app)
+* [2025-12-15, 20:25:18](https://news.ycombinator.com/item?id=46280080) - [1/4 of US-Trained Scientists Eventually Leave. Is the US Giving Away Its Edge?](https://arxiv.org/abs/2512.11146)
 * [2025-12-15, 20:20:05](https://news.ycombinator.com/item?id=46279996) - [Taiwan May Restart Nuclear Power Plant in 2028, Minister Says](https://www.energyconnects.com/news/utilities/2025/december/taiwan-may-restart-nuclear-power-plant-in-2028-minister-says/)
 * [2025-12-15, 20:09:48](https://news.ycombinator.com/item?id=46279825) - [The appropriate amount of effort is zero](https://expandingawareness.org/blog/the-appropriate-amount-of-effort-is-zero/)
 * [2025-12-15, 19:59:41](https://news.ycombinator.com/item?id=46279674) - [Google discontinuing their dark web report](https://support.google.com/websearch/answer/16767242?hl=en&co=GENIE.Platform%3DAndroid)
