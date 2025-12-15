@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-12-15, 10:08:02",
+      "https://news.ycombinator.com/item?id=46272487"
+    ],
+    [
+      "Avoid UUIDv4 Primary Keys",
+      "https://andyatkinson.com/avoid-uuid-version-4-primary-keys"
+    ]
+  ],
+  [
+    [
       "2025-12-15, 05:46:35",
       "https://news.ycombinator.com/item?id=46270882"
     ],
@@ -117,16 +127,6 @@
     [
       "AI agents are starting to eat SaaS",
       "https://martinalderson.com/posts/ai-agents-are-starting-to-eat-saas/"
-    ]
-  ],
-  [
-    [
-      "2025-12-14, 22:46:01",
-      "https://news.ycombinator.com/item?id=46267947"
-    ],
-    [
-      "History of Declarative Programming (2021)",
-      "https://shenlanguage.org/TBoS/tbos_15.html"
     ]
   ],
   [
