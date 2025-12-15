@@ -91,6 +91,7 @@
 * [2025-12-08, 08:57:19](https://news.ycombinator.com/item?id=46189994) - [The f*** off contact page](https://www.nicchan.me/blog/the-f-off-contact-page/)
 * [2025-12-08, 08:52:03](https://news.ycombinator.com/item?id=46189962) - [Use Python for Scripting](https://hypirion.com/musings/use-python-for-scripting)
 * [2025-12-08, 08:44:06](https://news.ycombinator.com/item?id=46189905) - [In the Beginning Was the Command Line (1999)](https://web.stanford.edu/class/cs81n/command.txt)
+* [2025-12-08, 08:35:24](https://news.ycombinator.com/item?id=46189836) - [Show HN: Dograh – an OSS Vapi alternative to quickly build and test voice agents](https://github.com/dograh-hq/dograh)
 * [2025-12-08, 08:29:47](https://news.ycombinator.com/item?id=46189792) - [You Gotta Push If You Wanna Pull](https://www.morling.dev/blog/you-gotta-push-if-you-wanna-pull/)
 * [2025-12-08, 08:16:26](https://news.ycombinator.com/item?id=46189704) - [Applets Are Officially Gone, but Java in the Browser Is Better](https://frequal.com/java/AppletsGoneButJavaInTheBrowserBetterThanEver.html)
 * [2025-12-08, 08:15:32](https://news.ycombinator.com/item?id=46189692) - [GitHub Actions Has a Package Manager, and It Might Be the Worst](https://nesbitt.io/2025/12/06/github-actions-package-manager.html)
