@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-12-15](index.md)
 
+* [2025-12-15, 19:27:08](https://news.ycombinator.com/item?id=46279187) - [Umbrel – Personal Cloud](https://umbrel.com)
+* [2025-12-15, 19:23:51](https://news.ycombinator.com/item?id=46279123) - [\"Super secure\" MAGA-themed messaging app leaks everyone's phone number](https://ericdaigle.ca/posts/super-secure-maga-messaging-app-leaks-everyones-phone-number/)
 * [2025-12-15, 19:19:23](https://news.ycombinator.com/item?id=46279053) - [United 777-200 Fleet Faces an Uncertain Future After Dulles Engine Failure](https://liveandletsfly.com/united-airlines-777-200-future/)
 * [2025-12-15, 19:07:10](https://news.ycombinator.com/item?id=46278857) - [D-Bus is a disgrace to the Linux desktop](https://blog.vaxry.net/articles/2025-dbusSucks)
 * [2025-12-15, 18:19:20](https://news.ycombinator.com/item?id=46278232) - [Australia's Social Media Ban Was Pushed by Gambling Ad Agency](https://www.techdirt.com/2025/12/15/australias-social-media-ban-was-pushed-by-ad-agency-focused-on-gambling-ads-it-didnt-want-banned/)
@@ -17,6 +19,7 @@
 * [2025-12-15, 16:36:19](https://news.ycombinator.com/item?id=46276740) - [Pro-democracy HK tycoon Jimmy Lai convicted in national security trial](https://www.bbc.com/news/articles/cp844kjj37vo)
 * [2025-12-15, 16:33:47](https://news.ycombinator.com/item?id=46276708) - [They were almost American – then Trump cancelled their citizenship ceremonies](https://www.bbc.com/news/articles/cn8135qeezwo)
 * [2025-12-15, 16:11:37](https://news.ycombinator.com/item?id=46276378) - [$50 PlanetScale Metal Is GA for Postgres](https://planetscale.com/blog/50-dollar-planetscale-metal-is-ga-for-postgres)
+* [2025-12-15, 16:08:01](https://news.ycombinator.com/item?id=46276313) - [We architected an edge caching layer to eliminate cold starts](https://www.mintlify.com/blog/page-speed-improvements)
 * [2025-12-15, 15:48:34](https://news.ycombinator.com/item?id=46276019) - [Ask HN: Is building a calm, non-gamified learning app a mistake?](https://news.ycombinator.com/item?id=46276019)
 * [2025-12-15, 14:57:17](https://news.ycombinator.com/item?id=46275328) - [We Put Flock Under Surveillance: Go Make Them Behave Differently [video]](https://www.youtube.com/watch?v=W420BOqga_s)
 * [2025-12-15, 14:51:36](https://news.ycombinator.com/item?id=46275258) - [Samsung may end SATA SSD production soon](https://www.techradar.com/computing/storage-backup/looking-for-a-cheap-ssd-dont-wait-samsung-could-stop-producing-budget-models-soon)

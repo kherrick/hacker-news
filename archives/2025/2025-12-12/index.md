@@ -6,6 +6,7 @@
 
 * [2025-12-12, 23:30:19](https://news.ycombinator.com/item?id=46250332) - [OpenAI are quietly adopting skills, now available in ChatGPT and Codex CLI](https://simonwillison.net/2025/Dec/12/openai-skills/)
 * [2025-12-12, 23:26:26](https://news.ycombinator.com/item?id=46250309) - [50 years of proof assistants](https://lawrencecpaulson.github.io//2025/12/05/History_of_Proof_Assistants.html)
+* [2025-12-12, 23:21:02](https://news.ycombinator.com/item?id=46250259) - [US TikTok investors in limbo as deal set to be delayed again](https://www.bbc.com/news/articles/cp34442z25ko)
 * [2025-12-12, 22:34:13](https://news.ycombinator.com/item?id=46249834) - [Can I use HTTPS RRs?](https://www.netmeister.org/blog/https-caniuse.html)
 * [2025-12-12, 22:05:04](https://news.ycombinator.com/item?id=46249566) - [Wine 11.0 RC2 – Run Windows Applications on Linux, BSD, Solaris and macOS](https://gitlab.winehq.org/wine/wine/-/releases/wine-11.0-rc2)
 * [2025-12-12, 22:02:14](https://news.ycombinator.com/item?id=46249538) - [Show HN: Tiny VM sandbox in C with apps in Rust, C and Zig](https://github.com/ringtailsoftware/uvm32)
@@ -16,6 +17,7 @@
 * [2025-12-12, 20:28:41](https://news.ycombinator.com/item?id=46248470) - [Security Issues with Electronic Invoices](https://invoice.secvuln.info/)
 * [2025-12-12, 20:24:04](https://news.ycombinator.com/item?id=46248417) - [New Kindle Feature Uses AI to Answer Questions About Books–Authors Can't Opt Out](https://reactormag.com/new-kindle-feature-ai-answer-questions-books-authors/)
 * [2025-12-12, 20:15:58](https://news.ycombinator.com/item?id=46248323) - [Rats Play Doom](https://ratsplaydoom.com/)
+* [2025-12-12, 20:13:26](https://news.ycombinator.com/item?id=46248294) - [In Defense of Matlab Code](https://runmat.org/blog/in-defense-of-matlab-whiteboard-style-code)
 * [2025-12-12, 19:41:46](https://news.ycombinator.com/item?id=46247919) - [The Average Founder Ages 6 Months Each Year](https://tomtunguz.com/founder-age-median-trend/)
 * [2025-12-12, 19:13:35](https://news.ycombinator.com/item?id=46247605) - [Windows 3.1 'Hot Dog Stand' color scheme true story](https://www.pcgamer.com/software/windows/windows-3-1-included-a-red-and-yellow-hot-dog-stand-color-scheme-so-garish-it-was-long-assumed-to-be-a-joke-so-i-tracked-down-the-original-designer-to-get-the-true-story/)
 * [2025-12-12, 18:58:43](https://news.ycombinator.com/item?id=46247415) - [Benn Jordan's flock camera jammer will send you to jail in Florida now [video]](https://www.youtube.com/watch?v=qEllWdK4l_A)
