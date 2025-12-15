@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-12-15, 19:27:08](https://news.ycombinator.com/item?id=46279187) - [Umbrel – Personal Cloud](https://umbrel.com)
-* [2025-12-15, 19:23:51](https://news.ycombinator.com/item?id=46279123) - [\"Super secure\" MAGA-themed messaging app leaks everyone's phone number](https://ericdaigle.ca/posts/super-secure-maga-messaging-app-leaks-everyones-phone-number/)
-* [2025-12-15, 19:19:23](https://news.ycombinator.com/item?id=46279053) - [United 777-200 fleet faces an uncertain future after dulles engine failure](https://liveandletsfly.com/united-airlines-777-200-future/)
+* [2025-12-15, 19:23:51](https://news.ycombinator.com/item?id=46279123) - [“Super secure” MAGA-themed messaging app leaks everyone's phone number](https://ericdaigle.ca/posts/super-secure-maga-messaging-app-leaks-everyones-phone-number/)
+* [2025-12-15, 19:19:23](https://news.ycombinator.com/item?id=46279053) - [United 777-200 fleet faces an uncertain future after Dulles engine failure](https://liveandletsfly.com/united-airlines-777-200-future/)
 * [2025-12-15, 19:07:10](https://news.ycombinator.com/item?id=46278857) - [D-Bus is a disgrace to the Linux desktop](https://blog.vaxry.net/articles/2025-dbusSucks)
 * [2025-12-15, 18:19:20](https://news.ycombinator.com/item?id=46278232) - [Australia's Social Media Ban Was Pushed by Gambling Ad Agency](https://www.techdirt.com/2025/12/15/australias-social-media-ban-was-pushed-by-ad-agency-focused-on-gambling-ads-it-didnt-want-banned/)
 * [2025-12-15, 18:16:34](https://news.ycombinator.com/item?id=46278208) - [Chafa: Terminal Graphics for the 21st Century](https://hpjansson.org/chafa/)
