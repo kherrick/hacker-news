@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-12-15](index.md)
 
 * [2025-12-15, 06:05:35](https://news.ycombinator.com/item?id=46270972) - [Why proteins fold and how GPUs help us fold](https://aval.bearblog.dev/nvidiaproteins/)
+* [2025-12-15, 05:46:35](https://news.ycombinator.com/item?id=46270882) - [Common Rust Lifetime Misconceptions](https://github.com/pretzelhammer/rust-blog/blob/master/posts/common-rust-lifetime-misconceptions.md)
 * [2025-12-15, 05:20:38](https://news.ycombinator.com/item?id=46270746) - [Rob Reiner,Legendary Director and Actor,and Wife Found Dead in Apparent Homicide](https://www.rollingstone.com/tv-movies/tv-movie-news/rob-reiner-ldead-obituary-1235483876/)
 * [2025-12-15, 04:46:49](https://news.ycombinator.com/item?id=46270597) - [SVG Fullstack Website](https://github.com/icitry/SVGWebsite)
 * [2025-12-15, 04:15:21](https://news.ycombinator.com/item?id=46270415) - [Read Something Wonderful](https://readsomethingwonderful.com/)
