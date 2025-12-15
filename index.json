@@ -1,12 +1,42 @@
 [
   [
     [
+      "2025-12-15, 14:37:12",
+      "https://news.ycombinator.com/item?id=46275079"
+    ],
+    [
+      "Thousands of U.S. farmers have Parkinson's. They blame a deadly pesticide",
+      "https://www.mlive.com/news/2025/12/thousands-of-us-farmers-have-parkinsons-they-blame-a-deadly-pesticide.html"
+    ]
+  ],
+  [
+    [
       "2025-12-15, 14:16:32",
       "https://news.ycombinator.com/item?id=46274822"
     ],
     [
-      "Top Gun's Carrier Landing: Exposed",
+      "Carrier Landing in Top Gun for the NES",
       "https://relaxing.run/blag/posts/top-gun-landing/"
+    ]
+  ],
+  [
+    [
+      "2025-12-15, 13:48:03",
+      "https://news.ycombinator.com/item?id=46274478"
+    ],
+    [
+      "It seems that OpenAI is scraping [certificate transparency] logs",
+      "https://benjojo.co.uk/u/benjojo/h/Gxy2qrCkn1Y327Y6D3"
+    ]
+  ],
+  [
+    [
+      "2025-12-15, 12:45:18",
+      "https://news.ycombinator.com/item?id=46273762"
+    ],
+    [
+      "MIT Missing Semester 2026",
+      "https://missing.csail.mit.edu/2026/"
     ]
   ],
   [
@@ -25,7 +55,7 @@
       "https://news.ycombinator.com/item?id=46273344"
     ],
     [
-      "Largest U.S. Recycling Project to Extend Landfill Life for Virginia Residents",
+      "Largest U.S. recycling project to extend landfill life for Virginia residents",
       "https://ampsortation.com/articles/largest-us-recycling-project-spsa"
     ]
   ],
@@ -47,16 +77,6 @@
     [
       "Common Rust Lifetime Misconceptions",
       "https://github.com/pretzelhammer/rust-blog/blob/master/posts/common-rust-lifetime-misconceptions.md"
-    ]
-  ],
-  [
-    [
-      "2025-12-15, 04:15:21",
-      "https://news.ycombinator.com/item?id=46270415"
-    ],
-    [
-      "Read Something Wonderful",
-      "https://readsomethingwonderful.com/"
     ]
   ],
   [
@@ -111,12 +131,12 @@
   ],
   [
     [
-      "2025-12-15, 00:39:31",
-      "https://news.ycombinator.com/item?id=46268869"
+      "2025-12-15, 02:51:24",
+      "https://news.ycombinator.com/item?id=46269891"
     ],
     [
-      "CapROS: Capability-Based Reliable Operating System",
-      "https://www.capros.org/"
+      "SoundCloud has banned VPN access",
+      "https://old.reddit.com/r/SoundCloudMusic/comments/1pltd19/soundcloud_just_banned_vpn_access/"
     ]
   ],
   [
@@ -147,16 +167,6 @@
     [
       "AI agents are starting to eat SaaS",
       "https://martinalderson.com/posts/ai-agents-are-starting-to-eat-saas/"
-    ]
-  ],
-  [
-    [
-      "2025-12-14, 21:53:13",
-      "https://news.ycombinator.com/item?id=46267385"
-    ],
-    [
-      "Elevated errors across many models",
-      "https://status.claude.com/incidents/9g6qpr72ttbr"
     ]
   ],
   [
@@ -231,16 +241,6 @@
   ],
   [
     [
-      "2025-12-11, 09:30:32",
-      "https://news.ycombinator.com/item?id=46229350"
-    ],
-    [
-      "A trip through the Graphics Pipeline (2011)",
-      "https://fgiesen.wordpress.com/2011/07/09/a-trip-through-the-graphics-pipeline-2011-index/"
-    ]
-  ],
-  [
-    [
       "2025-12-11, 08:42:22",
       "https://news.ycombinator.com/item?id=46229030"
     ],
@@ -261,6 +261,16 @@
   ],
   [
     [
+      "2025-12-09, 22:44:19",
+      "https://news.ycombinator.com/item?id=46211767"
+    ],
+    [
+      "How well do you know C++ auto type deduction?",
+      "https://www.volatileint.dev/posts/auto-type-deduction-gauntlet/"
+    ]
+  ],
+  [
+    [
       "2025-12-08, 14:06:35",
       "https://news.ycombinator.com/item?id=46192348"
     ],
@@ -277,16 +287,6 @@
     [
       "DNA Learning Center: Mechanism of Replication 3D Animation",
       "https://dnalc.cshl.edu/resources/3d/04-mechanism-of-replication-advanced.html"
-    ]
-  ],
-  [
-    [
-      "2025-12-07, 03:42:37",
-      "https://news.ycombinator.com/item?id=46178966"
-    ],
-    [
-      "Rio de Janeiro's talipot palm trees bloom for the first and only time",
-      "https://apnews.com/article/brazil-rio-talipot-palm-flamengo-park-dcfb1ce237af7a10ab72205fc9bbdc02"
     ]
   ],
   [
