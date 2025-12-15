@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-12-15, 06:05:35](https://news.ycombinator.com/item?id=46270972) - [Why proteins fold and how GPUs help us fold](https://aval.bearblog.dev/nvidiaproteins/)
-* [2025-12-15, 04:46:49](https://news.ycombinator.com/item?id=46270597) - [SVG Fullstack Website](https://github.com/icitry/SVGWebsite)
 * [2025-12-15, 04:15:21](https://news.ycombinator.com/item?id=46270415) - [Read Something Wonderful](https://readsomethingwonderful.com/)
 * [2025-12-15, 04:09:51](https://news.ycombinator.com/item?id=46270386) - [The Whole App is a Blob](https://drobinin.com/posts/the-whole-app-is-a-blob/)
 * [2025-12-15, 03:57:46](https://news.ycombinator.com/item?id=46270298) - [Arborium: Tree-sitter code highlighting with Native and WASM targets](https://arborium.bearcove.eu/)
@@ -25,6 +24,7 @@
 * [2025-12-14, 16:09:44](https://news.ycombinator.com/item?id=46264068) - [Price of a bot army revealed across online platforms](https://www.cam.ac.uk/stories/price-bot-army-global-index)
 * [2025-12-14, 10:07:00](https://news.ycombinator.com/item?id=46262021) - [Shai-Hulud compromised a dev machine and raided GitHub org access: a post-mortem](https://trigger.dev/blog/shai-hulud-postmortem)
 * [2025-12-11, 18:54:42](https://news.ycombinator.com/item?id=46235460) - [The History of Xerox](https://www.abortretry.fail/p/the-history-of-xerox)
+* [2025-12-10, 21:44:30](https://news.ycombinator.com/item?id=46224303) - [Developing a food-safe finish for my wooden spoons](https://alinpanaitiu.com/blog/developing-hardwax-oil/)
 * [2025-12-09, 22:44:19](https://news.ycombinator.com/item?id=46211767) - [How well do you know C++ auto type deduction?](https://www.volatileint.dev/posts/auto-type-deduction-gauntlet/)
 * [2025-12-08, 21:54:12](https://news.ycombinator.com/item?id=46198177) - [Running on Empty: Copper](https://thehonestsorcerer.substack.com/p/running-on-empty-copper)
 * [2025-12-08, 08:44:06](https://news.ycombinator.com/item?id=46189905) - [In the Beginning was the Command Line (1999)](https://web.stanford.edu/class/cs81n/command.txt)
