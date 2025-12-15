@@ -231,16 +231,6 @@
   ],
   [
     [
-      "2025-12-14, 18:18:34",
-      "https://news.ycombinator.com/item?id=46265362"
-    ],
-    [
-      "Adafruit: Arduino’s Rules Are ‘Incompatible With Open Source’",
-      "https://thenewstack.io/adafruit-arduinos-rules-are-incompatible-with-open-source/"
-    ]
-  ],
-  [
-    [
       "2025-12-14, 17:10:08",
       "https://news.ycombinator.com/item?id=46264657"
     ],
@@ -297,6 +287,16 @@
     [
       "In Defense of Matlab Code",
       "https://runmat.org/blog/in-defense-of-matlab-whiteboard-style-code"
+    ]
+  ],
+  [
+    [
+      "2025-12-10, 00:01:17",
+      "https://news.ycombinator.com/item?id=46212376"
+    ],
+    [
+      "Liquid-rust: Liquid templating for Rust",
+      "https://github.com/cobalt-org/liquid-rust"
     ]
   ]
 ]
