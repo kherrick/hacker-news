@@ -6,10 +6,12 @@
 
 * [2025-12-15, 06:05:35](https://news.ycombinator.com/item?id=46270972) - [Why proteins fold and how GPUs help us fold](https://aval.bearblog.dev/nvidiaproteins/)
 * [2025-12-15, 05:20:38](https://news.ycombinator.com/item?id=46270746) - [Rob Reiner,Legendary Director and Actor,and Wife Found Dead in Apparent Homicide](https://www.rollingstone.com/tv-movies/tv-movie-news/rob-reiner-ldead-obituary-1235483876/)
+* [2025-12-15, 04:46:49](https://news.ycombinator.com/item?id=46270597) - [SVG Fullstack Website](https://github.com/icitry/SVGWebsite)
 * [2025-12-15, 04:15:21](https://news.ycombinator.com/item?id=46270415) - [Read Something Wonderful](https://readsomethingwonderful.com/)
 * [2025-12-15, 04:09:51](https://news.ycombinator.com/item?id=46270386) - [The Whole App is a Blob](https://drobinin.com/posts/the-whole-app-is-a-blob/)
 * [2025-12-15, 03:57:46](https://news.ycombinator.com/item?id=46270298) - [Arborium: Tree-sitter code highlighting with Native and WASM targets](https://arborium.bearcove.eu/)
 * [2025-12-15, 03:55:07](https://news.ycombinator.com/item?id=46270282) - [Unscii](http://viznut.fi/unscii/)
+* [2025-12-15, 03:54:03](https://news.ycombinator.com/item?id=46270273) - [Rob Reiner has died](https://www.hollywoodreporter.com/movies/movie-news/rob-reiner-dead-harry-met-sally-princess-bride-all-in-family-1236450387/)
 * [2025-12-15, 03:04:50](https://news.ycombinator.com/item?id=46269991) - [John Varley has died](http://floggingbabel.blogspot.com/2025/12/john-varley-1947-2025.html)
 * [2025-12-15, 02:51:24](https://news.ycombinator.com/item?id=46269891) - [SoundCloud just banned VPN access](https://old.reddit.com/r/SoundCloudMusic/comments/1pltd19/soundcloud_just_banned_vpn_access/)
 * [2025-12-15, 01:34:35](https://news.ycombinator.com/item?id=46269296) - [Mom and daughter find stranger in trunk of Waymo](https://abc7.com/post/los-angeles-viral-video-mom-daughter-find-stranger-trunk-waymo-macarthur-park/18286019/)
