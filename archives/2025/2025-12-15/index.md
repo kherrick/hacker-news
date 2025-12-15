@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-12-15](index.md)
 
+* [2025-12-15, 19:30:22](https://news.ycombinator.com/item?id=46279241) - [Upcoming Changes to Let's Encrypt Certificates](https://community.letsencrypt.org/t/upcoming-changes-to-let-s-encrypt-certificates/243873)
 * [2025-12-15, 19:27:08](https://news.ycombinator.com/item?id=46279187) - [Umbrel – Personal Cloud](https://umbrel.com)
 * [2025-12-15, 19:23:51](https://news.ycombinator.com/item?id=46279123) - [\"Super secure\" MAGA-themed messaging app leaks everyone's phone number](https://ericdaigle.ca/posts/super-secure-maga-messaging-app-leaks-everyones-phone-number/)
 * [2025-12-15, 19:19:23](https://news.ycombinator.com/item?id=46279053) - [United 777-200 Fleet Faces an Uncertain Future After Dulles Engine Failure](https://liveandletsfly.com/united-airlines-777-200-future/)
