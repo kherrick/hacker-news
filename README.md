@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-12-15, 20:20:05](https://news.ycombinator.com/item?id=46279996) - [Taiwan May Restart Nuclear Power Plant in 2028, Minister Says](https://www.energyconnects.com/news/utilities/2025/december/taiwan-may-restart-nuclear-power-plant-in-2028-minister-says/)
+* [2025-12-15, 19:59:41](https://news.ycombinator.com/item?id=46279674) - [Google discontinuing their dark web report](https://support.google.com/websearch/answer/16767242?hl=en&co=GENIE.Platform%3DAndroid)
 * [2025-12-15, 19:30:22](https://news.ycombinator.com/item?id=46279241) - [Upcoming Changes to Let's Encrypt Certificates](https://community.letsencrypt.org/t/upcoming-changes-to-let-s-encrypt-certificates/243873)
 * [2025-12-15, 19:27:08](https://news.ycombinator.com/item?id=46279187) - [Umbrel – Personal Cloud](https://umbrel.com)
 * [2025-12-15, 19:23:51](https://news.ycombinator.com/item?id=46279123) - [“Super secure” MAGA-themed messaging app leaks everyone's phone number](https://ericdaigle.ca/posts/super-secure-maga-messaging-app-leaks-everyones-phone-number/)
@@ -8,10 +10,8 @@
 * [2025-12-15, 18:16:34](https://news.ycombinator.com/item?id=46278208) - [Chafa: Terminal Graphics for the 21st Century](https://hpjansson.org/chafa/)
 * [2025-12-15, 17:19:24](https://news.ycombinator.com/item?id=46277353) - [US Tech Force](https://techforce.gov/)
 * [2025-12-15, 17:01:42](https://news.ycombinator.com/item?id=46277090) - [Cosmic-ray bath in a past supernova gives birth to Earth-like planets](https://www.science.org/doi/10.1126/sciadv.adx7892)
-* [2025-12-15, 16:36:19](https://news.ycombinator.com/item?id=46276740) - [Pro-democracy HK tycoon Jimmy Lai convicted in national security trial](https://www.bbc.com/news/articles/cp844kjj37vo)
 * [2025-12-15, 16:08:01](https://news.ycombinator.com/item?id=46276313) - [We architected an edge caching layer to eliminate cold starts](https://www.mintlify.com/blog/page-speed-improvements)
 * [2025-12-15, 15:48:34](https://news.ycombinator.com/item?id=46276019) - [Ask HN: Is building a calm, non-gamified learning app a mistake?](https://news.ycombinator.com/item?id=46276019)
-* [2025-12-15, 14:57:17](https://news.ycombinator.com/item?id=46275328) - [We put flock under surveillance: Go make them behave differently [video]](https://www.youtube.com/watch?v=W420BOqga_s)
 * [2025-12-15, 14:37:12](https://news.ycombinator.com/item?id=46275079) - [Thousands of U.S. farmers have Parkinson's. They blame a deadly pesticide](https://www.mlive.com/news/2025/12/thousands-of-us-farmers-have-parkinsons-they-blame-a-deadly-pesticide.html)
 * [2025-12-15, 14:16:32](https://news.ycombinator.com/item?id=46274822) - [Carrier Landing in Top Gun for the NES](https://relaxing.run/blag/posts/top-gun-landing/)
 * [2025-12-15, 13:48:03](https://news.ycombinator.com/item?id=46274478) - [It seems that OpenAI is scraping [certificate transparency] logs](https://benjojo.co.uk/u/benjojo/h/Gxy2qrCkn1Y327Y6D3)
