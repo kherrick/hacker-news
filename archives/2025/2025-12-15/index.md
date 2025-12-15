@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-12-15](index.md)
 
+* [2025-12-15, 16:36:19](https://news.ycombinator.com/item?id=46276740) - [Pro-democracy HK tycoon Jimmy Lai convicted in national security trial](https://www.bbc.com/news/articles/cp844kjj37vo)
 * [2025-12-15, 16:33:47](https://news.ycombinator.com/item?id=46276708) - [They were almost American – then Trump cancelled their citizenship ceremonies](https://www.bbc.com/news/articles/cn8135qeezwo)
 * [2025-12-15, 16:11:37](https://news.ycombinator.com/item?id=46276378) - [$50 PlanetScale Metal Is GA for Postgres](https://planetscale.com/blog/50-dollar-planetscale-metal-is-ga-for-postgres)
 * [2025-12-15, 15:48:34](https://news.ycombinator.com/item?id=46276019) - [Ask HN: Is building a calm, non-gamified learning app a mistake?](https://news.ycombinator.com/item?id=46276019)
