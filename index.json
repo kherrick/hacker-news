@@ -1,22 +1,32 @@
 [
   [
     [
-      "2025-12-15, 00:36:44",
-      "https://news.ycombinator.com/item?id=46268854"
+      "2025-12-15, 00:45:38",
+      "https://news.ycombinator.com/item?id=46268911"
     ],
     [
-      "Robot Vacuum Roomba Maker Files for Bankruptcy After 35 Years",
-      "https://news.bloomberglaw.com/bankruptcy-law/robot-vacuum-roomba-maker-files-for-bankruptcy-after-35-years"
+      "SPhotonix – 360TB into 5-inch glass disc with femtosecond laser",
+      "https://www.tomshardware.com/pc-components/storage/sphotonix-pushes-5d-glass-storage-toward-data-center-pilots"
     ]
   ],
   [
     [
-      "2025-12-15, 00:17:02",
-      "https://news.ycombinator.com/item?id=46268709"
+      "2025-12-15, 00:39:31",
+      "https://news.ycombinator.com/item?id=46268869"
     ],
     [
-      "If AI replaces workers, should it also pay taxes?",
-      "https://english.elpais.com/technology/2025-11-30/if-ai-replaces-workers-should-it-also-pay-taxes.html"
+      "CapROS: The Capability-Based Reliable Operating System",
+      "https://www.capros.org/"
+    ]
+  ],
+  [
+    [
+      "2025-12-15, 00:35:41",
+      "https://news.ycombinator.com/item?id=46268844"
+    ],
+    [
+      "Microsoft Copilot AI Comes to LG TVs, and Can't Be Deleted",
+      "https://www.techpowerup.com/344075/microsoft-copilot-ai-comes-to-lg-tvs-and-cant-be-deleted"
     ]
   ],
   [
@@ -31,21 +41,11 @@
   ],
   [
     [
-      "2025-12-14, 23:48:37",
-      "https://news.ycombinator.com/item?id=46268452"
-    ],
-    [
-      "AI agents are starting to eat SaaS",
-      "https://martinalderson.com/posts/ai-agents-are-starting-to-eat-saas/"
-    ]
-  ],
-  [
-    [
       "2025-12-14, 23:23:00",
       "https://news.ycombinator.com/item?id=46268222"
     ],
     [
-      "Claude CLI deleted my home directory Wiped my whole Mac",
+      "Claude CLI deleted my home directory and wiped my Mac",
       "https://old.reddit.com/r/ClaudeAI/comments/1pgxckk/claude_cli_deleted_my_entire_home_directory_wiped/"
     ]
   ],
@@ -57,16 +57,6 @@
     [
       "DARPA GO: Generative Optogenetics",
       "https://www.darpa.mil/research/programs/go"
-    ]
-  ],
-  [
-    [
-      "2025-12-14, 23:02:40",
-      "https://news.ycombinator.com/item?id=46268055"
-    ],
-    [
-      "Ask HN: Is starting a personal blog still worth it in the age of AI?",
-      "https://news.ycombinator.com/item?id=46268055"
     ]
   ],
   [
@@ -85,7 +75,7 @@
       "https://news.ycombinator.com/item?id=46267385"
     ],
     [
-      "Anthropic Outage for Opus 4.5 and Sonnet 4/4.5 across all services",
+      "Elevated errors across many models",
       "https://status.claude.com/incidents/9g6qpr72ttbr"
     ]
   ],
@@ -181,16 +171,6 @@
   ],
   [
     [
-      "2025-12-14, 15:05:06",
-      "https://news.ycombinator.com/item?id=46263530"
-    ],
-    [
-      "Illuminating the processor core with LLVM-mca",
-      "https://abseil.io/fast/99"
-    ]
-  ],
-  [
-    [
       "2025-12-14, 13:19:15",
       "https://news.ycombinator.com/item?id=46262816"
     ],
@@ -207,6 +187,16 @@
     [
       "Baumol's Cost Disease",
       "https://en.wikipedia.org/wiki/Baumol_effect"
+    ]
+  ],
+  [
+    [
+      "2025-12-14, 12:04:44",
+      "https://news.ycombinator.com/item?id=46262480"
+    ],
+    [
+      "Efficient Basic Coding for the ZX Spectrum (2020)",
+      "https://blog.jafma.net/2020/02/24/efficient-basic-coding-for-the-zx-spectrum/"
     ]
   ],
   [
@@ -261,12 +251,12 @@
   ],
   [
     [
-      "2025-12-09, 09:05:01",
-      "https://news.ycombinator.com/item?id=46202853"
+      "2025-12-10, 10:03:56",
+      "https://news.ycombinator.com/item?id=46216008"
     ],
     [
-      "Standalone Meshtastic Command Center – One HTML File Offline",
-      "https://github.com/Jordan-Townsend/Standalone"
+      "Getting into Public Speaking",
+      "https://james.brooks.page/blog/getting-into-public-speaking"
     ]
   ],
   [
@@ -291,11 +281,21 @@
   ],
   [
     [
+      "2025-12-08, 08:35:24",
+      "https://news.ycombinator.com/item?id=46189836"
+    ],
+    [
+      "Show HN: Dograh – an OSS Vapi alternative to quickly build and test voice agents",
+      "https://github.com/dograh-hq/dograh"
+    ]
+  ],
+  [
+    [
       "2025-12-08, 00:25:34",
       "https://news.ycombinator.com/item?id=46186914"
     ],
     [
-      "An Attempt at a Compelling Articulation of Forth's Practical Strengths and Eter",
+      "An attempt to articulate forth's practical strengths and eternal usefulness",
       "https://im-just-lee.ing/forth-why-cb234c03.txt"
     ]
   ]
