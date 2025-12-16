@@ -26,8 +26,8 @@
 * [2025-12-12, 06:47:45](https://news.ycombinator.com/item?id=46241500) - [“Are you the one?” is free money](https://blog.owenlacey.dev/posts/are-you-the-one-is-free-money/)
 * [2025-12-11, 00:11:32](https://news.ycombinator.com/item?id=46225950) - [Understanding carriage](https://seths.blog/2025/12/understanding-carriage/)
 * [2025-12-10, 23:54:34](https://news.ycombinator.com/item?id=46225803) - [Nature's many attempts to evolve a Nostr](https://newsletter.squishy.computer/p/natures-many-attempts-to-evolve-a)
+* [2025-12-10, 23:16:26](https://news.ycombinator.com/item?id=46225406) - [Debugging TLS failures in distroless containers](https://lucabaggi.com/posts/ssl-docker/)
 * [2025-12-10, 15:54:59](https://news.ycombinator.com/item?id=46219203) - [Light intensity steers molecular assemblies into 1D, 2D or 3D structures](https://phys.org/news/2025-11-intensity-molecular-1d-2d-3d.html)
-* [2025-12-10, 09:42:57](https://news.ycombinator.com/item?id=46215856) - [How does Windows synthesize CF_Unicode­TEXT from CF_TEXT and vice versa?](https://devblogs.microsoft.com/oldnewthing/20251209-00/?p=111854)
 * [2025-12-09, 20:20:04](https://news.ycombinator.com/item?id=46210087) - [John Updike wrote it all down](https://newrepublic.com/article/201598/john-updike-wrote)
 * [2025-12-06, 17:21:03](https://news.ycombinator.com/item?id=46174949) - [Show HN: I designed my own 3D printer motherboard](https://github.com/KaiPereira/Cheetah-MX4-Mini)
 
