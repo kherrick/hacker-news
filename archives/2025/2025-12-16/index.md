@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-12-16](index.md)
 
+* [2025-12-16, 22:48:56](https://news.ycombinator.com/item?id=46295771) - [I Ported JustHTML from Python to JavaScript with Codex CLI and GPT-5.2 in 4.5h](https://simonwillison.net/2025/Dec/15/porting-justhtml/)
+* [2025-12-16, 22:07:49](https://news.ycombinator.com/item?id=46295268) - [No AI* Here – A Response to Mozilla's Next Chapter](https://www.waterfox.com/blog/no-ai-here-response-to-mozilla/)
 * [2025-12-16, 21:52:26](https://news.ycombinator.com/item?id=46295071) - [MIT professor shot at his Massachusetts home dies](https://www.bbc.com/news/articles/cly08y25688o)
 * [2025-12-16, 21:18:46](https://news.ycombinator.com/item?id=46294626) - [Reverse-Engineering the RK3588 NPU: Hacking Limits to Run Vision Transformers](https://amohan.dev/blog/2025/shard-optimizing-vision-transformers-edge-npu/)
 * [2025-12-16, 21:16:35](https://news.ycombinator.com/item?id=46294592) - [Chat-tails: Throwback terminal chat, built on Tailscale](https://tailscale.com/blog/chat-tails-terminal-chat)
