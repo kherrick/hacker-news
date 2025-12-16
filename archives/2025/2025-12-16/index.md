@@ -18,6 +18,7 @@
 * [2025-12-16, 15:22:32](https://news.ycombinator.com/item?id=46289635) - [Four Million U.S. Children Had No Health Insurance in 2024](https://www.scientificamerican.com/article/how-rising-rates-of-uninsured-children-will-increase-pediatric-cancer-deaths/)
 * [2025-12-16, 14:46:52](https://news.ycombinator.com/item?id=46289160) - [CEOs to Keep Spending on AI, Despite Spotty Returns](https://www.wsj.com/tech/ai/ceos-to-keep-spending-on-ai-despite-spotty-returns-2eaeb6b)
 * [2025-12-16, 14:43:18](https://news.ycombinator.com/item?id=46289115) - [Mozilla's new CEO is doubling down on an AI future for Firefox](https://www.theverge.com/tech/845216/mozilla-ceo-anthony-enzor-demeo)
+* [2025-12-16, 14:39:59](https://news.ycombinator.com/item?id=46289073) - [Show HN: Solving the ~95% legislative coverage gap using LLM's](https://lustra.news/)
 * [2025-12-16, 14:11:08](https://news.ycombinator.com/item?id=46288673) - [U.S. unemployment rose in November despite job gains](https://www.wsj.com/economy/jobs/jobs-report-october-november-2025-unemployment-economy-7f6eea90)
 * [2025-12-16, 13:53:14](https://news.ycombinator.com/item?id=46288491) - [Mozilla Appoints New CEO Anthony Enzor-Demeo](https://blog.mozilla.org/en/mozilla/leadership/mozillas-next-chapter-anthony-enzor-demeo-new-ceo/)
 * [2025-12-16, 13:46:57](https://news.ycombinator.com/item?id=46288415) - [40 percent of MRI signals do not correspond to actual brain activity](https://www.tum.de/en/news-and-events/all-news/press-releases/details/40-percent-of-mri-signals-do-not-correspond-to-actual-brain-activity)
@@ -52,3 +53,4 @@
 * [2025-12-16, 00:34:35](https://news.ycombinator.com/item?id=46283129) - [Ideas Aren't Getting Harder to Find](https://asteriskmag.com/issues/12-books/ideas-arent-getting-harder-to-find)
 * [2025-12-16, 00:22:41](https://news.ycombinator.com/item?id=46283016) - [Quill OS – an open-source, fully-functional standalone OS for Kobo eReaders](https://quill-os.org/)
 * [2025-12-16, 00:18:58](https://news.ycombinator.com/item?id=46282984) - [The Bob Dylan Concert for Just One Person](https://www.flaggingdown.com/p/the-bob-dylan-concert-for-just-one)
+* [2025-12-16, 00:06:49](https://news.ycombinator.com/item?id=46282874) - [The World Happiness Report is beset with methodological problems](https://yaschamounk.substack.com/p/the-world-happiness-report-is-a-sham)
