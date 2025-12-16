@@ -22,14 +22,14 @@
 * [2025-12-16, 00:50:41](https://news.ycombinator.com/item?id=46283276) - [Thin desires are eating life](https://www.joanwestenberg.com/thin-desires-are-eating-your-life/)
 * [2025-12-16, 00:25:53](https://news.ycombinator.com/item?id=46283052) - [Creating custom yellow handshake emojis with zero-width joiners](https://blog.alexbeals.com/posts/custom-yellow-handshake-emojis-with-zero-width-joiners)
 * [2025-12-16, 00:06:49](https://news.ycombinator.com/item?id=46282874) - [The World Happiness Report is beset with methodological problems](https://yaschamounk.substack.com/p/the-world-happiness-report-is-a-sham)
+* [2025-12-15, 16:42:55](https://news.ycombinator.com/item?id=46276826) - [Full Unicode Search at 50× ICU Speed with AVX‑512](https://ashvardanian.com/posts/search-utf8/)
 * [2025-12-15, 15:47:14](https://news.ycombinator.com/item?id=46276002) - [Show HN: Sqlit – A lazygit-style TUI for SQL databases](https://github.com/Maxteabag/sqlit)
 * [2025-12-15, 14:39:49](https://news.ycombinator.com/item?id=46275111) - [Nvidia Nemotron 3 Family of Models](https://research.nvidia.com/labs/nemotron/Nemotron-3/)
 * [2025-12-14, 04:59:07](https://news.ycombinator.com/item?id=46260852) - [Pizlix: Memory Safe Linux from Scratch](https://fil-c.org/pizlix)
 * [2025-12-13, 18:02:46](https://news.ycombinator.com/item?id=46256504) - [Purrtran – ᓚᘏᗢ – A Programming Language for Cat People](https://github.com/cmontella/purrtran)
 * [2025-12-13, 14:35:28](https://news.ycombinator.com/item?id=46254794) - [30 Years of <Br> Tags](https://www.artmann.co/articles/30-years-of-br-tags)
-* [2025-12-12, 22:50:18](https://news.ycombinator.com/item?id=46250013) - [The Beauty of Dissonance](https://www.plough.com/en/topics/culture/music/the-beauty-of-dissonance)
 * [2025-12-11, 22:23:24](https://news.ycombinator.com/item?id=46238100) - [How geometry is fundamental for chess](https://lichess.org/@/RuyLopez1000/blog/how-geometry-is-fundamental-for-chess/h31wwhUX)
-* [2025-12-11, 19:11:42](https://news.ycombinator.com/item?id=46235750) - [Confuse some SSH bots and make botters block you](https://mirror.newsdump.org/confuse-some-ssh-bots.html)
+* [2025-12-11, 03:21:15](https://news.ycombinator.com/item?id=46227274) - [Tumbleweed aerodynamics inspire hybrid robots for harsh terrains](https://techxplore.com/news/2025-12-tumbleweed-aerodynamics-hybrid-robots-harsh.html)
 
 ## [Archives](archives/index.md)
 
