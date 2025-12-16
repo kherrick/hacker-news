@@ -62,6 +62,7 @@
 * [2025-12-12, 06:47:45](https://news.ycombinator.com/item?id=46241500) - [\"Are you the one?\" is free money](https://blog.owenlacey.dev/posts/are-you-the-one-is-free-money/)
 * [2025-12-12, 06:17:28](https://news.ycombinator.com/item?id=46241368) - [Freeing a Xiaomi humidifier from the cloud](https://0l.de/blog/2025/11/xiaomi-humidifier/)
 * [2025-12-12, 04:55:42](https://news.ycombinator.com/item?id=46240998) - [Show HN: I got my site down to 237kb by ditching Google Analytics](https://deadstack.net/)
+* [2025-12-12, 04:37:33](https://news.ycombinator.com/item?id=46240912) - [Mark V Shaney](https://en.wikipedia.org/wiki/Mark_V._Shaney)
 * [2025-12-12, 01:41:15](https://news.ycombinator.com/item?id=46239895) - [Cadmium Zinc Telluride: The wonder material powering a medical 'revolution'](https://www.bbc.com/news/articles/c24l223d9n7o)
 * [2025-12-12, 01:28:43](https://news.ycombinator.com/item?id=46239820) - [The Boot Order of the Raspberry Pi Is Unusual](https://patrickmccanna.net/the-raspberry-pi-boot-order-is-unusual/)
 * [2025-12-12, 01:20:05](https://news.ycombinator.com/item?id=46239752) - [Google De-Indexed My Bear Blog and I Don't Know Why](https://journal.james-zhan.com/google-de-indexed-my-entire-bear-blog-and-i-dont-know-why/)

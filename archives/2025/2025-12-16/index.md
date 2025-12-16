@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-12-16](index.md)
 
+* [2025-12-16, 08:13:01](https://news.ycombinator.com/item?id=46286030) - [The biggest heat pumps in the world](https://www.bbc.com/news/articles/c17p44w87rno)
 * [2025-12-16, 06:47:09](https://news.ycombinator.com/item?id=46285535) - [A linear-time alternative for Dimensionality Reduction and fast visualisation](https://medium.com/@roman.f/a-linear-time-alternative-to-t-sne-for-dimensionality-reduction-and-fast-visualisation-5cd1a7219d6f)
 * [2025-12-16, 06:29:02](https://news.ycombinator.com/item?id=46285448) - [O'saasy License Agreement](https://osaasy.dev/)
 * [2025-12-16, 06:17:37](https://news.ycombinator.com/item?id=46285376) - [Children with cancer scammed out of millions fundraised for their treatment](https://www.bbc.com/news/articles/ckgz318y8elo)
