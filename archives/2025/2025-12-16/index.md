@@ -11,6 +11,7 @@
 * [2025-12-16, 13:40:02](https://news.ycombinator.com/item?id=46288351) - [I don't think Lindley's paradox supports p-circling](https://vilgot-huhn.github.io/mywebsite/posts/20251206_p_circle_lindley/)
 * [2025-12-16, 13:33:25](https://news.ycombinator.com/item?id=46288291) - [Rust GCC back end: Why and how](https://blog.guillaume-gomez.fr/articles/2025-12-15+Rust+GCC+backend%3A+Why+and+how)
 * [2025-12-16, 13:32:42](https://news.ycombinator.com/item?id=46288286) - [Put a ring on it: a lock-free MPMC ring buffer](https://h4x0r.org/ring/)
+* [2025-12-16, 13:20:51](https://news.ycombinator.com/item?id=46288185) - [You're overspending because you lack values](https://www.sherryning.com/p/youre-overspending-because-you-lack-values)
 * [2025-12-16, 13:07:14](https://news.ycombinator.com/item?id=46288024) - [Sega Channel: VGHF Recovers over 100 Sega Channel ROMs (and More)](https://gamehistory.org/segachannel/)
 * [2025-12-16, 12:12:58](https://news.ycombinator.com/item?id=46287596) - [Thomas Piketty: 'The reality is the US is losing control of the world'](https://www.lemonde.fr/en/opinion/article/2025/04/12/thomas-piketty-the-reality-is-the-us-is-losing-control-of-the-world_6740140_23.html)
 * [2025-12-16, 12:01:55](https://news.ycombinator.com/item?id=46287521) - [Cekura (YC F24) Is Hiring](https://www.ycombinator.com/companies/cekura-ai/jobs/YFeQADI-product-engineer-us)
