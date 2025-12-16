@@ -20,6 +20,7 @@
 * [2025-12-11, 19:28:40](https://news.ycombinator.com/item?id=46236001) - [What is the nicest thing a stranger has ever done for you?](https://louplummer.lol/nice-stranger/)
 * [2025-12-11, 19:25:14](https://news.ycombinator.com/item?id=46235959) - [An SVG is all you need](https://jon.recoil.org/blog/2025/12/an-svg-is-all-you-need.html)
 * [2025-12-11, 19:18:27](https://news.ycombinator.com/item?id=46235859) - [Last quarter I rolled out Microsoft Copilot to 4k employees](https://twitter.com/gothburz/status/1999124665801880032)
+* [2025-12-11, 19:08:33](https://news.ycombinator.com/item?id=46235699) - [Creating C closures from Lua closures](https://lowkpro.com/blog/creating-c-closures-from-lua-closures.html)
 * [2025-12-11, 19:03:45](https://news.ycombinator.com/item?id=46235618) - [Pop!_OS 24.04 LTS with Cosmic Desktop Environment Released](https://blog.system76.com/post/pop-os-letter-from-our-founder/)
 * [2025-12-11, 18:58:49](https://news.ycombinator.com/item?id=46235531) - [Age Verification Is Coming for the Internet](https://www.eff.org/deeplinks/2025/12/age-verification-coming-internet-we-built-you-resource-hub-fight-back)
 * [2025-12-11, 18:54:42](https://news.ycombinator.com/item?id=46235460) - [The History of Xerox](https://www.abortretry.fail/p/the-history-of-xerox)
