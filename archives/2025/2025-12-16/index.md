@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-12-16](index.md)
 
+* [2025-12-16, 21:52:26](https://news.ycombinator.com/item?id=46295071) - [MIT professor shot at his Massachusetts home dies](https://www.bbc.com/news/articles/cly08y25688o)
 * [2025-12-16, 21:16:35](https://news.ycombinator.com/item?id=46294592) - [Chat-tails: Throwback terminal chat, built on Tailscale](https://tailscale.com/blog/chat-tails-terminal-chat)
 * [2025-12-16, 21:14:49](https://news.ycombinator.com/item?id=46294574) - [Prediction: AI will make formal verification go mainstream](https://martin.kleppmann.com/2025/12/08/ai-formal-verification.html)
 * [2025-12-16, 21:03:25](https://news.ycombinator.com/item?id=46294440) - [Show HN: Deterministic PCIe Diagnostics for GPUs on Linux](https://github.com/parallelArchitect/gpu-pcie-diagnostic)
