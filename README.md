@@ -2,7 +2,7 @@
 
 * [2025-12-16, 19:20:17](https://news.ycombinator.com/item?id=46293062) - [No Graphics API](https://www.sebastianaaltonen.com/blog/no-graphics-api)
 * [2025-12-16, 18:32:46](https://news.ycombinator.com/item?id=46292365) - [Vibe coding creates fatigue?](https://www.tabulamag.com/p/too-fast-to-think-the-hidden-fatigue)
-* [2025-12-16, 17:58:59](https://news.ycombinator.com/item?id=46291827) - [The new ChatGPT Images is here](https://openai.com/index/new-chatgpt-images-is-here/)
+* [2025-12-16, 18:07:07](https://news.ycombinator.com/item?id=46291941) - [GPT Image 1.5](https://openai.com/index/new-chatgpt-images-is-here/)
 * [2025-12-16, 17:37:41](https://news.ycombinator.com/item?id=46291504) - [AI is wiping out entry-level tech jobs, leaving graduates stranded](https://restofworld.org/2025/engineering-graduates-ai-job-losses/)
 * [2025-12-16, 17:37:34](https://news.ycombinator.com/item?id=46291500) - [The GitHub Actions control plane is no longer free](https://www.blacksmith.sh/blog/actions-pricing)
 * [2025-12-16, 17:32:38](https://news.ycombinator.com/item?id=46291414) - [GitHub will begin charging for self-hosted action runners on March 2026](https://github.blog/changelog/2025-12-16-coming-soon-simpler-pricing-and-a-better-experience-for-github-actions/)
@@ -19,7 +19,6 @@
 * [2025-12-16, 13:33:25](https://news.ycombinator.com/item?id=46288291) - [Rust GCC back end: Why and how](https://blog.guillaume-gomez.fr/articles/2025-12-15+Rust+GCC+backend%3A+Why+and+how)
 * [2025-12-16, 13:32:42](https://news.ycombinator.com/item?id=46288286) - [Put a ring on it: a lock-free MPMC ring buffer](https://h4x0r.org/ring/)
 * [2025-12-16, 13:07:14](https://news.ycombinator.com/item?id=46288024) - [Sega Channel: VGHF Recovers over 100 Sega Channel ROMs (and More)](https://gamehistory.org/segachannel/)
-* [2025-12-16, 09:51:31](https://news.ycombinator.com/item?id=46286666) - [ArkhamMirror: Airgapped investigation platform with CIA-style hypothesis testing](https://github.com/mantisfury/ArkhamMirror)
 * [2025-12-16, 09:16:31](https://news.ycombinator.com/item?id=46286407) - [A2UI: A Protocol for Agent-Driven Interfaces](https://a2ui.org/)
 * [2025-12-16, 08:13:01](https://news.ycombinator.com/item?id=46286030) - [The biggest heat pumps](https://www.bbc.com/news/articles/c17p44w87rno)
 * [2025-12-16, 04:06:51](https://news.ycombinator.com/item?id=46284658) - [SHARP, an approach to photorealistic view synthesis from a single image](https://apple.github.io/ml-sharp/)
@@ -30,6 +29,7 @@
 * [2025-12-13, 18:02:46](https://news.ycombinator.com/item?id=46256504) - [Purrtran – ᓚᘏᗢ – A Programming Language for Cat People](https://github.com/cmontella/purrtran)
 * [2025-12-12, 10:44:50](https://news.ycombinator.com/item?id=46242838) - [Debug Mode for LLMs in vLLora](https://vllora.dev/blog/debug-mode/)
 * [2025-12-11, 21:44:06](https://news.ycombinator.com/item?id=46237606) - [Show HN: A real-time 4D fractal explorer in the browser using WebGPU](https://bryanjj.github.io/nebula/)
+* [2025-12-11, 19:11:42](https://news.ycombinator.com/item?id=46235750) - [Confuse some SSH bots and make botters block you](https://mirror.newsdump.org/confuse-some-ssh-bots.html)
 
 ## [Archives](archives/index.md)
 
