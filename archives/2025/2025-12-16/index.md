@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-12-16](index.md)
 
+* [2025-12-16, 04:49:03](https://news.ycombinator.com/item?id=46284897) - [Erdős Problem #1026](https://terrytao.wordpress.com/2025/12/08/the-story-of-erdos-problem-126/)
 * [2025-12-16, 04:06:51](https://news.ycombinator.com/item?id=46284658) - [Sharp](https://apple.github.io/ml-sharp/)
 * [2025-12-16, 03:03:49](https://news.ycombinator.com/item?id=46284266) - [8M Users' AI Conversations Sold for Profit by \"Privacy\" Extensions](https://www.koi.ai/blog/urban-vpn-browser-extension-ai-conversations-data-collection)
 * [2025-12-16, 01:51:50](https://news.ycombinator.com/item?id=46283750) - [Rollstack (YC W23) is hiring multiple software engineers (TypeScript) US/Canada](https://www.ycombinator.com/companies/rollstack-2/jobs/QPqpb1n-software-engineer-typescript-us-canada)
