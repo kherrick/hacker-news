@@ -7,6 +7,7 @@
 * [2025-12-16, 06:47:09](https://news.ycombinator.com/item?id=46285535) - [A linear-time alternative for Dimensionality Reduction and fast visualisation](https://medium.com/@roman.f/a-linear-time-alternative-to-t-sne-for-dimensionality-reduction-and-fast-visualisation-5cd1a7219d6f)
 * [2025-12-16, 06:29:02](https://news.ycombinator.com/item?id=46285448) - [O'saasy License Agreement](https://osaasy.dev/)
 * [2025-12-16, 06:17:37](https://news.ycombinator.com/item?id=46285376) - [Children with cancer scammed out of millions fundraised for their treatment](https://www.bbc.com/news/articles/ckgz318y8elo)
+* [2025-12-16, 06:06:43](https://news.ycombinator.com/item?id=46285319) - [Bonsai: A Voxel Engine, from scratch](https://github.com/scallyw4g/bonsai)
 * [2025-12-16, 04:49:03](https://news.ycombinator.com/item?id=46284897) - [Erdős Problem #1026](https://terrytao.wordpress.com/2025/12/08/the-story-of-erdos-problem-126/)
 * [2025-12-16, 04:06:51](https://news.ycombinator.com/item?id=46284658) - [Sharp](https://apple.github.io/ml-sharp/)
 * [2025-12-16, 03:03:49](https://news.ycombinator.com/item?id=46284266) - [8M Users' AI Conversations Sold for Profit by \"Privacy\" Extensions](https://www.koi.ai/blog/urban-vpn-browser-extension-ai-conversations-data-collection)
