@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-12-16, 21:14:49](https://news.ycombinator.com/item?id=46294574) - [Prediction: AI will make formal verification go mainstream](https://martin.kleppmann.com/2025/12/08/ai-formal-verification.html)
+* [2025-12-16, 20:52:45](https://news.ycombinator.com/item?id=46294289) - [Ty: A fast Python type checker and LSP](https://astral.sh/blog/ty)
 * [2025-12-16, 19:20:17](https://news.ycombinator.com/item?id=46293062) - [No Graphics API](https://www.sebastianaaltonen.com/blog/no-graphics-api)
 * [2025-12-16, 18:32:46](https://news.ycombinator.com/item?id=46292365) - [Vibe coding creates fatigue?](https://www.tabulamag.com/p/too-fast-to-think-the-hidden-fatigue)
 * [2025-12-16, 18:07:07](https://news.ycombinator.com/item?id=46291941) - [GPT Image 1.5](https://openai.com/index/new-chatgpt-images-is-here/)
 * [2025-12-16, 17:32:38](https://news.ycombinator.com/item?id=46291414) - [GitHub will begin charging for self-hosted action runners on March 2026](https://github.blog/changelog/2025-12-16-coming-soon-simpler-pricing-and-a-better-experience-for-github-actions/)
-* [2025-12-16, 17:13:07](https://news.ycombinator.com/item?id=46291172) - [FVWM-95](https://fvwm95.sourceforge.net/)
 * [2025-12-16, 17:12:02](https://news.ycombinator.com/item?id=46291156) - [Pricing Changes for GitHub Actions](https://resources.github.com/actions/2026-pricing-changes-for-github-actions/)
 * [2025-12-16, 17:00:57](https://news.ycombinator.com/item?id=46291011) - [Artie (YC S23) Is Hiring Senior Enterprise AES](https://www.ycombinator.com/companies/artie/jobs/HyaHWUs-senior-enterprise-ae)
 * [2025-12-16, 16:54:19](https://news.ycombinator.com/item?id=46290916) - [alpr.watch](https://alpr.watch/)
@@ -27,7 +27,7 @@
 * [2025-12-14, 04:59:07](https://news.ycombinator.com/item?id=46260852) - [Pizlix: Memory Safe Linux from Scratch](https://fil-c.org/pizlix)
 * [2025-12-13, 18:02:46](https://news.ycombinator.com/item?id=46256504) - [Purrtran – ᓚᘏᗢ – A Programming Language for Cat People](https://github.com/cmontella/purrtran)
 * [2025-12-13, 14:35:28](https://news.ycombinator.com/item?id=46254794) - [30 Years of <Br> Tags](https://www.artmann.co/articles/30-years-of-br-tags)
-* [2025-12-12, 10:44:50](https://news.ycombinator.com/item?id=46242838) - [Debug Mode for LLMs in vLLora](https://vllora.dev/blog/debug-mode/)
+* [2025-12-12, 22:50:18](https://news.ycombinator.com/item?id=46250013) - [The Beauty of Dissonance](https://www.plough.com/en/topics/culture/music/the-beauty-of-dissonance)
 * [2025-12-11, 22:23:24](https://news.ycombinator.com/item?id=46238100) - [How geometry is fundamental for chess](https://lichess.org/@/RuyLopez1000/blog/how-geometry-is-fundamental-for-chess/h31wwhUX)
 * [2025-12-11, 19:11:42](https://news.ycombinator.com/item?id=46235750) - [Confuse some SSH bots and make botters block you](https://mirror.newsdump.org/confuse-some-ssh-bots.html)
 
