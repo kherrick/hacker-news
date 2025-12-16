@@ -36,6 +36,7 @@
 * [2025-12-10, 16:13:38](https://news.ycombinator.com/item?id=46219538) - [Qwen3-Omni-Flash-2025-12-01：a next-generation native multimodal large model](https://qwen.ai/blog?id=qwen3-omni-flash-20251201)
 * [2025-12-10, 16:05:03](https://news.ycombinator.com/item?id=46219386) - [Launch HN: InspectMind (YC W24) – AI agent for reviewing construction drawings](https://news.ycombinator.com/item?id=46219386)
 * [2025-12-10, 16:02:57](https://news.ycombinator.com/item?id=46219346) - [Size of Life](https://neal.fun/size-of-life/)
+* [2025-12-10, 15:54:59](https://news.ycombinator.com/item?id=46219203) - [Light intensity steers molecular assemblies into 1D, 2D or 3D structures](https://phys.org/news/2025-11-intensity-molecular-1d-2d-3d.html)
 * [2025-12-10, 15:43:43](https://news.ycombinator.com/item?id=46219011) - [How to Leave the USA](https://www.newyorker.com/magazine/2025/12/15/how-to-leave-the-usa)
 * [2025-12-10, 15:30:46](https://news.ycombinator.com/item?id=46218800) - [Qualcomm acquires RISC-V focused Ventana Micro Systems](https://www.qualcomm.com/news/releases/2025/12/qualcomm-acquires-ventana-micro-systems--deepening-risc-v-cpu-ex)
 * [2025-12-10, 15:29:14](https://news.ycombinator.com/item?id=46218782) - [RoboCrop: Teaching robots how to pick tomatoes](https://phys.org/news/2025-12-robocrop-robots-tomatoes.html)
