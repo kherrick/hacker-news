@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-12-16, 03:03:49](https://news.ycombinator.com/item?id=46284266) - [8M Users' AI Conversations Sold for Profit by \"Privacy\" Extensions](https://www.koi.ai/blog/urban-vpn-browser-extension-ai-conversations-data-collection)
+* [2025-12-16, 03:03:49](https://news.ycombinator.com/item?id=46284266) - [8M users' AI conversations sold for profit by \"privacy\" extensions](https://www.koi.ai/blog/urban-vpn-browser-extension-ai-conversations-data-collection)
 * [2025-12-16, 01:51:50](https://news.ycombinator.com/item?id=46283750) - [Rollstack (YC W23) is hiring multiple software engineers (TypeScript) US/Canada](https://www.ycombinator.com/companies/rollstack-2/jobs/QPqpb1n-software-engineer-typescript-us-canada)
 * [2025-12-16, 01:44:47](https://news.ycombinator.com/item?id=46283699) - [SoundCloud confirms breach after member data stolen, VPN access disrupted](https://www.bleepingcomputer.com/news/security/soundcloud-confirms-breach-after-member-data-stolen-vpn-access-disrupted/)
 * [2025-12-16, 00:34:35](https://news.ycombinator.com/item?id=46283129) - [Ideas aren't getting harder to find](https://asteriskmag.com/issues/12-books/ideas-arent-getting-harder-to-find)
-* [2025-12-16, 00:22:41](https://news.ycombinator.com/item?id=46283016) - [Quill OS is an open-source, fully-functional standalone OS for Kobo's eReaders](https://quill-os.org/)
+* [2025-12-16, 00:22:41](https://news.ycombinator.com/item?id=46283016) - [Quill OS: An open-source OS for Kobo's eReaders](https://quill-os.org/)
 * [2025-12-16, 00:18:58](https://news.ycombinator.com/item?id=46282984) - [The Bob Dylan concert for just one person](https://www.flaggingdown.com/p/the-bob-dylan-concert-for-just-one)
 * [2025-12-15, 23:47:37](https://news.ycombinator.com/item?id=46282679) - [Native vs. emulation: World of Warcraft game performance on Snapdragon X Elite](https://rkblog.dev/posts/pc-hardware/pc-on-arm/x86_versus_arm_native_game/)
 * [2025-12-15, 22:48:56](https://news.ycombinator.com/item?id=46281944) - [JetBlue flight averts mid-air collision with US Air Force jet](https://www.reuters.com/world/americas/jetblue-flight-averts-mid-air-collision-with-us-air-force-jet-2025-12-15/)
@@ -20,7 +20,6 @@
 * [2025-12-15, 18:16:34](https://news.ycombinator.com/item?id=46278208) - [Chafa: Terminal Graphics for the 21st Century](https://hpjansson.org/chafa/)
 * [2025-12-15, 17:01:42](https://news.ycombinator.com/item?id=46277090) - [Cosmic-ray bath in a past supernova gives birth to Earth-like planets](https://www.science.org/doi/10.1126/sciadv.adx7892)
 * [2025-12-15, 14:56:02](https://news.ycombinator.com/item?id=46275316) - [We are discontinuing the dark web report](https://support.google.com/websearch/answer/16767242?hl=en)
-* [2025-12-15, 14:16:32](https://news.ycombinator.com/item?id=46274822) - [Carrier Landing in Top Gun for the NES](https://relaxing.run/blag/posts/top-gun-landing/)
 * [2025-12-15, 12:12:24](https://news.ycombinator.com/item?id=46273466) - [I'm Kenyan. I don't write like ChatGPT, ChatGPT writes like me](https://marcusolang.substack.com/p/im-kenyan-i-dont-write-like-chatgpt)
 * [2025-12-13, 18:19:51](https://news.ycombinator.com/item?id=46256643) - [Essential Semiconductor Physics [pdf]](https://nanohub.org/resources/43623/download/Essential_Semiconductor_Physics.pdf)
 * [2025-12-12, 20:13:26](https://news.ycombinator.com/item?id=46248294) - [In Defense of Matlab Code](https://runmat.org/blog/in-defense-of-matlab-whiteboard-style-code)
@@ -29,6 +28,7 @@
 * [2025-12-10, 23:54:34](https://news.ycombinator.com/item?id=46225803) - [Nature's many attempts to evolve a Nostr](https://newsletter.squishy.computer/p/natures-many-attempts-to-evolve-a)
 * [2025-12-10, 15:54:59](https://news.ycombinator.com/item?id=46219203) - [Light intensity steers molecular assemblies into 1D, 2D or 3D structures](https://phys.org/news/2025-11-intensity-molecular-1d-2d-3d.html)
 * [2025-12-10, 09:42:57](https://news.ycombinator.com/item?id=46215856) - [How does Windows synthesize CF_Unicode­TEXT from CF_TEXT and vice versa?](https://devblogs.microsoft.com/oldnewthing/20251209-00/?p=111854)
+* [2025-12-09, 20:20:04](https://news.ycombinator.com/item?id=46210087) - [John Updike Wrote It All Down](https://newrepublic.com/article/201598/john-updike-wrote)
 * [2025-12-06, 17:21:03](https://news.ycombinator.com/item?id=46174949) - [Show HN: I designed my own 3D printer motherboard](https://github.com/KaiPereira/Cheetah-MX4-Mini)
 
 ## [Archives](archives/index.md)
