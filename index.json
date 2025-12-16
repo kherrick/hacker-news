@@ -81,6 +81,16 @@
   ],
   [
     [
+      "2025-12-15, 22:48:56",
+      "https://news.ycombinator.com/item?id=46281944"
+    ],
+    [
+      "JetBlue flight averts mid-air collision with US Air Force jet",
+      "https://www.reuters.com/world/americas/jetblue-flight-averts-mid-air-collision-with-us-air-force-jet-2025-12-15/"
+    ]
+  ],
+  [
+    [
       "2025-12-15, 21:56:03",
       "https://news.ycombinator.com/item?id=46281288"
     ],
@@ -97,16 +107,6 @@
     [
       "Ford kills the All-Electric F-150",
       "https://www.wired.com/story/ford-kills-electric-f-150-lightning-for-hybrid/"
-    ]
-  ],
-  [
-    [
-      "2025-12-15, 21:37:09",
-      "https://news.ycombinator.com/item?id=46281060"
-    ],
-    [
-      "Fix HDMI-CEC weirdness with a Raspberry Pi and a $7 cable",
-      "https://johnlian.net/posts/hdmi-cec/"
     ]
   ],
   [
@@ -147,16 +147,6 @@
     [
       "The appropriate amount of effort is zero",
       "https://expandingawareness.org/blog/the-appropriate-amount-of-effort-is-zero/"
-    ]
-  ],
-  [
-    [
-      "2025-12-15, 19:30:22",
-      "https://news.ycombinator.com/item?id=46279241"
-    ],
-    [
-      "Upcoming Changes to Let's Encrypt Certificates",
-      "https://community.letsencrypt.org/t/upcoming-changes-to-let-s-encrypt-certificates/243873"
     ]
   ],
   [
@@ -237,6 +227,16 @@
     [
       "“Are you the one?” is free money",
       "https://blog.owenlacey.dev/posts/are-you-the-one-is-free-money/"
+    ]
+  ],
+  [
+    [
+      "2025-12-11, 19:08:33",
+      "https://news.ycombinator.com/item?id=46235699"
+    ],
+    [
+      "Creating C closures from Lua closures",
+      "https://lowkpro.com/blog/creating-c-closures-from-lua-closures.html"
     ]
   ],
   [
