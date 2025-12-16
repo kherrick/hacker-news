@@ -1,32 +1,22 @@
 [
   [
     [
+      "2025-12-16, 16:09:48",
+      "https://news.ycombinator.com/item?id=46290320"
+    ],
+    [
+      "Devs say Apple still flouting EU's Digital Markets Act six months on",
+      "https://www.theregister.com/2025/12/16/apple_dma_complaint/"
+    ]
+  ],
+  [
+    [
       "2025-12-16, 15:55:45",
       "https://news.ycombinator.com/item?id=46290113"
     ],
     [
       "AIsbom – open-source CLI to detect \"Pickle Bombs\" in PyTorch models",
       "https://github.com/Lab700xOrg/aisbom"
-    ]
-  ],
-  [
-    [
-      "2025-12-16, 14:46:52",
-      "https://news.ycombinator.com/item?id=46289160"
-    ],
-    [
-      "CEOs to Keep Spending on AI, Despite Spotty Returns",
-      "https://www.wsj.com/tech/ai/ceos-to-keep-spending-on-ai-despite-spotty-returns-2eaeb6b"
-    ]
-  ],
-  [
-    [
-      "2025-12-16, 14:11:08",
-      "https://news.ycombinator.com/item?id=46288673"
-    ],
-    [
-      "U.S. unemployment rose in November despite job gains",
-      "https://www.wsj.com/economy/jobs/jobs-report-october-november-2025-unemployment-economy-7f6eea90"
     ]
   ],
   [
@@ -111,6 +101,16 @@
   ],
   [
     [
+      "2025-12-16, 12:01:55",
+      "https://news.ycombinator.com/item?id=46287521"
+    ],
+    [
+      "Cekura (YC F24) Is Hiring",
+      "https://www.ycombinator.com/companies/cekura-ai/jobs/YFeQADI-product-engineer-us"
+    ]
+  ],
+  [
+    [
       "2025-12-16, 09:51:31",
       "https://news.ycombinator.com/item?id=46286666"
     ],
@@ -121,12 +121,32 @@
   ],
   [
     [
+      "2025-12-16, 09:38:42",
+      "https://news.ycombinator.com/item?id=46286559"
+    ],
+    [
+      "I'm a Tech Lead, and nobody listens to me. What should I do?",
+      "https://world.hey.com/joaoqalves/i-m-a-tech-lead-and-nobody-listens-to-me-what-should-i-do-e16e454d"
+    ]
+  ],
+  [
+    [
       "2025-12-16, 09:16:31",
       "https://news.ycombinator.com/item?id=46286407"
     ],
     [
       "A2UI: A Protocol for Agent-Driven Interfaces",
       "https://a2ui.org/"
+    ]
+  ],
+  [
+    [
+      "2025-12-16, 08:13:01",
+      "https://news.ycombinator.com/item?id=46286030"
+    ],
+    [
+      "The biggest heat pumps",
+      "https://www.bbc.com/news/articles/c17p44w87rno"
     ]
   ],
   [
@@ -171,16 +191,6 @@
   ],
   [
     [
-      "2025-12-16, 03:03:49",
-      "https://news.ycombinator.com/item?id=46284266"
-    ],
-    [
-      "8M users' AI conversations sold for profit by \"privacy\" extensions",
-      "https://www.koi.ai/blog/urban-vpn-browser-extension-ai-conversations-data-collection"
-    ]
-  ],
-  [
-    [
       "2025-12-16, 00:22:41",
       "https://news.ycombinator.com/item?id=46283016"
     ],
@@ -191,12 +201,12 @@
   ],
   [
     [
-      "2025-12-15, 21:56:03",
-      "https://news.ycombinator.com/item?id=46281288"
+      "2025-12-15, 21:15:53",
+      "https://news.ycombinator.com/item?id=46280775"
     ],
     [
-      "Economics of Orbital vs. Terrestrial Data Centers",
-      "https://andrewmccalip.com/space-datacenters"
+      "Canada's Carney called out for 'utilizing' British spelling",
+      "https://www.bbc.com/news/articles/cj69d89l8l5o"
     ]
   ],
   [
@@ -207,6 +217,16 @@
     [
       "Full Unicode Search at 50× ICU Speed with AVX‑512",
       "https://ashvardanian.com/posts/search-utf8/"
+    ]
+  ],
+  [
+    [
+      "2025-12-14, 00:31:02",
+      "https://news.ycombinator.com/item?id=46259671"
+    ],
+    [
+      "Show HN: Interactive Common Lisp: An Enhanced REPL",
+      "https://github.com/atgreen/icl"
     ]
   ],
   [
@@ -241,16 +261,6 @@
   ],
   [
     [
-      "2025-12-11, 19:08:33",
-      "https://news.ycombinator.com/item?id=46235699"
-    ],
-    [
-      "Creating C closures from Lua closures",
-      "https://lowkpro.com/blog/creating-c-closures-from-lua-closures.html"
-    ]
-  ],
-  [
-    [
       "2025-12-11, 04:23:46",
       "https://news.ycombinator.com/item?id=46227641"
     ],
@@ -281,22 +291,12 @@
   ],
   [
     [
-      "2025-12-10, 00:10:20",
-      "https://news.ycombinator.com/item?id=46212450"
+      "2025-12-10, 17:44:13",
+      "https://news.ycombinator.com/item?id=46220826"
     ],
     [
-      "Mathematicians Crack a Fractal Conjecture on Chaos",
-      "https://www.scientificamerican.com/article/mathematicians-crack-a-fractal-conjecture-on-chaos/"
-    ]
-  ],
-  [
-    [
-      "2025-12-06, 17:21:03",
-      "https://news.ycombinator.com/item?id=46174949"
-    ],
-    [
-      "Show HN: I designed my own 3D printer motherboard",
-      "https://github.com/KaiPereira/Cheetah-MX4-Mini"
+      "A Thousand and One Nights in Italy",
+      "https://publicdomainreview.org/essay/a-thousand-and-one-nights-in-italy"
     ]
   ]
 ]
