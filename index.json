@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2025-12-16, 21:18:46",
+      "https://news.ycombinator.com/item?id=46294626"
+    ],
+    [
+      "Reverse-Engineering the RK3588 NPU: Hacking Limits to Run Vision Transformers",
+      "https://amohan.dev/blog/2025/shard-optimizing-vision-transformers-edge-npu/"
+    ]
+  ],
+  [
+    [
       "2025-12-16, 21:16:35",
       "https://news.ycombinator.com/item?id=46294592"
     ],
@@ -101,16 +111,6 @@
   ],
   [
     [
-      "2025-12-16, 17:12:02",
-      "https://news.ycombinator.com/item?id=46291156"
-    ],
-    [
-      "Pricing Changes for GitHub Actions",
-      "https://resources.github.com/actions/2026-pricing-changes-for-github-actions/"
-    ]
-  ],
-  [
-    [
       "2025-12-16, 17:00:57",
       "https://news.ycombinator.com/item?id=46291011"
     ],
@@ -181,6 +181,16 @@
   ],
   [
     [
+      "2025-12-16, 08:54:58",
+      "https://news.ycombinator.com/item?id=46286292"
+    ],
+    [
+      "Japan to revise romanization rules for first time in 70 years",
+      "https://www.japantimes.co.jp/news/2025/08/21/japan/panel-hepburn-style-romanization/"
+    ]
+  ],
+  [
+    [
       "2025-12-16, 00:50:41",
       "https://news.ycombinator.com/item?id=46283276"
     ],
@@ -207,16 +217,6 @@
     [
       "The World Happiness Report is beset with methodological problems",
       "https://yaschamounk.substack.com/p/the-world-happiness-report-is-a-sham"
-    ]
-  ],
-  [
-    [
-      "2025-12-15, 16:42:55",
-      "https://news.ycombinator.com/item?id=46276826"
-    ],
-    [
-      "Full Unicode Search at 50× ICU Speed with AVX‑512",
-      "https://ashvardanian.com/posts/search-utf8/"
     ]
   ],
   [
