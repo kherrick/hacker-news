@@ -32,6 +32,7 @@
 * [2025-12-15, 17:01:42](https://news.ycombinator.com/item?id=46277090) - [Cosmic-ray bath in a past supernova gives birth to Earth-like planets](https://www.science.org/doi/10.1126/sciadv.adx7892)
 * [2025-12-15, 16:53:49](https://news.ycombinator.com/item?id=46276977) - [Even in a Populist Moment, Democrats Are Split on the Problem of Corporate Power](https://www.thebignewsletter.com/p/even-in-a-populist-moment-democrats)
 * [2025-12-15, 16:46:10](https://news.ycombinator.com/item?id=46276875) - [Former CIA spy: agency's tools can takeover your phone, TV, and even your car](https://currentindia.com/channels/timesofindia/toi-world/yes-they-can-former-cia-spy-warns-agencys-tools-can-takeover-your-phone-tv-and-even-your-car/)
+* [2025-12-15, 16:42:55](https://news.ycombinator.com/item?id=46276826) - [Full Unicode Search at 50× ICU Speed with AVX‑512](https://ashvardanian.com/posts/search-utf8/)
 * [2025-12-15, 16:36:19](https://news.ycombinator.com/item?id=46276740) - [Pro-democracy HK tycoon Jimmy Lai convicted in national security trial](https://www.bbc.com/news/articles/cp844kjj37vo)
 * [2025-12-15, 16:33:47](https://news.ycombinator.com/item?id=46276708) - [They were almost American – then Trump cancelled their citizenship ceremonies](https://www.bbc.com/news/articles/cn8135qeezwo)
 * [2025-12-15, 16:11:37](https://news.ycombinator.com/item?id=46276378) - [$50 PlanetScale Metal Is GA for Postgres](https://planetscale.com/blog/50-dollar-planetscale-metal-is-ga-for-postgres)
