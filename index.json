@@ -11,22 +11,22 @@
   ],
   [
     [
+      "2025-12-16, 18:32:46",
+      "https://news.ycombinator.com/item?id=46292365"
+    ],
+    [
+      "Vibe coding creates fatigue?",
+      "https://www.tabulamag.com/p/too-fast-to-think-the-hidden-fatigue"
+    ]
+  ],
+  [
+    [
       "2025-12-16, 18:07:07",
       "https://news.ycombinator.com/item?id=46291941"
     ],
     [
       "GPT Image 1.5",
       "https://openai.com/index/new-chatgpt-images-is-here/"
-    ]
-  ],
-  [
-    [
-      "2025-12-16, 17:37:34",
-      "https://news.ycombinator.com/item?id=46291500"
-    ],
-    [
-      "The GitHub Actions control plane is no longer free",
-      "https://www.blacksmith.sh/blog/actions-pricing"
     ]
   ],
   [
@@ -97,6 +97,16 @@
     [
       "Writing a blatant Telegram clone using Qt, QML and Rust. And C++",
       "https://kemble.net/blog/provoke/"
+    ]
+  ],
+  [
+    [
+      "2025-12-16, 14:39:59",
+      "https://news.ycombinator.com/item?id=46289073"
+    ],
+    [
+      "Show HN: Solving the ~95% legislative coverage gap using LLM's",
+      "https://lustra.news/"
     ]
   ],
   [
@@ -257,16 +267,6 @@
     [
       "Purrtran – ᓚᘏᗢ – A Programming Language for Cat People",
       "https://github.com/cmontella/purrtran"
-    ]
-  ],
-  [
-    [
-      "2025-12-12, 10:44:50",
-      "https://news.ycombinator.com/item?id=46242838"
-    ],
-    [
-      "Debug Mode for LLMs in vLLora",
-      "https://vllora.dev/blog/debug-mode/"
     ]
   ],
   [
