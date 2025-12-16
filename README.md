@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-12-16, 12:01:55](https://news.ycombinator.com/item?id=46287521) - [Cekura (YC F24) Is Hiring](https://www.ycombinator.com/companies/cekura-ai/jobs/YFeQADI-product-engineer-us)
+* [2025-12-16, 13:33:25](https://news.ycombinator.com/item?id=46288291) - [Rust GCC back end: Why and how](https://blog.guillaume-gomez.fr/articles/2025-12-15+Rust+GCC+backend%3A+Why+and+how)
+* [2025-12-16, 13:32:42](https://news.ycombinator.com/item?id=46288286) - [Put a ring on it: a lock-free MPMC ring buffer](https://h4x0r.org/ring/)
 * [2025-12-16, 10:56:40](https://news.ycombinator.com/item?id=46287098) - [Should we fear Microsoft's monopoly?](https://www.cursor.tue.nl/en/background/2025/december/week-2/should-we-fear-microsofts-monopoly)
 * [2025-12-16, 09:51:31](https://news.ycombinator.com/item?id=46286666) - [ArkhamMirror: Airgapped investigation platform with CIA-style hypothesis testing](https://github.com/mantisfury/ArkhamMirror)
 * [2025-12-16, 09:16:31](https://news.ycombinator.com/item?id=46286407) - [A2UI: A Protocol for Agent-Driven Interfaces](https://a2ui.org/)
@@ -15,8 +16,6 @@
 * [2025-12-15, 23:47:37](https://news.ycombinator.com/item?id=46282679) - [Native vs. emulation: World of Warcraft game performance on Snapdragon X Elite](https://rkblog.dev/posts/pc-hardware/pc-on-arm/x86_versus_arm_native_game/)
 * [2025-12-15, 22:48:56](https://news.ycombinator.com/item?id=46281944) - [JetBlue flight averts mid-air collision with US Air Force jet](https://www.reuters.com/world/americas/jetblue-flight-averts-mid-air-collision-with-us-air-force-jet-2025-12-15/)
 * [2025-12-15, 21:56:03](https://news.ycombinator.com/item?id=46281288) - [Economics of Orbital vs. Terrestrial Data Centers](https://andrewmccalip.com/space-datacenters)
-* [2025-12-15, 21:24:06](https://news.ycombinator.com/item?id=46280887) - [Secret Documents Show Pepsi and Walmart Colluded to Raise Food Prices](https://www.thebignewsletter.com/p/secret-documents-show-pepsi-and-walmart)
-* [2025-12-15, 20:52:35](https://news.ycombinator.com/item?id=46280465) - [A kernel bug froze my machine: Debugging an async-profiler deadlock](https://questdb.com/blog/async-profiler-kernel-bug/)
 * [2025-12-15, 20:09:48](https://news.ycombinator.com/item?id=46279825) - [The appropriate amount of effort is zero](https://expandingawareness.org/blog/the-appropriate-amount-of-effort-is-zero/)
 * [2025-12-15, 19:27:08](https://news.ycombinator.com/item?id=46279187) - [Umbrel – Personal Cloud](https://umbrel.com)
 * [2025-12-15, 18:16:34](https://news.ycombinator.com/item?id=46278208) - [Chafa: Terminal Graphics for the 21st Century](https://hpjansson.org/chafa/)
@@ -29,6 +28,7 @@
 * [2025-12-11, 02:03:58](https://news.ycombinator.com/item?id=46226779) - [Be Careful with GIDs in Rails](https://blog.julik.nl/2025/12/a-trap-with-global-ids)
 * [2025-12-10, 19:03:09](https://news.ycombinator.com/item?id=46222002) - [7 Years, 2 Rebuilds, 40K+ Stars: Milvus Recap and Roadmap](https://milvus.io/blog/milvus-exceeds-40k-github-stars.md)
 * [2025-12-10, 17:57:43](https://news.ycombinator.com/item?id=46221016) - [Internal RFCs saved us months of wasted work](https://highimpactengineering.substack.com/p/the-illusion-of-shared-understanding)
+* [2025-12-10, 00:10:20](https://news.ycombinator.com/item?id=46212450) - [Mathematicians Crack a Fractal Conjecture on Chaos](https://www.scientificamerican.com/article/mathematicians-crack-a-fractal-conjecture-on-chaos/)
 * [2025-12-06, 17:21:03](https://news.ycombinator.com/item?id=46174949) - [Show HN: I designed my own 3D printer motherboard](https://github.com/KaiPereira/Cheetah-MX4-Mini)
 
 ## [Archives](archives/index.md)
