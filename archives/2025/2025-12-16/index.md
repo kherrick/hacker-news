@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-12-16](index.md)
 
+* [2025-12-16, 18:32:46](https://news.ycombinator.com/item?id=46292365) - [Too Fast to Think: The Hidden Fatigue of AI Vibe Coding](https://www.tabulamag.com/p/too-fast-to-think-the-hidden-fatigue)
 * [2025-12-16, 17:37:41](https://news.ycombinator.com/item?id=46291504) - [AI is wiping out entry-level tech jobs, leaving graduates stranded](https://restofworld.org/2025/engineering-graduates-ai-job-losses/)
 * [2025-12-16, 17:37:34](https://news.ycombinator.com/item?id=46291500) - [The GitHub Actions control plane is no longer free](https://www.blacksmith.sh/blog/actions-pricing)
 * [2025-12-16, 17:32:38](https://news.ycombinator.com/item?id=46291414) - [GitHub will begin charging for self-hosted action runners on March 2026](https://github.blog/changelog/2025-12-16-coming-soon-simpler-pricing-and-a-better-experience-for-github-actions/)

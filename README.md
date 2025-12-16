@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-12-16, 18:32:46](https://news.ycombinator.com/item?id=46292365) - [Too Fast to Think: The Hidden Fatigue of AI Vibe Coding](https://www.tabulamag.com/p/too-fast-to-think-the-hidden-fatigue)
 * [2025-12-16, 17:37:41](https://news.ycombinator.com/item?id=46291504) - [AI is wiping out entry-level tech jobs, leaving graduates stranded](https://restofworld.org/2025/engineering-graduates-ai-job-losses/)
 * [2025-12-16, 17:37:34](https://news.ycombinator.com/item?id=46291500) - [The GitHub Actions control plane is no longer free](https://www.blacksmith.sh/blog/actions-pricing)
 * [2025-12-16, 17:32:38](https://news.ycombinator.com/item?id=46291414) - [GitHub will begin charging for self-hosted action runners on March 2026](https://github.blog/changelog/2025-12-16-coming-soon-simpler-pricing-and-a-better-experience-for-github-actions/)
@@ -28,8 +29,7 @@
 * [2025-12-14, 00:31:02](https://news.ycombinator.com/item?id=46259671) - [Show HN: Interactive Common Lisp: An Enhanced REPL](https://github.com/atgreen/icl)
 * [2025-12-13, 18:02:46](https://news.ycombinator.com/item?id=46256504) - [Purrtran – ᓚᘏᗢ – A Programming Language for Cat People](https://github.com/cmontella/purrtran)
 * [2025-12-12, 10:44:50](https://news.ycombinator.com/item?id=46242838) - [Debug Mode for LLMs in vLLora](https://vllora.dev/blog/debug-mode/)
-* [2025-12-11, 04:23:46](https://news.ycombinator.com/item?id=46227641) - [High Performance SSH/SCP](https://www.psc.edu/hpn-ssh-home/)
-* [2025-12-11, 02:03:58](https://news.ycombinator.com/item?id=46226779) - [Be Careful with GIDs in Rails](https://blog.julik.nl/2025/12/a-trap-with-global-ids)
+* [2025-12-11, 21:44:06](https://news.ycombinator.com/item?id=46237606) - [Show HN: A real-time 4D fractal explorer in the browser using WebGPU](https://bryanjj.github.io/nebula/)
 
 ## [Archives](archives/index.md)
 
