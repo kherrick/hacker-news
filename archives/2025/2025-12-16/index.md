@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-12-16](index.md)
 
+* [2025-12-16, 09:51:31](https://news.ycombinator.com/item?id=46286666) - [ArkhamMirror: Airgapped investigation platform with CIA-style hypothesis testing](https://github.com/mantisfury/ArkhamMirror)
 * [2025-12-16, 09:38:42](https://news.ycombinator.com/item?id=46286559) - [I'm a Tech Lead, and nobody listens to me. What should I do?](https://world.hey.com/joaoqalves/i-m-a-tech-lead-and-nobody-listens-to-me-what-should-i-do-e16e454d)
 * [2025-12-16, 09:16:31](https://news.ycombinator.com/item?id=46286407) - [A2UI: A Protocol for Agent-Driven Interfaces](https://a2ui.org/)
 * [2025-12-16, 08:58:59](https://news.ycombinator.com/item?id=46286313) - [15,000 Free Pixel Art Icons](https://piixes.com/)
