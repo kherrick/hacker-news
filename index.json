@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-12-16, 23:28:39",
+      "https://news.ycombinator.com/item?id=46296181"
+    ],
+    [
+      "Americans overestimate how many social media users post harmful content",
+      "https://academic.oup.com/pnasnexus/article/4/12/pgaf310/8377954?login=false"
+    ]
+  ],
+  [
+    [
+      "2025-12-16, 22:50:59",
+      "https://news.ycombinator.com/item?id=46295792"
+    ],
+    [
+      "Dafny: Verification-Aware Programming Language",
+      "https://dafny.org/"
+    ]
+  ],
+  [
+    [
       "2025-12-16, 22:48:56",
       "https://news.ycombinator.com/item?id=46295771"
     ],
@@ -27,6 +47,16 @@
     [
       "MIT professor shot at his Massachusetts home dies",
       "https://www.bbc.com/news/articles/cly08y25688o"
+    ]
+  ],
+  [
+    [
+      "2025-12-16, 21:18:46",
+      "https://news.ycombinator.com/item?id=46294626"
+    ],
+    [
+      "Reverse-Engineering the RK3588 NPU: Hacking Limits to Run Vision Transformers",
+      "https://amohan.dev/blog/2025/shard-optimizing-vision-transformers-edge-npu/"
     ]
   ],
   [
@@ -77,16 +107,6 @@
     [
       "No Graphics API",
       "https://www.sebastianaaltonen.com/blog/no-graphics-api"
-    ]
-  ],
-  [
-    [
-      "2025-12-16, 18:32:46",
-      "https://news.ycombinator.com/item?id=46292365"
-    ],
-    [
-      "Vibe coding creates fatigue?",
-      "https://www.tabulamag.com/p/too-fast-to-think-the-hidden-fatigue"
     ]
   ],
   [
@@ -221,16 +241,6 @@
   ],
   [
     [
-      "2025-12-15, 16:42:55",
-      "https://news.ycombinator.com/item?id=46276826"
-    ],
-    [
-      "Full Unicode Search at 50× ICU Speed with AVX‑512",
-      "https://ashvardanian.com/posts/search-utf8/"
-    ]
-  ],
-  [
-    [
       "2025-12-15, 15:47:14",
       "https://news.ycombinator.com/item?id=46276002"
     ],
@@ -267,16 +277,6 @@
     [
       "30 Years of <Br> Tags",
       "https://www.artmann.co/articles/30-years-of-br-tags"
-    ]
-  ],
-  [
-    [
-      "2025-12-12, 22:50:18",
-      "https://news.ycombinator.com/item?id=46250013"
-    ],
-    [
-      "The Beauty of Dissonance",
-      "https://www.plough.com/en/topics/culture/music/the-beauty-of-dissonance"
     ]
   ],
   [
