@@ -51,6 +51,7 @@
 * [2025-12-12, 12:35:57](https://news.ycombinator.com/item?id=46243543) - [The Tor Project Is Making a Switch to Rust, Ditches C](https://itsfoss.com/news/tor-rust-rewrite-progress/)
 * [2025-12-12, 10:55:08](https://news.ycombinator.com/item?id=46242907) - [How does a \"you interview for US company, we do the work\" scam work?](https://news.ycombinator.com/item?id=46242907)
 * [2025-12-12, 10:50:22](https://news.ycombinator.com/item?id=46242871) - [After 27 years within budget Austria open 6thlongest railway tunnel in the world](https://infrastruktur.oebb.at/en/projects-for-austria/railway-lines/southern-line-vienna-villach/koralm-railway)
+* [2025-12-12, 10:44:50](https://news.ycombinator.com/item?id=46242838) - [Debug Mode for LLMs in vLLora](https://vllora.dev/blog/debug-mode/)
 * [2025-12-12, 10:37:51](https://news.ycombinator.com/item?id=46242795) - [Training LLMs for Honesty via Confessions](https://arxiv.org/abs/2512.08093)
 * [2025-12-12, 10:23:23](https://news.ycombinator.com/item?id=46242700) - [Building small Docker images faster](https://sgt.hootr.club/blog/docker-protips/)
 * [2025-12-12, 09:48:52](https://news.ycombinator.com/item?id=46242513) - [You are dating an ecosystem](https://www.razor.blog/2025/12/you-will-never-be-in-two-person.html)
