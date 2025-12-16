@@ -1,12 +1,22 @@
 [
   [
     [
-      "2025-12-16, 12:01:55",
-      "https://news.ycombinator.com/item?id=46287521"
+      "2025-12-16, 13:33:25",
+      "https://news.ycombinator.com/item?id=46288291"
     ],
     [
-      "Cekura (YC F24) Is Hiring",
-      "https://www.ycombinator.com/companies/cekura-ai/jobs/YFeQADI-product-engineer-us"
+      "Rust GCC back end: Why and how",
+      "https://blog.guillaume-gomez.fr/articles/2025-12-15+Rust+GCC+backend%3A+Why+and+how"
+    ]
+  ],
+  [
+    [
+      "2025-12-16, 13:32:42",
+      "https://news.ycombinator.com/item?id=46288286"
+    ],
+    [
+      "Put a ring on it: a lock-free MPMC ring buffer",
+      "https://h4x0r.org/ring/"
     ]
   ],
   [
@@ -151,26 +161,6 @@
   ],
   [
     [
-      "2025-12-15, 21:24:06",
-      "https://news.ycombinator.com/item?id=46280887"
-    ],
-    [
-      "Secret Documents Show Pepsi and Walmart Colluded to Raise Food Prices",
-      "https://www.thebignewsletter.com/p/secret-documents-show-pepsi-and-walmart"
-    ]
-  ],
-  [
-    [
-      "2025-12-15, 20:52:35",
-      "https://news.ycombinator.com/item?id=46280465"
-    ],
-    [
-      "A kernel bug froze my machine: Debugging an async-profiler deadlock",
-      "https://questdb.com/blog/async-profiler-kernel-bug/"
-    ]
-  ],
-  [
-    [
       "2025-12-15, 20:09:48",
       "https://news.ycombinator.com/item?id=46279825"
     ],
@@ -287,6 +277,16 @@
     [
       "Internal RFCs saved us months of wasted work",
       "https://highimpactengineering.substack.com/p/the-illusion-of-shared-understanding"
+    ]
+  ],
+  [
+    [
+      "2025-12-10, 00:10:20",
+      "https://news.ycombinator.com/item?id=46212450"
+    ],
+    [
+      "Mathematicians Crack a Fractal Conjecture on Chaos",
+      "https://www.scientificamerican.com/article/mathematicians-crack-a-fractal-conjecture-on-chaos/"
     ]
   ],
   [
