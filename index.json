@@ -21,11 +21,11 @@
   ],
   [
     [
-      "2025-12-16, 17:58:59",
-      "https://news.ycombinator.com/item?id=46291827"
+      "2025-12-16, 18:07:07",
+      "https://news.ycombinator.com/item?id=46291941"
     ],
     [
-      "The new ChatGPT Images is here",
+      "GPT Image 1.5",
       "https://openai.com/index/new-chatgpt-images-is-here/"
     ]
   ],
@@ -191,16 +191,6 @@
   ],
   [
     [
-      "2025-12-16, 09:51:31",
-      "https://news.ycombinator.com/item?id=46286666"
-    ],
-    [
-      "ArkhamMirror: Airgapped investigation platform with CIA-style hypothesis testing",
-      "https://github.com/mantisfury/ArkhamMirror"
-    ]
-  ],
-  [
-    [
       "2025-12-16, 09:16:31",
       "https://news.ycombinator.com/item?id=46286407"
     ],
@@ -297,6 +287,16 @@
     [
       "Show HN: A real-time 4D fractal explorer in the browser using WebGPU",
       "https://bryanjj.github.io/nebula/"
+    ]
+  ],
+  [
+    [
+      "2025-12-11, 19:11:42",
+      "https://news.ycombinator.com/item?id=46235750"
+    ],
+    [
+      "Confuse some SSH bots and make botters block you",
+      "https://mirror.newsdump.org/confuse-some-ssh-bots.html"
     ]
   ]
 ]
