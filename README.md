@@ -10,12 +10,13 @@
 * [2025-12-16, 16:54:19](https://news.ycombinator.com/item?id=46290916) - [alpr.watch](https://alpr.watch/)
 * [2025-12-16, 15:55:45](https://news.ycombinator.com/item?id=46290113) - [AIsbom – open-source CLI to detect \"Pickle Bombs\" in PyTorch models](https://github.com/Lab700xOrg/aisbom)
 * [2025-12-16, 15:41:47](https://news.ycombinator.com/item?id=46289918) - [Writing a blatant Telegram clone using Qt, QML and Rust. And C++](https://kemble.net/blog/provoke/)
+* [2025-12-16, 14:39:59](https://news.ycombinator.com/item?id=46289073) - [Show HN: Solving the ~95% legislative coverage gap using LLM's](https://lustra.news/)
 * [2025-12-16, 13:53:14](https://news.ycombinator.com/item?id=46288491) - [Mozilla appoints new CEO Anthony Enzor-Demeo](https://blog.mozilla.org/en/mozilla/leadership/mozillas-next-chapter-anthony-enzor-demeo-new-ceo/)
 * [2025-12-16, 13:46:57](https://news.ycombinator.com/item?id=46288415) - [40 percent of fMRI signals do not correspond to actual brain activity](https://www.tum.de/en/news-and-events/all-news/press-releases/details/40-percent-of-mri-signals-do-not-correspond-to-actual-brain-activity)
 * [2025-12-16, 13:33:25](https://news.ycombinator.com/item?id=46288291) - [Rust GCC back end: Why and how](https://blog.guillaume-gomez.fr/articles/2025-12-15+Rust+GCC+backend%3A+Why+and+how)
 * [2025-12-16, 13:07:14](https://news.ycombinator.com/item?id=46288024) - [Sega Channel: VGHF Recovers over 100 Sega Channel ROMs (and More)](https://gamehistory.org/segachannel/)
 * [2025-12-16, 08:54:58](https://news.ycombinator.com/item?id=46286292) - [Japan to revise romanization rules for first time in 70 years](https://www.japantimes.co.jp/news/2025/08/21/japan/panel-hepburn-style-romanization/)
-* [2025-12-16, 00:50:41](https://news.ycombinator.com/item?id=46283276) - [Thin desires are eating your life](https://www.joanwestenberg.com/thin-desires-are-eating-your-life/)
+* [2025-12-16, 00:50:41](https://news.ycombinator.com/item?id=46283276) - [Thin desires are eating life](https://www.joanwestenberg.com/thin-desires-are-eating-your-life/)
 * [2025-12-16, 00:25:53](https://news.ycombinator.com/item?id=46283052) - [Creating custom yellow handshake emojis with zero-width joiners](https://blog.alexbeals.com/posts/custom-yellow-handshake-emojis-with-zero-width-joiners)
 * [2025-12-16, 00:06:49](https://news.ycombinator.com/item?id=46282874) - [The World Happiness Report is beset with methodological problems](https://yaschamounk.substack.com/p/the-world-happiness-report-is-a-sham)
 * [2025-12-15, 21:41:18](https://news.ycombinator.com/item?id=46281119) - [Liskell – Haskell Semantics with Lisp Syntax [pdf]](http://clemens.endorphin.org/ILC07-Liskell-draft.pdf)
@@ -29,7 +30,6 @@
 * [2025-12-13, 14:35:28](https://news.ycombinator.com/item?id=46254794) - [30 Years of <Br> Tags](https://www.artmann.co/articles/30-years-of-br-tags)
 * [2025-12-11, 22:23:24](https://news.ycombinator.com/item?id=46238100) - [How geometry is fundamental for chess](https://lichess.org/@/RuyLopez1000/blog/how-geometry-is-fundamental-for-chess/h31wwhUX)
 * [2025-12-11, 19:11:42](https://news.ycombinator.com/item?id=46235750) - [Confuse some SSH bots and make botters block you](https://mirror.newsdump.org/confuse-some-ssh-bots.html)
-* [2025-12-10, 16:44:59](https://news.ycombinator.com/item?id=46219987) - [Meta's new A.I. superstars are chafing against the rest of the company](https://www.nytimes.com/2025/12/10/technology/meta-ai-tbd-lab-friction.html)
 
 ## [Archives](archives/index.md)
 
