@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-12-16, 21:16:35",
+      "https://news.ycombinator.com/item?id=46294592"
+    ],
+    [
+      "Chat-tails: Throwback terminal chat, built on Tailscale",
+      "https://tailscale.com/blog/chat-tails-terminal-chat"
+    ]
+  ],
+  [
+    [
       "2025-12-16, 21:14:49",
       "https://news.ycombinator.com/item?id=46294574"
     ],
@@ -11,12 +21,32 @@
   ],
   [
     [
+      "2025-12-16, 21:03:25",
+      "https://news.ycombinator.com/item?id=46294440"
+    ],
+    [
+      "Show HN: Deterministic PCIe Diagnostics for GPUs on Linux",
+      "https://github.com/parallelArchitect/gpu-pcie-diagnostic"
+    ]
+  ],
+  [
+    [
       "2025-12-16, 20:52:45",
       "https://news.ycombinator.com/item?id=46294289"
     ],
     [
       "Ty: A fast Python type checker and LSP",
       "https://astral.sh/blog/ty"
+    ]
+  ],
+  [
+    [
+      "2025-12-16, 20:51:27",
+      "https://news.ycombinator.com/item?id=46294274"
+    ],
+    [
+      "Letta Code",
+      "https://www.letta.com/blog/letta-code"
     ]
   ],
   [
@@ -61,16 +91,6 @@
   ],
   [
     [
-      "2025-12-16, 17:12:02",
-      "https://news.ycombinator.com/item?id=46291156"
-    ],
-    [
-      "Pricing Changes for GitHub Actions",
-      "https://resources.github.com/actions/2026-pricing-changes-for-github-actions/"
-    ]
-  ],
-  [
-    [
       "2025-12-16, 17:00:57",
       "https://news.ycombinator.com/item?id=46291011"
     ],
@@ -87,16 +107,6 @@
     [
       "alpr.watch",
       "https://alpr.watch/"
-    ]
-  ],
-  [
-    [
-      "2025-12-16, 15:55:45",
-      "https://news.ycombinator.com/item?id=46290113"
-    ],
-    [
-      "AIsbom – open-source CLI to detect \"Pickle Bombs\" in PyTorch models",
-      "https://github.com/Lab700xOrg/aisbom"
     ]
   ],
   [
@@ -187,16 +197,6 @@
     [
       "The World Happiness Report is beset with methodological problems",
       "https://yaschamounk.substack.com/p/the-world-happiness-report-is-a-sham"
-    ]
-  ],
-  [
-    [
-      "2025-12-15, 21:41:18",
-      "https://news.ycombinator.com/item?id=46281119"
-    ],
-    [
-      "Liskell – Haskell Semantics with Lisp Syntax [pdf]",
-      "http://clemens.endorphin.org/ILC07-Liskell-draft.pdf"
     ]
   ],
   [
