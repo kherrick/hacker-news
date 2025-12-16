@@ -1,22 +1,22 @@
 [
   [
     [
-      "2025-12-16, 12:12:58",
-      "https://news.ycombinator.com/item?id=46287596"
-    ],
-    [
-      "Thomas Piketty: 'The reality is the US is losing control of the world'",
-      "https://www.lemonde.fr/en/opinion/article/2025/04/12/thomas-piketty-the-reality-is-the-us-is-losing-control-of-the-world_6740140_23.html"
-    ]
-  ],
-  [
-    [
       "2025-12-16, 12:01:55",
       "https://news.ycombinator.com/item?id=46287521"
     ],
     [
       "Cekura (YC F24) Is Hiring",
       "https://www.ycombinator.com/companies/cekura-ai/jobs/YFeQADI-product-engineer-us"
+    ]
+  ],
+  [
+    [
+      "2025-12-16, 10:56:40",
+      "https://news.ycombinator.com/item?id=46287098"
+    ],
+    [
+      "Should we fear Microsoft's monopoly?",
+      "https://www.cursor.tue.nl/en/background/2025/december/week-2/should-we-fear-microsofts-monopoly"
     ]
   ],
   [
@@ -221,16 +221,6 @@
   ],
   [
     [
-      "2025-12-12, 20:13:26",
-      "https://news.ycombinator.com/item?id=46248294"
-    ],
-    [
-      "In Defense of Matlab Code",
-      "https://runmat.org/blog/in-defense-of-matlab-whiteboard-style-code"
-    ]
-  ],
-  [
-    [
       "2025-12-12, 06:47:45",
       "https://news.ycombinator.com/item?id=46241500"
     ],
@@ -241,12 +231,12 @@
   ],
   [
     [
-      "2025-12-12, 02:10:09",
-      "https://news.ycombinator.com/item?id=46240103"
+      "2025-12-12, 04:37:33",
+      "https://news.ycombinator.com/item?id=46240912"
     ],
     [
-      "Show HN: Search the lyrics of 500 HÖR Berlin techno sets",
-      "https://hor.greg.technology/"
+      "Mark V Shaney",
+      "https://en.wikipedia.org/wiki/Mark_V._Shaney"
     ]
   ],
   [
@@ -267,6 +257,16 @@
     [
       "High Performance SSH/SCP",
       "https://www.psc.edu/hpn-ssh-home/"
+    ]
+  ],
+  [
+    [
+      "2025-12-11, 02:03:58",
+      "https://news.ycombinator.com/item?id=46226779"
+    ],
+    [
+      "Be Careful with GIDs in Rails",
+      "https://blog.julik.nl/2025/12/a-trap-with-global-ids"
     ]
   ],
   [
