@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-12-16, 14:43:18](https://news.ycombinator.com/item?id=46289115) - [Mozilla's new CEO is doubling down on an AI future for Firefox](https://www.theverge.com/tech/845216/mozilla-ceo-anthony-enzor-demeo)
+* [2025-12-16, 15:22:32](https://news.ycombinator.com/item?id=46289635) - [Four Million U.S. Children Had No Health Insurance in 2024](https://www.scientificamerican.com/article/how-rising-rates-of-uninsured-children-will-increase-pediatric-cancer-deaths/)
+* [2025-12-16, 14:11:08](https://news.ycombinator.com/item?id=46288673) - [U.S. unemployment rose in November despite job gains](https://www.wsj.com/economy/jobs/jobs-report-october-november-2025-unemployment-economy-7f6eea90)
 * [2025-12-16, 13:46:57](https://news.ycombinator.com/item?id=46288415) - [40 percent of fMRI signals do not correspond to actual brain activity](https://www.tum.de/en/news-and-events/all-news/press-releases/details/40-percent-of-mri-signals-do-not-correspond-to-actual-brain-activity)
 * [2025-12-16, 13:46:55](https://news.ycombinator.com/item?id=46288414) - [A brief history of Times New Roman](https://typographyforlawyers.com/a-brief-history-of-times-new-roman.html)
 * [2025-12-16, 13:42:24](https://news.ycombinator.com/item?id=46288371) - [This is not the future](https://blog.mathieui.net/this-is-not-the-future.html)
@@ -27,7 +28,6 @@
 * [2025-12-11, 19:08:33](https://news.ycombinator.com/item?id=46235699) - [Creating C closures from Lua closures](https://lowkpro.com/blog/creating-c-closures-from-lua-closures.html)
 * [2025-12-11, 04:23:46](https://news.ycombinator.com/item?id=46227641) - [High Performance SSH/SCP](https://www.psc.edu/hpn-ssh-home/)
 * [2025-12-11, 02:03:58](https://news.ycombinator.com/item?id=46226779) - [Be Careful with GIDs in Rails](https://blog.julik.nl/2025/12/a-trap-with-global-ids)
-* [2025-12-10, 17:57:43](https://news.ycombinator.com/item?id=46221016) - [Internal RFCs saved us months of wasted work](https://highimpactengineering.substack.com/p/the-illusion-of-shared-understanding)
 * [2025-12-10, 00:10:20](https://news.ycombinator.com/item?id=46212450) - [Mathematicians Crack a Fractal Conjecture on Chaos](https://www.scientificamerican.com/article/mathematicians-crack-a-fractal-conjecture-on-chaos/)
 * [2025-12-06, 17:21:03](https://news.ycombinator.com/item?id=46174949) - [Show HN: I designed my own 3D printer motherboard](https://github.com/KaiPereira/Cheetah-MX4-Mini)
 
