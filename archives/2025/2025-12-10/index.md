@@ -35,6 +35,7 @@
 * [2025-12-10, 17:20:06](https://news.ycombinator.com/item?id=46220488) - [Valve: HDMI Forum Continues to Block HDMI 2.1 for Linux](https://www.heise.de/en/news/Valve-HDMI-Forum-Continues-to-Block-HDMI-2-1-for-Linux-11107440.html)
 * [2025-12-10, 17:14:39](https://news.ycombinator.com/item?id=46220411) - [Pg_ClickHouse: A Postgres extension for querying ClickHouse](https://clickhouse.com/blog/introducing-pg_clickhouse)
 * [2025-12-10, 17:00:22](https://news.ycombinator.com/item?id=46220211) - [Mothers (YC X26) Is Hiring](https://app.dover.com/jobs/9mothers)
+* [2025-12-10, 16:44:59](https://news.ycombinator.com/item?id=46219987) - [Meta's new A.I. superstars are chafing against the rest of the company](https://www.nytimes.com/2025/12/10/technology/meta-ai-tbd-lab-friction.html)
 * [2025-12-10, 16:34:52](https://news.ycombinator.com/item?id=46219853) - [DeepSeek uses banned Nvidia chips for AI model, report says](https://finance.yahoo.com/news/china-deepseek-uses-banned-nvidia-131207746.html)
 * [2025-12-10, 16:13:57](https://news.ycombinator.com/item?id=46219544) - [England Historic Aerial Photo Explorer](https://historicengland.org.uk/images-books/archive/collections/aerial-photos/)
 * [2025-12-10, 16:13:38](https://news.ycombinator.com/item?id=46219538) - [Qwen3-Omni-Flash-2025-12-01：a next-generation native multimodal large model](https://qwen.ai/blog?id=qwen3-omni-flash-20251201)

@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-12-11](index.md)
 
 * [2025-12-11, 23:56:10](https://news.ycombinator.com/item?id=46239076) - [Ensuring a National Policy Framework for Artificial Intelligence](https://www.whitehouse.gov/presidential-actions/2025/12/eliminating-state-law-obstruction-of-national-artificial-intelligence-policy/)
+* [2025-12-11, 22:23:24](https://news.ycombinator.com/item?id=46238100) - [How geometry is fundamental for chess](https://lichess.org/@/RuyLopez1000/blog/how-geometry-is-fundamental-for-chess/h31wwhUX)
 * [2025-12-11, 21:45:03](https://news.ycombinator.com/item?id=46237623) - [23,746 Patients Died on Waitlists in Past Year](https://secondstreet.org/2025/11/26/23746-patients-died-on-waitlists-in-past-year/)
 * [2025-12-11, 21:44:06](https://news.ycombinator.com/item?id=46237606) - [Show HN: A real-time 4D fractal explorer in the browser using WebGPU](https://bryanjj.github.io/nebula/)
 * [2025-12-11, 21:37:58](https://news.ycombinator.com/item?id=46237527) - [Two new RSC protocol vulnerabilities uncovered](https://nextjs.org/blog/security-update-2025-12-11)

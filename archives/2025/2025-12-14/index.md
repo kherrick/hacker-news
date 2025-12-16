@@ -56,6 +56,7 @@
 * [2025-12-14, 08:21:59](https://news.ycombinator.com/item?id=46261616) - [Bye, Mom](https://aella.substack.com/p/bye-mom)
 * [2025-12-14, 07:45:15](https://news.ycombinator.com/item?id=46261452) - [Compiler Engineering in Practice](https://chisophugis.github.io/2025/12/08/compiler-engineering-in-practice-part-1-what-is-a-compiler.html)
 * [2025-12-14, 05:38:52](https://news.ycombinator.com/item?id=46261020) - [\"You should never build a CMS\"](https://www.sanity.io/blog/you-should-never-build-a-cms)
+* [2025-12-14, 04:59:07](https://news.ycombinator.com/item?id=46260852) - [Pizlix: Memory Safe Linux from Scratch](https://fil-c.org/pizlix)
 * [2025-12-14, 04:11:05](https://news.ycombinator.com/item?id=46260686) - [Tiobe Index for December 2025: R Joins the Top as SQL Climbs](https://www.techrepublic.com/article/news-tiobe-commentary-dec-2025/)
 * [2025-12-14, 03:46:51](https://news.ycombinator.com/item?id=46260596) - [Heavy metal is healing teens on the Blackfeet Nation](https://www.hcn.org/issues/57-11/heavy-metal-is-healing-teens-on-the-blackfeet-nation/)
 * [2025-12-14, 03:13:38](https://news.ycombinator.com/item?id=46260474) - [Rocket Lab – 'Raise and Shine' Launch for JAXA [video]](https://www.youtube.com/watch?v=cMP328yoUu4)
