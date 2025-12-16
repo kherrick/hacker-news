@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-12-16, 17:13:07](https://news.ycombinator.com/item?id=46291172) - [FVWM-95](https://fvwm95.sourceforge.net/)
+* [2025-12-16, 17:12:02](https://news.ycombinator.com/item?id=46291156) - [Pricing Changes for GitHub Actions](https://resources.github.com/actions/2026-pricing-changes-for-github-actions/)
 * [2025-12-16, 17:00:57](https://news.ycombinator.com/item?id=46291011) - [Artie (YC S23) Is Hiring Senior Enterprise AES](https://www.ycombinator.com/companies/artie/jobs/HyaHWUs-senior-enterprise-ae)
 * [2025-12-16, 16:54:19](https://news.ycombinator.com/item?id=46290916) - [Track Surveillance (Flock Cameras) Tech in Local Government Meetings](https://alpr.watch/)
 * [2025-12-16, 16:09:48](https://news.ycombinator.com/item?id=46290320) - [Devs say Apple still flouting EU's Digital Markets Act six months on](https://www.theregister.com/2025/12/16/apple_dma_complaint/)
@@ -18,7 +19,6 @@
 * [2025-12-16, 08:13:01](https://news.ycombinator.com/item?id=46286030) - [The biggest heat pumps](https://www.bbc.com/news/articles/c17p44w87rno)
 * [2025-12-16, 06:47:09](https://news.ycombinator.com/item?id=46285535) - [A linear-time alternative for Dimensionality Reduction and fast visualisation](https://medium.com/@roman.f/a-linear-time-alternative-to-t-sne-for-dimensionality-reduction-and-fast-visualisation-5cd1a7219d6f)
 * [2025-12-16, 06:06:43](https://news.ycombinator.com/item?id=46285319) - [Bonsai: A Voxel Engine, from scratch](https://github.com/scallyw4g/bonsai)
-* [2025-12-16, 04:49:03](https://news.ycombinator.com/item?id=46284897) - [Erdős Problem #1026](https://terrytao.wordpress.com/2025/12/08/the-story-of-erdos-problem-126/)
 * [2025-12-16, 04:06:51](https://news.ycombinator.com/item?id=46284658) - [SHARP, an approach to photorealistic view synthesis from a single image](https://apple.github.io/ml-sharp/)
 * [2025-12-16, 00:22:41](https://news.ycombinator.com/item?id=46283016) - [Quill OS: An open-source OS for Kobo's eReaders](https://quill-os.org/)
 * [2025-12-15, 21:15:53](https://news.ycombinator.com/item?id=46280775) - [Canada's Carney called out for 'utilizing' British spelling](https://www.bbc.com/news/articles/cj69d89l8l5o)
