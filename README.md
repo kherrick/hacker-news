@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-12-16, 21:14:49](https://news.ycombinator.com/item?id=46294574) - [Prediction: AI will make formal verification go mainstream](https://martin.kleppmann.com/2025/12/08/ai-formal-verification.html)
 * [2025-12-16, 19:20:17](https://news.ycombinator.com/item?id=46293062) - [No Graphics API](https://www.sebastianaaltonen.com/blog/no-graphics-api)
 * [2025-12-16, 18:32:46](https://news.ycombinator.com/item?id=46292365) - [Vibe coding creates fatigue?](https://www.tabulamag.com/p/too-fast-to-think-the-hidden-fatigue)
 * [2025-12-16, 18:07:07](https://news.ycombinator.com/item?id=46291941) - [GPT Image 1.5](https://openai.com/index/new-chatgpt-images-is-here/)
@@ -10,7 +11,6 @@
 * [2025-12-16, 16:54:19](https://news.ycombinator.com/item?id=46290916) - [alpr.watch](https://alpr.watch/)
 * [2025-12-16, 15:55:45](https://news.ycombinator.com/item?id=46290113) - [AIsbom – open-source CLI to detect \"Pickle Bombs\" in PyTorch models](https://github.com/Lab700xOrg/aisbom)
 * [2025-12-16, 15:41:47](https://news.ycombinator.com/item?id=46289918) - [Writing a blatant Telegram clone using Qt, QML and Rust. And C++](https://kemble.net/blog/provoke/)
-* [2025-12-16, 14:39:59](https://news.ycombinator.com/item?id=46289073) - [Show HN: Solving the ~95% legislative coverage gap using LLM's](https://lustra.news/)
 * [2025-12-16, 13:53:14](https://news.ycombinator.com/item?id=46288491) - [Mozilla appoints new CEO Anthony Enzor-Demeo](https://blog.mozilla.org/en/mozilla/leadership/mozillas-next-chapter-anthony-enzor-demeo-new-ceo/)
 * [2025-12-16, 13:46:57](https://news.ycombinator.com/item?id=46288415) - [40 percent of fMRI signals do not correspond to actual brain activity](https://www.tum.de/en/news-and-events/all-news/press-releases/details/40-percent-of-mri-signals-do-not-correspond-to-actual-brain-activity)
 * [2025-12-16, 13:33:25](https://news.ycombinator.com/item?id=46288291) - [Rust GCC back end: Why and how](https://blog.guillaume-gomez.fr/articles/2025-12-15+Rust+GCC+backend%3A+Why+and+how)
@@ -24,10 +24,10 @@
 * [2025-12-15, 16:42:55](https://news.ycombinator.com/item?id=46276826) - [Full Unicode Search at 50× ICU Speed with AVX‑512](https://ashvardanian.com/posts/search-utf8/)
 * [2025-12-15, 15:47:14](https://news.ycombinator.com/item?id=46276002) - [Show HN: Sqlit – A lazygit-style TUI for SQL databases](https://github.com/Maxteabag/sqlit)
 * [2025-12-15, 14:39:49](https://news.ycombinator.com/item?id=46275111) - [Nvidia Nemotron 3 Family of Models](https://research.nvidia.com/labs/nemotron/Nemotron-3/)
-* [2025-12-15, 07:28:27](https://news.ycombinator.com/item?id=46271405) - [AI URI Scheme – Internet-Draft](https://www.ietf.org/archive/id/draft-sogomonian-ai-uri-scheme-01.html)
 * [2025-12-14, 04:59:07](https://news.ycombinator.com/item?id=46260852) - [Pizlix: Memory Safe Linux from Scratch](https://fil-c.org/pizlix)
 * [2025-12-13, 18:02:46](https://news.ycombinator.com/item?id=46256504) - [Purrtran – ᓚᘏᗢ – A Programming Language for Cat People](https://github.com/cmontella/purrtran)
 * [2025-12-13, 14:35:28](https://news.ycombinator.com/item?id=46254794) - [30 Years of <Br> Tags](https://www.artmann.co/articles/30-years-of-br-tags)
+* [2025-12-12, 10:44:50](https://news.ycombinator.com/item?id=46242838) - [Debug Mode for LLMs in vLLora](https://vllora.dev/blog/debug-mode/)
 * [2025-12-11, 22:23:24](https://news.ycombinator.com/item?id=46238100) - [How geometry is fundamental for chess](https://lichess.org/@/RuyLopez1000/blog/how-geometry-is-fundamental-for-chess/h31wwhUX)
 * [2025-12-11, 19:11:42](https://news.ycombinator.com/item?id=46235750) - [Confuse some SSH bots and make botters block you](https://mirror.newsdump.org/confuse-some-ssh-bots.html)
 
