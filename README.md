@@ -10,7 +10,6 @@
 * [2025-12-16, 03:03:49](https://news.ycombinator.com/item?id=46284266) - [8M users' AI conversations sold for profit by \"privacy\" extensions](https://www.koi.ai/blog/urban-vpn-browser-extension-ai-conversations-data-collection)
 * [2025-12-16, 01:51:50](https://news.ycombinator.com/item?id=46283750) - [Rollstack (YC W23) is hiring multiple software engineers (TypeScript) US/Canada](https://www.ycombinator.com/companies/rollstack-2/jobs/QPqpb1n-software-engineer-typescript-us-canada)
 * [2025-12-16, 00:22:41](https://news.ycombinator.com/item?id=46283016) - [Quill OS: An open-source OS for Kobo's eReaders](https://quill-os.org/)
-* [2025-12-16, 00:18:58](https://news.ycombinator.com/item?id=46282984) - [The Bob Dylan concert for just one person](https://www.flaggingdown.com/p/the-bob-dylan-concert-for-just-one)
 * [2025-12-15, 23:47:37](https://news.ycombinator.com/item?id=46282679) - [Native vs. emulation: World of Warcraft game performance on Snapdragon X Elite](https://rkblog.dev/posts/pc-hardware/pc-on-arm/x86_versus_arm_native_game/)
 * [2025-12-15, 22:48:56](https://news.ycombinator.com/item?id=46281944) - [JetBlue flight averts mid-air collision with US Air Force jet](https://www.reuters.com/world/americas/jetblue-flight-averts-mid-air-collision-with-us-air-force-jet-2025-12-15/)
 * [2025-12-15, 21:56:03](https://news.ycombinator.com/item?id=46281288) - [Economics of Orbital vs. Terrestrial Data Centers](https://andrewmccalip.com/space-datacenters)
@@ -28,6 +27,7 @@
 * [2025-12-11, 00:11:32](https://news.ycombinator.com/item?id=46225950) - [Understanding carriage](https://seths.blog/2025/12/understanding-carriage/)
 * [2025-12-10, 23:54:34](https://news.ycombinator.com/item?id=46225803) - [Nature's many attempts to evolve a Nostr](https://newsletter.squishy.computer/p/natures-many-attempts-to-evolve-a)
 * [2025-12-10, 19:03:09](https://news.ycombinator.com/item?id=46222002) - [7 Years, 2 Rebuilds, 40K+ Stars: Milvus Recap and Roadmap](https://milvus.io/blog/milvus-exceeds-40k-github-stars.md)
+* [2025-12-10, 17:57:43](https://news.ycombinator.com/item?id=46221016) - [Internal RFCs saved us months of wasted work](https://highimpactengineering.substack.com/p/the-illusion-of-shared-understanding)
 * [2025-12-10, 15:54:59](https://news.ycombinator.com/item?id=46219203) - [Light intensity steers molecular assemblies into 1D, 2D or 3D structures](https://phys.org/news/2025-11-intensity-molecular-1d-2d-3d.html)
 * [2025-12-06, 17:21:03](https://news.ycombinator.com/item?id=46174949) - [Show HN: I designed my own 3D printer motherboard](https://github.com/KaiPereira/Cheetah-MX4-Mini)
 

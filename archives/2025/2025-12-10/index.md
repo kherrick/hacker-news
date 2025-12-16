@@ -24,6 +24,7 @@
 * [2025-12-10, 18:36:00](https://news.ycombinator.com/item?id=46221575) - [No-Tifier (2017)](https://subject.space/projects/no-tifier/)
 * [2025-12-10, 18:29:28](https://news.ycombinator.com/item?id=46221479) - [The Optics and Image Processing Behind Fundus Cameras](https://www.youtube.com/watch?v=EvTolqbCHXo)
 * [2025-12-10, 18:24:13](https://news.ycombinator.com/item?id=46221404) - [Intermittent Hypoxia Increases Blood Flow and Benefits Executive Function](https://onlinelibrary.wiley.com/doi/10.1111/psyp.70161)
+* [2025-12-10, 17:57:43](https://news.ycombinator.com/item?id=46221016) - [Internal RFCs saved us months of wasted work](https://highimpactengineering.substack.com/p/the-illusion-of-shared-understanding)
 * [2025-12-10, 17:49:28](https://news.ycombinator.com/item?id=46220902) - [Show HN: A 2-row, 16-key keyboard designed for smartphones](https://k-keyboard.com/Why-QWERTY-mini)
 * [2025-12-10, 17:42:30](https://news.ycombinator.com/item?id=46220794) - [Show HN: Automated license plate reader coverage in the USA](https://alpranalysis.com)
 * [2025-12-10, 17:30:43](https://news.ycombinator.com/item?id=46220640) - [Is it a bubble?](https://www.oaktreecapital.com/insights/memo/is-it-a-bubble)
