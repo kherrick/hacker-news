@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-12-16, 17:37:41",
+      "https://news.ycombinator.com/item?id=46291504"
+    ],
+    [
+      "AI is wiping out entry-level tech jobs, leaving graduates stranded",
+      "https://restofworld.org/2025/engineering-graduates-ai-job-losses/"
+    ]
+  ],
+  [
+    [
+      "2025-12-16, 17:37:34",
+      "https://news.ycombinator.com/item?id=46291500"
+    ],
+    [
+      "The GitHub Actions control plane is no longer free",
+      "https://www.blacksmith.sh/blog/actions-pricing"
+    ]
+  ],
+  [
+    [
       "2025-12-16, 17:32:38",
       "https://news.ycombinator.com/item?id=46291414"
     ],
@@ -45,8 +65,18 @@
       "https://news.ycombinator.com/item?id=46290916"
     ],
     [
-      "Track Surveillance (Flock Cameras) Tech in Local Government Meetings",
+      "alpr.watch",
       "https://alpr.watch/"
+    ]
+  ],
+  [
+    [
+      "2025-12-16, 16:32:16",
+      "https://news.ycombinator.com/item?id=46290617"
+    ],
+    [
+      "Show HN: Zenflow – orchestrate coding agents without \"you're right\" loops",
+      "https://zencoder.ai/zenflow"
     ]
   ],
   [
@@ -97,16 +127,6 @@
     [
       "A brief history of Times New Roman",
       "https://typographyforlawyers.com/a-brief-history-of-times-new-roman.html"
-    ]
-  ],
-  [
-    [
-      "2025-12-16, 13:42:24",
-      "https://news.ycombinator.com/item?id=46288371"
-    ],
-    [
-      "This is not the future",
-      "https://blog.mathieui.net/this-is-not-the-future.html"
     ]
   ],
   [
@@ -177,16 +197,6 @@
     [
       "The biggest heat pumps",
       "https://www.bbc.com/news/articles/c17p44w87rno"
-    ]
-  ],
-  [
-    [
-      "2025-12-16, 06:47:09",
-      "https://news.ycombinator.com/item?id=46285535"
-    ],
-    [
-      "A linear-time alternative for Dimensionality Reduction and fast visualisation",
-      "https://medium.com/@roman.f/a-linear-time-alternative-to-t-sne-for-dimensionality-reduction-and-fast-visualisation-5cd1a7219d6f"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Be Careful with GIDs in Rails",
       "https://blog.julik.nl/2025/12/a-trap-with-global-ids"
-    ]
-  ],
-  [
-    [
-      "2025-12-10, 17:44:13",
-      "https://news.ycombinator.com/item?id=46220826"
-    ],
-    [
-      "A Thousand and One Nights in Italy",
-      "https://publicdomainreview.org/essay/a-thousand-and-one-nights-in-italy"
     ]
   ]
 ]
