@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-12-16](index.md)
 
+* [2025-12-16, 06:17:37](https://news.ycombinator.com/item?id=46285376) - [Children with cancer scammed out of millions fundraised for their treatment](https://www.bbc.com/news/articles/ckgz318y8elo)
 * [2025-12-16, 04:49:03](https://news.ycombinator.com/item?id=46284897) - [Erdős Problem #1026](https://terrytao.wordpress.com/2025/12/08/the-story-of-erdos-problem-126/)
 * [2025-12-16, 04:06:51](https://news.ycombinator.com/item?id=46284658) - [Sharp](https://apple.github.io/ml-sharp/)
 * [2025-12-16, 03:03:49](https://news.ycombinator.com/item?id=46284266) - [8M Users' AI Conversations Sold for Profit by \"Privacy\" Extensions](https://www.koi.ai/blog/urban-vpn-browser-extension-ai-conversations-data-collection)

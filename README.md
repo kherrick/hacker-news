@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-12-16, 06:17:37](https://news.ycombinator.com/item?id=46285376) - [Children with cancer scammed out of millions fundraised for their treatment](https://www.bbc.com/news/articles/ckgz318y8elo)
 * [2025-12-16, 04:49:03](https://news.ycombinator.com/item?id=46284897) - [Erdős Problem #1026](https://terrytao.wordpress.com/2025/12/08/the-story-of-erdos-problem-126/)
 * [2025-12-16, 04:06:51](https://news.ycombinator.com/item?id=46284658) - [Sharp](https://apple.github.io/ml-sharp/)
 * [2025-12-16, 03:03:49](https://news.ycombinator.com/item?id=46284266) - [8M users' AI conversations sold for profit by \"privacy\" extensions](https://www.koi.ai/blog/urban-vpn-browser-extension-ai-conversations-data-collection)
 * [2025-12-16, 01:51:50](https://news.ycombinator.com/item?id=46283750) - [Rollstack (YC W23) is hiring multiple software engineers (TypeScript) US/Canada](https://www.ycombinator.com/companies/rollstack-2/jobs/QPqpb1n-software-engineer-typescript-us-canada)
-* [2025-12-16, 01:44:47](https://news.ycombinator.com/item?id=46283699) - [SoundCloud confirms breach after member data stolen, VPN access disrupted](https://www.bleepingcomputer.com/news/security/soundcloud-confirms-breach-after-member-data-stolen-vpn-access-disrupted/)
 * [2025-12-16, 00:22:41](https://news.ycombinator.com/item?id=46283016) - [Quill OS: An open-source OS for Kobo's eReaders](https://quill-os.org/)
 * [2025-12-16, 00:18:58](https://news.ycombinator.com/item?id=46282984) - [The Bob Dylan concert for just one person](https://www.flaggingdown.com/p/the-bob-dylan-concert-for-just-one)
 * [2025-12-15, 23:47:37](https://news.ycombinator.com/item?id=46282679) - [Native vs. emulation: World of Warcraft game performance on Snapdragon X Elite](https://rkblog.dev/posts/pc-hardware/pc-on-arm/x86_versus_arm_native_game/)
