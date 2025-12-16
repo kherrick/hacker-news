@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-12-16, 19:20:17](https://news.ycombinator.com/item?id=46293062) - [No Graphics API](https://www.sebastianaaltonen.com/blog/no-graphics-api)
-* [2025-12-16, 18:32:46](https://news.ycombinator.com/item?id=46292365) - [Too Fast to Think: The Hidden Fatigue of AI Vibe Coding](https://www.tabulamag.com/p/too-fast-to-think-the-hidden-fatigue)
+* [2025-12-16, 18:32:46](https://news.ycombinator.com/item?id=46292365) - [Vibe coding creates fatigue?](https://www.tabulamag.com/p/too-fast-to-think-the-hidden-fatigue)
 * [2025-12-16, 17:58:59](https://news.ycombinator.com/item?id=46291827) - [The new ChatGPT Images is here](https://openai.com/index/new-chatgpt-images-is-here/)
 * [2025-12-16, 17:37:41](https://news.ycombinator.com/item?id=46291504) - [AI is wiping out entry-level tech jobs, leaving graduates stranded](https://restofworld.org/2025/engineering-graduates-ai-job-losses/)
 * [2025-12-16, 17:37:34](https://news.ycombinator.com/item?id=46291500) - [The GitHub Actions control plane is no longer free](https://www.blacksmith.sh/blog/actions-pricing)
