@@ -71,4 +71,5 @@
 * [2025-12-11, 03:21:15](https://news.ycombinator.com/item?id=46227274) - [Tumbleweed aerodynamics inspire hybrid robots for harsh terrains](https://techxplore.com/news/2025-12-tumbleweed-aerodynamics-hybrid-robots-harsh.html)
 * [2025-12-11, 02:03:58](https://news.ycombinator.com/item?id=46226779) - [Be Careful with GIDs in Rails](https://blog.julik.nl/2025/12/a-trap-with-global-ids)
 * [2025-12-11, 01:18:55](https://news.ycombinator.com/item?id=46226483) - [Patterns.dev](https://www.patterns.dev/)
+* [2025-12-11, 00:25:57](https://news.ycombinator.com/item?id=46226068) - [Midjourney is alemwjsl](https://www.aadillpickle.com/blog/midjourney-is-alemwjsl)
 * [2025-12-11, 00:11:32](https://news.ycombinator.com/item?id=46225950) - [Understanding Carriage](https://seths.blog/2025/12/understanding-carriage/)

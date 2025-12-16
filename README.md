@@ -27,9 +27,9 @@
 * [2025-12-15, 15:47:14](https://news.ycombinator.com/item?id=46276002) - [Show HN: Sqlit – A lazygit-style TUI for SQL databases](https://github.com/Maxteabag/sqlit)
 * [2025-12-15, 14:39:49](https://news.ycombinator.com/item?id=46275111) - [Nvidia Nemotron 3 Family of Models](https://research.nvidia.com/labs/nemotron/Nemotron-3/)
 * [2025-12-14, 04:59:07](https://news.ycombinator.com/item?id=46260852) - [Pizlix: Memory Safe Linux from Scratch](https://fil-c.org/pizlix)
-* [2025-12-13, 14:35:28](https://news.ycombinator.com/item?id=46254794) - [30 Years of <Br> Tags](https://www.artmann.co/articles/30-years-of-br-tags)
+* [2025-12-13, 14:35:28](https://news.ycombinator.com/item?id=46254794) - [30 years of <br> tags](https://www.artmann.co/articles/30-years-of-br-tags)
 * [2025-12-11, 22:23:24](https://news.ycombinator.com/item?id=46238100) - [How geometry is fundamental for chess](https://lichess.org/@/RuyLopez1000/blog/how-geometry-is-fundamental-for-chess/h31wwhUX)
-* [2025-12-11, 03:21:15](https://news.ycombinator.com/item?id=46227274) - [Tumbleweed aerodynamics inspire hybrid robots for harsh terrains](https://techxplore.com/news/2025-12-tumbleweed-aerodynamics-hybrid-robots-harsh.html)
+* [2025-12-11, 00:25:57](https://news.ycombinator.com/item?id=46226068) - [Midjourney is alemwjsl](https://www.aadillpickle.com/blog/midjourney-is-alemwjsl)
 
 ## [Archives](archives/index.md)
 
