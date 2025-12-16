@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-12-16](index.md)
 
+* [2025-12-16, 14:43:18](https://news.ycombinator.com/item?id=46289115) - [Mozilla's new CEO is doubling down on an AI future for Firefox](https://www.theverge.com/tech/845216/mozilla-ceo-anthony-enzor-demeo)
 * [2025-12-16, 13:53:14](https://news.ycombinator.com/item?id=46288491) - [Mozilla Appoints New CEO Anthony Enzor-Demeo](https://blog.mozilla.org/en/mozilla/leadership/mozillas-next-chapter-anthony-enzor-demeo-new-ceo/)
 * [2025-12-16, 13:46:57](https://news.ycombinator.com/item?id=46288415) - [40 percent of MRI signals do not correspond to actual brain activity](https://www.tum.de/en/news-and-events/all-news/press-releases/details/40-percent-of-mri-signals-do-not-correspond-to-actual-brain-activity)
 * [2025-12-16, 13:46:55](https://news.ycombinator.com/item?id=46288414) - [A brief history of Times New Roman](https://typographyforlawyers.com/a-brief-history-of-times-new-roman.html)

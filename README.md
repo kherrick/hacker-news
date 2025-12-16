@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-12-16, 14:43:18](https://news.ycombinator.com/item?id=46289115) - [Mozilla's new CEO is doubling down on an AI future for Firefox](https://www.theverge.com/tech/845216/mozilla-ceo-anthony-enzor-demeo)
 * [2025-12-16, 13:46:57](https://news.ycombinator.com/item?id=46288415) - [40 percent of fMRI signals do not correspond to actual brain activity](https://www.tum.de/en/news-and-events/all-news/press-releases/details/40-percent-of-mri-signals-do-not-correspond-to-actual-brain-activity)
 * [2025-12-16, 13:46:55](https://news.ycombinator.com/item?id=46288414) - [A brief history of Times New Roman](https://typographyforlawyers.com/a-brief-history-of-times-new-roman.html)
 * [2025-12-16, 13:42:24](https://news.ycombinator.com/item?id=46288371) - [This is not the future](https://blog.mathieui.net/this-is-not-the-future.html)
@@ -20,15 +21,14 @@
 * [2025-12-16, 00:22:41](https://news.ycombinator.com/item?id=46283016) - [Quill OS: An open-source OS for Kobo's eReaders](https://quill-os.org/)
 * [2025-12-15, 23:47:37](https://news.ycombinator.com/item?id=46282679) - [Native vs. emulation: World of Warcraft game performance on Snapdragon X Elite](https://rkblog.dev/posts/pc-hardware/pc-on-arm/x86_versus_arm_native_game/)
 * [2025-12-15, 21:56:03](https://news.ycombinator.com/item?id=46281288) - [Economics of Orbital vs. Terrestrial Data Centers](https://andrewmccalip.com/space-datacenters)
-* [2025-12-15, 20:09:48](https://news.ycombinator.com/item?id=46279825) - [The appropriate amount of effort is zero](https://expandingawareness.org/blog/the-appropriate-amount-of-effort-is-zero/)
 * [2025-12-15, 16:42:55](https://news.ycombinator.com/item?id=46276826) - [Full Unicode Search at 50× ICU Speed with AVX‑512](https://ashvardanian.com/posts/search-utf8/)
 * [2025-12-13, 18:02:46](https://news.ycombinator.com/item?id=46256504) - [Purrtran – ᓚᘏᗢ – A Programming Language for Cat People](https://github.com/cmontella/purrtran)
 * [2025-12-12, 06:47:45](https://news.ycombinator.com/item?id=46241500) - [“Are you the one?” is free money](https://blog.owenlacey.dev/posts/are-you-the-one-is-free-money/)
-* [2025-12-12, 04:37:33](https://news.ycombinator.com/item?id=46240912) - [Mark V Shaney](https://en.wikipedia.org/wiki/Mark_V._Shaney)
 * [2025-12-11, 19:08:33](https://news.ycombinator.com/item?id=46235699) - [Creating C closures from Lua closures](https://lowkpro.com/blog/creating-c-closures-from-lua-closures.html)
 * [2025-12-11, 04:23:46](https://news.ycombinator.com/item?id=46227641) - [High Performance SSH/SCP](https://www.psc.edu/hpn-ssh-home/)
 * [2025-12-11, 02:03:58](https://news.ycombinator.com/item?id=46226779) - [Be Careful with GIDs in Rails](https://blog.julik.nl/2025/12/a-trap-with-global-ids)
 * [2025-12-10, 17:57:43](https://news.ycombinator.com/item?id=46221016) - [Internal RFCs saved us months of wasted work](https://highimpactengineering.substack.com/p/the-illusion-of-shared-understanding)
+* [2025-12-10, 00:10:20](https://news.ycombinator.com/item?id=46212450) - [Mathematicians Crack a Fractal Conjecture on Chaos](https://www.scientificamerican.com/article/mathematicians-crack-a-fractal-conjecture-on-chaos/)
 * [2025-12-06, 17:21:03](https://news.ycombinator.com/item?id=46174949) - [Show HN: I designed my own 3D printer motherboard](https://github.com/KaiPereira/Cheetah-MX4-Mini)
 
 ## [Archives](archives/index.md)
