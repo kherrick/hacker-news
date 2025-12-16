@@ -57,6 +57,7 @@
 * [2025-12-10, 11:33:31](https://news.ycombinator.com/item?id=46216583) - [Factor 0.101 now available](https://re.factorcode.org/2025/12/factor-0-101-now-available.html)
 * [2025-12-10, 11:10:58](https://news.ycombinator.com/item?id=46216446) - [Common Lisp, ASDF, and Quicklisp: packaging explained](https://cdegroot.com/programming/commonlisp/2025/11/26/cl-ql-asdf.html)
 * [2025-12-10, 10:03:56](https://news.ycombinator.com/item?id=46216008) - [Getting into Public Speaking](https://james.brooks.page/blog/getting-into-public-speaking)
+* [2025-12-10, 09:42:57](https://news.ycombinator.com/item?id=46215856) - [How does Windows synthesize CF_Unicode­TEXT from CF_TEXT and vice versa?](https://devblogs.microsoft.com/oldnewthing/20251209-00/?p=111854)
 * [2025-12-10, 09:15:18](https://news.ycombinator.com/item?id=46215688) - [Big Tech are the new Soviets](https://unherd.com/2025/12/big-tech-are-the-new-soviets/)
 * [2025-12-10, 07:06:55](https://news.ycombinator.com/item?id=46214950) - [Stop Breaking TLS](https://www.markround.com/blog/2025/12/09/stop-breaking-tls/)
 * [2025-12-10, 06:22:19](https://news.ycombinator.com/item?id=46214693) - [Revisiting \"Let's Build a Compiler\"](https://eli.thegreenplace.net/2025/revisiting-lets-build-a-compiler/)

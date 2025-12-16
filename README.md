@@ -17,7 +17,6 @@
 * [2025-12-15, 19:30:22](https://news.ycombinator.com/item?id=46279241) - [Upcoming Changes to Let's Encrypt Certificates](https://community.letsencrypt.org/t/upcoming-changes-to-let-s-encrypt-certificates/243873)
 * [2025-12-15, 19:27:08](https://news.ycombinator.com/item?id=46279187) - [Umbrel – Personal Cloud](https://umbrel.com)
 * [2025-12-15, 19:23:51](https://news.ycombinator.com/item?id=46279123) - [“Super secure” messaging app leaks everyone's phone number](https://ericdaigle.ca/posts/super-secure-maga-messaging-app-leaks-everyones-phone-number/)
-* [2025-12-15, 19:07:10](https://news.ycombinator.com/item?id=46278857) - [Problems with D-Bus on the Linux desktop](https://blog.vaxry.net/articles/2025-dbusSucks)
 * [2025-12-15, 18:16:34](https://news.ycombinator.com/item?id=46278208) - [Chafa: Terminal Graphics for the 21st Century](https://hpjansson.org/chafa/)
 * [2025-12-15, 17:01:42](https://news.ycombinator.com/item?id=46277090) - [Cosmic-ray bath in a past supernova gives birth to Earth-like planets](https://www.science.org/doi/10.1126/sciadv.adx7892)
 * [2025-12-15, 14:56:02](https://news.ycombinator.com/item?id=46275316) - [We are discontinuing the dark web report](https://support.google.com/websearch/answer/16767242?hl=en)
@@ -29,7 +28,8 @@
 * [2025-12-11, 00:11:32](https://news.ycombinator.com/item?id=46225950) - [Understanding carriage](https://seths.blog/2025/12/understanding-carriage/)
 * [2025-12-10, 23:54:34](https://news.ycombinator.com/item?id=46225803) - [Nature's many attempts to evolve a Nostr](https://newsletter.squishy.computer/p/natures-many-attempts-to-evolve-a)
 * [2025-12-10, 15:54:59](https://news.ycombinator.com/item?id=46219203) - [Light intensity steers molecular assemblies into 1D, 2D or 3D structures](https://phys.org/news/2025-11-intensity-molecular-1d-2d-3d.html)
-* [2025-12-09, 20:20:04](https://news.ycombinator.com/item?id=46210087) - [John Updike Wrote It All Down](https://newrepublic.com/article/201598/john-updike-wrote)
+* [2025-12-10, 09:42:57](https://news.ycombinator.com/item?id=46215856) - [How does Windows synthesize CF_Unicode­TEXT from CF_TEXT and vice versa?](https://devblogs.microsoft.com/oldnewthing/20251209-00/?p=111854)
+* [2025-12-06, 17:21:03](https://news.ycombinator.com/item?id=46174949) - [Show HN: I designed my own 3D printer motherboard](https://github.com/KaiPereira/Cheetah-MX4-Mini)
 
 ## [Archives](archives/index.md)
 
