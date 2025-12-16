@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-12-16, 06:47:09",
+      "https://news.ycombinator.com/item?id=46285535"
+    ],
+    [
+      "A linear-time alternative for Dimensionality Reduction and fast visualisation",
+      "https://medium.com/@roman.f/a-linear-time-alternative-to-t-sne-for-dimensionality-reduction-and-fast-visualisation-5cd1a7219d6f"
+    ]
+  ],
+  [
+    [
+      "2025-12-16, 06:29:02",
+      "https://news.ycombinator.com/item?id=46285448"
+    ],
+    [
+      "O'saasy License Agreement",
+      "https://osaasy.dev/"
+    ]
+  ],
+  [
+    [
       "2025-12-16, 06:17:37",
       "https://news.ycombinator.com/item?id=46285376"
     ],
@@ -25,7 +45,7 @@
       "https://news.ycombinator.com/item?id=46284658"
     ],
     [
-      "Sharp",
+      "SHARP, an approach to photorealistic view synthesis from a single image",
       "https://apple.github.io/ml-sharp/"
     ]
   ],
@@ -181,16 +201,6 @@
   ],
   [
     [
-      "2025-12-15, 14:56:02",
-      "https://news.ycombinator.com/item?id=46275316"
-    ],
-    [
-      "We are discontinuing the dark web report",
-      "https://support.google.com/websearch/answer/16767242?hl=en"
-    ]
-  ],
-  [
-    [
       "2025-12-15, 12:12:24",
       "https://news.ycombinator.com/item?id=46273466"
     ],
@@ -257,16 +267,6 @@
     [
       "Nature's many attempts to evolve a Nostr",
       "https://newsletter.squishy.computer/p/natures-many-attempts-to-evolve-a"
-    ]
-  ],
-  [
-    [
-      "2025-12-10, 23:16:26",
-      "https://news.ycombinator.com/item?id=46225406"
-    ],
-    [
-      "Debugging TLS failures in distroless containers",
-      "https://lucabaggi.com/posts/ssl-docker/"
     ]
   ],
   [
