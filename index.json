@@ -201,16 +201,6 @@
   ],
   [
     [
-      "2025-12-15, 23:47:37",
-      "https://news.ycombinator.com/item?id=46282679"
-    ],
-    [
-      "Native vs. emulation: World of Warcraft game performance on Snapdragon X Elite",
-      "https://rkblog.dev/posts/pc-hardware/pc-on-arm/x86_versus_arm_native_game/"
-    ]
-  ],
-  [
-    [
       "2025-12-15, 21:56:03",
       "https://news.ycombinator.com/item?id=46281288"
     ],
@@ -237,6 +227,16 @@
     [
       "Purrtran – ᓚᘏᗢ – A Programming Language for Cat People",
       "https://github.com/cmontella/purrtran"
+    ]
+  ],
+  [
+    [
+      "2025-12-12, 10:44:50",
+      "https://news.ycombinator.com/item?id=46242838"
+    ],
+    [
+      "Debug Mode for LLMs in vLLora",
+      "https://vllora.dev/blog/debug-mode/"
     ]
   ],
   [
@@ -281,22 +281,22 @@
   ],
   [
     [
+      "2025-12-10, 17:57:43",
+      "https://news.ycombinator.com/item?id=46221016"
+    ],
+    [
+      "Internal RFCs saved us months of wasted work",
+      "https://highimpactengineering.substack.com/p/the-illusion-of-shared-understanding"
+    ]
+  ],
+  [
+    [
       "2025-12-10, 00:10:20",
       "https://news.ycombinator.com/item?id=46212450"
     ],
     [
       "Mathematicians Crack a Fractal Conjecture on Chaos",
       "https://www.scientificamerican.com/article/mathematicians-crack-a-fractal-conjecture-on-chaos/"
-    ]
-  ],
-  [
-    [
-      "2025-12-06, 17:21:03",
-      "https://news.ycombinator.com/item?id=46174949"
-    ],
-    [
-      "Show HN: I designed my own 3D printer motherboard",
-      "https://github.com/KaiPereira/Cheetah-MX4-Mini"
     ]
   ]
 ]
