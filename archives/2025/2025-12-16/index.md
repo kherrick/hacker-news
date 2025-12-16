@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2025-12-16](index.md)
 
+* [2025-12-16, 13:53:14](https://news.ycombinator.com/item?id=46288491) - [Mozilla Appoints New CEO Anthony Enzor-Demeo](https://blog.mozilla.org/en/mozilla/leadership/mozillas-next-chapter-anthony-enzor-demeo-new-ceo/)
+* [2025-12-16, 13:46:57](https://news.ycombinator.com/item?id=46288415) - [40 percent of MRI signals do not correspond to actual brain activity](https://www.tum.de/en/news-and-events/all-news/press-releases/details/40-percent-of-mri-signals-do-not-correspond-to-actual-brain-activity)
+* [2025-12-16, 13:42:24](https://news.ycombinator.com/item?id=46288371) - [This is not the future](https://blog.mathieui.net/this-is-not-the-future.html)
+* [2025-12-16, 13:40:02](https://news.ycombinator.com/item?id=46288351) - [I don't think Lindley's paradox supports p-circling](https://vilgot-huhn.github.io/mywebsite/posts/20251206_p_circle_lindley/)
 * [2025-12-16, 13:33:25](https://news.ycombinator.com/item?id=46288291) - [Rust GCC back end: Why and how](https://blog.guillaume-gomez.fr/articles/2025-12-15+Rust+GCC+backend%3A+Why+and+how)
 * [2025-12-16, 13:32:42](https://news.ycombinator.com/item?id=46288286) - [Put a ring on it: a lock-free MPMC ring buffer](https://h4x0r.org/ring/)
 * [2025-12-16, 12:12:58](https://news.ycombinator.com/item?id=46287596) - [Thomas Piketty: 'The reality is the US is losing control of the world'](https://www.lemonde.fr/en/opinion/article/2025/04/12/thomas-piketty-the-reality-is-the-us-is-losing-control-of-the-world_6740140_23.html)
