@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-12-16](index.md)
 
+* [2025-12-16, 17:13:07](https://news.ycombinator.com/item?id=46291172) - [FVWM-95](https://fvwm95.sourceforge.net/)
+* [2025-12-16, 17:00:57](https://news.ycombinator.com/item?id=46291011) - [Artie (YC S23) Is Hiring Senior Enterprise AES](https://www.ycombinator.com/companies/artie/jobs/HyaHWUs-senior-enterprise-ae)
+* [2025-12-16, 16:54:19](https://news.ycombinator.com/item?id=46290916) - [Track Surveillance (Flock Cameras) Tech in Local Government Meetings](https://alpr.watch/)
 * [2025-12-16, 16:09:48](https://news.ycombinator.com/item?id=46290320) - [Devs say Apple still flouting EU's Digital Markets Act six months on](https://www.theregister.com/2025/12/16/apple_dma_complaint/)
 * [2025-12-16, 15:55:45](https://news.ycombinator.com/item?id=46290113) - [AIsbom – open-source CLI to detect \"Pickle Bombs\" in PyTorch models](https://github.com/Lab700xOrg/aisbom)
 * [2025-12-16, 15:22:32](https://news.ycombinator.com/item?id=46289635) - [Four Million U.S. Children Had No Health Insurance in 2024](https://www.scientificamerican.com/article/how-rising-rates-of-uninsured-children-will-increase-pediatric-cancer-deaths/)

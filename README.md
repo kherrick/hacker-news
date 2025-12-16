@@ -1,5 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-12-16, 17:13:07](https://news.ycombinator.com/item?id=46291172) - [FVWM-95](https://fvwm95.sourceforge.net/)
+* [2025-12-16, 17:00:57](https://news.ycombinator.com/item?id=46291011) - [Artie (YC S23) Is Hiring Senior Enterprise AES](https://www.ycombinator.com/companies/artie/jobs/HyaHWUs-senior-enterprise-ae)
+* [2025-12-16, 16:54:19](https://news.ycombinator.com/item?id=46290916) - [Track Surveillance (Flock Cameras) Tech in Local Government Meetings](https://alpr.watch/)
 * [2025-12-16, 16:09:48](https://news.ycombinator.com/item?id=46290320) - [Devs say Apple still flouting EU's Digital Markets Act six months on](https://www.theregister.com/2025/12/16/apple_dma_complaint/)
 * [2025-12-16, 15:55:45](https://news.ycombinator.com/item?id=46290113) - [AIsbom – open-source CLI to detect \"Pickle Bombs\" in PyTorch models](https://github.com/Lab700xOrg/aisbom)
 * [2025-12-16, 13:53:14](https://news.ycombinator.com/item?id=46288491) - [Mozilla appoints new CEO Anthony Enzor-Demeo](https://blog.mozilla.org/en/mozilla/leadership/mozillas-next-chapter-anthony-enzor-demeo-new-ceo/)
@@ -10,9 +13,7 @@
 * [2025-12-16, 13:33:25](https://news.ycombinator.com/item?id=46288291) - [Rust GCC back end: Why and how](https://blog.guillaume-gomez.fr/articles/2025-12-15+Rust+GCC+backend%3A+Why+and+how)
 * [2025-12-16, 13:32:42](https://news.ycombinator.com/item?id=46288286) - [Put a ring on it: a lock-free MPMC ring buffer](https://h4x0r.org/ring/)
 * [2025-12-16, 13:07:14](https://news.ycombinator.com/item?id=46288024) - [Sega Channel: VGHF Recovers over 100 Sega Channel ROMs (and More)](https://gamehistory.org/segachannel/)
-* [2025-12-16, 12:01:55](https://news.ycombinator.com/item?id=46287521) - [Cekura (YC F24) Is Hiring](https://www.ycombinator.com/companies/cekura-ai/jobs/YFeQADI-product-engineer-us)
 * [2025-12-16, 09:51:31](https://news.ycombinator.com/item?id=46286666) - [ArkhamMirror: Airgapped investigation platform with CIA-style hypothesis testing](https://github.com/mantisfury/ArkhamMirror)
-* [2025-12-16, 09:38:42](https://news.ycombinator.com/item?id=46286559) - [I'm a Tech Lead, and nobody listens to me. What should I do?](https://world.hey.com/joaoqalves/i-m-a-tech-lead-and-nobody-listens-to-me-what-should-i-do-e16e454d)
 * [2025-12-16, 09:16:31](https://news.ycombinator.com/item?id=46286407) - [A2UI: A Protocol for Agent-Driven Interfaces](https://a2ui.org/)
 * [2025-12-16, 08:13:01](https://news.ycombinator.com/item?id=46286030) - [The biggest heat pumps](https://www.bbc.com/news/articles/c17p44w87rno)
 * [2025-12-16, 06:47:09](https://news.ycombinator.com/item?id=46285535) - [A linear-time alternative for Dimensionality Reduction and fast visualisation](https://medium.com/@roman.f/a-linear-time-alternative-to-t-sne-for-dimensionality-reduction-and-fast-visualisation-5cd1a7219d6f)
@@ -28,7 +29,6 @@
 * [2025-12-12, 06:47:45](https://news.ycombinator.com/item?id=46241500) - [“Are you the one?” is free money](https://blog.owenlacey.dev/posts/are-you-the-one-is-free-money/)
 * [2025-12-11, 04:23:46](https://news.ycombinator.com/item?id=46227641) - [High Performance SSH/SCP](https://www.psc.edu/hpn-ssh-home/)
 * [2025-12-11, 02:03:58](https://news.ycombinator.com/item?id=46226779) - [Be Careful with GIDs in Rails](https://blog.julik.nl/2025/12/a-trap-with-global-ids)
-* [2025-12-10, 17:57:43](https://news.ycombinator.com/item?id=46221016) - [Internal RFCs saved us months of wasted work](https://highimpactengineering.substack.com/p/the-illusion-of-shared-understanding)
 * [2025-12-10, 17:44:13](https://news.ycombinator.com/item?id=46220826) - [A Thousand and One Nights in Italy](https://publicdomainreview.org/essay/a-thousand-and-one-nights-in-italy)
 
 ## [Archives](archives/index.md)
