@@ -4,13 +4,16 @@
 
 ### [Archives](../../index.md) for [2025-12-17](index.md)
 
+* [2025-12-17, 18:14:33](https://news.ycombinator.com/item?id=46303260) - [FCC chair suggests agency isn't independent, word cut from mission statement](https://www.axios.com/2025/12/17/brendan-carr-fcc-independent-senate-testimony-website)
 * [2025-12-17, 17:48:21](https://news.ycombinator.com/item?id=46302892) - [How, and why, I invented OnlyFans. In 2004](https://themosthandsomemanintheworld.com/how-and-why-i-invented-onlyfans-in-2004/)
+* [2025-12-17, 17:30:02](https://news.ycombinator.com/item?id=46302621) - [Linux Kernel Rust Code Sees Its First CVE Vulnerability](https://www.phoronix.com/news/First-Linux-Rust-CVE)
 * [2025-12-17, 17:14:21](https://news.ycombinator.com/item?id=46302361) - [Beyond RC4 for Windows Authentication](https://www.microsoft.com/en-us/windows-server/blog/2025/12/03/beyond-rc4-for-windows-authentication)
 * [2025-12-17, 17:13:41](https://news.ycombinator.com/item?id=46302346) - [Tiffany lamp coveted by Steve Jobs sells for $4.4M](https://www.semafor.com/article/12/16/2025/tiffany-lamp-coveted-by-steve-jobs-sells-for-44-million)
 * [2025-12-17, 17:13:03](https://news.ycombinator.com/item?id=46302337) - [A Safer Container Ecosystem with Docker: Free Docker Hardened Images](https://www.docker.com/blog/docker-hardened-images-for-every-developer/)
 * [2025-12-17, 17:08:35](https://news.ycombinator.com/item?id=46302267) - [AWS CEO says replacing junior devs with AI is 'one of the dumbest ideas'](https://www.finalroundai.com/blog/aws-ceo-ai-cannot-replace-junior-developers)
 * [2025-12-17, 17:00:39](https://news.ycombinator.com/item?id=46302122) - [Flick (YC F25) Is Hiring Founding Engineer to Build Figma for AI Filmmaking](https://www.ycombinator.com/companies/flick/jobs/Tdu6FH6-founding-frontend-engineer)
 * [2025-12-17, 17:00:12](https://news.ycombinator.com/item?id=46302114) - [Firefox is becoming an AI browser and the internet is not at all happy about it](https://www.pcgamer.com/hardware/firefox-is-becoming-an-ai-browser-and-the-internet-is-not-at-all-happy-about-it/)
+* [2025-12-17, 16:54:32](https://news.ycombinator.com/item?id=46302010) - [Ford Has Steered Its Former EV Truck and Plant Plans in to a Ditch](https://512pixels.net/2025/12/ford-ev-changes/)
 * [2025-12-17, 16:48:18](https://news.ycombinator.com/item?id=46301921) - [Tell HN: HN Was Down](https://news.ycombinator.com/item?id=46301921)
 * [2025-12-17, 16:46:39](https://news.ycombinator.com/item?id=46301903) - [Ask HN: Was HN just down for anyone else?](https://news.ycombinator.com/item?id=46301903)
 * [2025-12-17, 16:44:13](https://news.ycombinator.com/item?id=46301865) - [Launch HN: Kenobi (YC W22) – Personalize your website for every visitor](https://news.ycombinator.com/item?id=46301865)
