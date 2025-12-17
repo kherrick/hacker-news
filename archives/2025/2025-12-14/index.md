@@ -41,6 +41,7 @@
 * [2025-12-14, 15:42:03](https://news.ycombinator.com/item?id=46263821) - [Zmij: Faster floating point double-to-string conversion](https://vitaut.net/posts/2025/faster-dtoa/)
 * [2025-12-14, 15:05:06](https://news.ycombinator.com/item?id=46263530) - [Illuminating the processor core with LLVM-mca](https://abseil.io/fast/99)
 * [2025-12-14, 13:45:41](https://news.ycombinator.com/item?id=46262950) - [Apple Maps claims it's 29,905 miles away](https://mathstodon.xyz/@dpiponi/115651419771418748)
+* [2025-12-14, 13:27:59](https://news.ycombinator.com/item?id=46262875) - [Ditch the Chain-of-Thought Hacks: A Modular System for Composing AI Operations](https://vibboai.com)
 * [2025-12-14, 13:19:15](https://news.ycombinator.com/item?id=46262816) - [AI and the ironies of automation – Part 2](https://www.ufried.com/blog/ironies_of_ai_2/)
 * [2025-12-14, 13:13:41](https://news.ycombinator.com/item?id=46262777) - [Vacuum Is a Lie: About Your Indexes](https://boringsql.com/posts/vacuum-is-lie/)
 * [2025-12-14, 13:04:34](https://news.ycombinator.com/item?id=46262734) - [Kimi K2 1T model runs on 2 512GB M3 Ultras](https://twitter.com/awnihannun/status/1943723599971443134)

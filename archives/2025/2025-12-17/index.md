@@ -4,10 +4,12 @@
 
 ### [Archives](../../index.md) for [2025-12-17](index.md)
 
+* [2025-12-17, 22:51:40](https://news.ycombinator.com/item?id=46306691) - [American Academy of Pediatrics loses HHS funding after criticizing RFK Jr.](https://www.washingtonpost.com/health/2025/12/17/aap-hhs-funding-rfk/)
 * [2025-12-17, 22:27:29](https://news.ycombinator.com/item?id=46306456) - [Developers can now submit apps to ChatGPT](https://openai.com/index/developers-can-now-submit-apps-to-chatgpt/)
 * [2025-12-17, 21:44:22](https://news.ycombinator.com/item?id=46305945) - [Cloudflare Radar 2025 Year in Review](https://radar.cloudflare.com/year-in-review/2025)
 * [2025-12-17, 21:40:55](https://news.ycombinator.com/item?id=46305898) - [Here is the 15 sec coding test I used to instantly filter out most applicants](https://josezarazua.com/im-a-former-cto-here-is-the-15-sec-coding-test-i-used-to-instantly-filter-out-50-of-unqualified-applicants/)
 * [2025-12-17, 21:13:33](https://news.ycombinator.com/item?id=46305585) - [I got hacked: My Hetzner server started mining Monero](https://blog.jakesaunders.dev/my-server-started-mining-monero-this-morning/)
+* [2025-12-17, 20:59:29](https://news.ycombinator.com/item?id=46305428) - [OBS Studio Gets a New Renderer](https://obsproject.com/blog/obs-studio-gets-a-new-renderer)
 * [2025-12-17, 20:58:09](https://news.ycombinator.com/item?id=46305409) - [AI Isn't Just Spying on You. It's Tricking You into Spending More](https://newrepublic.com/article/204525/artificial-intelligence-consumers-data-dynamic-pricing)
 * [2025-12-17, 20:50:13](https://news.ycombinator.com/item?id=46305321) - [Inside PostHog: SSRF, ClickHouse SQL Escape and Default Postgres Creds to RCE](https://mdisec.com/inside-posthog-how-ssrf-a-clickhouse-sql-escaping-0day-and-default-postgresql-credentials-formed-an-rce-chain-zdi-25-099-zdi-25-097-zdi-25-096/)
 * [2025-12-17, 20:40:18](https://news.ycombinator.com/item?id=46305216) - [GitHub postponing the announced billing change to GitHub Actions](https://github.com/orgs/community/discussions/182186)
@@ -16,6 +18,7 @@
 * [2025-12-17, 20:18:06](https://news.ycombinator.com/item?id=46304955) - [Pornhub extorted after hackers steal Premium member activity data](https://www.bleepingcomputer.com/news/security/pornhub-extorted-after-hackers-steal-premium-member-activity-data/)
 * [2025-12-17, 20:10:12](https://news.ycombinator.com/item?id=46304865) - [FIFA Arrives on Netflix Games](https://www.netflix.com/tudum/articles/fifa-mens-world-cup-2026-game-on-netflix)
 * [2025-12-17, 19:35:56](https://news.ycombinator.com/item?id=46304413) - [Show HN: High-Performance Wavelet Matrix for Python, Implemented in Rust](https://pypi.org/project/wavelet-matrix/)
+* [2025-12-17, 19:19:19](https://news.ycombinator.com/item?id=46304199) - [Show HN: GitForms – Zero-cost contact forms using GitHub Issues as database](https://gitforms-landing.vercel.app/)
 * [2025-12-17, 18:16:58](https://news.ycombinator.com/item?id=46303291) - [Hack Reveals the A16Z-Backed Phone Farm Flooding TikTok with AI Influencers](https://www.404media.co/hack-reveals-the-a16z-backed-phone-farm-flooding-tiktok-with-ai-influencers/)
 * [2025-12-17, 18:15:38](https://news.ycombinator.com/item?id=46303277) - [How SQLite Is Tested](https://sqlite.org/testing.html)
 * [2025-12-17, 18:14:33](https://news.ycombinator.com/item?id=46303260) - [FCC chair suggests agency isn't independent, word cut from mission statement](https://www.axios.com/2025/12/17/brendan-carr-fcc-independent-senate-testimony-website)
