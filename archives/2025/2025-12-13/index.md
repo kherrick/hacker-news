@@ -40,6 +40,7 @@
 * [2025-12-13, 15:25:33](https://news.ycombinator.com/item?id=46255175) - [A Giant Ball Will Help This Man Survive a Year on an Iceberg](https://www.outsideonline.com/outdoor-adventure/exploration-survival/how-giant-ball-will-help-man-survive-year-iceberg/)
 * [2025-12-13, 15:23:34](https://news.ycombinator.com/item?id=46255158) - [Show HN: I audited 500 K8s pods. Java wastes ~48% RAM, Go ~18%](https://github.com/WozzHQ/wozz)
 * [2025-12-13, 15:04:29](https://news.ycombinator.com/item?id=46255007) - [Z8086: Rebuilding the 8086 from Original Microcode](https://nand2mario.github.io/posts/2025/z8086/)
+* [2025-12-13, 14:51:43](https://news.ycombinator.com/item?id=46254909) - [Annual Production of 1/72 (22mm) scale plastic soldiers, 1958-2025](https://plasticsoldierreview.com/ShowFeature.aspx?id=27)
 * [2025-12-13, 14:35:28](https://news.ycombinator.com/item?id=46254794) - [30 Years of <Br> Tags](https://www.artmann.co/articles/30-years-of-br-tags)
 * [2025-12-13, 13:08:36](https://news.ycombinator.com/item?id=46254276) - [AI is bringing old nuclear plants out of retirement](https://www.wbur.org/hereandnow/2025/12/09/nuclear-power-ai)
 * [2025-12-13, 12:29:19](https://news.ycombinator.com/item?id=46254087) - [We Built Another Object Storage (and Why It's Different)](https://fractalbits.com/blog/why-we-built-another-object-storage/)
