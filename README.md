@@ -18,6 +18,7 @@
 * [2025-12-16, 13:53:14](https://news.ycombinator.com/item?id=46288491) - [Mozilla appoints new CEO Anthony Enzor-Demeo](https://blog.mozilla.org/en/mozilla/leadership/mozillas-next-chapter-anthony-enzor-demeo-new-ceo/)
 * [2025-12-16, 13:50:15](https://news.ycombinator.com/item?id=46288453) - [Show HN: TheAuditor v2.0 – A “Flight Computer” for AI Coding Agents](https://github.com/TheAuditorTool/Auditor)
 * [2025-12-16, 13:46:57](https://news.ycombinator.com/item?id=46288415) - [40 percent of fMRI signals do not correspond to actual brain activity](https://www.tum.de/en/news-and-events/all-news/press-releases/details/40-percent-of-mri-signals-do-not-correspond-to-actual-brain-activity)
+* [2025-12-16, 13:33:25](https://news.ycombinator.com/item?id=46288291) - [Rust GCC backend: Why and how](https://blog.guillaume-gomez.fr/articles/2025-12-15+Rust+GCC+backend%3A+Why+and+how)
 * [2025-12-16, 13:07:14](https://news.ycombinator.com/item?id=46288024) - [Sega Channel: VGHF Recovers over 100 Sega Channel ROMs (and More)](https://gamehistory.org/segachannel/)
 * [2025-12-16, 08:54:58](https://news.ycombinator.com/item?id=46286292) - [Japan to revise romanization rules for first time in 70 years](https://www.japantimes.co.jp/news/2025/08/21/japan/panel-hepburn-style-romanization/)
 * [2025-12-16, 00:50:41](https://news.ycombinator.com/item?id=46283276) - [Thin desires are eating life](https://www.joanwestenberg.com/thin-desires-are-eating-your-life/)
@@ -25,11 +26,10 @@
 * [2025-12-15, 15:47:14](https://news.ycombinator.com/item?id=46276002) - [Show HN: Sqlit – A lazygit-style TUI for SQL databases](https://github.com/Maxteabag/sqlit)
 * [2025-12-15, 14:39:49](https://news.ycombinator.com/item?id=46275111) - [Nvidia Nemotron 3 Family of Models](https://research.nvidia.com/labs/nemotron/Nemotron-3/)
 * [2025-12-12, 20:40:31](https://news.ycombinator.com/item?id=46248627) - [Testing a cheaper laminar flow hood](https://chillphysicsenjoyer.substack.com/p/testing-a-cheaper-laminar-flow-hood)
+* [2025-12-12, 15:34:45](https://news.ycombinator.com/item?id=46245083) - [Various locale mismatch scenarios in Windows clipboard text format synthesis](https://devblogs.microsoft.com/oldnewthing/20251211-37/?p=111858)
 * [2025-12-11, 13:53:58](https://news.ycombinator.com/item?id=46231370) - [Twin suction turbines and 3-Gs in slow corners? Meet the DRG-Lola](https://arstechnica.com/cars/2025/11/an-electric-car-thats-faster-than-f1-around-monaco-thats-the-idea/)
 * [2025-12-11, 12:17:53](https://news.ycombinator.com/item?id=46230456) - [VA Linux: The biggest dotcom IPO](https://dfarq.homeip.net/va-linux-the-biggest-dotcom-ipo/)
 * [2025-12-11, 10:37:08](https://news.ycombinator.com/item?id=46229761) - [Show HN: Titan – JavaScript-first framework that compiles into a Rust server](https://www.npmjs.com/package/@ezetgalaxy/titan)
-* [2025-12-11, 00:25:57](https://news.ycombinator.com/item?id=46226068) - [Midjourney is alemwjsl](https://www.aadillpickle.com/blog/midjourney-is-alemwjsl)
-* [2025-12-10, 16:44:59](https://news.ycombinator.com/item?id=46219987) - [Meta's new A.I. superstars are chafing against the rest of the company](https://www.nytimes.com/2025/12/10/technology/meta-ai-tbd-lab-friction.html)
 
 ## [Archives](archives/index.md)
 
