@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-12-17](index.md)
 
+* [2025-12-17, 21:44:22](https://news.ycombinator.com/item?id=46305945) - [Cloudflare Radar 2025 Year in Review](https://radar.cloudflare.com/year-in-review/2025)
+* [2025-12-17, 21:40:55](https://news.ycombinator.com/item?id=46305898) - [Here is the 15 sec coding test I used to instantly filter out most applicants](https://josezarazua.com/im-a-former-cto-here-is-the-15-sec-coding-test-i-used-to-instantly-filter-out-50-of-unqualified-applicants/)
 * [2025-12-17, 21:13:33](https://news.ycombinator.com/item?id=46305585) - [I got hacked: My Hetzner server started mining Monero](https://blog.jakesaunders.dev/my-server-started-mining-monero-this-morning/)
 * [2025-12-17, 20:58:09](https://news.ycombinator.com/item?id=46305409) - [AI Isn't Just Spying on You. It's Tricking You into Spending More](https://newrepublic.com/article/204525/artificial-intelligence-consumers-data-dynamic-pricing)
 * [2025-12-17, 20:50:13](https://news.ycombinator.com/item?id=46305321) - [Inside PostHog: SSRF, ClickHouse SQL Escape and Default Postgres Creds to RCE](https://mdisec.com/inside-posthog-how-ssrf-a-clickhouse-sql-escaping-0day-and-default-postgresql-credentials-formed-an-rce-chain-zdi-25-099-zdi-25-097-zdi-25-096/)
