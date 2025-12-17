@@ -15,6 +15,7 @@
 * [2025-12-12, 21:00:54](https://news.ycombinator.com/item?id=46248892) - [Motion (YC W20) Is Hiring Senior Staff Front End Engineers](https://jobs.ashbyhq.com/motion/715d9646-27d4-44f6-9229-61eb0380ae39)
 * [2025-12-12, 20:57:34](https://news.ycombinator.com/item?id=46248859) - [GNU Unifont](https://unifoundry.com/unifont/index.html)
 * [2025-12-12, 20:41:38](https://news.ycombinator.com/item?id=46248644) - [macOS 26.2 enables fast AI clusters with RDMA over Thunderbolt](https://developer.apple.com/documentation/macos-release-notes/macos-26_2-release-notes#RDMA-over-Thunderbolt)
+* [2025-12-12, 20:40:31](https://news.ycombinator.com/item?id=46248627) - [Testing a cheaper laminar flow hood](https://chillphysicsenjoyer.substack.com/p/testing-a-cheaper-laminar-flow-hood)
 * [2025-12-12, 20:28:41](https://news.ycombinator.com/item?id=46248470) - [Security Issues with Electronic Invoices](https://invoice.secvuln.info/)
 * [2025-12-12, 20:24:04](https://news.ycombinator.com/item?id=46248417) - [New Kindle Feature Uses AI to Answer Questions About Books–Authors Can't Opt Out](https://reactormag.com/new-kindle-feature-ai-answer-questions-books-authors/)
 * [2025-12-12, 20:15:58](https://news.ycombinator.com/item?id=46248323) - [Rats Play Doom](https://ratsplaydoom.com/)

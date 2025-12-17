@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-12-16](index.md)
 
 * [2025-12-16, 23:28:39](https://news.ycombinator.com/item?id=46296181) - [Americans overestimate how many social media users post harmful content](https://academic.oup.com/pnasnexus/article/4/12/pgaf310/8377954?login=false)
+* [2025-12-16, 23:27:10](https://news.ycombinator.com/item?id=46296172) - [More than 100 rally against data centers at Michigan Capitol](https://www.lansingstatejournal.com/story/news/local/2025/12/16/lansing-state-capitol-data-centers-rally-michigan/87792001007/)
 * [2025-12-16, 22:50:59](https://news.ycombinator.com/item?id=46295792) - [Dafny: Verification-Aware Programming Language](https://dafny.org/)
 * [2025-12-16, 22:48:56](https://news.ycombinator.com/item?id=46295771) - [I Ported JustHTML from Python to JavaScript with Codex CLI and GPT-5.2 in 4.5h](https://simonwillison.net/2025/Dec/15/porting-justhtml/)
 * [2025-12-16, 22:07:49](https://news.ycombinator.com/item?id=46295268) - [No AI* Here – A Response to Mozilla's Next Chapter](https://www.waterfox.com/blog/no-ai-here-response-to-mozilla/)
@@ -37,6 +38,7 @@
 * [2025-12-16, 14:39:59](https://news.ycombinator.com/item?id=46289073) - [Show HN: Solving the ~95% legislative coverage gap using LLM's](https://lustra.news/)
 * [2025-12-16, 14:11:08](https://news.ycombinator.com/item?id=46288673) - [U.S. unemployment rose in November despite job gains](https://www.wsj.com/economy/jobs/jobs-report-october-november-2025-unemployment-economy-7f6eea90)
 * [2025-12-16, 13:53:14](https://news.ycombinator.com/item?id=46288491) - [Mozilla Appoints New CEO Anthony Enzor-Demeo](https://blog.mozilla.org/en/mozilla/leadership/mozillas-next-chapter-anthony-enzor-demeo-new-ceo/)
+* [2025-12-16, 13:50:15](https://news.ycombinator.com/item?id=46288453) - [Show HN: TheAuditor v2.0 – A ”Flight Computer“ for AI Coding Agents](https://github.com/TheAuditorTool/Auditor)
 * [2025-12-16, 13:46:57](https://news.ycombinator.com/item?id=46288415) - [40 percent of MRI signals do not correspond to actual brain activity](https://www.tum.de/en/news-and-events/all-news/press-releases/details/40-percent-of-mri-signals-do-not-correspond-to-actual-brain-activity)
 * [2025-12-16, 13:46:55](https://news.ycombinator.com/item?id=46288414) - [A brief history of Times New Roman](https://typographyforlawyers.com/a-brief-history-of-times-new-roman.html)
 * [2025-12-16, 13:42:24](https://news.ycombinator.com/item?id=46288371) - [This is not the future](https://blog.mathieui.net/this-is-not-the-future.html)
