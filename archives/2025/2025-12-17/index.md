@@ -5,6 +5,8 @@
 ### [Archives](../../index.md) for [2025-12-17](index.md)
 
 * [2025-12-17, 17:14:21](https://news.ycombinator.com/item?id=46302361) - [Beyond RC4 for Windows Authentication](https://www.microsoft.com/en-us/windows-server/blog/2025/12/03/beyond-rc4-for-windows-authentication)
+* [2025-12-17, 17:13:41](https://news.ycombinator.com/item?id=46302346) - [Tiffany lamp coveted by Steve Jobs sells for $4.4M](https://www.semafor.com/article/12/16/2025/tiffany-lamp-coveted-by-steve-jobs-sells-for-44-million)
+* [2025-12-17, 17:13:03](https://news.ycombinator.com/item?id=46302337) - [A Safer Container Ecosystem with Docker: Free Docker Hardened Images](https://www.docker.com/blog/docker-hardened-images-for-every-developer/)
 * [2025-12-17, 17:08:35](https://news.ycombinator.com/item?id=46302267) - [AWS CEO says replacing junior devs with AI is 'one of the dumbest ideas'](https://www.finalroundai.com/blog/aws-ceo-ai-cannot-replace-junior-developers)
 * [2025-12-17, 17:00:39](https://news.ycombinator.com/item?id=46302122) - [Flick (YC F25) Is Hiring Founding Engineer to Build Figma for AI Filmmaking](https://www.ycombinator.com/companies/flick/jobs/Tdu6FH6-founding-frontend-engineer)
 * [2025-12-17, 17:00:12](https://news.ycombinator.com/item?id=46302114) - [Firefox is becoming an AI browser and the internet is not at all happy about it](https://www.pcgamer.com/hardware/firefox-is-becoming-an-ai-browser-and-the-internet-is-not-at-all-happy-about-it/)
@@ -13,6 +15,7 @@
 * [2025-12-17, 16:44:13](https://news.ycombinator.com/item?id=46301865) - [Launch HN: Kenobi (YC W22) – Personalize your website for every visitor](https://news.ycombinator.com/item?id=46301865)
 * [2025-12-17, 16:42:13](https://news.ycombinator.com/item?id=46301851) - [Gemini 3 Flash: frontier intelligence built for speed](https://blog.google/products/gemini/gemini-3-flash/)
 * [2025-12-17, 13:25:06](https://news.ycombinator.com/item?id=46301696) - [Learning the oldest programming language (2024)](https://uncenter.dev/posts/learning-fortran/)
+* [2025-12-17, 13:12:49](https://news.ycombinator.com/item?id=46301585) - [Yep, Passkeys Still Have Problems](https://fy.blackhats.net.au/blog/2025-12-17-yep-passkeys-still-have-problems/)
 * [2025-12-17, 12:45:40](https://news.ycombinator.com/item?id=46301346) - [Coursera to combine with Udemy](https://investor.coursera.com/news/news-details/2025/Coursera-to-Combine-with-Udemy-to-Empower-the-Global-Workforce-with-Skills-for-the-AI-Era/default.aspx)
 * [2025-12-17, 11:26:59](https://news.ycombinator.com/item?id=46300776) - [Short-Circuiting Correlated Subqueries in SQLite](https://emschwartz.me/short-circuiting-correlated-subqueries-in-sqlite/)
 * [2025-12-17, 09:54:48](https://news.ycombinator.com/item?id=46300047) - [Show HN: Mephisto – A RAM-only, ad-free disposable email PWA built with React](https://mephistomail.site)
