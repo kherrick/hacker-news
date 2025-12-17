@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-12-17, 22:51:40",
+      "https://news.ycombinator.com/item?id=46306691"
+    ],
+    [
+      "American Academy of Pediatrics loses HHS funding after criticizing RFK Jr.",
+      "https://www.washingtonpost.com/health/2025/12/17/aap-hhs-funding-rfk/"
+    ]
+  ],
+  [
+    [
       "2025-12-17, 22:27:29",
       "https://news.ycombinator.com/item?id=46306456"
     ],
@@ -27,6 +37,16 @@
     [
       "I got hacked: My Hetzner server started mining Monero",
       "https://blog.jakesaunders.dev/my-server-started-mining-monero-this-morning/"
+    ]
+  ],
+  [
+    [
+      "2025-12-17, 20:59:29",
+      "https://news.ycombinator.com/item?id=46305428"
+    ],
+    [
+      "OBS Studio Gets a New Renderer",
+      "https://obsproject.com/blog/obs-studio-gets-a-new-renderer"
     ]
   ],
   [
@@ -81,12 +101,12 @@
   ],
   [
     [
-      "2025-12-17, 18:16:58",
-      "https://news.ycombinator.com/item?id=46303291"
+      "2025-12-17, 19:19:19",
+      "https://news.ycombinator.com/item?id=46304199"
     ],
     [
-      "Doublespeed hacked, revealing what its AI-generated accounts are promoting",
-      "https://www.404media.co/hack-reveals-the-a16z-backed-phone-farm-flooding-tiktok-with-ai-influencers/"
+      "Show HN: GitForms – Zero-cost contact forms using GitHub Issues as database",
+      "https://gitforms-landing.vercel.app/"
     ]
   ],
   [
@@ -201,26 +221,6 @@
   ],
   [
     [
-      "2025-12-17, 08:34:00",
-      "https://news.ycombinator.com/item?id=46299552"
-    ],
-    [
-      "AI's real superpower: consuming, not creating",
-      "https://msanroman.io/blog/ai-consumption-paradigm"
-    ]
-  ],
-  [
-    [
-      "2025-12-17, 08:05:30",
-      "https://news.ycombinator.com/item?id=46299389"
-    ],
-    [
-      "TLA+ Modeling Tips",
-      "http://muratbuffalo.blogspot.com/2025/12/tla-modeling-tips.html"
-    ]
-  ],
-  [
-    [
       "2025-12-16, 22:07:49",
       "https://news.ycombinator.com/item?id=46295268"
     ],
@@ -251,22 +251,22 @@
   ],
   [
     [
-      "2025-12-15, 05:54:28",
-      "https://news.ycombinator.com/item?id=46270918"
-    ],
-    [
-      "Speed matters: Why working quickly is more important than it seems",
-      "https://jsomers.net/blog/speed-matters"
-    ]
-  ],
-  [
-    [
       "2025-12-14, 15:42:03",
       "https://news.ycombinator.com/item?id=46263821"
     ],
     [
       "Zmij: Faster floating point double-to-string conversion",
       "https://vitaut.net/posts/2025/faster-dtoa/"
+    ]
+  ],
+  [
+    [
+      "2025-12-14, 13:27:59",
+      "https://news.ycombinator.com/item?id=46262875"
+    ],
+    [
+      "Ditch the Chain-of-Thought Hacks: A Modular System for Composing AI Operations",
+      "https://vibboai.com"
     ]
   ],
   [
