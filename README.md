@@ -2,7 +2,6 @@
 
 * [2025-12-17, 03:55:59](https://news.ycombinator.com/item?id=46298055) - [A Guide to Magnetizing N48 Magnets in Ansys Maxwell](https://blog.ozeninc.com/resources/from-datasheet-to-demagnetization-a-guide-to-magnetizing-n48-magnets-in-ansys-maxwell)
 * [2025-12-17, 01:26:14](https://news.ycombinator.com/item?id=46297127) - [Introduction to Software Development Tooling (2024)](https://bernsteinbear.com/isdt/)
-* [2025-12-17, 01:00:21](https://news.ycombinator.com/item?id=46296926) - [Sei AI (YC W22) Is Hiring](https://www.ycombinator.com/companies/sei/jobs/TYbKqi0-llm-engineer-mid-senior)
 * [2025-12-17, 00:50:40](https://news.ycombinator.com/item?id=46296863) - [Show HN: Learn Japanese contextually while browsing](https://lingoku.ai/learn-japanese)
 * [2025-12-16, 22:50:59](https://news.ycombinator.com/item?id=46295792) - [Dafny: Verification-Aware Programming Language](https://dafny.org/)
 * [2025-12-16, 22:48:56](https://news.ycombinator.com/item?id=46295771) - [I ported JustHTML from Python to JavaScript with Codex CLI and GPT-5.2 in hours](https://simonwillison.net/2025/Dec/15/porting-justhtml/)
@@ -12,6 +11,7 @@
 * [2025-12-16, 20:52:45](https://news.ycombinator.com/item?id=46294289) - [Announcing the Beta release of ty](https://astral.sh/blog/ty)
 * [2025-12-16, 19:20:17](https://news.ycombinator.com/item?id=46293062) - [No Graphics API](https://www.sebastianaaltonen.com/blog/no-graphics-api)
 * [2025-12-16, 18:07:07](https://news.ycombinator.com/item?id=46291941) - [GPT Image 1.5](https://openai.com/index/new-chatgpt-images-is-here/)
+* [2025-12-16, 17:13:07](https://news.ycombinator.com/item?id=46291172) - [FVWM-95 (2001)](https://fvwm95.sourceforge.net/)
 * [2025-12-16, 17:12:02](https://news.ycombinator.com/item?id=46291156) - [Pricing Changes for GitHub Actions](https://resources.github.com/actions/2026-pricing-changes-for-github-actions/)
 * [2025-12-16, 16:54:19](https://news.ycombinator.com/item?id=46290916) - [alpr.watch](https://alpr.watch/)
 * [2025-12-16, 15:41:47](https://news.ycombinator.com/item?id=46289918) - [Writing a blatant Telegram clone using Qt, QML and Rust. And C++](https://kemble.net/blog/provoke/)
