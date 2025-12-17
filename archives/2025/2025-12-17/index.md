@@ -15,6 +15,7 @@
 * [2025-12-17, 17:13:41](https://news.ycombinator.com/item?id=46302346) - [Tiffany lamp coveted by Steve Jobs sells for $4.4M](https://www.semafor.com/article/12/16/2025/tiffany-lamp-coveted-by-steve-jobs-sells-for-44-million)
 * [2025-12-17, 17:13:03](https://news.ycombinator.com/item?id=46302337) - [A Safer Container Ecosystem with Docker: Free Docker Hardened Images](https://www.docker.com/blog/docker-hardened-images-for-every-developer/)
 * [2025-12-17, 17:08:35](https://news.ycombinator.com/item?id=46302267) - [AWS CEO says replacing junior devs with AI is 'one of the dumbest ideas'](https://www.finalroundai.com/blog/aws-ceo-ai-cannot-replace-junior-developers)
+* [2025-12-17, 17:08:06](https://news.ycombinator.com/item?id=46302262) - [AI capability isn't humanness](https://research.roundtable.ai/capabilities-humanness/)
 * [2025-12-17, 17:00:39](https://news.ycombinator.com/item?id=46302122) - [Flick (YC F25) Is Hiring Founding Engineer to Build Figma for AI Filmmaking](https://www.ycombinator.com/companies/flick/jobs/Tdu6FH6-founding-frontend-engineer)
 * [2025-12-17, 17:00:12](https://news.ycombinator.com/item?id=46302114) - [Firefox is becoming an AI browser and the internet is not at all happy about it](https://www.pcgamer.com/hardware/firefox-is-becoming-an-ai-browser-and-the-internet-is-not-at-all-happy-about-it/)
 * [2025-12-17, 16:54:32](https://news.ycombinator.com/item?id=46302010) - [Ford Has Steered Its Former EV Truck and Plant Plans in to a Ditch](https://512pixels.net/2025/12/ford-ev-changes/)
