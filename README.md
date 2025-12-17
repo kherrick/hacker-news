@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-12-17, 07:00:16](https://news.ycombinator.com/item?id=46299022) - [Subsets (YC S23) is hiring engineers in Copenhagen, Denmark](https://www.workatastartup.com/companies/subsets)
 * [2025-12-17, 04:48:24](https://news.ycombinator.com/item?id=46298385) - [FTX insider Caroline Ellison has been moved out of prison](https://www.businessinsider.com/caroline-ellison-prison-release-ftx-sam-bankman-fried-2025-12)
 * [2025-12-17, 03:55:59](https://news.ycombinator.com/item?id=46298055) - [A Guide to Magnetizing N48 Magnets in Ansys Maxwell](https://blog.ozeninc.com/resources/from-datasheet-to-demagnetization-a-guide-to-magnetizing-n48-magnets-in-ansys-maxwell)
 * [2025-12-17, 01:26:14](https://news.ycombinator.com/item?id=46297127) - [Introduction to Software Development Tooling (2024)](https://bernsteinbear.com/isdt/)
-* [2025-12-17, 01:00:21](https://news.ycombinator.com/item?id=46296926) - [Sei AI (YC W22) Is Hiring](https://www.ycombinator.com/companies/sei/jobs/TYbKqi0-llm-engineer-mid-senior)
 * [2025-12-17, 00:50:40](https://news.ycombinator.com/item?id=46296863) - [Show HN: Learn Japanese contextually while browsing](https://lingoku.ai/learn-japanese)
 * [2025-12-16, 22:50:59](https://news.ycombinator.com/item?id=46295792) - [Dafny: Verification-Aware Programming Language](https://dafny.org/)
 * [2025-12-16, 22:48:56](https://news.ycombinator.com/item?id=46295771) - [I ported JustHTML from Python to JavaScript with Codex CLI and GPT-5.2 in hours](https://simonwillison.net/2025/Dec/15/porting-justhtml/)
