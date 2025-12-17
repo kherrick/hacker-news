@@ -4,8 +4,11 @@
 
 ### [Archives](../../index.md) for [2025-12-17](index.md)
 
+* [2025-12-17, 20:58:09](https://news.ycombinator.com/item?id=46305409) - [AI Isn't Just Spying on You. It's Tricking You into Spending More](https://newrepublic.com/article/204525/artificial-intelligence-consumers-data-dynamic-pricing)
+* [2025-12-17, 20:50:13](https://news.ycombinator.com/item?id=46305321) - [Inside PostHog: SSRF, ClickHouse SQL Escape and Default Postgres Creds to RCE](https://mdisec.com/inside-posthog-how-ssrf-a-clickhouse-sql-escaping-0day-and-default-postgresql-credentials-formed-an-rce-chain-zdi-25-099-zdi-25-097-zdi-25-096/)
 * [2025-12-17, 20:40:18](https://news.ycombinator.com/item?id=46305216) - [GitHub postponing the announced billing change to GitHub Actions](https://github.com/orgs/community/discussions/182186)
 * [2025-12-17, 20:38:06](https://news.ycombinator.com/item?id=46305172) - [\"There are more Japanese [VRChat] creators than all other countries combined \"](https://twitter.com/chyadosensei/status/2001356290531156159)
+* [2025-12-17, 20:32:56](https://news.ycombinator.com/item?id=46305123) - [Why do commercial spaces sit vacant?](https://archive.strongtowns.org/journal/2025/5/21/why-do-commercial-spaces-sit-vacant)
 * [2025-12-17, 20:10:12](https://news.ycombinator.com/item?id=46304865) - [FIFA Arrives on Netflix Games](https://www.netflix.com/tudum/articles/fifa-mens-world-cup-2026-game-on-netflix)
 * [2025-12-17, 19:35:56](https://news.ycombinator.com/item?id=46304413) - [Show HN: High-Performance Wavelet Matrix for Python, Implemented in Rust](https://pypi.org/project/wavelet-matrix/)
 * [2025-12-17, 18:16:58](https://news.ycombinator.com/item?id=46303291) - [Hack Reveals the A16Z-Backed Phone Farm Flooding TikTok with AI Influencers](https://www.404media.co/hack-reveals-the-a16z-backed-phone-farm-flooding-tiktok-with-ai-influencers/)
