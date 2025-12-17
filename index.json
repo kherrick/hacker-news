@@ -1,11 +1,21 @@
 [
   [
     [
+      "2025-12-17, 18:16:58",
+      "https://news.ycombinator.com/item?id=46303291"
+    ],
+    [
+      "Hack Reveals the A16Z-Backed Phone Farm Flooding TikTok with AI Influencers",
+      "https://www.404media.co/hack-reveals-the-a16z-backed-phone-farm-flooding-tiktok-with-ai-influencers/"
+    ]
+  ],
+  [
+    [
       "2025-12-17, 18:15:38",
       "https://news.ycombinator.com/item?id=46303277"
     ],
     [
-      "How SQLite Is Tested",
+      "How SQLite is tested",
       "https://sqlite.org/testing.html"
     ]
   ],
@@ -31,12 +41,12 @@
   ],
   [
     [
-      "2025-12-17, 17:30:02",
-      "https://news.ycombinator.com/item?id=46302621"
+      "2025-12-17, 17:27:48",
+      "https://news.ycombinator.com/item?id=46302582"
     ],
     [
-      "Linux Kernel Rust Code Sees Its First CVE Vulnerability",
-      "https://www.phoronix.com/news/First-Linux-Rust-CVE"
+      "Put SSH keys in .git to make repos USB-portable",
+      "https://dansjots.github.io/posts/per-repo-ssh-key/"
     ]
   ],
   [
@@ -67,16 +77,6 @@
     [
       "Flick (YC F25) Is Hiring Founding Engineer to Build Figma for AI Filmmaking",
       "https://www.ycombinator.com/companies/flick/jobs/Tdu6FH6-founding-frontend-engineer"
-    ]
-  ],
-  [
-    [
-      "2025-12-17, 16:54:32",
-      "https://news.ycombinator.com/item?id=46302010"
-    ],
-    [
-      "Ford Has Steered Its Former EV Truck and Plant Plans in to a Ditch",
-      "https://512pixels.net/2025/12/ford-ev-changes/"
     ]
   ],
   [
@@ -167,6 +167,16 @@
     [
       "TLA+ Modeling Tips",
       "http://muratbuffalo.blogspot.com/2025/12/tla-modeling-tips.html"
+    ]
+  ],
+  [
+    [
+      "2025-12-16, 22:48:56",
+      "https://news.ycombinator.com/item?id=46295771"
+    ],
+    [
+      "I ported JustHTML from Python to JavaScript with Codex CLI and GPT-5.2 in hours",
+      "https://simonwillison.net/2025/Dec/15/porting-justhtml/"
     ]
   ],
   [
@@ -267,16 +277,6 @@
     [
       "Zmij: Faster floating point double-to-string conversion",
       "https://vitaut.net/posts/2025/faster-dtoa/"
-    ]
-  ],
-  [
-    [
-      "2025-12-14, 03:17:11",
-      "https://news.ycombinator.com/item?id=46260485"
-    ],
-    [
-      "Modern SID chip substitutes [video]",
-      "https://www.youtube.com/watch?v=nooPmXxO6K0"
     ]
   ],
   [
