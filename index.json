@@ -181,6 +181,16 @@
   ],
   [
     [
+      "2025-12-16, 13:33:25",
+      "https://news.ycombinator.com/item?id=46288291"
+    ],
+    [
+      "Rust GCC backend: Why and how",
+      "https://blog.guillaume-gomez.fr/articles/2025-12-15+Rust+GCC+backend%3A+Why+and+how"
+    ]
+  ],
+  [
+    [
       "2025-12-16, 13:07:14",
       "https://news.ycombinator.com/item?id=46288024"
     ],
@@ -251,6 +261,16 @@
   ],
   [
     [
+      "2025-12-12, 15:34:45",
+      "https://news.ycombinator.com/item?id=46245083"
+    ],
+    [
+      "Various locale mismatch scenarios in Windows clipboard text format synthesis",
+      "https://devblogs.microsoft.com/oldnewthing/20251211-37/?p=111858"
+    ]
+  ],
+  [
+    [
       "2025-12-11, 13:53:58",
       "https://news.ycombinator.com/item?id=46231370"
     ],
@@ -277,26 +297,6 @@
     [
       "Show HN: Titan – JavaScript-first framework that compiles into a Rust server",
       "https://www.npmjs.com/package/@ezetgalaxy/titan"
-    ]
-  ],
-  [
-    [
-      "2025-12-11, 00:25:57",
-      "https://news.ycombinator.com/item?id=46226068"
-    ],
-    [
-      "Midjourney is alemwjsl",
-      "https://www.aadillpickle.com/blog/midjourney-is-alemwjsl"
-    ]
-  ],
-  [
-    [
-      "2025-12-10, 16:44:59",
-      "https://news.ycombinator.com/item?id=46219987"
-    ],
-    [
-      "Meta's new A.I. superstars are chafing against the rest of the company",
-      "https://www.nytimes.com/2025/12/10/technology/meta-ai-tbd-lab-friction.html"
     ]
   ]
 ]
