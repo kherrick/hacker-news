@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-12-17](index.md)
 
+* [2025-12-17, 09:37:24](https://news.ycombinator.com/item?id=46299934) - [Is Mozilla trying hard to kill itself?](https://infosec.press/brunomiguel/is-mozilla-trying-hard-to-kill-itself)
 * [2025-12-17, 08:05:30](https://news.ycombinator.com/item?id=46299389) - [TLA+ Modeling Tips](http://muratbuffalo.blogspot.com/2025/12/tla-modeling-tips.html)
 * [2025-12-17, 08:04:02](https://news.ycombinator.com/item?id=46299377) - [US threatens EU digital services market access](https://twitter.com/ustraderep/status/2000990028835508258)
 * [2025-12-17, 07:42:09](https://news.ycombinator.com/item?id=46299257) - [P: Formal Modeling and Analysis of Distributed (Event-Driven) Systems](https://github.com/p-org/P)

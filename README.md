@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-12-17, 09:37:24](https://news.ycombinator.com/item?id=46299934) - [Is Mozilla trying hard to kill itself?](https://infosec.press/brunomiguel/is-mozilla-trying-hard-to-kill-itself)
 * [2025-12-17, 08:05:30](https://news.ycombinator.com/item?id=46299389) - [TLA+ Modeling Tips](http://muratbuffalo.blogspot.com/2025/12/tla-modeling-tips.html)
 * [2025-12-17, 07:42:09](https://news.ycombinator.com/item?id=46299257) - [P: Formal Modeling and Analysis of Distributed (Event-Driven) Systems](https://github.com/p-org/P)
 * [2025-12-17, 07:00:16](https://news.ycombinator.com/item?id=46299022) - [Subsets (YC S23) is hiring engineers in Copenhagen, Denmark](https://www.workatastartup.com/companies/subsets)
@@ -8,7 +9,6 @@
 * [2025-12-16, 22:50:59](https://news.ycombinator.com/item?id=46295792) - [Dafny: Verification-Aware Programming Language](https://dafny.org/)
 * [2025-12-16, 22:48:56](https://news.ycombinator.com/item?id=46295771) - [I ported JustHTML from Python to JavaScript with Codex CLI and GPT-5.2 in hours](https://simonwillison.net/2025/Dec/15/porting-justhtml/)
 * [2025-12-16, 22:07:49](https://news.ycombinator.com/item?id=46295268) - [No AI* Here – A Response to Mozilla's Next Chapter](https://www.waterfox.com/blog/no-ai-here-response-to-mozilla/)
-* [2025-12-16, 21:16:35](https://news.ycombinator.com/item?id=46294592) - [Chat-tails: Throwback terminal chat, built on Tailscale](https://tailscale.com/blog/chat-tails-terminal-chat)
 * [2025-12-16, 21:14:49](https://news.ycombinator.com/item?id=46294574) - [AI will make formal verification go mainstream](https://martin.kleppmann.com/2025/12/08/ai-formal-verification.html)
 * [2025-12-16, 20:52:45](https://news.ycombinator.com/item?id=46294289) - [Announcing the Beta release of ty](https://astral.sh/blog/ty)
 * [2025-12-16, 19:20:17](https://news.ycombinator.com/item?id=46293062) - [No Graphics API](https://www.sebastianaaltonen.com/blog/no-graphics-api)
