@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-12-17](index.md)
 
+* [2025-12-17, 16:48:18](https://news.ycombinator.com/item?id=46301921) - [Tell HN: HN Was Down](https://news.ycombinator.com/item?id=46301921)
+* [2025-12-17, 16:46:39](https://news.ycombinator.com/item?id=46301903) - [Ask HN: Was HN just down for anyone else?](https://news.ycombinator.com/item?id=46301903)
+* [2025-12-17, 16:42:13](https://news.ycombinator.com/item?id=46301851) - [Gemini 3 Flash: frontier intelligence built for speed](https://blog.google/products/gemini/gemini-3-flash/)
 * [2025-12-17, 13:25:06](https://news.ycombinator.com/item?id=46301696) - [Learning the oldest programming language (2024)](https://uncenter.dev/posts/learning-fortran/)
 * [2025-12-17, 12:45:40](https://news.ycombinator.com/item?id=46301346) - [Coursera to combine with Udemy](https://investor.coursera.com/news/news-details/2025/Coursera-to-Combine-with-Udemy-to-Empower-the-Global-Workforce-with-Skills-for-the-AI-Era/default.aspx)
 * [2025-12-17, 11:26:59](https://news.ycombinator.com/item?id=46300776) - [Short-Circuiting Correlated Subqueries in SQLite](https://emschwartz.me/short-circuiting-correlated-subqueries-in-sqlite/)

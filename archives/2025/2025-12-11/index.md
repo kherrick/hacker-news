@@ -37,6 +37,7 @@
 * [2025-12-11, 17:27:37](https://news.ycombinator.com/item?id=46234304) - [Show HN: I built a WebMIDI sequencer to control my hardware synths](https://www.simplychris.ai/droplets)
 * [2025-12-11, 17:20:11](https://news.ycombinator.com/item?id=46234186) - [Show HN: SIM – Apache-2.0 n8n alternative](https://github.com/simstudioai/sim)
 * [2025-12-11, 16:52:37](https://news.ycombinator.com/item?id=46233798) - [Days since last GitHub incident](https://github-incidents.pages.dev/)
+* [2025-12-11, 16:52:31](https://news.ycombinator.com/item?id=46233794) - [Notes on Sorted Data](https://amit.prasad.me/blog/sorted-data)
 * [2025-12-11, 16:35:48](https://news.ycombinator.com/item?id=46233570) - [Things I want to say to my boss](https://www.ithoughtaboutthatalot.com/2025/the-things-i-want-to-say-to-my-boss)
 * [2025-12-11, 16:02:46](https://news.ycombinator.com/item?id=46233073) - [Ask HN: Has anyone been able to renew their IEEE this month?](https://news.ycombinator.com/item?id=46233073)
 * [2025-12-11, 16:02:32](https://news.ycombinator.com/item?id=46233067) - [A Developer Accidentally Found CSAM in AI Data. Google Banned Him for It](https://www.404media.co/a-developer-accidentally-found-csam-in-ai-data-google-banned-him-for-it/)
