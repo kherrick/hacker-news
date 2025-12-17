@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-12-17, 22:27:29",
+      "https://news.ycombinator.com/item?id=46306456"
+    ],
+    [
+      "Developers can now submit apps to ChatGPT",
+      "https://openai.com/index/developers-can-now-submit-apps-to-chatgpt/"
+    ]
+  ],
+  [
+    [
       "2025-12-17, 21:44:22",
       "https://news.ycombinator.com/item?id=46305945"
     ],
@@ -211,16 +221,6 @@
   ],
   [
     [
-      "2025-12-16, 22:48:56",
-      "https://news.ycombinator.com/item?id=46295771"
-    ],
-    [
-      "I ported JustHTML from Python to JavaScript with Codex CLI and GPT-5.2 in hours",
-      "https://simonwillison.net/2025/Dec/15/porting-justhtml/"
-    ]
-  ],
-  [
-    [
       "2025-12-16, 22:07:49",
       "https://news.ycombinator.com/item?id=46295268"
     ],
@@ -247,6 +247,16 @@
     [
       "Thin desires are eating life",
       "https://www.joanwestenberg.com/thin-desires-are-eating-your-life/"
+    ]
+  ],
+  [
+    [
+      "2025-12-15, 05:54:28",
+      "https://news.ycombinator.com/item?id=46270918"
+    ],
+    [
+      "Speed matters: Why working quickly is more important than it seems",
+      "https://jsomers.net/blog/speed-matters"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "I couldn't find a logging library that worked for my library, so I made one",
       "https://hackers.pub/@hongminhee/2025/logtape-fedify-case-study"
-    ]
-  ],
-  [
-    [
-      "2025-12-11, 16:52:31",
-      "https://news.ycombinator.com/item?id=46233794"
-    ],
-    [
-      "Notes on Sorted Data",
-      "https://amit.prasad.me/blog/sorted-data"
     ]
   ]
 ]
