@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-12-17, 23:13:43](https://news.ycombinator.com/item?id=46306925) - [Venezuela's Navy Begins Escorting Ships as U.S. Threatens Blockade](https://www.nytimes.com/live/2025/12/17/us/trump-news)
 * [2025-12-17, 22:27:29](https://news.ycombinator.com/item?id=46306456) - [Developers can now submit apps to ChatGPT](https://openai.com/index/developers-can-now-submit-apps-to-chatgpt/)
 * [2025-12-17, 21:44:22](https://news.ycombinator.com/item?id=46305945) - [Cloudflare Radar 2025 Year in Review](https://radar.cloudflare.com/year-in-review/2025)
 * [2025-12-17, 21:13:33](https://news.ycombinator.com/item?id=46305585) - [I got hacked: My Hetzner server started mining Monero](https://blog.jakesaunders.dev/my-server-started-mining-monero-this-morning/)
@@ -20,15 +21,14 @@
 * [2025-12-17, 16:42:13](https://news.ycombinator.com/item?id=46301851) - [Gemini 3 Flash: Frontier intelligence built for speed](https://blog.google/products/gemini/gemini-3-flash/)
 * [2025-12-17, 13:25:06](https://news.ycombinator.com/item?id=46301696) - [Learning Fortran (2024)](https://uncenter.dev/posts/learning-fortran/)
 * [2025-12-17, 12:45:40](https://news.ycombinator.com/item?id=46301346) - [Coursera to combine with Udemy](https://investor.coursera.com/news/news-details/2025/Coursera-to-Combine-with-Udemy-to-Empower-the-Global-Workforce-with-Skills-for-the-AI-Era/default.aspx)
-* [2025-12-17, 09:37:24](https://news.ycombinator.com/item?id=46299934) - [Is Mozilla trying hard to kill itself?](https://infosec.press/brunomiguel/is-mozilla-trying-hard-to-kill-itself)
 * [2025-12-16, 22:07:49](https://news.ycombinator.com/item?id=46295268) - [No AI* Here – A Response to Mozilla's Next Chapter](https://www.waterfox.com/blog/no-ai-here-response-to-mozilla/)
-* [2025-12-16, 20:52:45](https://news.ycombinator.com/item?id=46294289) - [Announcing the Beta release of ty](https://astral.sh/blog/ty)
 * [2025-12-16, 00:50:41](https://news.ycombinator.com/item?id=46283276) - [Thin desires are eating life](https://www.joanwestenberg.com/thin-desires-are-eating-your-life/)
 * [2025-12-15, 05:54:28](https://news.ycombinator.com/item?id=46270918) - [Speed matters: Why working quickly is more important than it seems](https://jsomers.net/blog/speed-matters)
 * [2025-12-14, 15:42:03](https://news.ycombinator.com/item?id=46263821) - [Zmij: Faster floating point double-to-string conversion](https://vitaut.net/posts/2025/faster-dtoa/)
 * [2025-12-14, 13:27:59](https://news.ycombinator.com/item?id=46262875) - [Ditch the Chain-of-Thought Hacks: A Modular System for Composing AI Operations](https://vibboai.com)
 * [2025-12-13, 19:25:03](https://news.ycombinator.com/item?id=46257147) - [I created a publishing system for step-by-step coding guides in Typst](https://press.knowledge.dev/p/new-150-pages-rust-guide-create-a)
 * [2025-12-13, 18:56:48](https://news.ycombinator.com/item?id=46256946) - [Fast Sequence Iteration in Common Lisp](https://world-playground-deceit.net/blog/2025/12/fast-sequence-iteration-in-common-lisp.html)
+* [2025-12-13, 11:34:05](https://news.ycombinator.com/item?id=46253836) - [The Number That Turned Sideways](https://zuriby.github.io/math.github.io/the-number-that-turned-sideways.html)
 * [2025-12-12, 15:46:44](https://news.ycombinator.com/item?id=46245211) - [I couldn't find a logging library that worked for my library, so I made one](https://hackers.pub/@hongminhee/2025/logtape-fedify-case-study)
 
 ## [Archives](archives/index.md)
