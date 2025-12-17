@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-12-17](index.md)
 
+* [2025-12-17, 17:48:21](https://news.ycombinator.com/item?id=46302892) - [How, and why, I invented OnlyFans. In 2004](https://themosthandsomemanintheworld.com/how-and-why-i-invented-onlyfans-in-2004/)
 * [2025-12-17, 17:14:21](https://news.ycombinator.com/item?id=46302361) - [Beyond RC4 for Windows Authentication](https://www.microsoft.com/en-us/windows-server/blog/2025/12/03/beyond-rc4-for-windows-authentication)
 * [2025-12-17, 17:13:41](https://news.ycombinator.com/item?id=46302346) - [Tiffany lamp coveted by Steve Jobs sells for $4.4M](https://www.semafor.com/article/12/16/2025/tiffany-lamp-coveted-by-steve-jobs-sells-for-44-million)
 * [2025-12-17, 17:13:03](https://news.ycombinator.com/item?id=46302337) - [A Safer Container Ecosystem with Docker: Free Docker Hardened Images](https://www.docker.com/blog/docker-hardened-images-for-every-developer/)
