@@ -18,7 +18,6 @@
 * [2025-12-17, 16:45:35](https://news.ycombinator.com/item?id=46301886) - [The State of AI Coding Report 2025](https://www.greptile.com/state-of-ai-coding-2025)
 * [2025-12-17, 16:44:13](https://news.ycombinator.com/item?id=46301865) - [Launch HN: Kenobi (YC W22) – Personalize your website for every visitor](https://news.ycombinator.com/item?id=46301865)
 * [2025-12-17, 16:42:13](https://news.ycombinator.com/item?id=46301851) - [Gemini 3 Flash: Frontier intelligence built for speed](https://blog.google/products/gemini/gemini-3-flash/)
-* [2025-12-17, 13:25:06](https://news.ycombinator.com/item?id=46301696) - [Learning the oldest programming language (2024)](https://uncenter.dev/posts/learning-fortran/)
 * [2025-12-17, 12:45:40](https://news.ycombinator.com/item?id=46301346) - [Coursera to combine with Udemy](https://investor.coursera.com/news/news-details/2025/Coursera-to-Combine-with-Udemy-to-Empower-the-Global-Workforce-with-Skills-for-the-AI-Era/default.aspx)
 * [2025-12-17, 09:37:24](https://news.ycombinator.com/item?id=46299934) - [Is Mozilla trying hard to kill itself?](https://infosec.press/brunomiguel/is-mozilla-trying-hard-to-kill-itself)
 * [2025-12-17, 08:34:00](https://news.ycombinator.com/item?id=46299552) - [AI's real superpower: consuming, not creating](https://msanroman.io/blog/ai-consumption-paradigm)
@@ -28,6 +27,7 @@
 * [2025-12-16, 00:50:41](https://news.ycombinator.com/item?id=46283276) - [Thin desires are eating life](https://www.joanwestenberg.com/thin-desires-are-eating-your-life/)
 * [2025-12-14, 15:42:03](https://news.ycombinator.com/item?id=46263821) - [Zmij: Faster floating point double-to-string conversion](https://vitaut.net/posts/2025/faster-dtoa/)
 * [2025-12-13, 19:25:03](https://news.ycombinator.com/item?id=46257147) - [I created a publishing system for step-by-step coding guides in Typst](https://press.knowledge.dev/p/new-150-pages-rust-guide-create-a)
+* [2025-12-13, 18:56:48](https://news.ycombinator.com/item?id=46256946) - [Fast Sequence Iteration in Common Lisp](https://world-playground-deceit.net/blog/2025/12/fast-sequence-iteration-in-common-lisp.html)
 * [2025-12-12, 15:46:44](https://news.ycombinator.com/item?id=46245211) - [I couldn't find a logging library that worked for my library, so I made one](https://hackers.pub/@hongminhee/2025/logtape-fedify-case-study)
 * [2025-12-11, 16:52:31](https://news.ycombinator.com/item?id=46233794) - [Notes on Sorted Data](https://amit.prasad.me/blog/sorted-data)
 
