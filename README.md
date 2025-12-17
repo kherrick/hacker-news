@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-12-17, 08:05:30](https://news.ycombinator.com/item?id=46299389) - [TLA+ Modeling Tips](http://muratbuffalo.blogspot.com/2025/12/tla-modeling-tips.html)
-* [2025-12-17, 08:04:02](https://news.ycombinator.com/item?id=46299377) - [US threatens EU digital services market access](https://twitter.com/ustraderep/status/2000990028835508258)
 * [2025-12-17, 07:42:09](https://news.ycombinator.com/item?id=46299257) - [P: Formal Modeling and Analysis of Distributed (Event-Driven) Systems](https://github.com/p-org/P)
 * [2025-12-17, 07:00:16](https://news.ycombinator.com/item?id=46299022) - [Subsets (YC S23) is hiring engineers in Copenhagen, Denmark](https://www.workatastartup.com/companies/subsets)
 * [2025-12-17, 03:55:59](https://news.ycombinator.com/item?id=46298055) - [A Guide to Magnetizing N48 Magnets in Ansys Maxwell](https://blog.ozeninc.com/resources/from-datasheet-to-demagnetization-a-guide-to-magnetizing-n48-magnets-in-ansys-maxwell)
@@ -25,6 +24,7 @@
 * [2025-12-15, 14:39:49](https://news.ycombinator.com/item?id=46275111) - [Nvidia Nemotron 3 Family of Models](https://research.nvidia.com/labs/nemotron/Nemotron-3/)
 * [2025-12-13, 22:30:50](https://news.ycombinator.com/item?id=46258830) - [Venezuela explained in 10 maps and charts](https://www.aljazeera.com/news/2025/11/28/venezuela-explained-in-10-maps-and-charts)
 * [2025-12-13, 14:51:43](https://news.ycombinator.com/item?id=46254909) - [Annual Production of 1/72 (22mm) scale plastic soldiers, 1958-2025](https://plasticsoldierreview.com/ShowFeature.aspx?id=27)
+* [2025-12-12, 21:28:52](https://news.ycombinator.com/item?id=46249197) - [Living Particle System](https://creative-art-points.vercel.app/)
 * [2025-12-12, 20:40:31](https://news.ycombinator.com/item?id=46248627) - [Testing a cheaper laminar flow hood](https://chillphysicsenjoyer.substack.com/p/testing-a-cheaper-laminar-flow-hood)
 * [2025-12-12, 15:34:45](https://news.ycombinator.com/item?id=46245083) - [Various locale mismatch scenarios in Windows clipboard text format synthesis](https://devblogs.microsoft.com/oldnewthing/20251211-37/?p=111858)
 * [2025-12-11, 17:27:37](https://news.ycombinator.com/item?id=46234304) - [Show HN: I built a WebMIDI sequencer to control my hardware synths](https://www.simplychris.ai/droplets)
