@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-12-17](index.md)
 
+* [2025-12-17, 19:35:56](https://news.ycombinator.com/item?id=46304413) - [Show HN: High-Performance Wavelet Matrix for Python, Implemented in Rust](https://pypi.org/project/wavelet-matrix/)
 * [2025-12-17, 18:16:58](https://news.ycombinator.com/item?id=46303291) - [Hack Reveals the A16Z-Backed Phone Farm Flooding TikTok with AI Influencers](https://www.404media.co/hack-reveals-the-a16z-backed-phone-farm-flooding-tiktok-with-ai-influencers/)
 * [2025-12-17, 18:15:38](https://news.ycombinator.com/item?id=46303277) - [How SQLite Is Tested](https://sqlite.org/testing.html)
 * [2025-12-17, 18:14:33](https://news.ycombinator.com/item?id=46303260) - [FCC chair suggests agency isn't independent, word cut from mission statement](https://www.axios.com/2025/12/17/brendan-carr-fcc-independent-senate-testimony-website)

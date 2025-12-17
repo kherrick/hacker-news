@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-12-17, 18:16:58](https://news.ycombinator.com/item?id=46303291) - [Doublespeed has been hacked](https://www.404media.co/hack-reveals-the-a16z-backed-phone-farm-flooding-tiktok-with-ai-influencers/)
+* [2025-12-17, 19:35:56](https://news.ycombinator.com/item?id=46304413) - [Show HN: High-Performance Wavelet Matrix for Python, Implemented in Rust](https://pypi.org/project/wavelet-matrix/)
+* [2025-12-17, 18:16:58](https://news.ycombinator.com/item?id=46303291) - [Doublespeed hacked, revealing what its AI-generated accounts are promoting](https://www.404media.co/hack-reveals-the-a16z-backed-phone-farm-flooding-tiktok-with-ai-influencers/)
 * [2025-12-17, 18:15:38](https://news.ycombinator.com/item?id=46303277) - [How SQLite is tested](https://sqlite.org/testing.html)
 * [2025-12-17, 18:14:33](https://news.ycombinator.com/item?id=46303260) - [FCC chair suggests agency isn't independent, word cut from mission statement](https://www.axios.com/2025/12/17/brendan-carr-fcc-independent-senate-testimony-website)
 * [2025-12-17, 18:02:12](https://news.ycombinator.com/item?id=46303090) - [Why outcome-billing makes sense for AI Agents](https://www.valmi.io/blog/an-imperative-for-ai-agents-outcome-billing-with-valmi/)
@@ -25,7 +26,6 @@
 * [2025-12-16, 17:12:02](https://news.ycombinator.com/item?id=46291156) - [Pricing Changes for GitHub Actions](https://resources.github.com/actions/2026-pricing-changes-for-github-actions/)
 * [2025-12-16, 16:54:19](https://news.ycombinator.com/item?id=46290916) - [alpr.watch](https://alpr.watch/)
 * [2025-12-16, 13:53:14](https://news.ycombinator.com/item?id=46288491) - [Mozilla appoints new CEO Anthony Enzor-Demeo](https://blog.mozilla.org/en/mozilla/leadership/mozillas-next-chapter-anthony-enzor-demeo-new-ceo/)
-* [2025-12-16, 13:46:57](https://news.ycombinator.com/item?id=46288415) - [40 percent of fMRI signals do not correspond to actual brain activity](https://www.tum.de/en/news-and-events/all-news/press-releases/details/40-percent-of-mri-signals-do-not-correspond-to-actual-brain-activity)
 * [2025-12-16, 00:50:41](https://news.ycombinator.com/item?id=46283276) - [Thin desires are eating life](https://www.joanwestenberg.com/thin-desires-are-eating-your-life/)
 * [2025-12-14, 15:42:03](https://news.ycombinator.com/item?id=46263821) - [Zmij: Faster floating point double-to-string conversion](https://vitaut.net/posts/2025/faster-dtoa/)
 * [2025-12-13, 19:25:03](https://news.ycombinator.com/item?id=46257147) - [I created a publishing system for step-by-step coding guides in Typst](https://press.knowledge.dev/p/new-150-pages-rust-guide-create-a)
