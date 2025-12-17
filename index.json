@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-12-17, 20:40:18",
+      "https://news.ycombinator.com/item?id=46305216"
+    ],
+    [
+      "GitHub postponing the announced billing change to GitHub Actions",
+      "https://github.com/orgs/community/discussions/182186"
+    ]
+  ],
+  [
+    [
+      "2025-12-17, 20:10:12",
+      "https://news.ycombinator.com/item?id=46304865"
+    ],
+    [
+      "FIFA Arrives on Netflix Games",
+      "https://www.netflix.com/tudum/articles/fifa-mens-world-cup-2026-game-on-netflix"
+    ]
+  ],
+  [
+    [
       "2025-12-17, 19:35:56",
       "https://news.ycombinator.com/item?id=46304413"
     ],
@@ -41,16 +61,6 @@
   ],
   [
     [
-      "2025-12-17, 17:27:48",
-      "https://news.ycombinator.com/item?id=46302582"
-    ],
-    [
-      "Put SSH keys in .git to make repos USB-portable",
-      "https://dansjots.github.io/posts/per-repo-ssh-key/"
-    ]
-  ],
-  [
-    [
       "2025-12-17, 17:13:03",
       "https://news.ycombinator.com/item?id=46302337"
     ],
@@ -77,6 +87,16 @@
     [
       "AI capability isn't humanness",
       "https://research.roundtable.ai/capabilities-humanness/"
+    ]
+  ],
+  [
+    [
+      "2025-12-17, 17:00:39",
+      "https://news.ycombinator.com/item?id=46302122"
+    ],
+    [
+      "Flick (YC F25) Is Hiring Founding Engineer to Build Figma for AI Filmmaking",
+      "https://www.ycombinator.com/companies/flick/jobs/Tdu6FH6-founding-frontend-engineer"
     ]
   ],
   [
@@ -241,36 +261,6 @@
   ],
   [
     [
-      "2025-12-16, 13:53:14",
-      "https://news.ycombinator.com/item?id=46288491"
-    ],
-    [
-      "Mozilla appoints new CEO Anthony Enzor-Demeo",
-      "https://blog.mozilla.org/en/mozilla/leadership/mozillas-next-chapter-anthony-enzor-demeo-new-ceo/"
-    ]
-  ],
-  [
-    [
-      "2025-12-16, 13:46:57",
-      "https://news.ycombinator.com/item?id=46288415"
-    ],
-    [
-      "40 percent of fMRI signals do not correspond to actual brain activity",
-      "https://www.tum.de/en/news-and-events/all-news/press-releases/details/40-percent-of-mri-signals-do-not-correspond-to-actual-brain-activity"
-    ]
-  ],
-  [
-    [
-      "2025-12-16, 00:50:41",
-      "https://news.ycombinator.com/item?id=46283276"
-    ],
-    [
-      "Thin desires are eating life",
-      "https://www.joanwestenberg.com/thin-desires-are-eating-your-life/"
-    ]
-  ],
-  [
-    [
       "2025-12-14, 15:42:03",
       "https://news.ycombinator.com/item?id=46263821"
     ],
@@ -287,6 +277,16 @@
     [
       "I created a publishing system for step-by-step coding guides in Typst",
       "https://press.knowledge.dev/p/new-150-pages-rust-guide-create-a"
+    ]
+  ],
+  [
+    [
+      "2025-12-12, 15:46:44",
+      "https://news.ycombinator.com/item?id=46245211"
+    ],
+    [
+      "I couldn't find a logging library that worked for my library, so I made one",
+      "https://hackers.pub/@hongminhee/2025/logtape-fedify-case-study"
     ]
   ],
   [
