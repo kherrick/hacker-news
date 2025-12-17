@@ -38,6 +38,7 @@
 * [2025-12-14, 15:49:59](https://news.ycombinator.com/item?id=46263903) - [Private Equity Finds a New Source of Profit: Volunteer Fire Departments](https://www.nytimes.com/2025/12/14/us/fire-department-software-private-equity.html)
 * [2025-12-14, 15:47:59](https://news.ycombinator.com/item?id=46263874) - [AI was not invented, it arrived](https://andrewarrow.dev/2025/12/ai-was-not-invented-it-arrived/)
 * [2025-12-14, 15:43:51](https://news.ycombinator.com/item?id=46263838) - [Claude Code's DX is too good. And that's a problem](https://www.bharath.sh/writing/claude-code-dx)
+* [2025-12-14, 15:42:03](https://news.ycombinator.com/item?id=46263821) - [Zmij: Faster floating point double-to-string conversion](https://vitaut.net/posts/2025/faster-dtoa/)
 * [2025-12-14, 15:05:06](https://news.ycombinator.com/item?id=46263530) - [Illuminating the processor core with LLVM-mca](https://abseil.io/fast/99)
 * [2025-12-14, 13:45:41](https://news.ycombinator.com/item?id=46262950) - [Apple Maps claims it's 29,905 miles away](https://mathstodon.xyz/@dpiponi/115651419771418748)
 * [2025-12-14, 13:19:15](https://news.ycombinator.com/item?id=46262816) - [AI and the ironies of automation – Part 2](https://www.ufried.com/blog/ironies_of_ai_2/)
