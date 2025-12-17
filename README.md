@@ -27,7 +27,7 @@
 * [2025-12-13, 14:51:43](https://news.ycombinator.com/item?id=46254909) - [Annual Production of 1/72 (22mm) scale plastic soldiers, 1958-2025](https://plasticsoldierreview.com/ShowFeature.aspx?id=27)
 * [2025-12-12, 20:40:31](https://news.ycombinator.com/item?id=46248627) - [Testing a cheaper laminar flow hood](https://chillphysicsenjoyer.substack.com/p/testing-a-cheaper-laminar-flow-hood)
 * [2025-12-12, 15:34:45](https://news.ycombinator.com/item?id=46245083) - [Various locale mismatch scenarios in Windows clipboard text format synthesis](https://devblogs.microsoft.com/oldnewthing/20251211-37/?p=111858)
-* [2025-12-11, 13:53:58](https://news.ycombinator.com/item?id=46231370) - [Twin suction turbines and 3-Gs in slow corners? Meet the DRG-Lola](https://arstechnica.com/cars/2025/11/an-electric-car-thats-faster-than-f1-around-monaco-thats-the-idea/)
+* [2025-12-11, 17:27:37](https://news.ycombinator.com/item?id=46234304) - [Show HN: I built a WebMIDI sequencer to control my hardware synths](https://www.simplychris.ai/droplets)
 * [2025-12-11, 12:17:53](https://news.ycombinator.com/item?id=46230456) - [VA Linux: The biggest dotcom IPO](https://dfarq.homeip.net/va-linux-the-biggest-dotcom-ipo/)
 * [2025-12-11, 10:37:08](https://news.ycombinator.com/item?id=46229761) - [Show HN: Titan – JavaScript-first framework that compiles into a Rust server](https://www.npmjs.com/package/@ezetgalaxy/titan)
 

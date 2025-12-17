@@ -34,6 +34,7 @@
 * [2025-12-11, 18:04:47](https://news.ycombinator.com/item?id=46234788) - [GPT-5.2](https://openai.com/index/introducing-gpt-5-2/)
 * [2025-12-11, 18:00:55](https://news.ycombinator.com/item?id=46234734) - [Show HN: I made a spreadsheet where formulas also update backwards](https://victorpoughon.github.io/bidicalc/)
 * [2025-12-11, 17:59:10](https://news.ycombinator.com/item?id=46234710) - [Litestream VFS](https://fly.io/blog/litestream-vfs/)
+* [2025-12-11, 17:27:37](https://news.ycombinator.com/item?id=46234304) - [Show HN: I built a WebMIDI sequencer to control my hardware synths](https://www.simplychris.ai/droplets)
 * [2025-12-11, 17:20:11](https://news.ycombinator.com/item?id=46234186) - [Show HN: SIM – Apache-2.0 n8n alternative](https://github.com/simstudioai/sim)
 * [2025-12-11, 16:52:37](https://news.ycombinator.com/item?id=46233798) - [Days since last GitHub incident](https://github-incidents.pages.dev/)
 * [2025-12-11, 16:35:48](https://news.ycombinator.com/item?id=46233570) - [Things I want to say to my boss](https://www.ithoughtaboutthatalot.com/2025/the-things-i-want-to-say-to-my-boss)
