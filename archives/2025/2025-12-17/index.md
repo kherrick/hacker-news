@@ -22,6 +22,7 @@
 * [2025-12-17, 16:54:32](https://news.ycombinator.com/item?id=46302010) - [Ford Has Steered Its Former EV Truck and Plant Plans in to a Ditch](https://512pixels.net/2025/12/ford-ev-changes/)
 * [2025-12-17, 16:48:18](https://news.ycombinator.com/item?id=46301921) - [Tell HN: HN Was Down](https://news.ycombinator.com/item?id=46301921)
 * [2025-12-17, 16:46:39](https://news.ycombinator.com/item?id=46301903) - [Ask HN: Was HN just down for anyone else?](https://news.ycombinator.com/item?id=46301903)
+* [2025-12-17, 16:45:35](https://news.ycombinator.com/item?id=46301886) - [The State of AI Coding Report 2025](https://www.greptile.com/state-of-ai-coding-2025)
 * [2025-12-17, 16:44:13](https://news.ycombinator.com/item?id=46301865) - [Launch HN: Kenobi (YC W22) – Personalize your website for every visitor](https://news.ycombinator.com/item?id=46301865)
 * [2025-12-17, 16:42:13](https://news.ycombinator.com/item?id=46301851) - [Gemini 3 Flash: frontier intelligence built for speed](https://blog.google/products/gemini/gemini-3-flash/)
 * [2025-12-17, 13:25:06](https://news.ycombinator.com/item?id=46301696) - [Learning the oldest programming language (2024)](https://uncenter.dev/posts/learning-fortran/)
