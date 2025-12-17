@@ -1,6 +1,36 @@
 [
   [
     [
+      "2025-12-17, 16:48:18",
+      "https://news.ycombinator.com/item?id=46301921"
+    ],
+    [
+      "Tell HN: HN Was Down",
+      "https://news.ycombinator.com/item?id=46301921"
+    ]
+  ],
+  [
+    [
+      "2025-12-17, 16:46:39",
+      "https://news.ycombinator.com/item?id=46301903"
+    ],
+    [
+      "Ask HN: Was HN just down for anyone else?",
+      "https://news.ycombinator.com/item?id=46301903"
+    ]
+  ],
+  [
+    [
+      "2025-12-17, 16:42:13",
+      "https://news.ycombinator.com/item?id=46301851"
+    ],
+    [
+      "Gemini 3 Flash: frontier intelligence built for speed",
+      "https://blog.google/products/gemini/gemini-3-flash/"
+    ]
+  ],
+  [
+    [
       "2025-12-17, 13:25:06",
       "https://news.ycombinator.com/item?id=46301696"
     ],
@@ -17,16 +47,6 @@
     [
       "Coursera to combine with Udemy",
       "https://investor.coursera.com/news/news-details/2025/Coursera-to-Combine-with-Udemy-to-Empower-the-Global-Workforce-with-Skills-for-the-AI-Era/default.aspx"
-    ]
-  ],
-  [
-    [
-      "2025-12-17, 11:26:59",
-      "https://news.ycombinator.com/item?id=46300776"
-    ],
-    [
-      "Short-Circuiting Correlated Subqueries in SQLite",
-      "https://emschwartz.me/short-circuiting-correlated-subqueries-in-sqlite/"
     ]
   ],
   [
@@ -57,16 +77,6 @@
     [
       "TLA+ Modeling Tips",
       "http://muratbuffalo.blogspot.com/2025/12/tla-modeling-tips.html"
-    ]
-  ],
-  [
-    [
-      "2025-12-17, 07:42:09",
-      "https://news.ycombinator.com/item?id=46299257"
-    ],
-    [
-      "P: Formal Modeling and Analysis of Distributed (Event-Driven) Systems",
-      "https://github.com/p-org/P"
     ]
   ],
   [
@@ -221,6 +231,16 @@
   ],
   [
     [
+      "2025-12-16, 00:06:49",
+      "https://news.ycombinator.com/item?id=46282874"
+    ],
+    [
+      "The World Happiness Report is beset with methodological problems",
+      "https://yaschamounk.substack.com/p/the-world-happiness-report-is-a-sham"
+    ]
+  ],
+  [
+    [
       "2025-12-14, 03:17:11",
       "https://news.ycombinator.com/item?id=46260485"
     ],
@@ -271,32 +291,12 @@
   ],
   [
     [
-      "2025-12-11, 16:02:46",
-      "https://news.ycombinator.com/item?id=46233073"
+      "2025-12-11, 16:52:31",
+      "https://news.ycombinator.com/item?id=46233794"
     ],
     [
-      "Ask HN: Has anyone been able to renew their IEEE this month?",
-      "https://news.ycombinator.com/item?id=46233073"
-    ]
-  ],
-  [
-    [
-      "2025-12-11, 12:17:53",
-      "https://news.ycombinator.com/item?id=46230456"
-    ],
-    [
-      "VA Linux: The biggest dotcom IPO",
-      "https://dfarq.homeip.net/va-linux-the-biggest-dotcom-ipo/"
-    ]
-  ],
-  [
-    [
-      "2025-12-11, 10:37:08",
-      "https://news.ycombinator.com/item?id=46229761"
-    ],
-    [
-      "Show HN: Titan – JavaScript-first framework that compiles into a Rust server",
-      "https://www.npmjs.com/package/@ezetgalaxy/titan"
+      "Notes on Sorted Data",
+      "https://amit.prasad.me/blog/sorted-data"
     ]
   ]
 ]
