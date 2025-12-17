@@ -1,16 +1,6 @@
 [
   [
     [
-      "2025-12-17, 03:03:32",
-      "https://news.ycombinator.com/item?id=46297767"
-    ],
-    [
-      "Why many Asian megacities are miserable places",
-      "https://www.economist.com/asia/2025/12/11/why-many-asian-megacities-are-miserable-places"
-    ]
-  ],
-  [
-    [
       "2025-12-17, 02:52:22",
       "https://news.ycombinator.com/item?id=46297702"
     ],
@@ -277,6 +267,16 @@
     [
       "Twin suction turbines and 3-Gs in slow corners? Meet the DRG-Lola",
       "https://arstechnica.com/cars/2025/11/an-electric-car-thats-faster-than-f1-around-monaco-thats-the-idea/"
+    ]
+  ],
+  [
+    [
+      "2025-12-11, 10:37:08",
+      "https://news.ycombinator.com/item?id=46229761"
+    ],
+    [
+      "Show HN: Titan – JavaScript-first framework that compiles into a Rust server",
+      "https://www.npmjs.com/package/@ezetgalaxy/titan"
     ]
   ],
   [
