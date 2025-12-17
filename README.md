@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-12-17, 03:03:32](https://news.ycombinator.com/item?id=46297767) - [Why many Asian megacities are miserable places](https://www.economist.com/asia/2025/12/11/why-many-asian-megacities-are-miserable-places)
 * [2025-12-17, 02:52:22](https://news.ycombinator.com/item?id=46297702) - [Tesla Robotaxis in Austin Crash 12.5x More Frequently Than Humans](https://electrek.co/2025/12/15/tesla-reports-another-robotaxi-crash-even-with-supervisor/)
 * [2025-12-17, 02:01:38](https://news.ycombinator.com/item?id=46297336) - [Locked out: How a gift card purchase destroyed an Apple account](https://appleinsider.com/articles/25/12/13/locked-out-how-a-gift-card-purchase-destroyed-an-apple-account)
 * [2025-12-17, 01:26:14](https://news.ycombinator.com/item?id=46297127) - [CS 4973: Introduction to Software Development Tooling – Northeastern Univ (2024)](https://bernsteinbear.com/isdt/)
@@ -28,6 +27,7 @@
 * [2025-12-15, 14:39:49](https://news.ycombinator.com/item?id=46275111) - [Nvidia Nemotron 3 Family of Models](https://research.nvidia.com/labs/nemotron/Nemotron-3/)
 * [2025-12-12, 20:40:31](https://news.ycombinator.com/item?id=46248627) - [Testing a cheaper laminar flow hood](https://chillphysicsenjoyer.substack.com/p/testing-a-cheaper-laminar-flow-hood)
 * [2025-12-11, 13:53:58](https://news.ycombinator.com/item?id=46231370) - [Twin suction turbines and 3-Gs in slow corners? Meet the DRG-Lola](https://arstechnica.com/cars/2025/11/an-electric-car-thats-faster-than-f1-around-monaco-thats-the-idea/)
+* [2025-12-11, 10:37:08](https://news.ycombinator.com/item?id=46229761) - [Show HN: Titan – JavaScript-first framework that compiles into a Rust server](https://www.npmjs.com/package/@ezetgalaxy/titan)
 * [2025-12-11, 00:25:57](https://news.ycombinator.com/item?id=46226068) - [Midjourney is alemwjsl](https://www.aadillpickle.com/blog/midjourney-is-alemwjsl)
 * [2025-12-10, 16:44:59](https://news.ycombinator.com/item?id=46219987) - [Meta's new A.I. superstars are chafing against the rest of the company](https://www.nytimes.com/2025/12/10/technology/meta-ai-tbd-lab-friction.html)
 

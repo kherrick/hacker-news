@@ -60,6 +60,7 @@
 * [2025-12-11, 11:26:45](https://news.ycombinator.com/item?id=46230072) - [Meta shuts down global accounts linked to abortion advice and queer content](https://www.theguardian.com/global-development/2025/dec/11/meta-shuts-down-global-accounts-linked-to-abortion-advice-and-queer-content)
 * [2025-12-11, 10:53:22](https://news.ycombinator.com/item?id=46229854) - [McDonald's removes AI-generated ad after backlash](https://www.theguardian.com/business/2025/dec/11/mcdonalds-removes-ai-generated-christmas-ad-advert-backlash)
 * [2025-12-11, 10:38:51](https://news.ycombinator.com/item?id=46229766) - [If You Quit Social Media, Will You Read More Books?](https://www.newyorker.com/news/fault-lines/if-you-quit-social-media-will-you-read-more-books)
+* [2025-12-11, 10:37:08](https://news.ycombinator.com/item?id=46229761) - [Show HN: Titan – JavaScript-first framework that compiles into a Rust server](https://www.npmjs.com/package/@ezetgalaxy/titan)
 * [2025-12-11, 09:51:47](https://news.ycombinator.com/item?id=46229467) - [A \"Frozen\" Dictionary for Python](https://lwn.net/SubscriberLink/1047238/25c270b077849dc0/)
 * [2025-12-11, 09:46:56](https://news.ycombinator.com/item?id=46229437) - [Show HN: Tripwire: A new anti evil maid defense](https://github.com/fr33-sh/Tripwire)
 * [2025-12-11, 09:30:32](https://news.ycombinator.com/item?id=46229350) - [A trip through the Graphics Pipeline (2011)](https://fgiesen.wordpress.com/2011/07/09/a-trip-through-the-graphics-pipeline-2011-index/)
