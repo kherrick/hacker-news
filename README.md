@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-12-17, 07:00:16](https://news.ycombinator.com/item?id=46299022) - [Subsets (YC S23) is hiring engineers in Copenhagen, Denmark](https://www.workatastartup.com/companies/subsets)
-* [2025-12-17, 04:48:24](https://news.ycombinator.com/item?id=46298385) - [FTX insider Caroline Ellison has been moved out of prison](https://www.businessinsider.com/caroline-ellison-prison-release-ftx-sam-bankman-fried-2025-12)
 * [2025-12-17, 03:55:59](https://news.ycombinator.com/item?id=46298055) - [A Guide to Magnetizing N48 Magnets in Ansys Maxwell](https://blog.ozeninc.com/resources/from-datasheet-to-demagnetization-a-guide-to-magnetizing-n48-magnets-in-ansys-maxwell)
 * [2025-12-17, 01:26:14](https://news.ycombinator.com/item?id=46297127) - [Introduction to Software Development Tooling (2024)](https://bernsteinbear.com/isdt/)
 * [2025-12-17, 00:50:40](https://news.ycombinator.com/item?id=46296863) - [Show HN: Learn Japanese contextually while browsing](https://lingoku.ai/learn-japanese)
@@ -18,6 +17,7 @@
 * [2025-12-16, 15:41:47](https://news.ycombinator.com/item?id=46289918) - [Writing a blatant Telegram clone using Qt, QML and Rust. And C++](https://kemble.net/blog/provoke/)
 * [2025-12-16, 13:53:14](https://news.ycombinator.com/item?id=46288491) - [Mozilla appoints new CEO Anthony Enzor-Demeo](https://blog.mozilla.org/en/mozilla/leadership/mozillas-next-chapter-anthony-enzor-demeo-new-ceo/)
 * [2025-12-16, 13:46:57](https://news.ycombinator.com/item?id=46288415) - [40 percent of fMRI signals do not correspond to actual brain activity](https://www.tum.de/en/news-and-events/all-news/press-releases/details/40-percent-of-mri-signals-do-not-correspond-to-actual-brain-activity)
+* [2025-12-16, 13:33:25](https://news.ycombinator.com/item?id=46288291) - [Rust GCC backend: Why and how](https://blog.guillaume-gomez.fr/articles/2025-12-15+Rust+GCC+backend%3A+Why+and+how)
 * [2025-12-16, 13:07:14](https://news.ycombinator.com/item?id=46288024) - [Sega Channel: VGHF Recovers over 100 Sega Channel ROMs (and More)](https://gamehistory.org/segachannel/)
 * [2025-12-16, 08:54:58](https://news.ycombinator.com/item?id=46286292) - [Japan to revise romanization rules for first time in 70 years](https://www.japantimes.co.jp/news/2025/08/21/japan/panel-hepburn-style-romanization/)
 * [2025-12-16, 00:50:41](https://news.ycombinator.com/item?id=46283276) - [Thin desires are eating life](https://www.joanwestenberg.com/thin-desires-are-eating-your-life/)
