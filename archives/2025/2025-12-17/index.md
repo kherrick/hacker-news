@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-12-17](index.md)
 
+* [2025-12-17, 13:25:06](https://news.ycombinator.com/item?id=46301696) - [Learning the oldest programming language (2024)](https://uncenter.dev/posts/learning-fortran/)
+* [2025-12-17, 12:45:40](https://news.ycombinator.com/item?id=46301346) - [Coursera to combine with Udemy](https://investor.coursera.com/news/news-details/2025/Coursera-to-Combine-with-Udemy-to-Empower-the-Global-Workforce-with-Skills-for-the-AI-Era/default.aspx)
+* [2025-12-17, 11:26:59](https://news.ycombinator.com/item?id=46300776) - [Short-Circuiting Correlated Subqueries in SQLite](https://emschwartz.me/short-circuiting-correlated-subqueries-in-sqlite/)
 * [2025-12-17, 09:54:48](https://news.ycombinator.com/item?id=46300047) - [Show HN: Mephisto – A RAM-only, ad-free disposable email PWA built with React](https://mephistomail.site)
 * [2025-12-17, 09:37:24](https://news.ycombinator.com/item?id=46299934) - [Is Mozilla trying hard to kill itself?](https://infosec.press/brunomiguel/is-mozilla-trying-hard-to-kill-itself)
 * [2025-12-17, 08:34:00](https://news.ycombinator.com/item?id=46299552) - [AI's real superpower: consuming, not creating](https://msanroman.io/blog/ai-consumption-paradigm)

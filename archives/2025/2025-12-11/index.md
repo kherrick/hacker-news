@@ -38,6 +38,7 @@
 * [2025-12-11, 17:20:11](https://news.ycombinator.com/item?id=46234186) - [Show HN: SIM – Apache-2.0 n8n alternative](https://github.com/simstudioai/sim)
 * [2025-12-11, 16:52:37](https://news.ycombinator.com/item?id=46233798) - [Days since last GitHub incident](https://github-incidents.pages.dev/)
 * [2025-12-11, 16:35:48](https://news.ycombinator.com/item?id=46233570) - [Things I want to say to my boss](https://www.ithoughtaboutthatalot.com/2025/the-things-i-want-to-say-to-my-boss)
+* [2025-12-11, 16:02:46](https://news.ycombinator.com/item?id=46233073) - [Ask HN: Has anyone been able to renew their IEEE this month?](https://news.ycombinator.com/item?id=46233073)
 * [2025-12-11, 16:02:32](https://news.ycombinator.com/item?id=46233067) - [A Developer Accidentally Found CSAM in AI Data. Google Banned Him for It](https://www.404media.co/a-developer-accidentally-found-csam-in-ai-data-google-banned-him-for-it/)
 * [2025-12-11, 15:59:33](https://news.ycombinator.com/item?id=46233009) - [Show HN: GPULlama3.java Llama Compilied to PTX/OpenCL Now Integrated in Quarkus](https://news.ycombinator.com/item?id=46233009)
 * [2025-12-11, 15:52:30](https://news.ycombinator.com/item?id=46232898) - [Deprecate Like You Mean It](https://entropicthoughts.com/deprecate-like-you-mean-it)
