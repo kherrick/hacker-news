@@ -1,12 +1,32 @@
 [
   [
     [
+      "2025-12-17, 18:15:38",
+      "https://news.ycombinator.com/item?id=46303277"
+    ],
+    [
+      "How SQLite Is Tested",
+      "https://sqlite.org/testing.html"
+    ]
+  ],
+  [
+    [
       "2025-12-17, 18:14:33",
       "https://news.ycombinator.com/item?id=46303260"
     ],
     [
       "FCC chair suggests agency isn't independent, word cut from mission statement",
       "https://www.axios.com/2025/12/17/brendan-carr-fcc-independent-senate-testimony-website"
+    ]
+  ],
+  [
+    [
+      "2025-12-17, 18:02:12",
+      "https://news.ycombinator.com/item?id=46303090"
+    ],
+    [
+      "Why outcome-billing makes sense for AI Agents",
+      "https://www.valmi.io/blog/an-imperative-for-ai-agents-outcome-billing-with-valmi/"
     ]
   ],
   [
@@ -151,16 +171,6 @@
   ],
   [
     [
-      "2025-12-16, 22:48:56",
-      "https://news.ycombinator.com/item?id=46295771"
-    ],
-    [
-      "I ported JustHTML from Python to JavaScript with Codex CLI and GPT-5.2 in hours",
-      "https://simonwillison.net/2025/Dec/15/porting-justhtml/"
-    ]
-  ],
-  [
-    [
       "2025-12-16, 22:07:49",
       "https://news.ycombinator.com/item?id=46295268"
     ],
@@ -241,32 +251,22 @@
   ],
   [
     [
-      "2025-12-16, 13:46:57",
-      "https://news.ycombinator.com/item?id=46288415"
-    ],
-    [
-      "40 percent of fMRI signals do not correspond to actual brain activity",
-      "https://www.tum.de/en/news-and-events/all-news/press-releases/details/40-percent-of-mri-signals-do-not-correspond-to-actual-brain-activity"
-    ]
-  ],
-  [
-    [
-      "2025-12-16, 08:54:58",
-      "https://news.ycombinator.com/item?id=46286292"
-    ],
-    [
-      "Japan to revise romanization rules for first time in 70 years",
-      "https://www.japantimes.co.jp/news/2025/08/21/japan/panel-hepburn-style-romanization/"
-    ]
-  ],
-  [
-    [
       "2025-12-16, 00:50:41",
       "https://news.ycombinator.com/item?id=46283276"
     ],
     [
       "Thin desires are eating life",
       "https://www.joanwestenberg.com/thin-desires-are-eating-your-life/"
+    ]
+  ],
+  [
+    [
+      "2025-12-14, 15:42:03",
+      "https://news.ycombinator.com/item?id=46263821"
+    ],
+    [
+      "Zmij: Faster floating point double-to-string conversion",
+      "https://vitaut.net/posts/2025/faster-dtoa/"
     ]
   ],
   [
