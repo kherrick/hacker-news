@@ -151,12 +151,12 @@
   ],
   [
     [
-      "2025-12-17, 19:35:56",
-      "https://news.ycombinator.com/item?id=46304413"
+      "2025-12-17, 20:50:13",
+      "https://news.ycombinator.com/item?id=46305321"
     ],
     [
-      "Show HN: High-Performance Wavelet Matrix for Python, Implemented in Rust",
-      "https://pypi.org/project/wavelet-matrix/"
+      "Inside PostHog: SSRF, ClickHouse SQL Escape and Default Postgres Creds to RCE",
+      "https://mdisec.com/inside-posthog-how-ssrf-a-clickhouse-sql-escaping-0day-and-default-postgresql-credentials-formed-an-rce-chain-zdi-25-099-zdi-25-097-zdi-25-096/"
     ]
   ],
   [
@@ -261,16 +261,6 @@
   ],
   [
     [
-      "2025-12-14, 21:04:25",
-      "https://news.ycombinator.com/item?id=46266867"
-    ],
-    [
-      "Feather Detective (2016)",
-      "https://www.audubon.org/magazine/behind-scenes-worlds-top-feather-detective"
-    ]
-  ],
-  [
-    [
       "2025-12-14, 15:42:03",
       "https://news.ycombinator.com/item?id=46263821"
     ],
@@ -297,6 +287,16 @@
     [
       "Oasis: Pooling PCIe Devices over CXL to Boost Utilization",
       "https://dl.acm.org/doi/10.1145/3731569.3764812"
+    ]
+  ],
+  [
+    [
+      "2025-12-12, 04:24:34",
+      "https://news.ycombinator.com/item?id=46240855"
+    ],
+    [
+      "Jonathan Blow has spent the past decade designing 1,400 puzzles for you",
+      "https://arstechnica.com/gaming/2025/12/jonathan-blow-has-spent-the-past-decade-designing-1400-puzzles-for-you/"
     ]
   ]
 ]
