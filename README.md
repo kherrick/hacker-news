@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-12-18, 21:52:39](https://news.ycombinator.com/item?id=46319324) - [AI Vending Machine Was Tricked into Giving Away Everything](https://kottke.org/25/12/this-ai-vending-machine-was-tricked-into-giving-away-everything)
-* [2025-12-18, 21:16:25](https://news.ycombinator.com/item?id=46318852) - [Two Kinds of Vibe Coding](https://davidbau.com/archives/2025/12/16/vibe_coding.html)
+* [2025-12-18, 21:16:25](https://news.ycombinator.com/item?id=46318852) - [Two kinds of vibe coding](https://davidbau.com/archives/2025/12/16/vibe_coding.html)
 * [2025-12-18, 21:02:10](https://news.ycombinator.com/item?id=46318676) - [Delty (YC X25) Is Hiring an ML Engineer](https://www.ycombinator.com/companies/delty/jobs/MDeC49o-machine-learning-engineer)
 * [2025-12-18, 20:52:38](https://news.ycombinator.com/item?id=46318544) - [Oliver Sacks put himself into his case studies – what was the cost?](https://www.newyorker.com/magazine/2025/12/15/oliver-sacks-put-himself-into-his-case-studies-what-was-the-cost)
 * [2025-12-18, 19:56:04](https://news.ycombinator.com/item?id=46317765) - [Interactive Fluid Typography](https://electricmagicfactory.com/articles/interactive-fluid-typography/)
@@ -27,6 +26,7 @@
 * [2025-12-16, 20:42:38](https://news.ycombinator.com/item?id=46294144) - [Show HN: Stop AI scrapers from hammering your self-hosted blog (using porn)](https://github.com/vivienhenz24/fuzzy-canary)
 * [2025-12-16, 19:11:47](https://news.ycombinator.com/item?id=46292937) - [I've been writing ring buffers wrong all these years (2016)](https://www.snellman.net/blog/archive/2016-12-13-ring-buffers/)
 * [2025-12-16, 18:26:43](https://news.ycombinator.com/item?id=46292266) - [Meta Segment Anything Model Audio](https://ai.meta.com/samaudio/)
+* [2025-12-16, 16:12:06](https://news.ycombinator.com/item?id=46290349) - [Show HN: Picknplace.js, an alternative to drag-and-drop](https://jgthms.com/picknplace.js/)
 * [2025-12-16, 00:09:34](https://news.ycombinator.com/item?id=46282902) - [The <time> element should do something](https://nolanlawson.com/2025/12/14/the-time-element-should-actually-do-something/)
 * [2025-12-14, 16:26:12](https://news.ycombinator.com/item?id=46264195) - [How I wrote JustHTML, a Python-based HTML5 parser, using coding agents](https://friendlybit.com/python/writing-justhtml-with-coding-agents/)
 * [2025-12-13, 19:34:14](https://news.ycombinator.com/item?id=46257210) - [The Legacy of Nicaea](https://hedgehogreview.com/web-features/thr/posts/the-legacy-of-nicaea)
