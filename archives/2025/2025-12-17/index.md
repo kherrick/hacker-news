@@ -20,6 +20,7 @@
 * [2025-12-17, 20:40:18](https://news.ycombinator.com/item?id=46305216) - [GitHub postponing the announced billing change to GitHub Actions](https://github.com/orgs/community/discussions/182186)
 * [2025-12-17, 20:38:06](https://news.ycombinator.com/item?id=46305172) - [\"There are more Japanese [VRChat] creators than all other countries combined \"](https://twitter.com/chyadosensei/status/2001356290531156159)
 * [2025-12-17, 20:32:56](https://news.ycombinator.com/item?id=46305123) - [Why do commercial spaces sit vacant?](https://archive.strongtowns.org/journal/2025/5/21/why-do-commercial-spaces-sit-vacant)
+* [2025-12-17, 20:21:25](https://news.ycombinator.com/item?id=46305008) - [Show HN: X Writer – Tweet from VS Code Without Distractions (BYOK, Open Source)](https://github.com/Jawuilp/X-writer)
 * [2025-12-17, 20:18:06](https://news.ycombinator.com/item?id=46304955) - [Pornhub extorted after hackers steal Premium member activity data](https://www.bleepingcomputer.com/news/security/pornhub-extorted-after-hackers-steal-premium-member-activity-data/)
 * [2025-12-17, 20:10:12](https://news.ycombinator.com/item?id=46304865) - [FIFA Arrives on Netflix Games](https://www.netflix.com/tudum/articles/fifa-mens-world-cup-2026-game-on-netflix)
 * [2025-12-17, 19:35:56](https://news.ycombinator.com/item?id=46304413) - [Show HN: High-Performance Wavelet Matrix for Python, Implemented in Rust](https://pypi.org/project/wavelet-matrix/)
