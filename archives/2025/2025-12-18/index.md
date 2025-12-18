@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-12-18](index.md)
 
 * [2025-12-18, 19:56:04](https://news.ycombinator.com/item?id=46317765) - [Interactive Fluid Typography](https://electricmagicfactory.com/articles/interactive-fluid-typography/)
+* [2025-12-18, 19:48:15](https://news.ycombinator.com/item?id=46317657) - [T5Gemma 2: The next generation of encoder-decoder models](https://blog.google/technology/developers/t5gemma-2/)
 * [2025-12-18, 19:41:24](https://news.ycombinator.com/item?id=46317546) - [How to hack Discord, Vercel and more with one easy trick](https://kibty.town/blog/mintlify/)
 * [2025-12-18, 19:17:02](https://news.ycombinator.com/item?id=46317199) - [Public Makes Millions on Plunging Crypto](https://cepr.net/publications/public-makes-trillions-on-plunging-crypto/)
 * [2025-12-18, 19:15:17](https://news.ycombinator.com/item?id=46317174) - [The Scottish Highlands, the Appalachians, Atlas are the same mountain range](https://vividmaps.com/central-pangean-mountains/)

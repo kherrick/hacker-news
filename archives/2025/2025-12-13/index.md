@@ -36,6 +36,7 @@
 * [2025-12-13, 17:01:25](https://news.ycombinator.com/item?id=46256002) - [EasyPost (YC S13) Is Hiring](https://www.easypost.com/careers)
 * [2025-12-13, 17:00:14](https://news.ycombinator.com/item?id=46255991) - [I Tried Gleam for Advent of Code, and I Get the Hype](https://blog.tymscar.com/posts/gleamaoc2025/)
 * [2025-12-13, 16:51:17](https://news.ycombinator.com/item?id=46255928) - [Aging Out of Fucks: The Neuroscience of Why You Suddenly Can't Pretend Anymore](https://www.blog.lifebranches.com/p/aging-out-of-fucks-the-neuroscience)
+* [2025-12-13, 16:31:45](https://news.ycombinator.com/item?id=46255766) - [One agent isn't enough](https://benr.build/blog/one-agent-isnt-enough)
 * [2025-12-13, 16:30:01](https://news.ycombinator.com/item?id=46255746) - [Playing Santa Does Things to a Man. What It Did to Bob Rutan Was Even Stranger](https://www.esquire.com/lifestyle/a69597294/santaland-bob-rutan/)
 * [2025-12-13, 16:24:34](https://news.ycombinator.com/item?id=46255697) - [Show HN: Kinkora – A creative playground for experimenting with video models](https://kinkora.fun/)
 * [2025-12-13, 16:14:51](https://news.ycombinator.com/item?id=46255611) - [Multiple Indicted on Charges of Theft and Re-Sale of Restaurant Cooking Oil](https://www.justice.gov/usao-sdia/pr/multiple-chinese-nationals-indicted-charges-related-theft-and-re-sale-restaurant)
