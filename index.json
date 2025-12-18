@@ -1,12 +1,32 @@
 [
   [
     [
-      "2025-12-17, 23:13:43",
-      "https://news.ycombinator.com/item?id=46306925"
+      "2025-12-18, 00:25:43",
+      "https://news.ycombinator.com/item?id=46307500"
     ],
     [
-      "Venezuela's Navy Begins Escorting Ships as U.S. Threatens Blockade",
-      "https://www.nytimes.com/live/2025/12/17/us/trump-news"
+      "TikTok unlawfully tracks shopping habits and use of dating apps?",
+      "https://noyb.eu/en/tiktok-unlawfully-tracks-your-shopping-habits-and-your-use-dating-apps"
+    ]
+  ],
+  [
+    [
+      "2025-12-17, 23:29:48",
+      "https://news.ycombinator.com/item?id=46307055"
+    ],
+    [
+      "Explaining the Widening Divides in US Midlife Mortality: Is There a Smoking Gun?",
+      "https://www.nber.org/papers/w34553"
+    ]
+  ],
+  [
+    [
+      "2025-12-17, 23:11:14",
+      "https://news.ycombinator.com/item?id=46306894"
+    ],
+    [
+      "Gut bacteria from amphibians and reptiles achieve tumor elimination in mice",
+      "https://www.jaist.ac.jp/english/whatsnew/press/2025/12/17-1.html"
     ]
   ],
   [
@@ -17,6 +37,16 @@
     [
       "Developers can now submit apps to ChatGPT",
       "https://openai.com/index/developers-can-now-submit-apps-to-chatgpt/"
+    ]
+  ],
+  [
+    [
+      "2025-12-17, 22:19:53",
+      "https://news.ycombinator.com/item?id=46306371"
+    ],
+    [
+      "A look back: LANPAR, the first spreadsheet",
+      "https://technicallywewrite.com/2025/12/16/lanpar"
     ]
   ],
   [
@@ -51,32 +81,12 @@
   ],
   [
     [
-      "2025-12-17, 20:58:09",
-      "https://news.ycombinator.com/item?id=46305409"
-    ],
-    [
-      "AI Isn't Just Spying on You. It's Tricking You into Spending More",
-      "https://newrepublic.com/article/204525/artificial-intelligence-consumers-data-dynamic-pricing"
-    ]
-  ],
-  [
-    [
       "2025-12-17, 20:50:13",
       "https://news.ycombinator.com/item?id=46305321"
     ],
     [
       "Inside PostHog: SSRF, ClickHouse SQL Escape and Default Postgres Creds to RCE",
       "https://mdisec.com/inside-posthog-how-ssrf-a-clickhouse-sql-escaping-0day-and-default-postgresql-credentials-formed-an-rce-chain-zdi-25-099-zdi-25-097-zdi-25-096/"
-    ]
-  ],
-  [
-    [
-      "2025-12-17, 20:38:06",
-      "https://news.ycombinator.com/item?id=46305172"
-    ],
-    [
-      "VRChat: “There are more Japanese creators than all other countries combined”",
-      "https://twitter.com/chyadosensei/status/2001356290531156159"
     ]
   ],
   [
@@ -107,6 +117,16 @@
     [
       "Show HN: GitForms – Zero-cost contact forms using GitHub Issues as database",
       "https://gitforms-landing.vercel.app/"
+    ]
+  ],
+  [
+    [
+      "2025-12-17, 18:16:58",
+      "https://news.ycombinator.com/item?id=46303291"
+    ],
+    [
+      "A16z-backed Doublespeed hacked, revealing what its AI-generated accounts promote",
+      "https://www.404media.co/hack-reveals-the-a16z-backed-phone-farm-flooding-tiktok-with-ai-influencers/"
     ]
   ],
   [
@@ -161,16 +181,6 @@
   ],
   [
     [
-      "2025-12-17, 16:45:35",
-      "https://news.ycombinator.com/item?id=46301886"
-    ],
-    [
-      "The State of AI Coding Report 2025",
-      "https://www.greptile.com/state-of-ai-coding-2025"
-    ]
-  ],
-  [
-    [
       "2025-12-17, 16:44:13",
       "https://news.ycombinator.com/item?id=46301865"
     ],
@@ -211,16 +221,6 @@
   ],
   [
     [
-      "2025-12-16, 22:07:49",
-      "https://news.ycombinator.com/item?id=46295268"
-    ],
-    [
-      "No AI* Here – A Response to Mozilla's Next Chapter",
-      "https://www.waterfox.com/blog/no-ai-here-response-to-mozilla/"
-    ]
-  ],
-  [
-    [
       "2025-12-16, 00:50:41",
       "https://news.ycombinator.com/item?id=46283276"
     ],
@@ -235,8 +235,28 @@
       "https://news.ycombinator.com/item?id=46270918"
     ],
     [
-      "Speed matters: Why working quickly is more important than it seems",
+      "Working quickly is more important than it seems (2015)",
       "https://jsomers.net/blog/speed-matters"
+    ]
+  ],
+  [
+    [
+      "2025-12-14, 21:17:01",
+      "https://news.ycombinator.com/item?id=46267015"
+    ],
+    [
+      "A Cosmic Offense: Elias Canetti's contest against death",
+      "https://www.commonwealmagazine.org/cosmic-offense"
+    ]
+  ],
+  [
+    [
+      "2025-12-14, 18:55:30",
+      "https://news.ycombinator.com/item?id=46265684"
+    ],
+    [
+      "My payment agent is named George, not stripe-agent",
+      "https://blog.kestrelsnest.social/posts/2025-12-14-why-my-payment-agent-is-named-george-not-stripe-agent/"
     ]
   ],
   [
@@ -247,16 +267,6 @@
     [
       "Zmij: Faster floating point double-to-string conversion",
       "https://vitaut.net/posts/2025/faster-dtoa/"
-    ]
-  ],
-  [
-    [
-      "2025-12-14, 13:27:59",
-      "https://news.ycombinator.com/item?id=46262875"
-    ],
-    [
-      "Ditch the Chain-of-Thought Hacks: A Modular System for Composing AI Operations",
-      "https://vibboai.com"
     ]
   ],
   [
@@ -275,7 +285,7 @@
       "https://news.ycombinator.com/item?id=46256946"
     ],
     [
-      "Fast Sequence Iteration in Common Lisp",
+      "Fast SEQUENCE iteration in Common Lisp",
       "https://world-playground-deceit.net/blog/2025/12/fast-sequence-iteration-in-common-lisp.html"
     ]
   ],
@@ -287,16 +297,6 @@
     [
       "The Number That Turned Sideways",
       "https://zuriby.github.io/math.github.io/the-number-that-turned-sideways.html"
-    ]
-  ],
-  [
-    [
-      "2025-12-12, 15:46:44",
-      "https://news.ycombinator.com/item?id=46245211"
-    ],
-    [
-      "I couldn't find a logging library that worked for my library, so I made one",
-      "https://hackers.pub/@hongminhee/2025/logtape-fedify-case-study"
     ]
   ]
 ]
