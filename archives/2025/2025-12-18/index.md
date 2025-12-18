@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-12-18](index.md)
 
+* [2025-12-18, 21:02:10](https://news.ycombinator.com/item?id=46318676) - [Delty (YC X25) Is Hiring an ML Engineer](https://www.ycombinator.com/companies/delty/jobs/MDeC49o-machine-learning-engineer)
 * [2025-12-18, 20:52:38](https://news.ycombinator.com/item?id=46318544) - [Oliver Sacks put himself into his case studies – what was the cost?](https://www.newyorker.com/magazine/2025/12/15/oliver-sacks-put-himself-into-his-case-studies-what-was-the-cost)
 * [2025-12-18, 19:56:04](https://news.ycombinator.com/item?id=46317765) - [Interactive Fluid Typography](https://electricmagicfactory.com/articles/interactive-fluid-typography/)
 * [2025-12-18, 19:48:15](https://news.ycombinator.com/item?id=46317657) - [T5Gemma 2: The next generation of encoder-decoder models](https://blog.google/technology/developers/t5gemma-2/)
