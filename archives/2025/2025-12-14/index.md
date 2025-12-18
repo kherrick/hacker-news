@@ -49,6 +49,7 @@
 * [2025-12-14, 13:13:41](https://news.ycombinator.com/item?id=46262777) - [Vacuum Is a Lie: About Your Indexes](https://boringsql.com/posts/vacuum-is-lie/)
 * [2025-12-14, 13:04:34](https://news.ycombinator.com/item?id=46262734) - [Kimi K2 1T model runs on 2 512GB M3 Ultras](https://twitter.com/awnihannun/status/1943723599971443134)
 * [2025-12-14, 12:34:35](https://news.ycombinator.com/item?id=46262592) - [Baumol's Cost Disease](https://en.wikipedia.org/wiki/Baumol_effect)
+* [2025-12-14, 12:32:22](https://news.ycombinator.com/item?id=46262584) - [Fluent: A Localization System for Natural-Sounding Translations](https://projectfluent.org/)
 * [2025-12-14, 12:29:04](https://news.ycombinator.com/item?id=46262573) - [The World of OCR (C. 1960) [video]](https://www.youtube.com/watch?v=SekWFCZVLUk)
 * [2025-12-14, 12:18:59](https://news.ycombinator.com/item?id=46262545) - [The Gorman Paradox: Where Are All the AI-Generated Apps?](https://codemanship.wordpress.com/2025/12/14/the-gorman-paradox-where-are-all-the-ai-generated-apps/)
 * [2025-12-14, 12:15:09](https://news.ycombinator.com/item?id=46262524) - [Europeans' health data sold to US firm run by ex-Israeli spies](https://www.ftm.eu/articles/europe-health-data-us-firm-israel-spies)

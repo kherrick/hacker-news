@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-12-18, 11:50:06](https://news.ycombinator.com/item?id=46311558) - [A school locked down after AI flagged a gun. It was a clarinet](https://www.washingtonpost.com/nation/2025/12/17/ai-gun-school-detection/)
 * [2025-12-18, 11:21:15](https://news.ycombinator.com/item?id=46311355) - [Creating apps like Signal could be 'hostile activity' claims UK watchdog](https://www.techradar.com/vpn/vpn-privacy-security/creating-apps-like-signal-or-whatsapp-could-be-hostile-activity-claims-uk-watchdog)
 * [2025-12-18, 11:01:20](https://news.ycombinator.com/item?id=46311220) - [America's Dirtiest Carbon Polluters, Mapped to Ridiculous Precision](https://gizmodo.com/americas-dirtiest-carbon-polluters-mapped-to-ridiculous-precision-2000700924)
-* [2025-12-18, 10:51:24](https://news.ycombinator.com/item?id=46311144) - [We Let AI Run Our Office Vending Machine. It Lost Hundreds of Dollars](https://www.wsj.com/tech/ai/anthropic-claude-ai-vending-machine-agent-b7e84e34)
 * [2025-12-18, 10:44:29](https://news.ycombinator.com/item?id=46311092) - [Slowness Is a Virtue](https://blog.jakobschwichtenberg.com/p/slowness-is-a-virtue)
 * [2025-12-18, 10:27:05](https://news.ycombinator.com/item?id=46310976) - [After Ruining a Treasured Water Resource, Iran Is Drying Up](https://e360.yale.edu/features/iran-water-drought-dams-qanats)
 * [2025-12-18, 10:09:10](https://news.ycombinator.com/item?id=46310856) - [It's all about momentum](https://combo.cc/posts/its-all-about-momentum-innit/)
@@ -12,7 +12,6 @@
 * [2025-12-18, 08:12:42](https://news.ycombinator.com/item?id=46310104) - [RCE via ND6 Router Advertisements in FreeBSD](https://www.freebsd.org/security/advisories/FreeBSD-SA-25:12.rtsold.asc)
 * [2025-12-18, 06:40:29](https://news.ycombinator.com/item?id=46309571) - [What is an elliptic curve? (2019)](https://www.johndcook.com/blog/2019/02/21/what-is-an-elliptic-curve/)
 * [2025-12-18, 06:08:23](https://news.ycombinator.com/item?id=46309407) - [Egyptian Hieroglyphs: Lesson 1](https://www.egyptianhieroglyphs.net/egyptian-hieroglyphs/lesson-1/)
-* [2025-12-18, 05:06:33](https://news.ycombinator.com/item?id=46309061) - ['Ghost jobs' are on the rise – and so are calls to ban them](https://www.bbc.com/news/articles/clyzvpp8g3vo)
 * [2025-12-18, 04:27:53](https://news.ycombinator.com/item?id=46308893) - [Judge hints Vizio TV buyers may have rights to source code licensed under GPL](https://www.theregister.com/2025/12/05/vizio_gpl_source_code_ruling/)
 * [2025-12-18, 01:36:54](https://news.ycombinator.com/item?id=46307973) - [Ask HN: Those making $500/month on side projects in 2025 – Show and tell](https://news.ycombinator.com/item?id=46307973)
 * [2025-12-17, 23:58:40](https://news.ycombinator.com/item?id=46307306) - [Ask HN: Does anyone understand how Hacker News works?](https://news.ycombinator.com/item?id=46307306)
@@ -28,6 +27,7 @@
 * [2025-12-15, 17:10:08](https://news.ycombinator.com/item?id=46277233) - [Don MacKinnon: Why Simplicity Beats Cleverness in Software Design [audio]](https://maintainable.fm/episodes/don-mackinnon-why-simplicity-beats-cleverness-in-software-design)
 * [2025-12-15, 10:03:18](https://news.ycombinator.com/item?id=46272454) - [Building a High-Performance OpenAPI Parser in Go](https://www.speakeasy.com/blog/building-speakeasy-openapi-go-library)
 * [2025-12-15, 05:54:28](https://news.ycombinator.com/item?id=46270918) - [Working quickly is more important than it seems (2015)](https://jsomers.net/blog/speed-matters)
+* [2025-12-14, 12:32:22](https://news.ycombinator.com/item?id=46262584) - [Fluent: A Localization System for Natural-Sounding Translations](https://projectfluent.org/)
 * [2025-12-12, 13:25:16](https://news.ycombinator.com/item?id=46243901) - [Breaking Paragraphs into Lines [pdf] (1981)](https://gwern.net/doc/design/typography/tex/1981-knuth.pdf)
 * [2025-12-12, 04:24:34](https://news.ycombinator.com/item?id=46240855) - [Jonathan Blow has spent the past decade designing 1,400 puzzles for you](https://arstechnica.com/gaming/2025/12/jonathan-blow-has-spent-the-past-decade-designing-1400-puzzles-for-you/)
 
