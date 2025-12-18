@@ -74,6 +74,7 @@
 * [2025-12-15, 03:04:50](https://news.ycombinator.com/item?id=46269991) - [John Varley has died](http://floggingbabel.blogspot.com/2025/12/john-varley-1947-2025.html)
 * [2025-12-15, 03:04:19](https://news.ycombinator.com/item?id=46269985) - [Apples, Trees, and Quasimodes](https://systemstack.dev/2025/09/humane-computing/)
 * [2025-12-15, 02:51:24](https://news.ycombinator.com/item?id=46269891) - [SoundCloud just banned VPN access](https://old.reddit.com/r/SoundCloudMusic/comments/1pltd19/soundcloud_just_banned_vpn_access/)
+* [2025-12-15, 02:13:59](https://news.ycombinator.com/item?id=46269625) - [Hell is other people's markup](https://www.htmhell.dev/adventcalendar/2025/13/)
 * [2025-12-15, 01:57:54](https://news.ycombinator.com/item?id=46269507) - [The Big City; Save the Flophouses (1996)](https://www.nytimes.com/1996/01/14/magazine/the-big-city-save-the-flophouses.html)
 * [2025-12-15, 01:34:35](https://news.ycombinator.com/item?id=46269296) - [Mom and daughter find stranger in trunk of Waymo](https://abc7.com/post/los-angeles-viral-video-mom-daughter-find-stranger-trunk-waymo-macarthur-park/18286019/)
 * [2025-12-15, 00:45:38](https://news.ycombinator.com/item?id=46268911) - [SPhotonix – 360TB into 5-inch glass disc with femtosecond laser](https://www.tomshardware.com/pc-components/storage/sphotonix-pushes-5d-glass-storage-toward-data-center-pilots)
