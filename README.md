@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-12-18, 08:12:42](https://news.ycombinator.com/item?id=46310104) - [RCE via ND6 Router Advertisements in FreeBSD](https://www.freebsd.org/security/advisories/FreeBSD-SA-25:12.rtsold.asc)
 * [2025-12-18, 06:40:29](https://news.ycombinator.com/item?id=46309571) - [What is an elliptic curve? (2019)](https://www.johndcook.com/blog/2019/02/21/what-is-an-elliptic-curve/)
 * [2025-12-18, 06:33:51](https://news.ycombinator.com/item?id=46309536) - [Security vulnerability found in Rust Linux kernel code](https://git.kernel.org/pub/scm/linux/kernel/git/stable/linux.git/commit/?id=3e0ae02ba831da2b707905f4e602e43f8507b8cc)
 * [2025-12-18, 06:08:23](https://news.ycombinator.com/item?id=46309407) - [Egyptian Hieroglyphs: Lesson 1](https://www.egyptianhieroglyphs.net/egyptian-hieroglyphs/lesson-1/)
@@ -20,7 +21,6 @@
 * [2025-12-17, 17:13:03](https://news.ycombinator.com/item?id=46302337) - [A Safer Container Ecosystem with Docker: Free Docker Hardened Images](https://www.docker.com/blog/docker-hardened-images-for-every-developer/)
 * [2025-12-17, 17:08:35](https://news.ycombinator.com/item?id=46302267) - [AWS CEO says replacing junior devs with AI is 'one of the dumbest ideas'](https://www.finalroundai.com/blog/aws-ceo-ai-cannot-replace-junior-developers)
 * [2025-12-17, 16:48:18](https://news.ycombinator.com/item?id=46301921) - [Tell HN: HN was down](https://news.ycombinator.com/item?id=46301921)
-* [2025-12-17, 16:44:13](https://news.ycombinator.com/item?id=46301865) - [Launch HN: Kenobi (YC W22) – Personalize your website for every visitor](https://news.ycombinator.com/item?id=46301865)
 * [2025-12-17, 16:42:13](https://news.ycombinator.com/item?id=46301851) - [Gemini 3 Flash: Frontier intelligence built for speed](https://blog.google/products/gemini/gemini-3-flash/)
 * [2025-12-17, 12:45:40](https://news.ycombinator.com/item?id=46301346) - [Coursera to combine with Udemy](https://investor.coursera.com/news/news-details/2025/Coursera-to-Combine-with-Udemy-to-Empower-the-Global-Workforce-with-Skills-for-the-AI-Era/default.aspx)
 * [2025-12-16, 19:55:56](https://news.ycombinator.com/item?id=46293564) - [Show HN: I built a fast RSS reader in Zig](https://github.com/superstarryeyes/hys)
