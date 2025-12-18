@@ -17,7 +17,7 @@
 * [2025-12-18, 13:06:51](https://news.ycombinator.com/item?id=46312159) - [AI helps ship faster but it produces 1.7× more bugs](https://www.coderabbit.ai/blog/state-of-ai-vs-human-code-generation-report)
 * [2025-12-18, 12:28:45](https://news.ycombinator.com/item?id=46311856) - [Classical statues were not painted horribly](https://worksinprogress.co/issue/were-classical-statues-painted-horribly/)
 * [2025-12-18, 12:01:01](https://news.ycombinator.com/item?id=46311637) - [Hightouch (YC S19) Is Hiring](https://hightouch.com/careers)
-* [2025-12-18, 11:21:15](https://news.ycombinator.com/item?id=46311355) - [Creating apps like Signal could be 'hostile activity' claims UK watchdog](https://www.techradar.com/vpn/vpn-privacy-security/creating-apps-like-signal-or-whatsapp-could-be-hostile-activity-claims-uk-watchdog)
+* [2025-12-18, 11:21:15](https://news.ycombinator.com/item?id=46311355) - [Independent review of UK national security law warns of overreach](https://www.techradar.com/vpn/vpn-privacy-security/creating-apps-like-signal-or-whatsapp-could-be-hostile-activity-claims-uk-watchdog)
 * [2025-12-18, 10:44:29](https://news.ycombinator.com/item?id=46311092) - [Slowness is a virtue](https://blog.jakobschwichtenberg.com/p/slowness-is-a-virtue)
 * [2025-12-18, 10:27:05](https://news.ycombinator.com/item?id=46310976) - [After ruining a treasured water resource, Iran is drying up](https://e360.yale.edu/features/iran-water-drought-dams-qanats)
 * [2025-12-18, 08:12:42](https://news.ycombinator.com/item?id=46310104) - [RCE via ND6 Router Advertisements in FreeBSD](https://www.freebsd.org/security/advisories/FreeBSD-SA-25:12.rtsold.asc)
