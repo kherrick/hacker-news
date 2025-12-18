@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-12-18, 06:40:29](https://news.ycombinator.com/item?id=46309571) - [What Is an Elliptic Curve?](https://www.johndcook.com/blog/2019/02/21/what-is-an-elliptic-curve/)
+* [2025-12-18, 06:40:29](https://news.ycombinator.com/item?id=46309571) - [What is an elliptic curve? (2019)](https://www.johndcook.com/blog/2019/02/21/what-is-an-elliptic-curve/)
 * [2025-12-18, 06:33:51](https://news.ycombinator.com/item?id=46309536) - [Security vulnerability found in Rust Linux kernel code](https://git.kernel.org/pub/scm/linux/kernel/git/stable/linux.git/commit/?id=3e0ae02ba831da2b707905f4e602e43f8507b8cc)
-* [2025-12-18, 06:08:23](https://news.ycombinator.com/item?id=46309407) - [Learn Egyptian Hieroglyphs](https://www.egyptianhieroglyphs.net/egyptian-hieroglyphs/lesson-1/)
+* [2025-12-18, 06:08:23](https://news.ycombinator.com/item?id=46309407) - [Egyptian Hieroglyphs: Lesson 1](https://www.egyptianhieroglyphs.net/egyptian-hieroglyphs/lesson-1/)
 * [2025-12-18, 05:20:41](https://news.ycombinator.com/item?id=46309124) - [More than half of researchers now use AI for peer review, often against guidance](https://www.nature.com/articles/d41586-025-04066-5)
 * [2025-12-18, 05:06:33](https://news.ycombinator.com/item?id=46309061) - ['Ghost jobs' are on the rise – and so are calls to ban them](https://www.bbc.com/news/articles/clyzvpp8g3vo)
 * [2025-12-18, 04:27:53](https://news.ycombinator.com/item?id=46308893) - [Judge hints Vizio TV buyers may have rights to source code licensed under GPL](https://www.theregister.com/2025/12/05/vizio_gpl_source_code_ruling/)
@@ -28,8 +28,8 @@
 * [2025-12-15, 05:54:28](https://news.ycombinator.com/item?id=46270918) - [Working quickly is more important than it seems (2015)](https://jsomers.net/blog/speed-matters)
 * [2025-12-14, 21:04:25](https://news.ycombinator.com/item?id=46266867) - [Feather Detective (2016)](https://www.audubon.org/magazine/behind-scenes-worlds-top-feather-detective)
 * [2025-12-14, 15:42:03](https://news.ycombinator.com/item?id=46263821) - [Zmij: Faster floating point double-to-string conversion](https://vitaut.net/posts/2025/faster-dtoa/)
-* [2025-12-13, 18:56:48](https://news.ycombinator.com/item?id=46256946) - [Fast SEQUENCE iteration in Common Lisp](https://world-playground-deceit.net/blog/2025/12/fast-sequence-iteration-in-common-lisp.html)
 * [2025-12-13, 11:34:05](https://news.ycombinator.com/item?id=46253836) - [The Number That Turned Sideways](https://zuriby.github.io/math.github.io/the-number-that-turned-sideways.html)
+* [2025-12-12, 15:24:08](https://news.ycombinator.com/item?id=46244973) - [Oasis: Pooling PCIe Devices over CXL to Boost Utilization](https://dl.acm.org/doi/10.1145/3731569.3764812)
 
 ## [Archives](archives/index.md)
 
