@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-12-18, 19:08:48",
+      "https://news.ycombinator.com/item?id=46317098"
+    ],
+    [
+      "We pwned X, Vercel, Cursor, and Discord through a supply-chain attack",
+      "https://gist.github.com/hackermondev/5e2cdc32849405fff6b46957747a2d28"
+    ]
+  ],
+  [
+    [
       "2025-12-18, 19:02:22",
       "https://news.ycombinator.com/item?id=46317012"
     ],
@@ -87,16 +97,6 @@
     [
       "Launch HN: Pulse (YC S24) – Production-grade unstructured document extraction",
       "https://news.ycombinator.com/item?id=46313930"
-    ]
-  ],
-  [
-    [
-      "2025-12-18, 15:00:32",
-      "https://news.ycombinator.com/item?id=46313379"
-    ],
-    [
-      "Using TypeScript to Obtain One of the Rarest License Plates",
-      "https://www.jack.bio/blog/licenseplate"
     ]
   ],
   [
