@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-12-18, 08:18:46",
+      "https://news.ycombinator.com/item?id=46310146"
+    ],
+    [
+      "GitHub Actions for Self-Hosted Runners Price Increase Postponed",
+      "https://pricetimeline.com/news/189"
+    ]
+  ],
+  [
+    [
       "2025-12-18, 08:12:42",
       "https://news.ycombinator.com/item?id=46310104"
     ],
@@ -137,16 +147,6 @@
     [
       "OBS Studio Gets a New Renderer",
       "https://obsproject.com/blog/obs-studio-gets-a-new-renderer"
-    ]
-  ],
-  [
-    [
-      "2025-12-17, 20:50:13",
-      "https://news.ycombinator.com/item?id=46305321"
-    ],
-    [
-      "Inside PostHog: SSRF, ClickHouse SQL Escape and Default Postgres Creds to RCE",
-      "https://mdisec.com/inside-posthog-how-ssrf-a-clickhouse-sql-escaping-0day-and-default-postgresql-credentials-formed-an-rce-chain-zdi-25-099-zdi-25-097-zdi-25-096/"
     ]
   ],
   [
