@@ -1,12 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-12-18, 15:45:42](https://news.ycombinator.com/item?id=46314109) - [Valve Is Running Apple's Playbook in Reverse](https://www.garbagecollected.dev/p/valve-the-reverse-apple)
+* [2025-12-18, 17:12:46](https://news.ycombinator.com/item?id=46315547) - [Military Standard on Software Control Levels](https://entropicthoughts.com/mil-std-882e-software-control)
 * [2025-12-18, 15:39:09](https://news.ycombinator.com/item?id=46313991) - [Beginning January 2026, all ACM publications will be made open access](https://dl.acm.org/openaccess)
 * [2025-12-18, 15:35:52](https://news.ycombinator.com/item?id=46313930) - [Launch HN: Pulse (YC S24) – Production-grade unstructured document extraction](https://news.ycombinator.com/item?id=46313930)
 * [2025-12-18, 15:23:05](https://news.ycombinator.com/item?id=46313693) - [Heart and Kidney Diseases and Type 2 Diabetes May Be One Ailment](https://www.scientificamerican.com/article/heart-and-kidney-diseases-plus-type-2-diabetes-may-be-one-illness-treatable/)
 * [2025-12-18, 15:00:32](https://news.ycombinator.com/item?id=46313379) - [Using TypeScript to Obtain One of the Rarest License Plates](https://www.jack.bio/blog/licenseplate)
 * [2025-12-18, 14:52:11](https://news.ycombinator.com/item?id=46313297) - [Your job is to deliver code you have proven to work](https://simonwillison.net/2025/Dec/18/code-proven-to-work/)
-* [2025-12-18, 14:49:24](https://news.ycombinator.com/item?id=46313266) - [Spain fines Airbnb €65M: Why the government is cracking down on illegal rentals](https://www.euronews.com/travel/2025/12/15/spain-fines-airbnb-65-million-why-the-government-is-cracking-down-on-illegal-rentals)
 * [2025-12-18, 14:26:57](https://news.ycombinator.com/item?id=46313061) - [Are Apple gift cards safe to redeem?](https://daringfireball.net/linked/2025/12/17/are-apple-gift-cards-safe-to-redeem)
 * [2025-12-18, 14:24:26](https://news.ycombinator.com/item?id=46313033) - [systemd v259 Released](https://github.com/systemd/systemd/releases/tag/v259)
 * [2025-12-18, 14:18:52](https://news.ycombinator.com/item?id=46312973) - [Please Just Try Htmx](http://pleasejusttryhtmx.com/)
@@ -28,6 +27,7 @@
 * [2025-12-15, 01:57:54](https://news.ycombinator.com/item?id=46269507) - [The Big City; Save the Flophouses (1996)](https://www.nytimes.com/1996/01/14/magazine/the-big-city-save-the-flophouses.html)
 * [2025-12-14, 11:16:52](https://news.ycombinator.com/item?id=46262294) - [Show HN: A local-first memory store for LLM agents (SQLite)](https://github.com/CaviraOSS/OpenMemory)
 * [2025-12-14, 10:08:42](https://news.ycombinator.com/item?id=46262031) - [Dogalog: A realtime Prolog-based livecoding music environment](https://github.com/danja/dogalog)
+* [2025-12-14, 06:50:34](https://news.ycombinator.com/item?id=46261260) - [Microscopic robots that sense, think, act, and compute](https://www.science.org/doi/10.1126/scirobotics.adu8009)
 * [2025-12-13, 22:04:13](https://news.ycombinator.com/item?id=46258583) - [From profiling to kernel patch: the journey to an eBPF performance fix](https://rovarma.com/articles/from-profiling-to-kernel-patch-the-journey-to-an-ebpf-performance-fix/)
 * [2025-12-12, 04:24:34](https://news.ycombinator.com/item?id=46240855) - [Jonathan Blow has spent the past decade designing 1,400 puzzles for you](https://arstechnica.com/gaming/2025/12/jonathan-blow-has-spent-the-past-decade-designing-1400-puzzles-for-you/)
 

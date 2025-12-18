@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-12-18](index.md)
 
+* [2025-12-18, 17:12:46](https://news.ycombinator.com/item?id=46315547) - [Military Standard on Software Control Levels](https://entropicthoughts.com/mil-std-882e-software-control)
 * [2025-12-18, 15:45:42](https://news.ycombinator.com/item?id=46314109) - [Valve Is Running Apple's Playbook in Reverse](https://www.garbagecollected.dev/p/valve-the-reverse-apple)
 * [2025-12-18, 15:39:09](https://news.ycombinator.com/item?id=46313991) - [Beginning January 2026, all ACM publications will be made open access](https://dl.acm.org/openaccess)
 * [2025-12-18, 15:35:52](https://news.ycombinator.com/item?id=46313930) - [Launch HN: Pulse (YC S24) – Production-grade unstructured document extraction](https://news.ycombinator.com/item?id=46313930)
