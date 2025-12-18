@@ -55,6 +55,7 @@
 * [2025-12-14, 12:15:09](https://news.ycombinator.com/item?id=46262524) - [Europeans' health data sold to US firm run by ex-Israeli spies](https://www.ftm.eu/articles/europe-health-data-us-firm-israel-spies)
 * [2025-12-14, 12:04:44](https://news.ycombinator.com/item?id=46262480) - [Efficient Basic Coding for the ZX Spectrum](https://blog.jafma.net/2020/02/24/efficient-basic-coding-for-the-zx-spectrum/)
 * [2025-12-14, 11:16:52](https://news.ycombinator.com/item?id=46262294) - [Show HN: A local-first memory store for LLM agents (SQLite)](https://github.com/CaviraOSS/OpenMemory)
+* [2025-12-14, 10:08:42](https://news.ycombinator.com/item?id=46262031) - [Dogalog: A realtime Prolog-based livecoding music environment](https://github.com/danja/dogalog)
 * [2025-12-14, 10:07:47](https://news.ycombinator.com/item?id=46262025) - [University life: From 50 years ago to now (2019)](https://www.timeshighereducation.com/student/blogs/university-life-50-years-ago-now)
 * [2025-12-14, 10:07:00](https://news.ycombinator.com/item?id=46262021) - [Shai-Hulud compromised a dev machine and raided GitHub org access: a post-mortem](https://trigger.dev/blog/shai-hulud-postmortem)
 * [2025-12-14, 10:01:25](https://news.ycombinator.com/item?id=46261998) - [Willison on Merchant's \"Copywriters reveal how AI has decimated their industry\"](https://simonwillison.net/2025/Dec/14/copywriters-reveal-how-ai-has-decimated-their-industry/)
