@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-12-18, 01:36:54](https://news.ycombinator.com/item?id=46307973) - [Ask HN: Those making $500/month on side projects in 2025 – Show and tell](https://news.ycombinator.com/item?id=46307973)
 * [2025-12-18, 00:25:43](https://news.ycombinator.com/item?id=46307500) - [TikTok unlawfully tracks shopping habits and use of dating apps?](https://noyb.eu/en/tiktok-unlawfully-tracks-your-shopping-habits-and-your-use-dating-apps)
 * [2025-12-17, 23:29:48](https://news.ycombinator.com/item?id=46307055) - [Explaining the Widening Divides in US Midlife Mortality: Is There a Smoking Gun?](https://www.nber.org/papers/w34553)
 * [2025-12-17, 23:11:14](https://news.ycombinator.com/item?id=46306894) - [Gut bacteria from amphibians and reptiles achieve tumor elimination in mice](https://www.jaist.ac.jp/english/whatsnew/press/2025/12/17-1.html)
@@ -22,12 +23,11 @@
 * [2025-12-17, 16:42:13](https://news.ycombinator.com/item?id=46301851) - [Gemini 3 Flash: Frontier intelligence built for speed](https://blog.google/products/gemini/gemini-3-flash/)
 * [2025-12-17, 13:25:06](https://news.ycombinator.com/item?id=46301696) - [Learning Fortran (2024)](https://uncenter.dev/posts/learning-fortran/)
 * [2025-12-17, 12:45:40](https://news.ycombinator.com/item?id=46301346) - [Coursera to combine with Udemy](https://investor.coursera.com/news/news-details/2025/Coursera-to-Combine-with-Udemy-to-Empower-the-Global-Workforce-with-Skills-for-the-AI-Era/default.aspx)
-* [2025-12-16, 00:50:41](https://news.ycombinator.com/item?id=46283276) - [Thin desires are eating life](https://www.joanwestenberg.com/thin-desires-are-eating-your-life/)
 * [2025-12-15, 05:54:28](https://news.ycombinator.com/item?id=46270918) - [Working quickly is more important than it seems (2015)](https://jsomers.net/blog/speed-matters)
 * [2025-12-14, 21:17:01](https://news.ycombinator.com/item?id=46267015) - [A Cosmic Offense: Elias Canetti's contest against death](https://www.commonwealmagazine.org/cosmic-offense)
 * [2025-12-14, 18:55:30](https://news.ycombinator.com/item?id=46265684) - [My payment agent is named George, not stripe-agent](https://blog.kestrelsnest.social/posts/2025-12-14-why-my-payment-agent-is-named-george-not-stripe-agent/)
 * [2025-12-14, 15:42:03](https://news.ycombinator.com/item?id=46263821) - [Zmij: Faster floating point double-to-string conversion](https://vitaut.net/posts/2025/faster-dtoa/)
-* [2025-12-13, 19:25:03](https://news.ycombinator.com/item?id=46257147) - [I created a publishing system for step-by-step coding guides in Typst](https://press.knowledge.dev/p/new-150-pages-rust-guide-create-a)
+* [2025-12-14, 12:29:04](https://news.ycombinator.com/item?id=46262573) - [The World of OCR (C. 1960) [video]](https://www.youtube.com/watch?v=SekWFCZVLUk)
 * [2025-12-13, 18:56:48](https://news.ycombinator.com/item?id=46256946) - [Fast SEQUENCE iteration in Common Lisp](https://world-playground-deceit.net/blog/2025/12/fast-sequence-iteration-in-common-lisp.html)
 * [2025-12-13, 11:34:05](https://news.ycombinator.com/item?id=46253836) - [The Number That Turned Sideways](https://zuriby.github.io/math.github.io/the-number-that-turned-sideways.html)
 
