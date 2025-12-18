@@ -49,6 +49,7 @@
 * [2025-12-12, 14:20:20](https://news.ycombinator.com/item?id=46244378) - [BpfJailer: eBPF Mandatory Access Control [pdf]](https://lpc.events/event/19/contributions/2159/attachments/1833/3929/BpfJailer%20LPC%202025.pdf)
 * [2025-12-12, 14:18:10](https://news.ycombinator.com/item?id=46244362) - [Checkers Arcade](https://blog.fogus.me/games/checkers-arcade.html)
 * [2025-12-12, 13:25:19](https://news.ycombinator.com/item?id=46243904) - [SQLite JSON at Full Index Speed Using Generated Columns](https://www.dbpro.app/blog/sqlite-json-virtual-columns-indexing)
+* [2025-12-12, 13:25:16](https://news.ycombinator.com/item?id=46243901) - [Breaking Paragraphs into Lines [pdf]](https://gwern.net/doc/design/typography/tex/1981-knuth.pdf)
 * [2025-12-12, 13:23:31](https://news.ycombinator.com/item?id=46243883) - [Fedora: Open-source repository for long-term digital preservation](https://fedorarepository.org/)
 * [2025-12-12, 13:17:51](https://news.ycombinator.com/item?id=46243848) - [Why Isn't Online Age Verification Just Like Showing Your ID in Person?](https://www.eff.org/deeplinks/2025/12/why-isnt-online-age-verification-just-showing-your-id-person)
 * [2025-12-12, 12:51:58](https://news.ycombinator.com/item?id=46243658) - [Show HN: Epstein's emails reconstructed in a message-style UI (OCR and LLMs)](https://github.com/Toon-nooT/epsteins-phone-reconstructed)

@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-12-18](index.md)
 
+* [2025-12-18, 10:51:24](https://news.ycombinator.com/item?id=46311144) - [We Let AI Run Our Office Vending Machine. It Lost Hundreds of Dollars](https://www.wsj.com/tech/ai/anthropic-claude-ai-vending-machine-agent-b7e84e34)
+* [2025-12-18, 10:44:29](https://news.ycombinator.com/item?id=46311092) - [Slowness Is a Virtue](https://blog.jakobschwichtenberg.com/p/slowness-is-a-virtue)
+* [2025-12-18, 10:27:05](https://news.ycombinator.com/item?id=46310976) - [After Ruining a Treasured Water Resource, Iran Is Drying Up](https://e360.yale.edu/features/iran-water-drought-dams-qanats)
 * [2025-12-18, 10:09:10](https://news.ycombinator.com/item?id=46310856) - [It's all about momentum](https://combo.cc/posts/its-all-about-momentum-innit/)
 * [2025-12-18, 10:03:42](https://news.ycombinator.com/item?id=46310823) - [How getting richer made teenagers less free](https://www.theargumentmag.com/p/how-getting-richer-made-teenagers)
 * [2025-12-18, 09:40:07](https://news.ycombinator.com/item?id=46310650) - [Online Textbook for Braid groups and knots and tangles](https://matthematics.com/redoak/redoak.html)
