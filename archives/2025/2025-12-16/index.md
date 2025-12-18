@@ -16,6 +16,7 @@
 * [2025-12-16, 21:03:25](https://news.ycombinator.com/item?id=46294440) - [Show HN: Deterministic PCIe Diagnostics for GPUs on Linux](https://github.com/parallelArchitect/gpu-pcie-diagnostic)
 * [2025-12-16, 20:52:45](https://news.ycombinator.com/item?id=46294289) - [Ty: A fast Python type checker and LSP](https://astral.sh/blog/ty)
 * [2025-12-16, 20:51:27](https://news.ycombinator.com/item?id=46294274) - [Letta Code](https://www.letta.com/blog/letta-code)
+* [2025-12-16, 19:55:56](https://news.ycombinator.com/item?id=46293564) - [Show HN: I built a fast RSS reader in Zig](https://github.com/superstarryeyes/hys)
 * [2025-12-16, 19:20:17](https://news.ycombinator.com/item?id=46293062) - [No Graphics API](https://www.sebastianaaltonen.com/blog/no-graphics-api)
 * [2025-12-16, 18:32:46](https://news.ycombinator.com/item?id=46292365) - [Too Fast to Think: The Hidden Fatigue of AI Vibe Coding](https://www.tabulamag.com/p/too-fast-to-think-the-hidden-fatigue)
 * [2025-12-16, 18:07:07](https://news.ycombinator.com/item?id=46291941) - [GPT Image 1.5](https://openai.com/index/new-chatgpt-images-is-here/)

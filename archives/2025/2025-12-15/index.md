@@ -31,6 +31,7 @@
 * [2025-12-15, 17:27:03](https://news.ycombinator.com/item?id=46277477) - [Show HN: 100 Million splats, a whole town, rendered in M2 MacBook Air](https://twitter.com/AKurian001/status/1986979144014701026)
 * [2025-12-15, 17:21:20](https://news.ycombinator.com/item?id=46277381) - [Break up bad companies; replace bad union bosses](https://pluralistic.net/2025/12/15/class-war-labor-peace/)
 * [2025-12-15, 17:19:24](https://news.ycombinator.com/item?id=46277353) - [US Tech Force](https://techforce.gov/)
+* [2025-12-15, 17:10:08](https://news.ycombinator.com/item?id=46277233) - [Don MacKinnon: Why Simplicity Beats Cleverness in Software Design [audio]](https://maintainable.fm/episodes/don-mackinnon-why-simplicity-beats-cleverness-in-software-design)
 * [2025-12-15, 17:01:42](https://news.ycombinator.com/item?id=46277090) - [Cosmic-ray bath in a past supernova gives birth to Earth-like planets](https://www.science.org/doi/10.1126/sciadv.adx7892)
 * [2025-12-15, 16:53:49](https://news.ycombinator.com/item?id=46276977) - [Even in a Populist Moment, Democrats Are Split on the Problem of Corporate Power](https://www.thebignewsletter.com/p/even-in-a-populist-moment-democrats)
 * [2025-12-15, 16:46:10](https://news.ycombinator.com/item?id=46276875) - [Former CIA spy: agency's tools can takeover your phone, TV, and even your car](https://currentindia.com/channels/timesofindia/toi-world/yes-they-can-former-cia-spy-warns-agencys-tools-can-takeover-your-phone-tv-and-even-your-car/)
