@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-12-18, 21:16:25](https://news.ycombinator.com/item?id=46318852) - [Two Kinds of Vibe Coding](https://davidbau.com/archives/2025/12/16/vibe_coding.html)
 * [2025-12-18, 21:02:10](https://news.ycombinator.com/item?id=46318676) - [Delty (YC X25) Is Hiring an ML Engineer](https://www.ycombinator.com/companies/delty/jobs/MDeC49o-machine-learning-engineer)
 * [2025-12-18, 20:52:38](https://news.ycombinator.com/item?id=46318544) - [Oliver Sacks put himself into his case studies – what was the cost?](https://www.newyorker.com/magazine/2025/12/15/oliver-sacks-put-himself-into-his-case-studies-what-was-the-cost)
 * [2025-12-18, 19:56:04](https://news.ycombinator.com/item?id=46317765) - [Interactive Fluid Typography](https://electricmagicfactory.com/articles/interactive-fluid-typography/)
@@ -12,6 +11,7 @@
 * [2025-12-18, 18:26:52](https://news.ycombinator.com/item?id=46316533) - [FunctionGemma 270M Model](https://blog.google/technology/developers/functiongemma/)
 * [2025-12-18, 18:18:30](https://news.ycombinator.com/item?id=46316409) - [Firefox will have an option to disable all AI features](https://mastodon.social/@firefoxwebdevs/115740500373677782)
 * [2025-12-18, 18:14:48](https://news.ycombinator.com/item?id=46316367) - [GPT-5.2-Codex](https://openai.com/index/introducing-gpt-5-2-codex/)
+* [2025-12-18, 17:12:46](https://news.ycombinator.com/item?id=46315547) - [Military standard on software control levels](https://entropicthoughts.com/mil-std-882e-software-control)
 * [2025-12-18, 17:04:32](https://news.ycombinator.com/item?id=46315414) - [Skills for organizations, partners, the ecosystem](https://claude.com/blog/organization-skills-and-directory)
 * [2025-12-18, 15:39:09](https://news.ycombinator.com/item?id=46313991) - [Beginning January 2026, all ACM publications will be made open access](https://dl.acm.org/openaccess)
 * [2025-12-18, 15:35:52](https://news.ycombinator.com/item?id=46313930) - [Launch HN: Pulse (YC S24) – Production-grade unstructured document extraction](https://news.ycombinator.com/item?id=46313930)
