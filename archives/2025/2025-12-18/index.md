@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-12-18](index.md)
 
+* [2025-12-18, 08:18:46](https://news.ycombinator.com/item?id=46310146) - [GitHub Actions for Self-Hosted Runners Price Increase Postponed](https://pricetimeline.com/news/189)
 * [2025-12-18, 08:12:42](https://news.ycombinator.com/item?id=46310104) - [RCE via ND6 Router Advertisements in FreeBSD](https://www.freebsd.org/security/advisories/FreeBSD-SA-25:12.rtsold.asc)
 * [2025-12-18, 06:40:29](https://news.ycombinator.com/item?id=46309571) - [What Is an Elliptic Curve?](https://www.johndcook.com/blog/2019/02/21/what-is-an-elliptic-curve/)
 * [2025-12-18, 06:33:51](https://news.ycombinator.com/item?id=46309536) - [Security vulnerability found in Rust Linux kernel code](https://git.kernel.org/pub/scm/linux/kernel/git/stable/linux.git/commit/?id=3e0ae02ba831da2b707905f4e602e43f8507b8cc)
