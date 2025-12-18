@@ -5,9 +5,11 @@
 ### [Archives](../../index.md) for [2025-12-18](index.md)
 
 * [2025-12-18, 18:18:30](https://news.ycombinator.com/item?id=46316409) - [Firefox will have an option to disable all AI features](https://mastodon.social/@firefoxwebdevs/115740500373677782)
+* [2025-12-18, 18:15:12](https://news.ycombinator.com/item?id=46316370) - [MIT nuclear science professor Nuno Loureiro found shot dead in home in Mass](https://nypost.com/2025/12/16/us-news/mit-nuclear-science-professor-found-shot-dead-in-home-in-swanky-mass-neighborhood/)
 * [2025-12-18, 18:14:48](https://news.ycombinator.com/item?id=46316367) - [GPT-5.2-Codex](https://openai.com/index/introducing-gpt-5-2-codex/)
 * [2025-12-18, 17:12:46](https://news.ycombinator.com/item?id=46315547) - [Military Standard on Software Control Levels](https://entropicthoughts.com/mil-std-882e-software-control)
 * [2025-12-18, 17:04:32](https://news.ycombinator.com/item?id=46315414) - [Agent Skills is now an open standard](https://claude.com/blog/organization-skills-and-directory)
+* [2025-12-18, 16:44:11](https://news.ycombinator.com/item?id=46315047) - [Show HN: Paper2Any – Open tool to generate editable PPTs from research papers](https://github.com/OpenDCAI/DataFlow-Agent)
 * [2025-12-18, 15:45:42](https://news.ycombinator.com/item?id=46314109) - [Valve Is Running Apple's Playbook in Reverse](https://www.garbagecollected.dev/p/valve-the-reverse-apple)
 * [2025-12-18, 15:39:09](https://news.ycombinator.com/item?id=46313991) - [Beginning January 2026, all ACM publications will be made open access](https://dl.acm.org/openaccess)
 * [2025-12-18, 15:35:52](https://news.ycombinator.com/item?id=46313930) - [Launch HN: Pulse (YC S24) – Production-grade unstructured document extraction](https://news.ycombinator.com/item?id=46313930)
