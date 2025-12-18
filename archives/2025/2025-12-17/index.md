@@ -26,6 +26,8 @@
 * [2025-12-17, 19:35:56](https://news.ycombinator.com/item?id=46304413) - [Show HN: High-Performance Wavelet Matrix for Python, Implemented in Rust](https://pypi.org/project/wavelet-matrix/)
 * [2025-12-17, 19:33:20](https://news.ycombinator.com/item?id=46304379) - [GitHub postponing the announced billing change for self-hosted GitHub Actions](https://twitter.com/jaredpalmer/status/2001373329811181846)
 * [2025-12-17, 19:19:19](https://news.ycombinator.com/item?id=46304199) - [Show HN: GitForms – Zero-cost contact forms using GitHub Issues as database](https://gitforms-landing.vercel.app/)
+* [2025-12-17, 19:19:00](https://news.ycombinator.com/item?id=46304195) - [How the RESISTORS put computing into 1960s counter-culture](https://spectrum.ieee.org/teenage-hackers)
+* [2025-12-17, 18:25:29](https://news.ycombinator.com/item?id=46303406) - [How did IRC ping timeouts end up in a lawsuit?](https://mjg59.dreamwidth.org/73777.html)
 * [2025-12-17, 18:16:58](https://news.ycombinator.com/item?id=46303291) - [Hack Reveals the A16Z-Backed Phone Farm Flooding TikTok with AI Influencers](https://www.404media.co/hack-reveals-the-a16z-backed-phone-farm-flooding-tiktok-with-ai-influencers/)
 * [2025-12-17, 18:15:38](https://news.ycombinator.com/item?id=46303277) - [How SQLite Is Tested](https://sqlite.org/testing.html)
 * [2025-12-17, 18:14:33](https://news.ycombinator.com/item?id=46303260) - [FCC chair suggests agency isn't independent, word cut from mission statement](https://www.axios.com/2025/12/17/brendan-carr-fcc-independent-senate-testimony-website)

@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2025-12-18](index.md)
 
+* [2025-12-18, 19:17:02](https://news.ycombinator.com/item?id=46317199) - [Public Makes Millions on Plunging Crypto](https://cepr.net/publications/public-makes-trillions-on-plunging-crypto/)
 * [2025-12-18, 19:08:48](https://news.ycombinator.com/item?id=46317098) - [We pwned X, Vercel, Cursor, and Discord through a supply-chain attack](https://gist.github.com/hackermondev/5e2cdc32849405fff6b46957747a2d28)
 * [2025-12-18, 19:02:22](https://news.ycombinator.com/item?id=46317012) - [Top Banned Books: The Most Banned Books in U.S. Schools – Pen America](https://pen.org/top-52-banned-books-since-2021/)
+* [2025-12-18, 18:55:34](https://news.ycombinator.com/item?id=46316907) - [How China built its ‘Manhattan Project’ to rival the West in AI chips](https://www.japantimes.co.jp/business/2025/12/18/tech/china-west-ai-chips/)
 * [2025-12-18, 18:26:52](https://news.ycombinator.com/item?id=46316533) - [FunctionGemma 270M Model](https://blog.google/technology/developers/functiongemma/)
 * [2025-12-18, 18:18:30](https://news.ycombinator.com/item?id=46316409) - [Firefox will have an option to disable all AI features](https://mastodon.social/@firefoxwebdevs/115740500373677782)
 * [2025-12-18, 18:15:12](https://news.ycombinator.com/item?id=46316370) - [MIT nuclear science professor Nuno Loureiro found shot dead in home in Mass](https://nypost.com/2025/12/16/us-news/mit-nuclear-science-professor-found-shot-dead-in-home-in-swanky-mass-neighborhood/)
@@ -24,6 +26,7 @@
 * [2025-12-18, 14:24:26](https://news.ycombinator.com/item?id=46313033) - [systemd v259 Released](https://github.com/systemd/systemd/releases/tag/v259)
 * [2025-12-18, 14:18:52](https://news.ycombinator.com/item?id=46312973) - [Please Just Try Htmx](http://pleasejusttryhtmx.com/)
 * [2025-12-18, 14:04:03](https://news.ycombinator.com/item?id=46312792) - [Virtualizing Nvidia HGX B200 GPUs with Open Source](https://www.ubicloud.com/blog/virtualizing-nvidia-hgx-b200-gpus-with-open-source)
+* [2025-12-18, 13:39:41](https://news.ycombinator.com/item?id=46312481) - [Partial Inlining](https://xania.org/202512/18-partial-inlining)
 * [2025-12-18, 13:06:51](https://news.ycombinator.com/item?id=46312159) - [AI helps ship faster but it produces 1.7× more bugs](https://www.coderabbit.ai/blog/state-of-ai-vs-human-code-generation-report)
 * [2025-12-18, 12:50:23](https://news.ycombinator.com/item?id=46312021) - [Most Parked Domains Now Serving Malicious Content](https://krebsonsecurity.com/2025/12/most-parked-domains-now-serving-malicious-content/)
 * [2025-12-18, 12:28:45](https://news.ycombinator.com/item?id=46311856) - [Classical statues were not painted horribly](https://worksinprogress.co/issue/were-classical-statues-painted-horribly/)
