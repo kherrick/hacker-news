@@ -28,6 +28,7 @@
 * [2025-12-15, 19:07:10](https://news.ycombinator.com/item?id=46278857) - [D-Bus is a disgrace to the Linux desktop](https://blog.vaxry.net/articles/2025-dbusSucks)
 * [2025-12-15, 18:19:20](https://news.ycombinator.com/item?id=46278232) - [Australia's Social Media Ban Was Pushed by Gambling Ad Agency](https://www.techdirt.com/2025/12/15/australias-social-media-ban-was-pushed-by-ad-agency-focused-on-gambling-ads-it-didnt-want-banned/)
 * [2025-12-15, 18:16:34](https://news.ycombinator.com/item?id=46278208) - [Chafa: Terminal Graphics for the 21st Century](https://hpjansson.org/chafa/)
+* [2025-12-15, 17:40:00](https://news.ycombinator.com/item?id=46277681) - [Opencoil – appropriating inductive charging pads in the wild (2020) [video]](https://media.ccc.de/v/rc3-11575-opencoil_a_roaming_speedshow)
 * [2025-12-15, 17:27:03](https://news.ycombinator.com/item?id=46277477) - [Show HN: 100 Million splats, a whole town, rendered in M2 MacBook Air](https://twitter.com/AKurian001/status/1986979144014701026)
 * [2025-12-15, 17:21:20](https://news.ycombinator.com/item?id=46277381) - [Break up bad companies; replace bad union bosses](https://pluralistic.net/2025/12/15/class-war-labor-peace/)
 * [2025-12-15, 17:19:24](https://news.ycombinator.com/item?id=46277353) - [US Tech Force](https://techforce.gov/)
