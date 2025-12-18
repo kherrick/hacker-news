@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-12-18, 14:49:24](https://news.ycombinator.com/item?id=46313266) - [Spain fines Airbnb €65M: Why the government is cracking down on illegal rentals](https://www.euronews.com/travel/2025/12/15/spain-fines-airbnb-65-million-why-the-government-is-cracking-down-on-illegal-rentals)
+* [2025-12-18, 14:26:57](https://news.ycombinator.com/item?id=46313061) - [Are Apple Gift Cards Safe to Redeem?](https://daringfireball.net/linked/2025/12/17/are-apple-gift-cards-safe-to-redeem)
 * [2025-12-18, 14:04:03](https://news.ycombinator.com/item?id=46312792) - [Virtualizing Nvidia HGX B200 GPUs with Open Source](https://www.ubicloud.com/blog/virtualizing-nvidia-hgx-b200-gpus-with-open-source)
 * [2025-12-18, 12:50:23](https://news.ycombinator.com/item?id=46312021) - [Most parked domains now serving malicious content](https://krebsonsecurity.com/2025/12/most-parked-domains-now-serving-malicious-content/)
 * [2025-12-18, 12:28:45](https://news.ycombinator.com/item?id=46311856) - [Classical statues were not painted horribly](https://worksinprogress.co/issue/were-classical-statues-painted-horribly/)
@@ -9,7 +11,6 @@
 * [2025-12-18, 10:44:29](https://news.ycombinator.com/item?id=46311092) - [Slowness is a virtue](https://blog.jakobschwichtenberg.com/p/slowness-is-a-virtue)
 * [2025-12-18, 10:27:05](https://news.ycombinator.com/item?id=46310976) - [After ruining a treasured water resource, Iran is drying up](https://e360.yale.edu/features/iran-water-drought-dams-qanats)
 * [2025-12-18, 10:09:10](https://news.ycombinator.com/item?id=46310856) - [It's all about momentum](https://combo.cc/posts/its-all-about-momentum-innit/)
-* [2025-12-18, 10:03:42](https://news.ycombinator.com/item?id=46310823) - [How getting richer made teenagers less free](https://www.theargumentmag.com/p/how-getting-richer-made-teenagers)
 * [2025-12-18, 09:40:07](https://news.ycombinator.com/item?id=46310650) - [Online Textbook for Braid groups and knots and tangles](https://matthematics.com/redoak/redoak.html)
 * [2025-12-18, 08:12:42](https://news.ycombinator.com/item?id=46310104) - [RCE via ND6 Router Advertisements in FreeBSD](https://www.freebsd.org/security/advisories/FreeBSD-SA-25:12.rtsold.asc)
 * [2025-12-18, 06:40:29](https://news.ycombinator.com/item?id=46309571) - [What is an elliptic curve? (2019)](https://www.johndcook.com/blog/2019/02/21/what-is-an-elliptic-curve/)
@@ -23,7 +24,6 @@
 * [2025-12-17, 17:08:35](https://news.ycombinator.com/item?id=46302267) - [AWS CEO says replacing junior devs with AI is 'one of the dumbest ideas'](https://www.finalroundai.com/blog/aws-ceo-ai-cannot-replace-junior-developers)
 * [2025-12-17, 16:42:13](https://news.ycombinator.com/item?id=46301851) - [Gemini 3 Flash: Frontier intelligence built for speed](https://blog.google/products/gemini/gemini-3-flash/)
 * [2025-12-17, 12:45:40](https://news.ycombinator.com/item?id=46301346) - [Coursera to combine with Udemy](https://investor.coursera.com/news/news-details/2025/Coursera-to-Combine-with-Udemy-to-Empower-the-Global-Workforce-with-Skills-for-the-AI-Era/default.aspx)
-* [2025-12-15, 17:10:08](https://news.ycombinator.com/item?id=46277233) - [Don MacKinnon: Why Simplicity Beats Cleverness in Software Design [audio]](https://maintainable.fm/episodes/don-mackinnon-why-simplicity-beats-cleverness-in-software-design)
 * [2025-12-15, 10:03:18](https://news.ycombinator.com/item?id=46272454) - [Building a High-Performance OpenAPI Parser in Go](https://www.speakeasy.com/blog/building-speakeasy-openapi-go-library)
 * [2025-12-15, 05:54:28](https://news.ycombinator.com/item?id=46270918) - [Working quickly is more important than it seems (2015)](https://jsomers.net/blog/speed-matters)
 * [2025-12-15, 01:57:54](https://news.ycombinator.com/item?id=46269507) - [The Big City; Save the Flophouses (1996)](https://www.nytimes.com/1996/01/14/magazine/the-big-city-save-the-flophouses.html)
