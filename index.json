@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-12-18, 06:40:29",
+      "https://news.ycombinator.com/item?id=46309571"
+    ],
+    [
+      "What Is an Elliptic Curve?",
+      "https://www.johndcook.com/blog/2019/02/21/what-is-an-elliptic-curve/"
+    ]
+  ],
+  [
+    [
       "2025-12-18, 05:20:41",
       "https://news.ycombinator.com/item?id=46309124"
     ],
@@ -11,12 +21,12 @@
   ],
   [
     [
-      "2025-12-18, 05:01:00",
-      "https://news.ycombinator.com/item?id=46309039"
+      "2025-12-18, 05:06:33",
+      "https://news.ycombinator.com/item?id=46309061"
     ],
     [
-      "Mozilla's New CEO Confirms Firefox Will Become an \"AI Browser\"",
-      "https://www.omgubuntu.co.uk/2025/12/mozilla-new-ceo-firefox-ai-browser-strategy"
+      "'Ghost jobs' are on the rise – and so are calls to ban them",
+      "https://www.bbc.com/news/articles/clyzvpp8g3vo"
     ]
   ],
   [
@@ -77,16 +87,6 @@
     [
       "Developers can now submit apps to ChatGPT",
       "https://openai.com/index/developers-can-now-submit-apps-to-chatgpt/"
-    ]
-  ],
-  [
-    [
-      "2025-12-17, 22:19:53",
-      "https://news.ycombinator.com/item?id=46306371"
-    ],
-    [
-      "A look back: LANPAR, the first spreadsheet",
-      "https://technicallywewrite.com/2025/12/16/lanpar"
     ]
   ],
   [
@@ -171,6 +171,16 @@
   ],
   [
     [
+      "2025-12-17, 17:00:39",
+      "https://news.ycombinator.com/item?id=46302122"
+    ],
+    [
+      "Flick (YC F25) Is Hiring Founding Engineer to Build Figma for AI Filmmaking",
+      "https://www.ycombinator.com/companies/flick/jobs/Tdu6FH6-founding-frontend-engineer"
+    ]
+  ],
+  [
+    [
       "2025-12-17, 16:48:18",
       "https://news.ycombinator.com/item?id=46301921"
     ],
@@ -251,12 +261,12 @@
   ],
   [
     [
-      "2025-12-14, 18:55:30",
-      "https://news.ycombinator.com/item?id=46265684"
+      "2025-12-14, 21:04:25",
+      "https://news.ycombinator.com/item?id=46266867"
     ],
     [
-      "My payment agent is named George, not stripe-agent",
-      "https://blog.kestrelsnest.social/posts/2025-12-14-why-my-payment-agent-is-named-george-not-stripe-agent/"
+      "Feather Detective (2016)",
+      "https://www.audubon.org/magazine/behind-scenes-worlds-top-feather-detective"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "The Number That Turned Sideways",
       "https://zuriby.github.io/math.github.io/the-number-that-turned-sideways.html"
-    ]
-  ],
-  [
-    [
-      "2025-12-12, 15:24:08",
-      "https://news.ycombinator.com/item?id=46244973"
-    ],
-    [
-      "Oasis: Pooling PCIe Devices over CXL to Boost Utilization",
-      "https://dl.acm.org/doi/10.1145/3731569.3764812"
     ]
   ]
 ]
