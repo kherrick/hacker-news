@@ -129,6 +129,147 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
+        <section id="46313991">
+          <h3>
+            <a class="item" href="https://dl.acm.org/openaccess"
+              >Beginning January 2026, all ACM publications will be made open
+              access</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2025-12-18 @ 15:39:09</span
+              ><span class="points-container"
+                >Points: <span class="points">95</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=46313991"
+                  >Comments</a
+                ><span class="descendants">: 4</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="46313930">
+          <h3>
+            <a class="item" href="https://news.ycombinator.com/item?id=46313930"
+              >Launch HN: Pulse (YC S24) – Production-grade unstructured
+              document extraction</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2025-12-18 @ 15:35:52</span
+              ><span class="points-container"
+                >Points: <span class="points">6</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=46313930"
+                  >Comments</a
+                ><span class="descendants">: 0</span></span
+              >
+            </h4>
+            <div class="text">
+              <p>
+                When we started working on document extraction, we assumed the
+                same thing many teams do today: foundation models were improving
+                quickly, multi modal systems appeared to read documents well,
+                and for small or clean inputs that assumption often held. The
+                limitations showed up once we began processing real documents in
+                volume. Long PDFs, dense tables, mixed layouts, low-fidelity
+                scans, and financial or operational data exposed errors that
+                were subtle, hard to detect, and expensive to correct. Outputs
+                often looked reasonable while containing small but meaningful
+                mistakes, especially in tables and numeric fields.
+              </p>
+              <p>
+                A lot of our work since then has been applied research. We run
+                controlled evaluations on complex documents, fine tune vision
+                models, and build labeled datasets where ground truth actually
+                matters. There have been many nights where our team stayed up
+                hand annotating pages, drawing bounding boxes around tables,
+                labeling charts point by point, or debating whether a number was
+                unreadable or simply poorly scanned. That process shaped our
+                intuition far more than benchmarks alone.
+              </p>
+              <p>
+                One thing became clear quickly. The core challenge was not
+                extraction itself, but confidence. Vision language models embed
+                document images into high-dimensional representations optimized
+                for semantic understanding rather than precise transcription.
+                That process is inherently lossy. When uncertainty appears,
+                models tend to resolve it using learned priors instead of
+                surfacing ambiguity. This behavior can be helpful in consumer
+                settings. In production pipelines, it creates verification
+                problems that do not scale well.
+              </p>
+              <p>
+                Pulse grew out of trying to address this gap through system
+                design rather than prompting alone. Instead of treating document
+                understanding as a single generative step, the system separates
+                layout analysis from language modeling. Documents are normalized
+                into structured representations that preserve hierarchy and
+                tables before schema mapping occurs. Extraction is constrained
+                by schemas defined ahead of time, and extracted values are tied
+                back to source locations so uncertainty can be inspected rather
+                than guessed away. In practice, this results in a hybrid
+                approach that combines traditional computer vision techniques,
+                layout models, and vision language models, because no single
+                approach handled these cases reliably on its own.
+              </p>
+              <p>
+                We are intentionally sharing a few documents that reflect the
+                types of inputs that motivated this work. These are
+                representative of cases where we saw generic OCR or VLM-based
+                pipelines struggle.
+              </p>
+              <p>
+                Here is a financial 10K:
+                <a
+                  href="https://platform.runpulse.com/dashboard/examples/example1"
+                  >https://platform.runpulse.com/dashboard/examples/example1</a
+                >
+              </p>
+              <p>
+                Here is a newspaper:
+                <a
+                  href="https://platform.runpulse.com/dashboard/examples/example2"
+                  >https://platform.runpulse.com/dashboard/examples/example2</a
+                >
+              </p>
+              <p>
+                Here is a rent roll:
+                <a
+                  href="https://platform.runpulse.com/dashboard/examples/example3"
+                  >https://platform.runpulse.com/dashboard/examples/example3</a
+                >
+              </p>
+              <p>
+                Pulse is not perfect, particularly on highly degraded scans or
+                uncommon handwriting, and there is still room for improvement.
+                The goal is not to eliminate errors entirely, but to make them
+                visible, auditable, and easier to reason about.
+              </p>
+              <p>
+                Pulse is available via usage-based access to the API and
+                platform You can try it here and access the API docs here.
+              </p>
+              <p>
+                Demo link here:
+                <a
+                  href="https://video.runpulse.com/video/pulse-platform-walkthrough-69f9"
+                  >https://video.runpulse.com/video/pulse-platform-walkthrough-...</a
+                >
+              </p>
+              <p>
+                We’re interested in hearing how others here evaluate correctness
+                for document extraction, which failure modes you have seen in
+                practice, and what signals you rely on to decide whether an
+                output can be trusted. We will be around to answer questions and
+                are happy to run additional documents if people want to share
+                examples.
+              </p>
+            </div>
+          </section>
+        </section>
         <section id="46313379">
           <h3>
             <a class="item" href="https://www.jack.bio/blog/licenseplate"
@@ -139,11 +280,11 @@
             <h4>
               <span>2025-12-18 @ 15:00:32</span
               ><span class="points-container"
-                >Points: <span class="points">29</span></span
+                >Points: <span class="points">45</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46313379"
                   >Comments</a
-                ><span class="descendants">: 9</span></span
+                ><span class="descendants">: 13</span></span
               >
             </h4>
           </section>
@@ -160,11 +301,11 @@
             <h4>
               <span>2025-12-18 @ 14:52:11</span
               ><span class="points-container"
-                >Points: <span class="points">84</span></span
+                >Points: <span class="points">100</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46313297"
                   >Comments</a
-                ><span class="descendants">: 81</span></span
+                ><span class="descendants">: 90</span></span
               >
             </h4>
           </section>
@@ -182,11 +323,11 @@
             <h4>
               <span>2025-12-18 @ 14:49:24</span
               ><span class="points-container"
-                >Points: <span class="points">45</span></span
+                >Points: <span class="points">57</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46313266"
                   >Comments</a
-                ><span class="descendants">: 19</span></span
+                ><span class="descendants">: 31</span></span
               >
             </h4>
           </section>
@@ -203,11 +344,32 @@
             <h4>
               <span>2025-12-18 @ 14:26:57</span
               ><span class="points-container"
-                >Points: <span class="points">119</span></span
+                >Points: <span class="points">138</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46313061"
                   >Comments</a
-                ><span class="descendants">: 65</span></span
+                ><span class="descendants">: 80</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="46313033">
+          <h3>
+            <a
+              class="item"
+              href="https://github.com/systemd/systemd/releases/tag/v259"
+              >systemd v259 Released</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2025-12-18 @ 14:24:26</span
+              ><span class="points-container"
+                >Points: <span class="points">18</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=46313033"
+                  >Comments</a
+                ><span class="descendants">: 4</span></span
               >
             </h4>
           </section>
@@ -222,11 +384,11 @@
             <h4>
               <span>2025-12-18 @ 14:18:52</span
               ><span class="points-container"
-                >Points: <span class="points">85</span></span
+                >Points: <span class="points">104</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46312973"
                   >Comments</a
-                ><span class="descendants">: 90</span></span
+                ><span class="descendants">: 107</span></span
               >
             </h4>
           </section>
@@ -243,11 +405,11 @@
             <h4>
               <span>2025-12-18 @ 14:04:03</span
               ><span class="points-container"
-                >Points: <span class="points">47</span></span
+                >Points: <span class="points">51</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46312792"
                   >Comments</a
-                ><span class="descendants">: 7</span></span
+                ><span class="descendants">: 8</span></span
               >
             </h4>
           </section>
@@ -264,11 +426,11 @@
             <h4>
               <span>2025-12-18 @ 13:06:51</span
               ><span class="points-container"
-                >Points: <span class="points">56</span></span
+                >Points: <span class="points">60</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46312159"
                   >Comments</a
-                ><span class="descendants">: 62</span></span
+                ><span class="descendants">: 69</span></span
               >
             </h4>
           </section>
@@ -285,11 +447,11 @@
             <h4>
               <span>2025-12-18 @ 12:50:23</span
               ><span class="points-container"
-                >Points: <span class="points">69</span></span
+                >Points: <span class="points">74</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46312021"
                   >Comments</a
-                ><span class="descendants">: 17</span></span
+                ><span class="descendants">: 19</span></span
               >
             </h4>
           </section>
@@ -306,11 +468,11 @@
             <h4>
               <span>2025-12-18 @ 12:28:45</span
               ><span class="points-container"
-                >Points: <span class="points">214</span></span
+                >Points: <span class="points">226</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46311856"
                   >Comments</a
-                ><span class="descendants">: 112</span></span
+                ><span class="descendants">: 126</span></span
               >
             </h4>
           </section>
@@ -343,11 +505,11 @@
             <h4>
               <span>2025-12-18 @ 11:21:15</span
               ><span class="points-container"
-                >Points: <span class="points">227</span></span
+                >Points: <span class="points">239</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46311355"
                   >Comments</a
-                ><span class="descendants">: 170</span></span
+                ><span class="descendants">: 175</span></span
               >
             </h4>
           </section>
@@ -364,11 +526,11 @@
             <h4>
               <span>2025-12-18 @ 10:44:29</span
               ><span class="points-container"
-                >Points: <span class="points">154</span></span
+                >Points: <span class="points">159</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46311092"
                   >Comments</a
-                ><span class="descendants">: 57</span></span
+                ><span class="descendants">: 60</span></span
               >
             </h4>
           </section>
@@ -385,11 +547,11 @@
             <h4>
               <span>2025-12-18 @ 10:27:05</span
               ><span class="points-container"
-                >Points: <span class="points">229</span></span
+                >Points: <span class="points">234</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46310976"
                   >Comments</a
-                ><span class="descendants">: 175</span></span
+                ><span class="descendants">: 176</span></span
               >
             </h4>
           </section>
@@ -406,7 +568,7 @@
             <h4>
               <span>2025-12-18 @ 10:09:10</span
               ><span class="points-container"
-                >Points: <span class="points">83</span></span
+                >Points: <span class="points">85</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46310856"
                   >Comments</a
@@ -450,7 +612,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46310104"
                   >Comments</a
-                ><span class="descendants">: 46</span></span
+                ><span class="descendants">: 47</span></span
               >
             </h4>
           </section>
@@ -467,11 +629,11 @@
             <h4>
               <span>2025-12-18 @ 06:40:29</span
               ><span class="points-container"
-                >Points: <span class="points">111</span></span
+                >Points: <span class="points">112</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46309571"
                   >Comments</a
-                ><span class="descendants">: 12</span></span
+                ><span class="descendants">: 13</span></span
               >
             </h4>
           </section>
@@ -488,7 +650,7 @@
             <h4>
               <span>2025-12-18 @ 06:08:23</span
               ><span class="points-container"
-                >Points: <span class="points">121</span></span
+                >Points: <span class="points">123</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46309407"
                   >Comments</a
@@ -509,11 +671,11 @@
             <h4>
               <span>2025-12-17 @ 21:13:33</span
               ><span class="points-container"
-                >Points: <span class="points">514</span></span
+                >Points: <span class="points">517</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46305585"
                   >Comments</a
-                ><span class="descendants">: 320</span></span
+                ><span class="descendants">: 322</span></span
               >
             </h4>
           </section>
@@ -529,11 +691,11 @@
             <h4>
               <span>2025-12-17 @ 20:21:25</span
               ><span class="points-container"
-                >Points: <span class="points">10</span></span
+                >Points: <span class="points">11</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46305008"
                   >Comments</a
-                ><span class="descendants">: 5</span></span
+                ><span class="descendants">: 6</span></span
               >
             </h4>
             <div class="text">
@@ -594,11 +756,11 @@
             <h4>
               <span>2025-12-17 @ 16:42:13</span
               ><span class="points-container"
-                >Points: <span class="points">1056</span></span
+                >Points: <span class="points">1057</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46301851"
                   >Comments</a
-                ><span class="descendants">: 558</span></span
+                ><span class="descendants">: 559</span></span
               >
             </h4>
             <div class="text">
@@ -633,27 +795,6 @@
                 >
               </p>
             </div>
-          </section>
-        </section>
-        <section id="46301346">
-          <h3>
-            <a
-              class="item"
-              href="https://investor.coursera.com/news/news-details/2025/Coursera-to-Combine-with-Udemy-to-Empower-the-Global-Workforce-with-Skills-for-the-AI-Era/default.aspx"
-              >Coursera to combine with Udemy</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2025-12-17 @ 12:45:40</span
-              ><span class="points-container"
-                >Points: <span class="points">560</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=46301346"
-                  >Comments</a
-                ><span class="descendants">: 334</span></span
-              >
-            </h4>
           </section>
         </section>
         <section id="46272454">
@@ -712,27 +853,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46269507"
                   >Comments</a
-                ><span class="descendants">: 4</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="46262584">
-          <h3>
-            <a class="item" href="https://projectfluent.org/"
-              >Fluent: A Localization System for Natural-Sounding
-              Translations</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2025-12-14 @ 12:32:22</span
-              ><span class="points-container"
-                >Points: <span class="points">15</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=46262584"
-                  >Comments</a
-                ><span class="descendants">: 4</span></span
+                ><span class="descendants">: 5</span></span
               >
             </h4>
           </section>
@@ -751,7 +872,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46262294"
                   >Comments</a
-                ><span class="descendants">: 10</span></span
+                ><span class="descendants">: 11</span></span
               >
             </h4>
           </section>
@@ -769,32 +890,11 @@
             <h4>
               <span>2025-12-13 @ 22:04:13</span
               ><span class="points-container"
-                >Points: <span class="points">18</span></span
+                >Points: <span class="points">19</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46258583"
                   >Comments</a
                 ><span class="descendants">: 1</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="46243901">
-          <h3>
-            <a
-              class="item"
-              href="https://gwern.net/doc/design/typography/tex/1981-knuth.pdf"
-              >Breaking Paragraphs into Lines [pdf] (1981)</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2025-12-12 @ 13:25:16</span
-              ><span class="points-container"
-                >Points: <span class="points">30</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=46243901"
-                  >Comments</a
-                ><span class="descendants">: 6</span></span
               >
             </h4>
           </section>
@@ -812,11 +912,11 @@
             <h4>
               <span>2025-12-12 @ 04:24:34</span
               ><span class="points-container"
-                >Points: <span class="points">156</span></span
+                >Points: <span class="points">159</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46240855"
                   >Comments</a
-                ><span class="descendants">: 191</span></span
+                ><span class="descendants">: 197</span></span
               >
             </h4>
           </section>
