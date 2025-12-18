@@ -1,6 +1,36 @@
 [
   [
     [
+      "2025-12-18, 10:09:10",
+      "https://news.ycombinator.com/item?id=46310856"
+    ],
+    [
+      "It's all about momentum",
+      "https://combo.cc/posts/its-all-about-momentum-innit/"
+    ]
+  ],
+  [
+    [
+      "2025-12-18, 10:03:42",
+      "https://news.ycombinator.com/item?id=46310823"
+    ],
+    [
+      "How getting richer made teenagers less free",
+      "https://www.theargumentmag.com/p/how-getting-richer-made-teenagers"
+    ]
+  ],
+  [
+    [
+      "2025-12-18, 09:40:07",
+      "https://news.ycombinator.com/item?id=46310650"
+    ],
+    [
+      "Online Textbook for Braid groups and knots and tangles",
+      "https://matthematics.com/redoak/redoak.html"
+    ]
+  ],
+  [
+    [
       "2025-12-18, 08:18:46",
       "https://news.ycombinator.com/item?id=46310146"
     ],
@@ -151,16 +181,6 @@
   ],
   [
     [
-      "2025-12-17, 20:50:13",
-      "https://news.ycombinator.com/item?id=46305321"
-    ],
-    [
-      "Inside PostHog: SSRF, ClickHouse SQL Escape and Default Postgres Creds to RCE",
-      "https://mdisec.com/inside-posthog-how-ssrf-a-clickhouse-sql-escaping-0day-and-default-postgresql-credentials-formed-an-rce-chain-zdi-25-099-zdi-25-097-zdi-25-096/"
-    ]
-  ],
-  [
-    [
       "2025-12-17, 18:15:38",
       "https://news.ycombinator.com/item?id=46303277"
     ],
@@ -267,26 +287,6 @@
     [
       "Zmij: Faster floating point double-to-string conversion",
       "https://vitaut.net/posts/2025/faster-dtoa/"
-    ]
-  ],
-  [
-    [
-      "2025-12-13, 11:34:05",
-      "https://news.ycombinator.com/item?id=46253836"
-    ],
-    [
-      "The Number That Turned Sideways",
-      "https://zuriby.github.io/math.github.io/the-number-that-turned-sideways.html"
-    ]
-  ],
-  [
-    [
-      "2025-12-12, 15:24:08",
-      "https://news.ycombinator.com/item?id=46244973"
-    ],
-    [
-      "Oasis: Pooling PCIe Devices over CXL to Boost Utilization",
-      "https://dl.acm.org/doi/10.1145/3731569.3764812"
     ]
   ],
   [
