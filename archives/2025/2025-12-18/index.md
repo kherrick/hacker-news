@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-12-18](index.md)
 
+* [2025-12-18, 22:52:06](https://news.ycombinator.com/item?id=46319946) - [Great Ideas in Theoretical Computer Science](https://www.cs251.com/)
 * [2025-12-18, 22:39:47](https://news.ycombinator.com/item?id=46319826) - [Trained LLMs exclusively on pre-1913 texts](https://github.com/DGoettlich/history-llms)
 * [2025-12-18, 22:23:09](https://news.ycombinator.com/item?id=46319657) - [1.5 TB of VRAM on Mac Studio – RDMA over Thunderbolt 5](https://www.jeffgeerling.com/blog/2025/15-tb-vram-on-mac-studio-rdma-over-thunderbolt-5)
 * [2025-12-18, 21:52:39](https://news.ycombinator.com/item?id=46319324) - [AI Vending Machine Was Tricked into Giving Away Everything](https://kottke.org/25/12/this-ai-vending-machine-was-tricked-into-giving-away-everything)
