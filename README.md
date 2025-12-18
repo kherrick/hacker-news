@@ -2,7 +2,6 @@
 
 * [2025-12-18, 08:12:42](https://news.ycombinator.com/item?id=46310104) - [RCE via ND6 Router Advertisements in FreeBSD](https://www.freebsd.org/security/advisories/FreeBSD-SA-25:12.rtsold.asc)
 * [2025-12-18, 06:40:29](https://news.ycombinator.com/item?id=46309571) - [What is an elliptic curve? (2019)](https://www.johndcook.com/blog/2019/02/21/what-is-an-elliptic-curve/)
-* [2025-12-18, 06:33:51](https://news.ycombinator.com/item?id=46309536) - [Security vulnerability found in Rust Linux kernel code](https://git.kernel.org/pub/scm/linux/kernel/git/stable/linux.git/commit/?id=3e0ae02ba831da2b707905f4e602e43f8507b8cc)
 * [2025-12-18, 06:08:23](https://news.ycombinator.com/item?id=46309407) - [Egyptian Hieroglyphs: Lesson 1](https://www.egyptianhieroglyphs.net/egyptian-hieroglyphs/lesson-1/)
 * [2025-12-18, 05:20:41](https://news.ycombinator.com/item?id=46309124) - [More than half of researchers now use AI for peer review, often against guidance](https://www.nature.com/articles/d41586-025-04066-5)
 * [2025-12-18, 05:06:33](https://news.ycombinator.com/item?id=46309061) - ['Ghost jobs' are on the rise – and so are calls to ban them](https://www.bbc.com/news/articles/clyzvpp8g3vo)
@@ -25,6 +24,7 @@
 * [2025-12-17, 12:45:40](https://news.ycombinator.com/item?id=46301346) - [Coursera to combine with Udemy](https://investor.coursera.com/news/news-details/2025/Coursera-to-Combine-with-Udemy-to-Empower-the-Global-Workforce-with-Skills-for-the-AI-Era/default.aspx)
 * [2025-12-16, 19:55:56](https://news.ycombinator.com/item?id=46293564) - [Show HN: I built a fast RSS reader in Zig](https://github.com/superstarryeyes/hys)
 * [2025-12-15, 17:10:08](https://news.ycombinator.com/item?id=46277233) - [Don MacKinnon: Why Simplicity Beats Cleverness in Software Design [audio]](https://maintainable.fm/episodes/don-mackinnon-why-simplicity-beats-cleverness-in-software-design)
+* [2025-12-15, 10:03:18](https://news.ycombinator.com/item?id=46272454) - [Building a High-Performance OpenAPI Parser in Go](https://www.speakeasy.com/blog/building-speakeasy-openapi-go-library)
 * [2025-12-15, 05:54:28](https://news.ycombinator.com/item?id=46270918) - [Working quickly is more important than it seems (2015)](https://jsomers.net/blog/speed-matters)
 * [2025-12-14, 21:04:25](https://news.ycombinator.com/item?id=46266867) - [Feather Detective (2016)](https://www.audubon.org/magazine/behind-scenes-worlds-top-feather-detective)
 * [2025-12-14, 15:42:03](https://news.ycombinator.com/item?id=46263821) - [Zmij: Faster floating point double-to-string conversion](https://vitaut.net/posts/2025/faster-dtoa/)

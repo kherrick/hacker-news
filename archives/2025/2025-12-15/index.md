@@ -57,6 +57,7 @@
 * [2025-12-15, 11:58:35](https://news.ycombinator.com/item?id=46273344) - [Largest U.S. Recycling Project to Extend Landfill Life for Virginia Residents](https://ampsortation.com/articles/largest-us-recycling-project-spsa)
 * [2025-12-15, 11:09:12](https://news.ycombinator.com/item?id=46272921) - [Copywriters reveal how AI has decimated their industry](https://www.bloodinthemachine.com/p/i-was-forced-to-use-ai-until-the)
 * [2025-12-15, 10:08:02](https://news.ycombinator.com/item?id=46272487) - [Avoid UUIDv4 Primary Keys](https://andyatkinson.com/avoid-uuid-version-4-primary-keys)
+* [2025-12-15, 10:03:18](https://news.ycombinator.com/item?id=46272454) - [Building a High-Performance OpenAPI Parser in Go](https://www.speakeasy.com/blog/building-speakeasy-openapi-go-library)
 * [2025-12-15, 07:28:27](https://news.ycombinator.com/item?id=46271405) - [AI URI Scheme – Internet-Draft](https://www.ietf.org/archive/id/draft-sogomonian-ai-uri-scheme-01.html)
 * [2025-12-15, 06:56:04](https://news.ycombinator.com/item?id=46271232) - [English vocabulary test – how many words do you know?](https://www.myvocab.info/en)
 * [2025-12-15, 06:05:35](https://news.ycombinator.com/item?id=46270972) - [Why proteins fold and how GPUs help us fold](https://aval.bearblog.dev/nvidiaproteins/)
