@@ -1,11 +1,21 @@
 [
   [
     [
+      "2025-12-18, 13:06:51",
+      "https://news.ycombinator.com/item?id=46312159"
+    ],
+    [
+      "AI helps ship faster but it produces 1.7× more bugs",
+      "https://www.coderabbit.ai/blog/state-of-ai-vs-human-code-generation-report"
+    ]
+  ],
+  [
+    [
       "2025-12-18, 12:50:23",
       "https://news.ycombinator.com/item?id=46312021"
     ],
     [
-      "Most Parked Domains Now Serving Malicious Content",
+      "Most parked domains now serving malicious content",
       "https://krebsonsecurity.com/2025/12/most-parked-domains-now-serving-malicious-content/"
     ]
   ],
@@ -51,21 +61,11 @@
   ],
   [
     [
-      "2025-12-18, 11:01:20",
-      "https://news.ycombinator.com/item?id=46311220"
-    ],
-    [
-      "America's Dirtiest Carbon Polluters, Mapped to Ridiculous Precision",
-      "https://gizmodo.com/americas-dirtiest-carbon-polluters-mapped-to-ridiculous-precision-2000700924"
-    ]
-  ],
-  [
-    [
       "2025-12-18, 10:44:29",
       "https://news.ycombinator.com/item?id=46311092"
     ],
     [
-      "Slowness Is a Virtue",
+      "Slowness is a virtue",
       "https://blog.jakobschwichtenberg.com/p/slowness-is-a-virtue"
     ]
   ],
@@ -75,7 +75,7 @@
       "https://news.ycombinator.com/item?id=46310976"
     ],
     [
-      "After Ruining a Treasured Water Resource, Iran Is Drying Up",
+      "After ruining a treasured water resource, Iran is drying up",
       "https://e360.yale.edu/features/iran-water-drought-dams-qanats"
     ]
   ],
@@ -107,16 +107,6 @@
     [
       "Online Textbook for Braid groups and knots and tangles",
       "https://matthematics.com/redoak/redoak.html"
-    ]
-  ],
-  [
-    [
-      "2025-12-18, 08:18:46",
-      "https://news.ycombinator.com/item?id=46310146"
-    ],
-    [
-      "GitHub Actions for Self-Hosted Runners Price Increase Postponed",
-      "https://pricetimeline.com/news/189"
     ]
   ],
   [
@@ -197,6 +187,16 @@
     [
       "OBS Studio Gets a New Renderer",
       "https://obsproject.com/blog/obs-studio-gets-a-new-renderer"
+    ]
+  ],
+  [
+    [
+      "2025-12-17, 19:33:20",
+      "https://news.ycombinator.com/item?id=46304379"
+    ],
+    [
+      "GitHub postponing the announced billing change for self-hosted GitHub Actions",
+      "https://twitter.com/jaredpalmer/status/2001373329811181846"
     ]
   ],
   [
