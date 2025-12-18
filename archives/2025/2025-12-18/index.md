@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-12-18](index.md)
 
+* [2025-12-18, 20:52:38](https://news.ycombinator.com/item?id=46318544) - [Oliver Sacks put himself into his case studies – what was the cost?](https://www.newyorker.com/magazine/2025/12/15/oliver-sacks-put-himself-into-his-case-studies-what-was-the-cost)
 * [2025-12-18, 19:56:04](https://news.ycombinator.com/item?id=46317765) - [Interactive Fluid Typography](https://electricmagicfactory.com/articles/interactive-fluid-typography/)
 * [2025-12-18, 19:48:15](https://news.ycombinator.com/item?id=46317657) - [T5Gemma 2: The next generation of encoder-decoder models](https://blog.google/technology/developers/t5gemma-2/)
 * [2025-12-18, 19:41:24](https://news.ycombinator.com/item?id=46317546) - [How to hack Discord, Vercel and more with one easy trick](https://kibty.town/blog/mintlify/)
@@ -11,6 +12,7 @@
 * [2025-12-18, 19:15:17](https://news.ycombinator.com/item?id=46317174) - [The Scottish Highlands, the Appalachians, Atlas are the same mountain range](https://vividmaps.com/central-pangean-mountains/)
 * [2025-12-18, 19:08:48](https://news.ycombinator.com/item?id=46317098) - [We pwned X, Vercel, Cursor, and Discord through a supply-chain attack](https://gist.github.com/hackermondev/5e2cdc32849405fff6b46957747a2d28)
 * [2025-12-18, 19:02:22](https://news.ycombinator.com/item?id=46317012) - [Top Banned Books: The Most Banned Books in U.S. Schools – Pen America](https://pen.org/top-52-banned-books-since-2021/)
+* [2025-12-18, 19:00:56](https://news.ycombinator.com/item?id=46316991) - [Show HN: Spice Cayenne – SQL acceleration built on Vortex](https://spice.ai/blog/introducing-spice-cayenne-data-accelerator)
 * [2025-12-18, 18:55:34](https://news.ycombinator.com/item?id=46316907) - [How China built its ‘Manhattan Project’ to rival the West in AI chips](https://www.japantimes.co.jp/business/2025/12/18/tech/china-west-ai-chips/)
 * [2025-12-18, 18:26:52](https://news.ycombinator.com/item?id=46316533) - [FunctionGemma 270M Model](https://blog.google/technology/developers/functiongemma/)
 * [2025-12-18, 18:18:30](https://news.ycombinator.com/item?id=46316409) - [Firefox will have an option to disable all AI features](https://mastodon.social/@firefoxwebdevs/115740500373677782)
