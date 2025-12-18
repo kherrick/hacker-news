@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-12-18, 15:45:42",
+      "https://news.ycombinator.com/item?id=46314109"
+    ],
+    [
+      "Valve Is Running Apple's Playbook in Reverse",
+      "https://www.garbagecollected.dev/p/valve-the-reverse-apple"
+    ]
+  ],
+  [
+    [
       "2025-12-18, 15:39:09",
       "https://news.ycombinator.com/item?id=46313991"
     ],
@@ -231,32 +241,12 @@
   ],
   [
     [
-      "2025-12-17, 20:21:25",
-      "https://news.ycombinator.com/item?id=46305008"
-    ],
-    [
-      "Show HN: X Writer – VS Code extension to post tweets from your editor",
-      "https://github.com/Jawuilp/X-writer"
-    ]
-  ],
-  [
-    [
       "2025-12-17, 16:42:13",
       "https://news.ycombinator.com/item?id=46301851"
     ],
     [
       "Gemini 3 Flash: Frontier intelligence built for speed",
       "https://blog.google/products/gemini/gemini-3-flash/"
-    ]
-  ],
-  [
-    [
-      "2025-12-15, 05:54:28",
-      "https://news.ycombinator.com/item?id=46270918"
-    ],
-    [
-      "Working quickly is more important than it seems (2015)",
-      "https://jsomers.net/blog/speed-matters"
     ]
   ],
   [
@@ -277,6 +267,16 @@
     [
       "Show HN: A local-first memory store for LLM agents (SQLite)",
       "https://github.com/CaviraOSS/OpenMemory"
+    ]
+  ],
+  [
+    [
+      "2025-12-14, 10:08:42",
+      "https://news.ycombinator.com/item?id=46262031"
+    ],
+    [
+      "Dogalog: A realtime Prolog-based livecoding music environment",
+      "https://github.com/danja/dogalog"
     ]
   ],
   [
