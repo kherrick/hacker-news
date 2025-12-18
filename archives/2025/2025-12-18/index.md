@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-12-18](index.md)
 
+* [2025-12-18, 21:52:39](https://news.ycombinator.com/item?id=46319324) - [AI Vending Machine Was Tricked into Giving Away Everything](https://kottke.org/25/12/this-ai-vending-machine-was-tricked-into-giving-away-everything)
 * [2025-12-18, 21:16:25](https://news.ycombinator.com/item?id=46318852) - [Two Kinds of Vibe Coding](https://davidbau.com/archives/2025/12/16/vibe_coding.html)
 * [2025-12-18, 21:02:10](https://news.ycombinator.com/item?id=46318676) - [Delty (YC X25) Is Hiring an ML Engineer](https://www.ycombinator.com/companies/delty/jobs/MDeC49o-machine-learning-engineer)
 * [2025-12-18, 20:52:38](https://news.ycombinator.com/item?id=46318544) - [Oliver Sacks put himself into his case studies – what was the cost?](https://www.newyorker.com/magazine/2025/12/15/oliver-sacks-put-himself-into-his-case-studies-what-was-the-cost)

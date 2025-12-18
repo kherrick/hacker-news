@@ -23,6 +23,7 @@
 * [2025-12-13, 19:58:32](https://news.ycombinator.com/item?id=46257442) - [What is a build system, anyway?](https://jyn.dev/what-is-a-build-system-anyway/)
 * [2025-12-13, 19:54:51](https://news.ycombinator.com/item?id=46257410) - [We Lost Something: 1970s REPLs Were Better Than Modern Development Environments](https://programmingsimplicity.substack.com/p/we-lost-something-1970s-repls-were)
 * [2025-12-13, 19:46:19](https://news.ycombinator.com/item?id=46257339) - [VPN location claims don't match real traffic exits](https://ipinfo.io/blog/vpn-location-mismatch-report)
+* [2025-12-13, 19:34:14](https://news.ycombinator.com/item?id=46257210) - [The Legacy of Nicaea](https://hedgehogreview.com/web-features/thr/posts/the-legacy-of-nicaea)
 * [2025-12-13, 19:25:03](https://news.ycombinator.com/item?id=46257147) - [I created a publishing system for step-by-step coding guides in Typst](https://press.knowledge.dev/p/new-150-pages-rust-guide-create-a)
 * [2025-12-13, 19:22:13](https://news.ycombinator.com/item?id=46257125) - [llamafile: Distribute and Run LLMs with a Single File](https://github.com/mozilla-ai/llamafile)
 * [2025-12-13, 18:58:09](https://news.ycombinator.com/item?id=46256954) - [Dick Van Dyke turns 100](https://www.theguardian.com/film/2025/dec/13/dick-van-dyke-centenarian-100-mary-poppins-chitty-chitty-bang-bang)
