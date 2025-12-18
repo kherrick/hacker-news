@@ -11,22 +11,22 @@
   ],
   [
     [
+      "2025-12-18, 19:48:15",
+      "https://news.ycombinator.com/item?id=46317657"
+    ],
+    [
+      "T5Gemma 2: The next generation of encoder-decoder models",
+      "https://blog.google/technology/developers/t5gemma-2/"
+    ]
+  ],
+  [
+    [
       "2025-12-18, 19:41:24",
       "https://news.ycombinator.com/item?id=46317546"
     ],
     [
       "How to hack Discord, Vercel and more with one easy trick",
       "https://kibty.town/blog/mintlify/"
-    ]
-  ],
-  [
-    [
-      "2025-12-18, 19:17:02",
-      "https://news.ycombinator.com/item?id=46317199"
-    ],
-    [
-      "Public Makes Millions on Plunging Crypto",
-      "https://cepr.net/publications/public-makes-trillions-on-plunging-crypto/"
     ]
   ],
   [
@@ -95,7 +95,7 @@
       "https://news.ycombinator.com/item?id=46315414"
     ],
     [
-      "Agent Skills is now an open standard",
+      "Skills for organizations, partners, the ecosystem",
       "https://claude.com/blog/organization-skills-and-directory"
     ]
   ],
@@ -171,32 +171,12 @@
   ],
   [
     [
-      "2025-12-18, 14:18:52",
-      "https://news.ycombinator.com/item?id=46312973"
-    ],
-    [
-      "Please Just Try Htmx",
-      "http://pleasejusttryhtmx.com/"
-    ]
-  ],
-  [
-    [
       "2025-12-18, 14:04:03",
       "https://news.ycombinator.com/item?id=46312792"
     ],
     [
       "Virtualizing Nvidia HGX B200 GPUs with Open Source",
       "https://www.ubicloud.com/blog/virtualizing-nvidia-hgx-b200-gpus-with-open-source"
-    ]
-  ],
-  [
-    [
-      "2025-12-18, 13:39:41",
-      "https://news.ycombinator.com/item?id=46312481"
-    ],
-    [
-      "Partial Inlining",
-      "https://xania.org/202512/18-partial-inlining"
     ]
   ],
   [
@@ -217,16 +197,6 @@
     [
       "Hightouch (YC S19) Is Hiring",
       "https://hightouch.com/careers"
-    ]
-  ],
-  [
-    [
-      "2025-12-18, 08:12:42",
-      "https://news.ycombinator.com/item?id=46310104"
-    ],
-    [
-      "RCE via ND6 Router Advertisements in FreeBSD",
-      "https://www.freebsd.org/security/advisories/FreeBSD-SA-25:12.rtsold.asc"
     ]
   ],
   [
@@ -261,6 +231,26 @@
   ],
   [
     [
+      "2025-12-16, 21:04:54",
+      "https://news.ycombinator.com/item?id=46294456"
+    ],
+    [
+      "Texas is suing all of the big TV makers for spying on what you watch",
+      "https://www.theverge.com/news/845400/texas-tv-makers-lawsuit-samsung-sony-lg-hisense-tcl-spying"
+    ]
+  ],
+  [
+    [
+      "2025-12-16, 20:50:13",
+      "https://news.ycombinator.com/item?id=46294254"
+    ],
+    [
+      "Linux computer designed with AI boots on first attempt",
+      "https://www.tomshardware.com/tech-industry/artificial-intelligence/dual-pcb-linux-computer-with-843-components-designed-by-ai-boots-on-first-attempt-project-speedrun-was-made-in-just-one-week-and-required-less-than-40-hours-of-human-work"
+    ]
+  ],
+  [
+    [
       "2025-12-16, 18:26:43",
       "https://news.ycombinator.com/item?id=46292266"
     ],
@@ -287,6 +277,16 @@
     [
       "Dogalog: A realtime Prolog-based livecoding music environment",
       "https://github.com/danja/dogalog"
+    ]
+  ],
+  [
+    [
+      "2025-12-13, 16:31:45",
+      "https://news.ycombinator.com/item?id=46255766"
+    ],
+    [
+      "One agent isn't enough",
+      "https://benr.build/blog/one-agent-isnt-enough"
     ]
   ],
   [
