@@ -51,16 +51,6 @@
   ],
   [
     [
-      "2025-12-18, 18:55:34",
-      "https://news.ycombinator.com/item?id=46316907"
-    ],
-    [
-      "How China built its ‘Manhattan Project’ to rival the West in AI chips",
-      "https://www.japantimes.co.jp/business/2025/12/18/tech/china-west-ai-chips/"
-    ]
-  ],
-  [
-    [
       "2025-12-18, 18:26:52",
       "https://news.ycombinator.com/item?id=46316533"
     ],
@@ -101,12 +91,12 @@
   ],
   [
     [
-      "2025-12-18, 16:02:29",
-      "https://news.ycombinator.com/item?id=46314385"
+      "2025-12-18, 15:45:42",
+      "https://news.ycombinator.com/item?id=46314109"
     ],
     [
-      "Show HN: Composify – Open-Source Visual Editor / Server-Driven UI for React",
-      "https://github.com/composify-js/composify"
+      "Valve Is Running Apple's Playbook in Reverse",
+      "https://www.garbagecollected.dev/p/valve-the-reverse-apple"
     ]
   ],
   [
@@ -161,22 +151,12 @@
   ],
   [
     [
-      "2025-12-18, 14:26:57",
-      "https://news.ycombinator.com/item?id=46313061"
+      "2025-12-18, 13:39:41",
+      "https://news.ycombinator.com/item?id=46312481"
     ],
     [
-      "Are Apple gift cards safe to redeem?",
-      "https://daringfireball.net/linked/2025/12/17/are-apple-gift-cards-safe-to-redeem"
-    ]
-  ],
-  [
-    [
-      "2025-12-18, 14:04:03",
-      "https://news.ycombinator.com/item?id=46312792"
-    ],
-    [
-      "Virtualizing Nvidia HGX B200 GPUs with Open Source",
-      "https://www.ubicloud.com/blog/virtualizing-nvidia-hgx-b200-gpus-with-open-source"
+      "Partial Inlining",
+      "https://xania.org/202512/18-partial-inlining"
     ]
   ],
   [
@@ -201,16 +181,6 @@
   ],
   [
     [
-      "2025-12-18, 06:00:28",
-      "https://news.ycombinator.com/item?id=46309359"
-    ],
-    [
-      "Let a thousand societies bloom",
-      "https://vitalik.eth.limo/general/2025/12/17/societies.html"
-    ]
-  ],
-  [
-    [
       "2025-12-18, 03:50:40",
       "https://news.ycombinator.com/item?id=46308748"
     ],
@@ -227,6 +197,26 @@
     [
       "How did IRC ping timeouts end up in a lawsuit?",
       "https://mjg59.dreamwidth.org/73777.html"
+    ]
+  ],
+  [
+    [
+      "2025-12-17, 02:03:38",
+      "https://news.ycombinator.com/item?id=46297348"
+    ],
+    [
+      "Ask HN: What are your predictions for 2026?",
+      "https://news.ycombinator.com/item?id=46297348"
+    ]
+  ],
+  [
+    [
+      "2025-12-16, 22:09:53",
+      "https://news.ycombinator.com/item?id=46295295"
+    ],
+    [
+      "TRELLIS.2: state-of-the-art large 3D generative model (4B)",
+      "https://github.com/microsoft/TRELLIS.2"
     ]
   ],
   [
@@ -251,6 +241,16 @@
   ],
   [
     [
+      "2025-12-16, 20:42:38",
+      "https://news.ycombinator.com/item?id=46294144"
+    ],
+    [
+      "Show HN: Stop AI scrapers from hammering your self-hosted blog",
+      "https://github.com/vivienhenz24/fuzzy-canary"
+    ]
+  ],
+  [
+    [
       "2025-12-16, 18:26:43",
       "https://news.ycombinator.com/item?id=46292266"
     ],
@@ -261,22 +261,22 @@
   ],
   [
     [
-      "2025-12-15, 02:13:59",
-      "https://news.ycombinator.com/item?id=46269625"
+      "2025-12-16, 00:09:34",
+      "https://news.ycombinator.com/item?id=46282902"
     ],
     [
-      "Hell is other people's markup",
-      "https://www.htmhell.dev/adventcalendar/2025/13/"
+      "The <time> element should do something",
+      "https://nolanlawson.com/2025/12/14/the-time-element-should-actually-do-something/"
     ]
   ],
   [
     [
-      "2025-12-14, 10:08:42",
-      "https://news.ycombinator.com/item?id=46262031"
+      "2025-12-14, 16:26:12",
+      "https://news.ycombinator.com/item?id=46264195"
     ],
     [
-      "Dogalog: A realtime Prolog-based livecoding music environment",
-      "https://github.com/danja/dogalog"
+      "How I wrote JustHTML, a Python-based HTML5 parser, using coding agents",
+      "https://friendlybit.com/python/writing-justhtml-with-coding-agents/"
     ]
   ],
   [
