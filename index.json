@@ -91,6 +91,16 @@
   ],
   [
     [
+      "2025-12-17, 22:19:53",
+      "https://news.ycombinator.com/item?id=46306371"
+    ],
+    [
+      "A look back: LANPAR, the first spreadsheet",
+      "https://technicallywewrite.com/2025/12/16/lanpar"
+    ]
+  ],
+  [
+    [
       "2025-12-17, 21:44:22",
       "https://news.ycombinator.com/item?id=46305945"
     ],
@@ -171,16 +181,6 @@
   ],
   [
     [
-      "2025-12-17, 17:00:39",
-      "https://news.ycombinator.com/item?id=46302122"
-    ],
-    [
-      "Flick (YC F25) Is Hiring Founding Engineer to Build Figma for AI Filmmaking",
-      "https://www.ycombinator.com/companies/flick/jobs/Tdu6FH6-founding-frontend-engineer"
-    ]
-  ],
-  [
-    [
       "2025-12-17, 16:48:18",
       "https://news.ycombinator.com/item?id=46301921"
     ],
@@ -227,16 +227,6 @@
     [
       "Show HN: I built a fast RSS reader in Zig",
       "https://github.com/superstarryeyes/hys"
-    ]
-  ],
-  [
-    [
-      "2025-12-15, 17:40:00",
-      "https://news.ycombinator.com/item?id=46277681"
-    ],
-    [
-      "Opencoil – appropriating inductive charging pads in the wild (2020) [video]",
-      "https://media.ccc.de/v/rc3-11575-opencoil_a_roaming_speedshow"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "The Number That Turned Sideways",
       "https://zuriby.github.io/math.github.io/the-number-that-turned-sideways.html"
+    ]
+  ],
+  [
+    [
+      "2025-12-12, 15:24:08",
+      "https://news.ycombinator.com/item?id=46244973"
+    ],
+    [
+      "Oasis: Pooling PCIe Devices over CXL to Boost Utilization",
+      "https://dl.acm.org/doi/10.1145/3731569.3764812"
     ]
   ]
 ]
