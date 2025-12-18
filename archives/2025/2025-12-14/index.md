@@ -36,6 +36,7 @@
 * [2025-12-14, 16:55:29](https://news.ycombinator.com/item?id=46264492) - [Hashcards: A Plain-Text Spaced Repetition System](https://borretti.me/article/hashcards-plain-text-spaced-repetition)
 * [2025-12-14, 16:55:25](https://news.ycombinator.com/item?id=46264491) - [Ask HN: What Are You Working On? (December 2025)](https://news.ycombinator.com/item?id=46264491)
 * [2025-12-14, 16:40:40](https://news.ycombinator.com/item?id=46264329) - [Rust Coreutils 0.5.0 Release: 87.75% compatibility with GNU Coreutils](https://github.com/uutils/coreutils/releases/tag/0.5.0)
+* [2025-12-14, 16:26:12](https://news.ycombinator.com/item?id=46264195) - [How I wrote JustHTML, a Python-based HTML5 parser, using coding agents](https://friendlybit.com/python/writing-justhtml-with-coding-agents/)
 * [2025-12-14, 16:13:55](https://news.ycombinator.com/item?id=46264101) - [Update Now: iOS 26.2 Fixes 20 Security Vulnerabilities, 2 Actively Exploited](https://www.macrumors.com/2025/12/12/ios-26-2-security-vulnerabilities/)
 * [2025-12-14, 16:09:44](https://news.ycombinator.com/item?id=46264068) - [Price of a bot army revealed across online platforms](https://www.cam.ac.uk/stories/price-bot-army-global-index)
 * [2025-12-14, 15:49:59](https://news.ycombinator.com/item?id=46263903) - [Private Equity Finds a New Source of Profit: Volunteer Fire Departments](https://www.nytimes.com/2025/12/14/us/fire-department-software-private-equity.html)
