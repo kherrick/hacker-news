@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-12-18](index.md)
 
+* [2025-12-18, 12:50:23](https://news.ycombinator.com/item?id=46312021) - [Most Parked Domains Now Serving Malicious Content](https://krebsonsecurity.com/2025/12/most-parked-domains-now-serving-malicious-content/)
+* [2025-12-18, 12:28:45](https://news.ycombinator.com/item?id=46311856) - [Classical statues were not painted horribly](https://worksinprogress.co/issue/were-classical-statues-painted-horribly/)
+* [2025-12-18, 12:01:01](https://news.ycombinator.com/item?id=46311637) - [Hightouch (YC S19) Is Hiring](https://hightouch.com/careers)
 * [2025-12-18, 11:50:06](https://news.ycombinator.com/item?id=46311558) - [A school locked down after AI flagged a gun. It was a clarinet](https://www.washingtonpost.com/nation/2025/12/17/ai-gun-school-detection/)
 * [2025-12-18, 11:21:15](https://news.ycombinator.com/item?id=46311355) - [Creating apps like Signal could be 'hostile activity' claims UK watchdog](https://www.techradar.com/vpn/vpn-privacy-security/creating-apps-like-signal-or-whatsapp-could-be-hostile-activity-claims-uk-watchdog)
 * [2025-12-18, 11:01:20](https://news.ycombinator.com/item?id=46311220) - [America's Dirtiest Carbon Polluters, Mapped to Ridiculous Precision](https://gizmodo.com/americas-dirtiest-carbon-polluters-mapped-to-ridiculous-precision-2000700924)

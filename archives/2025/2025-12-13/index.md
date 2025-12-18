@@ -10,6 +10,7 @@
 * [2025-12-13, 22:58:29](https://news.ycombinator.com/item?id=46259064) - [Linux Sandboxes and Fil-C](https://fil-c.org/seccomp)
 * [2025-12-13, 22:38:08](https://news.ycombinator.com/item?id=46258906) - [Flat-pack washing machine spins a fairer future](https://www.positive.news/society/flat-pack-washing-machine-spins-a-fairer-future/)
 * [2025-12-13, 22:30:50](https://news.ycombinator.com/item?id=46258830) - [Venezuela explained in 10 maps and charts](https://www.aljazeera.com/news/2025/11/28/venezuela-explained-in-10-maps-and-charts)
+* [2025-12-13, 22:04:13](https://news.ycombinator.com/item?id=46258583) - [From profiling to kernel patch: the journey to an eBPF performance fix](https://rovarma.com/articles/from-profiling-to-kernel-patch-the-journey-to-an-ebpf-performance-fix/)
 * [2025-12-13, 21:57:28](https://news.ycombinator.com/item?id=46258529) - [Some surprising things about DuckDuckGo you probably don't know](https://gabrielweinberg.com/p/some-surprising-things-about-duckduckgo)
 * [2025-12-13, 21:18:01](https://news.ycombinator.com/item?id=46258163) - [Recovering Anthony Bourdain's (really) lost Li.st's](https://sandyuraz.com/blogs/bourdain/)
 * [2025-12-13, 20:58:50](https://news.ycombinator.com/item?id=46257986) - [Workday project at Washington University hits $266M](https://www.theregister.com/2025/12/12/washington_university_workday_costs_revealed/)
