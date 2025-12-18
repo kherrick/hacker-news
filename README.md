@@ -1,11 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-12-18, 05:20:41](https://news.ycombinator.com/item?id=46309124) - [More than half of researchers now use AI for peer review, often against guidance](https://www.nature.com/articles/d41586-025-04066-5)
-* [2025-12-18, 05:01:00](https://news.ycombinator.com/item?id=46309039) - [Mozilla's New CEO Confirms Firefox Will Become an \"AI Browser\"](https://www.omgubuntu.co.uk/2025/12/mozilla-new-ceo-firefox-ai-browser-strategy)
 * [2025-12-18, 04:27:53](https://news.ycombinator.com/item?id=46308893) - [Judge hints Vizio TV buyers may have rights to source code licensed under GPL](https://www.theregister.com/2025/12/05/vizio_gpl_source_code_ruling/)
-* [2025-12-18, 03:42:24](https://news.ycombinator.com/item?id=46308706) - [Germany: Amazon is not allowed to force customers to watch ads on Prime Video](https://www.zeit.de/wirtschaft/2025-12/amazon-urteil-video-kunden-werbung)
 * [2025-12-18, 01:36:54](https://news.ycombinator.com/item?id=46307973) - [Ask HN: Those making $500/month on side projects in 2025 – Show and tell](https://news.ycombinator.com/item?id=46307973)
 * [2025-12-18, 00:25:43](https://news.ycombinator.com/item?id=46307500) - [TikTok unlawfully tracks shopping habits and use of dating apps?](https://noyb.eu/en/tiktok-unlawfully-tracks-your-shopping-habits-and-your-use-dating-apps)
+* [2025-12-17, 23:58:40](https://news.ycombinator.com/item?id=46307306) - [Ask HN: Does anyone understand how Hacker News works?](https://news.ycombinator.com/item?id=46307306)
 * [2025-12-17, 23:11:14](https://news.ycombinator.com/item?id=46306894) - [Gut bacteria from amphibians and reptiles achieve tumor elimination in mice](https://www.jaist.ac.jp/english/whatsnew/press/2025/12/17-1.html)
 * [2025-12-17, 22:27:29](https://news.ycombinator.com/item?id=46306456) - [Developers can now submit apps to ChatGPT](https://openai.com/index/developers-can-now-submit-apps-to-chatgpt/)
 * [2025-12-17, 22:19:53](https://news.ycombinator.com/item?id=46306371) - [A look back: LANPAR, the first spreadsheet](https://technicallywewrite.com/2025/12/16/lanpar)
@@ -30,6 +29,7 @@
 * [2025-12-14, 12:29:04](https://news.ycombinator.com/item?id=46262573) - [The World of OCR (C. 1960) [video]](https://www.youtube.com/watch?v=SekWFCZVLUk)
 * [2025-12-13, 18:56:48](https://news.ycombinator.com/item?id=46256946) - [Fast SEQUENCE iteration in Common Lisp](https://world-playground-deceit.net/blog/2025/12/fast-sequence-iteration-in-common-lisp.html)
 * [2025-12-13, 11:34:05](https://news.ycombinator.com/item?id=46253836) - [The Number That Turned Sideways](https://zuriby.github.io/math.github.io/the-number-that-turned-sideways.html)
+* [2025-12-12, 15:24:08](https://news.ycombinator.com/item?id=46244973) - [Oasis: Pooling PCIe Devices over CXL to Boost Utilization](https://dl.acm.org/doi/10.1145/3731569.3764812)
 
 ## [Archives](archives/index.md)
 

@@ -44,6 +44,7 @@
 * [2025-12-12, 15:46:44](https://news.ycombinator.com/item?id=46245211) - [I couldn't find a logging library that worked for my library, so I made one](https://hackers.pub/@hongminhee/2025/logtape-fedify-case-study)
 * [2025-12-12, 15:34:45](https://news.ycombinator.com/item?id=46245083) - [Various locale mismatch scenarios in Windows clipboard text format synthesis](https://devblogs.microsoft.com/oldnewthing/20251211-37/?p=111858)
 * [2025-12-12, 15:29:46](https://news.ycombinator.com/item?id=46245041) - [Berlin Approves New Expansion of Police Surveillance Powers](https://reclaimthenet.org/berlin-approves-new-expansion-of-police-surveillance-powers)
+* [2025-12-12, 15:24:08](https://news.ycombinator.com/item?id=46244973) - [Oasis: Pooling PCIe Devices over CXL to Boost Utilization](https://dl.acm.org/doi/10.1145/3731569.3764812)
 * [2025-12-12, 15:19:19](https://news.ycombinator.com/item?id=46244922) - [CM0 – a new Raspberry Pi you can't buy](https://www.jeffgeerling.com/blog/2025/cm0-new-raspberry-pi-you-cant-buy)
 * [2025-12-12, 14:20:20](https://news.ycombinator.com/item?id=46244378) - [BpfJailer: eBPF Mandatory Access Control [pdf]](https://lpc.events/event/19/contributions/2159/attachments/1833/3929/BpfJailer%20LPC%202025.pdf)
 * [2025-12-12, 14:18:10](https://news.ycombinator.com/item?id=46244362) - [Checkers Arcade](https://blog.fogus.me/games/checkers-arcade.html)
