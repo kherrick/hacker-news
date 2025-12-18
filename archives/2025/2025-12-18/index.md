@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-12-18](index.md)
 
+* [2025-12-18, 10:09:10](https://news.ycombinator.com/item?id=46310856) - [It's all about momentum](https://combo.cc/posts/its-all-about-momentum-innit/)
+* [2025-12-18, 10:03:42](https://news.ycombinator.com/item?id=46310823) - [How getting richer made teenagers less free](https://www.theargumentmag.com/p/how-getting-richer-made-teenagers)
+* [2025-12-18, 09:40:07](https://news.ycombinator.com/item?id=46310650) - [Online Textbook for Braid groups and knots and tangles](https://matthematics.com/redoak/redoak.html)
 * [2025-12-18, 08:18:46](https://news.ycombinator.com/item?id=46310146) - [GitHub Actions for Self-Hosted Runners Price Increase Postponed](https://pricetimeline.com/news/189)
 * [2025-12-18, 08:12:42](https://news.ycombinator.com/item?id=46310104) - [RCE via ND6 Router Advertisements in FreeBSD](https://www.freebsd.org/security/advisories/FreeBSD-SA-25:12.rtsold.asc)
 * [2025-12-18, 06:40:29](https://news.ycombinator.com/item?id=46309571) - [What Is an Elliptic Curve?](https://www.johndcook.com/blog/2019/02/21/what-is-an-elliptic-curve/)
