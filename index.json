@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2025-12-18, 13:06:51",
-      "https://news.ycombinator.com/item?id=46312159"
-    ],
-    [
-      "AI helps ship faster but it produces 1.7× more bugs",
-      "https://www.coderabbit.ai/blog/state-of-ai-vs-human-code-generation-report"
-    ]
-  ],
-  [
-    [
       "2025-12-18, 12:50:23",
       "https://news.ycombinator.com/item?id=46312021"
     ],
@@ -187,6 +177,16 @@
     [
       "I got hacked: My Hetzner server started mining Monero",
       "https://blog.jakesaunders.dev/my-server-started-mining-monero-this-morning/"
+    ]
+  ],
+  [
+    [
+      "2025-12-17, 20:21:25",
+      "https://news.ycombinator.com/item?id=46305008"
+    ],
+    [
+      "Show HN: X Writer – Tweet from VS Code Without Distractions (BYOK, Open Source)",
+      "https://github.com/Jawuilp/X-writer"
     ]
   ],
   [
