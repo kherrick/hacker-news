@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-12-18, 21:02:10",
+      "https://news.ycombinator.com/item?id=46318676"
+    ],
+    [
+      "Delty (YC X25) Is Hiring an ML Engineer",
+      "https://www.ycombinator.com/companies/delty/jobs/MDeC49o-machine-learning-engineer"
+    ]
+  ],
+  [
+    [
       "2025-12-18, 20:52:38",
       "https://news.ycombinator.com/item?id=46318544"
     ],
@@ -57,16 +67,6 @@
     [
       "We pwned X, Vercel, Cursor, and Discord through a supply-chain attack",
       "https://gist.github.com/hackermondev/5e2cdc32849405fff6b46957747a2d28"
-    ]
-  ],
-  [
-    [
-      "2025-12-18, 19:02:22",
-      "https://news.ycombinator.com/item?id=46317012"
-    ],
-    [
-      "The most banned books in U.S. schools",
-      "https://pen.org/top-52-banned-books-since-2021/"
     ]
   ],
   [
@@ -141,16 +141,6 @@
   ],
   [
     [
-      "2025-12-18, 15:45:42",
-      "https://news.ycombinator.com/item?id=46314109"
-    ],
-    [
-      "Valve Is Running Apple's Playbook in Reverse",
-      "https://www.garbagecollected.dev/p/valve-the-reverse-apple"
-    ]
-  ],
-  [
-    [
       "2025-12-18, 15:39:09",
       "https://news.ycombinator.com/item?id=46313991"
     ],
@@ -161,12 +151,12 @@
   ],
   [
     [
-      "2025-12-18, 15:34:11",
-      "https://news.ycombinator.com/item?id=46313899"
+      "2025-12-18, 15:35:52",
+      "https://news.ycombinator.com/item?id=46313930"
     ],
     [
-      "Finland gave two groups identical payments – one saw better mental health",
-      "https://scottsantens.substack.com/p/finland-basic-income-experiment-mental-health-ubi"
+      "Launch HN: Pulse (YC S24) – Production-grade unstructured document extraction",
+      "https://news.ycombinator.com/item?id=46313930"
     ]
   ],
   [
@@ -195,7 +185,7 @@
       "https://news.ycombinator.com/item?id=46312973"
     ],
     [
-      "Please Just Try Htmx",
+      "Please just try HTMX",
       "http://pleasejusttryhtmx.com/"
     ]
   ],
@@ -207,16 +197,6 @@
     [
       "Classical statues were not painted horribly",
       "https://worksinprogress.co/issue/were-classical-statues-painted-horribly/"
-    ]
-  ],
-  [
-    [
-      "2025-12-18, 12:01:01",
-      "https://news.ycombinator.com/item?id=46311637"
-    ],
-    [
-      "Hightouch (YC S19) Is Hiring",
-      "https://hightouch.com/careers"
     ]
   ],
   [
@@ -265,8 +245,18 @@
       "https://news.ycombinator.com/item?id=46294144"
     ],
     [
-      "Show HN: Stop AI scrapers from hammering your self-hosted blog",
+      "Show HN: Stop AI scrapers from hammering your self-hosted blog (using porn)",
       "https://github.com/vivienhenz24/fuzzy-canary"
+    ]
+  ],
+  [
+    [
+      "2025-12-16, 19:11:47",
+      "https://news.ycombinator.com/item?id=46292937"
+    ],
+    [
+      "I've been writing ring buffers wrong all these years (2016)",
+      "https://www.snellman.net/blog/archive/2016-12-13-ring-buffers/"
     ]
   ],
   [
@@ -277,6 +267,16 @@
     [
       "Meta Segment Anything Model Audio",
       "https://ai.meta.com/samaudio/"
+    ]
+  ],
+  [
+    [
+      "2025-12-16, 16:12:06",
+      "https://news.ycombinator.com/item?id=46290349"
+    ],
+    [
+      "Show HN: Picknplace.js, an alternative to drag-and-drop",
+      "https://jgthms.com/picknplace.js/"
     ]
   ],
   [
