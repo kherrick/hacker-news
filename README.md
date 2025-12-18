@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-12-18, 17:12:46](https://news.ycombinator.com/item?id=46315547) - [Military Standard on Software Control Levels](https://entropicthoughts.com/mil-std-882e-software-control)
+* [2025-12-18, 17:04:32](https://news.ycombinator.com/item?id=46315414) - [Agent Skills is now an open standard](https://claude.com/blog/organization-skills-and-directory)
 * [2025-12-18, 15:39:09](https://news.ycombinator.com/item?id=46313991) - [Beginning January 2026, all ACM publications will be made open access](https://dl.acm.org/openaccess)
 * [2025-12-18, 15:35:52](https://news.ycombinator.com/item?id=46313930) - [Launch HN: Pulse (YC S24) – Production-grade unstructured document extraction](https://news.ycombinator.com/item?id=46313930)
 * [2025-12-18, 15:23:05](https://news.ycombinator.com/item?id=46313693) - [Heart and Kidney Diseases and Type 2 Diabetes May Be One Ailment](https://www.scientificamerican.com/article/heart-and-kidney-diseases-plus-type-2-diabetes-may-be-one-illness-treatable/)
@@ -22,7 +23,6 @@
 * [2025-12-18, 06:40:29](https://news.ycombinator.com/item?id=46309571) - [What is an elliptic curve? (2019)](https://www.johndcook.com/blog/2019/02/21/what-is-an-elliptic-curve/)
 * [2025-12-18, 06:08:23](https://news.ycombinator.com/item?id=46309407) - [Egyptian Hieroglyphs: Lesson 1](https://www.egyptianhieroglyphs.net/egyptian-hieroglyphs/lesson-1/)
 * [2025-12-17, 21:13:33](https://news.ycombinator.com/item?id=46305585) - [I got hacked: My Hetzner server started mining Monero](https://blog.jakesaunders.dev/my-server-started-mining-monero-this-morning/)
-* [2025-12-17, 16:42:13](https://news.ycombinator.com/item?id=46301851) - [Gemini 3 Flash: Frontier intelligence built for speed](https://blog.google/products/gemini/gemini-3-flash/)
 * [2025-12-15, 05:54:28](https://news.ycombinator.com/item?id=46270918) - [Working quickly is more important than it seems (2015)](https://jsomers.net/blog/speed-matters)
 * [2025-12-15, 01:57:54](https://news.ycombinator.com/item?id=46269507) - [The Big City; Save the Flophouses (1996)](https://www.nytimes.com/1996/01/14/magazine/the-big-city-save-the-flophouses.html)
 * [2025-12-14, 11:16:52](https://news.ycombinator.com/item?id=46262294) - [Show HN: A local-first memory store for LLM agents (SQLite)](https://github.com/CaviraOSS/OpenMemory)
