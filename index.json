@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-12-18, 20:52:38",
+      "https://news.ycombinator.com/item?id=46318544"
+    ],
+    [
+      "Oliver Sacks put himself into his case studies – what was the cost?",
+      "https://www.newyorker.com/magazine/2025/12/15/oliver-sacks-put-himself-into-his-case-studies-what-was-the-cost"
+    ]
+  ],
+  [
+    [
       "2025-12-18, 19:56:04",
       "https://news.ycombinator.com/item?id=46317765"
     ],
@@ -51,12 +61,52 @@
   ],
   [
     [
+      "2025-12-18, 19:02:22",
+      "https://news.ycombinator.com/item?id=46317012"
+    ],
+    [
+      "The most banned books in U.S. schools",
+      "https://pen.org/top-52-banned-books-since-2021/"
+    ]
+  ],
+  [
+    [
+      "2025-12-18, 19:00:56",
+      "https://news.ycombinator.com/item?id=46316991"
+    ],
+    [
+      "Show HN: Spice Cayenne – SQL acceleration built on Vortex",
+      "https://spice.ai/blog/introducing-spice-cayenne-data-accelerator"
+    ]
+  ],
+  [
+    [
+      "2025-12-18, 18:55:34",
+      "https://news.ycombinator.com/item?id=46316907"
+    ],
+    [
+      "How China built its ‘Manhattan Project’ to rival the West in AI chips",
+      "https://www.japantimes.co.jp/business/2025/12/18/tech/china-west-ai-chips/"
+    ]
+  ],
+  [
+    [
       "2025-12-18, 18:26:52",
       "https://news.ycombinator.com/item?id=46316533"
     ],
     [
       "FunctionGemma 270M Model",
       "https://blog.google/technology/developers/functiongemma/"
+    ]
+  ],
+  [
+    [
+      "2025-12-18, 18:18:30",
+      "https://news.ycombinator.com/item?id=46316409"
+    ],
+    [
+      "Firefox will have an option to disable all AI features",
+      "https://mastodon.social/@firefoxwebdevs/115740500373677782"
     ]
   ],
   [
@@ -111,16 +161,6 @@
   ],
   [
     [
-      "2025-12-18, 15:35:52",
-      "https://news.ycombinator.com/item?id=46313930"
-    ],
-    [
-      "Launch HN: Pulse (YC S24) – Production-grade unstructured document extraction",
-      "https://news.ycombinator.com/item?id=46313930"
-    ]
-  ],
-  [
-    [
       "2025-12-18, 15:34:11",
       "https://news.ycombinator.com/item?id=46313899"
     ],
@@ -131,12 +171,12 @@
   ],
   [
     [
-      "2025-12-18, 15:11:06",
-      "https://news.ycombinator.com/item?id=46313518"
+      "2025-12-18, 15:00:32",
+      "https://news.ycombinator.com/item?id=46313379"
     ],
     [
-      "The immortality of Microsoft Word",
-      "https://theredline.versionstory.com/p/on-the-immortality-of-microsoft-word"
+      "Using TypeScript to obtain one of the rarest license plates",
+      "https://www.jack.bio/blog/licenseplate"
     ]
   ],
   [
@@ -151,12 +191,12 @@
   ],
   [
     [
-      "2025-12-18, 13:39:41",
-      "https://news.ycombinator.com/item?id=46312481"
+      "2025-12-18, 14:18:52",
+      "https://news.ycombinator.com/item?id=46312973"
     ],
     [
-      "Partial Inlining",
-      "https://xania.org/202512/18-partial-inlining"
+      "Please Just Try Htmx",
+      "http://pleasejusttryhtmx.com/"
     ]
   ],
   [
@@ -201,16 +241,6 @@
   ],
   [
     [
-      "2025-12-17, 02:03:38",
-      "https://news.ycombinator.com/item?id=46297348"
-    ],
-    [
-      "Ask HN: What are your predictions for 2026?",
-      "https://news.ycombinator.com/item?id=46297348"
-    ]
-  ],
-  [
-    [
       "2025-12-16, 22:09:53",
       "https://news.ycombinator.com/item?id=46295295"
     ],
@@ -227,16 +257,6 @@
     [
       "Texas is suing all of the big TV makers for spying on what you watch",
       "https://www.theverge.com/news/845400/texas-tv-makers-lawsuit-samsung-sony-lg-hisense-tcl-spying"
-    ]
-  ],
-  [
-    [
-      "2025-12-16, 20:50:13",
-      "https://news.ycombinator.com/item?id=46294254"
-    ],
-    [
-      "Linux computer designed with AI boots on first attempt",
-      "https://www.tomshardware.com/tech-industry/artificial-intelligence/dual-pcb-linux-computer-with-843-components-designed-by-ai-boots-on-first-attempt-project-speedrun-was-made-in-just-one-week-and-required-less-than-40-hours-of-human-work"
     ]
   ],
   [
@@ -277,26 +297,6 @@
     [
       "How I wrote JustHTML, a Python-based HTML5 parser, using coding agents",
       "https://friendlybit.com/python/writing-justhtml-with-coding-agents/"
-    ]
-  ],
-  [
-    [
-      "2025-12-13, 16:31:45",
-      "https://news.ycombinator.com/item?id=46255766"
-    ],
-    [
-      "One agent isn't enough",
-      "https://benr.build/blog/one-agent-isnt-enough"
-    ]
-  ],
-  [
-    [
-      "2025-12-12, 04:24:34",
-      "https://news.ycombinator.com/item?id=46240855"
-    ],
-    [
-      "Jonathan Blow has spent the past decade designing 1,400 puzzles",
-      "https://arstechnica.com/gaming/2025/12/jonathan-blow-has-spent-the-past-decade-designing-1400-puzzles-for-you/"
     ]
   ]
 ]
