@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-12-19, 14:19:59](https://news.ycombinator.com/item?id=46326120) - [XZ Utils Backdoor](https://en.wikipedia.org/wiki/XZ_Utils_backdoor)
 * [2025-12-19, 14:13:07](https://news.ycombinator.com/item?id=46326050) - [A proposed amendment to ban under 16s in the UK from common online services](https://decoded.legal/blog/2025/12/a-proposed-legislative-amendment-to-attempt-to-ban-under-16s-in-the-uk-from-common-messaging-services-sharing-family-photos-using-wikipedia-and-doing-much-else-online-by-imposing-age-assurance-on-everyone/)
 * [2025-12-19, 11:34:11](https://news.ycombinator.com/item?id=46324665) - [Show HN: I open-sourced my Go and Next B2B SaaS Starter (deploy anywhere, MIT)](https://github.com/moasq/production-saas-starter)
 * [2025-12-19, 11:16:23](https://news.ycombinator.com/item?id=46324543) - [GotaTun -- Mullvad's WireGuard Implementation in Rust](https://mullvad.net/en/blog/announcing-gotatun-the-future-of-wireguard-at-mullvad-vpn)
@@ -16,6 +15,7 @@
 * [2025-12-18, 22:23:09](https://news.ycombinator.com/item?id=46319657) - [1.5 TB of VRAM on Mac Studio – RDMA over Thunderbolt 5](https://www.jeffgeerling.com/blog/2025/15-tb-vram-on-mac-studio-rdma-over-thunderbolt-5)
 * [2025-12-18, 19:08:48](https://news.ycombinator.com/item?id=46317098) - [We pwned X, Vercel, Cursor, and Discord through a supply-chain attack](https://gist.github.com/hackermondev/5e2cdc32849405fff6b46957747a2d28)
 * [2025-12-18, 18:55:34](https://news.ycombinator.com/item?id=46316907) - [How China built its ‘Manhattan Project’ to rival the West in AI chips](https://www.japantimes.co.jp/business/2025/12/18/tech/china-west-ai-chips/)
+* [2025-12-18, 18:18:30](https://news.ycombinator.com/item?id=46316409) - [Firefox will have an option to disable all AI features](https://mastodon.social/@firefoxwebdevs/115740500373677782)
 * [2025-12-18, 18:14:48](https://news.ycombinator.com/item?id=46316367) - [GPT-5.2-Codex](https://openai.com/index/introducing-gpt-5-2-codex/)
 * [2025-12-18, 17:04:32](https://news.ycombinator.com/item?id=46315414) - [Skills for organizations, partners, the ecosystem](https://claude.com/blog/organization-skills-and-directory)
 * [2025-12-18, 15:39:09](https://news.ycombinator.com/item?id=46313991) - [Beginning January 2026, all ACM publications will be made open access](https://dl.acm.org/openaccess)
