@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-12-19](index.md)
 
+* [2025-12-19, 21:52:07](https://news.ycombinator.com/item?id=46331379) - [Buteyko Method](https://en.wikipedia.org/wiki/Buteyko_method)
 * [2025-12-19, 19:44:48](https://news.ycombinator.com/item?id=46330013) - [Show HN: Stickerbox, a kid-safe, AI-powered voice to sticker printer](https://stickerbox.com/)
 * [2025-12-19, 19:12:57](https://news.ycombinator.com/item?id=46329696) - [You can now play Grand Theft Auto Vice City in the browser](https://dos.zone/grand-theft-auto-vice-city/)
 * [2025-12-19, 19:08:48](https://news.ycombinator.com/item?id=46329654) - [Proton Leaves Switzerland](https://www.nzz.ch/technologie/proton-ceo-andy-yen-wer-gesetzgebung-der-polizei-ueberlaesst-sollte-sich-nicht-wundern-wenn-er-eines-tages-in-einem-polizeistaat-aufwacht-ld.1916779)
@@ -46,6 +47,7 @@
 * [2025-12-19, 05:35:34](https://news.ycombinator.com/item?id=46322540) - [Getting bitten by Intel's poor naming scenes](https://lorendb.dev/posts/getting-bitten-by-poor-naming-schemes/)
 * [2025-12-19, 04:56:13](https://news.ycombinator.com/item?id=46322391) - [Rust's Block Pattern](https://notgull.net/block-pattern/)
 * [2025-12-19, 03:26:52](https://news.ycombinator.com/item?id=46321982) - [Reconstructed Commander Keen 1-3 Source Code](https://pckf.com/viewtopic.php?t=18248)
+* [2025-12-19, 03:24:26](https://news.ycombinator.com/item?id=46321972) - [Qwen-Image-Layered: transparency and layer aware open diffusion model](https://huggingface.co/papers/2512.15603)
 * [2025-12-19, 03:19:59](https://news.ycombinator.com/item?id=46321947) - [Brown/MIT shooting suspect found dead, officials say](https://www.washingtonpost.com/nation/2025/12/18/brown-university-shooting-person-of-interest/)
 * [2025-12-19, 02:20:08](https://news.ycombinator.com/item?id=46321619) - [Noclip.website – A digital museum of video game levels](https://noclip.website/)
 * [2025-12-19, 01:42:02](https://news.ycombinator.com/item?id=46321350) - [SMB Direct – SMB3 over RDMA – The Linux Kernel Documentation](https://docs.kernel.org/filesystems/smb/smbdirect.html)
