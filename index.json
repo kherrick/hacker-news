@@ -1,12 +1,32 @@
 [
   [
     [
-      "2025-12-19, 18:24:54",
-      "https://news.ycombinator.com/item?id=46329109"
+      "2025-12-19, 19:08:48",
+      "https://news.ycombinator.com/item?id=46329654"
     ],
     [
-      "Why we're taking legal action against SerpApi's unlawful scraping",
-      "https://blog.google/technology/safety-security/serpapi-lawsuit/"
+      "Proton Leaves Switzerland",
+      "https://www.nzz.ch/technologie/proton-ceo-andy-yen-wer-gesetzgebung-der-polizei-ueberlaesst-sollte-sich-nicht-wundern-wenn-er-eines-tages-in-einem-polizeistaat-aufwacht-ld.1916779"
+    ]
+  ],
+  [
+    [
+      "2025-12-19, 18:59:40",
+      "https://news.ycombinator.com/item?id=46329536"
+    ],
+    [
+      "Wall Street Ruined the Roomba and Then Blamed Lina Khan",
+      "https://www.thebignewsletter.com/p/how-wall-street-ruined-the-roomba"
+    ]
+  ],
+  [
+    [
+      "2025-12-19, 18:46:17",
+      "https://news.ycombinator.com/item?id=46329375"
+    ],
+    [
+      "The New Right-Wing Tech Intelligentsia",
+      "https://bayareacurrent.com/meet-the-new-right-wing-tech-intelligentsia/"
     ]
   ],
   [
@@ -27,6 +47,16 @@
     [
       "Reverse Engineering Major US Airline's PNR System and Accessing All Reservations",
       "https://alexschapiro.com/security/vulnerability/2025/11/20/avelo-airline-reservation-api-vulnerability"
+    ]
+  ],
+  [
+    [
+      "2025-12-19, 17:54:55",
+      "https://news.ycombinator.com/item?id=46328769"
+    ],
+    [
+      "Show HN: Linggen – A local-first memory layer for your AI (Cursor, Zed, Claude)",
+      "https://github.com/linggen/linggen"
     ]
   ],
   [
@@ -61,16 +91,6 @@
   ],
   [
     [
-      "2025-12-19, 16:41:38",
-      "https://news.ycombinator.com/item?id=46327791"
-    ],
-    [
-      "AI will kill all the lawyers",
-      "https://spectator.com/article/ai-will-kill-all-the-lawyers/"
-    ]
-  ],
-  [
-    [
       "2025-12-19, 16:14:39",
       "https://news.ycombinator.com/item?id=46327406"
     ],
@@ -87,6 +107,16 @@
     [
       "Cursor Acquires Graphite",
       "https://graphite.com/blog/graphite-joins-cursor"
+    ]
+  ],
+  [
+    [
+      "2025-12-19, 15:57:01",
+      "https://news.ycombinator.com/item?id=46327206"
+    ],
+    [
+      "Graphite Is Joining Cursor",
+      "https://cursor.com/blog/graphite"
     ]
   ],
   [
@@ -201,52 +231,12 @@
   ],
   [
     [
-      "2025-12-18, 18:14:48",
-      "https://news.ycombinator.com/item?id=46316367"
-    ],
-    [
-      "GPT-5.2-Codex",
-      "https://openai.com/index/introducing-gpt-5-2-codex/"
-    ]
-  ],
-  [
-    [
       "2025-12-18, 15:39:09",
       "https://news.ycombinator.com/item?id=46313991"
     ],
     [
       "Beginning January 2026, all ACM publications will be made open access",
       "https://dl.acm.org/openaccess"
-    ]
-  ],
-  [
-    [
-      "2025-12-16, 21:04:54",
-      "https://news.ycombinator.com/item?id=46294456"
-    ],
-    [
-      "Texas is suing all of the big TV makers for spying on what you watch",
-      "https://www.theverge.com/news/845400/texas-tv-makers-lawsuit-samsung-sony-lg-hisense-tcl-spying"
-    ]
-  ],
-  [
-    [
-      "2025-12-15, 22:01:34",
-      "https://news.ycombinator.com/item?id=46281355"
-    ],
-    [
-      "Designing a Passive Lidar Detector Device",
-      "https://www.atredis.com/blog/2025/11/20/designing-a-passive-lidar-detection-sensor"
-    ]
-  ],
-  [
-    [
-      "2025-12-15, 03:03:45",
-      "https://news.ycombinator.com/item?id=46269979"
-    ],
-    [
-      "Programming language speed comparison using Leibniz formula for π",
-      "https://niklas-heer.github.io/speed-comparison/"
     ]
   ],
   [
@@ -287,6 +277,16 @@
     [
       "Does my key fob have more computing power than the Lunar lander?",
       "https://www.buzzsprout.com/2469780/episodes/18340142-17-does-my-key-fob-have-more-computing-power-than-the-lunar-lander"
+    ]
+  ],
+  [
+    [
+      "2025-12-13, 03:17:30",
+      "https://news.ycombinator.com/item?id=46251668"
+    ],
+    [
+      "Cycle-accurate YM2149 PSG emulator",
+      "https://github.com/slippyex/ym2149-rs"
     ]
   ],
   [
