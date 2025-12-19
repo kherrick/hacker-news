@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-12-19](index.md)
 
+* [2025-12-19, 19:12:57](https://news.ycombinator.com/item?id=46329696) - [You can now play Grand Theft Auto Vice City in the browser](https://dos.zone/grand-theft-auto-vice-city/)
 * [2025-12-19, 19:08:48](https://news.ycombinator.com/item?id=46329654) - [Proton Leaves Switzerland](https://www.nzz.ch/technologie/proton-ceo-andy-yen-wer-gesetzgebung-der-polizei-ueberlaesst-sollte-sich-nicht-wundern-wenn-er-eines-tages-in-einem-polizeistaat-aufwacht-ld.1916779)
 * [2025-12-19, 18:59:40](https://news.ycombinator.com/item?id=46329536) - [Wall Street Ruined the Roomba and Then Blamed Lina Khan](https://www.thebignewsletter.com/p/how-wall-street-ruined-the-roomba)
 * [2025-12-19, 18:46:17](https://news.ycombinator.com/item?id=46329375) - [The New Right-Wing Tech Intelligentsia](https://bayareacurrent.com/meet-the-new-right-wing-tech-intelligentsia/)

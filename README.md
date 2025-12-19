@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-12-19, 19:12:57](https://news.ycombinator.com/item?id=46329696) - [You can now play Grand Theft Auto Vice City in the browser](https://dos.zone/grand-theft-auto-vice-city/)
 * [2025-12-19, 19:08:48](https://news.ycombinator.com/item?id=46329654) - [Proton Leaves Switzerland](https://www.nzz.ch/technologie/proton-ceo-andy-yen-wer-gesetzgebung-der-polizei-ueberlaesst-sollte-sich-nicht-wundern-wenn-er-eines-tages-in-einem-polizeistaat-aufwacht-ld.1916779)
 * [2025-12-19, 18:59:40](https://news.ycombinator.com/item?id=46329536) - [Wall Street Ruined the Roomba and Then Blamed Lina Khan](https://www.thebignewsletter.com/p/how-wall-street-ruined-the-roomba)
 * [2025-12-19, 18:19:32](https://news.ycombinator.com/item?id=46329038) - [TP-Link Tapo C200: Hardcoded Keys, Buffer Overflows and Privacy](https://www.evilsocket.net/2025/12/18/TP-Link-Tapo-C200-Hardcoded-Keys-Buffer-Overflows-and-Privacy-in-the-Era-of-AI-Assisted-Reverse-Engineering/)
@@ -8,7 +9,6 @@
 * [2025-12-19, 17:15:53](https://news.ycombinator.com/item?id=46328288) - [AMD Ryzen 7 5800X3D sells for more than 9800X3D, enthusiasts flock to AM4 DDR4](https://www.tomshardware.com/pc-components/cpus/amds-legacy-ryzen-7-5800x3d-chips-now-sell-for-up-to-usd800-more-than-a-new-9800x3d-am4-chip-costs-twice-as-much-as-msrp-as-enthusiasts-flock-to-old-ddr4-memory)
 * [2025-12-19, 17:08:32](https://news.ycombinator.com/item?id=46328203) - [Show HN: I Made Loom for Mobile](https://demoscope.app)
 * [2025-12-19, 17:01:56](https://news.ycombinator.com/item?id=46328109) - [Prepare for That Stupid World](https://ploum.net/2025-12-19-prepare-for-that-world.html)
-* [2025-12-19, 16:14:39](https://news.ycombinator.com/item?id=46327406) - [TikTok Deal Is the Shittiest Possible Outcome, Making Everything Worse](https://www.techdirt.com/2025/12/19/tiktok-deal-done-and-its-somehow-the-shittiest-possible-outcome-making-everything-worse/)
 * [2025-12-19, 16:07:42](https://news.ycombinator.com/item?id=46327325) - [Cursor Acquires Graphite](https://graphite.com/blog/graphite-joins-cursor)
 * [2025-12-19, 15:57:01](https://news.ycombinator.com/item?id=46327206) - [Graphite Is Joining Cursor](https://cursor.com/blog/graphite)
 * [2025-12-19, 15:51:30](https://news.ycombinator.com/item?id=46327133) - [Believe the Checkbook](https://robertgreiner.com/believe-the-checkbook/)
