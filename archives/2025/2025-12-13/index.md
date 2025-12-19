@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-12-13](index.md)
 
+* [2025-12-13, 23:42:03](https://news.ycombinator.com/item?id=46259343) - [From Zero to QED: An informal introduction to formality with Lean 4](https://sdiehl.github.io/zero-to-qed/01_introduction.html)
 * [2025-12-13, 23:39:48](https://news.ycombinator.com/item?id=46259334) - [Closures as Win32 Window Procedures](https://nullprogram.com/blog/2025/12/12/)
 * [2025-12-13, 23:25:05](https://news.ycombinator.com/item?id=46259233) - [Kids Rarely Read Whole Books Anymore. Even in English Class](https://www.nytimes.com/2025/12/12/us/high-school-english-teachers-assigning-books.html)
 * [2025-12-13, 23:04:26](https://news.ycombinator.com/item?id=46259095) - [RemoveWindowsAI](https://github.com/zoicware/RemoveWindowsAI)
