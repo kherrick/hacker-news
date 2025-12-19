@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-12-18, 22:52:06](https://news.ycombinator.com/item?id=46319946) - [Great Ideas in Theoretical Computer Science](https://www.cs251.com/)
+* [2025-12-18, 22:52:06](https://news.ycombinator.com/item?id=46319946) - [Great ideas in theoretical computer science](https://www.cs251.com/)
 * [2025-12-18, 22:39:47](https://news.ycombinator.com/item?id=46319826) - [Trained LLMs exclusively on pre-1913 texts](https://github.com/DGoettlich/history-llms)
 * [2025-12-18, 22:23:09](https://news.ycombinator.com/item?id=46319657) - [1.5 TB of VRAM on Mac Studio – RDMA over Thunderbolt 5](https://www.jeffgeerling.com/blog/2025/15-tb-vram-on-mac-studio-rdma-over-thunderbolt-5)
 * [2025-12-18, 21:52:39](https://news.ycombinator.com/item?id=46319324) - [AI vending machine was tricked into giving away everything](https://kottke.org/25/12/this-ai-vending-machine-was-tricked-into-giving-away-everything)
-* [2025-12-18, 21:16:25](https://news.ycombinator.com/item?id=46318852) - [Two kinds of vibe coding](https://davidbau.com/archives/2025/12/16/vibe_coding.html)
 * [2025-12-18, 21:02:10](https://news.ycombinator.com/item?id=46318676) - [Delty (YC X25) Is Hiring an ML Engineer](https://www.ycombinator.com/companies/delty/jobs/MDeC49o-machine-learning-engineer)
+* [2025-12-18, 20:26:55](https://news.ycombinator.com/item?id=46318191) - [Local WYSIWYG Markdown, mockup, data model editor powered by Claude Code](https://nimbalyst.com)
 * [2025-12-18, 19:48:15](https://news.ycombinator.com/item?id=46317657) - [T5Gemma 2: The next generation of encoder-decoder models](https://blog.google/technology/developers/t5gemma-2/)
 * [2025-12-18, 19:41:24](https://news.ycombinator.com/item?id=46317546) - [How to hack Discord, Vercel and more with one easy trick](https://kibty.town/blog/mintlify/)
 * [2025-12-18, 19:15:17](https://news.ycombinator.com/item?id=46317174) - [The Scottish Highlands, the Appalachians, Atlas are the same mountain range](https://vividmaps.com/central-pangean-mountains/)
