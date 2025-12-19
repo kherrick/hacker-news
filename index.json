@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-12-19, 22:48:24",
+      "https://news.ycombinator.com/item?id=46331877"
+    ],
+    [
+      "Anthropic says AI sentiment is positive. Their data tells a different story",
+      "https://www.playbookatlas.com/research/ai-adoption-explorer"
+    ]
+  ],
+  [
+    [
       "2025-12-19, 22:13:06",
       "https://news.ycombinator.com/item?id=46331586"
     ],
@@ -31,22 +41,22 @@
   ],
   [
     [
+      "2025-12-19, 20:29:53",
+      "https://news.ycombinator.com/item?id=46330522"
+    ],
+    [
+      "The scariest boot loader code",
+      "http://miod.online.fr/software/openbsd/stories/boot_hppa.html"
+    ]
+  ],
+  [
+    [
       "2025-12-19, 19:44:48",
       "https://news.ycombinator.com/item?id=46330013"
     ],
     [
       "Show HN: Stickerbox, a kid-safe, AI-powered voice to sticker printer",
       "https://stickerbox.com/"
-    ]
-  ],
-  [
-    [
-      "2025-12-19, 19:12:57",
-      "https://news.ycombinator.com/item?id=46329696"
-    ],
-    [
-      "You can now play Grand Theft Auto Vice City in the browser",
-      "https://dos.zone/grand-theft-auto-vice-city/"
     ]
   ],
   [
@@ -191,6 +201,16 @@
   ],
   [
     [
+      "2025-12-19, 03:19:59",
+      "https://news.ycombinator.com/item?id=46321947"
+    ],
+    [
+      "Brown/MIT shooting suspect found dead, officials say",
+      "https://www.washingtonpost.com/nation/2025/12/18/brown-university-shooting-person-of-interest/"
+    ]
+  ],
+  [
+    [
       "2025-12-18, 22:39:47",
       "https://news.ycombinator.com/item?id=46319826"
     ],
@@ -241,16 +261,6 @@
   ],
   [
     [
-      "2025-12-16, 18:54:37",
-      "https://news.ycombinator.com/item?id=46292682"
-    ],
-    [
-      "Ask HN: How are you LLM-coding in an established code base?",
-      "https://news.ycombinator.com/item?id=46292682"
-    ]
-  ],
-  [
-    [
       "2025-12-16, 18:21:21",
       "https://news.ycombinator.com/item?id=46292148"
     ],
@@ -261,22 +271,12 @@
   ],
   [
     [
-      "2025-12-16, 16:32:27",
-      "https://news.ycombinator.com/item?id=46290620"
+      "2025-12-16, 14:38:56",
+      "https://news.ycombinator.com/item?id=46289055"
     ],
     [
-      "Prompt caching for cheaper LLM tokens",
-      "https://ngrok.com/blog/prompt-caching/"
-    ]
-  ],
-  [
-    [
-      "2025-12-16, 12:17:08",
-      "https://news.ycombinator.com/item?id=46287626"
-    ],
-    [
-      "Detailed balance in large language model-driven agents",
-      "https://arxiv.org/abs/2512.10047"
+      "Show HN: Misata – synthetic data engine using LLM and Vectorized NumPy",
+      "https://github.com/rasinmuhammed/misata"
     ]
   ],
   [
