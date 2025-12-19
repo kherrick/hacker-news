@@ -68,6 +68,7 @@
 * [2025-12-14, 07:45:15](https://news.ycombinator.com/item?id=46261452) - [Compiler Engineering in Practice](https://chisophugis.github.io/2025/12/08/compiler-engineering-in-practice-part-1-what-is-a-compiler.html)
 * [2025-12-14, 06:50:34](https://news.ycombinator.com/item?id=46261260) - [Microscopic robots that sense, think, act, and compute](https://www.science.org/doi/10.1126/scirobotics.adu8009)
 * [2025-12-14, 05:38:52](https://news.ycombinator.com/item?id=46261020) - [\"You should never build a CMS\"](https://www.sanity.io/blog/you-should-never-build-a-cms)
+* [2025-12-14, 05:09:26](https://news.ycombinator.com/item?id=46260901) - [Pingfs: Stores your data in ICMP ping packets](https://github.com/yarrick/pingfs)
 * [2025-12-14, 04:59:07](https://news.ycombinator.com/item?id=46260852) - [Pizlix: Memory Safe Linux from Scratch](https://fil-c.org/pizlix)
 * [2025-12-14, 04:11:05](https://news.ycombinator.com/item?id=46260686) - [Tiobe Index for December 2025: R Joins the Top as SQL Climbs](https://www.techrepublic.com/article/news-tiobe-commentary-dec-2025/)
 * [2025-12-14, 03:46:51](https://news.ycombinator.com/item?id=46260596) - [Heavy metal is healing teens on the Blackfeet Nation](https://www.hcn.org/issues/57-11/heavy-metal-is-healing-teens-on-the-blackfeet-nation/)
