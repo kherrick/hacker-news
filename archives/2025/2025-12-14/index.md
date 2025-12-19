@@ -17,6 +17,7 @@
 * [2025-12-14, 21:04:25](https://news.ycombinator.com/item?id=46266867) - [Feather Detective (2016)](https://www.audubon.org/magazine/behind-scenes-worlds-top-feather-detective)
 * [2025-12-14, 20:47:21](https://news.ycombinator.com/item?id=46266717) - [The Problem of Teaching Physics in Latin America (1963)](https://calteches.library.caltech.edu/46/2/LatinAmerica.htm)
 * [2025-12-14, 20:40:16](https://news.ycombinator.com/item?id=46266655) - [Opus 4.5 is the first model that makes me fear for my job](https://old.reddit.com/r/ClaudeAI/comments/1pmgk5c/opus_45_is_the_first_model_that_makes_me_actually/)
+* [2025-12-14, 20:25:25](https://news.ycombinator.com/item?id=46266497) - [The Code That Revolutionized Orbital Simulation [video]](https://www.youtube.com/watch?v=nCg3aXn5F3M)
 * [2025-12-14, 20:04:11](https://news.ycombinator.com/item?id=46266312) - [Advent of Swift](https://leahneukirchen.org/blog/archive/2025/12/advent-of-swift.html)
 * [2025-12-14, 19:42:53](https://news.ycombinator.com/item?id=46266102) - [JSDoc *Is* TypeScript](https://culi.bearblog.dev/jsdoc-is-typescript/)
 * [2025-12-14, 19:41:59](https://news.ycombinator.com/item?id=46266094) - [Do Dyslexia Fonts Actually Work? (2022)](https://www.edutopia.org/article/do-dyslexia-fonts-actually-work/)

@@ -5,7 +5,6 @@
 * [2025-12-18, 22:23:09](https://news.ycombinator.com/item?id=46319657) - [1.5 TB of VRAM on Mac Studio – RDMA over Thunderbolt 5](https://www.jeffgeerling.com/blog/2025/15-tb-vram-on-mac-studio-rdma-over-thunderbolt-5)
 * [2025-12-18, 21:52:39](https://news.ycombinator.com/item?id=46319324) - [AI vending machine was tricked into giving away everything](https://kottke.org/25/12/this-ai-vending-machine-was-tricked-into-giving-away-everything)
 * [2025-12-18, 21:02:10](https://news.ycombinator.com/item?id=46318676) - [Delty (YC X25) Is Hiring an ML Engineer](https://www.ycombinator.com/companies/delty/jobs/MDeC49o-machine-learning-engineer)
-* [2025-12-18, 20:26:55](https://news.ycombinator.com/item?id=46318191) - [Local WYSIWYG Markdown, mockup, data model editor powered by Claude Code](https://nimbalyst.com)
 * [2025-12-18, 19:48:15](https://news.ycombinator.com/item?id=46317657) - [T5Gemma 2: The next generation of encoder-decoder models](https://blog.google/technology/developers/t5gemma-2/)
 * [2025-12-18, 19:41:24](https://news.ycombinator.com/item?id=46317546) - [How to hack Discord, Vercel and more with one easy trick](https://kibty.town/blog/mintlify/)
 * [2025-12-18, 19:15:17](https://news.ycombinator.com/item?id=46317174) - [The Scottish Highlands, the Appalachians, Atlas are the same mountain range](https://vividmaps.com/central-pangean-mountains/)
@@ -27,9 +26,10 @@
 * [2025-12-16, 19:11:47](https://news.ycombinator.com/item?id=46292937) - [I've been writing ring buffers wrong all these years (2016)](https://www.snellman.net/blog/archive/2016-12-13-ring-buffers/)
 * [2025-12-16, 18:26:43](https://news.ycombinator.com/item?id=46292266) - [Meta Segment Anything Model Audio](https://ai.meta.com/samaudio/)
 * [2025-12-16, 16:12:06](https://news.ycombinator.com/item?id=46290349) - [Show HN: Picknplace.js, an alternative to drag-and-drop](https://jgthms.com/picknplace.js/)
-* [2025-12-16, 00:09:34](https://news.ycombinator.com/item?id=46282902) - [The <time> element should do something](https://nolanlawson.com/2025/12/14/the-time-element-should-actually-do-something/)
 * [2025-12-15, 13:32:12](https://news.ycombinator.com/item?id=46274287) - [Show HN: Learning a Language Using Only Words You Know](https://simedw.com/2025/12/15/langseed/)
-* [2025-12-13, 19:34:14](https://news.ycombinator.com/item?id=46257210) - [The Legacy of Nicaea](https://hedgehogreview.com/web-features/thr/posts/the-legacy-of-nicaea)
+* [2025-12-15, 12:54:31](https://news.ycombinator.com/item?id=46273877) - [Show HN: Bithoven – A high-level, imperative language for Bitcoin Smart Contract](https://github.com/ChrisCho-H/bithoven)
+* [2025-12-14, 20:25:25](https://news.ycombinator.com/item?id=46266497) - [The Code That Revolutionized Orbital Simulation [video]](https://www.youtube.com/watch?v=nCg3aXn5F3M)
+* [2025-12-12, 04:24:34](https://news.ycombinator.com/item?id=46240855) - [Jonathan Blow has spent the past decade designing 1,400 puzzles](https://arstechnica.com/gaming/2025/12/jonathan-blow-has-spent-the-past-decade-designing-1400-puzzles-for-you/)
 
 ## [Archives](archives/index.md)
 
