@@ -21,7 +21,6 @@
 * [2025-12-18, 22:39:47](https://news.ycombinator.com/item?id=46319826) - [History LLMs: Models trained exclusively on pre-1913 texts](https://github.com/DGoettlich/history-llms)
 * [2025-12-18, 18:59:33](https://news.ycombinator.com/item?id=46316968) - [Show HN: TinyPDF – 3kb pdf library (70x smaller than jsPDF)](https://github.com/Lulzx/tinypdf)
 * [2025-12-18, 18:28:28](https://news.ycombinator.com/item?id=46316562) - [Ask HN: Who here is not working on web apps/server code?](https://news.ycombinator.com/item?id=46316562)
-* [2025-12-18, 16:19:48](https://news.ycombinator.com/item?id=46314684) - [Response Healing: Reduce JSON defects by 80%+](https://openrouter.ai/announcements/response-healing-reduce-json-defects-by-80percent)
 * [2025-12-18, 15:01:10](https://news.ycombinator.com/item?id=46313390) - [Mistral OCR 3](https://mistral.ai/news/mistral-ocr-3)
 * [2025-12-17, 22:32:19](https://news.ycombinator.com/item?id=46306497) - [NOAA deploys new generation of AI-driven global weather models](https://www.noaa.gov/news-release/noaa-deploys-new-generation-of-ai-driven-global-weather-models)
 * [2025-12-16, 18:54:37](https://news.ycombinator.com/item?id=46292682) - [Ask HN: How are you LLM-coding in an established code base?](https://news.ycombinator.com/item?id=46292682)
@@ -29,6 +28,7 @@
 * [2025-12-16, 16:32:27](https://news.ycombinator.com/item?id=46290620) - [Prompt caching for cheaper LLM tokens](https://ngrok.com/blog/prompt-caching/)
 * [2025-12-16, 12:17:08](https://news.ycombinator.com/item?id=46287626) - [Detailed balance in large language model-driven agents](https://arxiv.org/abs/2512.10047)
 * [2025-12-14, 19:03:21](https://news.ycombinator.com/item?id=46265756) - [Postfix Macros and Let Place](https://nadrieril.github.io/blog/2025/12/09/postfix-macros-and-let-place.html)
+* [2025-12-14, 09:29:47](https://news.ycombinator.com/item?id=46261884) - [Show HN: Stepped Actions – distributed workflow orchestration for Rails](https://github.com/envirobly/stepped)
 * [2025-12-13, 02:31:46](https://news.ycombinator.com/item?id=46251460) - [Lite^3, a JSON-compatible zero-copy serialization format](https://github.com/fastserial/lite3)
 
 ## [Archives](archives/index.md)
