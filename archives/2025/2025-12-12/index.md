@@ -71,6 +71,7 @@
 * [2025-12-12, 06:47:45](https://news.ycombinator.com/item?id=46241500) - [\"Are you the one?\" is free money](https://blog.owenlacey.dev/posts/are-you-the-one-is-free-money/)
 * [2025-12-12, 06:17:28](https://news.ycombinator.com/item?id=46241368) - [Freeing a Xiaomi humidifier from the cloud](https://0l.de/blog/2025/11/xiaomi-humidifier/)
 * [2025-12-12, 04:55:42](https://news.ycombinator.com/item?id=46240998) - [Show HN: I got my site down to 237kb by ditching Google Analytics](https://deadstack.net/)
+* [2025-12-12, 04:54:10](https://news.ycombinator.com/item?id=46240991) - [Monumental snake engravings of the Orinoco River (2024)](https://www.cambridge.org/core/journals/antiquity/article/monumental-snake-engravings-of-the-orinoco-river/147F83AA4381153C4D0F4EA4817B3766)
 * [2025-12-12, 04:37:33](https://news.ycombinator.com/item?id=46240912) - [Mark V Shaney](https://en.wikipedia.org/wiki/Mark_V._Shaney)
 * [2025-12-12, 04:24:34](https://news.ycombinator.com/item?id=46240855) - [Jonathan Blow has spent the past decade designing 1,400 puzzles for you](https://arstechnica.com/gaming/2025/12/jonathan-blow-has-spent-the-past-decade-designing-1400-puzzles-for-you/)
 * [2025-12-12, 02:10:09](https://news.ycombinator.com/item?id=46240103) - [Show HN: Search the lyrics of 500 HÖR Berlin techno sets](https://hor.greg.technology/)

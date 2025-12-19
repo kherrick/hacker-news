@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-12-19](index.md)
 
+* [2025-12-19, 22:13:06](https://news.ycombinator.com/item?id=46331586) - [CSS Grid Lanes](https://webkit.org/blog/17660/introducing-css-grid-lanes/)
 * [2025-12-19, 21:52:07](https://news.ycombinator.com/item?id=46331379) - [Buteyko Method](https://en.wikipedia.org/wiki/Buteyko_method)
+* [2025-12-19, 21:34:10](https://news.ycombinator.com/item?id=46331216) - [A Better Zip Bomb](https://www.bamsoftware.com/hacks/zipbomb/)
 * [2025-12-19, 19:44:48](https://news.ycombinator.com/item?id=46330013) - [Show HN: Stickerbox, a kid-safe, AI-powered voice to sticker printer](https://stickerbox.com/)
 * [2025-12-19, 19:12:57](https://news.ycombinator.com/item?id=46329696) - [You can now play Grand Theft Auto Vice City in the browser](https://dos.zone/grand-theft-auto-vice-city/)
 * [2025-12-19, 19:08:48](https://news.ycombinator.com/item?id=46329654) - [Proton Leaves Switzerland](https://www.nzz.ch/technologie/proton-ceo-andy-yen-wer-gesetzgebung-der-polizei-ueberlaesst-sollte-sich-nicht-wundern-wenn-er-eines-tages-in-einem-polizeistaat-aufwacht-ld.1916779)
