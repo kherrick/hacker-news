@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-12-19](index.md)
 
+* [2025-12-19, 13:03:11](https://news.ycombinator.com/item?id=46325360) - [Engineers who dismiss AI](https://terriblesoftware.org/2025/12/19/the-strange-case-of-engineers-who-dismiss-ai/)
 * [2025-12-19, 11:34:11](https://news.ycombinator.com/item?id=46324665) - [Show HN: I open-sourced my Go and Next B2B SaaS Starter (deploy anywhere, MIT)](https://github.com/moasq/production-saas-starter)
 * [2025-12-19, 11:21:45](https://news.ycombinator.com/item?id=46324579) - [Show HN: Hacker News, but every headline is hysterical clickbait](https://dosaygo-studio.github.io/hn-front-page-2035/news-max.html)
 * [2025-12-19, 11:16:23](https://news.ycombinator.com/item?id=46324543) - [GotaTun -- Mullvad's WireGuard Implementation in Rust](https://mullvad.net/en/blog/announcing-gotatun-the-future-of-wireguard-at-mullvad-vpn)

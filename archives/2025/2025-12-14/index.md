@@ -62,6 +62,7 @@
 * [2025-12-14, 10:07:00](https://news.ycombinator.com/item?id=46262021) - [Shai-Hulud compromised a dev machine and raided GitHub org access: a post-mortem](https://trigger.dev/blog/shai-hulud-postmortem)
 * [2025-12-14, 10:01:25](https://news.ycombinator.com/item?id=46261998) - [Willison on Merchant's \"Copywriters reveal how AI has decimated their industry\"](https://simonwillison.net/2025/Dec/14/copywriters-reveal-how-ai-has-decimated-their-industry/)
 * [2025-12-14, 09:44:13](https://news.ycombinator.com/item?id=46261942) - [Show HN: I Ching simulator with accurate Yarrow Stalk probabilities](https://castiching.com/)
+* [2025-12-14, 09:29:47](https://news.ycombinator.com/item?id=46261884) - [Show HN: Stepped Actions – distributed workflow orchestration for Rails](https://github.com/envirobly/stepped)
 * [2025-12-14, 09:16:58](https://news.ycombinator.com/item?id=46261838) - [Is P=NP?](https://adlrocha.substack.com/p/adlrocha-is-nnp)
 * [2025-12-14, 08:54:05](https://news.ycombinator.com/item?id=46261739) - [Surface Tension of Software](https://iamstelios.com/blog/surface-tension-of-software/)
 * [2025-12-14, 08:21:59](https://news.ycombinator.com/item?id=46261616) - [Bye, Mom](https://aella.substack.com/p/bye-mom)

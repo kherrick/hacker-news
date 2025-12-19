@@ -41,6 +41,7 @@
 * [2025-12-12, 16:04:16](https://news.ycombinator.com/item?id=46245398) - [Epic celebrates \"the end of the Apple Tax\" after court win in iOS payments case](https://arstechnica.com/tech-policy/2025/12/epic-celebrates-the-end-of-the-apple-tax-after-appeals-court-win-in-ios-payments-case/)
 * [2025-12-12, 15:58:10](https://news.ycombinator.com/item?id=46245331) - [Framework Raises DDR5 Memory Prices by 50% for DIY Laptops](https://www.phoronix.com/news/Framework-50p-DDR5-Memory)
 * [2025-12-12, 15:51:30](https://news.ycombinator.com/item?id=46245264) - [We are not here to make code](https://www.todepond.com/go/we-are-not-here-to-make-code/)
+* [2025-12-12, 15:49:16](https://news.ycombinator.com/item?id=46245238) - [How to think about durable execution](https://hatchet.run/blog/durable-execution)
 * [2025-12-12, 15:46:44](https://news.ycombinator.com/item?id=46245211) - [I couldn't find a logging library that worked for my library, so I made one](https://hackers.pub/@hongminhee/2025/logtape-fedify-case-study)
 * [2025-12-12, 15:34:45](https://news.ycombinator.com/item?id=46245083) - [Various locale mismatch scenarios in Windows clipboard text format synthesis](https://devblogs.microsoft.com/oldnewthing/20251211-37/?p=111858)
 * [2025-12-12, 15:29:46](https://news.ycombinator.com/item?id=46245041) - [Berlin Approves New Expansion of Police Surveillance Powers](https://reclaimthenet.org/berlin-approves-new-expansion-of-police-surveillance-powers)
