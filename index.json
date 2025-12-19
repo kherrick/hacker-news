@@ -1,22 +1,22 @@
 [
   [
     [
+      "2025-12-19, 13:03:11",
+      "https://news.ycombinator.com/item?id=46325360"
+    ],
+    [
+      "Engineers who dismiss AI",
+      "https://terriblesoftware.org/2025/12/19/the-strange-case-of-engineers-who-dismiss-ai/"
+    ]
+  ],
+  [
+    [
       "2025-12-19, 11:34:11",
       "https://news.ycombinator.com/item?id=46324665"
     ],
     [
       "Show HN: I open-sourced my Go and Next B2B SaaS Starter (deploy anywhere, MIT)",
       "https://github.com/moasq/production-saas-starter"
-    ]
-  ],
-  [
-    [
-      "2025-12-19, 11:21:45",
-      "https://news.ycombinator.com/item?id=46324579"
-    ],
-    [
-      "Show HN: Hacker News, but every headline is hysterical clickbait",
-      "https://dosaygo-studio.github.io/hn-front-page-2035/news-max.html"
     ]
   ],
   [
@@ -47,16 +47,6 @@
     [
       "Making Google Sans Flex",
       "https://design.google/library/google-sans-flex-font"
-    ]
-  ],
-  [
-    [
-      "2025-12-19, 05:38:25",
-      "https://news.ycombinator.com/item?id=46322556"
-    ],
-    [
-      "2026 Apple introducing more ads to increase opportunity in search results",
-      "https://ads.apple.com/app-store/help/ad-placements/0082-search-results"
     ]
   ],
   [
@@ -137,16 +127,6 @@
     [
       "1.5 TB of VRAM on Mac Studio – RDMA over Thunderbolt 5",
       "https://www.jeffgeerling.com/blog/2025/15-tb-vram-on-mac-studio-rdma-over-thunderbolt-5"
-    ]
-  ],
-  [
-    [
-      "2025-12-18, 21:16:25",
-      "https://news.ycombinator.com/item?id=46318852"
-    ],
-    [
-      "Two kinds of vibe coding",
-      "https://davidbau.com/archives/2025/12/16/vibe_coding.html"
     ]
   ],
   [
@@ -281,6 +261,16 @@
   ],
   [
     [
+      "2025-12-14, 09:29:47",
+      "https://news.ycombinator.com/item?id=46261884"
+    ],
+    [
+      "Show HN: Stepped Actions – distributed workflow orchestration for Rails",
+      "https://github.com/envirobly/stepped"
+    ]
+  ],
+  [
+    [
       "2025-12-14, 05:09:26",
       "https://news.ycombinator.com/item?id=46260901"
     ],
@@ -297,6 +287,16 @@
     [
       "From Zero to QED: An informal introduction to formality with Lean 4",
       "https://sdiehl.github.io/zero-to-qed/01_introduction.html"
+    ]
+  ],
+  [
+    [
+      "2025-12-12, 15:49:16",
+      "https://news.ycombinator.com/item?id=46245238"
+    ],
+    [
+      "How to think about durable execution",
+      "https://hatchet.run/blog/durable-execution"
     ]
   ]
 ]
