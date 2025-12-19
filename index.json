@@ -121,22 +121,22 @@
   ],
   [
     [
-      "2025-12-18, 21:16:25",
-      "https://news.ycombinator.com/item?id=46318852"
-    ],
-    [
-      "Two kinds of vibe coding",
-      "https://davidbau.com/archives/2025/12/16/vibe_coding.html"
-    ]
-  ],
-  [
-    [
       "2025-12-18, 21:02:10",
       "https://news.ycombinator.com/item?id=46318676"
     ],
     [
       "Delty (YC X25) Is Hiring an ML Engineer",
       "https://www.ycombinator.com/companies/delty/jobs/MDeC49o-machine-learning-engineer"
+    ]
+  ],
+  [
+    [
+      "2025-12-18, 19:48:15",
+      "https://news.ycombinator.com/item?id=46317657"
+    ],
+    [
+      "T5Gemma 2: The next generation of encoder-decoder models",
+      "https://blog.google/technology/developers/t5gemma-2/"
     ]
   ],
   [
@@ -261,6 +261,16 @@
   ],
   [
     [
+      "2025-12-15, 16:17:36",
+      "https://news.ycombinator.com/item?id=46276470"
+    ],
+    [
+      "Top Open Source Authorization Libraries (2024)",
+      "https://permify.co/post/open-source-authorization-libraries/"
+    ]
+  ],
+  [
+    [
       "2025-12-14, 05:09:26",
       "https://news.ycombinator.com/item?id=46260901"
     ],
@@ -287,16 +297,6 @@
     [
       "The state of the kernel Rust experiment",
       "https://lwn.net/SubscriberLink/1050174/63aa7da43214c3ce/"
-    ]
-  ],
-  [
-    [
-      "2025-12-12, 11:59:15",
-      "https://news.ycombinator.com/item?id=46243311"
-    ],
-    [
-      "Telegraph chess: A 19th century tech marvel",
-      "https://spectrum.ieee.org/telegraph-chess"
     ]
   ]
 ]
