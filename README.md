@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-12-19, 14:13:07](https://news.ycombinator.com/item?id=46326050) - [A proposed amendment to ban under 16s in the UK from common online services](https://decoded.legal/blog/2025/12/a-proposed-legislative-amendment-to-attempt-to-ban-under-16s-in-the-uk-from-common-messaging-services-sharing-family-photos-using-wikipedia-and-doing-much-else-online-by-imposing-age-assurance-on-everyone/)
 * [2025-12-19, 11:34:11](https://news.ycombinator.com/item?id=46324665) - [Show HN: I open-sourced my Go and Next B2B SaaS Starter (deploy anywhere, MIT)](https://github.com/moasq/production-saas-starter)
 * [2025-12-19, 11:16:23](https://news.ycombinator.com/item?id=46324543) - [GotaTun -- Mullvad's WireGuard Implementation in Rust](https://mullvad.net/en/blog/announcing-gotatun-the-future-of-wireguard-at-mullvad-vpn)
 * [2025-12-19, 10:03:38](https://news.ycombinator.com/item?id=46324078) - [Amazon will allow ePub and PDF downloads for DRM-free eBooks](https://www.kdpcommunity.com/s/article/New-eBook-Download-Options-for-Readers-Coming-in-2026?language=en_US)
@@ -12,10 +13,8 @@
 * [2025-12-18, 22:52:06](https://news.ycombinator.com/item?id=46319946) - [Great ideas in theoretical computer science](https://www.cs251.com/)
 * [2025-12-18, 22:39:47](https://news.ycombinator.com/item?id=46319826) - [History LLMs: Models trained exclusively on pre-1913 texts](https://github.com/DGoettlich/history-llms)
 * [2025-12-18, 22:23:09](https://news.ycombinator.com/item?id=46319657) - [1.5 TB of VRAM on Mac Studio – RDMA over Thunderbolt 5](https://www.jeffgeerling.com/blog/2025/15-tb-vram-on-mac-studio-rdma-over-thunderbolt-5)
-* [2025-12-18, 21:16:25](https://news.ycombinator.com/item?id=46318852) - [Two kinds of vibe coding](https://davidbau.com/archives/2025/12/16/vibe_coding.html)
 * [2025-12-18, 19:08:48](https://news.ycombinator.com/item?id=46317098) - [We pwned X, Vercel, Cursor, and Discord through a supply-chain attack](https://gist.github.com/hackermondev/5e2cdc32849405fff6b46957747a2d28)
 * [2025-12-18, 18:55:34](https://news.ycombinator.com/item?id=46316907) - [How China built its ‘Manhattan Project’ to rival the West in AI chips](https://www.japantimes.co.jp/business/2025/12/18/tech/china-west-ai-chips/)
-* [2025-12-18, 18:18:30](https://news.ycombinator.com/item?id=46316409) - [Firefox will have an option to disable all AI features](https://mastodon.social/@firefoxwebdevs/115740500373677782)
 * [2025-12-18, 18:14:48](https://news.ycombinator.com/item?id=46316367) - [GPT-5.2-Codex](https://openai.com/index/introducing-gpt-5-2-codex/)
 * [2025-12-18, 17:04:32](https://news.ycombinator.com/item?id=46315414) - [Skills for organizations, partners, the ecosystem](https://claude.com/blog/organization-skills-and-directory)
 * [2025-12-18, 15:39:09](https://news.ycombinator.com/item?id=46313991) - [Beginning January 2026, all ACM publications will be made open access](https://dl.acm.org/openaccess)
@@ -29,6 +28,7 @@
 * [2025-12-14, 09:29:47](https://news.ycombinator.com/item?id=46261884) - [Show HN: Stepped Actions – distributed workflow orchestration for Rails](https://github.com/envirobly/stepped)
 * [2025-12-14, 05:09:26](https://news.ycombinator.com/item?id=46260901) - [Pingfs: Stores your data in ICMP ping packets](https://github.com/yarrick/pingfs)
 * [2025-12-13, 23:42:03](https://news.ycombinator.com/item?id=46259343) - [From Zero to QED: An informal introduction to formality with Lean 4](https://sdiehl.github.io/zero-to-qed/01_introduction.html)
+* [2025-12-13, 16:37:09](https://news.ycombinator.com/item?id=46255827) - [Show HN: UK Butchers Meat Price Tracker](https://offer-spider.onrender.com)
 * [2025-12-12, 15:49:16](https://news.ycombinator.com/item?id=46245238) - [How to think about durable execution](https://hatchet.run/blog/durable-execution)
 
 ## [Archives](archives/index.md)
