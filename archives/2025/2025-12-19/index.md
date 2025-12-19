@@ -4,9 +4,13 @@
 
 ### [Archives](../../index.md) for [2025-12-19](index.md)
 
+* [2025-12-19, 19:08:48](https://news.ycombinator.com/item?id=46329654) - [Proton Leaves Switzerland](https://www.nzz.ch/technologie/proton-ceo-andy-yen-wer-gesetzgebung-der-polizei-ueberlaesst-sollte-sich-nicht-wundern-wenn-er-eines-tages-in-einem-polizeistaat-aufwacht-ld.1916779)
+* [2025-12-19, 18:59:40](https://news.ycombinator.com/item?id=46329536) - [Wall Street Ruined the Roomba and Then Blamed Lina Khan](https://www.thebignewsletter.com/p/how-wall-street-ruined-the-roomba)
+* [2025-12-19, 18:46:17](https://news.ycombinator.com/item?id=46329375) - [The New Right-Wing Tech Intelligentsia](https://bayareacurrent.com/meet-the-new-right-wing-tech-intelligentsia/)
 * [2025-12-19, 18:24:54](https://news.ycombinator.com/item?id=46329109) - [Why we're taking legal action against SerpApi's unlawful scraping](https://blog.google/technology/safety-security/serpapi-lawsuit/)
 * [2025-12-19, 18:19:32](https://news.ycombinator.com/item?id=46329038) - [TP-Link Tapo C200: Hardcoded Keys, Buffer Overflows and Privacy](https://www.evilsocket.net/2025/12/18/TP-Link-Tapo-C200-Hardcoded-Keys-Buffer-Overflows-and-Privacy-in-the-Era-of-AI-Assisted-Reverse-Engineering/)
 * [2025-12-19, 18:15:17](https://news.ycombinator.com/item?id=46328992) - [Reverse Engineering Major US Airline's PNR System and Accessing All Reservations](https://alexschapiro.com/security/vulnerability/2025/11/20/avelo-airline-reservation-api-vulnerability)
+* [2025-12-19, 17:54:55](https://news.ycombinator.com/item?id=46328769) - [Show HN: Linggen – A local-first memory layer for your AI (Cursor, Zed, Claude)](https://github.com/linggen/linggen)
 * [2025-12-19, 17:15:53](https://news.ycombinator.com/item?id=46328288) - [AMD Ryzen 7 5800X3D sells for more than 9800X3D, enthusiasts flock to AM4 DDR4](https://www.tomshardware.com/pc-components/cpus/amds-legacy-ryzen-7-5800x3d-chips-now-sell-for-up-to-usd800-more-than-a-new-9800x3d-am4-chip-costs-twice-as-much-as-msrp-as-enthusiasts-flock-to-old-ddr4-memory)
 * [2025-12-19, 17:08:32](https://news.ycombinator.com/item?id=46328203) - [Show HN: I Made Loom for Mobile](https://demoscope.app)
 * [2025-12-19, 17:01:56](https://news.ycombinator.com/item?id=46328109) - [Prepare for That Stupid World](https://ploum.net/2025-12-19-prepare-for-that-world.html)
