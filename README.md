@@ -27,7 +27,7 @@
 * [2025-12-16, 18:54:37](https://news.ycombinator.com/item?id=46292682) - [Ask HN: How are you LLM-coding in an established code base?](https://news.ycombinator.com/item?id=46292682)
 * [2025-12-16, 18:21:21](https://news.ycombinator.com/item?id=46292148) - [The pitfalls of partitioning Postgres yourself](https://hatchet.run/blog/postgres-partitioning)
 * [2025-12-16, 16:32:27](https://news.ycombinator.com/item?id=46290620) - [Prompt caching for cheaper LLM tokens](https://ngrok.com/blog/prompt-caching/)
-* [2025-12-14, 19:03:21](https://news.ycombinator.com/item?id=46265756) - [Postfix Macros and Let Place](https://nadrieril.github.io/blog/2025/12/09/postfix-macros-and-let-place.html)
+* [2025-12-16, 12:17:08](https://news.ycombinator.com/item?id=46287626) - [Detailed balance in large language model-driven agents](https://arxiv.org/abs/2512.10047)
 * [2025-12-13, 02:31:46](https://news.ycombinator.com/item?id=46251460) - [Lite^3, a JSON-compatible zero-copy serialization format](https://github.com/fastserial/lite3)
 * [2025-12-12, 04:54:10](https://news.ycombinator.com/item?id=46240991) - [Monumental snake engravings of the Orinoco River (2024)](https://www.cambridge.org/core/journals/antiquity/article/monumental-snake-engravings-of-the-orinoco-river/147F83AA4381153C4D0F4EA4817B3766)
 
