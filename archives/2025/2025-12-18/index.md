@@ -24,6 +24,7 @@
 * [2025-12-18, 19:00:56](https://news.ycombinator.com/item?id=46316991) - [Show HN: Spice Cayenne – SQL acceleration built on Vortex](https://spice.ai/blog/introducing-spice-cayenne-data-accelerator)
 * [2025-12-18, 18:59:33](https://news.ycombinator.com/item?id=46316968) - [Show HN: TinyPDF – 3kb pdf library (70x smaller than jsPDF)](https://github.com/Lulzx/tinypdf)
 * [2025-12-18, 18:55:34](https://news.ycombinator.com/item?id=46316907) - [How China built its ‘Manhattan Project’ to rival the West in AI chips](https://www.japantimes.co.jp/business/2025/12/18/tech/china-west-ai-chips/)
+* [2025-12-18, 18:28:28](https://news.ycombinator.com/item?id=46316562) - [Ask HN: Who here is not working on web apps/server code?](https://news.ycombinator.com/item?id=46316562)
 * [2025-12-18, 18:26:52](https://news.ycombinator.com/item?id=46316533) - [FunctionGemma 270M Model](https://blog.google/technology/developers/functiongemma/)
 * [2025-12-18, 18:18:30](https://news.ycombinator.com/item?id=46316409) - [Firefox will have an option to disable all AI features](https://mastodon.social/@firefoxwebdevs/115740500373677782)
 * [2025-12-18, 18:15:12](https://news.ycombinator.com/item?id=46316370) - [MIT nuclear science professor Nuno Loureiro found shot dead in home in Mass](https://nypost.com/2025/12/16/us-news/mit-nuclear-science-professor-found-shot-dead-in-home-in-swanky-mass-neighborhood/)
