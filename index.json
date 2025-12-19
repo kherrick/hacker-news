@@ -211,16 +211,6 @@
   ],
   [
     [
-      "2025-12-18, 16:19:48",
-      "https://news.ycombinator.com/item?id=46314684"
-    ],
-    [
-      "Response Healing: Reduce JSON defects by 80%+",
-      "https://openrouter.ai/announcements/response-healing-reduce-json-defects-by-80percent"
-    ]
-  ],
-  [
-    [
       "2025-12-18, 15:01:10",
       "https://news.ycombinator.com/item?id=46313390"
     ],
@@ -287,6 +277,16 @@
     [
       "Postfix Macros and Let Place",
       "https://nadrieril.github.io/blog/2025/12/09/postfix-macros-and-let-place.html"
+    ]
+  ],
+  [
+    [
+      "2025-12-14, 09:29:47",
+      "https://news.ycombinator.com/item?id=46261884"
+    ],
+    [
+      "Show HN: Stepped Actions – distributed workflow orchestration for Rails",
+      "https://github.com/envirobly/stepped"
     ]
   ],
   [
