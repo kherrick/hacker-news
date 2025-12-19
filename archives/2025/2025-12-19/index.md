@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2025-12-19](index.md)
 
+* [2025-12-19, 15:02:24](https://news.ycombinator.com/item?id=46326588) - [Hacker News front page now, but the titles are honest](https://dosaygo-studio.github.io/hn-front-page-2035/news-honest.html)
+* [2025-12-19, 14:56:05](https://news.ycombinator.com/item?id=46326519) - [The FreeBSD Foundation's Laptop Support and Usability Project](https://github.com/FreeBSDFoundation/proj-laptop)
+* [2025-12-19, 14:54:50](https://news.ycombinator.com/item?id=46326506) - [Building a Transparent Keyserver](https://words.filippo.io/keyserver-tlog/)
+* [2025-12-19, 14:51:03](https://news.ycombinator.com/item?id=46326472) - [AMD officially confirms fresh next-gen Zen 6 CPU details](https://overclock3d.net/news/cpu_mainboard/amd-officially-confirms-fresh-next-gen-zen-6-cpu-details/)
 * [2025-12-19, 14:19:59](https://news.ycombinator.com/item?id=46326120) - [XZ Utils Backdoor](https://en.wikipedia.org/wiki/XZ_Utils_backdoor)
 * [2025-12-19, 14:13:07](https://news.ycombinator.com/item?id=46326050) - [A proposed amendment to ban under 16s in the UK from common online services](https://decoded.legal/blog/2025/12/a-proposed-legislative-amendment-to-attempt-to-ban-under-16s-in-the-uk-from-common-messaging-services-sharing-family-photos-using-wikipedia-and-doing-much-else-online-by-imposing-age-assurance-on-everyone/)
 * [2025-12-19, 13:03:11](https://news.ycombinator.com/item?id=46325360) - [Engineers who dismiss AI](https://terriblesoftware.org/2025/12/19/the-strange-case-of-engineers-who-dismiss-ai/)
