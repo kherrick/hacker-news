@@ -4,6 +4,11 @@
 
 ### [Archives](../../index.md) for [2025-12-19](index.md)
 
+* [2025-12-19, 16:07:42](https://news.ycombinator.com/item?id=46327325) - [Cursor Acquires Graphite](https://graphite.com/blog/graphite-joins-cursor)
+* [2025-12-19, 15:51:30](https://news.ycombinator.com/item?id=46327133) - [Believe the Checkbook](https://robertgreiner.com/believe-the-checkbook/)
+* [2025-12-19, 15:50:45](https://news.ycombinator.com/item?id=46327124) - [Using AI Generated Code Will Make You a Bad Programmer](https://unsolicited-opinions.rudism.com/bad-programmer/)
+* [2025-12-19, 15:42:23](https://news.ycombinator.com/item?id=46327020) - [Is Firefox Firefucked?](https://kevquirk.com/blog/is-firefox-firefucked/)
+* [2025-12-19, 15:40:03](https://news.ycombinator.com/item?id=46326984) - [Garage – An S3 object store so reliable you can run it outside datacenters](https://garagehq.deuxfleurs.fr/)
 * [2025-12-19, 15:02:24](https://news.ycombinator.com/item?id=46326588) - [Hacker News front page now, but the titles are honest](https://dosaygo-studio.github.io/hn-front-page-2035/news-honest.html)
 * [2025-12-19, 14:56:05](https://news.ycombinator.com/item?id=46326519) - [The FreeBSD Foundation's Laptop Support and Usability Project](https://github.com/FreeBSDFoundation/proj-laptop)
 * [2025-12-19, 14:54:50](https://news.ycombinator.com/item?id=46326506) - [Building a Transparent Keyserver](https://words.filippo.io/keyserver-tlog/)

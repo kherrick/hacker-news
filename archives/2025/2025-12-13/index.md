@@ -13,6 +13,7 @@
 * [2025-12-13, 22:30:50](https://news.ycombinator.com/item?id=46258830) - [Venezuela explained in 10 maps and charts](https://www.aljazeera.com/news/2025/11/28/venezuela-explained-in-10-maps-and-charts)
 * [2025-12-13, 22:04:13](https://news.ycombinator.com/item?id=46258583) - [From profiling to kernel patch: the journey to an eBPF performance fix](https://rovarma.com/articles/from-profiling-to-kernel-patch-the-journey-to-an-ebpf-performance-fix/)
 * [2025-12-13, 21:57:28](https://news.ycombinator.com/item?id=46258529) - [Some surprising things about DuckDuckGo you probably don't know](https://gabrielweinberg.com/p/some-surprising-things-about-duckduckgo)
+* [2025-12-13, 21:41:28](https://news.ycombinator.com/item?id=46258377) - [Does my key fob have more computing power than the Lunar lander?](https://www.buzzsprout.com/2469780/episodes/18340142-17-does-my-key-fob-have-more-computing-power-than-the-lunar-lander)
 * [2025-12-13, 21:18:01](https://news.ycombinator.com/item?id=46258163) - [Recovering Anthony Bourdain's (really) lost Li.st's](https://sandyuraz.com/blogs/bourdain/)
 * [2025-12-13, 20:58:50](https://news.ycombinator.com/item?id=46257986) - [Workday project at Washington University hits $266M](https://www.theregister.com/2025/12/12/washington_university_workday_costs_revealed/)
 * [2025-12-13, 20:54:32](https://news.ycombinator.com/item?id=46257939) - [Purdue University Approves New AI Requirement for All Undergrads](https://www.forbes.com/sites/michaeltnietzel/2025/12/13/purdue-university-approves-new-ai-requirement-for-all-undergrads/)
