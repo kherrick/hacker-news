@@ -77,6 +77,7 @@
 * [2025-12-15, 03:54:03](https://news.ycombinator.com/item?id=46270273) - [Rob Reiner has died](https://www.hollywoodreporter.com/movies/movie-news/rob-reiner-dead-harry-met-sally-princess-bride-all-in-family-1236450387/)
 * [2025-12-15, 03:04:50](https://news.ycombinator.com/item?id=46269991) - [John Varley has died](http://floggingbabel.blogspot.com/2025/12/john-varley-1947-2025.html)
 * [2025-12-15, 03:04:19](https://news.ycombinator.com/item?id=46269985) - [Apples, Trees, and Quasimodes](https://systemstack.dev/2025/09/humane-computing/)
+* [2025-12-15, 03:03:45](https://news.ycombinator.com/item?id=46269979) - [Programming language speed comparison using Leibniz formula for π](https://niklas-heer.github.io/speed-comparison/)
 * [2025-12-15, 02:51:24](https://news.ycombinator.com/item?id=46269891) - [SoundCloud just banned VPN access](https://old.reddit.com/r/SoundCloudMusic/comments/1pltd19/soundcloud_just_banned_vpn_access/)
 * [2025-12-15, 02:20:46](https://news.ycombinator.com/item?id=46269673) - [Show HN: I implemented generics in my programming language](https://axe-docs.pages.dev/features/generics/)
 * [2025-12-15, 02:13:59](https://news.ycombinator.com/item?id=46269625) - [Hell is other people's markup](https://www.htmhell.dev/adventcalendar/2025/13/)
