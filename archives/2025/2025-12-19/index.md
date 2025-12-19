@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-12-19](index.md)
 
+* [2025-12-19, 16:14:39](https://news.ycombinator.com/item?id=46327406) - [TikTok Deal Is the Shittiest Possible Outcome, Making Everything Worse](https://www.techdirt.com/2025/12/19/tiktok-deal-done-and-its-somehow-the-shittiest-possible-outcome-making-everything-worse/)
 * [2025-12-19, 16:07:42](https://news.ycombinator.com/item?id=46327325) - [Cursor Acquires Graphite](https://graphite.com/blog/graphite-joins-cursor)
+* [2025-12-19, 15:57:01](https://news.ycombinator.com/item?id=46327206) - [Graphite Is Joining Cursor](https://cursor.com/blog/graphite)
 * [2025-12-19, 15:51:30](https://news.ycombinator.com/item?id=46327133) - [Believe the Checkbook](https://robertgreiner.com/believe-the-checkbook/)
 * [2025-12-19, 15:50:45](https://news.ycombinator.com/item?id=46327124) - [Using AI Generated Code Will Make You a Bad Programmer](https://unsolicited-opinions.rudism.com/bad-programmer/)
 * [2025-12-19, 15:42:23](https://news.ycombinator.com/item?id=46327020) - [Is Firefox Firefucked?](https://kevquirk.com/blog/is-firefox-firefucked/)
