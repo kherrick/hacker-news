@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-12-19, 17:08:32",
+      "https://news.ycombinator.com/item?id=46328203"
+    ],
+    [
+      "Show HN: I Made Loom for Mobile",
+      "https://demoscope.app"
+    ]
+  ],
+  [
+    [
+      "2025-12-19, 17:01:56",
+      "https://news.ycombinator.com/item?id=46328109"
+    ],
+    [
+      "Prepare for That Stupid World",
+      "https://ploum.net/2025-12-19-prepare-for-that-world.html"
+    ]
+  ],
+  [
+    [
       "2025-12-19, 16:42:30",
       "https://news.ycombinator.com/item?id=46327818"
     ],
@@ -27,16 +47,6 @@
     [
       "Cursor Acquires Graphite",
       "https://graphite.com/blog/graphite-joins-cursor"
-    ]
-  ],
-  [
-    [
-      "2025-12-19, 15:57:01",
-      "https://news.ycombinator.com/item?id=46327206"
-    ],
-    [
-      "Graphite Is Joining Cursor",
-      "https://cursor.com/blog/graphite"
     ]
   ],
   [
@@ -131,16 +141,6 @@
   ],
   [
     [
-      "2025-12-19, 03:26:52",
-      "https://news.ycombinator.com/item?id=46321982"
-    ],
-    [
-      "Reconstructed Commander Keen 1-3 Source Code",
-      "https://pckf.com/viewtopic.php?t=18248"
-    ]
-  ],
-  [
-    [
       "2025-12-19, 02:20:08",
       "https://news.ycombinator.com/item?id=46321619"
     ],
@@ -231,22 +231,22 @@
   ],
   [
     [
-      "2025-12-16, 16:12:06",
-      "https://news.ycombinator.com/item?id=46290349"
-    ],
-    [
-      "Show HN: Picknplace.js, an alternative to drag-and-drop",
-      "https://jgthms.com/picknplace.js/"
-    ]
-  ],
-  [
-    [
       "2025-12-15, 22:01:34",
       "https://news.ycombinator.com/item?id=46281355"
     ],
     [
       "Designing a Passive Lidar Detector Device",
       "https://www.atredis.com/blog/2025/11/20/designing-a-passive-lidar-detection-sensor"
+    ]
+  ],
+  [
+    [
+      "2025-12-15, 03:03:45",
+      "https://news.ycombinator.com/item?id=46269979"
+    ],
+    [
+      "Programming language speed comparison using Leibniz formula for π",
+      "https://niklas-heer.github.io/speed-comparison/"
     ]
   ],
   [
