@@ -31,12 +31,12 @@
   ],
   [
     [
-      "2025-12-19, 18:59:26",
-      "https://news.ycombinator.com/item?id=46329530"
+      "2025-12-19, 18:46:17",
+      "https://news.ycombinator.com/item?id=46329375"
     ],
     [
-      "Performance Hints – Jeff Dean and Sanjay Ghemawat",
-      "https://abseil.io/fast/hints.html"
+      "The New Right-Wing Tech Intelligentsia",
+      "https://bayareacurrent.com/meet-the-new-right-wing-tech-intelligentsia/"
     ]
   ],
   [
@@ -61,12 +61,12 @@
   ],
   [
     [
-      "2025-12-19, 17:54:55",
-      "https://news.ycombinator.com/item?id=46328769"
+      "2025-12-19, 17:14:42",
+      "https://news.ycombinator.com/item?id=46328274"
     ],
     [
-      "Show HN: Linggen – A local-first memory layer for your AI (Cursor, Zed, Claude)",
-      "https://github.com/linggen/linggen"
+      "Performance Hints (2023)",
+      "https://abseil.io/fast/hints"
     ]
   ],
   [
@@ -251,6 +251,26 @@
   ],
   [
     [
+      "2025-12-16, 18:54:37",
+      "https://news.ycombinator.com/item?id=46292682"
+    ],
+    [
+      "Ask HN: How are you LLM-coding in an established code base?",
+      "https://news.ycombinator.com/item?id=46292682"
+    ]
+  ],
+  [
+    [
+      "2025-12-16, 18:21:21",
+      "https://news.ycombinator.com/item?id=46292148"
+    ],
+    [
+      "The pitfalls of partitioning Postgres yourself",
+      "https://hatchet.run/blog/postgres-partitioning"
+    ]
+  ],
+  [
+    [
       "2025-12-16, 16:32:27",
       "https://news.ycombinator.com/item?id=46290620"
     ],
@@ -267,26 +287,6 @@
     [
       "Detailed balance in large language model-driven agents",
       "https://arxiv.org/abs/2512.10047"
-    ]
-  ],
-  [
-    [
-      "2025-12-14, 22:37:05",
-      "https://news.ycombinator.com/item?id=46267862"
-    ],
-    [
-      "Where Is GPT in the Chomsky Hierarchy?",
-      "https://fi-le.net/chomsky/"
-    ]
-  ],
-  [
-    [
-      "2025-12-14, 09:29:47",
-      "https://news.ycombinator.com/item?id=46261884"
-    ],
-    [
-      "Show HN: Stepped Actions – distributed workflow orchestration for Rails",
-      "https://github.com/envirobly/stepped"
     ]
   ],
   [
