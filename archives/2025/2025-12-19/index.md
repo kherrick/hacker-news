@@ -15,6 +15,7 @@
 * [2025-12-19, 18:15:17](https://news.ycombinator.com/item?id=46328992) - [Reverse Engineering Major US Airline's PNR System and Accessing All Reservations](https://alexschapiro.com/security/vulnerability/2025/11/20/avelo-airline-reservation-api-vulnerability)
 * [2025-12-19, 17:54:55](https://news.ycombinator.com/item?id=46328769) - [Show HN: Linggen – A local-first memory layer for your AI (Cursor, Zed, Claude)](https://github.com/linggen/linggen)
 * [2025-12-19, 17:15:53](https://news.ycombinator.com/item?id=46328288) - [AMD Ryzen 7 5800X3D sells for more than 9800X3D, enthusiasts flock to AM4 DDR4](https://www.tomshardware.com/pc-components/cpus/amds-legacy-ryzen-7-5800x3d-chips-now-sell-for-up-to-usd800-more-than-a-new-9800x3d-am4-chip-costs-twice-as-much-as-msrp-as-enthusiasts-flock-to-old-ddr4-memory)
+* [2025-12-19, 17:14:42](https://news.ycombinator.com/item?id=46328274) - [Performance Hints (2023)](https://abseil.io/fast/hints.html)
 * [2025-12-19, 17:14:42](https://news.ycombinator.com/item?id=46328274) - [Performance Hints (2023)](https://abseil.io/fast/hints)
 * [2025-12-19, 17:08:32](https://news.ycombinator.com/item?id=46328203) - [Show HN: I Made Loom for Mobile](https://demoscope.app)
 * [2025-12-19, 17:01:56](https://news.ycombinator.com/item?id=46328109) - [Prepare for That Stupid World](https://ploum.net/2025-12-19-prepare-for-that-world.html)

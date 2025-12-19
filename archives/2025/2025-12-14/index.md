@@ -24,6 +24,7 @@
 * [2025-12-14, 19:41:59](https://news.ycombinator.com/item?id=46266094) - [Do Dyslexia Fonts Actually Work? (2022)](https://www.edutopia.org/article/do-dyslexia-fonts-actually-work/)
 * [2025-12-14, 19:09:33](https://news.ycombinator.com/item?id=46265817) - [HyperCard on the Macintosh](https://stonetools.ghost.io/hypercard-mac/)
 * [2025-12-14, 19:08:57](https://news.ycombinator.com/item?id=46265811) - [GNU recutils: Plain text database](https://www.gnu.org/software/recutils/)
+* [2025-12-14, 19:03:21](https://news.ycombinator.com/item?id=46265756) - [Postfix Macros and Let Place](https://nadrieril.github.io/blog/2025/12/09/postfix-macros-and-let-place.html)
 * [2025-12-14, 18:56:11](https://news.ycombinator.com/item?id=46265697) - [Update Now Warning Issued to All iPhone Users](https://www.forbes.com/sites/kateoflahertyuk/2025/12/14/ios-262-update-now-waning-issued-to-all-iphone-users/)
 * [2025-12-14, 18:55:30](https://news.ycombinator.com/item?id=46265684) - [My payment agent is named George, not stripe-agent](https://blog.kestrelsnest.social/posts/2025-12-14-why-my-payment-agent-is-named-george-not-stripe-agent/)
 * [2025-12-14, 18:51:02](https://news.ycombinator.com/item?id=46265636) - [Six Big Bets](https://www.jerry.wtf/posts/six-big-bets/)
