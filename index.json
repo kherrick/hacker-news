@@ -5,7 +5,7 @@
       "https://news.ycombinator.com/item?id=46331877"
     ],
     [
-      "Anthropic says AI sentiment is positive. Their data tells a different story",
+      "We ran Anthropic’s interviews through structured LLM analysis",
       "https://www.playbookatlas.com/research/ai-adoption-explorer"
     ]
   ],
@@ -41,22 +41,22 @@
   ],
   [
     [
+      "2025-12-19, 20:49:20",
+      "https://news.ycombinator.com/item?id=46330726"
+    ],
+    [
+      "LLM Year in Review",
+      "https://karpathy.bearblog.dev/year-in-review-2025/"
+    ]
+  ],
+  [
+    [
       "2025-12-19, 20:29:53",
       "https://news.ycombinator.com/item?id=46330522"
     ],
     [
       "The scariest boot loader code",
       "http://miod.online.fr/software/openbsd/stories/boot_hppa.html"
-    ]
-  ],
-  [
-    [
-      "2025-12-19, 19:44:48",
-      "https://news.ycombinator.com/item?id=46330013"
-    ],
-    [
-      "Show HN: Stickerbox, a kid-safe, AI-powered voice to sticker printer",
-      "https://stickerbox.com/"
     ]
   ],
   [
@@ -165,7 +165,7 @@
       "https://news.ycombinator.com/item?id=46324543"
     ],
     [
-      "GotaTun -- Mullvad's WireGuard Implementation in Rust",
+      "GotaTun – Mullvad's WireGuard Implementation in Rust",
       "https://mullvad.net/en/blog/announcing-gotatun-the-future-of-wireguard-at-mullvad-vpn"
     ]
   ],
