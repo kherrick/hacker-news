@@ -1,12 +1,32 @@
 [
   [
     [
+      "2025-12-19, 22:13:06",
+      "https://news.ycombinator.com/item?id=46331586"
+    ],
+    [
+      "CSS Grid Lanes",
+      "https://webkit.org/blog/17660/introducing-css-grid-lanes/"
+    ]
+  ],
+  [
+    [
       "2025-12-19, 21:52:07",
       "https://news.ycombinator.com/item?id=46331379"
     ],
     [
       "Buteyko Method",
       "https://en.wikipedia.org/wiki/Buteyko_method"
+    ]
+  ],
+  [
+    [
+      "2025-12-19, 21:34:10",
+      "https://news.ycombinator.com/item?id=46331216"
+    ],
+    [
+      "A Better Zip Bomb",
+      "https://www.bamsoftware.com/hacks/zipbomb/"
     ]
   ],
   [
@@ -151,16 +171,6 @@
   ],
   [
     [
-      "2025-12-19, 05:35:34",
-      "https://news.ycombinator.com/item?id=46322540"
-    ],
-    [
-      "Getting bitten by Intel's poor naming schemes",
-      "https://lorendb.dev/posts/getting-bitten-by-poor-naming-schemes/"
-    ]
-  ],
-  [
-    [
       "2025-12-19, 04:56:13",
       "https://news.ycombinator.com/item?id=46322391"
     ],
@@ -261,16 +271,6 @@
   ],
   [
     [
-      "2025-12-16, 12:17:08",
-      "https://news.ycombinator.com/item?id=46287626"
-    ],
-    [
-      "Detailed balance in large language model-driven agents",
-      "https://arxiv.org/abs/2512.10047"
-    ]
-  ],
-  [
-    [
       "2025-12-14, 19:03:21",
       "https://news.ycombinator.com/item?id=46265756"
     ],
@@ -281,22 +281,22 @@
   ],
   [
     [
-      "2025-12-14, 09:29:47",
-      "https://news.ycombinator.com/item?id=46261884"
-    ],
-    [
-      "Show HN: Stepped Actions – distributed workflow orchestration for Rails",
-      "https://github.com/envirobly/stepped"
-    ]
-  ],
-  [
-    [
       "2025-12-13, 02:31:46",
       "https://news.ycombinator.com/item?id=46251460"
     ],
     [
       "Lite^3, a JSON-compatible zero-copy serialization format",
       "https://github.com/fastserial/lite3"
+    ]
+  ],
+  [
+    [
+      "2025-12-12, 04:54:10",
+      "https://news.ycombinator.com/item?id=46240991"
+    ],
+    [
+      "Monumental snake engravings of the Orinoco River (2024)",
+      "https://www.cambridge.org/core/journals/antiquity/article/monumental-snake-engravings-of-the-orinoco-river/147F83AA4381153C4D0F4EA4817B3766"
     ]
   ]
 ]
