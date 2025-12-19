@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-12-19, 11:34:11](https://news.ycombinator.com/item?id=46324665) - [Show HN: I open-sourced my Go and Next B2B SaaS Starter (deploy anywhere, MIT)](https://github.com/moasq/production-saas-starter)
 * [2025-12-19, 11:16:23](https://news.ycombinator.com/item?id=46324543) - [GotaTun -- Mullvad's WireGuard Implementation in Rust](https://mullvad.net/en/blog/announcing-gotatun-the-future-of-wireguard-at-mullvad-vpn)
 * [2025-12-19, 10:03:38](https://news.ycombinator.com/item?id=46324078) - [Amazon will allow ePub and PDF downloads for DRM-free eBooks](https://www.kdpcommunity.com/s/article/New-eBook-Download-Options-for-Readers-Coming-in-2026?language=en_US)
-* [2025-12-19, 08:54:25](https://news.ycombinator.com/item?id=46323693) - [Show HN: Orbit a systems level programming language that compiles .sh to LLVM](https://github.com/SIE-Libraries/orbit)
 * [2025-12-19, 06:10:02](https://news.ycombinator.com/item?id=46322732) - [Making Google Sans Flex](https://design.google/library/google-sans-flex-font)
 * [2025-12-19, 05:38:25](https://news.ycombinator.com/item?id=46322556) - [2026 Apple introducing more ads to increase opportunity in search results](https://ads.apple.com/app-store/help/ad-placements/0082-search-results)
 * [2025-12-19, 05:35:34](https://news.ycombinator.com/item?id=46322540) - [Getting bitten by Intel's poor naming schemes](https://lorendb.dev/posts/getting-bitten-by-poor-naming-schemes/)
@@ -21,6 +21,7 @@
 * [2025-12-18, 18:14:48](https://news.ycombinator.com/item?id=46316367) - [GPT-5.2-Codex](https://openai.com/index/introducing-gpt-5-2-codex/)
 * [2025-12-18, 17:04:32](https://news.ycombinator.com/item?id=46315414) - [Skills for organizations, partners, the ecosystem](https://claude.com/blog/organization-skills-and-directory)
 * [2025-12-18, 15:39:09](https://news.ycombinator.com/item?id=46313991) - [Beginning January 2026, all ACM publications will be made open access](https://dl.acm.org/openaccess)
+* [2025-12-18, 14:52:11](https://news.ycombinator.com/item?id=46313297) - [Your job is to deliver code you have proven to work](https://simonwillison.net/2025/Dec/18/code-proven-to-work/)
 * [2025-12-16, 21:04:54](https://news.ycombinator.com/item?id=46294456) - [Texas is suing all of the big TV makers for spying on what you watch](https://www.theverge.com/news/845400/texas-tv-makers-lawsuit-samsung-sony-lg-hisense-tcl-spying)
 * [2025-12-16, 20:42:38](https://news.ycombinator.com/item?id=46294144) - [Show HN: Stop AI scrapers from hammering your self-hosted blog (using porn)](https://github.com/vivienhenz24/fuzzy-canary)
 * [2025-12-16, 19:11:47](https://news.ycombinator.com/item?id=46292937) - [I've been writing ring buffers wrong all these years (2016)](https://www.snellman.net/blog/archive/2016-12-13-ring-buffers/)
@@ -29,7 +30,6 @@
 * [2025-12-15, 22:01:34](https://news.ycombinator.com/item?id=46281355) - [Designing a Passive Lidar Detector Device](https://www.atredis.com/blog/2025/11/20/designing-a-passive-lidar-detection-sensor)
 * [2025-12-14, 05:09:26](https://news.ycombinator.com/item?id=46260901) - [Pingfs: Stores your data in ICMP ping packets](https://github.com/yarrick/pingfs)
 * [2025-12-13, 23:42:03](https://news.ycombinator.com/item?id=46259343) - [From Zero to QED: An informal introduction to formality with Lean 4](https://sdiehl.github.io/zero-to-qed/01_introduction.html)
-* [2025-12-13, 07:14:21](https://news.ycombinator.com/item?id=46252712) - [The state of the kernel Rust experiment](https://lwn.net/SubscriberLink/1050174/63aa7da43214c3ce/)
 
 ## [Archives](archives/index.md)
 
