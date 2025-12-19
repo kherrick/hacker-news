@@ -10,6 +10,7 @@
 * [2025-12-14, 23:13:39](https://news.ycombinator.com/item?id=46268153) - [DARPA GO: Generative Optogenetics](https://www.darpa.mil/research/programs/go)
 * [2025-12-14, 23:02:40](https://news.ycombinator.com/item?id=46268055) - [Ask HN: Is starting a personal blog still worth it in the age of AI?](https://news.ycombinator.com/item?id=46268055)
 * [2025-12-14, 22:46:01](https://news.ycombinator.com/item?id=46267947) - [History of Declarative Programming](https://shenlanguage.org/TBoS/tbos_15.html)
+* [2025-12-14, 22:37:05](https://news.ycombinator.com/item?id=46267862) - [Where Is GPT in the Chomsky Hierarchy?](https://fi-le.net/chomsky/)
 * [2025-12-14, 22:15:00](https://news.ycombinator.com/item?id=46267623) - [From sci-fi to reality: Researchers realise quantum teleportation using tech](https://cordis.europa.eu/article/id/462587-from-sci-fi-to-reality-researchers-realise-quantum-teleportation-using-today-s-internet-tech)
 * [2025-12-14, 21:53:13](https://news.ycombinator.com/item?id=46267385) - [Anthropic Outage for Opus 4.5 and Sonnet 4/4.5 across all services](https://status.claude.com/incidents/9g6qpr72ttbr)
 * [2025-12-14, 21:17:01](https://news.ycombinator.com/item?id=46267015) - [A Cosmic Offense: Elias Canetti's contest against death](https://www.commonwealmagazine.org/cosmic-offense)
