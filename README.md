@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-12-19, 14:19:59](https://news.ycombinator.com/item?id=46326120) - [XZ Utils Backdoor](https://en.wikipedia.org/wiki/XZ_Utils_backdoor)
 * [2025-12-19, 14:13:07](https://news.ycombinator.com/item?id=46326050) - [A proposed amendment to ban under 16s in the UK from common online services](https://decoded.legal/blog/2025/12/a-proposed-legislative-amendment-to-attempt-to-ban-under-16s-in-the-uk-from-common-messaging-services-sharing-family-photos-using-wikipedia-and-doing-much-else-online-by-imposing-age-assurance-on-everyone/)
 * [2025-12-19, 11:34:11](https://news.ycombinator.com/item?id=46324665) - [Show HN: I open-sourced my Go and Next B2B SaaS Starter (deploy anywhere, MIT)](https://github.com/moasq/production-saas-starter)
 * [2025-12-19, 11:16:23](https://news.ycombinator.com/item?id=46324543) - [GotaTun -- Mullvad's WireGuard Implementation in Rust](https://mullvad.net/en/blog/announcing-gotatun-the-future-of-wireguard-at-mullvad-vpn)
@@ -28,7 +29,6 @@
 * [2025-12-14, 09:29:47](https://news.ycombinator.com/item?id=46261884) - [Show HN: Stepped Actions – distributed workflow orchestration for Rails](https://github.com/envirobly/stepped)
 * [2025-12-14, 05:09:26](https://news.ycombinator.com/item?id=46260901) - [Pingfs: Stores your data in ICMP ping packets](https://github.com/yarrick/pingfs)
 * [2025-12-13, 23:42:03](https://news.ycombinator.com/item?id=46259343) - [From Zero to QED: An informal introduction to formality with Lean 4](https://sdiehl.github.io/zero-to-qed/01_introduction.html)
-* [2025-12-13, 16:37:09](https://news.ycombinator.com/item?id=46255827) - [Show HN: UK Butchers Meat Price Tracker](https://offer-spider.onrender.com)
 * [2025-12-12, 15:49:16](https://news.ycombinator.com/item?id=46245238) - [How to think about durable execution](https://hatchet.run/blog/durable-execution)
 
 ## [Archives](archives/index.md)
