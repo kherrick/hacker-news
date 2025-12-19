@@ -66,4 +66,5 @@
 * [2025-12-13, 03:12:47](https://news.ycombinator.com/item?id=46251654) - [Oliver Sacks Put Himself Into His Case Studies. What Was the Cost?](https://www.newyorker.com/magazine/2025/12/15/oliver-sacks-put-himself-into-his-case-studies-what-was-the-cost)
 * [2025-12-13, 03:06:53](https://news.ycombinator.com/item?id=46251620) - [A Lisp Interpreter Implemented in Conway's Game of Life (2021)](https://woodrush.github.io/blog/posts/2022-01-12-lisp-in-life.html)
 * [2025-12-13, 02:56:49](https://news.ycombinator.com/item?id=46251582) - [1300 Still Images from the Animated Films of Hayao Miyazaki's Studio Ghibli](https://www.ghibli.jp/info/013772/)
+* [2025-12-13, 02:31:46](https://news.ycombinator.com/item?id=46251460) - [Lite^3, a JSON-Compatible Zero-Copy Serialization Format](https://github.com/fastserial/lite3)
 * [2025-12-13, 00:50:47](https://news.ycombinator.com/item?id=46250862) - [The Checkerboard](https://99percentinvisible.org/episode/650-the-checkerboard/)
