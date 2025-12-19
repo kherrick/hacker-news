@@ -55,6 +55,7 @@
 * [2025-12-12, 12:51:58](https://news.ycombinator.com/item?id=46243658) - [Show HN: Epstein's emails reconstructed in a message-style UI (OCR and LLMs)](https://github.com/Toon-nooT/epsteins-phone-reconstructed)
 * [2025-12-12, 12:51:40](https://news.ycombinator.com/item?id=46243655) - [How to break free from smart TV ads and tracking](https://arstechnica.com/gadgets/2025/12/the-ars-technica-guide-to-dumb-tvs/)
 * [2025-12-12, 12:35:57](https://news.ycombinator.com/item?id=46243543) - [The Tor Project Is Making a Switch to Rust, Ditches C](https://itsfoss.com/news/tor-rust-rewrite-progress/)
+* [2025-12-12, 11:59:15](https://news.ycombinator.com/item?id=46243311) - [Telegraph chess: A 19th century tech marvel](https://spectrum.ieee.org/telegraph-chess)
 * [2025-12-12, 10:55:08](https://news.ycombinator.com/item?id=46242907) - [How does a \"you interview for US company, we do the work\" scam work?](https://news.ycombinator.com/item?id=46242907)
 * [2025-12-12, 10:50:22](https://news.ycombinator.com/item?id=46242871) - [After 27 years within budget Austria open 6thlongest railway tunnel in the world](https://infrastruktur.oebb.at/en/projects-for-austria/railway-lines/southern-line-vienna-villach/koralm-railway)
 * [2025-12-12, 10:44:50](https://news.ycombinator.com/item?id=46242838) - [Debug Mode for LLMs in vLLora](https://vllora.dev/blog/debug-mode/)

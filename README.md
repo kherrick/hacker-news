@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-12-19, 02:20:08](https://news.ycombinator.com/item?id=46321619) - [Noclip.website – A digital museum of video game levels](https://noclip.website/)
 * [2025-12-18, 22:52:06](https://news.ycombinator.com/item?id=46319946) - [Great ideas in theoretical computer science](https://www.cs251.com/)
 * [2025-12-18, 22:39:47](https://news.ycombinator.com/item?id=46319826) - [Trained LLMs exclusively on pre-1913 texts](https://github.com/DGoettlich/history-llms)
 * [2025-12-18, 22:23:09](https://news.ycombinator.com/item?id=46319657) - [1.5 TB of VRAM on Mac Studio – RDMA over Thunderbolt 5](https://www.jeffgeerling.com/blog/2025/15-tb-vram-on-mac-studio-rdma-over-thunderbolt-5)
@@ -20,7 +21,6 @@
 * [2025-12-18, 14:18:52](https://news.ycombinator.com/item?id=46312973) - [Please just try HTMX](http://pleasejusttryhtmx.com/)
 * [2025-12-18, 12:28:45](https://news.ycombinator.com/item?id=46311856) - [Classical statues were not painted horribly](https://worksinprogress.co/issue/were-classical-statues-painted-horribly/)
 * [2025-12-17, 18:25:29](https://news.ycombinator.com/item?id=46303406) - [How did IRC ping timeouts end up in a lawsuit?](https://mjg59.dreamwidth.org/73777.html)
-* [2025-12-16, 22:09:53](https://news.ycombinator.com/item?id=46295295) - [TRELLIS.2: state-of-the-art large 3D generative model (4B)](https://github.com/microsoft/TRELLIS.2)
 * [2025-12-16, 21:04:54](https://news.ycombinator.com/item?id=46294456) - [Texas is suing all of the big TV makers for spying on what you watch](https://www.theverge.com/news/845400/texas-tv-makers-lawsuit-samsung-sony-lg-hisense-tcl-spying)
 * [2025-12-16, 20:42:38](https://news.ycombinator.com/item?id=46294144) - [Show HN: Stop AI scrapers from hammering your self-hosted blog (using porn)](https://github.com/vivienhenz24/fuzzy-canary)
 * [2025-12-16, 19:11:47](https://news.ycombinator.com/item?id=46292937) - [I've been writing ring buffers wrong all these years (2016)](https://www.snellman.net/blog/archive/2016-12-13-ring-buffers/)
@@ -29,7 +29,7 @@
 * [2025-12-15, 13:32:12](https://news.ycombinator.com/item?id=46274287) - [Show HN: Learning a Language Using Only Words You Know](https://simedw.com/2025/12/15/langseed/)
 * [2025-12-15, 12:54:31](https://news.ycombinator.com/item?id=46273877) - [Show HN: Bithoven – A high-level, imperative language for Bitcoin Smart Contract](https://github.com/ChrisCho-H/bithoven)
 * [2025-12-14, 20:25:25](https://news.ycombinator.com/item?id=46266497) - [The Code That Revolutionized Orbital Simulation [video]](https://www.youtube.com/watch?v=nCg3aXn5F3M)
-* [2025-12-12, 04:24:34](https://news.ycombinator.com/item?id=46240855) - [Jonathan Blow has spent the past decade designing 1,400 puzzles](https://arstechnica.com/gaming/2025/12/jonathan-blow-has-spent-the-past-decade-designing-1400-puzzles-for-you/)
+* [2025-12-12, 11:59:15](https://news.ycombinator.com/item?id=46243311) - [Telegraph chess: A 19th century tech marvel](https://spectrum.ieee.org/telegraph-chess)
 
 ## [Archives](archives/index.md)
 
