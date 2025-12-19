@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-12-19, 16:42:30",
+      "https://news.ycombinator.com/item?id=46327818"
+    ],
+    [
+      "I have to give Fortnite my passport to use Bluesky",
+      "https://spitfirenews.com/p/why-i-have-to-give-fortnite-my-passport-to-use-bluesky"
+    ]
+  ],
+  [
+    [
       "2025-12-19, 16:14:39",
       "https://news.ycombinator.com/item?id=46327406"
     ],
@@ -37,16 +47,6 @@
     [
       "Believe the Checkbook",
       "https://robertgreiner.com/believe-the-checkbook/"
-    ]
-  ],
-  [
-    [
-      "2025-12-19, 15:50:45",
-      "https://news.ycombinator.com/item?id=46327124"
-    ],
-    [
-      "Using AI Generated Code Will Make You a Bad Programmer",
-      "https://unsolicited-opinions.rudism.com/bad-programmer/"
     ]
   ],
   [
@@ -231,22 +231,22 @@
   ],
   [
     [
+      "2025-12-16, 16:12:06",
+      "https://news.ycombinator.com/item?id=46290349"
+    ],
+    [
+      "Show HN: Picknplace.js, an alternative to drag-and-drop",
+      "https://jgthms.com/picknplace.js/"
+    ]
+  ],
+  [
+    [
       "2025-12-15, 22:01:34",
       "https://news.ycombinator.com/item?id=46281355"
     ],
     [
       "Designing a Passive Lidar Detector Device",
       "https://www.atredis.com/blog/2025/11/20/designing-a-passive-lidar-detection-sensor"
-    ]
-  ],
-  [
-    [
-      "2025-12-15, 02:20:46",
-      "https://news.ycombinator.com/item?id=46269673"
-    ],
-    [
-      "Show HN: I implemented generics in my programming language",
-      "https://axe-docs.pages.dev/features/generics/"
     ]
   ],
   [
@@ -265,7 +265,7 @@
       "https://news.ycombinator.com/item?id=46260901"
     ],
     [
-      "Pingfs: Stores your data in ICMP ping packets",
+      "Pingfs: Stores your data in ICMP ping packets (2020)",
       "https://github.com/yarrick/pingfs"
     ]
   ],
