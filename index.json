@@ -1,6 +1,56 @@
 [
   [
     [
+      "2025-12-19, 16:07:42",
+      "https://news.ycombinator.com/item?id=46327325"
+    ],
+    [
+      "Cursor Acquires Graphite",
+      "https://graphite.com/blog/graphite-joins-cursor"
+    ]
+  ],
+  [
+    [
+      "2025-12-19, 15:51:30",
+      "https://news.ycombinator.com/item?id=46327133"
+    ],
+    [
+      "Believe the Checkbook",
+      "https://robertgreiner.com/believe-the-checkbook/"
+    ]
+  ],
+  [
+    [
+      "2025-12-19, 15:50:45",
+      "https://news.ycombinator.com/item?id=46327124"
+    ],
+    [
+      "Using AI Generated Code Will Make You a Bad Programmer",
+      "https://unsolicited-opinions.rudism.com/bad-programmer/"
+    ]
+  ],
+  [
+    [
+      "2025-12-19, 15:42:23",
+      "https://news.ycombinator.com/item?id=46327020"
+    ],
+    [
+      "Is Firefox Firefucked?",
+      "https://kevquirk.com/blog/is-firefox-firefucked/"
+    ]
+  ],
+  [
+    [
+      "2025-12-19, 15:40:03",
+      "https://news.ycombinator.com/item?id=46326984"
+    ],
+    [
+      "Garage – An S3 object store so reliable you can run it outside datacenters",
+      "https://garagehq.deuxfleurs.fr/"
+    ]
+  ],
+  [
+    [
       "2025-12-19, 15:02:24",
       "https://news.ycombinator.com/item?id=46326588"
     ],
@@ -41,16 +91,6 @@
   ],
   [
     [
-      "2025-12-19, 11:34:11",
-      "https://news.ycombinator.com/item?id=46324665"
-    ],
-    [
-      "Show HN: I open-sourced my Go and Next B2B SaaS Starter (deploy anywhere, MIT)",
-      "https://github.com/moasq/production-saas-starter"
-    ]
-  ],
-  [
-    [
       "2025-12-19, 11:16:23",
       "https://news.ycombinator.com/item?id=46324543"
     ],
@@ -67,16 +107,6 @@
     [
       "Amazon will allow ePub and PDF downloads for DRM-free eBooks",
       "https://www.kdpcommunity.com/s/article/New-eBook-Download-Options-for-Readers-Coming-in-2026?language=en_US"
-    ]
-  ],
-  [
-    [
-      "2025-12-19, 06:10:02",
-      "https://news.ycombinator.com/item?id=46322732"
-    ],
-    [
-      "Making Google Sans Flex",
-      "https://design.google/library/google-sans-flex-font"
     ]
   ],
   [
@@ -107,16 +137,6 @@
     [
       "Noclip.website – A digital museum of video game levels",
       "https://noclip.website/"
-    ]
-  ],
-  [
-    [
-      "2025-12-18, 22:52:06",
-      "https://news.ycombinator.com/item?id=46319946"
-    ],
-    [
-      "Great ideas in theoretical computer science",
-      "https://www.cs251.com/"
     ]
   ],
   [
@@ -171,16 +191,6 @@
   ],
   [
     [
-      "2025-12-18, 17:04:32",
-      "https://news.ycombinator.com/item?id=46315414"
-    ],
-    [
-      "Skills for organizations, partners, the ecosystem",
-      "https://claude.com/blog/organization-skills-and-directory"
-    ]
-  ],
-  [
-    [
       "2025-12-18, 15:39:09",
       "https://news.ycombinator.com/item?id=46313991"
     ],
@@ -201,16 +211,6 @@
   ],
   [
     [
-      "2025-12-16, 20:42:38",
-      "https://news.ycombinator.com/item?id=46294144"
-    ],
-    [
-      "Show HN: Stop AI scrapers from hammering your self-hosted blog (using porn)",
-      "https://github.com/vivienhenz24/fuzzy-canary"
-    ]
-  ],
-  [
-    [
       "2025-12-16, 16:32:27",
       "https://news.ycombinator.com/item?id=46290620"
     ],
@@ -227,16 +227,6 @@
     [
       "Show HN: Picknplace.js, an alternative to drag-and-drop",
       "https://jgthms.com/picknplace.js/"
-    ]
-  ],
-  [
-    [
-      "2025-12-16, 15:12:37",
-      "https://news.ycombinator.com/item?id=46289481"
-    ],
-    [
-      "Show HN: CommerceTXT – An open standard for AI shopping context (like llms.txt)",
-      "https://commercetxt.org/"
     ]
   ],
   [
@@ -287,6 +277,16 @@
     [
       "From Zero to QED: An informal introduction to formality with Lean 4",
       "https://sdiehl.github.io/zero-to-qed/01_introduction.html"
+    ]
+  ],
+  [
+    [
+      "2025-12-13, 21:41:28",
+      "https://news.ycombinator.com/item?id=46258377"
+    ],
+    [
+      "Does my key fob have more computing power than the Lunar lander?",
+      "https://www.buzzsprout.com/2469780/episodes/18340142-17-does-my-key-fob-have-more-computing-power-than-the-lunar-lander"
     ]
   ],
   [
