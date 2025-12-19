@@ -19,7 +19,6 @@
 * [2025-12-18, 15:39:09](https://news.ycombinator.com/item?id=46313991) - [Beginning January 2026, all ACM publications will be made open access](https://dl.acm.org/openaccess)
 * [2025-12-18, 15:00:32](https://news.ycombinator.com/item?id=46313379) - [Using TypeScript to obtain one of the rarest license plates](https://www.jack.bio/blog/licenseplate)
 * [2025-12-18, 14:52:11](https://news.ycombinator.com/item?id=46313297) - [Your job is to deliver code you have proven to work](https://simonwillison.net/2025/Dec/18/code-proven-to-work/)
-* [2025-12-18, 14:18:52](https://news.ycombinator.com/item?id=46312973) - [Please just try HTMX](http://pleasejusttryhtmx.com/)
 * [2025-12-17, 18:25:29](https://news.ycombinator.com/item?id=46303406) - [How did IRC ping timeouts end up in a lawsuit?](https://mjg59.dreamwidth.org/73777.html)
 * [2025-12-16, 21:04:54](https://news.ycombinator.com/item?id=46294456) - [Texas is suing all of the big TV makers for spying on what you watch](https://www.theverge.com/news/845400/texas-tv-makers-lawsuit-samsung-sony-lg-hisense-tcl-spying)
 * [2025-12-16, 20:42:38](https://news.ycombinator.com/item?id=46294144) - [Show HN: Stop AI scrapers from hammering your self-hosted blog (using porn)](https://github.com/vivienhenz24/fuzzy-canary)
@@ -28,6 +27,7 @@
 * [2025-12-16, 16:12:06](https://news.ycombinator.com/item?id=46290349) - [Show HN: Picknplace.js, an alternative to drag-and-drop](https://jgthms.com/picknplace.js/)
 * [2025-12-15, 13:32:12](https://news.ycombinator.com/item?id=46274287) - [Show HN: Learning a Language Using Only Words You Know](https://simedw.com/2025/12/15/langseed/)
 * [2025-12-14, 20:25:25](https://news.ycombinator.com/item?id=46266497) - [The Code That Revolutionized Orbital Simulation [video]](https://www.youtube.com/watch?v=nCg3aXn5F3M)
+* [2025-12-13, 07:14:21](https://news.ycombinator.com/item?id=46252712) - [The state of the kernel Rust experiment](https://lwn.net/SubscriberLink/1050174/63aa7da43214c3ce/)
 * [2025-12-13, 02:31:46](https://news.ycombinator.com/item?id=46251460) - [Lite^3, a JSON-Compatible Zero-Copy Serialization Format](https://github.com/fastserial/lite3)
 * [2025-12-12, 11:59:15](https://news.ycombinator.com/item?id=46243311) - [Telegraph chess: A 19th century tech marvel](https://spectrum.ieee.org/telegraph-chess)
 
