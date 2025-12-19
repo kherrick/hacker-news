@@ -9,6 +9,7 @@
 * [2025-12-17, 23:13:43](https://news.ycombinator.com/item?id=46306925) - [Venezuela's Navy Begins Escorting Ships as U.S. Threatens Blockade](https://www.nytimes.com/live/2025/12/17/us/trump-news)
 * [2025-12-17, 23:11:14](https://news.ycombinator.com/item?id=46306894) - [Gut bacteria from amphibians and reptiles achieve tumor elimination in mice](https://www.jaist.ac.jp/english/whatsnew/press/2025/12/17-1.html)
 * [2025-12-17, 22:51:40](https://news.ycombinator.com/item?id=46306691) - [American Academy of Pediatrics loses HHS funding after criticizing RFK Jr.](https://www.washingtonpost.com/health/2025/12/17/aap-hhs-funding-rfk/)
+* [2025-12-17, 22:32:19](https://news.ycombinator.com/item?id=46306497) - [NOAA deploys new generation of AI-driven global weather models](https://www.noaa.gov/news-release/noaa-deploys-new-generation-of-ai-driven-global-weather-models)
 * [2025-12-17, 22:27:29](https://news.ycombinator.com/item?id=46306456) - [Developers can now submit apps to ChatGPT](https://openai.com/index/developers-can-now-submit-apps-to-chatgpt/)
 * [2025-12-17, 22:19:53](https://news.ycombinator.com/item?id=46306371) - [A look back: LANPAR, the first spreadsheet](https://technicallywewrite.com/2025/12/16/lanpar)
 * [2025-12-17, 21:44:22](https://news.ycombinator.com/item?id=46305945) - [Cloudflare Radar 2025 Year in Review](https://radar.cloudflare.com/year-in-review/2025)
