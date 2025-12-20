@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-12-19](index.md)
 
+* [2025-12-19, 23:17:47](https://news.ycombinator.com/item?id=46332108) - [At least $9B billed across 14 Medicaid services in Minnesota may be fraudulent](https://www.cbsnews.com/minnesota/news/billions-paid-out-by-medicaid-in-minnesota-may-be-fraudulent-us-attorney/)
 * [2025-12-19, 22:48:24](https://news.ycombinator.com/item?id=46331877) - [Anthropic says AI sentiment is positive. Their data tells a different story](https://www.playbookatlas.com/research/ai-adoption-explorer)
 * [2025-12-19, 22:13:06](https://news.ycombinator.com/item?id=46331586) - [CSS Grid Lanes](https://webkit.org/blog/17660/introducing-css-grid-lanes/)
 * [2025-12-19, 21:52:07](https://news.ycombinator.com/item?id=46331379) - [Buteyko Method](https://en.wikipedia.org/wiki/Buteyko_method)
