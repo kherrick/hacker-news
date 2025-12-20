@@ -1,22 +1,22 @@
 [
   [
     [
+      "2025-12-20, 21:21:14",
+      "https://news.ycombinator.com/item?id=46339741"
+    ],
+    [
+      "Anthropic: You can't change your Claude account email address",
+      "https://support.claude.com/en/articles/8452276-how-do-i-change-the-email-address-associated-with-my-account"
+    ]
+  ],
+  [
+    [
       "2025-12-20, 20:50:43",
       "https://news.ycombinator.com/item?id=46339537"
     ],
     [
       "MIRA – An open-source persistent AI entity with memory",
       "https://github.com/taylorsatula/mira-OSS"
-    ]
-  ],
-  [
-    [
-      "2025-12-20, 20:44:26",
-      "https://news.ycombinator.com/item?id=46339495"
-    ],
-    [
-      "Show HN: Fucking Websites",
-      "https://afw.kuber.studio"
     ]
   ],
   [
@@ -121,12 +121,32 @@
   ],
   [
     [
+      "2025-12-20, 16:07:24",
+      "https://news.ycombinator.com/item?id=46337123"
+    ],
+    [
+      "Over 40% of deceased drivers in vehicle crashes test positive for THC: Study",
+      "https://www.facs.org/media-center/press-releases/2025/over-40-of-deceased-drivers-in-motor-vehicle-crashes-test-positive-for-thc-study-shows/"
+    ]
+  ],
+  [
+    [
       "2025-12-20, 15:43:15",
       "https://news.ycombinator.com/item?id=46336947"
     ],
     [
       "Go ahead, self-host Postgres",
       "https://pierce.dev/notes/go-ahead-self-host-postgres#user-content-fn-1"
+    ]
+  ],
+  [
+    [
+      "2025-12-20, 13:54:29",
+      "https://news.ycombinator.com/item?id=46336213"
+    ],
+    [
+      "TailwindSQL – Like TailwindCSS, but for SQL queries in React Server components",
+      "https://github.com/mmarinovic/tailwindsql"
     ]
   ],
   [
@@ -211,16 +231,6 @@
   ],
   [
     [
-      "2025-12-19, 15:40:03",
-      "https://news.ycombinator.com/item?id=46326984"
-    ],
-    [
-      "Garage – An S3 object store so reliable you can run it outside datacenters",
-      "https://garagehq.deuxfleurs.fr/"
-    ]
-  ],
-  [
-    [
       "2025-12-18, 15:01:10",
       "https://news.ycombinator.com/item?id=46313390"
     ],
@@ -287,16 +297,6 @@
     [
       "The Graffiti Question",
       "https://www.guernicamag.com/the-graffiti-question/"
-    ]
-  ],
-  [
-    [
-      "2025-12-15, 07:06:06",
-      "https://news.ycombinator.com/item?id=46271281"
-    ],
-    [
-      "Shallow trees with heavy leaves (2020)",
-      "https://cp4space.hatsya.com/2020/12/13/shallow-trees-with-heavy-leaves/"
     ]
   ]
 ]
