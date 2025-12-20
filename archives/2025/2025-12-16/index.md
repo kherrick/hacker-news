@@ -34,6 +34,7 @@
 * [2025-12-16, 17:37:34](https://news.ycombinator.com/item?id=46291500) - [The GitHub Actions control plane is no longer free](https://www.blacksmith.sh/blog/actions-pricing)
 * [2025-12-16, 17:36:03](https://news.ycombinator.com/item?id=46291477) - [Sharp: High performance Node.js image processing/optimization](https://github.com/lovell/sharp)
 * [2025-12-16, 17:32:38](https://news.ycombinator.com/item?id=46291414) - [GitHub will begin charging for self-hosted action runners on March 2026](https://github.blog/changelog/2025-12-16-coming-soon-simpler-pricing-and-a-better-experience-for-github-actions/)
+* [2025-12-16, 17:32:36](https://news.ycombinator.com/item?id=46291412) - [X-59 3D Printing](https://www.nasa.gov/stem-content/x-59-3d-printing/)
 * [2025-12-16, 17:13:07](https://news.ycombinator.com/item?id=46291172) - [FVWM-95](https://fvwm95.sourceforge.net/)
 * [2025-12-16, 17:12:02](https://news.ycombinator.com/item?id=46291156) - [Pricing Changes for GitHub Actions](https://resources.github.com/actions/2026-pricing-changes-for-github-actions/)
 * [2025-12-16, 17:00:57](https://news.ycombinator.com/item?id=46291011) - [Artie (YC S23) Is Hiring Senior Enterprise AES](https://www.ycombinator.com/companies/artie/jobs/HyaHWUs-senior-enterprise-ae)
