@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-12-20, 13:20:57](https://news.ycombinator.com/item?id=46335994) - [Approaching 50 Years of String Theory](https://www.math.columbia.edu/~woit/wordpress/?p=15401)
 * [2025-12-20, 12:00:31](https://news.ycombinator.com/item?id=46335552) - [Raycaster (YC F24) Is Hiring a Research Engineer (NYC, In-Person)](https://news.ycombinator.com/item?id=46335552)
 * [2025-12-20, 10:13:33](https://news.ycombinator.com/item?id=46334990) - [What Does a Database for SSDs Look Like?](https://brooker.co.za/blog/2025/12/15/database-for-ssd.html)
 * [2025-12-20, 08:36:52](https://news.ycombinator.com/item?id=46334533) - [Airbus to migrate critical apps to a sovereign Euro cloud](https://www.theregister.com/2025/12/19/airbus_sovereign_cloud/)
@@ -19,7 +20,6 @@
 * [2025-12-19, 11:38:54](https://news.ycombinator.com/item?id=46324702) - [8-bit Boléro](https://linusakesson.net/music/bolero/index.php)
 * [2025-12-19, 04:56:13](https://news.ycombinator.com/item?id=46322391) - [Rust's Block Pattern](https://notgull.net/block-pattern/)
 * [2025-12-19, 03:19:59](https://news.ycombinator.com/item?id=46321947) - [Brown/MIT shooting suspect found dead, officials say](https://www.washingtonpost.com/nation/2025/12/18/brown-university-shooting-person-of-interest/)
-* [2025-12-18, 22:39:47](https://news.ycombinator.com/item?id=46319826) - [History LLMs: Models trained exclusively on pre-1913 texts](https://github.com/DGoettlich/history-llms)
 * [2025-12-18, 18:59:33](https://news.ycombinator.com/item?id=46316968) - [Show HN: TinyPDF – 3kb pdf library (70x smaller than jsPDF)](https://github.com/Lulzx/tinypdf)
 * [2025-12-18, 15:01:10](https://news.ycombinator.com/item?id=46313390) - [Mistral OCR 3](https://mistral.ai/news/mistral-ocr-3)
 * [2025-12-17, 13:41:53](https://news.ycombinator.com/item?id=46301847) - [A terminal emulator that runs in your terminal. Powered by Turbo Vision](https://github.com/magiblot/tvterm)

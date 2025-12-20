@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-12-20](index.md)
 
+* [2025-12-20, 13:20:57](https://news.ycombinator.com/item?id=46335994) - [Approaching 50 Years of String Theory](https://www.math.columbia.edu/~woit/wordpress/?p=15401)
 * [2025-12-20, 12:00:31](https://news.ycombinator.com/item?id=46335552) - [Raycaster (YC F24) Is Hiring a Research Engineer (NYC, In-Person)](https://news.ycombinator.com/item?id=46335552)
 * [2025-12-20, 10:13:33](https://news.ycombinator.com/item?id=46334990) - [What Does a Database for SSDs Look Like?](https://brooker.co.za/blog/2025/12/15/database-for-ssd.html)
 * [2025-12-20, 09:38:51](https://news.ycombinator.com/item?id=46334819) - [Reflections on AI at the End of 2025](https://antirez.com/news/157)
