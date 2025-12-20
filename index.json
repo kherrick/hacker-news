@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2025-12-20, 18:06:04",
+      "https://news.ycombinator.com/item?id=46338156"
+    ],
+    [
+      "Depot (YC W23) Is Hiring an Enterprise Support Engineer (Remote/US)",
+      "https://www.ycombinator.com/companies/depot/jobs/jhGxVjO-enterprise-support-engineer"
+    ]
+  ],
+  [
+    [
       "2025-12-20, 17:49:18",
       "https://news.ycombinator.com/item?id=46338016"
     ],
@@ -211,16 +221,6 @@
   ],
   [
     [
-      "2025-12-17, 22:32:19",
-      "https://news.ycombinator.com/item?id=46306497"
-    ],
-    [
-      "NOAA deploys new generation of AI-driven global weather models",
-      "https://www.noaa.gov/news-release/noaa-deploys-new-generation-of-ai-driven-global-weather-models"
-    ]
-  ],
-  [
-    [
       "2025-12-17, 13:41:53",
       "https://news.ycombinator.com/item?id=46301847"
     ],
@@ -261,6 +261,16 @@
   ],
   [
     [
+      "2025-12-16, 15:39:23",
+      "https://news.ycombinator.com/item?id=46289884"
+    ],
+    [
+      "Biscuit is a specialized PostgreSQL index for fast pattern matching LIKE queries",
+      "https://github.com/CrystallineCore/Biscuit"
+    ]
+  ],
+  [
+    [
       "2025-12-16, 12:48:12",
       "https://news.ycombinator.com/item?id=46287848"
     ],
@@ -287,16 +297,6 @@
     [
       "New Quantum Antenna Reveals a Hidden Terahertz World",
       "https://www.sciencedaily.com/releases/2025/12/251213032617.htm"
-    ]
-  ],
-  [
-    [
-      "2025-12-14, 19:32:40",
-      "https://news.ycombinator.com/item?id=46266003"
-    ],
-    [
-      "Hash tables in Go and advantage of self-hosted compilers",
-      "https://rushter.com/blog/go-and-hashmaps/"
     ]
   ]
 ]
