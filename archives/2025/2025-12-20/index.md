@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-12-20](index.md)
 
 * [2025-12-20, 22:21:29](https://news.ycombinator.com/item?id=46340192) - [I wrote a code editor in C and now I'm a changed man](https://github.com/thisismars-x/light)
+* [2025-12-20, 22:12:22](https://news.ycombinator.com/item?id=46340117) - [More databases should be single-threaded](https://blog.konsti.xyz/p/8c8a399f-8cfe-47dd-9278-9527105d07dc/)
 * [2025-12-20, 21:26:14](https://news.ycombinator.com/item?id=46339777) - [Claude in Chrome](https://claude.com/chrome)
 * [2025-12-20, 21:21:14](https://news.ycombinator.com/item?id=46339741) - [Anthropic: You can't change your Claude account email address](https://support.claude.com/en/articles/8452276-how-do-i-change-the-email-address-associated-with-my-account)
 * [2025-12-20, 21:00:05](https://news.ycombinator.com/item?id=46339600) - [Show HN: Jmail – Google Suite for Epstein files](https://www.jmail.world)
