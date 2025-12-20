@@ -34,6 +34,7 @@
 * [2025-12-12, 16:59:04](https://news.ycombinator.com/item?id=46246006) - [Japan law opening phone app stores to go into effect dec.18th](https://www3.nhk.or.jp/nhkworld/en/news/20251210_B1/)
 * [2025-12-12, 16:56:31](https://news.ycombinator.com/item?id=46245971) - [Why more American seniors are getting high](https://www.economist.com/graphic-detail/2025/12/11/why-more-american-seniors-are-getting-high)
 * [2025-12-12, 16:52:41](https://news.ycombinator.com/item?id=46245923) - [Async DNS](https://flak.tedunangst.com/post/async-dns)
+* [2025-12-12, 16:49:59](https://news.ycombinator.com/item?id=46245904) - [Finding Alignment by Visualizing Music in Rust](https://positron.solutions/articles/finding-alignment-by-visualizing-music)
 * [2025-12-12, 16:43:04](https://news.ycombinator.com/item?id=46245843) - [America's Betting Craze Has Spread to Its News Networks](https://www.newyorker.com/news/the-lede/americas-betting-craze-has-spread-to-its-news-networks)
 * [2025-12-12, 16:37:04](https://news.ycombinator.com/item?id=46245763) - [Senator endorses discredited book that claims chemical treats autism, cancer](https://www.propublica.org/article/ron-johnson-wisconsin-chlorine-dioxide-pierre-kory-endorsement)
 * [2025-12-12, 16:32:43](https://news.ycombinator.com/item?id=46245731) - [Secondary school maths showing that AI systems don't think](https://www.raspberrypi.org/blog/secondary-school-maths-showing-that-ai-systems-dont-think/)

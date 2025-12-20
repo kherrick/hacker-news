@@ -27,9 +27,9 @@
 * [2025-12-17, 10:45:27](https://news.ycombinator.com/item?id=46300411) - [Vm.overcommit_memory=2 is the right setting for servers](https://ariadne.space/2025/12/16/vmovercommitmemory-is-always-the-right.html)
 * [2025-12-16, 18:21:21](https://news.ycombinator.com/item?id=46292148) - [The pitfalls of partitioning Postgres yourself](https://hatchet.run/blog/postgres-partitioning)
 * [2025-12-16, 14:38:56](https://news.ycombinator.com/item?id=46289055) - [Show HN: Misata – synthetic data engine using LLM and Vectorized NumPy](https://github.com/rasinmuhammed/misata)
-* [2025-12-14, 21:43:35](https://news.ycombinator.com/item?id=46267283) - [Show HN: Carolina Cloud – 1/3 the cost of AWS for data science workloads](https://carolinacloud.io/)
+* [2025-12-14, 21:43:35](https://news.ycombinator.com/item?id=46267283) - [Carolina Cloud – One third the cost of AWS for data science workloads](https://carolinacloud.io/)
 * [2025-12-13, 02:31:46](https://news.ycombinator.com/item?id=46251460) - [Lite^3, a JSON-compatible zero-copy serialization format](https://github.com/fastserial/lite3)
-* [2025-12-12, 04:54:10](https://news.ycombinator.com/item?id=46240991) - [Monumental snake engravings of the Orinoco River (2024)](https://www.cambridge.org/core/journals/antiquity/article/monumental-snake-engravings-of-the-orinoco-river/147F83AA4381153C4D0F4EA4817B3766)
+* [2025-12-12, 16:49:59](https://news.ycombinator.com/item?id=46245904) - [Finding Alignment by Visualizing Music in Rust](https://positron.solutions/articles/finding-alignment-by-visualizing-music)
 
 ## [Archives](archives/index.md)
 
