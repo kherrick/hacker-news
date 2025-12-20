@@ -2,6 +2,7 @@
 
 * [2025-12-20, 16:45:48](https://news.ycombinator.com/item?id=46337438) - [Pure Silicon Demo Coding: No CPU, No Memory, Just 4k Gates](https://www.a1k0n.net/2025/12/19/tiny-tapeout-demo.html)
 * [2025-12-20, 16:07:24](https://news.ycombinator.com/item?id=46337123) - [Over 40% of Deceased Drivers in Vehicle Crashes Test Positive for THC: Study](https://www.facs.org/media-center/press-releases/2025/over-40-of-deceased-drivers-in-motor-vehicle-crashes-test-positive-for-thc-study-shows/)
+* [2025-12-20, 16:06:44](https://news.ycombinator.com/item?id=46337118) - [Show HN: Claude Code Plugin to play music when waiting on user input](https://github.com/Sevii/agent-marketplace/blob/main/plugins/elevator-music/README.md)
 * [2025-12-20, 15:43:15](https://news.ycombinator.com/item?id=46336947) - [Go ahead, self-host Postgres](https://pierce.dev/notes/go-ahead-self-host-postgres#user-content-fn-1)
 * [2025-12-20, 13:38:24](https://news.ycombinator.com/item?id=46336097) - [Immersa: Open-source Web-based 3D Presentation Tool](https://github.com/ertugrulcetin/immersa)
 * [2025-12-20, 12:00:31](https://news.ycombinator.com/item?id=46335552) - [Raycaster (YC F24) Is Hiring a Research Engineer (NYC, In-Person)](https://news.ycombinator.com/item?id=46335552)
@@ -18,7 +19,6 @@
 * [2025-12-19, 20:49:20](https://news.ycombinator.com/item?id=46330726) - [LLM Year in Review](https://karpathy.bearblog.dev/year-in-review-2025/)
 * [2025-12-19, 18:19:32](https://news.ycombinator.com/item?id=46329038) - [TP-Link Tapo C200: Hardcoded Keys, Buffer Overflows and Privacy](https://www.evilsocket.net/2025/12/18/TP-Link-Tapo-C200-Hardcoded-Keys-Buffer-Overflows-and-Privacy-in-the-Era-of-AI-Assisted-Reverse-Engineering/)
 * [2025-12-19, 15:40:03](https://news.ycombinator.com/item?id=46326984) - [Garage – An S3 object store so reliable you can run it outside datacenters](https://garagehq.deuxfleurs.fr/)
-* [2025-12-19, 11:38:54](https://news.ycombinator.com/item?id=46324702) - [8-bit Boléro](https://linusakesson.net/music/bolero/index.php)
 * [2025-12-18, 15:01:10](https://news.ycombinator.com/item?id=46313390) - [Mistral OCR 3](https://mistral.ai/news/mistral-ocr-3)
 * [2025-12-17, 22:32:19](https://news.ycombinator.com/item?id=46306497) - [NOAA deploys new generation of AI-driven global weather models](https://www.noaa.gov/news-release/noaa-deploys-new-generation-of-ai-driven-global-weather-models)
 * [2025-12-17, 13:41:53](https://news.ycombinator.com/item?id=46301847) - [A terminal emulator that runs in your terminal. Powered by Turbo Vision](https://github.com/magiblot/tvterm)
