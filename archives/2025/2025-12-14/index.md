@@ -13,6 +13,7 @@
 * [2025-12-14, 22:37:05](https://news.ycombinator.com/item?id=46267862) - [Where Is GPT in the Chomsky Hierarchy?](https://fi-le.net/chomsky/)
 * [2025-12-14, 22:15:00](https://news.ycombinator.com/item?id=46267623) - [From sci-fi to reality: Researchers realise quantum teleportation using tech](https://cordis.europa.eu/article/id/462587-from-sci-fi-to-reality-researchers-realise-quantum-teleportation-using-today-s-internet-tech)
 * [2025-12-14, 21:53:13](https://news.ycombinator.com/item?id=46267385) - [Anthropic Outage for Opus 4.5 and Sonnet 4/4.5 across all services](https://status.claude.com/incidents/9g6qpr72ttbr)
+* [2025-12-14, 21:43:35](https://news.ycombinator.com/item?id=46267283) - [Show HN: Carolina Cloud – 1/3 the cost of AWS for data science workloads](https://carolinacloud.io/)
 * [2025-12-14, 21:17:01](https://news.ycombinator.com/item?id=46267015) - [A Cosmic Offense: Elias Canetti's contest against death](https://www.commonwealmagazine.org/cosmic-offense)
 * [2025-12-14, 21:08:44](https://news.ycombinator.com/item?id=46266915) - [Language Immersion, Prison-Style (2017)](https://www.themarshallproject.org/2017/12/14/my-do-it-yourself-language-immersion-prison-style)
 * [2025-12-14, 21:05:13](https://news.ycombinator.com/item?id=46266875) - [2002: Last.fm and Audioscrobbler Herald the Social Web](https://cybercultural.com/p/lastfm-audioscrobbler-2002/)

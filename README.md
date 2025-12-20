@@ -22,14 +22,14 @@
 * [2025-12-19, 03:19:59](https://news.ycombinator.com/item?id=46321947) - [Brown/MIT shooting suspect found dead, officials say](https://www.washingtonpost.com/nation/2025/12/18/brown-university-shooting-person-of-interest/)
 * [2025-12-18, 22:39:47](https://news.ycombinator.com/item?id=46319826) - [History LLMs: Models trained exclusively on pre-1913 texts](https://github.com/DGoettlich/history-llms)
 * [2025-12-18, 18:59:33](https://news.ycombinator.com/item?id=46316968) - [Show HN: TinyPDF – 3kb pdf library (70x smaller than jsPDF)](https://github.com/Lulzx/tinypdf)
-* [2025-12-18, 16:19:48](https://news.ycombinator.com/item?id=46314684) - [Response Healing: Reduce JSON defects by 80%+](https://openrouter.ai/announcements/response-healing-reduce-json-defects-by-80percent)
 * [2025-12-18, 15:01:10](https://news.ycombinator.com/item?id=46313390) - [Mistral OCR 3](https://mistral.ai/news/mistral-ocr-3)
 * [2025-12-17, 22:32:19](https://news.ycombinator.com/item?id=46306497) - [NOAA deploys new generation of AI-driven global weather models](https://www.noaa.gov/news-release/noaa-deploys-new-generation-of-ai-driven-global-weather-models)
 * [2025-12-17, 10:45:27](https://news.ycombinator.com/item?id=46300411) - [Vm.overcommit_memory=2 is the right setting for servers](https://ariadne.space/2025/12/16/vmovercommitmemory-is-always-the-right.html)
 * [2025-12-16, 18:21:21](https://news.ycombinator.com/item?id=46292148) - [The pitfalls of partitioning Postgres yourself](https://hatchet.run/blog/postgres-partitioning)
 * [2025-12-16, 14:38:56](https://news.ycombinator.com/item?id=46289055) - [Show HN: Misata – synthetic data engine using LLM and Vectorized NumPy](https://github.com/rasinmuhammed/misata)
-* [2025-12-14, 21:08:44](https://news.ycombinator.com/item?id=46266915) - [Language Immersion, Prison-Style (2017)](https://www.themarshallproject.org/2017/12/14/my-do-it-yourself-language-immersion-prison-style)
+* [2025-12-14, 21:43:35](https://news.ycombinator.com/item?id=46267283) - [Show HN: Carolina Cloud – 1/3 the cost of AWS for data science workloads](https://carolinacloud.io/)
 * [2025-12-13, 02:31:46](https://news.ycombinator.com/item?id=46251460) - [Lite^3, a JSON-compatible zero-copy serialization format](https://github.com/fastserial/lite3)
+* [2025-12-12, 04:54:10](https://news.ycombinator.com/item?id=46240991) - [Monumental snake engravings of the Orinoco River (2024)](https://www.cambridge.org/core/journals/antiquity/article/monumental-snake-engravings-of-the-orinoco-river/147F83AA4381153C4D0F4EA4817B3766)
 
 ## [Archives](archives/index.md)
 
