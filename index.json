@@ -191,6 +191,16 @@
   ],
   [
     [
+      "2025-12-18, 22:39:47",
+      "https://news.ycombinator.com/item?id=46319826"
+    ],
+    [
+      "History LLMs: Models trained exclusively on pre-1913 texts",
+      "https://github.com/DGoettlich/history-llms"
+    ]
+  ],
+  [
+    [
       "2025-12-18, 18:59:33",
       "https://news.ycombinator.com/item?id=46316968"
     ],
@@ -227,16 +237,6 @@
     [
       "Sharp: High performance Node.js image processing/optimization",
       "https://github.com/lovell/sharp"
-    ]
-  ],
-  [
-    [
-      "2025-12-16, 15:44:33",
-      "https://news.ycombinator.com/item?id=46289955"
-    ],
-    [
-      "Gh-actions-lockfile: generate and verify lockfiles for GitHub Actions",
-      "https://gh-actions-lockfile.net"
     ]
   ],
   [
