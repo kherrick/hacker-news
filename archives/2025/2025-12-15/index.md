@@ -71,6 +71,7 @@
 * [2025-12-15, 05:46:35](https://news.ycombinator.com/item?id=46270882) - [Common Rust Lifetime Misconceptions](https://github.com/pretzelhammer/rust-blog/blob/master/posts/common-rust-lifetime-misconceptions.md)
 * [2025-12-15, 05:20:38](https://news.ycombinator.com/item?id=46270746) - [Rob Reiner,Legendary Director and Actor,and Wife Found Dead in Apparent Homicide](https://www.rollingstone.com/tv-movies/tv-movie-news/rob-reiner-ldead-obituary-1235483876/)
 * [2025-12-15, 04:46:49](https://news.ycombinator.com/item?id=46270597) - [SVG Fullstack Website](https://github.com/icitry/SVGWebsite)
+* [2025-12-15, 04:40:28](https://news.ycombinator.com/item?id=46270574) - [Iberian peninsula is rotating clockwise](https://phys.org/news/2025-12-iberian-peninsula-rotating-clockwise-geodynamic.html)
 * [2025-12-15, 04:15:21](https://news.ycombinator.com/item?id=46270415) - [Read Something Wonderful](https://readsomethingwonderful.com/)
 * [2025-12-15, 04:09:51](https://news.ycombinator.com/item?id=46270386) - [The Whole App is a Blob](https://drobinin.com/posts/the-whole-app-is-a-blob/)
 * [2025-12-15, 03:57:46](https://news.ycombinator.com/item?id=46270298) - [Arborium: Tree-sitter code highlighting with Native and WASM targets](https://arborium.bearcove.eu/)

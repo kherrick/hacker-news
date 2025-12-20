@@ -26,9 +26,9 @@
 * [2025-12-18, 15:01:10](https://news.ycombinator.com/item?id=46313390) - [Mistral OCR 3](https://mistral.ai/news/mistral-ocr-3)
 * [2025-12-17, 10:45:27](https://news.ycombinator.com/item?id=46300411) - [Vm.overcommit_memory=2 is the right setting for servers](https://ariadne.space/2025/12/16/vmovercommitmemory-is-always-the-right.html)
 * [2025-12-16, 18:21:21](https://news.ycombinator.com/item?id=46292148) - [The pitfalls of partitioning Postgres yourself](https://hatchet.run/blog/postgres-partitioning)
-* [2025-12-16, 16:08:10](https://news.ycombinator.com/item?id=46290291) - [Parallelizing ClickHouse aggregation merge for fixed hash map](https://blog.incfly.org/parallelize-clickhouse-aggregation-merge-for-fixed-hash-map/)
 * [2025-12-16, 15:44:33](https://news.ycombinator.com/item?id=46289955) - [Gh-actions-lockfile: generate and verify lockfiles for GitHub Actions](https://gh-actions-lockfile.net)
 * [2025-12-15, 06:31:39](https://news.ycombinator.com/item?id=46271115) - [Fuzix on a Raspberry Pi Pico](https://ewpratten.com/blog/fuzix-pi-pico)
+* [2025-12-15, 04:40:28](https://news.ycombinator.com/item?id=46270574) - [Iberian peninsula is rotating clockwise](https://phys.org/news/2025-12-iberian-peninsula-rotating-clockwise-geodynamic.html)
 * [2025-12-14, 21:43:35](https://news.ycombinator.com/item?id=46267283) - [Carolina Cloud – One third the cost of AWS for data science workloads](https://carolinacloud.io/)
 
 ## [Archives](archives/index.md)
