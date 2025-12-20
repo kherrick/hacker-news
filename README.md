@@ -2,7 +2,6 @@
 
 * [2025-12-20, 05:00:55](https://news.ycombinator.com/item?id=46333734) - [Android introduces $2-4 install fee and 10–20% cut for US external content links](https://support.google.com/googleplay/android-developer/answer/16470497?hl=en)
 * [2025-12-20, 00:16:13](https://news.ycombinator.com/item?id=46332526) - [Build Your Own React](https://pomb.us/build-your-own-react/)
-* [2025-12-19, 22:48:24](https://news.ycombinator.com/item?id=46331877) - [We ran Anthropic’s interviews through structured LLM analysis](https://www.playbookatlas.com/research/ai-adoption-explorer)
 * [2025-12-19, 22:13:06](https://news.ycombinator.com/item?id=46331586) - [CSS Grid Lanes](https://webkit.org/blog/17660/introducing-css-grid-lanes/)
 * [2025-12-19, 21:52:07](https://news.ycombinator.com/item?id=46331379) - [Buteyko Method](https://en.wikipedia.org/wiki/Buteyko_method)
 * [2025-12-19, 21:34:10](https://news.ycombinator.com/item?id=46331216) - [A better zip bomb (2019)](https://www.bamsoftware.com/hacks/zipbomb/)
@@ -23,6 +22,7 @@
 * [2025-12-19, 03:19:59](https://news.ycombinator.com/item?id=46321947) - [Brown/MIT shooting suspect found dead, officials say](https://www.washingtonpost.com/nation/2025/12/18/brown-university-shooting-person-of-interest/)
 * [2025-12-18, 22:39:47](https://news.ycombinator.com/item?id=46319826) - [History LLMs: Models trained exclusively on pre-1913 texts](https://github.com/DGoettlich/history-llms)
 * [2025-12-18, 18:59:33](https://news.ycombinator.com/item?id=46316968) - [Show HN: TinyPDF – 3kb pdf library (70x smaller than jsPDF)](https://github.com/Lulzx/tinypdf)
+* [2025-12-18, 15:39:09](https://news.ycombinator.com/item?id=46313991) - [Beginning January 2026, all ACM publications will be made open access](https://dl.acm.org/openaccess)
 * [2025-12-18, 15:01:10](https://news.ycombinator.com/item?id=46313390) - [Mistral OCR 3](https://mistral.ai/news/mistral-ocr-3)
 * [2025-12-17, 10:45:27](https://news.ycombinator.com/item?id=46300411) - [Vm.overcommit_memory=2 is the right setting for servers](https://ariadne.space/2025/12/16/vmovercommitmemory-is-always-the-right.html)
 * [2025-12-16, 18:21:21](https://news.ycombinator.com/item?id=46292148) - [The pitfalls of partitioning Postgres yourself](https://hatchet.run/blog/postgres-partitioning)
