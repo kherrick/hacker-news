@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-12-20, 16:45:48](https://news.ycombinator.com/item?id=46337438) - [Pure Silicon Demo Coding: No CPU, No Memory, Just 4k Gates](https://www.a1k0n.net/2025/12/19/tiny-tapeout-demo.html)
+* [2025-12-20, 16:07:24](https://news.ycombinator.com/item?id=46337123) - [Over 40% of Deceased Drivers in Vehicle Crashes Test Positive for THC: Study](https://www.facs.org/media-center/press-releases/2025/over-40-of-deceased-drivers-in-motor-vehicle-crashes-test-positive-for-thc-study-shows/)
 * [2025-12-20, 15:43:15](https://news.ycombinator.com/item?id=46336947) - [Go ahead, self-host Postgres](https://pierce.dev/notes/go-ahead-self-host-postgres#user-content-fn-1)
 * [2025-12-20, 13:38:24](https://news.ycombinator.com/item?id=46336097) - [Immersa: Open-source Web-based 3D Presentation Tool](https://github.com/ertugrulcetin/immersa)
 * [2025-12-20, 12:00:31](https://news.ycombinator.com/item?id=46335552) - [Raycaster (YC F24) Is Hiring a Research Engineer (NYC, In-Person)](https://news.ycombinator.com/item?id=46335552)
@@ -16,7 +17,6 @@
 * [2025-12-19, 22:13:06](https://news.ycombinator.com/item?id=46331586) - [CSS Grid Lanes](https://webkit.org/blog/17660/introducing-css-grid-lanes/)
 * [2025-12-19, 20:49:20](https://news.ycombinator.com/item?id=46330726) - [LLM Year in Review](https://karpathy.bearblog.dev/year-in-review-2025/)
 * [2025-12-19, 18:19:32](https://news.ycombinator.com/item?id=46329038) - [TP-Link Tapo C200: Hardcoded Keys, Buffer Overflows and Privacy](https://www.evilsocket.net/2025/12/18/TP-Link-Tapo-C200-Hardcoded-Keys-Buffer-Overflows-and-Privacy-in-the-Era-of-AI-Assisted-Reverse-Engineering/)
-* [2025-12-19, 15:57:01](https://news.ycombinator.com/item?id=46327206) - [Graphite is joining Cursor](https://cursor.com/blog/graphite)
 * [2025-12-19, 15:40:03](https://news.ycombinator.com/item?id=46326984) - [Garage – An S3 object store so reliable you can run it outside datacenters](https://garagehq.deuxfleurs.fr/)
 * [2025-12-19, 11:38:54](https://news.ycombinator.com/item?id=46324702) - [8-bit Boléro](https://linusakesson.net/music/bolero/index.php)
 * [2025-12-18, 15:01:10](https://news.ycombinator.com/item?id=46313390) - [Mistral OCR 3](https://mistral.ai/news/mistral-ocr-3)

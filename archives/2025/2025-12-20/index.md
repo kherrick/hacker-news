@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-12-20](index.md)
 
 * [2025-12-20, 16:45:48](https://news.ycombinator.com/item?id=46337438) - [Pure Silicon Demo Coding: No CPU, No Memory, Just 4k Gates](https://www.a1k0n.net/2025/12/19/tiny-tapeout-demo.html)
+* [2025-12-20, 16:07:24](https://news.ycombinator.com/item?id=46337123) - [Over 40% of Deceased Drivers in Vehicle Crashes Test Positive for THC: Study](https://www.facs.org/media-center/press-releases/2025/over-40-of-deceased-drivers-in-motor-vehicle-crashes-test-positive-for-thc-study-shows/)
 * [2025-12-20, 15:55:01](https://news.ycombinator.com/item?id=46337026) - [Brothers are taking down Claude Code with OSS CLI](https://github.com/blackboxaicode/cli)
 * [2025-12-20, 15:43:15](https://news.ycombinator.com/item?id=46336947) - [Go ahead, self-host Postgres](https://pierce.dev/notes/go-ahead-self-host-postgres#user-content-fn-1)
 * [2025-12-20, 15:34:05](https://news.ycombinator.com/item?id=46336892) - [DotMeow – A fun domain with a serious mission](https://www.dotmeow.org)
