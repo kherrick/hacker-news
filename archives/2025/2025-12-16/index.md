@@ -64,6 +64,7 @@
 * [2025-12-16, 13:32:42](https://news.ycombinator.com/item?id=46288286) - [Put a ring on it: a lock-free MPMC ring buffer](https://h4x0r.org/ring/)
 * [2025-12-16, 13:20:51](https://news.ycombinator.com/item?id=46288185) - [You're overspending because you lack values](https://www.sherryning.com/p/youre-overspending-because-you-lack-values)
 * [2025-12-16, 13:07:14](https://news.ycombinator.com/item?id=46288024) - [Sega Channel: VGHF Recovers over 100 Sega Channel ROMs (and More)](https://gamehistory.org/segachannel/)
+* [2025-12-16, 12:18:10](https://news.ycombinator.com/item?id=46287632) - [A proof of concept of a semistable C++ vector container](https://github.com/joaquintides/semistable_vector)
 * [2025-12-16, 12:17:08](https://news.ycombinator.com/item?id=46287626) - [Detailed balance in large language model-driven agents](https://arxiv.org/abs/2512.10047)
 * [2025-12-16, 12:12:58](https://news.ycombinator.com/item?id=46287596) - [Thomas Piketty: 'The reality is the US is losing control of the world'](https://www.lemonde.fr/en/opinion/article/2025/04/12/thomas-piketty-the-reality-is-the-us-is-losing-control-of-the-world_6740140_23.html)
 * [2025-12-16, 12:01:55](https://news.ycombinator.com/item?id=46287521) - [Cekura (YC F24) Is Hiring](https://www.ycombinator.com/companies/cekura-ai/jobs/YFeQADI-product-engineer-us)
