@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-12-20, 13:54:29",
+      "https://news.ycombinator.com/item?id=46336213"
+    ],
+    [
+      "TailwindSQL – Like TailwindCSS, but for SQL Queries in React Server Components",
+      "https://github.com/mmarinovic/tailwindsql"
+    ]
+  ],
+  [
+    [
       "2025-12-20, 13:38:24",
       "https://news.ycombinator.com/item?id=46336097"
     ],
@@ -277,16 +287,6 @@
     [
       "Fuzix on a Raspberry Pi Pico",
       "https://ewpratten.com/blog/fuzix-pi-pico"
-    ]
-  ],
-  [
-    [
-      "2025-12-14, 21:43:35",
-      "https://news.ycombinator.com/item?id=46267283"
-    ],
-    [
-      "Carolina Cloud – One third the cost of AWS for data science workloads",
-      "https://carolinacloud.io/"
     ]
   ],
   [
