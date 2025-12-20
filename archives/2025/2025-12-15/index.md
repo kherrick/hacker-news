@@ -65,6 +65,7 @@
 * [2025-12-15, 10:03:18](https://news.ycombinator.com/item?id=46272454) - [Building a High-Performance OpenAPI Parser in Go](https://www.speakeasy.com/blog/building-speakeasy-openapi-go-library)
 * [2025-12-15, 07:28:27](https://news.ycombinator.com/item?id=46271405) - [AI URI Scheme – Internet-Draft](https://www.ietf.org/archive/id/draft-sogomonian-ai-uri-scheme-01.html)
 * [2025-12-15, 06:56:04](https://news.ycombinator.com/item?id=46271232) - [English vocabulary test – how many words do you know?](https://www.myvocab.info/en)
+* [2025-12-15, 06:31:39](https://news.ycombinator.com/item?id=46271115) - [Fuzix on a Raspberry Pi Pico](https://ewpratten.com/blog/fuzix-pi-pico)
 * [2025-12-15, 06:05:35](https://news.ycombinator.com/item?id=46270972) - [Why proteins fold and how GPUs help us fold](https://aval.bearblog.dev/nvidiaproteins/)
 * [2025-12-15, 05:54:28](https://news.ycombinator.com/item?id=46270918) - [Speed matters: Why working quickly is more important than it seems](https://jsomers.net/blog/speed-matters)
 * [2025-12-15, 05:46:35](https://news.ycombinator.com/item?id=46270882) - [Common Rust Lifetime Misconceptions](https://github.com/pretzelhammer/rust-blog/blob/master/posts/common-rust-lifetime-misconceptions.md)
