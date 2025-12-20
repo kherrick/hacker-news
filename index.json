@@ -1,12 +1,12 @@
 [
   [
     [
-      "2025-12-19, 23:17:47",
-      "https://news.ycombinator.com/item?id=46332108"
+      "2025-12-19, 23:59:53",
+      "https://news.ycombinator.com/item?id=46332400"
     ],
     [
-      "At least $9B billed across 14 Medicaid services in Minnesota may be fraudulent",
-      "https://www.cbsnews.com/minnesota/news/billions-paid-out-by-medicaid-in-minnesota-may-be-fraudulent-us-attorney/"
+      "PBS News Hour West to go dark after ASU discontinues contract",
+      "https://www.statepress.com/article/2025/12/politics-pbs-newshour-west-closure"
     ]
   ],
   [
@@ -97,16 +97,6 @@
     [
       "Performance Hints (2023)",
       "https://abseil.io/fast/hints.html"
-    ]
-  ],
-  [
-    [
-      "2025-12-19, 17:08:32",
-      "https://news.ycombinator.com/item?id=46328203"
-    ],
-    [
-      "Show HN: I Made Loom for Mobile",
-      "https://demoscope.app"
     ]
   ],
   [
@@ -261,6 +251,16 @@
   ],
   [
     [
+      "2025-12-17, 10:45:27",
+      "https://news.ycombinator.com/item?id=46300411"
+    ],
+    [
+      "Vm.overcommit_memory=2 is the right setting for servers",
+      "https://ariadne.space/2025/12/16/vmovercommitmemory-is-always-the-right.html"
+    ]
+  ],
+  [
+    [
       "2025-12-16, 18:21:21",
       "https://news.ycombinator.com/item?id=46292148"
     ],
@@ -281,22 +281,22 @@
   ],
   [
     [
+      "2025-12-14, 21:08:44",
+      "https://news.ycombinator.com/item?id=46266915"
+    ],
+    [
+      "Language Immersion, Prison-Style (2017)",
+      "https://www.themarshallproject.org/2017/12/14/my-do-it-yourself-language-immersion-prison-style"
+    ]
+  ],
+  [
+    [
       "2025-12-13, 02:31:46",
       "https://news.ycombinator.com/item?id=46251460"
     ],
     [
       "Lite^3, a JSON-compatible zero-copy serialization format",
       "https://github.com/fastserial/lite3"
-    ]
-  ],
-  [
-    [
-      "2025-12-12, 04:54:10",
-      "https://news.ycombinator.com/item?id=46240991"
-    ],
-    [
-      "Monumental snake engravings of the Orinoco River (2024)",
-      "https://www.cambridge.org/core/journals/antiquity/article/monumental-snake-engravings-of-the-orinoco-river/147F83AA4381153C4D0F4EA4817B3766"
     ]
   ]
 ]
