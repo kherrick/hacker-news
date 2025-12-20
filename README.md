@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-12-20, 20:50:43](https://news.ycombinator.com/item?id=46339537) - [MIRA – An open-source persistent AI entity with memory](https://github.com/taylorsatula/mira-OSS)
 * [2025-12-20, 19:56:47](https://news.ycombinator.com/item?id=46339031) - [Ireland’s Diarmuid Early wins world Microsoft Excel title](https://www.bbc.com/news/articles/cj4qzgvxxgvo)
 * [2025-12-20, 18:31:23](https://news.ycombinator.com/item?id=46338365) - [I spent a week without IPv4 (2023)](https://www.apalrd.net/posts/2023/network_ipv6/)
 * [2025-12-20, 18:28:41](https://news.ycombinator.com/item?id=46338339) - [Backing Up Spotify](https://annas-archive.li/blog/backing-up-spotify.html)
@@ -27,7 +28,6 @@
 * [2025-12-16, 15:39:23](https://news.ycombinator.com/item?id=46289884) - [Biscuit is a specialized PostgreSQL index for fast pattern matching LIKE queries](https://github.com/CrystallineCore/Biscuit)
 * [2025-12-16, 12:48:12](https://news.ycombinator.com/item?id=46287848) - [Gemini 3 Pro vs. 2.5 Pro in Pokemon Crystal](https://blog.jcz.dev/gemini-3-pro-vs-25-pro-in-pokemon-crystal)
 * [2025-12-16, 12:17:08](https://news.ycombinator.com/item?id=46287626) - [Detailed balance in large language model-driven agents](https://arxiv.org/abs/2512.10047)
-* [2025-12-16, 03:55:00](https://news.ycombinator.com/item?id=46284595) - [Maximizing Compression of Apple II Hi-Res Images](http://deater.net/weave/vmwprod/hgr_compress/)
 * [2025-12-16, 03:43:02](https://news.ycombinator.com/item?id=46284514) - [New Quantum Antenna Reveals a Hidden Terahertz World](https://www.sciencedaily.com/releases/2025/12/251213032617.htm)
 * [2025-12-15, 07:06:06](https://news.ycombinator.com/item?id=46271281) - [Shallow trees with heavy leaves (2020)](https://cp4space.hatsya.com/2020/12/13/shallow-trees-with-heavy-leaves/)
 

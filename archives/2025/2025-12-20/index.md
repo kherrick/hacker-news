@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-12-20](index.md)
 
+* [2025-12-20, 20:50:43](https://news.ycombinator.com/item?id=46339537) - [MIRA – An open-source persistent AI entity with memory](https://github.com/taylorsatula/mira-OSS)
 * [2025-12-20, 19:56:47](https://news.ycombinator.com/item?id=46339031) - ['LeBron James of spreadsheets' wins world Microsoft Excel title](https://www.bbc.com/news/articles/cj4qzgvxxgvo)
 * [2025-12-20, 19:24:34](https://news.ycombinator.com/item?id=46338803) - [AI will make our children stupid](https://thecritic.co.uk/ai-will-make-our-children-stupid/)
 * [2025-12-20, 18:31:23](https://news.ycombinator.com/item?id=46338365) - [I spent a WEEK without IPv4](https://www.apalrd.net/posts/2023/network_ipv6/)
