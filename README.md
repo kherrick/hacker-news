@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-12-20, 13:54:29](https://news.ycombinator.com/item?id=46336213) - [TailwindSQL – Like TailwindCSS, but for SQL Queries in React Server Components](https://github.com/mmarinovic/tailwindsql)
 * [2025-12-20, 13:38:24](https://news.ycombinator.com/item?id=46336097) - [Immersa: Open-source Web-based 3D Presentation Tool](https://github.com/ertugrulcetin/immersa)
 * [2025-12-20, 12:00:31](https://news.ycombinator.com/item?id=46335552) - [Raycaster (YC F24) Is Hiring a Research Engineer (NYC, In-Person)](https://news.ycombinator.com/item?id=46335552)
 * [2025-12-20, 10:13:33](https://news.ycombinator.com/item?id=46334990) - [What Does a Database for SSDs Look Like?](https://brooker.co.za/blog/2025/12/15/database-for-ssd.html)
@@ -28,7 +29,6 @@
 * [2025-12-16, 12:18:10](https://news.ycombinator.com/item?id=46287632) - [A proof of concept of a semistable C++ vector container](https://github.com/joaquintides/semistable_vector)
 * [2025-12-16, 03:43:02](https://news.ycombinator.com/item?id=46284514) - [New Quantum Antenna Reveals a Hidden Terahertz World](https://www.sciencedaily.com/releases/2025/12/251213032617.htm)
 * [2025-12-15, 06:31:39](https://news.ycombinator.com/item?id=46271115) - [Fuzix on a Raspberry Pi Pico](https://ewpratten.com/blog/fuzix-pi-pico)
-* [2025-12-14, 21:43:35](https://news.ycombinator.com/item?id=46267283) - [Carolina Cloud – One third the cost of AWS for data science workloads](https://carolinacloud.io/)
 * [2025-12-14, 19:32:40](https://news.ycombinator.com/item?id=46266003) - [Hash tables in Go and advantage of self-hosted compilers](https://rushter.com/blog/go-and-hashmaps/)
 
 ## [Archives](archives/index.md)
