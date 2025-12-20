@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-12-20, 07:47:55",
+      "https://news.ycombinator.com/item?id=46334333"
+    ],
+    [
+      "Debian adds LoongArch as officially supported architecture",
+      "https://lists.debian.org/debian-devel-announce/2025/12/msg00004.html"
+    ]
+  ],
+  [
+    [
       "2025-12-20, 06:21:05",
       "https://news.ycombinator.com/item?id=46334025"
     ],
@@ -147,16 +157,6 @@
     [
       "8-bit Boléro",
       "https://linusakesson.net/music/bolero/index.php"
-    ]
-  ],
-  [
-    [
-      "2025-12-19, 11:16:23",
-      "https://news.ycombinator.com/item?id=46324543"
-    ],
-    [
-      "GotaTun – Mullvad's WireGuard Implementation in Rust",
-      "https://mullvad.net/en/blog/announcing-gotatun-the-future-of-wireguard-at-mullvad-vpn"
     ]
   ],
   [
