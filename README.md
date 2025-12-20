@@ -8,7 +8,6 @@
 * [2025-12-20, 19:56:47](https://news.ycombinator.com/item?id=46339031) - [Ireland’s Diarmuid Early wins world Microsoft Excel title](https://www.bbc.com/news/articles/cj4qzgvxxgvo)
 * [2025-12-20, 18:31:23](https://news.ycombinator.com/item?id=46338365) - [I spent a week without IPv4 (2023)](https://www.apalrd.net/posts/2023/network_ipv6/)
 * [2025-12-20, 18:28:41](https://news.ycombinator.com/item?id=46338339) - [Backing Up Spotify](https://annas-archive.li/blog/backing-up-spotify.html)
-* [2025-12-20, 18:15:48](https://news.ycombinator.com/item?id=46338239) - [Mathematicians don't care about foundations (2022)](https://matteocapucci.wordpress.com/2022/12/21/mathematicians-dont-care-about-foundations/)
 * [2025-12-20, 18:06:04](https://news.ycombinator.com/item?id=46338156) - [Depot (YC W23) Is Hiring an Enterprise Support Engineer (Remote/US)](https://www.ycombinator.com/companies/depot/jobs/jhGxVjO-enterprise-support-engineer)
 * [2025-12-20, 17:49:18](https://news.ycombinator.com/item?id=46338016) - [Big GPUs don't need big PCs](https://www.jeffgeerling.com/blog/2025/big-gpus-dont-need-big-pcs)
 * [2025-12-20, 17:45:48](https://news.ycombinator.com/item?id=46337984) - [OpenSCAD is kinda neat](https://nuxx.net/blog/2025/12/20/openscad-is-kinda-neat/)
@@ -30,6 +29,7 @@
 * [2025-12-16, 12:48:12](https://news.ycombinator.com/item?id=46287848) - [Gemini 3 Pro vs. 2.5 Pro in Pokemon Crystal](https://blog.jcz.dev/gemini-3-pro-vs-25-pro-in-pokemon-crystal)
 * [2025-12-16, 12:17:08](https://news.ycombinator.com/item?id=46287626) - [Detailed balance in large language model-driven agents](https://arxiv.org/abs/2512.10047)
 * [2025-12-15, 13:30:45](https://news.ycombinator.com/item?id=46274272) - [Italian bears living near villages have evolved to be smaller and less agressive](https://phys.org/news/2025-12-italian-villages-evolved-smaller-aggressive.html)
+* [2025-12-15, 08:39:25](https://news.ycombinator.com/item?id=46271844) - [The Graffiti Question](https://www.guernicamag.com/the-graffiti-question/)
 
 ## [Archives](archives/index.md)
 
