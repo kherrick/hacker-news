@@ -23,12 +23,12 @@
 * [2025-12-17, 22:32:19](https://news.ycombinator.com/item?id=46306497) - [NOAA deploys new generation of AI-driven global weather models](https://www.noaa.gov/news-release/noaa-deploys-new-generation-of-ai-driven-global-weather-models)
 * [2025-12-17, 13:41:53](https://news.ycombinator.com/item?id=46301847) - [A terminal emulator that runs in your terminal. Powered by Turbo Vision](https://github.com/magiblot/tvterm)
 * [2025-12-17, 12:08:21](https://news.ycombinator.com/item?id=46301059) - [Log level 'error' should mean that something needs to be fixed](https://utcc.utoronto.ca/~cks/space/blog/programming/ErrorsShouldRequireFixing)
+* [2025-12-17, 07:47:24](https://news.ycombinator.com/item?id=46299288) - [Extending ts-Wolfram: dropping OOP, kernel/userspace interop, better printing](https://www.spakhm.com/ts-wolfram-ext)
 * [2025-12-16, 18:02:15](https://news.ycombinator.com/item?id=46291870) - [Arduino UNO Q bridges high-performance computing with real-time control](https://www.arduino.cc/product-uno-q/)
 * [2025-12-16, 12:48:12](https://news.ycombinator.com/item?id=46287848) - [Gemini 3 Pro vs. 2.5 Pro in Pokemon Crystal](https://blog.jcz.dev/gemini-3-pro-vs-25-pro-in-pokemon-crystal)
 * [2025-12-16, 12:18:10](https://news.ycombinator.com/item?id=46287632) - [A proof of concept of a semistable C++ vector container](https://github.com/joaquintides/semistable_vector)
 * [2025-12-16, 03:55:00](https://news.ycombinator.com/item?id=46284595) - [Maximizing Compression of Apple II Hi-Res Images](http://deater.net/weave/vmwprod/hgr_compress/)
 * [2025-12-16, 03:43:02](https://news.ycombinator.com/item?id=46284514) - [New Quantum Antenna Reveals a Hidden Terahertz World](https://www.sciencedaily.com/releases/2025/12/251213032617.htm)
-* [2025-12-15, 06:31:39](https://news.ycombinator.com/item?id=46271115) - [Fuzix on a Raspberry Pi Pico](https://ewpratten.com/blog/fuzix-pi-pico)
 * [2025-12-14, 19:32:40](https://news.ycombinator.com/item?id=46266003) - [Hash tables in Go and advantage of self-hosted compilers](https://rushter.com/blog/go-and-hashmaps/)
 
 ## [Archives](archives/index.md)

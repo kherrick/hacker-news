@@ -62,6 +62,7 @@
 * [2025-12-17, 08:34:00](https://news.ycombinator.com/item?id=46299552) - [AI's real superpower: consuming, not creating](https://msanroman.io/blog/ai-consumption-paradigm)
 * [2025-12-17, 08:05:30](https://news.ycombinator.com/item?id=46299389) - [TLA+ Modeling Tips](http://muratbuffalo.blogspot.com/2025/12/tla-modeling-tips.html)
 * [2025-12-17, 08:04:02](https://news.ycombinator.com/item?id=46299377) - [US threatens EU digital services market access](https://twitter.com/ustraderep/status/2000990028835508258)
+* [2025-12-17, 07:47:24](https://news.ycombinator.com/item?id=46299288) - [Extending ts-Wolfram: dropping OOP, kernel/userspace interop, better printing](https://www.spakhm.com/ts-wolfram-ext)
 * [2025-12-17, 07:42:09](https://news.ycombinator.com/item?id=46299257) - [P: Formal Modeling and Analysis of Distributed (Event-Driven) Systems](https://github.com/p-org/P)
 * [2025-12-17, 07:00:16](https://news.ycombinator.com/item?id=46299022) - [Subsets (YC S23) is hiring engineers in Copenhagen, Denmark](https://www.workatastartup.com/companies/subsets)
 * [2025-12-17, 04:48:24](https://news.ycombinator.com/item?id=46298385) - [FTX insider Caroline Ellison has been moved out of prison](https://www.businessinsider.com/caroline-ellison-prison-release-ftx-sam-bankman-fried-2025-12)
