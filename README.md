@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-12-20, 19:56:47](https://news.ycombinator.com/item?id=46339031) - ['LeBron James of spreadsheets' wins world Microsoft Excel title](https://www.bbc.com/news/articles/cj4qzgvxxgvo)
-* [2025-12-20, 19:24:34](https://news.ycombinator.com/item?id=46338803) - [AI will make our children stupid](https://thecritic.co.uk/ai-will-make-our-children-stupid/)
 * [2025-12-20, 18:31:23](https://news.ycombinator.com/item?id=46338365) - [I spent a week without IPv4](https://www.apalrd.net/posts/2023/network_ipv6/)
 * [2025-12-20, 18:28:41](https://news.ycombinator.com/item?id=46338339) - [Backing Up Spotify](https://annas-archive.li/blog/backing-up-spotify.html)
 * [2025-12-20, 18:06:04](https://news.ycombinator.com/item?id=46338156) - [Depot (YC W23) Is Hiring an Enterprise Support Engineer (Remote/US)](https://www.ycombinator.com/companies/depot/jobs/jhGxVjO-enterprise-support-engineer)
@@ -14,6 +13,7 @@
 * [2025-12-20, 13:39:47](https://news.ycombinator.com/item?id=46336104) - [Show HN: HN Wrapped 2025 - an LLM reviews your year on HN](https://hn-wrapped.kadoa.com?year=2025)
 * [2025-12-20, 13:38:24](https://news.ycombinator.com/item?id=46336097) - [Immersa: Open-source Web-based 3D Presentation Tool](https://github.com/ertugrulcetin/immersa)
 * [2025-12-20, 09:38:51](https://news.ycombinator.com/item?id=46334819) - [Reflections on AI at the End of 2025](https://antirez.com/news/157)
+* [2025-12-20, 08:36:52](https://news.ycombinator.com/item?id=46334533) - [Airbus to migrate critical apps to a sovereign Euro cloud](https://www.theregister.com/2025/12/19/airbus_sovereign_cloud/)
 * [2025-12-20, 08:26:50](https://news.ycombinator.com/item?id=46334483) - [A train-sized tunnel is now carrying electricity under South London](https://www.ianvisits.co.uk/articles/a-train-sized-tunnel-is-now-carrying-electricity-under-south-london-86221/)
 * [2025-12-20, 08:09:17](https://news.ycombinator.com/item?id=46334424) - [Skills Officially Comes to Codex](https://developers.openai.com/codex/skills/)
 * [2025-12-20, 07:39:26](https://news.ycombinator.com/item?id=46334299) - [NTP at NIST Boulder Has Lost Power](https://lists.nanog.org/archives/list/nanog@lists.nanog.org/message/ACADD3NKOG2QRWZ56OSNNG7UIEKKTZXL/)
