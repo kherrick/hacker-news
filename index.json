@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2025-12-20, 07:38:57",
+      "https://news.ycombinator.com/item?id=46334296"
+    ],
+    [
+      "Contrails Map",
+      "https://map.contrails.org/"
+    ]
+  ],
+  [
+    [
       "2025-12-20, 06:21:05",
       "https://news.ycombinator.com/item?id=46334025"
     ],
@@ -37,6 +47,16 @@
     [
       "Data Bank – Nuforc – Latest UFO Sightings",
       "https://nuforc.org/databank/"
+    ]
+  ],
+  [
+    [
+      "2025-12-20, 05:24:21",
+      "https://news.ycombinator.com/item?id=46333830"
+    ],
+    [
+      "The Deviancy Signal: Having \"Nothing to Hide\" Is a Threat to Us All",
+      "https://thompson2026.com/blog/deviancy-signal/"
     ]
   ],
   [
@@ -161,16 +181,6 @@
   ],
   [
     [
-      "2025-12-19, 10:03:38",
-      "https://news.ycombinator.com/item?id=46324078"
-    ],
-    [
-      "Amazon will allow ePub and PDF downloads for DRM-free eBooks",
-      "https://www.kdpcommunity.com/s/article/New-eBook-Download-Options-for-Readers-Coming-in-2026?language=en_US"
-    ]
-  ],
-  [
-    [
       "2025-12-19, 04:56:13",
       "https://news.ycombinator.com/item?id=46322391"
     ],
@@ -231,22 +241,12 @@
   ],
   [
     [
-      "2025-12-17, 10:45:27",
-      "https://news.ycombinator.com/item?id=46300411"
+      "2025-12-17, 13:41:53",
+      "https://news.ycombinator.com/item?id=46301847"
     ],
     [
-      "Vm.overcommit_memory=2 is the right setting for servers",
-      "https://ariadne.space/2025/12/16/vmovercommitmemory-is-always-the-right.html"
-    ]
-  ],
-  [
-    [
-      "2025-12-16, 18:21:21",
-      "https://news.ycombinator.com/item?id=46292148"
-    ],
-    [
-      "The pitfalls of partitioning Postgres yourself",
-      "https://hatchet.run/blog/postgres-partitioning"
+      "A terminal emulator that runs in your terminal. Powered by Turbo Vision",
+      "https://github.com/magiblot/tvterm"
     ]
   ],
   [
