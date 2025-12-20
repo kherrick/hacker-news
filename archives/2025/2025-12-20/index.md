@@ -5,8 +5,10 @@
 ### [Archives](../../index.md) for [2025-12-20](index.md)
 
 * [2025-12-20, 07:47:55](https://news.ycombinator.com/item?id=46334333) - [Debian adds LoongArch as officially supported architecture](https://lists.debian.org/debian-devel-announce/2025/12/msg00004.html)
+* [2025-12-20, 07:38:57](https://news.ycombinator.com/item?id=46334296) - [Contrails Map](https://map.contrails.org/)
 * [2025-12-20, 06:21:05](https://news.ycombinator.com/item?id=46334025) - [Privacy doesn't mean anything anymore, anonymity does](https://servury.com/blog/privacy-is-marketing-anonymity-is-architecture/)
 * [2025-12-20, 06:09:17](https://news.ycombinator.com/item?id=46333983) - [Charles Proxy](https://www.charlesproxy.com/)
 * [2025-12-20, 06:00:31](https://news.ycombinator.com/item?id=46333959) - [Data Bank – Nuforc – Latest UFO Sightings](https://nuforc.org/databank/)
+* [2025-12-20, 05:24:21](https://news.ycombinator.com/item?id=46333830) - [The Deviancy Signal: Having \"Nothing to Hide\" Is a Threat to Us All](https://thompson2026.com/blog/deviancy-signal/)
 * [2025-12-20, 05:00:55](https://news.ycombinator.com/item?id=46333734) - [Android introduces $2-4 install fee and 10–20% cut for US external content links](https://support.google.com/googleplay/android-developer/answer/16470497?hl=en)
 * [2025-12-20, 00:16:13](https://news.ycombinator.com/item?id=46332526) - [Build Your Own React](https://pomb.us/build-your-own-react/)
