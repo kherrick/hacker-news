@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-12-20](index.md)
 
+* [2025-12-20, 10:13:33](https://news.ycombinator.com/item?id=46334990) - [What Does a Database for SSDs Look Like?](https://brooker.co.za/blog/2025/12/15/database-for-ssd.html)
 * [2025-12-20, 09:38:51](https://news.ycombinator.com/item?id=46334819) - [Reflections on AI at the End of 2025](https://antirez.com/news/157)
 * [2025-12-20, 08:36:52](https://news.ycombinator.com/item?id=46334533) - [Airbus to migrate critical apps to a sovereign Euro cloud](https://www.theregister.com/2025/12/19/airbus_sovereign_cloud/)
 * [2025-12-20, 08:26:50](https://news.ycombinator.com/item?id=46334483) - [A train-sized tunnel is now carrying electricity under South London](https://www.ianvisits.co.uk/articles/a-train-sized-tunnel-is-now-carrying-electricity-under-south-london-86221/)
