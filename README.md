@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-12-20, 06:21:05](https://news.ycombinator.com/item?id=46334025) - [Privacy doesn't mean anything anymore, anonymity does](https://servury.com/blog/privacy-is-marketing-anonymity-is-architecture/)
 * [2025-12-20, 06:09:17](https://news.ycombinator.com/item?id=46333983) - [Charles Proxy](https://www.charlesproxy.com/)
 * [2025-12-20, 06:00:31](https://news.ycombinator.com/item?id=46333959) - [Data Bank – Nuforc – Latest UFO Sightings](https://nuforc.org/databank/)
 * [2025-12-20, 05:00:55](https://news.ycombinator.com/item?id=46333734) - [Android introduces $2-4 install fee and 10–20% cut for US external content links](https://support.google.com/googleplay/android-developer/answer/16470497?hl=en)
@@ -16,7 +17,6 @@
 * [2025-12-19, 15:40:03](https://news.ycombinator.com/item?id=46326984) - [Garage – An S3 object store so reliable you can run it outside datacenters](https://garagehq.deuxfleurs.fr/)
 * [2025-12-19, 14:56:05](https://news.ycombinator.com/item?id=46326519) - [The FreeBSD Foundation's Laptop Support and Usability Project](https://github.com/FreeBSDFoundation/proj-laptop)
 * [2025-12-19, 11:38:54](https://news.ycombinator.com/item?id=46324702) - [8-bit Boléro](https://linusakesson.net/music/bolero/index.php)
-* [2025-12-19, 11:16:23](https://news.ycombinator.com/item?id=46324543) - [GotaTun – Mullvad's WireGuard Implementation in Rust](https://mullvad.net/en/blog/announcing-gotatun-the-future-of-wireguard-at-mullvad-vpn)
 * [2025-12-19, 10:03:38](https://news.ycombinator.com/item?id=46324078) - [Amazon will allow ePub and PDF downloads for DRM-free eBooks](https://www.kdpcommunity.com/s/article/New-eBook-Download-Options-for-Readers-Coming-in-2026?language=en_US)
 * [2025-12-19, 04:56:13](https://news.ycombinator.com/item?id=46322391) - [Rust's Block Pattern](https://notgull.net/block-pattern/)
 * [2025-12-19, 03:24:26](https://news.ycombinator.com/item?id=46321972) - [Qwen-Image-Layered: transparency and layer aware open diffusion model](https://huggingface.co/papers/2512.15603)
