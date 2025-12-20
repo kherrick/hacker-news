@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-12-20, 15:43:15",
+      "https://news.ycombinator.com/item?id=46336947"
+    ],
+    [
+      "Go ahead, self-host Postgres",
+      "https://pierce.dev/notes/go-ahead-self-host-postgres#user-content-fn-1"
+    ]
+  ],
+  [
+    [
+      "2025-12-20, 15:34:05",
+      "https://news.ycombinator.com/item?id=46336892"
+    ],
+    [
+      "DotMeow – A fun domain with a serious mission",
+      "https://www.dotmeow.org"
+    ]
+  ],
+  [
+    [
       "2025-12-20, 13:54:29",
       "https://news.ycombinator.com/item?id=46336213"
     ],
@@ -141,16 +161,6 @@
   ],
   [
     [
-      "2025-12-19, 21:34:10",
-      "https://news.ycombinator.com/item?id=46331216"
-    ],
-    [
-      "A better zip bomb (2019)",
-      "https://www.bamsoftware.com/hacks/zipbomb/"
-    ]
-  ],
-  [
-    [
       "2025-12-19, 20:49:20",
       "https://news.ycombinator.com/item?id=46330726"
     ],
@@ -167,16 +177,6 @@
     [
       "TP-Link Tapo C200: Hardcoded Keys, Buffer Overflows and Privacy",
       "https://www.evilsocket.net/2025/12/18/TP-Link-Tapo-C200-Hardcoded-Keys-Buffer-Overflows-and-Privacy-in-the-Era-of-AI-Assisted-Reverse-Engineering/"
-    ]
-  ],
-  [
-    [
-      "2025-12-19, 15:57:01",
-      "https://news.ycombinator.com/item?id=46327206"
-    ],
-    [
-      "Graphite is joining Cursor",
-      "https://cursor.com/blog/graphite"
     ]
   ],
   [
@@ -231,22 +231,22 @@
   ],
   [
     [
+      "2025-12-17, 12:08:21",
+      "https://news.ycombinator.com/item?id=46301059"
+    ],
+    [
+      "Log level 'error' should mean that something needs to be fixed",
+      "https://utcc.utoronto.ca/~cks/space/blog/programming/ErrorsShouldRequireFixing"
+    ]
+  ],
+  [
+    [
       "2025-12-16, 18:02:15",
       "https://news.ycombinator.com/item?id=46291870"
     ],
     [
       "Arduino UNO Q bridges high-performance computing with real-time control",
       "https://www.arduino.cc/product-uno-q/"
-    ]
-  ],
-  [
-    [
-      "2025-12-16, 17:36:03",
-      "https://news.ycombinator.com/item?id=46291477"
-    ],
-    [
-      "Sharp: High performance Node.js image processing/optimization",
-      "https://github.com/lovell/sharp"
     ]
   ],
   [
