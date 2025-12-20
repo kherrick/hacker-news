@@ -1,32 +1,12 @@
 [
   [
     [
-      "2025-12-20, 15:55:01",
-      "https://news.ycombinator.com/item?id=46337026"
-    ],
-    [
-      "Brothers are taking down Claude Code with OSS CLI",
-      "https://github.com/blackboxaicode/cli"
-    ]
-  ],
-  [
-    [
       "2025-12-20, 15:43:15",
       "https://news.ycombinator.com/item?id=46336947"
     ],
     [
       "Go ahead, self-host Postgres",
       "https://pierce.dev/notes/go-ahead-self-host-postgres#user-content-fn-1"
-    ]
-  ],
-  [
-    [
-      "2025-12-20, 13:54:29",
-      "https://news.ycombinator.com/item?id=46336213"
-    ],
-    [
-      "TailwindSQL – Like TailwindCSS, but for SQL Queries in React Server Components",
-      "https://github.com/mmarinovic/tailwindsql"
     ]
   ],
   [
@@ -251,6 +231,16 @@
   ],
   [
     [
+      "2025-12-16, 17:36:03",
+      "https://news.ycombinator.com/item?id=46291477"
+    ],
+    [
+      "Sharp: High performance Node.js image processing/optimization",
+      "https://github.com/lovell/sharp"
+    ]
+  ],
+  [
+    [
       "2025-12-16, 12:48:12",
       "https://news.ycombinator.com/item?id=46287848"
     ],
@@ -267,6 +257,16 @@
     [
       "A proof of concept of a semistable C++ vector container",
       "https://github.com/joaquintides/semistable_vector"
+    ]
+  ],
+  [
+    [
+      "2025-12-16, 03:55:00",
+      "https://news.ycombinator.com/item?id=46284595"
+    ],
+    [
+      "Maximizing Compression of Apple II Hi-Res Images",
+      "http://deater.net/weave/vmwprod/hgr_compress/"
     ]
   ],
   [
