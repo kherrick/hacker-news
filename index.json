@@ -261,12 +261,22 @@
   ],
   [
     [
-      "2025-12-16, 14:38:56",
-      "https://news.ycombinator.com/item?id=46289055"
+      "2025-12-16, 16:08:10",
+      "https://news.ycombinator.com/item?id=46290291"
     ],
     [
-      "Show HN: Misata – synthetic data engine using LLM and Vectorized NumPy",
-      "https://github.com/rasinmuhammed/misata"
+      "Parallelizing ClickHouse aggregation merge for fixed hash map",
+      "https://blog.incfly.org/parallelize-clickhouse-aggregation-merge-for-fixed-hash-map/"
+    ]
+  ],
+  [
+    [
+      "2025-12-16, 15:44:33",
+      "https://news.ycombinator.com/item?id=46289955"
+    ],
+    [
+      "Gh-actions-lockfile: generate and verify lockfiles for GitHub Actions",
+      "https://gh-actions-lockfile.net"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Carolina Cloud – One third the cost of AWS for data science workloads",
       "https://carolinacloud.io/"
-    ]
-  ],
-  [
-    [
-      "2025-12-13, 02:31:46",
-      "https://news.ycombinator.com/item?id=46251460"
-    ],
-    [
-      "Lite^3, a JSON-compatible zero-copy serialization format",
-      "https://github.com/fastserial/lite3"
     ]
   ]
 ]
