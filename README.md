@@ -26,10 +26,10 @@
 * [2025-12-17, 22:32:19](https://news.ycombinator.com/item?id=46306497) - [NOAA deploys new generation of AI-driven global weather models](https://www.noaa.gov/news-release/noaa-deploys-new-generation-of-ai-driven-global-weather-models)
 * [2025-12-17, 10:45:27](https://news.ycombinator.com/item?id=46300411) - [Vm.overcommit_memory=2 is the right setting for servers](https://ariadne.space/2025/12/16/vmovercommitmemory-is-always-the-right.html)
 * [2025-12-16, 18:21:21](https://news.ycombinator.com/item?id=46292148) - [The pitfalls of partitioning Postgres yourself](https://hatchet.run/blog/postgres-partitioning)
-* [2025-12-16, 14:38:56](https://news.ycombinator.com/item?id=46289055) - [Show HN: Misata – synthetic data engine using LLM and Vectorized NumPy](https://github.com/rasinmuhammed/misata)
+* [2025-12-16, 16:08:10](https://news.ycombinator.com/item?id=46290291) - [Parallelizing ClickHouse aggregation merge for fixed hash map](https://blog.incfly.org/parallelize-clickhouse-aggregation-merge-for-fixed-hash-map/)
+* [2025-12-16, 15:44:33](https://news.ycombinator.com/item?id=46289955) - [Gh-actions-lockfile: generate and verify lockfiles for GitHub Actions](https://gh-actions-lockfile.net)
 * [2025-12-15, 06:31:39](https://news.ycombinator.com/item?id=46271115) - [Fuzix on a Raspberry Pi Pico](https://ewpratten.com/blog/fuzix-pi-pico)
 * [2025-12-14, 21:43:35](https://news.ycombinator.com/item?id=46267283) - [Carolina Cloud – One third the cost of AWS for data science workloads](https://carolinacloud.io/)
-* [2025-12-13, 02:31:46](https://news.ycombinator.com/item?id=46251460) - [Lite^3, a JSON-compatible zero-copy serialization format](https://github.com/fastserial/lite3)
 
 ## [Archives](archives/index.md)
 
