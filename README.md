@@ -20,7 +20,6 @@
 * [2025-12-19, 04:56:13](https://news.ycombinator.com/item?id=46322391) - [Rust's Block Pattern](https://notgull.net/block-pattern/)
 * [2025-12-19, 03:24:26](https://news.ycombinator.com/item?id=46321972) - [Qwen-Image-Layered: transparency and layer aware open diffusion model](https://huggingface.co/papers/2512.15603)
 * [2025-12-19, 03:19:59](https://news.ycombinator.com/item?id=46321947) - [Brown/MIT shooting suspect found dead, officials say](https://www.washingtonpost.com/nation/2025/12/18/brown-university-shooting-person-of-interest/)
-* [2025-12-18, 22:39:47](https://news.ycombinator.com/item?id=46319826) - [History LLMs: Models trained exclusively on pre-1913 texts](https://github.com/DGoettlich/history-llms)
 * [2025-12-18, 18:59:33](https://news.ycombinator.com/item?id=46316968) - [Show HN: TinyPDF – 3kb pdf library (70x smaller than jsPDF)](https://github.com/Lulzx/tinypdf)
 * [2025-12-18, 15:01:10](https://news.ycombinator.com/item?id=46313390) - [Mistral OCR 3](https://mistral.ai/news/mistral-ocr-3)
 * [2025-12-17, 13:41:53](https://news.ycombinator.com/item?id=46301847) - [A terminal emulator that runs in your terminal. Powered by Turbo Vision](https://github.com/magiblot/tvterm)
@@ -30,6 +29,7 @@
 * [2025-12-16, 01:30:48](https://news.ycombinator.com/item?id=46283597) - [Feast Your Eyes on Japan's Fake Food](https://www.newyorker.com/culture/annals-of-gastronomy/feast-your-eyes-on-japans-fake-food)
 * [2025-12-15, 06:31:39](https://news.ycombinator.com/item?id=46271115) - [Fuzix on a Raspberry Pi Pico](https://ewpratten.com/blog/fuzix-pi-pico)
 * [2025-12-14, 21:43:35](https://news.ycombinator.com/item?id=46267283) - [Carolina Cloud – One third the cost of AWS for data science workloads](https://carolinacloud.io/)
+* [2025-12-14, 19:32:40](https://news.ycombinator.com/item?id=46266003) - [Hash tables in Go and advantage of self-hosted compilers](https://rushter.com/blog/go-and-hashmaps/)
 
 ## [Archives](archives/index.md)
 

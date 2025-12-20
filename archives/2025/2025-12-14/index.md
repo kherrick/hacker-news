@@ -24,6 +24,7 @@
 * [2025-12-14, 20:04:11](https://news.ycombinator.com/item?id=46266312) - [Advent of Swift](https://leahneukirchen.org/blog/archive/2025/12/advent-of-swift.html)
 * [2025-12-14, 19:42:53](https://news.ycombinator.com/item?id=46266102) - [JSDoc *Is* TypeScript](https://culi.bearblog.dev/jsdoc-is-typescript/)
 * [2025-12-14, 19:41:59](https://news.ycombinator.com/item?id=46266094) - [Do Dyslexia Fonts Actually Work? (2022)](https://www.edutopia.org/article/do-dyslexia-fonts-actually-work/)
+* [2025-12-14, 19:32:40](https://news.ycombinator.com/item?id=46266003) - [Hash tables in Go and advantage of self-hosted compilers](https://rushter.com/blog/go-and-hashmaps/)
 * [2025-12-14, 19:09:33](https://news.ycombinator.com/item?id=46265817) - [HyperCard on the Macintosh](https://stonetools.ghost.io/hypercard-mac/)
 * [2025-12-14, 19:08:57](https://news.ycombinator.com/item?id=46265811) - [GNU recutils: Plain text database](https://www.gnu.org/software/recutils/)
 * [2025-12-14, 19:03:21](https://news.ycombinator.com/item?id=46265756) - [Postfix Macros and Let Place](https://nadrieril.github.io/blog/2025/12/09/postfix-macros-and-let-place.html)
