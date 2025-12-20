@@ -9,7 +9,6 @@
 * [2025-12-19, 21:34:10](https://news.ycombinator.com/item?id=46331216) - [A better zip bomb (2019)](https://www.bamsoftware.com/hacks/zipbomb/)
 * [2025-12-19, 20:49:20](https://news.ycombinator.com/item?id=46330726) - [LLM Year in Review](https://karpathy.bearblog.dev/year-in-review-2025/)
 * [2025-12-19, 18:19:32](https://news.ycombinator.com/item?id=46329038) - [TP-Link Tapo C200: Hardcoded Keys, Buffer Overflows and Privacy](https://www.evilsocket.net/2025/12/18/TP-Link-Tapo-C200-Hardcoded-Keys-Buffer-Overflows-and-Privacy-in-the-Era-of-AI-Assisted-Reverse-Engineering/)
-* [2025-12-19, 18:15:17](https://news.ycombinator.com/item?id=46328992) - [Reverse Engineering US Airline's PNR System and Accessing All Reservations](https://alexschapiro.com/security/vulnerability/2025/11/20/avelo-airline-reservation-api-vulnerability)
 * [2025-12-19, 17:14:42](https://news.ycombinator.com/item?id=46328274) - [Performance Hints (2023)](https://abseil.io/fast/hints.html)
 * [2025-12-19, 15:57:01](https://news.ycombinator.com/item?id=46327206) - [Graphite is joining Cursor](https://cursor.com/blog/graphite)
 * [2025-12-19, 15:51:30](https://news.ycombinator.com/item?id=46327133) - [Believe the Checkbook](https://robertgreiner.com/believe-the-checkbook/)
@@ -28,6 +27,7 @@
 * [2025-12-16, 18:21:21](https://news.ycombinator.com/item?id=46292148) - [The pitfalls of partitioning Postgres yourself](https://hatchet.run/blog/postgres-partitioning)
 * [2025-12-16, 15:44:33](https://news.ycombinator.com/item?id=46289955) - [Gh-actions-lockfile: generate and verify lockfiles for GitHub Actions](https://gh-actions-lockfile.net)
 * [2025-12-16, 14:21:10](https://news.ycombinator.com/item?id=46288799) - [A tagging system for documentation review comments](https://blog.techdocs.studio/p/a-tagging-system-for-documentation-review-comments)
+* [2025-12-16, 01:30:48](https://news.ycombinator.com/item?id=46283597) - [Feast Your Eyes on Japan's Fake Food](https://www.newyorker.com/culture/annals-of-gastronomy/feast-your-eyes-on-japans-fake-food)
 * [2025-12-15, 06:31:39](https://news.ycombinator.com/item?id=46271115) - [Fuzix on a Raspberry Pi Pico](https://ewpratten.com/blog/fuzix-pi-pico)
 * [2025-12-14, 21:43:35](https://news.ycombinator.com/item?id=46267283) - [Carolina Cloud – One third the cost of AWS for data science workloads](https://carolinacloud.io/)
 
