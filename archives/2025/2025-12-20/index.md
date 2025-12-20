@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-12-20](index.md)
 
+* [2025-12-20, 15:55:01](https://news.ycombinator.com/item?id=46337026) - [Brothers are taking down Claude Code with OSS CLI](https://github.com/blackboxaicode/cli)
 * [2025-12-20, 15:43:15](https://news.ycombinator.com/item?id=46336947) - [Go ahead, self-host Postgres](https://pierce.dev/notes/go-ahead-self-host-postgres#user-content-fn-1)
 * [2025-12-20, 15:34:05](https://news.ycombinator.com/item?id=46336892) - [DotMeow – A fun domain with a serious mission](https://www.dotmeow.org)
 * [2025-12-20, 13:54:29](https://news.ycombinator.com/item?id=46336213) - [TailwindSQL – Like TailwindCSS, but for SQL Queries in React Server Components](https://github.com/mmarinovic/tailwindsql)
