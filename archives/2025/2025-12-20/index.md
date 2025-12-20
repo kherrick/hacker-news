@@ -13,6 +13,7 @@
 * [2025-12-20, 17:49:18](https://news.ycombinator.com/item?id=46338016) - [Big GPUs don't need big PCs](https://www.jeffgeerling.com/blog/2025/big-gpus-dont-need-big-pcs)
 * [2025-12-20, 17:45:48](https://news.ycombinator.com/item?id=46337984) - [OpenSCAD Is Kinda Neat](https://nuxx.net/blog/2025/12/20/openscad-is-kinda-neat/)
 * [2025-12-20, 17:23:16](https://news.ycombinator.com/item?id=46337764) - [Show HN: Chart Preview – Preview environments for Helm charts on every PR](https://news.ycombinator.com/item?id=46337764)
+* [2025-12-20, 17:10:06](https://news.ycombinator.com/item?id=46337656) - [You have reached the end of the internet](https://hmpg.net/)
 * [2025-12-20, 16:45:48](https://news.ycombinator.com/item?id=46337438) - [Pure Silicon Demo Coding: No CPU, No Memory, Just 4k Gates](https://www.a1k0n.net/2025/12/19/tiny-tapeout-demo.html)
 * [2025-12-20, 16:08:17](https://news.ycombinator.com/item?id=46337134) - [Why do people leave comments on OpenBenches?](https://shkspr.mobi/blog/2025/12/why-do-people-leave-comments-on-openbenches/)
 * [2025-12-20, 16:07:24](https://news.ycombinator.com/item?id=46337123) - [Over 40% of Deceased Drivers in Vehicle Crashes Test Positive for THC: Study](https://www.facs.org/media-center/press-releases/2025/over-40-of-deceased-drivers-in-motor-vehicle-crashes-test-positive-for-thc-study-shows/)

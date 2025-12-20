@@ -64,6 +64,7 @@
 * [2025-12-15, 10:08:02](https://news.ycombinator.com/item?id=46272487) - [Avoid UUIDv4 Primary Keys](https://andyatkinson.com/avoid-uuid-version-4-primary-keys)
 * [2025-12-15, 10:03:18](https://news.ycombinator.com/item?id=46272454) - [Building a High-Performance OpenAPI Parser in Go](https://www.speakeasy.com/blog/building-speakeasy-openapi-go-library)
 * [2025-12-15, 07:28:27](https://news.ycombinator.com/item?id=46271405) - [AI URI Scheme – Internet-Draft](https://www.ietf.org/archive/id/draft-sogomonian-ai-uri-scheme-01.html)
+* [2025-12-15, 07:06:06](https://news.ycombinator.com/item?id=46271281) - [Shallow trees with heavy leaves (2020)](https://cp4space.hatsya.com/2020/12/13/shallow-trees-with-heavy-leaves/)
 * [2025-12-15, 06:56:04](https://news.ycombinator.com/item?id=46271232) - [English vocabulary test – how many words do you know?](https://www.myvocab.info/en)
 * [2025-12-15, 06:31:39](https://news.ycombinator.com/item?id=46271115) - [Fuzix on a Raspberry Pi Pico](https://ewpratten.com/blog/fuzix-pi-pico)
 * [2025-12-15, 06:05:35](https://news.ycombinator.com/item?id=46270972) - [Why proteins fold and how GPUs help us fold](https://aval.bearblog.dev/nvidiaproteins/)
