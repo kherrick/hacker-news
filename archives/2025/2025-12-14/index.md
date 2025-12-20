@@ -14,6 +14,7 @@
 * [2025-12-14, 22:15:00](https://news.ycombinator.com/item?id=46267623) - [From sci-fi to reality: Researchers realise quantum teleportation using tech](https://cordis.europa.eu/article/id/462587-from-sci-fi-to-reality-researchers-realise-quantum-teleportation-using-today-s-internet-tech)
 * [2025-12-14, 21:53:13](https://news.ycombinator.com/item?id=46267385) - [Anthropic Outage for Opus 4.5 and Sonnet 4/4.5 across all services](https://status.claude.com/incidents/9g6qpr72ttbr)
 * [2025-12-14, 21:17:01](https://news.ycombinator.com/item?id=46267015) - [A Cosmic Offense: Elias Canetti's contest against death](https://www.commonwealmagazine.org/cosmic-offense)
+* [2025-12-14, 21:08:44](https://news.ycombinator.com/item?id=46266915) - [Language Immersion, Prison-Style (2017)](https://www.themarshallproject.org/2017/12/14/my-do-it-yourself-language-immersion-prison-style)
 * [2025-12-14, 21:05:13](https://news.ycombinator.com/item?id=46266875) - [2002: Last.fm and Audioscrobbler Herald the Social Web](https://cybercultural.com/p/lastfm-audioscrobbler-2002/)
 * [2025-12-14, 21:04:25](https://news.ycombinator.com/item?id=46266867) - [Feather Detective (2016)](https://www.audubon.org/magazine/behind-scenes-worlds-top-feather-detective)
 * [2025-12-14, 20:47:21](https://news.ycombinator.com/item?id=46266717) - [The Problem of Teaching Physics in Latin America (1963)](https://calteches.library.caltech.edu/46/2/LatinAmerica.htm)
