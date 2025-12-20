@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-12-20](index.md)
 
+* [2025-12-20, 21:21:14](https://news.ycombinator.com/item?id=46339741) - [Anthropic: You can't change your Claude account email address](https://support.claude.com/en/articles/8452276-how-do-i-change-the-email-address-associated-with-my-account)
 * [2025-12-20, 20:50:43](https://news.ycombinator.com/item?id=46339537) - [MIRA – An open-source persistent AI entity with memory](https://github.com/taylorsatula/mira-OSS)
 * [2025-12-20, 20:44:26](https://news.ycombinator.com/item?id=46339495) - [Show HN: Fucking Websites](https://afw.kuber.studio)
 * [2025-12-20, 19:56:47](https://news.ycombinator.com/item?id=46339031) - ['LeBron James of spreadsheets' wins world Microsoft Excel title](https://www.bbc.com/news/articles/cj4qzgvxxgvo)

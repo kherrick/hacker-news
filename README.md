@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-12-20, 21:21:14](https://news.ycombinator.com/item?id=46339741) - [Anthropic: You can't change your Claude account email address](https://support.claude.com/en/articles/8452276-how-do-i-change-the-email-address-associated-with-my-account)
 * [2025-12-20, 20:50:43](https://news.ycombinator.com/item?id=46339537) - [MIRA – An open-source persistent AI entity with memory](https://github.com/taylorsatula/mira-OSS)
-* [2025-12-20, 20:44:26](https://news.ycombinator.com/item?id=46339495) - [Show HN: Fucking Websites](https://afw.kuber.studio)
 * [2025-12-20, 19:56:47](https://news.ycombinator.com/item?id=46339031) - [Ireland’s Diarmuid Early wins world Microsoft Excel title](https://www.bbc.com/news/articles/cj4qzgvxxgvo)
 * [2025-12-20, 18:31:23](https://news.ycombinator.com/item?id=46338365) - [I spent a week without IPv4 (2023)](https://www.apalrd.net/posts/2023/network_ipv6/)
 * [2025-12-20, 18:28:41](https://news.ycombinator.com/item?id=46338339) - [Backing Up Spotify](https://annas-archive.li/blog/backing-up-spotify.html)
@@ -12,7 +12,9 @@
 * [2025-12-20, 17:10:06](https://news.ycombinator.com/item?id=46337656) - [You have reached the end of the internet (2006)](https://hmpg.net/)
 * [2025-12-20, 16:45:48](https://news.ycombinator.com/item?id=46337438) - [Pure Silicon Demo Coding: No CPU, No Memory, Just 4k Gates](https://www.a1k0n.net/2025/12/19/tiny-tapeout-demo.html)
 * [2025-12-20, 16:08:17](https://news.ycombinator.com/item?id=46337134) - [Why do people leave comments on OpenBenches?](https://shkspr.mobi/blog/2025/12/why-do-people-leave-comments-on-openbenches/)
+* [2025-12-20, 16:07:24](https://news.ycombinator.com/item?id=46337123) - [Over 40% of deceased drivers in vehicle crashes test positive for THC: Study](https://www.facs.org/media-center/press-releases/2025/over-40-of-deceased-drivers-in-motor-vehicle-crashes-test-positive-for-thc-study-shows/)
 * [2025-12-20, 15:43:15](https://news.ycombinator.com/item?id=46336947) - [Go ahead, self-host Postgres](https://pierce.dev/notes/go-ahead-self-host-postgres#user-content-fn-1)
+* [2025-12-20, 13:54:29](https://news.ycombinator.com/item?id=46336213) - [TailwindSQL – Like TailwindCSS, but for SQL queries in React Server components](https://github.com/mmarinovic/tailwindsql)
 * [2025-12-20, 13:39:47](https://news.ycombinator.com/item?id=46336104) - [Show HN: HN Wrapped 2025 - an LLM reviews your year on HN](https://hn-wrapped.kadoa.com?year=2025)
 * [2025-12-20, 13:38:24](https://news.ycombinator.com/item?id=46336097) - [Immersa: Open-source Web-based 3D Presentation Tool](https://github.com/ertugrulcetin/immersa)
 * [2025-12-20, 09:38:51](https://news.ycombinator.com/item?id=46334819) - [Reflections on AI at the End of 2025](https://antirez.com/news/157)
@@ -21,7 +23,6 @@
 * [2025-12-20, 06:21:05](https://news.ycombinator.com/item?id=46334025) - [Privacy doesn't mean anything anymore, anonymity does](https://servury.com/blog/privacy-is-marketing-anonymity-is-architecture/)
 * [2025-12-20, 06:09:17](https://news.ycombinator.com/item?id=46333983) - [Charles Proxy](https://www.charlesproxy.com/)
 * [2025-12-19, 22:13:06](https://news.ycombinator.com/item?id=46331586) - [CSS Grid Lanes](https://webkit.org/blog/17660/introducing-css-grid-lanes/)
-* [2025-12-19, 15:40:03](https://news.ycombinator.com/item?id=46326984) - [Garage – An S3 object store so reliable you can run it outside datacenters](https://garagehq.deuxfleurs.fr/)
 * [2025-12-18, 15:01:10](https://news.ycombinator.com/item?id=46313390) - [Mistral OCR 3](https://mistral.ai/news/mistral-ocr-3)
 * [2025-12-17, 12:08:21](https://news.ycombinator.com/item?id=46301059) - [Log level 'error' should mean that something needs to be fixed](https://utcc.utoronto.ca/~cks/space/blog/programming/ErrorsShouldRequireFixing)
 * [2025-12-16, 17:32:36](https://news.ycombinator.com/item?id=46291412) - [X-59 3D Printing](https://www.nasa.gov/stem-content/x-59-3d-printing/)
@@ -29,7 +30,6 @@
 * [2025-12-16, 12:48:12](https://news.ycombinator.com/item?id=46287848) - [Gemini 3 Pro vs. 2.5 Pro in Pokemon Crystal](https://blog.jcz.dev/gemini-3-pro-vs-25-pro-in-pokemon-crystal)
 * [2025-12-16, 12:17:08](https://news.ycombinator.com/item?id=46287626) - [Detailed balance in large language model-driven agents](https://arxiv.org/abs/2512.10047)
 * [2025-12-15, 08:39:25](https://news.ycombinator.com/item?id=46271844) - [The Graffiti Question](https://www.guernicamag.com/the-graffiti-question/)
-* [2025-12-15, 07:06:06](https://news.ycombinator.com/item?id=46271281) - [Shallow trees with heavy leaves (2020)](https://cp4space.hatsya.com/2020/12/13/shallow-trees-with-heavy-leaves/)
 
 ## [Archives](archives/index.md)
 
