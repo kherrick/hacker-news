@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-12-20, 12:00:31",
+      "https://news.ycombinator.com/item?id=46335552"
+    ],
+    [
+      "Raycaster (YC F24) Is Hiring a Research Engineer (NYC, In-Person)",
+      "https://news.ycombinator.com/item?id=46335552"
+    ]
+  ],
+  [
+    [
       "2025-12-20, 10:13:33",
       "https://news.ycombinator.com/item?id=46334990"
     ],
@@ -171,32 +181,12 @@
   ],
   [
     [
-      "2025-12-19, 03:24:26",
-      "https://news.ycombinator.com/item?id=46321972"
-    ],
-    [
-      "Qwen-Image-Layered: transparency and layer aware open diffusion model",
-      "https://huggingface.co/papers/2512.15603"
-    ]
-  ],
-  [
-    [
       "2025-12-19, 03:19:59",
       "https://news.ycombinator.com/item?id=46321947"
     ],
     [
       "Brown/MIT shooting suspect found dead, officials say",
       "https://www.washingtonpost.com/nation/2025/12/18/brown-university-shooting-person-of-interest/"
-    ]
-  ],
-  [
-    [
-      "2025-12-18, 22:39:47",
-      "https://news.ycombinator.com/item?id=46319826"
-    ],
-    [
-      "History LLMs: Models trained exclusively on pre-1913 texts",
-      "https://github.com/DGoettlich/history-llms"
     ]
   ],
   [
@@ -247,6 +237,16 @@
     [
       "Gh-actions-lockfile: generate and verify lockfiles for GitHub Actions",
       "https://gh-actions-lockfile.net"
+    ]
+  ],
+  [
+    [
+      "2025-12-16, 12:18:10",
+      "https://news.ycombinator.com/item?id=46287632"
+    ],
+    [
+      "A proof of concept of a semistable C++ vector container",
+      "https://github.com/joaquintides/semistable_vector"
     ]
   ],
   [
