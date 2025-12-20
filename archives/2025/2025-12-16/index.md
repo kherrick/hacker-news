@@ -28,6 +28,7 @@
 * [2025-12-16, 18:26:43](https://news.ycombinator.com/item?id=46292266) - [Meta Segment Anything Model Audio](https://ai.meta.com/samaudio/)
 * [2025-12-16, 18:21:21](https://news.ycombinator.com/item?id=46292148) - [The pitfalls of partitioning Postgres yourself](https://hatchet.run/blog/postgres-partitioning)
 * [2025-12-16, 18:07:07](https://news.ycombinator.com/item?id=46291941) - [GPT Image 1.5](https://openai.com/index/new-chatgpt-images-is-here/)
+* [2025-12-16, 18:02:15](https://news.ycombinator.com/item?id=46291870) - [Arduino UNO Q bridges high-performance computing with real-time control](https://www.arduino.cc/product-uno-q/)
 * [2025-12-16, 17:58:59](https://news.ycombinator.com/item?id=46291827) - [The new ChatGPT Images is here](https://openai.com/index/new-chatgpt-images-is-here/)
 * [2025-12-16, 17:37:41](https://news.ycombinator.com/item?id=46291504) - [AI is wiping out entry-level tech jobs, leaving graduates stranded](https://restofworld.org/2025/engineering-graduates-ai-job-losses/)
 * [2025-12-16, 17:37:34](https://news.ycombinator.com/item?id=46291500) - [The GitHub Actions control plane is no longer free](https://www.blacksmith.sh/blog/actions-pricing)
