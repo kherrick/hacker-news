@@ -5,11 +5,13 @@
 ### [Archives](../../index.md) for [2025-12-20](index.md)
 
 * [2025-12-20, 18:31:23](https://news.ycombinator.com/item?id=46338365) - [I spent a WEEK without IPv4](https://www.apalrd.net/posts/2023/network_ipv6/)
+* [2025-12-20, 18:28:41](https://news.ycombinator.com/item?id=46338339) - [Backing Up Spotify](https://annas-archive.li/blog/backing-up-spotify.html)
 * [2025-12-20, 18:06:04](https://news.ycombinator.com/item?id=46338156) - [Depot (YC W23) Is Hiring an Enterprise Support Engineer (Remote/US)](https://www.ycombinator.com/companies/depot/jobs/jhGxVjO-enterprise-support-engineer)
 * [2025-12-20, 17:49:18](https://news.ycombinator.com/item?id=46338016) - [Big GPUs don't need big PCs](https://www.jeffgeerling.com/blog/2025/big-gpus-dont-need-big-pcs)
 * [2025-12-20, 17:45:48](https://news.ycombinator.com/item?id=46337984) - [OpenSCAD Is Kinda Neat](https://nuxx.net/blog/2025/12/20/openscad-is-kinda-neat/)
 * [2025-12-20, 17:23:16](https://news.ycombinator.com/item?id=46337764) - [Show HN: Chart Preview – Preview environments for Helm charts on every PR](https://news.ycombinator.com/item?id=46337764)
 * [2025-12-20, 16:45:48](https://news.ycombinator.com/item?id=46337438) - [Pure Silicon Demo Coding: No CPU, No Memory, Just 4k Gates](https://www.a1k0n.net/2025/12/19/tiny-tapeout-demo.html)
+* [2025-12-20, 16:08:17](https://news.ycombinator.com/item?id=46337134) - [Why do people leave comments on OpenBenches?](https://shkspr.mobi/blog/2025/12/why-do-people-leave-comments-on-openbenches/)
 * [2025-12-20, 16:07:24](https://news.ycombinator.com/item?id=46337123) - [Over 40% of Deceased Drivers in Vehicle Crashes Test Positive for THC: Study](https://www.facs.org/media-center/press-releases/2025/over-40-of-deceased-drivers-in-motor-vehicle-crashes-test-positive-for-thc-study-shows/)
 * [2025-12-20, 16:06:44](https://news.ycombinator.com/item?id=46337118) - [Show HN: Claude Code Plugin to play music when waiting on user input](https://github.com/Sevii/agent-marketplace/blob/main/plugins/elevator-music/README.md)
 * [2025-12-20, 15:55:01](https://news.ycombinator.com/item?id=46337026) - [Brothers are taking down Claude Code with OSS CLI](https://github.com/blackboxaicode/cli)
