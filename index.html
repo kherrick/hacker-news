@@ -129,6 +129,27 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
+        <section id="46338803">
+          <h3>
+            <a
+              class="item"
+              href="https://thecritic.co.uk/ai-will-make-our-children-stupid/"
+              >AI will make our children stupid</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2025-12-20 @ 19:24:34</span
+              ><span class="points-container"
+                >Points: <span class="points">17</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=46338803"
+                  >Comments</a
+                ><span class="descendants">: 4</span></span
+              >
+            </h4>
+          </section>
+        </section>
         <section id="46338365">
           <h3>
             <a
@@ -141,11 +162,11 @@
             <h4>
               <span>2025-12-20 @ 18:31:23</span
               ><span class="points-container"
-                >Points: <span class="points">30</span></span
+                >Points: <span class="points">34</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46338365"
                   >Comments</a
-                ><span class="descendants">: 29</span></span
+                ><span class="descendants">: 41</span></span
               >
             </h4>
           </section>
@@ -162,11 +183,11 @@
             <h4>
               <span>2025-12-20 @ 18:28:41</span
               ><span class="points-container"
-                >Points: <span class="points">28</span></span
+                >Points: <span class="points">42</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46338339"
                   >Comments</a
-                ><span class="descendants">: 4</span></span
+                ><span class="descendants">: 7</span></span
               >
             </h4>
           </section>
@@ -201,7 +222,7 @@
             <h4>
               <span>2025-12-20 @ 17:49:18</span
               ><span class="points-container"
-                >Points: <span class="points">32</span></span
+                >Points: <span class="points">36</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46338016"
                   >Comments</a
@@ -222,121 +243,13 @@
             <h4>
               <span>2025-12-20 @ 17:45:48</span
               ><span class="points-container"
-                >Points: <span class="points">66</span></span
+                >Points: <span class="points">70</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46337984"
                   >Comments</a
-                ><span class="descendants">: 35</span></span
+                ><span class="descendants">: 39</span></span
               >
             </h4>
-          </section>
-        </section>
-        <section id="46337764">
-          <h3>
-            <a class="item" href="https://news.ycombinator.com/item?id=46337764"
-              >Show HN: Chart Preview – Preview environments for Helm charts on
-              every PR</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2025-12-20 @ 17:23:16</span
-              ><span class="points-container"
-                >Points: <span class="points">5</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=46337764"
-                  >Comments</a
-                ><span class="descendants">: 0</span></span
-              >
-            </h4>
-            <div class="text">
-              <p>
-                I built Chart Preview so reviewers could see Helm chart changes
-                running without waiting on me.
-              </p>
-              <p>
-                A few years ago, my team needed to implement HA for an existing
-                product, which meant deploying on Kubernetes and OpenShift. I
-                spent months learning Kubernetes, Helm, and the surrounding
-                ecosystem. After that, Kubernetes largely became “my thing” on
-                the team.
-              </p>
-              <p>
-                We later published public Helm charts for the product, and
-                customers started submitting PRs. Those PRs would often sit for
-                months — not because the changes were bad, but because testing
-                them meant manually spinning up a Kubernetes cluster, deploying
-                the chart with the proposed changes, running through test
-                scenarios, and coordinating verification with product and QA.
-                Since I was the only one who could reliably set up those
-                environments, everything waited on me.
-              </p>
-              <p>
-                I kept thinking: what if the PR itself showed the changes
-                working? What if reviewers could just click a link and see it
-                deployed?
-              </p>
-              <p>That idea became Chart Preview.</p>
-              <p>
-                Chart Preview deploys your Helm chart to a real Kubernetes
-                cluster when you open a PR, provides a unique preview URL for
-                that PR, and cleans everything up automatically when the PR
-                closes.
-              </p>
-              <p>
-                I started by solving a problem I was personally hitting, rather
-                than surveying the whole market upfront. As I built more of it,
-                I looked at existing preview tools and noticed that while there
-                are solid solutions for previewing container-based applications,
-                Helm-specific workflows introduce different challenges — chart
-                dependencies, layered values files, and opinionated chart
-                structures. That pushed me to focus Chart Preview on being
-                Helm-native first, rather than adapting a container preview
-                workflow to fit Helm.
-              </p>
-              <p>
-                Under the hood, it’s built in Go using the Helm v3 SDK. The
-                architecture is an API server with workers pulling jobs from a
-                PostgreSQL queue — no Kubernetes operator, just services talking
-                directly to the Kubernetes API. Each preview runs in its own
-                namespace with deny-all NetworkPolicies, ResourceQuotas, and
-                LimitRanges. GitHub integration is done via a GitHub App for
-                check runs and webhooks, with GitLab supported via the REST API.
-              </p>
-              <p>
-                There were a few interesting challenges along the way. Injecting
-                preview hostnames into Ingress resources without corrupting
-                manifests took several iterations. Helm uninstall doesn’t always
-                clean everything up, so deleting the entire namespace turned out
-                to be the safest fallback. Handling rapid pushes to the same PR
-                required build numbering so the latest push always wins. And
-                while the Helm SDK is powerful, it’s under-documented — I spent
-                a lot of time reading Helm’s source code.
-              </p>
-              <p>
-                I’ve been building and testing this for a few months using real
-                charts like Grafana, podinfo, and WordPress to validate the
-                workflow. It’s early, but it works, and now I’m trying to
-                understand whether other teams have the same pain point I did.
-              </p>
-              <p>
-                You can try it by installing the GitHub App here:
-                <a href="https://github.com/apps/chart-preview"
-                  >https://github.com/apps/chart-preview</a
-                >
-              </p>
-              <p>I’d love feedback on a few things:</p>
-              <p>
-                Does this solve a real problem for your team, or is shared
-                staging “good enough”?
-              </p>
-              <p>What’s missing that would make you actually use it?</p>
-              <p>
-                Are there Helm charts this wouldn’t work for? (Cluster-scoped
-                resources are intentionally blocked.)
-              </p>
-              <p>Happy to answer questions about the implementation.</p>
-            </div>
           </section>
         </section>
         <section id="46337438">
@@ -351,11 +264,11 @@
             <h4>
               <span>2025-12-20 @ 16:45:48</span
               ><span class="points-container"
-                >Points: <span class="points">145</span></span
+                >Points: <span class="points">148</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46337438"
                   >Comments</a
-                ><span class="descendants">: 10</span></span
+                ><span class="descendants">: 12</span></span
               >
             </h4>
           </section>
@@ -372,7 +285,7 @@
             <h4>
               <span>2025-12-20 @ 16:08:17</span
               ><span class="points-container"
-                >Points: <span class="points">15</span></span
+                >Points: <span class="points">16</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46337134"
                   >Comments</a
@@ -394,7 +307,7 @@
             <h4>
               <span>2025-12-20 @ 16:06:44</span
               ><span class="points-container"
-                >Points: <span class="points">24</span></span
+                >Points: <span class="points">26</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46337118"
                   >Comments</a
@@ -421,11 +334,11 @@
             <h4>
               <span>2025-12-20 @ 15:43:15</span
               ><span class="points-container"
-                >Points: <span class="points">269</span></span
+                >Points: <span class="points">276</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46336947"
                   >Comments</a
-                ><span class="descendants">: 191</span></span
+                ><span class="descendants">: 195</span></span
               >
             </h4>
           </section>
@@ -440,7 +353,7 @@
             <h4>
               <span>2025-12-20 @ 13:39:47</span
               ><span class="points-container"
-                >Points: <span class="points">22</span></span
+                >Points: <span class="points">26</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46336104"
                   >Comments</a
@@ -494,7 +407,7 @@
             <h4>
               <span>2025-12-20 @ 13:38:24</span
               ><span class="points-container"
-                >Points: <span class="points">96</span></span
+                >Points: <span class="points">97</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46336097"
                   >Comments</a
@@ -534,11 +447,11 @@
             <h4>
               <span>2025-12-20 @ 09:38:51</span
               ><span class="points-container"
-                >Points: <span class="points">148</span></span
+                >Points: <span class="points">149</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46334819"
                   >Comments</a
-                ><span class="descendants">: 228</span></span
+                ><span class="descendants">: 232</span></span
               >
             </h4>
           </section>
@@ -555,11 +468,11 @@
             <h4>
               <span>2025-12-20 @ 08:36:52</span
               ><span class="points-container"
-                >Points: <span class="points">385</span></span
+                >Points: <span class="points">387</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46334533"
                   >Comments</a
-                ><span class="descendants">: 327</span></span
+                ><span class="descendants">: 330</span></span
               >
             </h4>
           </section>
@@ -600,7 +513,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46334424"
                   >Comments</a
-                ><span class="descendants">: 95</span></span
+                ><span class="descendants">: 97</span></span
               >
             </h4>
           </section>
@@ -617,11 +530,11 @@
             <h4>
               <span>2025-12-20 @ 07:39:26</span
               ><span class="points-container"
-                >Points: <span class="points">364</span></span
+                >Points: <span class="points">365</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46334299"
                   >Comments</a
-                ><span class="descendants">: 166</span></span
+                ><span class="descendants">: 167</span></span
               >
             </h4>
           </section>
@@ -638,11 +551,11 @@
             <h4>
               <span>2025-12-20 @ 06:21:05</span
               ><span class="points-container"
-                >Points: <span class="points">300</span></span
+                >Points: <span class="points">301</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46334025"
                   >Comments</a
-                ><span class="descendants">: 203</span></span
+                ><span class="descendants">: 207</span></span
               >
             </h4>
           </section>
@@ -661,7 +574,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46333983"
                   >Comments</a
-                ><span class="descendants">: 99</span></span
+                ><span class="descendants">: 100</span></span
               >
             </h4>
           </section>
@@ -678,7 +591,7 @@
             <h4>
               <span>2025-12-19 @ 22:13:06</span
               ><span class="points-container"
-                >Points: <span class="points">671</span></span
+                >Points: <span class="points">672</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46331586"
                   >Comments</a
@@ -698,11 +611,11 @@
             <h4>
               <span>2025-12-19 @ 15:40:03</span
               ><span class="points-container"
-                >Points: <span class="points">660</span></span
+                >Points: <span class="points">662</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46326984"
                   >Comments</a
-                ><span class="descendants">: 146</span></span
+                ><span class="descendants">: 148</span></span
               >
             </h4>
           </section>
@@ -717,7 +630,7 @@
             <h4>
               <span>2025-12-18 @ 15:01:10</span
               ><span class="points-container"
-                >Points: <span class="points">646</span></span
+                >Points: <span class="points">647</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46313390"
                   >Comments</a
@@ -738,11 +651,11 @@
             <h4>
               <span>2025-12-17 @ 12:08:21</span
               ><span class="points-container"
-                >Points: <span class="points">190</span></span
+                >Points: <span class="points">194</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46301059"
                   >Comments</a
-                ><span class="descendants">: 110</span></span
+                ><span class="descendants">: 111</span></span
               >
             </h4>
           </section>
@@ -762,7 +675,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46291870"
                   >Comments</a
-                ><span class="descendants">: 24</span></span
+                ><span class="descendants">: 27</span></span
               >
             </h4>
           </section>
@@ -778,7 +691,7 @@
             <h4>
               <span>2025-12-16 @ 15:39:23</span
               ><span class="points-container"
-                >Points: <span class="points">14</span></span
+                >Points: <span class="points">15</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46289884"
                   >Comments</a
@@ -799,11 +712,11 @@
             <h4>
               <span>2025-12-16 @ 12:48:12</span
               ><span class="points-container"
-                >Points: <span class="points">188</span></span
+                >Points: <span class="points">189</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46287848"
                   >Comments</a
-                ><span class="descendants">: 60</span></span
+                ><span class="descendants">: 61</span></span
               >
             </h4>
           </section>
@@ -864,7 +777,7 @@
             <h4>
               <span>2025-12-16 @ 03:43:02</span
               ><span class="points-container"
-                >Points: <span class="points">112</span></span
+                >Points: <span class="points">113</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46284514"
                   >Comments</a
