@@ -2,7 +2,7 @@
 
 * [2025-12-20, 22:21:29](https://news.ycombinator.com/item?id=46340192) - [I wrote a code editor in C and now I'm a changed man](https://github.com/thisismars-x/light)
 * [2025-12-20, 21:26:14](https://news.ycombinator.com/item?id=46339777) - [Claude in Chrome](https://claude.com/chrome)
-* [2025-12-20, 21:21:14](https://news.ycombinator.com/item?id=46339741) - [Anthropic: You can't change your Claude account email address](https://support.claude.com/en/articles/8452276-how-do-i-change-the-email-address-associated-with-my-account)
+* [2025-12-20, 21:00:05](https://news.ycombinator.com/item?id=46339600) - [Show HN: Jmail – Google Suite for Epstein files](https://www.jmail.world)
 * [2025-12-20, 20:50:43](https://news.ycombinator.com/item?id=46339537) - [MIRA – An open-source persistent AI entity with memory](https://github.com/taylorsatula/mira-OSS)
 * [2025-12-20, 19:56:47](https://news.ycombinator.com/item?id=46339031) - [Ireland’s Diarmuid Early wins world Microsoft Excel title](https://www.bbc.com/news/articles/cj4qzgvxxgvo)
 * [2025-12-20, 18:31:23](https://news.ycombinator.com/item?id=46338365) - [I spent a week without IPv4 (2023)](https://www.apalrd.net/posts/2023/network_ipv6/)
@@ -16,7 +16,6 @@
 * [2025-12-20, 16:08:17](https://news.ycombinator.com/item?id=46337134) - [Why do people leave comments on OpenBenches?](https://shkspr.mobi/blog/2025/12/why-do-people-leave-comments-on-openbenches/)
 * [2025-12-20, 16:07:24](https://news.ycombinator.com/item?id=46337123) - [Over 40% of deceased drivers in vehicle crashes test positive for THC: Study](https://www.facs.org/media-center/press-releases/2025/over-40-of-deceased-drivers-in-motor-vehicle-crashes-test-positive-for-thc-study-shows/)
 * [2025-12-20, 15:43:15](https://news.ycombinator.com/item?id=46336947) - [Go ahead, self-host Postgres](https://pierce.dev/notes/go-ahead-self-host-postgres#user-content-fn-1)
-* [2025-12-20, 13:54:29](https://news.ycombinator.com/item?id=46336213) - [TailwindSQL – Like TailwindCSS, but for SQL queries in React Server components](https://github.com/mmarinovic/tailwindsql)
 * [2025-12-20, 13:39:47](https://news.ycombinator.com/item?id=46336104) - [Show HN: HN Wrapped 2025 - an LLM reviews your year on HN](https://hn-wrapped.kadoa.com?year=2025)
 * [2025-12-20, 13:38:24](https://news.ycombinator.com/item?id=46336097) - [Immersa: Open-source Web-based 3D Presentation Tool](https://github.com/ertugrulcetin/immersa)
 * [2025-12-20, 13:20:57](https://news.ycombinator.com/item?id=46335994) - [Approaching 50 Years of String Theory](https://www.math.columbia.edu/~woit/wordpress/?p=15401)
@@ -30,6 +29,7 @@
 * [2025-12-16, 12:48:12](https://news.ycombinator.com/item?id=46287848) - [Gemini 3 Pro vs. 2.5 Pro in Pokemon Crystal](https://blog.jcz.dev/gemini-3-pro-vs-25-pro-in-pokemon-crystal)
 * [2025-12-16, 12:17:08](https://news.ycombinator.com/item?id=46287626) - [Detailed balance in large language model-driven agents](https://arxiv.org/abs/2512.10047)
 * [2025-12-15, 13:30:45](https://news.ycombinator.com/item?id=46274272) - [Italian bears living near villages have evolved to be smaller and less agressive](https://phys.org/news/2025-12-italian-villages-evolved-smaller-aggressive.html)
+* [2025-12-15, 08:39:25](https://news.ycombinator.com/item?id=46271844) - [The Graffiti Question](https://www.guernicamag.com/the-graffiti-question/)
 
 ## [Archives](archives/index.md)
 
