@@ -1,12 +1,22 @@
 [
   [
     [
-      "2025-12-20, 18:06:04",
-      "https://news.ycombinator.com/item?id=46338156"
+      "2025-12-20, 18:31:23",
+      "https://news.ycombinator.com/item?id=46338365"
     ],
     [
-      "Depot (YC W23) Is Hiring an Enterprise Support Engineer (Remote/US)",
-      "https://www.ycombinator.com/companies/depot/jobs/jhGxVjO-enterprise-support-engineer"
+      "I spent a WEEK without IPv4",
+      "https://www.apalrd.net/posts/2023/network_ipv6/"
+    ]
+  ],
+  [
+    [
+      "2025-12-20, 17:49:18",
+      "https://news.ycombinator.com/item?id=46338016"
+    ],
+    [
+      "Big GPUs don't need big PCs",
+      "https://www.jeffgeerling.com/blog/2025/big-gpus-dont-need-big-pcs"
     ]
   ],
   [
@@ -17,6 +27,16 @@
     [
       "OpenSCAD Is Kinda Neat",
       "https://nuxx.net/blog/2025/12/20/openscad-is-kinda-neat/"
+    ]
+  ],
+  [
+    [
+      "2025-12-20, 17:23:16",
+      "https://news.ycombinator.com/item?id=46337764"
+    ],
+    [
+      "Show HN: Chart Preview – Preview environments for Helm charts on every PR",
+      "https://news.ycombinator.com/item?id=46337764"
     ]
   ],
   [
@@ -57,6 +77,16 @@
     [
       "Go ahead, self-host Postgres",
       "https://pierce.dev/notes/go-ahead-self-host-postgres#user-content-fn-1"
+    ]
+  ],
+  [
+    [
+      "2025-12-20, 13:39:47",
+      "https://news.ycombinator.com/item?id=46336104"
+    ],
+    [
+      "Show HN: HN Wrapped 2025 - an LLM reviews your year on HN",
+      "https://hn-wrapped.kadoa.com?year=2025"
     ]
   ],
   [
@@ -161,26 +191,6 @@
   ],
   [
     [
-      "2025-12-19, 20:49:20",
-      "https://news.ycombinator.com/item?id=46330726"
-    ],
-    [
-      "LLM Year in Review",
-      "https://karpathy.bearblog.dev/year-in-review-2025/"
-    ]
-  ],
-  [
-    [
-      "2025-12-19, 18:19:32",
-      "https://news.ycombinator.com/item?id=46329038"
-    ],
-    [
-      "TP-Link Tapo C200: Hardcoded Keys, Buffer Overflows and Privacy",
-      "https://www.evilsocket.net/2025/12/18/TP-Link-Tapo-C200-Hardcoded-Keys-Buffer-Overflows-and-Privacy-in-the-Era-of-AI-Assisted-Reverse-Engineering/"
-    ]
-  ],
-  [
-    [
       "2025-12-19, 15:40:03",
       "https://news.ycombinator.com/item?id=46326984"
     ],
@@ -257,16 +267,6 @@
     [
       "Gemini 3 Pro vs. 2.5 Pro in Pokemon Crystal",
       "https://blog.jcz.dev/gemini-3-pro-vs-25-pro-in-pokemon-crystal"
-    ]
-  ],
-  [
-    [
-      "2025-12-16, 12:18:10",
-      "https://news.ycombinator.com/item?id=46287632"
-    ],
-    [
-      "A proof of concept of a semistable C++ vector container",
-      "https://github.com/joaquintides/semistable_vector"
     ]
   ],
   [
