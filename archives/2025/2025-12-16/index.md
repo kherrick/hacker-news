@@ -47,6 +47,7 @@
 * [2025-12-16, 15:55:45](https://news.ycombinator.com/item?id=46290113) - [AIsbom – open-source CLI to detect \"Pickle Bombs\" in PyTorch models](https://github.com/Lab700xOrg/aisbom)
 * [2025-12-16, 15:44:33](https://news.ycombinator.com/item?id=46289955) - [Gh-actions-lockfile: generate and verify lockfiles for GitHub Actions](https://gh-actions-lockfile.net)
 * [2025-12-16, 15:41:47](https://news.ycombinator.com/item?id=46289918) - [Writing a blatant Telegram clone using Qt, QML and Rust. And C++](https://kemble.net/blog/provoke/)
+* [2025-12-16, 15:39:23](https://news.ycombinator.com/item?id=46289884) - [Biscuit is a specialized PostgreSQL index for fast pattern matching LIKE queries](https://github.com/CrystallineCore/Biscuit)
 * [2025-12-16, 15:22:32](https://news.ycombinator.com/item?id=46289635) - [Four Million U.S. Children Had No Health Insurance in 2024](https://www.scientificamerican.com/article/how-rising-rates-of-uninsured-children-will-increase-pediatric-cancer-deaths/)
 * [2025-12-16, 15:12:37](https://news.ycombinator.com/item?id=46289481) - [Show HN: CommerceTXT – An open standard for AI shopping context (like llms.txt)](https://commercetxt.org/)
 * [2025-12-16, 14:46:52](https://news.ycombinator.com/item?id=46289160) - [CEOs to Keep Spending on AI, Despite Spotty Returns](https://www.wsj.com/tech/ai/ceos-to-keep-spending-on-ai-despite-spotty-returns-2eaeb6b)

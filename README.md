@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-12-20, 18:31:23](https://news.ycombinator.com/item?id=46338365) - [I spent a WEEK without IPv4](https://www.apalrd.net/posts/2023/network_ipv6/)
+* [2025-12-20, 18:06:04](https://news.ycombinator.com/item?id=46338156) - [Depot (YC W23) Is Hiring an Enterprise Support Engineer (Remote/US)](https://www.ycombinator.com/companies/depot/jobs/jhGxVjO-enterprise-support-engineer)
 * [2025-12-20, 17:49:18](https://news.ycombinator.com/item?id=46338016) - [Big GPUs don't need big PCs](https://www.jeffgeerling.com/blog/2025/big-gpus-dont-need-big-pcs)
 * [2025-12-20, 17:45:48](https://news.ycombinator.com/item?id=46337984) - [OpenSCAD Is Kinda Neat](https://nuxx.net/blog/2025/12/20/openscad-is-kinda-neat/)
 * [2025-12-20, 17:23:16](https://news.ycombinator.com/item?id=46337764) - [Show HN: Chart Preview – Preview environments for Helm charts on every PR](https://news.ycombinator.com/item?id=46337764)
@@ -21,15 +22,14 @@
 * [2025-12-19, 22:13:06](https://news.ycombinator.com/item?id=46331586) - [CSS Grid Lanes](https://webkit.org/blog/17660/introducing-css-grid-lanes/)
 * [2025-12-19, 15:40:03](https://news.ycombinator.com/item?id=46326984) - [Garage – An S3 object store so reliable you can run it outside datacenters](https://garagehq.deuxfleurs.fr/)
 * [2025-12-18, 15:01:10](https://news.ycombinator.com/item?id=46313390) - [Mistral OCR 3](https://mistral.ai/news/mistral-ocr-3)
-* [2025-12-17, 22:32:19](https://news.ycombinator.com/item?id=46306497) - [NOAA deploys new generation of AI-driven global weather models](https://www.noaa.gov/news-release/noaa-deploys-new-generation-of-ai-driven-global-weather-models)
 * [2025-12-17, 13:41:53](https://news.ycombinator.com/item?id=46301847) - [A terminal emulator that runs in your terminal. Powered by Turbo Vision](https://github.com/magiblot/tvterm)
 * [2025-12-17, 12:08:21](https://news.ycombinator.com/item?id=46301059) - [Log level 'error' should mean that something needs to be fixed](https://utcc.utoronto.ca/~cks/space/blog/programming/ErrorsShouldRequireFixing)
 * [2025-12-17, 07:47:24](https://news.ycombinator.com/item?id=46299288) - [Extending ts-Wolfram: dropping OOP, kernel/userspace interop, better printing](https://www.spakhm.com/ts-wolfram-ext)
 * [2025-12-16, 18:02:15](https://news.ycombinator.com/item?id=46291870) - [Arduino UNO Q bridges high-performance computing with real-time control](https://www.arduino.cc/product-uno-q/)
+* [2025-12-16, 15:39:23](https://news.ycombinator.com/item?id=46289884) - [Biscuit is a specialized PostgreSQL index for fast pattern matching LIKE queries](https://github.com/CrystallineCore/Biscuit)
 * [2025-12-16, 12:48:12](https://news.ycombinator.com/item?id=46287848) - [Gemini 3 Pro vs. 2.5 Pro in Pokemon Crystal](https://blog.jcz.dev/gemini-3-pro-vs-25-pro-in-pokemon-crystal)
 * [2025-12-16, 03:55:00](https://news.ycombinator.com/item?id=46284595) - [Maximizing Compression of Apple II Hi-Res Images](http://deater.net/weave/vmwprod/hgr_compress/)
 * [2025-12-16, 03:43:02](https://news.ycombinator.com/item?id=46284514) - [New Quantum Antenna Reveals a Hidden Terahertz World](https://www.sciencedaily.com/releases/2025/12/251213032617.htm)
-* [2025-12-14, 19:32:40](https://news.ycombinator.com/item?id=46266003) - [Hash tables in Go and advantage of self-hosted compilers](https://rushter.com/blog/go-and-hashmaps/)
 
 ## [Archives](archives/index.md)
 
