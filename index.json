@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-12-21, 17:38:48",
+      "https://news.ycombinator.com/item?id=46346536"
+    ],
+    [
+      "Mountain home near Aspen, built for monks, sold to Palantir CEO for $120M",
+      "https://coloradosun.com/2025/12/19/monastery-sells-palantir-ceo/"
+    ]
+  ],
+  [
+    [
+      "2025-12-21, 17:35:44",
+      "https://news.ycombinator.com/item?id=46346510"
+    ],
+    [
+      "Waymo suspends service in San Francisco as robotaxis stall during blackout",
+      "https://techcrunch.com/2025/12/21/waymo-suspends-service-in-san-francisco-as-robotaxis-stall-during-blackout/"
+    ]
+  ],
+  [
+    [
       "2025-12-21, 16:30:09",
       "https://news.ycombinator.com/item?id=46345975"
     ],
@@ -211,16 +231,6 @@
   ],
   [
     [
-      "2025-12-20, 17:45:48",
-      "https://news.ycombinator.com/item?id=46337984"
-    ],
-    [
-      "OpenSCAD is kinda neat",
-      "https://nuxx.net/blog/2025/12/20/openscad-is-kinda-neat/"
-    ]
-  ],
-  [
-    [
       "2025-12-20, 16:45:48",
       "https://news.ycombinator.com/item?id=46337438"
     ],
@@ -287,16 +297,6 @@
     [
       "What I Learned About Deploying AV1 from Two Deployers",
       "https://streaminglearningcenter.com/articles/what-i-learned-about-deploying-av1-from-two-deployers.html"
-    ]
-  ],
-  [
-    [
-      "2025-12-16, 08:36:11",
-      "https://news.ycombinator.com/item?id=46286167"
-    ],
-    [
-      "A2UI: An Open Spec for Agent-Generated User Interfaces (Google)",
-      "https://developers.googleblog.com/introducing-a2ui-an-open-project-for-agent-driven-interfaces/"
     ]
   ]
 ]
