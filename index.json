@@ -1,12 +1,22 @@
 [
   [
     [
-      "2025-12-20, 22:21:29",
-      "https://news.ycombinator.com/item?id=46340192"
+      "2025-12-21, 00:20:53",
+      "https://news.ycombinator.com/item?id=46341035"
     ],
     [
-      "I wrote a code editor in C and now I'm a changed man",
-      "https://github.com/thisismars-x/light"
+      "Humankind's 10 million year love affair with booze might end",
+      "https://www.economist.com/christmas-specials/2025/12/18/how-humankinds-10m-year-love-affair-with-booze-might-end"
+    ]
+  ],
+  [
+    [
+      "2025-12-20, 23:43:04",
+      "https://news.ycombinator.com/item?id=46340794"
+    ],
+    [
+      "Anatomy of US inequality",
+      "https://www.nber.org/papers/w34558"
     ]
   ],
   [
@@ -211,26 +221,6 @@
   ],
   [
     [
-      "2025-12-20, 06:21:05",
-      "https://news.ycombinator.com/item?id=46334025"
-    ],
-    [
-      "Privacy doesn't mean anything anymore, anonymity does",
-      "https://servury.com/blog/privacy-is-marketing-anonymity-is-architecture/"
-    ]
-  ],
-  [
-    [
-      "2025-12-19, 22:13:06",
-      "https://news.ycombinator.com/item?id=46331586"
-    ],
-    [
-      "CSS Grid Lanes",
-      "https://webkit.org/blog/17660/introducing-css-grid-lanes/"
-    ]
-  ],
-  [
-    [
       "2025-12-17, 12:08:21",
       "https://news.ycombinator.com/item?id=46301059"
     ],
@@ -271,6 +261,16 @@
   ],
   [
     [
+      "2025-12-16, 12:22:40",
+      "https://news.ycombinator.com/item?id=46287666"
+    ],
+    [
+      "All about Parameters and Widgets in Databricks Workflows",
+      "https://medium.com/dev-genius/all-about-parameters-in-databricks-workflows-28ae13ebb212"
+    ]
+  ],
+  [
+    [
       "2025-12-16, 12:17:08",
       "https://news.ycombinator.com/item?id=46287626"
     ],
@@ -281,22 +281,22 @@
   ],
   [
     [
+      "2025-12-16, 05:46:20",
+      "https://news.ycombinator.com/item?id=46285208"
+    ],
+    [
+      "How to Write a 21st Century Proof (2011) [pdf]",
+      "https://lamport.azurewebsites.net/pubs/proof.pdf"
+    ]
+  ],
+  [
+    [
       "2025-12-15, 13:30:45",
       "https://news.ycombinator.com/item?id=46274272"
     ],
     [
       "Italian bears living near villages have evolved to be smaller and less agressive",
       "https://phys.org/news/2025-12-italian-villages-evolved-smaller-aggressive.html"
-    ]
-  ],
-  [
-    [
-      "2025-12-15, 08:39:25",
-      "https://news.ycombinator.com/item?id=46271844"
-    ],
-    [
-      "The Graffiti Question",
-      "https://www.guernicamag.com/the-graffiti-question/"
     ]
   ]
 ]
