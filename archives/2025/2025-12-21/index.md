@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-12-21](index.md)
 
+* [2025-12-21, 20:55:15](https://news.ycombinator.com/item?id=46348329) - [A Guide to Local Coding Models](https://www.aiforswes.com/p/you-dont-need-to-spend-100mo-on-claude)
+* [2025-12-21, 20:53:34](https://news.ycombinator.com/item?id=46348318) - [More on whether useful quantum computing is \"imminent\"](https://scottaaronson.blog/?p=9425)
 * [2025-12-21, 19:58:11](https://news.ycombinator.com/item?id=46347846) - [Weight loss jabs: What happens when you stop taking them](https://www.bbc.com/news/articles/cn98pdpyjz5o)
 * [2025-12-21, 18:43:20](https://news.ycombinator.com/item?id=46347108) - [I can't upgrade to Windows 11, now leave me alone](https://idiallo.com/byte-size/cant-update-to-windows-11-leave-me-alone)
 * [2025-12-21, 18:39:46](https://news.ycombinator.com/item?id=46347080) - [Mullvad VPN: \"This is a Chat Control 3.0 attempt.\"](https://mastodon.online/@mullvadnet/115742530333573065)
