@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-12-21](index.md)
 
+* [2025-12-21, 18:19:54](https://news.ycombinator.com/item?id=46346886) - [Day laborers protest noise machines installed at Home Depot](https://www.latimes.com/california/story/2025-12-17/day-laborers-protest-noise-machines-home-depot)
+* [2025-12-21, 18:09:52](https://news.ycombinator.com/item?id=46346796) - [Logging Sucks](https://loggingsucks.com/)
 * [2025-12-21, 17:38:48](https://news.ycombinator.com/item?id=46346536) - [Mountain home near Aspen, built for monks, sold to Palantir CEO for $120M](https://coloradosun.com/2025/12/19/monastery-sells-palantir-ceo/)
 * [2025-12-21, 17:35:44](https://news.ycombinator.com/item?id=46346510) - [Waymo suspends service in San Francisco as robotaxis stall during blackout](https://techcrunch.com/2025/12/21/waymo-suspends-service-in-san-francisco-as-robotaxis-stall-during-blackout/)
 * [2025-12-21, 16:30:09](https://news.ycombinator.com/item?id=46345975) - [ELF Crimes: Program Interpreter Fun](https://nytpu.com/gemlog/2025-12-21)
@@ -12,6 +14,7 @@
 * [2025-12-21, 16:04:05](https://news.ycombinator.com/item?id=46345745) - [Show HN: WalletWallet – create Apple passes from anything](https://walletwallet.alen.ro/)
 * [2025-12-21, 15:57:22](https://news.ycombinator.com/item?id=46345692) - [RAG accuracy jumped from 10% to 60% when I added outcome scoring](https://roampal.ai/blog-ai-learns.html)
 * [2025-12-21, 15:29:31](https://news.ycombinator.com/item?id=46345523) - [E.W.Dijkstra Archive](https://www.cs.utexas.edu/~EWD/welcome.html)
+* [2025-12-21, 15:27:36](https://news.ycombinator.com/item?id=46345506) - [CO2 Batteries That Store Grid Energy Take Off Globally](https://spectrum.ieee.org/co2-battery-energy-storage)
 * [2025-12-21, 15:19:41](https://news.ycombinator.com/item?id=46345444) - [ARIN Public Incident Report – 4.10 Misissuance Error](https://www.arin.net/announcements/20251212/)
 * [2025-12-21, 15:07:18](https://news.ycombinator.com/item?id=46345341) - [Reasons Not to Become Famous (2020)](https://tim.blog/2020/02/02/reasons-to-not-become-famous/)
 * [2025-12-21, 15:06:46](https://news.ycombinator.com/item?id=46345333) - [Structured Outputs Create False Confidence](https://boundaryml.com/blog/structured-outputs-create-false-confidence)
