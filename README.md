@@ -28,7 +28,7 @@
 * [2025-12-20, 21:00:05](https://news.ycombinator.com/item?id=46339600) - [Show HN: Jmail – Google Suite for Epstein files](https://www.jmail.world)
 * [2025-12-18, 06:19:32](https://news.ycombinator.com/item?id=46309463) - [FWS – pip-installable embedded process supervisor with PTY/pipe/dtach back ends](https://news.ycombinator.com/item?id=46309463)
 * [2025-12-16, 21:23:18](https://news.ycombinator.com/item?id=46294694) - [I Program on the Subway](https://www.scd31.com/posts/programming-on-the-subway)
-* [2025-12-16, 10:51:30](https://news.ycombinator.com/item?id=46287067) - [What I learned about deploying AV1 from two deployers](https://streaminglearningcenter.com/articles/what-i-learned-about-deploying-av1-from-two-deployers.html)
+* [2025-12-16, 11:19:29](https://news.ycombinator.com/item?id=46287253) - [I'm Just Having Fun](https://jyn.dev/i-m-just-having-fun/)
 * [2025-12-16, 06:26:01](https://news.ycombinator.com/item?id=46285424) - [Show HN: Autograd.c – a tiny ML framework built from scratch](https://github.com/sueszli/autograd.c)
 
 ## [Archives](archives/index.md)
