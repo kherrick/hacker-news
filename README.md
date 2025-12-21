@@ -21,7 +21,6 @@
 * [2025-12-20, 13:39:47](https://news.ycombinator.com/item?id=46336104) - [Show HN: HN Wrapped 2025 - an LLM reviews your year on HN](https://hn-wrapped.kadoa.com?year=2025)
 * [2025-12-20, 13:20:57](https://news.ycombinator.com/item?id=46335994) - [Approaching 50 Years of String Theory](https://www.math.columbia.edu/~woit/wordpress/?p=15401)
 * [2025-12-20, 08:09:17](https://news.ycombinator.com/item?id=46334424) - [Skills Officially Comes to Codex](https://developers.openai.com/codex/skills/)
-* [2025-12-20, 07:39:26](https://news.ycombinator.com/item?id=46334299) - [NTP at NIST Boulder Has Lost Power](https://lists.nanog.org/archives/list/nanog@lists.nanog.org/message/ACADD3NKOG2QRWZ56OSNNG7UIEKKTZXL/)
 * [2025-12-17, 17:50:45](https://news.ycombinator.com/item?id=46302928) - [Perfecting Steve Baer's Triple Dome](https://vorth.github.io/vzome-sharing/2024/02/18/baer-dome-from-H4-1001-09-13-04.html)
 * [2025-12-17, 13:18:04](https://news.ycombinator.com/item?id=46301631) - [Show HN: ZXC – Asymmetric, +40% decode vs. LZ4 on ARM (C, BSD-3, Fuzzed)](https://github.com/hellobertrand/zxc)
 * [2025-12-17, 12:08:21](https://news.ycombinator.com/item?id=46301059) - [Log level 'error' should mean that something needs to be fixed](https://utcc.utoronto.ca/~cks/space/blog/programming/ErrorsShouldRequireFixing)
@@ -29,6 +28,7 @@
 * [2025-12-16, 12:48:12](https://news.ycombinator.com/item?id=46287848) - [Gemini 3 Pro vs. 2.5 Pro in Pokemon Crystal](https://blog.jcz.dev/gemini-3-pro-vs-25-pro-in-pokemon-crystal)
 * [2025-12-16, 09:33:22](https://news.ycombinator.com/item?id=46286533) - [Chomsky and the Two Cultures of Statistical Learning](https://norvig.com/chomsky.html)
 * [2025-12-15, 21:01:54](https://news.ycombinator.com/item?id=46280593) - [From devastation to wonder as Kangaroo Island bushfires lead to cave discoveries](https://www.abc.net.au/news/2025-12-13/more-than-150-caves-discovered-in-ki-after-devastating-bushfires/106095942)
+* [2025-12-15, 19:58:28](https://news.ycombinator.com/item?id=46279645) - [Origins of the TPC and the first 10 years](https://www.tpc.org/information/about/history5.asp)
 * [2025-12-15, 13:30:45](https://news.ycombinator.com/item?id=46274272) - [Italian bears living near villages have evolved to be smaller and less agressive](https://phys.org/news/2025-12-italian-villages-evolved-smaller-aggressive.html)
 
 ## [Archives](archives/index.md)
