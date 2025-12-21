@@ -34,6 +34,7 @@
 * [2025-12-17, 18:15:38](https://news.ycombinator.com/item?id=46303277) - [How SQLite Is Tested](https://sqlite.org/testing.html)
 * [2025-12-17, 18:14:33](https://news.ycombinator.com/item?id=46303260) - [FCC chair suggests agency isn't independent, word cut from mission statement](https://www.axios.com/2025/12/17/brendan-carr-fcc-independent-senate-testimony-website)
 * [2025-12-17, 18:02:12](https://news.ycombinator.com/item?id=46303090) - [Why outcome-billing makes sense for AI Agents](https://www.valmi.io/blog/an-imperative-for-ai-agents-outcome-billing-with-valmi/)
+* [2025-12-17, 17:50:45](https://news.ycombinator.com/item?id=46302928) - [Perfecting Steve Baer's Triple Dome](https://vorth.github.io/vzome-sharing/2024/02/18/baer-dome-from-H4-1001-09-13-04.html)
 * [2025-12-17, 17:48:21](https://news.ycombinator.com/item?id=46302892) - [How, and why, I invented OnlyFans. In 2004](https://themosthandsomemanintheworld.com/how-and-why-i-invented-onlyfans-in-2004/)
 * [2025-12-17, 17:30:02](https://news.ycombinator.com/item?id=46302621) - [Linux Kernel Rust Code Sees Its First CVE Vulnerability](https://www.phoronix.com/news/First-Linux-Rust-CVE)
 * [2025-12-17, 17:27:48](https://news.ycombinator.com/item?id=46302582) - [Put SSH keys in .git to make repos USB-portable](https://dansjots.github.io/posts/per-repo-ssh-key/)
