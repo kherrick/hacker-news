@@ -25,10 +25,10 @@
 * [2025-12-20, 21:26:14](https://news.ycombinator.com/item?id=46339777) - [Claude in Chrome](https://claude.com/chrome)
 * [2025-12-20, 21:00:05](https://news.ycombinator.com/item?id=46339600) - [Show HN: Jmail – Google Suite for Epstein files](https://www.jmail.world)
 * [2025-12-20, 19:56:47](https://news.ycombinator.com/item?id=46339031) - [Ireland’s Diarmuid Early wins world Microsoft Excel title](https://www.bbc.com/news/articles/cj4qzgvxxgvo)
-* [2025-12-20, 18:28:41](https://news.ycombinator.com/item?id=46338339) - [Backing up Spotify](https://annas-archive.li/blog/backing-up-spotify.html)
 * [2025-12-18, 06:19:32](https://news.ycombinator.com/item?id=46309463) - [FWS – pip-installable embedded process supervisor with PTY/pipe/dtach back ends](https://news.ycombinator.com/item?id=46309463)
 * [2025-12-17, 11:54:26](https://news.ycombinator.com/item?id=46300957) - [Decompiling the New C# 14 field Keyword](https://blog.ivankahl.com/decompiling-the-new-csharp-14-field-keyword/)
 * [2025-12-16, 21:23:18](https://news.ycombinator.com/item?id=46294694) - [I Program on the Subway](https://www.scd31.com/posts/programming-on-the-subway)
+* [2025-12-16, 14:32:48](https://news.ycombinator.com/item?id=46288966) - [Show HN: AI-Augmented Memory for Groups](https://www.largemem.com/)
 * [2025-12-16, 10:51:30](https://news.ycombinator.com/item?id=46287067) - [What I Learned About Deploying AV1 from Two Deployers](https://streaminglearningcenter.com/articles/what-i-learned-about-deploying-av1-from-two-deployers.html)
 
 ## [Archives](archives/index.md)
