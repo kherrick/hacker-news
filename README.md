@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-12-21, 16:30:09](https://news.ycombinator.com/item?id=46345975) - [ELF Crimes: Program Interpreter Fun](https://nytpu.com/gemlog/2025-12-21)
+* [2025-12-21, 16:13:59](https://news.ycombinator.com/item?id=46345835) - [DNS4EU Blocks Blog.fefe.de](https://news.ycombinator.com/item?id=46345835)
 * [2025-12-21, 16:04:05](https://news.ycombinator.com/item?id=46345745) - [Show HN: WalletWallet – create Apple passes from anything](https://walletwallet.alen.ro/)
 * [2025-12-21, 15:29:31](https://news.ycombinator.com/item?id=46345523) - [E.W.Dijkstra Archive](https://www.cs.utexas.edu/~EWD/welcome.html)
 * [2025-12-21, 15:19:41](https://news.ycombinator.com/item?id=46345444) - [ARIN Public Incident Report – 4.10 Misissuance Error](https://www.arin.net/announcements/20251212/)
@@ -17,7 +18,6 @@
 * [2025-12-21, 05:42:17](https://news.ycombinator.com/item?id=46342528) - [Isengard in Oxford](https://lareviewofbooks.org/article/isengard-in-oxford/)
 * [2025-12-21, 05:21:42](https://news.ycombinator.com/item?id=46342447) - [Indoor tanning makes youthful skin much older on a genetic level](https://www.ucsf.edu/news/2025/12/431206/indoor-tanning-makes-youthful-skin-much-older-genetic-level)
 * [2025-12-21, 04:06:36](https://news.ycombinator.com/item?id=46342166) - [Measuring AI Ability to Complete Long Tasks](https://metr.org/blog/2025-03-19-measuring-ai-ability-to-complete-long-tasks/)
-* [2025-12-21, 03:18:14](https://news.ycombinator.com/item?id=46341926) - [William Golding's Island of Savagery](https://www.historytoday.com/archive/portrait-author-historian/william-goldings-island-savagery)
 * [2025-12-20, 21:26:14](https://news.ycombinator.com/item?id=46339777) - [Claude in Chrome](https://claude.com/chrome)
 * [2025-12-20, 21:00:05](https://news.ycombinator.com/item?id=46339600) - [Show HN: Jmail – Google Suite for Epstein files](https://www.jmail.world)
 * [2025-12-20, 19:56:47](https://news.ycombinator.com/item?id=46339031) - [Ireland’s Diarmuid Early wins world Microsoft Excel title](https://www.bbc.com/news/articles/cj4qzgvxxgvo)
@@ -28,8 +28,8 @@
 * [2025-12-17, 12:08:21](https://news.ycombinator.com/item?id=46301059) - [Log level 'error' should mean that something needs to be fixed](https://utcc.utoronto.ca/~cks/space/blog/programming/ErrorsShouldRequireFixing)
 * [2025-12-17, 11:54:26](https://news.ycombinator.com/item?id=46300957) - [Decompiling the New C# 14 field Keyword](https://blog.ivankahl.com/decompiling-the-new-csharp-14-field-keyword/)
 * [2025-12-16, 23:08:29](https://news.ycombinator.com/item?id=46295982) - [The uncertain origins of aspirin](https://www.asimov.press/p/aspirin)
+* [2025-12-16, 21:23:18](https://news.ycombinator.com/item?id=46294694) - [I Program on the Subway](https://www.scd31.com/posts/programming-on-the-subway)
 * [2025-12-16, 10:51:30](https://news.ycombinator.com/item?id=46287067) - [What I Learned About Deploying AV1 from Two Deployers](https://streaminglearningcenter.com/articles/what-i-learned-about-deploying-av1-from-two-deployers.html)
-* [2025-12-16, 05:27:44](https://news.ycombinator.com/item?id=46285107) - [Modalz Modalz Modalz (2018)](https://modalzmodalzmodalz.com/)
 
 ## [Archives](archives/index.md)
 
