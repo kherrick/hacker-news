@@ -19,7 +19,7 @@
 * [2025-12-21, 15:19:41](https://news.ycombinator.com/item?id=46345444) - [ARIN Public Incident Report – 4.10 Misissuance Error](https://www.arin.net/announcements/20251212/)
 * [2025-12-21, 15:06:46](https://news.ycombinator.com/item?id=46345333) - [Structured outputs create false confidence](https://boundaryml.com/blog/structured-outputs-create-false-confidence)
 * [2025-12-21, 14:35:29](https://news.ycombinator.com/item?id=46345125) - [Three ways to solve problems](https://andreasfragner.com/writing/three-ways-to-solve-problems)
-* [2025-12-21, 12:57:44](https://news.ycombinator.com/item?id=46344514) - [Coarse Is Better](https://borretti.me/article/coarse-is-better)
+* [2025-12-21, 12:57:44](https://news.ycombinator.com/item?id=46344514) - [Coarse is better](https://borretti.me/article/coarse-is-better)
 * [2025-12-21, 12:33:11](https://news.ycombinator.com/item?id=46344381) - [Show HN: Shittp – Volatile Dotfiles over SSH](https://github.com/FOBshippingpoint/shittp)
 * [2025-12-21, 07:06:48](https://news.ycombinator.com/item?id=46342859) - [Ruby website redesigned](https://www.ruby-lang.org/en/)
 * [2025-12-21, 05:21:42](https://news.ycombinator.com/item?id=46342447) - [Indoor tanning makes youthful skin much older on a genetic level](https://www.ucsf.edu/news/2025/12/431206/indoor-tanning-makes-youthful-skin-much-older-genetic-level)
