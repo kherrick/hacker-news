@@ -92,6 +92,7 @@
 * [2025-12-16, 08:13:01](https://news.ycombinator.com/item?id=46286030) - [The biggest heat pumps in the world](https://www.bbc.com/news/articles/c17p44w87rno)
 * [2025-12-16, 06:47:09](https://news.ycombinator.com/item?id=46285535) - [A linear-time alternative for Dimensionality Reduction and fast visualisation](https://medium.com/@roman.f/a-linear-time-alternative-to-t-sne-for-dimensionality-reduction-and-fast-visualisation-5cd1a7219d6f)
 * [2025-12-16, 06:29:02](https://news.ycombinator.com/item?id=46285448) - [O'saasy License Agreement](https://osaasy.dev/)
+* [2025-12-16, 06:26:01](https://news.ycombinator.com/item?id=46285424) - [Show HN: Autograd.c – a tiny ML framework built from scratch](https://github.com/sueszli/autograd.c)
 * [2025-12-16, 06:17:37](https://news.ycombinator.com/item?id=46285376) - [Children with cancer scammed out of millions fundraised for their treatment](https://www.bbc.com/news/articles/ckgz318y8elo)
 * [2025-12-16, 06:06:43](https://news.ycombinator.com/item?id=46285319) - [Bonsai: A Voxel Engine, from scratch](https://github.com/scallyw4g/bonsai)
 * [2025-12-16, 05:46:20](https://news.ycombinator.com/item?id=46285208) - [How to Write a 21st Century Proof (2011) [pdf]](https://lamport.azurewebsites.net/pubs/proof.pdf)
