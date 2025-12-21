@@ -35,7 +35,7 @@
       "https://news.ycombinator.com/item?id=46346958"
     ],
     [
-      "You're Not Burnt Out. You're Existentially Starving",
+      "You're not burnt out. You're existentially starving",
       "https://neilthanedar.com/youre-not-burnt-out-youre-existentially-starving/"
     ]
   ],
@@ -57,16 +57,6 @@
     [
       "Get an AI code review in 10 seconds",
       "https://oldmanrahul.com/2025/12/19/ai-code-review-trick/"
-    ]
-  ],
-  [
-    [
-      "2025-12-21, 16:57:57",
-      "https://news.ycombinator.com/item?id=46346214"
-    ],
-    [
-      "Autoland Saves King Air, Everyone Reported Safe",
-      "https://avbrief.com/autoland-saves-king-air-everyone-reported-safe/"
     ]
   ],
   [
@@ -111,6 +101,16 @@
   ],
   [
     [
+      "2025-12-21, 15:27:36",
+      "https://news.ycombinator.com/item?id=46345506"
+    ],
+    [
+      "CO2 batteries that store grid energy take off globally",
+      "https://spectrum.ieee.org/co2-battery-energy-storage"
+    ]
+  ],
+  [
+    [
       "2025-12-21, 15:19:41",
       "https://news.ycombinator.com/item?id=46345444"
     ],
@@ -121,22 +121,22 @@
   ],
   [
     [
-      "2025-12-21, 15:06:46",
-      "https://news.ycombinator.com/item?id=46345333"
+      "2025-12-21, 15:07:18",
+      "https://news.ycombinator.com/item?id=46345341"
     ],
     [
-      "Structured Outputs Create False Confidence",
-      "https://boundaryml.com/blog/structured-outputs-create-false-confidence"
+      "Reasons not to become famous (2020)",
+      "https://tim.blog/2020/02/02/reasons-to-not-become-famous/"
     ]
   ],
   [
     [
-      "2025-12-21, 15:06:05",
-      "https://news.ycombinator.com/item?id=46345330"
+      "2025-12-21, 15:06:46",
+      "https://news.ycombinator.com/item?id=46345333"
     ],
     [
-      "Show HN: HN Sentiment API – I ranked tech CEOs by how much you hate them",
-      "https://docs.hnpulse.com"
+      "Structured outputs create false confidence",
+      "https://boundaryml.com/blog/structured-outputs-create-false-confidence"
     ]
   ],
   [
@@ -181,12 +181,12 @@
   ],
   [
     [
-      "2025-12-21, 12:15:59",
-      "https://news.ycombinator.com/item?id=46344270"
+      "2025-12-21, 11:21:01",
+      "https://news.ycombinator.com/item?id=46344022"
     ],
     [
-      "Show HN: The Official National Train Map Sucked, So I Made My Own",
-      "https://www.bdzmap.com/"
+      "New mathematical framework reshapes debate over simulation hypothesis",
+      "https://www.santafe.edu/news-center/news/new-mathematical-framework-reshapes-debate-over-simulation-hypothesis"
     ]
   ],
   [
@@ -207,6 +207,16 @@
     [
       "Indoor tanning makes youthful skin much older on a genetic level",
       "https://www.ucsf.edu/news/2025/12/431206/indoor-tanning-makes-youthful-skin-much-older-genetic-level"
+    ]
+  ],
+  [
+    [
+      "2025-12-21, 05:12:03",
+      "https://news.ycombinator.com/item?id=46342412"
+    ],
+    [
+      "Waymo halts service during S.F. blackout after causing traffic jams",
+      "https://missionlocal.org/2025/12/sf-waymo-halts-service-blackout/"
     ]
   ],
   [
@@ -241,16 +251,6 @@
   ],
   [
     [
-      "2025-12-20, 19:56:47",
-      "https://news.ycombinator.com/item?id=46339031"
-    ],
-    [
-      "Ireland’s Diarmuid Early wins world Microsoft Excel title",
-      "https://www.bbc.com/news/articles/cj4qzgvxxgvo"
-    ]
-  ],
-  [
-    [
       "2025-12-18, 06:19:32",
       "https://news.ycombinator.com/item?id=46309463"
     ],
@@ -281,22 +281,22 @@
   ],
   [
     [
-      "2025-12-16, 14:32:48",
-      "https://news.ycombinator.com/item?id=46288966"
-    ],
-    [
-      "Show HN: AI-Augmented Memory for Groups",
-      "https://www.largemem.com/"
-    ]
-  ],
-  [
-    [
       "2025-12-16, 10:51:30",
       "https://news.ycombinator.com/item?id=46287067"
     ],
     [
       "What I learned about deploying AV1 from two deployers",
       "https://streaminglearningcenter.com/articles/what-i-learned-about-deploying-av1-from-two-deployers.html"
+    ]
+  ],
+  [
+    [
+      "2025-12-16, 06:26:01",
+      "https://news.ycombinator.com/item?id=46285424"
+    ],
+    [
+      "Show HN: Autograd.c – a tiny ML framework built from scratch",
+      "https://github.com/sueszli/autograd.c"
     ]
   ]
 ]
