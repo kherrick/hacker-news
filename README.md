@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-12-21, 11:21:01](https://news.ycombinator.com/item?id=46344022) - [New mathematical framework reshapes debate over simulation hypothesis](https://www.santafe.edu/news-center/news/new-mathematical-framework-reshapes-debate-over-simulation-hypothesis)
 * [2025-12-21, 11:09:27](https://news.ycombinator.com/item?id=46343976) - [ISBN Visualization Showing 99_959_000 books](https://annas-archive.li/isbn-visualization/)
 * [2025-12-21, 07:26:39](https://news.ycombinator.com/item?id=46342950) - [Inca Stone Masonry](https://www.earthasweknowit.com/pages/inca_construction)
 * [2025-12-21, 07:16:19](https://news.ycombinator.com/item?id=46342902) - [Clair Obscur having its Indie Game Game Of The Year award stripped due to AI use](https://www.thegamer.com/clair-obscur-expedition-33-indie-game-awards-goty-stripped-ai-use/)
@@ -28,7 +29,6 @@
 * [2025-12-16, 09:33:22](https://news.ycombinator.com/item?id=46286533) - [Chomsky and the Two Cultures of Statistical Learning (2011)](https://norvig.com/chomsky.html)
 * [2025-12-16, 01:54:50](https://news.ycombinator.com/item?id=46283776) - [Getting serial port output on modern Macs](https://gist.github.com/dhinakg/3fcd9ad43c82c96964b4f64eb05e6a5e)
 * [2025-12-15, 21:01:54](https://news.ycombinator.com/item?id=46280593) - [From devastation to wonder as Kangaroo Island bushfires lead to cave discoveries](https://www.abc.net.au/news/2025-12-13/more-than-150-caves-discovered-in-ki-after-devastating-bushfires/106095942)
-* [2025-12-15, 20:04:24](https://news.ycombinator.com/item?id=46279756) - [A visual editor for the Cursor Browser](https://cursor.com/blog/browser-visual-editor)
 * [2025-12-15, 13:30:45](https://news.ycombinator.com/item?id=46274272) - [Italian bears living near villages have evolved to be smaller and less agressive](https://phys.org/news/2025-12-italian-villages-evolved-smaller-aggressive.html)
 
 ## [Archives](archives/index.md)

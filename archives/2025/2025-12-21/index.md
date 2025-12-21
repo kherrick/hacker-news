@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-12-21](index.md)
 
+* [2025-12-21, 11:21:01](https://news.ycombinator.com/item?id=46344022) - [New mathematical framework reshapes debate over simulation hypothesis](https://www.santafe.edu/news-center/news/new-mathematical-framework-reshapes-debate-over-simulation-hypothesis)
 * [2025-12-21, 11:09:27](https://news.ycombinator.com/item?id=46343976) - [ISBN Visualization Showing 99_959_000 books](https://annas-archive.li/isbn-visualization/)
 * [2025-12-21, 07:26:39](https://news.ycombinator.com/item?id=46342950) - [Inca Stone Masonry](https://www.earthasweknowit.com/pages/inca_construction)
 * [2025-12-21, 07:16:19](https://news.ycombinator.com/item?id=46342902) - [Clair Obscur has 'Game of the Year\" title stripped away over AI use](https://www.thegamer.com/clair-obscur-expedition-33-indie-game-awards-goty-stripped-ai-use/)
