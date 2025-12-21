@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-12-21, 01:12:31](https://news.ycombinator.com/item?id=46341305) - [Flock and Cyble Inc. Weaponize \"Cybercrime\" Takedowns to Silence Critics](https://haveibeenflocked.com/news/cyble-downtime)
-* [2025-12-20, 22:12:22](https://news.ycombinator.com/item?id=46340117) - [More databases should be single-threaded](https://blog.konsti.xyz/p/8c8a399f-8cfe-47dd-9278-9527105d07dc/)
 * [2025-12-20, 21:26:14](https://news.ycombinator.com/item?id=46339777) - [Claude in Chrome](https://claude.com/chrome)
 * [2025-12-20, 21:00:05](https://news.ycombinator.com/item?id=46339600) - [Show HN: Jmail – Google Suite for Epstein files](https://www.jmail.world)
 * [2025-12-20, 20:50:43](https://news.ycombinator.com/item?id=46339537) - [MIRA – An open-source persistent AI entity with memory](https://github.com/taylorsatula/mira-OSS)
@@ -24,11 +23,12 @@
 * [2025-12-20, 06:21:05](https://news.ycombinator.com/item?id=46334025) - [Privacy doesn't mean anything anymore, anonymity does](https://servury.com/blog/privacy-is-marketing-anonymity-is-architecture/)
 * [2025-12-17, 17:50:45](https://news.ycombinator.com/item?id=46302928) - [Perfecting Steve Baer's Triple Dome](https://vorth.github.io/vzome-sharing/2024/02/18/baer-dome-from-H4-1001-09-13-04.html)
 * [2025-12-17, 12:08:21](https://news.ycombinator.com/item?id=46301059) - [Log level 'error' should mean that something needs to be fixed](https://utcc.utoronto.ca/~cks/space/blog/programming/ErrorsShouldRequireFixing)
-* [2025-12-16, 17:32:36](https://news.ycombinator.com/item?id=46291412) - [X-59 3D Printing](https://www.nasa.gov/stem-content/x-59-3d-printing/)
 * [2025-12-16, 15:39:23](https://news.ycombinator.com/item?id=46289884) - [Biscuit is a specialized PostgreSQL index for fast pattern matching LIKE queries](https://github.com/CrystallineCore/Biscuit)
 * [2025-12-16, 12:48:12](https://news.ycombinator.com/item?id=46287848) - [Gemini 3 Pro vs. 2.5 Pro in Pokemon Crystal](https://blog.jcz.dev/gemini-3-pro-vs-25-pro-in-pokemon-crystal)
+* [2025-12-16, 12:17:08](https://news.ycombinator.com/item?id=46287626) - [Detailed balance in large language model-driven agents](https://arxiv.org/abs/2512.10047)
 * [2025-12-16, 09:33:22](https://news.ycombinator.com/item?id=46286533) - [Chomsky and the Two Cultures of Statistical Learning](https://norvig.com/chomsky.html)
 * [2025-12-16, 05:46:20](https://news.ycombinator.com/item?id=46285208) - [How to Write a 21st Century Proof (2011) [pdf]](https://lamport.azurewebsites.net/pubs/proof.pdf)
+* [2025-12-15, 21:01:54](https://news.ycombinator.com/item?id=46280593) - [From devastation to wonder as Kangaroo Island bushfires lead to cave discoveries](https://www.abc.net.au/news/2025-12-13/more-than-150-caves-discovered-in-ki-after-devastating-bushfires/106095942)
 * [2025-12-15, 13:30:45](https://news.ycombinator.com/item?id=46274272) - [Italian bears living near villages have evolved to be smaller and less agressive](https://phys.org/news/2025-12-italian-villages-evolved-smaller-aggressive.html)
 
 ## [Archives](archives/index.md)

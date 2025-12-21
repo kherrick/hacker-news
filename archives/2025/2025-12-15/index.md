@@ -16,6 +16,7 @@
 * [2025-12-15, 21:37:09](https://news.ycombinator.com/item?id=46281060) - [Fix HDMI-CEC weirdness with a Raspberry Pi and a $7 cable](https://johnlian.net/posts/hdmi-cec/)
 * [2025-12-15, 21:24:06](https://news.ycombinator.com/item?id=46280887) - [Secret Documents Show Pepsi and Walmart Colluded to Raise Food Prices](https://www.thebignewsletter.com/p/secret-documents-show-pepsi-and-walmart)
 * [2025-12-15, 21:15:53](https://news.ycombinator.com/item?id=46280775) - [Canada's Carney called out for 'utilizing' British spelling](https://www.bbc.com/news/articles/cj69d89l8l5o)
+* [2025-12-15, 21:01:54](https://news.ycombinator.com/item?id=46280593) - [From devastation to wonder as Kangaroo Island bushfires lead to cave discoveries](https://www.abc.net.au/news/2025-12-13/more-than-150-caves-discovered-in-ki-after-devastating-bushfires/106095942)
 * [2025-12-15, 20:52:35](https://news.ycombinator.com/item?id=46280465) - [A Kernel Bug Froze My Machine: Debugging an Async-Profiler Deadlock](https://questdb.com/blog/async-profiler-kernel-bug/)
 * [2025-12-15, 20:36:49](https://news.ycombinator.com/item?id=46280248) - [I used Claude Code to write a piano web app](https://jcurcioconsulting.com/posts/how-i-used-claude-code-to-write-a-piano-web-app)
 * [2025-12-15, 20:25:18](https://news.ycombinator.com/item?id=46280080) - [1/4 of US-Trained Scientists Eventually Leave. Is the US Giving Away Its Edge?](https://arxiv.org/abs/2512.11146)
