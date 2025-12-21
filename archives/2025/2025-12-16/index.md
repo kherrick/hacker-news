@@ -68,6 +68,7 @@
 * [2025-12-16, 13:20:51](https://news.ycombinator.com/item?id=46288185) - [You're overspending because you lack values](https://www.sherryning.com/p/youre-overspending-because-you-lack-values)
 * [2025-12-16, 13:07:14](https://news.ycombinator.com/item?id=46288024) - [Sega Channel: VGHF Recovers over 100 Sega Channel ROMs (and More)](https://gamehistory.org/segachannel/)
 * [2025-12-16, 12:48:12](https://news.ycombinator.com/item?id=46287848) - [Gemini 3 Pro vs. 2.5 Pro in Pokemon Crystal](https://blog.jcz.dev/gemini-3-pro-vs-25-pro-in-pokemon-crystal)
+* [2025-12-16, 12:29:24](https://news.ycombinator.com/item?id=46287722) - [Show HN: Open-source Markdown research tool written in Rust – Ekphos](https://github.com/hanebox/ekphos)
 * [2025-12-16, 12:22:40](https://news.ycombinator.com/item?id=46287666) - [All about Parameters and Widgets in Databricks Workflows](https://medium.com/dev-genius/all-about-parameters-in-databricks-workflows-28ae13ebb212)
 * [2025-12-16, 12:18:10](https://news.ycombinator.com/item?id=46287632) - [A proof of concept of a semistable C++ vector container](https://github.com/joaquintides/semistable_vector)
 * [2025-12-16, 12:17:08](https://news.ycombinator.com/item?id=46287626) - [Detailed balance in large language model-driven agents](https://arxiv.org/abs/2512.10047)

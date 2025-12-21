@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-12-21](index.md)
 
 * [2025-12-21, 07:26:39](https://news.ycombinator.com/item?id=46342950) - [Inca Stone Masonry](https://www.earthasweknowit.com/pages/inca_construction)
+* [2025-12-21, 07:16:19](https://news.ycombinator.com/item?id=46342902) - [Clair Obscur has 'Game of the Year\" title stripped away over AI use](https://www.thegamer.com/clair-obscur-expedition-33-indie-game-awards-goty-stripped-ai-use/)
 * [2025-12-21, 07:06:48](https://news.ycombinator.com/item?id=46342859) - [Ruby's Website Got an Overhaul](https://www.ruby-lang.org/en/)
 * [2025-12-21, 05:42:17](https://news.ycombinator.com/item?id=46342528) - [Isengard in Oxford](https://lareviewofbooks.org/article/isengard-in-oxford/)
 * [2025-12-21, 05:21:42](https://news.ycombinator.com/item?id=46342447) - [Indoor Tanning Makes Youthful Skin Much Older on a Genetic Level](https://www.ucsf.edu/news/2025/12/431206/indoor-tanning-makes-youthful-skin-much-older-genetic-level)
