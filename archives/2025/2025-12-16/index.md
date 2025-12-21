@@ -6,6 +6,7 @@
 
 * [2025-12-16, 23:28:39](https://news.ycombinator.com/item?id=46296181) - [Americans overestimate how many social media users post harmful content](https://academic.oup.com/pnasnexus/article/4/12/pgaf310/8377954?login=false)
 * [2025-12-16, 23:27:10](https://news.ycombinator.com/item?id=46296172) - [More than 100 rally against data centers at Michigan Capitol](https://www.lansingstatejournal.com/story/news/local/2025/12/16/lansing-state-capitol-data-centers-rally-michigan/87792001007/)
+* [2025-12-16, 23:08:29](https://news.ycombinator.com/item?id=46295982) - [The Uncertain Origins of Aspirin](https://www.asimov.press/p/aspirin)
 * [2025-12-16, 22:50:59](https://news.ycombinator.com/item?id=46295792) - [Dafny: Verification-Aware Programming Language](https://dafny.org/)
 * [2025-12-16, 22:48:56](https://news.ycombinator.com/item?id=46295771) - [I Ported JustHTML from Python to JavaScript with Codex CLI and GPT-5.2 in 4.5h](https://simonwillison.net/2025/Dec/15/porting-justhtml/)
 * [2025-12-16, 22:09:53](https://news.ycombinator.com/item?id=46295295) - [TRELLIS.2: state-of-the-art large 3D generative model (4B)](https://github.com/microsoft/TRELLIS.2)
