@@ -13,6 +13,7 @@
 * [2025-12-21, 17:38:48](https://news.ycombinator.com/item?id=46346536) - [Mountain home near Aspen, built for monks, sold to Palantir CEO for $120M](https://coloradosun.com/2025/12/19/monastery-sells-palantir-ceo/)
 * [2025-12-21, 17:35:44](https://news.ycombinator.com/item?id=46346510) - [Waymo suspends service in San Francisco as robotaxis stall during blackout](https://techcrunch.com/2025/12/21/waymo-suspends-service-in-san-francisco-as-robotaxis-stall-during-blackout/)
 * [2025-12-21, 17:21:05](https://news.ycombinator.com/item?id=46346391) - [Get an AI code review in 10 seconds](https://oldmanrahul.com/2025/12/19/ai-code-review-trick/)
+* [2025-12-21, 16:57:57](https://news.ycombinator.com/item?id=46346214) - [Autoland Saves King Air, Everyone Reported Safe](https://avbrief.com/autoland-saves-king-air-everyone-reported-safe/)
 * [2025-12-21, 16:30:09](https://news.ycombinator.com/item?id=46345975) - [ELF Crimes: Program Interpreter Fun](https://nytpu.com/gemlog/2025-12-21)
 * [2025-12-21, 16:21:04](https://news.ycombinator.com/item?id=46345897) - [Show HN: Books mentioned on Hacker News in 2025](https://hackernews-readings-613604506318.us-west1.run.app)
 * [2025-12-21, 16:13:59](https://news.ycombinator.com/item?id=46345835) - [DNS4EU Blocks Blog.fefe.de](https://news.ycombinator.com/item?id=46345835)
