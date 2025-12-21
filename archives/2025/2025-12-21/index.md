@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-12-21](index.md)
 
+* [2025-12-21, 05:42:17](https://news.ycombinator.com/item?id=46342528) - [Isengard in Oxford](https://lareviewofbooks.org/article/isengard-in-oxford/)
 * [2025-12-21, 05:21:42](https://news.ycombinator.com/item?id=46342447) - [Indoor Tanning Makes Youthful Skin Much Older on a Genetic Level](https://www.ucsf.edu/news/2025/12/431206/indoor-tanning-makes-youthful-skin-much-older-genetic-level)
 * [2025-12-21, 05:12:03](https://news.ycombinator.com/item?id=46342412) - [Waymo halts service during S.F. blackout after causing traffic jams](https://missionlocal.org/2025/12/sf-waymo-halts-service-blackout/)
 * [2025-12-21, 04:06:36](https://news.ycombinator.com/item?id=46342166) - [Measuring AI Ability to Complete Long Tasks: Opus 4.5 has 50% horizon of 4h49M](https://metr.org/blog/2025-03-19-measuring-ai-ability-to-complete-long-tasks/)
