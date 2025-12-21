@@ -21,7 +21,6 @@
 * [2025-12-20, 21:00:05](https://news.ycombinator.com/item?id=46339600) - [Show HN: Jmail – Google Suite for Epstein files](https://www.jmail.world)
 * [2025-12-20, 19:56:47](https://news.ycombinator.com/item?id=46339031) - [Ireland’s Diarmuid Early wins world Microsoft Excel title](https://www.bbc.com/news/articles/cj4qzgvxxgvo)
 * [2025-12-20, 18:28:41](https://news.ycombinator.com/item?id=46338339) - [Backing up Spotify](https://annas-archive.li/blog/backing-up-spotify.html)
-* [2025-12-20, 17:49:18](https://news.ycombinator.com/item?id=46338016) - [Big GPUs don't need big PCs](https://www.jeffgeerling.com/blog/2025/big-gpus-dont-need-big-pcs)
 * [2025-12-20, 17:45:48](https://news.ycombinator.com/item?id=46337984) - [OpenSCAD is kinda neat](https://nuxx.net/blog/2025/12/20/openscad-is-kinda-neat/)
 * [2025-12-20, 16:45:48](https://news.ycombinator.com/item?id=46337438) - [Pure Silicon Demo Coding: No CPU, No Memory, Just 4k Gates](https://www.a1k0n.net/2025/12/19/tiny-tapeout-demo.html)
 * [2025-12-20, 15:43:15](https://news.ycombinator.com/item?id=46336947) - [Go ahead, self-host Postgres](https://pierce.dev/notes/go-ahead-self-host-postgres#user-content-fn-1)
@@ -30,6 +29,7 @@
 * [2025-12-16, 23:08:29](https://news.ycombinator.com/item?id=46295982) - [The uncertain origins of aspirin](https://www.asimov.press/p/aspirin)
 * [2025-12-16, 21:23:18](https://news.ycombinator.com/item?id=46294694) - [I Program on the Subway](https://www.scd31.com/posts/programming-on-the-subway)
 * [2025-12-16, 10:51:30](https://news.ycombinator.com/item?id=46287067) - [What I Learned About Deploying AV1 from Two Deployers](https://streaminglearningcenter.com/articles/what-i-learned-about-deploying-av1-from-two-deployers.html)
+* [2025-12-16, 08:36:11](https://news.ycombinator.com/item?id=46286167) - [A2UI: An Open Spec for Agent-Generated User Interfaces (Google)](https://developers.googleblog.com/introducing-a2ui-an-open-project-for-agent-driven-interfaces/)
 
 ## [Archives](archives/index.md)
 

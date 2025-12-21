@@ -87,6 +87,7 @@
 * [2025-12-16, 09:12:53](https://news.ycombinator.com/item?id=46286383) - [VS Code deactivates IntelliCode in favor of the paid Copilot](https://www.heise.de/en/news/VS-Code-deactivates-IntelliCode-in-favor-of-the-paid-Copilot-11115783.html)
 * [2025-12-16, 08:58:59](https://news.ycombinator.com/item?id=46286313) - [15,000 Free Pixel Art Icons](https://piixes.com/)
 * [2025-12-16, 08:54:58](https://news.ycombinator.com/item?id=46286292) - [Japan to revise romanization rules for first time in 70 years](https://www.japantimes.co.jp/news/2025/08/21/japan/panel-hepburn-style-romanization/)
+* [2025-12-16, 08:36:11](https://news.ycombinator.com/item?id=46286167) - [A2UI: An Open Spec for Agent-Generated User Interfaces (Google)](https://developers.googleblog.com/introducing-a2ui-an-open-project-for-agent-driven-interfaces/)
 * [2025-12-16, 08:13:01](https://news.ycombinator.com/item?id=46286030) - [The biggest heat pumps in the world](https://www.bbc.com/news/articles/c17p44w87rno)
 * [2025-12-16, 06:47:09](https://news.ycombinator.com/item?id=46285535) - [A linear-time alternative for Dimensionality Reduction and fast visualisation](https://medium.com/@roman.f/a-linear-time-alternative-to-t-sne-for-dimensionality-reduction-and-fast-visualisation-5cd1a7219d6f)
 * [2025-12-16, 06:29:02](https://news.ycombinator.com/item?id=46285448) - [O'saasy License Agreement](https://osaasy.dev/)
