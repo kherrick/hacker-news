@@ -91,6 +91,7 @@
 * [2025-12-16, 06:17:37](https://news.ycombinator.com/item?id=46285376) - [Children with cancer scammed out of millions fundraised for their treatment](https://www.bbc.com/news/articles/ckgz318y8elo)
 * [2025-12-16, 06:06:43](https://news.ycombinator.com/item?id=46285319) - [Bonsai: A Voxel Engine, from scratch](https://github.com/scallyw4g/bonsai)
 * [2025-12-16, 05:46:20](https://news.ycombinator.com/item?id=46285208) - [How to Write a 21st Century Proof (2011) [pdf]](https://lamport.azurewebsites.net/pubs/proof.pdf)
+* [2025-12-16, 05:27:44](https://news.ycombinator.com/item?id=46285107) - [Modalz Modalz Modalz (2018)](https://modalzmodalzmodalz.com/)
 * [2025-12-16, 04:49:03](https://news.ycombinator.com/item?id=46284897) - [Erdős Problem #1026](https://terrytao.wordpress.com/2025/12/08/the-story-of-erdos-problem-126/)
 * [2025-12-16, 04:06:51](https://news.ycombinator.com/item?id=46284658) - [Sharp](https://apple.github.io/ml-sharp/)
 * [2025-12-16, 03:55:00](https://news.ycombinator.com/item?id=46284595) - [Maximizing Compression of Apple II Hi-Res Images](http://deater.net/weave/vmwprod/hgr_compress/)
