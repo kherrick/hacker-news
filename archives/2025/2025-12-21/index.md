@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-12-21](index.md)
 
+* [2025-12-21, 14:35:29](https://news.ycombinator.com/item?id=46345125) - [Three Ways to Solve Problems](https://andreasfragner.com/writing/three-ways-to-solve-problems)
+* [2025-12-21, 13:53:01](https://news.ycombinator.com/item?id=46344845) - [Feds order Washington power plant to keep burning coal](https://washingtonstatestandard.com/2025/12/18/feds-order-wa-power-plant-to-keep-burning-coal-setting-up-clash-with-state/)
 * [2025-12-21, 12:57:44](https://news.ycombinator.com/item?id=46344514) - [Coarse Is Better](https://borretti.me/article/coarse-is-better)
 * [2025-12-21, 12:33:11](https://news.ycombinator.com/item?id=46344381) - [Show HN: Shittp – Volatile Dotfiles over SSH](https://github.com/FOBshippingpoint/shittp)
 * [2025-12-21, 12:15:59](https://news.ycombinator.com/item?id=46344270) - [Show HN: The Official National Train Map Sucked, So I Made My Own](https://www.bdzmap.com/)
