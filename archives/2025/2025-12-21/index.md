@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-12-21](index.md)
 
+* [2025-12-21, 19:58:11](https://news.ycombinator.com/item?id=46347846) - [Weight loss jabs: What happens when you stop taking them](https://www.bbc.com/news/articles/cn98pdpyjz5o)
 * [2025-12-21, 18:43:20](https://news.ycombinator.com/item?id=46347108) - [I can't upgrade to Windows 11, now leave me alone](https://idiallo.com/byte-size/cant-update-to-windows-11-leave-me-alone)
 * [2025-12-21, 18:39:46](https://news.ycombinator.com/item?id=46347080) - [Mullvad VPN: \"This is a Chat Control 3.0 attempt.\"](https://mastodon.online/@mullvadnet/115742530333573065)
 * [2025-12-21, 18:28:56](https://news.ycombinator.com/item?id=46346958) - [You're Not Burnt Out. You're Existentially Starving](https://neilthanedar.com/youre-not-burnt-out-youre-existentially-starving/)
@@ -22,6 +23,7 @@
 * [2025-12-21, 15:19:41](https://news.ycombinator.com/item?id=46345444) - [ARIN Public Incident Report – 4.10 Misissuance Error](https://www.arin.net/announcements/20251212/)
 * [2025-12-21, 15:07:18](https://news.ycombinator.com/item?id=46345341) - [Reasons Not to Become Famous (2020)](https://tim.blog/2020/02/02/reasons-to-not-become-famous/)
 * [2025-12-21, 15:06:46](https://news.ycombinator.com/item?id=46345333) - [Structured Outputs Create False Confidence](https://boundaryml.com/blog/structured-outputs-create-false-confidence)
+* [2025-12-21, 15:06:05](https://news.ycombinator.com/item?id=46345330) - [Show HN: HN Sentiment API – I ranked tech CEOs by how much you hate them](https://docs.hnpulse.com)
 * [2025-12-21, 14:35:29](https://news.ycombinator.com/item?id=46345125) - [Three Ways to Solve Problems](https://andreasfragner.com/writing/three-ways-to-solve-problems)
 * [2025-12-21, 14:15:24](https://news.ycombinator.com/item?id=46345000) - [Mozilla right now (Digital Painting)](https://www.davidrevoy.com/article1108/mozilla-right-now)
 * [2025-12-21, 13:53:01](https://news.ycombinator.com/item?id=46344845) - [Feds order Washington power plant to keep burning coal](https://washingtonstatestandard.com/2025/12/18/feds-order-wa-power-plant-to-keep-burning-coal-setting-up-clash-with-state/)
