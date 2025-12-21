@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-12-21, 15:57:22",
+      "https://news.ycombinator.com/item?id=46345692"
+    ],
+    [
+      "RAG accuracy jumped from 10% to 60% when I added outcome scoring",
+      "https://roampal.ai/blog-ai-learns.html"
+    ]
+  ],
+  [
+    [
       "2025-12-21, 15:29:31",
       "https://news.ycombinator.com/item?id=46345523"
     ],
@@ -237,16 +247,6 @@
     [
       "Go ahead, self-host Postgres",
       "https://pierce.dev/notes/go-ahead-self-host-postgres#user-content-fn-1"
-    ]
-  ],
-  [
-    [
-      "2025-12-20, 13:39:47",
-      "https://news.ycombinator.com/item?id=46336104"
-    ],
-    [
-      "Show HN: HN Wrapped 2025 - an LLM reviews your year on HN",
-      "https://hn-wrapped.kadoa.com?year=2025"
     ]
   ],
   [
