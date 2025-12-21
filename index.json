@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-12-21, 18:19:54",
+      "https://news.ycombinator.com/item?id=46346886"
+    ],
+    [
+      "Day laborers protest noise machines installed at Home Depot",
+      "https://www.latimes.com/california/story/2025-12-17/day-laborers-protest-noise-machines-home-depot"
+    ]
+  ],
+  [
+    [
+      "2025-12-21, 18:09:52",
+      "https://news.ycombinator.com/item?id=46346796"
+    ],
+    [
+      "Logging Sucks",
+      "https://loggingsucks.com/"
+    ]
+  ],
+  [
+    [
       "2025-12-21, 17:38:48",
       "https://news.ycombinator.com/item?id=46346536"
     ],
@@ -57,6 +77,16 @@
     [
       "E.W.Dijkstra Archive",
       "https://www.cs.utexas.edu/~EWD/welcome.html"
+    ]
+  ],
+  [
+    [
+      "2025-12-21, 15:27:36",
+      "https://news.ycombinator.com/item?id=46345506"
+    ],
+    [
+      "CO2 Batteries That Store Grid Energy Take Off Globally",
+      "https://spectrum.ieee.org/co2-battery-energy-storage"
     ]
   ],
   [
@@ -141,32 +171,12 @@
   ],
   [
     [
-      "2025-12-21, 07:26:39",
-      "https://news.ycombinator.com/item?id=46342950"
-    ],
-    [
-      "Inca Stone Masonry",
-      "https://www.earthasweknowit.com/pages/inca_construction"
-    ]
-  ],
-  [
-    [
       "2025-12-21, 07:06:48",
       "https://news.ycombinator.com/item?id=46342859"
     ],
     [
       "Ruby website redesigned",
       "https://www.ruby-lang.org/en/"
-    ]
-  ],
-  [
-    [
-      "2025-12-21, 05:42:17",
-      "https://news.ycombinator.com/item?id=46342528"
-    ],
-    [
-      "Isengard in Oxford",
-      "https://lareviewofbooks.org/article/isengard-in-oxford/"
     ]
   ],
   [
@@ -231,16 +241,6 @@
   ],
   [
     [
-      "2025-12-20, 16:45:48",
-      "https://news.ycombinator.com/item?id=46337438"
-    ],
-    [
-      "Pure Silicon Demo Coding: No CPU, No Memory, Just 4k Gates",
-      "https://www.a1k0n.net/2025/12/19/tiny-tapeout-demo.html"
-    ]
-  ],
-  [
-    [
       "2025-12-20, 15:43:15",
       "https://news.ycombinator.com/item?id=46336947"
     ],
@@ -251,12 +251,12 @@
   ],
   [
     [
-      "2025-12-17, 12:08:21",
-      "https://news.ycombinator.com/item?id=46301059"
+      "2025-12-18, 06:19:32",
+      "https://news.ycombinator.com/item?id=46309463"
     ],
     [
-      "Log level 'error' should mean that something needs to be fixed",
-      "https://utcc.utoronto.ca/~cks/space/blog/programming/ErrorsShouldRequireFixing"
+      "FWS – pip-installable embedded process supervisor with PTY/pipe/dtach back ends",
+      "https://news.ycombinator.com/item?id=46309463"
     ]
   ],
   [
