@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-12-21, 04:06:36",
+      "https://news.ycombinator.com/item?id=46342166"
+    ],
+    [
+      "Measuring AI Ability to Complete Long Tasks: Opus 4.5 has 50% horizon of 4h49M",
+      "https://metr.org/blog/2025-03-19-measuring-ai-ability-to-complete-long-tasks/"
+    ]
+  ],
+  [
+    [
+      "2025-12-21, 03:35:28",
+      "https://news.ycombinator.com/item?id=46342022"
+    ],
+    [
+      "PG&E outages in S.F. leave 130k without electricity",
+      "https://www.sfchronicle.com/sf/article/pg-e-outage-40-000-customers-without-power-21254326.php"
+    ]
+  ],
+  [
+    [
       "2025-12-21, 01:12:31",
       "https://news.ycombinator.com/item?id=46341305"
     ],
@@ -201,22 +221,22 @@
   ],
   [
     [
-      "2025-12-20, 06:21:05",
-      "https://news.ycombinator.com/item?id=46334025"
-    ],
-    [
-      "Privacy doesn't mean anything anymore, anonymity does",
-      "https://servury.com/blog/privacy-is-marketing-anonymity-is-architecture/"
-    ]
-  ],
-  [
-    [
       "2025-12-17, 17:50:45",
       "https://news.ycombinator.com/item?id=46302928"
     ],
     [
       "Perfecting Steve Baer's Triple Dome",
       "https://vorth.github.io/vzome-sharing/2024/02/18/baer-dome-from-H4-1001-09-13-04.html"
+    ]
+  ],
+  [
+    [
+      "2025-12-17, 13:18:04",
+      "https://news.ycombinator.com/item?id=46301631"
+    ],
+    [
+      "Show HN: ZXC – Asymmetric, +40% decode vs. LZ4 on ARM (C, BSD-3, Fuzzed)",
+      "https://github.com/hellobertrand/zxc"
     ]
   ],
   [
@@ -251,32 +271,12 @@
   ],
   [
     [
-      "2025-12-16, 12:17:08",
-      "https://news.ycombinator.com/item?id=46287626"
-    ],
-    [
-      "Detailed balance in large language model-driven agents",
-      "https://arxiv.org/abs/2512.10047"
-    ]
-  ],
-  [
-    [
       "2025-12-16, 09:33:22",
       "https://news.ycombinator.com/item?id=46286533"
     ],
     [
       "Chomsky and the Two Cultures of Statistical Learning",
       "https://norvig.com/chomsky.html"
-    ]
-  ],
-  [
-    [
-      "2025-12-16, 05:46:20",
-      "https://news.ycombinator.com/item?id=46285208"
-    ],
-    [
-      "How to Write a 21st Century Proof (2011) [pdf]",
-      "https://lamport.azurewebsites.net/pubs/proof.pdf"
     ]
   ],
   [
