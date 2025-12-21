@@ -22,6 +22,7 @@
 * [2025-12-15, 20:25:18](https://news.ycombinator.com/item?id=46280080) - [1/4 of US-Trained Scientists Eventually Leave. Is the US Giving Away Its Edge?](https://arxiv.org/abs/2512.11146)
 * [2025-12-15, 20:20:05](https://news.ycombinator.com/item?id=46279996) - [Taiwan May Restart Nuclear Power Plant in 2028, Minister Says](https://www.energyconnects.com/news/utilities/2025/december/taiwan-may-restart-nuclear-power-plant-in-2028-minister-says/)
 * [2025-12-15, 20:09:48](https://news.ycombinator.com/item?id=46279825) - [The appropriate amount of effort is zero](https://expandingawareness.org/blog/the-appropriate-amount-of-effort-is-zero/)
+* [2025-12-15, 20:04:24](https://news.ycombinator.com/item?id=46279756) - [A visual editor for the Cursor Browser](https://cursor.com/blog/browser-visual-editor)
 * [2025-12-15, 19:59:41](https://news.ycombinator.com/item?id=46279674) - [Google discontinuing their dark web report](https://support.google.com/websearch/answer/16767242?hl=en&co=GENIE.Platform%3DAndroid)
 * [2025-12-15, 19:58:28](https://news.ycombinator.com/item?id=46279645) - [Origins of the TPC and the first 10 years](https://www.tpc.org/information/about/history5.asp)
 * [2025-12-15, 19:56:22](https://news.ycombinator.com/item?id=46279616) - [Context: Odin’s Most Misunderstood Feature](https://www.gingerbill.org/article/2025/12/15/odins-most-misunderstood-feature-context/)
