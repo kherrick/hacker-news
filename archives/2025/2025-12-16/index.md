@@ -95,6 +95,7 @@
 * [2025-12-16, 03:55:00](https://news.ycombinator.com/item?id=46284595) - [Maximizing Compression of Apple II Hi-Res Images](http://deater.net/weave/vmwprod/hgr_compress/)
 * [2025-12-16, 03:43:02](https://news.ycombinator.com/item?id=46284514) - [New Quantum Antenna Reveals a Hidden Terahertz World](https://www.sciencedaily.com/releases/2025/12/251213032617.htm)
 * [2025-12-16, 03:03:49](https://news.ycombinator.com/item?id=46284266) - [8M Users' AI Conversations Sold for Profit by \"Privacy\" Extensions](https://www.koi.ai/blog/urban-vpn-browser-extension-ai-conversations-data-collection)
+* [2025-12-16, 01:54:50](https://news.ycombinator.com/item?id=46283776) - [Getting serial port output on modern Macs](https://gist.github.com/dhinakg/3fcd9ad43c82c96964b4f64eb05e6a5e)
 * [2025-12-16, 01:51:50](https://news.ycombinator.com/item?id=46283750) - [Rollstack (YC W23) is hiring multiple software engineers (TypeScript) US/Canada](https://www.ycombinator.com/companies/rollstack-2/jobs/QPqpb1n-software-engineer-typescript-us-canada)
 * [2025-12-16, 01:44:47](https://news.ycombinator.com/item?id=46283699) - [SoundCloud confirms breach after member data stolen, VPN access disrupted](https://www.bleepingcomputer.com/news/security/soundcloud-confirms-breach-after-member-data-stolen-vpn-access-disrupted/)
 * [2025-12-16, 01:30:48](https://news.ycombinator.com/item?id=46283597) - [Feast Your Eyes on Japan's Fake Food](https://www.newyorker.com/culture/annals-of-gastronomy/feast-your-eyes-on-japans-fake-food)
