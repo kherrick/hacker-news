@@ -6,6 +6,7 @@
 
 * [2025-12-21, 15:29:31](https://news.ycombinator.com/item?id=46345523) - [E.W.Dijkstra Archive](https://www.cs.utexas.edu/~EWD/welcome.html)
 * [2025-12-21, 15:19:41](https://news.ycombinator.com/item?id=46345444) - [ARIN Public Incident Report – 4.10 Misissuance Error](https://www.arin.net/announcements/20251212/)
+* [2025-12-21, 15:07:18](https://news.ycombinator.com/item?id=46345341) - [Reasons Not to Become Famous (2020)](https://tim.blog/2020/02/02/reasons-to-not-become-famous/)
 * [2025-12-21, 15:06:46](https://news.ycombinator.com/item?id=46345333) - [Structured Outputs Create False Confidence](https://boundaryml.com/blog/structured-outputs-create-false-confidence)
 * [2025-12-21, 14:35:29](https://news.ycombinator.com/item?id=46345125) - [Three Ways to Solve Problems](https://andreasfragner.com/writing/three-ways-to-solve-problems)
 * [2025-12-21, 13:53:01](https://news.ycombinator.com/item?id=46344845) - [Feds order Washington power plant to keep burning coal](https://washingtonstatestandard.com/2025/12/18/feds-order-wa-power-plant-to-keep-burning-coal-setting-up-clash-with-state/)
