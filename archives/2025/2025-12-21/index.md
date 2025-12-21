@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-12-21](index.md)
 
 * [2025-12-21, 16:30:09](https://news.ycombinator.com/item?id=46345975) - [ELF Crimes: Program Interpreter Fun](https://nytpu.com/gemlog/2025-12-21)
+* [2025-12-21, 16:21:04](https://news.ycombinator.com/item?id=46345897) - [Show HN: Books mentioned on Hacker News in 2025](https://hackernews-readings-613604506318.us-west1.run.app)
 * [2025-12-21, 16:13:59](https://news.ycombinator.com/item?id=46345835) - [DNS4EU Blocks Blog.fefe.de](https://news.ycombinator.com/item?id=46345835)
 * [2025-12-21, 16:04:05](https://news.ycombinator.com/item?id=46345745) - [Show HN: WalletWallet – create Apple passes from anything](https://walletwallet.alen.ro/)
 * [2025-12-21, 15:57:22](https://news.ycombinator.com/item?id=46345692) - [RAG accuracy jumped from 10% to 60% when I added outcome scoring](https://roampal.ai/blog-ai-learns.html)
