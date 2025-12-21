@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-12-21](index.md)
 
+* [2025-12-21, 21:07:01](https://news.ycombinator.com/item?id=46348455) - [The gift card accountability sink](https://www.bitsaboutmoney.com/archive/gift-card-accountability-sink/)
 * [2025-12-21, 20:55:15](https://news.ycombinator.com/item?id=46348329) - [A Guide to Local Coding Models](https://www.aiforswes.com/p/you-dont-need-to-spend-100mo-on-claude)
 * [2025-12-21, 20:53:34](https://news.ycombinator.com/item?id=46348318) - [More on whether useful quantum computing is \"imminent\"](https://scottaaronson.blog/?p=9425)
 * [2025-12-21, 19:58:11](https://news.ycombinator.com/item?id=46347846) - [Weight loss jabs: What happens when you stop taking them](https://www.bbc.com/news/articles/cn98pdpyjz5o)

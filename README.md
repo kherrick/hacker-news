@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-12-21, 21:07:01](https://news.ycombinator.com/item?id=46348455) - [The gift card accountability sink](https://www.bitsaboutmoney.com/archive/gift-card-accountability-sink/)
 * [2025-12-21, 20:55:15](https://news.ycombinator.com/item?id=46348329) - [A Guide to Local Coding Models](https://www.aiforswes.com/p/you-dont-need-to-spend-100mo-on-claude)
 * [2025-12-21, 20:53:34](https://news.ycombinator.com/item?id=46348318) - [More on whether useful quantum computing is \"imminent\"](https://scottaaronson.blog/?p=9425)
 * [2025-12-21, 18:43:20](https://news.ycombinator.com/item?id=46347108) - [I can't upgrade to Windows 11, now leave me alone](https://idiallo.com/byte-size/cant-update-to-windows-11-leave-me-alone)
@@ -24,7 +25,6 @@
 * [2025-12-21, 05:21:42](https://news.ycombinator.com/item?id=46342447) - [Indoor tanning makes youthful skin much older on a genetic level](https://www.ucsf.edu/news/2025/12/431206/indoor-tanning-makes-youthful-skin-much-older-genetic-level)
 * [2025-12-21, 05:12:03](https://news.ycombinator.com/item?id=46342412) - [Waymo halts service during S.F. blackout after causing traffic jams](https://missionlocal.org/2025/12/sf-waymo-halts-service-blackout/)
 * [2025-12-21, 04:06:36](https://news.ycombinator.com/item?id=46342166) - [Measuring AI Ability to Complete Long Tasks](https://metr.org/blog/2025-03-19-measuring-ai-ability-to-complete-long-tasks/)
-* [2025-12-20, 21:26:14](https://news.ycombinator.com/item?id=46339777) - [Claude in Chrome](https://claude.com/chrome)
 * [2025-12-20, 21:00:05](https://news.ycombinator.com/item?id=46339600) - [Show HN: Jmail – Google Suite for Epstein files](https://www.jmail.world)
 * [2025-12-18, 06:19:32](https://news.ycombinator.com/item?id=46309463) - [FWS – pip-installable embedded process supervisor with PTY/pipe/dtach back ends](https://news.ycombinator.com/item?id=46309463)
 * [2025-12-16, 21:23:18](https://news.ycombinator.com/item?id=46294694) - [I Program on the Subway](https://www.scd31.com/posts/programming-on-the-subway)
