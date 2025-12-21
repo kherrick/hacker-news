@@ -50,6 +50,7 @@
 * [2025-12-19, 10:03:38](https://news.ycombinator.com/item?id=46324078) - [Amazon will allow ePub and PDF downloads for DRM-free eBooks](https://www.kdpcommunity.com/s/article/New-eBook-Download-Options-for-Readers-Coming-in-2026?language=en_US)
 * [2025-12-19, 08:54:25](https://news.ycombinator.com/item?id=46323693) - [Show HN: Orbit a systems level programming language that compiles .sh to LLVM](https://github.com/SIE-Libraries/orbit)
 * [2025-12-19, 06:10:02](https://news.ycombinator.com/item?id=46322732) - [Making Google Sans Flex](https://design.google/library/google-sans-flex-font)
+* [2025-12-19, 05:49:33](https://news.ycombinator.com/item?id=46322631) - [Evaluating Chain-of-Thought Monitorability](https://openai.com/index/evaluating-chain-of-thought-monitorability/)
 * [2025-12-19, 05:38:25](https://news.ycombinator.com/item?id=46322556) - [2026 Apple introducing more ads to increase opportunity in search results](https://ads.apple.com/app-store/help/ad-placements/0082-search-results)
 * [2025-12-19, 05:35:34](https://news.ycombinator.com/item?id=46322540) - [Getting bitten by Intel's poor naming scenes](https://lorendb.dev/posts/getting-bitten-by-poor-naming-schemes/)
 * [2025-12-19, 04:56:13](https://news.ycombinator.com/item?id=46322391) - [Rust's Block Pattern](https://notgull.net/block-pattern/)

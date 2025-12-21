@@ -25,7 +25,7 @@
 * [2025-12-21, 05:21:42](https://news.ycombinator.com/item?id=46342447) - [Indoor tanning makes youthful skin much older on a genetic level](https://www.ucsf.edu/news/2025/12/431206/indoor-tanning-makes-youthful-skin-much-older-genetic-level)
 * [2025-12-21, 05:12:03](https://news.ycombinator.com/item?id=46342412) - [Waymo halts service during S.F. blackout after causing traffic jams](https://missionlocal.org/2025/12/sf-waymo-halts-service-blackout/)
 * [2025-12-21, 04:06:36](https://news.ycombinator.com/item?id=46342166) - [Measuring AI Ability to Complete Long Tasks](https://metr.org/blog/2025-03-19-measuring-ai-ability-to-complete-long-tasks/)
-* [2025-12-20, 21:00:05](https://news.ycombinator.com/item?id=46339600) - [Show HN: Jmail – Google Suite for Epstein files](https://www.jmail.world)
+* [2025-12-19, 05:49:33](https://news.ycombinator.com/item?id=46322631) - [Evaluating Chain-of-Thought Monitorability](https://openai.com/index/evaluating-chain-of-thought-monitorability/)
 * [2025-12-18, 06:19:32](https://news.ycombinator.com/item?id=46309463) - [FWS – pip-installable embedded process supervisor with PTY/pipe/dtach back ends](https://news.ycombinator.com/item?id=46309463)
 * [2025-12-16, 21:23:18](https://news.ycombinator.com/item?id=46294694) - [I Program on the Subway](https://www.scd31.com/posts/programming-on-the-subway)
 * [2025-12-16, 11:19:29](https://news.ycombinator.com/item?id=46287253) - [I'm Just Having Fun](https://jyn.dev/i-m-just-having-fun/)
