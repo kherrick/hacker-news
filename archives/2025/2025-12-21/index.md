@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-12-21](index.md)
 
+* [2025-12-21, 21:46:20](https://news.ycombinator.com/item?id=46348847) - [Disney Imagineering Debuts Next-Generation Robotic Character, Olaf](https://disneyparksblog.com/disney-experiences/robotic-olaf-marks-new-era-of-disney-innovation/)
+* [2025-12-21, 21:26:09](https://news.ycombinator.com/item?id=46348660) - [Engineering dogmas it's time to retire – by Anton Zaides](https://newsletter.manager.dev/p/5-engineering-dogmas-its-time-to)
 * [2025-12-21, 21:07:01](https://news.ycombinator.com/item?id=46348455) - [The gift card accountability sink](https://www.bitsaboutmoney.com/archive/gift-card-accountability-sink/)
 * [2025-12-21, 20:55:15](https://news.ycombinator.com/item?id=46348329) - [A Guide to Local Coding Models](https://www.aiforswes.com/p/you-dont-need-to-spend-100mo-on-claude)
 * [2025-12-21, 20:53:34](https://news.ycombinator.com/item?id=46348318) - [More on whether useful quantum computing is \"imminent\"](https://scottaaronson.blog/?p=9425)
