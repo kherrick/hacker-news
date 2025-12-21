@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-12-21, 11:09:27](https://news.ycombinator.com/item?id=46343976) - [ISBN Visualization Showing 99_959_000 books](https://annas-archive.li/isbn-visualization/)
 * [2025-12-21, 07:26:39](https://news.ycombinator.com/item?id=46342950) - [Inca Stone Masonry](https://www.earthasweknowit.com/pages/inca_construction)
 * [2025-12-21, 07:16:19](https://news.ycombinator.com/item?id=46342902) - [Clair Obscur having its Indie Game Game Of The Year award stripped due to AI use](https://www.thegamer.com/clair-obscur-expedition-33-indie-game-awards-goty-stripped-ai-use/)
 * [2025-12-21, 07:06:48](https://news.ycombinator.com/item?id=46342859) - [Ruby website redesigned](https://www.ruby-lang.org/en/)
@@ -23,7 +24,6 @@
 * [2025-12-17, 17:15:14](https://news.ycombinator.com/item?id=46302378) - [Make the eyes go away](https://hexeditreality.com/posts/make-the-eyes-go-away/)
 * [2025-12-17, 12:08:21](https://news.ycombinator.com/item?id=46301059) - [Log level 'error' should mean that something needs to be fixed](https://utcc.utoronto.ca/~cks/space/blog/programming/ErrorsShouldRequireFixing)
 * [2025-12-16, 23:08:29](https://news.ycombinator.com/item?id=46295982) - [The Uncertain Origins of Aspirin](https://www.asimov.press/p/aspirin)
-* [2025-12-16, 15:39:23](https://news.ycombinator.com/item?id=46289884) - [Biscuit is a specialized PostgreSQL index for fast pattern matching LIKE queries](https://github.com/CrystallineCore/Biscuit)
 * [2025-12-16, 12:48:12](https://news.ycombinator.com/item?id=46287848) - [Gemini 3 Pro vs. 2.5 Pro in Pokemon Crystal](https://blog.jcz.dev/gemini-3-pro-vs-25-pro-in-pokemon-crystal)
 * [2025-12-16, 12:29:24](https://news.ycombinator.com/item?id=46287722) - [Show HN: Open-source Markdown research tool written in Rust – Ekphos](https://github.com/hanebox/ekphos)
 * [2025-12-16, 09:33:22](https://news.ycombinator.com/item?id=46286533) - [Chomsky and the Two Cultures of Statistical Learning (2011)](https://norvig.com/chomsky.html)
