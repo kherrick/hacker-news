@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-12-21](index.md)
 
+* [2025-12-21, 12:33:11](https://news.ycombinator.com/item?id=46344381) - [Show HN: Shittp – Volatile Dotfiles over SSH](https://github.com/FOBshippingpoint/shittp)
 * [2025-12-21, 11:21:01](https://news.ycombinator.com/item?id=46344022) - [New mathematical framework reshapes debate over simulation hypothesis](https://www.santafe.edu/news-center/news/new-mathematical-framework-reshapes-debate-over-simulation-hypothesis)
 * [2025-12-21, 11:09:27](https://news.ycombinator.com/item?id=46343976) - [ISBN Visualization Showing 99_959_000 books](https://annas-archive.li/isbn-visualization/)
 * [2025-12-21, 07:26:39](https://news.ycombinator.com/item?id=46342950) - [Inca Stone Masonry](https://www.earthasweknowit.com/pages/inca_construction)
@@ -15,5 +16,6 @@
 * [2025-12-21, 05:02:36](https://news.ycombinator.com/item?id=46342380) - [I doubt anything resembling genuine AGI is within reach](https://mathstodon.xyz/@tao/115722360006034040)
 * [2025-12-21, 04:06:36](https://news.ycombinator.com/item?id=46342166) - [Measuring AI Ability to Complete Long Tasks: Opus 4.5 has 50% horizon of 4h49M](https://metr.org/blog/2025-03-19-measuring-ai-ability-to-complete-long-tasks/)
 * [2025-12-21, 03:35:28](https://news.ycombinator.com/item?id=46342022) - [PG&E outages in S.F. leave 130k without electricity](https://www.sfchronicle.com/sf/article/pg-e-outage-40-000-customers-without-power-21254326.php)
+* [2025-12-21, 03:18:14](https://news.ycombinator.com/item?id=46341926) - [William Golding's Island of Savagery](https://www.historytoday.com/archive/portrait-author-historian/william-goldings-island-savagery)
 * [2025-12-21, 01:12:31](https://news.ycombinator.com/item?id=46341305) - [Flock and Cyble Inc. Weaponize \"Cybercrime\" Takedowns to Silence Critics](https://haveibeenflocked.com/news/cyble-downtime)
 * [2025-12-21, 00:20:53](https://news.ycombinator.com/item?id=46341035) - [Humankind's 10 million year love affair with booze might end](https://www.economist.com/christmas-specials/2025/12/18/how-humankinds-10m-year-love-affair-with-booze-might-end)

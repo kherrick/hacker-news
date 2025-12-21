@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-12-16](index.md)
 
+* [2025-12-16, 23:57:12](https://news.ycombinator.com/item?id=46296445) - [Luigi Pirandello's Broken Men](https://www.thenation.com/article/culture/luigi-pirandello-one-none-grand-review/)
 * [2025-12-16, 23:28:39](https://news.ycombinator.com/item?id=46296181) - [Americans overestimate how many social media users post harmful content](https://academic.oup.com/pnasnexus/article/4/12/pgaf310/8377954?login=false)
 * [2025-12-16, 23:27:10](https://news.ycombinator.com/item?id=46296172) - [More than 100 rally against data centers at Michigan Capitol](https://www.lansingstatejournal.com/story/news/local/2025/12/16/lansing-state-capitol-data-centers-rally-michigan/87792001007/)
 * [2025-12-16, 23:08:29](https://news.ycombinator.com/item?id=46295982) - [The Uncertain Origins of Aspirin](https://www.asimov.press/p/aspirin)
