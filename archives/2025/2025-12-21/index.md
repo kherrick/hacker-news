@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-12-21](index.md)
 
+* [2025-12-21, 18:43:20](https://news.ycombinator.com/item?id=46347108) - [I can't upgrade to Windows 11, now leave me alone](https://idiallo.com/byte-size/cant-update-to-windows-11-leave-me-alone)
 * [2025-12-21, 18:39:46](https://news.ycombinator.com/item?id=46347080) - [Mullvad VPN: \"This is a Chat Control 3.0 attempt.\"](https://mastodon.online/@mullvadnet/115742530333573065)
+* [2025-12-21, 18:28:56](https://news.ycombinator.com/item?id=46346958) - [You're Not Burnt Out. You're Existentially Starving](https://neilthanedar.com/youre-not-burnt-out-youre-existentially-starving/)
 * [2025-12-21, 18:19:54](https://news.ycombinator.com/item?id=46346886) - [Day laborers protest noise machines installed at Home Depot](https://www.latimes.com/california/story/2025-12-17/day-laborers-protest-noise-machines-home-depot)
 * [2025-12-21, 18:09:52](https://news.ycombinator.com/item?id=46346796) - [Logging Sucks](https://loggingsucks.com/)
 * [2025-12-21, 17:38:48](https://news.ycombinator.com/item?id=46346536) - [Mountain home near Aspen, built for monks, sold to Palantir CEO for $120M](https://coloradosun.com/2025/12/19/monastery-sells-palantir-ceo/)
