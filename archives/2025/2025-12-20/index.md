@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-12-20](index.md)
 
+* [2025-12-20, 23:43:04](https://news.ycombinator.com/item?id=46340794) - [Anatomy of US inequality](https://www.nber.org/papers/w34558)
 * [2025-12-20, 22:21:29](https://news.ycombinator.com/item?id=46340192) - [I wrote a code editor in C and now I'm a changed man](https://github.com/thisismars-x/light)
 * [2025-12-20, 22:12:22](https://news.ycombinator.com/item?id=46340117) - [More databases should be single-threaded](https://blog.konsti.xyz/p/8c8a399f-8cfe-47dd-9278-9527105d07dc/)
 * [2025-12-20, 21:26:14](https://news.ycombinator.com/item?id=46339777) - [Claude in Chrome](https://claude.com/chrome)
