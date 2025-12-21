@@ -59,6 +59,7 @@
 * [2025-12-17, 13:12:49](https://news.ycombinator.com/item?id=46301585) - [Yep, Passkeys Still Have Problems](https://fy.blackhats.net.au/blog/2025-12-17-yep-passkeys-still-have-problems/)
 * [2025-12-17, 12:45:40](https://news.ycombinator.com/item?id=46301346) - [Coursera to combine with Udemy](https://investor.coursera.com/news/news-details/2025/Coursera-to-Combine-with-Udemy-to-Empower-the-Global-Workforce-with-Skills-for-the-AI-Era/default.aspx)
 * [2025-12-17, 12:08:21](https://news.ycombinator.com/item?id=46301059) - [Log level 'error' should mean that something needs to be fixed](https://utcc.utoronto.ca/~cks/space/blog/programming/ErrorsShouldRequireFixing)
+* [2025-12-17, 11:54:26](https://news.ycombinator.com/item?id=46300957) - [Decompiling the New C# 14 field Keyword](https://blog.ivankahl.com/decompiling-the-new-csharp-14-field-keyword/)
 * [2025-12-17, 11:26:59](https://news.ycombinator.com/item?id=46300776) - [Short-Circuiting Correlated Subqueries in SQLite](https://emschwartz.me/short-circuiting-correlated-subqueries-in-sqlite/)
 * [2025-12-17, 10:45:27](https://news.ycombinator.com/item?id=46300411) - [Vm.overcommit_memory=2 is always the right setting for servers](https://ariadne.space/2025/12/16/vmovercommitmemory-is-always-the-right.html)
 * [2025-12-17, 09:54:48](https://news.ycombinator.com/item?id=46300047) - [Show HN: Mephisto – A RAM-only, ad-free disposable email PWA built with React](https://mephistomail.site)
