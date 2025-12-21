@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-12-21, 05:21:42](https://news.ycombinator.com/item?id=46342447) - [Indoor Tanning Makes Youthful Skin Much Older on a Genetic Level](https://www.ucsf.edu/news/2025/12/431206/indoor-tanning-makes-youthful-skin-much-older-genetic-level)
 * [2025-12-21, 05:12:03](https://news.ycombinator.com/item?id=46342412) - [Waymo halts service during S.F. blackout after causing traffic jams](https://missionlocal.org/2025/12/sf-waymo-halts-service-blackout/)
 * [2025-12-21, 04:06:36](https://news.ycombinator.com/item?id=46342166) - [Measuring AI Ability to Complete Long Tasks: Opus 4.5 has 50% horizon of 4h49M](https://metr.org/blog/2025-03-19-measuring-ai-ability-to-complete-long-tasks/)
 * [2025-12-21, 03:35:28](https://news.ycombinator.com/item?id=46342022) - [PG&E outages in S.F. leave 130k without electricity](https://www.sfchronicle.com/sf/article/pg-e-outage-40-000-customers-without-power-21254326.php)
@@ -22,7 +23,6 @@
 * [2025-12-20, 13:20:57](https://news.ycombinator.com/item?id=46335994) - [Approaching 50 Years of String Theory](https://www.math.columbia.edu/~woit/wordpress/?p=15401)
 * [2025-12-20, 08:09:17](https://news.ycombinator.com/item?id=46334424) - [Skills Officially Comes to Codex](https://developers.openai.com/codex/skills/)
 * [2025-12-17, 19:52:36](https://news.ycombinator.com/item?id=46304630) - [What's New in Python 3.15](https://docs.python.org/3.15/whatsnew/3.15.html)
-* [2025-12-17, 17:50:45](https://news.ycombinator.com/item?id=46302928) - [Perfecting Steve Baer's Triple Dome](https://vorth.github.io/vzome-sharing/2024/02/18/baer-dome-from-H4-1001-09-13-04.html)
 * [2025-12-17, 13:18:04](https://news.ycombinator.com/item?id=46301631) - [Show HN: ZXC – Asymmetric, +40% decode vs. LZ4 on ARM (C, BSD-3, Fuzzed)](https://github.com/hellobertrand/zxc)
 * [2025-12-17, 12:08:21](https://news.ycombinator.com/item?id=46301059) - [Log level 'error' should mean that something needs to be fixed](https://utcc.utoronto.ca/~cks/space/blog/programming/ErrorsShouldRequireFixing)
 * [2025-12-16, 15:39:23](https://news.ycombinator.com/item?id=46289884) - [Biscuit is a specialized PostgreSQL index for fast pattern matching LIKE queries](https://github.com/CrystallineCore/Biscuit)
