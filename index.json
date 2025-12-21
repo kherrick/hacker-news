@@ -45,7 +45,7 @@
       "https://news.ycombinator.com/item?id=46348318"
     ],
     [
-      "More on whether useful quantum computing is \"imminent\"",
+      "More on whether useful quantum computing is “imminent”",
       "https://scottaaronson.blog/?p=9425"
     ]
   ],
@@ -241,21 +241,11 @@
   ],
   [
     [
-      "2025-12-20, 21:00:05",
-      "https://news.ycombinator.com/item?id=46339600"
-    ],
-    [
-      "Show HN: Jmail – Google Suite for Epstein files",
-      "https://www.jmail.world"
-    ]
-  ],
-  [
-    [
       "2025-12-19, 05:49:33",
       "https://news.ycombinator.com/item?id=46322631"
     ],
     [
-      "Evaluating Chain-of-Thought Monitorability",
+      "Evaluating chain-of-thought monitorability",
       "https://openai.com/index/evaluating-chain-of-thought-monitorability/"
     ]
   ],
@@ -267,6 +257,16 @@
     [
       "FWS – pip-installable embedded process supervisor with PTY/pipe/dtach back ends",
       "https://news.ycombinator.com/item?id=46309463"
+    ]
+  ],
+  [
+    [
+      "2025-12-17, 06:26:59",
+      "https://news.ycombinator.com/item?id=46298855"
+    ],
+    [
+      "Why \"negative vectors\" can't delete data in FAISS – but weighted kernels can",
+      "https://github.com/nikitph/bloomin/tree/master/negative-vector-experiment"
     ]
   ],
   [
