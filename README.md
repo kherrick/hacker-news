@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-12-21, 15:57:22](https://news.ycombinator.com/item?id=46345692) - [RAG accuracy jumped from 10% to 60% when I added outcome scoring](https://roampal.ai/blog-ai-learns.html)
 * [2025-12-21, 15:29:31](https://news.ycombinator.com/item?id=46345523) - [E.W.Dijkstra Archive](https://www.cs.utexas.edu/~EWD/welcome.html)
 * [2025-12-21, 15:19:41](https://news.ycombinator.com/item?id=46345444) - [ARIN Public Incident Report – 4.10 Misissuance Error](https://www.arin.net/announcements/20251212/)
 * [2025-12-21, 15:07:18](https://news.ycombinator.com/item?id=46345341) - [Reasons Not to Become Famous (2020)](https://tim.blog/2020/02/02/reasons-to-not-become-famous/)
@@ -24,7 +25,6 @@
 * [2025-12-20, 17:45:48](https://news.ycombinator.com/item?id=46337984) - [OpenSCAD is kinda neat](https://nuxx.net/blog/2025/12/20/openscad-is-kinda-neat/)
 * [2025-12-20, 16:45:48](https://news.ycombinator.com/item?id=46337438) - [Pure Silicon Demo Coding: No CPU, No Memory, Just 4k Gates](https://www.a1k0n.net/2025/12/19/tiny-tapeout-demo.html)
 * [2025-12-20, 15:43:15](https://news.ycombinator.com/item?id=46336947) - [Go ahead, self-host Postgres](https://pierce.dev/notes/go-ahead-self-host-postgres#user-content-fn-1)
-* [2025-12-20, 13:39:47](https://news.ycombinator.com/item?id=46336104) - [Show HN: HN Wrapped 2025 - an LLM reviews your year on HN](https://hn-wrapped.kadoa.com?year=2025)
 * [2025-12-17, 12:08:21](https://news.ycombinator.com/item?id=46301059) - [Log level 'error' should mean that something needs to be fixed](https://utcc.utoronto.ca/~cks/space/blog/programming/ErrorsShouldRequireFixing)
 * [2025-12-17, 11:54:26](https://news.ycombinator.com/item?id=46300957) - [Decompiling the New C# 14 field Keyword](https://blog.ivankahl.com/decompiling-the-new-csharp-14-field-keyword/)
 * [2025-12-16, 23:08:29](https://news.ycombinator.com/item?id=46295982) - [The uncertain origins of aspirin](https://www.asimov.press/p/aspirin)

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-12-21](index.md)
 
+* [2025-12-21, 15:57:22](https://news.ycombinator.com/item?id=46345692) - [RAG accuracy jumped from 10% to 60% when I added outcome scoring](https://roampal.ai/blog-ai-learns.html)
 * [2025-12-21, 15:29:31](https://news.ycombinator.com/item?id=46345523) - [E.W.Dijkstra Archive](https://www.cs.utexas.edu/~EWD/welcome.html)
 * [2025-12-21, 15:19:41](https://news.ycombinator.com/item?id=46345444) - [ARIN Public Incident Report – 4.10 Misissuance Error](https://www.arin.net/announcements/20251212/)
 * [2025-12-21, 15:07:18](https://news.ycombinator.com/item?id=46345341) - [Reasons Not to Become Famous (2020)](https://tim.blog/2020/02/02/reasons-to-not-become-famous/)
