@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-12-18](index.md)
 
 * [2025-12-18, 23:40:46](https://news.ycombinator.com/item?id=46320395) - [Property-Based Testing Caught a Security Bug I Never Would Have Found](https://kiro.dev/blog/property-based-testing-fixed-security-bug/)
+* [2025-12-18, 23:37:05](https://news.ycombinator.com/item?id=46320353) - [Perron: A Static Site Generator for Ruby on Rails](https://perron-site.statichost.page/)
 * [2025-12-18, 23:22:34](https://news.ycombinator.com/item?id=46320214) - [My First Impression on HP Zbook Ultra G1a: Ryzen AI Max+ 395, Strix Halo 128GB](https://forum.level1techs.com/t/my-first-impression-on-hp-zbook-ultra-g1a-ryzen-ai-max-395-strix-halo-128-gb/232958)
 * [2025-12-18, 22:52:06](https://news.ycombinator.com/item?id=46319946) - [Great Ideas in Theoretical Computer Science](https://www.cs251.com/)
 * [2025-12-18, 22:39:47](https://news.ycombinator.com/item?id=46319826) - [Trained LLMs exclusively on pre-1913 texts](https://github.com/DGoettlich/history-llms)
@@ -29,6 +30,7 @@
 * [2025-12-18, 18:18:30](https://news.ycombinator.com/item?id=46316409) - [Firefox will have an option to disable all AI features](https://mastodon.social/@firefoxwebdevs/115740500373677782)
 * [2025-12-18, 18:15:12](https://news.ycombinator.com/item?id=46316370) - [MIT nuclear science professor Nuno Loureiro found shot dead in home in Mass](https://nypost.com/2025/12/16/us-news/mit-nuclear-science-professor-found-shot-dead-in-home-in-swanky-mass-neighborhood/)
 * [2025-12-18, 18:14:48](https://news.ycombinator.com/item?id=46316367) - [GPT-5.2-Codex](https://openai.com/index/introducing-gpt-5-2-codex/)
+* [2025-12-18, 17:49:10](https://news.ycombinator.com/item?id=46316050) - [Deliberate Internet Shutdowns](https://www.schneier.com/blog/archives/2025/12/deliberate-internet-shutdowns.html)
 * [2025-12-18, 17:12:46](https://news.ycombinator.com/item?id=46315547) - [Military Standard on Software Control Levels](https://entropicthoughts.com/mil-std-882e-software-control)
 * [2025-12-18, 17:04:32](https://news.ycombinator.com/item?id=46315414) - [Agent Skills is now an open standard](https://claude.com/blog/organization-skills-and-directory)
 * [2025-12-18, 16:44:11](https://news.ycombinator.com/item?id=46315047) - [Show HN: Paper2Any – Open tool to generate editable PPTs from research papers](https://github.com/OpenDCAI/DataFlow-Agent)
