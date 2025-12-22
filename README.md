@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-12-22, 22:50:53](https://news.ycombinator.com/item?id=46360146) - [Ask HN: Why isn't there competition to LinkedIn yet?](https://news.ycombinator.com/item?id=46360146)
 * [2025-12-22, 22:43:22](https://news.ycombinator.com/item?id=46360067) - [There Is No Future for Online Safety Without Privacy and Security](https://itsfoss.com/news/alexander-linton-interview/)
 * [2025-12-22, 22:35:45](https://news.ycombinator.com/item?id=46359996) - [NPM Package with 56K Downloads Caught Stealing WhatsApp Messages](https://www.koi.ai/blog/npm-package-with-56k-downloads-malware-stealing-whatsapp-messages)
 * [2025-12-22, 22:03:07](https://news.ycombinator.com/item?id=46359683) - [Tc – Theodore Calvin's language-agnostic testing framework](https://github.com/ahoward/tc)
 * [2025-12-22, 21:09:59](https://news.ycombinator.com/item?id=46359120) - [It's Always TCP_NODELAY](https://brooker.co.za/blog/2024/05/09/nagle.html)
 * [2025-12-22, 20:21:12](https://news.ycombinator.com/item?id=46358538) - [In Pursuit of Clancy Sigal (2021)](https://yalereview.org/article/in-pursuit-of-clancy-sigal)
-* [2025-12-22, 20:12:20](https://news.ycombinator.com/item?id=46358437) - [Vince Zampella, developer of Call of Duty and Battlefield has died](https://comicbook.com/gaming/news/vince-zampella-developer-of-call-of-duty-and-battlefield-dead-at-55/)
 * [2025-12-22, 19:37:34](https://news.ycombinator.com/item?id=46357945) - [Ultrasound Cancer Treatment: Sound Waves Fight Tumors](https://spectrum.ieee.org/ultrasound-cancer-treatment)
 * [2025-12-22, 19:31:11](https://news.ycombinator.com/item?id=46357881) - [US blocks all offshore wind construction, says reason is classified](https://arstechnica.com/science/2025/12/us-government-finds-new-excuse-to-stop-construction-of-offshore-wind/)
 * [2025-12-22, 19:30:18](https://news.ycombinator.com/item?id=46357870) - [The Garbage Collection Handbook](https://gchandbook.org/index.html)
