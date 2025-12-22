@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-12-22](index.md)
 
+* [2025-12-22, 22:43:22](https://news.ycombinator.com/item?id=46360067) - [There Is No Future for Online Safety Without Privacy and Security](https://itsfoss.com/news/alexander-linton-interview/)
 * [2025-12-22, 22:35:45](https://news.ycombinator.com/item?id=46359996) - [NPM Package with 56K Downloads Caught Stealing WhatsApp Messages](https://www.koi.ai/blog/npm-package-with-56k-downloads-malware-stealing-whatsapp-messages)
 * [2025-12-22, 22:03:07](https://news.ycombinator.com/item?id=46359683) - [Tc – Theodore Calvin's language-agnostic testing framework](https://github.com/ahoward/tc)
 * [2025-12-22, 21:44:45](https://news.ycombinator.com/item?id=46359515) - [DOJ uploaded a 12-SEC video showing Epstein attempting suicide?](https://twitter.com/rtwlz/status/2003211685650374823)

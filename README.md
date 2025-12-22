@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-12-22, 22:43:22](https://news.ycombinator.com/item?id=46360067) - [There Is No Future for Online Safety Without Privacy and Security](https://itsfoss.com/news/alexander-linton-interview/)
 * [2025-12-22, 22:35:45](https://news.ycombinator.com/item?id=46359996) - [NPM Package with 56K Downloads Caught Stealing WhatsApp Messages](https://www.koi.ai/blog/npm-package-with-56k-downloads-malware-stealing-whatsapp-messages)
 * [2025-12-22, 22:03:07](https://news.ycombinator.com/item?id=46359683) - [Tc – Theodore Calvin's language-agnostic testing framework](https://github.com/ahoward/tc)
 * [2025-12-22, 21:09:59](https://news.ycombinator.com/item?id=46359120) - [It's Always TCP_NODELAY](https://brooker.co.za/blog/2024/05/09/nagle.html)
@@ -25,8 +26,7 @@
 * [2025-12-22, 08:37:34](https://news.ycombinator.com/item?id=46352286) - [Hybrid Aerial Underwater Drone – Bachelor Project [video]](https://www.youtube.com/watch?v=g7vmPFZrYAk)
 * [2025-12-22, 08:24:32](https://news.ycombinator.com/item?id=46352231) - [Debian's Git Transition](https://diziet.dreamwidth.org/20436.html)
 * [2025-12-20, 18:40:45](https://news.ycombinator.com/item?id=46338437) - [Programming languages used for music](https://timthompson.com/plum/cgi/showlist.cgi?sort=name&concise=yes)
-* [2025-12-19, 21:50:52](https://news.ycombinator.com/item?id=46331364) - [Show HN: Netrinos – A keep it simple Mesh VPN for small teams](https://netrinos.com)
-* [2025-12-18, 17:49:10](https://news.ycombinator.com/item?id=46316050) - [Deliberate Internet Shutdowns](https://www.schneier.com/blog/archives/2025/12/deliberate-internet-shutdowns.html)
+* [2025-12-19, 10:29:33](https://news.ycombinator.com/item?id=46324269) - [FPGAs Need a New Future](https://www.allaboutcircuits.com/industry-articles/fpgas-need-a-new-future/)
 * [2025-12-18, 17:14:44](https://news.ycombinator.com/item?id=46315581) - [There's no such thing as a fake feather [video]](https://www.youtube.com/watch?v=N5yV1Q9O6r4)
 * [2025-12-18, 14:00:50](https://news.ycombinator.com/item?id=46312755) - [The Rise of SQL:the second programming language everyone needs to know](https://spectrum.ieee.org/the-rise-of-sql)
 * [2025-12-17, 19:19:00](https://news.ycombinator.com/item?id=46304195) - [How the RESISTORS put computing into 1960s counter-culture](https://spectrum.ieee.org/teenage-hackers)
