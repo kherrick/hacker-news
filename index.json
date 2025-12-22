@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-12-22, 18:41:40",
+      "https://news.ycombinator.com/item?id=46357227"
+    ],
+    [
+      "People Have Died in Crashes Where Tesla Doors Wouldn't Open",
+      "https://www.bloomberg.com/news/features/2025-12-22/tesla-door-safety-tied-to-at-least-15-auto-accident-deaths"
+    ]
+  ],
+  [
+    [
       "2025-12-22, 17:53:46",
       "https://news.ycombinator.com/item?id=46356603"
     ],
@@ -31,6 +41,16 @@
   ],
   [
     [
+      "2025-12-22, 17:01:28",
+      "https://news.ycombinator.com/item?id=46355949"
+    ],
+    [
+      "NIST was 5 μs off UTC after last week's power cut",
+      "https://www.jeffgeerling.com/blog/2025/nist-was-5-μs-utc-after-last-weeks-power-cut"
+    ]
+  ],
+  [
+    [
       "2025-12-22, 17:00:34",
       "https://news.ycombinator.com/item?id=46355932"
     ],
@@ -51,22 +71,12 @@
   ],
   [
     [
-      "2025-12-22, 16:55:43",
-      "https://news.ycombinator.com/item?id=46355879"
+      "2025-12-22, 16:31:40",
+      "https://news.ycombinator.com/item?id=46355548"
     ],
     [
-      "Mystery as YouTube creator's finance livestream appears on White House website",
-      "https://apnews.com/article/white-house-website-youtube-livestream-88d79b896ca6e5ecea33f3bf3e5c9278"
-    ]
-  ],
-  [
-    [
-      "2025-12-22, 16:50:22",
-      "https://news.ycombinator.com/item?id=46355793"
-    ],
-    [
-      "Spotify reportedly investigating Anna's Archive's scraping of their library",
-      "https://www.billboard.com/business/streaming/spotify-music-library-leak-1236143970/"
+      "Flock Exposed Its AI-Powered Cameras to the Internet. We Tracked Ourselves",
+      "https://www.404media.co/flock-exposed-its-ai-powered-cameras-to-the-internet-we-tracked-ourselves/"
     ]
   ],
   [
@@ -87,16 +97,6 @@
     [
       "Claude Code gets native LSP support",
       "https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md"
-    ]
-  ],
-  [
-    [
-      "2025-12-22, 15:49:22",
-      "https://news.ycombinator.com/item?id=46355077"
-    ],
-    [
-      "The U.S. Is Funding Fewer Grants in Every Area of Science and Medicine",
-      "https://www.nytimes.com/interactive/2025/12/02/upshot/trump-science-funding-cuts.html"
     ]
   ],
   [
@@ -281,12 +281,12 @@
   ],
   [
     [
-      "2025-12-16, 10:26:52",
-      "https://news.ycombinator.com/item?id=46286906"
+      "2025-12-16, 10:31:40",
+      "https://news.ycombinator.com/item?id=46286935"
     ],
     [
-      "Functional Flocking Quadtree in ClojureScript",
-      "https://www.lbjgruppen.com/en/posts/flocking-quadtrees"
+      "Let's write a toy UI library",
+      "https://nakst.gitlab.io/tutorial/ui-part-1.html"
     ]
   ],
   [
