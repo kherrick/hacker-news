@@ -16,7 +16,6 @@
 * [2025-12-21, 15:27:36](https://news.ycombinator.com/item?id=46345506) - [CO2 batteries that store grid energy take off globally](https://spectrum.ieee.org/co2-battery-energy-storage)
 * [2025-12-21, 15:19:41](https://news.ycombinator.com/item?id=46345444) - [ARIN Public Incident Report – 4.10 Misissuance Error](https://www.arin.net/announcements/20251212/)
 * [2025-12-21, 15:06:46](https://news.ycombinator.com/item?id=46345333) - [Structured outputs create false confidence](https://boundaryml.com/blog/structured-outputs-create-false-confidence)
-* [2025-12-21, 14:40:03](https://news.ycombinator.com/item?id=46345157) - [Show HN: GenresFox – Open-source, customizable new tab page extension in WASM](https://github.com/zayokami/GenresFox)
 * [2025-12-21, 12:57:44](https://news.ycombinator.com/item?id=46344514) - [Coarse is better](https://borretti.me/article/coarse-is-better)
 * [2025-12-21, 12:38:25](https://news.ycombinator.com/item?id=46344412) - [Luke Howard’s essay on the modification of clouds (1865)](https://publicdomainreview.org/collection/essay-on-the-modification-of-clouds/)
 * [2025-12-21, 07:06:48](https://news.ycombinator.com/item?id=46342859) - [Ruby website redesigned](https://www.ruby-lang.org/en/)
@@ -29,6 +28,7 @@
 * [2025-12-18, 17:49:10](https://news.ycombinator.com/item?id=46316050) - [Deliberate Internet Shutdowns](https://www.schneier.com/blog/archives/2025/12/deliberate-internet-shutdowns.html)
 * [2025-12-16, 21:23:18](https://news.ycombinator.com/item?id=46294694) - [I program on the subway](https://www.scd31.com/posts/programming-on-the-subway)
 * [2025-12-16, 11:19:29](https://news.ycombinator.com/item?id=46287253) - [I'm just having fun](https://jyn.dev/i-m-just-having-fun/)
+* [2025-12-16, 10:26:52](https://news.ycombinator.com/item?id=46286906) - [Functional Flocking Quadtree in ClojureScript](https://www.lbjgruppen.com/en/posts/flocking-quadtrees)
 * [2025-12-16, 06:26:01](https://news.ycombinator.com/item?id=46285424) - [Show HN: Autograd.c – A tiny ML framework built from scratch](https://github.com/sueszli/autograd.c)
 
 ## [Archives](archives/index.md)
