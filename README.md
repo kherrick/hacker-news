@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-12-22, 12:54:29](https://news.ycombinator.com/item?id=46353777) - [The biggest CRT ever made: Sony's PVM-4300](https://dfarq.homeip.net/the-biggest-crt-ever-made-sonys-pvm-4300/)
+* [2025-12-22, 12:40:19](https://news.ycombinator.com/item?id=46353704) - [Ask HN: My mother was scammed out of all her savings. What should I do?](https://news.ycombinator.com/item?id=46353704)
 * [2025-12-22, 11:22:14](https://news.ycombinator.com/item?id=46353261) - [Italian Competition Authority Fines Apple $115M for Abusing Dominant Position](https://en.agcm.it/en/media/press-releases/2025/12/A561)
 * [2025-12-22, 10:27:52](https://news.ycombinator.com/item?id=46352930) - [If you don't design your career, someone else will (2014)](https://gregmckeown.com/if-you-dont-design-your-career-someone-else-will/)
 * [2025-12-22, 10:19:57](https://news.ycombinator.com/item?id=46352875) - [A year of vibes](https://lucumr.pocoo.org/2025/12/22/a-year-of-vibes/)
@@ -11,7 +12,6 @@
 * [2025-12-22, 08:29:03](https://news.ycombinator.com/item?id=46352248) - [Inverse Parentheses](https://kellett.im/a/inverse-parentheses)
 * [2025-12-22, 08:24:32](https://news.ycombinator.com/item?id=46352231) - [Debian's Git Transition](https://diziet.dreamwidth.org/20436.html)
 * [2025-12-22, 02:14:32](https://news.ycombinator.com/item?id=46350641) - [Build Android apps using Rust and Iced](https://github.com/ibaryshnikov/android-iced-example)
-* [2025-12-22, 00:27:04](https://news.ycombinator.com/item?id=46350075) - [ONNX Runtime and CoreML May Silently Convert Your Model to FP16](https://ym2132.github.io/ONNX_MLProgram_NN_exploration)
 * [2025-12-21, 21:46:20](https://news.ycombinator.com/item?id=46348847) - [Disney Imagineering Debuts Next-Generation Robotic Character, Olaf](https://disneyparksblog.com/disney-experiences/robotic-olaf-marks-new-era-of-disney-innovation/)
 * [2025-12-21, 20:55:15](https://news.ycombinator.com/item?id=46348329) - [A guide to local coding models](https://www.aiforswes.com/p/you-dont-need-to-spend-100mo-on-claude)
 * [2025-12-21, 20:53:34](https://news.ycombinator.com/item?id=46348318) - [More on whether useful quantum computing is “imminent”](https://scottaaronson.blog/?p=9425)
