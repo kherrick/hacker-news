@@ -47,6 +47,7 @@
 * [2025-12-16, 16:32:16](https://news.ycombinator.com/item?id=46290617) - [Show HN: Zenflow – orchestrate coding agents without \"you're right\" loops](https://zencoder.ai/zenflow)
 * [2025-12-16, 16:12:06](https://news.ycombinator.com/item?id=46290349) - [Show HN: Picknplace.js, an alternative to drag-and-drop](https://jgthms.com/picknplace.js/)
 * [2025-12-16, 16:09:48](https://news.ycombinator.com/item?id=46290320) - [Devs say Apple still flouting EU's Digital Markets Act six months on](https://www.theregister.com/2025/12/16/apple_dma_complaint/)
+* [2025-12-16, 16:09:04](https://news.ycombinator.com/item?id=46290307) - [Star Gauge: a Chinese reversible poem formed by a 29x29 grid of characters](https://en.wikipedia.org/wiki/Star_Gauge)
 * [2025-12-16, 16:08:10](https://news.ycombinator.com/item?id=46290291) - [Parallelizing ClickHouse aggregation merge for fixed hash map](https://blog.incfly.org/parallelize-clickhouse-aggregation-merge-for-fixed-hash-map/)
 * [2025-12-16, 16:02:39](https://news.ycombinator.com/item?id=46290213) - [Show HN: My Tizen multiplayer drawing game flopped, but then hit 100M drawings](https://www.drawize.com/)
 * [2025-12-16, 15:55:45](https://news.ycombinator.com/item?id=46290113) - [AIsbom – open-source CLI to detect \"Pickle Bombs\" in PyTorch models](https://github.com/Lab700xOrg/aisbom)
