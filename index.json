@@ -1,22 +1,52 @@
 [
   [
     [
+      "2025-12-22, 19:37:34",
+      "https://news.ycombinator.com/item?id=46357945"
+    ],
+    [
+      "Ultrasound Cancer Treatment: Sound Waves Fight Tumors",
+      "https://spectrum.ieee.org/ultrasound-cancer-treatment"
+    ]
+  ],
+  [
+    [
+      "2025-12-22, 19:31:50",
+      "https://news.ycombinator.com/item?id=46357887"
+    ],
+    [
+      "US 'demolishing its scientific leadership with a wrecking ball'",
+      "https://sciencebusiness.net/news/horizon-europe/us-demolishing-its-scientific-leadership-wrecking-ball-says-chief-eu-research"
+    ]
+  ],
+  [
+    [
+      "2025-12-22, 19:31:11",
+      "https://news.ycombinator.com/item?id=46357881"
+    ],
+    [
+      "US blocks all offshore wind construction, says reason is classified",
+      "https://arstechnica.com/science/2025/12/us-government-finds-new-excuse-to-stop-construction-of-offshore-wind/"
+    ]
+  ],
+  [
+    [
+      "2025-12-22, 19:30:18",
+      "https://news.ycombinator.com/item?id=46357870"
+    ],
+    [
+      "The Garbage Collection Handbook",
+      "https://gchandbook.org/index.html"
+    ]
+  ],
+  [
+    [
       "2025-12-22, 19:15:56",
       "https://news.ycombinator.com/item?id=46357675"
     ],
     [
       "The Illustrated Transformer",
       "https://jalammar.github.io/illustrated-transformer/"
-    ]
-  ],
-  [
-    [
-      "2025-12-22, 17:53:46",
-      "https://news.ycombinator.com/item?id=46356603"
-    ],
-    [
-      "AI Bathroom Monitors? Welcome to America's New Surveillance High Schools",
-      "https://www.forbes.com/sites/thomasbrewster/2025/12/16/ai-bathroom-monitors-welcome-to-americas-new-surveillance-high-schools/"
     ]
   ],
   [
@@ -151,16 +181,6 @@
   ],
   [
     [
-      "2025-12-22, 08:42:31",
-      "https://news.ycombinator.com/item?id=46352310"
-    ],
-    [
-      "Show HN: Backlog – a public repository of real work problems",
-      "https://www.worldsbacklog.com/"
-    ]
-  ],
-  [
-    [
       "2025-12-22, 08:24:32",
       "https://news.ycombinator.com/item?id=46352231"
     ],
@@ -211,16 +231,6 @@
   ],
   [
     [
-      "2025-12-19, 13:16:57",
-      "https://news.ycombinator.com/item?id=46325475"
-    ],
-    [
-      "Webb observes exoplanet that may have an exotic helium and carbon atmosphere",
-      "https://science.nasa.gov/missions/webb/nasas-webb-observes-exoplanet-whose-composition-defies-explanation/"
-    ]
-  ],
-  [
-    [
       "2025-12-18, 17:49:10",
       "https://news.ycombinator.com/item?id=46316050"
     ],
@@ -237,6 +247,16 @@
     [
       "There's no such thing as a fake feather [video]",
       "https://www.youtube.com/watch?v=N5yV1Q9O6r4"
+    ]
+  ],
+  [
+    [
+      "2025-12-18, 14:00:50",
+      "https://news.ycombinator.com/item?id=46312755"
+    ],
+    [
+      "The Rise of SQL:the second programming language everyone needs to know",
+      "https://spectrum.ieee.org/the-rise-of-sql"
     ]
   ],
   [
@@ -277,26 +297,6 @@
     [
       "Let's write a toy UI library",
       "https://nakst.gitlab.io/tutorial/ui-part-1.html"
-    ]
-  ],
-  [
-    [
-      "2025-12-16, 10:26:52",
-      "https://news.ycombinator.com/item?id=46286906"
-    ],
-    [
-      "Functional Flocking Quadtree in ClojureScript",
-      "https://www.lbjgruppen.com/en/posts/flocking-quadtrees"
-    ]
-  ],
-  [
-    [
-      "2025-12-16, 10:13:45",
-      "https://news.ycombinator.com/item?id=46286813"
-    ],
-    [
-      "Aliasing",
-      "https://xania.org/202512/15-aliasing-in-general"
     ]
   ]
 ]
