@@ -1,22 +1,22 @@
 [
   [
     [
+      "2025-12-22, 01:43:40",
+      "https://news.ycombinator.com/item?id=46350477"
+    ],
+    [
+      "86Box v5.3",
+      "https://86box.net/2025/12/21/86box-v5-3.html"
+    ]
+  ],
+  [
+    [
       "2025-12-22, 01:25:15",
       "https://news.ycombinator.com/item?id=46350391"
     ],
     [
       "Danish postal service to stop delivering letters after 400 years",
       "https://www.theguardian.com/world/2025/dec/21/denmark-postnord-postal-delivery-letters-society"
-    ]
-  ],
-  [
-    [
-      "2025-12-22, 00:39:07",
-      "https://news.ycombinator.com/item?id=46350142"
-    ],
-    [
-      "Frozen Waymos backed up San Francisco traffic during a widespread power outage",
-      "https://www.theverge.com/news/848843/waymo-san-francisco-power-outage"
     ]
   ],
   [
@@ -181,16 +181,6 @@
   ],
   [
     [
-      "2025-12-21, 14:35:29",
-      "https://news.ycombinator.com/item?id=46345125"
-    ],
-    [
-      "Three ways to solve problems",
-      "https://andreasfragner.com/writing/three-ways-to-solve-problems"
-    ]
-  ],
-  [
-    [
       "2025-12-21, 12:57:44",
       "https://news.ycombinator.com/item?id=46344514"
     ],
@@ -231,22 +221,32 @@
   ],
   [
     [
+      "2025-12-19, 23:57:10",
+      "https://news.ycombinator.com/item?id=46332386"
+    ],
+    [
+      "Evolution by Natural Induction",
+      "https://royalsocietypublishing.org/rsfs/article/15/6/20250025/366156/Evolution-by-natural-induction"
+    ]
+  ],
+  [
+    [
+      "2025-12-19, 21:42:55",
+      "https://news.ycombinator.com/item?id=46331292"
+    ],
+    [
+      "Kernighan's Lever",
+      "https://linusakesson.net/programming/kernighans-lever/index.php"
+    ]
+  ],
+  [
+    [
       "2025-12-19, 05:49:33",
       "https://news.ycombinator.com/item?id=46322631"
     ],
     [
       "Evaluating chain-of-thought monitorability",
       "https://openai.com/index/evaluating-chain-of-thought-monitorability/"
-    ]
-  ],
-  [
-    [
-      "2025-12-18, 23:37:05",
-      "https://news.ycombinator.com/item?id=46320353"
-    ],
-    [
-      "Perron: A Static Site Generator for Ruby on Rails",
-      "https://perron-site.statichost.page/"
     ]
   ],
   [
