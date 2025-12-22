@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-12-22](index.md)
 
+* [2025-12-22, 16:05:53](https://news.ycombinator.com/item?id=46355227) - [US Administration halted largest Offshore Wind project in the U.S.](https://www.cnbc.com/2025/12/22/trump-offshore-wind-cvow-dominion.html)
+* [2025-12-22, 15:49:22](https://news.ycombinator.com/item?id=46355077) - [The U.S. Is Funding Fewer Grants in Every Area of Science and Medicine](https://www.nytimes.com/interactive/2025/12/02/upshot/trump-science-funding-cuts.html)
+* [2025-12-22, 15:38:37](https://news.ycombinator.com/item?id=46354970) - [Scaling LLMs to Larger Codebases](https://blog.kierangill.xyz/oversight-and-guidance)
 * [2025-12-22, 15:16:18](https://news.ycombinator.com/item?id=46354773) - [Origin of Hallucination in LLMs, The physical source of hallucinations has found](https://arxiv.org/abs/2512.01797)
 * [2025-12-22, 14:28:42](https://news.ycombinator.com/item?id=46354372) - [(Social) media manipulation in one image](https://kerkour.com/social-media-manipulation)
 * [2025-12-22, 12:54:29](https://news.ycombinator.com/item?id=46353777) - [The biggest CRT ever made: Sony's PVM-4300](https://dfarq.homeip.net/the-biggest-crt-ever-made-sonys-pvm-4300/)
