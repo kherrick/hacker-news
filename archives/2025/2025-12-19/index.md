@@ -5,10 +5,12 @@
 ### [Archives](../../index.md) for [2025-12-19](index.md)
 
 * [2025-12-19, 23:59:53](https://news.ycombinator.com/item?id=46332400) - [PBS News Hour West to go dark after ASU discontinues contract](https://www.statepress.com/article/2025/12/politics-pbs-newshour-west-closure)
+* [2025-12-19, 23:57:10](https://news.ycombinator.com/item?id=46332386) - [Evolution by Natural Induction](https://royalsocietypublishing.org/rsfs/article/15/6/20250025/366156/Evolution-by-natural-induction)
 * [2025-12-19, 23:17:47](https://news.ycombinator.com/item?id=46332108) - [At least $9B billed across 14 Medicaid services in Minnesota may be fraudulent](https://www.cbsnews.com/minnesota/news/billions-paid-out-by-medicaid-in-minnesota-may-be-fraudulent-us-attorney/)
 * [2025-12-19, 22:48:24](https://news.ycombinator.com/item?id=46331877) - [Anthropic says AI sentiment is positive. Their data tells a different story](https://www.playbookatlas.com/research/ai-adoption-explorer)
 * [2025-12-19, 22:13:06](https://news.ycombinator.com/item?id=46331586) - [CSS Grid Lanes](https://webkit.org/blog/17660/introducing-css-grid-lanes/)
 * [2025-12-19, 21:52:07](https://news.ycombinator.com/item?id=46331379) - [Buteyko Method](https://en.wikipedia.org/wiki/Buteyko_method)
+* [2025-12-19, 21:42:55](https://news.ycombinator.com/item?id=46331292) - [Kernighan's Lever](https://linusakesson.net/programming/kernighans-lever/index.php)
 * [2025-12-19, 21:34:10](https://news.ycombinator.com/item?id=46331216) - [A Better Zip Bomb](https://www.bamsoftware.com/hacks/zipbomb/)
 * [2025-12-19, 20:49:20](https://news.ycombinator.com/item?id=46330726) - [LLM Year in Review](https://karpathy.bearblog.dev/year-in-review-2025/)
 * [2025-12-19, 20:29:53](https://news.ycombinator.com/item?id=46330522) - [The scariest boot loader code](http://miod.online.fr/software/openbsd/stories/boot_hppa.html)
