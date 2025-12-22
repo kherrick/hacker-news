@@ -34,6 +34,7 @@
 * [2025-12-18, 17:12:46](https://news.ycombinator.com/item?id=46315547) - [Military Standard on Software Control Levels](https://entropicthoughts.com/mil-std-882e-software-control)
 * [2025-12-18, 17:04:32](https://news.ycombinator.com/item?id=46315414) - [Agent Skills is now an open standard](https://claude.com/blog/organization-skills-and-directory)
 * [2025-12-18, 16:44:11](https://news.ycombinator.com/item?id=46315047) - [Show HN: Paper2Any – Open tool to generate editable PPTs from research papers](https://github.com/OpenDCAI/DataFlow-Agent)
+* [2025-12-18, 16:37:22](https://news.ycombinator.com/item?id=46314947) - [Making the most of bit arrays in Gleam](https://gearsco.de/blog/bit-array-syntax/)
 * [2025-12-18, 16:19:48](https://news.ycombinator.com/item?id=46314684) - [Response Healing: Reduce JSON defects by 80%+](https://openrouter.ai/announcements/response-healing-reduce-json-defects-by-80percent)
 * [2025-12-18, 16:02:29](https://news.ycombinator.com/item?id=46314385) - [Show HN: Composify – Open-Source Visual Editor / Server-Driven UI for React](https://github.com/composify-js/composify)
 * [2025-12-18, 15:45:42](https://news.ycombinator.com/item?id=46314109) - [Valve Is Running Apple's Playbook in Reverse](https://www.garbagecollected.dev/p/valve-the-reverse-apple)

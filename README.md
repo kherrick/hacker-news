@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-12-22, 07:25:43](https://news.ycombinator.com/item?id=46352047) - [QBasic64 Phoenix 4.3.0 Released](https://qb64phoenix.com/forum/showthread.php?tid=4244)
 * [2025-12-22, 04:34:36](https://news.ycombinator.com/item?id=46351345) - [Cursed circuits #3: true mathematics](https://lcamtuf.substack.com/p/cursed-circuits-3-true-mathematics)
 * [2025-12-22, 02:14:32](https://news.ycombinator.com/item?id=46350641) - [Build Android apps using Rust and Iced](https://github.com/ibaryshnikov/android-iced-example)
 * [2025-12-22, 01:43:40](https://news.ycombinator.com/item?id=46350477) - [86Box v5.3](https://86box.net/2025/12/21/86box-v5-3.html)
@@ -7,7 +8,6 @@
 * [2025-12-21, 21:46:20](https://news.ycombinator.com/item?id=46348847) - [Disney Imagineering Debuts Next-Generation Robotic Character, Olaf](https://disneyparksblog.com/disney-experiences/robotic-olaf-marks-new-era-of-disney-innovation/)
 * [2025-12-21, 20:56:54](https://news.ycombinator.com/item?id=46348344) - [Show HN: Rust/WASM lighting data toolkit – parses legacy formats, generates SVGs](https://eulumdat.icu)
 * [2025-12-21, 20:55:15](https://news.ycombinator.com/item?id=46348329) - [A guide to local coding models](https://www.aiforswes.com/p/you-dont-need-to-spend-100mo-on-claude)
-* [2025-12-21, 18:43:20](https://news.ycombinator.com/item?id=46347108) - [I can't upgrade to Windows 11, now leave me alone](https://idiallo.com/byte-size/cant-update-to-windows-11-leave-me-alone)
 * [2025-12-21, 18:39:46](https://news.ycombinator.com/item?id=46347080) - [The Going Dark initiative or ProtectEU is a Chat Control 3.0 attempt](https://mastodon.online/@mullvadnet/115742530333573065)
 * [2025-12-21, 18:28:56](https://news.ycombinator.com/item?id=46346958) - [You’re not burnt out, you’re existentially starving](https://neilthanedar.com/youre-not-burnt-out-youre-existentially-starving/)
 * [2025-12-21, 16:57:57](https://news.ycombinator.com/item?id=46346214) - [Autoland saves King Air, everyone reported safe](https://avbrief.com/autoland-saves-king-air-everyone-reported-safe/)
@@ -24,12 +24,12 @@
 * [2025-12-19, 13:16:57](https://news.ycombinator.com/item?id=46325475) - [Webb observes exoplanet that may have an exotic helium and carbon atmosphere](https://science.nasa.gov/missions/webb/nasas-webb-observes-exoplanet-whose-composition-defies-explanation/)
 * [2025-12-19, 05:49:33](https://news.ycombinator.com/item?id=46322631) - [Evaluating chain-of-thought monitorability](https://openai.com/index/evaluating-chain-of-thought-monitorability/)
 * [2025-12-18, 17:49:10](https://news.ycombinator.com/item?id=46316050) - [Deliberate Internet Shutdowns](https://www.schneier.com/blog/archives/2025/12/deliberate-internet-shutdowns.html)
+* [2025-12-18, 16:37:22](https://news.ycombinator.com/item?id=46314947) - [Making the most of bit arrays in Gleam](https://gearsco.de/blog/bit-array-syntax/)
 * [2025-12-16, 21:23:18](https://news.ycombinator.com/item?id=46294694) - [I program on the subway](https://www.scd31.com/posts/programming-on-the-subway)
 * [2025-12-16, 11:19:29](https://news.ycombinator.com/item?id=46287253) - [I'm just having fun](https://jyn.dev/i-m-just-having-fun/)
 * [2025-12-16, 10:26:52](https://news.ycombinator.com/item?id=46286906) - [Functional Flocking Quadtree in ClojureScript](https://www.lbjgruppen.com/en/posts/flocking-quadtrees)
 * [2025-12-16, 10:13:45](https://news.ycombinator.com/item?id=46286813) - [Aliasing](https://xania.org/202512/15-aliasing-in-general)
 * [2025-12-16, 08:18:03](https://news.ycombinator.com/item?id=46286061) - [Single-Pass Huffman Coding](https://doisinkidney.com/posts/2018-02-17-single-pass-huffman.html)
-* [2025-12-16, 06:26:01](https://news.ycombinator.com/item?id=46285424) - [Show HN: Autograd.c – A tiny ML framework built from scratch](https://github.com/sueszli/autograd.c)
 
 ## [Archives](archives/index.md)
 
