@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-12-22](index.md)
 
+* [2025-12-22, 09:58:50](https://news.ycombinator.com/item?id=46352747) - [Well Being in Times of Algorithms](https://www.ssp.sh/blog/well-being-algorithms/)
 * [2025-12-22, 09:30:58](https://news.ycombinator.com/item?id=46352565) - [The ancient monuments saluting the winter solstice](https://www.bbc.com/culture/article/20251219-the-ancient-monuments-saluting-the-winter-solstice)
 * [2025-12-22, 09:28:55](https://news.ycombinator.com/item?id=46352545) - [Israel could be bringing back the death penalty – but only for Palestinians](https://www.cbc.ca/news/world/israel-gaza-palestinian-death-penalty-9.7019609)
 * [2025-12-22, 09:20:26](https://news.ycombinator.com/item?id=46352498) - [Perl articles are being memory wiped from Wikipedia](https://old.reddit.com/r/perl/comments/1psj81k/perlmonks_is_being_memory_wiped_on_https_and/)
