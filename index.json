@@ -1,11 +1,21 @@
 [
   [
     [
+      "2025-12-22, 04:50:17",
+      "https://news.ycombinator.com/item?id=46351408"
+    ],
+    [
+      "A middle-class family's only option: A $43,000 health insurance premium",
+      "https://www.washingtonpost.com/health/2025/12/21/obamacare-monopolies-subsidies/"
+    ]
+  ],
+  [
+    [
       "2025-12-22, 02:14:32",
       "https://news.ycombinator.com/item?id=46350641"
     ],
     [
-      "Build Android apps using Rust and iced",
+      "Build Android apps using Rust and Iced",
       "https://github.com/ibaryshnikov/android-iced-example"
     ]
   ],
@@ -17,16 +27,6 @@
     [
       "86Box v5.3",
       "https://86box.net/2025/12/21/86box-v5-3.html"
-    ]
-  ],
-  [
-    [
-      "2025-12-22, 01:25:15",
-      "https://news.ycombinator.com/item?id=46350391"
-    ],
-    [
-      "Danish postal service to stop delivering letters after 400 years",
-      "https://www.theguardian.com/world/2025/dec/21/denmark-postnord-postal-delivery-letters-society"
     ]
   ],
   [
@@ -57,6 +57,16 @@
     [
       "Disney Imagineering Debuts Next-Generation Robotic Character, Olaf",
       "https://disneyparksblog.com/disney-experiences/robotic-olaf-marks-new-era-of-disney-innovation/"
+    ]
+  ],
+  [
+    [
+      "2025-12-21, 20:56:54",
+      "https://news.ycombinator.com/item?id=46348344"
+    ],
+    [
+      "Show HN: Rust/WASM lighting data toolkit – parses legacy formats, generates SVGs",
+      "https://eulumdat.icu"
     ]
   ],
   [
@@ -185,7 +195,7 @@
       "https://news.ycombinator.com/item?id=46344412"
     ],
     [
-      "Luke Howard's Essay on the Modification of Clouds (1865)",
+      "Luke Howard’s essay on the modification of clouds (1865)",
       "https://publicdomainreview.org/collection/essay-on-the-modification-of-clouds/"
     ]
   ],
@@ -277,16 +287,6 @@
     [
       "I'm just having fun",
       "https://jyn.dev/i-m-just-having-fun/"
-    ]
-  ],
-  [
-    [
-      "2025-12-16, 10:26:52",
-      "https://news.ycombinator.com/item?id=46286906"
-    ],
-    [
-      "Functional Flocking Quadtree in ClojureScript",
-      "https://www.lbjgruppen.com/en/posts/flocking-quadtrees"
     ]
   ],
   [
