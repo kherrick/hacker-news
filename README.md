@@ -1,7 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-12-22, 15:16:18](https://news.ycombinator.com/item?id=46354773) - [Origin of Hallucination in LLMs, The physical source of hallucinations has found](https://arxiv.org/abs/2512.01797)
-* [2025-12-22, 14:28:42](https://news.ycombinator.com/item?id=46354372) - [(Social) media manipulation in one image](https://kerkour.com/social-media-manipulation)
 * [2025-12-22, 12:54:29](https://news.ycombinator.com/item?id=46353777) - [The biggest CRT ever made: Sony's PVM-4300](https://dfarq.homeip.net/the-biggest-crt-ever-made-sonys-pvm-4300/)
 * [2025-12-22, 11:22:14](https://news.ycombinator.com/item?id=46353261) - [Italian Competition Authority Fines Apple $115M for Abusing Dominant Position](https://en.agcm.it/en/media/press-releases/2025/12/A561)
 * [2025-12-22, 10:27:52](https://news.ycombinator.com/item?id=46352930) - [If you don't design your career, someone else will (2014)](https://gregmckeown.com/if-you-dont-design-your-career-someone-else-will/)
@@ -13,6 +11,7 @@
 * [2025-12-22, 08:29:03](https://news.ycombinator.com/item?id=46352248) - [Inverse Parentheses](https://kellett.im/a/inverse-parentheses)
 * [2025-12-22, 08:24:32](https://news.ycombinator.com/item?id=46352231) - [Debian's Git Transition](https://diziet.dreamwidth.org/20436.html)
 * [2025-12-22, 02:14:32](https://news.ycombinator.com/item?id=46350641) - [Build Android apps using Rust and Iced](https://github.com/ibaryshnikov/android-iced-example)
+* [2025-12-22, 00:27:04](https://news.ycombinator.com/item?id=46350075) - [ONNX Runtime and CoreML May Silently Convert Your Model to FP16](https://ym2132.github.io/ONNX_MLProgram_NN_exploration)
 * [2025-12-21, 21:46:20](https://news.ycombinator.com/item?id=46348847) - [Disney Imagineering Debuts Next-Generation Robotic Character, Olaf](https://disneyparksblog.com/disney-experiences/robotic-olaf-marks-new-era-of-disney-innovation/)
 * [2025-12-21, 20:55:15](https://news.ycombinator.com/item?id=46348329) - [A guide to local coding models](https://www.aiforswes.com/p/you-dont-need-to-spend-100mo-on-claude)
 * [2025-12-21, 20:53:34](https://news.ycombinator.com/item?id=46348318) - [More on whether useful quantum computing is “imminent”](https://scottaaronson.blog/?p=9425)
@@ -25,6 +24,7 @@
 * [2025-12-19, 21:42:55](https://news.ycombinator.com/item?id=46331292) - [Kernighan's Lever](https://linusakesson.net/programming/kernighans-lever/index.php)
 * [2025-12-19, 13:16:57](https://news.ycombinator.com/item?id=46325475) - [Webb observes exoplanet that may have an exotic helium and carbon atmosphere](https://science.nasa.gov/missions/webb/nasas-webb-observes-exoplanet-whose-composition-defies-explanation/)
 * [2025-12-18, 17:49:10](https://news.ycombinator.com/item?id=46316050) - [Deliberate Internet Shutdowns](https://www.schneier.com/blog/archives/2025/12/deliberate-internet-shutdowns.html)
+* [2025-12-18, 17:14:44](https://news.ycombinator.com/item?id=46315581) - [There's no such thing as a fake feather [video]](https://www.youtube.com/watch?v=N5yV1Q9O6r4)
 * [2025-12-17, 18:10:23](https://news.ycombinator.com/item?id=46303211) - [Decompiling the Synergy: Human–LLM Teaming in Reverse Engineering [pdf]](https://www.zionbasque.com/files/papers/dec-synergy-study.pdf)
 * [2025-12-16, 13:08:46](https://news.ycombinator.com/item?id=46288042) - [Microsoft will kill obsolete cipher that has wreaked decades of havoc](https://arstechnica.com/security/2025/12/microsoft-will-finally-kill-obsolete-cipher-that-has-wreaked-decades-of-havoc/)
 * [2025-12-16, 11:19:29](https://news.ycombinator.com/item?id=46287253) - [I'm just having fun](https://jyn.dev/i-m-just-having-fun/)
