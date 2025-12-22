@@ -85,6 +85,7 @@
 * [2025-12-16, 11:19:11](https://news.ycombinator.com/item?id=46287251) - [EU household real income per capita up 22% since 2004](https://ec.europa.eu/eurostat/web/products-eurostat-news/w/ddn-20251125-2)
 * [2025-12-16, 10:56:40](https://news.ycombinator.com/item?id=46287098) - [Should we fear Microsoft's monopoly?](https://www.cursor.tue.nl/en/background/2025/december/week-2/should-we-fear-microsofts-monopoly)
 * [2025-12-16, 10:51:30](https://news.ycombinator.com/item?id=46287067) - [What I Learned About Deploying AV1 from Two Deployers](https://streaminglearningcenter.com/articles/what-i-learned-about-deploying-av1-from-two-deployers.html)
+* [2025-12-16, 10:31:40](https://news.ycombinator.com/item?id=46286935) - [Let's write a toy UI library](https://nakst.gitlab.io/tutorial/ui-part-1.html)
 * [2025-12-16, 10:26:52](https://news.ycombinator.com/item?id=46286906) - [Functional Flocking Quadtree in ClojureScript](https://www.lbjgruppen.com/en/posts/flocking-quadtrees)
 * [2025-12-16, 10:13:45](https://news.ycombinator.com/item?id=46286813) - [Aliasing](https://xania.org/202512/15-aliasing-in-general)
 * [2025-12-16, 09:51:31](https://news.ycombinator.com/item?id=46286666) - [ArkhamMirror: Airgapped investigation platform with CIA-style hypothesis testing](https://github.com/mantisfury/ArkhamMirror)

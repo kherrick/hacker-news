@@ -4,9 +4,11 @@
 
 ### [Archives](../../index.md) for [2025-12-22](index.md)
 
+* [2025-12-22, 18:41:40](https://news.ycombinator.com/item?id=46357227) - [People Have Died in Crashes Where Tesla Doors Wouldn't Open](https://www.bloomberg.com/news/features/2025-12-22/tesla-door-safety-tied-to-at-least-15-auto-accident-deaths)
 * [2025-12-22, 17:53:46](https://news.ycombinator.com/item?id=46356603) - [AI Bathroom Monitors? Welcome to America's New Surveillance High Schools](https://www.forbes.com/sites/thomasbrewster/2025/12/16/ai-bathroom-monitors-welcome-to-americas-new-surveillance-high-schools/)
 * [2025-12-22, 17:32:18](https://news.ycombinator.com/item?id=46356320) - [Henge Finder](https://hengefinder.rcdis.co/#learn)
 * [2025-12-22, 17:19:44](https://news.ycombinator.com/item?id=46356182) - [Benn Jordan – This Flock Camera Leak Is Like Netflix for Stalkers [video]](https://www.youtube.com/watch?v=vU1-uiUlHTo)
+* [2025-12-22, 17:01:28](https://news.ycombinator.com/item?id=46355949) - [NIST was 5 μs off UTC after last week's power cut](https://www.jeffgeerling.com/blog/2025/nist-was-5-μs-utc-after-last-weeks-power-cut)
 * [2025-12-22, 17:00:34](https://news.ycombinator.com/item?id=46355932) - [Uplane (YC F25) Is Hiring Founding Engineers (Full-Stack and AI)](https://www.useparallel.com/uplane1/careers)
 * [2025-12-22, 16:56:35](https://news.ycombinator.com/item?id=46355888) - [Jimmy Lai Is a Martyr for Freedom](https://reason.com/2025/12/19/jimmy-lai-is-a-martyr-for-freedom/)
 * [2025-12-22, 16:55:43](https://news.ycombinator.com/item?id=46355879) - [Mystery as YouTube creator's finance livestream appears on White House website](https://apnews.com/article/white-house-website-youtube-livestream-88d79b896ca6e5ecea33f3bf3e5c9278)
