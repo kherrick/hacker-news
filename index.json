@@ -111,16 +111,6 @@
   ],
   [
     [
-      "2025-12-22, 15:16:18",
-      "https://news.ycombinator.com/item?id=46354773"
-    ],
-    [
-      "On the Existence, Impact, and Origin of Hallucination-Associated Neurons in LLMs",
-      "https://arxiv.org/abs/2512.01797"
-    ]
-  ],
-  [
-    [
       "2025-12-22, 12:54:29",
       "https://news.ycombinator.com/item?id=46353777"
     ],
@@ -287,6 +277,16 @@
     [
       "Let's write a toy UI library",
       "https://nakst.gitlab.io/tutorial/ui-part-1.html"
+    ]
+  ],
+  [
+    [
+      "2025-12-16, 10:26:52",
+      "https://news.ycombinator.com/item?id=46286906"
+    ],
+    [
+      "Functional Flocking Quadtree in ClojureScript",
+      "https://www.lbjgruppen.com/en/posts/flocking-quadtrees"
     ]
   ],
   [
