@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-12-22, 18:39:30](https://news.ycombinator.com/item?id=46357194) - [I know you didn't write this](https://ammil.industries/i-know-you-didnt-write-this/)
+* [2025-12-22, 19:15:56](https://news.ycombinator.com/item?id=46357675) - [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/)
 * [2025-12-22, 17:53:46](https://news.ycombinator.com/item?id=46356603) - [AI Bathroom Monitors? Welcome to America's New Surveillance High Schools](https://www.forbes.com/sites/thomasbrewster/2025/12/16/ai-bathroom-monitors-welcome-to-americas-new-surveillance-high-schools/)
 * [2025-12-22, 17:32:18](https://news.ycombinator.com/item?id=46356320) - [Henge Finder](https://hengefinder.rcdis.co/#learn)
 * [2025-12-22, 17:19:44](https://news.ycombinator.com/item?id=46356182) - [Benn Jordan – This Flock Camera Leak Is Like Netflix for Stalkers [video]](https://www.youtube.com/watch?v=vU1-uiUlHTo)

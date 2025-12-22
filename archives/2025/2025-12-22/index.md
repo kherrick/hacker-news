@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-12-22](index.md)
 
+* [2025-12-22, 19:15:56](https://news.ycombinator.com/item?id=46357675) - [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/)
 * [2025-12-22, 18:41:40](https://news.ycombinator.com/item?id=46357227) - [People Have Died in Crashes Where Tesla Doors Wouldn't Open](https://www.bloomberg.com/news/features/2025-12-22/tesla-door-safety-tied-to-at-least-15-auto-accident-deaths)
 * [2025-12-22, 18:39:30](https://news.ycombinator.com/item?id=46357194) - [I know you didn't write this](https://ammil.industries/i-know-you-didnt-write-this/)
 * [2025-12-22, 17:53:46](https://news.ycombinator.com/item?id=46356603) - [AI Bathroom Monitors? Welcome to America's New Surveillance High Schools](https://www.forbes.com/sites/thomasbrewster/2025/12/16/ai-bathroom-monitors-welcome-to-americas-new-surveillance-high-schools/)
