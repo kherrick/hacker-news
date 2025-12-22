@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-12-22, 07:25:43",
+      "https://news.ycombinator.com/item?id=46352047"
+    ],
+    [
+      "QBasic64 Phoenix 4.3.0 Released",
+      "https://qb64phoenix.com/forum/showthread.php?tid=4244"
+    ]
+  ],
+  [
+    [
       "2025-12-22, 04:34:36",
       "https://news.ycombinator.com/item?id=46351345"
     ],
@@ -67,16 +77,6 @@
     [
       "A guide to local coding models",
       "https://www.aiforswes.com/p/you-dont-need-to-spend-100mo-on-claude"
-    ]
-  ],
-  [
-    [
-      "2025-12-21, 18:43:20",
-      "https://news.ycombinator.com/item?id=46347108"
-    ],
-    [
-      "I can't upgrade to Windows 11, now leave me alone",
-      "https://idiallo.com/byte-size/cant-update-to-windows-11-leave-me-alone"
     ]
   ],
   [
@@ -241,6 +241,16 @@
   ],
   [
     [
+      "2025-12-18, 16:37:22",
+      "https://news.ycombinator.com/item?id=46314947"
+    ],
+    [
+      "Making the most of bit arrays in Gleam",
+      "https://gearsco.de/blog/bit-array-syntax/"
+    ]
+  ],
+  [
+    [
       "2025-12-16, 21:23:18",
       "https://news.ycombinator.com/item?id=46294694"
     ],
@@ -287,16 +297,6 @@
     [
       "Single-Pass Huffman Coding",
       "https://doisinkidney.com/posts/2018-02-17-single-pass-huffman.html"
-    ]
-  ],
-  [
-    [
-      "2025-12-16, 06:26:01",
-      "https://news.ycombinator.com/item?id=46285424"
-    ],
-    [
-      "Show HN: Autograd.c – A tiny ML framework built from scratch",
-      "https://github.com/sueszli/autograd.c"
     ]
   ]
 ]
