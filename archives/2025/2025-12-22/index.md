@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-12-22](index.md)
 
+* [2025-12-22, 22:35:45](https://news.ycombinator.com/item?id=46359996) - [NPM Package with 56K Downloads Caught Stealing WhatsApp Messages](https://www.koi.ai/blog/npm-package-with-56k-downloads-malware-stealing-whatsapp-messages)
 * [2025-12-22, 22:03:07](https://news.ycombinator.com/item?id=46359683) - [Tc – Theodore Calvin's language-agnostic testing framework](https://github.com/ahoward/tc)
 * [2025-12-22, 21:44:45](https://news.ycombinator.com/item?id=46359515) - [DOJ uploaded a 12-SEC video showing Epstein attempting suicide?](https://twitter.com/rtwlz/status/2003211685650374823)
 * [2025-12-22, 21:33:51](https://news.ycombinator.com/item?id=46359396) - [I'm tired of Hacker News slop](https://blog.absurdpirate.com/im-tired-of-hacker-news-slop/)
