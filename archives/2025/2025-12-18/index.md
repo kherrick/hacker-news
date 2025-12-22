@@ -49,6 +49,7 @@
 * [2025-12-18, 14:49:24](https://news.ycombinator.com/item?id=46313266) - [Spain fines Airbnb €65M: Why the government is cracking down on illegal rentals](https://www.euronews.com/travel/2025/12/15/spain-fines-airbnb-65-million-why-the-government-is-cracking-down-on-illegal-rentals)
 * [2025-12-18, 14:26:57](https://news.ycombinator.com/item?id=46313061) - [Are Apple Gift Cards Safe to Redeem?](https://daringfireball.net/linked/2025/12/17/are-apple-gift-cards-safe-to-redeem)
 * [2025-12-18, 14:24:26](https://news.ycombinator.com/item?id=46313033) - [systemd v259 Released](https://github.com/systemd/systemd/releases/tag/v259)
+* [2025-12-18, 14:23:34](https://news.ycombinator.com/item?id=46313024) - [Engineering dogmas it's time to retire](https://newsletter.manager.dev/p/5-engineering-dogmas-its-time-to)
 * [2025-12-18, 14:18:52](https://news.ycombinator.com/item?id=46312973) - [Please Just Try Htmx](http://pleasejusttryhtmx.com/)
 * [2025-12-18, 14:04:03](https://news.ycombinator.com/item?id=46312792) - [Virtualizing Nvidia HGX B200 GPUs with Open Source](https://www.ubicloud.com/blog/virtualizing-nvidia-hgx-b200-gpus-with-open-source)
 * [2025-12-18, 13:39:41](https://news.ycombinator.com/item?id=46312481) - [Partial Inlining](https://xania.org/202512/18-partial-inlining)
