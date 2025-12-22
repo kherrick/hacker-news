@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-12-22](index.md)
 
+* [2025-12-22, 09:30:58](https://news.ycombinator.com/item?id=46352565) - [The ancient monuments saluting the winter solstice](https://www.bbc.com/culture/article/20251219-the-ancient-monuments-saluting-the-winter-solstice)
 * [2025-12-22, 09:28:55](https://news.ycombinator.com/item?id=46352545) - [Israel could be bringing back the death penalty – but only for Palestinians](https://www.cbc.ca/news/world/israel-gaza-palestinian-death-penalty-9.7019609)
+* [2025-12-22, 09:20:26](https://news.ycombinator.com/item?id=46352498) - [Perl articles are being memory wiped from Wikipedia](https://old.reddit.com/r/perl/comments/1psj81k/perlmonks_is_being_memory_wiped_on_https_and/)
 * [2025-12-22, 08:29:03](https://news.ycombinator.com/item?id=46352248) - [Inverse Parentheses](https://kellett.im/a/inverse-parentheses)
 * [2025-12-22, 07:25:43](https://news.ycombinator.com/item?id=46352047) - [QBasic64 Phoenix 4.3.0 Released](https://qb64phoenix.com/forum/showthread.php?tid=4244)
 * [2025-12-22, 07:13:33](https://news.ycombinator.com/item?id=46352004) - [I announced my divorce on Instagram and then AI impersonated me](https://eiratansey.com/2025/12/20/i-announced-my-divorce-on-instagram-and-then-ai-impersonated-me/)
