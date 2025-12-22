@@ -81,6 +81,7 @@
 * [2025-12-16, 12:17:08](https://news.ycombinator.com/item?id=46287626) - [Detailed balance in large language model-driven agents](https://arxiv.org/abs/2512.10047)
 * [2025-12-16, 12:12:58](https://news.ycombinator.com/item?id=46287596) - [Thomas Piketty: 'The reality is the US is losing control of the world'](https://www.lemonde.fr/en/opinion/article/2025/04/12/thomas-piketty-the-reality-is-the-us-is-losing-control-of-the-world_6740140_23.html)
 * [2025-12-16, 12:01:55](https://news.ycombinator.com/item?id=46287521) - [Cekura (YC F24) Is Hiring](https://www.ycombinator.com/companies/cekura-ai/jobs/YFeQADI-product-engineer-us)
+* [2025-12-16, 11:52:55](https://news.ycombinator.com/item?id=46287464) - [How do SSDs change database design?](https://brooker.co.za:443/blog/2025/12/15/database-for-ssd.html)
 * [2025-12-16, 11:19:29](https://news.ycombinator.com/item?id=46287253) - [I'm Just Having Fun](https://jyn.dev/i-m-just-having-fun/)
 * [2025-12-16, 11:19:11](https://news.ycombinator.com/item?id=46287251) - [EU household real income per capita up 22% since 2004](https://ec.europa.eu/eurostat/web/products-eurostat-news/w/ddn-20251125-2)
 * [2025-12-16, 10:56:40](https://news.ycombinator.com/item?id=46287098) - [Should we fear Microsoft's monopoly?](https://www.cursor.tue.nl/en/background/2025/december/week-2/should-we-fear-microsofts-monopoly)
