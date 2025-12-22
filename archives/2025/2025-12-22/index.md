@@ -4,13 +4,18 @@
 
 ### [Archives](../../index.md) for [2025-12-22](index.md)
 
+* [2025-12-22, 17:53:46](https://news.ycombinator.com/item?id=46356603) - [AI Bathroom Monitors? Welcome to America's New Surveillance High Schools](https://www.forbes.com/sites/thomasbrewster/2025/12/16/ai-bathroom-monitors-welcome-to-americas-new-surveillance-high-schools/)
+* [2025-12-22, 17:32:18](https://news.ycombinator.com/item?id=46356320) - [Henge Finder](https://hengefinder.rcdis.co/#learn)
 * [2025-12-22, 17:19:44](https://news.ycombinator.com/item?id=46356182) - [Benn Jordan – This Flock Camera Leak Is Like Netflix for Stalkers [video]](https://www.youtube.com/watch?v=vU1-uiUlHTo)
 * [2025-12-22, 17:00:34](https://news.ycombinator.com/item?id=46355932) - [Uplane (YC F25) Is Hiring Founding Engineers (Full-Stack and AI)](https://www.useparallel.com/uplane1/careers)
 * [2025-12-22, 16:56:35](https://news.ycombinator.com/item?id=46355888) - [Jimmy Lai Is a Martyr for Freedom](https://reason.com/2025/12/19/jimmy-lai-is-a-martyr-for-freedom/)
+* [2025-12-22, 16:55:43](https://news.ycombinator.com/item?id=46355879) - [Mystery as YouTube creator's finance livestream appears on White House website](https://apnews.com/article/white-house-website-youtube-livestream-88d79b896ca6e5ecea33f3bf3e5c9278)
 * [2025-12-22, 16:50:22](https://news.ycombinator.com/item?id=46355793) - [Spotify reportedly investigating Anna's Archive's scraping of their library](https://www.billboard.com/business/streaming/spotify-music-library-leak-1236143970/)
 * [2025-12-22, 16:31:40](https://news.ycombinator.com/item?id=46355548) - [Flock Exposed Its AI-Powered Cameras to the Internet. We Tracked Ourselves](https://www.404media.co/flock-exposed-its-ai-powered-cameras-to-the-internet-we-tracked-ourselves/)
 * [2025-12-22, 16:15:58](https://news.ycombinator.com/item?id=46355364) - [Ask HN: What would you do if you didn't work in tech?](https://news.ycombinator.com/item?id=46355364)
+* [2025-12-22, 16:14:43](https://news.ycombinator.com/item?id=46355345) - [Your Supabase Is Public](https://skilldeliver.com/your-supabase-is-public)
 * [2025-12-22, 16:05:53](https://news.ycombinator.com/item?id=46355227) - [US Administration halted largest Offshore Wind project in the U.S.](https://www.cnbc.com/2025/12/22/trump-offshore-wind-cvow-dominion.html)
+* [2025-12-22, 15:59:01](https://news.ycombinator.com/item?id=46355165) - [Claude Code gets native LSP support](https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md)
 * [2025-12-22, 15:49:22](https://news.ycombinator.com/item?id=46355077) - [The U.S. Is Funding Fewer Grants in Every Area of Science and Medicine](https://www.nytimes.com/interactive/2025/12/02/upshot/trump-science-funding-cuts.html)
 * [2025-12-22, 15:38:37](https://news.ycombinator.com/item?id=46354970) - [Scaling LLMs to Larger Codebases](https://blog.kierangill.xyz/oversight-and-guidance)
 * [2025-12-22, 15:16:18](https://news.ycombinator.com/item?id=46354773) - [Origin of Hallucination in LLMs, The physical source of hallucinations has found](https://arxiv.org/abs/2512.01797)
