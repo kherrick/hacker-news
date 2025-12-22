@@ -129,26 +129,135 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
-        <section id="46351105">
+        <section id="46350641">
           <h3>
             <a
               class="item"
-              href="https://www.npr.org/2025/12/21/nx-s1-5651317/colorado-us-official-time-microseconds-nist-clocks"
-              >A power outage in Colorado caused U.S. official time be 4.8
-              microseconds off</a
+              href="https://github.com/ibaryshnikov/android-iced-example"
+              >Build Android apps using Rust and iced</a
             >
           </h3>
           <section>
             <h4>
-              <span>2025-12-22 @ 03:48:00</span
+              <span>2025-12-22 @ 02:14:32</span
               ><span class="points-container"
-                >Points: <span class="points">7</span></span
+                >Points: <span class="points">21</span></span
               ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=46351105"
+                ><a href="https://news.ycombinator.com/item?id=46350641"
                   >Comments</a
-                ><span class="descendants">: 1</span></span
+                ><span class="descendants">: 3</span></span
               >
             </h4>
+            <div class="text">
+              <p>
+                First things, I want to thank all the people who work on the
+                foundational crates and tools such as: -
+                <a href="https://github.com/rust-mobile/android-activity"
+                  >https://github.com/rust-mobile/android-activity</a
+                >
+                -
+                <a href="https://github.com/jni-rs/jni-rs"
+                  >https://github.com/jni-rs/jni-rs</a
+                >
+                -
+                <a href="https://github.com/gfx-rs/wgpu"
+                  >https://github.com/gfx-rs/wgpu</a
+                >
+                -
+                <a href="https://github.com/rust-windowing/winit"
+                  >https://github.com/rust-windowing/winit</a
+                >
+                - and many others
+              </p>
+              <p>
+                When I started I had to learn what tools and examples already
+                exist. Luckily, there's a good set of examples using both
+                NativeActivity and GameActivity:
+                <a href="https://github.com/rust-mobile/rust-android-examples"
+                  >https://github.com/rust-mobile/rust-android-examples</a
+                >
+              </p>
+              <p>
+                The basic approach is that we take android-activity, winit and
+                wgpu and that's it. On top of that you can find a few egui
+                examples in the rust-android-examples repo.
+              </p>
+              <p>
+                Alright, so after I've got the basic examples running, I wanted
+                to combine them with iced. Iced is a crossplatform gui library
+                focusing on desktop and web. The mobile support is explicitly a
+                non-goal, as far as I can tell at the moment of writing. Yet,
+                there's an issue where some people posted their experiments.
+                That's how I knew it was possible:
+                <a href="https://github.com/iced-rs/iced/issues/302"
+                  >https://github.com/iced-rs/iced/issues/302</a
+                >
+              </p>
+              <p>
+                There's a way to integrate iced in wgpu applications, so called
+                integration example:
+                <a
+                  href="https://github.com/iced-rs/iced/tree/0.14.0/examples/integration"
+                  >https://github.com/iced-rs/iced/tree/0.14.0/examples/integra...</a
+                >
+              </p>
+              <p>
+                Above I mentioned that using winit and wgpu in combination with
+                android-activity is enough to build the app. Putting together 1
+                + 1 I got 2: let's use iced integration example with
+                android-activity. It was quite easy to compile with almost no
+                errors. First issue I encountered is that there was no text
+                rendered. I solved this by loading fonts the way it was shown
+                here:
+                <a
+                  href="https://github.com/pop-os/cosmic-text/issues/243#issue-2189977938"
+                  >https://github.com/pop-os/cosmic-text/issues/243#issue-21899...</a
+                >
+              </p>
+              <p>
+                Then I patched a few widgets to add touch support. And that's
+                it. My role here was to take all the prior work and combine it
+                together in a way that there's a working example.
+              </p>
+              <p>
+                Some other ways of building Android apps using Rust: - xilem has
+                an explicit goal to support mobile
+                <a href="https://github.com/linebender/xilem"
+                  >https://github.com/linebender/xilem</a
+                >
+                - egui supports mobile
+                <a href="https://github.com/emilk/egui"
+                  >https://github.com/emilk/egui</a
+                >
+                - game engines such as Fyrox and Bevy support mobile: -
+                <a href="https://github.com/FyroxEngine/Fyrox"
+                  >https://github.com/FyroxEngine/Fyrox</a
+                >
+                -
+                <a href="https://github.com/bevyengine/bevy"
+                  >https://github.com/bevyengine/bevy</a
+                >
+                - pretty much anything built on top of winit and wgpu
+              </p>
+              <p>
+                All of the above is related to building native apps using either
+                NativeActivity or GameActivity. I'm leaving webview out of scope
+                of current post.
+              </p>
+              <p>
+                What about iOS? As far as I know it should be similar or maybe
+                simpler compared to Android. I haven't built it yet, but the
+                next time I have a sizeable amount of free time, I'll try to
+                make it work. The plan is the same: pick winit, wgpu, iced
+                integration example, mix it together until it works. It'll
+                require the same trick to load fonts, and maybe something else,
+                but no visible blockers as of now.
+              </p>
+              <p>
+                Once again, thanks to all the people who made it possible and I
+                wish you have a great time building mobile apps with Rust!
+              </p>
+            </div>
           </section>
         </section>
         <section id="46350477">
@@ -161,7 +270,7 @@
             <h4>
               <span>2025-12-22 @ 01:43:40</span
               ><span class="points-container"
-                >Points: <span class="points">41</span></span
+                >Points: <span class="points">44</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46350477"
                   >Comments</a
@@ -183,11 +292,11 @@
             <h4>
               <span>2025-12-22 @ 01:25:15</span
               ><span class="points-container"
-                >Points: <span class="points">52</span></span
+                >Points: <span class="points">56</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46350391"
                   >Comments</a
-                ><span class="descendants">: 35</span></span
+                ><span class="descendants">: 38</span></span
               >
             </h4>
           </section>
@@ -205,7 +314,7 @@
             <h4>
               <span>2025-12-22 @ 00:27:04</span
               ><span class="points-container"
-                >Points: <span class="points">50</span></span
+                >Points: <span class="points">52</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46350075"
                   >Comments</a
@@ -226,11 +335,11 @@
             <h4>
               <span>2025-12-21 @ 23:42:34</span
               ><span class="points-container"
-                >Points: <span class="points">48</span></span
+                >Points: <span class="points">52</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46349808"
                   >Comments</a
-                ><span class="descendants">: 30</span></span
+                ><span class="descendants">: 34</span></span
               >
             </h4>
           </section>
@@ -248,11 +357,11 @@
             <h4>
               <span>2025-12-21 @ 21:46:20</span
               ><span class="points-container"
-                >Points: <span class="points">142</span></span
+                >Points: <span class="points">145</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46348847"
                   >Comments</a
-                ><span class="descendants">: 54</span></span
+                ><span class="descendants">: 61</span></span
               >
             </h4>
           </section>
@@ -269,30 +378,11 @@
             <h4>
               <span>2025-12-21 @ 20:55:15</span
               ><span class="points-container"
-                >Points: <span class="points">305</span></span
+                >Points: <span class="points">314</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46348329"
                   >Comments</a
-                ><span class="descendants">: 143</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="46348262">
-          <h3>
-            <a class="item" href="https://rue-lang.dev/"
-              >Rue: Higher level than Rust, lower level than Go</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2025-12-21 @ 20:46:02</span
-              ><span class="points-container"
-                >Points: <span class="points">112</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=46348262"
-                  >Comments</a
-                ><span class="descendants">: 82</span></span
+                ><span class="descendants">: 156</span></span
               >
             </h4>
           </section>
@@ -309,11 +399,11 @@
             <h4>
               <span>2025-12-21 @ 18:43:20</span
               ><span class="points-container"
-                >Points: <span class="points">414</span></span
+                >Points: <span class="points">421</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46347108"
                   >Comments</a
-                ><span class="descendants">: 371</span></span
+                ><span class="descendants">: 381</span></span
               >
             </h4>
           </section>
@@ -331,11 +421,11 @@
             <h4>
               <span>2025-12-21 @ 18:39:46</span
               ><span class="points-container"
-                >Points: <span class="points">497</span></span
+                >Points: <span class="points">504</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46347080"
                   >Comments</a
-                ><span class="descendants">: 165</span></span
+                ><span class="descendants">: 166</span></span
               >
             </h4>
           </section>
@@ -352,32 +442,11 @@
             <h4>
               <span>2025-12-21 @ 18:28:56</span
               ><span class="points-container"
-                >Points: <span class="points">253</span></span
+                >Points: <span class="points">258</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46346958"
                   >Comments</a
-                ><span class="descendants">: 295</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="46346391">
-          <h3>
-            <a
-              class="item"
-              href="https://oldmanrahul.com/2025/12/19/ai-code-review-trick/"
-              >Get an AI code review in 10 seconds</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2025-12-21 @ 17:21:05</span
-              ><span class="points-container"
-                >Points: <span class="points">116</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=46346391"
-                  >Comments</a
-                ><span class="descendants">: 57</span></span
+                ><span class="descendants">: 310</span></span
               >
             </h4>
           </section>
@@ -394,11 +463,11 @@
             <h4>
               <span>2025-12-21 @ 16:57:57</span
               ><span class="points-container"
-                >Points: <span class="points">172</span></span
+                >Points: <span class="points">175</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46346214"
                   >Comments</a
-                ><span class="descendants">: 102</span></span
+                ><span class="descendants">: 105</span></span
               >
             </h4>
           </section>
@@ -415,11 +484,11 @@
             <h4>
               <span>2025-12-21 @ 16:21:04</span
               ><span class="points-container"
-                >Points: <span class="points">379</span></span
+                >Points: <span class="points">382</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46345897"
                   >Comments</a
-                ><span class="descendants">: 142</span></span
+                ><span class="descendants">: 145</span></span
               >
             </h4>
           </section>
@@ -434,7 +503,7 @@
             <h4>
               <span>2025-12-21 @ 16:04:05</span
               ><span class="points-container"
-                >Points: <span class="points">331</span></span
+                >Points: <span class="points">333</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46345745"
                   >Comments</a
@@ -483,11 +552,11 @@
             <h4>
               <span>2025-12-21 @ 15:27:36</span
               ><span class="points-container"
-                >Points: <span class="points">178</span></span
+                >Points: <span class="points">183</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46345506"
                   >Comments</a
-                ><span class="descendants">: 154</span></span
+                ><span class="descendants">: 161</span></span
               >
             </h4>
           </section>
@@ -523,30 +592,52 @@
             <h4>
               <span>2025-12-21 @ 15:06:46</span
               ><span class="points-container"
-                >Points: <span class="points">122</span></span
+                >Points: <span class="points">127</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46345333"
                   >Comments</a
-                ><span class="descendants">: 59</span></span
+                ><span class="descendants">: 60</span></span
               >
             </h4>
           </section>
         </section>
-        <section id="46344514">
+        <section id="46345157">
           <h3>
-            <a class="item" href="https://borretti.me/article/coarse-is-better"
-              >Coarse is better</a
+            <a class="item" href="https://github.com/zayokami/GenresFox"
+              >Show HN: GenresFox – Open-source, customizable new tab page
+              extension in WASM</a
             >
           </h3>
           <section>
             <h4>
-              <span>2025-12-21 @ 12:57:44</span
+              <span>2025-12-21 @ 14:40:03</span
               ><span class="points-container"
-                >Points: <span class="points">195</span></span
+                >Points: <span class="points">5</span></span
               ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=46344514"
+                ><a href="https://news.ycombinator.com/item?id=46345157"
                   >Comments</a
-                ><span class="descendants">: 102</span></span
+                ><span class="descendants">: 5</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="46344412">
+          <h3>
+            <a
+              class="item"
+              href="https://publicdomainreview.org/collection/essay-on-the-modification-of-clouds/"
+              >Luke Howard's Essay on the Modification of Clouds (1865)</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2025-12-21 @ 12:38:25</span
+              ><span class="points-container"
+                >Points: <span class="points">4</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=46344412"
+                  >Comments</a
+                ><span class="descendants">: 0</span></span
               >
             </h4>
           </section>
@@ -561,11 +652,11 @@
             <h4>
               <span>2025-12-21 @ 07:06:48</span
               ><span class="points-container"
-                >Points: <span class="points">375</span></span
+                >Points: <span class="points">377</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46342859"
                   >Comments</a
-                ><span class="descendants">: 148</span></span
+                ><span class="descendants">: 151</span></span
               >
             </h4>
           </section>
@@ -583,11 +674,11 @@
             <h4>
               <span>2025-12-21 @ 05:21:42</span
               ><span class="points-container"
-                >Points: <span class="points">225</span></span
+                >Points: <span class="points">226</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46342447"
                   >Comments</a
-                ><span class="descendants">: 172</span></span
+                ><span class="descendants">: 173</span></span
               >
             </h4>
           </section>
@@ -605,11 +696,11 @@
             <h4>
               <span>2025-12-21 @ 05:12:03</span
               ><span class="points-container"
-                >Points: <span class="points">228</span></span
+                >Points: <span class="points">230</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46342412"
                   >Comments</a
-                ><span class="descendants">: 327</span></span
+                ><span class="descendants">: 333</span></span
               >
             </h4>
           </section>
@@ -626,11 +717,33 @@
             <h4>
               <span>2025-12-19 @ 21:42:55</span
               ><span class="points-container"
-                >Points: <span class="points">17</span></span
+                >Points: <span class="points">23</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46331292"
                   >Comments</a
                 ><span class="descendants">: 6</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="46325475">
+          <h3>
+            <a
+              class="item"
+              href="https://science.nasa.gov/missions/webb/nasas-webb-observes-exoplanet-whose-composition-defies-explanation/"
+              >Webb observes exoplanet that may have an exotic helium and carbon
+              atmosphere</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2025-12-19 @ 13:16:57</span
+              ><span class="points-container"
+                >Points: <span class="points">12</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=46325475"
+                  >Comments</a
+                ><span class="descendants">: 3</span></span
               >
             </h4>
           </section>
@@ -647,11 +760,11 @@
             <h4>
               <span>2025-12-19 @ 05:49:33</span
               ><span class="points-container"
-                >Points: <span class="points">42</span></span
+                >Points: <span class="points">44</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46322631"
                   >Comments</a
-                ><span class="descendants">: 11</span></span
+                ><span class="descendants">: 15</span></span
               >
             </h4>
           </section>
@@ -668,97 +781,13 @@
             <h4>
               <span>2025-12-18 @ 17:49:10</span
               ><span class="points-container"
-                >Points: <span class="points">82</span></span
+                >Points: <span class="points">96</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46316050"
                   >Comments</a
-                ><span class="descendants">: 21</span></span
+                ><span class="descendants">: 31</span></span
               >
             </h4>
-          </section>
-        </section>
-        <section id="46298855">
-          <h3>
-            <a
-              class="item"
-              href="https://github.com/nikitph/bloomin/tree/master/negative-vector-experiment"
-              >Why “negative vectors” can't delete data in FAISS – but weighted
-              kernels can</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2025-12-17 @ 06:26:59</span
-              ><span class="points-container"
-                >Points: <span class="points">20</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=46298855"
-                  >Comments</a
-                ><span class="descendants">: 4</span></span
-              >
-            </h4>
-            <div class="text">
-              <p>Standard FAISS-style indices store vectors and compute:</p>
-              <p>argmax ⟨q, vᵢ⟩</p>
-              <p>
-                If you insert -v, nothing happens. It’s just another point. The
-                original vector is still maximally similar to itself and remains
-                rank-1.
-              </p>
-              <p>
-                This isn’t a bug—it’s a consequence of selection-based
-                retrieval.
-              </p>
-              <p>
-                If instead you store (vector, weight) pairs and evaluate: φ(q) =
-                Σ wᵢ · K(q, vᵢ)
-              </p>
-              <p>
-                you get a different object entirely: a field, not a selection.
-                Now inserting the same vector with w = −1 causes destructive
-                interference. The contribution cancels. The attractor
-                disappears.
-              </p>
-              <p>
-                Deletion becomes O(1) append-only (add the inverse), not a
-                structural rebuild.
-              </p>
-              <p>
-                FAISS-style: Vec&lt;Vec&lt;f32&gt;&gt; → argmax (selection)
-                Weighted form: Vec&lt;(Vec&lt;f32&gt;, f32)&gt; → Σ (field)
-              </p>
-              <p>
-                We validated this on 100k vectors: • FAISS: target stays rank-1
-                after “deletion” • Field-based model: exact cancellation (φ →
-                0), target unretrievable
-              </p>
-              <p>
-                The deeper point is that this isn’t a trick—it’s a semantic
-                separation. • FAISS implements a selection operator over
-                discrete points. • The weighted version implements a field
-                operator where vectors act as kernels in a continuous potential.
-                • Retrieval becomes gradient ascent to local maxima. • Deletion
-                becomes destructive interference that removes attractors.
-              </p>
-              <p>
-                This shifts deletion from structural (modify index, rebuild,
-                filter) to algebraic (append an inverse element). You get
-                append-only logs, reversible unlearning, and auditable deletion
-                records. The negative weight is the proof.
-              </p>
-              <p>
-                Implication: current vector DBs can’t guarantee GDPR/CCPA
-                erasure without reconstruction. Field-based retrieval
-                can—provably.
-              </p>
-              <p>
-                Paper with proofs:
-                <a
-                  href="https://github.com/nikitph/bloomin/blob/master/negative-vector-experiment/paper/main.pdf"
-                  >https://github.com/nikitph/bloomin/blob/master/negative-vect...</a
-                >
-              </p>
-            </div>
           </section>
         </section>
         <section id="46294694">
@@ -773,11 +802,11 @@
             <h4>
               <span>2025-12-16 @ 21:23:18</span
               ><span class="points-container"
-                >Points: <span class="points">192</span></span
+                >Points: <span class="points">195</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46294694"
                   >Comments</a
-                ><span class="descendants">: 127</span></span
+                ><span class="descendants">: 129</span></span
               >
             </h4>
           </section>
@@ -792,11 +821,32 @@
             <h4>
               <span>2025-12-16 @ 11:19:29</span
               ><span class="points-container"
-                >Points: <span class="points">234</span></span
+                >Points: <span class="points">247</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46287253"
                   >Comments</a
-                ><span class="descendants">: 65</span></span
+                ><span class="descendants">: 74</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="46286906">
+          <h3>
+            <a
+              class="item"
+              href="https://www.lbjgruppen.com/en/posts/flocking-quadtrees"
+              >Functional Flocking Quadtree in ClojureScript</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2025-12-16 @ 10:26:52</span
+              ><span class="points-container"
+                >Points: <span class="points">4</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=46286906"
+                  >Comments</a
+                ><span class="descendants">: 0</span></span
               >
             </h4>
           </section>
@@ -811,7 +861,7 @@
             <h4>
               <span>2025-12-16 @ 06:26:01</span
               ><span class="points-container"
-                >Points: <span class="points">68</span></span
+                >Points: <span class="points">71</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46285424"
                   >Comments</a
