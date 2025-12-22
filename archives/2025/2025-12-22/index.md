@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-12-22](index.md)
 
+* [2025-12-22, 16:15:58](https://news.ycombinator.com/item?id=46355364) - [Ask HN: What would you do if you didn't work in tech?](https://news.ycombinator.com/item?id=46355364)
 * [2025-12-22, 16:05:53](https://news.ycombinator.com/item?id=46355227) - [US Administration halted largest Offshore Wind project in the U.S.](https://www.cnbc.com/2025/12/22/trump-offshore-wind-cvow-dominion.html)
 * [2025-12-22, 15:49:22](https://news.ycombinator.com/item?id=46355077) - [The U.S. Is Funding Fewer Grants in Every Area of Science and Medicine](https://www.nytimes.com/interactive/2025/12/02/upshot/trump-science-funding-cuts.html)
 * [2025-12-22, 15:38:37](https://news.ycombinator.com/item?id=46354970) - [Scaling LLMs to Larger Codebases](https://blog.kierangill.xyz/oversight-and-guidance)
