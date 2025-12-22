@@ -1,7 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-12-22, 10:27:52](https://news.ycombinator.com/item?id=46352930) - [If You Don't Design Your Career, Someone Else Will](https://gregmckeown.com/if-you-dont-design-your-career-someone-else-will/)
 * [2025-12-22, 09:58:50](https://news.ycombinator.com/item?id=46352747) - [Well Being in Times of Algorithms](https://www.ssp.sh/blog/well-being-algorithms/)
 * [2025-12-22, 09:30:58](https://news.ycombinator.com/item?id=46352565) - [The ancient monuments saluting the winter solstice](https://www.bbc.com/culture/article/20251219-the-ancient-monuments-saluting-the-winter-solstice)
+* [2025-12-22, 09:01:11](https://news.ycombinator.com/item?id=46352405) - [Cartoon Network channel errors (1995 – 2025)](https://cnas.fandom.com/wiki/Channel_Errors)
+* [2025-12-22, 08:42:31](https://news.ycombinator.com/item?id=46352310) - [Show HN: Backlog – a public repository of real work problems](https://www.worldsbacklog.com/)
 * [2025-12-22, 08:29:03](https://news.ycombinator.com/item?id=46352248) - [Inverse Parentheses](https://kellett.im/a/inverse-parentheses)
 * [2025-12-22, 07:25:43](https://news.ycombinator.com/item?id=46352047) - [QBasic64 Phoenix 4.3.0 Released](https://qb64phoenix.com/forum/showthread.php?tid=4244)
 * [2025-12-22, 04:34:36](https://news.ycombinator.com/item?id=46351345) - [Cursed circuits #3: true mathematics](https://lcamtuf.substack.com/p/cursed-circuits-3-true-mathematics)
@@ -12,7 +15,6 @@
 * [2025-12-21, 20:55:15](https://news.ycombinator.com/item?id=46348329) - [A guide to local coding models](https://www.aiforswes.com/p/you-dont-need-to-spend-100mo-on-claude)
 * [2025-12-21, 20:53:34](https://news.ycombinator.com/item?id=46348318) - [More on whether useful quantum computing is “imminent”](https://scottaaronson.blog/?p=9425)
 * [2025-12-21, 20:46:02](https://news.ycombinator.com/item?id=46348262) - [Rue: Higher level than Rust, lower level than Go](https://rue-lang.dev/)
-* [2025-12-21, 18:39:46](https://news.ycombinator.com/item?id=46347080) - [The Going Dark initiative or ProtectEU is a Chat Control 3.0 attempt](https://mastodon.online/@mullvadnet/115742530333573065)
 * [2025-12-21, 16:21:04](https://news.ycombinator.com/item?id=46345897) - [Show HN: Books mentioned on Hacker News in 2025](https://hackernews-readings-613604506318.us-west1.run.app)
 * [2025-12-21, 16:04:05](https://news.ycombinator.com/item?id=46345745) - [Show HN: WalletWallet – create Apple passes from anything](https://walletwallet.alen.ro/)
 * [2025-12-21, 15:27:36](https://news.ycombinator.com/item?id=46345506) - [CO2 batteries that store grid energy take off globally](https://spectrum.ieee.org/co2-battery-energy-storage)
@@ -20,7 +22,6 @@
 * [2025-12-20, 18:40:45](https://news.ycombinator.com/item?id=46338437) - [Programming languages used for music](https://timthompson.com/plum/cgi/showlist.cgi?sort=name&concise=yes)
 * [2025-12-19, 21:42:55](https://news.ycombinator.com/item?id=46331292) - [Kernighan's Lever](https://linusakesson.net/programming/kernighans-lever/index.php)
 * [2025-12-19, 13:16:57](https://news.ycombinator.com/item?id=46325475) - [Webb observes exoplanet that may have an exotic helium and carbon atmosphere](https://science.nasa.gov/missions/webb/nasas-webb-observes-exoplanet-whose-composition-defies-explanation/)
-* [2025-12-19, 05:49:33](https://news.ycombinator.com/item?id=46322631) - [Evaluating chain-of-thought monitorability](https://openai.com/index/evaluating-chain-of-thought-monitorability/)
 * [2025-12-18, 17:49:10](https://news.ycombinator.com/item?id=46316050) - [Deliberate Internet Shutdowns](https://www.schneier.com/blog/archives/2025/12/deliberate-internet-shutdowns.html)
 * [2025-12-18, 16:37:22](https://news.ycombinator.com/item?id=46314947) - [Making the most of bit arrays in Gleam](https://gearsco.de/blog/bit-array-syntax/)
 * [2025-12-18, 14:23:34](https://news.ycombinator.com/item?id=46313024) - [Engineering dogmas it's time to retire](https://newsletter.manager.dev/p/5-engineering-dogmas-its-time-to)
@@ -29,7 +30,6 @@
 * [2025-12-16, 11:19:29](https://news.ycombinator.com/item?id=46287253) - [I'm just having fun](https://jyn.dev/i-m-just-having-fun/)
 * [2025-12-16, 10:26:52](https://news.ycombinator.com/item?id=46286906) - [Functional Flocking Quadtree in ClojureScript](https://www.lbjgruppen.com/en/posts/flocking-quadtrees)
 * [2025-12-16, 10:13:45](https://news.ycombinator.com/item?id=46286813) - [Aliasing](https://xania.org/202512/15-aliasing-in-general)
-* [2025-12-16, 08:18:03](https://news.ycombinator.com/item?id=46286061) - [Single-Pass Huffman Coding](https://doisinkidney.com/posts/2018-02-17-single-pass-huffman.html)
 
 ## [Archives](archives/index.md)
 
