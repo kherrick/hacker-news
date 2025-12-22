@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-12-22](index.md)
 
+* [2025-12-22, 21:03:04](https://news.ycombinator.com/item?id=46359042) - [Feds demand compromise on Colorado River while states flounder](https://nevadacurrent.com/2025/12/22/feds-demand-compromise-on-colorado-river-states-flounder-despite-water-shoratge/)
 * [2025-12-22, 20:12:20](https://news.ycombinator.com/item?id=46358437) - [Vince Zampella, Developer of Call of Duty and Battlefield, Dead at 55](https://comicbook.com/gaming/news/vince-zampella-developer-of-call-of-duty-and-battlefield-dead-at-55/)
 * [2025-12-22, 19:37:34](https://news.ycombinator.com/item?id=46357945) - [Ultrasound Cancer Treatment: Sound Waves Fight Tumors](https://spectrum.ieee.org/ultrasound-cancer-treatment)
 * [2025-12-22, 19:31:50](https://news.ycombinator.com/item?id=46357887) - [US 'demolishing its scientific leadership with a wrecking ball'](https://sciencebusiness.net/news/horizon-europe/us-demolishing-its-scientific-leadership-wrecking-ball-says-chief-eu-research)
@@ -11,6 +12,7 @@
 * [2025-12-22, 19:30:18](https://news.ycombinator.com/item?id=46357870) - [The Garbage Collection Handbook](https://gchandbook.org/index.html)
 * [2025-12-22, 19:15:56](https://news.ycombinator.com/item?id=46357675) - [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/)
 * [2025-12-22, 19:06:16](https://news.ycombinator.com/item?id=46357535) - [State regulators vote to keep utility profits high angering customers across CA](https://www.latimes.com/environment/story/2025-12-18/state-regulators-vote-to-keep-utility-profits-high-angering-customers)
+* [2025-12-22, 18:59:22](https://news.ycombinator.com/item?id=46357458) - [Universal Reasoning Model (53.8% pass 1 ARC1 and 16.0% ARC 2)](https://arxiv.org/abs/2512.14693)
 * [2025-12-22, 18:58:45](https://news.ycombinator.com/item?id=46357451) - [Things I learnt about passkeys when building passkeybot](https://enzom.dev/b/passkeys/)
 * [2025-12-22, 18:46:32](https://news.ycombinator.com/item?id=46357287) - [GLM-4.7: Advancing the Coding Capability](https://z.ai/blog/glm-4.7)
 * [2025-12-22, 18:41:40](https://news.ycombinator.com/item?id=46357227) - [People Have Died in Crashes Where Tesla Doors Wouldn't Open](https://www.bloomberg.com/news/features/2025-12-22/tesla-door-safety-tied-to-at-least-15-auto-accident-deaths)
