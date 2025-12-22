@@ -51,16 +51,6 @@
   ],
   [
     [
-      "2025-12-22, 09:13:57",
-      "https://news.ycombinator.com/item?id=46352459"
-    ],
-    [
-      "BMW Patents Proprietary Screws That Only Dealerships Can Remove",
-      "https://carbuzz.com/bmw-roundel-logo-screw-patent/"
-    ]
-  ],
-  [
-    [
       "2025-12-22, 09:01:11",
       "https://news.ycombinator.com/item?id=46352405"
     ],
@@ -121,6 +111,16 @@
   ],
   [
     [
+      "2025-12-22, 00:27:04",
+      "https://news.ycombinator.com/item?id=46350075"
+    ],
+    [
+      "ONNX Runtime and CoreML May Silently Convert Your Model to FP16",
+      "https://ym2132.github.io/ONNX_MLProgram_NN_exploration"
+    ]
+  ],
+  [
+    [
       "2025-12-21, 21:46:20",
       "https://news.ycombinator.com/item?id=46348847"
     ],
@@ -177,16 +177,6 @@
     [
       "CO2 batteries that store grid energy take off globally",
       "https://spectrum.ieee.org/co2-battery-energy-storage"
-    ]
-  ],
-  [
-    [
-      "2025-12-21, 14:46:53",
-      "https://news.ycombinator.com/item?id=46345205"
-    ],
-    [
-      "How I protect my Forgejo instance from AI web crawlers",
-      "https://her.esy.fun/posts/0031-how-i-protect-my-forgejo-instance-from-ai-web-crawlers/index.html"
     ]
   ],
   [
@@ -257,6 +247,16 @@
     [
       "A Guide to Magnetizing N48 Magnets in Ansys Maxwell",
       "https://blog.ozeninc.com/resources/from-datasheet-to-demagnetization-a-guide-to-magnetizing-n48-magnets-in-ansys-maxwell"
+    ]
+  ],
+  [
+    [
+      "2025-12-16, 16:51:19",
+      "https://news.ycombinator.com/item?id=46290875"
+    ],
+    [
+      "Lightning: Real-time editing for tiled map data",
+      "https://felt.com/blog/lightning-tiles"
     ]
   ],
   [
