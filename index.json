@@ -61,16 +61,6 @@
   ],
   [
     [
-      "2025-12-22, 04:34:36",
-      "https://news.ycombinator.com/item?id=46351345"
-    ],
-    [
-      "Cursed circuits #3: true mathematics",
-      "https://lcamtuf.substack.com/p/cursed-circuits-3-true-mathematics"
-    ]
-  ],
-  [
-    [
       "2025-12-22, 02:14:32",
       "https://news.ycombinator.com/item?id=46350641"
     ],
@@ -137,6 +127,16 @@
     [
       "Rue: Higher level than Rust, lower level than Go",
       "https://rue-lang.dev/"
+    ]
+  ],
+  [
+    [
+      "2025-12-21, 18:39:46",
+      "https://news.ycombinator.com/item?id=46347080"
+    ],
+    [
+      "The Going Dark initiative or ProtectEU is a Chat Control 3.0 attempt",
+      "https://mastodon.online/@mullvadnet/115742530333573065"
     ]
   ],
   [
@@ -211,16 +211,6 @@
   ],
   [
     [
-      "2025-12-19, 05:49:33",
-      "https://news.ycombinator.com/item?id=46322631"
-    ],
-    [
-      "Evaluating chain-of-thought monitorability",
-      "https://openai.com/index/evaluating-chain-of-thought-monitorability/"
-    ]
-  ],
-  [
-    [
       "2025-12-18, 17:49:10",
       "https://news.ycombinator.com/item?id=46316050"
     ],
@@ -237,6 +227,16 @@
     [
       "Making the most of bit arrays in Gleam",
       "https://gearsco.de/blog/bit-array-syntax/"
+    ]
+  ],
+  [
+    [
+      "2025-12-17, 18:10:23",
+      "https://news.ycombinator.com/item?id=46303211"
+    ],
+    [
+      "Decompiling the Synergy: Human–LLM Teaming in Reverse Engineering [pdf]",
+      "https://www.zionbasque.com/files/papers/dec-synergy-study.pdf"
     ]
   ],
   [
