@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-12-22](index.md)
 
+* [2025-12-22, 03:48:00](https://news.ycombinator.com/item?id=46351105) - [A power outage in Colorado caused U.S. official time be 4.8 microseconds off](https://www.npr.org/2025/12/21/nx-s1-5651317/colorado-us-official-time-microseconds-nist-clocks)
 * [2025-12-22, 01:43:40](https://news.ycombinator.com/item?id=46350477) - [86Box v5.3](https://86box.net/2025/12/21/86box-v5-3.html)
 * [2025-12-22, 01:25:15](https://news.ycombinator.com/item?id=46350391) - [Danish postal service to stop delivering letters after 400 years](https://www.theguardian.com/world/2025/dec/21/denmark-postnord-postal-delivery-letters-society)
 * [2025-12-22, 00:39:07](https://news.ycombinator.com/item?id=46350142) - [Frozen Waymos backed up San Francisco traffic during a widespread power outage](https://www.theverge.com/news/848843/waymo-san-francisco-power-outage)

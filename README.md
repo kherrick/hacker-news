@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-12-22, 03:48:00](https://news.ycombinator.com/item?id=46351105) - [A power outage in Colorado caused U.S. official time be 4.8 microseconds off](https://www.npr.org/2025/12/21/nx-s1-5651317/colorado-us-official-time-microseconds-nist-clocks)
 * [2025-12-22, 01:43:40](https://news.ycombinator.com/item?id=46350477) - [86Box v5.3](https://86box.net/2025/12/21/86box-v5-3.html)
 * [2025-12-22, 01:25:15](https://news.ycombinator.com/item?id=46350391) - [Danish postal service to stop delivering letters after 400 years](https://www.theguardian.com/world/2025/dec/21/denmark-postnord-postal-delivery-letters-society)
 * [2025-12-22, 00:27:04](https://news.ycombinator.com/item?id=46350075) - [ONNX Runtime and CoreML May Silently Convert Your Model to FP16](https://ym2132.github.io/ONNX_MLProgram_NN_exploration)
@@ -22,7 +23,6 @@
 * [2025-12-21, 07:06:48](https://news.ycombinator.com/item?id=46342859) - [Ruby website redesigned](https://www.ruby-lang.org/en/)
 * [2025-12-21, 05:21:42](https://news.ycombinator.com/item?id=46342447) - [Indoor tanning makes youthful skin much older on a genetic level](https://www.ucsf.edu/news/2025/12/431206/indoor-tanning-makes-youthful-skin-much-older-genetic-level)
 * [2025-12-21, 05:12:03](https://news.ycombinator.com/item?id=46342412) - [Waymo halts service during S.F. blackout after causing traffic jams](https://missionlocal.org/2025/12/sf-waymo-halts-service-blackout/)
-* [2025-12-19, 23:57:10](https://news.ycombinator.com/item?id=46332386) - [Evolution by Natural Induction](https://royalsocietypublishing.org/rsfs/article/15/6/20250025/366156/Evolution-by-natural-induction)
 * [2025-12-19, 21:42:55](https://news.ycombinator.com/item?id=46331292) - [Kernighan's Lever](https://linusakesson.net/programming/kernighans-lever/index.php)
 * [2025-12-19, 05:49:33](https://news.ycombinator.com/item?id=46322631) - [Evaluating chain-of-thought monitorability](https://openai.com/index/evaluating-chain-of-thought-monitorability/)
 * [2025-12-18, 17:49:10](https://news.ycombinator.com/item?id=46316050) - [Deliberate Internet Shutdowns](https://www.schneier.com/blog/archives/2025/12/deliberate-internet-shutdowns.html)
