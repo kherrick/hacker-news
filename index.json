@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-12-22, 08:29:03",
+      "https://news.ycombinator.com/item?id=46352248"
+    ],
+    [
+      "Inverse Parentheses",
+      "https://kellett.im/a/inverse-parentheses"
+    ]
+  ],
+  [
+    [
       "2025-12-22, 07:25:43",
       "https://news.ycombinator.com/item?id=46352047"
     ],
@@ -37,16 +47,6 @@
     [
       "ONNX Runtime and CoreML May Silently Convert Your Model to FP16",
       "https://ym2132.github.io/ONNX_MLProgram_NN_exploration"
-    ]
-  ],
-  [
-    [
-      "2025-12-21, 23:42:34",
-      "https://news.ycombinator.com/item?id=46349808"
-    ],
-    [
-      "I wish people were more public",
-      "https://borretti.me/article/i-wish-people-were-more-public"
     ]
   ],
   [
@@ -121,16 +121,6 @@
   ],
   [
     [
-      "2025-12-21, 16:57:57",
-      "https://news.ycombinator.com/item?id=46346214"
-    ],
-    [
-      "Autoland saves King Air, everyone reported safe",
-      "https://avbrief.com/autoland-saves-king-air-everyone-reported-safe/"
-    ]
-  ],
-  [
-    [
       "2025-12-21, 16:21:04",
       "https://news.ycombinator.com/item?id=46345897"
     ],
@@ -151,22 +141,22 @@
   ],
   [
     [
-      "2025-12-21, 15:29:31",
-      "https://news.ycombinator.com/item?id=46345523"
-    ],
-    [
-      "E.W.Dijkstra Archive",
-      "https://www.cs.utexas.edu/~EWD/welcome.html"
-    ]
-  ],
-  [
-    [
       "2025-12-21, 15:27:36",
       "https://news.ycombinator.com/item?id=46345506"
     ],
     [
       "CO2 batteries that store grid energy take off globally",
       "https://spectrum.ieee.org/co2-battery-energy-storage"
+    ]
+  ],
+  [
+    [
+      "2025-12-21, 14:46:53",
+      "https://news.ycombinator.com/item?id=46345205"
+    ],
+    [
+      "How I protect my Forgejo instance from AI web crawlers",
+      "https://her.esy.fun/posts/0031-how-i-protect-my-forgejo-instance-from-ai-web-crawlers/index.html"
     ]
   ],
   [
@@ -181,12 +171,12 @@
   ],
   [
     [
-      "2025-12-21, 07:06:48",
-      "https://news.ycombinator.com/item?id=46342859"
+      "2025-12-20, 18:40:45",
+      "https://news.ycombinator.com/item?id=46338437"
     ],
     [
-      "Ruby website redesigned",
-      "https://www.ruby-lang.org/en/"
+      "Programming languages used for music",
+      "https://timthompson.com/plum/cgi/showlist.cgi?sort=name&concise=yes"
     ]
   ],
   [
@@ -257,6 +247,16 @@
     [
       "I program on the subway",
       "https://www.scd31.com/posts/programming-on-the-subway"
+    ]
+  ],
+  [
+    [
+      "2025-12-16, 16:51:19",
+      "https://news.ycombinator.com/item?id=46290875"
+    ],
+    [
+      "Lightning: Real-time editing for tiled map data",
+      "https://felt.com/blog/lightning-tiles"
     ]
   ],
   [
