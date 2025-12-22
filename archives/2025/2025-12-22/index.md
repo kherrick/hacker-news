@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-12-22](index.md)
 
 * [2025-12-22, 12:54:29](https://news.ycombinator.com/item?id=46353777) - [The biggest CRT ever made: Sony's PVM-4300](https://dfarq.homeip.net/the-biggest-crt-ever-made-sonys-pvm-4300/)
+* [2025-12-22, 11:22:14](https://news.ycombinator.com/item?id=46353261) - [Italian Competition Authority Fines Apple $115M for Abusing Dominant Position](https://en.agcm.it/en/media/press-releases/2025/12/A561)
 * [2025-12-22, 10:27:52](https://news.ycombinator.com/item?id=46352930) - [If You Don't Design Your Career, Someone Else Will](https://gregmckeown.com/if-you-dont-design-your-career-someone-else-will/)
 * [2025-12-22, 10:19:57](https://news.ycombinator.com/item?id=46352875) - [A year of vibes](https://lucumr.pocoo.org/2025/12/22/a-year-of-vibes/)
 * [2025-12-22, 09:58:50](https://news.ycombinator.com/item?id=46352747) - [Well Being in Times of Algorithms](https://www.ssp.sh/blog/well-being-algorithms/)
