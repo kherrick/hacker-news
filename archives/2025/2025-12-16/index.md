@@ -82,6 +82,7 @@
 * [2025-12-16, 11:19:11](https://news.ycombinator.com/item?id=46287251) - [EU household real income per capita up 22% since 2004](https://ec.europa.eu/eurostat/web/products-eurostat-news/w/ddn-20251125-2)
 * [2025-12-16, 10:56:40](https://news.ycombinator.com/item?id=46287098) - [Should we fear Microsoft's monopoly?](https://www.cursor.tue.nl/en/background/2025/december/week-2/should-we-fear-microsofts-monopoly)
 * [2025-12-16, 10:51:30](https://news.ycombinator.com/item?id=46287067) - [What I Learned About Deploying AV1 from Two Deployers](https://streaminglearningcenter.com/articles/what-i-learned-about-deploying-av1-from-two-deployers.html)
+* [2025-12-16, 10:26:52](https://news.ycombinator.com/item?id=46286906) - [Functional Flocking Quadtree in ClojureScript](https://www.lbjgruppen.com/en/posts/flocking-quadtrees)
 * [2025-12-16, 09:51:31](https://news.ycombinator.com/item?id=46286666) - [ArkhamMirror: Airgapped investigation platform with CIA-style hypothesis testing](https://github.com/mantisfury/ArkhamMirror)
 * [2025-12-16, 09:38:42](https://news.ycombinator.com/item?id=46286559) - [I'm a Tech Lead, and nobody listens to me. What should I do?](https://world.hey.com/joaoqalves/i-m-a-tech-lead-and-nobody-listens-to-me-what-should-i-do-e16e454d)
 * [2025-12-16, 09:33:22](https://news.ycombinator.com/item?id=46286533) - [Chomsky and the Two Cultures of Statistical Learning](https://norvig.com/chomsky.html)
