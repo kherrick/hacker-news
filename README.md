@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-12-22, 16:15:58](https://news.ycombinator.com/item?id=46355364) - [Ask HN: What would you do if you didn't work in tech?](https://news.ycombinator.com/item?id=46355364)
-* [2025-12-22, 16:05:53](https://news.ycombinator.com/item?id=46355227) - [US Administration halted largest Offshore Wind project in the U.S.](https://www.cnbc.com/2025/12/22/trump-offshore-wind-cvow-dominion.html)
 * [2025-12-22, 15:49:22](https://news.ycombinator.com/item?id=46355077) - [The U.S. Is Funding Fewer Grants in Every Area of Science and Medicine](https://www.nytimes.com/interactive/2025/12/02/upshot/trump-science-funding-cuts.html)
 * [2025-12-22, 15:38:37](https://news.ycombinator.com/item?id=46354970) - [Scaling LLMs to Larger Codebases](https://blog.kierangill.xyz/oversight-and-guidance)
 * [2025-12-22, 12:54:29](https://news.ycombinator.com/item?id=46353777) - [The biggest CRT ever made: Sony's PVM-4300](https://dfarq.homeip.net/the-biggest-crt-ever-made-sonys-pvm-4300/)
@@ -21,6 +20,7 @@
 * [2025-12-21, 14:46:53](https://news.ycombinator.com/item?id=46345205) - [How I protect my Forgejo instance from AI web crawlers](https://her.esy.fun/posts/0031-how-i-protect-my-forgejo-instance-from-ai-web-crawlers/index.html)
 * [2025-12-20, 18:40:45](https://news.ycombinator.com/item?id=46338437) - [Programming languages used for music](https://timthompson.com/plum/cgi/showlist.cgi?sort=name&concise=yes)
 * [2025-12-19, 21:50:52](https://news.ycombinator.com/item?id=46331364) - [Show HN: Netrinos – A keep it simple Mesh VPN for small teams](https://netrinos.com)
+* [2025-12-19, 21:42:55](https://news.ycombinator.com/item?id=46331292) - [Kernighan's Lever](https://linusakesson.net/programming/kernighans-lever/index.php)
 * [2025-12-19, 13:16:57](https://news.ycombinator.com/item?id=46325475) - [Webb observes exoplanet that may have an exotic helium and carbon atmosphere](https://science.nasa.gov/missions/webb/nasas-webb-observes-exoplanet-whose-composition-defies-explanation/)
 * [2025-12-18, 17:49:10](https://news.ycombinator.com/item?id=46316050) - [Deliberate Internet Shutdowns](https://www.schneier.com/blog/archives/2025/12/deliberate-internet-shutdowns.html)
 * [2025-12-18, 17:14:44](https://news.ycombinator.com/item?id=46315581) - [There's no such thing as a fake feather [video]](https://www.youtube.com/watch?v=N5yV1Q9O6r4)
