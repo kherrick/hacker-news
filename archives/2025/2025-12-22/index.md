@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-12-22](index.md)
 
+* [2025-12-22, 15:16:18](https://news.ycombinator.com/item?id=46354773) - [Origin of Hallucination in LLMs, The physical source of hallucinations has found](https://arxiv.org/abs/2512.01797)
 * [2025-12-22, 14:28:42](https://news.ycombinator.com/item?id=46354372) - [(Social) media manipulation in one image](https://kerkour.com/social-media-manipulation)
 * [2025-12-22, 12:54:29](https://news.ycombinator.com/item?id=46353777) - [The biggest CRT ever made: Sony's PVM-4300](https://dfarq.homeip.net/the-biggest-crt-ever-made-sonys-pvm-4300/)
 * [2025-12-22, 11:22:14](https://news.ycombinator.com/item?id=46353261) - [Italian Competition Authority Fines Apple $115M for Abusing Dominant Position](https://en.agcm.it/en/media/press-releases/2025/12/A561)
