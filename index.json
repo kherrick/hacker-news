@@ -1,12 +1,32 @@
 [
   [
     [
-      "2025-12-22, 21:33:51",
-      "https://news.ycombinator.com/item?id=46359396"
+      "2025-12-22, 22:03:07",
+      "https://news.ycombinator.com/item?id=46359683"
     ],
     [
-      "I'm tired of Hacker News slop",
-      "https://blog.absurdpirate.com/im-tired-of-hacker-news-slop/"
+      "Tc – Theodore Calvin's language-agnostic testing framework",
+      "https://github.com/ahoward/tc"
+    ]
+  ],
+  [
+    [
+      "2025-12-22, 21:44:45",
+      "https://news.ycombinator.com/item?id=46359515"
+    ],
+    [
+      "DOJ uploaded a 12-SEC video showing Epstein attempting suicide?",
+      "https://twitter.com/rtwlz/status/2003211685650374823"
+    ]
+  ],
+  [
+    [
+      "2025-12-22, 21:09:59",
+      "https://news.ycombinator.com/item?id=46359120"
+    ],
+    [
+      "It's Always TCP_NODELAY",
+      "https://brooker.co.za/blog/2024/05/09/nagle.html"
     ]
   ],
   [
@@ -91,16 +111,6 @@
   ],
   [
     [
-      "2025-12-22, 19:06:16",
-      "https://news.ycombinator.com/item?id=46357535"
-    ],
-    [
-      "State regulators vote to keep utility profits high angering customers across CA",
-      "https://www.latimes.com/environment/story/2025-12-18/state-regulators-vote-to-keep-utility-profits-high-angering-customers"
-    ]
-  ],
-  [
-    [
       "2025-12-22, 18:59:22",
       "https://news.ycombinator.com/item?id=46357458"
     ],
@@ -167,6 +177,16 @@
     [
       "Jimmy Lai Is a Martyr for Freedom",
       "https://reason.com/2025/12/19/jimmy-lai-is-a-martyr-for-freedom/"
+    ]
+  ],
+  [
+    [
+      "2025-12-22, 16:31:40",
+      "https://news.ycombinator.com/item?id=46355548"
+    ],
+    [
+      "Flock Exposed Its AI-Powered Cameras to the Internet. We Tracked Ourselves",
+      "https://www.404media.co/flock-exposed-its-ai-powered-cameras-to-the-internet-we-tracked-ourselves/"
     ]
   ],
   [
@@ -251,32 +271,12 @@
   ],
   [
     [
-      "2025-12-19, 21:50:52",
-      "https://news.ycombinator.com/item?id=46331364"
-    ],
-    [
-      "Show HN: Netrinos – A keep it simple Mesh VPN for small teams",
-      "https://netrinos.com"
-    ]
-  ],
-  [
-    [
       "2025-12-18, 19:14:38",
       "https://news.ycombinator.com/item?id=46317166"
     ],
     [
       "Show HN: It's Like Clay but in Google Sheets",
       "https://www.getvurge.com/"
-    ]
-  ],
-  [
-    [
-      "2025-12-18, 17:14:44",
-      "https://news.ycombinator.com/item?id=46315581"
-    ],
-    [
-      "There's no such thing as a fake feather [video]",
-      "https://www.youtube.com/watch?v=N5yV1Q9O6r4"
     ]
   ],
   [
@@ -291,12 +291,12 @@
   ],
   [
     [
-      "2025-12-17, 21:07:18",
-      "https://news.ycombinator.com/item?id=46305516"
+      "2025-12-17, 19:19:00",
+      "https://news.ycombinator.com/item?id=46304195"
     ],
     [
-      "Show HN: An easy way of broadcasting radio around you (looking for feedback)",
-      "https://github.com/dpipstudio/botwave"
+      "How the RESISTORS put computing into 1960s counter-culture",
+      "https://spectrum.ieee.org/teenage-hackers"
     ]
   ]
 ]
