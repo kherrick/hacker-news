@@ -11,7 +11,6 @@
 * [2025-12-22, 16:14:43](https://news.ycombinator.com/item?id=46355345) - [Your Supabase Is Public](https://skilldeliver.com/your-supabase-is-public)
 * [2025-12-22, 15:59:01](https://news.ycombinator.com/item?id=46355165) - [Claude Code gets native LSP support](https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md)
 * [2025-12-22, 15:38:37](https://news.ycombinator.com/item?id=46354970) - [Scaling LLMs to Larger Codebases](https://blog.kierangill.xyz/oversight-and-guidance)
-* [2025-12-22, 15:16:18](https://news.ycombinator.com/item?id=46354773) - [On the Existence, Impact, and Origin of Hallucination-Associated Neurons in LLMs](https://arxiv.org/abs/2512.01797)
 * [2025-12-22, 12:54:29](https://news.ycombinator.com/item?id=46353777) - [The biggest CRT ever made: Sony's PVM-4300](https://dfarq.homeip.net/the-biggest-crt-ever-made-sonys-pvm-4300/)
 * [2025-12-22, 10:27:52](https://news.ycombinator.com/item?id=46352930) - [If you don't design your career, someone else will (2014)](https://gregmckeown.com/if-you-dont-design-your-career-someone-else-will/)
 * [2025-12-22, 10:19:57](https://news.ycombinator.com/item?id=46352875) - [A year of vibes](https://lucumr.pocoo.org/2025/12/22/a-year-of-vibes/)
@@ -29,6 +28,7 @@
 * [2025-12-17, 18:10:23](https://news.ycombinator.com/item?id=46303211) - [Decompiling the Synergy: Human–LLM Teaming in Reverse Engineering [pdf]](https://www.zionbasque.com/files/papers/dec-synergy-study.pdf)
 * [2025-12-16, 13:08:46](https://news.ycombinator.com/item?id=46288042) - [Microsoft will kill obsolete cipher that has wreaked decades of havoc](https://arstechnica.com/security/2025/12/microsoft-will-finally-kill-obsolete-cipher-that-has-wreaked-decades-of-havoc/)
 * [2025-12-16, 10:31:40](https://news.ycombinator.com/item?id=46286935) - [Let's write a toy UI library](https://nakst.gitlab.io/tutorial/ui-part-1.html)
+* [2025-12-16, 10:26:52](https://news.ycombinator.com/item?id=46286906) - [Functional Flocking Quadtree in ClojureScript](https://www.lbjgruppen.com/en/posts/flocking-quadtrees)
 * [2025-12-16, 10:13:45](https://news.ycombinator.com/item?id=46286813) - [Aliasing](https://xania.org/202512/15-aliasing-in-general)
 
 ## [Archives](archives/index.md)
