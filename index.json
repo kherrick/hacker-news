@@ -1,16 +1,6 @@
 [
   [
     [
-      "2025-12-22, 04:50:17",
-      "https://news.ycombinator.com/item?id=46351408"
-    ],
-    [
-      "A middle-class family's only option: A $43,000 health insurance premium",
-      "https://www.washingtonpost.com/health/2025/12/21/obamacare-monopolies-subsidies/"
-    ]
-  ],
-  [
-    [
       "2025-12-22, 02:14:32",
       "https://news.ycombinator.com/item?id=46350641"
     ],
@@ -37,16 +27,6 @@
     [
       "ONNX Runtime and CoreML May Silently Convert Your Model to FP16",
       "https://ym2132.github.io/ONNX_MLProgram_NN_exploration"
-    ]
-  ],
-  [
-    [
-      "2025-12-21, 23:42:34",
-      "https://news.ycombinator.com/item?id=46349808"
-    ],
-    [
-      "I wish people were more public",
-      "https://borretti.me/article/i-wish-people-were-more-public"
     ]
   ],
   [
@@ -191,6 +171,16 @@
   ],
   [
     [
+      "2025-12-21, 12:57:44",
+      "https://news.ycombinator.com/item?id=46344514"
+    ],
+    [
+      "Coarse is better",
+      "https://borretti.me/article/coarse-is-better"
+    ]
+  ],
+  [
+    [
       "2025-12-21, 12:38:25",
       "https://news.ycombinator.com/item?id=46344412"
     ],
@@ -237,6 +227,16 @@
     [
       "Kernighan's Lever",
       "https://linusakesson.net/programming/kernighans-lever/index.php"
+    ]
+  ],
+  [
+    [
+      "2025-12-19, 16:08:39",
+      "https://news.ycombinator.com/item?id=46327337"
+    ],
+    [
+      "Exploring Speculative JIT Compilation for Emacs Lisp with Java",
+      "https://kyo.iroiro.party/en/posts/juicemacs-exploring-jit-for-elisp/"
     ]
   ],
   [
