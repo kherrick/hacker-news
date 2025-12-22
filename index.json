@@ -1,12 +1,42 @@
 [
   [
     [
+      "2025-12-22, 21:33:51",
+      "https://news.ycombinator.com/item?id=46359396"
+    ],
+    [
+      "I'm tired of Hacker News slop",
+      "https://blog.absurdpirate.com/im-tired-of-hacker-news-slop/"
+    ]
+  ],
+  [
+    [
+      "2025-12-22, 21:06:10",
+      "https://news.ycombinator.com/item?id=46359074"
+    ],
+    [
+      "Is the golden age of Indie software over?",
+      "https://successfulsoftware.net/2025/12/22/is-the-golden-age-of-indie-software-over/"
+    ]
+  ],
+  [
+    [
       "2025-12-22, 21:03:04",
       "https://news.ycombinator.com/item?id=46359042"
     ],
     [
       "Feds demand compromise on Colorado River while states flounder",
       "https://nevadacurrent.com/2025/12/22/feds-demand-compromise-on-colorado-river-states-flounder-despite-water-shoratge/"
+    ]
+  ],
+  [
+    [
+      "2025-12-22, 20:21:12",
+      "https://news.ycombinator.com/item?id=46358538"
+    ],
+    [
+      "In Pursuit of Clancy Sigal (2021)",
+      "https://yalereview.org/article/in-pursuit-of-clancy-sigal"
     ]
   ],
   [
@@ -231,6 +261,16 @@
   ],
   [
     [
+      "2025-12-18, 19:14:38",
+      "https://news.ycombinator.com/item?id=46317166"
+    ],
+    [
+      "Show HN: It's Like Clay but in Google Sheets",
+      "https://www.getvurge.com/"
+    ]
+  ],
+  [
+    [
       "2025-12-18, 17:14:44",
       "https://news.ycombinator.com/item?id=46315581"
     ],
@@ -257,46 +297,6 @@
     [
       "Show HN: An easy way of broadcasting radio around you (looking for feedback)",
       "https://github.com/dpipstudio/botwave"
-    ]
-  ],
-  [
-    [
-      "2025-12-16, 16:09:04",
-      "https://news.ycombinator.com/item?id=46290307"
-    ],
-    [
-      "Star Gauge: a Chinese reversible poem formed by a 29x29 grid of characters",
-      "https://en.wikipedia.org/wiki/Star_Gauge"
-    ]
-  ],
-  [
-    [
-      "2025-12-16, 13:08:46",
-      "https://news.ycombinator.com/item?id=46288042"
-    ],
-    [
-      "Microsoft will finally kill obsolete cipher that has wreaked decades of havoc",
-      "https://arstechnica.com/security/2025/12/microsoft-will-finally-kill-obsolete-cipher-that-has-wreaked-decades-of-havoc/"
-    ]
-  ],
-  [
-    [
-      "2025-12-16, 11:52:55",
-      "https://news.ycombinator.com/item?id=46287464"
-    ],
-    [
-      "How do SSDs change database design?",
-      "https://brooker.co.za:443/blog/2025/12/15/database-for-ssd.html"
-    ]
-  ],
-  [
-    [
-      "2025-12-16, 10:31:40",
-      "https://news.ycombinator.com/item?id=46286935"
-    ],
-    [
-      "Let's write a toy UI library",
-      "https://nakst.gitlab.io/tutorial/ui-part-1.html"
     ]
   ]
 ]
