@@ -20,6 +20,7 @@
 * [2025-12-18, 19:41:24](https://news.ycombinator.com/item?id=46317546) - [How to hack Discord, Vercel and more with one easy trick](https://kibty.town/blog/mintlify/)
 * [2025-12-18, 19:17:02](https://news.ycombinator.com/item?id=46317199) - [Public Makes Millions on Plunging Crypto](https://cepr.net/publications/public-makes-trillions-on-plunging-crypto/)
 * [2025-12-18, 19:15:17](https://news.ycombinator.com/item?id=46317174) - [The Scottish Highlands, the Appalachians, Atlas are the same mountain range](https://vividmaps.com/central-pangean-mountains/)
+* [2025-12-18, 19:14:38](https://news.ycombinator.com/item?id=46317166) - [Show HN: It's Like Clay but in Google Sheets](https://www.getvurge.com/)
 * [2025-12-18, 19:08:48](https://news.ycombinator.com/item?id=46317098) - [We pwned X, Vercel, Cursor, and Discord through a supply-chain attack](https://gist.github.com/hackermondev/5e2cdc32849405fff6b46957747a2d28)
 * [2025-12-18, 19:02:22](https://news.ycombinator.com/item?id=46317012) - [Top Banned Books: The Most Banned Books in U.S. Schools – Pen America](https://pen.org/top-52-banned-books-since-2021/)
 * [2025-12-18, 19:00:56](https://news.ycombinator.com/item?id=46316991) - [Show HN: Spice Cayenne – SQL acceleration built on Vortex](https://spice.ai/blog/introducing-spice-cayenne-data-accelerator)

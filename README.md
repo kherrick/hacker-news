@@ -1,6 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-12-22, 21:33:51](https://news.ycombinator.com/item?id=46359396) - [I'm tired of Hacker News slop](https://blog.absurdpirate.com/im-tired-of-hacker-news-slop/)
+* [2025-12-22, 21:06:10](https://news.ycombinator.com/item?id=46359074) - [Is the golden age of Indie software over?](https://successfulsoftware.net/2025/12/22/is-the-golden-age-of-indie-software-over/)
 * [2025-12-22, 21:03:04](https://news.ycombinator.com/item?id=46359042) - [Feds demand compromise on Colorado River while states flounder](https://nevadacurrent.com/2025/12/22/feds-demand-compromise-on-colorado-river-states-flounder-despite-water-shoratge/)
+* [2025-12-22, 20:21:12](https://news.ycombinator.com/item?id=46358538) - [In Pursuit of Clancy Sigal (2021)](https://yalereview.org/article/in-pursuit-of-clancy-sigal)
 * [2025-12-22, 20:12:20](https://news.ycombinator.com/item?id=46358437) - [Vince Zampella, developer of Call of Duty and Battlefield has died](https://comicbook.com/gaming/news/vince-zampella-developer-of-call-of-duty-and-battlefield-dead-at-55/)
 * [2025-12-22, 19:37:34](https://news.ycombinator.com/item?id=46357945) - [Ultrasound Cancer Treatment: Sound Waves Fight Tumors](https://spectrum.ieee.org/ultrasound-cancer-treatment)
 * [2025-12-22, 19:31:11](https://news.ycombinator.com/item?id=46357881) - [US blocks all offshore wind construction, says reason is classified](https://arstechnica.com/science/2025/12/us-government-finds-new-excuse-to-stop-construction-of-offshore-wind/)
@@ -23,13 +26,10 @@
 * [2025-12-22, 08:24:32](https://news.ycombinator.com/item?id=46352231) - [Debian's Git Transition](https://diziet.dreamwidth.org/20436.html)
 * [2025-12-20, 18:40:45](https://news.ycombinator.com/item?id=46338437) - [Programming languages used for music](https://timthompson.com/plum/cgi/showlist.cgi?sort=name&concise=yes)
 * [2025-12-19, 21:50:52](https://news.ycombinator.com/item?id=46331364) - [Show HN: Netrinos – A keep it simple Mesh VPN for small teams](https://netrinos.com)
+* [2025-12-18, 19:14:38](https://news.ycombinator.com/item?id=46317166) - [Show HN: It's Like Clay but in Google Sheets](https://www.getvurge.com/)
 * [2025-12-18, 17:14:44](https://news.ycombinator.com/item?id=46315581) - [There's no such thing as a fake feather [video]](https://www.youtube.com/watch?v=N5yV1Q9O6r4)
 * [2025-12-18, 14:00:50](https://news.ycombinator.com/item?id=46312755) - [The Rise of SQL:the second programming language everyone needs to know](https://spectrum.ieee.org/the-rise-of-sql)
 * [2025-12-17, 21:07:18](https://news.ycombinator.com/item?id=46305516) - [Show HN: An easy way of broadcasting radio around you (looking for feedback)](https://github.com/dpipstudio/botwave)
-* [2025-12-16, 16:09:04](https://news.ycombinator.com/item?id=46290307) - [Star Gauge: a Chinese reversible poem formed by a 29x29 grid of characters](https://en.wikipedia.org/wiki/Star_Gauge)
-* [2025-12-16, 13:08:46](https://news.ycombinator.com/item?id=46288042) - [Microsoft will finally kill obsolete cipher that has wreaked decades of havoc](https://arstechnica.com/security/2025/12/microsoft-will-finally-kill-obsolete-cipher-that-has-wreaked-decades-of-havoc/)
-* [2025-12-16, 11:52:55](https://news.ycombinator.com/item?id=46287464) - [How do SSDs change database design?](https://brooker.co.za:443/blog/2025/12/15/database-for-ssd.html)
-* [2025-12-16, 10:31:40](https://news.ycombinator.com/item?id=46286935) - [Let's write a toy UI library](https://nakst.gitlab.io/tutorial/ui-part-1.html)
 
 ## [Archives](archives/index.md)
 
