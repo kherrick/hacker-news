@@ -7,6 +7,8 @@
 * [2025-12-22, 17:19:44](https://news.ycombinator.com/item?id=46356182) - [Benn Jordan – This Flock Camera Leak Is Like Netflix for Stalkers [video]](https://www.youtube.com/watch?v=vU1-uiUlHTo)
 * [2025-12-22, 17:00:34](https://news.ycombinator.com/item?id=46355932) - [Uplane (YC F25) Is Hiring Founding Engineers (Full-Stack and AI)](https://www.useparallel.com/uplane1/careers)
 * [2025-12-22, 16:56:35](https://news.ycombinator.com/item?id=46355888) - [Jimmy Lai Is a Martyr for Freedom](https://reason.com/2025/12/19/jimmy-lai-is-a-martyr-for-freedom/)
+* [2025-12-22, 16:50:22](https://news.ycombinator.com/item?id=46355793) - [Spotify reportedly investigating Anna's Archive's scraping of their library](https://www.billboard.com/business/streaming/spotify-music-library-leak-1236143970/)
+* [2025-12-22, 16:31:40](https://news.ycombinator.com/item?id=46355548) - [Flock Exposed Its AI-Powered Cameras to the Internet. We Tracked Ourselves](https://www.404media.co/flock-exposed-its-ai-powered-cameras-to-the-internet-we-tracked-ourselves/)
 * [2025-12-22, 16:15:58](https://news.ycombinator.com/item?id=46355364) - [Ask HN: What would you do if you didn't work in tech?](https://news.ycombinator.com/item?id=46355364)
 * [2025-12-22, 16:05:53](https://news.ycombinator.com/item?id=46355227) - [US Administration halted largest Offshore Wind project in the U.S.](https://www.cnbc.com/2025/12/22/trump-offshore-wind-cvow-dominion.html)
 * [2025-12-22, 15:49:22](https://news.ycombinator.com/item?id=46355077) - [The U.S. Is Funding Fewer Grants in Every Area of Science and Medicine](https://www.nytimes.com/interactive/2025/12/02/upshot/trump-science-funding-cuts.html)
