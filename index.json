@@ -1,6 +1,46 @@
 [
   [
     [
+      "2025-12-22, 01:25:15",
+      "https://news.ycombinator.com/item?id=46350391"
+    ],
+    [
+      "Danish postal service to stop delivering letters after 400 years",
+      "https://www.theguardian.com/world/2025/dec/21/denmark-postnord-postal-delivery-letters-society"
+    ]
+  ],
+  [
+    [
+      "2025-12-22, 00:39:07",
+      "https://news.ycombinator.com/item?id=46350142"
+    ],
+    [
+      "Frozen Waymos backed up San Francisco traffic during a widespread power outage",
+      "https://www.theverge.com/news/848843/waymo-san-francisco-power-outage"
+    ]
+  ],
+  [
+    [
+      "2025-12-22, 00:27:04",
+      "https://news.ycombinator.com/item?id=46350075"
+    ],
+    [
+      "ONNX Runtime and CoreML May Silently Convert Your Model to FP16",
+      "https://ym2132.github.io/ONNX_MLProgram_NN_exploration"
+    ]
+  ],
+  [
+    [
+      "2025-12-21, 23:42:34",
+      "https://news.ycombinator.com/item?id=46349808"
+    ],
+    [
+      "I wish people were more public",
+      "https://borretti.me/article/i-wish-people-were-more-public"
+    ]
+  ],
+  [
+    [
       "2025-12-21, 21:46:20",
       "https://news.ycombinator.com/item?id=46348847"
     ],
@@ -11,42 +51,12 @@
   ],
   [
     [
-      "2025-12-21, 21:26:09",
-      "https://news.ycombinator.com/item?id=46348660"
-    ],
-    [
-      "Engineering dogmas it's time to retire",
-      "https://newsletter.manager.dev/p/5-engineering-dogmas-its-time-to"
-    ]
-  ],
-  [
-    [
-      "2025-12-21, 21:07:01",
-      "https://news.ycombinator.com/item?id=46348455"
-    ],
-    [
-      "The gift card accountability sink",
-      "https://www.bitsaboutmoney.com/archive/gift-card-accountability-sink/"
-    ]
-  ],
-  [
-    [
       "2025-12-21, 20:55:15",
       "https://news.ycombinator.com/item?id=46348329"
     ],
     [
       "A guide to local coding models",
       "https://www.aiforswes.com/p/you-dont-need-to-spend-100mo-on-claude"
-    ]
-  ],
-  [
-    [
-      "2025-12-21, 20:53:34",
-      "https://news.ycombinator.com/item?id=46348318"
-    ],
-    [
-      "More on whether useful quantum computing is “imminent”",
-      "https://scottaaronson.blog/?p=9425"
     ]
   ],
   [
@@ -75,7 +85,7 @@
       "https://news.ycombinator.com/item?id=46347080"
     ],
     [
-      "Mullvad VPN: \"This is a Chat Control 3.0 attempt.\"",
+      "The Going Dark initiative or ProtectEU is a Chat Control 3.0 attempt",
       "https://mastodon.online/@mullvadnet/115742530333573065"
     ]
   ],
@@ -87,16 +97,6 @@
     [
       "You’re not burnt out, you’re existentially starving",
       "https://neilthanedar.com/youre-not-burnt-out-youre-existentially-starving/"
-    ]
-  ],
-  [
-    [
-      "2025-12-21, 18:09:52",
-      "https://news.ycombinator.com/item?id=46346796"
-    ],
-    [
-      "Logging Sucks",
-      "https://loggingsucks.com/"
     ]
   ],
   [
@@ -115,7 +115,7 @@
       "https://news.ycombinator.com/item?id=46346214"
     ],
     [
-      "Autoland Saves King Air, Everyone Reported Safe",
+      "Autoland saves King Air, everyone reported safe",
       "https://avbrief.com/autoland-saves-king-air-everyone-reported-safe/"
     ]
   ],
@@ -201,16 +201,6 @@
   ],
   [
     [
-      "2025-12-21, 12:33:11",
-      "https://news.ycombinator.com/item?id=46344381"
-    ],
-    [
-      "Show HN: Shittp – Volatile Dotfiles over SSH",
-      "https://github.com/FOBshippingpoint/shittp"
-    ]
-  ],
-  [
-    [
       "2025-12-21, 07:06:48",
       "https://news.ycombinator.com/item?id=46342859"
     ],
@@ -251,12 +241,22 @@
   ],
   [
     [
-      "2025-12-18, 06:19:32",
-      "https://news.ycombinator.com/item?id=46309463"
+      "2025-12-18, 23:37:05",
+      "https://news.ycombinator.com/item?id=46320353"
     ],
     [
-      "FWS – pip-installable embedded process supervisor with PTY/pipe/dtach back ends",
-      "https://news.ycombinator.com/item?id=46309463"
+      "Perron: A Static Site Generator for Ruby on Rails",
+      "https://perron-site.statichost.page/"
+    ]
+  ],
+  [
+    [
+      "2025-12-18, 17:49:10",
+      "https://news.ycombinator.com/item?id=46316050"
+    ],
+    [
+      "Deliberate Internet Shutdowns",
+      "https://www.schneier.com/blog/archives/2025/12/deliberate-internet-shutdowns.html"
     ]
   ],
   [
@@ -265,7 +265,7 @@
       "https://news.ycombinator.com/item?id=46298855"
     ],
     [
-      "Why \"negative vectors\" can't delete data in FAISS – but weighted kernels can",
+      "Why “negative vectors” can't delete data in FAISS – but weighted kernels can",
       "https://github.com/nikitph/bloomin/tree/master/negative-vector-experiment"
     ]
   ],
@@ -275,7 +275,7 @@
       "https://news.ycombinator.com/item?id=46294694"
     ],
     [
-      "I Program on the Subway",
+      "I program on the subway",
       "https://www.scd31.com/posts/programming-on-the-subway"
     ]
   ],
@@ -295,7 +295,7 @@
       "https://news.ycombinator.com/item?id=46285424"
     ],
     [
-      "Show HN: Autograd.c – a tiny ML framework built from scratch",
+      "Show HN: Autograd.c – A tiny ML framework built from scratch",
       "https://github.com/sueszli/autograd.c"
     ]
   ]
