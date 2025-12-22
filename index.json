@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-12-22, 04:34:36",
+      "https://news.ycombinator.com/item?id=46351345"
+    ],
+    [
+      "Cursed circuits #3: true mathematics",
+      "https://lcamtuf.substack.com/p/cursed-circuits-3-true-mathematics"
+    ]
+  ],
+  [
+    [
       "2025-12-22, 02:14:32",
       "https://news.ycombinator.com/item?id=46350641"
     ],
@@ -141,32 +151,12 @@
   ],
   [
     [
-      "2025-12-21, 15:19:41",
-      "https://news.ycombinator.com/item?id=46345444"
-    ],
-    [
-      "ARIN Public Incident Report – 4.10 Misissuance Error",
-      "https://www.arin.net/announcements/20251212/"
-    ]
-  ],
-  [
-    [
       "2025-12-21, 15:06:46",
       "https://news.ycombinator.com/item?id=46345333"
     ],
     [
       "Structured outputs create false confidence",
       "https://boundaryml.com/blog/structured-outputs-create-false-confidence"
-    ]
-  ],
-  [
-    [
-      "2025-12-21, 12:57:44",
-      "https://news.ycombinator.com/item?id=46344514"
-    ],
-    [
-      "Coarse is better",
-      "https://borretti.me/article/coarse-is-better"
     ]
   ],
   [
@@ -287,6 +277,16 @@
     [
       "Functional Flocking Quadtree in ClojureScript",
       "https://www.lbjgruppen.com/en/posts/flocking-quadtrees"
+    ]
+  ],
+  [
+    [
+      "2025-12-16, 10:13:45",
+      "https://news.ycombinator.com/item?id=46286813"
+    ],
+    [
+      "Aliasing",
+      "https://xania.org/202512/15-aliasing-in-general"
     ]
   ],
   [
