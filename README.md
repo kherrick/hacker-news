@@ -2,6 +2,7 @@
 
 * [2025-12-22, 08:29:03](https://news.ycombinator.com/item?id=46352248) - [Inverse Parentheses](https://kellett.im/a/inverse-parentheses)
 * [2025-12-22, 07:25:43](https://news.ycombinator.com/item?id=46352047) - [QBasic64 Phoenix 4.3.0 Released](https://qb64phoenix.com/forum/showthread.php?tid=4244)
+* [2025-12-22, 07:13:33](https://news.ycombinator.com/item?id=46352004) - [I announced my divorce on Instagram and then AI impersonated me](https://eiratansey.com/2025/12/20/i-announced-my-divorce-on-instagram-and-then-ai-impersonated-me/)
 * [2025-12-22, 04:34:36](https://news.ycombinator.com/item?id=46351345) - [Cursed circuits #3: true mathematics](https://lcamtuf.substack.com/p/cursed-circuits-3-true-mathematics)
 * [2025-12-22, 02:14:32](https://news.ycombinator.com/item?id=46350641) - [Build Android apps using Rust and Iced](https://github.com/ibaryshnikov/android-iced-example)
 * [2025-12-22, 00:27:04](https://news.ycombinator.com/item?id=46350075) - [ONNX Runtime and CoreML May Silently Convert Your Model to FP16](https://ym2132.github.io/ONNX_MLProgram_NN_exploration)
@@ -16,7 +17,6 @@
 * [2025-12-21, 16:04:05](https://news.ycombinator.com/item?id=46345745) - [Show HN: WalletWallet – create Apple passes from anything](https://walletwallet.alen.ro/)
 * [2025-12-21, 15:27:36](https://news.ycombinator.com/item?id=46345506) - [CO2 batteries that store grid energy take off globally](https://spectrum.ieee.org/co2-battery-energy-storage)
 * [2025-12-21, 14:46:53](https://news.ycombinator.com/item?id=46345205) - [How I protect my Forgejo instance from AI web crawlers](https://her.esy.fun/posts/0031-how-i-protect-my-forgejo-instance-from-ai-web-crawlers/index.html)
-* [2025-12-21, 12:38:25](https://news.ycombinator.com/item?id=46344412) - [Luke Howard’s essay on the modification of clouds (1865)](https://publicdomainreview.org/collection/essay-on-the-modification-of-clouds/)
 * [2025-12-20, 18:40:45](https://news.ycombinator.com/item?id=46338437) - [Programming languages used for music](https://timthompson.com/plum/cgi/showlist.cgi?sort=name&concise=yes)
 * [2025-12-19, 21:42:55](https://news.ycombinator.com/item?id=46331292) - [Kernighan's Lever](https://linusakesson.net/programming/kernighans-lever/index.php)
 * [2025-12-19, 16:08:39](https://news.ycombinator.com/item?id=46327337) - [Exploring Speculative JIT Compilation for Emacs Lisp with Java](https://kyo.iroiro.party/en/posts/juicemacs-exploring-jit-for-elisp/)
