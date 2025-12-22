@@ -129,23 +129,45 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
+        <section id="46351408">
+          <h3>
+            <a
+              class="item"
+              href="https://www.washingtonpost.com/health/2025/12/21/obamacare-monopolies-subsidies/"
+              >A middle-class family's only option: A $43,000 health insurance
+              premium</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2025-12-22 @ 04:50:17</span
+              ><span class="points-container"
+                >Points: <span class="points">13</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=46351408"
+                  >Comments</a
+                ><span class="descendants">: 5</span></span
+              >
+            </h4>
+          </section>
+        </section>
         <section id="46350641">
           <h3>
             <a
               class="item"
               href="https://github.com/ibaryshnikov/android-iced-example"
-              >Build Android apps using Rust and iced</a
+              >Build Android apps using Rust and Iced</a
             >
           </h3>
           <section>
             <h4>
               <span>2025-12-22 @ 02:14:32</span
               ><span class="points-container"
-                >Points: <span class="points">21</span></span
+                >Points: <span class="points">22</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46350641"
                   >Comments</a
-                ><span class="descendants">: 3</span></span
+                ><span class="descendants">: 6</span></span
               >
             </h4>
             <div class="text">
@@ -270,33 +292,11 @@
             <h4>
               <span>2025-12-22 @ 01:43:40</span
               ><span class="points-container"
-                >Points: <span class="points">44</span></span
+                >Points: <span class="points">46</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46350477"
                   >Comments</a
-                ><span class="descendants">: 0</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="46350391">
-          <h3>
-            <a
-              class="item"
-              href="https://www.theguardian.com/world/2025/dec/21/denmark-postnord-postal-delivery-letters-society"
-              >Danish postal service to stop delivering letters after 400
-              years</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2025-12-22 @ 01:25:15</span
-              ><span class="points-container"
-                >Points: <span class="points">56</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=46350391"
-                  >Comments</a
-                ><span class="descendants">: 38</span></span
+                ><span class="descendants">: 1</span></span
               >
             </h4>
           </section>
@@ -318,7 +318,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46350075"
                   >Comments</a
-                ><span class="descendants">: 5</span></span
+                ><span class="descendants">: 7</span></span
               >
             </h4>
           </section>
@@ -335,11 +335,11 @@
             <h4>
               <span>2025-12-21 @ 23:42:34</span
               ><span class="points-container"
-                >Points: <span class="points">52</span></span
+                >Points: <span class="points">54</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46349808"
                   >Comments</a
-                ><span class="descendants">: 34</span></span
+                ><span class="descendants">: 46</span></span
               >
             </h4>
           </section>
@@ -357,13 +357,72 @@
             <h4>
               <span>2025-12-21 @ 21:46:20</span
               ><span class="points-container"
-                >Points: <span class="points">145</span></span
+                >Points: <span class="points">151</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46348847"
                   >Comments</a
-                ><span class="descendants">: 61</span></span
+                ><span class="descendants">: 63</span></span
               >
             </h4>
+          </section>
+        </section>
+        <section id="46348344">
+          <h3>
+            <a class="item" href="https://eulumdat.icu"
+              >Show HN: Rust/WASM lighting data toolkit – parses legacy formats,
+              generates SVGs</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2025-12-21 @ 20:56:54</span
+              ><span class="points-container"
+                >Points: <span class="points">8</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=46348344"
+                  >Comments</a
+                ><span class="descendants">: 0</span></span
+              >
+            </h4>
+            <div class="text">
+              <p>
+                I built this to scratch my own itch and put it on crates.io and
+                PyPI where nothing like it existed.
+              </p>
+              <p>
+                The old file formats (EULUMDAT from 1990, IES from 1991) still
+                work fine for basic photometry. But the industry is moving
+                toward spectral data – full wavelength distributions instead of
+                just lumen values.
+              </p>
+              <p>
+                The new standards (TM-33, ATLA-S001) are barely supported by
+                existing tools.
+              </p>
+              <p>
+                So this handles both: legacy formats for compatibility, spectral
+                data for anyone who wants to work with the new standards.
+              </p>
+              <p>
+                Stack: Rust core, then UniFFI for bindings. One codebase
+                compiles to WASM/Leptos, egui, SwiftUI, Jetpack Compose, PyO3.
+              </p>
+              <p>
+                At one point the generated Swift boilerplate got so large GitHub
+                classified it as a Swift project. 3D viewer is Bevy, loaded
+                on-demand.
+              </p>
+              <p>
+                Feedback welcome – especially on the SVG output and the 3D
+                viewer.
+              </p>
+              <p>
+                <a href="https://github.com/holg/eulumdat-rs"
+                  >https://github.com/holg/eulumdat-rs</a
+                >
+                (MIT/Apache-2.0)
+              </p>
+            </div>
           </section>
         </section>
         <section id="46348329">
@@ -378,11 +437,11 @@
             <h4>
               <span>2025-12-21 @ 20:55:15</span
               ><span class="points-container"
-                >Points: <span class="points">314</span></span
+                >Points: <span class="points">321</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46348329"
                   >Comments</a
-                ><span class="descendants">: 156</span></span
+                ><span class="descendants">: 160</span></span
               >
             </h4>
           </section>
@@ -399,11 +458,11 @@
             <h4>
               <span>2025-12-21 @ 18:43:20</span
               ><span class="points-container"
-                >Points: <span class="points">421</span></span
+                >Points: <span class="points">424</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46347108"
                   >Comments</a
-                ><span class="descendants">: 381</span></span
+                ><span class="descendants">: 390</span></span
               >
             </h4>
           </section>
@@ -421,7 +480,7 @@
             <h4>
               <span>2025-12-21 @ 18:39:46</span
               ><span class="points-container"
-                >Points: <span class="points">504</span></span
+                >Points: <span class="points">505</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46347080"
                   >Comments</a
@@ -442,11 +501,11 @@
             <h4>
               <span>2025-12-21 @ 18:28:56</span
               ><span class="points-container"
-                >Points: <span class="points">258</span></span
+                >Points: <span class="points">259</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46346958"
                   >Comments</a
-                ><span class="descendants">: 310</span></span
+                ><span class="descendants">: 314</span></span
               >
             </h4>
           </section>
@@ -463,11 +522,11 @@
             <h4>
               <span>2025-12-21 @ 16:57:57</span
               ><span class="points-container"
-                >Points: <span class="points">175</span></span
+                >Points: <span class="points">185</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46346214"
                   >Comments</a
-                ><span class="descendants">: 105</span></span
+                ><span class="descendants">: 107</span></span
               >
             </h4>
           </section>
@@ -484,11 +543,11 @@
             <h4>
               <span>2025-12-21 @ 16:21:04</span
               ><span class="points-container"
-                >Points: <span class="points">382</span></span
+                >Points: <span class="points">383</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46345897"
                   >Comments</a
-                ><span class="descendants">: 145</span></span
+                ><span class="descendants">: 146</span></span
               >
             </h4>
           </section>
@@ -503,7 +562,7 @@
             <h4>
               <span>2025-12-21 @ 16:04:05</span
               ><span class="points-container"
-                >Points: <span class="points">333</span></span
+                >Points: <span class="points">334</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46345745"
                   >Comments</a
@@ -531,7 +590,7 @@
             <h4>
               <span>2025-12-21 @ 15:29:31</span
               ><span class="points-container"
-                >Points: <span class="points">122</span></span
+                >Points: <span class="points">125</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46345523"
                   >Comments</a
@@ -552,11 +611,11 @@
             <h4>
               <span>2025-12-21 @ 15:27:36</span
               ><span class="points-container"
-                >Points: <span class="points">183</span></span
+                >Points: <span class="points">184</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46345506"
                   >Comments</a
-                ><span class="descendants">: 161</span></span
+                ><span class="descendants">: 164</span></span
               >
             </h4>
           </section>
@@ -592,7 +651,7 @@
             <h4>
               <span>2025-12-21 @ 15:06:46</span
               ><span class="points-container"
-                >Points: <span class="points">127</span></span
+                >Points: <span class="points">128</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46345333"
                   >Comments</a
@@ -626,14 +685,14 @@
             <a
               class="item"
               href="https://publicdomainreview.org/collection/essay-on-the-modification-of-clouds/"
-              >Luke Howard's Essay on the Modification of Clouds (1865)</a
+              >Luke Howard’s essay on the modification of clouds (1865)</a
             >
           </h3>
           <section>
             <h4>
               <span>2025-12-21 @ 12:38:25</span
               ><span class="points-container"
-                >Points: <span class="points">4</span></span
+                >Points: <span class="points">5</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46344412"
                   >Comments</a
@@ -652,11 +711,11 @@
             <h4>
               <span>2025-12-21 @ 07:06:48</span
               ><span class="points-container"
-                >Points: <span class="points">377</span></span
+                >Points: <span class="points">381</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46342859"
                   >Comments</a
-                ><span class="descendants">: 151</span></span
+                ><span class="descendants">: 156</span></span
               >
             </h4>
           </section>
@@ -674,11 +733,11 @@
             <h4>
               <span>2025-12-21 @ 05:21:42</span
               ><span class="points-container"
-                >Points: <span class="points">226</span></span
+                >Points: <span class="points">228</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46342447"
                   >Comments</a
-                ><span class="descendants">: 173</span></span
+                ><span class="descendants">: 175</span></span
               >
             </h4>
           </section>
@@ -696,11 +755,11 @@
             <h4>
               <span>2025-12-21 @ 05:12:03</span
               ><span class="points-container"
-                >Points: <span class="points">230</span></span
+                >Points: <span class="points">234</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46342412"
                   >Comments</a
-                ><span class="descendants">: 333</span></span
+                ><span class="descendants">: 335</span></span
               >
             </h4>
           </section>
@@ -717,7 +776,7 @@
             <h4>
               <span>2025-12-19 @ 21:42:55</span
               ><span class="points-container"
-                >Points: <span class="points">23</span></span
+                >Points: <span class="points">25</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46331292"
                   >Comments</a
@@ -739,7 +798,7 @@
             <h4>
               <span>2025-12-19 @ 13:16:57</span
               ><span class="points-container"
-                >Points: <span class="points">12</span></span
+                >Points: <span class="points">16</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46325475"
                   >Comments</a
@@ -760,11 +819,11 @@
             <h4>
               <span>2025-12-19 @ 05:49:33</span
               ><span class="points-container"
-                >Points: <span class="points">44</span></span
+                >Points: <span class="points">45</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46322631"
                   >Comments</a
-                ><span class="descendants">: 15</span></span
+                ><span class="descendants">: 16</span></span
               >
             </h4>
           </section>
@@ -781,11 +840,11 @@
             <h4>
               <span>2025-12-18 @ 17:49:10</span
               ><span class="points-container"
-                >Points: <span class="points">96</span></span
+                >Points: <span class="points">103</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46316050"
                   >Comments</a
-                ><span class="descendants">: 31</span></span
+                ><span class="descendants">: 33</span></span
               >
             </h4>
           </section>
@@ -806,7 +865,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46294694"
                   >Comments</a
-                ><span class="descendants">: 129</span></span
+                ><span class="descendants">: 134</span></span
               >
             </h4>
           </section>
@@ -821,32 +880,11 @@
             <h4>
               <span>2025-12-16 @ 11:19:29</span
               ><span class="points-container"
-                >Points: <span class="points">247</span></span
+                >Points: <span class="points">259</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46287253"
                   >Comments</a
-                ><span class="descendants">: 74</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="46286906">
-          <h3>
-            <a
-              class="item"
-              href="https://www.lbjgruppen.com/en/posts/flocking-quadtrees"
-              >Functional Flocking Quadtree in ClojureScript</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2025-12-16 @ 10:26:52</span
-              ><span class="points-container"
-                >Points: <span class="points">4</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=46286906"
-                  >Comments</a
-                ><span class="descendants">: 0</span></span
+                ><span class="descendants">: 83</span></span
               >
             </h4>
           </section>
