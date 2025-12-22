@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-12-22, 17:53:46",
+      "https://news.ycombinator.com/item?id=46356603"
+    ],
+    [
+      "AI Bathroom Monitors? Welcome to America's New Surveillance High Schools",
+      "https://www.forbes.com/sites/thomasbrewster/2025/12/16/ai-bathroom-monitors-welcome-to-americas-new-surveillance-high-schools/"
+    ]
+  ],
+  [
+    [
+      "2025-12-22, 17:32:18",
+      "https://news.ycombinator.com/item?id=46356320"
+    ],
+    [
+      "Henge Finder",
+      "https://hengefinder.rcdis.co/#learn"
+    ]
+  ],
+  [
+    [
       "2025-12-22, 17:19:44",
       "https://news.ycombinator.com/item?id=46356182"
     ],
@@ -31,12 +51,42 @@
   ],
   [
     [
+      "2025-12-22, 16:55:43",
+      "https://news.ycombinator.com/item?id=46355879"
+    ],
+    [
+      "Mystery as YouTube creator's finance livestream appears on White House website",
+      "https://apnews.com/article/white-house-website-youtube-livestream-88d79b896ca6e5ecea33f3bf3e5c9278"
+    ]
+  ],
+  [
+    [
       "2025-12-22, 16:50:22",
       "https://news.ycombinator.com/item?id=46355793"
     ],
     [
       "Spotify reportedly investigating Anna's Archive's scraping of their library",
       "https://www.billboard.com/business/streaming/spotify-music-library-leak-1236143970/"
+    ]
+  ],
+  [
+    [
+      "2025-12-22, 16:14:43",
+      "https://news.ycombinator.com/item?id=46355345"
+    ],
+    [
+      "Your Supabase Is Public",
+      "https://skilldeliver.com/your-supabase-is-public"
+    ]
+  ],
+  [
+    [
+      "2025-12-22, 15:59:01",
+      "https://news.ycombinator.com/item?id=46355165"
+    ],
+    [
+      "Claude Code gets native LSP support",
+      "https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md"
     ]
   ],
   [
@@ -57,6 +107,16 @@
     [
       "Scaling LLMs to Larger Codebases",
       "https://blog.kierangill.xyz/oversight-and-guidance"
+    ]
+  ],
+  [
+    [
+      "2025-12-22, 15:16:18",
+      "https://news.ycombinator.com/item?id=46354773"
+    ],
+    [
+      "On the Existence, Impact, and Origin of Hallucination-Associated Neurons in LLMs",
+      "https://arxiv.org/abs/2512.01797"
     ]
   ],
   [
@@ -101,16 +161,6 @@
   ],
   [
     [
-      "2025-12-22, 09:01:11",
-      "https://news.ycombinator.com/item?id=46352405"
-    ],
-    [
-      "Cartoon Network channel errors (1995 – 2025)",
-      "https://cnas.fandom.com/wiki/Channel_Errors"
-    ]
-  ],
-  [
-    [
       "2025-12-22, 08:42:31",
       "https://news.ycombinator.com/item?id=46352310"
     ],
@@ -131,42 +181,12 @@
   ],
   [
     [
-      "2025-12-22, 02:14:32",
-      "https://news.ycombinator.com/item?id=46350641"
-    ],
-    [
-      "Build Android apps using Rust and Iced",
-      "https://github.com/ibaryshnikov/android-iced-example"
-    ]
-  ],
-  [
-    [
       "2025-12-21, 21:46:20",
       "https://news.ycombinator.com/item?id=46348847"
     ],
     [
       "Disney Imagineering Debuts Next-Generation Robotic Character, Olaf",
       "https://disneyparksblog.com/disney-experiences/robotic-olaf-marks-new-era-of-disney-innovation/"
-    ]
-  ],
-  [
-    [
-      "2025-12-21, 20:55:15",
-      "https://news.ycombinator.com/item?id=46348329"
-    ],
-    [
-      "A guide to local coding models",
-      "https://www.aiforswes.com/p/you-dont-need-to-spend-100mo-on-claude"
-    ]
-  ],
-  [
-    [
-      "2025-12-21, 15:27:36",
-      "https://news.ycombinator.com/item?id=46345506"
-    ],
-    [
-      "CO2 batteries that store grid energy take off globally",
-      "https://spectrum.ieee.org/co2-battery-energy-storage"
     ]
   ],
   [
@@ -197,16 +217,6 @@
     [
       "Show HN: Netrinos – A keep it simple Mesh VPN for small teams",
       "https://netrinos.com"
-    ]
-  ],
-  [
-    [
-      "2025-12-19, 21:42:55",
-      "https://news.ycombinator.com/item?id=46331292"
-    ],
-    [
-      "Kernighan's Lever",
-      "https://linusakesson.net/programming/kernighans-lever/index.php"
     ]
   ],
   [
@@ -267,16 +277,6 @@
     [
       "Microsoft will kill obsolete cipher that has wreaked decades of havoc",
       "https://arstechnica.com/security/2025/12/microsoft-will-finally-kill-obsolete-cipher-that-has-wreaked-decades-of-havoc/"
-    ]
-  ],
-  [
-    [
-      "2025-12-16, 11:19:29",
-      "https://news.ycombinator.com/item?id=46287253"
-    ],
-    [
-      "I'm just having fun",
-      "https://jyn.dev/i-m-just-having-fun/"
     ]
   ],
   [
