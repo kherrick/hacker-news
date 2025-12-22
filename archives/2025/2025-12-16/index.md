@@ -55,6 +55,7 @@
 * [2025-12-16, 15:39:23](https://news.ycombinator.com/item?id=46289884) - [Biscuit is a specialized PostgreSQL index for fast pattern matching LIKE queries](https://github.com/CrystallineCore/Biscuit)
 * [2025-12-16, 15:22:32](https://news.ycombinator.com/item?id=46289635) - [Four Million U.S. Children Had No Health Insurance in 2024](https://www.scientificamerican.com/article/how-rising-rates-of-uninsured-children-will-increase-pediatric-cancer-deaths/)
 * [2025-12-16, 15:12:37](https://news.ycombinator.com/item?id=46289481) - [Show HN: CommerceTXT – An open standard for AI shopping context (like llms.txt)](https://commercetxt.org/)
+* [2025-12-16, 14:52:30](https://news.ycombinator.com/item?id=46289237) - [Show HN: Jordle – Japanese Furigana Practice](https://jordle.io)
 * [2025-12-16, 14:46:52](https://news.ycombinator.com/item?id=46289160) - [CEOs to Keep Spending on AI, Despite Spotty Returns](https://www.wsj.com/tech/ai/ceos-to-keep-spending-on-ai-despite-spotty-returns-2eaeb6b)
 * [2025-12-16, 14:43:18](https://news.ycombinator.com/item?id=46289115) - [Mozilla's new CEO is doubling down on an AI future for Firefox](https://www.theverge.com/tech/845216/mozilla-ceo-anthony-enzor-demeo)
 * [2025-12-16, 14:39:59](https://news.ycombinator.com/item?id=46289073) - [Show HN: Solving the ~95% legislative coverage gap using LLM's](https://lustra.news/)

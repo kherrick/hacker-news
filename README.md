@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-12-22, 12:54:29](https://news.ycombinator.com/item?id=46353777) - [The biggest CRT ever made: Sony's PVM-4300](https://dfarq.homeip.net/the-biggest-crt-ever-made-sonys-pvm-4300/)
 * [2025-12-22, 10:27:52](https://news.ycombinator.com/item?id=46352930) - [If you don't design your career, someone else will (2014)](https://gregmckeown.com/if-you-dont-design-your-career-someone-else-will/)
 * [2025-12-22, 10:19:57](https://news.ycombinator.com/item?id=46352875) - [A year of vibes](https://lucumr.pocoo.org/2025/12/22/a-year-of-vibes/)
 * [2025-12-22, 09:58:50](https://news.ycombinator.com/item?id=46352747) - [Well being in times of algorithms](https://www.ssp.sh/blog/well-being-algorithms/)
@@ -11,7 +12,6 @@
 * [2025-12-22, 08:24:32](https://news.ycombinator.com/item?id=46352231) - [Debian's Git Transition](https://diziet.dreamwidth.org/20436.html)
 * [2025-12-22, 07:13:33](https://news.ycombinator.com/item?id=46352004) - [I announced my divorce on Instagram and then AI impersonated me](https://eiratansey.com/2025/12/20/i-announced-my-divorce-on-instagram-and-then-ai-impersonated-me/)
 * [2025-12-22, 02:14:32](https://news.ycombinator.com/item?id=46350641) - [Build Android apps using Rust and Iced](https://github.com/ibaryshnikov/android-iced-example)
-* [2025-12-22, 00:27:04](https://news.ycombinator.com/item?id=46350075) - [ONNX Runtime and CoreML May Silently Convert Your Model to FP16](https://ym2132.github.io/ONNX_MLProgram_NN_exploration)
 * [2025-12-21, 21:46:20](https://news.ycombinator.com/item?id=46348847) - [Disney Imagineering Debuts Next-Generation Robotic Character, Olaf](https://disneyparksblog.com/disney-experiences/robotic-olaf-marks-new-era-of-disney-innovation/)
 * [2025-12-21, 20:55:15](https://news.ycombinator.com/item?id=46348329) - [A guide to local coding models](https://www.aiforswes.com/p/you-dont-need-to-spend-100mo-on-claude)
 * [2025-12-21, 20:53:34](https://news.ycombinator.com/item?id=46348318) - [More on whether useful quantum computing is “imminent”](https://scottaaronson.blog/?p=9425)
@@ -26,7 +26,7 @@
 * [2025-12-18, 17:49:10](https://news.ycombinator.com/item?id=46316050) - [Deliberate Internet Shutdowns](https://www.schneier.com/blog/archives/2025/12/deliberate-internet-shutdowns.html)
 * [2025-12-17, 18:10:23](https://news.ycombinator.com/item?id=46303211) - [Decompiling the Synergy: Human–LLM Teaming in Reverse Engineering [pdf]](https://www.zionbasque.com/files/papers/dec-synergy-study.pdf)
 * [2025-12-17, 03:55:59](https://news.ycombinator.com/item?id=46298055) - [A Guide to Magnetizing N48 Magnets in Ansys Maxwell](https://blog.ozeninc.com/resources/from-datasheet-to-demagnetization-a-guide-to-magnetizing-n48-magnets-in-ansys-maxwell)
-* [2025-12-16, 16:51:19](https://news.ycombinator.com/item?id=46290875) - [Lightning: Real-time editing for tiled map data](https://felt.com/blog/lightning-tiles)
+* [2025-12-16, 14:52:30](https://news.ycombinator.com/item?id=46289237) - [Show HN: Jordle – Japanese Furigana Practice](https://jordle.io)
 * [2025-12-16, 11:19:29](https://news.ycombinator.com/item?id=46287253) - [I'm just having fun](https://jyn.dev/i-m-just-having-fun/)
 * [2025-12-16, 10:26:52](https://news.ycombinator.com/item?id=46286906) - [Functional Flocking Quadtree in ClojureScript](https://www.lbjgruppen.com/en/posts/flocking-quadtrees)
 * [2025-12-16, 10:13:45](https://news.ycombinator.com/item?id=46286813) - [Aliasing](https://xania.org/202512/15-aliasing-in-general)
