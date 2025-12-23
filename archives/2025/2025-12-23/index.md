@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-12-23](index.md)
 
+* [2025-12-23, 18:00:31](https://news.ycombinator.com/item?id=46367475) - [We replaced H.264 streaming with JPEG screenshots (and it worked better)](https://blog.helix.ml/p/we-mass-deployed-15-year-old-screen)
+* [2025-12-23, 17:34:22](https://news.ycombinator.com/item?id=46367232) - [Towards a secure peer-to-peer app platform for Clan](https://clan.lol/blog/towards-app-platform-vmtech/)
 * [2025-12-23, 17:33:42](https://news.ycombinator.com/item?id=46367224) - [Fabrice Bellard Releases MicroQuickJS](https://github.com/bellard/mquickjs/blob/main/README.md)
 * [2025-12-23, 17:33:40](https://news.ycombinator.com/item?id=46367223) - [How Did Doge Disrupt So Much While Saving So Little?](https://www.nytimes.com/2025/12/23/us/politics/doge-musk-trump-analysis.html)
 * [2025-12-23, 17:08:34](https://news.ycombinator.com/item?id=46366998) - [Meta Is Using the Linux Scheduler Designed for Valve's Steam Deck on Its Servers](https://www.phoronix.com/news/Meta-SCX-LAVD-Steam-Deck-Server)
