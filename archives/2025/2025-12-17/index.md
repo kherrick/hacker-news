@@ -20,6 +20,7 @@
 * [2025-12-17, 20:59:29](https://news.ycombinator.com/item?id=46305428) - [OBS Studio Gets a New Renderer](https://obsproject.com/blog/obs-studio-gets-a-new-renderer)
 * [2025-12-17, 20:58:09](https://news.ycombinator.com/item?id=46305409) - [AI Isn't Just Spying on You. It's Tricking You into Spending More](https://newrepublic.com/article/204525/artificial-intelligence-consumers-data-dynamic-pricing)
 * [2025-12-17, 20:50:13](https://news.ycombinator.com/item?id=46305321) - [Inside PostHog: SSRF, ClickHouse SQL Escape and Default Postgres Creds to RCE](https://mdisec.com/inside-posthog-how-ssrf-a-clickhouse-sql-escaping-0day-and-default-postgresql-credentials-formed-an-rce-chain-zdi-25-099-zdi-25-097-zdi-25-096/)
+* [2025-12-17, 20:48:08](https://news.ycombinator.com/item?id=46305303) - [The last product to get cancelled](https://www.ablg.io/blog/last-product-to-get-cancelled)
 * [2025-12-17, 20:40:18](https://news.ycombinator.com/item?id=46305216) - [GitHub postponing the announced billing change to GitHub Actions](https://github.com/orgs/community/discussions/182186)
 * [2025-12-17, 20:38:06](https://news.ycombinator.com/item?id=46305172) - [\"There are more Japanese [VRChat] creators than all other countries combined \"](https://twitter.com/chyadosensei/status/2001356290531156159)
 * [2025-12-17, 20:32:56](https://news.ycombinator.com/item?id=46305123) - [Why do commercial spaces sit vacant?](https://archive.strongtowns.org/journal/2025/5/21/why-do-commercial-spaces-sit-vacant)

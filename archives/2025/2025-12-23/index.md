@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-12-23](index.md)
 
+* [2025-12-23, 15:51:17](https://news.ycombinator.com/item?id=46366285) - [Stop Slopware](https://stopslopware.net/)
 * [2025-12-23, 14:40:12](https://news.ycombinator.com/item?id=46365641) - [Nearly 1 in 4 Americans Think They Have a Personal Social Security Account](https://www.cato.org/blog/poll-nearly-1-4-americans-think-they-have-personal-social-security-account-3)
 * [2025-12-23, 13:59:46](https://news.ycombinator.com/item?id=46365370) - [Deplatforming Backfired](https://reason.com/2025/12/22/deplatforming-backfired/)
 * [2025-12-23, 12:56:50](https://news.ycombinator.com/item?id=46364973) - [Test, Don't (Just) Verify](https://alperenkeles.com/posts/test-dont-verify/)
