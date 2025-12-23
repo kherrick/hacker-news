@@ -6,7 +6,6 @@
 * [2025-12-23, 01:03:57](https://news.ycombinator.com/item?id=46361229) - [Snitch – A friendlier ss/netstat](https://github.com/karol-broda/snitch)
 * [2025-12-22, 23:23:12](https://news.ycombinator.com/item?id=46360465) - [Satellites reveal heat leaking from largest US cryptocurrency mining center](https://www.space.com/space-exploration/satellites/satellites-reveal-heat-leaking-from-largest-us-cryptocurrency-mining-center)
 * [2025-12-22, 22:35:45](https://news.ycombinator.com/item?id=46359996) - [Lotusbail npm package found to be harvesting WhatsApp messages and contacts](https://www.koi.ai/blog/npm-package-with-56k-downloads-malware-stealing-whatsapp-messages)
-* [2025-12-22, 22:03:07](https://news.ycombinator.com/item?id=46359683) - [Tc – Theodore Calvin's language-agnostic testing framework](https://github.com/ahoward/tc)
 * [2025-12-22, 21:09:59](https://news.ycombinator.com/item?id=46359120) - [It's Always TCP_NODELAY](https://brooker.co.za/blog/2024/05/09/nagle.html)
 * [2025-12-22, 20:21:12](https://news.ycombinator.com/item?id=46358538) - [In Pursuit of Clancy Sigal (2021)](https://yalereview.org/article/in-pursuit-of-clancy-sigal)
 * [2025-12-22, 19:37:34](https://news.ycombinator.com/item?id=46357945) - [Ultrasound Cancer Treatment: Sound Waves Fight Tumors](https://spectrum.ieee.org/ultrasound-cancer-treatment)
@@ -29,6 +28,7 @@
 * [2025-12-18, 11:33:28](https://news.ycombinator.com/item?id=46311450) - [Show HN: Python SDK – forecasting with foundation time-series and tabular models](https://github.com/S-FM/faim-python-client)
 * [2025-12-17, 23:34:51](https://news.ycombinator.com/item?id=46307099) - [Show HN: C-compiler to compile TCC for live-bootstrap](https://github.com/FransFaase/MES-replacement)
 * [2025-12-17, 19:19:00](https://news.ycombinator.com/item?id=46304195) - [How the RESISTORS put computing into 1960s counter-culture](https://spectrum.ieee.org/teenage-hackers)
+* [2025-12-16, 21:37:48](https://news.ycombinator.com/item?id=46294886) - [A centennial look back at Edward Gorey's macabre art and guarded life](https://www.washingtonpost.com/books/2025/12/13/edward-gorey-centennial-gregory-hischak-review/)
 * [2025-12-16, 20:25:04](https://news.ycombinator.com/item?id=46293932) - [Our New Sam Audio Model Transforms Audio Editing](https://about.fb.com/news/2025/12/our-new-sam-audio-model-transforms-audio-editing/)
 
 ## [Archives](archives/index.md)
