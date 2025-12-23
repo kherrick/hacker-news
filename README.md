@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-12-23, 15:51:17](https://news.ycombinator.com/item?id=46366285) - [Stop Slopware](https://stopslopware.net/)
 * [2025-12-23, 12:56:50](https://news.ycombinator.com/item?id=46364973) - [Test, don't (just) verify](https://alperenkeles.com/posts/test-dont-verify/)
 * [2025-12-23, 10:53:07](https://news.ycombinator.com/item?id=46364272) - [Ryanair fined €256M over ‘abusive strategy’ to limit ticket sales by OTAs](https://www.theguardian.com/business/2025/dec/23/ryanair-fined-limit-online-travel-agencies-ticket-sales-ota)
 * [2025-12-23, 10:28:09](https://news.ycombinator.com/item?id=46364131) - [Font with Built-In Syntax Highlighting (2024)](https://blog.glyphdrawing.club/font-with-built-in-syntax-highlighting/)
@@ -17,6 +16,7 @@
 * [2025-12-22, 19:15:56](https://news.ycombinator.com/item?id=46357675) - [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/)
 * [2025-12-22, 18:46:32](https://news.ycombinator.com/item?id=46357287) - [GLM-4.7: Advancing the Coding Capability](https://z.ai/blog/glm-4.7)
 * [2025-12-22, 17:01:28](https://news.ycombinator.com/item?id=46355949) - [NIST was 5 μs off UTC after last week's power cut](https://www.jeffgeerling.com/blog/2025/nist-was-5-μs-utc-after-last-weeks-power-cut)
+* [2025-12-22, 16:31:40](https://news.ycombinator.com/item?id=46355548) - [Flock Exposed Its AI-Powered Cameras to the Internet. We Tracked Ourselves](https://www.404media.co/flock-exposed-its-ai-powered-cameras-to-the-internet-we-tracked-ourselves/)
 * [2025-12-22, 15:59:01](https://news.ycombinator.com/item?id=46355165) - [Claude Code gets native LSP support](https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md)
 * [2025-12-22, 08:49:47](https://news.ycombinator.com/item?id=46352350) - [Show HN: Yapi – FOSS terminal API client for power users](https://yapi.run/blog/what-is-yapi)
 * [2025-12-22, 08:08:46](https://news.ycombinator.com/item?id=46352191) - [Dancing around the rhythm space with Euclid](https://pv.wtf/posts/euclidean-rhythms)
@@ -28,7 +28,7 @@
 * [2025-12-18, 15:37:18](https://news.ycombinator.com/item?id=46313962) - [Adobe Photoshop 1.0 Source Code (1990)](https://computerhistory.org/blog/adobe-photoshop-source-code/)
 * [2025-12-18, 13:51:11](https://news.ycombinator.com/item?id=46312621) - [Executorch: On-device AI across mobile, embedded and edge for PyTorch](https://github.com/pytorch/executorch)
 * [2025-12-18, 13:39:41](https://news.ycombinator.com/item?id=46312481) - [Partial inlining](https://xania.org/202512/18-partial-inlining)
-* [2025-12-17, 20:48:08](https://news.ycombinator.com/item?id=46305303) - [The last product to get cancelled](https://www.ablg.io/blog/last-product-to-get-cancelled)
+* [2025-12-17, 16:54:02](https://news.ycombinator.com/item?id=46302002) - [Solving the Problems of HBM-on-Logic](https://morethanmoore.substack.com/p/solving-the-problems-of-hbm-on-logic)
 * [2025-12-16, 20:25:04](https://news.ycombinator.com/item?id=46293932) - [Our New Sam Audio Model Transforms Audio Editing](https://about.fb.com/news/2025/12/our-new-sam-audio-model-transforms-audio-editing/)
 
 ## [Archives](archives/index.md)
