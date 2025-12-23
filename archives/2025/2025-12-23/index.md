@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-12-23](index.md)
 
+* [2025-12-23, 03:57:02](https://news.ycombinator.com/item?id=46362275) - [FCC Updates Covered List to Include Foreign UAS and UAS Critical Components [pdf]](https://docs.fcc.gov/public/attachments/DOC-416839A1.pdf)
+* [2025-12-23, 03:44:22](https://news.ycombinator.com/item?id=46362214) - [Archivists Posted the 60 Minutes Cecot Segment Bari Weiss Killed](https://www.404media.co/archivists-posted-the-60-minutes-cecot-segment-bari-weiss-killed/)
 * [2025-12-23, 03:33:24](https://news.ycombinator.com/item?id=46362149) - [60 Minutes: Cecot](https://news.ycombinator.com/item?id=46362149)
 * [2025-12-23, 03:14:46](https://news.ycombinator.com/item?id=46362032) - [The 60 Minutes report that Bari Weiss censored is now internet contraband](https://www.theverge.com/policy/849432/60-minutes-cecot-censored-canada-leak)
 * [2025-12-23, 02:56:50](https://news.ycombinator.com/item?id=46361917) - [Diesel pollution particles impair lysosomal functions of iPSC-derived microglia](https://www.sciencedirect.com/science/article/pii/S0160412025002181)

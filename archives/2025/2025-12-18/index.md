@@ -58,6 +58,7 @@
 * [2025-12-18, 13:39:41](https://news.ycombinator.com/item?id=46312481) - [Partial Inlining](https://xania.org/202512/18-partial-inlining)
 * [2025-12-18, 13:06:51](https://news.ycombinator.com/item?id=46312159) - [AI helps ship faster but it produces 1.7× more bugs](https://www.coderabbit.ai/blog/state-of-ai-vs-human-code-generation-report)
 * [2025-12-18, 12:50:23](https://news.ycombinator.com/item?id=46312021) - [Most Parked Domains Now Serving Malicious Content](https://krebsonsecurity.com/2025/12/most-parked-domains-now-serving-malicious-content/)
+* [2025-12-18, 12:47:05](https://news.ycombinator.com/item?id=46311993) - [Plugins case study: mdBook preprocessors](https://eli.thegreenplace.net/2025/plugins-case-study-mdbook-preprocessors/)
 * [2025-12-18, 12:28:45](https://news.ycombinator.com/item?id=46311856) - [Classical statues were not painted horribly](https://worksinprogress.co/issue/were-classical-statues-painted-horribly/)
 * [2025-12-18, 12:01:01](https://news.ycombinator.com/item?id=46311637) - [Hightouch (YC S19) Is Hiring](https://hightouch.com/careers)
 * [2025-12-18, 11:50:06](https://news.ycombinator.com/item?id=46311558) - [A school locked down after AI flagged a gun. It was a clarinet](https://www.washingtonpost.com/nation/2025/12/17/ai-gun-school-detection/)
