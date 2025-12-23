@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-12-23, 22:23:49](https://news.ycombinator.com/item?id=46370180) - [Microspeak: North Star – The Old New Thing](https://devblogs.microsoft.com/oldnewthing/20151103-00/?p=91861)
 * [2025-12-23, 21:54:30](https://news.ycombinator.com/item?id=46369923) - [X-ray: a Python library for finding bad redactions in PDF documents](https://github.com/freelawproject/x-ray)
 * [2025-12-23, 21:47:33](https://news.ycombinator.com/item?id=46369860) - [I didn't realize my LG TV was spying on me until I turned off this setting](https://www.pocket-lint.com/lg-tv-turn-off-live-plus/)
 * [2025-12-23, 19:41:39](https://news.ycombinator.com/item?id=46368616) - [HTTP Caching, a Refresher](https://danburzo.ro/http-caching-refresher/)
@@ -21,7 +22,6 @@
 * [2025-12-23, 00:12:16](https://news.ycombinator.com/item?id=46360856) - [Local AI is driving the biggest change in laptops in decades](https://spectrum.ieee.org/ai-models-locally)
 * [2025-12-22, 15:12:40](https://news.ycombinator.com/item?id=46354737) - [Toad is a unified experience for AI in the terminal](https://willmcgugan.github.io/toad-released/)
 * [2025-12-22, 15:06:13](https://news.ycombinator.com/item?id=46354674) - [Lua 5.5](https://lua.org/versions.html#5.5)
-* [2025-12-22, 08:08:46](https://news.ycombinator.com/item?id=46352191) - [Dancing around the rhythm space with Euclid](https://pv.wtf/posts/euclidean-rhythms)
 * [2025-12-20, 18:47:23](https://news.ycombinator.com/item?id=46338480) - [Space Math Academy](https://space-math.academy)
 * [2025-12-20, 07:14:53](https://news.ycombinator.com/item?id=46334206) - [Perfect Software – Software for an Audience of One](https://outofdesk.netlify.app/blog/perfect-software)
 * [2025-12-19, 19:44:41](https://news.ycombinator.com/item?id=46330012) - [Astrophotography Target Planner: Discover Hidden Nebulas](https://astroimagery.com/techniques/imaging/astrophotography-target-planner/)
