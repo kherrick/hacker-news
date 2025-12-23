@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-12-23, 17:08:34](https://news.ycombinator.com/item?id=46366998) - [Meta Is Using the Linux Scheduler Designed for Valve's Steam Deck on Its Servers](https://www.phoronix.com/news/Meta-SCX-LAVD-Steam-Deck-Server)
 * [2025-12-23, 12:56:50](https://news.ycombinator.com/item?id=46364973) - [Test, don't (just) verify](https://alperenkeles.com/posts/test-dont-verify/)
 * [2025-12-23, 10:53:07](https://news.ycombinator.com/item?id=46364272) - [Ryanair fined €256M over ‘abusive strategy’ to limit ticket sales by OTAs](https://www.theguardian.com/business/2025/dec/23/ryanair-fined-limit-online-travel-agencies-ticket-sales-ota)
 * [2025-12-23, 10:28:09](https://news.ycombinator.com/item?id=46364131) - [Font with Built-In Syntax Highlighting (2024)](https://blog.glyphdrawing.club/font-with-built-in-syntax-highlighting/)
@@ -8,7 +9,6 @@
 * [2025-12-23, 07:58:25](https://news.ycombinator.com/item?id=46363360) - [Instant database clones with PostgreSQL 18](https://boringsql.com/posts/instant-database-clones/)
 * [2025-12-23, 07:50:03](https://news.ycombinator.com/item?id=46363319) - [10 years bootstrapped: €6.5M revenue with a team of 13](https://www.datocms.com/blog/a-look-back-at-2025)
 * [2025-12-23, 05:17:50](https://news.ycombinator.com/item?id=46362655) - [Show HN: CineCLI – Browse and torrent movies directly from your terminal](https://github.com/eyeblech/cinecli)
-* [2025-12-23, 01:49:56](https://news.ycombinator.com/item?id=46361510) - [The Duodecimal Bulletin, Vol. 55, No. 1, Year 1209 [pdf]](https://dozenal.org/drupal/sites_bck/default/files/DuodecimalBulletinIssue551.pdf)
 * [2025-12-23, 01:03:57](https://news.ycombinator.com/item?id=46361229) - [Snitch – A friendlier ss/netstat](https://github.com/karol-broda/snitch)
 * [2025-12-23, 00:36:27](https://news.ycombinator.com/item?id=46361024) - [Inside CECOT – 60 Minutes [video]](https://archive.org/details/insidececot)
 * [2025-12-22, 21:09:59](https://news.ycombinator.com/item?id=46359120) - [It's Always TCP_NODELAY](https://brooker.co.za/blog/2024/05/09/nagle.html)
