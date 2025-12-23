@@ -8,6 +8,7 @@
 * [2025-12-23, 07:58:25](https://news.ycombinator.com/item?id=46363360) - [Instant database clones with PostgreSQL 18](https://boringsql.com/posts/instant-database-clones/)
 * [2025-12-23, 07:50:03](https://news.ycombinator.com/item?id=46363319) - [10 years bootstrapped: €6.5M revenue with a team of 13](https://www.datocms.com/blog/a-look-back-at-2025)
 * [2025-12-23, 05:17:50](https://news.ycombinator.com/item?id=46362655) - [Show HN: CineCLI – Browse and torrent movies directly from your terminal](https://github.com/eyeblech/cinecli)
+* [2025-12-23, 01:49:56](https://news.ycombinator.com/item?id=46361510) - [The Duodecimal Bulletin, Vol. 55, No. 1, Year 1209 [pdf]](https://dozenal.org/drupal/sites_bck/default/files/DuodecimalBulletinIssue551.pdf)
 * [2025-12-23, 01:03:57](https://news.ycombinator.com/item?id=46361229) - [Snitch – A friendlier ss/netstat](https://github.com/karol-broda/snitch)
 * [2025-12-23, 00:36:27](https://news.ycombinator.com/item?id=46361024) - [Inside CECOT – 60 Minutes [video]](https://archive.org/details/insidececot)
 * [2025-12-22, 21:09:59](https://news.ycombinator.com/item?id=46359120) - [It's Always TCP_NODELAY](https://brooker.co.za/blog/2024/05/09/nagle.html)
@@ -28,7 +29,6 @@
 * [2025-12-18, 15:37:18](https://news.ycombinator.com/item?id=46313962) - [Adobe Photoshop 1.0 Source Code (1990)](https://computerhistory.org/blog/adobe-photoshop-source-code/)
 * [2025-12-18, 13:51:11](https://news.ycombinator.com/item?id=46312621) - [Executorch: On-device AI across mobile, embedded and edge for PyTorch](https://github.com/pytorch/executorch)
 * [2025-12-18, 13:39:41](https://news.ycombinator.com/item?id=46312481) - [Partial inlining](https://xania.org/202512/18-partial-inlining)
-* [2025-12-17, 16:54:02](https://news.ycombinator.com/item?id=46302002) - [Solving the Problems of HBM-on-Logic](https://morethanmoore.substack.com/p/solving-the-problems-of-hbm-on-logic)
 * [2025-12-16, 20:25:04](https://news.ycombinator.com/item?id=46293932) - [Our New Sam Audio Model Transforms Audio Editing](https://about.fb.com/news/2025/12/our-new-sam-audio-model-transforms-audio-editing/)
 
 ## [Archives](archives/index.md)
