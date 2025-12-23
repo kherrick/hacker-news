@@ -141,16 +141,6 @@
   ],
   [
     [
-      "2025-12-23, 09:17:42",
-      "https://news.ycombinator.com/item?id=46363751"
-    ],
-    [
-      "Carnap – A formal logic framework for Haskell",
-      "https://carnap.io/"
-    ]
-  ],
-  [
-    [
       "2025-12-23, 07:58:25",
       "https://news.ycombinator.com/item?id=46363360"
     ],
@@ -297,6 +287,16 @@
     [
       "Fifty problems with standard web APIs in 2025",
       "https://zerotrickpony.com/articles/browser-bugs/"
+    ]
+  ],
+  [
+    [
+      "2025-12-18, 00:08:46",
+      "https://news.ycombinator.com/item?id=46307382"
+    ],
+    [
+      "Go-boot: bare metal Go UEFI boot manager",
+      "https://github.com/usbarmory/go-boot"
     ]
   ]
 ]
