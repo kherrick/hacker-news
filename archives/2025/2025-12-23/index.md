@@ -12,6 +12,7 @@
 * [2025-12-23, 10:53:07](https://news.ycombinator.com/item?id=46364272) - [Ryanair fined €256M over ‘abusive strategy’ to limit ticket sales by OTAs](https://www.theguardian.com/business/2025/dec/23/ryanair-fined-limit-online-travel-agencies-ticket-sales-ota)
 * [2025-12-23, 10:28:09](https://news.ycombinator.com/item?id=46364131) - [Font with Built-In Syntax Highlighting (2024)](https://blog.glyphdrawing.club/font-with-built-in-syntax-highlighting/)
 * [2025-12-23, 10:05:00](https://news.ycombinator.com/item?id=46363993) - [Classical billiards can compute (2d billiard systems are Turing complete)](https://arxiv.org/abs/2512.19156)
+* [2025-12-23, 09:54:59](https://news.ycombinator.com/item?id=46363948) - [Are We Loong Yet?](https://areweloongyet.com/en/)
 * [2025-12-23, 09:50:31](https://news.ycombinator.com/item?id=46363921) - [What are the best engineering blogs with real-world depth (no fluff)?](https://news.ycombinator.com/item?id=46363921)
 * [2025-12-23, 09:47:06](https://news.ycombinator.com/item?id=46363901) - [Gimp Source Code](https://gitlab.gnome.org/GNOME/gimp)
 * [2025-12-23, 09:17:42](https://news.ycombinator.com/item?id=46363751) - [Carnap – A formal logic framework for Haskell](https://carnap.io/)
