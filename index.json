@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2025-12-23, 09:47:06",
+      "https://news.ycombinator.com/item?id=46363901"
+    ],
+    [
+      "Gimp Source Code",
+      "https://gitlab.gnome.org/GNOME/gimp"
+    ]
+  ],
+  [
+    [
       "2025-12-23, 09:17:42",
       "https://news.ycombinator.com/item?id=46363751"
     ],
@@ -21,12 +31,22 @@
   ],
   [
     [
-      "2025-12-23, 06:22:21",
-      "https://news.ycombinator.com/item?id=46362927"
+      "2025-12-23, 07:58:25",
+      "https://news.ycombinator.com/item?id=46363360"
     ],
     [
-      "iOS 26.3 Brings AirPods-Like Pairing to Third-Party Devices in EU Under DMA",
-      "https://www.macrumors.com/2025/12/22/ios-26-3-dma-airpods-pairing/"
+      "Instant database clones with PostgreSQL 18",
+      "https://boringsql.com/posts/instant-database-clones/"
+    ]
+  ],
+  [
+    [
+      "2025-12-23, 07:50:03",
+      "https://news.ycombinator.com/item?id=46363319"
+    ],
+    [
+      "10 years bootstrapped: €6.5M revenue with a team of 13",
+      "https://www.datocms.com/blog/a-look-back-at-2025"
     ]
   ],
   [
@@ -231,16 +251,6 @@
   ],
   [
     [
-      "2025-12-18, 12:47:05",
-      "https://news.ycombinator.com/item?id=46311993"
-    ],
-    [
-      "Plugins case study: mdBook preprocessors",
-      "https://eli.thegreenplace.net/2025/plugins-case-study-mdbook-preprocessors/"
-    ]
-  ],
-  [
-    [
       "2025-12-18, 11:33:28",
       "https://news.ycombinator.com/item?id=46311450"
     ],
@@ -257,16 +267,6 @@
     [
       "Show HN: C-compiler to compile TCC for live-bootstrap",
       "https://github.com/FransFaase/MES-replacement"
-    ]
-  ],
-  [
-    [
-      "2025-12-17, 19:19:00",
-      "https://news.ycombinator.com/item?id=46304195"
-    ],
-    [
-      "How the RESISTORS put computing into 1960s counter-culture",
-      "https://spectrum.ieee.org/teenage-hackers"
     ]
   ],
   [
