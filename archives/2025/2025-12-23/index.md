@@ -5,7 +5,10 @@
 ### [Archives](../../index.md) for [2025-12-23](index.md)
 
 * [2025-12-23, 09:50:31](https://news.ycombinator.com/item?id=46363921) - [What are the best engineering blogs with real-world depth (no fluff)?](https://news.ycombinator.com/item?id=46363921)
+* [2025-12-23, 09:47:06](https://news.ycombinator.com/item?id=46363901) - [Gimp Source Code](https://gitlab.gnome.org/GNOME/gimp)
 * [2025-12-23, 09:17:42](https://news.ycombinator.com/item?id=46363751) - [Carnap – A formal logic framework for Haskell](https://carnap.io/)
+* [2025-12-23, 07:58:25](https://news.ycombinator.com/item?id=46363360) - [Instant database clones with PostgreSQL 18](https://boringsql.com/posts/instant-database-clones/)
+* [2025-12-23, 07:50:03](https://news.ycombinator.com/item?id=46363319) - [10 years bootstrapped: €6.5M revenue with a team of 13](https://www.datocms.com/blog/a-look-back-at-2025)
 * [2025-12-23, 06:22:21](https://news.ycombinator.com/item?id=46362927) - [iOS 26.3 Brings AirPods-Like Pairing to Third-Party Devices in EU Under DMA](https://www.macrumors.com/2025/12/22/ios-26-3-dma-airpods-pairing/)
 * [2025-12-23, 05:17:50](https://news.ycombinator.com/item?id=46362655) - [Show HN: CineCLI – Browse and torrent movies directly from your terminal](https://github.com/eyeblech/cinecli)
 * [2025-12-23, 03:57:02](https://news.ycombinator.com/item?id=46362275) - [FCC Updates Covered List to Include Foreign UAS and UAS Critical Components [pdf]](https://docs.fcc.gov/public/attachments/DOC-416839A1.pdf)
