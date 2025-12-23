@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-12-23, 18:00:31",
+      "https://news.ycombinator.com/item?id=46367475"
+    ],
+    [
+      "We replaced H.264 streaming with JPEG screenshots (and it worked better)",
+      "https://blog.helix.ml/p/we-mass-deployed-15-year-old-screen"
+    ]
+  ],
+  [
+    [
+      "2025-12-23, 17:34:22",
+      "https://news.ycombinator.com/item?id=46367232"
+    ],
+    [
+      "Towards a secure peer-to-peer app platform for Clan",
+      "https://clan.lol/blog/towards-app-platform-vmtech/"
+    ]
+  ],
+  [
+    [
       "2025-12-23, 17:33:42",
       "https://news.ycombinator.com/item?id=46367224"
     ],
@@ -11,21 +31,11 @@
   ],
   [
     [
-      "2025-12-23, 17:33:40",
-      "https://news.ycombinator.com/item?id=46367223"
-    ],
-    [
-      "How Did Doge Disrupt So Much While Saving So Little?",
-      "https://www.nytimes.com/2025/12/23/us/politics/doge-musk-trump-analysis.html"
-    ]
-  ],
-  [
-    [
       "2025-12-23, 17:08:34",
       "https://news.ycombinator.com/item?id=46366998"
     ],
     [
-      "Meta Is Using the Linux Scheduler Designed for Valve's Steam Deck on Its Servers",
+      "Meta is using the Linux scheduler designed for Valve's Steam Deck on its servers",
       "https://www.phoronix.com/news/Meta-SCX-LAVD-Steam-Deck-Server"
     ]
   ],
@@ -37,6 +47,16 @@
     [
       "When irate product support customers demand to speak to Bill Gates",
       "https://devblogs.microsoft.com/oldnewthing/20251223-00/?p=111896"
+    ]
+  ],
+  [
+    [
+      "2025-12-23, 15:51:17",
+      "https://news.ycombinator.com/item?id=46366285"
+    ],
+    [
+      "Stop Slopware",
+      "https://stopslopware.net/"
     ]
   ],
   [
@@ -141,6 +161,16 @@
   ],
   [
     [
+      "2025-12-23, 00:12:16",
+      "https://news.ycombinator.com/item?id=46360856"
+    ],
+    [
+      "Local AI is driving the biggest change in laptops in decades",
+      "https://spectrum.ieee.org/ai-models-locally"
+    ]
+  ],
+  [
+    [
       "2025-12-22, 21:09:59",
       "https://news.ycombinator.com/item?id=46359120"
     ],
@@ -181,16 +211,6 @@
   ],
   [
     [
-      "2025-12-22, 17:01:28",
-      "https://news.ycombinator.com/item?id=46355949"
-    ],
-    [
-      "NIST was 5 μs off UTC after last week's power cut",
-      "https://www.jeffgeerling.com/blog/2025/nist-was-5-μs-utc-after-last-weeks-power-cut"
-    ]
-  ],
-  [
-    [
       "2025-12-22, 08:49:47",
       "https://news.ycombinator.com/item?id=46352350"
     ],
@@ -211,12 +231,12 @@
   ],
   [
     [
-      "2025-12-20, 07:47:55",
-      "https://news.ycombinator.com/item?id=46334333"
+      "2025-12-20, 10:25:38",
+      "https://news.ycombinator.com/item?id=46335069"
     ],
     [
-      "Debian adds LoongArch as officially supported architecture",
-      "https://lists.debian.org/debian-devel-announce/2025/12/msg00004.html"
+      "The post-GeForce era: What if Nvidia abandons PC gaming?",
+      "https://www.pcworld.com/article/3013044/the-post-geforce-era-what-if-nvidia-abandons-pc-gaming.html"
     ]
   ],
   [
@@ -251,16 +271,6 @@
   ],
   [
     [
-      "2025-12-19, 01:28:26",
-      "https://news.ycombinator.com/item?id=46321246"
-    ],
-    [
-      "Diary: Val McDermid, Deep Winter",
-      "https://books.substack.com/p/diary-val-mcdermid-deep-winter"
-    ]
-  ],
-  [
-    [
       "2025-12-18, 15:37:18",
       "https://news.ycombinator.com/item?id=46313962"
     ],
@@ -287,16 +297,6 @@
     [
       "Partial inlining",
       "https://xania.org/202512/18-partial-inlining"
-    ]
-  ],
-  [
-    [
-      "2025-12-16, 20:25:04",
-      "https://news.ycombinator.com/item?id=46293932"
-    ],
-    [
-      "Our New Sam Audio Model Transforms Audio Editing",
-      "https://about.fb.com/news/2025/12/our-new-sam-audio-model-transforms-audio-editing/"
     ]
   ]
 ]
