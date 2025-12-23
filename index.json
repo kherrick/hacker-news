@@ -1,12 +1,42 @@
 [
   [
     [
-      "2025-12-23, 00:36:27",
-      "https://news.ycombinator.com/item?id=46361024"
+      "2025-12-23, 01:59:06",
+      "https://news.ycombinator.com/item?id=46361571"
     ],
     [
-      "Cecot – 60 Minutes",
-      "https://archive.org/details/insidececot"
+      "Pulled 60 Minutes segment on CECOT",
+      "https://archive.org/details/60minutes-cecotsegment"
+    ]
+  ],
+  [
+    [
+      "2025-12-23, 01:47:46",
+      "https://news.ycombinator.com/item?id=46361496"
+    ],
+    [
+      "NYC Spends $200 Million on Cell Service for School Chromebooks",
+      "https://nysfocus.com/2025/12/22/eric-adams-school-chromebooks-contract"
+    ]
+  ],
+  [
+    [
+      "2025-12-23, 01:03:57",
+      "https://news.ycombinator.com/item?id=46361229"
+    ],
+    [
+      "Snitch – a friendly netstat alternative for humans",
+      "https://github.com/karol-broda/snitch"
+    ]
+  ],
+  [
+    [
+      "2025-12-23, 00:12:16",
+      "https://news.ycombinator.com/item?id=46360856"
+    ],
+    [
+      "Laptop Isn't Ready for LLMs. That's About to Change",
+      "https://spectrum.ieee.org/ai-models-locally"
     ]
   ],
   [
@@ -131,16 +161,6 @@
   ],
   [
     [
-      "2025-12-22, 17:32:18",
-      "https://news.ycombinator.com/item?id=46356320"
-    ],
-    [
-      "Henge Finder",
-      "https://hengefinder.rcdis.co/#learn"
-    ]
-  ],
-  [
-    [
       "2025-12-22, 17:01:28",
       "https://news.ycombinator.com/item?id=46355949"
     ],
@@ -157,16 +177,6 @@
     [
       "Uplane (YC F25) Is Hiring Founding Engineers (Full-Stack and AI)",
       "https://www.useparallel.com/uplane1/careers"
-    ]
-  ],
-  [
-    [
-      "2025-12-22, 16:56:35",
-      "https://news.ycombinator.com/item?id=46355888"
-    ],
-    [
-      "Jimmy Lai Is a Martyr for Freedom",
-      "https://reason.com/2025/12/19/jimmy-lai-is-a-martyr-for-freedom/"
     ]
   ],
   [
@@ -211,16 +221,6 @@
   ],
   [
     [
-      "2025-12-22, 09:30:58",
-      "https://news.ycombinator.com/item?id=46352565"
-    ],
-    [
-      "The ancient monuments saluting the winter solstice",
-      "https://www.bbc.com/culture/article/20251219-the-ancient-monuments-saluting-the-winter-solstice"
-    ]
-  ],
-  [
-    [
       "2025-12-22, 08:37:34",
       "https://news.ycombinator.com/item?id=46352286"
     ],
@@ -247,16 +247,6 @@
     [
       "Programming languages used for music",
       "https://timthompson.com/plum/cgi/showlist.cgi?sort=name&concise=yes"
-    ]
-  ],
-  [
-    [
-      "2025-12-19, 14:31:57",
-      "https://news.ycombinator.com/item?id=46326261"
-    ],
-    [
-      "Ask HN: How are most people converting HEIC to jpg?",
-      "https://news.ycombinator.com/item?id=46326261"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "How the RESISTORS put computing into 1960s counter-culture",
       "https://spectrum.ieee.org/teenage-hackers"
+    ]
+  ],
+  [
+    [
+      "2025-12-16, 20:25:04",
+      "https://news.ycombinator.com/item?id=46293932"
+    ],
+    [
+      "Our New Sam Audio Model Transforms Audio Editing",
+      "https://about.fb.com/news/2025/12/our-new-sam-audio-model-transforms-audio-editing/"
     ]
   ]
 ]
