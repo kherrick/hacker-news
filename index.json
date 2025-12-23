@@ -1,22 +1,32 @@
 [
   [
     [
-      "2025-12-23, 01:59:06",
-      "https://news.ycombinator.com/item?id=46361571"
+      "2025-12-23, 03:33:24",
+      "https://news.ycombinator.com/item?id=46362149"
     ],
     [
-      "Pulled 60 Minutes segment on CECOT",
-      "https://archive.org/details/60minutes-cecotsegment"
+      "60 Minutes: Cecot",
+      "https://news.ycombinator.com/item?id=46362149"
     ]
   ],
   [
     [
-      "2025-12-23, 01:47:46",
-      "https://news.ycombinator.com/item?id=46361496"
+      "2025-12-23, 03:14:46",
+      "https://news.ycombinator.com/item?id=46362032"
     ],
     [
-      "NYC Spends $200 Million on Cell Service for School Chromebooks",
-      "https://nysfocus.com/2025/12/22/eric-adams-school-chromebooks-contract"
+      "The 60 Minutes report that Bari Weiss censored is now internet contraband",
+      "https://www.theverge.com/policy/849432/60-minutes-cecot-censored-canada-leak"
+    ]
+  ],
+  [
+    [
+      "2025-12-23, 02:56:50",
+      "https://news.ycombinator.com/item?id=46361917"
+    ],
+    [
+      "Diesel pollution particles impair lysosomal functions of iPSC-derived microglia",
+      "https://www.sciencedirect.com/science/article/pii/S0160412025002181"
     ]
   ],
   [
@@ -25,7 +35,7 @@
       "https://news.ycombinator.com/item?id=46361229"
     ],
     [
-      "Snitch – a friendly netstat alternative for humans",
+      "Snitch – A friendlier ss/netstat",
       "https://github.com/karol-broda/snitch"
     ]
   ],
@@ -97,16 +107,6 @@
     [
       "Ultrasound Cancer Treatment: Sound Waves Fight Tumors",
       "https://spectrum.ieee.org/ultrasound-cancer-treatment"
-    ]
-  ],
-  [
-    [
-      "2025-12-22, 19:31:11",
-      "https://news.ycombinator.com/item?id=46357881"
-    ],
-    [
-      "US blocks all offshore wind construction, says reason is classified",
-      "https://arstechnica.com/science/2025/12/us-government-finds-new-excuse-to-stop-construction-of-offshore-wind/"
     ]
   ],
   [
@@ -261,12 +261,12 @@
   ],
   [
     [
-      "2025-12-18, 14:00:50",
-      "https://news.ycombinator.com/item?id=46312755"
+      "2025-12-18, 11:33:28",
+      "https://news.ycombinator.com/item?id=46311450"
     ],
     [
-      "The Rise of SQL:the second programming language everyone needs to know",
-      "https://spectrum.ieee.org/the-rise-of-sql"
+      "Show HN: Python SDK – forecasting with foundation time-series and tabular models",
+      "https://github.com/S-FM/faim-python-client"
     ]
   ],
   [
