@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-12-23, 09:50:31](https://news.ycombinator.com/item?id=46363921) - [What are the best engineering blogs with real-world depth (no fluff)?](https://news.ycombinator.com/item?id=46363921)
-* [2025-12-23, 09:47:06](https://news.ycombinator.com/item?id=46363901) - [Gimp Source Code](https://gitlab.gnome.org/GNOME/gimp)
 * [2025-12-23, 09:17:42](https://news.ycombinator.com/item?id=46363751) - [Carnap – A formal logic framework for Haskell](https://carnap.io/)
 * [2025-12-23, 07:58:25](https://news.ycombinator.com/item?id=46363360) - [Instant database clones with PostgreSQL 18](https://boringsql.com/posts/instant-database-clones/)
 * [2025-12-23, 07:50:03](https://news.ycombinator.com/item?id=46363319) - [10 years bootstrapped: €6.5M revenue with a team of 13](https://www.datocms.com/blog/a-look-back-at-2025)
@@ -27,6 +26,7 @@
 * [2025-12-18, 15:37:18](https://news.ycombinator.com/item?id=46313962) - [Adobe Photoshop 1.0 Source Code (2013)](https://computerhistory.org/blog/adobe-photoshop-source-code/)
 * [2025-12-18, 11:33:28](https://news.ycombinator.com/item?id=46311450) - [Show HN: Python SDK – forecasting with foundation time-series and tabular models](https://github.com/S-FM/faim-python-client)
 * [2025-12-17, 23:34:51](https://news.ycombinator.com/item?id=46307099) - [Show HN: C-compiler to compile TCC for live-bootstrap](https://github.com/FransFaase/MES-replacement)
+* [2025-12-17, 19:19:00](https://news.ycombinator.com/item?id=46304195) - [How the RESISTORS put computing into 1960s counter-culture](https://spectrum.ieee.org/teenage-hackers)
 * [2025-12-17, 00:03:52](https://news.ycombinator.com/item?id=46296498) - [Show HN: I wrote a small lib to turn a USB gamepad into a Bluetooth one](https://github.com/skorokithakis/bluetooth-gamepad)
 * [2025-12-16, 21:37:48](https://news.ycombinator.com/item?id=46294886) - [A centennial look back at Edward Gorey's macabre art and guarded life](https://www.washingtonpost.com/books/2025/12/13/edward-gorey-centennial-gregory-hischak-review/)
 * [2025-12-16, 20:25:04](https://news.ycombinator.com/item?id=46293932) - [Our New Sam Audio Model Transforms Audio Editing](https://about.fb.com/news/2025/12/our-new-sam-audio-model-transforms-audio-editing/)
