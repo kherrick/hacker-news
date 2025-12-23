@@ -14,7 +14,6 @@
 * [2025-12-23, 12:56:50](https://news.ycombinator.com/item?id=46364973) - [Test, don't just verify](https://alperenkeles.com/posts/test-dont-verify/)
 * [2025-12-23, 10:53:07](https://news.ycombinator.com/item?id=46364272) - [Ryanair fined €256M over ‘abusive strategy’ to limit ticket sales by OTAs](https://www.theguardian.com/business/2025/dec/23/ryanair-fined-limit-online-travel-agencies-ticket-sales-ota)
 * [2025-12-23, 10:28:09](https://news.ycombinator.com/item?id=46364131) - [Font with Built-In Syntax Highlighting (2024)](https://blog.glyphdrawing.club/font-with-built-in-syntax-highlighting/)
-* [2025-12-23, 09:17:42](https://news.ycombinator.com/item?id=46363751) - [Carnap – A formal logic framework for Haskell](https://carnap.io/)
 * [2025-12-23, 07:58:25](https://news.ycombinator.com/item?id=46363360) - [Instant database clones with PostgreSQL 18](https://boringsql.com/posts/instant-database-clones/)
 * [2025-12-23, 07:50:03](https://news.ycombinator.com/item?id=46363319) - [10 years bootstrapped: €6.5M revenue with a team of 13](https://www.datocms.com/blog/a-look-back-at-2025)
 * [2025-12-23, 06:22:21](https://news.ycombinator.com/item?id=46362927) - [iOS 26.3 brings AirPods-like pairing to third-party devices in EU under DMA](https://www.macrumors.com/2025/12/22/ios-26-3-dma-airpods-pairing/)
@@ -30,6 +29,7 @@
 * [2025-12-18, 15:37:18](https://news.ycombinator.com/item?id=46313962) - [Adobe Photoshop 1.0 Source Code (1990)](https://computerhistory.org/blog/adobe-photoshop-source-code/)
 * [2025-12-18, 13:51:11](https://news.ycombinator.com/item?id=46312621) - [Executorch: On-device AI across mobile, embedded and edge for PyTorch](https://github.com/pytorch/executorch)
 * [2025-12-18, 04:55:18](https://news.ycombinator.com/item?id=46309007) - [Fifty problems with standard web APIs in 2025](https://zerotrickpony.com/articles/browser-bugs/)
+* [2025-12-18, 00:08:46](https://news.ycombinator.com/item?id=46307382) - [Go-boot: bare metal Go UEFI boot manager](https://github.com/usbarmory/go-boot)
 
 ## [Archives](archives/index.md)
 
