@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-12-23](index.md)
 
+* [2025-12-23, 18:33:01](https://news.ycombinator.com/item?id=46367864) - [Volvo Centum is Dalton Maag's new typeface for Volvo](https://www.wallpaper.com/design-interiors/corporate-design-branding/volvo-new-font-volvo-centum)
+* [2025-12-23, 18:22:23](https://news.ycombinator.com/item?id=46367744) - [An initial analysis of the discovered Unix V4 tape](https://www.spinellis.gr/blog/20251223/?yc261223)
 * [2025-12-23, 18:00:31](https://news.ycombinator.com/item?id=46367475) - [We replaced H.264 streaming with JPEG screenshots (and it worked better)](https://blog.helix.ml/p/we-mass-deployed-15-year-old-screen)
 * [2025-12-23, 17:34:22](https://news.ycombinator.com/item?id=46367232) - [Towards a secure peer-to-peer app platform for Clan](https://clan.lol/blog/towards-app-platform-vmtech/)
 * [2025-12-23, 17:33:42](https://news.ycombinator.com/item?id=46367224) - [Fabrice Bellard Releases MicroQuickJS](https://github.com/bellard/mquickjs/blob/main/README.md)
