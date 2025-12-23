@@ -12,7 +12,7 @@
 * [2025-12-23, 05:17:50](https://news.ycombinator.com/item?id=46362655) - [Show HN: CineCLI – Browse and torrent movies directly from your terminal](https://github.com/eyeblech/cinecli)
 * [2025-12-23, 01:49:56](https://news.ycombinator.com/item?id=46361510) - [The Duodecimal Bulletin, Vol. 55, No. 1, Year 1209 [pdf]](https://dozenal.org/drupal/sites_bck/default/files/DuodecimalBulletinIssue551.pdf)
 * [2025-12-23, 01:03:57](https://news.ycombinator.com/item?id=46361229) - [Snitch – A friendlier ss/netstat](https://github.com/karol-broda/snitch)
-* [2025-12-23, 00:36:27](https://news.ycombinator.com/item?id=46361024) - [Cecot – 60 Minutes](https://archive.org/details/insidececot)
+* [2025-12-23, 00:36:27](https://news.ycombinator.com/item?id=46361024) - [Inside CECOT – 60 Minutes [video]](https://archive.org/details/insidececot)
 * [2025-12-22, 21:09:59](https://news.ycombinator.com/item?id=46359120) - [It's Always TCP_NODELAY](https://brooker.co.za/blog/2024/05/09/nagle.html)
 * [2025-12-22, 19:37:34](https://news.ycombinator.com/item?id=46357945) - [Ultrasound Cancer Treatment: Sound Waves Fight Tumors](https://spectrum.ieee.org/ultrasound-cancer-treatment)
 * [2025-12-22, 19:30:18](https://news.ycombinator.com/item?id=46357870) - [The Garbage Collection Handbook](https://gchandbook.org/index.html)
