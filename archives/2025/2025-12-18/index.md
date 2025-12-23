@@ -57,6 +57,7 @@
 * [2025-12-18, 14:18:52](https://news.ycombinator.com/item?id=46312973) - [Please Just Try Htmx](http://pleasejusttryhtmx.com/)
 * [2025-12-18, 14:04:03](https://news.ycombinator.com/item?id=46312792) - [Virtualizing Nvidia HGX B200 GPUs with Open Source](https://www.ubicloud.com/blog/virtualizing-nvidia-hgx-b200-gpus-with-open-source)
 * [2025-12-18, 14:00:50](https://news.ycombinator.com/item?id=46312755) - [The Rise of SQL:the second programming language everyone needs to know](https://spectrum.ieee.org/the-rise-of-sql)
+* [2025-12-18, 13:51:11](https://news.ycombinator.com/item?id=46312621) - [Executorch: On-device AI across mobile, embedded and edge for PyTorch](https://github.com/pytorch/executorch)
 * [2025-12-18, 13:39:41](https://news.ycombinator.com/item?id=46312481) - [Partial Inlining](https://xania.org/202512/18-partial-inlining)
 * [2025-12-18, 13:06:51](https://news.ycombinator.com/item?id=46312159) - [AI helps ship faster but it produces 1.7× more bugs](https://www.coderabbit.ai/blog/state-of-ai-vs-human-code-generation-report)
 * [2025-12-18, 12:50:23](https://news.ycombinator.com/item?id=46312021) - [Most Parked Domains Now Serving Malicious Content](https://krebsonsecurity.com/2025/12/most-parked-domains-now-serving-malicious-content/)
