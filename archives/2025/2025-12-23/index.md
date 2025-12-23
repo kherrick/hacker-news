@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-12-23](index.md)
 
 * [2025-12-23, 19:35:20](https://news.ycombinator.com/item?id=46368557) - [Terrence Malick's Disciples](https://yalereview.org/article/bilge-ebiri-terrence-malick)
+* [2025-12-23, 19:26:36](https://news.ycombinator.com/item?id=46368471) - [Un-Redactor](https://github.com/kvthweatt/unredactor)
 * [2025-12-23, 19:09:45](https://news.ycombinator.com/item?id=46368300) - [Help My c64 caught on fire](https://c0de517e.com/026_c64fire.htm)
 * [2025-12-23, 18:33:01](https://news.ycombinator.com/item?id=46367864) - [Volvo Centum is Dalton Maag's new typeface for Volvo](https://www.wallpaper.com/design-interiors/corporate-design-branding/volvo-new-font-volvo-centum)
 * [2025-12-23, 18:22:23](https://news.ycombinator.com/item?id=46367744) - [An initial analysis of the discovered Unix V4 tape](https://www.spinellis.gr/blog/20251223/?yc261223)

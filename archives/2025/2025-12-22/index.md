@@ -43,6 +43,8 @@
 * [2025-12-22, 15:49:22](https://news.ycombinator.com/item?id=46355077) - [The U.S. Is Funding Fewer Grants in Every Area of Science and Medicine](https://www.nytimes.com/interactive/2025/12/02/upshot/trump-science-funding-cuts.html)
 * [2025-12-22, 15:38:37](https://news.ycombinator.com/item?id=46354970) - [Scaling LLMs to Larger Codebases](https://blog.kierangill.xyz/oversight-and-guidance)
 * [2025-12-22, 15:16:18](https://news.ycombinator.com/item?id=46354773) - [Origin of Hallucination in LLMs, The physical source of hallucinations has found](https://arxiv.org/abs/2512.01797)
+* [2025-12-22, 15:12:40](https://news.ycombinator.com/item?id=46354737) - [Toad is a unified experience for AI in the terminal](https://willmcgugan.github.io/toad-released/)
+* [2025-12-22, 15:06:13](https://news.ycombinator.com/item?id=46354674) - [Lua 5.5](https://lua.org/versions.html#5.5)
 * [2025-12-22, 14:28:42](https://news.ycombinator.com/item?id=46354372) - [(Social) media manipulation in one image](https://kerkour.com/social-media-manipulation)
 * [2025-12-22, 12:54:29](https://news.ycombinator.com/item?id=46353777) - [The biggest CRT ever made: Sony's PVM-4300](https://dfarq.homeip.net/the-biggest-crt-ever-made-sonys-pvm-4300/)
 * [2025-12-22, 12:40:19](https://news.ycombinator.com/item?id=46353704) - [Ask HN: My mother was scammed out of all her savings. What should I do?](https://news.ycombinator.com/item?id=46353704)

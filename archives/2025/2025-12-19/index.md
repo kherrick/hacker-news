@@ -34,6 +34,7 @@
 * [2025-12-19, 17:01:56](https://news.ycombinator.com/item?id=46328109) - [Prepare for That Stupid World](https://ploum.net/2025-12-19-prepare-for-that-world.html)
 * [2025-12-19, 16:42:30](https://news.ycombinator.com/item?id=46327818) - [I have to give Fortnite my passport to use Bluesky](https://spitfirenews.com/p/why-i-have-to-give-fortnite-my-passport-to-use-bluesky)
 * [2025-12-19, 16:41:38](https://news.ycombinator.com/item?id=46327791) - [AI will kill all the lawyers](https://spectator.com/article/ai-will-kill-all-the-lawyers/)
+* [2025-12-19, 16:34:41](https://news.ycombinator.com/item?id=46327692) - [What makes you senior](https://terriblesoftware.org/2025/11/25/what-actually-makes-you-senior/)
 * [2025-12-19, 16:14:39](https://news.ycombinator.com/item?id=46327406) - [TikTok Deal Is the Shittiest Possible Outcome, Making Everything Worse](https://www.techdirt.com/2025/12/19/tiktok-deal-done-and-its-somehow-the-shittiest-possible-outcome-making-everything-worse/)
 * [2025-12-19, 16:08:39](https://news.ycombinator.com/item?id=46327337) - [Exploring Speculative JIT Compilation for Emacs Lisp with Java](https://kyo.iroiro.party/en/posts/juicemacs-exploring-jit-for-elisp/)
 * [2025-12-19, 16:07:42](https://news.ycombinator.com/item?id=46327325) - [Cursor Acquires Graphite](https://graphite.com/blog/graphite-joins-cursor)
