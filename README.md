@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-12-23, 10:53:07](https://news.ycombinator.com/item?id=46364272) - [Ryanair fined €256M over ‘abusive strategy’ to limit ticket sales by OTAs](https://www.theguardian.com/business/2025/dec/23/ryanair-fined-limit-online-travel-agencies-ticket-sales-ota)
 * [2025-12-23, 09:50:31](https://news.ycombinator.com/item?id=46363921) - [What are the best engineering blogs with real-world depth (no fluff)?](https://news.ycombinator.com/item?id=46363921)
 * [2025-12-23, 09:17:42](https://news.ycombinator.com/item?id=46363751) - [Carnap – A formal logic framework for Haskell](https://carnap.io/)
 * [2025-12-23, 07:58:25](https://news.ycombinator.com/item?id=46363360) - [Instant database clones with PostgreSQL 18](https://boringsql.com/posts/instant-database-clones/)
@@ -23,10 +24,9 @@
 * [2025-12-20, 07:39:00](https://news.ycombinator.com/item?id=46334297) - [The Polyglot NixOS](https://x86.lol/generic/2025/12/19/polyglot.html)
 * [2025-12-19, 10:29:33](https://news.ycombinator.com/item?id=46324269) - [FPGAs Need a New Future](https://www.allaboutcircuits.com/industry-articles/fpgas-need-a-new-future/)
 * [2025-12-18, 17:14:37](https://news.ycombinator.com/item?id=46315579) - [Remove Black Color with Shaders](https://yuanchuan.dev/remove-black-color-with-shaders)
-* [2025-12-18, 15:37:18](https://news.ycombinator.com/item?id=46313962) - [Adobe Photoshop 1.0 Source Code (2013)](https://computerhistory.org/blog/adobe-photoshop-source-code/)
+* [2025-12-18, 15:37:18](https://news.ycombinator.com/item?id=46313962) - [Adobe Photoshop 1.0 Source Code (1990)](https://computerhistory.org/blog/adobe-photoshop-source-code/)
 * [2025-12-18, 11:33:28](https://news.ycombinator.com/item?id=46311450) - [Show HN: Python SDK – forecasting with foundation time-series and tabular models](https://github.com/S-FM/faim-python-client)
 * [2025-12-17, 23:34:51](https://news.ycombinator.com/item?id=46307099) - [Show HN: C-compiler to compile TCC for live-bootstrap](https://github.com/FransFaase/MES-replacement)
-* [2025-12-17, 19:19:00](https://news.ycombinator.com/item?id=46304195) - [How the RESISTORS put computing into 1960s counter-culture](https://spectrum.ieee.org/teenage-hackers)
 * [2025-12-17, 00:03:52](https://news.ycombinator.com/item?id=46296498) - [Show HN: I wrote a small lib to turn a USB gamepad into a Bluetooth one](https://github.com/skorokithakis/bluetooth-gamepad)
 * [2025-12-16, 21:37:48](https://news.ycombinator.com/item?id=46294886) - [A centennial look back at Edward Gorey's macabre art and guarded life](https://www.washingtonpost.com/books/2025/12/13/edward-gorey-centennial-gregory-hischak-review/)
 * [2025-12-16, 20:25:04](https://news.ycombinator.com/item?id=46293932) - [Our New Sam Audio Model Transforms Audio Editing](https://about.fb.com/news/2025/12/our-new-sam-audio-model-transforms-audio-editing/)
