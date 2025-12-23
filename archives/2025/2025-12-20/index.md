@@ -46,6 +46,7 @@
 * [2025-12-20, 07:39:26](https://news.ycombinator.com/item?id=46334299) - [NTP at NIST Boulder Has Lost Power](https://lists.nanog.org/archives/list/nanog@lists.nanog.org/message/ACADD3NKOG2QRWZ56OSNNG7UIEKKTZXL/)
 * [2025-12-20, 07:39:00](https://news.ycombinator.com/item?id=46334297) - [The Polyglot NixOS](https://x86.lol/generic/2025/12/19/polyglot.html)
 * [2025-12-20, 07:38:57](https://news.ycombinator.com/item?id=46334296) - [Contrails Map](https://map.contrails.org/)
+* [2025-12-20, 07:14:53](https://news.ycombinator.com/item?id=46334206) - [Perfect Software – Software for an Audience of One](https://outofdesk.netlify.app/blog/perfect-software)
 * [2025-12-20, 06:21:05](https://news.ycombinator.com/item?id=46334025) - [Privacy doesn't mean anything anymore, anonymity does](https://servury.com/blog/privacy-is-marketing-anonymity-is-architecture/)
 * [2025-12-20, 06:09:17](https://news.ycombinator.com/item?id=46333983) - [Charles Proxy](https://www.charlesproxy.com/)
 * [2025-12-20, 06:00:31](https://news.ycombinator.com/item?id=46333959) - [Data Bank – Nuforc – Latest UFO Sightings](https://nuforc.org/databank/)
