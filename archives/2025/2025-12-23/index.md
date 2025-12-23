@@ -6,6 +6,7 @@
 
 * [2025-12-23, 22:23:49](https://news.ycombinator.com/item?id=46370180) - [Microspeak: North Star – The Old New Thing](https://devblogs.microsoft.com/oldnewthing/20151103-00/?p=91861)
 * [2025-12-23, 22:03:46](https://news.ycombinator.com/item?id=46370012) - [Texas App Store Age Verification Law Blocked by Federal Judge](https://www.macrumors.com/2025/12/23/texas-app-store-law-blocked/)
+* [2025-12-23, 21:59:28](https://news.ycombinator.com/item?id=46369970) - [Show HN: Claude Wrapped in the terminal, with a WASM raymarcher](https://spader.zone/wrapped/)
 * [2025-12-23, 21:54:30](https://news.ycombinator.com/item?id=46369923) - [X-ray: a Python library for finding bad redactions in PDF documents](https://github.com/freelawproject/x-ray)
 * [2025-12-23, 21:47:33](https://news.ycombinator.com/item?id=46369860) - [I didn't realize my LG TV was spying on me until I turned off this setting](https://www.pocket-lint.com/lg-tv-turn-off-live-plus/)
 * [2025-12-23, 20:54:40](https://news.ycombinator.com/item?id=46369356) - [Fuck You, I Won't Use Tailwind](https://fuckyouiwontusetailwind.com)
