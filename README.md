@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-12-23, 21:54:30](https://news.ycombinator.com/item?id=46369923) - [X-ray: a Python library for finding bad redactions in PDF documents](https://github.com/freelawproject/x-ray)
+* [2025-12-23, 21:47:33](https://news.ycombinator.com/item?id=46369860) - [I didn't realize my LG TV was spying on me until I turned off this setting](https://www.pocket-lint.com/lg-tv-turn-off-live-plus/)
 * [2025-12-23, 19:41:39](https://news.ycombinator.com/item?id=46368616) - [HTTP Caching, a Refresher](https://danburzo.ro/http-caching-refresher/)
 * [2025-12-23, 19:41:14](https://news.ycombinator.com/item?id=46368608) - [Fixed-Wing Runway Design](https://www.wbdg.org/building/aviation/fixed-wing-runway-design)
 * [2025-12-23, 19:35:20](https://news.ycombinator.com/item?id=46368557) - [Terrence Malick's Disciples](https://yalereview.org/article/bilge-ebiri-terrence-malick)
@@ -12,7 +14,6 @@
 * [2025-12-23, 17:33:42](https://news.ycombinator.com/item?id=46367224) - [Fabrice Bellard Releases MicroQuickJS](https://github.com/bellard/mquickjs/blob/main/README.md)
 * [2025-12-23, 17:08:34](https://news.ycombinator.com/item?id=46366998) - [Meta is using the Linux scheduler designed for Valve's Steam Deck on its servers](https://www.phoronix.com/news/Meta-SCX-LAVD-Steam-Deck-Server)
 * [2025-12-23, 12:56:50](https://news.ycombinator.com/item?id=46364973) - [Test, don't just verify](https://alperenkeles.com/posts/test-dont-verify/)
-* [2025-12-23, 10:53:07](https://news.ycombinator.com/item?id=46364272) - [Ryanair fined €256M over ‘abusive strategy’ to limit ticket sales by OTAs](https://www.theguardian.com/business/2025/dec/23/ryanair-fined-limit-online-travel-agencies-ticket-sales-ota)
 * [2025-12-23, 10:28:09](https://news.ycombinator.com/item?id=46364131) - [Font with Built-In Syntax Highlighting (2024)](https://blog.glyphdrawing.club/font-with-built-in-syntax-highlighting/)
 * [2025-12-23, 07:58:25](https://news.ycombinator.com/item?id=46363360) - [Instant database clones with PostgreSQL 18](https://boringsql.com/posts/instant-database-clones/)
 * [2025-12-23, 07:50:03](https://news.ycombinator.com/item?id=46363319) - [10 years bootstrapped: €6.5M revenue with a team of 13](https://www.datocms.com/blog/a-look-back-at-2025)
@@ -22,7 +23,6 @@
 * [2025-12-22, 15:06:13](https://news.ycombinator.com/item?id=46354674) - [Lua 5.5](https://lua.org/versions.html#5.5)
 * [2025-12-22, 08:08:46](https://news.ycombinator.com/item?id=46352191) - [Dancing around the rhythm space with Euclid](https://pv.wtf/posts/euclidean-rhythms)
 * [2025-12-20, 18:47:23](https://news.ycombinator.com/item?id=46338480) - [Space Math Academy](https://space-math.academy)
-* [2025-12-20, 10:25:38](https://news.ycombinator.com/item?id=46335069) - [The post-GeForce era: What if Nvidia abandons PC gaming?](https://www.pcworld.com/article/3013044/the-post-geforce-era-what-if-nvidia-abandons-pc-gaming.html)
 * [2025-12-20, 07:14:53](https://news.ycombinator.com/item?id=46334206) - [Perfect Software – Software for an Audience of One](https://outofdesk.netlify.app/blog/perfect-software)
 * [2025-12-19, 19:44:41](https://news.ycombinator.com/item?id=46330012) - [Astrophotography Target Planner: Discover Hidden Nebulas](https://astroimagery.com/techniques/imaging/astrophotography-target-planner/)
 * [2025-12-19, 16:34:41](https://news.ycombinator.com/item?id=46327692) - [What makes you senior](https://terriblesoftware.org/2025/11/25/what-actually-makes-you-senior/)

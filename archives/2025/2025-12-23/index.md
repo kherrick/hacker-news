@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-12-23](index.md)
 
+* [2025-12-23, 21:54:30](https://news.ycombinator.com/item?id=46369923) - [X-ray: a Python library for finding bad redactions in PDF documents](https://github.com/freelawproject/x-ray)
+* [2025-12-23, 21:47:33](https://news.ycombinator.com/item?id=46369860) - [I didn't realize my LG TV was spying on me until I turned off this setting](https://www.pocket-lint.com/lg-tv-turn-off-live-plus/)
 * [2025-12-23, 20:54:40](https://news.ycombinator.com/item?id=46369356) - [Fuck You, I Won't Use Tailwind](https://fuckyouiwontusetailwind.com)
 * [2025-12-23, 19:41:39](https://news.ycombinator.com/item?id=46368616) - [HTTP Caching, a Refresher](https://danburzo.ro/http-caching-refresher/)
 * [2025-12-23, 19:41:14](https://news.ycombinator.com/item?id=46368608) - [Fixed-Wing Runway Design](https://www.wbdg.org/building/aviation/fixed-wing-runway-design)
