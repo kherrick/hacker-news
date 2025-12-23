@@ -16,4 +16,5 @@
 * [2025-12-23, 01:47:46](https://news.ycombinator.com/item?id=46361496) - [NYC Spends $200 Million on Cell Service for School Chromebooks](https://nysfocus.com/2025/12/22/eric-adams-school-chromebooks-contract)
 * [2025-12-23, 01:03:57](https://news.ycombinator.com/item?id=46361229) - [Snitch – a friendly netstat alternative for humans](https://github.com/karol-broda/snitch)
 * [2025-12-23, 00:36:27](https://news.ycombinator.com/item?id=46361024) - [Cecot – 60 Minutes](https://archive.org/details/insidececot)
+* [2025-12-23, 00:23:32](https://news.ycombinator.com/item?id=46360934) - [Call of Duty co-creator Vince Zampella dies in California car crash](https://www.bbc.com/news/articles/cx25rled0ylo)
 * [2025-12-23, 00:12:16](https://news.ycombinator.com/item?id=46360856) - [Laptop Isn't Ready for LLMs. That's About to Change](https://spectrum.ieee.org/ai-models-locally)
