@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-12-23, 20:54:40](https://news.ycombinator.com/item?id=46369356) - [Fuck You, I Won't Use Tailwind](https://fuckyouiwontusetailwind.com)
 * [2025-12-23, 19:41:39](https://news.ycombinator.com/item?id=46368616) - [HTTP Caching, a Refresher](https://danburzo.ro/http-caching-refresher/)
+* [2025-12-23, 19:41:14](https://news.ycombinator.com/item?id=46368608) - [Fixed-Wing Runway Design](https://www.wbdg.org/building/aviation/fixed-wing-runway-design)
 * [2025-12-23, 19:35:20](https://news.ycombinator.com/item?id=46368557) - [Terrence Malick's Disciples](https://yalereview.org/article/bilge-ebiri-terrence-malick)
 * [2025-12-23, 19:26:36](https://news.ycombinator.com/item?id=46368471) - [Un-Redactor](https://github.com/kvthweatt/unredactor)
 * [2025-12-23, 19:09:45](https://news.ycombinator.com/item?id=46368300) - [Help My c64 caught on fire](https://c0de517e.com/026_c64fire.htm)
