@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-12-23, 19:35:20](https://news.ycombinator.com/item?id=46368557) - [Terrence Malick's Disciples](https://yalereview.org/article/bilge-ebiri-terrence-malick)
 * [2025-12-23, 18:33:01](https://news.ycombinator.com/item?id=46367864) - [Volvo Centum is Dalton Maag's new typeface for Volvo](https://www.wallpaper.com/design-interiors/corporate-design-branding/volvo-new-font-volvo-centum)
 * [2025-12-23, 18:22:23](https://news.ycombinator.com/item?id=46367744) - [An initial analysis of the discovered Unix V4 tape](https://www.spinellis.gr/blog/20251223/?yc261223)
 * [2025-12-23, 18:00:31](https://news.ycombinator.com/item?id=46367475) - [We replaced H.264 streaming with JPEG screenshots (and it worked better)](https://blog.helix.ml/p/we-mass-deployed-15-year-old-screen)
@@ -22,7 +23,6 @@
 * [2025-12-22, 19:37:34](https://news.ycombinator.com/item?id=46357945) - [Ultrasound Cancer Treatment: Sound Waves Fight Tumors](https://spectrum.ieee.org/ultrasound-cancer-treatment)
 * [2025-12-22, 19:15:56](https://news.ycombinator.com/item?id=46357675) - [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/)
 * [2025-12-22, 18:46:32](https://news.ycombinator.com/item?id=46357287) - [GLM-4.7: Advancing the Coding Capability](https://z.ai/blog/glm-4.7)
-* [2025-12-22, 08:49:47](https://news.ycombinator.com/item?id=46352350) - [Show HN: Yapi – FOSS terminal API client for power users](https://yapi.run/blog/what-is-yapi)
 * [2025-12-22, 08:08:46](https://news.ycombinator.com/item?id=46352191) - [Dancing around the rhythm space with Euclid](https://pv.wtf/posts/euclidean-rhythms)
 * [2025-12-20, 18:47:23](https://news.ycombinator.com/item?id=46338480) - [Space Math Academy](https://space-math.academy)
 * [2025-12-20, 10:25:38](https://news.ycombinator.com/item?id=46335069) - [The post-GeForce era: What if Nvidia abandons PC gaming?](https://www.pcworld.com/article/3013044/the-post-geforce-era-what-if-nvidia-abandons-pc-gaming.html)
