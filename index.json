@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-12-23, 17:33:42",
+      "https://news.ycombinator.com/item?id=46367224"
+    ],
+    [
+      "Fabrice Bellard Releases MicroQuickJS",
+      "https://github.com/bellard/mquickjs/blob/main/README.md"
+    ]
+  ],
+  [
+    [
       "2025-12-23, 17:08:34",
       "https://news.ycombinator.com/item?id=46366998"
     ],
@@ -177,16 +187,6 @@
     [
       "Flock Exposed Its AI-Powered Cameras to the Internet. We Tracked Ourselves",
       "https://www.404media.co/flock-exposed-its-ai-powered-cameras-to-the-internet-we-tracked-ourselves/"
-    ]
-  ],
-  [
-    [
-      "2025-12-22, 15:59:01",
-      "https://news.ycombinator.com/item?id=46355165"
-    ],
-    [
-      "Claude Code gets native LSP support",
-      "https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md"
     ]
   ],
   [
