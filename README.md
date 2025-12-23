@@ -2,6 +2,7 @@
 
 * [2025-12-23, 12:56:50](https://news.ycombinator.com/item?id=46364973) - [Test, Don't (Just) Verify](https://alperenkeles.com/posts/test-dont-verify/)
 * [2025-12-23, 10:28:09](https://news.ycombinator.com/item?id=46364131) - [Font with Built-In Syntax Highlighting (2024)](https://blog.glyphdrawing.club/font-with-built-in-syntax-highlighting/)
+* [2025-12-23, 10:05:00](https://news.ycombinator.com/item?id=46363993) - [Classical billiards can compute (2d billiard systems are Turing complete)](https://arxiv.org/abs/2512.19156)
 * [2025-12-23, 09:50:31](https://news.ycombinator.com/item?id=46363921) - [Ask HN: What are the best engineering blogs with real-world depth?](https://news.ycombinator.com/item?id=46363921)
 * [2025-12-23, 09:17:42](https://news.ycombinator.com/item?id=46363751) - [Carnap – A formal logic framework for Haskell](https://carnap.io/)
 * [2025-12-23, 07:58:25](https://news.ycombinator.com/item?id=46363360) - [Instant database clones with PostgreSQL 18](https://boringsql.com/posts/instant-database-clones/)
@@ -27,7 +28,6 @@
 * [2025-12-18, 15:37:18](https://news.ycombinator.com/item?id=46313962) - [Adobe Photoshop 1.0 Source Code (1990)](https://computerhistory.org/blog/adobe-photoshop-source-code/)
 * [2025-12-18, 13:51:11](https://news.ycombinator.com/item?id=46312621) - [Executorch: On-device AI across mobile, embedded and edge for PyTorch](https://github.com/pytorch/executorch)
 * [2025-12-18, 13:39:41](https://news.ycombinator.com/item?id=46312481) - [Partial inlining](https://xania.org/202512/18-partial-inlining)
-* [2025-12-18, 11:33:28](https://news.ycombinator.com/item?id=46311450) - [Show HN: Python SDK – forecasting with foundation time-series and tabular models](https://github.com/S-FM/faim-python-client)
 * [2025-12-17, 16:54:02](https://news.ycombinator.com/item?id=46302002) - [Solving the Problems of HBM-on-Logic](https://morethanmoore.substack.com/p/solving-the-problems-of-hbm-on-logic)
 * [2025-12-16, 20:25:04](https://news.ycombinator.com/item?id=46293932) - [Our New Sam Audio Model Transforms Audio Editing](https://about.fb.com/news/2025/12/our-new-sam-audio-model-transforms-audio-editing/)
 
