@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-12-23, 15:51:17",
+      "https://news.ycombinator.com/item?id=46366285"
+    ],
+    [
+      "Stop Slopware",
+      "https://stopslopware.net/"
+    ]
+  ],
+  [
+    [
       "2025-12-23, 12:56:50",
       "https://news.ycombinator.com/item?id=46364973"
     ],
@@ -27,26 +37,6 @@
     [
       "Font with Built-In Syntax Highlighting (2024)",
       "https://blog.glyphdrawing.club/font-with-built-in-syntax-highlighting/"
-    ]
-  ],
-  [
-    [
-      "2025-12-23, 10:05:00",
-      "https://news.ycombinator.com/item?id=46363993"
-    ],
-    [
-      "Classical billiards can compute (2d billiard systems are Turing complete)",
-      "https://arxiv.org/abs/2512.19156"
-    ]
-  ],
-  [
-    [
-      "2025-12-23, 09:54:59",
-      "https://news.ycombinator.com/item?id=46363948"
-    ],
-    [
-      "Are We Loong Yet?",
-      "https://areweloongyet.com/en/"
     ]
   ],
   [
@@ -97,16 +87,6 @@
     [
       "Show HN: CineCLI – Browse and torrent movies directly from your terminal",
       "https://github.com/eyeblech/cinecli"
-    ]
-  ],
-  [
-    [
-      "2025-12-23, 01:49:56",
-      "https://news.ycombinator.com/item?id=46361510"
-    ],
-    [
-      "The Duodecimal Bulletin, Vol. 55, No. 1, Year 1209 [pdf]",
-      "https://dozenal.org/drupal/sites_bck/default/files/DuodecimalBulletinIssue551.pdf"
     ]
   ],
   [
@@ -191,16 +171,6 @@
   ],
   [
     [
-      "2025-12-22, 16:31:40",
-      "https://news.ycombinator.com/item?id=46355548"
-    ],
-    [
-      "Flock Exposed Its AI-Powered Cameras to the Internet. We Tracked Ourselves",
-      "https://www.404media.co/flock-exposed-its-ai-powered-cameras-to-the-internet-we-tracked-ourselves/"
-    ]
-  ],
-  [
-    [
       "2025-12-22, 15:59:01",
       "https://news.ycombinator.com/item?id=46355165"
     ],
@@ -211,12 +181,22 @@
   ],
   [
     [
-      "2025-12-22, 15:38:37",
-      "https://news.ycombinator.com/item?id=46354970"
+      "2025-12-22, 08:49:47",
+      "https://news.ycombinator.com/item?id=46352350"
     ],
     [
-      "Scaling LLMs to Larger Codebases",
-      "https://blog.kierangill.xyz/oversight-and-guidance"
+      "Show HN: Yapi – FOSS terminal API client for power users",
+      "https://yapi.run/blog/what-is-yapi"
+    ]
+  ],
+  [
+    [
+      "2025-12-22, 08:08:46",
+      "https://news.ycombinator.com/item?id=46352191"
+    ],
+    [
+      "Dancing around the rhythm space with Euclid",
+      "https://pv.wtf/posts/euclidean-rhythms"
     ]
   ],
   [
@@ -241,12 +221,32 @@
   ],
   [
     [
-      "2025-12-19, 10:29:33",
-      "https://news.ycombinator.com/item?id=46324269"
+      "2025-12-19, 20:16:27",
+      "https://news.ycombinator.com/item?id=46330369"
     ],
     [
-      "FPGAs Need a New Future",
-      "https://www.allaboutcircuits.com/industry-articles/fpgas-need-a-new-future/"
+      "The Coffee Warehouse",
+      "https://www.scopeofwork.net/the-coffee-warehouse/"
+    ]
+  ],
+  [
+    [
+      "2025-12-19, 19:44:41",
+      "https://news.ycombinator.com/item?id=46330012"
+    ],
+    [
+      "Astrophotography Target Planner: Discover Hidden Nebulas",
+      "https://astroimagery.com/techniques/imaging/astrophotography-target-planner/"
+    ]
+  ],
+  [
+    [
+      "2025-12-19, 01:28:26",
+      "https://news.ycombinator.com/item?id=46321246"
+    ],
+    [
+      "Diary: Val McDermid, Deep Winter",
+      "https://books.substack.com/p/diary-val-mcdermid-deep-winter"
     ]
   ],
   [
@@ -281,12 +281,12 @@
   ],
   [
     [
-      "2025-12-17, 16:54:02",
-      "https://news.ycombinator.com/item?id=46302002"
+      "2025-12-17, 20:48:08",
+      "https://news.ycombinator.com/item?id=46305303"
     ],
     [
-      "Solving the Problems of HBM-on-Logic",
-      "https://morethanmoore.substack.com/p/solving-the-problems-of-hbm-on-logic"
+      "The last product to get cancelled",
+      "https://www.ablg.io/blog/last-product-to-get-cancelled"
     ]
   ],
   [
