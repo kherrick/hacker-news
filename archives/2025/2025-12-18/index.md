@@ -42,6 +42,7 @@
 * [2025-12-18, 16:02:29](https://news.ycombinator.com/item?id=46314385) - [Show HN: Composify – Open-Source Visual Editor / Server-Driven UI for React](https://github.com/composify-js/composify)
 * [2025-12-18, 15:45:42](https://news.ycombinator.com/item?id=46314109) - [Valve Is Running Apple's Playbook in Reverse](https://www.garbagecollected.dev/p/valve-the-reverse-apple)
 * [2025-12-18, 15:39:09](https://news.ycombinator.com/item?id=46313991) - [Beginning January 2026, all ACM publications will be made open access](https://dl.acm.org/openaccess)
+* [2025-12-18, 15:37:18](https://news.ycombinator.com/item?id=46313962) - [Adobe Photoshop 1.0 Source Code (2013)](https://computerhistory.org/blog/adobe-photoshop-source-code/)
 * [2025-12-18, 15:35:52](https://news.ycombinator.com/item?id=46313930) - [Launch HN: Pulse (YC S24) – Production-grade unstructured document extraction](https://news.ycombinator.com/item?id=46313930)
 * [2025-12-18, 15:34:11](https://news.ycombinator.com/item?id=46313899) - [Finland gave two groups identical payments – one saw better mental health](https://scottsantens.substack.com/p/finland-basic-income-experiment-mental-health-ubi)
 * [2025-12-18, 15:23:05](https://news.ycombinator.com/item?id=46313693) - [Heart and Kidney Diseases and Type 2 Diabetes May Be One Ailment](https://www.scientificamerican.com/article/heart-and-kidney-diseases-plus-type-2-diabetes-may-be-one-illness-treatable/)
