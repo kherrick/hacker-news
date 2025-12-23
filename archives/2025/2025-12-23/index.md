@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-12-23](index.md)
 
+* [2025-12-23, 05:17:50](https://news.ycombinator.com/item?id=46362655) - [Show HN: CineCLI – Browse and torrent movies directly from your terminal](https://github.com/eyeblech/cinecli)
 * [2025-12-23, 03:57:02](https://news.ycombinator.com/item?id=46362275) - [FCC Updates Covered List to Include Foreign UAS and UAS Critical Components [pdf]](https://docs.fcc.gov/public/attachments/DOC-416839A1.pdf)
 * [2025-12-23, 03:44:22](https://news.ycombinator.com/item?id=46362214) - [Archivists Posted the 60 Minutes Cecot Segment Bari Weiss Killed](https://www.404media.co/archivists-posted-the-60-minutes-cecot-segment-bari-weiss-killed/)
 * [2025-12-23, 03:33:24](https://news.ycombinator.com/item?id=46362149) - [60 Minutes: Cecot](https://news.ycombinator.com/item?id=46362149)
