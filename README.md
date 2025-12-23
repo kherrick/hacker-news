@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-12-23, 17:33:42](https://news.ycombinator.com/item?id=46367224) - [Fabrice Bellard Releases MicroQuickJS](https://github.com/bellard/mquickjs/blob/main/README.md)
 * [2025-12-23, 17:08:34](https://news.ycombinator.com/item?id=46366998) - [Meta Is Using the Linux Scheduler Designed for Valve's Steam Deck on Its Servers](https://www.phoronix.com/news/Meta-SCX-LAVD-Steam-Deck-Server)
 * [2025-12-23, 12:56:50](https://news.ycombinator.com/item?id=46364973) - [Test, don't (just) verify](https://alperenkeles.com/posts/test-dont-verify/)
 * [2025-12-23, 10:53:07](https://news.ycombinator.com/item?id=46364272) - [Ryanair fined €256M over ‘abusive strategy’ to limit ticket sales by OTAs](https://www.theguardian.com/business/2025/dec/23/ryanair-fined-limit-online-travel-agencies-ticket-sales-ota)
@@ -18,7 +19,6 @@
 * [2025-12-22, 18:46:32](https://news.ycombinator.com/item?id=46357287) - [GLM-4.7: Advancing the Coding Capability](https://z.ai/blog/glm-4.7)
 * [2025-12-22, 17:01:28](https://news.ycombinator.com/item?id=46355949) - [NIST was 5 μs off UTC after last week's power cut](https://www.jeffgeerling.com/blog/2025/nist-was-5-μs-utc-after-last-weeks-power-cut)
 * [2025-12-22, 16:31:40](https://news.ycombinator.com/item?id=46355548) - [Flock Exposed Its AI-Powered Cameras to the Internet. We Tracked Ourselves](https://www.404media.co/flock-exposed-its-ai-powered-cameras-to-the-internet-we-tracked-ourselves/)
-* [2025-12-22, 15:59:01](https://news.ycombinator.com/item?id=46355165) - [Claude Code gets native LSP support](https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md)
 * [2025-12-22, 08:49:47](https://news.ycombinator.com/item?id=46352350) - [Show HN: Yapi – FOSS terminal API client for power users](https://yapi.run/blog/what-is-yapi)
 * [2025-12-22, 08:08:46](https://news.ycombinator.com/item?id=46352191) - [Dancing around the rhythm space with Euclid](https://pv.wtf/posts/euclidean-rhythms)
 * [2025-12-20, 07:47:55](https://news.ycombinator.com/item?id=46334333) - [Debian adds LoongArch as officially supported architecture](https://lists.debian.org/debian-devel-announce/2025/12/msg00004.html)

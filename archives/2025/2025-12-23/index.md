@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-12-23](index.md)
 
+* [2025-12-23, 17:33:42](https://news.ycombinator.com/item?id=46367224) - [Fabrice Bellard Releases MicroQuickJS](https://github.com/bellard/mquickjs/blob/main/README.md)
 * [2025-12-23, 17:08:34](https://news.ycombinator.com/item?id=46366998) - [Meta Is Using the Linux Scheduler Designed for Valve's Steam Deck on Its Servers](https://www.phoronix.com/news/Meta-SCX-LAVD-Steam-Deck-Server)
 * [2025-12-23, 15:51:17](https://news.ycombinator.com/item?id=46366285) - [Stop Slopware](https://stopslopware.net/)
 * [2025-12-23, 14:40:12](https://news.ycombinator.com/item?id=46365641) - [Nearly 1 in 4 Americans Think They Have a Personal Social Security Account](https://www.cato.org/blog/poll-nearly-1-4-americans-think-they-have-personal-social-security-account-3)
