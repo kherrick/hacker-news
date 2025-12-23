@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-12-17](index.md)
 
 * [2025-12-17, 23:58:40](https://news.ycombinator.com/item?id=46307306) - [Ask HN: Does anyone understand how Hacker News works?](https://news.ycombinator.com/item?id=46307306)
+* [2025-12-17, 23:34:51](https://news.ycombinator.com/item?id=46307099) - [Show HN: C-compiler to compile TCC for live-bootstrap](https://github.com/FransFaase/MES-replacement)
 * [2025-12-17, 23:29:48](https://news.ycombinator.com/item?id=46307055) - [Explaining the Widening Divides in US Midlife Mortality: Is There a Smoking Gun?](https://www.nber.org/papers/w34553)
 * [2025-12-17, 23:13:43](https://news.ycombinator.com/item?id=46306925) - [Venezuela's Navy Begins Escorting Ships as U.S. Threatens Blockade](https://www.nytimes.com/live/2025/12/17/us/trump-news)
 * [2025-12-17, 23:11:14](https://news.ycombinator.com/item?id=46306894) - [Gut bacteria from amphibians and reptiles achieve tumor elimination in mice](https://www.jaist.ac.jp/english/whatsnew/press/2025/12/17-1.html)
