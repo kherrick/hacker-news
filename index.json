@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-12-23, 09:50:31",
+      "https://news.ycombinator.com/item?id=46363921"
+    ],
+    [
+      "What are the best engineering blogs with real-world depth (no fluff)?",
+      "https://news.ycombinator.com/item?id=46363921"
+    ]
+  ],
+  [
+    [
       "2025-12-23, 09:17:42",
       "https://news.ycombinator.com/item?id=46363751"
     ],
@@ -57,16 +67,6 @@
     [
       "Snitch – A friendlier ss/netstat",
       "https://github.com/karol-broda/snitch"
-    ]
-  ],
-  [
-    [
-      "2025-12-22, 22:35:45",
-      "https://news.ycombinator.com/item?id=46359996"
-    ],
-    [
-      "Lotusbail npm package found to be harvesting WhatsApp messages and contacts",
-      "https://www.koi.ai/blog/npm-package-with-56k-downloads-malware-stealing-whatsapp-messages"
     ]
   ],
   [
@@ -181,16 +181,6 @@
   ],
   [
     [
-      "2025-12-22, 08:24:32",
-      "https://news.ycombinator.com/item?id=46352231"
-    ],
-    [
-      "Debian's Git Transition",
-      "https://diziet.dreamwidth.org/20436.html"
-    ]
-  ],
-  [
-    [
       "2025-12-20, 07:47:55",
       "https://news.ycombinator.com/item?id=46334333"
     ],
@@ -277,6 +267,16 @@
     [
       "How the RESISTORS put computing into 1960s counter-culture",
       "https://spectrum.ieee.org/teenage-hackers"
+    ]
+  ],
+  [
+    [
+      "2025-12-17, 00:03:52",
+      "https://news.ycombinator.com/item?id=46296498"
+    ],
+    [
+      "Show HN: I wrote a small lib to turn a USB gamepad into a Bluetooth one",
+      "https://github.com/skorokithakis/bluetooth-gamepad"
     ]
   ],
   [
