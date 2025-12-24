@@ -21,6 +21,7 @@
 * [2025-12-23, 18:00:31](https://news.ycombinator.com/item?id=46367475) - [We replaced H.264 streaming with JPEG screenshots (and it worked better)](https://blog.helix.ml/p/we-mass-deployed-15-year-old-screen)
 * [2025-12-23, 17:33:42](https://news.ycombinator.com/item?id=46367224) - [Fabrice Bellard Releases MicroQuickJS](https://github.com/bellard/mquickjs/blob/main/README.md)
 * [2025-12-23, 06:22:21](https://news.ycombinator.com/item?id=46362927) - [iOS 26.3 brings AirPods-like pairing to third-party devices in EU under DMA](https://www.macrumors.com/2025/12/22/ios-26-3-dma-airpods-pairing/)
+* [2025-12-23, 00:12:16](https://news.ycombinator.com/item?id=46360856) - [Local AI is driving the biggest change in laptops in decades](https://spectrum.ieee.org/ai-models-locally)
 * [2025-12-22, 15:06:13](https://news.ycombinator.com/item?id=46354674) - [Lua 5.5](https://lua.org/versions.html#5.5)
 * [2025-12-20, 13:16:21](https://news.ycombinator.com/item?id=46335961) - [Proving Bounds for the Randomized MaxCut Approximation Algorithm in Lean4](https://abhamra.com/blog/randomized-maxcut/)
 * [2025-12-20, 07:14:53](https://news.ycombinator.com/item?id=46334206) - [Perfect Software – Software for an Audience of One](https://outofdesk.netlify.app/blog/perfect-software)
@@ -29,7 +30,6 @@
 * [2025-12-18, 19:56:04](https://news.ycombinator.com/item?id=46317765) - [Interactive Fluid Typography](https://electricmagicfactory.com/articles/interactive-fluid-typography/)
 * [2025-12-18, 04:55:18](https://news.ycombinator.com/item?id=46309007) - [Fifty problems with standard web APIs in 2025](https://zerotrickpony.com/articles/browser-bugs/)
 * [2025-12-17, 20:09:17](https://news.ycombinator.com/item?id=46304858) - [Learn Lisp/Fennel Programming Against Neovim](https://github.com/humorless/fennel-fp-neovim)
-* [2025-12-16, 19:18:42](https://news.ycombinator.com/item?id=46293041) - [Time-Traveling to 1979: Advice for Designing 'C with Classes](https://coderschmoder.com/i-time-traveled-1979-met-bjarne-stroustrup)
 
 ## [Archives](archives/index.md)
 
