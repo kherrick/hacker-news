@@ -41,6 +41,7 @@
 * [2025-12-19, 15:57:01](https://news.ycombinator.com/item?id=46327206) - [Graphite Is Joining Cursor](https://cursor.com/blog/graphite)
 * [2025-12-19, 15:51:30](https://news.ycombinator.com/item?id=46327133) - [Believe the Checkbook](https://robertgreiner.com/believe-the-checkbook/)
 * [2025-12-19, 15:50:45](https://news.ycombinator.com/item?id=46327124) - [Using AI Generated Code Will Make You a Bad Programmer](https://unsolicited-opinions.rudism.com/bad-programmer/)
+* [2025-12-19, 15:45:08](https://news.ycombinator.com/item?id=46327060) - [Map: Operator[] Should Be Nodiscard](https://quuxplusone.github.io/blog/2025/12/18/nodiscard-operator-bracket/)
 * [2025-12-19, 15:42:23](https://news.ycombinator.com/item?id=46327020) - [Is Firefox Firefucked?](https://kevquirk.com/blog/is-firefox-firefucked/)
 * [2025-12-19, 15:40:03](https://news.ycombinator.com/item?id=46326984) - [Garage – An S3 object store so reliable you can run it outside datacenters](https://garagehq.deuxfleurs.fr/)
 * [2025-12-19, 15:02:24](https://news.ycombinator.com/item?id=46326588) - [Hacker News front page now, but the titles are honest](https://dosaygo-studio.github.io/hn-front-page-2035/news-honest.html)
