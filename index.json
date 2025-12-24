@@ -11,22 +11,22 @@
   ],
   [
     [
+      "2025-12-24, 13:27:50",
+      "https://news.ycombinator.com/item?id=46375384"
+    ],
+    [
+      "When Compilers Surprise You",
+      "https://xania.org/202512/24-cunning-clang"
+    ]
+  ],
+  [
+    [
       "2025-12-24, 12:04:02",
       "https://news.ycombinator.com/item?id=46374856"
     ],
     [
       "Avoid Mini-Frameworks",
       "https://laike9m.com/blog/avoid-mini-frameworks,171/"
-    ]
-  ],
-  [
-    [
-      "2025-12-24, 10:48:24",
-      "https://news.ycombinator.com/item?id=46374413"
-    ],
-    [
-      "The Ultimate Windows Utility (2022)",
-      "https://christitus.com/windows-tool/"
     ]
   ],
   [
@@ -211,6 +211,16 @@
   ],
   [
     [
+      "2025-12-22, 04:04:04",
+      "https://news.ycombinator.com/item?id=46351196"
+    ],
+    [
+      "Your Inbox Is a Bandit",
+      "https://parentheticallyspeaking.org/articles/bandit-inbox/"
+    ]
+  ],
+  [
+    [
       "2025-12-21, 10:49:52",
       "https://news.ycombinator.com/item?id=46343894"
     ],
@@ -277,16 +287,6 @@
     [
       "Fifty problems with standard web APIs in 2025",
       "https://zerotrickpony.com/articles/browser-bugs/"
-    ]
-  ],
-  [
-    [
-      "2025-12-17, 20:09:17",
-      "https://news.ycombinator.com/item?id=46304858"
-    ],
-    [
-      "Learn Lisp/Fennel Programming Against Neovim",
-      "https://github.com/humorless/fennel-fp-neovim"
     ]
   ],
   [
