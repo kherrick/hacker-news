@@ -2,7 +2,6 @@
 
 * [2025-12-24, 05:31:45](https://news.ycombinator.com/item?id=46372771) - [Custom Cross Compiler with Nix](https://www.hobson.space/posts/nixcross/)
 * [2025-12-24, 03:34:31](https://news.ycombinator.com/item?id=46372153) - [Don't Become the Machine](https://armeet.bearblog.dev/becoming-the-machine/)
-* [2025-12-24, 02:24:45](https://news.ycombinator.com/item?id=46371776) - [Name That Part: 3D Part Segmentation and Naming](https://name-that-part.github.io/)
 * [2025-12-24, 02:21:42](https://news.ycombinator.com/item?id=46371759) - [Correspondence Between Don Knuth and Peter van Emde Boas on Priority Deques 1977 [pdf]](https://staff.fnwi.uva.nl/p.vanemdeboas/knuthnote.pdf)
 * [2025-12-24, 02:18:38](https://news.ycombinator.com/item?id=46371743) - [Show HN: Turn raw HTML into production-ready images for free](https://html2png.dev)
 * [2025-12-24, 02:16:01](https://news.ycombinator.com/item?id=46371730) - [Autonomously navigating the real world: lessons from the PG&E outage](https://waymo.com/blog/2025/12/autonomously-navigating-the-real-world)
@@ -21,6 +20,7 @@
 * [2025-12-23, 18:00:31](https://news.ycombinator.com/item?id=46367475) - [We replaced H.264 streaming with JPEG screenshots (and it worked better)](https://blog.helix.ml/p/we-mass-deployed-15-year-old-screen)
 * [2025-12-23, 17:33:42](https://news.ycombinator.com/item?id=46367224) - [Fabrice Bellard Releases MicroQuickJS](https://github.com/bellard/mquickjs/blob/main/README.md)
 * [2025-12-23, 06:22:21](https://news.ycombinator.com/item?id=46362927) - [iOS 26.3 brings AirPods-like pairing to third-party devices in EU under DMA](https://www.macrumors.com/2025/12/22/ios-26-3-dma-airpods-pairing/)
+* [2025-12-23, 00:12:16](https://news.ycombinator.com/item?id=46360856) - [Local AI is driving the biggest change in laptops in decades](https://spectrum.ieee.org/ai-models-locally)
 * [2025-12-22, 15:06:13](https://news.ycombinator.com/item?id=46354674) - [Lua 5.5](https://lua.org/versions.html#5.5)
 * [2025-12-20, 13:16:21](https://news.ycombinator.com/item?id=46335961) - [Proving Bounds for the Randomized MaxCut Approximation Algorithm in Lean4](https://abhamra.com/blog/randomized-maxcut/)
 * [2025-12-20, 08:54:49](https://news.ycombinator.com/item?id=46334615) - [Show HN: CodinIT, local open-source Lovable alternative (Electron desktop app)](https://github.com/codinit-dev/codinit-dev)
