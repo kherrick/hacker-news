@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-12-24, 13:39:32](https://news.ycombinator.com/item?id=46375470) - [The EU's Fine Against X Is Not About Speech or 'Censorship'](https://www.techpolicy.press/the-eus-fine-against-x-is-not-about-speech-or-censorship/)
+* [2025-12-24, 13:27:50](https://news.ycombinator.com/item?id=46375384) - [When Compilers Surprise You](https://xania.org/202512/24-cunning-clang)
 * [2025-12-24, 12:04:02](https://news.ycombinator.com/item?id=46374856) - [Avoid Mini-Frameworks](https://laike9m.com/blog/avoid-mini-frameworks,171/)
-* [2025-12-24, 10:48:24](https://news.ycombinator.com/item?id=46374413) - [The Ultimate Windows Utility (2022)](https://christitus.com/windows-tool/)
 * [2025-12-24, 09:50:52](https://news.ycombinator.com/item?id=46374117) - [Permission Systems for Enterprise That Scale](https://eliocapella.com/blog/permission-systems-for-enterprise/)
 * [2025-12-24, 09:30:58](https://news.ycombinator.com/item?id=46374018) - [Google 2025 recap: Research breakthroughs of the year](https://blog.google/technology/ai/2025-research-breakthroughs/)
 * [2025-12-24, 08:32:27](https://news.ycombinator.com/item?id=46373644) - [The e-scooter isn't new – London was zooming around on Autopeds a century ago](https://www.ianvisits.co.uk/articles/the-e-scooter-isnt-new-london-was-zooming-around-on-autopeds-a-century-ago-86263/)
@@ -21,6 +21,7 @@
 * [2025-12-23, 18:00:31](https://news.ycombinator.com/item?id=46367475) - [We replaced H.264 streaming with JPEG screenshots (and it worked better)](https://blog.helix.ml/p/we-mass-deployed-15-year-old-screen)
 * [2025-12-23, 17:33:42](https://news.ycombinator.com/item?id=46367224) - [Fabrice Bellard Releases MicroQuickJS](https://github.com/bellard/mquickjs/blob/main/README.md)
 * [2025-12-22, 15:06:13](https://news.ycombinator.com/item?id=46354674) - [Lua 5.5](https://lua.org/versions.html#5.5)
+* [2025-12-22, 04:04:04](https://news.ycombinator.com/item?id=46351196) - [Your Inbox Is a Bandit](https://parentheticallyspeaking.org/articles/bandit-inbox/)
 * [2025-12-21, 10:49:52](https://news.ycombinator.com/item?id=46343894) - [I rebuilt FlashAttention in Triton to understand the performance archaeology](https://aminediro.com/posts/flash_attn/)
 * [2025-12-20, 13:16:21](https://news.ycombinator.com/item?id=46335961) - [Proving Bounds for the Randomized MaxCut Approximation Algorithm in Lean4](https://abhamra.com/blog/randomized-maxcut/)
 * [2025-12-20, 07:14:53](https://news.ycombinator.com/item?id=46334206) - [Perfect Software – Software for an Audience of One](https://outofdesk.netlify.app/blog/perfect-software)
@@ -28,7 +29,6 @@
 * [2025-12-18, 20:17:37](https://news.ycombinator.com/item?id=46318080) - [The Port I couldn't Ship](https://ammil.industries/the-port-i-couldnt-ship/)
 * [2025-12-18, 18:09:51](https://news.ycombinator.com/item?id=46316295) - [Scaling Go Testing with Contract and Scenario Mocks](https://funnelstory.ai/blog/engineering/scaling-go-testing-with-contract-and-scenario-mocks)
 * [2025-12-18, 04:55:18](https://news.ycombinator.com/item?id=46309007) - [Fifty problems with standard web APIs in 2025](https://zerotrickpony.com/articles/browser-bugs/)
-* [2025-12-17, 20:09:17](https://news.ycombinator.com/item?id=46304858) - [Learn Lisp/Fennel Programming Against Neovim](https://github.com/humorless/fennel-fp-neovim)
 * [2025-12-17, 18:41:40](https://news.ycombinator.com/item?id=46303638) - [Show HN: Tonbo – an embedded database for serverless and edge runtimes](https://github.com/tonbo-io/tonbo)
 
 ## [Archives](archives/index.md)
