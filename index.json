@@ -5,7 +5,7 @@
       "https://news.ycombinator.com/item?id=46380168"
     ],
     [
-      "Tell HN: Merry Christmas!",
+      "Tell HN: Merry Christmas",
       "https://news.ycombinator.com/item?id=46380168"
     ]
   ],
@@ -37,16 +37,6 @@
     [
       "I Left YouTube",
       "https://zhach.news/how-i-left-youtube/"
-    ]
-  ],
-  [
-    [
-      "2025-12-24, 21:50:20",
-      "https://news.ycombinator.com/item?id=46379630"
-    ],
-    [
-      "Steam Store is offline",
-      "https://steamstat.us/"
     ]
   ],
   [
@@ -181,16 +171,6 @@
   ],
   [
     [
-      "2025-12-23, 17:51:13",
-      "https://news.ycombinator.com/item?id=46367377"
-    ],
-    [
-      "Confessions to a Data Lake",
-      "https://confer.to/blog/2025/12/confessions-to-a-data-lake/"
-    ]
-  ],
-  [
-    [
       "2025-12-23, 17:33:42",
       "https://news.ycombinator.com/item?id=46367224"
     ],
@@ -231,6 +211,16 @@
   ],
   [
     [
+      "2025-12-22, 04:04:04",
+      "https://news.ycombinator.com/item?id=46351196"
+    ],
+    [
+      "Your inbox is a bandit problem",
+      "https://parentheticallyspeaking.org/articles/bandit-inbox/"
+    ]
+  ],
+  [
+    [
       "2025-12-21, 20:40:00",
       "https://news.ycombinator.com/item?id=46348207"
     ],
@@ -257,6 +247,16 @@
     [
       "Jingle Bells (Batman Smells): An incomplete festive folk-rhyme taxonomy",
       "https://loreandordure.com/2025/12/16/jingle-bells/"
+    ]
+  ],
+  [
+    [
+      "2025-12-20, 20:49:52",
+      "https://news.ycombinator.com/item?id=46339532"
+    ],
+    [
+      "Comptime – C# meta-programming with compile-time code generation and evaluation",
+      "https://github.com/sebastienros/comptime"
     ]
   ],
   [
