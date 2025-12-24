@@ -1,12 +1,12 @@
 [
   [
     [
-      "2025-12-24, 06:15:57",
-      "https://news.ycombinator.com/item?id=46372972"
+      "2025-12-24, 09:15:47",
+      "https://news.ycombinator.com/item?id=46373919"
     ],
     [
-      "CEO killed at industrial site by worker operating forklift",
-      "https://www.12onyourside.com/2025/12/23/ceo-killed-industrial-site-by-worker-operating-forklift-while-talking-phone-osha-report-shows/"
+      "Next JavaScript app is hacked, you just don't know it yet",
+      "https://audits.blockhacks.io/audit/your-next-js-app-is-already-hacked"
     ]
   ],
   [
@@ -27,6 +27,16 @@
     [
       "Don't Become the Machine",
       "https://armeet.bearblog.dev/becoming-the-machine/"
+    ]
+  ],
+  [
+    [
+      "2025-12-24, 02:24:45",
+      "https://news.ycombinator.com/item?id=46371776"
+    ],
+    [
+      "Name That Part: 3D Part Segmentation and Naming",
+      "https://name-that-part.github.io/"
     ]
   ],
   [
@@ -201,32 +211,22 @@
   ],
   [
     [
-      "2025-12-23, 00:12:16",
-      "https://news.ycombinator.com/item?id=46360856"
-    ],
-    [
-      "Local AI is driving the biggest change in laptops in decades",
-      "https://spectrum.ieee.org/ai-models-locally"
-    ]
-  ],
-  [
-    [
-      "2025-12-22, 15:12:40",
-      "https://news.ycombinator.com/item?id=46354737"
-    ],
-    [
-      "Toad is a unified experience for AI in the terminal",
-      "https://willmcgugan.github.io/toad-released/"
-    ]
-  ],
-  [
-    [
       "2025-12-22, 15:06:13",
       "https://news.ycombinator.com/item?id=46354674"
     ],
     [
       "Lua 5.5",
       "https://lua.org/versions.html#5.5"
+    ]
+  ],
+  [
+    [
+      "2025-12-21, 10:49:52",
+      "https://news.ycombinator.com/item?id=46343894"
+    ],
+    [
+      "I rebuilt FlashAttention in Triton to understand the performance archaeology",
+      "https://aminediro.com/posts/flash_attn/"
     ]
   ],
   [
