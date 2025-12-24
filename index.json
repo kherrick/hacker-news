@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2025-12-24, 02:18:38",
+      "https://news.ycombinator.com/item?id=46371743"
+    ],
+    [
+      "Show HN: Turn raw HTML into production-ready images for free",
+      "https://html2png.dev"
+    ]
+  ],
+  [
+    [
       "2025-12-24, 02:10:34",
       "https://news.ycombinator.com/item?id=46371705"
     ],
@@ -51,16 +61,6 @@
   ],
   [
     [
-      "2025-12-24, 00:30:42",
-      "https://news.ycombinator.com/item?id=46371139"
-    ],
-    [
-      "Stronk.app – open-source gym lifts journal",
-      "https://news.ycombinator.com/item?id=46371139"
-    ]
-  ],
-  [
-    [
       "2025-12-24, 00:30:18",
       "https://news.ycombinator.com/item?id=46371135"
     ],
@@ -77,16 +77,6 @@
     [
       "Is Northern Virginia still the least reliable AWS region?",
       "https://statusgator.com/blog/aws-least-reliable-region-in-2025/"
-    ]
-  ],
-  [
-    [
-      "2025-12-23, 22:23:49",
-      "https://news.ycombinator.com/item?id=46370180"
-    ],
-    [
-      "Microspeak: North Star – The Old New Thing (2015)",
-      "https://devblogs.microsoft.com/oldnewthing/20151103-00/?p=91861"
     ]
   ],
   [
@@ -201,6 +191,16 @@
   ],
   [
     [
+      "2025-12-23, 17:08:34",
+      "https://news.ycombinator.com/item?id=46366998"
+    ],
+    [
+      "Meta is using the Linux scheduler designed for Valve's Steam Deck on its servers",
+      "https://www.phoronix.com/news/Meta-SCX-LAVD-Steam-Deck-Server"
+    ]
+  ],
+  [
+    [
       "2025-12-23, 06:22:21",
       "https://news.ycombinator.com/item?id=46362927"
     ],
@@ -227,6 +227,16 @@
     [
       "Lua 5.5",
       "https://lua.org/versions.html#5.5"
+    ]
+  ],
+  [
+    [
+      "2025-12-20, 13:16:21",
+      "https://news.ycombinator.com/item?id=46335961"
+    ],
+    [
+      "Proving Bounds for the Randomized MaxCut Approximation Algorithm in Lean4",
+      "https://abhamra.com/blog/randomized-maxcut/"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Learn Lisp/Fennel Programming Against Neovim",
       "https://github.com/humorless/fennel-fp-neovim"
-    ]
-  ],
-  [
-    [
-      "2025-12-17, 18:31:26",
-      "https://news.ycombinator.com/item?id=46303506"
-    ],
-    [
-      "Jimmy Wales trusts the process",
-      "https://www.theverge.com/tech/846184/jimmy-wales-trusts-the-process"
     ]
   ]
 ]
