@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-12-24](index.md)
 
+* [2025-12-24, 20:04:52](https://news.ycombinator.com/item?id=46378747) - [Beijing is enforcing tough rules to ensure chatbots don’t misbehave](https://www.wsj.com/tech/ai/china-is-worried-ai-threatens-party-ruleand-is-trying-to-tame-it-bfdcda2d)
 * [2025-12-24, 19:42:25](https://news.ycombinator.com/item?id=46378554) - [Show HN: Minimalist editor that lives in browser, stores everything in the URL](https://github.com/antonmedv/textarea)
+* [2025-12-24, 19:32:51](https://news.ycombinator.com/item?id=46378469) - [European Majority favours more tech regulation](https://yougov.co.uk/technology/articles/53241-european-political-monthly-where-do-europeans-stand-on-social-media-regulation)
 * [2025-12-24, 19:28:18](https://news.ycombinator.com/item?id=46378431) - [Looking for Decent Conversation?](https://news.ycombinator.com/item?id=46378431)
 * [2025-12-24, 19:02:11](https://news.ycombinator.com/item?id=46378220) - [Lessons from Building an Indie App for Artists](https://shanehudson.net/articles/2025/indie-app-for-artists)
 * [2025-12-24, 18:17:47](https://news.ycombinator.com/item?id=46377862) - [Fabrice Bellard: Biography [pdf]](https://www.ipaidia.gr/wp-content/uploads/2020/12/117-2020-fabrice-bellard.pdf)
