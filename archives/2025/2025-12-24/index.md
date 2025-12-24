@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-12-24](index.md)
 
+* [2025-12-24, 14:37:54](https://news.ycombinator.com/item?id=46375926) - [New reactor produces clean energy and carbon nanotubes from natural gas](https://phys.org/news/2025-12-reactor-energy-carbon-nanotubes-natural.html)
 * [2025-12-24, 13:39:32](https://news.ycombinator.com/item?id=46375470) - [The EU's Fine Against X Is Not About Speech or 'Censorship'](https://www.techpolicy.press/the-eus-fine-against-x-is-not-about-speech-or-censorship/)
 * [2025-12-24, 13:27:50](https://news.ycombinator.com/item?id=46375384) - [When Compilers Surprise You](https://xania.org/202512/24-cunning-clang)
 * [2025-12-24, 12:04:02](https://news.ycombinator.com/item?id=46374856) - [Avoid Mini-Frameworks](https://laike9m.com/blog/avoid-mini-frameworks,171/)
