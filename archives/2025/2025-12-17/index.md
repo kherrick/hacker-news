@@ -34,6 +34,7 @@
 * [2025-12-17, 19:33:20](https://news.ycombinator.com/item?id=46304379) - [GitHub postponing the announced billing change for self-hosted GitHub Actions](https://twitter.com/jaredpalmer/status/2001373329811181846)
 * [2025-12-17, 19:19:19](https://news.ycombinator.com/item?id=46304199) - [Show HN: GitForms – Zero-cost contact forms using GitHub Issues as database](https://gitforms-landing.vercel.app/)
 * [2025-12-17, 19:19:00](https://news.ycombinator.com/item?id=46304195) - [How the RESISTORS put computing into 1960s counter-culture](https://spectrum.ieee.org/teenage-hackers)
+* [2025-12-17, 18:41:40](https://news.ycombinator.com/item?id=46303638) - [Show HN: Tonbo – an embedded database for serverless and edge runtimes](https://github.com/tonbo-io/tonbo)
 * [2025-12-17, 18:31:26](https://news.ycombinator.com/item?id=46303506) - [Jimmy Wales trusts the process](https://www.theverge.com/tech/846184/jimmy-wales-trusts-the-process)
 * [2025-12-17, 18:25:29](https://news.ycombinator.com/item?id=46303406) - [How did IRC ping timeouts end up in a lawsuit?](https://mjg59.dreamwidth.org/73777.html)
 * [2025-12-17, 18:19:44](https://news.ycombinator.com/item?id=46303323) - [Show HN: MCPShark Viewer (VS Code/Cursor extension)- view MCP traffic in-editor](https://news.ycombinator.com/item?id=46303323)

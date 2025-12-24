@@ -27,9 +27,9 @@
 * [2025-12-20, 07:14:53](https://news.ycombinator.com/item?id=46334206) - [Perfect Software – Software for an Audience of One](https://outofdesk.netlify.app/blog/perfect-software)
 * [2025-12-19, 16:34:41](https://news.ycombinator.com/item?id=46327692) - [What makes you senior](https://terriblesoftware.org/2025/11/25/what-actually-makes-you-senior/)
 * [2025-12-19, 09:58:23](https://news.ycombinator.com/item?id=46324047) - [Life, Death and Mowing](https://www.cam.ac.uk/stories/lawnmower-poetry)
-* [2025-12-18, 19:56:04](https://news.ycombinator.com/item?id=46317765) - [Interactive Fluid Typography](https://electricmagicfactory.com/articles/interactive-fluid-typography/)
 * [2025-12-18, 04:55:18](https://news.ycombinator.com/item?id=46309007) - [Fifty problems with standard web APIs in 2025](https://zerotrickpony.com/articles/browser-bugs/)
 * [2025-12-17, 20:09:17](https://news.ycombinator.com/item?id=46304858) - [Learn Lisp/Fennel Programming Against Neovim](https://github.com/humorless/fennel-fp-neovim)
+* [2025-12-17, 18:41:40](https://news.ycombinator.com/item?id=46303638) - [Show HN: Tonbo – an embedded database for serverless and edge runtimes](https://github.com/tonbo-io/tonbo)
 
 ## [Archives](archives/index.md)
 
