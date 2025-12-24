@@ -65,6 +65,7 @@
 * [2025-12-22, 08:08:46](https://news.ycombinator.com/item?id=46352191) - [Dancing around the rhythm space with Euclid](https://pv.wtf/posts/euclidean-rhythms)
 * [2025-12-22, 07:25:43](https://news.ycombinator.com/item?id=46352047) - [QBasic64 Phoenix 4.3.0 Released](https://qb64phoenix.com/forum/showthread.php?tid=4244)
 * [2025-12-22, 07:13:33](https://news.ycombinator.com/item?id=46352004) - [I announced my divorce on Instagram and then AI impersonated me](https://eiratansey.com/2025/12/20/i-announced-my-divorce-on-instagram-and-then-ai-impersonated-me/)
+* [2025-12-22, 05:38:33](https://news.ycombinator.com/item?id=46351666) - [CSRF protection without tokens or hidden form fields](https://blog.miguelgrinberg.com/post/csrf-protection-without-tokens-or-hidden-form-fields)
 * [2025-12-22, 04:50:17](https://news.ycombinator.com/item?id=46351408) - [A middle-class family's only option: A $43,000 health insurance premium](https://www.washingtonpost.com/health/2025/12/21/obamacare-monopolies-subsidies/)
 * [2025-12-22, 04:34:36](https://news.ycombinator.com/item?id=46351345) - [Cursed circuits #3: true mathematics](https://lcamtuf.substack.com/p/cursed-circuits-3-true-mathematics)
 * [2025-12-22, 04:04:04](https://news.ycombinator.com/item?id=46351196) - [Your Inbox Is a Bandit](https://parentheticallyspeaking.org/articles/bandit-inbox/)

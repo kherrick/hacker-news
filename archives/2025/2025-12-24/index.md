@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-12-24](index.md)
 
+* [2025-12-24, 21:50:20](https://news.ycombinator.com/item?id=46379630) - [Steam Store is offline](https://steamstat.us/)
 * [2025-12-24, 21:02:15](https://news.ycombinator.com/item?id=46379183) - [Nvidia buying AI chip startup Groq for about $20B in cash](https://www.cnbc.com/2025/12/24/nvidia-buying-ai-chip-startup-groq-for-about-20-billion-biggest-deal.html)
 * [2025-12-24, 21:01:05](https://news.ycombinator.com/item?id=46379173) - [Keystone (YC S25) is hiring engineer #1 to automate coding](https://www.ycombinator.com/companies/keystone/jobs/J3t9XeM-founding-engineer)
 * [2025-12-24, 20:55:32](https://news.ycombinator.com/item?id=46379129) - [Build Your Own 100TB NAS in 2025: Complete TrueNAS Storage Guide](https://techlife.blog/posts/build-your-own-100tb-nas-2025-complete-truenas-storage-guide/)
@@ -20,6 +21,7 @@
 * [2025-12-24, 17:47:58](https://news.ycombinator.com/item?id=46377587) - [Judge in Vizio Case Rules on Issue Irrelevant to Rights Under Copyleft](https://sfconservancy.org/news/2025/dec/24/vizio-msa-irrelevant-ruling/)
 * [2025-12-24, 17:41:55](https://news.ycombinator.com/item?id=46377537) - [Microsoft Agent Framework](https://learn.microsoft.com/en-us/agent-framework/overview/agent-framework-overview)
 * [2025-12-24, 17:00:28](https://news.ycombinator.com/item?id=46377214) - [Spice: A 40-year old open-source success story (2011)](https://www.edn.com/spice-a-40-year-old-open-source-success-story/)
+* [2025-12-24, 16:44:17](https://news.ycombinator.com/item?id=46377070) - [Show HN: A local-first, reversible PII scrubber for AI workflows](https://medium.com/@tj.ruesch/a-local-first-reversible-pii-scrubber-for-ai-workflows-using-onnx-and-regex-e9850a7531fc)
 * [2025-12-24, 16:30:40](https://news.ycombinator.com/item?id=46376944) - [Show HN: No more writing shitty regexes to police usernames](https://www.username.dev)
 * [2025-12-24, 16:21:10](https://news.ycombinator.com/item?id=46376848) - [Mt. Gox CEO Karpelès Reveals Details of 2014 Collapse and Japanese Detention](https://bitcoinmagazine.com/business/former-mt-gox-ceo-mark-karpeles-reveals-details-of-2014-collapse-and-japanese-detention)
 * [2025-12-24, 15:59:23](https://news.ycombinator.com/item?id=46376652) - [My 2026 Open Social Web Predictions](https://www.timothychambers.net/2025/12/23/my-open-social-web-predictions.html)

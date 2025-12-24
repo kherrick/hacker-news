@@ -13,6 +13,7 @@
 * [2025-12-20, 20:50:43](https://news.ycombinator.com/item?id=46339537) - [MIRA – An open-source persistent AI entity with memory](https://github.com/taylorsatula/mira-OSS)
 * [2025-12-20, 20:44:26](https://news.ycombinator.com/item?id=46339495) - [Show HN: Fucking Websites](https://afw.kuber.studio)
 * [2025-12-20, 19:56:47](https://news.ycombinator.com/item?id=46339031) - ['LeBron James of spreadsheets' wins world Microsoft Excel title](https://www.bbc.com/news/articles/cj4qzgvxxgvo)
+* [2025-12-20, 19:40:02](https://news.ycombinator.com/item?id=46338895) - [The dawn of a world simulator](https://odyssey.ml/the-dawn-of-a-world-simulator)
 * [2025-12-20, 19:24:34](https://news.ycombinator.com/item?id=46338803) - [AI will make our children stupid](https://thecritic.co.uk/ai-will-make-our-children-stupid/)
 * [2025-12-20, 18:47:23](https://news.ycombinator.com/item?id=46338480) - [Space Math Academy](https://space-math.academy)
 * [2025-12-20, 18:40:45](https://news.ycombinator.com/item?id=46338437) - [Programming languages used for music](https://timthompson.com/plum/cgi/showlist.cgi?sort=name&concise=yes)
