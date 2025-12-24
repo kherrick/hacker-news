@@ -71,6 +71,7 @@
 * [2025-12-19, 03:26:52](https://news.ycombinator.com/item?id=46321982) - [Reconstructed Commander Keen 1-3 Source Code](https://pckf.com/viewtopic.php?t=18248)
 * [2025-12-19, 03:24:26](https://news.ycombinator.com/item?id=46321972) - [Qwen-Image-Layered: transparency and layer aware open diffusion model](https://huggingface.co/papers/2512.15603)
 * [2025-12-19, 03:19:59](https://news.ycombinator.com/item?id=46321947) - [Brown/MIT shooting suspect found dead, officials say](https://www.washingtonpost.com/nation/2025/12/18/brown-university-shooting-person-of-interest/)
+* [2025-12-19, 03:02:40](https://news.ycombinator.com/item?id=46321852) - [Show HN: LazyPromise = Observable – Signals](https://github.com/lazy-promise/lazy-promise)
 * [2025-12-19, 02:20:08](https://news.ycombinator.com/item?id=46321619) - [Noclip.website – A digital museum of video game levels](https://noclip.website/)
 * [2025-12-19, 01:42:02](https://news.ycombinator.com/item?id=46321350) - [SMB Direct – SMB3 over RDMA – The Linux Kernel Documentation](https://docs.kernel.org/filesystems/smb/smbdirect.html)
 * [2025-12-19, 01:28:26](https://news.ycombinator.com/item?id=46321246) - [Diary: Val McDermid, Deep Winter](https://books.substack.com/p/diary-val-mcdermid-deep-winter)
