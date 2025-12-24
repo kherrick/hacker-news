@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-12-24](index.md)
 
+* [2025-12-24, 10:48:24](https://news.ycombinator.com/item?id=46374413) - [The Windows Utility](https://christitus.com/windows-tool/)
 * [2025-12-24, 09:50:52](https://news.ycombinator.com/item?id=46374117) - [Permission Systems for Enterprise That Scale](https://eliocapella.com/blog/permission-systems-for-enterprise/)
 * [2025-12-24, 09:15:47](https://news.ycombinator.com/item?id=46373919) - [Next JavaScript app is hacked, you just don't know it yet](https://audits.blockhacks.io/audit/your-next-js-app-is-already-hacked)
 * [2025-12-24, 06:15:57](https://news.ycombinator.com/item?id=46372972) - [CEO killed at industrial site by worker operating forklift](https://www.12onyourside.com/2025/12/23/ceo-killed-industrial-site-by-worker-operating-forklift-while-talking-phone-osha-report-shows/)

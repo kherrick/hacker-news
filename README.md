@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-12-24, 10:48:24](https://news.ycombinator.com/item?id=46374413) - [The Windows Utility](https://christitus.com/windows-tool/)
 * [2025-12-24, 09:50:52](https://news.ycombinator.com/item?id=46374117) - [Permission Systems for Enterprise That Scale](https://eliocapella.com/blog/permission-systems-for-enterprise/)
-* [2025-12-24, 09:15:47](https://news.ycombinator.com/item?id=46373919) - [Next JavaScript app is hacked, you just don't know it yet](https://audits.blockhacks.io/audit/your-next-js-app-is-already-hacked)
 * [2025-12-24, 05:31:45](https://news.ycombinator.com/item?id=46372771) - [Custom Cross Compiler with Nix](https://www.hobson.space/posts/nixcross/)
 * [2025-12-24, 03:34:31](https://news.ycombinator.com/item?id=46372153) - [Don't Become the Machine](https://armeet.bearblog.dev/becoming-the-machine/)
 * [2025-12-24, 02:24:45](https://news.ycombinator.com/item?id=46371776) - [Name That Part: 3D Part Segmentation and Naming](https://name-that-part.github.io/)
