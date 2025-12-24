@@ -4,10 +4,12 @@
 
 ### [Archives](../../index.md) for [2025-12-24](index.md)
 
+* [2025-12-24, 19:02:11](https://news.ycombinator.com/item?id=46378220) - [Lessons from Building an Indie App for Artists](https://shanehudson.net/articles/2025/indie-app-for-artists)
 * [2025-12-24, 18:17:47](https://news.ycombinator.com/item?id=46377862) - [Fabrice Bellard: Biography [pdf]](https://www.ipaidia.gr/wp-content/uploads/2020/12/117-2020-fabrice-bellard.pdf)
 * [2025-12-24, 18:09:42](https://news.ycombinator.com/item?id=46377796) - [Researchers achieved 1,270 Wh/L in an anode-free lithium metal battery](https://postech.ac.kr/eng/research/research_results.do?mode=view&articleNo=43617&title=Anode-Free+Battery+Doubles+Electric+Vehicle+Driving+Range)
 * [2025-12-24, 17:49:46](https://news.ycombinator.com/item?id=46377605) - [A Father, a Son and Their $108B Push for Media Moguldom (Larry Ellison)](https://www.nytimes.com/2025/12/24/business/media/larry-david-ellison-warner-bros-discovery-cbs.html)
 * [2025-12-24, 17:49:02](https://news.ycombinator.com/item?id=46377597) - [Show HN: Vibium – Browser automation for AI and humans, by Selenium's creator](https://github.com/VibiumDev/vibium)
+* [2025-12-24, 17:47:58](https://news.ycombinator.com/item?id=46377587) - [Judge in Vizio Case Rules on Issue Irrelevant to Rights Under Copyleft](https://sfconservancy.org/news/2025/dec/24/vizio-msa-irrelevant-ruling/)
 * [2025-12-24, 17:41:55](https://news.ycombinator.com/item?id=46377537) - [Microsoft Agent Framework](https://learn.microsoft.com/en-us/agent-framework/overview/agent-framework-overview)
 * [2025-12-24, 16:30:40](https://news.ycombinator.com/item?id=46376944) - [Show HN: No more writing shitty regexes to police usernames](https://www.username.dev)
 * [2025-12-24, 16:21:10](https://news.ycombinator.com/item?id=46376848) - [Mt. Gox CEO Karpelès Reveals Details of 2014 Collapse and Japanese Detention](https://bitcoinmagazine.com/business/former-mt-gox-ceo-mark-karpeles-reveals-details-of-2014-collapse-and-japanese-detention)
