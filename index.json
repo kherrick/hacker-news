@@ -41,16 +41,6 @@
   ],
   [
     [
-      "2025-12-24, 12:04:02",
-      "https://news.ycombinator.com/item?id=46374856"
-    ],
-    [
-      "Avoid Mini-Frameworks",
-      "https://laike9m.com/blog/avoid-mini-frameworks,171/"
-    ]
-  ],
-  [
-    [
       "2025-12-24, 09:50:52",
       "https://news.ycombinator.com/item?id=46374117"
     ],
@@ -107,16 +97,6 @@
     [
       "Show HN: Turn raw HTML into production-ready images for free",
       "https://html2png.dev"
-    ]
-  ],
-  [
-    [
-      "2025-12-24, 02:16:01",
-      "https://news.ycombinator.com/item?id=46371730"
-    ],
-    [
-      "Autonomously navigating the real world: lessons from the PG&E outage",
-      "https://waymo.com/blog/2025/12/autonomously-navigating-the-real-world"
     ]
   ],
   [
@@ -191,6 +171,16 @@
   ],
   [
     [
+      "2025-12-23, 18:33:01",
+      "https://news.ycombinator.com/item?id=46367864"
+    ],
+    [
+      "Volvo Centum is Dalton Maag's new typeface for Volvo",
+      "https://www.wallpaper.com/design-interiors/corporate-design-branding/volvo-new-font-volvo-centum"
+    ]
+  ],
+  [
+    [
       "2025-12-23, 17:33:42",
       "https://news.ycombinator.com/item?id=46367224"
     ],
@@ -257,6 +247,16 @@
     [
       "Map: Operator[] Should Be Nodiscard",
       "https://quuxplusone.github.io/blog/2025/12/18/nodiscard-operator-bracket/"
+    ]
+  ],
+  [
+    [
+      "2025-12-19, 13:00:47",
+      "https://news.ycombinator.com/item?id=46325337"
+    ],
+    [
+      "Making a game on a custom bytecode VM in 7 days and 3kB",
+      "https://laurent.le-brun.eu/blog/making-a-game-on-a-custom-bytecode-vm-in-7-days-and-3kb"
     ]
   ],
   [
