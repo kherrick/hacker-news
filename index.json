@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-12-24, 19:42:25",
+      "https://news.ycombinator.com/item?id=46378554"
+    ],
+    [
+      "Show HN: Minimalist editor that lives in browser, stores everything in the URL",
+      "https://github.com/antonmedv/textarea"
+    ]
+  ],
+  [
+    [
+      "2025-12-24, 19:28:18",
+      "https://news.ycombinator.com/item?id=46378431"
+    ],
+    [
+      "Looking for Decent Conversation?",
+      "https://news.ycombinator.com/item?id=46378431"
+    ]
+  ],
+  [
+    [
       "2025-12-24, 19:02:11",
       "https://news.ycombinator.com/item?id=46378220"
     ],
@@ -151,16 +171,6 @@
   ],
   [
     [
-      "2025-12-24, 09:00:38",
-      "https://news.ycombinator.com/item?id=46373839"
-    ],
-    [
-      "Textarea.my: Minimalist editor lives in browser and stores everything in the URL",
-      "https://github.com/antonmedv/textarea"
-    ]
-  ],
-  [
-    [
       "2025-12-24, 08:32:27",
       "https://news.ycombinator.com/item?id=46373644"
     ],
@@ -205,7 +215,7 @@
       "https://news.ycombinator.com/item?id=46368946"
     ],
     [
-      "Some Epstein file redactions are being undone with hacks",
+      "Some Epstein file redactions are being undone",
       "https://www.theguardian.com/us-news/2025/dec/23/epstein-unredacted-files-social-media"
     ]
   ],
@@ -217,16 +227,6 @@
     [
       "Fabrice Bellard Releases MicroQuickJS",
       "https://github.com/bellard/mquickjs/blob/main/README.md"
-    ]
-  ],
-  [
-    [
-      "2025-12-22, 15:06:13",
-      "https://news.ycombinator.com/item?id=46354674"
-    ],
-    [
-      "Lua 5.5",
-      "https://lua.org/versions.html#5.5"
     ]
   ],
   [
