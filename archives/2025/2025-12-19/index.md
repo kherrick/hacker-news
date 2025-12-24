@@ -54,6 +54,7 @@
 * [2025-12-19, 13:18:42](https://news.ycombinator.com/item?id=46325486) - [AI Can Write Your Code. It Can't Do Your Job](https://terriblesoftware.org/2025/12/11/ai-can-write-your-code-it-cant-do-your-job/)
 * [2025-12-19, 13:16:57](https://news.ycombinator.com/item?id=46325475) - [Webb observes exoplanet that may have an exotic helium and carbon atmosphere](https://science.nasa.gov/missions/webb/nasas-webb-observes-exoplanet-whose-composition-defies-explanation/)
 * [2025-12-19, 13:03:11](https://news.ycombinator.com/item?id=46325360) - [Engineers who dismiss AI](https://terriblesoftware.org/2025/12/19/the-strange-case-of-engineers-who-dismiss-ai/)
+* [2025-12-19, 13:00:47](https://news.ycombinator.com/item?id=46325337) - [Making a game on a custom bytecode VM in 7 days and 3kB](https://laurent.le-brun.eu/blog/making-a-game-on-a-custom-bytecode-vm-in-7-days-and-3kb)
 * [2025-12-19, 11:38:54](https://news.ycombinator.com/item?id=46324702) - [8-bit Boléro](https://linusakesson.net/music/bolero/index.php)
 * [2025-12-19, 11:34:11](https://news.ycombinator.com/item?id=46324665) - [Show HN: I open-sourced my Go and Next B2B SaaS Starter (deploy anywhere, MIT)](https://github.com/moasq/production-saas-starter)
 * [2025-12-19, 11:21:45](https://news.ycombinator.com/item?id=46324579) - [Show HN: Hacker News, but every headline is hysterical clickbait](https://dosaygo-studio.github.io/hn-front-page-2035/news-max.html)
