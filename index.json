@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-12-24, 21:50:20",
+      "https://news.ycombinator.com/item?id=46379630"
+    ],
+    [
+      "Steam Store is offline",
+      "https://steamstat.us/"
+    ]
+  ],
+  [
+    [
       "2025-12-24, 21:02:15",
       "https://news.ycombinator.com/item?id=46379183"
     ],
@@ -35,7 +45,7 @@
       "https://news.ycombinator.com/item?id=46379076"
     ],
     [
-      "Spaced Repetition for Efficient Learning",
+      "Spaced repetition for efficient learning (2019)",
       "https://gwern.net/spaced-repetition"
     ]
   ],
@@ -57,16 +67,6 @@
     [
       "Show HN: Minimalist editor that lives in browser, stores everything in the URL",
       "https://github.com/antonmedv/textarea"
-    ]
-  ],
-  [
-    [
-      "2025-12-24, 19:28:18",
-      "https://news.ycombinator.com/item?id=46378431"
-    ],
-    [
-      "Looking for Decent Conversation?",
-      "https://news.ycombinator.com/item?id=46378431"
     ]
   ],
   [
@@ -101,22 +101,22 @@
   ],
   [
     [
+      "2025-12-24, 16:44:17",
+      "https://news.ycombinator.com/item?id=46377070"
+    ],
+    [
+      "Show HN: A local-first, reversible PII scrubber for AI workflows",
+      "https://medium.com/@tj.ruesch/a-local-first-reversible-pii-scrubber-for-ai-workflows-using-onnx-and-regex-e9850a7531fc"
+    ]
+  ],
+  [
+    [
       "2025-12-24, 15:59:23",
       "https://news.ycombinator.com/item?id=46376652"
     ],
     [
       "My 2026 Open Social Web Predictions",
       "https://www.timothychambers.net/2025/12/23/my-open-social-web-predictions.html"
-    ]
-  ],
-  [
-    [
-      "2025-12-24, 13:43:46",
-      "https://news.ycombinator.com/item?id=46375499"
-    ],
-    [
-      "Games’ affordance of childlike wonder and reduced burnout risk in young adults",
-      "https://games.jmir.org/2025/1/e84219/"
     ]
   ],
   [
@@ -171,32 +171,12 @@
   ],
   [
     [
-      "2025-12-24, 02:16:01",
-      "https://news.ycombinator.com/item?id=46371730"
+      "2025-12-23, 19:59:19",
+      "https://news.ycombinator.com/item?id=46368827"
     ],
     [
-      "Lessons from the PG&E outage",
-      "https://waymo.com/blog/2025/12/autonomously-navigating-the-real-world"
-    ]
-  ],
-  [
-    [
-      "2025-12-23, 21:54:30",
-      "https://news.ycombinator.com/item?id=46369923"
-    ],
-    [
-      "X-ray: a Python library for finding bad redactions in PDF documents",
-      "https://github.com/freelawproject/x-ray"
-    ]
-  ],
-  [
-    [
-      "2025-12-23, 20:10:30",
-      "https://news.ycombinator.com/item?id=46368946"
-    ],
-    [
-      "Some Epstein file redactions are being undone",
-      "https://www.theguardian.com/us-news/2025/dec/23/epstein-unredacted-files-social-media"
+      "Pantograph: Building a preschool for robots",
+      "https://pantograph.com/blog/building-a-preschool-for-robots.html"
     ]
   ],
   [
@@ -211,12 +191,32 @@
   ],
   [
     [
+      "2025-12-23, 16:11:45",
+      "https://news.ycombinator.com/item?id=46366462"
+    ],
+    [
+      "The IPv4 address swamp: The new normal",
+      "https://blog.apnic.net/2025/12/23/the-ipv4-address-swamp-the-new-normal/"
+    ]
+  ],
+  [
+    [
       "2025-12-23, 14:04:10",
       "https://news.ycombinator.com/item?id=46365398"
     ],
     [
       "Quake's Player Speed (2017)",
       "https://rome.ro/quakes-player-speed-1"
+    ]
+  ],
+  [
+    [
+      "2025-12-22, 05:38:33",
+      "https://news.ycombinator.com/item?id=46351666"
+    ],
+    [
+      "CSRF protection without tokens or hidden form fields",
+      "https://blog.miguelgrinberg.com/post/csrf-protection-without-tokens-or-hidden-form-fields"
     ]
   ],
   [
@@ -231,12 +231,42 @@
   ],
   [
     [
-      "2025-12-21, 22:04:12",
-      "https://news.ycombinator.com/item?id=46349028"
+      "2025-12-21, 20:40:00",
+      "https://news.ycombinator.com/item?id=46348207"
     ],
     [
-      "Fabrication Techniques Using Myco-Materials",
-      "https://encyclopedia.pub/entry/27602"
+      "Why did we use leaded petrol for so long? (2017)",
+      "https://www.bbc.com/news/business-40593353"
+    ]
+  ],
+  [
+    [
+      "2025-12-21, 16:16:49",
+      "https://news.ycombinator.com/item?id=46345865"
+    ],
+    [
+      "How GNU Guile is 10x better (2021)",
+      "https://www.draketo.de/software/guile-10x"
+    ]
+  ],
+  [
+    [
+      "2025-12-21, 11:38:48",
+      "https://news.ycombinator.com/item?id=46344104"
+    ],
+    [
+      "Jingle Bells (Batman Smells): An incomplete festive folk-rhyme taxonomy",
+      "https://loreandordure.com/2025/12/16/jingle-bells/"
+    ]
+  ],
+  [
+    [
+      "2025-12-20, 19:40:02",
+      "https://news.ycombinator.com/item?id=46338895"
+    ],
+    [
+      "The dawn of a world simulator",
+      "https://odyssey.ml/the-dawn-of-a-world-simulator"
     ]
   ],
   [
@@ -251,42 +281,12 @@
   ],
   [
     [
-      "2025-12-19, 15:45:08",
-      "https://news.ycombinator.com/item?id=46327060"
-    ],
-    [
-      "map::operator[] should be nodiscard",
-      "https://quuxplusone.github.io/blog/2025/12/18/nodiscard-operator-bracket/"
-    ]
-  ],
-  [
-    [
       "2025-12-19, 13:00:47",
       "https://news.ycombinator.com/item?id=46325337"
     ],
     [
       "Making a game on a custom bytecode VM in 7 days and 3kB",
       "https://laurent.le-brun.eu/blog/making-a-game-on-a-custom-bytecode-vm-in-7-days-and-3kb"
-    ]
-  ],
-  [
-    [
-      "2025-12-19, 12:25:40",
-      "https://news.ycombinator.com/item?id=46325073"
-    ],
-    [
-      "Litex: Formal math for everyone – set theory examples with Lean comparison",
-      "https://litexlang.com/doc/How_Litex_Works/Litex_vs_Lean_Set_Theory_Examples"
-    ]
-  ],
-  [
-    [
-      "2025-12-18, 20:17:37",
-      "https://news.ycombinator.com/item?id=46318080"
-    ],
-    [
-      "The Port I couldn't Ship",
-      "https://ammil.industries/the-port-i-couldnt-ship/"
     ]
   ],
   [
