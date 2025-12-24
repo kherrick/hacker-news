@@ -1,12 +1,22 @@
 [
   [
     [
-      "2025-12-24, 16:30:40",
-      "https://news.ycombinator.com/item?id=46376944"
+      "2025-12-24, 17:49:46",
+      "https://news.ycombinator.com/item?id=46377605"
     ],
     [
-      "Show HN: No more writing shitty regexes to police usernames",
-      "https://www.username.dev"
+      "A Father, a Son and Their $108B Push for Media Moguldom (Larry Ellison)",
+      "https://www.nytimes.com/2025/12/24/business/media/larry-david-ellison-warner-bros-discovery-cbs.html"
+    ]
+  ],
+  [
+    [
+      "2025-12-24, 17:41:55",
+      "https://news.ycombinator.com/item?id=46377537"
+    ],
+    [
+      "Microsoft Agent Framework",
+      "https://learn.microsoft.com/en-us/agent-framework/overview/agent-framework-overview"
     ]
   ],
   [
@@ -77,16 +87,6 @@
     [
       "When Compilers Surprise You",
       "https://xania.org/202512/24-cunning-clang"
-    ]
-  ],
-  [
-    [
-      "2025-12-24, 12:55:19",
-      "https://news.ycombinator.com/item?id=46375174"
-    ],
-    [
-      "I'm returning my Framework 16",
-      "https://yorickpeterse.com/articles/im-returning-my-framework-16/"
     ]
   ],
   [
@@ -281,22 +281,22 @@
   ],
   [
     [
+      "2025-12-18, 19:50:29",
+      "https://news.ycombinator.com/item?id=46317687"
+    ],
+    [
+      "A faster path to container images in Bazel",
+      "https://www.tweag.io/blog/2025-12-18-rules_img/"
+    ]
+  ],
+  [
+    [
       "2025-12-18, 18:09:51",
       "https://news.ycombinator.com/item?id=46316295"
     ],
     [
       "Scaling Go Testing with Contract and Scenario Mocks",
       "https://funnelstory.ai/blog/engineering/scaling-go-testing-with-contract-and-scenario-mocks"
-    ]
-  ],
-  [
-    [
-      "2025-12-17, 18:41:40",
-      "https://news.ycombinator.com/item?id=46303638"
-    ],
-    [
-      "Show HN: Tonbo – an embedded database for serverless and edge runtimes",
-      "https://github.com/tonbo-io/tonbo"
     ]
   ]
 ]
