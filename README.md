@@ -7,7 +7,7 @@
 * [2025-12-24, 08:32:27](https://news.ycombinator.com/item?id=46373644) - [The e-scooter isn't new – London was zooming around on Autopeds a century ago](https://www.ianvisits.co.uk/articles/the-e-scooter-isnt-new-london-was-zooming-around-on-autopeds-a-century-ago-86263/)
 * [2025-12-24, 05:31:45](https://news.ycombinator.com/item?id=46372771) - [Custom Cross Compiler with Nix](https://www.hobson.space/posts/nixcross/)
 * [2025-12-24, 03:34:31](https://news.ycombinator.com/item?id=46372153) - [Don't Become the Machine](https://armeet.bearblog.dev/becoming-the-machine/)
-* [2025-12-24, 02:21:42](https://news.ycombinator.com/item?id=46371759) - [Correspondence Between Don Knuth and Peter van Emde Boas on Priority Deques 1977 [pdf]](https://staff.fnwi.uva.nl/p.vanemdeboas/knuthnote.pdf)
+* [2025-12-24, 02:21:42](https://news.ycombinator.com/item?id=46371759) - [Donald E. Knuth and Peter van Emde Boas on priority deques (1977) [pdf]](https://staff.fnwi.uva.nl/p.vanemdeboas/knuthnote.pdf)
 * [2025-12-24, 02:18:38](https://news.ycombinator.com/item?id=46371743) - [Show HN: Turn raw HTML into production-ready images for free](https://html2png.dev)
 * [2025-12-24, 02:16:01](https://news.ycombinator.com/item?id=46371730) - [Autonomously navigating the real world: lessons from the PG&E outage](https://waymo.com/blog/2025/12/autonomously-navigating-the-real-world)
 * [2025-12-24, 01:21:58](https://news.ycombinator.com/item?id=46371429) - [Open source USB to GPIB converter (for Test and Measurement instruments)](https://github.com/xyphro/UsbGpib)
