@@ -1,6 +1,56 @@
 [
   [
     [
+      "2025-12-24, 02:21:42",
+      "https://news.ycombinator.com/item?id=46371759"
+    ],
+    [
+      "Correspondence Between Don Knuth and Peter van Emde Boas on Priority Deques 1977 [pdf]",
+      "https://staff.fnwi.uva.nl/p.vanemdeboas/knuthnote.pdf"
+    ]
+  ],
+  [
+    [
+      "2025-12-24, 02:10:34",
+      "https://news.ycombinator.com/item?id=46371705"
+    ],
+    [
+      "Could lockfiles just be SBOMs?",
+      "https://nesbitt.io/2025/12/23/could-lockfiles-just-be-sboms.html"
+    ]
+  ],
+  [
+    [
+      "2025-12-24, 02:01:49",
+      "https://news.ycombinator.com/item?id=46371673"
+    ],
+    [
+      "'Dracula's Chivito': Hubble reveals largest birthplace of planets ever observed",
+      "https://phys.org/news/2025-12-chaotic-dracula-chivito-hubble-reveals.html"
+    ]
+  ],
+  [
+    [
+      "2025-12-24, 01:21:58",
+      "https://news.ycombinator.com/item?id=46371429"
+    ],
+    [
+      "Open source USB to GPIB converter (for Test and Measurement instruments)",
+      "https://github.com/xyphro/UsbGpib"
+    ]
+  ],
+  [
+    [
+      "2025-12-24, 01:20:39",
+      "https://news.ycombinator.com/item?id=46371423"
+    ],
+    [
+      "Nabokov's guide to foreigners learning Russian",
+      "https://twitter.com/haravayin_hogh/status/2003299405907247502"
+    ]
+  ],
+  [
+    [
       "2025-12-24, 00:30:42",
       "https://news.ycombinator.com/item?id=46371139"
     ],
@@ -111,6 +161,16 @@
   ],
   [
     [
+      "2025-12-23, 18:33:01",
+      "https://news.ycombinator.com/item?id=46367864"
+    ],
+    [
+      "Volvo Centum is Dalton Maag's new typeface for Volvo",
+      "https://www.wallpaper.com/design-interiors/corporate-design-branding/volvo-new-font-volvo-centum"
+    ]
+  ],
+  [
+    [
       "2025-12-23, 18:00:31",
       "https://news.ycombinator.com/item?id=46367475"
     ],
@@ -141,46 +201,6 @@
   ],
   [
     [
-      "2025-12-23, 17:08:34",
-      "https://news.ycombinator.com/item?id=46366998"
-    ],
-    [
-      "Meta is using the Linux scheduler designed for Valve's Steam Deck on its servers",
-      "https://www.phoronix.com/news/Meta-SCX-LAVD-Steam-Deck-Server"
-    ]
-  ],
-  [
-    [
-      "2025-12-23, 12:56:50",
-      "https://news.ycombinator.com/item?id=46364973"
-    ],
-    [
-      "Test, don't just verify",
-      "https://alperenkeles.com/posts/test-dont-verify/"
-    ]
-  ],
-  [
-    [
-      "2025-12-23, 07:58:25",
-      "https://news.ycombinator.com/item?id=46363360"
-    ],
-    [
-      "Instant database clones with PostgreSQL 18",
-      "https://boringsql.com/posts/instant-database-clones/"
-    ]
-  ],
-  [
-    [
-      "2025-12-23, 07:50:03",
-      "https://news.ycombinator.com/item?id=46363319"
-    ],
-    [
-      "10 years bootstrapped: €6.5M revenue with a team of 13",
-      "https://www.datocms.com/blog/a-look-back-at-2025"
-    ]
-  ],
-  [
-    [
       "2025-12-23, 06:22:21",
       "https://news.ycombinator.com/item?id=46362927"
     ],
@@ -197,16 +217,6 @@
     [
       "Local AI is driving the biggest change in laptops in decades",
       "https://spectrum.ieee.org/ai-models-locally"
-    ]
-  ],
-  [
-    [
-      "2025-12-22, 15:12:40",
-      "https://news.ycombinator.com/item?id=46354737"
-    ],
-    [
-      "Toad is a unified experience for AI in the terminal",
-      "https://willmcgugan.github.io/toad-released/"
     ]
   ],
   [
@@ -251,16 +261,6 @@
   ],
   [
     [
-      "2025-12-18, 13:51:11",
-      "https://news.ycombinator.com/item?id=46312621"
-    ],
-    [
-      "Executorch: On-device AI across mobile, embedded and edge for PyTorch",
-      "https://github.com/pytorch/executorch"
-    ]
-  ],
-  [
-    [
       "2025-12-18, 04:55:18",
       "https://news.ycombinator.com/item?id=46309007"
     ],
@@ -271,12 +271,12 @@
   ],
   [
     [
-      "2025-12-18, 00:08:46",
-      "https://news.ycombinator.com/item?id=46307382"
+      "2025-12-17, 21:46:04",
+      "https://news.ycombinator.com/item?id=46305974"
     ],
     [
-      "Go-boot: bare metal Go UEFI boot manager",
-      "https://github.com/usbarmory/go-boot"
+      "Charts in Slides",
+      "https://ia.net/topics/charts-in-slides"
     ]
   ],
   [
