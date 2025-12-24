@@ -64,6 +64,7 @@
 * [2025-12-19, 10:03:38](https://news.ycombinator.com/item?id=46324078) - [Amazon will allow ePub and PDF downloads for DRM-free eBooks](https://www.kdpcommunity.com/s/article/New-eBook-Download-Options-for-Readers-Coming-in-2026?language=en_US)
 * [2025-12-19, 09:58:23](https://news.ycombinator.com/item?id=46324047) - [Life, Death and Mowing](https://www.cam.ac.uk/stories/lawnmower-poetry)
 * [2025-12-19, 08:54:25](https://news.ycombinator.com/item?id=46323693) - [Show HN: Orbit a systems level programming language that compiles .sh to LLVM](https://github.com/SIE-Libraries/orbit)
+* [2025-12-19, 06:24:52](https://news.ycombinator.com/item?id=46322815) - [Research team digitizes more than 100 years of Canadian infectious disease data](https://news.mcmaster.ca/mcmaster-research-team-digitizes-more-than-100-years-of-canadian-infectious-disease-data/)
 * [2025-12-19, 06:10:02](https://news.ycombinator.com/item?id=46322732) - [Making Google Sans Flex](https://design.google/library/google-sans-flex-font)
 * [2025-12-19, 05:49:33](https://news.ycombinator.com/item?id=46322631) - [Evaluating Chain-of-Thought Monitorability](https://openai.com/index/evaluating-chain-of-thought-monitorability/)
 * [2025-12-19, 05:38:25](https://news.ycombinator.com/item?id=46322556) - [2026 Apple introducing more ads to increase opportunity in search results](https://ads.apple.com/app-store/help/ad-placements/0082-search-results)
