@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-12-24, 15:06:26](https://news.ycombinator.com/item?id=46376201) - [We Abandoned Matrix: The Dark Truth About User Security and Safety (2024)](https://forum.hackliberty.org/t/why-we-abandoned-matrix-the-dark-truth-about-user-security-and-safety/224)
 * [2025-12-24, 14:37:54](https://news.ycombinator.com/item?id=46375926) - [New reactor produces clean energy and carbon nanotubes from natural gas](https://phys.org/news/2025-12-reactor-energy-carbon-nanotubes-natural.html)
 * [2025-12-24, 14:28:35](https://news.ycombinator.com/item?id=46375847) - [AMD entered the CPU market with reverse-engineered Intel 8080 clone 50 years ago](https://www.tomshardware.com/pc-components/cpus/amd-first-entered-the-cpu-market-with-reverse-engineered-intel-8080-clone-50-years-ago-the-am9080-cost-50-cents-apiece-to-make-but-sold-for-usd700)
 * [2025-12-24, 13:43:46](https://news.ycombinator.com/item?id=46375499) - [Super Mario Bros. and Yoshi Games (Yields) Reduced Burnout Risk](https://games.jmir.org/2025/1/e84219/)
@@ -8,7 +9,6 @@
 * [2025-12-24, 09:30:58](https://news.ycombinator.com/item?id=46374018) - [Google 2025 recap: Research breakthroughs of the year](https://blog.google/technology/ai/2025-research-breakthroughs/)
 * [2025-12-24, 08:32:27](https://news.ycombinator.com/item?id=46373644) - [The e-scooter isn't new – London was zooming around on Autopeds a century ago](https://www.ianvisits.co.uk/articles/the-e-scooter-isnt-new-london-was-zooming-around-on-autopeds-a-century-ago-86263/)
 * [2025-12-24, 03:34:31](https://news.ycombinator.com/item?id=46372153) - [Don't Become the Machine](https://armeet.bearblog.dev/becoming-the-machine/)
-* [2025-12-24, 02:21:42](https://news.ycombinator.com/item?id=46371759) - [Donald E. Knuth and Peter van Emde Boas on priority deques (1977) [pdf]](https://staff.fnwi.uva.nl/p.vanemdeboas/knuthnote.pdf)
 * [2025-12-24, 02:18:38](https://news.ycombinator.com/item?id=46371743) - [Show HN: Turn raw HTML into production-ready images for free](https://html2png.dev)
 * [2025-12-24, 01:21:58](https://news.ycombinator.com/item?id=46371429) - [Open source USB to GPIB converter (for Test and Measurement instruments)](https://github.com/xyphro/UsbGpib)
 * [2025-12-24, 01:20:39](https://news.ycombinator.com/item?id=46371423) - [Nabokov's guide to foreigners learning Russian](https://twitter.com/haravayin_hogh/status/2003299405907247502)
