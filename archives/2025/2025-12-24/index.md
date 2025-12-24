@@ -5,6 +5,8 @@
 ### [Archives](../../index.md) for [2025-12-24](index.md)
 
 * [2025-12-24, 14:37:54](https://news.ycombinator.com/item?id=46375926) - [New reactor produces clean energy and carbon nanotubes from natural gas](https://phys.org/news/2025-12-reactor-energy-carbon-nanotubes-natural.html)
+* [2025-12-24, 14:28:35](https://news.ycombinator.com/item?id=46375847) - [AMD entered the CPU market with reverse-engineered Intel 8080 clone 50 years ago](https://www.tomshardware.com/pc-components/cpus/amd-first-entered-the-cpu-market-with-reverse-engineered-intel-8080-clone-50-years-ago-the-am9080-cost-50-cents-apiece-to-make-but-sold-for-usd700)
+* [2025-12-24, 13:43:46](https://news.ycombinator.com/item?id=46375499) - [Super Mario Bros. and Yoshi Games (Yields) Reduced Burnout Risk](https://games.jmir.org/2025/1/e84219/)
 * [2025-12-24, 13:39:32](https://news.ycombinator.com/item?id=46375470) - [The EU's Fine Against X Is Not About Speech or 'Censorship'](https://www.techpolicy.press/the-eus-fine-against-x-is-not-about-speech-or-censorship/)
 * [2025-12-24, 13:27:50](https://news.ycombinator.com/item?id=46375384) - [When Compilers Surprise You](https://xania.org/202512/24-cunning-clang)
 * [2025-12-24, 12:04:02](https://news.ycombinator.com/item?id=46374856) - [Avoid Mini-Frameworks](https://laike9m.com/blog/avoid-mini-frameworks,171/)
