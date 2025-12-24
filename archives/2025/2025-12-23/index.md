@@ -28,6 +28,7 @@
 * [2025-12-23, 16:43:03](https://news.ycombinator.com/item?id=46366761) - [When irate product support customers demand to speak to Bill Gates](https://devblogs.microsoft.com/oldnewthing/20251223-00/?p=111896)
 * [2025-12-23, 15:51:17](https://news.ycombinator.com/item?id=46366285) - [Stop Slopware](https://stopslopware.net/)
 * [2025-12-23, 14:40:12](https://news.ycombinator.com/item?id=46365641) - [Nearly 1 in 4 Americans Think They Have a Personal Social Security Account](https://www.cato.org/blog/poll-nearly-1-4-americans-think-they-have-personal-social-security-account-3)
+* [2025-12-23, 14:04:10](https://news.ycombinator.com/item?id=46365398) - [Quake's Player Speed (2017)](https://rome.ro/quakes-player-speed-1)
 * [2025-12-23, 13:59:46](https://news.ycombinator.com/item?id=46365370) - [Deplatforming Backfired](https://reason.com/2025/12/22/deplatforming-backfired/)
 * [2025-12-23, 12:56:50](https://news.ycombinator.com/item?id=46364973) - [Test, Don't (Just) Verify](https://alperenkeles.com/posts/test-dont-verify/)
 * [2025-12-23, 12:30:21](https://news.ycombinator.com/item?id=46364783) - [Postponed '60 Minutes' segment on Salvadoran prison is streamed by Canadian news](https://www.nbcnews.com/news/us-news/cbs-news-el-salvador-cecot-prison-sharyn-alfonsi-bari-weiss-rcna250618)
