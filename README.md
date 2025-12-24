@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-12-24, 16:30:40](https://news.ycombinator.com/item?id=46376944) - [Show HN: No more writing shitty regexes to police usernames](https://www.username.dev)
+* [2025-12-24, 17:49:46](https://news.ycombinator.com/item?id=46377605) - [A Father, a Son and Their $108B Push for Media Moguldom (Larry Ellison)](https://www.nytimes.com/2025/12/24/business/media/larry-david-ellison-warner-bros-discovery-cbs.html)
+* [2025-12-24, 17:41:55](https://news.ycombinator.com/item?id=46377537) - [Microsoft Agent Framework](https://learn.microsoft.com/en-us/agent-framework/overview/agent-framework-overview)
 * [2025-12-24, 16:21:10](https://news.ycombinator.com/item?id=46376848) - [Mt. Gox CEO Karpelès Reveals Details of 2014 Collapse and Japanese Detention](https://bitcoinmagazine.com/business/former-mt-gox-ceo-mark-karpeles-reveals-details-of-2014-collapse-and-japanese-detention)
 * [2025-12-24, 15:59:23](https://news.ycombinator.com/item?id=46376652) - [My 2026 Open Social Web Predictions](https://www.timothychambers.net/2025/12/23/my-open-social-web-predictions.html)
 * [2025-12-24, 15:06:26](https://news.ycombinator.com/item?id=46376201) - [We Abandoned Matrix: The Dark Truth About User Security and Safety (2024)](https://forum.hackliberty.org/t/why-we-abandoned-matrix-the-dark-truth-about-user-security-and-safety/224)
@@ -8,7 +9,6 @@
 * [2025-12-24, 14:28:35](https://news.ycombinator.com/item?id=46375847) - [AMD entered the CPU market with reverse-engineered Intel 8080 clone 50 years ago](https://www.tomshardware.com/pc-components/cpus/amd-first-entered-the-cpu-market-with-reverse-engineered-intel-8080-clone-50-years-ago-the-am9080-cost-50-cents-apiece-to-make-but-sold-for-usd700)
 * [2025-12-24, 13:43:46](https://news.ycombinator.com/item?id=46375499) - [Super Mario Bros. and Yoshi Games (Yields) Reduced Burnout Risk](https://games.jmir.org/2025/1/e84219/)
 * [2025-12-24, 13:27:50](https://news.ycombinator.com/item?id=46375384) - [When Compilers Surprise You](https://xania.org/202512/24-cunning-clang)
-* [2025-12-24, 12:55:19](https://news.ycombinator.com/item?id=46375174) - [I'm returning my Framework 16](https://yorickpeterse.com/articles/im-returning-my-framework-16/)
 * [2025-12-24, 09:50:52](https://news.ycombinator.com/item?id=46374117) - [Permission Systems for Enterprise That Scale](https://eliocapella.com/blog/permission-systems-for-enterprise/)
 * [2025-12-24, 08:32:27](https://news.ycombinator.com/item?id=46373644) - [The e-scooter isn't new – London was zooming around on Autopeds a century ago](https://www.ianvisits.co.uk/articles/the-e-scooter-isnt-new-london-was-zooming-around-on-autopeds-a-century-ago-86263/)
 * [2025-12-24, 02:18:38](https://news.ycombinator.com/item?id=46371743) - [Show HN: Turn raw HTML into production-ready images for free](https://html2png.dev)
@@ -28,8 +28,8 @@
 * [2025-12-19, 13:00:47](https://news.ycombinator.com/item?id=46325337) - [Making a game on a custom bytecode VM in 7 days and 3kB](https://laurent.le-brun.eu/blog/making-a-game-on-a-custom-bytecode-vm-in-7-days-and-3kb)
 * [2025-12-19, 03:02:40](https://news.ycombinator.com/item?id=46321852) - [Show HN: LazyPromise = Observable – Signals](https://github.com/lazy-promise/lazy-promise)
 * [2025-12-18, 20:17:37](https://news.ycombinator.com/item?id=46318080) - [The Port I couldn't Ship](https://ammil.industries/the-port-i-couldnt-ship/)
+* [2025-12-18, 19:50:29](https://news.ycombinator.com/item?id=46317687) - [A faster path to container images in Bazel](https://www.tweag.io/blog/2025-12-18-rules_img/)
 * [2025-12-18, 18:09:51](https://news.ycombinator.com/item?id=46316295) - [Scaling Go Testing with Contract and Scenario Mocks](https://funnelstory.ai/blog/engineering/scaling-go-testing-with-contract-and-scenario-mocks)
-* [2025-12-17, 18:41:40](https://news.ycombinator.com/item?id=46303638) - [Show HN: Tonbo – an embedded database for serverless and edge runtimes](https://github.com/tonbo-io/tonbo)
 
 ## [Archives](archives/index.md)
 

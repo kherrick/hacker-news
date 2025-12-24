@@ -17,6 +17,7 @@
 * [2025-12-18, 20:26:55](https://news.ycombinator.com/item?id=46318191) - [Local WYSIWYG Markdown, mockup, data model editor powered by Claude Code](https://nimbalyst.com)
 * [2025-12-18, 20:17:37](https://news.ycombinator.com/item?id=46318080) - [The Port I couldn't Ship](https://ammil.industries/the-port-i-couldnt-ship/)
 * [2025-12-18, 19:56:04](https://news.ycombinator.com/item?id=46317765) - [Interactive Fluid Typography](https://electricmagicfactory.com/articles/interactive-fluid-typography/)
+* [2025-12-18, 19:50:29](https://news.ycombinator.com/item?id=46317687) - [A faster path to container images in Bazel](https://www.tweag.io/blog/2025-12-18-rules_img/)
 * [2025-12-18, 19:48:15](https://news.ycombinator.com/item?id=46317657) - [T5Gemma 2: The next generation of encoder-decoder models](https://blog.google/technology/developers/t5gemma-2/)
 * [2025-12-18, 19:41:24](https://news.ycombinator.com/item?id=46317546) - [How to hack Discord, Vercel and more with one easy trick](https://kibty.town/blog/mintlify/)
 * [2025-12-18, 19:17:02](https://news.ycombinator.com/item?id=46317199) - [Public Makes Millions on Plunging Crypto](https://cepr.net/publications/public-makes-trillions-on-plunging-crypto/)
