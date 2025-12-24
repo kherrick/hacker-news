@@ -1,12 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-12-24, 03:34:31](https://news.ycombinator.com/item?id=46372153) - [Don't Become the Machine](https://armeet.bearblog.dev/becoming-the-machine/)
 * [2025-12-24, 02:21:42](https://news.ycombinator.com/item?id=46371759) - [Correspondence Between Don Knuth and Peter van Emde Boas on Priority Deques 1977 [pdf]](https://staff.fnwi.uva.nl/p.vanemdeboas/knuthnote.pdf)
 * [2025-12-24, 02:18:38](https://news.ycombinator.com/item?id=46371743) - [Show HN: Turn raw HTML into production-ready images for free](https://html2png.dev)
+* [2025-12-24, 02:16:01](https://news.ycombinator.com/item?id=46371730) - [Autonomously navigating the real world: lessons from the PG&E outage](https://waymo.com/blog/2025/12/autonomously-navigating-the-real-world)
 * [2025-12-24, 02:10:34](https://news.ycombinator.com/item?id=46371705) - [Could lockfiles just be SBOMs?](https://nesbitt.io/2025/12/23/could-lockfiles-just-be-sboms.html)
 * [2025-12-24, 02:01:49](https://news.ycombinator.com/item?id=46371673) - ['Dracula's Chivito': Hubble reveals largest birthplace of planets ever observed](https://phys.org/news/2025-12-chaotic-dracula-chivito-hubble-reveals.html)
 * [2025-12-24, 01:21:58](https://news.ycombinator.com/item?id=46371429) - [Open source USB to GPIB converter (for Test and Measurement instruments)](https://github.com/xyphro/UsbGpib)
-* [2025-12-24, 01:20:39](https://news.ycombinator.com/item?id=46371423) - [Nabokov's guide to foreigners learning Russian](https://twitter.com/haravayin_hogh/status/2003299405907247502)
 * [2025-12-24, 00:30:18](https://news.ycombinator.com/item?id=46371135) - [Unifi Travel Router](https://blog.ui.com/article/travel-in-style-unifi-style-unifi-travel-router)
 * [2025-12-23, 23:12:03](https://news.ycombinator.com/item?id=46370592) - [Is Northern Virginia still the least reliable AWS region?](https://statusgator.com/blog/aws-least-reliable-region-in-2025/)
 * [2025-12-23, 22:03:46](https://news.ycombinator.com/item?id=46370012) - [Texas app store age verification law blocked by federal judge](https://www.macrumors.com/2025/12/23/texas-app-store-law-blocked/)
@@ -30,6 +29,7 @@
 * [2025-12-18, 04:55:18](https://news.ycombinator.com/item?id=46309007) - [Fifty problems with standard web APIs in 2025](https://zerotrickpony.com/articles/browser-bugs/)
 * [2025-12-17, 21:46:04](https://news.ycombinator.com/item?id=46305974) - [Charts in Slides](https://ia.net/topics/charts-in-slides)
 * [2025-12-17, 20:09:17](https://news.ycombinator.com/item?id=46304858) - [Learn Lisp/Fennel Programming Against Neovim](https://github.com/humorless/fennel-fp-neovim)
+* [2025-12-16, 19:18:42](https://news.ycombinator.com/item?id=46293041) - [Time-Traveling to 1979: Advice for Designing 'C with Classes](https://coderschmoder.com/i-time-traveled-1979-met-bjarne-stroustrup)
 
 ## [Archives](archives/index.md)
 

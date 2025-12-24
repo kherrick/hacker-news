@@ -27,6 +27,7 @@
 * [2025-12-16, 20:25:04](https://news.ycombinator.com/item?id=46293932) - [Our New Sam Audio Model Transforms Audio Editing](https://about.fb.com/news/2025/12/our-new-sam-audio-model-transforms-audio-editing/)
 * [2025-12-16, 19:55:56](https://news.ycombinator.com/item?id=46293564) - [Show HN: I built a fast RSS reader in Zig](https://github.com/superstarryeyes/hys)
 * [2025-12-16, 19:20:17](https://news.ycombinator.com/item?id=46293062) - [No Graphics API](https://www.sebastianaaltonen.com/blog/no-graphics-api)
+* [2025-12-16, 19:18:42](https://news.ycombinator.com/item?id=46293041) - [Time-Traveling to 1979: Advice for Designing 'C with Classes](https://coderschmoder.com/i-time-traveled-1979-met-bjarne-stroustrup)
 * [2025-12-16, 19:11:47](https://news.ycombinator.com/item?id=46292937) - [I've been writing ring buffers wrong all these years (2016)](https://www.snellman.net/blog/archive/2016-12-13-ring-buffers/)
 * [2025-12-16, 18:54:37](https://news.ycombinator.com/item?id=46292682) - [Ask HN: How are you LLM-coding in an established code base?](https://news.ycombinator.com/item?id=46292682)
 * [2025-12-16, 18:32:46](https://news.ycombinator.com/item?id=46292365) - [Too Fast to Think: The Hidden Fatigue of AI Vibe Coding](https://www.tabulamag.com/p/too-fast-to-think-the-hidden-fatigue)
