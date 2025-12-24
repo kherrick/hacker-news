@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-12-24, 22:43:53](https://news.ycombinator.com/item?id=46380075) - [Phoenix: A modern X server written from scratch in Zig](https://git.dec05eba.com/phoenix/about/)
+* [2025-12-24, 22:25:02](https://news.ycombinator.com/item?id=46379927) - [Show HN: Just Fucking Use Cloudflare – A satirical guide to the CF stack](https://justfuckingusecloudflare.com)
 * [2025-12-24, 21:50:20](https://news.ycombinator.com/item?id=46379630) - [Steam Store is offline](https://steamstat.us/)
 * [2025-12-24, 21:02:15](https://news.ycombinator.com/item?id=46379183) - [Nvidia buying AI chip startup Groq for about $20B in cash](https://www.cnbc.com/2025/12/24/nvidia-buying-ai-chip-startup-groq-for-about-20-billion-biggest-deal.html)
 * [2025-12-24, 21:01:05](https://news.ycombinator.com/item?id=46379173) - [Keystone (YC S25) is hiring engineer #1 to automate coding](https://www.ycombinator.com/companies/keystone/jobs/J3t9XeM-founding-engineer)
@@ -7,7 +9,6 @@
 * [2025-12-24, 20:04:52](https://news.ycombinator.com/item?id=46378747) - [Beijing is enforcing tough rules to ensure chatbots don’t misbehave](https://www.wsj.com/tech/ai/china-is-worried-ai-threatens-party-ruleand-is-trying-to-tame-it-bfdcda2d)
 * [2025-12-24, 19:42:25](https://news.ycombinator.com/item?id=46378554) - [Show HN: Minimalist editor that lives in browser, stores everything in the URL](https://github.com/antonmedv/textarea)
 * [2025-12-24, 18:17:47](https://news.ycombinator.com/item?id=46377862) - [Fabrice Bellard: Biography (2009) [pdf]](https://www.ipaidia.gr/wp-content/uploads/2020/12/117-2020-fabrice-bellard.pdf)
-* [2025-12-24, 18:09:42](https://news.ycombinator.com/item?id=46377796) - [Researchers achieved 1,270 Wh/L in an anode-free lithium metal battery](https://postech.ac.kr/eng/research/research_results.do?mode=view&articleNo=43617&title=Anode-Free+Battery+Doubles+Electric+Vehicle+Driving+Range)
 * [2025-12-24, 17:49:02](https://news.ycombinator.com/item?id=46377597) - [Show HN: Vibium – Browser automation for AI and humans, by Selenium's creator](https://github.com/VibiumDev/vibium)
 * [2025-12-24, 16:44:17](https://news.ycombinator.com/item?id=46377070) - [Show HN: A local-first, reversible PII scrubber for AI workflows](https://medium.com/@tj.ruesch/a-local-first-reversible-pii-scrubber-for-ai-workflows-using-onnx-and-regex-e9850a7531fc)
 * [2025-12-24, 15:59:23](https://news.ycombinator.com/item?id=46376652) - [My 2026 Open Social Web Predictions](https://www.timothychambers.net/2025/12/23/my-open-social-web-predictions.html)
@@ -16,7 +17,6 @@
 * [2025-12-24, 12:04:02](https://news.ycombinator.com/item?id=46374856) - [Avoid Mini-Frameworks](https://laike9m.com/blog/avoid-mini-frameworks,171/)
 * [2025-12-24, 09:30:58](https://news.ycombinator.com/item?id=46374018) - [Google's year in review: areas with research breakthroughs in 2025](https://blog.google/technology/ai/2025-research-breakthroughs/)
 * [2025-12-24, 08:32:27](https://news.ycombinator.com/item?id=46373644) - [The e-scooter isn't new – London was zooming around on Autopeds a century ago](https://www.ianvisits.co.uk/articles/the-e-scooter-isnt-new-london-was-zooming-around-on-autopeds-a-century-ago-86263/)
-* [2025-12-24, 02:16:01](https://news.ycombinator.com/item?id=46371730) - [Lessons from the PG&E outage](https://waymo.com/blog/2025/12/autonomously-navigating-the-real-world)
 * [2025-12-23, 17:51:13](https://news.ycombinator.com/item?id=46367377) - [Confessions to a Data Lake](https://confer.to/blog/2025/12/confessions-to-a-data-lake/)
 * [2025-12-23, 17:33:42](https://news.ycombinator.com/item?id=46367224) - [Fabrice Bellard Releases MicroQuickJS](https://github.com/bellard/mquickjs/blob/main/README.md)
 * [2025-12-23, 16:11:45](https://news.ycombinator.com/item?id=46366462) - [The IPv4 address swamp: The new normal](https://blog.apnic.net/2025/12/23/the-ipv4-address-swamp-the-new-normal/)
