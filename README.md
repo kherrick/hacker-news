@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-12-24, 09:50:52](https://news.ycombinator.com/item?id=46374117) - [Permission Systems for Enterprise That Scale](https://eliocapella.com/blog/permission-systems-for-enterprise/)
 * [2025-12-24, 09:15:47](https://news.ycombinator.com/item?id=46373919) - [Next JavaScript app is hacked, you just don't know it yet](https://audits.blockhacks.io/audit/your-next-js-app-is-already-hacked)
 * [2025-12-24, 05:31:45](https://news.ycombinator.com/item?id=46372771) - [Custom Cross Compiler with Nix](https://www.hobson.space/posts/nixcross/)
 * [2025-12-24, 03:34:31](https://news.ycombinator.com/item?id=46372153) - [Don't Become the Machine](https://armeet.bearblog.dev/becoming-the-machine/)
@@ -7,7 +8,6 @@
 * [2025-12-24, 02:21:42](https://news.ycombinator.com/item?id=46371759) - [Correspondence Between Don Knuth and Peter van Emde Boas on Priority Deques 1977 [pdf]](https://staff.fnwi.uva.nl/p.vanemdeboas/knuthnote.pdf)
 * [2025-12-24, 02:18:38](https://news.ycombinator.com/item?id=46371743) - [Show HN: Turn raw HTML into production-ready images for free](https://html2png.dev)
 * [2025-12-24, 02:16:01](https://news.ycombinator.com/item?id=46371730) - [Autonomously navigating the real world: lessons from the PG&E outage](https://waymo.com/blog/2025/12/autonomously-navigating-the-real-world)
-* [2025-12-24, 02:10:34](https://news.ycombinator.com/item?id=46371705) - [Could lockfiles just be SBOMs?](https://nesbitt.io/2025/12/23/could-lockfiles-just-be-sboms.html)
 * [2025-12-24, 02:01:49](https://news.ycombinator.com/item?id=46371673) - ['Dracula's Chivito': Hubble reveals largest birthplace of planets ever observed](https://phys.org/news/2025-12-chaotic-dracula-chivito-hubble-reveals.html)
 * [2025-12-24, 01:21:58](https://news.ycombinator.com/item?id=46371429) - [Open source USB to GPIB converter (for Test and Measurement instruments)](https://github.com/xyphro/UsbGpib)
 * [2025-12-24, 01:20:39](https://news.ycombinator.com/item?id=46371423) - [Nabokov's guide to foreigners learning Russian](https://twitter.com/haravayin_hogh/status/2003299405907247502)
