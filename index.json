@@ -91,16 +91,6 @@
   ],
   [
     [
-      "2025-12-24, 02:21:42",
-      "https://news.ycombinator.com/item?id=46371759"
-    ],
-    [
-      "Donald E. Knuth and Peter van Emde Boas on priority deques (1977) [pdf]",
-      "https://staff.fnwi.uva.nl/p.vanemdeboas/knuthnote.pdf"
-    ]
-  ],
-  [
-    [
       "2025-12-24, 02:18:38",
       "https://news.ycombinator.com/item?id=46371743"
     ],
@@ -177,6 +167,16 @@
     [
       "HTTP Caching, a Refresher",
       "https://danburzo.ro/http-caching-refresher/"
+    ]
+  ],
+  [
+    [
+      "2025-12-23, 18:33:01",
+      "https://news.ycombinator.com/item?id=46367864"
+    ],
+    [
+      "Volvo Centum is Dalton Maag's new typeface for Volvo",
+      "https://www.wallpaper.com/design-interiors/corporate-design-branding/volvo-new-font-volvo-centum"
     ]
   ],
   [
@@ -261,6 +261,16 @@
   ],
   [
     [
+      "2025-12-19, 03:02:40",
+      "https://news.ycombinator.com/item?id=46321852"
+    ],
+    [
+      "Show HN: LazyPromise = Observable – Signals",
+      "https://github.com/lazy-promise/lazy-promise"
+    ]
+  ],
+  [
+    [
       "2025-12-18, 20:17:37",
       "https://news.ycombinator.com/item?id=46318080"
     ],
@@ -277,16 +287,6 @@
     [
       "Scaling Go Testing with Contract and Scenario Mocks",
       "https://funnelstory.ai/blog/engineering/scaling-go-testing-with-contract-and-scenario-mocks"
-    ]
-  ],
-  [
-    [
-      "2025-12-18, 04:55:18",
-      "https://news.ycombinator.com/item?id=46309007"
-    ],
-    [
-      "Fifty problems with standard web APIs in 2025",
-      "https://zerotrickpony.com/articles/browser-bugs/"
     ]
   ],
   [
