@@ -1,16 +1,6 @@
 [
   [
     [
-      "2025-12-24, 03:34:31",
-      "https://news.ycombinator.com/item?id=46372153"
-    ],
-    [
-      "Don't Become the Machine",
-      "https://armeet.bearblog.dev/becoming-the-machine/"
-    ]
-  ],
-  [
-    [
       "2025-12-24, 02:21:42",
       "https://news.ycombinator.com/item?id=46371759"
     ],
@@ -27,6 +17,16 @@
     [
       "Show HN: Turn raw HTML into production-ready images for free",
       "https://html2png.dev"
+    ]
+  ],
+  [
+    [
+      "2025-12-24, 02:16:01",
+      "https://news.ycombinator.com/item?id=46371730"
+    ],
+    [
+      "Autonomously navigating the real world: lessons from the PG&E outage",
+      "https://waymo.com/blog/2025/12/autonomously-navigating-the-real-world"
     ]
   ],
   [
@@ -57,16 +57,6 @@
     [
       "Open source USB to GPIB converter (for Test and Measurement instruments)",
       "https://github.com/xyphro/UsbGpib"
-    ]
-  ],
-  [
-    [
-      "2025-12-24, 01:20:39",
-      "https://news.ycombinator.com/item?id=46371423"
-    ],
-    [
-      "Nabokov's guide to foreigners learning Russian",
-      "https://twitter.com/haravayin_hogh/status/2003299405907247502"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Learn Lisp/Fennel Programming Against Neovim",
       "https://github.com/humorless/fennel-fp-neovim"
+    ]
+  ],
+  [
+    [
+      "2025-12-16, 19:18:42",
+      "https://news.ycombinator.com/item?id=46293041"
+    ],
+    [
+      "Time-Traveling to 1979: Advice for Designing 'C with Classes",
+      "https://coderschmoder.com/i-time-traveled-1979-met-bjarne-stroustrup"
     ]
   ]
 ]
