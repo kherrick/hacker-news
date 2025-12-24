@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-12-24, 03:34:31](https://news.ycombinator.com/item?id=46372153) - [Don't Become the Machine](https://armeet.bearblog.dev/becoming-the-machine/)
 * [2025-12-24, 02:21:42](https://news.ycombinator.com/item?id=46371759) - [Correspondence Between Don Knuth and Peter van Emde Boas on Priority Deques 1977 [pdf]](https://staff.fnwi.uva.nl/p.vanemdeboas/knuthnote.pdf)
 * [2025-12-24, 02:18:38](https://news.ycombinator.com/item?id=46371743) - [Show HN: Turn raw HTML into production-ready images for free](https://html2png.dev)
 * [2025-12-24, 02:10:34](https://news.ycombinator.com/item?id=46371705) - [Could lockfiles just be SBOMs?](https://nesbitt.io/2025/12/23/could-lockfiles-just-be-sboms.html)
@@ -26,7 +27,6 @@
 * [2025-12-20, 13:16:21](https://news.ycombinator.com/item?id=46335961) - [Proving Bounds for the Randomized MaxCut Approximation Algorithm in Lean4](https://abhamra.com/blog/randomized-maxcut/)
 * [2025-12-20, 07:14:53](https://news.ycombinator.com/item?id=46334206) - [Perfect Software – Software for an Audience of One](https://outofdesk.netlify.app/blog/perfect-software)
 * [2025-12-19, 16:34:41](https://news.ycombinator.com/item?id=46327692) - [What makes you senior](https://terriblesoftware.org/2025/11/25/what-actually-makes-you-senior/)
-* [2025-12-19, 13:18:42](https://news.ycombinator.com/item?id=46325486) - [AI Can Write Your Code. It Can't Do Your Job](https://terriblesoftware.org/2025/12/11/ai-can-write-your-code-it-cant-do-your-job/)
 * [2025-12-18, 04:55:18](https://news.ycombinator.com/item?id=46309007) - [Fifty problems with standard web APIs in 2025](https://zerotrickpony.com/articles/browser-bugs/)
 * [2025-12-17, 21:46:04](https://news.ycombinator.com/item?id=46305974) - [Charts in Slides](https://ia.net/topics/charts-in-slides)
 * [2025-12-17, 20:09:17](https://news.ycombinator.com/item?id=46304858) - [Learn Lisp/Fennel Programming Against Neovim](https://github.com/humorless/fennel-fp-neovim)
