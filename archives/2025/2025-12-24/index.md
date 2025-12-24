@@ -4,11 +4,13 @@
 
 ### [Archives](../../index.md) for [2025-12-24](index.md)
 
+* [2025-12-24, 12:04:02](https://news.ycombinator.com/item?id=46374856) - [Avoid Mini-Frameworks](https://laike9m.com/blog/avoid-mini-frameworks,171/)
 * [2025-12-24, 10:48:24](https://news.ycombinator.com/item?id=46374413) - [The Windows Utility](https://christitus.com/windows-tool/)
 * [2025-12-24, 09:50:52](https://news.ycombinator.com/item?id=46374117) - [Permission Systems for Enterprise That Scale](https://eliocapella.com/blog/permission-systems-for-enterprise/)
 * [2025-12-24, 09:43:34](https://news.ycombinator.com/item?id=46374087) - [US sanctions EU government officials behind the DSA](https://mastodon.social/@fj/115773761468906515)
 * [2025-12-24, 09:30:58](https://news.ycombinator.com/item?id=46374018) - [Google 2025 recap: Research breakthroughs of the year](https://blog.google/technology/ai/2025-research-breakthroughs/)
 * [2025-12-24, 09:15:47](https://news.ycombinator.com/item?id=46373919) - [Next JavaScript app is hacked, you just don't know it yet](https://audits.blockhacks.io/audit/your-next-js-app-is-already-hacked)
+* [2025-12-24, 08:32:27](https://news.ycombinator.com/item?id=46373644) - [The e-scooter isn't new – London was zooming around on Autopeds a century ago](https://www.ianvisits.co.uk/articles/the-e-scooter-isnt-new-london-was-zooming-around-on-autopeds-a-century-ago-86263/)
 * [2025-12-24, 06:15:57](https://news.ycombinator.com/item?id=46372972) - [CEO killed at industrial site by worker operating forklift](https://www.12onyourside.com/2025/12/23/ceo-killed-industrial-site-by-worker-operating-forklift-while-talking-phone-osha-report-shows/)
 * [2025-12-24, 05:31:45](https://news.ycombinator.com/item?id=46372771) - [Custom Cross Compiler with Nix](https://www.hobson.space/posts/nixcross/)
 * [2025-12-24, 05:26:36](https://news.ycombinator.com/item?id=46372739) - [Dutch Tesla Fleet Goes Bankrupt After Betting on Musk's Self-Driving Promises](https://guessingheadlights.com/dutch-tesla-fleet-goes-bust-after-betting-on-musks-self-driving-promises/)
