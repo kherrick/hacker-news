@@ -1,12 +1,12 @@
 [
   [
     [
-      "2025-12-24, 05:26:36",
-      "https://news.ycombinator.com/item?id=46372739"
+      "2025-12-24, 05:31:45",
+      "https://news.ycombinator.com/item?id=46372771"
     ],
     [
-      "Dutch Tesla Fleet Goes Bankrupt After Betting on Musk's Self-Driving Promises",
-      "https://guessingheadlights.com/dutch-tesla-fleet-goes-bust-after-betting-on-musks-self-driving-promises/"
+      "Custom Cross Compiler with Nix",
+      "https://www.hobson.space/posts/nixcross/"
     ]
   ],
   [
@@ -17,6 +17,16 @@
     [
       "Don't Become the Machine",
       "https://armeet.bearblog.dev/becoming-the-machine/"
+    ]
+  ],
+  [
+    [
+      "2025-12-24, 02:24:45",
+      "https://news.ycombinator.com/item?id=46371776"
+    ],
+    [
+      "Name That Part: 3D Part Segmentation and Naming",
+      "https://name-that-part.github.io/"
     ]
   ],
   [
@@ -151,16 +161,6 @@
   ],
   [
     [
-      "2025-12-23, 19:35:20",
-      "https://news.ycombinator.com/item?id=46368557"
-    ],
-    [
-      "Terrence Malick's Disciples",
-      "https://yalereview.org/article/bilge-ebiri-terrence-malick"
-    ]
-  ],
-  [
-    [
       "2025-12-23, 19:09:45",
       "https://news.ycombinator.com/item?id=46368300"
     ],
@@ -201,16 +201,6 @@
   ],
   [
     [
-      "2025-12-23, 06:22:21",
-      "https://news.ycombinator.com/item?id=46362927"
-    ],
-    [
-      "iOS 26.3 brings AirPods-like pairing to third-party devices in EU under DMA",
-      "https://www.macrumors.com/2025/12/22/ios-26-3-dma-airpods-pairing/"
-    ]
-  ],
-  [
-    [
       "2025-12-22, 15:06:13",
       "https://news.ycombinator.com/item?id=46354674"
     ],
@@ -227,6 +217,16 @@
     [
       "Proving Bounds for the Randomized MaxCut Approximation Algorithm in Lean4",
       "https://abhamra.com/blog/randomized-maxcut/"
+    ]
+  ],
+  [
+    [
+      "2025-12-20, 08:54:49",
+      "https://news.ycombinator.com/item?id=46334615"
+    ],
+    [
+      "Show HN: CodinIT, local open-source Lovable alternative (Electron desktop app)",
+      "https://github.com/codinit-dev/codinit-dev"
     ]
   ],
   [
