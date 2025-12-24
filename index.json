@@ -271,16 +271,6 @@
   ],
   [
     [
-      "2025-12-18, 19:56:04",
-      "https://news.ycombinator.com/item?id=46317765"
-    ],
-    [
-      "Interactive Fluid Typography",
-      "https://electricmagicfactory.com/articles/interactive-fluid-typography/"
-    ]
-  ],
-  [
-    [
       "2025-12-18, 04:55:18",
       "https://news.ycombinator.com/item?id=46309007"
     ],
@@ -297,6 +287,16 @@
     [
       "Learn Lisp/Fennel Programming Against Neovim",
       "https://github.com/humorless/fennel-fp-neovim"
+    ]
+  ],
+  [
+    [
+      "2025-12-17, 18:41:40",
+      "https://news.ycombinator.com/item?id=46303638"
+    ],
+    [
+      "Show HN: Tonbo – an embedded database for serverless and edge runtimes",
+      "https://github.com/tonbo-io/tonbo"
     ]
   ]
 ]
