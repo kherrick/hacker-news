@@ -5,7 +5,7 @@
       "https://news.ycombinator.com/item?id=46374413"
     ],
     [
-      "The Windows Utility",
+      "The Ultimate Windows Utility (2022)",
       "https://christitus.com/windows-tool/"
     ]
   ],
@@ -17,16 +17,6 @@
     [
       "Permission Systems for Enterprise That Scale",
       "https://eliocapella.com/blog/permission-systems-for-enterprise/"
-    ]
-  ],
-  [
-    [
-      "2025-12-24, 09:43:34",
-      "https://news.ycombinator.com/item?id=46374087"
-    ],
-    [
-      "US sanctions EU government officials behind the DSA",
-      "https://mastodon.social/@fj/115773761468906515"
     ]
   ],
   [
@@ -131,6 +121,16 @@
   ],
   [
     [
+      "2025-12-23, 23:12:03",
+      "https://news.ycombinator.com/item?id=46370592"
+    ],
+    [
+      "Is Northern Virginia still the least reliable AWS region?",
+      "https://statusgator.com/blog/aws-least-reliable-region-in-2025/"
+    ]
+  ],
+  [
+    [
       "2025-12-23, 22:03:46",
       "https://news.ycombinator.com/item?id=46370012"
     ],
@@ -167,6 +167,16 @@
     [
       "HTTP Caching, a Refresher",
       "https://danburzo.ro/http-caching-refresher/"
+    ]
+  ],
+  [
+    [
+      "2025-12-23, 19:09:45",
+      "https://news.ycombinator.com/item?id=46368300"
+    ],
+    [
+      "Help My c64 caught on fire",
+      "https://c0de517e.com/026_c64fire.htm"
     ]
   ],
   [
@@ -241,22 +251,12 @@
   ],
   [
     [
-      "2025-12-19, 16:34:41",
-      "https://news.ycombinator.com/item?id=46327692"
+      "2025-12-19, 15:45:08",
+      "https://news.ycombinator.com/item?id=46327060"
     ],
     [
-      "What makes you senior",
-      "https://terriblesoftware.org/2025/11/25/what-actually-makes-you-senior/"
-    ]
-  ],
-  [
-    [
-      "2025-12-19, 09:58:23",
-      "https://news.ycombinator.com/item?id=46324047"
-    ],
-    [
-      "Life, Death and Mowing",
-      "https://www.cam.ac.uk/stories/lawnmower-poetry"
+      "Map: Operator[] Should Be Nodiscard",
+      "https://quuxplusone.github.io/blog/2025/12/18/nodiscard-operator-bracket/"
     ]
   ],
   [
