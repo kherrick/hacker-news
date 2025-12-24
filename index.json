@@ -1,12 +1,22 @@
 [
   [
     [
-      "2025-12-24, 17:49:46",
-      "https://news.ycombinator.com/item?id=46377605"
+      "2025-12-24, 18:09:42",
+      "https://news.ycombinator.com/item?id=46377796"
     ],
     [
-      "A Father, a Son and Their $108B Push for Media Moguldom (Larry Ellison)",
-      "https://www.nytimes.com/2025/12/24/business/media/larry-david-ellison-warner-bros-discovery-cbs.html"
+      "Researchers achieved 1,270 Wh/L in an anode-free lithium metal battery",
+      "https://postech.ac.kr/eng/research/research_results.do?mode=view&articleNo=43617&title=Anode-Free+Battery+Doubles+Electric+Vehicle+Driving+Range"
+    ]
+  ],
+  [
+    [
+      "2025-12-24, 17:49:02",
+      "https://news.ycombinator.com/item?id=46377597"
+    ],
+    [
+      "Show HN: Vibium – Browser automation for AI and humans, by Selenium's creator",
+      "https://github.com/VibiumDev/vibium"
     ]
   ],
   [
@@ -111,22 +121,22 @@
   ],
   [
     [
+      "2025-12-24, 03:34:31",
+      "https://news.ycombinator.com/item?id=46372153"
+    ],
+    [
+      "Don't Become the Machine",
+      "https://armeet.bearblog.dev/becoming-the-machine/"
+    ]
+  ],
+  [
+    [
       "2025-12-24, 02:18:38",
       "https://news.ycombinator.com/item?id=46371743"
     ],
     [
       "Show HN: Turn raw HTML into production-ready images for free",
       "https://html2png.dev"
-    ]
-  ],
-  [
-    [
-      "2025-12-24, 01:21:58",
-      "https://news.ycombinator.com/item?id=46371429"
-    ],
-    [
-      "Open source USB to GPIB converter (for Test and Measurement instruments)",
-      "https://github.com/xyphro/UsbGpib"
     ]
   ],
   [
@@ -227,16 +237,6 @@
     [
       "I rebuilt FlashAttention in Triton to understand the performance archaeology",
       "https://aminediro.com/posts/flash_attn/"
-    ]
-  ],
-  [
-    [
-      "2025-12-20, 13:16:21",
-      "https://news.ycombinator.com/item?id=46335961"
-    ],
-    [
-      "Proving Bounds for the Randomized MaxCut Approximation Algorithm in Lean4",
-      "https://abhamra.com/blog/randomized-maxcut/"
     ]
   ],
   [
