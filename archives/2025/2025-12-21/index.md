@@ -46,6 +46,7 @@
 * [2025-12-21, 12:15:59](https://news.ycombinator.com/item?id=46344270) - [Show HN: The Official National Train Map Sucked, So I Made My Own](https://www.bdzmap.com/)
 * [2025-12-21, 11:21:01](https://news.ycombinator.com/item?id=46344022) - [New mathematical framework reshapes debate over simulation hypothesis](https://www.santafe.edu/news-center/news/new-mathematical-framework-reshapes-debate-over-simulation-hypothesis)
 * [2025-12-21, 11:09:27](https://news.ycombinator.com/item?id=46343976) - [ISBN Visualization Showing 99_959_000 books](https://annas-archive.li/isbn-visualization/)
+* [2025-12-21, 10:49:52](https://news.ycombinator.com/item?id=46343894) - [I rebuilt FlashAttention in Triton to understand the performance archaeology](https://aminediro.com/posts/flash_attn/)
 * [2025-12-21, 07:26:39](https://news.ycombinator.com/item?id=46342950) - [Inca Stone Masonry](https://www.earthasweknowit.com/pages/inca_construction)
 * [2025-12-21, 07:16:19](https://news.ycombinator.com/item?id=46342902) - [Clair Obscur has 'Game of the Year\" title stripped away over AI use](https://www.thegamer.com/clair-obscur-expedition-33-indie-game-awards-goty-stripped-ai-use/)
 * [2025-12-21, 07:06:48](https://news.ycombinator.com/item?id=46342859) - [Ruby's Website Got an Overhaul](https://www.ruby-lang.org/en/)
