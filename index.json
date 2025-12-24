@@ -91,16 +91,6 @@
   ],
   [
     [
-      "2025-12-24, 17:00:28",
-      "https://news.ycombinator.com/item?id=46377214"
-    ],
-    [
-      "Spice: A 40-year old open-source success story (2011)",
-      "https://www.edn.com/spice-a-40-year-old-open-source-success-story/"
-    ]
-  ],
-  [
-    [
       "2025-12-24, 15:59:23",
       "https://news.ycombinator.com/item?id=46376652"
     ],
@@ -161,12 +151,12 @@
   ],
   [
     [
-      "2025-12-24, 09:50:52",
-      "https://news.ycombinator.com/item?id=46374117"
+      "2025-12-24, 09:30:58",
+      "https://news.ycombinator.com/item?id=46374018"
     ],
     [
-      "Permission Systems for Enterprise That Scale",
-      "https://eliocapella.com/blog/permission-systems-for-enterprise/"
+      "Google's year in review: areas with research breakthroughs in 2025",
+      "https://blog.google/technology/ai/2025-research-breakthroughs/"
     ]
   ],
   [
@@ -181,12 +171,12 @@
   ],
   [
     [
-      "2025-12-24, 01:20:39",
-      "https://news.ycombinator.com/item?id=46371423"
+      "2025-12-24, 02:16:01",
+      "https://news.ycombinator.com/item?id=46371730"
     ],
     [
-      "Nabokov's guide to foreigners learning Russian",
-      "https://twitter.com/haravayin_hogh/status/2003299405907247502"
+      "Lessons from the PG&E outage",
+      "https://waymo.com/blog/2025/12/autonomously-navigating-the-real-world"
     ]
   ],
   [
@@ -257,6 +247,16 @@
     [
       "Qntm's Power Tower Toy",
       "https://qntm.org/files/knuth/knuth.html"
+    ]
+  ],
+  [
+    [
+      "2025-12-19, 15:45:08",
+      "https://news.ycombinator.com/item?id=46327060"
+    ],
+    [
+      "map::operator[] should be nodiscard",
+      "https://quuxplusone.github.io/blog/2025/12/18/nodiscard-operator-bracket/"
     ]
   ],
   [
