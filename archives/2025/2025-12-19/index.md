@@ -50,6 +50,7 @@
 * [2025-12-19, 14:31:57](https://news.ycombinator.com/item?id=46326261) - [Ask HN: How are most people converting HEIC to jpg?](https://news.ycombinator.com/item?id=46326261)
 * [2025-12-19, 14:19:59](https://news.ycombinator.com/item?id=46326120) - [XZ Utils Backdoor](https://en.wikipedia.org/wiki/XZ_Utils_backdoor)
 * [2025-12-19, 14:13:07](https://news.ycombinator.com/item?id=46326050) - [A proposed amendment to ban under 16s in the UK from common online services](https://decoded.legal/blog/2025/12/a-proposed-legislative-amendment-to-attempt-to-ban-under-16s-in-the-uk-from-common-messaging-services-sharing-family-photos-using-wikipedia-and-doing-much-else-online-by-imposing-age-assurance-on-everyone/)
+* [2025-12-19, 13:18:42](https://news.ycombinator.com/item?id=46325486) - [AI Can Write Your Code. It Can't Do Your Job](https://terriblesoftware.org/2025/12/11/ai-can-write-your-code-it-cant-do-your-job/)
 * [2025-12-19, 13:16:57](https://news.ycombinator.com/item?id=46325475) - [Webb observes exoplanet that may have an exotic helium and carbon atmosphere](https://science.nasa.gov/missions/webb/nasas-webb-observes-exoplanet-whose-composition-defies-explanation/)
 * [2025-12-19, 13:03:11](https://news.ycombinator.com/item?id=46325360) - [Engineers who dismiss AI](https://terriblesoftware.org/2025/12/19/the-strange-case-of-engineers-who-dismiss-ai/)
 * [2025-12-19, 11:38:54](https://news.ycombinator.com/item?id=46324702) - [8-bit Boléro](https://linusakesson.net/music/bolero/index.php)
