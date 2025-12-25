@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-12-25, 18:40:14](https://news.ycombinator.com/item?id=46386211) - [39c3 Fahrplan (Schedule)](https://fahrplan.events.ccc.de/congress/2025/fahrplan/)
 * [2025-12-25, 18:06:44](https://news.ycombinator.com/item?id=46386009) - [All I Want for Xmas Is Your Secrets: LangGrinch Hits LangChain (CVE-2025-68664)](https://cyata.ai/blog/langgrinch-langchain-core-cve-2025-68664/)
 * [2025-12-25, 17:01:29](https://news.ycombinator.com/item?id=46385600) - [Clearspace (YC W23) Is Hiring a Founding Network Engineer (VPN and Proxy)](https://www.ycombinator.com/companies/clearspace/jobs/5LtM86I-founding-network-engineer-at-clearspace)
 * [2025-12-25, 16:37:13](https://news.ycombinator.com/item?id=46385406) - [Ask HN: What is the international distribution/statistics of HN visitors?](https://news.ycombinator.com/item?id=46385406)
@@ -21,13 +22,12 @@
 * [2025-12-24, 18:17:47](https://news.ycombinator.com/item?id=46377862) - [Fabrice Bellard: Biography (2009) [pdf]](https://www.ipaidia.gr/wp-content/uploads/2020/12/117-2020-fabrice-bellard.pdf)
 * [2025-12-24, 17:49:02](https://news.ycombinator.com/item?id=46377597) - [Show HN: Vibium – Browser automation for AI and humans, by Selenium's creator](https://github.com/VibiumDev/vibium)
 * [2025-12-23, 17:33:42](https://news.ycombinator.com/item?id=46367224) - [Fabrice Bellard Releases MicroQuickJS](https://github.com/bellard/mquickjs/blob/main/README.md)
+* [2025-12-22, 18:52:50](https://news.ycombinator.com/item?id=46357362) - [Archiving Git Branches as Tags](https://etc.octavore.com/2025/12/archiving-git-branches-as-tags/)
 * [2025-12-22, 09:34:28](https://news.ycombinator.com/item?id=46352588) - [The Inner-Platform Effect (2006)](https://thedailywtf.com/articles/The_Inner-Platform_Effect)
 * [2025-12-22, 05:38:33](https://news.ycombinator.com/item?id=46351666) - [CSRF protection without tokens or hidden form fields](https://blog.miguelgrinberg.com/post/csrf-protection-without-tokens-or-hidden-form-fields)
-* [2025-12-21, 21:59:21](https://news.ycombinator.com/item?id=46348971) - [Handheld PC Community Forums](https://www.hpcfactor.com/forums/category-view.asp)
 * [2025-12-20, 14:49:39](https://news.ycombinator.com/item?id=46336577) - [The entire New Yorker Archive Is Now Fully Digitized](https://www.newyorker.com/news/press-room/the-entire-new-yorker-archive-is-now-fully-digitized)
 * [2025-12-19, 20:49:54](https://news.ycombinator.com/item?id=46330732) - [CUDA Tile Open Sourced](https://github.com/NVIDIA/cuda-tile)
 * [2025-12-19, 15:55:30](https://news.ycombinator.com/item?id=46327191) - [Show HN: Exploring Mathematics with Python](https://coe.psu.ac.th/ad/explore/)
-* [2025-12-19, 06:24:52](https://news.ycombinator.com/item?id=46322815) - [Research team digitizes more than 100 years of Canadian infectious disease data](https://news.mcmaster.ca/mcmaster-research-team-digitizes-more-than-100-years-of-canadian-infectious-disease-data/)
 * [2025-12-18, 21:58:50](https://news.ycombinator.com/item?id=46319382) - [The First Photographs of Snowflakes Discover the Groundbreaking Microphotography](https://www.openculture.com/2017/12/the-first-photographs-of-snowflakes.html)
 * [2025-12-18, 17:14:50](https://news.ycombinator.com/item?id=46315583) - [Toys with the highest play-time and lowest clean-up-time](https://joannabregan.substack.com/p/toys-with-the-highest-play-time-and)
 

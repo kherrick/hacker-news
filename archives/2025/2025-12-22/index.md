@@ -24,6 +24,7 @@
 * [2025-12-22, 19:06:16](https://news.ycombinator.com/item?id=46357535) - [State regulators vote to keep utility profits high angering customers across CA](https://www.latimes.com/environment/story/2025-12-18/state-regulators-vote-to-keep-utility-profits-high-angering-customers)
 * [2025-12-22, 18:59:22](https://news.ycombinator.com/item?id=46357458) - [Universal Reasoning Model (53.8% pass 1 ARC1 and 16.0% ARC 2)](https://arxiv.org/abs/2512.14693)
 * [2025-12-22, 18:58:45](https://news.ycombinator.com/item?id=46357451) - [Things I learnt about passkeys when building passkeybot](https://enzom.dev/b/passkeys/)
+* [2025-12-22, 18:52:50](https://news.ycombinator.com/item?id=46357362) - [Archiving Git Branches as Tags](https://etc.octavore.com/2025/12/archiving-git-branches-as-tags/)
 * [2025-12-22, 18:46:32](https://news.ycombinator.com/item?id=46357287) - [GLM-4.7: Advancing the Coding Capability](https://z.ai/blog/glm-4.7)
 * [2025-12-22, 18:41:40](https://news.ycombinator.com/item?id=46357227) - [People Have Died in Crashes Where Tesla Doors Wouldn't Open](https://www.bloomberg.com/news/features/2025-12-22/tesla-door-safety-tied-to-at-least-15-auto-accident-deaths)
 * [2025-12-22, 18:39:30](https://news.ycombinator.com/item?id=46357194) - [I know you didn't write this](https://ammil.industries/i-know-you-didnt-write-this/)
