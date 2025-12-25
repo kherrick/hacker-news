@@ -21,7 +21,7 @@
 * [2025-12-23, 17:33:42](https://news.ycombinator.com/item?id=46367224) - [Fabrice Bellard Releases MicroQuickJS](https://github.com/bellard/mquickjs/blob/main/README.md)
 * [2025-12-22, 09:34:28](https://news.ycombinator.com/item?id=46352588) - [The Inner-Platform Effect (2006)](https://thedailywtf.com/articles/The_Inner-Platform_Effect)
 * [2025-12-22, 05:38:33](https://news.ycombinator.com/item?id=46351666) - [CSRF protection without tokens or hidden form fields](https://blog.miguelgrinberg.com/post/csrf-protection-without-tokens-or-hidden-form-fields)
-* [2025-12-21, 21:59:21](https://news.ycombinator.com/item?id=46348971) - [Handheld PC Community Forums](https://www.hpcfactor.com/forums/category-view.asp)
+* [2025-12-21, 16:36:25](https://news.ycombinator.com/item?id=46346026) - [Using Vectorize to build an unreasonably good search engine in 160 lines of code](https://blog.partykit.io/posts/using-vectorize-to-build-search/)
 * [2025-12-20, 14:49:39](https://news.ycombinator.com/item?id=46336577) - [The entire New Yorker Archive Is Now Fully Digitized](https://www.newyorker.com/news/press-room/the-entire-new-yorker-archive-is-now-fully-digitized)
 * [2025-12-20, 14:17:13](https://news.ycombinator.com/item?id=46336364) - [The Fisher-Yates shuffle is backward](https://possiblywrong.wordpress.com/2020/12/10/the-fisher-yates-shuffle-is-backward/)
 * [2025-12-19, 15:55:30](https://news.ycombinator.com/item?id=46327191) - [Show HN: Exploring Mathematics with Python](https://coe.psu.ac.th/ad/explore/)
