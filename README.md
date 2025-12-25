@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-12-25, 15:22:36](https://news.ycombinator.com/item?id=46384919) - [Alzheimer's can be reversed to achieve full neurological recovery in animals](https://case.edu/news/new-study-shows-alzheimers-disease-can-be-reversed-achieve-full-neurological-recovery-not-just-prevented-or-slowed-animal-models)
 * [2025-12-25, 13:02:46](https://news.ycombinator.com/item?id=46384167) - [Python 3.15’s interpreter for Windows x86-64 should hopefully be 15% faster](https://fidget-spinner.github.io/posts/no-longer-sorry.html)
 * [2025-12-25, 11:03:59](https://news.ycombinator.com/item?id=46383675) - [Mattermost restricted access to old messages after 10000 limit is reached](https://github.com/mattermost/mattermost/issues/34271)
 * [2025-12-25, 10:35:34](https://news.ycombinator.com/item?id=46383552) - [We invited a man into our home at Christmas and he stayed with us for 45 years](https://www.bbc.co.uk/news/articles/cdxwllqz1l0o)
@@ -26,7 +27,6 @@
 * [2025-12-19, 15:55:30](https://news.ycombinator.com/item?id=46327191) - [Show HN: Exploring Mathematics with Python](https://coe.psu.ac.th/ad/explore/)
 * [2025-12-19, 06:24:52](https://news.ycombinator.com/item?id=46322815) - [Research team digitizes more than 100 years of Canadian infectious disease data](https://news.mcmaster.ca/mcmaster-research-team-digitizes-more-than-100-years-of-canadian-infectious-disease-data/)
 * [2025-12-18, 21:58:50](https://news.ycombinator.com/item?id=46319382) - [The First Photographs of Snowflakes Discover the Groundbreaking Microphotography](https://www.openculture.com/2017/12/the-first-photographs-of-snowflakes.html)
-* [2025-12-18, 20:17:37](https://news.ycombinator.com/item?id=46318080) - [The port I couldn't ship](https://ammil.industries/the-port-i-couldnt-ship/)
 * [2025-12-18, 17:20:23](https://news.ycombinator.com/item?id=46315658) - [Ask HN: How do I bridge the gap between PhD and SWE experiences?](https://news.ycombinator.com/item?id=46315658)
 * [2025-12-18, 17:14:50](https://news.ycombinator.com/item?id=46315583) - [Toys with the highest play-time and lowest clean-up-time](https://joannabregan.substack.com/p/toys-with-the-highest-play-time-and)
 * [2025-12-18, 16:11:50](https://news.ycombinator.com/item?id=46314540) - [JEDEC developing reduced pin count HBM4 standard to enable higher capacity](https://blocksandfiles.com/2025/12/17/jedec-sphbm4/)
