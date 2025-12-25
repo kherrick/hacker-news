@@ -1,12 +1,32 @@
 [
   [
     [
+      "2025-12-25, 00:10:12",
+      "https://news.ycombinator.com/item?id=46380758"
+    ],
+    [
+      "Who Watches the Waymos? I do [video]",
+      "https://www.youtube.com/watch?v=oYU2hAbx_Fc"
+    ]
+  ],
+  [
+    [
       "2025-12-24, 23:33:15",
       "https://news.ycombinator.com/item?id=46380475"
     ],
     [
       "Microsoft please get your tab to autocomplete shit together",
       "https://ivanca.github.io/programming/2025/11/26/microsoft-pls-get-your-tab-to-autocomplete-shit-together/"
+    ]
+  ],
+  [
+    [
+      "2025-12-24, 23:25:37",
+      "https://news.ycombinator.com/item?id=46380399"
+    ],
+    [
+      "Asterisk AI Voice Agent",
+      "https://github.com/hkjarral/Asterisk-AI-Voice-Agent"
     ]
   ],
   [
@@ -35,7 +55,7 @@
       "https://news.ycombinator.com/item?id=46379677"
     ],
     [
-      "I Left YouTube",
+      "How I Left YouTube",
       "https://zhach.news/how-i-left-youtube/"
     ]
   ],
@@ -67,16 +87,6 @@
     [
       "Spaced repetition for efficient learning (2019)",
       "https://gwern.net/spaced-repetition"
-    ]
-  ],
-  [
-    [
-      "2025-12-24, 20:04:52",
-      "https://news.ycombinator.com/item?id=46378747"
-    ],
-    [
-      "Beijing is enforcing tough rules to ensure chatbots don’t misbehave",
-      "https://www.wsj.com/tech/ai/china-is-worried-ai-threatens-party-ruleand-is-trying-to-tame-it-bfdcda2d"
     ]
   ],
   [
@@ -171,16 +181,6 @@
   ],
   [
     [
-      "2025-12-23, 19:59:19",
-      "https://news.ycombinator.com/item?id=46368827"
-    ],
-    [
-      "Pantograph: Building a preschool for robots",
-      "https://pantograph.com/blog/building-a-preschool-for-robots.html"
-    ]
-  ],
-  [
-    [
       "2025-12-23, 17:33:42",
       "https://news.ycombinator.com/item?id=46367224"
     ],
@@ -207,26 +207,6 @@
     [
       "CSRF protection without tokens or hidden form fields",
       "https://blog.miguelgrinberg.com/post/csrf-protection-without-tokens-or-hidden-form-fields"
-    ]
-  ],
-  [
-    [
-      "2025-12-22, 04:04:04",
-      "https://news.ycombinator.com/item?id=46351196"
-    ],
-    [
-      "Your inbox is a bandit problem",
-      "https://parentheticallyspeaking.org/articles/bandit-inbox/"
-    ]
-  ],
-  [
-    [
-      "2025-12-21, 20:40:00",
-      "https://news.ycombinator.com/item?id=46348207"
-    ],
-    [
-      "Why did we use leaded petrol for so long? (2017)",
-      "https://www.bbc.com/news/business-40593353"
     ]
   ],
   [
@@ -281,12 +261,32 @@
   ],
   [
     [
+      "2025-12-19, 15:55:30",
+      "https://news.ycombinator.com/item?id=46327191"
+    ],
+    [
+      "Online Book: Exploring Mathematics with Python",
+      "https://coe.psu.ac.th/ad/explore/"
+    ]
+  ],
+  [
+    [
       "2025-12-19, 06:24:52",
       "https://news.ycombinator.com/item?id=46322815"
     ],
     [
       "Research team digitizes more than 100 years of Canadian infectious disease data",
       "https://news.mcmaster.ca/mcmaster-research-team-digitizes-more-than-100-years-of-canadian-infectious-disease-data/"
+    ]
+  ],
+  [
+    [
+      "2025-12-18, 20:17:37",
+      "https://news.ycombinator.com/item?id=46318080"
+    ],
+    [
+      "The port I couldn't ship",
+      "https://ammil.industries/the-port-i-couldnt-ship/"
     ]
   ],
   [
