@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-12-25](index.md)
 
+* [2025-12-25, 10:35:34](https://news.ycombinator.com/item?id=46383552) - [We invited a man into our home at Christmas and he stayed with us for 45 years](https://www.bbc.co.uk/news/articles/cdxwllqz1l0o)
+* [2025-12-25, 09:41:27](https://news.ycombinator.com/item?id=46383344) - [Why 'The Global Market' Is an Irresponsible Phrase](https://oswarld.com/eng/insight/251117_Why-the-global-market-Is-an-Irresponsible-Phrase)
 * [2025-12-25, 08:58:23](https://news.ycombinator.com/item?id=46383139) - [Self-referencing Page Tables for the x86-Architecture](https://0l.de/blog/2015/01/bachelor-thesis-abstract/)
 * [2025-12-25, 04:47:38](https://news.ycombinator.com/item?id=46382134) - [Free Software Foundation receives historic private donations](https://www.fsf.org/news/free-software-foundation-receives-historic-private-donations)
 * [2025-12-25, 04:13:00](https://news.ycombinator.com/item?id=46382011) - [Ruby 4.0.0 Released](https://www.ruby-lang.org/en/news/2025/12/25/ruby-4-0-0-released/)
