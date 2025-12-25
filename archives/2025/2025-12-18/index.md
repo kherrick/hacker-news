@@ -36,6 +36,7 @@
 * [2025-12-18, 18:14:48](https://news.ycombinator.com/item?id=46316367) - [GPT-5.2-Codex](https://openai.com/index/introducing-gpt-5-2-codex/)
 * [2025-12-18, 18:09:51](https://news.ycombinator.com/item?id=46316295) - [Scaling Go Testing with Contract and Scenario Mocks](https://funnelstory.ai/blog/engineering/scaling-go-testing-with-contract-and-scenario-mocks)
 * [2025-12-18, 17:49:10](https://news.ycombinator.com/item?id=46316050) - [Deliberate Internet Shutdowns](https://www.schneier.com/blog/archives/2025/12/deliberate-internet-shutdowns.html)
+* [2025-12-18, 17:20:23](https://news.ycombinator.com/item?id=46315658) - [Ask HN: How do I bridge the gap between PhD and SWE experiences?](https://news.ycombinator.com/item?id=46315658)
 * [2025-12-18, 17:14:44](https://news.ycombinator.com/item?id=46315581) - [There's no such thing as a fake feather [video]](https://www.youtube.com/watch?v=N5yV1Q9O6r4)
 * [2025-12-18, 17:14:37](https://news.ycombinator.com/item?id=46315579) - [Remove Black Color with Shaders](https://yuanchuan.dev/remove-black-color-with-shaders)
 * [2025-12-18, 17:12:46](https://news.ycombinator.com/item?id=46315547) - [Military Standard on Software Control Levels](https://entropicthoughts.com/mil-std-882e-software-control)
