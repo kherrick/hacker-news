@@ -21,16 +21,6 @@
   ],
   [
     [
-      "2025-12-25, 16:28:43",
-      "https://news.ycombinator.com/item?id=46385335"
-    ],
-    [
-      "Why FedRAMP Authorization and CMMC Level 2 Are Now Table Stakes for GovCon AI",
-      "https://blog.procurementsciences.com/psci_blogs/why-fedramp-authorization-and-cmmc-level-2-are-now-table-stakes-for-govcon-ai"
-    ]
-  ],
-  [
-    [
       "2025-12-25, 16:24:45",
       "https://news.ycombinator.com/item?id=46385308"
     ],
@@ -121,16 +111,6 @@
   ],
   [
     [
-      "2025-12-25, 02:47:48",
-      "https://news.ycombinator.com/item?id=46381620"
-    ],
-    [
-      "Project Dropstone: A Neuro-Symbolic Runtime for Long-Horizon Engineering [pdf]",
-      "https://archive.blankline.org/api/media/file/d3_engine_public_release%20(1)-1.pdf"
-    ]
-  ],
-  [
-    [
       "2025-12-25, 00:10:12",
       "https://news.ycombinator.com/item?id=46380758"
     ],
@@ -211,12 +191,32 @@
   ],
   [
     [
+      "2025-12-22, 09:34:28",
+      "https://news.ycombinator.com/item?id=46352588"
+    ],
+    [
+      "The Inner-Platform Effect (2006)",
+      "https://thedailywtf.com/articles/The_Inner-Platform_Effect"
+    ]
+  ],
+  [
+    [
       "2025-12-22, 05:38:33",
       "https://news.ycombinator.com/item?id=46351666"
     ],
     [
       "CSRF protection without tokens or hidden form fields",
       "https://blog.miguelgrinberg.com/post/csrf-protection-without-tokens-or-hidden-form-fields"
+    ]
+  ],
+  [
+    [
+      "2025-12-21, 16:36:25",
+      "https://news.ycombinator.com/item?id=46346026"
+    ],
+    [
+      "Using Vectorize to build an unreasonably good search engine in 160 lines of code",
+      "https://blog.partykit.io/posts/using-vectorize-to-build-search/"
     ]
   ],
   [
