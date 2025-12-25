@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-12-25, 11:03:59",
+      "https://news.ycombinator.com/item?id=46383675"
+    ],
+    [
+      "Mattermost restricted access to old messages after 10000 limit is reached",
+      "https://github.com/mattermost/mattermost/issues/34271"
+    ]
+  ],
+  [
+    [
       "2025-12-25, 10:35:34",
       "https://news.ycombinator.com/item?id=46383552"
     ],
@@ -237,16 +247,6 @@
     [
       "Show HN: Exploring Mathematics with Python",
       "https://coe.psu.ac.th/ad/explore/"
-    ]
-  ],
-  [
-    [
-      "2025-12-19, 07:30:36",
-      "https://news.ycombinator.com/item?id=46323177"
-    ],
-    [
-      "Why Community Translation Falls Short for Your Plugins and Themes",
-      "https://wpml.org/announcements/2025/12/why-community-translation-falls-short-for-your-plugins-and-themes/"
     ]
   ],
   [
