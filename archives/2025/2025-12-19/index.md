@@ -13,6 +13,7 @@
 * [2025-12-19, 21:50:52](https://news.ycombinator.com/item?id=46331364) - [Show HN: Netrinos – A keep it simple Mesh VPN for small teams](https://netrinos.com)
 * [2025-12-19, 21:42:55](https://news.ycombinator.com/item?id=46331292) - [Kernighan's Lever](https://linusakesson.net/programming/kernighans-lever/index.php)
 * [2025-12-19, 21:34:10](https://news.ycombinator.com/item?id=46331216) - [A Better Zip Bomb](https://www.bamsoftware.com/hacks/zipbomb/)
+* [2025-12-19, 20:49:54](https://news.ycombinator.com/item?id=46330732) - [CUDA Tile Open Sourced](https://github.com/NVIDIA/cuda-tile)
 * [2025-12-19, 20:49:20](https://news.ycombinator.com/item?id=46330726) - [LLM Year in Review](https://karpathy.bearblog.dev/year-in-review-2025/)
 * [2025-12-19, 20:29:53](https://news.ycombinator.com/item?id=46330522) - [The scariest boot loader code](http://miod.online.fr/software/openbsd/stories/boot_hppa.html)
 * [2025-12-19, 20:16:27](https://news.ycombinator.com/item?id=46330369) - [The Coffee Warehouse](https://www.scopeofwork.net/the-coffee-warehouse/)

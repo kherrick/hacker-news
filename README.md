@@ -24,10 +24,10 @@
 * [2025-12-21, 16:36:25](https://news.ycombinator.com/item?id=46346026) - [Using Vectorize to build an unreasonably good search engine in 160 lines of code](https://blog.partykit.io/posts/using-vectorize-to-build-search/)
 * [2025-12-20, 14:49:39](https://news.ycombinator.com/item?id=46336577) - [The entire New Yorker Archive Is Now Fully Digitized](https://www.newyorker.com/news/press-room/the-entire-new-yorker-archive-is-now-fully-digitized)
 * [2025-12-20, 14:17:13](https://news.ycombinator.com/item?id=46336364) - [The Fisher-Yates shuffle is backward](https://possiblywrong.wordpress.com/2020/12/10/the-fisher-yates-shuffle-is-backward/)
+* [2025-12-19, 20:49:54](https://news.ycombinator.com/item?id=46330732) - [CUDA Tile Open Sourced](https://github.com/NVIDIA/cuda-tile)
 * [2025-12-19, 15:55:30](https://news.ycombinator.com/item?id=46327191) - [Show HN: Exploring Mathematics with Python](https://coe.psu.ac.th/ad/explore/)
 * [2025-12-19, 06:24:52](https://news.ycombinator.com/item?id=46322815) - [Research team digitizes more than 100 years of Canadian infectious disease data](https://news.mcmaster.ca/mcmaster-research-team-digitizes-more-than-100-years-of-canadian-infectious-disease-data/)
 * [2025-12-18, 21:58:50](https://news.ycombinator.com/item?id=46319382) - [The First Photographs of Snowflakes Discover the Groundbreaking Microphotography](https://www.openculture.com/2017/12/the-first-photographs-of-snowflakes.html)
-* [2025-12-18, 17:20:23](https://news.ycombinator.com/item?id=46315658) - [Ask HN: How do I bridge the gap between PhD and SWE experiences?](https://news.ycombinator.com/item?id=46315658)
 * [2025-12-18, 17:14:50](https://news.ycombinator.com/item?id=46315583) - [Toys with the highest play-time and lowest clean-up-time](https://joannabregan.substack.com/p/toys-with-the-highest-play-time-and)
 * [2025-12-18, 16:11:50](https://news.ycombinator.com/item?id=46314540) - [JEDEC developing reduced pin count HBM4 standard to enable higher capacity](https://blocksandfiles.com/2025/12/17/jedec-sphbm4/)
 
