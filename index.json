@@ -1,12 +1,42 @@
 [
   [
     [
+      "2025-12-25, 21:36:48",
+      "https://news.ycombinator.com/item?id=46387192"
+    ],
+    [
+      "Google is 'gradually rolling out' option to change your gmail.com address",
+      "https://9to5google.com/2025/12/24/google-change-gmail-addresses/"
+    ]
+  ],
+  [
+    [
       "2025-12-25, 20:27:45",
       "https://news.ycombinator.com/item?id=46386835"
     ],
     [
       "URL Pattern API",
       "https://developer.mozilla.org/en-US/docs/Web/API/URL_Pattern_API"
+    ]
+  ],
+  [
+    [
+      "2025-12-25, 20:14:36",
+      "https://news.ycombinator.com/item?id=46386761"
+    ],
+    [
+      "UBlockOrigin and UBlacklist AI Blocklist",
+      "https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist"
+    ]
+  ],
+  [
+    [
+      "2025-12-25, 18:40:14",
+      "https://news.ycombinator.com/item?id=46386211"
+    ],
+    [
+      "Fahrplan – 39C3",
+      "https://fahrplan.events.ccc.de/congress/2025/fahrplan/"
     ]
   ],
   [
@@ -77,26 +107,6 @@
     [
       "We invited a man into our home at Christmas and he stayed with us for 45 years",
       "https://www.bbc.co.uk/news/articles/cdxwllqz1l0o"
-    ]
-  ],
-  [
-    [
-      "2025-12-25, 09:18:15",
-      "https://news.ycombinator.com/item?id=46383233"
-    ],
-    [
-      "Quantum Error Correction Goes FOOM",
-      "https://algassert.com/post/2503"
-    ]
-  ],
-  [
-    [
-      "2025-12-25, 08:58:23",
-      "https://news.ycombinator.com/item?id=46383139"
-    ],
-    [
-      "Self-referencing Page Tables for the x86-Architecture",
-      "https://0l.de/blog/2015/01/bachelor-thesis-abstract/"
     ]
   ],
   [
@@ -191,6 +201,16 @@
   ],
   [
     [
+      "2025-12-22, 19:52:10",
+      "https://news.ycombinator.com/item?id=46358166"
+    ],
+    [
+      "The Program 2025 annual review: How much money does an audio drama podcast make?",
+      "https://programaudioseries.com/the-program-results-7/"
+    ]
+  ],
+  [
+    [
       "2025-12-22, 18:52:50",
       "https://news.ycombinator.com/item?id=46357362"
     ],
@@ -207,16 +227,6 @@
     [
       "The Inner-Platform Effect (2006)",
       "https://thedailywtf.com/articles/The_Inner-Platform_Effect"
-    ]
-  ],
-  [
-    [
-      "2025-12-22, 05:38:33",
-      "https://news.ycombinator.com/item?id=46351666"
-    ],
-    [
-      "CSRF protection without tokens or hidden form fields",
-      "https://blog.miguelgrinberg.com/post/csrf-protection-without-tokens-or-hidden-form-fields"
     ]
   ],
   [
@@ -277,16 +287,6 @@
     [
       "Show HN: Spice Cayenne – SQL acceleration built on Vortex",
       "https://spice.ai/blog/introducing-spice-cayenne-data-accelerator"
-    ]
-  ],
-  [
-    [
-      "2025-12-18, 17:20:23",
-      "https://news.ycombinator.com/item?id=46315658"
-    ],
-    [
-      "Ask HN: How do I bridge the gap between PhD and SWE experiences?",
-      "https://news.ycombinator.com/item?id=46315658"
     ]
   ],
   [
