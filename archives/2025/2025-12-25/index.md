@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-12-25](index.md)
 
+* [2025-12-25, 04:13:00](https://news.ycombinator.com/item?id=46382011) - [Ruby 4.0.0 Released](https://www.ruby-lang.org/en/news/2025/12/25/ruby-4-0-0-released/)
 * [2025-12-25, 03:33:52](https://news.ycombinator.com/item?id=46381839) - [Python Applied Mathematics Labs](https://labs.acme.byu.edu/Pages/intro.html)
 * [2025-12-25, 03:26:58](https://news.ycombinator.com/item?id=46381813) - [Microsoft denies rewriting Windows 11 in Rust using AI](https://www.windowslatest.com/2025/12/24/microsoft-denies-rewriting-windows-11-using-ai-after-an-employees-one-engineer-one-month-one-million-code-post-on-linkedin-causes-outrage/)
 * [2025-12-25, 02:59:24](https://news.ycombinator.com/item?id=46381681) - [The most damaging taboo about sexual violence](https://write.as/3k6gb4heu8whz)
