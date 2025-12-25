@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-12-25, 20:27:45",
+      "https://news.ycombinator.com/item?id=46386835"
+    ],
+    [
+      "URL Pattern API",
+      "https://developer.mozilla.org/en-US/docs/Web/API/URL_Pattern_API"
+    ]
+  ],
+  [
+    [
       "2025-12-25, 18:06:44",
       "https://news.ycombinator.com/item?id=46386009"
     ],
@@ -217,16 +227,6 @@
     [
       "CSRF protection without tokens or hidden form fields",
       "https://blog.miguelgrinberg.com/post/csrf-protection-without-tokens-or-hidden-form-fields"
-    ]
-  ],
-  [
-    [
-      "2025-12-21, 21:59:21",
-      "https://news.ycombinator.com/item?id=46348971"
-    ],
-    [
-      "Handheld PC Community Forums",
-      "https://www.hpcfactor.com/forums/category-view.asp"
     ]
   ],
   [
