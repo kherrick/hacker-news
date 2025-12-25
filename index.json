@@ -5,7 +5,7 @@
       "https://news.ycombinator.com/item?id=46384167"
     ],
     [
-      "Python 3.15's interpreter for Windows should be 15% faster",
+      "Python 3.15’s interpreter for Windows x86-64 should hopefully be 15% faster",
       "https://fidget-spinner.github.io/posts/no-longer-sorry.html"
     ]
   ],
@@ -47,16 +47,6 @@
     [
       "Self-referencing Page Tables for the x86-Architecture",
       "https://0l.de/blog/2015/01/bachelor-thesis-abstract/"
-    ]
-  ],
-  [
-    [
-      "2025-12-25, 04:47:38",
-      "https://news.ycombinator.com/item?id=46382134"
-    ],
-    [
-      "Free Software Foundation receives historic private donations",
-      "https://www.fsf.org/news/free-software-foundation-receives-historic-private-donations"
     ]
   ],
   [
@@ -207,6 +197,16 @@
     [
       "Using Vectorize to build an unreasonably good search engine in 160 lines of code",
       "https://blog.partykit.io/posts/using-vectorize-to-build-search/"
+    ]
+  ],
+  [
+    [
+      "2025-12-21, 11:38:48",
+      "https://news.ycombinator.com/item?id=46344104"
+    ],
+    [
+      "Jingle Bells (Batman Smells): An incomplete festive folk-rhyme taxonomy",
+      "https://loreandordure.com/2025/12/16/jingle-bells/"
     ]
   ],
   [
