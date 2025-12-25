@@ -7,6 +7,7 @@
 * [2025-12-21, 23:42:34](https://news.ycombinator.com/item?id=46349808) - [I wish people were more public](https://borretti.me/article/i-wish-people-were-more-public)
 * [2025-12-21, 22:19:53](https://news.ycombinator.com/item?id=46349171) - [LVM Thin Provisioning (2016)](https://storageapis.wordpress.com/2016/06/24/lvm-thin-provisioning/)
 * [2025-12-21, 22:04:12](https://news.ycombinator.com/item?id=46349028) - [Fabrication Techniques Using Myco-Materials](https://encyclopedia.pub/entry/27602)
+* [2025-12-21, 21:59:21](https://news.ycombinator.com/item?id=46348971) - [Handheld PC Community Forums](https://www.hpcfactor.com/forums/category-view.asp)
 * [2025-12-21, 21:46:20](https://news.ycombinator.com/item?id=46348847) - [Disney Imagineering Debuts Next-Generation Robotic Character, Olaf](https://disneyparksblog.com/disney-experiences/robotic-olaf-marks-new-era-of-disney-innovation/)
 * [2025-12-21, 21:26:09](https://news.ycombinator.com/item?id=46348660) - [Engineering dogmas it's time to retire – by Anton Zaides](https://newsletter.manager.dev/p/5-engineering-dogmas-its-time-to)
 * [2025-12-21, 21:07:01](https://news.ycombinator.com/item?id=46348455) - [The gift card accountability sink](https://www.bitsaboutmoney.com/archive/gift-card-accountability-sink/)
