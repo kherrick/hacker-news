@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-12-25](index.md)
 
 * [2025-12-25, 15:22:36](https://news.ycombinator.com/item?id=46384919) - [Alzheimer's can be reversed to achieve full neurological recovery in animals](https://case.edu/news/new-study-shows-alzheimers-disease-can-be-reversed-achieve-full-neurological-recovery-not-just-prevented-or-slowed-animal-models)
+* [2025-12-25, 14:58:29](https://news.ycombinator.com/item?id=46384781) - [Salesforce regrets firing 4000 experienced staff and replacing them with AI](https://maarthandam.com/2025/12/25/salesforce-regrets-firing-4000-staff-ai/)
 * [2025-12-25, 13:55:07](https://news.ycombinator.com/item?id=46384415) - [Ultra-Low-Latency Trading System](https://submicro.krishnabajpai.me/)
 * [2025-12-25, 13:02:46](https://news.ycombinator.com/item?id=46384167) - [Python 3.15's interpreter for Windows should be 15% faster](https://fidget-spinner.github.io/posts/no-longer-sorry.html)
 * [2025-12-25, 11:03:59](https://news.ycombinator.com/item?id=46383675) - [Mattermost restricted access to old messages after 10000 limit is reached](https://github.com/mattermost/mattermost/issues/34271)
