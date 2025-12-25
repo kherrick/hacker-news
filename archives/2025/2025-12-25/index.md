@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-12-25](index.md)
 
+* [2025-12-25, 23:13:21](https://news.ycombinator.com/item?id=46387657) - [Maybe the Default Settings Are Too High](https://www.raptitude.com/2025/12/maybe-the-default-settings-are-too-high/)
 * [2025-12-25, 21:36:48](https://news.ycombinator.com/item?id=46387192) - [Google is 'gradually rolling out' option to change your gmail.com address](https://9to5google.com/2025/12/24/google-change-gmail-addresses/)
+* [2025-12-25, 21:31:25](https://news.ycombinator.com/item?id=46387164) - [Memory Safety](https://www.memorysafety.org/)
 * [2025-12-25, 20:27:45](https://news.ycombinator.com/item?id=46386835) - [URL Pattern API](https://developer.mozilla.org/en-US/docs/Web/API/URL_Pattern_API)
 * [2025-12-25, 20:14:36](https://news.ycombinator.com/item?id=46386761) - [UBlockOrigin and UBlacklist AI Blocklist](https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist)
 * [2025-12-25, 18:40:14](https://news.ycombinator.com/item?id=46386211) - [39c3 Fahrplan (Schedule)](https://fahrplan.events.ccc.de/congress/2025/fahrplan/)

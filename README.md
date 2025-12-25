@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-12-25, 23:13:21](https://news.ycombinator.com/item?id=46387657) - [Maybe the Default Settings Are Too High](https://www.raptitude.com/2025/12/maybe-the-default-settings-are-too-high/)
 * [2025-12-25, 21:36:48](https://news.ycombinator.com/item?id=46387192) - [Google is 'gradually rolling out' option to change your gmail.com address](https://9to5google.com/2025/12/24/google-change-gmail-addresses/)
+* [2025-12-25, 21:31:25](https://news.ycombinator.com/item?id=46387164) - [Memory Safety](https://www.memorysafety.org/)
 * [2025-12-25, 20:27:45](https://news.ycombinator.com/item?id=46386835) - [URL Pattern API](https://developer.mozilla.org/en-US/docs/Web/API/URL_Pattern_API)
 * [2025-12-25, 20:14:36](https://news.ycombinator.com/item?id=46386761) - [UBlockOrigin and UBlacklist AI Blocklist](https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist)
 * [2025-12-25, 18:40:14](https://news.ycombinator.com/item?id=46386211) - [Fahrplan – 39C3](https://fahrplan.events.ccc.de/congress/2025/fahrplan/)
@@ -17,7 +19,6 @@
 * [2025-12-24, 22:43:53](https://news.ycombinator.com/item?id=46380075) - [Phoenix: A modern X server written from scratch in Zig](https://git.dec05eba.com/phoenix/about/)
 * [2025-12-24, 20:56:53](https://news.ycombinator.com/item?id=46379145) - [Show HN: Lamp Carousel – DIY kinetic sculpture powered by lamp heat (2024)](https://evan.widloski.com/posts/spinners/)
 * [2025-12-24, 19:42:25](https://news.ycombinator.com/item?id=46378554) - [Show HN: Minimalist editor that lives in browser, stores everything in the URL](https://github.com/antonmedv/textarea)
-* [2025-12-24, 18:17:47](https://news.ycombinator.com/item?id=46377862) - [Fabrice Bellard: Biography (2009) [pdf]](https://www.ipaidia.gr/wp-content/uploads/2020/12/117-2020-fabrice-bellard.pdf)
 * [2025-12-23, 17:33:42](https://news.ycombinator.com/item?id=46367224) - [Fabrice Bellard Releases MicroQuickJS](https://github.com/bellard/mquickjs/blob/main/README.md)
 * [2025-12-22, 19:55:31](https://news.ycombinator.com/item?id=46358211) - [Paperbacks and TikTok](https://calnewport.com/on-paperbacks-and-tiktok/)
 * [2025-12-22, 19:52:10](https://news.ycombinator.com/item?id=46358166) - [The Program 2025 annual review: How much money does an audio drama podcast make?](https://programaudioseries.com/the-program-results-7/)
@@ -28,7 +29,6 @@
 * [2025-12-18, 23:25:46](https://news.ycombinator.com/item?id=46320249) - [Geometric Algorithms for Translucency Sorting in Minecraft [pdf]](https://douira.dev/assets/document/douira-master-thesis.pdf)
 * [2025-12-18, 21:58:50](https://news.ycombinator.com/item?id=46319382) - [The First Photographs of Snowflakes Discover the Groundbreaking Microphotography (2017)](https://www.openculture.com/2017/12/the-first-photographs-of-snowflakes.html)
 * [2025-12-18, 19:00:56](https://news.ycombinator.com/item?id=46316991) - [Show HN: Spice Cayenne – SQL acceleration built on Vortex](https://spice.ai/blog/introducing-spice-cayenne-data-accelerator)
-* [2025-12-18, 17:20:23](https://news.ycombinator.com/item?id=46315658) - [Ask HN: How do I bridge the gap between PhD and SWE experiences?](https://news.ycombinator.com/item?id=46315658)
 * [2025-12-18, 17:14:50](https://news.ycombinator.com/item?id=46315583) - [Toys with the highest play-time and lowest clean-up-time](https://joannabregan.substack.com/p/toys-with-the-highest-play-time-and)
 
 ## [Archives](archives/index.md)
