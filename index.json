@@ -91,16 +91,6 @@
   ],
   [
     [
-      "2025-12-24, 21:54:48",
-      "https://news.ycombinator.com/item?id=46379677"
-    ],
-    [
-      "How I Left YouTube",
-      "https://zhach.news/how-i-left-youtube/"
-    ]
-  ],
-  [
-    [
       "2025-12-24, 21:02:15",
       "https://news.ycombinator.com/item?id=46379183"
     ],
@@ -297,6 +287,16 @@
     [
       "A faster path to container images in Bazel",
       "https://www.tweag.io/blog/2025-12-18-rules_img/"
+    ]
+  ],
+  [
+    [
+      "2025-12-18, 16:11:50",
+      "https://news.ycombinator.com/item?id=46314540"
+    ],
+    [
+      "JEDEC developing reduced pin count HBM4 standard to enable higher capacity",
+      "https://blocksandfiles.com/2025/12/17/jedec-sphbm4/"
     ]
   ]
 ]
