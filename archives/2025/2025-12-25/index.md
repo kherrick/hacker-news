@@ -6,6 +6,7 @@
 
 * [2025-12-25, 15:22:36](https://news.ycombinator.com/item?id=46384919) - [Alzheimer's can be reversed to achieve full neurological recovery in animals](https://case.edu/news/new-study-shows-alzheimers-disease-can-be-reversed-achieve-full-neurological-recovery-not-just-prevented-or-slowed-animal-models)
 * [2025-12-25, 14:58:29](https://news.ycombinator.com/item?id=46384781) - [Salesforce regrets firing 4000 experienced staff and replacing them with AI](https://maarthandam.com/2025/12/25/salesforce-regrets-firing-4000-staff-ai/)
+* [2025-12-25, 14:20:29](https://news.ycombinator.com/item?id=46384565) - [Asahi Linux with Sway on the MacBook Air M2](https://daniel.lawrence.lu/blog/2024-12-01-asahi-linux-with-sway-on-the-macbook-air-m2/)
 * [2025-12-25, 13:55:07](https://news.ycombinator.com/item?id=46384415) - [Ultra-Low-Latency Trading System](https://submicro.krishnabajpai.me/)
 * [2025-12-25, 13:46:41](https://news.ycombinator.com/item?id=46384361) - [Show HN: I made you a Christmas present](https://arielche.net/noel2025)
 * [2025-12-25, 13:02:46](https://news.ycombinator.com/item?id=46384167) - [Python 3.15's interpreter for Windows should be 15% faster](https://fidget-spinner.github.io/posts/no-longer-sorry.html)
