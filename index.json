@@ -61,16 +61,6 @@
   ],
   [
     [
-      "2025-12-25, 11:03:59",
-      "https://news.ycombinator.com/item?id=46383675"
-    ],
-    [
-      "Mattermost restricted access to old messages after 10000 limit is reached",
-      "https://github.com/mattermost/mattermost/issues/34271"
-    ]
-  ],
-  [
-    [
       "2025-12-25, 10:35:34",
       "https://news.ycombinator.com/item?id=46383552"
     ],
@@ -227,6 +217,16 @@
     [
       "CSRF protection without tokens or hidden form fields",
       "https://blog.miguelgrinberg.com/post/csrf-protection-without-tokens-or-hidden-form-fields"
+    ]
+  ],
+  [
+    [
+      "2025-12-21, 21:59:21",
+      "https://news.ycombinator.com/item?id=46348971"
+    ],
+    [
+      "Handheld PC Community Forums",
+      "https://www.hpcfactor.com/forums/category-view.asp"
     ]
   ],
   [
