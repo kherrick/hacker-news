@@ -39,6 +39,7 @@
 * [2025-12-19, 16:08:39](https://news.ycombinator.com/item?id=46327337) - [Exploring Speculative JIT Compilation for Emacs Lisp with Java](https://kyo.iroiro.party/en/posts/juicemacs-exploring-jit-for-elisp/)
 * [2025-12-19, 16:07:42](https://news.ycombinator.com/item?id=46327325) - [Cursor Acquires Graphite](https://graphite.com/blog/graphite-joins-cursor)
 * [2025-12-19, 15:57:01](https://news.ycombinator.com/item?id=46327206) - [Graphite Is Joining Cursor](https://cursor.com/blog/graphite)
+* [2025-12-19, 15:55:30](https://news.ycombinator.com/item?id=46327191) - [Online Book: Exploring Mathematics with Python](https://coe.psu.ac.th/ad/explore/)
 * [2025-12-19, 15:51:30](https://news.ycombinator.com/item?id=46327133) - [Believe the Checkbook](https://robertgreiner.com/believe-the-checkbook/)
 * [2025-12-19, 15:50:45](https://news.ycombinator.com/item?id=46327124) - [Using AI Generated Code Will Make You a Bad Programmer](https://unsolicited-opinions.rudism.com/bad-programmer/)
 * [2025-12-19, 15:45:08](https://news.ycombinator.com/item?id=46327060) - [Map: Operator[] Should Be Nodiscard](https://quuxplusone.github.io/blog/2025/12/18/nodiscard-operator-bracket/)
