@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-12-25, 13:02:46](https://news.ycombinator.com/item?id=46384167) - [Python 3.15's interpreter for Windows should be 15% faster](https://fidget-spinner.github.io/posts/no-longer-sorry.html)
 * [2025-12-25, 11:03:59](https://news.ycombinator.com/item?id=46383675) - [Mattermost restricted access to old messages after 10000 limit is reached](https://github.com/mattermost/mattermost/issues/34271)
 * [2025-12-25, 10:35:34](https://news.ycombinator.com/item?id=46383552) - [We invited a man into our home at Christmas and he stayed with us for 45 years](https://www.bbc.co.uk/news/articles/cdxwllqz1l0o)
 * [2025-12-25, 09:18:15](https://news.ycombinator.com/item?id=46383233) - [Quantum Error Correction Goes FOOM](https://algassert.com/post/2503)
@@ -20,7 +21,6 @@
 * [2025-12-22, 05:38:33](https://news.ycombinator.com/item?id=46351666) - [CSRF protection without tokens or hidden form fields](https://blog.miguelgrinberg.com/post/csrf-protection-without-tokens-or-hidden-form-fields)
 * [2025-12-21, 21:59:21](https://news.ycombinator.com/item?id=46348971) - [Handheld PC Community Forums](https://www.hpcfactor.com/forums/category-view.asp)
 * [2025-12-21, 16:36:25](https://news.ycombinator.com/item?id=46346026) - [Using Vectorize to build an unreasonably good search engine in 160 lines of code](https://blog.partykit.io/posts/using-vectorize-to-build-search/)
-* [2025-12-21, 11:38:48](https://news.ycombinator.com/item?id=46344104) - [Jingle Bells (Batman Smells): An incomplete festive folk-rhyme taxonomy](https://loreandordure.com/2025/12/16/jingle-bells/)
 * [2025-12-20, 20:49:52](https://news.ycombinator.com/item?id=46339532) - [Comptime – C# meta-programming with compile-time code generation and evaluation](https://github.com/sebastienros/comptime)
 * [2025-12-20, 14:17:13](https://news.ycombinator.com/item?id=46336364) - [The Fisher-Yates shuffle is backward](https://possiblywrong.wordpress.com/2020/12/10/the-fisher-yates-shuffle-is-backward/)
 * [2025-12-20, 00:22:26](https://news.ycombinator.com/item?id=46332568) - [Prototaxites](https://astrobiology.com/2025/03/ancient-prototaxites-dont-belong-to-any-living-lineage-possibly-a-distinct-branch-of-multicellular-earth-life.html)
