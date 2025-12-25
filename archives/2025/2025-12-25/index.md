@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-12-25](index.md)
 
+* [2025-12-25, 11:03:59](https://news.ycombinator.com/item?id=46383675) - [Mattermost restricted access to old messages after 10000 limit is reached](https://github.com/mattermost/mattermost/issues/34271)
 * [2025-12-25, 10:35:34](https://news.ycombinator.com/item?id=46383552) - [We invited a man into our home at Christmas and he stayed with us for 45 years](https://www.bbc.co.uk/news/articles/cdxwllqz1l0o)
 * [2025-12-25, 09:41:27](https://news.ycombinator.com/item?id=46383344) - [Why 'The Global Market' Is an Irresponsible Phrase](https://oswarld.com/eng/insight/251117_Why-the-global-market-Is-an-Irresponsible-Phrase)
 * [2025-12-25, 09:18:15](https://news.ycombinator.com/item?id=46383233) - [Quantum Error Correction Goes FOOM](https://algassert.com/post/2503)

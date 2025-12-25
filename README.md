@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-12-25, 11:03:59](https://news.ycombinator.com/item?id=46383675) - [Mattermost restricted access to old messages after 10000 limit is reached](https://github.com/mattermost/mattermost/issues/34271)
 * [2025-12-25, 10:35:34](https://news.ycombinator.com/item?id=46383552) - [We invited a man into our home at Christmas and he stayed with us for 45 years](https://www.bbc.co.uk/news/articles/cdxwllqz1l0o)
 * [2025-12-25, 09:18:15](https://news.ycombinator.com/item?id=46383233) - [Quantum Error Correction Goes FOOM](https://algassert.com/post/2503)
 * [2025-12-25, 08:58:23](https://news.ycombinator.com/item?id=46383139) - [Self-referencing Page Tables for the x86-Architecture](https://0l.de/blog/2015/01/bachelor-thesis-abstract/)
@@ -24,7 +25,6 @@
 * [2025-12-20, 19:40:02](https://news.ycombinator.com/item?id=46338895) - [The dawn of a world simulator](https://odyssey.ml/the-dawn-of-a-world-simulator)
 * [2025-12-20, 00:22:26](https://news.ycombinator.com/item?id=46332568) - [Prototaxites](https://astrobiology.com/2025/03/ancient-prototaxites-dont-belong-to-any-living-lineage-possibly-a-distinct-branch-of-multicellular-earth-life.html)
 * [2025-12-19, 15:55:30](https://news.ycombinator.com/item?id=46327191) - [Show HN: Exploring Mathematics with Python](https://coe.psu.ac.th/ad/explore/)
-* [2025-12-19, 07:30:36](https://news.ycombinator.com/item?id=46323177) - [Why Community Translation Falls Short for Your Plugins and Themes](https://wpml.org/announcements/2025/12/why-community-translation-falls-short-for-your-plugins-and-themes/)
 * [2025-12-19, 06:24:52](https://news.ycombinator.com/item?id=46322815) - [Research team digitizes more than 100 years of Canadian infectious disease data](https://news.mcmaster.ca/mcmaster-research-team-digitizes-more-than-100-years-of-canadian-infectious-disease-data/)
 * [2025-12-18, 21:58:50](https://news.ycombinator.com/item?id=46319382) - [The First Photographs of Snowflakes Discover the Groundbreaking Microphotography](https://www.openculture.com/2017/12/the-first-photographs-of-snowflakes.html)
 * [2025-12-18, 20:17:37](https://news.ycombinator.com/item?id=46318080) - [The port I couldn't ship](https://ammil.industries/the-port-i-couldnt-ship/)
