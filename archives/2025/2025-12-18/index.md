@@ -6,6 +6,7 @@
 
 * [2025-12-18, 23:40:46](https://news.ycombinator.com/item?id=46320395) - [Property-Based Testing Caught a Security Bug I Never Would Have Found](https://kiro.dev/blog/property-based-testing-fixed-security-bug/)
 * [2025-12-18, 23:37:05](https://news.ycombinator.com/item?id=46320353) - [Perron: A Static Site Generator for Ruby on Rails](https://perron-site.statichost.page/)
+* [2025-12-18, 23:25:46](https://news.ycombinator.com/item?id=46320249) - [Geometric Algorithms for Translucency Sorting in Minecraft [pdf]](https://douira.dev/assets/document/douira-master-thesis.pdf)
 * [2025-12-18, 23:22:34](https://news.ycombinator.com/item?id=46320214) - [My First Impression on HP Zbook Ultra G1a: Ryzen AI Max+ 395, Strix Halo 128GB](https://forum.level1techs.com/t/my-first-impression-on-hp-zbook-ultra-g1a-ryzen-ai-max-395-strix-halo-128-gb/232958)
 * [2025-12-18, 22:52:06](https://news.ycombinator.com/item?id=46319946) - [Great Ideas in Theoretical Computer Science](https://www.cs251.com/)
 * [2025-12-18, 22:39:47](https://news.ycombinator.com/item?id=46319826) - [Trained LLMs exclusively on pre-1913 texts](https://github.com/DGoettlich/history-llms)
