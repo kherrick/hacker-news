@@ -33,6 +33,7 @@
 * [2025-12-20, 15:55:01](https://news.ycombinator.com/item?id=46337026) - [Brothers are taking down Claude Code with OSS CLI](https://github.com/blackboxaicode/cli)
 * [2025-12-20, 15:43:15](https://news.ycombinator.com/item?id=46336947) - [Go ahead, self-host Postgres](https://pierce.dev/notes/go-ahead-self-host-postgres#user-content-fn-1)
 * [2025-12-20, 15:34:05](https://news.ycombinator.com/item?id=46336892) - [DotMeow – A fun domain with a serious mission](https://www.dotmeow.org)
+* [2025-12-20, 14:17:13](https://news.ycombinator.com/item?id=46336364) - [The Fisher-Yates shuffle is backward](https://possiblywrong.wordpress.com/2020/12/10/the-fisher-yates-shuffle-is-backward/)
 * [2025-12-20, 13:54:29](https://news.ycombinator.com/item?id=46336213) - [TailwindSQL – Like TailwindCSS, but for SQL Queries in React Server Components](https://github.com/mmarinovic/tailwindsql)
 * [2025-12-20, 13:39:47](https://news.ycombinator.com/item?id=46336104) - [Show HN: HN Wrapped 2025 - an LLM reviews your year on HN](https://hn-wrapped.kadoa.com?year=2025)
 * [2025-12-20, 13:38:24](https://news.ycombinator.com/item?id=46336097) - [Immersa: Open-source Web-based 3D Presentation Tool](https://github.com/ertugrulcetin/immersa)
