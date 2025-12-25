@@ -9,7 +9,6 @@
 * [2025-12-24, 23:25:37](https://news.ycombinator.com/item?id=46380399) - [Asterisk AI Voice Agent](https://github.com/hkjarral/Asterisk-AI-Voice-Agent)
 * [2025-12-24, 22:56:00](https://news.ycombinator.com/item?id=46380168) - [Tell HN: Merry Christmas](https://news.ycombinator.com/item?id=46380168)
 * [2025-12-24, 22:43:53](https://news.ycombinator.com/item?id=46380075) - [Phoenix: A modern X server written from scratch in Zig](https://git.dec05eba.com/phoenix/about/)
-* [2025-12-24, 21:54:48](https://news.ycombinator.com/item?id=46379677) - [How I Left YouTube](https://zhach.news/how-i-left-youtube/)
 * [2025-12-24, 21:02:15](https://news.ycombinator.com/item?id=46379183) - [Nvidia buying AI chip startup Groq for about $20B in cash](https://www.cnbc.com/2025/12/24/nvidia-buying-ai-chip-startup-groq-for-about-20-billion-biggest-deal.html)
 * [2025-12-24, 21:01:05](https://news.ycombinator.com/item?id=46379173) - [Keystone (YC S25) is hiring engineer #1 to automate coding](https://www.ycombinator.com/companies/keystone/jobs/J3t9XeM-founding-engineer)
 * [2025-12-24, 19:42:25](https://news.ycombinator.com/item?id=46378554) - [Show HN: Minimalist editor that lives in browser, stores everything in the URL](https://github.com/antonmedv/textarea)
@@ -30,6 +29,7 @@
 * [2025-12-19, 06:24:52](https://news.ycombinator.com/item?id=46322815) - [Research team digitizes more than 100 years of Canadian infectious disease data](https://news.mcmaster.ca/mcmaster-research-team-digitizes-more-than-100-years-of-canadian-infectious-disease-data/)
 * [2025-12-18, 20:17:37](https://news.ycombinator.com/item?id=46318080) - [The port I couldn't ship](https://ammil.industries/the-port-i-couldnt-ship/)
 * [2025-12-18, 19:50:29](https://news.ycombinator.com/item?id=46317687) - [A faster path to container images in Bazel](https://www.tweag.io/blog/2025-12-18-rules_img/)
+* [2025-12-18, 16:11:50](https://news.ycombinator.com/item?id=46314540) - [JEDEC developing reduced pin count HBM4 standard to enable higher capacity](https://blocksandfiles.com/2025/12/17/jedec-sphbm4/)
 
 ## [Archives](archives/index.md)
 

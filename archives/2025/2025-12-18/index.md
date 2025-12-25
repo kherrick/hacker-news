@@ -42,6 +42,7 @@
 * [2025-12-18, 16:44:11](https://news.ycombinator.com/item?id=46315047) - [Show HN: Paper2Any – Open tool to generate editable PPTs from research papers](https://github.com/OpenDCAI/DataFlow-Agent)
 * [2025-12-18, 16:37:22](https://news.ycombinator.com/item?id=46314947) - [Making the most of bit arrays in Gleam](https://gearsco.de/blog/bit-array-syntax/)
 * [2025-12-18, 16:19:48](https://news.ycombinator.com/item?id=46314684) - [Response Healing: Reduce JSON defects by 80%+](https://openrouter.ai/announcements/response-healing-reduce-json-defects-by-80percent)
+* [2025-12-18, 16:11:50](https://news.ycombinator.com/item?id=46314540) - [JEDEC developing reduced pin count HBM4 standard to enable higher capacity](https://blocksandfiles.com/2025/12/17/jedec-sphbm4/)
 * [2025-12-18, 16:02:29](https://news.ycombinator.com/item?id=46314385) - [Show HN: Composify – Open-Source Visual Editor / Server-Driven UI for React](https://github.com/composify-js/composify)
 * [2025-12-18, 15:45:42](https://news.ycombinator.com/item?id=46314109) - [Valve Is Running Apple's Playbook in Reverse](https://www.garbagecollected.dev/p/valve-the-reverse-apple)
 * [2025-12-18, 15:39:09](https://news.ycombinator.com/item?id=46313991) - [Beginning January 2026, all ACM publications will be made open access](https://dl.acm.org/openaccess)
