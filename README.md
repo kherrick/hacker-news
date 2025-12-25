@@ -14,7 +14,7 @@
 * [2025-12-24, 19:42:25](https://news.ycombinator.com/item?id=46378554) - [Show HN: Minimalist editor that lives in browser, stores everything in the URL](https://github.com/antonmedv/textarea)
 * [2025-12-24, 18:17:47](https://news.ycombinator.com/item?id=46377862) - [Fabrice Bellard: Biography (2009) [pdf]](https://www.ipaidia.gr/wp-content/uploads/2020/12/117-2020-fabrice-bellard.pdf)
 * [2025-12-24, 17:49:02](https://news.ycombinator.com/item?id=46377597) - [Show HN: Vibium – Browser automation for AI and humans, by Selenium's creator](https://github.com/VibiumDev/vibium)
-* [2025-12-24, 13:27:50](https://news.ycombinator.com/item?id=46375384) - [When Compilers Surprise You](https://xania.org/202512/24-cunning-clang)
+* [2025-12-24, 15:59:23](https://news.ycombinator.com/item?id=46376652) - [My 2026 Open Social Web Predictions](https://www.timothychambers.net/2025/12/23/my-open-social-web-predictions.html)
 * [2025-12-24, 12:55:19](https://news.ycombinator.com/item?id=46375174) - [I'm returning my Framework 16](https://yorickpeterse.com/articles/im-returning-my-framework-16/)
 * [2025-12-23, 17:33:42](https://news.ycombinator.com/item?id=46367224) - [Fabrice Bellard Releases MicroQuickJS](https://github.com/bellard/mquickjs/blob/main/README.md)
 * [2025-12-22, 05:38:33](https://news.ycombinator.com/item?id=46351666) - [CSRF protection without tokens or hidden form fields](https://blog.miguelgrinberg.com/post/csrf-protection-without-tokens-or-hidden-form-fields)
