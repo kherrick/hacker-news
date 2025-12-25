@@ -14,6 +14,7 @@
 * [2025-12-24, 21:50:20](https://news.ycombinator.com/item?id=46379630) - [Steam Store is offline](https://steamstat.us/)
 * [2025-12-24, 21:02:15](https://news.ycombinator.com/item?id=46379183) - [Nvidia buying AI chip startup Groq for about $20B in cash](https://www.cnbc.com/2025/12/24/nvidia-buying-ai-chip-startup-groq-for-about-20-billion-biggest-deal.html)
 * [2025-12-24, 21:01:05](https://news.ycombinator.com/item?id=46379173) - [Keystone (YC S25) is hiring engineer #1 to automate coding](https://www.ycombinator.com/companies/keystone/jobs/J3t9XeM-founding-engineer)
+* [2025-12-24, 20:56:53](https://news.ycombinator.com/item?id=46379145) - [Show HN: Lamp Carousel – DIY kinetic sculpture powered by lamp heat](https://evan.widloski.com/posts/spinners/)
 * [2025-12-24, 20:55:32](https://news.ycombinator.com/item?id=46379129) - [Build Your Own 100TB NAS in 2025: Complete TrueNAS Storage Guide](https://techlife.blog/posts/build-your-own-100tb-nas-2025-complete-truenas-storage-guide/)
 * [2025-12-24, 20:48:53](https://news.ycombinator.com/item?id=46379076) - [Spaced Repetition for Efficient Learning](https://gwern.net/spaced-repetition)
 * [2025-12-24, 20:04:52](https://news.ycombinator.com/item?id=46378747) - [Beijing is enforcing tough rules to ensure chatbots don’t misbehave](https://www.wsj.com/tech/ai/china-is-worried-ai-threatens-party-ruleand-is-trying-to-tame-it-bfdcda2d)
