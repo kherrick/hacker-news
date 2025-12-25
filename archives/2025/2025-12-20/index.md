@@ -58,4 +58,5 @@
 * [2025-12-20, 05:24:21](https://news.ycombinator.com/item?id=46333830) - [The Deviancy Signal: Having \"Nothing to Hide\" Is a Threat to Us All](https://thompson2026.com/blog/deviancy-signal/)
 * [2025-12-20, 05:17:32](https://news.ycombinator.com/item?id=46333799) - [Here you can find the contents of the Unix v4 tape ready for bootstrapping](http://squoze.net/UNIX/v4/README)
 * [2025-12-20, 05:00:55](https://news.ycombinator.com/item?id=46333734) - [Android introduces $2-4 install fee and 10–20% cut for US external content links](https://support.google.com/googleplay/android-developer/answer/16470497?hl=en)
+* [2025-12-20, 00:22:26](https://news.ycombinator.com/item?id=46332568) - [Prototaxites](https://astrobiology.com/2025/03/ancient-prototaxites-dont-belong-to-any-living-lineage-possibly-a-distinct-branch-of-multicellular-earth-life.html)
 * [2025-12-20, 00:16:13](https://news.ycombinator.com/item?id=46332526) - [Build Your Own React](https://pomb.us/build-your-own-react/)
