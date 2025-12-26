@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-12-26, 17:37:31](https://news.ycombinator.com/item?id=46394228) - [ICE's interest in high-tech gear raises new questions: 'What is it for?'](https://www.politico.com/news/2025/12/26/ice-high-tech-surveillance-lower-privacy-guardrails-00705401)
 * [2025-12-26, 17:06:35](https://news.ycombinator.com/item?id=46393924) - [C/C++ Embedded Files (2013)](https://www.4rknova.com//blog/2013/01/27/cpp-embedded-files)
 * [2025-12-26, 15:56:52](https://news.ycombinator.com/item?id=46393271) - [Show HN: AutoLISP interpreter in Rust/WASM – a CAD workflow invented 33 yrs ago](https://acadlisp.de/noscript.html)
 * [2025-12-26, 15:55:21](https://news.ycombinator.com/item?id=46393262) - [Show HN: Private blogging and journaling with a simulated audience](https://tempblog-psi.vercel.app/)
@@ -27,7 +28,6 @@
 * [2025-12-21, 13:08:36](https://news.ycombinator.com/item?id=46344573) - [Show HN: Gaming Couch – a local multiplayer party game platform for 8 players](https://gamingcouch.com)
 * [2025-12-21, 12:07:44](https://news.ycombinator.com/item?id=46344222) - [An 11-qubit atom processor in silicon with all fidelities from 99.10% to 99.99%](https://www.nature.com/articles/s41586-025-09827-w)
 * [2025-12-20, 15:12:47](https://news.ycombinator.com/item?id=46336738) - [Targeting by Reference in the Shadow DOM](https://meyerweb.com/eric/thoughts/2025/12/19/targeting-by-reference-in-the-shadow-dom/)
-* [2025-12-20, 14:49:39](https://news.ycombinator.com/item?id=46336577) - [The entire New Yorker archive is now digitized](https://www.newyorker.com/news/press-room/the-entire-new-yorker-archive-is-now-fully-digitized)
 * [2025-12-20, 05:54:58](https://news.ycombinator.com/item?id=46333940) - [Understanding the Northern Lights](https://www.historytoday.com/archive/feature/understanding-northern-lights)
 * [2025-12-19, 14:48:26](https://news.ycombinator.com/item?id=46326440) - [How to Reproduce This Book with LaTeX](https://github.com/BenjaminGor/Latex_Notes_Tutorial)
 
