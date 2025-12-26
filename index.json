@@ -1,11 +1,41 @@
 [
   [
     [
+      "2025-12-26, 01:02:53",
+      "https://news.ycombinator.com/item?id=46388213"
+    ],
+    [
+      "MiniMax M2.1: Built for Real-World Complex Tasks, Multi-Language Programming",
+      "https://www.minimaxi.com/news/minimax-m21"
+    ]
+  ],
+  [
+    [
+      "2025-12-26, 00:32:15",
+      "https://news.ycombinator.com/item?id=46388059"
+    ],
+    [
+      "When a driver challenges the kernel's assumptions",
+      "http://miod.online.fr/software/openbsd/stories/udl.html"
+    ]
+  ],
+  [
+    [
+      "2025-12-25, 23:48:08",
+      "https://news.ycombinator.com/item?id=46387838"
+    ],
+    [
+      "No shares in company, but 550 employees received a $240M gift from their owner",
+      "https://economictimes.indiatimes.com/magazines/panache/no-shares-in-company-but-550-employees-received-a-240-million-gift-from-their-owner-for-staying-with-him-through-tough-times/articleshow/126175955.cms?from=mdr"
+    ]
+  ],
+  [
+    [
       "2025-12-25, 23:13:21",
       "https://news.ycombinator.com/item?id=46387657"
     ],
     [
-      "Maybe the Default Settings Are Too High",
+      "Maybe the default settings are too high",
       "https://www.raptitude.com/2025/12/maybe-the-default-settings-are-too-high/"
     ]
   ],
@@ -31,26 +61,6 @@
   ],
   [
     [
-      "2025-12-25, 20:27:45",
-      "https://news.ycombinator.com/item?id=46386835"
-    ],
-    [
-      "URL Pattern API",
-      "https://developer.mozilla.org/en-US/docs/Web/API/URL_Pattern_API"
-    ]
-  ],
-  [
-    [
-      "2025-12-25, 20:14:36",
-      "https://news.ycombinator.com/item?id=46386761"
-    ],
-    [
-      "UBlockOrigin and UBlacklist AI Blocklist",
-      "https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist"
-    ]
-  ],
-  [
-    [
       "2025-12-25, 18:40:14",
       "https://news.ycombinator.com/item?id=46386211"
     ],
@@ -65,7 +75,7 @@
       "https://news.ycombinator.com/item?id=46386009"
     ],
     [
-      "All I Want for Christmas Is Your Secrets: LangGrinch hits LangChain Core",
+      "Critical vulnerability in LangChain – CVE-2025-68664",
       "https://cyata.ai/blog/langgrinch-langchain-core-cve-2025-68664/"
     ]
   ],
@@ -241,6 +251,16 @@
   ],
   [
     [
+      "2025-12-19, 23:07:01",
+      "https://news.ycombinator.com/item?id=46332018"
+    ],
+    [
+      "Choosing the Right Python Docker Image for Finance Workloads",
+      "https://jiripik.com/2025/12/19/choosing-the-right-python-docker-image-for-finance-workloads/"
+    ]
+  ],
+  [
+    [
       "2025-12-19, 20:49:54",
       "https://news.ycombinator.com/item?id=46330732"
     ],
@@ -251,12 +271,12 @@
   ],
   [
     [
-      "2025-12-19, 15:55:30",
-      "https://news.ycombinator.com/item?id=46327191"
+      "2025-12-19, 04:53:22",
+      "https://news.ycombinator.com/item?id=46322379"
     ],
     [
-      "Show HN: Exploring Mathematics with Python",
-      "https://coe.psu.ac.th/ad/explore/"
+      "Reinventing the dial-up modem (2019)",
+      "https://saket.me/dtmf-tones/"
     ]
   ],
   [
@@ -267,26 +287,6 @@
     [
       "Geometric Algorithms for Translucency Sorting in Minecraft [pdf]",
       "https://douira.dev/assets/document/douira-master-thesis.pdf"
-    ]
-  ],
-  [
-    [
-      "2025-12-18, 21:58:50",
-      "https://news.ycombinator.com/item?id=46319382"
-    ],
-    [
-      "The First Photographs of Snowflakes Discover the Groundbreaking Microphotography (2017)",
-      "https://www.openculture.com/2017/12/the-first-photographs-of-snowflakes.html"
-    ]
-  ],
-  [
-    [
-      "2025-12-18, 19:00:56",
-      "https://news.ycombinator.com/item?id=46316991"
-    ],
-    [
-      "Show HN: Spice Cayenne – SQL acceleration built on Vortex",
-      "https://spice.ai/blog/introducing-spice-cayenne-data-accelerator"
     ]
   ],
   [
