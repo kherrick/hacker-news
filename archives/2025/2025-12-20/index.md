@@ -58,6 +58,7 @@
 * [2025-12-20, 06:21:05](https://news.ycombinator.com/item?id=46334025) - [Privacy doesn't mean anything anymore, anonymity does](https://servury.com/blog/privacy-is-marketing-anonymity-is-architecture/)
 * [2025-12-20, 06:09:17](https://news.ycombinator.com/item?id=46333983) - [Charles Proxy](https://www.charlesproxy.com/)
 * [2025-12-20, 06:00:31](https://news.ycombinator.com/item?id=46333959) - [Data Bank – Nuforc – Latest UFO Sightings](https://nuforc.org/databank/)
+* [2025-12-20, 05:54:58](https://news.ycombinator.com/item?id=46333940) - [Understanding the Northern Lights](https://www.historytoday.com/archive/feature/understanding-northern-lights)
 * [2025-12-20, 05:24:21](https://news.ycombinator.com/item?id=46333830) - [The Deviancy Signal: Having \"Nothing to Hide\" Is a Threat to Us All](https://thompson2026.com/blog/deviancy-signal/)
 * [2025-12-20, 05:17:32](https://news.ycombinator.com/item?id=46333799) - [Here you can find the contents of the Unix v4 tape ready for bootstrapping](http://squoze.net/UNIX/v4/README)
 * [2025-12-20, 05:00:55](https://news.ycombinator.com/item?id=46333734) - [Android introduces $2-4 install fee and 10–20% cut for US external content links](https://support.google.com/googleplay/android-developer/answer/16470497?hl=en)

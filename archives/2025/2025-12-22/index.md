@@ -6,6 +6,7 @@
 
 * [2025-12-22, 23:23:12](https://news.ycombinator.com/item?id=46360465) - [Satellites reveal heat leaking from largest US cryptocurrency mining center](https://www.space.com/space-exploration/satellites/satellites-reveal-heat-leaking-from-largest-us-cryptocurrency-mining-center)
 * [2025-12-22, 22:50:53](https://news.ycombinator.com/item?id=46360146) - [Ask HN: Why isn't there competition to LinkedIn yet?](https://news.ycombinator.com/item?id=46360146)
+* [2025-12-22, 22:44:25](https://news.ycombinator.com/item?id=46360080) - [Overlooked No More: Inge Lehmann, Who Discovered the Earth's Inner Core](https://www.nytimes.com/2025/12/20/obituaries/inge-lehmann-overlooked.html)
 * [2025-12-22, 22:43:22](https://news.ycombinator.com/item?id=46360067) - [There Is No Future for Online Safety Without Privacy and Security](https://itsfoss.com/news/alexander-linton-interview/)
 * [2025-12-22, 22:35:45](https://news.ycombinator.com/item?id=46359996) - [NPM Package with 56K Downloads Caught Stealing WhatsApp Messages](https://www.koi.ai/blog/npm-package-with-56k-downloads-malware-stealing-whatsapp-messages)
 * [2025-12-22, 22:03:07](https://news.ycombinator.com/item?id=46359683) - [Tc – Theodore Calvin's language-agnostic testing framework](https://github.com/ahoward/tc)
@@ -74,6 +75,7 @@
 * [2025-12-22, 08:08:46](https://news.ycombinator.com/item?id=46352191) - [Dancing around the rhythm space with Euclid](https://pv.wtf/posts/euclidean-rhythms)
 * [2025-12-22, 07:25:43](https://news.ycombinator.com/item?id=46352047) - [QBasic64 Phoenix 4.3.0 Released](https://qb64phoenix.com/forum/showthread.php?tid=4244)
 * [2025-12-22, 07:13:33](https://news.ycombinator.com/item?id=46352004) - [I announced my divorce on Instagram and then AI impersonated me](https://eiratansey.com/2025/12/20/i-announced-my-divorce-on-instagram-and-then-ai-impersonated-me/)
+* [2025-12-22, 06:17:32](https://news.ycombinator.com/item?id=46351836) - [Joan Didion and Kurt Vonnegut had something to say. We have it on tape](https://www.nytimes.com/2025/12/19/books/james-baldwin-joan-didion-92ny-recordings.html)
 * [2025-12-22, 05:38:33](https://news.ycombinator.com/item?id=46351666) - [CSRF protection without tokens or hidden form fields](https://blog.miguelgrinberg.com/post/csrf-protection-without-tokens-or-hidden-form-fields)
 * [2025-12-22, 05:28:42](https://news.ycombinator.com/item?id=46351625) - [A Child in the State of Nature](https://lareviewofbooks.org/article/a-child-in-the-state-of-nature/)
 * [2025-12-22, 04:50:17](https://news.ycombinator.com/item?id=46351408) - [A middle-class family's only option: A $43,000 health insurance premium](https://www.washingtonpost.com/health/2025/12/21/obamacare-monopolies-subsidies/)
