@@ -9,5 +9,6 @@
 * [2025-12-26, 03:18:47](https://news.ycombinator.com/item?id=46388904) - [WiFi DensePose: WiFi-based dense human pose estimation system through walls](https://github.com/ruvnet/wifi-densepose)
 * [2025-12-26, 02:32:29](https://news.ycombinator.com/item?id=46388700) - [Ultimate-Linux: Userspace for Linux in Pure JavaScript](https://github.com/popovicu/ultimate-linux)
 * [2025-12-26, 01:02:53](https://news.ycombinator.com/item?id=46388213) - [MiniMax M2.1: Built for Real-World Complex Tasks, Multi-Language Programming](https://www.minimaxi.com/news/minimax-m21)
+* [2025-12-26, 00:58:17](https://news.ycombinator.com/item?id=46388185) - [Governments in the West Are Turning Their Sights on VPNs](https://www.nakedcapitalism.com/2025/12/in-their-total-war-on-online-privacy-the-liberal-democracies-of-the-collective-west-are-now-turning-their-sights-on-vpns.html)
 * [2025-12-26, 00:32:15](https://news.ycombinator.com/item?id=46388059) - [When a driver challenges the kernel's assumptions](http://miod.online.fr/software/openbsd/stories/udl.html)
 * [2025-12-26, 00:29:40](https://news.ycombinator.com/item?id=46388040) - [Seven Diabetes Patients Die Due to Undisclosed Bug in Abbott's Glucose Monitors](https://sfconservancy.org/blog/2025/dec/23/seven-abbott-freestyle-libre-cgm-patients-dead/)
