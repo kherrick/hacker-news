@@ -161,16 +161,6 @@
   ],
   [
     [
-      "2025-12-23, 17:33:42",
-      "https://news.ycombinator.com/item?id=46367224"
-    ],
-    [
-      "Fabrice Bellard Releases MicroQuickJS",
-      "https://github.com/bellard/mquickjs/blob/main/README.md"
-    ]
-  ],
-  [
-    [
       "2025-12-23, 09:40:37",
       "https://news.ycombinator.com/item?id=46363870"
     ],
@@ -237,6 +227,16 @@
     [
       "Tachyon: High frequency statistical sampling profiler",
       "https://docs.python.org/3.15/library/profiling.sampling.html"
+    ]
+  ],
+  [
+    [
+      "2025-12-22, 08:23:48",
+      "https://news.ycombinator.com/item?id=46352227"
+    ],
+    [
+      "Hardware Touch, Stronger SSH",
+      "https://www.ubicloud.com/blog/hardware-touch-stronger-ssh"
     ]
   ],
   [
