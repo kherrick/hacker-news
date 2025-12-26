@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-12-26, 13:23:27](https://news.ycombinator.com/item?id=46391744) - [Undefinable yet Indispensable](https://aeon.co/essays/the-word-religion-resists-definition-but-remains-necessary)
-* [2025-12-26, 12:55:16](https://news.ycombinator.com/item?id=46391572) - [Ask HN: What did you read in 2025?](https://news.ycombinator.com/item?id=46391572)
+* [2025-12-26, 12:59:56](https://news.ycombinator.com/item?id=46391599) - [LearnixOS](https://www.learnix-os.com)
 * [2025-12-26, 12:46:36](https://news.ycombinator.com/item?id=46391514) - [Package managers keep using Git as a database, it never works out](https://nesbitt.io/2025/12/24/package-managers-keep-using-git-as-a-database.html)
 * [2025-12-26, 12:39:32](https://news.ycombinator.com/item?id=46391472) - [ChatGPT conversations still lack timestamps after years of requests](https://community.openai.com/t/timestamps-for-chats-in-chatgpt/440107?page=3)
 * [2025-12-26, 12:27:19](https://news.ycombinator.com/item?id=46391410) - [I'm a laptop weirdo and that's why I like my new Framework 13](https://blog.matthewbrunelle.com/im-a-laptop-weirdo-and-thats-why-i-like-my-new-framework-13/)
@@ -21,13 +21,13 @@
 * [2025-12-22, 19:25:29](https://news.ycombinator.com/item?id=46357814) - [The Algebra of Loans in Rust](https://nadrieril.github.io/blog/2025/12/21/the-algebra-of-loans-in-rust.html)
 * [2025-12-22, 11:21:42](https://news.ycombinator.com/item?id=46353257) - [Tachyon: High frequency statistical sampling profiler](https://docs.python.org/3.15/library/profiling.sampling.html)
 * [2025-12-22, 08:23:48](https://news.ycombinator.com/item?id=46352227) - [Hardware Touch, Stronger SSH](https://www.ubicloud.com/blog/hardware-touch-stronger-ssh)
+* [2025-12-22, 07:18:08](https://news.ycombinator.com/item?id=46352016) - [What happened to all the gold Spain got from the New World? (1985)](https://www.straightdope.com/21341789/what-happened-to-all-the-gold-spain-got-from-the-new-world)
 * [2025-12-22, 06:17:32](https://news.ycombinator.com/item?id=46351836) - [Joan Didion and Kurt Vonnegut had something to say. We have it on tape](https://www.nytimes.com/2025/12/19/books/james-baldwin-joan-didion-92ny-recordings.html)
 * [2025-12-21, 13:08:36](https://news.ycombinator.com/item?id=46344573) - [Show HN: Gaming Couch – a local multiplayer party game platform for 8 players](https://gamingcouch.com)
 * [2025-12-21, 12:07:44](https://news.ycombinator.com/item?id=46344222) - [An 11-qubit atom processor in silicon with all fidelities from 99.10% to 99.99%](https://www.nature.com/articles/s41586-025-09827-w)
 * [2025-12-20, 14:49:39](https://news.ycombinator.com/item?id=46336577) - [The entire New Yorker archive is now digitized](https://www.newyorker.com/news/press-room/the-entire-new-yorker-archive-is-now-fully-digitized)
 * [2025-12-20, 05:54:58](https://news.ycombinator.com/item?id=46333940) - [Understanding the Northern Lights](https://www.historytoday.com/archive/feature/understanding-northern-lights)
 * [2025-12-20, 01:00:05](https://news.ycombinator.com/item?id=46332784) - [Lessons from a year of Postgres CDC in production](https://clickhouse.com/blog/postgres-cdc-year-in-review-2025)
-* [2025-12-19, 20:49:54](https://news.ycombinator.com/item?id=46330732) - [CUDA Tile Open Sourced](https://github.com/NVIDIA/cuda-tile)
 * [2025-12-19, 14:48:26](https://news.ycombinator.com/item?id=46326440) - [How to Reproduce This Book with LaTeX](https://github.com/BenjaminGor/Latex_Notes_Tutorial)
 * [2025-12-19, 12:00:30](https://news.ycombinator.com/item?id=46324881) - [Tiled Art](https://tiled.art/en/home/?id=SilverAndGold)
 

@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-12-26](index.md)
 
 * [2025-12-26, 13:23:27](https://news.ycombinator.com/item?id=46391744) - [Undefinable yet Indispensable](https://aeon.co/essays/the-word-religion-resists-definition-but-remains-necessary)
+* [2025-12-26, 12:59:56](https://news.ycombinator.com/item?id=46391599) - [LearnixOS](https://www.learnix-os.com)
 * [2025-12-26, 12:55:16](https://news.ycombinator.com/item?id=46391572) - [Ask HN: What did you read in 2025?](https://news.ycombinator.com/item?id=46391572)
 * [2025-12-26, 12:46:36](https://news.ycombinator.com/item?id=46391514) - [Package managers keep using Git as a database, it never works out](https://nesbitt.io/2025/12/24/package-managers-keep-using-git-as-a-database.html)
 * [2025-12-26, 12:39:32](https://news.ycombinator.com/item?id=46391472) - [ChatGPT conversations still lack timestamps after years of requests](https://community.openai.com/t/timestamps-for-chats-in-chatgpt/440107?page=3)
