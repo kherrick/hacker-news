@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2025-12-26, 02:32:29",
+      "https://news.ycombinator.com/item?id=46388700"
+    ],
+    [
+      "Ultimate-Linux: Userspace for Linux in Pure JavaScript",
+      "https://github.com/popovicu/ultimate-linux"
+    ]
+  ],
+  [
+    [
       "2025-12-26, 01:02:53",
       "https://news.ycombinator.com/item?id=46388213"
     ],
@@ -151,32 +161,12 @@
   ],
   [
     [
-      "2025-12-25, 04:13:00",
-      "https://news.ycombinator.com/item?id=46382011"
-    ],
-    [
-      "Ruby 4.0.0",
-      "https://www.ruby-lang.org/en/news/2025/12/25/ruby-4-0-0-released/"
-    ]
-  ],
-  [
-    [
       "2025-12-25, 00:10:12",
       "https://news.ycombinator.com/item?id=46380758"
     ],
     [
       "Who Watches the Waymos? I do [video]",
       "https://www.youtube.com/watch?v=oYU2hAbx_Fc"
-    ]
-  ],
-  [
-    [
-      "2025-12-24, 22:43:53",
-      "https://news.ycombinator.com/item?id=46380075"
-    ],
-    [
-      "Phoenix: A modern X server written from scratch in Zig",
-      "https://git.dec05eba.com/phoenix/about/"
     ]
   ],
   [
@@ -227,6 +217,16 @@
     [
       "Archiving Git branches as tags",
       "https://etc.octavore.com/2025/12/archiving-git-branches-as-tags/"
+    ]
+  ],
+  [
+    [
+      "2025-12-22, 11:21:42",
+      "https://news.ycombinator.com/item?id=46353257"
+    ],
+    [
+      "Tachyon: High frequency statistical sampling profiler",
+      "https://docs.python.org/3.15/library/profiling.sampling.html"
     ]
   ],
   [
