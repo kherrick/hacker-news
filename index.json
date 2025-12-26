@@ -1,12 +1,32 @@
 [
   [
     [
+      "2025-12-26, 13:23:27",
+      "https://news.ycombinator.com/item?id=46391744"
+    ],
+    [
+      "Undefinable yet Indispensable",
+      "https://aeon.co/essays/the-word-religion-resists-definition-but-remains-necessary"
+    ]
+  ],
+  [
+    [
       "2025-12-26, 12:55:16",
       "https://news.ycombinator.com/item?id=46391572"
     ],
     [
       "Ask HN: What did you read in 2025?",
       "https://news.ycombinator.com/item?id=46391572"
+    ]
+  ],
+  [
+    [
+      "2025-12-26, 12:46:36",
+      "https://news.ycombinator.com/item?id=46391514"
+    ],
+    [
+      "Package managers keep using Git as a database, it never works out",
+      "https://nesbitt.io/2025/12/24/package-managers-keep-using-git-as-a-database.html"
     ]
   ],
   [
@@ -35,8 +55,18 @@
       "https://news.ycombinator.com/item?id=46391391"
     ],
     [
-      "Codex vs. Claude Code (Today)",
+      "Codex vs. Claude Code (today)",
       "https://build.ms/2025/12/22/codex-vs-claude-code-today/"
+    ]
+  ],
+  [
+    [
+      "2025-12-26, 11:12:28",
+      "https://news.ycombinator.com/item?id=46391077"
+    ],
+    [
+      "The First Web Server",
+      "https://dfarq.homeip.net/the-first-web-server/"
     ]
   ],
   [
@@ -91,26 +121,6 @@
   ],
   [
     [
-      "2025-12-26, 00:32:15",
-      "https://news.ycombinator.com/item?id=46388059"
-    ],
-    [
-      "When a driver challenges the kernel's assumptions",
-      "http://miod.online.fr/software/openbsd/stories/udl.html"
-    ]
-  ],
-  [
-    [
-      "2025-12-26, 00:29:40",
-      "https://news.ycombinator.com/item?id=46388040"
-    ],
-    [
-      "Seven Diabetes Patients Die Due to Undisclosed Bug in Abbott's Glucose Monitors",
-      "https://sfconservancy.org/blog/2025/dec/23/seven-abbott-freestyle-libre-cgm-patients-dead/"
-    ]
-  ],
-  [
-    [
       "2025-12-25, 23:13:21",
       "https://news.ycombinator.com/item?id=46387657"
     ],
@@ -141,16 +151,6 @@
   ],
   [
     [
-      "2025-12-25, 14:20:29",
-      "https://news.ycombinator.com/item?id=46384565"
-    ],
-    [
-      "Asahi Linux with Sway on the MacBook Air M2 (2024)",
-      "https://daniel.lawrence.lu/blog/2024-12-01-asahi-linux-with-sway-on-the-macbook-air-m2/"
-    ]
-  ],
-  [
-    [
       "2025-12-25, 13:02:46",
       "https://news.ycombinator.com/item?id=46384167"
     ],
@@ -171,12 +171,12 @@
   ],
   [
     [
-      "2025-12-22, 19:52:10",
-      "https://news.ycombinator.com/item?id=46358166"
+      "2025-12-22, 22:44:25",
+      "https://news.ycombinator.com/item?id=46360080"
     ],
     [
-      "The Program 2025 annual review: How much money does an audio drama podcast make?",
-      "https://programaudioseries.com/the-program-results-7/"
+      "Overlooked No More: Inge Lehmann, Who Discovered the Earth's Inner Core",
+      "https://www.nytimes.com/2025/12/20/obituaries/inge-lehmann-overlooked.html"
     ]
   ],
   [
@@ -187,26 +187,6 @@
     [
       "The Algebra of Loans in Rust",
       "https://nadrieril.github.io/blog/2025/12/21/the-algebra-of-loans-in-rust.html"
-    ]
-  ],
-  [
-    [
-      "2025-12-22, 18:52:50",
-      "https://news.ycombinator.com/item?id=46357362"
-    ],
-    [
-      "Archiving Git branches as tags",
-      "https://etc.octavore.com/2025/12/archiving-git-branches-as-tags/"
-    ]
-  ],
-  [
-    [
-      "2025-12-22, 14:04:02",
-      "https://news.ycombinator.com/item?id=46354187"
-    ],
-    [
-      "Animating Quines for Larva Labs",
-      "https://destroytoday.com/blog/animating-quines-for-larva-labs"
     ]
   ],
   [
@@ -227,6 +207,16 @@
     [
       "Hardware Touch, Stronger SSH",
       "https://www.ubicloud.com/blog/hardware-touch-stronger-ssh"
+    ]
+  ],
+  [
+    [
+      "2025-12-22, 06:17:32",
+      "https://news.ycombinator.com/item?id=46351836"
+    ],
+    [
+      "Joan Didion and Kurt Vonnegut had something to say. We have it on tape",
+      "https://www.nytimes.com/2025/12/19/books/james-baldwin-joan-didion-92ny-recordings.html"
     ]
   ],
   [
@@ -257,6 +247,16 @@
     [
       "The entire New Yorker archive is now digitized",
       "https://www.newyorker.com/news/press-room/the-entire-new-yorker-archive-is-now-fully-digitized"
+    ]
+  ],
+  [
+    [
+      "2025-12-20, 05:54:58",
+      "https://news.ycombinator.com/item?id=46333940"
+    ],
+    [
+      "Understanding the Northern Lights",
+      "https://www.historytoday.com/archive/feature/understanding-northern-lights"
     ]
   ],
   [
