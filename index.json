@@ -31,6 +31,16 @@
   ],
   [
     [
+      "2025-12-26, 15:07:01",
+      "https://news.ycombinator.com/item?id=46392736"
+    ],
+    [
+      "Show HN: Xcc700: Self-hosting mini C compiler for ESP32 (Xtensa) in 700 lines",
+      "https://github.com/valdanylchuk/xcc700"
+    ]
+  ],
+  [
+    [
       "2025-12-26, 14:52:13",
       "https://news.ycombinator.com/item?id=46392538"
     ],
@@ -177,16 +187,6 @@
     [
       "Python 3.15’s interpreter for Windows x86-64 should hopefully be 15% faster",
       "https://fidget-spinner.github.io/posts/no-longer-sorry.html"
-    ]
-  ],
-  [
-    [
-      "2025-12-23, 09:40:37",
-      "https://news.ycombinator.com/item?id=46363870"
-    ],
-    [
-      "Show HN: GeneGuessr – a daily biology web puzzle",
-      "https://geneguessr.brinedew.bio/"
     ]
   ],
   [
