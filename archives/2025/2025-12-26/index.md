@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-12-26](index.md)
 
+* [2025-12-26, 09:43:23](https://news.ycombinator.com/item?id=46390667) - [Geometric Algorithms for Translucency Sorting in Minecraft [pdf]](https://douira.dev/assets/document/douira-master-thesis.pdf)
 * [2025-12-26, 07:35:15](https://news.ycombinator.com/item?id=46390055) - [Building an AI agent inside a 7-year-old Rails monolith](https://catalinionescu.dev/ai-agent/building-ai-agent-part-1/)
 * [2025-12-26, 07:31:39](https://news.ycombinator.com/item?id=46390041) - [Fish-Inspired Filter That Removes over 99% of Microplastics](https://scitechdaily.com/scientists-develop-new-fish-inspired-filter-that-removes-over-99-of-microplastics/)
 * [2025-12-26, 06:37:01](https://news.ycombinator.com/item?id=46389715) - [SQLite AI](https://www.sqlite.ai)
