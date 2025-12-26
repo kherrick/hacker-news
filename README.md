@@ -12,7 +12,6 @@
 * [2025-12-25, 18:06:44](https://news.ycombinator.com/item?id=46386009) - [Critical vulnerability in LangChain – CVE-2025-68664](https://cyata.ai/blog/langgrinch-langchain-core-cve-2025-68664/)
 * [2025-12-25, 16:24:45](https://news.ycombinator.com/item?id=46385308) - [I sell onions on the Internet (2019)](https://www.deepsouthventures.com/i-sell-onions-on-the-internet/)
 * [2025-12-25, 16:08:57](https://news.ycombinator.com/item?id=46385197) - [Ask HN: What skills do you want to develop or improve in 2026?](https://news.ycombinator.com/item?id=46385197)
-* [2025-12-25, 15:22:36](https://news.ycombinator.com/item?id=46384919) - [Alzheimer’s disease can be reversed in animal models? Study](https://case.edu/news/new-study-shows-alzheimers-disease-can-be-reversed-achieve-full-neurological-recovery-not-just-prevented-or-slowed-animal-models)
 * [2025-12-25, 14:20:29](https://news.ycombinator.com/item?id=46384565) - [Asahi Linux with Sway on the MacBook Air M2 (2024)](https://daniel.lawrence.lu/blog/2024-12-01-asahi-linux-with-sway-on-the-macbook-air-m2/)
 * [2025-12-25, 13:02:46](https://news.ycombinator.com/item?id=46384167) - [Python 3.15’s interpreter for Windows x86-64 should hopefully be 15% faster](https://fidget-spinner.github.io/posts/no-longer-sorry.html)
 * [2025-12-25, 10:35:34](https://news.ycombinator.com/item?id=46383552) - [We invited a man into our home at Christmas and he stayed with us for 45 years](https://www.bbc.co.uk/news/articles/cdxwllqz1l0o)
@@ -29,6 +28,7 @@
 * [2025-12-20, 14:49:39](https://news.ycombinator.com/item?id=46336577) - [The entire New Yorker archive is now digitized](https://www.newyorker.com/news/press-room/the-entire-new-yorker-archive-is-now-fully-digitized)
 * [2025-12-20, 01:00:05](https://news.ycombinator.com/item?id=46332784) - [Lessons from a year of Postgres CDC in production](https://clickhouse.com/blog/postgres-cdc-year-in-review-2025)
 * [2025-12-19, 20:49:54](https://news.ycombinator.com/item?id=46330732) - [CUDA Tile Open Sourced](https://github.com/NVIDIA/cuda-tile)
+* [2025-12-19, 14:48:26](https://news.ycombinator.com/item?id=46326440) - [How to Reproduce This Book with LaTeX](https://github.com/BenjaminGor/Latex_Notes_Tutorial)
 * [2025-12-19, 12:00:30](https://news.ycombinator.com/item?id=46324881) - [Tiled Art](https://tiled.art/en/home/?id=SilverAndGold)
 
 ## [Archives](archives/index.md)
