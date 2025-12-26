@@ -8,7 +8,7 @@
 * [2025-12-26, 12:35:10](https://news.ycombinator.com/item?id=46391448) - [Unix \"find\" expressions compiled to bytecode](https://nullprogram.com/blog/2025/12/23/)
 * [2025-12-26, 12:27:19](https://news.ycombinator.com/item?id=46391410) - [I'm a laptop weirdo and that's why I like my new Framework 13](https://blog.matthewbrunelle.com/im-a-laptop-weirdo-and-thats-why-i-like-my-new-framework-13/)
 * [2025-12-26, 12:22:26](https://news.ycombinator.com/item?id=46391391) - [Codex vs. Claude Code (today)](https://build.ms/2025/12/22/codex-vs-claude-code-today/)
-* [2025-12-26, 11:12:28](https://news.ycombinator.com/item?id=46391077) - [The First Web Server](https://dfarq.homeip.net/the-first-web-server/)
+* [2025-12-26, 11:43:55](https://news.ycombinator.com/item?id=46391220) - [How Postmodernism Killed Great Literature](https://jamesgmartin.center/2025/12/how-postmodernism-killed-great-literature/)
 * [2025-12-26, 09:43:23](https://news.ycombinator.com/item?id=46390667) - [Geometric Algorithms for Translucency Sorting in Minecraft [pdf]](https://douira.dev/assets/document/douira-master-thesis.pdf)
 * [2025-12-26, 07:35:15](https://news.ycombinator.com/item?id=46390055) - [Building an AI agent inside a 7-year-old Rails monolith](https://catalinionescu.dev/ai-agent/building-ai-agent-part-1/)
 * [2025-12-26, 03:19:49](https://news.ycombinator.com/item?id=46388907) - [TurboDiffusion: 100–200× Acceleration for Video Diffusion Models](https://github.com/thu-ml/TurboDiffusion)
