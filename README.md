@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-12-26, 03:18:47](https://news.ycombinator.com/item?id=46388904) - [WiFi DensePose: WiFi-based dense human pose estimation system through walls](https://github.com/ruvnet/wifi-densepose)
 * [2025-12-26, 01:02:53](https://news.ycombinator.com/item?id=46388213) - [MiniMax M2.1: Built for Real-World Complex Tasks, Multi-Language Programming](https://www.minimaxi.com/news/minimax-m21)
 * [2025-12-26, 00:32:15](https://news.ycombinator.com/item?id=46388059) - [When a driver challenges the kernel's assumptions](http://miod.online.fr/software/openbsd/stories/udl.html)
 * [2025-12-26, 00:29:40](https://news.ycombinator.com/item?id=46388040) - [Seven Diabetes Patients Die Due to Undisclosed Bug in Abbott's Glucose Monitors](https://sfconservancy.org/blog/2025/dec/23/seven-abbott-freestyle-libre-cgm-patients-dead/)
@@ -22,13 +23,12 @@
 * [2025-12-22, 19:55:31](https://news.ycombinator.com/item?id=46358211) - [Paperbacks and TikTok](https://calnewport.com/on-paperbacks-and-tiktok/)
 * [2025-12-22, 19:52:10](https://news.ycombinator.com/item?id=46358166) - [The Program 2025 annual review: How much money does an audio drama podcast make?](https://programaudioseries.com/the-program-results-7/)
 * [2025-12-22, 18:52:50](https://news.ycombinator.com/item?id=46357362) - [Archiving Git branches as tags](https://etc.octavore.com/2025/12/archiving-git-branches-as-tags/)
+* [2025-12-21, 13:08:36](https://news.ycombinator.com/item?id=46344573) - [Show HN: Gaming Couch – a local multiplayer party game platform for 8 players](https://gamingcouch.com)
 * [2025-12-20, 14:49:39](https://news.ycombinator.com/item?id=46336577) - [The entire New Yorker archive is now digitized](https://www.newyorker.com/news/press-room/the-entire-new-yorker-archive-is-now-fully-digitized)
-* [2025-12-19, 23:07:01](https://news.ycombinator.com/item?id=46332018) - [Choosing the Right Python Docker Image for Finance Workloads](https://jiripik.com/2025/12/19/choosing-the-right-python-docker-image-for-finance-workloads/)
 * [2025-12-19, 20:49:54](https://news.ycombinator.com/item?id=46330732) - [CUDA Tile Open Sourced](https://github.com/NVIDIA/cuda-tile)
 * [2025-12-19, 12:00:30](https://news.ycombinator.com/item?id=46324881) - [Tiled Art](https://tiled.art/en/home/?id=SilverAndGold)
 * [2025-12-19, 04:53:22](https://news.ycombinator.com/item?id=46322379) - [Reinventing the dial-up modem (2019)](https://saket.me/dtmf-tones/)
 * [2025-12-18, 23:25:46](https://news.ycombinator.com/item?id=46320249) - [Geometric Algorithms for Translucency Sorting in Minecraft [pdf]](https://douira.dev/assets/document/douira-master-thesis.pdf)
-* [2025-12-18, 21:58:50](https://news.ycombinator.com/item?id=46319382) - [The First Photographs of Snowflakes Discover the Groundbreaking Microphotography (2017)](https://www.openculture.com/2017/12/the-first-photographs-of-snowflakes.html)
 * [2025-12-18, 17:14:50](https://news.ycombinator.com/item?id=46315583) - [Toys with the highest play-time and lowest clean-up-time](https://joannabregan.substack.com/p/toys-with-the-highest-play-time-and)
 
 ## [Archives](archives/index.md)

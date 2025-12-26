@@ -46,6 +46,7 @@
 * [2025-12-21, 14:15:24](https://news.ycombinator.com/item?id=46345000) - [Mozilla right now (Digital Painting)](https://www.davidrevoy.com/article1108/mozilla-right-now)
 * [2025-12-21, 13:53:01](https://news.ycombinator.com/item?id=46344845) - [Feds order Washington power plant to keep burning coal](https://washingtonstatestandard.com/2025/12/18/feds-order-wa-power-plant-to-keep-burning-coal-setting-up-clash-with-state/)
 * [2025-12-21, 13:15:28](https://news.ycombinator.com/item?id=46344616) - [Show HN: RenderCV – Open-source CV/resume generator, YAML → PDF](https://github.com/rendercv/rendercv)
+* [2025-12-21, 13:08:36](https://news.ycombinator.com/item?id=46344573) - [Show HN: Gaming Couch – a local multiplayer party game platform for 8 players](https://gamingcouch.com)
 * [2025-12-21, 13:02:29](https://news.ycombinator.com/item?id=46344546) - [Show HN: Mushak – Zero config zero downtime Docker/Compose to server deployment](https://mushak.sh)
 * [2025-12-21, 12:57:44](https://news.ycombinator.com/item?id=46344514) - [Coarse Is Better](https://borretti.me/article/coarse-is-better)
 * [2025-12-21, 12:38:25](https://news.ycombinator.com/item?id=46344412) - [Luke Howard's Essay on the Modification of Clouds (1865)](https://publicdomainreview.org/collection/essay-on-the-modification-of-clouds/)
