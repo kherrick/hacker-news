@@ -52,6 +52,7 @@
 * [2025-12-21, 12:38:25](https://news.ycombinator.com/item?id=46344412) - [Luke Howard's Essay on the Modification of Clouds (1865)](https://publicdomainreview.org/collection/essay-on-the-modification-of-clouds/)
 * [2025-12-21, 12:33:11](https://news.ycombinator.com/item?id=46344381) - [Show HN: Shittp – Volatile Dotfiles over SSH](https://github.com/FOBshippingpoint/shittp)
 * [2025-12-21, 12:15:59](https://news.ycombinator.com/item?id=46344270) - [Show HN: The Official National Train Map Sucked, So I Made My Own](https://www.bdzmap.com/)
+* [2025-12-21, 12:07:44](https://news.ycombinator.com/item?id=46344222) - [An 11-qubit atom processor in silicon with all fidelities from 99.10% to 99.99%](https://www.nature.com/articles/s41586-025-09827-w)
 * [2025-12-21, 11:38:48](https://news.ycombinator.com/item?id=46344104) - [Jingle Bells (Batman Smells): An incomplete festive folk-rhyme taxonomy](https://loreandordure.com/2025/12/16/jingle-bells/)
 * [2025-12-21, 11:21:01](https://news.ycombinator.com/item?id=46344022) - [New mathematical framework reshapes debate over simulation hypothesis](https://www.santafe.edu/news-center/news/new-mathematical-framework-reshapes-debate-over-simulation-hypothesis)
 * [2025-12-21, 11:09:27](https://news.ycombinator.com/item?id=46343976) - [ISBN Visualization Showing 99_959_000 books](https://annas-archive.li/isbn-visualization/)
