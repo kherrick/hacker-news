@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-12-26, 17:06:35",
+      "https://news.ycombinator.com/item?id=46393924"
+    ],
+    [
+      "C/C++ Embedded Files",
+      "https://www.4rknova.com//blog/2013/01/27/cpp-embedded-files"
+    ]
+  ],
+  [
+    [
       "2025-12-26, 15:56:52",
       "https://news.ycombinator.com/item?id=46393271"
     ],
@@ -37,16 +47,6 @@
     [
       "Show HN: Xcc700: Self-hosting mini C compiler for ESP32 (Xtensa) in 700 lines",
       "https://github.com/valdanylchuk/xcc700"
-    ]
-  ],
-  [
-    [
-      "2025-12-26, 14:52:13",
-      "https://news.ycombinator.com/item?id=46392538"
-    ],
-    [
-      "Steve wants us to make the Macintosh boot faster",
-      "https://www.folklore.org/Saving_Lives.html"
     ]
   ],
   [
@@ -261,6 +261,16 @@
   ],
   [
     [
+      "2025-12-20, 15:12:47",
+      "https://news.ycombinator.com/item?id=46336738"
+    ],
+    [
+      "Targeting by Reference in the Shadow DOM",
+      "https://meyerweb.com/eric/thoughts/2025/12/19/targeting-by-reference-in-the-shadow-dom/"
+    ]
+  ],
+  [
+    [
       "2025-12-20, 14:49:39",
       "https://news.ycombinator.com/item?id=46336577"
     ],
@@ -287,16 +297,6 @@
     [
       "How to Reproduce This Book with LaTeX",
       "https://github.com/BenjaminGor/Latex_Notes_Tutorial"
-    ]
-  ],
-  [
-    [
-      "2025-12-19, 12:00:30",
-      "https://news.ycombinator.com/item?id=46324881"
-    ],
-    [
-      "Tiled Art",
-      "https://tiled.art/en/home/?id=SilverAndGold"
     ]
   ]
 ]
