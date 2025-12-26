@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-12-26, 20:44:28](https://news.ycombinator.com/item?id=46396043) - [I Think about Kubernetes](https://garnaudov.com/writings/how-i-think-about-kubernetes/)
-* [2025-12-26, 20:18:02](https://news.ycombinator.com/item?id=46395757) - [NYC phone ban reveals some students can't read clocks](https://gothamist.com/news/nyc-phone-ban-reveals-some-students-cant-read-clocks)
 * [2025-12-26, 19:23:28](https://news.ycombinator.com/item?id=46395273) - [Gaussian Splatting 3 Ways](https://github.com/NullandKale/NullSplats)
 * [2025-12-26, 19:13:22](https://news.ycombinator.com/item?id=46395184) - [My insulin pump controller uses the Linux kernel. It also violates the GPL](https://old.reddit.com/r/linux/comments/1puojsr/the_device_that_controls_my_insulin_pump_uses_the/)
 * [2025-12-26, 19:03:32](https://news.ycombinator.com/item?id=46395106) - [How Lewis Carroll computed determinants](https://www.johndcook.com/blog/2023/07/10/lewis-carroll-determinants/)
@@ -29,6 +28,7 @@
 * [2025-12-22, 07:18:08](https://news.ycombinator.com/item?id=46352016) - [What happened to all the gold Spain got from the New World? (1985)](https://www.straightdope.com/21341789/what-happened-to-all-the-gold-spain-got-from-the-new-world)
 * [2025-12-22, 06:17:32](https://news.ycombinator.com/item?id=46351836) - [Joan Didion and Kurt Vonnegut had something to say. We have it on tape](https://www.nytimes.com/2025/12/19/books/james-baldwin-joan-didion-92ny-recordings.html)
 * [2025-12-20, 15:13:02](https://news.ycombinator.com/item?id=46336743) - [Perfect Aircrete, Kitchen Ingredients [video]](https://www.youtube.com/watch?v=z4_GxPHwqkA)
+* [2025-12-19, 17:51:39](https://news.ycombinator.com/item?id=46328725) - [Parasites plagued Roman soldiers at Hadrian's Wall](https://arstechnica.com/science/2025/12/study-roman-soldiers-battled-parasites-at-hadrians-wall/)
 * [2025-12-19, 14:34:20](https://news.ycombinator.com/item?id=46326281) - [Sandbox: Run untrusted AI code safely, fast](https://github.com/PwnFunction/sandbox)
 
 ## [Archives](archives/index.md)
