@@ -34,6 +34,7 @@
 * [2025-12-20, 15:55:01](https://news.ycombinator.com/item?id=46337026) - [Brothers are taking down Claude Code with OSS CLI](https://github.com/blackboxaicode/cli)
 * [2025-12-20, 15:43:15](https://news.ycombinator.com/item?id=46336947) - [Go ahead, self-host Postgres](https://pierce.dev/notes/go-ahead-self-host-postgres#user-content-fn-1)
 * [2025-12-20, 15:34:05](https://news.ycombinator.com/item?id=46336892) - [DotMeow – A fun domain with a serious mission](https://www.dotmeow.org)
+* [2025-12-20, 15:13:02](https://news.ycombinator.com/item?id=46336743) - [Perfect Aircrete, Kitchen Ingredients [video]](https://www.youtube.com/watch?v=z4_GxPHwqkA)
 * [2025-12-20, 15:12:47](https://news.ycombinator.com/item?id=46336738) - [Targeting by Reference in the Shadow DOM](https://meyerweb.com/eric/thoughts/2025/12/19/targeting-by-reference-in-the-shadow-dom/)
 * [2025-12-20, 14:49:39](https://news.ycombinator.com/item?id=46336577) - [The entire New Yorker Archive Is Now Fully Digitized](https://www.newyorker.com/news/press-room/the-entire-new-yorker-archive-is-now-fully-digitized)
 * [2025-12-20, 14:17:13](https://news.ycombinator.com/item?id=46336364) - [The Fisher-Yates shuffle is backward](https://possiblywrong.wordpress.com/2020/12/10/the-fisher-yates-shuffle-is-backward/)
