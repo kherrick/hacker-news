@@ -41,6 +41,7 @@
 * [2025-12-24, 13:27:50](https://news.ycombinator.com/item?id=46375384) - [When Compilers Surprise You](https://xania.org/202512/24-cunning-clang)
 * [2025-12-24, 12:55:19](https://news.ycombinator.com/item?id=46375174) - [I'm returning my Framework 16](https://yorickpeterse.com/articles/im-returning-my-framework-16/)
 * [2025-12-24, 12:04:02](https://news.ycombinator.com/item?id=46374856) - [Avoid Mini-Frameworks](https://laike9m.com/blog/avoid-mini-frameworks,171/)
+* [2025-12-24, 11:08:41](https://news.ycombinator.com/item?id=46374524) - [Migrating my web analytics from Matomo to Umami](https://stanislas.blog/2025/12/migrating-matomo-to-umami-web-analytics/)
 * [2025-12-24, 10:48:24](https://news.ycombinator.com/item?id=46374413) - [The Windows Utility](https://christitus.com/windows-tool/)
 * [2025-12-24, 09:50:52](https://news.ycombinator.com/item?id=46374117) - [Permission Systems for Enterprise That Scale](https://eliocapella.com/blog/permission-systems-for-enterprise/)
 * [2025-12-24, 09:43:34](https://news.ycombinator.com/item?id=46374087) - [US sanctions EU government officials behind the DSA](https://mastodon.social/@fj/115773761468906515)
