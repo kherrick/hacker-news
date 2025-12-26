@@ -1,32 +1,22 @@
 [
   [
     [
+      "2025-12-26, 15:13:21",
+      "https://news.ycombinator.com/item?id=46392815"
+    ],
+    [
+      "High School Student Discovers 1.5M Potential New Astronomical Objects",
+      "https://www.smithsonianmag.com/smart-news/high-school-student-discovers-1-5-million-potential-new-astronomical-objects-by-developing-an-ai-algorithm-180986429/"
+    ]
+  ],
+  [
+    [
       "2025-12-26, 14:08:47",
       "https://news.ycombinator.com/item?id=46392115"
     ],
     [
       "Rob Pike Goes Nuclear over GenAI",
       "https://skyview.social/?url=https%3A%2F%2Fbsky.app%2Fprofile%2Frobpike.io%2Fpost%2F3matwg6w3ic2s&viewtype=tree"
-    ]
-  ],
-  [
-    [
-      "2025-12-26, 13:31:12",
-      "https://news.ycombinator.com/item?id=46391808"
-    ],
-    [
-      "Officials discover a million more documents potentially related to Epstein case",
-      "https://www.bbc.com/news/articles/czdgz84dn35o"
-    ]
-  ],
-  [
-    [
-      "2025-12-26, 13:23:27",
-      "https://news.ycombinator.com/item?id=46391744"
-    ],
-    [
-      "Undefinable yet Indispensable",
-      "https://aeon.co/essays/the-word-religion-resists-definition-but-remains-necessary"
     ]
   ],
   [
@@ -77,16 +67,6 @@
     [
       "I'm a laptop weirdo and that's why I like my new Framework 13",
       "https://blog.matthewbrunelle.com/im-a-laptop-weirdo-and-thats-why-i-like-my-new-framework-13/"
-    ]
-  ],
-  [
-    [
-      "2025-12-26, 12:22:26",
-      "https://news.ycombinator.com/item?id=46391391"
-    ],
-    [
-      "Codex vs. Claude Code (today)",
-      "https://build.ms/2025/12/22/codex-vs-claude-code-today/"
     ]
   ],
   [
@@ -277,6 +257,26 @@
     [
       "Understanding the Northern Lights",
       "https://www.historytoday.com/archive/feature/understanding-northern-lights"
+    ]
+  ],
+  [
+    [
+      "2025-12-20, 01:00:05",
+      "https://news.ycombinator.com/item?id=46332784"
+    ],
+    [
+      "Lessons from a year of Postgres CDC in production",
+      "https://clickhouse.com/blog/postgres-cdc-year-in-review-2025"
+    ]
+  ],
+  [
+    [
+      "2025-12-19, 20:49:54",
+      "https://news.ycombinator.com/item?id=46330732"
+    ],
+    [
+      "CUDA Tile Open Sourced",
+      "https://github.com/NVIDIA/cuda-tile"
     ]
   ],
   [
