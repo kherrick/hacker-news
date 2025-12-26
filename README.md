@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-12-26, 19:13:22](https://news.ycombinator.com/item?id=46395184) - [My insulin pump controller uses the Linux kernel. It also violates the GPL](https://old.reddit.com/r/linux/comments/1puojsr/the_device_that_controls_my_insulin_pump_uses_the/)
 * [2025-12-26, 19:03:32](https://news.ycombinator.com/item?id=46395106) - [Lewis Carroll Computed Determinants](https://www.johndcook.com/blog/2023/07/10/lewis-carroll-determinants/)
 * [2025-12-26, 18:42:13](https://news.ycombinator.com/item?id=46394867) - [Rob Pike got spammed with an AI slop \"act of kindness\"](https://simonwillison.net/2025/Dec/26/slop-acts-of-kindness/)
 * [2025-12-26, 17:48:25](https://news.ycombinator.com/item?id=46394327) - [FFmpeg has issued a DMCA takedown on GitHub](https://twitter.com/FFmpeg/status/2004599109559496984)
@@ -27,7 +28,6 @@
 * [2025-12-21, 13:08:36](https://news.ycombinator.com/item?id=46344573) - [Show HN: Gaming Couch – a local multiplayer party game platform for 8 players](https://gamingcouch.com)
 * [2025-12-21, 12:07:44](https://news.ycombinator.com/item?id=46344222) - [An 11-qubit atom processor in silicon with all fidelities from 99.10% to 99.99%](https://www.nature.com/articles/s41586-025-09827-w)
 * [2025-12-20, 15:13:02](https://news.ycombinator.com/item?id=46336743) - [Perfect Aircrete, Kitchen Ingredients [video]](https://www.youtube.com/watch?v=z4_GxPHwqkA)
-* [2025-12-20, 15:12:47](https://news.ycombinator.com/item?id=46336738) - [Targeting by Reference in the Shadow DOM](https://meyerweb.com/eric/thoughts/2025/12/19/targeting-by-reference-in-the-shadow-dom/)
 * [2025-12-19, 14:48:26](https://news.ycombinator.com/item?id=46326440) - [How to Reproduce This Book with LaTeX](https://github.com/BenjaminGor/Latex_Notes_Tutorial)
 * [2025-12-19, 14:34:20](https://news.ycombinator.com/item?id=46326281) - [Sandbox: Run untrusted AI code safely, fast](https://github.com/PwnFunction/sandbox)
 
