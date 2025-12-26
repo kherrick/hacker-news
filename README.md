@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-12-26, 07:31:39](https://news.ycombinator.com/item?id=46390041) - [Fish-Inspired Filter That Removes over 99% of Microplastics](https://scitechdaily.com/scientists-develop-new-fish-inspired-filter-that-removes-over-99-of-microplastics/)
+* [2025-12-26, 07:35:15](https://news.ycombinator.com/item?id=46390055) - [Building an AI agent inside a 7-year-old Rails monolith](https://catalinionescu.dev/ai-agent/building-ai-agent-part-1/)
 * [2025-12-26, 03:19:49](https://news.ycombinator.com/item?id=46388907) - [TurboDiffusion: 100–200× Acceleration for Video Diffusion Models](https://github.com/thu-ml/TurboDiffusion)
 * [2025-12-26, 02:32:29](https://news.ycombinator.com/item?id=46388700) - [Ultimate-Linux: Userspace for Linux in Pure JavaScript](https://github.com/popovicu/ultimate-linux)
 * [2025-12-26, 01:02:53](https://news.ycombinator.com/item?id=46388213) - [MiniMax M2.1: Built for Real-World Complex Tasks, Multi-Language Programming](https://www.minimaxi.com/news/minimax-m21)
