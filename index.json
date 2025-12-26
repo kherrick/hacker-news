@@ -1,12 +1,42 @@
 [
   [
     [
+      "2025-12-26, 15:56:52",
+      "https://news.ycombinator.com/item?id=46393271"
+    ],
+    [
+      "Show HN: AutoLISP interpreter in Rust/WASM – a CAD workflow invented 33 yrs ago",
+      "https://acadlisp.de/noscript.html"
+    ]
+  ],
+  [
+    [
+      "2025-12-26, 15:55:21",
+      "https://news.ycombinator.com/item?id=46393262"
+    ],
+    [
+      "Show HN: Private blogging and journaling with a simulated audience",
+      "https://tempblog-psi.vercel.app/"
+    ]
+  ],
+  [
+    [
       "2025-12-26, 15:13:21",
       "https://news.ycombinator.com/item?id=46392815"
     ],
     [
       "High School Student Discovers 1.5M Potential New Astronomical Objects",
       "https://www.smithsonianmag.com/smart-news/high-school-student-discovers-1-5-million-potential-new-astronomical-objects-by-developing-an-ai-algorithm-180986429/"
+    ]
+  ],
+  [
+    [
+      "2025-12-26, 14:52:13",
+      "https://news.ycombinator.com/item?id=46392538"
+    ],
+    [
+      "Steve wants us to make the Macintosh boot faster",
+      "https://www.folklore.org/Saving_Lives.html"
     ]
   ],
   [
@@ -77,16 +107,6 @@
     [
       "The First Web Server",
       "https://dfarq.homeip.net/the-first-web-server/"
-    ]
-  ],
-  [
-    [
-      "2025-12-26, 10:22:27",
-      "https://news.ycombinator.com/item?id=46390848"
-    ],
-    [
-      "Calibre adds AI \"discussion\" feature",
-      "https://lwn.net/Articles/1049886/"
     ]
   ],
   [
@@ -191,16 +211,6 @@
   ],
   [
     [
-      "2025-12-22, 11:21:42",
-      "https://news.ycombinator.com/item?id=46353257"
-    ],
-    [
-      "Tachyon: High frequency statistical sampling profiler",
-      "https://docs.python.org/3.15/library/profiling.sampling.html"
-    ]
-  ],
-  [
-    [
       "2025-12-22, 08:23:48",
       "https://news.ycombinator.com/item?id=46352227"
     ],
@@ -211,22 +221,22 @@
   ],
   [
     [
-      "2025-12-22, 07:18:08",
-      "https://news.ycombinator.com/item?id=46352016"
-    ],
-    [
-      "What happened to all the gold Spain got from the New World? (1985)",
-      "https://www.straightdope.com/21341789/what-happened-to-all-the-gold-spain-got-from-the-new-world"
-    ]
-  ],
-  [
-    [
       "2025-12-22, 06:17:32",
       "https://news.ycombinator.com/item?id=46351836"
     ],
     [
       "Joan Didion and Kurt Vonnegut had something to say. We have it on tape",
       "https://www.nytimes.com/2025/12/19/books/james-baldwin-joan-didion-92ny-recordings.html"
+    ]
+  ],
+  [
+    [
+      "2025-12-22, 01:49:02",
+      "https://news.ycombinator.com/item?id=46350510"
+    ],
+    [
+      "Bedlam Cube Solved (ALL 19,186 solutions)",
+      "http://scottkurowski.com/BedlamCube/"
     ]
   ],
   [
@@ -267,16 +277,6 @@
     [
       "Understanding the Northern Lights",
       "https://www.historytoday.com/archive/feature/understanding-northern-lights"
-    ]
-  ],
-  [
-    [
-      "2025-12-20, 01:00:05",
-      "https://news.ycombinator.com/item?id=46332784"
-    ],
-    [
-      "Lessons from a year of Postgres CDC in production",
-      "https://clickhouse.com/blog/postgres-cdc-year-in-review-2025"
     ]
   ],
   [
