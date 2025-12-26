@@ -42,6 +42,7 @@
 * [2025-12-23, 09:54:59](https://news.ycombinator.com/item?id=46363948) - [Are We Loong Yet?](https://areweloongyet.com/en/)
 * [2025-12-23, 09:50:31](https://news.ycombinator.com/item?id=46363921) - [What are the best engineering blogs with real-world depth (no fluff)?](https://news.ycombinator.com/item?id=46363921)
 * [2025-12-23, 09:47:06](https://news.ycombinator.com/item?id=46363901) - [Gimp Source Code](https://gitlab.gnome.org/GNOME/gimp)
+* [2025-12-23, 09:40:37](https://news.ycombinator.com/item?id=46363870) - [Show HN: GeneGuessr – a daily biology web puzzle](https://geneguessr.brinedew.bio/)
 * [2025-12-23, 09:17:42](https://news.ycombinator.com/item?id=46363751) - [Carnap – A formal logic framework for Haskell](https://carnap.io/)
 * [2025-12-23, 07:58:25](https://news.ycombinator.com/item?id=46363360) - [Instant database clones with PostgreSQL 18](https://boringsql.com/posts/instant-database-clones/)
 * [2025-12-23, 07:50:03](https://news.ycombinator.com/item?id=46363319) - [10 years bootstrapped: €6.5M revenue with a team of 13](https://www.datocms.com/blog/a-look-back-at-2025)
