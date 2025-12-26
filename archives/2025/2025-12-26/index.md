@@ -18,6 +18,7 @@
 * [2025-12-26, 11:43:55](https://news.ycombinator.com/item?id=46391220) - [How Postmodernism Killed Great Literature](https://jamesgmartin.center/2025/12/how-postmodernism-killed-great-literature/)
 * [2025-12-26, 11:12:28](https://news.ycombinator.com/item?id=46391077) - [The First Web Server](https://dfarq.homeip.net/the-first-web-server/)
 * [2025-12-26, 11:09:55](https://news.ycombinator.com/item?id=46391064) - [Questions engineers should ask future employers in interviews](https://dollardhingra.substack.com/p/questions-software-engineers-should)
+* [2025-12-26, 10:22:27](https://news.ycombinator.com/item?id=46390848) - [Calibre adds AI \"discussion\" feature](https://lwn.net/Articles/1049886/)
 * [2025-12-26, 09:43:23](https://news.ycombinator.com/item?id=46390667) - [Geometric Algorithms for Translucency Sorting in Minecraft [pdf]](https://douira.dev/assets/document/douira-master-thesis.pdf)
 * [2025-12-26, 07:35:15](https://news.ycombinator.com/item?id=46390055) - [Building an AI agent inside a 7-year-old Rails monolith](https://catalinionescu.dev/ai-agent/building-ai-agent-part-1/)
 * [2025-12-26, 07:31:39](https://news.ycombinator.com/item?id=46390041) - [Fish-Inspired Filter That Removes over 99% of Microplastics](https://scitechdaily.com/scientists-develop-new-fish-inspired-filter-that-removes-over-99-of-microplastics/)

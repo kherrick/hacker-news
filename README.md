@@ -8,6 +8,7 @@
 * [2025-12-26, 12:35:10](https://news.ycombinator.com/item?id=46391448) - [Unix \"find\" expressions compiled to bytecode](https://nullprogram.com/blog/2025/12/23/)
 * [2025-12-26, 12:27:19](https://news.ycombinator.com/item?id=46391410) - [I'm a laptop weirdo and that's why I like my new Framework 13](https://blog.matthewbrunelle.com/im-a-laptop-weirdo-and-thats-why-i-like-my-new-framework-13/)
 * [2025-12-26, 11:12:28](https://news.ycombinator.com/item?id=46391077) - [The First Web Server](https://dfarq.homeip.net/the-first-web-server/)
+* [2025-12-26, 10:22:27](https://news.ycombinator.com/item?id=46390848) - [Calibre adds AI \"discussion\" feature](https://lwn.net/Articles/1049886/)
 * [2025-12-26, 09:43:23](https://news.ycombinator.com/item?id=46390667) - [Geometric Algorithms for Translucency Sorting in Minecraft [pdf]](https://douira.dev/assets/document/douira-master-thesis.pdf)
 * [2025-12-26, 07:35:15](https://news.ycombinator.com/item?id=46390055) - [Building an AI agent inside a 7-year-old Rails monolith](https://catalinionescu.dev/ai-agent/building-ai-agent-part-1/)
 * [2025-12-26, 03:19:49](https://news.ycombinator.com/item?id=46388907) - [TurboDiffusion: 100–200× Acceleration for Video Diffusion Models](https://github.com/thu-ml/TurboDiffusion)
@@ -27,7 +28,6 @@
 * [2025-12-20, 14:49:39](https://news.ycombinator.com/item?id=46336577) - [The entire New Yorker archive is now digitized](https://www.newyorker.com/news/press-room/the-entire-new-yorker-archive-is-now-fully-digitized)
 * [2025-12-20, 05:54:58](https://news.ycombinator.com/item?id=46333940) - [Understanding the Northern Lights](https://www.historytoday.com/archive/feature/understanding-northern-lights)
 * [2025-12-20, 01:00:05](https://news.ycombinator.com/item?id=46332784) - [Lessons from a year of Postgres CDC in production](https://clickhouse.com/blog/postgres-cdc-year-in-review-2025)
-* [2025-12-19, 20:49:54](https://news.ycombinator.com/item?id=46330732) - [CUDA Tile Open Sourced](https://github.com/NVIDIA/cuda-tile)
 * [2025-12-19, 14:48:26](https://news.ycombinator.com/item?id=46326440) - [How to Reproduce This Book with LaTeX](https://github.com/BenjaminGor/Latex_Notes_Tutorial)
 * [2025-12-19, 12:00:30](https://news.ycombinator.com/item?id=46324881) - [Tiled Art](https://tiled.art/en/home/?id=SilverAndGold)
 
