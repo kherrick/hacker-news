@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-12-26, 05:27:05](https://news.ycombinator.com/item?id=46389444) - [Rob Pike Goes Nuclear over GenAI](https://imgur.com/nUJCI3o)
 * [2025-12-26, 03:19:49](https://news.ycombinator.com/item?id=46388907) - [TurboDiffusion: 100–200× Acceleration for Video Diffusion Models](https://github.com/thu-ml/TurboDiffusion)
 * [2025-12-26, 02:32:29](https://news.ycombinator.com/item?id=46388700) - [Ultimate-Linux: Userspace for Linux in Pure JavaScript](https://github.com/popovicu/ultimate-linux)
 * [2025-12-26, 01:02:53](https://news.ycombinator.com/item?id=46388213) - [MiniMax M2.1: Built for Real-World Complex Tasks, Multi-Language Programming](https://www.minimaxi.com/news/minimax-m21)
@@ -16,7 +17,6 @@
 * [2025-12-25, 14:20:29](https://news.ycombinator.com/item?id=46384565) - [Asahi Linux with Sway on the MacBook Air M2 (2024)](https://daniel.lawrence.lu/blog/2024-12-01-asahi-linux-with-sway-on-the-macbook-air-m2/)
 * [2025-12-25, 13:02:46](https://news.ycombinator.com/item?id=46384167) - [Python 3.15’s interpreter for Windows x86-64 should hopefully be 15% faster](https://fidget-spinner.github.io/posts/no-longer-sorry.html)
 * [2025-12-25, 10:35:34](https://news.ycombinator.com/item?id=46383552) - [We invited a man into our home at Christmas and he stayed with us for 45 years](https://www.bbc.co.uk/news/articles/cdxwllqz1l0o)
-* [2025-12-25, 00:10:12](https://news.ycombinator.com/item?id=46380758) - [Who Watches the Waymos? I do [video]](https://www.youtube.com/watch?v=oYU2hAbx_Fc)
 * [2025-12-24, 20:56:53](https://news.ycombinator.com/item?id=46379145) - [Show HN: Lamp Carousel – DIY kinetic sculpture powered by lamp heat (2024)](https://evan.widloski.com/posts/spinners/)
 * [2025-12-23, 17:33:42](https://news.ycombinator.com/item?id=46367224) - [Fabrice Bellard Releases MicroQuickJS](https://github.com/bellard/mquickjs/blob/main/README.md)
 * [2025-12-22, 19:55:31](https://news.ycombinator.com/item?id=46358211) - [Paperbacks and TikTok](https://calnewport.com/on-paperbacks-and-tiktok/)
@@ -25,10 +25,10 @@
 * [2025-12-22, 11:21:42](https://news.ycombinator.com/item?id=46353257) - [Tachyon: High frequency statistical sampling profiler](https://docs.python.org/3.15/library/profiling.sampling.html)
 * [2025-12-21, 13:08:36](https://news.ycombinator.com/item?id=46344573) - [Show HN: Gaming Couch – a local multiplayer party game platform for 8 players](https://gamingcouch.com)
 * [2025-12-20, 14:49:39](https://news.ycombinator.com/item?id=46336577) - [The entire New Yorker archive is now digitized](https://www.newyorker.com/news/press-room/the-entire-new-yorker-archive-is-now-fully-digitized)
+* [2025-12-20, 01:00:05](https://news.ycombinator.com/item?id=46332784) - [Lessons from a year of Postgres CDC in production](https://clickhouse.com/blog/postgres-cdc-year-in-review-2025)
 * [2025-12-19, 20:49:54](https://news.ycombinator.com/item?id=46330732) - [CUDA Tile Open Sourced](https://github.com/NVIDIA/cuda-tile)
 * [2025-12-19, 12:00:30](https://news.ycombinator.com/item?id=46324881) - [Tiled Art](https://tiled.art/en/home/?id=SilverAndGold)
 * [2025-12-19, 04:53:22](https://news.ycombinator.com/item?id=46322379) - [Reinventing the dial-up modem (2019)](https://saket.me/dtmf-tones/)
-* [2025-12-18, 23:25:46](https://news.ycombinator.com/item?id=46320249) - [Geometric Algorithms for Translucency Sorting in Minecraft [pdf]](https://douira.dev/assets/document/douira-master-thesis.pdf)
 * [2025-12-18, 17:14:50](https://news.ycombinator.com/item?id=46315583) - [Toys with the highest play-time and lowest clean-up-time](https://joannabregan.substack.com/p/toys-with-the-highest-play-time-and)
 
 ## [Archives](archives/index.md)
