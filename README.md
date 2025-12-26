@@ -20,7 +20,7 @@
 * [2025-12-26, 03:19:49](https://news.ycombinator.com/item?id=46388907) - [TurboDiffusion: 100–200× Acceleration for Video Diffusion Models](https://github.com/thu-ml/TurboDiffusion)
 * [2025-12-26, 01:02:53](https://news.ycombinator.com/item?id=46388213) - [MiniMax M2.1: Built for Real-World Complex Tasks, Multi-Language Programming](https://www.minimaxi.com/news/minimax-m21)
 * [2025-12-25, 23:13:21](https://news.ycombinator.com/item?id=46387657) - [Maybe the default settings are too high](https://www.raptitude.com/2025/12/maybe-the-default-settings-are-too-high/)
-* [2025-12-25, 13:02:46](https://news.ycombinator.com/item?id=46384167) - [Python 3.15’s interpreter for Windows x86-64 should hopefully be 15% faster](https://fidget-spinner.github.io/posts/no-longer-sorry.html)
+* [2025-12-25, 18:40:14](https://news.ycombinator.com/item?id=46386211) - [Fahrplan – 39C3](https://fahrplan.events.ccc.de/congress/2025/fahrplan/)
 * [2025-12-22, 22:44:25](https://news.ycombinator.com/item?id=46360080) - [Overlooked No More: Inge Lehmann, Who Discovered the Earth's Inner Core](https://www.nytimes.com/2025/12/20/obituaries/inge-lehmann-overlooked.html)
 * [2025-12-22, 19:25:29](https://news.ycombinator.com/item?id=46357814) - [The Algebra of Loans in Rust](https://nadrieril.github.io/blog/2025/12/21/the-algebra-of-loans-in-rust.html)
 * [2025-12-22, 06:17:32](https://news.ycombinator.com/item?id=46351836) - [Joan Didion and Kurt Vonnegut had something to say. We have it on tape](https://www.nytimes.com/2025/12/19/books/james-baldwin-joan-didion-92ny-recordings.html)
