@@ -4,8 +4,12 @@
 
 ### [Archives](../../index.md) for [2025-12-26](index.md)
 
+* [2025-12-26, 17:48:25](https://news.ycombinator.com/item?id=46394327) - [FFmpeg has issued a DMCA takedown on GitHub](https://twitter.com/FFmpeg/status/2004599109559496984)
 * [2025-12-26, 17:37:31](https://news.ycombinator.com/item?id=46394228) - [ICE's interest in high-tech gear raises new questions: 'What is it for?'](https://www.politico.com/news/2025/12/26/ice-high-tech-surveillance-lower-privacy-guardrails-00705401)
+* [2025-12-26, 17:29:31](https://news.ycombinator.com/item?id=46394169) - [A Proclamation Regarding the Restoration of the Em-Dash](https://blog.nawaz.org/posts/2025/Dec/a-proclamation-regarding-the-restoration-of-the-dash/)
+* [2025-12-26, 17:07:53](https://news.ycombinator.com/item?id=46393936) - [Experts Explore New Mushroom Which Causes Fairytale-Like Hallucinations](https://nhmu.utah.edu/articles/experts-explore-new-mushroom-which-causes-fairytale-hallucinations)
 * [2025-12-26, 17:06:35](https://news.ycombinator.com/item?id=46393924) - [C/C++ Embedded Files](https://www.4rknova.com//blog/2013/01/27/cpp-embedded-files)
+* [2025-12-26, 17:04:42](https://news.ycombinator.com/item?id=46393906) - [ZJIT is now available in Ruby 4.0](https://railsatscale.com/2025-12-24-launch-zjit/)
 * [2025-12-26, 15:56:52](https://news.ycombinator.com/item?id=46393271) - [Show HN: AutoLISP interpreter in Rust/WASM – a CAD workflow invented 33 yrs ago](https://acadlisp.de/noscript.html)
 * [2025-12-26, 15:55:21](https://news.ycombinator.com/item?id=46393262) - [Show HN: Private blogging and journaling with a simulated audience](https://tempblog-psi.vercel.app/)
 * [2025-12-26, 15:13:21](https://news.ycombinator.com/item?id=46392815) - [High School Student Discovers 1.5M Potential New Astronomical Objects](https://www.smithsonianmag.com/smart-news/high-school-student-discovers-1-5-million-potential-new-astronomical-objects-by-developing-an-ai-algorithm-180986429/)
