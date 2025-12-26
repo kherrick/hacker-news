@@ -23,6 +23,7 @@
 * [2025-12-21, 18:28:56](https://news.ycombinator.com/item?id=46346958) - [You're Not Burnt Out. You're Existentially Starving](https://neilthanedar.com/youre-not-burnt-out-youre-existentially-starving/)
 * [2025-12-21, 18:19:54](https://news.ycombinator.com/item?id=46346886) - [Day laborers protest noise machines installed at Home Depot](https://www.latimes.com/california/story/2025-12-17/day-laborers-protest-noise-machines-home-depot)
 * [2025-12-21, 18:09:52](https://news.ycombinator.com/item?id=46346796) - [Logging Sucks](https://loggingsucks.com/)
+* [2025-12-21, 17:39:07](https://news.ycombinator.com/item?id=46346546) - [Lofoten Islands Hiking](https://www.switchbacktravel.com/norway/lofoten-islands/hiking)
 * [2025-12-21, 17:38:48](https://news.ycombinator.com/item?id=46346536) - [Mountain home near Aspen, built for monks, sold to Palantir CEO for $120M](https://coloradosun.com/2025/12/19/monastery-sells-palantir-ceo/)
 * [2025-12-21, 17:35:44](https://news.ycombinator.com/item?id=46346510) - [Waymo suspends service in San Francisco as robotaxis stall during blackout](https://techcrunch.com/2025/12/21/waymo-suspends-service-in-san-francisco-as-robotaxis-stall-during-blackout/)
 * [2025-12-21, 17:21:05](https://news.ycombinator.com/item?id=46346391) - [Get an AI code review in 10 seconds](https://oldmanrahul.com/2025/12/19/ai-code-review-trick/)
