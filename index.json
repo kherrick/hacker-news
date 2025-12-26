@@ -81,6 +81,16 @@
   ],
   [
     [
+      "2025-12-26, 10:22:27",
+      "https://news.ycombinator.com/item?id=46390848"
+    ],
+    [
+      "Calibre adds AI \"discussion\" feature",
+      "https://lwn.net/Articles/1049886/"
+    ]
+  ],
+  [
+    [
       "2025-12-26, 09:43:23",
       "https://news.ycombinator.com/item?id=46390667"
     ],
@@ -267,16 +277,6 @@
     [
       "Lessons from a year of Postgres CDC in production",
       "https://clickhouse.com/blog/postgres-cdc-year-in-review-2025"
-    ]
-  ],
-  [
-    [
-      "2025-12-19, 20:49:54",
-      "https://news.ycombinator.com/item?id=46330732"
-    ],
-    [
-      "CUDA Tile Open Sourced",
-      "https://github.com/NVIDIA/cuda-tile"
     ]
   ],
   [
