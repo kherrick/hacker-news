@@ -81,22 +81,22 @@
   ],
   [
     [
-      "2025-12-25, 21:36:48",
-      "https://news.ycombinator.com/item?id=46387192"
-    ],
-    [
-      "Google is 'gradually rolling out' option to change your gmail.com address",
-      "https://9to5google.com/2025/12/24/google-change-gmail-addresses/"
-    ]
-  ],
-  [
-    [
       "2025-12-25, 18:40:14",
       "https://news.ycombinator.com/item?id=46386211"
     ],
     [
       "Fahrplan – 39C3",
       "https://fahrplan.events.ccc.de/congress/2025/fahrplan/"
+    ]
+  ],
+  [
+    [
+      "2025-12-25, 18:06:44",
+      "https://news.ycombinator.com/item?id=46386009"
+    ],
+    [
+      "Critical vulnerability in LangChain – CVE-2025-68664",
+      "https://cyata.ai/blog/langgrinch-langchain-core-cve-2025-68664/"
     ]
   ],
   [
@@ -201,6 +201,16 @@
   ],
   [
     [
+      "2025-12-22, 19:25:29",
+      "https://news.ycombinator.com/item?id=46357814"
+    ],
+    [
+      "The Algebra of Loans in Rust",
+      "https://nadrieril.github.io/blog/2025/12/21/the-algebra-of-loans-in-rust.html"
+    ]
+  ],
+  [
+    [
       "2025-12-22, 18:52:50",
       "https://news.ycombinator.com/item?id=46357362"
     ],
@@ -227,16 +237,6 @@
     [
       "Tachyon: High frequency statistical sampling profiler",
       "https://docs.python.org/3.15/library/profiling.sampling.html"
-    ]
-  ],
-  [
-    [
-      "2025-12-22, 04:00:19",
-      "https://news.ycombinator.com/item?id=46351178"
-    ],
-    [
-      "Show HN: Coderive – Iterating through 1 Quintillion Inside a Loop in just 50ms",
-      "https://github.com/DanexCodr/Coderive"
     ]
   ],
   [
