@@ -7,6 +7,7 @@
 * [2025-12-26, 15:56:52](https://news.ycombinator.com/item?id=46393271) - [Show HN: AutoLISP interpreter in Rust/WASM – a CAD workflow invented 33 yrs ago](https://acadlisp.de/noscript.html)
 * [2025-12-26, 15:55:21](https://news.ycombinator.com/item?id=46393262) - [Show HN: Private blogging and journaling with a simulated audience](https://tempblog-psi.vercel.app/)
 * [2025-12-26, 15:13:21](https://news.ycombinator.com/item?id=46392815) - [High School Student Discovers 1.5M Potential New Astronomical Objects](https://www.smithsonianmag.com/smart-news/high-school-student-discovers-1-5-million-potential-new-astronomical-objects-by-developing-an-ai-algorithm-180986429/)
+* [2025-12-26, 15:07:01](https://news.ycombinator.com/item?id=46392736) - [Show HN: Xcc700: Self-hosting mini C compiler for ESP32 (Xtensa) in 700 lines](https://github.com/valdanylchuk/xcc700)
 * [2025-12-26, 14:52:13](https://news.ycombinator.com/item?id=46392538) - [Steve wants us to make the Macintosh boot faster](https://www.folklore.org/Saving_Lives.html)
 * [2025-12-26, 14:08:47](https://news.ycombinator.com/item?id=46392115) - [Rob Pike Goes Nuclear over GenAI](https://skyview.social/?url=https%3A%2F%2Fbsky.app%2Fprofile%2Frobpike.io%2Fpost%2F3matwg6w3ic2s&viewtype=tree)
 * [2025-12-26, 13:31:12](https://news.ycombinator.com/item?id=46391808) - [Officials discover a million more documents potentially related to Epstein case](https://www.bbc.com/news/articles/czdgz84dn35o)
