@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-12-26, 20:18:02",
+      "https://news.ycombinator.com/item?id=46395757"
+    ],
+    [
+      "NYC phone ban reveals some students can't read clocks",
+      "https://gothamist.com/news/nyc-phone-ban-reveals-some-students-cant-read-clocks"
+    ]
+  ],
+  [
+    [
       "2025-12-26, 19:23:28",
       "https://news.ycombinator.com/item?id=46395273"
     ],
@@ -55,8 +65,18 @@
       "https://news.ycombinator.com/item?id=46394169"
     ],
     [
-      "A Proclamation Regarding the Restoration of the Em-Dash",
+      "A Proclamation Regarding the Restoration of the Dash",
       "https://blog.nawaz.org/posts/2025/Dec/a-proclamation-regarding-the-restoration-of-the-dash/"
+    ]
+  ],
+  [
+    [
+      "2025-12-26, 17:13:07",
+      "https://news.ycombinator.com/item?id=46393992"
+    ],
+    [
+      "How uv got so fast",
+      "https://nesbitt.io/2025/12/26/how-uv-got-so-fast.html"
     ]
   ],
   [
@@ -135,7 +155,7 @@
       "https://news.ycombinator.com/item?id=46392115"
     ],
     [
-      "Rob Pike Goes Nuclear over GenAI",
+      "Rob Pike goes nuclear over GenAI",
       "https://skyview.social/?url=https%3A%2F%2Fbsky.app%2Fprofile%2Frobpike.io%2Fpost%2F3matwg6w3ic2s&viewtype=tree"
     ]
   ],
@@ -161,32 +181,12 @@
   ],
   [
     [
-      "2025-12-26, 12:39:32",
-      "https://news.ycombinator.com/item?id=46391472"
-    ],
-    [
-      "ChatGPT conversations still lack timestamps after years of requests",
-      "https://community.openai.com/t/timestamps-for-chats-in-chatgpt/440107?page=3"
-    ]
-  ],
-  [
-    [
       "2025-12-26, 12:35:10",
       "https://news.ycombinator.com/item?id=46391448"
     ],
     [
       "Unix \"find\" expressions compiled to bytecode",
       "https://nullprogram.com/blog/2025/12/23/"
-    ]
-  ],
-  [
-    [
-      "2025-12-26, 11:12:28",
-      "https://news.ycombinator.com/item?id=46391077"
-    ],
-    [
-      "The First Web Server",
-      "https://dfarq.homeip.net/the-first-web-server/"
     ]
   ],
   [
@@ -201,22 +201,22 @@
   ],
   [
     [
-      "2025-12-26, 07:35:15",
-      "https://news.ycombinator.com/item?id=46390055"
-    ],
-    [
-      "Building an AI agent inside a 7-year-old Rails monolith",
-      "https://catalinionescu.dev/ai-agent/building-ai-agent-part-1/"
-    ]
-  ],
-  [
-    [
       "2025-12-26, 03:19:49",
       "https://news.ycombinator.com/item?id=46388907"
     ],
     [
       "TurboDiffusion: 100–200× Acceleration for Video Diffusion Models",
       "https://github.com/thu-ml/TurboDiffusion"
+    ]
+  ],
+  [
+    [
+      "2025-12-24, 11:08:41",
+      "https://news.ycombinator.com/item?id=46374524"
+    ],
+    [
+      "Migrating my web analytics from Matomo to Umami",
+      "https://stanislas.blog/2025/12/migrating-matomo-to-umami-web-analytics/"
     ]
   ],
   [
