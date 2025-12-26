@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-12-26](index.md)
 
+* [2025-12-26, 03:19:49](https://news.ycombinator.com/item?id=46388907) - [TurboDiffusion: 100–200× Acceleration for Video Diffusion Models](https://github.com/thu-ml/TurboDiffusion)
 * [2025-12-26, 03:18:47](https://news.ycombinator.com/item?id=46388904) - [WiFi DensePose: WiFi-based dense human pose estimation system through walls](https://github.com/ruvnet/wifi-densepose)
 * [2025-12-26, 02:32:29](https://news.ycombinator.com/item?id=46388700) - [Ultimate-Linux: Userspace for Linux in Pure JavaScript](https://github.com/popovicu/ultimate-linux)
 * [2025-12-26, 01:02:53](https://news.ycombinator.com/item?id=46388213) - [MiniMax M2.1: Built for Real-World Complex Tasks, Multi-Language Programming](https://www.minimaxi.com/news/minimax-m21)
