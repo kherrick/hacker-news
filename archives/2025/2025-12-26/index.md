@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-12-26](index.md)
 
 * [2025-12-26, 14:08:47](https://news.ycombinator.com/item?id=46392115) - [Rob Pike Goes Nuclear over GenAI](https://skyview.social/?url=https%3A%2F%2Fbsky.app%2Fprofile%2Frobpike.io%2Fpost%2F3matwg6w3ic2s&viewtype=tree)
+* [2025-12-26, 13:31:12](https://news.ycombinator.com/item?id=46391808) - [Officials discover a million more documents potentially related to Epstein case](https://www.bbc.com/news/articles/czdgz84dn35o)
 * [2025-12-26, 13:23:27](https://news.ycombinator.com/item?id=46391744) - [Undefinable yet Indispensable](https://aeon.co/essays/the-word-religion-resists-definition-but-remains-necessary)
 * [2025-12-26, 12:59:56](https://news.ycombinator.com/item?id=46391599) - [LearnixOS](https://www.learnix-os.com)
 * [2025-12-26, 12:55:16](https://news.ycombinator.com/item?id=46391572) - [Ask HN: What did you read in 2025?](https://news.ycombinator.com/item?id=46391572)
