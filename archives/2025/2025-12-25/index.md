@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-12-25](index.md)
 
+* [2025-12-25, 23:48:08](https://news.ycombinator.com/item?id=46387838) - [No shares in company, but 550 employees received a $240M gift from their owner](https://economictimes.indiatimes.com/magazines/panache/no-shares-in-company-but-550-employees-received-a-240-million-gift-from-their-owner-for-staying-with-him-through-tough-times/articleshow/126175955.cms?from=mdr)
 * [2025-12-25, 23:13:21](https://news.ycombinator.com/item?id=46387657) - [Maybe the Default Settings Are Too High](https://www.raptitude.com/2025/12/maybe-the-default-settings-are-too-high/)
 * [2025-12-25, 21:36:48](https://news.ycombinator.com/item?id=46387192) - [Google is 'gradually rolling out' option to change your gmail.com address](https://9to5google.com/2025/12/24/google-change-gmail-addresses/)
 * [2025-12-25, 21:31:25](https://news.ycombinator.com/item?id=46387164) - [Memory Safety](https://www.memorysafety.org/)
