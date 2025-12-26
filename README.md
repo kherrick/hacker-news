@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-12-26, 20:44:28](https://news.ycombinator.com/item?id=46396043) - [I Think about Kubernetes](https://garnaudov.com/writings/how-i-think-about-kubernetes/)
+* [2025-12-26, 20:44:28](https://news.ycombinator.com/item?id=46396043) - [How I think about Kubernetes](https://garnaudov.com/writings/how-i-think-about-kubernetes/)
 * [2025-12-26, 19:23:28](https://news.ycombinator.com/item?id=46395273) - [Gaussian Splatting 3 Ways](https://github.com/NullandKale/NullSplats)
 * [2025-12-26, 19:13:22](https://news.ycombinator.com/item?id=46395184) - [My insulin pump controller uses the Linux kernel. It also violates the GPL](https://old.reddit.com/r/linux/comments/1puojsr/the_device_that_controls_my_insulin_pump_uses_the/)
 * [2025-12-26, 19:03:32](https://news.ycombinator.com/item?id=46395106) - [How Lewis Carroll computed determinants](https://www.johndcook.com/blog/2023/07/10/lewis-carroll-determinants/)
@@ -14,7 +14,6 @@
 * [2025-12-26, 17:04:42](https://news.ycombinator.com/item?id=46393906) - [ZJIT is now available in Ruby 4.0](https://railsatscale.com/2025-12-24-launch-zjit/)
 * [2025-12-26, 15:56:52](https://news.ycombinator.com/item?id=46393271) - [Show HN: AutoLISP interpreter in Rust/WASM – a CAD workflow invented 33 yrs ago](https://acadlisp.de/noscript.html)
 * [2025-12-26, 15:20:36](https://news.ycombinator.com/item?id=46392910) - [Show HN: Witr – Explain why a process is running on your Linux system](https://github.com/pranshuparmar/witr)
-* [2025-12-26, 15:13:21](https://news.ycombinator.com/item?id=46392815) - [High school student discovers 1.5M potential new astronomical objects](https://www.smithsonianmag.com/smart-news/high-school-student-discovers-1-5-million-potential-new-astronomical-objects-by-developing-an-ai-algorithm-180986429/)
 * [2025-12-26, 15:07:01](https://news.ycombinator.com/item?id=46392736) - [Show HN: Xcc700: Self-hosting mini C compiler for ESP32 (Xtensa) in 700 lines](https://github.com/valdanylchuk/xcc700)
 * [2025-12-26, 14:08:47](https://news.ycombinator.com/item?id=46392115) - [Rob Pike goes nuclear over GenAI](https://skyview.social/?url=https%3A%2F%2Fbsky.app%2Fprofile%2Frobpike.io%2Fpost%2F3matwg6w3ic2s&viewtype=tree)
 * [2025-12-26, 12:59:56](https://news.ycombinator.com/item?id=46391599) - [LearnixOS](https://www.learnix-os.com)
@@ -23,6 +22,7 @@
 * [2025-12-26, 12:35:10](https://news.ycombinator.com/item?id=46391448) - [Unix \"find\" expressions compiled to bytecode](https://nullprogram.com/blog/2025/12/23/)
 * [2025-12-26, 03:19:49](https://news.ycombinator.com/item?id=46388907) - [TurboDiffusion: 100–200× Acceleration for Video Diffusion Models](https://github.com/thu-ml/TurboDiffusion)
 * [2025-12-24, 11:08:41](https://news.ycombinator.com/item?id=46374524) - [Migrating my web analytics from Matomo to Umami](https://stanislas.blog/2025/12/migrating-matomo-to-umami-web-analytics/)
+* [2025-12-23, 14:51:33](https://news.ycombinator.com/item?id=46365726) - [The Best Things and Stuff of 2025](https://blog.fogus.me/2025/12/23/the-best-things-and-stuff-of-2025.html)
 * [2025-12-22, 22:44:25](https://news.ycombinator.com/item?id=46360080) - [Overlooked No More: Inge Lehmann, Who Discovered the Earth's Inner Core](https://www.nytimes.com/2025/12/20/obituaries/inge-lehmann-overlooked.html)
 * [2025-12-22, 19:25:29](https://news.ycombinator.com/item?id=46357814) - [The Algebra of Loans in Rust](https://nadrieril.github.io/blog/2025/12/21/the-algebra-of-loans-in-rust.html)
 * [2025-12-22, 07:18:08](https://news.ycombinator.com/item?id=46352016) - [What happened to all the gold Spain got from the New World? (1985)](https://www.straightdope.com/21341789/what-happened-to-all-the-gold-spain-got-from-the-new-world)
