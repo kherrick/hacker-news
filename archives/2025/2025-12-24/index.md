@@ -52,6 +52,7 @@
 * [2025-12-24, 06:15:57](https://news.ycombinator.com/item?id=46372972) - [CEO killed at industrial site by worker operating forklift](https://www.12onyourside.com/2025/12/23/ceo-killed-industrial-site-by-worker-operating-forklift-while-talking-phone-osha-report-shows/)
 * [2025-12-24, 05:31:45](https://news.ycombinator.com/item?id=46372771) - [Custom Cross Compiler with Nix](https://www.hobson.space/posts/nixcross/)
 * [2025-12-24, 05:26:36](https://news.ycombinator.com/item?id=46372739) - [Dutch Tesla Fleet Goes Bankrupt After Betting on Musk's Self-Driving Promises](https://guessingheadlights.com/dutch-tesla-fleet-goes-bust-after-betting-on-musks-self-driving-promises/)
+* [2025-12-24, 04:43:17](https://news.ycombinator.com/item?id=46372532) - [-tucky](https://languagelog.ldc.upenn.edu/nll/?p=58650)
 * [2025-12-24, 03:34:31](https://news.ycombinator.com/item?id=46372153) - [Don't Become the Machine](https://armeet.bearblog.dev/becoming-the-machine/)
 * [2025-12-24, 02:24:45](https://news.ycombinator.com/item?id=46371776) - [Name That Part: 3D Part Segmentation and Naming](https://name-that-part.github.io/)
 * [2025-12-24, 02:21:42](https://news.ycombinator.com/item?id=46371759) - [Correspondence Between Don Knuth and Peter van Emde Boas on Priority Deques 1977 [pdf]](https://staff.fnwi.uva.nl/p.vanemdeboas/knuthnote.pdf)

@@ -6,6 +6,7 @@
 
 * [2025-12-26, 20:44:28](https://news.ycombinator.com/item?id=46396043) - [I Think about Kubernetes](https://garnaudov.com/writings/how-i-think-about-kubernetes/)
 * [2025-12-26, 20:18:02](https://news.ycombinator.com/item?id=46395757) - [NYC phone ban reveals some students can't read clocks](https://gothamist.com/news/nyc-phone-ban-reveals-some-students-cant-read-clocks)
+* [2025-12-26, 19:25:28](https://news.ycombinator.com/item?id=46395292) - [Grok and the Naked King: The Ultimate Argument Against AI Alignment](https://ibrahimcesar.cloud/blog/grok-and-the-naked-king/)
 * [2025-12-26, 19:23:28](https://news.ycombinator.com/item?id=46395273) - [Gaussian Splatting 3 Ways](https://github.com/NullandKale/NullSplats)
 * [2025-12-26, 19:13:22](https://news.ycombinator.com/item?id=46395184) - [My insulin pump controller uses the Linux kernel. It also violates the GPL](https://old.reddit.com/r/linux/comments/1puojsr/the_device_that_controls_my_insulin_pump_uses_the/)
 * [2025-12-26, 19:03:32](https://news.ycombinator.com/item?id=46395106) - [Lewis Carroll Computed Determinants](https://www.johndcook.com/blog/2023/07/10/lewis-carroll-determinants/)
