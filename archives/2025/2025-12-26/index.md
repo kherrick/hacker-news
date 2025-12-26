@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-12-26](index.md)
 
+* [2025-12-26, 07:31:39](https://news.ycombinator.com/item?id=46390041) - [Fish-Inspired Filter That Removes over 99% of Microplastics](https://scitechdaily.com/scientists-develop-new-fish-inspired-filter-that-removes-over-99-of-microplastics/)
 * [2025-12-26, 06:37:01](https://news.ycombinator.com/item?id=46389715) - [SQLite AI](https://www.sqlite.ai)
 * [2025-12-26, 05:27:05](https://news.ycombinator.com/item?id=46389444) - [Rob Pike Goes Nuclear over GenAI](https://imgur.com/nUJCI3o)
 * [2025-12-26, 03:19:49](https://news.ycombinator.com/item?id=46388907) - [TurboDiffusion: 100–200× Acceleration for Video Diffusion Models](https://github.com/thu-ml/TurboDiffusion)
