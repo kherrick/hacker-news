@@ -141,6 +141,16 @@
   ],
   [
     [
+      "2025-12-27, 06:10:42",
+      "https://news.ycombinator.com/item?id=46399576"
+    ],
+    [
+      "More dynamic cronjobs",
+      "https://george.mand.is/2025/09/more-dynamic-cronjobs/"
+    ]
+  ],
+  [
+    [
       "2025-12-27, 01:16:53",
       "https://news.ycombinator.com/item?id=46398201"
     ],
@@ -287,16 +297,6 @@
     [
       "Faster practical modular inversion",
       "https://purplesyringa.moe/blog/faster-practical-modular-inversion/"
-    ]
-  ],
-  [
-    [
-      "2025-12-20, 11:43:22",
-      "https://news.ycombinator.com/item?id=46335473"
-    ],
-    [
-      "Building a Multi- Site Kubernetes Cluster with BGP Anycast",
-      "https://kyriakos.papadopoulos.tech/posts/multi-site-kubernetes-bgp/"
     ]
   ]
 ]
