@@ -37,6 +37,7 @@
 * [2025-12-23, 14:04:10](https://news.ycombinator.com/item?id=46365398) - [Quake's Player Speed (2017)](https://rome.ro/quakes-player-speed-1)
 * [2025-12-23, 13:59:46](https://news.ycombinator.com/item?id=46365370) - [Deplatforming Backfired](https://reason.com/2025/12/22/deplatforming-backfired/)
 * [2025-12-23, 13:39:47](https://news.ycombinator.com/item?id=46365241) - [Moravec's Paradox and the Robot Olympics](https://www.physicalintelligence.company/blog/olympics)
+* [2025-12-23, 13:18:32](https://news.ycombinator.com/item?id=46365105) - [Show HN: Mysti – Claude, Codex, and Gemini debate your code, then synthesize](https://github.com/DeepMyst/Mysti)
 * [2025-12-23, 12:56:50](https://news.ycombinator.com/item?id=46364973) - [Test, Don't (Just) Verify](https://alperenkeles.com/posts/test-dont-verify/)
 * [2025-12-23, 12:30:21](https://news.ycombinator.com/item?id=46364783) - [Postponed '60 Minutes' segment on Salvadoran prison is streamed by Canadian news](https://www.nbcnews.com/news/us-news/cbs-news-el-salvador-cecot-prison-sharyn-alfonsi-bari-weiss-rcna250618)
 * [2025-12-23, 11:53:19](https://news.ycombinator.com/item?id=46364567) - [Some Junk Theorems in Lean](https://github.com/James-Hanson/junk-theorems-in-lean)

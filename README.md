@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-12-27, 11:57:17](https://news.ycombinator.com/item?id=46401190) - [Splice a Fibre](https://react-networks-lib.rackout.net/fibre)
 * [2025-12-27, 11:05:46](https://news.ycombinator.com/item?id=46400927) - [Cursed Bundler: Using go get to install Ruby Gems](https://nesbitt.io/2025/12/25/cursed-bundler-using-go-get-to-install-ruby-gems.html)
-* [2025-12-27, 09:33:14](https://news.ycombinator.com/item?id=46400490) - [CloudFlare is ruining the internet (for me)](https://www.slashgeek.net/2016/05/17/cloudflare-is-ruining-the-internet-for-me/)
 * [2025-12-27, 08:45:46](https://news.ycombinator.com/item?id=46400251) - [Show HN: Ez FFmpeg – Video editing in plain English](http://npmjs.com/package/ezff)
 * [2025-12-27, 06:10:42](https://news.ycombinator.com/item?id=46399576) - [More dynamic cronjobs](https://george.mand.is/2025/09/more-dynamic-cronjobs/)
 * [2025-12-27, 03:00:00](https://news.ycombinator.com/item?id=46398666) - [Inside the proton, the ‘most complicated thing you could possibly imagine’ (2022)](https://www.quantamagazine.org/inside-the-proton-the-most-complicated-thing-imaginable-20221019/)
@@ -23,13 +23,13 @@
 * [2025-12-23, 17:30:15](https://news.ycombinator.com/item?id=46367195) - [AI Police Reports: Year in Review](https://www.eff.org/deeplinks/2025/12/ai-police-reports-year-review)
 * [2025-12-23, 14:51:33](https://news.ycombinator.com/item?id=46365726) - [The best things and stuff of 2025](https://blog.fogus.me/2025/12/23/the-best-things-and-stuff-of-2025.html)
 * [2025-12-23, 13:39:47](https://news.ycombinator.com/item?id=46365241) - [Moravec's Paradox and the Robot Olympics](https://www.physicalintelligence.company/blog/olympics)
+* [2025-12-23, 13:18:32](https://news.ycombinator.com/item?id=46365105) - [Show HN: Mysti – Claude, Codex, and Gemini debate your code, then synthesize](https://github.com/DeepMyst/Mysti)
 * [2025-12-23, 11:53:19](https://news.ycombinator.com/item?id=46364567) - [Some Junk Theorems in Lean](https://github.com/James-Hanson/junk-theorems-in-lean)
 * [2025-12-22, 14:44:20](https://news.ycombinator.com/item?id=46354492) - [One million (small web) screenshots](https://nry.me/posts/2025-10-09/small-web-screenshots/)
 * [2025-12-22, 05:00:14](https://news.ycombinator.com/item?id=46351457) - [Mruby: Ruby for Embedded Systems](https://github.com/mruby/mruby)
 * [2025-12-21, 20:44:35](https://news.ycombinator.com/item?id=46348251) - [Langjam-Gamejam Devlog: Making a language, compiler, VM and 5 games in 52 hours](https://github.com/Syn-Nine/gar-lang/blob/main/DEVLOG.md)
 * [2025-12-21, 15:29:59](https://news.ycombinator.com/item?id=46345528) - [Intertapes – collection of found cassette tapes from different locations](https://intertapes.net/)
 * [2025-12-20, 13:25:40](https://news.ycombinator.com/item?id=46336019) - [SIMD City: Auto-Vectorisation](https://xania.org/202512/20-simd-city)
-* [2025-12-19, 17:51:39](https://news.ycombinator.com/item?id=46328725) - [Parasites plagued Roman soldiers at Hadrian's Wall](https://arstechnica.com/science/2025/12/study-roman-soldiers-battled-parasites-at-hadrians-wall/)
 
 ## [Archives](archives/index.md)
 
