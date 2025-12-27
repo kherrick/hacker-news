@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-12-27, 20:28:35](https://news.ycombinator.com/item?id=46404957) - [Getting Fired over LinkedIn Account](https://priyatham.in/en/post/linkedin-horror/)
 * [2025-12-27, 20:15:01](https://news.ycombinator.com/item?id=46404848) - [How we lost communication to entertainment](https://ploum.net/2025-12-15-communication-entertainment.html)
 * [2025-12-27, 18:31:27](https://news.ycombinator.com/item?id=46403992) - [Toll roads are spreading in America](https://www.economist.com/united-states/2025/12/18/toll-roads-are-spreading-in-america)
 * [2025-12-27, 18:26:46](https://news.ycombinator.com/item?id=46403955) - [Scientists edited genes in a living person and saved his life](https://www.popularmechanics.com/science/health/a64815804/crispr-therapy/)
@@ -23,11 +22,12 @@
 * [2025-12-26, 17:13:07](https://news.ycombinator.com/item?id=46393992) - [How uv got so fast](https://nesbitt.io/2025/12/26/how-uv-got-so-fast.html)
 * [2025-12-25, 01:21:12](https://news.ycombinator.com/item?id=46381236) - [Love Actually is around Heathrow (2021)](https://www.heathrow.com/latest-news/love-actually-is-all-around-at-heathrow-airport)
 * [2025-12-24, 15:53:41](https://news.ycombinator.com/item?id=46376608) - [Detect memory leaks of C extensions with psutil and psleak](https://gmpy.dev/blog/2025/psutil-heap-introspection-apis)
+* [2025-12-23, 22:38:30](https://news.ycombinator.com/item?id=46370309) - [They made me an offer I couldn't refuse (1997)](https://jens.mooseyard.com/1997/04/13/they-made-me-an-offer-i-couldnt-refuse/)
 * [2025-12-23, 18:59:45](https://news.ycombinator.com/item?id=46368177) - [Clock synchronization is a nightmare](https://arpitbhayani.me/blogs/clock-sync-nightmare/)
 * [2025-12-23, 14:51:33](https://news.ycombinator.com/item?id=46365726) - [The best things and stuff of 2025](https://blog.fogus.me/2025/12/23/the-best-things-and-stuff-of-2025.html)
 * [2025-12-23, 13:18:32](https://news.ycombinator.com/item?id=46365105) - [Show HN: Mysti – Claude, Codex, and Gemini debate your code, then synthesize](https://github.com/DeepMyst/Mysti)
-* [2025-12-23, 11:53:19](https://news.ycombinator.com/item?id=46364567) - [Some Junk Theorems in Lean](https://github.com/James-Hanson/junk-theorems-in-lean)
 * [2025-12-22, 05:00:14](https://news.ycombinator.com/item?id=46351457) - [Mruby: Ruby for Embedded Systems](https://github.com/mruby/mruby)
+* [2025-12-21, 20:44:35](https://news.ycombinator.com/item?id=46348251) - [Langjam-Gamejam Devlog: Making a language, compiler, VM and 5 games in 52 hours](https://github.com/Syn-Nine/gar-lang/blob/main/DEVLOG.md)
 * [2025-12-21, 17:49:36](https://news.ycombinator.com/item?id=46346648) - [Ask HN: Resources to get better at outbound sales?](https://news.ycombinator.com/item?id=46346648)
 * [2025-12-21, 15:29:59](https://news.ycombinator.com/item?id=46345528) - [Intertapes – collection of found cassette tapes from different locations](https://intertapes.net/)
 

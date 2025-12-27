@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-12-23](index.md)
 
 * [2025-12-23, 23:12:03](https://news.ycombinator.com/item?id=46370592) - [Is Northern Virginia Still the Least Reliable AWS Region?](https://statusgator.com/blog/aws-least-reliable-region-in-2025/)
+* [2025-12-23, 22:38:30](https://news.ycombinator.com/item?id=46370309) - [They made me an offer I couldn't refuse (1997)](https://jens.mooseyard.com/1997/04/13/they-made-me-an-offer-i-couldnt-refuse/)
 * [2025-12-23, 22:23:49](https://news.ycombinator.com/item?id=46370180) - [Microspeak: North Star – The Old New Thing](https://devblogs.microsoft.com/oldnewthing/20151103-00/?p=91861)
 * [2025-12-23, 22:03:46](https://news.ycombinator.com/item?id=46370012) - [Texas App Store Age Verification Law Blocked by Federal Judge](https://www.macrumors.com/2025/12/23/texas-app-store-law-blocked/)
 * [2025-12-23, 21:59:28](https://news.ycombinator.com/item?id=46369970) - [Show HN: Claude Wrapped in the terminal, with a WASM raymarcher](https://spader.zone/wrapped/)
