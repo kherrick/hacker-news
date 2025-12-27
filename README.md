@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-12-27, 11:57:17](https://news.ycombinator.com/item?id=46401190) - [Splice a Fibre](https://react-networks-lib.rackout.net/fibre)
-* [2025-12-27, 11:05:46](https://news.ycombinator.com/item?id=46400927) - [Cursed Bundler: Using go get to install Ruby Gems](https://nesbitt.io/2025/12/25/cursed-bundler-using-go-get-to-install-ruby-gems.html)
 * [2025-12-27, 08:45:46](https://news.ycombinator.com/item?id=46400251) - [Show HN: Ez FFmpeg – Video editing in plain English](http://npmjs.com/package/ezff)
 * [2025-12-27, 06:10:42](https://news.ycombinator.com/item?id=46399576) - [More dynamic cronjobs](https://george.mand.is/2025/09/more-dynamic-cronjobs/)
 * [2025-12-27, 03:00:00](https://news.ycombinator.com/item?id=46398666) - [Inside the proton, the ‘most complicated thing you could possibly imagine’ (2022)](https://www.quantamagazine.org/inside-the-proton-the-most-complicated-thing-imaginable-20221019/)
 * [2025-12-27, 01:16:53](https://news.ycombinator.com/item?id=46398201) - [QNX Self-Hosted Developer Desktop](https://devblog.qnx.com/qnx-self-hosted-developer-desktop-initial-release/)
+* [2025-12-27, 01:11:05](https://news.ycombinator.com/item?id=46398170) - [The battle to stop clever people betting](https://www.economist.com/christmas-specials/2025/12/18/the-battle-to-stop-clever-people-betting)
 * [2025-12-27, 00:43:04](https://news.ycombinator.com/item?id=46397991) - [Publishing your work increases your luck](https://github.com/readme/guides/publishing-your-work)
 * [2025-12-26, 23:42:46](https://news.ycombinator.com/item?id=46397609) - [Exe.dev](https://exe.dev/)
 * [2025-12-26, 23:09:40](https://news.ycombinator.com/item?id=46397379) - [Always bet on text (2014)](https://graydon2.dreamwidth.org/193447.html)
@@ -17,7 +17,6 @@
 * [2025-12-26, 15:20:36](https://news.ycombinator.com/item?id=46392910) - [Show HN: Witr – Explain why a process is running on your Linux system](https://github.com/pranshuparmar/witr)
 * [2025-12-26, 15:07:01](https://news.ycombinator.com/item?id=46392736) - [Show HN: Xcc700: Self-hosting mini C compiler for ESP32 (Xtensa) in 700 lines](https://github.com/valdanylchuk/xcc700)
 * [2025-12-26, 12:59:56](https://news.ycombinator.com/item?id=46391599) - [LearnixOS](https://www.learnix-os.com)
-* [2025-12-26, 12:55:16](https://news.ycombinator.com/item?id=46391572) - [Ask HN: What did you read in 2025?](https://news.ycombinator.com/item?id=46391572)
 * [2025-12-26, 12:46:36](https://news.ycombinator.com/item?id=46391514) - [Package managers keep using Git as a database, it never works out](https://nesbitt.io/2025/12/24/package-managers-keep-using-git-as-a-database.html)
 * [2025-12-23, 21:42:36](https://news.ycombinator.com/item?id=46369808) - [Researchers develop a camera that can focus on different distances at once](https://engineering.cmu.edu/news-events/news/2025/12/19-perfect-shot.html)
 * [2025-12-23, 17:30:15](https://news.ycombinator.com/item?id=46367195) - [AI Police Reports: Year in Review](https://www.eff.org/deeplinks/2025/12/ai-police-reports-year-review)
@@ -29,6 +28,7 @@
 * [2025-12-22, 05:00:14](https://news.ycombinator.com/item?id=46351457) - [Mruby: Ruby for Embedded Systems](https://github.com/mruby/mruby)
 * [2025-12-21, 20:44:35](https://news.ycombinator.com/item?id=46348251) - [Langjam-Gamejam Devlog: Making a language, compiler, VM and 5 games in 52 hours](https://github.com/Syn-Nine/gar-lang/blob/main/DEVLOG.md)
 * [2025-12-21, 15:29:59](https://news.ycombinator.com/item?id=46345528) - [Intertapes – collection of found cassette tapes from different locations](https://intertapes.net/)
+* [2025-12-21, 03:13:48](https://news.ycombinator.com/item?id=46341904) - [Faster Practical Modular Inversion](https://purplesyringa.moe/blog/faster-practical-modular-inversion/)
 * [2025-12-20, 13:25:40](https://news.ycombinator.com/item?id=46336019) - [SIMD City: Auto-Vectorisation](https://xania.org/202512/20-simd-city)
 
 ## [Archives](archives/index.md)
