@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-12-27, 12:51:15",
+      "https://news.ycombinator.com/item?id=46401499"
+    ],
+    [
+      "OrangePi 6 Plus Review: The New Frontier for ARM64 SBC Performance",
+      "https://boilingsteam.com/orange-pi-6-plus-review/"
+    ]
+  ],
+  [
+    [
       "2025-12-27, 11:57:17",
       "https://news.ycombinator.com/item?id=46401190"
     ],
@@ -137,16 +147,6 @@
     [
       "Show HN: Witr – Explain why a process is running on your Linux system",
       "https://github.com/pranshuparmar/witr"
-    ]
-  ],
-  [
-    [
-      "2025-12-26, 15:07:01",
-      "https://news.ycombinator.com/item?id=46392736"
-    ],
-    [
-      "Show HN: Xcc700: Self-hosting mini C compiler for ESP32 (Xtensa) in 700 lines",
-      "https://github.com/valdanylchuk/xcc700"
     ]
   ],
   [
