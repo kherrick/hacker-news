@@ -91,16 +91,6 @@
   ],
   [
     [
-      "2025-12-26, 20:28:53",
-      "https://news.ycombinator.com/item?id=46395885"
-    ],
-    [
-      "Toys with the highest play-time and lowest clean-up-time",
-      "https://joannabregan.substack.com/p/toys-with-the-highest-play-time-and"
-    ]
-  ],
-  [
-    [
       "2025-12-26, 20:27:50",
       "https://news.ycombinator.com/item?id=46395871"
     ],
@@ -177,6 +167,16 @@
     [
       "Package managers keep using Git as a database, it never works out",
       "https://nesbitt.io/2025/12/24/package-managers-keep-using-git-as-a-database.html"
+    ]
+  ],
+  [
+    [
+      "2025-12-24, 15:53:41",
+      "https://news.ycombinator.com/item?id=46376608"
+    ],
+    [
+      "Detect memory leaks of C extensions with psutil and psleak",
+      "https://gmpy.dev/blog/2025/psutil-heap-introspection-apis"
     ]
   ],
   [
@@ -285,7 +285,7 @@
       "https://news.ycombinator.com/item?id=46341904"
     ],
     [
-      "Faster Practical Modular Inversion",
+      "Faster practical modular inversion",
       "https://purplesyringa.moe/blog/faster-practical-modular-inversion/"
     ]
   ],
