@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-12-27, 13:13:00](https://news.ycombinator.com/item?id=46401612) - [Floor796](https://floor796.com/)
 * [2025-12-27, 12:58:12](https://news.ycombinator.com/item?id=46401539) - [Apple releases open-source model that instantly turns 2D photos into 3D views](https://github.com/apple/ml-sharp)
 * [2025-12-27, 12:51:15](https://news.ycombinator.com/item?id=46401499) - [OrangePi 6 Plus Review: The New Frontier for ARM64 SBC Performance](https://boilingsteam.com/orange-pi-6-plus-review/)
 * [2025-12-27, 11:57:17](https://news.ycombinator.com/item?id=46401190) - [Splice a Fibre](https://react-networks-lib.rackout.net/fibre)
@@ -29,7 +30,6 @@
 * [2025-12-21, 15:29:59](https://news.ycombinator.com/item?id=46345528) - [Intertapes – collection of found cassette tapes from different locations](https://intertapes.net/)
 * [2025-12-21, 03:13:48](https://news.ycombinator.com/item?id=46341904) - [Faster practical modular inversion](https://purplesyringa.moe/blog/faster-practical-modular-inversion/)
 * [2025-12-20, 14:53:24](https://news.ycombinator.com/item?id=46336604) - [An exploration of playing three generations of windows games on macOS](https://carette.xyz/posts/deep_dive_into_crossover/)
-* [2025-12-20, 13:25:40](https://news.ycombinator.com/item?id=46336019) - [SIMD City: Auto-Vectorisation](https://xania.org/202512/20-simd-city)
 
 ## [Archives](archives/index.md)
 
