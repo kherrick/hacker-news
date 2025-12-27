@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-12-27, 01:45:37](https://news.ycombinator.com/item?id=46398339) - [Retreating from EVs could be hazardous for Western carmakers](https://www.economist.com/business/2025/12/17/retreating-from-evs-could-be-hazardous-for-western-carmakers)
 * [2025-12-27, 01:16:53](https://news.ycombinator.com/item?id=46398201) - [QNX Self-Hosted Developer Desktop](https://devblog.qnx.com/qnx-self-hosted-developer-desktop-initial-release/)
+* [2025-12-27, 00:43:04](https://news.ycombinator.com/item?id=46397991) - [Publishing your work increases your luck](https://github.com/readme/guides/publishing-your-work)
 * [2025-12-26, 23:09:40](https://news.ycombinator.com/item?id=46397379) - [Always Bet on Text](https://graydon2.dreamwidth.org/193447.html)
 * [2025-12-26, 20:27:50](https://news.ycombinator.com/item?id=46395871) - [T-Ruby is Ruby with syntax for types](https://type-ruby.github.io/)
 * [2025-12-26, 19:23:28](https://news.ycombinator.com/item?id=46395273) - [Gaussian Splatting 3 Ways](https://github.com/NullandKale/NullSplats)
@@ -9,7 +11,6 @@
 * [2025-12-26, 18:59:39](https://news.ycombinator.com/item?id=46395061) - [Drawing with zero-width characters](https://zw.swerdlow.dev)
 * [2025-12-26, 18:17:00](https://news.ycombinator.com/item?id=46394620) - [MongoBleed](https://github.com/joe-desimone/mongobleed/blob/main/mongobleed.py)
 * [2025-12-26, 17:48:25](https://news.ycombinator.com/item?id=46394327) - [FFmpeg has issued a DMCA takedown on GitHub](https://twitter.com/FFmpeg/status/2004599109559496984)
-* [2025-12-26, 17:29:31](https://news.ycombinator.com/item?id=46394169) - [A Proclamation Regarding the Restoration of the Dash](https://blog.nawaz.org/posts/2025/Dec/a-proclamation-regarding-the-restoration-of-the-dash/)
 * [2025-12-26, 17:13:07](https://news.ycombinator.com/item?id=46393992) - [How uv got so fast](https://nesbitt.io/2025/12/26/how-uv-got-so-fast.html)
 * [2025-12-26, 17:07:53](https://news.ycombinator.com/item?id=46393936) - [Experts explore new mushroom which causes fairytale-like hallucinations](https://nhmu.utah.edu/articles/experts-explore-new-mushroom-which-causes-fairytale-hallucinations)
 * [2025-12-26, 15:20:36](https://news.ycombinator.com/item?id=46392910) - [Show HN: Witr – Explain why a process is running on your Linux system](https://github.com/pranshuparmar/witr)
@@ -26,10 +27,9 @@
 * [2025-12-22, 19:25:29](https://news.ycombinator.com/item?id=46357814) - [The Algebra of Loans in Rust](https://nadrieril.github.io/blog/2025/12/21/the-algebra-of-loans-in-rust.html)
 * [2025-12-22, 14:44:20](https://news.ycombinator.com/item?id=46354492) - [One million (small web) screenshots](https://nry.me/posts/2025-10-09/small-web-screenshots/)
 * [2025-12-22, 07:18:08](https://news.ycombinator.com/item?id=46352016) - [What happened to all the gold Spain got from the New World? (1985)](https://www.straightdope.com/21341789/what-happened-to-all-the-gold-spain-got-from-the-new-world)
-* [2025-12-21, 11:17:47](https://news.ycombinator.com/item?id=46344009) - [A Knapsack Public Key Cryptosystem Based on Arithmetic in Finite Fields (1988) [pdf]](https://people.csail.mit.edu/rivest/pubs/CR88.pdf)
 * [2025-12-20, 15:13:02](https://news.ycombinator.com/item?id=46336743) - [Perfect Aircrete, Kitchen Ingredients [video]](https://www.youtube.com/watch?v=z4_GxPHwqkA)
+* [2025-12-20, 13:25:40](https://news.ycombinator.com/item?id=46336019) - [SIMD City: Auto-Vectorisation](https://xania.org/202512/20-simd-city)
 * [2025-12-19, 17:51:39](https://news.ycombinator.com/item?id=46328725) - [Parasites plagued Roman soldiers at Hadrian's Wall](https://arstechnica.com/science/2025/12/study-roman-soldiers-battled-parasites-at-hadrians-wall/)
-* [2025-12-19, 14:34:20](https://news.ycombinator.com/item?id=46326281) - [Sandbox: Run untrusted AI code safely, fast](https://github.com/PwnFunction/sandbox)
 
 ## [Archives](archives/index.md)
 
