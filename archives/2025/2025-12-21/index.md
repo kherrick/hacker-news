@@ -36,6 +36,7 @@
 * [2025-12-21, 16:13:59](https://news.ycombinator.com/item?id=46345835) - [DNS4EU Blocks Blog.fefe.de](https://news.ycombinator.com/item?id=46345835)
 * [2025-12-21, 16:04:05](https://news.ycombinator.com/item?id=46345745) - [Show HN: WalletWallet – create Apple passes from anything](https://walletwallet.alen.ro/)
 * [2025-12-21, 15:57:22](https://news.ycombinator.com/item?id=46345692) - [RAG accuracy jumped from 10% to 60% when I added outcome scoring](https://roampal.ai/blog-ai-learns.html)
+* [2025-12-21, 15:29:59](https://news.ycombinator.com/item?id=46345528) - [Intertapes – collection of found cassette tapes from different locations](https://intertapes.net/)
 * [2025-12-21, 15:29:31](https://news.ycombinator.com/item?id=46345523) - [E.W.Dijkstra Archive](https://www.cs.utexas.edu/~EWD/welcome.html)
 * [2025-12-21, 15:27:36](https://news.ycombinator.com/item?id=46345506) - [CO2 Batteries That Store Grid Energy Take Off Globally](https://spectrum.ieee.org/co2-battery-energy-storage)
 * [2025-12-21, 15:19:41](https://news.ycombinator.com/item?id=46345444) - [ARIN Public Incident Report – 4.10 Misissuance Error](https://www.arin.net/announcements/20251212/)
