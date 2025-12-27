@@ -111,16 +111,6 @@
   ],
   [
     [
-      "2025-12-26, 19:13:22",
-      "https://news.ycombinator.com/item?id=46395184"
-    ],
-    [
-      "My insulin pump controller uses the Linux kernel. It also violates the GPL",
-      "https://old.reddit.com/r/linux/comments/1puojsr/the_device_that_controls_my_insulin_pump_uses_the/"
-    ]
-  ],
-  [
-    [
       "2025-12-26, 19:03:32",
       "https://news.ycombinator.com/item?id=46395106"
     ],
@@ -247,6 +237,16 @@
     [
       "Moravec's Paradox and the Robot Olympics",
       "https://www.physicalintelligence.company/blog/olympics"
+    ]
+  ],
+  [
+    [
+      "2025-12-23, 11:53:19",
+      "https://news.ycombinator.com/item?id=46364567"
+    ],
+    [
+      "Some Junk Theorems in Lean",
+      "https://github.com/James-Hanson/junk-theorems-in-lean"
     ]
   ],
   [
