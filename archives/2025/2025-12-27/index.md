@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-12-27](index.md)
 
+* [2025-12-27, 23:16:55](https://news.ycombinator.com/item?id=46406486) - [Show HN: Waycore – an open-source, offline-first modular field computer](https://news.ycombinator.com/item?id=46406486)
 * [2025-12-27, 22:41:22](https://news.ycombinator.com/item?id=46406129) - [The Dangers of SSL Certificates](https://surfingcomplexity.blog/2025/12/27/the-dangers-of-ssl-certificates/)
 * [2025-12-27, 22:21:10](https://news.ycombinator.com/item?id=46405927) - [Yanis Varoufakis on the future of capitalism [video]](https://www.youtube.com/watch?v=P_TMuVQPfxw)
 * [2025-12-27, 21:36:27](https://news.ycombinator.com/item?id=46405481) - [How We Found Out About COINTELPRO](https://monthlyreview.org/articles/how-we-found-out-about-cointelpro/)
