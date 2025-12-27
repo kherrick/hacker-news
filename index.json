@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2025-12-27, 15:41:50",
+      "https://news.ycombinator.com/item?id=46402609"
+    ],
+    [
+      "New York to require social media platforms to display mental health warnings",
+      "https://www.reuters.com/legal/litigation/new-york-require-social-media-platforms-display-mental-health-warnings-2025-12-26/"
+    ]
+  ],
+  [
+    [
       "2025-12-27, 15:02:30",
       "https://news.ycombinator.com/item?id=46402327"
     ],
@@ -27,16 +37,6 @@
     [
       "NMH BASIC",
       "https://t3x.org/nmhbasic/index.html"
-    ]
-  ],
-  [
-    [
-      "2025-12-27, 13:47:16",
-      "https://news.ycombinator.com/item?id=46401832"
-    ],
-    [
-      "Show HN: An immutable ostree-based Arch Linux image",
-      "https://github.com/myyc/vyy"
     ]
   ],
   [
@@ -151,16 +151,6 @@
   ],
   [
     [
-      "2025-12-26, 19:03:32",
-      "https://news.ycombinator.com/item?id=46395106"
-    ],
-    [
-      "How Lewis Carroll computed determinants (2023)",
-      "https://www.johndcook.com/blog/2023/07/10/lewis-carroll-determinants/"
-    ]
-  ],
-  [
-    [
       "2025-12-26, 17:13:07",
       "https://news.ycombinator.com/item?id=46393992"
     ],
@@ -207,6 +197,16 @@
     [
       "Detect memory leaks of C extensions with psutil and psleak",
       "https://gmpy.dev/blog/2025/psutil-heap-introspection-apis"
+    ]
+  ],
+  [
+    [
+      "2025-12-24, 01:50:36",
+      "https://news.ycombinator.com/item?id=46371606"
+    ],
+    [
+      "Tieredsort: Header only, blazing fast (3-4x) C++17 sorting for numeric types",
+      "https://github.com/Cranot/tieredsort"
     ]
   ],
   [
