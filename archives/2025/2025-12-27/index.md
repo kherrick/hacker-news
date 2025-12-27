@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-12-27](index.md)
 
+* [2025-12-27, 17:16:08](https://news.ycombinator.com/item?id=46403291) - [Janet Jackson had the power to crash laptop computers (2022)](https://devblogs.microsoft.com/oldnewthing/20220816-00/?p=106994)
 * [2025-12-27, 17:05:50](https://news.ycombinator.com/item?id=46403200) - [Gpg.fail](https://gpg.fail)
 * [2025-12-27, 16:51:01](https://news.ycombinator.com/item?id=46403073) - [VSCode rebrands as \"The open source AI code editor\"](https://code.visualstudio.com)
 * [2025-12-27, 16:48:18](https://news.ycombinator.com/item?id=46403048) - [This PNG shows a different version when opened in Chrome than in an image viewer](https://lr0.org/blog/p/pngchanges/)
