@@ -39,6 +39,7 @@
 * [2025-12-23, 13:39:47](https://news.ycombinator.com/item?id=46365241) - [Moravec's Paradox and the Robot Olympics](https://www.physicalintelligence.company/blog/olympics)
 * [2025-12-23, 12:56:50](https://news.ycombinator.com/item?id=46364973) - [Test, Don't (Just) Verify](https://alperenkeles.com/posts/test-dont-verify/)
 * [2025-12-23, 12:30:21](https://news.ycombinator.com/item?id=46364783) - [Postponed '60 Minutes' segment on Salvadoran prison is streamed by Canadian news](https://www.nbcnews.com/news/us-news/cbs-news-el-salvador-cecot-prison-sharyn-alfonsi-bari-weiss-rcna250618)
+* [2025-12-23, 11:53:19](https://news.ycombinator.com/item?id=46364567) - [Some Junk Theorems in Lean](https://github.com/James-Hanson/junk-theorems-in-lean)
 * [2025-12-23, 11:07:42](https://news.ycombinator.com/item?id=46364338) - [What Is (AI) Glaze?](https://glaze.cs.uchicago.edu/what-is-glaze.html)
 * [2025-12-23, 10:53:07](https://news.ycombinator.com/item?id=46364272) - [Ryanair fined €256M over ‘abusive strategy’ to limit ticket sales by OTAs](https://www.theguardian.com/business/2025/dec/23/ryanair-fined-limit-online-travel-agencies-ticket-sales-ota)
 * [2025-12-23, 10:28:09](https://news.ycombinator.com/item?id=46364131) - [Font with Built-In Syntax Highlighting (2024)](https://blog.glyphdrawing.club/font-with-built-in-syntax-highlighting/)
