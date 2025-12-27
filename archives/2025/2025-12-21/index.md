@@ -15,6 +15,7 @@
 * [2025-12-21, 20:55:15](https://news.ycombinator.com/item?id=46348329) - [A Guide to Local Coding Models](https://www.aiforswes.com/p/you-dont-need-to-spend-100mo-on-claude)
 * [2025-12-21, 20:53:34](https://news.ycombinator.com/item?id=46348318) - [More on whether useful quantum computing is \"imminent\"](https://scottaaronson.blog/?p=9425)
 * [2025-12-21, 20:46:02](https://news.ycombinator.com/item?id=46348262) - [Rue: Higher level than Rust, lower level than Go](https://rue-lang.dev/)
+* [2025-12-21, 20:44:35](https://news.ycombinator.com/item?id=46348251) - [Langjam-Gamejam Devlog: Making a language, compiler, VM and 5 games in 52 hours](https://github.com/Syn-Nine/gar-lang/blob/main/DEVLOG.md)
 * [2025-12-21, 20:40:00](https://news.ycombinator.com/item?id=46348207) - [Why did we use leaded petrol for so long? (2017)](https://www.bbc.com/news/business-40593353)
 * [2025-12-21, 20:16:33](https://news.ycombinator.com/item?id=46348004) - [Redis vs. BoltCache](https://github.com/wutlu/boltcache)
 * [2025-12-21, 19:58:11](https://news.ycombinator.com/item?id=46347846) - [Weight loss jabs: What happens when you stop taking them](https://www.bbc.com/news/articles/cn98pdpyjz5o)
