@@ -16,6 +16,7 @@
 * [2025-12-27, 17:16:08](https://news.ycombinator.com/item?id=46403291) - [Janet Jackson had the power to crash laptop computers (2022)](https://devblogs.microsoft.com/oldnewthing/20220816-00/?p=106994)
 * [2025-12-27, 17:14:06](https://news.ycombinator.com/item?id=46403276) - [USD Share as Global Reserve Currency Drops to Lowest Since 1994](https://wolfstreet.com/2025/12/26/status-of-the-us-dollar-as-global-reserve-currency-usd-share-drops-to-lowest-since-1994/)
 * [2025-12-27, 17:05:50](https://news.ycombinator.com/item?id=46403200) - [Gpg.fail](https://gpg.fail)
+* [2025-12-27, 16:57:36](https://news.ycombinator.com/item?id=46403128) - [Employee commits suicide after MongoDB fired her during mental health leave](https://www.linkedin.com/posts/gsurman_our-beloved-irreplaceable-daughter-annie-activity-7407842359826120704-kFaq)
 * [2025-12-27, 16:51:01](https://news.ycombinator.com/item?id=46403073) - [VSCode rebrands as \"The open source AI code editor\"](https://code.visualstudio.com)
 * [2025-12-27, 16:48:18](https://news.ycombinator.com/item?id=46403048) - [This PNG shows a different version when opened in Chrome than in an image viewer](https://lr0.org/blog/p/pngchanges/)
 * [2025-12-27, 16:47:13](https://news.ycombinator.com/item?id=46403041) - [Nvidia Just Paid $20B for a Company That Missed Its Revenue Target by 75%](https://blog.drjoshcsimmons.com/p/nvidia-just-paid-20-billion-for-a)

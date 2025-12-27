@@ -10,6 +10,7 @@
 * [2025-12-27, 17:16:08](https://news.ycombinator.com/item?id=46403291) - [Janet Jackson had the power to crash laptop computers (2022)](https://devblogs.microsoft.com/oldnewthing/20220816-00/?p=106994)
 * [2025-12-27, 17:14:06](https://news.ycombinator.com/item?id=46403276) - [USD share as global reserve currency drops to lowest since 1994](https://wolfstreet.com/2025/12/26/status-of-the-us-dollar-as-global-reserve-currency-usd-share-drops-to-lowest-since-1994/)
 * [2025-12-27, 17:05:50](https://news.ycombinator.com/item?id=46403200) - [Gpg.fail](https://gpg.fail)
+* [2025-12-27, 16:57:36](https://news.ycombinator.com/item?id=46403128) - [Employee commits suicide after MongoDB fired her during mental health leave](https://www.linkedin.com/posts/gsurman_our-beloved-irreplaceable-daughter-annie-activity-7407842359826120704-kFaq)
 * [2025-12-27, 14:05:44](https://news.ycombinator.com/item?id=46401938) - [NMH BASIC](https://t3x.org/nmhbasic/index.html)
 * [2025-12-27, 13:13:00](https://news.ycombinator.com/item?id=46401612) - [Floor796](https://floor796.com/)
 * [2025-12-27, 12:51:15](https://news.ycombinator.com/item?id=46401499) - [OrangePi 6 Plus Review](https://boilingsteam.com/orange-pi-6-plus-review/)
@@ -27,7 +28,6 @@
 * [2025-12-23, 14:51:33](https://news.ycombinator.com/item?id=46365726) - [The best things and stuff of 2025](https://blog.fogus.me/2025/12/23/the-best-things-and-stuff-of-2025.html)
 * [2025-12-23, 13:18:32](https://news.ycombinator.com/item?id=46365105) - [Show HN: Mysti – Claude, Codex, and Gemini debate your code, then synthesize](https://github.com/DeepMyst/Mysti)
 * [2025-12-22, 05:00:14](https://news.ycombinator.com/item?id=46351457) - [Mruby: Ruby for Embedded Systems](https://github.com/mruby/mruby)
-* [2025-12-21, 20:44:35](https://news.ycombinator.com/item?id=46348251) - [Langjam-Gamejam Devlog: Making a language, compiler, VM and 5 games in 52 hours](https://github.com/Syn-Nine/gar-lang/blob/main/DEVLOG.md)
 * [2025-12-21, 17:49:36](https://news.ycombinator.com/item?id=46346648) - [Ask HN: Resources to get better at outbound sales?](https://news.ycombinator.com/item?id=46346648)
 * [2025-12-21, 15:29:59](https://news.ycombinator.com/item?id=46345528) - [Intertapes – collection of found cassette tapes from different locations](https://intertapes.net/)
 
