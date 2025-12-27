@@ -1,11 +1,41 @@
 [
   [
     [
+      "2025-12-27, 20:28:35",
+      "https://news.ycombinator.com/item?id=46404957"
+    ],
+    [
+      "Getting Fired over LinkedIn Account",
+      "https://priyatham.in/en/post/linkedin-horror/"
+    ]
+  ],
+  [
+    [
+      "2025-12-27, 20:15:01",
+      "https://news.ycombinator.com/item?id=46404848"
+    ],
+    [
+      "How we lost communication to entertainment",
+      "https://ploum.net/2025-12-15-communication-entertainment.html"
+    ]
+  ],
+  [
+    [
+      "2025-12-27, 19:54:28",
+      "https://news.ycombinator.com/item?id=46404673"
+    ],
+    [
+      "U.S. decision to impose travel restrictions on EU individuals",
+      "https://ec.europa.eu/commission/presscorner/detail/en/statement_25_3160"
+    ]
+  ],
+  [
+    [
       "2025-12-27, 18:26:46",
       "https://news.ycombinator.com/item?id=46403955"
     ],
     [
-      "Scientists Edited Genes Inside a Living Person for First Time, Saved His Life",
+      "Scientists edited genes in a living person and saved his life",
       "https://www.popularmechanics.com/science/health/a64815804/crispr-therapy/"
     ]
   ],
@@ -25,7 +55,7 @@
       "https://news.ycombinator.com/item?id=46403741"
     ],
     [
-      "Cleartext Signatures Considered Harmful",
+      "Cleartext signatures considered harmful",
       "https://gnupg.org/blog/20251226-cleartext-signatures.html"
     ]
   ],
@@ -35,7 +65,7 @@
       "https://news.ycombinator.com/item?id=46403559"
     ],
     [
-      "Nvidia's $20B Antitrust Loophole (Not an Acquisition)",
+      "Nvidia's $20B antitrust loophole",
       "https://ossa-ma.github.io/blog/groq"
     ]
   ],
@@ -61,16 +91,6 @@
   ],
   [
     [
-      "2025-12-27, 16:48:18",
-      "https://news.ycombinator.com/item?id=46403048"
-    ],
-    [
-      "This PNG shows a different version when loaded in Chrome than in Safari",
-      "https://lr0.org/blog/p/pngchanges/"
-    ]
-  ],
-  [
-    [
       "2025-12-27, 14:05:44",
       "https://news.ycombinator.com/item?id=46401938"
     ],
@@ -87,16 +107,6 @@
     [
       "Floor796",
       "https://floor796.com/"
-    ]
-  ],
-  [
-    [
-      "2025-12-27, 12:58:12",
-      "https://news.ycombinator.com/item?id=46401539"
-    ],
-    [
-      "Apple releases open-source model that instantly turns 2D photos into 3D views",
-      "https://github.com/apple/ml-sharp"
     ]
   ],
   [
@@ -191,12 +201,12 @@
   ],
   [
     [
-      "2025-12-26, 12:46:36",
-      "https://news.ycombinator.com/item?id=46391514"
+      "2025-12-25, 01:21:12",
+      "https://news.ycombinator.com/item?id=46381236"
     ],
     [
-      "Package managers keep using Git as a database, it never works out",
-      "https://nesbitt.io/2025/12/24/package-managers-keep-using-git-as-a-database.html"
+      "Love Actually is around Heathrow (2021)",
+      "https://www.heathrow.com/latest-news/love-actually-is-all-around-at-heathrow-airport"
     ]
   ],
   [
@@ -215,7 +225,7 @@
       "https://news.ycombinator.com/item?id=46368177"
     ],
     [
-      "Clock Synchronization Is a Nightmare",
+      "Clock synchronization is a nightmare",
       "https://arpitbhayani.me/blogs/clock-sync-nightmare/"
     ]
   ],
@@ -287,16 +297,6 @@
     [
       "Intertapes – collection of found cassette tapes from different locations",
       "https://intertapes.net/"
-    ]
-  ],
-  [
-    [
-      "2025-12-21, 03:13:48",
-      "https://news.ycombinator.com/item?id=46341904"
-    ],
-    [
-      "Faster practical modular inversion",
-      "https://purplesyringa.moe/blog/faster-practical-modular-inversion/"
     ]
   ]
 ]
