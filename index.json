@@ -1,12 +1,42 @@
 [
   [
     [
+      "2025-12-27, 17:05:50",
+      "https://news.ycombinator.com/item?id=46403200"
+    ],
+    [
+      "Gpg.fail",
+      "https://gpg.fail"
+    ]
+  ],
+  [
+    [
+      "2025-12-27, 16:51:01",
+      "https://news.ycombinator.com/item?id=46403073"
+    ],
+    [
+      "VSCode rebrands as \"The open source AI code editor\"",
+      "https://code.visualstudio.com"
+    ]
+  ],
+  [
+    [
       "2025-12-27, 16:48:18",
       "https://news.ycombinator.com/item?id=46403048"
     ],
     [
-      "This PNG shows a different version when opened in Chrome than in an image viewer",
+      "This PNG shows a different version when loaded in Chrome than in Safari",
       "https://lr0.org/blog/p/pngchanges/"
+    ]
+  ],
+  [
+    [
+      "2025-12-27, 16:47:13",
+      "https://news.ycombinator.com/item?id=46403041"
+    ],
+    [
+      "Nvidia Just Paid $20B for a Company That Missed Its Revenue Target by 75%",
+      "https://blog.drjoshcsimmons.com/p/nvidia-just-paid-20-billion-for-a"
     ]
   ],
   [
@@ -71,16 +101,6 @@
   ],
   [
     [
-      "2025-12-27, 12:51:15",
-      "https://news.ycombinator.com/item?id=46401499"
-    ],
-    [
-      "OrangePi 6 Plus Review: The New Frontier for ARM64 SBC Performance",
-      "https://boilingsteam.com/orange-pi-6-plus-review/"
-    ]
-  ],
-  [
-    [
       "2025-12-27, 11:57:17",
       "https://news.ycombinator.com/item?id=46401190"
     ],
@@ -117,6 +137,16 @@
     [
       "More dynamic cronjobs",
       "https://george.mand.is/2025/09/more-dynamic-cronjobs/"
+    ]
+  ],
+  [
+    [
+      "2025-12-27, 03:00:00",
+      "https://news.ycombinator.com/item?id=46398666"
+    ],
+    [
+      "Inside the proton, the ‘most complicated thing you could possibly imagine’ (2022)",
+      "https://www.quantamagazine.org/inside-the-proton-the-most-complicated-thing-imaginable-20221019/"
     ]
   ],
   [
@@ -201,16 +231,6 @@
   ],
   [
     [
-      "2025-12-24, 01:50:36",
-      "https://news.ycombinator.com/item?id=46371606"
-    ],
-    [
-      "Tieredsort: Header only, blazing fast (3-4x) C++17 sorting for numeric types",
-      "https://github.com/Cranot/tieredsort"
-    ]
-  ],
-  [
-    [
       "2025-12-23, 14:51:33",
       "https://news.ycombinator.com/item?id=46365726"
     ],
@@ -227,16 +247,6 @@
     [
       "Show HN: Mysti – Claude, Codex, and Gemini debate your code, then synthesize",
       "https://github.com/DeepMyst/Mysti"
-    ]
-  ],
-  [
-    [
-      "2025-12-22, 14:44:20",
-      "https://news.ycombinator.com/item?id=46354492"
-    ],
-    [
-      "One million (small web) screenshots",
-      "https://nry.me/posts/2025-10-09/small-web-screenshots/"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Faster practical modular inversion",
       "https://purplesyringa.moe/blog/faster-practical-modular-inversion/"
-    ]
-  ],
-  [
-    [
-      "2025-12-20, 14:53:24",
-      "https://news.ycombinator.com/item?id=46336604"
-    ],
-    [
-      "An exploration of playing three generations of windows games on macOS",
-      "https://carette.xyz/posts/deep_dive_into_crossover/"
     ]
   ]
 ]
