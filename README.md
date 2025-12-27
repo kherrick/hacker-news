@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-12-27, 18:31:27](https://news.ycombinator.com/item?id=46403992) - [Toll roads are spreading in America](https://www.economist.com/united-states/2025/12/18/toll-roads-are-spreading-in-america)
 * [2025-12-27, 18:26:46](https://news.ycombinator.com/item?id=46403955) - [Scientists Edited Genes Inside a Living Person for First Time, Saved His Life](https://www.popularmechanics.com/science/health/a64815804/crispr-therapy/)
 * [2025-12-27, 18:22:05](https://news.ycombinator.com/item?id=46403915) - [Windows 2 for the Apricot PC/Xi](https://www.ninakalinina.com/notes/win2apri/)
 * [2025-12-27, 18:03:42](https://news.ycombinator.com/item?id=46403741) - [Cleartext Signatures Considered Harmful](https://gnupg.org/blog/20251226-cleartext-signatures.html)
@@ -25,6 +24,7 @@
 * [2025-12-23, 14:51:33](https://news.ycombinator.com/item?id=46365726) - [The best things and stuff of 2025](https://blog.fogus.me/2025/12/23/the-best-things-and-stuff-of-2025.html)
 * [2025-12-23, 13:18:32](https://news.ycombinator.com/item?id=46365105) - [Show HN: Mysti – Claude, Codex, and Gemini debate your code, then synthesize](https://github.com/DeepMyst/Mysti)
 * [2025-12-23, 11:53:19](https://news.ycombinator.com/item?id=46364567) - [Some Junk Theorems in Lean](https://github.com/James-Hanson/junk-theorems-in-lean)
+* [2025-12-23, 11:36:57](https://news.ycombinator.com/item?id=46364482) - [Reflections and rantings from a system design interviewer](https://www.calvinbarker.com/blog/reflections-and-rantings-from-a-system-design-interviewer)
 * [2025-12-22, 05:00:14](https://news.ycombinator.com/item?id=46351457) - [Mruby: Ruby for Embedded Systems](https://github.com/mruby/mruby)
 * [2025-12-21, 20:44:35](https://news.ycombinator.com/item?id=46348251) - [Langjam-Gamejam Devlog: Making a language, compiler, VM and 5 games in 52 hours](https://github.com/Syn-Nine/gar-lang/blob/main/DEVLOG.md)
 * [2025-12-21, 17:49:36](https://news.ycombinator.com/item?id=46346648) - [Ask HN: Resources to get better at outbound sales?](https://news.ycombinator.com/item?id=46346648)
