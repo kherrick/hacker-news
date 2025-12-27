@@ -77,6 +77,7 @@
 * [2025-12-22, 07:25:43](https://news.ycombinator.com/item?id=46352047) - [QBasic64 Phoenix 4.3.0 Released](https://qb64phoenix.com/forum/showthread.php?tid=4244)
 * [2025-12-22, 07:18:08](https://news.ycombinator.com/item?id=46352016) - [What happened to all the gold Spain got from the New World? (1985)](https://www.straightdope.com/21341789/what-happened-to-all-the-gold-spain-got-from-the-new-world)
 * [2025-12-22, 07:13:33](https://news.ycombinator.com/item?id=46352004) - [I announced my divorce on Instagram and then AI impersonated me](https://eiratansey.com/2025/12/20/i-announced-my-divorce-on-instagram-and-then-ai-impersonated-me/)
+* [2025-12-22, 06:40:24](https://news.ycombinator.com/item?id=46351905) - [Reverse Engineering Hyperliquid](https://blog.can.ac/2025/12/20/reverse-engineering-hyperliquid/)
 * [2025-12-22, 06:17:32](https://news.ycombinator.com/item?id=46351836) - [Joan Didion and Kurt Vonnegut had something to say. We have it on tape](https://www.nytimes.com/2025/12/19/books/james-baldwin-joan-didion-92ny-recordings.html)
 * [2025-12-22, 05:38:33](https://news.ycombinator.com/item?id=46351666) - [CSRF protection without tokens or hidden form fields](https://blog.miguelgrinberg.com/post/csrf-protection-without-tokens-or-hidden-form-fields)
 * [2025-12-22, 05:28:42](https://news.ycombinator.com/item?id=46351625) - [A Child in the State of Nature](https://lareviewofbooks.org/article/a-child-in-the-state-of-nature/)
