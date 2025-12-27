@@ -10,6 +10,7 @@
 * [2025-12-23, 21:59:28](https://news.ycombinator.com/item?id=46369970) - [Show HN: Claude Wrapped in the terminal, with a WASM raymarcher](https://spader.zone/wrapped/)
 * [2025-12-23, 21:54:30](https://news.ycombinator.com/item?id=46369923) - [X-ray: a Python library for finding bad redactions in PDF documents](https://github.com/freelawproject/x-ray)
 * [2025-12-23, 21:47:33](https://news.ycombinator.com/item?id=46369860) - [I didn't realize my LG TV was spying on me until I turned off this setting](https://www.pocket-lint.com/lg-tv-turn-off-live-plus/)
+* [2025-12-23, 21:42:36](https://news.ycombinator.com/item?id=46369808) - [Researchers develop a camera that can focus on different distances at once](https://engineering.cmu.edu/news-events/news/2025/12/19-perfect-shot.html)
 * [2025-12-23, 20:54:40](https://news.ycombinator.com/item?id=46369356) - [Fuck You, I Won't Use Tailwind](https://fuckyouiwontusetailwind.com)
 * [2025-12-23, 20:10:30](https://news.ycombinator.com/item?id=46368946) - [Some Epstein file redactions are being undone with hacks](https://www.theguardian.com/us-news/2025/dec/23/epstein-unredacted-files-social-media)
 * [2025-12-23, 19:59:19](https://news.ycombinator.com/item?id=46368827) - [Pantograph: Building a preschool for robots](https://pantograph.com/blog/building-a-preschool-for-robots.html)
