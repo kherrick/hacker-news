@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-12-27, 12:58:12",
+      "https://news.ycombinator.com/item?id=46401539"
+    ],
+    [
+      "Apple releases open-source model that instantly turns 2D photos into 3D views",
+      "https://github.com/apple/ml-sharp"
+    ]
+  ],
+  [
+    [
       "2025-12-27, 12:51:15",
       "https://news.ycombinator.com/item?id=46401499"
     ],
@@ -27,6 +37,16 @@
     [
       "Show HN: Ez FFmpeg – Video editing in plain English",
       "http://npmjs.com/package/ezff"
+    ]
+  ],
+  [
+    [
+      "2025-12-27, 08:42:45",
+      "https://news.ycombinator.com/item?id=46400242"
+    ],
+    [
+      "Verdichtung",
+      "https://alexeygy.github.io/blog/verdichtung/"
     ]
   ],
   [
@@ -91,16 +111,6 @@
   ],
   [
     [
-      "2025-12-26, 20:27:50",
-      "https://news.ycombinator.com/item?id=46395871"
-    ],
-    [
-      "T-Ruby is Ruby with syntax for types",
-      "https://type-ruby.github.io/"
-    ]
-  ],
-  [
-    [
       "2025-12-26, 19:03:32",
       "https://news.ycombinator.com/item?id=46395106"
     ],
@@ -137,16 +147,6 @@
     [
       "Show HN: Witr – Explain why a process is running on your Linux system",
       "https://github.com/pranshuparmar/witr"
-    ]
-  ],
-  [
-    [
-      "2025-12-26, 15:07:01",
-      "https://news.ycombinator.com/item?id=46392736"
-    ],
-    [
-      "Show HN: Xcc700: Self-hosting mini C compiler for ESP32 (Xtensa) in 700 lines",
-      "https://github.com/valdanylchuk/xcc700"
     ]
   ],
   [
