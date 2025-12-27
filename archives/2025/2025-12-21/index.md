@@ -56,6 +56,7 @@
 * [2025-12-21, 12:07:44](https://news.ycombinator.com/item?id=46344222) - [An 11-qubit atom processor in silicon with all fidelities from 99.10% to 99.99%](https://www.nature.com/articles/s41586-025-09827-w)
 * [2025-12-21, 11:38:48](https://news.ycombinator.com/item?id=46344104) - [Jingle Bells (Batman Smells): An incomplete festive folk-rhyme taxonomy](https://loreandordure.com/2025/12/16/jingle-bells/)
 * [2025-12-21, 11:21:01](https://news.ycombinator.com/item?id=46344022) - [New mathematical framework reshapes debate over simulation hypothesis](https://www.santafe.edu/news-center/news/new-mathematical-framework-reshapes-debate-over-simulation-hypothesis)
+* [2025-12-21, 11:17:47](https://news.ycombinator.com/item?id=46344009) - [A Knapsack Public Key Cryptosystem Based on Arithmetic in Finite Fields (1988) [pdf]](https://people.csail.mit.edu/rivest/pubs/CR88.pdf)
 * [2025-12-21, 11:09:27](https://news.ycombinator.com/item?id=46343976) - [ISBN Visualization Showing 99_959_000 books](https://annas-archive.li/isbn-visualization/)
 * [2025-12-21, 10:49:52](https://news.ycombinator.com/item?id=46343894) - [I rebuilt FlashAttention in Triton to understand the performance archaeology](https://aminediro.com/posts/flash_attn/)
 * [2025-12-21, 07:26:39](https://news.ycombinator.com/item?id=46342950) - [Inca Stone Masonry](https://www.earthasweknowit.com/pages/inca_construction)
