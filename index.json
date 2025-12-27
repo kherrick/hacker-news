@@ -1,12 +1,32 @@
 [
   [
     [
+      "2025-12-27, 01:45:37",
+      "https://news.ycombinator.com/item?id=46398339"
+    ],
+    [
+      "Retreating from EVs could be hazardous for Western carmakers",
+      "https://www.economist.com/business/2025/12/17/retreating-from-evs-could-be-hazardous-for-western-carmakers"
+    ]
+  ],
+  [
+    [
       "2025-12-27, 01:16:53",
       "https://news.ycombinator.com/item?id=46398201"
     ],
     [
       "QNX Self-Hosted Developer Desktop",
       "https://devblog.qnx.com/qnx-self-hosted-developer-desktop-initial-release/"
+    ]
+  ],
+  [
+    [
+      "2025-12-27, 00:43:04",
+      "https://news.ycombinator.com/item?id=46397991"
+    ],
+    [
+      "Publishing your work increases your luck",
+      "https://github.com/readme/guides/publishing-your-work"
     ]
   ],
   [
@@ -87,16 +107,6 @@
     [
       "FFmpeg has issued a DMCA takedown on GitHub",
       "https://twitter.com/FFmpeg/status/2004599109559496984"
-    ]
-  ],
-  [
-    [
-      "2025-12-26, 17:29:31",
-      "https://news.ycombinator.com/item?id=46394169"
-    ],
-    [
-      "A Proclamation Regarding the Restoration of the Dash",
-      "https://blog.nawaz.org/posts/2025/Dec/a-proclamation-regarding-the-restoration-of-the-dash/"
     ]
   ],
   [
@@ -261,16 +271,6 @@
   ],
   [
     [
-      "2025-12-21, 11:17:47",
-      "https://news.ycombinator.com/item?id=46344009"
-    ],
-    [
-      "A Knapsack Public Key Cryptosystem Based on Arithmetic in Finite Fields (1988) [pdf]",
-      "https://people.csail.mit.edu/rivest/pubs/CR88.pdf"
-    ]
-  ],
-  [
-    [
       "2025-12-20, 15:13:02",
       "https://news.ycombinator.com/item?id=46336743"
     ],
@@ -281,22 +281,22 @@
   ],
   [
     [
+      "2025-12-20, 13:25:40",
+      "https://news.ycombinator.com/item?id=46336019"
+    ],
+    [
+      "SIMD City: Auto-Vectorisation",
+      "https://xania.org/202512/20-simd-city"
+    ]
+  ],
+  [
+    [
       "2025-12-19, 17:51:39",
       "https://news.ycombinator.com/item?id=46328725"
     ],
     [
       "Parasites plagued Roman soldiers at Hadrian's Wall",
       "https://arstechnica.com/science/2025/12/study-roman-soldiers-battled-parasites-at-hadrians-wall/"
-    ]
-  ],
-  [
-    [
-      "2025-12-19, 14:34:20",
-      "https://news.ycombinator.com/item?id=46326281"
-    ],
-    [
-      "Sandbox: Run untrusted AI code safely, fast",
-      "https://github.com/PwnFunction/sandbox"
     ]
   ]
 ]
