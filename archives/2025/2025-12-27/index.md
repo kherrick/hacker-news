@@ -5,6 +5,9 @@
 ### [Archives](../../index.md) for [2025-12-27](index.md)
 
 * [2025-12-27, 21:36:27](https://news.ycombinator.com/item?id=46405481) - [How We Found Out About COINTELPRO](https://monthlyreview.org/articles/how-we-found-out-about-cointelpro/)
+* [2025-12-27, 21:22:44](https://news.ycombinator.com/item?id=46405375) - [In 1995, a Netscape employee wrote a hack in 10 days that now runs the Internet](https://arstechnica.com/gadgets/2025/12/in-1995-a-netscape-employee-wrote-a-hack-in-10-days-that-now-runs-the-internet/)
+* [2025-12-27, 21:15:14](https://news.ycombinator.com/item?id=46405306) - [Richard Stallman at the First Hackers Conference in 1984 [video]](https://www.youtube.com/watch?v=Hf2pfzzWPYE)
+* [2025-12-27, 21:06:47](https://news.ycombinator.com/item?id=46405235) - [An Ounce of Silver Is Now Worth More Than a Barrel of Oil](https://www.wsj.com/finance/commodities-futures/an-ounce-of-silver-is-now-worth-more-than-a-barrel-of-oil-196e149e)
 * [2025-12-27, 21:01:09](https://news.ycombinator.com/item?id=46405183) - [White House pushes to dismantle leading climate and weather research center](https://www.pbs.org/newshour/show/white-house-pushes-to-dismantle-leading-climate-and-weather-research-center)
 * [2025-12-27, 20:28:35](https://news.ycombinator.com/item?id=46404957) - [Getting Fired over LinkedIn Account](https://priyatham.in/en/post/linkedin-horror/)
 * [2025-12-27, 20:28:07](https://news.ycombinator.com/item?id=46404952) - ['Off Switch' Discovery Could Help Clear Our Brains of a Common Parasite](https://www.sciencealert.com/off-switch-discovery-could-help-clear-our-brains-of-a-common-parasite)
