@@ -81,6 +81,7 @@
 * [2025-12-22, 06:17:32](https://news.ycombinator.com/item?id=46351836) - [Joan Didion and Kurt Vonnegut had something to say. We have it on tape](https://www.nytimes.com/2025/12/19/books/james-baldwin-joan-didion-92ny-recordings.html)
 * [2025-12-22, 05:38:33](https://news.ycombinator.com/item?id=46351666) - [CSRF protection without tokens or hidden form fields](https://blog.miguelgrinberg.com/post/csrf-protection-without-tokens-or-hidden-form-fields)
 * [2025-12-22, 05:28:42](https://news.ycombinator.com/item?id=46351625) - [A Child in the State of Nature](https://lareviewofbooks.org/article/a-child-in-the-state-of-nature/)
+* [2025-12-22, 05:00:14](https://news.ycombinator.com/item?id=46351457) - [Mruby: Ruby for Embedded Systems](https://github.com/mruby/mruby)
 * [2025-12-22, 04:50:17](https://news.ycombinator.com/item?id=46351408) - [A middle-class family's only option: A $43,000 health insurance premium](https://www.washingtonpost.com/health/2025/12/21/obamacare-monopolies-subsidies/)
 * [2025-12-22, 04:34:36](https://news.ycombinator.com/item?id=46351345) - [Cursed circuits #3: true mathematics](https://lcamtuf.substack.com/p/cursed-circuits-3-true-mathematics)
 * [2025-12-22, 04:04:04](https://news.ycombinator.com/item?id=46351196) - [Your Inbox Is a Bandit](https://parentheticallyspeaking.org/articles/bandit-inbox/)
