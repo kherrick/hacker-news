@@ -1,22 +1,22 @@
 [
   [
     [
+      "2025-12-27, 11:57:17",
+      "https://news.ycombinator.com/item?id=46401190"
+    ],
+    [
+      "Splice a Fibre",
+      "https://react-networks-lib.rackout.net/fibre"
+    ]
+  ],
+  [
+    [
       "2025-12-27, 11:05:46",
       "https://news.ycombinator.com/item?id=46400927"
     ],
     [
       "Cursed Bundler: Using go get to install Ruby Gems",
       "https://nesbitt.io/2025/12/25/cursed-bundler-using-go-get-to-install-ruby-gems.html"
-    ]
-  ],
-  [
-    [
-      "2025-12-27, 09:33:14",
-      "https://news.ycombinator.com/item?id=46400490"
-    ],
-    [
-      "CloudFlare is ruining the internet (for me)",
-      "https://www.slashgeek.net/2016/05/17/cloudflare-is-ruining-the-internet-for-me/"
     ]
   ],
   [
@@ -231,6 +231,16 @@
   ],
   [
     [
+      "2025-12-23, 13:18:32",
+      "https://news.ycombinator.com/item?id=46365105"
+    ],
+    [
+      "Show HN: Mysti – Claude, Codex, and Gemini debate your code, then synthesize",
+      "https://github.com/DeepMyst/Mysti"
+    ]
+  ],
+  [
+    [
       "2025-12-23, 11:53:19",
       "https://news.ycombinator.com/item?id=46364567"
     ],
@@ -287,16 +297,6 @@
     [
       "SIMD City: Auto-Vectorisation",
       "https://xania.org/202512/20-simd-city"
-    ]
-  ],
-  [
-    [
-      "2025-12-19, 17:51:39",
-      "https://news.ycombinator.com/item?id=46328725"
-    ],
-    [
-      "Parasites plagued Roman soldiers at Hadrian's Wall",
-      "https://arstechnica.com/science/2025/12/study-roman-soldiers-battled-parasites-at-hadrians-wall/"
     ]
   ]
 ]
