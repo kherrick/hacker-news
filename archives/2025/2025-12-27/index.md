@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-12-27](index.md)
 
+* [2025-12-27, 21:01:09](https://news.ycombinator.com/item?id=46405183) - [White House pushes to dismantle leading climate and weather research center](https://www.pbs.org/newshour/show/white-house-pushes-to-dismantle-leading-climate-and-weather-research-center)
 * [2025-12-27, 20:28:35](https://news.ycombinator.com/item?id=46404957) - [Getting Fired over LinkedIn Account](https://priyatham.in/en/post/linkedin-horror/)
 * [2025-12-27, 20:15:01](https://news.ycombinator.com/item?id=46404848) - [How we lost communication to entertainment](https://ploum.net/2025-12-15-communication-entertainment.html)
 * [2025-12-27, 19:54:28](https://news.ycombinator.com/item?id=46404673) - [U.S. decision to impose travel restrictions on EU individuals](https://ec.europa.eu/commission/presscorner/detail/en/statement_25_3160)
