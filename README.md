@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-12-27, 06:10:42](https://news.ycombinator.com/item?id=46399576) - [More Dynamic Cronjobs](https://george.mand.is/2025/09/more-dynamic-cronjobs/)
 * [2025-12-27, 03:14:56](https://news.ycombinator.com/item?id=46398752) - [CEO of Health Care Software Company Sentenced for $1B Fraud Conspiracy](https://www.justice.gov/opa/pr/ceo-health-care-software-company-sentenced-1b-fraud-conspiracy)
 * [2025-12-27, 01:16:53](https://news.ycombinator.com/item?id=46398201) - [QNX Self-Hosted Developer Desktop](https://devblog.qnx.com/qnx-self-hosted-developer-desktop-initial-release/)
 * [2025-12-27, 00:43:04](https://news.ycombinator.com/item?id=46397991) - [Publishing your work increases your luck](https://github.com/readme/guides/publishing-your-work)
@@ -25,7 +26,6 @@
 * [2025-12-23, 17:30:15](https://news.ycombinator.com/item?id=46367195) - [AI Police Reports: Year in Review](https://www.eff.org/deeplinks/2025/12/ai-police-reports-year-review)
 * [2025-12-23, 14:51:33](https://news.ycombinator.com/item?id=46365726) - [The Best Things and Stuff of 2025](https://blog.fogus.me/2025/12/23/the-best-things-and-stuff-of-2025.html)
 * [2025-12-23, 13:39:47](https://news.ycombinator.com/item?id=46365241) - [Moravec's Paradox and the Robot Olympics](https://www.physicalintelligence.company/blog/olympics)
-* [2025-12-22, 19:25:29](https://news.ycombinator.com/item?id=46357814) - [The Algebra of Loans in Rust](https://nadrieril.github.io/blog/2025/12/21/the-algebra-of-loans-in-rust.html)
 * [2025-12-22, 14:44:20](https://news.ycombinator.com/item?id=46354492) - [One million (small web) screenshots](https://nry.me/posts/2025-10-09/small-web-screenshots/)
 * [2025-12-22, 06:40:24](https://news.ycombinator.com/item?id=46351905) - [Reverse Engineering Hyperliquid](https://blog.can.ac/2025/12/20/reverse-engineering-hyperliquid/)
 * [2025-12-20, 13:25:40](https://news.ycombinator.com/item?id=46336019) - [SIMD City: Auto-Vectorisation](https://xania.org/202512/20-simd-city)
