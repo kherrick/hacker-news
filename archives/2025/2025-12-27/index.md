@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2025-12-27](index.md)
 
+* [2025-12-27, 15:42:02](https://news.ycombinator.com/item?id=46402611) - [A Century of Noether's Theorem](https://arxiv.org/abs/1902.01989)
+* [2025-12-27, 15:02:30](https://news.ycombinator.com/item?id=46402327) - [We Automated Federal Retirements](https://ndstudio.gov/posts/automating-federal-retirements)
+* [2025-12-27, 14:05:44](https://news.ycombinator.com/item?id=46401938) - [NMH BASIC](https://t3x.org/nmhbasic/index.html)
+* [2025-12-27, 13:47:16](https://news.ycombinator.com/item?id=46401832) - [Show HN: An immutable ostree-based Arch Linux image](https://github.com/myyc/vyy)
 * [2025-12-27, 13:13:00](https://news.ycombinator.com/item?id=46401612) - [Floor796](https://floor796.com/)
 * [2025-12-27, 12:58:12](https://news.ycombinator.com/item?id=46401539) - [Apple releases open-source model that instantly turns 2D photos into 3D views](https://github.com/apple/ml-sharp)
 * [2025-12-27, 12:51:15](https://news.ycombinator.com/item?id=46401499) - [OrangePi 6 Plus Review: The New Frontier for ARM64 SBC Performance](https://boilingsteam.com/orange-pi-6-plus-review/)
