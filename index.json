@@ -131,16 +131,6 @@
   ],
   [
     [
-      "2025-12-26, 17:48:25",
-      "https://news.ycombinator.com/item?id=46394327"
-    ],
-    [
-      "FFmpeg has issued a DMCA takedown on GitHub",
-      "https://twitter.com/FFmpeg/status/2004599109559496984"
-    ]
-  ],
-  [
-    [
       "2025-12-26, 17:13:07",
       "https://news.ycombinator.com/item?id=46393992"
     ],
@@ -267,6 +257,16 @@
     [
       "Reverse Engineering Hyperliquid",
       "https://blog.can.ac/2025/12/20/reverse-engineering-hyperliquid/"
+    ]
+  ],
+  [
+    [
+      "2025-12-22, 05:00:14",
+      "https://news.ycombinator.com/item?id=46351457"
+    ],
+    [
+      "Mruby: Ruby for Embedded Systems",
+      "https://github.com/mruby/mruby"
     ]
   ],
   [
