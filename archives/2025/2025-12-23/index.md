@@ -20,6 +20,7 @@
 * [2025-12-23, 19:26:36](https://news.ycombinator.com/item?id=46368471) - [Un-Redactor](https://github.com/kvthweatt/unredactor)
 * [2025-12-23, 19:09:45](https://news.ycombinator.com/item?id=46368300) - [Help My c64 caught on fire](https://c0de517e.com/026_c64fire.htm)
 * [2025-12-23, 19:04:13](https://news.ycombinator.com/item?id=46368235) - [LAVD: Meta's New Default Scheduler [pdf]](https://lpc.events/event/19/contributions/2099/attachments/1875/4020/lpc-2025-lavd-meta.pdf)
+* [2025-12-23, 18:59:45](https://news.ycombinator.com/item?id=46368177) - [Clock Synchronization Is a Nightmare](https://arpitbhayani.me/blogs/clock-sync-nightmare/)
 * [2025-12-23, 18:33:01](https://news.ycombinator.com/item?id=46367864) - [Volvo Centum is Dalton Maag's new typeface for Volvo](https://www.wallpaper.com/design-interiors/corporate-design-branding/volvo-new-font-volvo-centum)
 * [2025-12-23, 18:22:23](https://news.ycombinator.com/item?id=46367744) - [An initial analysis of the discovered Unix V4 tape](https://www.spinellis.gr/blog/20251223/?yc261223)
 * [2025-12-23, 18:00:31](https://news.ycombinator.com/item?id=46367475) - [We replaced H.264 streaming with JPEG screenshots (and it worked better)](https://blog.helix.ml/p/we-mass-deployed-15-year-old-screen)
