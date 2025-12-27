@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-12-27, 09:33:14](https://news.ycombinator.com/item?id=46400490) - [Cloudflare Is Ruining the Internet](https://www.slashgeek.net/2016/05/17/cloudflare-is-ruining-the-internet-for-me/)
+* [2025-12-27, 09:33:14](https://news.ycombinator.com/item?id=46400490) - [CloudFlare is ruining the internet (for me)](https://www.slashgeek.net/2016/05/17/cloudflare-is-ruining-the-internet-for-me/)
 * [2025-12-27, 08:45:46](https://news.ycombinator.com/item?id=46400251) - [Show HN: Ez FFmpeg – Video editing in plain English](http://npmjs.com/package/ezff)
-* [2025-12-27, 06:10:42](https://news.ycombinator.com/item?id=46399576) - [More Dynamic Cronjobs](https://george.mand.is/2025/09/more-dynamic-cronjobs/)
+* [2025-12-27, 06:10:42](https://news.ycombinator.com/item?id=46399576) - [More dynamic cronjobs](https://george.mand.is/2025/09/more-dynamic-cronjobs/)
 * [2025-12-27, 03:45:20](https://news.ycombinator.com/item?id=46398906) - [Pre-commit hooks are fundamentally broken](https://jyn.dev/pre-commit-hooks-are-fundamentally-broken/)
-* [2025-12-27, 03:00:00](https://news.ycombinator.com/item?id=46398666) - [The Proton, the 'Most Complicated Thing You Could Possibly Imagine'](https://www.quantamagazine.org/inside-the-proton-the-most-complicated-thing-imaginable-20221019/)
+* [2025-12-27, 03:00:00](https://news.ycombinator.com/item?id=46398666) - [Inside the proton, the ‘most complicated thing you could possibly imagine’](https://www.quantamagazine.org/inside-the-proton-the-most-complicated-thing-imaginable-20221019/)
 * [2025-12-27, 01:16:53](https://news.ycombinator.com/item?id=46398201) - [QNX Self-Hosted Developer Desktop](https://devblog.qnx.com/qnx-self-hosted-developer-desktop-initial-release/)
 * [2025-12-27, 00:43:04](https://news.ycombinator.com/item?id=46397991) - [Publishing your work increases your luck](https://github.com/readme/guides/publishing-your-work)
 * [2025-12-26, 23:42:46](https://news.ycombinator.com/item?id=46397609) - [Exe.dev](https://exe.dev/)
