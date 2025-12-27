@@ -61,6 +61,7 @@
 * [2025-12-24, 02:16:01](https://news.ycombinator.com/item?id=46371730) - [Autonomously navigating the real world: lessons from the PG&E outage](https://waymo.com/blog/2025/12/autonomously-navigating-the-real-world)
 * [2025-12-24, 02:10:34](https://news.ycombinator.com/item?id=46371705) - [Could lockfiles just be SBOMs?](https://nesbitt.io/2025/12/23/could-lockfiles-just-be-sboms.html)
 * [2025-12-24, 02:01:49](https://news.ycombinator.com/item?id=46371673) - ['Dracula's Chivito': Hubble reveals largest birthplace of planets ever observed](https://phys.org/news/2025-12-chaotic-dracula-chivito-hubble-reveals.html)
+* [2025-12-24, 01:50:36](https://news.ycombinator.com/item?id=46371606) - [Tieredsort: Header only, blazing fast (3-4x) C++17 sorting for numeric types](https://github.com/Cranot/tieredsort)
 * [2025-12-24, 01:21:58](https://news.ycombinator.com/item?id=46371429) - [Open source USB to GPIB converter (for Test and Measurement instruments)](https://github.com/xyphro/UsbGpib)
 * [2025-12-24, 01:20:39](https://news.ycombinator.com/item?id=46371423) - [Nabokov's guide to foreigners learning Russian](https://twitter.com/haravayin_hogh/status/2003299405907247502)
 * [2025-12-24, 00:30:42](https://news.ycombinator.com/item?id=46371139) - [Stronk.app – open-source gym lifts journal](https://news.ycombinator.com/item?id=46371139)

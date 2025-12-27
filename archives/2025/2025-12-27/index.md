@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-12-27](index.md)
 
 * [2025-12-27, 15:42:02](https://news.ycombinator.com/item?id=46402611) - [A Century of Noether's Theorem](https://arxiv.org/abs/1902.01989)
+* [2025-12-27, 15:41:50](https://news.ycombinator.com/item?id=46402609) - [New York to require social media platforms to display mental health warnings](https://www.reuters.com/legal/litigation/new-york-require-social-media-platforms-display-mental-health-warnings-2025-12-26/)
 * [2025-12-27, 15:02:30](https://news.ycombinator.com/item?id=46402327) - [We Automated Federal Retirements](https://ndstudio.gov/posts/automating-federal-retirements)
 * [2025-12-27, 14:05:44](https://news.ycombinator.com/item?id=46401938) - [NMH BASIC](https://t3x.org/nmhbasic/index.html)
 * [2025-12-27, 13:47:16](https://news.ycombinator.com/item?id=46401832) - [Show HN: An immutable ostree-based Arch Linux image](https://github.com/myyc/vyy)
