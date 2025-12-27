@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-12-27](index.md)
 
+* [2025-12-27, 12:51:15](https://news.ycombinator.com/item?id=46401499) - [OrangePi 6 Plus Review: The New Frontier for ARM64 SBC Performance](https://boilingsteam.com/orange-pi-6-plus-review/)
 * [2025-12-27, 11:57:17](https://news.ycombinator.com/item?id=46401190) - [Splice a Fibre](https://react-networks-lib.rackout.net/fibre)
 * [2025-12-27, 11:05:46](https://news.ycombinator.com/item?id=46400927) - [Cursed Bundler: Using go get to install Ruby Gems](https://nesbitt.io/2025/12/25/cursed-bundler-using-go-get-to-install-ruby-gems.html)
 * [2025-12-27, 09:33:14](https://news.ycombinator.com/item?id=46400490) - [Cloudflare Is Ruining the Internet](https://www.slashgeek.net/2016/05/17/cloudflare-is-ruining-the-internet-for-me/)
