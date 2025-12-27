@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-12-27, 22:41:22",
+      "https://news.ycombinator.com/item?id=46406129"
+    ],
+    [
+      "The Dangers of SSL Certificates",
+      "https://surfingcomplexity.blog/2025/12/27/the-dangers-of-ssl-certificates/"
+    ]
+  ],
+  [
+    [
       "2025-12-27, 22:21:10",
       "https://news.ycombinator.com/item?id=46405927"
     ],
@@ -197,16 +207,6 @@
     [
       "Show HN: Ez FFmpeg – Video editing in plain English",
       "http://npmjs.com/package/ezff"
-    ]
-  ],
-  [
-    [
-      "2025-12-27, 03:45:20",
-      "https://news.ycombinator.com/item?id=46398906"
-    ],
-    [
-      "Pre-commit hooks are broken",
-      "https://jyn.dev/pre-commit-hooks-are-fundamentally-broken/"
     ]
   ],
   [
