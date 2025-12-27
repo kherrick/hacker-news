@@ -27,6 +27,7 @@
 * [2025-12-23, 17:34:22](https://news.ycombinator.com/item?id=46367232) - [Towards a secure peer-to-peer app platform for Clan](https://clan.lol/blog/towards-app-platform-vmtech/)
 * [2025-12-23, 17:33:42](https://news.ycombinator.com/item?id=46367224) - [Fabrice Bellard Releases MicroQuickJS](https://github.com/bellard/mquickjs/blob/main/README.md)
 * [2025-12-23, 17:33:40](https://news.ycombinator.com/item?id=46367223) - [How Did Doge Disrupt So Much While Saving So Little?](https://www.nytimes.com/2025/12/23/us/politics/doge-musk-trump-analysis.html)
+* [2025-12-23, 17:30:15](https://news.ycombinator.com/item?id=46367195) - [AI Police Reports: Year in Review](https://www.eff.org/deeplinks/2025/12/ai-police-reports-year-review)
 * [2025-12-23, 17:08:34](https://news.ycombinator.com/item?id=46366998) - [Meta Is Using the Linux Scheduler Designed for Valve's Steam Deck on Its Servers](https://www.phoronix.com/news/Meta-SCX-LAVD-Steam-Deck-Server)
 * [2025-12-23, 16:43:03](https://news.ycombinator.com/item?id=46366761) - [When irate product support customers demand to speak to Bill Gates](https://devblogs.microsoft.com/oldnewthing/20251223-00/?p=111896)
 * [2025-12-23, 16:11:45](https://news.ycombinator.com/item?id=46366462) - [The IPv4 address swamp: The new normal](https://blog.apnic.net/2025/12/23/the-ipv4-address-swamp-the-new-normal/)
