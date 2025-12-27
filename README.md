@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-12-27, 11:05:46](https://news.ycombinator.com/item?id=46400927) - [Cursed Bundler: Using go get to install Ruby Gems](https://nesbitt.io/2025/12/25/cursed-bundler-using-go-get-to-install-ruby-gems.html)
 * [2025-12-27, 09:33:14](https://news.ycombinator.com/item?id=46400490) - [CloudFlare is ruining the internet (for me)](https://www.slashgeek.net/2016/05/17/cloudflare-is-ruining-the-internet-for-me/)
 * [2025-12-27, 08:45:46](https://news.ycombinator.com/item?id=46400251) - [Show HN: Ez FFmpeg – Video editing in plain English](http://npmjs.com/package/ezff)
 * [2025-12-27, 06:10:42](https://news.ycombinator.com/item?id=46399576) - [More dynamic cronjobs](https://george.mand.is/2025/09/more-dynamic-cronjobs/)
@@ -10,7 +11,6 @@
 * [2025-12-26, 23:09:40](https://news.ycombinator.com/item?id=46397379) - [Always bet on text (2014)](https://graydon2.dreamwidth.org/193447.html)
 * [2025-12-26, 20:28:53](https://news.ycombinator.com/item?id=46395885) - [Toys with the highest play-time and lowest clean-up-time](https://joannabregan.substack.com/p/toys-with-the-highest-play-time-and)
 * [2025-12-26, 20:27:50](https://news.ycombinator.com/item?id=46395871) - [T-Ruby is Ruby with syntax for types](https://type-ruby.github.io/)
-* [2025-12-26, 19:13:22](https://news.ycombinator.com/item?id=46395184) - [My insulin pump controller uses the Linux kernel. It also violates the GPL](https://old.reddit.com/r/linux/comments/1puojsr/the_device_that_controls_my_insulin_pump_uses_the/)
 * [2025-12-26, 19:03:32](https://news.ycombinator.com/item?id=46395106) - [How Lewis Carroll computed determinants (2023)](https://www.johndcook.com/blog/2023/07/10/lewis-carroll-determinants/)
 * [2025-12-26, 17:13:07](https://news.ycombinator.com/item?id=46393992) - [How uv got so fast](https://nesbitt.io/2025/12/26/how-uv-got-so-fast.html)
 * [2025-12-26, 17:07:53](https://news.ycombinator.com/item?id=46393936) - [Experts explore new mushroom which causes fairytale-like hallucinations](https://nhmu.utah.edu/articles/experts-explore-new-mushroom-which-causes-fairytale-hallucinations)
