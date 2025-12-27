@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-12-27, 13:13:00",
+      "https://news.ycombinator.com/item?id=46401612"
+    ],
+    [
+      "Floor796",
+      "https://floor796.com/"
+    ]
+  ],
+  [
+    [
       "2025-12-27, 12:58:12",
       "https://news.ycombinator.com/item?id=46401539"
     ],
@@ -287,16 +297,6 @@
     [
       "An exploration of playing three generations of windows games on macOS",
       "https://carette.xyz/posts/deep_dive_into_crossover/"
-    ]
-  ],
-  [
-    [
-      "2025-12-20, 13:25:40",
-      "https://news.ycombinator.com/item?id=46336019"
-    ],
-    [
-      "SIMD City: Auto-Vectorisation",
-      "https://xania.org/202512/20-simd-city"
     ]
   ]
 ]
