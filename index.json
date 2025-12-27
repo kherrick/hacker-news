@@ -31,16 +31,6 @@
   ],
   [
     [
-      "2025-12-27, 03:45:20",
-      "https://news.ycombinator.com/item?id=46398906"
-    ],
-    [
-      "Pre-commit hooks are fundamentally broken",
-      "https://jyn.dev/pre-commit-hooks-are-fundamentally-broken/"
-    ]
-  ],
-  [
-    [
       "2025-12-27, 03:00:00",
       "https://news.ycombinator.com/item?id=46398666"
     ],
@@ -107,6 +97,16 @@
     [
       "T-Ruby is Ruby with syntax for types",
       "https://type-ruby.github.io/"
+    ]
+  ],
+  [
+    [
+      "2025-12-26, 19:13:22",
+      "https://news.ycombinator.com/item?id=46395184"
+    ],
+    [
+      "My insulin pump controller uses the Linux kernel. It also violates the GPL",
+      "https://old.reddit.com/r/linux/comments/1puojsr/the_device_that_controls_my_insulin_pump_uses_the/"
     ]
   ],
   [
