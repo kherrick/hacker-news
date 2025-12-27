@@ -15,7 +15,6 @@
 * [2025-12-26, 17:13:07](https://news.ycombinator.com/item?id=46393992) - [How uv got so fast](https://nesbitt.io/2025/12/26/how-uv-got-so-fast.html)
 * [2025-12-26, 17:07:53](https://news.ycombinator.com/item?id=46393936) - [Experts explore new mushroom which causes fairytale-like hallucinations](https://nhmu.utah.edu/articles/experts-explore-new-mushroom-which-causes-fairytale-hallucinations)
 * [2025-12-26, 15:20:36](https://news.ycombinator.com/item?id=46392910) - [Show HN: Witr – Explain why a process is running on your Linux system](https://github.com/pranshuparmar/witr)
-* [2025-12-26, 12:59:56](https://news.ycombinator.com/item?id=46391599) - [LearnixOS](https://www.learnix-os.com)
 * [2025-12-26, 12:46:36](https://news.ycombinator.com/item?id=46391514) - [Package managers keep using Git as a database, it never works out](https://nesbitt.io/2025/12/24/package-managers-keep-using-git-as-a-database.html)
 * [2025-12-24, 15:53:41](https://news.ycombinator.com/item?id=46376608) - [Detect memory leaks of C extensions with psutil and psleak](https://gmpy.dev/blog/2025/psutil-heap-introspection-apis)
 * [2025-12-23, 21:42:36](https://news.ycombinator.com/item?id=46369808) - [Researchers develop a camera that can focus on different distances at once](https://engineering.cmu.edu/news-events/news/2025/12/19-perfect-shot.html)
@@ -29,6 +28,7 @@
 * [2025-12-21, 20:44:35](https://news.ycombinator.com/item?id=46348251) - [Langjam-Gamejam Devlog: Making a language, compiler, VM and 5 games in 52 hours](https://github.com/Syn-Nine/gar-lang/blob/main/DEVLOG.md)
 * [2025-12-21, 15:29:59](https://news.ycombinator.com/item?id=46345528) - [Intertapes – collection of found cassette tapes from different locations](https://intertapes.net/)
 * [2025-12-21, 03:13:48](https://news.ycombinator.com/item?id=46341904) - [Faster practical modular inversion](https://purplesyringa.moe/blog/faster-practical-modular-inversion/)
+* [2025-12-20, 14:53:24](https://news.ycombinator.com/item?id=46336604) - [An exploration of playing three generations of windows games on macOS](https://carette.xyz/posts/deep_dive_into_crossover/)
 * [2025-12-20, 13:25:40](https://news.ycombinator.com/item?id=46336019) - [SIMD City: Auto-Vectorisation](https://xania.org/202512/20-simd-city)
 
 ## [Archives](archives/index.md)

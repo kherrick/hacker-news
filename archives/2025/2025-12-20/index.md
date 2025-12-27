@@ -36,6 +36,7 @@
 * [2025-12-20, 15:34:05](https://news.ycombinator.com/item?id=46336892) - [DotMeow – A fun domain with a serious mission](https://www.dotmeow.org)
 * [2025-12-20, 15:13:02](https://news.ycombinator.com/item?id=46336743) - [Perfect Aircrete, Kitchen Ingredients [video]](https://www.youtube.com/watch?v=z4_GxPHwqkA)
 * [2025-12-20, 15:12:47](https://news.ycombinator.com/item?id=46336738) - [Targeting by Reference in the Shadow DOM](https://meyerweb.com/eric/thoughts/2025/12/19/targeting-by-reference-in-the-shadow-dom/)
+* [2025-12-20, 14:53:24](https://news.ycombinator.com/item?id=46336604) - [An exploration of playing three generations of windows games on macOS](https://carette.xyz/posts/deep_dive_into_crossover/)
 * [2025-12-20, 14:49:39](https://news.ycombinator.com/item?id=46336577) - [The entire New Yorker Archive Is Now Fully Digitized](https://www.newyorker.com/news/press-room/the-entire-new-yorker-archive-is-now-fully-digitized)
 * [2025-12-20, 14:17:13](https://news.ycombinator.com/item?id=46336364) - [The Fisher-Yates shuffle is backward](https://possiblywrong.wordpress.com/2020/12/10/the-fisher-yates-shuffle-is-backward/)
 * [2025-12-20, 13:54:29](https://news.ycombinator.com/item?id=46336213) - [TailwindSQL – Like TailwindCSS, but for SQL Queries in React Server Components](https://github.com/mmarinovic/tailwindsql)
