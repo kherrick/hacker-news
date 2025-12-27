@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-12-27, 16:48:18](https://news.ycombinator.com/item?id=46403048) - [This PNG shows a different version when opened in Chrome than in an image viewer](https://lr0.org/blog/p/pngchanges/)
 * [2025-12-27, 15:42:02](https://news.ycombinator.com/item?id=46402611) - [A Century of Noether's Theorem](https://arxiv.org/abs/1902.01989)
 * [2025-12-27, 15:41:50](https://news.ycombinator.com/item?id=46402609) - [New York to require social media platforms to display mental health warnings](https://www.reuters.com/legal/litigation/new-york-require-social-media-platforms-display-mental-health-warnings-2025-12-26/)
 * [2025-12-27, 15:02:30](https://news.ycombinator.com/item?id=46402327) - [We Automated Federal Retirements](https://ndstudio.gov/posts/automating-federal-retirements)
@@ -16,7 +17,6 @@
 * [2025-12-26, 23:42:46](https://news.ycombinator.com/item?id=46397609) - [Exe.dev](https://exe.dev/)
 * [2025-12-26, 23:09:40](https://news.ycombinator.com/item?id=46397379) - [Always bet on text (2014)](https://graydon2.dreamwidth.org/193447.html)
 * [2025-12-26, 17:13:07](https://news.ycombinator.com/item?id=46393992) - [How uv got so fast](https://nesbitt.io/2025/12/26/how-uv-got-so-fast.html)
-* [2025-12-26, 17:07:53](https://news.ycombinator.com/item?id=46393936) - [Experts explore new mushroom which causes fairytale-like hallucinations](https://nhmu.utah.edu/articles/experts-explore-new-mushroom-which-causes-fairytale-hallucinations)
 * [2025-12-26, 15:20:36](https://news.ycombinator.com/item?id=46392910) - [Show HN: Witr – Explain why a process is running on your Linux system](https://github.com/pranshuparmar/witr)
 * [2025-12-26, 12:46:36](https://news.ycombinator.com/item?id=46391514) - [Package managers keep using Git as a database, it never works out](https://nesbitt.io/2025/12/24/package-managers-keep-using-git-as-a-database.html)
 * [2025-12-24, 15:53:41](https://news.ycombinator.com/item?id=46376608) - [Detect memory leaks of C extensions with psutil and psleak](https://gmpy.dev/blog/2025/psutil-heap-introspection-apis)
