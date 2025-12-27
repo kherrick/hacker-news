@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-12-26](index.md)
 
+* [2025-12-26, 23:42:46](https://news.ycombinator.com/item?id=46397609) - [Exe.dev/](https://exe.dev/)
+* [2025-12-26, 23:09:40](https://news.ycombinator.com/item?id=46397379) - [Always Bet on Text](https://graydon2.dreamwidth.org/193447.html)
 * [2025-12-26, 20:44:28](https://news.ycombinator.com/item?id=46396043) - [I Think about Kubernetes](https://garnaudov.com/writings/how-i-think-about-kubernetes/)
 * [2025-12-26, 20:18:02](https://news.ycombinator.com/item?id=46395757) - [NYC phone ban reveals some students can't read clocks](https://gothamist.com/news/nyc-phone-ban-reveals-some-students-cant-read-clocks)
 * [2025-12-26, 19:25:28](https://news.ycombinator.com/item?id=46395292) - [Grok and the Naked King: The Ultimate Argument Against AI Alignment](https://ibrahimcesar.cloud/blog/grok-and-the-naked-king/)
