@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-12-27](index.md)
 
+* [2025-12-27, 18:31:27](https://news.ycombinator.com/item?id=46403992) - [Toll roads are spreading in America](https://www.economist.com/united-states/2025/12/18/toll-roads-are-spreading-in-america)
 * [2025-12-27, 18:22:05](https://news.ycombinator.com/item?id=46403915) - [Windows 2 for the Apricot PC/Xi](https://www.ninakalinina.com/notes/win2apri/)
 * [2025-12-27, 18:03:42](https://news.ycombinator.com/item?id=46403741) - [Cleartext Signatures Considered Harmful](https://gnupg.org/blog/20251226-cleartext-signatures.html)
 * [2025-12-27, 17:42:46](https://news.ycombinator.com/item?id=46403559) - [Nvidia's $20B Antitrust Loophole (Not an Acquisition)](https://ossa-ma.github.io/blog/groq)
