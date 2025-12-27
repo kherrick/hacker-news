@@ -4,10 +4,13 @@
 
 ### [Archives](../../index.md) for [2025-12-27](index.md)
 
+* [2025-12-27, 21:36:27](https://news.ycombinator.com/item?id=46405481) - [How We Found Out About COINTELPRO](https://monthlyreview.org/articles/how-we-found-out-about-cointelpro/)
 * [2025-12-27, 21:01:09](https://news.ycombinator.com/item?id=46405183) - [White House pushes to dismantle leading climate and weather research center](https://www.pbs.org/newshour/show/white-house-pushes-to-dismantle-leading-climate-and-weather-research-center)
 * [2025-12-27, 20:28:35](https://news.ycombinator.com/item?id=46404957) - [Getting Fired over LinkedIn Account](https://priyatham.in/en/post/linkedin-horror/)
+* [2025-12-27, 20:28:07](https://news.ycombinator.com/item?id=46404952) - ['Off Switch' Discovery Could Help Clear Our Brains of a Common Parasite](https://www.sciencealert.com/off-switch-discovery-could-help-clear-our-brains-of-a-common-parasite)
 * [2025-12-27, 20:15:01](https://news.ycombinator.com/item?id=46404848) - [How we lost communication to entertainment](https://ploum.net/2025-12-15-communication-entertainment.html)
 * [2025-12-27, 19:54:28](https://news.ycombinator.com/item?id=46404673) - [U.S. decision to impose travel restrictions on EU individuals](https://ec.europa.eu/commission/presscorner/detail/en/statement_25_3160)
+* [2025-12-27, 19:45:28](https://news.ycombinator.com/item?id=46404597) - [Rainbow Six Siege Hacked as Players Get Billions of Credits and Random Bans](https://www.shanethegamer.com/esports-news/rainbow-six-siege-hacked-global-server-outage/)
 * [2025-12-27, 18:31:27](https://news.ycombinator.com/item?id=46403992) - [Toll roads are spreading in America](https://www.economist.com/united-states/2025/12/18/toll-roads-are-spreading-in-america)
 * [2025-12-27, 18:26:46](https://news.ycombinator.com/item?id=46403955) - [Scientists Edited Genes Inside a Living Person for First Time, Saved His Life](https://www.popularmechanics.com/science/health/a64815804/crispr-therapy/)
 * [2025-12-27, 18:22:05](https://news.ycombinator.com/item?id=46403915) - [Windows 2 for the Apricot PC/Xi](https://www.ninakalinina.com/notes/win2apri/)
