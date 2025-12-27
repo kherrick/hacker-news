@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-12-27, 08:45:46](https://news.ycombinator.com/item?id=46400251) - [Show HN: Ez FFmpeg – Video editing in plain English](http://npmjs.com/package/ezff)
 * [2025-12-27, 06:10:42](https://news.ycombinator.com/item?id=46399576) - [More Dynamic Cronjobs](https://george.mand.is/2025/09/more-dynamic-cronjobs/)
 * [2025-12-27, 03:45:20](https://news.ycombinator.com/item?id=46398906) - [Pre-commit hooks are fundamentally broken](https://jyn.dev/pre-commit-hooks-are-fundamentally-broken/)
 * [2025-12-27, 03:14:56](https://news.ycombinator.com/item?id=46398752) - [CEO of Health Care Software Company Sentenced for $1B Fraud Conspiracy](https://www.justice.gov/opa/pr/ceo-health-care-software-company-sentenced-1b-fraud-conspiracy)
@@ -8,7 +9,6 @@
 * [2025-12-27, 00:43:04](https://news.ycombinator.com/item?id=46397991) - [Publishing your work increases your luck](https://github.com/readme/guides/publishing-your-work)
 * [2025-12-26, 23:42:46](https://news.ycombinator.com/item?id=46397609) - [Exe.dev](https://exe.dev/)
 * [2025-12-26, 23:09:40](https://news.ycombinator.com/item?id=46397379) - [Always bet on text (2014)](https://graydon2.dreamwidth.org/193447.html)
-* [2025-12-26, 20:28:53](https://news.ycombinator.com/item?id=46395885) - [Toys with the highest play-time and lowest clean-up-time](https://joannabregan.substack.com/p/toys-with-the-highest-play-time-and)
 * [2025-12-26, 20:27:50](https://news.ycombinator.com/item?id=46395871) - [T-Ruby is Ruby with syntax for types](https://type-ruby.github.io/)
 * [2025-12-26, 19:13:22](https://news.ycombinator.com/item?id=46395184) - [My insulin pump controller uses the Linux kernel. It also violates the GPL](https://old.reddit.com/r/linux/comments/1puojsr/the_device_that_controls_my_insulin_pump_uses_the/)
 * [2025-12-26, 19:03:32](https://news.ycombinator.com/item?id=46395106) - [How Lewis Carroll computed determinants (2023)](https://www.johndcook.com/blog/2023/07/10/lewis-carroll-determinants/)
