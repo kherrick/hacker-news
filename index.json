@@ -181,16 +181,6 @@
   ],
   [
     [
-      "2025-12-27, 17:42:46",
-      "https://news.ycombinator.com/item?id=46403559"
-    ],
-    [
-      "Nvidia's $20B antitrust loophole",
-      "https://ossa-ma.github.io/blog/groq"
-    ]
-  ],
-  [
-    [
       "2025-12-27, 17:05:50",
       "https://news.ycombinator.com/item?id=46403200"
     ],
@@ -287,6 +277,16 @@
     [
       "Immer – A library of persistent and immutable data structures written in C++",
       "https://github.com/arximboldi/immer"
+    ]
+  ],
+  [
+    [
+      "2025-12-21, 15:15:41",
+      "https://news.ycombinator.com/item?id=46345412"
+    ],
+    [
+      "Never Use Pixelation to Hide Sensitive Text (2014)",
+      "https://dheera.net/posts/20140725-why-you-should-never-use-pixelation/"
     ]
   ],
   [
