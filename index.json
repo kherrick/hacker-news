@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2025-12-28, 04:40:56",
-      "https://news.ycombinator.com/item?id=46408510"
-    ],
-    [
-      "C –> Java != Java –> LLM",
-      "http://www.observationalhazard.com/2025/12/c-java-java-llm.html"
-    ]
-  ],
-  [
-    [
       "2025-12-28, 03:40:43",
       "https://news.ycombinator.com/item?id=46408192"
     ],
@@ -87,6 +77,16 @@
     [
       "Liberating Bluetooth on the ESP32",
       "https://exquisite.tube/w/mEzF442Q4hUXnhQ8HmfZuq"
+    ]
+  ],
+  [
+    [
+      "2025-12-27, 22:15:43",
+      "https://news.ycombinator.com/item?id=46405866"
+    ],
+    [
+      "Public Domain Day 2026",
+      "https://web.law.duke.edu/cspd/publicdomainday/2026/"
     ]
   ],
   [
@@ -231,6 +231,16 @@
   ],
   [
     [
+      "2025-12-23, 02:58:32",
+      "https://news.ycombinator.com/item?id=46361927"
+    ],
+    [
+      "Rex is a safe kernel extension framework that allows Rust in the place of eBPF",
+      "https://github.com/rex-rs/rex"
+    ]
+  ],
+  [
+    [
       "2025-12-22, 13:44:14",
       "https://news.ycombinator.com/item?id=46354050"
     ],
@@ -267,16 +277,6 @@
     [
       "Immer – A library of persistent and immutable data structures written in C++",
       "https://github.com/arximboldi/immer"
-    ]
-  ],
-  [
-    [
-      "2025-12-21, 20:03:03",
-      "https://news.ycombinator.com/item?id=46347893"
-    ],
-    [
-      "Go Gray, Not Cray: Why You Should Grayscale Your Phone",
-      "https://sami.eljabali.org/go-gray-not-cray-why-you-should-grayscale-your-phone/"
     ]
   ],
   [
