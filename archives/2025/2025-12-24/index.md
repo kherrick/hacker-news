@@ -9,6 +9,7 @@
 * [2025-12-24, 23:11:50](https://news.ycombinator.com/item?id=46380317) - [Rust the Process](https://www.amalbansode.com/writing/2025-12-24-rust-the-process/)
 * [2025-12-24, 22:56:00](https://news.ycombinator.com/item?id=46380168) - [Tell HN: Merry Christmas!](https://news.ycombinator.com/item?id=46380168)
 * [2025-12-24, 22:43:53](https://news.ycombinator.com/item?id=46380075) - [Phoenix: A modern X server written from scratch in Zig](https://git.dec05eba.com/phoenix/about/)
+* [2025-12-24, 22:41:11](https://news.ycombinator.com/item?id=46380054) - [2D Signed Distance Functions](https://iquilezles.org/articles/distfunctions2d/)
 * [2025-12-24, 22:27:06](https://news.ycombinator.com/item?id=46379941) - [TOPS-10 in a Box (2011)](https://www.filfre.net/2011/05/tops-10-in-a-box/)
 * [2025-12-24, 22:25:02](https://news.ycombinator.com/item?id=46379927) - [Show HN: Just Fucking Use Cloudflare – A satirical guide to the CF stack](https://justfuckingusecloudflare.com)
 * [2025-12-24, 21:54:48](https://news.ycombinator.com/item?id=46379677) - [I Left YouTube](https://zhach.news/how-i-left-youtube/)
