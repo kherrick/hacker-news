@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-12-28, 23:17:07",
+      "https://news.ycombinator.com/item?id=46415488"
+    ],
+    [
+      "CEOs are hugely expensive. Why not automate them?",
+      "https://www.newstatesman.com/business/companies/2023/05/ceos-salaries-expensive-automate-robots"
+    ]
+  ],
+  [
+    [
+      "2025-12-28, 23:05:53",
+      "https://news.ycombinator.com/item?id=46415426"
+    ],
+    [
+      "62 years in the making: NYC's newest water tunnel nears the finish line",
+      "https://ny1.com/nyc/all-boroughs/news/2025/11/09/water--dep--tunnels-"
+    ]
+  ],
+  [
+    [
       "2025-12-28, 22:52:21",
       "https://news.ycombinator.com/item?id=46415338"
     ],
@@ -21,12 +41,12 @@
   ],
   [
     [
-      "2025-12-28, 21:58:54",
-      "https://news.ycombinator.com/item?id=46414933"
+      "2025-12-28, 22:23:33",
+      "https://news.ycombinator.com/item?id=46415129"
     ],
     [
-      "Keep the Robots Out of the Gym",
-      "https://danielmiessler.com/blog/keep-the-robots-out-of-the-gym"
+      "Researchers Discover Molecular Difference in Autistic Brains",
+      "https://medicine.yale.edu/news-article/molecular-difference-in-autistic-brains/"
     ]
   ],
   [
@@ -111,16 +131,6 @@
   ],
   [
     [
-      "2025-12-28, 19:13:04",
-      "https://news.ycombinator.com/item?id=46413566"
-    ],
-    [
-      "Delete LinkedIn – you'll have zero fucking regrets (2021)",
-      "https://thenextweb.com/news/delete-linkedin-youll-have-zero-regrets-syndication"
-    ]
-  ],
-  [
-    [
       "2025-12-28, 18:43:54",
       "https://news.ycombinator.com/item?id=46413365"
     ],
@@ -147,6 +157,16 @@
     [
       "Designing Predictable LLM-Verifier Systems for Formal Method Guarantee",
       "https://arxiv.org/abs/2512.02080"
+    ]
+  ],
+  [
+    [
+      "2025-12-28, 12:00:06",
+      "https://news.ycombinator.com/item?id=46410449"
+    ],
+    [
+      "Langfuse (YC W23) Is Hiring in Berlin, Germany",
+      "https://langfuse.com/careers"
     ]
   ],
   [
@@ -201,22 +221,12 @@
   ],
   [
     [
-      "2025-12-27, 20:15:01",
-      "https://news.ycombinator.com/item?id=46404848"
+      "2025-12-26, 04:57:04",
+      "https://news.ycombinator.com/item?id=46389336"
     ],
     [
-      "How we lost communication to entertainment",
-      "https://ploum.net/2025-12-15-communication-entertainment.html"
-    ]
-  ],
-  [
-    [
-      "2025-12-27, 13:13:00",
-      "https://news.ycombinator.com/item?id=46401612"
-    ],
-    [
-      "Floor796",
-      "https://floor796.com/"
+      "Time in C++: Inter-Clock Conversions, Epochs, and Durations",
+      "https://www.sandordargo.com/blog/2025/12/24/clocks-part-5-conversions"
     ]
   ],
   [
@@ -257,16 +267,6 @@
     [
       "Show HN: LoongArch Userspace Emulator",
       "https://github.com/libriscv/libloong"
-    ]
-  ],
-  [
-    [
-      "2025-12-23, 02:58:32",
-      "https://news.ycombinator.com/item?id=46361927"
-    ],
-    [
-      "Rex is a safe kernel extension framework that allows Rust in the place of eBPF",
-      "https://github.com/rex-rs/rex"
     ]
   ],
   [
