@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-12-28, 14:24:59](https://news.ycombinator.com/item?id=46411275) - [Ask HN: Anti-AI Open Source License?](https://news.ycombinator.com/item?id=46411275)
 * [2025-12-28, 13:42:42](https://news.ycombinator.com/item?id=46411040) - ['PromptQuest' is the worst game of 2025 (trying to make chatbots work)](https://www.theregister.com/2025/12/26/ai_is_like_adventure_games/)
 * [2025-12-28, 12:00:06](https://news.ycombinator.com/item?id=46410449) - [Langfuse (YC W23) Is Hiring in Berlin, Germany](https://langfuse.com/careers)
 * [2025-12-28, 11:51:42](https://news.ycombinator.com/item?id=46410402) - [Building a macOS app to know when my Mac is thermal throttling](https://stanislas.blog/2025/12/macos-thermal-throttling-app/)
+* [2025-12-28, 10:12:08](https://news.ycombinator.com/item?id=46409969) - [Last Year on My Mac: Look Back in Disbelief](https://eclecticlight.co/2025/12/28/last-year-on-my-mac-look-back-in-disbelief/)
 * [2025-12-28, 10:04:42](https://news.ycombinator.com/item?id=46409928) - [Hungry Fat Cells Could Someday Starve Cancer to Death](https://www.ucsf.edu/news/2025/01/429411/how-hungry-fat-cells-could-someday-starve-cancer-death)
 * [2025-12-28, 06:43:25](https://news.ycombinator.com/item?id=46408988) - [Growing up in “404 Not Found”: China's nuclear city in the Gobi Desert](https://substack.com/inbox/post/182743659)
 * [2025-12-28, 06:42:53](https://news.ycombinator.com/item?id=46408984) - [C++ says “We have try. . . finally at home”](https://devblogs.microsoft.com/oldnewthing/20251222-00/?p=111890)
