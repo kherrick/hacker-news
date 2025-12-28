@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-12-28](index.md)
 
+* [2025-12-28, 12:00:06](https://news.ycombinator.com/item?id=46410449) - [Langfuse (YC W23) Is Hiring in Berlin, Germany](https://langfuse.com/careers)
 * [2025-12-28, 11:27:07](https://news.ycombinator.com/item?id=46410285) - [Claude Code creator says Claude wrote all his code for the last month](https://twitter.com/bcherny/status/2004897269674639461)
 * [2025-12-28, 10:51:18](https://news.ycombinator.com/item?id=46410153) - [Salesforce pulls back from LLMs, pivots Agentforce to deterministic automation](https://completeaitraining.com/news/salesforce-pulls-back-from-llms-pivots-agentforce-to/)
 * [2025-12-28, 08:15:35](https://news.ycombinator.com/item?id=46409375) - [Ask HN: By what percentage has AI changed your output as a software engineer?](https://news.ycombinator.com/item?id=46409375)
