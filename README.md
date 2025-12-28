@@ -25,9 +25,9 @@
 * [2025-12-23, 13:18:32](https://news.ycombinator.com/item?id=46365105) - [Show HN: Mysti – Claude, Codex, and Gemini debate your code, then synthesize](https://github.com/DeepMyst/Mysti)
 * [2025-12-23, 02:58:32](https://news.ycombinator.com/item?id=46361927) - [Rex is a safe kernel extension framework that allows Rust in the place of eBPF](https://github.com/rex-rs/rex)
 * [2025-12-22, 13:44:14](https://news.ycombinator.com/item?id=46354050) - [Project Vend: Phase Two](https://www.anthropic.com/research/project-vend-2)
-* [2025-12-22, 05:00:14](https://news.ycombinator.com/item?id=46351457) - [Mruby: Ruby for Embedded Systems](https://github.com/mruby/mruby)
 * [2025-12-22, 00:14:43](https://news.ycombinator.com/item?id=46349988) - [Text rendering hates you (2019)](https://faultlore.com/blah/text-hates-you/)
 * [2025-12-21, 20:59:06](https://news.ycombinator.com/item?id=46348367) - [Immer – A library of persistent and immutable data structures written in C++](https://github.com/arximboldi/immer)
+* [2025-12-21, 20:03:03](https://news.ycombinator.com/item?id=46347893) - [Go Gray, Not Cray: Why You Should Grayscale Your Phone](https://sami.eljabali.org/go-gray-not-cray-why-you-should-grayscale-your-phone/)
 * [2025-12-21, 17:49:36](https://news.ycombinator.com/item?id=46346648) - [Ask HN: Resources to get better at outbound sales?](https://news.ycombinator.com/item?id=46346648)
 * [2025-12-21, 14:40:16](https://news.ycombinator.com/item?id=46345158) - [Interton Video Computer 4000](https://en.wikipedia.org/wiki/Interton_Video_Computer_4000)
 
