@@ -12,6 +12,7 @@
 * [2025-12-24, 22:27:06](https://news.ycombinator.com/item?id=46379941) - [TOPS-10 in a Box (2011)](https://www.filfre.net/2011/05/tops-10-in-a-box/)
 * [2025-12-24, 22:25:02](https://news.ycombinator.com/item?id=46379927) - [Show HN: Just Fucking Use Cloudflare – A satirical guide to the CF stack](https://justfuckingusecloudflare.com)
 * [2025-12-24, 21:54:48](https://news.ycombinator.com/item?id=46379677) - [I Left YouTube](https://zhach.news/how-i-left-youtube/)
+* [2025-12-24, 21:53:44](https://news.ycombinator.com/item?id=46379665) - [Hacking a Java Minecraft server with memory overflows using in-game mechanics](https://www.youtube.com/watch?v=Zy6Ci-K-0K8)
 * [2025-12-24, 21:50:20](https://news.ycombinator.com/item?id=46379630) - [Steam Store is offline](https://steamstat.us/)
 * [2025-12-24, 21:02:15](https://news.ycombinator.com/item?id=46379183) - [Nvidia buying AI chip startup Groq for about $20B in cash](https://www.cnbc.com/2025/12/24/nvidia-buying-ai-chip-startup-groq-for-about-20-billion-biggest-deal.html)
 * [2025-12-24, 21:01:05](https://news.ycombinator.com/item?id=46379173) - [Keystone (YC S25) is hiring engineer #1 to automate coding](https://www.ycombinator.com/companies/keystone/jobs/J3t9XeM-founding-engineer)
