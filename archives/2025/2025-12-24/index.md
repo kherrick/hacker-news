@@ -48,6 +48,7 @@
 * [2025-12-24, 10:48:24](https://news.ycombinator.com/item?id=46374413) - [The Windows Utility](https://christitus.com/windows-tool/)
 * [2025-12-24, 09:50:52](https://news.ycombinator.com/item?id=46374117) - [Permission Systems for Enterprise That Scale](https://eliocapella.com/blog/permission-systems-for-enterprise/)
 * [2025-12-24, 09:43:34](https://news.ycombinator.com/item?id=46374087) - [US sanctions EU government officials behind the DSA](https://mastodon.social/@fj/115773761468906515)
+* [2025-12-24, 09:36:28](https://news.ycombinator.com/item?id=46374052) - [Slate AX: Wi-Fi 6 Gigabit travel router](https://www.gl-inet.com/products/gl-axt1800/)
 * [2025-12-24, 09:30:58](https://news.ycombinator.com/item?id=46374018) - [Google 2025 recap: Research breakthroughs of the year](https://blog.google/technology/ai/2025-research-breakthroughs/)
 * [2025-12-24, 09:15:47](https://news.ycombinator.com/item?id=46373919) - [Next JavaScript app is hacked, you just don't know it yet](https://audits.blockhacks.io/audit/your-next-js-app-is-already-hacked)
 * [2025-12-24, 09:00:38](https://news.ycombinator.com/item?id=46373839) - [Textarea.my: Minimalist editor lives in browser and stores everything in the URL](https://github.com/antonmedv/textarea)
