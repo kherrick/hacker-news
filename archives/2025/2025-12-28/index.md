@@ -6,9 +6,11 @@
 
 * [2025-12-28, 20:59:21](https://news.ycombinator.com/item?id=46414443) - [Loss of moist broadleaf forest in Africa has turned a carbon sink into source](https://www.nature.com/articles/s41598-025-27462-3)
 * [2025-12-28, 20:14:58](https://news.ycombinator.com/item?id=46414078) - [Stepping down as Mockito maintainer after 10 years](https://github.com/mockito/mockito/issues/3777)
+* [2025-12-28, 20:02:50](https://news.ycombinator.com/item?id=46413975) - [PySDR: A Guide to SDR and DSP Using Python](https://pysdr.org/content/intro.html)
 * [2025-12-28, 19:41:40](https://news.ycombinator.com/item?id=46413790) - [No it's not a Battleship](https://www.navalgazing.net/No-its-not)
 * [2025-12-28, 18:43:54](https://news.ycombinator.com/item?id=46413365) - [Remembering Lou Gerstner](https://newsroom.ibm.com/2025-12-28-Remembering-Lou-Gerstner)
 * [2025-12-28, 18:41:25](https://news.ycombinator.com/item?id=46413348) - [Tell HN: Google ignores English searches and forces localized results](https://news.ycombinator.com/item?id=46413348)
+* [2025-12-28, 18:05:13](https://news.ycombinator.com/item?id=46413053) - [Show HN: Pion SCTP with RACK is 70% faster with 30% less latency](https://pion.ly/blog/sctp-and-rack/)
 * [2025-12-28, 17:15:45](https://news.ycombinator.com/item?id=46412578) - [Deathbed Advice/Regret](https://hazn.com/deathbed-regret)
 * [2025-12-28, 17:12:14](https://news.ycombinator.com/item?id=46412549) - [Hacker News made out of prime numbers](https://dosaygo-studio.github.io/prime-news/index.html)
 * [2025-12-28, 16:53:34](https://news.ycombinator.com/item?id=46412411) - [2 in 3 Americans think AI will cause major harm to humans in the next 20 years [pdf]](https://www.pewresearch.org/wp-content/uploads/sites/20/2025/03/pi_2025.04.03_us-public-and-ai-experts_topline.pdf)
