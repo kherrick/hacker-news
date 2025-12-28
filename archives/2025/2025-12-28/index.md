@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-12-28](index.md)
 
 * [2025-12-28, 21:29:32](https://news.ycombinator.com/item?id=46414723) - [Software engineers should be a little bit cynical](https://www.seangoedecke.com/a-little-bit-cynical/)
+* [2025-12-28, 21:17:12](https://news.ycombinator.com/item?id=46414611) - [The Prison of Financial Mediocrity](https://twitter.com/systematicls/status/2004900241745883205)
 * [2025-12-28, 21:03:03](https://news.ycombinator.com/item?id=46414475) - [MongoBleed Explained Simply](https://bigdata.2minutestreaming.com/p/mongobleed-explained-simply)
 * [2025-12-28, 20:59:21](https://news.ycombinator.com/item?id=46414443) - [Loss of moist broadleaf forest in Africa has turned a carbon sink into source](https://www.nature.com/articles/s41598-025-27462-3)
 * [2025-12-28, 20:38:09](https://news.ycombinator.com/item?id=46414258) - [Show HN: Phantas – A browser-based binaural strobe engine (Web Audio API)](https://phantas.io)
