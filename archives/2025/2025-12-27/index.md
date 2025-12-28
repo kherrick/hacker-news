@@ -9,6 +9,7 @@
 * [2025-12-27, 22:41:22](https://news.ycombinator.com/item?id=46406129) - [The Dangers of SSL Certificates](https://surfingcomplexity.blog/2025/12/27/the-dangers-of-ssl-certificates/)
 * [2025-12-27, 22:37:58](https://news.ycombinator.com/item?id=46406098) - [Liberating Bluetooth on the ESP32](https://exquisite.tube/w/mEzF442Q4hUXnhQ8HmfZuq)
 * [2025-12-27, 22:21:10](https://news.ycombinator.com/item?id=46405927) - [Yanis Varoufakis on the future of capitalism [video]](https://www.youtube.com/watch?v=P_TMuVQPfxw)
+* [2025-12-27, 22:15:43](https://news.ycombinator.com/item?id=46405866) - [Public Domain Day 2026](https://web.law.duke.edu/cspd/publicdomainday/2026/)
 * [2025-12-27, 21:36:27](https://news.ycombinator.com/item?id=46405481) - [How We Found Out About COINTELPRO](https://monthlyreview.org/articles/how-we-found-out-about-cointelpro/)
 * [2025-12-27, 21:36:22](https://news.ycombinator.com/item?id=46405480) - [How Pfizer ended up passing on my GLP-1 work back in the early '90s](https://www.statnews.com/2024/09/09/glp-1-history-pfizer-john-baxter-jeffrey-flier-calbio-metabio/)
 * [2025-12-27, 21:22:44](https://news.ycombinator.com/item?id=46405375) - [In 1995, a Netscape employee wrote a hack in 10 days that now runs the Internet](https://arstechnica.com/gadgets/2025/12/in-1995-a-netscape-employee-wrote-a-hack-in-10-days-that-now-runs-the-internet/)
