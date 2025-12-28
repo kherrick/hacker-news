@@ -1,11 +1,14 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-12-28, 23:17:07](https://news.ycombinator.com/item?id=46415488) - [CEOs are hugely expensive. Why not automate them?](https://www.newstatesman.com/business/companies/2023/05/ceos-salaries-expensive-automate-robots)
+* [2025-12-28, 23:11:50](https://news.ycombinator.com/item?id=46415458) - [Spherical Cow](https://lib.rs/crates/spherical-cow)
+* [2025-12-28, 23:10:13](https://news.ycombinator.com/item?id=46415448) - [Slaughtering Competition Problems with Quantifier Elimination](https://grossack.site/2021/12/22/qe-competition.html)
 * [2025-12-28, 23:05:53](https://news.ycombinator.com/item?id=46415426) - [62 years in the making: NYC's newest water tunnel nears the finish line](https://ny1.com/nyc/all-boroughs/news/2025/11/09/water--dep--tunnels-)
 * [2025-12-28, 22:52:21](https://news.ycombinator.com/item?id=46415338) - [As AI gobbles up chips, prices for devices may rise](https://www.npr.org/2025/12/28/nx-s1-5656190/ai-chips-memory-prices-ram)
 * [2025-12-28, 22:35:02](https://news.ycombinator.com/item?id=46415225) - [What an unprocessed photo looks like](https://maurycyz.com/misc/raw_photo/)
 * [2025-12-28, 22:23:33](https://news.ycombinator.com/item?id=46415129) - [Researchers Discover Molecular Difference in Autistic Brains](https://medicine.yale.edu/news-article/molecular-difference-in-autistic-brains/)
 * [2025-12-28, 21:57:04](https://news.ycombinator.com/item?id=46414916) - [Dolphin Progress Report: Release 2512](https://dolphin-emu.org/blog/2025/12/22/dolphin-progress-report-release-2512/)
+* [2025-12-28, 21:45:44](https://news.ycombinator.com/item?id=46414837) - [Why I Disappeared – My week with minimal internet in a remote island chain](https://www.kenklippenstein.com/p/why-i-disappeared)
 * [2025-12-28, 21:41:42](https://news.ycombinator.com/item?id=46414819) - [Unity's Mono problem: Why your C# code runs slower than it should](https://marekfiser.com/blog/mono-vs-dot-net-in-unity/)
 * [2025-12-28, 21:29:32](https://news.ycombinator.com/item?id=46414723) - [Software engineers should be a little bit cynical](https://www.seangoedecke.com/a-little-bit-cynical/)
 * [2025-12-28, 21:03:03](https://news.ycombinator.com/item?id=46414475) - [MongoBleed Explained Simply](https://bigdata.2minutestreaming.com/p/mongobleed-explained-simply)
@@ -23,13 +26,10 @@
 * [2025-12-28, 05:02:39](https://news.ycombinator.com/item?id=46408613) - [Calendar](https://neatnik.net/calendar/?year=2026)
 * [2025-12-28, 01:07:09](https://news.ycombinator.com/item?id=46407337) - [Replacing JavaScript with Just HTML](https://www.htmhell.dev/adventcalendar/2025/27/)
 * [2025-12-26, 04:57:04](https://news.ycombinator.com/item?id=46389336) - [Time in C++: Inter-Clock Conversions, Epochs, and Durations](https://www.sandordargo.com/blog/2025/12/24/clocks-part-5-conversions)
-* [2025-12-25, 15:34:44](https://news.ycombinator.com/item?id=46384992) - [Oral History of Richard Greenblatt (2005) [pdf]](https://archive.computerhistory.org/resources/text/Oral_History/Greenblatt_Richard/greenblatt.oral_history_transcript.2005.102657935.pdf)
-* [2025-12-24, 22:41:11](https://news.ycombinator.com/item?id=46380054) - [2D Signed Distance Functions](https://iquilezles.org/articles/distfunctions2d/)
 * [2025-12-24, 16:45:37](https://news.ycombinator.com/item?id=46377081) - [John Malone and the Invention of Liquid-Based Engines](https://permalink.lanl.gov/object/tr?what=info:lanl-repo/lareport/LA-UR-93-1350-25)
 * [2025-12-24, 12:40:00](https://news.ycombinator.com/item?id=46375067) - [Show HN: LoongArch Userspace Emulator](https://github.com/libriscv/libloong)
 * [2025-12-22, 19:16:21](https://news.ycombinator.com/item?id=46357686) - [Doublespeak: In-Context Representation Hijacking](https://mentaleap.ai/doublespeak/)
 * [2025-12-22, 14:16:40](https://news.ycombinator.com/item?id=46354282) - [One year of keeping a tada list](https://www.ducktyped.org/p/one-year-of-keeping-a-tada-list)
-* [2025-12-22, 05:55:05](https://news.ycombinator.com/item?id=46351744) - [Vibration Isolation of Precision Objects (2005) [pdf]](http://www.sandv.com/downloads/0607rivi.pdf)
 
 ## [Archives](archives/index.md)
 
