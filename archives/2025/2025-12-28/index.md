@@ -6,6 +6,7 @@
 
 * [2025-12-28, 16:29:12](https://news.ycombinator.com/item?id=46412210) - [Scientists discover beer bottle in the Mariana Trench (2024)](https://www.unilad.com/news/scientist-beer-bottle-deepest-point-ocean-mariana-trench-667878-20240213)
 * [2025-12-28, 16:18:27](https://news.ycombinator.com/item?id=46412114) - [Things Developers Can Avoid in 2026](https://newsletter.compasscalendar.com/p/77-things-to-avoid-in-2026-developer)
+* [2025-12-28, 15:02:07](https://news.ycombinator.com/item?id=46411539) - [Designing Predictable LLM-Verifier Systems for Formal Method Guarantee](https://arxiv.org/abs/2512.02080)
 * [2025-12-28, 14:24:59](https://news.ycombinator.com/item?id=46411275) - [Ask HN: Anti-AI Open Source License?](https://news.ycombinator.com/item?id=46411275)
 * [2025-12-28, 13:42:42](https://news.ycombinator.com/item?id=46411040) - ['PromptQuest' is the worst game of 2025 (trying to make chatbots work)](https://www.theregister.com/2025/12/26/ai_is_like_adventure_games/)
 * [2025-12-28, 12:00:06](https://news.ycombinator.com/item?id=46410449) - [Langfuse (YC W23) Is Hiring in Berlin, Germany](https://langfuse.com/careers)

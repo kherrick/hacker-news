@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-12-28, 16:29:12](https://news.ycombinator.com/item?id=46412210) - [Scientists discover beer bottle in the Mariana Trench (2024)](https://www.unilad.com/news/scientist-beer-bottle-deepest-point-ocean-mariana-trench-667878-20240213)
-* [2025-12-28, 16:18:27](https://news.ycombinator.com/item?id=46412114) - [Things Developers Can Avoid in 2026](https://newsletter.compasscalendar.com/p/77-things-to-avoid-in-2026-developer)
+* [2025-12-28, 15:02:07](https://news.ycombinator.com/item?id=46411539) - [Designing Predictable LLM-Verifier Systems for Formal Method Guarantee](https://arxiv.org/abs/2512.02080)
 * [2025-12-28, 13:42:42](https://news.ycombinator.com/item?id=46411040) - ['PromptQuest' is the worst game of 2025 (trying to make chatbots work)](https://www.theregister.com/2025/12/26/ai_is_like_adventure_games/)
 * [2025-12-28, 12:00:06](https://news.ycombinator.com/item?id=46410449) - [Langfuse (YC W23) Is Hiring in Berlin, Germany](https://langfuse.com/careers)
 * [2025-12-28, 11:51:42](https://news.ycombinator.com/item?id=46410402) - [Building a macOS app to know when my Mac is thermal throttling](https://stanislas.blog/2025/12/macos-thermal-throttling-app/)
@@ -14,7 +14,7 @@
 * [2025-12-28, 01:07:09](https://news.ycombinator.com/item?id=46407337) - [Replacing JavaScript with Just HTML](https://www.htmhell.dev/adventcalendar/2025/27/)
 * [2025-12-28, 00:05:52](https://news.ycombinator.com/item?id=46406901) - [Functional programming and reliability: ADTs, safety, critical infrastructure](https://blog.rastrian.dev/post/why-reliability-demands-functional-programming-adts-safety-and-critical-infrastructure)
 * [2025-12-27, 22:37:58](https://news.ycombinator.com/item?id=46406098) - [Liberating Bluetooth on the ESP32](https://exquisite.tube/w/mEzF442Q4hUXnhQ8HmfZuq)
-* [2025-12-27, 22:15:43](https://news.ycombinator.com/item?id=46405866) - [Public Domain Day 2026](https://web.law.duke.edu/cspd/publicdomainday/2026/)
+* [2025-12-27, 21:15:35](https://news.ycombinator.com/item?id=46405309) - [Say No to Palantir in the NHS](https://notopalantir.goodlawproject.org/email-to-target/stop-palantir-in-the-nhs/)
 * [2025-12-27, 20:15:01](https://news.ycombinator.com/item?id=46404848) - [How we lost communication to entertainment](https://ploum.net/2025-12-15-communication-entertainment.html)
 * [2025-12-27, 19:45:28](https://news.ycombinator.com/item?id=46404597) - [Rainbow Six Siege hacked as players get billions of credits and random bans](https://www.shanethegamer.com/esports-news/rainbow-six-siege-hacked-global-server-outage/)
 * [2025-12-27, 18:22:05](https://news.ycombinator.com/item?id=46403915) - [Windows 2 for the Apricot PC/Xi](https://www.ninakalinina.com/notes/win2apri/)
