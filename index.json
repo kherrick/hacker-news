@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-12-28, 03:27:26",
+      "https://news.ycombinator.com/item?id=46408104"
+    ],
+    [
+      "Nvidia deal a big win for Groq employees and investors",
+      "https://www.axios.com/2025/12/28/nvidia-groq-shareholders"
+    ]
+  ],
+  [
+    [
       "2025-12-28, 01:33:10",
       "https://news.ycombinator.com/item?id=46407502"
     ],
@@ -211,26 +221,6 @@
   ],
   [
     [
-      "2025-12-26, 23:42:46",
-      "https://news.ycombinator.com/item?id=46397609"
-    ],
-    [
-      "Exe.dev",
-      "https://exe.dev/"
-    ]
-  ],
-  [
-    [
-      "2025-12-23, 19:03:29",
-      "https://news.ycombinator.com/item?id=46368226"
-    ],
-    [
-      "2025 was the year Xbox died",
-      "https://www.engadget.com/gaming/xbox/2025-was-the-year-xbox-died-130000467.html"
-    ]
-  ],
-  [
-    [
       "2025-12-23, 18:59:45",
       "https://news.ycombinator.com/item?id=46368177"
     ],
@@ -287,6 +277,16 @@
     [
       "Immer – A library of persistent and immutable data structures written in C++",
       "https://github.com/arximboldi/immer"
+    ]
+  ],
+  [
+    [
+      "2025-12-21, 20:03:03",
+      "https://news.ycombinator.com/item?id=46347893"
+    ],
+    [
+      "Go Gray, Not Cray: Why You Should Grayscale Your Phone",
+      "https://sami.eljabali.org/go-gray-not-cray-why-you-should-grayscale-your-phone/"
     ]
   ],
   [
