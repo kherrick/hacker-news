@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-12-28](index.md)
 
+* [2025-12-28, 19:41:40](https://news.ycombinator.com/item?id=46413790) - [No it's not a Battleship](https://www.navalgazing.net/No-its-not)
 * [2025-12-28, 18:43:54](https://news.ycombinator.com/item?id=46413365) - [Remembering Lou Gerstner](https://newsroom.ibm.com/2025-12-28-Remembering-Lou-Gerstner)
 * [2025-12-28, 18:41:25](https://news.ycombinator.com/item?id=46413348) - [Tell HN: Google ignores English searches and forces localized results](https://news.ycombinator.com/item?id=46413348)
 * [2025-12-28, 17:15:45](https://news.ycombinator.com/item?id=46412578) - [Deathbed Advice/Regret](https://hazn.com/deathbed-regret)
@@ -31,6 +32,7 @@
 * [2025-12-28, 06:42:53](https://news.ycombinator.com/item?id=46408984) - [C++ says \"We have try at home.\"](https://devblogs.microsoft.com/oldnewthing/20251222-00/?p=111890)
 * [2025-12-28, 05:02:39](https://news.ycombinator.com/item?id=46408613) - [Calendar](https://neatnik.net/calendar/?year=2026)
 * [2025-12-28, 04:40:56](https://news.ycombinator.com/item?id=46408510) - [C –> Java != Java –> LLM](http://www.observationalhazard.com/2025/12/c-java-java-llm.html)
+* [2025-12-28, 04:12:48](https://news.ycombinator.com/item?id=46408365) - [Rust errors without dependencies](https://vincents.dev/blog/rust-errors-without-dependencies/)
 * [2025-12-28, 03:40:43](https://news.ycombinator.com/item?id=46408192) - [Dialtone – AOL 3.0 Server](https://dialtone.live/)
 * [2025-12-28, 03:27:26](https://news.ycombinator.com/item?id=46408104) - [Nvidia deal a big win for Groq employees and investors](https://www.axios.com/2025/12/28/nvidia-groq-shareholders)
 * [2025-12-28, 01:33:10](https://news.ycombinator.com/item?id=46407502) - [Dad's Fitness May Be Packaged and Passed Down in Sperm RNA](https://www.quantamagazine.org/how-dads-fitness-may-be-packaged-and-passed-down-in-sperm-rna-20251222/)
