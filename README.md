@@ -1,7 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-12-28, 14:24:59](https://news.ycombinator.com/item?id=46411275) - [Ask HN: Anti-AI Open Source License?](https://news.ycombinator.com/item?id=46411275)
 * [2025-12-28, 13:42:42](https://news.ycombinator.com/item?id=46411040) - ['PromptQuest' is the worst game of 2025 (trying to make chatbots work)](https://www.theregister.com/2025/12/26/ai_is_like_adventure_games/)
 * [2025-12-28, 12:00:06](https://news.ycombinator.com/item?id=46410449) - [Langfuse (YC W23) Is Hiring in Berlin, Germany](https://langfuse.com/careers)
+* [2025-12-28, 11:51:42](https://news.ycombinator.com/item?id=46410402) - [Building a macOS app to know when my Mac is thermal throttling](https://stanislas.blog/2025/12/macos-thermal-throttling-app/)
+* [2025-12-28, 10:04:42](https://news.ycombinator.com/item?id=46409928) - [Hungry Fat Cells Could Someday Starve Cancer to Death](https://www.ucsf.edu/news/2025/01/429411/how-hungry-fat-cells-could-someday-starve-cancer-death)
 * [2025-12-28, 06:43:25](https://news.ycombinator.com/item?id=46408988) - [Growing up in “404 Not Found”: China's nuclear city in the Gobi Desert](https://substack.com/inbox/post/182743659)
 * [2025-12-28, 06:42:53](https://news.ycombinator.com/item?id=46408984) - [C++ says “We have try. . . finally at home”](https://devblogs.microsoft.com/oldnewthing/20251222-00/?p=111890)
 * [2025-12-28, 05:02:39](https://news.ycombinator.com/item?id=46408613) - [Calendar](https://neatnik.net/calendar/?year=2026)
@@ -17,10 +20,8 @@
 * [2025-12-27, 17:42:46](https://news.ycombinator.com/item?id=46403559) - [Nvidia's $20B antitrust loophole](https://ossa-ma.github.io/blog/groq)
 * [2025-12-27, 17:05:50](https://news.ycombinator.com/item?id=46403200) - [Gpg.fail](https://gpg.fail)
 * [2025-12-27, 13:13:00](https://news.ycombinator.com/item?id=46401612) - [Floor796](https://floor796.com/)
-* [2025-12-27, 12:51:15](https://news.ycombinator.com/item?id=46401499) - [OrangePi 6 Plus Review](https://boilingsteam.com/orange-pi-6-plus-review/)
 * [2025-12-27, 08:45:46](https://news.ycombinator.com/item?id=46400251) - [Show HN: Ez FFmpeg – Video editing in plain English](http://npmjs.com/package/ezff)
 * [2025-12-27, 01:42:45](https://news.ycombinator.com/item?id=46398323) - [An experiment in separating identity, memory, and tools](https://RCRDBL.com)
-* [2025-12-24, 09:36:28](https://news.ycombinator.com/item?id=46374052) - [Slate AX: Wi-Fi 6 Gigabit travel router](https://www.gl-inet.com/products/gl-axt1800/)
 * [2025-12-23, 18:59:45](https://news.ycombinator.com/item?id=46368177) - [Clock synchronization is a nightmare](https://arpitbhayani.me/blogs/clock-sync-nightmare/)
 * [2025-12-23, 02:58:32](https://news.ycombinator.com/item?id=46361927) - [Rex is a safe kernel extension framework that allows Rust in the place of eBPF](https://github.com/rex-rs/rex)
 * [2025-12-22, 14:16:40](https://news.ycombinator.com/item?id=46354282) - [One year of keeping a tada list](https://www.ducktyped.org/p/one-year-of-keeping-a-tada-list)
@@ -29,7 +30,6 @@
 * [2025-12-22, 01:43:29](https://news.ycombinator.com/item?id=46350476) - [The Origins of APL (1974) [video]](https://www.youtube.com/watch?v=8kUQWuK1L4w)
 * [2025-12-22, 00:14:43](https://news.ycombinator.com/item?id=46349988) - [Text rendering hates you (2019)](https://faultlore.com/blah/text-hates-you/)
 * [2025-12-21, 20:59:06](https://news.ycombinator.com/item?id=46348367) - [Immer – A library of persistent and immutable data structures written in C++](https://github.com/arximboldi/immer)
-* [2025-12-21, 17:49:36](https://news.ycombinator.com/item?id=46346648) - [Ask HN: Resources to get better at outbound sales?](https://news.ycombinator.com/item?id=46346648)
 
 ## [Archives](archives/index.md)
 

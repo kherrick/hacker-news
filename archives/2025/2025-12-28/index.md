@@ -4,10 +4,13 @@
 
 ### [Archives](../../index.md) for [2025-12-28](index.md)
 
+* [2025-12-28, 14:24:59](https://news.ycombinator.com/item?id=46411275) - [Ask HN: Anti-AI Open Source License?](https://news.ycombinator.com/item?id=46411275)
 * [2025-12-28, 13:42:42](https://news.ycombinator.com/item?id=46411040) - ['PromptQuest' is the worst game of 2025 (trying to make chatbots work)](https://www.theregister.com/2025/12/26/ai_is_like_adventure_games/)
 * [2025-12-28, 12:00:06](https://news.ycombinator.com/item?id=46410449) - [Langfuse (YC W23) Is Hiring in Berlin, Germany](https://langfuse.com/careers)
+* [2025-12-28, 11:51:42](https://news.ycombinator.com/item?id=46410402) - [Building a macOS app to know when my Mac is thermal throttling](https://stanislas.blog/2025/12/macos-thermal-throttling-app/)
 * [2025-12-28, 11:27:07](https://news.ycombinator.com/item?id=46410285) - [Claude Code creator says Claude wrote all his code for the last month](https://twitter.com/bcherny/status/2004897269674639461)
 * [2025-12-28, 10:51:18](https://news.ycombinator.com/item?id=46410153) - [Salesforce pulls back from LLMs, pivots Agentforce to deterministic automation](https://completeaitraining.com/news/salesforce-pulls-back-from-llms-pivots-agentforce-to/)
+* [2025-12-28, 10:04:42](https://news.ycombinator.com/item?id=46409928) - [Hungry Fat Cells Could Someday Starve Cancer to Death](https://www.ucsf.edu/news/2025/01/429411/how-hungry-fat-cells-could-someday-starve-cancer-death)
 * [2025-12-28, 08:15:35](https://news.ycombinator.com/item?id=46409375) - [Ask HN: By what percentage has AI changed your output as a software engineer?](https://news.ycombinator.com/item?id=46409375)
 * [2025-12-28, 07:45:16](https://news.ycombinator.com/item?id=46409245) - [Manus AI 100M USD ARR](https://manus.im/blog/manus-100m-arr)
 * [2025-12-28, 07:14:43](https://news.ycombinator.com/item?id=46409125) - [A new research shows that 21-33% of YouTube's feed may consist of AI slop](https://www.kapwing.com/blog/ai-slop-report-the-global-rise-of-low-quality-ai-videos/)
