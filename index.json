@@ -5,7 +5,7 @@
       "https://news.ycombinator.com/item?id=46407502"
     ],
     [
-      "Dad's Fitness May Be Packaged and Passed Down in Sperm RNA",
+      "Fathers’ choices may be packaged and passed down in sperm RNA",
       "https://www.quantamagazine.org/how-dads-fitness-may-be-packaged-and-passed-down-in-sperm-rna-20251222/"
     ]
   ],
@@ -21,32 +21,12 @@
   ],
   [
     [
-      "2025-12-28, 00:48:16",
-      "https://news.ycombinator.com/item?id=46407198"
-    ],
-    [
-      "Show HN: What 4M posts reveal about going viral on Hacker News",
-      "https://hn-ph.vercel.app"
-    ]
-  ],
-  [
-    [
       "2025-12-28, 00:05:52",
       "https://news.ycombinator.com/item?id=46406901"
     ],
     [
-      "Why Reliability Demands Functional Programming",
+      "Functional programming and reliability: ADTs, safety, critical infrastructure",
       "https://blog.rastrian.dev/post/why-reliability-demands-functional-programming-adts-safety-and-critical-infrastructure"
-    ]
-  ],
-  [
-    [
-      "2025-12-27, 23:16:55",
-      "https://news.ycombinator.com/item?id=46406486"
-    ],
-    [
-      "Show HN: Waycore – an open-source, offline-first modular field computer",
-      "https://news.ycombinator.com/item?id=46406486"
     ]
   ],
   [
@@ -61,12 +41,22 @@
   ],
   [
     [
-      "2025-12-27, 21:36:27",
-      "https://news.ycombinator.com/item?id=46405481"
+      "2025-12-27, 22:41:22",
+      "https://news.ycombinator.com/item?id=46406129"
     ],
     [
-      "How We Found Out About COINTELPRO (2014)",
-      "https://monthlyreview.org/articles/how-we-found-out-about-cointelpro/"
+      "The Dangers of SSL Certificates",
+      "https://surfingcomplexity.blog/2025/12/27/the-dangers-of-ssl-certificates/"
+    ]
+  ],
+  [
+    [
+      "2025-12-27, 22:37:58",
+      "https://news.ycombinator.com/item?id=46406098"
+    ],
+    [
+      "Liberating Bluetooth on the ESP32",
+      "https://exquisite.tube/w/mEzF442Q4hUXnhQ8HmfZuq"
     ]
   ],
   [
@@ -191,6 +181,16 @@
   ],
   [
     [
+      "2025-12-27, 11:57:17",
+      "https://news.ycombinator.com/item?id=46401190"
+    ],
+    [
+      "Splice a Fibre",
+      "https://react-networks-lib.rackout.net/fibre"
+    ]
+  ],
+  [
+    [
       "2025-12-27, 08:45:46",
       "https://news.ycombinator.com/item?id=46400251"
     ],
@@ -201,32 +201,32 @@
   ],
   [
     [
-      "2025-12-24, 23:11:50",
-      "https://news.ycombinator.com/item?id=46380317"
+      "2025-12-27, 03:45:20",
+      "https://news.ycombinator.com/item?id=46398906"
     ],
     [
-      "Rust the Process",
-      "https://www.amalbansode.com/writing/2025-12-24-rust-the-process/"
+      "Pre-commit hooks are broken",
+      "https://jyn.dev/pre-commit-hooks-are-fundamentally-broken/"
     ]
   ],
   [
     [
-      "2025-12-23, 22:38:30",
-      "https://news.ycombinator.com/item?id=46370309"
+      "2025-12-26, 23:42:46",
+      "https://news.ycombinator.com/item?id=46397609"
     ],
     [
-      "They made me an offer I couldn't refuse (1997)",
-      "https://jens.mooseyard.com/1997/04/13/they-made-me-an-offer-i-couldnt-refuse/"
+      "Exe.dev",
+      "https://exe.dev/"
     ]
   ],
   [
     [
-      "2025-12-23, 19:59:19",
-      "https://news.ycombinator.com/item?id=46368827"
+      "2025-12-23, 19:03:29",
+      "https://news.ycombinator.com/item?id=46368226"
     ],
     [
-      "Pantograph: Building a preschool for robots",
-      "https://pantograph.com/blog/building-a-preschool-for-robots.html"
+      "2025 was the year Xbox died",
+      "https://www.engadget.com/gaming/xbox/2025-was-the-year-xbox-died-130000467.html"
     ]
   ],
   [
@@ -275,7 +275,7 @@
       "https://news.ycombinator.com/item?id=46349988"
     ],
     [
-      "Text rendering hates you",
+      "Text rendering hates you (2019)",
       "https://faultlore.com/blah/text-hates-you/"
     ]
   ],
@@ -285,7 +285,7 @@
       "https://news.ycombinator.com/item?id=46348367"
     ],
     [
-      "immer – a library of persistent and immutable data structures written in C++",
+      "Immer – A library of persistent and immutable data structures written in C++",
       "https://github.com/arximboldi/immer"
     ]
   ],
