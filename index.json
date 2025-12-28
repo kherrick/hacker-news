@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-12-28, 20:59:21",
+      "https://news.ycombinator.com/item?id=46414443"
+    ],
+    [
+      "Loss of moist broadleaf forest in Africa has turned a carbon sink into source",
+      "https://www.nature.com/articles/s41598-025-27462-3"
+    ]
+  ],
+  [
+    [
+      "2025-12-28, 20:14:58",
+      "https://news.ycombinator.com/item?id=46414078"
+    ],
+    [
+      "Stepping down as Mockito maintainer after 10 years",
+      "https://github.com/mockito/mockito/issues/3777"
+    ]
+  ],
+  [
+    [
       "2025-12-28, 19:41:40",
       "https://news.ycombinator.com/item?id=46413790"
     ],
@@ -151,16 +171,6 @@
   ],
   [
     [
-      "2025-12-28, 03:40:43",
-      "https://news.ycombinator.com/item?id=46408192"
-    ],
-    [
-      "Dialtone – AOL 3.0 Server",
-      "https://dialtone.live/"
-    ]
-  ],
-  [
-    [
       "2025-12-28, 01:33:10",
       "https://news.ycombinator.com/item?id=46407502"
     ],
@@ -177,26 +187,6 @@
     [
       "Replacing JavaScript with Just HTML",
       "https://www.htmhell.dev/adventcalendar/2025/27/"
-    ]
-  ],
-  [
-    [
-      "2025-12-28, 00:05:52",
-      "https://news.ycombinator.com/item?id=46406901"
-    ],
-    [
-      "Functional programming and reliability: ADTs, safety, critical infrastructure",
-      "https://blog.rastrian.dev/post/why-reliability-demands-functional-programming-adts-safety-and-critical-infrastructure"
-    ]
-  ],
-  [
-    [
-      "2025-12-27, 22:37:58",
-      "https://news.ycombinator.com/item?id=46406098"
-    ],
-    [
-      "Liberating Bluetooth on the ESP32",
-      "https://exquisite.tube/w/mEzF442Q4hUXnhQ8HmfZuq"
     ]
   ],
   [
@@ -267,6 +257,16 @@
     [
       "Rex is a safe kernel extension framework that allows Rust in the place of eBPF",
       "https://github.com/rex-rs/rex"
+    ]
+  ],
+  [
+    [
+      "2025-12-22, 19:16:21",
+      "https://news.ycombinator.com/item?id=46357686"
+    ],
+    [
+      "Doublespeak: In-Context Representation Hijacking",
+      "https://mentaleap.ai/doublespeak/"
     ]
   ],
   [
