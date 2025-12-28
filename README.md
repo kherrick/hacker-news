@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-12-28, 03:27:26](https://news.ycombinator.com/item?id=46408104) - [Nvidia deal a big win for Groq employees and investors](https://www.axios.com/2025/12/28/nvidia-groq-shareholders)
 * [2025-12-28, 01:33:10](https://news.ycombinator.com/item?id=46407502) - [Fathers’ choices may be packaged and passed down in sperm RNA](https://www.quantamagazine.org/how-dads-fitness-may-be-packaged-and-passed-down-in-sperm-rna-20251222/)
 * [2025-12-28, 01:07:09](https://news.ycombinator.com/item?id=46407337) - [Replacing JavaScript with Just HTML](https://www.htmhell.dev/adventcalendar/2025/27/)
 * [2025-12-28, 00:05:52](https://news.ycombinator.com/item?id=46406901) - [Functional programming and reliability: ADTs, safety, critical infrastructure](https://blog.rastrian.dev/post/why-reliability-demands-functional-programming-adts-safety-and-critical-infrastructure)
@@ -21,14 +22,13 @@
 * [2025-12-27, 11:57:17](https://news.ycombinator.com/item?id=46401190) - [Splice a Fibre](https://react-networks-lib.rackout.net/fibre)
 * [2025-12-27, 08:45:46](https://news.ycombinator.com/item?id=46400251) - [Show HN: Ez FFmpeg – Video editing in plain English](http://npmjs.com/package/ezff)
 * [2025-12-27, 03:45:20](https://news.ycombinator.com/item?id=46398906) - [Pre-commit hooks are broken](https://jyn.dev/pre-commit-hooks-are-fundamentally-broken/)
-* [2025-12-26, 23:42:46](https://news.ycombinator.com/item?id=46397609) - [Exe.dev](https://exe.dev/)
-* [2025-12-23, 19:03:29](https://news.ycombinator.com/item?id=46368226) - [2025 was the year Xbox died](https://www.engadget.com/gaming/xbox/2025-was-the-year-xbox-died-130000467.html)
 * [2025-12-23, 18:59:45](https://news.ycombinator.com/item?id=46368177) - [Clock synchronization is a nightmare](https://arpitbhayani.me/blogs/clock-sync-nightmare/)
 * [2025-12-23, 13:18:32](https://news.ycombinator.com/item?id=46365105) - [Show HN: Mysti – Claude, Codex, and Gemini debate your code, then synthesize](https://github.com/DeepMyst/Mysti)
 * [2025-12-22, 13:44:14](https://news.ycombinator.com/item?id=46354050) - [Project Vend: Phase Two](https://www.anthropic.com/research/project-vend-2)
 * [2025-12-22, 05:00:14](https://news.ycombinator.com/item?id=46351457) - [Mruby: Ruby for Embedded Systems](https://github.com/mruby/mruby)
 * [2025-12-22, 00:14:43](https://news.ycombinator.com/item?id=46349988) - [Text rendering hates you (2019)](https://faultlore.com/blah/text-hates-you/)
 * [2025-12-21, 20:59:06](https://news.ycombinator.com/item?id=46348367) - [Immer – A library of persistent and immutable data structures written in C++](https://github.com/arximboldi/immer)
+* [2025-12-21, 20:03:03](https://news.ycombinator.com/item?id=46347893) - [Go Gray, Not Cray: Why You Should Grayscale Your Phone](https://sami.eljabali.org/go-gray-not-cray-why-you-should-grayscale-your-phone/)
 * [2025-12-21, 17:49:36](https://news.ycombinator.com/item?id=46346648) - [Ask HN: Resources to get better at outbound sales?](https://news.ycombinator.com/item?id=46346648)
 
 ## [Archives](archives/index.md)

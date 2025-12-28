@@ -19,6 +19,7 @@
 * [2025-12-21, 20:44:35](https://news.ycombinator.com/item?id=46348251) - [Langjam-Gamejam Devlog: Making a language, compiler, VM and 5 games in 52 hours](https://github.com/Syn-Nine/gar-lang/blob/main/DEVLOG.md)
 * [2025-12-21, 20:40:00](https://news.ycombinator.com/item?id=46348207) - [Why did we use leaded petrol for so long? (2017)](https://www.bbc.com/news/business-40593353)
 * [2025-12-21, 20:16:33](https://news.ycombinator.com/item?id=46348004) - [Redis vs. BoltCache](https://github.com/wutlu/boltcache)
+* [2025-12-21, 20:03:03](https://news.ycombinator.com/item?id=46347893) - [Go Gray, Not Cray: Why You Should Grayscale Your Phone](https://sami.eljabali.org/go-gray-not-cray-why-you-should-grayscale-your-phone/)
 * [2025-12-21, 19:58:11](https://news.ycombinator.com/item?id=46347846) - [Weight loss jabs: What happens when you stop taking them](https://www.bbc.com/news/articles/cn98pdpyjz5o)
 * [2025-12-21, 18:43:20](https://news.ycombinator.com/item?id=46347108) - [I can't upgrade to Windows 11, now leave me alone](https://idiallo.com/byte-size/cant-update-to-windows-11-leave-me-alone)
 * [2025-12-21, 18:39:46](https://news.ycombinator.com/item?id=46347080) - [Mullvad VPN: \"This is a Chat Control 3.0 attempt.\"](https://mastodon.online/@mullvadnet/115742530333573065)
