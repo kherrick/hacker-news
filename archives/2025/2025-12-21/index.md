@@ -47,6 +47,7 @@
 * [2025-12-21, 15:06:46](https://news.ycombinator.com/item?id=46345333) - [Structured Outputs Create False Confidence](https://boundaryml.com/blog/structured-outputs-create-false-confidence)
 * [2025-12-21, 15:06:05](https://news.ycombinator.com/item?id=46345330) - [Show HN: HN Sentiment API – I ranked tech CEOs by how much you hate them](https://docs.hnpulse.com)
 * [2025-12-21, 14:46:53](https://news.ycombinator.com/item?id=46345205) - [How I protect my Forgejo instance from AI web crawlers](https://her.esy.fun/posts/0031-how-i-protect-my-forgejo-instance-from-ai-web-crawlers/index.html)
+* [2025-12-21, 14:40:16](https://news.ycombinator.com/item?id=46345158) - [Interton Video Computer 4000](https://en.wikipedia.org/wiki/Interton_Video_Computer_4000)
 * [2025-12-21, 14:40:03](https://news.ycombinator.com/item?id=46345157) - [Show HN: GenresFox – Open-source, customizable new tab page extension in WASM](https://github.com/zayokami/GenresFox)
 * [2025-12-21, 14:35:29](https://news.ycombinator.com/item?id=46345125) - [Three Ways to Solve Problems](https://andreasfragner.com/writing/three-ways-to-solve-problems)
 * [2025-12-21, 14:15:24](https://news.ycombinator.com/item?id=46345000) - [Mozilla right now (Digital Painting)](https://www.davidrevoy.com/article1108/mozilla-right-now)

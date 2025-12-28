@@ -19,7 +19,6 @@
 * [2025-12-27, 17:05:50](https://news.ycombinator.com/item?id=46403200) - [Gpg.fail](https://gpg.fail)
 * [2025-12-27, 13:13:00](https://news.ycombinator.com/item?id=46401612) - [Floor796](https://floor796.com/)
 * [2025-12-27, 12:51:15](https://news.ycombinator.com/item?id=46401499) - [OrangePi 6 Plus Review](https://boilingsteam.com/orange-pi-6-plus-review/)
-* [2025-12-27, 11:57:17](https://news.ycombinator.com/item?id=46401190) - [Splice a Fibre](https://react-networks-lib.rackout.net/fibre)
 * [2025-12-27, 08:45:46](https://news.ycombinator.com/item?id=46400251) - [Show HN: Ez FFmpeg – Video editing in plain English](http://npmjs.com/package/ezff)
 * [2025-12-27, 03:45:20](https://news.ycombinator.com/item?id=46398906) - [Pre-commit hooks are broken](https://jyn.dev/pre-commit-hooks-are-fundamentally-broken/)
 * [2025-12-23, 18:59:45](https://news.ycombinator.com/item?id=46368177) - [Clock synchronization is a nightmare](https://arpitbhayani.me/blogs/clock-sync-nightmare/)
@@ -30,6 +29,7 @@
 * [2025-12-21, 20:59:06](https://news.ycombinator.com/item?id=46348367) - [Immer – A library of persistent and immutable data structures written in C++](https://github.com/arximboldi/immer)
 * [2025-12-21, 20:03:03](https://news.ycombinator.com/item?id=46347893) - [Go Gray, Not Cray: Why You Should Grayscale Your Phone](https://sami.eljabali.org/go-gray-not-cray-why-you-should-grayscale-your-phone/)
 * [2025-12-21, 17:49:36](https://news.ycombinator.com/item?id=46346648) - [Ask HN: Resources to get better at outbound sales?](https://news.ycombinator.com/item?id=46346648)
+* [2025-12-21, 14:40:16](https://news.ycombinator.com/item?id=46345158) - [Interton Video Computer 4000](https://en.wikipedia.org/wiki/Interton_Video_Computer_4000)
 
 ## [Archives](archives/index.md)
 
