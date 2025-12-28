@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-12-28](index.md)
 
+* [2025-12-28, 22:52:21](https://news.ycombinator.com/item?id=46415338) - [As AI gobbles up chips, prices for devices may rise](https://www.npr.org/2025/12/28/nx-s1-5656190/ai-chips-memory-prices-ram)
+* [2025-12-28, 22:35:02](https://news.ycombinator.com/item?id=46415225) - [What an unprocessed photo looks like](https://maurycyz.com/misc/raw_photo/)
 * [2025-12-28, 22:28:08](https://news.ycombinator.com/item?id=46415164) - [The Internet Is a Net Negative](https://kennethreitz.org/essays/2025-12-28-the_internet_is_a_net_negative)
 * [2025-12-28, 21:58:54](https://news.ycombinator.com/item?id=46414933) - [Keep the Robots Out of the Gym](https://danielmiessler.com/blog/keep-the-robots-out-of-the-gym)
 * [2025-12-28, 21:57:04](https://news.ycombinator.com/item?id=46414916) - [Dolphin Progress Release 2512](https://dolphin-emu.org/blog/2025/12/22/dolphin-progress-report-release-2512/)
@@ -16,6 +18,7 @@
 * [2025-12-28, 20:14:58](https://news.ycombinator.com/item?id=46414078) - [Stepping down as Mockito maintainer after 10 years](https://github.com/mockito/mockito/issues/3777)
 * [2025-12-28, 20:02:50](https://news.ycombinator.com/item?id=46413975) - [PySDR: A Guide to SDR and DSP Using Python](https://pysdr.org/content/intro.html)
 * [2025-12-28, 19:41:40](https://news.ycombinator.com/item?id=46413790) - [No it's not a Battleship](https://www.navalgazing.net/No-its-not)
+* [2025-12-28, 19:13:04](https://news.ycombinator.com/item?id=46413566) - [Delete LinkedIn – you'll have zero fucking regrets (2021)](https://thenextweb.com/news/delete-linkedin-youll-have-zero-regrets-syndication)
 * [2025-12-28, 18:43:54](https://news.ycombinator.com/item?id=46413365) - [Remembering Lou Gerstner](https://newsroom.ibm.com/2025-12-28-Remembering-Lou-Gerstner)
 * [2025-12-28, 18:41:25](https://news.ycombinator.com/item?id=46413348) - [Tell HN: Google ignores English searches and forces localized results](https://news.ycombinator.com/item?id=46413348)
 * [2025-12-28, 18:05:13](https://news.ycombinator.com/item?id=46413053) - [Show HN: Pion SCTP with RACK is 70% faster with 30% less latency](https://pion.ly/blog/sctp-and-rack/)
