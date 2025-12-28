@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-12-28](index.md)
 
+* [2025-12-28, 18:43:54](https://news.ycombinator.com/item?id=46413365) - [Remembering Lou Gerstner](https://newsroom.ibm.com/2025-12-28-Remembering-Lou-Gerstner)
 * [2025-12-28, 18:41:25](https://news.ycombinator.com/item?id=46413348) - [Tell HN: Google ignores English searches and forces localized results](https://news.ycombinator.com/item?id=46413348)
 * [2025-12-28, 17:15:45](https://news.ycombinator.com/item?id=46412578) - [Deathbed Advice/Regret](https://hazn.com/deathbed-regret)
 * [2025-12-28, 17:12:14](https://news.ycombinator.com/item?id=46412549) - [Hacker News made out of prime numbers](https://dosaygo-studio.github.io/prime-news/index.html)
