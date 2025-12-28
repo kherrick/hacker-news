@@ -24,6 +24,7 @@
 * [2025-12-22, 19:31:11](https://news.ycombinator.com/item?id=46357881) - [US blocks all offshore wind construction, says reason is classified](https://arstechnica.com/science/2025/12/us-government-finds-new-excuse-to-stop-construction-of-offshore-wind/)
 * [2025-12-22, 19:30:18](https://news.ycombinator.com/item?id=46357870) - [The Garbage Collection Handbook](https://gchandbook.org/index.html)
 * [2025-12-22, 19:25:29](https://news.ycombinator.com/item?id=46357814) - [The Algebra of Loans in Rust](https://nadrieril.github.io/blog/2025/12/21/the-algebra-of-loans-in-rust.html)
+* [2025-12-22, 19:16:21](https://news.ycombinator.com/item?id=46357686) - [Doublespeak: In-Context Representation Hijacking](https://mentaleap.ai/doublespeak/)
 * [2025-12-22, 19:15:56](https://news.ycombinator.com/item?id=46357675) - [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/)
 * [2025-12-22, 19:14:29](https://news.ycombinator.com/item?id=46357654) - [I stayed in a $40 capsule hotel (London)](https://www.cnbc.com/2025/12/20/zedwell-capsule-hotel-i-stayed-in-a-40-dollar-capsule-hotel-in-london.html)
 * [2025-12-22, 19:06:16](https://news.ycombinator.com/item?id=46357535) - [State regulators vote to keep utility profits high angering customers across CA](https://www.latimes.com/environment/story/2025-12-18/state-regulators-vote-to-keep-utility-profits-high-angering-customers)

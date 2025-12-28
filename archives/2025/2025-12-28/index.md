@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-12-28](index.md)
 
+* [2025-12-28, 20:59:21](https://news.ycombinator.com/item?id=46414443) - [Loss of moist broadleaf forest in Africa has turned a carbon sink into source](https://www.nature.com/articles/s41598-025-27462-3)
+* [2025-12-28, 20:14:58](https://news.ycombinator.com/item?id=46414078) - [Stepping down as Mockito maintainer after 10 years](https://github.com/mockito/mockito/issues/3777)
 * [2025-12-28, 19:41:40](https://news.ycombinator.com/item?id=46413790) - [No it's not a Battleship](https://www.navalgazing.net/No-its-not)
 * [2025-12-28, 18:43:54](https://news.ycombinator.com/item?id=46413365) - [Remembering Lou Gerstner](https://newsroom.ibm.com/2025-12-28-Remembering-Lou-Gerstner)
 * [2025-12-28, 18:41:25](https://news.ycombinator.com/item?id=46413348) - [Tell HN: Google ignores English searches and forces localized results](https://news.ycombinator.com/item?id=46413348)
