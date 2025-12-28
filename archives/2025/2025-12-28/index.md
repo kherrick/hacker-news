@@ -7,6 +7,7 @@
 * [2025-12-28, 22:28:08](https://news.ycombinator.com/item?id=46415164) - [The Internet Is a Net Negative](https://kennethreitz.org/essays/2025-12-28-the_internet_is_a_net_negative)
 * [2025-12-28, 21:58:54](https://news.ycombinator.com/item?id=46414933) - [Keep the Robots Out of the Gym](https://danielmiessler.com/blog/keep-the-robots-out-of-the-gym)
 * [2025-12-28, 21:57:04](https://news.ycombinator.com/item?id=46414916) - [Dolphin Progress Release 2512](https://dolphin-emu.org/blog/2025/12/22/dolphin-progress-report-release-2512/)
+* [2025-12-28, 21:41:42](https://news.ycombinator.com/item?id=46414819) - [Unity's Mono problem: Why your C# code runs slower than it should](https://marekfiser.com/blog/mono-vs-dot-net-in-unity/)
 * [2025-12-28, 21:29:32](https://news.ycombinator.com/item?id=46414723) - [Software engineers should be a little bit cynical](https://www.seangoedecke.com/a-little-bit-cynical/)
 * [2025-12-28, 21:17:12](https://news.ycombinator.com/item?id=46414611) - [The Prison of Financial Mediocrity](https://twitter.com/systematicls/status/2004900241745883205)
 * [2025-12-28, 21:03:03](https://news.ycombinator.com/item?id=46414475) - [MongoBleed Explained Simply](https://bigdata.2minutestreaming.com/p/mongobleed-explained-simply)
