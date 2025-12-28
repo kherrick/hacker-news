@@ -51,16 +51,6 @@
   ],
   [
     [
-      "2025-12-28, 00:05:52",
-      "https://news.ycombinator.com/item?id=46406901"
-    ],
-    [
-      "Functional programming and reliability: ADTs, safety, critical infrastructure",
-      "https://blog.rastrian.dev/post/why-reliability-demands-functional-programming-adts-safety-and-critical-infrastructure"
-    ]
-  ],
-  [
-    [
       "2025-12-27, 22:49:53",
       "https://news.ycombinator.com/item?id=46406213"
     ],
@@ -247,6 +237,16 @@
     [
       "Project Vend: Phase Two",
       "https://www.anthropic.com/research/project-vend-2"
+    ]
+  ],
+  [
+    [
+      "2025-12-22, 05:00:14",
+      "https://news.ycombinator.com/item?id=46351457"
+    ],
+    [
+      "Mruby: Ruby for Embedded Systems",
+      "https://github.com/mruby/mruby"
     ]
   ],
   [
