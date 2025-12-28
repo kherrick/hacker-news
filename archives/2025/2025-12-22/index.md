@@ -53,6 +53,7 @@
 * [2025-12-22, 15:06:13](https://news.ycombinator.com/item?id=46354674) - [Lua 5.5](https://lua.org/versions.html#5.5)
 * [2025-12-22, 14:44:20](https://news.ycombinator.com/item?id=46354492) - [One million (small web) screenshots](https://nry.me/posts/2025-10-09/small-web-screenshots/)
 * [2025-12-22, 14:28:42](https://news.ycombinator.com/item?id=46354372) - [(Social) media manipulation in one image](https://kerkour.com/social-media-manipulation)
+* [2025-12-22, 14:16:40](https://news.ycombinator.com/item?id=46354282) - [One year of keeping a tada list](https://www.ducktyped.org/p/one-year-of-keeping-a-tada-list)
 * [2025-12-22, 14:04:19](https://news.ycombinator.com/item?id=46354192) - [Dasharo TrustRoot Ephemeral Key Incident](https://blog.3mdeb.com/2025/2025-12-18-eom-key-issue/)
 * [2025-12-22, 14:04:02](https://news.ycombinator.com/item?id=46354187) - [Animating Quines for Larva Labs](https://destroytoday.com/blog/animating-quines-for-larva-labs)
 * [2025-12-22, 14:02:06](https://news.ycombinator.com/item?id=46354175) - [Show HN: Vibe code from phone template repo](https://github.com/AdmTal/vibe-code-from-phone-starter)
