@@ -21,7 +21,6 @@
 * [2025-12-27, 17:42:46](https://news.ycombinator.com/item?id=46403559) - [Nvidia's $20B antitrust loophole](https://ossa-ma.github.io/blog/groq)
 * [2025-12-27, 17:05:50](https://news.ycombinator.com/item?id=46403200) - [Gpg.fail](https://gpg.fail)
 * [2025-12-27, 13:13:00](https://news.ycombinator.com/item?id=46401612) - [Floor796](https://floor796.com/)
-* [2025-12-27, 12:51:15](https://news.ycombinator.com/item?id=46401499) - [OrangePi 6 Plus Review](https://boilingsteam.com/orange-pi-6-plus-review/)
 * [2025-12-27, 08:45:46](https://news.ycombinator.com/item?id=46400251) - [Show HN: Ez FFmpeg – Video editing in plain English](http://npmjs.com/package/ezff)
 * [2025-12-27, 01:42:45](https://news.ycombinator.com/item?id=46398323) - [An experiment in separating identity, memory, and tools](https://RCRDBL.com)
 * [2025-12-23, 02:58:32](https://news.ycombinator.com/item?id=46361927) - [Rex is a safe kernel extension framework that allows Rust in the place of eBPF](https://github.com/rex-rs/rex)
@@ -30,6 +29,7 @@
 * [2025-12-22, 01:43:29](https://news.ycombinator.com/item?id=46350476) - [The Origins of APL (1974) [video]](https://www.youtube.com/watch?v=8kUQWuK1L4w)
 * [2025-12-22, 00:14:43](https://news.ycombinator.com/item?id=46349988) - [Text rendering hates you (2019)](https://faultlore.com/blah/text-hates-you/)
 * [2025-12-21, 20:59:06](https://news.ycombinator.com/item?id=46348367) - [Immer – A library of persistent and immutable data structures written in C++](https://github.com/arximboldi/immer)
+* [2025-12-21, 03:18:14](https://news.ycombinator.com/item?id=46341926) - [William Golding's Island of Savagery](https://www.historytoday.com/archive/portrait-author-historian/william-goldings-island-savagery)
 
 ## [Archives](archives/index.md)
 
