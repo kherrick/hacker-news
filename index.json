@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-12-28, 21:58:54",
+      "https://news.ycombinator.com/item?id=46414933"
+    ],
+    [
+      "Keep the Robots Out of the Gym",
+      "https://danielmiessler.com/blog/keep-the-robots-out-of-the-gym"
+    ]
+  ],
+  [
+    [
+      "2025-12-28, 21:57:04",
+      "https://news.ycombinator.com/item?id=46414916"
+    ],
+    [
+      "Dolphin Progress Release 2512",
+      "https://dolphin-emu.org/blog/2025/12/22/dolphin-progress-report-release-2512/"
+    ]
+  ],
+  [
+    [
       "2025-12-28, 21:29:32",
       "https://news.ycombinator.com/item?id=46414723"
     ],
@@ -91,16 +111,6 @@
   ],
   [
     [
-      "2025-12-28, 16:43:14",
-      "https://news.ycombinator.com/item?id=46412327"
-    ],
-    [
-      "tc-ematch(8) extended matches for use with \"basic\", \"cgroup\" or \"flow\" filters",
-      "https://man7.org/linux/man-pages/man8/tc-ematch.8.html"
-    ]
-  ],
-  [
-    [
       "2025-12-28, 15:51:08",
       "https://news.ycombinator.com/item?id=46411902"
     ],
@@ -147,16 +157,6 @@
     [
       "Learn computer graphics from scratch and for free",
       "https://www.scratchapixel.com"
-    ]
-  ],
-  [
-    [
-      "2025-12-28, 10:12:08",
-      "https://news.ycombinator.com/item?id=46409969"
-    ],
-    [
-      "Last Year on My Mac: Look Back in Disbelief",
-      "https://eclecticlight.co/2025/12/28/last-year-on-my-mac-look-back-in-disbelief/"
     ]
   ],
   [
@@ -241,6 +241,16 @@
   ],
   [
     [
+      "2025-12-25, 15:34:44",
+      "https://news.ycombinator.com/item?id=46384992"
+    ],
+    [
+      "Oral History of Richard Greenblatt (2005) [pdf]",
+      "https://archive.computerhistory.org/resources/text/Oral_History/Greenblatt_Richard/greenblatt.oral_history_transcript.2005.102657935.pdf"
+    ]
+  ],
+  [
+    [
       "2025-12-24, 22:41:11",
       "https://news.ycombinator.com/item?id=46380054"
     ],
@@ -287,16 +297,6 @@
     [
       "Vibration Isolation of Precision Objects (2005) [pdf]",
       "http://www.sandv.com/downloads/0607rivi.pdf"
-    ]
-  ],
-  [
-    [
-      "2025-12-21, 15:15:41",
-      "https://news.ycombinator.com/item?id=46345412"
-    ],
-    [
-      "Never Use Pixelation to Hide Sensitive Text (2014)",
-      "https://dheera.net/posts/20140725-why-you-should-never-use-pixelation/"
     ]
   ]
 ]
