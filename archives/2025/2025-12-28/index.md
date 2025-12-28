@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-12-28](index.md)
 
+* [2025-12-28, 07:14:43](https://news.ycombinator.com/item?id=46409125) - [A new research shows that 21-33% of YouTube's feed may consist of AI slop](https://www.kapwing.com/blog/ai-slop-report-the-global-rise-of-low-quality-ai-videos/)
 * [2025-12-28, 05:02:39](https://news.ycombinator.com/item?id=46408613) - [Calendar](https://neatnik.net/calendar/?year=2026)
 * [2025-12-28, 04:40:56](https://news.ycombinator.com/item?id=46408510) - [C –> Java != Java –> LLM](http://www.observationalhazard.com/2025/12/c-java-java-llm.html)
 * [2025-12-28, 03:40:43](https://news.ycombinator.com/item?id=46408192) - [Dialtone – AOL 3.0 Server](https://dialtone.live/)
