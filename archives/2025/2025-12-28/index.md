@@ -4,9 +4,12 @@
 
 ### [Archives](../../index.md) for [2025-12-28](index.md)
 
+* [2025-12-28, 23:17:07](https://news.ycombinator.com/item?id=46415488) - [CEOs are hugely expensive. Why not automate them?](https://www.newstatesman.com/business/companies/2023/05/ceos-salaries-expensive-automate-robots)
+* [2025-12-28, 23:05:53](https://news.ycombinator.com/item?id=46415426) - [62 years in the making: NYC's newest water tunnel nears the finish line](https://ny1.com/nyc/all-boroughs/news/2025/11/09/water--dep--tunnels-)
 * [2025-12-28, 22:52:21](https://news.ycombinator.com/item?id=46415338) - [As AI gobbles up chips, prices for devices may rise](https://www.npr.org/2025/12/28/nx-s1-5656190/ai-chips-memory-prices-ram)
 * [2025-12-28, 22:35:02](https://news.ycombinator.com/item?id=46415225) - [What an unprocessed photo looks like](https://maurycyz.com/misc/raw_photo/)
 * [2025-12-28, 22:28:08](https://news.ycombinator.com/item?id=46415164) - [The Internet Is a Net Negative](https://kennethreitz.org/essays/2025-12-28-the_internet_is_a_net_negative)
+* [2025-12-28, 22:23:33](https://news.ycombinator.com/item?id=46415129) - [Researchers Discover Molecular Difference in Autistic Brains](https://medicine.yale.edu/news-article/molecular-difference-in-autistic-brains/)
 * [2025-12-28, 21:58:54](https://news.ycombinator.com/item?id=46414933) - [Keep the Robots Out of the Gym](https://danielmiessler.com/blog/keep-the-robots-out-of-the-gym)
 * [2025-12-28, 21:57:04](https://news.ycombinator.com/item?id=46414916) - [Dolphin Progress Release 2512](https://dolphin-emu.org/blog/2025/12/22/dolphin-progress-report-release-2512/)
 * [2025-12-28, 21:41:42](https://news.ycombinator.com/item?id=46414819) - [Unity's Mono problem: Why your C# code runs slower than it should](https://marekfiser.com/blog/mono-vs-dot-net-in-unity/)
