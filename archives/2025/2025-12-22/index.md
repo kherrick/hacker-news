@@ -61,6 +61,7 @@
 * [2025-12-22, 11:22:14](https://news.ycombinator.com/item?id=46353261) - [Italian Competition Authority Fines Apple $115M for Abusing Dominant Position](https://en.agcm.it/en/media/press-releases/2025/12/A561)
 * [2025-12-22, 11:21:42](https://news.ycombinator.com/item?id=46353257) - [Tachyon: High frequency statistical sampling profiler](https://docs.python.org/3.15/library/profiling.sampling.html)
 * [2025-12-22, 10:27:52](https://news.ycombinator.com/item?id=46352930) - [If You Don't Design Your Career, Someone Else Will](https://gregmckeown.com/if-you-dont-design-your-career-someone-else-will/)
+* [2025-12-22, 10:26:48](https://news.ycombinator.com/item?id=46352923) - [Plugins case study: mdBook preprocessors](https://eli.thegreenplace.net/2025/plugins-case-study-mdbook-preprocessors/)
 * [2025-12-22, 10:19:57](https://news.ycombinator.com/item?id=46352875) - [A year of vibes](https://lucumr.pocoo.org/2025/12/22/a-year-of-vibes/)
 * [2025-12-22, 09:58:50](https://news.ycombinator.com/item?id=46352747) - [Well Being in Times of Algorithms](https://www.ssp.sh/blog/well-being-algorithms/)
 * [2025-12-22, 09:34:28](https://news.ycombinator.com/item?id=46352588) - [The Inner-Platform Effect (2006)](https://thedailywtf.com/articles/The_Inner-Platform_Effect)
