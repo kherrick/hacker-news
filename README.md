@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-12-28, 07:45:16](https://news.ycombinator.com/item?id=46409245) - [Manus AI 100M USD ARR](https://manus.im/blog/manus-100m-arr)
 * [2025-12-28, 07:14:43](https://news.ycombinator.com/item?id=46409125) - [A new research shows that 21-33% of YouTube's feed may consist of AI slop](https://www.kapwing.com/blog/ai-slop-report-the-global-rise-of-low-quality-ai-videos/)
 * [2025-12-28, 05:02:39](https://news.ycombinator.com/item?id=46408613) - [Calendar](https://neatnik.net/calendar/?year=2026)
 * [2025-12-28, 03:40:43](https://news.ycombinator.com/item?id=46408192) - [Dialtone – AOL 3.0 Server](https://dialtone.live/)
@@ -22,7 +23,6 @@
 * [2025-12-27, 08:45:46](https://news.ycombinator.com/item?id=46400251) - [Show HN: Ez FFmpeg – Video editing in plain English](http://npmjs.com/package/ezff)
 * [2025-12-26, 05:20:01](https://news.ycombinator.com/item?id=46389418) - [Multiscale Aperture Synthesis Imager](https://www.nature.com/articles/s41467-025-65661-8)
 * [2025-12-23, 18:59:45](https://news.ycombinator.com/item?id=46368177) - [Clock synchronization is a nightmare](https://arpitbhayani.me/blogs/clock-sync-nightmare/)
-* [2025-12-23, 13:18:32](https://news.ycombinator.com/item?id=46365105) - [Show HN: Mysti – Claude, Codex, and Gemini debate your code, then synthesize](https://github.com/DeepMyst/Mysti)
 * [2025-12-23, 02:58:32](https://news.ycombinator.com/item?id=46361927) - [Rex is a safe kernel extension framework that allows Rust in the place of eBPF](https://github.com/rex-rs/rex)
 * [2025-12-22, 13:44:14](https://news.ycombinator.com/item?id=46354050) - [Project Vend: Phase Two](https://www.anthropic.com/research/project-vend-2)
 * [2025-12-22, 01:43:29](https://news.ycombinator.com/item?id=46350476) - [The Origins of APL (1974) [video]](https://www.youtube.com/watch?v=8kUQWuK1L4w)
