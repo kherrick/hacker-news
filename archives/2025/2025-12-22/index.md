@@ -58,6 +58,7 @@
 * [2025-12-22, 14:04:02](https://news.ycombinator.com/item?id=46354187) - [Animating Quines for Larva Labs](https://destroytoday.com/blog/animating-quines-for-larva-labs)
 * [2025-12-22, 14:02:06](https://news.ycombinator.com/item?id=46354175) - [Show HN: Vibe code from phone template repo](https://github.com/AdmTal/vibe-code-from-phone-starter)
 * [2025-12-22, 13:44:14](https://news.ycombinator.com/item?id=46354050) - [Project Vend: Phase Two](https://www.anthropic.com/research/project-vend-2)
+* [2025-12-22, 13:04:28](https://news.ycombinator.com/item?id=46353833) - [Streaming Uploads with LiveView](https://fly.io/phoenix-files/streaming-uploads-with-liveview/)
 * [2025-12-22, 12:54:29](https://news.ycombinator.com/item?id=46353777) - [The biggest CRT ever made: Sony's PVM-4300](https://dfarq.homeip.net/the-biggest-crt-ever-made-sonys-pvm-4300/)
 * [2025-12-22, 12:40:19](https://news.ycombinator.com/item?id=46353704) - [Ask HN: My mother was scammed out of all her savings. What should I do?](https://news.ycombinator.com/item?id=46353704)
 * [2025-12-22, 11:22:14](https://news.ycombinator.com/item?id=46353261) - [Italian Competition Authority Fines Apple $115M for Abusing Dominant Position](https://en.agcm.it/en/media/press-releases/2025/12/A561)

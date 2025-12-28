@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-12-28](index.md)
 
+* [2025-12-28, 17:12:14](https://news.ycombinator.com/item?id=46412549) - [Hacker News made out of prime numbers](https://dosaygo-studio.github.io/prime-news/index.html)
+* [2025-12-28, 16:53:34](https://news.ycombinator.com/item?id=46412411) - [2 in 3 Americans think AI will cause major harm to humans in the next 20 years [pdf]](https://www.pewresearch.org/wp-content/uploads/sites/20/2025/03/pi_2025.04.03_us-public-and-ai-experts_topline.pdf)
+* [2025-12-28, 16:43:14](https://news.ycombinator.com/item?id=46412327) - [tc-ematch(8) extended matches for use with \"basic\", \"cgroup\" or \"flow\" filters](https://man7.org/linux/man-pages/man8/tc-ematch.8.html)
 * [2025-12-28, 16:29:12](https://news.ycombinator.com/item?id=46412210) - [Scientists discover beer bottle in the Mariana Trench (2024)](https://www.unilad.com/news/scientist-beer-bottle-deepest-point-ocean-mariana-trench-667878-20240213)
 * [2025-12-28, 16:18:27](https://news.ycombinator.com/item?id=46412114) - [Things Developers Can Avoid in 2026](https://newsletter.compasscalendar.com/p/77-things-to-avoid-in-2026-developer)
 * [2025-12-28, 15:02:07](https://news.ycombinator.com/item?id=46411539) - [Designing Predictable LLM-Verifier Systems for Formal Method Guarantee](https://arxiv.org/abs/2512.02080)
