@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-12-28, 17:12:14](https://news.ycombinator.com/item?id=46412549) - [Hacker News made out of prime numbers](https://dosaygo-studio.github.io/prime-news/index.html)
+* [2025-12-28, 17:12:14](https://news.ycombinator.com/item?id=46412549) - [A \"Prime\" View of HN](https://dosaygo-studio.github.io/prime-news/index.html)
 * [2025-12-28, 16:53:34](https://news.ycombinator.com/item?id=46412411) - [2 in 3 Americans think AI will cause major harm to humans in the next 20 years [pdf]](https://www.pewresearch.org/wp-content/uploads/sites/20/2025/03/pi_2025.04.03_us-public-and-ai-experts_topline.pdf)
 * [2025-12-28, 16:43:14](https://news.ycombinator.com/item?id=46412327) - [tc-ematch(8) extended matches for use with \"basic\", \"cgroup\" or \"flow\" filters](https://man7.org/linux/man-pages/man8/tc-ematch.8.html)
 * [2025-12-28, 16:29:12](https://news.ycombinator.com/item?id=46412210) - [Scientists discover beer bottle in the Mariana Trench (2024)](https://www.unilad.com/news/scientist-beer-bottle-deepest-point-ocean-mariana-trench-667878-20240213)
@@ -22,13 +22,13 @@
 * [2025-12-27, 18:22:05](https://news.ycombinator.com/item?id=46403915) - [Windows 2 for the Apricot PC/Xi](https://www.ninakalinina.com/notes/win2apri/)
 * [2025-12-27, 17:05:50](https://news.ycombinator.com/item?id=46403200) - [Gpg.fail](https://gpg.fail)
 * [2025-12-27, 13:13:00](https://news.ycombinator.com/item?id=46401612) - [Floor796](https://floor796.com/)
+* [2025-12-27, 08:45:46](https://news.ycombinator.com/item?id=46400251) - [Show HN: Ez FFmpeg – Video editing in plain English](http://npmjs.com/package/ezff)
 * [2025-12-23, 02:58:32](https://news.ycombinator.com/item?id=46361927) - [Rex is a safe kernel extension framework that allows Rust in the place of eBPF](https://github.com/rex-rs/rex)
 * [2025-12-22, 14:16:40](https://news.ycombinator.com/item?id=46354282) - [One year of keeping a tada list](https://www.ducktyped.org/p/one-year-of-keeping-a-tada-list)
 * [2025-12-22, 13:44:14](https://news.ycombinator.com/item?id=46354050) - [Project Vend: Phase Two](https://www.anthropic.com/research/project-vend-2)
 * [2025-12-22, 13:04:28](https://news.ycombinator.com/item?id=46353833) - [Streaming Uploads with LiveView](https://fly.io/phoenix-files/streaming-uploads-with-liveview/)
 * [2025-12-22, 01:43:29](https://news.ycombinator.com/item?id=46350476) - [The Origins of APL (1974) [video]](https://www.youtube.com/watch?v=8kUQWuK1L4w)
 * [2025-12-22, 00:14:43](https://news.ycombinator.com/item?id=46349988) - [Text rendering hates you (2019)](https://faultlore.com/blah/text-hates-you/)
-* [2025-12-21, 20:59:06](https://news.ycombinator.com/item?id=46348367) - [Immer – A library of persistent and immutable data structures written in C++](https://github.com/arximboldi/immer)
 * [2025-12-21, 15:15:41](https://news.ycombinator.com/item?id=46345412) - [Never Use Pixelation to Hide Sensitive Text (2014)](https://dheera.net/posts/20140725-why-you-should-never-use-pixelation/)
 
 ## [Archives](archives/index.md)
