@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-12-29](index.md)
 
+* [2025-12-29, 19:51:47](https://news.ycombinator.com/item?id=46424733) - [Meta's ads tools started switching out top-performing ads with AI-generated ones](https://www.businessinsider.com/meta-ai-generating-bizarre-ads-advantage-plus-2025-10)
 * [2025-12-29, 19:30:40](https://news.ycombinator.com/item?id=46424460) - [When someone says they hate your product with a burning passion](https://www.getflack.com/p/responding-to-negative-feedback)
+* [2025-12-29, 19:16:32](https://news.ycombinator.com/item?id=46424262) - [All Delisted Steam Games](https://delistedgames.com/all-delisted-steam-games/)
 * [2025-12-29, 19:11:26](https://news.ycombinator.com/item?id=46424200) - [AI Is Forcing Us to Write Good Code](https://bits.logic.inc/p/ai-is-forcing-us-to-write-good-code)
 * [2025-12-29, 19:06:21](https://news.ycombinator.com/item?id=46424136) - [LLMs Are Not Fun](https://orib.dev/nofun.html)
 * [2025-12-29, 18:21:30](https://news.ycombinator.com/item?id=46423566) - [List of domains censored by German ISPs](https://cuiiliste.de/domains)
@@ -17,6 +19,7 @@
 * [2025-12-29, 16:07:27](https://news.ycombinator.com/item?id=46422009) - [Static Allocation with Zig](https://nickmonad.blog/2025/static-allocation-with-zig-kv/)
 * [2025-12-29, 15:30:20](https://news.ycombinator.com/item?id=46421653) - [I switched to eSIM in 2025, and I am full of regret](https://arstechnica.com/gadgets/2025/12/i-switched-to-esim-in-2025-and-i-am-full-of-regret/)
 * [2025-12-29, 13:43:29](https://news.ycombinator.com/item?id=46420672) - [Libgodc: Write Go Programs for Sega Dreamcast](https://github.com/drpaneas/libgodc)
+* [2025-12-29, 13:43:14](https://news.ycombinator.com/item?id=46420670) - [Show HN: Per-instance TSP Solver with No Pre-training (1.66% gap on d1291)](https://news.ycombinator.com/item?id=46420670)
 * [2025-12-29, 13:22:59](https://news.ycombinator.com/item?id=46420453) - [Show HN: Vibe coding a bookshelf with Claude Code](https://balajmarius.com/writings/vibe-coding-a-bookshelf-with-claude-code/)
 * [2025-12-29, 13:06:49](https://news.ycombinator.com/item?id=46420289) - [UK accounting body to halt remote exams amid AI cheating](https://www.theguardian.com/business/2025/dec/29/uk-accounting-remote-exams-ai-cheating-acca)
 * [2025-12-29, 12:24:00](https://news.ycombinator.com/item?id=46419970) - [Kidnapped by Deutsche Bahn](https://www.theocharis.dev/blog/kidnapped-by-deutsche-bahn/)
