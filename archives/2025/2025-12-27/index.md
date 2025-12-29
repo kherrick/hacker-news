@@ -44,6 +44,7 @@
 * [2025-12-27, 12:51:15](https://news.ycombinator.com/item?id=46401499) - [OrangePi 6 Plus Review: The New Frontier for ARM64 SBC Performance](https://boilingsteam.com/orange-pi-6-plus-review/)
 * [2025-12-27, 11:57:17](https://news.ycombinator.com/item?id=46401190) - [Splice a Fibre](https://react-networks-lib.rackout.net/fibre)
 * [2025-12-27, 11:05:46](https://news.ycombinator.com/item?id=46400927) - [Cursed Bundler: Using go get to install Ruby Gems](https://nesbitt.io/2025/12/25/cursed-bundler-using-go-get-to-install-ruby-gems.html)
+* [2025-12-27, 09:52:03](https://news.ycombinator.com/item?id=46400564) - [Formulaic Delimiters in the Iliad and the Odyssey](https://glthr.com/formulaic-delimiters-in-the-iliad-and-the-odyssey)
 * [2025-12-27, 09:33:14](https://news.ycombinator.com/item?id=46400490) - [Cloudflare Is Ruining the Internet](https://www.slashgeek.net/2016/05/17/cloudflare-is-ruining-the-internet-for-me/)
 * [2025-12-27, 08:45:46](https://news.ycombinator.com/item?id=46400251) - [Show HN: Ez FFmpeg – Video editing in plain English](http://npmjs.com/package/ezff)
 * [2025-12-27, 08:42:45](https://news.ycombinator.com/item?id=46400242) - [Verdichtung](https://alexeygy.github.io/blog/verdichtung/)
