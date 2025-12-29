@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2025-12-29](index.md)
 
+* [2025-12-29, 13:22:59](https://news.ycombinator.com/item?id=46420453) - [Show HN: Vibe coding a bookshelf with Claude Code](https://balajmarius.com/writings/vibe-coding-a-bookshelf-with-claude-code/)
+* [2025-12-29, 13:06:49](https://news.ycombinator.com/item?id=46420289) - [UK accounting body to halt remote exams amid AI cheating](https://www.theguardian.com/business/2025/dec/29/uk-accounting-remote-exams-ai-cheating-acca)
 * [2025-12-29, 12:24:00](https://news.ycombinator.com/item?id=46419970) - [Kidnapped by Deutsche Bahn](https://www.theocharis.dev/blog/kidnapped-by-deutsche-bahn/)
+* [2025-12-29, 11:58:09](https://news.ycombinator.com/item?id=46419822) - [Show HN: See what readers who loved your favorite book/author also loved to read](https://shepherd.com/bboy/2025)
 * [2025-12-29, 11:33:46](https://news.ycombinator.com/item?id=46419659) - [Kubernetes egress control with squid proxy](https://interlaye.red/kubernetes_002degress_002dsquid.html)
 * [2025-12-29, 10:44:45](https://news.ycombinator.com/item?id=46419282) - [Market design can feed the poor](https://worksinprogress.co/issue/how-market-design-can-feed-the-poor/)
 * [2025-12-29, 10:43:29](https://news.ycombinator.com/item?id=46419273) - [Feynman's Hughes Lectures: 950 pages of notes](https://thehugheslectures.info/the-lectures/)
