@@ -1,12 +1,62 @@
 [
   [
     [
+      "2025-12-29, 12:24:00",
+      "https://news.ycombinator.com/item?id=46419970"
+    ],
+    [
+      "Kidnapped by Deutsche Bahn",
+      "https://www.theocharis.dev/blog/kidnapped-by-deutsche-bahn/"
+    ]
+  ],
+  [
+    [
+      "2025-12-29, 11:33:46",
+      "https://news.ycombinator.com/item?id=46419659"
+    ],
+    [
+      "Kubernetes egress control with squid proxy",
+      "https://interlaye.red/kubernetes_002degress_002dsquid.html"
+    ]
+  ],
+  [
+    [
+      "2025-12-29, 10:44:45",
+      "https://news.ycombinator.com/item?id=46419282"
+    ],
+    [
+      "Market design can feed the poor",
+      "https://worksinprogress.co/issue/how-market-design-can-feed-the-poor/"
+    ]
+  ],
+  [
+    [
+      "2025-12-29, 10:43:29",
+      "https://news.ycombinator.com/item?id=46419273"
+    ],
+    [
+      "Feynman's Hughes Lectures: 950 pages of notes",
+      "https://thehugheslectures.info/the-lectures/"
+    ]
+  ],
+  [
+    [
       "2025-12-29, 09:40:09",
       "https://news.ycombinator.com/item?id=46418966"
     ],
     [
-      "Asking Gemini 3 for Brainf*ck code puts it in an infinite loop",
+      "Asking Gemini 3 to generate Brainfuck code results in an infinite loop",
       "https://teodordyakov.github.io/brainfuck-agi/"
+    ]
+  ],
+  [
+    [
+      "2025-12-29, 07:54:19",
+      "https://news.ycombinator.com/item?id=46418415"
+    ],
+    [
+      "You can't design software you don't work on",
+      "https://www.seangoedecke.com/you-cant-design-software-you-dont-work-on/"
     ]
   ],
   [
@@ -35,7 +85,7 @@
       "https://news.ycombinator.com/item?id=46417791"
     ],
     [
-      "Binaries",
+      "Huge Binaries",
       "https://fzakaria.com/2025/12/28/huge-binaries"
     ]
   ],
@@ -67,6 +117,16 @@
     [
       "Fast GPU Interconnect over Radio",
       "https://spectrum.ieee.org/rf-over-fiber"
+    ]
+  ],
+  [
+    [
+      "2025-12-29, 03:16:32",
+      "https://news.ycombinator.com/item?id=46417110"
+    ],
+    [
+      "CIA Star Gate Project: An Overview (1993) [pdf]",
+      "https://www.cia.gov/readingroom/docs/CIA-RDP96-00789R002800180001-2.pdf"
     ]
   ],
   [
@@ -141,16 +201,6 @@
   ],
   [
     [
-      "2025-12-28, 21:45:44",
-      "https://news.ycombinator.com/item?id=46414837"
-    ],
-    [
-      "Why I Disappeared – My week with minimal internet in a remote island chain",
-      "https://www.kenklippenstein.com/p/why-i-disappeared"
-    ]
-  ],
-  [
-    [
       "2025-12-28, 21:41:42",
       "https://news.ycombinator.com/item?id=46414819"
     ],
@@ -191,26 +241,6 @@
   ],
   [
     [
-      "2025-12-28, 06:43:25",
-      "https://news.ycombinator.com/item?id=46408988"
-    ],
-    [
-      "Growing up in “404 Not Found”: China's nuclear city in the Gobi Desert",
-      "https://substack.com/inbox/post/182743659"
-    ]
-  ],
-  [
-    [
-      "2025-12-28, 06:42:53",
-      "https://news.ycombinator.com/item?id=46408984"
-    ],
-    [
-      "C++ says “We have try... finally at home”",
-      "https://devblogs.microsoft.com/oldnewthing/20251222-00/?p=111890"
-    ]
-  ],
-  [
-    [
       "2025-12-27, 09:52:03",
       "https://news.ycombinator.com/item?id=46400564"
     ],
@@ -225,7 +255,7 @@
       "https://news.ycombinator.com/item?id=46396912"
     ],
     [
-      "Mouse: Computer Programming Language",
+      "Mouse: Computer Programming Language (2006)",
       "http://mouse.davidgsimpson.com/"
     ]
   ],
@@ -261,42 +291,12 @@
   ],
   [
     [
-      "2025-12-25, 10:11:36",
-      "https://news.ycombinator.com/item?id=46383452"
-    ],
-    [
-      "Best practices for long-run LED strip installs (20–50M) to avoid flicker?",
-      "https://news.ycombinator.com/item?id=46383452"
-    ]
-  ],
-  [
-    [
-      "2025-12-23, 20:39:08",
-      "https://news.ycombinator.com/item?id=46369231"
-    ],
-    [
-      "Finding Jingle Town: Debugging an N64 Game Without Symbols",
-      "https://blog.chrislewis.au/finding-jingle-town-debugging-an-n64-game-without-symbols/"
-    ]
-  ],
-  [
-    [
       "2025-12-23, 00:10:36",
       "https://news.ycombinator.com/item?id=46360844"
     ],
     [
       "Formally Verifying Peephole Optimisations in Lean",
       "https://l-m.dev/cs/formally-verifying-peephole-optimisations-in-lean/"
-    ]
-  ],
-  [
-    [
-      "2025-12-22, 09:38:37",
-      "https://news.ycombinator.com/item?id=46352615"
-    ],
-    [
-      "A bitwise reproducible deep learning framework",
-      "https://github.com/microsoft/RepDL"
     ]
   ]
 ]
