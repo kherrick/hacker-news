@@ -72,3 +72,4 @@
 * [2025-12-23, 00:36:27](https://news.ycombinator.com/item?id=46361024) - [Cecot – 60 Minutes](https://archive.org/details/insidececot)
 * [2025-12-23, 00:23:32](https://news.ycombinator.com/item?id=46360934) - [Call of Duty co-creator Vince Zampella dies in California car crash](https://www.bbc.com/news/articles/cx25rled0ylo)
 * [2025-12-23, 00:12:16](https://news.ycombinator.com/item?id=46360856) - [Laptop Isn't Ready for LLMs. That's About to Change](https://spectrum.ieee.org/ai-models-locally)
+* [2025-12-23, 00:10:36](https://news.ycombinator.com/item?id=46360844) - [Formally Verifying Peephole Optimisations in Lean](https://l-m.dev/cs/formally-verifying-peephole-optimisations-in-lean/)
