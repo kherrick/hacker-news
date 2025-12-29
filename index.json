@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-12-29, 13:43:29",
+      "https://news.ycombinator.com/item?id=46420672"
+    ],
+    [
+      "Libgodc: Write Go Programs for Sega Dreamcast",
+      "https://github.com/drpaneas/libgodc"
+    ]
+  ],
+  [
+    [
       "2025-12-29, 13:22:59",
       "https://news.ycombinator.com/item?id=46420453"
     ],
@@ -281,22 +291,12 @@
   ],
   [
     [
-      "2025-12-25, 10:42:46",
-      "https://news.ycombinator.com/item?id=46383593"
+      "2025-12-24, 21:44:04",
+      "https://news.ycombinator.com/item?id=46379579"
     ],
     [
-      "Line scan camera image processing",
-      "https://daniel.lawrence.lu/blog/2025-09-21-line-scan-camera-image-processing/"
-    ]
-  ],
-  [
-    [
-      "2025-12-23, 00:10:36",
-      "https://news.ycombinator.com/item?id=46360844"
-    ],
-    [
-      "Formally Verifying Peephole Optimisations in Lean",
-      "https://l-m.dev/cs/formally-verifying-peephole-optimisations-in-lean/"
+      "Golfing Is Not Rowing",
+      "https://taylor.town/golf-vs-rowing"
     ]
   ]
 ]
