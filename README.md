@@ -6,7 +6,6 @@
 * [2025-12-29, 12:24:00](https://news.ycombinator.com/item?id=46419970) - [Kidnapped by Deutsche Bahn](https://www.theocharis.dev/blog/kidnapped-by-deutsche-bahn/)
 * [2025-12-29, 11:58:09](https://news.ycombinator.com/item?id=46419822) - [Show HN: See what readers who loved your favorite book/author also loved to read](https://shepherd.com/bboy/2025)
 * [2025-12-29, 11:33:46](https://news.ycombinator.com/item?id=46419659) - [Kubernetes egress control with squid proxy](https://interlaye.red/kubernetes_002degress_002dsquid.html)
-* [2025-12-29, 10:44:45](https://news.ycombinator.com/item?id=46419282) - [Market design can feed the poor](https://worksinprogress.co/issue/how-market-design-can-feed-the-poor/)
 * [2025-12-29, 10:43:29](https://news.ycombinator.com/item?id=46419273) - [Feynman's Hughes Lectures: 950 pages of notes](https://thehugheslectures.info/the-lectures/)
 * [2025-12-29, 09:40:09](https://news.ycombinator.com/item?id=46418966) - [Asking Gemini 3 to generate Brainfuck code results in an infinite loop](https://teodordyakov.github.io/brainfuck-agi/)
 * [2025-12-29, 07:54:19](https://news.ycombinator.com/item?id=46418415) - [You can't design software you don't work on](https://www.seangoedecke.com/you-cant-design-software-you-dont-work-on/)
@@ -30,6 +29,7 @@
 * [2025-12-26, 22:06:15](https://news.ycombinator.com/item?id=46396824) - [Developing a Beautiful and Performant Block Editor in Qt C++ and QML](https://rubymamistvalove.com/block-editor)
 * [2025-12-26, 04:52:32](https://news.ycombinator.com/item?id=46389325) - [Koine](https://github.com/pattern-zones-co/koine)
 * [2025-12-24, 21:44:04](https://news.ycombinator.com/item?id=46379579) - [Golfing Is Not Rowing](https://taylor.town/golf-vs-rowing)
+* [2025-12-23, 00:10:36](https://news.ycombinator.com/item?id=46360844) - [Formally Verifying Peephole Optimisations in Lean](https://l-m.dev/cs/formally-verifying-peephole-optimisations-in-lean/)
 
 ## [Archives](archives/index.md)
 
