@@ -5,8 +5,38 @@
       "https://news.ycombinator.com/item?id=46417844"
     ],
     [
-      "Tor staying ahead of censors in 2025",
+      "Staying ahead of censors in 2025",
       "https://forum.torproject.org/t/staying-ahead-of-censors-in-2025-what-weve-learned-from-fighting-censorship-in-iran-and-russia/20898"
+    ]
+  ],
+  [
+    [
+      "2025-12-29, 05:35:17",
+      "https://news.ycombinator.com/item?id=46417791"
+    ],
+    [
+      "Binaries",
+      "https://fzakaria.com/2025/12/28/huge-binaries"
+    ]
+  ],
+  [
+    [
+      "2025-12-29, 05:21:06",
+      "https://news.ycombinator.com/item?id=46417724"
+    ],
+    [
+      "John Simpson: 'I've reported on 40 wars but I've never seen a year like 2025'",
+      "https://www.bbc.com/news/articles/cj4qp17e1lqo"
+    ]
+  ],
+  [
+    [
+      "2025-12-29, 05:12:58",
+      "https://news.ycombinator.com/item?id=46417676"
+    ],
+    [
+      "My First Meshtastic Network",
+      "https://rickcarlino.com/notes/electronics/my-first-meshtastic-network.html"
     ]
   ],
   [
@@ -15,7 +45,7 @@
       "https://news.ycombinator.com/item?id=46417252"
     ],
     [
-      "Why I Think Valve's Retiring the Steam Deck LCD",
+      "Why I think Valve’s retiring the Steam Deck LCD",
       "https://gardinerbryant.com/why-valves-retiring-the-steam-deck-lcd/"
     ]
   ],
@@ -55,7 +85,7 @@
       "https://news.ycombinator.com/item?id=46415570"
     ],
     [
-      "Fast Cvvdp Implementation in C",
+      "Fast CVVDP implementation in C",
       "https://github.com/halidecx/fcvvdp"
     ]
   ],
@@ -65,7 +95,7 @@
       "https://news.ycombinator.com/item?id=46415522"
     ],
     [
-      "How to Complain (2024)",
+      "How to complain (2024)",
       "https://outerproduct.net/trivial/2024-03-25_complain.html"
     ]
   ],
@@ -211,16 +241,6 @@
   ],
   [
     [
-      "2025-12-28, 11:51:42",
-      "https://news.ycombinator.com/item?id=46410402"
-    ],
-    [
-      "Building a macOS app to know when my Mac is thermal throttling",
-      "https://stanislas.blog/2025/12/macos-thermal-throttling-app/"
-    ]
-  ],
-  [
-    [
       "2025-12-28, 11:08:22",
       "https://news.ycombinator.com/item?id=46410210"
     ],
@@ -241,22 +261,12 @@
   ],
   [
     [
-      "2025-12-28, 06:42:53",
-      "https://news.ycombinator.com/item?id=46408984"
+      "2025-12-27, 09:52:03",
+      "https://news.ycombinator.com/item?id=46400564"
     ],
     [
-      "C++ says “We have try... finally at home”",
-      "https://devblogs.microsoft.com/oldnewthing/20251222-00/?p=111890"
-    ]
-  ],
-  [
-    [
-      "2025-12-28, 04:12:48",
-      "https://news.ycombinator.com/item?id=46408365"
-    ],
-    [
-      "Rust errors without dependencies",
-      "https://vincents.dev/blog/rust-errors-without-dependencies/"
+      "Formulaic Delimiters in the Iliad and the Odyssey",
+      "https://glthr.com/formulaic-delimiters-in-the-iliad-and-the-odyssey"
     ]
   ],
   [
@@ -267,16 +277,6 @@
     [
       "Line scan camera image processing",
       "https://daniel.lawrence.lu/blog/2025-09-21-line-scan-camera-image-processing/"
-    ]
-  ],
-  [
-    [
-      "2025-12-24, 23:21:45",
-      "https://news.ycombinator.com/item?id=46380377"
-    ],
-    [
-      "Writing non-English languages with a QWERTY keyboard",
-      "https://altgr-weur.eu/altgr-intl.html"
     ]
   ],
   [
