@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-12-29, 05:47:40](https://news.ycombinator.com/item?id=46417844) - [Tor staying ahead of censors in 2025](https://forum.torproject.org/t/staying-ahead-of-censors-in-2025-what-weve-learned-from-fighting-censorship-in-iran-and-russia/20898)
 * [2025-12-29, 03:44:12](https://news.ycombinator.com/item?id=46417252) - [Why I Think Valve's Retiring the Steam Deck LCD](https://gardinerbryant.com/why-valves-retiring-the-steam-deck-lcd/)
 * [2025-12-29, 03:39:42](https://news.ycombinator.com/item?id=46417227) - [Fast GPU Interconnect over Radio](https://spectrum.ieee.org/rf-over-fiber)
 * [2025-12-29, 02:47:44](https://news.ycombinator.com/item?id=46416945) - [You can make up HTML tags](https://maurycyz.com/misc/make-up-tags/)
@@ -23,12 +24,11 @@
 * [2025-12-28, 11:51:42](https://news.ycombinator.com/item?id=46410402) - [Building a macOS app to know when my Mac is thermal throttling](https://stanislas.blog/2025/12/macos-thermal-throttling-app/)
 * [2025-12-28, 11:08:22](https://news.ycombinator.com/item?id=46410210) - [Learn computer graphics from scratch and for free](https://www.scratchapixel.com)
 * [2025-12-28, 06:43:25](https://news.ycombinator.com/item?id=46408988) - [Growing up in “404 Not Found”: China's nuclear city in the Gobi Desert](https://substack.com/inbox/post/182743659)
-* [2025-12-28, 06:42:53](https://news.ycombinator.com/item?id=46408984) - [C++ says “We have try. . . finally at home”](https://devblogs.microsoft.com/oldnewthing/20251222-00/?p=111890)
+* [2025-12-28, 06:42:53](https://news.ycombinator.com/item?id=46408984) - [C++ says “We have try... finally at home”](https://devblogs.microsoft.com/oldnewthing/20251222-00/?p=111890)
 * [2025-12-28, 04:12:48](https://news.ycombinator.com/item?id=46408365) - [Rust errors without dependencies](https://vincents.dev/blog/rust-errors-without-dependencies/)
 * [2025-12-25, 10:42:46](https://news.ycombinator.com/item?id=46383593) - [Line scan camera image processing](https://daniel.lawrence.lu/blog/2025-09-21-line-scan-camera-image-processing/)
 * [2025-12-24, 23:21:45](https://news.ycombinator.com/item?id=46380377) - [Writing non-English languages with a QWERTY keyboard](https://altgr-weur.eu/altgr-intl.html)
 * [2025-12-23, 20:39:08](https://news.ycombinator.com/item?id=46369231) - [Finding Jingle Town: Debugging an N64 Game Without Symbols](https://blog.chrislewis.au/finding-jingle-town-debugging-an-n64-game-without-symbols/)
-* [2025-12-22, 14:16:40](https://news.ycombinator.com/item?id=46354282) - [One year of keeping a tada list](https://www.ducktyped.org/p/one-year-of-keeping-a-tada-list)
 * [2025-12-22, 09:38:37](https://news.ycombinator.com/item?id=46352615) - [A bitwise reproducible deep learning framework](https://github.com/microsoft/RepDL)
 
 ## [Archives](archives/index.md)
