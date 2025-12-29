@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2025-12-29, 21:46:43",
+      "https://news.ycombinator.com/item?id=46426131"
+    ],
+    [
+      "USPS announces changes to the postmark date system",
+      "https://nstp.org/article/usps-announces-changes-postmark-date-system"
+    ]
+  ],
+  [
+    [
       "2025-12-29, 20:29:26",
       "https://news.ycombinator.com/item?id=46425198"
     ],
@@ -61,22 +71,22 @@
   ],
   [
     [
+      "2025-12-29, 19:30:40",
+      "https://news.ycombinator.com/item?id=46424460"
+    ],
+    [
+      "When someone says they hate your product",
+      "https://www.getflack.com/p/responding-to-negative-feedback"
+    ]
+  ],
+  [
+    [
       "2025-12-29, 19:16:32",
       "https://news.ycombinator.com/item?id=46424262"
     ],
     [
       "All Delisted Steam Games",
       "https://delistedgames.com/all-delisted-steam-games/"
-    ]
-  ],
-  [
-    [
-      "2025-12-29, 19:14:17",
-      "https://news.ycombinator.com/item?id=46424233"
-    ],
-    [
-      "The future of software development is software developers",
-      "https://codemanship.wordpress.com/2025/11/25/the-future-of-software-development-is-software-developers/"
     ]
   ],
   [
@@ -115,7 +125,7 @@
       "https://news.ycombinator.com/item?id=46423521"
     ],
     [
-      "The production bug that made me care about undefined behavior",
+      "A production bug that made me care about undefined behavior",
       "https://gaultier.github.io/blog/the_production_bug_that_made_me_care_about_undefined_behavior.html"
     ]
   ],
@@ -187,26 +197,6 @@
     [
       "Linux DAW: Help Linux musicians to quickly and easily find the tools they need",
       "https://linuxdaw.org/"
-    ]
-  ],
-  [
-    [
-      "2025-12-29, 11:58:09",
-      "https://news.ycombinator.com/item?id=46419822"
-    ],
-    [
-      "Show HN: See what readers who loved your favorite book/author also loved to read",
-      "https://shepherd.com/bboy/2025"
-    ]
-  ],
-  [
-    [
-      "2025-12-29, 10:43:29",
-      "https://news.ycombinator.com/item?id=46419273"
-    ],
-    [
-      "Feynman's Hughes Lectures: 950 pages of notes",
-      "https://thehugheslectures.info/the-lectures/"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Static Allocation for Compilers",
       "https://matklad.github.io/2025/12/23/static-allocation-compilers.html"
+    ]
+  ],
+  [
+    [
+      "2025-12-23, 19:52:30",
+      "https://news.ycombinator.com/item?id=46368739"
+    ],
+    [
+      "Show HN: Superset – Terminal to run 10 parallel coding agents",
+      "https://superset.sh/"
     ]
   ]
 ]
