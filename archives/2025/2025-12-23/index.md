@@ -16,6 +16,7 @@
 * [2025-12-23, 20:39:08](https://news.ycombinator.com/item?id=46369231) - [Finding Jingle Town: Debugging an N64 Game Without Symbols](https://blog.chrislewis.au/finding-jingle-town-debugging-an-n64-game-without-symbols/)
 * [2025-12-23, 20:10:30](https://news.ycombinator.com/item?id=46368946) - [Some Epstein file redactions are being undone with hacks](https://www.theguardian.com/us-news/2025/dec/23/epstein-unredacted-files-social-media)
 * [2025-12-23, 19:59:19](https://news.ycombinator.com/item?id=46368827) - [Pantograph: Building a preschool for robots](https://pantograph.com/blog/building-a-preschool-for-robots.html)
+* [2025-12-23, 19:52:30](https://news.ycombinator.com/item?id=46368739) - [Show HN: Superset – Terminal to run 10 parallel coding agents](https://superset.sh/)
 * [2025-12-23, 19:41:39](https://news.ycombinator.com/item?id=46368616) - [HTTP Caching, a Refresher](https://danburzo.ro/http-caching-refresher/)
 * [2025-12-23, 19:41:14](https://news.ycombinator.com/item?id=46368608) - [Fixed-Wing Runway Design](https://www.wbdg.org/building/aviation/fixed-wing-runway-design)
 * [2025-12-23, 19:35:20](https://news.ycombinator.com/item?id=46368557) - [Terrence Malick's Disciples](https://yalereview.org/article/bilge-ebiri-terrence-malick)

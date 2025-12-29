@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-12-29, 18:21:30](https://news.ycombinator.com/item?id=46423566) - [List of domains censored by German ISPs](https://cuiiliste.de/domains)
+* [2025-12-29, 18:17:29](https://news.ycombinator.com/item?id=46423521) - [The production bug that made me care about undefined behavior](https://gaultier.github.io/blog/the_production_bug_that_made_me_care_about_undefined_behavior.html)
 * [2025-12-29, 17:57:03](https://news.ycombinator.com/item?id=46423290) - [Tesla's 4680 battery supply chain collapses as partner writes down deal by 99%](https://electrek.co/2025/12/29/tesla-4680-battery-supply-chain-collapses-partner-writes-down-dea/)
 * [2025-12-29, 17:32:08](https://news.ycombinator.com/item?id=46423010) - [Nvidia takes $5B stake in Intel under September agreement](https://www.reuters.com/legal/transactional/nvidia-takes-5-billion-stake-intel-under-september-agreement-2025-12-29/)
 * [2025-12-29, 17:12:20](https://news.ycombinator.com/item?id=46422757) - [Five Years of Tinygrad](https://geohot.github.io//blog/jekyll/update/2025/12/29/five-years-of-tinygrad.html)
@@ -22,13 +23,12 @@
 * [2025-12-29, 02:47:44](https://news.ycombinator.com/item?id=46416945) - [You can make up HTML tags](https://maurycyz.com/misc/make-up-tags/)
 * [2025-12-28, 22:52:21](https://news.ycombinator.com/item?id=46415338) - [As AI gobbles up chips, prices for devices may rise](https://www.npr.org/2025/12/28/nx-s1-5656190/ai-chips-memory-prices-ram)
 * [2025-12-28, 22:35:02](https://news.ycombinator.com/item?id=46415225) - [What an unprocessed photo looks like](https://maurycyz.com/misc/raw_photo/)
-* [2025-12-28, 22:23:33](https://news.ycombinator.com/item?id=46415129) - [Researchers discover molecular difference in autistic brains](https://medicine.yale.edu/news-article/molecular-difference-in-autistic-brains/)
 * [2025-12-28, 21:41:42](https://news.ycombinator.com/item?id=46414819) - [Unity's Mono problem: Why your C# code runs slower than it should](https://marekfiser.com/blog/mono-vs-dot-net-in-unity/)
-* [2025-12-28, 21:29:32](https://news.ycombinator.com/item?id=46414723) - [Software engineers should be a little bit cynical](https://www.seangoedecke.com/a-little-bit-cynical/)
 * [2025-12-26, 23:34:06](https://news.ycombinator.com/item?id=46397537) - [Show HN: Spacelist, a TUI for Aerospace window manager](https://github.com/magicmark/spacelist)
 * [2025-12-26, 22:06:15](https://news.ycombinator.com/item?id=46396824) - [Developing a Beautiful and Performant Block Editor in Qt C++ and QML](https://rubymamistvalove.com/block-editor)
 * [2025-12-26, 15:28:15](https://news.ycombinator.com/item?id=46393003) - [My coworker's 36 key Corne open-source keyboard setup](https://nuon.co/blog/nuon-keyboard-culture/)
 * [2025-12-24, 21:44:04](https://news.ycombinator.com/item?id=46379579) - [Golfing Is Not Rowing](https://taylor.town/golf-vs-rowing)
+* [2025-12-23, 19:52:30](https://news.ycombinator.com/item?id=46368739) - [Show HN: Superset – Terminal to run 10 parallel coding agents](https://superset.sh/)
 * [2025-12-23, 15:30:15](https://news.ycombinator.com/item?id=46366097) - [How Willie Nelson Sees America](https://www.newyorker.com/magazine/2025/12/29/willie-nelson-profile)
 
 ## [Archives](archives/index.md)
