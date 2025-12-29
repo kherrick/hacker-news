@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-12-29, 10:12:16](https://news.ycombinator.com/item?id=46419121) - [EU to build no-fee payments service like Visa/Mastercard and Apple/Google Pay](https://www.independent.ie/business/digital-euro-what-it-is-and-how-we-will-use-the-new-form-of-cash/a165973061.html)
 * [2025-12-29, 09:40:09](https://news.ycombinator.com/item?id=46418966) - [Asking Gemini 3 for Brainf*ck code puts it in an infinite loop](https://teodordyakov.github.io/brainfuck-agi/)
 * [2025-12-29, 05:47:40](https://news.ycombinator.com/item?id=46417844) - [Staying ahead of censors in 2025](https://forum.torproject.org/t/staying-ahead-of-censors-in-2025-what-weve-learned-from-fighting-censorship-in-iran-and-russia/20898)
 * [2025-12-29, 05:41:24](https://news.ycombinator.com/item?id=46417815) - [Show HN: Z80-μLM, a 'Conversational AI' That Fits in 40KB](https://github.com/HarryR/z80ai)
@@ -9,7 +10,6 @@
 * [2025-12-29, 03:39:42](https://news.ycombinator.com/item?id=46417227) - [Fast GPU Interconnect over Radio](https://spectrum.ieee.org/rf-over-fiber)
 * [2025-12-29, 02:47:44](https://news.ycombinator.com/item?id=46416945) - [You can make up HTML tags](https://maurycyz.com/misc/make-up-tags/)
 * [2025-12-28, 23:30:10](https://news.ycombinator.com/item?id=46415570) - [Fast CVVDP implementation in C](https://github.com/halidecx/fcvvdp)
-* [2025-12-28, 23:23:21](https://news.ycombinator.com/item?id=46415522) - [How to complain (2024)](https://outerproduct.net/trivial/2024-03-25_complain.html)
 * [2025-12-28, 23:11:50](https://news.ycombinator.com/item?id=46415458) - [Spherical Cow](https://lib.rs/crates/spherical-cow)
 * [2025-12-28, 23:10:13](https://news.ycombinator.com/item?id=46415448) - [Slaughtering Competition Problems with Quantifier Elimination (2021)](https://grossack.site/2021/12/22/qe-competition.html)
 * [2025-12-28, 22:52:21](https://news.ycombinator.com/item?id=46415338) - [As AI gobbles up chips, prices for devices may rise](https://www.npr.org/2025/12/28/nx-s1-5656190/ai-chips-memory-prices-ram)
