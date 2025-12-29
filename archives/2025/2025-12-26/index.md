@@ -6,6 +6,7 @@
 
 * [2025-12-26, 23:42:46](https://news.ycombinator.com/item?id=46397609) - [Exe.dev/](https://exe.dev/)
 * [2025-12-26, 23:09:40](https://news.ycombinator.com/item?id=46397379) - [Always Bet on Text](https://graydon2.dreamwidth.org/193447.html)
+* [2025-12-26, 22:15:52](https://news.ycombinator.com/item?id=46396912) - [Mouse: Computer Programming Language](http://mouse.davidgsimpson.com/)
 * [2025-12-26, 20:44:28](https://news.ycombinator.com/item?id=46396043) - [I Think about Kubernetes](https://garnaudov.com/writings/how-i-think-about-kubernetes/)
 * [2025-12-26, 20:28:53](https://news.ycombinator.com/item?id=46395885) - [Toys with the highest play-time and lowest clean-up-time](https://joannabregan.substack.com/p/toys-with-the-highest-play-time-and)
 * [2025-12-26, 20:27:50](https://news.ycombinator.com/item?id=46395871) - [T-Ruby is Ruby with syntax for types](https://type-ruby.github.io/)
