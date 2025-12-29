@@ -68,6 +68,7 @@
 * [2025-12-22, 10:26:48](https://news.ycombinator.com/item?id=46352923) - [Plugins case study: mdBook preprocessors](https://eli.thegreenplace.net/2025/plugins-case-study-mdbook-preprocessors/)
 * [2025-12-22, 10:19:57](https://news.ycombinator.com/item?id=46352875) - [A year of vibes](https://lucumr.pocoo.org/2025/12/22/a-year-of-vibes/)
 * [2025-12-22, 09:58:50](https://news.ycombinator.com/item?id=46352747) - [Well Being in Times of Algorithms](https://www.ssp.sh/blog/well-being-algorithms/)
+* [2025-12-22, 09:38:37](https://news.ycombinator.com/item?id=46352615) - [A bitwise reproducible deep learning framework](https://github.com/microsoft/RepDL)
 * [2025-12-22, 09:34:28](https://news.ycombinator.com/item?id=46352588) - [The Inner-Platform Effect (2006)](https://thedailywtf.com/articles/The_Inner-Platform_Effect)
 * [2025-12-22, 09:30:58](https://news.ycombinator.com/item?id=46352565) - [The ancient monuments saluting the winter solstice](https://www.bbc.com/culture/article/20251219-the-ancient-monuments-saluting-the-winter-solstice)
 * [2025-12-22, 09:28:55](https://news.ycombinator.com/item?id=46352545) - [Israel could be bringing back the death penalty – but only for Palestinians](https://www.cbc.ca/news/world/israel-gaza-palestinian-death-penalty-9.7019609)

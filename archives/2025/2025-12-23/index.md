@@ -13,6 +13,7 @@
 * [2025-12-23, 21:47:33](https://news.ycombinator.com/item?id=46369860) - [I didn't realize my LG TV was spying on me until I turned off this setting](https://www.pocket-lint.com/lg-tv-turn-off-live-plus/)
 * [2025-12-23, 21:42:36](https://news.ycombinator.com/item?id=46369808) - [Researchers develop a camera that can focus on different distances at once](https://engineering.cmu.edu/news-events/news/2025/12/19-perfect-shot.html)
 * [2025-12-23, 20:54:40](https://news.ycombinator.com/item?id=46369356) - [Fuck You, I Won't Use Tailwind](https://fuckyouiwontusetailwind.com)
+* [2025-12-23, 20:39:08](https://news.ycombinator.com/item?id=46369231) - [Finding Jingle Town: Debugging an N64 Game Without Symbols](https://blog.chrislewis.au/finding-jingle-town-debugging-an-n64-game-without-symbols/)
 * [2025-12-23, 20:10:30](https://news.ycombinator.com/item?id=46368946) - [Some Epstein file redactions are being undone with hacks](https://www.theguardian.com/us-news/2025/dec/23/epstein-unredacted-files-social-media)
 * [2025-12-23, 19:59:19](https://news.ycombinator.com/item?id=46368827) - [Pantograph: Building a preschool for robots](https://pantograph.com/blog/building-a-preschool-for-robots.html)
 * [2025-12-23, 19:41:39](https://news.ycombinator.com/item?id=46368616) - [HTTP Caching, a Refresher](https://danburzo.ro/http-caching-refresher/)
