@@ -11,22 +11,22 @@
   ],
   [
     [
+      "2025-12-29, 03:39:42",
+      "https://news.ycombinator.com/item?id=46417227"
+    ],
+    [
+      "Fast GPU Interconnect over Radio",
+      "https://spectrum.ieee.org/rf-over-fiber"
+    ]
+  ],
+  [
+    [
       "2025-12-29, 02:47:44",
       "https://news.ycombinator.com/item?id=46416945"
     ],
     [
       "You can make up HTML tags",
       "https://maurycyz.com/misc/make-up-tags/"
-    ]
-  ],
-  [
-    [
-      "2025-12-29, 02:00:59",
-      "https://news.ycombinator.com/item?id=46416618"
-    ],
-    [
-      "Self-hosting is being enshittified",
-      "https://troubled.engineer/posts/selfhosting-in-2025/"
     ]
   ],
   [
@@ -241,12 +241,22 @@
   ],
   [
     [
-      "2025-12-26, 04:57:04",
-      "https://news.ycombinator.com/item?id=46389336"
+      "2025-12-28, 04:12:48",
+      "https://news.ycombinator.com/item?id=46408365"
     ],
     [
-      "Time in C++: Inter-Clock Conversions, Epochs, and Durations",
-      "https://www.sandordargo.com/blog/2025/12/24/clocks-part-5-conversions"
+      "Rust errors without dependencies",
+      "https://vincents.dev/blog/rust-errors-without-dependencies/"
+    ]
+  ],
+  [
+    [
+      "2025-12-25, 10:42:46",
+      "https://news.ycombinator.com/item?id=46383593"
+    ],
+    [
+      "Line scan camera image processing",
+      "https://daniel.lawrence.lu/blog/2025-09-21-line-scan-camera-image-processing/"
     ]
   ],
   [
@@ -267,16 +277,6 @@
     [
       "Finding Jingle Town: Debugging an N64 Game Without Symbols",
       "https://blog.chrislewis.au/finding-jingle-town-debugging-an-n64-game-without-symbols/"
-    ]
-  ],
-  [
-    [
-      "2025-12-22, 19:16:21",
-      "https://news.ycombinator.com/item?id=46357686"
-    ],
-    [
-      "Doublespeak: In-Context Representation Hijacking",
-      "https://mentaleap.ai/doublespeak/"
     ]
   ],
   [
