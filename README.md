@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-12-29, 03:44:12](https://news.ycombinator.com/item?id=46417252) - [Why I Think Valve's Retiring the Steam Deck LCD](https://gardinerbryant.com/why-valves-retiring-the-steam-deck-lcd/)
+* [2025-12-29, 03:39:42](https://news.ycombinator.com/item?id=46417227) - [Fast GPU Interconnect over Radio](https://spectrum.ieee.org/rf-over-fiber)
 * [2025-12-29, 02:47:44](https://news.ycombinator.com/item?id=46416945) - [You can make up HTML tags](https://maurycyz.com/misc/make-up-tags/)
-* [2025-12-29, 02:00:59](https://news.ycombinator.com/item?id=46416618) - [Self-hosting is being enshittified](https://troubled.engineer/posts/selfhosting-in-2025/)
 * [2025-12-29, 00:01:26](https://news.ycombinator.com/item?id=46415819) - [Show HN: My app just won best iOS Japanese learning tool of 2025 award (blog)](https://skerritt.blog/best-japanese-learning-tools-2025-award-show/)
 * [2025-12-28, 23:30:10](https://news.ycombinator.com/item?id=46415570) - [Fast Cvvdp Implementation in C](https://github.com/halidecx/fcvvdp)
 * [2025-12-28, 23:23:21](https://news.ycombinator.com/item?id=46415522) - [How to Complain (2024)](https://outerproduct.net/trivial/2024-03-25_complain.html)
@@ -24,10 +24,10 @@
 * [2025-12-28, 11:08:22](https://news.ycombinator.com/item?id=46410210) - [Learn computer graphics from scratch and for free](https://www.scratchapixel.com)
 * [2025-12-28, 06:43:25](https://news.ycombinator.com/item?id=46408988) - [Growing up in “404 Not Found”: China's nuclear city in the Gobi Desert](https://substack.com/inbox/post/182743659)
 * [2025-12-28, 06:42:53](https://news.ycombinator.com/item?id=46408984) - [C++ says “We have try. . . finally at home”](https://devblogs.microsoft.com/oldnewthing/20251222-00/?p=111890)
-* [2025-12-26, 04:57:04](https://news.ycombinator.com/item?id=46389336) - [Time in C++: Inter-Clock Conversions, Epochs, and Durations](https://www.sandordargo.com/blog/2025/12/24/clocks-part-5-conversions)
+* [2025-12-28, 04:12:48](https://news.ycombinator.com/item?id=46408365) - [Rust errors without dependencies](https://vincents.dev/blog/rust-errors-without-dependencies/)
+* [2025-12-25, 10:42:46](https://news.ycombinator.com/item?id=46383593) - [Line scan camera image processing](https://daniel.lawrence.lu/blog/2025-09-21-line-scan-camera-image-processing/)
 * [2025-12-24, 23:21:45](https://news.ycombinator.com/item?id=46380377) - [Writing non-English languages with a QWERTY keyboard](https://altgr-weur.eu/altgr-intl.html)
 * [2025-12-23, 20:39:08](https://news.ycombinator.com/item?id=46369231) - [Finding Jingle Town: Debugging an N64 Game Without Symbols](https://blog.chrislewis.au/finding-jingle-town-debugging-an-n64-game-without-symbols/)
-* [2025-12-22, 19:16:21](https://news.ycombinator.com/item?id=46357686) - [Doublespeak: In-Context Representation Hijacking](https://mentaleap.ai/doublespeak/)
 * [2025-12-22, 14:16:40](https://news.ycombinator.com/item?id=46354282) - [One year of keeping a tada list](https://www.ducktyped.org/p/one-year-of-keeping-a-tada-list)
 * [2025-12-22, 09:38:37](https://news.ycombinator.com/item?id=46352615) - [A bitwise reproducible deep learning framework](https://github.com/microsoft/RepDL)
 
