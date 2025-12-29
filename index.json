@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-12-29, 19:06:21",
+      "https://news.ycombinator.com/item?id=46424136"
+    ],
+    [
+      "LLMs Are Not Fun",
+      "https://orib.dev/nofun.html"
+    ]
+  ],
+  [
+    [
       "2025-12-29, 18:21:30",
       "https://news.ycombinator.com/item?id=46423566"
     ],
@@ -55,7 +65,7 @@
       "https://news.ycombinator.com/item?id=46422412"
     ],
     [
-      "GOG is getting acquired by its original co-founder: What it means for you",
+      "GOG is getting acquired by its original co-founder",
       "https://www.gog.com/blog/gog-is-getting-acquired-by-its-original-co-founder-what-it-means-for-you/"
     ]
   ],
@@ -131,16 +141,6 @@
   ],
   [
     [
-      "2025-12-29, 11:33:46",
-      "https://news.ycombinator.com/item?id=46419659"
-    ],
-    [
-      "Kubernetes egress control with squid proxy",
-      "https://interlaye.red/kubernetes_002degress_002dsquid.html"
-    ]
-  ],
-  [
-    [
       "2025-12-29, 10:43:29",
       "https://news.ycombinator.com/item?id=46419273"
     ],
@@ -177,16 +177,6 @@
     [
       "Huge Binaries",
       "https://fzakaria.com/2025/12/28/huge-binaries"
-    ]
-  ],
-  [
-    [
-      "2025-12-29, 05:25:25",
-      "https://news.ycombinator.com/item?id=46417748"
-    ],
-    [
-      "Show HN: My not-for-profit search engine with no ads, no AI, & all DDG bangs",
-      "https://nilch.org"
     ]
   ],
   [
@@ -237,6 +227,16 @@
     [
       "Unity's Mono problem: Why your C# code runs slower than it should",
       "https://marekfiser.com/blog/mono-vs-dot-net-in-unity/"
+    ]
+  ],
+  [
+    [
+      "2025-12-27, 11:30:40",
+      "https://news.ycombinator.com/item?id=46401052"
+    ],
+    [
+      "Flame Graphs vs. Tree Maps vs. Sunburst (2017)",
+      "https://www.brendangregg.com/blog/2017-02-06/flamegraphs-vs-treemaps-vs-sunburst.html"
     ]
   ],
   [
