@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-12-29](index.md)
 
+* [2025-12-29, 19:30:40](https://news.ycombinator.com/item?id=46424460) - [When someone says they hate your product with a burning passion](https://www.getflack.com/p/responding-to-negative-feedback)
+* [2025-12-29, 19:11:26](https://news.ycombinator.com/item?id=46424200) - [AI Is Forcing Us to Write Good Code](https://bits.logic.inc/p/ai-is-forcing-us-to-write-good-code)
 * [2025-12-29, 19:06:21](https://news.ycombinator.com/item?id=46424136) - [LLMs Are Not Fun](https://orib.dev/nofun.html)
 * [2025-12-29, 18:21:30](https://news.ycombinator.com/item?id=46423566) - [List of domains censored by German ISPs](https://cuiiliste.de/domains)
 * [2025-12-29, 18:17:29](https://news.ycombinator.com/item?id=46423521) - [The production bug that made me care about undefined behavior](https://gaultier.github.io/blog/the_production_bug_that_made_me_care_about_undefined_behavior.html)
