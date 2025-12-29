@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-12-29](index.md)
 
+* [2025-12-29, 19:06:21](https://news.ycombinator.com/item?id=46424136) - [LLMs Are Not Fun](https://orib.dev/nofun.html)
 * [2025-12-29, 18:21:30](https://news.ycombinator.com/item?id=46423566) - [List of domains censored by German ISPs](https://cuiiliste.de/domains)
 * [2025-12-29, 18:17:29](https://news.ycombinator.com/item?id=46423521) - [The production bug that made me care about undefined behavior](https://gaultier.github.io/blog/the_production_bug_that_made_me_care_about_undefined_behavior.html)
 * [2025-12-29, 17:57:03](https://news.ycombinator.com/item?id=46423290) - [Tesla's 4680 battery supply chain collapses as partner writes down deal by 99%](https://electrek.co/2025/12/29/tesla-4680-battery-supply-chain-collapses-partner-writes-down-dea/)
