@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-12-28](index.md)
 
+* [2025-12-28, 23:30:10](https://news.ycombinator.com/item?id=46415570) - [Fast Cvvdp Implementation in C](https://github.com/halidecx/fcvvdp)
+* [2025-12-28, 23:23:21](https://news.ycombinator.com/item?id=46415522) - [How to Complain](https://outerproduct.net/trivial/2024-03-25_complain.html)
 * [2025-12-28, 23:17:07](https://news.ycombinator.com/item?id=46415488) - [CEOs are hugely expensive. Why not automate them?](https://www.newstatesman.com/business/companies/2023/05/ceos-salaries-expensive-automate-robots)
 * [2025-12-28, 23:11:50](https://news.ycombinator.com/item?id=46415458) - [Spherical Cow](https://lib.rs/crates/spherical-cow)
 * [2025-12-28, 23:10:13](https://news.ycombinator.com/item?id=46415448) - [Slaughtering Competition Problems with Quantifier Elimination](https://grossack.site/2021/12/22/qe-competition.html)
