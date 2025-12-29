@@ -221,16 +221,6 @@
   ],
   [
     [
-      "2025-12-29, 02:47:44",
-      "https://news.ycombinator.com/item?id=46416945"
-    ],
-    [
-      "You can make up HTML tags",
-      "https://maurycyz.com/misc/make-up-tags/"
-    ]
-  ],
-  [
-    [
       "2025-12-28, 22:35:02",
       "https://news.ycombinator.com/item?id=46415225"
     ],
@@ -287,6 +277,16 @@
     [
       "High-performance C++ hash table using grouped SIMD metadata scanning",
       "https://github.com/Cranot/grouped-simd-hashtable"
+    ]
+  ],
+  [
+    [
+      "2025-12-23, 22:53:51",
+      "https://news.ycombinator.com/item?id=46370446"
+    ],
+    [
+      "Static Allocation for Compilers",
+      "https://matklad.github.io/2025/12/23/static-allocation-compilers.html"
     ]
   ],
   [
