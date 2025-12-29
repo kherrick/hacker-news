@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-12-29](index.md)
 
+* [2025-12-29, 09:40:09](https://news.ycombinator.com/item?id=46418966) - [Asking Gemini 3 for Brainf*ck code puts it in an infinite loop](https://teodordyakov.github.io/brainfuck-agi/)
 * [2025-12-29, 05:47:40](https://news.ycombinator.com/item?id=46417844) - [Tor staying ahead of censors in 2025](https://forum.torproject.org/t/staying-ahead-of-censors-in-2025-what-weve-learned-from-fighting-censorship-in-iran-and-russia/20898)
 * [2025-12-29, 05:41:24](https://news.ycombinator.com/item?id=46417815) - [Show HN: Z80-μLM, a 'Conversational AI' That Fits in 40KB](https://github.com/HarryR/z80ai)
 * [2025-12-29, 05:35:17](https://news.ycombinator.com/item?id=46417791) - [Binaries](https://fzakaria.com/2025/12/28/huge-binaries)
