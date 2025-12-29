@@ -74,3 +74,4 @@
 * [2025-12-24, 01:20:39](https://news.ycombinator.com/item?id=46371423) - [Nabokov's guide to foreigners learning Russian](https://twitter.com/haravayin_hogh/status/2003299405907247502)
 * [2025-12-24, 00:30:42](https://news.ycombinator.com/item?id=46371139) - [Stronk.app – open-source gym lifts journal](https://news.ycombinator.com/item?id=46371139)
 * [2025-12-24, 00:30:18](https://news.ycombinator.com/item?id=46371135) - [Unifi Travel Router](https://blog.ui.com/article/travel-in-style-unifi-style-unifi-travel-router)
+* [2025-12-24, 00:27:27](https://news.ycombinator.com/item?id=46371120) - [High-performance C++ hash table using grouped SIMD metadata scanning](https://github.com/Cranot/grouped-simd-hashtable)

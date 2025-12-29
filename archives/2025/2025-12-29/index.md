@@ -4,9 +4,11 @@
 
 ### [Archives](../../index.md) for [2025-12-29](index.md)
 
+* [2025-12-29, 20:29:26](https://news.ycombinator.com/item?id=46425198) - [Google is dead. Where do we go now?](https://www.circusscientist.com/2025/12/29/google-is-dead-where-do-we-go-now/)
 * [2025-12-29, 19:51:47](https://news.ycombinator.com/item?id=46424733) - [Meta's ads tools started switching out top-performing ads with AI-generated ones](https://www.businessinsider.com/meta-ai-generating-bizarre-ads-advantage-plus-2025-10)
 * [2025-12-29, 19:30:40](https://news.ycombinator.com/item?id=46424460) - [When someone says they hate your product with a burning passion](https://www.getflack.com/p/responding-to-negative-feedback)
 * [2025-12-29, 19:16:32](https://news.ycombinator.com/item?id=46424262) - [All Delisted Steam Games](https://delistedgames.com/all-delisted-steam-games/)
+* [2025-12-29, 19:14:17](https://news.ycombinator.com/item?id=46424233) - [The Future of Software Development Is Software Developers](https://codemanship.wordpress.com/2025/11/25/the-future-of-software-development-is-software-developers/)
 * [2025-12-29, 19:11:26](https://news.ycombinator.com/item?id=46424200) - [AI Is Forcing Us to Write Good Code](https://bits.logic.inc/p/ai-is-forcing-us-to-write-good-code)
 * [2025-12-29, 19:06:21](https://news.ycombinator.com/item?id=46424136) - [LLMs Are Not Fun](https://orib.dev/nofun.html)
 * [2025-12-29, 18:21:30](https://news.ycombinator.com/item?id=46423566) - [List of domains censored by German ISPs](https://cuiiliste.de/domains)
