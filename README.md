@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-12-29, 22:30:25](https://news.ycombinator.com/item?id=46426624) - [Stop Claude Code from forgetting everything](https://github.com/mutable-state-inc/ensue-skill)
+* [2025-12-29, 22:28:53](https://news.ycombinator.com/item?id=46426596) - [AI Employees Don't Pay Taxes](https://alec.is/posts/ai-employees-dont-pay-taxes/)
 * [2025-12-29, 22:24:22](https://news.ycombinator.com/item?id=46426534) - [ManusAI Joins Meta](https://manus.im/blog/manus-joins-meta-for-next-era-of-innovation)
-* [2025-12-29, 21:46:43](https://news.ycombinator.com/item?id=46426131) - [USPS announces changes to the postmark date system](https://nstp.org/article/usps-announces-changes-postmark-date-system)
 * [2025-12-29, 20:29:26](https://news.ycombinator.com/item?id=46425198) - [Google is dead. Where do we go now?](https://www.circusscientist.com/2025/12/29/google-is-dead-where-do-we-go-now/)
 * [2025-12-29, 20:04:50](https://news.ycombinator.com/item?id=46424892) - [Binance's Trust Wallet extension hacked; users lose $7M](https://www.web3isgoinggreat.com/?id=trust-wallet-hack)
 * [2025-12-29, 19:58:09](https://news.ycombinator.com/item?id=46424789) - [Obelisk 0.32: Cancellation, WebAPI, Postgres](https://obeli.sk/blog/announcing-obelisk-0-32/)
@@ -21,7 +22,6 @@
 * [2025-12-29, 12:24:00](https://news.ycombinator.com/item?id=46419970) - [Kidnapped by Deutsche Bahn](https://www.theocharis.dev/blog/kidnapped-by-deutsche-bahn/)
 * [2025-12-29, 12:23:49](https://news.ycombinator.com/item?id=46419968) - [Linux DAW: Help Linux musicians to quickly and easily find the tools they need](https://linuxdaw.org/)
 * [2025-12-29, 07:54:19](https://news.ycombinator.com/item?id=46418415) - [You can't design software you don't work on](https://www.seangoedecke.com/you-cant-design-software-you-dont-work-on/)
-* [2025-12-28, 22:35:02](https://news.ycombinator.com/item?id=46415225) - [What an unprocessed photo looks like](https://maurycyz.com/misc/raw_photo/)
 * [2025-12-27, 14:13:58](https://news.ycombinator.com/item?id=46401982) - [Why is calling my asm function from Rust slower than calling it from C?](https://ohadravid.github.io/posts/2025-12-rav1d-faster-asm/)
 * [2025-12-27, 11:30:40](https://news.ycombinator.com/item?id=46401052) - [Flame Graphs vs Tree Maps vs Sunburst (2017)](https://www.brendangregg.com/blog/2017-02-06/flamegraphs-vs-treemaps-vs-sunburst.html)
 * [2025-12-26, 20:12:09](https://news.ycombinator.com/item?id=46395714) - [Karpathy on Programming: \"I've never felt this much behind\"](https://twitter.com/karpathy/status/2004607146781278521)

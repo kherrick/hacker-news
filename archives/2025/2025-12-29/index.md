@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-12-29](index.md)
 
+* [2025-12-29, 22:30:25](https://news.ycombinator.com/item?id=46426624) - [Stop Claude Code from forgetting everything](https://github.com/mutable-state-inc/ensue-skill)
+* [2025-12-29, 22:28:53](https://news.ycombinator.com/item?id=46426596) - [AI Employees Don't Pay Taxes](https://alec.is/posts/ai-employees-dont-pay-taxes/)
 * [2025-12-29, 22:24:22](https://news.ycombinator.com/item?id=46426534) - [ManusAI Joins Meta](https://manus.im/blog/manus-joins-meta-for-next-era-of-innovation)
 * [2025-12-29, 21:46:43](https://news.ycombinator.com/item?id=46426131) - [USPS Announces Changes to the Postmark Date System](https://nstp.org/article/usps-announces-changes-postmark-date-system)
 * [2025-12-29, 21:12:49](https://news.ycombinator.com/item?id=46425769) - [Why the Internet Is Bad for Democracy (2005)](https://dl.acm.org/doi/epdf/10.1145/1089107.1089138)
