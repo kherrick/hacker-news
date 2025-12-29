@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-12-29, 13:43:29](https://news.ycombinator.com/item?id=46420672) - [Libgodc: Write Go Programs for Sega Dreamcast](https://github.com/drpaneas/libgodc)
 * [2025-12-29, 13:22:59](https://news.ycombinator.com/item?id=46420453) - [Show HN: Vibe coding a bookshelf with Claude Code](https://balajmarius.com/writings/vibe-coding-a-bookshelf-with-claude-code/)
 * [2025-12-29, 13:06:49](https://news.ycombinator.com/item?id=46420289) - [UK accounting body to halt remote exams amid AI cheating](https://www.theguardian.com/business/2025/dec/29/uk-accounting-remote-exams-ai-cheating-acca)
 * [2025-12-29, 12:24:00](https://news.ycombinator.com/item?id=46419970) - [Kidnapped by Deutsche Bahn](https://www.theocharis.dev/blog/kidnapped-by-deutsche-bahn/)
@@ -28,8 +29,7 @@
 * [2025-12-26, 22:15:52](https://news.ycombinator.com/item?id=46396912) - [Mouse: Computer Programming Language (2006)](http://mouse.davidgsimpson.com/)
 * [2025-12-26, 22:06:15](https://news.ycombinator.com/item?id=46396824) - [Developing a Beautiful and Performant Block Editor in Qt C++ and QML](https://rubymamistvalove.com/block-editor)
 * [2025-12-26, 04:52:32](https://news.ycombinator.com/item?id=46389325) - [Koine](https://github.com/pattern-zones-co/koine)
-* [2025-12-25, 10:42:46](https://news.ycombinator.com/item?id=46383593) - [Line scan camera image processing](https://daniel.lawrence.lu/blog/2025-09-21-line-scan-camera-image-processing/)
-* [2025-12-23, 00:10:36](https://news.ycombinator.com/item?id=46360844) - [Formally Verifying Peephole Optimisations in Lean](https://l-m.dev/cs/formally-verifying-peephole-optimisations-in-lean/)
+* [2025-12-24, 21:44:04](https://news.ycombinator.com/item?id=46379579) - [Golfing Is Not Rowing](https://taylor.town/golf-vs-rowing)
 
 ## [Archives](archives/index.md)
 
