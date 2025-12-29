@@ -23,7 +23,7 @@
 * [2025-12-28, 11:51:42](https://news.ycombinator.com/item?id=46410402) - [Building a macOS app to know when my Mac is thermal throttling](https://stanislas.blog/2025/12/macos-thermal-throttling-app/)
 * [2025-12-28, 11:08:22](https://news.ycombinator.com/item?id=46410210) - [Learn computer graphics from scratch and for free](https://www.scratchapixel.com)
 * [2025-12-28, 06:43:25](https://news.ycombinator.com/item?id=46408988) - [Growing up in “404 Not Found”: China's nuclear city in the Gobi Desert](https://substack.com/inbox/post/182743659)
-* [2025-12-28, 04:12:48](https://news.ycombinator.com/item?id=46408365) - [Rust errors without dependencies](https://vincents.dev/blog/rust-errors-without-dependencies/)
+* [2025-12-28, 06:42:53](https://news.ycombinator.com/item?id=46408984) - [C++ says “We have try. . . finally at home”](https://devblogs.microsoft.com/oldnewthing/20251222-00/?p=111890)
 * [2025-12-26, 04:57:04](https://news.ycombinator.com/item?id=46389336) - [Time in C++: Inter-Clock Conversions, Epochs, and Durations](https://www.sandordargo.com/blog/2025/12/24/clocks-part-5-conversions)
 * [2025-12-24, 23:21:45](https://news.ycombinator.com/item?id=46380377) - [Writing non-English languages with a QWERTY keyboard](https://altgr-weur.eu/altgr-intl.html)
 * [2025-12-23, 20:39:08](https://news.ycombinator.com/item?id=46369231) - [Finding Jingle Town: Debugging an N64 Game Without Symbols](https://blog.chrislewis.au/finding-jingle-town-debugging-an-n64-game-without-symbols/)
