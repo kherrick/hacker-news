@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-12-29, 23:29:35](https://news.ycombinator.com/item?id=46427376) - [Parsing Advances](https://matklad.github.io/2025/12/28/parsing-advances.html)
+* [2025-12-29, 23:03:06](https://news.ycombinator.com/item?id=46427084) - [Lead-Free Organic–Inorganic Halobismuthate for Large Piezoelectric Effect](https://pubs.acs.org/doi/10.1021/jacs.5c15484)
 * [2025-12-29, 22:30:25](https://news.ycombinator.com/item?id=46426624) - [Show HN: Stop Claude Code from forgetting everything](https://github.com/mutable-state-inc/ensue-skill)
 * [2025-12-29, 22:28:53](https://news.ycombinator.com/item?id=46426596) - [AI Employees Don't Pay Taxes](https://alec.is/posts/ai-employees-dont-pay-taxes/)
 * [2025-12-29, 22:24:22](https://news.ycombinator.com/item?id=46426534) - [ManusAI Joins Meta](https://manus.im/blog/manus-joins-meta-for-next-era-of-innovation)
@@ -14,7 +16,6 @@
 * [2025-12-29, 18:21:30](https://news.ycombinator.com/item?id=46423566) - [List of domains censored by German ISPs](https://cuiiliste.de/domains)
 * [2025-12-29, 18:17:29](https://news.ycombinator.com/item?id=46423521) - [A production bug that made me care about undefined behavior](https://gaultier.github.io/blog/the_production_bug_that_made_me_care_about_undefined_behavior.html)
 * [2025-12-29, 17:32:08](https://news.ycombinator.com/item?id=46423010) - [Nvidia takes $5B stake in Intel under September agreement](https://www.reuters.com/legal/transactional/nvidia-takes-5-billion-stake-intel-under-september-agreement-2025-12-29/)
-* [2025-12-29, 17:17:01](https://news.ycombinator.com/item?id=46422812) - [Show HN: Evidex – AI Clinical Search (RAG over PubMed/OpenAlex and SOAP Notes)](https://www.getevidex.com)
 * [2025-12-29, 16:43:14](https://news.ycombinator.com/item?id=46422412) - [GOG is getting acquired by its original co-founder](https://www.gog.com/blog/gog-is-getting-acquired-by-its-original-co-founder-what-it-means-for-you/)
 * [2025-12-29, 16:07:27](https://news.ycombinator.com/item?id=46422009) - [Static Allocation with Zig](https://nickmonad.blog/2025/static-allocation-with-zig-kv/)
 * [2025-12-29, 13:43:29](https://news.ycombinator.com/item?id=46420672) - [Libgodc: Write Go Programs for Sega Dreamcast](https://github.com/drpaneas/libgodc)
@@ -24,7 +25,6 @@
 * [2025-12-27, 14:13:58](https://news.ycombinator.com/item?id=46401982) - [Why is calling my asm function from Rust slower than calling it from C?](https://ohadravid.github.io/posts/2025-12-rav1d-faster-asm/)
 * [2025-12-27, 11:30:40](https://news.ycombinator.com/item?id=46401052) - [Flame Graphs vs Tree Maps vs Sunburst (2017)](https://www.brendangregg.com/blog/2017-02-06/flamegraphs-vs-treemaps-vs-sunburst.html)
 * [2025-12-26, 20:12:09](https://news.ycombinator.com/item?id=46395714) - [Karpathy on Programming: \"I've never felt this much behind\"](https://twitter.com/karpathy/status/2004607146781278521)
-* [2025-12-26, 08:52:48](https://news.ycombinator.com/item?id=46390397) - [Pandas with Rows (2022)](https://datapythonista.me/blog/pandas-with-hundreds-of-millions-of-rows)
 * [2025-12-25, 21:03:28](https://news.ycombinator.com/item?id=46387028) - [Intelligence – A Mystery Investigation Game](https://intelligencegame.tech/)
 * [2025-12-25, 20:34:59](https://news.ycombinator.com/item?id=46386878) - [Show HN: Aroma: Every TCP Proxy Is Detectable with RTT Fingerprinting](https://github.com/Sakura-sx/Aroma)
 * [2025-12-24, 00:27:27](https://news.ycombinator.com/item?id=46371120) - [High-performance C++ hash table using grouped SIMD metadata scanning](https://github.com/Cranot/grouped-simd-hashtable)
