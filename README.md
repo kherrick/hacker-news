@@ -1,8 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-12-29, 05:47:40](https://news.ycombinator.com/item?id=46417844) - [Staying ahead of censors in 2025](https://forum.torproject.org/t/staying-ahead-of-censors-in-2025-what-weve-learned-from-fighting-censorship-in-iran-and-russia/20898)
+* [2025-12-29, 05:41:24](https://news.ycombinator.com/item?id=46417815) - [Show HN: Z80-μLM, a 'Conversational AI' That Fits in 40KB](https://github.com/HarryR/z80ai)
 * [2025-12-29, 05:35:17](https://news.ycombinator.com/item?id=46417791) - [Binaries](https://fzakaria.com/2025/12/28/huge-binaries)
-* [2025-12-29, 05:21:06](https://news.ycombinator.com/item?id=46417724) - [John Simpson: 'I've reported on 40 wars but I've never seen a year like 2025'](https://www.bbc.com/news/articles/cj4qp17e1lqo)
+* [2025-12-29, 05:25:25](https://news.ycombinator.com/item?id=46417748) - [Show HN: My not-for-profit search engine with no ads, no AI, & all DDG bangs](https://nilch.org)
 * [2025-12-29, 05:12:58](https://news.ycombinator.com/item?id=46417676) - [My First Meshtastic Network](https://rickcarlino.com/notes/electronics/my-first-meshtastic-network.html)
 * [2025-12-29, 03:44:12](https://news.ycombinator.com/item?id=46417252) - [Why I think Valve’s retiring the Steam Deck LCD](https://gardinerbryant.com/why-valves-retiring-the-steam-deck-lcd/)
 * [2025-12-29, 03:39:42](https://news.ycombinator.com/item?id=46417227) - [Fast GPU Interconnect over Radio](https://spectrum.ieee.org/rf-over-fiber)
@@ -20,7 +21,6 @@
 * [2025-12-28, 21:41:42](https://news.ycombinator.com/item?id=46414819) - [Unity's Mono problem: Why your C# code runs slower than it should](https://marekfiser.com/blog/mono-vs-dot-net-in-unity/)
 * [2025-12-28, 21:29:32](https://news.ycombinator.com/item?id=46414723) - [Software engineers should be a little bit cynical](https://www.seangoedecke.com/a-little-bit-cynical/)
 * [2025-12-28, 21:03:03](https://news.ycombinator.com/item?id=46414475) - [MongoBleed Explained Simply](https://bigdata.2minutestreaming.com/p/mongobleed-explained-simply)
-* [2025-12-28, 20:14:58](https://news.ycombinator.com/item?id=46414078) - [Stepping down as Mockito maintainer after ten years](https://github.com/mockito/mockito/issues/3777)
 * [2025-12-28, 20:02:50](https://news.ycombinator.com/item?id=46413975) - [PySDR: A Guide to SDR and DSP Using Python](https://pysdr.org/content/intro.html)
 * [2025-12-28, 19:41:40](https://news.ycombinator.com/item?id=46413790) - [No, it's not a battleship](https://www.navalgazing.net/No-its-not)
 * [2025-12-28, 18:43:54](https://news.ycombinator.com/item?id=46413365) - [Remembering Lou Gerstner](https://newsroom.ibm.com/2025-12-28-Remembering-Lou-Gerstner)
