@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-12-29, 19:51:47",
+      "https://news.ycombinator.com/item?id=46424733"
+    ],
+    [
+      "Meta's ads tools started switching out top-performing ads with AI-generated ones",
+      "https://www.businessinsider.com/meta-ai-generating-bizarre-ads-advantage-plus-2025-10"
+    ]
+  ],
+  [
+    [
       "2025-12-29, 19:30:40",
       "https://news.ycombinator.com/item?id=46424460"
     ],
@@ -11,22 +21,12 @@
   ],
   [
     [
-      "2025-12-29, 19:11:26",
-      "https://news.ycombinator.com/item?id=46424200"
+      "2025-12-29, 19:16:32",
+      "https://news.ycombinator.com/item?id=46424262"
     ],
     [
-      "AI Is Forcing Us to Write Good Code",
-      "https://bits.logic.inc/p/ai-is-forcing-us-to-write-good-code"
-    ]
-  ],
-  [
-    [
-      "2025-12-29, 19:06:21",
-      "https://news.ycombinator.com/item?id=46424136"
-    ],
-    [
-      "LLMs Are Not Fun",
-      "https://orib.dev/nofun.html"
+      "All Delisted Steam Games",
+      "https://delistedgames.com/all-delisted-steam-games/"
     ]
   ],
   [
@@ -71,16 +71,6 @@
   ],
   [
     [
-      "2025-12-29, 17:12:20",
-      "https://news.ycombinator.com/item?id=46422757"
-    ],
-    [
-      "Five Years of Tinygrad",
-      "https://geohot.github.io//blog/jekyll/update/2025/12/29/five-years-of-tinygrad.html"
-    ]
-  ],
-  [
-    [
       "2025-12-29, 16:43:14",
       "https://news.ycombinator.com/item?id=46422412"
     ],
@@ -117,6 +107,16 @@
     [
       "Libgodc: Write Go Programs for Sega Dreamcast",
       "https://github.com/drpaneas/libgodc"
+    ]
+  ],
+  [
+    [
+      "2025-12-29, 13:43:14",
+      "https://news.ycombinator.com/item?id=46420670"
+    ],
+    [
+      "Show HN: Per-instance TSP Solver with No Pre-training (1.66% gap on d1291)",
+      "https://news.ycombinator.com/item?id=46420670"
     ]
   ],
   [
@@ -201,6 +201,16 @@
   ],
   [
     [
+      "2025-12-29, 03:16:32",
+      "https://news.ycombinator.com/item?id=46417110"
+    ],
+    [
+      "CIA Star Gate Project: An Overview (1993) [pdf]",
+      "https://www.cia.gov/readingroom/docs/CIA-RDP96-00789R002800180001-2.pdf"
+    ]
+  ],
+  [
+    [
       "2025-12-29, 02:47:44",
       "https://news.ycombinator.com/item?id=46416945"
     ],
@@ -221,6 +231,16 @@
   ],
   [
     [
+      "2025-12-27, 14:13:58",
+      "https://news.ycombinator.com/item?id=46401982"
+    ],
+    [
+      "Why is calling my asm function from Rust slower than calling it from C?",
+      "https://ohadravid.github.io/posts/2025-12-rav1d-faster-asm/"
+    ]
+  ],
+  [
+    [
       "2025-12-27, 11:30:40",
       "https://news.ycombinator.com/item?id=46401052"
     ],
@@ -231,22 +251,12 @@
   ],
   [
     [
-      "2025-12-26, 23:34:06",
-      "https://news.ycombinator.com/item?id=46397537"
+      "2025-12-26, 20:12:09",
+      "https://news.ycombinator.com/item?id=46395714"
     ],
     [
-      "Show HN: Spacelist, a TUI for Aerospace window manager",
-      "https://github.com/magicmark/spacelist"
-    ]
-  ],
-  [
-    [
-      "2025-12-26, 22:06:15",
-      "https://news.ycombinator.com/item?id=46396824"
-    ],
-    [
-      "Developing a Beautiful and Performant Block Editor in Qt C++ and QML",
-      "https://rubymamistvalove.com/block-editor"
+      "Karpathy on Programming: \"I've never felt this much behind\"",
+      "https://twitter.com/karpathy/status/2004607146781278521"
     ]
   ],
   [
@@ -271,16 +281,6 @@
   ],
   [
     [
-      "2025-12-24, 21:44:04",
-      "https://news.ycombinator.com/item?id=46379579"
-    ],
-    [
-      "Golfing Is Not Rowing",
-      "https://taylor.town/golf-vs-rowing"
-    ]
-  ],
-  [
-    [
       "2025-12-23, 19:52:30",
       "https://news.ycombinator.com/item?id=46368739"
     ],
@@ -295,7 +295,7 @@
       "https://news.ycombinator.com/item?id=46366097"
     ],
     [
-      "How Willie Nelson Sees America",
+      "How Willie Nelson sees America",
       "https://www.newyorker.com/magazine/2025/12/29/willie-nelson-profile"
     ]
   ]
