@@ -4,8 +4,13 @@
 
 ### [Archives](../../index.md) for [2025-12-29](index.md)
 
+* [2025-12-29, 12:24:00](https://news.ycombinator.com/item?id=46419970) - [Kidnapped by Deutsche Bahn](https://www.theocharis.dev/blog/kidnapped-by-deutsche-bahn/)
+* [2025-12-29, 11:33:46](https://news.ycombinator.com/item?id=46419659) - [Kubernetes egress control with squid proxy](https://interlaye.red/kubernetes_002degress_002dsquid.html)
+* [2025-12-29, 10:44:45](https://news.ycombinator.com/item?id=46419282) - [Market design can feed the poor](https://worksinprogress.co/issue/how-market-design-can-feed-the-poor/)
+* [2025-12-29, 10:43:29](https://news.ycombinator.com/item?id=46419273) - [Feynman's Hughes Lectures: 950 pages of notes](https://thehugheslectures.info/the-lectures/)
 * [2025-12-29, 10:12:16](https://news.ycombinator.com/item?id=46419121) - [EU to build no-fee payments service like Visa/Mastercard and Apple/Google Pay](https://www.independent.ie/business/digital-euro-what-it-is-and-how-we-will-use-the-new-form-of-cash/a165973061.html)
 * [2025-12-29, 09:40:09](https://news.ycombinator.com/item?id=46418966) - [Asking Gemini 3 for Brainf*ck code puts it in an infinite loop](https://teodordyakov.github.io/brainfuck-agi/)
+* [2025-12-29, 07:54:19](https://news.ycombinator.com/item?id=46418415) - [You can't design software you don't work on](https://www.seangoedecke.com/you-cant-design-software-you-dont-work-on/)
 * [2025-12-29, 05:47:40](https://news.ycombinator.com/item?id=46417844) - [Tor staying ahead of censors in 2025](https://forum.torproject.org/t/staying-ahead-of-censors-in-2025-what-weve-learned-from-fighting-censorship-in-iran-and-russia/20898)
 * [2025-12-29, 05:41:24](https://news.ycombinator.com/item?id=46417815) - [Show HN: Z80-μLM, a 'Conversational AI' That Fits in 40KB](https://github.com/HarryR/z80ai)
 * [2025-12-29, 05:35:17](https://news.ycombinator.com/item?id=46417791) - [Binaries](https://fzakaria.com/2025/12/28/huge-binaries)
@@ -15,6 +20,7 @@
 * [2025-12-29, 05:12:58](https://news.ycombinator.com/item?id=46417676) - [My First Meshtastic Network](https://rickcarlino.com/notes/electronics/my-first-meshtastic-network.html)
 * [2025-12-29, 03:44:12](https://news.ycombinator.com/item?id=46417252) - [Why I Think Valve's Retiring the Steam Deck LCD](https://gardinerbryant.com/why-valves-retiring-the-steam-deck-lcd/)
 * [2025-12-29, 03:39:42](https://news.ycombinator.com/item?id=46417227) - [Fast GPU Interconnect over Radio](https://spectrum.ieee.org/rf-over-fiber)
+* [2025-12-29, 03:16:32](https://news.ycombinator.com/item?id=46417110) - [CIA Star Gate Project: An Overview (1993) [pdf]](https://www.cia.gov/readingroom/docs/CIA-RDP96-00789R002800180001-2.pdf)
 * [2025-12-29, 02:47:44](https://news.ycombinator.com/item?id=46416945) - [You can make up HTML tags](https://maurycyz.com/misc/make-up-tags/)
 * [2025-12-29, 02:00:59](https://news.ycombinator.com/item?id=46416618) - [Self-hosting is being enshittified](https://troubled.engineer/posts/selfhosting-in-2025/)
 * [2025-12-29, 00:20:00](https://news.ycombinator.com/item?id=46415945) - [Rich Hickey: Thanks AI](https://gist.github.com/richhickey/ea94e3741ff0a4e3af55b9fe6287887f)
