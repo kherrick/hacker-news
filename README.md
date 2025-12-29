@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-12-29, 15:30:20](https://news.ycombinator.com/item?id=46421653) - [I switched to eSIM in 2025, and I am full of regret](https://arstechnica.com/gadgets/2025/12/i-switched-to-esim-in-2025-and-i-am-full-of-regret/)
 * [2025-12-29, 13:43:29](https://news.ycombinator.com/item?id=46420672) - [Libgodc: Write Go Programs for Sega Dreamcast](https://github.com/drpaneas/libgodc)
 * [2025-12-29, 13:22:59](https://news.ycombinator.com/item?id=46420453) - [Show HN: Vibe coding a bookshelf with Claude Code](https://balajmarius.com/writings/vibe-coding-a-bookshelf-with-claude-code/)
 * [2025-12-29, 13:06:49](https://news.ycombinator.com/item?id=46420289) - [UK accounting body to halt remote exams amid AI cheating](https://www.theguardian.com/business/2025/dec/29/uk-accounting-remote-exams-ai-cheating-acca)
@@ -26,10 +27,9 @@
 * [2025-12-28, 21:03:03](https://news.ycombinator.com/item?id=46414475) - [MongoBleed Explained Simply](https://bigdata.2minutestreaming.com/p/mongobleed-explained-simply)
 * [2025-12-28, 20:02:50](https://news.ycombinator.com/item?id=46413975) - [PySDR: A Guide to SDR and DSP Using Python](https://pysdr.org/content/intro.html)
 * [2025-12-26, 23:34:06](https://news.ycombinator.com/item?id=46397537) - [Show HN: Spacelist, a TUI for Aerospace window manager](https://github.com/magicmark/spacelist)
-* [2025-12-26, 22:15:52](https://news.ycombinator.com/item?id=46396912) - [Mouse: Computer Programming Language (2006)](http://mouse.davidgsimpson.com/)
 * [2025-12-26, 22:06:15](https://news.ycombinator.com/item?id=46396824) - [Developing a Beautiful and Performant Block Editor in Qt C++ and QML](https://rubymamistvalove.com/block-editor)
-* [2025-12-26, 04:52:32](https://news.ycombinator.com/item?id=46389325) - [Koine](https://github.com/pattern-zones-co/koine)
 * [2025-12-24, 21:44:04](https://news.ycombinator.com/item?id=46379579) - [Golfing Is Not Rowing](https://taylor.town/golf-vs-rowing)
+* [2025-12-22, 14:11:56](https://news.ycombinator.com/item?id=46354243) - [The Cost of Allocation Errors](https://varietyiq.com/blog/misallocation)
 
 ## [Archives](archives/index.md)
 
