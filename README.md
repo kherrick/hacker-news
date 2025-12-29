@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-12-29, 16:07:27](https://news.ycombinator.com/item?id=46422009) - [Static Allocation with Zig](https://nickmonad.blog/2025/static-allocation-with-zig-kv/)
 * [2025-12-29, 15:30:20](https://news.ycombinator.com/item?id=46421653) - [I switched to eSIM in 2025, and I am full of regret](https://arstechnica.com/gadgets/2025/12/i-switched-to-esim-in-2025-and-i-am-full-of-regret/)
 * [2025-12-29, 13:43:29](https://news.ycombinator.com/item?id=46420672) - [Libgodc: Write Go Programs for Sega Dreamcast](https://github.com/drpaneas/libgodc)
 * [2025-12-29, 13:22:59](https://news.ycombinator.com/item?id=46420453) - [Show HN: Vibe coding a bookshelf with Claude Code](https://balajmarius.com/writings/vibe-coding-a-bookshelf-with-claude-code/)
@@ -9,7 +10,6 @@
 * [2025-12-29, 11:58:09](https://news.ycombinator.com/item?id=46419822) - [Show HN: See what readers who loved your favorite book/author also loved to read](https://shepherd.com/bboy/2025)
 * [2025-12-29, 11:33:46](https://news.ycombinator.com/item?id=46419659) - [Kubernetes egress control with squid proxy](https://interlaye.red/kubernetes_002degress_002dsquid.html)
 * [2025-12-29, 10:43:29](https://news.ycombinator.com/item?id=46419273) - [Feynman's Hughes Lectures: 950 pages of notes](https://thehugheslectures.info/the-lectures/)
-* [2025-12-29, 09:40:09](https://news.ycombinator.com/item?id=46418966) - [Asking Gemini 3 to generate Brainfuck code results in an infinite loop](https://teodordyakov.github.io/brainfuck-agi/)
 * [2025-12-29, 07:54:19](https://news.ycombinator.com/item?id=46418415) - [You can't design software you don't work on](https://www.seangoedecke.com/you-cant-design-software-you-dont-work-on/)
 * [2025-12-29, 05:47:40](https://news.ycombinator.com/item?id=46417844) - [Staying ahead of censors in 2025](https://forum.torproject.org/t/staying-ahead-of-censors-in-2025-what-weve-learned-from-fighting-censorship-in-iran-and-russia/20898)
 * [2025-12-29, 05:41:24](https://news.ycombinator.com/item?id=46417815) - [Show HN: Z80-μLM, a 'Conversational AI' That Fits in 40KB](https://github.com/HarryR/z80ai)
