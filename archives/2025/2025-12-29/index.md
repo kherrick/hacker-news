@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-12-29](index.md)
 
 * [2025-12-29, 20:29:26](https://news.ycombinator.com/item?id=46425198) - [Google is dead. Where do we go now?](https://www.circusscientist.com/2025/12/29/google-is-dead-where-do-we-go-now/)
+* [2025-12-29, 20:04:50](https://news.ycombinator.com/item?id=46424892) - [Binance's Trust Wallet extension hacked; users lose $7M](https://www.web3isgoinggreat.com/?id=trust-wallet-hack)
 * [2025-12-29, 19:51:47](https://news.ycombinator.com/item?id=46424733) - [Meta's ads tools started switching out top-performing ads with AI-generated ones](https://www.businessinsider.com/meta-ai-generating-bizarre-ads-advantage-plus-2025-10)
 * [2025-12-29, 19:30:40](https://news.ycombinator.com/item?id=46424460) - [When someone says they hate your product with a burning passion](https://www.getflack.com/p/responding-to-negative-feedback)
 * [2025-12-29, 19:16:32](https://news.ycombinator.com/item?id=46424262) - [All Delisted Steam Games](https://delistedgames.com/all-delisted-steam-games/)
