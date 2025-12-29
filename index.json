@@ -131,16 +131,6 @@
   ],
   [
     [
-      "2025-12-28, 23:05:53",
-      "https://news.ycombinator.com/item?id=46415426"
-    ],
-    [
-      "62 years in the making: NYC's newest water tunnel nears the finish line",
-      "https://ny1.com/nyc/all-boroughs/news/2025/11/09/water--dep--tunnels-"
-    ]
-  ],
-  [
-    [
       "2025-12-28, 22:52:21",
       "https://news.ycombinator.com/item?id=46415338"
     ],
@@ -221,22 +211,22 @@
   ],
   [
     [
-      "2025-12-28, 19:41:40",
-      "https://news.ycombinator.com/item?id=46413790"
-    ],
-    [
-      "No, it's not a battleship",
-      "https://www.navalgazing.net/No-its-not"
-    ]
-  ],
-  [
-    [
       "2025-12-28, 06:43:25",
       "https://news.ycombinator.com/item?id=46408988"
     ],
     [
       "Growing up in “404 Not Found”: China's nuclear city in the Gobi Desert",
       "https://substack.com/inbox/post/182743659"
+    ]
+  ],
+  [
+    [
+      "2025-12-28, 06:42:53",
+      "https://news.ycombinator.com/item?id=46408984"
+    ],
+    [
+      "C++ says “We have try... finally at home”",
+      "https://devblogs.microsoft.com/oldnewthing/20251222-00/?p=111890"
     ]
   ],
   [
@@ -287,6 +277,16 @@
     [
       "Finding Jingle Town: Debugging an N64 Game Without Symbols",
       "https://blog.chrislewis.au/finding-jingle-town-debugging-an-n64-game-without-symbols/"
+    ]
+  ],
+  [
+    [
+      "2025-12-23, 00:10:36",
+      "https://news.ycombinator.com/item?id=46360844"
+    ],
+    [
+      "Formally Verifying Peephole Optimisations in Lean",
+      "https://l-m.dev/cs/formally-verifying-peephole-optimisations-in-lean/"
     ]
   ],
   [
