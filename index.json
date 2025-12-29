@@ -1,22 +1,12 @@
 [
   [
     [
-      "2025-12-29, 21:46:43",
-      "https://news.ycombinator.com/item?id=46426131"
+      "2025-12-29, 22:24:22",
+      "https://news.ycombinator.com/item?id=46426534"
     ],
     [
-      "USPS Announces Changes to the Postmark Date System",
-      "https://nstp.org/article/usps-announces-changes-postmark-date-system"
-    ]
-  ],
-  [
-    [
-      "2025-12-29, 21:12:49",
-      "https://news.ycombinator.com/item?id=46425769"
-    ],
-    [
-      "Why the Internet Is Bad for Democracy (2005)",
-      "https://dl.acm.org/doi/epdf/10.1145/1089107.1089138"
+      "ManusAI Joins Meta",
+      "https://manus.im/blog/manus-joins-meta-for-next-era-of-innovation"
     ]
   ],
   [
@@ -41,11 +31,21 @@
   ],
   [
     [
+      "2025-12-29, 19:58:09",
+      "https://news.ycombinator.com/item?id=46424789"
+    ],
+    [
+      "Obelisk 0.32: Cancellation, WebAPI, Postgres",
+      "https://obeli.sk/blog/announcing-obelisk-0-32/"
+    ]
+  ],
+  [
+    [
       "2025-12-29, 19:57:47",
       "https://news.ycombinator.com/item?id=46424782"
     ],
     [
-      "Which Humans?",
+      "Which Humans? (2023)",
       "https://osf.io/preprints/psyarxiv/5b26t_v1"
     ]
   ],
@@ -95,7 +95,7 @@
       "https://news.ycombinator.com/item?id=46424200"
     ],
     [
-      "AI Is Forcing Us to Write Good Code",
+      "AI is forcing us to write good code",
       "https://bits.logic.inc/p/ai-is-forcing-us-to-write-good-code"
     ]
   ],
@@ -221,16 +221,6 @@
   ],
   [
     [
-      "2025-12-29, 05:41:24",
-      "https://news.ycombinator.com/item?id=46417815"
-    ],
-    [
-      "Show HN: Z80-μLM, a 'Conversational AI' That Fits in 40KB",
-      "https://github.com/HarryR/z80ai"
-    ]
-  ],
-  [
-    [
       "2025-12-28, 22:35:02",
       "https://news.ycombinator.com/item?id=46415225"
     ],
@@ -267,6 +257,16 @@
     [
       "Karpathy on Programming: \"I've never felt this much behind\"",
       "https://twitter.com/karpathy/status/2004607146781278521"
+    ]
+  ],
+  [
+    [
+      "2025-12-26, 08:52:48",
+      "https://news.ycombinator.com/item?id=46390397"
+    ],
+    [
+      "Pandas with Rows (2022)",
+      "https://datapythonista.me/blog/pandas-with-hundreds-of-millions-of-rows"
     ]
   ],
   [
