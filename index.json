@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-12-29, 21:46:43",
+      "https://news.ycombinator.com/item?id=46426131"
+    ],
+    [
+      "USPS Announces Changes to the Postmark Date System",
+      "https://nstp.org/article/usps-announces-changes-postmark-date-system"
+    ]
+  ],
+  [
+    [
+      "2025-12-29, 21:12:49",
+      "https://news.ycombinator.com/item?id=46425769"
+    ],
+    [
+      "Why the Internet Is Bad for Democracy (2005)",
+      "https://dl.acm.org/doi/epdf/10.1145/1089107.1089138"
+    ]
+  ],
+  [
+    [
       "2025-12-29, 20:29:26",
       "https://news.ycombinator.com/item?id=46425198"
     ],
@@ -55,7 +75,7 @@
       "https://news.ycombinator.com/item?id=46424233"
     ],
     [
-      "The Future of Software Development Is Software Developers",
+      "The future of software development is software developers",
       "https://codemanship.wordpress.com/2025/11/25/the-future-of-software-development-is-software-developers/"
     ]
   ],
@@ -65,7 +85,7 @@
       "https://news.ycombinator.com/item?id=46424217"
     ],
     [
-      "Left Behind: Futurist Fetishists, Prepping and the Abandonment of Earth",
+      "Left Behind: Futurist Fetishists, Prepping and the Abandonment of Earth (2019)",
       "https://www.boundary2.org/2019/08/sarah-t-roberts-and-mel-hogan-left-behind-futurist-fetishists-prepping-and-the-abandonment-of-earth/"
     ]
   ],
@@ -147,16 +167,6 @@
     [
       "Libgodc: Write Go Programs for Sega Dreamcast",
       "https://github.com/drpaneas/libgodc"
-    ]
-  ],
-  [
-    [
-      "2025-12-29, 13:22:59",
-      "https://news.ycombinator.com/item?id=46420453"
-    ],
-    [
-      "Show HN: Vibe coding a bookshelf with Claude Code",
-      "https://balajmarius.com/writings/vibe-coding-a-bookshelf-with-claude-code/"
     ]
   ],
   [
@@ -245,7 +255,7 @@
       "https://news.ycombinator.com/item?id=46401052"
     ],
     [
-      "Flame Graphs vs. Tree Maps vs. Sunburst (2017)",
+      "Flame Graphs vs Tree Maps vs Sunburst (2017)",
       "https://www.brendangregg.com/blog/2017-02-06/flamegraphs-vs-treemaps-vs-sunburst.html"
     ]
   ],
@@ -287,16 +297,6 @@
     [
       "Static Allocation for Compilers",
       "https://matklad.github.io/2025/12/23/static-allocation-compilers.html"
-    ]
-  ],
-  [
-    [
-      "2025-12-23, 19:52:30",
-      "https://news.ycombinator.com/item?id=46368739"
-    ],
-    [
-      "Show HN: Superset – Terminal to run 10 parallel coding agents",
-      "https://superset.sh/"
     ]
   ]
 ]
