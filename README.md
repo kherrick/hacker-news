@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-12-29, 10:12:16](https://news.ycombinator.com/item?id=46419121) - [EU to build no-fee payments service like Visa/Mastercard and Apple/Google Pay](https://www.independent.ie/business/digital-euro-what-it-is-and-how-we-will-use-the-new-form-of-cash/a165973061.html)
 * [2025-12-29, 09:40:09](https://news.ycombinator.com/item?id=46418966) - [Asking Gemini 3 for Brainf*ck code puts it in an infinite loop](https://teodordyakov.github.io/brainfuck-agi/)
 * [2025-12-29, 05:47:40](https://news.ycombinator.com/item?id=46417844) - [Staying ahead of censors in 2025](https://forum.torproject.org/t/staying-ahead-of-censors-in-2025-what-weve-learned-from-fighting-censorship-in-iran-and-russia/20898)
 * [2025-12-29, 05:41:24](https://news.ycombinator.com/item?id=46417815) - [Show HN: Z80-μLM, a 'Conversational AI' That Fits in 40KB](https://github.com/HarryR/z80ai)
@@ -21,6 +20,7 @@
 * [2025-12-28, 21:03:03](https://news.ycombinator.com/item?id=46414475) - [MongoBleed Explained Simply](https://bigdata.2minutestreaming.com/p/mongobleed-explained-simply)
 * [2025-12-28, 20:02:50](https://news.ycombinator.com/item?id=46413975) - [PySDR: A Guide to SDR and DSP Using Python](https://pysdr.org/content/intro.html)
 * [2025-12-28, 06:43:25](https://news.ycombinator.com/item?id=46408988) - [Growing up in “404 Not Found”: China's nuclear city in the Gobi Desert](https://substack.com/inbox/post/182743659)
+* [2025-12-28, 06:42:53](https://news.ycombinator.com/item?id=46408984) - [C++ says “We have try... finally at home”](https://devblogs.microsoft.com/oldnewthing/20251222-00/?p=111890)
 * [2025-12-27, 09:52:03](https://news.ycombinator.com/item?id=46400564) - [Formulaic Delimiters in the Iliad and the Odyssey](https://glthr.com/formulaic-delimiters-in-the-iliad-and-the-odyssey)
 * [2025-12-26, 22:15:52](https://news.ycombinator.com/item?id=46396912) - [Mouse: Computer Programming Language](http://mouse.davidgsimpson.com/)
 * [2025-12-26, 22:06:15](https://news.ycombinator.com/item?id=46396824) - [Developing a Beautiful and Performant Block Editor in Qt C++ and QML](https://rubymamistvalove.com/block-editor)
