@@ -26,10 +26,10 @@
 * [2025-12-28, 21:03:03](https://news.ycombinator.com/item?id=46414475) - [MongoBleed Explained Simply](https://bigdata.2minutestreaming.com/p/mongobleed-explained-simply)
 * [2025-12-28, 20:02:50](https://news.ycombinator.com/item?id=46413975) - [PySDR: A Guide to SDR and DSP Using Python](https://pysdr.org/content/intro.html)
 * [2025-12-26, 23:34:06](https://news.ycombinator.com/item?id=46397537) - [Show HN: Spacelist, a TUI for Aerospace window manager](https://github.com/magicmark/spacelist)
-* [2025-12-26, 22:15:52](https://news.ycombinator.com/item?id=46396912) - [Mouse: Computer Programming Language (2006)](http://mouse.davidgsimpson.com/)
 * [2025-12-26, 22:06:15](https://news.ycombinator.com/item?id=46396824) - [Developing a Beautiful and Performant Block Editor in Qt C++ and QML](https://rubymamistvalove.com/block-editor)
 * [2025-12-26, 04:52:32](https://news.ycombinator.com/item?id=46389325) - [Koine](https://github.com/pattern-zones-co/koine)
 * [2025-12-24, 21:44:04](https://news.ycombinator.com/item?id=46379579) - [Golfing Is Not Rowing](https://taylor.town/golf-vs-rowing)
+* [2025-12-23, 00:10:36](https://news.ycombinator.com/item?id=46360844) - [Formally Verifying Peephole Optimisations in Lean](https://l-m.dev/cs/formally-verifying-peephole-optimisations-in-lean/)
 
 ## [Archives](archives/index.md)
 
