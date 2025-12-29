@@ -29,6 +29,7 @@
 * [2025-12-26, 17:04:42](https://news.ycombinator.com/item?id=46393906) - [ZJIT is now available in Ruby 4.0](https://railsatscale.com/2025-12-24-launch-zjit/)
 * [2025-12-26, 15:56:52](https://news.ycombinator.com/item?id=46393271) - [Show HN: AutoLISP interpreter in Rust/WASM – a CAD workflow invented 33 yrs ago](https://acadlisp.de/noscript.html)
 * [2025-12-26, 15:55:21](https://news.ycombinator.com/item?id=46393262) - [Show HN: Private blogging and journaling with a simulated audience](https://tempblog-psi.vercel.app/)
+* [2025-12-26, 15:28:15](https://news.ycombinator.com/item?id=46393003) - [My coworker's 36 key Corne open-source keyboard setup](https://nuon.co/blog/nuon-keyboard-culture/)
 * [2025-12-26, 15:20:36](https://news.ycombinator.com/item?id=46392910) - [Show HN: Witr – Explain why a process is running on your Linux system](https://github.com/pranshuparmar/witr)
 * [2025-12-26, 15:13:21](https://news.ycombinator.com/item?id=46392815) - [High School Student Discovers 1.5M Potential New Astronomical Objects](https://www.smithsonianmag.com/smart-news/high-school-student-discovers-1-5-million-potential-new-astronomical-objects-by-developing-an-ai-algorithm-180986429/)
 * [2025-12-26, 15:07:01](https://news.ycombinator.com/item?id=46392736) - [Show HN: Xcc700: Self-hosting mini C compiler for ESP32 (Xtensa) in 700 lines](https://github.com/valdanylchuk/xcc700)
