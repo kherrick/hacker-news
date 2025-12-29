@@ -139,11 +139,11 @@
             <h4>
               <span>2025-12-29 @ 19:06:21</span
               ><span class="points-container"
-                >Points: <span class="points">114</span></span
+                >Points: <span class="points">145</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46424136"
                   >Comments</a
-                ><span class="descendants">: 59</span></span
+                ><span class="descendants">: 89</span></span
               >
             </h4>
           </section>
@@ -158,11 +158,11 @@
             <h4>
               <span>2025-12-29 @ 18:21:30</span
               ><span class="points-container"
-                >Points: <span class="points">74</span></span
+                >Points: <span class="points">81</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46423566"
                   >Comments</a
-                ><span class="descendants">: 32</span></span
+                ><span class="descendants">: 40</span></span
               >
             </h4>
           </section>
@@ -179,11 +179,11 @@
             <h4>
               <span>2025-12-29 @ 18:17:29</span
               ><span class="points-container"
-                >Points: <span class="points">20</span></span
+                >Points: <span class="points">24</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46423521"
                   >Comments</a
-                ><span class="descendants">: 5</span></span
+                ><span class="descendants">: 8</span></span
               >
             </h4>
           </section>
@@ -201,11 +201,11 @@
             <h4>
               <span>2025-12-29 @ 17:57:03</span
               ><span class="points-container"
-                >Points: <span class="points">208</span></span
+                >Points: <span class="points">213</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46423290"
                   >Comments</a
-                ><span class="descendants">: 208</span></span
+                ><span class="descendants">: 219</span></span
               >
             </h4>
           </section>
@@ -222,13 +222,103 @@
             <h4>
               <span>2025-12-29 @ 17:32:08</span
               ><span class="points-container"
-                >Points: <span class="points">90</span></span
+                >Points: <span class="points">96</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46423010"
                   >Comments</a
-                ><span class="descendants">: 23</span></span
+                ><span class="descendants">: 27</span></span
               >
             </h4>
+          </section>
+        </section>
+        <section id="46422812">
+          <h3>
+            <a class="item" href="https://www.getevidex.com"
+              >Show HN: Evidex – AI Clinical Search (RAG over PubMed/OpenAlex
+              and SOAP Notes)</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2025-12-29 @ 17:17:01</span
+              ><span class="points-container"
+                >Points: <span class="points">3</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=46422812"
+                  >Comments</a
+                ><span class="descendants">: 0</span></span
+              >
+            </h4>
+            <div class="text">
+              <p>
+                I’m a solo dev building a clinical search engine to help my wife
+                (a resident physician) and her colleagues.
+              </p>
+              <p>
+                The Problem: Current tools (UpToDate/OpenEvidence) are
+                expensive, slow, or increasingly heavy with pharma ads.
+              </p>
+              <p>
+                The Solution: I built Evidex to be a clean, privacy-first
+                alternative. Search Demo (GIF):
+                <a href="https://imgur.com/a/zoUvINt"
+                  >https://imgur.com/a/zoUvINt</a
+                >
+              </p>
+              <p>
+                Technical Architecture (Search-Based RAG): Instead of using a
+                traditional pre-indexed vector database (like Pinecone) which
+                can serve stale data, I implemented a Real-time RAG pattern:
+              </p>
+              <p>
+                Orchestrator: A Node.js backend performs "Smart Routing"
+                (regex/keyword analysis) on the query to decide which external
+                APIs to hit (PubMed, Europe PMC, OpenAlex, or
+                ClinicalTrials.gov).
+              </p>
+              <p>
+                Retrieval: It executes parallel fetches to these APIs at runtime
+                to grab the top ~15 abstracts.
+              </p>
+              <p>
+                Local Data: Clinical guidelines are stored locally in SQLite and
+                retrieved via full-text search (FTS) ensuring exact matches on
+                medical terminology.
+              </p>
+              <p>
+                Inference: I’m using Gemini 2.5 Flash to process the
+                concatenated abstracts. The massive context window allows me to
+                feed it distinct search results and force strict citation
+                mapping without latency bottlenecks.
+              </p>
+              <p>
+                Workflow Tools (The "Integration"): I also built a "reasoning
+                layer" to handle complex patient histories (Case Mode) and draft
+                documentation (SOAP Notes). Case Mode Demo (GIF):
+                <a href="https://imgur.com/a/h01Zgkx"
+                  >https://imgur.com/a/h01Zgkx</a
+                >
+                Note Gen Demo (GIF):
+                <a href="https://imgur.com/a/DI1S2Y0"
+                  >https://imgur.com/a/DI1S2Y0</a
+                >
+              </p>
+              <p>
+                Why no Vector DB? In medicine, "freshness" is critical. If a new
+                trial drops today, a pre-indexed vector store might miss it. My
+                real-time approach ensures the answer includes papers published
+                today.
+              </p>
+              <p>
+                Business Model: The clinical search is free. I plan to monetize
+                by selling billing automation tools to hospital admins later.
+              </p>
+              <p>
+                Feedback Request: I’d love feedback on the retrieval latency
+                (fetching live APIs is slower than vector lookups) and the
+                accuracy of the synthesized answers.
+              </p>
+            </div>
           </section>
         </section>
         <section id="46422757">
@@ -243,11 +333,11 @@
             <h4>
               <span>2025-12-29 @ 17:12:20</span
               ><span class="points-container"
-                >Points: <span class="points">41</span></span
+                >Points: <span class="points">43</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46422757"
                   >Comments</a
-                ><span class="descendants">: 21</span></span
+                ><span class="descendants">: 23</span></span
               >
             </h4>
           </section>
@@ -264,11 +354,11 @@
             <h4>
               <span>2025-12-29 @ 16:43:14</span
               ><span class="points-container"
-                >Points: <span class="points">325</span></span
+                >Points: <span class="points">332</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46422412"
                   >Comments</a
-                ><span class="descendants">: 171</span></span
+                ><span class="descendants">: 182</span></span
               >
             </h4>
           </section>
@@ -285,11 +375,11 @@
             <h4>
               <span>2025-12-29 @ 16:07:27</span
               ><span class="points-container"
-                >Points: <span class="points">101</span></span
+                >Points: <span class="points">103</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46422009"
                   >Comments</a
-                ><span class="descendants">: 57</span></span
+                ><span class="descendants">: 58</span></span
               >
             </h4>
           </section>
@@ -306,11 +396,11 @@
             <h4>
               <span>2025-12-29 @ 15:30:20</span
               ><span class="points-container"
-                >Points: <span class="points">118</span></span
+                >Points: <span class="points">128</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46421653"
                   >Comments</a
-                ><span class="descendants">: 103</span></span
+                ><span class="descendants">: 109</span></span
               >
             </h4>
           </section>
@@ -325,7 +415,7 @@
             <h4>
               <span>2025-12-29 @ 13:43:29</span
               ><span class="points-container"
-                >Points: <span class="points">140</span></span
+                >Points: <span class="points">144</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46420672"
                   >Comments</a
@@ -350,7 +440,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46420453"
                   >Comments</a
-                ><span class="descendants">: 170</span></span
+                ><span class="descendants">: 172</span></span
               >
             </h4>
           </section>
@@ -367,11 +457,11 @@
             <h4>
               <span>2025-12-29 @ 12:24:00</span
               ><span class="points-container"
-                >Points: <span class="points">730</span></span
+                >Points: <span class="points">738</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46419970"
                   >Comments</a
-                ><span class="descendants">: 727</span></span
+                ><span class="descendants">: 733</span></span
               >
             </h4>
           </section>
@@ -387,7 +477,7 @@
             <h4>
               <span>2025-12-29 @ 12:23:49</span
               ><span class="points-container"
-                >Points: <span class="points">106</span></span
+                >Points: <span class="points">107</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46419968"
                   >Comments</a
@@ -407,7 +497,7 @@
             <h4>
               <span>2025-12-29 @ 11:58:09</span
               ><span class="points-container"
-                >Points: <span class="points">82</span></span
+                >Points: <span class="points">83</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46419822"
                   >Comments</a
@@ -517,7 +607,7 @@
             <h4>
               <span>2025-12-29 @ 07:54:19</span
               ><span class="points-container"
-                >Points: <span class="points">165</span></span
+                >Points: <span class="points">169</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46418415"
                   >Comments</a
@@ -536,7 +626,7 @@
             <h4>
               <span>2025-12-29 @ 05:41:24</span
               ><span class="points-container"
-                >Points: <span class="points">424</span></span
+                >Points: <span class="points">426</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46417815"
                   >Comments</a
@@ -595,7 +685,7 @@
             <h4>
               <span>2025-12-29 @ 05:35:17</span
               ><span class="points-container"
-                >Points: <span class="points">169</span></span
+                >Points: <span class="points">171</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46417791"
                   >Comments</a
@@ -616,7 +706,7 @@
             <h4>
               <span>2025-12-29 @ 05:12:58</span
               ><span class="points-container"
-                >Points: <span class="points">143</span></span
+                >Points: <span class="points">145</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46417676"
                   >Comments</a
@@ -635,11 +725,11 @@
             <h4>
               <span>2025-12-29 @ 02:47:44</span
               ><span class="points-container"
-                >Points: <span class="points">499</span></span
+                >Points: <span class="points">500</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46416945"
                   >Comments</a
-                ><span class="descendants">: 165</span></span
+                ><span class="descendants">: 168</span></span
               >
             </h4>
           </section>
@@ -656,11 +746,11 @@
             <h4>
               <span>2025-12-28 @ 22:52:21</span
               ><span class="points-container"
-                >Points: <span class="points">295</span></span
+                >Points: <span class="points">297</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46415338"
                   >Comments</a
-                ><span class="descendants">: 447</span></span
+                ><span class="descendants">: 449</span></span
               >
             </h4>
           </section>
@@ -675,33 +765,11 @@
             <h4>
               <span>2025-12-28 @ 22:35:02</span
               ><span class="points-container"
-                >Points: <span class="points">2194</span></span
+                >Points: <span class="points">2197</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46415225"
                   >Comments</a
                 ><span class="descendants">: 359</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="46414819">
-          <h3>
-            <a
-              class="item"
-              href="https://marekfiser.com/blog/mono-vs-dot-net-in-unity/"
-              >Unity's Mono problem: Why your C# code runs slower than it
-              should</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2025-12-28 @ 21:41:42</span
-              ><span class="points-container"
-                >Points: <span class="points">260</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=46414819"
-                  >Comments</a
-                ><span class="descendants">: 156</span></span
               >
             </h4>
           </section>
@@ -718,11 +786,11 @@
             <h4>
               <span>2025-12-27 @ 11:30:40</span
               ><span class="points-container"
-                >Points: <span class="points">15</span></span
+                >Points: <span class="points">17</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46401052"
                   >Comments</a
-                ><span class="descendants">: 0</span></span
+                ><span class="descendants">: 1</span></span
               >
             </h4>
           </section>
@@ -757,7 +825,7 @@
             <h4>
               <span>2025-12-26 @ 22:06:15</span
               ><span class="points-container"
-                >Points: <span class="points">124</span></span
+                >Points: <span class="points">125</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46396824"
                   >Comments</a
@@ -795,11 +863,11 @@
             <h4>
               <span>2025-12-24 @ 21:44:04</span
               ><span class="points-container"
-                >Points: <span class="points">67</span></span
+                >Points: <span class="points">68</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46379579"
                   >Comments</a
-                ><span class="descendants">: 50</span></span
+                ><span class="descendants">: 52</span></span
               >
             </h4>
           </section>
@@ -814,11 +882,11 @@
             <h4>
               <span>2025-12-23 @ 19:52:30</span
               ><span class="points-container"
-                >Points: <span class="points">23</span></span
+                >Points: <span class="points">27</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46368739"
                   >Comments</a
-                ><span class="descendants">: 7</span></span
+                ><span class="descendants">: 15</span></span
               >
             </h4>
             <div class="text">
@@ -905,7 +973,7 @@
             <h4>
               <span>2025-12-23 @ 15:30:15</span
               ><span class="points-container"
-                >Points: <span class="points">32</span></span
+                >Points: <span class="points">35</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46366097"
                   >Comments</a
