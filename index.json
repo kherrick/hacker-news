@@ -1,12 +1,42 @@
 [
   [
     [
-      "2025-12-28, 23:17:07",
-      "https://news.ycombinator.com/item?id=46415488"
+      "2025-12-29, 00:20:00",
+      "https://news.ycombinator.com/item?id=46415945"
     ],
     [
-      "CEOs are hugely expensive. Why not automate them?",
-      "https://www.newstatesman.com/business/companies/2023/05/ceos-salaries-expensive-automate-robots"
+      "Rich Hickey: Thanks AI",
+      "https://gist.github.com/richhickey/ea94e3741ff0a4e3af55b9fe6287887f"
+    ]
+  ],
+  [
+    [
+      "2025-12-29, 00:01:26",
+      "https://news.ycombinator.com/item?id=46415819"
+    ],
+    [
+      "Show HN: My app just won best iOS Japanese learning tool of 2025 award",
+      "https://skerritt.blog/best-japanese-learning-tools-2025-award-show/"
+    ]
+  ],
+  [
+    [
+      "2025-12-28, 23:30:10",
+      "https://news.ycombinator.com/item?id=46415570"
+    ],
+    [
+      "Fast Cvvdp Implementation in C",
+      "https://github.com/halidecx/fcvvdp"
+    ]
+  ],
+  [
+    [
+      "2025-12-28, 23:23:21",
+      "https://news.ycombinator.com/item?id=46415522"
+    ],
+    [
+      "How to Complain",
+      "https://outerproduct.net/trivial/2024-03-25_complain.html"
     ]
   ],
   [
@@ -121,16 +151,6 @@
   ],
   [
     [
-      "2025-12-28, 20:59:21",
-      "https://news.ycombinator.com/item?id=46414443"
-    ],
-    [
-      "Loss of moist broadleaf forest in Africa has turned a carbon sink into source",
-      "https://www.nature.com/articles/s41598-025-27462-3"
-    ]
-  ],
-  [
-    [
       "2025-12-28, 20:38:09",
       "https://news.ycombinator.com/item?id=46414258"
     ],
@@ -181,26 +201,6 @@
   ],
   [
     [
-      "2025-12-28, 15:02:07",
-      "https://news.ycombinator.com/item?id=46411539"
-    ],
-    [
-      "Designing Predictable LLM-Verifier Systems for Formal Method Guarantee",
-      "https://arxiv.org/abs/2512.02080"
-    ]
-  ],
-  [
-    [
-      "2025-12-28, 12:00:06",
-      "https://news.ycombinator.com/item?id=46410449"
-    ],
-    [
-      "Langfuse (YC W23) Is Hiring in Berlin, Germany",
-      "https://langfuse.com/careers"
-    ]
-  ],
-  [
-    [
       "2025-12-28, 11:51:42",
       "https://news.ycombinator.com/item?id=46410402"
     ],
@@ -231,22 +231,12 @@
   ],
   [
     [
-      "2025-12-28, 05:02:39",
-      "https://news.ycombinator.com/item?id=46408613"
+      "2025-12-26, 07:18:44",
+      "https://news.ycombinator.com/item?id=46389973"
     ],
     [
-      "Calendar",
-      "https://neatnik.net/calendar/?year=2026"
-    ]
-  ],
-  [
-    [
-      "2025-12-28, 01:07:09",
-      "https://news.ycombinator.com/item?id=46407337"
-    ],
-    [
-      "Replacing JavaScript with Just HTML",
-      "https://www.htmhell.dev/adventcalendar/2025/27/"
+      "Intermission: Battle Pulses",
+      "https://acoup.blog/2025/12/18/intermission-battle-pulses/"
     ]
   ],
   [
@@ -261,22 +251,32 @@
   ],
   [
     [
+      "2025-12-25, 15:34:44",
+      "https://news.ycombinator.com/item?id=46384992"
+    ],
+    [
+      "Oral History of Richard Greenblatt (2005) [pdf]",
+      "https://archive.computerhistory.org/resources/text/Oral_History/Greenblatt_Richard/greenblatt.oral_history_transcript.2005.102657935.pdf"
+    ]
+  ],
+  [
+    [
+      "2025-12-24, 23:21:45",
+      "https://news.ycombinator.com/item?id=46380377"
+    ],
+    [
+      "Writing non-English languages with a QWERTY keyboard",
+      "https://altgr-weur.eu/altgr-intl.html"
+    ]
+  ],
+  [
+    [
       "2025-12-24, 16:45:37",
       "https://news.ycombinator.com/item?id=46377081"
     ],
     [
       "John Malone and the Invention of Liquid-Based Engines",
       "https://permalink.lanl.gov/object/tr?what=info:lanl-repo/lareport/LA-UR-93-1350-25"
-    ]
-  ],
-  [
-    [
-      "2025-12-24, 12:40:00",
-      "https://news.ycombinator.com/item?id=46375067"
-    ],
-    [
-      "Show HN: LoongArch Userspace Emulator",
-      "https://github.com/libriscv/libloong"
     ]
   ],
   [
