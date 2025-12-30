@@ -11,26 +11,6 @@
   ],
   [
     [
-      "2025-12-30, 19:11:01",
-      "https://news.ycombinator.com/item?id=46436791"
-    ],
-    [
-      "Iran Protests Enter Third Straight Day as Students Join In",
-      "https://www.wsj.com/world/middle-east/iran-protests-enter-third-straight-day-as-students-join-in-585e7bff"
-    ]
-  ],
-  [
-    [
-      "2025-12-30, 18:20:31",
-      "https://news.ycombinator.com/item?id=46436260"
-    ],
-    [
-      "Lottocracy: Democracy Without Elections",
-      "https://www.lottocracy.org"
-    ]
-  ],
-  [
-    [
       "2025-12-30, 18:08:37",
       "https://news.ycombinator.com/item?id=46436128"
     ],
@@ -211,6 +191,16 @@
   ],
   [
     [
+      "2025-12-29, 22:24:22",
+      "https://news.ycombinator.com/item?id=46426534"
+    ],
+    [
+      "ManusAI Joins Meta",
+      "https://manus.im/blog/manus-joins-meta-for-next-era-of-innovation"
+    ]
+  ],
+  [
+    [
       "2025-12-29, 19:14:17",
       "https://news.ycombinator.com/item?id=46424233"
     ],
@@ -267,6 +257,16 @@
     [
       "Concurrent Hash Table Designs",
       "https://bluuewhale.github.io/posts/concurrent-hashmap-designs/"
+    ]
+  ],
+  [
+    [
+      "2025-12-26, 03:14:07",
+      "https://news.ycombinator.com/item?id=46388882"
+    ],
+    [
+      "Show HN: A Claude Code plugin that catch destructive Git and filesystem commands",
+      "https://github.com/kenryu42/claude-code-safety-net"
     ]
   ],
   [
