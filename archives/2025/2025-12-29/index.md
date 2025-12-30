@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-12-29](index.md)
 
+* [2025-12-29, 23:50:34](https://news.ycombinator.com/item?id=46427586) - [Stranger Things Creator Says Turn Off \"Garbage\" Settings](https://screenrant.com/stranger-things-creator-turn-off-settings-premiere/)
 * [2025-12-29, 23:29:35](https://news.ycombinator.com/item?id=46427376) - [Parsing Advances](https://matklad.github.io/2025/12/28/parsing-advances.html)
+* [2025-12-29, 23:12:00](https://news.ycombinator.com/item?id=46427181) - [Geology of the Gulf of the Farallones National Marine Sanctuary](https://pubs.usgs.gov/fs/farallones/)
 * [2025-12-29, 23:03:06](https://news.ycombinator.com/item?id=46427084) - [Lead-Free Organic–Inorganic Halobismuthate for Large Piezoelectric Effect](https://pubs.acs.org/doi/10.1021/jacs.5c15484)
 * [2025-12-29, 22:30:25](https://news.ycombinator.com/item?id=46426624) - [Stop Claude Code from forgetting everything](https://github.com/mutable-state-inc/ensue-skill)
 * [2025-12-29, 22:28:53](https://news.ycombinator.com/item?id=46426596) - [AI Employees Don't Pay Taxes](https://alec.is/posts/ai-employees-dont-pay-taxes/)
