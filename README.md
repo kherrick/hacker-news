@@ -24,12 +24,12 @@
 * [2025-12-29, 12:23:49](https://news.ycombinator.com/item?id=46419968) - [Linux DAW: Help Linux musicians to quickly and easily find the tools they need](https://linuxdaw.org/)
 * [2025-12-27, 11:30:40](https://news.ycombinator.com/item?id=46401052) - [Flame Graphs vs Tree Maps vs Sunburst (2017)](https://www.brendangregg.com/blog/2017-02-06/flamegraphs-vs-treemaps-vs-sunburst.html)
 * [2025-12-26, 20:12:09](https://news.ycombinator.com/item?id=46395714) - [Karpathy on Programming: “I've never felt this much behind”](https://twitter.com/karpathy/status/2004607146781278521)
+* [2025-12-26, 14:39:10](https://news.ycombinator.com/item?id=46392382) - [Streaming compression beats framed compression](https://bou.ke/blog/compressed/)
 * [2025-12-26, 03:14:07](https://news.ycombinator.com/item?id=46388882) - [Show HN: A Claude Code plugin that catch destructive Git and filesystem commands](https://github.com/kenryu42/claude-code-safety-net)
 * [2025-12-25, 12:59:55](https://news.ycombinator.com/item?id=46384153) - [Incremental Backups of Gmail Takeouts](https://baecher.dev/stdout/incremental-backups-of-gmail-takeouts/)
 * [2025-12-25, 00:02:29](https://news.ycombinator.com/item?id=46380697) - [Vitest Browser Mode Guide](https://howtotestfrontend.com/resources/vitest-browser-mode-guide-and-setup-info)
 * [2025-12-24, 06:59:43](https://news.ycombinator.com/item?id=46373168) - [Stanford Lecture: Dr. Don Knuth – Adventures with Knight's Tours [video]](https://www.youtube.com/watch?v=MKiRte-tnMY)
 * [2025-12-24, 01:30:13](https://news.ycombinator.com/item?id=46371486) - [Show HN: A 45x45 Connections Puzzle To Commemorate 2025=45*45](https://thomaswc.com/2025.html)
-* [2025-12-23, 19:52:30](https://news.ycombinator.com/item?id=46368739) - [Show HN: Superset – Terminal to run 10 parallel coding agents](https://superset.sh/)
 
 ## [Archives](archives/index.md)
 
