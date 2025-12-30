@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2025-12-30](index.md)
 
+* [2025-12-30, 19:21:48](https://news.ycombinator.com/item?id=46436889) - [FediMeteo: A €4 FreeBSD VPS Became a Global Weather Service](https://it-notes.dragas.net/2025/02/26/fedimeteo-how-a-tiny-freebsd-vps-became-a-global-weather-service-for-thousands/)
 * [2025-12-30, 19:00:23](https://news.ycombinator.com/item?id=46436687) - [Now That He Has No Power, Mitt Romney Says \"Tax the Rich\"](https://jacobin.com/2025/12/romney-tax-rich-op-ed-nyt/)
+* [2025-12-30, 18:20:31](https://news.ycombinator.com/item?id=46436260) - [Lottocracy: Democracy Without Elections](https://www.lottocracy.org)
+* [2025-12-30, 18:08:37](https://news.ycombinator.com/item?id=46436128) - [Show HN: I remade my website in the Sith Lord Theme and I hope it's fun](https://cookie.engineer/index.html)
 * [2025-12-30, 18:08:32](https://news.ycombinator.com/item?id=46436127) - [Electrolysis can solve one of our biggest contamination problems](https://ethz.ch/en/news-and-events/eth-news/news/2025/11/electrolysis-can-solve-one-of-our-biggest-contamination-problems.html)
 * [2025-12-30, 17:24:57](https://news.ycombinator.com/item?id=46435614) - [A Vulnerability in Libsodium](https://00f.net/2025/12/30/libsodium-vulnerability/)
 * [2025-12-30, 17:15:11](https://news.ycombinator.com/item?id=46435477) - ['Commuting Is Bad'–Particularly for Women](https://www.theatlantic.com/family/2025/12/commute-gender-wage-gap-mothers/685265/)
