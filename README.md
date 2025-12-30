@@ -28,7 +28,7 @@
 * [2025-12-26, 07:56:58](https://news.ycombinator.com/item?id=46390154) - [The Signature Flicker](https://steipete.me/posts/2025/signature-flicker)
 * [2025-12-25, 12:59:55](https://news.ycombinator.com/item?id=46384153) - [Incremental Backups of Gmail Takeouts](https://baecher.dev/stdout/incremental-backups-of-gmail-takeouts/)
 * [2025-12-25, 00:02:29](https://news.ycombinator.com/item?id=46380697) - [Vitest Browser Mode Guide](https://howtotestfrontend.com/resources/vitest-browser-mode-guide-and-setup-info)
-* [2025-12-24, 01:30:13](https://news.ycombinator.com/item?id=46371486) - [Show HN: A 45x45 Connections Puzzle To Commemorate 2025=45*45](https://thomaswc.com/2025.html)
+* [2025-12-24, 06:59:43](https://news.ycombinator.com/item?id=46373168) - [Stanford Lecture: Dr. Don Knuth – Adventures with Knight's Tours [video]](https://www.youtube.com/watch?v=MKiRte-tnMY)
 * [2025-12-23, 10:28:40](https://news.ycombinator.com/item?id=46364136) - [UNIX Fourth Edition](http://squoze.net/UNIX/v4/README)
 
 ## [Archives](archives/index.md)
