@@ -1,12 +1,42 @@
 [
   [
     [
+      "2025-12-30, 20:05:42",
+      "https://news.ycombinator.com/item?id=46437381"
+    ],
+    [
+      "Everything as Code: How We Manage Our Company in One Monorepo",
+      "https://www.kasava.dev/blog/everything-as-code-monorepo"
+    ]
+  ],
+  [
+    [
       "2025-12-30, 19:21:48",
       "https://news.ycombinator.com/item?id=46436889"
     ],
     [
       "FediMeteo: A €4 FreeBSD VPS Became a Global Weather Service",
       "https://it-notes.dragas.net/2025/02/26/fedimeteo-how-a-tiny-freebsd-vps-became-a-global-weather-service-for-thousands/"
+    ]
+  ],
+  [
+    [
+      "2025-12-30, 18:36:37",
+      "https://news.ycombinator.com/item?id=46436409"
+    ],
+    [
+      "A faster heart for F-Droid. Our new server is here",
+      "https://f-droid.org/2025/12/30/a-faster-heart-for-f-droid.html"
+    ]
+  ],
+  [
+    [
+      "2025-12-30, 18:28:00",
+      "https://news.ycombinator.com/item?id=46436319"
+    ],
+    [
+      "Funes.world",
+      "https://funes.world"
     ]
   ],
   [
@@ -161,42 +191,12 @@
   ],
   [
     [
-      "2025-12-30, 07:36:38",
-      "https://news.ycombinator.com/item?id=46430558"
-    ],
-    [
-      "Charm Ruby – Glamorous Terminal Libraries for Ruby",
-      "https://charm-ruby.dev/"
-    ]
-  ],
-  [
-    [
-      "2025-12-30, 01:40:49",
-      "https://news.ycombinator.com/item?id=46428496"
-    ],
-    [
-      "Hacking Washing Machines [video]",
-      "https://media.ccc.de/v/39c3-hacking-washing-machines"
-    ]
-  ],
-  [
-    [
       "2025-12-29, 23:50:34",
       "https://news.ycombinator.com/item?id=46427586"
     ],
     [
       "Stranger Things creator says turn off “garbage” settings",
       "https://screenrant.com/stranger-things-creator-turn-off-settings-premiere/"
-    ]
-  ],
-  [
-    [
-      "2025-12-29, 22:24:22",
-      "https://news.ycombinator.com/item?id=46426534"
-    ],
-    [
-      "ManusAI Joins Meta",
-      "https://manus.im/blog/manus-joins-meta-for-next-era-of-innovation"
     ]
   ],
   [
@@ -261,16 +261,6 @@
   ],
   [
     [
-      "2025-12-26, 03:14:07",
-      "https://news.ycombinator.com/item?id=46388882"
-    ],
-    [
-      "Show HN: A Claude Code plugin that catch destructive Git and filesystem commands",
-      "https://github.com/kenryu42/claude-code-safety-net"
-    ]
-  ],
-  [
-    [
       "2025-12-25, 15:32:45",
       "https://news.ycombinator.com/item?id=46384975"
     ],
@@ -287,6 +277,16 @@
     [
       "Postgres extension complements pgvector for performance and scale",
       "https://github.com/timescale/pgvectorscale"
+    ]
+  ],
+  [
+    [
+      "2025-12-23, 17:51:13",
+      "https://news.ycombinator.com/item?id=46367377"
+    ],
+    [
+      "Confessions to a Data Lake",
+      "https://confer.to/blog/2025/12/confessions-to-a-data-lake/"
     ]
   ],
   [
