@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-12-30](index.md)
 
 * [2025-12-30, 19:21:48](https://news.ycombinator.com/item?id=46436889) - [FediMeteo: A €4 FreeBSD VPS Became a Global Weather Service](https://it-notes.dragas.net/2025/02/26/fedimeteo-how-a-tiny-freebsd-vps-became-a-global-weather-service-for-thousands/)
+* [2025-12-30, 19:11:01](https://news.ycombinator.com/item?id=46436791) - [Iran Protests Enter Third Straight Day as Students Join In](https://www.wsj.com/world/middle-east/iran-protests-enter-third-straight-day-as-students-join-in-585e7bff)
 * [2025-12-30, 19:00:23](https://news.ycombinator.com/item?id=46436687) - [Now That He Has No Power, Mitt Romney Says \"Tax the Rich\"](https://jacobin.com/2025/12/romney-tax-rich-op-ed-nyt/)
 * [2025-12-30, 18:20:31](https://news.ycombinator.com/item?id=46436260) - [Lottocracy: Democracy Without Elections](https://www.lottocracy.org)
 * [2025-12-30, 18:08:37](https://news.ycombinator.com/item?id=46436128) - [Show HN: I remade my website in the Sith Lord Theme and I hope it's fun](https://cookie.engineer/index.html)
