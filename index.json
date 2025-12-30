@@ -1,6 +1,36 @@
 [
   [
     [
+      "2025-12-30, 17:09:57",
+      "https://news.ycombinator.com/item?id=46435418"
+    ],
+    [
+      "Toro: Deploy Applications as Unikernels",
+      "https://github.com/torokernel/torokernel"
+    ]
+  ],
+  [
+    [
+      "2025-12-30, 16:18:23",
+      "https://news.ycombinator.com/item?id=46434821"
+    ],
+    [
+      "Ask HN: Any example of successful vibe-coded product?",
+      "https://news.ycombinator.com/item?id=46434821"
+    ]
+  ],
+  [
+    [
+      "2025-12-30, 14:58:18",
+      "https://news.ycombinator.com/item?id=46433915"
+    ],
+    [
+      "What Happened to Abit Motherboards",
+      "https://dfarq.homeip.net/what-happened-to-abit-motherboards/"
+    ]
+  ],
+  [
+    [
       "2025-12-30, 14:49:38",
       "https://news.ycombinator.com/item?id=46433832"
     ],
@@ -141,26 +171,6 @@
   ],
   [
     [
-      "2025-12-30, 00:54:34",
-      "https://news.ycombinator.com/item?id=46428154"
-    ],
-    [
-      "Outside, Dungeon, Town: Integrating the Three Places in Videogames (2024)",
-      "https://keithburgun.net/outside-dungeon-town-integrating-the-three-places-in-videogames/"
-    ]
-  ],
-  [
-    [
-      "2025-12-30, 00:23:47",
-      "https://news.ycombinator.com/item?id=46427920"
-    ],
-    [
-      "MongoDB Server Security Update, December 2025",
-      "https://www.mongodb.com/company/blog/news/mongodb-server-security-update-december-2025"
-    ]
-  ],
-  [
-    [
       "2025-12-29, 23:50:34",
       "https://news.ycombinator.com/item?id=46427586"
     ],
@@ -177,16 +187,6 @@
     [
       "ManusAI Joins Meta",
       "https://manus.im/blog/manus-joins-meta-for-next-era-of-innovation"
-    ]
-  ],
-  [
-    [
-      "2025-12-29, 20:29:26",
-      "https://news.ycombinator.com/item?id=46425198"
-    ],
-    [
-      "Google is dead. Where do we go now?",
-      "https://www.circusscientist.com/2025/12/29/google-is-dead-where-do-we-go-now/"
     ]
   ],
   [
@@ -271,22 +271,22 @@
   ],
   [
     [
-      "2025-12-25, 12:59:55",
-      "https://news.ycombinator.com/item?id=46384153"
-    ],
-    [
-      "Incremental Backups of Gmail Takeouts",
-      "https://baecher.dev/stdout/incremental-backups-of-gmail-takeouts/"
-    ]
-  ],
-  [
-    [
       "2025-12-24, 22:04:57",
       "https://news.ycombinator.com/item?id=46379765"
     ],
     [
       "Postgres extension complements pgvector for performance and scale",
       "https://github.com/timescale/pgvectorscale"
+    ]
+  ],
+  [
+    [
+      "2025-12-23, 15:21:55",
+      "https://news.ycombinator.com/item?id=46366010"
+    ],
+    [
+      "Reverse Engineering a Mysterious UDP Stream in My Hotel (2016)",
+      "https://www.gkbrk.com/hotel-music"
     ]
   ],
   [
