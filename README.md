@@ -3,6 +3,8 @@
 * [2025-12-30, 21:59:35](https://news.ycombinator.com/item?id=46438522) - [Honey's Dieselgate: Detecting and tricking testers](https://vptdigital.com/blog/honey-detecting-testers/)
 * [2025-12-30, 21:44:07](https://news.ycombinator.com/item?id=46438390) - [OpenAI's cash burn will be one of the big bubble questions of 2026](https://www.economist.com/leaders/2025/12/30/openais-cash-burn-will-be-one-of-the-big-bubble-questions-of-2026)
 * [2025-12-30, 21:31:00](https://news.ycombinator.com/item?id=46438255) - [U.S. cybersecurity experts plead guilty for ransomware attacks](https://www.tomshardware.com/tech-industry/cyber-security/u-s-cybersecurity-experts-plead-guilty-for-ransomware-attacks-face-20-years-in-prison-each-group-demanded-up-to-usd10-million-from-each-victim)
+* [2025-12-30, 21:22:53](https://news.ycombinator.com/item?id=46438169) - [Humans May Be Able to Grow New Teeth Within Just 4 Years](https://www.popularmechanics.com/science/health/a69878870/human-new-tooth-regrowth-trials-japan-timeline/)
+* [2025-12-30, 20:53:59](https://news.ycombinator.com/item?id=46437876) - [Sabotaging Bitcoin](https://blog.dshr.org/2025/12/sabotaging-bitcoin.html)
 * [2025-12-30, 20:06:46](https://news.ycombinator.com/item?id=46437391) - [Professional software developers don't vibe, they control](https://arxiv.org/abs/2512.14012)
 * [2025-12-30, 20:05:42](https://news.ycombinator.com/item?id=46437381) - [Everything as code: How we manage our company in one monorepo](https://www.kasava.dev/blog/everything-as-code-monorepo)
 * [2025-12-30, 19:57:10](https://news.ycombinator.com/item?id=46437288) - [Zpdf: PDF text extraction in Zig – 5x faster than MuPDF](https://github.com/Lulzx/zpdf)
@@ -26,8 +28,6 @@
 * [2025-12-29, 19:09:08](https://news.ycombinator.com/item?id=46424173) - [Loss32: Let's Build a Win32/Linux](https://loss32.org/)
 * [2025-12-29, 17:12:20](https://news.ycombinator.com/item?id=46422757) - [Five Years of Tinygrad](https://geohot.github.io//blog/jekyll/update/2025/12/29/five-years-of-tinygrad.html)
 * [2025-12-29, 08:14:45](https://news.ycombinator.com/item?id=46418517) - [HTTP Strict Transport Security (HSTS)](https://hstspreload.org/)
-* [2025-12-27, 14:36:43](https://news.ycombinator.com/item?id=46402132) - [Concurrent Hash Table Designs](https://bluuewhale.github.io/posts/concurrent-hashmap-designs/)
-* [2025-12-25, 15:32:45](https://news.ycombinator.com/item?id=46384975) - [Show HN: One clean, developer-focused page for every Unicode symbol](https://fontgenerator.design/symbols)
 * [2025-12-24, 22:04:57](https://news.ycombinator.com/item?id=46379765) - [Postgres extension complements pgvector for performance and scale](https://github.com/timescale/pgvectorscale)
 * [2025-12-23, 15:21:55](https://news.ycombinator.com/item?id=46366010) - [Reverse Engineering a Mysterious UDP Stream in My Hotel (2016)](https://www.gkbrk.com/hotel-music)
 
