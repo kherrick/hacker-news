@@ -6,7 +6,9 @@
 
 * [2025-12-30, 13:15:05](https://news.ycombinator.com/item?id=46433035) - [Win32 is the stable Linux ABI](https://loss32.org/)
 * [2025-12-30, 13:14:40](https://news.ycombinator.com/item?id=46433029) - [no strpy either](https://daniel.haxx.se/blog/2025/12/29/no-strcpy-either/)
+* [2025-12-30, 13:01:51](https://news.ycombinator.com/item?id=46432916) - [Fucking Approachable Swift Concurrency](https://fuckingapproachableswiftconcurrency.com/en/)
 * [2025-12-30, 12:56:07](https://news.ycombinator.com/item?id=46432862) - [Calibri Wasn't Fit for the State Department; Neither Is Times New Roman](https://hsu.cy/2025/12/times-new-american/)
+* [2025-12-30, 12:47:41](https://news.ycombinator.com/item?id=46432791) - [Groq investor sounds alarm on data centers](https://www.axios.com/2025/12/29/groq-alex-davis-data-center-concerns)
 * [2025-12-30, 12:00:23](https://news.ycombinator.com/item?id=46432451) - [Crimson (YC X25) is hiring founding engineers in London](https://www.ycombinator.com/companies/crimson/jobs/kCikzj1-founding-engineer-full-stack)
 * [2025-12-30, 11:42:55](https://news.ycombinator.com/item?id=46432311) - [Non-Zero-Sum Games](https://nonzerosum.games/)
 * [2025-12-30, 11:13:30](https://news.ycombinator.com/item?id=46432057) - [Nicolas Guillou, French ICC judge sanctioned by the US and \"debanked\"](https://www.lemonde.fr/en/international/article/2025/11/19/nicolas-guillou-french-icc-judge-sanctioned-by-the-us-you-are-effectively-blacklisted-by-much-of-the-world-s-banking-system_6747628_4.html)
