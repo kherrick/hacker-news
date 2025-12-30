@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-12-30, 22:28:16](https://news.ycombinator.com/item?id=46438828) - [NYC Mayoral Inauguration bans Raspberry Pi and Flipper Zero alongside explosives](https://blog.adafruit.com/2025/12/30/nyc-mayoral-inauguration-bans-raspberry-pi-and-flipper-zero-alongside-explosives/)
 * [2025-12-30, 21:59:35](https://news.ycombinator.com/item?id=46438522) - [Honey's Dieselgate: Detecting and tricking testers](https://vptdigital.com/blog/honey-detecting-testers/)
 * [2025-12-30, 21:44:07](https://news.ycombinator.com/item?id=46438390) - [OpenAI's cash burn will be one of the big bubble questions of 2026](https://www.economist.com/leaders/2025/12/30/openais-cash-burn-will-be-one-of-the-big-bubble-questions-of-2026)
 * [2025-12-30, 21:31:00](https://news.ycombinator.com/item?id=46438255) - [U.S. cybersecurity experts plead guilty for ransomware attacks](https://www.tomshardware.com/tech-industry/cyber-security/u-s-cybersecurity-experts-plead-guilty-for-ransomware-attacks-face-20-years-in-prison-each-group-demanded-up-to-usd10-million-from-each-victim)
@@ -11,12 +12,11 @@
 * [2025-12-30, 19:21:48](https://news.ycombinator.com/item?id=46436889) - [FediMeteo: A €4 FreeBSD VPS Became a Global Weather Service](https://it-notes.dragas.net/2025/02/26/fedimeteo-how-a-tiny-freebsd-vps-became-a-global-weather-service-for-thousands/)
 * [2025-12-30, 19:15:05](https://news.ycombinator.com/item?id=46436828) - [Escaping containment: A security analysis of FreeBSD jails [video]](https://media.ccc.de/v/39c3-escaping-containment-a-security-analysis-of-freebsd-jails)
 * [2025-12-30, 18:36:37](https://news.ycombinator.com/item?id=46436409) - [A faster heart for F-Droid. Our new server is here](https://f-droid.org/2025/12/30/a-faster-heart-for-f-droid.html)
-* [2025-12-30, 18:08:37](https://news.ycombinator.com/item?id=46436128) - [Show HN: I remade my website in the Sith Lord Theme and I hope it's fun](https://cookie.engineer/index.html)
 * [2025-12-30, 18:08:32](https://news.ycombinator.com/item?id=46436127) - [Electrolysis can solve one of our biggest contamination problems](https://ethz.ch/en/news-and-events/eth-news/news/2025/11/electrolysis-can-solve-one-of-our-biggest-contamination-problems.html)
 * [2025-12-30, 17:24:57](https://news.ycombinator.com/item?id=46435614) - [A Vulnerability in Libsodium](https://00f.net/2025/12/30/libsodium-vulnerability/)
 * [2025-12-30, 17:09:57](https://news.ycombinator.com/item?id=46435418) - [Toro: Deploy Applications as Unikernels](https://github.com/torokernel/torokernel)
 * [2025-12-30, 17:01:59](https://news.ycombinator.com/item?id=46435308) - [Show HN: 22 GB of Hacker News in SQLite](https://hackerbook.dosaygo.com)
-* [2025-12-30, 15:57:01](https://news.ycombinator.com/item?id=46434580) - [Show HN: Tidy Baby is a SET game but with words](https://tidy.baby)
+* [2025-12-30, 14:58:18](https://news.ycombinator.com/item?id=46433915) - [What Happened to Abit Motherboards](https://dfarq.homeip.net/what-happened-to-abit-motherboards/)
 * [2025-12-30, 14:31:34](https://news.ycombinator.com/item?id=46433661) - [Hive (YC S14) Is Hiring a Staff Software Engineer (Data Systems)](https://jobs.ashbyhq.com/hive.co/cb0dc490-0e32-4734-8d91-8b56a31ed497)
 * [2025-12-30, 13:55:59](https://news.ycombinator.com/item?id=46433352) - [Igniting the GPU: From Kernel Plumbing to 3D Rendering on RISC-V](https://mwilczynski.dev/posts/riscv-gpu-zink/)
 * [2025-12-30, 13:10:56](https://news.ycombinator.com/item?id=46432999) - [The British empire's resilient subsea telegraph network](https://subseacables.blogspot.com/2025/12/the-british-empires-resilient-subsea.html)
@@ -26,10 +26,10 @@
 * [2025-12-30, 10:11:57](https://news.ycombinator.com/item?id=46431560) - [Netflix Open Content](https://opencontent.netflix.com/)
 * [2025-12-30, 08:50:44](https://news.ycombinator.com/item?id=46431028) - [Go away Python](https://lorentz.app/blog-item.html?id=go-shebang)
 * [2025-12-29, 19:09:08](https://news.ycombinator.com/item?id=46424173) - [Loss32: Let's Build a Win32/Linux](https://loss32.org/)
-* [2025-12-29, 17:12:20](https://news.ycombinator.com/item?id=46422757) - [Five Years of Tinygrad](https://geohot.github.io//blog/jekyll/update/2025/12/29/five-years-of-tinygrad.html)
 * [2025-12-29, 08:14:45](https://news.ycombinator.com/item?id=46418517) - [HTTP Strict Transport Security (HSTS)](https://hstspreload.org/)
 * [2025-12-24, 22:04:57](https://news.ycombinator.com/item?id=46379765) - [Postgres extension complements pgvector for performance and scale](https://github.com/timescale/pgvectorscale)
 * [2025-12-23, 15:21:55](https://news.ycombinator.com/item?id=46366010) - [Reverse Engineering a Mysterious UDP Stream in My Hotel (2016)](https://www.gkbrk.com/hotel-music)
+* [2025-12-23, 02:33:24](https://news.ycombinator.com/item?id=46361766) - [Braid Math Article](https://mathvoices.ams.org/mathmedia/tonys-take-april-2022/)
 
 ## [Archives](archives/index.md)
 
