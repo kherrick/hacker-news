@@ -2,6 +2,8 @@
 
 * [2025-12-30, 10:11:57](https://news.ycombinator.com/item?id=46431560) - [Netflix: Open Content](https://opencontent.netflix.com/)
 * [2025-12-30, 09:57:27](https://news.ycombinator.com/item?id=46431453) - [HSBC blocks its app due to F-Droid-installed Bitwarden](https://mastodon.neilzone.co.uk/@neil/115807834298031971)
+* [2025-12-30, 08:53:40](https://news.ycombinator.com/item?id=46431049) - [You Need to Ditch VS Code](https://jrswab.com/blog/ditch-vs-code)
+* [2025-12-30, 08:50:44](https://news.ycombinator.com/item?id=46431028) - [Go Away Python](https://lorentz.app/blog-item.html?id=go-shebang)
 * [2025-12-30, 01:40:49](https://news.ycombinator.com/item?id=46428496) - [Hacking Washing Machines [video]](https://media.ccc.de/v/39c3-hacking-washing-machines)
 * [2025-12-30, 01:00:03](https://news.ycombinator.com/item?id=46428206) - [100x (YC S22) Is Hiring a Front End Engineer](https://news.ycombinator.com/item?id=46428206)
 * [2025-12-30, 00:54:34](https://news.ycombinator.com/item?id=46428154) - [Outside, Dungeon, Town: Integrating the Three Places in Videogames (2024)](https://keithburgun.net/outside-dungeon-town-integrating-the-three-places-in-videogames/)
@@ -27,8 +29,6 @@
 * [2025-12-25, 15:32:45](https://news.ycombinator.com/item?id=46384975) - [Show HN: One clean, developer-focused page for every Unicode symbol](https://fontgenerator.design/symbols)
 * [2025-12-25, 12:59:55](https://news.ycombinator.com/item?id=46384153) - [Incremental Backups of Gmail Takeouts](https://baecher.dev/stdout/incremental-backups-of-gmail-takeouts/)
 * [2025-12-25, 00:22:42](https://news.ycombinator.com/item?id=46380855) - [Librarians Tired of Being Accused of Hiding Secret Books That Were Made Up by AI](https://gizmodo.com/librarians-arent-hiding-secret-books-from-you-that-only-ai-knows-about-2000698176)
-* [2025-12-25, 00:02:29](https://news.ycombinator.com/item?id=46380697) - [Vitest Browser Mode Guide](https://howtotestfrontend.com/resources/vitest-browser-mode-guide-and-setup-info)
-* [2025-12-24, 06:59:43](https://news.ycombinator.com/item?id=46373168) - [Stanford Lecture: Dr. Don Knuth – Adventures with Knight's Tours [video]](https://www.youtube.com/watch?v=MKiRte-tnMY)
 * [2025-12-23, 10:28:40](https://news.ycombinator.com/item?id=46364136) - [UNIX Fourth Edition](http://squoze.net/UNIX/v4/README)
 
 ## [Archives](archives/index.md)
