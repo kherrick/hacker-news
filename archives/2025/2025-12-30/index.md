@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-12-30](index.md)
 
+* [2025-12-30, 15:32:58](https://news.ycombinator.com/item?id=46434301) - [2025 Was Another Exceptionally Hot Year](https://e360.yale.edu/digest/2025-second-hottest-year)
 * [2025-12-30, 14:49:38](https://news.ycombinator.com/item?id=46433832) - [The Legacy of Undersea Cables](https://blog.sciencemuseumgroup.org.uk/the-legacy-of-undersea-cables/)
 * [2025-12-30, 14:43:45](https://news.ycombinator.com/item?id=46433782) - [CSS-in-JS: The Great Betrayal of Front End Sanity](https://thenewstack.io/css-in-js-the-great-betrayal-of-frontend-sanity/)
 * [2025-12-30, 14:31:34](https://news.ycombinator.com/item?id=46433661) - [Hive (YC S14) Is Hiring a Staff Software Engineer (Data Systems)](https://jobs.ashbyhq.com/hive.co/cb0dc490-0e32-4734-8d91-8b56a31ed497)
