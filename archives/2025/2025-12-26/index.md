@@ -28,6 +28,7 @@
 * [2025-12-26, 17:07:53](https://news.ycombinator.com/item?id=46393936) - [Experts Explore New Mushroom Which Causes Fairytale-Like Hallucinations](https://nhmu.utah.edu/articles/experts-explore-new-mushroom-which-causes-fairytale-hallucinations)
 * [2025-12-26, 17:06:35](https://news.ycombinator.com/item?id=46393924) - [C/C++ Embedded Files](https://www.4rknova.com//blog/2013/01/27/cpp-embedded-files)
 * [2025-12-26, 17:04:42](https://news.ycombinator.com/item?id=46393906) - [ZJIT is now available in Ruby 4.0](https://railsatscale.com/2025-12-24-launch-zjit/)
+* [2025-12-26, 16:49:23](https://news.ycombinator.com/item?id=46393755) - [Optimal Classification Cutoffs](https://finite-sample.github.io/optimal-classification-cutoffs/)
 * [2025-12-26, 16:36:14](https://news.ycombinator.com/item?id=46393609) - [I built a quiet site for finding ambient albums while working](https://ambientmusic.com/)
 * [2025-12-26, 15:56:52](https://news.ycombinator.com/item?id=46393271) - [Show HN: AutoLISP interpreter in Rust/WASM – a CAD workflow invented 33 yrs ago](https://acadlisp.de/noscript.html)
 * [2025-12-26, 15:55:21](https://news.ycombinator.com/item?id=46393262) - [Show HN: Private blogging and journaling with a simulated audience](https://tempblog-psi.vercel.app/)

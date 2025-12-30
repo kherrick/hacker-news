@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-12-30, 18:08:32](https://news.ycombinator.com/item?id=46436127) - [Electrolysis can solve one of our biggest contamination problems](https://ethz.ch/en/news-and-events/eth-news/news/2025/11/electrolysis-can-solve-one-of-our-biggest-contamination-problems.html)
 * [2025-12-30, 17:09:57](https://news.ycombinator.com/item?id=46435418) - [Toro: Deploy Applications as Unikernels](https://github.com/torokernel/torokernel)
-* [2025-12-30, 16:18:23](https://news.ycombinator.com/item?id=46434821) - [Ask HN: Any example of successful vibe-coded product?](https://news.ycombinator.com/item?id=46434821)
 * [2025-12-30, 15:57:01](https://news.ycombinator.com/item?id=46434580) - [Show HN: Tidy Baby is a SET game but with words](https://tidy.baby)
 * [2025-12-30, 14:58:18](https://news.ycombinator.com/item?id=46433915) - [What Happened to Abit Motherboards](https://dfarq.homeip.net/what-happened-to-abit-motherboards/)
 * [2025-12-30, 14:31:34](https://news.ycombinator.com/item?id=46433661) - [Hive (YC S14) Is Hiring a Staff Software Engineer (Data Systems)](https://jobs.ashbyhq.com/hive.co/cb0dc490-0e32-4734-8d91-8b56a31ed497)
@@ -24,7 +24,7 @@
 * [2025-12-29, 17:12:20](https://news.ycombinator.com/item?id=46422757) - [Five Years of Tinygrad](https://geohot.github.io//blog/jekyll/update/2025/12/29/five-years-of-tinygrad.html)
 * [2025-12-29, 16:43:14](https://news.ycombinator.com/item?id=46422412) - [GOG is getting acquired by its original co-founder](https://www.gog.com/blog/gog-is-getting-acquired-by-its-original-co-founder-what-it-means-for-you/)
 * [2025-12-27, 14:36:43](https://news.ycombinator.com/item?id=46402132) - [Concurrent Hash Table Designs](https://bluuewhale.github.io/posts/concurrent-hashmap-designs/)
-* [2025-12-26, 16:36:14](https://news.ycombinator.com/item?id=46393609) - [I built a quiet site for finding ambient albums while working](https://ambientmusic.com/)
+* [2025-12-26, 16:49:23](https://news.ycombinator.com/item?id=46393755) - [Optimal Classification Cutoffs](https://finite-sample.github.io/optimal-classification-cutoffs/)
 * [2025-12-26, 03:14:07](https://news.ycombinator.com/item?id=46388882) - [Show HN: A Claude Code plugin that catch destructive Git and filesystem commands](https://github.com/kenryu42/claude-code-safety-net)
 * [2025-12-25, 15:32:45](https://news.ycombinator.com/item?id=46384975) - [Show HN: One clean, developer-focused page for every Unicode symbol](https://fontgenerator.design/symbols)
 * [2025-12-24, 22:04:57](https://news.ycombinator.com/item?id=46379765) - [Postgres extension complements pgvector for performance and scale](https://github.com/timescale/pgvectorscale)

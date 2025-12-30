@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-12-30](index.md)
 
+* [2025-12-30, 18:08:32](https://news.ycombinator.com/item?id=46436127) - [Electrolysis can solve one of our biggest contamination problems](https://ethz.ch/en/news-and-events/eth-news/news/2025/11/electrolysis-can-solve-one-of-our-biggest-contamination-problems.html)
 * [2025-12-30, 17:15:11](https://news.ycombinator.com/item?id=46435477) - ['Commuting Is Bad'–Particularly for Women](https://www.theatlantic.com/family/2025/12/commute-gender-wage-gap-mothers/685265/)
 * [2025-12-30, 17:09:57](https://news.ycombinator.com/item?id=46435418) - [Toro: Deploy Applications as Unikernels](https://github.com/torokernel/torokernel)
 * [2025-12-30, 16:18:23](https://news.ycombinator.com/item?id=46434821) - [Ask HN: Any example of successful vibe-coded product?](https://news.ycombinator.com/item?id=46434821)
