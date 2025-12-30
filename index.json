@@ -1,12 +1,42 @@
 [
   [
     [
+      "2025-12-30, 00:23:47",
+      "https://news.ycombinator.com/item?id=46427920"
+    ],
+    [
+      "MongoDB Server Security Update, December 2025",
+      "https://www.mongodb.com/company/blog/news/mongodb-server-security-update-december-2025"
+    ]
+  ],
+  [
+    [
+      "2025-12-29, 23:50:34",
+      "https://news.ycombinator.com/item?id=46427586"
+    ],
+    [
+      "Stranger Things Creator Says Turn Off \"Garbage\" Settings",
+      "https://screenrant.com/stranger-things-creator-turn-off-settings-premiere/"
+    ]
+  ],
+  [
+    [
       "2025-12-29, 23:29:35",
       "https://news.ycombinator.com/item?id=46427376"
     ],
     [
       "Parsing Advances",
       "https://matklad.github.io/2025/12/28/parsing-advances.html"
+    ]
+  ],
+  [
+    [
+      "2025-12-29, 23:12:00",
+      "https://news.ycombinator.com/item?id=46427181"
+    ],
+    [
+      "Geology of the Gulf of the Farallones National Marine Sanctuary",
+      "https://pubs.usgs.gov/fs/farallones/"
     ]
   ],
   [
@@ -31,16 +61,6 @@
   ],
   [
     [
-      "2025-12-29, 22:28:53",
-      "https://news.ycombinator.com/item?id=46426596"
-    ],
-    [
-      "AI Employees Don't Pay Taxes",
-      "https://alec.is/posts/ai-employees-dont-pay-taxes/"
-    ]
-  ],
-  [
-    [
       "2025-12-29, 22:24:22",
       "https://news.ycombinator.com/item?id=46426534"
     ],
@@ -57,16 +77,6 @@
     [
       "Google is dead. Where do we go now?",
       "https://www.circusscientist.com/2025/12/29/google-is-dead-where-do-we-go-now/"
-    ]
-  ],
-  [
-    [
-      "2025-12-29, 20:04:50",
-      "https://news.ycombinator.com/item?id=46424892"
-    ],
-    [
-      "Binance's Trust Wallet extension hacked; users lose $7M",
-      "https://www.web3isgoinggreat.com/?id=trust-wallet-hack"
     ]
   ],
   [
@@ -151,16 +161,6 @@
   ],
   [
     [
-      "2025-12-29, 17:32:08",
-      "https://news.ycombinator.com/item?id=46423010"
-    ],
-    [
-      "Nvidia takes $5B stake in Intel under September agreement",
-      "https://www.reuters.com/legal/transactional/nvidia-takes-5-billion-stake-intel-under-september-agreement-2025-12-29/"
-    ]
-  ],
-  [
-    [
       "2025-12-29, 16:43:14",
       "https://news.ycombinator.com/item?id=46422412"
     ],
@@ -221,12 +221,12 @@
   ],
   [
     [
-      "2025-12-27, 14:13:58",
-      "https://news.ycombinator.com/item?id=46401982"
+      "2025-12-28, 22:35:02",
+      "https://news.ycombinator.com/item?id=46415225"
     ],
     [
-      "Why is calling my asm function from Rust slower than calling it from C?",
-      "https://ohadravid.github.io/posts/2025-12-rav1d-faster-asm/"
+      "What an unprocessed photo looks like",
+      "https://maurycyz.com/misc/raw_photo/"
     ]
   ],
   [
@@ -271,22 +271,22 @@
   ],
   [
     [
+      "2025-12-25, 00:02:29",
+      "https://news.ycombinator.com/item?id=46380697"
+    ],
+    [
+      "Vitest Browser Mode Guide",
+      "https://howtotestfrontend.com/resources/vitest-browser-mode-guide-and-setup-info"
+    ]
+  ],
+  [
+    [
       "2025-12-24, 00:27:27",
       "https://news.ycombinator.com/item?id=46371120"
     ],
     [
       "High-performance C++ hash table using grouped SIMD metadata scanning",
       "https://github.com/Cranot/grouped-simd-hashtable"
-    ]
-  ],
-  [
-    [
-      "2025-12-23, 22:53:51",
-      "https://news.ycombinator.com/item?id=46370446"
-    ],
-    [
-      "Static Allocation for Compilers",
-      "https://matklad.github.io/2025/12/23/static-allocation-compilers.html"
     ]
   ],
   [
