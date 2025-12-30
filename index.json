@@ -21,6 +21,16 @@
   ],
   [
     [
+      "2025-12-30, 20:02:35",
+      "https://news.ycombinator.com/item?id=46437350"
+    ],
+    [
+      "The sword-wielding man hired to kick squatters out of empty Oakland homes",
+      "https://oaklandside.org/2025/09/30/asap-squatter-removal-oakland/"
+    ]
+  ],
+  [
+    [
       "2025-12-30, 19:57:10",
       "https://news.ycombinator.com/item?id=46437288"
     ],
@@ -201,16 +211,6 @@
   ],
   [
     [
-      "2025-12-29, 19:14:17",
-      "https://news.ycombinator.com/item?id=46424233"
-    ],
-    [
-      "The future of software development is software developers",
-      "https://codemanship.wordpress.com/2025/11/25/the-future-of-software-development-is-software-developers/"
-    ]
-  ],
-  [
-    [
       "2025-12-29, 19:09:08",
       "https://news.ycombinator.com/item?id=46424173"
     ],
@@ -251,16 +251,6 @@
   ],
   [
     [
-      "2025-12-27, 14:36:43",
-      "https://news.ycombinator.com/item?id=46402132"
-    ],
-    [
-      "Concurrent Hash Table Designs",
-      "https://bluuewhale.github.io/posts/concurrent-hashmap-designs/"
-    ]
-  ],
-  [
-    [
       "2025-12-25, 15:32:45",
       "https://news.ycombinator.com/item?id=46384975"
     ],
@@ -277,6 +267,16 @@
     [
       "Postgres extension complements pgvector for performance and scale",
       "https://github.com/timescale/pgvectorscale"
+    ]
+  ],
+  [
+    [
+      "2025-12-23, 23:25:26",
+      "https://news.ycombinator.com/item?id=46370702"
+    ],
+    [
+      "An initial analysis of the discovered Unix V4 tape",
+      "https://www.spinellis.gr/blog/20251223/"
     ]
   ],
   [
