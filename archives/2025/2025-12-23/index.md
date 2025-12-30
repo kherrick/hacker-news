@@ -39,6 +39,7 @@
 * [2025-12-23, 16:11:45](https://news.ycombinator.com/item?id=46366462) - [The IPv4 address swamp: The new normal](https://blog.apnic.net/2025/12/23/the-ipv4-address-swamp-the-new-normal/)
 * [2025-12-23, 15:51:17](https://news.ycombinator.com/item?id=46366285) - [Stop Slopware](https://stopslopware.net/)
 * [2025-12-23, 15:30:15](https://news.ycombinator.com/item?id=46366097) - [How Willie Nelson Sees America](https://www.newyorker.com/magazine/2025/12/29/willie-nelson-profile)
+* [2025-12-23, 15:21:55](https://news.ycombinator.com/item?id=46366010) - [Reverse Engineering a Mysterious UDP Stream in My Hotel (2016)](https://www.gkbrk.com/hotel-music)
 * [2025-12-23, 14:51:33](https://news.ycombinator.com/item?id=46365726) - [The Best Things and Stuff of 2025](https://blog.fogus.me/2025/12/23/the-best-things-and-stuff-of-2025.html)
 * [2025-12-23, 14:40:12](https://news.ycombinator.com/item?id=46365641) - [Nearly 1 in 4 Americans Think They Have a Personal Social Security Account](https://www.cato.org/blog/poll-nearly-1-4-americans-think-they-have-personal-social-security-account-3)
 * [2025-12-23, 14:04:10](https://news.ycombinator.com/item?id=46365398) - [Quake's Player Speed (2017)](https://rome.ro/quakes-player-speed-1)
