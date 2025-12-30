@@ -27,6 +27,7 @@
 * [2025-12-25, 13:55:07](https://news.ycombinator.com/item?id=46384415) - [Ultra-Low-Latency Trading System](https://submicro.krishnabajpai.me/)
 * [2025-12-25, 13:46:41](https://news.ycombinator.com/item?id=46384361) - [Show HN: I made you a Christmas present](https://arielche.net/noel2025)
 * [2025-12-25, 13:02:46](https://news.ycombinator.com/item?id=46384167) - [Python 3.15's interpreter for Windows should be 15% faster](https://fidget-spinner.github.io/posts/no-longer-sorry.html)
+* [2025-12-25, 12:59:55](https://news.ycombinator.com/item?id=46384153) - [Incremental Backups of Gmail Takeouts](https://baecher.dev/stdout/incremental-backups-of-gmail-takeouts/)
 * [2025-12-25, 11:03:59](https://news.ycombinator.com/item?id=46383675) - [Mattermost restricted access to old messages after 10000 limit is reached](https://github.com/mattermost/mattermost/issues/34271)
 * [2025-12-25, 10:42:46](https://news.ycombinator.com/item?id=46383593) - [Line scan camera image processing](https://daniel.lawrence.lu/blog/2025-09-21-line-scan-camera-image-processing/)
 * [2025-12-25, 10:35:34](https://news.ycombinator.com/item?id=46383552) - [We invited a man into our home at Christmas and he stayed with us for 45 years](https://www.bbc.co.uk/news/articles/cdxwllqz1l0o)
