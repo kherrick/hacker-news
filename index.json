@@ -1,21 +1,11 @@
 [
   [
     [
-      "2025-12-30, 02:11:03",
-      "https://news.ycombinator.com/item?id=46428699"
-    ],
-    [
-      "Show HN: Cover letter generator with Ollama/local LLMs (Open source)",
-      "https://www.coverlettermaker.co"
-    ]
-  ],
-  [
-    [
       "2025-12-30, 01:40:49",
       "https://news.ycombinator.com/item?id=46428496"
     ],
     [
-      "Hacking Washing Machines (39C3) [video]",
+      "Hacking Washing Machines [video]",
       "https://media.ccc.de/v/39c3-hacking-washing-machines"
     ]
   ],
@@ -91,16 +81,6 @@
   ],
   [
     [
-      "2025-12-29, 22:24:22",
-      "https://news.ycombinator.com/item?id=46426534"
-    ],
-    [
-      "ManusAI Joins Meta",
-      "https://manus.im/blog/manus-joins-meta-for-next-era-of-innovation"
-    ]
-  ],
-  [
-    [
       "2025-12-29, 20:29:26",
       "https://news.ycombinator.com/item?id=46425198"
     ],
@@ -111,12 +91,12 @@
   ],
   [
     [
-      "2025-12-29, 19:58:09",
-      "https://news.ycombinator.com/item?id=46424789"
+      "2025-12-29, 19:57:47",
+      "https://news.ycombinator.com/item?id=46424782"
     ],
     [
-      "Obelisk 0.32: Cancellation, WebAPI, Postgres",
-      "https://obeli.sk/blog/announcing-obelisk-0-32/"
+      "Which Humans? (2023)",
+      "https://osf.io/preprints/psyarxiv/5b26t_v1"
     ]
   ],
   [
@@ -137,6 +117,16 @@
     [
       "All Delisted Steam Games",
       "https://delistedgames.com/all-delisted-steam-games/"
+    ]
+  ],
+  [
+    [
+      "2025-12-29, 19:11:26",
+      "https://news.ycombinator.com/item?id=46424200"
+    ],
+    [
+      "AI is forcing us to write good code",
+      "https://bits.logic.inc/p/ai-is-forcing-us-to-write-good-code"
     ]
   ],
   [
@@ -225,8 +215,28 @@
       "https://news.ycombinator.com/item?id=46395714"
     ],
     [
-      "Karpathy on Programming: \"I've never felt this much behind\"",
+      "Karpathy on Programming: “I've never felt this much behind”",
       "https://twitter.com/karpathy/status/2004607146781278521"
+    ]
+  ],
+  [
+    [
+      "2025-12-26, 07:48:28",
+      "https://news.ycombinator.com/item?id=46390123"
+    ],
+    [
+      "The AI Noise",
+      "https://rishi.monster/posts/time-intelligence-economy-part-1-the-ai-noise/"
+    ]
+  ],
+  [
+    [
+      "2025-12-26, 03:14:07",
+      "https://news.ycombinator.com/item?id=46388882"
+    ],
+    [
+      "Show HN: A Claude Code plugin that catch destructive Git and filesystem commands",
+      "https://github.com/kenryu42/claude-code-safety-net"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "Intelligence – A Mystery Investigation Game",
       "https://intelligencegame.tech/"
-    ]
-  ],
-  [
-    [
-      "2025-12-25, 20:34:59",
-      "https://news.ycombinator.com/item?id=46386878"
-    ],
-    [
-      "Show HN: Aroma: Every TCP Proxy Is Detectable with RTT Fingerprinting",
-      "https://github.com/Sakura-sx/Aroma"
     ]
   ],
   [
