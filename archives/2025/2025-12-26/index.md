@@ -63,6 +63,7 @@
 * [2025-12-26, 06:37:01](https://news.ycombinator.com/item?id=46389715) - [SQLite AI](https://www.sqlite.ai)
 * [2025-12-26, 05:27:05](https://news.ycombinator.com/item?id=46389444) - [Rob Pike Goes Nuclear over GenAI](https://imgur.com/nUJCI3o)
 * [2025-12-26, 05:20:01](https://news.ycombinator.com/item?id=46389418) - [Multiscale Aperture Synthesis Imager](https://www.nature.com/articles/s41467-025-65661-8)
+* [2025-12-26, 04:57:17](https://news.ycombinator.com/item?id=46389338) - [Easily Dealing with Any-Dimensional Planes](https://gpfault.net/posts/hyperplanes.html)
 * [2025-12-26, 04:57:04](https://news.ycombinator.com/item?id=46389336) - [Time in C++: Inter-Clock Conversions, Epochs, and Durations](https://www.sandordargo.com/blog/2025/12/24/clocks-part-5-conversions)
 * [2025-12-26, 04:52:32](https://news.ycombinator.com/item?id=46389325) - [Koine](https://github.com/pattern-zones-co/koine)
 * [2025-12-26, 03:19:49](https://news.ycombinator.com/item?id=46388907) - [TurboDiffusion: 100–200× Acceleration for Video Diffusion Models](https://github.com/thu-ml/TurboDiffusion)
