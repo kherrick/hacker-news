@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-12-23](index.md)
 
+* [2025-12-23, 23:25:26](https://news.ycombinator.com/item?id=46370702) - [An initial analysis of the discovered Unix V4 tape](https://www.spinellis.gr/blog/20251223/)
 * [2025-12-23, 23:12:03](https://news.ycombinator.com/item?id=46370592) - [Is Northern Virginia Still the Least Reliable AWS Region?](https://statusgator.com/blog/aws-least-reliable-region-in-2025/)
 * [2025-12-23, 22:53:51](https://news.ycombinator.com/item?id=46370446) - [Static Allocation for Compilers](https://matklad.github.io/2025/12/23/static-allocation-compilers.html)
 * [2025-12-23, 22:38:30](https://news.ycombinator.com/item?id=46370309) - [They made me an offer I couldn't refuse (1997)](https://jens.mooseyard.com/1997/04/13/they-made-me-an-offer-i-couldnt-refuse/)
