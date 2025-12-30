@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-12-30](index.md)
 
+* [2025-12-30, 14:31:34](https://news.ycombinator.com/item?id=46433661) - [Hive (YC S14) Is Hiring a Staff Software Engineer (Data Systems)](https://jobs.ashbyhq.com/hive.co/cb0dc490-0e32-4734-8d91-8b56a31ed497)
+* [2025-12-30, 13:26:20](https://news.ycombinator.com/item?id=46433117) - [MH370 vanished in 2014.New search aims to find answers families desperately want](https://www.abc.net.au/news/2025-12-30/mh370-search-resumes-for-malaysia-airlines-missing-plane/106186962)
 * [2025-12-30, 13:15:05](https://news.ycombinator.com/item?id=46433035) - [Win32 is the stable Linux ABI](https://loss32.org/)
 * [2025-12-30, 13:14:40](https://news.ycombinator.com/item?id=46433029) - [no strpy either](https://daniel.haxx.se/blog/2025/12/29/no-strcpy-either/)
 * [2025-12-30, 13:10:56](https://news.ycombinator.com/item?id=46432999) - [The British Empire's Resilient Subsea Telegraph Network](https://subseacables.blogspot.com/2025/12/the-british-empires-resilient-subsea.html)
