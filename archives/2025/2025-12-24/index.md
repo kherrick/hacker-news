@@ -13,6 +13,7 @@
 * [2025-12-24, 22:41:11](https://news.ycombinator.com/item?id=46380054) - [2D Signed Distance Functions](https://iquilezles.org/articles/distfunctions2d/)
 * [2025-12-24, 22:27:06](https://news.ycombinator.com/item?id=46379941) - [TOPS-10 in a Box (2011)](https://www.filfre.net/2011/05/tops-10-in-a-box/)
 * [2025-12-24, 22:25:02](https://news.ycombinator.com/item?id=46379927) - [Show HN: Just Fucking Use Cloudflare – A satirical guide to the CF stack](https://justfuckingusecloudflare.com)
+* [2025-12-24, 22:04:57](https://news.ycombinator.com/item?id=46379765) - [Postgres extension complements pgvector for performance and scale](https://github.com/timescale/pgvectorscale)
 * [2025-12-24, 21:54:48](https://news.ycombinator.com/item?id=46379677) - [I Left YouTube](https://zhach.news/how-i-left-youtube/)
 * [2025-12-24, 21:53:44](https://news.ycombinator.com/item?id=46379665) - [Hacking a Java Minecraft server with memory overflows using in-game mechanics](https://www.youtube.com/watch?v=Zy6Ci-K-0K8)
 * [2025-12-24, 21:50:20](https://news.ycombinator.com/item?id=46379630) - [Steam Store is offline](https://steamstat.us/)
