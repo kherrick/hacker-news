@@ -6,6 +6,7 @@
 
 * [2025-12-30, 20:06:46](https://news.ycombinator.com/item?id=46437391) - [Prof. Software Developers Don't Vibe, They Control: AI Agent Coding Use in 2025](https://arxiv.org/abs/2512.14012)
 * [2025-12-30, 20:05:42](https://news.ycombinator.com/item?id=46437381) - [Everything as Code: How We Manage Our Company in One Monorepo](https://www.kasava.dev/blog/everything-as-code-monorepo)
+* [2025-12-30, 19:57:10](https://news.ycombinator.com/item?id=46437288) - [Zpdf: PDF text extraction in Zig – 5x faster than MuPDF](https://github.com/Lulzx/zpdf)
 * [2025-12-30, 19:27:59](https://news.ycombinator.com/item?id=46436949) - [Foreign tech workers are avoiding travel to the US](https://www.computerworld.com/article/4110681/foreign-tech-workers-are-avoiding-travel-to-the-us.html)
 * [2025-12-30, 19:21:48](https://news.ycombinator.com/item?id=46436889) - [FediMeteo: A €4 FreeBSD VPS Became a Global Weather Service](https://it-notes.dragas.net/2025/02/26/fedimeteo-how-a-tiny-freebsd-vps-became-a-global-weather-service-for-thousands/)
 * [2025-12-30, 19:11:01](https://news.ycombinator.com/item?id=46436791) - [Iran Protests Enter Third Straight Day as Students Join In](https://www.wsj.com/world/middle-east/iran-protests-enter-third-straight-day-as-students-join-in-585e7bff)
