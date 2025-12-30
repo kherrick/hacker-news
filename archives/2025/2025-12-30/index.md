@@ -8,6 +8,7 @@
 * [2025-12-30, 09:57:27](https://news.ycombinator.com/item?id=46431453) - [HSBC blocks its app due to F-Droid-installed Bitwarden](https://mastodon.neilzone.co.uk/@neil/115807834298031971)
 * [2025-12-30, 08:53:40](https://news.ycombinator.com/item?id=46431049) - [You Need to Ditch VS Code](https://jrswab.com/blog/ditch-vs-code)
 * [2025-12-30, 08:50:44](https://news.ycombinator.com/item?id=46431028) - [Go Away Python](https://lorentz.app/blog-item.html?id=go-shebang)
+* [2025-12-30, 07:36:38](https://news.ycombinator.com/item?id=46430558) - [Charm Ruby – Glamorous Terminal Libraries for Ruby](https://charm-ruby.dev/)
 * [2025-12-30, 02:11:03](https://news.ycombinator.com/item?id=46428699) - [Show HN: Cover letter generator with Ollama/local LLMs (Open source)](https://www.coverlettermaker.co)
 * [2025-12-30, 01:40:49](https://news.ycombinator.com/item?id=46428496) - [Hacking Washing Machines (39C3) [video]](https://media.ccc.de/v/39c3-hacking-washing-machines)
 * [2025-12-30, 01:00:03](https://news.ycombinator.com/item?id=46428206) - [100x (YC S22) Is Hiring a Front End Engineer](https://news.ycombinator.com/item?id=46428206)
