@@ -21,16 +21,6 @@
   ],
   [
     [
-      "2025-12-30, 20:02:35",
-      "https://news.ycombinator.com/item?id=46437350"
-    ],
-    [
-      "The sword-wielding man hired to kick squatters out of empty Oakland homes",
-      "https://oaklandside.org/2025/09/30/asap-squatter-removal-oakland/"
-    ]
-  ],
-  [
-    [
       "2025-12-30, 19:57:10",
       "https://news.ycombinator.com/item?id=46437288"
     ],
@@ -201,6 +191,16 @@
   ],
   [
     [
+      "2025-12-30, 01:40:49",
+      "https://news.ycombinator.com/item?id=46428496"
+    ],
+    [
+      "Hacking Washing Machines [video]",
+      "https://media.ccc.de/v/39c3-hacking-washing-machines"
+    ]
+  ],
+  [
+    [
       "2025-12-29, 23:50:34",
       "https://news.ycombinator.com/item?id=46427586"
     ],
@@ -221,16 +221,6 @@
   ],
   [
     [
-      "2025-12-29, 17:57:03",
-      "https://news.ycombinator.com/item?id=46423290"
-    ],
-    [
-      "Tesla’s 4680 battery supply chain collapses as partner writes down deal by 99%",
-      "https://electrek.co/2025/12/29/tesla-4680-battery-supply-chain-collapses-partner-writes-down-dea/"
-    ]
-  ],
-  [
-    [
       "2025-12-29, 17:12:20",
       "https://news.ycombinator.com/item?id=46422757"
     ],
@@ -247,6 +237,16 @@
     [
       "HTTP Strict Transport Security (HSTS)",
       "https://hstspreload.org/"
+    ]
+  ],
+  [
+    [
+      "2025-12-27, 14:36:43",
+      "https://news.ycombinator.com/item?id=46402132"
+    ],
+    [
+      "Concurrent Hash Table Designs",
+      "https://bluuewhale.github.io/posts/concurrent-hashmap-designs/"
     ]
   ],
   [
