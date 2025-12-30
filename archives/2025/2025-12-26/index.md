@@ -51,6 +51,7 @@
 * [2025-12-26, 11:12:28](https://news.ycombinator.com/item?id=46391077) - [The First Web Server](https://dfarq.homeip.net/the-first-web-server/)
 * [2025-12-26, 11:09:55](https://news.ycombinator.com/item?id=46391064) - [Questions engineers should ask future employers in interviews](https://dollardhingra.substack.com/p/questions-software-engineers-should)
 * [2025-12-26, 10:22:27](https://news.ycombinator.com/item?id=46390848) - [Calibre adds AI \"discussion\" feature](https://lwn.net/Articles/1049886/)
+* [2025-12-26, 09:47:07](https://news.ycombinator.com/item?id=46390688) - [Graph Algorithms in Rayon](https://davidlattimore.github.io/posts/2025/11/27/graph-algorithms-in-rayon.html)
 * [2025-12-26, 09:43:23](https://news.ycombinator.com/item?id=46390667) - [Geometric Algorithms for Translucency Sorting in Minecraft [pdf]](https://douira.dev/assets/document/douira-master-thesis.pdf)
 * [2025-12-26, 08:52:48](https://news.ycombinator.com/item?id=46390397) - [Pandas with Rows (2022)](https://datapythonista.me/blog/pandas-with-hundreds-of-millions-of-rows)
 * [2025-12-26, 08:09:32](https://news.ycombinator.com/item?id=46390218) - [Show HN: Euclidle – Guess the Coordinates in N‑Dimensional Space](https://euclidle.com/)
