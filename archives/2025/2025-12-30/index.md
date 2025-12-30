@@ -4,10 +4,13 @@
 
 ### [Archives](../../index.md) for [2025-12-30](index.md)
 
+* [2025-12-30, 19:00:23](https://news.ycombinator.com/item?id=46436687) - [Now That He Has No Power, Mitt Romney Says \"Tax the Rich\"](https://jacobin.com/2025/12/romney-tax-rich-op-ed-nyt/)
 * [2025-12-30, 18:08:32](https://news.ycombinator.com/item?id=46436127) - [Electrolysis can solve one of our biggest contamination problems](https://ethz.ch/en/news-and-events/eth-news/news/2025/11/electrolysis-can-solve-one-of-our-biggest-contamination-problems.html)
+* [2025-12-30, 17:24:57](https://news.ycombinator.com/item?id=46435614) - [A Vulnerability in Libsodium](https://00f.net/2025/12/30/libsodium-vulnerability/)
 * [2025-12-30, 17:15:11](https://news.ycombinator.com/item?id=46435477) - ['Commuting Is Bad'–Particularly for Women](https://www.theatlantic.com/family/2025/12/commute-gender-wage-gap-mothers/685265/)
 * [2025-12-30, 17:09:57](https://news.ycombinator.com/item?id=46435418) - [Toro: Deploy Applications as Unikernels](https://github.com/torokernel/torokernel)
 * [2025-12-30, 17:01:59](https://news.ycombinator.com/item?id=46435308) - [Show HN: 22 GB of Hacker News in SQLite](https://hackerbook.dosaygo.com)
+* [2025-12-30, 16:47:37](https://news.ycombinator.com/item?id=46435142) - [Show HN: Replacing my OS process scheduler with an LLM](https://github.com/mprajyothreddy/brainkernel)
 * [2025-12-30, 16:18:23](https://news.ycombinator.com/item?id=46434821) - [Ask HN: Any example of successful vibe-coded product?](https://news.ycombinator.com/item?id=46434821)
 * [2025-12-30, 15:57:01](https://news.ycombinator.com/item?id=46434580) - [Show HN: Tidy Baby is a SET game but with words](https://tidy.baby)
 * [2025-12-30, 15:32:58](https://news.ycombinator.com/item?id=46434301) - [2025 Was Another Exceptionally Hot Year](https://e360.yale.edu/digest/2025-second-hottest-year)
