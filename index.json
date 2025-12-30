@@ -1,16 +1,6 @@
 [
   [
     [
-      "2025-12-30, 17:15:11",
-      "https://news.ycombinator.com/item?id=46435477"
-    ],
-    [
-      "'Commuting Is Bad'–Particularly for Women",
-      "https://www.theatlantic.com/family/2025/12/commute-gender-wage-gap-mothers/685265/"
-    ]
-  ],
-  [
-    [
       "2025-12-30, 17:09:57",
       "https://news.ycombinator.com/item?id=46435418"
     ],
@@ -201,12 +191,12 @@
   ],
   [
     [
-      "2025-12-29, 19:11:26",
-      "https://news.ycombinator.com/item?id=46424200"
+      "2025-12-29, 19:09:08",
+      "https://news.ycombinator.com/item?id=46424173"
     ],
     [
-      "AI is forcing us to write good code",
-      "https://bits.logic.inc/p/ai-is-forcing-us-to-write-good-code"
+      "Loss32: Let's Build a Win32/Linux",
+      "https://loss32.org/"
     ]
   ],
   [
@@ -217,6 +207,16 @@
     [
       "Tesla's 4680 battery supply chain collapses as partner writes down deal by 99%",
       "https://electrek.co/2025/12/29/tesla-4680-battery-supply-chain-collapses-partner-writes-down-dea/"
+    ]
+  ],
+  [
+    [
+      "2025-12-29, 17:12:20",
+      "https://news.ycombinator.com/item?id=46422757"
+    ],
+    [
+      "Five Years of Tinygrad",
+      "https://geohot.github.io//blog/jekyll/update/2025/12/29/five-years-of-tinygrad.html"
     ]
   ],
   [
@@ -241,22 +241,22 @@
   ],
   [
     [
-      "2025-12-26, 12:42:02",
-      "https://news.ycombinator.com/item?id=46391490"
+      "2025-12-26, 16:36:14",
+      "https://news.ycombinator.com/item?id=46393609"
     ],
     [
-      "Turning an old Amazon Kindle into a eInk development platform (2021)",
-      "https://blog.lidskialf.net/2021/02/08/turning-an-old-kindle-into-a-eink-development-platform/"
+      "I built a quiet site for finding ambient albums while working",
+      "https://ambientmusic.com/"
     ]
   ],
   [
     [
-      "2025-12-26, 09:47:07",
-      "https://news.ycombinator.com/item?id=46390688"
+      "2025-12-26, 03:14:07",
+      "https://news.ycombinator.com/item?id=46388882"
     ],
     [
-      "Graph Algorithms in Rayon",
-      "https://davidlattimore.github.io/posts/2025/11/27/graph-algorithms-in-rayon.html"
+      "Show HN: A Claude Code plugin that catch destructive Git and filesystem commands",
+      "https://github.com/kenryu42/claude-code-safety-net"
     ]
   ],
   [
