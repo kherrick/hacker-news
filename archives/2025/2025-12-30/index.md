@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-12-30](index.md)
 
+* [2025-12-30, 12:00:23](https://news.ycombinator.com/item?id=46432451) - [Crimson (YC X25) is hiring founding engineers in London](https://www.ycombinator.com/companies/crimson/jobs/kCikzj1-founding-engineer-full-stack)
+* [2025-12-30, 11:42:55](https://news.ycombinator.com/item?id=46432311) - [Non-Zero-Sum Games](https://nonzerosum.games/)
 * [2025-12-30, 11:13:30](https://news.ycombinator.com/item?id=46432057) - [Nicolas Guillou, French ICC judge sanctioned by the US and \"debanked\"](https://www.lemonde.fr/en/international/article/2025/11/19/nicolas-guillou-french-icc-judge-sanctioned-by-the-us-you-are-effectively-blacklisted-by-much-of-the-world-s-banking-system_6747628_4.html)
 * [2025-12-30, 10:11:57](https://news.ycombinator.com/item?id=46431560) - [Netflix: Open Content](https://opencontent.netflix.com/)
 * [2025-12-30, 09:57:27](https://news.ycombinator.com/item?id=46431453) - [HSBC blocks its app due to F-Droid-installed Bitwarden](https://mastodon.neilzone.co.uk/@neil/115807834298031971)
