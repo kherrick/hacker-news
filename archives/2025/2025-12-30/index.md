@@ -10,6 +10,7 @@
 * [2025-12-30, 19:57:10](https://news.ycombinator.com/item?id=46437288) - [Zpdf: PDF text extraction in Zig – 5x faster than MuPDF](https://github.com/Lulzx/zpdf)
 * [2025-12-30, 19:27:59](https://news.ycombinator.com/item?id=46436949) - [Foreign tech workers are avoiding travel to the US](https://www.computerworld.com/article/4110681/foreign-tech-workers-are-avoiding-travel-to-the-us.html)
 * [2025-12-30, 19:21:48](https://news.ycombinator.com/item?id=46436889) - [FediMeteo: A €4 FreeBSD VPS Became a Global Weather Service](https://it-notes.dragas.net/2025/02/26/fedimeteo-how-a-tiny-freebsd-vps-became-a-global-weather-service-for-thousands/)
+* [2025-12-30, 19:15:05](https://news.ycombinator.com/item?id=46436828) - [Escaping Containment: A Security Analysis of FreeBSD Jails [video]](https://media.ccc.de/v/39c3-escaping-containment-a-security-analysis-of-freebsd-jails)
 * [2025-12-30, 19:11:01](https://news.ycombinator.com/item?id=46436791) - [Iran Protests Enter Third Straight Day as Students Join In](https://www.wsj.com/world/middle-east/iran-protests-enter-third-straight-day-as-students-join-in-585e7bff)
 * [2025-12-30, 19:00:23](https://news.ycombinator.com/item?id=46436687) - [Now That He Has No Power, Mitt Romney Says \"Tax the Rich\"](https://jacobin.com/2025/12/romney-tax-rich-op-ed-nyt/)
 * [2025-12-30, 18:36:37](https://news.ycombinator.com/item?id=46436409) - [A faster heart for F-Droid. Our new server is here](https://f-droid.org/2025/12/30/a-faster-heart-for-f-droid.html)
