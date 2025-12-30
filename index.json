@@ -1,12 +1,42 @@
 [
   [
     [
+      "2025-12-30, 14:43:45",
+      "https://news.ycombinator.com/item?id=46433782"
+    ],
+    [
+      "CSS-in-JS: The Great Betrayal of Front End Sanity",
+      "https://thenewstack.io/css-in-js-the-great-betrayal-of-frontend-sanity/"
+    ]
+  ],
+  [
+    [
       "2025-12-30, 14:31:34",
       "https://news.ycombinator.com/item?id=46433661"
     ],
     [
       "Hive (YC S14) Is Hiring a Staff Software Engineer (Data Systems)",
       "https://jobs.ashbyhq.com/hive.co/cb0dc490-0e32-4734-8d91-8b56a31ed497"
+    ]
+  ],
+  [
+    [
+      "2025-12-30, 14:29:22",
+      "https://news.ycombinator.com/item?id=46433649"
+    ],
+    [
+      "The 70% AI productivity myth: why most companies aren't seeing the gains",
+      "https://sderosiaux.substack.com/p/the-70-ai-productivity-myth-why-most"
+    ]
+  ],
+  [
+    [
+      "2025-12-30, 14:23:11",
+      "https://news.ycombinator.com/item?id=46433579"
+    ],
+    [
+      "Public Sans – A strong, neutral typeface",
+      "https://public-sans.digital.gov/"
     ]
   ],
   [
@@ -141,26 +171,6 @@
   ],
   [
     [
-      "2025-12-30, 00:54:34",
-      "https://news.ycombinator.com/item?id=46428154"
-    ],
-    [
-      "Outside, Dungeon, Town: Integrating the Three Places in Videogames (2024)",
-      "https://keithburgun.net/outside-dungeon-town-integrating-the-three-places-in-videogames/"
-    ]
-  ],
-  [
-    [
-      "2025-12-30, 00:23:47",
-      "https://news.ycombinator.com/item?id=46427920"
-    ],
-    [
-      "MongoDB Server Security Update, December 2025",
-      "https://www.mongodb.com/company/blog/news/mongodb-server-security-update-december-2025"
-    ]
-  ],
-  [
-    [
       "2025-12-29, 23:50:34",
       "https://news.ycombinator.com/item?id=46427586"
     ],
@@ -231,16 +241,6 @@
   ],
   [
     [
-      "2025-12-29, 16:07:27",
-      "https://news.ycombinator.com/item?id=46422009"
-    ],
-    [
-      "Static Allocation with Zig",
-      "https://nickmonad.blog/2025/static-allocation-with-zig-kv/"
-    ]
-  ],
-  [
-    [
       "2025-12-27, 14:36:43",
       "https://news.ycombinator.com/item?id=46402132"
     ],
@@ -281,12 +281,12 @@
   ],
   [
     [
-      "2025-12-25, 12:59:55",
-      "https://news.ycombinator.com/item?id=46384153"
+      "2025-12-24, 22:04:57",
+      "https://news.ycombinator.com/item?id=46379765"
     ],
     [
-      "Incremental Backups of Gmail Takeouts",
-      "https://baecher.dev/stdout/incremental-backups-of-gmail-takeouts/"
+      "Postgres extension complements pgvector for performance and scale",
+      "https://github.com/timescale/pgvectorscale"
     ]
   ],
   [
