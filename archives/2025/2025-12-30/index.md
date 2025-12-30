@@ -6,6 +6,7 @@
 
 * [2025-12-30, 13:15:05](https://news.ycombinator.com/item?id=46433035) - [Win32 is the stable Linux ABI](https://loss32.org/)
 * [2025-12-30, 13:14:40](https://news.ycombinator.com/item?id=46433029) - [no strpy either](https://daniel.haxx.se/blog/2025/12/29/no-strcpy-either/)
+* [2025-12-30, 13:10:56](https://news.ycombinator.com/item?id=46432999) - [The British Empire's Resilient Subsea Telegraph Network](https://subseacables.blogspot.com/2025/12/the-british-empires-resilient-subsea.html)
 * [2025-12-30, 13:01:51](https://news.ycombinator.com/item?id=46432916) - [Fucking Approachable Swift Concurrency](https://fuckingapproachableswiftconcurrency.com/en/)
 * [2025-12-30, 12:56:07](https://news.ycombinator.com/item?id=46432862) - [Calibri Wasn't Fit for the State Department; Neither Is Times New Roman](https://hsu.cy/2025/12/times-new-american/)
 * [2025-12-30, 12:47:41](https://news.ycombinator.com/item?id=46432791) - [Groq investor sounds alarm on data centers](https://www.axios.com/2025/12/29/groq-alex-davis-data-center-concerns)
