@@ -21,6 +21,7 @@
 * [2025-12-25, 16:24:45](https://news.ycombinator.com/item?id=46385308) - [I Sell Onions on the Internet](https://www.deepsouthventures.com/i-sell-onions-on-the-internet/)
 * [2025-12-25, 16:08:57](https://news.ycombinator.com/item?id=46385197) - [Ask HN: What skills do you want to develop or improve in 2026?](https://news.ycombinator.com/item?id=46385197)
 * [2025-12-25, 15:34:44](https://news.ycombinator.com/item?id=46384992) - [Oral History of Richard Greenblatt (2005) [pdf]](https://archive.computerhistory.org/resources/text/Oral_History/Greenblatt_Richard/greenblatt.oral_history_transcript.2005.102657935.pdf)
+* [2025-12-25, 15:32:45](https://news.ycombinator.com/item?id=46384975) - [Show HN: One clean, developer-focused page for every Unicode symbol](https://fontgenerator.design/symbols)
 * [2025-12-25, 15:22:36](https://news.ycombinator.com/item?id=46384919) - [Alzheimer's can be reversed to achieve full neurological recovery in animals](https://case.edu/news/new-study-shows-alzheimers-disease-can-be-reversed-achieve-full-neurological-recovery-not-just-prevented-or-slowed-animal-models)
 * [2025-12-25, 14:58:29](https://news.ycombinator.com/item?id=46384781) - [Salesforce regrets firing 4000 experienced staff and replacing them with AI](https://maarthandam.com/2025/12/25/salesforce-regrets-firing-4000-staff-ai/)
 * [2025-12-25, 14:20:29](https://news.ycombinator.com/item?id=46384565) - [Asahi Linux with Sway on the MacBook Air M2](https://daniel.lawrence.lu/blog/2024-12-01-asahi-linux-with-sway-on-the-macbook-air-m2/)
