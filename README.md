@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-12-30, 01:40:49](https://news.ycombinator.com/item?id=46428496) - [Hacking Washing Machines [video]](https://media.ccc.de/v/39c3-hacking-washing-machines)
-* [2025-12-30, 01:00:03](https://news.ycombinator.com/item?id=46428206) - [100x (YC S22) Is Hiring a Front End Engineer](https://news.ycombinator.com/item?id=46428206)
 * [2025-12-30, 00:54:34](https://news.ycombinator.com/item?id=46428154) - [Outside, Dungeon, Town: Integrating the Three Places in Videogames (2024)](https://keithburgun.net/outside-dungeon-town-integrating-the-three-places-in-videogames/)
 * [2025-12-30, 00:23:47](https://news.ycombinator.com/item?id=46427920) - [MongoDB Server Security Update, December 2025](https://www.mongodb.com/company/blog/news/mongodb-server-security-update-december-2025)
 * [2025-12-29, 23:50:34](https://news.ycombinator.com/item?id=46427586) - [Stranger Things creator says turn off \"garbage\" settings](https://screenrant.com/stranger-things-creator-turn-off-settings-premiere/)
@@ -12,6 +11,7 @@
 * [2025-12-29, 22:24:22](https://news.ycombinator.com/item?id=46426534) - [ManusAI Joins Meta](https://manus.im/blog/manus-joins-meta-for-next-era-of-innovation)
 * [2025-12-29, 20:29:26](https://news.ycombinator.com/item?id=46425198) - [Google is dead. Where do we go now?](https://www.circusscientist.com/2025/12/29/google-is-dead-where-do-we-go-now/)
 * [2025-12-29, 19:30:40](https://news.ycombinator.com/item?id=46424460) - [When someone says they hate your product](https://www.getflack.com/p/responding-to-negative-feedback)
+* [2025-12-29, 19:16:32](https://news.ycombinator.com/item?id=46424262) - [All Delisted Steam Games](https://delistedgames.com/all-delisted-steam-games/)
 * [2025-12-29, 19:14:17](https://news.ycombinator.com/item?id=46424233) - [The future of software development is software developers](https://codemanship.wordpress.com/2025/11/25/the-future-of-software-development-is-software-developers/)
 * [2025-12-29, 19:11:26](https://news.ycombinator.com/item?id=46424200) - [AI is forcing us to write good code](https://bits.logic.inc/p/ai-is-forcing-us-to-write-good-code)
 * [2025-12-29, 18:21:30](https://news.ycombinator.com/item?id=46423566) - [List of domains censored by German ISPs](https://cuiiliste.de/domains)
