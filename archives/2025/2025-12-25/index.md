@@ -44,5 +44,6 @@
 * [2025-12-25, 02:47:48](https://news.ycombinator.com/item?id=46381620) - [Project Dropstone: A Neuro-Symbolic Runtime for Long-Horizon Engineering [pdf]](https://archive.blankline.org/api/media/file/d3_engine_public_release%20(1)-1.pdf)
 * [2025-12-25, 01:21:12](https://news.ycombinator.com/item?id=46381236) - [Love Actually is around Heathrow (2021)](https://www.heathrow.com/latest-news/love-actually-is-all-around-at-heathrow-airport)
 * [2025-12-25, 00:38:09](https://news.ycombinator.com/item?id=46380953) - [The Next-Gen Mainboard Designed with AmigaOS4 and MorphOS in Mind](https://mirari.vitasys.nl/our-story/)
+* [2025-12-25, 00:22:42](https://news.ycombinator.com/item?id=46380855) - [Librarians Tired of Being Accused of Hiding Secret Books That Were Made Up by AI](https://gizmodo.com/librarians-arent-hiding-secret-books-from-you-that-only-ai-knows-about-2000698176)
 * [2025-12-25, 00:10:12](https://news.ycombinator.com/item?id=46380758) - [Who Watches the Waymos? I do [video]](https://www.youtube.com/watch?v=oYU2hAbx_Fc)
 * [2025-12-25, 00:02:29](https://news.ycombinator.com/item?id=46380697) - [Vitest Browser Mode Guide](https://howtotestfrontend.com/resources/vitest-browser-mode-guide-and-setup-info)
