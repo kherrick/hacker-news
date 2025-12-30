@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-12-30, 14:49:38](https://news.ycombinator.com/item?id=46433832) - [The Legacy of Undersea Cables](https://blog.sciencemuseumgroup.org.uk/the-legacy-of-undersea-cables/)
-* [2025-12-30, 14:43:45](https://news.ycombinator.com/item?id=46433782) - [CSS-in-JS: The Great Betrayal of Front End Sanity](https://thenewstack.io/css-in-js-the-great-betrayal-of-frontend-sanity/)
 * [2025-12-30, 14:31:34](https://news.ycombinator.com/item?id=46433661) - [Hive (YC S14) Is Hiring a Staff Software Engineer (Data Systems)](https://jobs.ashbyhq.com/hive.co/cb0dc490-0e32-4734-8d91-8b56a31ed497)
 * [2025-12-30, 14:23:11](https://news.ycombinator.com/item?id=46433579) - [Public Sans – A strong, neutral typeface](https://public-sans.digital.gov/)
 * [2025-12-30, 13:26:20](https://news.ycombinator.com/item?id=46433117) - [MH370 vanished in 2014.New search aims to find answers families desperately want](https://www.abc.net.au/news/2025-12-30/mh370-search-resumes-for-malaysia-airlines-missing-plane/106186962)
@@ -17,6 +16,7 @@
 * [2025-12-30, 08:50:44](https://news.ycombinator.com/item?id=46431028) - [Go Away Python](https://lorentz.app/blog-item.html?id=go-shebang)
 * [2025-12-30, 07:36:38](https://news.ycombinator.com/item?id=46430558) - [Charm Ruby – Glamorous Terminal Libraries for Ruby](https://charm-ruby.dev/)
 * [2025-12-30, 01:40:49](https://news.ycombinator.com/item?id=46428496) - [Hacking Washing Machines [video]](https://media.ccc.de/v/39c3-hacking-washing-machines)
+* [2025-12-30, 00:23:47](https://news.ycombinator.com/item?id=46427920) - [MongoDB Server Security Update, December 2025](https://www.mongodb.com/company/blog/news/mongodb-server-security-update-december-2025)
 * [2025-12-29, 23:50:34](https://news.ycombinator.com/item?id=46427586) - [Stranger Things creator says turn off \"garbage\" settings](https://screenrant.com/stranger-things-creator-turn-off-settings-premiere/)
 * [2025-12-29, 22:24:22](https://news.ycombinator.com/item?id=46426534) - [ManusAI Joins Meta](https://manus.im/blog/manus-joins-meta-for-next-era-of-innovation)
 * [2025-12-29, 20:29:26](https://news.ycombinator.com/item?id=46425198) - [Google is dead. Where do we go now?](https://www.circusscientist.com/2025/12/29/google-is-dead-where-do-we-go-now/)
