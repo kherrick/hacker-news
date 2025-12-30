@@ -2,7 +2,6 @@
 
 * [2025-12-30, 10:11:57](https://news.ycombinator.com/item?id=46431560) - [Netflix: Open Content](https://opencontent.netflix.com/)
 * [2025-12-30, 09:57:27](https://news.ycombinator.com/item?id=46431453) - [HSBC blocks its app due to F-Droid-installed Bitwarden](https://mastodon.neilzone.co.uk/@neil/115807834298031971)
-* [2025-12-30, 08:53:40](https://news.ycombinator.com/item?id=46431049) - [You Need to Ditch VS Code](https://jrswab.com/blog/ditch-vs-code)
 * [2025-12-30, 08:50:44](https://news.ycombinator.com/item?id=46431028) - [Go Away Python](https://lorentz.app/blog-item.html?id=go-shebang)
 * [2025-12-30, 01:40:49](https://news.ycombinator.com/item?id=46428496) - [Hacking Washing Machines [video]](https://media.ccc.de/v/39c3-hacking-washing-machines)
 * [2025-12-30, 01:00:03](https://news.ycombinator.com/item?id=46428206) - [100x (YC S22) Is Hiring a Front End Engineer](https://news.ycombinator.com/item?id=46428206)
@@ -25,6 +24,7 @@
 * [2025-12-27, 11:30:40](https://news.ycombinator.com/item?id=46401052) - [Flame Graphs vs Tree Maps vs Sunburst (2017)](https://www.brendangregg.com/blog/2017-02-06/flamegraphs-vs-treemaps-vs-sunburst.html)
 * [2025-12-26, 20:12:09](https://news.ycombinator.com/item?id=46395714) - [Karpathy on Programming: “I've never felt this much behind”](https://twitter.com/karpathy/status/2004607146781278521)
 * [2025-12-26, 14:39:10](https://news.ycombinator.com/item?id=46392382) - [Streaming compression beats framed compression](https://bou.ke/blog/compressed/)
+* [2025-12-26, 12:42:02](https://news.ycombinator.com/item?id=46391490) - [Turning an old Amazon Kindle into a eInk development platform](https://blog.lidskialf.net/2021/02/08/turning-an-old-kindle-into-a-eink-development-platform/)
 * [2025-12-26, 07:56:58](https://news.ycombinator.com/item?id=46390154) - [The Signature Flicker](https://steipete.me/posts/2025/signature-flicker)
 * [2025-12-25, 15:32:45](https://news.ycombinator.com/item?id=46384975) - [Show HN: One clean, developer-focused page for every Unicode symbol](https://fontgenerator.design/symbols)
 * [2025-12-25, 12:59:55](https://news.ycombinator.com/item?id=46384153) - [Incremental Backups of Gmail Takeouts](https://baecher.dev/stdout/incremental-backups-of-gmail-takeouts/)
