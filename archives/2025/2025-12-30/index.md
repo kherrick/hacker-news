@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-12-30](index.md)
 
+* [2025-12-30, 21:31:00](https://news.ycombinator.com/item?id=46438255) - [U.S. cybersecurity experts plead guilty for ransomware attacks](https://www.tomshardware.com/tech-industry/cyber-security/u-s-cybersecurity-experts-plead-guilty-for-ransomware-attacks-face-20-years-in-prison-each-group-demanded-up-to-usd10-million-from-each-victim)
+* [2025-12-30, 21:30:50](https://news.ycombinator.com/item?id=46438252) - [The moment GMV is labeled ARR, the business is built on sand](https://oswarld.com/eng/insight/250816_ai-arr-illusion-gmv-vs-arr)
+* [2025-12-30, 21:18:31](https://news.ycombinator.com/item?id=46438122) - [How the \"Marvelization\" of Cinema Accelerates the Decline of Filmmaking](https://www.openculture.com/2025/11/how-the-marvelization-of-cinema-accelerates-the-decline-of-filmmaking.html)
 * [2025-12-30, 20:06:46](https://news.ycombinator.com/item?id=46437391) - [Prof. Software Developers Don't Vibe, They Control: AI Agent Coding Use in 2025](https://arxiv.org/abs/2512.14012)
 * [2025-12-30, 20:05:42](https://news.ycombinator.com/item?id=46437381) - [Everything as Code: How We Manage Our Company in One Monorepo](https://www.kasava.dev/blog/everything-as-code-monorepo)
 * [2025-12-30, 20:02:35](https://news.ycombinator.com/item?id=46437350) - [The sword-wielding man hired to kick squatters out of empty Oakland homes](https://oaklandside.org/2025/09/30/asap-squatter-removal-oakland/)
