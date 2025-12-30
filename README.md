@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-12-30, 15:32:58](https://news.ycombinator.com/item?id=46434301) - [2025 Was Another Exceptionally Hot Year](https://e360.yale.edu/digest/2025-second-hottest-year)
 * [2025-12-30, 14:49:38](https://news.ycombinator.com/item?id=46433832) - [The Legacy of Undersea Cables](https://blog.sciencemuseumgroup.org.uk/the-legacy-of-undersea-cables/)
 * [2025-12-30, 14:31:34](https://news.ycombinator.com/item?id=46433661) - [Hive (YC S14) Is Hiring a Staff Software Engineer (Data Systems)](https://jobs.ashbyhq.com/hive.co/cb0dc490-0e32-4734-8d91-8b56a31ed497)
 * [2025-12-30, 14:23:11](https://news.ycombinator.com/item?id=46433579) - [Public Sans – A strong, neutral typeface](https://public-sans.digital.gov/)
@@ -28,6 +27,7 @@
 * [2025-12-26, 12:42:02](https://news.ycombinator.com/item?id=46391490) - [Turning an old Amazon Kindle into a eInk development platform (2021)](https://blog.lidskialf.net/2021/02/08/turning-an-old-kindle-into-a-eink-development-platform/)
 * [2025-12-26, 09:47:07](https://news.ycombinator.com/item?id=46390688) - [Graph Algorithms in Rayon](https://davidlattimore.github.io/posts/2025/11/27/graph-algorithms-in-rayon.html)
 * [2025-12-25, 15:32:45](https://news.ycombinator.com/item?id=46384975) - [Show HN: One clean, developer-focused page for every Unicode symbol](https://fontgenerator.design/symbols)
+* [2025-12-25, 12:59:55](https://news.ycombinator.com/item?id=46384153) - [Incremental Backups of Gmail Takeouts](https://baecher.dev/stdout/incremental-backups-of-gmail-takeouts/)
 * [2025-12-24, 22:04:57](https://news.ycombinator.com/item?id=46379765) - [Postgres extension complements pgvector for performance and scale](https://github.com/timescale/pgvectorscale)
 * [2025-12-23, 10:28:40](https://news.ycombinator.com/item?id=46364136) - [UNIX Fourth Edition](http://squoze.net/UNIX/v4/README)
 
