@@ -41,6 +41,16 @@
   ],
   [
     [
+      "2025-12-29, 23:50:34",
+      "https://news.ycombinator.com/item?id=46427586"
+    ],
+    [
+      "Stranger Things creator says turn off \"garbage\" settings",
+      "https://screenrant.com/stranger-things-creator-turn-off-settings-premiere/"
+    ]
+  ],
+  [
+    [
       "2025-12-29, 23:50:06",
       "https://news.ycombinator.com/item?id=46427582"
     ],
@@ -81,22 +91,22 @@
   ],
   [
     [
+      "2025-12-29, 22:24:22",
+      "https://news.ycombinator.com/item?id=46426534"
+    ],
+    [
+      "ManusAI Joins Meta",
+      "https://manus.im/blog/manus-joins-meta-for-next-era-of-innovation"
+    ]
+  ],
+  [
+    [
       "2025-12-29, 20:29:26",
       "https://news.ycombinator.com/item?id=46425198"
     ],
     [
       "Google is dead. Where do we go now?",
       "https://www.circusscientist.com/2025/12/29/google-is-dead-where-do-we-go-now/"
-    ]
-  ],
-  [
-    [
-      "2025-12-29, 19:57:47",
-      "https://news.ycombinator.com/item?id=46424782"
-    ],
-    [
-      "Which Humans? (2023)",
-      "https://osf.io/preprints/psyarxiv/5b26t_v1"
     ]
   ],
   [
@@ -117,6 +127,16 @@
     [
       "All Delisted Steam Games",
       "https://delistedgames.com/all-delisted-steam-games/"
+    ]
+  ],
+  [
+    [
+      "2025-12-29, 19:14:17",
+      "https://news.ycombinator.com/item?id=46424233"
+    ],
+    [
+      "The future of software development is software developers",
+      "https://codemanship.wordpress.com/2025/11/25/the-future-of-software-development-is-software-developers/"
     ]
   ],
   [
@@ -151,22 +171,32 @@
   ],
   [
     [
+      "2025-12-29, 17:57:03",
+      "https://news.ycombinator.com/item?id=46423290"
+    ],
+    [
+      "Tesla's 4680 battery supply chain collapses as partner writes down deal by 99%",
+      "https://electrek.co/2025/12/29/tesla-4680-battery-supply-chain-collapses-partner-writes-down-dea/"
+    ]
+  ],
+  [
+    [
+      "2025-12-29, 16:43:14",
+      "https://news.ycombinator.com/item?id=46422412"
+    ],
+    [
+      "GOG is getting acquired by its original co-founder",
+      "https://www.gog.com/blog/gog-is-getting-acquired-by-its-original-co-founder-what-it-means-for-you/"
+    ]
+  ],
+  [
+    [
       "2025-12-29, 16:07:27",
       "https://news.ycombinator.com/item?id=46422009"
     ],
     [
       "Static Allocation with Zig",
       "https://nickmonad.blog/2025/static-allocation-with-zig-kv/"
-    ]
-  ],
-  [
-    [
-      "2025-12-29, 13:43:29",
-      "https://news.ycombinator.com/item?id=46420672"
-    ],
-    [
-      "Libgodc: Write Go Programs for Sega Dreamcast",
-      "https://github.com/drpaneas/libgodc"
     ]
   ],
   [
@@ -191,16 +221,6 @@
   ],
   [
     [
-      "2025-12-29, 07:54:19",
-      "https://news.ycombinator.com/item?id=46418415"
-    ],
-    [
-      "You can't design software you don't work on",
-      "https://www.seangoedecke.com/you-cant-design-software-you-dont-work-on/"
-    ]
-  ],
-  [
-    [
       "2025-12-27, 11:30:40",
       "https://news.ycombinator.com/item?id=46401052"
     ],
@@ -221,32 +241,12 @@
   ],
   [
     [
-      "2025-12-26, 07:48:28",
-      "https://news.ycombinator.com/item?id=46390123"
-    ],
-    [
-      "The AI Noise",
-      "https://rishi.monster/posts/time-intelligence-economy-part-1-the-ai-noise/"
-    ]
-  ],
-  [
-    [
       "2025-12-26, 03:14:07",
       "https://news.ycombinator.com/item?id=46388882"
     ],
     [
       "Show HN: A Claude Code plugin that catch destructive Git and filesystem commands",
       "https://github.com/kenryu42/claude-code-safety-net"
-    ]
-  ],
-  [
-    [
-      "2025-12-25, 21:03:28",
-      "https://news.ycombinator.com/item?id=46387028"
-    ],
-    [
-      "Intelligence – A Mystery Investigation Game",
-      "https://intelligencegame.tech/"
     ]
   ],
   [
