@@ -14,7 +14,6 @@
 * [2025-12-29, 19:30:40](https://news.ycombinator.com/item?id=46424460) - [When someone says they hate your product](https://www.getflack.com/p/responding-to-negative-feedback)
 * [2025-12-29, 19:14:17](https://news.ycombinator.com/item?id=46424233) - [The future of software development is software developers](https://codemanship.wordpress.com/2025/11/25/the-future-of-software-development-is-software-developers/)
 * [2025-12-29, 19:11:26](https://news.ycombinator.com/item?id=46424200) - [AI is forcing us to write good code](https://bits.logic.inc/p/ai-is-forcing-us-to-write-good-code)
-* [2025-12-29, 18:21:30](https://news.ycombinator.com/item?id=46423566) - [List of domains censored by German ISPs](https://cuiiliste.de/domains)
 * [2025-12-29, 18:17:29](https://news.ycombinator.com/item?id=46423521) - [A production bug that made me care about undefined behavior](https://gaultier.github.io/blog/the_production_bug_that_made_me_care_about_undefined_behavior.html)
 * [2025-12-29, 17:57:03](https://news.ycombinator.com/item?id=46423290) - [Tesla's 4680 battery supply chain collapses as partner writes down deal by 99%](https://electrek.co/2025/12/29/tesla-4680-battery-supply-chain-collapses-partner-writes-down-dea/)
 * [2025-12-29, 16:43:14](https://news.ycombinator.com/item?id=46422412) - [GOG is getting acquired by its original co-founder](https://www.gog.com/blog/gog-is-getting-acquired-by-its-original-co-founder-what-it-means-for-you/)
@@ -30,6 +29,7 @@
 * [2025-12-25, 12:59:55](https://news.ycombinator.com/item?id=46384153) - [Incremental Backups of Gmail Takeouts](https://baecher.dev/stdout/incremental-backups-of-gmail-takeouts/)
 * [2025-12-25, 00:02:29](https://news.ycombinator.com/item?id=46380697) - [Vitest Browser Mode Guide](https://howtotestfrontend.com/resources/vitest-browser-mode-guide-and-setup-info)
 * [2025-12-24, 01:30:13](https://news.ycombinator.com/item?id=46371486) - [Show HN: A 45x45 Connections Puzzle To Commemorate 2025=45*45](https://thomaswc.com/2025.html)
+* [2025-12-23, 10:28:40](https://news.ycombinator.com/item?id=46364136) - [UNIX Fourth Edition](http://squoze.net/UNIX/v4/README)
 
 ## [Archives](archives/index.md)
 

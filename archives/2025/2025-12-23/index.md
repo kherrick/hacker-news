@@ -51,6 +51,7 @@
 * [2025-12-23, 11:36:57](https://news.ycombinator.com/item?id=46364482) - [Reflections and rantings from a system design interviewer](https://www.calvinbarker.com/blog/reflections-and-rantings-from-a-system-design-interviewer)
 * [2025-12-23, 11:07:42](https://news.ycombinator.com/item?id=46364338) - [What Is (AI) Glaze?](https://glaze.cs.uchicago.edu/what-is-glaze.html)
 * [2025-12-23, 10:53:07](https://news.ycombinator.com/item?id=46364272) - [Ryanair fined €256M over ‘abusive strategy’ to limit ticket sales by OTAs](https://www.theguardian.com/business/2025/dec/23/ryanair-fined-limit-online-travel-agencies-ticket-sales-ota)
+* [2025-12-23, 10:28:40](https://news.ycombinator.com/item?id=46364136) - [UNIX Fourth Edition](http://squoze.net/UNIX/v4/README)
 * [2025-12-23, 10:28:09](https://news.ycombinator.com/item?id=46364131) - [Font with Built-In Syntax Highlighting (2024)](https://blog.glyphdrawing.club/font-with-built-in-syntax-highlighting/)
 * [2025-12-23, 10:05:00](https://news.ycombinator.com/item?id=46363993) - [Classical billiards can compute (2d billiard systems are Turing complete)](https://arxiv.org/abs/2512.19156)
 * [2025-12-23, 09:54:59](https://news.ycombinator.com/item?id=46363948) - [Are We Loong Yet?](https://areweloongyet.com/en/)
