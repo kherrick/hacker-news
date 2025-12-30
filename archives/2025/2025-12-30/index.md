@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2025-12-30](index.md)
 
+* [2025-12-30, 17:15:11](https://news.ycombinator.com/item?id=46435477) - ['Commuting Is Bad'–Particularly for Women](https://www.theatlantic.com/family/2025/12/commute-gender-wage-gap-mothers/685265/)
 * [2025-12-30, 17:09:57](https://news.ycombinator.com/item?id=46435418) - [Toro: Deploy Applications as Unikernels](https://github.com/torokernel/torokernel)
 * [2025-12-30, 16:18:23](https://news.ycombinator.com/item?id=46434821) - [Ask HN: Any example of successful vibe-coded product?](https://news.ycombinator.com/item?id=46434821)
+* [2025-12-30, 15:57:01](https://news.ycombinator.com/item?id=46434580) - [Show HN: Tidy Baby is a SET game but with words](https://tidy.baby)
 * [2025-12-30, 15:32:58](https://news.ycombinator.com/item?id=46434301) - [2025 Was Another Exceptionally Hot Year](https://e360.yale.edu/digest/2025-second-hottest-year)
 * [2025-12-30, 14:58:18](https://news.ycombinator.com/item?id=46433915) - [What Happened to Abit Motherboards](https://dfarq.homeip.net/what-happened-to-abit-motherboards/)
 * [2025-12-30, 14:49:38](https://news.ycombinator.com/item?id=46433832) - [The Legacy of Undersea Cables](https://blog.sciencemuseumgroup.org.uk/the-legacy-of-undersea-cables/)
@@ -13,6 +15,7 @@
 * [2025-12-30, 14:31:34](https://news.ycombinator.com/item?id=46433661) - [Hive (YC S14) Is Hiring a Staff Software Engineer (Data Systems)](https://jobs.ashbyhq.com/hive.co/cb0dc490-0e32-4734-8d91-8b56a31ed497)
 * [2025-12-30, 14:29:22](https://news.ycombinator.com/item?id=46433649) - [The 70% AI productivity myth: why most companies aren't seeing the gains](https://sderosiaux.substack.com/p/the-70-ai-productivity-myth-why-most)
 * [2025-12-30, 14:23:11](https://news.ycombinator.com/item?id=46433579) - [Public Sans – A strong, neutral typeface](https://public-sans.digital.gov/)
+* [2025-12-30, 13:55:59](https://news.ycombinator.com/item?id=46433352) - [Igniting the GPU: From Kernel Plumbing to 3D Rendering on RISC-V](https://mwilczynski.dev/posts/riscv-gpu-zink/)
 * [2025-12-30, 13:26:20](https://news.ycombinator.com/item?id=46433117) - [MH370 vanished in 2014.New search aims to find answers families desperately want](https://www.abc.net.au/news/2025-12-30/mh370-search-resumes-for-malaysia-airlines-missing-plane/106186962)
 * [2025-12-30, 13:15:05](https://news.ycombinator.com/item?id=46433035) - [Win32 is the stable Linux ABI](https://loss32.org/)
 * [2025-12-30, 13:14:40](https://news.ycombinator.com/item?id=46433029) - [no strpy either](https://daniel.haxx.se/blog/2025/12/29/no-strcpy-either/)
