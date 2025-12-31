@@ -2,9 +2,9 @@
 
 * [2025-12-30, 22:47:36](https://news.ycombinator.com/item?id=46439027) - [Project ideas to appreciate the art of programming](https://codecrafters.io/blog/programming-project-ideas)
 * [2025-12-30, 22:28:16](https://news.ycombinator.com/item?id=46438828) - [NYC Mayoral Inauguration bans Raspberry Pi and Flipper Zero alongside explosives](https://blog.adafruit.com/2025/12/30/nyc-mayoral-inauguration-bans-raspberry-pi-and-flipper-zero-alongside-explosives/)
+* [2025-12-30, 22:12:52](https://news.ycombinator.com/item?id=46438642) - [Coase's Penguin, Or, Linux and the Nature of the Firm [pdf]](https://www.benkler.org/CoasesPenguin.PDF)
 * [2025-12-30, 21:59:35](https://news.ycombinator.com/item?id=46438522) - [Honey's Dieselgate: Detecting and tricking testers](https://vptdigital.com/blog/honey-detecting-testers/)
 * [2025-12-30, 21:44:07](https://news.ycombinator.com/item?id=46438390) - [OpenAI's cash burn will be one of the big bubble questions of 2026](https://www.economist.com/leaders/2025/12/30/openais-cash-burn-will-be-one-of-the-big-bubble-questions-of-2026)
-* [2025-12-30, 21:31:00](https://news.ycombinator.com/item?id=46438255) - [U.S. cybersecurity experts plead guilty for ransomware attacks](https://www.tomshardware.com/tech-industry/cyber-security/u-s-cybersecurity-experts-plead-guilty-for-ransomware-attacks-face-20-years-in-prison-each-group-demanded-up-to-usd10-million-from-each-victim)
 * [2025-12-30, 21:22:53](https://news.ycombinator.com/item?id=46438169) - [Humans May Be Able to Grow New Teeth Within Just 4 Years](https://www.popularmechanics.com/science/health/a69878870/human-new-tooth-regrowth-trials-japan-timeline/)
 * [2025-12-30, 20:53:59](https://news.ycombinator.com/item?id=46437876) - [Sabotaging Bitcoin](https://blog.dshr.org/2025/12/sabotaging-bitcoin.html)
 * [2025-12-30, 20:06:46](https://news.ycombinator.com/item?id=46437391) - [Professional software developers don't vibe, they control](https://arxiv.org/abs/2512.14012)
@@ -27,7 +27,7 @@
 * [2025-12-30, 10:11:57](https://news.ycombinator.com/item?id=46431560) - [Netflix Open Content](https://opencontent.netflix.com/)
 * [2025-12-30, 08:50:44](https://news.ycombinator.com/item?id=46431028) - [Go away Python](https://lorentz.app/blog-item.html?id=go-shebang)
 * [2025-12-29, 19:09:08](https://news.ycombinator.com/item?id=46424173) - [Loss32: Let's Build a Win32/Linux](https://loss32.org/)
-* [2025-12-24, 22:04:57](https://news.ycombinator.com/item?id=46379765) - [Postgres extension complements pgvector for performance and scale](https://github.com/timescale/pgvectorscale)
+* [2025-12-29, 02:08:08](https://news.ycombinator.com/item?id=46416674) - [Mitsubishi Diatone D-160 (1985)](https://audio-database.com/MITSUBISHI-DIATONE/diatonesp/d-160-e.html)
 * [2025-12-23, 15:21:55](https://news.ycombinator.com/item?id=46366010) - [Reverse Engineering a Mysterious UDP Stream in My Hotel (2016)](https://www.gkbrk.com/hotel-music)
 * [2025-12-23, 02:33:24](https://news.ycombinator.com/item?id=46361766) - [Braid Math Article](https://mathvoices.ams.org/mathmedia/tonys-take-april-2022/)
 
