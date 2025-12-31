@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-12-31, 17:00:40",
+      "https://news.ycombinator.com/item?id=46445905"
+    ],
+    [
+      "SigNoz (YC W21, open source observability platform) Is Hiring across roles",
+      "https://signoz.io/careers"
+    ]
+  ],
+  [
+    [
       "2025-12-31, 16:20:08",
       "https://news.ycombinator.com/item?id=46445491"
     ],
@@ -51,16 +61,6 @@
   ],
   [
     [
-      "2025-12-31, 15:06:52",
-      "https://news.ycombinator.com/item?id=46444743"
-    ],
-    [
-      "France targets Australia-style social media ban for children next year",
-      "https://www.theguardian.com/world/2025/dec/31/france-plans-social-media-ban-for-under-15s-from-september-2026"
-    ]
-  ],
-  [
-    [
       "2025-12-31, 14:51:28",
       "https://news.ycombinator.com/item?id=46444564"
     ],
@@ -101,16 +101,6 @@
   ],
   [
     [
-      "2025-12-31, 13:07:22",
-      "https://news.ycombinator.com/item?id=46443767"
-    ],
-    [
-      "Claude wrote a functional NES emulator using my engine's API",
-      "https://carimbo.games/games/nintendo/"
-    ]
-  ],
-  [
-    [
       "2025-12-31, 13:02:48",
       "https://news.ycombinator.com/item?id=46443744"
     ],
@@ -141,12 +131,12 @@
   ],
   [
     [
-      "2025-12-31, 12:01:10",
-      "https://news.ycombinator.com/item?id=46443438"
+      "2025-12-31, 12:12:20",
+      "https://news.ycombinator.com/item?id=46443486"
     ],
     [
-      "Activeloop (YC S18) Is Hiring MTS – Back End Engineer",
-      "https://careers.activeloop.ai/?ashby_jid=d8c54147-5fc8-48ba-a097-a6ae046c42bd"
+      "Who Invented the Transistor?",
+      "https://people.idsia.ch/~juergen/who-invented-the-transistor.html"
     ]
   ],
   [
@@ -177,16 +167,6 @@
     [
       "Readings in Database Systems (5th Edition) (2015)",
       "http://www.redbook.io/"
-    ]
-  ],
-  [
-    [
-      "2025-12-30, 21:59:35",
-      "https://news.ycombinator.com/item?id=46438522"
-    ],
-    [
-      "Honey's Dieselgate: Detecting and tricking testers",
-      "https://vptdigital.com/blog/honey-detecting-testers/"
     ]
   ],
   [
@@ -231,12 +211,32 @@
   ],
   [
     [
+      "2025-12-28, 12:42:11",
+      "https://news.ycombinator.com/item?id=46410676"
+    ],
+    [
+      "A super fast website using Cloudflare workers",
+      "https://crazyfast.website"
+    ]
+  ],
+  [
+    [
       "2025-12-28, 08:10:01",
       "https://news.ycombinator.com/item?id=46409359"
     ],
     [
       "Doom in Django: testing the limits of LiveView at 600.000 divs/segundo",
       "https://en.andros.dev/blog/7b1b607b/doom-in-django-testing-the-limits-of-liveview-at-600000-divssegundo/"
+    ]
+  ],
+  [
+    [
+      "2025-12-27, 12:21:30",
+      "https://news.ycombinator.com/item?id=46401340"
+    ],
+    [
+      "RoboCop – Breaking the Law. H0ffman Cracks RoboCop Arcade from DataEast",
+      "https://hoffman.home.blog/2025/12/26/robocop-breaking-the-law/"
     ]
   ],
   [
