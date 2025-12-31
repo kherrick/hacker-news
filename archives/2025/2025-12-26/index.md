@@ -14,6 +14,7 @@
 * [2025-12-26, 20:27:50](https://news.ycombinator.com/item?id=46395871) - [T-Ruby is Ruby with syntax for types](https://type-ruby.github.io/)
 * [2025-12-26, 20:18:02](https://news.ycombinator.com/item?id=46395757) - [NYC phone ban reveals some students can't read clocks](https://gothamist.com/news/nyc-phone-ban-reveals-some-students-cant-read-clocks)
 * [2025-12-26, 20:12:09](https://news.ycombinator.com/item?id=46395714) - [Karpathy on Programming: \"I've never felt this much behind\"](https://twitter.com/karpathy/status/2004607146781278521)
+* [2025-12-26, 19:43:50](https://news.ycombinator.com/item?id=46395438) - [My role as a founder-CTO: year 8](https://miguelcarranza.es/cto-year-8)
 * [2025-12-26, 19:25:28](https://news.ycombinator.com/item?id=46395292) - [Grok and the Naked King: The Ultimate Argument Against AI Alignment](https://ibrahimcesar.cloud/blog/grok-and-the-naked-king/)
 * [2025-12-26, 19:23:28](https://news.ycombinator.com/item?id=46395273) - [Gaussian Splatting 3 Ways](https://github.com/NullandKale/NullSplats)
 * [2025-12-26, 19:13:22](https://news.ycombinator.com/item?id=46395184) - [My insulin pump controller uses the Linux kernel. It also violates the GPL](https://old.reddit.com/r/linux/comments/1puojsr/the_device_that_controls_my_insulin_pump_uses_the/)
