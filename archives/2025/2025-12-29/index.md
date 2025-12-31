@@ -43,6 +43,7 @@
 * [2025-12-29, 12:23:49](https://news.ycombinator.com/item?id=46419968) - [Linux DAW: Help Linux musicians to quickly and easily find the tools they need](https://linuxdaw.org/)
 * [2025-12-29, 11:58:09](https://news.ycombinator.com/item?id=46419822) - [Show HN: See what readers who loved your favorite book/author also loved to read](https://shepherd.com/bboy/2025)
 * [2025-12-29, 11:33:46](https://news.ycombinator.com/item?id=46419659) - [Kubernetes egress control with squid proxy](https://interlaye.red/kubernetes_002degress_002dsquid.html)
+* [2025-12-29, 10:49:22](https://news.ycombinator.com/item?id=46419311) - [Git analytics that works across GitHub, GitLab, and Bitbucket](https://news.ycombinator.com/item?id=46419311)
 * [2025-12-29, 10:44:45](https://news.ycombinator.com/item?id=46419282) - [Market design can feed the poor](https://worksinprogress.co/issue/how-market-design-can-feed-the-poor/)
 * [2025-12-29, 10:43:29](https://news.ycombinator.com/item?id=46419273) - [Feynman's Hughes Lectures: 950 pages of notes](https://thehugheslectures.info/the-lectures/)
 * [2025-12-29, 10:12:16](https://news.ycombinator.com/item?id=46419121) - [EU to build no-fee payments service like Visa/Mastercard and Apple/Google Pay](https://www.independent.ie/business/digital-euro-what-it-is-and-how-we-will-use-the-new-form-of-cash/a165973061.html)
