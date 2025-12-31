@@ -1,11 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-12-31, 18:39:40](https://news.ycombinator.com/item?id=46446938) - [Privacy and control. My tech setup](https://toidiu.com/blog/2025-12-25-privacy-and-control/)
 * [2025-12-31, 18:28:41](https://news.ycombinator.com/item?id=46446838) - [Meta created 'playbook' to fend off pressure to crack down on scammers](https://www.reuters.com/investigations/meta-created-playbook-fend-off-pressure-crack-down-scammers-documents-show-2025-12-31/)
 * [2025-12-31, 18:26:32](https://news.ycombinator.com/item?id=46446815) - [I canceled my book deal](https://austinhenley.com/blog/canceledbookdeal.html)
 * [2025-12-31, 18:25:16](https://news.ycombinator.com/item?id=46446800) - [Court report detailing ChatGPT's involvement with a recent murder suicide [pdf]](https://storage.courtlistener.com/recap/gov.uscourts.cand.461878/gov.uscourts.cand.461878.1.0.pdf)
-* [2025-12-31, 18:08:41](https://news.ycombinator.com/item?id=46446642) - [I use Samsung's Wi-Fi menu to seriously improve my connectivity](https://www.zdnet.com/article/how-to-use-samsung-connectivty-labs-secret-wifi-menu/)
 * [2025-12-31, 17:41:46](https://news.ycombinator.com/item?id=46446359) - [Stewart Cheifet, creator of The Computer Chronicles, has died](https://obits.goldsteinsfuneral.com/stewart-cheifet)
-* [2025-12-31, 17:11:56](https://news.ycombinator.com/item?id=46446017) - [The Economics of Duke University](https://dontaylor13.substack.com/p/duke-university)
 * [2025-12-31, 17:00:40](https://news.ycombinator.com/item?id=46445905) - [SigNoz (YC W21, open source observability platform) Is Hiring across roles](https://signoz.io/careers)
 * [2025-12-31, 16:20:08](https://news.ycombinator.com/item?id=46445491) - [2025 was a disaster for Windows 11](https://www.windowscentral.com/microsoft/windows-11/2025-has-been-an-awful-year-for-windows-11-with-infuriating-bugs-and-constant-unwanted-features)
 * [2025-12-31, 15:52:51](https://news.ycombinator.com/item?id=46445195) - [Scaffolding to Superhuman: How Curriculum Learning Solved 2048 and Tetris](https://kywch.github.io/blog/2025/12/curriculum-learning-2048-tetris/)
@@ -13,6 +12,7 @@
 * [2025-12-31, 15:39:58](https://news.ycombinator.com/item?id=46445068) - [Stardew Valley developer made a $125k donation to the FOSS C# framework MonoGame](https://monogame.net/blog/2025-12-30-385-new-sponsor-announcement/)
 * [2025-12-31, 15:06:52](https://news.ycombinator.com/item?id=46444743) - [France targets Australia-style social media ban for children next year](https://www.theguardian.com/world/2025/dec/31/france-plans-social-media-ban-for-under-15s-from-september-2026)
 * [2025-12-31, 13:59:09](https://news.ycombinator.com/item?id=46444076) - [Efficient method to capture carbon dioxide from the atmosphere](https://www.helsinki.fi/en/news/innovations/efficient-method-capture-carbon-dioxide-atmosphere-developed-university-helsinki)
+* [2025-12-31, 13:50:41](https://news.ycombinator.com/item?id=46444020) - [How AI labs are solving the power problem](https://newsletter.semianalysis.com/p/how-ai-labs-are-solving-the-power)
 * [2025-12-31, 13:44:41](https://news.ycombinator.com/item?id=46443988) - [When square pixels aren't square](https://alexwlchan.net/2025/square-pixels/)
 * [2025-12-31, 12:43:58](https://news.ycombinator.com/item?id=46443626) - [Nvidia GB10's Memory Subsystem, from the CPU Side](https://chipsandcheese.com/p/inside-nvidia-gb10s-memory-subsystem)
 * [2025-12-31, 12:32:27](https://news.ycombinator.com/item?id=46443579) - [The most famous transcendental numbers](https://sprott.physics.wisc.edu/pickover/trans.html)
@@ -28,8 +28,8 @@
 * [2025-12-26, 18:20:10](https://news.ycombinator.com/item?id=46394651) - [Tixl: Open-source realtime motion graphics](https://github.com/tixl3d/tixl)
 * [2025-12-26, 09:34:57](https://news.ycombinator.com/item?id=46390621) - [Animated AI](https://animatedai.github.io/)
 * [2025-12-26, 08:30:36](https://news.ycombinator.com/item?id=46390312) - [Microtonal Spiral Piano](https://shih1.github.io/spiral/)
-* [2025-12-25, 03:49:33](https://news.ycombinator.com/item?id=46381901) - [Winnie-the-Pooh brings 100 years of fame to forest](https://www.bbc.com/news/articles/c4g9dzj1xj3o)
 * [2025-12-24, 21:42:07](https://news.ycombinator.com/item?id=46379562) - [Back to the future: the story of Squeak, a practical Smalltalk written in itself [pdf] (1997)](http://www.vpri.org/pdf/tr1997001_backto.pdf)
+* [2025-12-24, 16:04:12](https://news.ycombinator.com/item?id=46376704) - [Kitchen optimizations](https://www.natemeyvis.com/kitchen-optimizations/)
 
 ## [Archives](archives/index.md)
 

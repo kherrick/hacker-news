@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-12-31](index.md)
 
+* [2025-12-31, 18:39:40](https://news.ycombinator.com/item?id=46446938) - [Privacy and control. My tech setup](https://toidiu.com/blog/2025-12-25-privacy-and-control/)
 * [2025-12-31, 18:28:41](https://news.ycombinator.com/item?id=46446838) - [Meta created 'playbook' to fend off pressure to crack down on scammers](https://www.reuters.com/investigations/meta-created-playbook-fend-off-pressure-crack-down-scammers-documents-show-2025-12-31/)
 * [2025-12-31, 18:26:32](https://news.ycombinator.com/item?id=46446815) - [I canceled my book deal](https://austinhenley.com/blog/canceledbookdeal.html)
 * [2025-12-31, 18:25:16](https://news.ycombinator.com/item?id=46446800) - [Court report detailing ChatGPT's involvement with a recent murder suicide [pdf]](https://storage.courtlistener.com/recap/gov.uscourts.cand.461878/gov.uscourts.cand.461878.1.0.pdf)
