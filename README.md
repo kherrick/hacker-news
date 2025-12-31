@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-12-31, 13:59:09](https://news.ycombinator.com/item?id=46444076) - [Efficient method to capture CO2 from the atmosphere / Univ of Helsinki](https://www.helsinki.fi/en/news/innovations/efficient-method-capture-carbon-dioxide-atmosphere-developed-university-helsinki)
+* [2025-12-31, 13:50:41](https://news.ycombinator.com/item?id=46444020) - [AI Labs Are Solving the Power Problem](https://newsletter.semianalysis.com/p/how-ai-labs-are-solving-the-power)
 * [2025-12-31, 13:07:22](https://news.ycombinator.com/item?id=46443767) - [Claude wrote a functional NES emulator using my engine's API](https://carimbo.games/games/nintendo/)
 * [2025-12-31, 13:02:48](https://news.ycombinator.com/item?id=46443744) - [Tell HN: Happy New Year](https://news.ycombinator.com/item?id=46443744)
 * [2025-12-31, 12:32:27](https://news.ycombinator.com/item?id=46443579) - [Fifteen Most Famous Transcendental Numbers](https://sprott.physics.wisc.edu/pickover/trans.html)
@@ -11,8 +13,6 @@
 * [2025-12-31, 02:01:53](https://news.ycombinator.com/item?id=46440510) - [Readings in Database Systems (5th Edition) (2015)](http://www.redbook.io/)
 * [2025-12-30, 21:59:35](https://news.ycombinator.com/item?id=46438522) - [Honey's Dieselgate: Detecting and tricking testers](https://vptdigital.com/blog/honey-detecting-testers/)
 * [2025-12-30, 21:44:07](https://news.ycombinator.com/item?id=46438390) - [OpenAI's cash burn will be one of the big bubble questions of 2026](https://www.economist.com/leaders/2025/12/30/openais-cash-burn-will-be-one-of-the-big-bubble-questions-of-2026)
-* [2025-12-30, 20:53:59](https://news.ycombinator.com/item?id=46437876) - [Sabotaging Bitcoin](https://blog.dshr.org/2025/12/sabotaging-bitcoin.html)
-* [2025-12-30, 19:57:10](https://news.ycombinator.com/item?id=46437288) - [Zpdf: PDF text extraction in Zig](https://github.com/Lulzx/zpdf)
 * [2025-12-30, 19:21:48](https://news.ycombinator.com/item?id=46436889) - [FediMeteo: A €4 FreeBSD VPS Became a Global Weather Service](https://it-notes.dragas.net/2025/02/26/fedimeteo-how-a-tiny-freebsd-vps-became-a-global-weather-service-for-thousands/)
 * [2025-12-30, 18:36:37](https://news.ycombinator.com/item?id=46436409) - [A faster heart for F-Droid](https://f-droid.org/2025/12/30/a-faster-heart-for-f-droid.html)
 * [2025-12-30, 18:08:32](https://news.ycombinator.com/item?id=46436127) - [Electrolysis can solve one of our biggest contamination problems](https://ethz.ch/en/news-and-events/eth-news/news/2025/11/electrolysis-can-solve-one-of-our-biggest-contamination-problems.html)
@@ -28,7 +28,7 @@
 * [2025-12-26, 18:20:10](https://news.ycombinator.com/item?id=46394651) - [Tixl: Open-source realtime motion graphics](https://github.com/tixl3d/tixl)
 * [2025-12-26, 09:34:57](https://news.ycombinator.com/item?id=46390621) - [Animated AI](https://animatedai.github.io/)
 * [2025-12-26, 07:10:12](https://news.ycombinator.com/item?id=46389925) - [Odin: Moving Towards a New \"core:OS\"](https://odin-lang.org/news/moving-towards-a-new-core-os/)
-* [2025-12-24, 16:04:12](https://news.ycombinator.com/item?id=46376704) - [Kitchen Optimizations](https://www.natemeyvis.com/kitchen-optimizations/)
+* [2025-12-24, 21:42:07](https://news.ycombinator.com/item?id=46379562) - [Back to the future: the story of Squeak, a practical Smalltalk written in itself [pdf]](http://www.vpri.org/pdf/tr1997001_backto.pdf)
 * [2025-12-24, 15:17:48](https://news.ycombinator.com/item?id=46376307) - ['Three norths' alignment about to end](https://www.spatialsource.com.au/three-norths-alignment-about-to-end/)
 
 ## [Archives](archives/index.md)
