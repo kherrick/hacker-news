@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-12-31](index.md)
 
+* [2025-12-31, 20:37:16](https://news.ycombinator.com/item?id=46448031) - [Happy New Year HN](https://tenor.com/view/gg-gif-12398339126318398543)
 * [2025-12-31, 20:14:31](https://news.ycombinator.com/item?id=46447827) - [All-optical synthesis chip for large-scale intelligent semantic vision](https://www.science.org/doi/10.1126/science.adv7434)
 * [2025-12-31, 19:53:25](https://news.ycombinator.com/item?id=46447659) - [FTX whistleblower Caroline Ellison set for early release next month](https://invezz.com/news/2025/12/26/ftx-whistleblower-caroline-ellison-set-for-early-release-next-month/)
 * [2025-12-31, 18:39:40](https://news.ycombinator.com/item?id=46446938) - [Privacy and control. My tech setup](https://toidiu.com/blog/2025-12-25-privacy-and-control/)

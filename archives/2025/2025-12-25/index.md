@@ -27,6 +27,7 @@
 * [2025-12-25, 14:20:29](https://news.ycombinator.com/item?id=46384565) - [Asahi Linux with Sway on the MacBook Air M2](https://daniel.lawrence.lu/blog/2024-12-01-asahi-linux-with-sway-on-the-macbook-air-m2/)
 * [2025-12-25, 13:55:07](https://news.ycombinator.com/item?id=46384415) - [Ultra-Low-Latency Trading System](https://submicro.krishnabajpai.me/)
 * [2025-12-25, 13:46:41](https://news.ycombinator.com/item?id=46384361) - [Show HN: I made you a Christmas present](https://arielche.net/noel2025)
+* [2025-12-25, 13:38:38](https://news.ycombinator.com/item?id=46384322) - [Show HN: Frockly – A visual editor for understanding complex Excel formulas](https://news.ycombinator.com/item?id=46384322)
 * [2025-12-25, 13:02:46](https://news.ycombinator.com/item?id=46384167) - [Python 3.15's interpreter for Windows should be 15% faster](https://fidget-spinner.github.io/posts/no-longer-sorry.html)
 * [2025-12-25, 12:59:55](https://news.ycombinator.com/item?id=46384153) - [Incremental Backups of Gmail Takeouts](https://baecher.dev/stdout/incremental-backups-of-gmail-takeouts/)
 * [2025-12-25, 11:03:59](https://news.ycombinator.com/item?id=46383675) - [Mattermost restricted access to old messages after 10000 limit is reached](https://github.com/mattermost/mattermost/issues/34271)
