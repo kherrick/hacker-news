@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-12-31, 15:39:58](https://news.ycombinator.com/item?id=46445068) - [Stardew Valley developer made a $125k donation to the FOSS C# framework MonoGame](https://monogame.net/blog/2025-12-30-385-new-sponsor-announcement/)
+* [2025-12-31, 15:06:52](https://news.ycombinator.com/item?id=46444743) - [France targets Australia-style social media ban for children next year](https://www.theguardian.com/world/2025/dec/31/france-plans-social-media-ban-for-under-15s-from-september-2026)
 * [2025-12-31, 14:51:28](https://news.ycombinator.com/item?id=46444564) - [Drugmakers raise US prices on 350 medicines despite pressure](https://www.reuters.com/business/healthcare-pharmaceuticals/drugmakers-raise-us-prices-350-medicines-despite-pressure-trump-2025-12-31/)
 * [2025-12-31, 14:43:38](https://news.ycombinator.com/item?id=46444481) - [Zero-Code Instrumentation of an Envoy TCP Proxy Using eBPF](https://sergiocipriano.com/beyla-envoy.html)
 * [2025-12-31, 14:33:40](https://news.ycombinator.com/item?id=46444367) - [OpenAI Is Paying Employees More Than Any Major Tech Startup in History](https://www.wsj.com/tech/ai/openai-is-paying-employees-more-than-any-major-tech-startup-in-history-23472527)
@@ -15,7 +16,6 @@
 * [2025-12-31, 07:47:44](https://news.ycombinator.com/item?id=46442245) - [Show HN: Use Claude Code to Query 600 GB Indexes over Hacker News, ArXiv, etc.](https://exopriors.com/scry)
 * [2025-12-31, 02:01:53](https://news.ycombinator.com/item?id=46440510) - [Readings in Database Systems (5th Edition) (2015)](http://www.redbook.io/)
 * [2025-12-30, 21:59:35](https://news.ycombinator.com/item?id=46438522) - [Honey's Dieselgate: Detecting and tricking testers](https://vptdigital.com/blog/honey-detecting-testers/)
-* [2025-12-30, 21:44:07](https://news.ycombinator.com/item?id=46438390) - [OpenAI's cash burn will be one of the big bubble questions of 2026](https://www.economist.com/leaders/2025/12/30/openais-cash-burn-will-be-one-of-the-big-bubble-questions-of-2026)
 * [2025-12-30, 19:21:48](https://news.ycombinator.com/item?id=46436889) - [FediMeteo: A €4 FreeBSD VPS Became a Global Weather Service](https://it-notes.dragas.net/2025/02/26/fedimeteo-how-a-tiny-freebsd-vps-became-a-global-weather-service-for-thousands/)
 * [2025-12-30, 18:36:37](https://news.ycombinator.com/item?id=46436409) - [A faster heart for F-Droid](https://f-droid.org/2025/12/30/a-faster-heart-for-f-droid.html)
 * [2025-12-30, 17:24:57](https://news.ycombinator.com/item?id=46435614) - [A Vulnerability in Libsodium](https://00f.net/2025/12/30/libsodium-vulnerability/)
