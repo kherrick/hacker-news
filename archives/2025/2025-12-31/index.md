@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-12-31](index.md)
 
+* [2025-12-31, 15:55:14](https://news.ycombinator.com/item?id=46445229) - [2026: The Year of Java in the Terminal](https://xam.dk/blog/lets-make-2026-the-year-of-java-in-the-terminal/)
+* [2025-12-31, 15:52:51](https://news.ycombinator.com/item?id=46445195) - [Scaffolding to Superhuman: How Curriculum Learning Solved 2048 and Tetris](https://kywch.github.io/blog/2025/12/curriculum-learning-2048-tetris/)
 * [2025-12-31, 15:39:58](https://news.ycombinator.com/item?id=46445068) - [Stardew Valley developer made a $125k donation to the FOSS C# framework MonoGame](https://monogame.net/blog/2025-12-30-385-new-sponsor-announcement/)
 * [2025-12-31, 15:06:52](https://news.ycombinator.com/item?id=46444743) - [France targets Australia-style social media ban for children next year](https://www.theguardian.com/world/2025/dec/31/france-plans-social-media-ban-for-under-15s-from-september-2026)
 * [2025-12-31, 14:51:28](https://news.ycombinator.com/item?id=46444564) - [Drugmakers raise US prices on 350 medicines despite pressure](https://www.reuters.com/business/healthcare-pharmaceuticals/drugmakers-raise-us-prices-350-medicines-despite-pressure-trump-2025-12-31/)
@@ -15,7 +17,9 @@
 * [2025-12-31, 13:44:41](https://news.ycombinator.com/item?id=46443988) - [When square pixels aren't square](https://alexwlchan.net/2025/square-pixels/)
 * [2025-12-31, 13:07:22](https://news.ycombinator.com/item?id=46443767) - [Claude wrote a functional NES emulator using my engine's API](https://carimbo.games/games/nintendo/)
 * [2025-12-31, 13:02:48](https://news.ycombinator.com/item?id=46443744) - [Tell HN: Happy New Year](https://news.ycombinator.com/item?id=46443744)
+* [2025-12-31, 12:43:58](https://news.ycombinator.com/item?id=46443626) - [Nvidia GB10's Memory Subsystem, from the CPU Side](https://chipsandcheese.com/p/inside-nvidia-gb10s-memory-subsystem)
 * [2025-12-31, 12:32:27](https://news.ycombinator.com/item?id=46443579) - [Fifteen Most Famous Transcendental Numbers](https://sprott.physics.wisc.edu/pickover/trans.html)
+* [2025-12-31, 12:12:20](https://news.ycombinator.com/item?id=46443486) - [Who Invented the Transistor?](https://people.idsia.ch/~juergen/who-invented-the-transistor.html)
 * [2025-12-31, 12:01:10](https://news.ycombinator.com/item?id=46443438) - [Activeloop (YC S18) Is Hiring MTS – Back End Engineer](https://careers.activeloop.ai/?ashby_jid=d8c54147-5fc8-48ba-a097-a6ae046c42bd)
 * [2025-12-31, 10:48:02](https://news.ycombinator.com/item?id=46443077) - [Show HN: I built a universal clipboard that syncs realtime on multiple devices](https://www.quickclip.space/)
 * [2025-12-31, 10:12:51](https://news.ycombinator.com/item?id=46442903) - [Akin's Laws of Spacecraft Design [pdf]](https://www.ece.uvic.ca/~elec399/201409/Akin%27s%20Laws%20of%20Spacecraft%20Design.pdf)
