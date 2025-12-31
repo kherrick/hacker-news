@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-12-31](index.md)
 
+* [2025-12-31, 13:07:22](https://news.ycombinator.com/item?id=46443767) - [Claude wrote a functional NES emulator using my engine's API](https://carimbo.games/games/nintendo/)
 * [2025-12-31, 13:02:48](https://news.ycombinator.com/item?id=46443744) - [Tell HN: Happy New Year](https://news.ycombinator.com/item?id=46443744)
 * [2025-12-31, 12:32:27](https://news.ycombinator.com/item?id=46443579) - [Fifteen Most Famous Transcendental Numbers](https://sprott.physics.wisc.edu/pickover/trans.html)
 * [2025-12-31, 12:01:10](https://news.ycombinator.com/item?id=46443438) - [Activeloop (YC S18) Is Hiring MTS – Back End Engineer](https://careers.activeloop.ai/?ashby_jid=d8c54147-5fc8-48ba-a097-a6ae046c42bd)

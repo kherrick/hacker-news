@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-12-31, 13:07:22](https://news.ycombinator.com/item?id=46443767) - [Claude wrote a functional NES emulator using my engine's API](https://carimbo.games/games/nintendo/)
 * [2025-12-31, 13:02:48](https://news.ycombinator.com/item?id=46443744) - [Tell HN: Happy New Year](https://news.ycombinator.com/item?id=46443744)
 * [2025-12-31, 12:32:27](https://news.ycombinator.com/item?id=46443579) - [Fifteen Most Famous Transcendental Numbers](https://sprott.physics.wisc.edu/pickover/trans.html)
 * [2025-12-31, 12:01:10](https://news.ycombinator.com/item?id=46443438) - [Activeloop (YC S18) Is Hiring MTS – Back End Engineer](https://careers.activeloop.ai/?ashby_jid=d8c54147-5fc8-48ba-a097-a6ae046c42bd)
@@ -20,7 +21,6 @@
 * [2025-12-30, 13:14:40](https://news.ycombinator.com/item?id=46433029) - [No strcpy either](https://daniel.haxx.se/blog/2025/12/29/no-strcpy-either/)
 * [2025-12-30, 11:42:55](https://news.ycombinator.com/item?id=46432311) - [Non-Zero-Sum Games](https://nonzerosum.games/)
 * [2025-12-29, 19:09:08](https://news.ycombinator.com/item?id=46424173) - [Loss32: Let's Build a Win32/Linux](https://loss32.org/)
-* [2025-12-29, 17:12:20](https://news.ycombinator.com/item?id=46422757) - [Five Years of Tinygrad](https://geohot.github.io//blog/jekyll/update/2025/12/29/five-years-of-tinygrad.html)
 * [2025-12-29, 02:08:08](https://news.ycombinator.com/item?id=46416674) - [Mitsubishi Diatone D-160 (1985)](https://audio-database.com/MITSUBISHI-DIATONE/diatonesp/d-160-e.html)
 * [2025-12-28, 12:42:11](https://news.ycombinator.com/item?id=46410676) - [A super fast website using Cloudflare workers](https://crazyfast.website)
 * [2025-12-28, 08:10:01](https://news.ycombinator.com/item?id=46409359) - [Doom in Django: testing the limits of LiveView at 600.000 divs/segundo](https://en.andros.dev/blog/7b1b607b/doom-in-django-testing-the-limits-of-liveview-at-600000-divssegundo/)
