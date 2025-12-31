@@ -45,7 +45,7 @@
       "https://news.ycombinator.com/item?id=46446359"
     ],
     [
-      "Stewart Cheifet, creator of The Computer Chronicles, dead at 87",
+      "Stewart Cheifet, creator of The Computer Chronicles, has died",
       "https://obits.goldsteinsfuneral.com/stewart-cheifet"
     ]
   ],
@@ -71,12 +71,12 @@
   ],
   [
     [
-      "2025-12-31, 15:55:14",
-      "https://news.ycombinator.com/item?id=46445229"
+      "2025-12-31, 16:20:08",
+      "https://news.ycombinator.com/item?id=46445491"
     ],
     [
-      "2026: The Year of Java in the Terminal?",
-      "https://xam.dk/blog/lets-make-2026-the-year-of-java-in-the-terminal/"
+      "2025 was a disaster for Windows 11",
+      "https://www.windowscentral.com/microsoft/windows-11/2025-has-been-an-awful-year-for-windows-11-with-infuriating-bugs-and-constant-unwanted-features"
     ]
   ],
   [
@@ -155,7 +155,7 @@
       "https://news.ycombinator.com/item?id=46443579"
     ],
     [
-      "Fifteen Most Famous Transcendental Numbers",
+      "The most famous transcendental numbers",
       "https://sprott.physics.wisc.edu/pickover/trans.html"
     ]
   ],
@@ -181,22 +181,22 @@
   ],
   [
     [
+      "2025-12-31, 09:09:28",
+      "https://news.ycombinator.com/item?id=46442597"
+    ],
+    [
+      "The rise of industrial software",
+      "https://chrisloy.dev/post/2025/12/30/the-rise-of-industrial-software"
+    ]
+  ],
+  [
+    [
       "2025-12-31, 07:47:44",
       "https://news.ycombinator.com/item?id=46442245"
     ],
     [
       "Show HN: Use Claude Code to Query 600 GB Indexes over Hacker News, ArXiv, etc.",
       "https://exopriors.com/scry"
-    ]
-  ],
-  [
-    [
-      "2025-12-30, 19:21:48",
-      "https://news.ycombinator.com/item?id=46436889"
-    ],
-    [
-      "FediMeteo: A €4 FreeBSD VPS Became a Global Weather Service",
-      "https://it-notes.dragas.net/2025/02/26/fedimeteo-how-a-tiny-freebsd-vps-became-a-global-weather-service-for-thousands/"
     ]
   ],
   [
@@ -211,12 +211,12 @@
   ],
   [
     [
-      "2025-12-30, 17:01:59",
-      "https://news.ycombinator.com/item?id=46435308"
+      "2025-12-29, 03:25:35",
+      "https://news.ycombinator.com/item?id=46417162"
     ],
     [
-      "Show HN: 22 GB of Hacker News in SQLite",
-      "https://hackerbook.dosaygo.com"
+      "Demystifying DVDs",
+      "https://hiddenpalace.org/News/One_Bad_Ass_Hedgehog_-_Shadow_the_Hedgehog#Demystifying_DVDs"
     ]
   ],
   [
@@ -237,6 +237,16 @@
     [
       "RoboCop – Breaking the Law. H0ffman Cracks RoboCop Arcade from DataEast",
       "https://hoffman.home.blog/2025/12/26/robocop-breaking-the-law/"
+    ]
+  ],
+  [
+    [
+      "2025-12-26, 19:43:50",
+      "https://news.ycombinator.com/item?id=46395438"
+    ],
+    [
+      "My role as a founder-CTO: year 8",
+      "https://miguelcarranza.es/cto-year-8"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Back to the future: the story of Squeak, a practical Smalltalk written in itself [pdf] (1997)",
       "http://www.vpri.org/pdf/tr1997001_backto.pdf"
-    ]
-  ],
-  [
-    [
-      "2025-12-24, 12:40:00",
-      "https://news.ycombinator.com/item?id=46375067"
-    ],
-    [
-      "Show HN: LoongArch Userspace Emulator",
-      "https://github.com/libriscv/libloong"
     ]
   ]
 ]
