@@ -161,16 +161,6 @@
   ],
   [
     [
-      "2025-12-30, 13:55:59",
-      "https://news.ycombinator.com/item?id=46433352"
-    ],
-    [
-      "Igniting the GPU: From Kernel Plumbing to 3D Rendering on RISC-V",
-      "https://mwilczynski.dev/posts/riscv-gpu-zink/"
-    ]
-  ],
-  [
-    [
       "2025-12-30, 13:14:40",
       "https://news.ycombinator.com/item?id=46433029"
     ],
@@ -297,6 +287,16 @@
     [
       "Reverse Engineering a Mysterious UDP Stream in My Hotel (2016)",
       "https://www.gkbrk.com/hotel-music"
+    ]
+  ],
+  [
+    [
+      "2025-12-23, 06:14:03",
+      "https://news.ycombinator.com/item?id=46362895"
+    ],
+    [
+      "Scamp (Suite for Computer-Assisted Music in Python)",
+      "https://scamp.marcevanstein.com"
     ]
   ]
 ]
