@@ -41,16 +41,6 @@
   ],
   [
     [
-      "2025-12-31, 02:33:50",
-      "https://news.ycombinator.com/item?id=46440695"
-    ],
-    [
-      "L1TF Reloaded",
-      "https://github.com/ThijsRay/l1tf_reloaded"
-    ]
-  ],
-  [
-    [
       "2025-12-31, 02:01:53",
       "https://news.ycombinator.com/item?id=46440510"
     ],
@@ -257,6 +247,16 @@
     [
       "Mitsubishi Diatone D-160 (1985)",
       "https://audio-database.com/MITSUBISHI-DIATONE/diatonesp/d-160-e.html"
+    ]
+  ],
+  [
+    [
+      "2025-12-28, 08:10:01",
+      "https://news.ycombinator.com/item?id=46409359"
+    ],
+    [
+      "Doom in Django: testing the limits of LiveView at 600.000 divs/segundo",
+      "https://en.andros.dev/blog/7b1b607b/doom-in-django-testing-the-limits-of-liveview-at-600000-divssegundo/"
     ]
   ],
   [
