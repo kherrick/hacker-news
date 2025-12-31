@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-12-31, 05:20:13](https://news.ycombinator.com/item?id=46441592) - [Questions to ask yourself every year](https://gourav.io/blog/yearly-review)
 * [2025-12-31, 03:49:58](https://news.ycombinator.com/item?id=46441068) - [Google Opal](https://opal.google/landing/)
 * [2025-12-31, 03:06:07](https://news.ycombinator.com/item?id=46440833) - [LLVM AI tool policy: human in the loop](https://discourse.llvm.org/t/rfc-llvm-ai-tool-policy-human-in-the-loop/89159)
 * [2025-12-31, 02:33:50](https://news.ycombinator.com/item?id=46440695) - [L1TF Reloaded](https://github.com/ThijsRay/l1tf_reloaded)
@@ -28,6 +27,7 @@
 * [2025-12-29, 10:49:22](https://news.ycombinator.com/item?id=46419311) - [Git analytics that works across GitHub, GitLab, and Bitbucket](https://news.ycombinator.com/item?id=46419311)
 * [2025-12-29, 02:08:08](https://news.ycombinator.com/item?id=46416674) - [Mitsubishi Diatone D-160 (1985)](https://audio-database.com/MITSUBISHI-DIATONE/diatonesp/d-160-e.html)
 * [2025-12-26, 09:34:57](https://news.ycombinator.com/item?id=46390621) - [Animated AI](https://animatedai.github.io/)
+* [2025-12-26, 07:10:12](https://news.ycombinator.com/item?id=46389925) - [Odin: Moving Towards a New \"core:OS\"](https://odin-lang.org/news/moving-towards-a-new-core-os/)
 * [2025-12-26, 01:44:00](https://news.ycombinator.com/item?id=46388445) - [What If Heavy Files Felt Heavy?](https://www.shiveesh.com/thoughts-and-ideas/what-if-heavy-files-actually-felt-heavy)
 * [2025-12-23, 15:21:55](https://news.ycombinator.com/item?id=46366010) - [Reverse Engineering a Mysterious UDP Stream in My Hotel (2016)](https://www.gkbrk.com/hotel-music)
 
