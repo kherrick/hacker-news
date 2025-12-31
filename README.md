@@ -3,8 +3,7 @@
 * [2025-12-31, 10:12:51](https://news.ycombinator.com/item?id=46442903) - [Akin's Laws of Spacecraft Design [pdf]](https://www.ece.uvic.ca/~elec399/201409/Akin%27s%20Laws%20of%20Spacecraft%20Design.pdf)
 * [2025-12-31, 09:09:28](https://news.ycombinator.com/item?id=46442597) - [The rise of industrial software](https://chrisloy.dev/post/2025/12/30/the-rise-of-industrial-software)
 * [2025-12-31, 07:47:44](https://news.ycombinator.com/item?id=46442245) - [Show HN: Use Claude Code to Query 600 GB Indexes over Hacker News, ArXiv, etc.](https://exopriors.com/scry)
-* [2025-12-31, 03:49:58](https://news.ycombinator.com/item?id=46441068) - [Google Opal](https://opal.google/landing/)
-* [2025-12-31, 02:01:53](https://news.ycombinator.com/item?id=46440510) - [Readings in Database Systems (5th Edition)](http://www.redbook.io/)
+* [2025-12-31, 02:01:53](https://news.ycombinator.com/item?id=46440510) - [Readings in Database Systems (5th Edition) (2015)](http://www.redbook.io/)
 * [2025-12-30, 21:59:35](https://news.ycombinator.com/item?id=46438522) - [Honey's Dieselgate: Detecting and tricking testers](https://vptdigital.com/blog/honey-detecting-testers/)
 * [2025-12-30, 21:44:07](https://news.ycombinator.com/item?id=46438390) - [OpenAI's cash burn will be one of the big bubble questions of 2026](https://www.economist.com/leaders/2025/12/30/openais-cash-burn-will-be-one-of-the-big-bubble-questions-of-2026)
 * [2025-12-30, 20:53:59](https://news.ycombinator.com/item?id=46437876) - [Sabotaging Bitcoin](https://blog.dshr.org/2025/12/sabotaging-bitcoin.html)
@@ -29,6 +28,7 @@
 * [2025-12-26, 18:20:10](https://news.ycombinator.com/item?id=46394651) - [Tixl: Open-source realtime motion graphics](https://github.com/tixl3d/tixl)
 * [2025-12-26, 09:34:57](https://news.ycombinator.com/item?id=46390621) - [Animated AI](https://animatedai.github.io/)
 * [2025-12-26, 07:10:12](https://news.ycombinator.com/item?id=46389925) - [Odin: Moving Towards a New \"core:OS\"](https://odin-lang.org/news/moving-towards-a-new-core-os/)
+* [2025-12-24, 16:04:12](https://news.ycombinator.com/item?id=46376704) - [Kitchen Optimizations](https://www.natemeyvis.com/kitchen-optimizations/)
 * [2025-12-24, 15:17:48](https://news.ycombinator.com/item?id=46376307) - ['Three norths' alignment about to end](https://www.spatialsource.com.au/three-norths-alignment-about-to-end/)
 
 ## [Archives](archives/index.md)

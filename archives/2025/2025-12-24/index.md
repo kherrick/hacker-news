@@ -39,6 +39,7 @@
 * [2025-12-24, 16:44:17](https://news.ycombinator.com/item?id=46377070) - [Show HN: A local-first, reversible PII scrubber for AI workflows](https://medium.com/@tj.ruesch/a-local-first-reversible-pii-scrubber-for-ai-workflows-using-onnx-and-regex-e9850a7531fc)
 * [2025-12-24, 16:30:40](https://news.ycombinator.com/item?id=46376944) - [Show HN: No more writing shitty regexes to police usernames](https://www.username.dev)
 * [2025-12-24, 16:21:10](https://news.ycombinator.com/item?id=46376848) - [Mt. Gox CEO Karpelès Reveals Details of 2014 Collapse and Japanese Detention](https://bitcoinmagazine.com/business/former-mt-gox-ceo-mark-karpeles-reveals-details-of-2014-collapse-and-japanese-detention)
+* [2025-12-24, 16:04:12](https://news.ycombinator.com/item?id=46376704) - [Kitchen Optimizations](https://www.natemeyvis.com/kitchen-optimizations/)
 * [2025-12-24, 15:59:23](https://news.ycombinator.com/item?id=46376652) - [My 2026 Open Social Web Predictions](https://www.timothychambers.net/2025/12/23/my-open-social-web-predictions.html)
 * [2025-12-24, 15:53:41](https://news.ycombinator.com/item?id=46376608) - [Detect memory leaks of C extensions with psutil and psleak](https://gmpy.dev/blog/2025/psutil-heap-introspection-apis)
 * [2025-12-24, 15:17:48](https://news.ycombinator.com/item?id=46376307) - ['Three norths' alignment about to end](https://www.spatialsource.com.au/three-norths-alignment-about-to-end/)
