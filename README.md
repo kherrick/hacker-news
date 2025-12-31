@@ -22,12 +22,12 @@
 * [2025-12-30, 18:36:37](https://news.ycombinator.com/item?id=46436409) - [A faster heart for F-Droid](https://f-droid.org/2025/12/30/a-faster-heart-for-f-droid.html)
 * [2025-12-29, 03:25:35](https://news.ycombinator.com/item?id=46417162) - [Demystifying DVDs](https://hiddenpalace.org/News/One_Bad_Ass_Hedgehog_-_Shadow_the_Hedgehog#Demystifying_DVDs)
 * [2025-12-28, 08:10:01](https://news.ycombinator.com/item?id=46409359) - [Doom in Django: testing the limits of LiveView at 600.000 divs/segundo](https://en.andros.dev/blog/7b1b607b/doom-in-django-testing-the-limits-of-liveview-at-600000-divssegundo/)
+* [2025-12-27, 18:11:16](https://news.ycombinator.com/item?id=46403813) - [39C3 Grafana Dashboard](https://dashboard.congress.ccc.de/public-dashboards/e6cf86b287304662b4d1b8eb31b5ab50)
 * [2025-12-27, 12:21:30](https://news.ycombinator.com/item?id=46401340) - [RoboCop – Breaking the Law. H0ffman Cracks RoboCop Arcade from DataEast](https://hoffman.home.blog/2025/12/26/robocop-breaking-the-law/)
 * [2025-12-26, 19:43:50](https://news.ycombinator.com/item?id=46395438) - [My role as a founder-CTO: year 8](https://miguelcarranza.es/cto-year-8)
 * [2025-12-26, 18:20:10](https://news.ycombinator.com/item?id=46394651) - [Tixl: Open-source realtime motion graphics](https://github.com/tixl3d/tixl)
 * [2025-12-26, 09:34:57](https://news.ycombinator.com/item?id=46390621) - [Animated AI](https://animatedai.github.io/)
 * [2025-12-26, 08:30:36](https://news.ycombinator.com/item?id=46390312) - [Microtonal Spiral Piano](https://shih1.github.io/spiral/)
-* [2025-12-25, 03:49:33](https://news.ycombinator.com/item?id=46381901) - [Winnie-the-Pooh brings 100 years of fame to forest](https://www.bbc.com/news/articles/c4g9dzj1xj3o)
 * [2025-12-24, 21:42:07](https://news.ycombinator.com/item?id=46379562) - [Back to the future: the story of Squeak, a practical Smalltalk written in itself [pdf] (1997)](http://www.vpri.org/pdf/tr1997001_backto.pdf)
 * [2025-12-24, 16:04:12](https://news.ycombinator.com/item?id=46376704) - [Kitchen optimizations](https://www.natemeyvis.com/kitchen-optimizations/)
 
