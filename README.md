@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-12-31, 22:11:33](https://news.ycombinator.com/item?id=46448894) - [Scientists unlock brain's natural clean-up system for new treatments for stroke](https://www.monash.edu/pharm/about/news/news-listing/latest/scientists-unlock-brains-natural-clean-up-system-to-develop-new-treatments-for-stroke-and-other-neurological-diseases)
 * [2025-12-31, 21:44:42](https://news.ycombinator.com/item?id=46448705) - [Warren Buffett steps down as Berkshire Hathaway CEO after six decades](https://www.latimes.com/business/story/2025-12-31/warren-buffett-steps-down-as-berkshire-hathaway-ceo-after-six-decades)
 * [2025-12-31, 20:14:31](https://news.ycombinator.com/item?id=46447827) - [All-optical synthesis chip for large-scale intelligent semantic vision](https://www.science.org/doi/10.1126/science.adv7434)
 * [2025-12-31, 19:08:39](https://news.ycombinator.com/item?id=46447202) - [Blog: PyPI in 2025: A Year in Review](https://blog.pypi.org/posts/2025-12-31-pypi-2025-in-review/)
@@ -10,7 +11,6 @@
 * [2025-12-31, 17:00:40](https://news.ycombinator.com/item?id=46445905) - [SigNoz (YC W21, open source observability platform) is hiring across roles](https://signoz.io/careers)
 * [2025-12-31, 15:52:51](https://news.ycombinator.com/item?id=46445195) - [Scaffolding to Superhuman: How Curriculum Learning Solved 2048 and Tetris](https://kywch.github.io/blog/2025/12/curriculum-learning-2048-tetris/)
 * [2025-12-31, 15:46:34](https://news.ycombinator.com/item?id=46445131) - [The compiler is your best friend](https://blog.daniel-beskin.com/2025-12-22-the-compiler-is-your-best-friend-stop-lying-to-it)
-* [2025-12-31, 15:06:52](https://news.ycombinator.com/item?id=46444743) - [France targets Australia-style social media ban for children next year](https://www.theguardian.com/world/2025/dec/31/france-plans-social-media-ban-for-under-15s-from-september-2026)
 * [2025-12-31, 13:59:09](https://news.ycombinator.com/item?id=46444076) - [Efficient method to capture carbon dioxide from the atmosphere](https://www.helsinki.fi/en/news/innovations/efficient-method-capture-carbon-dioxide-atmosphere-developed-university-helsinki)
 * [2025-12-31, 13:50:41](https://news.ycombinator.com/item?id=46444020) - [How AI labs are solving the power problem](https://newsletter.semianalysis.com/p/how-ai-labs-are-solving-the-power)
 * [2025-12-31, 13:44:41](https://news.ycombinator.com/item?id=46443988) - [When square pixels aren't square](https://alexwlchan.net/2025/square-pixels/)

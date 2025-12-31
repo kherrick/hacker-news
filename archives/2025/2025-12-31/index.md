@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-12-31](index.md)
 
+* [2025-12-31, 22:11:33](https://news.ycombinator.com/item?id=46448894) - [Scientists unlock brain's natural clean-up system for new treatments for stroke](https://www.monash.edu/pharm/about/news/news-listing/latest/scientists-unlock-brains-natural-clean-up-system-to-develop-new-treatments-for-stroke-and-other-neurological-diseases)
 * [2025-12-31, 21:44:42](https://news.ycombinator.com/item?id=46448705) - [Warren Buffett steps down as Berkshire Hathaway CEO after six decades](https://www.latimes.com/business/story/2025-12-31/warren-buffett-steps-down-as-berkshire-hathaway-ceo-after-six-decades)
 * [2025-12-31, 20:37:16](https://news.ycombinator.com/item?id=46448031) - [Happy New Year HN](https://tenor.com/view/gg-gif-12398339126318398543)
 * [2025-12-31, 20:32:48](https://news.ycombinator.com/item?id=46447986) - [RunAgent Genie – Ultimate Prompt Engineering Game with Advanced Guardrails](https://genie.run-agent.ai/)
