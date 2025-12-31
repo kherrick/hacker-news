@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-12-31, 14:43:38",
+      "https://news.ycombinator.com/item?id=46444481"
+    ],
+    [
+      "Zero-Code Instrumentation of an Envoy TCP Proxy Using eBPF",
+      "https://sergiocipriano.com/beyla-envoy.html"
+    ]
+  ],
+  [
+    [
+      "2025-12-31, 14:33:40",
+      "https://news.ycombinator.com/item?id=46444367"
+    ],
+    [
+      "OpenAI Is Paying Employees More Than Any Major Tech Startup in History",
+      "https://www.wsj.com/tech/ai/openai-is-paying-employees-more-than-any-major-tech-startup-in-history-23472527"
+    ]
+  ],
+  [
+    [
       "2025-12-31, 14:19:21",
       "https://news.ycombinator.com/item?id=46444249"
     ],
@@ -21,12 +41,12 @@
   ],
   [
     [
-      "2025-12-31, 13:50:41",
-      "https://news.ycombinator.com/item?id=46444020"
+      "2025-12-31, 13:44:41",
+      "https://news.ycombinator.com/item?id=46443988"
     ],
     [
-      "AI Labs Are Solving the Power Problem",
-      "https://newsletter.semianalysis.com/p/how-ai-labs-are-solving-the-power"
+      "When square pixels aren't square",
+      "https://alexwlchan.net/2025/square-pixels/"
     ]
   ],
   [
@@ -67,16 +87,6 @@
     [
       "Activeloop (YC S18) Is Hiring MTS – Back End Engineer",
       "https://careers.activeloop.ai/?ashby_jid=d8c54147-5fc8-48ba-a097-a6ae046c42bd"
-    ]
-  ],
-  [
-    [
-      "2025-12-31, 10:48:02",
-      "https://news.ycombinator.com/item?id=46443077"
-    ],
-    [
-      "Show HN: I built a universal clipboard that syncs realtime on multiple devices",
-      "https://www.quickclip.space/"
     ]
   ],
   [
@@ -161,16 +171,6 @@
   ],
   [
     [
-      "2025-12-30, 18:08:32",
-      "https://news.ycombinator.com/item?id=46436127"
-    ],
-    [
-      "Electrolysis can solve one of our biggest contamination problems",
-      "https://ethz.ch/en/news-and-events/eth-news/news/2025/11/electrolysis-can-solve-one-of-our-biggest-contamination-problems.html"
-    ]
-  ],
-  [
-    [
       "2025-12-30, 17:24:57",
       "https://news.ycombinator.com/item?id=46435614"
     ],
@@ -221,16 +221,6 @@
   ],
   [
     [
-      "2025-12-29, 02:08:08",
-      "https://news.ycombinator.com/item?id=46416674"
-    ],
-    [
-      "Mitsubishi Diatone D-160 (1985)",
-      "https://audio-database.com/MITSUBISHI-DIATONE/diatonesp/d-160-e.html"
-    ]
-  ],
-  [
-    [
       "2025-12-28, 12:42:11",
       "https://news.ycombinator.com/item?id=46410676"
     ],
@@ -277,6 +267,16 @@
     [
       "Odin: Moving Towards a New \"core:OS\"",
       "https://odin-lang.org/news/moving-towards-a-new-core-os/"
+    ]
+  ],
+  [
+    [
+      "2025-12-25, 03:49:33",
+      "https://news.ycombinator.com/item?id=46381901"
+    ],
+    [
+      "Winnie-the-Pooh brings 100 years of fame to forest",
+      "https://www.bbc.com/news/articles/c4g9dzj1xj3o"
     ]
   ],
   [
