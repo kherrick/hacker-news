@@ -64,6 +64,7 @@
 * [2025-12-23, 07:58:25](https://news.ycombinator.com/item?id=46363360) - [Instant database clones with PostgreSQL 18](https://boringsql.com/posts/instant-database-clones/)
 * [2025-12-23, 07:50:03](https://news.ycombinator.com/item?id=46363319) - [10 years bootstrapped: €6.5M revenue with a team of 13](https://www.datocms.com/blog/a-look-back-at-2025)
 * [2025-12-23, 06:22:21](https://news.ycombinator.com/item?id=46362927) - [iOS 26.3 Brings AirPods-Like Pairing to Third-Party Devices in EU Under DMA](https://www.macrumors.com/2025/12/22/ios-26-3-dma-airpods-pairing/)
+* [2025-12-23, 06:14:03](https://news.ycombinator.com/item?id=46362895) - [Scamp (Suite for Computer-Assisted Music in Python)](https://scamp.marcevanstein.com)
 * [2025-12-23, 05:17:50](https://news.ycombinator.com/item?id=46362655) - [Show HN: CineCLI – Browse and torrent movies directly from your terminal](https://github.com/eyeblech/cinecli)
 * [2025-12-23, 03:57:02](https://news.ycombinator.com/item?id=46362275) - [FCC Updates Covered List to Include Foreign UAS and UAS Critical Components [pdf]](https://docs.fcc.gov/public/attachments/DOC-416839A1.pdf)
 * [2025-12-23, 03:44:22](https://news.ycombinator.com/item?id=46362214) - [Archivists Posted the 60 Minutes Cecot Segment Bari Weiss Killed](https://www.404media.co/archivists-posted-the-60-minutes-cecot-segment-bari-weiss-killed/)
