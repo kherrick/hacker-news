@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-12-31, 15:39:58](https://news.ycombinator.com/item?id=46445068) - [Stardew Valley developer made a $125k donation to the FOSS C# framework MonoGame](https://monogame.net/blog/2025-12-30-385-new-sponsor-announcement/)
 * [2025-12-31, 14:51:28](https://news.ycombinator.com/item?id=46444564) - [Drugmakers raise US prices on 350 medicines despite pressure](https://www.reuters.com/business/healthcare-pharmaceuticals/drugmakers-raise-us-prices-350-medicines-despite-pressure-trump-2025-12-31/)
 * [2025-12-31, 14:43:38](https://news.ycombinator.com/item?id=46444481) - [Zero-Code Instrumentation of an Envoy TCP Proxy Using eBPF](https://sergiocipriano.com/beyla-envoy.html)
 * [2025-12-31, 14:33:40](https://news.ycombinator.com/item?id=46444367) - [OpenAI Is Paying Employees More Than Any Major Tech Startup in History](https://www.wsj.com/tech/ai/openai-is-paying-employees-more-than-any-major-tech-startup-in-history-23472527)
@@ -19,7 +20,6 @@
 * [2025-12-30, 18:36:37](https://news.ycombinator.com/item?id=46436409) - [A faster heart for F-Droid](https://f-droid.org/2025/12/30/a-faster-heart-for-f-droid.html)
 * [2025-12-30, 17:24:57](https://news.ycombinator.com/item?id=46435614) - [A Vulnerability in Libsodium](https://00f.net/2025/12/30/libsodium-vulnerability/)
 * [2025-12-30, 17:01:59](https://news.ycombinator.com/item?id=46435308) - [Show HN: 22 GB of Hacker News in SQLite](https://hackerbook.dosaygo.com)
-* [2025-12-30, 13:14:40](https://news.ycombinator.com/item?id=46433029) - [No strcpy either](https://daniel.haxx.se/blog/2025/12/29/no-strcpy-either/)
 * [2025-12-30, 11:42:55](https://news.ycombinator.com/item?id=46432311) - [Non-Zero-Sum Games](https://nonzerosum.games/)
 * [2025-12-29, 19:09:08](https://news.ycombinator.com/item?id=46424173) - [Loss32: Let's Build a Win32/Linux](https://loss32.org/)
 * [2025-12-28, 12:42:11](https://news.ycombinator.com/item?id=46410676) - [A super fast website using Cloudflare workers](https://crazyfast.website)

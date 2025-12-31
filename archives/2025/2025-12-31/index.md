@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-12-31](index.md)
 
+* [2025-12-31, 15:39:58](https://news.ycombinator.com/item?id=46445068) - [Stardew Valley developer made a $125k donation to the FOSS C# framework MonoGame](https://monogame.net/blog/2025-12-30-385-new-sponsor-announcement/)
 * [2025-12-31, 14:51:28](https://news.ycombinator.com/item?id=46444564) - [Drugmakers raise US prices on 350 medicines despite pressure](https://www.reuters.com/business/healthcare-pharmaceuticals/drugmakers-raise-us-prices-350-medicines-despite-pressure-trump-2025-12-31/)
 * [2025-12-31, 14:43:38](https://news.ycombinator.com/item?id=46444481) - [Zero-Code Instrumentation of an Envoy TCP Proxy Using eBPF](https://sergiocipriano.com/beyla-envoy.html)
 * [2025-12-31, 14:33:40](https://news.ycombinator.com/item?id=46444367) - [OpenAI Is Paying Employees More Than Any Major Tech Startup in History](https://www.wsj.com/tech/ai/openai-is-paying-employees-more-than-any-major-tech-startup-in-history-23472527)
