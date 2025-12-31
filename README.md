@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-12-31, 21:44:42](https://news.ycombinator.com/item?id=46448705) - [Warren Buffett steps down as Berkshire Hathaway CEO after six decades](https://www.latimes.com/business/story/2025-12-31/warren-buffett-steps-down-as-berkshire-hathaway-ceo-after-six-decades)
-* [2025-12-31, 20:32:48](https://news.ycombinator.com/item?id=46447986) - [RunAgent Genie – Ultimate Prompt Engineering Game with Advanced Guardrails](https://genie.run-agent.ai/)
 * [2025-12-31, 20:14:31](https://news.ycombinator.com/item?id=46447827) - [All-optical synthesis chip for large-scale intelligent semantic vision](https://www.science.org/doi/10.1126/science.adv7434)
 * [2025-12-31, 19:08:39](https://news.ycombinator.com/item?id=46447202) - [Blog: PyPI in 2025: A Year in Review](https://blog.pypi.org/posts/2025-12-31-pypi-2025-in-review/)
 * [2025-12-31, 18:39:40](https://news.ycombinator.com/item?id=46446938) - [Privacy and control. My tech setup](https://toidiu.com/blog/2025-12-25-privacy-and-control/)
@@ -22,8 +21,9 @@
 * [2025-12-31, 09:09:28](https://news.ycombinator.com/item?id=46442597) - [The rise of industrial software](https://chrisloy.dev/post/2025/12/30/the-rise-of-industrial-software)
 * [2025-12-31, 07:47:44](https://news.ycombinator.com/item?id=46442245) - [Show HN: Use Claude Code to Query 600 GB Indexes over Hacker News, ArXiv, etc.](https://exopriors.com/scry)
 * [2025-12-29, 03:25:35](https://news.ycombinator.com/item?id=46417162) - [Demystifying DVDs](https://hiddenpalace.org/News/One_Bad_Ass_Hedgehog_-_Shadow_the_Hedgehog#Demystifying_DVDs)
+* [2025-12-28, 08:16:49](https://news.ycombinator.com/item?id=46409379) - [Observed Agent Sandbox Bypasses](https://voratiq.com/blog/yolo-in-the-sandbox/)
 * [2025-12-28, 08:10:01](https://news.ycombinator.com/item?id=46409359) - [Doom in Django: testing the limits of LiveView at 600.000 divs/segundo](https://en.andros.dev/blog/7b1b607b/doom-in-django-testing-the-limits-of-liveview-at-600000-divssegundo/)
-* [2025-12-27, 00:03:56](https://news.ycombinator.com/item?id=46397760) - [Reality crushed Ÿnsect startup that had raised over $600M for insect farming](https://techcrunch.com/2025/12/26/how-reality-crushed-ynsect-the-french-startup-that-had-raised-over-600m-for-insect-farming/)
+* [2025-12-27, 00:03:56](https://news.ycombinator.com/item?id=46397760) - [Ÿnsect, a French insect farming startup, has been declared bankrupt](https://techcrunch.com/2025/12/26/how-reality-crushed-ynsect-the-french-startup-that-had-raised-over-600m-for-insect-farming/)
 * [2025-12-26, 19:43:50](https://news.ycombinator.com/item?id=46395438) - [My role as a founder-CTO: year 8](https://miguelcarranza.es/cto-year-8)
 * [2025-12-26, 18:20:10](https://news.ycombinator.com/item?id=46394651) - [Tixl: Open-source realtime motion graphics](https://github.com/tixl3d/tixl)
 * [2025-12-26, 08:30:36](https://news.ycombinator.com/item?id=46390312) - [Microtonal Spiral Piano](https://shih1.github.io/spiral/)
