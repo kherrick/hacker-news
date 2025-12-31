@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-12-31, 09:09:28",
+      "https://news.ycombinator.com/item?id=46442597"
+    ],
+    [
+      "The rise of industrial software",
+      "https://chrisloy.dev/post/2025/12/30/the-rise-of-industrial-software"
+    ]
+  ],
+  [
+    [
       "2025-12-31, 07:47:44",
       "https://news.ycombinator.com/item?id=46442245"
     ],
@@ -191,6 +201,16 @@
   ],
   [
     [
+      "2025-12-30, 13:01:51",
+      "https://news.ycombinator.com/item?id=46432916"
+    ],
+    [
+      "Approachable Swift Concurrency",
+      "https://fuckingapproachableswiftconcurrency.com/en/"
+    ]
+  ],
+  [
+    [
       "2025-12-30, 12:56:07",
       "https://news.ycombinator.com/item?id=46432862"
     ],
@@ -231,16 +251,6 @@
   ],
   [
     [
-      "2025-12-29, 10:49:22",
-      "https://news.ycombinator.com/item?id=46419311"
-    ],
-    [
-      "Git analytics that works across GitHub, GitLab, and Bitbucket",
-      "https://news.ycombinator.com/item?id=46419311"
-    ]
-  ],
-  [
-    [
       "2025-12-29, 02:08:08",
       "https://news.ycombinator.com/item?id=46416674"
     ],
@@ -277,16 +287,6 @@
     [
       "Odin: Moving Towards a New \"core:OS\"",
       "https://odin-lang.org/news/moving-towards-a-new-core-os/"
-    ]
-  ],
-  [
-    [
-      "2025-12-26, 01:44:00",
-      "https://news.ycombinator.com/item?id=46388445"
-    ],
-    [
-      "What If Heavy Files Felt Heavy?",
-      "https://www.shiveesh.com/thoughts-and-ideas/what-if-heavy-files-actually-felt-heavy"
     ]
   ],
   [
