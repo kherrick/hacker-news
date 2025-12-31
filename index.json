@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-12-31, 13:07:22",
+      "https://news.ycombinator.com/item?id=46443767"
+    ],
+    [
+      "Claude wrote a functional NES emulator using my engine's API",
+      "https://carimbo.games/games/nintendo/"
+    ]
+  ],
+  [
+    [
       "2025-12-31, 13:02:48",
       "https://news.ycombinator.com/item?id=46443744"
     ],
@@ -197,16 +207,6 @@
     [
       "Loss32: Let's Build a Win32/Linux",
       "https://loss32.org/"
-    ]
-  ],
-  [
-    [
-      "2025-12-29, 17:12:20",
-      "https://news.ycombinator.com/item?id=46422757"
-    ],
-    [
-      "Five Years of Tinygrad",
-      "https://geohot.github.io//blog/jekyll/update/2025/12/29/five-years-of-tinygrad.html"
     ]
   ],
   [
