@@ -16,6 +16,7 @@
 * [2025-12-30, 17:24:57](https://news.ycombinator.com/item?id=46435614) - [A Vulnerability in Libsodium](https://00f.net/2025/12/30/libsodium-vulnerability/)
 * [2025-12-30, 17:09:57](https://news.ycombinator.com/item?id=46435418) - [Toro: Deploy Applications as Unikernels](https://github.com/torokernel/torokernel)
 * [2025-12-30, 17:01:59](https://news.ycombinator.com/item?id=46435308) - [Show HN: 22 GB of Hacker News in SQLite](https://hackerbook.dosaygo.com)
+* [2025-12-30, 14:58:18](https://news.ycombinator.com/item?id=46433915) - [What Happened to Abit Motherboards](https://dfarq.homeip.net/what-happened-to-abit-motherboards/)
 * [2025-12-30, 13:14:40](https://news.ycombinator.com/item?id=46433029) - [No strcpy either](https://daniel.haxx.se/blog/2025/12/29/no-strcpy-either/)
 * [2025-12-30, 13:10:56](https://news.ycombinator.com/item?id=46432999) - [The British empire's resilient subsea telegraph network](https://subseacables.blogspot.com/2025/12/the-british-empires-resilient-subsea.html)
 * [2025-12-30, 13:01:51](https://news.ycombinator.com/item?id=46432916) - [Approachable Swift Concurrency](https://fuckingapproachableswiftconcurrency.com/en/)
@@ -25,11 +26,10 @@
 * [2025-12-29, 17:12:20](https://news.ycombinator.com/item?id=46422757) - [Five Years of Tinygrad](https://geohot.github.io//blog/jekyll/update/2025/12/29/five-years-of-tinygrad.html)
 * [2025-12-29, 10:49:22](https://news.ycombinator.com/item?id=46419311) - [Git analytics that works across GitHub, GitLab, and Bitbucket](https://news.ycombinator.com/item?id=46419311)
 * [2025-12-29, 02:08:08](https://news.ycombinator.com/item?id=46416674) - [Mitsubishi Diatone D-160 (1985)](https://audio-database.com/MITSUBISHI-DIATONE/diatonesp/d-160-e.html)
+* [2025-12-26, 18:20:10](https://news.ycombinator.com/item?id=46394651) - [Tixl: Open-source realtime motion graphics](https://github.com/tixl3d/tixl)
 * [2025-12-26, 09:34:57](https://news.ycombinator.com/item?id=46390621) - [Animated AI](https://animatedai.github.io/)
 * [2025-12-26, 07:10:12](https://news.ycombinator.com/item?id=46389925) - [Odin: Moving Towards a New \"core:OS\"](https://odin-lang.org/news/moving-towards-a-new-core-os/)
 * [2025-12-26, 01:44:00](https://news.ycombinator.com/item?id=46388445) - [What If Heavy Files Felt Heavy?](https://www.shiveesh.com/thoughts-and-ideas/what-if-heavy-files-actually-felt-heavy)
-* [2025-12-23, 15:21:55](https://news.ycombinator.com/item?id=46366010) - [Reverse Engineering a Mysterious UDP Stream in My Hotel (2016)](https://www.gkbrk.com/hotel-music)
-* [2025-12-23, 06:14:03](https://news.ycombinator.com/item?id=46362895) - [Scamp (Suite for Computer-Assisted Music in Python)](https://scamp.marcevanstein.com)
 
 ## [Archives](archives/index.md)
 

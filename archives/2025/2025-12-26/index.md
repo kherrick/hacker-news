@@ -20,6 +20,7 @@
 * [2025-12-26, 19:03:32](https://news.ycombinator.com/item?id=46395106) - [Lewis Carroll Computed Determinants](https://www.johndcook.com/blog/2023/07/10/lewis-carroll-determinants/)
 * [2025-12-26, 18:59:39](https://news.ycombinator.com/item?id=46395061) - [Drawing with zero-width characters](https://zw.swerdlow.dev)
 * [2025-12-26, 18:42:13](https://news.ycombinator.com/item?id=46394867) - [Rob Pike got spammed with an AI slop \"act of kindness\"](https://simonwillison.net/2025/Dec/26/slop-acts-of-kindness/)
+* [2025-12-26, 18:20:10](https://news.ycombinator.com/item?id=46394651) - [Tixl: Open-source realtime motion graphics](https://github.com/tixl3d/tixl)
 * [2025-12-26, 18:17:00](https://news.ycombinator.com/item?id=46394620) - [MongoBleed](https://github.com/joe-desimone/mongobleed/blob/main/mongobleed.py)
 * [2025-12-26, 17:48:25](https://news.ycombinator.com/item?id=46394327) - [FFmpeg has issued a DMCA takedown on GitHub](https://twitter.com/FFmpeg/status/2004599109559496984)
 * [2025-12-26, 17:37:31](https://news.ycombinator.com/item?id=46394228) - [ICE's interest in high-tech gear raises new questions: 'What is it for?'](https://www.politico.com/news/2025/12/26/ice-high-tech-surveillance-lower-privacy-guardrails-00705401)
