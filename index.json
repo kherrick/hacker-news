@@ -25,8 +25,18 @@
       "https://news.ycombinator.com/item?id=46445491"
     ],
     [
-      "2025 was a disaster for Windows 11 as bugs and intrusive features erode trust",
+      "2025 was a disaster for Windows 11",
       "https://www.windowscentral.com/microsoft/windows-11/2025-has-been-an-awful-year-for-windows-11-with-infuriating-bugs-and-constant-unwanted-features"
+    ]
+  ],
+  [
+    [
+      "2025-12-31, 15:55:14",
+      "https://news.ycombinator.com/item?id=46445229"
+    ],
+    [
+      "2026: The Year of Java in the Terminal?",
+      "https://xam.dk/blog/lets-make-2026-the-year-of-java-in-the-terminal/"
     ]
   ],
   [
@@ -45,7 +55,7 @@
       "https://news.ycombinator.com/item?id=46445131"
     ],
     [
-      "The Compiler Is Your Best Friend, Stop Lying to It",
+      "The compiler is your best friend",
       "https://blog.daniel-beskin.com/2025-12-22-the-compiler-is-your-best-friend-stop-lying-to-it"
     ]
   ],
@@ -61,12 +71,12 @@
   ],
   [
     [
-      "2025-12-31, 14:51:28",
-      "https://news.ycombinator.com/item?id=46444564"
+      "2025-12-31, 15:06:52",
+      "https://news.ycombinator.com/item?id=46444743"
     ],
     [
-      "Drugmakers raise US prices on 350 medicines despite pressure",
-      "https://www.reuters.com/business/healthcare-pharmaceuticals/drugmakers-raise-us-prices-350-medicines-despite-pressure-trump-2025-12-31/"
+      "France targets Australia-style social media ban for children next year",
+      "https://www.theguardian.com/world/2025/dec/31/france-plans-social-media-ban-for-under-15s-from-september-2026"
     ]
   ],
   [
@@ -85,7 +95,7 @@
       "https://news.ycombinator.com/item?id=46444076"
     ],
     [
-      "Efficient method to capture CO2 from the atmosphere / Univ of Helsinki",
+      "Efficient method to capture carbon dioxide from the atmosphere",
       "https://www.helsinki.fi/en/news/innovations/efficient-method-capture-carbon-dioxide-atmosphere-developed-university-helsinki"
     ]
   ],
@@ -97,16 +107,6 @@
     [
       "When square pixels aren't square",
       "https://alexwlchan.net/2025/square-pixels/"
-    ]
-  ],
-  [
-    [
-      "2025-12-31, 13:02:48",
-      "https://news.ycombinator.com/item?id=46443744"
-    ],
-    [
-      "Tell HN: Happy New Year",
-      "https://news.ycombinator.com/item?id=46443744"
     ]
   ],
   [
@@ -171,16 +171,6 @@
   ],
   [
     [
-      "2025-12-30, 21:59:35",
-      "https://news.ycombinator.com/item?id=46438522"
-    ],
-    [
-      "Honey's Dieselgate: Detecting and tricking testers",
-      "https://vptdigital.com/blog/honey-detecting-testers/"
-    ]
-  ],
-  [
-    [
       "2025-12-30, 19:21:48",
       "https://news.ycombinator.com/item?id=46436889"
     ],
@@ -197,6 +187,16 @@
     [
       "A faster heart for F-Droid",
       "https://f-droid.org/2025/12/30/a-faster-heart-for-f-droid.html"
+    ]
+  ],
+  [
+    [
+      "2025-12-30, 17:24:57",
+      "https://news.ycombinator.com/item?id=46435614"
+    ],
+    [
+      "A Vulnerability in Libsodium",
+      "https://00f.net/2025/12/30/libsodium-vulnerability/"
     ]
   ],
   [
