@@ -1,6 +1,36 @@
 [
   [
     [
+      "2025-12-31, 02:33:50",
+      "https://news.ycombinator.com/item?id=46440695"
+    ],
+    [
+      "L1TF Reloaded",
+      "https://github.com/ThijsRay/l1tf_reloaded"
+    ]
+  ],
+  [
+    [
+      "2025-12-31, 02:01:53",
+      "https://news.ycombinator.com/item?id=46440510"
+    ],
+    [
+      "Readings in Database Systems (5th Edition)",
+      "http://www.redbook.io/"
+    ]
+  ],
+  [
+    [
+      "2025-12-31, 00:49:55",
+      "https://news.ycombinator.com/item?id=46440066"
+    ],
+    [
+      "S&P500 Priced in Gold",
+      "https://pricedingold.com/sp-500/"
+    ]
+  ],
+  [
+    [
       "2025-12-31, 00:03:50",
       "https://news.ycombinator.com/item?id=46439769"
     ],
@@ -17,16 +47,6 @@
     [
       "Show HN: RAMBnB.xyz P2P marketplace for RAM rentals",
       "https://www.rambnb.xyz"
-    ]
-  ],
-  [
-    [
-      "2025-12-30, 22:47:36",
-      "https://news.ycombinator.com/item?id=46439027"
-    ],
-    [
-      "Project ideas to appreciate the art of programming",
-      "https://codecrafters.io/blog/programming-project-ideas"
     ]
   ],
   [
@@ -51,32 +71,12 @@
   ],
   [
     [
-      "2025-12-30, 21:22:53",
-      "https://news.ycombinator.com/item?id=46438169"
-    ],
-    [
-      "Humans May Be Able to Grow New Teeth Within Just 4 Years",
-      "https://www.popularmechanics.com/science/health/a69878870/human-new-tooth-regrowth-trials-japan-timeline/"
-    ]
-  ],
-  [
-    [
       "2025-12-30, 20:06:46",
       "https://news.ycombinator.com/item?id=46437391"
     ],
     [
       "Professional software developers don't vibe, they control",
       "https://arxiv.org/abs/2512.14012"
-    ]
-  ],
-  [
-    [
-      "2025-12-30, 20:05:42",
-      "https://news.ycombinator.com/item?id=46437381"
-    ],
-    [
-      "Everything as code: How we manage our company in one monorepo",
-      "https://www.kasava.dev/blog/everything-as-code-monorepo"
     ]
   ],
   [
@@ -167,16 +167,6 @@
     [
       "What Happened to Abit Motherboards",
       "https://dfarq.homeip.net/what-happened-to-abit-motherboards/"
-    ]
-  ],
-  [
-    [
-      "2025-12-30, 14:31:34",
-      "https://news.ycombinator.com/item?id=46433661"
-    ],
-    [
-      "Hive (YC S14) Is Hiring a Staff Software Engineer (Data Systems)",
-      "https://jobs.ashbyhq.com/hive.co/cb0dc490-0e32-4734-8d91-8b56a31ed497"
     ]
   ],
   [
@@ -281,12 +271,22 @@
   ],
   [
     [
-      "2025-12-24, 22:04:57",
-      "https://news.ycombinator.com/item?id=46379765"
+      "2025-12-26, 09:34:57",
+      "https://news.ycombinator.com/item?id=46390621"
     ],
     [
-      "Postgres extension complements pgvector for performance and scale",
-      "https://github.com/timescale/pgvectorscale"
+      "Animated AI",
+      "https://animatedai.github.io/"
+    ]
+  ],
+  [
+    [
+      "2025-12-26, 01:44:00",
+      "https://news.ycombinator.com/item?id=46388445"
+    ],
+    [
+      "What If Heavy Files Felt Heavy?",
+      "https://www.shiveesh.com/thoughts-and-ideas/what-if-heavy-files-actually-felt-heavy"
     ]
   ],
   [
