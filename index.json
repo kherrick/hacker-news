@@ -1,32 +1,32 @@
 [
   [
     [
+      "2025-12-31, 00:03:50",
+      "https://news.ycombinator.com/item?id=46439769"
+    ],
+    [
+      "Quality of drinking water varies significantly by airline",
+      "https://foodmedcenter.org/2026-center-for-food-as-medicine-longevity-airline-water-study/"
+    ]
+  ],
+  [
+    [
+      "2025-12-30, 23:32:06",
+      "https://news.ycombinator.com/item?id=46439489"
+    ],
+    [
+      "Show HN: RAMBnB.xyz P2P marketplace for RAM rentals",
+      "https://www.rambnb.xyz"
+    ]
+  ],
+  [
+    [
       "2025-12-30, 22:47:36",
       "https://news.ycombinator.com/item?id=46439027"
     ],
     [
       "Project ideas to appreciate the art of programming",
       "https://codecrafters.io/blog/programming-project-ideas"
-    ]
-  ],
-  [
-    [
-      "2025-12-30, 22:28:16",
-      "https://news.ycombinator.com/item?id=46438828"
-    ],
-    [
-      "NYC Mayoral Inauguration bans Raspberry Pi and Flipper Zero alongside explosives",
-      "https://blog.adafruit.com/2025/12/30/nyc-mayoral-inauguration-bans-raspberry-pi-and-flipper-zero-alongside-explosives/"
-    ]
-  ],
-  [
-    [
-      "2025-12-30, 22:12:52",
-      "https://news.ycombinator.com/item?id=46438642"
-    ],
-    [
-      "Coase's Penguin, Or, Linux and the Nature of the Firm [pdf]",
-      "https://www.benkler.org/CoasesPenguin.PDF"
     ]
   ],
   [
@@ -57,16 +57,6 @@
     [
       "Humans May Be Able to Grow New Teeth Within Just 4 Years",
       "https://www.popularmechanics.com/science/health/a69878870/human-new-tooth-regrowth-trials-japan-timeline/"
-    ]
-  ],
-  [
-    [
-      "2025-12-30, 20:53:59",
-      "https://news.ycombinator.com/item?id=46437876"
-    ],
-    [
-      "Sabotaging Bitcoin",
-      "https://blog.dshr.org/2025/12/sabotaging-bitcoin.html"
     ]
   ],
   [
@@ -125,7 +115,7 @@
       "https://news.ycombinator.com/item?id=46436409"
     ],
     [
-      "A faster heart for F-Droid. Our new server is here",
+      "A faster heart for F-Droid",
       "https://f-droid.org/2025/12/30/a-faster-heart-for-f-droid.html"
     ]
   ],
@@ -271,6 +261,16 @@
   ],
   [
     [
+      "2025-12-29, 17:12:20",
+      "https://news.ycombinator.com/item?id=46422757"
+    ],
+    [
+      "Five Years of Tinygrad",
+      "https://geohot.github.io//blog/jekyll/update/2025/12/29/five-years-of-tinygrad.html"
+    ]
+  ],
+  [
+    [
       "2025-12-29, 02:08:08",
       "https://news.ycombinator.com/item?id=46416674"
     ],
@@ -281,22 +281,22 @@
   ],
   [
     [
+      "2025-12-24, 22:04:57",
+      "https://news.ycombinator.com/item?id=46379765"
+    ],
+    [
+      "Postgres extension complements pgvector for performance and scale",
+      "https://github.com/timescale/pgvectorscale"
+    ]
+  ],
+  [
+    [
       "2025-12-23, 15:21:55",
       "https://news.ycombinator.com/item?id=46366010"
     ],
     [
       "Reverse Engineering a Mysterious UDP Stream in My Hotel (2016)",
       "https://www.gkbrk.com/hotel-music"
-    ]
-  ],
-  [
-    [
-      "2025-12-23, 02:33:24",
-      "https://news.ycombinator.com/item?id=46361766"
-    ],
-    [
-      "Braid Math Article",
-      "https://mathvoices.ams.org/mathmedia/tonys-take-april-2022/"
     ]
   ]
 ]
