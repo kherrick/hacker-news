@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-12-31](index.md)
 
+* [2025-12-31, 17:00:40](https://news.ycombinator.com/item?id=46445905) - [SigNoz (YC W21, open source observability platform) Is Hiring across roles](https://signoz.io/careers)
 * [2025-12-31, 16:20:08](https://news.ycombinator.com/item?id=46445491) - [2025 was a disaster for Windows 11 as bugs and intrusive features erode trust](https://www.windowscentral.com/microsoft/windows-11/2025-has-been-an-awful-year-for-windows-11-with-infuriating-bugs-and-constant-unwanted-features)
 * [2025-12-31, 15:55:14](https://news.ycombinator.com/item?id=46445229) - [2026: The Year of Java in the Terminal](https://xam.dk/blog/lets-make-2026-the-year-of-java-in-the-terminal/)
 * [2025-12-31, 15:52:51](https://news.ycombinator.com/item?id=46445195) - [Scaffolding to Superhuman: How Curriculum Learning Solved 2048 and Tetris](https://kywch.github.io/blog/2025/12/curriculum-learning-2048-tetris/)

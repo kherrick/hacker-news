@@ -45,6 +45,7 @@
 * [2025-12-27, 13:13:00](https://news.ycombinator.com/item?id=46401612) - [Floor796](https://floor796.com/)
 * [2025-12-27, 12:58:12](https://news.ycombinator.com/item?id=46401539) - [Apple releases open-source model that instantly turns 2D photos into 3D views](https://github.com/apple/ml-sharp)
 * [2025-12-27, 12:51:15](https://news.ycombinator.com/item?id=46401499) - [OrangePi 6 Plus Review: The New Frontier for ARM64 SBC Performance](https://boilingsteam.com/orange-pi-6-plus-review/)
+* [2025-12-27, 12:21:30](https://news.ycombinator.com/item?id=46401340) - [RoboCop – Breaking the Law. H0ffman Cracks RoboCop Arcade from DataEast](https://hoffman.home.blog/2025/12/26/robocop-breaking-the-law/)
 * [2025-12-27, 11:57:17](https://news.ycombinator.com/item?id=46401190) - [Splice a Fibre](https://react-networks-lib.rackout.net/fibre)
 * [2025-12-27, 11:30:40](https://news.ycombinator.com/item?id=46401052) - [Flame Graphs vs. Tree Maps vs. Sunburst (2017)](https://www.brendangregg.com/blog/2017-02-06/flamegraphs-vs-treemaps-vs-sunburst.html)
 * [2025-12-27, 11:05:46](https://news.ycombinator.com/item?id=46400927) - [Cursed Bundler: Using go get to install Ruby Gems](https://nesbitt.io/2025/12/25/cursed-bundler-using-go-get-to-install-ruby-gems.html)
