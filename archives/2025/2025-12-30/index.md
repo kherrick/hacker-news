@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-12-30](index.md)
 
+* [2025-12-30, 23:32:06](https://news.ycombinator.com/item?id=46439489) - [Show HN: RAMBnB.xyz P2P marketplace for RAM rentals](https://www.rambnb.xyz)
 * [2025-12-30, 22:47:36](https://news.ycombinator.com/item?id=46439027) - [Project ideas to appreciate the art of programming](https://codecrafters.io/blog/programming-project-ideas)
 * [2025-12-30, 22:28:16](https://news.ycombinator.com/item?id=46438828) - [NYC Mayoral Inauguration bans Raspberry Pi and Flipper Zero alongside explosives](https://blog.adafruit.com/2025/12/30/nyc-mayoral-inauguration-bans-raspberry-pi-and-flipper-zero-alongside-explosives/)
 * [2025-12-30, 22:12:52](https://news.ycombinator.com/item?id=46438642) - [Coase's Penguin, Or, Linux and the Nature of the Firm [pdf]](https://www.benkler.org/CoasesPenguin.PDF)
