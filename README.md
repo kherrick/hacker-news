@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-12-31, 17:45:13](https://news.ycombinator.com/item?id=46446395) - [New York's incoming mayor bans Raspberry Pi at inauguration](https://www.theregister.com/2025/12/31/zohran_mamdani_raspberry_pi_ban/)
 * [2025-12-31, 17:11:56](https://news.ycombinator.com/item?id=46446017) - [The Economics of Duke University](https://dontaylor13.substack.com/p/duke-university)
 * [2025-12-31, 17:00:40](https://news.ycombinator.com/item?id=46445905) - [SigNoz (YC W21, open source observability platform) Is Hiring across roles](https://signoz.io/careers)
 * [2025-12-31, 16:20:08](https://news.ycombinator.com/item?id=46445491) - [2025 was a disaster for Windows 11](https://www.windowscentral.com/microsoft/windows-11/2025-has-been-an-awful-year-for-windows-11-with-infuriating-bugs-and-constant-unwanted-features)
@@ -19,7 +20,6 @@
 * [2025-12-31, 02:01:53](https://news.ycombinator.com/item?id=46440510) - [Readings in Database Systems (5th Edition) (2015)](http://www.redbook.io/)
 * [2025-12-30, 19:21:48](https://news.ycombinator.com/item?id=46436889) - [FediMeteo: A €4 FreeBSD VPS Became a Global Weather Service](https://it-notes.dragas.net/2025/02/26/fedimeteo-how-a-tiny-freebsd-vps-became-a-global-weather-service-for-thousands/)
 * [2025-12-30, 18:36:37](https://news.ycombinator.com/item?id=46436409) - [A faster heart for F-Droid](https://f-droid.org/2025/12/30/a-faster-heart-for-f-droid.html)
-* [2025-12-30, 17:24:57](https://news.ycombinator.com/item?id=46435614) - [A Vulnerability in Libsodium](https://00f.net/2025/12/30/libsodium-vulnerability/)
 * [2025-12-30, 17:01:59](https://news.ycombinator.com/item?id=46435308) - [Show HN: 22 GB of Hacker News in SQLite](https://hackerbook.dosaygo.com)
 * [2025-12-28, 12:42:11](https://news.ycombinator.com/item?id=46410676) - [A super fast website using Cloudflare workers](https://crazyfast.website)
 * [2025-12-28, 08:10:01](https://news.ycombinator.com/item?id=46409359) - [Doom in Django: testing the limits of LiveView at 600.000 divs/segundo](https://en.andros.dev/blog/7b1b607b/doom-in-django-testing-the-limits-of-liveview-at-600000-divssegundo/)

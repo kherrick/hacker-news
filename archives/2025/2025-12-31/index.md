@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-12-31](index.md)
 
+* [2025-12-31, 17:45:13](https://news.ycombinator.com/item?id=46446395) - [New York's incoming mayor bans Raspberry Pi at inauguration](https://www.theregister.com/2025/12/31/zohran_mamdani_raspberry_pi_ban/)
 * [2025-12-31, 17:11:56](https://news.ycombinator.com/item?id=46446017) - [The Economics of Duke University](https://dontaylor13.substack.com/p/duke-university)
 * [2025-12-31, 17:00:40](https://news.ycombinator.com/item?id=46445905) - [SigNoz (YC W21, open source observability platform) Is Hiring across roles](https://signoz.io/careers)
 * [2025-12-31, 16:20:08](https://news.ycombinator.com/item?id=46445491) - [2025 was a disaster for Windows 11 as bugs and intrusive features erode trust](https://www.windowscentral.com/microsoft/windows-11/2025-has-been-an-awful-year-for-windows-11-with-infuriating-bugs-and-constant-unwanted-features)
