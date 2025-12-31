@@ -49,6 +49,7 @@
 * [2025-12-28, 10:12:08](https://news.ycombinator.com/item?id=46409969) - [Last Year on My Mac: Look Back in Disbelief](https://eclecticlight.co/2025/12/28/last-year-on-my-mac-look-back-in-disbelief/)
 * [2025-12-28, 10:04:42](https://news.ycombinator.com/item?id=46409928) - [Hungry Fat Cells Could Someday Starve Cancer to Death](https://www.ucsf.edu/news/2025/01/429411/how-hungry-fat-cells-could-someday-starve-cancer-death)
 * [2025-12-28, 08:15:35](https://news.ycombinator.com/item?id=46409375) - [Ask HN: By what percentage has AI changed your output as a software engineer?](https://news.ycombinator.com/item?id=46409375)
+* [2025-12-28, 08:10:01](https://news.ycombinator.com/item?id=46409359) - [Doom in Django: testing the limits of LiveView at 600.000 divs/segundo](https://en.andros.dev/blog/7b1b607b/doom-in-django-testing-the-limits-of-liveview-at-600000-divssegundo/)
 * [2025-12-28, 07:45:16](https://news.ycombinator.com/item?id=46409245) - [Manus AI 100M USD ARR](https://manus.im/blog/manus-100m-arr)
 * [2025-12-28, 07:14:43](https://news.ycombinator.com/item?id=46409125) - [A new research shows that 21-33% of YouTube's feed may consist of AI slop](https://www.kapwing.com/blog/ai-slop-report-the-global-rise-of-low-quality-ai-videos/)
 * [2025-12-28, 06:43:25](https://news.ycombinator.com/item?id=46408988) - [Growing up in \"404 Not Found\": China's nuclear city in the Gobi Desert](https://substack.com/inbox/post/182743659)
