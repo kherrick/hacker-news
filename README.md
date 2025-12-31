@@ -8,7 +8,7 @@
 * [2025-12-30, 21:44:07](https://news.ycombinator.com/item?id=46438390) - [OpenAI's cash burn will be one of the big bubble questions of 2026](https://www.economist.com/leaders/2025/12/30/openais-cash-burn-will-be-one-of-the-big-bubble-questions-of-2026)
 * [2025-12-30, 20:53:59](https://news.ycombinator.com/item?id=46437876) - [Sabotaging Bitcoin](https://blog.dshr.org/2025/12/sabotaging-bitcoin.html)
 * [2025-12-30, 20:06:46](https://news.ycombinator.com/item?id=46437391) - [Professional software developers don't vibe, they control](https://arxiv.org/abs/2512.14012)
-* [2025-12-30, 19:57:10](https://news.ycombinator.com/item?id=46437288) - [Zpdf: PDF text extraction in Zig – 5x faster than MuPDF](https://github.com/Lulzx/zpdf)
+* [2025-12-30, 19:57:10](https://news.ycombinator.com/item?id=46437288) - [Zpdf: PDF text extraction in Zig](https://github.com/Lulzx/zpdf)
 * [2025-12-30, 19:21:48](https://news.ycombinator.com/item?id=46436889) - [FediMeteo: A €4 FreeBSD VPS Became a Global Weather Service](https://it-notes.dragas.net/2025/02/26/fedimeteo-how-a-tiny-freebsd-vps-became-a-global-weather-service-for-thousands/)
 * [2025-12-30, 19:15:05](https://news.ycombinator.com/item?id=46436828) - [Escaping containment: A security analysis of FreeBSD jails [video]](https://media.ccc.de/v/39c3-escaping-containment-a-security-analysis-of-freebsd-jails)
 * [2025-12-30, 18:36:37](https://news.ycombinator.com/item?id=46436409) - [A faster heart for F-Droid](https://f-droid.org/2025/12/30/a-faster-heart-for-f-droid.html)
