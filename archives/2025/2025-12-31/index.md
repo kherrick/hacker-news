@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-12-31](index.md)
 
+* [2025-12-31, 21:44:42](https://news.ycombinator.com/item?id=46448705) - [Warren Buffett steps down as Berkshire Hathaway CEO after six decades](https://www.latimes.com/business/story/2025-12-31/warren-buffett-steps-down-as-berkshire-hathaway-ceo-after-six-decades)
 * [2025-12-31, 20:37:16](https://news.ycombinator.com/item?id=46448031) - [Happy New Year HN](https://tenor.com/view/gg-gif-12398339126318398543)
 * [2025-12-31, 20:32:48](https://news.ycombinator.com/item?id=46447986) - [RunAgent Genie – Ultimate Prompt Engineering Game with Advanced Guardrails](https://genie.run-agent.ai/)
 * [2025-12-31, 20:14:31](https://news.ycombinator.com/item?id=46447827) - [All-optical synthesis chip for large-scale intelligent semantic vision](https://www.science.org/doi/10.1126/science.adv7434)
@@ -15,6 +16,7 @@
 * [2025-12-31, 18:25:16](https://news.ycombinator.com/item?id=46446800) - [Court report detailing ChatGPT's involvement with a recent murder suicide [pdf]](https://storage.courtlistener.com/recap/gov.uscourts.cand.461878/gov.uscourts.cand.461878.1.0.pdf)
 * [2025-12-31, 18:08:41](https://news.ycombinator.com/item?id=46446642) - [I use Samsung's Wi-Fi menu to seriously improve my connectivity](https://www.zdnet.com/article/how-to-use-samsung-connectivty-labs-secret-wifi-menu/)
 * [2025-12-31, 17:45:13](https://news.ycombinator.com/item?id=46446395) - [New York's incoming mayor bans Raspberry Pi at inauguration](https://www.theregister.com/2025/12/31/zohran_mamdani_raspberry_pi_ban/)
+* [2025-12-31, 17:42:20](https://news.ycombinator.com/item?id=46446366) - [Web Browsers have stopped blocking pop-ups](https://www.smokingonabike.com/2025/12/31/web-browsers-have-stopped-blocking-pop-ups/)
 * [2025-12-31, 17:41:46](https://news.ycombinator.com/item?id=46446359) - [Stewart Cheifet, creator of The Computer Chronicles, dead at 87](https://obits.goldsteinsfuneral.com/stewart-cheifet)
 * [2025-12-31, 17:11:56](https://news.ycombinator.com/item?id=46446017) - [The Economics of Duke University](https://dontaylor13.substack.com/p/duke-university)
 * [2025-12-31, 17:00:40](https://news.ycombinator.com/item?id=46445905) - [SigNoz (YC W21, open source observability platform) Is Hiring across roles](https://signoz.io/careers)
