@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-12-31, 22:25:58](https://news.ycombinator.com/item?id=46448998) - [Resistance training load does not determine hypertrophy](https://physoc.onlinelibrary.wiley.com/doi/10.1113/JP289684)
 * [2025-12-31, 22:11:33](https://news.ycombinator.com/item?id=46448894) - [Scientists unlock brain's natural clean-up system for new treatments for stroke](https://www.monash.edu/pharm/about/news/news-listing/latest/scientists-unlock-brains-natural-clean-up-system-to-develop-new-treatments-for-stroke-and-other-neurological-diseases)
 * [2025-12-31, 21:44:42](https://news.ycombinator.com/item?id=46448705) - [Warren Buffett steps down as Berkshire Hathaway CEO after six decades](https://www.latimes.com/business/story/2025-12-31/warren-buffett-steps-down-as-berkshire-hathaway-ceo-after-six-decades)
 * [2025-12-31, 20:14:31](https://news.ycombinator.com/item?id=46447827) - [All-optical synthesis chip for large-scale intelligent semantic vision](https://www.science.org/doi/10.1126/science.adv7434)
@@ -25,7 +26,6 @@
 * [2025-12-28, 08:10:01](https://news.ycombinator.com/item?id=46409359) - [Doom in Django: testing the limits of LiveView at 600.000 divs/segundo](https://en.andros.dev/blog/7b1b607b/doom-in-django-testing-the-limits-of-liveview-at-600000-divssegundo/)
 * [2025-12-27, 00:03:56](https://news.ycombinator.com/item?id=46397760) - [Ÿnsect, a French insect farming startup, has been been placed into liquidation](https://techcrunch.com/2025/12/26/how-reality-crushed-ynsect-the-french-startup-that-had-raised-over-600m-for-insect-farming/)
 * [2025-12-26, 19:43:50](https://news.ycombinator.com/item?id=46395438) - [My role as a founder-CTO: year 8](https://miguelcarranza.es/cto-year-8)
-* [2025-12-26, 18:20:10](https://news.ycombinator.com/item?id=46394651) - [Tixl: Open-source realtime motion graphics](https://github.com/tixl3d/tixl)
 * [2025-12-26, 08:30:36](https://news.ycombinator.com/item?id=46390312) - [Microtonal Spiral Piano](https://shih1.github.io/spiral/)
 * [2025-12-25, 13:38:38](https://news.ycombinator.com/item?id=46384322) - [Show HN: Frockly – A visual editor for understanding complex Excel formulas](https://news.ycombinator.com/item?id=46384322)
 * [2025-12-24, 21:42:07](https://news.ycombinator.com/item?id=46379562) - [Back to the future: the story of Squeak, a practical Smalltalk written in itself [pdf] (1997)](http://www.vpri.org/pdf/tr1997001_backto.pdf)
