@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-12-31, 16:20:08",
+      "https://news.ycombinator.com/item?id=46445491"
+    ],
+    [
+      "2025 was a disaster for Windows 11 as bugs and intrusive features erode trust",
+      "https://www.windowscentral.com/microsoft/windows-11/2025-has-been-an-awful-year-for-windows-11-with-infuriating-bugs-and-constant-unwanted-features"
+    ]
+  ],
+  [
+    [
       "2025-12-31, 15:55:14",
       "https://news.ycombinator.com/item?id=46445229"
     ],
@@ -17,6 +27,16 @@
     [
       "Scaffolding to Superhuman: How Curriculum Learning Solved 2048 and Tetris",
       "https://kywch.github.io/blog/2025/12/curriculum-learning-2048-tetris/"
+    ]
+  ],
+  [
+    [
+      "2025-12-31, 15:46:34",
+      "https://news.ycombinator.com/item?id=46445131"
+    ],
+    [
+      "The Compiler Is Your Best Friend, Stop Lying to It",
+      "https://blog.daniel-beskin.com/2025-12-22-the-compiler-is-your-best-friend-stop-lying-to-it"
     ]
   ],
   [
@@ -121,12 +141,12 @@
   ],
   [
     [
-      "2025-12-31, 12:12:20",
-      "https://news.ycombinator.com/item?id=46443486"
+      "2025-12-31, 12:01:10",
+      "https://news.ycombinator.com/item?id=46443438"
     ],
     [
-      "Who Invented the Transistor?",
-      "https://people.idsia.ch/~juergen/who-invented-the-transistor.html"
+      "Activeloop (YC S18) Is Hiring MTS – Back End Engineer",
+      "https://careers.activeloop.ai/?ashby_jid=d8c54147-5fc8-48ba-a097-a6ae046c42bd"
     ]
   ],
   [
@@ -137,16 +157,6 @@
     [
       "Akin's Laws of Spacecraft Design [pdf]",
       "https://www.ece.uvic.ca/~elec399/201409/Akin%27s%20Laws%20of%20Spacecraft%20Design.pdf"
-    ]
-  ],
-  [
-    [
-      "2025-12-31, 09:09:28",
-      "https://news.ycombinator.com/item?id=46442597"
-    ],
-    [
-      "The rise of industrial software",
-      "https://chrisloy.dev/post/2025/12/30/the-rise-of-industrial-software"
     ]
   ],
   [
@@ -217,16 +227,6 @@
     [
       "Show HN: 22 GB of Hacker News in SQLite",
       "https://hackerbook.dosaygo.com"
-    ]
-  ],
-  [
-    [
-      "2025-12-28, 12:42:11",
-      "https://news.ycombinator.com/item?id=46410676"
-    ],
-    [
-      "A super fast website using Cloudflare workers",
-      "https://crazyfast.website"
     ]
   ],
   [
