@@ -4,9 +4,12 @@
 
 ### [Archives](../../index.md) for [2025-12-31](index.md)
 
+* [2025-12-31, 14:43:38](https://news.ycombinator.com/item?id=46444481) - [Zero-Code Instrumentation of an Envoy TCP Proxy Using eBPF](https://sergiocipriano.com/beyla-envoy.html)
+* [2025-12-31, 14:33:40](https://news.ycombinator.com/item?id=46444367) - [OpenAI Is Paying Employees More Than Any Major Tech Startup in History](https://www.wsj.com/tech/ai/openai-is-paying-employees-more-than-any-major-tech-startup-in-history-23472527)
 * [2025-12-31, 14:19:21](https://news.ycombinator.com/item?id=46444249) - [Iron Beam: Israel's first operational anti drone laser system](https://mod.gov.il/en/press-releases/press-room/israel-mod-and-rafael-deliver-first-operational-high-power-laser-system-iron-beam-to-the-idf)
 * [2025-12-31, 13:59:09](https://news.ycombinator.com/item?id=46444076) - [Efficient method to capture CO2 from the atmosphere / Univ of Helsinki](https://www.helsinki.fi/en/news/innovations/efficient-method-capture-carbon-dioxide-atmosphere-developed-university-helsinki)
 * [2025-12-31, 13:50:41](https://news.ycombinator.com/item?id=46444020) - [AI Labs Are Solving the Power Problem](https://newsletter.semianalysis.com/p/how-ai-labs-are-solving-the-power)
+* [2025-12-31, 13:44:41](https://news.ycombinator.com/item?id=46443988) - [When square pixels aren't square](https://alexwlchan.net/2025/square-pixels/)
 * [2025-12-31, 13:07:22](https://news.ycombinator.com/item?id=46443767) - [Claude wrote a functional NES emulator using my engine's API](https://carimbo.games/games/nintendo/)
 * [2025-12-31, 13:02:48](https://news.ycombinator.com/item?id=46443744) - [Tell HN: Happy New Year](https://news.ycombinator.com/item?id=46443744)
 * [2025-12-31, 12:32:27](https://news.ycombinator.com/item?id=46443579) - [Fifteen Most Famous Transcendental Numbers](https://sprott.physics.wisc.edu/pickover/trans.html)

@@ -38,6 +38,7 @@
 * [2025-12-25, 08:58:23](https://news.ycombinator.com/item?id=46383139) - [Self-referencing Page Tables for the x86-Architecture](https://0l.de/blog/2015/01/bachelor-thesis-abstract/)
 * [2025-12-25, 04:47:38](https://news.ycombinator.com/item?id=46382134) - [Free Software Foundation receives historic private donations](https://www.fsf.org/news/free-software-foundation-receives-historic-private-donations)
 * [2025-12-25, 04:13:00](https://news.ycombinator.com/item?id=46382011) - [Ruby 4.0.0 Released](https://www.ruby-lang.org/en/news/2025/12/25/ruby-4-0-0-released/)
+* [2025-12-25, 03:49:33](https://news.ycombinator.com/item?id=46381901) - [Winnie-the-Pooh brings 100 years of fame to forest](https://www.bbc.com/news/articles/c4g9dzj1xj3o)
 * [2025-12-25, 03:33:52](https://news.ycombinator.com/item?id=46381839) - [Python Applied Mathematics Labs](https://labs.acme.byu.edu/Pages/intro.html)
 * [2025-12-25, 03:26:58](https://news.ycombinator.com/item?id=46381813) - [Microsoft denies rewriting Windows 11 in Rust using AI](https://www.windowslatest.com/2025/12/24/microsoft-denies-rewriting-windows-11-using-ai-after-an-employees-one-engineer-one-month-one-million-code-post-on-linkedin-causes-outrage/)
 * [2025-12-25, 02:59:24](https://news.ycombinator.com/item?id=46381681) - [The most damaging taboo about sexual violence](https://write.as/3k6gb4heu8whz)
