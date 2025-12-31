@@ -40,6 +40,7 @@
 * [2025-12-27, 14:36:43](https://news.ycombinator.com/item?id=46402132) - [Concurrent Hash Table Designs](https://bluuewhale.github.io/posts/concurrent-hashmap-designs/)
 * [2025-12-27, 14:13:58](https://news.ycombinator.com/item?id=46401982) - [Why is calling my asm function from Rust slower than calling it from C?](https://ohadravid.github.io/posts/2025-12-rav1d-faster-asm/)
 * [2025-12-27, 14:05:44](https://news.ycombinator.com/item?id=46401938) - [NMH BASIC](https://t3x.org/nmhbasic/index.html)
+* [2025-12-27, 13:50:28](https://news.ycombinator.com/item?id=46401849) - [The Organists Improvising Soundtracks to Silent Films](https://www.newyorker.com/magazine/2025/12/29/the-organists-improvising-soundtracks-to-silent-films)
 * [2025-12-27, 13:47:16](https://news.ycombinator.com/item?id=46401832) - [Show HN: An immutable ostree-based Arch Linux image](https://github.com/myyc/vyy)
 * [2025-12-27, 13:13:00](https://news.ycombinator.com/item?id=46401612) - [Floor796](https://floor796.com/)
 * [2025-12-27, 12:58:12](https://news.ycombinator.com/item?id=46401539) - [Apple releases open-source model that instantly turns 2D photos into 3D views](https://github.com/apple/ml-sharp)
