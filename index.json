@@ -31,21 +31,11 @@
   ],
   [
     [
-      "2025-12-31, 03:49:58",
-      "https://news.ycombinator.com/item?id=46441068"
-    ],
-    [
-      "Google Opal",
-      "https://opal.google/landing/"
-    ]
-  ],
-  [
-    [
       "2025-12-31, 02:01:53",
       "https://news.ycombinator.com/item?id=46440510"
     ],
     [
-      "Readings in Database Systems (5th Edition)",
+      "Readings in Database Systems (5th Edition) (2015)",
       "http://www.redbook.io/"
     ]
   ],
@@ -287,6 +277,16 @@
     [
       "Odin: Moving Towards a New \"core:OS\"",
       "https://odin-lang.org/news/moving-towards-a-new-core-os/"
+    ]
+  ],
+  [
+    [
+      "2025-12-24, 16:04:12",
+      "https://news.ycombinator.com/item?id=46376704"
+    ],
+    [
+      "Kitchen Optimizations",
+      "https://www.natemeyvis.com/kitchen-optimizations/"
     ]
   ],
   [
