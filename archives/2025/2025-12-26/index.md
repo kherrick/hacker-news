@@ -58,6 +58,7 @@
 * [2025-12-26, 09:43:23](https://news.ycombinator.com/item?id=46390667) - [Geometric Algorithms for Translucency Sorting in Minecraft [pdf]](https://douira.dev/assets/document/douira-master-thesis.pdf)
 * [2025-12-26, 09:34:57](https://news.ycombinator.com/item?id=46390621) - [Animated AI](https://animatedai.github.io/)
 * [2025-12-26, 08:52:48](https://news.ycombinator.com/item?id=46390397) - [Pandas with Rows (2022)](https://datapythonista.me/blog/pandas-with-hundreds-of-millions-of-rows)
+* [2025-12-26, 08:30:36](https://news.ycombinator.com/item?id=46390312) - [Microtonal Spiral Piano](https://shih1.github.io/spiral/)
 * [2025-12-26, 08:09:32](https://news.ycombinator.com/item?id=46390218) - [Show HN: Euclidle – Guess the Coordinates in N‑Dimensional Space](https://euclidle.com/)
 * [2025-12-26, 07:56:58](https://news.ycombinator.com/item?id=46390154) - [The Signature Flicker](https://steipete.me/posts/2025/signature-flicker)
 * [2025-12-26, 07:48:28](https://news.ycombinator.com/item?id=46390123) - [The AI Noise](https://rishi.monster/posts/time-intelligence-economy-part-1-the-ai-noise/)
