@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-12-31, 20:37:16](https://news.ycombinator.com/item?id=46448031) - [Happy New Year HN](https://tenor.com/view/gg-gif-12398339126318398543)
 * [2025-12-31, 20:14:31](https://news.ycombinator.com/item?id=46447827) - [All-optical synthesis chip for large-scale intelligent semantic vision](https://www.science.org/doi/10.1126/science.adv7434)
 * [2025-12-31, 18:39:40](https://news.ycombinator.com/item?id=46446938) - [Privacy and control. My tech setup](https://toidiu.com/blog/2025-12-25-privacy-and-control/)
 * [2025-12-31, 18:28:41](https://news.ycombinator.com/item?id=46446838) - [Meta created 'playbook' to fend off pressure to crack down on scammers](https://www.reuters.com/investigations/meta-created-playbook-fend-off-pressure-crack-down-scammers-documents-show-2025-12-31/)
@@ -25,7 +24,8 @@
 * [2025-12-28, 08:10:01](https://news.ycombinator.com/item?id=46409359) - [Doom in Django: testing the limits of LiveView at 600.000 divs/segundo](https://en.andros.dev/blog/7b1b607b/doom-in-django-testing-the-limits-of-liveview-at-600000-divssegundo/)
 * [2025-12-27, 18:11:16](https://news.ycombinator.com/item?id=46403813) - [39C3 Grafana Dashboard](https://dashboard.congress.ccc.de/public-dashboards/e6cf86b287304662b4d1b8eb31b5ab50)
 * [2025-12-27, 12:21:30](https://news.ycombinator.com/item?id=46401340) - [RoboCop – Breaking the Law. H0ffman Cracks RoboCop Arcade from DataEast](https://hoffman.home.blog/2025/12/26/robocop-breaking-the-law/)
-* [2025-12-26, 19:43:50](https://news.ycombinator.com/item?id=46395438) - [My role as a founder-CTO: year 8](https://miguelcarranza.es/cto-year-8)
+* [2025-12-26, 18:20:10](https://news.ycombinator.com/item?id=46394651) - [Tixl: Open-source realtime motion graphics](https://github.com/tixl3d/tixl)
+* [2025-12-26, 09:34:57](https://news.ycombinator.com/item?id=46390621) - [Animated AI](https://animatedai.github.io/)
 * [2025-12-26, 08:30:36](https://news.ycombinator.com/item?id=46390312) - [Microtonal Spiral Piano](https://shih1.github.io/spiral/)
 * [2025-12-25, 13:38:38](https://news.ycombinator.com/item?id=46384322) - [Show HN: Frockly – A visual editor for understanding complex Excel formulas](https://news.ycombinator.com/item?id=46384322)
 * [2025-12-24, 21:42:07](https://news.ycombinator.com/item?id=46379562) - [Back to the future: the story of Squeak, a practical Smalltalk written in itself [pdf] (1997)](http://www.vpri.org/pdf/tr1997001_backto.pdf)
