@@ -5,7 +5,9 @@
 ### [Archives](../../index.md) for [2025-12-31](index.md)
 
 * [2025-12-31, 18:28:41](https://news.ycombinator.com/item?id=46446838) - [Meta created 'playbook' to fend off pressure to crack down on scammers](https://www.reuters.com/investigations/meta-created-playbook-fend-off-pressure-crack-down-scammers-documents-show-2025-12-31/)
+* [2025-12-31, 18:26:32](https://news.ycombinator.com/item?id=46446815) - [I canceled my book deal](https://austinhenley.com/blog/canceledbookdeal.html)
 * [2025-12-31, 18:25:16](https://news.ycombinator.com/item?id=46446800) - [Court report detailing ChatGPT's involvement with a recent murder suicide [pdf]](https://storage.courtlistener.com/recap/gov.uscourts.cand.461878/gov.uscourts.cand.461878.1.0.pdf)
+* [2025-12-31, 18:08:41](https://news.ycombinator.com/item?id=46446642) - [I use Samsung's Wi-Fi menu to seriously improve my connectivity](https://www.zdnet.com/article/how-to-use-samsung-connectivty-labs-secret-wifi-menu/)
 * [2025-12-31, 17:45:13](https://news.ycombinator.com/item?id=46446395) - [New York's incoming mayor bans Raspberry Pi at inauguration](https://www.theregister.com/2025/12/31/zohran_mamdani_raspberry_pi_ban/)
 * [2025-12-31, 17:41:46](https://news.ycombinator.com/item?id=46446359) - [Stewart Cheifet, creator of The Computer Chronicles, dead at 87](https://obits.goldsteinsfuneral.com/stewart-cheifet)
 * [2025-12-31, 17:11:56](https://news.ycombinator.com/item?id=46446017) - [The Economics of Duke University](https://dontaylor13.substack.com/p/duke-university)
