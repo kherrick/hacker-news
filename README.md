@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-12-31, 10:12:51](https://news.ycombinator.com/item?id=46442903) - [Akin's Laws of Spacecraft Design [pdf]](https://www.ece.uvic.ca/~elec399/201409/Akin%27s%20Laws%20of%20Spacecraft%20Design.pdf)
 * [2025-12-31, 09:09:28](https://news.ycombinator.com/item?id=46442597) - [The rise of industrial software](https://chrisloy.dev/post/2025/12/30/the-rise-of-industrial-software)
 * [2025-12-31, 07:47:44](https://news.ycombinator.com/item?id=46442245) - [Show HN: Use Claude Code to Query 600 GB Indexes over Hacker News, ArXiv, etc.](https://exopriors.com/scry)
 * [2025-12-31, 03:49:58](https://news.ycombinator.com/item?id=46441068) - [Google Opal](https://opal.google/landing/)
-* [2025-12-31, 03:06:07](https://news.ycombinator.com/item?id=46440833) - [LLVM AI tool policy: human in the loop](https://discourse.llvm.org/t/rfc-llvm-ai-tool-policy-human-in-the-loop/89159)
 * [2025-12-31, 02:01:53](https://news.ycombinator.com/item?id=46440510) - [Readings in Database Systems (5th Edition)](http://www.redbook.io/)
 * [2025-12-30, 21:59:35](https://news.ycombinator.com/item?id=46438522) - [Honey's Dieselgate: Detecting and tricking testers](https://vptdigital.com/blog/honey-detecting-testers/)
 * [2025-12-30, 21:44:07](https://news.ycombinator.com/item?id=46438390) - [OpenAI's cash burn will be one of the big bubble questions of 2026](https://www.economist.com/leaders/2025/12/30/openais-cash-burn-will-be-one-of-the-big-bubble-questions-of-2026)
