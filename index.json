@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-12-31, 12:01:10",
+      "https://news.ycombinator.com/item?id=46443438"
+    ],
+    [
+      "Activeloop (YC S18) Is Hiring MTS – Back End Engineer",
+      "https://careers.activeloop.ai/?ashby_jid=d8c54147-5fc8-48ba-a097-a6ae046c42bd"
+    ]
+  ],
+  [
+    [
+      "2025-12-31, 10:48:02",
+      "https://news.ycombinator.com/item?id=46443077"
+    ],
+    [
+      "Show HN: I built a universal clipboard that syncs realtime on multiple devices",
+      "https://www.quickclip.space/"
+    ]
+  ],
+  [
+    [
       "2025-12-31, 10:12:51",
       "https://news.ycombinator.com/item?id=46442903"
     ],
@@ -27,16 +47,6 @@
     [
       "Show HN: Use Claude Code to Query 600 GB Indexes over Hacker News, ArXiv, etc.",
       "https://exopriors.com/scry"
-    ]
-  ],
-  [
-    [
-      "2025-12-31, 03:49:58",
-      "https://news.ycombinator.com/item?id=46441068"
-    ],
-    [
-      "Google Opal",
-      "https://opal.google/landing/"
     ]
   ],
   [
@@ -77,16 +87,6 @@
     [
       "Sabotaging Bitcoin",
       "https://blog.dshr.org/2025/12/sabotaging-bitcoin.html"
-    ]
-  ],
-  [
-    [
-      "2025-12-30, 20:06:46",
-      "https://news.ycombinator.com/item?id=46437391"
-    ],
-    [
-      "Professional software developers don't vibe, they control",
-      "https://arxiv.org/abs/2512.14012"
     ]
   ],
   [
@@ -191,16 +191,6 @@
   ],
   [
     [
-      "2025-12-30, 12:56:07",
-      "https://news.ycombinator.com/item?id=46432862"
-    ],
-    [
-      "Times New American: A Tale of Two Fonts",
-      "https://hsu.cy/2025/12/times-new-american/"
-    ]
-  ],
-  [
-    [
       "2025-12-30, 11:42:55",
       "https://news.ycombinator.com/item?id=46432311"
     ],
@@ -247,6 +237,16 @@
     [
       "Doom in Django: testing the limits of LiveView at 600.000 divs/segundo",
       "https://en.andros.dev/blog/7b1b607b/doom-in-django-testing-the-limits-of-liveview-at-600000-divssegundo/"
+    ]
+  ],
+  [
+    [
+      "2025-12-27, 13:50:28",
+      "https://news.ycombinator.com/item?id=46401849"
+    ],
+    [
+      "The Organists Improvising Soundtracks to Silent Films",
+      "https://www.newyorker.com/magazine/2025/12/29/the-organists-improvising-soundtracks-to-silent-films"
     ]
   ],
   [
