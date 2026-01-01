@@ -13,7 +13,7 @@
 * [2026-01-01, 17:52:30](https://news.ycombinator.com/item?id=46456215) - [Memory Subsystem Optimizations](https://johnnysswlab.com/memory-subsystem-optimizations/)
 * [2026-01-01, 17:18:01](https://news.ycombinator.com/item?id=46455872) - [Cameras and Lenses (2020)](https://ciechanow.ski/cameras-and-lenses/)
 * [2026-01-01, 15:49:42](https://news.ycombinator.com/item?id=46454977) - [BYD Sells 4.6M Vehicles in 2025, Meets Revised Sales Goal](https://www.bloomberg.com/news/articles/2026-01-01/byd-sells-4-6-million-vehicles-in-2025-meets-revised-sales-goal)
-* [2026-01-01, 15:48:31](https://news.ycombinator.com/item?id=46454968) - [Implementing HNSW (Hierarchical Navigable Small World) Vector Search in PHP](https://centamori.com/index.php?slug=hierarchical-navigable-small-world-hnsw-php&lang=en)
+* [2026-01-01, 15:48:31](https://news.ycombinator.com/item?id=46454968) - [Hierarchical Navigable Small World (HNSW) in PHP](https://centamori.com/index.php?slug=hierarchical-navigable-small-world-hnsw-php&lang=en)
 * [2026-01-01, 15:47:17](https://news.ycombinator.com/item?id=46454958) - [Common Lisp SDK for the Datastar Hypermedia Framework](https://github.com/fsmunoz/datastar-cl)
 * [2026-01-01, 15:09:06](https://news.ycombinator.com/item?id=46454693) - [Show HN: OpenWorkers – Self-hosted Cloudflare workers in Rust](https://openworkers.com/introducing-openworkers)
 * [2026-01-01, 14:53:50](https://news.ycombinator.com/item?id=46454587) - [Build a Deep Learning Library](https://zekcrates.quarto.pub/deep-learning-library/)
