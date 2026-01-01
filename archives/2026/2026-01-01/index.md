@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-01-01](index.md)
 
+* [2026-01-01, 21:24:39](https://news.ycombinator.com/item?id=46458165) - [Straussian Memes: A Lens on Techniques for Mass Persuasion](https://www.lesswrong.com/posts/CAwnnKoFdcQucq4hG/straussian-memes-a-lens-on-techniques-for-mass-persuasion)
 * [2026-01-01, 21:10:31](https://news.ycombinator.com/item?id=46458029) - [Cycling Game (Mini Neural Net Demo)](https://www.doc.ic.ac.uk/~ajd/Cycling/)
 * [2026-01-01, 20:53:23](https://news.ycombinator.com/item?id=46457912) - [Show HN: Tasker – An open-source desktop agent for browser and OS automation](https://automatewithtasker.com/)
 * [2026-01-01, 20:36:46](https://news.ycombinator.com/item?id=46457784) - [A website to destroy all websites](https://henry.codes/writing/a-website-to-destroy-all-websites/)

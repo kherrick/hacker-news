@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-01-01, 21:24:39](https://news.ycombinator.com/item?id=46458165) - [Straussian Memes: A Lens on Techniques for Mass Persuasion](https://www.lesswrong.com/posts/CAwnnKoFdcQucq4hG/straussian-memes-a-lens-on-techniques-for-mass-persuasion)
 * [2026-01-01, 21:10:31](https://news.ycombinator.com/item?id=46458029) - [Cycling Game (Mini Neural Net Demo)](https://www.doc.ic.ac.uk/~ajd/Cycling/)
 * [2026-01-01, 20:53:23](https://news.ycombinator.com/item?id=46457912) - [Show HN: Tasker – An open-source desktop agent for browser and OS automation](https://automatewithtasker.com/)
 * [2026-01-01, 20:36:46](https://news.ycombinator.com/item?id=46457784) - [A website to destroy all websites](https://henry.codes/writing/a-website-to-destroy-all-websites/)
@@ -20,7 +21,6 @@
 * [2026-01-01, 14:53:50](https://news.ycombinator.com/item?id=46454587) - [Build a Deep Learning Library](https://zekcrates.quarto.pub/deep-learning-library/)
 * [2026-01-01, 14:39:23](https://news.ycombinator.com/item?id=46454470) - [Python numbers every programmer should know](https://mkennedy.codes/posts/python-numbers-every-programmer-should-know/)
 * [2026-01-01, 14:32:12](https://news.ycombinator.com/item?id=46454413) - [2025 Letter](https://danwang.co/2025-letter/)
-* [2026-01-01, 14:12:42](https://news.ycombinator.com/item?id=46454274) - [Joseph Campbell Meets George Lucas – Part I (2015)](https://www.starwars.com/news/mythic-discovery-within-the-inner-reaches-of-outer-space-joseph-campbell-meets-george-lucas-part-i)
 * [2026-01-01, 13:30:45](https://news.ycombinator.com/item?id=46453950) - [iOS allows alternative browser engines in Japan](https://developer.apple.com/support/alternative-browser-engines-jp/)
 * [2026-01-01, 11:17:18](https://news.ycombinator.com/item?id=46453204) - [Bluetooth Headphone Jacking: A Key to Your Phone [video]](https://media.ccc.de/v/39c3-bluetooth-headphone-jacking-a-key-to-your-phone)
 * [2026-01-01, 11:01:38](https://news.ycombinator.com/item?id=46453114) - [I rebooted my social life](https://takes.jamesomalley.co.uk/p/this-might-be-oversharing)
