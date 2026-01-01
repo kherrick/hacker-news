@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2026-01-01, 19:11:53",
+      "https://news.ycombinator.com/item?id=46457027"
+    ],
+    [
+      "Dell's version of the DGX Spark fixes pain points",
+      "https://www.jeffgeerling.com/blog/2025/dells-version-dgx-spark-fixes-pain-points"
+    ]
+  ],
+  [
+    [
       "2026-01-01, 18:46:07",
       "https://news.ycombinator.com/item?id=46456797"
     ],
@@ -57,16 +67,6 @@
     [
       "Sony PS5 ROM keys leaked – jailbreaking could be made easier with BootROM codes",
       "https://www.tomshardware.com/video-games/playstation/playstation-5-rom-keys-leaked-jailbreaking-could-be-made-easier-with-bootrom-codes"
-    ]
-  ],
-  [
-    [
-      "2026-01-01, 15:54:03",
-      "https://news.ycombinator.com/item?id=46455021"
-    ],
-    [
-      "The Curious Case of the Shallow Session SPAs",
-      "https://calendar.perfplanet.com/2025/the-curious-case-of-the-shallow-session-spas/"
     ]
   ],
   [
@@ -231,6 +231,16 @@
   ],
   [
     [
+      "2025-12-31, 18:26:32",
+      "https://news.ycombinator.com/item?id=46446815"
+    ],
+    [
+      "I canceled my book deal",
+      "https://austinhenley.com/blog/canceledbookdeal.html"
+    ]
+  ],
+  [
+    [
       "2025-12-30, 08:19:08",
       "https://news.ycombinator.com/item?id=46430815"
     ],
@@ -267,16 +277,6 @@
     [
       "Easel Turns One One year of building my own IDE in Clojure",
       "https://blog.phronemophobic.com/easel-one-year.html"
-    ]
-  ],
-  [
-    [
-      "2025-12-27, 13:59:16",
-      "https://news.ycombinator.com/item?id=46401899"
-    ],
-    [
-      "Beyond the Nat: Cgnat, Bandwidth, and Practical Tunneling",
-      "https://blog.rastrian.dev/post/beyond-the-nat-cgnat-bandwidth-and-practical-tunneling"
     ]
   ],
   [
