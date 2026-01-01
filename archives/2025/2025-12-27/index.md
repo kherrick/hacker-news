@@ -45,6 +45,7 @@
 * [2025-12-27, 15:02:30](https://news.ycombinator.com/item?id=46402327) - [We Automated Federal Retirements](https://ndstudio.gov/posts/automating-federal-retirements)
 * [2025-12-27, 14:46:16](https://news.ycombinator.com/item?id=46402202) - [Easel Turns One One year of building my own IDE in Clojure](https://blog.phronemophobic.com/easel-one-year.html)
 * [2025-12-27, 14:36:43](https://news.ycombinator.com/item?id=46402132) - [Concurrent Hash Table Designs](https://bluuewhale.github.io/posts/concurrent-hashmap-designs/)
+* [2025-12-27, 14:25:43](https://news.ycombinator.com/item?id=46402059) - [How to construct complex data declaratively and progressively?](https://github.com/allmonday/pydantic-resolve)
 * [2025-12-27, 14:13:58](https://news.ycombinator.com/item?id=46401982) - [Why is calling my asm function from Rust slower than calling it from C?](https://ohadravid.github.io/posts/2025-12-rav1d-faster-asm/)
 * [2025-12-27, 14:05:44](https://news.ycombinator.com/item?id=46401938) - [NMH BASIC](https://t3x.org/nmhbasic/index.html)
 * [2025-12-27, 13:59:16](https://news.ycombinator.com/item?id=46401899) - [Beyond the Nat: Cgnat, Bandwidth, and Practical Tunneling](https://blog.rastrian.dev/post/beyond-the-nat-cgnat-bandwidth-and-practical-tunneling)

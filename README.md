@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2026-01-01, 21:10:31](https://news.ycombinator.com/item?id=46458029) - [Cycling Game (Mini Neural Net Demo)](https://www.doc.ic.ac.uk/~ajd/Cycling/)
+* [2026-01-01, 20:53:23](https://news.ycombinator.com/item?id=46457912) - [Show HN: Tasker – An open-source desktop agent for browser and OS automation](https://automatewithtasker.com/)
 * [2026-01-01, 20:36:46](https://news.ycombinator.com/item?id=46457784) - [A website to destroy all websites](https://henry.codes/writing/a-website-to-destroy-all-websites/)
 * [2026-01-01, 20:35:11](https://news.ycombinator.com/item?id=46457770) - [Linux is good now; to feel like you actually own your PC, put Linux on it](https://www.pcgamer.com/software/linux/im-brave-enough-to-say-it-linux-is-good-now-and-if-you-want-to-feel-like-you-actually-own-your-pc-make-2026-the-year-of-linux-on-your-desktop/)
 * [2026-01-01, 19:33:53](https://news.ycombinator.com/item?id=46457240) - [Prompting People](https://kuber.studio/blog/Reflections/Prompting-People)
 * [2026-01-01, 19:11:53](https://news.ycombinator.com/item?id=46457027) - [Dell's version of the DGX Spark fixes pain points](https://www.jeffgeerling.com/blog/2025/dells-version-dgx-spark-fixes-pain-points)
-* [2026-01-01, 18:49:40](https://news.ycombinator.com/item?id=46456838) - [Modern evidence for God from cosmology, astrochemistry, etc. (by a YC alum)](https://www.saintbeluga.org/follow-the-evidence-wherever-it-leads)
 * [2026-01-01, 18:46:07](https://news.ycombinator.com/item?id=46456797) - [Finland detains ship and its crew after critical undersea cable damaged](https://www.cnn.com/2025/12/31/europe/finland-estonia-undersea-cable-ship-detained-intl)
 * [2026-01-01, 18:34:25](https://news.ycombinator.com/item?id=46456682) - [Building an internal agent: Code-driven vs. LLM-driven workflows](https://lethain.com/agents-coordinators/)
 * [2026-01-01, 18:20:38](https://news.ycombinator.com/item?id=46456543) - [Street-Fighting Mathematics (2008)](https://ocw.mit.edu/courses/18-098-street-fighting-mathematics-january-iap-2008/pages/readings/)
@@ -28,7 +28,7 @@
 * [2025-12-31, 21:27:32](https://news.ycombinator.com/item?id=46448527) - [Love your customers](https://bcantrill.dtrace.org/2025/12/31/love-your-customers/)
 * [2025-12-30, 08:19:08](https://news.ycombinator.com/item?id=46430815) - [Quickemu: Quickly create and run optimised Windows, macOS and Linux VMs](https://github.com/quickemu-project/quickemu)
 * [2025-12-28, 15:54:02](https://news.ycombinator.com/item?id=46411930) - [All my Deutschlandtickets gone: Fraud at an industrial scale [video]](https://media.ccc.de/v/39c3-all-my-deutschlandtickets-gone-fraud-at-an-industrial-scale)
-* [2025-12-27, 08:21:24](https://news.ycombinator.com/item?id=46400158) - [Simple 3D Packing](https://github.com/Vrroom/psacking)
+* [2025-12-27, 14:25:43](https://news.ycombinator.com/item?id=46402059) - [How to construct complex data declaratively and progressively?](https://github.com/allmonday/pydantic-resolve)
 * [2025-12-26, 14:06:47](https://news.ycombinator.com/item?id=46392095) - [C-events, yet another event loop, simpler, smaller, faster, safer](https://zelang-dev.github.io/c-events/)
 
 ## [Archives](archives/index.md)

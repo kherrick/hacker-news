@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2026-01-01](index.md)
 
 * [2026-01-01, 21:10:31](https://news.ycombinator.com/item?id=46458029) - [Cycling Game (Mini Neural Net Demo)](https://www.doc.ic.ac.uk/~ajd/Cycling/)
+* [2026-01-01, 20:53:23](https://news.ycombinator.com/item?id=46457912) - [Show HN: Tasker – An open-source desktop agent for browser and OS automation](https://automatewithtasker.com/)
 * [2026-01-01, 20:36:46](https://news.ycombinator.com/item?id=46457784) - [A website to destroy all websites](https://henry.codes/writing/a-website-to-destroy-all-websites/)
 * [2026-01-01, 20:35:11](https://news.ycombinator.com/item?id=46457770) - [Linux is good now; to feel like you actually own your PC, put Linux on it](https://www.pcgamer.com/software/linux/im-brave-enough-to-say-it-linux-is-good-now-and-if-you-want-to-feel-like-you-actually-own-your-pc-make-2026-the-year-of-linux-on-your-desktop/)
 * [2026-01-01, 19:58:19](https://news.ycombinator.com/item?id=46457454) - [Starlink satellites being lowered from 550 km to 480 km](https://twitter.com/michaelnicollsx/status/2006790372681220530)
