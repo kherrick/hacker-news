@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-01-01, 19:30:19",
+      "https://news.ycombinator.com/item?id=46457196"
+    ],
+    [
+      "Arpanet standardized TCP/IP on this day in 1983",
+      "https://www.tomshardware.com/networking/arpanet-standardized-tcp-ip-on-this-day-in-1983-43-year-old-standard-set-the-foundations-for-todays-internet"
+    ]
+  ],
+  [
+    [
       "2026-01-01, 18:46:07",
       "https://news.ycombinator.com/item?id=46456797"
     ],
@@ -221,16 +231,6 @@
   ],
   [
     [
-      "2025-12-31, 18:26:32",
-      "https://news.ycombinator.com/item?id=46446815"
-    ],
-    [
-      "I canceled my book deal",
-      "https://austinhenley.com/blog/canceledbookdeal.html"
-    ]
-  ],
-  [
-    [
       "2025-12-30, 08:19:08",
       "https://news.ycombinator.com/item?id=46430815"
     ],
@@ -261,12 +261,12 @@
   ],
   [
     [
-      "2025-12-27, 18:01:44",
-      "https://news.ycombinator.com/item?id=46403727"
+      "2025-12-27, 14:46:16",
+      "https://news.ycombinator.com/item?id=46402202"
     ],
     [
-      "A font with built-in TeX syntax highlighting",
-      "https://rajeeshknambiar.wordpress.com/2025/12/27/a-font-with-built-in-tex-syntax-highlighting/"
+      "Easel Turns One One year of building my own IDE in Clojure",
+      "https://blog.phronemophobic.com/easel-one-year.html"
     ]
   ],
   [
