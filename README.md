@@ -4,7 +4,6 @@
 * [2026-01-01, 10:53:12](https://news.ycombinator.com/item?id=46453062) - [Rust–: Rust without the borrow checker](https://github.com/buyukakyuz/rustmm)
 * [2026-01-01, 10:29:54](https://news.ycombinator.com/item?id=46452937) - [Worlds largest electric ship launched by Tasmanian boatbuilder](https://www.theguardian.com/australia-news/2025/may/02/hull-096-worlds-largest-electric-ship-battery-power-launched)
 * [2026-01-01, 09:53:48](https://news.ycombinator.com/item?id=46452763) - [If childhood is half of subjective life, how should that change how we live?](https://moultano.wordpress.com/2025/12/30/children-and-helical-time/)
-* [2026-01-01, 07:58:55](https://news.ycombinator.com/item?id=46452172) - [MHC: Manifold-Constrained Hyper-Connections](https://arxiv.org/abs/2512.24880)
 * [2026-01-01, 03:47:20](https://news.ycombinator.com/item?id=46451124) - [Flow5 released to open source](https://flow5.tech/docs/releasenotes.html)
 * [2026-01-01, 02:35:40](https://news.ycombinator.com/item?id=46450731) - [Pixar's True Story](https://computerhistory.org/blog/pixars-true-story/)
 * [2026-01-01, 01:01:22](https://news.ycombinator.com/item?id=46450122) - [GoGoGrandparent (YC S16) Is Hiring Tech Leads](https://www.ycombinator.com/companies/gogograndparent/jobs/w2jGKM7-gogograndparent-yc-s16-is-hiring-tech-leads)
@@ -30,6 +29,7 @@
 * [2025-12-27, 13:38:01](https://news.ycombinator.com/item?id=46401763) - [Pokémon Team Optimization](https://nchagnet.pages.dev/blog/pokemon-team-optimization/)
 * [2025-12-27, 00:03:56](https://news.ycombinator.com/item?id=46397760) - [Ÿnsect, a French insect farming startup, has been been placed into liquidation](https://techcrunch.com/2025/12/26/how-reality-crushed-ynsect-the-french-startup-that-had-raised-over-600m-for-insect-farming/)
 * [2025-12-26, 19:43:50](https://news.ycombinator.com/item?id=46395438) - [My role as a founder-CTO: year 8](https://miguelcarranza.es/cto-year-8)
+* [2025-12-26, 08:30:36](https://news.ycombinator.com/item?id=46390312) - [Microtonal Spiral Piano](https://shih1.github.io/spiral/)
 
 ## [Archives](archives/index.md)
 
