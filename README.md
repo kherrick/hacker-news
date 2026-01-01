@@ -2,7 +2,6 @@
 
 * [2026-01-01, 03:47:20](https://news.ycombinator.com/item?id=46451124) - [Flow5 Released to Open Source](https://flow5.tech/docs/releasenotes.html)
 * [2026-01-01, 02:35:40](https://news.ycombinator.com/item?id=46450731) - [Pixar's True Story](https://computerhistory.org/blog/pixars-true-story/)
-* [2026-01-01, 01:01:22](https://news.ycombinator.com/item?id=46450122) - [GoGoGrandparent (YC S16) Is Hiring Tech Leads](https://www.ycombinator.com/companies/gogograndparent/jobs/w2jGKM7-gogograndparent-yc-s16-is-hiring-tech-leads)
 * [2026-01-01, 00:18:43](https://news.ycombinator.com/item?id=46449812) - [Show HN: BusterMQ, Thread-per-core NATS server in Zig with io_uring](https://bustermq.sh/)
 * [2026-01-01, 00:02:14](https://news.ycombinator.com/item?id=46449694) - [The Delete Act](https://privacy.ca.gov/drop/about-drop-and-the-delete-act/)
 * [2025-12-31, 23:54:46](https://news.ycombinator.com/item?id=46449643) - [2025: The Year in LLMs](https://simonwillison.net/2025/Dec/31/the-year-in-llms/)
@@ -26,6 +25,7 @@
 * [2025-12-28, 09:50:02](https://news.ycombinator.com/item?id=46409830) - [Build Software. Build Users](https://dima.day/blog/build-software-build-users/)
 * [2025-12-28, 08:16:49](https://news.ycombinator.com/item?id=46409379) - [Observed Agent Sandbox Bypasses](https://voratiq.com/blog/yolo-in-the-sandbox/)
 * [2025-12-27, 23:26:17](https://news.ycombinator.com/item?id=46406570) - [Reminiscences of a Stock Operator (1923)](https://gutenberg.org/cache/epub/60979/pg60979-images.html)
+* [2025-12-27, 15:43:53](https://news.ycombinator.com/item?id=46402620) - [So I started cloning the Wii U gamepad [video]](https://www.youtube.com/watch?v=jlbcKuDEBw8)
 * [2025-12-27, 00:03:56](https://news.ycombinator.com/item?id=46397760) - [Ÿnsect, a French insect farming startup, has been been placed into liquidation](https://techcrunch.com/2025/12/26/how-reality-crushed-ynsect-the-french-startup-that-had-raised-over-600m-for-insect-farming/)
 * [2025-12-26, 19:43:50](https://news.ycombinator.com/item?id=46395438) - [My role as a founder-CTO: year 8](https://miguelcarranza.es/cto-year-8)
 * [2025-12-26, 08:30:36](https://news.ycombinator.com/item?id=46390312) - [Microtonal Spiral Piano](https://shih1.github.io/spiral/)

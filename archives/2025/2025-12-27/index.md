@@ -36,6 +36,7 @@
 * [2025-12-27, 16:51:01](https://news.ycombinator.com/item?id=46403073) - [VSCode rebrands as \"The open source AI code editor\"](https://code.visualstudio.com)
 * [2025-12-27, 16:48:18](https://news.ycombinator.com/item?id=46403048) - [This PNG shows a different version when opened in Chrome than in an image viewer](https://lr0.org/blog/p/pngchanges/)
 * [2025-12-27, 16:47:13](https://news.ycombinator.com/item?id=46403041) - [Nvidia Just Paid $20B for a Company That Missed Its Revenue Target by 75%](https://blog.drjoshcsimmons.com/p/nvidia-just-paid-20-billion-for-a)
+* [2025-12-27, 15:43:53](https://news.ycombinator.com/item?id=46402620) - [So I started cloning the Wii U gamepad [video]](https://www.youtube.com/watch?v=jlbcKuDEBw8)
 * [2025-12-27, 15:42:02](https://news.ycombinator.com/item?id=46402611) - [A Century of Noether's Theorem](https://arxiv.org/abs/1902.01989)
 * [2025-12-27, 15:41:50](https://news.ycombinator.com/item?id=46402609) - [New York to require social media platforms to display mental health warnings](https://www.reuters.com/legal/litigation/new-york-require-social-media-platforms-display-mental-health-warnings-2025-12-26/)
 * [2025-12-27, 15:02:30](https://news.ycombinator.com/item?id=46402327) - [We Automated Federal Retirements](https://ndstudio.gov/posts/automating-federal-retirements)
