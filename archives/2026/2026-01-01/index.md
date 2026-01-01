@@ -4,9 +4,13 @@
 
 ### [Archives](../../index.md) for [2026-01-01](index.md)
 
+* [2026-01-01, 16:28:43](https://news.ycombinator.com/item?id=46455330) - [European Space Agency hit again as cybercriminals claim 200 GB data up for sale](https://www.theregister.com/2025/12/31/european_space_agency_hacked/)
+* [2026-01-01, 16:16:17](https://news.ycombinator.com/item?id=46455223) - [DHS Says DHS-Certified Real IDs Too Unreliable to Confirm U.S. Citizenship](https://reason.com/2025/12/31/dhs-says-real-id-which-dhs-certifies-is-too-unreliable-to-confirm-u-s-citizenship/)
 * [2026-01-01, 15:57:39](https://news.ycombinator.com/item?id=46455053) - [Sony PS5 ROM keys leaked – jailbreaking could be made easier with BootROM codes](https://www.tomshardware.com/video-games/playstation/playstation-5-rom-keys-leaked-jailbreaking-could-be-made-easier-with-bootrom-codes)
 * [2026-01-01, 15:51:08](https://news.ycombinator.com/item?id=46454989) - [Partisan X posts boost political polarisation among users, research finds](https://www.theguardian.com/technology/2025/nov/27/partisan-x-posts-increase-political-polarisation-among-users-social-media-research)
 * [2026-01-01, 15:49:42](https://news.ycombinator.com/item?id=46454977) - [BYD Sells 4.6M Vehicles in 2025, Meets Revised Sales Goal](https://www.bloomberg.com/news/articles/2026-01-01/byd-sells-4-6-million-vehicles-in-2025-meets-revised-sales-goal)
+* [2026-01-01, 15:48:31](https://news.ycombinator.com/item?id=46454968) - [Implementing HNSW (Hierarchical Navigable Small World) Vector Search in PHP](https://centamori.com/index.php?slug=hierarchical-navigable-small-world-hnsw-php&lang=en)
+* [2026-01-01, 15:47:17](https://news.ycombinator.com/item?id=46454958) - [Common Lisp SDK for the Datastar Hypermedia Framework](https://github.com/fsmunoz/datastar-cl)
 * [2026-01-01, 15:45:25](https://news.ycombinator.com/item?id=46454944) - [50% of U.S. vinyl buyers don't own a record player](https://lightcapai.medium.com/the-great-return-from-digital-abundance-to-analog-meaning-cfda9e428752)
 * [2026-01-01, 15:31:24](https://news.ycombinator.com/item?id=46454854) - [Heap Overflow in FFmpeg EXIF](https://bugs.pwno.io/0014)
 * [2026-01-01, 15:19:26](https://news.ycombinator.com/item?id=46454763) - [ACM Is Now Open Access](https://www.acm.org/articles/bulletins/2026/january/acm-open-access)
