@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-01-01, 07:50:17](https://news.ycombinator.com/item?id=46452146) - [Ask HN: How did you learn to code?](https://news.ycombinator.com/item?id=46452146)
 * [2026-01-01, 03:47:20](https://news.ycombinator.com/item?id=46451124) - [Flow5 released to open source](https://flow5.tech/docs/releasenotes.html)
 * [2026-01-01, 02:35:40](https://news.ycombinator.com/item?id=46450731) - [Pixar's True Story](https://computerhistory.org/blog/pixars-true-story/)
 * [2026-01-01, 01:01:22](https://news.ycombinator.com/item?id=46450122) - [GoGoGrandparent (YC S16) Is Hiring Tech Leads](https://www.ycombinator.com/companies/gogograndparent/jobs/w2jGKM7-gogograndparent-yc-s16-is-hiring-tech-leads)
@@ -19,6 +18,7 @@
 * [2025-12-31, 14:19:21](https://news.ycombinator.com/item?id=46444249) - [Iron Beam: Israel's first operational anti drone laser system](https://mod.gov.il/en/press-releases/press-room/israel-mod-and-rafael-deliver-first-operational-high-power-laser-system-iron-beam-to-the-idf)
 * [2025-12-31, 13:44:41](https://news.ycombinator.com/item?id=46443988) - [When square pixels aren't square](https://alexwlchan.net/2025/square-pixels/)
 * [2025-12-31, 13:02:48](https://news.ycombinator.com/item?id=46443744) - [Tell HN: Happy New Year](https://news.ycombinator.com/item?id=46443744)
+* [2025-12-31, 12:32:27](https://news.ycombinator.com/item?id=46443579) - [The most famous transcendental numbers](https://sprott.physics.wisc.edu/pickover/trans.html)
 * [2025-12-31, 10:12:51](https://news.ycombinator.com/item?id=46442903) - [Akin's Laws of Spacecraft Design (2011) [pdf]](https://www.ece.uvic.ca/~elec399/201409/Akin%27s%20Laws%20of%20Spacecraft%20Design.pdf)
 * [2025-12-31, 07:47:44](https://news.ycombinator.com/item?id=46442245) - [Show HN: Use Claude Code to Query 600 GB Indexes over Hacker News, ArXiv, etc.](https://exopriors.com/scry)
 * [2025-12-29, 03:25:35](https://news.ycombinator.com/item?id=46417162) - [Demystifying DVDs](https://hiddenpalace.org/News/One_Bad_Ass_Hedgehog_-_Shadow_the_Hedgehog#Demystifying_DVDs)
