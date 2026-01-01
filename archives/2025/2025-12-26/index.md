@@ -74,6 +74,7 @@
 * [2025-12-26, 04:57:17](https://news.ycombinator.com/item?id=46389338) - [Easily Dealing with Any-Dimensional Planes](https://gpfault.net/posts/hyperplanes.html)
 * [2025-12-26, 04:57:04](https://news.ycombinator.com/item?id=46389336) - [Time in C++: Inter-Clock Conversions, Epochs, and Durations](https://www.sandordargo.com/blog/2025/12/24/clocks-part-5-conversions)
 * [2025-12-26, 04:52:32](https://news.ycombinator.com/item?id=46389325) - [Koine](https://github.com/pattern-zones-co/koine)
+* [2025-12-26, 03:20:11](https://news.ycombinator.com/item?id=46388912) - [Moving Images Related to the Apollo Missions, 1967–1969](https://catalog.archives.gov/id/133360601)
 * [2025-12-26, 03:19:49](https://news.ycombinator.com/item?id=46388907) - [TurboDiffusion: 100–200× Acceleration for Video Diffusion Models](https://github.com/thu-ml/TurboDiffusion)
 * [2025-12-26, 03:18:47](https://news.ycombinator.com/item?id=46388904) - [WiFi DensePose: WiFi-based dense human pose estimation system through walls](https://github.com/ruvnet/wifi-densepose)
 * [2025-12-26, 03:14:07](https://news.ycombinator.com/item?id=46388882) - [Show HN: A Claude Code plugin that catch destructive Git and filesystem commands](https://github.com/kenryu42/claude-code-safety-net)
