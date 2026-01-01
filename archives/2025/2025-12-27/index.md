@@ -29,6 +29,7 @@
 * [2025-12-27, 18:22:05](https://news.ycombinator.com/item?id=46403915) - [Windows 2 for the Apricot PC/Xi](https://www.ninakalinina.com/notes/win2apri/)
 * [2025-12-27, 18:11:16](https://news.ycombinator.com/item?id=46403813) - [39C3 Grafana Dashboard](https://dashboard.congress.ccc.de/public-dashboards/e6cf86b287304662b4d1b8eb31b5ab50)
 * [2025-12-27, 18:03:42](https://news.ycombinator.com/item?id=46403741) - [Cleartext Signatures Considered Harmful](https://gnupg.org/blog/20251226-cleartext-signatures.html)
+* [2025-12-27, 18:01:44](https://news.ycombinator.com/item?id=46403727) - [A font with built-in TeX syntax highlighting](https://rajeeshknambiar.wordpress.com/2025/12/27/a-font-with-built-in-tex-syntax-highlighting/)
 * [2025-12-27, 17:42:46](https://news.ycombinator.com/item?id=46403559) - [Nvidia's $20B Antitrust Loophole (Not an Acquisition)](https://ossa-ma.github.io/blog/groq)
 * [2025-12-27, 17:16:08](https://news.ycombinator.com/item?id=46403291) - [Janet Jackson had the power to crash laptop computers (2022)](https://devblogs.microsoft.com/oldnewthing/20220816-00/?p=106994)
 * [2025-12-27, 17:14:06](https://news.ycombinator.com/item?id=46403276) - [USD Share as Global Reserve Currency Drops to Lowest Since 1994](https://wolfstreet.com/2025/12/26/status-of-the-us-dollar-as-global-reserve-currency-usd-share-drops-to-lowest-since-1994/)
