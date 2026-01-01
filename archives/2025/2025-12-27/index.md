@@ -65,4 +65,5 @@
 * [2025-12-27, 01:16:53](https://news.ycombinator.com/item?id=46398201) - [QNX Self-Hosted Developer Desktop](https://devblog.qnx.com/qnx-self-hosted-developer-desktop-initial-release/)
 * [2025-12-27, 01:11:05](https://news.ycombinator.com/item?id=46398170) - [The battle to stop clever people betting](https://www.economist.com/christmas-specials/2025/12/18/the-battle-to-stop-clever-people-betting)
 * [2025-12-27, 00:43:04](https://news.ycombinator.com/item?id=46397991) - [Publishing your work increases your luck](https://github.com/readme/guides/publishing-your-work)
+* [2025-12-27, 00:30:19](https://news.ycombinator.com/item?id=46397905) - [The Origin of the Terms Big-Endian and Little-Endian (2003)](https://www.ling.upenn.edu/courses/Spring_2003/ling538/Lecnotes/ADfn1.htm)
 * [2025-12-27, 00:03:56](https://news.ycombinator.com/item?id=46397760) - [Reality crushed Ÿnsect startup that had raised over $600M for insect farming](https://techcrunch.com/2025/12/26/how-reality-crushed-ynsect-the-french-startup-that-had-raised-over-600m-for-insect-farming/)
