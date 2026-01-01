@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-12-27](index.md)
 
+* [2025-12-27, 23:26:17](https://news.ycombinator.com/item?id=46406570) - [Reminiscences of a Stock Operator (1923)](https://gutenberg.org/cache/epub/60979/pg60979-images.html)
 * [2025-12-27, 23:16:55](https://news.ycombinator.com/item?id=46406486) - [Show HN: Waycore – an open-source, offline-first modular field computer](https://news.ycombinator.com/item?id=46406486)
 * [2025-12-27, 22:49:53](https://news.ycombinator.com/item?id=46406213) - [7- and 14-segment fonts \"DSEG\"](https://www.keshikan.net/fonts.html)
 * [2025-12-27, 22:41:22](https://news.ycombinator.com/item?id=46406129) - [The Dangers of SSL Certificates](https://surfingcomplexity.blog/2025/12/27/the-dangers-of-ssl-certificates/)
