@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-01-01](index.md)
 
+* [2026-01-01, 11:20:13](https://news.ycombinator.com/item?id=46453221) - [Windows 11 Outperforming Linux on an Intel Arrow Lake H Laptop](https://www.phoronix.com/review/windows-beats-linux-arl-h)
+* [2026-01-01, 10:53:12](https://news.ycombinator.com/item?id=46453062) - [Rust–: Rust without the borrow checker](https://github.com/buyukakyuz/rustmm)
 * [2026-01-01, 10:29:54](https://news.ycombinator.com/item?id=46452937) - [Worlds largest electric ship launched by Tasmanian boatbuilder](https://www.theguardian.com/australia-news/2025/may/02/hull-096-worlds-largest-electric-ship-battery-power-launched)
 * [2026-01-01, 09:53:48](https://news.ycombinator.com/item?id=46452763) - [If childhood is half of subjective life, how should that change how we live?](https://moultano.wordpress.com/2025/12/30/children-and-helical-time/)
 * [2026-01-01, 07:58:55](https://news.ycombinator.com/item?id=46452172) - [MHC: Manifold-Constrained Hyper-Connections](https://arxiv.org/abs/2512.24880)
