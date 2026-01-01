@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2026-01-01, 11:20:13](https://news.ycombinator.com/item?id=46453221) - [Windows 11 Outperforming Linux on an Intel Arrow Lake H Laptop](https://www.phoronix.com/review/windows-beats-linux-arl-h)
+* [2026-01-01, 11:17:18](https://news.ycombinator.com/item?id=46453204) - [Bluetooth Headphone Jacking: A Key to Your Phone [video]](https://media.ccc.de/v/39c3-bluetooth-headphone-jacking-a-key-to-your-phone)
 * [2026-01-01, 10:53:12](https://news.ycombinator.com/item?id=46453062) - [Rust–: Rust without the borrow checker](https://github.com/buyukakyuz/rustmm)
 * [2026-01-01, 10:29:54](https://news.ycombinator.com/item?id=46452937) - [Worlds largest electric ship launched by Tasmanian boatbuilder](https://www.theguardian.com/australia-news/2025/may/02/hull-096-worlds-largest-electric-ship-battery-power-launched)
 * [2026-01-01, 09:53:48](https://news.ycombinator.com/item?id=46452763) - [If childhood is half of subjective life, how should that change how we live?](https://moultano.wordpress.com/2025/12/30/children-and-helical-time/)
@@ -23,13 +24,12 @@
 * [2025-12-29, 03:25:35](https://news.ycombinator.com/item?id=46417162) - [Demystifying DVDs](https://hiddenpalace.org/News/One_Bad_Ass_Hedgehog_-_Shadow_the_Hedgehog#Demystifying_DVDs)
 * [2025-12-28, 09:50:02](https://news.ycombinator.com/item?id=46409830) - [Build Software. Build Users](https://dima.day/blog/build-software-build-users/)
 * [2025-12-27, 23:26:17](https://news.ycombinator.com/item?id=46406570) - [Reminiscences of a Stock Operator (1923)](https://gutenberg.org/cache/epub/60979/pg60979-images.html)
-* [2025-12-27, 19:37:35](https://news.ycombinator.com/item?id=46404509) - [Only 5 Sears stores remain in the U.S.](https://www.nytimes.com/2025/12/26/business/sears-seritage-edward-lampert.html)
 * [2025-12-27, 15:43:53](https://news.ycombinator.com/item?id=46402620) - [So I started cloning the Wii U gamepad [video]](https://www.youtube.com/watch?v=jlbcKuDEBw8)
 * [2025-12-27, 14:46:16](https://news.ycombinator.com/item?id=46402202) - [Easel Turns One One year of building my own IDE in Clojure](https://blog.phronemophobic.com/easel-one-year.html)
 * [2025-12-27, 13:38:01](https://news.ycombinator.com/item?id=46401763) - [Pokémon Team Optimization](https://nchagnet.pages.dev/blog/pokemon-team-optimization/)
 * [2025-12-27, 00:03:56](https://news.ycombinator.com/item?id=46397760) - [Ÿnsect, a French insect farming startup, has been been placed into liquidation](https://techcrunch.com/2025/12/26/how-reality-crushed-ynsect-the-french-startup-that-had-raised-over-600m-for-insect-farming/)
 * [2025-12-26, 19:43:50](https://news.ycombinator.com/item?id=46395438) - [My role as a founder-CTO: year 8](https://miguelcarranza.es/cto-year-8)
-* [2025-12-26, 08:30:36](https://news.ycombinator.com/item?id=46390312) - [Microtonal Spiral Piano](https://shih1.github.io/spiral/)
+* [2025-12-25, 13:45:04](https://news.ycombinator.com/item?id=46384349) - [A Christmas Present to Myself – Vector Network Analyzer (2014)](https://axotron.se/blog/vector-network-analyzer-a-christmas-present-to-myself/)
 
 ## [Archives](archives/index.md)
 

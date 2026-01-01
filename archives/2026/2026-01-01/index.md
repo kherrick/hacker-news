@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2026-01-01](index.md)
 
 * [2026-01-01, 11:20:13](https://news.ycombinator.com/item?id=46453221) - [Windows 11 Outperforming Linux on an Intel Arrow Lake H Laptop](https://www.phoronix.com/review/windows-beats-linux-arl-h)
+* [2026-01-01, 11:17:18](https://news.ycombinator.com/item?id=46453204) - [Bluetooth Headphone Jacking: A Key to Your Phone [video]](https://media.ccc.de/v/39c3-bluetooth-headphone-jacking-a-key-to-your-phone)
 * [2026-01-01, 10:53:12](https://news.ycombinator.com/item?id=46453062) - [Rust–: Rust without the borrow checker](https://github.com/buyukakyuz/rustmm)
 * [2026-01-01, 10:29:54](https://news.ycombinator.com/item?id=46452937) - [Worlds largest electric ship launched by Tasmanian boatbuilder](https://www.theguardian.com/australia-news/2025/may/02/hull-096-worlds-largest-electric-ship-battery-power-launched)
 * [2026-01-01, 09:53:48](https://news.ycombinator.com/item?id=46452763) - [If childhood is half of subjective life, how should that change how we live?](https://moultano.wordpress.com/2025/12/30/children-and-helical-time/)
