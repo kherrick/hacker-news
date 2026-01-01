@@ -55,6 +55,7 @@
 * [2025-12-27, 08:45:46](https://news.ycombinator.com/item?id=46400251) - [Show HN: Ez FFmpeg – Video editing in plain English](http://npmjs.com/package/ezff)
 * [2025-12-27, 08:42:45](https://news.ycombinator.com/item?id=46400242) - [Verdichtung](https://alexeygy.github.io/blog/verdichtung/)
 * [2025-12-27, 06:10:42](https://news.ycombinator.com/item?id=46399576) - [More Dynamic Cronjobs](https://george.mand.is/2025/09/more-dynamic-cronjobs/)
+* [2025-12-27, 04:43:20](https://news.ycombinator.com/item?id=46399208) - [Quadratrix of Hippias](https://en.wikipedia.org/wiki/Quadratrix_of_Hippias)
 * [2025-12-27, 03:45:20](https://news.ycombinator.com/item?id=46398906) - [Pre-commit hooks are fundamentally broken](https://jyn.dev/pre-commit-hooks-are-fundamentally-broken/)
 * [2025-12-27, 03:14:56](https://news.ycombinator.com/item?id=46398752) - [CEO of Health Care Software Company Sentenced for $1B Fraud Conspiracy](https://www.justice.gov/opa/pr/ceo-health-care-software-company-sentenced-1b-fraud-conspiracy)
 * [2025-12-27, 03:00:00](https://news.ycombinator.com/item?id=46398666) - [The Proton, the 'Most Complicated Thing You Could Possibly Imagine'](https://www.quantamagazine.org/inside-the-proton-the-most-complicated-thing-imaginable-20221019/)

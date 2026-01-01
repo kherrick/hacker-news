@@ -24,6 +24,7 @@
 * [2025-12-24, 20:56:53](https://news.ycombinator.com/item?id=46379145) - [Show HN: Lamp Carousel – DIY kinetic sculpture powered by lamp heat](https://evan.widloski.com/posts/spinners/)
 * [2025-12-24, 20:55:32](https://news.ycombinator.com/item?id=46379129) - [Build Your Own 100TB NAS in 2025: Complete TrueNAS Storage Guide](https://techlife.blog/posts/build-your-own-100tb-nas-2025-complete-truenas-storage-guide/)
 * [2025-12-24, 20:48:53](https://news.ycombinator.com/item?id=46379076) - [Spaced Repetition for Efficient Learning](https://gwern.net/spaced-repetition)
+* [2025-12-24, 20:16:41](https://news.ycombinator.com/item?id=46378842) - [Toward a Grand Unified Theory of Snowflakes](https://www.quantamagazine.org/toward-a-grand-unified-theory-of-snowflakes-20191219/)
 * [2025-12-24, 20:04:52](https://news.ycombinator.com/item?id=46378747) - [Beijing is enforcing tough rules to ensure chatbots don’t misbehave](https://www.wsj.com/tech/ai/china-is-worried-ai-threatens-party-ruleand-is-trying-to-tame-it-bfdcda2d)
 * [2025-12-24, 19:42:25](https://news.ycombinator.com/item?id=46378554) - [Show HN: Minimalist editor that lives in browser, stores everything in the URL](https://github.com/antonmedv/textarea)
 * [2025-12-24, 19:32:51](https://news.ycombinator.com/item?id=46378469) - [European Majority favours more tech regulation](https://yougov.co.uk/technology/articles/53241-european-political-monthly-where-do-europeans-stand-on-social-media-regulation)
