@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-01-01, 07:50:17](https://news.ycombinator.com/item?id=46452146) - [Ask HN: How did you learn to code?](https://news.ycombinator.com/item?id=46452146)
 * [2026-01-01, 03:47:20](https://news.ycombinator.com/item?id=46451124) - [Flow5 released to open source](https://flow5.tech/docs/releasenotes.html)
 * [2026-01-01, 02:35:40](https://news.ycombinator.com/item?id=46450731) - [Pixar's True Story](https://computerhistory.org/blog/pixars-true-story/)
 * [2026-01-01, 01:01:22](https://news.ycombinator.com/item?id=46450122) - [GoGoGrandparent (YC S16) Is Hiring Tech Leads](https://www.ycombinator.com/companies/gogograndparent/jobs/w2jGKM7-gogograndparent-yc-s16-is-hiring-tech-leads)
@@ -25,6 +24,7 @@
 * [2025-12-28, 09:50:02](https://news.ycombinator.com/item?id=46409830) - [Build Software. Build Users](https://dima.day/blog/build-software-build-users/)
 * [2025-12-28, 08:16:49](https://news.ycombinator.com/item?id=46409379) - [Observed Agent Sandbox Bypasses](https://voratiq.com/blog/yolo-in-the-sandbox/)
 * [2025-12-27, 23:26:17](https://news.ycombinator.com/item?id=46406570) - [Reminiscences of a Stock Operator (1923)](https://gutenberg.org/cache/epub/60979/pg60979-images.html)
+* [2025-12-27, 19:37:35](https://news.ycombinator.com/item?id=46404509) - [Only 5 Sears stores remain in the U.S.](https://www.nytimes.com/2025/12/26/business/sears-seritage-edward-lampert.html)
 * [2025-12-27, 15:43:53](https://news.ycombinator.com/item?id=46402620) - [So I started cloning the Wii U gamepad [video]](https://www.youtube.com/watch?v=jlbcKuDEBw8)
 * [2025-12-27, 13:38:01](https://news.ycombinator.com/item?id=46401763) - [Pokémon Team Optimization](https://nchagnet.pages.dev/blog/pokemon-team-optimization/)
 * [2025-12-27, 00:03:56](https://news.ycombinator.com/item?id=46397760) - [Ÿnsect, a French insect farming startup, has been been placed into liquidation](https://techcrunch.com/2025/12/26/how-reality-crushed-ynsect-the-french-startup-that-had-raised-over-600m-for-insect-farming/)
