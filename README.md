@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-01-01, 03:47:20](https://news.ycombinator.com/item?id=46451124) - [Flow5 Released to Open Source](https://flow5.tech/docs/releasenotes.html)
+* [2026-01-01, 03:47:20](https://news.ycombinator.com/item?id=46451124) - [Flow5 released to open source](https://flow5.tech/docs/releasenotes.html)
 * [2026-01-01, 02:35:40](https://news.ycombinator.com/item?id=46450731) - [Pixar's True Story](https://computerhistory.org/blog/pixars-true-story/)
+* [2026-01-01, 01:01:22](https://news.ycombinator.com/item?id=46450122) - [GoGoGrandparent (YC S16) Is Hiring Tech Leads](https://www.ycombinator.com/companies/gogograndparent/jobs/w2jGKM7-gogograndparent-yc-s16-is-hiring-tech-leads)
 * [2026-01-01, 00:18:43](https://news.ycombinator.com/item?id=46449812) - [Show HN: BusterMQ, Thread-per-core NATS server in Zig with io_uring](https://bustermq.sh/)
 * [2026-01-01, 00:02:14](https://news.ycombinator.com/item?id=46449694) - [The Delete Act](https://privacy.ca.gov/drop/about-drop-and-the-delete-act/)
 * [2025-12-31, 23:54:46](https://news.ycombinator.com/item?id=46449643) - [2025: The Year in LLMs](https://simonwillison.net/2025/Dec/31/the-year-in-llms/)
@@ -29,7 +30,6 @@
 * [2025-12-27, 00:03:56](https://news.ycombinator.com/item?id=46397760) - [Ÿnsect, a French insect farming startup, has been been placed into liquidation](https://techcrunch.com/2025/12/26/how-reality-crushed-ynsect-the-french-startup-that-had-raised-over-600m-for-insect-farming/)
 * [2025-12-26, 19:43:50](https://news.ycombinator.com/item?id=46395438) - [My role as a founder-CTO: year 8](https://miguelcarranza.es/cto-year-8)
 * [2025-12-26, 08:30:36](https://news.ycombinator.com/item?id=46390312) - [Microtonal Spiral Piano](https://shih1.github.io/spiral/)
-* [2025-12-24, 16:04:12](https://news.ycombinator.com/item?id=46376704) - [Kitchen optimizations](https://www.natemeyvis.com/kitchen-optimizations/)
 
 ## [Archives](archives/index.md)
 
