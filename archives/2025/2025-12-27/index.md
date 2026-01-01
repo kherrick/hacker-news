@@ -45,6 +45,7 @@
 * [2025-12-27, 14:05:44](https://news.ycombinator.com/item?id=46401938) - [NMH BASIC](https://t3x.org/nmhbasic/index.html)
 * [2025-12-27, 13:50:28](https://news.ycombinator.com/item?id=46401849) - [The Organists Improvising Soundtracks to Silent Films](https://www.newyorker.com/magazine/2025/12/29/the-organists-improvising-soundtracks-to-silent-films)
 * [2025-12-27, 13:47:16](https://news.ycombinator.com/item?id=46401832) - [Show HN: An immutable ostree-based Arch Linux image](https://github.com/myyc/vyy)
+* [2025-12-27, 13:38:01](https://news.ycombinator.com/item?id=46401763) - [Pokémon Team Optimization](https://nchagnet.pages.dev/blog/pokemon-team-optimization/)
 * [2025-12-27, 13:13:00](https://news.ycombinator.com/item?id=46401612) - [Floor796](https://floor796.com/)
 * [2025-12-27, 12:58:12](https://news.ycombinator.com/item?id=46401539) - [Apple releases open-source model that instantly turns 2D photos into 3D views](https://github.com/apple/ml-sharp)
 * [2025-12-27, 12:51:15](https://news.ycombinator.com/item?id=46401499) - [OrangePi 6 Plus Review: The New Frontier for ARM64 SBC Performance](https://boilingsteam.com/orange-pi-6-plus-review/)
