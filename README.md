@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-01-01, 09:53:48](https://news.ycombinator.com/item?id=46452763) - [If childhood is half of subjective life, how should that change how we live?](https://moultano.wordpress.com/2025/12/30/children-and-helical-time/)
 * [2026-01-01, 03:47:20](https://news.ycombinator.com/item?id=46451124) - [Flow5 released to open source](https://flow5.tech/docs/releasenotes.html)
 * [2026-01-01, 02:35:40](https://news.ycombinator.com/item?id=46450731) - [Pixar's True Story](https://computerhistory.org/blog/pixars-true-story/)
 * [2026-01-01, 01:01:22](https://news.ycombinator.com/item?id=46450122) - [GoGoGrandparent (YC S16) Is Hiring Tech Leads](https://www.ycombinator.com/companies/gogograndparent/jobs/w2jGKM7-gogograndparent-yc-s16-is-hiring-tech-leads)
@@ -16,7 +17,6 @@
 * [2025-12-31, 15:52:51](https://news.ycombinator.com/item?id=46445195) - [Scaffolding to Superhuman: How Curriculum Learning Solved 2048 and Tetris](https://kywch.github.io/blog/2025/12/curriculum-learning-2048-tetris/)
 * [2025-12-31, 15:46:34](https://news.ycombinator.com/item?id=46445131) - [The compiler is your best friend](https://blog.daniel-beskin.com/2025-12-22-the-compiler-is-your-best-friend-stop-lying-to-it)
 * [2025-12-31, 14:19:21](https://news.ycombinator.com/item?id=46444249) - [Iron Beam: Israel's first operational anti drone laser system](https://mod.gov.il/en/press-releases/press-room/israel-mod-and-rafael-deliver-first-operational-high-power-laser-system-iron-beam-to-the-idf)
-* [2025-12-31, 13:44:41](https://news.ycombinator.com/item?id=46443988) - [When square pixels aren't square](https://alexwlchan.net/2025/square-pixels/)
 * [2025-12-31, 13:02:48](https://news.ycombinator.com/item?id=46443744) - [Tell HN: Happy New Year](https://news.ycombinator.com/item?id=46443744)
 * [2025-12-31, 10:12:51](https://news.ycombinator.com/item?id=46442903) - [Akin's Laws of Spacecraft Design (2011) [pdf]](https://www.ece.uvic.ca/~elec399/201409/Akin%27s%20Laws%20of%20Spacecraft%20Design.pdf)
 * [2025-12-31, 07:47:44](https://news.ycombinator.com/item?id=46442245) - [Show HN: Use Claude Code to Query 600 GB Indexes over Hacker News, ArXiv, etc.](https://exopriors.com/scry)
