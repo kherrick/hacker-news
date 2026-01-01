@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-01-01, 17:12:38](https://news.ycombinator.com/item?id=46455814) - [Autism Hasn't Increased](https://marginalrevolution.com/marginalrevolution/2026/01/autism-hasnt-increased.html)
 * [2026-01-01, 16:28:43](https://news.ycombinator.com/item?id=46455330) - [European Space Agency hit again as cybercriminals claim 200 GB data up for sale](https://www.theregister.com/2025/12/31/european_space_agency_hacked/)
-* [2026-01-01, 16:16:17](https://news.ycombinator.com/item?id=46455223) - [DHS Says DHS-Certified Real IDs Too Unreliable to Confirm U.S. Citizenship](https://reason.com/2025/12/31/dhs-says-real-id-which-dhs-certifies-is-too-unreliable-to-confirm-u-s-citizenship/)
 * [2026-01-01, 15:57:39](https://news.ycombinator.com/item?id=46455053) - [Sony PS5 ROM keys leaked – jailbreaking could be made easier with BootROM codes](https://www.tomshardware.com/video-games/playstation/playstation-5-rom-keys-leaked-jailbreaking-could-be-made-easier-with-bootrom-codes)
 * [2026-01-01, 15:49:42](https://news.ycombinator.com/item?id=46454977) - [BYD Sells 4.6M Vehicles in 2025, Meets Revised Sales Goal](https://www.bloomberg.com/news/articles/2026-01-01/byd-sells-4-6-million-vehicles-in-2025-meets-revised-sales-goal)
 * [2026-01-01, 15:48:31](https://news.ycombinator.com/item?id=46454968) - [Implementing HNSW (Hierarchical Navigable Small World) Vector Search in PHP](https://centamori.com/index.php?slug=hierarchical-navigable-small-world-hnsw-php&lang=en)
@@ -18,7 +18,6 @@
 * [2026-01-01, 11:17:18](https://news.ycombinator.com/item?id=46453204) - [Bluetooth Headphone Jacking: A Key to Your Phone [video]](https://media.ccc.de/v/39c3-bluetooth-headphone-jacking-a-key-to-your-phone)
 * [2026-01-01, 11:01:38](https://news.ycombinator.com/item?id=46453114) - [I rebooted my social life](https://takes.jamesomalley.co.uk/p/this-might-be-oversharing)
 * [2026-01-01, 03:47:20](https://news.ycombinator.com/item?id=46451124) - [Flow5 released to open source](https://flow5.tech/docs/releasenotes.html)
-* [2026-01-01, 01:01:22](https://news.ycombinator.com/item?id=46450122) - [GoGoGrandparent (YC S16) Is Hiring Tech Leads](https://www.ycombinator.com/companies/gogograndparent/jobs/w2jGKM7-gogograndparent-yc-s16-is-hiring-tech-leads)
 * [2026-01-01, 00:18:43](https://news.ycombinator.com/item?id=46449812) - [Show HN: BusterMQ, Thread-per-core NATS server in Zig with io_uring](https://bustermq.sh/)
 * [2025-12-31, 23:54:46](https://news.ycombinator.com/item?id=46449643) - [2025: The Year in LLMs](https://simonwillison.net/2025/Dec/31/the-year-in-llms/)
 * [2025-12-31, 22:25:58](https://news.ycombinator.com/item?id=46448998) - [Resistance training load does not determine hypertrophy](https://physoc.onlinelibrary.wiley.com/doi/10.1113/JP289684)
@@ -30,6 +29,7 @@
 * [2025-12-27, 13:59:16](https://news.ycombinator.com/item?id=46401899) - [Beyond the Nat: Cgnat, Bandwidth, and Practical Tunneling](https://blog.rastrian.dev/post/beyond-the-nat-cgnat-bandwidth-and-practical-tunneling)
 * [2025-12-27, 13:38:01](https://news.ycombinator.com/item?id=46401763) - [Pokémon Team Optimization](https://nchagnet.pages.dev/blog/pokemon-team-optimization/)
 * [2025-12-25, 13:45:04](https://news.ycombinator.com/item?id=46384349) - [A Christmas Present to Myself – Vector Network Analyzer (2014)](https://axotron.se/blog/vector-network-analyzer-a-christmas-present-to-myself/)
+* [2025-12-24, 08:58:16](https://news.ycombinator.com/item?id=46373817) - [Ultra-Wide Band: A Transformational Technology for the Internet of Things](https://www.eetimes.com/ultra-wide-band-a-transformational-technology-for-the-internet-of-things/)
 
 ## [Archives](archives/index.md)
 
