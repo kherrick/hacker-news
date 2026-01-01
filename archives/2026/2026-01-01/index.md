@@ -4,12 +4,18 @@
 
 ### [Archives](../../index.md) for [2026-01-01](index.md)
 
+* [2026-01-01, 21:10:31](https://news.ycombinator.com/item?id=46458029) - [Cycling Game (Mini Neural Net Demo)](https://www.doc.ic.ac.uk/~ajd/Cycling/)
+* [2026-01-01, 20:36:46](https://news.ycombinator.com/item?id=46457784) - [A website to destroy all websites](https://henry.codes/writing/a-website-to-destroy-all-websites/)
 * [2026-01-01, 20:35:11](https://news.ycombinator.com/item?id=46457770) - [Linux is good now; to feel like you actually own your PC, put Linux on it](https://www.pcgamer.com/software/linux/im-brave-enough-to-say-it-linux-is-good-now-and-if-you-want-to-feel-like-you-actually-own-your-pc-make-2026-the-year-of-linux-on-your-desktop/)
 * [2026-01-01, 19:58:19](https://news.ycombinator.com/item?id=46457454) - [Starlink satellites being lowered from 550 km to 480 km](https://twitter.com/michaelnicollsx/status/2006790372681220530)
+* [2026-01-01, 19:33:53](https://news.ycombinator.com/item?id=46457240) - [Prompting People](https://kuber.studio/blog/Reflections/Prompting-People)
 * [2026-01-01, 19:30:19](https://news.ycombinator.com/item?id=46457196) - [Arpanet standardized TCP/IP on this day in 1983](https://www.tomshardware.com/networking/arpanet-standardized-tcp-ip-on-this-day-in-1983-43-year-old-standard-set-the-foundations-for-todays-internet)
 * [2026-01-01, 19:11:53](https://news.ycombinator.com/item?id=46457027) - [Dell's version of the DGX Spark fixes pain points](https://www.jeffgeerling.com/blog/2025/dells-version-dgx-spark-fixes-pain-points)
+* [2026-01-01, 18:49:40](https://news.ycombinator.com/item?id=46456838) - [Modern evidence for God from cosmology, astrochemistry, etc. (by a YC alum)](https://www.saintbeluga.org/follow-the-evidence-wherever-it-leads)
 * [2026-01-01, 18:46:07](https://news.ycombinator.com/item?id=46456797) - [Finland detains ship and its crew after critical undersea cable damaged](https://www.cnn.com/2025/12/31/europe/finland-estonia-undersea-cable-ship-detained-intl)
 * [2026-01-01, 18:34:25](https://news.ycombinator.com/item?id=46456682) - [Building an internal agent: Code-driven vs. LLM-driven workflows](https://lethain.com/agents-coordinators/)
+* [2026-01-01, 18:20:38](https://news.ycombinator.com/item?id=46456543) - [Street-Fighting Mathematics (2008)](https://ocw.mit.edu/courses/18-098-street-fighting-mathematics-january-iap-2008/pages/readings/)
+* [2026-01-01, 18:08:48](https://news.ycombinator.com/item?id=46456387) - [Gemini 3.0 Deciphered the Mystery of a Nuremberg Chronicle Leaf's](https://blog.gdeltproject.org/gemini-as-indiana-jones-how-gemini-3-0-deciphered-the-mystery-of-a-nuremberg-chronicle-leafs-500-year-old-roundels/)
 * [2026-01-01, 17:52:30](https://news.ycombinator.com/item?id=46456215) - [Memory Subsystem Optimizations](https://johnnysswlab.com/memory-subsystem-optimizations/)
 * [2026-01-01, 17:18:01](https://news.ycombinator.com/item?id=46455872) - [Cameras and Lenses](https://ciechanow.ski/cameras-and-lenses/)
 * [2026-01-01, 17:12:38](https://news.ycombinator.com/item?id=46455814) - [Autism Hasn't Increased](https://marginalrevolution.com/marginalrevolution/2026/01/autism-hasnt-increased.html)
