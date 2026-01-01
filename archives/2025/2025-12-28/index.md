@@ -29,6 +29,7 @@
 * [2025-12-28, 19:13:04](https://news.ycombinator.com/item?id=46413566) - [Delete LinkedIn – you'll have zero fucking regrets (2021)](https://thenextweb.com/news/delete-linkedin-youll-have-zero-regrets-syndication)
 * [2025-12-28, 18:43:54](https://news.ycombinator.com/item?id=46413365) - [Remembering Lou Gerstner](https://newsroom.ibm.com/2025-12-28-Remembering-Lou-Gerstner)
 * [2025-12-28, 18:41:25](https://news.ycombinator.com/item?id=46413348) - [Tell HN: Google ignores English searches and forces localized results](https://news.ycombinator.com/item?id=46413348)
+* [2025-12-28, 18:28:07](https://news.ycombinator.com/item?id=46413256) - [If you care about security you might want to move the iPhone Camera app](https://blog.jgc.org/2025/12/if-you-care-about-security-you-might.html)
 * [2025-12-28, 18:05:13](https://news.ycombinator.com/item?id=46413053) - [Show HN: Pion SCTP with RACK is 70% faster with 30% less latency](https://pion.ly/blog/sctp-and-rack/)
 * [2025-12-28, 17:15:45](https://news.ycombinator.com/item?id=46412578) - [Deathbed Advice/Regret](https://hazn.com/deathbed-regret)
 * [2025-12-28, 17:12:14](https://news.ycombinator.com/item?id=46412549) - [Hacker News made out of prime numbers](https://dosaygo-studio.github.io/prime-news/index.html)

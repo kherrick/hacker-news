@@ -24,11 +24,11 @@
 * [2026-01-01, 00:29:45](https://news.ycombinator.com/item?id=46449892) - [Show HN: Feature detection exploration in Lidar DEMs via differential decomp](https://github.com/bshepp/RESIDUALS)
 * [2025-12-31, 23:54:46](https://news.ycombinator.com/item?id=46449643) - [2025: The Year in LLMs](https://simonwillison.net/2025/Dec/31/the-year-in-llms/)
 * [2025-12-31, 18:26:32](https://news.ycombinator.com/item?id=46446815) - [I canceled my book deal](https://austinhenley.com/blog/canceledbookdeal.html)
-* [2025-12-28, 01:00:52](https://news.ycombinator.com/item?id=46407292) - [Show HN: I created a tool to design and create foamcore inserts for boardgames](https://boxinsertdesigner.com/)
+* [2025-12-28, 18:28:07](https://news.ycombinator.com/item?id=46413256) - [If you care about security you might want to move the iPhone Camera app](https://blog.jgc.org/2025/12/if-you-care-about-security-you-might.html)
 * [2025-12-27, 18:01:44](https://news.ycombinator.com/item?id=46403727) - [A font with built-in TeX syntax highlighting](https://rajeeshknambiar.wordpress.com/2025/12/27/a-font-with-built-in-tex-syntax-highlighting/)
 * [2025-12-27, 14:46:16](https://news.ycombinator.com/item?id=46402202) - [Easel Turns One One year of building my own IDE in Clojure](https://blog.phronemophobic.com/easel-one-year.html)
 * [2025-12-27, 13:59:16](https://news.ycombinator.com/item?id=46401899) - [Beyond the Nat: Cgnat, Bandwidth, and Practical Tunneling](https://blog.rastrian.dev/post/beyond-the-nat-cgnat-bandwidth-and-practical-tunneling)
-* [2025-12-27, 13:38:01](https://news.ycombinator.com/item?id=46401763) - [Pokémon Team Optimization](https://nchagnet.pages.dev/blog/pokemon-team-optimization/)
+* [2025-12-27, 08:21:24](https://news.ycombinator.com/item?id=46400158) - [Simple 3D Packing](https://github.com/Vrroom/psacking)
 * [2025-12-26, 14:06:47](https://news.ycombinator.com/item?id=46392095) - [C-events, yet another event loop, simpler, smaller, faster, safer](https://zelang-dev.github.io/c-events/)
 
 ## [Archives](archives/index.md)
