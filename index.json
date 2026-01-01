@@ -1,12 +1,52 @@
 [
   [
     [
-      "2025-12-31, 22:25:58",
-      "https://news.ycombinator.com/item?id=46448998"
+      "2026-01-01, 01:14:33",
+      "https://news.ycombinator.com/item?id=46450217"
     ],
     [
-      "Resistance training load does not determine hypertrophy",
-      "https://physoc.onlinelibrary.wiley.com/doi/10.1113/JP289684"
+      "Nerd: The First Programming Language Not Built for Humans",
+      "https://www.nerd-lang.org/about"
+    ]
+  ],
+  [
+    [
+      "2026-01-01, 01:01:22",
+      "https://news.ycombinator.com/item?id=46450122"
+    ],
+    [
+      "GoGoGrandparent (YC S16) Is Hiring Tech Leads",
+      "https://www.ycombinator.com/companies/gogograndparent/jobs/w2jGKM7-gogograndparent-yc-s16-is-hiring-tech-leads"
+    ]
+  ],
+  [
+    [
+      "2026-01-01, 00:18:43",
+      "https://news.ycombinator.com/item?id=46449812"
+    ],
+    [
+      "Show HN: BusterMQ, Thread-per-core NATS server in Zig with io_uring",
+      "https://bustermq.sh/"
+    ]
+  ],
+  [
+    [
+      "2026-01-01, 00:02:14",
+      "https://news.ycombinator.com/item?id=46449694"
+    ],
+    [
+      "The Delete Act",
+      "https://privacy.ca.gov/drop/about-drop-and-the-delete-act/"
+    ]
+  ],
+  [
+    [
+      "2025-12-31, 23:54:46",
+      "https://news.ycombinator.com/item?id=46449643"
+    ],
+    [
+      "2025: The Year in LLMs",
+      "https://simonwillison.net/2025/Dec/31/the-year-in-llms/"
     ]
   ],
   [
@@ -45,7 +85,7 @@
       "https://news.ycombinator.com/item?id=46447202"
     ],
     [
-      "Blog: PyPI in 2025: A Year in Review",
+      "PyPI in 2025: A Year in Review",
       "https://blog.pypi.org/posts/2025-12-31-pypi-2025-in-review/"
     ]
   ],
@@ -55,7 +95,7 @@
       "https://news.ycombinator.com/item?id=46446938"
     ],
     [
-      "Privacy and control. My tech setup",
+      "On privacy and control",
       "https://toidiu.com/blog/2025-12-25-privacy-and-control/"
     ]
   ],
@@ -71,32 +111,12 @@
   ],
   [
     [
-      "2025-12-31, 17:42:20",
-      "https://news.ycombinator.com/item?id=46446366"
-    ],
-    [
-      "Web Browsers have stopped blocking pop-ups",
-      "https://www.smokingonabike.com/2025/12/31/web-browsers-have-stopped-blocking-pop-ups/"
-    ]
-  ],
-  [
-    [
       "2025-12-31, 17:41:46",
       "https://news.ycombinator.com/item?id=46446359"
     ],
     [
       "Stewart Cheifet, creator of The Computer Chronicles, has died",
       "https://obits.goldsteinsfuneral.com/stewart-cheifet"
-    ]
-  ],
-  [
-    [
-      "2025-12-31, 17:00:40",
-      "https://news.ycombinator.com/item?id=46445905"
-    ],
-    [
-      "SigNoz (YC W21, open source observability platform) is hiring across roles",
-      "https://signoz.io/careers"
     ]
   ],
   [
@@ -117,16 +137,6 @@
     [
       "The compiler is your best friend",
       "https://blog.daniel-beskin.com/2025-12-22-the-compiler-is-your-best-friend-stop-lying-to-it"
-    ]
-  ],
-  [
-    [
-      "2025-12-31, 13:59:09",
-      "https://news.ycombinator.com/item?id=46444076"
-    ],
-    [
-      "Efficient method to capture carbon dioxide from the atmosphere",
-      "https://www.helsinki.fi/en/news/innovations/efficient-method-capture-carbon-dioxide-atmosphere-developed-university-helsinki"
     ]
   ],
   [
@@ -171,32 +181,12 @@
   ],
   [
     [
-      "2025-12-31, 12:12:20",
-      "https://news.ycombinator.com/item?id=46443486"
-    ],
-    [
-      "Who invented the transistor?",
-      "https://people.idsia.ch/~juergen/who-invented-the-transistor.html"
-    ]
-  ],
-  [
-    [
       "2025-12-31, 10:12:51",
       "https://news.ycombinator.com/item?id=46442903"
     ],
     [
-      "Akin's Laws of Spacecraft Design [pdf] (2011)",
+      "Akin's Laws of Spacecraft Design (2011) [pdf]",
       "https://www.ece.uvic.ca/~elec399/201409/Akin%27s%20Laws%20of%20Spacecraft%20Design.pdf"
-    ]
-  ],
-  [
-    [
-      "2025-12-31, 09:09:28",
-      "https://news.ycombinator.com/item?id=46442597"
-    ],
-    [
-      "The rise of industrial software",
-      "https://chrisloy.dev/post/2025/12/30/the-rise-of-industrial-software"
     ]
   ],
   [
@@ -241,6 +231,16 @@
   ],
   [
     [
+      "2025-12-27, 04:43:20",
+      "https://news.ycombinator.com/item?id=46399208"
+    ],
+    [
+      "Quadratrix of Hippias",
+      "https://en.wikipedia.org/wiki/Quadratrix_of_Hippias"
+    ]
+  ],
+  [
+    [
       "2025-12-27, 00:03:56",
       "https://news.ycombinator.com/item?id=46397760"
     ],
@@ -281,12 +281,12 @@
   ],
   [
     [
-      "2025-12-24, 21:42:07",
-      "https://news.ycombinator.com/item?id=46379562"
+      "2025-12-24, 20:16:41",
+      "https://news.ycombinator.com/item?id=46378842"
     ],
     [
-      "Back to the future: the story of Squeak, a practical Smalltalk written in itself [pdf] (1997)",
-      "http://www.vpri.org/pdf/tr1997001_backto.pdf"
+      "Toward a Grand Unified Theory of Snowflakes",
+      "https://www.quantamagazine.org/toward-a-grand-unified-theory-of-snowflakes-20191219/"
     ]
   ],
   [
