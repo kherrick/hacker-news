@@ -1,12 +1,32 @@
 [
   [
     [
+      "2026-01-01, 10:29:54",
+      "https://news.ycombinator.com/item?id=46452937"
+    ],
+    [
+      "Worlds largest electric ship launched by Tasmanian boatbuilder",
+      "https://www.theguardian.com/australia-news/2025/may/02/hull-096-worlds-largest-electric-ship-battery-power-launched"
+    ]
+  ],
+  [
+    [
       "2026-01-01, 09:53:48",
       "https://news.ycombinator.com/item?id=46452763"
     ],
     [
       "If childhood is half of subjective life, how should that change how we live?",
       "https://moultano.wordpress.com/2025/12/30/children-and-helical-time/"
+    ]
+  ],
+  [
+    [
+      "2026-01-01, 07:58:55",
+      "https://news.ycombinator.com/item?id=46452172"
+    ],
+    [
+      "MHC: Manifold-Constrained Hyper-Connections",
+      "https://arxiv.org/abs/2512.24880"
     ]
   ],
   [
@@ -101,26 +121,6 @@
   ],
   [
     [
-      "2025-12-31, 19:08:39",
-      "https://news.ycombinator.com/item?id=46447202"
-    ],
-    [
-      "PyPI in 2025: A Year in Review",
-      "https://blog.pypi.org/posts/2025-12-31-pypi-2025-in-review/"
-    ]
-  ],
-  [
-    [
-      "2025-12-31, 18:39:40",
-      "https://news.ycombinator.com/item?id=46446938"
-    ],
-    [
-      "On privacy and control",
-      "https://toidiu.com/blog/2025-12-25-privacy-and-control/"
-    ]
-  ],
-  [
-    [
       "2025-12-31, 18:26:32",
       "https://news.ycombinator.com/item?id=46446815"
     ],
@@ -137,16 +137,6 @@
     [
       "Web Browsers have stopped blocking pop-ups",
       "https://www.smokingonabike.com/2025/12/31/web-browsers-have-stopped-blocking-pop-ups/"
-    ]
-  ],
-  [
-    [
-      "2025-12-31, 15:52:51",
-      "https://news.ycombinator.com/item?id=46445195"
-    ],
-    [
-      "Scaffolding to Superhuman: How Curriculum Learning Solved 2048 and Tetris",
-      "https://kywch.github.io/blog/2025/12/curriculum-learning-2048-tetris/"
     ]
   ],
   [
@@ -257,6 +247,16 @@
     [
       "So I started cloning the Wii U gamepad [video]",
       "https://www.youtube.com/watch?v=jlbcKuDEBw8"
+    ]
+  ],
+  [
+    [
+      "2025-12-27, 14:46:16",
+      "https://news.ycombinator.com/item?id=46402202"
+    ],
+    [
+      "Easel Turns One One year of building my own IDE in Clojure",
+      "https://blog.phronemophobic.com/easel-one-year.html"
     ]
   ],
   [
