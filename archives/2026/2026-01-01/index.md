@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-01-01](index.md)
 
+* [2026-01-01, 19:30:19](https://news.ycombinator.com/item?id=46457196) - [Arpanet standardized TCP/IP on this day in 1983](https://www.tomshardware.com/networking/arpanet-standardized-tcp-ip-on-this-day-in-1983-43-year-old-standard-set-the-foundations-for-todays-internet)
 * [2026-01-01, 18:46:07](https://news.ycombinator.com/item?id=46456797) - [Finland detains ship and its crew after critical undersea cable damaged](https://www.cnn.com/2025/12/31/europe/finland-estonia-undersea-cable-ship-detained-intl)
 * [2026-01-01, 18:34:25](https://news.ycombinator.com/item?id=46456682) - [Building an internal agent: Code-driven vs. LLM-driven workflows](https://lethain.com/agents-coordinators/)
 * [2026-01-01, 17:52:30](https://news.ycombinator.com/item?id=46456215) - [Memory Subsystem Optimizations](https://johnnysswlab.com/memory-subsystem-optimizations/)
