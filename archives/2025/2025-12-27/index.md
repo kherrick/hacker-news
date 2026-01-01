@@ -18,6 +18,7 @@
 * [2025-12-27, 21:15:14](https://news.ycombinator.com/item?id=46405306) - [Richard Stallman at the First Hackers Conference in 1984 [video]](https://www.youtube.com/watch?v=Hf2pfzzWPYE)
 * [2025-12-27, 21:06:47](https://news.ycombinator.com/item?id=46405235) - [An Ounce of Silver Is Now Worth More Than a Barrel of Oil](https://www.wsj.com/finance/commodities-futures/an-ounce-of-silver-is-now-worth-more-than-a-barrel-of-oil-196e149e)
 * [2025-12-27, 21:01:09](https://news.ycombinator.com/item?id=46405183) - [White House pushes to dismantle leading climate and weather research center](https://www.pbs.org/newshour/show/white-house-pushes-to-dismantle-leading-climate-and-weather-research-center)
+* [2025-12-27, 20:38:56](https://news.ycombinator.com/item?id=46405037) - [Motion and Machine](https://blog.ayjay.org/motion-and-machine/)
 * [2025-12-27, 20:28:35](https://news.ycombinator.com/item?id=46404957) - [Getting Fired over LinkedIn Account](https://priyatham.in/en/post/linkedin-horror/)
 * [2025-12-27, 20:28:07](https://news.ycombinator.com/item?id=46404952) - ['Off Switch' Discovery Could Help Clear Our Brains of a Common Parasite](https://www.sciencealert.com/off-switch-discovery-could-help-clear-our-brains-of-a-common-parasite)
 * [2025-12-27, 20:15:01](https://news.ycombinator.com/item?id=46404848) - [How we lost communication to entertainment](https://ploum.net/2025-12-15-communication-entertainment.html)
