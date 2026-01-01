@@ -4,7 +4,17 @@
 
 ### [Archives](../../index.md) for [2026-01-01](index.md)
 
+* [2026-01-01, 15:57:39](https://news.ycombinator.com/item?id=46455053) - [Sony PS5 ROM keys leaked – jailbreaking could be made easier with BootROM codes](https://www.tomshardware.com/video-games/playstation/playstation-5-rom-keys-leaked-jailbreaking-could-be-made-easier-with-bootrom-codes)
+* [2026-01-01, 15:51:08](https://news.ycombinator.com/item?id=46454989) - [Partisan X posts boost political polarisation among users, research finds](https://www.theguardian.com/technology/2025/nov/27/partisan-x-posts-increase-political-polarisation-among-users-social-media-research)
+* [2026-01-01, 15:49:42](https://news.ycombinator.com/item?id=46454977) - [BYD Sells 4.6M Vehicles in 2025, Meets Revised Sales Goal](https://www.bloomberg.com/news/articles/2026-01-01/byd-sells-4-6-million-vehicles-in-2025-meets-revised-sales-goal)
+* [2026-01-01, 15:45:25](https://news.ycombinator.com/item?id=46454944) - [50% of U.S. vinyl buyers don't own a record player](https://lightcapai.medium.com/the-great-return-from-digital-abundance-to-analog-meaning-cfda9e428752)
+* [2026-01-01, 15:31:24](https://news.ycombinator.com/item?id=46454854) - [Heap Overflow in FFmpeg EXIF](https://bugs.pwno.io/0014)
 * [2026-01-01, 15:19:26](https://news.ycombinator.com/item?id=46454763) - [ACM Is Now Open Access](https://www.acm.org/articles/bulletins/2026/january/acm-open-access)
+* [2026-01-01, 15:09:06](https://news.ycombinator.com/item?id=46454693) - [OpenWorkers: Self-Hosted Cloudflare Workers in Rust](https://openworkers.com/introducing-openworkers)
+* [2026-01-01, 14:53:50](https://news.ycombinator.com/item?id=46454587) - [Build a Deep Learning Library](https://zekcrates.quarto.pub/deep-learning-library/)
+* [2026-01-01, 14:39:23](https://news.ycombinator.com/item?id=46454470) - [Python Numbers Every Programmer Should Know](https://mkennedy.codes/posts/python-numbers-every-programmer-should-know/)
+* [2026-01-01, 14:32:12](https://news.ycombinator.com/item?id=46454413) - [2025 Letter](https://danwang.co/2025-letter/)
+* [2026-01-01, 13:30:45](https://news.ycombinator.com/item?id=46453950) - [iOS allows alternative browser engines in Japan](https://developer.apple.com/support/alternative-browser-engines-jp/)
 * [2026-01-01, 12:29:01](https://news.ycombinator.com/item?id=46453582) - [Meta made scam ads harder to find instead of removing them](https://sherwood.news/tech/rather-than-fully-cracking-down-on-scam-ads-meta-worked-to-make-them-harder/)
 * [2026-01-01, 11:20:13](https://news.ycombinator.com/item?id=46453221) - [Windows 11 Outperforming Linux on an Intel Arrow Lake H Laptop](https://www.phoronix.com/review/windows-beats-linux-arl-h)
 * [2026-01-01, 11:17:18](https://news.ycombinator.com/item?id=46453204) - [Bluetooth Headphone Jacking: A Key to Your Phone [video]](https://media.ccc.de/v/39c3-bluetooth-headphone-jacking-a-key-to-your-phone)
