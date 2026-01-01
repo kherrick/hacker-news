@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-01-01](index.md)
 
+* [2026-01-01, 17:52:30](https://news.ycombinator.com/item?id=46456215) - [Memory Subsystem Optimizations](https://johnnysswlab.com/memory-subsystem-optimizations/)
 * [2026-01-01, 17:18:01](https://news.ycombinator.com/item?id=46455872) - [Cameras and Lenses](https://ciechanow.ski/cameras-and-lenses/)
 * [2026-01-01, 17:12:38](https://news.ycombinator.com/item?id=46455814) - [Autism Hasn't Increased](https://marginalrevolution.com/marginalrevolution/2026/01/autism-hasnt-increased.html)
 * [2026-01-01, 16:28:43](https://news.ycombinator.com/item?id=46455330) - [European Space Agency hit again as cybercriminals claim 200 GB data up for sale](https://www.theregister.com/2025/12/31/european_space_agency_hacked/)
