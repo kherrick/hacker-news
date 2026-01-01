@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2026-01-01, 20:53:23",
+      "https://news.ycombinator.com/item?id=46457912"
+    ],
+    [
+      "Show HN: Tasker – An open-source desktop agent for browser and OS automation",
+      "https://automatewithtasker.com/"
+    ]
+  ],
+  [
+    [
       "2026-01-01, 20:36:46",
       "https://news.ycombinator.com/item?id=46457784"
     ],
@@ -47,16 +57,6 @@
     [
       "Dell's version of the DGX Spark fixes pain points",
       "https://www.jeffgeerling.com/blog/2025/dells-version-dgx-spark-fixes-pain-points"
-    ]
-  ],
-  [
-    [
-      "2026-01-01, 18:49:40",
-      "https://news.ycombinator.com/item?id=46456838"
-    ],
-    [
-      "Modern evidence for God from cosmology, astrochemistry, etc. (by a YC alum)",
-      "https://www.saintbeluga.org/follow-the-evidence-wherever-it-leads"
     ]
   ],
   [
@@ -281,12 +281,12 @@
   ],
   [
     [
-      "2025-12-27, 08:21:24",
-      "https://news.ycombinator.com/item?id=46400158"
+      "2025-12-27, 14:25:43",
+      "https://news.ycombinator.com/item?id=46402059"
     ],
     [
-      "Simple 3D Packing",
-      "https://github.com/Vrroom/psacking"
+      "How to construct complex data declaratively and progressively?",
+      "https://github.com/allmonday/pydantic-resolve"
     ]
   ],
   [
