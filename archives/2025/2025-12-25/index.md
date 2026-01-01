@@ -15,6 +15,7 @@
 * [2025-12-25, 20:14:36](https://news.ycombinator.com/item?id=46386761) - [UBlockOrigin and UBlacklist AI Blocklist](https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist)
 * [2025-12-25, 18:40:14](https://news.ycombinator.com/item?id=46386211) - [39c3 Fahrplan (Schedule)](https://fahrplan.events.ccc.de/congress/2025/fahrplan/)
 * [2025-12-25, 18:06:44](https://news.ycombinator.com/item?id=46386009) - [All I Want for Xmas Is Your Secrets: LangGrinch Hits LangChain (CVE-2025-68664)](https://cyata.ai/blog/langgrinch-langchain-core-cve-2025-68664/)
+* [2025-12-25, 17:08:25](https://news.ycombinator.com/item?id=46385647) - [The Mammoth Pirates – In Russia's Arctic north, a new kind of gold rush](https://www.rferl.org/a/the-mammoth-pirates/27939865.html)
 * [2025-12-25, 17:01:29](https://news.ycombinator.com/item?id=46385600) - [Clearspace (YC W23) Is Hiring a Founding Network Engineer (VPN and Proxy)](https://www.ycombinator.com/companies/clearspace/jobs/5LtM86I-founding-network-engineer-at-clearspace)
 * [2025-12-25, 16:37:13](https://news.ycombinator.com/item?id=46385406) - [Ask HN: What is the international distribution/statistics of HN visitors?](https://news.ycombinator.com/item?id=46385406)
 * [2025-12-25, 16:28:43](https://news.ycombinator.com/item?id=46385335) - [Why FedRAMP Authorization and CMMC Level 2 Are Now Table Stakes for GovCon AI](https://blog.procurementsciences.com/psci_blogs/why-fedramp-authorization-and-cmmc-level-2-are-now-table-stakes-for-govcon-ai)
