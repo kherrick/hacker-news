@@ -41,6 +41,7 @@
 * [2025-12-26, 14:52:13](https://news.ycombinator.com/item?id=46392538) - [Steve wants us to make the Macintosh boot faster](https://www.folklore.org/Saving_Lives.html)
 * [2025-12-26, 14:39:10](https://news.ycombinator.com/item?id=46392382) - [Streaming compression beats framed compression](https://bou.ke/blog/compressed/)
 * [2025-12-26, 14:08:47](https://news.ycombinator.com/item?id=46392115) - [Rob Pike Goes Nuclear over GenAI](https://skyview.social/?url=https%3A%2F%2Fbsky.app%2Fprofile%2Frobpike.io%2Fpost%2F3matwg6w3ic2s&viewtype=tree)
+* [2025-12-26, 14:06:47](https://news.ycombinator.com/item?id=46392095) - [C-events, yet another event loop, simpler, smaller, faster, safer](https://zelang-dev.github.io/c-events/)
 * [2025-12-26, 13:31:12](https://news.ycombinator.com/item?id=46391808) - [Officials discover a million more documents potentially related to Epstein case](https://www.bbc.com/news/articles/czdgz84dn35o)
 * [2025-12-26, 13:23:27](https://news.ycombinator.com/item?id=46391744) - [Undefinable yet Indispensable](https://aeon.co/essays/the-word-religion-resists-definition-but-remains-necessary)
 * [2025-12-26, 12:59:56](https://news.ycombinator.com/item?id=46391599) - [LearnixOS](https://www.learnix-os.com)
