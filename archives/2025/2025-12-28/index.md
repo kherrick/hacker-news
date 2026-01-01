@@ -43,6 +43,7 @@
 * [2025-12-28, 14:57:47](https://news.ycombinator.com/item?id=46411500) - [Ask HN: Best Podcasts of 2025?](https://news.ycombinator.com/item?id=46411500)
 * [2025-12-28, 14:24:59](https://news.ycombinator.com/item?id=46411275) - [Ask HN: Anti-AI Open Source License?](https://news.ycombinator.com/item?id=46411275)
 * [2025-12-28, 13:42:42](https://news.ycombinator.com/item?id=46411040) - ['PromptQuest' is the worst game of 2025 (trying to make chatbots work)](https://www.theregister.com/2025/12/26/ai_is_like_adventure_games/)
+* [2025-12-28, 13:01:26](https://news.ycombinator.com/item?id=46410776) - [Recreating the Bell Labs Switch Experiment with Agents](https://cianfrani.dev/posts/12-switches/)
 * [2025-12-28, 12:42:11](https://news.ycombinator.com/item?id=46410676) - [A super fast website using Cloudflare workers](https://crazyfast.website)
 * [2025-12-28, 12:00:06](https://news.ycombinator.com/item?id=46410449) - [Langfuse (YC W23) Is Hiring in Berlin, Germany](https://langfuse.com/careers)
 * [2025-12-28, 11:51:42](https://news.ycombinator.com/item?id=46410402) - [Building a macOS app to know when my Mac is thermal throttling](https://stanislas.blog/2025/12/macos-thermal-throttling-app/)
