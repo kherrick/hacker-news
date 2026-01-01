@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-01-01, 21:10:31",
+      "https://news.ycombinator.com/item?id=46458029"
+    ],
+    [
+      "Cycling Game (Mini Neural Net Demo)",
+      "https://www.doc.ic.ac.uk/~ajd/Cycling/"
+    ]
+  ],
+  [
+    [
+      "2026-01-01, 20:36:46",
+      "https://news.ycombinator.com/item?id=46457784"
+    ],
+    [
+      "A website to destroy all websites",
+      "https://henry.codes/writing/a-website-to-destroy-all-websites/"
+    ]
+  ],
+  [
+    [
       "2026-01-01, 20:35:11",
       "https://news.ycombinator.com/item?id=46457770"
     ],
@@ -11,22 +31,12 @@
   ],
   [
     [
-      "2026-01-01, 19:58:19",
-      "https://news.ycombinator.com/item?id=46457454"
+      "2026-01-01, 19:33:53",
+      "https://news.ycombinator.com/item?id=46457240"
     ],
     [
-      "Starlink satellites being lowered from 550 km to 480 km",
-      "https://twitter.com/michaelnicollsx/status/2006790372681220530"
-    ]
-  ],
-  [
-    [
-      "2026-01-01, 19:30:19",
-      "https://news.ycombinator.com/item?id=46457196"
-    ],
-    [
-      "Arpanet standardized TCP/IP on this day in 1983",
-      "https://www.tomshardware.com/networking/arpanet-standardized-tcp-ip-on-this-day-in-1983-43-year-old-standard-set-the-foundations-for-todays-internet"
+      "Prompting People",
+      "https://kuber.studio/blog/Reflections/Prompting-People"
     ]
   ],
   [
@@ -37,6 +47,16 @@
     [
       "Dell's version of the DGX Spark fixes pain points",
       "https://www.jeffgeerling.com/blog/2025/dells-version-dgx-spark-fixes-pain-points"
+    ]
+  ],
+  [
+    [
+      "2026-01-01, 18:49:40",
+      "https://news.ycombinator.com/item?id=46456838"
+    ],
+    [
+      "Modern evidence for God from cosmology, astrochemistry, etc. (by a YC alum)",
+      "https://www.saintbeluga.org/follow-the-evidence-wherever-it-leads"
     ]
   ],
   [
@@ -57,6 +77,26 @@
     [
       "Building an internal agent: Code-driven vs. LLM-driven workflows",
       "https://lethain.com/agents-coordinators/"
+    ]
+  ],
+  [
+    [
+      "2026-01-01, 18:20:38",
+      "https://news.ycombinator.com/item?id=46456543"
+    ],
+    [
+      "Street-Fighting Mathematics (2008)",
+      "https://ocw.mit.edu/courses/18-098-street-fighting-mathematics-january-iap-2008/pages/readings/"
+    ]
+  ],
+  [
+    [
+      "2026-01-01, 18:08:48",
+      "https://news.ycombinator.com/item?id=46456387"
+    ],
+    [
+      "Gemini 3.0 Deciphered the Mystery of a Nuremberg Chronicle Leaf's",
+      "https://blog.gdeltproject.org/gemini-as-indiana-jones-how-gemini-3-0-deciphered-the-mystery-of-a-nuremberg-chronicle-leafs-500-year-old-roundels/"
     ]
   ],
   [
@@ -107,16 +147,6 @@
     [
       "Common Lisp SDK for the Datastar Hypermedia Framework",
       "https://github.com/fsmunoz/datastar-cl"
-    ]
-  ],
-  [
-    [
-      "2026-01-01, 15:31:24",
-      "https://news.ycombinator.com/item?id=46454854"
-    ],
-    [
-      "Heap Overflow in FFmpeg EXIF",
-      "https://bugs.pwno.io/0014"
     ]
   ],
   [
@@ -221,16 +251,6 @@
   ],
   [
     [
-      "2025-12-31, 23:54:46",
-      "https://news.ycombinator.com/item?id=46449643"
-    ],
-    [
-      "2025: The Year in LLMs",
-      "https://simonwillison.net/2025/Dec/31/the-year-in-llms/"
-    ]
-  ],
-  [
-    [
       "2025-12-31, 21:27:32",
       "https://news.ycombinator.com/item?id=46448527"
     ],
@@ -251,32 +271,12 @@
   ],
   [
     [
-      "2025-12-28, 18:28:07",
-      "https://news.ycombinator.com/item?id=46413256"
-    ],
-    [
-      "If you care about security you might want to move the iPhone Camera app",
-      "https://blog.jgc.org/2025/12/if-you-care-about-security-you-might.html"
-    ]
-  ],
-  [
-    [
       "2025-12-28, 15:54:02",
       "https://news.ycombinator.com/item?id=46411930"
     ],
     [
       "All my Deutschlandtickets gone: Fraud at an industrial scale [video]",
       "https://media.ccc.de/v/39c3-all-my-deutschlandtickets-gone-fraud-at-an-industrial-scale"
-    ]
-  ],
-  [
-    [
-      "2025-12-27, 20:38:56",
-      "https://news.ycombinator.com/item?id=46405037"
-    ],
-    [
-      "Motion and Machine",
-      "https://blog.ayjay.org/motion-and-machine/"
     ]
   ],
   [
