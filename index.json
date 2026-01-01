@@ -1,22 +1,22 @@
 [
   [
     [
-      "2026-01-01, 17:18:01",
-      "https://news.ycombinator.com/item?id=46455872"
+      "2026-01-01, 17:52:30",
+      "https://news.ycombinator.com/item?id=46456215"
     ],
     [
-      "Cameras and Lenses",
-      "https://ciechanow.ski/cameras-and-lenses/"
+      "Memory Subsystem Optimizations",
+      "https://johnnysswlab.com/memory-subsystem-optimizations/"
     ]
   ],
   [
     [
-      "2026-01-01, 17:12:38",
-      "https://news.ycombinator.com/item?id=46455814"
+      "2026-01-01, 17:18:01",
+      "https://news.ycombinator.com/item?id=46455872"
     ],
     [
-      "Autism hasn't increased",
-      "https://marginalrevolution.com/marginalrevolution/2026/01/autism-hasnt-increased.html"
+      "Cameras and Lenses (2020)",
+      "https://ciechanow.ski/cameras-and-lenses/"
     ]
   ],
   [
@@ -171,22 +171,12 @@
   ],
   [
     [
-      "2026-01-01, 03:47:20",
-      "https://news.ycombinator.com/item?id=46451124"
+      "2026-01-01, 10:53:12",
+      "https://news.ycombinator.com/item?id=46453062"
     ],
     [
-      "Flow5 released to open source",
-      "https://flow5.tech/docs/releasenotes.html"
-    ]
-  ],
-  [
-    [
-      "2026-01-01, 00:18:43",
-      "https://news.ycombinator.com/item?id=46449812"
-    ],
-    [
-      "Show HN: BusterMQ, Thread-per-core NATS server in Zig with io_uring",
-      "https://bustermq.sh/"
+      "Rust--: Rust without the borrow checker",
+      "https://github.com/buyukakyuz/rustmm"
     ]
   ],
   [
@@ -221,12 +211,12 @@
   ],
   [
     [
-      "2025-12-31, 17:42:20",
-      "https://news.ycombinator.com/item?id=46446366"
+      "2025-12-31, 13:02:48",
+      "https://news.ycombinator.com/item?id=46443744"
     ],
     [
-      "Web Browsers have stopped blocking pop-ups",
-      "https://www.smokingonabike.com/2025/12/31/web-browsers-have-stopped-blocking-pop-ups/"
+      "Tell HN: Happy New Year",
+      "https://news.ycombinator.com/item?id=46443744"
     ]
   ],
   [
@@ -277,6 +267,16 @@
     [
       "Pokémon Team Optimization",
       "https://nchagnet.pages.dev/blog/pokemon-team-optimization/"
+    ]
+  ],
+  [
+    [
+      "2025-12-25, 17:56:22",
+      "https://news.ycombinator.com/item?id=46385943"
+    ],
+    [
+      "How to recognise a genuine password request",
+      "https://eclecticlight.co/2025/12/18/how-to-recognise-a-genuine-password-request/"
     ]
   ],
   [
