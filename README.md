@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-01-02, 21:45:40](https://news.ycombinator.com/item?id=46469780) - [I wrote the manual Karpathy said was missing for agentic AI](https://github.com/nicolasahar/morphic-programming)
+* [2026-01-02, 22:35:05](https://news.ycombinator.com/item?id=46470317) - [Grok Sexual Images Draw Rebuke, France Flags Content as Illegal](https://finance.yahoo.com/news/grok-sexual-images-draw-rebuke-180354505.html)
 * [2026-01-02, 21:44:41](https://news.ycombinator.com/item?id=46469771) - [Global software engineering job postings outlook – 2026](https://jobswithgpt.com/blog/global_software-engineering_jobs_january_2026/)
 * [2026-01-02, 21:31:34](https://news.ycombinator.com/item?id=46469623) - [Linux kernel security work](http://www.kroah.com/log/blog/2026/01/02/linux-kernel-security-work/)
 * [2026-01-02, 21:27:44](https://news.ycombinator.com/item?id=46469577) - [Daft Punk Easter Egg in the BPM Tempo of Harder, Better, Faster, Stronger?](https://www.madebywindmill.com/tempi/blog/hbfs-bpm/)

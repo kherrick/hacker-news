@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-01-02](index.md)
 
+* [2026-01-02, 22:35:05](https://news.ycombinator.com/item?id=46470317) - [Grok Sexual Images Draw Rebuke, France Flags Content as Illegal](https://finance.yahoo.com/news/grok-sexual-images-draw-rebuke-180354505.html)
 * [2026-01-02, 21:48:59](https://news.ycombinator.com/item?id=46469811) - [Tesla sales fell by 9 percent in 2025, its second yearly decline](https://arstechnica.com/cars/2026/01/tesla-sales-fell-by-9-percent-in-2025-its-second-yearly-decline/)
 * [2026-01-02, 21:45:40](https://news.ycombinator.com/item?id=46469780) - [I wrote the manual Karpathy said was missing for agentic AI](https://github.com/nicolasahar/morphic-programming)
 * [2026-01-02, 21:44:41](https://news.ycombinator.com/item?id=46469771) - [Global software engineering job postings outlook – 2026](https://jobswithgpt.com/blog/global_software-engineering_jobs_january_2026/)
