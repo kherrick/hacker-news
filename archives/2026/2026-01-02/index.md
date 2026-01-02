@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-01-02](index.md)
 
+* [2026-01-02, 13:17:06](https://news.ycombinator.com/item?id=46464426) - [39th Chaos Communication Congress Videos](https://media.ccc.de/b/congress/2025)
 * [2026-01-02, 12:46:31](https://news.ycombinator.com/item?id=46464235) - [FracturedJson](https://github.com/j-brooke/FracturedJson/wiki)
+* [2026-01-02, 12:31:03](https://news.ycombinator.com/item?id=46464133) - [Show HN: Dealta – A game-theoretic decentralized trading protocol](https://github.com/orgs/Dealta-Foundation/repositories)
 * [2026-01-02, 12:07:00](https://news.ycombinator.com/item?id=46463992) - [Show HN: I built a clipboard tool to strip/keep specific formatting like Italics](https://custompaste.com)
 * [2026-01-02, 11:15:52](https://news.ycombinator.com/item?id=46463683) - [High-Fidelity 3D Shape Generation](https://pku-yuangroup.github.io/UltraShape-1.0/)
 * [2026-01-02, 11:07:51](https://news.ycombinator.com/item?id=46463644) - [10 years of personal finances in plain text files](https://sgoel.dev/posts/10-years-of-personal-finances-in-plain-text-files/)

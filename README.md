@@ -1,8 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-01-02, 13:17:06](https://news.ycombinator.com/item?id=46464426) - [39th Chaos Communication Congress Videos](https://media.ccc.de/b/congress/2025)
 * [2026-01-02, 12:46:31](https://news.ycombinator.com/item?id=46464235) - [FracturedJson](https://github.com/j-brooke/FracturedJson/wiki)
+* [2026-01-02, 12:31:03](https://news.ycombinator.com/item?id=46464133) - [Show HN: Dealta – A game-theoretic decentralized trading protocol](https://github.com/orgs/Dealta-Foundation/repositories)
 * [2026-01-02, 12:07:00](https://news.ycombinator.com/item?id=46463992) - [Show HN: I built a clipboard tool to strip/keep specific formatting like Italics](https://custompaste.com)
-* [2026-01-02, 11:15:52](https://news.ycombinator.com/item?id=46463683) - [High-Fidelity 3D Shape Generation](https://pku-yuangroup.github.io/UltraShape-1.0/)
 * [2026-01-02, 11:07:51](https://news.ycombinator.com/item?id=46463644) - [10 years of personal finances in plain text files](https://sgoel.dev/posts/10-years-of-personal-finances-in-plain-text-files/)
 * [2026-01-02, 10:25:11](https://news.ycombinator.com/item?id=46463407) - [One Number I Trust: Plain-Text Accounting for a Multi-Currency Household](https://lalitm.com/post/one-number-i-trust/)
 * [2026-01-02, 10:10:46](https://news.ycombinator.com/item?id=46463315) - [HPV vaccination reduces oncogenic HPV16/18 prevalence from 16% to <1% in Denmark](https://www.eurosurveillance.org/content/10.2807/1560-7917.ES.2025.30.27.2400820)
@@ -12,7 +13,6 @@
 * [2026-01-02, 06:48:32](https://news.ycombinator.com/item?id=46462108) - [FreeBSD: Home NAS, part 1 – configuring ZFS mirror (RAID1)](https://rtfm.co.ua/en/freebsd-home-nas-part-1-configuring-zfs-mirror-raid1/)
 * [2026-01-02, 02:21:57](https://news.ycombinator.com/item?id=46460676) - [Marmot – A distributed SQLite server with MySQL wire compatible interface](https://github.com/maxpert/marmot)
 * [2026-01-02, 01:42:16](https://news.ycombinator.com/item?id=46460440) - [Happy Public Domain Day 2026](https://publicdomainreview.org/blog/2026/01/public-domain-day-2026/)
-* [2026-01-02, 01:36:25](https://news.ycombinator.com/item?id=46460394) - [Extensibility: The \"100% Lisp\" Fallacy](https://kyo.iroiro.party/en/posts/100-percent-lisp/)
 * [2026-01-02, 01:24:51](https://news.ycombinator.com/item?id=46460319) - [Why users cannot create Issues directly](https://github.com/ghostty-org/ghostty/issues/3558)
 * [2026-01-01, 21:37:10](https://news.ycombinator.com/item?id=46458302) - [Can Bundler be as fast as uv?](https://tenderlovemaking.com/2025/12/29/can-bundler-be-as-fast-as-uv/)
 * [2026-01-01, 20:36:46](https://news.ycombinator.com/item?id=46457784) - [A website to destroy all websites](https://henry.codes/writing/a-website-to-destroy-all-websites/)
@@ -28,7 +28,7 @@
 * [2026-01-01, 00:23:54](https://news.ycombinator.com/item?id=46449852) - [Show HN: Enroll, a tool to reverse-engineer servers into Ansible config mgmt](https://enroll.sh)
 * [2025-12-29, 10:28:38](https://news.ycombinator.com/item?id=46419196) - [Can I throw a C++ exception from a structured exception?](https://devblogs.microsoft.com/oldnewthing/20170728-00/?p=96706)
 * [2025-12-27, 21:35:10](https://news.ycombinator.com/item?id=46405463) - [Contact the ISS](https://www.ariss.org/contact-the-iss.html)
-* [2025-12-26, 23:20:00](https://news.ycombinator.com/item?id=46397454) - [Square Minus Square – A coding agent benchmark](https://aedm.net/blog/square-minus-square-2025-12-22/)
+* [2025-12-27, 19:17:25](https://news.ycombinator.com/item?id=46404321) - [What You Need to Know Before Touching a Video File](https://gist.github.com/arch1t3cht/b5b9552633567fa7658deee5aec60453/)
 * [2025-12-26, 17:07:09](https://news.ycombinator.com/item?id=46393929) - [Matz 2/2: The trajectory of Ruby's growth, Open-Source Software today etc.](https://en.kaigaiiju.ch/episodes/matz2)
 
 ## [Archives](archives/index.md)

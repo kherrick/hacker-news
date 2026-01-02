@@ -27,6 +27,7 @@
 * [2025-12-27, 19:54:28](https://news.ycombinator.com/item?id=46404673) - [U.S. decision to impose travel restrictions on EU individuals](https://ec.europa.eu/commission/presscorner/detail/en/statement_25_3160)
 * [2025-12-27, 19:45:28](https://news.ycombinator.com/item?id=46404597) - [Rainbow Six Siege Hacked as Players Get Billions of Credits and Random Bans](https://www.shanethegamer.com/esports-news/rainbow-six-siege-hacked-global-server-outage/)
 * [2025-12-27, 19:37:35](https://news.ycombinator.com/item?id=46404509) - [Only 5 Sears stores remain in the U.S.](https://www.nytimes.com/2025/12/26/business/sears-seritage-edward-lampert.html)
+* [2025-12-27, 19:17:25](https://news.ycombinator.com/item?id=46404321) - [What You Need to Know Before Touching a Video File](https://gist.github.com/arch1t3cht/b5b9552633567fa7658deee5aec60453/)
 * [2025-12-27, 18:31:27](https://news.ycombinator.com/item?id=46403992) - [Toll roads are spreading in America](https://www.economist.com/united-states/2025/12/18/toll-roads-are-spreading-in-america)
 * [2025-12-27, 18:26:46](https://news.ycombinator.com/item?id=46403955) - [Scientists Edited Genes Inside a Living Person for First Time, Saved His Life](https://www.popularmechanics.com/science/health/a64815804/crispr-therapy/)
 * [2025-12-27, 18:22:05](https://news.ycombinator.com/item?id=46403915) - [Windows 2 for the Apricot PC/Xi](https://www.ninakalinina.com/notes/win2apri/)
