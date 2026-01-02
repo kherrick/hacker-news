@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-01-02](index.md)
 
+* [2026-01-02, 20:24:13](https://news.ycombinator.com/item?id=46468959) - [Ask HN: What tech job would let me get away with the least real work possible?](https://news.ycombinator.com/item?id=46468959)
 * [2026-01-02, 19:48:25](https://news.ycombinator.com/item?id=46468600) - [Publish (On Your) Own Site, Syndicate Elsewhere](https://indieweb.org/POSSE#)
 * [2026-01-02, 19:39:38](https://news.ycombinator.com/item?id=46468517) - [Jank Lang Hit Alpha](https://github.com/jank-lang/jank)
 * [2026-01-02, 19:30:52](https://news.ycombinator.com/item?id=46468414) - [Grok Can't Apologize. So Why Do Headlines Keep Saying It Did?](https://www.readtpa.com/p/grok-cant-apologize-grok-isnt-sentient)

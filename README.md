@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-01-02, 20:24:13](https://news.ycombinator.com/item?id=46468959) - [Ask HN: What tech job would let me get away with the least real work possible?](https://news.ycombinator.com/item?id=46468959)
 * [2026-01-02, 19:48:25](https://news.ycombinator.com/item?id=46468600) - [Publish (On Your) Own Site, Syndicate Elsewhere](https://indieweb.org/POSSE#)
 * [2026-01-02, 19:39:38](https://news.ycombinator.com/item?id=46468517) - [Jank Lang Hit Alpha](https://github.com/jank-lang/jank)
 * [2026-01-02, 19:30:46](https://news.ycombinator.com/item?id=46468411) - [I wrote a batch script to keep my 2011 ThinkPad alive for 24/7 streaming](https://github.com/patrick48001/ThinkPad-Stream-Sentinel-VLC-Video-Source-reset-disable-stream-shutter)
@@ -24,7 +25,6 @@
 * [2026-01-02, 08:40:41](https://news.ycombinator.com/item?id=46462702) - [Standard Ebooks: Public Domain Day 2026 in Literature](https://standardebooks.org/blog/public-domain-day-2026)
 * [2026-01-02, 01:42:16](https://news.ycombinator.com/item?id=46460440) - [Happy Public Domain Day 2026](https://publicdomainreview.org/blog/2026/01/public-domain-day-2026/)
 * [2026-01-02, 01:24:51](https://news.ycombinator.com/item?id=46460319) - [Why users cannot create Issues directly](https://github.com/ghostty-org/ghostty/issues/3558)
-* [2026-01-01, 20:36:46](https://news.ycombinator.com/item?id=46457784) - [A website to destroy all websites](https://henry.codes/writing/a-website-to-destroy-all-websites/)
 * [2025-12-28, 20:24:41](https://news.ycombinator.com/item?id=46414152) - [Miri: Practical Undefined Behavior Detection for Rust [pdf]](https://research.ralfj.de/papers/2026-popl-miri.pdf)
 * [2025-12-28, 11:19:23](https://news.ycombinator.com/item?id=46410258) - [ThingsBoard: Open-Source IoT Platform](https://github.com/thingsboard/thingsboard)
 * [2025-12-28, 08:21:41](https://news.ycombinator.com/item?id=46409400) - [List, inspect and explore OCI container images, their layers and contents](https://github.com/bschaatsbergen/lix)
