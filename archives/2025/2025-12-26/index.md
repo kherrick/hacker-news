@@ -6,6 +6,7 @@
 
 * [2025-12-26, 23:42:46](https://news.ycombinator.com/item?id=46397609) - [Exe.dev/](https://exe.dev/)
 * [2025-12-26, 23:34:06](https://news.ycombinator.com/item?id=46397537) - [Show HN: Spacelist, a TUI for Aerospace window manager](https://github.com/magicmark/spacelist)
+* [2025-12-26, 23:20:00](https://news.ycombinator.com/item?id=46397454) - [Square Minus Square – A coding agent benchmark](https://aedm.net/blog/square-minus-square-2025-12-22/)
 * [2025-12-26, 23:09:40](https://news.ycombinator.com/item?id=46397379) - [Always Bet on Text](https://graydon2.dreamwidth.org/193447.html)
 * [2025-12-26, 22:15:52](https://news.ycombinator.com/item?id=46396912) - [Mouse: Computer Programming Language](http://mouse.davidgsimpson.com/)
 * [2025-12-26, 22:06:15](https://news.ycombinator.com/item?id=46396824) - [Developing a Beautiful and Performant Block Editor in Qt C++ and QML](https://rubymamistvalove.com/block-editor)

@@ -27,9 +27,9 @@
 * [2025-12-28, 18:28:07](https://news.ycombinator.com/item?id=46413256) - [If you care about security you might want to move the iPhone Camera app](https://blog.jgc.org/2025/12/if-you-care-about-security-you-might.html)
 * [2025-12-27, 21:35:10](https://news.ycombinator.com/item?id=46405463) - [Contact the ISS](https://www.ariss.org/contact-the-iss.html)
 * [2025-12-27, 01:23:08](https://news.ycombinator.com/item?id=46398235) - [James Moylan, engineer behind arrow signaling which side to refuel a car, dies](https://fordauthority.com/2025/12/ford-engineer-that-designed-gas-tank-indicator-passes-away/)
+* [2025-12-26, 23:20:00](https://news.ycombinator.com/item?id=46397454) - [Square Minus Square – A coding agent benchmark](https://aedm.net/blog/square-minus-square-2025-12-22/)
 * [2025-12-26, 17:07:09](https://news.ycombinator.com/item?id=46393929) - [Matz 2/2: The trajectory of Ruby's growth, Open-Source Software today etc.](https://en.kaigaiiju.ch/episodes/matz2)
 * [2025-12-26, 14:06:47](https://news.ycombinator.com/item?id=46392095) - [C-events, yet another event loop, simpler, smaller, faster, safer](https://zelang-dev.github.io/c-events/)
-* [2025-12-26, 03:20:11](https://news.ycombinator.com/item?id=46388912) - [Moving Images Related to the Apollo Missions, 1967–1969](https://catalog.archives.gov/id/133360601)
 
 ## [Archives](archives/index.md)
 
