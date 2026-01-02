@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-01-02, 05:00:25](https://news.ycombinator.com/item?id=46461578) - [A confession from a mainstream food delivery app engineer](https://www.reddit.com/r/confession/s/gbrh2zxeou)
+* [2026-01-02, 05:39:13](https://news.ycombinator.com/item?id=46461778) - [Real Biological Clock Is You're Going to Die](https://hmmdaily.com/2018/10/18/your-real-biological-clock-is-youre-going-to-die/)
 * [2026-01-02, 04:57:25](https://news.ycombinator.com/item?id=46461563) - [I'm a developer for a major food delivery app](https://old.reddit.com/r/confession/comments/1q1mzej/im_a_developer_for_a_major_food_delivery_app_the/)
 * [2026-01-02, 02:21:57](https://news.ycombinator.com/item?id=46460676) - [Marmot – A distributed SQLite server with MySQL wire compatible interface](https://github.com/maxpert/marmot)
 * [2026-01-02, 01:42:16](https://news.ycombinator.com/item?id=46460440) - [Happy Public Domain Day 2026](https://publicdomainreview.org/blog/2026/01/public-domain-day-2026/)
@@ -25,8 +25,8 @@
 * [2025-12-30, 08:19:08](https://news.ycombinator.com/item?id=46430815) - [Quickemu: Quickly create and run optimised Windows, macOS and Linux VMs](https://github.com/quickemu-project/quickemu)
 * [2025-12-28, 20:09:00](https://news.ycombinator.com/item?id=46414037) - [Five archetypes of small-scale fisheries reveal a continuum of strategies](https://www.nature.com/articles/s43016-025-01237-5)
 * [2025-12-28, 18:28:07](https://news.ycombinator.com/item?id=46413256) - [If you care about security you might want to move the iPhone Camera app](https://blog.jgc.org/2025/12/if-you-care-about-security-you-might.html)
-* [2025-12-28, 15:54:02](https://news.ycombinator.com/item?id=46411930) - [All my Deutschlandtickets gone: Fraud at an industrial scale [video]](https://media.ccc.de/v/39c3-all-my-deutschlandtickets-gone-fraud-at-an-industrial-scale)
 * [2025-12-27, 22:20:03](https://news.ycombinator.com/item?id=46405916) - [Gaming on a Receipt Printer [video]](https://www.youtube.com/watch?v=oEqvYXYI56s)
+* [2025-12-27, 21:35:10](https://news.ycombinator.com/item?id=46405463) - [Contact the ISS](https://www.ariss.org/contact-the-iss.html)
 * [2025-12-27, 01:23:08](https://news.ycombinator.com/item?id=46398235) - [James Moylan, engineer behind arrow signaling which side to refuel a car, dies](https://fordauthority.com/2025/12/ford-engineer-that-designed-gas-tank-indicator-passes-away/)
 * [2025-12-26, 14:06:47](https://news.ycombinator.com/item?id=46392095) - [C-events, yet another event loop, simpler, smaller, faster, safer](https://zelang-dev.github.io/c-events/)
 * [2025-12-26, 03:20:11](https://news.ycombinator.com/item?id=46388912) - [Moving Images Related to the Apollo Missions, 1967–1969](https://catalog.archives.gov/id/133360601)
