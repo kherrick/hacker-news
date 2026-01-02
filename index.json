@@ -231,16 +231,6 @@
   ],
   [
     [
-      "2026-01-01, 00:23:54",
-      "https://news.ycombinator.com/item?id=46449852"
-    ],
-    [
-      "Show HN: Enroll, a tool to reverse-engineer servers into Ansible config mgmt",
-      "https://enroll.sh"
-    ]
-  ],
-  [
-    [
       "2025-12-29, 10:28:38",
       "https://news.ycombinator.com/item?id=46419196"
     ],
@@ -257,6 +247,16 @@
     [
       "Miri: Practical Undefined Behavior Detection for Rust [pdf]",
       "https://research.ralfj.de/papers/2026-popl-miri.pdf"
+    ]
+  ],
+  [
+    [
+      "2025-12-28, 20:12:45",
+      "https://news.ycombinator.com/item?id=46414062"
+    ],
+    [
+      "Understanding Elasticsearch Percolator Field and Ingestion Lifecycle",
+      "https://kulekci.medium.com/understanding-elasticsearch-percolator-field-and-ingestion-lifecycle-b6437fc04b27"
     ]
   ],
   [
