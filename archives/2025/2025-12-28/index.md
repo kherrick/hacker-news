@@ -43,6 +43,7 @@
 * [2025-12-28, 15:02:07](https://news.ycombinator.com/item?id=46411539) - [Designing Predictable LLM-Verifier Systems for Formal Method Guarantee](https://arxiv.org/abs/2512.02080)
 * [2025-12-28, 14:57:47](https://news.ycombinator.com/item?id=46411500) - [Ask HN: Best Podcasts of 2025?](https://news.ycombinator.com/item?id=46411500)
 * [2025-12-28, 14:24:59](https://news.ycombinator.com/item?id=46411275) - [Ask HN: Anti-AI Open Source License?](https://news.ycombinator.com/item?id=46411275)
+* [2025-12-28, 14:06:50](https://news.ycombinator.com/item?id=46411156) - [I was wrong about TypeScript part 1](https://chefama.blog/blog/posts/i-was-wrong-about-typescript-1)
 * [2025-12-28, 13:42:42](https://news.ycombinator.com/item?id=46411040) - ['PromptQuest' is the worst game of 2025 (trying to make chatbots work)](https://www.theregister.com/2025/12/26/ai_is_like_adventure_games/)
 * [2025-12-28, 13:01:26](https://news.ycombinator.com/item?id=46410776) - [Recreating the Bell Labs Switch Experiment with Agents](https://cianfrani.dev/posts/12-switches/)
 * [2025-12-28, 12:42:11](https://news.ycombinator.com/item?id=46410676) - [A super fast website using Cloudflare workers](https://crazyfast.website)

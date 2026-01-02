@@ -4,4 +4,11 @@
 
 ### [Archives](../../index.md) for [2026-01-02](index.md)
 
+* [2026-01-02, 02:51:41](https://news.ycombinator.com/item?id=46460867) - [China's BYD set to overtake Tesla as top EV seller](https://www.bbc.com/news/articles/cj9rjwpvmpzo)
+* [2026-01-02, 02:45:22](https://news.ycombinator.com/item?id=46460831) - [DENT: A network operating system (NOS) for everyone else](https://dent.dev/)
+* [2026-01-02, 02:21:57](https://news.ycombinator.com/item?id=46460676) - [Marmot – A distributed SQLite server with MySQL wire compatible interface](https://github.com/maxpert/marmot)
+* [2026-01-02, 01:51:20](https://news.ycombinator.com/item?id=46460496) - [AI Futures Model: Dec 2025 Update](https://blog.ai-futures.org/p/ai-futures-model-dec-2025-update)
 * [2026-01-02, 01:42:16](https://news.ycombinator.com/item?id=46460440) - [Happy Public Domain Day 2026](https://publicdomainreview.org/blog/2026/01/public-domain-day-2026/)
+* [2026-01-02, 01:36:25](https://news.ycombinator.com/item?id=46460394) - [Extensibility: The \"100% Lisp\" Fallacy](https://kyo.iroiro.party/en/posts/100-percent-lisp/)
+* [2026-01-02, 01:24:51](https://news.ycombinator.com/item?id=46460319) - [Why users cannot create Issues directly](https://github.com/ghostty-org/ghostty/issues/3558)
+* [2026-01-02, 01:07:08](https://news.ycombinator.com/item?id=46460208) - [California Delete Request and Opt-out Platform (DROP)](https://privacy.ca.gov/DROP/)
