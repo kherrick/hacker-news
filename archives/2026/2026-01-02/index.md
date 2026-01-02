@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-01-02](index.md)
 
+* [2026-01-02, 12:46:31](https://news.ycombinator.com/item?id=46464235) - [FracturedJson](https://github.com/j-brooke/FracturedJson/wiki)
+* [2026-01-02, 12:07:00](https://news.ycombinator.com/item?id=46463992) - [Show HN: I built a clipboard tool to strip/keep specific formatting like Italics](https://custompaste.com)
+* [2026-01-02, 11:15:52](https://news.ycombinator.com/item?id=46463683) - [High-Fidelity 3D Shape Generation](https://pku-yuangroup.github.io/UltraShape-1.0/)
 * [2026-01-02, 11:07:51](https://news.ycombinator.com/item?id=46463644) - [10 years of personal finances in plain text files](https://sgoel.dev/posts/10-years-of-personal-finances-in-plain-text-files/)
 * [2026-01-02, 11:01:29](https://news.ycombinator.com/item?id=46463600) - [2025 Letter](https://danwang.co/)
 * [2026-01-02, 10:25:11](https://news.ycombinator.com/item?id=46463407) - [One Number I Trust: Plain-Text Accounting for a Multi-Currency Household](https://lalitm.com/post/one-number-i-trust/)
