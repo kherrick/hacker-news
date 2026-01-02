@@ -1,7 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-01-02, 02:51:41](https://news.ycombinator.com/item?id=46460867) - [China's BYD set to overtake Tesla as top EV seller](https://www.bbc.com/news/articles/cj9rjwpvmpzo)
-* [2026-01-02, 02:45:22](https://news.ycombinator.com/item?id=46460831) - [DENT: A network operating system (NOS) for everyone else](https://dent.dev/)
 * [2026-01-02, 02:21:57](https://news.ycombinator.com/item?id=46460676) - [Marmot – A distributed SQLite server with MySQL wire compatible interface](https://github.com/maxpert/marmot)
 * [2026-01-02, 01:42:16](https://news.ycombinator.com/item?id=46460440) - [Happy Public Domain Day 2026](https://publicdomainreview.org/blog/2026/01/public-domain-day-2026/)
 * [2026-01-02, 01:36:25](https://news.ycombinator.com/item?id=46460394) - [Extensibility: The \"100% Lisp\" Fallacy](https://kyo.iroiro.party/en/posts/100-percent-lisp/)
@@ -14,6 +12,7 @@
 * [2026-01-01, 20:35:11](https://news.ycombinator.com/item?id=46457770) - [Linux is good now](https://www.pcgamer.com/software/linux/im-brave-enough-to-say-it-linux-is-good-now-and-if-you-want-to-feel-like-you-actually-own-your-pc-make-2026-the-year-of-linux-on-your-desktop/)
 * [2026-01-01, 19:11:53](https://news.ycombinator.com/item?id=46457027) - [Dell's version of the DGX Spark fixes pain points](https://www.jeffgeerling.com/blog/2025/dells-version-dgx-spark-fixes-pain-points)
 * [2026-01-01, 18:46:07](https://news.ycombinator.com/item?id=46456797) - [Finland detains ship and its crew after critical undersea cable damaged](https://www.cnn.com/2025/12/31/europe/finland-estonia-undersea-cable-ship-detained-intl)
+* [2026-01-01, 18:34:25](https://news.ycombinator.com/item?id=46456682) - [Building an internal agent: Code-driven vs. LLM-driven workflows](https://lethain.com/agents-coordinators/)
 * [2026-01-01, 17:18:01](https://news.ycombinator.com/item?id=46455872) - [Cameras and Lenses (2020)](https://ciechanow.ski/cameras-and-lenses/)
 * [2026-01-01, 15:49:42](https://news.ycombinator.com/item?id=46454977) - [BYD Sells 4.6M Vehicles in 2025, Meets Revised Sales Goal](https://www.bloomberg.com/news/articles/2026-01-01/byd-sells-4-6-million-vehicles-in-2025-meets-revised-sales-goal)
 * [2026-01-01, 15:45:25](https://news.ycombinator.com/item?id=46454944) - [50% of U.S. vinyl buyers don't own a record player](https://lightcapai.medium.com/the-great-return-from-digital-abundance-to-analog-meaning-cfda9e428752)
@@ -28,6 +27,7 @@
 * [2025-12-28, 15:54:02](https://news.ycombinator.com/item?id=46411930) - [All my Deutschlandtickets gone: Fraud at an industrial scale [video]](https://media.ccc.de/v/39c3-all-my-deutschlandtickets-gone-fraud-at-an-industrial-scale)
 * [2025-12-28, 14:06:50](https://news.ycombinator.com/item?id=46411156) - [I was wrong about TypeScript part 1](https://chefama.blog/blog/posts/i-was-wrong-about-typescript-1)
 * [2025-12-27, 22:20:03](https://news.ycombinator.com/item?id=46405916) - [Gaming on a Receipt Printer [video]](https://www.youtube.com/watch?v=oEqvYXYI56s)
+* [2025-12-27, 01:23:08](https://news.ycombinator.com/item?id=46398235) - [James Moylan, engineer behind arrow signaling which side to refuel a car, dies](https://fordauthority.com/2025/12/ford-engineer-that-designed-gas-tank-indicator-passes-away/)
 * [2025-12-26, 14:06:47](https://news.ycombinator.com/item?id=46392095) - [C-events, yet another event loop, simpler, smaller, faster, safer](https://zelang-dev.github.io/c-events/)
 * [2025-12-26, 03:20:11](https://news.ycombinator.com/item?id=46388912) - [Moving Images Related to the Apollo Missions, 1967–1969](https://catalog.archives.gov/id/133360601)
 
