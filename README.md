@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2026-01-02, 19:48:25](https://news.ycombinator.com/item?id=46468600) - [Publish (On Your) Own Site, Syndicate Elsewhere](https://indieweb.org/POSSE#)
+* [2026-01-02, 19:30:52](https://news.ycombinator.com/item?id=46468414) - [Grok Can't Apologize. So Why Do Headlines Keep Saying It Did?](https://www.readtpa.com/p/grok-cant-apologize-grok-isnt-sentient)
 * [2026-01-02, 19:18:36](https://news.ycombinator.com/item?id=46468283) - [4th Edition Unix in the Browser](https://unixv4.dev/)
 * [2026-01-02, 19:13:24](https://news.ycombinator.com/item?id=46468237) - [TinyTinyTPU: 2×2 systolic-array TPU-style matrix-multiply unit deployed on FPGA](https://github.com/Alanma23/tinytinyTPU-co)
 * [2026-01-02, 18:18:47](https://news.ycombinator.com/item?id=46467677) - [Fighting Fire with Fire: Scalable Oral Exams](https://www.behind-the-enemy-lines.com/2025/12/fighting-fire-with-fire-scalable-oral.html)
@@ -14,7 +15,6 @@
 * [2026-01-02, 13:42:37](https://news.ycombinator.com/item?id=46464652) - [Parental controls aren't for parents](https://beasthacker.com/til/parental-controls-arent-for-parents.html)
 * [2026-01-02, 13:17:06](https://news.ycombinator.com/item?id=46464426) - [39th Chaos Communication Congress Videos](https://media.ccc.de/b/congress/2025)
 * [2026-01-02, 12:46:31](https://news.ycombinator.com/item?id=46464235) - [FracturedJson](https://github.com/j-brooke/FracturedJson/wiki)
-* [2026-01-02, 12:31:03](https://news.ycombinator.com/item?id=46464133) - [Show HN: Dealta – A game-theoretic decentralized trading protocol](https://github.com/orgs/Dealta-Foundation/repositories)
 * [2026-01-02, 12:29:23](https://news.ycombinator.com/item?id=46464120) - [Assorted less(1) tips](https://blog.thechases.com/posts/assorted-less-tips/)
 * [2026-01-02, 11:07:51](https://news.ycombinator.com/item?id=46463644) - [10 years of personal finances in plain text files](https://sgoel.dev/posts/10-years-of-personal-finances-in-plain-text-files/)
 * [2026-01-02, 11:06:29](https://news.ycombinator.com/item?id=46463635) - [A small collection of text-only websites](https://shkspr.mobi/blog/2025/12/a-small-collection-of-text-only-websites/)
