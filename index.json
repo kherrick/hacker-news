@@ -1,12 +1,22 @@
 [
   [
     [
-      "2026-01-02, 14:18:47",
-      "https://news.ycombinator.com/item?id=46464962"
+      "2026-01-02, 15:08:52",
+      "https://news.ycombinator.com/item?id=46465472"
     ],
     [
-      "I'm having the worst career winter of my life",
-      "https://news.ycombinator.com/item?id=46464962"
+      "Why do Americans hate A.I.?",
+      "https://www.nytimes.com/2026/01/02/briefing/why-do-americans-hate-ai.html"
+    ]
+  ],
+  [
+    [
+      "2026-01-02, 14:55:09",
+      "https://news.ycombinator.com/item?id=46465327"
+    ],
+    [
+      "IPv6 just turned 30 and still hasn't taken over the world",
+      "https://www.theregister.com/2025/12/31/ipv6_at_30/"
     ]
   ],
   [
@@ -241,16 +251,6 @@
   ],
   [
     [
-      "2026-01-01, 00:23:54",
-      "https://news.ycombinator.com/item?id=46449852"
-    ],
-    [
-      "Show HN: Enroll, a tool to reverse-engineer servers into Ansible config mgmt",
-      "https://enroll.sh"
-    ]
-  ],
-  [
-    [
       "2025-12-29, 10:28:38",
       "https://news.ycombinator.com/item?id=46419196"
     ],
@@ -281,22 +281,22 @@
   ],
   [
     [
+      "2025-12-27, 13:56:12",
+      "https://news.ycombinator.com/item?id=46401879"
+    ],
+    [
+      "Show HN: Jsonic – Python JSON serialization that works",
+      "https://medium.com/dev-genius/jsonic-python-serialization-that-just-works-3b38d07c426d"
+    ]
+  ],
+  [
+    [
       "2025-12-26, 17:07:09",
       "https://news.ycombinator.com/item?id=46393929"
     ],
     [
       "Matz 2/2: The trajectory of Ruby's growth, Open-Source Software today etc.",
       "https://en.kaigaiiju.ch/episodes/matz2"
-    ]
-  ],
-  [
-    [
-      "2025-12-26, 09:44:15",
-      "https://news.ycombinator.com/item?id=46390675"
-    ],
-    [
-      "Soho 1851: The Greatest Christmas Meal Ever Cooked",
-      "https://londonist.com/london/food-and-drink/soho-1851-the-greatest-christmas-meal-ever-cooked"
     ]
   ]
 ]
