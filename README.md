@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-01-02, 08:16:21](https://news.ycombinator.com/item?id=46462592) - [Round the tree, yes, but not round the squirrel](https://www.futilitycloset.com/2026/01/02/round-and-round/)
+* [2026-01-02, 08:05:02](https://news.ycombinator.com/item?id=46462531) - [Ask HN: How do I help a colleague who introduces a lot of typos?](https://news.ycombinator.com/item?id=46462531)
 * [2026-01-02, 06:48:32](https://news.ycombinator.com/item?id=46462108) - [FreeBSD: Home NAS, part 1 – configuring ZFS mirror (RAID1)](https://rtfm.co.ua/en/freebsd-home-nas-part-1-configuring-zfs-mirror-raid1/)
 * [2026-01-02, 05:39:13](https://news.ycombinator.com/item?id=46461778) - [Real Biological Clock Is You're Going to Die (2018)](https://hmmdaily.com/2018/10/18/your-real-biological-clock-is-youre-going-to-die/)
 * [2026-01-02, 04:57:25](https://news.ycombinator.com/item?id=46461563) - [I'm a developer for a major food delivery app](https://old.reddit.com/r/confession/comments/1q1mzej/im_a_developer_for_a_major_food_delivery_app_the/)
@@ -17,7 +19,6 @@
 * [2026-01-01, 15:49:42](https://news.ycombinator.com/item?id=46454977) - [BYD Sells 4.6M Vehicles in 2025, Meets Revised Sales Goal](https://www.bloomberg.com/news/articles/2026-01-01/byd-sells-4-6-million-vehicles-in-2025-meets-revised-sales-goal)
 * [2026-01-01, 15:45:25](https://news.ycombinator.com/item?id=46454944) - [50% of U.S. vinyl buyers don't own a record player](https://lightcapai.medium.com/the-great-return-from-digital-abundance-to-analog-meaning-cfda9e428752)
 * [2026-01-01, 15:09:06](https://news.ycombinator.com/item?id=46454693) - [Show HN: OpenWorkers – Self-hosted Cloudflare workers in Rust](https://openworkers.com/introducing-openworkers)
-* [2026-01-01, 14:53:50](https://news.ycombinator.com/item?id=46454587) - [Build a Deep Learning Library](https://zekcrates.quarto.pub/deep-learning-library/)
 * [2026-01-01, 14:39:23](https://news.ycombinator.com/item?id=46454470) - [Python numbers every programmer should know](https://mkennedy.codes/posts/python-numbers-every-programmer-should-know/)
 * [2026-01-01, 14:32:12](https://news.ycombinator.com/item?id=46454413) - [2025 Letter](https://danwang.co/2025-letter/)
 * [2026-01-01, 11:17:18](https://news.ycombinator.com/item?id=46453204) - [Bluetooth Headphone Jacking: A Key to Your Phone [video]](https://media.ccc.de/v/39c3-bluetooth-headphone-jacking-a-key-to-your-phone)
@@ -28,8 +29,7 @@
 * [2025-12-28, 18:28:07](https://news.ycombinator.com/item?id=46413256) - [If you care about security you might want to move the iPhone Camera app](https://blog.jgc.org/2025/12/if-you-care-about-security-you-might.html)
 * [2025-12-27, 21:35:10](https://news.ycombinator.com/item?id=46405463) - [Contact the ISS](https://www.ariss.org/contact-the-iss.html)
 * [2025-12-27, 01:23:08](https://news.ycombinator.com/item?id=46398235) - [James Moylan, engineer behind arrow signaling which side to refuel a car, dies](https://fordauthority.com/2025/12/ford-engineer-that-designed-gas-tank-indicator-passes-away/)
-* [2025-12-26, 14:06:47](https://news.ycombinator.com/item?id=46392095) - [C-events, yet another event loop, simpler, smaller, faster, safer](https://zelang-dev.github.io/c-events/)
-* [2025-12-26, 03:20:11](https://news.ycombinator.com/item?id=46388912) - [Moving Images Related to the Apollo Missions, 1967–1969](https://catalog.archives.gov/id/133360601)
+* [2025-12-26, 17:07:09](https://news.ycombinator.com/item?id=46393929) - [Matz 2/2: The trajectory of Ruby's growth, Open-Source Software today etc.](https://en.kaigaiiju.ch/episodes/matz2)
 
 ## [Archives](archives/index.md)
 

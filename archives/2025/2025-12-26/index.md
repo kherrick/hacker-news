@@ -28,6 +28,7 @@
 * [2025-12-26, 17:29:31](https://news.ycombinator.com/item?id=46394169) - [A Proclamation Regarding the Restoration of the Em-Dash](https://blog.nawaz.org/posts/2025/Dec/a-proclamation-regarding-the-restoration-of-the-dash/)
 * [2025-12-26, 17:13:07](https://news.ycombinator.com/item?id=46393992) - [How uv got so fast](https://nesbitt.io/2025/12/26/how-uv-got-so-fast.html)
 * [2025-12-26, 17:07:53](https://news.ycombinator.com/item?id=46393936) - [Experts Explore New Mushroom Which Causes Fairytale-Like Hallucinations](https://nhmu.utah.edu/articles/experts-explore-new-mushroom-which-causes-fairytale-hallucinations)
+* [2025-12-26, 17:07:09](https://news.ycombinator.com/item?id=46393929) - [Matz 2/2: The trajectory of Ruby's growth, Open-Source Software today etc.](https://en.kaigaiiju.ch/episodes/matz2)
 * [2025-12-26, 17:06:35](https://news.ycombinator.com/item?id=46393924) - [C/C++ Embedded Files](https://www.4rknova.com//blog/2013/01/27/cpp-embedded-files)
 * [2025-12-26, 17:04:42](https://news.ycombinator.com/item?id=46393906) - [ZJIT is now available in Ruby 4.0](https://railsatscale.com/2025-12-24-launch-zjit/)
 * [2025-12-26, 16:49:23](https://news.ycombinator.com/item?id=46393755) - [Optimal Classification Cutoffs](https://finite-sample.github.io/optimal-classification-cutoffs/)
