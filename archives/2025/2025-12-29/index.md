@@ -62,6 +62,7 @@
 * [2025-12-29, 03:25:35](https://news.ycombinator.com/item?id=46417162) - [Demystifying DVDs](https://hiddenpalace.org/News/One_Bad_Ass_Hedgehog_-_Shadow_the_Hedgehog#Demystifying_DVDs)
 * [2025-12-29, 03:16:32](https://news.ycombinator.com/item?id=46417110) - [CIA Star Gate Project: An Overview (1993) [pdf]](https://www.cia.gov/readingroom/docs/CIA-RDP96-00789R002800180001-2.pdf)
 * [2025-12-29, 02:47:44](https://news.ycombinator.com/item?id=46416945) - [You can make up HTML tags](https://maurycyz.com/misc/make-up-tags/)
+* [2025-12-29, 02:33:49](https://news.ycombinator.com/item?id=46416863) - [Vibe Coding for CTOs: The Real Cost of 100 Lines of Code](https://rocketedge.com/2025/12/29/vibe-coding-for-ctos-the-real-cost-of-100-lines-of-code-ai-agents-vs-human-developers-without-losing-control/)
 * [2025-12-29, 02:08:08](https://news.ycombinator.com/item?id=46416674) - [Mitsubishi Diatone D-160 (1985)](https://audio-database.com/MITSUBISHI-DIATONE/diatonesp/d-160-e.html)
 * [2025-12-29, 02:00:59](https://news.ycombinator.com/item?id=46416618) - [Self-hosting is being enshittified](https://troubled.engineer/posts/selfhosting-in-2025/)
 * [2025-12-29, 00:20:00](https://news.ycombinator.com/item?id=46415945) - [Rich Hickey: Thanks AI](https://gist.github.com/richhickey/ea94e3741ff0a4e3af55b9fe6287887f)
