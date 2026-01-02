@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2026-01-02, 21:48:59](https://news.ycombinator.com/item?id=46469811) - [Tesla sales fell by 9 percent in 2025, its second yearly decline](https://arstechnica.com/cars/2026/01/tesla-sales-fell-by-9-percent-in-2025-its-second-yearly-decline/)
+* [2026-01-02, 21:31:34](https://news.ycombinator.com/item?id=46469623) - [Linux kernel security work](http://www.kroah.com/log/blog/2026/01/02/linux-kernel-security-work/)
+* [2026-01-02, 21:27:44](https://news.ycombinator.com/item?id=46469577) - [Daft Punk Easter Egg in the BPM Tempo of Harder, Better, Faster, Stronger?](https://www.madebywindmill.com/tempi/blog/hbfs-bpm/)
 * [2026-01-02, 19:48:25](https://news.ycombinator.com/item?id=46468600) - [Publish (On Your) Own Site, Syndicate Elsewhere](https://indieweb.org/POSSE#)
 * [2026-01-02, 19:39:38](https://news.ycombinator.com/item?id=46468517) - [Jank Lang Hit Alpha](https://github.com/jank-lang/jank)
 * [2026-01-02, 19:30:46](https://news.ycombinator.com/item?id=46468411) - [I wrote a batch script to keep my 2011 ThinkPad alive for 24/7 streaming](https://github.com/patrick48001/ThinkPad-Stream-Sentinel-VLC-Video-Source-reset-disable-stream-shutter)
@@ -20,9 +22,7 @@
 * [2026-01-02, 12:29:23](https://news.ycombinator.com/item?id=46464120) - [Assorted less(1) tips](https://blog.thechases.com/posts/assorted-less-tips/)
 * [2026-01-02, 11:07:51](https://news.ycombinator.com/item?id=46463644) - [10 years of personal finances in plain text files](https://sgoel.dev/posts/10-years-of-personal-finances-in-plain-text-files/)
 * [2026-01-02, 11:06:29](https://news.ycombinator.com/item?id=46463635) - [A small collection of text-only websites](https://shkspr.mobi/blog/2025/12/a-small-collection-of-text-only-websites/)
-* [2026-01-02, 10:25:11](https://news.ycombinator.com/item?id=46463407) - [One Number I Trust: Plain-Text Accounting for a Multi-Currency Household](https://lalitm.com/post/one-number-i-trust/)
 * [2026-01-02, 10:10:46](https://news.ycombinator.com/item?id=46463315) - [HPV vaccination reduces oncogenic HPV16/18 prevalence from 16% to <1% in Denmark](https://www.eurosurveillance.org/content/10.2807/1560-7917.ES.2025.30.27.2400820)
-* [2026-01-02, 08:42:34](https://news.ycombinator.com/item?id=46462719) - [Going immutable on macOS, using Nix-Darwin](https://carette.xyz/posts/going_immutable_macos/)
 * [2026-01-02, 08:40:41](https://news.ycombinator.com/item?id=46462702) - [Standard Ebooks: Public Domain Day 2026 in Literature](https://standardebooks.org/blog/public-domain-day-2026)
 * [2025-12-28, 20:24:41](https://news.ycombinator.com/item?id=46414152) - [Miri: Practical Undefined Behavior Detection for Rust [pdf]](https://research.ralfj.de/papers/2026-popl-miri.pdf)
 * [2025-12-28, 11:19:23](https://news.ycombinator.com/item?id=46410258) - [ThingsBoard: Open-Source IoT Platform](https://github.com/thingsboard/thingsboard)
