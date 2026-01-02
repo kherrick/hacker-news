@@ -11,7 +11,6 @@
 * [2026-01-02, 12:46:31](https://news.ycombinator.com/item?id=46464235) - [FracturedJson](https://github.com/j-brooke/FracturedJson/wiki)
 * [2026-01-02, 12:31:03](https://news.ycombinator.com/item?id=46464133) - [Show HN: Dealta – A game-theoretic decentralized trading protocol](https://github.com/orgs/Dealta-Foundation/repositories)
 * [2026-01-02, 12:29:23](https://news.ycombinator.com/item?id=46464120) - [Assorted less(1) tips](https://blog.thechases.com/posts/assorted-less-tips/)
-* [2026-01-02, 12:07:00](https://news.ycombinator.com/item?id=46463992) - [Show HN: I built a clipboard tool to strip/keep specific formatting like Italics](https://custompaste.com)
 * [2026-01-02, 11:07:51](https://news.ycombinator.com/item?id=46463644) - [10 years of personal finances in plain text files](https://sgoel.dev/posts/10-years-of-personal-finances-in-plain-text-files/)
 * [2026-01-02, 11:06:29](https://news.ycombinator.com/item?id=46463635) - [A small collection of text-only websites](https://shkspr.mobi/blog/2025/12/a-small-collection-of-text-only-websites/)
 * [2026-01-02, 10:25:11](https://news.ycombinator.com/item?id=46463407) - [One Number I Trust: Plain-Text Accounting for a Multi-Currency Household](https://lalitm.com/post/one-number-i-trust/)
@@ -28,6 +27,7 @@
 * [2025-12-29, 10:28:38](https://news.ycombinator.com/item?id=46419196) - [Can I throw a C++ exception from a structured exception?](https://devblogs.microsoft.com/oldnewthing/20170728-00/?p=96706)
 * [2025-12-28, 20:24:41](https://news.ycombinator.com/item?id=46414152) - [Miri: Practical Undefined Behavior Detection for Rust [pdf]](https://research.ralfj.de/papers/2026-popl-miri.pdf)
 * [2025-12-28, 11:19:23](https://news.ycombinator.com/item?id=46410258) - [ThingsBoard: Open-Source IoT Platform](https://github.com/thingsboard/thingsboard)
+* [2025-12-27, 21:35:10](https://news.ycombinator.com/item?id=46405463) - [Contact the ISS](https://www.ariss.org/contact-the-iss.html)
 * [2025-12-27, 19:17:25](https://news.ycombinator.com/item?id=46404321) - [What you need to know before touching a video file](https://gist.github.com/arch1t3cht/b5b9552633567fa7658deee5aec60453/)
 * [2025-12-26, 17:07:09](https://news.ycombinator.com/item?id=46393929) - [Matz 2/2: The trajectory of Ruby's growth, Open-Source Software today etc.](https://en.kaigaiiju.ch/episodes/matz2)
 
