@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2026-01-02, 11:01:29",
+      "https://news.ycombinator.com/item?id=46463600"
+    ],
+    [
+      "2025 Letter",
+      "https://danwang.co/"
+    ]
+  ],
+  [
+    [
       "2026-01-02, 10:25:11",
       "https://news.ycombinator.com/item?id=46463407"
     ],
@@ -107,16 +117,6 @@
     [
       "Why users cannot create Issues directly",
       "https://github.com/ghostty-org/ghostty/issues/3558"
-    ]
-  ],
-  [
-    [
-      "2026-01-01, 22:09:16",
-      "https://news.ycombinator.com/item?id=46458624"
-    ],
-    [
-      "WebAssembly as a Python Extension Platform",
-      "https://nullprogram.com/blog/2026/01/01/"
     ]
   ],
   [
@@ -251,12 +251,12 @@
   ],
   [
     [
-      "2025-12-28, 18:28:07",
-      "https://news.ycombinator.com/item?id=46413256"
+      "2025-12-29, 10:28:38",
+      "https://news.ycombinator.com/item?id=46419196"
     ],
     [
-      "If you care about security you might want to move the iPhone Camera app",
-      "https://blog.jgc.org/2025/12/if-you-care-about-security-you-might.html"
+      "Can I throw a C++ exception from a structured exception?",
+      "https://devblogs.microsoft.com/oldnewthing/20170728-00/?p=96706"
     ]
   ],
   [
