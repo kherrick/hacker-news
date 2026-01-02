@@ -49,6 +49,7 @@
 * [2025-12-28, 13:01:26](https://news.ycombinator.com/item?id=46410776) - [Recreating the Bell Labs Switch Experiment with Agents](https://cianfrani.dev/posts/12-switches/)
 * [2025-12-28, 12:42:11](https://news.ycombinator.com/item?id=46410676) - [A super fast website using Cloudflare workers](https://crazyfast.website)
 * [2025-12-28, 12:00:06](https://news.ycombinator.com/item?id=46410449) - [Langfuse (YC W23) Is Hiring in Berlin, Germany](https://langfuse.com/careers)
+* [2025-12-28, 11:58:26](https://news.ycombinator.com/item?id=46410443) - [Beddel Protocol: Sequential Pipeline Executor (YAML)](https://www.npmjs.com/package/beddel)
 * [2025-12-28, 11:51:42](https://news.ycombinator.com/item?id=46410402) - [Building a macOS app to know when my Mac is thermal throttling](https://stanislas.blog/2025/12/macos-thermal-throttling-app/)
 * [2025-12-28, 11:27:07](https://news.ycombinator.com/item?id=46410285) - [Claude Code creator says Claude wrote all his code for the last month](https://twitter.com/bcherny/status/2004897269674639461)
 * [2025-12-28, 11:08:22](https://news.ycombinator.com/item?id=46410210) - [Learn computer graphics from scratch and for free](https://www.scratchapixel.com)

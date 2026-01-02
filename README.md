@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-01-02, 11:07:51](https://news.ycombinator.com/item?id=46463644) - [10 years of personal finances in plain text files](https://sgoel.dev/posts/10-years-of-personal-finances-in-plain-text-files/)
 * [2026-01-02, 08:42:34](https://news.ycombinator.com/item?id=46462719) - [Going immutable on macOS, using Nix-Darwin](https://carette.xyz/posts/going_immutable_macos/)
 * [2026-01-02, 08:40:41](https://news.ycombinator.com/item?id=46462702) - [Standard Ebooks: Public Domain Day 2026 in Literature](https://standardebooks.org/blog/public-domain-day-2026)
 * [2026-01-02, 08:16:21](https://news.ycombinator.com/item?id=46462592) - [Round the tree, yes, but not round the squirrel](https://www.futilitycloset.com/2026/01/02/round-and-round/)
@@ -25,11 +26,10 @@
 * [2026-01-01, 00:23:54](https://news.ycombinator.com/item?id=46449852) - [Show HN: Enroll, a tool to reverse-engineer servers into Ansible config mgmt](https://enroll.sh)
 * [2025-12-30, 08:19:08](https://news.ycombinator.com/item?id=46430815) - [Quickemu: Quickly create and run optimised Windows, macOS and Linux VMs](https://github.com/quickemu-project/quickemu)
 * [2025-12-28, 18:28:07](https://news.ycombinator.com/item?id=46413256) - [If you care about security you might want to move the iPhone Camera app](https://blog.jgc.org/2025/12/if-you-care-about-security-you-might.html)
+* [2025-12-28, 11:58:26](https://news.ycombinator.com/item?id=46410443) - [Beddel Protocol: Sequential Pipeline Executor (YAML)](https://www.npmjs.com/package/beddel)
 * [2025-12-27, 21:35:10](https://news.ycombinator.com/item?id=46405463) - [Contact the ISS](https://www.ariss.org/contact-the-iss.html)
-* [2025-12-27, 01:23:08](https://news.ycombinator.com/item?id=46398235) - [James Moylan, engineer behind arrow signaling which side to refuel a car, dies](https://fordauthority.com/2025/12/ford-engineer-that-designed-gas-tank-indicator-passes-away/)
 * [2025-12-26, 23:20:00](https://news.ycombinator.com/item?id=46397454) - [Square Minus Square – A coding agent benchmark](https://aedm.net/blog/square-minus-square-2025-12-22/)
 * [2025-12-26, 17:07:09](https://news.ycombinator.com/item?id=46393929) - [Matz 2/2: The trajectory of Ruby's growth, Open-Source Software today etc.](https://en.kaigaiiju.ch/episodes/matz2)
-* [2025-12-26, 14:06:47](https://news.ycombinator.com/item?id=46392095) - [C-events, yet another event loop, simpler, smaller, faster, safer](https://zelang-dev.github.io/c-events/)
 
 ## [Archives](archives/index.md)
 
