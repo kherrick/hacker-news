@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-01-02, 05:39:13](https://news.ycombinator.com/item?id=46461778) - [Real Biological Clock Is You're Going to Die](https://hmmdaily.com/2018/10/18/your-real-biological-clock-is-youre-going-to-die/)
+* [2026-01-02, 05:39:13](https://news.ycombinator.com/item?id=46461778) - [Real Biological Clock Is You're Going to Die (2018)](https://hmmdaily.com/2018/10/18/your-real-biological-clock-is-youre-going-to-die/)
 * [2026-01-02, 04:57:25](https://news.ycombinator.com/item?id=46461563) - [I'm a developer for a major food delivery app](https://old.reddit.com/r/confession/comments/1q1mzej/im_a_developer_for_a_major_food_delivery_app_the/)
 * [2026-01-02, 02:21:57](https://news.ycombinator.com/item?id=46460676) - [Marmot – A distributed SQLite server with MySQL wire compatible interface](https://github.com/maxpert/marmot)
 * [2026-01-02, 01:42:16](https://news.ycombinator.com/item?id=46460440) - [Happy Public Domain Day 2026](https://publicdomainreview.org/blog/2026/01/public-domain-day-2026/)
