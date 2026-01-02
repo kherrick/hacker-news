@@ -221,32 +221,22 @@
   ],
   [
     [
+      "2026-01-02, 08:42:34",
+      "https://news.ycombinator.com/item?id=46462719"
+    ],
+    [
+      "Going immutable on macOS, using Nix-Darwin",
+      "https://carette.xyz/posts/going_immutable_macos/"
+    ]
+  ],
+  [
+    [
       "2026-01-02, 08:40:41",
       "https://news.ycombinator.com/item?id=46462702"
     ],
     [
       "Standard Ebooks: Public Domain Day 2026 in Literature",
       "https://standardebooks.org/blog/public-domain-day-2026"
-    ]
-  ],
-  [
-    [
-      "2026-01-02, 01:42:16",
-      "https://news.ycombinator.com/item?id=46460440"
-    ],
-    [
-      "Happy Public Domain Day 2026",
-      "https://publicdomainreview.org/blog/2026/01/public-domain-day-2026/"
-    ]
-  ],
-  [
-    [
-      "2026-01-02, 01:24:51",
-      "https://news.ycombinator.com/item?id=46460319"
-    ],
-    [
-      "Why users cannot create Issues directly",
-      "https://github.com/ghostty-org/ghostty/issues/3558"
     ]
   ],
   [
@@ -277,6 +267,16 @@
     [
       "List, inspect and explore OCI container images, their layers and contents",
       "https://github.com/bschaatsbergen/lix"
+    ]
+  ],
+  [
+    [
+      "2025-12-28, 06:39:57",
+      "https://news.ycombinator.com/item?id=46408974"
+    ],
+    [
+      "Uxn32: Uxn Emulator for Windows and Wine",
+      "https://github.com/randrew/uxn32"
     ]
   ],
   [
