@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2026-01-02, 19:48:25](https://news.ycombinator.com/item?id=46468600) - [Publish (On Your) Own Site, Syndicate Elsewhere](https://indieweb.org/POSSE#)
+* [2026-01-02, 19:39:38](https://news.ycombinator.com/item?id=46468517) - [Jank Lang Hit Alpha](https://github.com/jank-lang/jank)
+* [2026-01-02, 19:30:46](https://news.ycombinator.com/item?id=46468411) - [I wrote a batch script to keep my 2011 ThinkPad alive for 24/7 streaming](https://github.com/patrick48001/ThinkPad-Stream-Sentinel-VLC-Video-Source-reset-disable-stream-shutter)
 * [2026-01-02, 19:18:36](https://news.ycombinator.com/item?id=46468283) - [Unix v4 (1973) – Live Terminal](https://unixv4.dev/)
 * [2026-01-02, 19:13:24](https://news.ycombinator.com/item?id=46468237) - [TinyTinyTPU: 2×2 systolic-array TPU-style matrix-multiply unit deployed on FPGA](https://github.com/Alanma23/tinytinyTPU-co)
 * [2026-01-02, 18:18:47](https://news.ycombinator.com/item?id=46467677) - [Fighting Fire with Fire: Scalable Oral Exams](https://www.behind-the-enemy-lines.com/2025/12/fighting-fire-with-fire-scalable-oral.html)
@@ -19,7 +21,6 @@
 * [2026-01-02, 11:06:29](https://news.ycombinator.com/item?id=46463635) - [A small collection of text-only websites](https://shkspr.mobi/blog/2025/12/a-small-collection-of-text-only-websites/)
 * [2026-01-02, 10:25:11](https://news.ycombinator.com/item?id=46463407) - [One Number I Trust: Plain-Text Accounting for a Multi-Currency Household](https://lalitm.com/post/one-number-i-trust/)
 * [2026-01-02, 10:10:46](https://news.ycombinator.com/item?id=46463315) - [HPV vaccination reduces oncogenic HPV16/18 prevalence from 16% to <1% in Denmark](https://www.eurosurveillance.org/content/10.2807/1560-7917.ES.2025.30.27.2400820)
-* [2026-01-02, 08:42:34](https://news.ycombinator.com/item?id=46462719) - [Going immutable on macOS, using Nix-Darwin](https://carette.xyz/posts/going_immutable_macos/)
 * [2026-01-02, 08:40:41](https://news.ycombinator.com/item?id=46462702) - [Standard Ebooks: Public Domain Day 2026 in Literature](https://standardebooks.org/blog/public-domain-day-2026)
 * [2026-01-02, 01:42:16](https://news.ycombinator.com/item?id=46460440) - [Happy Public Domain Day 2026](https://publicdomainreview.org/blog/2026/01/public-domain-day-2026/)
 * [2026-01-02, 01:24:51](https://news.ycombinator.com/item?id=46460319) - [Why users cannot create Issues directly](https://github.com/ghostty-org/ghostty/issues/3558)
@@ -29,7 +30,6 @@
 * [2025-12-28, 08:21:41](https://news.ycombinator.com/item?id=46409400) - [List, inspect and explore OCI container images, their layers and contents](https://github.com/bschaatsbergen/lix)
 * [2025-12-28, 04:40:56](https://news.ycombinator.com/item?id=46408510) - [C –> Java != Java –> LLM](http://www.observationalhazard.com/2025/12/c-java-java-llm.html)
 * [2025-12-27, 19:17:25](https://news.ycombinator.com/item?id=46404321) - [What you need to know before touching a video file](https://gist.github.com/arch1t3cht/b5b9552633567fa7658deee5aec60453/)
-* [2025-12-26, 17:07:09](https://news.ycombinator.com/item?id=46393929) - [Matz 2/2: The trajectory of Ruby's growth, Open-Source Software today etc.](https://en.kaigaiiju.ch/episodes/matz2)
 
 ## [Archives](archives/index.md)
 
