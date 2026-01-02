@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-01-01](index.md)
 
+* [2026-01-01, 23:33:09](https://news.ycombinator.com/item?id=46459425) - [Why Prefer Textfiles? (2010)](http://textfiles.com/uploads/textfiles.txt)
 * [2026-01-01, 22:09:16](https://news.ycombinator.com/item?id=46458624) - [WebAssembly as a Python Extension Platform](https://nullprogram.com/blog/2026/01/01/)
 * [2026-01-01, 21:37:10](https://news.ycombinator.com/item?id=46458302) - [Can Bundler Be as Fast as Uv?](https://tenderlovemaking.com/2025/12/29/can-bundler-be-as-fast-as-uv/)
 * [2026-01-01, 21:26:49](https://news.ycombinator.com/item?id=46458194) - [A silly diffuse shading model](https://lisyarus.github.io/blog/posts/a-silly-diffuse-shading-model.html)
@@ -57,5 +58,6 @@
 * [2026-01-01, 01:14:33](https://news.ycombinator.com/item?id=46450217) - [Nerd: The First Programming Language Not Built for Humans](https://www.nerd-lang.org/about)
 * [2026-01-01, 01:01:22](https://news.ycombinator.com/item?id=46450122) - [GoGoGrandparent (YC S16) Is Hiring Tech Leads](https://www.ycombinator.com/companies/gogograndparent/jobs/w2jGKM7-gogograndparent-yc-s16-is-hiring-tech-leads)
 * [2026-01-01, 00:29:45](https://news.ycombinator.com/item?id=46449892) - [Show HN: Feature detection exploration in Lidar DEMs via differential decomp](https://github.com/bshepp/RESIDUALS)
+* [2026-01-01, 00:23:54](https://news.ycombinator.com/item?id=46449852) - [Show HN: Enroll, a tool to reverse-engineer servers into Ansible config mgmt](https://enroll.sh)
 * [2026-01-01, 00:18:43](https://news.ycombinator.com/item?id=46449812) - [Show HN: BusterMQ, Thread-per-core NATS server in Zig with io_uring](https://bustermq.sh/)
 * [2026-01-01, 00:02:14](https://news.ycombinator.com/item?id=46449694) - [The Delete Act](https://privacy.ca.gov/drop/about-drop-and-the-delete-act/)
