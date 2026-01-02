@@ -1,6 +1,36 @@
 [
   [
     [
+      "2026-01-02, 19:26:49",
+      "https://news.ycombinator.com/item?id=46468377"
+    ],
+    [
+      "Supplementation with vitamin D3 reduced telomere attrition",
+      "https://www.sciencedirect.com/science/article/abs/pii/S0002916525002552"
+    ]
+  ],
+  [
+    [
+      "2026-01-02, 19:18:36",
+      "https://news.ycombinator.com/item?id=46468283"
+    ],
+    [
+      "4th Edition Unix in the Browser",
+      "https://unixv4.dev/"
+    ]
+  ],
+  [
+    [
+      "2026-01-02, 19:13:24",
+      "https://news.ycombinator.com/item?id=46468237"
+    ],
+    [
+      "TinyTinyTPU: 2×2 systolic-array TPU-style matrix-multiply unit deployed on FPGA",
+      "https://github.com/Alanma23/tinytinyTPU-co"
+    ]
+  ],
+  [
+    [
       "2026-01-02, 18:18:47",
       "https://news.ycombinator.com/item?id=46467677"
     ],
@@ -17,6 +47,16 @@
     [
       "Clicks Communicator",
       "https://www.clicksphone.com/en/communicator"
+    ]
+  ],
+  [
+    [
+      "2026-01-02, 16:56:19",
+      "https://news.ycombinator.com/item?id=46466734"
+    ],
+    [
+      "The rsync algorithm (1996) [pdf]",
+      "https://www.andrew.cmu.edu/course/15-749/READINGS/required/cas/tridgell96.pdf"
     ]
   ],
   [
@@ -181,16 +221,6 @@
   ],
   [
     [
-      "2026-01-02, 06:48:32",
-      "https://news.ycombinator.com/item?id=46462108"
-    ],
-    [
-      "FreeBSD: Home NAS, part 1 – configuring ZFS mirror (RAID1)",
-      "https://rtfm.co.ua/en/freebsd-home-nas-part-1-configuring-zfs-mirror-raid1/"
-    ]
-  ],
-  [
-    [
       "2026-01-02, 01:42:16",
       "https://news.ycombinator.com/item?id=46460440"
     ],
@@ -207,16 +237,6 @@
     [
       "Why users cannot create Issues directly",
       "https://github.com/ghostty-org/ghostty/issues/3558"
-    ]
-  ],
-  [
-    [
-      "2026-01-01, 21:37:10",
-      "https://news.ycombinator.com/item?id=46458302"
-    ],
-    [
-      "Can Bundler be as fast as uv?",
-      "https://tenderlovemaking.com/2025/12/29/can-bundler-be-as-fast-as-uv/"
     ]
   ],
   [
@@ -241,16 +261,6 @@
   ],
   [
     [
-      "2025-12-29, 10:28:38",
-      "https://news.ycombinator.com/item?id=46419196"
-    ],
-    [
-      "Can I throw a C++ exception from a structured exception?",
-      "https://devblogs.microsoft.com/oldnewthing/20170728-00/?p=96706"
-    ]
-  ],
-  [
-    [
       "2025-12-28, 20:24:41",
       "https://news.ycombinator.com/item?id=46414152"
     ],
@@ -267,16 +277,6 @@
     [
       "ThingsBoard: Open-Source IoT Platform",
       "https://github.com/thingsboard/thingsboard"
-    ]
-  ],
-  [
-    [
-      "2025-12-27, 21:35:10",
-      "https://news.ycombinator.com/item?id=46405463"
-    ],
-    [
-      "Contact the ISS",
-      "https://www.ariss.org/contact-the-iss.html"
     ]
   ],
   [
