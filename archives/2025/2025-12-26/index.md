@@ -59,6 +59,7 @@
 * [2025-12-26, 11:09:55](https://news.ycombinator.com/item?id=46391064) - [Questions engineers should ask future employers in interviews](https://dollardhingra.substack.com/p/questions-software-engineers-should)
 * [2025-12-26, 10:22:27](https://news.ycombinator.com/item?id=46390848) - [Calibre adds AI \"discussion\" feature](https://lwn.net/Articles/1049886/)
 * [2025-12-26, 09:47:07](https://news.ycombinator.com/item?id=46390688) - [Graph Algorithms in Rayon](https://davidlattimore.github.io/posts/2025/11/27/graph-algorithms-in-rayon.html)
+* [2025-12-26, 09:44:15](https://news.ycombinator.com/item?id=46390675) - [Soho 1851: The Greatest Christmas Meal Ever Cooked](https://londonist.com/london/food-and-drink/soho-1851-the-greatest-christmas-meal-ever-cooked)
 * [2025-12-26, 09:43:23](https://news.ycombinator.com/item?id=46390667) - [Geometric Algorithms for Translucency Sorting in Minecraft [pdf]](https://douira.dev/assets/document/douira-master-thesis.pdf)
 * [2025-12-26, 09:34:57](https://news.ycombinator.com/item?id=46390621) - [Animated AI](https://animatedai.github.io/)
 * [2025-12-26, 08:52:48](https://news.ycombinator.com/item?id=46390397) - [Pandas with Rows (2022)](https://datapythonista.me/blog/pandas-with-hundreds-of-millions-of-rows)
