@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-01-02](index.md)
 
+* [2026-01-02, 21:48:59](https://news.ycombinator.com/item?id=46469811) - [Tesla sales fell by 9 percent in 2025, its second yearly decline](https://arstechnica.com/cars/2026/01/tesla-sales-fell-by-9-percent-in-2025-its-second-yearly-decline/)
 * [2026-01-02, 20:24:13](https://news.ycombinator.com/item?id=46468959) - [Ask HN: What tech job would let me get away with the least real work possible?](https://news.ycombinator.com/item?id=46468959)
 * [2026-01-02, 19:48:25](https://news.ycombinator.com/item?id=46468600) - [Publish (On Your) Own Site, Syndicate Elsewhere](https://indieweb.org/POSSE#)
 * [2026-01-02, 19:39:38](https://news.ycombinator.com/item?id=46468517) - [Jank Lang Hit Alpha](https://github.com/jank-lang/jank)
