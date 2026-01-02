@@ -16,6 +16,7 @@
 * [2025-12-28, 22:23:33](https://news.ycombinator.com/item?id=46415129) - [Researchers Discover Molecular Difference in Autistic Brains](https://medicine.yale.edu/news-article/molecular-difference-in-autistic-brains/)
 * [2025-12-28, 21:58:54](https://news.ycombinator.com/item?id=46414933) - [Keep the Robots Out of the Gym](https://danielmiessler.com/blog/keep-the-robots-out-of-the-gym)
 * [2025-12-28, 21:57:04](https://news.ycombinator.com/item?id=46414916) - [Dolphin Progress Release 2512](https://dolphin-emu.org/blog/2025/12/22/dolphin-progress-report-release-2512/)
+* [2025-12-28, 21:56:27](https://news.ycombinator.com/item?id=46414908) - [Chain Flinger](https://nealstephenson.substack.com/p/kdk-kinetik-der-kontinua-part-1-introduction)
 * [2025-12-28, 21:45:44](https://news.ycombinator.com/item?id=46414837) - [Why I Disappeared – My week with minimal internet in a remote island chain](https://www.kenklippenstein.com/p/why-i-disappeared)
 * [2025-12-28, 21:41:42](https://news.ycombinator.com/item?id=46414819) - [Unity's Mono problem: Why your C# code runs slower than it should](https://marekfiser.com/blog/mono-vs-dot-net-in-unity/)
 * [2025-12-28, 21:29:32](https://news.ycombinator.com/item?id=46414723) - [Software engineers should be a little bit cynical](https://www.seangoedecke.com/a-little-bit-cynical/)

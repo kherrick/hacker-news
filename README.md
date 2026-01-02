@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-01-02, 22:35:05](https://news.ycombinator.com/item?id=46470317) - [Grok Sexual Images Draw Rebuke, France Flags Content as Illegal](https://finance.yahoo.com/news/grok-sexual-images-draw-rebuke-180354505.html)
 * [2026-01-02, 21:44:41](https://news.ycombinator.com/item?id=46469771) - [Global software engineering job postings outlook – 2026](https://jobswithgpt.com/blog/global_software-engineering_jobs_january_2026/)
 * [2026-01-02, 21:31:34](https://news.ycombinator.com/item?id=46469623) - [Linux kernel security work](http://www.kroah.com/log/blog/2026/01/02/linux-kernel-security-work/)
 * [2026-01-02, 21:27:44](https://news.ycombinator.com/item?id=46469577) - [Daft Punk Easter Egg in the BPM Tempo of Harder, Better, Faster, Stronger?](https://www.madebywindmill.com/tempi/blog/hbfs-bpm/)
@@ -21,14 +20,15 @@
 * [2026-01-02, 12:46:31](https://news.ycombinator.com/item?id=46464235) - [FracturedJson](https://github.com/j-brooke/FracturedJson/wiki)
 * [2026-01-02, 12:29:23](https://news.ycombinator.com/item?id=46464120) - [Assorted less(1) tips](https://blog.thechases.com/posts/assorted-less-tips/)
 * [2026-01-02, 11:07:51](https://news.ycombinator.com/item?id=46463644) - [10 years of personal finances in plain text files](https://sgoel.dev/posts/10-years-of-personal-finances-in-plain-text-files/)
+* [2026-01-02, 11:06:29](https://news.ycombinator.com/item?id=46463635) - [A small collection of text-only websites](https://shkspr.mobi/blog/2025/12/a-small-collection-of-text-only-websites/)
 * [2026-01-02, 10:10:46](https://news.ycombinator.com/item?id=46463315) - [HPV vaccination reduces oncogenic HPV16/18 prevalence from 16% to <1% in Denmark](https://www.eurosurveillance.org/content/10.2807/1560-7917.ES.2025.30.27.2400820)
 * [2026-01-02, 08:40:41](https://news.ycombinator.com/item?id=46462702) - [Standard Ebooks: Public Domain Day 2026 in Literature](https://standardebooks.org/blog/public-domain-day-2026)
+* [2025-12-28, 21:56:27](https://news.ycombinator.com/item?id=46414908) - [Chain Flinger](https://nealstephenson.substack.com/p/kdk-kinetik-der-kontinua-part-1-introduction)
 * [2025-12-28, 20:24:41](https://news.ycombinator.com/item?id=46414152) - [Miri: Practical Undefined Behavior Detection for Rust [pdf]](https://research.ralfj.de/papers/2026-popl-miri.pdf)
 * [2025-12-28, 15:21:44](https://news.ycombinator.com/item?id=46411683) - [Show HN: Neural Net Flies Navigate through a maze](https://claude.ai/public/artifacts/4c5465b6-c384-4c9f-8a92-a4f840367ec2)
 * [2025-12-28, 11:19:23](https://news.ycombinator.com/item?id=46410258) - [ThingsBoard: Open-Source IoT Platform](https://github.com/thingsboard/thingsboard)
 * [2025-12-28, 08:21:41](https://news.ycombinator.com/item?id=46409400) - [List, inspect and explore OCI container images, their layers and contents](https://github.com/bschaatsbergen/lix)
 * [2025-12-28, 06:39:57](https://news.ycombinator.com/item?id=46408974) - [Uxn32: Uxn Emulator for Windows and Wine](https://github.com/randrew/uxn32)
-* [2025-12-28, 04:40:56](https://news.ycombinator.com/item?id=46408510) - [C –> Java != Java –> LLM](http://www.observationalhazard.com/2025/12/c-java-java-llm.html)
 * [2025-12-27, 19:17:25](https://news.ycombinator.com/item?id=46404321) - [What you need to know before touching a video file](https://gist.github.com/arch1t3cht/b5b9552633567fa7658deee5aec60453/)
 
 ## [Archives](archives/index.md)
