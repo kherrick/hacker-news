@@ -11,6 +11,26 @@
   ],
   [
     [
+      "2026-01-02, 19:39:38",
+      "https://news.ycombinator.com/item?id=46468517"
+    ],
+    [
+      "Jank Lang Hit Alpha",
+      "https://github.com/jank-lang/jank"
+    ]
+  ],
+  [
+    [
+      "2026-01-02, 19:30:46",
+      "https://news.ycombinator.com/item?id=46468411"
+    ],
+    [
+      "I wrote a batch script to keep my 2011 ThinkPad alive for 24/7 streaming",
+      "https://github.com/patrick48001/ThinkPad-Stream-Sentinel-VLC-Video-Source-reset-disable-stream-shutter"
+    ]
+  ],
+  [
+    [
       "2026-01-02, 19:18:36",
       "https://news.ycombinator.com/item?id=46468283"
     ],
@@ -191,16 +211,6 @@
   ],
   [
     [
-      "2026-01-02, 08:42:34",
-      "https://news.ycombinator.com/item?id=46462719"
-    ],
-    [
-      "Going immutable on macOS, using Nix-Darwin",
-      "https://carette.xyz/posts/going_immutable_macos/"
-    ]
-  ],
-  [
-    [
       "2026-01-02, 08:40:41",
       "https://news.ycombinator.com/item?id=46462702"
     ],
@@ -287,16 +297,6 @@
     [
       "What you need to know before touching a video file",
       "https://gist.github.com/arch1t3cht/b5b9552633567fa7658deee5aec60453/"
-    ]
-  ],
-  [
-    [
-      "2025-12-26, 17:07:09",
-      "https://news.ycombinator.com/item?id=46393929"
-    ],
-    [
-      "Matz 2/2: The trajectory of Ruby's growth, Open-Source Software today etc.",
-      "https://en.kaigaiiju.ch/episodes/matz2"
     ]
   ]
 ]
