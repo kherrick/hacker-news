@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-01-02, 19:26:49](https://news.ycombinator.com/item?id=46468377) - [Supplementation with vitamin D3 reduced telomere attrition](https://www.sciencedirect.com/science/article/abs/pii/S0002916525002552)
 * [2026-01-02, 19:18:36](https://news.ycombinator.com/item?id=46468283) - [4th Edition Unix in the Browser](https://unixv4.dev/)
 * [2026-01-02, 19:13:24](https://news.ycombinator.com/item?id=46468237) - [TinyTinyTPU: 2×2 systolic-array TPU-style matrix-multiply unit deployed on FPGA](https://github.com/Alanma23/tinytinyTPU-co)
 * [2026-01-02, 18:18:47](https://news.ycombinator.com/item?id=46467677) - [Fighting Fire with Fire: Scalable Oral Exams](https://www.behind-the-enemy-lines.com/2025/12/fighting-fire-with-fire-scalable-oral.html)
+* [2026-01-02, 18:16:07](https://news.ycombinator.com/item?id=46467651) - [Accounting for Computer Scientists (2011)](https://martin.kleppmann.com/2011/03/07/accounting-for-computer-scientists.html)
 * [2026-01-02, 17:22:04](https://news.ycombinator.com/item?id=46467057) - [Clicks Communicator](https://www.clicksphone.com/en/communicator)
 * [2026-01-02, 16:56:19](https://news.ycombinator.com/item?id=46466734) - [The rsync algorithm (1996) [pdf]](https://www.andrew.cmu.edu/course/15-749/READINGS/required/cas/tridgell96.pdf)
 * [2026-01-02, 16:23:34](https://news.ycombinator.com/item?id=46466364) - [Punkt. Unveils MC03 Smartphone](https://www.punkt.ch/blogs/news/punkt-unveils-mc03)
@@ -25,9 +25,9 @@
 * [2026-01-02, 01:42:16](https://news.ycombinator.com/item?id=46460440) - [Happy Public Domain Day 2026](https://publicdomainreview.org/blog/2026/01/public-domain-day-2026/)
 * [2026-01-02, 01:24:51](https://news.ycombinator.com/item?id=46460319) - [Why users cannot create Issues directly](https://github.com/ghostty-org/ghostty/issues/3558)
 * [2026-01-01, 20:36:46](https://news.ycombinator.com/item?id=46457784) - [A website to destroy all websites](https://henry.codes/writing/a-website-to-destroy-all-websites/)
-* [2026-01-01, 17:18:01](https://news.ycombinator.com/item?id=46455872) - [Cameras and Lenses (2020)](https://ciechanow.ski/cameras-and-lenses/)
 * [2025-12-28, 20:24:41](https://news.ycombinator.com/item?id=46414152) - [Miri: Practical Undefined Behavior Detection for Rust [pdf]](https://research.ralfj.de/papers/2026-popl-miri.pdf)
 * [2025-12-28, 11:19:23](https://news.ycombinator.com/item?id=46410258) - [ThingsBoard: Open-Source IoT Platform](https://github.com/thingsboard/thingsboard)
+* [2025-12-28, 04:40:56](https://news.ycombinator.com/item?id=46408510) - [C –> Java != Java –> LLM](http://www.observationalhazard.com/2025/12/c-java-java-llm.html)
 * [2025-12-27, 19:17:25](https://news.ycombinator.com/item?id=46404321) - [What you need to know before touching a video file](https://gist.github.com/arch1t3cht/b5b9552633567fa7658deee5aec60453/)
 * [2025-12-26, 17:07:09](https://news.ycombinator.com/item?id=46393929) - [Matz 2/2: The trajectory of Ruby's growth, Open-Source Software today etc.](https://en.kaigaiiju.ch/episodes/matz2)
 

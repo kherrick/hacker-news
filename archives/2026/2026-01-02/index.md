@@ -8,6 +8,7 @@
 * [2026-01-02, 19:18:36](https://news.ycombinator.com/item?id=46468283) - [4th Edition Unix in the Browser](https://unixv4.dev/)
 * [2026-01-02, 19:13:24](https://news.ycombinator.com/item?id=46468237) - [TinyTinyTPU: 2×2 systolic-array TPU-style matrix-multiply unit deployed on FPGA](https://github.com/Alanma23/tinytinyTPU-co)
 * [2026-01-02, 18:18:47](https://news.ycombinator.com/item?id=46467677) - [Fighting Fire with Fire: Scalable Oral Exams](https://www.behind-the-enemy-lines.com/2025/12/fighting-fire-with-fire-scalable-oral.html)
+* [2026-01-02, 18:16:07](https://news.ycombinator.com/item?id=46467651) - [Accounting for Computer Scientists (2011)](https://martin.kleppmann.com/2011/03/07/accounting-for-computer-scientists.html)
 * [2026-01-02, 17:22:04](https://news.ycombinator.com/item?id=46467057) - [Clicks Communicator](https://www.clicksphone.com/en/communicator)
 * [2026-01-02, 16:56:19](https://news.ycombinator.com/item?id=46466734) - [The rsync algorithm (1996) [pdf]](https://www.andrew.cmu.edu/course/15-749/READINGS/required/cas/tridgell96.pdf)
 * [2026-01-02, 16:23:34](https://news.ycombinator.com/item?id=46466364) - [Punkt. Unveils MC03 Smartphone](https://www.punkt.ch/blogs/news/punkt-unveils-mc03)
