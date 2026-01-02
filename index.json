@@ -1,16 +1,6 @@
 [
   [
     [
-      "2026-01-02, 15:08:52",
-      "https://news.ycombinator.com/item?id=46465472"
-    ],
-    [
-      "Why do Americans hate A.I.?",
-      "https://www.nytimes.com/2026/01/02/briefing/why-do-americans-hate-ai.html"
-    ]
-  ],
-  [
-    [
       "2026-01-02, 14:55:09",
       "https://news.ycombinator.com/item?id=46465327"
     ],
@@ -247,6 +237,16 @@
     [
       "Joseph Campbell Meets George Lucas – Part I (2015)",
       "https://www.starwars.com/news/mythic-discovery-within-the-inner-reaches-of-outer-space-joseph-campbell-meets-george-lucas-part-i"
+    ]
+  ],
+  [
+    [
+      "2026-01-01, 00:23:54",
+      "https://news.ycombinator.com/item?id=46449852"
+    ],
+    [
+      "Show HN: Enroll, a tool to reverse-engineer servers into Ansible config mgmt",
+      "https://enroll.sh"
     ]
   ],
   [
