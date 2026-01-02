@@ -31,16 +31,6 @@
   ],
   [
     [
-      "2026-01-02, 15:22:59",
-      "https://news.ycombinator.com/item?id=46465622"
-    ],
-    [
-      "Kling Motion Control AI",
-      "https://motion-control.io"
-    ]
-  ],
-  [
-    [
       "2026-01-02, 13:42:37",
       "https://news.ycombinator.com/item?id=46464652"
     ],
@@ -117,6 +107,16 @@
     [
       "A small collection of text-only websites",
       "https://shkspr.mobi/blog/2025/12/a-small-collection-of-text-only-websites/"
+    ]
+  ],
+  [
+    [
+      "2026-01-02, 10:25:11",
+      "https://news.ycombinator.com/item?id=46463407"
+    ],
+    [
+      "One Number I Trust: Plain-Text Accounting for a Multi-Currency Household",
+      "https://lalitm.com/post/one-number-i-trust/"
     ]
   ],
   [
@@ -221,16 +221,6 @@
   ],
   [
     [
-      "2026-01-01, 15:49:42",
-      "https://news.ycombinator.com/item?id=46454977"
-    ],
-    [
-      "BYD Sells 4.6M Vehicles in 2025, Meets Revised Sales Goal",
-      "https://www.bloomberg.com/news/articles/2026-01-01/byd-sells-4-6-million-vehicles-in-2025-meets-revised-sales-goal"
-    ]
-  ],
-  [
-    [
       "2026-01-01, 14:12:42",
       "https://news.ycombinator.com/item?id=46454274"
     ],
@@ -247,6 +237,16 @@
     [
       "Can I throw a C++ exception from a structured exception?",
       "https://devblogs.microsoft.com/oldnewthing/20170728-00/?p=96706"
+    ]
+  ],
+  [
+    [
+      "2025-12-28, 20:24:41",
+      "https://news.ycombinator.com/item?id=46414152"
+    ],
+    [
+      "Miri: Practical Undefined Behavior Detection for Rust [pdf]",
+      "https://research.ralfj.de/papers/2026-popl-miri.pdf"
     ]
   ],
   [
