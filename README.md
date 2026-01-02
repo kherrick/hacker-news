@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-01-02, 08:42:34](https://news.ycombinator.com/item?id=46462719) - [Going immutable on macOS, using Nix-Darwin](https://carette.xyz/posts/going_immutable_macos/)
+* [2026-01-02, 08:40:41](https://news.ycombinator.com/item?id=46462702) - [Standard Ebooks: Public Domain Day 2026 in Literature](https://standardebooks.org/blog/public-domain-day-2026)
 * [2026-01-02, 08:16:21](https://news.ycombinator.com/item?id=46462592) - [Round the tree, yes, but not round the squirrel](https://www.futilitycloset.com/2026/01/02/round-and-round/)
-* [2026-01-02, 08:05:02](https://news.ycombinator.com/item?id=46462531) - [Ask HN: How do I help a colleague who introduces a lot of typos?](https://news.ycombinator.com/item?id=46462531)
 * [2026-01-02, 06:48:32](https://news.ycombinator.com/item?id=46462108) - [FreeBSD: Home NAS, part 1 – configuring ZFS mirror (RAID1)](https://rtfm.co.ua/en/freebsd-home-nas-part-1-configuring-zfs-mirror-raid1/)
 * [2026-01-02, 05:39:13](https://news.ycombinator.com/item?id=46461778) - [Real Biological Clock Is You're Going to Die (2018)](https://hmmdaily.com/2018/10/18/your-real-biological-clock-is-youre-going-to-die/)
 * [2026-01-02, 04:57:25](https://news.ycombinator.com/item?id=46461563) - [I'm a developer for a major food delivery app](https://old.reddit.com/r/confession/comments/1q1mzej/im_a_developer_for_a_major_food_delivery_app_the/)
@@ -25,7 +26,6 @@
 * [2026-01-01, 11:01:38](https://news.ycombinator.com/item?id=46453114) - [I rebooted my social life](https://takes.jamesomalley.co.uk/p/this-might-be-oversharing)
 * [2026-01-01, 00:23:54](https://news.ycombinator.com/item?id=46449852) - [Show HN: Enroll, a tool to reverse-engineer servers into Ansible config mgmt](https://enroll.sh)
 * [2025-12-30, 08:19:08](https://news.ycombinator.com/item?id=46430815) - [Quickemu: Quickly create and run optimised Windows, macOS and Linux VMs](https://github.com/quickemu-project/quickemu)
-* [2025-12-28, 20:09:00](https://news.ycombinator.com/item?id=46414037) - [Five archetypes of small-scale fisheries reveal a continuum of strategies](https://www.nature.com/articles/s43016-025-01237-5)
 * [2025-12-28, 18:28:07](https://news.ycombinator.com/item?id=46413256) - [If you care about security you might want to move the iPhone Camera app](https://blog.jgc.org/2025/12/if-you-care-about-security-you-might.html)
 * [2025-12-27, 21:35:10](https://news.ycombinator.com/item?id=46405463) - [Contact the ISS](https://www.ariss.org/contact-the-iss.html)
 * [2025-12-27, 01:23:08](https://news.ycombinator.com/item?id=46398235) - [James Moylan, engineer behind arrow signaling which side to refuel a car, dies](https://fordauthority.com/2025/12/ford-engineer-that-designed-gas-tank-indicator-passes-away/)
