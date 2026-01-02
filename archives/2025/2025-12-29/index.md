@@ -46,6 +46,7 @@
 * [2025-12-29, 10:49:22](https://news.ycombinator.com/item?id=46419311) - [Git analytics that works across GitHub, GitLab, and Bitbucket](https://news.ycombinator.com/item?id=46419311)
 * [2025-12-29, 10:44:45](https://news.ycombinator.com/item?id=46419282) - [Market design can feed the poor](https://worksinprogress.co/issue/how-market-design-can-feed-the-poor/)
 * [2025-12-29, 10:43:29](https://news.ycombinator.com/item?id=46419273) - [Feynman's Hughes Lectures: 950 pages of notes](https://thehugheslectures.info/the-lectures/)
+* [2025-12-29, 10:28:38](https://news.ycombinator.com/item?id=46419196) - [Can I throw a C++ exception from a structured exception?](https://devblogs.microsoft.com/oldnewthing/20170728-00/?p=96706)
 * [2025-12-29, 10:12:16](https://news.ycombinator.com/item?id=46419121) - [EU to build no-fee payments service like Visa/Mastercard and Apple/Google Pay](https://www.independent.ie/business/digital-euro-what-it-is-and-how-we-will-use-the-new-form-of-cash/a165973061.html)
 * [2025-12-29, 09:40:09](https://news.ycombinator.com/item?id=46418966) - [Asking Gemini 3 for Brainf*ck code puts it in an infinite loop](https://teodordyakov.github.io/brainfuck-agi/)
 * [2025-12-29, 08:14:45](https://news.ycombinator.com/item?id=46418517) - [HTTP Strict Transport Security (HSTS)](https://hstspreload.org/)
