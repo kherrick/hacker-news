@@ -1,16 +1,6 @@
 [
   [
     [
-      "2026-01-02, 19:26:49",
-      "https://news.ycombinator.com/item?id=46468377"
-    ],
-    [
-      "Supplementation with vitamin D3 reduced telomere attrition",
-      "https://www.sciencedirect.com/science/article/abs/pii/S0002916525002552"
-    ]
-  ],
-  [
-    [
       "2026-01-02, 19:18:36",
       "https://news.ycombinator.com/item?id=46468283"
     ],
@@ -37,6 +27,16 @@
     [
       "Fighting Fire with Fire: Scalable Oral Exams",
       "https://www.behind-the-enemy-lines.com/2025/12/fighting-fire-with-fire-scalable-oral.html"
+    ]
+  ],
+  [
+    [
+      "2026-01-02, 18:16:07",
+      "https://news.ycombinator.com/item?id=46467651"
+    ],
+    [
+      "Accounting for Computer Scientists (2011)",
+      "https://martin.kleppmann.com/2011/03/07/accounting-for-computer-scientists.html"
     ]
   ],
   [
@@ -251,16 +251,6 @@
   ],
   [
     [
-      "2026-01-01, 17:18:01",
-      "https://news.ycombinator.com/item?id=46455872"
-    ],
-    [
-      "Cameras and Lenses (2020)",
-      "https://ciechanow.ski/cameras-and-lenses/"
-    ]
-  ],
-  [
-    [
       "2025-12-28, 20:24:41",
       "https://news.ycombinator.com/item?id=46414152"
     ],
@@ -277,6 +267,16 @@
     [
       "ThingsBoard: Open-Source IoT Platform",
       "https://github.com/thingsboard/thingsboard"
+    ]
+  ],
+  [
+    [
+      "2025-12-28, 04:40:56",
+      "https://news.ycombinator.com/item?id=46408510"
+    ],
+    [
+      "C –> Java != Java –> LLM",
+      "http://www.observationalhazard.com/2025/12/c-java-java-llm.html"
     ]
   ],
   [
