@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2026-01-02, 21:48:59](https://news.ycombinator.com/item?id=46469811) - [Tesla sales fell by 9 percent in 2025, its second yearly decline](https://arstechnica.com/cars/2026/01/tesla-sales-fell-by-9-percent-in-2025-its-second-yearly-decline/)
+* [2026-01-02, 21:45:40](https://news.ycombinator.com/item?id=46469780) - [I wrote the manual Karpathy said was missing for agentic AI](https://github.com/nicolasahar/morphic-programming)
 * [2026-01-02, 21:31:34](https://news.ycombinator.com/item?id=46469623) - [Linux kernel security work](http://www.kroah.com/log/blog/2026/01/02/linux-kernel-security-work/)
 * [2026-01-02, 21:27:44](https://news.ycombinator.com/item?id=46469577) - [Daft Punk Easter Egg in the BPM Tempo of Harder, Better, Faster, Stronger?](https://www.madebywindmill.com/tempi/blog/hbfs-bpm/)
 * [2026-01-02, 19:48:25](https://news.ycombinator.com/item?id=46468600) - [Publish (On Your) Own Site, Syndicate Elsewhere](https://indieweb.org/POSSE#)
@@ -16,7 +17,6 @@
 * [2026-01-02, 16:00:42](https://news.ycombinator.com/item?id=46466074) - [Ask HN: Who is hiring? (January 2026)](https://news.ycombinator.com/item?id=46466074)
 * [2026-01-02, 16:00:42](https://news.ycombinator.com/item?id=46466073) - [Ask HN: Who wants to be hired? (January 2026)](https://news.ycombinator.com/item?id=46466073)
 * [2026-01-02, 14:55:09](https://news.ycombinator.com/item?id=46465327) - [IPv6 just turned 30 and still hasn't taken over the world](https://www.theregister.com/2025/12/31/ipv6_at_30/)
-* [2026-01-02, 13:42:37](https://news.ycombinator.com/item?id=46464652) - [Parental controls aren't for parents](https://beasthacker.com/til/parental-controls-arent-for-parents.html)
 * [2026-01-02, 13:17:06](https://news.ycombinator.com/item?id=46464426) - [39th Chaos Communication Congress Videos](https://media.ccc.de/b/congress/2025)
 * [2026-01-02, 12:46:31](https://news.ycombinator.com/item?id=46464235) - [FracturedJson](https://github.com/j-brooke/FracturedJson/wiki)
 * [2026-01-02, 12:29:23](https://news.ycombinator.com/item?id=46464120) - [Assorted less(1) tips](https://blog.thechases.com/posts/assorted-less-tips/)
