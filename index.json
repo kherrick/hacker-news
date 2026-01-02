@@ -1,12 +1,12 @@
 [
   [
     [
-      "2026-01-02, 13:44:23",
-      "https://news.ycombinator.com/item?id=46464670"
+      "2026-01-02, 13:42:37",
+      "https://news.ycombinator.com/item?id=46464652"
     ],
     [
-      "Windows 11 surges among PC gamers on Steam as Linux stalls",
-      "https://www.windowscentral.com/gaming/pc-gaming/windows-11-surges-among-pc-gamers-on-steam-as-linux-stalls"
+      "TIL: Parental Controls Aren't for Parents",
+      "https://beasthacker.com/til/parental-controls-arent-for-parents.html"
     ]
   ],
   [
@@ -107,16 +107,6 @@
     [
       "HPV vaccination reduces oncogenic HPV16/18 prevalence from 16% to <1% in Denmark",
       "https://www.eurosurveillance.org/content/10.2807/1560-7917.ES.2025.30.27.2400820"
-    ]
-  ],
-  [
-    [
-      "2026-01-02, 08:42:34",
-      "https://news.ycombinator.com/item?id=46462719"
-    ],
-    [
-      "Going immutable on macOS, using Nix-Darwin",
-      "https://carette.xyz/posts/going_immutable_macos/"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Matz 2/2: The trajectory of Ruby's growth, Open-Source Software today etc.",
       "https://en.kaigaiiju.ch/episodes/matz2"
+    ]
+  ],
+  [
+    [
+      "2025-12-26, 09:44:15",
+      "https://news.ycombinator.com/item?id=46390675"
+    ],
+    [
+      "Soho 1851: The Greatest Christmas Meal Ever Cooked",
+      "https://londonist.com/london/food-and-drink/soho-1851-the-greatest-christmas-meal-ever-cooked"
     ]
   ]
 ]
