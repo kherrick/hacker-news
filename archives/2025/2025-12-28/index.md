@@ -25,6 +25,7 @@
 * [2025-12-28, 20:38:09](https://news.ycombinator.com/item?id=46414258) - [Show HN: Phantas – A browser-based binaural strobe engine (Web Audio API)](https://phantas.io)
 * [2025-12-28, 20:24:41](https://news.ycombinator.com/item?id=46414152) - [Miri: Practical Undefined Behavior Detection for Rust [pdf]](https://research.ralfj.de/papers/2026-popl-miri.pdf)
 * [2025-12-28, 20:14:58](https://news.ycombinator.com/item?id=46414078) - [Stepping down as Mockito maintainer after 10 years](https://github.com/mockito/mockito/issues/3777)
+* [2025-12-28, 20:12:45](https://news.ycombinator.com/item?id=46414062) - [Understanding Elasticsearch Percolator Field and Ingestion Lifecycle](https://kulekci.medium.com/understanding-elasticsearch-percolator-field-and-ingestion-lifecycle-b6437fc04b27)
 * [2025-12-28, 20:09:00](https://news.ycombinator.com/item?id=46414037) - [Five archetypes of small-scale fisheries reveal a continuum of strategies](https://www.nature.com/articles/s43016-025-01237-5)
 * [2025-12-28, 20:02:50](https://news.ycombinator.com/item?id=46413975) - [PySDR: A Guide to SDR and DSP Using Python](https://pysdr.org/content/intro.html)
 * [2025-12-28, 19:41:40](https://news.ycombinator.com/item?id=46413790) - [No it's not a Battleship](https://www.navalgazing.net/No-its-not)
