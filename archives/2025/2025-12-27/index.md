@@ -52,6 +52,7 @@
 * [2025-12-27, 14:13:58](https://news.ycombinator.com/item?id=46401982) - [Why is calling my asm function from Rust slower than calling it from C?](https://ohadravid.github.io/posts/2025-12-rav1d-faster-asm/)
 * [2025-12-27, 14:05:44](https://news.ycombinator.com/item?id=46401938) - [NMH BASIC](https://t3x.org/nmhbasic/index.html)
 * [2025-12-27, 13:59:16](https://news.ycombinator.com/item?id=46401899) - [Beyond the Nat: Cgnat, Bandwidth, and Practical Tunneling](https://blog.rastrian.dev/post/beyond-the-nat-cgnat-bandwidth-and-practical-tunneling)
+* [2025-12-27, 13:56:12](https://news.ycombinator.com/item?id=46401879) - [Show HN: Jsonic – Python JSON serialization that works](https://medium.com/dev-genius/jsonic-python-serialization-that-just-works-3b38d07c426d)
 * [2025-12-27, 13:50:28](https://news.ycombinator.com/item?id=46401849) - [The Organists Improvising Soundtracks to Silent Films](https://www.newyorker.com/magazine/2025/12/29/the-organists-improvising-soundtracks-to-silent-films)
 * [2025-12-27, 13:47:16](https://news.ycombinator.com/item?id=46401832) - [Show HN: An immutable ostree-based Arch Linux image](https://github.com/myyc/vyy)
 * [2025-12-27, 13:38:01](https://news.ycombinator.com/item?id=46401763) - [Pokémon Team Optimization](https://nchagnet.pages.dev/blog/pokemon-team-optimization/)

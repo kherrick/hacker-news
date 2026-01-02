@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-01-02](index.md)
 
+* [2026-01-02, 15:08:52](https://news.ycombinator.com/item?id=46465472) - [Why do Americans hate A.I.?](https://www.nytimes.com/2026/01/02/briefing/why-do-americans-hate-ai.html)
+* [2026-01-02, 14:55:09](https://news.ycombinator.com/item?id=46465327) - [IPv6 just turned 30 and still hasn't taken over the world](https://www.theregister.com/2025/12/31/ipv6_at_30/)
 * [2026-01-02, 14:18:47](https://news.ycombinator.com/item?id=46464962) - [I'm having the worst career winter of my life](https://news.ycombinator.com/item?id=46464962)
 * [2026-01-02, 14:17:40](https://news.ycombinator.com/item?id=46464953) - [The Netflix Simian Army (2011)](https://netflixtechblog.com/the-netflix-simian-army-16e57fbab116)
 * [2026-01-02, 13:44:23](https://news.ycombinator.com/item?id=46464670) - [Windows 11 surges among PC gamers on Steam as Linux stalls](https://www.windowscentral.com/gaming/pc-gaming/windows-11-surges-among-pc-gamers-on-steam-as-linux-stalls)
