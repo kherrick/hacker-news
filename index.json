@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-01-02, 01:42:16",
+      "https://news.ycombinator.com/item?id=46460440"
+    ],
+    [
+      "Happy Public Domain Day 2026",
+      "https://publicdomainreview.org/blog/2026/01/public-domain-day-2026/"
+    ]
+  ],
+  [
+    [
+      "2026-01-01, 23:33:09",
+      "https://news.ycombinator.com/item?id=46459425"
+    ],
+    [
+      "Why Prefer Textfiles? (2010)",
+      "http://textfiles.com/uploads/textfiles.txt"
+    ]
+  ],
+  [
+    [
       "2026-01-01, 22:09:16",
       "https://news.ycombinator.com/item?id=46458624"
     ],
@@ -17,16 +37,6 @@
     [
       "Can Bundler be as fast as uv?",
       "https://tenderlovemaking.com/2025/12/29/can-bundler-be-as-fast-as-uv/"
-    ]
-  ],
-  [
-    [
-      "2026-01-01, 21:26:49",
-      "https://news.ycombinator.com/item?id=46458194"
-    ],
-    [
-      "A silly diffuse shading model",
-      "https://lisyarus.github.io/blog/posts/a-silly-diffuse-shading-model.html"
     ]
   ],
   [
@@ -57,16 +67,6 @@
     [
       "Linux is good now",
       "https://www.pcgamer.com/software/linux/im-brave-enough-to-say-it-linux-is-good-now-and-if-you-want-to-feel-like-you-actually-own-your-pc-make-2026-the-year-of-linux-on-your-desktop/"
-    ]
-  ],
-  [
-    [
-      "2026-01-01, 19:33:53",
-      "https://news.ycombinator.com/item?id=46457240"
-    ],
-    [
-      "Prompting People",
-      "https://kuber.studio/blog/Reflections/Prompting-People"
     ]
   ],
   [
@@ -107,16 +107,6 @@
     [
       "Street-Fighting Mathematics (2008)",
       "https://ocw.mit.edu/courses/18-098-street-fighting-mathematics-january-iap-2008/pages/readings/"
-    ]
-  ],
-  [
-    [
-      "2026-01-01, 17:52:30",
-      "https://news.ycombinator.com/item?id=46456215"
-    ],
-    [
-      "Memory Subsystem Optimizations",
-      "https://johnnysswlab.com/memory-subsystem-optimizations/"
     ]
   ],
   [
@@ -231,12 +221,12 @@
   ],
   [
     [
-      "2026-01-01, 10:25:53",
-      "https://news.ycombinator.com/item?id=46452916"
+      "2026-01-01, 00:23:54",
+      "https://news.ycombinator.com/item?id=46449852"
     ],
     [
-      "Show HN: Wario Synth – Turn any song into Game Boy version",
-      "https://www.wario.style"
+      "Show HN: Enroll, a tool to reverse-engineer servers into Ansible config mgmt",
+      "https://enroll.sh"
     ]
   ],
   [
@@ -261,22 +251,32 @@
   ],
   [
     [
+      "2025-12-28, 18:28:07",
+      "https://news.ycombinator.com/item?id=46413256"
+    ],
+    [
+      "If you care about security you might want to move the iPhone Camera app",
+      "https://blog.jgc.org/2025/12/if-you-care-about-security-you-might.html"
+    ]
+  ],
+  [
+    [
+      "2025-12-28, 17:20:53",
+      "https://news.ycombinator.com/item?id=46412631"
+    ],
+    [
+      "Bypassing a Clever CD-Check",
+      "https://www.davidschlachter.com/misc/no-cd-patch"
+    ]
+  ],
+  [
+    [
       "2025-12-28, 15:54:02",
       "https://news.ycombinator.com/item?id=46411930"
     ],
     [
       "All my Deutschlandtickets gone: Fraud at an industrial scale [video]",
       "https://media.ccc.de/v/39c3-all-my-deutschlandtickets-gone-fraud-at-an-industrial-scale"
-    ]
-  ],
-  [
-    [
-      "2025-12-27, 14:25:43",
-      "https://news.ycombinator.com/item?id=46402059"
-    ],
-    [
-      "How to construct complex data declaratively and progressively?",
-      "https://github.com/allmonday/pydantic-resolve"
     ]
   ],
   [
