@@ -11,21 +11,11 @@
   ],
   [
     [
-      "2026-01-02, 19:30:52",
-      "https://news.ycombinator.com/item?id=46468414"
-    ],
-    [
-      "Grok Can't Apologize. So Why Do Headlines Keep Saying It Did?",
-      "https://www.readtpa.com/p/grok-cant-apologize-grok-isnt-sentient"
-    ]
-  ],
-  [
-    [
       "2026-01-02, 19:18:36",
       "https://news.ycombinator.com/item?id=46468283"
     ],
     [
-      "4th Edition Unix in the Browser",
+      "Unix v4 (1973) – Live Terminal",
       "https://unixv4.dev/"
     ]
   ],
@@ -197,6 +187,16 @@
     [
       "HPV vaccination reduces oncogenic HPV16/18 prevalence from 16% to <1% in Denmark",
       "https://www.eurosurveillance.org/content/10.2807/1560-7917.ES.2025.30.27.2400820"
+    ]
+  ],
+  [
+    [
+      "2026-01-02, 08:42:34",
+      "https://news.ycombinator.com/item?id=46462719"
+    ],
+    [
+      "Going immutable on macOS, using Nix-Darwin",
+      "https://carette.xyz/posts/going_immutable_macos/"
     ]
   ],
   [
