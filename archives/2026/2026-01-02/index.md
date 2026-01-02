@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-01-02](index.md)
 
+* [2026-01-02, 16:02:18](https://news.ycombinator.com/item?id=46466099) - [Grok is enabling mass sexual harassment on Twitter](https://www.seangoedecke.com/grok-deepfakes/)
+* [2026-01-02, 16:00:42](https://news.ycombinator.com/item?id=46466074) - [Ask HN: Who is hiring? (January 2026)](https://news.ycombinator.com/item?id=46466074)
 * [2026-01-02, 15:08:52](https://news.ycombinator.com/item?id=46465472) - [Why do Americans hate A.I.?](https://www.nytimes.com/2026/01/02/briefing/why-do-americans-hate-ai.html)
 * [2026-01-02, 14:55:09](https://news.ycombinator.com/item?id=46465327) - [IPv6 just turned 30 and still hasn't taken over the world](https://www.theregister.com/2025/12/31/ipv6_at_30/)
 * [2026-01-02, 14:18:47](https://news.ycombinator.com/item?id=46464962) - [I'm having the worst career winter of my life](https://news.ycombinator.com/item?id=46464962)
