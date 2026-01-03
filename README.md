@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-01-03, 11:26:59](https://news.ycombinator.com/item?id=46475376) - [Not for Human Consumption](https://vectorculture.substack.com/p/not-for-human-consumption)
+* [2026-01-03, 11:26:59](https://news.ycombinator.com/item?id=46475376) - [Not for human consumption](https://vectorculture.substack.com/p/not-for-human-consumption)
 * [2026-01-03, 11:02:33](https://news.ycombinator.com/item?id=46475218) - [Tally – A tool to help agents classify your bank transactions](https://tallyai.money/)
+* [2026-01-03, 06:35:21](https://news.ycombinator.com/item?id=46473348) - [Trump says Venezuela's Maduro captured after strikes](https://www.reuters.com/world/americas/loud-noises-heard-venezuela-capital-southern-area-without-electricity-2026-01-03/)
 * [2026-01-03, 04:22:29](https://news.ycombinator.com/item?id=46472772) - [Show HN: uvx ptn, scan a QR, get a terminal in your phone](https://github.com/lyehe/porterminal)
 * [2026-01-03, 04:01:03](https://news.ycombinator.com/item?id=46472667) - [IQuest-Coder: A new open-source code model beats Claude Sonnet 4.5 and GPT 5.1 [pdf]](https://github.com/IQuestLab/IQuest-Coder-V1/blob/main/papers/IQuest_Coder_Technical_Report.pdf)
 * [2026-01-03, 02:38:06](https://news.ycombinator.com/item?id=46472230) - [Adventure 751 (1980)](https://bluerenga.blog/2026/01/01/adventure-751-1980/)
@@ -28,7 +29,6 @@
 * [2025-12-31, 07:44:25](https://news.ycombinator.com/item?id=46442229) - [The Cost of a Closure in C: The Rest](https://thephd.dev/the-cost-of-a-closure-in-c-c2y-followup)
 * [2025-12-29, 04:35:32](https://news.ycombinator.com/item?id=46417500) - [How Smell Guides Our Inner World](https://www.quantamagazine.org/how-smell-guides-our-inner-world-20250703/)
 * [2025-12-28, 21:22:13](https://news.ycombinator.com/item?id=46414653) - [Why 451 Is Good for You – Greylisting Perspectives from the Early Noughties](https://bsdly.blogspot.com/2025/12/why-451-is-good-for-you-greylisting.html)
-* [2025-12-27, 22:58:34](https://news.ycombinator.com/item?id=46406311) - [Ask HN: How to go back to listening to MP3s?](https://news.ycombinator.com/item?id=46406311)
 * [2025-12-27, 16:49:39](https://news.ycombinator.com/item?id=46403062) - [Of Boot Vectors and Double Glitches: Bypassing RP2350's Secure Boot](https://streaming.media.ccc.de/39c3/relive/2149)
 
 ## [Archives](archives/index.md)
