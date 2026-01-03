@@ -24,11 +24,11 @@
 * [2026-01-02, 12:29:23](https://news.ycombinator.com/item?id=46464120) - [Assorted less(1) tips](https://blog.thechases.com/posts/assorted-less-tips/)
 * [2026-01-02, 10:10:46](https://news.ycombinator.com/item?id=46463315) - [HPV vaccination reduces oncogenic HPV16/18 prevalence from 16% to <1% in Denmark](https://www.eurosurveillance.org/content/10.2807/1560-7917.ES.2025.30.27.2400820)
 * [2025-12-31, 13:00:42](https://news.ycombinator.com/item?id=46443730) - [A Beginner's Two-Component Crystal-Style Wi-Fi Detector](https://siliconjunction.wordpress.com/2025/12/12/a-beginners-two-component-crystal-style-wi-fi-detector/)
+* [2025-12-31, 08:04:30](https://news.ycombinator.com/item?id=46442293) - [UK company sends factory with 1,000C furnace into space](https://www.bbc.co.uk/news/articles/c62vx0pgyrgo)
 * [2025-12-31, 07:44:25](https://news.ycombinator.com/item?id=46442229) - [The Cost of a Closure in C: The Rest](https://thephd.dev/the-cost-of-a-closure-in-c-c2y-followup)
 * [2025-12-29, 04:35:32](https://news.ycombinator.com/item?id=46417500) - [How Smell Guides Our Inner World](https://www.quantamagazine.org/how-smell-guides-our-inner-world-20250703/)
 * [2025-12-28, 21:56:27](https://news.ycombinator.com/item?id=46414908) - [Chain Flinger](https://nealstephenson.substack.com/p/kdk-kinetik-der-kontinua-part-1-introduction)
 * [2025-12-28, 21:22:13](https://news.ycombinator.com/item?id=46414653) - [Why 451 Is Good for You – Greylisting Perspectives from the Early Noughties](https://bsdly.blogspot.com/2025/12/why-451-is-good-for-you-greylisting.html)
-* [2025-12-28, 06:39:57](https://news.ycombinator.com/item?id=46408974) - [Uxn32: Uxn Emulator for Windows and Wine](https://github.com/randrew/uxn32)
 * [2025-12-27, 16:49:39](https://news.ycombinator.com/item?id=46403062) - [Of Boot Vectors and Double Glitches: Bypassing RP2350's Secure Boot](https://streaming.media.ccc.de/39c3/relive/2149)
 
 ## [Archives](archives/index.md)
