@@ -8,7 +8,6 @@
 * [2026-01-03, 04:22:29](https://news.ycombinator.com/item?id=46472772) - [Show HN: uvx ptn, scan a QR, get a terminal in your phone](https://github.com/lyehe/porterminal)
 * [2026-01-03, 04:01:03](https://news.ycombinator.com/item?id=46472667) - [IQuest-Coder: A new open-source code model beats Claude Sonnet 4.5 and GPT 5.1 [pdf]](https://github.com/IQuestLab/IQuest-Coder-V1/blob/main/papers/IQuest_Coder_Technical_Report.pdf)
 * [2026-01-03, 02:38:06](https://news.ycombinator.com/item?id=46472230) - [Adventure 751 (1980)](https://bluerenga.blog/2026/01/01/adventure-751-1980/)
-* [2026-01-03, 01:29:09](https://news.ycombinator.com/item?id=46471784) - [Einstein Probe detects an X-ray flare from nearby star](https://phys.org/news/2025-12-einstein-probe-ray-flare-nearby.html)
 * [2026-01-03, 01:18:07](https://news.ycombinator.com/item?id=46471712) - [A Basic Just-In-Time Compiler (2015)](https://nullprogram.com/blog/2015/03/19/)
 * [2026-01-03, 00:15:47](https://news.ycombinator.com/item?id=46471199) - [2026 will be my year of the Linux desktop](https://xeiaso.net/notes/2026/year-linux-desktop/)
 * [2026-01-02, 21:31:34](https://news.ycombinator.com/item?id=46469623) - [Linux kernel security work](http://www.kroah.com/log/blog/2026/01/02/linux-kernel-security-work/)
@@ -29,6 +28,7 @@
 * [2025-12-31, 07:44:25](https://news.ycombinator.com/item?id=46442229) - [The Cost of a Closure in C: The Rest](https://thephd.dev/the-cost-of-a-closure-in-c-c2y-followup)
 * [2025-12-29, 14:24:08](https://news.ycombinator.com/item?id=46421045) - [Show HN: The ASCII Side of the Moon](https://aleyan.com/projects/ascii-side-of-the-moon/?lat=32.72&lon=-117.16&date=2025-12-29T14%3A24Z)
 * [2025-12-29, 04:35:32](https://news.ycombinator.com/item?id=46417500) - [How Smell Guides Our Inner World](https://www.quantamagazine.org/how-smell-guides-our-inner-world-20250703/)
+* [2025-12-27, 18:33:07](https://news.ycombinator.com/item?id=46404005) - [Quality Food Comes from Constraints](https://gist.github.com/breadchris/00f64f3c26ebb9bccb7fd9d94be9d708)
 * [2025-12-27, 16:49:39](https://news.ycombinator.com/item?id=46403062) - [Of Boot Vectors and Double Glitches: Bypassing RP2350's Secure Boot](https://streaming.media.ccc.de/39c3/relive/2149)
 
 ## [Archives](archives/index.md)
