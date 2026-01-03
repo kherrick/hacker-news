@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-01-03, 22:11:13](https://news.ycombinator.com/item?id=46482234) - [The Return of the American Protectorate](https://www.karlsnotes.com/running-venezuela-the-return-of-the-american-protectorate/)
 * [2026-01-03, 19:39:46](https://news.ycombinator.com/item?id=46480677) - [Show HN: Vibe Coding a static site on a $25 Walmart Phone](https://stetsonblake.com/%2425+Walmart+Phone+for+Hackers)
-* [2026-01-03, 19:34:52](https://news.ycombinator.com/item?id=46480614) - [Xsight Labs E1 DPU a 64-Core Arm Neoverse N2 800G DPU](https://www.servethehome.com/this-is-the-xsight-labs-e1-dpu-a-64-core-arm-neoverse-n2-800g-dpu/)
 * [2026-01-03, 19:25:36](https://news.ycombinator.com/item?id=46480491) - [Doesnt: An Esoteric Programming Language](https://lists.sr.ht/~rabbits/horadric/%3C5d708fd1-1c01-4fb6-a8e5-61213a1e88f8@sheeeeeeeep.art%3E)
 * [2026-01-03, 19:14:39](https://news.ycombinator.com/item?id=46480373) - [As deep-sea mining race ramps up, mission will assess whether ecosystems recover](https://www.science.org/content/article/deep-sea-mining-race-ramps-mission-will-assess-whether-ecosystems-recover-afterward)
-* [2026-01-03, 18:53:10](https://news.ycombinator.com/item?id=46480156) - [Microsoft kills official way to activate Windows 11/10 without internet](https://www.neowin.net/news/report-microsoft-quietly-kills-official-way-to-activate-windows-1110-without-internet/#google_vignette)
+* [2026-01-03, 18:53:10](https://news.ycombinator.com/item?id=46480156) - [Report: Microsoft kills official way to activate Windows 11/10 without internet](https://www.neowin.net/news/report-microsoft-quietly-kills-official-way-to-activate-windows-1110-without-internet/#google_vignette)
 * [2026-01-03, 18:10:21](https://news.ycombinator.com/item?id=46479673) - [Xr0 verifier, guarantee the safety of C programs at compile time](https://xr0.dev)
 * [2026-01-03, 16:41:06](https://news.ycombinator.com/item?id=46478647) - [The C3 Programming Language](https://c3-lang.org)
 * [2026-01-03, 16:20:10](https://news.ycombinator.com/item?id=46478377) - [The Most Popular Blogs of Hacker News in 2025](https://refactoringenglish.com/blog/2025-hn-top-5/)
