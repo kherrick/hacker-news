@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-01-03](index.md)
 
+* [2026-01-03, 11:26:59](https://news.ycombinator.com/item?id=46475376) - [Not for Human Consumption](https://vectorculture.substack.com/p/not-for-human-consumption)
 * [2026-01-03, 10:09:48](https://news.ycombinator.com/item?id=46474859) - [Late night pizzeria nearby The Pentagon has suddenly surged in traffic](https://twitter.com/PenPizzaReport/status/2007347706017251535)
 * [2026-01-03, 10:05:56](https://news.ycombinator.com/item?id=46474833) - [How to Win Friends and Influence People: Unrevised Version](https://socialskillswisdom.com/)
 * [2026-01-03, 09:04:48](https://news.ycombinator.com/item?id=46474344) - [AI results can be manipulated](https://ahrefs.com/blog/ai-vs-made-up-brand-experiment/)
