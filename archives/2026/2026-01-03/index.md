@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-01-03](index.md)
 
+* [2026-01-03, 07:35:26](https://news.ycombinator.com/item?id=46473623) - [Explosions reported in Venezuelan capital Caracas](https://www.theguardian.com/world/2026/jan/03/explosions-reported-venezuela-caracas)
+* [2026-01-03, 07:09:16](https://news.ycombinator.com/item?id=46473491) - [At least 7 explosions and low-flying aircraft are heard in Venezuela's Caracas](https://apnews.com/article/venezuela-us-explosions-caracas-ca712a67aaefc30b1831f5bf0b50665e)
 * [2026-01-03, 06:49:39](https://news.ycombinator.com/item?id=46473399) - [Multiple explosions in Venezuela's capital Caracas](https://www.cnn.com/2026/01/03/americas/venezuela-explosions-intl-hnk)
 * [2026-01-03, 06:35:21](https://news.ycombinator.com/item?id=46473348) - [Loud noises heard in Venezuela capital, southern area without electricity](https://www.reuters.com/world/americas/loud-noises-heard-venezuela-capital-southern-area-without-electricity-2026-01-03/)
 * [2026-01-03, 06:01:29](https://news.ycombinator.com/item?id=46473214) - [Japan joining growing global trend of declining democracy](https://www.asahi.com/ajw/articles/16262732)
