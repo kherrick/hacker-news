@@ -80,6 +80,7 @@
 * [2025-12-28, 03:40:43](https://news.ycombinator.com/item?id=46408192) - [Dialtone – AOL 3.0 Server](https://dialtone.live/)
 * [2025-12-28, 03:27:26](https://news.ycombinator.com/item?id=46408104) - [Nvidia deal a big win for Groq employees and investors](https://www.axios.com/2025/12/28/nvidia-groq-shareholders)
 * [2025-12-28, 01:33:10](https://news.ycombinator.com/item?id=46407502) - [Dad's Fitness May Be Packaged and Passed Down in Sperm RNA](https://www.quantamagazine.org/how-dads-fitness-may-be-packaged-and-passed-down-in-sperm-rna-20251222/)
+* [2025-12-28, 01:13:09](https://news.ycombinator.com/item?id=46407376) - [2026 macro outlook – views across the street (synthesis 2026 outlook reports)](https://2026macro.vercel.app/)
 * [2025-12-28, 01:07:09](https://news.ycombinator.com/item?id=46407337) - [Replacing JavaScript with Just HTML](https://www.htmhell.dev/adventcalendar/2025/27/)
 * [2025-12-28, 01:00:52](https://news.ycombinator.com/item?id=46407292) - [Show HN: I created a tool to design and create foamcore inserts for boardgames](https://boxinsertdesigner.com/)
 * [2025-12-28, 00:48:16](https://news.ycombinator.com/item?id=46407198) - [Show HN: What 4M posts reveal about going viral on Hacker News](https://hn-ph.vercel.app)
