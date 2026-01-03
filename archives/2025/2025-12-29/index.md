@@ -39,6 +39,7 @@
 * [2025-12-29, 13:43:14](https://news.ycombinator.com/item?id=46420670) - [Show HN: Per-instance TSP Solver with No Pre-training (1.66% gap on d1291)](https://news.ycombinator.com/item?id=46420670)
 * [2025-12-29, 13:22:59](https://news.ycombinator.com/item?id=46420453) - [Show HN: Vibe coding a bookshelf with Claude Code](https://balajmarius.com/writings/vibe-coding-a-bookshelf-with-claude-code/)
 * [2025-12-29, 13:06:49](https://news.ycombinator.com/item?id=46420289) - [UK accounting body to halt remote exams amid AI cheating](https://www.theguardian.com/business/2025/dec/29/uk-accounting-remote-exams-ai-cheating-acca)
+* [2025-12-29, 12:47:37](https://news.ycombinator.com/item?id=46420119) - [Show HN: True Persistent F*****G Memory for Robotics (Bypassing Linux Kernel)](https://ryjoxdemo.com/demo)
 * [2025-12-29, 12:24:00](https://news.ycombinator.com/item?id=46419970) - [Kidnapped by Deutsche Bahn](https://www.theocharis.dev/blog/kidnapped-by-deutsche-bahn/)
 * [2025-12-29, 12:23:49](https://news.ycombinator.com/item?id=46419968) - [Linux DAW: Help Linux musicians to quickly and easily find the tools they need](https://linuxdaw.org/)
 * [2025-12-29, 11:58:09](https://news.ycombinator.com/item?id=46419822) - [Show HN: See what readers who loved your favorite book/author also loved to read](https://shepherd.com/bboy/2025)
