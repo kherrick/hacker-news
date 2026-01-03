@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-01-03, 15:55:16",
+      "https://news.ycombinator.com/item?id=46478061"
+    ],
+    [
+      "Show HN: Offline tiles and routing and geocoding in one Docker Compose stack",
+      "https://www.corviont.com/"
+    ]
+  ],
+  [
+    [
       "2026-01-03, 13:53:34",
       "https://news.ycombinator.com/item?id=46476636"
     ],
@@ -21,12 +31,32 @@
   ],
   [
     [
+      "2026-01-03, 11:29:33",
+      "https://news.ycombinator.com/item?id=46475395"
+    ],
+    [
+      "Recursive Language Models",
+      "https://arxiv.org/abs/2512.24601"
+    ]
+  ],
+  [
+    [
       "2026-01-03, 11:13:48",
       "https://news.ycombinator.com/item?id=46475296"
     ],
     [
       "Profiling with Ctrl-C (2024)",
       "https://yosefk.com/blog/profiling-with-ctrl-c.html"
+    ]
+  ],
+  [
+    [
+      "2026-01-03, 06:35:51",
+      "https://news.ycombinator.com/item?id=46473352"
+    ],
+    [
+      "Ask HN: Expository/Succinct Books on Modern Physics",
+      "https://news.ycombinator.com/item?id=46473352"
     ]
   ],
   [
@@ -67,16 +97,6 @@
     [
       "Adventure 751 (1980)",
       "https://bluerenga.blog/2026/01/01/adventure-751-1980/"
-    ]
-  ],
-  [
-    [
-      "2026-01-03, 01:29:09",
-      "https://news.ycombinator.com/item?id=46471784"
-    ],
-    [
-      "Einstein Probe detects an X-ray flare from nearby star",
-      "https://phys.org/news/2025-12-einstein-probe-ray-flare-nearby.html"
     ]
   ],
   [
@@ -141,16 +161,6 @@
   ],
   [
     [
-      "2026-01-02, 19:18:36",
-      "https://news.ycombinator.com/item?id=46468283"
-    ],
-    [
-      "Unix v4 (1973) – Live Terminal",
-      "https://unixv4.dev/"
-    ]
-  ],
-  [
-    [
       "2026-01-02, 18:18:47",
       "https://news.ycombinator.com/item?id=46467677"
     ],
@@ -187,16 +197,6 @@
     [
       "The rsync algorithm (1996) [pdf]",
       "https://www.andrew.cmu.edu/course/15-749/READINGS/required/cas/tridgell96.pdf"
-    ]
-  ],
-  [
-    [
-      "2026-01-02, 16:23:34",
-      "https://news.ycombinator.com/item?id=46466364"
-    ],
-    [
-      "Punkt. Unveils MC03 Smartphone",
-      "https://www.punkt.ch/blogs/news/punkt-unveils-mc03"
     ]
   ],
   [
@@ -245,7 +245,7 @@
       "https://news.ycombinator.com/item?id=46442624"
     ],
     [
-      "Tomasf/Cadova: Swift DSL for parametric 3D modeling",
+      "Cadova: Swift DSL for parametric 3D modeling",
       "https://github.com/tomasf/Cadova"
     ]
   ],
@@ -271,22 +271,22 @@
   ],
   [
     [
-      "2025-12-29, 14:24:08",
-      "https://news.ycombinator.com/item?id=46421045"
-    ],
-    [
-      "Show HN: The ASCII Side of the Moon",
-      "https://aleyan.com/projects/ascii-side-of-the-moon/?lat=32.72&lon=-117.16&date=2025-12-29T14%3A24Z"
-    ]
-  ],
-  [
-    [
       "2025-12-29, 04:35:32",
       "https://news.ycombinator.com/item?id=46417500"
     ],
     [
       "How Smell Guides Our Inner World",
       "https://www.quantamagazine.org/how-smell-guides-our-inner-world-20250703/"
+    ]
+  ],
+  [
+    [
+      "2025-12-27, 17:59:03",
+      "https://news.ycombinator.com/item?id=46403704"
+    ],
+    [
+      "Hacking VBA to support native scripting runtime with no COM dependencies",
+      "https://github.com/ECP-Solutions/ASF"
     ]
   ],
   [
