@@ -1,6 +1,36 @@
 [
   [
     [
+      "2026-01-03, 13:53:34",
+      "https://news.ycombinator.com/item?id=46476636"
+    ],
+    [
+      "ParadeDB (YC S23) Is Hiring Database Engineers",
+      "https://paradedb.notion.site/?p=172ea4ce9deb80898ef5d5097bd65544&pm=s"
+    ]
+  ],
+  [
+    [
+      "2026-01-03, 11:37:07",
+      "https://news.ycombinator.com/item?id=46475437"
+    ],
+    [
+      "X-Clacks-Overhead",
+      "https://hleb.dev/post/x-clacks-overhead/"
+    ]
+  ],
+  [
+    [
+      "2026-01-03, 11:13:48",
+      "https://news.ycombinator.com/item?id=46475296"
+    ],
+    [
+      "Profiling with Ctrl-C",
+      "https://yosefk.com/blog/profiling-with-ctrl-c.html"
+    ]
+  ],
+  [
+    [
       "2026-01-03, 11:02:33",
       "https://news.ycombinator.com/item?id=46475218"
     ],
@@ -131,16 +161,6 @@
   ],
   [
     [
-      "2026-01-02, 19:13:24",
-      "https://news.ycombinator.com/item?id=46468237"
-    ],
-    [
-      "TinyTinyTPU: 2×2 systolic-array TPU-style matrix-multiply unit deployed on FPGA",
-      "https://github.com/Alanma23/tinytinyTPU-co"
-    ]
-  ],
-  [
-    [
       "2026-01-02, 18:18:47",
       "https://news.ycombinator.com/item?id=46467677"
     ],
@@ -177,16 +197,6 @@
     [
       "The rsync algorithm (1996) [pdf]",
       "https://www.andrew.cmu.edu/course/15-749/READINGS/required/cas/tridgell96.pdf"
-    ]
-  ],
-  [
-    [
-      "2026-01-02, 16:23:34",
-      "https://news.ycombinator.com/item?id=46466364"
-    ],
-    [
-      "Punkt. Unveils MC03 Smartphone",
-      "https://www.punkt.ch/blogs/news/punkt-unveils-mc03"
     ]
   ],
   [
@@ -277,16 +287,6 @@
     [
       "How Smell Guides Our Inner World",
       "https://www.quantamagazine.org/how-smell-guides-our-inner-world-20250703/"
-    ]
-  ],
-  [
-    [
-      "2025-12-28, 21:22:13",
-      "https://news.ycombinator.com/item?id=46414653"
-    ],
-    [
-      "Why 451 Is Good for You – Greylisting Perspectives from the Early Noughties",
-      "https://bsdly.blogspot.com/2025/12/why-451-is-good-for-you-greylisting.html"
     ]
   ],
   [
