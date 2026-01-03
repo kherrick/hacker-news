@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2026-01-03, 10:09:48](https://news.ycombinator.com/item?id=46474859) - [Late night pizzeria nearby The Pentagon has suddenly surged in traffic](https://twitter.com/PenPizzaReport/status/2007347706017251535)
+* [2026-01-03, 10:05:56](https://news.ycombinator.com/item?id=46474833) - [How to Win Friends and Influence People: Unrevised Version](https://socialskillswisdom.com/)
 * [2026-01-03, 04:22:29](https://news.ycombinator.com/item?id=46472772) - [Show HN: uvx ptn, scan a QR, get a terminal in your phone](https://github.com/lyehe/porterminal)
 * [2026-01-03, 04:01:03](https://news.ycombinator.com/item?id=46472667) - [IQuest-Coder: A new open-source code model beats Claude Sonnet 4.5 and GPT 5.1 [pdf]](https://github.com/IQuestLab/IQuest-Coder-V1/blob/main/papers/IQuest_Coder_Technical_Report.pdf)
 * [2026-01-03, 02:38:06](https://news.ycombinator.com/item?id=46472230) - [Adventure 751 (1980)](https://bluerenga.blog/2026/01/01/adventure-751-1980/)
@@ -22,12 +23,11 @@
 * [2026-01-02, 16:00:42](https://news.ycombinator.com/item?id=46466074) - [Ask HN: Who is hiring? (January 2026)](https://news.ycombinator.com/item?id=46466074)
 * [2026-01-02, 16:00:42](https://news.ycombinator.com/item?id=46466073) - [Ask HN: Who wants to be hired? (January 2026)](https://news.ycombinator.com/item?id=46466073)
 * [2026-01-02, 14:55:09](https://news.ycombinator.com/item?id=46465327) - [IPv6 just turned 30 and still hasn't taken over the world](https://www.theregister.com/2025/12/31/ipv6_at_30/)
-* [2026-01-02, 12:29:23](https://news.ycombinator.com/item?id=46464120) - [Assorted less(1) tips](https://blog.thechases.com/posts/assorted-less-tips/)
 * [2025-12-31, 13:00:42](https://news.ycombinator.com/item?id=46443730) - [A Beginner's Two-Component Crystal-Style Wi-Fi Detector](https://siliconjunction.wordpress.com/2025/12/12/a-beginners-two-component-crystal-style-wi-fi-detector/)
+* [2025-12-31, 09:16:58](https://news.ycombinator.com/item?id=46442624) - [GitHub – tomasf/Cadova: Swift DSL for parametric 3D modeling](https://github.com/tomasf/Cadova)
 * [2025-12-31, 08:04:30](https://news.ycombinator.com/item?id=46442293) - [UK company sends factory with 1,000C furnace into space](https://www.bbc.co.uk/news/articles/c62vx0pgyrgo)
 * [2025-12-31, 07:44:25](https://news.ycombinator.com/item?id=46442229) - [The Cost of a Closure in C: The Rest](https://thephd.dev/the-cost-of-a-closure-in-c-c2y-followup)
 * [2025-12-29, 04:35:32](https://news.ycombinator.com/item?id=46417500) - [How Smell Guides Our Inner World](https://www.quantamagazine.org/how-smell-guides-our-inner-world-20250703/)
-* [2025-12-28, 21:56:27](https://news.ycombinator.com/item?id=46414908) - [Chain Flinger](https://nealstephenson.substack.com/p/kdk-kinetik-der-kontinua-part-1-introduction)
 * [2025-12-28, 21:22:13](https://news.ycombinator.com/item?id=46414653) - [Why 451 Is Good for You – Greylisting Perspectives from the Early Noughties](https://bsdly.blogspot.com/2025/12/why-451-is-good-for-you-greylisting.html)
 * [2025-12-27, 16:49:39](https://news.ycombinator.com/item?id=46403062) - [Of Boot Vectors and Double Glitches: Bypassing RP2350's Secure Boot](https://streaming.media.ccc.de/39c3/relive/2149)
 
