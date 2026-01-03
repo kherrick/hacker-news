@@ -1,16 +1,6 @@
 [
   [
     [
-      "2026-01-03, 22:11:13",
-      "https://news.ycombinator.com/item?id=46482234"
-    ],
-    [
-      "The Return of the American Protectorate",
-      "https://www.karlsnotes.com/running-venezuela-the-return-of-the-american-protectorate/"
-    ]
-  ],
-  [
-    [
       "2026-01-03, 19:39:46",
       "https://news.ycombinator.com/item?id=46480677"
     ],
@@ -297,6 +287,16 @@
     [
       "World's largest functioning musical instrument: Wanamaker Organ in Philadelphia",
       "https://en.wikipedia.org/wiki/Wanamaker_Organ"
+    ]
+  ],
+  [
+    [
+      "2025-12-28, 16:12:11",
+      "https://news.ycombinator.com/item?id=46412070"
+    ],
+    [
+      "Ed25519-CLI – command-line interface for the Ed25519 signature system",
+      "https://lib25519.cr.yp.to/ed25519-cli.html"
     ]
   ]
 ]
