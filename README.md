@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-01-03, 19:42:17](https://news.ycombinator.com/item?id=46480709) - [Busy Is the New Stupid](https://www.cisotradecraft.com/bitns)
 * [2026-01-03, 19:39:46](https://news.ycombinator.com/item?id=46480677) - [Show HN: Vibe Coding a static site on a $25 Walmart Phone](https://stetsonblake.com/%2425+Walmart+Phone+for+Hackers)
 * [2026-01-03, 19:34:52](https://news.ycombinator.com/item?id=46480614) - [Xsight Labs E1 DPU a 64-Core Arm Neoverse N2 800G DPU](https://www.servethehome.com/this-is-the-xsight-labs-e1-dpu-a-64-core-arm-neoverse-n2-800g-dpu/)
 * [2026-01-03, 19:25:36](https://news.ycombinator.com/item?id=46480491) - [Doesnt: An Esoteric Programming Language](https://lists.sr.ht/~rabbits/horadric/%3C5d708fd1-1c01-4fb6-a8e5-61213a1e88f8@sheeeeeeeep.art%3E)
@@ -16,6 +15,7 @@
 * [2026-01-03, 11:13:48](https://news.ycombinator.com/item?id=46475296) - [Profiling with Ctrl-C (2024)](https://yosefk.com/blog/profiling-with-ctrl-c.html)
 * [2026-01-03, 06:35:21](https://news.ycombinator.com/item?id=46473348) - [Trump says Venezuela’s Maduro captured after strikes](https://www.reuters.com/world/americas/loud-noises-heard-venezuela-capital-southern-area-without-electricity-2026-01-03/)
 * [2026-01-03, 00:15:47](https://news.ycombinator.com/item?id=46471199) - [2026 will be my year of the Linux desktop](https://xeiaso.net/notes/2026/year-linux-desktop/)
+* [2026-01-02, 21:31:34](https://news.ycombinator.com/item?id=46469623) - [Linux kernel security work](http://www.kroah.com/log/blog/2026/01/02/linux-kernel-security-work/)
 * [2026-01-02, 21:27:44](https://news.ycombinator.com/item?id=46469577) - [Daft Punk Easter Egg in the BPM Tempo of Harder, Better, Faster, Stronger?](https://www.madebywindmill.com/tempi/blog/hbfs-bpm/)
 * [2026-01-02, 19:48:25](https://news.ycombinator.com/item?id=46468600) - [Publish on your own site, syndicate elsewhere](https://indieweb.org/POSSE#)
 * [2026-01-02, 17:22:04](https://news.ycombinator.com/item?id=46467057) - [Clicks Communicator](https://www.clicksphone.com/en/communicator)
