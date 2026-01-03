@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-01-03](index.md)
 
+* [2026-01-03, 23:39:12](https://news.ycombinator.com/item?id=46483023) - [Swift on Android: Full Native App Development Now Possible](https://docs.swifdroid.com/app/)
 * [2026-01-03, 23:14:29](https://news.ycombinator.com/item?id=46482777) - [China DRAM Maker CXMT Targets $4.2B IPO as It Takes on Samsung, SK Hynix, Micron](https://www.ic-pcb.com/chinas-leading-dram-maker-cxmt-targets-42-billion-ipo-as-it-takes-on-samsung-sk-hynix-and-micron.html)
 * [2026-01-03, 23:10:30](https://news.ycombinator.com/item?id=46482731) - [A comparison of benefits from every-third-day vs. daily low-dose aspirin therapy](https://pubmed.ncbi.nlm.nih.gov/11190906/)
 * [2026-01-03, 23:01:57](https://news.ycombinator.com/item?id=46482642) - [The Riven (1997) Diffs](https://glthr.com/the-riven-diffs-1)
