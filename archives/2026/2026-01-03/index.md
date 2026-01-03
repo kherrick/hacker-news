@@ -4,8 +4,11 @@
 
 ### [Archives](../../index.md) for [2026-01-03](index.md)
 
+* [2026-01-03, 23:01:57](https://news.ycombinator.com/item?id=46482642) - [The Riven (1997) Diffs](https://glthr.com/the-riven-diffs-1)
+* [2026-01-03, 22:23:34](https://news.ycombinator.com/item?id=46482345) - [Total monthly number of StackOverflow questions over time](https://data.stackexchange.com/stackoverflow/query/1926661#graph)
 * [2026-01-03, 22:14:57](https://news.ycombinator.com/item?id=46482268) - [Ask HN: What are you working on? (Jan 2026)](https://news.ycombinator.com/item?id=46482268)
 * [2026-01-03, 22:11:13](https://news.ycombinator.com/item?id=46482234) - [The Return of the American Protectorate](https://www.karlsnotes.com/running-venezuela-the-return-of-the-american-protectorate/)
+* [2026-01-03, 21:58:30](https://news.ycombinator.com/item?id=46482107) - [Take One Small Step](https://thinkhuman.com/take-one-small-step/)
 * [2026-01-03, 21:34:33](https://news.ycombinator.com/item?id=46481849) - [Scaling Latent Reasoning via Looped Language Models](https://arxiv.org/abs/2510.25741)
 * [2026-01-03, 19:42:17](https://news.ycombinator.com/item?id=46480709) - [Busy Is the New Stupid](https://www.cisotradecraft.com/bitns)
 * [2026-01-03, 19:39:46](https://news.ycombinator.com/item?id=46480677) - [Show HN: Vibe Coding a static site on a $25 Walmart Phone](https://stetsonblake.com/%2425+Walmart+Phone+for+Hackers)

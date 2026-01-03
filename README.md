@@ -1,6 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-01-03, 23:01:57](https://news.ycombinator.com/item?id=46482642) - [The Riven (1997) Diffs](https://glthr.com/the-riven-diffs-1)
+* [2026-01-03, 22:23:34](https://news.ycombinator.com/item?id=46482345) - [Total monthly number of StackOverflow questions over time](https://data.stackexchange.com/stackoverflow/query/1926661#graph)
 * [2026-01-03, 22:14:57](https://news.ycombinator.com/item?id=46482268) - [Ask HN: What are you working on? (Jan 2026)](https://news.ycombinator.com/item?id=46482268)
+* [2026-01-03, 21:58:30](https://news.ycombinator.com/item?id=46482107) - [Take One Small Step](https://thinkhuman.com/take-one-small-step/)
 * [2026-01-03, 21:34:33](https://news.ycombinator.com/item?id=46481849) - [Scaling Latent Reasoning via Looped Language Models](https://arxiv.org/abs/2510.25741)
 * [2026-01-03, 19:39:46](https://news.ycombinator.com/item?id=46480677) - [Show HN: Vibe Coding a static site on a $25 Walmart Phone](https://stetsonblake.com/%2425+Walmart+Phone+for+Hackers)
 * [2026-01-03, 19:25:36](https://news.ycombinator.com/item?id=46480491) - [Doesnt: An Esoteric Programming Language](https://lists.sr.ht/~rabbits/horadric/%3C5d708fd1-1c01-4fb6-a8e5-61213a1e88f8@sheeeeeeeep.art%3E)
@@ -21,13 +24,10 @@
 * [2026-01-02, 16:00:42](https://news.ycombinator.com/item?id=46466074) - [Ask HN: Who is hiring? (January 2026)](https://news.ycombinator.com/item?id=46466074)
 * [2026-01-02, 14:55:09](https://news.ycombinator.com/item?id=46465327) - [IPv6 just turned 30 and still hasn't taken over the world](https://www.theregister.com/2025/12/31/ipv6_at_30/)
 * [2025-12-31, 13:00:42](https://news.ycombinator.com/item?id=46443730) - [A Beginner's Two-Component Crystal-Style Wi-Fi Detector](https://siliconjunction.wordpress.com/2025/12/12/a-beginners-two-component-crystal-style-wi-fi-detector/)
-* [2025-12-31, 09:16:58](https://news.ycombinator.com/item?id=46442624) - [Cadova: Swift DSL for parametric 3D modeling](https://github.com/tomasf/Cadova)
-* [2025-12-31, 08:04:30](https://news.ycombinator.com/item?id=46442293) - [UK company sends factory with 1,000C furnace into space](https://www.bbc.co.uk/news/articles/c62vx0pgyrgo)
 * [2025-12-31, 05:54:06](https://news.ycombinator.com/item?id=46441781) - [Sirius DB](https://www.sirius-db.com/)
 * [2025-12-31, 00:43:30](https://news.ycombinator.com/item?id=46440037) - [Exploring Dithering on Spectra 6-color E-Ink Displays](https://myembeddedstuff.com/e-ink-spectra-6-color)
 * [2025-12-30, 15:03:12](https://news.ycombinator.com/item?id=46433967) - [Beating myself at chess](https://log.schemescape.com/posts/diy/beating-myself-at-chess.html)
 * [2025-12-30, 02:43:50](https://news.ycombinator.com/item?id=46428922) - [Experiments with Ableton-MCP](https://jhurliman.org/post/804323197731373056/experiments-with-ableton-mcp-dec-2025)
-* [2025-12-29, 04:13:13](https://news.ycombinator.com/item?id=46417400) - [Why your early 2000s photos are probably lost forever](https://www.bbc.com/future/article/20251212-why-your-early-2000s-photos-are-probably-lost-forever)
 * [2025-12-28, 17:41:26](https://news.ycombinator.com/item?id=46412809) - [World's largest functioning musical instrument: Wanamaker Organ in Philadelphia](https://en.wikipedia.org/wiki/Wanamaker_Organ)
 * [2025-12-28, 16:12:11](https://news.ycombinator.com/item?id=46412070) - [Ed25519-CLI – command-line interface for the Ed25519 signature system](https://lib25519.cr.yp.to/ed25519-cli.html)
 
