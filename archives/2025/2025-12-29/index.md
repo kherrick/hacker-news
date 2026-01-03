@@ -61,6 +61,7 @@
 * [2025-12-29, 05:21:06](https://news.ycombinator.com/item?id=46417724) - [John Simpson: 'I've reported on 40 wars but I've never seen a year like 2025'](https://www.bbc.com/news/articles/cj4qp17e1lqo)
 * [2025-12-29, 05:12:58](https://news.ycombinator.com/item?id=46417676) - [My First Meshtastic Network](https://rickcarlino.com/notes/electronics/my-first-meshtastic-network.html)
 * [2025-12-29, 04:35:32](https://news.ycombinator.com/item?id=46417500) - [How Smell Guides Our Inner World](https://www.quantamagazine.org/how-smell-guides-our-inner-world-20250703/)
+* [2025-12-29, 04:13:13](https://news.ycombinator.com/item?id=46417400) - [Why your early 2000s photos are probably lost forever](https://www.bbc.com/future/article/20251212-why-your-early-2000s-photos-are-probably-lost-forever)
 * [2025-12-29, 03:44:12](https://news.ycombinator.com/item?id=46417252) - [Why I Think Valve's Retiring the Steam Deck LCD](https://gardinerbryant.com/why-valves-retiring-the-steam-deck-lcd/)
 * [2025-12-29, 03:39:42](https://news.ycombinator.com/item?id=46417227) - [Fast GPU Interconnect over Radio](https://spectrum.ieee.org/rf-over-fiber)
 * [2025-12-29, 03:25:35](https://news.ycombinator.com/item?id=46417162) - [Demystifying DVDs](https://hiddenpalace.org/News/One_Bad_Ass_Hedgehog_-_Shadow_the_Hedgehog#Demystifying_DVDs)
