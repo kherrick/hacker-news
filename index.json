@@ -231,6 +231,26 @@
   ],
   [
     [
+      "2026-01-02, 12:29:23",
+      "https://news.ycombinator.com/item?id=46464120"
+    ],
+    [
+      "Assorted less(1) tips",
+      "https://blog.thechases.com/posts/assorted-less-tips/"
+    ]
+  ],
+  [
+    [
+      "2026-01-02, 10:10:46",
+      "https://news.ycombinator.com/item?id=46463315"
+    ],
+    [
+      "HPV vaccination reduces oncogenic HPV16/18 prevalence from 16% to <1% in Denmark",
+      "https://www.eurosurveillance.org/content/10.2807/1560-7917.ES.2025.30.27.2400820"
+    ]
+  ],
+  [
+    [
       "2025-12-31, 13:00:42",
       "https://news.ycombinator.com/item?id=46443730"
     ],
@@ -271,32 +291,12 @@
   ],
   [
     [
-      "2025-12-27, 19:17:25",
-      "https://news.ycombinator.com/item?id=46404321"
-    ],
-    [
-      "What you need to know before touching a video file",
-      "https://gist.github.com/arch1t3cht/b5b9552633567fa7658deee5aec60453/"
-    ]
-  ],
-  [
-    [
       "2025-12-27, 16:49:39",
       "https://news.ycombinator.com/item?id=46403062"
     ],
     [
       "Of Boot Vectors and Double Glitches: Bypassing RP2350's Secure Boot",
       "https://streaming.media.ccc.de/39c3/relive/2149"
-    ]
-  ],
-  [
-    [
-      "2025-12-26, 12:22:12",
-      "https://news.ycombinator.com/item?id=46391390"
-    ],
-    [
-      "Rope science, part 11 – practical syntax highlighting (2017)",
-      "https://xi-editor.io/docs/rope_science_11.html"
     ]
   ]
 ]
