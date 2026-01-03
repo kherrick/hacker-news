@@ -23,13 +23,13 @@
 * [2026-01-02, 16:00:42](https://news.ycombinator.com/item?id=46466074) - [Ask HN: Who is hiring? (January 2026)](https://news.ycombinator.com/item?id=46466074)
 * [2026-01-02, 16:00:42](https://news.ycombinator.com/item?id=46466073) - [Ask HN: Who wants to be hired? (January 2026)](https://news.ycombinator.com/item?id=46466073)
 * [2026-01-02, 14:55:09](https://news.ycombinator.com/item?id=46465327) - [IPv6 just turned 30 and still hasn't taken over the world](https://www.theregister.com/2025/12/31/ipv6_at_30/)
+* [2025-12-31, 13:00:42](https://news.ycombinator.com/item?id=46443730) - [A Beginner's Two-Component Crystal-Style Wi-Fi Detector](https://siliconjunction.wordpress.com/2025/12/12/a-beginners-two-component-crystal-style-wi-fi-detector/)
 * [2025-12-31, 07:44:25](https://news.ycombinator.com/item?id=46442229) - [The Cost of a Closure in C: The Rest](https://thephd.dev/the-cost-of-a-closure-in-c-c2y-followup)
 * [2025-12-28, 21:56:27](https://news.ycombinator.com/item?id=46414908) - [Chain Flinger](https://nealstephenson.substack.com/p/kdk-kinetik-der-kontinua-part-1-introduction)
-* [2025-12-28, 08:39:57](https://news.ycombinator.com/item?id=46409473) - [The PGP Problem (2019)](https://www.latacora.com/blog/2019/07/16/the-pgp-problem/#the-answers)
 * [2025-12-28, 06:39:57](https://news.ycombinator.com/item?id=46408974) - [Uxn32: Uxn Emulator for Windows and Wine](https://github.com/randrew/uxn32)
 * [2025-12-27, 19:17:25](https://news.ycombinator.com/item?id=46404321) - [What you need to know before touching a video file](https://gist.github.com/arch1t3cht/b5b9552633567fa7658deee5aec60453/)
 * [2025-12-27, 16:49:39](https://news.ycombinator.com/item?id=46403062) - [Of Boot Vectors and Double Glitches: Bypassing RP2350's Secure Boot](https://streaming.media.ccc.de/39c3/relive/2149)
-* [2025-12-26, 07:39:03](https://news.ycombinator.com/item?id=46390073) - [Blob Opera, Community Edition](https://opera.addy.ie)
+* [2025-12-26, 12:22:12](https://news.ycombinator.com/item?id=46391390) - [Rope science, part 11 – practical syntax highlighting (2017)](https://xi-editor.io/docs/rope_science_11.html)
 
 ## [Archives](archives/index.md)
 
