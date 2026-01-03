@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-01-02](index.md)
 
+* [2026-01-02, 23:52:13](https://news.ycombinator.com/item?id=46470992) - [The most friendless place on Earth](https://www.economist.com/christmas-specials/2025/12/18/the-most-friendless-place-on-earth)
+* [2026-01-02, 23:01:10](https://news.ycombinator.com/item?id=46470571) - [NY Fed cash transfers to banks increase dramatically in Q4 2025](https://www.dcreport.org/2025/12/29/ny-fed-unlimited-cash-infusions-bank-crisis/)
 * [2026-01-02, 22:35:05](https://news.ycombinator.com/item?id=46470317) - [Grok Sexual Images Draw Rebuke, France Flags Content as Illegal](https://finance.yahoo.com/news/grok-sexual-images-draw-rebuke-180354505.html)
 * [2026-01-02, 21:48:59](https://news.ycombinator.com/item?id=46469811) - [Tesla sales fell by 9 percent in 2025, its second yearly decline](https://arstechnica.com/cars/2026/01/tesla-sales-fell-by-9-percent-in-2025-its-second-yearly-decline/)
 * [2026-01-02, 21:45:40](https://news.ycombinator.com/item?id=46469780) - [I wrote the manual Karpathy said was missing for agentic AI](https://github.com/nicolasahar/morphic-programming)

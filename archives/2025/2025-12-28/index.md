@@ -62,6 +62,7 @@
 * [2025-12-28, 10:12:08](https://news.ycombinator.com/item?id=46409969) - [Last Year on My Mac: Look Back in Disbelief](https://eclecticlight.co/2025/12/28/last-year-on-my-mac-look-back-in-disbelief/)
 * [2025-12-28, 10:04:42](https://news.ycombinator.com/item?id=46409928) - [Hungry Fat Cells Could Someday Starve Cancer to Death](https://www.ucsf.edu/news/2025/01/429411/how-hungry-fat-cells-could-someday-starve-cancer-death)
 * [2025-12-28, 09:50:02](https://news.ycombinator.com/item?id=46409830) - [Build Software. Build Users](https://dima.day/blog/build-software-build-users/)
+* [2025-12-28, 08:39:57](https://news.ycombinator.com/item?id=46409473) - [The PGP Problem (2019)](https://www.latacora.com/blog/2019/07/16/the-pgp-problem/#the-answers)
 * [2025-12-28, 08:21:41](https://news.ycombinator.com/item?id=46409400) - [List, inspect and explore OCI container images, their layers and contents](https://github.com/bschaatsbergen/lix)
 * [2025-12-28, 08:16:49](https://news.ycombinator.com/item?id=46409379) - [Observed Agent Sandbox Bypasses](https://voratiq.com/blog/yolo-in-the-sandbox/)
 * [2025-12-28, 08:15:35](https://news.ycombinator.com/item?id=46409375) - [Ask HN: By what percentage has AI changed your output as a software engineer?](https://news.ycombinator.com/item?id=46409375)
