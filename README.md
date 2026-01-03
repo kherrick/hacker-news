@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-01-03, 04:01:03](https://news.ycombinator.com/item?id=46472667) - [IQuest-Coder: A new open-source code model beats Claude Sonnet 4.5 and GPT 5.1 [pdf]](https://github.com/IQuestLab/IQuest-Coder-V1/blob/main/papers/IQuest_Coder_Technical_Report.pdf)
 * [2026-01-03, 02:38:06](https://news.ycombinator.com/item?id=46472230) - [Adventure 751 (1980)](https://bluerenga.blog/2026/01/01/adventure-751-1980/)
 * [2026-01-03, 01:29:09](https://news.ycombinator.com/item?id=46471784) - [Einstein Probe detects an X-ray flare from nearby star](https://phys.org/news/2025-12-einstein-probe-ray-flare-nearby.html)
 * [2026-01-03, 01:18:07](https://news.ycombinator.com/item?id=46471712) - [A Basic Just-In-Time Compiler (2015)](https://nullprogram.com/blog/2015/03/19/)
@@ -26,7 +27,6 @@
 * [2025-12-31, 07:44:25](https://news.ycombinator.com/item?id=46442229) - [The Cost of a Closure in C: The Rest](https://thephd.dev/the-cost-of-a-closure-in-c-c2y-followup)
 * [2025-12-28, 21:56:27](https://news.ycombinator.com/item?id=46414908) - [Chain Flinger](https://nealstephenson.substack.com/p/kdk-kinetik-der-kontinua-part-1-introduction)
 * [2025-12-28, 08:39:57](https://news.ycombinator.com/item?id=46409473) - [The PGP Problem (2019)](https://www.latacora.com/blog/2019/07/16/the-pgp-problem/#the-answers)
-* [2025-12-28, 06:39:57](https://news.ycombinator.com/item?id=46408974) - [Uxn32: Uxn Emulator for Windows and Wine](https://github.com/randrew/uxn32)
 * [2025-12-27, 19:17:25](https://news.ycombinator.com/item?id=46404321) - [What you need to know before touching a video file](https://gist.github.com/arch1t3cht/b5b9552633567fa7658deee5aec60453/)
 * [2025-12-27, 16:49:39](https://news.ycombinator.com/item?id=46403062) - [Of Boot Vectors and Double Glitches: Bypassing RP2350's Secure Boot](https://streaming.media.ccc.de/39c3/relive/2149)
 * [2025-12-26, 07:39:03](https://news.ycombinator.com/item?id=46390073) - [Blob Opera, Community Edition](https://opera.addy.ie)
