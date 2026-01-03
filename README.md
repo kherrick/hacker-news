@@ -26,9 +26,9 @@
 * [2025-12-31, 13:00:42](https://news.ycombinator.com/item?id=46443730) - [A Beginner's Two-Component Crystal-Style Wi-Fi Detector](https://siliconjunction.wordpress.com/2025/12/12/a-beginners-two-component-crystal-style-wi-fi-detector/)
 * [2025-12-31, 09:16:58](https://news.ycombinator.com/item?id=46442624) - [Cadova: Swift DSL for parametric 3D modeling](https://github.com/tomasf/Cadova)
 * [2025-12-31, 08:04:30](https://news.ycombinator.com/item?id=46442293) - [UK company sends factory with 1,000C furnace into space](https://www.bbc.co.uk/news/articles/c62vx0pgyrgo)
+* [2025-12-31, 05:54:06](https://news.ycombinator.com/item?id=46441781) - [Sirius DB](https://www.sirius-db.com/)
 * [2025-12-29, 04:35:32](https://news.ycombinator.com/item?id=46417500) - [How Smell Guides Our Inner World](https://www.quantamagazine.org/how-smell-guides-our-inner-world-20250703/)
 * [2025-12-28, 17:41:26](https://news.ycombinator.com/item?id=46412809) - [World's largest functioning musical instrument: Wanamaker Organ in Philadelphia](https://en.wikipedia.org/wiki/Wanamaker_Organ)
-* [2025-12-27, 17:59:03](https://news.ycombinator.com/item?id=46403704) - [Hacking VBA to support native scripting runtime with no COM dependencies](https://github.com/ECP-Solutions/ASF)
 * [2025-12-27, 16:49:39](https://news.ycombinator.com/item?id=46403062) - [Of Boot Vectors and Double Glitches: Bypassing RP2350's Secure Boot](https://streaming.media.ccc.de/39c3/relive/2149)
 
 ## [Archives](archives/index.md)
