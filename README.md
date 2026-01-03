@@ -28,7 +28,7 @@
 * [2025-12-28, 08:39:57](https://news.ycombinator.com/item?id=46409473) - [The PGP Problem (2019)](https://www.latacora.com/blog/2019/07/16/the-pgp-problem/#the-answers)
 * [2025-12-28, 06:39:57](https://news.ycombinator.com/item?id=46408974) - [Uxn32: Uxn Emulator for Windows and Wine](https://github.com/randrew/uxn32)
 * [2025-12-27, 19:17:25](https://news.ycombinator.com/item?id=46404321) - [What you need to know before touching a video file](https://gist.github.com/arch1t3cht/b5b9552633567fa7658deee5aec60453/)
-* [2025-12-26, 12:22:12](https://news.ycombinator.com/item?id=46391390) - [Rope science, part 11 – practical syntax highlighting (2017)](https://xi-editor.io/docs/rope_science_11.html)
+* [2025-12-27, 16:49:39](https://news.ycombinator.com/item?id=46403062) - [Of Boot Vectors and Double Glitches: Bypassing RP2350's Secure Boot](https://streaming.media.ccc.de/39c3/relive/2149)
 * [2025-12-26, 07:39:03](https://news.ycombinator.com/item?id=46390073) - [Blob Opera, Community Edition](https://opera.addy.ie)
 
 ## [Archives](archives/index.md)
