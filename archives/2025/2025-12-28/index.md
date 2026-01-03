@@ -20,6 +20,7 @@
 * [2025-12-28, 21:45:44](https://news.ycombinator.com/item?id=46414837) - [Why I Disappeared – My week with minimal internet in a remote island chain](https://www.kenklippenstein.com/p/why-i-disappeared)
 * [2025-12-28, 21:41:42](https://news.ycombinator.com/item?id=46414819) - [Unity's Mono problem: Why your C# code runs slower than it should](https://marekfiser.com/blog/mono-vs-dot-net-in-unity/)
 * [2025-12-28, 21:29:32](https://news.ycombinator.com/item?id=46414723) - [Software engineers should be a little bit cynical](https://www.seangoedecke.com/a-little-bit-cynical/)
+* [2025-12-28, 21:22:13](https://news.ycombinator.com/item?id=46414653) - [Why 451 Is Good for You – Greylisting Perspectives from the Early Noughties](https://bsdly.blogspot.com/2025/12/why-451-is-good-for-you-greylisting.html)
 * [2025-12-28, 21:17:12](https://news.ycombinator.com/item?id=46414611) - [The Prison of Financial Mediocrity](https://twitter.com/systematicls/status/2004900241745883205)
 * [2025-12-28, 21:03:03](https://news.ycombinator.com/item?id=46414475) - [MongoBleed Explained Simply](https://bigdata.2minutestreaming.com/p/mongobleed-explained-simply)
 * [2025-12-28, 20:59:21](https://news.ycombinator.com/item?id=46414443) - [Loss of moist broadleaf forest in Africa has turned a carbon sink into source](https://www.nature.com/articles/s41598-025-27462-3)
