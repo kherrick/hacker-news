@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-01-03](index.md)
 
+* [2026-01-03, 18:56:36](https://news.ycombinator.com/item?id=46480194) - [Reddit Has Become the Internet's Strip Mall](https://pontozero.info/static/reddit-strip-mall/)
 * [2026-01-03, 18:53:10](https://news.ycombinator.com/item?id=46480156) - [Microsoft kills official way to activate Windows 11/10 without internet](https://www.neowin.net/news/report-microsoft-quietly-kills-official-way-to-activate-windows-1110-without-internet/#google_vignette)
 * [2026-01-03, 18:27:29](https://news.ycombinator.com/item?id=46479869) - [Bluesky is not the good place](https://www.ms.now/opinion/bluesky-elon-musk-twitter-replacement)
 * [2026-01-03, 16:47:38](https://news.ycombinator.com/item?id=46478740) - [Show HN: Underpriced AI – Snap a photo, get instant resale value with AI](https://underpricedai.com)
