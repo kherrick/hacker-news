@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-01-03](index.md)
 
+* [2026-01-03, 13:53:34](https://news.ycombinator.com/item?id=46476636) - [ParadeDB (YC S23) Is Hiring Database Engineers](https://paradedb.notion.site/?p=172ea4ce9deb80898ef5d5097bd65544&pm=s)
+* [2026-01-03, 11:37:07](https://news.ycombinator.com/item?id=46475437) - [X-Clacks-Overhead](https://hleb.dev/post/x-clacks-overhead/)
 * [2026-01-03, 11:26:59](https://news.ycombinator.com/item?id=46475376) - [Not for Human Consumption](https://vectorculture.substack.com/p/not-for-human-consumption)
+* [2026-01-03, 11:13:48](https://news.ycombinator.com/item?id=46475296) - [Profiling with Ctrl-C](https://yosefk.com/blog/profiling-with-ctrl-c.html)
 * [2026-01-03, 11:02:33](https://news.ycombinator.com/item?id=46475218) - [Tally – A tool to help agents classify your bank transactions](https://tallyai.money/)
 * [2026-01-03, 10:09:48](https://news.ycombinator.com/item?id=46474859) - [Late night pizzeria nearby The Pentagon has suddenly surged in traffic](https://twitter.com/PenPizzaReport/status/2007347706017251535)
 * [2026-01-03, 10:05:56](https://news.ycombinator.com/item?id=46474833) - [How to Win Friends and Influence People: Unrevised Version](https://socialskillswisdom.com/)
