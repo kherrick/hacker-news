@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-01-04](index.md)
 
+* [2026-01-04, 15:13:18](https://news.ycombinator.com/item?id=46488711) - [Anti-Aging Injection Regrows Knee Cartilage and Prevents Arthritis](https://scitechdaily.com/anti-aging-injection-regrows-knee-cartilage-and-prevents-arthritis/)
 * [2026-01-04, 15:11:19](https://news.ycombinator.com/item?id=46488696) - [How I archived 10 years of memories using Spotify](https://notes.xdavidhu.me/notes/how-i-archived-10-years-of-memories-using-spotify)
 * [2026-01-04, 15:08:02](https://news.ycombinator.com/item?id=46488654) - [Show HN: An interactive guide to how browsers work](https://howbrowserswork.com/)
 * [2026-01-04, 15:07:58](https://news.ycombinator.com/item?id=46488652) - [Democracy Will Not Survive the Age of Consumption](https://kasurian.com/p/democracy-will-not-survive-consumption)
