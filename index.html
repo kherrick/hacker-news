@@ -129,6 +129,47 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
+        <section id="46485130">
+          <h3>
+            <a
+              class="item"
+              href="https://joe-antognini.github.io/ml/jax-tic-tac-toe"
+              >Learning to Play Tic-Tac-Toe with Jax</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-01-04 @ 05:09:47</span
+              ><span class="points-container"
+                >Points: <span class="points">7</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=46485130"
+                  >Comments</a
+                ><span class="descendants">: 0</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="46485101">
+          <h3>
+            <a class="item" href="https://github.com/corundum/corundum"
+              >Corundum – open-source FPGA-based NIC and platform for in-network
+              compute</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-01-04 @ 05:04:29</span
+              ><span class="points-container"
+                >Points: <span class="points">8</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=46485101"
+                  >Comments</a
+                ><span class="descendants">: 0</span></span
+              >
+            </h4>
+          </section>
+        </section>
         <section id="46485090">
           <h3>
             <a class="item" href="https://karpathy.ai/zero-to-hero.html"
@@ -139,13 +180,123 @@
             <h4>
               <span>2026-01-04 @ 05:02:16</span
               ><span class="points-container"
-                >Points: <span class="points">41</span></span
+                >Points: <span class="points">77</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46485090"
                   >Comments</a
-                ><span class="descendants">: 2</span></span
+                ><span class="descendants">: 4</span></span
               >
             </h4>
+          </section>
+        </section>
+        <section id="46484882">
+          <h3>
+            <a class="item" href="https://github.com/daftpixie/krowdovi"
+              >Show HN: Krowdovi – Video-based indoor navigation on a DePIN
+              creator economy</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-01-04 @ 04:23:13</span
+              ><span class="points-container"
+                >Points: <span class="points">4</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=46484882"
+                  >Comments</a
+                ><span class="descendants">: 3</span></span
+              >
+            </h4>
+            <div class="text">
+              <p>
+                Krowdovi is an open-source platform that lets anyone with a
+                smartphone record first-person navigation videos of indoor
+                spaces - hospitals, airports, malls, universities - and earn
+                tokens for helping others find their way around. It's built on
+                Solana using a burn-and-mint DePIN model.The project addresses
+                two problems:
+              </p>
+              <p>
+                Indoor navigation is still broken. 30% of first-time hospital
+                visitors get lost or arrive late to appointments, costing large
+                hospitals $200K-$500K annually in staff time. Existing solutions
+                like Google Live View require pre-captured Street View data
+                (which barely exists indoors), and enterprise tools charge
+                $10K-$50K/year per venue.
+              </p>
+              <p>
+                Videographers are losing work to generative AI. Tools like Sora
+                can generate synthetic video, but they can't walk through your
+                hospital's actual layout or film your venue's real routes.
+                There's an economic opportunity for creators to own
+                location-based visual content that AI can't replicate.
+              </p>
+              <p>How it works</p>
+              <p>
+                For users: Scan a QR code at a venue entrance, watch a
+                first-person video showing the route from where you are to your
+                destination, with overlay graphics and multi-language support.
+              </p>
+              <p>
+                For creators: Record navigation videos on your phone, upload to
+                the platform, earn reputation tiers (Bronze → Diamond) based on
+                quality and views, get paid when users burn $FIND tokens to
+                unlock your routes.
+              </p>
+              <p>
+                Token mechanics: Users burn $FIND tokens to mint "credits" that
+                unlock videos. 75% of burned tokens are permanently removed from
+                circulation, 25% goes to a remint pool that rewards creators.
+                The smart contract on Solana handles burn-and-mint logic,
+                reputation tracking, and distribution.
+              </p>
+              <p>Everything is MIT licensed - fork it, the code is yours.</p>
+              <p>Why I built this</p>
+              <p>
+                I care deeply about making the world accessible for all. If this
+                gets forked someone executes fantastically to make the world a
+                more accessible place for people who have visual or mobility
+                impairments - sweet!
+              </p>
+              <p>Technical stack</p>
+              <p>
+                Smart Contracts: Rust/Anchor on Solana (burn-and-mint engine,
+                reputation tiers, treasury management) Backend: Node.js/Express
+                + Prisma/PostgreSQL (venue metadata, video uploads, JWT auth)
+              </p>
+              <p>
+                Frontend: Next.js 14 (Creator Studio, overlay tooling, wallet
+                integration via @solana/wallet-adapter-react)
+              </p>
+              <p>
+                Designed to be hostable on Railway/Vercel with minimal devops.
+                The smart contract is on devnet - needs a security audit before
+                mainnet, but you can test token burns/mints now.
+              </p>
+              <p>Current limitations</p>
+              <p>
+                What works: Smart contract deployed on devnet, full-stack app
+                ready to deploy, video upload workflow, wallet authentication.
+              </p>
+              <p>
+                What doesn't: No real content yet (I need to film 10-20 venues),
+                no mainnet token launch (waiting on security audit + demand
+                validation), quality verification is manual, no mobile app
+                (web-only).
+              </p>
+              <p>
+                Next steps: Deep soulful reflection on anti-gaming, moderation,
+                ZK proofs
+              </p>
+              <p>Try it yourself!</p>
+              <p>
+                GitHub repo has setup instructions. You'll need Solana CLI,
+                Node.js + pnpm, and a Solana wallet for devnet
+                testing.Interested in forking for a different vertical,
+                contributing code, testing by filming routes, or discussing
+                token economics? I'm around to discuss in the comments.
+              </p>
+            </div>
           </section>
         </section>
         <section id="46484104">
@@ -160,7 +311,7 @@
             <h4>
               <span>2026-01-04 @ 02:13:23</span
               ><span class="points-container"
-                >Points: <span class="points">33</span></span
+                >Points: <span class="points">37</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46484104"
                   >Comments</a
@@ -181,11 +332,11 @@
             <h4>
               <span>2026-01-04 @ 01:26:39</span
               ><span class="points-container"
-                >Points: <span class="points">27</span></span
+                >Points: <span class="points">30</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46483811"
                   >Comments</a
-                ><span class="descendants">: 7</span></span
+                ><span class="descendants">: 8</span></span
               >
             </h4>
           </section>
@@ -200,31 +351,32 @@
             <h4>
               <span>2026-01-04 @ 01:21:56</span
               ><span class="points-container"
-                >Points: <span class="points">56</span></span
+                >Points: <span class="points">58</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46483776"
                   >Comments</a
-                ><span class="descendants">: 7</span></span
+                ><span class="descendants">: 9</span></span
               >
             </h4>
           </section>
         </section>
-        <section id="46483657">
+        <section id="46483729">
           <h3>
-            <a class="item" href="https://sqlnet.cc"
-              >SQLNet A social network that looks like Twitter but you write SQL
-              to do anything</a
+            <a
+              class="item"
+              href="https://www.bbc.com/culture/article/20210209-the-worlds-most-misunderstood-novel"
+              >The Great Gatsby is the most misunderstood novel (2021)</a
             >
           </h3>
           <section>
             <h4>
-              <span>2026-01-04 @ 01:02:46</span
+              <span>2026-01-04 @ 01:15:15</span
               ><span class="points-container"
-                >Points: <span class="points">39</span></span
+                >Points: <span class="points">44</span></span
               ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=46483657"
+                ><a href="https://news.ycombinator.com/item?id=46483729"
                   >Comments</a
-                ><span class="descendants">: 7</span></span
+                ><span class="descendants">: 55</span></span
               >
             </h4>
           </section>
@@ -239,11 +391,11 @@
             <h4>
               <span>2026-01-04 @ 00:45:54</span
               ><span class="points-container"
-                >Points: <span class="points">53</span></span
+                >Points: <span class="points">60</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46483531"
                   >Comments</a
-                ><span class="descendants">: 11</span></span
+                ><span class="descendants">: 13</span></span
               >
             </h4>
           </section>
@@ -260,11 +412,11 @@
             <h4>
               <span>2026-01-04 @ 00:31:42</span
               ><span class="points-container"
-                >Points: <span class="points">66</span></span
+                >Points: <span class="points">69</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46483432"
                   >Comments</a
-                ><span class="descendants">: 25</span></span
+                ><span class="descendants">: 32</span></span
               >
             </h4>
           </section>
@@ -281,7 +433,7 @@
             <h4>
               <span>2026-01-04 @ 00:15:01</span
               ><span class="points-container"
-                >Points: <span class="points">16</span></span
+                >Points: <span class="points">17</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46483299"
                   >Comments</a
@@ -300,11 +452,11 @@
             <h4>
               <span>2026-01-03 @ 23:39:12</span
               ><span class="points-container"
-                >Points: <span class="points">158</span></span
+                >Points: <span class="points">170</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46483023"
                   >Comments</a
-                ><span class="descendants">: 92</span></span
+                ><span class="descendants">: 94</span></span
               >
             </h4>
           </section>
@@ -319,11 +471,11 @@
             <h4>
               <span>2026-01-03 @ 23:24:41</span
               ><span class="points-container"
-                >Points: <span class="points">201</span></span
+                >Points: <span class="points">212</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46482877"
                   >Comments</a
-                ><span class="descendants">: 92</span></span
+                ><span class="descendants">: 101</span></span
               >
             </h4>
           </section>
@@ -341,11 +493,11 @@
             <h4>
               <span>2026-01-03 @ 23:14:29</span
               ><span class="points-container"
-                >Points: <span class="points">149</span></span
+                >Points: <span class="points">151</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46482777"
                   >Comments</a
-                ><span class="descendants">: 57</span></span
+                ><span class="descendants">: 61</span></span
               >
             </h4>
           </section>
@@ -360,7 +512,7 @@
             <h4>
               <span>2026-01-03 @ 23:01:57</span
               ><span class="points-container"
-                >Points: <span class="points">61</span></span
+                >Points: <span class="points">63</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46482642"
                   >Comments</a
@@ -379,11 +531,11 @@
             <h4>
               <span>2026-01-03 @ 22:35:11</span
               ><span class="points-container"
-                >Points: <span class="points">27</span></span
+                >Points: <span class="points">30</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46482437"
                   >Comments</a
-                ><span class="descendants">: 10</span></span
+                ><span class="descendants">: 14</span></span
               >
             </h4>
           </section>
@@ -400,11 +552,11 @@
             <h4>
               <span>2026-01-03 @ 22:23:34</span
               ><span class="points-container"
-                >Points: <span class="points">891</span></span
+                >Points: <span class="points">908</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46482345"
                   >Comments</a
-                ><span class="descendants">: 467</span></span
+                ><span class="descendants">: 477</span></span
               >
             </h4>
           </section>
@@ -419,11 +571,11 @@
             <h4>
               <span>2026-01-03 @ 21:58:30</span
               ><span class="points-container"
-                >Points: <span class="points">69</span></span
+                >Points: <span class="points">73</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46482107"
                   >Comments</a
-                ><span class="descendants">: 16</span></span
+                ><span class="descendants">: 17</span></span
               >
             </h4>
           </section>
@@ -438,7 +590,7 @@
             <h4>
               <span>2026-01-03 @ 21:34:33</span
               ><span class="points-container"
-                >Points: <span class="points">57</span></span
+                >Points: <span class="points">58</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46481849"
                   >Comments</a
@@ -458,7 +610,7 @@
             <h4>
               <span>2026-01-03 @ 18:10:21</span
               ><span class="points-container"
-                >Points: <span class="points">76</span></span
+                >Points: <span class="points">77</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46479673"
                   >Comments</a
@@ -477,11 +629,11 @@
             <h4>
               <span>2026-01-03 @ 16:41:06</span
               ><span class="points-container"
-                >Points: <span class="points">319</span></span
+                >Points: <span class="points">320</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46478647"
                   >Comments</a
-                ><span class="descendants">: 197</span></span
+                ><span class="descendants">: 200</span></span
               >
             </h4>
           </section>
@@ -498,113 +650,11 @@
             <h4>
               <span>2026-01-03 @ 16:20:10</span
               ><span class="points-container"
-                >Points: <span class="points">507</span></span
+                >Points: <span class="points">516</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46478377"
                   >Comments</a
-                ><span class="descendants">: 100</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="46478061">
-          <h3>
-            <a class="item" href="https://www.corviont.com/"
-              >Show HN: Offline tiles and routing and geocoding in one Docker
-              Compose stack</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-01-03 @ 15:55:16</span
-              ><span class="points-container"
-                >Points: <span class="points">82</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=46478061"
-                  >Comments</a
-                ><span class="descendants">: 24</span></span
-              >
-            </h4>
-            <div class="text">
-              <p>
-                I’m building Corviont, a self-hosted offline maps appliance
-                (tiles + routing + search) for edge/on-prem devices.
-              </p>
-              <p>
-                Hosted demo (no install):
-                <a href="https://demo.corviont.com/"
-                  >https://demo.corviont.com/</a
-                >
-              </p>
-              <p>
-                Self-host (Docker Compose repo):
-                <a href="https://github.com/corviont/monaco-demo"
-                  >https://github.com/corviont/monaco-demo</a
-                >
-              </p>
-              <p>
-                Docs:
-                <a href="https://www.corviont.com/docs"
-                  >https://www.corviont.com/docs</a
-                >
-              </p>
-              <p>What’s inside:</p>
-              <p></p>
-              <pre><code>  - Vector tiles served locally (PMTiles)
-  - Routing served locally (Valhalla)
-  - Offline geocoding/search + reverse (SQLite Nominatim-based index)
-  - MapLibre UI wired to the local endpoints
-</code></pre>
-              After the initial image + data pulls, it runs fully offline (no
-              external map/routing/geocoding API calls).
-              <p>
-                Next (if people need it): a signed on-device updater for
-                regional datasets (verify → atomic swap → reload).
-              </p>
-              <p>
-                I’d love feedback: where offline maps/routing/search matters for
-                you, and what constraints bite (hardware, fleet size, update
-                windows, regions, deployment style).
-              </p>
-            </div>
-          </section>
-        </section>
-        <section id="46475395">
-          <h3>
-            <a class="item" href="https://arxiv.org/abs/2512.24601"
-              >Recursive Language Models</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-01-03 @ 11:29:33</span
-              ><span class="points-container"
-                >Points: <span class="points">137</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=46475395"
-                  >Comments</a
-                ><span class="descendants">: 23</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="46473348">
-          <h3>
-            <a
-              class="item"
-              href="https://www.reuters.com/world/americas/loud-noises-heard-venezuela-capital-southern-area-without-electricity-2026-01-03/"
-              >Trump says Venezuela’s Maduro captured after strikes</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-01-03 @ 06:35:21</span
-              ><span class="points-container"
-                >Points: <span class="points">1649</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=46473348"
-                  >Comments</a
-                ><span class="descendants">: 3964</span></span
+                ><span class="descendants">: 101</span></span
               >
             </h4>
           </section>
@@ -620,7 +670,7 @@
             <h4>
               <span>2025-12-31 @ 08:49:29</span
               ><span class="points-container"
-                >Points: <span class="points">35</span></span
+                >Points: <span class="points">36</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46442502"
                   >Comments</a
@@ -637,7 +687,7 @@
             <h4>
               <span>2025-12-31 @ 05:54:06</span
               ><span class="points-container"
-                >Points: <span class="points">128</span></span
+                >Points: <span class="points">130</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46441781"
                   >Comments</a
@@ -658,7 +708,7 @@
             <h4>
               <span>2025-12-31 @ 00:43:30</span
               ><span class="points-container"
-                >Points: <span class="points">89</span></span
+                >Points: <span class="points">91</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46440037"
                   >Comments</a
@@ -677,32 +727,31 @@
             <h4>
               <span>2025-12-31 @ 00:35:29</span
               ><span class="points-container"
-                >Points: <span class="points">20</span></span
+                >Points: <span class="points">24</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46439993"
                   >Comments</a
-                ><span class="descendants">: 6</span></span
+                ><span class="descendants">: 11</span></span
               >
             </h4>
           </section>
         </section>
-        <section id="46428922">
+        <section id="46426931">
           <h3>
-            <a
-              class="item"
-              href="https://jhurliman.org/post/804323197731373056/experiments-with-ableton-mcp-dec-2025"
-              >Experiments with Ableton-MCP</a
+            <a class="item" href="https://github.com/A1CST/GENREG_ALPHA_MNIST"
+              >Evolution: Training neural networks with genetic selection
+              achieves 81% on MNIST</a
             >
           </h3>
           <section>
             <h4>
-              <span>2025-12-30 @ 02:43:50</span
+              <span>2025-12-29 @ 22:51:28</span
               ><span class="points-container"
-                >Points: <span class="points">86</span></span
+                >Points: <span class="points">10</span></span
               ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=46428922"
+                ><a href="https://news.ycombinator.com/item?id=46426931"
                   >Comments</a
-                ><span class="descendants">: 15</span></span
+                ><span class="descendants">: 4</span></span
               >
             </h4>
           </section>
@@ -740,11 +789,11 @@
             <h4>
               <span>2025-12-29 @ 19:59:44</span
               ><span class="points-container"
-                >Points: <span class="points">22</span></span
+                >Points: <span class="points">26</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46424807"
                   >Comments</a
-                ><span class="descendants">: 8</span></span
+                ><span class="descendants">: 10</span></span
               >
             </h4>
           </section>
@@ -760,11 +809,11 @@
             <h4>
               <span>2025-12-28 @ 16:12:11</span
               ><span class="points-container"
-                >Points: <span class="points">76</span></span
+                >Points: <span class="points">77</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46412070"
                   >Comments</a
-                ><span class="descendants">: 29</span></span
+                ><span class="descendants">: 31</span></span
               >
             </h4>
           </section>
