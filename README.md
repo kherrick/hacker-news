@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-01-04, 08:35:42](https://news.ycombinator.com/item?id=46486135) - [The Gentle Seduction](http://www.skyhunter.com/marcs/GentleSeduction.html)
 * [2026-01-04, 06:54:50](https://news.ycombinator.com/item?id=46485629) - [Pixoo Sign Client for Ruby](https://github.com/tenderlove/pixoo-rb)
 * [2026-01-04, 05:09:47](https://news.ycombinator.com/item?id=46485130) - [Learning to Play Tic-Tac-Toe with Jax](https://joe-antognini.github.io/ml/jax-tic-tac-toe)
 * [2026-01-04, 05:04:29](https://news.ycombinator.com/item?id=46485101) - [Corundum – open-source FPGA-based NIC and platform for in-network compute](https://github.com/corundum/corundum)
@@ -24,7 +25,6 @@
 * [2026-01-03, 16:41:06](https://news.ycombinator.com/item?id=46478647) - [The C3 Programming Language](https://c3-lang.org)
 * [2026-01-03, 16:20:10](https://news.ycombinator.com/item?id=46478377) - [The Most Popular Blogs of Hacker News in 2025](https://refactoringenglish.com/blog/2025-hn-top-5/)
 * [2025-12-31, 00:43:30](https://news.ycombinator.com/item?id=46440037) - [Exploring Dithering on Spectra 6-color E-Ink Displays](https://myembeddedstuff.com/e-ink-spectra-6-color)
-* [2025-12-31, 00:35:29](https://news.ycombinator.com/item?id=46439993) - [Odoo: Open-Source ERP](https://github.com/odoo/odoo)
 * [2025-12-30, 21:31:31](https://news.ycombinator.com/item?id=46438258) - [From silicon to Darude – Sandstorm: breaking famous synthesizer DSPs [video]](https://media.ccc.de/v/39c3-from-silicon-to-darude-sand-storm-breaking-famous-synthesizer-dsps)
 * [2025-12-29, 22:30:04](https://news.ycombinator.com/item?id=46426614) - [The Late Arrival of 16-Bit CP/M – By Nemanja Trifunovic](https://nemanjatrifunovic.substack.com/p/the-late-arrival-of-16-bit-cpm)
 * [2025-12-29, 19:59:44](https://news.ycombinator.com/item?id=46424807) - [Finger-Nose Stylus for Touch Screens (2011)](https://variationsonnormal.com/2011/04/28/finger-nose-stylus-for-touchscreens/)
