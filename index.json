@@ -1,6 +1,36 @@
 [
   [
     [
+      "2026-01-04, 11:55:34",
+      "https://news.ycombinator.com/item?id=46487120"
+    ],
+    [
+      "FreeBSD Home NAS, part 3: WireGuard VPN, routing, and Linux peers",
+      "https://rtfm.co.ua/en/freebsd-home-nas-part-3-wireguard-vpn-linux-peer-and-routing/"
+    ]
+  ],
+  [
+    [
+      "2026-01-04, 11:28:16",
+      "https://news.ycombinator.com/item?id=46487006"
+    ],
+    [
+      "The Venezuelan Oil Narative Is Pure Theatre",
+      "https://renegaderesources.pro/p/the-venezuelan-oil-narative-is-pure"
+    ]
+  ],
+  [
+    [
+      "2026-01-04, 11:23:23",
+      "https://news.ycombinator.com/item?id=46486978"
+    ],
+    [
+      "JavaScript engines zoo – Compare every JavaScript engine",
+      "https://zoo.js.org/"
+    ]
+  ],
+  [
+    [
       "2026-01-04, 10:43:38",
       "https://news.ycombinator.com/item?id=46486780"
     ],
@@ -121,16 +151,6 @@
   ],
   [
     [
-      "2026-01-04, 01:15:15",
-      "https://news.ycombinator.com/item?id=46483729"
-    ],
-    [
-      "The Great Gatsby is the most misunderstood novel (2021)",
-      "https://www.bbc.com/culture/article/20210209-the-worlds-most-misunderstood-novel"
-    ]
-  ],
-  [
-    [
       "2026-01-04, 00:45:54",
       "https://news.ycombinator.com/item?id=46483531"
     ],
@@ -191,32 +211,22 @@
   ],
   [
     [
-      "2026-01-03, 21:34:33",
-      "https://news.ycombinator.com/item?id=46481849"
-    ],
-    [
-      "Scaling Latent Reasoning via Looped Language Models",
-      "https://arxiv.org/abs/2510.25741"
-    ]
-  ],
-  [
-    [
-      "2026-01-03, 16:41:06",
-      "https://news.ycombinator.com/item?id=46478647"
-    ],
-    [
-      "The C3 Programming Language",
-      "https://c3-lang.org"
-    ]
-  ],
-  [
-    [
       "2026-01-03, 16:20:10",
       "https://news.ycombinator.com/item?id=46478377"
     ],
     [
       "The Most Popular Blogs of Hacker News in 2025",
       "https://refactoringenglish.com/blog/2025-hn-top-5/"
+    ]
+  ],
+  [
+    [
+      "2025-12-31, 02:23:30",
+      "https://news.ycombinator.com/item?id=46440637"
+    ],
+    [
+      "Using AI generated images to get refunds",
+      "https://www.wired.com/story/scammers-in-china-are-using-ai-generated-images-to-get-refunds/"
     ]
   ],
   [
@@ -281,21 +291,11 @@
   ],
   [
     [
-      "2025-12-29, 16:47:17",
-      "https://news.ycombinator.com/item?id=46422461"
-    ],
-    [
-      "Third Parties and Single Points of Failure",
-      "https://calendar.perfplanet.com/2025/third-parties-and-single-points-of-failure/"
-    ]
-  ],
-  [
-    [
       "2025-12-28, 16:12:11",
       "https://news.ycombinator.com/item?id=46412070"
     ],
     [
-      "Ed25519-CLI – command-line interface for the Ed25519 signature system",
+      "Ed25519-CLI – command-line interface for the Ed25519 signature system (2024)",
       "https://lib25519.cr.yp.to/ed25519-cli.html"
     ]
   ]
