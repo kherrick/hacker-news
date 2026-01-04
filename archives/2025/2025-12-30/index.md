@@ -29,6 +29,7 @@
 * [2025-12-30, 19:00:23](https://news.ycombinator.com/item?id=46436687) - [Now That He Has No Power, Mitt Romney Says \"Tax the Rich\"](https://jacobin.com/2025/12/romney-tax-rich-op-ed-nyt/)
 * [2025-12-30, 18:36:37](https://news.ycombinator.com/item?id=46436409) - [A faster heart for F-Droid. Our new server is here](https://f-droid.org/2025/12/30/a-faster-heart-for-f-droid.html)
 * [2025-12-30, 18:28:00](https://news.ycombinator.com/item?id=46436319) - [Funes.world](https://funes.world)
+* [2025-12-30, 18:22:56](https://news.ycombinator.com/item?id=46436279) - [Bison return to Illinois' Kane County after 200 years](https://phys.org/news/2025-12-bison-illinois-kane-county-years.html)
 * [2025-12-30, 18:20:31](https://news.ycombinator.com/item?id=46436260) - [Lottocracy: Democracy Without Elections](https://www.lottocracy.org)
 * [2025-12-30, 18:08:37](https://news.ycombinator.com/item?id=46436128) - [Show HN: I remade my website in the Sith Lord Theme and I hope it's fun](https://cookie.engineer/index.html)
 * [2025-12-30, 18:08:32](https://news.ycombinator.com/item?id=46436127) - [Electrolysis can solve one of our biggest contamination problems](https://ethz.ch/en/news-and-events/eth-news/news/2025/11/electrolysis-can-solve-one-of-our-biggest-contamination-problems.html)
