@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-01-04](index.md)
 
+* [2026-01-04, 21:01:35](https://news.ycombinator.com/item?id=46492161) - [North Dakota law lists fake critical minerals based on coal lawyers' names](https://bismarcktribune.com/news/local/government-politics/article_515812a0-d29a-4161-91f1-3e53003e2911.html)
+* [2026-01-04, 20:52:52](https://news.ycombinator.com/item?id=46492063) - [Eurostar AI vulnerability: when a chatbot goes off the rails](https://www.pentestpartners.com/security-blog/eurostar-ai-vulnerability-when-a-chatbot-goes-off-the-rails/)
 * [2026-01-04, 20:28:02](https://news.ycombinator.com/item?id=46491846) - [Seed of Life](https://seed-of-life-eight.vercel.app/)
 * [2026-01-04, 20:25:30](https://news.ycombinator.com/item?id=46491821) - [Why does a least squares fit appear to have a bias when applied to simple data?](https://stats.stackexchange.com/questions/674129/why-does-a-linear-least-squares-fit-appear-to-have-a-bias-when-applied-to-simple)
 * [2026-01-04, 20:18:51](https://news.ycombinator.com/item?id=46491765) - [OpenGitOps](https://opengitops.dev/)
@@ -16,6 +18,7 @@
 * [2026-01-04, 18:49:28](https://news.ycombinator.com/item?id=46490937) - [NSFW Acronyms for Programmers (Free eBook)](https://github.com/fristovic/naughty-words-every-programmer-should-know)
 * [2026-01-04, 18:43:45](https://news.ycombinator.com/item?id=46490895) - [Show HN: Hover – IDE style hover documentation on any webpage](https://github.com/Sampsoon/hover)
 * [2026-01-04, 18:27:28](https://news.ycombinator.com/item?id=46490716) - [Venezuela's interim government says it is united behind Maduro](https://www.reuters.com/world/us/venezuelas-maduro-custody-trump-says-us-will-run-country-2026-01-04/)
+* [2026-01-04, 17:50:04](https://news.ycombinator.com/item?id=46490323) - [Ripple, a puzzle game about 2nd and 3rd order effects](https://ripplegame.app/)
 * [2026-01-04, 17:01:43](https://news.ycombinator.com/item?id=46489830) - [Trellis AI (YC W24) is hiring engineers to build AI agents for healthcare access](https://www.ycombinator.com/companies/trellis-ai/jobs/ngvfeaq-member-of-technical-staff-full-time)
 * [2026-01-04, 15:23:54](https://news.ycombinator.com/item?id=46488819) - [Lessons from 14 Years at Google](https://addyosmani.com/blog/21-lessons/)
 * [2026-01-04, 15:13:18](https://news.ycombinator.com/item?id=46488711) - [Anti-Aging Injection Regrows Knee Cartilage and Prevents Arthritis](https://scitechdaily.com/anti-aging-injection-regrows-knee-cartilage-and-prevents-arthritis/)
