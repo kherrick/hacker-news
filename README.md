@@ -7,7 +7,6 @@
 * [2026-01-04, 20:25:30](https://news.ycombinator.com/item?id=46491821) - [Why does a least squares fit appear to have a bias when applied to simple data?](https://stats.stackexchange.com/questions/674129/why-does-a-linear-least-squares-fit-appear-to-have-a-bias-when-applied-to-simple)
 * [2026-01-04, 20:18:51](https://news.ycombinator.com/item?id=46491765) - [OpenGitOps](https://opengitops.dev/)
 * [2026-01-04, 20:17:22](https://news.ycombinator.com/item?id=46491749) - [Show HN: Terminal UI for AWS](https://github.com/huseyinbabal/taws)
-* [2026-01-04, 20:02:28](https://news.ycombinator.com/item?id=46491623) - [I changed my personality in six weeks](https://www.bbc.com/future/article/20260102-how-i-changed-my-personality-in-six-weeks)
 * [2026-01-04, 19:54:52](https://news.ycombinator.com/item?id=46491560) - [Server-rendered multiplayer games with Lua (no client code)](https://cleoselene.com/)
 * [2026-01-04, 19:48:20](https://news.ycombinator.com/item?id=46491486) - [Claude Code On-the-Go](https://granda.org/en/2026/01/02/claude-code-on-the-go/)
 * [2026-01-04, 19:24:47](https://news.ycombinator.com/item?id=46491244) - [Agentic Patterns](https://github.com/nibzard/awesome-agentic-patterns)
@@ -24,12 +23,13 @@
 * [2026-01-04, 14:08:08](https://news.ycombinator.com/item?id=46488101) - [Using Hinge as a Command and Control Server](https://mattwie.se/hinge-command-control-c2)
 * [2026-01-04, 12:54:20](https://news.ycombinator.com/item?id=46487472) - [Moiré Explorer](https://play.ertdfgcvb.xyz/#/src/demos/moire_explorer)
 * [2026-01-04, 11:55:34](https://news.ycombinator.com/item?id=46487120) - [FreeBSD Home NAS, part 3: WireGuard VPN, routing, and Linux peers](https://rtfm.co.ua/en/freebsd-home-nas-part-3-wireguard-vpn-linux-peer-and-routing/)
+* [2026-01-04, 11:23:23](https://news.ycombinator.com/item?id=46486978) - [JavaScript engines zoo – Compare every JavaScript engine](https://zoo.js.org/)
 * [2026-01-04, 10:43:38](https://news.ycombinator.com/item?id=46486780) - [Maybe comments should explain 'what' (2017)](https://www.hillelwayne.com/post/what-comments/)
+* [2026-01-01, 20:02:09](https://news.ycombinator.com/item?id=46457488) - [Six Harmless Bugs Lead to Remote Code Execution](https://mehmetince.net/the-story-of-a-perfect-exploit-chain-six-bugs-that-looked-harmless-until-they-became-pre-auth-rce-in-a-security-appliance/)
 * [2026-01-01, 02:19:14](https://news.ycombinator.com/item?id=46450625) - [The great shift of English prose](https://www.worksinprogress.news/p/english-prose-has-become-much-easier)
 * [2025-12-31, 07:57:53](https://news.ycombinator.com/item?id=46442282) - [Linear Address Spaces: Unsafe at any speed](https://queue.acm.org/detail.cfm?id=3534854)
 * [2025-12-30, 18:22:56](https://news.ycombinator.com/item?id=46436279) - [Bison return to Illinois' Kane County after 200 years](https://phys.org/news/2025-12-bison-illinois-kane-county-years.html)
 * [2025-12-29, 16:57:11](https://news.ycombinator.com/item?id=46422574) - [The Year of the 3D Printed Miniature (and Other Lies We Tell Ourselves)](https://matduggan.com/the-year-of-the-3d-printed-miniature-and-other-lies-we-tell-ourselves/)
-* [2025-12-29, 05:29:22](https://news.ycombinator.com/item?id=46417768) - [Copybara – tool for transforming and moving code between repositories](https://github.com/google/copybara)
 
 ## [Archives](archives/index.md)
 
