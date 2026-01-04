@@ -10,6 +10,7 @@
 * [2026-01-03, 23:14:29](https://news.ycombinator.com/item?id=46482777) - [China DRAM Maker CXMT Targets $4.2B IPO as It Takes on Samsung, SK Hynix, Micron](https://www.ic-pcb.com/chinas-leading-dram-maker-cxmt-targets-42-billion-ipo-as-it-takes-on-samsung-sk-hynix-and-micron.html)
 * [2026-01-03, 23:10:30](https://news.ycombinator.com/item?id=46482731) - [A comparison of benefits from every-third-day vs. daily low-dose aspirin therapy](https://pubmed.ncbi.nlm.nih.gov/11190906/)
 * [2026-01-03, 23:01:57](https://news.ycombinator.com/item?id=46482642) - [The Riven (1997) Diffs](https://glthr.com/the-riven-diffs-1)
+* [2026-01-03, 22:35:11](https://news.ycombinator.com/item?id=46482437) - [Advanced Rail Energy Storage of North America](https://aresnorthamerica.com/)
 * [2026-01-03, 22:23:34](https://news.ycombinator.com/item?id=46482345) - [Total monthly number of StackOverflow questions over time](https://data.stackexchange.com/stackoverflow/query/1926661#graph)
 * [2026-01-03, 22:14:57](https://news.ycombinator.com/item?id=46482268) - [Ask HN: What are you working on? (Jan 2026)](https://news.ycombinator.com/item?id=46482268)
 * [2026-01-03, 22:11:13](https://news.ycombinator.com/item?id=46482234) - [The Return of the American Protectorate](https://www.karlsnotes.com/running-venezuela-the-return-of-the-american-protectorate/)
