@@ -1,12 +1,42 @@
 [
   [
     [
+      "2026-01-04, 00:31:15",
+      "https://news.ycombinator.com/item?id=46483429"
+    ],
+    [
+      "Pickle 1 AR Glasses (YC W25) May Be Fraudulent",
+      "https://twitter.com/thedowd/status/2007337800430198913"
+    ]
+  ],
+  [
+    [
+      "2026-01-03, 23:50:24",
+      "https://news.ycombinator.com/item?id=46483116"
+    ],
+    [
+      "Finance Industry Eyes Investment Opportunities in Venezuela",
+      "https://www.wsj.com/livecoverage/venezuela-strikes/card/finance-industry-eyes-investment-opportunities-in-venezuela-CmtLevzMTXEvRLkADjbG"
+    ]
+  ],
+  [
+    [
       "2026-01-03, 23:39:12",
       "https://news.ycombinator.com/item?id=46483023"
     ],
     [
       "Swift on Android: Full Native App Development Now Possible",
       "https://docs.swifdroid.com/app/"
+    ]
+  ],
+  [
+    [
+      "2026-01-03, 23:24:41",
+      "https://news.ycombinator.com/item?id=46482877"
+    ],
+    [
+      "The suck is why we're here",
+      "https://nik.art/the-suck-is-why-were-here/"
     ]
   ],
   [
@@ -25,7 +55,7 @@
       "https://news.ycombinator.com/item?id=46482731"
     ],
     [
-      "A comparison of benefits from every-third-day vs. daily low-dose aspirin therapy",
+      "Comparing benefits of every-third-day vs. daily low-dose aspirin therapy (2001)",
       "https://pubmed.ncbi.nlm.nih.gov/11190906/"
     ]
   ],
@@ -35,7 +65,7 @@
       "https://news.ycombinator.com/item?id=46482642"
     ],
     [
-      "The Riven (1997) Diffs",
+      "The Riven Diffs – Seeing Riven (1997) Differently",
       "https://glthr.com/the-riven-diffs-1"
     ]
   ],
@@ -71,42 +101,12 @@
   ],
   [
     [
-      "2026-01-03, 21:06:33",
-      "https://news.ycombinator.com/item?id=46481544"
-    ],
-    [
-      "Show HN: I built an international calling platform for the past 6 months",
-      "https://voklit.com"
-    ]
-  ],
-  [
-    [
-      "2026-01-03, 19:25:36",
-      "https://news.ycombinator.com/item?id=46480491"
-    ],
-    [
-      "Doesnt: An Esoteric Programming Language",
-      "https://lists.sr.ht/~rabbits/horadric/%3C5d708fd1-1c01-4fb6-a8e5-61213a1e88f8@sheeeeeeeep.art%3E"
-    ]
-  ],
-  [
-    [
       "2026-01-03, 19:14:39",
       "https://news.ycombinator.com/item?id=46480373"
     ],
     [
       "As deep-sea mining race ramps up, mission will assess whether ecosystems recover",
       "https://www.science.org/content/article/deep-sea-mining-race-ramps-mission-will-assess-whether-ecosystems-recover-afterward"
-    ]
-  ],
-  [
-    [
-      "2026-01-03, 18:53:10",
-      "https://news.ycombinator.com/item?id=46480156"
-    ],
-    [
-      "Report: Microsoft kills official way to activate Windows 11/10 without internet",
-      "https://www.neowin.net/news/report-microsoft-quietly-kills-official-way-to-activate-windows-1110-without-internet/#google_vignette"
     ]
   ],
   [
@@ -141,6 +141,16 @@
   ],
   [
     [
+      "2026-01-03, 15:55:16",
+      "https://news.ycombinator.com/item?id=46478061"
+    ],
+    [
+      "Show HN: Offline tiles and routing and geocoding in one Docker Compose stack",
+      "https://www.corviont.com/"
+    ]
+  ],
+  [
+    [
       "2026-01-03, 13:53:34",
       "https://news.ycombinator.com/item?id=46476636"
     ],
@@ -151,32 +161,12 @@
   ],
   [
     [
-      "2026-01-03, 11:37:07",
-      "https://news.ycombinator.com/item?id=46475437"
-    ],
-    [
-      "X-Clacks-Overhead",
-      "https://hleb.dev/post/x-clacks-overhead/"
-    ]
-  ],
-  [
-    [
       "2026-01-03, 11:29:33",
       "https://news.ycombinator.com/item?id=46475395"
     ],
     [
       "Recursive Language Models",
       "https://arxiv.org/abs/2512.24601"
-    ]
-  ],
-  [
-    [
-      "2026-01-03, 11:13:48",
-      "https://news.ycombinator.com/item?id=46475296"
-    ],
-    [
-      "Profiling with Ctrl-C (2024)",
-      "https://yosefk.com/blog/profiling-with-ctrl-c.html"
     ]
   ],
   [
@@ -221,12 +211,12 @@
   ],
   [
     [
-      "2025-12-31, 13:00:42",
-      "https://news.ycombinator.com/item?id=46443730"
+      "2025-12-31, 08:49:29",
+      "https://news.ycombinator.com/item?id=46442502"
     ],
     [
-      "A Beginner's Two-Component Crystal-Style Wi-Fi Detector",
-      "https://siliconjunction.wordpress.com/2025/12/12/a-beginners-two-component-crystal-style-wi-fi-detector/"
+      "Torch.ts – building PyTorch in TypeScript from scratch to learn",
+      "https://github.com/13point5/torch.ts"
     ]
   ],
   [
@@ -267,6 +257,16 @@
     [
       "Experiments with Ableton-MCP",
       "https://jhurliman.org/post/804323197731373056/experiments-with-ableton-mcp-dec-2025"
+    ]
+  ],
+  [
+    [
+      "2025-12-30, 01:50:57",
+      "https://news.ycombinator.com/item?id=46428574"
+    ],
+    [
+      "Slop Is Slop",
+      "https://daringfireball.net/2025/12/slop_is_slop"
     ]
   ],
   [
