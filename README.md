@@ -12,7 +12,6 @@
 * [2026-01-04, 19:48:20](https://news.ycombinator.com/item?id=46491486) - [Claude Code On-the-Go](https://granda.org/en/2026/01/02/claude-code-on-the-go/)
 * [2026-01-04, 19:24:47](https://news.ycombinator.com/item?id=46491244) - [Agentic Patterns](https://github.com/nibzard/awesome-agentic-patterns)
 * [2026-01-04, 19:02:25](https://news.ycombinator.com/item?id=46491051) - [Stop Forwarding Errors, Start Designing Them](https://fast.github.io/blog/stop-forwarding-errors-start-designing-them/)
-* [2026-01-04, 18:49:28](https://news.ycombinator.com/item?id=46490937) - [NSFW Acronyms for Programmers (Free eBook)](https://github.com/fristovic/naughty-words-every-programmer-should-know)
 * [2026-01-04, 18:43:45](https://news.ycombinator.com/item?id=46490895) - [Show HN: Hover – IDE style hover documentation on any webpage](https://github.com/Sampsoon/hover)
 * [2026-01-04, 17:50:04](https://news.ycombinator.com/item?id=46490323) - [Ripple, a puzzle game about 2nd and 3rd order effects](https://ripplegame.app/)
 * [2026-01-04, 17:01:43](https://news.ycombinator.com/item?id=46489830) - [Trellis AI (YC W24) is hiring engineers to build AI agents for healthcare access](https://www.ycombinator.com/companies/trellis-ai/jobs/ngvfeaq-member-of-technical-staff-full-time)
@@ -26,10 +25,11 @@
 * [2026-01-04, 12:54:20](https://news.ycombinator.com/item?id=46487472) - [Moiré Explorer](https://play.ertdfgcvb.xyz/#/src/demos/moire_explorer)
 * [2026-01-04, 11:55:34](https://news.ycombinator.com/item?id=46487120) - [FreeBSD Home NAS, part 3: WireGuard VPN, routing, and Linux peers](https://rtfm.co.ua/en/freebsd-home-nas-part-3-wireguard-vpn-linux-peer-and-routing/)
 * [2026-01-04, 10:43:38](https://news.ycombinator.com/item?id=46486780) - [Maybe comments should explain 'what' (2017)](https://www.hillelwayne.com/post/what-comments/)
-* [2026-01-04, 05:02:16](https://news.ycombinator.com/item?id=46485090) - [Neural Networks: Zero to Hero](https://karpathy.ai/zero-to-hero.html)
 * [2026-01-01, 02:19:14](https://news.ycombinator.com/item?id=46450625) - [The great shift of English prose](https://www.worksinprogress.news/p/english-prose-has-become-much-easier)
 * [2025-12-31, 07:57:53](https://news.ycombinator.com/item?id=46442282) - [Linear Address Spaces: Unsafe at any speed](https://queue.acm.org/detail.cfm?id=3534854)
+* [2025-12-30, 18:22:56](https://news.ycombinator.com/item?id=46436279) - [Bison return to Illinois' Kane County after 200 years](https://phys.org/news/2025-12-bison-illinois-kane-county-years.html)
 * [2025-12-29, 16:57:11](https://news.ycombinator.com/item?id=46422574) - [The Year of the 3D Printed Miniature (and Other Lies We Tell Ourselves)](https://matduggan.com/the-year-of-the-3d-printed-miniature-and-other-lies-we-tell-ourselves/)
+* [2025-12-29, 05:29:22](https://news.ycombinator.com/item?id=46417768) - [Copybara – tool for transforming and moving code between repositories](https://github.com/google/copybara)
 
 ## [Archives](archives/index.md)
 
