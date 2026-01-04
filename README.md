@@ -20,7 +20,6 @@
 * [2026-01-03, 22:23:34](https://news.ycombinator.com/item?id=46482345) - [Total monthly number of StackOverflow questions over time](https://data.stackexchange.com/stackoverflow/query/1926661#graph)
 * [2026-01-03, 21:58:30](https://news.ycombinator.com/item?id=46482107) - [Take One Small Step](https://thinkhuman.com/take-one-small-step/)
 * [2026-01-03, 21:34:33](https://news.ycombinator.com/item?id=46481849) - [Scaling Latent Reasoning via Looped Language Models](https://arxiv.org/abs/2510.25741)
-* [2026-01-03, 18:10:21](https://news.ycombinator.com/item?id=46479673) - [Xr0 verifier, guarantee the safety of C programs at compile time](https://xr0.dev)
 * [2026-01-03, 16:41:06](https://news.ycombinator.com/item?id=46478647) - [The C3 Programming Language](https://c3-lang.org)
 * [2026-01-03, 16:20:10](https://news.ycombinator.com/item?id=46478377) - [The Most Popular Blogs of Hacker News in 2025](https://refactoringenglish.com/blog/2025-hn-top-5/)
 * [2025-12-31, 00:10:19](https://news.ycombinator.com/item?id=46439816) - [The First Video Game Came Long Before Pong](https://www.iflscience.com/the-first-video-game-came-long-before-pong-and-was-invented-by-a-manhattan-project-physicist-81262)
@@ -29,6 +28,7 @@
 * [2025-12-29, 22:30:04](https://news.ycombinator.com/item?id=46426614) - [The Late Arrival of 16-Bit CP/M](https://nemanjatrifunovic.substack.com/p/the-late-arrival-of-16-bit-cpm)
 * [2025-12-29, 19:59:44](https://news.ycombinator.com/item?id=46424807) - [Finger-Nose Stylus for Touch Screens (2011)](https://variationsonnormal.com/2011/04/28/finger-nose-stylus-for-touchscreens/)
 * [2025-12-29, 19:10:32](https://news.ycombinator.com/item?id=46424186) - [GDI Effects from the PC cracking scene](https://gdimayhem.temari.fr/index.php?p=all)
+* [2025-12-29, 16:47:17](https://news.ycombinator.com/item?id=46422461) - [Third Parties and Single Points of Failure](https://calendar.perfplanet.com/2025/third-parties-and-single-points-of-failure/)
 * [2025-12-28, 16:12:11](https://news.ycombinator.com/item?id=46412070) - [Ed25519-CLI – command-line interface for the Ed25519 signature system](https://lib25519.cr.yp.to/ed25519-cli.html)
 
 ## [Archives](archives/index.md)
