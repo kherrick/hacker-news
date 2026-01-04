@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2026-01-04, 19:02:25](https://news.ycombinator.com/item?id=46491051) - [Stop Forwarding Errors, Start Designing Them](https://fast.github.io/blog/stop-forwarding-errors-start-designing-them/)
-* [2026-01-04, 18:27:28](https://news.ycombinator.com/item?id=46490716) - [Venezuela's interim government says it is united behind Maduro](https://www.reuters.com/world/us/venezuelas-maduro-custody-trump-says-us-will-run-country-2026-01-04/)
+* [2026-01-04, 18:43:45](https://news.ycombinator.com/item?id=46490895) - [Show HN: Hover – IDE style hover documentation on any webpage](https://github.com/Sampsoon/hover)
 * [2026-01-04, 17:01:43](https://news.ycombinator.com/item?id=46489830) - [Trellis AI (YC W24) is hiring engineers to build AI agents for healthcare access](https://www.ycombinator.com/companies/trellis-ai/jobs/ngvfeaq-member-of-technical-staff-full-time)
 * [2026-01-04, 15:23:54](https://news.ycombinator.com/item?id=46488819) - [Lessons from 14 Years at Google](https://addyosmani.com/blog/21-lessons/)
 * [2026-01-04, 15:13:18](https://news.ycombinator.com/item?id=46488711) - [Anti-aging injection regrows knee cartilage and prevents arthritis](https://scitechdaily.com/anti-aging-injection-regrows-knee-cartilage-and-prevents-arthritis/)
@@ -14,7 +14,7 @@
 * [2026-01-04, 14:28:56](https://news.ycombinator.com/item?id=46488261) - [Cold-blooded software (2023)](https://dubroy.com/blog/cold-blooded-software/)
 * [2026-01-04, 14:08:08](https://news.ycombinator.com/item?id=46488101) - [Using Hinge as a Command and Control Server](https://mattwie.se/hinge-command-control-c2)
 * [2026-01-04, 13:49:04](https://news.ycombinator.com/item?id=46487921) - [Understanding the bin, sbin, usr/bin, usr/sbin split (2010)](https://lists.busybox.net/pipermail/busybox/2010-December/074114.html)
-* [2026-01-04, 12:57:40](https://news.ycombinator.com/item?id=46487498) - [Jeffgeerling.com has been Migrated to Hugo](https://www.jeffgeerling.com/blog/2026/migrated-to-hugo/)
+* [2026-01-04, 12:57:40](https://news.ycombinator.com/item?id=46487498) - [Jeffgeerling.com has been migrated to Hugo](https://www.jeffgeerling.com/blog/2026/migrated-to-hugo/)
 * [2026-01-04, 12:54:20](https://news.ycombinator.com/item?id=46487472) - [Moiré Explorer](https://play.ertdfgcvb.xyz/#/src/demos/moire_explorer)
 * [2026-01-04, 11:55:34](https://news.ycombinator.com/item?id=46487120) - [FreeBSD Home NAS, part 3: WireGuard VPN, routing, and Linux peers](https://rtfm.co.ua/en/freebsd-home-nas-part-3-wireguard-vpn-linux-peer-and-routing/)
 * [2026-01-04, 11:23:23](https://news.ycombinator.com/item?id=46486978) - [JavaScript engines zoo – Compare every JavaScript engine](https://zoo.js.org/)
