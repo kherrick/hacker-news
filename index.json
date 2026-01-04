@@ -121,16 +121,6 @@
   ],
   [
     [
-      "2026-01-04, 18:49:28",
-      "https://news.ycombinator.com/item?id=46490937"
-    ],
-    [
-      "NSFW Acronyms for Programmers (Free eBook)",
-      "https://github.com/fristovic/naughty-words-every-programmer-should-know"
-    ]
-  ],
-  [
-    [
       "2026-01-04, 18:43:45",
       "https://news.ycombinator.com/item?id=46490895"
     ],
@@ -261,16 +251,6 @@
   ],
   [
     [
-      "2026-01-04, 05:02:16",
-      "https://news.ycombinator.com/item?id=46485090"
-    ],
-    [
-      "Neural Networks: Zero to Hero",
-      "https://karpathy.ai/zero-to-hero.html"
-    ]
-  ],
-  [
-    [
       "2026-01-01, 02:19:14",
       "https://news.ycombinator.com/item?id=46450625"
     ],
@@ -291,12 +271,32 @@
   ],
   [
     [
+      "2025-12-30, 18:22:56",
+      "https://news.ycombinator.com/item?id=46436279"
+    ],
+    [
+      "Bison return to Illinois' Kane County after 200 years",
+      "https://phys.org/news/2025-12-bison-illinois-kane-county-years.html"
+    ]
+  ],
+  [
+    [
       "2025-12-29, 16:57:11",
       "https://news.ycombinator.com/item?id=46422574"
     ],
     [
       "The Year of the 3D Printed Miniature (and Other Lies We Tell Ourselves)",
       "https://matduggan.com/the-year-of-the-3d-printed-miniature-and-other-lies-we-tell-ourselves/"
+    ]
+  ],
+  [
+    [
+      "2025-12-29, 05:29:22",
+      "https://news.ycombinator.com/item?id=46417768"
+    ],
+    [
+      "Copybara – tool for transforming and moving code between repositories",
+      "https://github.com/google/copybara"
     ]
   ]
 ]
