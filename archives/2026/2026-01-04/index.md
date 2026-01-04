@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-01-04](index.md)
 
+* [2026-01-04, 21:46:34](https://news.ycombinator.com/item?id=46492617) - [C-Sentinel: System prober that captures \"system fingerprints\" for AI analysis](https://github.com/williamofai/c-sentinel)
 * [2026-01-04, 21:43:26](https://news.ycombinator.com/item?id=46492601) - [Show HN: An LLM-Powered PCB Schematic Checker (Major Update)](https://traceformer.io/)
 * [2026-01-04, 21:01:35](https://news.ycombinator.com/item?id=46492161) - [North Dakota law lists fake critical minerals based on coal lawyers' names](https://bismarcktribune.com/news/local/government-politics/article_515812a0-d29a-4161-91f1-3e53003e2911.html)
 * [2026-01-04, 20:52:52](https://news.ycombinator.com/item?id=46492063) - [Eurostar AI vulnerability: when a chatbot goes off the rails](https://www.pentestpartners.com/security-blog/eurostar-ai-vulnerability-when-a-chatbot-goes-off-the-rails/)

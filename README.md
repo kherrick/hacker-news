@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-01-04, 21:46:34](https://news.ycombinator.com/item?id=46492617) - [C-Sentinel: System prober that captures \"system fingerprints\" for AI analysis](https://github.com/williamofai/c-sentinel)
 * [2026-01-04, 21:43:26](https://news.ycombinator.com/item?id=46492601) - [Show HN: An LLM-Powered PCB Schematic Checker (Major Update)](https://traceformer.io/)
 * [2026-01-04, 21:01:35](https://news.ycombinator.com/item?id=46492161) - [North Dakota law lists fake critical minerals based on coal lawyers' names](https://bismarcktribune.com/news/local/government-politics/article_515812a0-d29a-4161-91f1-3e53003e2911.html)
 * [2026-01-04, 20:52:52](https://news.ycombinator.com/item?id=46492063) - [Eurostar AI vulnerability: when a chatbot goes off the rails](https://www.pentestpartners.com/security-blog/eurostar-ai-vulnerability-when-a-chatbot-goes-off-the-rails/)
@@ -16,7 +17,6 @@
 * [2026-01-04, 17:50:04](https://news.ycombinator.com/item?id=46490323) - [Ripple, a puzzle game about 2nd and 3rd order effects](https://ripplegame.app/)
 * [2026-01-04, 17:01:43](https://news.ycombinator.com/item?id=46489830) - [Trellis AI (YC W24) is hiring engineers to build AI agents for healthcare access](https://www.ycombinator.com/companies/trellis-ai/jobs/ngvfeaq-member-of-technical-staff-full-time)
 * [2026-01-04, 15:23:54](https://news.ycombinator.com/item?id=46488819) - [Lessons from 14 Years at Google](https://addyosmani.com/blog/21-lessons/)
-* [2026-01-04, 15:11:19](https://news.ycombinator.com/item?id=46488696) - [How I archived 10 years of memories using Spotify](https://notes.xdavidhu.me/notes/how-i-archived-10-years-of-memories-using-spotify)
 * [2026-01-04, 15:08:02](https://news.ycombinator.com/item?id=46488654) - [Show HN: An interactive guide to how browsers work](https://howbrowserswork.com/)
 * [2026-01-04, 15:00:18](https://news.ycombinator.com/item?id=46488576) - [Web development is fun again](https://ma.ttias.be/web-development-is-fun-again/)
 * [2026-01-04, 14:37:58](https://news.ycombinator.com/item?id=46488355) - [The Unbearable Joy of Sitting Alone in a Café](https://candost.blog/the-unbearable-joy-of-sitting-alone-in-a-cafe/)
@@ -26,7 +26,7 @@
 * [2026-01-04, 11:55:34](https://news.ycombinator.com/item?id=46487120) - [FreeBSD Home NAS, part 3: WireGuard VPN, routing, and Linux peers](https://rtfm.co.ua/en/freebsd-home-nas-part-3-wireguard-vpn-linux-peer-and-routing/)
 * [2026-01-04, 10:43:38](https://news.ycombinator.com/item?id=46486780) - [Maybe comments should explain 'what' (2017)](https://www.hillelwayne.com/post/what-comments/)
 * [2026-01-04, 05:02:16](https://news.ycombinator.com/item?id=46485090) - [Neural Networks: Zero to Hero](https://karpathy.ai/zero-to-hero.html)
-* [2026-01-02, 21:54:56](https://news.ycombinator.com/item?id=46469877) - [I charged $18k for a Static HTML Page (2019)](https://idiallo.com/blog/18000-dollars-static-web-page)
+* [2026-01-01, 02:19:14](https://news.ycombinator.com/item?id=46450625) - [The great shift of English prose](https://www.worksinprogress.news/p/english-prose-has-become-much-easier)
 * [2025-12-31, 07:57:53](https://news.ycombinator.com/item?id=46442282) - [Linear Address Spaces: Unsafe at any speed](https://queue.acm.org/detail.cfm?id=3534854)
 * [2025-12-30, 18:22:56](https://news.ycombinator.com/item?id=46436279) - [Bison return to Illinois' Kane County after 200 years](https://phys.org/news/2025-12-bison-illinois-kane-county-years.html)
 * [2025-12-29, 16:57:11](https://news.ycombinator.com/item?id=46422574) - [The Year of the 3D Printed Miniature (and Other Lies We Tell Ourselves)](https://matduggan.com/the-year-of-the-3d-printed-miniature-and-other-lies-we-tell-ourselves/)

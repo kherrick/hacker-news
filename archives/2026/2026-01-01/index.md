@@ -56,6 +56,7 @@
 * [2026-01-01, 03:47:20](https://news.ycombinator.com/item?id=46451124) - [Flow5 Released to Open Source](https://flow5.tech/docs/releasenotes.html)
 * [2026-01-01, 03:46:32](https://news.ycombinator.com/item?id=46451120) - [Judge to Texas: You Can't Age-Gate the Internet Without Evidence](https://www.techdirt.com/2025/12/31/judge-to-texas-you-cant-age-gate-the-entire-internet-without-evidence/)
 * [2026-01-01, 02:35:40](https://news.ycombinator.com/item?id=46450731) - [Pixar's True Story](https://computerhistory.org/blog/pixars-true-story/)
+* [2026-01-01, 02:19:14](https://news.ycombinator.com/item?id=46450625) - [The great shift of English prose](https://www.worksinprogress.news/p/english-prose-has-become-much-easier)
 * [2026-01-01, 01:14:33](https://news.ycombinator.com/item?id=46450217) - [Nerd: The First Programming Language Not Built for Humans](https://www.nerd-lang.org/about)
 * [2026-01-01, 01:01:22](https://news.ycombinator.com/item?id=46450122) - [GoGoGrandparent (YC S16) Is Hiring Tech Leads](https://www.ycombinator.com/companies/gogograndparent/jobs/w2jGKM7-gogograndparent-yc-s16-is-hiring-tech-leads)
 * [2026-01-01, 00:29:45](https://news.ycombinator.com/item?id=46449892) - [Show HN: Feature detection exploration in Lidar DEMs via differential decomp](https://github.com/bshepp/RESIDUALS)
