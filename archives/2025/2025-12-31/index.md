@@ -57,6 +57,7 @@
 * [2025-12-31, 03:49:58](https://news.ycombinator.com/item?id=46441068) - [Google Opal](https://opal.google/landing/)
 * [2025-12-31, 03:06:07](https://news.ycombinator.com/item?id=46440833) - [We don't need more contributors who aren't programmers to contribute code](https://discourse.llvm.org/t/rfc-llvm-ai-tool-policy-human-in-the-loop/89159)
 * [2025-12-31, 02:33:50](https://news.ycombinator.com/item?id=46440695) - [L1TF Reloaded](https://github.com/ThijsRay/l1tf_reloaded)
+* [2025-12-31, 02:23:30](https://news.ycombinator.com/item?id=46440637) - [Using AI generated images to get refunds](https://www.wired.com/story/scammers-in-china-are-using-ai-generated-images-to-get-refunds/)
 * [2025-12-31, 02:01:53](https://news.ycombinator.com/item?id=46440510) - [Readings in Database Systems (5th Edition)](http://www.redbook.io/)
 * [2025-12-31, 00:49:55](https://news.ycombinator.com/item?id=46440066) - [S&P500 Priced in Gold](https://pricedingold.com/sp-500/)
 * [2025-12-31, 00:43:30](https://news.ycombinator.com/item?id=46440037) - [Exploring Dithering on Spectra 6-color E-Ink Displays](https://myembeddedstuff.com/e-ink-spectra-6-color)
