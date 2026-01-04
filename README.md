@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2026-01-04, 14:30:29](https://news.ycombinator.com/item?id=46488278) - [Street Fighter II, the World Warrier (2021)](https://fabiensanglard.net/sf2_warrier/)
+* [2026-01-04, 14:28:56](https://news.ycombinator.com/item?id=46488261) - [Cold-Blooded Software (2023)](https://dubroy.com/blog/cold-blooded-software/)
+* [2026-01-04, 13:49:04](https://news.ycombinator.com/item?id=46487921) - [Understanding the bin, sbin, usr/bin, usr/sbin split (2010)](https://lists.busybox.net/pipermail/busybox/2010-December/074114.html)
 * [2026-01-04, 13:45:42](https://news.ycombinator.com/item?id=46487889) - [Nike's Crisis and the Economics of Brand Decay](https://philippdubach.com/posts/nikes-crisis-and-the-economics-of-brand-decay/)
 * [2026-01-04, 12:57:40](https://news.ycombinator.com/item?id=46487498) - [Jeffgeerling.com has been Migrated to Hugo](https://www.jeffgeerling.com/blog/2026/migrated-to-hugo/)
 * [2026-01-04, 12:54:20](https://news.ycombinator.com/item?id=46487472) - [Moiré Explorer](https://play.ertdfgcvb.xyz/#/src/demos/moire_explorer)
@@ -19,9 +21,7 @@
 * [2026-01-04, 05:02:16](https://news.ycombinator.com/item?id=46485090) - [Neural Networks: Zero to Hero](https://karpathy.ai/zero-to-hero.html)
 * [2026-01-04, 04:31:11](https://news.ycombinator.com/item?id=46484933) - [Show HN: Claude Reflect – Auto-turn Claude corrections into project config](https://github.com/BayramAnnakov/claude-reflect)
 * [2026-01-04, 03:44:23](https://news.ycombinator.com/item?id=46484662) - [Gershwin-desktop: OS X-like Desktop Environment based on GNUStep](https://github.com/gershwin-desktop/gershwin-desktop)
-* [2026-01-04, 02:13:23](https://news.ycombinator.com/item?id=46484104) - [How Thomas Mann Wrote the Magic Mountain](https://www.theguardian.com/books/2025/dec/31/the-master-of-contradictions-by-morten-hi-jensen-review-how-thomas-mann-wrote-the-magic-mountain)
 * [2026-01-04, 01:21:56](https://news.ycombinator.com/item?id=46483776) - [MyTorch – Minimalist autograd in 450 lines of Python](https://github.com/obround/mytorch)
-* [2026-01-04, 00:45:54](https://news.ycombinator.com/item?id=46483531) - [Corroded: Illegal Rust](https://github.com/buyukakyuz/corroded)
 * [2026-01-04, 00:31:42](https://news.ycombinator.com/item?id=46483432) - [KDE onboarding is good now](https://rabbitictranslator.com/kde-onboarding/)
 * [2026-01-03, 23:39:12](https://news.ycombinator.com/item?id=46483023) - [Swift on Android: Full Native App Development Now Possible](https://docs.swifdroid.com/app/)
 * [2026-01-03, 23:24:41](https://news.ycombinator.com/item?id=46482877) - [The suck is why we're here](https://nik.art/the-suck-is-why-were-here/)
