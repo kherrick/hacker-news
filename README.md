@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-01-04, 17:01:43](https://news.ycombinator.com/item?id=46489830) - [Trellis AI (YC W24) is hiring engineers to build AI agents for healthcare access](https://www.ycombinator.com/companies/trellis-ai/jobs/ngvfeaq-member-of-technical-staff-full-time)
 * [2026-01-04, 15:23:54](https://news.ycombinator.com/item?id=46488819) - [Lessons from 14 Years at Google](https://addyosmani.com/blog/21-lessons/)
 * [2026-01-04, 15:13:18](https://news.ycombinator.com/item?id=46488711) - [Anti-Aging Injection Regrows Knee Cartilage and Prevents Arthritis](https://scitechdaily.com/anti-aging-injection-regrows-knee-cartilage-and-prevents-arthritis/)
 * [2026-01-04, 15:11:19](https://news.ycombinator.com/item?id=46488696) - [How I archived 10 years of memories using Spotify](https://notes.xdavidhu.me/notes/how-i-archived-10-years-of-memories-using-spotify)
@@ -12,7 +13,6 @@
 * [2026-01-04, 13:49:04](https://news.ycombinator.com/item?id=46487921) - [Understanding the bin, sbin, usr/bin, usr/sbin split (2010)](https://lists.busybox.net/pipermail/busybox/2010-December/074114.html)
 * [2026-01-04, 12:57:40](https://news.ycombinator.com/item?id=46487498) - [Jeffgeerling.com has been Migrated to Hugo](https://www.jeffgeerling.com/blog/2026/migrated-to-hugo/)
 * [2026-01-04, 12:54:20](https://news.ycombinator.com/item?id=46487472) - [Moiré Explorer](https://play.ertdfgcvb.xyz/#/src/demos/moire_explorer)
-* [2026-01-04, 12:20:19](https://news.ycombinator.com/item?id=46487276) - [A New Year's letter to a young person](https://www.siliconcontinent.com/p/a-new-years-letter-to-a-young-person)
 * [2026-01-04, 11:55:34](https://news.ycombinator.com/item?id=46487120) - [FreeBSD Home NAS, part 3: WireGuard VPN, routing, and Linux peers](https://rtfm.co.ua/en/freebsd-home-nas-part-3-wireguard-vpn-linux-peer-and-routing/)
 * [2026-01-04, 11:23:23](https://news.ycombinator.com/item?id=46486978) - [JavaScript engines zoo – Compare every JavaScript engine](https://zoo.js.org/)
 * [2026-01-04, 10:43:38](https://news.ycombinator.com/item?id=46486780) - [Maybe comments should explain 'what' (2017)](https://www.hillelwayne.com/post/what-comments/)
@@ -21,7 +21,7 @@
 * [2026-01-04, 08:35:42](https://news.ycombinator.com/item?id=46486135) - [The Gentle Seduction (1989)](http://www.skyhunter.com/marcs/GentleSeduction.html)
 * [2026-01-04, 08:11:22](https://news.ycombinator.com/item?id=46485989) - [Can I start using Wayland in 2026?](https://michael.stapelberg.ch/posts/2026-01-04-wayland-sway-in-2026/)
 * [2026-01-04, 05:02:16](https://news.ycombinator.com/item?id=46485090) - [Neural Networks: Zero to Hero](https://karpathy.ai/zero-to-hero.html)
-* [2026-01-04, 03:44:23](https://news.ycombinator.com/item?id=46484662) - [Gershwin-desktop: OS X-like Desktop Environment based on GNUStep](https://github.com/gershwin-desktop/gershwin-desktop)
+* [2026-01-04, 00:31:42](https://news.ycombinator.com/item?id=46483432) - [KDE onboarding is good now](https://rabbitictranslator.com/kde-onboarding/)
 * [2026-01-03, 23:39:12](https://news.ycombinator.com/item?id=46483023) - [Swift on Android: Full Native App Development Now Possible](https://docs.swifdroid.com/app/)
 * [2026-01-03, 23:24:41](https://news.ycombinator.com/item?id=46482877) - [The suck is why we're here](https://nik.art/the-suck-is-why-were-here/)
 * [2026-01-03, 22:23:34](https://news.ycombinator.com/item?id=46482345) - [Total monthly number of StackOverflow questions over time](https://data.stackexchange.com/stackoverflow/query/1926661#graph)
