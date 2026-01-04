@@ -11,6 +11,26 @@
   ],
   [
     [
+      "2026-01-04, 14:28:56",
+      "https://news.ycombinator.com/item?id=46488261"
+    ],
+    [
+      "Cold-Blooded Software (2023)",
+      "https://dubroy.com/blog/cold-blooded-software/"
+    ]
+  ],
+  [
+    [
+      "2026-01-04, 13:49:04",
+      "https://news.ycombinator.com/item?id=46487921"
+    ],
+    [
+      "Understanding the bin, sbin, usr/bin, usr/sbin split (2010)",
+      "https://lists.busybox.net/pipermail/busybox/2010-December/074114.html"
+    ]
+  ],
+  [
+    [
       "2026-01-04, 13:45:42",
       "https://news.ycombinator.com/item?id=46487889"
     ],
@@ -191,32 +211,12 @@
   ],
   [
     [
-      "2026-01-04, 02:13:23",
-      "https://news.ycombinator.com/item?id=46484104"
-    ],
-    [
-      "How Thomas Mann Wrote the Magic Mountain",
-      "https://www.theguardian.com/books/2025/dec/31/the-master-of-contradictions-by-morten-hi-jensen-review-how-thomas-mann-wrote-the-magic-mountain"
-    ]
-  ],
-  [
-    [
       "2026-01-04, 01:21:56",
       "https://news.ycombinator.com/item?id=46483776"
     ],
     [
       "MyTorch – Minimalist autograd in 450 lines of Python",
       "https://github.com/obround/mytorch"
-    ]
-  ],
-  [
-    [
-      "2026-01-04, 00:45:54",
-      "https://news.ycombinator.com/item?id=46483531"
-    ],
-    [
-      "Corroded: Illegal Rust",
-      "https://github.com/buyukakyuz/corroded"
     ]
   ],
   [
