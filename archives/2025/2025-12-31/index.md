@@ -61,4 +61,5 @@
 * [2025-12-31, 00:49:55](https://news.ycombinator.com/item?id=46440066) - [S&P500 Priced in Gold](https://pricedingold.com/sp-500/)
 * [2025-12-31, 00:43:30](https://news.ycombinator.com/item?id=46440037) - [Exploring Dithering on Spectra 6-color E-Ink Displays](https://myembeddedstuff.com/e-ink-spectra-6-color)
 * [2025-12-31, 00:35:29](https://news.ycombinator.com/item?id=46439993) - [Odoo: Open-Source ERP](https://github.com/odoo/odoo)
+* [2025-12-31, 00:10:19](https://news.ycombinator.com/item?id=46439816) - [The First Video Game Came Long Before Pong](https://www.iflscience.com/the-first-video-game-came-long-before-pong-and-was-invented-by-a-manhattan-project-physicist-81262)
 * [2025-12-31, 00:03:50](https://news.ycombinator.com/item?id=46439769) - [Quality of drinking water varies significantly by airline](https://foodmedcenter.org/2026-center-for-food-as-medicine-longevity-airline-water-study/)
