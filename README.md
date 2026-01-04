@@ -19,8 +19,8 @@
 * [2026-01-04, 10:28:49](https://news.ycombinator.com/item?id=46486681) - [Anatomy of BoltzGen](https://huggingface.co/spaces/ludocomito/anatomy-of-boltzgen)
 * [2026-01-04, 09:11:47](https://news.ycombinator.com/item?id=46486326) - [The PGP problem (2019)](https://www.latacora.com/blog/2019/07/16/the-pgp-problem/)
 * [2026-01-04, 08:35:42](https://news.ycombinator.com/item?id=46486135) - [The Gentle Seduction (1989)](http://www.skyhunter.com/marcs/GentleSeduction.html)
+* [2026-01-04, 08:11:22](https://news.ycombinator.com/item?id=46485989) - [Can I start using Wayland in 2026?](https://michael.stapelberg.ch/posts/2026-01-04-wayland-sway-in-2026/)
 * [2026-01-04, 05:02:16](https://news.ycombinator.com/item?id=46485090) - [Neural Networks: Zero to Hero](https://karpathy.ai/zero-to-hero.html)
-* [2026-01-04, 03:44:23](https://news.ycombinator.com/item?id=46484662) - [Gershwin-desktop: OS X-like Desktop Environment based on GNUStep](https://github.com/gershwin-desktop/gershwin-desktop)
 * [2026-01-03, 23:39:12](https://news.ycombinator.com/item?id=46483023) - [Swift on Android: Full Native App Development Now Possible](https://docs.swifdroid.com/app/)
 * [2026-01-03, 23:24:41](https://news.ycombinator.com/item?id=46482877) - [The suck is why we're here](https://nik.art/the-suck-is-why-were-here/)
 * [2026-01-03, 22:23:34](https://news.ycombinator.com/item?id=46482345) - [Total monthly number of StackOverflow questions over time](https://data.stackexchange.com/stackoverflow/query/1926661#graph)
@@ -29,7 +29,7 @@
 * [2025-12-30, 21:31:31](https://news.ycombinator.com/item?id=46438258) - [From silicon to Darude – Sandstorm: breaking famous synthesizer DSPs [video]](https://media.ccc.de/v/39c3-from-silicon-to-darude-sand-storm-breaking-famous-synthesizer-dsps)
 * [2025-12-30, 18:22:56](https://news.ycombinator.com/item?id=46436279) - [Bison return to Illinois' Kane County after 200 years](https://phys.org/news/2025-12-bison-illinois-kane-county-years.html)
 * [2025-12-29, 19:10:32](https://news.ycombinator.com/item?id=46424186) - [GDI Effects from the PC cracking scene](https://gdimayhem.temari.fr/index.php?p=all)
-* [2025-12-29, 15:36:17](https://news.ycombinator.com/item?id=46421709) - [Macromedia Flash, from an Animator's Standpoint](https://medium.com/@nehochupechatat/the-history-of-macromedia-flash-from-an-animators-standpoint-684dc60a011b)
+* [2025-12-29, 15:36:17](https://news.ycombinator.com/item?id=46421709) - [Macromedia Flash, from an Animator's Standpoint (2022)](https://medium.com/@nehochupechatat/the-history-of-macromedia-flash-from-an-animators-standpoint-684dc60a011b)
 
 ## [Archives](archives/index.md)
 
