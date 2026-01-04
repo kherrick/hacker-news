@@ -1,5 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-01-04, 20:28:02](https://news.ycombinator.com/item?id=46491846) - [Seed of Life](https://seed-of-life-eight.vercel.app/)
+* [2026-01-04, 20:25:30](https://news.ycombinator.com/item?id=46491821) - [Why does a least squares fit appear to have a bias when applied to simple data?](https://stats.stackexchange.com/questions/674129/why-does-a-linear-least-squares-fit-appear-to-have-a-bias-when-applied-to-simple)
+* [2026-01-04, 20:18:51](https://news.ycombinator.com/item?id=46491765) - [OpenGitOps](https://opengitops.dev/)
+* [2026-01-04, 20:17:22](https://news.ycombinator.com/item?id=46491749) - [Show HN: Terminal UI for AWS](https://github.com/huseyinbabal/taws)
 * [2026-01-04, 19:02:25](https://news.ycombinator.com/item?id=46491051) - [Stop Forwarding Errors, Start Designing Them](https://fast.github.io/blog/stop-forwarding-errors-start-designing-them/)
 * [2026-01-04, 18:49:28](https://news.ycombinator.com/item?id=46490937) - [NSFW Acronyms for Programmers (Free eBook)](https://github.com/fristovic/naughty-words-every-programmer-should-know)
 * [2026-01-04, 18:43:45](https://news.ycombinator.com/item?id=46490895) - [Show HN: Hover – IDE style hover documentation on any webpage](https://github.com/Sampsoon/hover)
@@ -13,7 +17,6 @@
 * [2026-01-04, 14:30:29](https://news.ycombinator.com/item?id=46488278) - [Street Fighter II, the World Warrier (2021)](https://fabiensanglard.net/sf2_warrier/)
 * [2026-01-04, 14:28:56](https://news.ycombinator.com/item?id=46488261) - [Cold-blooded software (2023)](https://dubroy.com/blog/cold-blooded-software/)
 * [2026-01-04, 14:08:08](https://news.ycombinator.com/item?id=46488101) - [Using Hinge as a Command and Control Server](https://mattwie.se/hinge-command-control-c2)
-* [2026-01-04, 13:49:04](https://news.ycombinator.com/item?id=46487921) - [Understanding the bin, sbin, usr/bin, usr/sbin split (2010)](https://lists.busybox.net/pipermail/busybox/2010-December/074114.html)
 * [2026-01-04, 12:57:40](https://news.ycombinator.com/item?id=46487498) - [Jeffgeerling.com has been migrated to Hugo](https://www.jeffgeerling.com/blog/2026/migrated-to-hugo/)
 * [2026-01-04, 12:54:20](https://news.ycombinator.com/item?id=46487472) - [Moiré Explorer](https://play.ertdfgcvb.xyz/#/src/demos/moire_explorer)
 * [2026-01-04, 11:55:34](https://news.ycombinator.com/item?id=46487120) - [FreeBSD Home NAS, part 3: WireGuard VPN, routing, and Linux peers](https://rtfm.co.ua/en/freebsd-home-nas-part-3-wireguard-vpn-linux-peer-and-routing/)
@@ -21,15 +24,12 @@
 * [2026-01-04, 10:43:38](https://news.ycombinator.com/item?id=46486780) - [Maybe comments should explain 'what' (2017)](https://www.hillelwayne.com/post/what-comments/)
 * [2026-01-04, 08:35:42](https://news.ycombinator.com/item?id=46486135) - [The Gentle Seduction (1989)](http://www.skyhunter.com/marcs/GentleSeduction.html)
 * [2026-01-04, 05:02:16](https://news.ycombinator.com/item?id=46485090) - [Neural Networks: Zero to Hero](https://karpathy.ai/zero-to-hero.html)
-* [2026-01-03, 23:24:41](https://news.ycombinator.com/item?id=46482877) - [The suck is why we're here](https://nik.art/the-suck-is-why-were-here/)
 * [2026-01-03, 01:08:35](https://news.ycombinator.com/item?id=46471648) - [Show HN: I used AI to recreate a $4000 piece of audio hardware as a plugin](https://news.ycombinator.com/item?id=46471648)
 * [2026-01-02, 21:54:56](https://news.ycombinator.com/item?id=46469877) - [I charged $18k for a Static HTML Page (2019)](https://idiallo.com/blog/18000-dollars-static-web-page)
-* [2026-01-01, 13:27:53](https://news.ycombinator.com/item?id=46453922) - [Sorting with Fibonacci Numbers and a Knuth Reward Check](https://orlp.net/blog/fibonacci-sort/)
 * [2025-12-31, 16:10:52](https://news.ycombinator.com/item?id=46445393) - [One Formula That Demystifies 3D Graphics](https://www.youtube.com/watch?v=qjWkNZ0SXfo)
 * [2025-12-31, 07:57:53](https://news.ycombinator.com/item?id=46442282) - [Linear Address Spaces: Unsafe at any speed](https://queue.acm.org/detail.cfm?id=3534854)
 * [2025-12-30, 22:51:18](https://news.ycombinator.com/item?id=46439064) - [Attention Is Bayesian Inference](https://medium.com/@vishalmisra/attention-is-bayesian-inference-578c25db4501)
 * [2025-12-30, 18:22:56](https://news.ycombinator.com/item?id=46436279) - [Bison return to Illinois' Kane County after 200 years](https://phys.org/news/2025-12-bison-illinois-kane-county-years.html)
-* [2025-12-29, 15:36:17](https://news.ycombinator.com/item?id=46421709) - [Macromedia Flash, from an Animator's Standpoint (2022)](https://medium.com/@nehochupechatat/the-history-of-macromedia-flash-from-an-animators-standpoint-684dc60a011b)
 
 ## [Archives](archives/index.md)
 
