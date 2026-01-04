@@ -17,6 +17,7 @@
 * [2026-01-04, 17:50:04](https://news.ycombinator.com/item?id=46490323) - [Ripple, a puzzle game about 2nd and 3rd order effects](https://ripplegame.app/)
 * [2026-01-04, 17:01:43](https://news.ycombinator.com/item?id=46489830) - [Trellis AI (YC W24) is hiring engineers to build AI agents for healthcare access](https://www.ycombinator.com/companies/trellis-ai/jobs/ngvfeaq-member-of-technical-staff-full-time)
 * [2026-01-04, 15:23:54](https://news.ycombinator.com/item?id=46488819) - [Lessons from 14 Years at Google](https://addyosmani.com/blog/21-lessons/)
+* [2026-01-04, 15:11:19](https://news.ycombinator.com/item?id=46488696) - [How I archived 10 years of memories using Spotify](https://notes.xdavidhu.me/notes/how-i-archived-10-years-of-memories-using-spotify)
 * [2026-01-04, 15:08:02](https://news.ycombinator.com/item?id=46488654) - [Show HN: An interactive guide to how browsers work](https://howbrowserswork.com/)
 * [2026-01-04, 15:00:18](https://news.ycombinator.com/item?id=46488576) - [Web development is fun again](https://ma.ttias.be/web-development-is-fun-again/)
 * [2026-01-04, 14:37:58](https://news.ycombinator.com/item?id=46488355) - [The Unbearable Joy of Sitting Alone in a Café](https://candost.blog/the-unbearable-joy-of-sitting-alone-in-a-cafe/)
@@ -28,7 +29,6 @@
 * [2026-01-04, 05:02:16](https://news.ycombinator.com/item?id=46485090) - [Neural Networks: Zero to Hero](https://karpathy.ai/zero-to-hero.html)
 * [2026-01-01, 02:19:14](https://news.ycombinator.com/item?id=46450625) - [The great shift of English prose](https://www.worksinprogress.news/p/english-prose-has-become-much-easier)
 * [2025-12-31, 07:57:53](https://news.ycombinator.com/item?id=46442282) - [Linear Address Spaces: Unsafe at any speed](https://queue.acm.org/detail.cfm?id=3534854)
-* [2025-12-30, 18:22:56](https://news.ycombinator.com/item?id=46436279) - [Bison return to Illinois' Kane County after 200 years](https://phys.org/news/2025-12-bison-illinois-kane-county-years.html)
 * [2025-12-29, 16:57:11](https://news.ycombinator.com/item?id=46422574) - [The Year of the 3D Printed Miniature (and Other Lies We Tell Ourselves)](https://matduggan.com/the-year-of-the-3d-printed-miniature-and-other-lies-we-tell-ourselves/)
 
 ## [Archives](archives/index.md)
