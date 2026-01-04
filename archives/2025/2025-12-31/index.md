@@ -55,6 +55,7 @@
 * [2025-12-31, 07:44:25](https://news.ycombinator.com/item?id=46442229) - [The Cost of a Closure in C: The Rest](https://thephd.dev/the-cost-of-a-closure-in-c-c2y-followup)
 * [2025-12-31, 05:54:06](https://news.ycombinator.com/item?id=46441781) - [Sirius DB](https://www.sirius-db.com/)
 * [2025-12-31, 05:20:13](https://news.ycombinator.com/item?id=46441592) - [Questions to ask yourself every year](https://gourav.io/blog/yearly-review)
+* [2025-12-31, 04:55:17](https://news.ycombinator.com/item?id=46441419) - [Show HN: Magic CSV – Transform CSVs with plain English, no formulas](https://magiccsv.app/)
 * [2025-12-31, 03:49:58](https://news.ycombinator.com/item?id=46441068) - [Google Opal](https://opal.google/landing/)
 * [2025-12-31, 03:06:07](https://news.ycombinator.com/item?id=46440833) - [We don't need more contributors who aren't programmers to contribute code](https://discourse.llvm.org/t/rfc-llvm-ai-tool-policy-human-in-the-loop/89159)
 * [2025-12-31, 02:33:50](https://news.ycombinator.com/item?id=46440695) - [L1TF Reloaded](https://github.com/ThijsRay/l1tf_reloaded)
