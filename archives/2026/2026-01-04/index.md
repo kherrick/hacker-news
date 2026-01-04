@@ -4,9 +4,13 @@
 
 ### [Archives](../../index.md) for [2026-01-04](index.md)
 
+* [2026-01-04, 13:00:53](https://news.ycombinator.com/item?id=46487523) - [Open Veins of Latin America Five Centuries of the Pillage of a Continent [pdf]](https://archive.wphna.org/wp-content/uploads/2015/06/1971-Eduardo-Galeano-Open-Veins-of-Latin-America.pdf)
 * [2026-01-04, 12:57:40](https://news.ycombinator.com/item?id=46487498) - [Jeffgeerling.com has been Migrated to Hugo](https://www.jeffgeerling.com/blog/2026/migrated-to-hugo/)
+* [2026-01-04, 12:54:20](https://news.ycombinator.com/item?id=46487472) - [Moiré Explorer](https://play.ertdfgcvb.xyz/#/src/demos/moire_explorer)
 * [2026-01-04, 12:50:18](https://news.ycombinator.com/item?id=46487444) - [US attack on Venezuela raises fears of future Greenland takeover](https://www.theguardian.com/world/2026/jan/04/greenland-denmark-us-venezuela-nicolas-maduro-donald-trump)
+* [2026-01-04, 12:34:14](https://news.ycombinator.com/item?id=46487351) - [YouTube Playlist Downloader](https://github.com/Linuxmaster14/yt-playlist-downloader)
 * [2026-01-04, 12:32:30](https://news.ycombinator.com/item?id=46487342) - [Nightshade: Make images unsuitable for model training](https://nightshade.cs.uchicago.edu/whatis.html)
+* [2026-01-04, 12:20:19](https://news.ycombinator.com/item?id=46487276) - [A New Year's letter to a young person](https://www.siliconcontinent.com/p/a-new-years-letter-to-a-young-person)
 * [2026-01-04, 11:55:34](https://news.ycombinator.com/item?id=46487120) - [FreeBSD Home NAS, part 3: WireGuard VPN, routing, and Linux peers](https://rtfm.co.ua/en/freebsd-home-nas-part-3-wireguard-vpn-linux-peer-and-routing/)
 * [2026-01-04, 11:28:16](https://news.ycombinator.com/item?id=46487006) - [The Venezuelan Oil Narative Is Pure Theatre](https://renegaderesources.pro/p/the-venezuelan-oil-narative-is-pure)
 * [2026-01-04, 11:23:23](https://news.ycombinator.com/item?id=46486978) - [JavaScript engines zoo – Compare every JavaScript engine](https://zoo.js.org/)
