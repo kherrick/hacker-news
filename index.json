@@ -1,6 +1,46 @@
 [
   [
     [
+      "2026-01-04, 15:11:19",
+      "https://news.ycombinator.com/item?id=46488696"
+    ],
+    [
+      "How I archived 10 years of memories using Spotify",
+      "https://notes.xdavidhu.me/notes/how-i-archived-10-years-of-memories-using-spotify"
+    ]
+  ],
+  [
+    [
+      "2026-01-04, 15:08:02",
+      "https://news.ycombinator.com/item?id=46488654"
+    ],
+    [
+      "Show HN: An interactive guide to how browsers work",
+      "https://howbrowserswork.com/"
+    ]
+  ],
+  [
+    [
+      "2026-01-04, 15:00:18",
+      "https://news.ycombinator.com/item?id=46488576"
+    ],
+    [
+      "Web development is fun again",
+      "https://ma.ttias.be/web-development-is-fun-again/"
+    ]
+  ],
+  [
+    [
+      "2026-01-04, 14:41:28",
+      "https://news.ycombinator.com/item?id=46488396"
+    ],
+    [
+      "AI Sycophancy Panic",
+      "https://github.com/firasd/vibesbench/blob/main/docs/ai-sycophancy-panic.md"
+    ]
+  ],
+  [
+    [
       "2026-01-04, 14:30:29",
       "https://news.ycombinator.com/item?id=46488278"
     ],
@@ -77,16 +117,6 @@
     [
       "Nightshade: Make images unsuitable for model training",
       "https://nightshade.cs.uchicago.edu/whatis.html"
-    ]
-  ],
-  [
-    [
-      "2026-01-04, 12:20:19",
-      "https://news.ycombinator.com/item?id=46487276"
-    ],
-    [
-      "A New Year's letter to a young person",
-      "https://www.siliconcontinent.com/p/a-new-years-letter-to-a-young-person"
     ]
   ],
   [
@@ -191,42 +221,12 @@
   ],
   [
     [
-      "2026-01-04, 04:31:11",
-      "https://news.ycombinator.com/item?id=46484933"
-    ],
-    [
-      "Show HN: Claude Reflect – Auto-turn Claude corrections into project config",
-      "https://github.com/BayramAnnakov/claude-reflect"
-    ]
-  ],
-  [
-    [
       "2026-01-04, 03:44:23",
       "https://news.ycombinator.com/item?id=46484662"
     ],
     [
       "Gershwin-desktop: OS X-like Desktop Environment based on GNUStep",
       "https://github.com/gershwin-desktop/gershwin-desktop"
-    ]
-  ],
-  [
-    [
-      "2026-01-04, 01:21:56",
-      "https://news.ycombinator.com/item?id=46483776"
-    ],
-    [
-      "MyTorch – Minimalist autograd in 450 lines of Python",
-      "https://github.com/obround/mytorch"
-    ]
-  ],
-  [
-    [
-      "2026-01-04, 00:31:42",
-      "https://news.ycombinator.com/item?id=46483432"
-    ],
-    [
-      "KDE onboarding is good now",
-      "https://rabbitictranslator.com/kde-onboarding/"
     ]
   ],
   [
@@ -261,6 +261,16 @@
   ],
   [
     [
+      "2025-12-31, 16:10:52",
+      "https://news.ycombinator.com/item?id=46445393"
+    ],
+    [
+      "One Formula That Demystifies 3D Graphics",
+      "https://www.youtube.com/watch?v=qjWkNZ0SXfo"
+    ]
+  ],
+  [
+    [
       "2025-12-30, 22:51:18",
       "https://news.ycombinator.com/item?id=46439064"
     ],
@@ -277,16 +287,6 @@
     [
       "From silicon to Darude – Sandstorm: breaking famous synthesizer DSPs [video]",
       "https://media.ccc.de/v/39c3-from-silicon-to-darude-sand-storm-breaking-famous-synthesizer-dsps"
-    ]
-  ],
-  [
-    [
-      "2025-12-30, 16:47:37",
-      "https://news.ycombinator.com/item?id=46435142"
-    ],
-    [
-      "Show HN: Replacing my OS process scheduler with an LLM",
-      "https://github.com/mprajyothreddy/brainkernel"
     ]
   ],
   [
