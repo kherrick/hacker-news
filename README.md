@@ -3,6 +3,7 @@
 * [2026-01-04, 05:09:47](https://news.ycombinator.com/item?id=46485130) - [Learning to Play Tic-Tac-Toe with Jax](https://joe-antognini.github.io/ml/jax-tic-tac-toe)
 * [2026-01-04, 05:04:29](https://news.ycombinator.com/item?id=46485101) - [Corundum – open-source FPGA-based NIC and platform for in-network compute](https://github.com/corundum/corundum)
 * [2026-01-04, 05:02:16](https://news.ycombinator.com/item?id=46485090) - [Neural Networks: Zero to Hero](https://karpathy.ai/zero-to-hero.html)
+* [2026-01-04, 04:31:11](https://news.ycombinator.com/item?id=46484933) - [Show HN: Claude Reflect – Auto-turn Claude corrections into project config](https://github.com/BayramAnnakov/claude-reflect)
 * [2026-01-04, 04:23:13](https://news.ycombinator.com/item?id=46484882) - [Show HN: Krowdovi – Video-based indoor navigation on a DePIN creator economy](https://github.com/daftpixie/krowdovi)
 * [2026-01-04, 02:13:23](https://news.ycombinator.com/item?id=46484104) - [How Thomas Mann Wrote the Magic Mountain](https://www.theguardian.com/books/2025/dec/31/the-master-of-contradictions-by-morten-hi-jensen-review-how-thomas-mann-wrote-the-magic-mountain)
 * [2026-01-04, 01:26:39](https://news.ycombinator.com/item?id=46483811) - [Developing a BLAS Library for the AMD AI Engine [pdf]](https://uni.tlaan.nl/thesis/msc_thesis_tristan_laan_aieblas.pdf)
@@ -26,9 +27,8 @@
 * [2025-12-31, 05:54:06](https://news.ycombinator.com/item?id=46441781) - [Sirius DB](https://www.sirius-db.com/)
 * [2025-12-31, 00:43:30](https://news.ycombinator.com/item?id=46440037) - [Exploring Dithering on Spectra 6-color E-Ink Displays](https://myembeddedstuff.com/e-ink-spectra-6-color)
 * [2025-12-31, 00:35:29](https://news.ycombinator.com/item?id=46439993) - [Odoo: Open-Source ERP](https://github.com/odoo/odoo)
-* [2025-12-29, 22:51:28](https://news.ycombinator.com/item?id=46426931) - [Evolution: Training neural networks with genetic selection achieves 81% on MNIST](https://github.com/A1CST/GENREG_ALPHA_MNIST)
 * [2025-12-29, 22:30:04](https://news.ycombinator.com/item?id=46426614) - [The Late Arrival of 16-Bit CP/M – By Nemanja Trifunovic](https://nemanjatrifunovic.substack.com/p/the-late-arrival-of-16-bit-cpm)
-* [2025-12-29, 19:59:44](https://news.ycombinator.com/item?id=46424807) - [Finger-Nose Stylus for Touch Screens](https://variationsonnormal.com/2011/04/28/finger-nose-stylus-for-touchscreens/)
+* [2025-12-29, 19:59:44](https://news.ycombinator.com/item?id=46424807) - [Finger-Nose Stylus for Touch Screens (2011)](https://variationsonnormal.com/2011/04/28/finger-nose-stylus-for-touchscreens/)
 * [2025-12-28, 16:12:11](https://news.ycombinator.com/item?id=46412070) - [Ed25519-CLI – command-line interface for the Ed25519 signature system](https://lib25519.cr.yp.to/ed25519-cli.html)
 
 ## [Archives](archives/index.md)
