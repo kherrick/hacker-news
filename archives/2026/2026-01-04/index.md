@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-01-04](index.md)
 
+* [2026-01-04, 10:28:49](https://news.ycombinator.com/item?id=46486681) - [Anatomy of BoltzGen](https://huggingface.co/spaces/ludocomito/anatomy-of-boltzgen)
 * [2026-01-04, 09:11:47](https://news.ycombinator.com/item?id=46486326) - [The PGP Problem (2019)](https://www.latacora.com/blog/2019/07/16/the-pgp-problem/)
 * [2026-01-04, 09:00:16](https://news.ycombinator.com/item?id=46486269) - [Interview of Fabien Pinckaers, CEO at Odoo[video]](https://www.youtube.com/watch?v=vgvbRRVreHI)
 * [2026-01-04, 08:35:42](https://news.ycombinator.com/item?id=46486135) - [The Gentle Seduction](http://www.skyhunter.com/marcs/GentleSeduction.html)
