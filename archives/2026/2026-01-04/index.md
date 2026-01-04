@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2026-01-04](index.md)
 
 * [2026-01-04, 12:50:18](https://news.ycombinator.com/item?id=46487444) - [US attack on Venezuela raises fears of future Greenland takeover](https://www.theguardian.com/world/2026/jan/04/greenland-denmark-us-venezuela-nicolas-maduro-donald-trump)
+* [2026-01-04, 12:32:30](https://news.ycombinator.com/item?id=46487342) - [Nightshade: Make images unsuitable for model training](https://nightshade.cs.uchicago.edu/whatis.html)
 * [2026-01-04, 11:55:34](https://news.ycombinator.com/item?id=46487120) - [FreeBSD Home NAS, part 3: WireGuard VPN, routing, and Linux peers](https://rtfm.co.ua/en/freebsd-home-nas-part-3-wireguard-vpn-linux-peer-and-routing/)
 * [2026-01-04, 11:28:16](https://news.ycombinator.com/item?id=46487006) - [The Venezuelan Oil Narative Is Pure Theatre](https://renegaderesources.pro/p/the-venezuelan-oil-narative-is-pure)
 * [2026-01-04, 11:23:23](https://news.ycombinator.com/item?id=46486978) - [JavaScript engines zoo – Compare every JavaScript engine](https://zoo.js.org/)

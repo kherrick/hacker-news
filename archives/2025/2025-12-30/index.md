@@ -16,6 +16,7 @@
 * [2025-12-30, 21:22:53](https://news.ycombinator.com/item?id=46438169) - [Humans May Be Able to Grow New Teeth Within Just 4 Years](https://www.popularmechanics.com/science/health/a69878870/human-new-tooth-regrowth-trials-japan-timeline/)
 * [2025-12-30, 21:18:31](https://news.ycombinator.com/item?id=46438122) - [How the \"Marvelization\" of Cinema Accelerates the Decline of Filmmaking](https://www.openculture.com/2025/11/how-the-marvelization-of-cinema-accelerates-the-decline-of-filmmaking.html)
 * [2025-12-30, 20:53:59](https://news.ycombinator.com/item?id=46437876) - [Sabotaging Bitcoin](https://blog.dshr.org/2025/12/sabotaging-bitcoin.html)
+* [2025-12-30, 20:12:45](https://news.ycombinator.com/item?id=46437449) - [India has surpassed Japan to become the fourth-largest economy](https://www.dw.com/en/india-overtakes-japan-as-4th-largest-economy-report-says/a-75341063)
 * [2025-12-30, 20:06:46](https://news.ycombinator.com/item?id=46437391) - [Prof. Software Developers Don't Vibe, They Control: AI Agent Coding Use in 2025](https://arxiv.org/abs/2512.14012)
 * [2025-12-30, 20:05:42](https://news.ycombinator.com/item?id=46437381) - [Everything as Code: How We Manage Our Company in One Monorepo](https://www.kasava.dev/blog/everything-as-code-monorepo)
 * [2025-12-30, 20:02:35](https://news.ycombinator.com/item?id=46437350) - [The sword-wielding man hired to kick squatters out of empty Oakland homes](https://oaklandside.org/2025/09/30/asap-squatter-removal-oakland/)
