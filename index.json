@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-01-04, 12:57:40",
+      "https://news.ycombinator.com/item?id=46487498"
+    ],
+    [
+      "Jeffgeerling.com has been Migrated to Hugo",
+      "https://www.jeffgeerling.com/blog/2026/migrated-to-hugo/"
+    ]
+  ],
+  [
+    [
       "2026-01-04, 12:32:30",
       "https://news.ycombinator.com/item?id=46487342"
     ],
@@ -97,6 +107,16 @@
     [
       "Pixoo Sign Client for Ruby",
       "https://github.com/tenderlove/pixoo-rb"
+    ]
+  ],
+  [
+    [
+      "2026-01-04, 05:04:29",
+      "https://news.ycombinator.com/item?id=46485101"
+    ],
+    [
+      "Corundum – open-source FPGA-based NIC and platform for in-network compute",
+      "https://github.com/corundum/corundum"
     ]
   ],
   [
@@ -231,16 +251,6 @@
   ],
   [
     [
-      "2025-12-31, 00:10:19",
-      "https://news.ycombinator.com/item?id=46439816"
-    ],
-    [
-      "The First Video Game Came Long Before Pong",
-      "https://www.iflscience.com/the-first-video-game-came-long-before-pong-and-was-invented-by-a-manhattan-project-physicist-81262"
-    ]
-  ],
-  [
-    [
       "2025-12-30, 21:31:31",
       "https://news.ycombinator.com/item?id=46438258"
     ],
@@ -287,16 +297,6 @@
     [
       "GDI Effects from the PC cracking scene",
       "https://gdimayhem.temari.fr/index.php?p=all"
-    ]
-  ],
-  [
-    [
-      "2025-12-28, 16:12:11",
-      "https://news.ycombinator.com/item?id=46412070"
-    ],
-    [
-      "Ed25519-CLI – command-line interface for the Ed25519 signature system (2024)",
-      "https://lib25519.cr.yp.to/ed25519-cli.html"
     ]
   ]
 ]
