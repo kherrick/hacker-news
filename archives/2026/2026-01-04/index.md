@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-01-04](index.md)
 
+* [2026-01-04, 06:54:50](https://news.ycombinator.com/item?id=46485629) - [Pixoo Sign Client for Ruby](https://github.com/tenderlove/pixoo-rb)
 * [2026-01-04, 05:09:47](https://news.ycombinator.com/item?id=46485130) - [Learning to Play Tic-Tac-Toe with Jax](https://joe-antognini.github.io/ml/jax-tic-tac-toe)
 * [2026-01-04, 05:04:29](https://news.ycombinator.com/item?id=46485101) - [Corundum – open-source FPGA-based NIC and platform for in-network compute](https://github.com/corundum/corundum)
 * [2026-01-04, 05:02:16](https://news.ycombinator.com/item?id=46485090) - [Neural Networks: Zero to Hero](https://karpathy.ai/zero-to-hero.html)
