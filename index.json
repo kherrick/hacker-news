@@ -1,12 +1,42 @@
 [
   [
     [
+      "2026-01-04, 05:09:47",
+      "https://news.ycombinator.com/item?id=46485130"
+    ],
+    [
+      "Learning to Play Tic-Tac-Toe with Jax",
+      "https://joe-antognini.github.io/ml/jax-tic-tac-toe"
+    ]
+  ],
+  [
+    [
+      "2026-01-04, 05:04:29",
+      "https://news.ycombinator.com/item?id=46485101"
+    ],
+    [
+      "Corundum – open-source FPGA-based NIC and platform for in-network compute",
+      "https://github.com/corundum/corundum"
+    ]
+  ],
+  [
+    [
       "2026-01-04, 05:02:16",
       "https://news.ycombinator.com/item?id=46485090"
     ],
     [
       "Neural Networks: Zero to Hero",
       "https://karpathy.ai/zero-to-hero.html"
+    ]
+  ],
+  [
+    [
+      "2026-01-04, 04:23:13",
+      "https://news.ycombinator.com/item?id=46484882"
+    ],
+    [
+      "Show HN: Krowdovi – Video-based indoor navigation on a DePIN creator economy",
+      "https://github.com/daftpixie/krowdovi"
     ]
   ],
   [
@@ -41,12 +71,12 @@
   ],
   [
     [
-      "2026-01-04, 01:02:46",
-      "https://news.ycombinator.com/item?id=46483657"
+      "2026-01-04, 01:15:15",
+      "https://news.ycombinator.com/item?id=46483729"
     ],
     [
-      "SQLNet A social network that looks like Twitter but you write SQL to do anything",
-      "https://sqlnet.cc"
+      "The Great Gatsby is the most misunderstood novel (2021)",
+      "https://www.bbc.com/culture/article/20210209-the-worlds-most-misunderstood-novel"
     ]
   ],
   [
@@ -191,36 +221,6 @@
   ],
   [
     [
-      "2026-01-03, 15:55:16",
-      "https://news.ycombinator.com/item?id=46478061"
-    ],
-    [
-      "Show HN: Offline tiles and routing and geocoding in one Docker Compose stack",
-      "https://www.corviont.com/"
-    ]
-  ],
-  [
-    [
-      "2026-01-03, 11:29:33",
-      "https://news.ycombinator.com/item?id=46475395"
-    ],
-    [
-      "Recursive Language Models",
-      "https://arxiv.org/abs/2512.24601"
-    ]
-  ],
-  [
-    [
-      "2026-01-03, 06:35:21",
-      "https://news.ycombinator.com/item?id=46473348"
-    ],
-    [
-      "Trump says Venezuela’s Maduro captured after strikes",
-      "https://www.reuters.com/world/americas/loud-noises-heard-venezuela-capital-southern-area-without-electricity-2026-01-03/"
-    ]
-  ],
-  [
-    [
       "2025-12-31, 08:49:29",
       "https://news.ycombinator.com/item?id=46442502"
     ],
@@ -261,12 +261,12 @@
   ],
   [
     [
-      "2025-12-30, 02:43:50",
-      "https://news.ycombinator.com/item?id=46428922"
+      "2025-12-29, 22:51:28",
+      "https://news.ycombinator.com/item?id=46426931"
     ],
     [
-      "Experiments with Ableton-MCP",
-      "https://jhurliman.org/post/804323197731373056/experiments-with-ableton-mcp-dec-2025"
+      "Evolution: Training neural networks with genetic selection achieves 81% on MNIST",
+      "https://github.com/A1CST/GENREG_ALPHA_MNIST"
     ]
   ],
   [
