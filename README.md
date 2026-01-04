@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-01-04, 18:27:28](https://news.ycombinator.com/item?id=46490716) - [Venezuela's interim government says it is united behind Maduro](https://www.reuters.com/world/us/venezuelas-maduro-custody-trump-says-us-will-run-country-2026-01-04/)
 * [2026-01-04, 17:01:43](https://news.ycombinator.com/item?id=46489830) - [Trellis AI (YC W24) is hiring engineers to build AI agents for healthcare access](https://www.ycombinator.com/companies/trellis-ai/jobs/ngvfeaq-member-of-technical-staff-full-time)
 * [2026-01-04, 15:23:54](https://news.ycombinator.com/item?id=46488819) - [Lessons from 14 Years at Google](https://addyosmani.com/blog/21-lessons/)
 * [2026-01-04, 15:13:18](https://news.ycombinator.com/item?id=46488711) - [Anti-aging injection regrows knee cartilage and prevents arthritis](https://scitechdaily.com/anti-aging-injection-regrows-knee-cartilage-and-prevents-arthritis/)
@@ -26,7 +27,6 @@
 * [2025-12-31, 16:10:52](https://news.ycombinator.com/item?id=46445393) - [One Formula That Demystifies 3D Graphics](https://www.youtube.com/watch?v=qjWkNZ0SXfo)
 * [2025-12-31, 04:55:17](https://news.ycombinator.com/item?id=46441419) - [Show HN: Magic CSV – Transform CSVs with plain English, no formulas](https://magiccsv.app/)
 * [2025-12-30, 22:51:18](https://news.ycombinator.com/item?id=46439064) - [Attention Is Bayesian Inference](https://medium.com/@vishalmisra/attention-is-bayesian-inference-578c25db4501)
-* [2025-12-30, 21:31:31](https://news.ycombinator.com/item?id=46438258) - [From silicon to Darude – Sandstorm: breaking famous synthesizer DSPs [video]](https://media.ccc.de/v/39c3-from-silicon-to-darude-sand-storm-breaking-famous-synthesizer-dsps)
 * [2025-12-30, 18:22:56](https://news.ycombinator.com/item?id=46436279) - [Bison return to Illinois' Kane County after 200 years](https://phys.org/news/2025-12-bison-illinois-kane-county-years.html)
 * [2025-12-29, 19:10:32](https://news.ycombinator.com/item?id=46424186) - [GDI Effects from the PC cracking scene](https://gdimayhem.temari.fr/index.php?p=all)
 * [2025-12-29, 15:36:17](https://news.ycombinator.com/item?id=46421709) - [Macromedia Flash, from an Animator's Standpoint (2022)](https://medium.com/@nehochupechatat/the-history-of-macromedia-flash-from-an-animators-standpoint-684dc60a011b)
