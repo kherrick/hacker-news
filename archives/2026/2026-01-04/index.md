@@ -6,8 +6,10 @@
 
 * [2026-01-04, 15:11:19](https://news.ycombinator.com/item?id=46488696) - [How I archived 10 years of memories using Spotify](https://notes.xdavidhu.me/notes/how-i-archived-10-years-of-memories-using-spotify)
 * [2026-01-04, 15:08:02](https://news.ycombinator.com/item?id=46488654) - [Show HN: An interactive guide to how browsers work](https://howbrowserswork.com/)
+* [2026-01-04, 15:07:58](https://news.ycombinator.com/item?id=46488652) - [Democracy Will Not Survive the Age of Consumption](https://kasurian.com/p/democracy-will-not-survive-consumption)
 * [2026-01-04, 15:00:18](https://news.ycombinator.com/item?id=46488576) - [Web development is fun again](https://ma.ttias.be/web-development-is-fun-again/)
 * [2026-01-04, 14:41:28](https://news.ycombinator.com/item?id=46488396) - [AI Sycophancy Panic](https://github.com/firasd/vibesbench/blob/main/docs/ai-sycophancy-panic.md)
+* [2026-01-04, 14:37:58](https://news.ycombinator.com/item?id=46488355) - [The Unbearable Joy of Sitting Alone in a Café](https://candost.blog/the-unbearable-joy-of-sitting-alone-in-a-cafe/)
 * [2026-01-04, 14:30:29](https://news.ycombinator.com/item?id=46488278) - [Street Fighter II, the World Warrier (2021)](https://fabiensanglard.net/sf2_warrier/)
 * [2026-01-04, 14:28:56](https://news.ycombinator.com/item?id=46488261) - [Cold-Blooded Software (2023)](https://dubroy.com/blog/cold-blooded-software/)
 * [2026-01-04, 13:49:04](https://news.ycombinator.com/item?id=46487921) - [Understanding the bin, sbin, usr/bin, usr/sbin split (2010)](https://lists.busybox.net/pipermail/busybox/2010-December/074114.html)
