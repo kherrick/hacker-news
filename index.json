@@ -71,16 +71,6 @@
   ],
   [
     [
-      "2026-01-04, 20:02:28",
-      "https://news.ycombinator.com/item?id=46491623"
-    ],
-    [
-      "I changed my personality in six weeks",
-      "https://www.bbc.com/future/article/20260102-how-i-changed-my-personality-in-six-weeks"
-    ]
-  ],
-  [
-    [
       "2026-01-04, 19:54:52",
       "https://news.ycombinator.com/item?id=46491560"
     ],
@@ -241,12 +231,32 @@
   ],
   [
     [
+      "2026-01-04, 11:23:23",
+      "https://news.ycombinator.com/item?id=46486978"
+    ],
+    [
+      "JavaScript engines zoo – Compare every JavaScript engine",
+      "https://zoo.js.org/"
+    ]
+  ],
+  [
+    [
       "2026-01-04, 10:43:38",
       "https://news.ycombinator.com/item?id=46486780"
     ],
     [
       "Maybe comments should explain 'what' (2017)",
       "https://www.hillelwayne.com/post/what-comments/"
+    ]
+  ],
+  [
+    [
+      "2026-01-01, 20:02:09",
+      "https://news.ycombinator.com/item?id=46457488"
+    ],
+    [
+      "Six Harmless Bugs Lead to Remote Code Execution",
+      "https://mehmetince.net/the-story-of-a-perfect-exploit-chain-six-bugs-that-looked-harmless-until-they-became-pre-auth-rce-in-a-security-appliance/"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "The Year of the 3D Printed Miniature (and Other Lies We Tell Ourselves)",
       "https://matduggan.com/the-year-of-the-3d-printed-miniature-and-other-lies-we-tell-ourselves/"
-    ]
-  ],
-  [
-    [
-      "2025-12-29, 05:29:22",
-      "https://news.ycombinator.com/item?id=46417768"
-    ],
-    [
-      "Copybara – tool for transforming and moving code between repositories",
-      "https://github.com/google/copybara"
     ]
   ]
 ]
