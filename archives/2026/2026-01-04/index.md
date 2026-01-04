@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-01-04](index.md)
 
+* [2026-01-04, 14:30:29](https://news.ycombinator.com/item?id=46488278) - [Street Fighter II, the World Warrier (2021)](https://fabiensanglard.net/sf2_warrier/)
+* [2026-01-04, 13:45:42](https://news.ycombinator.com/item?id=46487889) - [Nike's Crisis and the Economics of Brand Decay](https://philippdubach.com/posts/nikes-crisis-and-the-economics-of-brand-decay/)
 * [2026-01-04, 13:00:53](https://news.ycombinator.com/item?id=46487523) - [Open Veins of Latin America Five Centuries of the Pillage of a Continent [pdf]](https://archive.wphna.org/wp-content/uploads/2015/06/1971-Eduardo-Galeano-Open-Veins-of-Latin-America.pdf)
 * [2026-01-04, 12:57:40](https://news.ycombinator.com/item?id=46487498) - [Jeffgeerling.com has been Migrated to Hugo](https://www.jeffgeerling.com/blog/2026/migrated-to-hugo/)
 * [2026-01-04, 12:54:20](https://news.ycombinator.com/item?id=46487472) - [Moiré Explorer](https://play.ertdfgcvb.xyz/#/src/demos/moire_explorer)
