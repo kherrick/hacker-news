@@ -4,10 +4,12 @@
 
 ### [Archives](../../index.md) for [2026-01-04](index.md)
 
+* [2026-01-04, 12:50:18](https://news.ycombinator.com/item?id=46487444) - [US attack on Venezuela raises fears of future Greenland takeover](https://www.theguardian.com/world/2026/jan/04/greenland-denmark-us-venezuela-nicolas-maduro-donald-trump)
 * [2026-01-04, 11:55:34](https://news.ycombinator.com/item?id=46487120) - [FreeBSD Home NAS, part 3: WireGuard VPN, routing, and Linux peers](https://rtfm.co.ua/en/freebsd-home-nas-part-3-wireguard-vpn-linux-peer-and-routing/)
 * [2026-01-04, 11:28:16](https://news.ycombinator.com/item?id=46487006) - [The Venezuelan Oil Narative Is Pure Theatre](https://renegaderesources.pro/p/the-venezuelan-oil-narative-is-pure)
 * [2026-01-04, 11:23:23](https://news.ycombinator.com/item?id=46486978) - [JavaScript engines zoo – Compare every JavaScript engine](https://zoo.js.org/)
 * [2026-01-04, 10:43:38](https://news.ycombinator.com/item?id=46486780) - [Maybe Comments _Should_ Explain 'What'](https://www.hillelwayne.com/post/what-comments/)
+* [2026-01-04, 10:35:58](https://news.ycombinator.com/item?id=46486730) - [Was it a billion dollar mistake?](https://www.gingerbill.org/article/2026/01/02/was-it-really-a-billion-dollar-mistake/)
 * [2026-01-04, 10:28:49](https://news.ycombinator.com/item?id=46486681) - [Anatomy of BoltzGen](https://huggingface.co/spaces/ludocomito/anatomy-of-boltzgen)
 * [2026-01-04, 09:11:47](https://news.ycombinator.com/item?id=46486326) - [The PGP Problem (2019)](https://www.latacora.com/blog/2019/07/16/the-pgp-problem/)
 * [2026-01-04, 09:00:16](https://news.ycombinator.com/item?id=46486269) - [Interview of Fabien Pinckaers, CEO at Odoo[video]](https://www.youtube.com/watch?v=vgvbRRVreHI)

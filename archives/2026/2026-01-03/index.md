@@ -55,6 +55,7 @@
 * [2026-01-03, 01:29:09](https://news.ycombinator.com/item?id=46471784) - [Einstein Probe detects an X-ray flare from nearby star](https://phys.org/news/2025-12-einstein-probe-ray-flare-nearby.html)
 * [2026-01-03, 01:18:07](https://news.ycombinator.com/item?id=46471712) - [A Basic Just-In-Time Compiler (2015)](https://nullprogram.com/blog/2015/03/19/)
 * [2026-01-03, 01:15:54](https://news.ycombinator.com/item?id=46471699) - [Proving Liveness with TLA](https://roscidus.com/blog/blog/2026/01/01/tla-liveness/)
+* [2026-01-03, 01:08:35](https://news.ycombinator.com/item?id=46471648) - [Show HN: I used AI to recreate a $4000 piece of audio hardware as a plugin](https://news.ycombinator.com/item?id=46471648)
 * [2026-01-03, 01:02:29](https://news.ycombinator.com/item?id=46471600) - [Blaze: A Dec VT420 (and More) Emulator](https://mmastrac.github.io/blaze/)
 * [2026-01-03, 00:15:47](https://news.ycombinator.com/item?id=46471199) - [2026 will be my year of the Linux desktop](https://xeiaso.net/notes/2026/year-linux-desktop/)
 * [2026-01-03, 00:12:55](https://news.ycombinator.com/item?id=46471171) - [Show HN: Website that plays the lottery every second](https://lotteryeverysecond.lffl.me/)
