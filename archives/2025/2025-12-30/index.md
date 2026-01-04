@@ -64,6 +64,7 @@
 * [2025-12-30, 07:36:38](https://news.ycombinator.com/item?id=46430558) - [Charm Ruby – Glamorous Terminal Libraries for Ruby](https://charm-ruby.dev/)
 * [2025-12-30, 02:43:50](https://news.ycombinator.com/item?id=46428922) - [Experiments with Ableton-MCP](https://jhurliman.org/post/804323197731373056/experiments-with-ableton-mcp-dec-2025)
 * [2025-12-30, 02:11:03](https://news.ycombinator.com/item?id=46428699) - [Show HN: Cover letter generator with Ollama/local LLMs (Open source)](https://www.coverlettermaker.co)
+* [2025-12-30, 01:50:57](https://news.ycombinator.com/item?id=46428574) - [Slop Is Slop](https://daringfireball.net/2025/12/slop_is_slop)
 * [2025-12-30, 01:40:49](https://news.ycombinator.com/item?id=46428496) - [Hacking Washing Machines (39C3) [video]](https://media.ccc.de/v/39c3-hacking-washing-machines)
 * [2025-12-30, 01:00:03](https://news.ycombinator.com/item?id=46428206) - [100x (YC S22) Is Hiring a Front End Engineer](https://news.ycombinator.com/item?id=46428206)
 * [2025-12-30, 00:54:34](https://news.ycombinator.com/item?id=46428154) - [Outside, Dungeon, Town: Integrating the Three Places in Videogames (2024)](https://keithburgun.net/outside-dungeon-town-integrating-the-three-places-in-videogames/)

@@ -1,0 +1,7 @@
+# [Hacker News](../../../README.md)
+
+## [Archives](../../index.md) for [2026](../index.md)
+
+### [Archives](../../index.md) for [2026-01-04](index.md)
+
+* [2026-01-04, 00:31:15](https://news.ycombinator.com/item?id=46483429) - [Pickle 1 AR Glasses (YC W25) May Be Fraudulent](https://twitter.com/thedowd/status/2007337800430198913)
