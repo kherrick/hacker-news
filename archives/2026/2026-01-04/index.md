@@ -4,4 +4,12 @@
 
 ### [Archives](../../index.md) for [2026-01-04](index.md)
 
+* [2026-01-04, 02:13:23](https://news.ycombinator.com/item?id=46484104) - [How Thomas Mann Wrote the Magic Mountain](https://www.theguardian.com/books/2025/dec/31/the-master-of-contradictions-by-morten-hi-jensen-review-how-thomas-mann-wrote-the-magic-mountain)
+* [2026-01-04, 01:42:07](https://news.ycombinator.com/item?id=46483911) - [KDE Plasma will no longer sleep when your controller is plugged in](https://www.neowin.net/news/good-news-for-gamers-kde-plasma-will-no-longer-sleep-when-your-controller-is-plugged-in)
+* [2026-01-04, 01:26:39](https://news.ycombinator.com/item?id=46483811) - [Developing a BLAS Library for the AMD AI Engine [pdf]](https://uni.tlaan.nl/thesis/msc_thesis_tristan_laan_aieblas.pdf)
+* [2026-01-04, 01:21:56](https://news.ycombinator.com/item?id=46483776) - [MyTorch – Minimalist autograd in 450 lines of Python](https://github.com/obround/mytorch)
+* [2026-01-04, 01:15:15](https://news.ycombinator.com/item?id=46483729) - [The Great Gatsby is the most misunderstood novel](https://www.bbc.com/culture/article/20210209-the-worlds-most-misunderstood-novel)
+* [2026-01-04, 00:45:54](https://news.ycombinator.com/item?id=46483531) - [Corroded: Illegal Rust](https://github.com/buyukakyuz/corroded)
+* [2026-01-04, 00:31:42](https://news.ycombinator.com/item?id=46483432) - [KDE onboarding is good now](https://rabbitictranslator.com/kde-onboarding/)
 * [2026-01-04, 00:31:15](https://news.ycombinator.com/item?id=46483429) - [Pickle 1 AR Glasses (YC W25) May Be Fraudulent](https://twitter.com/thedowd/status/2007337800430198913)
+* [2026-01-04, 00:15:01](https://news.ycombinator.com/item?id=46483299) - [Worst Case Optimal Joins: Graph-Join Correspondence](https://finnvolkel.com/wcoj-graph-join-correspondence)

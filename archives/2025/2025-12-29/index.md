@@ -10,6 +10,7 @@
 * [2025-12-29, 23:12:00](https://news.ycombinator.com/item?id=46427181) - [Geology of the Gulf of the Farallones National Marine Sanctuary](https://pubs.usgs.gov/fs/farallones/)
 * [2025-12-29, 23:03:06](https://news.ycombinator.com/item?id=46427084) - [Lead-Free Organic–Inorganic Halobismuthate for Large Piezoelectric Effect](https://pubs.acs.org/doi/10.1021/jacs.5c15484)
 * [2025-12-29, 22:30:25](https://news.ycombinator.com/item?id=46426624) - [Stop Claude Code from forgetting everything](https://github.com/mutable-state-inc/ensue-skill)
+* [2025-12-29, 22:30:04](https://news.ycombinator.com/item?id=46426614) - [The Late Arrival of 16-Bit CP/M – By Nemanja Trifunovic](https://nemanjatrifunovic.substack.com/p/the-late-arrival-of-16-bit-cpm)
 * [2025-12-29, 22:28:53](https://news.ycombinator.com/item?id=46426596) - [AI Employees Don't Pay Taxes](https://alec.is/posts/ai-employees-dont-pay-taxes/)
 * [2025-12-29, 22:24:22](https://news.ycombinator.com/item?id=46426534) - [ManusAI Joins Meta](https://manus.im/blog/manus-joins-meta-for-next-era-of-innovation)
 * [2025-12-29, 21:46:43](https://news.ycombinator.com/item?id=46426131) - [USPS Announces Changes to the Postmark Date System](https://nstp.org/article/usps-announces-changes-postmark-date-system)
