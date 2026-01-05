@@ -5,7 +5,13 @@
 ### [Archives](../../index.md) for [2026-01-05](index.md)
 
 * [2026-01-05, 19:23:56](https://news.ycombinator.com/item?id=46503439) - [Refactoring – Not on the Backlog (2014)](https://ronjeffries.com/xprog/articles/refactoring-not-on-the-backlog/)
+* [2026-01-05, 19:07:35](https://news.ycombinator.com/item?id=46503199) - [X blames users for Grok-generated CSAM; no fixes announced](https://arstechnica.com/tech-policy/2026/01/x-blames-users-for-grok-generated-csam-no-fixes-announced/)
+* [2026-01-05, 18:55:37](https://news.ycombinator.com/item?id=46503006) - [Pipe Dreams – The life and times of Yahoo Pipes (2023)](https://retool.com/pipes)
 * [2026-01-05, 18:52:48](https://news.ycombinator.com/item?id=46502962) - [The College Backlash Is a Mirage](https://www.theatlantic.com/ideas/2026/01/college-degree-value-enrollment/685384/)
+* [2026-01-05, 18:35:17](https://news.ycombinator.com/item?id=46502736) - [Gatekeepers of Law: Inside the Westlaw and LexisNexis Duopoly](https://www.thebignewsletter.com/p/gatekeepers-of-law-inside-the-westlaw)
+* [2026-01-05, 18:33:43](https://news.ycombinator.com/item?id=46502709) - [The meek did inherit the Earth, at least among ants](https://www.nytimes.com/2025/12/19/science/ants-exoskeletons-weak.html)
+* [2026-01-05, 18:29:28](https://news.ycombinator.com/item?id=46502652) - [Utopian Scholastic](https://wol.fm/blog/utopian-scholastic.html)
+* [2026-01-05, 18:00:32](https://news.ycombinator.com/item?id=46502239) - [Sega co-founder David Rosen dies aged 95](https://www.theguardian.com/games/2026/jan/05/sega-co-founder-david-rosen-dies)
 * [2026-01-05, 17:46:51](https://news.ycombinator.com/item?id=46502051) - [Show HN: Open-Source 8-Ch BCI Board (ESP32 and ADS1299 and OpenBCI GUI)](https://github.com/Cerelog-ESP-EEG/ESP-EEG)
 * [2026-01-05, 17:41:17](https://news.ycombinator.com/item?id=46501987) - [Calibrating My Turtle](https://clabs.org/blog/CalibratingMyTurtle)
 * [2026-01-05, 17:40:19](https://news.ycombinator.com/item?id=46501975) - [A Web Developer Posted a Payment Shaming Message on Their Client's Site](https://joseph-smith.co.uk/)
