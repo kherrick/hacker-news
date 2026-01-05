@@ -32,6 +32,7 @@
 * [2026-01-02, 15:44:24](https://news.ycombinator.com/item?id=46465866) - [Ask HN: Help with LLVM](https://news.ycombinator.com/item?id=46465866)
 * [2026-01-02, 15:22:59](https://news.ycombinator.com/item?id=46465622) - [Kling Motion Control AI](https://motion-control.io)
 * [2026-01-02, 15:13:03](https://news.ycombinator.com/item?id=46465513) - [Vibe Coding Killed Cursor](https://ischemist.com/writings/long-form/how-vibe-coding-killed-cursor)
+* [2026-01-02, 15:10:53](https://news.ycombinator.com/item?id=46465493) - [I did 301,432 flashcard reviews in 2025](https://www.natemeyvis.com/i-did-301432-flashcard-reviews-in-2025/)
 * [2026-01-02, 15:08:52](https://news.ycombinator.com/item?id=46465472) - [Why do Americans hate A.I.?](https://www.nytimes.com/2026/01/02/briefing/why-do-americans-hate-ai.html)
 * [2026-01-02, 14:55:09](https://news.ycombinator.com/item?id=46465327) - [IPv6 just turned 30 and still hasn't taken over the world](https://www.theregister.com/2025/12/31/ipv6_at_30/)
 * [2026-01-02, 14:18:47](https://news.ycombinator.com/item?id=46464962) - [I'm having the worst career winter of my life](https://news.ycombinator.com/item?id=46464962)

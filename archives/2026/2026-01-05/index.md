@@ -5,6 +5,8 @@
 ### [Archives](../../index.md) for [2026-01-05](index.md)
 
 * [2026-01-05, 13:57:08](https://news.ycombinator.com/item?id=46498775) - [GOG Patrons- Join gamers keeping classics alive](https://www.gog.com/en/patrons)
+* [2026-01-05, 13:52:17](https://news.ycombinator.com/item?id=46498735) - [I switched from VSCode to Zed](https://tenthousandmeters.com/blog/i-switched-from-vscode-to-zed/)
+* [2026-01-05, 13:47:00](https://news.ycombinator.com/item?id=46498676) - [Ozempic Melted Away Weight–and the Idea of 'Body Positivity'](https://www.wsj.com/opinion/ozempic-melted-away-weight-and-the-idea-of-body-positivity-4917671c)
 * [2026-01-05, 13:02:52](https://news.ycombinator.com/item?id=46498309) - [Jensen: 'We've Done Our Country a Great Disservice' by Offshoring](https://www.barchart.com/story/news/36862423/weve-done-our-country-a-great-disservice-by-offshoring-nvidias-jensen-huang-says-we-have-to-create-prosperity-for-all-not-just-phds)
 * [2026-01-05, 11:51:42](https://news.ycombinator.com/item?id=46497712) - [It's hard to justify Tahoe icons](https://tonsky.me/blog/tahoe-icons/)
 * [2026-01-05, 11:32:58](https://news.ycombinator.com/item?id=46497589) - [Cigarette smoke effect using shaders](https://garden.bradwoods.io/notes/javascript/three-js/shaders/shaders-103-smoke)
