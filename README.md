@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2026-01-05, 19:41:00](https://news.ycombinator.com/item?id=46503685) - [O-Ring Automation](https://www.nber.org/papers/w34639)
-* [2026-01-05, 19:32:09](https://news.ycombinator.com/item?id=46503554) - [Novo Nordisk launches Wegovy weight-loss pill in US, triggering price war](https://www.theguardian.com/business/2026/jan/05/novo-nordisk-launches-wegovy-weight-loss-pill-us-price-war)
 * [2026-01-05, 19:23:56](https://news.ycombinator.com/item?id=46503439) - [Refactoring – Not on the backlog (2014)](https://ronjeffries.com/xprog/articles/refactoring-not-on-the-backlog/)
 * [2026-01-05, 19:07:35](https://news.ycombinator.com/item?id=46503199) - [X blames users for Grok-generated CSAM; no fixes announced](https://arstechnica.com/tech-policy/2026/01/x-blames-users-for-grok-generated-csam-no-fixes-announced/)
 * [2026-01-05, 18:55:37](https://news.ycombinator.com/item?id=46503006) - [Pipe Dreams – The life and times of Yahoo Pipes (2023)](https://retool.com/pipes)
@@ -10,6 +9,7 @@
 * [2026-01-05, 18:29:28](https://news.ycombinator.com/item?id=46502652) - [Utopian Scholastic](https://wol.fm/blog/utopian-scholastic.html)
 * [2026-01-05, 18:00:32](https://news.ycombinator.com/item?id=46502239) - [Sega co-founder David Rosen has died](https://www.theguardian.com/games/2026/jan/05/sega-co-founder-david-rosen-dies)
 * [2026-01-05, 17:46:51](https://news.ycombinator.com/item?id=46502051) - [Show HN: Open-Source 8-Ch BCI Board (ESP32 and ADS1299 and OpenBCI GUI)](https://github.com/Cerelog-ESP-EEG/ESP-EEG)
+* [2026-01-05, 17:25:16](https://news.ycombinator.com/item?id=46501758) - [Show HN: Agentastic.dev is Ghostty and Git worktrees = multi-agent CC/Codex IDE](https://www.agentastic.dev/index)
 * [2026-01-05, 17:20:01](https://news.ycombinator.com/item?id=46501677) - [How Y Combinator made it smart to trust founders](https://elbowgreasegames.substack.com/p/when-good-actors-can-trust-each-other)
 * [2026-01-05, 17:19:33](https://news.ycombinator.com/item?id=46501665) - [So, you want to chunk really fast?](https://minha.sh/posts/so,-you-want-to-chunk-really-fast)
 * [2026-01-05, 16:47:23](https://news.ycombinator.com/item?id=46501137) - [Show HN: Tailsnitch – A security auditor for Tailscale](https://github.com/Adversis/tailsnitch)
@@ -28,7 +28,7 @@
 * [2026-01-01, 14:41:00](https://news.ycombinator.com/item?id=46454488) - [Darwin the Man of His Times](https://aethermug.com/posts/darwin-the-man-of-his-times)
 * [2025-12-31, 16:12:20](https://news.ycombinator.com/item?id=46445412) - [Show HN: Circuit Artist – Circuit simulator with propagation animation, rewind](https://github.com/lets-all-be-stupid-forever/circuit-artist)
 * [2025-12-31, 13:22:07](https://news.ycombinator.com/item?id=46443861) - [LLMRouter: An Open-Source Library for LLM Routing](https://github.com/ulab-uiuc/LLMRouter)
-* [2025-12-30, 19:17:41](https://news.ycombinator.com/item?id=46436857) - [5 Years, 12 Pivots](https://boundaryml.com/blog/5-years-12-pivots)
+* [2025-12-31, 04:07:00](https://news.ycombinator.com/item?id=46441154) - [Selective Applicative Functors](https://blog.veritates.love/selective_applicatives_theoretical_basis.html)
 * [2025-12-30, 08:22:03](https://news.ycombinator.com/item?id=46430829) - [Shock Wave Formation Simulator](https://kousen.github.io/shockwaves/)
 
 ## [Archives](archives/index.md)

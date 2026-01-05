@@ -62,6 +62,7 @@
 * [2025-12-31, 05:54:06](https://news.ycombinator.com/item?id=46441781) - [Sirius DB](https://www.sirius-db.com/)
 * [2025-12-31, 05:20:13](https://news.ycombinator.com/item?id=46441592) - [Questions to ask yourself every year](https://gourav.io/blog/yearly-review)
 * [2025-12-31, 04:55:17](https://news.ycombinator.com/item?id=46441419) - [Show HN: Magic CSV – Transform CSVs with plain English, no formulas](https://magiccsv.app/)
+* [2025-12-31, 04:07:00](https://news.ycombinator.com/item?id=46441154) - [Selective Applicative Functors](https://blog.veritates.love/selective_applicatives_theoretical_basis.html)
 * [2025-12-31, 03:49:58](https://news.ycombinator.com/item?id=46441068) - [Google Opal](https://opal.google/landing/)
 * [2025-12-31, 03:35:58](https://news.ycombinator.com/item?id=46440997) - [The Showa Hundred Year Problem](https://www.dampfkraft.com/showa-100.html)
 * [2025-12-31, 03:06:07](https://news.ycombinator.com/item?id=46440833) - [We don't need more contributors who aren't programmers to contribute code](https://discourse.llvm.org/t/rfc-llvm-ai-tool-policy-human-in-the-loop/89159)

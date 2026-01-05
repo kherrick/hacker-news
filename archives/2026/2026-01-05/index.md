@@ -17,6 +17,7 @@
 * [2026-01-05, 17:46:51](https://news.ycombinator.com/item?id=46502051) - [Show HN: Open-Source 8-Ch BCI Board (ESP32 and ADS1299 and OpenBCI GUI)](https://github.com/Cerelog-ESP-EEG/ESP-EEG)
 * [2026-01-05, 17:41:17](https://news.ycombinator.com/item?id=46501987) - [Calibrating My Turtle](https://clabs.org/blog/CalibratingMyTurtle)
 * [2026-01-05, 17:40:19](https://news.ycombinator.com/item?id=46501975) - [A Web Developer Posted a Payment Shaming Message on Their Client's Site](https://joseph-smith.co.uk/)
+* [2026-01-05, 17:25:16](https://news.ycombinator.com/item?id=46501758) - [Show HN: Agentastic.dev is Ghostty and Git worktrees = multi-agent CC/Codex IDE](https://www.agentastic.dev/index)
 * [2026-01-05, 17:20:01](https://news.ycombinator.com/item?id=46501677) - [How Y Combinator made it smart to trust founders](https://elbowgreasegames.substack.com/p/when-good-actors-can-trust-each-other)
 * [2026-01-05, 17:19:35](https://news.ycombinator.com/item?id=46501667) - [The last supported version of HP-UX is no more](https://www.theregister.com/2026/01/05/hpux_end_of_life/)
 * [2026-01-05, 17:19:33](https://news.ycombinator.com/item?id=46501665) - [So, you want to chunk really fast?](https://minha.sh/posts/so,-you-want-to-chunk-really-fast)
