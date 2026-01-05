@@ -1,12 +1,12 @@
 [
   [
     [
-      "2026-01-05, 17:03:48",
-      "https://news.ycombinator.com/item?id=46501418"
+      "2026-01-05, 17:20:01",
+      "https://news.ycombinator.com/item?id=46501677"
     ],
     [
-      "The Dawn of the AI Drone",
-      "https://www.nytimes.com/2025/12/31/magazine/ukraine-ai-drones-war-russia.html"
+      "How Y Combinator made it smart to trust founders",
+      "https://elbowgreasegames.substack.com/p/when-good-actors-can-trust-each-other"
     ]
   ],
   [
@@ -181,16 +181,6 @@
   ],
   [
     [
-      "2026-01-05, 02:36:20",
-      "https://news.ycombinator.com/item?id=46494734"
-    ],
-    [
-      "During Helene, I just wanted a plain text website",
-      "https://sparkbox.com/foundry/helene_and_mobile_web_performance"
-    ]
-  ],
-  [
-    [
       "2026-01-04, 20:25:30",
       "https://news.ycombinator.com/item?id=46491821"
     ],
@@ -297,6 +287,16 @@
     [
       "Show HN: Circuit Artist – Circuit simulator with propagation animation, rewind",
       "https://github.com/lets-all-be-stupid-forever/circuit-artist"
+    ]
+  ],
+  [
+    [
+      "2025-12-30, 08:22:03",
+      "https://news.ycombinator.com/item?id=46430829"
+    ],
+    [
+      "Shock Wave Formation Simulator",
+      "https://kousen.github.io/shockwaves/"
     ]
   ]
 ]
