@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-01-05](index.md)
 
+* [2026-01-05, 17:03:48](https://news.ycombinator.com/item?id=46501418) - [The Dawn of the AI Drone](https://www.nytimes.com/2025/12/31/magazine/ukraine-ai-drones-war-russia.html)
+* [2026-01-05, 16:47:23](https://news.ycombinator.com/item?id=46501137) - [Show HN: Tailsnitch – A Security Auditor for Tailscale](https://github.com/Adversis/tailsnitch)
 * [2026-01-05, 16:30:30](https://news.ycombinator.com/item?id=46500824) - [Over 600 job openings at Apple for Vision Pro](https://jobs.apple.com/en-us/search?search=vision+pro&sort=relevance&location=united-states-USA)
 * [2026-01-05, 16:29:38](https://news.ycombinator.com/item?id=46500806) - [Anyone building software for wearable tech?](https://news.ycombinator.com/item?id=46500806)
 * [2026-01-05, 15:37:38](https://news.ycombinator.com/item?id=46500022) - [CSS sucks because we don't bother learning it (2022)](https://idiallo.com/blog/learn-css)

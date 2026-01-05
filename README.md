@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-01-05, 17:03:48](https://news.ycombinator.com/item?id=46501418) - [The Dawn of the AI Drone](https://www.nytimes.com/2025/12/31/magazine/ukraine-ai-drones-war-russia.html)
+* [2026-01-05, 16:47:23](https://news.ycombinator.com/item?id=46501137) - [Show HN: Tailsnitch – A Security Auditor for Tailscale](https://github.com/Adversis/tailsnitch)
 * [2026-01-05, 16:29:38](https://news.ycombinator.com/item?id=46500806) - [Anyone building software for wearable tech?](https://news.ycombinator.com/item?id=46500806)
 * [2026-01-05, 15:37:38](https://news.ycombinator.com/item?id=46500022) - [CSS sucks because we don't bother learning it (2022)](https://idiallo.com/blog/learn-css)
 * [2026-01-05, 15:34:40](https://news.ycombinator.com/item?id=46499983) - [Murder-suicide case shows OpenAI selectively hides data after users die](https://arstechnica.com/tech-policy/2025/12/openai-refuses-to-say-where-chatgpt-logs-go-when-users-die/)
@@ -7,7 +9,6 @@
 * [2026-01-05, 15:10:47](https://news.ycombinator.com/item?id=46499646) - [Show HN: DoNotNotify – log and intelligently block notifications on Android](https://donotnotify.com/)
 * [2026-01-05, 13:57:08](https://news.ycombinator.com/item?id=46498775) - [GOG Patrons- Join gamers keeping classics alive](https://www.gog.com/en/patrons)
 * [2026-01-05, 13:52:17](https://news.ycombinator.com/item?id=46498735) - [I switched from VSCode to Zed](https://tenthousandmeters.com/blog/i-switched-from-vscode-to-zed/)
-* [2026-01-05, 13:46:12](https://news.ycombinator.com/item?id=46498662) - [Imagine 130M Washing Machines](https://scottsumner.substack.com/p/imagine-130000000-washing-machines)
 * [2026-01-05, 13:45:50](https://news.ycombinator.com/item?id=46498658) - [Singularity Rootkit: SELinux bypass and netlink filter (ss/conntrack hidden)](https://github.com/MatheuZSecurity/Singularity)
 * [2026-01-05, 13:44:59](https://news.ycombinator.com/item?id=46498651) - [All AI Videos Are Harmful (2025)](https://idiallo.com/blog/all-ai-videos-are-harmful)
 * [2026-01-05, 13:02:52](https://news.ycombinator.com/item?id=46498309) - [Jensen: 'We've done our country a great disservice' by offshoring](https://www.barchart.com/story/news/36862423/weve-done-our-country-a-great-disservice-by-offshoring-nvidias-jensen-huang-says-we-have-to-create-prosperity-for-all-not-just-phds)
@@ -17,6 +18,7 @@
 * [2026-01-05, 08:29:38](https://news.ycombinator.com/item?id=46496494) - [Decorative Cryptography](https://www.dlp.rip/decorative-cryptography)
 * [2026-01-05, 07:14:30](https://news.ycombinator.com/item?id=46496103) - [Databases in 2025: A Year in Review](https://www.cs.cmu.edu/~pavlo/blog/2026/01/2025-databases-retrospective.html)
 * [2026-01-05, 07:06:22](https://news.ycombinator.com/item?id=46496054) - [A spider web unlike any seen before](https://www.nytimes.com/2025/11/08/science/biggest-spiderweb-sulfur-cave.html)
+* [2026-01-05, 02:36:20](https://news.ycombinator.com/item?id=46494734) - [During Helene, I just wanted a plain text website](https://sparkbox.com/foundry/helene_and_mobile_web_performance)
 * [2026-01-04, 20:25:30](https://news.ycombinator.com/item?id=46491821) - [Why does a least squares fit appear to have a bias when applied to simple data?](https://stats.stackexchange.com/questions/674129/why-does-a-linear-least-squares-fit-appear-to-have-a-bias-when-applied-to-simple)
 * [2026-01-04, 20:17:22](https://news.ycombinator.com/item?id=46491749) - [Show HN: Terminal UI for AWS](https://github.com/huseyinbabal/taws)
 * [2026-01-04, 19:48:20](https://news.ycombinator.com/item?id=46491486) - [Claude Code On-the-Go](https://granda.org/en/2026/01/02/claude-code-on-the-go/)
@@ -25,11 +27,9 @@
 * [2026-01-04, 14:30:29](https://news.ycombinator.com/item?id=46488278) - [Street Fighter II, the World Warrier (2021)](https://fabiensanglard.net/sf2_warrier/)
 * [2026-01-03, 04:53:20](https://news.ycombinator.com/item?id=46472930) - [Revisiting the original Roomba and its simple architecture](https://robotsinplainenglish.com/e/2025-12-27-roomba.html)
 * [2026-01-02, 21:54:56](https://news.ycombinator.com/item?id=46469877) - [I charged $18k for a Static HTML Page (2019)](https://idiallo.com/blog/18000-dollars-static-web-page)
-* [2026-01-02, 15:10:53](https://news.ycombinator.com/item?id=46465493) - [I did 301,432 flashcard reviews in 2025](https://www.natemeyvis.com/i-did-301432-flashcard-reviews-in-2025/)
 * [2026-01-01, 09:42:02](https://news.ycombinator.com/item?id=46452696) - [Scientists Uncover the Universal Geometry of Geology (2020)](https://www.quantamagazine.org/scientists-uncover-the-universal-geometry-of-geology-20201119/)
 * [2025-12-31, 20:12:25](https://news.ycombinator.com/item?id=46447810) - [3Duino helps you rapidly create interactive 3D-printed devices](https://blog.arduino.cc/2025/12/03/3duino-helps-you-rapidly-create-interactive-3d-printed-devices/)
 * [2025-12-31, 16:12:20](https://news.ycombinator.com/item?id=46445412) - [Show HN: Circuit Artist – Circuit simulator with propagation animation, rewind](https://github.com/lets-all-be-stupid-forever/circuit-artist)
-* [2025-12-30, 17:03:54](https://news.ycombinator.com/item?id=46435328) - [Square Face Generator – A Cute Square Face Icon Maker](https://www.squarefacegenerators.com/)
 
 ## [Archives](archives/index.md)
 
