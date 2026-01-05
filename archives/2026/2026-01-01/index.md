@@ -20,6 +20,7 @@
 * [2026-01-01, 19:11:53](https://news.ycombinator.com/item?id=46457027) - [Dell's version of the DGX Spark fixes pain points](https://www.jeffgeerling.com/blog/2025/dells-version-dgx-spark-fixes-pain-points)
 * [2026-01-01, 18:49:40](https://news.ycombinator.com/item?id=46456838) - [Modern evidence for God from cosmology, astrochemistry, etc. (by a YC alum)](https://www.saintbeluga.org/follow-the-evidence-wherever-it-leads)
 * [2026-01-01, 18:46:07](https://news.ycombinator.com/item?id=46456797) - [Finland detains ship and its crew after critical undersea cable damaged](https://www.cnn.com/2025/12/31/europe/finland-estonia-undersea-cable-ship-detained-intl)
+* [2026-01-01, 18:45:02](https://news.ycombinator.com/item?id=46456787) - [Monads in C# (Part 2): Result](https://alexyorke.github.io/2025/09/13/monads-in-c-sharp-part-2-result/)
 * [2026-01-01, 18:34:25](https://news.ycombinator.com/item?id=46456682) - [Building an internal agent: Code-driven vs. LLM-driven workflows](https://lethain.com/agents-coordinators/)
 * [2026-01-01, 18:20:38](https://news.ycombinator.com/item?id=46456543) - [Street-Fighting Mathematics (2008)](https://ocw.mit.edu/courses/18-098-street-fighting-mathematics-january-iap-2008/pages/readings/)
 * [2026-01-01, 18:08:48](https://news.ycombinator.com/item?id=46456387) - [Gemini 3.0 Deciphered the Mystery of a Nuremberg Chronicle Leaf's](https://blog.gdeltproject.org/gemini-as-indiana-jones-how-gemini-3-0-deciphered-the-mystery-of-a-nuremberg-chronicle-leafs-500-year-old-roundels/)
