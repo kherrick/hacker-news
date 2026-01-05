@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-01-05, 17:03:48](https://news.ycombinator.com/item?id=46501418) - [The Dawn of the AI Drone](https://www.nytimes.com/2025/12/31/magazine/ukraine-ai-drones-war-russia.html)
+* [2026-01-05, 17:20:01](https://news.ycombinator.com/item?id=46501677) - [How Y Combinator made it smart to trust founders](https://elbowgreasegames.substack.com/p/when-good-actors-can-trust-each-other)
 * [2026-01-05, 16:47:23](https://news.ycombinator.com/item?id=46501137) - [Show HN: Tailsnitch – A Security Auditor for Tailscale](https://github.com/Adversis/tailsnitch)
 * [2026-01-05, 16:29:38](https://news.ycombinator.com/item?id=46500806) - [Anyone building software for wearable tech?](https://news.ycombinator.com/item?id=46500806)
 * [2026-01-05, 15:37:38](https://news.ycombinator.com/item?id=46500022) - [CSS sucks because we don't bother learning it (2022)](https://idiallo.com/blog/learn-css)
@@ -18,7 +18,6 @@
 * [2026-01-05, 08:29:38](https://news.ycombinator.com/item?id=46496494) - [Decorative Cryptography](https://www.dlp.rip/decorative-cryptography)
 * [2026-01-05, 07:14:30](https://news.ycombinator.com/item?id=46496103) - [Databases in 2025: A Year in Review](https://www.cs.cmu.edu/~pavlo/blog/2026/01/2025-databases-retrospective.html)
 * [2026-01-05, 07:06:22](https://news.ycombinator.com/item?id=46496054) - [A spider web unlike any seen before](https://www.nytimes.com/2025/11/08/science/biggest-spiderweb-sulfur-cave.html)
-* [2026-01-05, 02:36:20](https://news.ycombinator.com/item?id=46494734) - [During Helene, I just wanted a plain text website](https://sparkbox.com/foundry/helene_and_mobile_web_performance)
 * [2026-01-04, 20:25:30](https://news.ycombinator.com/item?id=46491821) - [Why does a least squares fit appear to have a bias when applied to simple data?](https://stats.stackexchange.com/questions/674129/why-does-a-linear-least-squares-fit-appear-to-have-a-bias-when-applied-to-simple)
 * [2026-01-04, 20:17:22](https://news.ycombinator.com/item?id=46491749) - [Show HN: Terminal UI for AWS](https://github.com/huseyinbabal/taws)
 * [2026-01-04, 19:48:20](https://news.ycombinator.com/item?id=46491486) - [Claude Code On-the-Go](https://granda.org/en/2026/01/02/claude-code-on-the-go/)
@@ -30,6 +29,7 @@
 * [2026-01-01, 09:42:02](https://news.ycombinator.com/item?id=46452696) - [Scientists Uncover the Universal Geometry of Geology (2020)](https://www.quantamagazine.org/scientists-uncover-the-universal-geometry-of-geology-20201119/)
 * [2025-12-31, 20:12:25](https://news.ycombinator.com/item?id=46447810) - [3Duino helps you rapidly create interactive 3D-printed devices](https://blog.arduino.cc/2025/12/03/3duino-helps-you-rapidly-create-interactive-3d-printed-devices/)
 * [2025-12-31, 16:12:20](https://news.ycombinator.com/item?id=46445412) - [Show HN: Circuit Artist – Circuit simulator with propagation animation, rewind](https://github.com/lets-all-be-stupid-forever/circuit-artist)
+* [2025-12-30, 08:22:03](https://news.ycombinator.com/item?id=46430829) - [Shock Wave Formation Simulator](https://kousen.github.io/shockwaves/)
 
 ## [Archives](archives/index.md)
 

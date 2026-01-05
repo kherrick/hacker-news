@@ -66,6 +66,7 @@
 * [2025-12-30, 09:57:27](https://news.ycombinator.com/item?id=46431453) - [HSBC blocks its app due to F-Droid-installed Bitwarden](https://mastodon.neilzone.co.uk/@neil/115807834298031971)
 * [2025-12-30, 08:53:40](https://news.ycombinator.com/item?id=46431049) - [You Need to Ditch VS Code](https://jrswab.com/blog/ditch-vs-code)
 * [2025-12-30, 08:50:44](https://news.ycombinator.com/item?id=46431028) - [Go Away Python](https://lorentz.app/blog-item.html?id=go-shebang)
+* [2025-12-30, 08:22:03](https://news.ycombinator.com/item?id=46430829) - [Shock Wave Formation Simulator](https://kousen.github.io/shockwaves/)
 * [2025-12-30, 08:19:08](https://news.ycombinator.com/item?id=46430815) - [Quickemu: Quickly create and run optimised Windows, macOS and Linux VMs](https://github.com/quickemu-project/quickemu)
 * [2025-12-30, 07:36:38](https://news.ycombinator.com/item?id=46430558) - [Charm Ruby – Glamorous Terminal Libraries for Ruby](https://charm-ruby.dev/)
 * [2025-12-30, 02:43:50](https://news.ycombinator.com/item?id=46428922) - [Experiments with Ableton-MCP](https://jhurliman.org/post/804323197731373056/experiments-with-ableton-mcp-dec-2025)
