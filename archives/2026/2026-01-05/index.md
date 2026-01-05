@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-01-05](index.md)
 
+* [2026-01-05, 08:29:38](https://news.ycombinator.com/item?id=46496494) - [Decorative Cryptography](https://www.dlp.rip/decorative-cryptography)
+* [2026-01-05, 08:02:01](https://news.ycombinator.com/item?id=46496357) - [Inducing self-NSFW classification in image models to prevent deepfakes edits](https://news.ycombinator.com/item?id=46496357)
 * [2026-01-05, 07:14:30](https://news.ycombinator.com/item?id=46496103) - [Databases in 2025: A Year in Review](https://www.cs.cmu.edu/~pavlo/blog/2026/01/2025-databases-retrospective.html)
 * [2026-01-05, 07:06:22](https://news.ycombinator.com/item?id=46496054) - [A spider web unlike any seen before (2025)](https://www.nytimes.com/2025/11/08/science/biggest-spiderweb-sulfur-cave.html)
 * [2026-01-05, 05:16:37](https://news.ycombinator.com/item?id=46495560) - [ICE Is Using Facial-Recognition Technology to Quickly Arrest People](https://www.wsj.com/politics/policy/ice-facial-recognition-app-mobile-fortify-dfdd00bf)

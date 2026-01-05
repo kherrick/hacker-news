@@ -37,6 +37,7 @@
 * [2026-01-01, 15:47:17](https://news.ycombinator.com/item?id=46454958) - [Common Lisp SDK for the Datastar Hypermedia Framework](https://github.com/fsmunoz/datastar-cl)
 * [2026-01-01, 15:45:25](https://news.ycombinator.com/item?id=46454944) - [50% of U.S. vinyl buyers don't own a record player](https://lightcapai.medium.com/the-great-return-from-digital-abundance-to-analog-meaning-cfda9e428752)
 * [2026-01-01, 15:31:24](https://news.ycombinator.com/item?id=46454854) - [Heap Overflow in FFmpeg EXIF](https://bugs.pwno.io/0014)
+* [2026-01-01, 15:27:28](https://news.ycombinator.com/item?id=46454824) - [Why Microsoft Store Discontinued Support for Office Apps](https://www.bgr.com/2027774/why-microsoft-store-discontinued-office-support/)
 * [2026-01-01, 15:19:26](https://news.ycombinator.com/item?id=46454763) - [ACM Is Now Open Access](https://www.acm.org/articles/bulletins/2026/january/acm-open-access)
 * [2026-01-01, 15:09:06](https://news.ycombinator.com/item?id=46454693) - [OpenWorkers: Self-Hosted Cloudflare Workers in Rust](https://openworkers.com/introducing-openworkers)
 * [2026-01-01, 14:53:50](https://news.ycombinator.com/item?id=46454587) - [Build a Deep Learning Library](https://zekcrates.quarto.pub/deep-learning-library/)
