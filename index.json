@@ -21,21 +21,11 @@
   ],
   [
     [
-      "2026-01-05, 13:47:00",
-      "https://news.ycombinator.com/item?id=46498676"
-    ],
-    [
-      "Ozempic Melted Away Weight–and the Idea of 'Body Positivity'",
-      "https://www.wsj.com/opinion/ozempic-melted-away-weight-and-the-idea-of-body-positivity-4917671c"
-    ]
-  ],
-  [
-    [
       "2026-01-05, 13:02:52",
       "https://news.ycombinator.com/item?id=46498309"
     ],
     [
-      "Jensen: 'We've Done Our Country a Great Disservice' by Offshoring",
+      "Jensen: 'We've done our country a great disservice' by offshoring",
       "https://www.barchart.com/story/news/36862423/weve-done-our-country-a-great-disservice-by-offshoring-nvidias-jensen-huang-says-we-have-to-create-prosperity-for-all-not-just-phds"
     ]
   ],
@@ -151,6 +141,16 @@
   ],
   [
     [
+      "2026-01-04, 19:48:20",
+      "https://news.ycombinator.com/item?id=46491486"
+    ],
+    [
+      "Claude Code On-the-Go",
+      "https://granda.org/en/2026/01/02/claude-code-on-the-go/"
+    ]
+  ],
+  [
+    [
       "2026-01-04, 15:23:54",
       "https://news.ycombinator.com/item?id=46488819"
     ],
@@ -231,12 +231,12 @@
   ],
   [
     [
-      "2026-01-01, 20:02:09",
-      "https://news.ycombinator.com/item?id=46457488"
+      "2026-01-01, 18:45:02",
+      "https://news.ycombinator.com/item?id=46456787"
     ],
     [
-      "Six Harmless Bugs Lead to Remote Code Execution",
-      "https://mehmetince.net/the-story-of-a-perfect-exploit-chain-six-bugs-that-looked-harmless-until-they-became-pre-auth-rce-in-a-security-appliance/"
+      "Monads in C# (Part 2): Result",
+      "https://alexyorke.github.io/2025/09/13/monads-in-c-sharp-part-2-result/"
     ]
   ],
   [
@@ -291,12 +291,12 @@
   ],
   [
     [
-      "2025-12-31, 01:10:05",
-      "https://news.ycombinator.com/item?id=46440188"
+      "2025-12-31, 07:57:53",
+      "https://news.ycombinator.com/item?id=46442282"
     ],
     [
-      "How to translate a ROM: The mysteries of the game cartridge [video]",
-      "https://www.youtube.com/watch?v=XDg73E1n5-g"
+      "Linear Address Spaces: Unsafe at any speed (2022)",
+      "https://queue.acm.org/detail.cfm?id=3534854"
     ]
   ]
 ]
