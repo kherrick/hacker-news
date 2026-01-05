@@ -4,8 +4,11 @@
 
 ### [Archives](../../index.md) for [2026-01-05](index.md)
 
+* [2026-01-05, 22:28:46](https://news.ycombinator.com/item?id=46505975) - [Worlds's first all-solid-state battery ready to power up production vehicles now](https://www.donutlab.com/ces-battery-announcement/)
 * [2026-01-05, 22:10:15](https://news.ycombinator.com/item?id=46505735) - [Why Didn't AI \"Join the Workforce\" in 2025?](https://calnewport.com/why-didnt-ai-join-the-workforce-in-2025/)
+* [2026-01-05, 22:03:52](https://news.ycombinator.com/item?id=46505661) - [Migrating cells and the new science of microchimerism](https://www.nature.com/articles/d41586-025-04102-4)
 * [2026-01-05, 21:52:22](https://news.ycombinator.com/item?id=46505518) - [Google broke my heart](https://perishablepress.com/google-broke-my-heart/)
+* [2026-01-05, 21:38:22](https://news.ycombinator.com/item?id=46505352) - [Keeping Syria connected during war: Surviving ISIS and Intelligence](https://syriauntold.com/2025/12/27/keeping-syria-connected-during-war/)
 * [2026-01-05, 21:06:13](https://news.ycombinator.com/item?id=46504966) - [Boston Dynamics and Google DeepMind Form New AI Partnership](https://bostondynamics.com/blog/boston-dynamics-google-deepmind-form-new-ai-partnership/)
 * [2026-01-05, 21:05:50](https://news.ycombinator.com/item?id=46504963) - [There Were BGP Anomalies During the Venezuela Blackout](https://loworbitsecurity.com/radar/radar16/)
 * [2026-01-05, 20:13:03](https://news.ycombinator.com/item?id=46504198) - [A Year of Clean Energy Milestones](https://e360.yale.edu/digest/2025-energy-review)
@@ -29,6 +32,7 @@
 * [2026-01-05, 17:19:35](https://news.ycombinator.com/item?id=46501667) - [The last supported version of HP-UX is no more](https://www.theregister.com/2026/01/05/hpux_end_of_life/)
 * [2026-01-05, 17:19:33](https://news.ycombinator.com/item?id=46501665) - [So, you want to chunk really fast?](https://minha.sh/posts/so,-you-want-to-chunk-really-fast)
 * [2026-01-05, 17:03:48](https://news.ycombinator.com/item?id=46501418) - [The Dawn of the AI Drone](https://www.nytimes.com/2025/12/31/magazine/ukraine-ai-drones-war-russia.html)
+* [2026-01-05, 16:57:21](https://news.ycombinator.com/item?id=46501309) - [Los Angeles ends strange rite of passage with new fridge law](https://www.nytimes.com/2026/01/01/realestate/fridge-law-los-angeles.html)
 * [2026-01-05, 16:47:23](https://news.ycombinator.com/item?id=46501137) - [Show HN: Tailsnitch – A Security Auditor for Tailscale](https://github.com/Adversis/tailsnitch)
 * [2026-01-05, 16:34:22](https://news.ycombinator.com/item?id=46500900) - [Observability's past, present, and future](https://blog.sherwoodcallaway.com/observability-s-past-present-and-future/)
 * [2026-01-05, 16:30:30](https://news.ycombinator.com/item?id=46500824) - [Over 600 job openings at Apple for Vision Pro](https://jobs.apple.com/en-us/search?search=vision+pro&sort=relevance&location=united-states-USA)
@@ -39,6 +43,7 @@
 * [2026-01-05, 15:34:14](https://news.ycombinator.com/item?id=46499976) - [RevisionDojo, a YC startup, is running astroturfing campaigns targeting kids](https://news.ycombinator.com/item?id=46499976)
 * [2026-01-05, 15:13:59](https://news.ycombinator.com/item?id=46499694) - [Show HN: A simulator for engineers transitioning from IC to management](https://apmcommunication.com/scenario/backchannel-vp)
 * [2026-01-05, 15:10:47](https://news.ycombinator.com/item?id=46499646) - [Show HN: DoNotNotify – log and intelligently block notifications on Android](https://donotnotify.com/)
+* [2026-01-05, 14:53:23](https://news.ycombinator.com/item?id=46499425) - [Dealing with abandonware (2024)](https://blog.hris.to/./dealing-with-abandonware.html)
 * [2026-01-05, 13:57:08](https://news.ycombinator.com/item?id=46498775) - [GOG Patrons- Join gamers keeping classics alive](https://www.gog.com/en/patrons)
 * [2026-01-05, 13:52:17](https://news.ycombinator.com/item?id=46498735) - [I switched from VSCode to Zed](https://tenthousandmeters.com/blog/i-switched-from-vscode-to-zed/)
 * [2026-01-05, 13:47:00](https://news.ycombinator.com/item?id=46498676) - [Ozempic Melted Away Weight–and the Idea of 'Body Positivity'](https://www.wsj.com/opinion/ozempic-melted-away-weight-and-the-idea-of-body-positivity-4917671c)
