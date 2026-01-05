@@ -1,6 +1,36 @@
 [
   [
     [
+      "2026-01-05, 17:46:51",
+      "https://news.ycombinator.com/item?id=46502051"
+    ],
+    [
+      "Show HN: Open-Source 8-Ch BCI Board (ESP32 and ADS1299 and OpenBCI GUI)",
+      "https://github.com/Cerelog-ESP-EEG/ESP-EEG"
+    ]
+  ],
+  [
+    [
+      "2026-01-05, 17:41:17",
+      "https://news.ycombinator.com/item?id=46501987"
+    ],
+    [
+      "Calibrating My Turtle",
+      "https://clabs.org/blog/CalibratingMyTurtle"
+    ]
+  ],
+  [
+    [
+      "2026-01-05, 17:40:19",
+      "https://news.ycombinator.com/item?id=46501975"
+    ],
+    [
+      "A Web Developer Posted a Payment Shaming Message on Their Client's Site",
+      "https://joseph-smith.co.uk/"
+    ]
+  ],
+  [
+    [
       "2026-01-05, 17:20:01",
       "https://news.ycombinator.com/item?id=46501677"
     ],
@@ -181,16 +211,6 @@
   ],
   [
     [
-      "2026-01-04, 20:25:30",
-      "https://news.ycombinator.com/item?id=46491821"
-    ],
-    [
-      "Why does a least squares fit appear to have a bias when applied to simple data?",
-      "https://stats.stackexchange.com/questions/674129/why-does-a-linear-least-squares-fit-appear-to-have-a-bias-when-applied-to-simple"
-    ]
-  ],
-  [
-    [
       "2026-01-04, 20:17:22",
       "https://news.ycombinator.com/item?id=46491749"
     ],
@@ -231,32 +251,12 @@
   ],
   [
     [
-      "2026-01-04, 14:30:29",
-      "https://news.ycombinator.com/item?id=46488278"
-    ],
-    [
-      "Street Fighter II, the World Warrier (2021)",
-      "https://fabiensanglard.net/sf2_warrier/"
-    ]
-  ],
-  [
-    [
       "2026-01-03, 04:53:20",
       "https://news.ycombinator.com/item?id=46472930"
     ],
     [
       "Revisiting the original Roomba and its simple architecture",
       "https://robotsinplainenglish.com/e/2025-12-27-roomba.html"
-    ]
-  ],
-  [
-    [
-      "2026-01-02, 21:54:56",
-      "https://news.ycombinator.com/item?id=46469877"
-    ],
-    [
-      "I charged $18k for a Static HTML Page (2019)",
-      "https://idiallo.com/blog/18000-dollars-static-web-page"
     ]
   ],
   [
