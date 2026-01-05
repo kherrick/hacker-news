@@ -55,6 +55,7 @@
 * [2026-01-01, 10:29:54](https://news.ycombinator.com/item?id=46452937) - [Worlds largest electric ship launched by Tasmanian boatbuilder](https://www.theguardian.com/australia-news/2025/may/02/hull-096-worlds-largest-electric-ship-battery-power-launched)
 * [2026-01-01, 10:25:53](https://news.ycombinator.com/item?id=46452916) - [Show HN: Wario Synth – Turn any song into Game Boy version](https://www.wario.style)
 * [2026-01-01, 09:53:48](https://news.ycombinator.com/item?id=46452763) - [If childhood is half of subjective life, how should that change how we live?](https://moultano.wordpress.com/2025/12/30/children-and-helical-time/)
+* [2026-01-01, 09:42:02](https://news.ycombinator.com/item?id=46452696) - [What if the world is made of cubes? Uncovering the universal geometry of geology](https://www.quantamagazine.org/scientists-uncover-the-universal-geometry-of-geology-20201119/)
 * [2026-01-01, 07:58:55](https://news.ycombinator.com/item?id=46452172) - [MHC: Manifold-Constrained Hyper-Connections](https://arxiv.org/abs/2512.24880)
 * [2026-01-01, 07:50:17](https://news.ycombinator.com/item?id=46452146) - [Ask HN: How did you learn to code?](https://news.ycombinator.com/item?id=46452146)
 * [2026-01-01, 03:47:20](https://news.ycombinator.com/item?id=46451124) - [Flow5 Released to Open Source](https://flow5.tech/docs/releasenotes.html)
