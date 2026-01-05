@@ -25,7 +25,7 @@
 * [2026-01-01, 20:02:09](https://news.ycombinator.com/item?id=46457488) - [Six Harmless Bugs Lead to Remote Code Execution](https://mehmetince.net/the-story-of-a-perfect-exploit-chain-six-bugs-that-looked-harmless-until-they-became-pre-auth-rce-in-a-security-appliance/)
 * [2026-01-01, 18:45:02](https://news.ycombinator.com/item?id=46456787) - [Monads in C# (Part 2): Result](https://alexyorke.github.io/2025/09/13/monads-in-c-sharp-part-2-result/)
 * [2026-01-01, 13:48:27](https://news.ycombinator.com/item?id=46454085) - [Logos Language Guide: Compile English to Rust](https://logicaffeine.com/guide)
-* [2026-01-01, 09:42:02](https://news.ycombinator.com/item?id=46452696) - [What if the world is made of cubes? Uncovering the universal geometry of geology](https://www.quantamagazine.org/scientists-uncover-the-universal-geometry-of-geology-20201119/)
+* [2026-01-01, 09:42:02](https://news.ycombinator.com/item?id=46452696) - [Scientists Uncover the Universal Geometry of Geology (2020)](https://www.quantamagazine.org/scientists-uncover-the-universal-geometry-of-geology-20201119/)
 * [2025-12-31, 21:06:16](https://news.ycombinator.com/item?id=46448356) - [Baffling purple honey found only in North Carolina](https://www.bbc.com/travel/article/20250417-the-baffling-purple-honey-found-only-in-north-carolina)
 * [2025-12-31, 16:12:20](https://news.ycombinator.com/item?id=46445412) - [Show HN: Circuit Artist – Circuit simulator with propagation animation, rewind](https://github.com/lets-all-be-stupid-forever/circuit-artist)
 * [2025-12-31, 07:57:53](https://news.ycombinator.com/item?id=46442282) - [Linear Address Spaces: Unsafe at any speed (2022)](https://queue.acm.org/detail.cfm?id=3534854)
