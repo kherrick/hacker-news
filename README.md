@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-01-05, 15:34:14](https://news.ycombinator.com/item?id=46499976) - [RevisionDojo, a YC startup, is running astroturfing campaigns targeting kids](https://news.ycombinator.com/item?id=46499976)
 * [2026-01-05, 15:13:59](https://news.ycombinator.com/item?id=46499694) - [Show HN: A simulator for engineers transitioning from IC to management](https://apmcommunication.com/scenario/backchannel-vp)
 * [2026-01-05, 15:10:47](https://news.ycombinator.com/item?id=46499646) - [Show HN: DoNotNotify – log and intelligently block notifications on Android](https://donotnotify.com/)
 * [2026-01-05, 13:57:08](https://news.ycombinator.com/item?id=46498775) - [GOG Patrons- Join gamers keeping classics alive](https://www.gog.com/en/patrons)
@@ -12,7 +13,6 @@
 * [2026-01-05, 08:29:38](https://news.ycombinator.com/item?id=46496494) - [Decorative Cryptography](https://www.dlp.rip/decorative-cryptography)
 * [2026-01-05, 07:14:30](https://news.ycombinator.com/item?id=46496103) - [Databases in 2025: A Year in Review](https://www.cs.cmu.edu/~pavlo/blog/2026/01/2025-databases-retrospective.html)
 * [2026-01-05, 07:06:22](https://news.ycombinator.com/item?id=46496054) - [A spider web unlike any seen before](https://www.nytimes.com/2025/11/08/science/biggest-spiderweb-sulfur-cave.html)
-* [2026-01-05, 05:11:59](https://news.ycombinator.com/item?id=46495539) - [Building a Rust-style static analyzer for C++ with AI](http://mpaxos.com/blog/rusty-cpp.html)
 * [2026-01-05, 02:36:20](https://news.ycombinator.com/item?id=46494734) - [During Helene, I just wanted a plain text website](https://sparkbox.com/foundry/helene_and_mobile_web_performance)
 * [2026-01-04, 20:25:30](https://news.ycombinator.com/item?id=46491821) - [Why does a least squares fit appear to have a bias when applied to simple data?](https://stats.stackexchange.com/questions/674129/why-does-a-linear-least-squares-fit-appear-to-have-a-bias-when-applied-to-simple)
 * [2026-01-04, 20:17:22](https://news.ycombinator.com/item?id=46491749) - [Show HN: Terminal UI for AWS](https://github.com/huseyinbabal/taws)
@@ -24,11 +24,11 @@
 * [2026-01-03, 04:53:20](https://news.ycombinator.com/item?id=46472930) - [Revisiting the original Roomba and its simple architecture](https://robotsinplainenglish.com/e/2025-12-27-roomba.html)
 * [2026-01-02, 21:54:56](https://news.ycombinator.com/item?id=46469877) - [I charged $18k for a Static HTML Page (2019)](https://idiallo.com/blog/18000-dollars-static-web-page)
 * [2026-01-02, 15:10:53](https://news.ycombinator.com/item?id=46465493) - [I did 301,432 flashcard reviews in 2025](https://www.natemeyvis.com/i-did-301432-flashcard-reviews-in-2025/)
+* [2026-01-01, 18:45:02](https://news.ycombinator.com/item?id=46456787) - [Monads in C# (Part 2): Result](https://alexyorke.github.io/2025/09/13/monads-in-c-sharp-part-2-result/)
 * [2026-01-01, 09:42:02](https://news.ycombinator.com/item?id=46452696) - [Scientists Uncover the Universal Geometry of Geology (2020)](https://www.quantamagazine.org/scientists-uncover-the-universal-geometry-of-geology-20201119/)
 * [2025-12-31, 21:06:16](https://news.ycombinator.com/item?id=46448356) - [Baffling purple honey found only in North Carolina](https://www.bbc.com/travel/article/20250417-the-baffling-purple-honey-found-only-in-north-carolina)
 * [2025-12-31, 20:12:25](https://news.ycombinator.com/item?id=46447810) - [3Duino helps you rapidly create interactive 3D-printed devices](https://blog.arduino.cc/2025/12/03/3duino-helps-you-rapidly-create-interactive-3d-printed-devices/)
 * [2025-12-31, 16:12:20](https://news.ycombinator.com/item?id=46445412) - [Show HN: Circuit Artist – Circuit simulator with propagation animation, rewind](https://github.com/lets-all-be-stupid-forever/circuit-artist)
-* [2025-12-31, 08:10:27](https://news.ycombinator.com/item?id=46442322) - [What do I mean by some software devs are \"ngmi\"?](https://ghuntley.com/ngmi/)
 * [2025-12-31, 07:57:53](https://news.ycombinator.com/item?id=46442282) - [Linear Address Spaces: Unsafe at any speed (2022)](https://queue.acm.org/detail.cfm?id=3534854)
 
 ## [Archives](archives/index.md)
