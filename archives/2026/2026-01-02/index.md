@@ -29,6 +29,7 @@
 * [2026-01-02, 16:02:18](https://news.ycombinator.com/item?id=46466099) - [Grok is enabling mass sexual harassment on Twitter](https://www.seangoedecke.com/grok-deepfakes/)
 * [2026-01-02, 16:00:42](https://news.ycombinator.com/item?id=46466074) - [Ask HN: Who is hiring? (January 2026)](https://news.ycombinator.com/item?id=46466074)
 * [2026-01-02, 16:00:42](https://news.ycombinator.com/item?id=46466073) - [Ask HN: Who wants to be hired? (January 2026)](https://news.ycombinator.com/item?id=46466073)
+* [2026-01-02, 15:44:24](https://news.ycombinator.com/item?id=46465866) - [Ask HN: Help with LLVM](https://news.ycombinator.com/item?id=46465866)
 * [2026-01-02, 15:22:59](https://news.ycombinator.com/item?id=46465622) - [Kling Motion Control AI](https://motion-control.io)
 * [2026-01-02, 15:13:03](https://news.ycombinator.com/item?id=46465513) - [Vibe Coding Killed Cursor](https://ischemist.com/writings/long-form/how-vibe-coding-killed-cursor)
 * [2026-01-02, 15:08:52](https://news.ycombinator.com/item?id=46465472) - [Why do Americans hate A.I.?](https://www.nytimes.com/2026/01/02/briefing/why-do-americans-hate-ai.html)
