@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-01-05](index.md)
 
+* [2026-01-05, 13:02:52](https://news.ycombinator.com/item?id=46498309) - [Jensen: 'We've Done Our Country a Great Disservice' by Offshoring](https://www.barchart.com/story/news/36862423/weve-done-our-country-a-great-disservice-by-offshoring-nvidias-jensen-huang-says-we-have-to-create-prosperity-for-all-not-just-phds)
 * [2026-01-05, 11:51:42](https://news.ycombinator.com/item?id=46497712) - [It's hard to justify Tahoe icons](https://tonsky.me/blog/tahoe-icons/)
+* [2026-01-05, 11:32:58](https://news.ycombinator.com/item?id=46497589) - [Cigarette smoke effect using shaders](https://garden.bradwoods.io/notes/javascript/three-js/shaders/shaders-103-smoke)
 * [2026-01-05, 10:23:32](https://news.ycombinator.com/item?id=46497164) - [Anna's Archive Loses .Org Domain After Surprise Suspension](https://torrentfreak.com/annas-archive-loses-org-domain-after-surprise-suspension/)
 * [2026-01-05, 08:29:38](https://news.ycombinator.com/item?id=46496494) - [Decorative Cryptography](https://www.dlp.rip/decorative-cryptography)
 * [2026-01-05, 08:24:06](https://news.ycombinator.com/item?id=46496465) - [Microsoft Office renamed to \"Microsoft 365 Copilot app\"](https://www.office.com)
