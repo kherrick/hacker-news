@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-01-05](index.md)
 
+* [2026-01-05, 21:05:50](https://news.ycombinator.com/item?id=46504963) - [There Were BGP Anomalies During the Venezuela Blackout](https://loworbitsecurity.com/radar/radar16/)
 * [2026-01-05, 19:41:00](https://news.ycombinator.com/item?id=46503685) - [O-Ring Automation](https://www.nber.org/papers/w34639)
 * [2026-01-05, 19:32:09](https://news.ycombinator.com/item?id=46503554) - [Novo Nordisk launches Wegovy weight-loss pill in US, triggering price war](https://www.theguardian.com/business/2026/jan/05/novo-nordisk-launches-wegovy-weight-loss-pill-us-price-war)
 * [2026-01-05, 19:23:56](https://news.ycombinator.com/item?id=46503439) - [Refactoring – Not on the Backlog (2014)](https://ronjeffries.com/xprog/articles/refactoring-not-on-the-backlog/)

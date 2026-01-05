@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-01-05, 21:05:50](https://news.ycombinator.com/item?id=46504963) - [There Were BGP Anomalies During the Venezuela Blackout](https://loworbitsecurity.com/radar/radar16/)
 * [2026-01-05, 19:41:00](https://news.ycombinator.com/item?id=46503685) - [O-Ring Automation](https://www.nber.org/papers/w34639)
 * [2026-01-05, 19:23:56](https://news.ycombinator.com/item?id=46503439) - [Refactoring – Not on the backlog (2014)](https://ronjeffries.com/xprog/articles/refactoring-not-on-the-backlog/)
 * [2026-01-05, 19:07:35](https://news.ycombinator.com/item?id=46503199) - [X blames users for Grok-generated CSAM; no fixes announced](https://arstechnica.com/tech-policy/2026/01/x-blames-users-for-grok-generated-csam-no-fixes-announced/)
@@ -21,7 +22,6 @@
 * [2026-01-05, 13:45:50](https://news.ycombinator.com/item?id=46498658) - [Singularity Rootkit: SELinux bypass and netlink filter (ss/conntrack hidden)](https://github.com/MatheuZSecurity/Singularity)
 * [2026-01-05, 11:51:42](https://news.ycombinator.com/item?id=46497712) - [It's hard to justify Tahoe icons](https://tonsky.me/blog/tahoe-icons/)
 * [2026-01-05, 10:23:32](https://news.ycombinator.com/item?id=46497164) - [Anna's Archive loses .org domain after surprise suspension](https://torrentfreak.com/annas-archive-loses-org-domain-after-surprise-suspension/)
-* [2026-01-05, 08:29:38](https://news.ycombinator.com/item?id=46496494) - [Decorative Cryptography](https://www.dlp.rip/decorative-cryptography)
 * [2026-01-05, 07:14:30](https://news.ycombinator.com/item?id=46496103) - [Databases in 2025: A Year in Review](https://www.cs.cmu.edu/~pavlo/blog/2026/01/2025-databases-retrospective.html)
 * [2026-01-05, 07:06:22](https://news.ycombinator.com/item?id=46496054) - [A spider web unlike any seen before](https://www.nytimes.com/2025/11/08/science/biggest-spiderweb-sulfur-cave.html)
 * [2026-01-02, 15:56:14](https://news.ycombinator.com/item?id=46466027) - [Try to take my position: The best promotion advice I ever got](https://andrew.grahamyooll.com/blog/Try-to-Take-My-Position/)
