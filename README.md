@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-01-05, 10:23:32](https://news.ycombinator.com/item?id=46497164) - [Anna's Archive Loses .Org Domain After Surprise Suspension](https://torrentfreak.com/annas-archive-loses-org-domain-after-surprise-suspension/)
 * [2026-01-05, 08:29:38](https://news.ycombinator.com/item?id=46496494) - [Decorative Cryptography](https://www.dlp.rip/decorative-cryptography)
 * [2026-01-05, 07:14:30](https://news.ycombinator.com/item?id=46496103) - [Databases in 2025: A Year in Review](https://www.cs.cmu.edu/~pavlo/blog/2026/01/2025-databases-retrospective.html)
 * [2026-01-05, 07:06:22](https://news.ycombinator.com/item?id=46496054) - [A spider web unlike any seen before](https://www.nytimes.com/2025/11/08/science/biggest-spiderweb-sulfur-cave.html)
@@ -13,7 +14,6 @@
 * [2026-01-04, 19:24:47](https://news.ycombinator.com/item?id=46491244) - [Agentic Patterns](https://github.com/nibzard/awesome-agentic-patterns)
 * [2026-01-04, 17:50:04](https://news.ycombinator.com/item?id=46490323) - [Ripple, a puzzle game about 2nd and 3rd order effects](https://ripplegame.app/)
 * [2026-01-04, 15:23:54](https://news.ycombinator.com/item?id=46488819) - [Lessons from 14 years at Google](https://addyosmani.com/blog/21-lessons/)
-* [2026-01-04, 15:13:18](https://news.ycombinator.com/item?id=46488711) - [Anti-aging injection regrows knee cartilage and prevents arthritis](https://scitechdaily.com/anti-aging-injection-regrows-knee-cartilage-and-prevents-arthritis/)
 * [2026-01-04, 15:08:02](https://news.ycombinator.com/item?id=46488654) - [Show HN: An interactive guide to how browsers work](https://howbrowserswork.com/)
 * [2026-01-04, 15:00:18](https://news.ycombinator.com/item?id=46488576) - [Web development is fun again](https://ma.ttias.be/web-development-is-fun-again/)
 * [2026-01-04, 14:37:58](https://news.ycombinator.com/item?id=46488355) - [The unbearable joy of sitting alone in a café](https://candost.blog/the-unbearable-joy-of-sitting-alone-in-a-cafe/)
@@ -26,8 +26,8 @@
 * [2026-01-01, 15:27:28](https://news.ycombinator.com/item?id=46454824) - [Why Microsoft Store Discontinued Support for Office Apps](https://www.bgr.com/2027774/why-microsoft-store-discontinued-office-support/)
 * [2026-01-01, 13:48:27](https://news.ycombinator.com/item?id=46454085) - [Logos Language Guide: Compile English to Rust](https://logicaffeine.com/guide)
 * [2025-12-31, 21:06:16](https://news.ycombinator.com/item?id=46448356) - [Baffling purple honey found only in North Carolina](https://www.bbc.com/travel/article/20250417-the-baffling-purple-honey-found-only-in-north-carolina)
+* [2025-12-31, 16:12:20](https://news.ycombinator.com/item?id=46445412) - [Show HN: Circuit Artist – Circuit simulator with propagation animation, rewind](https://github.com/lets-all-be-stupid-forever/circuit-artist)
 * [2025-12-31, 07:57:53](https://news.ycombinator.com/item?id=46442282) - [Linear Address Spaces: Unsafe at any speed (2022)](https://queue.acm.org/detail.cfm?id=3534854)
-* [2025-12-31, 03:35:58](https://news.ycombinator.com/item?id=46440997) - [The Showa Hundred Year Problem](https://www.dampfkraft.com/showa-100.html)
 * [2025-12-31, 01:10:05](https://news.ycombinator.com/item?id=46440188) - [How to translate a ROM: The mysteries of the game cartridge [video]](https://www.youtube.com/watch?v=XDg73E1n5-g)
 * [2025-12-30, 18:22:56](https://news.ycombinator.com/item?id=46436279) - [Bison return to Illinois' Kane County after 200 years](https://phys.org/news/2025-12-bison-illinois-kane-county-years.html)
 
