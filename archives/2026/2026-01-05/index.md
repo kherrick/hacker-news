@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-01-05](index.md)
 
+* [2026-01-05, 21:06:13](https://news.ycombinator.com/item?id=46504966) - [Boston Dynamics and Google DeepMind Form New AI Partnership](https://bostondynamics.com/blog/boston-dynamics-google-deepmind-form-new-ai-partnership/)
 * [2026-01-05, 21:05:50](https://news.ycombinator.com/item?id=46504963) - [There Were BGP Anomalies During the Venezuela Blackout](https://loworbitsecurity.com/radar/radar16/)
+* [2026-01-05, 20:13:03](https://news.ycombinator.com/item?id=46504198) - [A Year of Clean Energy Milestones](https://e360.yale.edu/digest/2025-energy-review)
 * [2026-01-05, 19:41:00](https://news.ycombinator.com/item?id=46503685) - [O-Ring Automation](https://www.nber.org/papers/w34639)
 * [2026-01-05, 19:32:09](https://news.ycombinator.com/item?id=46503554) - [Novo Nordisk launches Wegovy weight-loss pill in US, triggering price war](https://www.theguardian.com/business/2026/jan/05/novo-nordisk-launches-wegovy-weight-loss-pill-us-price-war)
 * [2026-01-05, 19:23:56](https://news.ycombinator.com/item?id=46503439) - [Refactoring – Not on the Backlog (2014)](https://ronjeffries.com/xprog/articles/refactoring-not-on-the-backlog/)
@@ -19,6 +21,7 @@
 * [2026-01-05, 17:46:51](https://news.ycombinator.com/item?id=46502051) - [Show HN: Open-Source 8-Ch BCI Board (ESP32 and ADS1299 and OpenBCI GUI)](https://github.com/Cerelog-ESP-EEG/ESP-EEG)
 * [2026-01-05, 17:41:17](https://news.ycombinator.com/item?id=46501987) - [Calibrating My Turtle](https://clabs.org/blog/CalibratingMyTurtle)
 * [2026-01-05, 17:40:19](https://news.ycombinator.com/item?id=46501975) - [A Web Developer Posted a Payment Shaming Message on Their Client's Site](https://joseph-smith.co.uk/)
+* [2026-01-05, 17:34:33](https://news.ycombinator.com/item?id=46501894) - [Brave overhauled its Rust adblock engine with FlatBuffers, cutting memory 75%](https://brave.com/privacy-updates/36-adblock-memory-reduction/)
 * [2026-01-05, 17:25:16](https://news.ycombinator.com/item?id=46501758) - [Show HN: Agentastic.dev is Ghostty and Git worktrees = multi-agent CC/Codex IDE](https://www.agentastic.dev/index)
 * [2026-01-05, 17:20:01](https://news.ycombinator.com/item?id=46501677) - [How Y Combinator made it smart to trust founders](https://elbowgreasegames.substack.com/p/when-good-actors-can-trust-each-other)
 * [2026-01-05, 17:19:35](https://news.ycombinator.com/item?id=46501667) - [The last supported version of HP-UX is no more](https://www.theregister.com/2026/01/05/hpux_end_of_life/)
