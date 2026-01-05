@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-01-05, 22:10:15](https://news.ycombinator.com/item?id=46505735) - [Why Didn't AI \"Join the Workforce\" in 2025?](https://calnewport.com/why-didnt-ai-join-the-workforce-in-2025/)
+* [2026-01-05, 22:10:15](https://news.ycombinator.com/item?id=46505735) - [Why didn't AI \"join the workforce\" in 2025?](https://calnewport.com/why-didnt-ai-join-the-workforce-in-2025/)
 * [2026-01-05, 21:52:22](https://news.ycombinator.com/item?id=46505518) - [Google broke my heart](https://perishablepress.com/google-broke-my-heart/)
 * [2026-01-05, 21:06:13](https://news.ycombinator.com/item?id=46504966) - [Boston Dynamics and DeepMind form new AI partnership](https://bostondynamics.com/blog/boston-dynamics-google-deepmind-form-new-ai-partnership/)
 * [2026-01-05, 21:05:50](https://news.ycombinator.com/item?id=46504963) - [There were BGP anomalies during the Venezuela blackout](https://loworbitsecurity.com/radar/radar16/)
@@ -22,8 +22,8 @@
 * [2026-01-05, 13:45:50](https://news.ycombinator.com/item?id=46498658) - [Singularity Rootkit: SELinux bypass and netlink filter (ss/conntrack hidden)](https://github.com/MatheuZSecurity/Singularity)
 * [2026-01-05, 11:51:42](https://news.ycombinator.com/item?id=46497712) - [It's hard to justify Tahoe icons](https://tonsky.me/blog/tahoe-icons/)
 * [2026-01-05, 07:14:30](https://news.ycombinator.com/item?id=46496103) - [Databases in 2025: A Year in Review](https://www.cs.cmu.edu/~pavlo/blog/2026/01/2025-databases-retrospective.html)
-* [2026-01-03, 14:50:58](https://news.ycombinator.com/item?id=46477305) - [Zeit v1](https://xn--gckvb8fzb.com/zeit-v1/)
 * [2026-01-03, 02:04:29](https://news.ycombinator.com/item?id=46472040) - [The Kimwolf botnet is stalking your local network](https://krebsonsecurity.com/2026/01/the-kimwolf-botnet-is-stalking-your-local-network/)
+* [2026-01-02, 22:53:53](https://news.ycombinator.com/item?id=46470513) - [The Lottery Ticket Hypothesis: finding sparse trainable NNs with 90% less params](https://arxiv.org/abs/1803.03635)
 * [2026-01-02, 15:56:14](https://news.ycombinator.com/item?id=46466027) - [Try to take my position: The best promotion advice I ever got](https://andrew.grahamyooll.com/blog/Try-to-Take-My-Position/)
 * [2026-01-02, 15:10:53](https://news.ycombinator.com/item?id=46465493) - [Yearly analytics on my spaced repetition results](https://www.natemeyvis.com/i-did-301432-flashcard-reviews-in-2025/)
 * [2026-01-02, 14:56:28](https://news.ycombinator.com/item?id=46465335) - [Pebble Round 2](https://repebble.com/blog/pebble-round-2-the-most-stylish-pebble-ever)
