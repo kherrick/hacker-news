@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2026-01-05, 22:28:46](https://news.ycombinator.com/item?id=46505975) - [Worlds's first all-solid-state battery ready to power up production vehicles now](https://www.donutlab.com/ces-battery-announcement/)
-* [2026-01-05, 22:10:15](https://news.ycombinator.com/item?id=46505735) - [Why didn't AI \"join the workforce\" in 2025?](https://calnewport.com/why-didnt-ai-join-the-workforce-in-2025/)
 * [2026-01-05, 22:03:52](https://news.ycombinator.com/item?id=46505661) - [Migrating cells and the new science of microchimerism](https://www.nature.com/articles/d41586-025-04102-4)
 * [2026-01-05, 21:52:22](https://news.ycombinator.com/item?id=46505518) - [Google broke my heart](https://perishablepress.com/google-broke-my-heart/)
 * [2026-01-05, 21:38:22](https://news.ycombinator.com/item?id=46505352) - [Keeping Syria connected during war: Surviving ISIS and Intelligence](https://syriauntold.com/2025/12/27/keeping-syria-connected-during-war/)
@@ -30,6 +29,7 @@
 * [2026-01-02, 14:56:28](https://news.ycombinator.com/item?id=46465335) - [Pebble Round 2](https://repebble.com/blog/pebble-round-2-the-most-stylish-pebble-ever)
 * [2026-01-01, 22:36:50](https://news.ycombinator.com/item?id=46458936) - [Welcome to Gas Town](https://steve-yegge.medium.com/welcome-to-gas-town-4f25ee16dd04)
 * [2025-12-31, 04:07:00](https://news.ycombinator.com/item?id=46441154) - [Selective Applicative Functors](https://blog.veritates.love/selective_applicatives_theoretical_basis.html)
+* [2025-12-29, 21:08:41](https://news.ycombinator.com/item?id=46425716) - [n8n-Oidc](https://cweagans.net/2025/12/announcing-n8n-oidc/)
 
 ## [Archives](archives/index.md)
 
