@@ -41,6 +41,7 @@
 * [2025-12-31, 13:59:09](https://news.ycombinator.com/item?id=46444076) - [Efficient method to capture CO2 from the atmosphere / Univ of Helsinki](https://www.helsinki.fi/en/news/innovations/efficient-method-capture-carbon-dioxide-atmosphere-developed-university-helsinki)
 * [2025-12-31, 13:50:41](https://news.ycombinator.com/item?id=46444020) - [AI Labs Are Solving the Power Problem](https://newsletter.semianalysis.com/p/how-ai-labs-are-solving-the-power)
 * [2025-12-31, 13:44:41](https://news.ycombinator.com/item?id=46443988) - [When square pixels aren't square](https://alexwlchan.net/2025/square-pixels/)
+* [2025-12-31, 13:22:07](https://news.ycombinator.com/item?id=46443861) - [LLMRouter: An Open-Source Library for LLM Routing](https://github.com/ulab-uiuc/LLMRouter)
 * [2025-12-31, 13:07:22](https://news.ycombinator.com/item?id=46443767) - [Claude wrote a functional NES emulator using my engine's API](https://carimbo.games/games/nintendo/)
 * [2025-12-31, 13:02:48](https://news.ycombinator.com/item?id=46443744) - [Tell HN: Happy New Year](https://news.ycombinator.com/item?id=46443744)
 * [2025-12-31, 13:00:42](https://news.ycombinator.com/item?id=46443730) - [A Beginner's Two-Component Crystal-Style Wi-Fi Detector](https://siliconjunction.wordpress.com/2025/12/12/a-beginners-two-component-crystal-style-wi-fi-detector/)
