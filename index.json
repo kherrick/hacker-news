@@ -181,16 +181,6 @@
   ],
   [
     [
-      "2026-01-04, 14:08:08",
-      "https://news.ycombinator.com/item?id=46488101"
-    ],
-    [
-      "Using Hinge as a Command and Control Server",
-      "https://mattwie.se/hinge-command-control-c2"
-    ]
-  ],
-  [
-    [
       "2026-01-04, 12:54:20",
       "https://news.ycombinator.com/item?id=46487472"
     ],
@@ -227,6 +217,16 @@
     [
       "Six Harmless Bugs Lead to Remote Code Execution",
       "https://mehmetince.net/the-story-of-a-perfect-exploit-chain-six-bugs-that-looked-harmless-until-they-became-pre-auth-rce-in-a-security-appliance/"
+    ]
+  ],
+  [
+    [
+      "2026-01-01, 13:48:27",
+      "https://news.ycombinator.com/item?id=46454085"
+    ],
+    [
+      "Logos Language Guide: Compile English to Rust",
+      "https://logicaffeine.com/guide"
     ]
   ],
   [
