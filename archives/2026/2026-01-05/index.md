@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-01-05](index.md)
 
+* [2026-01-05, 19:23:56](https://news.ycombinator.com/item?id=46503439) - [Refactoring – Not on the Backlog (2014)](https://ronjeffries.com/xprog/articles/refactoring-not-on-the-backlog/)
+* [2026-01-05, 18:52:48](https://news.ycombinator.com/item?id=46502962) - [The College Backlash Is a Mirage](https://www.theatlantic.com/ideas/2026/01/college-degree-value-enrollment/685384/)
 * [2026-01-05, 17:46:51](https://news.ycombinator.com/item?id=46502051) - [Show HN: Open-Source 8-Ch BCI Board (ESP32 and ADS1299 and OpenBCI GUI)](https://github.com/Cerelog-ESP-EEG/ESP-EEG)
 * [2026-01-05, 17:41:17](https://news.ycombinator.com/item?id=46501987) - [Calibrating My Turtle](https://clabs.org/blog/CalibratingMyTurtle)
 * [2026-01-05, 17:40:19](https://news.ycombinator.com/item?id=46501975) - [A Web Developer Posted a Payment Shaming Message on Their Client's Site](https://joseph-smith.co.uk/)
