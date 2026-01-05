@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-01-05](index.md)
 
+* [2026-01-05, 19:41:00](https://news.ycombinator.com/item?id=46503685) - [O-Ring Automation](https://www.nber.org/papers/w34639)
 * [2026-01-05, 19:32:09](https://news.ycombinator.com/item?id=46503554) - [Novo Nordisk launches Wegovy weight-loss pill in US, triggering price war](https://www.theguardian.com/business/2026/jan/05/novo-nordisk-launches-wegovy-weight-loss-pill-us-price-war)
 * [2026-01-05, 19:23:56](https://news.ycombinator.com/item?id=46503439) - [Refactoring – Not on the Backlog (2014)](https://ronjeffries.com/xprog/articles/refactoring-not-on-the-backlog/)
 * [2026-01-05, 19:07:35](https://news.ycombinator.com/item?id=46503199) - [X blames users for Grok-generated CSAM; no fixes announced](https://arstechnica.com/tech-policy/2026/01/x-blames-users-for-grok-generated-csam-no-fixes-announced/)
