@@ -21,22 +21,32 @@
   ],
   [
     [
-      "2026-01-05, 17:40:19",
-      "https://news.ycombinator.com/item?id=46501975"
-    ],
-    [
-      "A Web Developer Posted a Payment Shaming Message on Their Client's Site",
-      "https://joseph-smith.co.uk/"
-    ]
-  ],
-  [
-    [
       "2026-01-05, 17:20:01",
       "https://news.ycombinator.com/item?id=46501677"
     ],
     [
       "How Y Combinator made it smart to trust founders",
       "https://elbowgreasegames.substack.com/p/when-good-actors-can-trust-each-other"
+    ]
+  ],
+  [
+    [
+      "2026-01-05, 17:19:35",
+      "https://news.ycombinator.com/item?id=46501667"
+    ],
+    [
+      "The last supported version of HP-UX is no more",
+      "https://www.theregister.com/2026/01/05/hpux_end_of_life/"
+    ]
+  ],
+  [
+    [
+      "2026-01-05, 17:19:33",
+      "https://news.ycombinator.com/item?id=46501665"
+    ],
+    [
+      "So, you want to chunk really fast?",
+      "https://minha.sh/posts/so,-you-want-to-chunk-really-fast"
     ]
   ],
   [
@@ -51,12 +61,22 @@
   ],
   [
     [
-      "2026-01-05, 16:29:38",
-      "https://news.ycombinator.com/item?id=46500806"
+      "2026-01-05, 16:34:22",
+      "https://news.ycombinator.com/item?id=46500900"
     ],
     [
-      "Anyone building software for wearable tech?",
-      "https://news.ycombinator.com/item?id=46500806"
+      "Observability's past, present, and future",
+      "https://blog.sherwoodcallaway.com/observability-s-past-present-and-future/"
+    ]
+  ],
+  [
+    [
+      "2026-01-05, 16:11:44",
+      "https://news.ycombinator.com/item?id=46500510"
+    ],
+    [
+      "Sandboxing Untrusted Python",
+      "https://gist.github.com/mavdol/2c68acb408686f1e038bf89e5705b28c"
     ]
   ],
   [
@@ -111,12 +131,12 @@
   ],
   [
     [
-      "2026-01-05, 13:52:17",
-      "https://news.ycombinator.com/item?id=46498735"
+      "2026-01-05, 13:46:12",
+      "https://news.ycombinator.com/item?id=46498662"
     ],
     [
-      "I switched from VSCode to Zed",
-      "https://tenthousandmeters.com/blog/i-switched-from-vscode-to-zed/"
+      "Imagine 130M Washing Machines",
+      "https://scottsumner.substack.com/p/imagine-130000000-washing-machines"
     ]
   ],
   [
@@ -181,6 +201,16 @@
   ],
   [
     [
+      "2026-01-05, 09:07:50",
+      "https://news.ycombinator.com/item?id=46496718"
+    ],
+    [
+      "How Twitch tamed a million lines of TypeScript",
+      "https://www.joshribakoff.com/blog/lint-snapshots/"
+    ]
+  ],
+  [
+    [
       "2026-01-05, 08:29:38",
       "https://news.ycombinator.com/item?id=46496494"
     ],
@@ -211,26 +241,6 @@
   ],
   [
     [
-      "2026-01-04, 20:17:22",
-      "https://news.ycombinator.com/item?id=46491749"
-    ],
-    [
-      "Show HN: Terminal UI for AWS",
-      "https://github.com/huseyinbabal/taws"
-    ]
-  ],
-  [
-    [
-      "2026-01-04, 19:48:20",
-      "https://news.ycombinator.com/item?id=46491486"
-    ],
-    [
-      "Claude Code On-the-Go",
-      "https://granda.org/en/2026/01/02/claude-code-on-the-go/"
-    ]
-  ],
-  [
-    [
       "2026-01-04, 15:23:54",
       "https://news.ycombinator.com/item?id=46488819"
     ],
@@ -241,42 +251,22 @@
   ],
   [
     [
-      "2026-01-04, 14:37:58",
-      "https://news.ycombinator.com/item?id=46488355"
+      "2026-01-01, 14:41:00",
+      "https://news.ycombinator.com/item?id=46454488"
     ],
     [
-      "The unbearable joy of sitting alone in a café",
-      "https://candost.blog/the-unbearable-joy-of-sitting-alone-in-a-cafe/"
+      "Darwin the Man of His Times",
+      "https://aethermug.com/posts/darwin-the-man-of-his-times"
     ]
   ],
   [
     [
-      "2026-01-03, 04:53:20",
-      "https://news.ycombinator.com/item?id=46472930"
+      "2026-01-01, 14:07:36",
+      "https://news.ycombinator.com/item?id=46454232"
     ],
     [
-      "Revisiting the original Roomba and its simple architecture",
-      "https://robotsinplainenglish.com/e/2025-12-27-roomba.html"
-    ]
-  ],
-  [
-    [
-      "2026-01-01, 09:42:02",
-      "https://news.ycombinator.com/item?id=46452696"
-    ],
-    [
-      "Scientists Uncover the Universal Geometry of Geology (2020)",
-      "https://www.quantamagazine.org/scientists-uncover-the-universal-geometry-of-geology-20201119/"
-    ]
-  ],
-  [
-    [
-      "2025-12-31, 20:12:25",
-      "https://news.ycombinator.com/item?id=46447810"
-    ],
-    [
-      "3Duino helps you rapidly create interactive 3D-printed devices",
-      "https://blog.arduino.cc/2025/12/03/3duino-helps-you-rapidly-create-interactive-3d-printed-devices/"
+      "Show HN: Unicode cursive font generator that checks cross-platform compatibility",
+      "https://www.cursivefontgenerator.info"
     ]
   ],
   [
@@ -287,6 +277,16 @@
     [
       "Show HN: Circuit Artist – Circuit simulator with propagation animation, rewind",
       "https://github.com/lets-all-be-stupid-forever/circuit-artist"
+    ]
+  ],
+  [
+    [
+      "2025-12-31, 13:22:07",
+      "https://news.ycombinator.com/item?id=46443861"
+    ],
+    [
+      "LLMRouter: An Open-Source Library for LLM Routing",
+      "https://github.com/ulab-uiuc/LLMRouter"
     ]
   ],
   [
