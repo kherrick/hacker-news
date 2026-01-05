@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2026-01-05](index.md)
 
 * [2026-01-05, 16:30:30](https://news.ycombinator.com/item?id=46500824) - [Over 600 job openings at Apple for Vision Pro](https://jobs.apple.com/en-us/search?search=vision+pro&sort=relevance&location=united-states-USA)
+* [2026-01-05, 16:29:38](https://news.ycombinator.com/item?id=46500806) - [Anyone building software for wearable tech?](https://news.ycombinator.com/item?id=46500806)
 * [2026-01-05, 15:37:38](https://news.ycombinator.com/item?id=46500022) - [CSS sucks because we don't bother learning it (2022)](https://idiallo.com/blog/learn-css)
 * [2026-01-05, 15:34:40](https://news.ycombinator.com/item?id=46499983) - [Murder-suicide case shows OpenAI selectively hides data after users die](https://arstechnica.com/tech-policy/2025/12/openai-refuses-to-say-where-chatgpt-logs-go-when-users-die/)
 * [2026-01-05, 15:34:14](https://news.ycombinator.com/item?id=46499976) - [RevisionDojo, a YC startup, is running astroturfing campaigns targeting kids](https://news.ycombinator.com/item?id=46499976)
