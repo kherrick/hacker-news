@@ -2,6 +2,7 @@
 
 * [2026-01-05, 10:23:32](https://news.ycombinator.com/item?id=46497164) - [Anna's Archive Loses .Org Domain After Surprise Suspension](https://torrentfreak.com/annas-archive-loses-org-domain-after-surprise-suspension/)
 * [2026-01-05, 08:29:38](https://news.ycombinator.com/item?id=46496494) - [Decorative Cryptography](https://www.dlp.rip/decorative-cryptography)
+* [2026-01-05, 08:24:06](https://news.ycombinator.com/item?id=46496465) - [Microsoft Office renamed to \"Microsoft 365 Copilot app\"](https://www.office.com)
 * [2026-01-05, 07:14:30](https://news.ycombinator.com/item?id=46496103) - [Databases in 2025: A Year in Review](https://www.cs.cmu.edu/~pavlo/blog/2026/01/2025-databases-retrospective.html)
 * [2026-01-05, 07:06:22](https://news.ycombinator.com/item?id=46496054) - [A spider web unlike any seen before](https://www.nytimes.com/2025/11/08/science/biggest-spiderweb-sulfur-cave.html)
 * [2026-01-05, 05:11:59](https://news.ycombinator.com/item?id=46495539) - [Building a Rust-style static analyzer for C++ with AI](http://mpaxos.com/blog/rusty-cpp.html)
@@ -29,7 +30,6 @@
 * [2025-12-31, 16:12:20](https://news.ycombinator.com/item?id=46445412) - [Show HN: Circuit Artist – Circuit simulator with propagation animation, rewind](https://github.com/lets-all-be-stupid-forever/circuit-artist)
 * [2025-12-31, 07:57:53](https://news.ycombinator.com/item?id=46442282) - [Linear Address Spaces: Unsafe at any speed (2022)](https://queue.acm.org/detail.cfm?id=3534854)
 * [2025-12-31, 01:10:05](https://news.ycombinator.com/item?id=46440188) - [How to translate a ROM: The mysteries of the game cartridge [video]](https://www.youtube.com/watch?v=XDg73E1n5-g)
-* [2025-12-30, 18:22:56](https://news.ycombinator.com/item?id=46436279) - [Bison return to Illinois' Kane County after 200 years](https://phys.org/news/2025-12-bison-illinois-kane-county-years.html)
 
 ## [Archives](archives/index.md)
 
