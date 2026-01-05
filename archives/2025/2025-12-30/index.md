@@ -39,6 +39,7 @@
 * [2025-12-30, 17:01:59](https://news.ycombinator.com/item?id=46435308) - [Show HN: 22 GB of Hacker News in SQLite](https://hackerbook.dosaygo.com)
 * [2025-12-30, 16:47:37](https://news.ycombinator.com/item?id=46435142) - [Show HN: Replacing my OS process scheduler with an LLM](https://github.com/mprajyothreddy/brainkernel)
 * [2025-12-30, 16:18:23](https://news.ycombinator.com/item?id=46434821) - [Ask HN: Any example of successful vibe-coded product?](https://news.ycombinator.com/item?id=46434821)
+* [2025-12-30, 16:08:15](https://news.ycombinator.com/item?id=46434717) - [What changes when AI memory stops being ephemeral?](https://ryjoxdemo.com/architecture)
 * [2025-12-30, 15:57:01](https://news.ycombinator.com/item?id=46434580) - [Show HN: Tidy Baby is a SET game but with words](https://tidy.baby)
 * [2025-12-30, 15:32:58](https://news.ycombinator.com/item?id=46434301) - [2025 Was Another Exceptionally Hot Year](https://e360.yale.edu/digest/2025-second-hottest-year)
 * [2025-12-30, 15:03:12](https://news.ycombinator.com/item?id=46433967) - [Beating myself at chess](https://log.schemescape.com/posts/diy/beating-myself-at-chess.html)
