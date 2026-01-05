@@ -3,9 +3,8 @@
 * [2026-01-05, 08:29:38](https://news.ycombinator.com/item?id=46496494) - [Decorative Cryptography](https://www.dlp.rip/decorative-cryptography)
 * [2026-01-05, 07:14:30](https://news.ycombinator.com/item?id=46496103) - [Databases in 2025: A Year in Review](https://www.cs.cmu.edu/~pavlo/blog/2026/01/2025-databases-retrospective.html)
 * [2026-01-05, 07:06:22](https://news.ycombinator.com/item?id=46496054) - [A spider web unlike any seen before](https://www.nytimes.com/2025/11/08/science/biggest-spiderweb-sulfur-cave.html)
-* [2026-01-05, 05:16:37](https://news.ycombinator.com/item?id=46495560) - [ICE Is Using Facial-Recognition Technology to Quickly Arrest People](https://www.wsj.com/politics/policy/ice-facial-recognition-app-mobile-fortify-dfdd00bf)
+* [2026-01-05, 05:16:37](https://news.ycombinator.com/item?id=46495560) - [ICE is using facial-recognition technology to quickly arrest people](https://www.wsj.com/politics/policy/ice-facial-recognition-app-mobile-fortify-dfdd00bf)
 * [2026-01-05, 05:11:59](https://news.ycombinator.com/item?id=46495539) - [Building a Rust-style static analyzer for C++ with AI](http://mpaxos.com/blog/rusty-cpp.html)
-* [2026-01-05, 04:00:38](https://news.ycombinator.com/item?id=46495220) - [California residents can now request all data brokers delete personal info](https://consumer.drop.privacy.ca.gov/)
 * [2026-01-05, 02:36:20](https://news.ycombinator.com/item?id=46494734) - [During Helene, I just wanted a plain text website](https://sparkbox.com/foundry/helene_and_mobile_web_performance)
 * [2026-01-05, 00:48:44](https://news.ycombinator.com/item?id=46494061) - [NeXTSTEP on Pa-RISC](https://www.openpa.net/nextstep_pa-risc.html)
 * [2026-01-04, 20:52:52](https://news.ycombinator.com/item?id=46492063) - [Eurostar AI vulnerability: When a chatbot goes off the rails](https://www.pentestpartners.com/security-blog/eurostar-ai-vulnerability-when-a-chatbot-goes-off-the-rails/)
@@ -29,6 +28,7 @@
 * [2026-01-01, 13:48:27](https://news.ycombinator.com/item?id=46454085) - [Logos Language Guide: Compile English to Rust](https://logicaffeine.com/guide)
 * [2025-12-31, 21:06:16](https://news.ycombinator.com/item?id=46448356) - [Baffling purple honey found only in North Carolina](https://www.bbc.com/travel/article/20250417-the-baffling-purple-honey-found-only-in-north-carolina)
 * [2025-12-31, 07:57:53](https://news.ycombinator.com/item?id=46442282) - [Linear Address Spaces: Unsafe at any speed (2022)](https://queue.acm.org/detail.cfm?id=3534854)
+* [2025-12-31, 03:35:58](https://news.ycombinator.com/item?id=46440997) - [The Showa Hundred Year Problem](https://www.dampfkraft.com/showa-100.html)
 * [2025-12-31, 01:10:05](https://news.ycombinator.com/item?id=46440188) - [How to translate a ROM: The mysteries of the game cartridge [video]](https://www.youtube.com/watch?v=XDg73E1n5-g)
 
 ## [Archives](archives/index.md)
