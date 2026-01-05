@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-01-05](index.md)
 
+* [2026-01-05, 17:46:51](https://news.ycombinator.com/item?id=46502051) - [Show HN: Open-Source 8-Ch BCI Board (ESP32 and ADS1299 and OpenBCI GUI)](https://github.com/Cerelog-ESP-EEG/ESP-EEG)
+* [2026-01-05, 17:41:17](https://news.ycombinator.com/item?id=46501987) - [Calibrating My Turtle](https://clabs.org/blog/CalibratingMyTurtle)
+* [2026-01-05, 17:40:19](https://news.ycombinator.com/item?id=46501975) - [A Web Developer Posted a Payment Shaming Message on Their Client's Site](https://joseph-smith.co.uk/)
 * [2026-01-05, 17:20:01](https://news.ycombinator.com/item?id=46501677) - [How Y Combinator made it smart to trust founders](https://elbowgreasegames.substack.com/p/when-good-actors-can-trust-each-other)
 * [2026-01-05, 17:03:48](https://news.ycombinator.com/item?id=46501418) - [The Dawn of the AI Drone](https://www.nytimes.com/2025/12/31/magazine/ukraine-ai-drones-war-russia.html)
 * [2026-01-05, 16:47:23](https://news.ycombinator.com/item?id=46501137) - [Show HN: Tailsnitch – A Security Auditor for Tailscale](https://github.com/Adversis/tailsnitch)
