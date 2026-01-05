@@ -1,12 +1,32 @@
 [
   [
     [
+      "2026-01-05, 21:06:13",
+      "https://news.ycombinator.com/item?id=46504966"
+    ],
+    [
+      "Boston Dynamics and Google DeepMind Form New AI Partnership",
+      "https://bostondynamics.com/blog/boston-dynamics-google-deepmind-form-new-ai-partnership/"
+    ]
+  ],
+  [
+    [
       "2026-01-05, 21:05:50",
       "https://news.ycombinator.com/item?id=46504963"
     ],
     [
-      "There Were BGP Anomalies During the Venezuela Blackout",
+      "There were BGP anomalies during the Venezuela blackout",
       "https://loworbitsecurity.com/radar/radar16/"
+    ]
+  ],
+  [
+    [
+      "2026-01-05, 20:13:03",
+      "https://news.ycombinator.com/item?id=46504198"
+    ],
+    [
+      "A Year of Clean Energy Milestones",
+      "https://e360.yale.edu/digest/2025-energy-review"
     ]
   ],
   [
@@ -71,16 +91,6 @@
   ],
   [
     [
-      "2026-01-05, 18:30:29",
-      "https://news.ycombinator.com/item?id=46502665"
-    ],
-    [
-      "Show HN: WOLS – Open standard for mushroom cultivation tracking",
-      "https://github.com/wemush/open-standard"
-    ]
-  ],
-  [
-    [
       "2026-01-05, 18:29:28",
       "https://news.ycombinator.com/item?id=46502652"
     ],
@@ -111,6 +121,16 @@
   ],
   [
     [
+      "2026-01-05, 17:34:33",
+      "https://news.ycombinator.com/item?id=46501894"
+    ],
+    [
+      "Brave overhauled its Rust adblock engine with FlatBuffers, cutting memory 75%",
+      "https://brave.com/privacy-updates/36-adblock-memory-reduction/"
+    ]
+  ],
+  [
+    [
       "2026-01-05, 17:20:01",
       "https://news.ycombinator.com/item?id=46501677"
     ],
@@ -137,26 +157,6 @@
     [
       "Show HN: Tailsnitch – A security auditor for Tailscale",
       "https://github.com/Adversis/tailsnitch"
-    ]
-  ],
-  [
-    [
-      "2026-01-05, 16:34:22",
-      "https://news.ycombinator.com/item?id=46500900"
-    ],
-    [
-      "Observability's past, present, and future",
-      "https://blog.sherwoodcallaway.com/observability-s-past-present-and-future/"
-    ]
-  ],
-  [
-    [
-      "2026-01-05, 16:11:44",
-      "https://news.ycombinator.com/item?id=46500510"
-    ],
-    [
-      "Sandboxing Untrusted Python",
-      "https://gist.github.com/mavdol/2c68acb408686f1e038bf89e5705b28c"
     ]
   ],
   [
@@ -211,16 +211,6 @@
   ],
   [
     [
-      "2026-01-05, 10:23:32",
-      "https://news.ycombinator.com/item?id=46497164"
-    ],
-    [
-      "Anna's Archive loses .org domain after surprise suspension",
-      "https://torrentfreak.com/annas-archive-loses-org-domain-after-surprise-suspension/"
-    ]
-  ],
-  [
-    [
       "2026-01-05, 07:14:30",
       "https://news.ycombinator.com/item?id=46496103"
     ],
@@ -237,6 +227,16 @@
     [
       "A spider web unlike any seen before",
       "https://www.nytimes.com/2025/11/08/science/biggest-spiderweb-sulfur-cave.html"
+    ]
+  ],
+  [
+    [
+      "2026-01-03, 14:50:58",
+      "https://news.ycombinator.com/item?id=46477305"
+    ],
+    [
+      "Zeit v1",
+      "https://xn--gckvb8fzb.com/zeit-v1/"
     ]
   ],
   [
