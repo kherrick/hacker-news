@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-01-05, 19:41:00",
+      "https://news.ycombinator.com/item?id=46503685"
+    ],
+    [
+      "O-Ring Automation",
+      "https://www.nber.org/papers/w34639"
+    ]
+  ],
+  [
+    [
       "2026-01-05, 19:32:09",
       "https://news.ycombinator.com/item?id=46503554"
     ],
@@ -15,7 +25,7 @@
       "https://news.ycombinator.com/item?id=46503439"
     ],
     [
-      "Refactoring – Not on the Backlog (2014)",
+      "Refactoring – Not on the backlog (2014)",
       "https://ronjeffries.com/xprog/articles/refactoring-not-on-the-backlog/"
     ]
   ],
@@ -75,7 +85,7 @@
       "https://news.ycombinator.com/item?id=46502239"
     ],
     [
-      "Sega co-founder David Rosen dies aged 95",
+      "Sega co-founder David Rosen has died",
       "https://www.theguardian.com/games/2026/jan/05/sega-co-founder-david-rosen-dies"
     ]
   ],
@@ -115,7 +125,7 @@
       "https://news.ycombinator.com/item?id=46501137"
     ],
     [
-      "Show HN: Tailsnitch – A Security Auditor for Tailscale",
+      "Show HN: Tailsnitch – A security auditor for Tailscale",
       "https://github.com/Adversis/tailsnitch"
     ]
   ],
@@ -181,32 +191,12 @@
   ],
   [
     [
-      "2026-01-05, 13:44:59",
-      "https://news.ycombinator.com/item?id=46498651"
-    ],
-    [
-      "All AI Videos Are Harmful (2025)",
-      "https://idiallo.com/blog/all-ai-videos-are-harmful"
-    ]
-  ],
-  [
-    [
       "2026-01-05, 11:51:42",
       "https://news.ycombinator.com/item?id=46497712"
     ],
     [
       "It's hard to justify Tahoe icons",
       "https://tonsky.me/blog/tahoe-icons/"
-    ]
-  ],
-  [
-    [
-      "2026-01-05, 11:32:58",
-      "https://news.ycombinator.com/item?id=46497589"
-    ],
-    [
-      "Cigarette smoke effect using shaders",
-      "https://garden.bradwoods.io/notes/javascript/three-js/shaders/shaders-103-smoke"
     ]
   ],
   [
@@ -255,7 +245,7 @@
       "https://news.ycombinator.com/item?id=46466027"
     ],
     [
-      "Try to Take My Position: The Best Promotion Advice I Ever Got",
+      "Try to take my position: The best promotion advice I ever got",
       "https://andrew.grahamyooll.com/blog/Try-to-Take-My-Position/"
     ]
   ],
@@ -287,6 +277,16 @@
     [
       "LLMRouter: An Open-Source Library for LLM Routing",
       "https://github.com/ulab-uiuc/LLMRouter"
+    ]
+  ],
+  [
+    [
+      "2025-12-30, 19:17:41",
+      "https://news.ycombinator.com/item?id=46436857"
+    ],
+    [
+      "5 Years, 12 Pivots",
+      "https://boundaryml.com/blog/5-years-12-pivots"
     ]
   ],
   [
