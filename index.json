@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-01-05, 07:06:22",
+      "https://news.ycombinator.com/item?id=46496054"
+    ],
+    [
+      "A spider web unlike any seen before (2025)",
+      "https://www.nytimes.com/2025/11/08/science/biggest-spiderweb-sulfur-cave.html"
+    ]
+  ],
+  [
+    [
       "2026-01-05, 05:16:37",
       "https://news.ycombinator.com/item?id=46495560"
     ],
@@ -57,16 +67,6 @@
     [
       "Millennium Challenge: A corrupted military exercise and its legacy (2015)",
       "https://warontherocks.com/2015/11/millennium-challenge-the-real-story-of-a-corrupted-military-exercise-and-its-legacy/"
-    ]
-  ],
-  [
-    [
-      "2026-01-04, 21:43:26",
-      "https://news.ycombinator.com/item?id=46492601"
-    ],
-    [
-      "Show HN: An LLM-Powered PCB Schematic Checker (Major Update)",
-      "https://traceformer.io/"
     ]
   ],
   [
@@ -221,6 +221,16 @@
   ],
   [
     [
+      "2026-01-01, 18:45:02",
+      "https://news.ycombinator.com/item?id=46456787"
+    ],
+    [
+      "Monads in C# (Part 2): Result",
+      "https://alexyorke.github.io/2025/09/13/monads-in-c-sharp-part-2-result/"
+    ]
+  ],
+  [
+    [
       "2026-01-01, 13:48:27",
       "https://news.ycombinator.com/item?id=46454085"
     ],
@@ -245,7 +255,7 @@
       "https://news.ycombinator.com/item?id=46448356"
     ],
     [
-      "The baffling purple honey found only in North Carolina",
+      "Baffling purple honey found only in North Carolina",
       "https://www.bbc.com/travel/article/20250417-the-baffling-purple-honey-found-only-in-north-carolina"
     ]
   ],
@@ -271,32 +281,22 @@
   ],
   [
     [
+      "2025-12-31, 01:10:05",
+      "https://news.ycombinator.com/item?id=46440188"
+    ],
+    [
+      "How to translate a ROM: The mysteries of the game cartridge [video]",
+      "https://www.youtube.com/watch?v=XDg73E1n5-g"
+    ]
+  ],
+  [
+    [
       "2025-12-30, 18:22:56",
       "https://news.ycombinator.com/item?id=46436279"
     ],
     [
       "Bison return to Illinois' Kane County after 200 years",
       "https://phys.org/news/2025-12-bison-illinois-kane-county-years.html"
-    ]
-  ],
-  [
-    [
-      "2025-12-30, 16:08:15",
-      "https://news.ycombinator.com/item?id=46434717"
-    ],
-    [
-      "What changes when AI memory stops being ephemeral?",
-      "https://ryjoxdemo.com/architecture"
-    ]
-  ],
-  [
-    [
-      "2025-12-29, 16:57:11",
-      "https://news.ycombinator.com/item?id=46422574"
-    ],
-    [
-      "The year of the 3D printed miniature and other lies we tell ourselves",
-      "https://matduggan.com/the-year-of-the-3d-printed-miniature-and-other-lies-we-tell-ourselves/"
     ]
   ]
 ]
