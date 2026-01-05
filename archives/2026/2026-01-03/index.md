@@ -54,6 +54,7 @@
 * [2026-01-03, 04:22:29](https://news.ycombinator.com/item?id=46472772) - [Show HN: uvx ptn, scan a QR, get a terminal in your phone](https://github.com/lyehe/porterminal)
 * [2026-01-03, 04:01:03](https://news.ycombinator.com/item?id=46472667) - [IQuest-Coder: A new open-source code model beats Claude Sonnet 4.5 and GPT 5.1 [pdf]](https://github.com/IQuestLab/IQuest-Coder-V1/blob/main/papers/IQuest_Coder_Technical_Report.pdf)
 * [2026-01-03, 02:38:06](https://news.ycombinator.com/item?id=46472230) - [Adventure 751 (1980)](https://bluerenga.blog/2026/01/01/adventure-751-1980/)
+* [2026-01-03, 02:04:29](https://news.ycombinator.com/item?id=46472040) - [The Kimwolf botnet is stalking your local network](https://krebsonsecurity.com/2026/01/the-kimwolf-botnet-is-stalking-your-local-network/)
 * [2026-01-03, 01:29:09](https://news.ycombinator.com/item?id=46471784) - [Einstein Probe detects an X-ray flare from nearby star](https://phys.org/news/2025-12-einstein-probe-ray-flare-nearby.html)
 * [2026-01-03, 01:18:07](https://news.ycombinator.com/item?id=46471712) - [A Basic Just-In-Time Compiler (2015)](https://nullprogram.com/blog/2015/03/19/)
 * [2026-01-03, 01:15:54](https://news.ycombinator.com/item?id=46471699) - [Proving Liveness with TLA](https://roscidus.com/blog/blog/2026/01/01/tla-liveness/)

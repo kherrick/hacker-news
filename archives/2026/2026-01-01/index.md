@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2026-01-01](index.md)
 
 * [2026-01-01, 23:33:09](https://news.ycombinator.com/item?id=46459425) - [Why Prefer Textfiles? (2010)](http://textfiles.com/uploads/textfiles.txt)
+* [2026-01-01, 22:36:50](https://news.ycombinator.com/item?id=46458936) - [Welcome to Gas Town](https://steve-yegge.medium.com/welcome-to-gas-town-4f25ee16dd04)
 * [2026-01-01, 22:09:16](https://news.ycombinator.com/item?id=46458624) - [WebAssembly as a Python Extension Platform](https://nullprogram.com/blog/2026/01/01/)
 * [2026-01-01, 21:37:10](https://news.ycombinator.com/item?id=46458302) - [Can Bundler Be as Fast as Uv?](https://tenderlovemaking.com/2025/12/29/can-bundler-be-as-fast-as-uv/)
 * [2026-01-01, 21:26:49](https://news.ycombinator.com/item?id=46458194) - [A silly diffuse shading model](https://lisyarus.github.io/blog/posts/a-silly-diffuse-shading-model.html)
