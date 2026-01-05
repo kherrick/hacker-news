@@ -36,6 +36,7 @@
 * [2025-12-30, 17:24:57](https://news.ycombinator.com/item?id=46435614) - [A Vulnerability in Libsodium](https://00f.net/2025/12/30/libsodium-vulnerability/)
 * [2025-12-30, 17:15:11](https://news.ycombinator.com/item?id=46435477) - ['Commuting Is Bad'–Particularly for Women](https://www.theatlantic.com/family/2025/12/commute-gender-wage-gap-mothers/685265/)
 * [2025-12-30, 17:09:57](https://news.ycombinator.com/item?id=46435418) - [Toro: Deploy Applications as Unikernels](https://github.com/torokernel/torokernel)
+* [2025-12-30, 17:03:54](https://news.ycombinator.com/item?id=46435328) - [Square Face Generator – A Cute Square Face Icon Maker](https://www.squarefacegenerators.com/)
 * [2025-12-30, 17:01:59](https://news.ycombinator.com/item?id=46435308) - [Show HN: 22 GB of Hacker News in SQLite](https://hackerbook.dosaygo.com)
 * [2025-12-30, 16:47:37](https://news.ycombinator.com/item?id=46435142) - [Show HN: Replacing my OS process scheduler with an LLM](https://github.com/mprajyothreddy/brainkernel)
 * [2025-12-30, 16:18:23](https://news.ycombinator.com/item?id=46434821) - [Ask HN: Any example of successful vibe-coded product?](https://news.ycombinator.com/item?id=46434821)

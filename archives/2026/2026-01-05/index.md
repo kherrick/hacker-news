@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-01-05](index.md)
 
+* [2026-01-05, 16:30:30](https://news.ycombinator.com/item?id=46500824) - [Over 600 job openings at Apple for Vision Pro](https://jobs.apple.com/en-us/search?search=vision+pro&sort=relevance&location=united-states-USA)
 * [2026-01-05, 15:37:38](https://news.ycombinator.com/item?id=46500022) - [CSS sucks because we don't bother learning it (2022)](https://idiallo.com/blog/learn-css)
+* [2026-01-05, 15:34:40](https://news.ycombinator.com/item?id=46499983) - [Murder-suicide case shows OpenAI selectively hides data after users die](https://arstechnica.com/tech-policy/2025/12/openai-refuses-to-say-where-chatgpt-logs-go-when-users-die/)
 * [2026-01-05, 15:34:14](https://news.ycombinator.com/item?id=46499976) - [RevisionDojo, a YC startup, is running astroturfing campaigns targeting kids](https://news.ycombinator.com/item?id=46499976)
 * [2026-01-05, 15:13:59](https://news.ycombinator.com/item?id=46499694) - [Show HN: A simulator for engineers transitioning from IC to management](https://apmcommunication.com/scenario/backchannel-vp)
 * [2026-01-05, 15:10:47](https://news.ycombinator.com/item?id=46499646) - [Show HN: DoNotNotify – log and intelligently block notifications on Android](https://donotnotify.com/)
@@ -12,6 +14,7 @@
 * [2026-01-05, 13:52:17](https://news.ycombinator.com/item?id=46498735) - [I switched from VSCode to Zed](https://tenthousandmeters.com/blog/i-switched-from-vscode-to-zed/)
 * [2026-01-05, 13:47:00](https://news.ycombinator.com/item?id=46498676) - [Ozempic Melted Away Weight–and the Idea of 'Body Positivity'](https://www.wsj.com/opinion/ozempic-melted-away-weight-and-the-idea-of-body-positivity-4917671c)
 * [2026-01-05, 13:46:12](https://news.ycombinator.com/item?id=46498662) - [Imagine 130M Washing Machines](https://scottsumner.substack.com/p/imagine-130000000-washing-machines)
+* [2026-01-05, 13:45:50](https://news.ycombinator.com/item?id=46498658) - [Singularity Rootkit: SELinux bypass and netlink filter (ss/conntrack hidden)](https://github.com/MatheuZSecurity/Singularity)
 * [2026-01-05, 13:44:59](https://news.ycombinator.com/item?id=46498651) - [All AI Videos Are Harmful (2025)](https://idiallo.com/blog/all-ai-videos-are-harmful)
 * [2026-01-05, 13:02:52](https://news.ycombinator.com/item?id=46498309) - [Jensen: 'We've Done Our Country a Great Disservice' by Offshoring](https://www.barchart.com/story/news/36862423/weve-done-our-country-a-great-disservice-by-offshoring-nvidias-jensen-huang-says-we-have-to-create-prosperity-for-all-not-just-phds)
 * [2026-01-05, 11:51:42](https://news.ycombinator.com/item?id=46497712) - [It's hard to justify Tahoe icons](https://tonsky.me/blog/tahoe-icons/)
