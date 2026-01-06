@@ -15,6 +15,7 @@
 * [2025-12-29, 22:28:53](https://news.ycombinator.com/item?id=46426596) - [AI Employees Don't Pay Taxes](https://alec.is/posts/ai-employees-dont-pay-taxes/)
 * [2025-12-29, 22:24:22](https://news.ycombinator.com/item?id=46426534) - [ManusAI Joins Meta](https://manus.im/blog/manus-joins-meta-for-next-era-of-innovation)
 * [2025-12-29, 21:46:43](https://news.ycombinator.com/item?id=46426131) - [USPS Announces Changes to the Postmark Date System](https://nstp.org/article/usps-announces-changes-postmark-date-system)
+* [2025-12-29, 21:17:26](https://news.ycombinator.com/item?id=46425819) - [What to Do When the Trisector Comes (1983) [pdf]](https://www.ufv.ca/media/faculty/gregschlitt/information/WhatToDoWhenTrisectorComes.pdf)
 * [2025-12-29, 21:12:49](https://news.ycombinator.com/item?id=46425769) - [Why the Internet Is Bad for Democracy (2005)](https://dl.acm.org/doi/epdf/10.1145/1089107.1089138)
 * [2025-12-29, 21:08:41](https://news.ycombinator.com/item?id=46425716) - [n8n-Oidc](https://cweagans.net/2025/12/announcing-n8n-oidc/)
 * [2025-12-29, 20:29:26](https://news.ycombinator.com/item?id=46425198) - [Google is dead. Where do we go now?](https://www.circusscientist.com/2025/12/29/google-is-dead-where-do-we-go-now/)
