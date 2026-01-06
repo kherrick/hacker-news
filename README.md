@@ -19,6 +19,7 @@
 * [2026-01-06, 14:45:47](https://news.ycombinator.com/item?id=46512881) - [65% of Hacker News posts have negative sentiment, and they outperform](https://philippdubach.com/standalone/hn-sentiment/)
 * [2026-01-06, 14:41:55](https://news.ycombinator.com/item?id=46512842) - [High-performance header-only container library for C++23 on x86-64](https://github.com/kressler/fast-containers)
 * [2026-01-06, 14:30:53](https://news.ycombinator.com/item?id=46512707) - [Gemini Protocol Deployment Statistics](https://www.obsessivefacts.com/gemini-proxy?uri=gemini%3A%2F%2Fgemini.bortzmeyer.org%2Fsoftware%2Flupa%2Fstats.gmi)
+* [2026-01-06, 12:33:54](https://news.ycombinator.com/item?id=46511470) - [C Is Best (2025)](https://sqlite.org/whyc.html)
 * [2026-01-06, 12:33:49](https://news.ycombinator.com/item?id=46511469) - [Show HN: Prism.Tools – Free and privacy-focused developer utilities](https://blgardner.github.io/prism.tools/)
 * [2026-01-06, 11:42:35](https://news.ycombinator.com/item?id=46511153) - [AWS raises GPU prices 15% on a Saturday, hopes you weren't paying attention](https://www.theregister.com/2026/01/05/aws_price_increase/)
 * [2026-01-06, 06:22:30](https://news.ycombinator.com/item?id=46509307) - [My Tamagotchi is an RL agent playing Slither.io](https://nkasmanoff.github.io/#/blog/tamagotchi-rl-slitherio)
@@ -29,7 +30,6 @@
 * [2026-01-02, 17:04:03](https://news.ycombinator.com/item?id=46466843) - [I wanted a camera that doesn't exist – so I built it](https://medium.com/@cristi.baluta/i-wanted-a-camera-that-doesnt-exist-so-i-built-it-5f9864533eb7)
 * [2026-01-02, 13:21:42](https://news.ycombinator.com/item?id=46464462) - [Repair a ship’s hull still in the river in -50˚C (2022)](https://eugene.kaspersky.com/2022/04/26/how-to-repair-the-underside-of-a-ships-hull-still-in-the-river-in-50%CB%9Ac-yakutsk/)
 * [2026-01-02, 09:19:54](https://news.ycombinator.com/item?id=46462997) - [Swapping two blocks of memory inside a larger block, in constant memory](https://devblogs.microsoft.com/oldnewthing/20260101-00/?p=111955)
-* [2025-12-30, 19:19:55](https://news.ycombinator.com/item?id=46436872) - [Tell HN: I write and ship code ~20–50x faster than I did 5 years ago](https://news.ycombinator.com/item?id=46436872)
 
 ## [Archives](archives/index.md)
 
