@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-01-06, 03:59:19](https://news.ycombinator.com/item?id=46508582) - [A prediction market user made $436k betting on Maduro's downfall](https://www.bbc.com/news/articles/cx2gn93292do)
 * [2026-01-06, 03:32:41](https://news.ycombinator.com/item?id=46508441) - [GoGoGrandparent (YC S16) is hiring back end engineers](https://www.ycombinator.com/companies/gogograndparent/jobs/2vbzAw8-gogograndparent-yc-s16-is-hiring-backend-and-full-stack-engineers)
 * [2026-01-06, 02:20:00](https://news.ycombinator.com/item?id=46507963) - [GBC Boot Animation 88×31 Web Button](https://zakhary.dev/blog/gbc-web-button)
 * [2026-01-06, 00:02:18](https://news.ycombinator.com/item?id=46506994) - [I/O is no longer the bottleneck? (2022)](https://stoppels.ch/2022/11/27/io-is-no-longer-the-bottleneck.html)
@@ -10,6 +9,7 @@
 * [2026-01-05, 21:52:22](https://news.ycombinator.com/item?id=46505518) - [Google broke my heart](https://perishablepress.com/google-broke-my-heart/)
 * [2026-01-05, 21:33:29](https://news.ycombinator.com/item?id=46505296) - [Scientific production in the era of large language models [pdf]](https://gwern.net/doc/science/2025-kusumegi.pdf)
 * [2026-01-05, 21:05:50](https://news.ycombinator.com/item?id=46504963) - [There were BGP anomalies during the Venezuela blackout](https://loworbitsecurity.com/radar/radar16/)
+* [2026-01-05, 18:55:37](https://news.ycombinator.com/item?id=46503006) - [Pipe Dreams – The life and times of Yahoo Pipes (2023)](https://retool.com/pipes)
 * [2026-01-05, 18:00:32](https://news.ycombinator.com/item?id=46502239) - [Sega co-founder David Rosen has died](https://www.theguardian.com/games/2026/jan/05/sega-co-founder-david-rosen-dies)
 * [2026-01-05, 17:34:33](https://news.ycombinator.com/item?id=46501894) - [Brave overhauled its Rust adblock engine with FlatBuffers, cutting memory 75%](https://brave.com/privacy-updates/36-adblock-memory-reduction/)
 * [2026-01-05, 17:20:01](https://news.ycombinator.com/item?id=46501677) - [How Y Combinator made it smart to trust founders](https://elbowgreasegames.substack.com/p/when-good-actors-can-trust-each-other)
@@ -22,7 +22,7 @@
 * [2026-01-04, 15:31:07](https://news.ycombinator.com/item?id=46488883) - [Adding insular script like it's 1626](https://www.djmurphy.net/blog/clo-gaelach/)
 * [2026-01-04, 13:08:12](https://news.ycombinator.com/item?id=46487580) - [Show HN: I replaced Beads with a faster, simpler Markdown-based task tracker](https://github.com/wedow/ticket)
 * [2026-01-03, 11:02:58](https://news.ycombinator.com/item?id=46475222) - ['Doomsday fish': Once-in-a-lifetime sea creature encountered in Monterey Bay](https://www.sfgate.com/centralcoast/article/rare-deep-sea-fish-spotted-monterey-bay-21270815.php)
-* [2026-01-02, 22:53:53](https://news.ycombinator.com/item?id=46470513) - [The Lottery Ticket Hypothesis: finding sparse trainable NNs with 90% less params](https://arxiv.org/abs/1803.03635)
+* [2026-01-02, 22:53:53](https://news.ycombinator.com/item?id=46470513) - [The Lottery Ticket Hypothesis: Finding Sparse, Trainable Neural Networks (2018)](https://arxiv.org/abs/1803.03635)
 * [2026-01-02, 15:56:14](https://news.ycombinator.com/item?id=46466027) - [Try to take my position: The best promotion advice I ever got](https://andrew.grahamyooll.com/blog/Try-to-Take-My-Position/)
 * [2026-01-02, 14:56:28](https://news.ycombinator.com/item?id=46465335) - [Pebble Round 2](https://repebble.com/blog/pebble-round-2-the-most-stylish-pebble-ever)
 * [2026-01-01, 22:36:50](https://news.ycombinator.com/item?id=46458936) - [Welcome to Gas Town](https://steve-yegge.medium.com/welcome-to-gas-town-4f25ee16dd04)
