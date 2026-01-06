@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-01-06, 12:53:06](https://news.ycombinator.com/item?id=46511617) - [Portland's gas-powered leaf blower ban goes into effect](https://www.oregonlive.com/environment/2026/01/portlands-gas-powered-leaf-blower-ban-goes-into-effect.html)
+* [2026-01-06, 13:30:07](https://news.ycombinator.com/item?id=46511981) - [Why German Strings Are Everywhere?](https://cedardb.com/blog/german_strings/)
 * [2026-01-06, 12:47:23](https://news.ycombinator.com/item?id=46511578) - [Show HN: DDL to Data – Generate realistic test data from SQL schemas](https://news.ycombinator.com/item?id=46511578)
 * [2026-01-06, 12:33:54](https://news.ycombinator.com/item?id=46511470) - [C Is Best](https://sqlite.org/whyc.html)
 * [2026-01-06, 12:33:49](https://news.ycombinator.com/item?id=46511469) - [Show HN: Prism.Tools – Free and privacy-focused developer utilities](https://blgardner.github.io/prism.tools/)
