@@ -28,6 +28,7 @@
 * [2026-01-01, 17:52:30](https://news.ycombinator.com/item?id=46456215) - [Memory Subsystem Optimizations](https://johnnysswlab.com/memory-subsystem-optimizations/)
 * [2026-01-01, 17:18:01](https://news.ycombinator.com/item?id=46455872) - [Cameras and Lenses](https://ciechanow.ski/cameras-and-lenses/)
 * [2026-01-01, 17:12:38](https://news.ycombinator.com/item?id=46455814) - [Autism Hasn't Increased](https://marginalrevolution.com/marginalrevolution/2026/01/autism-hasnt-increased.html)
+* [2026-01-01, 16:58:19](https://news.ycombinator.com/item?id=46455643) - [New maps reveal post-flood migration patterns across the US](https://kinder.rice.edu/urbanedge/fema-buyouts-vs-risky-real-estate-new-maps-reveal-post-flood-migration-patterns-across-us)
 * [2026-01-01, 16:28:43](https://news.ycombinator.com/item?id=46455330) - [European Space Agency hit again as cybercriminals claim 200 GB data up for sale](https://www.theregister.com/2025/12/31/european_space_agency_hacked/)
 * [2026-01-01, 16:16:17](https://news.ycombinator.com/item?id=46455223) - [DHS Says DHS-Certified Real IDs Too Unreliable to Confirm U.S. Citizenship](https://reason.com/2025/12/31/dhs-says-real-id-which-dhs-certifies-is-too-unreliable-to-confirm-u-s-citizenship/)
 * [2026-01-01, 15:57:39](https://news.ycombinator.com/item?id=46455053) - [Sony PS5 ROM keys leaked – jailbreaking could be made easier with BootROM codes](https://www.tomshardware.com/video-games/playstation/playstation-5-rom-keys-leaked-jailbreaking-could-be-made-easier-with-bootrom-codes)
