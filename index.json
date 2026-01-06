@@ -1,16 +1,6 @@
 [
   [
     [
-      "2026-01-06, 03:59:19",
-      "https://news.ycombinator.com/item?id=46508582"
-    ],
-    [
-      "A prediction market user made $436k betting on Maduro's downfall",
-      "https://www.bbc.com/news/articles/cx2gn93292do"
-    ]
-  ],
-  [
-    [
       "2026-01-06, 03:32:41",
       "https://news.ycombinator.com/item?id=46508441"
     ],
@@ -97,6 +87,16 @@
     [
       "There were BGP anomalies during the Venezuela blackout",
       "https://loworbitsecurity.com/radar/radar16/"
+    ]
+  ],
+  [
+    [
+      "2026-01-05, 18:55:37",
+      "https://news.ycombinator.com/item?id=46503006"
+    ],
+    [
+      "Pipe Dreams – The life and times of Yahoo Pipes (2023)",
+      "https://retool.com/pipes"
     ]
   ],
   [
@@ -225,7 +225,7 @@
       "https://news.ycombinator.com/item?id=46470513"
     ],
     [
-      "The Lottery Ticket Hypothesis: finding sparse trainable NNs with 90% less params",
+      "The Lottery Ticket Hypothesis: Finding Sparse, Trainable Neural Networks (2018)",
       "https://arxiv.org/abs/1803.03635"
     ]
   ],
