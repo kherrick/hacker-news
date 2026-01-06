@@ -41,6 +41,16 @@
   ],
   [
     [
+      "2026-01-06, 20:55:01",
+      "https://news.ycombinator.com/item?id=46518573"
+    ],
+    [
+      "A 30B Qwen Model Walks into a Raspberry Pi and Runs in Real Time",
+      "https://byteshape.com/blogs/Qwen3-30B-A3B-Instruct-2507/"
+    ]
+  ],
+  [
+    [
       "2026-01-06, 20:24:45",
       "https://news.ycombinator.com/item?id=46518129"
     ],
@@ -257,16 +267,6 @@
     [
       "I wanted a camera that doesn't exist – so I built it",
       "https://medium.com/@cristi.baluta/i-wanted-a-camera-that-doesnt-exist-so-i-built-it-5f9864533eb7"
-    ]
-  ],
-  [
-    [
-      "2026-01-02, 07:04:14",
-      "https://news.ycombinator.com/item?id=46462188"
-    ],
-    [
-      "Show HN: I built \"Google\" for searching Shadcn blocks on the web",
-      "https://shoogle.dev/"
     ]
   ],
   [
