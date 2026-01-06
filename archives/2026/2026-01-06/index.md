@@ -8,6 +8,7 @@
 * [2026-01-06, 21:44:37](https://news.ycombinator.com/item?id=46519303) - [Laylo (YC S20) – Head of Growth (Organic and Partners and Loops and AI) – Remote US](https://www.ycombinator.com/companies/laylo/jobs/ZtLHRXe-head-of-growth)
 * [2026-01-06, 21:23:07](https://news.ycombinator.com/item?id=46518996) - [Comparing AI agents to cybersecurity professionals in real-world pen testing](https://arxiv.org/abs/2512.09882)
 * [2026-01-06, 21:10:47](https://news.ycombinator.com/item?id=46518804) - [Oral microbiome sequencing after taking probiotics](https://blog.booleanbiotech.com/oral-microbiome-biogaia)
+* [2026-01-06, 20:55:01](https://news.ycombinator.com/item?id=46518573) - [A 30B Qwen Model Walks into a Raspberry Pi and Runs in Real Time](https://byteshape.com/blogs/Qwen3-30B-A3B-Instruct-2507/)
 * [2026-01-06, 20:24:45](https://news.ycombinator.com/item?id=46518129) - [Calling All Hackers: How money works (2024)](https://phrack.org/issues/71/17)
 * [2026-01-06, 20:22:43](https://news.ycombinator.com/item?id=46518106) - [Show HN: Finding similarities in New Yorker covers](https://shoplurker.com/labs/newyorker-covers/)
 * [2026-01-06, 19:50:35](https://news.ycombinator.com/item?id=46517636) - [How Spotify Made Me Self Host](https://layandreas.github.io/personal-blog/posts/how-spotify-made-me-self-host/)
