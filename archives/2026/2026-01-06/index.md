@@ -4,10 +4,13 @@
 
 ### [Archives](../../index.md) for [2026-01-06](index.md)
 
+* [2026-01-06, 18:11:51](https://news.ycombinator.com/item?id=46516137) - [Passing of Joe Mancuso author of Masonite (Python web framework)](https://github.com/MasoniteFramework/masonite/discussions/853)
+* [2026-01-06, 18:00:27](https://news.ycombinator.com/item?id=46515948) - [Locating a Photo of a Vehicle in 30 Seconds with GeoSpy](https://geospy.ai/blog/locating-a-photo-of-a-vehicle-in-30-seconds-with-geospy)
 * [2026-01-06, 17:49:56](https://news.ycombinator.com/item?id=46515777) - [Launch HN: Tamarind Bio (YC W24) – AI Inference Provider for Drug Discovery](https://news.ycombinator.com/item?id=46515777)
 * [2026-01-06, 17:45:37](https://news.ycombinator.com/item?id=46515696) - [Opus 4.5 is going to change everything](https://burkeholland.github.io/posts/opus-4-5-change-everything/)
 * [2026-01-06, 17:15:39](https://news.ycombinator.com/item?id=46515191) - [Co-founder Joe Lonsdale: Palantir was founded to kill communists](https://twitter.com/JTLonsdale/status/2007849014407086427)
 * [2026-01-06, 16:59:44](https://news.ycombinator.com/item?id=46514913) - [Volkswagen Brings Back Physical Buttons](https://www.caranddriver.com/news/a69916699/volkswagen-interior-physical-buttons-return/)
+* [2026-01-06, 16:57:15](https://news.ycombinator.com/item?id=46514874) - [Show HN: Stash – Sync Markdown Files with Apple Notes via CLI](https://github.com/shakedlokits/stash)
 * [2026-01-06, 16:54:23](https://news.ycombinator.com/item?id=46514830) - [FTSE100 bosses' pay overtakes typical worker's annual salary in less than 3 days](https://news.sky.com/story/ftse-100-bosses-pay-overtakes-typical-workers-annual-salary-in-less-than-three-days-of-2026-13490984)
 * [2026-01-06, 16:52:56](https://news.ycombinator.com/item?id=46514807) - [Loongarch Improvements with Box64](https://box86.org/2026/01/new-box64-v0-4-0-released/)
 * [2026-01-06, 16:52:08](https://news.ycombinator.com/item?id=46514794) - [Raspberry Pi and mini PC home lab prices hit parity as DRAM costs skyrocket](https://www.tomshardware.com/raspberry-pi/raspberry-pi-and-mini-pc-home-lab-prices-hit-parity-as-dram-costs-skyrocket-price-hikes-force-hobbyists-to-weigh-up-performance-versus-power-consumption)
