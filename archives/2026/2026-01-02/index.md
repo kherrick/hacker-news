@@ -44,6 +44,7 @@
 * [2026-01-02, 13:44:23](https://news.ycombinator.com/item?id=46464670) - [Windows 11 surges among PC gamers on Steam as Linux stalls](https://www.windowscentral.com/gaming/pc-gaming/windows-11-surges-among-pc-gamers-on-steam-as-linux-stalls)
 * [2026-01-02, 13:42:37](https://news.ycombinator.com/item?id=46464652) - [TIL: Parental Controls Aren't for Parents](https://beasthacker.com/til/parental-controls-arent-for-parents.html)
 * [2026-01-02, 13:29:47](https://news.ycombinator.com/item?id=46464529) - [OfferGridAI – side-by-side comparison of real estate offers from PDFs](https://offergridai.com)
+* [2026-01-02, 13:21:42](https://news.ycombinator.com/item?id=46464462) - [Repair a ship’s hull still in the river in -50˚C (2022)](https://eugene.kaspersky.com/2022/04/26/how-to-repair-the-underside-of-a-ships-hull-still-in-the-river-in-50%CB%9Ac-yakutsk/)
 * [2026-01-02, 13:17:06](https://news.ycombinator.com/item?id=46464426) - [39th Chaos Communication Congress Videos](https://media.ccc.de/b/congress/2025)
 * [2026-01-02, 12:46:31](https://news.ycombinator.com/item?id=46464235) - [FracturedJson](https://github.com/j-brooke/FracturedJson/wiki)
 * [2026-01-02, 12:31:03](https://news.ycombinator.com/item?id=46464133) - [Show HN: Dealta – A game-theoretic decentralized trading protocol](https://github.com/orgs/Dealta-Foundation/repositories)
