@@ -21,16 +21,6 @@
   ],
   [
     [
-      "2026-01-05, 23:29:12",
-      "https://news.ycombinator.com/item?id=46506675"
-    ],
-    [
-      "Pink Power Ranger takes down white supremacist dating sites",
-      "https://www.thecanary.co/skwawkbox/2026/01/04/power-ranger-deletes-dating-site/"
-    ]
-  ],
-  [
-    [
       "2026-01-05, 23:19:52",
       "https://news.ycombinator.com/item?id=46506596"
     ],
@@ -45,7 +35,7 @@
       "https://news.ycombinator.com/item?id=46505975"
     ],
     [
-      "Worlds's first all-solid-state battery ready to power up production vehicles now",
+      "Donut Lab’s all-solid-state battery delivers 400 Wh/kg of energy density",
       "https://www.donutlab.com/ces-battery-announcement/"
     ]
   ],
@@ -81,6 +71,16 @@
   ],
   [
     [
+      "2026-01-05, 21:33:29",
+      "https://news.ycombinator.com/item?id=46505296"
+    ],
+    [
+      "Scientific production in the era of large language models [pdf]",
+      "https://gwern.net/doc/science/2025-kusumegi.pdf"
+    ]
+  ],
+  [
+    [
       "2026-01-05, 21:05:50",
       "https://news.ycombinator.com/item?id=46504963"
     ],
@@ -97,16 +97,6 @@
     [
       "Pipe Dreams – The life and times of Yahoo Pipes (2023)",
       "https://retool.com/pipes"
-    ]
-  ],
-  [
-    [
-      "2026-01-05, 18:35:17",
-      "https://news.ycombinator.com/item?id=46502736"
-    ],
-    [
-      "Gatekeepers of Law: Inside the Westlaw and LexisNexis Duopoly",
-      "https://www.thebignewsletter.com/p/gatekeepers-of-law-inside-the-westlaw"
     ]
   ],
   [
@@ -141,16 +131,6 @@
   ],
   [
     [
-      "2026-01-05, 17:19:33",
-      "https://news.ycombinator.com/item?id=46501665"
-    ],
-    [
-      "So, you want to chunk really fast?",
-      "https://minha.sh/posts/so,-you-want-to-chunk-really-fast"
-    ]
-  ],
-  [
-    [
       "2026-01-05, 16:47:23",
       "https://news.ycombinator.com/item?id=46501137"
     ],
@@ -161,11 +141,21 @@
   ],
   [
     [
+      "2026-01-05, 16:11:44",
+      "https://news.ycombinator.com/item?id=46500510"
+    ],
+    [
+      "Sandboxing Untrusted Python",
+      "https://gist.github.com/mavdol/2c68acb408686f1e038bf89e5705b28c"
+    ]
+  ],
+  [
+    [
       "2026-01-05, 15:10:47",
       "https://news.ycombinator.com/item?id=46499646"
     ],
     [
-      "Show HN: DoNotNotify – log and intelligently block notifications on Android",
+      "Show HN: DoNotNotify – Log and intelligently block notifications on Android",
       "https://donotnotify.com/"
     ]
   ],
@@ -177,6 +167,16 @@
     [
       "Dealing with abandonware (2024)",
       "https://blog.hris.to/./dealing-with-abandonware.html"
+    ]
+  ],
+  [
+    [
+      "2026-01-05, 13:58:07",
+      "https://news.ycombinator.com/item?id=46498786"
+    ],
+    [
+      "Show HN: OSS sustain guard – Sustainability signals for OSS dependencies",
+      "https://onukura.github.io/oss-sustain-guard/"
     ]
   ],
   [
@@ -231,12 +231,12 @@
   ],
   [
     [
-      "2026-01-03, 02:04:29",
-      "https://news.ycombinator.com/item?id=46472040"
+      "2026-01-03, 11:02:58",
+      "https://news.ycombinator.com/item?id=46475222"
     ],
     [
-      "The Kimwolf botnet is stalking your local network",
-      "https://krebsonsecurity.com/2026/01/the-kimwolf-botnet-is-stalking-your-local-network/"
+      "'Doomsday fish': Once-in-a-lifetime sea creature encountered in Monterey Bay",
+      "https://www.sfgate.com/centralcoast/article/rare-deep-sea-fish-spotted-monterey-bay-21270815.php"
     ]
   ],
   [
@@ -281,22 +281,22 @@
   ],
   [
     [
+      "2025-12-31, 11:43:59",
+      "https://news.ycombinator.com/item?id=46443355"
+    ],
+    [
+      "Show HN: Shadowlight, a voice-driven murder mystery and heist inside Minecraft",
+      "https://www.playshadowlight.com/"
+    ]
+  ],
+  [
+    [
       "2025-12-29, 21:17:26",
       "https://news.ycombinator.com/item?id=46425819"
     ],
     [
       "What to Do When the Trisector Comes (1983) [pdf]",
       "https://www.ufv.ca/media/faculty/gregschlitt/information/WhatToDoWhenTrisectorComes.pdf"
-    ]
-  ],
-  [
-    [
-      "2025-12-29, 21:08:41",
-      "https://news.ycombinator.com/item?id=46425716"
-    ],
-    [
-      "n8n-Oidc",
-      "https://cweagans.net/2025/12/announcing-n8n-oidc/"
     ]
   ]
 ]
