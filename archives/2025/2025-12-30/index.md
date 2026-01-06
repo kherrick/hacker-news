@@ -35,6 +35,7 @@
 * [2025-12-30, 18:08:37](https://news.ycombinator.com/item?id=46436128) - [Show HN: I remade my website in the Sith Lord Theme and I hope it's fun](https://cookie.engineer/index.html)
 * [2025-12-30, 18:08:32](https://news.ycombinator.com/item?id=46436127) - [Electrolysis can solve one of our biggest contamination problems](https://ethz.ch/en/news-and-events/eth-news/news/2025/11/electrolysis-can-solve-one-of-our-biggest-contamination-problems.html)
 * [2025-12-30, 17:24:57](https://news.ycombinator.com/item?id=46435614) - [A Vulnerability in Libsodium](https://00f.net/2025/12/30/libsodium-vulnerability/)
+* [2025-12-30, 17:20:02](https://news.ycombinator.com/item?id=46435551) - [Raindrop-Powered Generator Using Carbon Fiber Composites](https://en.sedaily.com/technology/2025/12/15/unist-develops-raindrop-powered-generator-using-carbon)
 * [2025-12-30, 17:15:11](https://news.ycombinator.com/item?id=46435477) - ['Commuting Is Bad'–Particularly for Women](https://www.theatlantic.com/family/2025/12/commute-gender-wage-gap-mothers/685265/)
 * [2025-12-30, 17:09:57](https://news.ycombinator.com/item?id=46435418) - [Toro: Deploy Applications as Unikernels](https://github.com/torokernel/torokernel)
 * [2025-12-30, 17:03:54](https://news.ycombinator.com/item?id=46435328) - [Square Face Generator – A Cute Square Face Icon Maker](https://www.squarefacegenerators.com/)
