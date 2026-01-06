@@ -46,6 +46,7 @@
 * [2026-01-01, 14:41:00](https://news.ycombinator.com/item?id=46454488) - [Darwin the Man of His Times](https://aethermug.com/posts/darwin-the-man-of-his-times)
 * [2026-01-01, 14:39:23](https://news.ycombinator.com/item?id=46454470) - [Python Numbers Every Programmer Should Know](https://mkennedy.codes/posts/python-numbers-every-programmer-should-know/)
 * [2026-01-01, 14:32:12](https://news.ycombinator.com/item?id=46454413) - [2025 Letter](https://danwang.co/2025-letter/)
+* [2026-01-01, 14:26:12](https://news.ycombinator.com/item?id=46454369) - [Show HN: 48-digit prime numbers every git commit](https://textonly.github.io/git-prime/)
 * [2026-01-01, 14:12:42](https://news.ycombinator.com/item?id=46454274) - [Joseph Campbell Meets George Lucas – Part I (2015)](https://www.starwars.com/news/mythic-discovery-within-the-inner-reaches-of-outer-space-joseph-campbell-meets-george-lucas-part-i)
 * [2026-01-01, 14:07:36](https://news.ycombinator.com/item?id=46454232) - [Show HN: Unicode cursive font generator that checks cross-platform compatibility](https://www.cursivefontgenerator.info)
 * [2026-01-01, 13:48:27](https://news.ycombinator.com/item?id=46454085) - [Logos Language Guide: Compile English to Rust](https://logicaffeine.com/guide)
