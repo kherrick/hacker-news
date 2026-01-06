@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-01-06, 15:05:46",
+      "https://news.ycombinator.com/item?id=46513173"
+    ],
+    [
+      "New Lego smart-play system",
+      "https://www.lego.com/en-us/smart-play"
+    ]
+  ],
+  [
+    [
       "2026-01-06, 14:54:19",
       "https://news.ycombinator.com/item?id=46513010"
     ],
@@ -27,16 +37,6 @@
     [
       "Gemini Protocol Deployment Statistics",
       "https://www.obsessivefacts.com/gemini-proxy?uri=gemini%3A%2F%2Fgemini.bortzmeyer.org%2Fsoftware%2Flupa%2Fstats.gmi"
-    ]
-  ],
-  [
-    [
-      "2026-01-06, 13:30:07",
-      "https://news.ycombinator.com/item?id=46511981"
-    ],
-    [
-      "Why German Strings Are Everywhere?",
-      "https://cedardb.com/blog/german_strings/"
     ]
   ],
   [
@@ -117,16 +117,6 @@
     [
       "enclose.horse",
       "https://enclose.horse/"
-    ]
-  ],
-  [
-    [
-      "2026-01-06, 05:20:40",
-      "https://news.ycombinator.com/item?id=46509019"
-    ],
-    [
-      "The Post-American Internet",
-      "https://pluralistic.net/2026/01/01/39c3/"
     ]
   ],
   [
@@ -277,6 +267,16 @@
     [
       "Repair a ship’s hull still in the river in -50˚C (2022)",
       "https://eugene.kaspersky.com/2022/04/26/how-to-repair-the-underside-of-a-ships-hull-still-in-the-river-in-50%CB%9Ac-yakutsk/"
+    ]
+  ],
+  [
+    [
+      "2026-01-02, 09:19:54",
+      "https://news.ycombinator.com/item?id=46462997"
+    ],
+    [
+      "Swapping two blocks of memory inside a larger block, in constant memory",
+      "https://devblogs.microsoft.com/oldnewthing/20260101-00/?p=111955"
     ]
   ],
   [
