@@ -28,8 +28,8 @@
 * [2026-01-02, 15:56:14](https://news.ycombinator.com/item?id=46466027) - [Try to take my position: The best promotion advice I ever got](https://andrew.grahamyooll.com/blog/Try-to-Take-My-Position/)
 * [2026-01-02, 13:21:42](https://news.ycombinator.com/item?id=46464462) - [Repair a ship’s hull still in the river in -50˚C (2022)](https://eugene.kaspersky.com/2022/04/26/how-to-repair-the-underside-of-a-ships-hull-still-in-the-river-in-50%CB%9Ac-yakutsk/)
 * [2026-01-02, 03:01:50](https://news.ycombinator.com/item?id=46460930) - [Interpreter – Offline screen translator for Japanese retro games](https://github.com/bquenin/interpreter)
-* [2026-01-01, 16:58:19](https://news.ycombinator.com/item?id=46455643) - [New maps reveal post-flood migration patterns across the US](https://kinder.rice.edu/urbanedge/fema-buyouts-vs-risky-real-estate-new-maps-reveal-post-flood-migration-patterns-across-us)
 * [2025-12-31, 06:15:05](https://news.ycombinator.com/item?id=46441873) - [Shipping at Inference-Speed](https://steipete.me/posts/2025/shipping-at-inference-speed)
+* [2025-12-30, 19:19:55](https://news.ycombinator.com/item?id=46436872) - [I write and ship code ~20–50x faster than I did 5 years ago](https://news.ycombinator.com/item?id=46436872)
 
 ## [Archives](archives/index.md)
 
