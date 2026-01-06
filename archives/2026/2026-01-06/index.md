@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-01-06](index.md)
 
+* [2026-01-06, 17:49:56](https://news.ycombinator.com/item?id=46515777) - [Launch HN: Tamarind Bio (YC W24) – AI Inference Provider for Drug Discovery](https://news.ycombinator.com/item?id=46515777)
+* [2026-01-06, 17:45:37](https://news.ycombinator.com/item?id=46515696) - [Opus 4.5 is going to change everything](https://burkeholland.github.io/posts/opus-4-5-change-everything/)
 * [2026-01-06, 17:15:39](https://news.ycombinator.com/item?id=46515191) - [Co-founder Joe Lonsdale: Palantir was founded to kill communists](https://twitter.com/JTLonsdale/status/2007849014407086427)
 * [2026-01-06, 16:59:44](https://news.ycombinator.com/item?id=46514913) - [Volkswagen Brings Back Physical Buttons](https://www.caranddriver.com/news/a69916699/volkswagen-interior-physical-buttons-return/)
 * [2026-01-06, 16:54:23](https://news.ycombinator.com/item?id=46514830) - [FTSE100 bosses' pay overtakes typical worker's annual salary in less than 3 days](https://news.sky.com/story/ftse-100-bosses-pay-overtakes-typical-workers-annual-salary-in-less-than-three-days-of-2026-13490984)

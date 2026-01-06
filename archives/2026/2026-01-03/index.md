@@ -53,6 +53,7 @@
 * [2026-01-03, 06:35:21](https://news.ycombinator.com/item?id=46473348) - [Loud noises heard in Venezuela capital, southern area without electricity](https://www.reuters.com/world/americas/loud-noises-heard-venezuela-capital-southern-area-without-electricity-2026-01-03/)
 * [2026-01-03, 06:04:58](https://news.ycombinator.com/item?id=46473232) - [The Constitution Was a Coup](https://lucasvance.github.io/2100/coup/)
 * [2026-01-03, 06:01:29](https://news.ycombinator.com/item?id=46473214) - [Japan joining growing global trend of declining democracy](https://www.asahi.com/ajw/articles/16262732)
+* [2026-01-03, 05:43:56](https://news.ycombinator.com/item?id=46473142) - [Gtasks-terminal – Google Tasks power-tool for the terminal](https://github.com/sirusdas/gtasks-terminal)
 * [2026-01-03, 04:53:20](https://news.ycombinator.com/item?id=46472930) - [Revisiting the original Roomba and its simple architecture](https://robotsinplainenglish.com/e/2025-12-27-roomba.html)
 * [2026-01-03, 04:22:29](https://news.ycombinator.com/item?id=46472772) - [Show HN: uvx ptn, scan a QR, get a terminal in your phone](https://github.com/lyehe/porterminal)
 * [2026-01-03, 04:01:03](https://news.ycombinator.com/item?id=46472667) - [IQuest-Coder: A new open-source code model beats Claude Sonnet 4.5 and GPT 5.1 [pdf]](https://github.com/IQuestLab/IQuest-Coder-V1/blob/main/papers/IQuest_Coder_Technical_Report.pdf)

@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-01-06, 17:49:56](https://news.ycombinator.com/item?id=46515777) - [Launch HN: Tamarind Bio (YC W24) – AI Inference Provider for Drug Discovery](https://news.ycombinator.com/item?id=46515777)
+* [2026-01-06, 17:45:37](https://news.ycombinator.com/item?id=46515696) - [Opus 4.5 is going to change everything](https://burkeholland.github.io/posts/opus-4-5-change-everything/)
 * [2026-01-06, 17:15:39](https://news.ycombinator.com/item?id=46515191) - [Co-founder Joe Lonsdale: Palantir was founded to kill communists](https://twitter.com/JTLonsdale/status/2007849014407086427)
 * [2026-01-06, 16:59:44](https://news.ycombinator.com/item?id=46514913) - [Volkswagen Brings Back Physical Buttons](https://www.caranddriver.com/news/a69916699/volkswagen-interior-physical-buttons-return/)
 * [2026-01-06, 16:54:23](https://news.ycombinator.com/item?id=46514830) - [FTSE100 bosses' pay overtakes typical worker's annual salary in less than 3 days](https://news.sky.com/story/ftse-100-bosses-pay-overtakes-typical-workers-annual-salary-in-less-than-three-days-of-2026-13490984)
@@ -20,16 +22,14 @@
 * [2026-01-06, 10:13:43](https://news.ycombinator.com/item?id=46510625) - [SCiZE's Classic Warez Collection](https://scenelist.org/)
 * [2026-01-06, 06:01:57](https://news.ycombinator.com/item?id=46509211) - [enclose.horse](https://enclose.horse/)
 * [2026-01-06, 03:32:41](https://news.ycombinator.com/item?id=46508441) - [GoGoGrandparent (YC S16) is hiring back end engineers](https://www.ycombinator.com/companies/gogograndparent/jobs/2vbzAw8-gogograndparent-yc-s16-is-hiring-backend-and-full-stack-engineers)
-* [2026-01-06, 03:31:39](https://news.ycombinator.com/item?id=46508435) - [Intel Core Ultra Series 3 Debut as First Built on Intel 18A](https://newsroom.intel.com/client-computing/ces-2026-intel-core-ultra-series-3-debut-first-built-on-intel-18a)
 * [2026-01-06, 00:02:18](https://news.ycombinator.com/item?id=46506994) - [I/O is no longer the bottleneck? (2022)](https://stoppels.ch/2022/11/27/io-is-no-longer-the-bottleneck.html)
 * [2026-01-05, 21:05:50](https://news.ycombinator.com/item?id=46504963) - [There were BGP anomalies during the Venezuela blackout](https://loworbitsecurity.com/radar/radar16/)
-* [2026-01-05, 17:34:33](https://news.ycombinator.com/item?id=46501894) - [Brave overhauled its Rust adblock engine with FlatBuffers, cutting memory 75%](https://brave.com/privacy-updates/36-adblock-memory-reduction/)
+* [2026-01-03, 05:43:56](https://news.ycombinator.com/item?id=46473142) - [Gtasks-terminal – Google Tasks power-tool for the terminal](https://github.com/sirusdas/gtasks-terminal)
 * [2026-01-02, 21:18:10](https://news.ycombinator.com/item?id=46469473) - [\"Inspector Dangerfuck\", ANSI art comic from 1994](https://breakintochat.com/blog/2025/12/31/ansi-art-and-webcomics-part-3-eerie-and-inspector-dangerfuck/)
 * [2026-01-02, 17:04:03](https://news.ycombinator.com/item?id=46466843) - [I wanted a camera that doesn't exist – so I built it](https://medium.com/@cristi.baluta/i-wanted-a-camera-that-doesnt-exist-so-i-built-it-5f9864533eb7)
 * [2026-01-02, 15:56:14](https://news.ycombinator.com/item?id=46466027) - [Try to take my position: The best promotion advice I ever got](https://andrew.grahamyooll.com/blog/Try-to-Take-My-Position/)
 * [2026-01-02, 13:21:42](https://news.ycombinator.com/item?id=46464462) - [Repair a ship’s hull still in the river in -50˚C (2022)](https://eugene.kaspersky.com/2022/04/26/how-to-repair-the-underside-of-a-ships-hull-still-in-the-river-in-50%CB%9Ac-yakutsk/)
 * [2026-01-02, 09:19:54](https://news.ycombinator.com/item?id=46462997) - [Swapping two blocks of memory inside a larger block, in constant memory](https://devblogs.microsoft.com/oldnewthing/20260101-00/?p=111955)
-* [2026-01-02, 03:01:50](https://news.ycombinator.com/item?id=46460930) - [Interpreter – Offline screen translator for Japanese retro games](https://github.com/bquenin/interpreter)
 
 ## [Archives](archives/index.md)
 
