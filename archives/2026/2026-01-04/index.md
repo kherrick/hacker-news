@@ -59,6 +59,7 @@
 * [2026-01-04, 08:35:42](https://news.ycombinator.com/item?id=46486135) - [The Gentle Seduction](http://www.skyhunter.com/marcs/GentleSeduction.html)
 * [2026-01-04, 08:11:22](https://news.ycombinator.com/item?id=46485989) - [Can I start using Wayland in 2026?](https://michael.stapelberg.ch/posts/2026-01-04-wayland-sway-in-2026/)
 * [2026-01-04, 06:54:50](https://news.ycombinator.com/item?id=46485629) - [Pixoo Sign Client for Ruby](https://github.com/tenderlove/pixoo-rb)
+* [2026-01-04, 06:15:25](https://news.ycombinator.com/item?id=46485466) - [Using fewer syllables to express numbers](https://thegraycuber.github.io/fast_numbers)
 * [2026-01-04, 05:09:47](https://news.ycombinator.com/item?id=46485130) - [Learning to Play Tic-Tac-Toe with Jax](https://joe-antognini.github.io/ml/jax-tic-tac-toe)
 * [2026-01-04, 05:04:29](https://news.ycombinator.com/item?id=46485101) - [Corundum – open-source FPGA-based NIC and platform for in-network compute](https://github.com/corundum/corundum)
 * [2026-01-04, 05:02:16](https://news.ycombinator.com/item?id=46485090) - [Neural Networks: Zero to Hero](https://karpathy.ai/zero-to-hero.html)
