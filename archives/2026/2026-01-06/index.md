@@ -4,9 +4,14 @@
 
 ### [Archives](../../index.md) for [2026-01-06](index.md)
 
+* [2026-01-06, 16:59:44](https://news.ycombinator.com/item?id=46514913) - [Volkswagen Brings Back Physical Buttons](https://www.caranddriver.com/news/a69916699/volkswagen-interior-physical-buttons-return/)
+* [2026-01-06, 16:52:56](https://news.ycombinator.com/item?id=46514807) - [Loongarch Improvements with Box64](https://box86.org/2026/01/new-box64-v0-4-0-released/)
+* [2026-01-06, 16:46:13](https://news.ycombinator.com/item?id=46514692) - [Why is the Gmail app 700 MB?](https://akr.am/blog/posts/why-is-the-gmail-app-700-mb)
 * [2026-01-06, 16:45:42](https://news.ycombinator.com/item?id=46514677) - [Vienam Bans Unskippable Ads, Requires Skip Button to Appear After 5 Seconds](https://saigoneer.com/vietnam-news/28652-vienam-bans-unskippable-ads,-requires-skip-button-to-appear-after-5-seconds)
 * [2026-01-06, 16:17:24](https://news.ycombinator.com/item?id=46514282) - [State of the Fin 2026-01-06 – Jellyfin](https://jellyfin.org/posts/state-of-the-fin-2026-01-06/)
+* [2026-01-06, 16:10:47](https://news.ycombinator.com/item?id=46514175) - [27M Fewer Car Trips: Life After a Year of Congestion Pricing](https://www.nytimes.com/interactive/2026/01/05/upshot/congestion-pricing-one-year.html)
 * [2026-01-06, 16:02:56](https://news.ycombinator.com/item?id=46514059) - [Mamdani Targets Junk Fees and Hidden Charges in Two Executive Orders](https://www.nytimes.com/2026/01/05/nyregion/mamdani-affordability-consumer-protections.html)
+* [2026-01-06, 15:44:44](https://news.ycombinator.com/item?id=46513728) - [The skill of the future is not 'AI', but 'Focus' (2025)](https://carette.xyz/posts/focus_will_be_the_skill_of_the_future/)
 * [2026-01-06, 15:05:46](https://news.ycombinator.com/item?id=46513173) - [New Lego smart-play system](https://www.lego.com/en-us/smart-play)
 * [2026-01-06, 14:54:19](https://news.ycombinator.com/item?id=46513010) - [Gnome and Mozilla Discuss Proposal to Disable Middle Mouse Paste on Linux](https://linuxiac.com/gnome-and-mozilla-discuss-proposal-to-disable-middle-mouse-paste-on-linux/)
 * [2026-01-06, 14:45:47](https://news.ycombinator.com/item?id=46512881) - [65% of Hacker News Posts Have Negative Sentiment, and They Outperform](https://philippdubach.com/standalone/hn-sentiment/)

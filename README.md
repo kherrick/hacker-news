@@ -1,9 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-01-06, 16:59:44](https://news.ycombinator.com/item?id=46514913) - [Volkswagen Brings Back Physical Buttons](https://www.caranddriver.com/news/a69916699/volkswagen-interior-physical-buttons-return/)
+* [2026-01-06, 16:52:56](https://news.ycombinator.com/item?id=46514807) - [Loongarch Improvements with Box64](https://box86.org/2026/01/new-box64-v0-4-0-released/)
+* [2026-01-06, 16:46:13](https://news.ycombinator.com/item?id=46514692) - [Why is the Gmail app 700 MB?](https://akr.am/blog/posts/why-is-the-gmail-app-700-mb)
 * [2026-01-06, 16:45:42](https://news.ycombinator.com/item?id=46514677) - [Vienam Bans Unskippable Ads, Requires Skip Button to Appear After 5 Seconds](https://saigoneer.com/vietnam-news/28652-vienam-bans-unskippable-ads,-requires-skip-button-to-appear-after-5-seconds)
 * [2026-01-06, 16:17:24](https://news.ycombinator.com/item?id=46514282) - [State of the Fin 2026-01-06 – Jellyfin](https://jellyfin.org/posts/state-of-the-fin-2026-01-06/)
-* [2026-01-06, 16:02:56](https://news.ycombinator.com/item?id=46514059) - [Mamdani Targets Junk Fees and Hidden Charges in Two Executive Orders](https://www.nytimes.com/2026/01/05/nyregion/mamdani-affordability-consumer-protections.html)
-* [2026-01-06, 15:05:46](https://news.ycombinator.com/item?id=46513173) - [New Lego smart-play system](https://www.lego.com/en-us/smart-play)
+* [2026-01-06, 16:10:47](https://news.ycombinator.com/item?id=46514175) - [27M Fewer Car Trips: Life After a Year of Congestion Pricing](https://www.nytimes.com/interactive/2026/01/05/upshot/congestion-pricing-one-year.html)
+* [2026-01-06, 15:44:44](https://news.ycombinator.com/item?id=46513728) - [The skill of the future is not 'AI', but 'Focus' (2025)](https://carette.xyz/posts/focus_will_be_the_skill_of_the_future/)
 * [2026-01-06, 14:45:47](https://news.ycombinator.com/item?id=46512881) - [65% of Hacker News Posts Have Negative Sentiment, and They Outperform](https://philippdubach.com/standalone/hn-sentiment/)
 * [2026-01-06, 14:41:55](https://news.ycombinator.com/item?id=46512842) - [High-performance header-only container library for C++23 on x86-64](https://github.com/kressler/fast-containers)
 * [2026-01-06, 14:30:53](https://news.ycombinator.com/item?id=46512707) - [Gemini Protocol Deployment Statistics](https://www.obsessivefacts.com/gemini-proxy?uri=gemini%3A%2F%2Fgemini.bortzmeyer.org%2Fsoftware%2Flupa%2Fstats.gmi)
@@ -13,7 +16,6 @@
 * [2026-01-06, 12:04:57](https://news.ycombinator.com/item?id=46511298) - [System: Control your Mac from anywhere using natural language](https://system.surf/)
 * [2026-01-06, 11:42:35](https://news.ycombinator.com/item?id=46511153) - [AWS raises GPU prices 15% on a Saturday, hopes you weren't paying attention](https://www.theregister.com/2026/01/05/aws_price_increase/)
 * [2026-01-06, 10:13:43](https://news.ycombinator.com/item?id=46510625) - [SCiZE's Classic Warez Collection](https://scenelist.org/)
-* [2026-01-06, 08:26:23](https://news.ycombinator.com/item?id=46509967) - [Tube trains could navigate the Underground using the rules of Quantum Physics](https://www.ianvisits.co.uk/articles/tube-trains-could-navigate-the-underground-using-the-weird-rules-of-quantum-physics-86370/)
 * [2026-01-06, 06:01:57](https://news.ycombinator.com/item?id=46509211) - [enclose.horse](https://enclose.horse/)
 * [2026-01-06, 03:32:41](https://news.ycombinator.com/item?id=46508441) - [GoGoGrandparent (YC S16) is hiring back end engineers](https://www.ycombinator.com/companies/gogograndparent/jobs/2vbzAw8-gogograndparent-yc-s16-is-hiring-backend-and-full-stack-engineers)
 * [2026-01-06, 03:31:39](https://news.ycombinator.com/item?id=46508435) - [Intel Core Ultra Series 3 Debut as First Built on Intel 18A](https://newsroom.intel.com/client-computing/ces-2026-intel-core-ultra-series-3-debut-first-built-on-intel-18a)
@@ -21,7 +23,6 @@
 * [2026-01-06, 00:02:18](https://news.ycombinator.com/item?id=46506994) - [I/O is no longer the bottleneck? (2022)](https://stoppels.ch/2022/11/27/io-is-no-longer-the-bottleneck.html)
 * [2026-01-05, 21:05:50](https://news.ycombinator.com/item?id=46504963) - [There were BGP anomalies during the Venezuela blackout](https://loworbitsecurity.com/radar/radar16/)
 * [2026-01-05, 17:34:33](https://news.ycombinator.com/item?id=46501894) - [Brave overhauled its Rust adblock engine with FlatBuffers, cutting memory 75%](https://brave.com/privacy-updates/36-adblock-memory-reduction/)
-* [2026-01-05, 17:20:01](https://news.ycombinator.com/item?id=46501677) - [How Y Combinator made it smart to trust founders](https://elbowgreasegames.substack.com/p/when-good-actors-can-trust-each-other)
 * [2026-01-04, 19:10:31](https://news.ycombinator.com/item?id=46491129) - [Six-decade math puzzle solved by Korean mathematician](https://www.koreaherald.com/article/10648326)
 * [2026-01-02, 21:18:10](https://news.ycombinator.com/item?id=46469473) - [\"Inspector Dangerfuck\", ANSI art comic from 1994](https://breakintochat.com/blog/2025/12/31/ansi-art-and-webcomics-part-3-eerie-and-inspector-dangerfuck/)
 * [2026-01-02, 17:04:03](https://news.ycombinator.com/item?id=46466843) - [I wanted a camera that doesn't exist – so I built it](https://medium.com/@cristi.baluta/i-wanted-a-camera-that-doesnt-exist-so-i-built-it-5f9864533eb7)
@@ -29,7 +30,6 @@
 * [2026-01-02, 13:21:42](https://news.ycombinator.com/item?id=46464462) - [Repair a ship’s hull still in the river in -50˚C (2022)](https://eugene.kaspersky.com/2022/04/26/how-to-repair-the-underside-of-a-ships-hull-still-in-the-river-in-50%CB%9Ac-yakutsk/)
 * [2026-01-02, 09:19:54](https://news.ycombinator.com/item?id=46462997) - [Swapping two blocks of memory inside a larger block, in constant memory](https://devblogs.microsoft.com/oldnewthing/20260101-00/?p=111955)
 * [2026-01-02, 03:01:50](https://news.ycombinator.com/item?id=46460930) - [Interpreter – Offline screen translator for Japanese retro games](https://github.com/bquenin/interpreter)
-* [2025-12-31, 06:15:05](https://news.ycombinator.com/item?id=46441873) - [Shipping at Inference-Speed](https://steipete.me/posts/2025/shipping-at-inference-speed)
 
 ## [Archives](archives/index.md)
 
