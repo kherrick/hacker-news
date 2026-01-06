@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-01-06, 19:50:35",
+      "https://news.ycombinator.com/item?id=46517636"
+    ],
+    [
+      "How Spotify Made Me Self Host",
+      "https://layandreas.github.io/personal-blog/posts/how-spotify-made-me-self-host/"
+    ]
+  ],
+  [
+    [
       "2026-01-06, 19:38:32",
       "https://news.ycombinator.com/item?id=46517458"
     ],
@@ -67,16 +77,6 @@
     [
       "Hierarchical Autoregressive Modeling for Memory-Efficient Language Generation",
       "https://arxiv.org/abs/2512.20687"
-    ]
-  ],
-  [
-    [
-      "2026-01-06, 18:00:27",
-      "https://news.ycombinator.com/item?id=46515948"
-    ],
-    [
-      "Locating a Photo of a Vehicle in 30 Seconds with GeoSpy",
-      "https://geospy.ai/blog/locating-a-photo-of-a-vehicle-in-30-seconds-with-geospy"
     ]
   ],
   [
@@ -171,16 +171,6 @@
   ],
   [
     [
-      "2026-01-06, 14:45:47",
-      "https://news.ycombinator.com/item?id=46512881"
-    ],
-    [
-      "65% of Hacker News posts have negative sentiment, and they outperform",
-      "https://philippdubach.com/standalone/hn-sentiment/"
-    ]
-  ],
-  [
-    [
       "2026-01-06, 14:41:55",
       "https://news.ycombinator.com/item?id=46512842"
     ],
@@ -207,6 +197,16 @@
     [
       "Show HN: ccrider - Search and Resume Your Claude Code Sessions – TUI / MCP / CLI",
       "https://github.com/neilberkman/ccrider"
+    ]
+  ],
+  [
+    [
+      "2026-01-06, 13:48:27",
+      "https://news.ycombinator.com/item?id=46512182"
+    ],
+    [
+      "Show HN: Mantic.sh – Search 480k files in 0.46s without embeddings",
+      "https://github.com/marcoaapfortes/Mantic.sh"
     ]
   ],
   [
