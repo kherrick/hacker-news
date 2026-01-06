@@ -71,6 +71,7 @@
 * [2025-12-31, 02:33:50](https://news.ycombinator.com/item?id=46440695) - [L1TF Reloaded](https://github.com/ThijsRay/l1tf_reloaded)
 * [2025-12-31, 02:23:30](https://news.ycombinator.com/item?id=46440637) - [Using AI generated images to get refunds](https://www.wired.com/story/scammers-in-china-are-using-ai-generated-images-to-get-refunds/)
 * [2025-12-31, 02:01:53](https://news.ycombinator.com/item?id=46440510) - [Readings in Database Systems (5th Edition)](http://www.redbook.io/)
+* [2025-12-31, 01:24:14](https://news.ycombinator.com/item?id=46440271) - [Investigating and fixing a nasty clone bug](https://kobzol.github.io/rust/2025/12/30/investigating-and-fixing-a-nasty-clone-bug.html)
 * [2025-12-31, 01:10:05](https://news.ycombinator.com/item?id=46440188) - [How to translate a ROM: The mysteries of the game cartridge [video]](https://www.youtube.com/watch?v=XDg73E1n5-g)
 * [2025-12-31, 00:49:55](https://news.ycombinator.com/item?id=46440066) - [S&P500 Priced in Gold](https://pricedingold.com/sp-500/)
 * [2025-12-31, 00:43:30](https://news.ycombinator.com/item?id=46440037) - [Exploring Dithering on Spectra 6-color E-Ink Displays](https://myembeddedstuff.com/e-ink-spectra-6-color)
