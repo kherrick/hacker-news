@@ -55,6 +55,7 @@
 * [2025-12-31, 09:16:58](https://news.ycombinator.com/item?id=46442624) - [GitHub – tomasf/Cadova: Swift DSL for parametric 3D modeling](https://github.com/tomasf/Cadova)
 * [2025-12-31, 09:09:28](https://news.ycombinator.com/item?id=46442597) - [The rise of industrial software](https://chrisloy.dev/post/2025/12/30/the-rise-of-industrial-software)
 * [2025-12-31, 08:49:29](https://news.ycombinator.com/item?id=46442502) - [Torch.ts – building PyTorch in TypeScript from scratch to learn](https://github.com/13point5/torch.ts)
+* [2025-12-31, 08:15:41](https://news.ycombinator.com/item?id=46442354) - [Show HN: How SQL Parsers Work](https://nishchith.com/sql-parsers/)
 * [2025-12-31, 08:10:27](https://news.ycombinator.com/item?id=46442322) - [What do I mean by some software devs are \"ngmi\"?](https://ghuntley.com/ngmi/)
 * [2025-12-31, 08:04:30](https://news.ycombinator.com/item?id=46442293) - [UK company sends factory with 1,000C furnace into space](https://www.bbc.co.uk/news/articles/c62vx0pgyrgo)
 * [2025-12-31, 07:57:53](https://news.ycombinator.com/item?id=46442282) - [Linear Address Spaces: Unsafe at any speed](https://queue.acm.org/detail.cfm?id=3534854)
