@@ -4,8 +4,11 @@
 
 ### [Archives](../../index.md) for [2026-01-06](index.md)
 
+* [2026-01-06, 17:15:39](https://news.ycombinator.com/item?id=46515191) - [Co-founder Joe Lonsdale: Palantir was founded to kill communists](https://twitter.com/JTLonsdale/status/2007849014407086427)
 * [2026-01-06, 16:59:44](https://news.ycombinator.com/item?id=46514913) - [Volkswagen Brings Back Physical Buttons](https://www.caranddriver.com/news/a69916699/volkswagen-interior-physical-buttons-return/)
+* [2026-01-06, 16:54:23](https://news.ycombinator.com/item?id=46514830) - [FTSE100 bosses' pay overtakes typical worker's annual salary in less than 3 days](https://news.sky.com/story/ftse-100-bosses-pay-overtakes-typical-workers-annual-salary-in-less-than-three-days-of-2026-13490984)
 * [2026-01-06, 16:52:56](https://news.ycombinator.com/item?id=46514807) - [Loongarch Improvements with Box64](https://box86.org/2026/01/new-box64-v0-4-0-released/)
+* [2026-01-06, 16:52:08](https://news.ycombinator.com/item?id=46514794) - [Raspberry Pi and mini PC home lab prices hit parity as DRAM costs skyrocket](https://www.tomshardware.com/raspberry-pi/raspberry-pi-and-mini-pc-home-lab-prices-hit-parity-as-dram-costs-skyrocket-price-hikes-force-hobbyists-to-weigh-up-performance-versus-power-consumption)
 * [2026-01-06, 16:46:13](https://news.ycombinator.com/item?id=46514692) - [Why is the Gmail app 700 MB?](https://akr.am/blog/posts/why-is-the-gmail-app-700-mb)
 * [2026-01-06, 16:45:42](https://news.ycombinator.com/item?id=46514677) - [Vienam Bans Unskippable Ads, Requires Skip Button to Appear After 5 Seconds](https://saigoneer.com/vietnam-news/28652-vienam-bans-unskippable-ads,-requires-skip-button-to-appear-after-5-seconds)
 * [2026-01-06, 16:17:24](https://news.ycombinator.com/item?id=46514282) - [State of the Fin 2026-01-06 – Jellyfin](https://jellyfin.org/posts/state-of-the-fin-2026-01-06/)
