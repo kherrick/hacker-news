@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-01-06, 21:44:37",
+      "https://news.ycombinator.com/item?id=46519303"
+    ],
+    [
+      "Laylo (YC S20) – Head of Growth (Organic and Partners and Loops and AI) – Remote US",
+      "https://www.ycombinator.com/companies/laylo/jobs/ZtLHRXe-head-of-growth"
+    ]
+  ],
+  [
+    [
       "2026-01-06, 21:23:07",
       "https://news.ycombinator.com/item?id=46518996"
     ],
@@ -161,16 +171,6 @@
   ],
   [
     [
-      "2026-01-06, 16:57:15",
-      "https://news.ycombinator.com/item?id=46514874"
-    ],
-    [
-      "Show HN: Stash – Sync Markdown Files with Apple Notes via CLI",
-      "https://github.com/shakedlokits/stash"
-    ]
-  ],
-  [
-    [
       "2026-01-06, 16:53:27",
       "https://news.ycombinator.com/item?id=46514816"
     ],
@@ -211,26 +211,6 @@
   ],
   [
     [
-      "2026-01-06, 16:17:24",
-      "https://news.ycombinator.com/item?id=46514282"
-    ],
-    [
-      "State of the Fin 2026-01-06",
-      "https://jellyfin.org/posts/state-of-the-fin-2026-01-06/"
-    ]
-  ],
-  [
-    [
-      "2026-01-06, 14:41:55",
-      "https://news.ycombinator.com/item?id=46512842"
-    ],
-    [
-      "High-performance header-only container library for C++23 on x86-64",
-      "https://github.com/kressler/fast-containers"
-    ]
-  ],
-  [
-    [
       "2026-01-06, 13:48:27",
       "https://news.ycombinator.com/item?id=46512182"
     ],
@@ -251,12 +231,12 @@
   ],
   [
     [
-      "2026-01-06, 06:01:57",
-      "https://news.ycombinator.com/item?id=46509211"
+      "2026-01-06, 03:07:50",
+      "https://news.ycombinator.com/item?id=46508299"
     ],
     [
-      "enclose.horse",
-      "https://enclose.horse/"
+      "Show HN: llmgame.ai – The Wikipedia Game but with LLMs",
+      "https://www.llmgame.ai"
     ]
   ],
   [
@@ -277,6 +257,26 @@
     [
       "I wanted a camera that doesn't exist – so I built it",
       "https://medium.com/@cristi.baluta/i-wanted-a-camera-that-doesnt-exist-so-i-built-it-5f9864533eb7"
+    ]
+  ],
+  [
+    [
+      "2026-01-02, 07:04:14",
+      "https://news.ycombinator.com/item?id=46462188"
+    ],
+    [
+      "Show HN: I built \"Google\" for searching Shadcn blocks on the web",
+      "https://shoogle.dev/"
+    ]
+  ],
+  [
+    [
+      "2026-01-01, 19:31:29",
+      "https://news.ycombinator.com/item?id=46457212"
+    ],
+    [
+      "Writing an eigenvalue solver in Rust for WebAssembly",
+      "https://abstractnonsense.xyz/blog/2025-12-31-eigenvalue-solver-in-rust-for-webassembly/"
     ]
   ],
   [
