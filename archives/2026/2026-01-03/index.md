@@ -34,6 +34,7 @@
 * [2026-01-03, 15:47:00](https://news.ycombinator.com/item?id=46477966) - [Google engineer says Claude Code built in one hour what her team spent a year on](https://the-decoder.com/google-engineer-says-claude-code-built-in-one-hour-what-her-team-spent-a-year-on/)
 * [2026-01-03, 15:00:23](https://news.ycombinator.com/item?id=46477439) - [Show HN: FP-pack – Functional pipelines in TypeScript without monads](https://github.com/superlucky84/fp-pack)
 * [2026-01-03, 14:50:58](https://news.ycombinator.com/item?id=46477305) - [Zeit v1](https://xn--gckvb8fzb.com/zeit-v1/)
+* [2026-01-03, 14:33:30](https://news.ycombinator.com/item?id=46477121) - [Guarding Against Physical Attacks: The Xbox One Story (2019)](https://www.platformsecuritysummit.com/2019/speaker/chen/)
 * [2026-01-03, 13:53:34](https://news.ycombinator.com/item?id=46476636) - [ParadeDB (YC S23) Is Hiring Database Engineers](https://paradedb.notion.site/?p=172ea4ce9deb80898ef5d5097bd65544&pm=s)
 * [2026-01-03, 11:37:07](https://news.ycombinator.com/item?id=46475437) - [X-Clacks-Overhead](https://hleb.dev/post/x-clacks-overhead/)
 * [2026-01-03, 11:29:33](https://news.ycombinator.com/item?id=46475395) - [Recursive Language Models](https://arxiv.org/abs/2512.24601)
