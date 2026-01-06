@@ -14,6 +14,7 @@
 * [2026-01-02, 21:44:41](https://news.ycombinator.com/item?id=46469771) - [Global software engineering job postings outlook – 2026](https://jobswithgpt.com/blog/global_software-engineering_jobs_january_2026/)
 * [2026-01-02, 21:31:34](https://news.ycombinator.com/item?id=46469623) - [Linux kernel security work](http://www.kroah.com/log/blog/2026/01/02/linux-kernel-security-work/)
 * [2026-01-02, 21:27:44](https://news.ycombinator.com/item?id=46469577) - [Daft Punk Easter Egg in the BPM Tempo of Harder, Better, Faster, Stronger?](https://www.madebywindmill.com/tempi/blog/hbfs-bpm/)
+* [2026-01-02, 21:18:10](https://news.ycombinator.com/item?id=46469473) - [\"Inspector Dangerfuck\", ANSI art comic from 1994](https://breakintochat.com/blog/2025/12/31/ansi-art-and-webcomics-part-3-eerie-and-inspector-dangerfuck/)
 * [2026-01-02, 20:24:13](https://news.ycombinator.com/item?id=46468959) - [Ask HN: What tech job would let me get away with the least real work possible?](https://news.ycombinator.com/item?id=46468959)
 * [2026-01-02, 19:48:25](https://news.ycombinator.com/item?id=46468600) - [Publish (On Your) Own Site, Syndicate Elsewhere](https://indieweb.org/POSSE#)
 * [2026-01-02, 19:39:38](https://news.ycombinator.com/item?id=46468517) - [Jank Lang Hit Alpha](https://github.com/jank-lang/jank)

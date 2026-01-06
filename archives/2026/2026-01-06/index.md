@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-01-06](index.md)
 
+* [2026-01-06, 12:33:49](https://news.ycombinator.com/item?id=46511469) - [Show HN: Prism.Tools – Free and privacy-focused developer utilities](https://blgardner.github.io/prism.tools/)
 * [2026-01-06, 11:42:35](https://news.ycombinator.com/item?id=46511153) - [AWS raises GPU prices 15% on a Saturday, hopes you weren't paying attention](https://www.theregister.com/2026/01/05/aws_price_increase/)
 * [2026-01-06, 10:13:43](https://news.ycombinator.com/item?id=46510625) - [SCiZE's Classic Warez Collection](https://scenelist.org/)
 * [2026-01-06, 08:26:23](https://news.ycombinator.com/item?id=46509967) - [Tube trains could navigate the Underground using the rules of Quantum Physics](https://www.ianvisits.co.uk/articles/tube-trains-could-navigate-the-underground-using-the-weird-rules-of-quantum-physics-86370/)

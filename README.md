@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-01-06, 12:33:49](https://news.ycombinator.com/item?id=46511469) - [Show HN: Prism.Tools – Free and privacy-focused developer utilities](https://blgardner.github.io/prism.tools/)
 * [2026-01-06, 11:42:35](https://news.ycombinator.com/item?id=46511153) - [AWS raises GPU prices 15% on a Saturday, hopes you weren't paying attention](https://www.theregister.com/2026/01/05/aws_price_increase/)
 * [2026-01-06, 10:13:43](https://news.ycombinator.com/item?id=46510625) - [SCiZE's Classic Warez Collection](https://scenelist.org/)
 * [2026-01-06, 06:01:57](https://news.ycombinator.com/item?id=46509211) - [enclose.horse](https://enclose.horse/)
@@ -19,10 +20,9 @@
 * [2026-01-05, 07:14:30](https://news.ycombinator.com/item?id=46496103) - [Databases in 2025: A Year in Review](https://www.cs.cmu.edu/~pavlo/blog/2026/01/2025-databases-retrospective.html)
 * [2026-01-04, 19:10:31](https://news.ycombinator.com/item?id=46491129) - [Six-decade math puzzle solved by Korean mathematician](https://www.koreaherald.com/article/10648326)
 * [2026-01-04, 15:31:07](https://news.ycombinator.com/item?id=46488883) - [Adding insular script like it's 1626](https://www.djmurphy.net/blog/clo-gaelach/)
-* [2026-01-03, 14:51:07](https://news.ycombinator.com/item?id=46477306) - [JavaScript's For-Of Loops Are Fast](https://waspdev.com/articles/2026-01-01/javascript-for-of-loops-are-actually-fast)
 * [2026-01-02, 22:53:53](https://news.ycombinator.com/item?id=46470513) - [The Lottery Ticket Hypothesis: Finding Sparse, Trainable Neural Networks (2018)](https://arxiv.org/abs/1803.03635)
+* [2026-01-02, 21:18:10](https://news.ycombinator.com/item?id=46469473) - [\"Inspector Dangerfuck\", ANSI art comic from 1994](https://breakintochat.com/blog/2025/12/31/ansi-art-and-webcomics-part-3-eerie-and-inspector-dangerfuck/)
 * [2026-01-02, 15:56:14](https://news.ycombinator.com/item?id=46466027) - [Try to take my position: The best promotion advice I ever got](https://andrew.grahamyooll.com/blog/Try-to-Take-My-Position/)
-* [2026-01-02, 14:56:28](https://news.ycombinator.com/item?id=46465335) - [Pebble Round 2](https://repebble.com/blog/pebble-round-2-the-most-stylish-pebble-ever)
 * [2026-01-02, 13:21:42](https://news.ycombinator.com/item?id=46464462) - [Repair a ship’s hull still in the river in -50˚C (2022)](https://eugene.kaspersky.com/2022/04/26/how-to-repair-the-underside-of-a-ships-hull-still-in-the-river-in-50%CB%9Ac-yakutsk/)
 * [2026-01-02, 03:01:50](https://news.ycombinator.com/item?id=46460930) - [Interpreter – Offline screen translator for Japanese retro games](https://github.com/bquenin/interpreter)
 * [2026-01-01, 22:36:50](https://news.ycombinator.com/item?id=46458936) - [Welcome to Gas Town](https://steve-yegge.medium.com/welcome-to-gas-town-4f25ee16dd04)
