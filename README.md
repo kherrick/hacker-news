@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-01-06, 11:42:35](https://news.ycombinator.com/item?id=46511153) - [AWS raises GPU prices 15% on a Saturday, hopes you weren't paying attention](https://www.theregister.com/2026/01/05/aws_price_increase/)
 * [2026-01-06, 10:13:43](https://news.ycombinator.com/item?id=46510625) - [SCiZE's Classic Warez Collection](https://scenelist.org/)
 * [2026-01-06, 06:01:57](https://news.ycombinator.com/item?id=46509211) - [enclose.horse](https://enclose.horse/)
 * [2026-01-06, 05:20:40](https://news.ycombinator.com/item?id=46509019) - [The Post-American Internet](https://pluralistic.net/2026/01/01/39c3/)
@@ -8,7 +9,6 @@
 * [2026-01-06, 00:02:18](https://news.ycombinator.com/item?id=46506994) - [I/O is no longer the bottleneck? (2022)](https://stoppels.ch/2022/11/27/io-is-no-longer-the-bottleneck.html)
 * [2026-01-05, 23:19:52](https://news.ycombinator.com/item?id=46506596) - [Strange.website](https://strange.website/)
 * [2026-01-05, 22:10:15](https://news.ycombinator.com/item?id=46505735) - [Why didn't AI “join the workforce” in 2025?](https://calnewport.com/why-didnt-ai-join-the-workforce-in-2025/)
-* [2026-01-05, 21:33:29](https://news.ycombinator.com/item?id=46505296) - [Scientific production in the era of large language models [pdf]](https://gwern.net/doc/science/2025-kusumegi.pdf)
 * [2026-01-05, 21:05:50](https://news.ycombinator.com/item?id=46504963) - [There were BGP anomalies during the Venezuela blackout](https://loworbitsecurity.com/radar/radar16/)
 * [2026-01-05, 17:34:33](https://news.ycombinator.com/item?id=46501894) - [Brave overhauled its Rust adblock engine with FlatBuffers, cutting memory 75%](https://brave.com/privacy-updates/36-adblock-memory-reduction/)
 * [2026-01-05, 17:20:01](https://news.ycombinator.com/item?id=46501677) - [How Y Combinator made it smart to trust founders](https://elbowgreasegames.substack.com/p/when-good-actors-can-trust-each-other)
