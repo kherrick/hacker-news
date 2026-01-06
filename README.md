@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-01-06, 14:45:47](https://news.ycombinator.com/item?id=46512881) - [65% of Hacker News Posts Have Negative Sentiment, and They Outperform](https://philippdubach.com/standalone/hn-sentiment/)
 * [2026-01-06, 13:30:07](https://news.ycombinator.com/item?id=46511981) - [Why German Strings Are Everywhere?](https://cedardb.com/blog/german_strings/)
 * [2026-01-06, 12:47:23](https://news.ycombinator.com/item?id=46511578) - [Show HN: DDL to Data – Generate realistic test data from SQL schemas](https://news.ycombinator.com/item?id=46511578)
 * [2026-01-06, 12:33:54](https://news.ycombinator.com/item?id=46511470) - [C Is Best](https://sqlite.org/whyc.html)
@@ -10,7 +11,6 @@
 * [2026-01-06, 08:26:23](https://news.ycombinator.com/item?id=46509967) - [Tube trains could navigate the Underground using the rules of Quantum Physics](https://www.ianvisits.co.uk/articles/tube-trains-could-navigate-the-underground-using-the-weird-rules-of-quantum-physics-86370/)
 * [2026-01-06, 06:01:57](https://news.ycombinator.com/item?id=46509211) - [enclose.horse](https://enclose.horse/)
 * [2026-01-06, 05:20:40](https://news.ycombinator.com/item?id=46509019) - [The Post-American Internet](https://pluralistic.net/2026/01/01/39c3/)
-* [2026-01-06, 03:32:41](https://news.ycombinator.com/item?id=46508441) - [GoGoGrandparent (YC S16) is hiring back end engineers](https://www.ycombinator.com/companies/gogograndparent/jobs/2vbzAw8-gogograndparent-yc-s16-is-hiring-backend-and-full-stack-engineers)
 * [2026-01-06, 03:31:39](https://news.ycombinator.com/item?id=46508435) - [Intel Core Ultra Series 3 Debut as First Built on Intel 18A](https://newsroom.intel.com/client-computing/ces-2026-intel-core-ultra-series-3-debut-first-built-on-intel-18a)
 * [2026-01-06, 02:20:00](https://news.ycombinator.com/item?id=46507963) - [GBC Boot Animation 88×31 Web Button](https://zakhary.dev/blog/gbc-web-button)
 * [2026-01-06, 00:02:18](https://news.ycombinator.com/item?id=46506994) - [I/O is no longer the bottleneck? (2022)](https://stoppels.ch/2022/11/27/io-is-no-longer-the-bottleneck.html)
@@ -28,8 +28,8 @@
 * [2026-01-02, 15:56:14](https://news.ycombinator.com/item?id=46466027) - [Try to take my position: The best promotion advice I ever got](https://andrew.grahamyooll.com/blog/Try-to-Take-My-Position/)
 * [2026-01-02, 13:21:42](https://news.ycombinator.com/item?id=46464462) - [Repair a ship’s hull still in the river in -50˚C (2022)](https://eugene.kaspersky.com/2022/04/26/how-to-repair-the-underside-of-a-ships-hull-still-in-the-river-in-50%CB%9Ac-yakutsk/)
 * [2026-01-02, 03:01:50](https://news.ycombinator.com/item?id=46460930) - [Interpreter – Offline screen translator for Japanese retro games](https://github.com/bquenin/interpreter)
+* [2026-01-01, 16:58:19](https://news.ycombinator.com/item?id=46455643) - [New maps reveal post-flood migration patterns across the US](https://kinder.rice.edu/urbanedge/fema-buyouts-vs-risky-real-estate-new-maps-reveal-post-flood-migration-patterns-across-us)
 * [2025-12-31, 06:15:05](https://news.ycombinator.com/item?id=46441873) - [Shipping at Inference-Speed](https://steipete.me/posts/2025/shipping-at-inference-speed)
-* [2025-12-30, 19:19:55](https://news.ycombinator.com/item?id=46436872) - [I write and ship code ~20–50x faster than I did 5 years ago](https://news.ycombinator.com/item?id=46436872)
 
 ## [Archives](archives/index.md)
 
