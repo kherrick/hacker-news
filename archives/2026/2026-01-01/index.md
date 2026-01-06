@@ -71,6 +71,7 @@
 * [2026-01-01, 02:19:14](https://news.ycombinator.com/item?id=46450625) - [The great shift of English prose](https://www.worksinprogress.news/p/english-prose-has-become-much-easier)
 * [2026-01-01, 01:14:33](https://news.ycombinator.com/item?id=46450217) - [Nerd: The First Programming Language Not Built for Humans](https://www.nerd-lang.org/about)
 * [2026-01-01, 01:01:22](https://news.ycombinator.com/item?id=46450122) - [GoGoGrandparent (YC S16) Is Hiring Tech Leads](https://www.ycombinator.com/companies/gogograndparent/jobs/w2jGKM7-gogograndparent-yc-s16-is-hiring-tech-leads)
+* [2026-01-01, 00:47:10](https://news.ycombinator.com/item?id=46450014) - [Runtime invariant to rule count in a single-pass boundary execution model](https://targetedwebresults.com/pounce-demo-final.gif)
 * [2026-01-01, 00:29:45](https://news.ycombinator.com/item?id=46449892) - [Show HN: Feature detection exploration in Lidar DEMs via differential decomp](https://github.com/bshepp/RESIDUALS)
 * [2026-01-01, 00:23:54](https://news.ycombinator.com/item?id=46449852) - [Show HN: Enroll, a tool to reverse-engineer servers into Ansible config mgmt](https://enroll.sh)
 * [2026-01-01, 00:18:43](https://news.ycombinator.com/item?id=46449812) - [Show HN: BusterMQ, Thread-per-core NATS server in Zig with io_uring](https://bustermq.sh/)
