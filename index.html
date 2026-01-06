@@ -141,11 +141,11 @@
             <h4>
               <span>2026-01-06 @ 21:46:04</span
               ><span class="points-container"
-                >Points: <span class="points">23</span></span
+                >Points: <span class="points">33</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46519326"
                   >Comments</a
-                ><span class="descendants">: 6</span></span
+                ><span class="descendants">: 17</span></span
               >
             </h4>
           </section>
@@ -179,11 +179,11 @@
             <h4>
               <span>2026-01-06 @ 21:23:07</span
               ><span class="points-container"
-                >Points: <span class="points">39</span></span
+                >Points: <span class="points">43</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46518996"
                   >Comments</a
-                ><span class="descendants">: 19</span></span
+                ><span class="descendants">: 22</span></span
               >
             </h4>
             <div class="text">
@@ -206,107 +206,13 @@
             <h4>
               <span>2026-01-06 @ 21:10:47</span
               ><span class="points-container"
-                >Points: <span class="points">55</span></span
+                >Points: <span class="points">64</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46518804"
                   >Comments</a
-                ><span class="descendants">: 19</span></span
+                ><span class="descendants">: 23</span></span
               >
             </h4>
-          </section>
-        </section>
-        <section id="46518608">
-          <h3>
-            <a
-              class="item"
-              href="https://github.com/neelsomani/symbolic-circuit-distillation"
-              >Show HN: Symbolic Circuit Distillation: prove program to LLM
-              circuit equivalence</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-01-06 @ 20:57:06</span
-              ><span class="points-container"
-                >Points: <span class="points">6</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=46518608"
-                  >Comments</a
-                ><span class="descendants">: 1</span></span
-              >
-            </h4>
-            <div class="text">
-              <p>
-                I have been working on a small interpretability project I call
-                Symbolic Circuit Distillation. The goal is to take a tiny
-                neuron-level circuit (like the ones in OpenAI's "Sparse
-                Circuits" work) and automatically recover a concise Python
-                program that implements the same algorithm, along with a bounded
-                formal proof that the two are equivalent on a finite token
-                domain.
-              </p>
-              <p>Roughly, the pipeline is:</p>
-              <p>
-                1. Start from a pruned circuit graph for a specific behavior
-                (e.g. quote closing or bracket depth) extracted from a
-                transformer. 2. Treat the circuit as an executable function and
-                train a tiny ReLU network ("surrogate") that exactly matches the
-                circuit on all inputs in a bounded domain (typically sequences
-                of length 5–10 over a small token alphabet). 3. Search over a
-                constrained DSL of common transformer motifs (counters, toggles,
-                threshold detectors, small state machines) to synthesize
-                candidate Python programs. 4. Use SMT-based bounded equivalence
-                checking to either: - Prove that a candidate program and the
-                surrogate agree on all inputs in the domain, or - Produce a
-                counterexample input that rules the program out.
-              </p>
-              <p>
-                If the solver finds a proof, you get a small, human-readable
-                Python function plus a machine-checkable guarantee that it
-                matches the original circuit on that bounded domain.
-              </p>
-              <p>Why I built this</p>
-              <p>
-                Mechanistic interpretability has gotten pretty good at
-                extracting "small crisp circuits" from large models, but turning
-                those graphs into clean, human-readable algorithms is still very
-                manual. My goal here is to automate that last step: go from
-                "here is a sparse circuit" to "here is a verified algorithm that
-                explains what it does", without hand-holding.
-              </p>
-              <p>What works today</p>
-              <p>
-                - Tasks: quote closing and bracket-depth detection from the
-                OpenAI circuit_sparsity repo. - Exact surrogate fitting on a
-                finite token domain. - DSL templates for simple counters,
-                toggles, and small state machines. - SMT-based bounded
-                equivalence between: sparse circuit -&gt; ReLU surrogate -&gt;
-                Python program in the DSL.
-              </p>
-              <p>Limitations and open questions</p>
-              <p>
-                - The guarantees are bounded: equivalence is only proven on a
-                finite token domain (short sequences and a small vocabulary). -
-                Currently focused on very small circuits. Scaling to larger
-                circuits and longer contexts is open engineering and research
-                work. - The DSL is hand-designed around a few motifs. I am not
-                yet learning the DSL itself or doing anything very clever in the
-                search.
-              </p>
-              <p>What I would love feedback on</p>
-              <p>
-                - Are the problem framing and guarantees interesting to people
-                working on mechanistic interpretability or formal methods? -
-                Suggestions for next benchmarks: which circuits or behaviors
-                would you want to see distilled next? - Feedback on the DSL
-                design, search strategy, and SMT setup.
-              </p>
-              <p>
-                Happy to answer questions about implementation details, the SMT
-                encoding, integration with OpenAI's Sparse Circuits repo, or
-                anything else.
-              </p>
-            </div>
           </section>
         </section>
         <section id="46518573">
@@ -322,11 +228,11 @@
             <h4>
               <span>2026-01-06 @ 20:55:01</span
               ><span class="points-container"
-                >Points: <span class="points">24</span></span
+                >Points: <span class="points">33</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46518573"
                   >Comments</a
-                ><span class="descendants">: 3</span></span
+                ><span class="descendants">: 6</span></span
               >
             </h4>
           </section>
@@ -341,11 +247,11 @@
             <h4>
               <span>2026-01-06 @ 20:24:45</span
               ><span class="points-container"
-                >Points: <span class="points">84</span></span
+                >Points: <span class="points">100</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46518129"
                   >Comments</a
-                ><span class="descendants">: 7</span></span
+                ><span class="descendants">: 19</span></span
               >
             </h4>
           </section>
@@ -360,11 +266,11 @@
             <h4>
               <span>2026-01-06 @ 20:22:43</span
               ><span class="points-container"
-                >Points: <span class="points">12</span></span
+                >Points: <span class="points">16</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46518106"
                   >Comments</a
-                ><span class="descendants">: 1</span></span
+                ><span class="descendants">: 4</span></span
               >
             </h4>
             <div class="text">
@@ -390,11 +296,11 @@
             <h4>
               <span>2026-01-06 @ 19:50:35</span
               ><span class="points-container"
-                >Points: <span class="points">86</span></span
+                >Points: <span class="points">89</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46517636"
                   >Comments</a
-                ><span class="descendants">: 119</span></span
+                ><span class="descendants">: 132</span></span
               >
             </h4>
           </section>
@@ -410,11 +316,11 @@
             <h4>
               <span>2026-01-06 @ 19:38:32</span
               ><span class="points-container"
-                >Points: <span class="points">150</span></span
+                >Points: <span class="points">159</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46517458"
                   >Comments</a
-                ><span class="descendants">: 152</span></span
+                ><span class="descendants">: 156</span></span
               >
             </h4>
             <div class="text">
@@ -432,11 +338,11 @@
             <h4>
               <span>2026-01-06 @ 19:29:15</span
               ><span class="points-container"
-                >Points: <span class="points">62</span></span
+                >Points: <span class="points">69</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46517319"
                   >Comments</a
-                ><span class="descendants">: 12</span></span
+                ><span class="descendants">: 13</span></span
               >
             </h4>
           </section>
@@ -453,11 +359,11 @@
             <h4>
               <span>2026-01-06 @ 18:39:21</span
               ><span class="points-container"
-                >Points: <span class="points">101</span></span
+                >Points: <span class="points">108</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46516559"
                   >Comments</a
-                ><span class="descendants">: 56</span></span
+                ><span class="descendants">: 62</span></span
               >
             </h4>
           </section>
@@ -475,7 +381,7 @@
             <h4>
               <span>2026-01-06 @ 18:11:51</span
               ><span class="points-container"
-                >Points: <span class="points">111</span></span
+                >Points: <span class="points">113</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46516137"
                   >Comments</a
@@ -495,11 +401,11 @@
             <h4>
               <span>2026-01-06 @ 18:02:01</span
               ><span class="points-container"
-                >Points: <span class="points">39</span></span
+                >Points: <span class="points">40</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46515987"
                   >Comments</a
-                ><span class="descendants">: 0</span></span
+                ><span class="descendants">: 1</span></span
               >
             </h4>
           </section>
@@ -516,11 +422,11 @@
             <h4>
               <span>2026-01-06 @ 18:00:27</span
               ><span class="points-container"
-                >Points: <span class="points">75</span></span
+                >Points: <span class="points">78</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46515948"
                   >Comments</a
-                ><span class="descendants">: 76</span></span
+                ><span class="descendants">: 79</span></span
               >
             </h4>
           </section>
@@ -537,11 +443,11 @@
             <h4>
               <span>2026-01-06 @ 17:59:41</span
               ><span class="points-container"
-                >Points: <span class="points">83</span></span
+                >Points: <span class="points">86</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46515936"
                   >Comments</a
-                ><span class="descendants">: 191</span></span
+                ><span class="descendants">: 202</span></span
               >
             </h4>
           </section>
@@ -660,11 +566,11 @@
             <h4>
               <span>2026-01-06 @ 17:45:37</span
               ><span class="points-container"
-                >Points: <span class="points">185</span></span
+                >Points: <span class="points">212</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46515696"
                   >Comments</a
-                ><span class="descendants">: 262</span></span
+                ><span class="descendants">: 294</span></span
               >
             </h4>
           </section>
@@ -681,11 +587,11 @@
             <h4>
               <span>2026-01-06 @ 16:59:44</span
               ><span class="points-container"
-                >Points: <span class="points">271</span></span
+                >Points: <span class="points">281</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46514913"
                   >Comments</a
-                ><span class="descendants">: 10</span></span
+                ><span class="descendants">: 15</span></span
               >
             </h4>
           </section>
@@ -702,7 +608,7 @@
             <h4>
               <span>2026-01-06 @ 16:52:56</span
               ><span class="points-container"
-                >Points: <span class="points">52</span></span
+                >Points: <span class="points">54</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46514807"
                   >Comments</a
@@ -723,11 +629,11 @@
             <h4>
               <span>2026-01-06 @ 16:46:13</span
               ><span class="points-container"
-                >Points: <span class="points">325</span></span
+                >Points: <span class="points">334</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46514692"
                   >Comments</a
-                ><span class="descendants">: 291</span></span
+                ><span class="descendants">: 305</span></span
               >
             </h4>
           </section>
@@ -737,18 +643,18 @@
             <a
               class="item"
               href="https://saigoneer.com/vietnam-news/28652-vienam-bans-unskippable-ads,-requires-skip-button-to-appear-after-5-seconds"
-              >Vienam bans unskippable ads</a
+              >Vietnam bans unskippable ads</a
             >
           </h3>
           <section>
             <h4>
               <span>2026-01-06 @ 16:45:42</span
               ><span class="points-container"
-                >Points: <span class="points">929</span></span
+                >Points: <span class="points">963</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46514677"
                   >Comments</a
-                ><span class="descendants">: 510</span></span
+                ><span class="descendants">: 519</span></span
               >
             </h4>
           </section>
@@ -764,11 +670,11 @@
             <h4>
               <span>2026-01-06 @ 13:48:27</span
               ><span class="points-container"
-                >Points: <span class="points">37</span></span
+                >Points: <span class="points">39</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46512182"
                   >Comments</a
-                ><span class="descendants">: 12</span></span
+                ><span class="descendants">: 13</span></span
               >
             </h4>
             <div class="text">
@@ -810,11 +716,11 @@
             <h4>
               <span>2026-01-06 @ 12:33:49</span
               ><span class="points-container"
-                >Points: <span class="points">307</span></span
+                >Points: <span class="points">308</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46511469"
                   >Comments</a
-                ><span class="descendants">: 89</span></span
+                ><span class="descendants">: 91</span></span
               >
             </h4>
             <div class="text">
@@ -928,11 +834,11 @@
             <h4>
               <span>2026-01-03 @ 23:06:55</span
               ><span class="points-container"
-                >Points: <span class="points">21</span></span
+                >Points: <span class="points">24</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46482685"
                   >Comments</a
-                ><span class="descendants">: 1</span></span
+                ><span class="descendants">: 3</span></span
               >
             </h4>
             <div class="text">
@@ -966,11 +872,11 @@
             <h4>
               <span>2026-01-02 @ 23:11:32</span
               ><span class="points-container"
-                >Points: <span class="points">48</span></span
+                >Points: <span class="points">50</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46470659"
                   >Comments</a
-                ><span class="descendants">: 13</span></span
+                ><span class="descendants">: 14</span></span
               >
             </h4>
           </section>
@@ -987,11 +893,11 @@
             <h4>
               <span>2026-01-02 @ 17:04:03</span
               ><span class="points-container"
-                >Points: <span class="points">223</span></span
+                >Points: <span class="points">230</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46466843"
                   >Comments</a
-                ><span class="descendants">: 67</span></span
+                ><span class="descendants">: 71</span></span
               >
             </h4>
           </section>
@@ -1008,7 +914,7 @@
             <h4>
               <span>2026-01-01 @ 19:31:29</span
               ><span class="points-container"
-                >Points: <span class="points">13</span></span
+                >Points: <span class="points">16</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46457212"
                   >Comments</a
@@ -1027,11 +933,11 @@
             <h4>
               <span>2026-01-01 @ 14:26:12</span
               ><span class="points-container"
-                >Points: <span class="points">35</span></span
+                >Points: <span class="points">37</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46454369"
                   >Comments</a
-                ><span class="descendants">: 14</span></span
+                ><span class="descendants">: 16</span></span
               >
             </h4>
           </section>
@@ -1046,11 +952,33 @@
             <h4>
               <span>2026-01-01 @ 06:15:43</span
               ><span class="points-container"
-                >Points: <span class="points">297</span></span
+                >Points: <span class="points">335</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46451768"
                   >Comments</a
-                ><span class="descendants">: 72</span></span
+                ><span class="descendants">: 84</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="46450014">
+          <h3>
+            <a
+              class="item"
+              href="https://targetedwebresults.com/pounce-demo-final.gif"
+              >Runtime invariant to rule count in a single-pass boundary
+              execution model</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-01-01 @ 00:47:10</span
+              ><span class="points-container"
+                >Points: <span class="points">5</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=46450014"
+                  >Comments</a
+                ><span class="descendants">: 4</span></span
               >
             </h4>
           </section>
