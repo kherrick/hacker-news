@@ -1,8 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-01-06, 16:02:56](https://news.ycombinator.com/item?id=46514059) - [Mamdani Targets Junk Fees and Hidden Charges in Two Executive Orders](https://www.nytimes.com/2026/01/05/nyregion/mamdani-affordability-consumer-protections.html)
 * [2026-01-06, 15:05:46](https://news.ycombinator.com/item?id=46513173) - [New Lego smart-play system](https://www.lego.com/en-us/smart-play)
-* [2026-01-06, 14:54:19](https://news.ycombinator.com/item?id=46513010) - [Gnome and Mozilla Discuss Proposal to Disable Middle Mouse Paste on Linux](https://linuxiac.com/gnome-and-mozilla-discuss-proposal-to-disable-middle-mouse-paste-on-linux/)
 * [2026-01-06, 14:45:47](https://news.ycombinator.com/item?id=46512881) - [65% of Hacker News Posts Have Negative Sentiment, and They Outperform](https://philippdubach.com/standalone/hn-sentiment/)
+* [2026-01-06, 14:41:55](https://news.ycombinator.com/item?id=46512842) - [High-performance header-only container library for C++23 on x86-64](https://github.com/kressler/fast-containers)
 * [2026-01-06, 14:30:53](https://news.ycombinator.com/item?id=46512707) - [Gemini Protocol Deployment Statistics](https://www.obsessivefacts.com/gemini-proxy?uri=gemini%3A%2F%2Fgemini.bortzmeyer.org%2Fsoftware%2Flupa%2Fstats.gmi)
 * [2026-01-06, 12:47:23](https://news.ycombinator.com/item?id=46511578) - [Show HN: DDL to Data – Generate realistic test data from SQL schemas](https://news.ycombinator.com/item?id=46511578)
 * [2026-01-06, 12:33:54](https://news.ycombinator.com/item?id=46511470) - [C Is Best](https://sqlite.org/whyc.html)
@@ -20,7 +21,6 @@
 * [2026-01-05, 21:05:50](https://news.ycombinator.com/item?id=46504963) - [There were BGP anomalies during the Venezuela blackout](https://loworbitsecurity.com/radar/radar16/)
 * [2026-01-05, 17:34:33](https://news.ycombinator.com/item?id=46501894) - [Brave overhauled its Rust adblock engine with FlatBuffers, cutting memory 75%](https://brave.com/privacy-updates/36-adblock-memory-reduction/)
 * [2026-01-05, 17:20:01](https://news.ycombinator.com/item?id=46501677) - [How Y Combinator made it smart to trust founders](https://elbowgreasegames.substack.com/p/when-good-actors-can-trust-each-other)
-* [2026-01-05, 13:52:17](https://news.ycombinator.com/item?id=46498735) - [I switched from VSCode to Zed](https://tenthousandmeters.com/blog/i-switched-from-vscode-to-zed/)
 * [2026-01-05, 07:14:30](https://news.ycombinator.com/item?id=46496103) - [Databases in 2025: A Year in Review](https://www.cs.cmu.edu/~pavlo/blog/2026/01/2025-databases-retrospective.html)
 * [2026-01-04, 19:10:31](https://news.ycombinator.com/item?id=46491129) - [Six-decade math puzzle solved by Korean mathematician](https://www.koreaherald.com/article/10648326)
 * [2026-01-03, 14:51:07](https://news.ycombinator.com/item?id=46477306) - [JavaScript's For-Of Loops Are Fast](https://waspdev.com/articles/2026-01-01/javascript-for-of-loops-are-actually-fast)
