@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-01-06, 20:24:45",
+      "https://news.ycombinator.com/item?id=46518129"
+    ],
+    [
+      "Calling All Hackers: How money works (2024)",
+      "https://phrack.org/issues/71/17"
+    ]
+  ],
+  [
+    [
       "2026-01-06, 19:50:35",
       "https://news.ycombinator.com/item?id=46517636"
     ],
@@ -61,16 +71,6 @@
   ],
   [
     [
-      "2026-01-06, 18:10:31",
-      "https://news.ycombinator.com/item?id=46516117"
-    ],
-    [
-      "Creating a Bespoke Data Diode for Air‑Gapped Networks",
-      "https://nelop.com/bespoke-data-diode-airgap/"
-    ]
-  ],
-  [
-    [
       "2026-01-06, 18:02:01",
       "https://news.ycombinator.com/item?id=46515987"
     ],
@@ -97,16 +97,6 @@
     [
       "Launch HN: Tamarind Bio (YC W24) – AI Inference Provider for Drug Discovery",
       "https://news.ycombinator.com/item?id=46515777"
-    ]
-  ],
-  [
-    [
-      "2026-01-06, 17:43:03",
-      "https://news.ycombinator.com/item?id=46515648"
-    ],
-    [
-      "DatBench: Discriminative, faithful, and efficient VLM evaluations",
-      "https://arxiv.org/abs/2601.02316"
     ]
   ],
   [
@@ -247,6 +237,16 @@
     [
       "enclose.horse",
       "https://enclose.horse/"
+    ]
+  ],
+  [
+    [
+      "2026-01-06, 03:07:50",
+      "https://news.ycombinator.com/item?id=46508299"
+    ],
+    [
+      "Show HN: llmgame.ai – The Wikipedia Game but with LLMs",
+      "https://www.llmgame.ai"
     ]
   ],
   [
