@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-01-06, 15:05:46](https://news.ycombinator.com/item?id=46513173) - [New Lego smart-play system](https://www.lego.com/en-us/smart-play)
 * [2026-01-06, 14:54:19](https://news.ycombinator.com/item?id=46513010) - [Gnome and Mozilla Discuss Proposal to Disable Middle Mouse Paste on Linux](https://linuxiac.com/gnome-and-mozilla-discuss-proposal-to-disable-middle-mouse-paste-on-linux/)
 * [2026-01-06, 14:45:47](https://news.ycombinator.com/item?id=46512881) - [65% of Hacker News Posts Have Negative Sentiment, and They Outperform](https://philippdubach.com/standalone/hn-sentiment/)
 * [2026-01-06, 14:30:53](https://news.ycombinator.com/item?id=46512707) - [Gemini Protocol Deployment Statistics](https://www.obsessivefacts.com/gemini-proxy?uri=gemini%3A%2F%2Fgemini.bortzmeyer.org%2Fsoftware%2Flupa%2Fstats.gmi)
-* [2026-01-06, 13:30:07](https://news.ycombinator.com/item?id=46511981) - [Why German Strings Are Everywhere?](https://cedardb.com/blog/german_strings/)
 * [2026-01-06, 12:47:23](https://news.ycombinator.com/item?id=46511578) - [Show HN: DDL to Data – Generate realistic test data from SQL schemas](https://news.ycombinator.com/item?id=46511578)
 * [2026-01-06, 12:33:54](https://news.ycombinator.com/item?id=46511470) - [C Is Best](https://sqlite.org/whyc.html)
 * [2026-01-06, 12:33:49](https://news.ycombinator.com/item?id=46511469) - [Show HN: Prism.Tools – Free and privacy-focused developer utilities](https://blgardner.github.io/prism.tools/)
@@ -12,7 +12,6 @@
 * [2026-01-06, 10:13:43](https://news.ycombinator.com/item?id=46510625) - [SCiZE's Classic Warez Collection](https://scenelist.org/)
 * [2026-01-06, 08:26:23](https://news.ycombinator.com/item?id=46509967) - [Tube trains could navigate the Underground using the rules of Quantum Physics](https://www.ianvisits.co.uk/articles/tube-trains-could-navigate-the-underground-using-the-weird-rules-of-quantum-physics-86370/)
 * [2026-01-06, 06:01:57](https://news.ycombinator.com/item?id=46509211) - [enclose.horse](https://enclose.horse/)
-* [2026-01-06, 05:20:40](https://news.ycombinator.com/item?id=46509019) - [The Post-American Internet](https://pluralistic.net/2026/01/01/39c3/)
 * [2026-01-06, 03:32:41](https://news.ycombinator.com/item?id=46508441) - [GoGoGrandparent (YC S16) is hiring back end engineers](https://www.ycombinator.com/companies/gogograndparent/jobs/2vbzAw8-gogograndparent-yc-s16-is-hiring-backend-and-full-stack-engineers)
 * [2026-01-06, 03:31:39](https://news.ycombinator.com/item?id=46508435) - [Intel Core Ultra Series 3 Debut as First Built on Intel 18A](https://newsroom.intel.com/client-computing/ces-2026-intel-core-ultra-series-3-debut-first-built-on-intel-18a)
 * [2026-01-06, 02:20:00](https://news.ycombinator.com/item?id=46507963) - [GBC Boot Animation 88×31 Web Button](https://zakhary.dev/blog/gbc-web-button)
@@ -28,6 +27,7 @@
 * [2026-01-02, 21:18:10](https://news.ycombinator.com/item?id=46469473) - [\"Inspector Dangerfuck\", ANSI art comic from 1994](https://breakintochat.com/blog/2025/12/31/ansi-art-and-webcomics-part-3-eerie-and-inspector-dangerfuck/)
 * [2026-01-02, 15:56:14](https://news.ycombinator.com/item?id=46466027) - [Try to take my position: The best promotion advice I ever got](https://andrew.grahamyooll.com/blog/Try-to-Take-My-Position/)
 * [2026-01-02, 13:21:42](https://news.ycombinator.com/item?id=46464462) - [Repair a ship’s hull still in the river in -50˚C (2022)](https://eugene.kaspersky.com/2022/04/26/how-to-repair-the-underside-of-a-ships-hull-still-in-the-river-in-50%CB%9Ac-yakutsk/)
+* [2026-01-02, 09:19:54](https://news.ycombinator.com/item?id=46462997) - [Swapping two blocks of memory inside a larger block, in constant memory](https://devblogs.microsoft.com/oldnewthing/20260101-00/?p=111955)
 * [2026-01-02, 03:01:50](https://news.ycombinator.com/item?id=46460930) - [Interpreter – Offline screen translator for Japanese retro games](https://github.com/bquenin/interpreter)
 * [2025-12-31, 06:15:05](https://news.ycombinator.com/item?id=46441873) - [Shipping at Inference-Speed](https://steipete.me/posts/2025/shipping-at-inference-speed)
 

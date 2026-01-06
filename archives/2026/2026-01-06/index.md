@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-01-06](index.md)
 
+* [2026-01-06, 15:05:46](https://news.ycombinator.com/item?id=46513173) - [New Lego smart-play system](https://www.lego.com/en-us/smart-play)
 * [2026-01-06, 14:54:19](https://news.ycombinator.com/item?id=46513010) - [Gnome and Mozilla Discuss Proposal to Disable Middle Mouse Paste on Linux](https://linuxiac.com/gnome-and-mozilla-discuss-proposal-to-disable-middle-mouse-paste-on-linux/)
 * [2026-01-06, 14:45:47](https://news.ycombinator.com/item?id=46512881) - [65% of Hacker News Posts Have Negative Sentiment, and They Outperform](https://philippdubach.com/standalone/hn-sentiment/)
 * [2026-01-06, 14:30:53](https://news.ycombinator.com/item?id=46512707) - [Gemini Protocol Deployment Statistics](https://www.obsessivefacts.com/gemini-proxy?uri=gemini%3A%2F%2Fgemini.bortzmeyer.org%2Fsoftware%2Flupa%2Fstats.gmi)
