@@ -62,6 +62,7 @@
 * [2026-01-01, 09:42:02](https://news.ycombinator.com/item?id=46452696) - [What if the world is made of cubes? Uncovering the universal geometry of geology](https://www.quantamagazine.org/scientists-uncover-the-universal-geometry-of-geology-20201119/)
 * [2026-01-01, 07:58:55](https://news.ycombinator.com/item?id=46452172) - [MHC: Manifold-Constrained Hyper-Connections](https://arxiv.org/abs/2512.24880)
 * [2026-01-01, 07:50:17](https://news.ycombinator.com/item?id=46452146) - [Ask HN: How did you learn to code?](https://news.ycombinator.com/item?id=46452146)
+* [2026-01-01, 06:15:43](https://news.ycombinator.com/item?id=46451768) - [Spherical Snake](https://kevinalbs.com/spherical_snake/)
 * [2026-01-01, 03:47:20](https://news.ycombinator.com/item?id=46451124) - [Flow5 Released to Open Source](https://flow5.tech/docs/releasenotes.html)
 * [2026-01-01, 03:46:32](https://news.ycombinator.com/item?id=46451120) - [Judge to Texas: You Can't Age-Gate the Internet Without Evidence](https://www.techdirt.com/2025/12/31/judge-to-texas-you-cant-age-gate-the-entire-internet-without-evidence/)
 * [2026-01-01, 02:35:40](https://news.ycombinator.com/item?id=46450731) - [Pixar's True Story](https://computerhistory.org/blog/pixars-true-story/)

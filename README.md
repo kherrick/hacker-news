@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-01-06, 18:39:21](https://news.ycombinator.com/item?id=46516559) - [Video Game Websites in the early 00s](https://www.webdesignmuseum.org/exhibitions/video-game-websites-in-the-early-00s)
+* [2026-01-06, 19:38:32](https://news.ycombinator.com/item?id=46517458) - [Stop Doom Scrolling, Start Doom Coding: Build via the terminal from your phone](https://github.com/rberg27/doom-coding)
 * [2026-01-06, 18:19:31](https://news.ycombinator.com/item?id=46516267) - [Show HN: Jax-JS, array library in JavaScript targeting WebGPU](https://ss.ekzhang.com/p/jax-js-an-ml-library-for-the-web)
 * [2026-01-06, 18:11:51](https://news.ycombinator.com/item?id=46516137) - [Passing of Joe Mancuso author of Masonite (Python web framework)](https://github.com/MasoniteFramework/masonite/discussions/853)
 * [2026-01-06, 18:10:31](https://news.ycombinator.com/item?id=46516117) - [Creating a Bespoke Data Diode for Air‑Gapped Networks](https://nelop.com/bespoke-data-diode-airgap/)
@@ -16,10 +16,10 @@
 * [2026-01-06, 16:52:08](https://news.ycombinator.com/item?id=46514794) - [Raspberry Pi and mini PC home lab prices hit parity as DRAM costs skyrocket](https://www.tomshardware.com/raspberry-pi/raspberry-pi-and-mini-pc-home-lab-prices-hit-parity-as-dram-costs-skyrocket-price-hikes-force-hobbyists-to-weigh-up-performance-versus-power-consumption)
 * [2026-01-06, 16:46:13](https://news.ycombinator.com/item?id=46514692) - [Why is the Gmail app 700 MB?](https://akr.am/blog/posts/why-is-the-gmail-app-700-mb)
 * [2026-01-06, 16:45:42](https://news.ycombinator.com/item?id=46514677) - [Vienam bans unskippable ads](https://saigoneer.com/vietnam-news/28652-vienam-bans-unskippable-ads,-requires-skip-button-to-appear-after-5-seconds)
-* [2026-01-06, 16:17:24](https://news.ycombinator.com/item?id=46514282) - [State of the Fin 2026-01-06](https://jellyfin.org/posts/state-of-the-fin-2026-01-06/)
 * [2026-01-06, 14:45:47](https://news.ycombinator.com/item?id=46512881) - [65% of Hacker News posts have negative sentiment, and they outperform](https://philippdubach.com/standalone/hn-sentiment/)
 * [2026-01-06, 14:41:55](https://news.ycombinator.com/item?id=46512842) - [High-performance header-only container library for C++23 on x86-64](https://github.com/kressler/fast-containers)
 * [2026-01-06, 14:30:53](https://news.ycombinator.com/item?id=46512707) - [Gemini Protocol Deployment Statistics](https://www.obsessivefacts.com/gemini-proxy?uri=gemini%3A%2F%2Fgemini.bortzmeyer.org%2Fsoftware%2Flupa%2Fstats.gmi)
+* [2026-01-06, 14:14:24](https://news.ycombinator.com/item?id=46512501) - [Show HN: ccrider - Search and Resume Your Claude Code Sessions – TUI / MCP / CLI](https://github.com/neilberkman/ccrider)
 * [2026-01-06, 12:33:49](https://news.ycombinator.com/item?id=46511469) - [Show HN: Prism.Tools – Free and privacy-focused developer utilities](https://blgardner.github.io/prism.tools/)
 * [2026-01-06, 11:42:35](https://news.ycombinator.com/item?id=46511153) - [AWS raises GPU prices 15% on a Saturday, hopes you weren't paying attention](https://www.theregister.com/2026/01/05/aws_price_increase/)
 * [2026-01-06, 06:22:30](https://news.ycombinator.com/item?id=46509307) - [My Tamagotchi is an RL agent playing Slither.io](https://nkasmanoff.github.io/#/blog/tamagotchi-rl-slitherio)
@@ -27,9 +27,9 @@
 * [2026-01-06, 03:07:50](https://news.ycombinator.com/item?id=46508299) - [Show HN: llmgame.ai – The Wikipedia Game but with LLMs](https://www.llmgame.ai)
 * [2026-01-06, 00:26:20](https://news.ycombinator.com/item?id=46507178) - [Why agents matter more than other AI](https://substack.com/home/post/p-182047799)
 * [2026-01-04, 06:15:25](https://news.ycombinator.com/item?id=46485466) - [Using fewer syllables to express numbers](https://thegraycuber.github.io/fast_numbers)
-* [2026-01-02, 21:18:10](https://news.ycombinator.com/item?id=46469473) - [\"Inspector Dangerfuck\", ANSI art comic from 1994](https://breakintochat.com/blog/2025/12/31/ansi-art-and-webcomics-part-3-eerie-and-inspector-dangerfuck/)
 * [2026-01-02, 17:04:03](https://news.ycombinator.com/item?id=46466843) - [I wanted a camera that doesn't exist – so I built it](https://medium.com/@cristi.baluta/i-wanted-a-camera-that-doesnt-exist-so-i-built-it-5f9864533eb7)
 * [2026-01-02, 13:21:42](https://news.ycombinator.com/item?id=46464462) - [Repair a ship’s hull still in the river in -50˚C (2022)](https://eugene.kaspersky.com/2022/04/26/how-to-repair-the-underside-of-a-ships-hull-still-in-the-river-in-50%CB%9Ac-yakutsk/)
+* [2026-01-01, 06:15:43](https://news.ycombinator.com/item?id=46451768) - [Spherical Snake](https://kevinalbs.com/spherical_snake/)
 
 ## [Archives](archives/index.md)
 
