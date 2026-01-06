@@ -8,7 +8,6 @@
 * [2026-01-06, 00:02:18](https://news.ycombinator.com/item?id=46506994) - [I/O is no longer the bottleneck? (2022)](https://stoppels.ch/2022/11/27/io-is-no-longer-the-bottleneck.html)
 * [2026-01-05, 23:19:52](https://news.ycombinator.com/item?id=46506596) - [Strange.website](https://strange.website/)
 * [2026-01-05, 22:10:15](https://news.ycombinator.com/item?id=46505735) - [Why didn't AI “join the workforce” in 2025?](https://calnewport.com/why-didnt-ai-join-the-workforce-in-2025/)
-* [2026-01-05, 21:52:22](https://news.ycombinator.com/item?id=46505518) - [Google broke my heart](https://perishablepress.com/google-broke-my-heart/)
 * [2026-01-05, 21:33:29](https://news.ycombinator.com/item?id=46505296) - [Scientific production in the era of large language models [pdf]](https://gwern.net/doc/science/2025-kusumegi.pdf)
 * [2026-01-05, 21:05:50](https://news.ycombinator.com/item?id=46504963) - [There were BGP anomalies during the Venezuela blackout](https://loworbitsecurity.com/radar/radar16/)
 * [2026-01-05, 17:34:33](https://news.ycombinator.com/item?id=46501894) - [Brave overhauled its Rust adblock engine with FlatBuffers, cutting memory 75%](https://brave.com/privacy-updates/36-adblock-memory-reduction/)
@@ -28,6 +27,7 @@
 * [2026-01-02, 03:01:50](https://news.ycombinator.com/item?id=46460930) - [Interpreter – Offline screen translator for Japanese retro games](https://github.com/bquenin/interpreter)
 * [2026-01-01, 22:36:50](https://news.ycombinator.com/item?id=46458936) - [Welcome to Gas Town](https://steve-yegge.medium.com/welcome-to-gas-town-4f25ee16dd04)
 * [2026-01-01, 16:58:19](https://news.ycombinator.com/item?id=46455643) - [New maps reveal post-flood migration patterns across the US](https://kinder.rice.edu/urbanedge/fema-buyouts-vs-risky-real-estate-new-maps-reveal-post-flood-migration-patterns-across-us)
+* [2025-12-31, 06:15:05](https://news.ycombinator.com/item?id=46441873) - [Shipping at Inference-Speed](https://steipete.me/posts/2025/shipping-at-inference-speed)
 * [2025-12-31, 01:24:14](https://news.ycombinator.com/item?id=46440271) - [Investigating and fixing a nasty clone bug](https://kobzol.github.io/rust/2025/12/30/investigating-and-fixing-a-nasty-clone-bug.html)
 * [2025-12-29, 21:17:26](https://news.ycombinator.com/item?id=46425819) - [What to Do When the Trisector Comes (1983) [pdf]](https://www.ufv.ca/media/faculty/gregschlitt/information/WhatToDoWhenTrisectorComes.pdf)
 
