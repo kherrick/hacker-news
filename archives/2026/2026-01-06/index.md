@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-01-06](index.md)
 
+* [2026-01-06, 18:39:21](https://news.ycombinator.com/item?id=46516559) - [Video Game Websites in the early 00s](https://www.webdesignmuseum.org/exhibitions/video-game-websites-in-the-early-00s)
 * [2026-01-06, 18:19:31](https://news.ycombinator.com/item?id=46516267) - [Show HN: Jax-JS, array library in JavaScript targeting WebGPU](https://ss.ekzhang.com/p/jax-js-an-ml-library-for-the-web)
 * [2026-01-06, 18:11:51](https://news.ycombinator.com/item?id=46516137) - [Passing of Joe Mancuso author of Masonite (Python web framework)](https://github.com/MasoniteFramework/masonite/discussions/853)
 * [2026-01-06, 18:10:31](https://news.ycombinator.com/item?id=46516117) - [Creating a Bespoke Data Diode for Air‑Gapped Networks](https://nelop.com/bespoke-data-diode-airgap/)
@@ -47,5 +48,7 @@
 * [2026-01-06, 03:59:19](https://news.ycombinator.com/item?id=46508582) - [A prediction market user made $436k betting on Maduro's downfall](https://www.bbc.com/news/articles/cx2gn93292do)
 * [2026-01-06, 03:32:41](https://news.ycombinator.com/item?id=46508441) - [GoGoGrandparent (YC S16) is hiring back end engineers](https://www.ycombinator.com/companies/gogograndparent/jobs/2vbzAw8-gogograndparent-yc-s16-is-hiring-backend-and-full-stack-engineers)
 * [2026-01-06, 03:31:39](https://news.ycombinator.com/item?id=46508435) - [Intel Panther Lake (first Intel 18A node product) makes debut at CES](https://newsroom.intel.com/client-computing/ces-2026-intel-core-ultra-series-3-debut-first-built-on-intel-18a)
+* [2026-01-06, 03:07:50](https://news.ycombinator.com/item?id=46508299) - [Show HN: llmgame.ai – The Wikipedia Game but with LLMs](https://www.llmgame.ai)
 * [2026-01-06, 02:20:00](https://news.ycombinator.com/item?id=46507963) - [GBC Boot Animation 88×31 Web Button](https://zakhary.dev/blog/gbc-web-button)
+* [2026-01-06, 00:26:20](https://news.ycombinator.com/item?id=46507178) - [Why agents matter more than other AI](https://substack.com/home/post/p-182047799)
 * [2026-01-06, 00:02:18](https://news.ycombinator.com/item?id=46506994) - [I/O is no longer the bottleneck? (2022)](https://stoppels.ch/2022/11/27/io-is-no-longer-the-bottleneck.html)
