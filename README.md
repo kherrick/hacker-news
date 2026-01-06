@@ -26,9 +26,9 @@
 * [2026-01-02, 22:53:53](https://news.ycombinator.com/item?id=46470513) - [The Lottery Ticket Hypothesis: Finding Sparse, Trainable Neural Networks (2018)](https://arxiv.org/abs/1803.03635)
 * [2026-01-02, 15:56:14](https://news.ycombinator.com/item?id=46466027) - [Try to take my position: The best promotion advice I ever got](https://andrew.grahamyooll.com/blog/Try-to-Take-My-Position/)
 * [2026-01-02, 14:56:28](https://news.ycombinator.com/item?id=46465335) - [Pebble Round 2](https://repebble.com/blog/pebble-round-2-the-most-stylish-pebble-ever)
+* [2026-01-02, 03:01:50](https://news.ycombinator.com/item?id=46460930) - [Interpreter – Offline screen translator for Japanese retro games](https://github.com/bquenin/interpreter)
 * [2026-01-01, 22:36:50](https://news.ycombinator.com/item?id=46458936) - [Welcome to Gas Town](https://steve-yegge.medium.com/welcome-to-gas-town-4f25ee16dd04)
 * [2026-01-01, 16:58:19](https://news.ycombinator.com/item?id=46455643) - [New maps reveal post-flood migration patterns across the US](https://kinder.rice.edu/urbanedge/fema-buyouts-vs-risky-real-estate-new-maps-reveal-post-flood-migration-patterns-across-us)
-* [2025-12-30, 17:20:02](https://news.ycombinator.com/item?id=46435551) - [Raindrop-Powered Generator Using Carbon Fiber Composites](https://en.sedaily.com/technology/2025/12/15/unist-develops-raindrop-powered-generator-using-carbon)
 * [2025-12-29, 21:17:26](https://news.ycombinator.com/item?id=46425819) - [What to Do When the Trisector Comes (1983) [pdf]](https://www.ufv.ca/media/faculty/gregschlitt/information/WhatToDoWhenTrisectorComes.pdf)
 
 ## [Archives](archives/index.md)
