@@ -17,6 +17,7 @@
 * [2026-01-01, 20:02:09](https://news.ycombinator.com/item?id=46457488) - [Six Harmless Bugs Lead to Remote Code Execution](https://mehmetince.net/the-story-of-a-perfect-exploit-chain-six-bugs-that-looked-harmless-until-they-became-pre-auth-rce-in-a-security-appliance/)
 * [2026-01-01, 19:58:19](https://news.ycombinator.com/item?id=46457454) - [Starlink satellites being lowered from 550 km to 480 km](https://twitter.com/michaelnicollsx/status/2006790372681220530)
 * [2026-01-01, 19:33:53](https://news.ycombinator.com/item?id=46457240) - [Prompting People](https://kuber.studio/blog/Reflections/Prompting-People)
+* [2026-01-01, 19:31:29](https://news.ycombinator.com/item?id=46457212) - [Writing an eigenvalue solver in Rust for WebAssembly](https://abstractnonsense.xyz/blog/2025-12-31-eigenvalue-solver-in-rust-for-webassembly/)
 * [2026-01-01, 19:30:19](https://news.ycombinator.com/item?id=46457196) - [Arpanet standardized TCP/IP on this day in 1983](https://www.tomshardware.com/networking/arpanet-standardized-tcp-ip-on-this-day-in-1983-43-year-old-standard-set-the-foundations-for-todays-internet)
 * [2026-01-01, 19:11:53](https://news.ycombinator.com/item?id=46457027) - [Dell's version of the DGX Spark fixes pain points](https://www.jeffgeerling.com/blog/2025/dells-version-dgx-spark-fixes-pain-points)
 * [2026-01-01, 18:49:40](https://news.ycombinator.com/item?id=46456838) - [Modern evidence for God from cosmology, astrochemistry, etc. (by a YC alum)](https://www.saintbeluga.org/follow-the-evidence-wherever-it-leads)
