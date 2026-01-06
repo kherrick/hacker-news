@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-01-06](index.md)
 
+* [2026-01-06, 16:45:42](https://news.ycombinator.com/item?id=46514677) - [Vienam Bans Unskippable Ads, Requires Skip Button to Appear After 5 Seconds](https://saigoneer.com/vietnam-news/28652-vienam-bans-unskippable-ads,-requires-skip-button-to-appear-after-5-seconds)
+* [2026-01-06, 16:17:24](https://news.ycombinator.com/item?id=46514282) - [State of the Fin 2026-01-06 – Jellyfin](https://jellyfin.org/posts/state-of-the-fin-2026-01-06/)
 * [2026-01-06, 16:02:56](https://news.ycombinator.com/item?id=46514059) - [Mamdani Targets Junk Fees and Hidden Charges in Two Executive Orders](https://www.nytimes.com/2026/01/05/nyregion/mamdani-affordability-consumer-protections.html)
 * [2026-01-06, 15:05:46](https://news.ycombinator.com/item?id=46513173) - [New Lego smart-play system](https://www.lego.com/en-us/smart-play)
 * [2026-01-06, 14:54:19](https://news.ycombinator.com/item?id=46513010) - [Gnome and Mozilla Discuss Proposal to Disable Middle Mouse Paste on Linux](https://linuxiac.com/gnome-and-mozilla-discuss-proposal-to-disable-middle-mouse-paste-on-linux/)
