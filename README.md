@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-01-06, 22:33:21](https://news.ycombinator.com/item?id=46519771) - [High-Performance GPU Cuckoo Filter](https://github.com/tdortman/cuckoo-filter)
 * [2026-01-06, 21:46:04](https://news.ycombinator.com/item?id=46519326) - [CES 2026: Taking the Lids Off AMD's Venice and MI400 SoCs](https://chipsandcheese.com/p/ces-2026-taking-the-lids-off-amds)
-* [2026-01-06, 21:44:37](https://news.ycombinator.com/item?id=46519303) - [Laylo (YC S20) – Head of Growth (Organic and Partners and Loops and AI) – Remote US](https://www.ycombinator.com/companies/laylo/jobs/ZtLHRXe-head-of-growth)
 * [2026-01-06, 21:23:07](https://news.ycombinator.com/item?id=46518996) - [Comparing AI agents to cybersecurity professionals in real-world pen testing](https://arxiv.org/abs/2512.09882)
 * [2026-01-06, 21:10:47](https://news.ycombinator.com/item?id=46518804) - [Oral microbiome sequencing after taking probiotics](https://blog.booleanbiotech.com/oral-microbiome-biogaia)
 * [2026-01-06, 20:55:01](https://news.ycombinator.com/item?id=46518573) - [A 30B Qwen Model Walks into a Raspberry Pi and Runs in Real Time](https://byteshape.com/blogs/Qwen3-30B-A3B-Instruct-2507/)
@@ -18,8 +18,8 @@
 * [2026-01-06, 17:49:56](https://news.ycombinator.com/item?id=46515777) - [Launch HN: Tamarind Bio (YC W24) – AI Inference Provider for Drug Discovery](https://news.ycombinator.com/item?id=46515777)
 * [2026-01-06, 17:45:37](https://news.ycombinator.com/item?id=46515696) - [Opus 4.5 is not the normal AI agent experience that I have had thus far](https://burkeholland.github.io/posts/opus-4-5-change-everything/)
 * [2026-01-06, 16:59:44](https://news.ycombinator.com/item?id=46514913) - [Volkswagen Brings Back Physical Buttons](https://www.caranddriver.com/news/a69916699/volkswagen-interior-physical-buttons-return/)
+* [2026-01-06, 16:53:27](https://news.ycombinator.com/item?id=46514816) - [Why Big Companies Keep Failing: The Stack Fallacy (2016)](https://techcrunch.com/2016/01/18/why-big-companies-keep-failing-the-stack-fallacy/)
 * [2026-01-06, 16:52:56](https://news.ycombinator.com/item?id=46514807) - [Loongarch Improvements with Box64](https://box86.org/2026/01/new-box64-v0-4-0-released/)
-* [2026-01-06, 16:46:13](https://news.ycombinator.com/item?id=46514692) - [Why is the Gmail app 700 MB?](https://akr.am/blog/posts/why-is-the-gmail-app-700-mb)
 * [2026-01-06, 16:45:42](https://news.ycombinator.com/item?id=46514677) - [Vietnam bans unskippable ads](https://saigoneer.com/vietnam-news/28652-vienam-bans-unskippable-ads,-requires-skip-button-to-appear-after-5-seconds)
 * [2026-01-06, 13:48:27](https://news.ycombinator.com/item?id=46512182) - [Show HN: Mantic.sh – A structural code search engine for AI agents](https://github.com/marcoaapfortes/Mantic.sh)
 * [2026-01-06, 12:33:49](https://news.ycombinator.com/item?id=46511469) - [Show HN: Prism.Tools – Free and privacy-focused developer utilities](https://blgardner.github.io/prism.tools/)

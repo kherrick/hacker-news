@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-01-06](index.md)
 
+* [2026-01-06, 22:33:21](https://news.ycombinator.com/item?id=46519771) - [High-Performance GPU Cuckoo Filter](https://github.com/tdortman/cuckoo-filter)
 * [2026-01-06, 21:46:04](https://news.ycombinator.com/item?id=46519326) - [CES 2026: Taking the Lids Off AMD's Venice and MI400 SoCs](https://chipsandcheese.com/p/ces-2026-taking-the-lids-off-amds)
 * [2026-01-06, 21:44:37](https://news.ycombinator.com/item?id=46519303) - [Laylo (YC S20) – Head of Growth (Organic and Partners and Loops and AI) – Remote US](https://www.ycombinator.com/companies/laylo/jobs/ZtLHRXe-head-of-growth)
 * [2026-01-06, 21:23:07](https://news.ycombinator.com/item?id=46518996) - [Comparing AI agents to cybersecurity professionals in real-world pen testing](https://arxiv.org/abs/2512.09882)
