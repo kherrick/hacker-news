@@ -1,12 +1,42 @@
 [
   [
     [
+      "2026-01-06, 18:19:31",
+      "https://news.ycombinator.com/item?id=46516267"
+    ],
+    [
+      "Show HN: Jax-JS, array library in JavaScript targeting WebGPU",
+      "https://ss.ekzhang.com/p/jax-js-an-ml-library-for-the-web"
+    ]
+  ],
+  [
+    [
       "2026-01-06, 18:11:51",
       "https://news.ycombinator.com/item?id=46516137"
     ],
     [
       "Passing of Joe Mancuso author of Masonite (Python web framework)",
       "https://github.com/MasoniteFramework/masonite/discussions/853"
+    ]
+  ],
+  [
+    [
+      "2026-01-06, 18:10:31",
+      "https://news.ycombinator.com/item?id=46516117"
+    ],
+    [
+      "Creating a Bespoke Data Diode for Air‑Gapped Networks",
+      "https://nelop.com/bespoke-data-diode-airgap/"
+    ]
+  ],
+  [
+    [
+      "2026-01-06, 18:02:01",
+      "https://news.ycombinator.com/item?id=46515987"
+    ],
+    [
+      "Hierarchical Autoregressive Modeling for Memory-Efficient Language Generation",
+      "https://arxiv.org/abs/2512.20687"
     ]
   ],
   [
@@ -21,6 +51,16 @@
   ],
   [
     [
+      "2026-01-06, 17:59:41",
+      "https://news.ycombinator.com/item?id=46515936"
+    ],
+    [
+      "Dude, where's my supersonic jet?",
+      "https://rationaloptimistsociety.substack.com/p/dude-wheres-my-supersonic-jet"
+    ]
+  ],
+  [
+    [
       "2026-01-06, 17:49:56",
       "https://news.ycombinator.com/item?id=46515777"
     ],
@@ -31,12 +71,12 @@
   ],
   [
     [
-      "2026-01-06, 17:45:37",
-      "https://news.ycombinator.com/item?id=46515696"
+      "2026-01-06, 17:43:03",
+      "https://news.ycombinator.com/item?id=46515648"
     ],
     [
-      "Opus 4.5 is not the normal AI agent experience that I have had thus far",
-      "https://burkeholland.github.io/posts/opus-4-5-change-everything/"
+      "DatBench: Discriminative, faithful, and efficient VLM evaluations",
+      "https://arxiv.org/abs/2601.02316"
     ]
   ],
   [
@@ -57,6 +97,16 @@
     [
       "Show HN: Stash – Sync Markdown Files with Apple Notes via CLI",
       "https://github.com/shakedlokits/stash"
+    ]
+  ],
+  [
+    [
+      "2026-01-06, 16:53:27",
+      "https://news.ycombinator.com/item?id=46514816"
+    ],
+    [
+      "Why Big Companies Keep Failing: The Stack Fallacy (2016)",
+      "https://techcrunch.com/2016/01/18/why-big-companies-keep-failing-the-stack-fallacy/"
     ]
   ],
   [
@@ -111,16 +161,6 @@
   ],
   [
     [
-      "2026-01-06, 15:44:44",
-      "https://news.ycombinator.com/item?id=46513728"
-    ],
-    [
-      "The skill of the future is not 'AI', but 'Focus' (2025)",
-      "https://carette.xyz/posts/focus_will_be_the_skill_of_the_future/"
-    ]
-  ],
-  [
-    [
       "2026-01-06, 14:45:47",
       "https://news.ycombinator.com/item?id=46512881"
     ],
@@ -151,42 +191,12 @@
   ],
   [
     [
-      "2026-01-06, 12:47:23",
-      "https://news.ycombinator.com/item?id=46511578"
-    ],
-    [
-      "Show HN: DDL to Data – Generate realistic test data from SQL schemas",
-      "https://news.ycombinator.com/item?id=46511578"
-    ]
-  ],
-  [
-    [
-      "2026-01-06, 12:33:54",
-      "https://news.ycombinator.com/item?id=46511470"
-    ],
-    [
-      "C Is Best (2025)",
-      "https://sqlite.org/whyc.html"
-    ]
-  ],
-  [
-    [
       "2026-01-06, 12:33:49",
       "https://news.ycombinator.com/item?id=46511469"
     ],
     [
       "Show HN: Prism.Tools – Free and privacy-focused developer utilities",
       "https://blgardner.github.io/prism.tools/"
-    ]
-  ],
-  [
-    [
-      "2026-01-06, 12:04:57",
-      "https://news.ycombinator.com/item?id=46511298"
-    ],
-    [
-      "System: Control your Mac from anywhere using natural language",
-      "https://system.surf/"
     ]
   ],
   [
@@ -201,12 +211,12 @@
   ],
   [
     [
-      "2026-01-06, 10:13:43",
-      "https://news.ycombinator.com/item?id=46510625"
+      "2026-01-06, 06:22:30",
+      "https://news.ycombinator.com/item?id=46509307"
     ],
     [
-      "SCiZE's Classic Warez Collection",
-      "https://scenelist.org/"
+      "My Tamagotchi is an RL agent playing Slither.io",
+      "https://nkasmanoff.github.io/#/blog/tamagotchi-rl-slitherio"
     ]
   ],
   [
@@ -221,16 +231,6 @@
   ],
   [
     [
-      "2026-01-06, 03:32:41",
-      "https://news.ycombinator.com/item?id=46508441"
-    ],
-    [
-      "GoGoGrandparent (YC S16) is hiring back end engineers",
-      "https://www.ycombinator.com/companies/gogograndparent/jobs/2vbzAw8-gogograndparent-yc-s16-is-hiring-backend-and-full-stack-engineers"
-    ]
-  ],
-  [
-    [
       "2026-01-05, 21:05:50",
       "https://news.ycombinator.com/item?id=46504963"
     ],
@@ -241,12 +241,12 @@
   ],
   [
     [
-      "2026-01-03, 05:43:56",
-      "https://news.ycombinator.com/item?id=46473142"
+      "2026-01-04, 06:15:25",
+      "https://news.ycombinator.com/item?id=46485466"
     ],
     [
-      "Gtasks-terminal – Google Tasks power-tool for the terminal",
-      "https://github.com/sirusdas/gtasks-terminal"
+      "Using fewer syllables to express numbers",
+      "https://thegraycuber.github.io/fast_numbers"
     ]
   ],
   [
@@ -271,16 +271,6 @@
   ],
   [
     [
-      "2026-01-02, 15:56:14",
-      "https://news.ycombinator.com/item?id=46466027"
-    ],
-    [
-      "Try to take my position: The best promotion advice I ever got",
-      "https://andrew.grahamyooll.com/blog/Try-to-Take-My-Position/"
-    ]
-  ],
-  [
-    [
       "2026-01-02, 13:21:42",
       "https://news.ycombinator.com/item?id=46464462"
     ],
@@ -297,6 +287,16 @@
     [
       "Swapping two blocks of memory inside a larger block, in constant memory",
       "https://devblogs.microsoft.com/oldnewthing/20260101-00/?p=111955"
+    ]
+  ],
+  [
+    [
+      "2025-12-30, 19:19:55",
+      "https://news.ycombinator.com/item?id=46436872"
+    ],
+    [
+      "Tell HN: I write and ship code ~20–50x faster than I did 5 years ago",
+      "https://news.ycombinator.com/item?id=46436872"
     ]
   ]
 ]
