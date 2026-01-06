@@ -49,6 +49,7 @@
 * [2025-12-31, 12:32:27](https://news.ycombinator.com/item?id=46443579) - [Fifteen Most Famous Transcendental Numbers](https://sprott.physics.wisc.edu/pickover/trans.html)
 * [2025-12-31, 12:12:20](https://news.ycombinator.com/item?id=46443486) - [Who Invented the Transistor?](https://people.idsia.ch/~juergen/who-invented-the-transistor.html)
 * [2025-12-31, 12:01:10](https://news.ycombinator.com/item?id=46443438) - [Activeloop (YC S18) Is Hiring MTS – Back End Engineer](https://careers.activeloop.ai/?ashby_jid=d8c54147-5fc8-48ba-a097-a6ae046c42bd)
+* [2025-12-31, 11:43:59](https://news.ycombinator.com/item?id=46443355) - [Show HN: Shadowlight, a voice-driven murder mystery and heist inside Minecraft](https://www.playshadowlight.com/)
 * [2025-12-31, 10:48:02](https://news.ycombinator.com/item?id=46443077) - [Show HN: I built a universal clipboard that syncs realtime on multiple devices](https://www.quickclip.space/)
 * [2025-12-31, 10:12:51](https://news.ycombinator.com/item?id=46442903) - [Akin's Laws of Spacecraft Design [pdf]](https://www.ece.uvic.ca/~elec399/201409/Akin%27s%20Laws%20of%20Spacecraft%20Design.pdf)
 * [2025-12-31, 09:16:58](https://news.ycombinator.com/item?id=46442624) - [GitHub – tomasf/Cadova: Swift DSL for parametric 3D modeling](https://github.com/tomasf/Cadova)

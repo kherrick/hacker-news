@@ -39,6 +39,7 @@
 * [2026-01-03, 11:29:33](https://news.ycombinator.com/item?id=46475395) - [Recursive Language Models](https://arxiv.org/abs/2512.24601)
 * [2026-01-03, 11:26:59](https://news.ycombinator.com/item?id=46475376) - [Not for Human Consumption](https://vectorculture.substack.com/p/not-for-human-consumption)
 * [2026-01-03, 11:13:48](https://news.ycombinator.com/item?id=46475296) - [Profiling with Ctrl-C](https://yosefk.com/blog/profiling-with-ctrl-c.html)
+* [2026-01-03, 11:02:58](https://news.ycombinator.com/item?id=46475222) - ['Doomsday fish': Once-in-a-lifetime sea creature encountered in Monterey Bay](https://www.sfgate.com/centralcoast/article/rare-deep-sea-fish-spotted-monterey-bay-21270815.php)
 * [2026-01-03, 11:02:33](https://news.ycombinator.com/item?id=46475218) - [Tally – A tool to help agents classify your bank transactions](https://tallyai.money/)
 * [2026-01-03, 10:09:48](https://news.ycombinator.com/item?id=46474859) - [Late night pizzeria nearby The Pentagon has suddenly surged in traffic](https://twitter.com/PenPizzaReport/status/2007347706017251535)
 * [2026-01-03, 10:05:56](https://news.ycombinator.com/item?id=46474833) - [How to Win Friends and Influence People: Unrevised Version](https://socialskillswisdom.com/)
