@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-01-06, 17:49:56",
+      "https://news.ycombinator.com/item?id=46515777"
+    ],
+    [
+      "Launch HN: Tamarind Bio (YC W24) – AI Inference Provider for Drug Discovery",
+      "https://news.ycombinator.com/item?id=46515777"
+    ]
+  ],
+  [
+    [
+      "2026-01-06, 17:45:37",
+      "https://news.ycombinator.com/item?id=46515696"
+    ],
+    [
+      "Opus 4.5 is going to change everything",
+      "https://burkeholland.github.io/posts/opus-4-5-change-everything/"
+    ]
+  ],
+  [
+    [
       "2026-01-06, 17:15:39",
       "https://news.ycombinator.com/item?id=46515191"
     ],
@@ -201,16 +221,6 @@
   ],
   [
     [
-      "2026-01-06, 03:31:39",
-      "https://news.ycombinator.com/item?id=46508435"
-    ],
-    [
-      "Intel Core Ultra Series 3 Debut as First Built on Intel 18A",
-      "https://newsroom.intel.com/client-computing/ces-2026-intel-core-ultra-series-3-debut-first-built-on-intel-18a"
-    ]
-  ],
-  [
-    [
       "2026-01-06, 00:02:18",
       "https://news.ycombinator.com/item?id=46506994"
     ],
@@ -231,12 +241,12 @@
   ],
   [
     [
-      "2026-01-05, 17:34:33",
-      "https://news.ycombinator.com/item?id=46501894"
+      "2026-01-03, 05:43:56",
+      "https://news.ycombinator.com/item?id=46473142"
     ],
     [
-      "Brave overhauled its Rust adblock engine with FlatBuffers, cutting memory 75%",
-      "https://brave.com/privacy-updates/36-adblock-memory-reduction/"
+      "Gtasks-terminal – Google Tasks power-tool for the terminal",
+      "https://github.com/sirusdas/gtasks-terminal"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Swapping two blocks of memory inside a larger block, in constant memory",
       "https://devblogs.microsoft.com/oldnewthing/20260101-00/?p=111955"
-    ]
-  ],
-  [
-    [
-      "2026-01-02, 03:01:50",
-      "https://news.ycombinator.com/item?id=46460930"
-    ],
-    [
-      "Interpreter – Offline screen translator for Japanese retro games",
-      "https://github.com/bquenin/interpreter"
     ]
   ]
 ]
