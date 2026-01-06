@@ -8,6 +8,7 @@
 * [2026-01-06, 21:44:37](https://news.ycombinator.com/item?id=46519303) - [Laylo (YC S20) – Head of Growth (Organic and Partners and Loops and AI) – Remote US](https://www.ycombinator.com/companies/laylo/jobs/ZtLHRXe-head-of-growth)
 * [2026-01-06, 21:23:07](https://news.ycombinator.com/item?id=46518996) - [Comparing AI agents to cybersecurity professionals in real-world pen testing](https://arxiv.org/abs/2512.09882)
 * [2026-01-06, 21:10:47](https://news.ycombinator.com/item?id=46518804) - [Oral microbiome sequencing after taking probiotics](https://blog.booleanbiotech.com/oral-microbiome-biogaia)
+* [2026-01-06, 20:57:06](https://news.ycombinator.com/item?id=46518608) - [Show HN: Symbolic Circuit Distillation: prove program to LLM circuit equivalence](https://github.com/neelsomani/symbolic-circuit-distillation)
 * [2026-01-06, 20:55:01](https://news.ycombinator.com/item?id=46518573) - [A 30B Qwen Model Walks into a Raspberry Pi and Runs in Real Time](https://byteshape.com/blogs/Qwen3-30B-A3B-Instruct-2507/)
 * [2026-01-06, 20:24:45](https://news.ycombinator.com/item?id=46518129) - [Calling All Hackers: How money works (2024)](https://phrack.org/issues/71/17)
 * [2026-01-06, 20:22:43](https://news.ycombinator.com/item?id=46518106) - [Show HN: Finding similarities in New Yorker covers](https://shoplurker.com/labs/newyorker-covers/)
