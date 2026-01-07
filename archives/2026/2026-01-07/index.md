@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-01-07](index.md)
 
+* [2026-01-07, 16:28:14](https://news.ycombinator.com/item?id=46528353) - [Health care data breach affects over 600k patients, Illinois agency says](https://www.nprillinois.org/illinois/2026-01-06/health-care-data-breach-affects-600-000-patients-illinois-agency-says)
 * [2026-01-07, 16:18:23](https://news.ycombinator.com/item?id=46528192) - [BillG the Manager](https://hardcoresoftware.learningbyshipping.com/p/019-billg-the-manager)
+* [2026-01-07, 16:15:01](https://news.ycombinator.com/item?id=46528142) - [The Case for Nushell (2023)](https://www.sophiajt.com/case-for-nushell/)
 * [2026-01-07, 16:02:19](https://news.ycombinator.com/item?id=46527950) - [Creators of Tailwind laid off 75% of their engineering team](https://github.com/tailwindlabs/tailwindcss.com/pull/2388)
 * [2026-01-07, 15:50:50](https://news.ycombinator.com/item?id=46527775) - [Many Hells of WebDAV: Writing a Client/Server in Go](https://candid.dev/blog/many-hells-of-webdav)
 * [2026-01-07, 15:46:07](https://news.ycombinator.com/item?id=46527706) - [Dell's CES 2026 chat was the most pleasingly un-AI briefing I've had in 5 years](https://www.pcgamer.com/hardware/dells-ces-2026-chat-was-the-most-pleasingly-un-ai-briefing-ive-had-in-maybe-5-years/)

@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-01-07, 16:28:14](https://news.ycombinator.com/item?id=46528353) - [Health care data breach affects over 600k patients, Illinois agency says](https://www.nprillinois.org/illinois/2026-01-06/health-care-data-breach-affects-600-000-patients-illinois-agency-says)
 * [2026-01-07, 16:18:23](https://news.ycombinator.com/item?id=46528192) - [BillG the Manager](https://hardcoresoftware.learningbyshipping.com/p/019-billg-the-manager)
+* [2026-01-07, 16:15:01](https://news.ycombinator.com/item?id=46528142) - [The Case for Nushell (2023)](https://www.sophiajt.com/case-for-nushell/)
 * [2026-01-07, 16:02:19](https://news.ycombinator.com/item?id=46527950) - [Creators of Tailwind laid off 75% of their engineering team](https://github.com/tailwindlabs/tailwindcss.com/pull/2388)
 * [2026-01-07, 15:50:50](https://news.ycombinator.com/item?id=46527775) - [Many Hells of WebDAV: Writing a Client/Server in Go](https://candid.dev/blog/many-hells-of-webdav)
 * [2026-01-07, 15:46:07](https://news.ycombinator.com/item?id=46527706) - [Dell's CES 2026 chat was the most pleasingly un-AI briefing I've had in 5 years](https://www.pcgamer.com/hardware/dells-ces-2026-chat-was-the-most-pleasingly-un-ai-briefing-ive-had-in-maybe-5-years/)
@@ -22,13 +24,11 @@
 * [2026-01-06, 20:55:01](https://news.ycombinator.com/item?id=46518573) - [A 30B Qwen model walks into a Raspberry Pi and runs in real time](https://byteshape.com/blogs/Qwen3-30B-A3B-Instruct-2507/)
 * [2026-01-06, 19:38:32](https://news.ycombinator.com/item?id=46517458) - [Stop Doom Scrolling, Start Doom Coding: Build via the terminal from your phone](https://github.com/rberg27/doom-coding)
 * [2026-01-06, 17:45:37](https://news.ycombinator.com/item?id=46515696) - [Opus 4.5 is not the normal AI agent experience that I have had thus far](https://burkeholland.github.io/posts/opus-4-5-change-everything/)
-* [2026-01-06, 16:45:42](https://news.ycombinator.com/item?id=46514677) - [Vietnam bans unskippable ads](https://saigoneer.com/vietnam-news/28652-vienam-bans-unskippable-ads,-requires-skip-button-to-appear-after-5-seconds)
 * [2026-01-04, 20:24:18](https://news.ycombinator.com/item?id=46491808) - [Quake Brutalist Jam III](https://www.slipseer.com/index.php?resources/quake-brutalist-jam-iii.549/)
 * [2026-01-04, 00:48:38](https://news.ycombinator.com/item?id=46483550) - [Show HN: Comet MCP – Give Claude Code a browser that can click](https://github.com/hanzili/comet-mcp)
 * [2026-01-03, 15:46:30](https://news.ycombinator.com/item?id=46477961) - [Show HN: I built a \"Do not disturb\" Device for my home office](https://apoorv.page/blogs/over-engineered-dnd)
 * [2026-01-03, 06:49:52](https://news.ycombinator.com/item?id=46473400) - [Formal methods only solve half my problems](https://brooker.co.za/blog/2022/06/02/formal.html)
 * [2026-01-03, 06:08:18](https://news.ycombinator.com/item?id=46473247) - [Vector graphics on GPU](https://gasiulis.name/vector-graphics-on-gpu/)
-* [2026-01-02, 22:07:50](https://news.ycombinator.com/item?id=46470017) - [The creator of Claude Code's Claude setup](https://twitter.com/bcherny/status/2007179832300581177)
 * [2026-01-01, 09:30:28](https://news.ycombinator.com/item?id=46452641) - [Sergey Brin's Unretirement](https://www.inc.com/jessica-stillman/google-co-founder-sergey-brins-unretirement-is-a-lesson-for-the-rest-of-us/91280208)
 
 ## [Archives](archives/index.md)
