@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-01-07, 15:37:41",
+      "https://news.ycombinator.com/item?id=46527600"
+    ],
+    [
+      "Commodore 64 floppy drive has the power to be a computer and runs BASIC",
+      "https://www.tomshardware.com/pc-components/cpus/commodore-64-floppy-drive-has-the-power-to-be-a-computer-bulky-1982-commodore-1541-5-25-inch-drive-packs-a-1-mhz-mos-6502-cpu"
+    ]
+  ],
+  [
+    [
+      "2026-01-07, 15:36:25",
+      "https://news.ycombinator.com/item?id=46527581"
+    ],
+    [
+      "LLM Problems Observed in Humans",
+      "https://embd.cc/llm-problems-observed-in-humans"
+    ]
+  ],
+  [
+    [
       "2026-01-07, 15:32:44",
       "https://news.ycombinator.com/item?id=46527533"
     ],
@@ -17,6 +37,16 @@
     [
       "We might have been slower to abandon StackOverflow if it wasn't a toxic hellhole",
       "https://www.pcloadletter.dev/blog/abandoning-stackoverflow/"
+    ]
+  ],
+  [
+    [
+      "2026-01-07, 15:24:42",
+      "https://news.ycombinator.com/item?id=46527443"
+    ],
+    [
+      "Supreme Court Increasingly Favors the Rich, Economists Say",
+      "https://www.nytimes.com/2026/01/05/us/politics/supreme-court-study-rich-poor.html"
     ]
   ],
   [
@@ -45,7 +75,7 @@
       "https://news.ycombinator.com/item?id=46526933"
     ],
     [
-      "LaTeX Coffee Stains [pdf]",
+      "LaTeX Coffee Stains [pdf] (2021)",
       "https://ctan.math.illinois.edu/graphics/pgf/contrib/coffeestains/coffeestains-en.pdf"
     ]
   ],
@@ -67,16 +97,6 @@
     [
       "Show HN: RepoReaper – AST-aware, JIT-loading code audit agent (Python/AsyncIO)",
       "https://github.com/tzzp1224/RepoReaper"
-    ]
-  ],
-  [
-    [
-      "2026-01-07, 13:54:31",
-      "https://news.ycombinator.com/item?id=46526376"
-    ],
-    [
-      "Everyone hates OneDrive, Microsofts cloud app that steals and deletes files",
-      "https://boingboing.net/2026/01/05/everyone-hates-onedrive-microsofts-cloud-app-that-steals-then-deletes-all-your-files.html"
     ]
   ],
   [
@@ -141,16 +161,6 @@
   ],
   [
     [
-      "2026-01-07, 00:44:43",
-      "https://news.ycombinator.com/item?id=46521029"
-    ],
-    [
-      "We recreated Steve Jobs's 1975 Atari horoscope program",
-      "https://blog.adafruit.com/2026/01/06/we-recreated-steve-jobss-1975-atari-horoscope-program-and-you-can-run-it/"
-    ]
-  ],
-  [
-    [
       "2026-01-07, 00:31:01",
       "https://news.ycombinator.com/item?id=46520935"
     ],
@@ -167,16 +177,6 @@
     [
       "Show HN: SMTP Tunnel – A SOCKS5 proxy disguised as email traffic to bypass DPI",
       "https://github.com/x011/smtp-tunnel-proxy"
-    ]
-  ],
-  [
-    [
-      "2026-01-06, 21:10:47",
-      "https://news.ycombinator.com/item?id=46518804"
-    ],
-    [
-      "Oral microbiome sequencing after taking probiotics",
-      "https://blog.booleanbiotech.com/oral-microbiome-biogaia"
     ]
   ],
   [
