@@ -1,12 +1,102 @@
 [
   [
     [
+      "2026-01-07, 01:11:12",
+      "https://news.ycombinator.com/item?id=46521238"
+    ],
+    [
+      "The data center boom is concentrated in the U.S.",
+      "https://spectrum.ieee.org/data-center-growth"
+    ]
+  ],
+  [
+    [
+      "2026-01-07, 01:05:01",
+      "https://news.ycombinator.com/item?id=46521179"
+    ],
+    [
+      "Most websites don't need cookie consent banners",
+      "https://block81.com/blog/why-most-websites-dont-actually-need-cookie-consent-banners"
+    ]
+  ],
+  [
+    [
+      "2026-01-07, 00:50:58",
+      "https://news.ycombinator.com/item?id=46521084"
+    ],
+    [
+      "PassSeeds – hijacking Passkeys to unlock new cryptographic use cases",
+      "https://backalleycoder.com/posts/passseeds-an-experiment-in-hijacking-passkeys-to-unlock-cryptographic-use-cases/"
+    ]
+  ],
+  [
+    [
+      "2026-01-07, 00:36:41",
+      "https://news.ycombinator.com/item?id=46520975"
+    ],
+    [
+      "Website with a DMCA Takedown",
+      "https://priyatham.in/en/post/hosting-dmca/"
+    ]
+  ],
+  [
+    [
+      "2026-01-07, 00:31:01",
+      "https://news.ycombinator.com/item?id=46520935"
+    ],
+    [
+      "Electronic nose for indoor mold detection and identification",
+      "https://advanced.onlinelibrary.wiley.com/doi/10.1002/adsr.202500124"
+    ]
+  ],
+  [
+    [
+      "2026-01-07, 00:22:06",
+      "https://news.ycombinator.com/item?id=46520879"
+    ],
+    [
+      "Why the trans flag emoji is the 5-codepoint sequence it is",
+      "https://hecate.pink/blog/2026/trans-flag-emoji/"
+    ]
+  ],
+  [
+    [
+      "2026-01-06, 23:46:24",
+      "https://news.ycombinator.com/item?id=46520566"
+    ],
+    [
+      "Ruby Array Pack Bleed",
+      "https://nastystereo.com/security/ruby-pack.html"
+    ]
+  ],
+  [
+    [
+      "2026-01-06, 23:40:03",
+      "https://news.ycombinator.com/item?id=46520508"
+    ],
+    [
+      "Hyundai Introduces Its Next-Gen Atlas Robot at CES 2026 [video]",
+      "https://www.youtube.com/watch?v=9e0SQn9uUlw"
+    ]
+  ],
+  [
+    [
       "2026-01-06, 22:33:21",
       "https://news.ycombinator.com/item?id=46519771"
     ],
     [
-      "High-Performance GPU Cuckoo Filter",
+      "Show HN: GPU Cuckoo Filter – faster queries than Blocked Bloom, with deletion",
       "https://github.com/tdortman/cuckoo-filter"
+    ]
+  ],
+  [
+    [
+      "2026-01-06, 22:15:52",
+      "https://news.ycombinator.com/item?id=46519622"
+    ],
+    [
+      "Are we tired of social media once and for all? (2025)",
+      "https://www.danielbrendel.com/blog/24-are-we-tired-of-social-media-once-and-for-all"
     ]
   ],
   [
@@ -55,7 +145,7 @@
       "https://news.ycombinator.com/item?id=46518573"
     ],
     [
-      "A 30B Qwen Model Walks into a Raspberry Pi and Runs in Real Time",
+      "A 30B Qwen model walks into a Raspberry Pi and runs in real time",
       "https://byteshape.com/blogs/Qwen3-30B-A3B-Instruct-2507/"
     ]
   ],
@@ -67,26 +157,6 @@
     [
       "Calling All Hackers: How money works (2024)",
       "https://phrack.org/issues/71/17"
-    ]
-  ],
-  [
-    [
-      "2026-01-06, 20:22:43",
-      "https://news.ycombinator.com/item?id=46518106"
-    ],
-    [
-      "Show HN: Finding similarities in New Yorker covers",
-      "https://shoplurker.com/labs/newyorker-covers/"
-    ]
-  ],
-  [
-    [
-      "2026-01-06, 19:50:35",
-      "https://news.ycombinator.com/item?id=46517636"
-    ],
-    [
-      "Self hosting my media library with Jellyfin and Wireguard on Hetzner",
-      "https://layandreas.github.io/personal-blog/posts/how-spotify-made-me-self-host/"
     ]
   ],
   [
@@ -111,16 +181,6 @@
   ],
   [
     [
-      "2026-01-06, 18:39:21",
-      "https://news.ycombinator.com/item?id=46516559"
-    ],
-    [
-      "Video Game Websites in the early 00s",
-      "https://www.webdesignmuseum.org/exhibitions/video-game-websites-in-the-early-00s"
-    ]
-  ],
-  [
-    [
       "2026-01-06, 18:11:51",
       "https://news.ycombinator.com/item?id=46516137"
     ],
@@ -141,16 +201,6 @@
   ],
   [
     [
-      "2026-01-06, 17:59:41",
-      "https://news.ycombinator.com/item?id=46515936"
-    ],
-    [
-      "Dude, where's my supersonic jet?",
-      "https://rationaloptimistsociety.substack.com/p/dude-wheres-my-supersonic-jet"
-    ]
-  ],
-  [
-    [
       "2026-01-06, 17:49:56",
       "https://news.ycombinator.com/item?id=46515777"
     ],
@@ -167,36 +217,6 @@
     [
       "Opus 4.5 is not the normal AI agent experience that I have had thus far",
       "https://burkeholland.github.io/posts/opus-4-5-change-everything/"
-    ]
-  ],
-  [
-    [
-      "2026-01-06, 16:59:44",
-      "https://news.ycombinator.com/item?id=46514913"
-    ],
-    [
-      "Volkswagen Brings Back Physical Buttons",
-      "https://www.caranddriver.com/news/a69916699/volkswagen-interior-physical-buttons-return/"
-    ]
-  ],
-  [
-    [
-      "2026-01-06, 16:53:27",
-      "https://news.ycombinator.com/item?id=46514816"
-    ],
-    [
-      "Why Big Companies Keep Failing: The Stack Fallacy (2016)",
-      "https://techcrunch.com/2016/01/18/why-big-companies-keep-failing-the-stack-fallacy/"
-    ]
-  ],
-  [
-    [
-      "2026-01-06, 16:52:56",
-      "https://news.ycombinator.com/item?id=46514807"
-    ],
-    [
-      "Loongarch Improvements with Box64",
-      "https://box86.org/2026/01/new-box64-v0-4-0-released/"
     ]
   ],
   [
@@ -231,32 +251,22 @@
   ],
   [
     [
-      "2026-01-03, 23:06:55",
-      "https://news.ycombinator.com/item?id=46482685"
+      "2026-01-02, 23:53:21",
+      "https://news.ycombinator.com/item?id=46471001"
     ],
     [
-      "Show HN: Foundertrace – chain of YC startups founded by its employees",
-      "https://foundertrace.com/"
+      "XPER on the Commodore 64",
+      "https://stonetools.ghost.io/xper-c64/"
     ]
   ],
   [
     [
-      "2026-01-03, 01:14:42",
-      "https://news.ycombinator.com/item?id=46471691"
+      "2026-01-02, 23:47:59",
+      "https://news.ycombinator.com/item?id=46470963"
     ],
     [
-      "Representing Hierarchies",
-      "https://gpfault.net/posts/first-child-next-sibling.html"
-    ]
-  ],
-  [
-    [
-      "2026-01-02, 23:11:32",
-      "https://news.ycombinator.com/item?id=46470659"
-    ],
-    [
-      "How HTML changes in ePub",
-      "https://www.htmhell.dev/adventcalendar/2025/11/"
+      "The Agentic Self: Parallels Between AI and Self-Improvement",
+      "http://muratbuffalo.blogspot.com/2026/01/the-agentic-self-parallels-between-ai.html"
     ]
   ],
   [
@@ -267,16 +277,6 @@
     [
       "I wanted a camera that doesn't exist – so I built it",
       "https://medium.com/@cristi.baluta/i-wanted-a-camera-that-doesnt-exist-so-i-built-it-5f9864533eb7"
-    ]
-  ],
-  [
-    [
-      "2026-01-01, 19:31:29",
-      "https://news.ycombinator.com/item?id=46457212"
-    ],
-    [
-      "Writing an eigenvalue solver in Rust for WebAssembly",
-      "https://abstractnonsense.xyz/blog/2025-12-31-eigenvalue-solver-in-rust-for-webassembly/"
     ]
   ],
   [
