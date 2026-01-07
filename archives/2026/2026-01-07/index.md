@@ -4,11 +4,13 @@
 
 ### [Archives](../../index.md) for [2026-01-07](index.md)
 
+* [2026-01-07, 17:54:25](https://news.ycombinator.com/item?id=46529797) - [A tab hoarder's journey to sanity](https://twitter.com/borisandcrispin/status/2008709479068794989)
 * [2026-01-07, 17:22:09](https://news.ycombinator.com/item?id=46529237) - [Eat Real Food – Introducing the New Pyramid](https://realfood.gov)
 * [2026-01-07, 17:12:04](https://news.ycombinator.com/item?id=46529097) - [The $14 Burrito: Why San Francisco Inflation Feels Higher Than 2.5%](https://www.foglinesf.com/p/the-14-burrito-why-san-francisco-inflation-feels-higher-than-2-5)
 * [2026-01-07, 16:28:14](https://news.ycombinator.com/item?id=46528353) - [Health care data breach affects over 600k patients, Illinois agency says](https://www.nprillinois.org/illinois/2026-01-06/health-care-data-breach-affects-600-000-patients-illinois-agency-says)
 * [2026-01-07, 16:18:23](https://news.ycombinator.com/item?id=46528192) - [BillG the Manager](https://hardcoresoftware.learningbyshipping.com/p/019-billg-the-manager)
 * [2026-01-07, 16:15:01](https://news.ycombinator.com/item?id=46528142) - [The Case for Nushell (2023)](https://www.sophiajt.com/case-for-nushell/)
+* [2026-01-07, 16:08:36](https://news.ycombinator.com/item?id=46528045) - [Building voice agents with Nvidia open models](https://www.daily.co/blog/building-voice-agents-with-nvidia-open-models/)
 * [2026-01-07, 16:02:19](https://news.ycombinator.com/item?id=46527950) - [Creators of Tailwind laid off 75% of their engineering team](https://github.com/tailwindlabs/tailwindcss.com/pull/2388)
 * [2026-01-07, 15:50:50](https://news.ycombinator.com/item?id=46527775) - [Many Hells of WebDAV: Writing a Client/Server in Go](https://candid.dev/blog/many-hells-of-webdav)
 * [2026-01-07, 15:46:07](https://news.ycombinator.com/item?id=46527706) - [Dell's CES 2026 chat was the most pleasingly un-AI briefing I've had in 5 years](https://www.pcgamer.com/hardware/dells-ces-2026-chat-was-the-most-pleasingly-un-ai-briefing-ive-had-in-maybe-5-years/)
@@ -34,6 +36,7 @@
 * [2026-01-07, 10:53:41](https://news.ycombinator.com/item?id=46524873) - [Firefox extension to redirect x.com to xcancel.com](https://addons.mozilla.org/en-US/firefox/addon/toxcancel/)
 * [2026-01-07, 10:05:29](https://news.ycombinator.com/item?id=46524576) - [The mineral riches hiding under Greenland's ice](https://www.bbc.com/future/article/20250121-the-enormous-challenge-of-mining-greenland)
 * [2026-01-07, 09:59:04](https://news.ycombinator.com/item?id=46524527) - [Htmx: High Power Tools for HTML](https://github.com/bigskysoftware/htmx)
+* [2026-01-07, 08:42:57](https://news.ycombinator.com/item?id=46524036) - [Show HN: Free and local browser tool for designing gear models for 3D printing](https://gears.dmtrkovalenko.dev)
 * [2026-01-07, 05:44:54](https://news.ycombinator.com/item?id=46523029) - [Bill to Eliminate H-1B Visa Program Introduced in Congress](https://www.newsweek.com/eliminate-h1b-visa-program-congress-bill-marjorie-taylor-greene-11312655)
 * [2026-01-07, 04:48:50](https://news.ycombinator.com/item?id=46522686) - [A glimpse into V8 development for RISC-V](https://riseproject.dev/2025/12/09/a-glimpse-into-v8-development-for-risc-v/)
 * [2026-01-07, 03:48:05](https://news.ycombinator.com/item?id=46522308) - [On the slow death of scaling](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5877662)
