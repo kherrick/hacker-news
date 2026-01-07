@@ -53,6 +53,7 @@
 * [2026-01-03, 06:49:39](https://news.ycombinator.com/item?id=46473399) - [Multiple explosions in Venezuela's capital Caracas](https://www.cnn.com/2026/01/03/americas/venezuela-explosions-intl-hnk)
 * [2026-01-03, 06:35:51](https://news.ycombinator.com/item?id=46473352) - [Ask HN: Expository/Succinct Books on Modern Physics](https://news.ycombinator.com/item?id=46473352)
 * [2026-01-03, 06:35:21](https://news.ycombinator.com/item?id=46473348) - [Loud noises heard in Venezuela capital, southern area without electricity](https://www.reuters.com/world/americas/loud-noises-heard-venezuela-capital-southern-area-without-electricity-2026-01-03/)
+* [2026-01-03, 06:08:18](https://news.ycombinator.com/item?id=46473247) - [Vector graphics on GPU](https://gasiulis.name/vector-graphics-on-gpu/)
 * [2026-01-03, 06:04:58](https://news.ycombinator.com/item?id=46473232) - [The Constitution Was a Coup](https://lucasvance.github.io/2100/coup/)
 * [2026-01-03, 06:01:29](https://news.ycombinator.com/item?id=46473214) - [Japan joining growing global trend of declining democracy](https://www.asahi.com/ajw/articles/16262732)
 * [2026-01-03, 05:43:56](https://news.ycombinator.com/item?id=46473142) - [Gtasks-terminal – Google Tasks power-tool for the terminal](https://github.com/sirusdas/gtasks-terminal)
