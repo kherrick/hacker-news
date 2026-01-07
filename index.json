@@ -1,12 +1,42 @@
 [
   [
     [
+      "2026-01-07, 20:25:51",
+      "https://news.ycombinator.com/item?id=46532075"
+    ],
+    [
+      "Claude Code CLI Broken",
+      "https://github.com/anthropics/claude-code/issues/16673"
+    ]
+  ],
+  [
+    [
       "2026-01-07, 20:16:50",
       "https://news.ycombinator.com/item?id=46531925"
     ],
     [
       "Tailscale state file encryption no longer enabled by default",
       "https://tailscale.com/changelog"
+    ]
+  ],
+  [
+    [
+      "2026-01-07, 20:06:53",
+      "https://news.ycombinator.com/item?id=46531794"
+    ],
+    [
+      "Claude Code Emergent Behavior: When Skills Combine",
+      "https://vibeandscribe.xyz/posts/2025-01-07-emergent-behavior.html"
+    ]
+  ],
+  [
+    [
+      "2026-01-07, 19:29:39",
+      "https://news.ycombinator.com/item?id=46531280"
+    ],
+    [
+      "Introducing ChatGPT Health",
+      "https://openai.com/index/introducing-chatgpt-health/"
     ]
   ],
   [
@@ -41,32 +71,12 @@
   ],
   [
     [
-      "2026-01-07, 17:23:23",
-      "https://news.ycombinator.com/item?id=46529257"
-    ],
-    [
-      "Texas A&M bans part of Plato's Symposium",
-      "https://dailynous.com/2026/01/06/texas-am-bans-plato/"
-    ]
-  ],
-  [
-    [
       "2026-01-07, 17:22:09",
       "https://news.ycombinator.com/item?id=46529237"
     ],
     [
       "Eat Real Food",
       "https://realfood.gov"
-    ]
-  ],
-  [
-    [
-      "2026-01-07, 16:29:41",
-      "https://news.ycombinator.com/item?id=46528389"
-    ],
-    [
-      "How Google got its groove back and edged ahead of OpenAI",
-      "https://www.wsj.com/tech/ai/google-ai-openai-gemini-chatgpt-b766e160"
     ]
   ],
   [
@@ -127,16 +137,6 @@
     [
       "Many hells of WebDAV",
       "https://candid.dev/blog/many-hells-of-webdav"
-    ]
-  ],
-  [
-    [
-      "2026-01-07, 15:46:07",
-      "https://news.ycombinator.com/item?id=46527706"
-    ],
-    [
-      "Dell's CES 2026 chat was the most pleasingly un-AI briefing I've had in 5 years",
-      "https://www.pcgamer.com/hardware/dells-ces-2026-chat-was-the-most-pleasingly-un-ai-briefing-ive-had-in-maybe-5-years/"
     ]
   ],
   [
