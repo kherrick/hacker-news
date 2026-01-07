@@ -4,8 +4,11 @@
 
 ### [Archives](../../index.md) for [2026-01-07](index.md)
 
+* [2026-01-07, 15:37:41](https://news.ycombinator.com/item?id=46527600) - [Commodore 64 floppy drive has the power to be a computer and runs BASIC](https://www.tomshardware.com/pc-components/cpus/commodore-64-floppy-drive-has-the-power-to-be-a-computer-bulky-1982-commodore-1541-5-25-inch-drive-packs-a-1-mhz-mos-6502-cpu)
+* [2026-01-07, 15:36:25](https://news.ycombinator.com/item?id=46527581) - [LLM Problems Observed in Humans](https://embd.cc/llm-problems-observed-in-humans)
 * [2026-01-07, 15:32:44](https://news.ycombinator.com/item?id=46527533) - [US Job Openings Decline to Lowest Level in More Than a Year](https://www.bloomberg.com/news/articles/2026-01-07/us-job-openings-decline-to-lowest-level-in-more-than-a-year)
 * [2026-01-07, 15:27:22](https://news.ycombinator.com/item?id=46527471) - [We might have been slower to abandon StackOverflow if it wasn't a toxic hellhole](https://www.pcloadletter.dev/blog/abandoning-stackoverflow/)
+* [2026-01-07, 15:24:42](https://news.ycombinator.com/item?id=46527443) - [Supreme Court Increasingly Favors the Rich, Economists Say](https://www.nytimes.com/2026/01/05/us/politics/supreme-court-study-rich-poor.html)
 * [2026-01-07, 15:03:41](https://news.ycombinator.com/item?id=46527161) - [Shipmap.org](https://www.shipmap.org/)
 * [2026-01-07, 15:03:34](https://news.ycombinator.com/item?id=46527157) - [Meditation as Wakeful Relaxation: Unclenching Smooth Muscle](https://psychotechnology.substack.com/p/meditation-as-wakeful-relaxation)
 * [2026-01-07, 14:46:31](https://news.ycombinator.com/item?id=46526933) - [LaTeX Coffee Stains [pdf]](https://ctan.math.illinois.edu/graphics/pgf/contrib/coffeestains/coffeestains-en.pdf)
