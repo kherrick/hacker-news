@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2026-01-07, 13:22:35](https://news.ycombinator.com/item?id=46526088) - [Show HN: KeelTest – AI-driven VS Code unit test generator with bug discovery](https://keelcode.dev/keeltest)
+* [2026-01-07, 12:54:43](https://news.ycombinator.com/item?id=46525888) - [A4 Paper Stories](https://susam.net/a4-paper-stories.html)
 * [2026-01-07, 12:29:11](https://news.ycombinator.com/item?id=46525640) - [Stop Designing Languages. Write Libraries Instead (2016)](https://lbstanza.org/purpose_of_programming_languages.html)
 * [2026-01-07, 12:19:01](https://news.ycombinator.com/item?id=46525542) - [The Eric and Wendy Schmidt Observatory System](https://www.schmidtsciences.org/schmidt-observatory-system/)
 * [2026-01-07, 12:00:20](https://news.ycombinator.com/item?id=46525394) - [Optery (YC W22) Hiring a CISO and Web Scraping Engineers (Node) (US and Latam)](https://www.optery.com/careers/)
@@ -20,7 +21,6 @@
 * [2026-01-06, 17:45:37](https://news.ycombinator.com/item?id=46515696) - [Opus 4.5 is not the normal AI agent experience that I have had thus far](https://burkeholland.github.io/posts/opus-4-5-change-everything/)
 * [2026-01-06, 16:45:42](https://news.ycombinator.com/item?id=46514677) - [Vietnam bans unskippable ads](https://saigoneer.com/vietnam-news/28652-vienam-bans-unskippable-ads,-requires-skip-button-to-appear-after-5-seconds)
 * [2026-01-06, 13:50:48](https://news.ycombinator.com/item?id=46512203) - [Show HN: VaultSandbox – Test your real MailGun/SES/etc. integration](https://vaultsandbox.com/)
-* [2026-01-04, 23:40:30](https://news.ycombinator.com/item?id=46493607) - [Two ways to crack a walnut, per Grothendieck (2025)](https://shreevatsa.net/post/grothendieck-approaches/)
 * [2026-01-04, 16:08:27](https://news.ycombinator.com/item?id=46489273) - [The ISEE Trajectories](https://www.drmindle.com/isee/)
 * [2026-01-03, 06:49:52](https://news.ycombinator.com/item?id=46473400) - [Formal methods only solve half my problems](https://brooker.co.za/blog/2022/06/02/formal.html)
 * [2026-01-03, 06:08:18](https://news.ycombinator.com/item?id=46473247) - [Vector graphics on GPU](https://gasiulis.name/vector-graphics-on-gpu/)
