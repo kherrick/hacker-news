@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-01-07](index.md)
 
+* [2026-01-07, 20:25:51](https://news.ycombinator.com/item?id=46532075) - [Claude Code CLI Broken](https://github.com/anthropics/claude-code/issues/16673)
 * [2026-01-07, 20:16:50](https://news.ycombinator.com/item?id=46531925) - [Tailscale state file encryption no longer enabled by default](https://tailscale.com/changelog)
+* [2026-01-07, 20:06:53](https://news.ycombinator.com/item?id=46531794) - [Claude Code Emergent Behavior: When Skills Combine](https://vibeandscribe.xyz/posts/2025-01-07-emergent-behavior.html)
+* [2026-01-07, 19:29:39](https://news.ycombinator.com/item?id=46531280) - [Introducing ChatGPT Health](https://openai.com/index/introducing-chatgpt-health/)
 * [2026-01-07, 19:19:46](https://news.ycombinator.com/item?id=46531150) - [A practical guide to converting YAML to JSON safely (with Kubernetes examples)](https://coderaviverma.github.io/yaml-to-json-guide/)
 * [2026-01-07, 19:13:19](https://news.ycombinator.com/item?id=46531068) - [US will ban Wall Street investors from buying single-family homes](https://www.reuters.com/world/us/us-will-ban-large-institutional-investors-buying-single-family-homes-trump-says-2026-01-07/)
 * [2026-01-07, 19:09:43](https://news.ycombinator.com/item?id=46531015) - [Israel authorises electronic tracking of Palestinians – Middle East Monitor](https://www.middleeastmonitor.com/20260107-israel-authorises-electronic-tracking-of-palestinians/)
