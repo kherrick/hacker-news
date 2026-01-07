@@ -23,7 +23,7 @@
 * [2026-01-06, 13:48:27](https://news.ycombinator.com/item?id=46512182) - [Show HN: Mantic.sh – A structural code search engine for AI agents](https://github.com/marcoaapfortes/Mantic.sh)
 * [2026-01-05, 17:54:03](https://news.ycombinator.com/item?id=46502148) - [Show HN: Make audio loops online](https://makeloops.online/)
 * [2026-01-04, 23:40:30](https://news.ycombinator.com/item?id=46493607) - [Two ways to crack a walnut, per Grothendieck (2025)](https://shreevatsa.net/post/grothendieck-approaches/)
-* [2026-01-03, 14:15:11](https://news.ycombinator.com/item?id=46476915) - [Rust Is Beyond Object-Oriented, Part 3: Inheritance (2023)](https://www.thecodedmessage.com/posts/oop-3-inheritance/)
+* [2026-01-03, 14:15:11](https://news.ycombinator.com/item?id=46476915) - [Rust is beyond object-oriented, part 3: Inheritance (2023)](https://www.thecodedmessage.com/posts/oop-3-inheritance/)
 * [2026-01-03, 06:08:18](https://news.ycombinator.com/item?id=46473247) - [Vector graphics on GPU](https://gasiulis.name/vector-graphics-on-gpu/)
 * [2026-01-02, 22:16:12](https://news.ycombinator.com/item?id=46470115) - [Show HN: Open-source AI workflows with read-only auth scopes](https://github.com/seer-engg/seer)
 * [2026-01-02, 22:07:50](https://news.ycombinator.com/item?id=46470017) - [The creator of Claude Code's Claude setup](https://twitter.com/bcherny/status/2007179832300581177)
