@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-01-07, 21:04:58",
+      "https://news.ycombinator.com/item?id=46532755"
+    ],
+    [
+      "Show HN: An LLM response cache that's aware of dynamic data",
+      "https://blog.butter.dev/on-automatic-template-induction-for-response-caching"
+    ]
+  ],
+  [
+    [
       "2026-01-07, 20:25:51",
       "https://news.ycombinator.com/item?id=46532075"
     ],
@@ -31,11 +41,41 @@
   ],
   [
     [
+      "2026-01-07, 19:49:54",
+      "https://news.ycombinator.com/item?id=46531565"
+    ],
+    [
+      "Notion AI: Unpatched data exfiltration",
+      "https://www.promptarmor.com/resources/notion-ai-unpatched-data-exfiltration"
+    ]
+  ],
+  [
+    [
+      "2026-01-07, 19:45:35",
+      "https://news.ycombinator.com/item?id=46531511"
+    ],
+    [
+      "Notebook Lawyer",
+      "https://avc.xyz/notebook-lawyer"
+    ]
+  ],
+  [
+    [
+      "2026-01-07, 19:31:04",
+      "https://news.ycombinator.com/item?id=46531295"
+    ],
+    [
+      "Show HN: A to Z – A word game I built from a childhood road trip memory",
+      "https://a26z.fun/"
+    ]
+  ],
+  [
+    [
       "2026-01-07, 19:29:39",
       "https://news.ycombinator.com/item?id=46531280"
     ],
     [
-      "Introducing ChatGPT Health",
+      "ChatGPT Health",
       "https://openai.com/index/introducing-chatgpt-health/"
     ]
   ],
@@ -87,26 +127,6 @@
     [
       "Health care data breach affects over 600k patients, Illinois agency says",
       "https://www.nprillinois.org/illinois/2026-01-06/health-care-data-breach-affects-600-000-patients-illinois-agency-says"
-    ]
-  ],
-  [
-    [
-      "2026-01-07, 16:18:23",
-      "https://news.ycombinator.com/item?id=46528192"
-    ],
-    [
-      "BillG the Manager (2021)",
-      "https://hardcoresoftware.learningbyshipping.com/p/019-billg-the-manager"
-    ]
-  ],
-  [
-    [
-      "2026-01-07, 16:15:01",
-      "https://news.ycombinator.com/item?id=46528142"
-    ],
-    [
-      "The Case for Nushell (2023)",
-      "https://www.sophiajt.com/case-for-nushell/"
     ]
   ],
   [
@@ -175,7 +195,7 @@
       "https://news.ycombinator.com/item?id=46526933"
     ],
     [
-      "LaTeX Coffee Stains [pdf] (2021)",
+      "LaTeX Coffee Stains (2021) [pdf]",
       "https://ctan.math.illinois.edu/graphics/pgf/contrib/coffeestains/coffeestains-en.pdf"
     ]
   ],
@@ -201,16 +221,6 @@
   ],
   [
     [
-      "2026-01-07, 12:29:11",
-      "https://news.ycombinator.com/item?id=46525640"
-    ],
-    [
-      "“Stop Designing Languages. Write Libraries Instead” (2016)",
-      "https://lbstanza.org/purpose_of_programming_languages.html"
-    ]
-  ],
-  [
-    [
       "2026-01-07, 12:00:20",
       "https://news.ycombinator.com/item?id=46525394"
     ],
@@ -221,12 +231,22 @@
   ],
   [
     [
-      "2026-01-07, 08:42:57",
-      "https://news.ycombinator.com/item?id=46524036"
+      "2026-01-07, 04:48:50",
+      "https://news.ycombinator.com/item?id=46522686"
     ],
     [
-      "Show HN: Free and local browser tool for designing gear models for 3D printing",
-      "https://gears.dmtrkovalenko.dev"
+      "A glimpse into V8 development for RISC-V",
+      "https://riseproject.dev/2025/12/09/a-glimpse-into-v8-development-for-risc-v/"
+    ]
+  ],
+  [
+    [
+      "2026-01-07, 04:40:48",
+      "https://news.ycombinator.com/item?id=46522632"
+    ],
+    [
+      "LMArena is a cancer on AI",
+      "https://surgehq.ai/blog/lmarena-is-a-plague-on-ai"
     ]
   ],
   [
@@ -241,12 +261,12 @@
   ],
   [
     [
-      "2026-01-04, 20:24:18",
-      "https://news.ycombinator.com/item?id=46491808"
+      "2026-01-04, 22:07:39",
+      "https://news.ycombinator.com/item?id=46492810"
     ],
     [
-      "Quake Brutalist Jam III",
-      "https://www.slipseer.com/index.php?resources/quake-brutalist-jam-iii.549/"
+      "Everything You Need to Know About Email Encryption in 2026",
+      "https://soatok.blog/2026/01/04/everything-you-need-to-know-about-email-encryption-in-2026/"
     ]
   ],
   [
@@ -271,32 +291,12 @@
   ],
   [
     [
-      "2026-01-03, 02:42:10",
-      "https://news.ycombinator.com/item?id=46472258"
+      "2026-01-01, 14:52:27",
+      "https://news.ycombinator.com/item?id=46454577"
     ],
     [
-      "Becoming a Centenarian",
-      "https://www.newyorker.com/magazine/2025/12/22/becoming-a-centenarian"
-    ]
-  ],
-  [
-    [
-      "2026-01-02, 23:36:15",
-      "https://news.ycombinator.com/item?id=46470870"
-    ],
-    [
-      "Residues: Time, Change and Uncertainty in Software Architecture [video]",
-      "https://www.youtube.com/watch?v=D8qQUHrksrE"
-    ]
-  ],
-  [
-    [
-      "2026-01-01, 09:30:28",
-      "https://news.ycombinator.com/item?id=46452641"
-    ],
-    [
-      "Sergey Brin's Unretirement",
-      "https://www.inc.com/jessica-stillman/google-co-founder-sergey-brins-unretirement-is-a-lesson-for-the-rest-of-us/91280208"
+      "We found cryptography bugs in the elliptic library using Wycheproof",
+      "https://blog.trailofbits.com/2025/11/18/we-found-cryptography-bugs-in-the-elliptic-library-using-wycheproof/"
     ]
   ]
 ]
