@@ -1,22 +1,22 @@
 [
   [
     [
+      "2026-01-07, 03:48:05",
+      "https://news.ycombinator.com/item?id=46522308"
+    ],
+    [
+      "On the slow death of scaling",
+      "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5877662"
+    ]
+  ],
+  [
+    [
       "2026-01-07, 02:37:09",
       "https://news.ycombinator.com/item?id=46521860"
     ],
     [
       "Microsoft probably killed my Snapdragon Dev Kit",
       "https://jasoneckert.github.io/myblog/how-microsoft-killed-my-snapdragon-devkit/"
-    ]
-  ],
-  [
-    [
-      "2026-01-07, 01:05:01",
-      "https://news.ycombinator.com/item?id=46521179"
-    ],
-    [
-      "Most websites don't need cookie consent banners",
-      "https://block81.com/blog/why-most-websites-dont-actually-need-cookie-consent-banners"
     ]
   ],
   [
@@ -61,42 +61,12 @@
   ],
   [
     [
-      "2026-01-07, 00:12:15",
-      "https://news.ycombinator.com/item?id=46520802"
-    ],
-    [
-      "JavaScript Analyzer – Burp Suite Extension",
-      "https://github.com/jenish-sojitra/JSAnalyzer"
-    ]
-  ],
-  [
-    [
-      "2026-01-06, 23:46:24",
-      "https://news.ycombinator.com/item?id=46520566"
-    ],
-    [
-      "Ruby Array Pack Bleed",
-      "https://nastystereo.com/security/ruby-pack.html"
-    ]
-  ],
-  [
-    [
       "2026-01-06, 23:40:03",
       "https://news.ycombinator.com/item?id=46520508"
     ],
     [
       "Hyundai Introduces Its Next-Gen Atlas Robot at CES 2026 [video]",
       "https://www.youtube.com/watch?v=9e0SQn9uUlw"
-    ]
-  ],
-  [
-    [
-      "2026-01-06, 22:33:21",
-      "https://news.ycombinator.com/item?id=46519771"
-    ],
-    [
-      "Show HN: GPU Cuckoo Filter – faster queries than Blocked Bloom, with deletion",
-      "https://github.com/tdortman/cuckoo-filter"
     ]
   ],
   [
@@ -191,16 +161,6 @@
   ],
   [
     [
-      "2026-01-06, 18:11:51",
-      "https://news.ycombinator.com/item?id=46516137"
-    ],
-    [
-      "Passing of Joe Mancuso",
-      "https://github.com/MasoniteFramework/masonite/discussions/853"
-    ]
-  ],
-  [
-    [
       "2026-01-06, 18:00:27",
       "https://news.ycombinator.com/item?id=46515948"
     ],
@@ -241,12 +201,12 @@
   ],
   [
     [
-      "2026-01-06, 13:48:27",
-      "https://news.ycombinator.com/item?id=46512182"
+      "2026-01-06, 13:50:48",
+      "https://news.ycombinator.com/item?id=46512203"
     ],
     [
-      "Show HN: Mantic.sh – A structural code search engine for AI agents",
-      "https://github.com/marcoaapfortes/Mantic.sh"
+      "Show HN: VaultSandbox – Test your real MailGun/SES/etc. integration",
+      "https://vaultsandbox.com/"
     ]
   ],
   [
@@ -261,22 +221,62 @@
   ],
   [
     [
-      "2026-01-02, 23:53:21",
-      "https://news.ycombinator.com/item?id=46471001"
+      "2026-01-06, 07:58:46",
+      "https://news.ycombinator.com/item?id=46509782"
     ],
     [
-      "XPER on the Commodore 64",
-      "https://stonetools.ghost.io/xper-c64/"
+      "The Oddest Couple in American Literature: Part II",
+      "https://airmail.news/issues/2026-1-3/the-oddest-couple-in-american-literature-part-ii"
     ]
   ],
   [
     [
-      "2026-01-02, 23:47:59",
-      "https://news.ycombinator.com/item?id=46470963"
+      "2026-01-05, 17:54:03",
+      "https://news.ycombinator.com/item?id=46502148"
     ],
     [
-      "The Agentic Self: Parallels Between AI and Self-Improvement",
-      "http://muratbuffalo.blogspot.com/2026/01/the-agentic-self-parallels-between-ai.html"
+      "Show HN: Make audio loops online",
+      "https://makeloops.online/"
+    ]
+  ],
+  [
+    [
+      "2026-01-05, 04:52:09",
+      "https://news.ycombinator.com/item?id=46495451"
+    ],
+    [
+      "The Manifold Mind of Saul Bellow",
+      "https://www.metropolitanreview.org/p/the-manifold-mind-of-saul-bellow"
+    ]
+  ],
+  [
+    [
+      "2026-01-04, 23:40:30",
+      "https://news.ycombinator.com/item?id=46493607"
+    ],
+    [
+      "Two ways to crack a walnut, per Grothendieck (2025)",
+      "https://shreevatsa.net/post/grothendieck-approaches/"
+    ]
+  ],
+  [
+    [
+      "2026-01-04, 05:06:29",
+      "https://news.ycombinator.com/item?id=46485113"
+    ],
+    [
+      "One Hundred Years of Gossip",
+      "https://www.plough.com/en/topics/community/one-hundred-years-of-gossip"
+    ]
+  ],
+  [
+    [
+      "2026-01-02, 22:07:50",
+      "https://news.ycombinator.com/item?id=46470017"
+    ],
+    [
+      "The creator of Claude Code's Claude setup",
+      "https://twitter.com/bcherny/status/2007179832300581177"
     ]
   ],
   [
@@ -291,12 +291,12 @@
   ],
   [
     [
-      "2026-01-01, 06:15:43",
-      "https://news.ycombinator.com/item?id=46451768"
+      "2026-01-01, 09:30:28",
+      "https://news.ycombinator.com/item?id=46452641"
     ],
     [
-      "Spherical Snake",
-      "https://kevinalbs.com/spherical_snake/"
+      "Sergey Brin's Unretirement",
+      "https://www.inc.com/jessica-stillman/google-co-founder-sergey-brins-unretirement-is-a-lesson-for-the-rest-of-us/91280208"
     ]
   ]
 ]
