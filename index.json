@@ -251,16 +251,6 @@
   ],
   [
     [
-      "2026-01-02, 22:16:12",
-      "https://news.ycombinator.com/item?id=46470115"
-    ],
-    [
-      "Show HN: Open-source AI workflows with read-only auth scopes",
-      "https://github.com/seer-engg/seer"
-    ]
-  ],
-  [
-    [
       "2026-01-02, 22:07:50",
       "https://news.ycombinator.com/item?id=46470017"
     ],
@@ -277,6 +267,16 @@
     [
       "I wanted a camera that doesn't exist, so I built it",
       "https://medium.com/@cristi.baluta/i-wanted-a-camera-that-doesnt-exist-so-i-built-it-5f9864533eb7"
+    ]
+  ],
+  [
+    [
+      "2026-01-02, 14:42:33",
+      "https://news.ycombinator.com/item?id=46465206"
+    ],
+    [
+      "Investigating and fixing a nasty clone bug",
+      "https://kobzol.github.io/rust/2025/12/30/investigating-and-fixing-a-nasty-clone-bug.html"
     ]
   ],
   [
