@@ -25,9 +25,9 @@
 * [2026-01-03, 14:15:11](https://news.ycombinator.com/item?id=46476915) - [Rust is beyond object-oriented, part 3: Inheritance (2023)](https://www.thecodedmessage.com/posts/oop-3-inheritance/)
 * [2026-01-03, 06:08:18](https://news.ycombinator.com/item?id=46473247) - [Vector graphics on GPU](https://gasiulis.name/vector-graphics-on-gpu/)
 * [2026-01-03, 02:05:35](https://news.ycombinator.com/item?id=46472047) - [Show HN: TCP chat server written in C# and .NET 9, used in the terminal](https://github.com/Sieep-Coding/simple-chat-csharp)
-* [2026-01-02, 22:16:12](https://news.ycombinator.com/item?id=46470115) - [Show HN: Open-source AI workflows with read-only auth scopes](https://github.com/seer-engg/seer)
 * [2026-01-02, 22:07:50](https://news.ycombinator.com/item?id=46470017) - [The creator of Claude Code's Claude setup](https://twitter.com/bcherny/status/2007179832300581177)
 * [2026-01-02, 17:04:03](https://news.ycombinator.com/item?id=46466843) - [I wanted a camera that doesn't exist, so I built it](https://medium.com/@cristi.baluta/i-wanted-a-camera-that-doesnt-exist-so-i-built-it-5f9864533eb7)
+* [2026-01-02, 14:42:33](https://news.ycombinator.com/item?id=46465206) - [Investigating and fixing a nasty clone bug](https://kobzol.github.io/rust/2025/12/30/investigating-and-fixing-a-nasty-clone-bug.html)
 * [2026-01-01, 22:08:05](https://news.ycombinator.com/item?id=46458610) - [What *is* code? (2015)](https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/)
 * [2026-01-01, 09:30:28](https://news.ycombinator.com/item?id=46452641) - [Sergey Brin's Unretirement](https://www.inc.com/jessica-stillman/google-co-founder-sergey-brins-unretirement-is-a-lesson-for-the-rest-of-us/91280208)
 

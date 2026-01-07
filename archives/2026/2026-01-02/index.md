@@ -45,6 +45,7 @@
 * [2026-01-02, 15:08:52](https://news.ycombinator.com/item?id=46465472) - [Why do Americans hate A.I.?](https://www.nytimes.com/2026/01/02/briefing/why-do-americans-hate-ai.html)
 * [2026-01-02, 14:56:28](https://news.ycombinator.com/item?id=46465335) - [Pebble Round 2](https://repebble.com/blog/pebble-round-2-the-most-stylish-pebble-ever)
 * [2026-01-02, 14:55:09](https://news.ycombinator.com/item?id=46465327) - [IPv6 just turned 30 and still hasn't taken over the world](https://www.theregister.com/2025/12/31/ipv6_at_30/)
+* [2026-01-02, 14:42:33](https://news.ycombinator.com/item?id=46465206) - [Investigating and fixing a nasty clone bug](https://kobzol.github.io/rust/2025/12/30/investigating-and-fixing-a-nasty-clone-bug.html)
 * [2026-01-02, 14:18:47](https://news.ycombinator.com/item?id=46464962) - [I'm having the worst career winter of my life](https://news.ycombinator.com/item?id=46464962)
 * [2026-01-02, 14:17:40](https://news.ycombinator.com/item?id=46464953) - [The Netflix Simian Army (2011)](https://netflixtechblog.com/the-netflix-simian-army-16e57fbab116)
 * [2026-01-02, 14:15:14](https://news.ycombinator.com/item?id=46464929) - [US Government demands access to European police databases and biometrics [video]](https://media.ccc.de/v/39c3-trump-government-demands-access-to-european-police-databases-and-biometrics)
