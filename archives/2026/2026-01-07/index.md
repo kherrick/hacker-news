@@ -8,6 +8,7 @@
 * [2026-01-07, 21:38:56](https://news.ycombinator.com/item?id=46533315) - [My first paper: A practical implementation of Rubiks cube based passkeys](https://ieeexplore.ieee.org/document/11280260)
 * [2026-01-07, 21:16:47](https://news.ycombinator.com/item?id=46532961) - [So you wanna de-bog yourself (2024)](https://www.experimental-history.com/p/so-you-wanna-de-bog-yourself)
 * [2026-01-07, 21:04:58](https://news.ycombinator.com/item?id=46532755) - [Show HN: An LLM response cache that's aware of dynamic data](https://blog.butter.dev/on-automatic-template-induction-for-response-caching)
+* [2026-01-07, 21:00:57](https://news.ycombinator.com/item?id=46532675) - [SSDs, power loss protection and fsync latency](http://smalldatum.blogspot.com/2026/01/ssds-power-loss-protection-and-fsync.html)
 * [2026-01-07, 20:25:51](https://news.ycombinator.com/item?id=46532075) - [Claude Code CLI Broken](https://github.com/anthropics/claude-code/issues/16673)
 * [2026-01-07, 20:16:50](https://news.ycombinator.com/item?id=46531925) - [Tailscale state file encryption no longer enabled by default](https://tailscale.com/changelog)
 * [2026-01-07, 20:06:53](https://news.ycombinator.com/item?id=46531794) - [Claude Code Emergent Behavior: When Skills Combine](https://vibeandscribe.xyz/posts/2025-01-07-emergent-behavior.html)
