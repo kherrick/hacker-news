@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-01-07, 13:46:23",
+      "https://news.ycombinator.com/item?id=46526302"
+    ],
+    [
+      "Gnome dev gives fans of Linux's middle-click paste the middle finger",
+      "https://www.theregister.com/2026/01/07/gnome_middle_click_paste/"
+    ]
+  ],
+  [
+    [
       "2026-01-07, 13:22:35",
       "https://news.ycombinator.com/item?id=46526088"
     ],
@@ -25,7 +35,7 @@
       "https://news.ycombinator.com/item?id=46525640"
     ],
     [
-      "Stop Designing Languages. Write Libraries Instead (2016)",
+      "“Stop Designing Languages. Write Libraries Instead” (2016)",
       "https://lbstanza.org/purpose_of_programming_languages.html"
     ]
   ],
@@ -161,16 +171,6 @@
   ],
   [
     [
-      "2026-01-06, 18:00:27",
-      "https://news.ycombinator.com/item?id=46515948"
-    ],
-    [
-      "Locating a Photo of a Vehicle in 30 Seconds with GeoSpy",
-      "https://geospy.ai/blog/locating-a-photo-of-a-vehicle-in-30-seconds-with-geospy"
-    ]
-  ],
-  [
-    [
       "2026-01-06, 17:49:56",
       "https://news.ycombinator.com/item?id=46515777"
     ],
@@ -201,22 +201,22 @@
   ],
   [
     [
-      "2026-01-06, 13:50:48",
-      "https://news.ycombinator.com/item?id=46512203"
-    ],
-    [
-      "Show HN: VaultSandbox – Test your real MailGun/SES/etc. integration",
-      "https://vaultsandbox.com/"
-    ]
-  ],
-  [
-    [
       "2026-01-04, 16:08:27",
       "https://news.ycombinator.com/item?id=46489273"
     ],
     [
       "The ISEE Trajectories",
       "https://www.drmindle.com/isee/"
+    ]
+  ],
+  [
+    [
+      "2026-01-04, 00:48:38",
+      "https://news.ycombinator.com/item?id=46483550"
+    ],
+    [
+      "Show HN: Comet MCP – Give Claude Code a browser that can click",
+      "https://github.com/hanzili/comet-mcp"
     ]
   ],
   [
