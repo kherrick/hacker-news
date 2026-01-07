@@ -13,6 +13,7 @@
 * [2026-01-04, 20:52:52](https://news.ycombinator.com/item?id=46492063) - [Eurostar AI vulnerability: when a chatbot goes off the rails](https://www.pentestpartners.com/security-blog/eurostar-ai-vulnerability-when-a-chatbot-goes-off-the-rails/)
 * [2026-01-04, 20:28:02](https://news.ycombinator.com/item?id=46491846) - [Seed of Life](https://seed-of-life-eight.vercel.app/)
 * [2026-01-04, 20:25:30](https://news.ycombinator.com/item?id=46491821) - [Why does a least squares fit appear to have a bias when applied to simple data?](https://stats.stackexchange.com/questions/674129/why-does-a-linear-least-squares-fit-appear-to-have-a-bias-when-applied-to-simple)
+* [2026-01-04, 20:24:18](https://news.ycombinator.com/item?id=46491808) - [Quake Brutalist Jam III](https://www.slipseer.com/index.php?resources/quake-brutalist-jam-iii.549/)
 * [2026-01-04, 20:18:51](https://news.ycombinator.com/item?id=46491765) - [OpenGitOps](https://opengitops.dev/)
 * [2026-01-04, 20:17:22](https://news.ycombinator.com/item?id=46491749) - [Show HN: Terminal UI for AWS](https://github.com/huseyinbabal/taws)
 * [2026-01-04, 20:02:28](https://news.ycombinator.com/item?id=46491623) - [I changed my personality in six weeks](https://www.bbc.com/future/article/20260102-how-i-changed-my-personality-in-six-weeks)
