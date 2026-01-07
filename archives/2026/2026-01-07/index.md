@@ -4,7 +4,13 @@
 
 ### [Archives](../../index.md) for [2026-01-07](index.md)
 
+* [2026-01-07, 15:32:44](https://news.ycombinator.com/item?id=46527533) - [US Job Openings Decline to Lowest Level in More Than a Year](https://www.bloomberg.com/news/articles/2026-01-07/us-job-openings-decline-to-lowest-level-in-more-than-a-year)
+* [2026-01-07, 15:27:22](https://news.ycombinator.com/item?id=46527471) - [We might have been slower to abandon StackOverflow if it wasn't a toxic hellhole](https://www.pcloadletter.dev/blog/abandoning-stackoverflow/)
+* [2026-01-07, 15:03:41](https://news.ycombinator.com/item?id=46527161) - [Shipmap.org](https://www.shipmap.org/)
+* [2026-01-07, 15:03:34](https://news.ycombinator.com/item?id=46527157) - [Meditation as Wakeful Relaxation: Unclenching Smooth Muscle](https://psychotechnology.substack.com/p/meditation-as-wakeful-relaxation)
 * [2026-01-07, 14:46:31](https://news.ycombinator.com/item?id=46526933) - [LaTeX Coffee Stains [pdf]](https://ctan.math.illinois.edu/graphics/pgf/contrib/coffeestains/coffeestains-en.pdf)
+* [2026-01-07, 14:29:25](https://news.ycombinator.com/item?id=46526740) - [Sugar industry influenced researchers and blamed fat for CVD](https://www.ucsf.edu/news/2016/09/404081/sugar-papers-reveal-industry-role-shifting-national-heart-disease-focus)
+* [2026-01-07, 14:15:32](https://news.ycombinator.com/item?id=46526584) - [Show HN: RepoReaper – AST-aware, JIT-loading code audit agent (Python/AsyncIO)](https://github.com/tzzp1224/RepoReaper)
 * [2026-01-07, 13:54:31](https://news.ycombinator.com/item?id=46526376) - [Everyone hates OneDrive, Microsofts cloud app that steals and deletes files](https://boingboing.net/2026/01/05/everyone-hates-onedrive-microsofts-cloud-app-that-steals-then-deletes-all-your-files.html)
 * [2026-01-07, 13:46:23](https://news.ycombinator.com/item?id=46526302) - [Gnome dev gives fans of Linux's middle-click paste the middle finger](https://www.theregister.com/2026/01/07/gnome_middle_click_paste/)
 * [2026-01-07, 13:22:35](https://news.ycombinator.com/item?id=46526088) - [Show HN: KeelTest – AI-driven VS Code unit test generator with bug discovery](https://keelcode.dev/keeltest)
