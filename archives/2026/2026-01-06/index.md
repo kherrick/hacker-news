@@ -41,6 +41,7 @@
 * [2026-01-06, 16:17:24](https://news.ycombinator.com/item?id=46514282) - [State of the Fin 2026-01-06 – Jellyfin](https://jellyfin.org/posts/state-of-the-fin-2026-01-06/)
 * [2026-01-06, 16:10:47](https://news.ycombinator.com/item?id=46514175) - [27M Fewer Car Trips: Life After a Year of Congestion Pricing](https://www.nytimes.com/interactive/2026/01/05/upshot/congestion-pricing-one-year.html)
 * [2026-01-06, 16:02:56](https://news.ycombinator.com/item?id=46514059) - [Mamdani Targets Junk Fees and Hidden Charges in Two Executive Orders](https://www.nytimes.com/2026/01/05/nyregion/mamdani-affordability-consumer-protections.html)
+* [2026-01-06, 15:52:09](https://news.ycombinator.com/item?id=46513860) - [The 5 Knights of the MCP Apocalypse](https://foojay.io/today/the-5-knights-of-the-mcp-apocalypse/)
 * [2026-01-06, 15:44:44](https://news.ycombinator.com/item?id=46513728) - [The skill of the future is not 'AI', but 'Focus' (2025)](https://carette.xyz/posts/focus_will_be_the_skill_of_the_future/)
 * [2026-01-06, 15:05:46](https://news.ycombinator.com/item?id=46513173) - [New Lego smart-play system](https://www.lego.com/en-us/smart-play)
 * [2026-01-06, 14:54:19](https://news.ycombinator.com/item?id=46513010) - [Gnome and Mozilla Discuss Proposal to Disable Middle Mouse Paste on Linux](https://linuxiac.com/gnome-and-mozilla-discuss-proposal-to-disable-middle-mouse-paste-on-linux/)
