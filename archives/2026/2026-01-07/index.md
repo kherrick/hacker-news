@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-01-07](index.md)
 
+* [2026-01-07, 03:48:05](https://news.ycombinator.com/item?id=46522308) - [On the slow death of scaling](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5877662)
 * [2026-01-07, 02:37:09](https://news.ycombinator.com/item?id=46521860) - [Microsoft probably killed my Snapdragon Dev Kit](https://jasoneckert.github.io/myblog/how-microsoft-killed-my-snapdragon-devkit/)
 * [2026-01-07, 01:11:12](https://news.ycombinator.com/item?id=46521238) - [The data center boom is concentrated in the U.S.](https://spectrum.ieee.org/data-center-growth)
 * [2026-01-07, 01:05:01](https://news.ycombinator.com/item?id=46521179) - [Most websites don't need cookie consent banners](https://block81.com/blog/why-most-websites-dont-actually-need-cookie-consent-banners)

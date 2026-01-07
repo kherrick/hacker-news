@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2026-01-04](index.md)
 
 * [2026-01-04, 23:43:48](https://news.ycombinator.com/item?id=46493623) - [Millennium Challenge: A corrupted military exercise and its legacy (2015)](https://warontherocks.com/2015/11/millennium-challenge-the-real-story-of-a-corrupted-military-exercise-and-its-legacy/)
+* [2026-01-04, 23:40:30](https://news.ycombinator.com/item?id=46493607) - [Two ways to crack a walnut, per Grothendieck (2025)](https://shreevatsa.net/post/grothendieck-approaches/)
 * [2026-01-04, 23:31:31](https://news.ycombinator.com/item?id=46493533) - [Show HN: Quantum Tunnel](https://chuanqisun.github.io/quantum-tunnel/)
 * [2026-01-04, 21:46:34](https://news.ycombinator.com/item?id=46492617) - [C-Sentinel: System prober that captures \"system fingerprints\" for AI analysis](https://github.com/williamofai/c-sentinel)
 * [2026-01-04, 21:43:26](https://news.ycombinator.com/item?id=46492601) - [Show HN: An LLM-Powered PCB Schematic Checker (Major Update)](https://traceformer.io/)
@@ -61,6 +62,7 @@
 * [2026-01-04, 06:54:50](https://news.ycombinator.com/item?id=46485629) - [Pixoo Sign Client for Ruby](https://github.com/tenderlove/pixoo-rb)
 * [2026-01-04, 06:15:25](https://news.ycombinator.com/item?id=46485466) - [Using fewer syllables to express numbers](https://thegraycuber.github.io/fast_numbers)
 * [2026-01-04, 05:09:47](https://news.ycombinator.com/item?id=46485130) - [Learning to Play Tic-Tac-Toe with Jax](https://joe-antognini.github.io/ml/jax-tic-tac-toe)
+* [2026-01-04, 05:06:29](https://news.ycombinator.com/item?id=46485113) - [One Hundred Years of Gossip](https://www.plough.com/en/topics/community/one-hundred-years-of-gossip)
 * [2026-01-04, 05:04:29](https://news.ycombinator.com/item?id=46485101) - [Corundum – open-source FPGA-based NIC and platform for in-network compute](https://github.com/corundum/corundum)
 * [2026-01-04, 05:02:16](https://news.ycombinator.com/item?id=46485090) - [Neural Networks: Zero to Hero](https://karpathy.ai/zero-to-hero.html)
 * [2026-01-04, 04:31:11](https://news.ycombinator.com/item?id=46484933) - [Show HN: Claude Reflect – Auto-turn Claude corrections into project config](https://github.com/BayramAnnakov/claude-reflect)

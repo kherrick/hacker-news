@@ -62,6 +62,7 @@
 * [2026-01-01, 10:25:53](https://news.ycombinator.com/item?id=46452916) - [Show HN: Wario Synth – Turn any song into Game Boy version](https://www.wario.style)
 * [2026-01-01, 09:53:48](https://news.ycombinator.com/item?id=46452763) - [If childhood is half of subjective life, how should that change how we live?](https://moultano.wordpress.com/2025/12/30/children-and-helical-time/)
 * [2026-01-01, 09:42:02](https://news.ycombinator.com/item?id=46452696) - [What if the world is made of cubes? Uncovering the universal geometry of geology](https://www.quantamagazine.org/scientists-uncover-the-universal-geometry-of-geology-20201119/)
+* [2026-01-01, 09:30:28](https://news.ycombinator.com/item?id=46452641) - [Sergey Brin's Unretirement](https://www.inc.com/jessica-stillman/google-co-founder-sergey-brins-unretirement-is-a-lesson-for-the-rest-of-us/91280208)
 * [2026-01-01, 07:58:55](https://news.ycombinator.com/item?id=46452172) - [MHC: Manifold-Constrained Hyper-Connections](https://arxiv.org/abs/2512.24880)
 * [2026-01-01, 07:50:17](https://news.ycombinator.com/item?id=46452146) - [Ask HN: How did you learn to code?](https://news.ycombinator.com/item?id=46452146)
 * [2026-01-01, 06:15:43](https://news.ycombinator.com/item?id=46451768) - [Spherical Snake](https://kevinalbs.com/spherical_snake/)
