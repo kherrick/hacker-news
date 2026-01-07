@@ -27,6 +27,7 @@
 * [2026-01-01, 18:34:25](https://news.ycombinator.com/item?id=46456682) - [Building an internal agent: Code-driven vs. LLM-driven workflows](https://lethain.com/agents-coordinators/)
 * [2026-01-01, 18:20:38](https://news.ycombinator.com/item?id=46456543) - [Street-Fighting Mathematics (2008)](https://ocw.mit.edu/courses/18-098-street-fighting-mathematics-january-iap-2008/pages/readings/)
 * [2026-01-01, 18:08:48](https://news.ycombinator.com/item?id=46456387) - [Gemini 3.0 Deciphered the Mystery of a Nuremberg Chronicle Leaf's](https://blog.gdeltproject.org/gemini-as-indiana-jones-how-gemini-3-0-deciphered-the-mystery-of-a-nuremberg-chronicle-leafs-500-year-old-roundels/)
+* [2026-01-01, 18:07:04](https://news.ycombinator.com/item?id=46456364) - [Michel Siffre: This man spent months alone underground – and it warped his mind](https://www.newscientist.com/article/mg23931900-400-this-man-spent-months-alone-underground-and-it-warped-his-mind/)
 * [2026-01-01, 17:52:30](https://news.ycombinator.com/item?id=46456215) - [Memory Subsystem Optimizations](https://johnnysswlab.com/memory-subsystem-optimizations/)
 * [2026-01-01, 17:18:01](https://news.ycombinator.com/item?id=46455872) - [Cameras and Lenses](https://ciechanow.ski/cameras-and-lenses/)
 * [2026-01-01, 17:12:38](https://news.ycombinator.com/item?id=46455814) - [Autism Hasn't Increased](https://marginalrevolution.com/marginalrevolution/2026/01/autism-hasnt-increased.html)
