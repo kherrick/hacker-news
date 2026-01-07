@@ -1,8 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-01-07, 19:19:46](https://news.ycombinator.com/item?id=46531150) - [A practical guide to converting YAML to JSON safely (with Kubernetes examples)](https://coderaviverma.github.io/yaml-to-json-guide/)
 * [2026-01-07, 19:13:19](https://news.ycombinator.com/item?id=46531068) - [US will ban Wall Street investors from buying single-family homes](https://www.reuters.com/world/us/us-will-ban-large-institutional-investors-buying-single-family-homes-trump-says-2026-01-07/)
-* [2026-01-07, 19:09:43](https://news.ycombinator.com/item?id=46531015) - [Israel authorises electronic tracking of Palestinians – Middle East Monitor](https://www.middleeastmonitor.com/20260107-israel-authorises-electronic-tracking-of-palestinians/)
 * [2026-01-07, 18:31:19](https://news.ycombinator.com/item?id=46530448) - [NPM to implement staged publishing after turbulent shift off classic tokens](https://socket.dev/blog/npm-to-implement-staged-publishing)
 * [2026-01-07, 17:23:23](https://news.ycombinator.com/item?id=46529257) - [Texas A&M bans part of Plato's Symposium](https://dailynous.com/2026/01/06/texas-am-bans-plato/)
 * [2026-01-07, 16:29:41](https://news.ycombinator.com/item?id=46528389) - [How Google got its groove back and edged ahead of OpenAI](https://www.wsj.com/tech/ai/google-ai-openai-gemini-chatgpt-b766e160)
@@ -23,6 +21,8 @@
 * [2026-01-07, 12:00:20](https://news.ycombinator.com/item?id=46525394) - [Optery (YC W22) Hiring a CISO and Web Scraping Engineers (Node) (US and Latam)](https://www.optery.com/careers/)
 * [2026-01-07, 08:42:57](https://news.ycombinator.com/item?id=46524036) - [Show HN: Free and local browser tool for designing gear models for 3D printing](https://gears.dmtrkovalenko.dev)
 * [2026-01-07, 02:25:08](https://news.ycombinator.com/item?id=46521773) - [Polymarket refuses to pay bets that US would 'invade' Venezuela](https://www.ft.com/content/985ae542-1ab4-491e-8e6e-b30f6a3ab666)
+* [2026-01-07, 00:31:01](https://news.ycombinator.com/item?id=46520935) - [Electronic nose for indoor mold detection and identification](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adsr.202500124)
+* [2026-01-06, 20:55:01](https://news.ycombinator.com/item?id=46518573) - [A 30B Qwen model walks into a Raspberry Pi and runs in real time](https://byteshape.com/blogs/Qwen3-30B-A3B-Instruct-2507/)
 * [2026-01-06, 17:45:37](https://news.ycombinator.com/item?id=46515696) - [Opus 4.5 is not the normal AI agent experience that I have had thus far](https://burkeholland.github.io/posts/opus-4-5-change-everything/)
 * [2026-01-04, 20:24:18](https://news.ycombinator.com/item?id=46491808) - [Quake Brutalist Jam III](https://www.slipseer.com/index.php?resources/quake-brutalist-jam-iii.549/)
 * [2026-01-03, 15:46:30](https://news.ycombinator.com/item?id=46477961) - [Show HN: I built a \"Do not disturb\" Device for my home office](https://apoorv.page/blogs/over-engineered-dnd)
