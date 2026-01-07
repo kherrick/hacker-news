@@ -33,6 +33,7 @@
 * [2026-01-03, 16:20:10](https://news.ycombinator.com/item?id=46478377) - [The Most Popular Blogs of Hacker News in 2025](https://refactoringenglish.com/blog/2025-hn-top-5/)
 * [2026-01-03, 15:55:16](https://news.ycombinator.com/item?id=46478061) - [Show HN: Offline tiles and routing and geocoding in one Docker Compose stack](https://www.corviont.com/)
 * [2026-01-03, 15:47:00](https://news.ycombinator.com/item?id=46477966) - [Google engineer says Claude Code built in one hour what her team spent a year on](https://the-decoder.com/google-engineer-says-claude-code-built-in-one-hour-what-her-team-spent-a-year-on/)
+* [2026-01-03, 15:46:30](https://news.ycombinator.com/item?id=46477961) - [Show HN: I built a \"Do not disturb\" Device for my home office](https://apoorv.page/blogs/over-engineered-dnd)
 * [2026-01-03, 15:00:23](https://news.ycombinator.com/item?id=46477439) - [Show HN: FP-pack – Functional pipelines in TypeScript without monads](https://github.com/superlucky84/fp-pack)
 * [2026-01-03, 14:51:07](https://news.ycombinator.com/item?id=46477306) - [JavaScript's For-Of Loops Are Fast](https://waspdev.com/articles/2026-01-01/javascript-for-of-loops-are-actually-fast)
 * [2026-01-03, 14:50:58](https://news.ycombinator.com/item?id=46477305) - [Zeit v1](https://xn--gckvb8fzb.com/zeit-v1/)

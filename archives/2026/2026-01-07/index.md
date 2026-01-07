@@ -4,6 +4,11 @@
 
 ### [Archives](../../index.md) for [2026-01-07](index.md)
 
+* [2026-01-07, 16:18:23](https://news.ycombinator.com/item?id=46528192) - [BillG the Manager](https://hardcoresoftware.learningbyshipping.com/p/019-billg-the-manager)
+* [2026-01-07, 16:02:19](https://news.ycombinator.com/item?id=46527950) - [Creators of Tailwind laid off 75% of their engineering team](https://github.com/tailwindlabs/tailwindcss.com/pull/2388)
+* [2026-01-07, 15:50:50](https://news.ycombinator.com/item?id=46527775) - [Many Hells of WebDAV: Writing a Client/Server in Go](https://candid.dev/blog/many-hells-of-webdav)
+* [2026-01-07, 15:46:07](https://news.ycombinator.com/item?id=46527706) - [Dell's CES 2026 chat was the most pleasingly un-AI briefing I've had in 5 years](https://www.pcgamer.com/hardware/dells-ces-2026-chat-was-the-most-pleasingly-un-ai-briefing-ive-had-in-maybe-5-years/)
+* [2026-01-07, 15:41:01](https://news.ycombinator.com/item?id=46527645) - [Target has their own forensic lab to investigate shoplifters](https://thehorizonsun.com/features/2024/04/11/the-target-forensics-lab/)
 * [2026-01-07, 15:37:41](https://news.ycombinator.com/item?id=46527600) - [Commodore 64 floppy drive has the power to be a computer and runs BASIC](https://www.tomshardware.com/pc-components/cpus/commodore-64-floppy-drive-has-the-power-to-be-a-computer-bulky-1982-commodore-1541-5-25-inch-drive-packs-a-1-mhz-mos-6502-cpu)
 * [2026-01-07, 15:36:25](https://news.ycombinator.com/item?id=46527581) - [LLM Problems Observed in Humans](https://embd.cc/llm-problems-observed-in-humans)
 * [2026-01-07, 15:32:44](https://news.ycombinator.com/item?id=46527533) - [US Job Openings Decline to Lowest Level in More Than a Year](https://www.bloomberg.com/news/articles/2026-01-07/us-job-openings-decline-to-lowest-level-in-more-than-a-year)
