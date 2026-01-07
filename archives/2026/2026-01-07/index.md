@@ -4,9 +4,13 @@
 
 ### [Archives](../../index.md) for [2026-01-07](index.md)
 
+* [2026-01-07, 21:04:58](https://news.ycombinator.com/item?id=46532755) - [Show HN: An LLM response cache that's aware of dynamic data](https://blog.butter.dev/on-automatic-template-induction-for-response-caching)
 * [2026-01-07, 20:25:51](https://news.ycombinator.com/item?id=46532075) - [Claude Code CLI Broken](https://github.com/anthropics/claude-code/issues/16673)
 * [2026-01-07, 20:16:50](https://news.ycombinator.com/item?id=46531925) - [Tailscale state file encryption no longer enabled by default](https://tailscale.com/changelog)
 * [2026-01-07, 20:06:53](https://news.ycombinator.com/item?id=46531794) - [Claude Code Emergent Behavior: When Skills Combine](https://vibeandscribe.xyz/posts/2025-01-07-emergent-behavior.html)
+* [2026-01-07, 19:49:54](https://news.ycombinator.com/item?id=46531565) - [Notion AI: Unpatched data exfiltration](https://www.promptarmor.com/resources/notion-ai-unpatched-data-exfiltration)
+* [2026-01-07, 19:45:35](https://news.ycombinator.com/item?id=46531511) - [Notebook Lawyer](https://avc.xyz/notebook-lawyer)
+* [2026-01-07, 19:31:04](https://news.ycombinator.com/item?id=46531295) - [Show HN: A to Z – A word game I built from a childhood road trip memory](https://a26z.fun/)
 * [2026-01-07, 19:29:39](https://news.ycombinator.com/item?id=46531280) - [Introducing ChatGPT Health](https://openai.com/index/introducing-chatgpt-health/)
 * [2026-01-07, 19:19:46](https://news.ycombinator.com/item?id=46531150) - [A practical guide to converting YAML to JSON safely (with Kubernetes examples)](https://coderaviverma.github.io/yaml-to-json-guide/)
 * [2026-01-07, 19:13:19](https://news.ycombinator.com/item?id=46531068) - [US will ban Wall Street investors from buying single-family homes](https://www.reuters.com/world/us/us-will-ban-large-institutional-investors-buying-single-family-homes-trump-says-2026-01-07/)
@@ -51,6 +55,7 @@
 * [2026-01-07, 08:42:57](https://news.ycombinator.com/item?id=46524036) - [Show HN: Free and local browser tool for designing gear models for 3D printing](https://gears.dmtrkovalenko.dev)
 * [2026-01-07, 05:44:54](https://news.ycombinator.com/item?id=46523029) - [Bill to Eliminate H-1B Visa Program Introduced in Congress](https://www.newsweek.com/eliminate-h1b-visa-program-congress-bill-marjorie-taylor-greene-11312655)
 * [2026-01-07, 04:48:50](https://news.ycombinator.com/item?id=46522686) - [A glimpse into V8 development for RISC-V](https://riseproject.dev/2025/12/09/a-glimpse-into-v8-development-for-risc-v/)
+* [2026-01-07, 04:40:48](https://news.ycombinator.com/item?id=46522632) - [LMArena is a cancer on AI](https://surgehq.ai/blog/lmarena-is-a-plague-on-ai)
 * [2026-01-07, 03:48:05](https://news.ycombinator.com/item?id=46522308) - [On the slow death of scaling](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5877662)
 * [2026-01-07, 02:37:09](https://news.ycombinator.com/item?id=46521860) - [Microsoft probably killed my Snapdragon Dev Kit](https://jasoneckert.github.io/myblog/how-microsoft-killed-my-snapdragon-devkit/)
 * [2026-01-07, 02:25:08](https://news.ycombinator.com/item?id=46521773) - [Polymarket refuses to pay bets that US would 'invade' Venezuela](https://www.ft.com/content/985ae542-1ab4-491e-8e6e-b30f6a3ab666)

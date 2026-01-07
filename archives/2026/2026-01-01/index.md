@@ -45,6 +45,7 @@
 * [2026-01-01, 15:19:26](https://news.ycombinator.com/item?id=46454763) - [ACM Is Now Open Access](https://www.acm.org/articles/bulletins/2026/january/acm-open-access)
 * [2026-01-01, 15:09:06](https://news.ycombinator.com/item?id=46454693) - [OpenWorkers: Self-Hosted Cloudflare Workers in Rust](https://openworkers.com/introducing-openworkers)
 * [2026-01-01, 14:53:50](https://news.ycombinator.com/item?id=46454587) - [Build a Deep Learning Library](https://zekcrates.quarto.pub/deep-learning-library/)
+* [2026-01-01, 14:52:27](https://news.ycombinator.com/item?id=46454577) - [We found cryptography bugs in the elliptic library using Wycheproof](https://blog.trailofbits.com/2025/11/18/we-found-cryptography-bugs-in-the-elliptic-library-using-wycheproof/)
 * [2026-01-01, 14:41:00](https://news.ycombinator.com/item?id=46454488) - [Darwin the Man of His Times](https://aethermug.com/posts/darwin-the-man-of-his-times)
 * [2026-01-01, 14:39:23](https://news.ycombinator.com/item?id=46454470) - [Python Numbers Every Programmer Should Know](https://mkennedy.codes/posts/python-numbers-every-programmer-should-know/)
 * [2026-01-01, 14:32:12](https://news.ycombinator.com/item?id=46454413) - [2025 Letter](https://danwang.co/2025-letter/)
