@@ -1,12 +1,32 @@
 [
   [
     [
-      "2026-01-07, 10:53:41",
-      "https://news.ycombinator.com/item?id=46524873"
+      "2026-01-07, 12:29:11",
+      "https://news.ycombinator.com/item?id=46525640"
     ],
     [
-      "Firefox extension to redirect x.com to xcancel.com",
-      "https://addons.mozilla.org/en-US/firefox/addon/toxcancel/"
+      "Stop Designing Languages. Write Libraries Instead",
+      "https://lbstanza.org/purpose_of_programming_languages.html"
+    ]
+  ],
+  [
+    [
+      "2026-01-07, 12:19:01",
+      "https://news.ycombinator.com/item?id=46525542"
+    ],
+    [
+      "The Eric and Wendy Schmidt Observatory System",
+      "https://www.schmidtsciences.org/schmidt-observatory-system/"
+    ]
+  ],
+  [
+    [
+      "2026-01-07, 12:00:20",
+      "https://news.ycombinator.com/item?id=46525394"
+    ],
+    [
+      "Optery (YC W22) Hiring a CISO and Web Scraping Engineers (Node) (US and Latam)",
+      "https://www.optery.com/careers/"
     ]
   ],
   [
@@ -131,32 +151,12 @@
   ],
   [
     [
-      "2026-01-06, 18:11:51",
-      "https://news.ycombinator.com/item?id=46516137"
-    ],
-    [
-      "Passing of Joe Mancuso",
-      "https://github.com/MasoniteFramework/masonite/discussions/853"
-    ]
-  ],
-  [
-    [
       "2026-01-06, 18:00:27",
       "https://news.ycombinator.com/item?id=46515948"
     ],
     [
       "Locating a Photo of a Vehicle in 30 Seconds with GeoSpy",
       "https://geospy.ai/blog/locating-a-photo-of-a-vehicle-in-30-seconds-with-geospy"
-    ]
-  ],
-  [
-    [
-      "2026-01-06, 17:59:41",
-      "https://news.ycombinator.com/item?id=46515936"
-    ],
-    [
-      "Dude, where's my supersonic jet?",
-      "https://rationaloptimistsociety.substack.com/p/dude-wheres-my-supersonic-jet"
     ]
   ],
   [
@@ -201,16 +201,6 @@
   ],
   [
     [
-      "2026-01-06, 06:01:57",
-      "https://news.ycombinator.com/item?id=46509211"
-    ],
-    [
-      "enclose.horse",
-      "https://enclose.horse/"
-    ]
-  ],
-  [
-    [
       "2026-01-05, 17:54:03",
       "https://news.ycombinator.com/item?id=46502148"
     ],
@@ -235,7 +225,7 @@
       "https://news.ycombinator.com/item?id=46473400"
     ],
     [
-      "Formal Methods Only Solve Half My Problems",
+      "Formal methods only solve half my problems",
       "https://brooker.co.za/blog/2022/06/02/formal.html"
     ]
   ],
@@ -277,6 +267,16 @@
     [
       "Investigating and fixing a nasty clone bug",
       "https://kobzol.github.io/rust/2025/12/30/investigating-and-fixing-a-nasty-clone-bug.html"
+    ]
+  ],
+  [
+    [
+      "2026-01-02, 13:46:52",
+      "https://news.ycombinator.com/item?id=46464689"
+    ],
+    [
+      "The first new compass since 1936",
+      "https://www.youtube.com/watch?v=eiDhbZ8-BZI"
     ]
   ],
   [
