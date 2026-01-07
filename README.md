@@ -2,7 +2,6 @@
 
 * [2026-01-07, 03:48:05](https://news.ycombinator.com/item?id=46522308) - [On the slow death of scaling](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5877662)
 * [2026-01-07, 02:37:09](https://news.ycombinator.com/item?id=46521860) - [Microsoft probably killed my Snapdragon Dev Kit](https://jasoneckert.github.io/myblog/how-microsoft-killed-my-snapdragon-devkit/)
-* [2026-01-07, 00:50:58](https://news.ycombinator.com/item?id=46521084) - [PassSeeds – hijacking Passkeys to unlock new cryptographic use cases](https://backalleycoder.com/posts/passseeds-an-experiment-in-hijacking-passkeys-to-unlock-cryptographic-use-cases/)
 * [2026-01-07, 00:44:43](https://news.ycombinator.com/item?id=46521029) - [We recreated Steve Jobs's 1975 Atari horoscope program](https://blog.adafruit.com/2026/01/06/we-recreated-steve-jobss-1975-atari-horoscope-program-and-you-can-run-it/)
 * [2026-01-07, 00:31:01](https://news.ycombinator.com/item?id=46520935) - [Electronic nose for indoor mold detection and identification](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adsr.202500124)
 * [2026-01-07, 00:30:09](https://news.ycombinator.com/item?id=46520926) - [Show HN: SMTP Tunnel – A SOCKS5 proxy disguised as email traffic to bypass DPI](https://github.com/x011/smtp-tunnel-proxy)
@@ -25,6 +24,7 @@
 * [2026-01-04, 23:40:30](https://news.ycombinator.com/item?id=46493607) - [Two ways to crack a walnut, per Grothendieck (2025)](https://shreevatsa.net/post/grothendieck-approaches/)
 * [2026-01-03, 14:15:11](https://news.ycombinator.com/item?id=46476915) - [Rust is beyond object-oriented, part 3: Inheritance (2023)](https://www.thecodedmessage.com/posts/oop-3-inheritance/)
 * [2026-01-03, 06:08:18](https://news.ycombinator.com/item?id=46473247) - [Vector graphics on GPU](https://gasiulis.name/vector-graphics-on-gpu/)
+* [2026-01-03, 02:05:35](https://news.ycombinator.com/item?id=46472047) - [Show HN: TCP chat server written in C# and .NET 9, used in the terminal](https://github.com/Sieep-Coding/simple-chat-csharp)
 * [2026-01-02, 22:16:12](https://news.ycombinator.com/item?id=46470115) - [Show HN: Open-source AI workflows with read-only auth scopes](https://github.com/seer-engg/seer)
 * [2026-01-02, 22:07:50](https://news.ycombinator.com/item?id=46470017) - [The creator of Claude Code's Claude setup](https://twitter.com/bcherny/status/2007179832300581177)
 * [2026-01-02, 17:04:03](https://news.ycombinator.com/item?id=46466843) - [I wanted a camera that doesn't exist, so I built it](https://medium.com/@cristi.baluta/i-wanted-a-camera-that-doesnt-exist-so-i-built-it-5f9864533eb7)
