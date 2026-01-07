@@ -75,6 +75,7 @@
 * [2026-01-04, 01:21:56](https://news.ycombinator.com/item?id=46483776) - [MyTorch – Minimalist autograd in 450 lines of Python](https://github.com/obround/mytorch)
 * [2026-01-04, 01:15:15](https://news.ycombinator.com/item?id=46483729) - [The Great Gatsby is the most misunderstood novel](https://www.bbc.com/culture/article/20210209-the-worlds-most-misunderstood-novel)
 * [2026-01-04, 01:02:46](https://news.ycombinator.com/item?id=46483657) - [SQLNet A social network that looks like Twitter but you write SQL to do anything](https://sqlnet.cc)
+* [2026-01-04, 00:48:38](https://news.ycombinator.com/item?id=46483550) - [Show HN: Comet MCP – Give Claude Code a browser that can click](https://github.com/hanzili/comet-mcp)
 * [2026-01-04, 00:45:54](https://news.ycombinator.com/item?id=46483531) - [Corroded: Illegal Rust](https://github.com/buyukakyuz/corroded)
 * [2026-01-04, 00:31:42](https://news.ycombinator.com/item?id=46483432) - [KDE onboarding is good now](https://rabbitictranslator.com/kde-onboarding/)
 * [2026-01-04, 00:31:15](https://news.ycombinator.com/item?id=46483429) - [Pickle 1 AR Glasses (YC W25) May Be Fraudulent](https://twitter.com/thedowd/status/2007337800430198913)
