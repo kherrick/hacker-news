@@ -11,6 +11,7 @@
 * [2026-01-07, 17:23:23](https://news.ycombinator.com/item?id=46529257) - [Texas A&M bans part of Plato's Symposium](https://dailynous.com/2026/01/06/texas-am-bans-plato/)
 * [2026-01-07, 17:22:09](https://news.ycombinator.com/item?id=46529237) - [Eat Real Food – Introducing the New Pyramid](https://realfood.gov)
 * [2026-01-07, 17:12:04](https://news.ycombinator.com/item?id=46529097) - [The $14 Burrito: Why San Francisco Inflation Feels Higher Than 2.5%](https://www.foglinesf.com/p/the-14-burrito-why-san-francisco-inflation-feels-higher-than-2-5)
+* [2026-01-07, 16:29:41](https://news.ycombinator.com/item?id=46528389) - [How Google got its groove back and edged ahead of OpenAI](https://www.wsj.com/tech/ai/google-ai-openai-gemini-chatgpt-b766e160)
 * [2026-01-07, 16:28:14](https://news.ycombinator.com/item?id=46528353) - [Health care data breach affects over 600k patients, Illinois agency says](https://www.nprillinois.org/illinois/2026-01-06/health-care-data-breach-affects-600-000-patients-illinois-agency-says)
 * [2026-01-07, 16:18:23](https://news.ycombinator.com/item?id=46528192) - [BillG the Manager](https://hardcoresoftware.learningbyshipping.com/p/019-billg-the-manager)
 * [2026-01-07, 16:15:01](https://news.ycombinator.com/item?id=46528142) - [The Case for Nushell (2023)](https://www.sophiajt.com/case-for-nushell/)
