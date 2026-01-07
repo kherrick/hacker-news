@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-01-02](index.md)
 
+* [2026-01-02, 23:53:21](https://news.ycombinator.com/item?id=46471001) - [XPER on the Commodore 64](https://stonetools.ghost.io/xper-c64/)
 * [2026-01-02, 23:52:13](https://news.ycombinator.com/item?id=46470992) - [The most friendless place on Earth](https://www.economist.com/christmas-specials/2025/12/18/the-most-friendless-place-on-earth)
+* [2026-01-02, 23:47:59](https://news.ycombinator.com/item?id=46470963) - [The Agentic Self: Parallels Between AI and Self-Improvement](http://muratbuffalo.blogspot.com/2026/01/the-agentic-self-parallels-between-ai.html)
 * [2026-01-02, 23:11:32](https://news.ycombinator.com/item?id=46470659) - [How HTML changes in ePub](https://www.htmhell.dev/adventcalendar/2025/11/)
 * [2026-01-02, 23:01:10](https://news.ycombinator.com/item?id=46470571) - [NY Fed cash transfers to banks increase dramatically in Q4 2025](https://www.dcreport.org/2025/12/29/ny-fed-unlimited-cash-infusions-bank-crisis/)
 * [2026-01-02, 22:53:53](https://news.ycombinator.com/item?id=46470513) - [The Lottery Ticket Hypothesis: finding sparse trainable NNs with 90% less params](https://arxiv.org/abs/1803.03635)
