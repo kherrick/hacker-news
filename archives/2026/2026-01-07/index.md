@@ -12,5 +12,6 @@
 * [2026-01-07, 00:44:43](https://news.ycombinator.com/item?id=46521029) - [We Recreated Steve Jobs's 1975 Atari Horoscope Program and You Can Run It](https://blog.adafruit.com/2026/01/06/we-recreated-steve-jobss-1975-atari-horoscope-program-and-you-can-run-it/)
 * [2026-01-07, 00:36:41](https://news.ycombinator.com/item?id=46520975) - [Website with a DMCA Takedown](https://priyatham.in/en/post/hosting-dmca/)
 * [2026-01-07, 00:31:01](https://news.ycombinator.com/item?id=46520935) - [Electronic nose for indoor mold detection and identification](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adsr.202500124)
+* [2026-01-07, 00:30:09](https://news.ycombinator.com/item?id=46520926) - [Show HN: SMTP Tunnel – A SOCKS5 proxy disguised as email traffic to bypass DPI](https://github.com/x011/smtp-tunnel-proxy)
 * [2026-01-07, 00:22:06](https://news.ycombinator.com/item?id=46520879) - [Why the trans flag emoji is the 5-codepoint sequence it is](https://hecate.pink/blog/2026/trans-flag-emoji/)
 * [2026-01-07, 00:12:15](https://news.ycombinator.com/item?id=46520802) - [JavaScript Analyzer – Burp Suite Extension](https://github.com/jenish-sojitra/JSAnalyzer)
