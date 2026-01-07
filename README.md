@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-01-07, 10:53:41](https://news.ycombinator.com/item?id=46524873) - [Firefox extension to redirect x.com to xcancel.com](https://addons.mozilla.org/en-US/firefox/addon/toxcancel/)
 * [2026-01-07, 10:05:29](https://news.ycombinator.com/item?id=46524576) - [The mineral riches hiding under Greenland's ice](https://www.bbc.com/future/article/20250121-the-enormous-challenge-of-mining-greenland)
 * [2026-01-07, 03:48:05](https://news.ycombinator.com/item?id=46522308) - [On the slow death of scaling](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5877662)
 * [2026-01-07, 02:37:09](https://news.ycombinator.com/item?id=46521860) - [Microsoft probably killed my Snapdragon Dev Kit](https://jasoneckert.github.io/myblog/how-microsoft-killed-my-snapdragon-devkit/)
@@ -7,7 +8,6 @@
 * [2026-01-07, 00:31:01](https://news.ycombinator.com/item?id=46520935) - [Electronic nose for indoor mold detection and identification](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adsr.202500124)
 * [2026-01-07, 00:30:09](https://news.ycombinator.com/item?id=46520926) - [Show HN: SMTP Tunnel – A SOCKS5 proxy disguised as email traffic to bypass DPI](https://github.com/x011/smtp-tunnel-proxy)
 * [2026-01-06, 21:46:04](https://news.ycombinator.com/item?id=46519326) - [CES 2026: Taking the Lids Off AMD's Venice and MI400 SoCs](https://chipsandcheese.com/p/ces-2026-taking-the-lids-off-amds)
-* [2026-01-06, 21:44:37](https://news.ycombinator.com/item?id=46519303) - [Laylo (YC S20) – Head of Growth (Organic and Partners and Loops and AI) – Remote US](https://www.ycombinator.com/companies/laylo/jobs/ZtLHRXe-head-of-growth)
 * [2026-01-06, 21:23:07](https://news.ycombinator.com/item?id=46518996) - [Comparing AI agents to cybersecurity professionals in real-world pen testing](https://arxiv.org/abs/2512.09882)
 * [2026-01-06, 21:10:47](https://news.ycombinator.com/item?id=46518804) - [Oral microbiome sequencing after taking probiotics](https://blog.booleanbiotech.com/oral-microbiome-biogaia)
 * [2026-01-06, 20:55:01](https://news.ycombinator.com/item?id=46518573) - [A 30B Qwen model walks into a Raspberry Pi and runs in real time](https://byteshape.com/blogs/Qwen3-30B-A3B-Instruct-2507/)
@@ -22,7 +22,7 @@
 * [2026-01-06, 13:50:48](https://news.ycombinator.com/item?id=46512203) - [Show HN: VaultSandbox – Test your real MailGun/SES/etc. integration](https://vaultsandbox.com/)
 * [2026-01-05, 17:54:03](https://news.ycombinator.com/item?id=46502148) - [Show HN: Make audio loops online](https://makeloops.online/)
 * [2026-01-04, 23:40:30](https://news.ycombinator.com/item?id=46493607) - [Two ways to crack a walnut, per Grothendieck (2025)](https://shreevatsa.net/post/grothendieck-approaches/)
-* [2026-01-03, 14:15:11](https://news.ycombinator.com/item?id=46476915) - [Rust is beyond object-oriented, part 3: Inheritance (2023)](https://www.thecodedmessage.com/posts/oop-3-inheritance/)
+* [2026-01-03, 06:49:52](https://news.ycombinator.com/item?id=46473400) - [Formal Methods Only Solve Half My Problems](https://brooker.co.za/blog/2022/06/02/formal.html)
 * [2026-01-03, 06:08:18](https://news.ycombinator.com/item?id=46473247) - [Vector graphics on GPU](https://gasiulis.name/vector-graphics-on-gpu/)
 * [2026-01-03, 02:05:35](https://news.ycombinator.com/item?id=46472047) - [Show HN: TCP chat server written in C# and .NET 9, used in the terminal](https://github.com/Sieep-Coding/simple-chat-csharp)
 * [2026-01-02, 22:07:50](https://news.ycombinator.com/item?id=46470017) - [The creator of Claude Code's Claude setup](https://twitter.com/bcherny/status/2007179832300581177)
