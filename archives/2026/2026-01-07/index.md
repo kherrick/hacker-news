@@ -4,7 +4,11 @@
 
 ### [Archives](../../index.md) for [2026-01-07](index.md)
 
+* [2026-01-07, 18:31:19](https://news.ycombinator.com/item?id=46530448) - [NPM to implement staged publishing after turbulent shift off classic tokens](https://socket.dev/blog/npm-to-implement-staged-publishing)
+* [2026-01-07, 18:16:07](https://news.ycombinator.com/item?id=46530196) - [Predict your house price](https://www.bloomberg.com/opinion/newsletters/2026-01-06/predict-your-house-price)
+* [2026-01-07, 17:58:01](https://news.ycombinator.com/item?id=46529856) - [Show HN: Seapie – a Python debugger where breakpoints drop into a REPL](https://github.com/hirsimaki-markus/seapie)
 * [2026-01-07, 17:54:25](https://news.ycombinator.com/item?id=46529797) - [A tab hoarder's journey to sanity](https://twitter.com/borisandcrispin/status/2008709479068794989)
+* [2026-01-07, 17:23:23](https://news.ycombinator.com/item?id=46529257) - [Texas A&M bans part of Plato's Symposium](https://dailynous.com/2026/01/06/texas-am-bans-plato/)
 * [2026-01-07, 17:22:09](https://news.ycombinator.com/item?id=46529237) - [Eat Real Food – Introducing the New Pyramid](https://realfood.gov)
 * [2026-01-07, 17:12:04](https://news.ycombinator.com/item?id=46529097) - [The $14 Burrito: Why San Francisco Inflation Feels Higher Than 2.5%](https://www.foglinesf.com/p/the-14-burrito-why-san-francisco-inflation-feels-higher-than-2-5)
 * [2026-01-07, 16:28:14](https://news.ycombinator.com/item?id=46528353) - [Health care data breach affects over 600k patients, Illinois agency says](https://www.nprillinois.org/illinois/2026-01-06/health-care-data-breach-affects-600-000-patients-illinois-agency-says)
@@ -41,6 +45,7 @@
 * [2026-01-07, 04:48:50](https://news.ycombinator.com/item?id=46522686) - [A glimpse into V8 development for RISC-V](https://riseproject.dev/2025/12/09/a-glimpse-into-v8-development-for-risc-v/)
 * [2026-01-07, 03:48:05](https://news.ycombinator.com/item?id=46522308) - [On the slow death of scaling](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5877662)
 * [2026-01-07, 02:37:09](https://news.ycombinator.com/item?id=46521860) - [Microsoft probably killed my Snapdragon Dev Kit](https://jasoneckert.github.io/myblog/how-microsoft-killed-my-snapdragon-devkit/)
+* [2026-01-07, 02:25:08](https://news.ycombinator.com/item?id=46521773) - [Polymarket refuses to pay bets that US would 'invade' Venezuela](https://www.ft.com/content/985ae542-1ab4-491e-8e6e-b30f6a3ab666)
 * [2026-01-07, 01:11:12](https://news.ycombinator.com/item?id=46521238) - [The data center boom is concentrated in the U.S.](https://spectrum.ieee.org/data-center-growth)
 * [2026-01-07, 01:05:01](https://news.ycombinator.com/item?id=46521179) - [Most websites don't need cookie consent banners](https://block81.com/blog/why-most-websites-dont-actually-need-cookie-consent-banners)
 * [2026-01-07, 00:50:58](https://news.ycombinator.com/item?id=46521084) - [PassSeeds – hijacking Passkeys to unlock new cryptographic use cases](https://backalleycoder.com/posts/passseeds-an-experiment-in-hijacking-passkeys-to-unlock-cryptographic-use-cases/)
