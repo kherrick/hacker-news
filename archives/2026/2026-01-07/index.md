@@ -62,6 +62,7 @@
 * [2026-01-07, 08:42:57](https://news.ycombinator.com/item?id=46524036) - [Show HN: Free and local browser tool for designing gear models for 3D printing](https://gears.dmtrkovalenko.dev)
 * [2026-01-07, 08:18:09](https://news.ycombinator.com/item?id=46523887) - [The Q, K, V Matrices](https://arpitbhayani.me/blogs/qkv-matrices/)
 * [2026-01-07, 05:44:54](https://news.ycombinator.com/item?id=46523029) - [Bill to Eliminate H-1B Visa Program Introduced in Congress](https://www.newsweek.com/eliminate-h1b-visa-program-congress-bill-marjorie-taylor-greene-11312655)
+* [2026-01-07, 05:10:27](https://news.ycombinator.com/item?id=46522841) - [PgX – Debug Postgres performance in the context of your application code](https://docs.base14.io/blog/introducing-pgx/)
 * [2026-01-07, 04:48:50](https://news.ycombinator.com/item?id=46522686) - [A glimpse into V8 development for RISC-V](https://riseproject.dev/2025/12/09/a-glimpse-into-v8-development-for-risc-v/)
 * [2026-01-07, 04:40:48](https://news.ycombinator.com/item?id=46522632) - [LMArena is a cancer on AI](https://surgehq.ai/blog/lmarena-is-a-plague-on-ai)
 * [2026-01-07, 03:48:05](https://news.ycombinator.com/item?id=46522308) - [On the slow death of scaling](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5877662)

@@ -5,9 +5,13 @@
 ### [Archives](../../index.md) for [2026-01-08](index.md)
 
 * [2026-01-08, 21:01:36](https://news.ycombinator.com/item?id=46546413) - [Mux (YC W16) is hiring a platform engineer that cares about (internal) DX](https://www.mux.com/jobs)
+* [2026-01-08, 20:54:30](https://news.ycombinator.com/item?id=46546322) - [Support for the TSO memory model on Arm CPUs](https://lwn.net/Articles/970907/)
+* [2026-01-08, 20:50:57](https://news.ycombinator.com/item?id=46546270) - [Texas court blocks Samsung from tracking TV viewing, then vacates order](https://www.bleepingcomputer.com/news/security/texas-court-blocks-samsung-from-tracking-tv-viewing-then-vacates-order/)
 * [2026-01-08, 20:44:08](https://news.ycombinator.com/item?id=46546188) - [Texas First State to End American Bar Association oversight of law schools](https://www.keranews.org/news/2026-01-06/texas-supreme-court-ends-american-bar-association-law-school-accreditation)
 * [2026-01-08, 20:42:52](https://news.ycombinator.com/item?id=46546177) - [Steve Jobs was \"a truly rotten person\" (2018)](https://finance.yahoo.com/news/memoir-steve-jobs-apos-daughter-133000491.html)
+* [2026-01-08, 20:37:07](https://news.ycombinator.com/item?id=46546113) - [Sopro TTS: A 169M model with zero-shot voice cloning that runs on the CPU](https://github.com/samuel-vitorino/sopro)
 * [2026-01-08, 20:24:13](https://news.ycombinator.com/item?id=46545962) - [X faces global investigations for deepfake porn of women and minors](https://boingboing.net/2026/01/06/x-faces-global-investigations-as-grok-generates-deepfake-porn-of-women-and-minors.html)
+* [2026-01-08, 19:54:57](https://news.ycombinator.com/item?id=46545628) - [Show HN: We built a permissions layer for Notion](https://notionportals.com/)
 * [2026-01-08, 19:54:26](https://news.ycombinator.com/item?id=46545620) - [How to Code Claude Code in 200 Lines of Code](https://www.mihaileric.com/The-Emperor-Has-No-Clothes/)
 * [2026-01-08, 19:51:47](https://news.ycombinator.com/item?id=46545587) - [Task-free intelligence testing of LLMs](https://www.marble.onl/posts/tapping/index.html)
 * [2026-01-08, 19:09:23](https://news.ycombinator.com/item?id=46545077) - [Google AI Studio is now sponsoring Tailwind CSS](https://twitter.com/OfficialLoganK/status/2009339263251566902)
