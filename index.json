@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-01-08, 21:17:26",
+      "https://news.ycombinator.com/item?id=46546614"
+    ],
+    [
+      "Richard D. James interviews ex Korg engineer Tatsuya Takahashi (2017)",
+      "https://web.archive.org/web/20180719052026/http://item.warp.net/interview/aphex-twin-speaks-to-tatsuya-takahashi/"
+    ]
+  ],
+  [
+    [
       "2026-01-08, 21:02:19",
       "https://news.ycombinator.com/item?id=46546419"
     ],
@@ -47,16 +57,6 @@
     [
       "Sopro TTS: A 169M model with zero-shot voice cloning that runs on the CPU",
       "https://github.com/samuel-vitorino/sopro"
-    ]
-  ],
-  [
-    [
-      "2026-01-08, 19:54:57",
-      "https://news.ycombinator.com/item?id=46545628"
-    ],
-    [
-      "Show HN: We built a permissions layer for Notion",
-      "https://notionportals.com/"
     ]
   ],
   [
@@ -161,6 +161,16 @@
   ],
   [
     [
+      "2026-01-08, 15:20:15",
+      "https://news.ycombinator.com/item?id=46542036"
+    ],
+    [
+      "AI coding assistants are getting worse?",
+      "https://spectrum.ieee.org/ai-coding-degrades"
+    ]
+  ],
+  [
+    [
       "2026-01-08, 15:07:57",
       "https://news.ycombinator.com/item?id=46541892"
     ],
@@ -227,16 +237,6 @@
     [
       "Open Infrastructure Map",
       "https://openinframap.org"
-    ]
-  ],
-  [
-    [
-      "2026-01-08, 02:18:09",
-      "https://news.ycombinator.com/item?id=46536340"
-    ],
-    [
-      "Kernel bugs hide for 2 years on average. Some hide for 20",
-      "https://pebblebed.com/blog/kernel-bugs"
     ]
   ],
   [
