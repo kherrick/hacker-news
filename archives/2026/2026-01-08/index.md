@@ -6,8 +6,10 @@
 
 * [2026-01-08, 18:19:09](https://news.ycombinator.com/item?id=46544454) - [IBM AI ('Bob') Downloads and Executes Malware](https://www.promptarmor.com/resources/ibm-ai-(-bob-)-downloads-and-executes-malware)
 * [2026-01-08, 18:05:02](https://news.ycombinator.com/item?id=46544276) - [He was called a 'terrorist sympathizer.' Now his AI company is valued at $3B](https://sfstandard.com/2026/01/07/called-terrorist-sympathizer-now-ai-company-valued-3b/)
+* [2026-01-08, 17:50:15](https://news.ycombinator.com/item?id=46544072) - [Supernova Remnant Video from NASA's Chandra Is Decades in Making](https://www.nasa.gov/missions/chandra/supernova-remnant-video-from-nasas-chandra-is-decades-in-making/)
 * [2026-01-08, 17:45:54](https://news.ycombinator.com/item?id=46544016) - [Nvidia Kicks Off the Next Generation of AI with Rubin](https://nvidianews.nvidia.com/news/rubin-platform-ai-supercomputer)
 * [2026-01-08, 17:40:02](https://news.ycombinator.com/item?id=46543933) - [Chinese AI models have lagged the US frontier by 7 months on average since 2023](https://epoch.ai/data-insights/us-vs-china-eci)
+* [2026-01-08, 17:31:54](https://news.ycombinator.com/item?id=46543807) - [China starts UHV power line: The new 700 km UHV line will transmit 8M kW](https://switchgear-magazine.com/tm-news/business/china-starts-uhv-power-line/)
 * [2026-01-08, 17:01:58](https://news.ycombinator.com/item?id=46543420) - [ICE's Tool to Monitor Phones in Neighborhoods](https://www.404media.co/inside-ices-tool-to-monitor-phones-in-entire-neighborhoods/)
 * [2026-01-08, 17:01:00](https://news.ycombinator.com/item?id=46543403) - [Tamarind Bio (YC W24) Is Hiring Infrastructure Engineers](https://www.ycombinator.com/companies/tamarind-bio/jobs/HPRZAz3-infrastructure-engineer)
 * [2026-01-08, 16:46:45](https://news.ycombinator.com/item?id=46543200) - [The Waymo Ojai Will Soon Offer Autonomous Rides Around the U.S.](https://www.caranddriver.com/news/a69938250/waymo-ojai-autonomous-robotaxi-details/)
