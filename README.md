@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-01-08, 21:02:19](https://news.ycombinator.com/item?id=46546419) - [SQL Studio](https://sql.studio/)
 * [2026-01-08, 21:01:36](https://news.ycombinator.com/item?id=46546413) - [Mux (YC W16) is hiring a platform engineer that cares about (internal) DX](https://www.mux.com/jobs)
-* [2026-01-08, 20:54:30](https://news.ycombinator.com/item?id=46546322) - [Support for the TSO memory model on Arm CPUs](https://lwn.net/Articles/970907/)
+* [2026-01-08, 20:54:30](https://news.ycombinator.com/item?id=46546322) - [Support for the TSO memory model on Arm CPUs (2024)](https://lwn.net/Articles/970907/)
 * [2026-01-08, 20:50:57](https://news.ycombinator.com/item?id=46546270) - [Texas court blocks Samsung from tracking TV viewing, then vacates order](https://www.bleepingcomputer.com/news/security/texas-court-blocks-samsung-from-tracking-tv-viewing-then-vacates-order/)
 * [2026-01-08, 20:37:07](https://news.ycombinator.com/item?id=46546113) - [Sopro TTS: A 169M model with zero-shot voice cloning that runs on the CPU](https://github.com/samuel-vitorino/sopro)
 * [2026-01-08, 19:54:57](https://news.ycombinator.com/item?id=46545628) - [Show HN: We built a permissions layer for Notion](https://notionportals.com/)
@@ -28,7 +29,6 @@
 * [2026-01-05, 18:02:53](https://news.ycombinator.com/item?id=46502269) - [I used Lego to design a farm for people who are blind – like me](https://www.bbc.co.uk/news/articles/c4g4zlyqnr0o)
 * [2026-01-05, 04:25:34](https://news.ycombinator.com/item?id=46495319) - [Intellectual Junkyards](https://www.forester-notes.org/QHXS/index.xml)
 * [2026-01-05, 00:07:44](https://news.ycombinator.com/item?id=46493785) - [The Napoleon Technique: Postponing things to increase productivity](https://effectiviology.com/napoleon/)
-* [2026-01-04, 04:10:06](https://news.ycombinator.com/item?id=46484808) - [Show HN: I built a tool to create AI agents that live in iMessage](https://tryflux.ai/)
 * [2026-01-02, 19:24:10](https://news.ycombinator.com/item?id=46468338) - [Lights and Shadows (2020)](https://ciechanow.ski/lights-and-shadows/)
 
 ## [Archives](archives/index.md)
