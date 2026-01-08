@@ -26,9 +26,9 @@
 * [2026-01-07, 08:18:09](https://news.ycombinator.com/item?id=46523887) - [The Q, K, V Matrices](https://arpitbhayani.me/blogs/qkv-matrices/)
 * [2026-01-05, 20:50:44](https://news.ycombinator.com/item?id=46504761) - [Reading Without Limits or Expectations](https://www.carolinecrampton.com/reading-without-limits-or-expectations/)
 * [2026-01-05, 00:07:44](https://news.ycombinator.com/item?id=46493785) - [The Napoleon Technique: Postponing Things to Increase Productivity](https://effectiviology.com/napoleon/)
+* [2026-01-04, 21:23:27](https://news.ycombinator.com/item?id=46492401) - [Anyone have experiences with Audio Induction Loops?](https://en.wikipedia.org/wiki/Audio_induction_loop)
 * [2026-01-04, 19:22:23](https://news.ycombinator.com/item?id=46491219) - [GLSL Web CRT Shader](https://blog.gingerbeardman.com/2026/01/04/glsl-web-crt-shader/)
 * [2026-01-03, 16:53:29](https://news.ycombinator.com/item?id=46478815) - [Show HN: Open database of link metadata for large-scale analysis](https://github.com/rumca-js/RSS-Link-Database-2025)
-* [2026-01-02, 23:44:04](https://news.ycombinator.com/item?id=46470927) - [How dependabot works](https://nesbitt.io/2026/01/02/how-dependabot-actually-works.html)
 * [2026-01-02, 12:51:55](https://news.ycombinator.com/item?id=46464270) - [Lessons from Hash Table Merging](https://gist.github.com/attractivechaos/d2efc77cc1db56bbd5fc597987e73338)
 
 ## [Archives](archives/index.md)
