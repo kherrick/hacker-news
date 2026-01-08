@@ -4,8 +4,12 @@
 
 ### [Archives](../../index.md) for [2026-01-08](index.md)
 
+* [2026-01-08, 06:46:26](https://news.ycombinator.com/item?id=46538001) - [A closer look at a BGP anomaly in Venezuela](https://blog.cloudflare.com/bgp-route-leak-venezuela/)
+* [2026-01-08, 06:43:07](https://news.ycombinator.com/item?id=46537983) - [AI Misses Nearly One-Third of Breast Cancers, Study Finds](https://www.emjreviews.com/radiology/news/ai-misses-nearly-one-third-of-breast-cancers-study-finds/)
+* [2026-01-08, 05:37:34](https://news.ycombinator.com/item?id=46537597) - [Covid-19 leaves a lasting mark on the human brain](https://news.griffith.edu.au/2025/12/16/covid-19-leaves-a-lasting-mark-on-the-human-brain/)
 * [2026-01-08, 05:20:05](https://news.ycombinator.com/item?id=46537489) - [Project Patchouli: Open-source electromagnetic drawing tablet hardware](https://patchouli.readthedocs.io/en/latest/)
 * [2026-01-08, 05:15:41](https://news.ycombinator.com/item?id=46537459) - [Show HN: Lean4 proof that SSOT requires definition-time hooks and introspection](https://zenodo.org/records/18177320)
+* [2026-01-08, 04:46:56](https://news.ycombinator.com/item?id=46537295) - [Why we're taking legal action against SerpApi's unlawful scraping](https://blog.google/innovation-and-ai/technology/safety-security/serpapi-lawsuit/)
 * [2026-01-08, 04:10:34](https://news.ycombinator.com/item?id=46537095) - [go.sum Is Not a Lockfile](https://words.filippo.io/gosum/)
 * [2026-01-08, 03:36:32](https://news.ycombinator.com/item?id=46536897) - [Intricuit: A touchscreen add-on for Mac laptops](https://intricuit.com)
 * [2026-01-08, 03:31:12](https://news.ycombinator.com/item?id=46536866) - [Open Infrastructure Map](https://openinframap.org)
