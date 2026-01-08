@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-01-08, 17:01:58",
+      "https://news.ycombinator.com/item?id=46543420"
+    ],
+    [
+      "ICE's Tool to Monitor Phones in Neighborhoods",
+      "https://www.404media.co/inside-ices-tool-to-monitor-phones-in-entire-neighborhoods/"
+    ]
+  ],
+  [
+    [
       "2026-01-08, 17:01:00",
       "https://news.ycombinator.com/item?id=46543403"
     ],
@@ -21,12 +31,22 @@
   ],
   [
     [
-      "2026-01-08, 15:37:06",
-      "https://news.ycombinator.com/item?id=46542253"
+      "2026-01-08, 16:31:29",
+      "https://news.ycombinator.com/item?id=46542982"
     ],
     [
-      "An Honest Review of Go (2025)",
-      "https://benraz.dev/blog/golang_review.html"
+      "Dynamic Large Concept Models: Latent Reasoning in an Adaptive Semantic Space",
+      "https://arxiv.org/abs/2512.24617"
+    ]
+  ],
+  [
+    [
+      "2026-01-08, 16:11:48",
+      "https://news.ycombinator.com/item?id=46542683"
+    ],
+    [
+      "Iran Goes Into IPv6 Blackout",
+      "https://radar.cloudflare.com/routing/ir"
     ]
   ],
   [
@@ -131,26 +151,6 @@
   ],
   [
     [
-      "2026-01-08, 00:51:20",
-      "https://news.ycombinator.com/item?id=46535540"
-    ],
-    [
-      "Musashi: Motorola 680x0 emulator written in C",
-      "https://github.com/kstenerud/Musashi"
-    ]
-  ],
-  [
-    [
-      "2026-01-08, 00:48:17",
-      "https://news.ycombinator.com/item?id=46535515"
-    ],
-    [
-      "The virtual AmigaOS runtime (a.k.a. Wine for Amiga:)",
-      "https://github.com/cnvogelg/amitools/blob/main/docs/vamos.md"
-    ]
-  ],
-  [
-    [
       "2026-01-07, 20:16:50",
       "https://news.ycombinator.com/item?id=46531925"
     ],
@@ -167,16 +167,6 @@
     [
       "ChatGPT Health",
       "https://openai.com/index/introducing-chatgpt-health/"
-    ]
-  ],
-  [
-    [
-      "2026-01-07, 18:31:19",
-      "https://news.ycombinator.com/item?id=46530448"
-    ],
-    [
-      "NPM to implement staged publishing after turbulent shift off classic tokens",
-      "https://socket.dev/blog/npm-to-implement-staged-publishing"
     ]
   ],
   [
@@ -257,6 +247,16 @@
     [
       "Anyone have experiences with Audio Induction Loops?",
       "https://en.wikipedia.org/wiki/Audio_induction_loop"
+    ]
+  ],
+  [
+    [
+      "2026-01-04, 19:26:26",
+      "https://news.ycombinator.com/item?id=46491264"
+    ],
+    [
+      "Signals vs. Query-Based Compilers",
+      "https://marvinh.dev/blog/signals-vs-query-based-compilers/"
     ]
   ],
   [
