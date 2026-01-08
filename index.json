@@ -1,6 +1,36 @@
 [
   [
     [
+      "2026-01-08, 06:46:26",
+      "https://news.ycombinator.com/item?id=46538001"
+    ],
+    [
+      "A closer look at a BGP anomaly in Venezuela",
+      "https://blog.cloudflare.com/bgp-route-leak-venezuela/"
+    ]
+  ],
+  [
+    [
+      "2026-01-08, 06:43:07",
+      "https://news.ycombinator.com/item?id=46537983"
+    ],
+    [
+      "AI Misses Nearly One-Third of Breast Cancers, Study Finds",
+      "https://www.emjreviews.com/radiology/news/ai-misses-nearly-one-third-of-breast-cancers-study-finds/"
+    ]
+  ],
+  [
+    [
+      "2026-01-08, 05:37:34",
+      "https://news.ycombinator.com/item?id=46537597"
+    ],
+    [
+      "Covid-19 leaves a lasting mark on the human brain",
+      "https://news.griffith.edu.au/2025/12/16/covid-19-leaves-a-lasting-mark-on-the-human-brain/"
+    ]
+  ],
+  [
+    [
       "2026-01-08, 05:20:05",
       "https://news.ycombinator.com/item?id=46537489"
     ],
@@ -21,22 +51,22 @@
   ],
   [
     [
+      "2026-01-08, 04:46:56",
+      "https://news.ycombinator.com/item?id=46537295"
+    ],
+    [
+      "Why we're taking legal action against SerpApi's unlawful scraping",
+      "https://blog.google/innovation-and-ai/technology/safety-security/serpapi-lawsuit/"
+    ]
+  ],
+  [
+    [
       "2026-01-08, 04:10:34",
       "https://news.ycombinator.com/item?id=46537095"
     ],
     [
       "Go.sum is not a lockfile",
       "https://words.filippo.io/gosum/"
-    ]
-  ],
-  [
-    [
-      "2026-01-08, 03:36:32",
-      "https://news.ycombinator.com/item?id=46536897"
-    ],
-    [
-      "Intricuit: A touchscreen add-on for Mac laptops",
-      "https://intricuit.com"
     ]
   ],
   [
@@ -87,16 +117,6 @@
     [
       "The virtual AmigaOS runtime (a.k.a. Wine for Amiga:)",
       "https://github.com/cnvogelg/amitools/blob/main/docs/vamos.md"
-    ]
-  ],
-  [
-    [
-      "2026-01-08, 00:48:11",
-      "https://news.ycombinator.com/item?id=46535514"
-    ],
-    [
-      "Fighting back against biometric surveillance at Wegmans",
-      "https://blog.adafruit.com/2026/01/07/dont-let-the-grocery-store-scan-your-face-a-guide-to-fighting-back-against-biometric-surveillance-at-wegmans/"
     ]
   ],
   [
@@ -201,16 +221,6 @@
   ],
   [
     [
-      "2026-01-07, 16:02:19",
-      "https://news.ycombinator.com/item?id=46527950"
-    ],
-    [
-      "Creators of Tailwind laid off 75% of their engineering team",
-      "https://github.com/tailwindlabs/tailwindcss.com/pull/2388"
-    ]
-  ],
-  [
-    [
       "2026-01-07, 15:03:41",
       "https://news.ycombinator.com/item?id=46527161"
     ],
@@ -267,16 +277,6 @@
     [
       "Solo ASIC tapeout on a budget: detailed write up",
       "https://old.reddit.com/r/chipdesign/comments/1q4kvxt/solo_asic_tapeout_on_a_budget_detailed_write_up/"
-    ]
-  ],
-  [
-    [
-      "2026-01-04, 22:02:47",
-      "https://news.ycombinator.com/item?id=46492747"
-    ],
-    [
-      "Dissecting a C64 Autoboot Program",
-      "https://bumbershootsoft.wordpress.com/2026/01/03/dissecting-a-c64-autoboot-program/"
     ]
   ],
   [
