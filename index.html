@@ -145,43 +145,135 @@
             </h4>
           </section>
         </section>
-        <section id="46546188">
+        <section id="46546322">
           <h3>
-            <a
-              class="item"
-              href="https://www.keranews.org/news/2026-01-06/texas-supreme-court-ends-american-bar-association-law-school-accreditation"
-              >Texas First State to End American Bar Association oversight of
-              law schools</a
+            <a class="item" href="https://lwn.net/Articles/970907/"
+              >Support for the TSO memory model on Arm CPUs</a
             >
           </h3>
           <section>
             <h4>
-              <span>2026-01-08 @ 20:44:08</span
+              <span>2026-01-08 @ 20:54:30</span
               ><span class="points-container"
-                >Points: <span class="points">44</span></span
+                >Points: <span class="points">6</span></span
               ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=46546188"
+                ><a href="https://news.ycombinator.com/item?id=46546322"
                   >Comments</a
-                ><span class="descendants">: 43</span></span
+                ><span class="descendants">: 2</span></span
               >
             </h4>
           </section>
         </section>
-        <section id="46546177">
+        <section id="46546270">
           <h3>
             <a
               class="item"
-              href="https://finance.yahoo.com/news/memoir-steve-jobs-apos-daughter-133000491.html"
-              >Steve Jobs was "a truly rotten person" (2018)</a
+              href="https://www.bleepingcomputer.com/news/security/texas-court-blocks-samsung-from-tracking-tv-viewing-then-vacates-order/"
+              >Texas court blocks Samsung from tracking TV viewing, then vacates
+              order</a
             >
           </h3>
           <section>
             <h4>
-              <span>2026-01-08 @ 20:42:52</span
+              <span>2026-01-08 @ 20:50:57</span
               ><span class="points-container"
-                >Points: <span class="points">20</span></span
+                >Points: <span class="points">22</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=46546270"
+                  >Comments</a
+                ><span class="descendants">: 5</span></span
               >
             </h4>
+          </section>
+        </section>
+        <section id="46546113">
+          <h3>
+            <a class="item" href="https://github.com/samuel-vitorino/sopro"
+              >Sopro TTS: A 169M model with zero-shot voice cloning that runs on
+              the CPU</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-01-08 @ 20:37:07</span
+              ><span class="points-container"
+                >Points: <span class="points">25</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=46546113"
+                  >Comments</a
+                ><span class="descendants">: 6</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="46545628">
+          <h3>
+            <a class="item" href="https://notionportals.com/"
+              >Show HN: We built a permissions layer for Notion</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-01-08 @ 19:54:57</span
+              ><span class="points-container"
+                >Points: <span class="points">6</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=46545628"
+                  >Comments</a
+                ><span class="descendants">: 0</span></span
+              >
+            </h4>
+            <div class="text">
+              <p>Notion's native solution doesn't work:</p>
+              <p>
+                Row-level filtering exists but it's view-only (contractors can't
+                edit)
+              </p>
+              <p>Column hiding doesn't exist</p>
+              <p>Guest sharing is read-only</p>
+              <p>
+                So you either pay $15/mo per seat or duplicate databases
+                (maintenance nightmare)
+              </p>
+              <p>
+                I built a permissions layer using Notion's OAuth API. It lets
+                contractors see only specific rows and columns, edit data, all
+                without expensive seats.
+              </p>
+              <p>How it works:</p>
+              <p>Connect Notion via OAuth</p>
+              <p>
+                Define roles: "Sales reps see only leads where owner = them,
+                hide pricing column"
+              </p>
+              <p>Contractors access a clean portal</p>
+              <p>They view/edit data in real-time (syncs every 5 minutes)</p>
+              <p>You pay $59/mo flat for unlimited users</p>
+              <p>The math:</p>
+              <p>5 contractors × $15/mo = $900/year wasted</p>
+              <p>20 contractors × $15/mo = $3,600/year wasted</p>
+              <p>50 contractors × $15/mo = $9,000/year wasted</p>
+              <p>With this: all of them = $59/mo flat.</p>
+              <p>Technical:</p>
+              <p>Frontend: React + TypeScript</p>
+              <p>Backend: Supabase + PostgreSQL (RLS)</p>
+              <p>Auth: Notion OAuth 2.0</p>
+              <p>
+                Current state: 50 beta testers. First 20 customers get $49/month
+                locked-in (launching at $79 after January).
+              </p>
+              <p>Limitations:</p>
+              <p>Only Notion databases (not pages)</p>
+              <p>5-minute sync (not instant)</p>
+              <p>Requires role definition</p>
+              <p>No team permissions yet (roadmap)</p>
+              <p>
+                The ask: If this solves a problem you have, we'd love feedback.
+                Are there permission use cases we're missing? What's your price
+                sensitivity?
+              </p>
+              <p>Free trial: notionportals.com</p>
+            </div>
           </section>
         </section>
         <section id="46545620">
@@ -196,11 +288,11 @@
             <h4>
               <span>2026-01-08 @ 19:54:26</span
               ><span class="points-container"
-                >Points: <span class="points">90</span></span
+                >Points: <span class="points">105</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46545620"
                   >Comments</a
-                ><span class="descendants">: 62</span></span
+                ><span class="descendants">: 80</span></span
               >
             </h4>
           </section>
@@ -217,11 +309,11 @@
             <h4>
               <span>2026-01-08 @ 19:51:47</span
               ><span class="points-container"
-                >Points: <span class="points">16</span></span
+                >Points: <span class="points">17</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46545587"
                   >Comments</a
-                ><span class="descendants">: 2</span></span
+                ><span class="descendants">: 3</span></span
               >
             </h4>
           </section>
@@ -238,38 +330,13 @@
             <h4>
               <span>2026-01-08 @ 19:09:23</span
               ><span class="points-container"
-                >Points: <span class="points">243</span></span
+                >Points: <span class="points">271</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46545077"
                   >Comments</a
-                ><span class="descendants">: 76</span></span
+                ><span class="descendants">: 81</span></span
               >
             </h4>
-          </section>
-        </section>
-        <section id="46545056">
-          <h3>
-            <a class="item" href="https://news.ycombinator.com/item?id=46545056"
-              >Claude keeps nagging about "Help improve Claude" inspite of
-              previous decline</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-01-08 @ 19:07:22</span
-              ><span class="points-container"
-                >Points: <span class="points">54</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=46545056"
-                  >Comments</a
-                ><span class="descendants">: 28</span></span
-              >
-            </h4>
-            <div class="text">
-              What is this constant nagging? I have declined countless times on
-              various devices and it keeps nagging. I get they need more data to
-              train on, but lord saviour if you must offer free membership then.
-            </div>
           </section>
         </section>
         <section id="46544981">
@@ -282,11 +349,11 @@
             <h4>
               <span>2026-01-08 @ 19:00:28</span
               ><span class="points-container"
-                >Points: <span class="points">62</span></span
+                >Points: <span class="points">70</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46544981"
                   >Comments</a
-                ><span class="descendants">: 20</span></span
+                ><span class="descendants">: 24</span></span
               >
             </h4>
           </section>
@@ -303,11 +370,11 @@
             <h4>
               <span>2026-01-08 @ 18:29:47</span
               ><span class="points-container"
-                >Points: <span class="points">52</span></span
+                >Points: <span class="points">54</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46544610"
                   >Comments</a
-                ><span class="descendants">: 12</span></span
+                ><span class="descendants">: 13</span></span
               >
             </h4>
           </section>
@@ -324,7 +391,7 @@
             <h4>
               <span>2026-01-08 @ 18:24:17</span
               ><span class="points-container"
-                >Points: <span class="points">35</span></span
+                >Points: <span class="points">37</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46544524"
                   >Comments</a
@@ -358,33 +425,11 @@
             <h4>
               <span>2026-01-08 @ 18:19:09</span
               ><span class="points-container"
-                >Points: <span class="points">204</span></span
+                >Points: <span class="points">207</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46544454"
                   >Comments</a
-                ><span class="descendants">: 97</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="46544072">
-          <h3>
-            <a
-              class="item"
-              href="https://www.nasa.gov/missions/chandra/supernova-remnant-video-from-nasas-chandra-is-decades-in-making/"
-              >Supernova Remnant Video from NASA's Chandra Is Decades in
-              Making</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-01-08 @ 17:50:15</span
-              ><span class="points-container"
-                >Points: <span class="points">48</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=46544072"
-                  >Comments</a
-                ><span class="descendants">: 5</span></span
+                ><span class="descendants">: 98</span></span
               >
             </h4>
           </section>
@@ -420,11 +465,11 @@
             <h4>
               <span>2026-01-08 @ 16:16:43</span
               ><span class="points-container"
-                >Points: <span class="points">63</span></span
+                >Points: <span class="points">67</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46542761"
                   >Comments</a
-                ><span class="descendants">: 5</span></span
+                ><span class="descendants">: 6</span></span
               >
             </h4>
           </section>
@@ -439,11 +484,11 @@
             <h4>
               <span>2026-01-08 @ 16:11:48</span
               ><span class="points-container"
-                >Points: <span class="points">305</span></span
+                >Points: <span class="points">318</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46542683"
                   >Comments</a
-                ><span class="descendants">: 219</span></span
+                ><span class="descendants">: 231</span></span
               >
             </h4>
           </section>
@@ -461,11 +506,11 @@
             <h4>
               <span>2026-01-08 @ 15:07:57</span
               ><span class="points-container"
-                >Points: <span class="points">1781</span></span
+                >Points: <span class="points">1803</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46541892"
                   >Comments</a
-                ><span class="descendants">: 269</span></span
+                ><span class="descendants">: 271</span></span
               >
             </h4>
           </section>
@@ -515,11 +560,11 @@
             <h4>
               <span>2026-01-08 @ 13:02:05</span
               ><span class="points-container"
-                >Points: <span class="points">331</span></span
+                >Points: <span class="points">337</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46540498"
                   >Comments</a
-                ><span class="descendants">: 118</span></span
+                ><span class="descendants">: 119</span></span
               >
             </h4>
           </section>
@@ -536,11 +581,11 @@
             <h4>
               <span>2026-01-08 @ 06:46:26</span
               ><span class="points-container"
-                >Points: <span class="points">355</span></span
+                >Points: <span class="points">358</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46538001"
                   >Comments</a
-                ><span class="descendants">: 186</span></span
+                ><span class="descendants">: 187</span></span
               >
             </h4>
           </section>
@@ -556,7 +601,7 @@
             <h4>
               <span>2026-01-08 @ 05:20:05</span
               ><span class="points-container"
-                >Points: <span class="points">407</span></span
+                >Points: <span class="points">408</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46537489"
                   >Comments</a
@@ -578,7 +623,7 @@
             <h4>
               <span>2026-01-08 @ 04:39:55</span
               ><span class="points-container"
-                >Points: <span class="points">40</span></span
+                >Points: <span class="points">42</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46537253"
                   >Comments</a
@@ -597,7 +642,7 @@
             <h4>
               <span>2026-01-08 @ 03:31:12</span
               ><span class="points-container"
-                >Points: <span class="points">387</span></span
+                >Points: <span class="points">391</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46536866"
                   >Comments</a
@@ -616,11 +661,11 @@
             <h4>
               <span>2026-01-08 @ 02:18:09</span
               ><span class="points-container"
-                >Points: <span class="points">270</span></span
+                >Points: <span class="points">272</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46536340"
                   >Comments</a
-                ><span class="descendants">: 145</span></span
+                ><span class="descendants">: 146</span></span
               >
             </h4>
           </section>
@@ -637,11 +682,31 @@
             <h4>
               <span>2026-01-07 @ 15:46:07</span
               ><span class="points-container"
-                >Points: <span class="points">291</span></span
+                >Points: <span class="points">303</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46527706"
                   >Comments</a
-                ><span class="descendants">: 214</span></span
+                ><span class="descendants">: 222</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="46522841">
+          <h3>
+            <a class="item" href="https://docs.base14.io/blog/introducing-pgx/"
+              >PgX – Debug Postgres performance in the context of your
+              application code</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-01-07 @ 05:10:27</span
+              ><span class="points-container"
+                >Points: <span class="points">6</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=46522841"
+                  >Comments</a
+                ><span class="descendants">: 0</span></span
               >
             </h4>
           </section>
@@ -663,7 +728,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46502269"
                   >Comments</a
-                ><span class="descendants">: 20</span></span
+                ><span class="descendants">: 21</span></span
               >
             </h4>
           </section>
@@ -678,11 +743,11 @@
             <h4>
               <span>2026-01-05 @ 04:25:34</span
               ><span class="points-container"
-                >Points: <span class="points">14</span></span
+                >Points: <span class="points">18</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46495319"
                   >Comments</a
-                ><span class="descendants">: 1</span></span
+                ><span class="descendants">: 3</span></span
               >
             </h4>
           </section>
@@ -698,32 +763,11 @@
             <h4>
               <span>2026-01-05 @ 00:07:44</span
               ><span class="points-container"
-                >Points: <span class="points">228</span></span
+                >Points: <span class="points">230</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46493785"
                   >Comments</a
-                ><span class="descendants">: 120</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="46491264">
-          <h3>
-            <a
-              class="item"
-              href="https://marvinh.dev/blog/signals-vs-query-based-compilers/"
-              >Signals vs. Query-Based Compilers</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-01-04 @ 19:26:26</span
-              ><span class="points-container"
-                >Points: <span class="points">42</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=46491264"
-                  >Comments</a
-                ><span class="descendants">: 6</span></span
+                ><span class="descendants">: 121</span></span
               >
             </h4>
           </section>
@@ -793,7 +837,7 @@
             <h4>
               <span>2026-01-02 @ 19:24:10</span
               ><span class="points-container"
-                >Points: <span class="points">207</span></span
+                >Points: <span class="points">210</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46468338"
                   >Comments</a
