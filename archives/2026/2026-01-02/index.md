@@ -7,6 +7,7 @@
 * [2026-01-02, 23:53:21](https://news.ycombinator.com/item?id=46471001) - [XPER on the Commodore 64](https://stonetools.ghost.io/xper-c64/)
 * [2026-01-02, 23:52:13](https://news.ycombinator.com/item?id=46470992) - [The most friendless place on Earth](https://www.economist.com/christmas-specials/2025/12/18/the-most-friendless-place-on-earth)
 * [2026-01-02, 23:47:59](https://news.ycombinator.com/item?id=46470963) - [The Agentic Self: Parallels Between AI and Self-Improvement](http://muratbuffalo.blogspot.com/2026/01/the-agentic-self-parallels-between-ai.html)
+* [2026-01-02, 23:44:04](https://news.ycombinator.com/item?id=46470927) - [How dependabot works](https://nesbitt.io/2026/01/02/how-dependabot-actually-works.html)
 * [2026-01-02, 23:36:15](https://news.ycombinator.com/item?id=46470870) - [Residues: Time, Change and Uncertainty in Software Architecture [video]](https://www.youtube.com/watch?v=D8qQUHrksrE)
 * [2026-01-02, 23:11:32](https://news.ycombinator.com/item?id=46470659) - [How HTML changes in ePub](https://www.htmhell.dev/adventcalendar/2025/11/)
 * [2026-01-02, 23:01:10](https://news.ycombinator.com/item?id=46470571) - [NY Fed cash transfers to banks increase dramatically in Q4 2025](https://www.dcreport.org/2025/12/29/ny-fed-unlimited-cash-infusions-bank-crisis/)
