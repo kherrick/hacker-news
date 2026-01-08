@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-01-08, 20:24:13](https://news.ycombinator.com/item?id=46545962) - [X faces global investigations for deepfake porn of women and minors](https://boingboing.net/2026/01/06/x-faces-global-investigations-as-grok-generates-deepfake-porn-of-women-and-minors.html)
 * [2026-01-08, 19:54:26](https://news.ycombinator.com/item?id=46545620) - [How to Code Claude Code in 200 Lines of Code](https://www.mihaileric.com/The-Emperor-Has-No-Clothes/)
+* [2026-01-08, 19:51:47](https://news.ycombinator.com/item?id=46545587) - [Task-free intelligence testing of LLMs](https://www.marble.onl/posts/tapping/index.html)
 * [2026-01-08, 19:09:23](https://news.ycombinator.com/item?id=46545077) - [Google AI Studio is now sponsoring Tailwind CSS](https://twitter.com/OfficialLoganK/status/2009339263251566902)
 * [2026-01-08, 19:07:22](https://news.ycombinator.com/item?id=46545056) - [Claude keeps nagging about \"Help improve Claude\" inspite of previous decline](https://news.ycombinator.com/item?id=46545056)
 * [2026-01-08, 19:00:28](https://news.ycombinator.com/item?id=46544981) - [The Unreasonable Effectiveness of the Fourier Transform](https://joshuawise.com/resources/ofdm/)
@@ -8,7 +10,6 @@
 * [2026-01-08, 18:24:17](https://news.ycombinator.com/item?id=46544524) - [Show HN: macOS menu bar app to track Claude usage in real time](https://github.com/richhickson/claudecodeusage)
 * [2026-01-08, 18:19:09](https://news.ycombinator.com/item?id=46544454) - [IBM AI ('Bob') Downloads and Executes Malware](https://www.promptarmor.com/resources/ibm-ai-(-bob-)-downloads-and-executes-malware)
 * [2026-01-08, 17:50:15](https://news.ycombinator.com/item?id=46544072) - [Supernova Remnant Video from NASA's Chandra Is Decades in Making](https://www.nasa.gov/missions/chandra/supernova-remnant-video-from-nasas-chandra-is-decades-in-making/)
-* [2026-01-08, 17:45:54](https://news.ycombinator.com/item?id=46544016) - [Nvidia Kicks Off the Next Generation of AI with Rubin](https://nvidianews.nvidia.com/news/rubin-platform-ai-supercomputer)
 * [2026-01-08, 17:01:00](https://news.ycombinator.com/item?id=46543403) - [Tamarind Bio (YC W24) Is Hiring Infrastructure Engineers](https://www.ycombinator.com/companies/tamarind-bio/jobs/HPRZAz3-infrastructure-engineer)
 * [2026-01-08, 16:31:29](https://news.ycombinator.com/item?id=46542982) - [Dynamic Large Concept Models: Latent Reasoning in an Adaptive Semantic Space](https://arxiv.org/abs/2512.24617)
 * [2026-01-08, 16:16:43](https://news.ycombinator.com/item?id=46542761) - [Digital Red Queen: Adversarial Program Evolution in Core War with LLMs](https://sakana.ai/drq/)
@@ -28,7 +29,6 @@
 * [2026-01-05, 00:07:44](https://news.ycombinator.com/item?id=46493785) - [The Napoleon Technique: Postponing things to increase productivity](https://effectiviology.com/napoleon/)
 * [2026-01-04, 19:26:26](https://news.ycombinator.com/item?id=46491264) - [Signals vs. Query-Based Compilers](https://marvinh.dev/blog/signals-vs-query-based-compilers/)
 * [2026-01-04, 04:10:06](https://news.ycombinator.com/item?id=46484808) - [Show HN: I built a tool to create AI agents that live in iMessage](https://tryflux.ai/)
-* [2026-01-03, 18:39:50](https://news.ycombinator.com/item?id=46480016) - [The Rise of Computer Games, Part II: Digitizing Nerddom – Creatures of Thought](https://technicshistory.com/2026/01/02/the-rise-of-computer-games-part-ii-digitizing-nerddom/)
 * [2026-01-02, 19:24:10](https://news.ycombinator.com/item?id=46468338) - [Lights and Shadows (2020)](https://ciechanow.ski/lights-and-shadows/)
 
 ## [Archives](archives/index.md)
