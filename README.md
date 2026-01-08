@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-01-08, 15:37:06](https://news.ycombinator.com/item?id=46542253) - [An Honest Review of Go](https://benraz.dev/blog/golang_review.html)
+* [2026-01-08, 15:20:52](https://news.ycombinator.com/item?id=46542046) - [Our Changing Planet, as Seen from Space](https://e360.yale.edu/digest/nasa-satellite-images-2025)
 * [2026-01-08, 15:20:15](https://news.ycombinator.com/item?id=46542036) - [AI Coding Assistants Are Getting Worse](https://spectrum.ieee.org/ai-coding-degrades)
 * [2026-01-08, 15:18:39](https://news.ycombinator.com/item?id=46542015) - [Japanese electronics store pleads for old PCs amid ongoing hardware shortage](https://www.tomshardware.com/desktops/pc-building/major-japanese-electronics-store-begs-customers-for-their-old-pcs-as-hardware-drought-continues-we-pretty-much-buy-any-pc-pleads-the-akihabara-outlet)
 * [2026-01-08, 15:07:57](https://news.ycombinator.com/item?id=46541892) - [Bose is open-sourcing its old smart speakers instead of bricking them](https://www.theverge.com/news/858501/bose-soundtouch-smart-speakers-open-source)
@@ -14,7 +16,6 @@
 * [2026-01-08, 02:18:09](https://news.ycombinator.com/item?id=46536340) - [Kernel bugs hide for 2 years on average. Some hide for 20](https://pebblebed.com/blog/kernel-bugs)
 * [2026-01-08, 00:51:20](https://news.ycombinator.com/item?id=46535540) - [Musashi: Motorola 680x0 emulator written in C](https://github.com/kstenerud/Musashi)
 * [2026-01-08, 00:48:17](https://news.ycombinator.com/item?id=46535515) - [The virtual AmigaOS runtime (a.k.a. Wine for Amiga:)](https://github.com/cnvogelg/amitools/blob/main/docs/vamos.md)
-* [2026-01-07, 23:31:05](https://news.ycombinator.com/item?id=46534777) - [Play Aardwolf MUD](https://www.aardwolf.com/)
 * [2026-01-07, 20:16:50](https://news.ycombinator.com/item?id=46531925) - [Tailscale state file encryption no longer enabled by default](https://tailscale.com/changelog)
 * [2026-01-07, 19:29:39](https://news.ycombinator.com/item?id=46531280) - [ChatGPT Health](https://openai.com/index/introducing-chatgpt-health/)
 * [2026-01-07, 18:31:19](https://news.ycombinator.com/item?id=46530448) - [NPM to implement staged publishing after turbulent shift off classic tokens](https://socket.dev/blog/npm-to-implement-staged-publishing)
@@ -25,7 +26,6 @@
 * [2026-01-07, 08:18:09](https://news.ycombinator.com/item?id=46523887) - [The Q, K, V Matrices](https://arpitbhayani.me/blogs/qkv-matrices/)
 * [2026-01-05, 00:07:44](https://news.ycombinator.com/item?id=46493785) - [The Napoleon Technique: Postponing things to increase productivity](https://effectiviology.com/napoleon/)
 * [2026-01-04, 21:23:27](https://news.ycombinator.com/item?id=46492401) - [Anyone have experiences with Audio Induction Loops?](https://en.wikipedia.org/wiki/Audio_induction_loop)
-* [2026-01-04, 19:22:23](https://news.ycombinator.com/item?id=46491219) - [GLSL Web CRT Shader](https://blog.gingerbeardman.com/2026/01/04/glsl-web-crt-shader/)
 * [2026-01-04, 12:11:18](https://news.ycombinator.com/item?id=46487224) - [The price of fame? Mortality risk among famous singers](https://jech.bmj.com/content/early/2025/11/30/jech-2025-224589)
 * [2026-01-03, 00:50:23](https://news.ycombinator.com/item?id=46471506) - [Looking for Alice (2023)](https://www.henrikkarlsson.xyz/p/looking-for-alice)
 * [2026-01-02, 19:24:10](https://news.ycombinator.com/item?id=46468338) - [Lights and Shadows (2020)](https://ciechanow.ski/lights-and-shadows/)

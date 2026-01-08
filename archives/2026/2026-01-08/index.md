@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-01-08](index.md)
 
+* [2026-01-08, 15:37:06](https://news.ycombinator.com/item?id=46542253) - [An Honest Review of Go](https://benraz.dev/blog/golang_review.html)
+* [2026-01-08, 15:20:52](https://news.ycombinator.com/item?id=46542046) - [Our Changing Planet, as Seen from Space](https://e360.yale.edu/digest/nasa-satellite-images-2025)
 * [2026-01-08, 15:20:15](https://news.ycombinator.com/item?id=46542036) - [AI Coding Assistants Are Getting Worse](https://spectrum.ieee.org/ai-coding-degrades)
 * [2026-01-08, 15:18:39](https://news.ycombinator.com/item?id=46542015) - [Japanese electronics store pleads for old PCs amid ongoing hardware shortage](https://www.tomshardware.com/desktops/pc-building/major-japanese-electronics-store-begs-customers-for-their-old-pcs-as-hardware-drought-continues-we-pretty-much-buy-any-pc-pleads-the-akihabara-outlet)
 * [2026-01-08, 15:15:26](https://news.ycombinator.com/item?id=46541972) - [Suppression of Type I collagen in human scleral fibroblasts treated with ELF](https://pmc.ncbi.nlm.nih.gov/articles/PMC3626379/)
