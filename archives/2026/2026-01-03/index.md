@@ -74,6 +74,7 @@
 * [2026-01-03, 01:14:42](https://news.ycombinator.com/item?id=46471691) - [Representing Hierarchies](https://gpfault.net/posts/first-child-next-sibling.html)
 * [2026-01-03, 01:08:35](https://news.ycombinator.com/item?id=46471648) - [Show HN: I used AI to recreate a $4000 piece of audio hardware as a plugin](https://news.ycombinator.com/item?id=46471648)
 * [2026-01-03, 01:02:29](https://news.ycombinator.com/item?id=46471600) - [Blaze: A Dec VT420 (and More) Emulator](https://mmastrac.github.io/blaze/)
+* [2026-01-03, 00:50:23](https://news.ycombinator.com/item?id=46471506) - [Looking for Alice](https://www.henrikkarlsson.xyz/p/looking-for-alice)
 * [2026-01-03, 00:15:47](https://news.ycombinator.com/item?id=46471199) - [2026 will be my year of the Linux desktop](https://xeiaso.net/notes/2026/year-linux-desktop/)
 * [2026-01-03, 00:12:55](https://news.ycombinator.com/item?id=46471171) - [Show HN: Website that plays the lottery every second](https://lotteryeverysecond.lffl.me/)
 * [2026-01-03, 00:01:53](https://news.ycombinator.com/item?id=46471081) - [Microsoft kills official way to activate Windows 11/10 without internet](https://www.neowin.net/news/report-microsoft-quietly-kills-official-way-to-activate-windows-1110-without-internet/)
