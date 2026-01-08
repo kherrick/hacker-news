@@ -6,8 +6,10 @@
 
 * [2026-01-08, 19:09:23](https://news.ycombinator.com/item?id=46545077) - [Google AI Studio is now sponsoring Tailwind CSS](https://twitter.com/OfficialLoganK/status/2009339263251566902)
 * [2026-01-08, 19:07:22](https://news.ycombinator.com/item?id=46545056) - [Claude keeps nagging about \"Help improve Claude\" inspite of previous decline](https://news.ycombinator.com/item?id=46545056)
+* [2026-01-08, 19:00:28](https://news.ycombinator.com/item?id=46544981) - [The Unreasonable Effectiveness of the Fourier Transform](https://joshuawise.com/resources/ofdm/)
 * [2026-01-08, 18:59:22](https://news.ycombinator.com/item?id=46544969) - [Ask HN: Is it time for HN to implement a form of captcha?](https://news.ycombinator.com/item?id=46544969)
 * [2026-01-08, 18:29:47](https://news.ycombinator.com/item?id=46544610) - [Fixing a Buffer Overflow in Unix v4 Like It's 1973](https://sigma-star.at/blog/2025/12/unix-v4-buffer-overflow/)
+* [2026-01-08, 18:24:17](https://news.ycombinator.com/item?id=46544524) - [Show HN: macOS menu bar app to track Claude usage in real time](https://github.com/richhickson/claudecodeusage)
 * [2026-01-08, 18:19:09](https://news.ycombinator.com/item?id=46544454) - [IBM AI ('Bob') Downloads and Executes Malware](https://www.promptarmor.com/resources/ibm-ai-(-bob-)-downloads-and-executes-malware)
 * [2026-01-08, 18:07:23](https://news.ycombinator.com/item?id=46544306) - [Experts Warn U.S. in Early Stages of Genocide Against Trans Americans](https://www.lemkininstitute.com/single-post/experts-warn-u-s-in-early-stages-of-genocide-against-trans-americans)
 * [2026-01-08, 18:05:02](https://news.ycombinator.com/item?id=46544276) - [He was called a 'terrorist sympathizer.' Now his AI company is valued at $3B](https://sfstandard.com/2026/01/07/called-terrorist-sympathizer-now-ai-company-valued-3b/)
