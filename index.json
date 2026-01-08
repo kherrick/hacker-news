@@ -11,22 +11,42 @@
   ],
   [
     [
-      "2026-01-08, 20:44:08",
-      "https://news.ycombinator.com/item?id=46546188"
+      "2026-01-08, 20:54:30",
+      "https://news.ycombinator.com/item?id=46546322"
     ],
     [
-      "Texas First State to End American Bar Association oversight of law schools",
-      "https://www.keranews.org/news/2026-01-06/texas-supreme-court-ends-american-bar-association-law-school-accreditation"
+      "Support for the TSO memory model on Arm CPUs",
+      "https://lwn.net/Articles/970907/"
     ]
   ],
   [
     [
-      "2026-01-08, 20:42:52",
-      "https://news.ycombinator.com/item?id=46546177"
+      "2026-01-08, 20:50:57",
+      "https://news.ycombinator.com/item?id=46546270"
     ],
     [
-      "Steve Jobs was \"a truly rotten person\" (2018)",
-      "https://finance.yahoo.com/news/memoir-steve-jobs-apos-daughter-133000491.html"
+      "Texas court blocks Samsung from tracking TV viewing, then vacates order",
+      "https://www.bleepingcomputer.com/news/security/texas-court-blocks-samsung-from-tracking-tv-viewing-then-vacates-order/"
+    ]
+  ],
+  [
+    [
+      "2026-01-08, 20:37:07",
+      "https://news.ycombinator.com/item?id=46546113"
+    ],
+    [
+      "Sopro TTS: A 169M model with zero-shot voice cloning that runs on the CPU",
+      "https://github.com/samuel-vitorino/sopro"
+    ]
+  ],
+  [
+    [
+      "2026-01-08, 19:54:57",
+      "https://news.ycombinator.com/item?id=46545628"
+    ],
+    [
+      "Show HN: We built a permissions layer for Notion",
+      "https://notionportals.com/"
     ]
   ],
   [
@@ -57,16 +77,6 @@
     [
       "Google AI Studio is now sponsoring Tailwind CSS",
       "https://twitter.com/OfficialLoganK/status/2009339263251566902"
-    ]
-  ],
-  [
-    [
-      "2026-01-08, 19:07:22",
-      "https://news.ycombinator.com/item?id=46545056"
-    ],
-    [
-      "Claude keeps nagging about \"Help improve Claude\" inspite of previous decline",
-      "https://news.ycombinator.com/item?id=46545056"
     ]
   ],
   [
@@ -107,16 +117,6 @@
     [
       "IBM AI ('Bob') Downloads and Executes Malware",
       "https://www.promptarmor.com/resources/ibm-ai-(-bob-)-downloads-and-executes-malware"
-    ]
-  ],
-  [
-    [
-      "2026-01-08, 17:50:15",
-      "https://news.ycombinator.com/item?id=46544072"
-    ],
-    [
-      "Supernova Remnant Video from NASA's Chandra Is Decades in Making",
-      "https://www.nasa.gov/missions/chandra/supernova-remnant-video-from-nasas-chandra-is-decades-in-making/"
     ]
   ],
   [
@@ -241,6 +241,16 @@
   ],
   [
     [
+      "2026-01-07, 05:10:27",
+      "https://news.ycombinator.com/item?id=46522841"
+    ],
+    [
+      "PgX – Debug Postgres performance in the context of your application code",
+      "https://docs.base14.io/blog/introducing-pgx/"
+    ]
+  ],
+  [
+    [
       "2026-01-05, 18:02:53",
       "https://news.ycombinator.com/item?id=46502269"
     ],
@@ -267,16 +277,6 @@
     [
       "The Napoleon Technique: Postponing things to increase productivity",
       "https://effectiviology.com/napoleon/"
-    ]
-  ],
-  [
-    [
-      "2026-01-04, 19:26:26",
-      "https://news.ycombinator.com/item?id=46491264"
-    ],
-    [
-      "Signals vs. Query-Based Compilers",
-      "https://marvinh.dev/blog/signals-vs-query-based-compilers/"
     ]
   ],
   [
