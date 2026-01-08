@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-01-08](index.md)
 
+* [2026-01-08, 13:21:59](https://news.ycombinator.com/item?id=46540660) - [Show HN: DeepDream for Video with Temporal Consistency](https://github.com/jeremicna/deepdream-video-pytorch)
 * [2026-01-08, 13:11:18](https://news.ycombinator.com/item?id=46540559) - [How Did TVs Get So Cheap?](https://www.construction-physics.com/p/how-did-tvs-get-so-cheap)
+* [2026-01-08, 13:02:05](https://news.ycombinator.com/item?id=46540498) - [The Jeff Dean Facts](https://github.com/LRitzdorf/TheJeffDeanFacts)
 * [2026-01-08, 12:00:35](https://news.ycombinator.com/item?id=46540078) - [Mothers (YC X26) Is Hiring](https://jobs.ashbyhq.com/9-mothers)
 * [2026-01-08, 06:46:26](https://news.ycombinator.com/item?id=46538001) - [A closer look at a BGP anomaly in Venezuela](https://blog.cloudflare.com/bgp-route-leak-venezuela/)
 * [2026-01-08, 06:43:07](https://news.ycombinator.com/item?id=46537983) - [AI Misses Nearly One-Third of Breast Cancers, Study Finds](https://www.emjreviews.com/radiology/news/ai-misses-nearly-one-third-of-breast-cancers-study-finds/)
