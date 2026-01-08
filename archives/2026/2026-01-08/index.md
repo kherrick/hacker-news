@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-01-08](index.md)
 
+* [2026-01-08, 21:17:26](https://news.ycombinator.com/item?id=46546614) - [Richard D. James interviews ex Korg engineer Tatsuya Takahashi (2017)](https://web.archive.org/web/20180719052026/http://item.warp.net/interview/aphex-twin-speaks-to-tatsuya-takahashi/)
 * [2026-01-08, 21:02:19](https://news.ycombinator.com/item?id=46546419) - [SQL Studio](https://sql.studio/)
 * [2026-01-08, 21:01:36](https://news.ycombinator.com/item?id=46546413) - [Mux (YC W16) is hiring a platform engineer that cares about (internal) DX](https://www.mux.com/jobs)
 * [2026-01-08, 20:54:30](https://news.ycombinator.com/item?id=46546322) - [Support for the TSO memory model on Arm CPUs](https://lwn.net/Articles/970907/)
