@@ -4,7 +4,11 @@
 
 ### [Archives](../../index.md) for [2026-01-08](index.md)
 
+* [2026-01-08, 19:07:22](https://news.ycombinator.com/item?id=46545056) - [Claude keeps nagging about \"Help improve Claude\" inspite of previous decline](https://news.ycombinator.com/item?id=46545056)
+* [2026-01-08, 18:59:22](https://news.ycombinator.com/item?id=46544969) - [Ask HN: Is it time for HN to implement a form of captcha?](https://news.ycombinator.com/item?id=46544969)
+* [2026-01-08, 18:29:47](https://news.ycombinator.com/item?id=46544610) - [Fixing a Buffer Overflow in Unix v4 Like It's 1973](https://sigma-star.at/blog/2025/12/unix-v4-buffer-overflow/)
 * [2026-01-08, 18:19:09](https://news.ycombinator.com/item?id=46544454) - [IBM AI ('Bob') Downloads and Executes Malware](https://www.promptarmor.com/resources/ibm-ai-(-bob-)-downloads-and-executes-malware)
+* [2026-01-08, 18:07:23](https://news.ycombinator.com/item?id=46544306) - [Experts Warn U.S. in Early Stages of Genocide Against Trans Americans](https://www.lemkininstitute.com/single-post/experts-warn-u-s-in-early-stages-of-genocide-against-trans-americans)
 * [2026-01-08, 18:05:02](https://news.ycombinator.com/item?id=46544276) - [He was called a 'terrorist sympathizer.' Now his AI company is valued at $3B](https://sfstandard.com/2026/01/07/called-terrorist-sympathizer-now-ai-company-valued-3b/)
 * [2026-01-08, 17:50:15](https://news.ycombinator.com/item?id=46544072) - [Supernova Remnant Video from NASA's Chandra Is Decades in Making](https://www.nasa.gov/missions/chandra/supernova-remnant-video-from-nasas-chandra-is-decades-in-making/)
 * [2026-01-08, 17:45:54](https://news.ycombinator.com/item?id=46544016) - [Nvidia Kicks Off the Next Generation of AI with Rubin](https://nvidianews.nvidia.com/news/rubin-platform-ai-supercomputer)
