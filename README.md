@@ -1,11 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-01-08, 23:00:45](https://news.ycombinator.com/item?id=46547740) - [Embassy: Modern embedded framework, using Rust and async](https://github.com/embassy-rs/embassy)
+* [2026-01-08, 22:20:34](https://news.ycombinator.com/item?id=46547303) - [Iran Protest Map](https://pouyaii.github.io/Iran/)
 * [2026-01-08, 21:17:26](https://news.ycombinator.com/item?id=46546614) - [Richard D. James aka Aphex Twin speaks to Tatsuya Takahashi](https://web.archive.org/web/20180719052026/http://item.warp.net/interview/aphex-twin-speaks-to-tatsuya-takahashi/)
 * [2026-01-08, 21:02:19](https://news.ycombinator.com/item?id=46546419) - [SQL Studio](https://sql.studio/)
 * [2026-01-08, 21:01:36](https://news.ycombinator.com/item?id=46546413) - [Mux (YC W16) is hiring a platform engineer that cares about (internal) DX](https://www.mux.com/jobs)
 * [2026-01-08, 20:56:32](https://news.ycombinator.com/item?id=46546349) - [Show HN: A geofence-based social network app 6 years in development](https://www.localvideoapp.com)
 * [2026-01-08, 20:54:30](https://news.ycombinator.com/item?id=46546322) - [Support for the TSO memory model on Arm CPUs (2024)](https://lwn.net/Articles/970907/)
-* [2026-01-08, 20:50:57](https://news.ycombinator.com/item?id=46546270) - [Texas court blocks Samsung from tracking TV viewing, then vacates order](https://www.bleepingcomputer.com/news/security/texas-court-blocks-samsung-from-tracking-tv-viewing-then-vacates-order/)
 * [2026-01-08, 20:37:07](https://news.ycombinator.com/item?id=46546113) - [Sopro TTS: A 169M model with zero-shot voice cloning that runs on the CPU](https://github.com/samuel-vitorino/sopro)
 * [2026-01-08, 19:54:26](https://news.ycombinator.com/item?id=46545620) - [How to Code Claude Code in 200 Lines of Code](https://www.mihaileric.com/The-Emperor-Has-No-Clothes/)
 * [2026-01-08, 19:51:47](https://news.ycombinator.com/item?id=46545587) - [Task-free intelligence testing of LLMs](https://www.marble.onl/posts/tapping/index.html)
@@ -27,7 +28,6 @@
 * [2026-01-07, 05:10:27](https://news.ycombinator.com/item?id=46522841) - [PgX – Debug Postgres performance in the context of your application code](https://docs.base14.io/blog/introducing-pgx/)
 * [2026-01-05, 18:02:53](https://news.ycombinator.com/item?id=46502269) - [I used Lego to design a farm for people who are blind – like me](https://www.bbc.co.uk/news/articles/c4g4zlyqnr0o)
 * [2026-01-05, 04:25:34](https://news.ycombinator.com/item?id=46495319) - [Intellectual Junkyards](https://www.forester-notes.org/QHXS/index.xml)
-* [2026-01-05, 00:07:44](https://news.ycombinator.com/item?id=46493785) - [The Napoleon Technique: Postponing things to increase productivity](https://effectiviology.com/napoleon/)
 * [2026-01-02, 19:24:10](https://news.ycombinator.com/item?id=46468338) - [Lights and Shadows (2020)](https://ciechanow.ski/lights-and-shadows/)
 * [2026-01-01, 13:58:45](https://news.ycombinator.com/item?id=46454160) - [Making Magic Leap past Nvidia's secure bootchain and breaking Tesla Autopilots](https://fahrplan.events.ccc.de/congress/2025/fahrplan/event/making-the-magic-leap-past-nvidia-s-secure-bootchain-and-breaking-some-tesla-autopilots-along-the-way)
 
