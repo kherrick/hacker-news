@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-01-08](index.md)
 
+* [2026-01-08, 19:09:23](https://news.ycombinator.com/item?id=46545077) - [Google AI Studio is now sponsoring Tailwind CSS](https://twitter.com/OfficialLoganK/status/2009339263251566902)
 * [2026-01-08, 19:07:22](https://news.ycombinator.com/item?id=46545056) - [Claude keeps nagging about \"Help improve Claude\" inspite of previous decline](https://news.ycombinator.com/item?id=46545056)
 * [2026-01-08, 18:59:22](https://news.ycombinator.com/item?id=46544969) - [Ask HN: Is it time for HN to implement a form of captcha?](https://news.ycombinator.com/item?id=46544969)
 * [2026-01-08, 18:29:47](https://news.ycombinator.com/item?id=46544610) - [Fixing a Buffer Overflow in Unix v4 Like It's 1973](https://sigma-star.at/blog/2025/12/unix-v4-buffer-overflow/)
@@ -39,6 +40,7 @@
 * [2026-01-08, 05:20:05](https://news.ycombinator.com/item?id=46537489) - [Project Patchouli: Open-source electromagnetic drawing tablet hardware](https://patchouli.readthedocs.io/en/latest/)
 * [2026-01-08, 05:15:41](https://news.ycombinator.com/item?id=46537459) - [Show HN: Lean4 proof that SSOT requires definition-time hooks and introspection](https://zenodo.org/records/18177320)
 * [2026-01-08, 04:46:56](https://news.ycombinator.com/item?id=46537295) - [Why we're taking legal action against SerpApi's unlawful scraping](https://blog.google/innovation-and-ai/technology/safety-security/serpapi-lawsuit/)
+* [2026-01-08, 04:39:55](https://news.ycombinator.com/item?id=46537253) - [Ushikuvirus: Newly discovered virus may offer clues to the origin of eukaryotes](https://www.tus.ac.jp/en/mediarelations/archive/20251219_9539.html)
 * [2026-01-08, 04:10:34](https://news.ycombinator.com/item?id=46537095) - [go.sum Is Not a Lockfile](https://words.filippo.io/gosum/)
 * [2026-01-08, 03:36:32](https://news.ycombinator.com/item?id=46536897) - [Intricuit: A touchscreen add-on for Mac laptops](https://intricuit.com)
 * [2026-01-08, 03:31:12](https://news.ycombinator.com/item?id=46536866) - [Open Infrastructure Map](https://openinframap.org)
