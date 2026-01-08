@@ -61,16 +61,6 @@
   ],
   [
     [
-      "2026-01-08, 03:29:11",
-      "https://news.ycombinator.com/item?id=46536848"
-    ],
-    [
-      "Chase to become new issuer of Apple Card",
-      "https://www.jpmorganchase.com/ir/news/2026/chase-to-become-new-issuer-of-apple-card"
-    ]
-  ],
-  [
-    [
       "2026-01-08, 02:18:09",
       "https://news.ycombinator.com/item?id=46536340"
     ],
@@ -241,6 +231,16 @@
   ],
   [
     [
+      "2026-01-07, 12:29:11",
+      "https://news.ycombinator.com/item?id=46525640"
+    ],
+    [
+      "“Stop Designing Languages. Write Libraries Instead” (2016)",
+      "https://lbstanza.org/purpose_of_programming_languages.html"
+    ]
+  ],
+  [
+    [
       "2026-01-07, 08:18:09",
       "https://news.ycombinator.com/item?id=46523887"
     ],
@@ -257,16 +257,6 @@
     [
       "Reading Without Limits or Expectations",
       "https://www.carolinecrampton.com/reading-without-limits-or-expectations/"
-    ]
-  ],
-  [
-    [
-      "2026-01-05, 14:56:29",
-      "https://news.ycombinator.com/item?id=46499469"
-    ],
-    [
-      "Solo ASIC tapeout on a budget: detailed write up",
-      "https://old.reddit.com/r/chipdesign/comments/1q4kvxt/solo_asic_tapeout_on_a_budget_detailed_write_up/"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "How dependabot works",
       "https://nesbitt.io/2026/01/02/how-dependabot-actually-works.html"
+    ]
+  ],
+  [
+    [
+      "2026-01-02, 12:51:55",
+      "https://news.ycombinator.com/item?id=46464270"
+    ],
+    [
+      "Lessons from Hash Table Merging",
+      "https://gist.github.com/attractivechaos/d2efc77cc1db56bbd5fc597987e73338"
     ]
   ]
 ]
