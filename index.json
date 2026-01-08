@@ -1,12 +1,52 @@
 [
   [
     [
+      "2026-01-08, 19:07:22",
+      "https://news.ycombinator.com/item?id=46545056"
+    ],
+    [
+      "Claude keeps nagging about \"Help improve Claude\" inspite of previous decline",
+      "https://news.ycombinator.com/item?id=46545056"
+    ]
+  ],
+  [
+    [
+      "2026-01-08, 18:59:22",
+      "https://news.ycombinator.com/item?id=46544969"
+    ],
+    [
+      "Ask HN: Is it time for HN to implement a form of captcha?",
+      "https://news.ycombinator.com/item?id=46544969"
+    ]
+  ],
+  [
+    [
+      "2026-01-08, 18:29:47",
+      "https://news.ycombinator.com/item?id=46544610"
+    ],
+    [
+      "Fixing a Buffer Overflow in Unix v4 Like It's 1973",
+      "https://sigma-star.at/blog/2025/12/unix-v4-buffer-overflow/"
+    ]
+  ],
+  [
+    [
       "2026-01-08, 18:19:09",
       "https://news.ycombinator.com/item?id=46544454"
     ],
     [
       "IBM AI ('Bob') Downloads and Executes Malware",
       "https://www.promptarmor.com/resources/ibm-ai-(-bob-)-downloads-and-executes-malware"
+    ]
+  ],
+  [
+    [
+      "2026-01-08, 18:07:23",
+      "https://news.ycombinator.com/item?id=46544306"
+    ],
+    [
+      "Experts Warn U.S. in Early Stages of Genocide Against Trans Americans",
+      "https://www.lemkininstitute.com/single-post/experts-warn-u-s-in-early-stages-of-genocide-against-trans-americans"
     ]
   ],
   [
@@ -27,26 +67,6 @@
     [
       "Nvidia Kicks Off the Next Generation of AI with Rubin",
       "https://nvidianews.nvidia.com/news/rubin-platform-ai-supercomputer"
-    ]
-  ],
-  [
-    [
-      "2026-01-08, 17:40:02",
-      "https://news.ycombinator.com/item?id=46543933"
-    ],
-    [
-      "Chinese AI models have lagged the US frontier by 7 months on average since 2023",
-      "https://epoch.ai/data-insights/us-vs-china-eci"
-    ]
-  ],
-  [
-    [
-      "2026-01-08, 17:31:54",
-      "https://news.ycombinator.com/item?id=46543807"
-    ],
-    [
-      "China starts UHV power line: The new 700 km UHV line will transmit 8M kW",
-      "https://switchgear-magazine.com/tm-news/business/china-starts-uhv-power-line/"
     ]
   ],
   [
@@ -191,32 +211,22 @@
   ],
   [
     [
-      "2026-01-08, 00:51:20",
-      "https://news.ycombinator.com/item?id=46535540"
-    ],
-    [
-      "Musashi: Motorola 680x0 emulator written in C",
-      "https://github.com/kstenerud/Musashi"
-    ]
-  ],
-  [
-    [
-      "2026-01-08, 00:48:17",
-      "https://news.ycombinator.com/item?id=46535515"
-    ],
-    [
-      "The virtual AmigaOS runtime (a.k.a. Wine for Amiga:)",
-      "https://github.com/cnvogelg/amitools/blob/main/docs/vamos.md"
-    ]
-  ],
-  [
-    [
       "2026-01-07, 20:16:50",
       "https://news.ycombinator.com/item?id=46531925"
     ],
     [
       "Tailscale state file encryption no longer enabled by default",
       "https://tailscale.com/changelog"
+    ]
+  ],
+  [
+    [
+      "2026-01-07, 15:46:07",
+      "https://news.ycombinator.com/item?id=46527706"
+    ],
+    [
+      "Dell admits consumers don't care about AI PCs",
+      "https://www.pcgamer.com/hardware/dells-ces-2026-chat-was-the-most-pleasingly-un-ai-briefing-ive-had-in-maybe-5-years/"
     ]
   ],
   [
@@ -261,12 +271,12 @@
   ],
   [
     [
-      "2026-01-04, 19:22:23",
-      "https://news.ycombinator.com/item?id=46491219"
+      "2026-01-04, 04:10:06",
+      "https://news.ycombinator.com/item?id=46484808"
     ],
     [
-      "GLSL Web CRT Shader",
-      "https://blog.gingerbeardman.com/2026/01/04/glsl-web-crt-shader/"
+      "Show HN: I built a tool to create AI agents that live in iMessage",
+      "https://tryflux.ai/"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Lights and Shadows (2020)",
       "https://ciechanow.ski/lights-and-shadows/"
-    ]
-  ],
-  [
-    [
-      "2026-01-02, 12:51:55",
-      "https://news.ycombinator.com/item?id=46464270"
-    ],
-    [
-      "Lessons from Hash Table Merging",
-      "https://gist.github.com/attractivechaos/d2efc77cc1db56bbd5fc597987e73338"
     ]
   ]
 ]
