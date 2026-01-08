@@ -6,6 +6,7 @@
 
 * [2026-01-08, 05:20:05](https://news.ycombinator.com/item?id=46537489) - [Project Patchouli: Open-source electromagnetic drawing tablet hardware](https://patchouli.readthedocs.io/en/latest/)
 * [2026-01-08, 04:10:34](https://news.ycombinator.com/item?id=46537095) - [go.sum Is Not a Lockfile](https://words.filippo.io/gosum/)
+* [2026-01-08, 03:36:32](https://news.ycombinator.com/item?id=46536897) - [Intricuit: A touchscreen add-on for Mac laptops](https://intricuit.com)
 * [2026-01-08, 03:31:12](https://news.ycombinator.com/item?id=46536866) - [Open Infrastructure Map](https://openinframap.org)
 * [2026-01-08, 03:30:39](https://news.ycombinator.com/item?id=46536862) - [Show HN: IceRaidsNearMe – Real-time, crowdsourced map of immigration enforcement](https://iceraidsnearme.com/)
 * [2026-01-08, 03:29:11](https://news.ycombinator.com/item?id=46536848) - [Chase to become new issuer of Apple Card](https://www.jpmorganchase.com/ir/news/2026/chase-to-become-new-issuer-of-apple-card)
