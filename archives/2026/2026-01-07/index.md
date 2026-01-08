@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-01-07](index.md)
 
+* [2026-01-07, 23:31:05](https://news.ycombinator.com/item?id=46534777) - [Play Aardwolf MUD](https://www.aardwolf.com/)
+* [2026-01-07, 23:11:01](https://news.ycombinator.com/item?id=46534581) - [ICE Is Going on a Surveillance Shopping Spree](https://www.eff.org/deeplinks/2026/01/ice-going-surveillance-shopping-spree)
 * [2026-01-07, 21:40:41](https://news.ycombinator.com/item?id=46533343) - [2026 Predictions Scorecard](https://rodneybrooks.com/predictions-scorecard-2026-january-01/)
 * [2026-01-07, 21:38:56](https://news.ycombinator.com/item?id=46533315) - [My first paper: A practical implementation of Rubiks cube based passkeys](https://ieeexplore.ieee.org/document/11280260)
 * [2026-01-07, 21:16:47](https://news.ycombinator.com/item?id=46532961) - [So you wanna de-bog yourself (2024)](https://www.experimental-history.com/p/so-you-wanna-de-bog-yourself)
@@ -58,6 +60,7 @@
 * [2026-01-07, 10:05:29](https://news.ycombinator.com/item?id=46524576) - [The mineral riches hiding under Greenland's ice](https://www.bbc.com/future/article/20250121-the-enormous-challenge-of-mining-greenland)
 * [2026-01-07, 09:59:04](https://news.ycombinator.com/item?id=46524527) - [Htmx: High Power Tools for HTML](https://github.com/bigskysoftware/htmx)
 * [2026-01-07, 08:42:57](https://news.ycombinator.com/item?id=46524036) - [Show HN: Free and local browser tool for designing gear models for 3D printing](https://gears.dmtrkovalenko.dev)
+* [2026-01-07, 08:18:09](https://news.ycombinator.com/item?id=46523887) - [The Q, K, V Matrices](https://arpitbhayani.me/blogs/qkv-matrices/)
 * [2026-01-07, 05:44:54](https://news.ycombinator.com/item?id=46523029) - [Bill to Eliminate H-1B Visa Program Introduced in Congress](https://www.newsweek.com/eliminate-h1b-visa-program-congress-bill-marjorie-taylor-greene-11312655)
 * [2026-01-07, 04:48:50](https://news.ycombinator.com/item?id=46522686) - [A glimpse into V8 development for RISC-V](https://riseproject.dev/2025/12/09/a-glimpse-into-v8-development-for-risc-v/)
 * [2026-01-07, 04:40:48](https://news.ycombinator.com/item?id=46522632) - [LMArena is a cancer on AI](https://surgehq.ai/blog/lmarena-is-a-plague-on-ai)

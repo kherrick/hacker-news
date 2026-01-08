@@ -48,6 +48,7 @@
 * [2026-01-05, 15:34:14](https://news.ycombinator.com/item?id=46499976) - [RevisionDojo, a YC startup, is running astroturfing campaigns targeting kids](https://news.ycombinator.com/item?id=46499976)
 * [2026-01-05, 15:13:59](https://news.ycombinator.com/item?id=46499694) - [Show HN: A simulator for engineers transitioning from IC to management](https://apmcommunication.com/scenario/backchannel-vp)
 * [2026-01-05, 15:10:47](https://news.ycombinator.com/item?id=46499646) - [Show HN: DoNotNotify – log and intelligently block notifications on Android](https://donotnotify.com/)
+* [2026-01-05, 14:56:29](https://news.ycombinator.com/item?id=46499469) - [Solo ASIC tapeout on a budget: detailed write up](https://old.reddit.com/r/chipdesign/comments/1q4kvxt/solo_asic_tapeout_on_a_budget_detailed_write_up/)
 * [2026-01-05, 14:53:23](https://news.ycombinator.com/item?id=46499425) - [Dealing with abandonware (2024)](https://blog.hris.to/./dealing-with-abandonware.html)
 * [2026-01-05, 13:58:07](https://news.ycombinator.com/item?id=46498786) - [Show HN: OSS sustain guard – Sustainability signals for OSS dependencies](https://onukura.github.io/oss-sustain-guard/)
 * [2026-01-05, 13:57:08](https://news.ycombinator.com/item?id=46498775) - [GOG Patrons- Join gamers keeping classics alive](https://www.gog.com/en/patrons)
