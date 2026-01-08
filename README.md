@@ -11,6 +11,7 @@
 * [2026-01-08, 16:31:29](https://news.ycombinator.com/item?id=46542982) - [Dynamic Large Concept Models: Latent Reasoning in an Adaptive Semantic Space](https://arxiv.org/abs/2512.24617)
 * [2026-01-08, 16:16:43](https://news.ycombinator.com/item?id=46542761) - [Digital Red Queen: Adversarial Program Evolution in Core War with LLMs](https://sakana.ai/drq/)
 * [2026-01-08, 16:11:48](https://news.ycombinator.com/item?id=46542683) - [Iran Goes Into IPv6 Blackout](https://radar.cloudflare.com/routing/ir)
+* [2026-01-08, 15:20:52](https://news.ycombinator.com/item?id=46542046) - [Our Changing Planet, as Seen from Space](https://e360.yale.edu/digest/nasa-satellite-images-2025)
 * [2026-01-08, 15:18:39](https://news.ycombinator.com/item?id=46542015) - [Japanese electronics store pleads for old PCs amid ongoing hardware shortage](https://www.tomshardware.com/desktops/pc-building/major-japanese-electronics-store-begs-customers-for-their-old-pcs-as-hardware-drought-continues-we-pretty-much-buy-any-pc-pleads-the-akihabara-outlet)
 * [2026-01-08, 15:07:57](https://news.ycombinator.com/item?id=46541892) - [Bose is open-sourcing its old smart speakers instead of bricking them](https://www.theverge.com/news/858501/bose-soundtouch-smart-speakers-open-source)
 * [2026-01-08, 13:21:59](https://news.ycombinator.com/item?id=46540660) - [Show HN: DeepDream for Video with Temporal Consistency](https://github.com/jeremicna/deepdream-video-pytorch)
@@ -29,7 +30,6 @@
 * [2026-01-04, 04:10:06](https://news.ycombinator.com/item?id=46484808) - [Show HN: I built a tool to create AI agents that live in iMessage](https://tryflux.ai/)
 * [2026-01-03, 18:39:50](https://news.ycombinator.com/item?id=46480016) - [The Rise of Computer Games, Part II: Digitizing Nerddom – Creatures of Thought](https://technicshistory.com/2026/01/02/the-rise-of-computer-games-part-ii-digitizing-nerddom/)
 * [2026-01-02, 19:24:10](https://news.ycombinator.com/item?id=46468338) - [Lights and Shadows (2020)](https://ciechanow.ski/lights-and-shadows/)
-* [2026-01-02, 12:51:55](https://news.ycombinator.com/item?id=46464270) - [Lessons from Hash Table Merging](https://gist.github.com/attractivechaos/d2efc77cc1db56bbd5fc597987e73338)
 
 ## [Archives](archives/index.md)
 
