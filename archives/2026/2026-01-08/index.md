@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-01-08](index.md)
 
+* [2026-01-08, 13:26:07](https://news.ycombinator.com/item?id=46540698) - [Gmail is entering the Gemini Era](https://blog.google/products-and-platforms/products/gmail/gmail-is-entering-the-gemini-era/)
 * [2026-01-08, 13:21:59](https://news.ycombinator.com/item?id=46540660) - [Show HN: DeepDream for Video with Temporal Consistency](https://github.com/jeremicna/deepdream-video-pytorch)
 * [2026-01-08, 13:11:18](https://news.ycombinator.com/item?id=46540559) - [How Did TVs Get So Cheap?](https://www.construction-physics.com/p/how-did-tvs-get-so-cheap)
 * [2026-01-08, 13:02:05](https://news.ycombinator.com/item?id=46540498) - [The Jeff Dean Facts](https://github.com/LRitzdorf/TheJeffDeanFacts)

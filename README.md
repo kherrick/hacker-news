@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-01-08, 13:26:07](https://news.ycombinator.com/item?id=46540698) - [Gmail is entering the Gemini Era](https://blog.google/products-and-platforms/products/gmail/gmail-is-entering-the-gemini-era/)
 * [2026-01-08, 13:21:59](https://news.ycombinator.com/item?id=46540660) - [Show HN: DeepDream for Video with Temporal Consistency](https://github.com/jeremicna/deepdream-video-pytorch)
 * [2026-01-08, 13:11:18](https://news.ycombinator.com/item?id=46540559) - [How Did TVs Get So Cheap?](https://www.construction-physics.com/p/how-did-tvs-get-so-cheap)
 * [2026-01-08, 13:02:05](https://news.ycombinator.com/item?id=46540498) - [The Jeff Dean Facts](https://github.com/LRitzdorf/TheJeffDeanFacts)
@@ -14,13 +15,11 @@
 * [2026-01-07, 23:31:05](https://news.ycombinator.com/item?id=46534777) - [Play Aardwolf MUD](https://www.aardwolf.com/)
 * [2026-01-07, 20:25:51](https://news.ycombinator.com/item?id=46532075) - [Claude Code CLI was broken](https://github.com/anthropics/claude-code/issues/16673)
 * [2026-01-07, 20:16:50](https://news.ycombinator.com/item?id=46531925) - [Tailscale state file encryption no longer enabled by default](https://tailscale.com/changelog)
-* [2026-01-07, 19:49:54](https://news.ycombinator.com/item?id=46531565) - [Notion AI: Unpatched data exfiltration](https://www.promptarmor.com/resources/notion-ai-unpatched-data-exfiltration)
 * [2026-01-07, 19:29:39](https://news.ycombinator.com/item?id=46531280) - [ChatGPT Health](https://openai.com/index/introducing-chatgpt-health/)
 * [2026-01-07, 19:13:19](https://news.ycombinator.com/item?id=46531068) - [US will ban Wall Street investors from buying single-family homes](https://www.reuters.com/world/us/us-will-ban-large-institutional-investors-buying-single-family-homes-trump-says-2026-01-07/)
 * [2026-01-07, 18:31:19](https://news.ycombinator.com/item?id=46530448) - [NPM to implement staged publishing after turbulent shift off classic tokens](https://socket.dev/blog/npm-to-implement-staged-publishing)
 * [2026-01-07, 17:22:09](https://news.ycombinator.com/item?id=46529237) - [Eat Real Food](https://realfood.gov)
 * [2026-01-07, 16:29:41](https://news.ycombinator.com/item?id=46528389) - [How Google got its groove back and edged ahead of OpenAI](https://www.wsj.com/tech/ai/google-ai-openai-gemini-chatgpt-b766e160)
-* [2026-01-07, 16:02:19](https://news.ycombinator.com/item?id=46527950) - [Creators of Tailwind laid off 75% of their engineering team](https://github.com/tailwindlabs/tailwindcss.com/pull/2388)
 * [2026-01-07, 15:03:41](https://news.ycombinator.com/item?id=46527161) - [Shipmap.org](https://www.shipmap.org/)
 * [2026-01-07, 14:46:31](https://news.ycombinator.com/item?id=46526933) - [LaTeX Coffee Stains (2021) [pdf]](https://ctan.math.illinois.edu/graphics/pgf/contrib/coffeestains/coffeestains-en.pdf)
 * [2026-01-07, 08:18:09](https://news.ycombinator.com/item?id=46523887) - [The Q, K, V Matrices](https://arpitbhayani.me/blogs/qkv-matrices/)
@@ -28,6 +27,7 @@
 * [2026-01-05, 00:07:44](https://news.ycombinator.com/item?id=46493785) - [The Napoleon Technique: Postponing things to increase productivity](https://effectiviology.com/napoleon/)
 * [2026-01-04, 21:23:27](https://news.ycombinator.com/item?id=46492401) - [Anyone have experiences with Audio Induction Loops?](https://en.wikipedia.org/wiki/Audio_induction_loop)
 * [2026-01-04, 19:22:23](https://news.ycombinator.com/item?id=46491219) - [GLSL Web CRT Shader](https://blog.gingerbeardman.com/2026/01/04/glsl-web-crt-shader/)
+* [2026-01-04, 12:11:18](https://news.ycombinator.com/item?id=46487224) - [The price of fame? Mortality risk among famous singers](https://jech.bmj.com/content/early/2025/11/30/jech-2025-224589)
 * [2026-01-02, 19:24:10](https://news.ycombinator.com/item?id=46468338) - [Lights and Shadows](https://ciechanow.ski/lights-and-shadows/)
 * [2026-01-02, 12:51:55](https://news.ycombinator.com/item?id=46464270) - [Lessons from Hash Table Merging](https://gist.github.com/attractivechaos/d2efc77cc1db56bbd5fc597987e73338)
 
