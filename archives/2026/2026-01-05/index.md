@@ -27,6 +27,7 @@
 * [2026-01-05, 18:33:43](https://news.ycombinator.com/item?id=46502709) - [The meek did inherit the Earth, at least among ants](https://www.nytimes.com/2025/12/19/science/ants-exoskeletons-weak.html)
 * [2026-01-05, 18:30:29](https://news.ycombinator.com/item?id=46502665) - [Show HN: WOLS – Open standard for mushroom cultivation tracking](https://github.com/wemush/open-standard)
 * [2026-01-05, 18:29:28](https://news.ycombinator.com/item?id=46502652) - [Utopian Scholastic](https://wol.fm/blog/utopian-scholastic.html)
+* [2026-01-05, 18:02:53](https://news.ycombinator.com/item?id=46502269) - [I used Lego to design a farm for people who are blind – like me](https://www.bbc.co.uk/news/articles/c4g4zlyqnr0o)
 * [2026-01-05, 18:00:32](https://news.ycombinator.com/item?id=46502239) - [Sega co-founder David Rosen dies aged 95](https://www.theguardian.com/games/2026/jan/05/sega-co-founder-david-rosen-dies)
 * [2026-01-05, 17:54:03](https://news.ycombinator.com/item?id=46502148) - [Show HN: Make audio loops online](https://makeloops.online/)
 * [2026-01-05, 17:46:51](https://news.ycombinator.com/item?id=46502051) - [Show HN: Open-Source 8-Ch BCI Board (ESP32 and ADS1299 and OpenBCI GUI)](https://github.com/Cerelog-ESP-EEG/ESP-EEG)
