@@ -7,6 +7,7 @@
 * [2026-01-03, 23:50:24](https://news.ycombinator.com/item?id=46483116) - [Finance Industry Eyes Investment Opportunities in Venezuela](https://www.wsj.com/livecoverage/venezuela-strikes/card/finance-industry-eyes-investment-opportunities-in-venezuela-CmtLevzMTXEvRLkADjbG)
 * [2026-01-03, 23:39:12](https://news.ycombinator.com/item?id=46483023) - [Swift on Android: Full Native App Development Now Possible](https://docs.swifdroid.com/app/)
 * [2026-01-03, 23:24:41](https://news.ycombinator.com/item?id=46482877) - [The suck is why we're here](https://nik.art/the-suck-is-why-were-here/)
+* [2026-01-03, 23:21:26](https://news.ycombinator.com/item?id=46482844) - [Pole of Inaccessibility](https://en.wikipedia.org/wiki/Pole_of_inaccessibility)
 * [2026-01-03, 23:14:29](https://news.ycombinator.com/item?id=46482777) - [China DRAM Maker CXMT Targets $4.2B IPO as It Takes on Samsung, SK Hynix, Micron](https://www.ic-pcb.com/chinas-leading-dram-maker-cxmt-targets-42-billion-ipo-as-it-takes-on-samsung-sk-hynix-and-micron.html)
 * [2026-01-03, 23:10:30](https://news.ycombinator.com/item?id=46482731) - [A comparison of benefits from every-third-day vs. daily low-dose aspirin therapy](https://pubmed.ncbi.nlm.nih.gov/11190906/)
 * [2026-01-03, 23:06:55](https://news.ycombinator.com/item?id=46482685) - [Show HN: Foundertrace – chain of YC startups founded by its employees](https://foundertrace.com/)
