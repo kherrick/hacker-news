@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-01-08](index.md)
 
+* [2026-01-08, 19:54:26](https://news.ycombinator.com/item?id=46545620) - [How to Code Claude Code in 200 Lines of Code](https://www.mihaileric.com/The-Emperor-Has-No-Clothes/)
 * [2026-01-08, 19:09:23](https://news.ycombinator.com/item?id=46545077) - [Google AI Studio is now sponsoring Tailwind CSS](https://twitter.com/OfficialLoganK/status/2009339263251566902)
 * [2026-01-08, 19:07:22](https://news.ycombinator.com/item?id=46545056) - [Claude keeps nagging about \"Help improve Claude\" inspite of previous decline](https://news.ycombinator.com/item?id=46545056)
 * [2026-01-08, 19:00:28](https://news.ycombinator.com/item?id=46544981) - [The Unreasonable Effectiveness of the Fourier Transform](https://joshuawise.com/resources/ofdm/)
