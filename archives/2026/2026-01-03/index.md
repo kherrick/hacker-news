@@ -27,6 +27,7 @@
 * [2026-01-03, 18:53:10](https://news.ycombinator.com/item?id=46480156) - [Microsoft kills official way to activate Windows 11/10 without internet](https://www.neowin.net/news/report-microsoft-quietly-kills-official-way-to-activate-windows-1110-without-internet/#google_vignette)
 * [2026-01-03, 18:27:29](https://news.ycombinator.com/item?id=46479869) - [Bluesky is not the good place](https://www.ms.now/opinion/bluesky-elon-musk-twitter-replacement)
 * [2026-01-03, 18:10:21](https://news.ycombinator.com/item?id=46479673) - [Xr0 verifier, guarantee the safety of C programs at compile time](https://xr0.dev)
+* [2026-01-03, 16:53:29](https://news.ycombinator.com/item?id=46478815) - [Show HN: Open database of link metadata for large-scale analysis](https://github.com/rumca-js/RSS-Link-Database-2025)
 * [2026-01-03, 16:47:38](https://news.ycombinator.com/item?id=46478740) - [Show HN: Underpriced AI – Snap a photo, get instant resale value with AI](https://underpricedai.com)
 * [2026-01-03, 16:41:06](https://news.ycombinator.com/item?id=46478647) - [The C3 Programming Language](https://c3-lang.org)
 * [2026-01-03, 16:21:34](https://news.ycombinator.com/item?id=46478398) - [Cardiovascular disease is a solved problem](https://totalhealthoptimization.com/2025/09/27/cardiovascular-disease-is-a-solved-problem/)

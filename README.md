@@ -14,7 +14,6 @@
 * [2026-01-07, 19:49:54](https://news.ycombinator.com/item?id=46531565) - [Notion AI: Unpatched data exfiltration](https://www.promptarmor.com/resources/notion-ai-unpatched-data-exfiltration)
 * [2026-01-07, 19:29:39](https://news.ycombinator.com/item?id=46531280) - [ChatGPT Health](https://openai.com/index/introducing-chatgpt-health/)
 * [2026-01-07, 19:13:19](https://news.ycombinator.com/item?id=46531068) - [US will ban Wall Street investors from buying single-family homes](https://www.reuters.com/world/us/us-will-ban-large-institutional-investors-buying-single-family-homes-trump-says-2026-01-07/)
-* [2026-01-07, 18:57:18](https://news.ycombinator.com/item?id=46530832) - [Show HN: I visualized the entire history of Citi Bike in the browser](https://bikemap.nyc/)
 * [2026-01-07, 18:31:19](https://news.ycombinator.com/item?id=46530448) - [NPM to implement staged publishing after turbulent shift off classic tokens](https://socket.dev/blog/npm-to-implement-staged-publishing)
 * [2026-01-07, 17:22:09](https://news.ycombinator.com/item?id=46529237) - [Eat Real Food](https://realfood.gov)
 * [2026-01-07, 16:29:41](https://news.ycombinator.com/item?id=46528389) - [How Google got its groove back and edged ahead of OpenAI](https://www.wsj.com/tech/ai/google-ai-openai-gemini-chatgpt-b766e160)
@@ -28,6 +27,7 @@
 * [2026-01-05, 20:50:44](https://news.ycombinator.com/item?id=46504761) - [Reading Without Limits or Expectations](https://www.carolinecrampton.com/reading-without-limits-or-expectations/)
 * [2026-01-05, 00:07:44](https://news.ycombinator.com/item?id=46493785) - [The Napoleon Technique: Postponing Things to Increase Productivity](https://effectiviology.com/napoleon/)
 * [2026-01-04, 19:22:23](https://news.ycombinator.com/item?id=46491219) - [GLSL Web CRT Shader](https://blog.gingerbeardman.com/2026/01/04/glsl-web-crt-shader/)
+* [2026-01-03, 16:53:29](https://news.ycombinator.com/item?id=46478815) - [Show HN: Open database of link metadata for large-scale analysis](https://github.com/rumca-js/RSS-Link-Database-2025)
 * [2026-01-02, 23:44:04](https://news.ycombinator.com/item?id=46470927) - [How dependabot works](https://nesbitt.io/2026/01/02/how-dependabot-actually-works.html)
 * [2026-01-02, 12:51:55](https://news.ycombinator.com/item?id=46464270) - [Lessons from Hash Table Merging](https://gist.github.com/attractivechaos/d2efc77cc1db56bbd5fc597987e73338)
 
