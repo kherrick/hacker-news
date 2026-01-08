@@ -28,6 +28,7 @@
 * [2026-01-02, 19:30:52](https://news.ycombinator.com/item?id=46468414) - [Grok Can't Apologize. So Why Do Headlines Keep Saying It Did?](https://www.readtpa.com/p/grok-cant-apologize-grok-isnt-sentient)
 * [2026-01-02, 19:30:46](https://news.ycombinator.com/item?id=46468411) - [I wrote a batch script to keep my 2011 ThinkPad alive for 24/7 streaming](https://github.com/patrick48001/ThinkPad-Stream-Sentinel-VLC-Video-Source-reset-disable-stream-shutter)
 * [2026-01-02, 19:26:49](https://news.ycombinator.com/item?id=46468377) - [Supplementation with vitamin D3 reduced telomere attrition](https://www.sciencedirect.com/science/article/abs/pii/S0002916525002552)
+* [2026-01-02, 19:24:10](https://news.ycombinator.com/item?id=46468338) - [Lights and Shadows](https://ciechanow.ski/lights-and-shadows/)
 * [2026-01-02, 19:18:36](https://news.ycombinator.com/item?id=46468283) - [4th Edition Unix in the Browser](https://unixv4.dev/)
 * [2026-01-02, 19:13:24](https://news.ycombinator.com/item?id=46468237) - [TinyTinyTPU: 2×2 systolic-array TPU-style matrix-multiply unit deployed on FPGA](https://github.com/Alanma23/tinytinyTPU-co)
 * [2026-01-02, 18:44:27](https://news.ycombinator.com/item?id=46467946) - [The Chicken Game and the Evolution of the DRAM Industry from 2006 to 2014 [pdf]](https://s-space.snu.ac.kr/bitstream/10371/95351/1/01%20Jeho%20Lee.pdf)

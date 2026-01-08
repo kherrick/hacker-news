@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-01-08, 12:00:35](https://news.ycombinator.com/item?id=46540078) - [Mothers (YC X26) Is Hiring](https://jobs.ashbyhq.com/9-mothers)
 * [2026-01-08, 06:46:26](https://news.ycombinator.com/item?id=46538001) - [A closer look at a BGP anomaly in Venezuela](https://blog.cloudflare.com/bgp-route-leak-venezuela/)
-* [2026-01-08, 06:43:07](https://news.ycombinator.com/item?id=46537983) - [AI misses nearly one-third of breast cancers, study finds](https://www.emjreviews.com/radiology/news/ai-misses-nearly-one-third-of-breast-cancers-study-finds/)
 * [2026-01-08, 05:20:05](https://news.ycombinator.com/item?id=46537489) - [Project Patchouli: Open-source electromagnetic drawing tablet hardware](https://patchouli.readthedocs.io/en/latest/)
 * [2026-01-08, 04:10:34](https://news.ycombinator.com/item?id=46537095) - [Go.sum is not a lockfile](https://words.filippo.io/gosum/)
 * [2026-01-08, 03:31:12](https://news.ycombinator.com/item?id=46536866) - [Open Infrastructure Map](https://openinframap.org)
@@ -28,7 +28,7 @@
 * [2026-01-05, 00:07:44](https://news.ycombinator.com/item?id=46493785) - [The Napoleon Technique: Postponing things to increase productivity](https://effectiviology.com/napoleon/)
 * [2026-01-04, 21:23:27](https://news.ycombinator.com/item?id=46492401) - [Anyone have experiences with Audio Induction Loops?](https://en.wikipedia.org/wiki/Audio_induction_loop)
 * [2026-01-04, 19:22:23](https://news.ycombinator.com/item?id=46491219) - [GLSL Web CRT Shader](https://blog.gingerbeardman.com/2026/01/04/glsl-web-crt-shader/)
-* [2026-01-03, 16:53:29](https://news.ycombinator.com/item?id=46478815) - [Show HN: Open database of link metadata for large-scale analysis](https://github.com/rumca-js/RSS-Link-Database-2025)
+* [2026-01-02, 19:24:10](https://news.ycombinator.com/item?id=46468338) - [Lights and Shadows](https://ciechanow.ski/lights-and-shadows/)
 * [2026-01-02, 12:51:55](https://news.ycombinator.com/item?id=46464270) - [Lessons from Hash Table Merging](https://gist.github.com/attractivechaos/d2efc77cc1db56bbd5fc597987e73338)
 
 ## [Archives](archives/index.md)

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-01-08](index.md)
 
+* [2026-01-08, 12:00:35](https://news.ycombinator.com/item?id=46540078) - [Mothers (YC X26) Is Hiring](https://jobs.ashbyhq.com/9-mothers)
 * [2026-01-08, 06:46:26](https://news.ycombinator.com/item?id=46538001) - [A closer look at a BGP anomaly in Venezuela](https://blog.cloudflare.com/bgp-route-leak-venezuela/)
 * [2026-01-08, 06:43:07](https://news.ycombinator.com/item?id=46537983) - [AI Misses Nearly One-Third of Breast Cancers, Study Finds](https://www.emjreviews.com/radiology/news/ai-misses-nearly-one-third-of-breast-cancers-study-finds/)
 * [2026-01-08, 05:37:34](https://news.ycombinator.com/item?id=46537597) - [Covid-19 leaves a lasting mark on the human brain](https://news.griffith.edu.au/2025/12/16/covid-19-leaves-a-lasting-mark-on-the-human-brain/)
