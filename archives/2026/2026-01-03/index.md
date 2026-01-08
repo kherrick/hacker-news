@@ -25,6 +25,7 @@
 * [2026-01-03, 19:14:39](https://news.ycombinator.com/item?id=46480373) - [As deep-sea mining race ramps up, mission will assess whether ecosystems recover](https://www.science.org/content/article/deep-sea-mining-race-ramps-mission-will-assess-whether-ecosystems-recover-afterward)
 * [2026-01-03, 18:56:36](https://news.ycombinator.com/item?id=46480194) - [Reddit Has Become the Internet's Strip Mall](https://pontozero.info/static/reddit-strip-mall/)
 * [2026-01-03, 18:53:10](https://news.ycombinator.com/item?id=46480156) - [Microsoft kills official way to activate Windows 11/10 without internet](https://www.neowin.net/news/report-microsoft-quietly-kills-official-way-to-activate-windows-1110-without-internet/#google_vignette)
+* [2026-01-03, 18:39:50](https://news.ycombinator.com/item?id=46480016) - [The Rise of Computer Games, Part II: Digitizing Nerddom – Creatures of Thought](https://technicshistory.com/2026/01/02/the-rise-of-computer-games-part-ii-digitizing-nerddom/)
 * [2026-01-03, 18:27:29](https://news.ycombinator.com/item?id=46479869) - [Bluesky is not the good place](https://www.ms.now/opinion/bluesky-elon-musk-twitter-replacement)
 * [2026-01-03, 18:10:21](https://news.ycombinator.com/item?id=46479673) - [Xr0 verifier, guarantee the safety of C programs at compile time](https://xr0.dev)
 * [2026-01-03, 16:53:29](https://news.ycombinator.com/item?id=46478815) - [Show HN: Open database of link metadata for large-scale analysis](https://github.com/rumca-js/RSS-Link-Database-2025)
