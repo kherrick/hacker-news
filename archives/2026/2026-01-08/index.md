@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2026-01-08](index.md)
 
 * [2026-01-08, 05:20:05](https://news.ycombinator.com/item?id=46537489) - [Project Patchouli: Open-source electromagnetic drawing tablet hardware](https://patchouli.readthedocs.io/en/latest/)
+* [2026-01-08, 05:15:41](https://news.ycombinator.com/item?id=46537459) - [Show HN: Lean4 proof that SSOT requires definition-time hooks and introspection](https://zenodo.org/records/18177320)
 * [2026-01-08, 04:10:34](https://news.ycombinator.com/item?id=46537095) - [go.sum Is Not a Lockfile](https://words.filippo.io/gosum/)
 * [2026-01-08, 03:36:32](https://news.ycombinator.com/item?id=46536897) - [Intricuit: A touchscreen add-on for Mac laptops](https://intricuit.com)
 * [2026-01-08, 03:31:12](https://news.ycombinator.com/item?id=46536866) - [Open Infrastructure Map](https://openinframap.org)

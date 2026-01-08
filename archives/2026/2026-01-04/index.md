@@ -8,6 +8,7 @@
 * [2026-01-04, 23:40:30](https://news.ycombinator.com/item?id=46493607) - [Two ways to crack a walnut, per Grothendieck (2025)](https://shreevatsa.net/post/grothendieck-approaches/)
 * [2026-01-04, 23:31:31](https://news.ycombinator.com/item?id=46493533) - [Show HN: Quantum Tunnel](https://chuanqisun.github.io/quantum-tunnel/)
 * [2026-01-04, 22:07:39](https://news.ycombinator.com/item?id=46492810) - [Everything You Need to Know About Email Encryption in 2026](https://soatok.blog/2026/01/04/everything-you-need-to-know-about-email-encryption-in-2026/)
+* [2026-01-04, 22:02:47](https://news.ycombinator.com/item?id=46492747) - [Dissecting a C64 Autoboot Program](https://bumbershootsoft.wordpress.com/2026/01/03/dissecting-a-c64-autoboot-program/)
 * [2026-01-04, 21:46:34](https://news.ycombinator.com/item?id=46492617) - [C-Sentinel: System prober that captures \"system fingerprints\" for AI analysis](https://github.com/williamofai/c-sentinel)
 * [2026-01-04, 21:43:26](https://news.ycombinator.com/item?id=46492601) - [Show HN: An LLM-Powered PCB Schematic Checker (Major Update)](https://traceformer.io/)
 * [2026-01-04, 21:01:35](https://news.ycombinator.com/item?id=46492161) - [North Dakota law lists fake critical minerals based on coal lawyers' names](https://bismarcktribune.com/news/local/government-politics/article_515812a0-d29a-4161-91f1-3e53003e2911.html)
