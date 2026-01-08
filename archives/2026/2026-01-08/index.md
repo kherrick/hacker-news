@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-01-08](index.md)
 
+* [2026-01-08, 04:10:34](https://news.ycombinator.com/item?id=46537095) - [go.sum Is Not a Lockfile](https://words.filippo.io/gosum/)
 * [2026-01-08, 03:31:12](https://news.ycombinator.com/item?id=46536866) - [Open Infrastructure Map](https://openinframap.org)
 * [2026-01-08, 03:29:11](https://news.ycombinator.com/item?id=46536848) - [Chase to become new issuer of Apple Card](https://www.jpmorganchase.com/ir/news/2026/chase-to-become-new-issuer-of-apple-card)
 * [2026-01-08, 02:18:09](https://news.ycombinator.com/item?id=46536340) - [Kernel bugs hide for 2 years on average. Some hide for 20](https://pebblebed.com/blog/kernel-bugs)
