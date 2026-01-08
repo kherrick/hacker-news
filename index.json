@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-01-08, 23:00:45",
+      "https://news.ycombinator.com/item?id=46547740"
+    ],
+    [
+      "Embassy: Modern embedded framework, using Rust and async",
+      "https://github.com/embassy-rs/embassy"
+    ]
+  ],
+  [
+    [
+      "2026-01-08, 22:20:34",
+      "https://news.ycombinator.com/item?id=46547303"
+    ],
+    [
+      "Iran Protest Map",
+      "https://pouyaii.github.io/Iran/"
+    ]
+  ],
+  [
+    [
       "2026-01-08, 21:17:26",
       "https://news.ycombinator.com/item?id=46546614"
     ],
@@ -47,16 +67,6 @@
     [
       "Support for the TSO memory model on Arm CPUs (2024)",
       "https://lwn.net/Articles/970907/"
-    ]
-  ],
-  [
-    [
-      "2026-01-08, 20:50:57",
-      "https://news.ycombinator.com/item?id=46546270"
-    ],
-    [
-      "Texas court blocks Samsung from tracking TV viewing, then vacates order",
-      "https://www.bleepingcomputer.com/news/security/texas-court-blocks-samsung-from-tracking-tv-viewing-then-vacates-order/"
     ]
   ],
   [
@@ -267,16 +277,6 @@
     [
       "Intellectual Junkyards",
       "https://www.forester-notes.org/QHXS/index.xml"
-    ]
-  ],
-  [
-    [
-      "2026-01-05, 00:07:44",
-      "https://news.ycombinator.com/item?id=46493785"
-    ],
-    [
-      "The Napoleon Technique: Postponing things to increase productivity",
-      "https://effectiviology.com/napoleon/"
     ]
   ],
   [
