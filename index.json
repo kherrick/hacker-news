@@ -21,6 +21,16 @@
   ],
   [
     [
+      "2026-01-08, 19:00:28",
+      "https://news.ycombinator.com/item?id=46544981"
+    ],
+    [
+      "The Unreasonable Effectiveness of the Fourier Transform",
+      "https://joshuawise.com/resources/ofdm/"
+    ]
+  ],
+  [
+    [
       "2026-01-08, 18:59:22",
       "https://news.ycombinator.com/item?id=46544969"
     ],
@@ -37,6 +47,16 @@
     [
       "Fixing a Buffer Overflow in Unix v4 Like It's 1973",
       "https://sigma-star.at/blog/2025/12/unix-v4-buffer-overflow/"
+    ]
+  ],
+  [
+    [
+      "2026-01-08, 18:24:17",
+      "https://news.ycombinator.com/item?id=46544524"
+    ],
+    [
+      "Show HN: macOS menu bar app to track Claude usage in real time",
+      "https://github.com/richhickson/claudecodeusage"
     ]
   ],
   [
@@ -107,16 +127,6 @@
     [
       "Iran Goes Into IPv6 Blackout",
       "https://radar.cloudflare.com/routing/ir"
-    ]
-  ],
-  [
-    [
-      "2026-01-08, 15:20:52",
-      "https://news.ycombinator.com/item?id=46542046"
-    ],
-    [
-      "Our Changing Planet, as Seen from Space",
-      "https://e360.yale.edu/digest/nasa-satellite-images-2025"
     ]
   ],
   [
@@ -217,16 +227,6 @@
     [
       "Kernel bugs hide for 2 years on average. Some hide for 20",
       "https://pebblebed.com/blog/kernel-bugs"
-    ]
-  ],
-  [
-    [
-      "2026-01-07, 20:16:50",
-      "https://news.ycombinator.com/item?id=46531925"
-    ],
-    [
-      "Tailscale state file encryption no longer enabled by default",
-      "https://tailscale.com/changelog"
     ]
   ],
   [
