@@ -15,7 +15,6 @@
 * [2026-01-08, 18:29:47](https://news.ycombinator.com/item?id=46544610) - [Fixing a Buffer Overflow in Unix v4 Like It's 1973](https://sigma-star.at/blog/2025/12/unix-v4-buffer-overflow/)
 * [2026-01-08, 18:24:17](https://news.ycombinator.com/item?id=46544524) - [Show HN: macOS menu bar app to track Claude usage in real time](https://github.com/richhickson/claudecodeusage)
 * [2026-01-08, 18:19:09](https://news.ycombinator.com/item?id=46544454) - [IBM AI ('Bob') Downloads and Executes Malware](https://www.promptarmor.com/resources/ibm-ai-(-bob-)-downloads-and-executes-malware)
-* [2026-01-08, 16:31:29](https://news.ycombinator.com/item?id=46542982) - [Dynamic Large Concept Models: Latent Reasoning in an Adaptive Semantic Space](https://arxiv.org/abs/2512.24617)
 * [2026-01-08, 16:16:43](https://news.ycombinator.com/item?id=46542761) - [Digital Red Queen: Adversarial Program Evolution in Core War with LLMs](https://sakana.ai/drq/)
 * [2026-01-08, 16:11:48](https://news.ycombinator.com/item?id=46542683) - [Iran Goes Into IPv6 Blackout](https://radar.cloudflare.com/routing/ir)
 * [2026-01-08, 15:20:15](https://news.ycombinator.com/item?id=46542036) - [AI coding assistants are getting worse?](https://spectrum.ieee.org/ai-coding-degrades)
@@ -30,6 +29,7 @@
 * [2026-01-05, 18:02:53](https://news.ycombinator.com/item?id=46502269) - [I used Lego to design a farm for people who are blind – like me](https://www.bbc.co.uk/news/articles/c4g4zlyqnr0o)
 * [2026-01-05, 04:25:34](https://news.ycombinator.com/item?id=46495319) - [Intellectual Junkyards](https://www.forester-notes.org/QHXS/index.xml)
 * [2026-01-02, 19:24:10](https://news.ycombinator.com/item?id=46468338) - [Lights and Shadows (2020)](https://ciechanow.ski/lights-and-shadows/)
+* [2026-01-01, 13:58:45](https://news.ycombinator.com/item?id=46454160) - [Making Magic Leap past Nvidia's secure bootchain and breaking Tesla Autopilots](https://fahrplan.events.ccc.de/congress/2025/fahrplan/event/making-the-magic-leap-past-nvidia-s-secure-bootchain-and-breaking-some-tesla-autopilots-along-the-way)
 
 ## [Archives](archives/index.md)
 
