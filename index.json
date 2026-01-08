@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-01-08, 21:02:19",
+      "https://news.ycombinator.com/item?id=46546419"
+    ],
+    [
+      "SQL Studio",
+      "https://sql.studio/"
+    ]
+  ],
+  [
+    [
       "2026-01-08, 21:01:36",
       "https://news.ycombinator.com/item?id=46546413"
     ],
@@ -15,7 +25,7 @@
       "https://news.ycombinator.com/item?id=46546322"
     ],
     [
-      "Support for the TSO memory model on Arm CPUs",
+      "Support for the TSO memory model on Arm CPUs (2024)",
       "https://lwn.net/Articles/970907/"
     ]
   ],
@@ -277,16 +287,6 @@
     [
       "The Napoleon Technique: Postponing things to increase productivity",
       "https://effectiviology.com/napoleon/"
-    ]
-  ],
-  [
-    [
-      "2026-01-04, 04:10:06",
-      "https://news.ycombinator.com/item?id=46484808"
-    ],
-    [
-      "Show HN: I built a tool to create AI agents that live in iMessage",
-      "https://tryflux.ai/"
     ]
   ],
   [
