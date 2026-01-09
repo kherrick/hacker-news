@@ -7,6 +7,8 @@
 * [2026-01-09, 17:01:02](https://news.ycombinator.com/item?id=46555977) - [IcePanel (YC W23) is hiring full-stack engineers in Vancouver](https://forms.icepanel.io/careers/senior-product-engineer)
 * [2026-01-09, 17:00:11](https://news.ycombinator.com/item?id=46555963) - [The Vietnam government has banned rooted phones from using any banking app](https://xdaforums.com/t/discussion-the-root-and-mod-hiding-fingerprint-spoofing-keybox-stealing-cat-and-mouse-game.4425939/page-118)
 * [2026-01-09, 16:46:48](https://news.ycombinator.com/item?id=46555760) - [Cloudflare CEO on the Italy Fines](https://twitter.com/eastdakota/status/2009654937303896492)
+* [2026-01-09, 16:27:19](https://news.ycombinator.com/item?id=46555512) - [Latest SteamOS Beta Now Includes Ntsync Kernel Driver](https://www.phoronix.com/news/Steam-OS-Beta-NTSYNC)
+* [2026-01-09, 16:23:44](https://news.ycombinator.com/item?id=46555485) - [Cloudspecs: Cloud Hardware Evolution Through the Looking Glass](http://muratbuffalo.blogspot.com/2026/01/cloudspecs-cloud-hardware-evolution.html)
 * [2026-01-09, 14:50:48](https://news.ycombinator.com/item?id=46554462) - [London–Calcutta Bus Service](https://en.wikipedia.org/wiki/London%E2%80%93Calcutta_bus_service)
 * [2026-01-09, 14:38:57](https://news.ycombinator.com/item?id=46554307) - [ICE Is What Happens When America Refuses to Learn from Black History](https://jemartisby.substack.com/p/ice-is-what-happens-when-america)
 * [2026-01-09, 14:12:18](https://news.ycombinator.com/item?id=46554013) - [Show HN: Free noise evidence generator for tenant complaints](https://noiseevidence.com/)

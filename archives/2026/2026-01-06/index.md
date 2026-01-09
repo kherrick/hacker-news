@@ -52,6 +52,7 @@
 * [2026-01-06, 13:50:48](https://news.ycombinator.com/item?id=46512203) - [Show HN: VaultSandbox – Test your real MailGun/SES/etc. integration](https://vaultsandbox.com/)
 * [2026-01-06, 13:48:27](https://news.ycombinator.com/item?id=46512182) - [Show HN: Mantic.sh – Search 480k files in 0.46s without embeddings](https://github.com/marcoaapfortes/Mantic.sh)
 * [2026-01-06, 13:30:07](https://news.ycombinator.com/item?id=46511981) - [Why German Strings Are Everywhere?](https://cedardb.com/blog/german_strings/)
+* [2026-01-06, 13:23:39](https://news.ycombinator.com/item?id=46511903) - [Show HN: Similarity = cosine(your_GitHub_stars, Karpathy) Client-side](https://puzer.github.io/github_recommender/)
 * [2026-01-06, 12:53:06](https://news.ycombinator.com/item?id=46511617) - [Portland's gas-powered leaf blower ban goes into effect](https://www.oregonlive.com/environment/2026/01/portlands-gas-powered-leaf-blower-ban-goes-into-effect.html)
 * [2026-01-06, 12:47:23](https://news.ycombinator.com/item?id=46511578) - [Show HN: DDL to Data – Generate realistic test data from SQL schemas](https://news.ycombinator.com/item?id=46511578)
 * [2026-01-06, 12:33:54](https://news.ycombinator.com/item?id=46511470) - [C Is Best](https://sqlite.org/whyc.html)
