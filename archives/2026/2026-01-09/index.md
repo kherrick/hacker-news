@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-01-09](index.md)
 
+* [2026-01-09, 20:17:07](https://news.ycombinator.com/item?id=46558739) - [QtNat – Open you port with Qt UPnP](http://renaudguezennec.eu/index.php/2026/01/09/qtnat-open-you-port-with-qt/)
 * [2026-01-09, 19:15:21](https://news.ycombinator.com/item?id=46557879) - [Show HN: Rocket Launch and Orbit Simulator](https://www.donutthejedi.com/)
 * [2026-01-09, 19:11:57](https://news.ycombinator.com/item?id=46557823) - [Show HN: EuConform – Offline-first EU AI Act compliance tool (open source)](https://github.com/Hiepler/EuConform)
 * [2026-01-09, 18:48:30](https://news.ycombinator.com/item?id=46557489) - [JavaScript Demos in 140 Characters](https://www.dwitter.net/top)
@@ -17,9 +18,11 @@
 * [2026-01-09, 17:00:11](https://news.ycombinator.com/item?id=46555963) - [The Vietnam government has banned rooted phones from using any banking app](https://xdaforums.com/t/discussion-the-root-and-mod-hiding-fingerprint-spoofing-keybox-stealing-cat-and-mouse-game.4425939/page-118)
 * [2026-01-09, 16:46:48](https://news.ycombinator.com/item?id=46555760) - [Cloudflare CEO on the Italy Fines](https://twitter.com/eastdakota/status/2009654937303896492)
 * [2026-01-09, 16:36:48](https://news.ycombinator.com/item?id=46555615) - [Why is SendGrid emailing me about supporting ICE?](https://fredbenenson.com/blog/2026/01/09/why-is-sendgrid-emailing-me-about-supporting-ice/)
+* [2026-01-09, 16:36:48](https://news.ycombinator.com/item?id=46555615) - [SendGrid isn’t emailing about ICE or BLM – it’s a phishing attack](https://fredbenenson.com/blog/2026/01/09/sendgrid-isnt-emailing-you-about-ice-or-blm-its-a-phishing-attack/)
 * [2026-01-09, 16:27:19](https://news.ycombinator.com/item?id=46555512) - [Latest SteamOS Beta Now Includes Ntsync Kernel Driver](https://www.phoronix.com/news/Steam-OS-Beta-NTSYNC)
 * [2026-01-09, 16:23:44](https://news.ycombinator.com/item?id=46555485) - [Cloudspecs: Cloud Hardware Evolution Through the Looking Glass](http://muratbuffalo.blogspot.com/2026/01/cloudspecs-cloud-hardware-evolution.html)
 * [2026-01-09, 16:05:59](https://news.ycombinator.com/item?id=46555302) - [Developers Are Solving the Wrong Problem](https://caseysoftware.com/blog/developers-are-solving-the-wrong-problem)
+* [2026-01-09, 15:29:37](https://news.ycombinator.com/item?id=46554897) - [Amiga Pointer Archive](https://heckmeck.de/pointers/)
 * [2026-01-09, 15:07:17](https://news.ycombinator.com/item?id=46554652) - [How to store a chess position in 26 bytes](https://ezzeriesa.notion.site/How-to-store-a-chess-position-in-26-bytes-using-bit-level-magic-df1fdb5364eb42fdac11eb23b25e9605)
 * [2026-01-09, 14:50:48](https://news.ycombinator.com/item?id=46554462) - [London–Calcutta Bus Service](https://en.wikipedia.org/wiki/London%E2%80%93Calcutta_bus_service)
 * [2026-01-09, 14:38:57](https://news.ycombinator.com/item?id=46554307) - [ICE Is What Happens When America Refuses to Learn from Black History](https://jemartisby.substack.com/p/ice-is-what-happens-when-america)
