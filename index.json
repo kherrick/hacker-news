@@ -1,11 +1,21 @@
 [
   [
     [
+      "2026-01-09, 04:14:05",
+      "https://news.ycombinator.com/item?id=46549965"
+    ],
+    [
+      "Remote Job",
+      "https://github.com/lukasz-madon/awesome-remote-job"
+    ]
+  ],
+  [
+    [
       "2026-01-09, 03:44:35",
       "https://news.ycombinator.com/item?id=46549823"
     ],
     [
-      "Anthropic bans use of API in OpenCode CLI tool",
+      "Anthropic blocks third-party use of Claude Code subscriptions",
       "https://github.com/anomalyco/opencode/issues/7410"
     ]
   ],
@@ -107,16 +117,6 @@
     [
       "How to Code Claude Code in 200 Lines of Code",
       "https://www.mihaileric.com/The-Emperor-Has-No-Clothes/"
-    ]
-  ],
-  [
-    [
-      "2026-01-08, 19:51:47",
-      "https://news.ycombinator.com/item?id=46545587"
-    ],
-    [
-      "Task-free intelligence testing of LLMs",
-      "https://www.marble.onl/posts/tapping/index.html"
     ]
   ],
   [
@@ -231,22 +231,22 @@
   ],
   [
     [
-      "2026-01-07, 05:10:27",
-      "https://news.ycombinator.com/item?id=46522841"
-    ],
-    [
-      "PgX – Debug Postgres performance in the context of your application code",
-      "https://docs.base14.io/blog/introducing-pgx/"
-    ]
-  ],
-  [
-    [
       "2026-01-05, 18:02:53",
       "https://news.ycombinator.com/item?id=46502269"
     ],
     [
       "I used Lego to design a farm for people who are blind – like me",
       "https://www.bbc.co.uk/news/articles/c4g4zlyqnr0o"
+    ]
+  ],
+  [
+    [
+      "2026-01-04, 16:05:08",
+      "https://news.ycombinator.com/item?id=46489232"
+    ],
+    [
+      "I hacked Casio F-91W digital watch",
+      "https://medium.com/infosec-watchtower/how-i-hacked-casio-f-91w-digital-watch-892bd519bd15"
     ]
   ],
   [
