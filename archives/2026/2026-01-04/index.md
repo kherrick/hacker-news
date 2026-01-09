@@ -22,6 +22,7 @@
 * [2026-01-04, 20:02:28](https://news.ycombinator.com/item?id=46491623) - [I changed my personality in six weeks](https://www.bbc.com/future/article/20260102-how-i-changed-my-personality-in-six-weeks)
 * [2026-01-04, 19:54:52](https://news.ycombinator.com/item?id=46491560) - [Server-rendered multiplayer games with Lua (no client code)](https://cleoselene.com/)
 * [2026-01-04, 19:48:20](https://news.ycombinator.com/item?id=46491486) - [Claude Code On-the-Go](https://granda.org/en/2026/01/02/claude-code-on-the-go/)
+* [2026-01-04, 19:31:43](https://news.ycombinator.com/item?id=46491330) - [Why Is There a Tiny Hole in the Airplane Window? (2023)](https://www.afar.com/magazine/why-airplane-windows-have-tiny-holes)
 * [2026-01-04, 19:26:26](https://news.ycombinator.com/item?id=46491264) - [Signals vs. Query-Based Compilers](https://marvinh.dev/blog/signals-vs-query-based-compilers/)
 * [2026-01-04, 19:24:47](https://news.ycombinator.com/item?id=46491244) - [Agentic Patterns](https://github.com/nibzard/awesome-agentic-patterns)
 * [2026-01-04, 19:22:23](https://news.ycombinator.com/item?id=46491219) - [GLSL Web CRT Shader](https://blog.gingerbeardman.com/2026/01/04/glsl-web-crt-shader/)

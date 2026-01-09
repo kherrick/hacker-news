@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-01-09, 10:27:11](https://news.ycombinator.com/item?id=46552254) - [MCP Is a Fad](https://tombedor.dev/mcp-is-a-fad/)
 * [2026-01-09, 09:34:54](https://news.ycombinator.com/item?id=46551855) - [Surveillance Watch – a map that shows connections between surveillance companies](https://www.surveillancewatch.io)
 * [2026-01-09, 07:38:30](https://news.ycombinator.com/item?id=46551044) - [What Happened to WebAssembly](https://emnudge.dev/blog/what-happened-to-webassembly/)
 * [2026-01-09, 07:09:39](https://news.ycombinator.com/item?id=46550912) - [European Commission issues call for evidence on open source](https://lwn.net/Articles/1053107/)
@@ -23,13 +24,12 @@
 * [2026-01-08, 13:02:05](https://news.ycombinator.com/item?id=46540498) - [The Jeff Dean Facts](https://github.com/LRitzdorf/TheJeffDeanFacts)
 * [2026-01-08, 04:39:55](https://news.ycombinator.com/item?id=46537253) - [Ushikuvirus: Newly discovered virus may offer clues to the origin of eukaryotes](https://www.tus.ac.jp/en/mediarelations/archive/20251219_9539.html)
 * [2026-01-06, 06:34:45](https://news.ycombinator.com/item?id=46509376) - [Mysterious Victorian-era shoes are washing up on a beach in wales](https://www.smithsonianmag.com/smart-news/hundreds-of-mysterious-victorian-era-shoes-are-washing-up-on-a-beach-in-wales-nobody-knows-where-they-came-from-180987943/)
+* [2026-01-04, 19:31:43](https://news.ycombinator.com/item?id=46491330) - [Why Is There a Tiny Hole in the Airplane Window? (2023)](https://www.afar.com/magazine/why-airplane-windows-have-tiny-holes)
 * [2026-01-04, 16:05:08](https://news.ycombinator.com/item?id=46489232) - [Hacking a Casio F-91W digital watch (2023)](https://medium.com/infosec-watchtower/how-i-hacked-casio-f-91w-digital-watch-892bd519bd15)
 * [2026-01-04, 09:58:36](https://news.ycombinator.com/item?id=46486545) - [Samba Was Written (2003)](https://download.samba.org/pub/tridge/misc/french_cafe.txt)
-* [2026-01-03, 23:21:26](https://news.ycombinator.com/item?id=46482844) - [Pole of Inaccessibility](https://en.wikipedia.org/wiki/Pole_of_inaccessibility)
 * [2026-01-02, 22:32:35](https://news.ycombinator.com/item?id=46470293) - [1M for Non-Specialists: Introduction](https://pithlessly.github.io/1ml-intro)
 * [2026-01-02, 16:31:18](https://news.ycombinator.com/item?id=46466438) - [Systematically Improving Espresso: Mathematical Modeling and Experiment (2020)](https://www.cell.com/matter/fulltext/S2590-2385(19)30410-2)
 * [2026-01-02, 05:56:47](https://news.ycombinator.com/item?id=46461862) - [Photographing the hidden world of slime mould](https://www.bbc.com/news/articles/c9d9409p76qo)
-* [2026-01-01, 13:58:45](https://news.ycombinator.com/item?id=46454160) - [Making Magic Leap past Nvidia's secure bootchain and breaking Tesla Autopilots](https://fahrplan.events.ccc.de/congress/2025/fahrplan/event/making-the-magic-leap-past-nvidia-s-secure-bootchain-and-breaking-some-tesla-autopilots-along-the-way)
 
 ## [Archives](archives/index.md)
 
