@@ -32,6 +32,7 @@
 * [2026-01-04, 18:27:28](https://news.ycombinator.com/item?id=46490716) - [Venezuela's interim government says it is united behind Maduro](https://www.reuters.com/world/us/venezuelas-maduro-custody-trump-says-us-will-run-country-2026-01-04/)
 * [2026-01-04, 17:50:04](https://news.ycombinator.com/item?id=46490323) - [Ripple, a puzzle game about 2nd and 3rd order effects](https://ripplegame.app/)
 * [2026-01-04, 17:01:43](https://news.ycombinator.com/item?id=46489830) - [Trellis AI (YC W24) is hiring engineers to build AI agents for healthcare access](https://www.ycombinator.com/companies/trellis-ai/jobs/ngvfeaq-member-of-technical-staff-full-time)
+* [2026-01-04, 16:45:31](https://news.ycombinator.com/item?id=46489657) - [Recent Optimizations in Python's Reference Counting](https://rushter.com/blog/python-refcount/)
 * [2026-01-04, 16:08:27](https://news.ycombinator.com/item?id=46489273) - [The ISEE Trajectories](https://www.drmindle.com/isee/)
 * [2026-01-04, 15:31:07](https://news.ycombinator.com/item?id=46488883) - [Adding insular script like it's 1626](https://www.djmurphy.net/blog/clo-gaelach/)
 * [2026-01-04, 15:23:54](https://news.ycombinator.com/item?id=46488819) - [Lessons from 14 Years at Google](https://addyosmani.com/blog/21-lessons/)

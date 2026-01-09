@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2026-01-08](index.md)
 
 * [2026-01-08, 23:00:45](https://news.ycombinator.com/item?id=46547740) - [Embassy: Modern embedded framework, using Rust and async](https://github.com/embassy-rs/embassy)
+* [2026-01-08, 22:24:50](https://news.ycombinator.com/item?id=46547345) - [Flint Confirms Biodegradable Paper Batteries Are Now in Production](https://audioxpress.com/news/flint-confirms-biodegradable-paper-batteries-are-now-in-production)
 * [2026-01-08, 22:20:34](https://news.ycombinator.com/item?id=46547303) - [Iran Protest Map](https://pouyaii.github.io/Iran/)
 * [2026-01-08, 21:40:48](https://news.ycombinator.com/item?id=46546888) - [Landline phones cut in parts of Iran, eyewitnesses say](https://www.iranintl.com/en/202601085355)
 * [2026-01-08, 21:17:26](https://news.ycombinator.com/item?id=46546614) - [Richard D. James interviews ex Korg engineer Tatsuya Takahashi (2017)](https://web.archive.org/web/20180719052026/http://item.warp.net/interview/aphex-twin-speaks-to-tatsuya-takahashi/)
@@ -45,6 +46,7 @@
 * [2026-01-08, 15:18:39](https://news.ycombinator.com/item?id=46542015) - [Japanese electronics store pleads for old PCs amid ongoing hardware shortage](https://www.tomshardware.com/desktops/pc-building/major-japanese-electronics-store-begs-customers-for-their-old-pcs-as-hardware-drought-continues-we-pretty-much-buy-any-pc-pleads-the-akihabara-outlet)
 * [2026-01-08, 15:15:26](https://news.ycombinator.com/item?id=46541972) - [Suppression of Type I collagen in human scleral fibroblasts treated with ELF](https://pmc.ncbi.nlm.nih.gov/articles/PMC3626379/)
 * [2026-01-08, 15:07:57](https://news.ycombinator.com/item?id=46541892) - [Bose is open-sourcing its old smart speakers instead of bricking them](https://www.theverge.com/news/858501/bose-soundtouch-smart-speakers-open-source)
+* [2026-01-08, 15:07:57](https://news.ycombinator.com/item?id=46541892) - [Bose has released API docs and opened the API for its EoL SoundTouch speakers](https://arstechnica.com/gadgets/2026/01/bose-open-sources-its-soundtouch-home-theater-smart-speakers-ahead-of-eol/)
 * [2026-01-08, 15:07:37](https://news.ycombinator.com/item?id=46541885) - [Show HN: A Daily Bible Game](https://bibdle.com)
 * [2026-01-08, 14:44:24](https://news.ycombinator.com/item?id=46541586) - [Maine company in the spotlight after Maduro apparently wore one of their hoodies](https://www.boston.com/news/business/2026/01/06/maine-company-maduro-venezuela-hoodie/)
 * [2026-01-08, 13:26:07](https://news.ycombinator.com/item?id=46540698) - [Gmail is entering the Gemini Era](https://blog.google/products-and-platforms/products/gmail/gmail-is-entering-the-gemini-era/)
