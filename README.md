@@ -2,7 +2,6 @@
 
 * [2026-01-09, 22:39:15](https://news.ycombinator.com/item?id=46560445) - [AI solves Erdos problem #728 (Terence Tao mathstodon post)](https://mathstodon.xyz/@tao/115855840223258103)
 * [2026-01-09, 21:41:27](https://news.ycombinator.com/item?id=46559761) - [Deno has made its PyPI distribution official](https://github.com/denoland/deno/issues/31254)
-* [2026-01-09, 21:27:10](https://news.ycombinator.com/item?id=46559599) - [Sigmund Freud's Begonia](https://observer.co.uk/news/first-person/article/emma-freud-sigmund-freuds-begonia)
 * [2026-01-09, 20:17:07](https://news.ycombinator.com/item?id=46558739) - [QtNat – Open you port with Qt UPnP](http://renaudguezennec.eu/index.php/2026/01/09/qtnat-open-you-port-with-qt/)
 * [2026-01-09, 19:33:47](https://news.ycombinator.com/item?id=46558148) - [RTX 5090 and Raspberry Pi: Can It Game?](https://scottjg.com/posts/2026-01-08-crappy-computer-showdown/)
 * [2026-01-09, 19:15:21](https://news.ycombinator.com/item?id=46557879) - [Show HN: Rocket Launch and Orbit Simulator](https://www.donutthejedi.com/)
@@ -30,6 +29,7 @@
 * [2026-01-04, 16:32:13](https://news.ycombinator.com/item?id=46489514) - [How will the miracle happen today?](https://kk.org/thetechnium/how-will-the-miracle-happen-today/)
 * [2026-01-04, 04:10:06](https://news.ycombinator.com/item?id=46484808) - [Show HN: I built a tool to create AI agents that live in iMessage](https://tryflux.ai/)
 * [2026-01-03, 16:34:38](https://news.ycombinator.com/item?id=46478558) - [Linux Runs on Raspberry Pi RP2350's Hazard3 RISC-V Cores (2024)](https://www.hackster.io/news/jesse-taube-gets-linux-up-and-running-on-the-raspberry-pi-rp2350-s-hazard3-risc-v-cores-19088b87bb2c)
+* [2026-01-03, 13:49:24](https://news.ycombinator.com/item?id=46476587) - [TextMaze](https://robobunny.com/projects/textmaze/html/?page=0)
 
 ## [Archives](archives/index.md)
 
