@@ -8,6 +8,7 @@
 * [2026-01-09, 19:11:57](https://news.ycombinator.com/item?id=46557823) - [Show HN: EuConform – Offline-first EU AI Act compliance tool (open source)](https://github.com/Hiepler/EuConform)
 * [2026-01-09, 18:48:30](https://news.ycombinator.com/item?id=46557489) - [JavaScript Demos in 140 Characters](https://www.dwitter.net/top)
 * [2026-01-09, 18:29:35](https://news.ycombinator.com/item?id=46557233) - [Exercise can be nearly as effective as therapy for depression](https://www.sciencedaily.com/releases/2026/01/260107225516.htm)
+* [2026-01-09, 18:17:24](https://news.ycombinator.com/item?id=46557057) - [AI Zealotry](https://matthewrocklin.com/ai-zealotry/)
 * [2026-01-09, 18:15:16](https://news.ycombinator.com/item?id=46557029) - [Show HN: Scroll Wikipedia like TikTok](https://quack.sdan.io)
 * [2026-01-09, 18:11:22](https://news.ycombinator.com/item?id=46556979) - [U.S. mandates more foreign travelers to pay $15,000 visa bond deposits](https://www.washingtonpost.com/immigration/2026/01/06/visa-bonds-state-overstay-rates/)
 * [2026-01-09, 18:00:56](https://news.ycombinator.com/item?id=46556822) - [Replit (YC W18) Is Hiring](https://jobs.ashbyhq.com/replit)
