@@ -1,9 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-01-09, 17:01:02](https://news.ycombinator.com/item?id=46555977) - [IcePanel (YC W23) is hiring full-stack engineers in Vancouver](https://forms.icepanel.io/careers/senior-product-engineer)
+* [2026-01-09, 17:00:11](https://news.ycombinator.com/item?id=46555963) - [The Vietnam government has banned rooted phones from using any banking app](https://xdaforums.com/t/discussion-the-root-and-mod-hiding-fingerprint-spoofing-keybox-stealing-cat-and-mouse-game.4425939/page-118)
 * [2026-01-09, 16:46:48](https://news.ycombinator.com/item?id=46555760) - [Cloudflare CEO on the Italy Fines](https://twitter.com/eastdakota/status/2009654937303896492)
 * [2026-01-09, 14:50:48](https://news.ycombinator.com/item?id=46554462) - [London–Calcutta Bus Service](https://en.wikipedia.org/wiki/London%E2%80%93Calcutta_bus_service)
 * [2026-01-09, 14:12:18](https://news.ycombinator.com/item?id=46554013) - [Show HN: Free noise evidence generator for tenant complaints](https://noiseevidence.com/)
-* [2026-01-09, 13:52:13](https://news.ycombinator.com/item?id=46553818) - [\"They Saw a Protest\": Cognitive Illiberalism and the Speech-Conduct Distinction [pdf] (2012)](https://www.stanfordlawreview.org/wp-content/uploads/sites/3/2012/05/Kahan-64-Stan-L-Rev-851.pdf)
 * [2026-01-09, 12:54:48](https://news.ycombinator.com/item?id=46553343) - [Kagi releases alpha version of Orion for Linux](https://help.kagi.com/orion/misc/linux-status.html)
 * [2026-01-09, 07:38:30](https://news.ycombinator.com/item?id=46551044) - [What happened to WebAssembly](https://emnudge.dev/blog/what-happened-to-webassembly/)
 * [2026-01-09, 07:09:39](https://news.ycombinator.com/item?id=46550912) - [European Commission issues call for evidence on open source](https://lwn.net/Articles/1053107/)
@@ -28,7 +29,6 @@
 * [2026-01-04, 16:05:08](https://news.ycombinator.com/item?id=46489232) - [Hacking a Casio F-91W digital watch (2023)](https://medium.com/infosec-watchtower/how-i-hacked-casio-f-91w-digital-watch-892bd519bd15)
 * [2026-01-04, 09:58:36](https://news.ycombinator.com/item?id=46486545) - [Samba Was Written (2003)](https://download.samba.org/pub/tridge/misc/french_cafe.txt)
 * [2026-01-03, 16:34:38](https://news.ycombinator.com/item?id=46478558) - [Linux Runs on Raspberry Pi RP2350's Hazard3 RISC-V Cores (2024)](https://www.hackster.io/news/jesse-taube-gets-linux-up-and-running-on-the-raspberry-pi-rp2350-s-hazard3-risc-v-cores-19088b87bb2c)
-* [2026-01-02, 16:31:18](https://news.ycombinator.com/item?id=46466438) - [Systematically Improving Espresso: Mathematical Modeling and Experiment (2020)](https://www.cell.com/matter/fulltext/S2590-2385(19)30410-2)
 * [2026-01-02, 05:56:47](https://news.ycombinator.com/item?id=46461862) - [Photographing the hidden world of slime mould](https://www.bbc.com/news/articles/c9d9409p76qo)
 
 ## [Archives](archives/index.md)
