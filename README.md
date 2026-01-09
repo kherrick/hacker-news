@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2026-01-09, 13:27:43](https://news.ycombinator.com/item?id=46553599) - [Iran vows regime will \"not back down\" as web blackout continues](https://www.cbsnews.com/news/iran-protests-internet-blackout-khamenei-vows-not-back-down-trump-threat/)
+* [2026-01-09, 12:54:48](https://news.ycombinator.com/item?id=46553343) - [Kagi releases alpha version of Orion for Linux](https://help.kagi.com/orion/misc/linux-status.html)
 * [2026-01-09, 07:38:30](https://news.ycombinator.com/item?id=46551044) - [What happened to WebAssembly](https://emnudge.dev/blog/what-happened-to-webassembly/)
 * [2026-01-09, 07:09:39](https://news.ycombinator.com/item?id=46550912) - [European Commission issues call for evidence on open source](https://lwn.net/Articles/1053107/)
 * [2026-01-09, 07:06:41](https://news.ycombinator.com/item?id=46550895) - [Mathematics for Computer Science (2018) [pdf]](https://courses.csail.mit.edu/6.042/spring18/mcs.pdf)
@@ -9,7 +10,6 @@
 * [2026-01-09, 01:17:51](https://news.ycombinator.com/item?id=46548940) - [Why I left iNaturalist](https://kueda.net/blog/2026/01/06/why-i-left-inat/)
 * [2026-01-08, 23:00:45](https://news.ycombinator.com/item?id=46547740) - [Embassy: Modern embedded framework, using Rust and async](https://github.com/embassy-rs/embassy)
 * [2026-01-08, 21:17:26](https://news.ycombinator.com/item?id=46546614) - [Richard D. James aka Aphex Twin speaks to Tatsuya Takahashi (2017)](https://web.archive.org/web/20180719052026/http://item.warp.net/interview/aphex-twin-speaks-to-tatsuya-takahashi/)
-* [2026-01-08, 21:01:36](https://news.ycombinator.com/item?id=46546413) - [Mux (YC W16) is hiring a platform engineer that cares about (internal) DX](https://www.mux.com/jobs)
 * [2026-01-08, 20:37:07](https://news.ycombinator.com/item?id=46546113) - [Sopro TTS: A 169M model with zero-shot voice cloning that runs on the CPU](https://github.com/samuel-vitorino/sopro)
 * [2026-01-08, 19:54:26](https://news.ycombinator.com/item?id=46545620) - [How to Code Claude Code in 200 Lines of Code](https://www.mihaileric.com/The-Emperor-Has-No-Clothes/)
 * [2026-01-08, 19:09:23](https://news.ycombinator.com/item?id=46545077) - [Google AI Studio is now sponsoring Tailwind CSS](https://twitter.com/OfficialLoganK/status/2009339263251566902)
