@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-01-09, 21:04:45](https://news.ycombinator.com/item?id=46559309) - [Looking for flagged discussions on HN? See what's active](https://news.ycombinator.com/active)
 * [2026-01-09, 20:17:07](https://news.ycombinator.com/item?id=46558739) - [QtNat – Open you port with Qt UPnP](http://renaudguezennec.eu/index.php/2026/01/09/qtnat-open-you-port-with-qt/)
 * [2026-01-09, 19:33:47](https://news.ycombinator.com/item?id=46558148) - [RTX 5090 and Raspberry Pi: Can It Game?](https://scottjg.com/posts/2026-01-08-crappy-computer-showdown/)
 * [2026-01-09, 19:15:21](https://news.ycombinator.com/item?id=46557879) - [Show HN: Rocket Launch and Orbit Simulator](https://www.donutthejedi.com/)
@@ -24,6 +23,7 @@
 * [2026-01-09, 01:59:32](https://news.ycombinator.com/item?id=46549231) - [Show HN: A website that auctions itself daily](https://www.thedailyauction.com/)
 * [2026-01-08, 23:24:30](https://news.ycombinator.com/item?id=46547962) - [Scientists discover oldest poison, on 60k-year-old arrows](https://www.nytimes.com/2026/01/07/science/poison-arrows-south-africa.html)
 * [2026-01-08, 19:54:26](https://news.ycombinator.com/item?id=46545620) - [How to code Claude Code in 200 lines of code](https://www.mihaileric.com/The-Emperor-Has-No-Clothes/)
+* [2026-01-07, 09:57:33](https://news.ycombinator.com/item?id=46524519) - [CI-Hush](https://gitlab.com/jjg/ci-hush)
 * [2026-01-06, 16:36:50](https://news.ycombinator.com/item?id=46514559) - [Show HN: Repogen – a static site generator for package repositories](https://github.com/ralt/repogen)
 * [2026-01-06, 13:23:39](https://news.ycombinator.com/item?id=46511903) - [Show HN: Similarity = cosine(your_GitHub_stars, Karpathy) Client-side](https://puzer.github.io/github_recommender/)
 * [2026-01-04, 20:49:19](https://news.ycombinator.com/item?id=46492019) - [The (likely?) cheapest home-made Michelson interferometer](https://guille.site/posts/3d-printed-michelson/)
