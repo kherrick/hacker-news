@@ -65,6 +65,7 @@
 * [2026-01-04, 10:43:38](https://news.ycombinator.com/item?id=46486780) - [Maybe Comments _Should_ Explain 'What'](https://www.hillelwayne.com/post/what-comments/)
 * [2026-01-04, 10:35:58](https://news.ycombinator.com/item?id=46486730) - [Was it a billion dollar mistake?](https://www.gingerbill.org/article/2026/01/02/was-it-really-a-billion-dollar-mistake/)
 * [2026-01-04, 10:28:49](https://news.ycombinator.com/item?id=46486681) - [Anatomy of BoltzGen](https://huggingface.co/spaces/ludocomito/anatomy-of-boltzgen)
+* [2026-01-04, 09:58:36](https://news.ycombinator.com/item?id=46486545) - [Samba Was Written (2003)](https://download.samba.org/pub/tridge/misc/french_cafe.txt)
 * [2026-01-04, 09:11:47](https://news.ycombinator.com/item?id=46486326) - [The PGP Problem (2019)](https://www.latacora.com/blog/2019/07/16/the-pgp-problem/)
 * [2026-01-04, 09:00:16](https://news.ycombinator.com/item?id=46486269) - [Interview of Fabien Pinckaers, CEO at Odoo[video]](https://www.youtube.com/watch?v=vgvbRRVreHI)
 * [2026-01-04, 08:35:42](https://news.ycombinator.com/item?id=46486135) - [The Gentle Seduction](http://www.skyhunter.com/marcs/GentleSeduction.html)

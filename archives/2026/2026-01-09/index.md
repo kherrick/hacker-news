@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-01-09](index.md)
 
+* [2026-01-09, 07:38:30](https://news.ycombinator.com/item?id=46551044) - [What Happened to WebAssembly](https://emnudge.dev/blog/what-happened-to-webassembly/)
+* [2026-01-09, 07:09:39](https://news.ycombinator.com/item?id=46550912) - [European Commission issues call for evidence on open source](https://lwn.net/Articles/1053107/)
 * [2026-01-09, 07:06:41](https://news.ycombinator.com/item?id=46550895) - [MIT's \"Mathematics for Computer Science\" (2018) [pdf]](https://courses.csail.mit.edu/6.042/spring18/mcs.pdf)
 * [2026-01-09, 06:43:27](https://news.ycombinator.com/item?id=46550777) - [Do not mistake a resilient global economy for populist success](https://www.economist.com/leaders/2026/01/08/do-not-mistake-a-resilient-global-economy-for-populist-success)
 * [2026-01-09, 05:01:24](https://news.ycombinator.com/item?id=46550231) - [The No Fakes Act Has a \"Fingerprinting\" Trap That Kills Open Source](https://old.reddit.com/r/LocalLLaMA/comments/1q7qcux/the_no_fakes_act_has_a_fingerprinting_trap_that/)
