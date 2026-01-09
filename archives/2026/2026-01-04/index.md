@@ -34,6 +34,7 @@
 * [2026-01-04, 17:01:43](https://news.ycombinator.com/item?id=46489830) - [Trellis AI (YC W24) is hiring engineers to build AI agents for healthcare access](https://www.ycombinator.com/companies/trellis-ai/jobs/ngvfeaq-member-of-technical-staff-full-time)
 * [2026-01-04, 16:45:31](https://news.ycombinator.com/item?id=46489657) - [Recent Optimizations in Python's Reference Counting](https://rushter.com/blog/python-refcount/)
 * [2026-01-04, 16:08:27](https://news.ycombinator.com/item?id=46489273) - [The ISEE Trajectories](https://www.drmindle.com/isee/)
+* [2026-01-04, 16:05:08](https://news.ycombinator.com/item?id=46489232) - [I hacked Casio F-91W digital watch](https://medium.com/infosec-watchtower/how-i-hacked-casio-f-91w-digital-watch-892bd519bd15)
 * [2026-01-04, 15:31:07](https://news.ycombinator.com/item?id=46488883) - [Adding insular script like it's 1626](https://www.djmurphy.net/blog/clo-gaelach/)
 * [2026-01-04, 15:23:54](https://news.ycombinator.com/item?id=46488819) - [Lessons from 14 Years at Google](https://addyosmani.com/blog/21-lessons/)
 * [2026-01-04, 15:13:18](https://news.ycombinator.com/item?id=46488711) - [Anti-Aging Injection Regrows Knee Cartilage and Prevents Arthritis](https://scitechdaily.com/anti-aging-injection-regrows-knee-cartilage-and-prevents-arthritis/)
