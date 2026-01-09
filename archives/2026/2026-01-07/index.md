@@ -55,6 +55,7 @@
 * [2026-01-07, 12:54:43](https://news.ycombinator.com/item?id=46525888) - [A4 Paper Stories](https://susam.net/a4-paper-stories.html)
 * [2026-01-07, 12:29:11](https://news.ycombinator.com/item?id=46525640) - [Stop Designing Languages. Write Libraries Instead](https://lbstanza.org/purpose_of_programming_languages.html)
 * [2026-01-07, 12:19:01](https://news.ycombinator.com/item?id=46525542) - [The Eric and Wendy Schmidt Observatory System](https://www.schmidtsciences.org/schmidt-observatory-system/)
+* [2026-01-07, 12:01:30](https://news.ycombinator.com/item?id=46525410) - [Ragdoll Mayhem Maker – a physics-based level editor for my indie game](https://ragdollmayhemmaker.com/)
 * [2026-01-07, 12:00:20](https://news.ycombinator.com/item?id=46525394) - [Optery (YC W22) Hiring a CISO and Web Scraping Engineers (Node) (US and Latam)](https://www.optery.com/careers/)
 * [2026-01-07, 10:53:41](https://news.ycombinator.com/item?id=46524873) - [Firefox extension to redirect x.com to xcancel.com](https://addons.mozilla.org/en-US/firefox/addon/toxcancel/)
 * [2026-01-07, 10:05:29](https://news.ycombinator.com/item?id=46524576) - [The mineral riches hiding under Greenland's ice](https://www.bbc.com/future/article/20250121-the-enormous-challenge-of-mining-greenland)
