@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-01-09, 02:29:12",
+      "https://news.ycombinator.com/item?id=46549444"
+    ],
+    [
+      "Show HN: Executable Markdown files with Unix pipes",
+      "https://news.ycombinator.com/item?id=46549444"
+    ]
+  ],
+  [
+    [
+      "2026-01-09, 01:17:51",
+      "https://news.ycombinator.com/item?id=46548940"
+    ],
+    [
+      "Why I Left iNaturalist",
+      "https://kueda.net/blog/2026/01/06/why-i-left-inat/"
+    ]
+  ],
+  [
+    [
       "2026-01-08, 23:00:45",
       "https://news.ycombinator.com/item?id=46547740"
     ],
@@ -131,16 +151,6 @@
   ],
   [
     [
-      "2026-01-08, 18:19:09",
-      "https://news.ycombinator.com/item?id=46544454"
-    ],
-    [
-      "IBM AI ('Bob') Downloads and Executes Malware",
-      "https://www.promptarmor.com/resources/ibm-ai-(-bob-)-downloads-and-executes-malware"
-    ]
-  ],
-  [
-    [
       "2026-01-08, 18:05:02",
       "https://news.ycombinator.com/item?id=46544276"
     ],
@@ -157,16 +167,6 @@
     [
       "Digital Red Queen: Adversarial Program Evolution in Core War with LLMs",
       "https://sakana.ai/drq/"
-    ]
-  ],
-  [
-    [
-      "2026-01-08, 16:11:48",
-      "https://news.ycombinator.com/item?id=46542683"
-    ],
-    [
-      "Iran Goes Into IPv6 Blackout",
-      "https://radar.cloudflare.com/routing/ir"
     ]
   ],
   [
@@ -251,16 +251,6 @@
   ],
   [
     [
-      "2026-01-04, 16:45:31",
-      "https://news.ycombinator.com/item?id=46489657"
-    ],
-    [
-      "Recent Optimizations in Python's Reference Counting",
-      "https://rushter.com/blog/python-refcount/"
-    ]
-  ],
-  [
-    [
       "2026-01-04, 05:09:47",
       "https://news.ycombinator.com/item?id=46485130"
     ],
@@ -287,6 +277,16 @@
     [
       "Lights and Shadows (2020)",
       "https://ciechanow.ski/lights-and-shadows/"
+    ]
+  ],
+  [
+    [
+      "2026-01-02, 16:31:18",
+      "https://news.ycombinator.com/item?id=46466438"
+    ],
+    [
+      "Systematically Improving Espresso: Mathematical Modeling and Experiment (2020)",
+      "https://www.cell.com/matter/fulltext/S2590-2385(19)30410-2"
     ]
   ],
   [
