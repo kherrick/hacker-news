@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-01-09, 10:27:11](https://news.ycombinator.com/item?id=46552254) - [MCP is a fad](https://tombedor.dev/mcp-is-a-fad/)
 * [2026-01-09, 07:38:30](https://news.ycombinator.com/item?id=46551044) - [What happened to WebAssembly](https://emnudge.dev/blog/what-happened-to-webassembly/)
 * [2026-01-09, 07:09:39](https://news.ycombinator.com/item?id=46550912) - [European Commission issues call for evidence on open source](https://lwn.net/Articles/1053107/)
 * [2026-01-09, 07:06:41](https://news.ycombinator.com/item?id=46550895) - [Mathematics for Computer Science (2018) [pdf]](https://courses.csail.mit.edu/6.042/spring18/mcs.pdf)
@@ -22,6 +21,7 @@
 * [2026-01-08, 13:02:05](https://news.ycombinator.com/item?id=46540498) - [The Jeff Dean Facts](https://github.com/LRitzdorf/TheJeffDeanFacts)
 * [2026-01-08, 04:39:55](https://news.ycombinator.com/item?id=46537253) - [Ushikuvirus: Newly discovered virus may offer clues to the origin of eukaryotes](https://www.tus.ac.jp/en/mediarelations/archive/20251219_9539.html)
 * [2026-01-06, 06:34:45](https://news.ycombinator.com/item?id=46509376) - [Mysterious Victorian-era shoes are washing up on a beach in Wales](https://www.smithsonianmag.com/smart-news/hundreds-of-mysterious-victorian-era-shoes-are-washing-up-on-a-beach-in-wales-nobody-knows-where-they-came-from-180987943/)
+* [2026-01-05, 22:41:33](https://news.ycombinator.com/item?id=46506143) - [Sorted string tables (SST) from first principles](https://www.bitsxpages.com/p/sorted-string-tables-sst-from-first)
 * [2026-01-05, 16:29:10](https://news.ycombinator.com/item?id=46500798) - [How wolves became dogs](https://www.economist.com/christmas-specials/2025/12/18/how-wolves-became-dogs)
 * [2026-01-04, 19:31:43](https://news.ycombinator.com/item?id=46491330) - [Why is there a tiny hole in the airplane window? (2023)](https://www.afar.com/magazine/why-airplane-windows-have-tiny-holes)
 * [2026-01-04, 16:05:08](https://news.ycombinator.com/item?id=46489232) - [Hacking a Casio F-91W digital watch (2023)](https://medium.com/infosec-watchtower/how-i-hacked-casio-f-91w-digital-watch-892bd519bd15)

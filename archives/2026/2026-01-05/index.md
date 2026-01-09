@@ -7,6 +7,7 @@
 * [2026-01-05, 23:57:21](https://news.ycombinator.com/item?id=46506957) - [LocalFirst: You Keep Using That Word](https://www.deobald.ca/essays/2026-01-01-localfirst-you-keep-using-that-word/)
 * [2026-01-05, 23:29:12](https://news.ycombinator.com/item?id=46506675) - [Pink Power Ranger takes down white supremacist dating sites](https://www.thecanary.co/skwawkbox/2026/01/04/power-ranger-deletes-dating-site/)
 * [2026-01-05, 23:19:52](https://news.ycombinator.com/item?id=46506596) - [Strange.website](https://strange.website/)
+* [2026-01-05, 22:41:33](https://news.ycombinator.com/item?id=46506143) - [Sorted string tables (SST) from first principles](https://www.bitsxpages.com/p/sorted-string-tables-sst-from-first)
 * [2026-01-05, 22:28:46](https://news.ycombinator.com/item?id=46505975) - [Worlds's first all-solid-state battery ready to power up production vehicles now](https://www.donutlab.com/ces-battery-announcement/)
 * [2026-01-05, 22:10:15](https://news.ycombinator.com/item?id=46505735) - [Why Didn't AI \"Join the Workforce\" in 2025?](https://calnewport.com/why-didnt-ai-join-the-workforce-in-2025/)
 * [2026-01-05, 22:03:52](https://news.ycombinator.com/item?id=46505661) - [Migrating cells and the new science of microchimerism](https://www.nature.com/articles/d41586-025-04102-4)
