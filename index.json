@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-01-09, 20:17:07",
+      "https://news.ycombinator.com/item?id=46558739"
+    ],
+    [
+      "QtNat – Open you port with Qt UPnP",
+      "http://renaudguezennec.eu/index.php/2026/01/09/qtnat-open-you-port-with-qt/"
+    ]
+  ],
+  [
+    [
       "2026-01-09, 19:15:21",
       "https://news.ycombinator.com/item?id=46557879"
     ],
@@ -101,6 +111,16 @@
   ],
   [
     [
+      "2026-01-09, 16:36:48",
+      "https://news.ycombinator.com/item?id=46555615"
+    ],
+    [
+      "SendGrid isn’t emailing about ICE or BLM – it’s a phishing attack",
+      "https://fredbenenson.com/blog/2026/01/09/sendgrid-isnt-emailing-you-about-ice-or-blm-its-a-phishing-attack/"
+    ]
+  ],
+  [
+    [
       "2026-01-09, 16:27:19",
       "https://news.ycombinator.com/item?id=46555512"
     ],
@@ -117,6 +137,16 @@
     [
       "Cloudspecs: Cloud Hardware Evolution Through the Looking Glass",
       "http://muratbuffalo.blogspot.com/2026/01/cloudspecs-cloud-hardware-evolution.html"
+    ]
+  ],
+  [
+    [
+      "2026-01-09, 15:29:37",
+      "https://news.ycombinator.com/item?id=46554897"
+    ],
+    [
+      "Amiga Pointer Archive",
+      "https://heckmeck.de/pointers/"
     ]
   ],
   [
@@ -191,31 +221,11 @@
   ],
   [
     [
-      "2026-01-08, 23:00:45",
-      "https://news.ycombinator.com/item?id=46547740"
-    ],
-    [
-      "Embassy: Modern embedded framework, using Rust and async",
-      "https://github.com/embassy-rs/embassy"
-    ]
-  ],
-  [
-    [
-      "2026-01-08, 20:37:07",
-      "https://news.ycombinator.com/item?id=46546113"
-    ],
-    [
-      "Sopro TTS: A 169M model with zero-shot voice cloning that runs on the CPU",
-      "https://github.com/samuel-vitorino/sopro"
-    ]
-  ],
-  [
-    [
       "2026-01-08, 19:54:26",
       "https://news.ycombinator.com/item?id=46545620"
     ],
     [
-      "How to Code Claude Code in 200 Lines of Code",
+      "How to code Claude Code in 200 lines of code",
       "https://www.mihaileric.com/The-Emperor-Has-No-Clothes/"
     ]
   ],
@@ -277,16 +287,6 @@
     [
       "How Will the Miracle Happen Today?",
       "https://kk.org/thetechnium/how-will-the-miracle-happen-today/"
-    ]
-  ],
-  [
-    [
-      "2026-01-04, 16:05:08",
-      "https://news.ycombinator.com/item?id=46489232"
-    ],
-    [
-      "Hacking a Casio F-91W digital watch (2023)",
-      "https://medium.com/infosec-watchtower/how-i-hacked-casio-f-91w-digital-watch-892bd519bd15"
     ]
   ],
   [
