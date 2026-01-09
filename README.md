@@ -11,6 +11,7 @@
 * [2026-01-09, 01:17:51](https://news.ycombinator.com/item?id=46548940) - [Why I left iNaturalist](https://kueda.net/blog/2026/01/06/why-i-left-inat/)
 * [2026-01-08, 23:00:45](https://news.ycombinator.com/item?id=46547740) - [Embassy: Modern embedded framework, using Rust and async](https://github.com/embassy-rs/embassy)
 * [2026-01-08, 21:17:26](https://news.ycombinator.com/item?id=46546614) - [Richard D. James aka Aphex Twin speaks to Tatsuya Takahashi (2017)](https://web.archive.org/web/20180719052026/http://item.warp.net/interview/aphex-twin-speaks-to-tatsuya-takahashi/)
+* [2026-01-08, 21:01:36](https://news.ycombinator.com/item?id=46546413) - [Mux (YC W16) is hiring a platform engineer that cares about (internal) DX](https://www.mux.com/jobs)
 * [2026-01-08, 20:37:07](https://news.ycombinator.com/item?id=46546113) - [Sopro TTS: A 169M model with zero-shot voice cloning that runs on the CPU](https://github.com/samuel-vitorino/sopro)
 * [2026-01-08, 19:54:26](https://news.ycombinator.com/item?id=46545620) - [How to Code Claude Code in 200 Lines of Code](https://www.mihaileric.com/The-Emperor-Has-No-Clothes/)
 * [2026-01-08, 19:09:23](https://news.ycombinator.com/item?id=46545077) - [Google AI Studio is now sponsoring Tailwind CSS](https://twitter.com/OfficialLoganK/status/2009339263251566902)
@@ -29,7 +30,6 @@
 * [2026-01-02, 22:32:35](https://news.ycombinator.com/item?id=46470293) - [1M for Non-Specialists: Introduction](https://pithlessly.github.io/1ml-intro)
 * [2026-01-02, 16:31:18](https://news.ycombinator.com/item?id=46466438) - [Systematically Improving Espresso: Mathematical Modeling and Experiment (2020)](https://www.cell.com/matter/fulltext/S2590-2385(19)30410-2)
 * [2026-01-02, 05:56:47](https://news.ycombinator.com/item?id=46461862) - [Photographing the hidden world of slime mould](https://www.bbc.com/news/articles/c9d9409p76qo)
-* [2026-01-01, 13:58:45](https://news.ycombinator.com/item?id=46454160) - [Making Magic Leap past Nvidia's secure bootchain and breaking Tesla Autopilots](https://fahrplan.events.ccc.de/congress/2025/fahrplan/event/making-the-magic-leap-past-nvidia-s-secure-bootchain-and-breaking-some-tesla-autopilots-along-the-way)
 
 ## [Archives](archives/index.md)
 
