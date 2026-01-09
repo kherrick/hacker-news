@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-01-09](index.md)
 
+* [2026-01-09, 09:34:54](https://news.ycombinator.com/item?id=46551855) - [Surveillance Watch – a map that shows connections between surveillance companies](https://www.surveillancewatch.io)
 * [2026-01-09, 08:10:31](https://news.ycombinator.com/item?id=46551238) - [Grok turns off image generator for most after outcry over sexualised AI imagery](https://www.theguardian.com/technology/2026/jan/09/grok-image-generator-outcry-sexualised-ai-imagery)
 * [2026-01-09, 07:38:30](https://news.ycombinator.com/item?id=46551044) - [What Happened to WebAssembly](https://emnudge.dev/blog/what-happened-to-webassembly/)
 * [2026-01-09, 07:09:39](https://news.ycombinator.com/item?id=46550912) - [European Commission issues call for evidence on open source](https://lwn.net/Articles/1053107/)

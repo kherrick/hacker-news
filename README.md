@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-01-09, 08:10:31](https://news.ycombinator.com/item?id=46551238) - [Grok turns off image generator for most after outcry over sexualised AI imagery](https://www.theguardian.com/technology/2026/jan/09/grok-image-generator-outcry-sexualised-ai-imagery)
+* [2026-01-09, 09:34:54](https://news.ycombinator.com/item?id=46551855) - [Surveillance Watch – a map that shows connections between surveillance companies](https://www.surveillancewatch.io)
 * [2026-01-09, 07:38:30](https://news.ycombinator.com/item?id=46551044) - [What Happened to WebAssembly](https://emnudge.dev/blog/what-happened-to-webassembly/)
 * [2026-01-09, 07:09:39](https://news.ycombinator.com/item?id=46550912) - [European Commission issues call for evidence on open source](https://lwn.net/Articles/1053107/)
 * [2026-01-09, 07:06:41](https://news.ycombinator.com/item?id=46550895) - [Mathematics for Computer Science (2018) [pdf]](https://courses.csail.mit.edu/6.042/spring18/mcs.pdf)
@@ -11,7 +11,6 @@
 * [2026-01-09, 01:17:51](https://news.ycombinator.com/item?id=46548940) - [Why I left iNaturalist](https://kueda.net/blog/2026/01/06/why-i-left-inat/)
 * [2026-01-08, 23:00:45](https://news.ycombinator.com/item?id=46547740) - [Embassy: Modern embedded framework, using Rust and async](https://github.com/embassy-rs/embassy)
 * [2026-01-08, 21:17:26](https://news.ycombinator.com/item?id=46546614) - [Richard D. James aka Aphex Twin speaks to Tatsuya Takahashi (2017)](https://web.archive.org/web/20180719052026/http://item.warp.net/interview/aphex-twin-speaks-to-tatsuya-takahashi/)
-* [2026-01-08, 21:01:36](https://news.ycombinator.com/item?id=46546413) - [Mux (YC W16) is hiring a platform engineer that cares about (internal) DX](https://www.mux.com/jobs)
 * [2026-01-08, 20:37:07](https://news.ycombinator.com/item?id=46546113) - [Sopro TTS: A 169M model with zero-shot voice cloning that runs on the CPU](https://github.com/samuel-vitorino/sopro)
 * [2026-01-08, 19:54:26](https://news.ycombinator.com/item?id=46545620) - [How to Code Claude Code in 200 Lines of Code](https://www.mihaileric.com/The-Emperor-Has-No-Clothes/)
 * [2026-01-08, 19:09:23](https://news.ycombinator.com/item?id=46545077) - [Google AI Studio is now sponsoring Tailwind CSS](https://twitter.com/OfficialLoganK/status/2009339263251566902)
@@ -24,12 +23,13 @@
 * [2026-01-08, 13:02:05](https://news.ycombinator.com/item?id=46540498) - [The Jeff Dean Facts](https://github.com/LRitzdorf/TheJeffDeanFacts)
 * [2026-01-08, 04:39:55](https://news.ycombinator.com/item?id=46537253) - [Ushikuvirus: Newly discovered virus may offer clues to the origin of eukaryotes](https://www.tus.ac.jp/en/mediarelations/archive/20251219_9539.html)
 * [2026-01-06, 06:34:45](https://news.ycombinator.com/item?id=46509376) - [Mysterious Victorian-era shoes are washing up on a beach in wales](https://www.smithsonianmag.com/smart-news/hundreds-of-mysterious-victorian-era-shoes-are-washing-up-on-a-beach-in-wales-nobody-knows-where-they-came-from-180987943/)
-* [2026-01-05, 12:26:39](https://news.ycombinator.com/item?id=46497989) - [On Getting Hacked](https://ahmeto.com/post/on-getting-hacked)
 * [2026-01-04, 16:05:08](https://news.ycombinator.com/item?id=46489232) - [Hacking a Casio F-91W digital watch (2023)](https://medium.com/infosec-watchtower/how-i-hacked-casio-f-91w-digital-watch-892bd519bd15)
 * [2026-01-04, 09:58:36](https://news.ycombinator.com/item?id=46486545) - [Samba Was Written (2003)](https://download.samba.org/pub/tridge/misc/french_cafe.txt)
+* [2026-01-03, 23:21:26](https://news.ycombinator.com/item?id=46482844) - [Pole of Inaccessibility](https://en.wikipedia.org/wiki/Pole_of_inaccessibility)
 * [2026-01-02, 22:32:35](https://news.ycombinator.com/item?id=46470293) - [1M for Non-Specialists: Introduction](https://pithlessly.github.io/1ml-intro)
 * [2026-01-02, 16:31:18](https://news.ycombinator.com/item?id=46466438) - [Systematically Improving Espresso: Mathematical Modeling and Experiment (2020)](https://www.cell.com/matter/fulltext/S2590-2385(19)30410-2)
 * [2026-01-02, 05:56:47](https://news.ycombinator.com/item?id=46461862) - [Photographing the hidden world of slime mould](https://www.bbc.com/news/articles/c9d9409p76qo)
+* [2026-01-01, 13:58:45](https://news.ycombinator.com/item?id=46454160) - [Making Magic Leap past Nvidia's secure bootchain and breaking Tesla Autopilots](https://fahrplan.events.ccc.de/congress/2025/fahrplan/event/making-the-magic-leap-past-nvidia-s-secure-bootchain-and-breaking-some-tesla-autopilots-along-the-way)
 
 ## [Archives](archives/index.md)
 
