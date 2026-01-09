@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-01-09, 13:27:43",
+      "https://news.ycombinator.com/item?id=46553599"
+    ],
+    [
+      "Iran vows regime will \"not back down\" as web blackout continues",
+      "https://www.cbsnews.com/news/iran-protests-internet-blackout-khamenei-vows-not-back-down-trump-threat/"
+    ]
+  ],
+  [
+    [
       "2026-01-09, 07:38:30",
       "https://news.ycombinator.com/item?id=46551044"
     ],
@@ -27,16 +37,6 @@
     [
       "Mathematics for Computer Science (2018) [pdf]",
       "https://courses.csail.mit.edu/6.042/spring18/mcs.pdf"
-    ]
-  ],
-  [
-    [
-      "2026-01-09, 05:01:24",
-      "https://news.ycombinator.com/item?id=46550231"
-    ],
-    [
-      "The No Fakes Act has a “fingerprinting” trap that kills open source?",
-      "https://old.reddit.com/r/LocalLLaMA/comments/1q7qcux/the_no_fakes_act_has_a_fingerprinting_trap_that/"
     ]
   ],
   [
@@ -91,6 +91,16 @@
   ],
   [
     [
+      "2026-01-08, 21:01:36",
+      "https://news.ycombinator.com/item?id=46546413"
+    ],
+    [
+      "Mux (YC W16) is hiring a platform engineer that cares about (internal) DX",
+      "https://www.mux.com/jobs"
+    ]
+  ],
+  [
+    [
       "2026-01-08, 20:37:07",
       "https://news.ycombinator.com/item?id=46546113"
     ],
@@ -137,16 +147,6 @@
     [
       "Fixing a Buffer Overflow in Unix v4 Like It's 1973",
       "https://sigma-star.at/blog/2025/12/unix-v4-buffer-overflow/"
-    ]
-  ],
-  [
-    [
-      "2026-01-08, 18:24:17",
-      "https://news.ycombinator.com/item?id=46544524"
-    ],
-    [
-      "Show HN: macOS menu bar app to track Claude usage in real time",
-      "https://github.com/richhickson/claudecodeusage"
     ]
   ],
   [
