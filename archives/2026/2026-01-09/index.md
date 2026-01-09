@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-01-09](index.md)
 
+* [2026-01-09, 13:27:43](https://news.ycombinator.com/item?id=46553599) - [Iran vows regime will \"not back down\" as web blackout continues](https://www.cbsnews.com/news/iran-protests-internet-blackout-khamenei-vows-not-back-down-trump-threat/)
 * [2026-01-09, 10:27:11](https://news.ycombinator.com/item?id=46552254) - [MCP Is a Fad](https://tombedor.dev/mcp-is-a-fad/)
 * [2026-01-09, 09:34:54](https://news.ycombinator.com/item?id=46551855) - [Surveillance Watch – a map that shows connections between surveillance companies](https://www.surveillancewatch.io)
 * [2026-01-09, 08:10:31](https://news.ycombinator.com/item?id=46551238) - [Grok turns off image generator for most after outcry over sexualised AI imagery](https://www.theguardian.com/technology/2026/jan/09/grok-image-generator-outcry-sexualised-ai-imagery)
