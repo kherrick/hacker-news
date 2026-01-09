@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-01-09, 18:15:16",
+      "https://news.ycombinator.com/item?id=46557029"
+    ],
+    [
+      "Show HN: Scroll Wikipedia like TikTok",
+      "https://quack.sdan.io"
+    ]
+  ],
+  [
+    [
       "2026-01-09, 18:00:56",
       "https://news.ycombinator.com/item?id=46556822"
     ],
@@ -41,16 +51,6 @@
   ],
   [
     [
-      "2026-01-09, 16:36:48",
-      "https://news.ycombinator.com/item?id=46555615"
-    ],
-    [
-      "Why is SendGrid emailing me about supporting ICE?",
-      "https://fredbenenson.com/blog/2026/01/09/why-is-sendgrid-emailing-me-about-supporting-ice/"
-    ]
-  ],
-  [
-    [
       "2026-01-09, 16:27:19",
       "https://news.ycombinator.com/item?id=46555512"
     ],
@@ -77,6 +77,16 @@
     [
       "Developers Are Solving the Wrong Problem",
       "https://caseysoftware.com/blog/developers-are-solving-the-wrong-problem"
+    ]
+  ],
+  [
+    [
+      "2026-01-09, 15:07:17",
+      "https://news.ycombinator.com/item?id=46554652"
+    ],
+    [
+      "How to store a chess position in 26 bytes",
+      "https://ezzeriesa.notion.site/How-to-store-a-chess-position-in-26-bytes-using-bit-level-magic-df1fdb5364eb42fdac11eb23b25e9605"
     ]
   ],
   [
@@ -121,12 +131,32 @@
   ],
   [
     [
-      "2026-01-09, 02:29:12",
-      "https://news.ycombinator.com/item?id=46549444"
+      "2026-01-09, 05:44:58",
+      "https://news.ycombinator.com/item?id=46550453"
     ],
     [
-      "Show HN: Executable Markdown files with Unix pipes",
-      "https://news.ycombinator.com/item?id=46549444"
+      "Agonist-Antagonist Myoneural Interface",
+      "https://www.media.mit.edu/projects/agonist-antagonist-myoneural-interface-ami/overview/"
+    ]
+  ],
+  [
+    [
+      "2026-01-09, 02:13:01",
+      "https://news.ycombinator.com/item?id=46549333"
+    ],
+    [
+      "Show HN: Various shape regularization algorithms",
+      "https://github.com/nickponline/shreg"
+    ]
+  ],
+  [
+    [
+      "2026-01-08, 23:24:30",
+      "https://news.ycombinator.com/item?id=46547962"
+    ],
+    [
+      "Scientists discover oldest poison, on 60k-year-old arrows",
+      "https://www.nytimes.com/2026/01/07/science/poison-arrows-south-africa.html"
     ]
   ],
   [
@@ -171,36 +201,6 @@
   ],
   [
     [
-      "2026-01-08, 19:00:28",
-      "https://news.ycombinator.com/item?id=46544981"
-    ],
-    [
-      "The unreasonable effectiveness of the Fourier transform",
-      "https://joshuawise.com/resources/ofdm/"
-    ]
-  ],
-  [
-    [
-      "2026-01-08, 18:05:02",
-      "https://news.ycombinator.com/item?id=46544276"
-    ],
-    [
-      "Replit founder Amjad Masad isn’t afraid of Silicon Valley",
-      "https://sfstandard.com/2026/01/07/called-terrorist-sympathizer-now-ai-company-valued-3b/"
-    ]
-  ],
-  [
-    [
-      "2026-01-08, 15:20:15",
-      "https://news.ycombinator.com/item?id=46542036"
-    ],
-    [
-      "AI coding assistants are getting worse?",
-      "https://spectrum.ieee.org/ai-coding-degrades"
-    ]
-  ],
-  [
-    [
       "2026-01-08, 15:07:57",
       "https://news.ycombinator.com/item?id=46541892"
     ],
@@ -217,6 +217,16 @@
     [
       "The Jeff Dean Facts",
       "https://github.com/LRitzdorf/TheJeffDeanFacts"
+    ]
+  ],
+  [
+    [
+      "2026-01-07, 09:57:33",
+      "https://news.ycombinator.com/item?id=46524519"
+    ],
+    [
+      "CI-Hush",
+      "https://gitlab.com/jjg/ci-hush"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Linux Runs on Raspberry Pi RP2350's Hazard3 RISC-V Cores (2024)",
       "https://www.hackster.io/news/jesse-taube-gets-linux-up-and-running-on-the-raspberry-pi-rp2350-s-hazard3-risc-v-cores-19088b87bb2c"
-    ]
-  ],
-  [
-    [
-      "2026-01-02, 05:56:47",
-      "https://news.ycombinator.com/item?id=46461862"
-    ],
-    [
-      "Photographing the hidden world of slime mould",
-      "https://www.bbc.com/news/articles/c9d9409p76qo"
     ]
   ]
 ]
