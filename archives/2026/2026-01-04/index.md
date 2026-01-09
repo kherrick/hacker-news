@@ -35,6 +35,7 @@
 * [2026-01-04, 17:50:04](https://news.ycombinator.com/item?id=46490323) - [Ripple, a puzzle game about 2nd and 3rd order effects](https://ripplegame.app/)
 * [2026-01-04, 17:01:43](https://news.ycombinator.com/item?id=46489830) - [Trellis AI (YC W24) is hiring engineers to build AI agents for healthcare access](https://www.ycombinator.com/companies/trellis-ai/jobs/ngvfeaq-member-of-technical-staff-full-time)
 * [2026-01-04, 16:45:31](https://news.ycombinator.com/item?id=46489657) - [Recent Optimizations in Python's Reference Counting](https://rushter.com/blog/python-refcount/)
+* [2026-01-04, 16:32:13](https://news.ycombinator.com/item?id=46489514) - [How Will the Miracle Happen Today?](https://kk.org/thetechnium/how-will-the-miracle-happen-today/)
 * [2026-01-04, 16:08:27](https://news.ycombinator.com/item?id=46489273) - [The ISEE Trajectories](https://www.drmindle.com/isee/)
 * [2026-01-04, 16:05:08](https://news.ycombinator.com/item?id=46489232) - [I hacked Casio F-91W digital watch](https://medium.com/infosec-watchtower/how-i-hacked-casio-f-91w-digital-watch-892bd519bd15)
 * [2026-01-04, 15:31:07](https://news.ycombinator.com/item?id=46488883) - [Adding insular script like it's 1626](https://www.djmurphy.net/blog/clo-gaelach/)
