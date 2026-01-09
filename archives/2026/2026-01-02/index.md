@@ -13,6 +13,7 @@
 * [2026-01-02, 23:01:10](https://news.ycombinator.com/item?id=46470571) - [NY Fed cash transfers to banks increase dramatically in Q4 2025](https://www.dcreport.org/2025/12/29/ny-fed-unlimited-cash-infusions-bank-crisis/)
 * [2026-01-02, 22:53:53](https://news.ycombinator.com/item?id=46470513) - [The Lottery Ticket Hypothesis: finding sparse trainable NNs with 90% less params](https://arxiv.org/abs/1803.03635)
 * [2026-01-02, 22:35:05](https://news.ycombinator.com/item?id=46470317) - [Grok Sexual Images Draw Rebuke, France Flags Content as Illegal](https://finance.yahoo.com/news/grok-sexual-images-draw-rebuke-180354505.html)
+* [2026-01-02, 22:32:35](https://news.ycombinator.com/item?id=46470293) - [1M for Non-Specialists: Introduction](https://pithlessly.github.io/1ml-intro)
 * [2026-01-02, 22:16:12](https://news.ycombinator.com/item?id=46470115) - [Show HN: Open-source AI workflows with read-only auth scopes](https://github.com/seer-engg/seer)
 * [2026-01-02, 22:07:50](https://news.ycombinator.com/item?id=46470017) - [The creator of Claude Code's Claude setup](https://twitter.com/bcherny/status/2007179832300581177)
 * [2026-01-02, 21:54:56](https://news.ycombinator.com/item?id=46469877) - [I charged $18k for a Static HTML Page (2019)](https://idiallo.com/blog/18000-dollars-static-web-page)
