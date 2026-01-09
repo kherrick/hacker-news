@@ -1,14 +1,13 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-01-09, 10:27:11](https://news.ycombinator.com/item?id=46552254) - [MCP Is a Fad](https://tombedor.dev/mcp-is-a-fad/)
-* [2026-01-09, 09:34:54](https://news.ycombinator.com/item?id=46551855) - [Surveillance Watch – a map that shows connections between surveillance companies](https://www.surveillancewatch.io)
+* [2026-01-09, 10:27:11](https://news.ycombinator.com/item?id=46552254) - [MCP is a fad](https://tombedor.dev/mcp-is-a-fad/)
+* [2026-01-09, 09:34:54](https://news.ycombinator.com/item?id=46551855) - [Surveillance Watch – A map that shows connections between surveillance companies](https://www.surveillancewatch.io)
 * [2026-01-09, 07:38:30](https://news.ycombinator.com/item?id=46551044) - [What Happened to WebAssembly](https://emnudge.dev/blog/what-happened-to-webassembly/)
 * [2026-01-09, 07:09:39](https://news.ycombinator.com/item?id=46550912) - [European Commission issues call for evidence on open source](https://lwn.net/Articles/1053107/)
 * [2026-01-09, 07:06:41](https://news.ycombinator.com/item?id=46550895) - [Mathematics for Computer Science (2018) [pdf]](https://courses.csail.mit.edu/6.042/spring18/mcs.pdf)
 * [2026-01-09, 06:43:27](https://news.ycombinator.com/item?id=46550777) - [Do not mistake a resilient global economy for populist success](https://www.economist.com/leaders/2026/01/08/do-not-mistake-a-resilient-global-economy-for-populist-success)
 * [2026-01-09, 05:01:24](https://news.ycombinator.com/item?id=46550231) - [The No Fakes Act has a “fingerprinting” trap that kills open source?](https://old.reddit.com/r/LocalLLaMA/comments/1q7qcux/the_no_fakes_act_has_a_fingerprinting_trap_that/)
 * [2026-01-09, 03:44:35](https://news.ycombinator.com/item?id=46549823) - [Anthropic blocks third-party use of Claude Code subscriptions](https://github.com/anomalyco/opencode/issues/7410)
-* [2026-01-09, 01:39:52](https://news.ycombinator.com/item?id=46549105) - [Logistics Is Dying; Or – Dude, Where's My Mail?](https://lagomor.ph/2026/01/logistics-is-dying-or-dude-wheres-my-mail/)
 * [2026-01-09, 01:17:51](https://news.ycombinator.com/item?id=46548940) - [Why I left iNaturalist](https://kueda.net/blog/2026/01/06/why-i-left-inat/)
 * [2026-01-08, 23:00:45](https://news.ycombinator.com/item?id=46547740) - [Embassy: Modern embedded framework, using Rust and async](https://github.com/embassy-rs/embassy)
 * [2026-01-08, 21:17:26](https://news.ycombinator.com/item?id=46546614) - [Richard D. James aka Aphex Twin speaks to Tatsuya Takahashi (2017)](https://web.archive.org/web/20180719052026/http://item.warp.net/interview/aphex-twin-speaks-to-tatsuya-takahashi/)
@@ -30,6 +29,7 @@
 * [2026-01-02, 22:32:35](https://news.ycombinator.com/item?id=46470293) - [1M for Non-Specialists: Introduction](https://pithlessly.github.io/1ml-intro)
 * [2026-01-02, 16:31:18](https://news.ycombinator.com/item?id=46466438) - [Systematically Improving Espresso: Mathematical Modeling and Experiment (2020)](https://www.cell.com/matter/fulltext/S2590-2385(19)30410-2)
 * [2026-01-02, 05:56:47](https://news.ycombinator.com/item?id=46461862) - [Photographing the hidden world of slime mould](https://www.bbc.com/news/articles/c9d9409p76qo)
+* [2026-01-01, 13:58:45](https://news.ycombinator.com/item?id=46454160) - [Making Magic Leap past Nvidia's secure bootchain and breaking Tesla Autopilots](https://fahrplan.events.ccc.de/congress/2025/fahrplan/event/making-the-magic-leap-past-nvidia-s-secure-bootchain-and-breaking-some-tesla-autopilots-along-the-way)
 
 ## [Archives](archives/index.md)
 
