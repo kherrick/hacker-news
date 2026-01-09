@@ -79,6 +79,7 @@
 * [2026-01-02, 08:05:02](https://news.ycombinator.com/item?id=46462531) - [Ask HN: How do I help a colleague who introduces a lot of typos?](https://news.ycombinator.com/item?id=46462531)
 * [2026-01-02, 07:04:14](https://news.ycombinator.com/item?id=46462188) - [Show HN: I built \"Google\" for searching Shadcn blocks on the web](https://shoogle.dev/)
 * [2026-01-02, 06:48:32](https://news.ycombinator.com/item?id=46462108) - [FreeBSD: Home NAS, part 1 – configuring ZFS mirror (RAID1)](https://rtfm.co.ua/en/freebsd-home-nas-part-1-configuring-zfs-mirror-raid1/)
+* [2026-01-02, 05:56:47](https://news.ycombinator.com/item?id=46461862) - [Photographing the hidden world of slime mould](https://www.bbc.com/news/articles/c9d9409p76qo)
 * [2026-01-02, 05:39:13](https://news.ycombinator.com/item?id=46461778) - [Real Biological Clock Is You're Going to Die](https://hmmdaily.com/2018/10/18/your-real-biological-clock-is-youre-going-to-die/)
 * [2026-01-02, 05:00:25](https://news.ycombinator.com/item?id=46461578) - [A confession from a mainstream food delivery app engineer](https://www.reddit.com/r/confession/s/gbrh2zxeou)
 * [2026-01-02, 04:57:25](https://news.ycombinator.com/item?id=46461563) - [I'm a developer for a major food delivery app](https://old.reddit.com/r/confession/comments/1q1mzej/im_a_developer_for_a_major_food_delivery_app_the/)
