@@ -4,12 +4,15 @@
 
 ### [Archives](../../index.md) for [2026-01-09](index.md)
 
+* [2026-01-09, 18:00:56](https://news.ycombinator.com/item?id=46556822) - [Replit (YC W18) Is Hiring](https://jobs.ashbyhq.com/replit)
 * [2026-01-09, 17:17:28](https://news.ycombinator.com/item?id=46556210) - [Show HN: I made a memory game to teach you to play piano by ear](https://lend-me-your-ears.specr.net)
 * [2026-01-09, 17:01:02](https://news.ycombinator.com/item?id=46555977) - [IcePanel (YC W23) is hiring full-stack engineers in Vancouver](https://forms.icepanel.io/careers/senior-product-engineer)
 * [2026-01-09, 17:00:11](https://news.ycombinator.com/item?id=46555963) - [The Vietnam government has banned rooted phones from using any banking app](https://xdaforums.com/t/discussion-the-root-and-mod-hiding-fingerprint-spoofing-keybox-stealing-cat-and-mouse-game.4425939/page-118)
 * [2026-01-09, 16:46:48](https://news.ycombinator.com/item?id=46555760) - [Cloudflare CEO on the Italy Fines](https://twitter.com/eastdakota/status/2009654937303896492)
+* [2026-01-09, 16:36:48](https://news.ycombinator.com/item?id=46555615) - [Why is SendGrid emailing me about supporting ICE?](https://fredbenenson.com/blog/2026/01/09/why-is-sendgrid-emailing-me-about-supporting-ice/)
 * [2026-01-09, 16:27:19](https://news.ycombinator.com/item?id=46555512) - [Latest SteamOS Beta Now Includes Ntsync Kernel Driver](https://www.phoronix.com/news/Steam-OS-Beta-NTSYNC)
 * [2026-01-09, 16:23:44](https://news.ycombinator.com/item?id=46555485) - [Cloudspecs: Cloud Hardware Evolution Through the Looking Glass](http://muratbuffalo.blogspot.com/2026/01/cloudspecs-cloud-hardware-evolution.html)
+* [2026-01-09, 16:05:59](https://news.ycombinator.com/item?id=46555302) - [Developers Are Solving the Wrong Problem](https://caseysoftware.com/blog/developers-are-solving-the-wrong-problem)
 * [2026-01-09, 14:50:48](https://news.ycombinator.com/item?id=46554462) - [London–Calcutta Bus Service](https://en.wikipedia.org/wiki/London%E2%80%93Calcutta_bus_service)
 * [2026-01-09, 14:38:57](https://news.ycombinator.com/item?id=46554307) - [ICE Is What Happens When America Refuses to Learn from Black History](https://jemartisby.substack.com/p/ice-is-what-happens-when-america)
 * [2026-01-09, 14:12:18](https://news.ycombinator.com/item?id=46554013) - [Show HN: Free noise evidence generator for tenant complaints](https://noiseevidence.com/)
