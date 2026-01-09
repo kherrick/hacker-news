@@ -1,12 +1,32 @@
 [
   [
     [
+      "2026-01-09, 20:21:51",
+      "https://news.ycombinator.com/item?id=46558794"
+    ],
+    [
+      "Iran's complete Internet shutdown reaches 24 hours",
+      "https://mastodon.social/@netblocks/115866066884567356"
+    ]
+  ],
+  [
+    [
       "2026-01-09, 20:17:07",
       "https://news.ycombinator.com/item?id=46558739"
     ],
     [
       "QtNat – Open you port with Qt UPnP",
       "http://renaudguezennec.eu/index.php/2026/01/09/qtnat-open-you-port-with-qt/"
+    ]
+  ],
+  [
+    [
+      "2026-01-09, 19:33:47",
+      "https://news.ycombinator.com/item?id=46558148"
+    ],
+    [
+      "RTX 5090 and Raspberry Pi: Can It Game?",
+      "https://scottjg.com/posts/2026-01-08-crappy-computer-showdown/"
     ]
   ],
   [
@@ -47,16 +67,6 @@
     [
       "Exercise can be nearly as effective as therapy for depression",
       "https://www.sciencedaily.com/releases/2026/01/260107225516.htm"
-    ]
-  ],
-  [
-    [
-      "2026-01-09, 18:17:24",
-      "https://news.ycombinator.com/item?id=46557057"
-    ],
-    [
-      "AI Zealotry",
-      "https://matthewrocklin.com/ai-zealotry/"
     ]
   ],
   [
@@ -151,32 +161,12 @@
   ],
   [
     [
-      "2026-01-09, 15:07:17",
-      "https://news.ycombinator.com/item?id=46554652"
-    ],
-    [
-      "How to store a chess position in 26 bytes (2022)",
-      "https://ezzeriesa.notion.site/How-to-store-a-chess-position-in-26-bytes-using-bit-level-magic-df1fdb5364eb42fdac11eb23b25e9605"
-    ]
-  ],
-  [
-    [
       "2026-01-09, 14:50:48",
       "https://news.ycombinator.com/item?id=46554462"
     ],
     [
       "London–Calcutta Bus Service",
       "https://en.wikipedia.org/wiki/London%E2%80%93Calcutta_bus_service"
-    ]
-  ],
-  [
-    [
-      "2026-01-09, 12:54:48",
-      "https://news.ycombinator.com/item?id=46553343"
-    ],
-    [
-      "Kagi releases alpha version of Orion for Linux",
-      "https://help.kagi.com/orion/misc/linux-status.html"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Linux Runs on Raspberry Pi RP2350's Hazard3 RISC-V Cores (2024)",
       "https://www.hackster.io/news/jesse-taube-gets-linux-up-and-running-on-the-raspberry-pi-rp2350-s-hazard3-risc-v-cores-19088b87bb2c"
+    ]
+  ],
+  [
+    [
+      "2026-01-03, 15:36:27",
+      "https://news.ycombinator.com/item?id=46477842"
+    ],
+    [
+      "Show HN : A game to document my electronics learning journey.",
+      "https://jeevan.life/theapplefalls/"
     ]
   ]
 ]
