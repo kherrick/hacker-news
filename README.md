@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-01-09, 06:43:27](https://news.ycombinator.com/item?id=46550777) - [Do not mistake a resilient global economy for populist success](https://www.economist.com/leaders/2026/01/08/do-not-mistake-a-resilient-global-economy-for-populist-success)
 * [2026-01-09, 05:01:24](https://news.ycombinator.com/item?id=46550231) - [The No Fakes Act Has a \"Fingerprinting\" Trap That Kills Open Source](https://old.reddit.com/r/LocalLLaMA/comments/1q7qcux/the_no_fakes_act_has_a_fingerprinting_trap_that/)
 * [2026-01-09, 03:44:35](https://news.ycombinator.com/item?id=46549823) - [Anthropic blocks third-party use of Claude Code subscriptions](https://github.com/anomalyco/opencode/issues/7410)
 * [2026-01-09, 02:29:12](https://news.ycombinator.com/item?id=46549444) - [Show HN: Executable Markdown files with Unix pipes](https://news.ycombinator.com/item?id=46549444)
@@ -12,7 +13,6 @@
 * [2026-01-08, 20:56:32](https://news.ycombinator.com/item?id=46546349) - [Show HN: A geofence-based social network app 6 years in development](https://www.localvideoapp.com)
 * [2026-01-08, 20:37:07](https://news.ycombinator.com/item?id=46546113) - [Sopro TTS: A 169M model with zero-shot voice cloning that runs on the CPU](https://github.com/samuel-vitorino/sopro)
 * [2026-01-08, 19:54:26](https://news.ycombinator.com/item?id=46545620) - [How to Code Claude Code in 200 Lines of Code](https://www.mihaileric.com/The-Emperor-Has-No-Clothes/)
-* [2026-01-08, 19:51:47](https://news.ycombinator.com/item?id=46545587) - [Task-free intelligence testing of LLMs](https://www.marble.onl/posts/tapping/index.html)
 * [2026-01-08, 19:09:23](https://news.ycombinator.com/item?id=46545077) - [Google AI Studio is now sponsoring Tailwind CSS](https://twitter.com/OfficialLoganK/status/2009339263251566902)
 * [2026-01-08, 19:00:28](https://news.ycombinator.com/item?id=46544981) - [The Unreasonable Effectiveness of the Fourier Transform](https://joshuawise.com/resources/ofdm/)
 * [2026-01-08, 18:29:47](https://news.ycombinator.com/item?id=46544610) - [Fixing a Buffer Overflow in Unix v4 Like It's 1973](https://sigma-star.at/blog/2025/12/unix-v4-buffer-overflow/)
