@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-01-09](index.md)
 
+* [2026-01-09, 05:01:24](https://news.ycombinator.com/item?id=46550231) - [The No Fakes Act Has a \"Fingerprinting\" Trap That Kills Open Source](https://old.reddit.com/r/LocalLLaMA/comments/1q7qcux/the_no_fakes_act_has_a_fingerprinting_trap_that/)
 * [2026-01-09, 04:14:05](https://news.ycombinator.com/item?id=46549965) - [Remote Job](https://github.com/lukasz-madon/awesome-remote-job)
 * [2026-01-09, 03:44:35](https://news.ycombinator.com/item?id=46549823) - [Anthropic bans use of API in OpenCode CLI tool](https://github.com/anomalyco/opencode/issues/7410)
 * [2026-01-09, 02:29:12](https://news.ycombinator.com/item?id=46549444) - [Show HN: Executable Markdown files with Unix pipes](https://news.ycombinator.com/item?id=46549444)

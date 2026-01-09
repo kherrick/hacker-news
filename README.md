@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-01-09, 05:01:24](https://news.ycombinator.com/item?id=46550231) - [The No Fakes Act Has a \"Fingerprinting\" Trap That Kills Open Source](https://old.reddit.com/r/LocalLLaMA/comments/1q7qcux/the_no_fakes_act_has_a_fingerprinting_trap_that/)
 * [2026-01-09, 04:14:05](https://news.ycombinator.com/item?id=46549965) - [Remote Job](https://github.com/lukasz-madon/awesome-remote-job)
 * [2026-01-09, 03:44:35](https://news.ycombinator.com/item?id=46549823) - [Anthropic blocks third-party use of Claude Code subscriptions](https://github.com/anomalyco/opencode/issues/7410)
-* [2026-01-09, 02:29:12](https://news.ycombinator.com/item?id=46549444) - [Show HN: Executable Markdown files with Unix pipes](https://news.ycombinator.com/item?id=46549444)
 * [2026-01-09, 01:39:52](https://news.ycombinator.com/item?id=46549105) - [Logistics Is Dying; Or – Dude, Where's My Mail?](https://lagomor.ph/2026/01/logistics-is-dying-or-dude-wheres-my-mail/)
 * [2026-01-09, 01:17:51](https://news.ycombinator.com/item?id=46548940) - [Why I Left iNaturalist](https://kueda.net/blog/2026/01/06/why-i-left-inat/)
 * [2026-01-08, 23:00:45](https://news.ycombinator.com/item?id=46547740) - [Embassy: Modern embedded framework, using Rust and async](https://github.com/embassy-rs/embassy)
@@ -24,7 +24,7 @@
 * [2026-01-08, 04:39:55](https://news.ycombinator.com/item?id=46537253) - [Ushikuvirus: Newly discovered virus may offer clues to the origin of eukaryotes](https://www.tus.ac.jp/en/mediarelations/archive/20251219_9539.html)
 * [2026-01-07, 15:46:07](https://news.ycombinator.com/item?id=46527706) - [Dell admits consumers don't care about AI PCs](https://www.pcgamer.com/hardware/dells-ces-2026-chat-was-the-most-pleasingly-un-ai-briefing-ive-had-in-maybe-5-years/)
 * [2026-01-05, 18:02:53](https://news.ycombinator.com/item?id=46502269) - [I used Lego to design a farm for people who are blind – like me](https://www.bbc.co.uk/news/articles/c4g4zlyqnr0o)
-* [2026-01-04, 16:05:08](https://news.ycombinator.com/item?id=46489232) - [I hacked Casio F-91W digital watch](https://medium.com/infosec-watchtower/how-i-hacked-casio-f-91w-digital-watch-892bd519bd15)
+* [2026-01-04, 16:05:08](https://news.ycombinator.com/item?id=46489232) - [Hacking a Casio F-91W digital watch (2023)](https://medium.com/infosec-watchtower/how-i-hacked-casio-f-91w-digital-watch-892bd519bd15)
 * [2026-01-04, 05:09:47](https://news.ycombinator.com/item?id=46485130) - [Learning to Play Tic-Tac-Toe with Jax](https://joe-antognini.github.io/ml/jax-tic-tac-toe)
 * [2026-01-03, 23:21:26](https://news.ycombinator.com/item?id=46482844) - [Pole of Inaccessibility](https://en.wikipedia.org/wiki/Pole_of_inaccessibility)
 * [2026-01-03, 19:38:38](https://news.ycombinator.com/item?id=46480664) - [Anti-cheat evolution in Windows 11](https://www.andrea-allievi.com/blog/new-year-post-anti-cheat-evolution-in-windows-11/)
