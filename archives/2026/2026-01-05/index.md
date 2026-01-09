@@ -62,6 +62,7 @@
 * [2026-01-05, 13:44:59](https://news.ycombinator.com/item?id=46498651) - [All AI Videos Are Harmful (2025)](https://idiallo.com/blog/all-ai-videos-are-harmful)
 * [2026-01-05, 13:18:26](https://news.ycombinator.com/item?id=46498430) - [The Rise of Computer Games, Part II: Digitizing Nerddom](https://technicshistory.com/2026/01/02/the-rise-of-computer-games-part-ii-digitizing-nerddom/)
 * [2026-01-05, 13:02:52](https://news.ycombinator.com/item?id=46498309) - [Jensen: 'We've Done Our Country a Great Disservice' by Offshoring](https://www.barchart.com/story/news/36862423/weve-done-our-country-a-great-disservice-by-offshoring-nvidias-jensen-huang-says-we-have-to-create-prosperity-for-all-not-just-phds)
+* [2026-01-05, 12:26:39](https://news.ycombinator.com/item?id=46497989) - [On Getting Hacked](https://ahmeto.com/post/on-getting-hacked)
 * [2026-01-05, 11:51:42](https://news.ycombinator.com/item?id=46497712) - [It's hard to justify Tahoe icons](https://tonsky.me/blog/tahoe-icons/)
 * [2026-01-05, 11:32:58](https://news.ycombinator.com/item?id=46497589) - [Cigarette smoke effect using shaders](https://garden.bradwoods.io/notes/javascript/three-js/shaders/shaders-103-smoke)
 * [2026-01-05, 10:23:32](https://news.ycombinator.com/item?id=46497164) - [Anna's Archive Loses .Org Domain After Surprise Suspension](https://torrentfreak.com/annas-archive-loses-org-domain-after-surprise-suspension/)
