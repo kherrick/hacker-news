@@ -51,16 +51,6 @@
   ],
   [
     [
-      "2026-01-09, 06:43:27",
-      "https://news.ycombinator.com/item?id=46550777"
-    ],
-    [
-      "Do not mistake a resilient global economy for populist success",
-      "https://www.economist.com/leaders/2026/01/08/do-not-mistake-a-resilient-global-economy-for-populist-success"
-    ]
-  ],
-  [
-    [
       "2026-01-09, 05:01:24",
       "https://news.ycombinator.com/item?id=46550231"
     ],
@@ -107,6 +97,16 @@
     [
       "Richard D. James aka Aphex Twin speaks to Tatsuya Takahashi (2017)",
       "https://web.archive.org/web/20180719052026/http://item.warp.net/interview/aphex-twin-speaks-to-tatsuya-takahashi/"
+    ]
+  ],
+  [
+    [
+      "2026-01-08, 21:01:36",
+      "https://news.ycombinator.com/item?id=46546413"
+    ],
+    [
+      "Mux (YC W16) is hiring a platform engineer that cares about (internal) DX",
+      "https://www.mux.com/jobs"
     ]
   ],
   [
@@ -261,11 +261,21 @@
   ],
   [
     [
+      "2026-01-03, 16:34:38",
+      "https://news.ycombinator.com/item?id=46478558"
+    ],
+    [
+      "Linux Runs on Raspberry Pi RP2350's Hazard3 RISC-V Cores (2024)",
+      "https://www.hackster.io/news/jesse-taube-gets-linux-up-and-running-on-the-raspberry-pi-rp2350-s-hazard3-risc-v-cores-19088b87bb2c"
+    ]
+  ],
+  [
+    [
       "2026-01-02, 22:32:35",
       "https://news.ycombinator.com/item?id=46470293"
     ],
     [
-      "1M for Non-Specialists: Introduction",
+      "1ML for non-specialists: introduction",
       "https://pithlessly.github.io/1ml-intro"
     ]
   ],
@@ -287,16 +297,6 @@
     [
       "Photographing the hidden world of slime mould",
       "https://www.bbc.com/news/articles/c9d9409p76qo"
-    ]
-  ],
-  [
-    [
-      "2026-01-01, 13:58:45",
-      "https://news.ycombinator.com/item?id=46454160"
-    ],
-    [
-      "Making Magic Leap past Nvidia's secure bootchain and breaking Tesla Autopilots",
-      "https://fahrplan.events.ccc.de/congress/2025/fahrplan/event/making-the-magic-leap-past-nvidia-s-secure-bootchain-and-breaking-some-tesla-autopilots-along-the-way"
     ]
   ]
 ]
