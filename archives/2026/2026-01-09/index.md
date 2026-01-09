@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-01-09](index.md)
 
+* [2026-01-09, 16:46:48](https://news.ycombinator.com/item?id=46555760) - [Cloudflare CEO on the Italy Fines](https://twitter.com/eastdakota/status/2009654937303896492)
 * [2026-01-09, 14:50:48](https://news.ycombinator.com/item?id=46554462) - [London–Calcutta Bus Service](https://en.wikipedia.org/wiki/London%E2%80%93Calcutta_bus_service)
 * [2026-01-09, 14:38:57](https://news.ycombinator.com/item?id=46554307) - [ICE Is What Happens When America Refuses to Learn from Black History](https://jemartisby.substack.com/p/ice-is-what-happens-when-america)
+* [2026-01-09, 14:12:18](https://news.ycombinator.com/item?id=46554013) - [Show HN: Free noise evidence generator for tenant complaints](https://noiseevidence.com/)
 * [2026-01-09, 13:52:13](https://news.ycombinator.com/item?id=46553818) - [\"They Saw a Protest\": Cognitive Illiberalism and the Speech-Conduct Distinction [pdf]](https://www.stanfordlawreview.org/wp-content/uploads/sites/3/2012/05/Kahan-64-Stan-L-Rev-851.pdf)
 * [2026-01-09, 13:27:43](https://news.ycombinator.com/item?id=46553599) - [Iran vows regime will \"not back down\" as web blackout continues](https://www.cbsnews.com/news/iran-protests-internet-blackout-khamenei-vows-not-back-down-trump-threat/)
 * [2026-01-09, 12:54:48](https://news.ycombinator.com/item?id=46553343) - [Kagi releases alpha version of Orion for Linux](https://help.kagi.com/orion/misc/linux-status.html)
