@@ -22,6 +22,7 @@
 * [2026-01-09, 17:17:28](https://news.ycombinator.com/item?id=46556210) - [Show HN: I made a memory game to teach you to play piano by ear](https://lend-me-your-ears.specr.net)
 * [2026-01-09, 17:01:02](https://news.ycombinator.com/item?id=46555977) - [IcePanel (YC W23) is hiring full-stack engineers in Vancouver](https://forms.icepanel.io/careers/senior-product-engineer)
 * [2026-01-09, 17:00:11](https://news.ycombinator.com/item?id=46555963) - [The Vietnam government has banned rooted phones from using any banking app](https://xdaforums.com/t/discussion-the-root-and-mod-hiding-fingerprint-spoofing-keybox-stealing-cat-and-mouse-game.4425939/page-118)
+* [2026-01-09, 16:49:59](https://news.ycombinator.com/item?id=46555807) - [Flock Hardcoded the Password for America's Surveillance Infrastructure 53 Times](https://nexanet.ai/blog/53-times-flocksafety-hardcoded-the-password-for-americas-surveillance-infrastructure)
 * [2026-01-09, 16:46:48](https://news.ycombinator.com/item?id=46555760) - [Cloudflare CEO on the Italy Fines](https://twitter.com/eastdakota/status/2009654937303896492)
 * [2026-01-09, 16:36:48](https://news.ycombinator.com/item?id=46555615) - [Why is SendGrid emailing me about supporting ICE?](https://fredbenenson.com/blog/2026/01/09/why-is-sendgrid-emailing-me-about-supporting-ice/)
 * [2026-01-09, 16:36:48](https://news.ycombinator.com/item?id=46555615) - [SendGrid isn’t emailing about ICE or BLM – it’s a phishing attack](https://fredbenenson.com/blog/2026/01/09/sendgrid-isnt-emailing-you-about-ice-or-blm-its-a-phishing-attack/)
