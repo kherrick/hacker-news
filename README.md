@@ -23,13 +23,13 @@
 * [2026-01-09, 02:13:01](https://news.ycombinator.com/item?id=46549333) - [Show HN: Various shape regularization algorithms](https://github.com/nickponline/shreg)
 * [2026-01-09, 01:59:32](https://news.ycombinator.com/item?id=46549231) - [Show HN: A website that auctions itself daily](https://www.thedailyauction.com/)
 * [2026-01-08, 23:24:30](https://news.ycombinator.com/item?id=46547962) - [Scientists discover oldest poison, on 60k-year-old arrows](https://www.nytimes.com/2026/01/07/science/poison-arrows-south-africa.html)
+* [2026-01-08, 19:54:26](https://news.ycombinator.com/item?id=46545620) - [How to code Claude Code in 200 lines of code](https://www.mihaileric.com/The-Emperor-Has-No-Clothes/)
 * [2026-01-06, 16:36:50](https://news.ycombinator.com/item?id=46514559) - [Show HN: Repogen – a static site generator for package repositories](https://github.com/ralt/repogen)
 * [2026-01-06, 13:23:39](https://news.ycombinator.com/item?id=46511903) - [Show HN: Similarity = cosine(your_GitHub_stars, Karpathy) Client-side](https://puzer.github.io/github_recommender/)
 * [2026-01-04, 20:49:19](https://news.ycombinator.com/item?id=46492019) - [The (likely?) cheapest home-made Michelson interferometer](https://guille.site/posts/3d-printed-michelson/)
 * [2026-01-04, 16:32:13](https://news.ycombinator.com/item?id=46489514) - [How will the miracle happen today?](https://kk.org/thetechnium/how-will-the-miracle-happen-today/)
 * [2026-01-04, 04:10:06](https://news.ycombinator.com/item?id=46484808) - [Show HN: I built a tool to create AI agents that live in iMessage](https://tryflux.ai/)
 * [2026-01-03, 16:34:38](https://news.ycombinator.com/item?id=46478558) - [Linux Runs on Raspberry Pi RP2350's Hazard3 RISC-V Cores (2024)](https://www.hackster.io/news/jesse-taube-gets-linux-up-and-running-on-the-raspberry-pi-rp2350-s-hazard3-risc-v-cores-19088b87bb2c)
-* [2026-01-03, 15:36:27](https://news.ycombinator.com/item?id=46477842) - [Show HN : A game to document my electronics learning journey.](https://jeevan.life/theapplefalls/)
 
 ## [Archives](archives/index.md)
 
