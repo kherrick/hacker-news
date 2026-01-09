@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-01-09, 13:27:43](https://news.ycombinator.com/item?id=46553599) - [Iran vows regime will \"not back down\" as web blackout continues](https://www.cbsnews.com/news/iran-protests-internet-blackout-khamenei-vows-not-back-down-trump-threat/)
+* [2026-01-09, 14:38:57](https://news.ycombinator.com/item?id=46554307) - [ICE Is What Happens When America Refuses to Learn from Black History](https://jemartisby.substack.com/p/ice-is-what-happens-when-america)
 * [2026-01-09, 12:54:48](https://news.ycombinator.com/item?id=46553343) - [Kagi releases alpha version of Orion for Linux](https://help.kagi.com/orion/misc/linux-status.html)
 * [2026-01-09, 07:38:30](https://news.ycombinator.com/item?id=46551044) - [What happened to WebAssembly](https://emnudge.dev/blog/what-happened-to-webassembly/)
 * [2026-01-09, 07:09:39](https://news.ycombinator.com/item?id=46550912) - [European Commission issues call for evidence on open source](https://lwn.net/Articles/1053107/)
@@ -14,7 +14,6 @@
 * [2026-01-08, 19:54:26](https://news.ycombinator.com/item?id=46545620) - [How to Code Claude Code in 200 Lines of Code](https://www.mihaileric.com/The-Emperor-Has-No-Clothes/)
 * [2026-01-08, 19:09:23](https://news.ycombinator.com/item?id=46545077) - [Google AI Studio is now sponsoring Tailwind CSS](https://twitter.com/OfficialLoganK/status/2009339263251566902)
 * [2026-01-08, 19:00:28](https://news.ycombinator.com/item?id=46544981) - [The unreasonable effectiveness of the Fourier transform](https://joshuawise.com/resources/ofdm/)
-* [2026-01-08, 18:29:47](https://news.ycombinator.com/item?id=46544610) - [Fixing a Buffer Overflow in Unix v4 Like It's 1973](https://sigma-star.at/blog/2025/12/unix-v4-buffer-overflow/)
 * [2026-01-08, 18:05:02](https://news.ycombinator.com/item?id=46544276) - [He was called a 'terrorist sympathizer.' Now his AI company is valued at $3B](https://sfstandard.com/2026/01/07/called-terrorist-sympathizer-now-ai-company-valued-3b/)
 * [2026-01-08, 15:20:15](https://news.ycombinator.com/item?id=46542036) - [AI coding assistants are getting worse?](https://spectrum.ieee.org/ai-coding-degrades)
 * [2026-01-08, 15:07:57](https://news.ycombinator.com/item?id=46541892) - [Bose has released API docs and opened the API for its EoL SoundTouch speakers](https://arstechnica.com/gadgets/2026/01/bose-open-sources-its-soundtouch-home-theater-smart-speakers-ahead-of-eol/)
@@ -23,6 +22,7 @@
 * [2026-01-06, 06:34:45](https://news.ycombinator.com/item?id=46509376) - [Mysterious Victorian-era shoes are washing up on a beach in Wales](https://www.smithsonianmag.com/smart-news/hundreds-of-mysterious-victorian-era-shoes-are-washing-up-on-a-beach-in-wales-nobody-knows-where-they-came-from-180987943/)
 * [2026-01-05, 22:41:33](https://news.ycombinator.com/item?id=46506143) - [Sorted string tables (SST) from first principles](https://www.bitsxpages.com/p/sorted-string-tables-sst-from-first)
 * [2026-01-05, 16:29:10](https://news.ycombinator.com/item?id=46500798) - [How wolves became dogs](https://www.economist.com/christmas-specials/2025/12/18/how-wolves-became-dogs)
+* [2026-01-04, 22:47:53](https://news.ycombinator.com/item?id=46493199) - [When Kitty Litter Caused a Nuclear Catastrophe](https://practical.engineering/blog/2025/4/15/when-kitty-litter-caused-a-nuclear-catastrophe)
 * [2026-01-04, 19:31:43](https://news.ycombinator.com/item?id=46491330) - [Why is there a tiny hole in the airplane window? (2023)](https://www.afar.com/magazine/why-airplane-windows-have-tiny-holes)
 * [2026-01-04, 16:05:08](https://news.ycombinator.com/item?id=46489232) - [Hacking a Casio F-91W digital watch (2023)](https://medium.com/infosec-watchtower/how-i-hacked-casio-f-91w-digital-watch-892bd519bd15)
 * [2026-01-04, 09:58:36](https://news.ycombinator.com/item?id=46486545) - [Samba Was Written (2003)](https://download.samba.org/pub/tridge/misc/french_cafe.txt)
