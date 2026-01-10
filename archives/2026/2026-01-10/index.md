@@ -4,11 +4,15 @@
 
 ### [Archives](../../index.md) for [2026-01-10](index.md)
 
+* [2026-01-10, 16:36:56](https://news.ycombinator.com/item?id=46567138) - [Microsoft May Have Created the Slowest Windows in 25 Years with Windows 11](https://www.eteknix.com/microsoft-may-have-created-the-slowest-windows-in-25-years-with-windows-11/)
+* [2026-01-10, 16:03:55](https://news.ycombinator.com/item?id=46566812) - [Open Chaos: A self-evolving open-source project](https://www.openchaos.dev/)
+* [2026-01-10, 15:41:28](https://news.ycombinator.com/item?id=46566614) - [2026 looks ominous for media, from Hollywood to journalism](https://www.npr.org/2026/01/10/nx-s1-5599552/media-2026-warner-paramount-netfilx-trump)
 * [2026-01-10, 15:26:26](https://news.ycombinator.com/item?id=46566465) - [I replaced Windows with Linux and everything's going great](https://www.theverge.com/tech/858910/linux-diary-gaming-desktop)
 * [2026-01-10, 14:42:02](https://news.ycombinator.com/item?id=46566100) - [Show HN: Hosting 100 Linux dev environments on one VM using LXC](https://github.com/FootprintAI/Containarium)
 * [2026-01-10, 13:51:27](https://news.ycombinator.com/item?id=46565731) - [UK government exempting itself from cyber law inspires little confidence](https://www.theregister.com/2026/01/10/csr_bill_analysis/)
 * [2026-01-10, 13:44:21](https://news.ycombinator.com/item?id=46565695) - [NASA announces unprecedented return of sick ISS astronaut and crew](https://www.livescience.com/space/space-exploration/nasa-cancels-spacewalk-and-considers-early-crew-return-from-iss-due-to-medical-issues)
 * [2026-01-10, 12:51:25](https://news.ycombinator.com/item?id=46565281) - [All my new code will be closed-source from now on](https://twitter.com/MarcJSchmidt/status/2009688028931875156)
+* [2026-01-10, 12:48:13](https://news.ycombinator.com/item?id=46565265) - [Show HN: Yuanzai World – LLM RPGs with branching world-lines](https://www.yuanzai.world/)
 * [2026-01-10, 12:23:20](https://news.ycombinator.com/item?id=46565132) - [A Eulogy for Dark Sky, a Data Visualization Masterpiece (2023)](https://nightingaledvs.com/dark-sky-weather-data-viz/)
 * [2026-01-10, 12:07:28](https://news.ycombinator.com/item?id=46565041) - [Why Is Greenland Part of the Kingdom of Denmark? A Short History](https://www.diis.dk/en/research/why-is-greenland-part-of-the-kingdom-of-denmark-a-short-history)
 * [2026-01-10, 11:23:59](https://news.ycombinator.com/item?id=46564762) - [New information extracted from Snowden PDFs through metadata version analysis](https://libroot.org/posts/going-through-snowden-documents-part-4/)
