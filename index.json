@@ -1,12 +1,32 @@
 [
   [
     [
+      "2026-01-10, 20:31:51",
+      "https://news.ycombinator.com/item?id=46569640"
+    ],
+    [
+      "Sinclair C5",
+      "https://en.wikipedia.org/wiki/Sinclair_C5"
+    ]
+  ],
+  [
+    [
       "2026-01-10, 19:29:05",
       "https://news.ycombinator.com/item?id=46569075"
     ],
     [
       "Bichon: A lightweight, high-performance Rust email archiver with WebUI",
       "https://github.com/rustmailer/bichon"
+    ]
+  ],
+  [
+    [
+      "2026-01-10, 18:58:37",
+      "https://news.ycombinator.com/item?id=46568794"
+    ],
+    [
+      "Finding and Fixing Ghostty's Largest Memory Leak",
+      "https://mitchellh.com/writing/ghostty-memory-leak-fix"
     ]
   ],
   [
@@ -37,16 +57,6 @@
     [
       "Show HN: I used Claude Code to discover connections between 100 books",
       "https://trails.pieterma.es/"
-    ]
-  ],
-  [
-    [
-      "2026-01-10, 16:56:34",
-      "https://news.ycombinator.com/item?id=46567392"
-    ],
-    [
-      "AI is a business model stress test",
-      "https://dri.es/ai-is-a-business-model-stress-test"
     ]
   ],
   [
@@ -107,16 +117,6 @@
     [
       "New information extracted from Snowden PDFs through metadata version analysis",
       "https://libroot.org/posts/going-through-snowden-documents-part-4/"
-    ]
-  ],
-  [
-    [
-      "2026-01-10, 11:12:15",
-      "https://news.ycombinator.com/item?id=46564696"
-    ],
-    [
-      "Allow me to introduce, the Citroen C15",
-      "https://eupolicy.social/@jmaris/115860595238097654"
     ]
   ],
   [
