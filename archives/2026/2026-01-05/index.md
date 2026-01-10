@@ -18,6 +18,7 @@
 * [2026-01-05, 21:06:13](https://news.ycombinator.com/item?id=46504966) - [Boston Dynamics and Google DeepMind Form New AI Partnership](https://bostondynamics.com/blog/boston-dynamics-google-deepmind-form-new-ai-partnership/)
 * [2026-01-05, 21:05:50](https://news.ycombinator.com/item?id=46504963) - [There Were BGP Anomalies During the Venezuela Blackout](https://loworbitsecurity.com/radar/radar16/)
 * [2026-01-05, 20:50:44](https://news.ycombinator.com/item?id=46504761) - [Reading Without Limits or Expectations](https://www.carolinecrampton.com/reading-without-limits-or-expectations/)
+* [2026-01-05, 20:14:29](https://news.ycombinator.com/item?id=46504220) - [Favorite Tech Museums](https://aresluna.org/fav-tech-museums/)
 * [2026-01-05, 20:13:03](https://news.ycombinator.com/item?id=46504198) - [A Year of Clean Energy Milestones](https://e360.yale.edu/digest/2025-energy-review)
 * [2026-01-05, 19:41:00](https://news.ycombinator.com/item?id=46503685) - [O-Ring Automation](https://www.nber.org/papers/w34639)
 * [2026-01-05, 19:32:09](https://news.ycombinator.com/item?id=46503554) - [Novo Nordisk launches Wegovy weight-loss pill in US, triggering price war](https://www.theguardian.com/business/2026/jan/05/novo-nordisk-launches-wegovy-weight-loss-pill-us-price-war)

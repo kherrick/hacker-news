@@ -19,6 +19,7 @@
 * [2026-01-03, 21:58:30](https://news.ycombinator.com/item?id=46482107) - [Take One Small Step](https://thinkhuman.com/take-one-small-step/)
 * [2026-01-03, 21:34:33](https://news.ycombinator.com/item?id=46481849) - [Scaling Latent Reasoning via Looped Language Models](https://arxiv.org/abs/2510.25741)
 * [2026-01-03, 21:06:33](https://news.ycombinator.com/item?id=46481544) - [Show HN: I built an international calling platform for the past 6 months](https://voklit.com)
+* [2026-01-03, 20:21:37](https://news.ycombinator.com/item?id=46481124) - [Design duality and the expression problem (2018)](https://www.tedinski.com/2018/02/27/the-expression-problem.html)
 * [2026-01-03, 19:42:17](https://news.ycombinator.com/item?id=46480709) - [Busy Is the New Stupid](https://www.cisotradecraft.com/bitns)
 * [2026-01-03, 19:39:46](https://news.ycombinator.com/item?id=46480677) - [Show HN: Vibe Coding a static site on a $25 Walmart Phone](https://stetsonblake.com/%2425+Walmart+Phone+for+Hackers)
 * [2026-01-03, 19:38:38](https://news.ycombinator.com/item?id=46480664) - [Anti-cheat evolution in Windows 11](https://www.andrea-allievi.com/blog/new-year-post-anti-cheat-evolution-in-windows-11/)
