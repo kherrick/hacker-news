@@ -21,12 +21,12 @@
   ],
   [
     [
-      "2026-01-09, 22:19:03",
-      "https://news.ycombinator.com/item?id=46560217"
+      "2026-01-09, 22:29:54",
+      "https://news.ycombinator.com/item?id=46560343"
     ],
     [
-      "Start your meetings at 5 minutes past",
-      "https://philipotoole.com/start-your-meetings-at-5-minutes-past/"
+      "Pre-commit lint checks: Vibe coding's kryptonite",
+      "https://www.getseer.dev/blogs/pre-commit-linting-vibe-coding"
     ]
   ],
   [
@@ -67,16 +67,6 @@
     [
       "Show HN: Rocket Launch and Orbit Simulator",
       "https://www.donutthejedi.com/"
-    ]
-  ],
-  [
-    [
-      "2026-01-09, 19:11:57",
-      "https://news.ycombinator.com/item?id=46557823"
-    ],
-    [
-      "Show HN: EuConform – Offline-first EU AI Act compliance tool (open source)",
-      "https://github.com/Hiepler/EuConform"
     ]
   ],
   [
@@ -191,6 +181,16 @@
   ],
   [
     [
+      "2026-01-09, 15:07:17",
+      "https://news.ycombinator.com/item?id=46554652"
+    ],
+    [
+      "How to store a chess position in 26 bytes (2022)",
+      "https://ezzeriesa.notion.site/How-to-store-a-chess-position-in-26-bytes-using-bit-level-magic-df1fdb5364eb42fdac11eb23b25e9605"
+    ]
+  ],
+  [
+    [
       "2026-01-09, 12:54:48",
       "https://news.ycombinator.com/item?id=46553343"
     ],
@@ -201,12 +201,12 @@
   ],
   [
     [
-      "2026-01-09, 02:13:01",
-      "https://news.ycombinator.com/item?id=46549333"
+      "2026-01-09, 01:59:32",
+      "https://news.ycombinator.com/item?id=46549231"
     ],
     [
-      "Show HN: Various shape regularization algorithms",
-      "https://github.com/nickponline/shreg"
+      "Show HN: A website that auctions itself daily",
+      "https://www.thedailyauction.com/"
     ]
   ],
   [
@@ -221,22 +221,42 @@
   ],
   [
     [
-      "2026-01-08, 19:54:26",
-      "https://news.ycombinator.com/item?id=46545620"
+      "2026-01-08, 22:44:45",
+      "https://news.ycombinator.com/item?id=46547580"
     ],
     [
-      "How to code Claude Code in 200 lines of code",
-      "https://www.mihaileric.com/The-Emperor-Has-No-Clothes/"
+      "Show HN: Yellopages – New tab Chrome extension",
+      "https://yellopages.kawaicheung.io/"
     ]
   ],
   [
     [
-      "2026-01-07, 12:01:30",
-      "https://news.ycombinator.com/item?id=46525410"
+      "2026-01-08, 19:55:27",
+      "https://news.ycombinator.com/item?id=46545636"
     ],
     [
-      "Ragdoll Mayhem Maker – a physics-based level editor for my indie game",
-      "https://ragdollmayhemmaker.com/"
+      "Robotopia: A 3D, first-person, talking simulator",
+      "https://elbowgreasegames.substack.com/p/introducing-robotopia-a-3d-first"
+    ]
+  ],
+  [
+    [
+      "2026-01-08, 19:36:30",
+      "https://news.ycombinator.com/item?id=46545421"
+    ],
+    [
+      "The rise and fall of the company behind Reader Rabbit (2018)",
+      "https://theoutline.com/post/6293/reader-rabbit-history-the-learning-company-zoombinis-carmen-sandiego"
+    ]
+  ],
+  [
+    [
+      "2026-01-08, 16:57:55",
+      "https://news.ycombinator.com/item?id=46543359"
+    ],
+    [
+      "Show HN: Miditui – a terminal app/UI for MIDI composing, mixing, and playback",
+      "https://github.com/minimaxir/miditui"
     ]
   ],
   [
@@ -277,26 +297,6 @@
     [
       "How will the miracle happen today?",
       "https://kk.org/thetechnium/how-will-the-miracle-happen-today/"
-    ]
-  ],
-  [
-    [
-      "2026-01-04, 04:10:06",
-      "https://news.ycombinator.com/item?id=46484808"
-    ],
-    [
-      "Show HN: I built a tool to create AI agents that live in iMessage",
-      "https://tryflux.ai/"
-    ]
-  ],
-  [
-    [
-      "2026-01-03, 20:21:37",
-      "https://news.ycombinator.com/item?id=46481124"
-    ],
-    [
-      "Design duality and the expression problem (2018)",
-      "https://www.tedinski.com/2018/02/27/the-expression-problem.html"
     ]
   ]
 ]
