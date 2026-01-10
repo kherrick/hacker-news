@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2026-01-10, 04:35:32](https://news.ycombinator.com/item?id=46562790) - [You probably don't need Oh My Zsh](https://rushter.com/blog/zsh-shell/)
-* [2026-01-10, 03:52:48](https://news.ycombinator.com/item?id=46562583) - [OLED Not for Me](https://nuxx.net/blog/2026/01/09/oled-not-for-me/)
+* [2026-01-10, 03:52:48](https://news.ycombinator.com/item?id=46562583) - [OLED, Not for Me](https://nuxx.net/blog/2026/01/09/oled-not-for-me/)
 * [2026-01-10, 02:56:50](https://news.ycombinator.com/item?id=46562301) - [Maine's black market for baby eels](https://www.pressherald.com/2025/09/09/maines-black-market-for-baby-eels-is-spawning-a-crime-thriller-subgenre/)
 * [2026-01-09, 22:39:15](https://news.ycombinator.com/item?id=46560445) - [“Erdos problem #728 was solved more or less autonomously by AI”](https://mathstodon.xyz/@tao/115855840223258103)
 * [2026-01-09, 22:19:03](https://news.ycombinator.com/item?id=46560217) - [Start your meetings at 5 minutes past](https://philipotoole.com/start-your-meetings-at-5-minutes-past/)
@@ -19,8 +19,8 @@
 * [2026-01-09, 16:46:48](https://news.ycombinator.com/item?id=46555760) - [Cloudflare CEO on the Italy fines](https://twitter.com/eastdakota/status/2009654937303896492)
 * [2026-01-09, 15:07:17](https://news.ycombinator.com/item?id=46554652) - [How to store a chess position in 26 bytes (2022)](https://ezzeriesa.notion.site/How-to-store-a-chess-position-in-26-bytes-using-bit-level-magic-df1fdb5364eb42fdac11eb23b25e9605)
 * [2026-01-09, 12:54:48](https://news.ycombinator.com/item?id=46553343) - [Kagi releases alpha version of Orion for Linux](https://help.kagi.com/orion/misc/linux-status.html)
+* [2026-01-09, 01:59:32](https://news.ycombinator.com/item?id=46549231) - [Show HN: A website that auctions itself daily](https://www.thedailyauction.com/)
 * [2026-01-08, 23:24:30](https://news.ycombinator.com/item?id=46547962) - [Scientists discover oldest poison, on 60k-year-old arrows](https://www.nytimes.com/2026/01/07/science/poison-arrows-south-africa.html)
-* [2026-01-08, 22:44:45](https://news.ycombinator.com/item?id=46547580) - [Show HN: Yellopages – New tab Chrome extension](https://yellopages.kawaicheung.io/)
 * [2026-01-08, 19:55:27](https://news.ycombinator.com/item?id=46545636) - [Robotopia: A 3D, first-person, talking simulator](https://elbowgreasegames.substack.com/p/introducing-robotopia-a-3d-first)
 * [2026-01-08, 19:54:26](https://news.ycombinator.com/item?id=46545620) - [How to code Claude Code in 200 lines of code](https://www.mihaileric.com/The-Emperor-Has-No-Clothes/)
 * [2026-01-08, 19:36:30](https://news.ycombinator.com/item?id=46545421) - [The rise and fall of the company behind Reader Rabbit (2018)](https://theoutline.com/post/6293/reader-rabbit-history-the-learning-company-zoombinis-carmen-sandiego)
