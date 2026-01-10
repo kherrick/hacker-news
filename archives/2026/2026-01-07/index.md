@@ -60,6 +60,7 @@
 * [2026-01-07, 12:00:20](https://news.ycombinator.com/item?id=46525394) - [Optery (YC W22) Hiring a CISO and Web Scraping Engineers (Node) (US and Latam)](https://www.optery.com/careers/)
 * [2026-01-07, 10:53:41](https://news.ycombinator.com/item?id=46524873) - [Firefox extension to redirect x.com to xcancel.com](https://addons.mozilla.org/en-US/firefox/addon/toxcancel/)
 * [2026-01-07, 10:05:29](https://news.ycombinator.com/item?id=46524576) - [The mineral riches hiding under Greenland's ice](https://www.bbc.com/future/article/20250121-the-enormous-challenge-of-mining-greenland)
+* [2026-01-07, 10:02:12](https://news.ycombinator.com/item?id=46524554) - [Httpz – Zero-Allocation HTTP/1.1 Parser for OxCaml](https://github.com/avsm/httpz)
 * [2026-01-07, 09:59:04](https://news.ycombinator.com/item?id=46524527) - [Htmx: High Power Tools for HTML](https://github.com/bigskysoftware/htmx)
 * [2026-01-07, 09:57:33](https://news.ycombinator.com/item?id=46524519) - [CI-Hush](https://gitlab.com/jjg/ci-hush)
 * [2026-01-07, 09:35:46](https://news.ycombinator.com/item?id=46524379) - [Changes to Android Open Source Project](https://source.android.com/)
