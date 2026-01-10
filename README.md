@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-01-10, 10:53:28](https://news.ycombinator.com/item?id=46564618) - [I got paid minimum wage to solve an impossible problem](https://tiespetersen.substack.com/p/i-got-paid-minimum-wage-to-solve)
+* [2026-01-10, 10:42:31](https://news.ycombinator.com/item?id=46564552) - [Iran's internet shutdown is chillingly precise and may last some time](https://www.theguardian.com/world/2026/jan/10/irans-internet-shutdown-is-strikingly-sophisticated-and-may-last-some-time)
 * [2026-01-10, 04:35:32](https://news.ycombinator.com/item?id=46562790) - [Oh My Zsh adds bloat](https://rushter.com/blog/zsh-shell/)
 * [2026-01-10, 03:52:48](https://news.ycombinator.com/item?id=46562583) - [OLED, Not for Me](https://nuxx.net/blog/2026/01/09/oled-not-for-me/)
 * [2026-01-09, 22:39:15](https://news.ycombinator.com/item?id=46560445) - [“Erdos problem #728 was solved more or less autonomously by AI”](https://mathstodon.xyz/@tao/115855840223258103)
@@ -16,7 +18,6 @@
 * [2026-01-09, 16:46:48](https://news.ycombinator.com/item?id=46555760) - [Cloudflare CEO on the Italy fines](https://twitter.com/eastdakota/status/2009654937303896492)
 * [2026-01-09, 15:07:17](https://news.ycombinator.com/item?id=46554652) - [How to store a chess position in 26 bytes (2022)](https://ezzeriesa.notion.site/How-to-store-a-chess-position-in-26-bytes-using-bit-level-magic-df1fdb5364eb42fdac11eb23b25e9605)
 * [2026-01-09, 12:54:48](https://news.ycombinator.com/item?id=46553343) - [Kagi releases alpha version of Orion for Linux](https://help.kagi.com/orion/misc/linux-status.html)
-* [2026-01-09, 02:13:01](https://news.ycombinator.com/item?id=46549333) - [Show HN: Various shape regularization algorithms](https://github.com/nickponline/shreg)
 * [2026-01-08, 23:24:30](https://news.ycombinator.com/item?id=46547962) - [Scientists discover oldest poison, on 60k-year-old arrows](https://www.nytimes.com/2026/01/07/science/poison-arrows-south-africa.html)
 * [2026-01-08, 19:54:26](https://news.ycombinator.com/item?id=46545620) - [How to code Claude Code in 200 lines of code](https://www.mihaileric.com/The-Emperor-Has-No-Clothes/)
 * [2026-01-08, 16:57:55](https://news.ycombinator.com/item?id=46543359) - [Show HN: Miditui – a terminal app/UI for MIDI composing, mixing, and playback](https://github.com/minimaxir/miditui)
@@ -24,7 +25,6 @@
 * [2026-01-07, 00:45:38](https://news.ycombinator.com/item?id=46521038) - [The paradox of failed resolutions](https://jillianhess.substack.com/p/the-paradox-of-failed-resolutions)
 * [2026-01-06, 13:23:39](https://news.ycombinator.com/item?id=46511903) - [Show HN: Similarity = cosine(your_GitHub_stars, Karpathy) Client-side](https://puzer.github.io/github_recommender/)
 * [2026-01-06, 12:44:52](https://news.ycombinator.com/item?id=46511555) - [Greenland sharks maintain vision for centuries through DNA repair mechanism](https://phys.org/news/2026-01-eye-greenland-sharks-vision-centuries.html)
-* [2026-01-05, 20:14:29](https://news.ycombinator.com/item?id=46504220) - [Favorite Tech Museums](https://aresluna.org/fav-tech-museums/)
 * [2026-01-05, 11:10:08](https://news.ycombinator.com/item?id=46497443) - [Diving into Qualcomm's Upcoming Adreno X2 GPU with Eric Demers](https://chipsandcheese.com/p/diving-into-qualcomms-upcoming-adreno)
 * [2026-01-04, 20:49:19](https://news.ycombinator.com/item?id=46492019) - [The likely cheapest home-made Michelson interferometer](https://guille.site/posts/3d-printed-michelson/)
 * [2026-01-04, 16:32:13](https://news.ycombinator.com/item?id=46489514) - [How will the miracle happen today?](https://kk.org/thetechnium/how-will-the-miracle-happen-today/)

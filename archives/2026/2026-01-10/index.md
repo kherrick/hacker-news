@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-01-10](index.md)
 
+* [2026-01-10, 10:53:28](https://news.ycombinator.com/item?id=46564618) - [I got paid minimum wage to solve an impossible problem](https://tiespetersen.substack.com/p/i-got-paid-minimum-wage-to-solve)
+* [2026-01-10, 10:42:31](https://news.ycombinator.com/item?id=46564552) - [Iran's internet shutdown is chillingly precise and may last some time](https://www.theguardian.com/world/2026/jan/10/irans-internet-shutdown-is-strikingly-sophisticated-and-may-last-some-time)
 * [2026-01-10, 05:07:32](https://news.ycombinator.com/item?id=46562959) - [CDC staff 'blindsided' as child vaccine schedule unilaterally overhauled](https://www.unmc.edu/healthsecurity/transmission/2026/01/07/cdc-staff-blindsided-as-child-vaccine-schedule-unilaterally-overhauled/)
 * [2026-01-10, 04:35:32](https://news.ycombinator.com/item?id=46562790) - [You probably don't need Oh My Zsh](https://rushter.com/blog/zsh-shell/)
 * [2026-01-10, 03:52:48](https://news.ycombinator.com/item?id=46562583) - [OLED Not for Me](https://nuxx.net/blog/2026/01/09/oled-not-for-me/)
