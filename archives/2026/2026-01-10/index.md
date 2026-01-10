@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-01-10](index.md)
 
+* [2026-01-10, 14:42:02](https://news.ycombinator.com/item?id=46566100) - [Show HN: Hosting 100 Linux dev environments on one VM using LXC](https://github.com/FootprintAI/Containarium)
 * [2026-01-10, 13:51:27](https://news.ycombinator.com/item?id=46565731) - [UK government exempting itself from cyber law inspires little confidence](https://www.theregister.com/2026/01/10/csr_bill_analysis/)
 * [2026-01-10, 13:44:21](https://news.ycombinator.com/item?id=46565695) - [NASA announces unprecedented return of sick ISS astronaut and crew](https://www.livescience.com/space/space-exploration/nasa-cancels-spacewalk-and-considers-early-crew-return-from-iss-due-to-medical-issues)
 * [2026-01-10, 12:51:25](https://news.ycombinator.com/item?id=46565281) - [All my new code will be closed-source from now on](https://twitter.com/MarcJSchmidt/status/2009688028931875156)
