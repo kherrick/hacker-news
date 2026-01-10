@@ -2,8 +2,8 @@
 
 * [2026-01-10, 14:42:02](https://news.ycombinator.com/item?id=46566100) - [Show HN: Hosting 100 Linux dev environments on one VM using LXC](https://github.com/FootprintAI/Containarium)
 * [2026-01-10, 13:51:27](https://news.ycombinator.com/item?id=46565731) - [UK government exempting itself from cyber law inspires little confidence](https://www.theregister.com/2026/01/10/csr_bill_analysis/)
-* [2026-01-10, 13:44:21](https://news.ycombinator.com/item?id=46565695) - [NASA announces unprecedented return of sick ISS astronaut and crew](https://www.livescience.com/space/space-exploration/nasa-cancels-spacewalk-and-considers-early-crew-return-from-iss-due-to-medical-issues)
 * [2026-01-10, 12:23:20](https://news.ycombinator.com/item?id=46565132) - [A Eulogy for Dark Sky, a Data Visualization Masterpiece (2023)](https://nightingaledvs.com/dark-sky-weather-data-viz/)
+* [2026-01-10, 12:07:28](https://news.ycombinator.com/item?id=46565041) - [Why Is Greenland Part of the Kingdom of Denmark? A Short History](https://www.diis.dk/en/research/why-is-greenland-part-of-the-kingdom-of-denmark-a-short-history)
 * [2026-01-10, 11:23:59](https://news.ycombinator.com/item?id=46564762) - [New information extracted from Snowden PDFs through metadata version analysis](https://libroot.org/posts/going-through-snowden-documents-part-4/)
 * [2026-01-10, 11:12:15](https://news.ycombinator.com/item?id=46564696) - [Allow me to introduce, the Citroen C15](https://eupolicy.social/@jmaris/115860595238097654)
 * [2026-01-10, 09:56:46](https://news.ycombinator.com/item?id=46564323) - [Beating the Tutorial](https://elliotmorris.net/blog-a-day-3-beating-the-tutorial)
