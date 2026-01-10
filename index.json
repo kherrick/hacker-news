@@ -121,52 +121,12 @@
   ],
   [
     [
-      "2026-01-10, 04:35:32",
-      "https://news.ycombinator.com/item?id=46562790"
-    ],
-    [
-      "Oh My Zsh adds bloat",
-      "https://rushter.com/blog/zsh-shell/"
-    ]
-  ],
-  [
-    [
       "2026-01-09, 22:39:15",
       "https://news.ycombinator.com/item?id=46560445"
     ],
     [
       "“Erdos problem #728 was solved more or less autonomously by AI”",
       "https://mathstodon.xyz/@tao/115855840223258103"
-    ]
-  ],
-  [
-    [
-      "2026-01-09, 22:19:03",
-      "https://news.ycombinator.com/item?id=46560217"
-    ],
-    [
-      "Start your meetings at 5 minutes past",
-      "https://philipotoole.com/start-your-meetings-at-5-minutes-past/"
-    ]
-  ],
-  [
-    [
-      "2026-01-09, 21:27:10",
-      "https://news.ycombinator.com/item?id=46559599"
-    ],
-    [
-      "Sigmund Freud's Begonia",
-      "https://observer.co.uk/news/first-person/article/emma-freud-sigmund-freuds-begonia"
-    ]
-  ],
-  [
-    [
-      "2026-01-09, 19:15:21",
-      "https://news.ycombinator.com/item?id=46557879"
-    ],
-    [
-      "Show HN: Rocket Launch and Orbit Simulator",
-      "https://www.donutthejedi.com/"
     ]
   ],
   [
@@ -181,22 +141,82 @@
   ],
   [
     [
-      "2026-01-09, 17:52:20",
-      "https://news.ycombinator.com/item?id=46556695"
+      "2026-01-08, 21:53:06",
+      "https://news.ycombinator.com/item?id=46547024"
     ],
     [
-      "How Markdown took over the world",
-      "https://www.anildash.com/2026/01/09/how-markdown-took-over-the-world/"
+      "Side-by-side comparison of how AI models answer moral dilemmas",
+      "https://civai.org/p/ai-values"
     ]
   ],
   [
     [
-      "2026-01-09, 12:54:48",
-      "https://news.ycombinator.com/item?id=46553343"
+      "2026-01-08, 17:45:15",
+      "https://news.ycombinator.com/item?id=46544009"
     ],
     [
-      "Kagi releases alpha version of Orion for Linux",
-      "https://help.kagi.com/orion/misc/linux-status.html"
+      "Good Judgment Open",
+      "https://www.gjopen.com"
+    ]
+  ],
+  [
+    [
+      "2026-01-08, 17:10:29",
+      "https://news.ycombinator.com/item?id=46543518"
+    ],
+    [
+      "GPU memory snapshots: sub-second startup (2025)",
+      "https://modal.com/blog/gpu-mem-snapshots"
+    ]
+  ],
+  [
+    [
+      "2026-01-08, 08:18:17",
+      "https://news.ycombinator.com/item?id=46538628"
+    ],
+    [
+      "ASCII-Driven Development",
+      "https://medium.com/@calufa/ascii-driven-development-850f66661351"
+    ]
+  ],
+  [
+    [
+      "2026-01-08, 06:04:19",
+      "https://news.ycombinator.com/item?id=46537741"
+    ],
+    [
+      "How your high school affects your chances of UC Admission",
+      "https://sfeducation.substack.com/p/how-your-high-school-affects-your"
+    ]
+  ],
+  [
+    [
+      "2026-01-08, 03:09:09",
+      "https://news.ycombinator.com/item?id=46536718"
+    ],
+    [
+      "AI Econ Seminar",
+      "https://cameron.stream/blog/econ-seminar/"
+    ]
+  ],
+  [
+    [
+      "2026-01-08, 01:08:02",
+      "https://news.ycombinator.com/item?id=46535691"
+    ],
+    [
+      "How we made v0 an effective coding agent",
+      "https://vercel.com/blog/how-we-made-v0-an-effective-coding-agent"
+    ]
+  ],
+  [
+    [
+      "2026-01-08, 00:05:31",
+      "https://news.ycombinator.com/item?id=46535143"
+    ],
+    [
+      "Distributed Denial of Secrets",
+      "https://ddosecrets.com/"
     ]
   ],
   [
@@ -251,26 +271,6 @@
   ],
   [
     [
-      "2026-01-05, 22:51:14",
-      "https://news.ycombinator.com/item?id=46506261"
-    ],
-    [
-      "Ask HN: What's a standard way for apps to request text completion as a service?",
-      "https://news.ycombinator.com/item?id=46506261"
-    ]
-  ],
-  [
-    [
-      "2026-01-04, 16:32:13",
-      "https://news.ycombinator.com/item?id=46489514"
-    ],
-    [
-      "How will the miracle happen today?",
-      "https://kk.org/thetechnium/how-will-the-miracle-happen-today/"
-    ]
-  ],
-  [
-    [
       "2026-01-03, 14:50:07",
       "https://news.ycombinator.com/item?id=46477290"
     ],
@@ -291,12 +291,12 @@
   ],
   [
     [
-      "2026-01-03, 08:08:41",
-      "https://news.ycombinator.com/item?id=46473897"
+      "2026-01-02, 18:57:24",
+      "https://news.ycombinator.com/item?id=46468086"
     ],
     [
-      "Alien: Braun Aromaster KF 20 Coffee Makers (2012)",
-      "http://alienexplorations.blogspot.com/1979/05/kf-20-coffee-making-machine.html"
+      "Pebble Round 2",
+      "https://techcrunch.com/2026/01/02/pebble-reboots-its-thinnest-smartwatch-with-the-pebble-round-2/"
     ]
   ]
 ]
