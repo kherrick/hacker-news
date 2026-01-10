@@ -4,8 +4,12 @@
 
 ### [Archives](../../index.md) for [2026-01-10](index.md)
 
+* [2026-01-10, 12:51:25](https://news.ycombinator.com/item?id=46565281) - [All my new code will be closed-source from now on](https://twitter.com/MarcJSchmidt/status/2009688028931875156)
+* [2026-01-10, 12:23:20](https://news.ycombinator.com/item?id=46565132) - [A Eulogy for Dark Sky, a Data Visualization Masterpiece (2023)](https://nightingaledvs.com/dark-sky-weather-data-viz/)
+* [2026-01-10, 11:12:15](https://news.ycombinator.com/item?id=46564696) - [Allow me to introduce, the Citroen C15](https://eupolicy.social/@jmaris/115860595238097654)
 * [2026-01-10, 10:53:28](https://news.ycombinator.com/item?id=46564618) - [I got paid minimum wage to solve an impossible problem](https://tiespetersen.substack.com/p/i-got-paid-minimum-wage-to-solve)
 * [2026-01-10, 10:42:31](https://news.ycombinator.com/item?id=46564552) - [Iran's internet shutdown is chillingly precise and may last some time](https://www.theguardian.com/world/2026/jan/10/irans-internet-shutdown-is-strikingly-sophisticated-and-may-last-some-time)
+* [2026-01-10, 09:56:46](https://news.ycombinator.com/item?id=46564323) - [Beating the Tutorial](https://elliotmorris.net/blog-a-day-3-beating-the-tutorial)
 * [2026-01-10, 05:07:32](https://news.ycombinator.com/item?id=46562959) - [CDC staff 'blindsided' as child vaccine schedule unilaterally overhauled](https://www.unmc.edu/healthsecurity/transmission/2026/01/07/cdc-staff-blindsided-as-child-vaccine-schedule-unilaterally-overhauled/)
 * [2026-01-10, 04:35:32](https://news.ycombinator.com/item?id=46562790) - [You probably don't need Oh My Zsh](https://rushter.com/blog/zsh-shell/)
 * [2026-01-10, 03:52:48](https://news.ycombinator.com/item?id=46562583) - [OLED Not for Me](https://nuxx.net/blog/2026/01/09/oled-not-for-me/)

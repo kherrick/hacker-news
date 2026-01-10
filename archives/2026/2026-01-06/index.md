@@ -48,6 +48,7 @@
 * [2026-01-06, 14:54:19](https://news.ycombinator.com/item?id=46513010) - [Gnome and Mozilla Discuss Proposal to Disable Middle Mouse Paste on Linux](https://linuxiac.com/gnome-and-mozilla-discuss-proposal-to-disable-middle-mouse-paste-on-linux/)
 * [2026-01-06, 14:45:47](https://news.ycombinator.com/item?id=46512881) - [65% of Hacker News Posts Have Negative Sentiment, and They Outperform](https://philippdubach.com/standalone/hn-sentiment/)
 * [2026-01-06, 14:41:55](https://news.ycombinator.com/item?id=46512842) - [High-performance header-only container library for C++23 on x86-64](https://github.com/kressler/fast-containers)
+* [2026-01-06, 14:33:30](https://news.ycombinator.com/item?id=46512743) - [Creating Embroidered Charts with R and ImageMagick](https://aman.bh/blog/2025/creating-embroidered-charts-with-r-and-imagemagick)
 * [2026-01-06, 14:30:53](https://news.ycombinator.com/item?id=46512707) - [Gemini Protocol Deployment Statistics](https://www.obsessivefacts.com/gemini-proxy?uri=gemini%3A%2F%2Fgemini.bortzmeyer.org%2Fsoftware%2Flupa%2Fstats.gmi)
 * [2026-01-06, 14:14:24](https://news.ycombinator.com/item?id=46512501) - [Show HN: ccrider - Search and Resume Your Claude Code Sessions – TUI / MCP / CLI](https://github.com/neilberkman/ccrider)
 * [2026-01-06, 13:50:48](https://news.ycombinator.com/item?id=46512203) - [Show HN: VaultSandbox – Test your real MailGun/SES/etc. integration](https://vaultsandbox.com/)
