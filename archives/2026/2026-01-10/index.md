@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-01-10](index.md)
 
+* [2026-01-10, 19:29:05](https://news.ycombinator.com/item?id=46569075) - [Bichon: A lightweight, high-performance Rust email archiver with WebUI](https://github.com/rustmailer/bichon)
 * [2026-01-10, 17:21:16](https://news.ycombinator.com/item?id=46567696) - [Circumcision classed as possible child abuse in draft CPS document](https://www.theguardian.com/society/2026/jan/10/circumcision-classed-as-possible-child-abuse-in-draft-cps-document)
 * [2026-01-10, 17:13:16](https://news.ycombinator.com/item?id=46567588) - [Kavanaugh Stop](https://en.wikipedia.org/wiki/Kavanaugh_stop)
 * [2026-01-10, 17:02:30](https://news.ycombinator.com/item?id=46567467) - [Minnesota vs. US Federal Government Timeline Project](https://mnvsus.fyi)
