@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-01-10, 20:45:22](https://news.ycombinator.com/item?id=46569749) - [Worst of Breed Software](https://worstofbreed.net/)
 * [2026-01-10, 20:31:51](https://news.ycombinator.com/item?id=46569640) - [Sinclair C5](https://en.wikipedia.org/wiki/Sinclair_C5)
 * [2026-01-10, 19:29:05](https://news.ycombinator.com/item?id=46569075) - [Bichon: A lightweight, high-performance Rust email archiver with WebUI](https://github.com/rustmailer/bichon)
 * [2026-01-10, 18:58:37](https://news.ycombinator.com/item?id=46568794) - [Finding and Fixing Ghostty's Largest Memory Leak](https://mitchellh.com/writing/ghostty-memory-leak-fix)
@@ -27,7 +28,6 @@
 * [2026-01-07, 10:02:12](https://news.ycombinator.com/item?id=46524554) - [Httpz – Zero-Allocation HTTP/1.1 Parser for OxCaml](https://github.com/avsm/httpz)
 * [2026-01-07, 09:35:46](https://news.ycombinator.com/item?id=46524379) - [Changes to Android Open Source Project](https://source.android.com/)
 * [2026-01-07, 08:44:36](https://news.ycombinator.com/item?id=46524051) - [Bindless Oriented Graphics Programming](https://alextardif.com/BindlessProgramming.html)
-* [2026-01-06, 14:33:30](https://news.ycombinator.com/item?id=46512743) - [Creating Embroidered Charts with R and ImageMagick](https://aman.bh/blog/2025/creating-embroidered-charts-with-r-and-imagemagick)
 * [2026-01-05, 19:41:00](https://news.ycombinator.com/item?id=46503685) - [O-Ring Automation](https://www.nber.org/papers/w34639)
 * [2026-01-03, 08:26:52](https://news.ycombinator.com/item?id=46474065) - [Reverse Engineering the Epson FilmScan 200 for Classic Mac](https://ronangaillard.github.io/posts/reverse-engineering-epson-filmscan-200/)
 

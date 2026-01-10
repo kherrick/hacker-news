@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-01-10](index.md)
 
+* [2026-01-10, 20:45:22](https://news.ycombinator.com/item?id=46569749) - [Worst of Breed Software](https://worstofbreed.net/)
 * [2026-01-10, 20:31:51](https://news.ycombinator.com/item?id=46569640) - [Sinclair C5](https://en.wikipedia.org/wiki/Sinclair_C5)
 * [2026-01-10, 19:29:05](https://news.ycombinator.com/item?id=46569075) - [Bichon: A lightweight, high-performance Rust email archiver with WebUI](https://github.com/rustmailer/bichon)
 * [2026-01-10, 18:58:37](https://news.ycombinator.com/item?id=46568794) - [Finding and Fixing Ghostty's Largest Memory Leak](https://mitchellh.com/writing/ghostty-memory-leak-fix)
