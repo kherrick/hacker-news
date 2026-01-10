@@ -8,6 +8,7 @@
 * [2026-01-05, 23:51:27](https://news.ycombinator.com/item?id=46506902) - [Lego announces Smart Brick, the 'most significant evolution' in 50 years, no AI](https://www.theverge.com/tech/854556/lego-announces-smart-brick-the-most-significant-evolution-in-50-years)
 * [2026-01-05, 23:29:12](https://news.ycombinator.com/item?id=46506675) - [Pink Power Ranger takes down white supremacist dating sites](https://www.thecanary.co/skwawkbox/2026/01/04/power-ranger-deletes-dating-site/)
 * [2026-01-05, 23:19:52](https://news.ycombinator.com/item?id=46506596) - [Strange.website](https://strange.website/)
+* [2026-01-05, 22:51:14](https://news.ycombinator.com/item?id=46506261) - [Ask HN: What's a standard way for apps to request text completion as a service?](https://news.ycombinator.com/item?id=46506261)
 * [2026-01-05, 22:41:33](https://news.ycombinator.com/item?id=46506143) - [Sorted string tables (SST) from first principles](https://www.bitsxpages.com/p/sorted-string-tables-sst-from-first)
 * [2026-01-05, 22:28:46](https://news.ycombinator.com/item?id=46505975) - [Worlds's first all-solid-state battery ready to power up production vehicles now](https://www.donutlab.com/ces-battery-announcement/)
 * [2026-01-05, 22:10:15](https://news.ycombinator.com/item?id=46505735) - [Why Didn't AI \"Join the Workforce\" in 2025?](https://calnewport.com/why-didnt-ai-join-the-workforce-in-2025/)
