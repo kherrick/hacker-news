@@ -70,6 +70,7 @@
 * [2026-01-06, 06:22:30](https://news.ycombinator.com/item?id=46509307) - [My Tamagotchi is an RL agent playing Slither.io](https://nkasmanoff.github.io/#/blog/tamagotchi-rl-slitherio)
 * [2026-01-06, 06:01:57](https://news.ycombinator.com/item?id=46509211) - [enclose.horse](https://enclose.horse/)
 * [2026-01-06, 05:20:40](https://news.ycombinator.com/item?id=46509019) - [The Post-American Internet](https://pluralistic.net/2026/01/01/39c3/)
+* [2026-01-06, 05:07:20](https://news.ycombinator.com/item?id=46508956) - [Time Travelling and Fixing Bugs with Property-Based Testing (2019)](https://wickstrom.tech/2019-11-17-time-travelling-and-fixing-bugs-with-property-based-testing.html)
 * [2026-01-06, 03:59:19](https://news.ycombinator.com/item?id=46508582) - [A prediction market user made $436k betting on Maduro's downfall](https://www.bbc.com/news/articles/cx2gn93292do)
 * [2026-01-06, 03:32:41](https://news.ycombinator.com/item?id=46508441) - [GoGoGrandparent (YC S16) is hiring back end engineers](https://www.ycombinator.com/companies/gogograndparent/jobs/2vbzAw8-gogograndparent-yc-s16-is-hiring-backend-and-full-stack-engineers)
 * [2026-01-06, 03:31:39](https://news.ycombinator.com/item?id=46508435) - [Intel Panther Lake (first Intel 18A node product) makes debut at CES](https://newsroom.intel.com/client-computing/ces-2026-intel-core-ultra-series-3-debut-first-built-on-intel-18a)
