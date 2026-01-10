@@ -6,6 +6,7 @@
 
 * [2026-01-07, 23:31:05](https://news.ycombinator.com/item?id=46534777) - [Play Aardwolf MUD](https://www.aardwolf.com/)
 * [2026-01-07, 23:11:01](https://news.ycombinator.com/item?id=46534581) - [ICE Is Going on a Surveillance Shopping Spree](https://www.eff.org/deeplinks/2026/01/ice-going-surveillance-shopping-spree)
+* [2026-01-07, 22:59:55](https://news.ycombinator.com/item?id=46534466) - [Samsung Galaxy Z TriFold hands-on](https://mashable.com/article/samsung-galaxy-z-trifold-hands-on-ces-2026)
 * [2026-01-07, 21:40:41](https://news.ycombinator.com/item?id=46533343) - [2026 Predictions Scorecard](https://rodneybrooks.com/predictions-scorecard-2026-january-01/)
 * [2026-01-07, 21:38:56](https://news.ycombinator.com/item?id=46533315) - [My first paper: A practical implementation of Rubiks cube based passkeys](https://ieeexplore.ieee.org/document/11280260)
 * [2026-01-07, 21:16:47](https://news.ycombinator.com/item?id=46532961) - [So you wanna de-bog yourself (2024)](https://www.experimental-history.com/p/so-you-wanna-de-bog-yourself)
