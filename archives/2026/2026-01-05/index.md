@@ -69,6 +69,7 @@
 * [2026-01-05, 12:26:39](https://news.ycombinator.com/item?id=46497989) - [On Getting Hacked](https://ahmeto.com/post/on-getting-hacked)
 * [2026-01-05, 11:51:42](https://news.ycombinator.com/item?id=46497712) - [It's hard to justify Tahoe icons](https://tonsky.me/blog/tahoe-icons/)
 * [2026-01-05, 11:32:58](https://news.ycombinator.com/item?id=46497589) - [Cigarette smoke effect using shaders](https://garden.bradwoods.io/notes/javascript/three-js/shaders/shaders-103-smoke)
+* [2026-01-05, 11:10:08](https://news.ycombinator.com/item?id=46497443) - [Diving into Qualcomm's Upcoming Adreno X2 GPU with Eric Demers](https://chipsandcheese.com/p/diving-into-qualcomms-upcoming-adreno)
 * [2026-01-05, 10:23:32](https://news.ycombinator.com/item?id=46497164) - [Anna's Archive Loses .Org Domain After Surprise Suspension](https://torrentfreak.com/annas-archive-loses-org-domain-after-surprise-suspension/)
 * [2026-01-05, 09:07:50](https://news.ycombinator.com/item?id=46496718) - [How Twitch tamed a million lines of TypeScript](https://www.joshribakoff.com/blog/lint-snapshots/)
 * [2026-01-05, 08:29:38](https://news.ycombinator.com/item?id=46496494) - [Decorative Cryptography](https://www.dlp.rip/decorative-cryptography)
