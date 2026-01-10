@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-01-10](index.md)
 
+* [2026-01-10, 17:21:16](https://news.ycombinator.com/item?id=46567696) - [Circumcision classed as possible child abuse in draft CPS document](https://www.theguardian.com/society/2026/jan/10/circumcision-classed-as-possible-child-abuse-in-draft-cps-document)
+* [2026-01-10, 17:13:16](https://news.ycombinator.com/item?id=46567588) - [Kavanaugh Stop](https://en.wikipedia.org/wiki/Kavanaugh_stop)
 * [2026-01-10, 17:01:49](https://news.ycombinator.com/item?id=46567458) - [UpCodes (YC S17) is hiring PMs, SWEs to automate construction compliance](https://up.codes/careers?utm_source=HN)
+* [2026-01-10, 16:56:34](https://news.ycombinator.com/item?id=46567392) - [AI is a business model stress test](https://dri.es/ai-is-a-business-model-stress-test)
 * [2026-01-10, 16:36:56](https://news.ycombinator.com/item?id=46567138) - [Microsoft May Have Created the Slowest Windows in 25 Years with Windows 11](https://www.eteknix.com/microsoft-may-have-created-the-slowest-windows-in-25-years-with-windows-11/)
 * [2026-01-10, 16:03:55](https://news.ycombinator.com/item?id=46566812) - [Open Chaos: A self-evolving open-source project](https://www.openchaos.dev/)
 * [2026-01-10, 15:41:28](https://news.ycombinator.com/item?id=46566614) - [2026 looks ominous for media, from Hollywood to journalism](https://www.npr.org/2026/01/10/nx-s1-5599552/media-2026-warner-paramount-netfilx-trump)
