@@ -1,12 +1,32 @@
 [
   [
     [
+      "2026-01-10, 00:23:05",
+      "https://news.ycombinator.com/item?id=46561286"
+    ],
+    [
+      "See it with your lying ears",
+      "https://lcamtuf.substack.com/p/see-it-with-your-lying-ears"
+    ]
+  ],
+  [
+    [
       "2026-01-09, 22:39:15",
       "https://news.ycombinator.com/item?id=46560445"
     ],
     [
-      "AI solves Erdos problem #728 (Terence Tao mathstodon post)",
+      "“Erdos problem #728 was solved more or less autonomously by AI”",
       "https://mathstodon.xyz/@tao/115855840223258103"
+    ]
+  ],
+  [
+    [
+      "2026-01-09, 22:19:03",
+      "https://news.ycombinator.com/item?id=46560217"
+    ],
+    [
+      "Start your meetings at 5 minutes past",
+      "https://philipotoole.com/start-your-meetings-at-5-minutes-past/"
     ]
   ],
   [
@@ -35,7 +55,7 @@
       "https://news.ycombinator.com/item?id=46558148"
     ],
     [
-      "RTX 5090 and Raspberry Pi: Can It Game?",
+      "RTX 5090 and Raspberry Pi: Can it game?",
       "https://scottjg.com/posts/2026-01-08-crappy-computer-showdown/"
     ]
   ],
@@ -81,12 +101,22 @@
   ],
   [
     [
-      "2026-01-09, 18:29:35",
-      "https://news.ycombinator.com/item?id=46557233"
+      "2026-01-09, 18:17:24",
+      "https://news.ycombinator.com/item?id=46557057"
     ],
     [
-      "Exercise can be nearly as effective as therapy for depression",
-      "https://www.sciencedaily.com/releases/2026/01/260107225516.htm"
+      "My article on why AI is great (or terrible) or how to use it",
+      "https://matthewrocklin.com/ai-zealotry/"
+    ]
+  ],
+  [
+    [
+      "2026-01-09, 18:15:16",
+      "https://news.ycombinator.com/item?id=46557029"
+    ],
+    [
+      "Show HN: Scroll Wikipedia like TikTok",
+      "https://quack.sdan.io"
     ]
   ],
   [
@@ -151,16 +181,6 @@
   ],
   [
     [
-      "2026-01-09, 16:36:48",
-      "https://news.ycombinator.com/item?id=46555615"
-    ],
-    [
-      "SendGrid isn’t emailing about ICE or BLM – it’s a phishing attack",
-      "https://fredbenenson.com/blog/2026/01/09/sendgrid-isnt-emailing-you-about-ice-or-blm-its-a-phishing-attack/"
-    ]
-  ],
-  [
-    [
       "2026-01-09, 15:29:37",
       "https://news.ycombinator.com/item?id=46554897"
     ],
@@ -171,22 +191,12 @@
   ],
   [
     [
-      "2026-01-09, 07:06:41",
-      "https://news.ycombinator.com/item?id=46550895"
+      "2026-01-09, 12:54:48",
+      "https://news.ycombinator.com/item?id=46553343"
     ],
     [
-      "Mathematics for Computer Science (2018) [pdf]",
-      "https://courses.csail.mit.edu/6.042/spring18/mcs.pdf"
-    ]
-  ],
-  [
-    [
-      "2026-01-09, 05:44:58",
-      "https://news.ycombinator.com/item?id=46550453"
-    ],
-    [
-      "Agonist-Antagonist Myoneural Interface",
-      "https://www.media.mit.edu/projects/agonist-antagonist-myoneural-interface-ami/overview/"
+      "Kagi releases alpha version of Orion for Linux",
+      "https://help.kagi.com/orion/misc/linux-status.html"
     ]
   ],
   [
@@ -201,22 +211,22 @@
   ],
   [
     [
-      "2026-01-09, 01:59:32",
-      "https://news.ycombinator.com/item?id=46549231"
-    ],
-    [
-      "Show HN: A website that auctions itself daily",
-      "https://www.thedailyauction.com/"
-    ]
-  ],
-  [
-    [
       "2026-01-08, 23:24:30",
       "https://news.ycombinator.com/item?id=46547962"
     ],
     [
       "Scientists discover oldest poison, on 60k-year-old arrows",
       "https://www.nytimes.com/2026/01/07/science/poison-arrows-south-africa.html"
+    ]
+  ],
+  [
+    [
+      "2026-01-08, 19:54:26",
+      "https://news.ycombinator.com/item?id=46545620"
+    ],
+    [
+      "How to code Claude Code in 200 lines of code",
+      "https://www.mihaileric.com/The-Emperor-Has-No-Clothes/"
     ]
   ],
   [
@@ -231,22 +241,22 @@
   ],
   [
     [
-      "2026-01-06, 16:36:50",
-      "https://news.ycombinator.com/item?id=46514559"
-    ],
-    [
-      "Show HN: Repogen – a static site generator for package repositories",
-      "https://github.com/ralt/repogen"
-    ]
-  ],
-  [
-    [
       "2026-01-06, 13:23:39",
       "https://news.ycombinator.com/item?id=46511903"
     ],
     [
       "Show HN: Similarity = cosine(your_GitHub_stars, Karpathy) Client-side",
       "https://puzer.github.io/github_recommender/"
+    ]
+  ],
+  [
+    [
+      "2026-01-05, 20:14:29",
+      "https://news.ycombinator.com/item?id=46504220"
+    ],
+    [
+      "Favorite Tech Museums",
+      "https://aresluna.org/fav-tech-museums/"
     ]
   ],
   [
@@ -281,22 +291,12 @@
   ],
   [
     [
-      "2026-01-03, 16:34:38",
-      "https://news.ycombinator.com/item?id=46478558"
+      "2026-01-03, 20:21:37",
+      "https://news.ycombinator.com/item?id=46481124"
     ],
     [
-      "Linux Runs on Raspberry Pi RP2350's Hazard3 RISC-V Cores (2024)",
-      "https://www.hackster.io/news/jesse-taube-gets-linux-up-and-running-on-the-raspberry-pi-rp2350-s-hazard3-risc-v-cores-19088b87bb2c"
-    ]
-  ],
-  [
-    [
-      "2026-01-03, 13:49:24",
-      "https://news.ycombinator.com/item?id=46476587"
-    ],
-    [
-      "TextMaze",
-      "https://robobunny.com/projects/textmaze/html/?page=0"
+      "Design duality and the expression problem (2018)",
+      "https://www.tedinski.com/2018/02/27/the-expression-problem.html"
     ]
   ]
 ]
