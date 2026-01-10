@@ -18,6 +18,7 @@
 * [2026-01-03, 22:11:13](https://news.ycombinator.com/item?id=46482234) - [The Return of the American Protectorate](https://www.karlsnotes.com/running-venezuela-the-return-of-the-american-protectorate/)
 * [2026-01-03, 21:58:30](https://news.ycombinator.com/item?id=46482107) - [Take One Small Step](https://thinkhuman.com/take-one-small-step/)
 * [2026-01-03, 21:34:33](https://news.ycombinator.com/item?id=46481849) - [Scaling Latent Reasoning via Looped Language Models](https://arxiv.org/abs/2510.25741)
+* [2026-01-03, 21:18:42](https://news.ycombinator.com/item?id=46481682) - [The Performance Revolution in JavaScript Tooling](https://blog.appsignal.com/2025/12/03/the-performance-revolution-in-javascript-tooling.html)
 * [2026-01-03, 21:06:33](https://news.ycombinator.com/item?id=46481544) - [Show HN: I built an international calling platform for the past 6 months](https://voklit.com)
 * [2026-01-03, 20:21:37](https://news.ycombinator.com/item?id=46481124) - [Design duality and the expression problem (2018)](https://www.tedinski.com/2018/02/27/the-expression-problem.html)
 * [2026-01-03, 19:42:17](https://news.ycombinator.com/item?id=46480709) - [Busy Is the New Stupid](https://www.cisotradecraft.com/bitns)
