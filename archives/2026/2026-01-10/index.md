@@ -10,6 +10,7 @@
 * [2026-01-10, 17:13:16](https://news.ycombinator.com/item?id=46567588) - [Kavanaugh Stop](https://en.wikipedia.org/wiki/Kavanaugh_stop)
 * [2026-01-10, 17:02:30](https://news.ycombinator.com/item?id=46567467) - [Minnesota vs. US Federal Government Timeline Project](https://mnvsus.fyi)
 * [2026-01-10, 17:01:49](https://news.ycombinator.com/item?id=46567458) - [UpCodes (YC S17) is hiring PMs, SWEs to automate construction compliance](https://up.codes/careers?utm_source=HN)
+* [2026-01-10, 16:56:55](https://news.ycombinator.com/item?id=46567400) - [Show HN: I used Claude Code to discover connections between 100 books](https://trails.pieterma.es/)
 * [2026-01-10, 16:56:34](https://news.ycombinator.com/item?id=46567392) - [AI is a business model stress test](https://dri.es/ai-is-a-business-model-stress-test)
 * [2026-01-10, 16:43:19](https://news.ycombinator.com/item?id=46567218) - [Drones that recharge directly on transmission lines](https://www.ycombinator.com/companies/voltair)
 * [2026-01-10, 16:36:56](https://news.ycombinator.com/item?id=46567138) - [Microsoft May Have Created the Slowest Windows in 25 Years with Windows 11](https://www.eteknix.com/microsoft-may-have-created-the-slowest-windows-in-25-years-with-windows-11/)

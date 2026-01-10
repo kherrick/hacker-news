@@ -3,6 +3,7 @@
 * [2026-01-10, 19:29:05](https://news.ycombinator.com/item?id=46569075) - [Bichon: A lightweight, high-performance Rust email archiver with WebUI](https://github.com/rustmailer/bichon)
 * [2026-01-10, 18:44:46](https://news.ycombinator.com/item?id=46568662) - [Rats caught on camera hunting flying bats](https://scienceclock.com/rats-caught-on-camera-hunting-flying-bats-for-the-first-time/)
 * [2026-01-10, 17:01:49](https://news.ycombinator.com/item?id=46567458) - [UpCodes (YC S17) is hiring PMs, SWEs to automate construction compliance](https://up.codes/careers?utm_source=HN)
+* [2026-01-10, 16:56:55](https://news.ycombinator.com/item?id=46567400) - [Show HN: I used Claude Code to discover connections between 100 books](https://trails.pieterma.es/)
 * [2026-01-10, 16:56:34](https://news.ycombinator.com/item?id=46567392) - [AI is a business model stress test](https://dri.es/ai-is-a-business-model-stress-test)
 * [2026-01-10, 16:43:19](https://news.ycombinator.com/item?id=46567218) - [Drones that recharge directly on transmission lines](https://www.ycombinator.com/companies/voltair)
 * [2026-01-10, 16:03:55](https://news.ycombinator.com/item?id=46566812) - [Open Chaos: A self-evolving open-source project](https://www.openchaos.dev/)
@@ -29,7 +30,6 @@
 * [2026-01-06, 12:44:52](https://news.ycombinator.com/item?id=46511555) - [Greenland sharks maintain vision for centuries through DNA repair mechanism](https://phys.org/news/2026-01-eye-greenland-sharks-vision-centuries.html)
 * [2026-01-06, 05:07:20](https://news.ycombinator.com/item?id=46508956) - [Time Travelling and Fixing Bugs with Property-Based Testing (2019)](https://wickstrom.tech/2019-11-17-time-travelling-and-fixing-bugs-with-property-based-testing.html)
 * [2026-01-03, 08:26:52](https://news.ycombinator.com/item?id=46474065) - [Reverse Engineering the Epson FilmScan 200 for Classic Mac](https://ronangaillard.github.io/posts/reverse-engineering-epson-filmscan-200/)
-* [2026-01-03, 08:08:41](https://news.ycombinator.com/item?id=46473897) - [Alien: Braun Aromaster KF 20 Coffee Makers (2012)](http://alienexplorations.blogspot.com/1979/05/kf-20-coffee-making-machine.html)
 
 ## [Archives](archives/index.md)
 
