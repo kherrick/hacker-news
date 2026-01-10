@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-01-10, 12:51:25](https://news.ycombinator.com/item?id=46565281) - [All my new code will be closed-source from now on](https://twitter.com/MarcJSchmidt/status/2009688028931875156)
 * [2026-01-10, 12:23:20](https://news.ycombinator.com/item?id=46565132) - [A Eulogy for Dark Sky, a Data Visualization Masterpiece (2023)](https://nightingaledvs.com/dark-sky-weather-data-viz/)
 * [2026-01-10, 11:23:59](https://news.ycombinator.com/item?id=46564762) - [New information extracted from Snowden PDFs through metadata version analysis](https://libroot.org/posts/going-through-snowden-documents-part-4/)
 * [2026-01-10, 11:12:15](https://news.ycombinator.com/item?id=46564696) - [Allow me to introduce, the Citroen C15](https://eupolicy.social/@jmaris/115860595238097654)
@@ -17,11 +16,11 @@
 * [2026-01-09, 18:15:16](https://news.ycombinator.com/item?id=46557029) - [Show HN: Scroll Wikipedia like TikTok](https://quack.sdan.io)
 * [2026-01-09, 17:52:20](https://news.ycombinator.com/item?id=46556695) - [How Markdown took over the world](https://www.anildash.com/2026/01/09/how-markdown-took-over-the-world/)
 * [2026-01-09, 16:46:48](https://news.ycombinator.com/item?id=46555760) - [Cloudflare CEO on the Italy fines](https://twitter.com/eastdakota/status/2009654937303896492)
-* [2026-01-09, 15:07:17](https://news.ycombinator.com/item?id=46554652) - [How to store a chess position in 26 bytes (2022)](https://ezzeriesa.notion.site/How-to-store-a-chess-position-in-26-bytes-using-bit-level-magic-df1fdb5364eb42fdac11eb23b25e9605)
 * [2026-01-09, 12:54:48](https://news.ycombinator.com/item?id=46553343) - [Kagi releases alpha version of Orion for Linux](https://help.kagi.com/orion/misc/linux-status.html)
 * [2026-01-08, 23:24:30](https://news.ycombinator.com/item?id=46547962) - [Scientists discover oldest poison, on 60k-year-old arrows](https://www.nytimes.com/2026/01/07/science/poison-arrows-south-africa.html)
 * [2026-01-08, 19:54:26](https://news.ycombinator.com/item?id=46545620) - [How to code Claude Code in 200 lines of code](https://www.mihaileric.com/The-Emperor-Has-No-Clothes/)
 * [2026-01-08, 16:57:55](https://news.ycombinator.com/item?id=46543359) - [Show HN: Miditui – A terminal app/UI for MIDI composing, mixing, and playback](https://github.com/minimaxir/miditui)
+* [2026-01-08, 14:40:20](https://news.ycombinator.com/item?id=46541533) - [ChatGPT Health is a marketplace, guess who is the product?](https://consciousdigital.org/chatgpt-health-is-a-marketplace-guess-who-is-the-product/)
 * [2026-01-07, 09:35:46](https://news.ycombinator.com/item?id=46524379) - [Changes to Android Open Source Project](https://source.android.com/)
 * [2026-01-06, 14:33:30](https://news.ycombinator.com/item?id=46512743) - [Creating Embroidered Charts with R and ImageMagick](https://aman.bh/blog/2025/creating-embroidered-charts-with-r-and-imagemagick)
 * [2026-01-06, 12:44:52](https://news.ycombinator.com/item?id=46511555) - [Greenland sharks maintain vision for centuries through DNA repair mechanism](https://phys.org/news/2026-01-eye-greenland-sharks-vision-centuries.html)
@@ -29,6 +28,7 @@
 * [2026-01-05, 11:10:08](https://news.ycombinator.com/item?id=46497443) - [Diving into Qualcomm's Upcoming Adreno X2 GPU with Eric Demers](https://chipsandcheese.com/p/diving-into-qualcomms-upcoming-adreno)
 * [2026-01-04, 20:49:19](https://news.ycombinator.com/item?id=46492019) - [The likely cheapest home-made Michelson interferometer](https://guille.site/posts/3d-printed-michelson/)
 * [2026-01-04, 16:32:13](https://news.ycombinator.com/item?id=46489514) - [How will the miracle happen today?](https://kk.org/thetechnium/how-will-the-miracle-happen-today/)
+* [2026-01-03, 08:26:52](https://news.ycombinator.com/item?id=46474065) - [Reverse Engineering the Epson FilmScan 200 for Classic Mac](https://ronangaillard.github.io/posts/reverse-engineering-epson-filmscan-200/)
 * [2026-01-03, 08:08:41](https://news.ycombinator.com/item?id=46473897) - [Alien: Braun Aromaster KF 20 Coffee Makers (2012)](http://alienexplorations.blogspot.com/1979/05/kf-20-coffee-making-machine.html)
 
 ## [Archives](archives/index.md)
