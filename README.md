@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-01-10, 17:02:30](https://news.ycombinator.com/item?id=46567467) - [Minnesota vs. US Federal Government Timeline Project](https://mnvsus.fyi)
 * [2026-01-10, 17:01:49](https://news.ycombinator.com/item?id=46567458) - [UpCodes (YC S17) is hiring PMs, SWEs to automate construction compliance](https://up.codes/careers?utm_source=HN)
 * [2026-01-10, 16:56:34](https://news.ycombinator.com/item?id=46567392) - [AI is a business model stress test](https://dri.es/ai-is-a-business-model-stress-test)
 * [2026-01-10, 16:36:56](https://news.ycombinator.com/item?id=46567138) - [Microsoft May Have Created the Slowest Windows in 25 Years with Windows 11](https://www.eteknix.com/microsoft-may-have-created-the-slowest-windows-in-25-years-with-windows-11/)
@@ -19,6 +18,7 @@
 * [2026-01-09, 18:48:30](https://news.ycombinator.com/item?id=46557489) - [JavaScript Demos in 140 Characters](https://beta.dwitter.net)
 * [2026-01-09, 17:52:20](https://news.ycombinator.com/item?id=46556695) - [How Markdown took over the world](https://www.anildash.com/2026/01/09/how-markdown-took-over-the-world/)
 * [2026-01-09, 12:54:48](https://news.ycombinator.com/item?id=46553343) - [Kagi releases alpha version of Orion for Linux](https://help.kagi.com/orion/misc/linux-status.html)
+* [2026-01-08, 19:54:26](https://news.ycombinator.com/item?id=46545620) - [How to code Claude Code in 200 lines of code](https://www.mihaileric.com/The-Emperor-Has-No-Clothes/)
 * [2026-01-08, 14:40:20](https://news.ycombinator.com/item?id=46541533) - [ChatGPT Health is a marketplace, guess who is the product?](https://consciousdigital.org/chatgpt-health-is-a-marketplace-guess-who-is-the-product/)
 * [2026-01-07, 10:02:12](https://news.ycombinator.com/item?id=46524554) - [Httpz – Zero-Allocation HTTP/1.1 Parser for OxCaml](https://github.com/avsm/httpz)
 * [2026-01-07, 09:35:46](https://news.ycombinator.com/item?id=46524379) - [Changes to Android Open Source Project](https://source.android.com/)
