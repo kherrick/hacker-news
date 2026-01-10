@@ -221,16 +221,6 @@
   ],
   [
     [
-      "2026-01-08, 19:36:30",
-      "https://news.ycombinator.com/item?id=46545421"
-    ],
-    [
-      "The rise and fall of the company behind Reader Rabbit (2018)",
-      "https://theoutline.com/post/6293/reader-rabbit-history-the-learning-company-zoombinis-carmen-sandiego"
-    ]
-  ],
-  [
-    [
       "2026-01-08, 16:57:55",
       "https://news.ycombinator.com/item?id=46543359"
     ],
@@ -247,6 +237,16 @@
     [
       "Changes to Android Open Source Project",
       "https://source.android.com/"
+    ]
+  ],
+  [
+    [
+      "2026-01-06, 13:23:39",
+      "https://news.ycombinator.com/item?id=46511903"
+    ],
+    [
+      "Show HN: Similarity = cosine(your_GitHub_stars, Karpathy) Client-side",
+      "https://puzer.github.io/github_recommender/"
     ]
   ],
   [
