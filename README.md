@@ -6,7 +6,6 @@
 * [2026-01-09, 22:39:15](https://news.ycombinator.com/item?id=46560445) - [“Erdos problem #728 was solved more or less autonomously by AI”](https://mathstodon.xyz/@tao/115855840223258103)
 * [2026-01-09, 22:19:03](https://news.ycombinator.com/item?id=46560217) - [Start your meetings at 5 minutes past](https://philipotoole.com/start-your-meetings-at-5-minutes-past/)
 * [2026-01-09, 21:41:27](https://news.ycombinator.com/item?id=46559761) - [Deno has made its PyPI distribution official](https://github.com/denoland/deno/issues/31254)
-* [2026-01-09, 20:17:07](https://news.ycombinator.com/item?id=46558739) - [QtNat – Open you port with Qt UPnP](http://renaudguezennec.eu/index.php/2026/01/09/qtnat-open-you-port-with-qt/)
 * [2026-01-09, 19:33:47](https://news.ycombinator.com/item?id=46558148) - [RTX 5090 and Raspberry Pi: Can it game?](https://scottjg.com/posts/2026-01-08-crappy-computer-showdown/)
 * [2026-01-09, 19:15:21](https://news.ycombinator.com/item?id=46557879) - [Show HN: Rocket Launch and Orbit Simulator](https://www.donutthejedi.com/)
 * [2026-01-09, 18:48:30](https://news.ycombinator.com/item?id=46557489) - [JavaScript Demos in 140 Characters](https://beta.dwitter.net)
@@ -30,6 +29,7 @@
 * [2026-01-06, 12:44:52](https://news.ycombinator.com/item?id=46511555) - [Greenland sharks maintain vision for centuries through DNA repair mechanism](https://phys.org/news/2026-01-eye-greenland-sharks-vision-centuries.html)
 * [2026-01-05, 20:14:29](https://news.ycombinator.com/item?id=46504220) - [Favorite Tech Museums](https://aresluna.org/fav-tech-museums/)
 * [2026-01-04, 16:32:13](https://news.ycombinator.com/item?id=46489514) - [How will the miracle happen today?](https://kk.org/thetechnium/how-will-the-miracle-happen-today/)
+* [2026-01-03, 08:08:41](https://news.ycombinator.com/item?id=46473897) - [Alien: Braun Aromaster KF 20 Coffee Makers (2012)](http://alienexplorations.blogspot.com/1979/05/kf-20-coffee-making-machine.html)
 
 ## [Archives](archives/index.md)
 

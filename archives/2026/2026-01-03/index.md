@@ -57,6 +57,7 @@
 * [2026-01-03, 10:09:48](https://news.ycombinator.com/item?id=46474859) - [Late night pizzeria nearby The Pentagon has suddenly surged in traffic](https://twitter.com/PenPizzaReport/status/2007347706017251535)
 * [2026-01-03, 10:05:56](https://news.ycombinator.com/item?id=46474833) - [How to Win Friends and Influence People: Unrevised Version](https://socialskillswisdom.com/)
 * [2026-01-03, 09:04:48](https://news.ycombinator.com/item?id=46474344) - [AI results can be manipulated](https://ahrefs.com/blog/ai-vs-made-up-brand-experiment/)
+* [2026-01-03, 08:08:41](https://news.ycombinator.com/item?id=46473897) - [Alien: Braun Aromaster KF 20 Coffee Makers (2012)](http://alienexplorations.blogspot.com/1979/05/kf-20-coffee-making-machine.html)
 * [2026-01-03, 07:46:02](https://news.ycombinator.com/item?id=46473726) - [Native Amiga Filesystems on macOS / Linux / Windows with FUSE](https://github.com/reinauer/amifuse)
 * [2026-01-03, 07:35:26](https://news.ycombinator.com/item?id=46473623) - [Explosions reported in Venezuelan capital Caracas](https://www.theguardian.com/world/2026/jan/03/explosions-reported-venezuela-caracas)
 * [2026-01-03, 07:09:16](https://news.ycombinator.com/item?id=46473491) - [At least 7 explosions and low-flying aircraft are heard in Venezuela's Caracas](https://apnews.com/article/venezuela-us-explosions-caracas-ca712a67aaefc30b1831f5bf0b50665e)
