@@ -6,6 +6,7 @@
 
 * [2026-01-10, 12:51:25](https://news.ycombinator.com/item?id=46565281) - [All my new code will be closed-source from now on](https://twitter.com/MarcJSchmidt/status/2009688028931875156)
 * [2026-01-10, 12:23:20](https://news.ycombinator.com/item?id=46565132) - [A Eulogy for Dark Sky, a Data Visualization Masterpiece (2023)](https://nightingaledvs.com/dark-sky-weather-data-viz/)
+* [2026-01-10, 11:23:59](https://news.ycombinator.com/item?id=46564762) - [New information extracted from Snowden PDFs through metadata version analysis](https://libroot.org/posts/going-through-snowden-documents-part-4/)
 * [2026-01-10, 11:12:15](https://news.ycombinator.com/item?id=46564696) - [Allow me to introduce, the Citroen C15](https://eupolicy.social/@jmaris/115860595238097654)
 * [2026-01-10, 10:53:28](https://news.ycombinator.com/item?id=46564618) - [I got paid minimum wage to solve an impossible problem](https://tiespetersen.substack.com/p/i-got-paid-minimum-wage-to-solve)
 * [2026-01-10, 10:42:31](https://news.ycombinator.com/item?id=46564552) - [Iran's internet shutdown is chillingly precise and may last some time](https://www.theguardian.com/world/2026/jan/10/irans-internet-shutdown-is-strikingly-sophisticated-and-may-last-some-time)

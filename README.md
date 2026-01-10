@@ -2,6 +2,7 @@
 
 * [2026-01-10, 12:51:25](https://news.ycombinator.com/item?id=46565281) - [All my new code will be closed-source from now on](https://twitter.com/MarcJSchmidt/status/2009688028931875156)
 * [2026-01-10, 12:23:20](https://news.ycombinator.com/item?id=46565132) - [A Eulogy for Dark Sky, a Data Visualization Masterpiece (2023)](https://nightingaledvs.com/dark-sky-weather-data-viz/)
+* [2026-01-10, 11:23:59](https://news.ycombinator.com/item?id=46564762) - [New information extracted from Snowden PDFs through metadata version analysis](https://libroot.org/posts/going-through-snowden-documents-part-4/)
 * [2026-01-10, 11:12:15](https://news.ycombinator.com/item?id=46564696) - [Allow me to introduce, the Citroen C15](https://eupolicy.social/@jmaris/115860595238097654)
 * [2026-01-10, 10:53:28](https://news.ycombinator.com/item?id=46564618) - [I got paid minimum wage to solve an impossible problem](https://tiespetersen.substack.com/p/i-got-paid-minimum-wage-to-solve)
 * [2026-01-10, 09:56:46](https://news.ycombinator.com/item?id=46564323) - [Beating the Tutorial](https://elliotmorris.net/blog-a-day-3-beating-the-tutorial)
@@ -22,7 +23,6 @@
 * [2026-01-08, 19:54:26](https://news.ycombinator.com/item?id=46545620) - [How to code Claude Code in 200 lines of code](https://www.mihaileric.com/The-Emperor-Has-No-Clothes/)
 * [2026-01-08, 16:57:55](https://news.ycombinator.com/item?id=46543359) - [Show HN: Miditui – A terminal app/UI for MIDI composing, mixing, and playback](https://github.com/minimaxir/miditui)
 * [2026-01-07, 09:35:46](https://news.ycombinator.com/item?id=46524379) - [Changes to Android Open Source Project](https://source.android.com/)
-* [2026-01-07, 00:45:38](https://news.ycombinator.com/item?id=46521038) - [The paradox of failed resolutions](https://jillianhess.substack.com/p/the-paradox-of-failed-resolutions)
 * [2026-01-06, 14:33:30](https://news.ycombinator.com/item?id=46512743) - [Creating Embroidered Charts with R and ImageMagick](https://aman.bh/blog/2025/creating-embroidered-charts-with-r-and-imagemagick)
 * [2026-01-06, 12:44:52](https://news.ycombinator.com/item?id=46511555) - [Greenland sharks maintain vision for centuries through DNA repair mechanism](https://phys.org/news/2026-01-eye-greenland-sharks-vision-centuries.html)
 * [2026-01-05, 22:51:14](https://news.ycombinator.com/item?id=46506261) - [Ask HN: What's a standard way for apps to request text completion as a service?](https://news.ycombinator.com/item?id=46506261)
