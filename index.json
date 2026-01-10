@@ -201,16 +201,6 @@
   ],
   [
     [
-      "2026-01-09, 22:39:15",
-      "https://news.ycombinator.com/item?id=46560445"
-    ],
-    [
-      "“Erdos problem #728 was solved more or less autonomously by AI”",
-      "https://mathstodon.xyz/@tao/115855840223258103"
-    ]
-  ],
-  [
-    [
       "2026-01-09, 19:11:59",
       "https://news.ycombinator.com/item?id=46557825"
     ],
@@ -267,6 +257,16 @@
     [
       "Distributed Denial of Secrets",
       "https://ddosecrets.com/"
+    ]
+  ],
+  [
+    [
+      "2026-01-07, 10:02:12",
+      "https://news.ycombinator.com/item?id=46524554"
+    ],
+    [
+      "Httpz – Zero-Allocation HTTP/1.1 Parser for OxCaml",
+      "https://github.com/avsm/httpz"
     ]
   ],
   [
