@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2026-01-09](index.md)
 
 * [2026-01-09, 22:39:15](https://news.ycombinator.com/item?id=46560445) - [AI solves Erdos problem #728 (Terence Tao mathstodon post)](https://mathstodon.xyz/@tao/115855840223258103)
+* [2026-01-09, 22:29:54](https://news.ycombinator.com/item?id=46560343) - [Pre-commit lint checks: Vibe coding's kryptonite](https://www.getseer.dev/blogs/pre-commit-linting-vibe-coding)
 * [2026-01-09, 22:19:03](https://news.ycombinator.com/item?id=46560217) - [Start your meetings at 5 minutes past](https://philipotoole.com/start-your-meetings-at-5-minutes-past/)
 * [2026-01-09, 21:41:27](https://news.ycombinator.com/item?id=46559761) - [Deno has made its PyPI distribution official](https://github.com/denoland/deno/issues/31254)
 * [2026-01-09, 21:27:10](https://news.ycombinator.com/item?id=46559599) - [Sigmund Freud's Begonia](https://observer.co.uk/news/first-person/article/emma-freud-sigmund-freuds-begonia)
