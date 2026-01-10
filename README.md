@@ -14,7 +14,6 @@
 * [2026-01-09, 19:33:47](https://news.ycombinator.com/item?id=46558148) - [RTX 5090 and Raspberry Pi: Can it game?](https://scottjg.com/posts/2026-01-08-crappy-computer-showdown/)
 * [2026-01-09, 19:15:21](https://news.ycombinator.com/item?id=46557879) - [Show HN: Rocket Launch and Orbit Simulator](https://www.donutthejedi.com/)
 * [2026-01-09, 18:48:30](https://news.ycombinator.com/item?id=46557489) - [JavaScript Demos in 140 Characters](https://beta.dwitter.net)
-* [2026-01-09, 18:17:24](https://news.ycombinator.com/item?id=46557057) - [My article on why AI is great (or terrible) or how to use it](https://matthewrocklin.com/ai-zealotry/)
 * [2026-01-09, 17:52:20](https://news.ycombinator.com/item?id=46556695) - [How Markdown took over the world](https://www.anildash.com/2026/01/09/how-markdown-took-over-the-world/)
 * [2026-01-09, 16:46:48](https://news.ycombinator.com/item?id=46555760) - [Cloudflare CEO on the Italy fines](https://twitter.com/eastdakota/status/2009654937303896492)
 * [2026-01-09, 12:54:48](https://news.ycombinator.com/item?id=46553343) - [Kagi releases alpha version of Orion for Linux](https://help.kagi.com/orion/misc/linux-status.html)
@@ -30,6 +29,7 @@
 * [2026-01-04, 16:32:13](https://news.ycombinator.com/item?id=46489514) - [How will the miracle happen today?](https://kk.org/thetechnium/how-will-the-miracle-happen-today/)
 * [2026-01-03, 08:26:52](https://news.ycombinator.com/item?id=46474065) - [Reverse Engineering the Epson FilmScan 200 for Classic Mac](https://ronangaillard.github.io/posts/reverse-engineering-epson-filmscan-200/)
 * [2026-01-03, 08:08:41](https://news.ycombinator.com/item?id=46473897) - [Alien: Braun Aromaster KF 20 Coffee Makers (2012)](http://alienexplorations.blogspot.com/1979/05/kf-20-coffee-making-machine.html)
+* [2026-01-01, 16:21:18](https://news.ycombinator.com/item?id=46455269) - [Show HN: C-TURTL, a turtle graphics game](https://michae2.github.io/c-turtl/)
 
 ## [Archives](archives/index.md)
 
