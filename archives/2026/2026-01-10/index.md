@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-01-10](index.md)
 
+* [2026-01-10, 21:36:26](https://news.ycombinator.com/item?id=46570158) - [UK Orders Ofcom to Explore Encryption Backdoors](https://reclaimthenet.org/uk-orders-ofcom-to-explore-encryption-backdoors)
+* [2026-01-10, 20:50:29](https://news.ycombinator.com/item?id=46569799) - [Extracting books from production language models (2026)](https://arxiv.org/abs/2601.02671)
 * [2026-01-10, 20:45:22](https://news.ycombinator.com/item?id=46569749) - [Worst of Breed Software](https://worstofbreed.net/)
 * [2026-01-10, 20:31:51](https://news.ycombinator.com/item?id=46569640) - [Sinclair C5](https://en.wikipedia.org/wiki/Sinclair_C5)
 * [2026-01-10, 19:29:05](https://news.ycombinator.com/item?id=46569075) - [Bichon: A lightweight, high-performance Rust email archiver with WebUI](https://github.com/rustmailer/bichon)

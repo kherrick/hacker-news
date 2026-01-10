@@ -46,6 +46,7 @@
 * [2026-01-05, 16:57:21](https://news.ycombinator.com/item?id=46501309) - [Los Angeles ends strange rite of passage with new fridge law](https://www.nytimes.com/2026/01/01/realestate/fridge-law-los-angeles.html)
 * [2026-01-05, 16:47:23](https://news.ycombinator.com/item?id=46501137) - [Show HN: Tailsnitch – A Security Auditor for Tailscale](https://github.com/Adversis/tailsnitch)
 * [2026-01-05, 16:34:22](https://news.ycombinator.com/item?id=46500900) - [Observability's past, present, and future](https://blog.sherwoodcallaway.com/observability-s-past-present-and-future/)
+* [2026-01-05, 16:32:52](https://news.ycombinator.com/item?id=46500873) - [The 8 ways that all the elements in the Universe are made](https://bigthink.com/starts-with-a-bang/8-ways-elements-made/)
 * [2026-01-05, 16:30:30](https://news.ycombinator.com/item?id=46500824) - [Over 600 job openings at Apple for Vision Pro](https://jobs.apple.com/en-us/search?search=vision+pro&sort=relevance&location=united-states-USA)
 * [2026-01-05, 16:29:38](https://news.ycombinator.com/item?id=46500806) - [Anyone building software for wearable tech?](https://news.ycombinator.com/item?id=46500806)
 * [2026-01-05, 16:29:10](https://news.ycombinator.com/item?id=46500798) - [How wolves became dogs](https://www.economist.com/christmas-specials/2025/12/18/how-wolves-became-dogs)

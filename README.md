@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-01-10, 21:36:26](https://news.ycombinator.com/item?id=46570158) - [UK Orders Ofcom to Explore Encryption Backdoors](https://reclaimthenet.org/uk-orders-ofcom-to-explore-encryption-backdoors)
+* [2026-01-10, 20:50:29](https://news.ycombinator.com/item?id=46569799) - [Extracting books from production language models (2026)](https://arxiv.org/abs/2601.02671)
 * [2026-01-10, 20:45:22](https://news.ycombinator.com/item?id=46569749) - [Worst of Breed Software](https://worstofbreed.net/)
 * [2026-01-10, 20:31:51](https://news.ycombinator.com/item?id=46569640) - [Sinclair C5](https://en.wikipedia.org/wiki/Sinclair_C5)
 * [2026-01-10, 19:29:05](https://news.ycombinator.com/item?id=46569075) - [Bichon: A lightweight, high-performance Rust email archiver with WebUI](https://github.com/rustmailer/bichon)
@@ -19,17 +21,15 @@
 * [2026-01-10, 09:15:30](https://news.ycombinator.com/item?id=46564116) - [Org Mode Syntax Is One of the Most Reasonable Markup Languages to Use for Text](https://karl-voit.at/2017/09/23/orgmode-as-markup-only/)
 * [2026-01-09, 22:39:15](https://news.ycombinator.com/item?id=46560445) - [“Erdos problem #728 was solved more or less autonomously by AI”](https://mathstodon.xyz/@tao/115855840223258103)
 * [2026-01-08, 21:53:06](https://news.ycombinator.com/item?id=46547024) - [Side-by-side comparison of how AI models answer moral dilemmas](https://civai.org/p/ai-values)
-* [2026-01-08, 17:45:15](https://news.ycombinator.com/item?id=46544009) - [Good Judgment Open](https://www.gjopen.com)
 * [2026-01-08, 17:10:29](https://news.ycombinator.com/item?id=46543518) - [GPU memory snapshots: sub-second startup (2025)](https://modal.com/blog/gpu-mem-snapshots)
 * [2026-01-08, 14:40:20](https://news.ycombinator.com/item?id=46541533) - [ChatGPT Health is a marketplace, guess who is the product?](https://consciousdigital.org/chatgpt-health-is-a-marketplace-guess-who-is-the-product/)
 * [2026-01-08, 08:18:17](https://news.ycombinator.com/item?id=46538628) - [ASCII-Driven Development](https://medium.com/@calufa/ascii-driven-development-850f66661351)
-* [2026-01-08, 01:08:02](https://news.ycombinator.com/item?id=46535691) - [How we made v0 an effective coding agent](https://vercel.com/blog/how-we-made-v0-an-effective-coding-agent)
 * [2026-01-08, 00:05:31](https://news.ycombinator.com/item?id=46535143) - [Distributed Denial of Secrets](https://ddosecrets.com/)
 * [2026-01-07, 10:02:12](https://news.ycombinator.com/item?id=46524554) - [Httpz – Zero-Allocation HTTP/1.1 Parser for OxCaml](https://github.com/avsm/httpz)
 * [2026-01-07, 09:35:46](https://news.ycombinator.com/item?id=46524379) - [Changes to Android Open Source Project](https://source.android.com/)
 * [2026-01-07, 08:44:36](https://news.ycombinator.com/item?id=46524051) - [Bindless Oriented Graphics Programming](https://alextardif.com/BindlessProgramming.html)
 * [2026-01-05, 19:41:00](https://news.ycombinator.com/item?id=46503685) - [O-Ring Automation](https://www.nber.org/papers/w34639)
-* [2026-01-03, 08:26:52](https://news.ycombinator.com/item?id=46474065) - [Reverse Engineering the Epson FilmScan 200 for Classic Mac](https://ronangaillard.github.io/posts/reverse-engineering-epson-filmscan-200/)
+* [2026-01-05, 16:32:52](https://news.ycombinator.com/item?id=46500873) - [The 8 ways that all the elements in the Universe are made](https://bigthink.com/starts-with-a-bang/8-ways-elements-made/)
 
 ## [Archives](archives/index.md)
 
