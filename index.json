@@ -181,16 +181,6 @@
   ],
   [
     [
-      "2026-01-09, 12:54:48",
-      "https://news.ycombinator.com/item?id=46553343"
-    ],
-    [
-      "Kagi releases alpha version of Orion for Linux",
-      "https://help.kagi.com/orion/misc/linux-status.html"
-    ]
-  ],
-  [
-    [
       "2026-01-08, 23:24:30",
       "https://news.ycombinator.com/item?id=46547962"
     ],
@@ -217,6 +207,16 @@
     [
       "ChatGPT Health is a marketplace, guess who is the product?",
       "https://consciousdigital.org/chatgpt-health-is-a-marketplace-guess-who-is-the-product/"
+    ]
+  ],
+  [
+    [
+      "2026-01-07, 10:02:12",
+      "https://news.ycombinator.com/item?id=46524554"
+    ],
+    [
+      "Httpz – Zero-Allocation HTTP/1.1 Parser for OxCaml",
+      "https://github.com/avsm/httpz"
     ]
   ],
   [
