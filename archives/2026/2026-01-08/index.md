@@ -77,6 +77,7 @@
 * [2026-01-08, 03:31:12](https://news.ycombinator.com/item?id=46536866) - [Open Infrastructure Map](https://openinframap.org)
 * [2026-01-08, 03:30:39](https://news.ycombinator.com/item?id=46536862) - [Show HN: IceRaidsNearMe – Real-time, crowdsourced map of immigration enforcement](https://iceraidsnearme.com/)
 * [2026-01-08, 03:29:11](https://news.ycombinator.com/item?id=46536848) - [Chase to become new issuer of Apple Card](https://www.jpmorganchase.com/ir/news/2026/chase-to-become-new-issuer-of-apple-card)
+* [2026-01-08, 03:24:38](https://news.ycombinator.com/item?id=46536808) - [Varnish and Virtue](https://literaryreview.co.uk/varnish-virtue)
 * [2026-01-08, 03:09:09](https://news.ycombinator.com/item?id=46536718) - [AI Econ Seminar](https://cameron.stream/blog/econ-seminar/)
 * [2026-01-08, 02:18:09](https://news.ycombinator.com/item?id=46536340) - [Kernel bugs hide for 2 years on average. Some hide for 20](https://pebblebed.com/blog/kernel-bugs)
 * [2026-01-08, 01:08:02](https://news.ycombinator.com/item?id=46535691) - [How we made v0 an effective coding agent](https://vercel.com/blog/how-we-made-v0-an-effective-coding-agent)

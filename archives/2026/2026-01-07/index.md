@@ -71,6 +71,7 @@
 * [2026-01-07, 05:10:27](https://news.ycombinator.com/item?id=46522841) - [PgX – Debug Postgres performance in the context of your application code](https://docs.base14.io/blog/introducing-pgx/)
 * [2026-01-07, 04:48:50](https://news.ycombinator.com/item?id=46522686) - [A glimpse into V8 development for RISC-V](https://riseproject.dev/2025/12/09/a-glimpse-into-v8-development-for-risc-v/)
 * [2026-01-07, 04:40:48](https://news.ycombinator.com/item?id=46522632) - [LMArena is a cancer on AI](https://surgehq.ai/blog/lmarena-is-a-plague-on-ai)
+* [2026-01-07, 03:55:33](https://news.ycombinator.com/item?id=46522358) - [A Child in the State of Nature](https://lareviewofbooks.org/article/a-child-in-the-state-of-nature/)
 * [2026-01-07, 03:48:05](https://news.ycombinator.com/item?id=46522308) - [On the slow death of scaling](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5877662)
 * [2026-01-07, 02:37:09](https://news.ycombinator.com/item?id=46521860) - [Microsoft probably killed my Snapdragon Dev Kit](https://jasoneckert.github.io/myblog/how-microsoft-killed-my-snapdragon-devkit/)
 * [2026-01-07, 02:25:08](https://news.ycombinator.com/item?id=46521773) - [Polymarket refuses to pay bets that US would 'invade' Venezuela](https://www.ft.com/content/985ae542-1ab4-491e-8e6e-b30f6a3ab666)
