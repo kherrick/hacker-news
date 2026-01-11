@@ -53,6 +53,7 @@
 * [2026-01-06, 14:33:30](https://news.ycombinator.com/item?id=46512743) - [Creating Embroidered Charts with R and ImageMagick](https://aman.bh/blog/2025/creating-embroidered-charts-with-r-and-imagemagick)
 * [2026-01-06, 14:30:53](https://news.ycombinator.com/item?id=46512707) - [Gemini Protocol Deployment Statistics](https://www.obsessivefacts.com/gemini-proxy?uri=gemini%3A%2F%2Fgemini.bortzmeyer.org%2Fsoftware%2Flupa%2Fstats.gmi)
 * [2026-01-06, 14:14:24](https://news.ycombinator.com/item?id=46512501) - [Show HN: ccrider - Search and Resume Your Claude Code Sessions – TUI / MCP / CLI](https://github.com/neilberkman/ccrider)
+* [2026-01-06, 13:51:24](https://news.ycombinator.com/item?id=46512210) - [Show HN: I built an Open Source screen timer for the m5stickc (Arduino)](https://partridge.works/screenie-christmas-project-2025-26/)
 * [2026-01-06, 13:50:48](https://news.ycombinator.com/item?id=46512203) - [Show HN: VaultSandbox – Test your real MailGun/SES/etc. integration](https://vaultsandbox.com/)
 * [2026-01-06, 13:48:27](https://news.ycombinator.com/item?id=46512182) - [Show HN: Mantic.sh – Search 480k files in 0.46s without embeddings](https://github.com/marcoaapfortes/Mantic.sh)
 * [2026-01-06, 13:30:07](https://news.ycombinator.com/item?id=46511981) - [Why German Strings Are Everywhere?](https://cedardb.com/blog/german_strings/)

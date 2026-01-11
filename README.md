@@ -11,7 +11,6 @@
 * [2026-01-11, 02:08:14](https://news.ycombinator.com/item?id=46572060) - [A Year of Work on the Arch Linux Package Management (ALPM) Project](https://devblog.archlinux.page/2026/a-year-of-work-on-the-alpm-project/)
 * [2026-01-11, 02:00:45](https://news.ycombinator.com/item?id=46572032) - [Sisyphus Now Lives in Oh My Claude](https://github.com/Yeachan-Heo/oh-my-claude-sisyphus)
 * [2026-01-11, 01:50:01](https://news.ycombinator.com/item?id=46571980) - [Show HN: Ferrite – Markdown editor in Rust with native Mermaid diagram rendering](https://github.com/OlaProeis/Ferrite)
-* [2026-01-11, 01:12:51](https://news.ycombinator.com/item?id=46571760) - [Kodbox: Open-source cloud desktop with multi-storage fusion and web IDE](https://github.com/kalcaddle/kodbox)
 * [2026-01-10, 23:45:25](https://news.ycombinator.com/item?id=46571149) - [Show HN: Librario, a book metadata API that aggregates G Books, ISBNDB, and more](https://news.ycombinator.com/item?id=46571149)
 * [2026-01-10, 19:54:49](https://news.ycombinator.com/item?id=46569312) - [Overdose deaths are falling in America because of a 'supply shock': study](https://www.economist.com/united-states/2026/01/08/why-overdose-deaths-are-falling-in-america)
 * [2026-01-10, 19:43:57](https://news.ycombinator.com/item?id=46569225) - [Code Is Clay](https://campedersen.com/code-is-clay)
@@ -29,6 +28,7 @@
 * [2026-01-07, 09:53:03](https://news.ycombinator.com/item?id=46524483) - [An Experimental Approach to Printf in HLSL](https://www.abolishcrlf.org//2025/12/31/Printf.html)
 * [2026-01-06, 20:43:12](https://news.ycombinator.com/item?id=46518401) - [Visual regression tests for personal blogs](https://marending.dev/notes/visual-testing/)
 * [2026-01-06, 15:05:09](https://news.ycombinator.com/item?id=46513163) - [Show HN: mcpc – Universal command-line client for Model Context Protocol (MCP)](https://github.com/apify/mcp-cli)
+* [2026-01-06, 13:51:24](https://news.ycombinator.com/item?id=46512210) - [Show HN: I built an Open Source screen timer for the m5stickc (Arduino)](https://partridge.works/screenie-christmas-project-2025-26/)
 * [2026-01-06, 02:07:18](https://news.ycombinator.com/item?id=46507891) - ['Bandersnatch': The Works That Inspired the 'Black Mirror' Interactive Feature (2019)](https://www.hollywoodreporter.com/tv/tv-news/black-mirror-bandersnatch-real-life-works-influences-1173330/)
 
 ## [Archives](archives/index.md)
