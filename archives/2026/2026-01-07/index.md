@@ -60,6 +60,7 @@
 * [2026-01-07, 12:19:01](https://news.ycombinator.com/item?id=46525542) - [The Eric and Wendy Schmidt Observatory System](https://www.schmidtsciences.org/schmidt-observatory-system/)
 * [2026-01-07, 12:01:30](https://news.ycombinator.com/item?id=46525410) - [Ragdoll Mayhem Maker – a physics-based level editor for my indie game](https://ragdollmayhemmaker.com/)
 * [2026-01-07, 12:00:20](https://news.ycombinator.com/item?id=46525394) - [Optery (YC W22) Hiring a CISO and Web Scraping Engineers (Node) (US and Latam)](https://www.optery.com/careers/)
+* [2026-01-07, 11:59:24](https://news.ycombinator.com/item?id=46525389) - [Elo – A data expression language which compiles to JavaScript, Ruby, and SQL](https://elo-lang.org/)
 * [2026-01-07, 11:43:26](https://news.ycombinator.com/item?id=46525271) - [Vojtux – Unofficial Linux Distribution Aimed at Visually Impaired Users](https://github.com/vojtapolasek/vojtux)
 * [2026-01-07, 11:39:33](https://news.ycombinator.com/item?id=46525236) - [CPU Counters on Apple Silicon: article + tool](https://blog.bugsiki.dev/posts/apple-pmu/)
 * [2026-01-07, 10:53:41](https://news.ycombinator.com/item?id=46524873) - [Firefox extension to redirect x.com to xcancel.com](https://addons.mozilla.org/en-US/firefox/addon/toxcancel/)
