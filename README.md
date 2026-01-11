@@ -3,7 +3,7 @@
 * [2026-01-11, 07:18:07](https://news.ycombinator.com/item?id=46573384) - [Iranian regime tries to shut down Starlink](https://www.timesofisrael.com/iran-appears-to-jam-starlink-after-shutting-down-comms-networks/)
 * [2026-01-11, 05:42:03](https://news.ycombinator.com/item?id=46573001) - [The Concise TypeScript Book](https://github.com/gibbok/typescript-book)
 * [2026-01-11, 05:01:19](https://news.ycombinator.com/item?id=46572821) - [I build products to get \"unplugged\" from the internet](https://getunplugged.io/I-build-products-to-get-unplugged)
-* [2026-01-11, 04:45:27](https://news.ycombinator.com/item?id=46572769) - ['The answer cannot be nothing': The battle over Canada's mystery brain disease](https://www.bbc.com/news/articles/c623r47d67lo)
+* [2026-01-11, 04:45:27](https://news.ycombinator.com/item?id=46572769) - [A battle over Canada’s mystery brain disease](https://www.bbc.com/news/articles/c623r47d67lo)
 * [2026-01-11, 04:32:47](https://news.ycombinator.com/item?id=46572723) - [Ripple: The Elegant TypeScript UI Framework](https://jsdev.space/meet-ripple/)
 * [2026-01-11, 04:19:04](https://news.ycombinator.com/item?id=46572679) - [My Home Fibre Network Disintegrated](https://alienchow.dev/post/fibre_disintegration/)
 * [2026-01-11, 03:15:14](https://news.ycombinator.com/item?id=46572392) - [Workers at Redmond SpaceX lab exposed to toxic chemicals](https://www.fox13seattle.com/video/fmc-w1ga4pk97gxq0hj5)
