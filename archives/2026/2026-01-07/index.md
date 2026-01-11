@@ -55,6 +55,7 @@
 * [2026-01-07, 13:22:35](https://news.ycombinator.com/item?id=46526088) - [Show HN: KeelTest – AI-driven VS Code unit test generator with bug discovery](https://keelcode.dev/keeltest)
 * [2026-01-07, 12:54:43](https://news.ycombinator.com/item?id=46525888) - [A4 Paper Stories](https://susam.net/a4-paper-stories.html)
 * [2026-01-07, 12:29:11](https://news.ycombinator.com/item?id=46525640) - [Stop Designing Languages. Write Libraries Instead](https://lbstanza.org/purpose_of_programming_languages.html)
+* [2026-01-07, 12:26:35](https://news.ycombinator.com/item?id=46525613) - [Large Feeds and RFC 5005](https://alexschroeder.ch/view/2025-09-10-large-feeds)
 * [2026-01-07, 12:19:01](https://news.ycombinator.com/item?id=46525542) - [The Eric and Wendy Schmidt Observatory System](https://www.schmidtsciences.org/schmidt-observatory-system/)
 * [2026-01-07, 12:01:30](https://news.ycombinator.com/item?id=46525410) - [Ragdoll Mayhem Maker – a physics-based level editor for my indie game](https://ragdollmayhemmaker.com/)
 * [2026-01-07, 12:00:20](https://news.ycombinator.com/item?id=46525394) - [Optery (YC W22) Hiring a CISO and Web Scraping Engineers (Node) (US and Latam)](https://www.optery.com/careers/)
