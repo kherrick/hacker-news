@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-01-11](index.md)
 
+* [2026-01-11, 18:49:32](https://news.ycombinator.com/item?id=46578497) - [Meta Announces Nuclear Energy Projects, Unlocking Up to 6.6 GW](https://about.fb.com/news/2026/01/meta-nuclear-energy-projects-power-american-ai-leadership/)
+* [2026-01-11, 18:37:10](https://news.ycombinator.com/item?id=46578339) - [Are We ... Yet?](https://wiki.mozilla.org/Areweyet)
 * [2026-01-11, 17:56:59](https://news.ycombinator.com/item?id=46577869) - ['F*ck You, Make Me' Without Saying the Words](https://daringfireball.net/2026/01/fuck_you_make_me_without_saying_the_words)
+* [2026-01-11, 17:05:52](https://news.ycombinator.com/item?id=46577464) - [Poison Fountain](https://rnsaffn.com/poison3/)
 * [2026-01-11, 17:05:52](https://news.ycombinator.com/item?id=46577464) - [AI industry insiders launch site to poison the data that feeds them](https://www.theregister.com/2026/01/11/industry_insiders_seek_to_poison/)
 * [2026-01-11, 16:43:06](https://news.ycombinator.com/item?id=46577242) - [Ask HN: What Are You Working On? (January 2026)](https://news.ycombinator.com/item?id=46577242)
 * [2026-01-11, 16:20:47](https://news.ycombinator.com/item?id=46577019) - [Replace the Retiring Windows XP with Linux](https://www.linux.com/training-tutorials/replace-retiring-windows-xp-linux/)
