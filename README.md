@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-01-11, 20:52:44](https://news.ycombinator.com/item?id=46579927) - [BYD's cheapest electric cars to have Lidar self-driving tech](https://thedriven.io/2026/01/11/byds-cheapest-electric-cars-to-have-lidar-self-driving-tech/)
+* [2026-01-11, 20:47:55](https://news.ycombinator.com/item?id=46579864) - [The struggle of resizing windows on macOS Tahoe](https://noheger.at/blog/2026/01/11/the-struggle-of-resizing-windows-on-macos-tahoe/)
 * [2026-01-11, 20:03:20](https://news.ycombinator.com/item?id=46579397) - [guys why does armenian completely break Claude](https://twitter.com/dyushag/status/1993143599286886525)
 * [2026-01-11, 20:01:14](https://news.ycombinator.com/item?id=46579374) - [Sampling at negative temperature](https://cavendishlabs.org/blog/negative-temperature/)
 * [2026-01-11, 19:26:13](https://news.ycombinator.com/item?id=46578957) - [\"Scholars Will Call It Nonsense\": The Structure of von Däniken's Argument (1987)](https://www.penn.museum/sites/expedition/scholars-will-call-it-nonsense/)
@@ -22,12 +24,10 @@
 * [2026-01-11, 05:33:20](https://news.ycombinator.com/item?id=46572968) - [Quake 1 Single-Player Map Design Theories (2001)](https://www.quaddicted.com/webarchive//teamshambler.planetquake.gamespy.com/theories1.html)
 * [2026-01-11, 04:19:04](https://news.ycombinator.com/item?id=46572679) - [My Home Fibre Network Disintegrated](https://alienchow.dev/post/fibre_disintegration/)
 * [2026-01-11, 00:58:35](https://news.ycombinator.com/item?id=46571661) - [Show HN: Epstein IM – Talk to Epstein clone in iMessage](https://epstein.im/)
-* [2026-01-09, 20:43:00](https://news.ycombinator.com/item?id=46559065) - [You are not required to close your <p>, <li>, <img>, or <br> tags in HTML](https://blog.novalistic.com/archives/2017/08/optional-end-tags-in-html/)
 * [2026-01-09, 09:01:33](https://news.ycombinator.com/item?id=46551602) - [C++ std::move doesn't move anything: A deep dive into Value Categories](https://0xghost.dev/blog/std-move-deep-dive/)
 * [2026-01-08, 17:09:55](https://news.ycombinator.com/item?id=46543509) - [Perfectly Replicating Coca Cola [video]](https://www.youtube.com/watch?v=TDkH3EbWTYc)
 * [2026-01-08, 10:34:05](https://news.ycombinator.com/item?id=46539478) - [I'm making a game engine based on dynamic signed distance fields (SDFs) [video]](https://www.youtube.com/watch?v=il-TXbn5iMA)
 * [2026-01-07, 19:53:40](https://news.ycombinator.com/item?id=46531622) - [A set of Idiomatic prod-grade katas for experienced devs transitioning to Go](https://github.com/MedUnes/go-kata)
-* [2026-01-07, 11:43:26](https://news.ycombinator.com/item?id=46525271) - [Vojtux – Unofficial Linux Distribution Aimed at Visually Impaired Users](https://github.com/vojtapolasek/vojtux)
 * [2026-01-06, 18:57:03](https://news.ycombinator.com/item?id=46516807) - [\"Food JPEGs\" in Super Smash Bros. & Kirby Air Riders](https://sethmlarson.dev/food-jpegs-in-super-smash-bros-and-kirby-air-riders)
 * [2026-01-06, 12:49:44](https://news.ycombinator.com/item?id=46511592) - [Dell admits it made a mistake when it abandoned XPS](https://gizmodo.com/dell-admits-it-made-a-huge-mistake-when-it-abandoned-xps-2000705053)
 

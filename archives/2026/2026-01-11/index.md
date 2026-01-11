@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-01-11](index.md)
 
+* [2026-01-11, 20:52:44](https://news.ycombinator.com/item?id=46579927) - [BYD's cheapest electric cars to have Lidar self-driving tech](https://thedriven.io/2026/01/11/byds-cheapest-electric-cars-to-have-lidar-self-driving-tech/)
+* [2026-01-11, 20:47:55](https://news.ycombinator.com/item?id=46579864) - [The struggle of resizing windows on macOS Tahoe](https://noheger.at/blog/2026/01/11/the-struggle-of-resizing-windows-on-macos-tahoe/)
 * [2026-01-11, 20:03:20](https://news.ycombinator.com/item?id=46579397) - [guys why does armenian completely break Claude](https://twitter.com/dyushag/status/1993143599286886525)
 * [2026-01-11, 20:01:14](https://news.ycombinator.com/item?id=46579374) - [Sampling at negative temperature](https://cavendishlabs.org/blog/negative-temperature/)
 * [2026-01-11, 19:26:13](https://news.ycombinator.com/item?id=46578957) - [\"Scholars Will Call It Nonsense\" the Structure of Erich von Däniken's Argument](https://www.penn.museum/sites/expedition/scholars-will-call-it-nonsense/)
