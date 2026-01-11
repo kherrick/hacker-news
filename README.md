@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-01-11, 17:56:59](https://news.ycombinator.com/item?id=46577869) - ['F*ck You, Make Me' Without Saying the Words](https://daringfireball.net/2026/01/fuck_you_make_me_without_saying_the_words)
 * [2026-01-11, 17:05:52](https://news.ycombinator.com/item?id=46577464) - [AI industry insiders launch site to poison the data that feeds them](https://www.theregister.com/2026/01/11/industry_insiders_seek_to_poison/)
 * [2026-01-11, 16:43:06](https://news.ycombinator.com/item?id=46577242) - [Ask HN: What Are You Working On? (January 2026)](https://news.ycombinator.com/item?id=46577242)
 * [2026-01-11, 16:20:47](https://news.ycombinator.com/item?id=46577019) - [Replace the Retiring Windows XP with Linux](https://www.linux.com/training-tutorials/replace-retiring-windows-xp-linux/)
@@ -15,6 +14,7 @@
 * [2026-01-11, 08:22:44](https://news.ycombinator.com/item?id=46573688) - [More than one hundred years of Film Sizes](https://wichm.home.xs4all.nl/filmsize.html)
 * [2026-01-11, 05:42:03](https://news.ycombinator.com/item?id=46573001) - [The Concise TypeScript Book](https://github.com/gibbok/typescript-book)
 * [2026-01-11, 04:19:04](https://news.ycombinator.com/item?id=46572679) - [My Home Fibre Network Disintegrated](https://alienchow.dev/post/fibre_disintegration/)
+* [2026-01-11, 03:43:44](https://news.ycombinator.com/item?id=46572523) - [Max Payne – two decades later – Graphics Critique (2021)](https://darkcephas.blogspot.com/2021/07/max-payne-two-decades-later-graphics.html)
 * [2026-01-11, 01:50:01](https://news.ycombinator.com/item?id=46571980) - [Show HN: Ferrite – Markdown editor in Rust with native Mermaid diagram rendering](https://github.com/OlaProeis/Ferrite)
 * [2026-01-10, 18:58:37](https://news.ycombinator.com/item?id=46568794) - [Finding and fixing Ghostty's largest memory leak](https://mitchellh.com/writing/ghostty-memory-leak-fix)
 * [2026-01-10, 16:56:55](https://news.ycombinator.com/item?id=46567400) - [Show HN: I used Claude Code to discover connections between 100 books](https://trails.pieterma.es/)
