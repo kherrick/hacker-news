@@ -4,7 +4,6 @@
 * [2026-01-11, 15:07:12](https://news.ycombinator.com/item?id=46576337) - [Instagram data breach reportedly exposed the personal info of 17.5M users](https://www.engadget.com/cybersecurity/an-instagram-data-breach-reportedly-exposed-the-personal-info-of-175-million-users-192105616.html)
 * [2026-01-11, 13:55:40](https://news.ycombinator.com/item?id=46575804) - [Happy 50th Birthday KIM-1](https://github.com/netzherpes/KIM1-Demo)
 * [2026-01-11, 12:50:01](https://news.ycombinator.com/item?id=46575305) - [KaraDAV – Lightweight Nextcloud compatible WebDAV server](https://github.com/kd2org/karadav)
-* [2026-01-11, 12:22:05](https://news.ycombinator.com/item?id=46575127) - [Google: Don't make \"bite-sized\" content for LLMs](https://arstechnica.com/google/2026/01/google-dont-make-bite-sized-content-for-llms-if-you-care-about-search-rank/)
 * [2026-01-11, 12:02:52](https://news.ycombinator.com/item?id=46574961) - [BasiliskII Macintosh 68k Emulator Ported to ESP32-P4 / M5Stack Tab5](https://github.com/amcchord/M5Tab-Macintosh)
 * [2026-01-11, 11:38:52](https://news.ycombinator.com/item?id=46574769) - [Gentoo Linux 2025 Review](https://www.gentoo.org/news/2026/01/05/new-year.html)
 * [2026-01-11, 11:31:22](https://news.ycombinator.com/item?id=46574707) - [I dumped Windows 11 for Linux, and you should too](https://www.notebookcheck.net/I-dumped-Windows-11-for-Linux-and-you-should-too.1190961.0.html)
@@ -28,6 +27,7 @@
 * [2026-01-07, 11:39:33](https://news.ycombinator.com/item?id=46525236) - [CPU Counters on Apple Silicon: article + tool](https://blog.bugsiki.dev/posts/apple-pmu/)
 * [2026-01-07, 07:18:26](https://news.ycombinator.com/item?id=46523527) - [Outward Signs of Inner Mysteries](https://lareviewofbooks.org/article/outward-signs-of-inner-mysteries/)
 * [2026-01-06, 18:57:03](https://news.ycombinator.com/item?id=46516807) - [\"Food JPEGs\" in Super Smash Bros. & Kirby Air Riders](https://sethmlarson.dev/food-jpegs-in-super-smash-bros-and-kirby-air-riders)
+* [2026-01-06, 12:49:44](https://news.ycombinator.com/item?id=46511592) - [Dell Admits It Made a Mistake When It Abandoned XPS](https://gizmodo.com/dell-admits-it-made-a-huge-mistake-when-it-abandoned-xps-2000705053)
 * [2026-01-06, 02:33:27](https://news.ycombinator.com/item?id=46508058) - [Learning from Sudoku Solvers (2007)](http://ravimohan.blogspot.com/2007/04/learning-from-sudoku-solvers.html)
 * [2026-01-06, 02:07:18](https://news.ycombinator.com/item?id=46507891) - ['Bandersnatch': The Works That Inspired the 'Black Mirror' Interactive Feature (2019)](https://www.hollywoodreporter.com/tv/tv-news/black-mirror-bandersnatch-real-life-works-influences-1173330/)
 

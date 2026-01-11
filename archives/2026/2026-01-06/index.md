@@ -60,6 +60,7 @@
 * [2026-01-06, 13:30:07](https://news.ycombinator.com/item?id=46511981) - [Why German Strings Are Everywhere?](https://cedardb.com/blog/german_strings/)
 * [2026-01-06, 13:23:39](https://news.ycombinator.com/item?id=46511903) - [Show HN: Similarity = cosine(your_GitHub_stars, Karpathy) Client-side](https://puzer.github.io/github_recommender/)
 * [2026-01-06, 12:53:06](https://news.ycombinator.com/item?id=46511617) - [Portland's gas-powered leaf blower ban goes into effect](https://www.oregonlive.com/environment/2026/01/portlands-gas-powered-leaf-blower-ban-goes-into-effect.html)
+* [2026-01-06, 12:49:44](https://news.ycombinator.com/item?id=46511592) - [Dell Admits It Made a Mistake When It Abandoned XPS](https://gizmodo.com/dell-admits-it-made-a-huge-mistake-when-it-abandoned-xps-2000705053)
 * [2026-01-06, 12:47:23](https://news.ycombinator.com/item?id=46511578) - [Show HN: DDL to Data – Generate realistic test data from SQL schemas](https://news.ycombinator.com/item?id=46511578)
 * [2026-01-06, 12:44:52](https://news.ycombinator.com/item?id=46511555) - [Greenland sharks maintain vision for centuries through DNA repair mechanism](https://phys.org/news/2026-01-eye-greenland-sharks-vision-centuries.html)
 * [2026-01-06, 12:33:54](https://news.ycombinator.com/item?id=46511470) - [C Is Best](https://sqlite.org/whyc.html)
