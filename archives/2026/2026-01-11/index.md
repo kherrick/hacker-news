@@ -21,6 +21,7 @@
 * [2026-01-11, 20:01:14](https://news.ycombinator.com/item?id=46579374) - [Sampling at negative temperature](https://cavendishlabs.org/blog/negative-temperature/)
 * [2026-01-11, 19:26:13](https://news.ycombinator.com/item?id=46578957) - [\"Scholars Will Call It Nonsense\" the Structure of Erich von Däniken's Argument](https://www.penn.museum/sites/expedition/scholars-will-call-it-nonsense/)
 * [2026-01-11, 19:23:58](https://news.ycombinator.com/item?id=46578921) - [Open-source iCloud Photos Downloader (AKA escape from iCloud)](https://github.com/icloud-photos-downloader/icloud_photos_downloader)
+* [2026-01-11, 19:18:47](https://news.ycombinator.com/item?id=46578867) - [Erich von Däniken has died](https://daniken.com/en/startseite-english/)
 * [2026-01-11, 19:07:08](https://news.ycombinator.com/item?id=46578701) - [Anthropic: Developing a Claude Code competitor using Claude Code is banned](https://twitter.com/SIGKITTEN/status/2009697031422652461)
 * [2026-01-11, 18:50:47](https://news.ycombinator.com/item?id=46578507) - [American Dialect Society 2025 Word of the Year Is \"Slop\"](https://americandialect.org/2025-word-of-the-year-is-slop/)
 * [2026-01-11, 18:49:32](https://news.ycombinator.com/item?id=46578497) - [Meta Announces Nuclear Energy Projects, Unlocking Up to 6.6 GW](https://about.fb.com/news/2026/01/meta-nuclear-energy-projects-power-american-ai-leadership/)

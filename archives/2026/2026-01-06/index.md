@@ -31,6 +31,7 @@
 * [2026-01-06, 17:49:56](https://news.ycombinator.com/item?id=46515777) - [Launch HN: Tamarind Bio (YC W24) – AI Inference Provider for Drug Discovery](https://news.ycombinator.com/item?id=46515777)
 * [2026-01-06, 17:45:37](https://news.ycombinator.com/item?id=46515696) - [Opus 4.5 is going to change everything](https://burkeholland.github.io/posts/opus-4-5-change-everything/)
 * [2026-01-06, 17:43:03](https://news.ycombinator.com/item?id=46515648) - [DatBench: Discriminative, faithful, and efficient VLM evaluations](https://arxiv.org/abs/2601.02316)
+* [2026-01-06, 17:41:42](https://news.ycombinator.com/item?id=46515625) - [Insights into Claude Opus 4.5 from Pokémon](https://www.lesswrong.com/posts/u6Lacc7wx4yYkBQ3r/insights-into-claude-opus-4-5-from-pokemon)
 * [2026-01-06, 17:15:39](https://news.ycombinator.com/item?id=46515191) - [Co-founder Joe Lonsdale: Palantir was founded to kill communists](https://twitter.com/JTLonsdale/status/2007849014407086427)
 * [2026-01-06, 16:59:44](https://news.ycombinator.com/item?id=46514913) - [Volkswagen Brings Back Physical Buttons](https://www.caranddriver.com/news/a69916699/volkswagen-interior-physical-buttons-return/)
 * [2026-01-06, 16:57:15](https://news.ycombinator.com/item?id=46514874) - [Show HN: Stash – Sync Markdown Files with Apple Notes via CLI](https://github.com/shakedlokits/stash)
