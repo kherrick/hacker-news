@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-01-11](index.md)
 
+* [2026-01-11, 15:07:12](https://news.ycombinator.com/item?id=46576337) - [Instagram data breach reportedly exposed the personal info of 17.5M users](https://www.engadget.com/cybersecurity/an-instagram-data-breach-reportedly-exposed-the-personal-info-of-175-million-users-192105616.html)
 * [2026-01-11, 13:55:40](https://news.ycombinator.com/item?id=46575804) - [Happy 50th Birthday KIM-1](https://github.com/netzherpes/KIM1-Demo)
 * [2026-01-11, 13:32:59](https://news.ycombinator.com/item?id=46575619) - [Show HN: Is AI hijacking your intent? A formal control algorithm to measure it](https://news.ycombinator.com/item?id=46575619)
 * [2026-01-11, 12:44:04](https://news.ycombinator.com/item?id=46575268) - [LLM poetry and the \"greatness\" question: Experiments by Gwern and Mercor](https://hollisrobbinsanecdotal.substack.com/p/llm-poetry-and-the-greatness-question)

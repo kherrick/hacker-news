@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-01-11, 15:07:12](https://news.ycombinator.com/item?id=46576337) - [Instagram data breach reportedly exposed the personal info of 17.5M users](https://www.engadget.com/cybersecurity/an-instagram-data-breach-reportedly-exposed-the-personal-info-of-175-million-users-192105616.html)
 * [2026-01-11, 13:55:40](https://news.ycombinator.com/item?id=46575804) - [Happy 50th Birthday KIM-1](https://github.com/netzherpes/KIM1-Demo)
 * [2026-01-11, 12:37:37](https://news.ycombinator.com/item?id=46575224) - [Iran Shuts Down Starlink Internet for First Time](https://www.forbes.com/sites/zakdoffman/2026/01/11/kill-switch-iran-shuts-down-starlink-internet-for-first-time/)
 * [2026-01-11, 12:22:05](https://news.ycombinator.com/item?id=46575127) - [Google: Don't make \"bite-sized\" content for LLMs](https://arstechnica.com/google/2026/01/google-dont-make-bite-sized-content-for-llms-if-you-care-about-search-rank/)
@@ -15,8 +16,6 @@
 * [2026-01-11, 03:43:44](https://news.ycombinator.com/item?id=46572523) - [Max Payne – two decades later – Graphics Critique (2021)](https://darkcephas.blogspot.com/2021/07/max-payne-two-decades-later-graphics.html)
 * [2026-01-11, 02:08:14](https://news.ycombinator.com/item?id=46572060) - [A Year of Work on the Arch Linux Package Management (ALPM) Project](https://devblog.archlinux.page/2026/a-year-of-work-on-the-alpm-project/)
 * [2026-01-11, 01:50:01](https://news.ycombinator.com/item?id=46571980) - [Show HN: Ferrite – Markdown editor in Rust with native Mermaid diagram rendering](https://github.com/OlaProeis/Ferrite)
-* [2026-01-10, 19:54:49](https://news.ycombinator.com/item?id=46569312) - [Overdose deaths are falling in America because of a 'supply shock': study](https://www.economist.com/united-states/2026/01/08/why-overdose-deaths-are-falling-in-america)
-* [2026-01-10, 19:27:39](https://news.ycombinator.com/item?id=46569061) - [Show HN: Play poker with LLMs, or watch them play against each other](https://llmholdem.com/)
 * [2026-01-10, 18:58:37](https://news.ycombinator.com/item?id=46568794) - [Finding and fixing Ghostty's largest memory leak](https://mitchellh.com/writing/ghostty-memory-leak-fix)
 * [2026-01-10, 16:56:55](https://news.ycombinator.com/item?id=46567400) - [Show HN: I used Claude Code to discover connections between 100 books](https://trails.pieterma.es/)
 * [2026-01-10, 16:56:34](https://news.ycombinator.com/item?id=46567392) - [AI is a business model stress test](https://dri.es/ai-is-a-business-model-stress-test)
@@ -29,6 +28,7 @@
 * [2026-01-07, 11:39:33](https://news.ycombinator.com/item?id=46525236) - [CPU Counters on Apple Silicon: article + tool](https://blog.bugsiki.dev/posts/apple-pmu/)
 * [2026-01-07, 07:18:26](https://news.ycombinator.com/item?id=46523527) - [Outward Signs of Inner Mysteries](https://lareviewofbooks.org/article/outward-signs-of-inner-mysteries/)
 * [2026-01-06, 18:57:03](https://news.ycombinator.com/item?id=46516807) - [\"Food JPEGs\" in Super Smash Bros. & Kirby Air Riders](https://sethmlarson.dev/food-jpegs-in-super-smash-bros-and-kirby-air-riders)
+* [2026-01-06, 02:33:27](https://news.ycombinator.com/item?id=46508058) - [Learning from Sudoku Solvers (2007)](http://ravimohan.blogspot.com/2007/04/learning-from-sudoku-solvers.html)
 * [2026-01-06, 02:07:18](https://news.ycombinator.com/item?id=46507891) - ['Bandersnatch': The Works That Inspired the 'Black Mirror' Interactive Feature (2019)](https://www.hollywoodreporter.com/tv/tv-news/black-mirror-bandersnatch-real-life-works-influences-1173330/)
 
 ## [Archives](archives/index.md)
