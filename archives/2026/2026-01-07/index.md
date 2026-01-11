@@ -15,6 +15,7 @@
 * [2026-01-07, 20:25:51](https://news.ycombinator.com/item?id=46532075) - [Claude Code CLI Broken](https://github.com/anthropics/claude-code/issues/16673)
 * [2026-01-07, 20:16:50](https://news.ycombinator.com/item?id=46531925) - [Tailscale state file encryption no longer enabled by default](https://tailscale.com/changelog)
 * [2026-01-07, 20:06:53](https://news.ycombinator.com/item?id=46531794) - [Claude Code Emergent Behavior: When Skills Combine](https://vibeandscribe.xyz/posts/2025-01-07-emergent-behavior.html)
+* [2026-01-07, 19:53:40](https://news.ycombinator.com/item?id=46531622) - [A set of Idiomatic prod-grade katas for experienced devs transitioning to Go](https://github.com/MedUnes/go-kata)
 * [2026-01-07, 19:49:54](https://news.ycombinator.com/item?id=46531565) - [Notion AI: Unpatched data exfiltration](https://www.promptarmor.com/resources/notion-ai-unpatched-data-exfiltration)
 * [2026-01-07, 19:45:35](https://news.ycombinator.com/item?id=46531511) - [Notebook Lawyer](https://avc.xyz/notebook-lawyer)
 * [2026-01-07, 19:31:04](https://news.ycombinator.com/item?id=46531295) - [Show HN: A to Z – A word game I built from a childhood road trip memory](https://a26z.fun/)
