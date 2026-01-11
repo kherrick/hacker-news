@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-01-11, 18:49:32](https://news.ycombinator.com/item?id=46578497) - [Meta Announces Nuclear Energy Projects, Unlocking Up to 6.6 GW](https://about.fb.com/news/2026/01/meta-nuclear-energy-projects-power-american-ai-leadership/)
+* [2026-01-11, 19:07:08](https://news.ycombinator.com/item?id=46578701) - [Anthropic: Developing a Claude Code competitor using Claude Code is banned](https://twitter.com/SIGKITTEN/status/2009697031422652461)
+* [2026-01-11, 18:49:32](https://news.ycombinator.com/item?id=46578497) - [Meta announces nuclear energy projects](https://about.fb.com/news/2026/01/meta-nuclear-energy-projects-power-american-ai-leadership/)
 * [2026-01-11, 18:37:10](https://news.ycombinator.com/item?id=46578339) - [Are We ... Yet?](https://wiki.mozilla.org/Areweyet)
 * [2026-01-11, 17:05:52](https://news.ycombinator.com/item?id=46577464) - [Poison Fountain](https://rnsaffn.com/poison3/)
 * [2026-01-11, 16:43:06](https://news.ycombinator.com/item?id=46577242) - [Ask HN: What Are You Working On? (January 2026)](https://news.ycombinator.com/item?id=46577242)
-* [2026-01-11, 16:20:47](https://news.ycombinator.com/item?id=46577019) - [Replace the Retiring Windows XP with Linux (2014)](https://www.linux.com/training-tutorials/replace-retiring-windows-xp-linux/)
 * [2026-01-11, 15:07:12](https://news.ycombinator.com/item?id=46576337) - [Instagram data breach reportedly exposed the personal info of 17.5M users](https://www.engadget.com/cybersecurity/an-instagram-data-breach-reportedly-exposed-the-personal-info-of-175-million-users-192105616.html)
 * [2026-01-11, 13:55:40](https://news.ycombinator.com/item?id=46575804) - [Happy 50th Birthday KIM-1](https://github.com/netzherpes/KIM1-Demo)
 * [2026-01-11, 12:50:01](https://news.ycombinator.com/item?id=46575305) - [KaraDAV – Lightweight Nextcloud compatible WebDAV server](https://github.com/kd2org/karadav)
@@ -20,7 +20,6 @@
 * [2026-01-10, 23:46:58](https://news.ycombinator.com/item?id=46571166) - [Show HN: GlyphLang – An AI-first programming language](https://news.ycombinator.com/item?id=46571166)
 * [2026-01-10, 18:58:37](https://news.ycombinator.com/item?id=46568794) - [Finding and fixing Ghostty's largest memory leak](https://mitchellh.com/writing/ghostty-memory-leak-fix)
 * [2026-01-10, 16:56:55](https://news.ycombinator.com/item?id=46567400) - [Show HN: I used Claude Code to discover connections between 100 books](https://trails.pieterma.es/)
-* [2026-01-10, 16:56:34](https://news.ycombinator.com/item?id=46567392) - [AI is a business model stress test](https://dri.es/ai-is-a-business-model-stress-test)
 * [2026-01-09, 20:43:00](https://news.ycombinator.com/item?id=46559065) - [You are not required to close your <p>, <li>, <img>, or <br> tags in HTML](https://blog.novalistic.com/archives/2017/08/optional-end-tags-in-html/)
 * [2026-01-09, 19:11:59](https://news.ycombinator.com/item?id=46557825) - [Code and Let Live](https://fly.io/blog/code-and-let-live/)
 * [2026-01-09, 09:01:33](https://news.ycombinator.com/item?id=46551602) - [C++ std::move doesn't move anything: A deep dive into Value Categories](https://0xghost.dev/blog/std-move-deep-dive/)
@@ -28,6 +27,7 @@
 * [2026-01-07, 11:43:26](https://news.ycombinator.com/item?id=46525271) - [Vojtux – Unofficial Linux Distribution Aimed at Visually Impaired Users](https://github.com/vojtapolasek/vojtux)
 * [2026-01-07, 11:39:33](https://news.ycombinator.com/item?id=46525236) - [CPU Counters on Apple Silicon: article + tool](https://blog.bugsiki.dev/posts/apple-pmu/)
 * [2026-01-06, 18:57:03](https://news.ycombinator.com/item?id=46516807) - [\"Food JPEGs\" in Super Smash Bros. & Kirby Air Riders](https://sethmlarson.dev/food-jpegs-in-super-smash-bros-and-kirby-air-riders)
+* [2026-01-06, 07:26:32](https://news.ycombinator.com/item?id=46509641) - [Markdown Emphasis Issues in CJK: Analyzing CommonMark's Delimiter Rules](https://hackers.pub/@yurume/019b912a-cc3b-7e45-9227-d08f0d1eafe8)
 * [2026-01-06, 02:33:27](https://news.ycombinator.com/item?id=46508058) - [Learning from Sudoku Solvers (2007)](http://ravimohan.blogspot.com/2007/04/learning-from-sudoku-solvers.html)
 * [2026-01-06, 02:07:18](https://news.ycombinator.com/item?id=46507891) - ['Bandersnatch': The Works That Inspired the 'Black Mirror' Interactive Feature (2019)](https://www.hollywoodreporter.com/tv/tv-news/black-mirror-bandersnatch-real-life-works-influences-1173330/)
 

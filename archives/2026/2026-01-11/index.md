@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-01-11](index.md)
 
+* [2026-01-11, 19:07:08](https://news.ycombinator.com/item?id=46578701) - [Anthropic: Developing a Claude Code competitor using Claude Code is banned](https://twitter.com/SIGKITTEN/status/2009697031422652461)
 * [2026-01-11, 18:49:32](https://news.ycombinator.com/item?id=46578497) - [Meta Announces Nuclear Energy Projects, Unlocking Up to 6.6 GW](https://about.fb.com/news/2026/01/meta-nuclear-energy-projects-power-american-ai-leadership/)
 * [2026-01-11, 18:37:10](https://news.ycombinator.com/item?id=46578339) - [Are We ... Yet?](https://wiki.mozilla.org/Areweyet)
 * [2026-01-11, 17:56:59](https://news.ycombinator.com/item?id=46577869) - ['F*ck You, Make Me' Without Saying the Words](https://daringfireball.net/2026/01/fuck_you_make_me_without_saying_the_words)

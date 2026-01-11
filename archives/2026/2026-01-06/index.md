@@ -71,6 +71,7 @@
 * [2026-01-06, 08:26:23](https://news.ycombinator.com/item?id=46509967) - [Tube trains could navigate the Underground using the rules of Quantum Physics](https://www.ianvisits.co.uk/articles/tube-trains-could-navigate-the-underground-using-the-weird-rules-of-quantum-physics-86370/)
 * [2026-01-06, 08:00:16](https://news.ycombinator.com/item?id=46509788) - [Mapping Protests in Iran](https://www.fdd.org/analysis/2025/06/25/mapping-the-protests-in-iran-2/)
 * [2026-01-06, 07:58:46](https://news.ycombinator.com/item?id=46509782) - [The Oddest Couple in American Literature: Part II](https://airmail.news/issues/2026-1-3/the-oddest-couple-in-american-literature-part-ii)
+* [2026-01-06, 07:26:32](https://news.ycombinator.com/item?id=46509641) - [Markdown Emphasis Issues in CJK: Analyzing CommonMark's Delimiter Rules](https://hackers.pub/@yurume/019b912a-cc3b-7e45-9227-d08f0d1eafe8)
 * [2026-01-06, 06:34:45](https://news.ycombinator.com/item?id=46509376) - [Mysterious Victorian-Era Shoes Are Washing Up on a Beach in Wales](https://www.smithsonianmag.com/smart-news/hundreds-of-mysterious-victorian-era-shoes-are-washing-up-on-a-beach-in-wales-nobody-knows-where-they-came-from-180987943/)
 * [2026-01-06, 06:22:30](https://news.ycombinator.com/item?id=46509307) - [My Tamagotchi is an RL agent playing Slither.io](https://nkasmanoff.github.io/#/blog/tamagotchi-rl-slitherio)
 * [2026-01-06, 06:01:57](https://news.ycombinator.com/item?id=46509211) - [enclose.horse](https://enclose.horse/)
