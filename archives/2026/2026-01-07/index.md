@@ -64,6 +64,7 @@
 * [2026-01-07, 10:02:12](https://news.ycombinator.com/item?id=46524554) - [Httpz – Zero-Allocation HTTP/1.1 Parser for OxCaml](https://github.com/avsm/httpz)
 * [2026-01-07, 09:59:04](https://news.ycombinator.com/item?id=46524527) - [Htmx: High Power Tools for HTML](https://github.com/bigskysoftware/htmx)
 * [2026-01-07, 09:57:33](https://news.ycombinator.com/item?id=46524519) - [CI-Hush](https://gitlab.com/jjg/ci-hush)
+* [2026-01-07, 09:53:03](https://news.ycombinator.com/item?id=46524483) - [An Experimental Approach to Printf in HLSL](https://www.abolishcrlf.org//2025/12/31/Printf.html)
 * [2026-01-07, 09:35:46](https://news.ycombinator.com/item?id=46524379) - [Changes to Android Open Source Project](https://source.android.com/)
 * [2026-01-07, 08:44:36](https://news.ycombinator.com/item?id=46524051) - [Bindless Oriented Graphics Programming](https://alextardif.com/BindlessProgramming.html)
 * [2026-01-07, 08:42:57](https://news.ycombinator.com/item?id=46524036) - [Show HN: Free and local browser tool for designing gear models for 3D printing](https://gears.dmtrkovalenko.dev)
