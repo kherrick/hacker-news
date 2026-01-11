@@ -10,6 +10,7 @@
 * [2026-01-09, 21:41:27](https://news.ycombinator.com/item?id=46559761) - [Deno has made its PyPI distribution official](https://github.com/denoland/deno/issues/31254)
 * [2026-01-09, 21:27:10](https://news.ycombinator.com/item?id=46559599) - [Sigmund Freud's Begonia](https://observer.co.uk/news/first-person/article/emma-freud-sigmund-freuds-begonia)
 * [2026-01-09, 21:04:45](https://news.ycombinator.com/item?id=46559309) - [Looking for flagged discussions on HN? See what's active](https://news.ycombinator.com/active)
+* [2026-01-09, 20:43:00](https://news.ycombinator.com/item?id=46559065) - [You are not required to close your <p>, <li>, <img>, or <br> tags in HTML](https://blog.novalistic.com/archives/2017/08/optional-end-tags-in-html/)
 * [2026-01-09, 20:21:51](https://news.ycombinator.com/item?id=46558794) - [Iran's complete Internet shutdown reaches 24 hours](https://mastodon.social/@netblocks/115866066884567356)
 * [2026-01-09, 20:17:07](https://news.ycombinator.com/item?id=46558739) - [QtNat – Open you port with Qt UPnP](http://renaudguezennec.eu/index.php/2026/01/09/qtnat-open-you-port-with-qt/)
 * [2026-01-09, 19:44:18](https://news.ycombinator.com/item?id=46558284) - [Datadog, thank you for blocking us](https://www.deductive.ai/blogs/datadog-thank-you-for-blocking-us)
