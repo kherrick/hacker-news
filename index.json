@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2026-01-11, 12:37:37",
+      "https://news.ycombinator.com/item?id=46575224"
+    ],
+    [
+      "Iran Shuts Down Starlink Internet for First Time",
+      "https://www.forbes.com/sites/zakdoffman/2026/01/11/kill-switch-iran-shuts-down-starlink-internet-for-first-time/"
+    ]
+  ],
+  [
+    [
       "2026-01-11, 12:22:05",
       "https://news.ycombinator.com/item?id=46575127"
     ],
@@ -21,12 +31,12 @@
   ],
   [
     [
-      "2026-01-11, 11:46:18",
-      "https://news.ycombinator.com/item?id=46574823"
+      "2026-01-11, 11:38:52",
+      "https://news.ycombinator.com/item?id=46574769"
     ],
     [
-      "Why Selling WhatsApp to Facebook Would Be the Biggest Mistake (2012)",
-      "https://www.forbes.com/sites/ericjackson/2012/12/03/why-selling-whatsapp-to-facebook-would-be-the-biggest-mistake-of-jan-koums-and-brian-actons-lives/"
+      "Gentoo Linux 2025 Review",
+      "https://www.gentoo.org/news/2026/01/05/new-year.html"
     ]
   ],
   [
@@ -107,16 +117,6 @@
     [
       "A Year of Work on the Arch Linux Package Management (ALPM) Project",
       "https://devblog.archlinux.page/2026/a-year-of-work-on-the-alpm-project/"
-    ]
-  ],
-  [
-    [
-      "2026-01-11, 02:00:45",
-      "https://news.ycombinator.com/item?id=46572032"
-    ],
-    [
-      "Sisyphus Now Lives in Oh My Claude",
-      "https://github.com/Yeachan-Heo/oh-my-claude-sisyphus"
     ]
   ],
   [
@@ -231,16 +231,6 @@
   ],
   [
     [
-      "2026-01-08, 08:18:17",
-      "https://news.ycombinator.com/item?id=46538628"
-    ],
-    [
-      "ASCII-Driven Development",
-      "https://medium.com/@calufa/ascii-driven-development-850f66661351"
-    ]
-  ],
-  [
-    [
       "2026-01-07, 11:43:26",
       "https://news.ycombinator.com/item?id=46525271"
     ],
@@ -297,6 +287,16 @@
     [
       "'Bandersnatch': The Works That Inspired the 'Black Mirror' Interactive Feature (2019)",
       "https://www.hollywoodreporter.com/tv/tv-news/black-mirror-bandersnatch-real-life-works-influences-1173330/"
+    ]
+  ],
+  [
+    [
+      "2026-01-05, 23:14:21",
+      "https://news.ycombinator.com/item?id=46506541"
+    ],
+    [
+      "Verifiable Brute Force Strength",
+      "https://gist.github.com/atoponce/a7715930ae6eb7d6b487f2f76b57a68d"
     ]
   ]
 ]
