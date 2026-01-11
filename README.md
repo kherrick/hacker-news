@@ -1,8 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2026-01-11, 12:44:04](https://news.ycombinator.com/item?id=46575268) - [LLM poetry and the \"greatness\" question: Experiments by Gwern and Mercor](https://hollisrobbinsanecdotal.substack.com/p/llm-poetry-and-the-greatness-question)
+* [2026-01-11, 12:37:37](https://news.ycombinator.com/item?id=46575224) - [Iran Shuts Down Starlink Internet for First Time](https://www.forbes.com/sites/zakdoffman/2026/01/11/kill-switch-iran-shuts-down-starlink-internet-for-first-time/)
 * [2026-01-11, 12:22:05](https://news.ycombinator.com/item?id=46575127) - [Google: Don't make \"bite-sized\" content for LLMs](https://arstechnica.com/google/2026/01/google-dont-make-bite-sized-content-for-llms-if-you-care-about-search-rank/)
-* [2026-01-11, 11:46:18](https://news.ycombinator.com/item?id=46574823) - [Why Selling WhatsApp to Facebook Would Be the Biggest Mistake (2012)](https://www.forbes.com/sites/ericjackson/2012/12/03/why-selling-whatsapp-to-facebook-would-be-the-biggest-mistake-of-jan-koums-and-brian-actons-lives/)
+* [2026-01-11, 11:38:52](https://news.ycombinator.com/item?id=46574769) - [Gentoo Linux 2025 Review](https://www.gentoo.org/news/2026/01/05/new-year.html)
 * [2026-01-11, 11:31:22](https://news.ycombinator.com/item?id=46574707) - [I dumped Windows 11 for Linux, and you should too](https://www.notebookcheck.net/I-dumped-Windows-11-for-Linux-and-you-should-too.1190961.0.html)
 * [2026-01-11, 11:03:06](https://news.ycombinator.com/item?id=46574475) - [Think of Pavlov](https://boz.com/articles/think-pavlov)
 * [2026-01-11, 08:22:44](https://news.ycombinator.com/item?id=46573688) - [More than one hundred years of Film Sizes](https://wichm.home.xs4all.nl/filmsize.html)
@@ -11,7 +12,6 @@
 * [2026-01-11, 04:32:47](https://news.ycombinator.com/item?id=46572723) - [Ripple: The Elegant TypeScript UI Framework](https://jsdev.space/meet-ripple/)
 * [2026-01-11, 03:43:44](https://news.ycombinator.com/item?id=46572523) - [Max Payne – two decades later – Graphics Critique (2021)](https://darkcephas.blogspot.com/2021/07/max-payne-two-decades-later-graphics.html)
 * [2026-01-11, 02:08:14](https://news.ycombinator.com/item?id=46572060) - [A Year of Work on the Arch Linux Package Management (ALPM) Project](https://devblog.archlinux.page/2026/a-year-of-work-on-the-alpm-project/)
-* [2026-01-11, 02:00:45](https://news.ycombinator.com/item?id=46572032) - [Sisyphus Now Lives in Oh My Claude](https://github.com/Yeachan-Heo/oh-my-claude-sisyphus)
 * [2026-01-11, 01:50:01](https://news.ycombinator.com/item?id=46571980) - [Show HN: Ferrite – Markdown editor in Rust with native Mermaid diagram rendering](https://github.com/OlaProeis/Ferrite)
 * [2026-01-10, 23:45:25](https://news.ycombinator.com/item?id=46571149) - [Show HN: Librario, a book metadata API that aggregates G Books, ISBNDB, and more](https://news.ycombinator.com/item?id=46571149)
 * [2026-01-10, 19:54:49](https://news.ycombinator.com/item?id=46569312) - [Overdose deaths are falling in America because of a 'supply shock': study](https://www.economist.com/united-states/2026/01/08/why-overdose-deaths-are-falling-in-america)
@@ -23,13 +23,13 @@
 * [2026-01-09, 19:11:59](https://news.ycombinator.com/item?id=46557825) - [Code and Let Live](https://fly.io/blog/code-and-let-live/)
 * [2026-01-09, 09:01:33](https://news.ycombinator.com/item?id=46551602) - [C++ std::move doesn't move anything: A deep dive into Value Categories](https://0xghost.dev/blog/std-move-deep-dive/)
 * [2026-01-08, 22:44:45](https://news.ycombinator.com/item?id=46547580) - [Show HN: Yellopages – New tab Chrome extension](https://yellopages.kawaicheung.io/)
-* [2026-01-08, 08:18:17](https://news.ycombinator.com/item?id=46538628) - [ASCII-Driven Development](https://medium.com/@calufa/ascii-driven-development-850f66661351)
 * [2026-01-07, 11:43:26](https://news.ycombinator.com/item?id=46525271) - [Vojtux – Unofficial Linux Distribution Aimed at Visually Impaired Users](https://github.com/vojtapolasek/vojtux)
 * [2026-01-07, 11:39:33](https://news.ycombinator.com/item?id=46525236) - [CPU Counters on Apple Silicon: article + tool](https://blog.bugsiki.dev/posts/apple-pmu/)
 * [2026-01-07, 09:53:03](https://news.ycombinator.com/item?id=46524483) - [An Experimental Approach to Printf in HLSL](https://www.abolishcrlf.org//2025/12/31/Printf.html)
 * [2026-01-06, 18:57:03](https://news.ycombinator.com/item?id=46516807) - [\"Food JPEGs\" in Super Smash Bros. & Kirby Air Riders](https://sethmlarson.dev/food-jpegs-in-super-smash-bros-and-kirby-air-riders)
 * [2026-01-06, 13:51:24](https://news.ycombinator.com/item?id=46512210) - [Show HN: I built an Open Source screen timer for the m5stickc (Arduino)](https://partridge.works/screenie-christmas-project-2025-26/)
 * [2026-01-06, 02:07:18](https://news.ycombinator.com/item?id=46507891) - ['Bandersnatch': The Works That Inspired the 'Black Mirror' Interactive Feature (2019)](https://www.hollywoodreporter.com/tv/tv-news/black-mirror-bandersnatch-real-life-works-influences-1173330/)
+* [2026-01-05, 23:14:21](https://news.ycombinator.com/item?id=46506541) - [Verifiable Brute Force Strength](https://gist.github.com/atoponce/a7715930ae6eb7d6b487f2f76b57a68d)
 
 ## [Archives](archives/index.md)
 

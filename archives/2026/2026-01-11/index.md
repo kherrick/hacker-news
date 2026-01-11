@@ -5,8 +5,10 @@
 ### [Archives](../../index.md) for [2026-01-11](index.md)
 
 * [2026-01-11, 12:44:04](https://news.ycombinator.com/item?id=46575268) - [LLM poetry and the \"greatness\" question: Experiments by Gwern and Mercor](https://hollisrobbinsanecdotal.substack.com/p/llm-poetry-and-the-greatness-question)
+* [2026-01-11, 12:37:37](https://news.ycombinator.com/item?id=46575224) - [Iran Shuts Down Starlink Internet for First Time](https://www.forbes.com/sites/zakdoffman/2026/01/11/kill-switch-iran-shuts-down-starlink-internet-for-first-time/)
 * [2026-01-11, 12:22:05](https://news.ycombinator.com/item?id=46575127) - [Google: Don't make \"bite-sized\" content for LLMs](https://arstechnica.com/google/2026/01/google-dont-make-bite-sized-content-for-llms-if-you-care-about-search-rank/)
 * [2026-01-11, 11:46:18](https://news.ycombinator.com/item?id=46574823) - [Why Selling WhatsApp to Facebook Would Be the Biggest Mistake (2012)](https://www.forbes.com/sites/ericjackson/2012/12/03/why-selling-whatsapp-to-facebook-would-be-the-biggest-mistake-of-jan-koums-and-brian-actons-lives/)
+* [2026-01-11, 11:38:52](https://news.ycombinator.com/item?id=46574769) - [Gentoo Linux 2025 Review](https://www.gentoo.org/news/2026/01/05/new-year.html)
 * [2026-01-11, 11:31:22](https://news.ycombinator.com/item?id=46574707) - [I dumped Windows 11 for Linux, and you should too](https://www.notebookcheck.net/I-dumped-Windows-11-for-Linux-and-you-should-too.1190961.0.html)
 * [2026-01-11, 11:03:06](https://news.ycombinator.com/item?id=46574475) - [Think of Pavlov](https://boz.com/articles/think-pavlov)
 * [2026-01-11, 10:26:18](https://news.ycombinator.com/item?id=46574276) - [Don't fall into the anti-AI hype](https://antirez.com/news/158)
