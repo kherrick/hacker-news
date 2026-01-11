@@ -41,6 +41,16 @@
   ],
   [
     [
+      "2026-01-11, 12:02:52",
+      "https://news.ycombinator.com/item?id=46574961"
+    ],
+    [
+      "BasiliskII Macintosh 68k Emulator Ported to ESP32-P4 / M5Stack Tab5",
+      "https://github.com/amcchord/M5Tab-Macintosh"
+    ]
+  ],
+  [
+    [
       "2026-01-11, 11:38:52",
       "https://news.ycombinator.com/item?id=46574769"
     ],
@@ -51,12 +61,12 @@
   ],
   [
     [
-      "2026-01-11, 11:31:22",
-      "https://news.ycombinator.com/item?id=46574707"
+      "2026-01-11, 11:24:19",
+      "https://news.ycombinator.com/item?id=46574640"
     ],
     [
-      "I dumped Windows 11 for Linux, and you should too",
-      "https://www.notebookcheck.net/I-dumped-Windows-11-for-Linux-and-you-should-too.1190961.0.html"
+      "HTML-only conditional lazy loading (via preload and media)",
+      "https://orga.cat/blog/html-conditional-lazy-loading/"
     ]
   ],
   [
@@ -217,16 +227,6 @@
     [
       "C++ std::move doesn't move anything: A deep dive into Value Categories",
       "https://0xghost.dev/blog/std-move-deep-dive/"
-    ]
-  ],
-  [
-    [
-      "2026-01-08, 22:44:45",
-      "https://news.ycombinator.com/item?id=46547580"
-    ],
-    [
-      "Show HN: Yellopages – New tab Chrome extension",
-      "https://yellopages.kawaicheung.io/"
     ]
   ],
   [
