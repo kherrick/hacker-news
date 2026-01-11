@@ -33,6 +33,7 @@
 * [2026-01-03, 18:39:50](https://news.ycombinator.com/item?id=46480016) - [The Rise of Computer Games, Part II: Digitizing Nerddom – Creatures of Thought](https://technicshistory.com/2026/01/02/the-rise-of-computer-games-part-ii-digitizing-nerddom/)
 * [2026-01-03, 18:27:29](https://news.ycombinator.com/item?id=46479869) - [Bluesky is not the good place](https://www.ms.now/opinion/bluesky-elon-musk-twitter-replacement)
 * [2026-01-03, 18:10:21](https://news.ycombinator.com/item?id=46479673) - [Xr0 verifier, guarantee the safety of C programs at compile time](https://xr0.dev)
+* [2026-01-03, 18:07:19](https://news.ycombinator.com/item?id=46479642) - [MetaFun: Compile Haskell-like code to C++ template metaprograms](https://gergo.erdi.hu/projects/metafun/)
 * [2026-01-03, 16:53:29](https://news.ycombinator.com/item?id=46478815) - [Show HN: Open database of link metadata for large-scale analysis](https://github.com/rumca-js/RSS-Link-Database-2025)
 * [2026-01-03, 16:47:38](https://news.ycombinator.com/item?id=46478740) - [Show HN: Underpriced AI – Snap a photo, get instant resale value with AI](https://underpricedai.com)
 * [2026-01-03, 16:41:06](https://news.ycombinator.com/item?id=46478647) - [The C3 Programming Language](https://c3-lang.org)

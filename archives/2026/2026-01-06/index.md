@@ -45,6 +45,7 @@
 * [2026-01-06, 15:52:09](https://news.ycombinator.com/item?id=46513860) - [The 5 Knights of the MCP Apocalypse](https://foojay.io/today/the-5-knights-of-the-mcp-apocalypse/)
 * [2026-01-06, 15:44:44](https://news.ycombinator.com/item?id=46513728) - [The skill of the future is not 'AI', but 'Focus' (2025)](https://carette.xyz/posts/focus_will_be_the_skill_of_the_future/)
 * [2026-01-06, 15:05:46](https://news.ycombinator.com/item?id=46513173) - [New Lego smart-play system](https://www.lego.com/en-us/smart-play)
+* [2026-01-06, 15:05:09](https://news.ycombinator.com/item?id=46513163) - [Show HN: mcpc – Universal command-line client for Model Context Protocol (MCP)](https://github.com/apify/mcp-cli)
 * [2026-01-06, 14:54:19](https://news.ycombinator.com/item?id=46513010) - [Gnome and Mozilla Discuss Proposal to Disable Middle Mouse Paste on Linux](https://linuxiac.com/gnome-and-mozilla-discuss-proposal-to-disable-middle-mouse-paste-on-linux/)
 * [2026-01-06, 14:45:47](https://news.ycombinator.com/item?id=46512881) - [65% of Hacker News Posts Have Negative Sentiment, and They Outperform](https://philippdubach.com/standalone/hn-sentiment/)
 * [2026-01-06, 14:41:55](https://news.ycombinator.com/item?id=46512842) - [High-performance header-only container library for C++23 on x86-64](https://github.com/kressler/fast-containers)
