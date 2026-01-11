@@ -1,6 +1,46 @@
 [
   [
     [
+      "2026-01-11, 02:08:14",
+      "https://news.ycombinator.com/item?id=46572060"
+    ],
+    [
+      "A Year of Work on the Arch Linux Package Management (ALPM) Project",
+      "https://devblog.archlinux.page/2026/a-year-of-work-on-the-alpm-project/"
+    ]
+  ],
+  [
+    [
+      "2026-01-11, 01:50:01",
+      "https://news.ycombinator.com/item?id=46571980"
+    ],
+    [
+      "Show HN: Ferrite – Markdown editor in Rust with native Mermaid diagram rendering",
+      "https://github.com/OlaProeis/Ferrite"
+    ]
+  ],
+  [
+    [
+      "2026-01-11, 01:12:51",
+      "https://news.ycombinator.com/item?id=46571760"
+    ],
+    [
+      "Kodbox: Open-source cloud desktop with multi-storage fusion and web IDE",
+      "https://github.com/kalcaddle/kodbox"
+    ]
+  ],
+  [
+    [
+      "2026-01-11, 01:04:58",
+      "https://news.ycombinator.com/item?id=46571707"
+    ],
+    [
+      "Bob Weir has died",
+      "https://www.rollingstone.com/music/music-news/bob-weir-grateful-dead-dead-obituary-1234810106/"
+    ]
+  ],
+  [
+    [
       "2026-01-10, 23:46:58",
       "https://news.ycombinator.com/item?id=46571166"
     ],
@@ -31,32 +71,12 @@
   ],
   [
     [
-      "2026-01-10, 21:36:26",
-      "https://news.ycombinator.com/item?id=46570158"
-    ],
-    [
-      "UK Orders Ofcom to Explore Encryption Backdoors",
-      "https://reclaimthenet.org/uk-orders-ofcom-to-explore-encryption-backdoors"
-    ]
-  ],
-  [
-    [
       "2026-01-10, 20:50:29",
       "https://news.ycombinator.com/item?id=46569799"
     ],
     [
       "Extracting books from production language models (2026)",
       "https://arxiv.org/abs/2601.02671"
-    ]
-  ],
-  [
-    [
-      "2026-01-10, 19:54:49",
-      "https://news.ycombinator.com/item?id=46569312"
-    ],
-    [
-      "Overdose deaths are falling in America because of a 'supply shock': study",
-      "https://www.economist.com/united-states/2026/01/08/why-overdose-deaths-are-falling-in-america"
     ]
   ],
   [
@@ -201,16 +221,6 @@
   ],
   [
     [
-      "2026-01-08, 21:53:06",
-      "https://news.ycombinator.com/item?id=46547024"
-    ],
-    [
-      "Side-by-side comparison of how AI models answer moral dilemmas",
-      "https://civai.org/p/ai-values"
-    ]
-  ],
-  [
-    [
       "2026-01-08, 14:40:20",
       "https://news.ycombinator.com/item?id=46541533"
     ],
@@ -231,42 +241,22 @@
   ],
   [
     [
-      "2026-01-08, 06:04:19",
-      "https://news.ycombinator.com/item?id=46537741"
+      "2026-01-07, 02:32:10",
+      "https://news.ycombinator.com/item?id=46521823"
     ],
     [
-      "How your high school affects your chances of UC Admission",
-      "https://sfeducation.substack.com/p/how-your-high-school-affects-your"
+      "Brands upset Buy For Me is featuring their products on Amazon without permission",
+      "https://www.modernretail.co/technology/brands-are-upset-that-buy-for-me-is-featuring-their-products-on-amazon-without-permission/"
     ]
   ],
   [
     [
-      "2026-01-08, 03:24:38",
-      "https://news.ycombinator.com/item?id=46536808"
+      "2026-01-06, 15:05:09",
+      "https://news.ycombinator.com/item?id=46513163"
     ],
     [
-      "Varnish and Virtue",
-      "https://literaryreview.co.uk/varnish-virtue"
-    ]
-  ],
-  [
-    [
-      "2026-01-07, 08:44:36",
-      "https://news.ycombinator.com/item?id=46524051"
-    ],
-    [
-      "Bindless Oriented Graphics Programming",
-      "https://alextardif.com/BindlessProgramming.html"
-    ]
-  ],
-  [
-    [
-      "2026-01-07, 03:55:33",
-      "https://news.ycombinator.com/item?id=46522358"
-    ],
-    [
-      "A child in the state of nature",
-      "https://lareviewofbooks.org/article/a-child-in-the-state-of-nature/"
+      "Show HN: mcpc – Universal command-line client for Model Context Protocol (MCP)",
+      "https://github.com/apify/mcp-cli"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "1970 Paris, cut into a grid and photographed",
       "https://paris1970.jeantho.eu/index.html"
+    ]
+  ],
+  [
+    [
+      "2026-01-03, 18:07:19",
+      "https://news.ycombinator.com/item?id=46479642"
+    ],
+    [
+      "MetaFun: Compile Haskell-like code to C++ template metaprograms",
+      "https://gergo.erdi.hu/projects/metafun/"
     ]
   ]
 ]
