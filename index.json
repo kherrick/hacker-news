@@ -1,11 +1,31 @@
 [
   [
     [
+      "2026-01-11, 20:03:20",
+      "https://news.ycombinator.com/item?id=46579397"
+    ],
+    [
+      "guys why does armenian completely break Claude",
+      "https://twitter.com/dyushag/status/1993143599286886525"
+    ]
+  ],
+  [
+    [
+      "2026-01-11, 20:01:14",
+      "https://news.ycombinator.com/item?id=46579374"
+    ],
+    [
+      "Sampling at negative temperature",
+      "https://cavendishlabs.org/blog/negative-temperature/"
+    ]
+  ],
+  [
+    [
       "2026-01-11, 19:26:13",
       "https://news.ycombinator.com/item?id=46578957"
     ],
     [
-      "\"Scholars Will Call It Nonsense\" the Structure of Erich von Däniken's Argument",
+      "\"Scholars Will Call It Nonsense\": The Structure of von Däniken's Argument (1987)",
       "https://www.penn.museum/sites/expedition/scholars-will-call-it-nonsense/"
     ]
   ],
@@ -15,7 +35,7 @@
       "https://news.ycombinator.com/item?id=46578921"
     ],
     [
-      "Open-source iCloud Photos Downloader (AKA escape from iCloud)",
+      "iCloud Photos Downloader",
       "https://github.com/icloud-photos-downloader/icloud_photos_downloader"
     ]
   ],
@@ -27,6 +47,16 @@
     [
       "Anthropic: Developing a Claude Code competitor using Claude Code is banned",
       "https://twitter.com/SIGKITTEN/status/2009697031422652461"
+    ]
+  ],
+  [
+    [
+      "2026-01-11, 18:50:47",
+      "https://news.ycombinator.com/item?id=46578507"
+    ],
+    [
+      "American Dialect Society 2025 Word of the Year Is \"Slop\"",
+      "https://americandialect.org/2025-word-of-the-year-is-slop/"
     ]
   ],
   [
@@ -45,18 +75,18 @@
       "https://news.ycombinator.com/item?id=46578390"
     ],
     [
-      "Pigeon's Device",
+      "Pigeon's Device (2009)",
       "http://pigeonsnest.co.uk/stuff/pigeons-device.html"
     ]
   ],
   [
     [
-      "2026-01-11, 18:37:10",
-      "https://news.ycombinator.com/item?id=46578339"
+      "2026-01-11, 17:13:18",
+      "https://news.ycombinator.com/item?id=46577526"
     ],
     [
-      "Are We ... Yet?",
-      "https://wiki.mozilla.org/Areweyet"
+      "Show HN: Interactive California Budget (by Claude Code)",
+      "https://california-budget.com"
     ]
   ],
   [
@@ -161,22 +191,22 @@
   ],
   [
     [
-      "2026-01-11, 08:22:44",
-      "https://news.ycombinator.com/item?id=46573688"
-    ],
-    [
-      "More than one hundred years of Film Sizes",
-      "https://wichm.home.xs4all.nl/filmsize.html"
-    ]
-  ],
-  [
-    [
       "2026-01-11, 05:42:03",
       "https://news.ycombinator.com/item?id=46573001"
     ],
     [
       "The Concise TypeScript Book",
       "https://github.com/gibbok/typescript-book"
+    ]
+  ],
+  [
+    [
+      "2026-01-11, 05:33:20",
+      "https://news.ycombinator.com/item?id=46572968"
+    ],
+    [
+      "Quake 1 Single-Player Map Design Theories (2001)",
+      "https://www.quaddicted.com/webarchive//teamshambler.planetquake.gamespy.com/theories1.html"
     ]
   ],
   [
@@ -191,32 +221,12 @@
   ],
   [
     [
-      "2026-01-10, 23:46:58",
-      "https://news.ycombinator.com/item?id=46571166"
+      "2026-01-11, 00:58:35",
+      "https://news.ycombinator.com/item?id=46571661"
     ],
     [
-      "Show HN: GlyphLang – An AI-first programming language",
-      "https://news.ycombinator.com/item?id=46571166"
-    ]
-  ],
-  [
-    [
-      "2026-01-10, 18:58:37",
-      "https://news.ycombinator.com/item?id=46568794"
-    ],
-    [
-      "Finding and fixing Ghostty's largest memory leak",
-      "https://mitchellh.com/writing/ghostty-memory-leak-fix"
-    ]
-  ],
-  [
-    [
-      "2026-01-10, 16:56:55",
-      "https://news.ycombinator.com/item?id=46567400"
-    ],
-    [
-      "Show HN: I used Claude Code to discover connections between 100 books",
-      "https://trails.pieterma.es/"
+      "Show HN: Epstein IM – Talk to Epstein clone in iMessage",
+      "https://epstein.im/"
     ]
   ],
   [
@@ -231,22 +241,22 @@
   ],
   [
     [
-      "2026-01-09, 19:11:59",
-      "https://news.ycombinator.com/item?id=46557825"
-    ],
-    [
-      "Code and Let Live",
-      "https://fly.io/blog/code-and-let-live/"
-    ]
-  ],
-  [
-    [
       "2026-01-09, 09:01:33",
       "https://news.ycombinator.com/item?id=46551602"
     ],
     [
       "C++ std::move doesn't move anything: A deep dive into Value Categories",
       "https://0xghost.dev/blog/std-move-deep-dive/"
+    ]
+  ],
+  [
+    [
+      "2026-01-08, 17:09:55",
+      "https://news.ycombinator.com/item?id=46543509"
+    ],
+    [
+      "Perfectly Replicating Coca Cola [video]",
+      "https://www.youtube.com/watch?v=TDkH3EbWTYc"
     ]
   ],
   [
@@ -271,16 +281,6 @@
   ],
   [
     [
-      "2026-01-07, 11:39:33",
-      "https://news.ycombinator.com/item?id=46525236"
-    ],
-    [
-      "CPU Counters on Apple Silicon: article + tool",
-      "https://blog.bugsiki.dev/posts/apple-pmu/"
-    ]
-  ],
-  [
-    [
       "2026-01-06, 18:57:03",
       "https://news.ycombinator.com/item?id=46516807"
     ],
@@ -291,12 +291,12 @@
   ],
   [
     [
-      "2026-01-06, 07:26:32",
-      "https://news.ycombinator.com/item?id=46509641"
+      "2026-01-06, 12:49:44",
+      "https://news.ycombinator.com/item?id=46511592"
     ],
     [
-      "Markdown Emphasis Issues in CJK: Analyzing CommonMark's Delimiter Rules",
-      "https://hackers.pub/@yurume/019b912a-cc3b-7e45-9227-d08f0d1eafe8"
+      "Dell admits it made a mistake when it abandoned XPS",
+      "https://gizmodo.com/dell-admits-it-made-a-huge-mistake-when-it-abandoned-xps-2000705053"
     ]
   ]
 ]
