@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-01-11, 08:22:44](https://news.ycombinator.com/item?id=46573688) - [More than one hundred years of Film Sizes](https://wichm.home.xs4all.nl/filmsize.html)
 * [2026-01-11, 05:42:03](https://news.ycombinator.com/item?id=46573001) - [The Concise TypeScript Book](https://github.com/gibbok/typescript-book)
 * [2026-01-11, 05:01:19](https://news.ycombinator.com/item?id=46572821) - [I build products to get \"unplugged\" from the internet](https://getunplugged.io/I-build-products-to-get-unplugged)
 * [2026-01-11, 04:45:27](https://news.ycombinator.com/item?id=46572769) - [A battle over Canada’s mystery brain disease](https://www.bbc.com/news/articles/c623r47d67lo)
@@ -26,7 +27,6 @@
 * [2026-01-07, 11:43:26](https://news.ycombinator.com/item?id=46525271) - [Vojtux – Unofficial Linux Distribution Aimed at Visually Impaired Users](https://github.com/vojtapolasek/vojtux)
 * [2026-01-07, 11:39:33](https://news.ycombinator.com/item?id=46525236) - [CPU Counters on Apple Silicon: article + tool](https://blog.bugsiki.dev/posts/apple-pmu/)
 * [2026-01-07, 09:53:03](https://news.ycombinator.com/item?id=46524483) - [An Experimental Approach to Printf in HLSL](https://www.abolishcrlf.org//2025/12/31/Printf.html)
-* [2026-01-07, 02:32:10](https://news.ycombinator.com/item?id=46521823) - [Brands upset Buy For Me is featuring their products on Amazon without permission](https://www.modernretail.co/technology/brands-are-upset-that-buy-for-me-is-featuring-their-products-on-amazon-without-permission/)
 * [2026-01-06, 20:43:12](https://news.ycombinator.com/item?id=46518401) - [Visual regression tests for personal blogs](https://marending.dev/notes/visual-testing/)
 * [2026-01-06, 15:05:09](https://news.ycombinator.com/item?id=46513163) - [Show HN: mcpc – Universal command-line client for Model Context Protocol (MCP)](https://github.com/apify/mcp-cli)
 * [2026-01-06, 02:07:18](https://news.ycombinator.com/item?id=46507891) - ['Bandersnatch': The Works That Inspired the 'Black Mirror' Interactive Feature (2019)](https://www.hollywoodreporter.com/tv/tv-news/black-mirror-bandersnatch-real-life-works-influences-1173330/)
