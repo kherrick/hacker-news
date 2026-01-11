@@ -1,12 +1,32 @@
 [
   [
     [
+      "2026-01-11, 17:56:59",
+      "https://news.ycombinator.com/item?id=46577869"
+    ],
+    [
+      "'F*ck You, Make Me' Without Saying the Words",
+      "https://daringfireball.net/2026/01/fuck_you_make_me_without_saying_the_words"
+    ]
+  ],
+  [
+    [
       "2026-01-11, 17:05:52",
       "https://news.ycombinator.com/item?id=46577464"
     ],
     [
       "AI industry insiders launch site to poison the data that feeds them",
       "https://www.theregister.com/2026/01/11/industry_insiders_seek_to_poison/"
+    ]
+  ],
+  [
+    [
+      "2026-01-11, 16:43:06",
+      "https://news.ycombinator.com/item?id=46577242"
+    ],
+    [
+      "Ask HN: What Are You Working On? (January 2026)",
+      "https://news.ycombinator.com/item?id=46577242"
     ]
   ],
   [
@@ -131,16 +151,6 @@
   ],
   [
     [
-      "2026-01-11, 03:43:44",
-      "https://news.ycombinator.com/item?id=46572523"
-    ],
-    [
-      "Max Payne – two decades later – Graphics Critique (2021)",
-      "https://darkcephas.blogspot.com/2021/07/max-payne-two-decades-later-graphics.html"
-    ]
-  ],
-  [
-    [
       "2026-01-11, 01:50:01",
       "https://news.ycombinator.com/item?id=46571980"
     ],
@@ -191,16 +201,6 @@
   ],
   [
     [
-      "2026-01-10, 14:07:02",
-      "https://news.ycombinator.com/item?id=46565833"
-    ],
-    [
-      "Show HN: Porting xv6 to HiFive Unmatched board",
-      "https://github.com/eyengin/xv6-riscv-unmatched"
-    ]
-  ],
-  [
-    [
       "2026-01-09, 20:43:00",
       "https://news.ycombinator.com/item?id=46559065"
     ],
@@ -231,6 +231,16 @@
   ],
   [
     [
+      "2026-01-07, 19:53:40",
+      "https://news.ycombinator.com/item?id=46531622"
+    ],
+    [
+      "A set of Idiomatic prod-grade katas for experienced devs transitioning to Go",
+      "https://github.com/MedUnes/go-kata"
+    ]
+  ],
+  [
+    [
       "2026-01-07, 11:43:26",
       "https://news.ycombinator.com/item?id=46525271"
     ],
@@ -247,16 +257,6 @@
     [
       "CPU Counters on Apple Silicon: article + tool",
       "https://blog.bugsiki.dev/posts/apple-pmu/"
-    ]
-  ],
-  [
-    [
-      "2026-01-07, 07:18:26",
-      "https://news.ycombinator.com/item?id=46523527"
-    ],
-    [
-      "Outward Signs of Inner Mysteries",
-      "https://lareviewofbooks.org/article/outward-signs-of-inner-mysteries/"
     ]
   ],
   [
