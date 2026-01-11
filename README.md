@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-01-11, 13:32:59](https://news.ycombinator.com/item?id=46575619) - [Show HN: Is AI hijacking your intent? A formal control algorithm to measure it](https://news.ycombinator.com/item?id=46575619)
 * [2026-01-11, 12:44:04](https://news.ycombinator.com/item?id=46575268) - [LLM poetry and the \"greatness\" question: Experiments by Gwern and Mercor](https://hollisrobbinsanecdotal.substack.com/p/llm-poetry-and-the-greatness-question)
 * [2026-01-11, 12:37:37](https://news.ycombinator.com/item?id=46575224) - [Iran Shuts Down Starlink Internet for First Time](https://www.forbes.com/sites/zakdoffman/2026/01/11/kill-switch-iran-shuts-down-starlink-internet-for-first-time/)
 * [2026-01-11, 12:22:05](https://news.ycombinator.com/item?id=46575127) - [Google: Don't make \"bite-sized\" content for LLMs](https://arstechnica.com/google/2026/01/google-dont-make-bite-sized-content-for-llms-if-you-care-about-search-rank/)
@@ -23,6 +22,7 @@
 * [2026-01-10, 16:03:55](https://news.ycombinator.com/item?id=46566812) - [Open Chaos: A self-evolving open-source project](https://www.openchaos.dev/)
 * [2026-01-09, 19:11:59](https://news.ycombinator.com/item?id=46557825) - [Code and Let Live](https://fly.io/blog/code-and-let-live/)
 * [2026-01-09, 09:01:33](https://news.ycombinator.com/item?id=46551602) - [C++ std::move doesn't move anything: A deep dive into Value Categories](https://0xghost.dev/blog/std-move-deep-dive/)
+* [2026-01-08, 22:44:45](https://news.ycombinator.com/item?id=46547580) - [Show HN: Yellopages – New tab Chrome extension](https://yellopages.kawaicheung.io/)
 * [2026-01-07, 11:43:26](https://news.ycombinator.com/item?id=46525271) - [Vojtux – Unofficial Linux Distribution Aimed at Visually Impaired Users](https://github.com/vojtapolasek/vojtux)
 * [2026-01-07, 11:39:33](https://news.ycombinator.com/item?id=46525236) - [CPU Counters on Apple Silicon: article + tool](https://blog.bugsiki.dev/posts/apple-pmu/)
 * [2026-01-07, 09:53:03](https://news.ycombinator.com/item?id=46524483) - [An Experimental Approach to Printf in HLSL](https://www.abolishcrlf.org//2025/12/31/Printf.html)
