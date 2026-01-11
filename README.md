@@ -16,7 +16,6 @@
 * [2026-01-10, 19:43:57](https://news.ycombinator.com/item?id=46569225) - [Code Is Clay](https://campedersen.com/code-is-clay)
 * [2026-01-10, 19:27:39](https://news.ycombinator.com/item?id=46569061) - [Show HN: Play poker with LLMs, or watch them play against each other](https://llmholdem.com/)
 * [2026-01-10, 18:58:37](https://news.ycombinator.com/item?id=46568794) - [Finding and fixing Ghostty's largest memory leak](https://mitchellh.com/writing/ghostty-memory-leak-fix)
-* [2026-01-10, 18:44:46](https://news.ycombinator.com/item?id=46568662) - [Rats caught on camera hunting flying bats (2025)](https://scienceclock.com/rats-caught-on-camera-hunting-flying-bats-for-the-first-time/)
 * [2026-01-10, 16:56:55](https://news.ycombinator.com/item?id=46567400) - [Show HN: I used Claude Code to discover connections between 100 books](https://trails.pieterma.es/)
 * [2026-01-10, 16:56:34](https://news.ycombinator.com/item?id=46567392) - [AI is a business model stress test](https://dri.es/ai-is-a-business-model-stress-test)
 * [2026-01-10, 16:03:55](https://news.ycombinator.com/item?id=46566812) - [Open Chaos: A self-evolving open-source project](https://www.openchaos.dev/)
@@ -30,6 +29,7 @@
 * [2026-01-07, 02:32:10](https://news.ycombinator.com/item?id=46521823) - [Brands upset Buy For Me is featuring their products on Amazon without permission](https://www.modernretail.co/technology/brands-are-upset-that-buy-for-me-is-featuring-their-products-on-amazon-without-permission/)
 * [2026-01-06, 20:43:12](https://news.ycombinator.com/item?id=46518401) - [Visual regression tests for personal blogs](https://marending.dev/notes/visual-testing/)
 * [2026-01-06, 15:05:09](https://news.ycombinator.com/item?id=46513163) - [Show HN: mcpc – Universal command-line client for Model Context Protocol (MCP)](https://github.com/apify/mcp-cli)
+* [2026-01-06, 02:07:18](https://news.ycombinator.com/item?id=46507891) - ['Bandersnatch': The Works That Inspired the 'Black Mirror' Interactive Feature (2019)](https://www.hollywoodreporter.com/tv/tv-news/black-mirror-bandersnatch-real-life-works-influences-1173330/)
 
 ## [Archives](archives/index.md)
 
