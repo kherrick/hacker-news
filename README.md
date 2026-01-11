@@ -10,7 +10,6 @@
 * [2026-01-11, 19:07:08](https://news.ycombinator.com/item?id=46578701) - [Anthropic: Developing a Claude Code competitor using Claude Code is banned](https://twitter.com/SIGKITTEN/status/2009697031422652461)
 * [2026-01-11, 18:50:47](https://news.ycombinator.com/item?id=46578507) - [American Dialect Society 2025 Word of the Year Is \"Slop\"](https://americandialect.org/2025-word-of-the-year-is-slop/)
 * [2026-01-11, 18:49:32](https://news.ycombinator.com/item?id=46578497) - [Meta announces nuclear energy projects](https://about.fb.com/news/2026/01/meta-nuclear-energy-projects-power-american-ai-leadership/)
-* [2026-01-11, 17:13:18](https://news.ycombinator.com/item?id=46577526) - [Show HN: Interactive California Budget (by Claude Code)](https://california-budget.com)
 * [2026-01-11, 17:05:52](https://news.ycombinator.com/item?id=46577464) - [Poison Fountain](https://rnsaffn.com/poison3/)
 * [2026-01-11, 16:43:06](https://news.ycombinator.com/item?id=46577242) - [Ask HN: What are you working on? (January 2026)](https://news.ycombinator.com/item?id=46577242)
 * [2026-01-11, 15:07:12](https://news.ycombinator.com/item?id=46576337) - [Instagram data breach reportedly exposed the personal info of 17.5M users](https://www.engadget.com/cybersecurity/an-instagram-data-breach-reportedly-exposed-the-personal-info-of-175-million-users-192105616.html)
@@ -28,6 +27,7 @@
 * [2026-01-08, 10:34:05](https://news.ycombinator.com/item?id=46539478) - [I'm making a game engine based on dynamic signed distance fields (SDFs) [video]](https://www.youtube.com/watch?v=il-TXbn5iMA)
 * [2026-01-07, 19:53:40](https://news.ycombinator.com/item?id=46531622) - [A set of Idiomatic prod-grade katas for experienced devs transitioning to Go](https://github.com/MedUnes/go-kata)
 * [2026-01-07, 11:59:24](https://news.ycombinator.com/item?id=46525389) - [Elo – A data expression language which compiles to JavaScript, Ruby, and SQL](https://elo-lang.org/)
+* [2026-01-07, 11:43:26](https://news.ycombinator.com/item?id=46525271) - [Vojtux – Unofficial Linux Distribution Aimed at Visually Impaired Users](https://github.com/vojtapolasek/vojtux)
 * [2026-01-06, 18:57:03](https://news.ycombinator.com/item?id=46516807) - [\"Food JPEGs\" in Super Smash Bros. & Kirby Air Riders](https://sethmlarson.dev/food-jpegs-in-super-smash-bros-and-kirby-air-riders)
 * [2026-01-06, 12:49:44](https://news.ycombinator.com/item?id=46511592) - [Dell admits it made a mistake when it abandoned XPS](https://gizmodo.com/dell-admits-it-made-a-huge-mistake-when-it-abandoned-xps-2000705053)
 
