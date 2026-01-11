@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-01-11](index.md)
 
+* [2026-01-11, 22:20:17](https://news.ycombinator.com/item?id=46580946) - [I'd tell you a UDP joke…](https://www.codepuns.com/post/805294580859879424/i-would-tell-you-a-udp-joke-but-you-might-not-get)
+* [2026-01-11, 22:14:35](https://news.ycombinator.com/item?id=46580864) - [Game is a single 13 KiB file that runs on Windows, Linux and in the Browser](https://iczelia.net/posts/snake-polyglot/)
+* [2026-01-11, 22:00:24](https://news.ycombinator.com/item?id=46580703) - [The Next Two Years of Software Engineering](https://addyosmani.com/blog/next-two-years/)
 * [2026-01-11, 21:55:34](https://news.ycombinator.com/item?id=46580652) - [Show HN: Engineering Schizophrenia: Trusting Yourself Through Byzantine Faults](https://news.ycombinator.com/item?id=46580652)
 * [2026-01-11, 21:29:57](https://news.ycombinator.com/item?id=46580326) - [2026 is the Year of Self-hosting](https://fulghum.io/self-hosting)
 * [2026-01-11, 21:28:37](https://news.ycombinator.com/item?id=46580309) - [A 2026 look at three bio-ML opinions I had in 2024](https://www.owlposting.com/p/a-2026-look-at-three-bio-ml-opinions)
