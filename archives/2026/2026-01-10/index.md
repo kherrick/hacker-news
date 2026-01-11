@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-01-10](index.md)
 
+* [2026-01-10, 23:46:58](https://news.ycombinator.com/item?id=46571166) - [Show HN: GlyphLang – An AI-first programming language](https://news.ycombinator.com/item?id=46571166)
+* [2026-01-10, 23:45:25](https://news.ycombinator.com/item?id=46571149) - [Show HN: Librario, a book metadata API that aggregates G Books, ISBNDB, and more](https://news.ycombinator.com/item?id=46571149)
+* [2026-01-10, 23:36:16](https://news.ycombinator.com/item?id=46571095) - [Private equity firms acquired more than 500 autism centers in past decade: study](https://www.brown.edu/news/2026-01-07/private-equity-autism-centers)
 * [2026-01-10, 22:13:14](https://news.ycombinator.com/item?id=46570440) - [Tux Paint](https://tuxpaint.org/)
 * [2026-01-10, 21:36:26](https://news.ycombinator.com/item?id=46570158) - [UK Orders Ofcom to Explore Encryption Backdoors](https://reclaimthenet.org/uk-orders-ofcom-to-explore-encryption-backdoors)
 * [2026-01-10, 20:50:29](https://news.ycombinator.com/item?id=46569799) - [Extracting books from production language models (2026)](https://arxiv.org/abs/2601.02671)
