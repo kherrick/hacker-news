@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-01-11, 16:20:47",
+      "https://news.ycombinator.com/item?id=46577019"
+    ],
+    [
+      "Replace the Retiring Windows XP with Linux",
+      "https://www.linux.com/training-tutorials/replace-retiring-windows-xp-linux/"
+    ]
+  ],
+  [
+    [
       "2026-01-11, 15:07:12",
       "https://news.ycombinator.com/item?id=46576337"
     ],
@@ -141,26 +151,6 @@
   ],
   [
     [
-      "2026-01-10, 19:54:49",
-      "https://news.ycombinator.com/item?id=46569312"
-    ],
-    [
-      "Overdose deaths are falling in America because of a 'supply shock': study",
-      "https://www.economist.com/united-states/2026/01/08/why-overdose-deaths-are-falling-in-america"
-    ]
-  ],
-  [
-    [
-      "2026-01-10, 19:27:39",
-      "https://news.ycombinator.com/item?id=46569061"
-    ],
-    [
-      "Show HN: Play poker with LLMs, or watch them play against each other",
-      "https://llmholdem.com/"
-    ]
-  ],
-  [
-    [
       "2026-01-10, 18:58:37",
       "https://news.ycombinator.com/item?id=46568794"
     ],
@@ -237,6 +227,16 @@
     [
       "C++ std::move doesn't move anything: A deep dive into Value Categories",
       "https://0xghost.dev/blog/std-move-deep-dive/"
+    ]
+  ],
+  [
+    [
+      "2026-01-07, 12:26:35",
+      "https://news.ycombinator.com/item?id=46525613"
+    ],
+    [
+      "Large Feeds and RFC 5005",
+      "https://alexschroeder.ch/view/2025-09-10-large-feeds"
     ]
   ],
   [
