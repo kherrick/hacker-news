@@ -1,12 +1,42 @@
 [
   [
     [
+      "2026-01-11, 03:15:14",
+      "https://news.ycombinator.com/item?id=46572392"
+    ],
+    [
+      "Workers at Redmond SpaceX lab exposed to toxic chemicals",
+      "https://www.fox13seattle.com/video/fmc-w1ga4pk97gxq0hj5"
+    ]
+  ],
+  [
+    [
+      "2026-01-11, 02:57:34",
+      "https://news.ycombinator.com/item?id=46572304"
+    ],
+    [
+      "Show HN: VAM Seek – 2D video navigation grid, 15KB, zero server load",
+      "https://github.com/unhaya/vam-seek"
+    ]
+  ],
+  [
+    [
       "2026-01-11, 02:08:14",
       "https://news.ycombinator.com/item?id=46572060"
     ],
     [
       "A Year of Work on the Arch Linux Package Management (ALPM) Project",
       "https://devblog.archlinux.page/2026/a-year-of-work-on-the-alpm-project/"
+    ]
+  ],
+  [
+    [
+      "2026-01-11, 02:00:45",
+      "https://news.ycombinator.com/item?id=46572032"
+    ],
+    [
+      "Sisyphus Now Lives in Oh My Claude",
+      "https://github.com/Yeachan-Heo/oh-my-claude-sisyphus"
     ]
   ],
   [
@@ -41,16 +71,6 @@
   ],
   [
     [
-      "2026-01-10, 23:46:58",
-      "https://news.ycombinator.com/item?id=46571166"
-    ],
-    [
-      "Show HN: GlyphLang – An AI-first programming language",
-      "https://news.ycombinator.com/item?id=46571166"
-    ]
-  ],
-  [
-    [
       "2026-01-10, 23:45:25",
       "https://news.ycombinator.com/item?id=46571149"
     ],
@@ -77,6 +97,16 @@
     [
       "Extracting books from production language models (2026)",
       "https://arxiv.org/abs/2601.02671"
+    ]
+  ],
+  [
+    [
+      "2026-01-10, 19:54:49",
+      "https://news.ycombinator.com/item?id=46569312"
+    ],
+    [
+      "Overdose deaths are falling in America because of a 'supply shock': study",
+      "https://www.economist.com/united-states/2026/01/08/why-overdose-deaths-are-falling-in-america"
     ]
   ],
   [
@@ -171,16 +201,6 @@
   ],
   [
     [
-      "2026-01-10, 13:44:21",
-      "https://news.ycombinator.com/item?id=46565695"
-    ],
-    [
-      "NASA announces unprecedented return of sick ISS astronaut and crew",
-      "https://www.livescience.com/space/space-exploration/nasa-cancels-spacewalk-and-considers-early-crew-return-from-iss-due-to-medical-issues"
-    ]
-  ],
-  [
-    [
       "2026-01-10, 12:23:20",
       "https://news.ycombinator.com/item?id=46565132"
     ],
@@ -207,6 +227,16 @@
     [
       "Org Mode Syntax Is One of the Most Reasonable Markup Languages for Text (2017)",
       "https://karl-voit.at/2017/09/23/orgmode-as-markup-only/"
+    ]
+  ],
+  [
+    [
+      "2026-01-09, 19:44:18",
+      "https://news.ycombinator.com/item?id=46558284"
+    ],
+    [
+      "Datadog, thank you for blocking us",
+      "https://www.deductive.ai/blogs/datadog-thank-you-for-blocking-us"
     ]
   ],
   [
@@ -241,6 +271,16 @@
   ],
   [
     [
+      "2026-01-07, 11:39:33",
+      "https://news.ycombinator.com/item?id=46525236"
+    ],
+    [
+      "CPU Counters on Apple Silicon: article + tool",
+      "https://blog.bugsiki.dev/posts/apple-pmu/"
+    ]
+  ],
+  [
+    [
       "2026-01-07, 02:32:10",
       "https://news.ycombinator.com/item?id=46521823"
     ],
@@ -257,46 +297,6 @@
     [
       "Show HN: mcpc – Universal command-line client for Model Context Protocol (MCP)",
       "https://github.com/apify/mcp-cli"
-    ]
-  ],
-  [
-    [
-      "2026-01-05, 16:32:52",
-      "https://news.ycombinator.com/item?id=46500873"
-    ],
-    [
-      "The eight ways that all the elements in the Universe are made (2021)",
-      "https://bigthink.com/starts-with-a-bang/8-ways-elements-made/"
-    ]
-  ],
-  [
-    [
-      "2026-01-05, 16:29:10",
-      "https://news.ycombinator.com/item?id=46500798"
-    ],
-    [
-      "How wolves became dogs",
-      "https://www.economist.com/christmas-specials/2025/12/18/how-wolves-became-dogs"
-    ]
-  ],
-  [
-    [
-      "2026-01-03, 20:15:14",
-      "https://news.ycombinator.com/item?id=46481060"
-    ],
-    [
-      "1970 Paris, cut into a grid and photographed",
-      "https://paris1970.jeantho.eu/index.html"
-    ]
-  ],
-  [
-    [
-      "2026-01-03, 18:07:19",
-      "https://news.ycombinator.com/item?id=46479642"
-    ],
-    [
-      "MetaFun: Compile Haskell-like code to C++ template metaprograms",
-      "https://gergo.erdi.hu/projects/metafun/"
     ]
   ]
 ]
