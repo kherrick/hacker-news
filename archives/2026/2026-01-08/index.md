@@ -41,6 +41,7 @@
 * [2026-01-08, 17:40:02](https://news.ycombinator.com/item?id=46543933) - [Chinese AI models have lagged the US frontier by 7 months on average since 2023](https://epoch.ai/data-insights/us-vs-china-eci)
 * [2026-01-08, 17:31:54](https://news.ycombinator.com/item?id=46543807) - [China starts UHV power line: The new 700 km UHV line will transmit 8M kW](https://switchgear-magazine.com/tm-news/business/china-starts-uhv-power-line/)
 * [2026-01-08, 17:10:29](https://news.ycombinator.com/item?id=46543518) - [GPU memory snapshots: sub-second startup (2025)](https://modal.com/blog/gpu-mem-snapshots)
+* [2026-01-08, 17:09:55](https://news.ycombinator.com/item?id=46543509) - [Perfectly Replicating Coca Cola [video]](https://www.youtube.com/watch?v=TDkH3EbWTYc)
 * [2026-01-08, 17:01:58](https://news.ycombinator.com/item?id=46543420) - [ICE's Tool to Monitor Phones in Neighborhoods](https://www.404media.co/inside-ices-tool-to-monitor-phones-in-entire-neighborhoods/)
 * [2026-01-08, 17:01:00](https://news.ycombinator.com/item?id=46543403) - [Tamarind Bio (YC W24) Is Hiring Infrastructure Engineers](https://www.ycombinator.com/companies/tamarind-bio/jobs/HPRZAz3-infrastructure-engineer)
 * [2026-01-08, 16:57:55](https://news.ycombinator.com/item?id=46543359) - [Show HN: Miditui – a terminal app/UI for MIDI composing, mixing, and playback](https://github.com/minimaxir/miditui)
