@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2026-01-11, 04:45:27](https://news.ycombinator.com/item?id=46572769) - ['The answer cannot be nothing': The battle over Canada's mystery brain disease](https://www.bbc.com/news/articles/c623r47d67lo)
+* [2026-01-11, 04:32:47](https://news.ycombinator.com/item?id=46572723) - [Ripple: The Elegant TypeScript UI Framework](https://jsdev.space/meet-ripple/)
 * [2026-01-11, 04:19:04](https://news.ycombinator.com/item?id=46572679) - [My Home Fibre Network Disintegrated](https://alienchow.dev/post/fibre_disintegration/)
 * [2026-01-11, 03:56:19](https://news.ycombinator.com/item?id=46572593) - [Show HN: PrintReadyBook](https://printreadybook.com/)
 * [2026-01-11, 03:15:14](https://news.ycombinator.com/item?id=46572392) - [Workers at Redmond SpaceX lab exposed to toxic chemicals](https://www.fox13seattle.com/video/fmc-w1ga4pk97gxq0hj5)
@@ -9,7 +10,6 @@
 * [2026-01-11, 02:00:45](https://news.ycombinator.com/item?id=46572032) - [Sisyphus Now Lives in Oh My Claude](https://github.com/Yeachan-Heo/oh-my-claude-sisyphus)
 * [2026-01-11, 01:50:01](https://news.ycombinator.com/item?id=46571980) - [Show HN: Ferrite – Markdown editor in Rust with native Mermaid diagram rendering](https://github.com/OlaProeis/Ferrite)
 * [2026-01-11, 01:12:51](https://news.ycombinator.com/item?id=46571760) - [Kodbox: Open-source cloud desktop with multi-storage fusion and web IDE](https://github.com/kalcaddle/kodbox)
-* [2026-01-11, 01:04:58](https://news.ycombinator.com/item?id=46571707) - [Bob Weir has died](https://www.rollingstone.com/music/music-news/bob-weir-grateful-dead-dead-obituary-1234810106/)
 * [2026-01-10, 23:45:25](https://news.ycombinator.com/item?id=46571149) - [Show HN: Librario, a book metadata API that aggregates G Books, ISBNDB, and more](https://news.ycombinator.com/item?id=46571149)
 * [2026-01-10, 19:54:49](https://news.ycombinator.com/item?id=46569312) - [Overdose deaths are falling in America because of a 'supply shock': study](https://www.economist.com/united-states/2026/01/08/why-overdose-deaths-are-falling-in-america)
 * [2026-01-10, 19:43:57](https://news.ycombinator.com/item?id=46569225) - [Code Is Clay](https://campedersen.com/code-is-clay)
