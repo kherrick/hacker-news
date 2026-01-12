@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-01-12](index.md)
 
+* [2026-01-12, 12:25:27](https://news.ycombinator.com/item?id=46587498) - [Launch a Debugging Terminal into GitHub Actions](https://blog.gripdev.xyz/2026/01/10/actions-terminal-on-failure-for-debugging/)
+* [2026-01-12, 11:31:56](https://news.ycombinator.com/item?id=46587033) - [How to Build Reactive Declarative UI in Vanilla JavaScript](https://jsdev.space/howto/reactive-vanilla-js/)
 * [2026-01-12, 10:13:52](https://news.ycombinator.com/item?id=46586413) - [Google's Universal Commerce Protocol aims to make shopping AI-native](https://news.ycombinator.com/item?id=46586413)
 * [2026-01-12, 10:10:05](https://news.ycombinator.com/item?id=46586385) - [Fossil versus Git](https://fossil-scm.org/home/doc/trunk/www/fossil-v-git.wiki)
 * [2026-01-12, 09:42:49](https://news.ycombinator.com/item?id=46586179) - [Lightpanda migrate DOM implementation to Zig](https://lightpanda.io/blog/posts/migrating-our-dom-to-zig)
