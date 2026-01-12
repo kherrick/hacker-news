@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-01-12, 09:42:49](https://news.ycombinator.com/item?id=46586179) - [Lightpanda migrate DOM implementation to Zig](https://lightpanda.io/blog/posts/migrating-our-dom-to-zig)
 * [2026-01-12, 04:39:26](https://news.ycombinator.com/item?id=46584173) - [Xfce is great](https://rubenerd.com/xfce-is-great/)
 * [2026-01-12, 03:11:49](https://news.ycombinator.com/item?id=46583581) - [Show HN: An LLM-optimized programming language](https://github.com/ImJasonH/ImJasonH/blob/main/articles/llm-programming-language.md)
 * [2026-01-12, 02:58:01](https://news.ycombinator.com/item?id=46583464) - [Himalayas bare and rocky after reduced winter snowfall, scientists warn](https://www.bbc.com/news/articles/clyndv7zd20o)
@@ -17,9 +18,7 @@
 * [2026-01-11, 17:05:52](https://news.ycombinator.com/item?id=46577464) - [Poison Fountain](https://rnsaffn.com/poison3/)
 * [2026-01-11, 16:43:06](https://news.ycombinator.com/item?id=46577242) - [Ask HN: What are you working on? (January 2026)](https://news.ycombinator.com/item?id=46577242)
 * [2026-01-11, 10:26:18](https://news.ycombinator.com/item?id=46574276) - [Don't fall into the anti-AI hype](https://antirez.com/news/158)
-* [2026-01-11, 05:33:20](https://news.ycombinator.com/item?id=46572968) - [Quake 1 Single-Player Map Design Theories (2001)](https://www.quaddicted.com/webarchive//teamshambler.planetquake.gamespy.com/theories1.html)
 * [2026-01-09, 21:15:37](https://news.ycombinator.com/item?id=46559452) - [Garbage collection is contrarian](https://trynova.dev/blog/garbage-collection-is-contrarian)
-* [2026-01-09, 19:11:59](https://news.ycombinator.com/item?id=46557825) - [Code and Let Live](https://fly.io/blog/code-and-let-live/)
 * [2026-01-09, 12:23:52](https://news.ycombinator.com/item?id=46553137) - [39c3: In-house electronics manufacturing from scratch: How hard can it be? [video]](https://media.ccc.de/v/39c3-in-house-electronics-manufacturing-from-scratch-how-hard-can-it-be)
 * [2026-01-09, 08:29:25](https://news.ycombinator.com/item?id=46551352) - [Moving Scratch generation to Python on browser](https://kushaldas.in/posts/introducing-ektupy.html)
 * [2026-01-08, 17:09:55](https://news.ycombinator.com/item?id=46543509) - [Perfectly Replicating Coca Cola [video]](https://www.youtube.com/watch?v=TDkH3EbWTYc)
@@ -28,6 +27,7 @@
 * [2026-01-07, 14:43:16](https://news.ycombinator.com/item?id=46526896) - [JRR Tolkien reads from The Hobbit for 30 Minutes (1952)](https://www.openculture.com/2026/01/j-r-r-tolkien-reads-from-the-hobbit-for-30-minutes-1952.html)
 * [2026-01-07, 11:59:24](https://news.ycombinator.com/item?id=46525389) - [Elo – A data expression language which compiles to JavaScript, Ruby, and SQL](https://elo-lang.org/)
 * [2026-01-07, 07:39:12](https://news.ycombinator.com/item?id=46523642) - [Show HN: Shellock, a real-time CLI flag explainer for fish shell](https://github.com/ibehnam/shellock)
+* [2026-01-07, 06:25:59](https://news.ycombinator.com/item?id=46523226) - [XMPP and Metadata](https://blog.mathieui.net/xmpp-and-metadata.html)
 * [2026-01-06, 22:31:37](https://news.ycombinator.com/item?id=46519756) - [Conbini Wars – map of Japanese convenience store ratios](https://conbini.kikkia.dev/)
 * [2026-01-06, 17:41:42](https://news.ycombinator.com/item?id=46515625) - [Insights into Claude Opus 4.5 from Pokémon](https://www.lesswrong.com/posts/u6Lacc7wx4yYkBQ3r/insights-into-claude-opus-4-5-from-pokemon)
 

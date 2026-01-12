@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-01-12](index.md)
 
+* [2026-01-12, 09:42:49](https://news.ycombinator.com/item?id=46586179) - [Lightpanda migrate DOM implementation to Zig](https://lightpanda.io/blog/posts/migrating-our-dom-to-zig)
 * [2026-01-12, 04:39:26](https://news.ycombinator.com/item?id=46584173) - [XFCE Is Great](https://rubenerd.com/xfce-is-great/)
 * [2026-01-12, 03:11:49](https://news.ycombinator.com/item?id=46583581) - [Show HN: An LLM-optimized programming language](https://github.com/ImJasonH/ImJasonH/blob/main/articles/llm-programming-language.md)
 * [2026-01-12, 02:58:01](https://news.ycombinator.com/item?id=46583464) - [Himalayas bare and rocky after reduced winter snowfall, scientists warn](https://www.bbc.com/news/articles/clyndv7zd20o)

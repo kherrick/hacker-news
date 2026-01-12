@@ -81,6 +81,7 @@
 * [2026-01-07, 08:08:37](https://news.ycombinator.com/item?id=46523826) - [A Glimpse into DexProtector](https://www.romainthomas.fr/post/26-01-dexprotector/)
 * [2026-01-07, 07:39:12](https://news.ycombinator.com/item?id=46523642) - [Show HN: Shellock, a real-time CLI flag explainer for fish shell](https://github.com/ibehnam/shellock)
 * [2026-01-07, 07:18:26](https://news.ycombinator.com/item?id=46523527) - [Outward Signs of Inner Mysteries](https://lareviewofbooks.org/article/outward-signs-of-inner-mysteries/)
+* [2026-01-07, 06:25:59](https://news.ycombinator.com/item?id=46523226) - [XMPP and Metadata](https://blog.mathieui.net/xmpp-and-metadata.html)
 * [2026-01-07, 05:44:54](https://news.ycombinator.com/item?id=46523029) - [Bill to Eliminate H-1B Visa Program Introduced in Congress](https://www.newsweek.com/eliminate-h1b-visa-program-congress-bill-marjorie-taylor-greene-11312655)
 * [2026-01-07, 05:10:27](https://news.ycombinator.com/item?id=46522841) - [PgX – Debug Postgres performance in the context of your application code](https://docs.base14.io/blog/introducing-pgx/)
 * [2026-01-07, 04:48:50](https://news.ycombinator.com/item?id=46522686) - [A glimpse into V8 development for RISC-V](https://riseproject.dev/2025/12/09/a-glimpse-into-v8-development-for-risc-v/)
