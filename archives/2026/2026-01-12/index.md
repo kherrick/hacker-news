@@ -4,11 +4,17 @@
 
 ### [Archives](../../index.md) for [2026-01-12](index.md)
 
+* [2026-01-12, 17:17:09](https://news.ycombinator.com/item?id=46591402) - [Message Queues: A Simple Guide with Analogies](https://www.cloudamqp.com/blog/message-queues-exaplined-with-analogies.html)
 * [2026-01-12, 17:00:48](https://news.ycombinator.com/item?id=46591170) - [Carma (YC W24 clients, A in 6mo) Eng hiring: Replace $500B human fleet ops with AI](https://news.ycombinator.com/item?id=46591170)
+* [2026-01-12, 16:56:17](https://news.ycombinator.com/item?id=46591100) - [Show HN: AI in SolidWorks](https://www.trylad.com)
 * [2026-01-12, 16:04:27](https://news.ycombinator.com/item?id=46590280) - [TimeCapsuleLLM: LLM trained only on data from 1800-1875](https://github.com/haykgrigo3/TimeCapsuleLLM)
+* [2026-01-12, 15:41:28](https://news.ycombinator.com/item?id=46589926) - [Show HN: Pane – An agent that edits spreadsheets](https://paneapp.com)
 * [2026-01-12, 15:36:43](https://news.ycombinator.com/item?id=46589849) - [Open-Meteo is a free and open-source weather API for non-commercial use](https://open-meteo.com/)
 * [2026-01-12, 15:22:21](https://news.ycombinator.com/item?id=46589675) - [Apple picks Google's Gemini to power Siri](https://www.cnbc.com/2026/01/12/apple-google-ai-siri-gemini.html)
 * [2026-01-12, 15:20:36](https://news.ycombinator.com/item?id=46589658) - [Date is out, Temporal is in](https://piccalil.li/blog/date-is-out-and-temporal-is-in/)
+* [2026-01-12, 15:13:31](https://news.ycombinator.com/item?id=46589576) - [Computational complexity of schema-guided document extraction](https://www.runpulse.com/blog/computational-complexity-of-schema)
+* [2026-01-12, 15:09:32](https://news.ycombinator.com/item?id=46589543) - [Computers that used to be human](https://digitalseams.com/blog/computers-that-used-to-be-human)
+* [2026-01-12, 15:05:51](https://news.ycombinator.com/item?id=46589489) - [Statement from Federal Reserve Chair](https://www.federalreserve.gov/newsevents/speech/powell20260111a.htm?mod=ANLink)
 * [2026-01-12, 14:58:15](https://news.ycombinator.com/item?id=46589386) - [Why Ontario Digital Service couldn't procure '98% safe' LLMs (15M Canadians)](https://rosetta-labs-erb.github.io/authority-boundary-ledger/)
 * [2026-01-12, 14:50:24](https://news.ycombinator.com/item?id=46589279) - [Keychron's Nape Pro turns your keyboard into a laptop‑style trackball rig](https://www.yankodesign.com/2026/01/08/keychrons-nape-pro-turns-your-mechanical-keyboard-into-a-laptop-style-trackball-rig-hands-on-at-ces-2026/)
 * [2026-01-12, 14:30:51](https://news.ycombinator.com/item?id=46589009) - [2025 marked a record-breaking year for Apple services](https://www.apple.com/newsroom/2026/01/2025-marked-a-record-breaking-year-for-apple-services/)
