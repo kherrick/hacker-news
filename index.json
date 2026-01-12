@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-01-12, 20:27:34",
+      "https://news.ycombinator.com/item?id=46593819"
+    ],
+    [
+      "Update on age requirements for apps distributed in Texas",
+      "https://developer.apple.com/news/?id=8jzbigf4"
+    ]
+  ],
+  [
+    [
+      "2026-01-12, 20:26:47",
+      "https://news.ycombinator.com/item?id=46593802"
+    ],
+    [
+      "Fabrice Bellard's TS Zip",
+      "https://www.bellard.org/ts_zip/"
+    ]
+  ],
+  [
+    [
       "2026-01-12, 19:57:37",
       "https://news.ycombinator.com/item?id=46593395"
     ],
@@ -211,16 +231,6 @@
   ],
   [
     [
-      "2026-01-12, 09:42:49",
-      "https://news.ycombinator.com/item?id=46586179"
-    ],
-    [
-      "Lightpanda migrate DOM implementation to Zig",
-      "https://lightpanda.io/blog/posts/migrating-our-dom-to-zig"
-    ]
-  ],
-  [
-    [
       "2026-01-12, 09:10:45",
       "https://news.ycombinator.com/item?id=46585947"
     ],
@@ -277,16 +287,6 @@
     [
       "Personal thoughts/notes from working on Zootopia 2",
       "https://blog.yiningkarlli.com/2025/12/zootopia-2.html"
-    ]
-  ],
-  [
-    [
-      "2026-01-07, 08:45:43",
-      "https://news.ycombinator.com/item?id=46524058"
-    ],
-    [
-      "A Couple 3D AABB Tricks",
-      "https://gpfault.net/posts/aabb-tricks.html"
     ]
   ],
   [
