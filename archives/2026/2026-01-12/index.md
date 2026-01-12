@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-01-12](index.md)
 
+* [2026-01-12, 19:57:37](https://news.ycombinator.com/item?id=46593395) - [The chess bot on Delta Air Lines will destroy you (2024) [video]](https://www.youtube.com/watch?v=c0mLhHDcY3I)
 * [2026-01-12, 19:39:55](https://news.ycombinator.com/item?id=46593168) - [Waymo passenger flees after car drives on Phoenix light rail tracks](https://www.azfamily.com/2026/01/08/waymo-passenger-flees-after-car-drives-phoenix-light-rail-tracks/)
 * [2026-01-12, 19:27:19](https://news.ycombinator.com/item?id=46593022) - [Cowork: Claude Code for the rest of your work](https://claude.com/blog/cowork-research-preview)
 * [2026-01-12, 19:12:39](https://news.ycombinator.com/item?id=46592844) - [Presidential Immunity in the United States](https://en.wikipedia.org/wiki/Presidential_immunity_in_the_United_States)

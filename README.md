@@ -1,14 +1,13 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-01-12, 19:39:55](https://news.ycombinator.com/item?id=46593168) - [Waymo passenger flees after car drives on Phoenix light rail tracks](https://www.azfamily.com/2026/01/08/waymo-passenger-flees-after-car-drives-phoenix-light-rail-tracks/)
+* [2026-01-12, 19:57:37](https://news.ycombinator.com/item?id=46593395) - [The chess bot on Delta Air Lines will destroy you (2024) [video]](https://www.youtube.com/watch?v=c0mLhHDcY3I)
 * [2026-01-12, 19:27:19](https://news.ycombinator.com/item?id=46593022) - [Cowork: Claude Code for the rest of your work](https://claude.com/blog/cowork-research-preview)
-* [2026-01-12, 19:11:33](https://news.ycombinator.com/item?id=46592827) - [X Didn't Fix Grok's 'Undressing' Problem. It Just Makes People Pay for It](https://www.wired.com/story/x-didnt-fix-groks-undressing-problem-it-just-makes-people-pay-for-it/)
 * [2026-01-12, 18:41:47](https://news.ycombinator.com/item?id=46592461) - [Clearspace (YC W23) Is Hiring an Applied Researcher (ML)](https://www.ycombinator.com/companies/clearspace/jobs/GOWiDwp-research-engineer-at-clearspace)
 * [2026-01-12, 18:36:12](https://news.ycombinator.com/item?id=46592376) - [Show HN: Fall asleep by watching JavaScript load](https://github.com/sarusso/bedtime)
 * [2026-01-12, 18:34:02](https://news.ycombinator.com/item?id=46592344) - [Show HN: Yolobox – Run AI coding agents with full sudo without nuking home dir](https://github.com/finbarr/yolobox)
 * [2026-01-12, 17:41:50](https://news.ycombinator.com/item?id=46591708) - [Postal Arbitrage](https://walzr.com/postal-arbitrage)
 * [2026-01-12, 17:32:16](https://news.ycombinator.com/item?id=46591589) - [Show HN: Customizable OSINT dashboard to monitor the situation](https://sr.ericli.tech/?d=N4IgbiBcCMA0IHcoG1QBcogEYngGxQAZZiAOWUgXXgGMpQBHTASwCcBDAO1xAAcoAzIWGEAvqNjpMAWx4FIycsWjKAbNRB1IoLcgEAmAHSqALAHYArAOgnYFk4YumBF6OvgAvKGfgBnKGisAK4ApvDckCAAkhzc4pIgGJEhckQU6VS09CBMkWxcIPFSkfz4KNBKsKqwZhpaoP6RNi5mAjwhSSAA0gAW7NIhnCHMAAQA9kFoI+y+IwDKQbysIQMjADIh7AAmIazjAGYjMVwjWACeIwBSXEHsrBfWAPyFEsUgZ6kKFTVVsACcdWyQUwPTQaF4vkgAHooQg4YYzhM0EEsCFDDQxtJYew0DQeo8wABeNYAfX2NFYAHlEQB1ABapBelFEQA)
-* [2026-01-12, 17:17:09](https://news.ycombinator.com/item?id=46591402) - [Message Queues: A Simple Guide with Analogies](https://www.cloudamqp.com/blog/message-queues-exaplined-with-analogies.html)
+* [2026-01-12, 17:17:09](https://news.ycombinator.com/item?id=46591402) - [Message Queues: A Simple Guide with Analogies (2024)](https://www.cloudamqp.com/blog/message-queues-exaplined-with-analogies.html)
 * [2026-01-12, 16:56:17](https://news.ycombinator.com/item?id=46591100) - [Show HN: AI in SolidWorks](https://www.trylad.com)
 * [2026-01-12, 16:20:16](https://news.ycombinator.com/item?id=46590541) - [Building a 25 Gbit/s workstation for the SCION Association](https://github.com/scionassociation/blog-25gbit-workstation)
 * [2026-01-12, 16:04:27](https://news.ycombinator.com/item?id=46590280) - [TimeCapsuleLLM: LLM trained only on data from 1800-1875](https://github.com/haykgrigo3/TimeCapsuleLLM)
@@ -30,6 +29,7 @@
 * [2026-01-07, 17:38:53](https://news.ycombinator.com/item?id=46529507) - [Ansible battle tested hardening for Linux, SSH, Nginx, MySQL](https://github.com/dev-sec/ansible-collection-hardening)
 * [2026-01-07, 14:43:16](https://news.ycombinator.com/item?id=46526896) - [JRR Tolkien reads from The Hobbit for 30 Minutes (1952)](https://www.openculture.com/2026/01/j-r-r-tolkien-reads-from-the-hobbit-for-30-minutes-1952.html)
 * [2026-01-07, 12:29:01](https://news.ycombinator.com/item?id=46525639) - [Personal thoughts/notes from working on Zootopia 2](https://blog.yiningkarlli.com/2025/12/zootopia-2.html)
+* [2026-01-06, 22:39:08](https://news.ycombinator.com/item?id=46519839) - [Perlsecret – Perl secret operators and constants](https://metacpan.org/dist/perlsecret/view/lib/perlsecret.pod)
 
 ## [Archives](archives/index.md)
 
