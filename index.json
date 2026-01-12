@@ -1,12 +1,42 @@
 [
   [
     [
+      "2026-01-12, 13:57:32",
+      "https://news.ycombinator.com/item?id=46588572"
+    ],
+    [
+      "Reproducing DeepSeek's MHC: When Residual Connections Explode",
+      "https://taylorkolasinski.com/notes/mhc-reproduction/"
+    ]
+  ],
+  [
+    [
+      "2026-01-12, 13:38:36",
+      "https://news.ycombinator.com/item?id=46588319"
+    ],
+    [
+      "Ireland fast tracks Bill to criminalise harmful voice or image misuse",
+      "https://www.irishtimes.com/ireland/2026/01/07/call-to-fast-track-bill-targeting-ai-deepfakes-and-identity-hijacking/"
+    ]
+  ],
+  [
+    [
       "2026-01-12, 13:22:44",
       "https://news.ycombinator.com/item?id=46588132"
     ],
     [
       "Windows 8 Desktop Environment for Linux",
       "https://github.com/er-bharat/Win8DE"
+    ]
+  ],
+  [
+    [
+      "2026-01-12, 13:07:49",
+      "https://news.ycombinator.com/item?id=46587934"
+    ],
+    [
+      "Floppy disks turn out to be the greatest TV remote for kids",
+      "https://blog.smartere.dk/2026/01/floppy-disks-the-best-tv-remote-for-kids/"
     ]
   ],
   [
@@ -41,32 +71,12 @@
   ],
   [
     [
-      "2026-01-12, 11:31:56",
-      "https://news.ycombinator.com/item?id=46587033"
-    ],
-    [
-      "How to Build Reactive Declarative UI in Vanilla JavaScript",
-      "https://jsdev.space/howto/reactive-vanilla-js/"
-    ]
-  ],
-  [
-    [
       "2026-01-12, 10:57:29",
       "https://news.ycombinator.com/item?id=46586766"
     ],
     [
-      "Anthropic Made a Big Mistake",
+      "Anthropic made a big mistake",
       "https://archaeologist.dev/artifacts/anthropic"
-    ]
-  ],
-  [
-    [
-      "2026-01-12, 10:10:05",
-      "https://news.ycombinator.com/item?id=46586385"
-    ],
-    [
-      "Fossil versus Git",
-      "https://fossil-scm.org/home/doc/trunk/www/fossil-v-git.wiki"
     ]
   ],
   [
@@ -171,26 +181,6 @@
   ],
   [
     [
-      "2026-01-11, 16:43:06",
-      "https://news.ycombinator.com/item?id=46577242"
-    ],
-    [
-      "Ask HN: What are you working on? (January 2026)",
-      "https://news.ycombinator.com/item?id=46577242"
-    ]
-  ],
-  [
-    [
-      "2026-01-11, 10:26:18",
-      "https://news.ycombinator.com/item?id=46574276"
-    ],
-    [
-      "Don't fall into the anti-AI hype",
-      "https://antirez.com/news/158"
-    ]
-  ],
-  [
-    [
       "2026-01-09, 12:23:52",
       "https://news.ycombinator.com/item?id=46553137"
     ],
@@ -235,8 +225,18 @@
       "https://news.ycombinator.com/item?id=46526809"
     ],
     [
-      "Show HN: 30k IKEA items in flat text (CommerceTXT). 24% smaller than JSON",
+      "Show HN: 30k IKEA items in flat text",
       "https://huggingface.co/datasets/tsazan/ikea-us-commercetxt"
+    ]
+  ],
+  [
+    [
+      "2026-01-07, 12:29:01",
+      "https://news.ycombinator.com/item?id=46525639"
+    ],
+    [
+      "Personal thoughts/notes from working on Zootopia 2",
+      "https://blog.yiningkarlli.com/2025/12/zootopia-2.html"
     ]
   ],
   [
