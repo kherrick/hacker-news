@@ -25,7 +25,7 @@
 * [2026-01-12, 10:57:29](https://news.ycombinator.com/item?id=46586766) - [Anthropic made a mistake in cutting off third-party clients](https://archaeologist.dev/artifacts/anthropic)
 * [2026-01-12, 09:10:45](https://news.ycombinator.com/item?id=46585947) - [Ai, Japanese chimpanzee who counted and painted dies at 49](https://www.bbc.com/news/articles/cj9r3zl2ywyo)
 * [2026-01-11, 22:33:32](https://news.ycombinator.com/item?id=46581095) - [Unauthenticated remote code execution in OpenCode](https://cy.md/opencode-rce/)
-* [2026-01-11, 20:47:55](https://news.ycombinator.com/item?id=46579864) - [The struggle of resizing windows on macOS Tahoe](https://noheger.at/blog/2026/01/11/the-struggle-of-resizing-windows-on-macos-tahoe/)
+* [2026-01-08, 16:50:58](https://news.ycombinator.com/item?id=46543257) - [What old tennis players teach us (2017)](https://www.raphkoster.com/2017/09/22/31098/)
 * [2026-01-07, 17:38:53](https://news.ycombinator.com/item?id=46529507) - [Ansible battle tested hardening for Linux, SSH, Nginx, MySQL](https://github.com/dev-sec/ansible-collection-hardening)
 * [2026-01-07, 14:43:16](https://news.ycombinator.com/item?id=46526896) - [JRR Tolkien reads from The Hobbit for 30 Minutes (1952)](https://www.openculture.com/2026/01/j-r-r-tolkien-reads-from-the-hobbit-for-30-minutes-1952.html)
 * [2026-01-07, 12:29:01](https://news.ycombinator.com/item?id=46525639) - [Personal thoughts/notes from working on Zootopia 2](https://blog.yiningkarlli.com/2025/12/zootopia-2.html)

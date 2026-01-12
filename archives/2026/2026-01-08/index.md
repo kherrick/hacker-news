@@ -45,6 +45,7 @@
 * [2026-01-08, 17:01:58](https://news.ycombinator.com/item?id=46543420) - [ICE's Tool to Monitor Phones in Neighborhoods](https://www.404media.co/inside-ices-tool-to-monitor-phones-in-entire-neighborhoods/)
 * [2026-01-08, 17:01:00](https://news.ycombinator.com/item?id=46543403) - [Tamarind Bio (YC W24) Is Hiring Infrastructure Engineers](https://www.ycombinator.com/companies/tamarind-bio/jobs/HPRZAz3-infrastructure-engineer)
 * [2026-01-08, 16:57:55](https://news.ycombinator.com/item?id=46543359) - [Show HN: Miditui – a terminal app/UI for MIDI composing, mixing, and playback](https://github.com/minimaxir/miditui)
+* [2026-01-08, 16:50:58](https://news.ycombinator.com/item?id=46543257) - [What old tennis players teach us (2017)](https://www.raphkoster.com/2017/09/22/31098/)
 * [2026-01-08, 16:46:45](https://news.ycombinator.com/item?id=46543200) - [The Waymo Ojai Will Soon Offer Autonomous Rides Around the U.S.](https://www.caranddriver.com/news/a69938250/waymo-ojai-autonomous-robotaxi-details/)
 * [2026-01-08, 16:31:29](https://news.ycombinator.com/item?id=46542982) - [Dynamic Large Concept Models: Latent Reasoning in an Adaptive Semantic Space](https://arxiv.org/abs/2512.24617)
 * [2026-01-08, 16:16:43](https://news.ycombinator.com/item?id=46542761) - [Digital Red Queen: Adversarial Program Evolution in Core War with LLMs](https://sakana.ai/drq/)
