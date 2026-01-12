@@ -31,6 +31,16 @@
   ],
   [
     [
+      "2026-01-12, 16:20:16",
+      "https://news.ycombinator.com/item?id=46590541"
+    ],
+    [
+      "Building a 25 Gbit/s workstation for the SCION Association",
+      "https://github.com/scionassociation/blog-25gbit-workstation"
+    ]
+  ],
+  [
+    [
       "2026-01-12, 16:04:27",
       "https://news.ycombinator.com/item?id=46590280"
     ],
@@ -287,16 +297,6 @@
     [
       "History's Attention Gap",
       "https://kidopoly.com/research/attention-gap/"
-    ]
-  ],
-  [
-    [
-      "2026-01-07, 06:25:59",
-      "https://news.ycombinator.com/item?id=46523226"
-    ],
-    [
-      "XMPP and Metadata",
-      "https://blog.mathieui.net/xmpp-and-metadata.html"
     ]
   ]
 ]
