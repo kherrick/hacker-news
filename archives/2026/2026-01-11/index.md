@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-01-11](index.md)
 
+* [2026-01-11, 23:49:15](https://news.ycombinator.com/item?id=46581832) - [Show HN: What if AI agents had Zodiac personalities?](https://github.com/baturyilmaz/what-if-ai-agents-had-zodiac-personalities)
 * [2026-01-11, 22:20:17](https://news.ycombinator.com/item?id=46580946) - [I'd tell you a UDP joke…](https://www.codepuns.com/post/805294580859879424/i-would-tell-you-a-udp-joke-but-you-might-not-get)
 * [2026-01-11, 22:14:35](https://news.ycombinator.com/item?id=46580864) - [Game is a single 13 KiB file that runs on Windows, Linux and in the Browser](https://iczelia.net/posts/snake-polyglot/)
 * [2026-01-11, 22:00:24](https://news.ycombinator.com/item?id=46580703) - [The Next Two Years of Software Engineering](https://addyosmani.com/blog/next-two-years/)
