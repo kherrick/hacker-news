@@ -46,6 +46,7 @@
 * [2026-01-09, 13:52:13](https://news.ycombinator.com/item?id=46553818) - [\"They Saw a Protest\": Cognitive Illiberalism and the Speech-Conduct Distinction [pdf]](https://www.stanfordlawreview.org/wp-content/uploads/sites/3/2012/05/Kahan-64-Stan-L-Rev-851.pdf)
 * [2026-01-09, 13:27:43](https://news.ycombinator.com/item?id=46553599) - [Iran vows regime will \"not back down\" as web blackout continues](https://www.cbsnews.com/news/iran-protests-internet-blackout-khamenei-vows-not-back-down-trump-threat/)
 * [2026-01-09, 12:54:48](https://news.ycombinator.com/item?id=46553343) - [Kagi releases alpha version of Orion for Linux](https://help.kagi.com/orion/misc/linux-status.html)
+* [2026-01-09, 12:23:52](https://news.ycombinator.com/item?id=46553137) - [39c3: In-house electronics manufacturing from scratch: How hard can it be? [video]](https://media.ccc.de/v/39c3-in-house-electronics-manufacturing-from-scratch-how-hard-can-it-be)
 * [2026-01-09, 10:27:11](https://news.ycombinator.com/item?id=46552254) - [MCP Is a Fad](https://tombedor.dev/mcp-is-a-fad/)
 * [2026-01-09, 09:34:54](https://news.ycombinator.com/item?id=46551855) - [Surveillance Watch – a map that shows connections between surveillance companies](https://www.surveillancewatch.io)
 * [2026-01-09, 09:01:33](https://news.ycombinator.com/item?id=46551602) - [C++ std::move doesn't move anything: A deep dive into Value Categories](https://0xghost.dev/blog/std-move-deep-dive/)
