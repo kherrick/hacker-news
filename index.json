@@ -31,6 +31,16 @@
   ],
   [
     [
+      "2026-01-12, 01:39:32",
+      "https://news.ycombinator.com/item?id=46582762"
+    ],
+    [
+      "Uncrossy",
+      "https://uncrossy.com/"
+    ]
+  ],
+  [
+    [
       "2026-01-12, 01:36:26",
       "https://news.ycombinator.com/item?id=46582728"
     ],
@@ -47,26 +57,6 @@
     [
       "Gadget Exposed a Spy Camera [video]",
       "https://www.youtube.com/watch?v=1reman2waLs"
-    ]
-  ],
-  [
-    [
-      "2026-01-11, 23:49:15",
-      "https://news.ycombinator.com/item?id=46581832"
-    ],
-    [
-      "Show HN: What if AI agents had Zodiac personalities?",
-      "https://github.com/baturyilmaz/what-if-ai-agents-had-zodiac-personalities"
-    ]
-  ],
-  [
-    [
-      "2026-01-11, 23:06:18",
-      "https://news.ycombinator.com/item?id=46581431"
-    ],
-    [
-      "Show HN: Voice Composer – Browser-based pitch detection to MIDI/strudel/tidal",
-      "https://dioptre.github.io/tidal/"
     ]
   ],
   [
@@ -161,6 +151,16 @@
   ],
   [
     [
+      "2026-01-11, 19:18:47",
+      "https://news.ycombinator.com/item?id=46578867"
+    ],
+    [
+      "Erich von Däniken has died",
+      "https://daniken.com/en/startseite-english/"
+    ]
+  ],
+  [
+    [
       "2026-01-11, 17:05:52",
       "https://news.ycombinator.com/item?id=46577464"
     ],
@@ -251,16 +251,6 @@
   ],
   [
     [
-      "2026-01-07, 16:46:44",
-      "https://news.ycombinator.com/item?id=46528683"
-    ],
-    [
-      "The Taming of Collection Scans",
-      "https://www.scylladb.com/2026/01/06/the-taming-of-collection-scans/"
-    ]
-  ],
-  [
-    [
       "2026-01-07, 12:33:09",
       "https://news.ycombinator.com/item?id=46525677"
     ],
@@ -297,6 +287,16 @@
     [
       "Insights into Claude Opus 4.5 from Pokémon",
       "https://www.lesswrong.com/posts/u6Lacc7wx4yYkBQ3r/insights-into-claude-opus-4-5-from-pokemon"
+    ]
+  ],
+  [
+    [
+      "2026-01-06, 16:27:30",
+      "https://news.ycombinator.com/item?id=46514434"
+    ],
+    [
+      "Pyinfra: Turns Python code into shell commands and runs them on your servers",
+      "https://github.com/pyinfra-dev/pyinfra"
     ]
   ]
 ]
