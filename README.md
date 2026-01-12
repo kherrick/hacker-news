@@ -1,10 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-01-12, 10:13:52](https://news.ycombinator.com/item?id=46586413) - [Google's Universal Commerce Protocol aims to make shopping AI-native](https://news.ycombinator.com/item?id=46586413)
+* [2026-01-12, 10:10:05](https://news.ycombinator.com/item?id=46586385) - [Fossil versus Git](https://fossil-scm.org/home/doc/trunk/www/fossil-v-git.wiki)
 * [2026-01-12, 09:42:49](https://news.ycombinator.com/item?id=46586179) - [Lightpanda migrate DOM implementation to Zig](https://lightpanda.io/blog/posts/migrating-our-dom-to-zig)
 * [2026-01-12, 09:10:45](https://news.ycombinator.com/item?id=46585947) - [Ai, Japanese chimpanzee who counted and painted dies at 49](https://www.bbc.com/news/articles/cj9r3zl2ywyo)
 * [2026-01-12, 04:39:26](https://news.ycombinator.com/item?id=46584173) - [Xfce is great](https://rubenerd.com/xfce-is-great/)
-* [2026-01-12, 03:11:49](https://news.ycombinator.com/item?id=46583581) - [Show HN: An LLM-optimized programming language](https://github.com/ImJasonH/ImJasonH/blob/main/articles/llm-programming-language.md)
 * [2026-01-12, 02:58:01](https://news.ycombinator.com/item?id=46583464) - [Himalayas bare and rocky after reduced winter snowfall, scientists warn](https://www.bbc.com/news/articles/clyndv7zd20o)
 * [2026-01-12, 01:39:32](https://news.ycombinator.com/item?id=46582762) - [Uncrossy](https://uncrossy.com/)
 * [2026-01-12, 00:15:36](https://news.ycombinator.com/item?id=46582033) - [Gadget Exposed a Spy Camera [video]](https://www.youtube.com/watch?v=1reman2waLs)
@@ -29,6 +28,7 @@
 * [2026-01-07, 07:39:12](https://news.ycombinator.com/item?id=46523642) - [Show HN: Shellock, a real-time CLI flag explainer for fish shell](https://github.com/ibehnam/shellock)
 * [2026-01-07, 06:25:59](https://news.ycombinator.com/item?id=46523226) - [XMPP and Metadata](https://blog.mathieui.net/xmpp-and-metadata.html)
 * [2026-01-06, 22:31:37](https://news.ycombinator.com/item?id=46519756) - [Conbini Wars – Map of Japanese convenience store ratios](https://conbini.kikkia.dev/)
+* [2026-01-06, 19:51:29](https://news.ycombinator.com/item?id=46517654) - [Show HN: DevicePrint – device fingerprinting without cookies](https://news.ycombinator.com/item?id=46517654)
 * [2026-01-06, 17:41:42](https://news.ycombinator.com/item?id=46515625) - [Insights into Claude Opus 4.5 from Pokémon](https://www.lesswrong.com/posts/u6Lacc7wx4yYkBQ3r/insights-into-claude-opus-4-5-from-pokemon)
 
 ## [Archives](archives/index.md)
