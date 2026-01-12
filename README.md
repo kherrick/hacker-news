@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-01-12, 04:39:26](https://news.ycombinator.com/item?id=46584173) - [XFCE Is Great](https://rubenerd.com/xfce-is-great/)
+* [2026-01-12, 04:39:26](https://news.ycombinator.com/item?id=46584173) - [Xfce is great](https://rubenerd.com/xfce-is-great/)
 * [2026-01-12, 03:11:49](https://news.ycombinator.com/item?id=46583581) - [Show HN: An LLM-optimized programming language](https://github.com/ImJasonH/ImJasonH/blob/main/articles/llm-programming-language.md)
 * [2026-01-12, 02:58:01](https://news.ycombinator.com/item?id=46583464) - [Himalayas bare and rocky after reduced winter snowfall, scientists warn](https://www.bbc.com/news/articles/clyndv7zd20o)
 * [2026-01-12, 01:39:32](https://news.ycombinator.com/item?id=46582762) - [Uncrossy](https://uncrossy.com/)
@@ -26,9 +26,9 @@
 * [2026-01-08, 17:09:55](https://news.ycombinator.com/item?id=46543509) - [Perfectly Replicating Coca Cola [video]](https://www.youtube.com/watch?v=TDkH3EbWTYc)
 * [2026-01-08, 10:34:05](https://news.ycombinator.com/item?id=46539478) - [I'm making a game engine based on dynamic signed distance fields (SDFs) [video]](https://www.youtube.com/watch?v=il-TXbn5iMA)
 * [2026-01-07, 19:53:40](https://news.ycombinator.com/item?id=46531622) - [A set of Idiomatic prod-grade katas for experienced devs transitioning to Go](https://github.com/MedUnes/go-kata)
-* [2026-01-07, 12:33:09](https://news.ycombinator.com/item?id=46525677) - [Ping: The Secrets of Successful Virtual Communication](https://www.penguin.co.uk/books/468218/ping-by-brodsky-andrew/9780241746363)
 * [2026-01-07, 11:59:24](https://news.ycombinator.com/item?id=46525389) - [Elo – A data expression language which compiles to JavaScript, Ruby, and SQL](https://elo-lang.org/)
 * [2026-01-07, 09:37:12](https://news.ycombinator.com/item?id=46524390) - [I Cannot SSH into My Server Anymore (and That's Fine)](https://soap.coffee/~lthms/posts/i-cannot-ssh-into-my-server-anymore.html)
+* [2026-01-06, 23:35:50](https://news.ycombinator.com/item?id=46520456) - [1% vs. 67%: What happened when we stopped trusting embeddings alone](https://roampal.ai/blog-context-rot.html)
 * [2026-01-06, 17:41:42](https://news.ycombinator.com/item?id=46515625) - [Insights into Claude Opus 4.5 from Pokémon](https://www.lesswrong.com/posts/u6Lacc7wx4yYkBQ3r/insights-into-claude-opus-4-5-from-pokemon)
 
 ## [Archives](archives/index.md)

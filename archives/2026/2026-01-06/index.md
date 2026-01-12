@@ -6,6 +6,7 @@
 
 * [2026-01-06, 23:46:24](https://news.ycombinator.com/item?id=46520566) - [Ruby Array Pack Bleed](https://nastystereo.com/security/ruby-pack.html)
 * [2026-01-06, 23:40:03](https://news.ycombinator.com/item?id=46520508) - [Hyundai Introduces Its Next-Gen Atlas Robot at CES 2026 [video]](https://www.youtube.com/watch?v=9e0SQn9uUlw)
+* [2026-01-06, 23:35:50](https://news.ycombinator.com/item?id=46520456) - [1% vs. 67%: What happened when we stopped trusting embeddings alone](https://roampal.ai/blog-context-rot.html)
 * [2026-01-06, 22:33:21](https://news.ycombinator.com/item?id=46519771) - [High-Performance GPU Cuckoo Filter](https://github.com/tdortman/cuckoo-filter)
 * [2026-01-06, 22:15:52](https://news.ycombinator.com/item?id=46519622) - [Are we tired of social media once and for all? (2025)](https://www.danielbrendel.com/blog/24-are-we-tired-of-social-media-once-and-for-all)
 * [2026-01-06, 21:46:04](https://news.ycombinator.com/item?id=46519326) - [CES 2026: Taking the Lids Off AMD's Venice and MI400 SoCs](https://chipsandcheese.com/p/ces-2026-taking-the-lids-off-amds)
