@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2026-01-12, 09:42:49](https://news.ycombinator.com/item?id=46586179) - [Lightpanda migrate DOM implementation to Zig](https://lightpanda.io/blog/posts/migrating-our-dom-to-zig)
+* [2026-01-12, 09:10:45](https://news.ycombinator.com/item?id=46585947) - [Ai, Japanese chimpanzee who counted and painted dies at 49](https://www.bbc.com/news/articles/cj9r3zl2ywyo)
 * [2026-01-12, 04:39:26](https://news.ycombinator.com/item?id=46584173) - [Xfce is great](https://rubenerd.com/xfce-is-great/)
 * [2026-01-12, 03:11:49](https://news.ycombinator.com/item?id=46583581) - [Show HN: An LLM-optimized programming language](https://github.com/ImJasonH/ImJasonH/blob/main/articles/llm-programming-language.md)
 * [2026-01-12, 02:58:01](https://news.ycombinator.com/item?id=46583464) - [Himalayas bare and rocky after reduced winter snowfall, scientists warn](https://www.bbc.com/news/articles/clyndv7zd20o)
@@ -20,7 +21,6 @@
 * [2026-01-11, 10:26:18](https://news.ycombinator.com/item?id=46574276) - [Don't fall into the anti-AI hype](https://antirez.com/news/158)
 * [2026-01-09, 21:15:37](https://news.ycombinator.com/item?id=46559452) - [Garbage collection is contrarian](https://trynova.dev/blog/garbage-collection-is-contrarian)
 * [2026-01-09, 12:23:52](https://news.ycombinator.com/item?id=46553137) - [39c3: In-house electronics manufacturing from scratch: How hard can it be? [video]](https://media.ccc.de/v/39c3-in-house-electronics-manufacturing-from-scratch-how-hard-can-it-be)
-* [2026-01-09, 08:29:25](https://news.ycombinator.com/item?id=46551352) - [Moving Scratch generation to Python on browser](https://kushaldas.in/posts/introducing-ektupy.html)
 * [2026-01-08, 17:09:55](https://news.ycombinator.com/item?id=46543509) - [Perfectly Replicating Coca Cola [video]](https://www.youtube.com/watch?v=TDkH3EbWTYc)
 * [2026-01-08, 10:34:05](https://news.ycombinator.com/item?id=46539478) - [I'm making a game engine based on dynamic signed distance fields (SDFs) [video]](https://www.youtube.com/watch?v=il-TXbn5iMA)
 * [2026-01-07, 19:53:40](https://news.ycombinator.com/item?id=46531622) - [A set of Idiomatic prod-grade katas for experienced devs transitioning to Go](https://github.com/MedUnes/go-kata)
