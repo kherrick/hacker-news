@@ -79,6 +79,7 @@
 * [2026-01-07, 08:42:57](https://news.ycombinator.com/item?id=46524036) - [Show HN: Free and local browser tool for designing gear models for 3D printing](https://gears.dmtrkovalenko.dev)
 * [2026-01-07, 08:18:09](https://news.ycombinator.com/item?id=46523887) - [The Q, K, V Matrices](https://arpitbhayani.me/blogs/qkv-matrices/)
 * [2026-01-07, 08:08:37](https://news.ycombinator.com/item?id=46523826) - [A Glimpse into DexProtector](https://www.romainthomas.fr/post/26-01-dexprotector/)
+* [2026-01-07, 07:39:12](https://news.ycombinator.com/item?id=46523642) - [Show HN: Shellock, a real-time CLI flag explainer for fish shell](https://github.com/ibehnam/shellock)
 * [2026-01-07, 07:18:26](https://news.ycombinator.com/item?id=46523527) - [Outward Signs of Inner Mysteries](https://lareviewofbooks.org/article/outward-signs-of-inner-mysteries/)
 * [2026-01-07, 05:44:54](https://news.ycombinator.com/item?id=46523029) - [Bill to Eliminate H-1B Visa Program Introduced in Congress](https://www.newsweek.com/eliminate-h1b-visa-program-congress-bill-marjorie-taylor-greene-11312655)
 * [2026-01-07, 05:10:27](https://news.ycombinator.com/item?id=46522841) - [PgX – Debug Postgres performance in the context of your application code](https://docs.base14.io/blog/introducing-pgx/)
