@@ -1,12 +1,22 @@
 [
   [
     [
-      "2026-01-12, 01:05:20",
-      "https://news.ycombinator.com/item?id=46582441"
+      "2026-01-12, 02:51:04",
+      "https://news.ycombinator.com/item?id=46583410"
     ],
     [
-      "Statement by Federal Reserve Chair Jerome F. Powell [video]",
-      "https://www.youtube.com/watch?v=KckGHaBLSn4"
+      "Code is cheap now, but software isn't",
+      "https://www.chrisgregori.dev/opinion/code-is-cheap-now-software-isnt"
+    ]
+  ],
+  [
+    [
+      "2026-01-12, 01:36:26",
+      "https://news.ycombinator.com/item?id=46582728"
+    ],
+    [
+      "Which programming languages are most token-efficient?",
+      "https://martinalderson.com/posts/which-programming-languages-are-most-token-efficient/"
     ]
   ],
   [
@@ -15,8 +25,18 @@
       "https://news.ycombinator.com/item?id=46582420"
     ],
     [
-      "Jerome Powell Responds",
+      "Statement from Jerome Powell",
       "https://www.federalreserve.gov/newsevents/speech/powell20260111a.htm"
+    ]
+  ],
+  [
+    [
+      "2026-01-12, 00:15:36",
+      "https://news.ycombinator.com/item?id=46582033"
+    ],
+    [
+      "Gadget Exposed a Spy Camera [video]",
+      "https://www.youtube.com/watch?v=1reman2waLs"
     ]
   ],
   [
@@ -27,6 +47,16 @@
     [
       "Show HN: What if AI agents had Zodiac personalities?",
       "https://github.com/baturyilmaz/what-if-ai-agents-had-zodiac-personalities"
+    ]
+  ],
+  [
+    [
+      "2026-01-11, 23:06:18",
+      "https://news.ycombinator.com/item?id=46581431"
+    ],
+    [
+      "Show HN: Voice Composer – Browser-based pitch detection to MIDI/strudel/tidal",
+      "https://dioptre.github.io/tidal/"
     ]
   ],
   [
@@ -51,12 +81,12 @@
   ],
   [
     [
-      "2026-01-11, 22:00:24",
-      "https://news.ycombinator.com/item?id=46580703"
+      "2026-01-11, 21:55:34",
+      "https://news.ycombinator.com/item?id=46580652"
     ],
     [
-      "The Next Two Years of Software Engineering",
-      "https://addyosmani.com/blog/next-two-years/"
+      "Show HN: Engineering Schizophrenia: Trusting yourself through Byzantine faults",
+      "https://news.ycombinator.com/item?id=46580652"
     ]
   ],
   [
@@ -65,7 +95,7 @@
       "https://news.ycombinator.com/item?id=46580326"
     ],
     [
-      "CLI agents like Claude Code make self-hosting on a home server easier and fun",
+      "CLI agents make self-hosting on a home server easier and fun",
       "https://fulghum.io/self-hosting"
     ]
   ],
@@ -77,16 +107,6 @@
     [
       "FUSE is All You Need – Giving agents access to anything via filesystems",
       "https://jakobemmerling.de/posts/fuse-is-all-you-need/"
-    ]
-  ],
-  [
-    [
-      "2026-01-11, 20:52:44",
-      "https://news.ycombinator.com/item?id=46579927"
-    ],
-    [
-      "BYD's cheapest electric cars to have Lidar self-driving tech",
-      "https://thedriven.io/2026/01/11/byds-cheapest-electric-cars-to-have-lidar-self-driving-tech/"
     ]
   ],
   [
@@ -111,42 +131,12 @@
   ],
   [
     [
-      "2026-01-11, 19:26:13",
-      "https://news.ycombinator.com/item?id=46578957"
-    ],
-    [
-      "\"Scholars Will Call It Nonsense\": The Structure of von Däniken's Argument (1987)",
-      "https://www.penn.museum/sites/expedition/scholars-will-call-it-nonsense/"
-    ]
-  ],
-  [
-    [
       "2026-01-11, 19:23:58",
       "https://news.ycombinator.com/item?id=46578921"
     ],
     [
       "iCloud Photos Downloader",
       "https://github.com/icloud-photos-downloader/icloud_photos_downloader"
-    ]
-  ],
-  [
-    [
-      "2026-01-11, 19:07:08",
-      "https://news.ycombinator.com/item?id=46578701"
-    ],
-    [
-      "Anthropic: Developing a Claude Code competitor using Claude Code is banned",
-      "https://twitter.com/SIGKITTEN/status/2009697031422652461"
-    ]
-  ],
-  [
-    [
-      "2026-01-11, 18:49:32",
-      "https://news.ycombinator.com/item?id=46578497"
-    ],
-    [
-      "Meta announces nuclear energy projects",
-      "https://about.fb.com/news/2026/01/meta-nuclear-energy-projects-power-american-ai-leadership/"
     ]
   ],
   [
@@ -181,16 +171,6 @@
   ],
   [
     [
-      "2026-01-11, 11:31:22",
-      "https://news.ycombinator.com/item?id=46574707"
-    ],
-    [
-      "I dumped Windows 11 for Linux, and you should too",
-      "https://www.notebookcheck.net/I-dumped-Windows-11-for-Linux-and-you-should-too.1190961.0.html"
-    ]
-  ],
-  [
-    [
       "2026-01-11, 10:26:18",
       "https://news.ycombinator.com/item?id=46574276"
     ],
@@ -201,22 +181,32 @@
   ],
   [
     [
-      "2026-01-11, 05:33:20",
-      "https://news.ycombinator.com/item?id=46572968"
+      "2026-01-09, 21:15:37",
+      "https://news.ycombinator.com/item?id=46559452"
     ],
     [
-      "Quake 1 Single-Player Map Design Theories (2001)",
-      "https://www.quaddicted.com/webarchive//teamshambler.planetquake.gamespy.com/theories1.html"
+      "Garbage collection is contrarian",
+      "https://trynova.dev/blog/garbage-collection-is-contrarian"
     ]
   ],
   [
     [
-      "2026-01-09, 09:01:33",
-      "https://news.ycombinator.com/item?id=46551602"
+      "2026-01-09, 08:29:25",
+      "https://news.ycombinator.com/item?id=46551352"
     ],
     [
-      "C++ std::move doesn't move anything: A deep dive into Value Categories",
-      "https://0xghost.dev/blog/std-move-deep-dive/"
+      "Moving Scratch generation to Python on browser",
+      "https://kushaldas.in/posts/introducing-ektupy.html"
+    ]
+  ],
+  [
+    [
+      "2026-01-09, 06:15:34",
+      "https://news.ycombinator.com/item?id=46550634"
+    ],
+    [
+      "Elephants Don't Play Chess (1990) [pdf]",
+      "https://people.csail.mit.edu/brooks/papers/elephants.pdf"
     ]
   ],
   [
@@ -261,6 +251,16 @@
   ],
   [
     [
+      "2026-01-07, 12:33:09",
+      "https://news.ycombinator.com/item?id=46525677"
+    ],
+    [
+      "Ping: The Secrets of Successful Virtual Communication",
+      "https://www.penguin.co.uk/books/468218/ping-by-brodsky-andrew/9780241746363"
+    ]
+  ],
+  [
+    [
       "2026-01-07, 11:59:24",
       "https://news.ycombinator.com/item?id=46525389"
     ],
@@ -281,12 +281,12 @@
   ],
   [
     [
-      "2026-01-06, 18:57:03",
-      "https://news.ycombinator.com/item?id=46516807"
+      "2026-01-07, 08:08:37",
+      "https://news.ycombinator.com/item?id=46523826"
     ],
     [
-      "“Food JPEGs” in Super Smash Bros. and Kirby Air Riders",
-      "https://sethmlarson.dev/food-jpegs-in-super-smash-bros-and-kirby-air-riders"
+      "A Glimpse into DexProtector",
+      "https://www.romainthomas.fr/post/26-01-dexprotector/"
     ]
   ],
   [
