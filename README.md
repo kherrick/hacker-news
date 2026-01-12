@@ -25,10 +25,10 @@
 * [2026-01-12, 09:10:45](https://news.ycombinator.com/item?id=46585947) - [Ai, Japanese chimpanzee who counted and painted dies at 49](https://www.bbc.com/news/articles/cj9r3zl2ywyo)
 * [2026-01-11, 22:33:32](https://news.ycombinator.com/item?id=46581095) - [Unauthenticated remote code execution in OpenCode](https://cy.md/opencode-rce/)
 * [2026-01-11, 20:47:55](https://news.ycombinator.com/item?id=46579864) - [The struggle of resizing windows on macOS Tahoe](https://noheger.at/blog/2026/01/11/the-struggle-of-resizing-windows-on-macos-tahoe/)
-* [2026-01-09, 12:23:52](https://news.ycombinator.com/item?id=46553137) - [39c3: In-house electronics manufacturing from scratch: How hard can it be? [video]](https://media.ccc.de/v/39c3-in-house-electronics-manufacturing-from-scratch-how-hard-can-it-be)
 * [2026-01-07, 17:38:53](https://news.ycombinator.com/item?id=46529507) - [Ansible battle tested hardening for Linux, SSH, Nginx, MySQL](https://github.com/dev-sec/ansible-collection-hardening)
 * [2026-01-07, 14:43:16](https://news.ycombinator.com/item?id=46526896) - [JRR Tolkien reads from The Hobbit for 30 Minutes (1952)](https://www.openculture.com/2026/01/j-r-r-tolkien-reads-from-the-hobbit-for-30-minutes-1952.html)
 * [2026-01-07, 12:29:01](https://news.ycombinator.com/item?id=46525639) - [Personal thoughts/notes from working on Zootopia 2](https://blog.yiningkarlli.com/2025/12/zootopia-2.html)
+* [2026-01-07, 08:45:43](https://news.ycombinator.com/item?id=46524058) - [A Couple 3D AABB Tricks](https://gpfault.net/posts/aabb-tricks.html)
 * [2026-01-06, 22:39:08](https://news.ycombinator.com/item?id=46519839) - [Perlsecret – Perl secret operators and constants](https://metacpan.org/dist/perlsecret/view/lib/perlsecret.pod)
 
 ## [Archives](archives/index.md)
