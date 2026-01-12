@@ -3,6 +3,7 @@
 * [2026-01-12, 17:17:09](https://news.ycombinator.com/item?id=46591402) - [Message Queues: A Simple Guide with Analogies](https://www.cloudamqp.com/blog/message-queues-exaplined-with-analogies.html)
 * [2026-01-12, 17:00:48](https://news.ycombinator.com/item?id=46591170) - [Carma (YC W24 clients, A in 6mo) Eng hiring: Replace $500B human fleet ops with AI](https://news.ycombinator.com/item?id=46591170)
 * [2026-01-12, 16:56:17](https://news.ycombinator.com/item?id=46591100) - [Show HN: AI in SolidWorks](https://www.trylad.com)
+* [2026-01-12, 16:20:16](https://news.ycombinator.com/item?id=46590541) - [Building a 25 Gbit/s workstation for the SCION Association](https://github.com/scionassociation/blog-25gbit-workstation)
 * [2026-01-12, 16:04:27](https://news.ycombinator.com/item?id=46590280) - [TimeCapsuleLLM: LLM trained only on data from 1800-1875](https://github.com/haykgrigo3/TimeCapsuleLLM)
 * [2026-01-12, 15:41:28](https://news.ycombinator.com/item?id=46589926) - [Show HN: Pane – An agent that edits spreadsheets](https://paneapp.com)
 * [2026-01-12, 15:36:43](https://news.ycombinator.com/item?id=46589849) - [Open-Meteo is a free and open-source weather API for non-commercial use](https://open-meteo.com/)
@@ -29,7 +30,6 @@
 * [2026-01-07, 14:43:16](https://news.ycombinator.com/item?id=46526896) - [JRR Tolkien reads from The Hobbit for 30 Minutes (1952)](https://www.openculture.com/2026/01/j-r-r-tolkien-reads-from-the-hobbit-for-30-minutes-1952.html)
 * [2026-01-07, 12:29:01](https://news.ycombinator.com/item?id=46525639) - [Personal thoughts/notes from working on Zootopia 2](https://blog.yiningkarlli.com/2025/12/zootopia-2.html)
 * [2026-01-07, 12:09:57](https://news.ycombinator.com/item?id=46525477) - [History's Attention Gap](https://kidopoly.com/research/attention-gap/)
-* [2026-01-07, 06:25:59](https://news.ycombinator.com/item?id=46523226) - [XMPP and Metadata](https://blog.mathieui.net/xmpp-and-metadata.html)
 
 ## [Archives](archives/index.md)
 
