@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-01-12](index.md)
 
+* [2026-01-12, 19:12:39](https://news.ycombinator.com/item?id=46592844) - [Presidential Immunity in the United States](https://en.wikipedia.org/wiki/Presidential_immunity_in_the_United_States)
+* [2026-01-12, 19:11:33](https://news.ycombinator.com/item?id=46592827) - [X Didn't Fix Grok's 'Undressing' Problem. It Just Makes People Pay for It](https://www.wired.com/story/x-didnt-fix-groks-undressing-problem-it-just-makes-people-pay-for-it/)
 * [2026-01-12, 18:41:47](https://news.ycombinator.com/item?id=46592461) - [Clearspace (YC W23) Is Hiring an Applied Researcher (ML)](https://www.ycombinator.com/companies/clearspace/jobs/GOWiDwp-research-engineer-at-clearspace)
+* [2026-01-12, 18:36:12](https://news.ycombinator.com/item?id=46592376) - [Show HN: Fall asleep by watching JavaScript load](https://github.com/sarusso/bedtime)
 * [2026-01-12, 18:34:02](https://news.ycombinator.com/item?id=46592344) - [Show HN: Yolobox – Run AI coding agents with full sudo without nuking home dir](https://github.com/finbarr/yolobox)
 * [2026-01-12, 18:03:12](https://news.ycombinator.com/item?id=46591974) - [Iran has now been offline for 96 hours](https://twitter.com/netblocks/status/2010750871274160361)
 * [2026-01-12, 17:41:50](https://news.ycombinator.com/item?id=46591708) - [Postal Arbitrage](https://walzr.com/postal-arbitrage)

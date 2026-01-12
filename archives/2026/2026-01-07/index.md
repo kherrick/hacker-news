@@ -29,6 +29,7 @@
 * [2026-01-07, 18:16:07](https://news.ycombinator.com/item?id=46530196) - [Predict your house price](https://www.bloomberg.com/opinion/newsletters/2026-01-06/predict-your-house-price)
 * [2026-01-07, 17:58:01](https://news.ycombinator.com/item?id=46529856) - [Show HN: Seapie – a Python debugger where breakpoints drop into a REPL](https://github.com/hirsimaki-markus/seapie)
 * [2026-01-07, 17:54:25](https://news.ycombinator.com/item?id=46529797) - [A tab hoarder's journey to sanity](https://twitter.com/borisandcrispin/status/2008709479068794989)
+* [2026-01-07, 17:38:53](https://news.ycombinator.com/item?id=46529507) - [Ansible battle tested hardening for Linux, SSH, Nginx, MySQL](https://github.com/dev-sec/ansible-collection-hardening)
 * [2026-01-07, 17:23:23](https://news.ycombinator.com/item?id=46529257) - [Texas A&M bans part of Plato's Symposium](https://dailynous.com/2026/01/06/texas-am-bans-plato/)
 * [2026-01-07, 17:22:18](https://news.ycombinator.com/item?id=46529240) - [The Manchester Garbage Collector and purple-garden's runtime](https://xnacly.me/posts/2026/manchester-garbage-collector/)
 * [2026-01-07, 17:22:09](https://news.ycombinator.com/item?id=46529237) - [Eat Real Food – Introducing the New Pyramid](https://realfood.gov)
