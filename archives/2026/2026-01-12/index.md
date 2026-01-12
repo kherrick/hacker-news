@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-01-12](index.md)
 
+* [2026-01-12, 13:22:44](https://news.ycombinator.com/item?id=46588132) - [Windows 8 Desktop Environment for Linux](https://github.com/er-bharat/Win8DE)
+* [2026-01-12, 12:29:00](https://news.ycombinator.com/item?id=46587536) - [Ozempic reduced grocery spending by an average of 5.3% in the US](https://news.cornell.edu/stories/2025/12/ozempic-changing-foods-americans-buy)
 * [2026-01-12, 12:25:27](https://news.ycombinator.com/item?id=46587498) - [Launch a Debugging Terminal into GitHub Actions](https://blog.gripdev.xyz/2026/01/10/actions-terminal-on-failure-for-debugging/)
 * [2026-01-12, 11:31:56](https://news.ycombinator.com/item?id=46587033) - [How to Build Reactive Declarative UI in Vanilla JavaScript](https://jsdev.space/howto/reactive-vanilla-js/)
 * [2026-01-12, 10:13:52](https://news.ycombinator.com/item?id=46586413) - [Google's Universal Commerce Protocol aims to make shopping AI-native](https://news.ycombinator.com/item?id=46586413)
