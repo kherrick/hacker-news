@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-01-12](index.md)
 
+* [2026-01-12, 19:39:55](https://news.ycombinator.com/item?id=46593168) - [Waymo passenger flees after car drives on Phoenix light rail tracks](https://www.azfamily.com/2026/01/08/waymo-passenger-flees-after-car-drives-phoenix-light-rail-tracks/)
 * [2026-01-12, 19:27:19](https://news.ycombinator.com/item?id=46593022) - [Cowork: Claude Code for the rest of your work](https://claude.com/blog/cowork-research-preview)
 * [2026-01-12, 19:12:39](https://news.ycombinator.com/item?id=46592844) - [Presidential Immunity in the United States](https://en.wikipedia.org/wiki/Presidential_immunity_in_the_United_States)
 * [2026-01-12, 19:11:33](https://news.ycombinator.com/item?id=46592827) - [X Didn't Fix Grok's 'Undressing' Problem. It Just Makes People Pay for It](https://www.wired.com/story/x-didnt-fix-groks-undressing-problem-it-just-makes-people-pay-for-it/)
@@ -28,6 +29,7 @@
 * [2026-01-12, 14:58:15](https://news.ycombinator.com/item?id=46589386) - [Why Ontario Digital Service couldn't procure '98% safe' LLMs (15M Canadians)](https://rosetta-labs-erb.github.io/authority-boundary-ledger/)
 * [2026-01-12, 14:50:24](https://news.ycombinator.com/item?id=46589279) - [Keychron's Nape Pro turns your keyboard into a laptop‑style trackball rig](https://www.yankodesign.com/2026/01/08/keychrons-nape-pro-turns-your-mechanical-keyboard-into-a-laptop-style-trackball-rig-hands-on-at-ces-2026/)
 * [2026-01-12, 14:30:51](https://news.ycombinator.com/item?id=46589009) - [2025 marked a record-breaking year for Apple services](https://www.apple.com/newsroom/2026/01/2025-marked-a-record-breaking-year-for-apple-services/)
+* [2026-01-12, 14:23:07](https://news.ycombinator.com/item?id=46588905) - [Show HN: Agent-of-empires: OpenCode and Claude Code session manager](https://github.com/njbrake/agent-of-empires)
 * [2026-01-12, 14:18:13](https://news.ycombinator.com/item?id=46588837) - [LLVM: The Bad Parts](https://www.npopov.com/2026/01/11/LLVM-The-bad-parts.html)
 * [2026-01-12, 13:57:32](https://news.ycombinator.com/item?id=46588572) - [Reproducing DeepSeek's MHC: When Residual Connections Explode](https://taylorkolasinski.com/notes/mhc-reproduction/)
 * [2026-01-12, 13:38:36](https://news.ycombinator.com/item?id=46588319) - [Ireland fast tracks Bill to criminalise harmful voice or image misuse](https://www.irishtimes.com/ireland/2026/01/07/call-to-fast-track-bill-targeting-ai-deepfakes-and-identity-hijacking/)

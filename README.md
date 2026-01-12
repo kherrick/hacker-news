@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-01-12, 19:39:55](https://news.ycombinator.com/item?id=46593168) - [Waymo passenger flees after car drives on Phoenix light rail tracks](https://www.azfamily.com/2026/01/08/waymo-passenger-flees-after-car-drives-phoenix-light-rail-tracks/)
 * [2026-01-12, 19:27:19](https://news.ycombinator.com/item?id=46593022) - [Cowork: Claude Code for the rest of your work](https://claude.com/blog/cowork-research-preview)
-* [2026-01-12, 19:12:39](https://news.ycombinator.com/item?id=46592844) - [Presidential Immunity in the United States](https://en.wikipedia.org/wiki/Presidential_immunity_in_the_United_States)
 * [2026-01-12, 19:11:33](https://news.ycombinator.com/item?id=46592827) - [X Didn't Fix Grok's 'Undressing' Problem. It Just Makes People Pay for It](https://www.wired.com/story/x-didnt-fix-groks-undressing-problem-it-just-makes-people-pay-for-it/)
 * [2026-01-12, 18:41:47](https://news.ycombinator.com/item?id=46592461) - [Clearspace (YC W23) Is Hiring an Applied Researcher (ML)](https://www.ycombinator.com/companies/clearspace/jobs/GOWiDwp-research-engineer-at-clearspace)
 * [2026-01-12, 18:36:12](https://news.ycombinator.com/item?id=46592376) - [Show HN: Fall asleep by watching JavaScript load](https://github.com/sarusso/bedtime)
@@ -15,6 +15,7 @@
 * [2026-01-12, 15:22:21](https://news.ycombinator.com/item?id=46589675) - [Apple picks Google's Gemini to power Siri](https://www.cnbc.com/2026/01/12/apple-google-ai-siri-gemini.html)
 * [2026-01-12, 15:20:36](https://news.ycombinator.com/item?id=46589658) - [Date is out, Temporal is in](https://piccalil.li/blog/date-is-out-and-temporal-is-in/)
 * [2026-01-12, 15:09:32](https://news.ycombinator.com/item?id=46589543) - [Computers that used to be human](https://digitalseams.com/blog/computers-that-used-to-be-human)
+* [2026-01-12, 14:23:07](https://news.ycombinator.com/item?id=46588905) - [Show HN: Agent-of-empires: OpenCode and Claude Code session manager](https://github.com/njbrake/agent-of-empires)
 * [2026-01-12, 14:18:13](https://news.ycombinator.com/item?id=46588837) - [LLVM: The bad parts](https://www.npopov.com/2026/01/11/LLVM-The-bad-parts.html)
 * [2026-01-12, 13:57:32](https://news.ycombinator.com/item?id=46588572) - [Reproducing DeepSeek's MHC: When Residual Connections Explode](https://taylorkolasinski.com/notes/mhc-reproduction/)
 * [2026-01-12, 13:07:49](https://news.ycombinator.com/item?id=46587934) - [Floppy disks turn out to be the greatest TV remote for kids](https://blog.smartere.dk/2026/01/floppy-disks-the-best-tv-remote-for-kids/)
@@ -29,7 +30,6 @@
 * [2026-01-07, 17:38:53](https://news.ycombinator.com/item?id=46529507) - [Ansible battle tested hardening for Linux, SSH, Nginx, MySQL](https://github.com/dev-sec/ansible-collection-hardening)
 * [2026-01-07, 14:43:16](https://news.ycombinator.com/item?id=46526896) - [JRR Tolkien reads from The Hobbit for 30 Minutes (1952)](https://www.openculture.com/2026/01/j-r-r-tolkien-reads-from-the-hobbit-for-30-minutes-1952.html)
 * [2026-01-07, 12:29:01](https://news.ycombinator.com/item?id=46525639) - [Personal thoughts/notes from working on Zootopia 2](https://blog.yiningkarlli.com/2025/12/zootopia-2.html)
-* [2026-01-07, 08:45:43](https://news.ycombinator.com/item?id=46524058) - [A Couple 3D AABB Tricks](https://gpfault.net/posts/aabb-tricks.html)
 
 ## [Archives](archives/index.md)
 
