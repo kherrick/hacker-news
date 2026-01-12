@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-01-12](index.md)
 
+* [2026-01-12, 10:13:52](https://news.ycombinator.com/item?id=46586413) - [Google's Universal Commerce Protocol aims to make shopping AI-native](https://news.ycombinator.com/item?id=46586413)
 * [2026-01-12, 09:42:49](https://news.ycombinator.com/item?id=46586179) - [Lightpanda migrate DOM implementation to Zig](https://lightpanda.io/blog/posts/migrating-our-dom-to-zig)
 * [2026-01-12, 09:10:45](https://news.ycombinator.com/item?id=46585947) - [Ai, Japanese chimpanzee who counted and painted dies at 49](https://www.bbc.com/news/articles/cj9r3zl2ywyo)
 * [2026-01-12, 04:39:26](https://news.ycombinator.com/item?id=46584173) - [XFCE Is Great](https://rubenerd.com/xfce-is-great/)

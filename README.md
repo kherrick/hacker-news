@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-01-12, 10:13:52](https://news.ycombinator.com/item?id=46586413) - [Google's Universal Commerce Protocol aims to make shopping AI-native](https://news.ycombinator.com/item?id=46586413)
 * [2026-01-12, 09:42:49](https://news.ycombinator.com/item?id=46586179) - [Lightpanda migrate DOM implementation to Zig](https://lightpanda.io/blog/posts/migrating-our-dom-to-zig)
 * [2026-01-12, 09:10:45](https://news.ycombinator.com/item?id=46585947) - [Ai, Japanese chimpanzee who counted and painted dies at 49](https://www.bbc.com/news/articles/cj9r3zl2ywyo)
 * [2026-01-12, 04:39:26](https://news.ycombinator.com/item?id=46584173) - [Xfce is great](https://rubenerd.com/xfce-is-great/)
@@ -9,7 +10,6 @@
 * [2026-01-12, 00:15:36](https://news.ycombinator.com/item?id=46582033) - [Gadget Exposed a Spy Camera [video]](https://www.youtube.com/watch?v=1reman2waLs)
 * [2026-01-11, 22:14:35](https://news.ycombinator.com/item?id=46580864) - [This game is a single 13 KiB file that runs on Windows, Linux and in the Browser](https://iczelia.net/posts/snake-polyglot/)
 * [2026-01-11, 22:00:24](https://news.ycombinator.com/item?id=46580703) - [The next two years of software engineering](https://addyosmani.com/blog/next-two-years/)
-* [2026-01-11, 21:55:34](https://news.ycombinator.com/item?id=46580652) - [Show HN: Engineering Schizophrenia: Trusting yourself through Byzantine faults](https://news.ycombinator.com/item?id=46580652)
 * [2026-01-11, 21:29:57](https://news.ycombinator.com/item?id=46580326) - [CLI agents make self-hosting on a home server easier and fun](https://fulghum.io/self-hosting)
 * [2026-01-11, 21:12:45](https://news.ycombinator.com/item?id=46580136) - [FUSE is All You Need – Giving agents access to anything via filesystems](https://jakobemmerling.de/posts/fuse-is-all-you-need/)
 * [2026-01-11, 20:47:55](https://news.ycombinator.com/item?id=46579864) - [The struggle of resizing windows on macOS Tahoe](https://noheger.at/blog/2026/01/11/the-struggle-of-resizing-windows-on-macos-tahoe/)
@@ -28,7 +28,7 @@
 * [2026-01-07, 11:59:24](https://news.ycombinator.com/item?id=46525389) - [Elo – A data expression language which compiles to JavaScript, Ruby, and SQL](https://elo-lang.org/)
 * [2026-01-07, 07:39:12](https://news.ycombinator.com/item?id=46523642) - [Show HN: Shellock, a real-time CLI flag explainer for fish shell](https://github.com/ibehnam/shellock)
 * [2026-01-07, 06:25:59](https://news.ycombinator.com/item?id=46523226) - [XMPP and Metadata](https://blog.mathieui.net/xmpp-and-metadata.html)
-* [2026-01-06, 22:31:37](https://news.ycombinator.com/item?id=46519756) - [Conbini Wars – map of Japanese convenience store ratios](https://conbini.kikkia.dev/)
+* [2026-01-06, 22:31:37](https://news.ycombinator.com/item?id=46519756) - [Conbini Wars – Map of Japanese convenience store ratios](https://conbini.kikkia.dev/)
 * [2026-01-06, 17:41:42](https://news.ycombinator.com/item?id=46515625) - [Insights into Claude Opus 4.5 from Pokémon](https://www.lesswrong.com/posts/u6Lacc7wx4yYkBQ3r/insights-into-claude-opus-4-5-from-pokemon)
 
 ## [Archives](archives/index.md)
