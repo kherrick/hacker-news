@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-01-12, 23:02:30](https://news.ycombinator.com/item?id=46595394) - [Non-Essential French Embassy Staff Have Left Iran](https://www.barrons.com/news/non-essential-french-embassy-staff-have-left-iran-sources-d84d1f51)
 * [2026-01-12, 22:30:33](https://news.ycombinator.com/item?id=46595130) - [F2 (YC S25) Is Hiring](https://www.ycombinator.com/companies/f2/jobs/cJsc7Fe-product-designer)
 * [2026-01-12, 20:27:34](https://news.ycombinator.com/item?id=46593819) - [Update on age requirements for apps distributed in Texas](https://developer.apple.com/news/?id=8jzbigf4)
 * [2026-01-12, 20:26:47](https://news.ycombinator.com/item?id=46593802) - [Fabrice Bellard's TS Zip (2024)](https://www.bellard.org/ts_zip/)
@@ -27,7 +28,6 @@
 * [2026-01-08, 16:50:58](https://news.ycombinator.com/item?id=46543257) - [What old tennis players teach us (2017)](https://www.raphkoster.com/2017/09/22/31098/)
 * [2026-01-07, 17:38:53](https://news.ycombinator.com/item?id=46529507) - [Ansible battle tested hardening for Linux, SSH, Nginx, MySQL](https://github.com/dev-sec/ansible-collection-hardening)
 * [2026-01-07, 16:36:22](https://news.ycombinator.com/item?id=46528502) - [GitHub: A case study in link maintenance and 404 pages (2013)](https://chrismorgan.info/blog/github-links-case-study/)
-* [2026-01-07, 14:43:16](https://news.ycombinator.com/item?id=46526896) - [JRR Tolkien reads from The Hobbit for 30 Minutes (1952)](https://www.openculture.com/2026/01/j-r-r-tolkien-reads-from-the-hobbit-for-30-minutes-1952.html)
 * [2026-01-07, 12:29:01](https://news.ycombinator.com/item?id=46525639) - [Personal thoughts/notes from working on Zootopia 2](https://blog.yiningkarlli.com/2025/12/zootopia-2.html)
 * [2026-01-06, 22:39:08](https://news.ycombinator.com/item?id=46519839) - [Perlsecret – Perl secret operators and constants](https://metacpan.org/dist/perlsecret/view/lib/perlsecret.pod)
 

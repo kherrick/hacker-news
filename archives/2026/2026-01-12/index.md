@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-01-12](index.md)
 
+* [2026-01-12, 23:02:30](https://news.ycombinator.com/item?id=46595394) - [Non-Essential French Embassy Staff Have Left Iran](https://www.barrons.com/news/non-essential-french-embassy-staff-have-left-iran-sources-d84d1f51)
 * [2026-01-12, 22:30:33](https://news.ycombinator.com/item?id=46595130) - [F2 (YC S25) Is Hiring](https://www.ycombinator.com/companies/f2/jobs/cJsc7Fe-product-designer)
 * [2026-01-12, 20:27:34](https://news.ycombinator.com/item?id=46593819) - [Update on age requirements for apps distributed in Texas](https://developer.apple.com/news/?id=8jzbigf4)
 * [2026-01-12, 20:26:47](https://news.ycombinator.com/item?id=46593802) - [Fabrice Bellard's TS Zip](https://www.bellard.org/ts_zip/)
