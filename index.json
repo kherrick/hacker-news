@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-01-12, 03:11:49",
+      "https://news.ycombinator.com/item?id=46583581"
+    ],
+    [
+      "Show HN: An LLM-optimized programming language",
+      "https://github.com/ImJasonH/ImJasonH/blob/main/articles/llm-programming-language.md"
+    ]
+  ],
+  [
+    [
+      "2026-01-12, 02:58:01",
+      "https://news.ycombinator.com/item?id=46583464"
+    ],
+    [
+      "Himalayas bare and rocky after reduced winter snowfall, scientists warn",
+      "https://www.bbc.com/news/articles/clyndv7zd20o"
+    ]
+  ],
+  [
+    [
       "2026-01-12, 02:51:04",
       "https://news.ycombinator.com/item?id=46583410"
     ],
@@ -17,16 +37,6 @@
     [
       "Which programming languages are most token-efficient?",
       "https://martinalderson.com/posts/which-programming-languages-are-most-token-efficient/"
-    ]
-  ],
-  [
-    [
-      "2026-01-12, 01:02:48",
-      "https://news.ycombinator.com/item?id=46582420"
-    ],
-    [
-      "Statement from Jerome Powell",
-      "https://www.federalreserve.gov/newsevents/speech/powell20260111a.htm"
     ]
   ],
   [
@@ -77,6 +87,16 @@
     [
       "This game is a single 13 KiB file that runs on Windows, Linux and in the Browser",
       "https://iczelia.net/posts/snake-polyglot/"
+    ]
+  ],
+  [
+    [
+      "2026-01-11, 22:00:24",
+      "https://news.ycombinator.com/item?id=46580703"
+    ],
+    [
+      "The next two years of software engineering",
+      "https://addyosmani.com/blog/next-two-years/"
     ]
   ],
   [
@@ -161,16 +181,6 @@
   ],
   [
     [
-      "2026-01-11, 11:38:52",
-      "https://news.ycombinator.com/item?id=46574769"
-    ],
-    [
-      "Gentoo Linux 2025 Review",
-      "https://www.gentoo.org/news/2026/01/05/new-year.html"
-    ]
-  ],
-  [
-    [
       "2026-01-11, 10:26:18",
       "https://news.ycombinator.com/item?id=46574276"
     ],
@@ -197,16 +207,6 @@
     [
       "Moving Scratch generation to Python on browser",
       "https://kushaldas.in/posts/introducing-ektupy.html"
-    ]
-  ],
-  [
-    [
-      "2026-01-09, 06:15:34",
-      "https://news.ycombinator.com/item?id=46550634"
-    ],
-    [
-      "Elephants Don't Play Chess (1990) [pdf]",
-      "https://people.csail.mit.edu/brooks/papers/elephants.pdf"
     ]
   ],
   [
@@ -251,6 +251,16 @@
   ],
   [
     [
+      "2026-01-07, 16:46:44",
+      "https://news.ycombinator.com/item?id=46528683"
+    ],
+    [
+      "The Taming of Collection Scans",
+      "https://www.scylladb.com/2026/01/06/the-taming-of-collection-scans/"
+    ]
+  ],
+  [
+    [
       "2026-01-07, 12:33:09",
       "https://news.ycombinator.com/item?id=46525677"
     ],
@@ -277,16 +287,6 @@
     [
       "I Cannot SSH into My Server Anymore (and That's Fine)",
       "https://soap.coffee/~lthms/posts/i-cannot-ssh-into-my-server-anymore.html"
-    ]
-  ],
-  [
-    [
-      "2026-01-07, 08:08:37",
-      "https://news.ycombinator.com/item?id=46523826"
-    ],
-    [
-      "A Glimpse into DexProtector",
-      "https://www.romainthomas.fr/post/26-01-dexprotector/"
     ]
   ],
   [
