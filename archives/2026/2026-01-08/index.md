@@ -64,6 +64,7 @@
 * [2026-01-08, 13:21:59](https://news.ycombinator.com/item?id=46540660) - [Show HN: DeepDream for Video with Temporal Consistency](https://github.com/jeremicna/deepdream-video-pytorch)
 * [2026-01-08, 13:11:18](https://news.ycombinator.com/item?id=46540559) - [How Did TVs Get So Cheap?](https://www.construction-physics.com/p/how-did-tvs-get-so-cheap)
 * [2026-01-08, 13:02:05](https://news.ycombinator.com/item?id=46540498) - [The Jeff Dean Facts](https://github.com/LRitzdorf/TheJeffDeanFacts)
+* [2026-01-08, 12:07:31](https://news.ycombinator.com/item?id=46540126) - ['I rarely get outside': scientists ditch fieldwork in the age of AI](https://www.nature.com/articles/d41586-025-04150-w)
 * [2026-01-08, 12:00:35](https://news.ycombinator.com/item?id=46540078) - [Mothers (YC X26) Is Hiring](https://jobs.ashbyhq.com/9-mothers)
 * [2026-01-08, 10:34:05](https://news.ycombinator.com/item?id=46539478) - [I'm making a game engine based on dynamic signed distance fields (SDFs) [video]](https://www.youtube.com/watch?v=il-TXbn5iMA)
 * [2026-01-08, 08:18:17](https://news.ycombinator.com/item?id=46538628) - [ASCII-Driven Development](https://medium.com/@calufa/ascii-driven-development-850f66661351)
