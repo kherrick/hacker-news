@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-01-12](index.md)
 
+* [2026-01-12, 18:41:47](https://news.ycombinator.com/item?id=46592461) - [Clearspace (YC W23) Is Hiring an Applied Researcher (ML)](https://www.ycombinator.com/companies/clearspace/jobs/GOWiDwp-research-engineer-at-clearspace)
+* [2026-01-12, 18:03:12](https://news.ycombinator.com/item?id=46591974) - [Iran has now been offline for 96 hours](https://twitter.com/netblocks/status/2010750871274160361)
 * [2026-01-12, 17:41:50](https://news.ycombinator.com/item?id=46591708) - [Postal Arbitrage](https://walzr.com/postal-arbitrage)
 * [2026-01-12, 17:17:09](https://news.ycombinator.com/item?id=46591402) - [Message Queues: A Simple Guide with Analogies](https://www.cloudamqp.com/blog/message-queues-exaplined-with-analogies.html)
 * [2026-01-12, 17:00:48](https://news.ycombinator.com/item?id=46591170) - [Carma (YC W24 clients, A in 6mo) Eng hiring: Replace $500B human fleet ops with AI](https://news.ycombinator.com/item?id=46591170)

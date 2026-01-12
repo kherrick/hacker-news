@@ -79,6 +79,7 @@
 * [2026-01-07, 09:53:03](https://news.ycombinator.com/item?id=46524483) - [An Experimental Approach to Printf in HLSL](https://www.abolishcrlf.org//2025/12/31/Printf.html)
 * [2026-01-07, 09:37:12](https://news.ycombinator.com/item?id=46524390) - [I Cannot SSH into My Server Anymore (and That's Fine)](https://soap.coffee/~lthms/posts/i-cannot-ssh-into-my-server-anymore.html)
 * [2026-01-07, 09:35:46](https://news.ycombinator.com/item?id=46524379) - [Changes to Android Open Source Project](https://source.android.com/)
+* [2026-01-07, 08:45:43](https://news.ycombinator.com/item?id=46524058) - [A Couple 3D AABB Tricks](https://gpfault.net/posts/aabb-tricks.html)
 * [2026-01-07, 08:44:36](https://news.ycombinator.com/item?id=46524051) - [Bindless Oriented Graphics Programming](https://alextardif.com/BindlessProgramming.html)
 * [2026-01-07, 08:42:57](https://news.ycombinator.com/item?id=46524036) - [Show HN: Free and local browser tool for designing gear models for 3D printing](https://gears.dmtrkovalenko.dev)
 * [2026-01-07, 08:28:00](https://news.ycombinator.com/item?id=46523937) - [Climbing the mountain: or, venturing into PL theory](https://techne98.com/blog/climbing-the-mountain/)
