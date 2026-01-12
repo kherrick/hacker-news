@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-01-12](index.md)
 
+* [2026-01-12, 14:58:15](https://news.ycombinator.com/item?id=46589386) - [Why Ontario Digital Service couldn't procure '98% safe' LLMs (15M Canadians)](https://rosetta-labs-erb.github.io/authority-boundary-ledger/)
+* [2026-01-12, 14:50:24](https://news.ycombinator.com/item?id=46589279) - [Keychron's Nape Pro turns your keyboard into a laptop‑style trackball rig](https://www.yankodesign.com/2026/01/08/keychrons-nape-pro-turns-your-mechanical-keyboard-into-a-laptop-style-trackball-rig-hands-on-at-ces-2026/)
+* [2026-01-12, 14:30:51](https://news.ycombinator.com/item?id=46589009) - [2025 marked a record-breaking year for Apple services](https://www.apple.com/newsroom/2026/01/2025-marked-a-record-breaking-year-for-apple-services/)
+* [2026-01-12, 14:18:13](https://news.ycombinator.com/item?id=46588837) - [LLVM: The Bad Parts](https://www.npopov.com/2026/01/11/LLVM-The-bad-parts.html)
 * [2026-01-12, 13:57:32](https://news.ycombinator.com/item?id=46588572) - [Reproducing DeepSeek's MHC: When Residual Connections Explode](https://taylorkolasinski.com/notes/mhc-reproduction/)
 * [2026-01-12, 13:38:36](https://news.ycombinator.com/item?id=46588319) - [Ireland fast tracks Bill to criminalise harmful voice or image misuse](https://www.irishtimes.com/ireland/2026/01/07/call-to-fast-track-bill-targeting-ai-deepfakes-and-identity-hijacking/)
 * [2026-01-12, 13:22:44](https://news.ycombinator.com/item?id=46588132) - [Windows 8 Desktop Environment for Linux](https://github.com/er-bharat/Win8DE)

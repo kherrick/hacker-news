@@ -30,6 +30,7 @@
 * [2026-01-07, 17:58:01](https://news.ycombinator.com/item?id=46529856) - [Show HN: Seapie – a Python debugger where breakpoints drop into a REPL](https://github.com/hirsimaki-markus/seapie)
 * [2026-01-07, 17:54:25](https://news.ycombinator.com/item?id=46529797) - [A tab hoarder's journey to sanity](https://twitter.com/borisandcrispin/status/2008709479068794989)
 * [2026-01-07, 17:23:23](https://news.ycombinator.com/item?id=46529257) - [Texas A&M bans part of Plato's Symposium](https://dailynous.com/2026/01/06/texas-am-bans-plato/)
+* [2026-01-07, 17:22:18](https://news.ycombinator.com/item?id=46529240) - [The Manchester Garbage Collector and purple-garden's runtime](https://xnacly.me/posts/2026/manchester-garbage-collector/)
 * [2026-01-07, 17:22:09](https://news.ycombinator.com/item?id=46529237) - [Eat Real Food – Introducing the New Pyramid](https://realfood.gov)
 * [2026-01-07, 17:12:04](https://news.ycombinator.com/item?id=46529097) - [The $14 Burrito: Why San Francisco Inflation Feels Higher Than 2.5%](https://www.foglinesf.com/p/the-14-burrito-why-san-francisco-inflation-feels-higher-than-2-5)
 * [2026-01-07, 16:46:44](https://news.ycombinator.com/item?id=46528683) - [The Taming of Collection Scans](https://www.scylladb.com/2026/01/06/the-taming-of-collection-scans/)
