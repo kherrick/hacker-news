@@ -51,6 +51,7 @@
 * [2026-01-07, 15:03:41](https://news.ycombinator.com/item?id=46527161) - [Shipmap.org](https://www.shipmap.org/)
 * [2026-01-07, 15:03:34](https://news.ycombinator.com/item?id=46527157) - [Meditation as Wakeful Relaxation: Unclenching Smooth Muscle](https://psychotechnology.substack.com/p/meditation-as-wakeful-relaxation)
 * [2026-01-07, 14:46:31](https://news.ycombinator.com/item?id=46526933) - [LaTeX Coffee Stains [pdf]](https://ctan.math.illinois.edu/graphics/pgf/contrib/coffeestains/coffeestains-en.pdf)
+* [2026-01-07, 14:43:16](https://news.ycombinator.com/item?id=46526896) - [JRR Tolkien reads from The Hobbit for 30 Minutes (1952)](https://www.openculture.com/2026/01/j-r-r-tolkien-reads-from-the-hobbit-for-30-minutes-1952.html)
 * [2026-01-07, 14:29:25](https://news.ycombinator.com/item?id=46526740) - [Sugar industry influenced researchers and blamed fat for CVD](https://www.ucsf.edu/news/2016/09/404081/sugar-papers-reveal-industry-role-shifting-national-heart-disease-focus)
 * [2026-01-07, 14:15:32](https://news.ycombinator.com/item?id=46526584) - [Show HN: RepoReaper – AST-aware, JIT-loading code audit agent (Python/AsyncIO)](https://github.com/tzzp1224/RepoReaper)
 * [2026-01-07, 13:54:31](https://news.ycombinator.com/item?id=46526376) - [Everyone hates OneDrive, Microsofts cloud app that steals and deletes files](https://boingboing.net/2026/01/05/everyone-hates-onedrive-microsofts-cloud-app-that-steals-then-deletes-all-your-files.html)
