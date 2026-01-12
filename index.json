@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-01-12, 04:39:26",
+      "https://news.ycombinator.com/item?id=46584173"
+    ],
+    [
+      "XFCE Is Great",
+      "https://rubenerd.com/xfce-is-great/"
+    ]
+  ],
+  [
+    [
       "2026-01-12, 03:11:49",
       "https://news.ycombinator.com/item?id=46583581"
     ],
@@ -17,16 +27,6 @@
     [
       "Himalayas bare and rocky after reduced winter snowfall, scientists warn",
       "https://www.bbc.com/news/articles/clyndv7zd20o"
-    ]
-  ],
-  [
-    [
-      "2026-01-12, 02:51:04",
-      "https://news.ycombinator.com/item?id=46583410"
-    ],
-    [
-      "Code is cheap now, but software isn't",
-      "https://www.chrisgregori.dev/opinion/code-is-cheap-now-software-isnt"
     ]
   ],
   [
@@ -181,6 +181,16 @@
   ],
   [
     [
+      "2026-01-11, 11:31:22",
+      "https://news.ycombinator.com/item?id=46574707"
+    ],
+    [
+      "I dumped Windows 11 for Linux, and you should too",
+      "https://www.notebookcheck.net/I-dumped-Windows-11-for-Linux-and-you-should-too.1190961.0.html"
+    ]
+  ],
+  [
+    [
       "2026-01-11, 10:26:18",
       "https://news.ycombinator.com/item?id=46574276"
     ],
@@ -197,6 +207,16 @@
     [
       "Garbage collection is contrarian",
       "https://trynova.dev/blog/garbage-collection-is-contrarian"
+    ]
+  ],
+  [
+    [
+      "2026-01-09, 12:23:52",
+      "https://news.ycombinator.com/item?id=46553137"
+    ],
+    [
+      "39c3: In-house electronics manufacturing from scratch: How hard can it be? [video]",
+      "https://media.ccc.de/v/39c3-in-house-electronics-manufacturing-from-scratch-how-hard-can-it-be"
     ]
   ],
   [
@@ -227,16 +247,6 @@
     [
       "I'm making a game engine based on dynamic signed distance fields (SDFs) [video]",
       "https://www.youtube.com/watch?v=il-TXbn5iMA"
-    ]
-  ],
-  [
-    [
-      "2026-01-07, 20:47:26",
-      "https://news.ycombinator.com/item?id=46532438"
-    ],
-    [
-      "Rare Iron Age war trumpet and boar standard found",
-      "https://www.bbc.com/news/articles/cr7jvj8d39eo"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Insights into Claude Opus 4.5 from Pokémon",
       "https://www.lesswrong.com/posts/u6Lacc7wx4yYkBQ3r/insights-into-claude-opus-4-5-from-pokemon"
-    ]
-  ],
-  [
-    [
-      "2026-01-06, 16:27:30",
-      "https://news.ycombinator.com/item?id=46514434"
-    ],
-    [
-      "Pyinfra: Turns Python code into shell commands and runs them on your servers",
-      "https://github.com/pyinfra-dev/pyinfra"
     ]
   ]
 ]
