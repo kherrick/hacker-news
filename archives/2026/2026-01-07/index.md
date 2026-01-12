@@ -61,6 +61,7 @@
 * [2026-01-07, 12:54:43](https://news.ycombinator.com/item?id=46525888) - [A4 Paper Stories](https://susam.net/a4-paper-stories.html)
 * [2026-01-07, 12:33:09](https://news.ycombinator.com/item?id=46525677) - [Ping: The Secrets of Successful Virtual Communication](https://www.penguin.co.uk/books/468218/ping-by-brodsky-andrew/9780241746363)
 * [2026-01-07, 12:29:11](https://news.ycombinator.com/item?id=46525640) - [Stop Designing Languages. Write Libraries Instead](https://lbstanza.org/purpose_of_programming_languages.html)
+* [2026-01-07, 12:29:01](https://news.ycombinator.com/item?id=46525639) - [Personal thoughts/notes from working on Zootopia 2](https://blog.yiningkarlli.com/2025/12/zootopia-2.html)
 * [2026-01-07, 12:26:35](https://news.ycombinator.com/item?id=46525613) - [Large Feeds and RFC 5005](https://alexschroeder.ch/view/2025-09-10-large-feeds)
 * [2026-01-07, 12:19:01](https://news.ycombinator.com/item?id=46525542) - [The Eric and Wendy Schmidt Observatory System](https://www.schmidtsciences.org/schmidt-observatory-system/)
 * [2026-01-07, 12:01:30](https://news.ycombinator.com/item?id=46525410) - [Ragdoll Mayhem Maker – a physics-based level editor for my indie game](https://ragdollmayhemmaker.com/)

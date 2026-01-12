@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-01-12](index.md)
 
+* [2026-01-12, 13:57:32](https://news.ycombinator.com/item?id=46588572) - [Reproducing DeepSeek's MHC: When Residual Connections Explode](https://taylorkolasinski.com/notes/mhc-reproduction/)
+* [2026-01-12, 13:38:36](https://news.ycombinator.com/item?id=46588319) - [Ireland fast tracks Bill to criminalise harmful voice or image misuse](https://www.irishtimes.com/ireland/2026/01/07/call-to-fast-track-bill-targeting-ai-deepfakes-and-identity-hijacking/)
 * [2026-01-12, 13:22:44](https://news.ycombinator.com/item?id=46588132) - [Windows 8 Desktop Environment for Linux](https://github.com/er-bharat/Win8DE)
+* [2026-01-12, 13:07:49](https://news.ycombinator.com/item?id=46587934) - [Floppy disks turn out to be the greatest TV remote for kids](https://blog.smartere.dk/2026/01/floppy-disks-the-best-tv-remote-for-kids/)
 * [2026-01-12, 12:57:44](https://news.ycombinator.com/item?id=46587804) - [Zen-C: Write like a high-level language, run like C](https://github.com/z-libs/Zen-C)
 * [2026-01-12, 12:29:00](https://news.ycombinator.com/item?id=46587536) - [Ozempic reduced grocery spending by an average of 5.3% in the US](https://news.cornell.edu/stories/2025/12/ozempic-changing-foods-americans-buy)
 * [2026-01-12, 12:25:27](https://news.ycombinator.com/item?id=46587498) - [Launch a Debugging Terminal into GitHub Actions](https://blog.gripdev.xyz/2026/01/10/actions-terminal-on-failure-for-debugging/)
