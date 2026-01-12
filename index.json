@@ -1,6 +1,46 @@
 [
   [
     [
+      "2026-01-12, 14:58:15",
+      "https://news.ycombinator.com/item?id=46589386"
+    ],
+    [
+      "Why Ontario Digital Service couldn't procure '98% safe' LLMs (15M Canadians)",
+      "https://rosetta-labs-erb.github.io/authority-boundary-ledger/"
+    ]
+  ],
+  [
+    [
+      "2026-01-12, 14:50:24",
+      "https://news.ycombinator.com/item?id=46589279"
+    ],
+    [
+      "Keychron's Nape Pro turns your keyboard into a laptop‑style trackball rig",
+      "https://www.yankodesign.com/2026/01/08/keychrons-nape-pro-turns-your-mechanical-keyboard-into-a-laptop-style-trackball-rig-hands-on-at-ces-2026/"
+    ]
+  ],
+  [
+    [
+      "2026-01-12, 14:30:51",
+      "https://news.ycombinator.com/item?id=46589009"
+    ],
+    [
+      "2025 marked a record-breaking year for Apple services",
+      "https://www.apple.com/newsroom/2026/01/2025-marked-a-record-breaking-year-for-apple-services/"
+    ]
+  ],
+  [
+    [
+      "2026-01-12, 14:18:13",
+      "https://news.ycombinator.com/item?id=46588837"
+    ],
+    [
+      "LLVM: The Bad Parts",
+      "https://www.npopov.com/2026/01/11/LLVM-The-bad-parts.html"
+    ]
+  ],
+  [
+    [
       "2026-01-12, 13:57:32",
       "https://news.ycombinator.com/item?id=46588572"
     ],
@@ -67,16 +107,6 @@
     [
       "Launch a Debugging Terminal into GitHub Actions",
       "https://blog.gripdev.xyz/2026/01/10/actions-terminal-on-failure-for-debugging/"
-    ]
-  ],
-  [
-    [
-      "2026-01-12, 10:57:29",
-      "https://news.ycombinator.com/item?id=46586766"
-    ],
-    [
-      "Anthropic made a big mistake",
-      "https://archaeologist.dev/artifacts/anthropic"
     ]
   ],
   [
@@ -161,16 +191,6 @@
   ],
   [
     [
-      "2026-01-11, 20:01:14",
-      "https://news.ycombinator.com/item?id=46579374"
-    ],
-    [
-      "Sampling at negative temperature",
-      "https://cavendishlabs.org/blog/negative-temperature/"
-    ]
-  ],
-  [
-    [
       "2026-01-11, 19:23:58",
       "https://news.ycombinator.com/item?id=46578921"
     ],
@@ -207,6 +227,16 @@
     [
       "I'm making a game engine based on dynamic signed distance fields (SDFs) [video]",
       "https://www.youtube.com/watch?v=il-TXbn5iMA"
+    ]
+  ],
+  [
+    [
+      "2026-01-07, 17:22:18",
+      "https://news.ycombinator.com/item?id=46529240"
+    ],
+    [
+      "The Manchester Garbage Collector and purple-garden's runtime",
+      "https://xnacly.me/posts/2026/manchester-garbage-collector/"
     ]
   ],
   [
@@ -251,16 +281,6 @@
   ],
   [
     [
-      "2026-01-07, 07:39:12",
-      "https://news.ycombinator.com/item?id=46523642"
-    ],
-    [
-      "Show HN: Shellock, a real-time CLI flag explainer for fish shell",
-      "https://github.com/ibehnam/shellock"
-    ]
-  ],
-  [
-    [
       "2026-01-07, 06:25:59",
       "https://news.ycombinator.com/item?id=46523226"
     ],
@@ -277,26 +297,6 @@
     [
       "Conbini Wars – Map of Japanese convenience store ratios",
       "https://conbini.kikkia.dev/"
-    ]
-  ],
-  [
-    [
-      "2026-01-06, 19:51:29",
-      "https://news.ycombinator.com/item?id=46517654"
-    ],
-    [
-      "Show HN: DevicePrint – device fingerprinting without cookies",
-      "https://news.ycombinator.com/item?id=46517654"
-    ]
-  ],
-  [
-    [
-      "2026-01-06, 17:41:42",
-      "https://news.ycombinator.com/item?id=46515625"
-    ],
-    [
-      "Insights into Claude Opus 4.5 from Pokémon",
-      "https://www.lesswrong.com/posts/u6Lacc7wx4yYkBQ3r/insights-into-claude-opus-4-5-from-pokemon"
     ]
   ]
 ]
