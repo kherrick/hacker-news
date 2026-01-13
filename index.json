@@ -21,6 +21,16 @@
   ],
   [
     [
+      "2026-01-12, 23:02:27",
+      "https://news.ycombinator.com/item?id=46595393"
+    ],
+    [
+      "A deep dive on agent sandboxes",
+      "https://pierce.dev/notes/a-deep-dive-on-agent-sandboxes"
+    ]
+  ],
+  [
+    [
       "2026-01-12, 22:30:33",
       "https://news.ycombinator.com/item?id=46595130"
     ],
@@ -221,16 +231,6 @@
   ],
   [
     [
-      "2026-01-12, 09:10:45",
-      "https://news.ycombinator.com/item?id=46585947"
-    ],
-    [
-      "Ai, Japanese chimpanzee who counted and painted dies at 49",
-      "https://www.bbc.com/news/articles/cj9r3zl2ywyo"
-    ]
-  ],
-  [
-    [
       "2026-01-11, 22:33:32",
       "https://news.ycombinator.com/item?id=46581095"
     ],
@@ -261,22 +261,22 @@
   ],
   [
     [
+      "2026-01-08, 15:03:35",
+      "https://news.ycombinator.com/item?id=46541848"
+    ],
+    [
+      "Why BM25 queries with more terms can be faster (and other scaling surprises)",
+      "https://turbopuffer.com/blog/bm25-latency-musings"
+    ]
+  ],
+  [
+    [
       "2026-01-08, 12:07:31",
       "https://news.ycombinator.com/item?id=46540126"
     ],
     [
       "Some ecologists fear their field is losing touch with nature",
       "https://www.nature.com/articles/d41586-025-04150-w"
-    ]
-  ],
-  [
-    [
-      "2026-01-07, 17:38:53",
-      "https://news.ycombinator.com/item?id=46529507"
-    ],
-    [
-      "Ansible battle tested hardening for Linux, SSH, Nginx, MySQL",
-      "https://github.com/dev-sec/ansible-collection-hardening"
     ]
   ],
   [
