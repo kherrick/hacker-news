@@ -4,12 +4,14 @@
 
 ### [Archives](../../index.md) for [2026-01-13](index.md)
 
+* [2026-01-13, 19:03:37](https://news.ycombinator.com/item?id=46606038) - [The Housing Market Isn't for Single People](https://thewalrus.ca/the-housing-market-isnt-for-single-people/)
 * [2026-01-13, 18:35:52](https://news.ycombinator.com/item?id=46605553) - [Signal leaders warn agentic AI is an insecure, unreliable surveillance risk](https://coywolf.com/news/productivity/signal-president-and-vp-warn-agentic-ai-is-insecure-unreliable-and-a-surveillance-nightmare/)
 * [2026-01-13, 18:31:50](https://news.ycombinator.com/item?id=46605490) - [AI Generated Music Barred from Bandcamp](https://old.reddit.com/r/BandCamp/comments/1qbw8ba/ai_generated_music_on_bandcamp/)
 * [2026-01-13, 18:29:02](https://news.ycombinator.com/item?id=46605452) - [The rapid rise and slow decline of Sam Altman](https://garymarcus.substack.com/p/the-rapid-rise-and-slow-decline-of)
 * [2026-01-13, 18:00:20](https://news.ycombinator.com/item?id=46604959) - [The Case for Blogging in the Ruins](https://www.joanwestenberg.com/the-case-for-blogging-in-the-ruins/)
 * [2026-01-13, 17:55:37](https://news.ycombinator.com/item?id=46604862) - [Show HN: Ayder – HTTP-native durable event log written in C (curl as client)](https://github.com/A1darbek/ayder)
 * [2026-01-13, 17:32:39](https://news.ycombinator.com/item?id=46604443) - [Dilbert's Scott Adams Dies](https://www.inc.com/jennifer-conrad/scott-adams-dilbert-dies-at-68/91286247)
+* [2026-01-13, 17:23:46](https://news.ycombinator.com/item?id=46604250) - [How to make a damn website (2024)](https://lmnt.me/blog/how-to-make-a-damn-website.html)
 * [2026-01-13, 17:10:42](https://news.ycombinator.com/item?id=46603995) - [The Tulip Creative Computer](https://github.com/shorepine/tulipcc)
 * [2026-01-13, 17:05:43](https://news.ycombinator.com/item?id=46603910) - [90M people. 118 hours of silence. One nation erased from the internet](https://state-of-iranblackout.whisper.security/)
 * [2026-01-13, 17:01:55](https://news.ycombinator.com/item?id=46603829) - [Legion Health (YC S21) Hiring Cracked Founding Eng for AI-Native Ops](https://jobs.ashbyhq.com/legionhealth/ffdd2b52-eb21-489e-b124-3c0804231424)
@@ -26,6 +28,7 @@
 * [2026-01-13, 14:14:18](https://news.ycombinator.com/item?id=46601157) - [Apple Creator Studio](https://www.apple.com/newsroom/2026/01/introducing-apple-creator-studio-an-inspiring-collection-of-creative-apps/)
 * [2026-01-13, 14:11:24](https://news.ycombinator.com/item?id=46601121) - [Why Stoicism is one of the best mind hacks ever devised](https://aeon.co/essays/why-stoicism-is-one-of-the-best-mind-hacks-ever-devised)
 * [2026-01-13, 13:46:34](https://news.ycombinator.com/item?id=46600850) - [Local Journalism Is How Democracy Shows Up Close to Home](https://buckscountybeacon.com/2026/01/opinion-local-journalism-is-how-democracy-shows-up-close-to-home/)
+* [2026-01-13, 13:45:45](https://news.ycombinator.com/item?id=46600839) - [Confer – End to end encrypted AI chat](https://confer.to/)
 * [2026-01-13, 13:32:44](https://news.ycombinator.com/item?id=46600729) - [Why have death rates from accidental falls tripled?](https://usafacts.org/articles/why-have-death-rates-from-accidental-falls-tripled/)
 * [2026-01-13, 13:09:41](https://news.ycombinator.com/item?id=46600484) - [NASA topples towers used to test Saturn rockets, space shuttle](https://arstechnica.com/space/2026/01/nasa-topples-towers-used-to-test-saturn-rockets-space-shuttle/)
 * [2026-01-13, 12:39:03](https://news.ycombinator.com/item?id=46600194) - [The UK is shaping a future of Precrime and dissent management](https://freedomnews.org.uk/2025/04/11/how-the-uk-is-shaping-a-future-of-precrime-and-dissent-management/)
@@ -46,4 +49,5 @@
 * [2026-01-13, 04:34:38](https://news.ycombinator.com/item?id=46597357) - [Powell vows to stand firm against 'unprecedented' administration threats](https://www.pbs.org/newshour/politics/watch-powell-vows-to-stand-firm-against-unprecedented-trump-administration-indictment-threats)
 * [2026-01-13, 03:27:05](https://news.ycombinator.com/item?id=46597030) - [PawSense: Catproof Your Computer](http://bitboost.com/pawsense/)
 * [2026-01-13, 03:26:23](https://news.ycombinator.com/item?id=46597023) - [Provenance Is the New Version Control](https://aicoding.leaflet.pub/3mcbiyal7jc2y)
+* [2026-01-13, 02:49:59](https://news.ycombinator.com/item?id=46596823) - [We rolled our own documentation site](https://blog.tangled.org/docs)
 * [2026-01-13, 00:48:11](https://news.ycombinator.com/item?id=46596075) - [Tell HN: DigitalOcean's managed services broke each other after update](https://news.ycombinator.com/item?id=46596075)
