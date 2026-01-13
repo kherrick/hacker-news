@@ -58,6 +58,7 @@
 * [2026-01-08, 15:07:57](https://news.ycombinator.com/item?id=46541892) - [Bose is open-sourcing its old smart speakers instead of bricking them](https://www.theverge.com/news/858501/bose-soundtouch-smart-speakers-open-source)
 * [2026-01-08, 15:07:57](https://news.ycombinator.com/item?id=46541892) - [Bose has released API docs and opened the API for its EoL SoundTouch speakers](https://arstechnica.com/gadgets/2026/01/bose-open-sources-its-soundtouch-home-theater-smart-speakers-ahead-of-eol/)
 * [2026-01-08, 15:07:37](https://news.ycombinator.com/item?id=46541885) - [Show HN: A Daily Bible Game](https://bibdle.com)
+* [2026-01-08, 15:03:35](https://news.ycombinator.com/item?id=46541848) - [Why BM25 queries with more terms can be faster (and other scaling surprises)](https://turbopuffer.com/blog/bm25-latency-musings)
 * [2026-01-08, 14:44:24](https://news.ycombinator.com/item?id=46541586) - [Maine company in the spotlight after Maduro apparently wore one of their hoodies](https://www.boston.com/news/business/2026/01/06/maine-company-maduro-venezuela-hoodie/)
 * [2026-01-08, 14:40:20](https://news.ycombinator.com/item?id=46541533) - [ChatGPT Health is a marketplace, guess who is the product?](https://consciousdigital.org/chatgpt-health-is-a-marketplace-guess-who-is-the-product/)
 * [2026-01-08, 13:26:07](https://news.ycombinator.com/item?id=46540698) - [Gmail is entering the Gemini Era](https://blog.google/products-and-platforms/products/gmail/gmail-is-entering-the-gemini-era/)

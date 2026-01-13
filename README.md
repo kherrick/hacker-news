@@ -2,6 +2,7 @@
 
 * [2026-01-13, 00:48:11](https://news.ycombinator.com/item?id=46596075) - [Tell HN: DigitalOcean's managed services broke each other after update](https://news.ycombinator.com/item?id=46596075)
 * [2026-01-12, 23:05:04](https://news.ycombinator.com/item?id=46595419) - [Google removes AI health summaries after investigation finds dangerous flaws](https://arstechnica.com/ai/2026/01/google-removes-some-ai-health-summaries-after-investigation-finds-dangerous-flaws/)
+* [2026-01-12, 23:02:27](https://news.ycombinator.com/item?id=46595393) - [A deep dive on agent sandboxes](https://pierce.dev/notes/a-deep-dive-on-agent-sandboxes)
 * [2026-01-12, 22:30:33](https://news.ycombinator.com/item?id=46595130) - [F2 (YC S25) Is Hiring](https://www.ycombinator.com/companies/f2/jobs/cJsc7Fe-product-designer)
 * [2026-01-12, 20:26:47](https://news.ycombinator.com/item?id=46593802) - [Fabrice Bellard's TS Zip (2024)](https://www.bellard.org/ts_zip/)
 * [2026-01-12, 19:57:37](https://news.ycombinator.com/item?id=46593395) - [The chess bot on Delta Air Lines will destroy you (2024) [video]](https://www.youtube.com/watch?v=c0mLhHDcY3I)
@@ -22,12 +23,11 @@
 * [2026-01-12, 12:57:44](https://news.ycombinator.com/item?id=46587804) - [Zen-C: Write like a high-level language, run like C](https://github.com/z-libs/Zen-C)
 * [2026-01-12, 12:29:00](https://news.ycombinator.com/item?id=46587536) - [Ozempic is changing the foods Americans buy](https://news.cornell.edu/stories/2025/12/ozempic-changing-foods-americans-buy)
 * [2026-01-12, 10:57:29](https://news.ycombinator.com/item?id=46586766) - [Anthropic made a mistake in cutting off third-party clients](https://archaeologist.dev/artifacts/anthropic)
-* [2026-01-12, 09:10:45](https://news.ycombinator.com/item?id=46585947) - [Ai, Japanese chimpanzee who counted and painted dies at 49](https://www.bbc.com/news/articles/cj9r3zl2ywyo)
 * [2026-01-11, 22:33:32](https://news.ycombinator.com/item?id=46581095) - [Unauthenticated remote code execution in OpenCode](https://cy.md/opencode-rce/)
 * [2026-01-09, 19:05:04](https://news.ycombinator.com/item?id=46557733) - [The Cray-1 Computer System (1977) [pdf]](https://s3data.computerhistory.org/brochures/cray.cray1.1977.102638650.pdf)
 * [2026-01-08, 16:50:58](https://news.ycombinator.com/item?id=46543257) - [What old tennis players teach us (2017)](https://www.raphkoster.com/2017/09/22/31098/)
+* [2026-01-08, 15:03:35](https://news.ycombinator.com/item?id=46541848) - [Why BM25 queries with more terms can be faster (and other scaling surprises)](https://turbopuffer.com/blog/bm25-latency-musings)
 * [2026-01-08, 12:07:31](https://news.ycombinator.com/item?id=46540126) - [Some ecologists fear their field is losing touch with nature](https://www.nature.com/articles/d41586-025-04150-w)
-* [2026-01-07, 17:38:53](https://news.ycombinator.com/item?id=46529507) - [Ansible battle tested hardening for Linux, SSH, Nginx, MySQL](https://github.com/dev-sec/ansible-collection-hardening)
 * [2026-01-07, 12:29:01](https://news.ycombinator.com/item?id=46525639) - [Personal thoughts/notes from working on Zootopia 2](https://blog.yiningkarlli.com/2025/12/zootopia-2.html)
 * [2026-01-06, 22:39:08](https://news.ycombinator.com/item?id=46519839) - [Perlsecret – Perl secret operators and constants](https://metacpan.org/dist/perlsecret/view/lib/perlsecret.pod)
 
