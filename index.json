@@ -1,16 +1,6 @@
 [
   [
     [
-      "2026-01-13, 11:23:28",
-      "https://news.ycombinator.com/item?id=46599604"
-    ],
-    [
-      "Junior devs don't know the red flags we spot in seconds and we never tell them",
-      "https://yourlead.dev"
-    ]
-  ],
-  [
-    [
       "2026-01-13, 10:44:39",
       "https://news.ycombinator.com/item?id=46599341"
     ],
@@ -287,6 +277,16 @@
     [
       "Zirgen: Compiler for a Domain-Specific Language",
       "https://github.com/risc0/zirgen"
+    ]
+  ],
+  [
+    [
+      "2026-01-08, 15:03:35",
+      "https://news.ycombinator.com/item?id=46541848"
+    ],
+    [
+      "Why BM25 queries with more terms can be faster (and other scaling surprises)",
+      "https://turbopuffer.com/blog/bm25-latency-musings"
     ]
   ],
   [
