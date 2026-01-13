@@ -4,7 +4,11 @@
 
 ### [Archives](../../index.md) for [2026-01-13](index.md)
 
+* [2026-01-13, 14:14:18](https://news.ycombinator.com/item?id=46601157) - [Apple Creator Studio](https://www.apple.com/newsroom/2026/01/introducing-apple-creator-studio-an-inspiring-collection-of-creative-apps/)
+* [2026-01-13, 14:11:24](https://news.ycombinator.com/item?id=46601121) - [Why Stoicism is one of the best mind hacks ever devised](https://aeon.co/essays/why-stoicism-is-one-of-the-best-mind-hacks-ever-devised)
+* [2026-01-13, 13:46:34](https://news.ycombinator.com/item?id=46600850) - [Local Journalism Is How Democracy Shows Up Close to Home](https://buckscountybeacon.com/2026/01/opinion-local-journalism-is-how-democracy-shows-up-close-to-home/)
 * [2026-01-13, 13:32:44](https://news.ycombinator.com/item?id=46600729) - [Why have death rates from accidental falls tripled?](https://usafacts.org/articles/why-have-death-rates-from-accidental-falls-tripled/)
+* [2026-01-13, 13:09:41](https://news.ycombinator.com/item?id=46600484) - [NASA topples towers used to test Saturn rockets, space shuttle](https://arstechnica.com/space/2026/01/nasa-topples-towers-used-to-test-saturn-rockets-space-shuttle/)
 * [2026-01-13, 12:39:03](https://news.ycombinator.com/item?id=46600194) - [The UK is shaping a future of Precrime and dissent management](https://freedomnews.org.uk/2025/04/11/how-the-uk-is-shaping-a-future-of-precrime-and-dissent-management/)
 * [2026-01-13, 12:27:53](https://news.ycombinator.com/item?id=46600092) - [Show HN: SnackBase – Open-source, GxP-compliant back end for Python teams](https://snackbase.dev)
 * [2026-01-13, 12:00:12](https://news.ycombinator.com/item?id=46599897) - [Owners, not renters: Mozilla's open source AI strategy](https://blog.mozilla.org/en/mozilla/mozilla-open-source-ai-strategy/)
