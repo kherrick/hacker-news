@@ -31,16 +31,6 @@
   ],
   [
     [
-      "2026-01-13, 09:35:05",
-      "https://news.ycombinator.com/item?id=46598913"
-    ],
-    [
-      "Justice Delayed Is Justice Denied",
-      "https://en.wikipedia.org/wiki/Justice_delayed_is_justice_denied"
-    ]
-  ],
-  [
-    [
       "2026-01-13, 07:08:29",
       "https://news.ycombinator.com/item?id=46598081"
     ],
@@ -247,6 +237,16 @@
     [
       "The Cray-1 Computer System (1977) [pdf]",
       "https://s3data.computerhistory.org/brochures/cray.cray1.1977.102638650.pdf"
+    ]
+  ],
+  [
+    [
+      "2026-01-09, 18:23:38",
+      "https://news.ycombinator.com/item?id=46557146"
+    ],
+    [
+      "Deconstructing the LuaJIT Pseudo Memory Leak",
+      "https://blog.openresty.com/en/luajit-plus/"
     ]
   ],
   [
