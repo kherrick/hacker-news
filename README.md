@@ -9,7 +9,7 @@
 * [2026-01-13, 19:44:44](https://news.ycombinator.com/item?id=46606715) - [Ask HN: Discrepancy between Lichess and Stockfish](https://news.ycombinator.com/item?id=46606715)
 * [2026-01-13, 18:46:06](https://news.ycombinator.com/item?id=46605716) - [Choosing learning over autopilot](https://anniecherkaev.com/choosing-learning-over-autopilot)
 * [2026-01-13, 18:43:28](https://news.ycombinator.com/item?id=46605675) - [Show HN: Nogic – VS Code extension that visualizes your codebase as a graph](https://marketplace.visualstudio.com/items?itemName=Nogic.nogic)
-* [2026-01-13, 18:35:52](https://news.ycombinator.com/item?id=46605553) - [Signal leaders warn agentic AI is an insecure, unreliable surveillance risk](https://coywolf.com/news/productivity/signal-president-and-vp-warn-agentic-ai-is-insecure-unreliable-and-a-surveillance-nightmare/)
+* [2026-01-13, 18:37:55](https://news.ycombinator.com/item?id=46605587) - [Let's be honest, Generative AI isn't going all that well](https://garymarcus.substack.com/p/lets-be-honest-generative-ai-isnt)
 * [2026-01-13, 18:31:50](https://news.ycombinator.com/item?id=46605490) - [AI Generated Music Barred from Bandcamp](https://old.reddit.com/r/BandCamp/comments/1qbw8ba/ai_generated_music_on_bandcamp/)
 * [2026-01-13, 17:55:37](https://news.ycombinator.com/item?id=46604862) - [Show HN: Ayder – HTTP-native durable event log written in C (curl as client)](https://github.com/A1darbek/ayder)
 * [2026-01-13, 17:23:46](https://news.ycombinator.com/item?id=46604250) - [How to make a damn website (2024)](https://lmnt.me/blog/how-to-make-a-damn-website.html)

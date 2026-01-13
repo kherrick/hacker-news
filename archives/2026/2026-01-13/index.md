@@ -18,6 +18,7 @@
 * [2026-01-13, 18:46:06](https://news.ycombinator.com/item?id=46605716) - [Choosing learning over autopilot](https://anniecherkaev.com/choosing-learning-over-autopilot)
 * [2026-01-13, 18:43:28](https://news.ycombinator.com/item?id=46605675) - [Show HN: Nogic – VS Code extension that visualizes your codebase as a graph](https://marketplace.visualstudio.com/items?itemName=Nogic.nogic)
 * [2026-01-13, 18:43:02](https://news.ycombinator.com/item?id=46605666) - [Ask HN: If you had $10M in the bank, would you still show up to your job?](https://news.ycombinator.com/item?id=46605666)
+* [2026-01-13, 18:37:55](https://news.ycombinator.com/item?id=46605587) - [Let's be honest, Generative AI isn't going all that well](https://garymarcus.substack.com/p/lets-be-honest-generative-ai-isnt)
 * [2026-01-13, 18:35:52](https://news.ycombinator.com/item?id=46605553) - [Signal leaders warn agentic AI is an insecure, unreliable surveillance risk](https://coywolf.com/news/productivity/signal-president-and-vp-warn-agentic-ai-is-insecure-unreliable-and-a-surveillance-nightmare/)
 * [2026-01-13, 18:31:50](https://news.ycombinator.com/item?id=46605490) - [AI Generated Music Barred from Bandcamp](https://old.reddit.com/r/BandCamp/comments/1qbw8ba/ai_generated_music_on_bandcamp/)
 * [2026-01-13, 18:29:02](https://news.ycombinator.com/item?id=46605452) - [The rapid rise and slow decline of Sam Altman](https://garymarcus.substack.com/p/the-rapid-rise-and-slow-decline-of)
