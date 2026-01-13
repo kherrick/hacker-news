@@ -49,6 +49,7 @@
 * [2026-01-08, 16:46:45](https://news.ycombinator.com/item?id=46543200) - [The Waymo Ojai Will Soon Offer Autonomous Rides Around the U.S.](https://www.caranddriver.com/news/a69938250/waymo-ojai-autonomous-robotaxi-details/)
 * [2026-01-08, 16:31:29](https://news.ycombinator.com/item?id=46542982) - [Dynamic Large Concept Models: Latent Reasoning in an Adaptive Semantic Space](https://arxiv.org/abs/2512.24617)
 * [2026-01-08, 16:16:43](https://news.ycombinator.com/item?id=46542761) - [Digital Red Queen: Adversarial Program Evolution in Core War with LLMs](https://sakana.ai/drq/)
+* [2026-01-08, 16:12:13](https://news.ycombinator.com/item?id=46542693) - [LANL's ICE House Tests Microelectronics for Cosmic Radiation Exposure](https://www.lanl.gov/media/publications/1663/ice-house-heats-up)
 * [2026-01-08, 16:11:48](https://news.ycombinator.com/item?id=46542683) - [Iran Goes Into IPv6 Blackout](https://radar.cloudflare.com/routing/ir)
 * [2026-01-08, 15:37:06](https://news.ycombinator.com/item?id=46542253) - [An Honest Review of Go](https://benraz.dev/blog/golang_review.html)
 * [2026-01-08, 15:36:25](https://news.ycombinator.com/item?id=46542247) - [Everything you never wanted to know about file locking (2010)](https://apenwarr.ca/log/20101213)
