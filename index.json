@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-01-13, 03:27:05",
+      "https://news.ycombinator.com/item?id=46597030"
+    ],
+    [
+      "PawSense: Catproof Your Computer",
+      "http://bitboost.com/pawsense/"
+    ]
+  ],
+  [
+    [
       "2026-01-13, 00:48:11",
       "https://news.ycombinator.com/item?id=46596075"
     ],
@@ -121,16 +131,6 @@
   ],
   [
     [
-      "2026-01-12, 16:20:16",
-      "https://news.ycombinator.com/item?id=46590541"
-    ],
-    [
-      "Building a 25 Gbit/s workstation for the SCION Association",
-      "https://github.com/scionassociation/blog-25gbit-workstation"
-    ]
-  ],
-  [
-    [
       "2026-01-12, 16:04:27",
       "https://news.ycombinator.com/item?id=46590280"
     ],
@@ -145,7 +145,7 @@
       "https://news.ycombinator.com/item?id=46589675"
     ],
     [
-      "Apple picks Google's Gemini to power Siri",
+      "Apple picks Gemini to power Siri",
       "https://www.cnbc.com/2026/01/12/apple-google-ai-siri-gemini.html"
     ]
   ],
@@ -241,12 +241,32 @@
   ],
   [
     [
+      "2026-01-11, 20:47:55",
+      "https://news.ycombinator.com/item?id=46579864"
+    ],
+    [
+      "The struggle of resizing windows on macOS Tahoe",
+      "https://noheger.at/blog/2026/01/11/the-struggle-of-resizing-windows-on-macos-tahoe/"
+    ]
+  ],
+  [
+    [
       "2026-01-09, 19:05:04",
       "https://news.ycombinator.com/item?id=46557733"
     ],
     [
       "The Cray-1 Computer System (1977) [pdf]",
       "https://s3data.computerhistory.org/brochures/cray.cray1.1977.102638650.pdf"
+    ]
+  ],
+  [
+    [
+      "2026-01-09, 03:24:12",
+      "https://news.ycombinator.com/item?id=46549714"
+    ],
+    [
+      "Implementing a web server in a single printf() call (2014)",
+      "https://tinyhack.com/2014/03/12/implementing-a-web-server-in-a-single-printf-call/"
     ]
   ],
   [
@@ -277,26 +297,6 @@
     [
       "Some ecologists fear their field is losing touch with nature",
       "https://www.nature.com/articles/d41586-025-04150-w"
-    ]
-  ],
-  [
-    [
-      "2026-01-07, 12:29:01",
-      "https://news.ycombinator.com/item?id=46525639"
-    ],
-    [
-      "Personal thoughts/notes from working on Zootopia 2",
-      "https://blog.yiningkarlli.com/2025/12/zootopia-2.html"
-    ]
-  ],
-  [
-    [
-      "2026-01-06, 22:39:08",
-      "https://news.ycombinator.com/item?id=46519839"
-    ],
-    [
-      "Perlsecret – Perl secret operators and constants",
-      "https://metacpan.org/dist/perlsecret/view/lib/perlsecret.pod"
     ]
   ]
 ]
