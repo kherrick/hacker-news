@@ -1,11 +1,21 @@
 [
   [
     [
+      "2026-01-13, 21:57:32",
+      "https://news.ycombinator.com/item?id=46608840"
+    ],
+    [
+      "We can't have nice things because of AI scrapers",
+      "https://blog.metabrainz.org/2025/12/11/we-cant-have-nice-things-because-of-ai-scrapers/"
+    ]
+  ],
+  [
+    [
       "2026-01-13, 21:55:29",
       "https://news.ycombinator.com/item?id=46608802"
     ],
     [
-      "An Archaeology of Tracking on Government Websites",
+      "An archaeology of tracking on government websites",
       "https://www.flux.utah.edu/paper/singh-pets26"
     ]
   ],
@@ -25,7 +35,7 @@
       "https://news.ycombinator.com/item?id=46607681"
     ],
     [
-      "Games Workshop bans staff from using AI, management not excited about the tech",
+      "Games Workshop bans staff from using AI",
       "https://www.ign.com/articles/warhammer-maker-games-workshop-bans-its-staff-from-using-ai-in-its-content-or-designs-says-none-of-its-senior-managers-are-currently-excited-about-the-tech"
     ]
   ],
@@ -57,26 +67,6 @@
     [
       "Ask HN: Discrepancy between Lichess and Stockfish",
       "https://news.ycombinator.com/item?id=46606715"
-    ]
-  ],
-  [
-    [
-      "2026-01-13, 18:58:55",
-      "https://news.ycombinator.com/item?id=46605950"
-    ],
-    [
-      "A university got itself banned from the Linux kernel (2021)",
-      "https://www.theverge.com/2021/4/30/22410164/linux-kernel-university-of-minnesota-banned-open-source"
-    ]
-  ],
-  [
-    [
-      "2026-01-13, 18:54:30",
-      "https://news.ycombinator.com/item?id=46605854"
-    ],
-    [
-      "No management needed: anti-patterns in early-stage engineering teams",
-      "https://www.ablg.io/blog/no-management-needed"
     ]
   ],
   [
@@ -127,16 +117,6 @@
     [
       "Show HN: Ayder – HTTP-native durable event log written in C (curl as client)",
       "https://github.com/A1darbek/ayder"
-    ]
-  ],
-  [
-    [
-      "2026-01-13, 17:53:31",
-      "https://news.ycombinator.com/item?id=46604828"
-    ],
-    [
-      "Ask HN: Iran's 120h internet shutdown, phones back. How to stay resilient?",
-      "https://news.ycombinator.com/item?id=46604828"
     ]
   ],
   [
@@ -211,16 +191,6 @@
   ],
   [
     [
-      "2026-01-13, 14:45:44",
-      "https://news.ycombinator.com/item?id=46601631"
-    ],
-    [
-      "Show HN: FastScheduler – Decorator-first Python task scheduler, async support",
-      "https://github.com/MichielMe/fastscheduler"
-    ]
-  ],
-  [
-    [
       "2026-01-13, 14:14:18",
       "https://news.ycombinator.com/item?id=46601157"
     ],
@@ -231,12 +201,32 @@
   ],
   [
     [
+      "2026-01-13, 12:27:53",
+      "https://news.ycombinator.com/item?id=46600092"
+    ],
+    [
+      "Show HN: SnackBase – Open-source, GxP-compliant back end for Python teams",
+      "https://snackbase.dev"
+    ]
+  ],
+  [
+    [
       "2026-01-13, 10:44:39",
       "https://news.ycombinator.com/item?id=46599341"
     ],
     [
       "Show HN: An iOS budget app I've been maintaining since 2011",
       "https://primoco.me/en/"
+    ]
+  ],
+  [
+    [
+      "2026-01-13, 02:49:59",
+      "https://news.ycombinator.com/item?id=46596823"
+    ],
+    [
+      "We rolled our own documentation site",
+      "https://blog.tangled.org/docs"
     ]
   ],
   [
@@ -277,6 +267,16 @@
     [
       "Inlining – The Ultimate Optimisation",
       "https://xania.org/202512/17-inlining-the-ultimate-optimisation"
+    ]
+  ],
+  [
+    [
+      "2026-01-08, 16:12:13",
+      "https://news.ycombinator.com/item?id=46542693"
+    ],
+    [
+      "LANL's ICE House Tests Microelectronics for Cosmic Radiation Exposure",
+      "https://www.lanl.gov/media/publications/1663/ice-house-heats-up"
     ]
   ],
   [
