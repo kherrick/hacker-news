@@ -4,9 +4,13 @@
 
 ### [Archives](../../index.md) for [2026-01-13](index.md)
 
+* [2026-01-13, 20:45:43](https://news.ycombinator.com/item?id=46607681) - [Games Workshop bans staff from using AI, management not excited about the tech](https://www.ign.com/articles/warhammer-maker-games-workshop-bans-its-staff-from-using-ai-in-its-content-or-designs-says-none-of-its-senior-managers-are-currently-excited-about-the-tech)
 * [2026-01-13, 19:39:04](https://news.ycombinator.com/item?id=46606633) - [Instagram AI Influencers Are Defaming Celebrities with Sex Scandals](https://www.404media.co/instagram-ai-influencers-are-defaming-celebrities-with-sex-scandals/)
 * [2026-01-13, 19:03:37](https://news.ycombinator.com/item?id=46606038) - [The Housing Market Isn't for Single People](https://thewalrus.ca/the-housing-market-isnt-for-single-people/)
 * [2026-01-13, 18:58:55](https://news.ycombinator.com/item?id=46605950) - [A university got itself banned from the Linux kernel](https://www.theverge.com/2021/4/30/22410164/linux-kernel-university-of-minnesota-banned-open-source)
+* [2026-01-13, 18:54:30](https://news.ycombinator.com/item?id=46605854) - [No management needed: anti-patterns in early-stage engineering teams](https://www.ablg.io/blog/no-management-needed)
+* [2026-01-13, 18:46:06](https://news.ycombinator.com/item?id=46605716) - [Choosing learning over autopilot](https://anniecherkaev.com/choosing-learning-over-autopilot)
+* [2026-01-13, 18:43:28](https://news.ycombinator.com/item?id=46605675) - [Show HN: Nogic – VS Code extension that visualizes your codebase as a graph](https://marketplace.visualstudio.com/items?itemName=Nogic.nogic)
 * [2026-01-13, 18:43:02](https://news.ycombinator.com/item?id=46605666) - [Ask HN: If you had $10M in the bank, would you still show up to your job?](https://news.ycombinator.com/item?id=46605666)
 * [2026-01-13, 18:35:52](https://news.ycombinator.com/item?id=46605553) - [Signal leaders warn agentic AI is an insecure, unreliable surveillance risk](https://coywolf.com/news/productivity/signal-president-and-vp-warn-agentic-ai-is-insecure-unreliable-and-a-surveillance-nightmare/)
 * [2026-01-13, 18:31:50](https://news.ycombinator.com/item?id=46605490) - [AI Generated Music Barred from Bandcamp](https://old.reddit.com/r/BandCamp/comments/1qbw8ba/ai_generated_music_on_bandcamp/)
@@ -21,6 +25,7 @@
 * [2026-01-13, 16:59:29](https://news.ycombinator.com/item?id=46603772) - [Show HN: DebtBomb – Make TODOs expire and automatically create Jira tickets](https://github.com/jobin-404/debtbomb)
 * [2026-01-13, 16:47:39](https://news.ycombinator.com/item?id=46603535) - [Influencers and OnlyFans models are dominating O-1 visa requests](https://www.theguardian.com/us-news/2026/jan/11/onlyfans-influencers-us-o-1-visa)
 * [2026-01-13, 16:41:40](https://news.ycombinator.com/item?id=46603431) - [Scott Adams has died](https://www.usatoday.com/story/entertainment/celebrities/2026/01/13/scott-adams-dead-dilbert-creator-prostate-cancer/88158828007/)
+* [2026-01-13, 16:22:59](https://news.ycombinator.com/item?id=46603111) - [Are two heads better than one?](https://eieio.games/blog/two-heads-arent-better-than-one/)
 * [2026-01-13, 15:49:27](https://news.ycombinator.com/item?id=46602532) - [What a year of solar and batteries saved us in 2025](https://scotthelme.co.uk/what-a-year-of-solar-and-batteries-really-saved-us-in-2025/)
 * [2026-01-13, 15:39:17](https://news.ycombinator.com/item?id=46602383) - [Command K Bars](https://maggieappleton.com/command-bar)
 * [2026-01-13, 15:35:09](https://news.ycombinator.com/item?id=46602324) - [Show HN: Self-host Reddit – 2.38B posts, works offline, yours forever](https://github.com/19-84/redd-archiver)
