@@ -30,6 +30,7 @@
 * [2026-01-09, 18:11:22](https://news.ycombinator.com/item?id=46556979) - [U.S. mandates more foreign travelers to pay $15,000 visa bond deposits](https://www.washingtonpost.com/immigration/2026/01/06/visa-bonds-state-overstay-rates/)
 * [2026-01-09, 18:00:56](https://news.ycombinator.com/item?id=46556822) - [Replit (YC W18) Is Hiring](https://jobs.ashbyhq.com/replit)
 * [2026-01-09, 17:52:20](https://news.ycombinator.com/item?id=46556695) - [How Markdown Took over the World](https://www.anildash.com/2026/01/09/how-markdown-took-over-the-world/)
+* [2026-01-09, 17:24:04](https://news.ycombinator.com/item?id=46556313) - [Learning Retro Computer Electronics Fault Finding and Restoration](https://retrogamecoders.com/learning-retrocomputer-electronics/)
 * [2026-01-09, 17:17:28](https://news.ycombinator.com/item?id=46556210) - [Show HN: I made a memory game to teach you to play piano by ear](https://lend-me-your-ears.specr.net)
 * [2026-01-09, 17:01:02](https://news.ycombinator.com/item?id=46555977) - [IcePanel (YC W23) is hiring full-stack engineers in Vancouver](https://forms.icepanel.io/careers/senior-product-engineer)
 * [2026-01-09, 17:00:11](https://news.ycombinator.com/item?id=46555963) - [The Vietnam government has banned rooted phones from using any banking app](https://xdaforums.com/t/discussion-the-root-and-mod-hiding-fingerprint-spoofing-keybox-stealing-cat-and-mouse-game.4425939/page-118)
