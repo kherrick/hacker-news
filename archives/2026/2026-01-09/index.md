@@ -63,6 +63,7 @@
 * [2026-01-09, 05:01:24](https://news.ycombinator.com/item?id=46550231) - [The No Fakes Act Has a \"Fingerprinting\" Trap That Kills Open Source](https://old.reddit.com/r/LocalLLaMA/comments/1q7qcux/the_no_fakes_act_has_a_fingerprinting_trap_that/)
 * [2026-01-09, 04:14:05](https://news.ycombinator.com/item?id=46549965) - [Remote Job](https://github.com/lukasz-madon/awesome-remote-job)
 * [2026-01-09, 03:44:35](https://news.ycombinator.com/item?id=46549823) - [Anthropic bans use of API in OpenCode CLI tool](https://github.com/anomalyco/opencode/issues/7410)
+* [2026-01-09, 03:24:12](https://news.ycombinator.com/item?id=46549714) - [Implementing a web server in a single printf() call (2014)](https://tinyhack.com/2014/03/12/implementing-a-web-server-in-a-single-printf-call/)
 * [2026-01-09, 02:29:12](https://news.ycombinator.com/item?id=46549444) - [Show HN: Executable Markdown files with Unix pipes](https://news.ycombinator.com/item?id=46549444)
 * [2026-01-09, 02:13:01](https://news.ycombinator.com/item?id=46549333) - [Show HN: Various shape regularization algorithms](https://github.com/nickponline/shreg)
 * [2026-01-09, 01:59:32](https://news.ycombinator.com/item?id=46549231) - [Show HN: A website that auctions itself daily](https://www.thedailyauction.com/)
