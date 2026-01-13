@@ -6,7 +6,9 @@
 
 * [2026-01-13, 23:00:36](https://news.ycombinator.com/item?id=46609630) - [A 40-Line Fix Eliminated a 400x Performance Gap](https://questdb.com/blog/jvm-current-thread-user-time/)
 * [2026-01-13, 22:57:23](https://news.ycombinator.com/item?id=46609591) - [The Insecure Evangelism of LLM Maximalists](https://lewiscampbell.tech/blog/260114.html)
+* [2026-01-13, 22:39:34](https://news.ycombinator.com/item?id=46609389) - [Show HN: AsciiSketch a free browser-based ASCII art and diagram editor](https://files.littlebird.com.au/ascii-sketch.html)
 * [2026-01-13, 22:30:53](https://news.ycombinator.com/item?id=46609279) - [We Don't Use AI](https://yarnspinner.dev/blog/why-we-dont-use-ai/)
+* [2026-01-13, 22:07:27](https://news.ycombinator.com/item?id=46608971) - [Terra - A rolling-release Fedora repository](https://terra.fyralabs.com/)
 * [2026-01-13, 21:57:32](https://news.ycombinator.com/item?id=46608840) - [We can't have nice things because of AI scrapers](https://blog.metabrainz.org/2025/12/11/we-cant-have-nice-things-because-of-ai-scrapers/)
 * [2026-01-13, 21:55:54](https://news.ycombinator.com/item?id=46608811) - [Is it a joke?](https://novalis.org/blog/2025-11-06-is-it-a-joke.html)
 * [2026-01-13, 21:55:29](https://news.ycombinator.com/item?id=46608802) - [An Archaeology of Tracking on Government Websites](https://www.flux.utah.edu/paper/singh-pets26)
