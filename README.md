@@ -1,9 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-01-13, 11:23:28](https://news.ycombinator.com/item?id=46599604) - [Junior devs don't know the red flags we spot in seconds and we never tell them](https://yourlead.dev)
+* [2026-01-13, 10:44:39](https://news.ycombinator.com/item?id=46599341) - [Show HN: An iOS budget app I've been maintaining since 2011](https://primoco.me/en/)
 * [2026-01-13, 10:03:20](https://news.ycombinator.com/item?id=46599079) - [U.S. Emissions Jumped in 2025 as Coal Power Rebounded](https://www.nytimes.com/2026/01/13/climate/us-emissions-2025-coal-power.html)
-* [2026-01-13, 10:02:47](https://news.ycombinator.com/item?id=46599076) - [UK Expands Online Safety Act to Mandate Preemptive Scanning](https://reclaimthenet.org/uk-expands-online-safety-act-to-mandate-preemptive-scanning)
 * [2026-01-13, 09:47:59](https://news.ycombinator.com/item?id=46598991) - [FOSS in times of war, scarcity and (adversarial) AI [video]](https://fosdem.org/2026/schedule/event/FE7ULY-foss-in-times-of-war-scarcity-and-ai/)
-* [2026-01-13, 07:08:29](https://news.ycombinator.com/item?id=46598081) - [Data Exfiltration via DNS Resolution](https://github.com/anthropic-experimental/sandbox-runtime/issues/88)
+* [2026-01-13, 09:31:44](https://news.ycombinator.com/item?id=46598890) - [The Homepage of Ron Goodwin](http://rongoodwin.co.uk/)
 * [2026-01-13, 06:42:49](https://news.ycombinator.com/item?id=46597927) - [Chromium Has Merged JpegXL](https://chromium-review.googlesource.com/c/chromium/src/+/7184969)
 * [2026-01-13, 05:16:10](https://news.ycombinator.com/item?id=46597518) - [Text-Based Web Browsers](https://cssence.com/2026/text-based-web-browsers/)
 * [2026-01-12, 22:30:33](https://news.ycombinator.com/item?id=46595130) - [F2 (YC S25) Is Hiring](https://www.ycombinator.com/companies/f2/jobs/cJsc7Fe-product-designer)
@@ -28,7 +29,6 @@
 * [2026-01-09, 15:17:45](https://news.ycombinator.com/item?id=46554775) - [Designing an IPv6-native P2P transport – lessons from building I6P](https://theushen.medium.com/designing-an-ipv6-native-p2p-transport-lessons-from-building-i6p-b8ca216d1d73)
 * [2026-01-09, 03:24:12](https://news.ycombinator.com/item?id=46549714) - [Implementing a web server in a single printf() call (2014)](https://tinyhack.com/2014/03/12/implementing-a-web-server-in-a-single-printf-call/)
 * [2026-01-09, 01:29:29](https://news.ycombinator.com/item?id=46549039) - [Zirgen: Compiler for a Domain-Specific Language](https://github.com/risc0/zirgen)
-* [2026-01-08, 15:03:35](https://news.ycombinator.com/item?id=46541848) - [Why BM25 queries with more terms can be faster (and other scaling surprises)](https://turbopuffer.com/blog/bm25-latency-musings)
 * [2026-01-08, 12:07:31](https://news.ycombinator.com/item?id=46540126) - [Some ecologists fear their field is losing touch with nature](https://www.nature.com/articles/d41586-025-04150-w)
 
 ## [Archives](archives/index.md)
