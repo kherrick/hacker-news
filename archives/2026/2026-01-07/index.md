@@ -25,6 +25,7 @@
 * [2026-01-07, 19:19:46](https://news.ycombinator.com/item?id=46531150) - [A practical guide to converting YAML to JSON safely (with Kubernetes examples)](https://coderaviverma.github.io/yaml-to-json-guide/)
 * [2026-01-07, 19:13:19](https://news.ycombinator.com/item?id=46531068) - [US will ban Wall Street investors from buying single-family homes](https://www.reuters.com/world/us/us-will-ban-large-institutional-investors-buying-single-family-homes-trump-says-2026-01-07/)
 * [2026-01-07, 19:09:43](https://news.ycombinator.com/item?id=46531015) - [Israel authorises electronic tracking of Palestinians – Middle East Monitor](https://www.middleeastmonitor.com/20260107-israel-authorises-electronic-tracking-of-palestinians/)
+* [2026-01-07, 19:03:24](https://news.ycombinator.com/item?id=46530920) - [Git Rebase for the Terrified](https://www.brethorsting.com/blog/2026/01/git-rebase-for-the-terrified/)
 * [2026-01-07, 18:57:18](https://news.ycombinator.com/item?id=46530832) - [Show HN: I visualized the entire history of Citi Bike in the browser](https://bikemap.nyc/)
 * [2026-01-07, 18:31:19](https://news.ycombinator.com/item?id=46530448) - [NPM to implement staged publishing after turbulent shift off classic tokens](https://socket.dev/blog/npm-to-implement-staged-publishing)
 * [2026-01-07, 18:18:50](https://news.ycombinator.com/item?id=46530236) - [Kafka Inc](https://libertiesjournal.com/online-articles/kafkainc/)

@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-01-13, 06:42:49](https://news.ycombinator.com/item?id=46597927) - [Chromium Has Merged JpegXL](https://chromium-review.googlesource.com/c/chromium/src/+/7184969)
 * [2026-01-13, 05:16:10](https://news.ycombinator.com/item?id=46597518) - [Text-Based Web Browsers](https://cssence.com/2026/text-based-web-browsers/)
-* [2026-01-13, 03:26:23](https://news.ycombinator.com/item?id=46597023) - [Provenance Is the New Version Control](https://aicoding.leaflet.pub/3mcbiyal7jc2y)
 * [2026-01-12, 23:05:04](https://news.ycombinator.com/item?id=46595419) - [Google removes AI health summaries after investigation finds dangerous flaws](https://arstechnica.com/ai/2026/01/google-removes-some-ai-health-summaries-after-investigation-finds-dangerous-flaws/)
 * [2026-01-12, 22:30:33](https://news.ycombinator.com/item?id=46595130) - [F2 (YC S25) Is Hiring](https://www.ycombinator.com/companies/f2/jobs/cJsc7Fe-product-designer)
 * [2026-01-12, 20:26:47](https://news.ycombinator.com/item?id=46593802) - [Fabrice Bellard's TS Zip (2024)](https://www.bellard.org/ts_zip/)
@@ -10,7 +10,6 @@
 * [2026-01-12, 18:36:12](https://news.ycombinator.com/item?id=46592376) - [Show HN: Fall asleep by watching JavaScript load](https://github.com/sarusso/bedtime)
 * [2026-01-12, 18:34:02](https://news.ycombinator.com/item?id=46592344) - [Show HN: Yolobox – Run AI coding agents with full sudo without nuking home dir](https://github.com/finbarr/yolobox)
 * [2026-01-12, 17:41:50](https://news.ycombinator.com/item?id=46591708) - [Postal Arbitrage](https://walzr.com/postal-arbitrage)
-* [2026-01-12, 17:17:09](https://news.ycombinator.com/item?id=46591402) - [Message Queues: A Simple Guide with Analogies (2024)](https://www.cloudamqp.com/blog/message-queues-exaplined-with-analogies.html)
 * [2026-01-12, 16:56:17](https://news.ycombinator.com/item?id=46591100) - [Show HN: AI in SolidWorks](https://www.trylad.com)
 * [2026-01-12, 16:04:27](https://news.ycombinator.com/item?id=46590280) - [TimeCapsuleLLM: LLM trained only on data from 1800-1875](https://github.com/haykgrigo3/TimeCapsuleLLM)
 * [2026-01-12, 15:22:21](https://news.ycombinator.com/item?id=46589675) - [Apple picks Gemini to power Siri](https://www.cnbc.com/2026/01/12/apple-google-ai-siri-gemini.html)
@@ -29,6 +28,7 @@
 * [2026-01-09, 01:29:29](https://news.ycombinator.com/item?id=46549039) - [Zirgen: Compiler for a Domain-Specific Language](https://github.com/risc0/zirgen)
 * [2026-01-08, 15:03:35](https://news.ycombinator.com/item?id=46541848) - [Why BM25 queries with more terms can be faster (and other scaling surprises)](https://turbopuffer.com/blog/bm25-latency-musings)
 * [2026-01-08, 12:07:31](https://news.ycombinator.com/item?id=46540126) - [Some ecologists fear their field is losing touch with nature](https://www.nature.com/articles/d41586-025-04150-w)
+* [2026-01-07, 19:03:24](https://news.ycombinator.com/item?id=46530920) - [Git Rebase for the Terrified](https://www.brethorsting.com/blog/2026/01/git-rebase-for-the-terrified/)
 * [2026-01-07, 18:18:50](https://news.ycombinator.com/item?id=46530236) - [Kafka Inc](https://libertiesjournal.com/online-articles/kafkainc/)
 
 ## [Archives](archives/index.md)
