@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-01-13, 17:32:39",
+      "https://news.ycombinator.com/item?id=46604443"
+    ],
+    [
+      "Dilbert's Scott Adams Dies",
+      "https://www.inc.com/jennifer-conrad/scott-adams-dilbert-dies-at-68/91286247"
+    ]
+  ],
+  [
+    [
       "2026-01-13, 17:10:42",
       "https://news.ycombinator.com/item?id=46603995"
     ],
@@ -17,16 +27,6 @@
     [
       "Legion Health (YC S21) Hiring Cracked Founding Eng for AI-Native Ops",
       "https://jobs.ashbyhq.com/legionhealth/ffdd2b52-eb21-489e-b124-3c0804231424"
-    ]
-  ],
-  [
-    [
-      "2026-01-13, 16:59:29",
-      "https://news.ycombinator.com/item?id=46603772"
-    ],
-    [
-      "Show HN: DebtBomb – Make TODOs expire and automatically create Jira tickets",
-      "https://github.com/jobin-404/debtbomb"
     ]
   ],
   [
@@ -101,16 +101,6 @@
   ],
   [
     [
-      "2026-01-13, 13:32:44",
-      "https://news.ycombinator.com/item?id=46600729"
-    ],
-    [
-      "Why have death rates from accidental falls tripled?",
-      "https://usafacts.org/articles/why-have-death-rates-from-accidental-falls-tripled/"
-    ]
-  ],
-  [
-    [
       "2026-01-13, 12:39:03",
       "https://news.ycombinator.com/item?id=46600194"
     ],
@@ -147,16 +137,6 @@
     [
       "Show HN: An iOS budget app I've been maintaining since 2011",
       "https://primoco.me/en/"
-    ]
-  ],
-  [
-    [
-      "2026-01-13, 09:47:59",
-      "https://news.ycombinator.com/item?id=46598991"
-    ],
-    [
-      "FOSS in times of war, scarcity and (adversarial) AI [video]",
-      "https://fosdem.org/2026/schedule/event/FE7ULY-foss-in-times-of-war-scarcity-and-ai/"
     ]
   ],
   [
@@ -221,6 +201,16 @@
   ],
   [
     [
+      "2026-01-12, 16:56:17",
+      "https://news.ycombinator.com/item?id=46591100"
+    ],
+    [
+      "Show HN: AI in SolidWorks",
+      "https://www.trylad.com"
+    ]
+  ],
+  [
+    [
       "2026-01-12, 16:04:27",
       "https://news.ycombinator.com/item?id=46590280"
     ],
@@ -247,6 +237,16 @@
     [
       "The Cray-1 Computer System (1977) [pdf]",
       "https://s3data.computerhistory.org/brochures/cray.cray1.1977.102638650.pdf"
+    ]
+  ],
+  [
+    [
+      "2026-01-09, 03:24:12",
+      "https://news.ycombinator.com/item?id=46549714"
+    ],
+    [
+      "Implementing a web server in a single printf() call (2014)",
+      "https://tinyhack.com/2014/03/12/implementing-a-web-server-in-a-single-printf-call/"
     ]
   ],
   [
