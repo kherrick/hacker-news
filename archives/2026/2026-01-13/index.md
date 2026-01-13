@@ -4,7 +4,11 @@
 
 ### [Archives](../../index.md) for [2026-01-13](index.md)
 
+* [2026-01-13, 23:00:36](https://news.ycombinator.com/item?id=46609630) - [A 40-Line Fix Eliminated a 400x Performance Gap](https://questdb.com/blog/jvm-current-thread-user-time/)
+* [2026-01-13, 22:57:23](https://news.ycombinator.com/item?id=46609591) - [The Insecure Evangelism of LLM Maximalists](https://lewiscampbell.tech/blog/260114.html)
+* [2026-01-13, 22:30:53](https://news.ycombinator.com/item?id=46609279) - [We Don't Use AI](https://yarnspinner.dev/blog/why-we-dont-use-ai/)
 * [2026-01-13, 21:57:32](https://news.ycombinator.com/item?id=46608840) - [We can't have nice things because of AI scrapers](https://blog.metabrainz.org/2025/12/11/we-cant-have-nice-things-because-of-ai-scrapers/)
+* [2026-01-13, 21:55:54](https://news.ycombinator.com/item?id=46608811) - [Is it a joke?](https://novalis.org/blog/2025-11-06-is-it-a-joke.html)
 * [2026-01-13, 21:55:29](https://news.ycombinator.com/item?id=46608802) - [An Archaeology of Tracking on Government Websites](https://www.flux.utah.edu/paper/singh-pets26)
 * [2026-01-13, 21:50:22](https://news.ycombinator.com/item?id=46608731) - [Running Lean at Scale](https://harmonic.fun/news#blog-post-lean)
 * [2026-01-13, 20:45:43](https://news.ycombinator.com/item?id=46607681) - [Games Workshop bans staff from using AI, management not excited about the tech](https://www.ign.com/articles/warhammer-maker-games-workshop-bans-its-staff-from-using-ai-in-its-content-or-designs-says-none-of-its-senior-managers-are-currently-excited-about-the-tech)
@@ -50,6 +54,7 @@
 * [2026-01-13, 12:39:03](https://news.ycombinator.com/item?id=46600194) - [The UK is shaping a future of Precrime and dissent management](https://freedomnews.org.uk/2025/04/11/how-the-uk-is-shaping-a-future-of-precrime-and-dissent-management/)
 * [2026-01-13, 12:27:53](https://news.ycombinator.com/item?id=46600092) - [Show HN: SnackBase – Open-source, GxP-compliant back end for Python teams](https://snackbase.dev)
 * [2026-01-13, 12:00:12](https://news.ycombinator.com/item?id=46599897) - [Owners, not renters: Mozilla's open source AI strategy](https://blog.mozilla.org/en/mozilla/mozilla-open-source-ai-strategy/)
+* [2026-01-13, 11:47:56](https://news.ycombinator.com/item?id=46599807) - [Ask HN: Quantum Computation, Computers and Programming](https://news.ycombinator.com/item?id=46599807)
 * [2026-01-13, 11:23:28](https://news.ycombinator.com/item?id=46599604) - [Junior devs don't know the red flags we spot in seconds and we never tell them](https://yourlead.dev)
 * [2026-01-13, 11:19:01](https://news.ycombinator.com/item?id=46599574) - [Network of Scottish X accounts go dark amid Iran blackout](https://www.heraldscotland.com/news/25759181.network-scottish-x-accounts-go-dark-amid-iran-blackout/)
 * [2026-01-13, 10:44:39](https://news.ycombinator.com/item?id=46599341) - [Show HN: An iOS budget app I've been maintaining since 2011](https://primoco.me/en/)

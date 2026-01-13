@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2026-01-07](index.md)
 
 * [2026-01-07, 23:31:05](https://news.ycombinator.com/item?id=46534777) - [Play Aardwolf MUD](https://www.aardwolf.com/)
+* [2026-01-07, 23:16:18](https://news.ycombinator.com/item?id=46534632) - [Japan's Skyscraper Factories (2021)](https://www.construction-physics.com/p/japans-skyscraper-factories)
 * [2026-01-07, 23:11:01](https://news.ycombinator.com/item?id=46534581) - [ICE Is Going on a Surveillance Shopping Spree](https://www.eff.org/deeplinks/2026/01/ice-going-surveillance-shopping-spree)
 * [2026-01-07, 22:59:55](https://news.ycombinator.com/item?id=46534466) - [Samsung Galaxy Z TriFold hands-on](https://mashable.com/article/samsung-galaxy-z-trifold-hands-on-ces-2026)
 * [2026-01-07, 22:36:41](https://news.ycombinator.com/item?id=46534157) - [HP Reveals Keyboard Computer with Ryzen AI Chip](https://www.hp.com/us-en/desktops/business/eliteboard.html)
