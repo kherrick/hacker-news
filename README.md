@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-01-13, 21:55:29](https://news.ycombinator.com/item?id=46608802) - [An Archaeology of Tracking on Government Websites](https://www.flux.utah.edu/paper/singh-pets26)
+* [2026-01-13, 21:50:22](https://news.ycombinator.com/item?id=46608731) - [Running Lean at Scale](https://harmonic.fun/news#blog-post-lean)
 * [2026-01-13, 20:45:43](https://news.ycombinator.com/item?id=46607681) - [Games Workshop bans staff from using AI, management not excited about the tech](https://www.ign.com/articles/warhammer-maker-games-workshop-bans-its-staff-from-using-ai-in-its-content-or-designs-says-none-of-its-senior-managers-are-currently-excited-about-the-tech)
 * [2026-01-13, 19:56:37](https://news.ycombinator.com/item?id=46606902) - [Open sourcing Dicer: Databricks's auto-sharder](https://www.databricks.com/blog/open-sourcing-dicer-databricks-auto-sharder)
 * [2026-01-13, 19:53:07](https://news.ycombinator.com/item?id=46606854) - [Ask HN: Vxlan over WireGuard or WireGuard over Vxlan?](https://news.ycombinator.com/item?id=46606854)
@@ -22,12 +24,10 @@
 * [2026-01-13, 14:45:44](https://news.ycombinator.com/item?id=46601631) - [Show HN: FastScheduler – Decorator-first Python task scheduler, async support](https://github.com/MichielMe/fastscheduler)
 * [2026-01-13, 14:14:18](https://news.ycombinator.com/item?id=46601157) - [Apple Creator Studio](https://www.apple.com/newsroom/2026/01/introducing-apple-creator-studio-an-inspiring-collection-of-creative-apps/)
 * [2026-01-13, 10:44:39](https://news.ycombinator.com/item?id=46599341) - [Show HN: An iOS budget app I've been maintaining since 2011](https://primoco.me/en/)
-* [2026-01-12, 19:27:19](https://news.ycombinator.com/item?id=46593022) - [Cowork: Claude Code for the rest of your work](https://claude.com/blog/cowork-research-preview)
 * [2026-01-12, 18:38:39](https://news.ycombinator.com/item?id=46592424) - [Superhuman AI Exfiltrates Emails](https://www.promptarmor.com/resources/superhuman-ai-exfiltrates-emails)
 * [2026-01-09, 21:01:13](https://news.ycombinator.com/item?id=46559266) - [Why Real Life is better than IRC (2000)](https://everything2.com/node/e2node/Why%20Real%20Life%20is%20better%20than%20IRC)
 * [2026-01-09, 18:35:13](https://news.ycombinator.com/item?id=46557312) - [Going for Gold: The Story of the Golden Lego RCX and NXT](https://bricknerd.com/home/going-for-gold-the-story-of-the-golden-lego-rcx-and-nxt-9-9-21)
 * [2026-01-09, 16:05:26](https://news.ycombinator.com/item?id=46555297) - [Inlining – The Ultimate Optimisation](https://xania.org/202512/17-inlining-the-ultimate-optimisation)
-* [2026-01-09, 07:43:20](https://news.ycombinator.com/item?id=46551065) - [Show HN: Ever wanted to look at yourself in Braille?](https://github.com/NishantJoshi00/dith)
 * [2026-01-08, 15:36:25](https://news.ycombinator.com/item?id=46542247) - [Everything you never wanted to know about file locking (2010)](https://apenwarr.ca/log/20101213)
 * [2026-01-07, 19:03:24](https://news.ycombinator.com/item?id=46530920) - [Git Rebase for the Terrified](https://www.brethorsting.com/blog/2026/01/git-rebase-for-the-terrified/)
 
