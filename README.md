@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2026-01-13, 19:03:37](https://news.ycombinator.com/item?id=46606038) - [The Housing Market Isn't for Single People](https://thewalrus.ca/the-housing-market-isnt-for-single-people/)
+* [2026-01-13, 18:58:55](https://news.ycombinator.com/item?id=46605950) - [A university got itself banned from the Linux kernel](https://www.theverge.com/2021/4/30/22410164/linux-kernel-university-of-minnesota-banned-open-source)
 * [2026-01-13, 18:35:52](https://news.ycombinator.com/item?id=46605553) - [Signal leaders warn agentic AI is an insecure, unreliable surveillance risk](https://coywolf.com/news/productivity/signal-president-and-vp-warn-agentic-ai-is-insecure-unreliable-and-a-surveillance-nightmare/)
 * [2026-01-13, 18:31:50](https://news.ycombinator.com/item?id=46605490) - [AI Generated Music Barred from Bandcamp](https://old.reddit.com/r/BandCamp/comments/1qbw8ba/ai_generated_music_on_bandcamp/)
 * [2026-01-13, 18:29:02](https://news.ycombinator.com/item?id=46605452) - [The rapid rise and slow decline of Sam Altman](https://garymarcus.substack.com/p/the-rapid-rise-and-slow-decline-of)
@@ -24,7 +25,6 @@
 * [2026-01-13, 05:16:10](https://news.ycombinator.com/item?id=46597518) - [Text-based web browsers](https://cssence.com/2026/text-based-web-browsers/)
 * [2026-01-13, 02:49:59](https://news.ycombinator.com/item?id=46596823) - [We rolled our own documentation site](https://blog.tangled.org/docs)
 * [2026-01-12, 19:27:19](https://news.ycombinator.com/item?id=46593022) - [Cowork: Claude Code for the rest of your work](https://claude.com/blog/cowork-research-preview)
-* [2026-01-09, 19:05:04](https://news.ycombinator.com/item?id=46557733) - [The Cray-1 Computer System (1977) [pdf]](https://s3data.computerhistory.org/brochures/cray.cray1.1977.102638650.pdf)
 * [2026-01-09, 16:05:26](https://news.ycombinator.com/item?id=46555297) - [Inlining – The Ultimate Optimisation](https://xania.org/202512/17-inlining-the-ultimate-optimisation)
 * [2026-01-09, 07:43:20](https://news.ycombinator.com/item?id=46551065) - [Show HN: Ever wanted to look at yourself in Braille?](https://github.com/NishantJoshi00/dith)
 * [2026-01-08, 19:55:27](https://news.ycombinator.com/item?id=46545636) - [Robotopia: A 3D, first-person, talking simulator](https://elbowgreasegames.substack.com/p/introducing-robotopia-a-3d-first)
