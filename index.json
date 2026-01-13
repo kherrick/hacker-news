@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-01-13, 17:10:42",
+      "https://news.ycombinator.com/item?id=46603995"
+    ],
+    [
+      "The Tulip Creative Computer",
+      "https://github.com/shorepine/tulipcc"
+    ]
+  ],
+  [
+    [
       "2026-01-13, 17:01:55",
       "https://news.ycombinator.com/item?id=46603829"
     ],
@@ -11,11 +21,21 @@
   ],
   [
     [
+      "2026-01-13, 16:59:29",
+      "https://news.ycombinator.com/item?id=46603772"
+    ],
+    [
+      "Show HN: DebtBomb – Make TODOs expire and automatically create Jira tickets",
+      "https://github.com/jobin-404/debtbomb"
+    ]
+  ],
+  [
+    [
       "2026-01-13, 16:47:39",
       "https://news.ycombinator.com/item?id=46603535"
     ],
     [
-      "Influencers and OnlyFans models are dominating O-1 visa requests",
+      "Influencers and OnlyFans models are dominating U.S. O-1 visa requests",
       "https://www.theguardian.com/us-news/2026/jan/11/onlyfans-influencers-us-o-1-visa"
     ]
   ],
@@ -37,16 +57,6 @@
     [
       "What a year of solar and batteries saved us in 2025",
       "https://scotthelme.co.uk/what-a-year-of-solar-and-batteries-really-saved-us-in-2025/"
-    ]
-  ],
-  [
-    [
-      "2026-01-13, 15:39:17",
-      "https://news.ycombinator.com/item?id=46602383"
-    ],
-    [
-      "Command K Bars",
-      "https://maggieappleton.com/command-bar"
     ]
   ],
   [
@@ -75,7 +85,7 @@
       "https://news.ycombinator.com/item?id=46601121"
     ],
     [
-      "Why Stoicism is one of the best mind hacks ever devised",
+      "Indifference is a power",
       "https://aeon.co/essays/why-stoicism-is-one-of-the-best-mind-hacks-ever-devised"
     ]
   ],
@@ -91,12 +101,22 @@
   ],
   [
     [
-      "2026-01-13, 13:09:41",
-      "https://news.ycombinator.com/item?id=46600484"
+      "2026-01-13, 13:32:44",
+      "https://news.ycombinator.com/item?id=46600729"
     ],
     [
-      "NASA topples towers used to test Saturn rockets, space shuttle",
-      "https://arstechnica.com/space/2026/01/nasa-topples-towers-used-to-test-saturn-rockets-space-shuttle/"
+      "Why have death rates from accidental falls tripled?",
+      "https://usafacts.org/articles/why-have-death-rates-from-accidental-falls-tripled/"
+    ]
+  ],
+  [
+    [
+      "2026-01-13, 12:39:03",
+      "https://news.ycombinator.com/item?id=46600194"
+    ],
+    [
+      "The UK is shaping a future of precrime and dissent management (2025)",
+      "https://freedomnews.org.uk/2025/04/11/how-the-uk-is-shaping-a-future-of-precrime-and-dissent-management/"
     ]
   ],
   [
@@ -107,6 +127,16 @@
     [
       "Show HN: SnackBase – Open-source, GxP-compliant back end for Python teams",
       "https://snackbase.dev"
+    ]
+  ],
+  [
+    [
+      "2026-01-13, 12:00:12",
+      "https://news.ycombinator.com/item?id=46599897"
+    ],
+    [
+      "Mozilla's open source AI strategy",
+      "https://blog.mozilla.org/en/mozilla/mozilla-open-source-ai-strategy/"
     ]
   ],
   [
@@ -191,16 +221,6 @@
   ],
   [
     [
-      "2026-01-12, 16:56:17",
-      "https://news.ycombinator.com/item?id=46591100"
-    ],
-    [
-      "Show HN: AI in SolidWorks",
-      "https://www.trylad.com"
-    ]
-  ],
-  [
-    [
       "2026-01-12, 16:04:27",
       "https://news.ycombinator.com/item?id=46590280"
     ],
@@ -231,32 +251,22 @@
   ],
   [
     [
-      "2026-01-09, 17:24:04",
-      "https://news.ycombinator.com/item?id=46556313"
-    ],
-    [
-      "Learning Retro Computer Electronics Fault Finding and Restoration",
-      "https://retrogamecoders.com/learning-retrocomputer-electronics/"
-    ]
-  ],
-  [
-    [
-      "2026-01-09, 03:24:12",
-      "https://news.ycombinator.com/item?id=46549714"
-    ],
-    [
-      "Implementing a web server in a single printf() call (2014)",
-      "https://tinyhack.com/2014/03/12/implementing-a-web-server-in-a-single-printf-call/"
-    ]
-  ],
-  [
-    [
       "2026-01-08, 19:55:27",
       "https://news.ycombinator.com/item?id=46545636"
     ],
     [
       "Robotopia: A 3D, first-person, talking simulator",
       "https://elbowgreasegames.substack.com/p/introducing-robotopia-a-3d-first"
+    ]
+  ],
+  [
+    [
+      "2026-01-08, 15:36:25",
+      "https://news.ycombinator.com/item?id=46542247"
+    ],
+    [
+      "Everything you never wanted to know about file locking (2010)",
+      "https://apenwarr.ca/log/20101213"
     ]
   ],
   [
@@ -277,16 +287,6 @@
     [
       "Some ecologists fear their field is losing touch with nature",
       "https://www.nature.com/articles/d41586-025-04150-w"
-    ]
-  ],
-  [
-    [
-      "2026-01-07, 22:36:41",
-      "https://news.ycombinator.com/item?id=46534157"
-    ],
-    [
-      "HP Reveals Keyboard Computer with Ryzen AI Chip",
-      "https://www.hp.com/us-en/desktops/business/eliteboard.html"
     ]
   ],
   [
