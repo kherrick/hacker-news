@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-01-13](index.md)
 
+* [2026-01-13, 19:39:04](https://news.ycombinator.com/item?id=46606633) - [Instagram AI Influencers Are Defaming Celebrities with Sex Scandals](https://www.404media.co/instagram-ai-influencers-are-defaming-celebrities-with-sex-scandals/)
 * [2026-01-13, 19:03:37](https://news.ycombinator.com/item?id=46606038) - [The Housing Market Isn't for Single People](https://thewalrus.ca/the-housing-market-isnt-for-single-people/)
 * [2026-01-13, 18:58:55](https://news.ycombinator.com/item?id=46605950) - [A university got itself banned from the Linux kernel](https://www.theverge.com/2021/4/30/22410164/linux-kernel-university-of-minnesota-banned-open-source)
 * [2026-01-13, 18:35:52](https://news.ycombinator.com/item?id=46605553) - [Signal leaders warn agentic AI is an insecure, unreliable surveillance risk](https://coywolf.com/news/productivity/signal-president-and-vp-warn-agentic-ai-is-insecure-unreliable-and-a-surveillance-nightmare/)
