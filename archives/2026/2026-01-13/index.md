@@ -5,6 +5,9 @@
 ### [Archives](../../index.md) for [2026-01-13](index.md)
 
 * [2026-01-13, 20:45:43](https://news.ycombinator.com/item?id=46607681) - [Games Workshop bans staff from using AI, management not excited about the tech](https://www.ign.com/articles/warhammer-maker-games-workshop-bans-its-staff-from-using-ai-in-its-content-or-designs-says-none-of-its-senior-managers-are-currently-excited-about-the-tech)
+* [2026-01-13, 19:56:37](https://news.ycombinator.com/item?id=46606902) - [Open sourcing Dicer: Databricks's auto-sharder](https://www.databricks.com/blog/open-sourcing-dicer-databricks-auto-sharder)
+* [2026-01-13, 19:53:07](https://news.ycombinator.com/item?id=46606854) - [Ask HN: Vxlan over WireGuard or WireGuard over Vxlan?](https://news.ycombinator.com/item?id=46606854)
+* [2026-01-13, 19:44:44](https://news.ycombinator.com/item?id=46606715) - [Ask HN: Discrepancy between Lichess and Stockfish](https://news.ycombinator.com/item?id=46606715)
 * [2026-01-13, 19:39:04](https://news.ycombinator.com/item?id=46606633) - [Instagram AI Influencers Are Defaming Celebrities with Sex Scandals](https://www.404media.co/instagram-ai-influencers-are-defaming-celebrities-with-sex-scandals/)
 * [2026-01-13, 19:03:37](https://news.ycombinator.com/item?id=46606038) - [The Housing Market Isn't for Single People](https://thewalrus.ca/the-housing-market-isnt-for-single-people/)
 * [2026-01-13, 18:58:55](https://news.ycombinator.com/item?id=46605950) - [A university got itself banned from the Linux kernel](https://www.theverge.com/2021/4/30/22410164/linux-kernel-university-of-minnesota-banned-open-source)
@@ -17,6 +20,7 @@
 * [2026-01-13, 18:29:02](https://news.ycombinator.com/item?id=46605452) - [The rapid rise and slow decline of Sam Altman](https://garymarcus.substack.com/p/the-rapid-rise-and-slow-decline-of)
 * [2026-01-13, 18:00:20](https://news.ycombinator.com/item?id=46604959) - [The Case for Blogging in the Ruins](https://www.joanwestenberg.com/the-case-for-blogging-in-the-ruins/)
 * [2026-01-13, 17:55:37](https://news.ycombinator.com/item?id=46604862) - [Show HN: Ayder – HTTP-native durable event log written in C (curl as client)](https://github.com/A1darbek/ayder)
+* [2026-01-13, 17:53:31](https://news.ycombinator.com/item?id=46604828) - [Ask HN: Iran's 120h internet shutdown, phones back. How to stay resilient?](https://news.ycombinator.com/item?id=46604828)
 * [2026-01-13, 17:32:39](https://news.ycombinator.com/item?id=46604443) - [Dilbert's Scott Adams Dies](https://www.inc.com/jennifer-conrad/scott-adams-dilbert-dies-at-68/91286247)
 * [2026-01-13, 17:23:46](https://news.ycombinator.com/item?id=46604250) - [How to make a damn website (2024)](https://lmnt.me/blog/how-to-make-a-damn-website.html)
 * [2026-01-13, 17:10:42](https://news.ycombinator.com/item?id=46603995) - [The Tulip Creative Computer](https://github.com/shorepine/tulipcc)

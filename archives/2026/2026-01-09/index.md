@@ -11,6 +11,7 @@
 * [2026-01-09, 21:27:10](https://news.ycombinator.com/item?id=46559599) - [Sigmund Freud's Begonia](https://observer.co.uk/news/first-person/article/emma-freud-sigmund-freuds-begonia)
 * [2026-01-09, 21:15:37](https://news.ycombinator.com/item?id=46559452) - [Garbage collection is contrarian](https://trynova.dev/blog/garbage-collection-is-contrarian)
 * [2026-01-09, 21:04:45](https://news.ycombinator.com/item?id=46559309) - [Looking for flagged discussions on HN? See what's active](https://news.ycombinator.com/active)
+* [2026-01-09, 21:01:13](https://news.ycombinator.com/item?id=46559266) - [Why Real Life is better than IRC (2000)](https://everything2.com/node/e2node/Why%20Real%20Life%20is%20better%20than%20IRC)
 * [2026-01-09, 20:43:00](https://news.ycombinator.com/item?id=46559065) - [You are not required to close your <p>, <li>, <img>, or <br> tags in HTML](https://blog.novalistic.com/archives/2017/08/optional-end-tags-in-html/)
 * [2026-01-09, 20:21:51](https://news.ycombinator.com/item?id=46558794) - [Iran's complete Internet shutdown reaches 24 hours](https://mastodon.social/@netblocks/115866066884567356)
 * [2026-01-09, 20:17:07](https://news.ycombinator.com/item?id=46558739) - [QtNat – Open you port with Qt UPnP](http://renaudguezennec.eu/index.php/2026/01/09/qtnat-open-you-port-with-qt/)
