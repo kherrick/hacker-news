@@ -4,8 +4,11 @@
 
 ### [Archives](../../index.md) for [2026-01-13](index.md)
 
+* [2026-01-13, 18:00:20](https://news.ycombinator.com/item?id=46604959) - [The Case for Blogging in the Ruins](https://www.joanwestenberg.com/the-case-for-blogging-in-the-ruins/)
+* [2026-01-13, 17:55:37](https://news.ycombinator.com/item?id=46604862) - [Show HN: Ayder – HTTP-native durable event log written in C (curl as client)](https://github.com/A1darbek/ayder)
 * [2026-01-13, 17:32:39](https://news.ycombinator.com/item?id=46604443) - [Dilbert's Scott Adams Dies](https://www.inc.com/jennifer-conrad/scott-adams-dilbert-dies-at-68/91286247)
 * [2026-01-13, 17:10:42](https://news.ycombinator.com/item?id=46603995) - [The Tulip Creative Computer](https://github.com/shorepine/tulipcc)
+* [2026-01-13, 17:05:43](https://news.ycombinator.com/item?id=46603910) - [90M people. 118 hours of silence. One nation erased from the internet](https://state-of-iranblackout.whisper.security/)
 * [2026-01-13, 17:01:55](https://news.ycombinator.com/item?id=46603829) - [Legion Health (YC S21) Hiring Cracked Founding Eng for AI-Native Ops](https://jobs.ashbyhq.com/legionhealth/ffdd2b52-eb21-489e-b124-3c0804231424)
 * [2026-01-13, 16:59:29](https://news.ycombinator.com/item?id=46603772) - [Show HN: DebtBomb – Make TODOs expire and automatically create Jira tickets](https://github.com/jobin-404/debtbomb)
 * [2026-01-13, 16:47:39](https://news.ycombinator.com/item?id=46603535) - [Influencers and OnlyFans models are dominating O-1 visa requests](https://www.theguardian.com/us-news/2026/jan/11/onlyfans-influencers-us-o-1-visa)
@@ -15,6 +18,7 @@
 * [2026-01-13, 15:18:43](https://news.ycombinator.com/item?id=46602102) - [Scott Adams has passed away](https://www.youtube.com/watch?v=Rs_JrOIo3SE)
 * [2026-01-13, 15:06:53](https://news.ycombinator.com/item?id=46601946) - [Stop Digging and Start Building: Why We Need Lego Parts, Not Deeper Type Systems](https://programmingsimplicity.substack.com/p/stop-digging-and-start-building-why)
 * [2026-01-13, 15:03:58](https://news.ycombinator.com/item?id=46601902) - [Anthropic has made a large contribution to the Python Software Foundation](https://discuss.python.org/t/anthropic-has-made-a-large-contribution-to-the-python-software-foundation-and-open-source-security/105694)
+* [2026-01-13, 14:45:44](https://news.ycombinator.com/item?id=46601631) - [Show HN: FastScheduler – Decorator-first Python task scheduler, async support](https://github.com/MichielMe/fastscheduler)
 * [2026-01-13, 14:14:18](https://news.ycombinator.com/item?id=46601157) - [Apple Creator Studio](https://www.apple.com/newsroom/2026/01/introducing-apple-creator-studio-an-inspiring-collection-of-creative-apps/)
 * [2026-01-13, 14:11:24](https://news.ycombinator.com/item?id=46601121) - [Why Stoicism is one of the best mind hacks ever devised](https://aeon.co/essays/why-stoicism-is-one-of-the-best-mind-hacks-ever-devised)
 * [2026-01-13, 13:46:34](https://news.ycombinator.com/item?id=46600850) - [Local Journalism Is How Democracy Shows Up Close to Home](https://buckscountybeacon.com/2026/01/opinion-local-journalism-is-how-democracy-shows-up-close-to-home/)
