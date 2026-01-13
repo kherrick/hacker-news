@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-01-13](index.md)
 
+* [2026-01-13, 09:35:05](https://news.ycombinator.com/item?id=46598913) - [Justice Delayed Is Justice Denied](https://en.wikipedia.org/wiki/Justice_delayed_is_justice_denied)
+* [2026-01-13, 07:08:29](https://news.ycombinator.com/item?id=46598081) - [Data Exfiltration via DNS Resolution](https://github.com/anthropic-experimental/sandbox-runtime/issues/88)
 * [2026-01-13, 06:42:49](https://news.ycombinator.com/item?id=46597927) - [Chromium Has Merged JpegXL](https://chromium-review.googlesource.com/c/chromium/src/+/7184969)
 * [2026-01-13, 05:16:10](https://news.ycombinator.com/item?id=46597518) - [Text-Based Web Browsers](https://cssence.com/2026/text-based-web-browsers/)
 * [2026-01-13, 05:13:00](https://news.ycombinator.com/item?id=46597505) - [Day Fifteen of Iran's Nationwide Protests: Sharp Rise in Human Casualties](https://www.en-hrana.org/day-fifteen-of-irans-nationwide-protests-sharp-rise-in-human-casualties/)
