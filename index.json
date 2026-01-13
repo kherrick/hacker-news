@@ -1,6 +1,36 @@
 [
   [
     [
+      "2026-01-13, 23:00:36",
+      "https://news.ycombinator.com/item?id=46609630"
+    ],
+    [
+      "A 40-Line Fix Eliminated a 400x Performance Gap",
+      "https://questdb.com/blog/jvm-current-thread-user-time/"
+    ]
+  ],
+  [
+    [
+      "2026-01-13, 22:57:23",
+      "https://news.ycombinator.com/item?id=46609591"
+    ],
+    [
+      "The Insecure Evangelism of LLM Maximalists",
+      "https://lewiscampbell.tech/blog/260114.html"
+    ]
+  ],
+  [
+    [
+      "2026-01-13, 22:30:53",
+      "https://news.ycombinator.com/item?id=46609279"
+    ],
+    [
+      "We Don't Use AI",
+      "https://yarnspinner.dev/blog/why-we-dont-use-ai/"
+    ]
+  ],
+  [
+    [
       "2026-01-13, 21:57:32",
       "https://news.ycombinator.com/item?id=46608840"
     ],
@@ -11,12 +41,12 @@
   ],
   [
     [
-      "2026-01-13, 21:55:29",
-      "https://news.ycombinator.com/item?id=46608802"
+      "2026-01-13, 21:55:54",
+      "https://news.ycombinator.com/item?id=46608811"
     ],
     [
-      "An archaeology of tracking on government websites",
-      "https://www.flux.utah.edu/paper/singh-pets26"
+      "Is it a joke?",
+      "https://novalis.org/blog/2025-11-06-is-it-a-joke.html"
     ]
   ],
   [
@@ -47,26 +77,6 @@
     [
       "Open sourcing Dicer: Databricks's auto-sharder",
       "https://www.databricks.com/blog/open-sourcing-dicer-databricks-auto-sharder"
-    ]
-  ],
-  [
-    [
-      "2026-01-13, 19:53:07",
-      "https://news.ycombinator.com/item?id=46606854"
-    ],
-    [
-      "Ask HN: Vxlan over WireGuard or WireGuard over Vxlan?",
-      "https://news.ycombinator.com/item?id=46606854"
-    ]
-  ],
-  [
-    [
-      "2026-01-13, 19:44:44",
-      "https://news.ycombinator.com/item?id=46606715"
-    ],
-    [
-      "Ask HN: Discrepancy between Lichess and Stockfish",
-      "https://news.ycombinator.com/item?id=46606715"
     ]
   ],
   [
@@ -171,16 +181,6 @@
   ],
   [
     [
-      "2026-01-13, 15:35:09",
-      "https://news.ycombinator.com/item?id=46602324"
-    ],
-    [
-      "Show HN: Self-host Reddit – 2.38B posts, works offline, yours forever",
-      "https://github.com/19-84/redd-archiver"
-    ]
-  ],
-  [
-    [
       "2026-01-13, 15:18:43",
       "https://news.ycombinator.com/item?id=46602102"
     ],
@@ -211,12 +211,12 @@
   ],
   [
     [
-      "2026-01-13, 10:44:39",
-      "https://news.ycombinator.com/item?id=46599341"
+      "2026-01-13, 11:47:56",
+      "https://news.ycombinator.com/item?id=46599807"
     ],
     [
-      "Show HN: An iOS budget app I've been maintaining since 2011",
-      "https://primoco.me/en/"
+      "Ask HN: Quantum Computation, Computers and Programming",
+      "https://news.ycombinator.com/item?id=46599807"
     ]
   ],
   [
@@ -281,12 +281,12 @@
   ],
   [
     [
-      "2026-01-08, 15:36:25",
-      "https://news.ycombinator.com/item?id=46542247"
+      "2026-01-07, 23:16:18",
+      "https://news.ycombinator.com/item?id=46534632"
     ],
     [
-      "Everything you never wanted to know about file locking (2010)",
-      "https://apenwarr.ca/log/20101213"
+      "Japan's Skyscraper Factories (2021)",
+      "https://www.construction-physics.com/p/japans-skyscraper-factories"
     ]
   ],
   [
