@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-01-13, 09:35:05",
+      "https://news.ycombinator.com/item?id=46598913"
+    ],
+    [
+      "Justice Delayed Is Justice Denied",
+      "https://en.wikipedia.org/wiki/Justice_delayed_is_justice_denied"
+    ]
+  ],
+  [
+    [
+      "2026-01-13, 07:08:29",
+      "https://news.ycombinator.com/item?id=46598081"
+    ],
+    [
+      "Data Exfiltration via DNS Resolution",
+      "https://github.com/anthropic-experimental/sandbox-runtime/issues/88"
+    ]
+  ],
+  [
+    [
       "2026-01-13, 06:42:49",
       "https://news.ycombinator.com/item?id=46597927"
     ],
@@ -17,16 +37,6 @@
     [
       "Text-Based Web Browsers",
       "https://cssence.com/2026/text-based-web-browsers/"
-    ]
-  ],
-  [
-    [
-      "2026-01-13, 05:13:00",
-      "https://news.ycombinator.com/item?id=46597505"
-    ],
-    [
-      "Day Fifteen of Iran's Nationwide Protests: Sharp Rise in Human Casualties",
-      "https://www.en-hrana.org/day-fifteen-of-irans-nationwide-protests-sharp-rise-in-human-casualties/"
     ]
   ],
   [
@@ -67,16 +77,6 @@
     [
       "Cowork: Claude Code for the rest of your work",
       "https://claude.com/blog/cowork-research-preview"
-    ]
-  ],
-  [
-    [
-      "2026-01-12, 18:36:12",
-      "https://news.ycombinator.com/item?id=46592376"
-    ],
-    [
-      "Show HN: Fall asleep by watching JavaScript load",
-      "https://github.com/sarusso/bedtime"
     ]
   ],
   [
@@ -241,6 +241,16 @@
   ],
   [
     [
+      "2026-01-09, 15:17:45",
+      "https://news.ycombinator.com/item?id=46554775"
+    ],
+    [
+      "Designing an IPv6-native P2P transport – lessons from building I6P",
+      "https://theushen.medium.com/designing-an-ipv6-native-p2p-transport-lessons-from-building-i6p-b8ca216d1d73"
+    ]
+  ],
+  [
+    [
       "2026-01-09, 03:24:12",
       "https://news.ycombinator.com/item?id=46549714"
     ],
@@ -277,16 +287,6 @@
     [
       "Some ecologists fear their field is losing touch with nature",
       "https://www.nature.com/articles/d41586-025-04150-w"
-    ]
-  ],
-  [
-    [
-      "2026-01-07, 19:03:24",
-      "https://news.ycombinator.com/item?id=46530920"
-    ],
-    [
-      "Git Rebase for the Terrified",
-      "https://www.brethorsting.com/blog/2026/01/git-rebase-for-the-terrified/"
     ]
   ],
   [
