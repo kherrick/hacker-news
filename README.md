@@ -2,6 +2,7 @@
 
 * [2026-01-13, 19:39:04](https://news.ycombinator.com/item?id=46606633) - [Instagram AI Influencers Are Defaming Celebrities with Sex Scandals](https://www.404media.co/instagram-ai-influencers-are-defaming-celebrities-with-sex-scandals/)
 * [2026-01-13, 18:58:55](https://news.ycombinator.com/item?id=46605950) - [A university got itself banned from the Linux kernel (2021)](https://www.theverge.com/2021/4/30/22410164/linux-kernel-university-of-minnesota-banned-open-source)
+* [2026-01-13, 18:43:02](https://news.ycombinator.com/item?id=46605666) - [Ask HN: If you had $10M in the bank, would you still show up to your job?](https://news.ycombinator.com/item?id=46605666)
 * [2026-01-13, 18:35:52](https://news.ycombinator.com/item?id=46605553) - [Signal leaders warn agentic AI is an insecure, unreliable surveillance risk](https://coywolf.com/news/productivity/signal-president-and-vp-warn-agentic-ai-is-insecure-unreliable-and-a-surveillance-nightmare/)
 * [2026-01-13, 18:31:50](https://news.ycombinator.com/item?id=46605490) - [AI Generated Music Barred from Bandcamp](https://old.reddit.com/r/BandCamp/comments/1qbw8ba/ai_generated_music_on_bandcamp/)
 * [2026-01-13, 18:00:20](https://news.ycombinator.com/item?id=46604959) - [The Case for Blogging in the Ruins](https://www.joanwestenberg.com/the-case-for-blogging-in-the-ruins/)
@@ -23,7 +24,6 @@
 * [2026-01-13, 10:44:39](https://news.ycombinator.com/item?id=46599341) - [Show HN: An iOS budget app I've been maintaining since 2011](https://primoco.me/en/)
 * [2026-01-13, 05:16:10](https://news.ycombinator.com/item?id=46597518) - [Text-based web browsers](https://cssence.com/2026/text-based-web-browsers/)
 * [2026-01-12, 19:27:19](https://news.ycombinator.com/item?id=46593022) - [Cowork: Claude Code for the rest of your work](https://claude.com/blog/cowork-research-preview)
-* [2026-01-09, 19:05:04](https://news.ycombinator.com/item?id=46557733) - [The Cray-1 Computer System (1977) [pdf]](https://s3data.computerhistory.org/brochures/cray.cray1.1977.102638650.pdf)
 * [2026-01-09, 18:35:13](https://news.ycombinator.com/item?id=46557312) - [Going for Gold: The Story of the Golden Lego RCX and NXT](https://bricknerd.com/home/going-for-gold-the-story-of-the-golden-lego-rcx-and-nxt-9-9-21)
 * [2026-01-09, 16:05:26](https://news.ycombinator.com/item?id=46555297) - [Inlining – The Ultimate Optimisation](https://xania.org/202512/17-inlining-the-ultimate-optimisation)
 * [2026-01-09, 07:43:20](https://news.ycombinator.com/item?id=46551065) - [Show HN: Ever wanted to look at yourself in Braille?](https://github.com/NishantJoshi00/dith)
