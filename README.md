@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-01-13, 10:03:20](https://news.ycombinator.com/item?id=46599079) - [U.S. Emissions Jumped in 2025 as Coal Power Rebounded](https://www.nytimes.com/2026/01/13/climate/us-emissions-2025-coal-power.html)
+* [2026-01-13, 09:47:59](https://news.ycombinator.com/item?id=46598991) - [FOSS in times of war, scarcity and (adversarial) AI [video]](https://fosdem.org/2026/schedule/event/FE7ULY-foss-in-times-of-war-scarcity-and-ai/)
 * [2026-01-13, 09:35:05](https://news.ycombinator.com/item?id=46598913) - [Justice Delayed Is Justice Denied](https://en.wikipedia.org/wiki/Justice_delayed_is_justice_denied)
-* [2026-01-13, 07:08:29](https://news.ycombinator.com/item?id=46598081) - [Data Exfiltration via DNS Resolution](https://github.com/anthropic-experimental/sandbox-runtime/issues/88)
 * [2026-01-13, 06:42:49](https://news.ycombinator.com/item?id=46597927) - [Chromium Has Merged JpegXL](https://chromium-review.googlesource.com/c/chromium/src/+/7184969)
 * [2026-01-13, 05:16:10](https://news.ycombinator.com/item?id=46597518) - [Text-Based Web Browsers](https://cssence.com/2026/text-based-web-browsers/)
 * [2026-01-12, 22:30:33](https://news.ycombinator.com/item?id=46595130) - [F2 (YC S25) Is Hiring](https://www.ycombinator.com/companies/f2/jobs/cJsc7Fe-product-designer)
@@ -18,7 +19,6 @@
 * [2026-01-12, 14:18:13](https://news.ycombinator.com/item?id=46588837) - [LLVM: The bad parts](https://www.npopov.com/2026/01/11/LLVM-The-bad-parts.html)
 * [2026-01-12, 13:22:44](https://news.ycombinator.com/item?id=46588132) - [Windows 8 Desktop Environment for Linux](https://github.com/er-bharat/Win8DE)
 * [2026-01-12, 13:07:49](https://news.ycombinator.com/item?id=46587934) - [Floppy disks turn out to be the greatest TV remote for kids](https://blog.smartere.dk/2026/01/floppy-disks-the-best-tv-remote-for-kids/)
-* [2026-01-12, 12:57:44](https://news.ycombinator.com/item?id=46587804) - [Zen-C: Write like a high-level language, run like C](https://github.com/z-libs/Zen-C)
 * [2026-01-12, 12:29:00](https://news.ycombinator.com/item?id=46587536) - [Ozempic is changing the foods Americans buy](https://news.cornell.edu/stories/2025/12/ozempic-changing-foods-americans-buy)
 * [2026-01-12, 10:57:29](https://news.ycombinator.com/item?id=46586766) - [Anthropic made a mistake in cutting off third-party clients](https://archaeologist.dev/artifacts/anthropic)
 * [2026-01-11, 22:33:32](https://news.ycombinator.com/item?id=46581095) - [Unauthenticated remote code execution in OpenCode](https://cy.md/opencode-rce/)
