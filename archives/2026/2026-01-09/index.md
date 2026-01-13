@@ -24,6 +24,7 @@
 * [2026-01-09, 18:48:30](https://news.ycombinator.com/item?id=46557489) - [JavaScript Demos in 140 Characters](https://beta.dwitter.net)
 * [2026-01-09, 18:38:34](https://news.ycombinator.com/item?id=46557352) - [Turn a single image into a navigable 3D Gaussian Splat with depth](https://lab.revelium.studio/ml-sharp)
 * [2026-01-09, 18:29:35](https://news.ycombinator.com/item?id=46557233) - [Exercise can be nearly as effective as therapy for depression](https://www.sciencedaily.com/releases/2026/01/260107225516.htm)
+* [2026-01-09, 18:23:38](https://news.ycombinator.com/item?id=46557146) - [Deconstructing the LuaJIT Pseudo Memory Leak](https://blog.openresty.com/en/luajit-plus/)
 * [2026-01-09, 18:17:24](https://news.ycombinator.com/item?id=46557057) - [AI Zealotry](https://matthewrocklin.com/ai-zealotry/)
 * [2026-01-09, 18:15:16](https://news.ycombinator.com/item?id=46557029) - [Show HN: Scroll Wikipedia like TikTok](https://quack.sdan.io)
 * [2026-01-09, 18:11:22](https://news.ycombinator.com/item?id=46556979) - [U.S. mandates more foreign travelers to pay $15,000 visa bond deposits](https://www.washingtonpost.com/immigration/2026/01/06/visa-bonds-state-overstay-rates/)
