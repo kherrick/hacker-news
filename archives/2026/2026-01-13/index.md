@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2026-01-13](index.md)
 
 * [2026-01-13, 10:03:20](https://news.ycombinator.com/item?id=46599079) - [U.S. Emissions Jumped in 2025 as Coal Power Rebounded](https://www.nytimes.com/2026/01/13/climate/us-emissions-2025-coal-power.html)
+* [2026-01-13, 10:02:47](https://news.ycombinator.com/item?id=46599076) - [UK Expands Online Safety Act to Mandate Preemptive Scanning](https://reclaimthenet.org/uk-expands-online-safety-act-to-mandate-preemptive-scanning)
 * [2026-01-13, 09:47:59](https://news.ycombinator.com/item?id=46598991) - [FOSS in times of war, scarcity and (adversarial) AI [video]](https://fosdem.org/2026/schedule/event/FE7ULY-foss-in-times-of-war-scarcity-and-ai/)
 * [2026-01-13, 09:35:05](https://news.ycombinator.com/item?id=46598913) - [Justice Delayed Is Justice Denied](https://en.wikipedia.org/wiki/Justice_delayed_is_justice_denied)
 * [2026-01-13, 07:08:29](https://news.ycombinator.com/item?id=46598081) - [Data Exfiltration via DNS Resolution](https://github.com/anthropic-experimental/sandbox-runtime/issues/88)
