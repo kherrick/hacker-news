@@ -4,5 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-01-13](index.md)
 
+* [2026-01-13, 04:34:38](https://news.ycombinator.com/item?id=46597357) - [Powell vows to stand firm against 'unprecedented' administration threats](https://www.pbs.org/newshour/politics/watch-powell-vows-to-stand-firm-against-unprecedented-trump-administration-indictment-threats)
 * [2026-01-13, 03:27:05](https://news.ycombinator.com/item?id=46597030) - [PawSense: Catproof Your Computer](http://bitboost.com/pawsense/)
+* [2026-01-13, 03:26:23](https://news.ycombinator.com/item?id=46597023) - [Provenance Is the New Version Control](https://aicoding.leaflet.pub/3mcbiyal7jc2y)
 * [2026-01-13, 00:48:11](https://news.ycombinator.com/item?id=46596075) - [Tell HN: DigitalOcean's managed services broke each other after update](https://news.ycombinator.com/item?id=46596075)

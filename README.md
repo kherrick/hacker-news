@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-01-13, 04:34:38](https://news.ycombinator.com/item?id=46597357) - [Powell vows to stand firm against 'unprecedented' administration threats](https://www.pbs.org/newshour/politics/watch-powell-vows-to-stand-firm-against-unprecedented-trump-administration-indictment-threats)
 * [2026-01-13, 03:27:05](https://news.ycombinator.com/item?id=46597030) - [PawSense: Catproof Your Computer](http://bitboost.com/pawsense/)
-* [2026-01-13, 00:48:11](https://news.ycombinator.com/item?id=46596075) - [Tell HN: DigitalOcean's managed services broke each other after update](https://news.ycombinator.com/item?id=46596075)
+* [2026-01-13, 03:26:23](https://news.ycombinator.com/item?id=46597023) - [Provenance Is the New Version Control](https://aicoding.leaflet.pub/3mcbiyal7jc2y)
 * [2026-01-12, 23:05:04](https://news.ycombinator.com/item?id=46595419) - [Google removes AI health summaries after investigation finds dangerous flaws](https://arstechnica.com/ai/2026/01/google-removes-some-ai-health-summaries-after-investigation-finds-dangerous-flaws/)
 * [2026-01-12, 23:02:27](https://news.ycombinator.com/item?id=46595393) - [A deep dive on agent sandboxes](https://pierce.dev/notes/a-deep-dive-on-agent-sandboxes)
 * [2026-01-12, 22:30:33](https://news.ycombinator.com/item?id=46595130) - [F2 (YC S25) Is Hiring](https://www.ycombinator.com/companies/f2/jobs/cJsc7Fe-product-designer)
@@ -27,7 +28,6 @@
 * [2026-01-11, 20:47:55](https://news.ycombinator.com/item?id=46579864) - [The struggle of resizing windows on macOS Tahoe](https://noheger.at/blog/2026/01/11/the-struggle-of-resizing-windows-on-macos-tahoe/)
 * [2026-01-09, 19:05:04](https://news.ycombinator.com/item?id=46557733) - [The Cray-1 Computer System (1977) [pdf]](https://s3data.computerhistory.org/brochures/cray.cray1.1977.102638650.pdf)
 * [2026-01-09, 03:24:12](https://news.ycombinator.com/item?id=46549714) - [Implementing a web server in a single printf() call (2014)](https://tinyhack.com/2014/03/12/implementing-a-web-server-in-a-single-printf-call/)
-* [2026-01-08, 16:50:58](https://news.ycombinator.com/item?id=46543257) - [What old tennis players teach us (2017)](https://www.raphkoster.com/2017/09/22/31098/)
 * [2026-01-08, 15:03:35](https://news.ycombinator.com/item?id=46541848) - [Why BM25 queries with more terms can be faster (and other scaling surprises)](https://turbopuffer.com/blog/bm25-latency-musings)
 * [2026-01-08, 12:07:31](https://news.ycombinator.com/item?id=46540126) - [Some ecologists fear their field is losing touch with nature](https://www.nature.com/articles/d41586-025-04150-w)
 
