@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-01-13, 11:19:01](https://news.ycombinator.com/item?id=46599574) - [Network of Scottish X accounts go dark amid Iran blackout](https://www.heraldscotland.com/news/25759181.network-scottish-x-accounts-go-dark-amid-iran-blackout/)
 * [2026-01-13, 10:44:39](https://news.ycombinator.com/item?id=46599341) - [Show HN: An iOS budget app I've been maintaining since 2011](https://primoco.me/en/)
 * [2026-01-13, 10:03:20](https://news.ycombinator.com/item?id=46599079) - [U.S. Emissions Jumped in 2025 as Coal Power Rebounded](https://www.nytimes.com/2026/01/13/climate/us-emissions-2025-coal-power.html)
 * [2026-01-13, 09:47:59](https://news.ycombinator.com/item?id=46598991) - [FOSS in times of war, scarcity and (adversarial) AI [video]](https://fosdem.org/2026/schedule/event/FE7ULY-foss-in-times-of-war-scarcity-and-ai/)
-* [2026-01-13, 09:31:44](https://news.ycombinator.com/item?id=46598890) - [The Homepage of Ron Goodwin](http://rongoodwin.co.uk/)
 * [2026-01-13, 06:42:49](https://news.ycombinator.com/item?id=46597927) - [Chromium Has Merged JpegXL](https://chromium-review.googlesource.com/c/chromium/src/+/7184969)
 * [2026-01-13, 05:16:10](https://news.ycombinator.com/item?id=46597518) - [Text-Based Web Browsers](https://cssence.com/2026/text-based-web-browsers/)
 * [2026-01-12, 22:30:33](https://news.ycombinator.com/item?id=46595130) - [F2 (YC S25) Is Hiring](https://www.ycombinator.com/companies/f2/jobs/cJsc7Fe-product-designer)
@@ -16,7 +16,6 @@
 * [2026-01-12, 16:04:27](https://news.ycombinator.com/item?id=46590280) - [TimeCapsuleLLM: LLM trained only on data from 1800-1875](https://github.com/haykgrigo3/TimeCapsuleLLM)
 * [2026-01-12, 15:22:21](https://news.ycombinator.com/item?id=46589675) - [Apple picks Gemini to power Siri](https://www.cnbc.com/2026/01/12/apple-google-ai-siri-gemini.html)
 * [2026-01-12, 15:20:36](https://news.ycombinator.com/item?id=46589658) - [Date is out, Temporal is in](https://piccalil.li/blog/date-is-out-and-temporal-is-in/)
-* [2026-01-12, 14:23:07](https://news.ycombinator.com/item?id=46588905) - [Show HN: Agent-of-empires: OpenCode and Claude Code session manager](https://github.com/njbrake/agent-of-empires)
 * [2026-01-12, 14:18:13](https://news.ycombinator.com/item?id=46588837) - [LLVM: The bad parts](https://www.npopov.com/2026/01/11/LLVM-The-bad-parts.html)
 * [2026-01-12, 13:22:44](https://news.ycombinator.com/item?id=46588132) - [Windows 8 Desktop Environment for Linux](https://github.com/er-bharat/Win8DE)
 * [2026-01-12, 13:07:49](https://news.ycombinator.com/item?id=46587934) - [Floppy disks turn out to be the greatest TV remote for kids](https://blog.smartere.dk/2026/01/floppy-disks-the-best-tv-remote-for-kids/)
@@ -30,6 +29,7 @@
 * [2026-01-09, 01:29:29](https://news.ycombinator.com/item?id=46549039) - [Zirgen: Compiler for a Domain-Specific Language](https://github.com/risc0/zirgen)
 * [2026-01-08, 15:03:35](https://news.ycombinator.com/item?id=46541848) - [Why BM25 queries with more terms can be faster (and other scaling surprises)](https://turbopuffer.com/blog/bm25-latency-musings)
 * [2026-01-08, 12:07:31](https://news.ycombinator.com/item?id=46540126) - [Some ecologists fear their field is losing touch with nature](https://www.nature.com/articles/d41586-025-04150-w)
+* [2026-01-07, 19:40:07](https://news.ycombinator.com/item?id=46531425) - [The Inevitable Rise of the Art TV](https://www.wired.com/story/art-frame-tv-trends/)
 
 ## [Archives](archives/index.md)
 

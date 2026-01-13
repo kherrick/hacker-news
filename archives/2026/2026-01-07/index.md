@@ -20,6 +20,7 @@
 * [2026-01-07, 19:53:40](https://news.ycombinator.com/item?id=46531622) - [A set of Idiomatic prod-grade katas for experienced devs transitioning to Go](https://github.com/MedUnes/go-kata)
 * [2026-01-07, 19:49:54](https://news.ycombinator.com/item?id=46531565) - [Notion AI: Unpatched data exfiltration](https://www.promptarmor.com/resources/notion-ai-unpatched-data-exfiltration)
 * [2026-01-07, 19:45:35](https://news.ycombinator.com/item?id=46531511) - [Notebook Lawyer](https://avc.xyz/notebook-lawyer)
+* [2026-01-07, 19:40:07](https://news.ycombinator.com/item?id=46531425) - [The Inevitable Rise of the Art TV](https://www.wired.com/story/art-frame-tv-trends/)
 * [2026-01-07, 19:31:04](https://news.ycombinator.com/item?id=46531295) - [Show HN: A to Z – A word game I built from a childhood road trip memory](https://a26z.fun/)
 * [2026-01-07, 19:29:39](https://news.ycombinator.com/item?id=46531280) - [Introducing ChatGPT Health](https://openai.com/index/introducing-chatgpt-health/)
 * [2026-01-07, 19:19:46](https://news.ycombinator.com/item?id=46531150) - [A practical guide to converting YAML to JSON safely (with Kubernetes examples)](https://coderaviverma.github.io/yaml-to-json-guide/)
