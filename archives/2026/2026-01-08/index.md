@@ -51,6 +51,7 @@
 * [2026-01-08, 16:16:43](https://news.ycombinator.com/item?id=46542761) - [Digital Red Queen: Adversarial Program Evolution in Core War with LLMs](https://sakana.ai/drq/)
 * [2026-01-08, 16:11:48](https://news.ycombinator.com/item?id=46542683) - [Iran Goes Into IPv6 Blackout](https://radar.cloudflare.com/routing/ir)
 * [2026-01-08, 15:37:06](https://news.ycombinator.com/item?id=46542253) - [An Honest Review of Go](https://benraz.dev/blog/golang_review.html)
+* [2026-01-08, 15:36:25](https://news.ycombinator.com/item?id=46542247) - [Everything you never wanted to know about file locking (2010)](https://apenwarr.ca/log/20101213)
 * [2026-01-08, 15:20:52](https://news.ycombinator.com/item?id=46542046) - [Our Changing Planet, as Seen from Space](https://e360.yale.edu/digest/nasa-satellite-images-2025)
 * [2026-01-08, 15:20:15](https://news.ycombinator.com/item?id=46542036) - [AI Coding Assistants Are Getting Worse](https://spectrum.ieee.org/ai-coding-degrades)
 * [2026-01-08, 15:18:39](https://news.ycombinator.com/item?id=46542015) - [Japanese electronics store pleads for old PCs amid ongoing hardware shortage](https://www.tomshardware.com/desktops/pc-building/major-japanese-electronics-store-begs-customers-for-their-old-pcs-as-hardware-drought-continues-we-pretty-much-buy-any-pc-pleads-the-akihabara-outlet)
