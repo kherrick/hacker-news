@@ -2,7 +2,7 @@
 
 * [2026-01-13, 06:42:49](https://news.ycombinator.com/item?id=46597927) - [Chromium Has Merged JpegXL](https://chromium-review.googlesource.com/c/chromium/src/+/7184969)
 * [2026-01-13, 05:16:10](https://news.ycombinator.com/item?id=46597518) - [Text-Based Web Browsers](https://cssence.com/2026/text-based-web-browsers/)
-* [2026-01-12, 23:05:04](https://news.ycombinator.com/item?id=46595419) - [Google removes AI health summaries after investigation finds dangerous flaws](https://arstechnica.com/ai/2026/01/google-removes-some-ai-health-summaries-after-investigation-finds-dangerous-flaws/)
+* [2026-01-13, 05:13:00](https://news.ycombinator.com/item?id=46597505) - [Day Fifteen of Iran's Nationwide Protests: Sharp Rise in Human Casualties](https://www.en-hrana.org/day-fifteen-of-irans-nationwide-protests-sharp-rise-in-human-casualties/)
 * [2026-01-12, 22:30:33](https://news.ycombinator.com/item?id=46595130) - [F2 (YC S25) Is Hiring](https://www.ycombinator.com/companies/f2/jobs/cJsc7Fe-product-designer)
 * [2026-01-12, 20:26:47](https://news.ycombinator.com/item?id=46593802) - [Fabrice Bellard's TS Zip (2024)](https://www.bellard.org/ts_zip/)
 * [2026-01-12, 19:57:37](https://news.ycombinator.com/item?id=46593395) - [The chess bot on Delta Air Lines will destroy you (2024) [video]](https://www.youtube.com/watch?v=c0mLhHDcY3I)
