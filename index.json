@@ -71,6 +71,16 @@
   ],
   [
     [
+      "2026-01-12, 18:34:02",
+      "https://news.ycombinator.com/item?id=46592344"
+    ],
+    [
+      "Show HN: Yolobox – Run AI coding agents with full sudo without nuking home dir",
+      "https://github.com/finbarr/yolobox"
+    ]
+  ],
+  [
+    [
       "2026-01-12, 17:41:50",
       "https://news.ycombinator.com/item?id=46591708"
     ],
@@ -161,12 +171,12 @@
   ],
   [
     [
-      "2026-01-12, 13:57:32",
-      "https://news.ycombinator.com/item?id=46588572"
+      "2026-01-12, 13:22:44",
+      "https://news.ycombinator.com/item?id=46588132"
     ],
     [
-      "Reproducing DeepSeek's MHC: When Residual Connections Explode",
-      "https://taylorkolasinski.com/notes/mhc-reproduction/"
+      "Windows 8 Desktop Environment for Linux",
+      "https://github.com/er-bharat/Win8DE"
     ]
   ],
   [
@@ -191,12 +201,12 @@
   ],
   [
     [
-      "2026-01-12, 12:25:27",
-      "https://news.ycombinator.com/item?id=46587498"
+      "2026-01-12, 12:29:00",
+      "https://news.ycombinator.com/item?id=46587536"
     ],
     [
-      "Launch a Debugging Terminal into GitHub Actions",
-      "https://blog.gripdev.xyz/2026/01/10/actions-terminal-on-failure-for-debugging/"
+      "Ozempic is changing the foods Americans buy",
+      "https://news.cornell.edu/stories/2025/12/ozempic-changing-foods-americans-buy"
     ]
   ],
   [
@@ -231,6 +241,16 @@
   ],
   [
     [
+      "2026-01-09, 19:05:04",
+      "https://news.ycombinator.com/item?id=46557733"
+    ],
+    [
+      "The Cray-1 Computer System (1977) [pdf]",
+      "https://s3data.computerhistory.org/brochures/cray.cray1.1977.102638650.pdf"
+    ]
+  ],
+  [
+    [
       "2026-01-08, 16:50:58",
       "https://news.ycombinator.com/item?id=46543257"
     ],
@@ -241,21 +261,11 @@
   ],
   [
     [
-      "2026-01-08, 13:15:10",
-      "https://news.ycombinator.com/item?id=46540598"
-    ],
-    [
-      "Using DistributedDataParallel to train a base model from scratch in the cloud",
-      "https://www.gilesthomas.com/2026/01/llm-from-scratch-29-ddp-training-a-base-model-in-the-cloud"
-    ]
-  ],
-  [
-    [
       "2026-01-08, 12:07:31",
       "https://news.ycombinator.com/item?id=46540126"
     ],
     [
-      "'I rarely get outside': scientists ditch fieldwork in the age of AI",
+      "Some ecologists fear their field is losing touch with nature",
       "https://www.nature.com/articles/d41586-025-04150-w"
     ]
   ],
@@ -267,16 +277,6 @@
     [
       "Ansible battle tested hardening for Linux, SSH, Nginx, MySQL",
       "https://github.com/dev-sec/ansible-collection-hardening"
-    ]
-  ],
-  [
-    [
-      "2026-01-07, 16:36:22",
-      "https://news.ycombinator.com/item?id=46528502"
-    ],
-    [
-      "GitHub: A case study in link maintenance and 404 pages (2013)",
-      "https://chrismorgan.info/blog/github-links-case-study/"
     ]
   ],
   [
