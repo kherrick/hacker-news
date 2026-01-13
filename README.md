@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-01-13, 04:34:38](https://news.ycombinator.com/item?id=46597357) - [Powell vows to stand firm against 'unprecedented' administration threats](https://www.pbs.org/newshour/politics/watch-powell-vows-to-stand-firm-against-unprecedented-trump-administration-indictment-threats)
 * [2026-01-13, 03:27:05](https://news.ycombinator.com/item?id=46597030) - [PawSense: Catproof Your Computer](http://bitboost.com/pawsense/)
 * [2026-01-13, 03:26:23](https://news.ycombinator.com/item?id=46597023) - [Provenance Is the New Version Control](https://aicoding.leaflet.pub/3mcbiyal7jc2y)
 * [2026-01-12, 23:05:04](https://news.ycombinator.com/item?id=46595419) - [Google removes AI health summaries after investigation finds dangerous flaws](https://arstechnica.com/ai/2026/01/google-removes-some-ai-health-summaries-after-investigation-finds-dangerous-flaws/)
@@ -30,6 +29,7 @@
 * [2026-01-09, 03:24:12](https://news.ycombinator.com/item?id=46549714) - [Implementing a web server in a single printf() call (2014)](https://tinyhack.com/2014/03/12/implementing-a-web-server-in-a-single-printf-call/)
 * [2026-01-08, 15:03:35](https://news.ycombinator.com/item?id=46541848) - [Why BM25 queries with more terms can be faster (and other scaling surprises)](https://turbopuffer.com/blog/bm25-latency-musings)
 * [2026-01-08, 12:07:31](https://news.ycombinator.com/item?id=46540126) - [Some ecologists fear their field is losing touch with nature](https://www.nature.com/articles/d41586-025-04150-w)
+* [2026-01-07, 22:36:41](https://news.ycombinator.com/item?id=46534157) - [HP Reveals Keyboard Computer with Ryzen AI Chip](https://www.hp.com/us-en/desktops/business/eliteboard.html)
 
 ## [Archives](archives/index.md)
 
