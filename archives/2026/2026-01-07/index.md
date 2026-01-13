@@ -27,6 +27,7 @@
 * [2026-01-07, 19:09:43](https://news.ycombinator.com/item?id=46531015) - [Israel authorises electronic tracking of Palestinians – Middle East Monitor](https://www.middleeastmonitor.com/20260107-israel-authorises-electronic-tracking-of-palestinians/)
 * [2026-01-07, 18:57:18](https://news.ycombinator.com/item?id=46530832) - [Show HN: I visualized the entire history of Citi Bike in the browser](https://bikemap.nyc/)
 * [2026-01-07, 18:31:19](https://news.ycombinator.com/item?id=46530448) - [NPM to implement staged publishing after turbulent shift off classic tokens](https://socket.dev/blog/npm-to-implement-staged-publishing)
+* [2026-01-07, 18:18:50](https://news.ycombinator.com/item?id=46530236) - [Kafka Inc](https://libertiesjournal.com/online-articles/kafkainc/)
 * [2026-01-07, 18:16:07](https://news.ycombinator.com/item?id=46530196) - [Predict your house price](https://www.bloomberg.com/opinion/newsletters/2026-01-06/predict-your-house-price)
 * [2026-01-07, 17:58:01](https://news.ycombinator.com/item?id=46529856) - [Show HN: Seapie – a Python debugger where breakpoints drop into a REPL](https://github.com/hirsimaki-markus/seapie)
 * [2026-01-07, 17:54:25](https://news.ycombinator.com/item?id=46529797) - [A tab hoarder's journey to sanity](https://twitter.com/borisandcrispin/status/2008709479068794989)
