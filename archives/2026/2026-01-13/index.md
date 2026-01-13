@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-01-13](index.md)
 
+* [2026-01-13, 13:32:44](https://news.ycombinator.com/item?id=46600729) - [Why have death rates from accidental falls tripled?](https://usafacts.org/articles/why-have-death-rates-from-accidental-falls-tripled/)
+* [2026-01-13, 12:39:03](https://news.ycombinator.com/item?id=46600194) - [The UK is shaping a future of Precrime and dissent management](https://freedomnews.org.uk/2025/04/11/how-the-uk-is-shaping-a-future-of-precrime-and-dissent-management/)
+* [2026-01-13, 12:27:53](https://news.ycombinator.com/item?id=46600092) - [Show HN: SnackBase – Open-source, GxP-compliant back end for Python teams](https://snackbase.dev)
 * [2026-01-13, 12:00:12](https://news.ycombinator.com/item?id=46599897) - [Owners, not renters: Mozilla's open source AI strategy](https://blog.mozilla.org/en/mozilla/mozilla-open-source-ai-strategy/)
 * [2026-01-13, 11:23:28](https://news.ycombinator.com/item?id=46599604) - [Junior devs don't know the red flags we spot in seconds and we never tell them](https://yourlead.dev)
 * [2026-01-13, 11:19:01](https://news.ycombinator.com/item?id=46599574) - [Network of Scottish X accounts go dark amid Iran blackout](https://www.heraldscotland.com/news/25759181.network-scottish-x-accounts-go-dark-amid-iran-blackout/)
