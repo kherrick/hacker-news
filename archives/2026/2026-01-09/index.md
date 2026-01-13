@@ -68,4 +68,5 @@
 * [2026-01-09, 02:13:01](https://news.ycombinator.com/item?id=46549333) - [Show HN: Various shape regularization algorithms](https://github.com/nickponline/shreg)
 * [2026-01-09, 01:59:32](https://news.ycombinator.com/item?id=46549231) - [Show HN: A website that auctions itself daily](https://www.thedailyauction.com/)
 * [2026-01-09, 01:39:52](https://news.ycombinator.com/item?id=46549105) - [Logistics Is Dying; Or – Dude, Where's My Mail?](https://lagomor.ph/2026/01/logistics-is-dying-or-dude-wheres-my-mail/)
+* [2026-01-09, 01:29:29](https://news.ycombinator.com/item?id=46549039) - [Zirgen: Compiler for a Domain-Specific Language](https://github.com/risc0/zirgen)
 * [2026-01-09, 01:17:51](https://news.ycombinator.com/item?id=46548940) - [Why I Left iNaturalist](https://kueda.net/blog/2026/01/06/why-i-left-inat/)
