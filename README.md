@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-01-13, 15:18:43](https://news.ycombinator.com/item?id=46602102) - [Scott Adams has passed away](https://www.youtube.com/watch?v=Rs_JrOIo3SE)
+* [2026-01-13, 15:49:27](https://news.ycombinator.com/item?id=46602532) - [What a year of solar and batteries saved us in 2025](https://scotthelme.co.uk/what-a-year-of-solar-and-batteries-really-saved-us-in-2025/)
+* [2026-01-13, 15:39:17](https://news.ycombinator.com/item?id=46602383) - [Command K Bars](https://maggieappleton.com/command-bar)
 * [2026-01-13, 15:06:53](https://news.ycombinator.com/item?id=46601946) - [Stop Digging and Start Building: Why We Need Lego Parts, Not Deeper Type Systems](https://programmingsimplicity.substack.com/p/stop-digging-and-start-building-why)
 * [2026-01-13, 15:03:58](https://news.ycombinator.com/item?id=46601902) - [Anthropic has made a large contribution to the Python Software Foundation](https://discuss.python.org/t/anthropic-has-made-a-large-contribution-to-the-python-software-foundation-and-open-source-security/105694)
 * [2026-01-13, 14:14:18](https://news.ycombinator.com/item?id=46601157) - [Apple Creator Studio](https://www.apple.com/newsroom/2026/01/introducing-apple-creator-studio-an-inspiring-collection-of-creative-apps/)
@@ -8,7 +9,6 @@
 * [2026-01-13, 13:46:34](https://news.ycombinator.com/item?id=46600850) - [Local Journalism Is How Democracy Shows Up Close to Home](https://buckscountybeacon.com/2026/01/opinion-local-journalism-is-how-democracy-shows-up-close-to-home/)
 * [2026-01-13, 13:09:41](https://news.ycombinator.com/item?id=46600484) - [NASA topples towers used to test Saturn rockets, space shuttle](https://arstechnica.com/space/2026/01/nasa-topples-towers-used-to-test-saturn-rockets-space-shuttle/)
 * [2026-01-13, 12:27:53](https://news.ycombinator.com/item?id=46600092) - [Show HN: SnackBase – Open-source, GxP-compliant back end for Python teams](https://snackbase.dev)
-* [2026-01-13, 12:00:12](https://news.ycombinator.com/item?id=46599897) - [Owners, not renters: Mozilla's open source AI strategy](https://blog.mozilla.org/en/mozilla/mozilla-open-source-ai-strategy/)
 * [2026-01-13, 09:47:59](https://news.ycombinator.com/item?id=46598991) - [FOSS in times of war, scarcity and (adversarial) AI [video]](https://fosdem.org/2026/schedule/event/FE7ULY-foss-in-times-of-war-scarcity-and-ai/)
 * [2026-01-13, 06:42:49](https://news.ycombinator.com/item?id=46597927) - [Chromium Has Merged JpegXL](https://chromium-review.googlesource.com/c/chromium/src/+/7184969)
 * [2026-01-13, 05:16:10](https://news.ycombinator.com/item?id=46597518) - [Text-based web browsers](https://cssence.com/2026/text-based-web-browsers/)

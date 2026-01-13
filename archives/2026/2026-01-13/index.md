@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-01-13](index.md)
 
+* [2026-01-13, 15:49:27](https://news.ycombinator.com/item?id=46602532) - [What a year of solar and batteries saved us in 2025](https://scotthelme.co.uk/what-a-year-of-solar-and-batteries-really-saved-us-in-2025/)
+* [2026-01-13, 15:39:17](https://news.ycombinator.com/item?id=46602383) - [Command K Bars](https://maggieappleton.com/command-bar)
 * [2026-01-13, 15:18:43](https://news.ycombinator.com/item?id=46602102) - [Scott Adams has passed away](https://www.youtube.com/watch?v=Rs_JrOIo3SE)
 * [2026-01-13, 15:06:53](https://news.ycombinator.com/item?id=46601946) - [Stop Digging and Start Building: Why We Need Lego Parts, Not Deeper Type Systems](https://programmingsimplicity.substack.com/p/stop-digging-and-start-building-why)
 * [2026-01-13, 15:03:58](https://news.ycombinator.com/item?id=46601902) - [Anthropic has made a large contribution to the Python Software Foundation](https://discuss.python.org/t/anthropic-has-made-a-large-contribution-to-the-python-software-foundation-and-open-source-security/105694)
