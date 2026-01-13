@@ -23,6 +23,7 @@
 * [2026-01-09, 18:48:30](https://news.ycombinator.com/item?id=46557489) - [JavaScript Demos in 140 Characters](https://www.dwitter.net/top)
 * [2026-01-09, 18:48:30](https://news.ycombinator.com/item?id=46557489) - [JavaScript Demos in 140 Characters](https://beta.dwitter.net)
 * [2026-01-09, 18:38:34](https://news.ycombinator.com/item?id=46557352) - [Turn a single image into a navigable 3D Gaussian Splat with depth](https://lab.revelium.studio/ml-sharp)
+* [2026-01-09, 18:35:13](https://news.ycombinator.com/item?id=46557312) - [Going for Gold: The Story of the Golden Lego RCX and NXT](https://bricknerd.com/home/going-for-gold-the-story-of-the-golden-lego-rcx-and-nxt-9-9-21)
 * [2026-01-09, 18:29:35](https://news.ycombinator.com/item?id=46557233) - [Exercise can be nearly as effective as therapy for depression](https://www.sciencedaily.com/releases/2026/01/260107225516.htm)
 * [2026-01-09, 18:23:38](https://news.ycombinator.com/item?id=46557146) - [Deconstructing the LuaJIT Pseudo Memory Leak](https://blog.openresty.com/en/luajit-plus/)
 * [2026-01-09, 18:17:24](https://news.ycombinator.com/item?id=46557057) - [AI Zealotry](https://matthewrocklin.com/ai-zealotry/)
