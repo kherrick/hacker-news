@@ -22,6 +22,7 @@
 * [2026-01-11, 20:23:14](https://news.ycombinator.com/item?id=46579612) - [Show HN: 1D-Pong Game at 39C3](https://github.com/ogermer/1d-pong)
 * [2026-01-11, 20:08:40](https://news.ycombinator.com/item?id=46579451) - [Desperately Seeking Squircles (2018)](https://www.figma.com/blog/desperately-seeking-squircles/)
 * [2026-01-11, 20:03:20](https://news.ycombinator.com/item?id=46579397) - [guys why does armenian completely break Claude](https://twitter.com/dyushag/status/1993143599286886525)
+* [2026-01-11, 20:02:21](https://news.ycombinator.com/item?id=46579387) - [Systematically generating tests that would have caught Anthropic's top‑K bug](https://theorem.dev/blog/anthropic-bug-test/)
 * [2026-01-11, 20:01:14](https://news.ycombinator.com/item?id=46579374) - [Sampling at negative temperature](https://cavendishlabs.org/blog/negative-temperature/)
 * [2026-01-11, 19:26:13](https://news.ycombinator.com/item?id=46578957) - [\"Scholars Will Call It Nonsense\" the Structure of Erich von Däniken's Argument](https://www.penn.museum/sites/expedition/scholars-will-call-it-nonsense/)
 * [2026-01-11, 19:23:58](https://news.ycombinator.com/item?id=46578921) - [Open-source iCloud Photos Downloader (AKA escape from iCloud)](https://github.com/icloud-photos-downloader/icloud_photos_downloader)
