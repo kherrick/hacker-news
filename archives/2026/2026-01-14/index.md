@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-01-14](index.md)
 
+* [2026-01-14, 22:42:12](https://news.ycombinator.com/item?id=46624927) - [US, for first time in 50 years, experienced negative net migration in 2025](https://abcnews.go.com/US/us-1st-time-50-years-experienced-negative-net/story?id=129175522)
 * [2026-01-14, 22:30:16](https://news.ycombinator.com/item?id=46624731) - [ChromaDB Explorer](https://www.chroma-explorer.com/)
 * [2026-01-14, 22:19:36](https://news.ycombinator.com/item?id=46624563) - [Training my smartwatch to track intelligence](https://dmvaldman.github.io/rooklift/)
 * [2026-01-14, 22:18:04](https://news.ycombinator.com/item?id=46624541) - [Scaling long-running autonomous coding](https://cursor.com/blog/scaling-agents)
