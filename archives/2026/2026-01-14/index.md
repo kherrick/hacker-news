@@ -4,6 +4,11 @@
 
 ### [Archives](../../index.md) for [2026-01-14](index.md)
 
+* [2026-01-14, 17:43:27](https://news.ycombinator.com/item?id=46619275) - [Dutch police have their own car stolen during car theft chase](https://dutchreview.com/news/dutch-police-car-stolen-during-chase/)
+* [2026-01-14, 17:27:22](https://news.ycombinator.com/item?id=46619030) - [So, You've Hit an Age Gate. What Now?](https://www.eff.org/deeplinks/2026/01/so-youve-hit-age-gate-what-now)
+* [2026-01-14, 17:20:09](https://news.ycombinator.com/item?id=46618901) - [Ford F-150 Lightning outsold the Cybertruck and was then canceled for poor sales](https://electrek.co/2026/01/13/ford-f150-lightning-outsold-tesla-cybertruck-canceled-not-selling-enough/)
+* [2026-01-14, 17:13:48](https://news.ycombinator.com/item?id=46618809) - [US freezes visas for 75 nations](https://english.mathrubhumi.com/news/world/us-visa-ban-public-charge-bjbpzu02)
+* [2026-01-14, 17:07:42](https://news.ycombinator.com/item?id=46618714) - [Ask HN: Could you share your personal website here?](https://news.ycombinator.com/item?id=46618714)
 * [2026-01-14, 16:57:07](https://news.ycombinator.com/item?id=46618544) - [4k tons of potatoes to be given away for free in Berlin](https://www.the-berliner.com/english-news-berlin/4000-tons-of-potatoes-to-be-given-away-for-free/)
 * [2026-01-14, 16:39:43](https://news.ycombinator.com/item?id=46618272) - [How have prices changed in a year? NPR checked 114 items at Walmart](https://www.npr.org/2026/01/14/nx-s1-5638908/walmart-prices-inflation-affordability-shrinkflation)
 * [2026-01-14, 16:28:53](https://news.ycombinator.com/item?id=46618087) - [The Unbearable Frustration of Figuring Out APIs](https://blog.ar-ms.me/thoughts/translation-cli/)
