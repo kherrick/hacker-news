@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-01-14, 09:25:58",
+      "https://news.ycombinator.com/item?id=46614037"
+    ],
+    [
+      "I Love You, Redis, but I'm Leaving You for SolidQueue",
+      "https://www.simplethread.com/redis-solidqueue/"
+    ]
+  ],
+  [
+    [
       "2026-01-14, 09:20:19",
       "https://news.ycombinator.com/item?id=46613997"
     ],
@@ -71,16 +81,6 @@
   ],
   [
     [
-      "2026-01-14, 01:13:59",
-      "https://news.ycombinator.com/item?id=46611063"
-    ],
-    [
-      "Exa-d: How to store the web in S3",
-      "https://exa.ai/blog/exa-d"
-    ]
-  ],
-  [
-    [
       "2026-01-14, 01:01:12",
       "https://news.ycombinator.com/item?id=46610967"
     ],
@@ -107,16 +107,6 @@
     [
       "A 40-line fix eliminated a 400x performance gap",
       "https://questdb.com/blog/jvm-current-thread-user-time/"
-    ]
-  ],
-  [
-    [
-      "2026-01-13, 22:49:51",
-      "https://news.ycombinator.com/item?id=46609492"
-    ],
-    [
-      "When hardware goes end-of-life, companies need to open-source the software",
-      "https://www.marcia.no/words/eol"
     ]
   ],
   [
@@ -257,6 +247,16 @@
     [
       "Show HN: 1D-Pong Game at 39C3",
       "https://github.com/ogermer/1d-pong"
+    ]
+  ],
+  [
+    [
+      "2026-01-10, 04:44:39",
+      "https://news.ycombinator.com/item?id=46562855"
+    ],
+    [
+      "The Stick in the Stream",
+      "https://randsinrepose.com/archives/the-stick-in-the-stream/"
     ]
   ],
   [
