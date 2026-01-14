@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-01-14, 22:30:16",
+      "https://news.ycombinator.com/item?id=46624731"
+    ],
+    [
+      "ChromaDB Explorer",
+      "https://www.chroma-explorer.com/"
+    ]
+  ],
+  [
+    [
+      "2026-01-14, 22:19:36",
+      "https://news.ycombinator.com/item?id=46624563"
+    ],
+    [
+      "Training my smartwatch to track intelligence",
+      "https://dmvaldman.github.io/rooklift/"
+    ]
+  ],
+  [
+    [
       "2026-01-14, 22:18:04",
       "https://news.ycombinator.com/item?id=46624541"
     ],
@@ -17,6 +37,16 @@
     [
       "The State of OpenSSL for pyca/cryptography",
       "https://cryptography.io/en/latest/statements/state-of-openssl/"
+    ]
+  ],
+  [
+    [
+      "2026-01-14, 21:55:05",
+      "https://news.ycombinator.com/item?id=46624208"
+    ],
+    [
+      "Simple to Ornate and Back Again (2024)",
+      "https://josem.co/simple-to-ornate-and-back-again/"
     ]
   ],
   [
@@ -51,32 +81,12 @@
   ],
   [
     [
-      "2026-01-14, 20:02:36",
-      "https://news.ycombinator.com/item?id=46622139"
-    ],
-    [
-      "Show HN: Harmony – AI notetaker for Discord",
-      "https://harmonynotetaker.ai/"
-    ]
-  ],
-  [
-    [
       "2026-01-14, 19:53:15",
       "https://news.ycombinator.com/item?id=46621945"
     ],
     [
       "Every country should set 16 as the minimum age for social media accounts",
       "https://www.afterbabel.com/p/why-every-country-should-set-16"
-    ]
-  ],
-  [
-    [
-      "2026-01-14, 19:45:21",
-      "https://news.ycombinator.com/item?id=46621786"
-    ],
-    [
-      "Show HN: A fast CLI and MCP server for managing Lambda cloud GPU instances",
-      "https://github.com/Strand-AI/lambda-cli"
     ]
   ],
   [
@@ -141,26 +151,6 @@
   ],
   [
     [
-      "2026-01-14, 16:07:34",
-      "https://news.ycombinator.com/item?id=46617744"
-    ],
-    [
-      "How much of my observability data is waste?",
-      "https://usetero.com/blog/the-question-your-observability-vendor-wont-answer"
-    ]
-  ],
-  [
-    [
-      "2026-01-14, 16:04:53",
-      "https://news.ycombinator.com/item?id=46617705"
-    ],
-    [
-      "Show HN: A 10KiB kernel for cloud apps",
-      "https://github.com/ReturnInfinity/BareMetal-Cloud"
-    ]
-  ],
-  [
-    [
       "2026-01-14, 16:03:11",
       "https://news.ycombinator.com/item?id=46617668"
     ],
@@ -187,16 +177,6 @@
     [
       "Show HN: Digital Carrot – Block social media with programmable rules and goals",
       "https://www.digitalcarrot.app/"
-    ]
-  ],
-  [
-    [
-      "2026-01-14, 14:35:50",
-      "https://news.ycombinator.com/item?id=46616496"
-    ],
-    [
-      "Edge of Emulation: Game Boy Sewing Machines (2020)",
-      "https://shonumi.github.io/articles/art22.html"
     ]
   ],
   [
@@ -251,6 +231,16 @@
   ],
   [
     [
+      "2026-01-14, 08:21:19",
+      "https://news.ycombinator.com/item?id=46613624"
+    ],
+    [
+      "The hunt for a stolen Jackson Pollock",
+      "https://www.washingtonpost.com/entertainment/art/interactive/2026/jackson-pollock-theft-isaacs-family/"
+    ]
+  ],
+  [
+    [
       "2026-01-11, 02:58:36",
       "https://news.ycombinator.com/item?id=46572307"
     ],
@@ -287,6 +277,16 @@
     [
       "You Can Just Buy Far-UVC",
       "https://www.jefftk.com/p/you-can-just-buy-far-uvc"
+    ]
+  ],
+  [
+    [
+      "2026-01-10, 16:19:42",
+      "https://news.ycombinator.com/item?id=46566974"
+    ],
+    [
+      "Generate QR Codes with Pure SQL in PostgreSQL",
+      "https://tanelpoder.com/posts/generate-qr-code-with-pure-sql-in-postgres/"
     ]
   ],
   [
