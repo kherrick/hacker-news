@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-01-14, 09:20:19](https://news.ycombinator.com/item?id=46613997) - [LLMs are a 400-year-long confidence trick](https://tomrenner.com/posts/400-year-confidence-trick/)
 * [2026-01-14, 03:08:37](https://news.ycombinator.com/item?id=46611823) - [1000 Blank White Cards](https://en.wikipedia.org/wiki/1000_Blank_White_Cards)
 * [2026-01-14, 02:49:25](https://news.ycombinator.com/item?id=46611667) - [The Gleam Programming Language](https://gleam.run/)
 * [2026-01-14, 02:29:08](https://news.ycombinator.com/item?id=46611550) - [Stop using natural language interfaces](https://tidepool.leaflet.pub/3mcbegnuf2k2i)
@@ -13,7 +14,6 @@
 * [2026-01-13, 22:49:51](https://news.ycombinator.com/item?id=46609492) - [When hardware goes end-of-life, companies need to open-source the software](https://www.marcia.no/words/eol)
 * [2026-01-13, 18:58:55](https://news.ycombinator.com/item?id=46605950) - [A university got itself banned from the Linux kernel (2021)](https://www.theverge.com/2021/4/30/22410164/linux-kernel-university-of-minnesota-banned-open-source)
 * [2026-01-13, 18:54:30](https://news.ycombinator.com/item?id=46605854) - [No management needed: anti-patterns in early-stage engineering teams](https://www.ablg.io/blog/no-management-needed)
-* [2026-01-13, 18:43:28](https://news.ycombinator.com/item?id=46605675) - [Show HN: Nogic – VS Code extension that visualizes your codebase as a graph](https://marketplace.visualstudio.com/items?itemName=Nogic.nogic)
 * [2026-01-13, 18:31:50](https://news.ycombinator.com/item?id=46605490) - [AI generated music barred from Bandcamp](https://old.reddit.com/r/BandCamp/comments/1qbw8ba/ai_generated_music_on_bandcamp/)
 * [2026-01-13, 18:22:00](https://news.ycombinator.com/item?id=46605332) - [The truth behind the 2026 J.P. Morgan Healthcare Conference](https://www.owlposting.com/p/the-truth-behind-the-2026-jp-morgan)
 * [2026-01-13, 17:26:22](https://news.ycombinator.com/item?id=46604308) - [Show HN: The Tsonic Programming Language](https://tsonic.org)
