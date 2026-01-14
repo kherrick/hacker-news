@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-01-14, 11:21:15](https://news.ycombinator.com/item?id=46614777) - [UK secures record supply of offshore wind projects](https://www.bbc.co.uk/news/articles/cn9zyx150xdo)
 * [2026-01-14, 09:25:58](https://news.ycombinator.com/item?id=46614037) - [I Love You, Redis, but I'm Leaving You for SolidQueue](https://www.simplethread.com/redis-solidqueue/)
-* [2026-01-14, 09:20:19](https://news.ycombinator.com/item?id=46613997) - [LLMs are a 400-year-long confidence trick](https://tomrenner.com/posts/400-year-confidence-trick/)
 * [2026-01-14, 03:08:37](https://news.ycombinator.com/item?id=46611823) - [1000 Blank White Cards](https://en.wikipedia.org/wiki/1000_Blank_White_Cards)
 * [2026-01-14, 02:49:25](https://news.ycombinator.com/item?id=46611667) - [The Gleam Programming Language](https://gleam.run/)
 * [2026-01-14, 02:29:08](https://news.ycombinator.com/item?id=46611550) - [Stop using natural language interfaces](https://tidepool.leaflet.pub/3mcbegnuf2k2i)
