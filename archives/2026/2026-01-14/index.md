@@ -4,8 +4,13 @@
 
 ### [Archives](../../index.md) for [2026-01-14](index.md)
 
+* [2026-01-14, 20:18:16](https://news.ycombinator.com/item?id=46622463) - [Wind power slashed 4.6B euros off electricity bills in Spain last year](https://www.surinenglish.com/spain/wind-power-slashes-billion-euros-off-electricity-bills-20251217082020-nt.html)
+* [2026-01-14, 20:02:36](https://news.ycombinator.com/item?id=46622139) - [Show HN: Harmony – AI notetaker for Discord](https://harmonynotetaker.ai/)
 * [2026-01-14, 19:53:15](https://news.ycombinator.com/item?id=46621945) - [Why Every Country Should Set 16 as the Minimum Age for Social Media Accounts](https://www.afterbabel.com/p/why-every-country-should-set-16)
+* [2026-01-14, 19:45:21](https://news.ycombinator.com/item?id=46621786) - [Show HN: A fast CLI and MCP server for managing Lambda cloud GPU instances](https://github.com/Strand-AI/lambda-cli)
+* [2026-01-14, 19:31:48](https://news.ycombinator.com/item?id=46621518) - [The string theory hype machine will never die](https://www.math.columbia.edu/~woit/wordpress/?p=15407)
 * [2026-01-14, 19:13:14](https://news.ycombinator.com/item?id=46621136) - [Verizon, AT&T, and T-Mobile are all having outages now](https://www.howtogeek.com/verizon-att-and-t-mobile-are-all-having-outages-right-now/)
+* [2026-01-14, 19:06:23](https://news.ycombinator.com/item?id=46620990) - [Ask HN: How do you safely give LLMs SSH/DB access?](https://news.ycombinator.com/item?id=46620990)
 * [2026-01-14, 19:03:43](https://news.ycombinator.com/item?id=46620941) - [US to suspend immigrant visa processing for 75 nations, State Department says](https://www.reuters.com/world/us/us-suspend-visa-processing-75-nations-next-week-fox-news-reports-2026-01-14/)
 * [2026-01-14, 18:58:16](https://news.ycombinator.com/item?id=46620835) - [East coast. Verizon outage in US](https://www.firstcoastnews.com/article/news/nation-world/verizon-outage-reported/507-ef3cb3d0-f595-432f-9f84-d1690a5085a7)
 * [2026-01-14, 18:23:17](https://news.ycombinator.com/item?id=46620125) - [Technical Analysis of Starlink Terminal GPS Spoofing/Jamming Detection in Iran](https://github.com/narimangharib/starlink-iran-gps-spoofing/blob/main/starlink-iran.md)
@@ -35,6 +40,7 @@
 * [2026-01-14, 12:42:02](https://news.ycombinator.com/item?id=46615374) - [Why NUKEMAP isn't on Google Maps anymore (2019)](https://blog.nuclearsecrecy.com/2019/12/13/why-nukemap-isnt-on-google-maps-anymore/)
 * [2026-01-14, 12:25:59](https://news.ycombinator.com/item?id=46615235) - [Lago (Open-Source Billing) is hiring across teams and geos](https://news.ycombinator.com/item?id=46615235)
 * [2026-01-14, 12:14:48](https://news.ycombinator.com/item?id=46615167) - [Servo 2025 Stats](https://blogs.igalia.com/mrego/servo-2025-stats/)
+* [2026-01-14, 12:10:03](https://news.ycombinator.com/item?id=46615137) - [Ask HN: Unemployed almost a year after graduating MIT – a rant](https://news.ycombinator.com/item?id=46615137)
 * [2026-01-14, 11:47:27](https://news.ycombinator.com/item?id=46614963) - [UK Officials could face US entry ban over Twitter policy](https://parliamentnews.co.uk/uk-officials-could-face-us-entry-ban-over-x-policy)
 * [2026-01-14, 11:21:15](https://news.ycombinator.com/item?id=46614777) - [UK secures record supply of offshore wind projects](https://www.bbc.co.uk/news/articles/cn9zyx150xdo)
 * [2026-01-14, 11:09:35](https://news.ycombinator.com/item?id=46614688) - [Show HN: Tiny FOSS Compass and Navigation App (<2MB)](https://github.com/CompassMB/MBCompass)
