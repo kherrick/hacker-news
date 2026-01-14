@@ -4,8 +4,11 @@
 
 ### [Archives](../../index.md) for [2026-01-14](index.md)
 
+* [2026-01-14, 22:30:16](https://news.ycombinator.com/item?id=46624731) - [ChromaDB Explorer](https://www.chroma-explorer.com/)
+* [2026-01-14, 22:19:36](https://news.ycombinator.com/item?id=46624563) - [Training my smartwatch to track intelligence](https://dmvaldman.github.io/rooklift/)
 * [2026-01-14, 22:18:04](https://news.ycombinator.com/item?id=46624541) - [Scaling long-running autonomous coding](https://cursor.com/blog/scaling-agents)
 * [2026-01-14, 22:04:10](https://news.ycombinator.com/item?id=46624352) - [The State of OpenSSL for pyca/cryptography](https://cryptography.io/en/latest/statements/state-of-openssl/)
+* [2026-01-14, 21:55:05](https://news.ycombinator.com/item?id=46624208) - [Simple to Ornate and Back Again (2024)](https://josem.co/simple-to-ornate-and-back-again/)
 * [2026-01-14, 21:26:51](https://news.ycombinator.com/item?id=46623761) - [Sun Position Calculator](https://drajmarsh.bitbucket.io/earthsun.html)
 * [2026-01-14, 20:54:39](https://news.ycombinator.com/item?id=46623195) - [The Influentists: AI hype without proof](https://carette.xyz/posts/influentists/)
 * [2026-01-14, 20:18:16](https://news.ycombinator.com/item?id=46622463) - [Wind power slashed 4.6B euros off electricity bills in Spain last year](https://www.surinenglish.com/spain/wind-power-slashes-billion-euros-off-electricity-bills-20251217082020-nt.html)
@@ -57,6 +60,7 @@
 * [2026-01-14, 10:08:05](https://news.ycombinator.com/item?id=46614285) - [System Programming in Linux: A Hands-On Introduction \"Demo\" Programs](https://github.com/stewartweiss/intro-linux-sys-prog)
 * [2026-01-14, 09:25:58](https://news.ycombinator.com/item?id=46614037) - [I Love You, Redis, but I'm Leaving You for SolidQueue](https://www.simplethread.com/redis-solidqueue/)
 * [2026-01-14, 09:20:19](https://news.ycombinator.com/item?id=46613997) - [LLMs are a 400-year-long confidence trick](https://tomrenner.com/posts/400-year-confidence-trick/)
+* [2026-01-14, 08:21:19](https://news.ycombinator.com/item?id=46613624) - [The hunt for a stolen Jackson Pollock](https://www.washingtonpost.com/entertainment/art/interactive/2026/jackson-pollock-theft-isaacs-family/)
 * [2026-01-14, 06:16:24](https://news.ycombinator.com/item?id=46612934) - [DHS Deportation Reels Are Getting Copyright Strikes for Unlicensed Music Use](https://reason.com/2026/01/11/the-deportation-playlist-is-mostly-stolen/)
 * [2026-01-14, 03:35:35](https://news.ycombinator.com/item?id=46612001) - [AI will compromise your cybersecurity posture](https://rys.io/en/181.html)
 * [2026-01-14, 03:08:37](https://news.ycombinator.com/item?id=46611823) - [1000 Blank White Cards](https://en.wikipedia.org/wiki/1000_Blank_White_Cards)

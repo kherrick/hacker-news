@@ -30,6 +30,7 @@
 * [2026-01-10, 16:56:34](https://news.ycombinator.com/item?id=46567392) - [AI is a business model stress test](https://dri.es/ai-is-a-business-model-stress-test)
 * [2026-01-10, 16:43:19](https://news.ycombinator.com/item?id=46567218) - [Drones that recharge directly on transmission lines](https://www.ycombinator.com/companies/voltair)
 * [2026-01-10, 16:36:56](https://news.ycombinator.com/item?id=46567138) - [Microsoft May Have Created the Slowest Windows in 25 Years with Windows 11](https://www.eteknix.com/microsoft-may-have-created-the-slowest-windows-in-25-years-with-windows-11/)
+* [2026-01-10, 16:19:42](https://news.ycombinator.com/item?id=46566974) - [Generate QR Codes with Pure SQL in PostgreSQL](https://tanelpoder.com/posts/generate-qr-code-with-pure-sql-in-postgres/)
 * [2026-01-10, 16:03:55](https://news.ycombinator.com/item?id=46566812) - [Open Chaos: A self-evolving open-source project](https://www.openchaos.dev/)
 * [2026-01-10, 15:41:28](https://news.ycombinator.com/item?id=46566614) - [2026 looks ominous for media, from Hollywood to journalism](https://www.npr.org/2026/01/10/nx-s1-5599552/media-2026-warner-paramount-netfilx-trump)
 * [2026-01-10, 15:26:26](https://news.ycombinator.com/item?id=46566465) - [I replaced Windows with Linux and everything's going great](https://www.theverge.com/tech/858910/linux-diary-gaming-desktop)
