@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-01-14](index.md)
 
+* [2026-01-14, 06:16:24](https://news.ycombinator.com/item?id=46612934) - [DHS Deportation Reels Are Getting Copyright Strikes for Unlicensed Music Use](https://reason.com/2026/01/11/the-deportation-playlist-is-mostly-stolen/)
 * [2026-01-14, 03:35:35](https://news.ycombinator.com/item?id=46612001) - [AI will compromise your cybersecurity posture](https://rys.io/en/181.html)
 * [2026-01-14, 03:08:37](https://news.ycombinator.com/item?id=46611823) - [1000 Blank White Cards](https://en.wikipedia.org/wiki/1000_Blank_White_Cards)
 * [2026-01-14, 02:49:25](https://news.ycombinator.com/item?id=46611667) - [The Gleam Programming Language](https://gleam.run/)
