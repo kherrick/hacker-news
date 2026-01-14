@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-01-14, 20:18:16",
+      "https://news.ycombinator.com/item?id=46622463"
+    ],
+    [
+      "Wind power slashed 4.6B euros off electricity bills in Spain last year",
+      "https://www.surinenglish.com/spain/wind-power-slashes-billion-euros-off-electricity-bills-20251217082020-nt.html"
+    ]
+  ],
+  [
+    [
+      "2026-01-14, 20:02:36",
+      "https://news.ycombinator.com/item?id=46622139"
+    ],
+    [
+      "Show HN: Harmony – AI notetaker for Discord",
+      "https://harmonynotetaker.ai/"
+    ]
+  ],
+  [
+    [
       "2026-01-14, 19:53:15",
       "https://news.ycombinator.com/item?id=46621945"
     ],
@@ -11,22 +31,42 @@
   ],
   [
     [
-      "2026-01-14, 18:58:16",
-      "https://news.ycombinator.com/item?id=46620835"
+      "2026-01-14, 19:45:21",
+      "https://news.ycombinator.com/item?id=46621786"
     ],
     [
-      "East coast. Verizon outage in US",
-      "https://www.firstcoastnews.com/article/news/nation-world/verizon-outage-reported/507-ef3cb3d0-f595-432f-9f84-d1690a5085a7"
+      "Show HN: A fast CLI and MCP server for managing Lambda cloud GPU instances",
+      "https://github.com/Strand-AI/lambda-cli"
     ]
   ],
   [
     [
-      "2026-01-14, 18:23:17",
-      "https://news.ycombinator.com/item?id=46620125"
+      "2026-01-14, 19:31:48",
+      "https://news.ycombinator.com/item?id=46621518"
     ],
     [
-      "Technical Analysis of Starlink Terminal GPS Spoofing/Jamming Detection in Iran",
-      "https://github.com/narimangharib/starlink-iran-gps-spoofing/blob/main/starlink-iran.md"
+      "The string theory hype machine will never die",
+      "https://www.math.columbia.edu/~woit/wordpress/?p=15407"
+    ]
+  ],
+  [
+    [
+      "2026-01-14, 19:06:23",
+      "https://news.ycombinator.com/item?id=46620990"
+    ],
+    [
+      "Ask HN: How do you safely give LLMs SSH/DB access?",
+      "https://news.ycombinator.com/item?id=46620990"
+    ]
+  ],
+  [
+    [
+      "2026-01-14, 18:58:16",
+      "https://news.ycombinator.com/item?id=46620835"
+    ],
+    [
+      "Verizon outages reported across U.S.",
+      "https://www.firstcoastnews.com/article/news/nation-world/verizon-outage-reported/507-ef3cb3d0-f595-432f-9f84-d1690a5085a7"
     ]
   ],
   [
@@ -35,18 +75,8 @@
       "https://news.ycombinator.com/item?id=46619030"
     ],
     [
-      "So, You've Hit an Age Gate. What Now?",
+      "So, you've hit an age gate. what now?",
       "https://www.eff.org/deeplinks/2026/01/so-youve-hit-age-gate-what-now"
-    ]
-  ],
-  [
-    [
-      "2026-01-14, 17:20:09",
-      "https://news.ycombinator.com/item?id=46618901"
-    ],
-    [
-      "Ford F-150 Lightning outsold the Cybertruck and was then canceled for poor sales",
-      "https://electrek.co/2026/01/13/ford-f150-lightning-outsold-tesla-cybertruck-canceled-not-selling-enough/"
     ]
   ],
   [
@@ -55,7 +85,7 @@
       "https://news.ycombinator.com/item?id=46618714"
     ],
     [
-      "Ask HN: Could you share your personal website here?",
+      "Ask HN: Share your personal website",
       "https://news.ycombinator.com/item?id=46618714"
     ]
   ],
@@ -87,16 +117,6 @@
     [
       "GitHub should charge everyone $1 more per month to fund open source",
       "https://blog.greg.technology/2025/11/27/github-should-charge-1-dollar-more-per-month.html"
-    ]
-  ],
-  [
-    [
-      "2026-01-14, 16:07:34",
-      "https://news.ycombinator.com/item?id=46617744"
-    ],
-    [
-      "I built Vector. Now I'm answering the question your observability vendor won't",
-      "https://usetero.com/blog/the-question-your-observability-vendor-wont-answer"
     ]
   ],
   [
@@ -151,26 +171,6 @@
   ],
   [
     [
-      "2026-01-14, 14:57:30",
-      "https://news.ycombinator.com/item?id=46616745"
-    ],
-    [
-      "FBI raids Washington Post reporter's home",
-      "https://www.theguardian.com/us-news/2026/jan/14/fbi-raid-washington-post-hannah-natanson"
-    ]
-  ],
-  [
-    [
-      "2026-01-14, 14:42:06",
-      "https://news.ycombinator.com/item?id=46616569"
-    ],
-    [
-      "Never-before-seen Linux malware is \"more advanced than typical\"",
-      "https://arstechnica.com/security/2026/01/never-before-seen-linux-malware-is-far-more-advanced-than-typical/"
-    ]
-  ],
-  [
-    [
       "2026-01-14, 14:35:50",
       "https://news.ycombinator.com/item?id=46616496"
     ],
@@ -187,6 +187,16 @@
     [
       "Lago (Open-Source Billing) is hiring across teams and geos",
       "https://news.ycombinator.com/item?id=46615235"
+    ]
+  ],
+  [
+    [
+      "2026-01-14, 12:10:03",
+      "https://news.ycombinator.com/item?id=46615137"
+    ],
+    [
+      "Ask HN: Unemployed almost a year after graduating MIT – a rant",
+      "https://news.ycombinator.com/item?id=46615137"
     ]
   ],
   [
@@ -261,32 +271,22 @@
   ],
   [
     [
-      "2026-01-11, 20:02:21",
-      "https://news.ycombinator.com/item?id=46579387"
-    ],
-    [
-      "Systematically generating tests that would have caught Anthropic's top‑K bug",
-      "https://theorem.dev/blog/anthropic-bug-test/"
-    ]
-  ],
-  [
-    [
       "2026-01-11, 02:58:36",
       "https://news.ycombinator.com/item?id=46572307"
     ],
     [
-      "Why some clothes shrink in the wash – and how to 'unshrink' them",
+      "Why some clothes shrink in the wash and how to unshrink them",
       "https://www.swinburne.edu.au/news/2025/08/why-some-clothes-shrink-in-the-wash-and-how-to-unshrink-them/"
     ]
   ],
   [
     [
-      "2026-01-10, 18:26:56",
-      "https://news.ycombinator.com/item?id=46568472"
+      "2026-01-10, 22:58:25",
+      "https://news.ycombinator.com/item?id=46570811"
     ],
     [
-      "You Can Just Buy Far-UVC",
-      "https://www.jefftk.com/p/you-can-just-buy-far-uvc"
+      "Meet ski map artist James Niehues, the 'Monet of the mountains'",
+      "https://adventure.com/ski-map-artist-james-niehues/"
     ]
   ],
   [
