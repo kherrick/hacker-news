@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-01-14, 15:38:37](https://news.ycombinator.com/item?id=46617280) - [How Iran Switched Off the Internet](https://www.ft.com/content/5d848323-84a9-4512-abd2-dd09e0a786a3)
 * [2026-01-14, 14:57:30](https://news.ycombinator.com/item?id=46616745) - [FBI raids Washington Post reporter's home in 'highly unusual and aggressive' act](https://www.theguardian.com/us-news/2026/jan/14/fbi-raid-washington-post-hannah-natanson)
 * [2026-01-14, 14:42:06](https://news.ycombinator.com/item?id=46616569) - [Never-before-seen Linux malware is \"more advanced than typical\"](https://arstechnica.com/security/2026/01/never-before-seen-linux-malware-is-far-more-advanced-than-typical/)
 * [2026-01-14, 14:35:50](https://news.ycombinator.com/item?id=46616496) - [Edge of Emulation: Game Boy Sewing Machines](https://shonumi.github.io/articles/art22.html)
@@ -23,7 +24,6 @@
 * [2026-01-13, 15:59:59](https://news.ycombinator.com/item?id=46602737) - [vLLM large scale serving: DeepSeek 2.2k tok/s/h200 with wide-ep](https://blog.vllm.ai/2025/12/17/large-scale-serving.html)
 * [2026-01-13, 15:52:33](https://news.ycombinator.com/item?id=46602591) - [Every GitHub object has two IDs](https://www.greptile.com/blog/github-ids)
 * [2026-01-12, 17:50:01](https://news.ycombinator.com/item?id=46591810) - [There's a ridiculous amount of tech in a disposable vape](https://blog.jgc.org/2026/01/theres-ridiculous-amount-of-tech-in.html)
-* [2026-01-12, 06:37:26](https://news.ycombinator.com/item?id=46584864) - [The Emacs Widget Library: A Critique and Case Study](https://www.d12frosted.io/posts/2025-11-26-emacs-widget-library)
 * [2026-01-11, 20:23:14](https://news.ycombinator.com/item?id=46579612) - [Show HN: 1D-Pong Game at 39C3](https://github.com/ogermer/1d-pong)
 * [2026-01-11, 20:02:21](https://news.ycombinator.com/item?id=46579387) - [Systematically generating tests that would have caught Anthropic's top‑K bug](https://theorem.dev/blog/anthropic-bug-test/)
 * [2026-01-11, 02:58:36](https://news.ycombinator.com/item?id=46572307) - [Why some clothes shrink in the wash – and how to 'unshrink' them](https://www.swinburne.edu.au/news/2025/08/why-some-clothes-shrink-in-the-wash-and-how-to-unshrink-them/)

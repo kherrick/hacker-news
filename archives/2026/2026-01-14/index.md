@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-01-14](index.md)
 
+* [2026-01-14, 15:38:37](https://news.ycombinator.com/item?id=46617280) - [How Iran Switched Off the Internet](https://www.ft.com/content/5d848323-84a9-4512-abd2-dd09e0a786a3)
 * [2026-01-14, 14:57:30](https://news.ycombinator.com/item?id=46616745) - [FBI raids Washington Post reporter's home in 'highly unusual and aggressive' act](https://www.theguardian.com/us-news/2026/jan/14/fbi-raid-washington-post-hannah-natanson)
 * [2026-01-14, 14:42:06](https://news.ycombinator.com/item?id=46616569) - [Never-before-seen Linux malware is \"more advanced than typical\"](https://arstechnica.com/security/2026/01/never-before-seen-linux-malware-is-far-more-advanced-than-typical/)
 * [2026-01-14, 14:35:50](https://news.ycombinator.com/item?id=46616496) - [Edge of Emulation: Game Boy Sewing Machines](https://shonumi.github.io/articles/art22.html)
