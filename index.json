@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-01-14, 22:18:04",
+      "https://news.ycombinator.com/item?id=46624541"
+    ],
+    [
+      "Scaling long-running autonomous coding",
+      "https://cursor.com/blog/scaling-agents"
+    ]
+  ],
+  [
+    [
+      "2026-01-14, 22:04:10",
+      "https://news.ycombinator.com/item?id=46624352"
+    ],
+    [
+      "The State of OpenSSL for pyca/cryptography",
+      "https://cryptography.io/en/latest/statements/state-of-openssl/"
+    ]
+  ],
+  [
+    [
       "2026-01-14, 21:26:51",
       "https://news.ycombinator.com/item?id=46623761"
     ],
@@ -61,16 +81,6 @@
   ],
   [
     [
-      "2026-01-14, 19:31:48",
-      "https://news.ycombinator.com/item?id=46621518"
-    ],
-    [
-      "The string theory hype machine will never die",
-      "https://www.math.columbia.edu/~woit/wordpress/?p=15407"
-    ]
-  ],
-  [
-    [
       "2026-01-14, 19:06:23",
       "https://news.ycombinator.com/item?id=46620990"
     ],
@@ -117,16 +127,6 @@
     [
       "Ask HN: Share your personal website",
       "https://news.ycombinator.com/item?id=46618714"
-    ]
-  ],
-  [
-    [
-      "2026-01-14, 16:28:53",
-      "https://news.ycombinator.com/item?id=46618087"
-    ],
-    [
-      "The unbearable frustration of figuring out APIs",
-      "https://blog.ar-ms.me/thoughts/translation-cli/"
     ]
   ],
   [
@@ -251,16 +251,6 @@
   ],
   [
     [
-      "2026-01-12, 12:37:40",
-      "https://news.ycombinator.com/item?id=46587612"
-    ],
-    [
-      "I Accidentally Finished a Filesystem",
-      "https://github.com/hn4-dev/hn4"
-    ]
-  ],
-  [
-    [
       "2026-01-11, 02:58:36",
       "https://news.ycombinator.com/item?id=46572307"
     ],
@@ -277,6 +267,16 @@
     [
       "Ski map artist James Niehues, the 'Monet of the mountains' (2021)",
       "https://adventure.com/ski-map-artist-james-niehues/"
+    ]
+  ],
+  [
+    [
+      "2026-01-10, 19:37:36",
+      "https://news.ycombinator.com/item?id=46569175"
+    ],
+    [
+      "Is Rust faster than C?",
+      "https://steveklabnik.com/writing/is-rust-faster-than-c/"
     ]
   ],
   [
