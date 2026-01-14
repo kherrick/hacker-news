@@ -4,8 +4,15 @@
 
 ### [Archives](../../index.md) for [2026-01-14](index.md)
 
+* [2026-01-14, 02:49:25](https://news.ycombinator.com/item?id=46611667) - [The Gleam Programming Language](https://gleam.run/)
+* [2026-01-14, 02:29:08](https://news.ycombinator.com/item?id=46611550) - [Stop using natural language interfaces](https://tidepool.leaflet.pub/3mcbegnuf2k2i)
+* [2026-01-14, 02:28:52](https://news.ycombinator.com/item?id=46611548) - [Show HN: Cachekit – High performance caching policies library in Rust](https://github.com/OxidizeLabs/cachekit)
 * [2026-01-14, 02:20:42](https://news.ycombinator.com/item?id=46611507) - [ASCII Clouds](https://caidan.dev/portfolio/ascii_clouds/)
 * [2026-01-14, 02:10:40](https://news.ycombinator.com/item?id=46611446) - [US DOJ releases partially redacted documents on Operation Absolute Resolve](https://www.justice.gov/olc/media/1423306/dl)
+* [2026-01-14, 02:01:17](https://news.ycombinator.com/item?id=46611379) - [Show HN: Axis – A systems programming language with Python syntax](https://github.com/AGDNoob/axis-lang)
+* [2026-01-14, 01:56:52](https://news.ycombinator.com/item?id=46611348) - [Show HN: OSS AI agent that indexes and searches the Epstein files](https://epstein.trynia.ai/)
 * [2026-01-14, 01:21:18](https://news.ycombinator.com/item?id=46611119) - [Why IRC is better than Real Life](https://everything2.com/node/e2node/Why%20IRC%20is%20better%20than%20Real%20Life)
+* [2026-01-14, 01:13:59](https://news.ycombinator.com/item?id=46611063) - [Exa-d: How to store the web in S3](https://exa.ai/blog/exa-d)
+* [2026-01-14, 01:06:45](https://news.ycombinator.com/item?id=46611017) - [Vanderbilt University plans new campus in San Francisco](https://www.wsj.com/us-news/education/vanderbilt-san-francisco-cca-california-college-arts-expansion-lurie-8b6528b0)
 * [2026-01-14, 01:01:12](https://news.ycombinator.com/item?id=46610967) - [Sei (YC W22) Is Hiring a DevOps Engineer (India/In-Office/Chennai/Gurgaon)](https://www.ycombinator.com/companies/sei/jobs/Rn0KPXR-devops-platform-ai-infrastructure-engineer)
 * [2026-01-14, 00:17:19](https://news.ycombinator.com/item?id=46610557) - [The $LANG Programming Language](https://news.ycombinator.com/item?id=46610557)
