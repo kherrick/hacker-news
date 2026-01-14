@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-01-14](index.md)
 
+* [2026-01-14, 16:57:07](https://news.ycombinator.com/item?id=46618544) - [4k tons of potatoes to be given away for free in Berlin](https://www.the-berliner.com/english-news-berlin/4000-tons-of-potatoes-to-be-given-away-for-free/)
 * [2026-01-14, 16:39:43](https://news.ycombinator.com/item?id=46618272) - [How have prices changed in a year? NPR checked 114 items at Walmart](https://www.npr.org/2026/01/14/nx-s1-5638908/walmart-prices-inflation-affordability-shrinkflation)
 * [2026-01-14, 16:28:53](https://news.ycombinator.com/item?id=46618087) - [The Unbearable Frustration of Figuring Out APIs](https://blog.ar-ms.me/thoughts/translation-cli/)
 * [2026-01-14, 16:25:07](https://news.ycombinator.com/item?id=46618027) - [GitHub should charge everyone $1 more per month](https://blog.greg.technology/2025/11/27/github-should-charge-1-dollar-more-per-month.html)
@@ -12,6 +13,8 @@
 * [2026-01-14, 16:04:53](https://news.ycombinator.com/item?id=46617705) - [Show HN: A 10KiB kernel for cloud apps](https://github.com/ReturnInfinity/BareMetal-Cloud)
 * [2026-01-14, 16:03:11](https://news.ycombinator.com/item?id=46617668) - [Starlink roam 50GB is now 100GB with unlimited slow speed after that](https://starlink.com/support/article/58c9c8b7-474e-246f-7e3c-06db3221d34d)
 * [2026-01-14, 15:52:46](https://news.ycombinator.com/item?id=46617492) - [Xoscript](https://xoscript.com/history.xo)
+* [2026-01-14, 15:50:34](https://news.ycombinator.com/item?id=46617456) - [Junior Developers in the Age of AI](https://thoughtfuleng.substack.com/p/junior-developers-in-the-age-of-ai)
+* [2026-01-14, 15:44:22](https://news.ycombinator.com/item?id=46617360) - [Find a pub that needs you](https://www.ismypubfucked.com/)
 * [2026-01-14, 15:38:37](https://news.ycombinator.com/item?id=46617280) - [How Iran Switched Off the Internet](https://www.ft.com/content/5d848323-84a9-4512-abd2-dd09e0a786a3)
 * [2026-01-14, 15:29:59](https://news.ycombinator.com/item?id=46617149) - [Government drops plans for mandatory digital ID to work in UK](https://www.bbc.com/news/articles/c3385zrrx73o)
 * [2026-01-14, 15:08:55](https://news.ycombinator.com/item?id=46616881) - [Maggots, an Efficient Source of Protein, May Become Next Superfood for Humans](https://www.smithsonianmag.com/science-nature/maggots-incredibly-efficient-source-protein-may-make-them-next-superfood-humans-180987847/)

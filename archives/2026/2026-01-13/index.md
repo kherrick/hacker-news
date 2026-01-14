@@ -65,6 +65,7 @@
 * [2026-01-13, 11:47:56](https://news.ycombinator.com/item?id=46599807) - [Ask HN: Quantum Computation, Computers and Programming](https://news.ycombinator.com/item?id=46599807)
 * [2026-01-13, 11:23:28](https://news.ycombinator.com/item?id=46599604) - [Junior devs don't know the red flags we spot in seconds and we never tell them](https://yourlead.dev)
 * [2026-01-13, 11:19:01](https://news.ycombinator.com/item?id=46599574) - [Network of Scottish X accounts go dark amid Iran blackout](https://www.heraldscotland.com/news/25759181.network-scottish-x-accounts-go-dark-amid-iran-blackout/)
+* [2026-01-13, 10:57:02](https://news.ycombinator.com/item?id=46599403) - [Show HN: HyTags – HTML as a Programming Language](https://hytags.org)
 * [2026-01-13, 10:44:39](https://news.ycombinator.com/item?id=46599341) - [Show HN: An iOS budget app I've been maintaining since 2011](https://primoco.me/en/)
 * [2026-01-13, 10:03:20](https://news.ycombinator.com/item?id=46599079) - [U.S. Emissions Jumped in 2025 as Coal Power Rebounded](https://www.nytimes.com/2026/01/13/climate/us-emissions-2025-coal-power.html)
 * [2026-01-13, 10:02:47](https://news.ycombinator.com/item?id=46599076) - [UK Expands Online Safety Act to Mandate Preemptive Scanning](https://reclaimthenet.org/uk-expands-online-safety-act-to-mandate-preemptive-scanning)
