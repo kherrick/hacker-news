@@ -1,12 +1,12 @@
 [
   [
     [
-      "2026-01-14, 19:03:43",
-      "https://news.ycombinator.com/item?id=46620941"
+      "2026-01-14, 19:13:14",
+      "https://news.ycombinator.com/item?id=46621136"
     ],
     [
-      "US to suspend immigrant visa processing for 75 nations, State Department says",
-      "https://www.reuters.com/world/us/us-suspend-visa-processing-75-nations-next-week-fox-news-reports-2026-01-14/"
+      "Verizon, AT&T, and T-Mobile are all having outages now",
+      "https://www.howtogeek.com/verizon-att-and-t-mobile-are-all-having-outages-right-now/"
     ]
   ],
   [
@@ -17,6 +17,16 @@
     [
       "East coast. Verizon outage in US",
       "https://www.firstcoastnews.com/article/news/nation-world/verizon-outage-reported/507-ef3cb3d0-f595-432f-9f84-d1690a5085a7"
+    ]
+  ],
+  [
+    [
+      "2026-01-14, 18:23:17",
+      "https://news.ycombinator.com/item?id=46620125"
+    ],
+    [
+      "Technical Analysis of Starlink Terminal GPS Spoofing/Jamming Detection in Iran",
+      "https://github.com/narimangharib/starlink-iran-gps-spoofing/blob/main/starlink-iran.md"
     ]
   ],
   [
@@ -141,6 +151,16 @@
   ],
   [
     [
+      "2026-01-14, 14:57:30",
+      "https://news.ycombinator.com/item?id=46616745"
+    ],
+    [
+      "FBI raids Washington Post reporter's home",
+      "https://www.theguardian.com/us-news/2026/jan/14/fbi-raid-washington-post-hannah-natanson"
+    ]
+  ],
+  [
+    [
       "2026-01-14, 14:35:50",
       "https://news.ycombinator.com/item?id=46616496"
     ],
@@ -211,32 +231,12 @@
   ],
   [
     [
-      "2026-01-14, 02:20:42",
-      "https://news.ycombinator.com/item?id=46611507"
+      "2026-01-14, 01:56:52",
+      "https://news.ycombinator.com/item?id=46611348"
     ],
     [
-      "ASCII Clouds",
-      "https://caidan.dev/portfolio/ascii_clouds/"
-    ]
-  ],
-  [
-    [
-      "2026-01-13, 23:00:36",
-      "https://news.ycombinator.com/item?id=46609630"
-    ],
-    [
-      "A 40-line fix eliminated a 400x performance gap",
-      "https://questdb.com/blog/jvm-current-thread-user-time/"
-    ]
-  ],
-  [
-    [
-      "2026-01-13, 15:52:33",
-      "https://news.ycombinator.com/item?id=46602591"
-    ],
-    [
-      "Every GitHub object has two IDs",
-      "https://www.greptile.com/blog/github-ids"
+      "Show HN: OSS AI agent that indexes and searches the Epstein files",
+      "https://epstein.trynia.ai/"
     ]
   ],
   [
