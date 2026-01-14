@@ -1,6 +1,46 @@
 [
   [
     [
+      "2026-01-14, 02:20:42",
+      "https://news.ycombinator.com/item?id=46611507"
+    ],
+    [
+      "ASCII Clouds",
+      "https://caidan.dev/portfolio/ascii_clouds/"
+    ]
+  ],
+  [
+    [
+      "2026-01-14, 02:10:40",
+      "https://news.ycombinator.com/item?id=46611446"
+    ],
+    [
+      "US DOJ releases partially redacted documents on Operation Absolute Resolve",
+      "https://www.justice.gov/olc/media/1423306/dl"
+    ]
+  ],
+  [
+    [
+      "2026-01-14, 01:21:18",
+      "https://news.ycombinator.com/item?id=46611119"
+    ],
+    [
+      "Why IRC is better than Real Life",
+      "https://everything2.com/node/e2node/Why%20IRC%20is%20better%20than%20Real%20Life"
+    ]
+  ],
+  [
+    [
+      "2026-01-14, 01:01:12",
+      "https://news.ycombinator.com/item?id=46610967"
+    ],
+    [
+      "Sei (YC W22) Is Hiring a DevOps Engineer (India/In-Office/Chennai/Gurgaon)",
+      "https://www.ycombinator.com/companies/sei/jobs/Rn0KPXR-devops-platform-ai-infrastructure-engineer"
+    ]
+  ],
+  [
+    [
       "2026-01-14, 00:17:19",
       "https://news.ycombinator.com/item?id=46610557"
     ],
@@ -21,21 +61,11 @@
   ],
   [
     [
-      "2026-01-13, 22:57:23",
-      "https://news.ycombinator.com/item?id=46609591"
-    ],
-    [
-      "The insecure evangelism of LLM maximalists",
-      "https://lewiscampbell.tech/blog/260114.html"
-    ]
-  ],
-  [
-    [
       "2026-01-13, 22:49:51",
       "https://news.ycombinator.com/item?id=46609492"
     ],
     [
-      "EOL hardware should mean open-source software",
+      "When hardware goes end-of-life, companies need to open-source the software",
       "https://www.marcia.no/words/eol"
     ]
   ],
@@ -47,16 +77,6 @@
     [
       "Show HN: AsciiSketch a free browser-based ASCII art and diagram editor",
       "https://files.littlebird.com.au/ascii-sketch.html"
-    ]
-  ],
-  [
-    [
-      "2026-01-13, 22:30:53",
-      "https://news.ycombinator.com/item?id=46609279"
-    ],
-    [
-      "Why we don’t use AI",
-      "https://yarnspinner.dev/blog/why-we-dont-use-ai/"
     ]
   ],
   [
@@ -91,32 +111,22 @@
   ],
   [
     [
-      "2026-01-13, 21:50:22",
-      "https://news.ycombinator.com/item?id=46608731"
+      "2026-01-13, 18:58:55",
+      "https://news.ycombinator.com/item?id=46605950"
     ],
     [
-      "Running Lean at Scale",
-      "https://harmonic.fun/news#blog-post-lean"
+      "A university got itself banned from the Linux kernel (2021)",
+      "https://www.theverge.com/2021/4/30/22410164/linux-kernel-university-of-minnesota-banned-open-source"
     ]
   ],
   [
     [
-      "2026-01-13, 19:56:37",
-      "https://news.ycombinator.com/item?id=46606902"
+      "2026-01-13, 18:54:30",
+      "https://news.ycombinator.com/item?id=46605854"
     ],
     [
-      "Open sourcing Dicer: Databricks's auto-sharder",
-      "https://www.databricks.com/blog/open-sourcing-dicer-databricks-auto-sharder"
-    ]
-  ],
-  [
-    [
-      "2026-01-13, 18:46:06",
-      "https://news.ycombinator.com/item?id=46605716"
-    ],
-    [
-      "Choosing learning over autopilot",
-      "https://anniecherkaev.com/choosing-learning-over-autopilot"
+      "No management needed: anti-patterns in early-stage engineering teams",
+      "https://www.ablg.io/blog/no-management-needed"
     ]
   ],
   [
@@ -131,6 +141,16 @@
   ],
   [
     [
+      "2026-01-13, 18:37:55",
+      "https://news.ycombinator.com/item?id=46605587"
+    ],
+    [
+      "Let's be honest, Generative AI isn't going all that well",
+      "https://garymarcus.substack.com/p/lets-be-honest-generative-ai-isnt"
+    ]
+  ],
+  [
+    [
       "2026-01-13, 18:31:50",
       "https://news.ycombinator.com/item?id=46605490"
     ],
@@ -141,12 +161,12 @@
   ],
   [
     [
-      "2026-01-13, 17:55:37",
-      "https://news.ycombinator.com/item?id=46604862"
+      "2026-01-13, 18:22:00",
+      "https://news.ycombinator.com/item?id=46605332"
     ],
     [
-      "Show HN: Ayder – HTTP-native durable event log written in C (curl as client)",
-      "https://github.com/A1darbek/ayder"
+      "The truth behind the 2026 J.P. Morgan Healthcare Conference",
+      "https://www.owlposting.com/p/the-truth-behind-the-2026-jp-morgan"
     ]
   ],
   [
@@ -161,22 +181,22 @@
   ],
   [
     [
+      "2026-01-13, 17:14:14",
+      "https://news.ycombinator.com/item?id=46604067"
+    ],
+    [
+      "Show HN: Microwave – Native iOS app for videos on ATproto",
+      "https://testflight.apple.com/join/cVxV1W3g"
+    ]
+  ],
+  [
+    [
       "2026-01-13, 17:10:42",
       "https://news.ycombinator.com/item?id=46603995"
     ],
     [
       "The Tulip Creative Computer",
       "https://github.com/shorepine/tulipcc"
-    ]
-  ],
-  [
-    [
-      "2026-01-13, 17:01:55",
-      "https://news.ycombinator.com/item?id=46603829"
-    ],
-    [
-      "Legion Health (YC S21) Hiring Cracked Founding Eng for AI-Native Ops",
-      "https://jobs.ashbyhq.com/legionhealth/ffdd2b52-eb21-489e-b124-3c0804231424"
     ]
   ],
   [
@@ -201,6 +221,16 @@
   ],
   [
     [
+      "2026-01-13, 15:59:59",
+      "https://news.ycombinator.com/item?id=46602737"
+    ],
+    [
+      "vLLM large scale serving: DeepSeek 2.2k tok/s/h200 with wide-ep",
+      "https://blog.vllm.ai/2025/12/17/large-scale-serving.html"
+    ]
+  ],
+  [
+    [
       "2026-01-13, 15:52:33",
       "https://news.ycombinator.com/item?id=46602591"
     ],
@@ -221,62 +251,32 @@
   ],
   [
     [
-      "2026-01-13, 11:47:56",
-      "https://news.ycombinator.com/item?id=46599807"
+      "2026-01-13, 13:45:45",
+      "https://news.ycombinator.com/item?id=46600839"
     ],
     [
-      "Ask HN: Quantum Computation, Computers and Programming",
-      "https://news.ycombinator.com/item?id=46599807"
+      "Confer – End to end encrypted AI chat",
+      "https://confer.to/"
     ]
   ],
   [
     [
-      "2026-01-13, 02:49:59",
-      "https://news.ycombinator.com/item?id=46596823"
+      "2026-01-12, 23:02:27",
+      "https://news.ycombinator.com/item?id=46595393"
     ],
     [
-      "We rolled our own documentation site",
-      "https://blog.tangled.org/docs"
+      "A deep dive on agent sandboxes",
+      "https://pierce.dev/notes/a-deep-dive-on-agent-sandboxes"
     ]
   ],
   [
     [
-      "2026-01-12, 18:38:39",
-      "https://news.ycombinator.com/item?id=46592424"
+      "2026-01-12, 06:37:26",
+      "https://news.ycombinator.com/item?id=46584864"
     ],
     [
-      "Superhuman AI Exfiltrates Emails",
-      "https://www.promptarmor.com/resources/superhuman-ai-exfiltrates-emails"
-    ]
-  ],
-  [
-    [
-      "2026-01-10, 06:12:25",
-      "https://news.ycombinator.com/item?id=46563251"
-    ],
-    [
-      "Understanding the Types of Data in Data",
-      "https://ischool.syracuse.edu/types-of-data/"
-    ]
-  ],
-  [
-    [
-      "2026-01-09, 21:01:13",
-      "https://news.ycombinator.com/item?id=46559266"
-    ],
-    [
-      "Why Real Life is better than IRC (2000)",
-      "https://everything2.com/node/e2node/Why%20Real%20Life%20is%20better%20than%20IRC"
-    ]
-  ],
-  [
-    [
-      "2026-01-09, 18:35:13",
-      "https://news.ycombinator.com/item?id=46557312"
-    ],
-    [
-      "Going for Gold: The Story of the Golden Lego RCX and NXT",
-      "https://bricknerd.com/home/going-for-gold-the-story-of-the-golden-lego-rcx-and-nxt-9-9-21"
+      "The Emacs Widget Library: A Critique and Case Study",
+      "https://www.d12frosted.io/posts/2025-11-26-emacs-widget-library"
     ]
   ],
   [
