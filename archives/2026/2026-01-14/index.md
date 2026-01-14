@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-01-14](index.md)
 
+* [2026-01-14, 19:53:15](https://news.ycombinator.com/item?id=46621945) - [Why Every Country Should Set 16 as the Minimum Age for Social Media Accounts](https://www.afterbabel.com/p/why-every-country-should-set-16)
 * [2026-01-14, 19:13:14](https://news.ycombinator.com/item?id=46621136) - [Verizon, AT&T, and T-Mobile are all having outages now](https://www.howtogeek.com/verizon-att-and-t-mobile-are-all-having-outages-right-now/)
 * [2026-01-14, 19:03:43](https://news.ycombinator.com/item?id=46620941) - [US to suspend immigrant visa processing for 75 nations, State Department says](https://www.reuters.com/world/us/us-suspend-visa-processing-75-nations-next-week-fox-news-reports-2026-01-14/)
 * [2026-01-14, 18:58:16](https://news.ycombinator.com/item?id=46620835) - [East coast. Verizon outage in US](https://www.firstcoastnews.com/article/news/nation-world/verizon-outage-reported/507-ef3cb3d0-f595-432f-9f84-d1690a5085a7)
