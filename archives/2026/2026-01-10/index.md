@@ -46,6 +46,7 @@
 * [2026-01-10, 09:15:30](https://news.ycombinator.com/item?id=46564116) - [Org Mode Syntax Is One of the Most Reasonable Markup Languages to Use for Text](https://karl-voit.at/2017/09/23/orgmode-as-markup-only/)
 * [2026-01-10, 06:12:25](https://news.ycombinator.com/item?id=46563251) - [Understanding the Types of Data in Data](https://ischool.syracuse.edu/types-of-data/)
 * [2026-01-10, 05:07:32](https://news.ycombinator.com/item?id=46562959) - [CDC staff 'blindsided' as child vaccine schedule unilaterally overhauled](https://www.unmc.edu/healthsecurity/transmission/2026/01/07/cdc-staff-blindsided-as-child-vaccine-schedule-unilaterally-overhauled/)
+* [2026-01-10, 04:44:39](https://news.ycombinator.com/item?id=46562855) - [The Stick in the Stream](https://randsinrepose.com/archives/the-stick-in-the-stream/)
 * [2026-01-10, 04:35:32](https://news.ycombinator.com/item?id=46562790) - [You probably don't need Oh My Zsh](https://rushter.com/blog/zsh-shell/)
 * [2026-01-10, 03:52:48](https://news.ycombinator.com/item?id=46562583) - [OLED Not for Me](https://nuxx.net/blog/2026/01/09/oled-not-for-me/)
 * [2026-01-10, 02:56:50](https://news.ycombinator.com/item?id=46562301) - [Maine's black market for baby eels](https://www.pressherald.com/2025/09/09/maines-black-market-for-baby-eels-is-spawning-a-crime-thriller-subgenre/)
