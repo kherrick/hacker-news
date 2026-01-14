@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-01-14, 06:16:24](https://news.ycombinator.com/item?id=46612934) - [DHS Deportation Reels Are Getting Copyright Strikes for Unlicensed Music Use](https://reason.com/2026/01/11/the-deportation-playlist-is-mostly-stolen/)
 * [2026-01-14, 03:08:37](https://news.ycombinator.com/item?id=46611823) - [1000 Blank White Cards](https://en.wikipedia.org/wiki/1000_Blank_White_Cards)
 * [2026-01-14, 02:49:25](https://news.ycombinator.com/item?id=46611667) - [The Gleam Programming Language](https://gleam.run/)
 * [2026-01-14, 02:29:08](https://news.ycombinator.com/item?id=46611550) - [Stop using natural language interfaces](https://tidepool.leaflet.pub/3mcbegnuf2k2i)
@@ -29,6 +28,7 @@
 * [2026-01-12, 06:37:26](https://news.ycombinator.com/item?id=46584864) - [The Emacs Widget Library: A Critique and Case Study](https://www.d12frosted.io/posts/2025-11-26-emacs-widget-library)
 * [2026-01-11, 20:23:14](https://news.ycombinator.com/item?id=46579612) - [Show HN: 1D-Pong Game at 39C3](https://github.com/ogermer/1d-pong)
 * [2026-01-09, 15:17:45](https://news.ycombinator.com/item?id=46554774) - [Handling secrets (somewhat) securely in shells](https://linus.schreibt.jetzt/posts/shell-secrets.html)
+* [2026-01-09, 14:50:46](https://news.ycombinator.com/item?id=46554461) - [April 9, 1940 a Dish Best Served Cold](https://todayinhistory.blog/2021/04/09/april-9-1940-a-dish-best-served-cold/)
 * [2026-01-09, 05:44:58](https://news.ycombinator.com/item?id=46550453) - [Agonist-Antagonist Myoneural Interface](https://www.media.mit.edu/projects/agonist-antagonist-myoneural-interface-ami/overview/)
 
 ## [Archives](archives/index.md)
