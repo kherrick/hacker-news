@@ -129,6 +129,58 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
+        <section id="46622463">
+          <h3>
+            <a
+              class="item"
+              href="https://www.surinenglish.com/spain/wind-power-slashes-billion-euros-off-electricity-bills-20251217082020-nt.html"
+              >Wind power slashed 4.6B euros off electricity bills in Spain last
+              year</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-01-14 @ 20:18:16</span
+              ><span class="points-container"
+                >Points: <span class="points">48</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=46622463"
+                  >Comments</a
+                ><span class="descendants">: 11</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="46622139">
+          <h3>
+            <a class="item" href="https://harmonynotetaker.ai/"
+              >Show HN: Harmony – AI notetaker for Discord</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-01-14 @ 20:02:36</span
+              ><span class="points-container"
+                >Points: <span class="points">10</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=46622139"
+                  >Comments</a
+                ><span class="descendants">: 2</span></span
+              >
+            </h4>
+            <div class="text">
+              <p>
+                i built harmony because our team's been running on discord for
+                years and we've been dying for something like this so we can
+                finally track our meeting notes/action items.
+              </p>
+              <p>
+                if your team runs on discord, please feel free to try it out!
+              </p>
+              <p>it's free to use forever :)</p>
+            </div>
+          </section>
+        </section>
         <section id="46621945">
           <h3>
             <a
@@ -142,13 +194,120 @@
             <h4>
               <span>2026-01-14 @ 19:53:15</span
               ><span class="points-container"
-                >Points: <span class="points">40</span></span
+                >Points: <span class="points">50</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46621945"
                   >Comments</a
-                ><span class="descendants">: 36</span></span
+                ><span class="descendants">: 55</span></span
               >
             </h4>
+          </section>
+        </section>
+        <section id="46621786">
+          <h3>
+            <a class="item" href="https://github.com/Strand-AI/lambda-cli"
+              >Show HN: A fast CLI and MCP server for managing Lambda cloud GPU
+              instances</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-01-14 @ 19:45:21</span
+              ><span class="points-container"
+                >Points: <span class="points">9</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=46621786"
+                  >Comments</a
+                ><span class="descendants">: 2</span></span
+              >
+            </h4>
+            <div class="text">
+              <p>
+                The main idea: your AI agents can now spin up and manage Lambda
+                GPUs for you.
+              </p>
+              <p>
+                The MCP server exposes tools to find, launch, and terminate
+                instances. Add it to Claude Code, Cursor, or any agent with one
+                command and you can say things like "launch an H100, ssh in, and
+                run big_job.py"
+              </p>
+              <p></p>
+              <pre><code>  Other features:
+  - Notifications via Slack, Discord, or Telegram when instances are SSH-ready
+  - 1Password support for API keys
+  - Also includes a standalone CLI with the same functionality
+</code></pre>
+              Written in Rust. MIT licensed.
+              <p>
+                Note: This is an unofficial community project, not affiliated
+                with Lambda.
+              </p>
+            </div>
+          </section>
+        </section>
+        <section id="46621518">
+          <h3>
+            <a
+              class="item"
+              href="https://www.math.columbia.edu/~woit/wordpress/?p=15407"
+              >The string theory hype machine will never die</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-01-14 @ 19:31:48</span
+              ><span class="points-container"
+                >Points: <span class="points">21</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=46621518"
+                  >Comments</a
+                ><span class="descendants">: 12</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="46620990">
+          <h3>
+            <a class="item" href="https://news.ycombinator.com/item?id=46620990"
+              >Ask HN: How do you safely give LLMs SSH/DB access?</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-01-14 @ 19:06:23</span
+              ><span class="points-container"
+                >Points: <span class="points">9</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=46620990"
+                  >Comments</a
+                ><span class="descendants">: 27</span></span
+              >
+            </h4>
+            <div class="text">
+              <p>
+                Overall it's been great. However, I find myself having to review
+                every single command, a lot of which are repetitive. It still
+                saves me a ton of time, but it's quickly becoming a bit tedious
+              </p>
+              <p>
+                I wish I could give the agent some more autonomy. Like giving it
+                a list of pre-approved commands or actions that it is allowed to
+                run over ssh
+              </p>
+              <p>For example:</p>
+              <p></p>
+              <pre><code>    OK: ls, grep, cat, tail
+    Not OK: rm, mv, chmod, etc
+    OK: SELECT queries
+    Not OK: INSERT, DELETE, DROP, TRUNCATE
+</code></pre>
+              Has anyone successfully or satisfactorily solved this?
+              <p>
+                What setups have actually worked for you, and where do you draw
+                the line between autonomy and risk?
+              </p>
+            </div>
           </section>
         </section>
         <section id="46620835">
@@ -156,40 +315,18 @@
             <a
               class="item"
               href="https://www.firstcoastnews.com/article/news/nation-world/verizon-outage-reported/507-ef3cb3d0-f595-432f-9f84-d1690a5085a7"
-              >East coast. Verizon outage in US</a
+              >Verizon outages reported across U.S.</a
             >
           </h3>
           <section>
             <h4>
               <span>2026-01-14 @ 18:58:16</span
               ><span class="points-container"
-                >Points: <span class="points">136</span></span
+                >Points: <span class="points">149</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46620835"
                   >Comments</a
-                ><span class="descendants">: 79</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="46620125">
-          <h3>
-            <a
-              class="item"
-              href="https://github.com/narimangharib/starlink-iran-gps-spoofing/blob/main/starlink-iran.md"
-              >Technical Analysis of Starlink Terminal GPS Spoofing/Jamming
-              Detection in Iran</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-01-14 @ 18:23:17</span
-              ><span class="points-container"
-                >Points: <span class="points">24</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=46620125"
-                  >Comments</a
-                ><span class="descendants">: 1</span></span
+                ><span class="descendants">: 97</span></span
               >
             </h4>
           </section>
@@ -199,40 +336,18 @@
             <a
               class="item"
               href="https://www.eff.org/deeplinks/2026/01/so-youve-hit-age-gate-what-now"
-              >So, You've Hit an Age Gate. What Now?</a
+              >So, you've hit an age gate. what now?</a
             >
           </h3>
           <section>
             <h4>
               <span>2026-01-14 @ 17:27:22</span
               ><span class="points-container"
-                >Points: <span class="points">207</span></span
+                >Points: <span class="points">221</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46619030"
                   >Comments</a
-                ><span class="descendants">: 166</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="46618901">
-          <h3>
-            <a
-              class="item"
-              href="https://electrek.co/2026/01/13/ford-f150-lightning-outsold-tesla-cybertruck-canceled-not-selling-enough/"
-              >Ford F-150 Lightning outsold the Cybertruck and was then canceled
-              for poor sales</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-01-14 @ 17:20:09</span
-              ><span class="points-container"
-                >Points: <span class="points">253</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=46618901"
-                  >Comments</a
-                ><span class="descendants">: 323</span></span
+                ><span class="descendants">: 175</span></span
               >
             </h4>
           </section>
@@ -240,18 +355,18 @@
         <section id="46618714">
           <h3>
             <a class="item" href="https://news.ycombinator.com/item?id=46618714"
-              >Ask HN: Could you share your personal website here?</a
+              >Ask HN: Share your personal website</a
             >
           </h3>
           <section>
             <h4>
               <span>2026-01-14 @ 17:07:42</span
               ><span class="points-container"
-                >Points: <span class="points">156</span></span
+                >Points: <span class="points">177</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46618714"
                   >Comments</a
-                ><span class="descendants">: 613</span></span
+                ><span class="descendants">: 689</span></span
               >
             </h4>
             <div class="text">
@@ -301,11 +416,11 @@
             <h4>
               <span>2026-01-14 @ 16:39:43</span
               ><span class="points-container"
-                >Points: <span class="points">135</span></span
+                >Points: <span class="points">142</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46618272"
                   >Comments</a
-                ><span class="descendants">: 90</span></span
+                ><span class="descendants">: 92</span></span
               >
             </h4>
           </section>
@@ -322,11 +437,11 @@
             <h4>
               <span>2026-01-14 @ 16:28:53</span
               ><span class="points-container"
-                >Points: <span class="points">55</span></span
+                >Points: <span class="points">57</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46618087"
                   >Comments</a
-                ><span class="descendants">: 30</span></span
+                ><span class="descendants">: 40</span></span
               >
             </h4>
           </section>
@@ -344,33 +459,11 @@
             <h4>
               <span>2026-01-14 @ 16:25:07</span
               ><span class="points-container"
-                >Points: <span class="points">114</span></span
+                >Points: <span class="points">124</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46618027"
                   >Comments</a
-                ><span class="descendants">: 117</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="46617744">
-          <h3>
-            <a
-              class="item"
-              href="https://usetero.com/blog/the-question-your-observability-vendor-wont-answer"
-              >I built Vector. Now I'm answering the question your observability
-              vendor won't</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-01-14 @ 16:07:34</span
-              ><span class="points-container"
-                >Points: <span class="points">77</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=46617744"
-                  >Comments</a
-                ><span class="descendants">: 41</span></span
+                ><span class="descendants">: 126</span></span
               >
             </h4>
           </section>
@@ -387,7 +480,7 @@
             <h4>
               <span>2026-01-14 @ 16:04:53</span
               ><span class="points-container"
-                >Points: <span class="points">48</span></span
+                >Points: <span class="points">50</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46617705"
                   >Comments</a
@@ -409,11 +502,11 @@
             <h4>
               <span>2026-01-14 @ 16:03:11</span
               ><span class="points-container"
-                >Points: <span class="points">185</span></span
+                >Points: <span class="points">192</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46617668"
                   >Comments</a
-                ><span class="descendants">: 183</span></span
+                ><span class="descendants">: 193</span></span
               >
             </h4>
           </section>
@@ -426,11 +519,11 @@
             <h4>
               <span>2026-01-14 @ 15:52:46</span
               ><span class="points-container"
-                >Points: <span class="points">38</span></span
+                >Points: <span class="points">39</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46617492"
                   >Comments</a
-                ><span class="descendants">: 37</span></span
+                ><span class="descendants">: 39</span></span
               >
             </h4>
           </section>
@@ -445,11 +538,11 @@
             <h4>
               <span>2026-01-14 @ 15:44:22</span
               ><span class="points-container"
-                >Points: <span class="points">134</span></span
+                >Points: <span class="points">137</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46617360"
                   >Comments</a
-                ><span class="descendants">: 92</span></span
+                ><span class="descendants">: 98</span></span
               >
             </h4>
           </section>
@@ -466,54 +559,11 @@
             <h4>
               <span>2026-01-14 @ 15:29:59</span
               ><span class="points-container"
-                >Points: <span class="points">138</span></span
+                >Points: <span class="points">141</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46617149"
                   >Comments</a
-                ><span class="descendants">: 63</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="46616745">
-          <h3>
-            <a
-              class="item"
-              href="https://www.theguardian.com/us-news/2026/jan/14/fbi-raid-washington-post-hannah-natanson"
-              >FBI raids Washington Post reporter's home</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-01-14 @ 14:57:30</span
-              ><span class="points-container"
-                >Points: <span class="points">785</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=46616745"
-                  >Comments</a
-                ><span class="descendants">: 489</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="46616569">
-          <h3>
-            <a
-              class="item"
-              href="https://arstechnica.com/security/2026/01/never-before-seen-linux-malware-is-far-more-advanced-than-typical/"
-              >Never-before-seen Linux malware is "more advanced than
-              typical"</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-01-14 @ 14:42:06</span
-              ><span class="points-container"
-                >Points: <span class="points">97</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=46616569"
-                  >Comments</a
-                ><span class="descendants">: 25</span></span
+                ><span class="descendants">: 64</span></span
               >
             </h4>
           </section>
@@ -528,7 +578,7 @@
             <h4>
               <span>2026-01-14 @ 14:35:50</span
               ><span class="points-container"
-                >Points: <span class="points">85</span></span
+                >Points: <span class="points">88</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46616496"
                   >Comments</a
@@ -581,6 +631,76 @@
             </div>
           </section>
         </section>
+        <section id="46615137">
+          <h3>
+            <a class="item" href="https://news.ycombinator.com/item?id=46615137"
+              >Ask HN: Unemployed almost a year after graduating MIT – a rant</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-01-14 @ 12:10:03</span
+              ><span class="points-container"
+                >Points: <span class="points">60</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=46615137"
+                  >Comments</a
+                ><span class="descendants">: 45</span></span
+              >
+            </h4>
+            <div class="text">
+              <p>
+                Not sure where else to turn to but I'm extremely embarrassed to
+                say we're nearing the 1 year anniversary of my Feb graduation
+                (*course 6*) and I'm still unemployed, to the dismay of me and
+                my family. I've applied to hundreds of jobs, tailored my resume
+                with tech folks who regularly hire, tailored cover letters,
+                gotten referrals, spoken to relevant connections in my network,
+                done really well in interviews, all to no avail. The feedback
+                I've received from asking employers who rejected me is never
+                something wrong about me, just that they found someone else with
+                pre-existing experience in that particular industry or tech
+                stack. How am I supposed to compete with that at an entry level?
+                And the longer I go without work, the worse it gets in the eyes
+                of employers. I have two internships from back in undergrad as
+                my "work experience" but that's it, one at a known company and
+                one at a startup. My personal projects were not super intensive
+                unfortunately, but I'm not sure how much that's affecting me at
+                this point. Given the way things are going in the world, I
+                remove certain tech sectors from consideration, but I really
+                don't think that should be a handicap.
+              </p>
+              <p>
+                I knew the job market was bad going into it, but recently, I've
+                genuinely fallen into depression. It feels like I was sold this
+                lie that the MIT name would open doors previously inaccessible
+                to me, but nothing seems to be helping me land a job. Sucks more
+                when I run into old friends who can't even hide their shock that
+                I'm <i>still</i> unemployed. So I have to pretend this is just a
+                gap year and all part of the plan. I'm starting to come to terms
+                with the fact that I might never work in industry as a *software
+                engineer or in tech*, and that sucks! Maybe it's already time
+                for a career change, I don't know to what. I never felt too good
+                about myself at MIT compared to others and so this all feels
+                like proof that I'm not skilled enough to work in my chosen
+                field.
+              </p>
+              <p>
+                I can't even do my hobbies with all this free time because I
+                spend a lot of it applying to jobs, doomscrolling, and sulking.
+                I am really grateful that I was able to move back home with my
+                parents. I think they were happy to have me back for a bit. But
+                now I'm starting to feel like a drag and burden, especially as
+                the *middle child sister* who’s just… there. I feel like a
+                firework that exploded in bursts of color (everyone ooed and
+                ah-ed), and then... nothing. I'm considering starting some
+                volunteer/side projects, but persistently, in the back of my
+                mind, is this voice telling me I'm worthless because I can't
+                make any money. I am a failure.
+              </p>
+            </div>
+          </section>
+        </section>
         <section id="46614688">
           <h3>
             <a class="item" href="https://github.com/CompassMB/MBCompass"
@@ -591,7 +711,7 @@
             <h4>
               <span>2026-01-14 @ 11:09:35</span
               ><span class="points-container"
-                >Points: <span class="points">110</span></span
+                >Points: <span class="points">111</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46614688"
                   >Comments</a
@@ -612,11 +732,11 @@
             <h4>
               <span>2026-01-14 @ 10:53:13</span
               ><span class="points-container"
-                >Points: <span class="points">318</span></span
+                >Points: <span class="points">325</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46614558"
                   >Comments</a
-                ><span class="descendants">: 253</span></span
+                ><span class="descendants">: 254</span></span
               >
             </h4>
           </section>
@@ -634,7 +754,7 @@
             <h4>
               <span>2026-01-14 @ 10:08:05</span
               ><span class="points-container"
-                >Points: <span class="points">88</span></span
+                >Points: <span class="points">92</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46614285"
                   >Comments</a
@@ -655,7 +775,7 @@
             <h4>
               <span>2026-01-14 @ 09:25:58</span
               ><span class="points-container"
-                >Points: <span class="points">271</span></span
+                >Points: <span class="points">277</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46614037"
                   >Comments</a
@@ -674,11 +794,11 @@
             <h4>
               <span>2026-01-13 @ 10:57:02</span
               ><span class="points-container"
-                >Points: <span class="points">45</span></span
+                >Points: <span class="points">46</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46599403"
                   >Comments</a
-                ><span class="descendants">: 22</span></span
+                ><span class="descendants">: 23</span></span
               >
             </h4>
             <div class="text">
@@ -704,11 +824,11 @@
             <h4>
               <span>2026-01-12 @ 17:50:01</span
               ><span class="points-container"
-                >Points: <span class="points">696</span></span
+                >Points: <span class="points">701</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46591810"
                   >Comments</a
-                ><span class="descendants">: 613</span></span
+                ><span class="descendants">: 617</span></span
               >
             </h4>
           </section>
@@ -725,31 +845,11 @@
             <h4>
               <span>2026-01-12 @ 07:53:40</span
               ><span class="points-container"
-                >Points: <span class="points">59</span></span
+                >Points: <span class="points">61</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46585372"
                   >Comments</a
                 ><span class="descendants">: 8</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="46579387">
-          <h3>
-            <a class="item" href="https://theorem.dev/blog/anthropic-bug-test/"
-              >Systematically generating tests that would have caught
-              Anthropic's top‑K bug</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-01-11 @ 20:02:21</span
-              ><span class="points-container"
-                >Points: <span class="points">63</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=46579387"
-                  >Comments</a
-                ><span class="descendants">: 17</span></span
               >
             </h4>
           </section>
@@ -759,40 +859,40 @@
             <a
               class="item"
               href="https://www.swinburne.edu.au/news/2025/08/why-some-clothes-shrink-in-the-wash-and-how-to-unshrink-them/"
-              >Why some clothes shrink in the wash – and how to 'unshrink'
-              them</a
+              >Why some clothes shrink in the wash and how to unshrink them</a
             >
           </h3>
           <section>
             <h4>
               <span>2026-01-11 @ 02:58:36</span
               ><span class="points-container"
-                >Points: <span class="points">321</span></span
+                >Points: <span class="points">328</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46572307"
                   >Comments</a
-                ><span class="descendants">: 183</span></span
+                ><span class="descendants">: 187</span></span
               >
             </h4>
           </section>
         </section>
-        <section id="46568472">
+        <section id="46570811">
           <h3>
             <a
               class="item"
-              href="https://www.jefftk.com/p/you-can-just-buy-far-uvc"
-              >You Can Just Buy Far-UVC</a
+              href="https://adventure.com/ski-map-artist-james-niehues/"
+              >Meet ski map artist James Niehues, the 'Monet of the
+              mountains'</a
             >
           </h3>
           <section>
             <h4>
-              <span>2026-01-10 @ 18:26:56</span
+              <span>2026-01-10 @ 22:58:25</span
               ><span class="points-container"
-                >Points: <span class="points">34</span></span
+                >Points: <span class="points">41</span></span
               ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=46568472"
+                ><a href="https://news.ycombinator.com/item?id=46570811"
                   >Comments</a
-                ><span class="descendants">: 42</span></span
+                ><span class="descendants">: 4</span></span
               >
             </h4>
           </section>
@@ -809,7 +909,7 @@
             <h4>
               <span>2026-01-08 @ 22:29:08</span
               ><span class="points-container"
-                >Points: <span class="points">13</span></span
+                >Points: <span class="points">14</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46547400"
                   >Comments</a
