@@ -1,12 +1,12 @@
 [
   [
     [
-      "2026-01-14, 19:13:14",
-      "https://news.ycombinator.com/item?id=46621136"
+      "2026-01-14, 19:53:15",
+      "https://news.ycombinator.com/item?id=46621945"
     ],
     [
-      "Verizon, AT&T, and T-Mobile are all having outages now",
-      "https://www.howtogeek.com/verizon-att-and-t-mobile-are-all-having-outages-right-now/"
+      "Why Every Country Should Set 16 as the Minimum Age for Social Media Accounts",
+      "https://www.afterbabel.com/p/why-every-country-should-set-16"
     ]
   ],
   [
@@ -161,6 +161,16 @@
   ],
   [
     [
+      "2026-01-14, 14:42:06",
+      "https://news.ycombinator.com/item?id=46616569"
+    ],
+    [
+      "Never-before-seen Linux malware is \"more advanced than typical\"",
+      "https://arstechnica.com/security/2026/01/never-before-seen-linux-malware-is-far-more-advanced-than-typical/"
+    ]
+  ],
+  [
+    [
       "2026-01-14, 14:35:50",
       "https://news.ycombinator.com/item?id=46616496"
     ],
@@ -221,26 +231,6 @@
   ],
   [
     [
-      "2026-01-14, 03:08:37",
-      "https://news.ycombinator.com/item?id=46611823"
-    ],
-    [
-      "1000 Blank White Cards",
-      "https://en.wikipedia.org/wiki/1000_Blank_White_Cards"
-    ]
-  ],
-  [
-    [
-      "2026-01-14, 01:56:52",
-      "https://news.ycombinator.com/item?id=46611348"
-    ],
-    [
-      "Show HN: OSS AI agent that indexes and searches the Epstein files",
-      "https://epstein.trynia.ai/"
-    ]
-  ],
-  [
-    [
       "2026-01-13, 10:57:02",
       "https://news.ycombinator.com/item?id=46599403"
     ],
@@ -267,6 +257,16 @@
     [
       "A Brief Introduction to the Basics of Game Theory",
       "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1968579"
+    ]
+  ],
+  [
+    [
+      "2026-01-11, 20:02:21",
+      "https://news.ycombinator.com/item?id=46579387"
+    ],
+    [
+      "Systematically generating tests that would have caught Anthropic's top‑K bug",
+      "https://theorem.dev/blog/anthropic-bug-test/"
     ]
   ],
   [
