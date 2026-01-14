@@ -44,6 +44,7 @@
 * [2026-01-09, 16:23:44](https://news.ycombinator.com/item?id=46555485) - [Cloudspecs: Cloud Hardware Evolution Through the Looking Glass](http://muratbuffalo.blogspot.com/2026/01/cloudspecs-cloud-hardware-evolution.html)
 * [2026-01-09, 16:05:59](https://news.ycombinator.com/item?id=46555302) - [Developers Are Solving the Wrong Problem](https://caseysoftware.com/blog/developers-are-solving-the-wrong-problem)
 * [2026-01-09, 16:05:26](https://news.ycombinator.com/item?id=46555297) - [Inlining – The Ultimate Optimisation](https://xania.org/202512/17-inlining-the-ultimate-optimisation)
+* [2026-01-09, 15:38:17](https://news.ycombinator.com/item?id=46554982) - [Putting the \"You\" in CPU (2023)](https://cpu.land/)
 * [2026-01-09, 15:29:37](https://news.ycombinator.com/item?id=46554897) - [Amiga Pointer Archive](https://heckmeck.de/pointers/)
 * [2026-01-09, 15:17:45](https://news.ycombinator.com/item?id=46554775) - [Designing an IPv6-native P2P transport – lessons from building I6P](https://theushen.medium.com/designing-an-ipv6-native-p2p-transport-lessons-from-building-i6p-b8ca216d1d73)
 * [2026-01-09, 15:17:45](https://news.ycombinator.com/item?id=46554774) - [Handling secrets (somewhat) securely in shells](https://linus.schreibt.jetzt/posts/shell-secrets.html)
