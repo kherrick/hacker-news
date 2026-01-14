@@ -20,6 +20,7 @@
 * [2026-01-10, 18:58:37](https://news.ycombinator.com/item?id=46568794) - [Finding and Fixing Ghostty's Largest Memory Leak](https://mitchellh.com/writing/ghostty-memory-leak-fix)
 * [2026-01-10, 18:56:14](https://news.ycombinator.com/item?id=46568769) - [Is beef tallow making a comeback?](https://www.nytimes.com/2026/01/10/dining/beef-tallow-food-pyramid-rfk-jr.html)
 * [2026-01-10, 18:44:46](https://news.ycombinator.com/item?id=46568662) - [Rats caught on camera hunting flying bats](https://scienceclock.com/rats-caught-on-camera-hunting-flying-bats-for-the-first-time/)
+* [2026-01-10, 18:26:56](https://news.ycombinator.com/item?id=46568472) - [You Can Just Buy Far-UVC](https://www.jefftk.com/p/you-can-just-buy-far-uvc)
 * [2026-01-10, 17:21:16](https://news.ycombinator.com/item?id=46567696) - [Circumcision classed as possible child abuse in draft CPS document](https://www.theguardian.com/society/2026/jan/10/circumcision-classed-as-possible-child-abuse-in-draft-cps-document)
 * [2026-01-10, 17:13:16](https://news.ycombinator.com/item?id=46567588) - [Kavanaugh Stop](https://en.wikipedia.org/wiki/Kavanaugh_stop)
 * [2026-01-10, 17:02:30](https://news.ycombinator.com/item?id=46567467) - [Minnesota vs. US Federal Government Timeline Project](https://mnvsus.fyi)

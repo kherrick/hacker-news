@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-01-14](index.md)
 
+* [2026-01-14, 19:03:43](https://news.ycombinator.com/item?id=46620941) - [US to suspend immigrant visa processing for 75 nations, State Department says](https://www.reuters.com/world/us/us-suspend-visa-processing-75-nations-next-week-fox-news-reports-2026-01-14/)
+* [2026-01-14, 18:58:16](https://news.ycombinator.com/item?id=46620835) - [East coast. Verizon outage in US](https://www.firstcoastnews.com/article/news/nation-world/verizon-outage-reported/507-ef3cb3d0-f595-432f-9f84-d1690a5085a7)
 * [2026-01-14, 17:43:27](https://news.ycombinator.com/item?id=46619275) - [Dutch police have their own car stolen during car theft chase](https://dutchreview.com/news/dutch-police-car-stolen-during-chase/)
 * [2026-01-14, 17:27:22](https://news.ycombinator.com/item?id=46619030) - [So, You've Hit an Age Gate. What Now?](https://www.eff.org/deeplinks/2026/01/so-youve-hit-age-gate-what-now)
 * [2026-01-14, 17:20:09](https://news.ycombinator.com/item?id=46618901) - [Ford F-150 Lightning outsold the Cybertruck and was then canceled for poor sales](https://electrek.co/2026/01/13/ford-f150-lightning-outsold-tesla-cybertruck-canceled-not-selling-enough/)
