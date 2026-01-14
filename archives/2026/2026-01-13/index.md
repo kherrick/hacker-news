@@ -34,6 +34,7 @@
 * [2026-01-13, 17:55:37](https://news.ycombinator.com/item?id=46604862) - [Show HN: Ayder – HTTP-native durable event log written in C (curl as client)](https://github.com/A1darbek/ayder)
 * [2026-01-13, 17:53:31](https://news.ycombinator.com/item?id=46604828) - [Ask HN: Iran's 120h internet shutdown, phones back. How to stay resilient?](https://news.ycombinator.com/item?id=46604828)
 * [2026-01-13, 17:32:39](https://news.ycombinator.com/item?id=46604443) - [Dilbert's Scott Adams Dies](https://www.inc.com/jennifer-conrad/scott-adams-dilbert-dies-at-68/91286247)
+* [2026-01-13, 17:26:22](https://news.ycombinator.com/item?id=46604308) - [Show HN: The Tsonic Programming Language](https://tsonic.org)
 * [2026-01-13, 17:23:46](https://news.ycombinator.com/item?id=46604250) - [How to make a damn website (2024)](https://lmnt.me/blog/how-to-make-a-damn-website.html)
 * [2026-01-13, 17:14:14](https://news.ycombinator.com/item?id=46604067) - [Show HN: Microwave – Native iOS app for videos on ATproto](https://testflight.apple.com/join/cVxV1W3g)
 * [2026-01-13, 17:10:42](https://news.ycombinator.com/item?id=46603995) - [The Tulip Creative Computer](https://github.com/shorepine/tulipcc)
