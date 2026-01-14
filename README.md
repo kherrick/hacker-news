@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2026-01-14, 11:21:15](https://news.ycombinator.com/item?id=46614777) - [UK secures record supply of offshore wind projects](https://www.bbc.co.uk/news/articles/cn9zyx150xdo)
+* [2026-01-14, 11:09:35](https://news.ycombinator.com/item?id=46614688) - [Show HN: Tiny FOSS Compass and Navigation App (<2MB)](https://github.com/CompassMB/MBCompass)
 * [2026-01-14, 09:25:58](https://news.ycombinator.com/item?id=46614037) - [I Love You, Redis, but I'm Leaving You for SolidQueue](https://www.simplethread.com/redis-solidqueue/)
 * [2026-01-14, 03:08:37](https://news.ycombinator.com/item?id=46611823) - [1000 Blank White Cards](https://en.wikipedia.org/wiki/1000_Blank_White_Cards)
 * [2026-01-14, 02:49:25](https://news.ycombinator.com/item?id=46611667) - [The Gleam Programming Language](https://gleam.run/)
@@ -29,7 +30,6 @@
 * [2026-01-09, 15:38:17](https://news.ycombinator.com/item?id=46554982) - [Putting the \"You\" in CPU (2023)](https://cpu.land/)
 * [2026-01-09, 15:17:45](https://news.ycombinator.com/item?id=46554774) - [Handling secrets (somewhat) securely in shells](https://linus.schreibt.jetzt/posts/shell-secrets.html)
 * [2026-01-09, 14:50:46](https://news.ycombinator.com/item?id=46554461) - [April 9, 1940 a Dish Best Served Cold](https://todayinhistory.blog/2021/04/09/april-9-1940-a-dish-best-served-cold/)
-* [2026-01-09, 05:44:58](https://news.ycombinator.com/item?id=46550453) - [Agonist-Antagonist Myoneural Interface](https://www.media.mit.edu/projects/agonist-antagonist-myoneural-interface-ami/overview/)
 
 ## [Archives](archives/index.md)
 

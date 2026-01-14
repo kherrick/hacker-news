@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2026-01-14](index.md)
 
 * [2026-01-14, 11:21:15](https://news.ycombinator.com/item?id=46614777) - [UK secures record supply of offshore wind projects](https://www.bbc.co.uk/news/articles/cn9zyx150xdo)
+* [2026-01-14, 11:09:35](https://news.ycombinator.com/item?id=46614688) - [Show HN: Tiny FOSS Compass and Navigation App (<2MB)](https://github.com/CompassMB/MBCompass)
 * [2026-01-14, 09:25:58](https://news.ycombinator.com/item?id=46614037) - [I Love You, Redis, but I'm Leaving You for SolidQueue](https://www.simplethread.com/redis-solidqueue/)
 * [2026-01-14, 09:20:19](https://news.ycombinator.com/item?id=46613997) - [LLMs are a 400-year-long confidence trick](https://tomrenner.com/posts/400-year-confidence-trick/)
 * [2026-01-14, 06:16:24](https://news.ycombinator.com/item?id=46612934) - [DHS Deportation Reels Are Getting Copyright Strikes for Unlicensed Music Use](https://reason.com/2026/01/11/the-deportation-playlist-is-mostly-stolen/)
