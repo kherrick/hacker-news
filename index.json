@@ -1,11 +1,21 @@
 [
   [
     [
+      "2026-01-14, 00:17:19",
+      "https://news.ycombinator.com/item?id=46610557"
+    ],
+    [
+      "The $LANG Programming Language",
+      "https://news.ycombinator.com/item?id=46610557"
+    ]
+  ],
+  [
+    [
       "2026-01-13, 23:00:36",
       "https://news.ycombinator.com/item?id=46609630"
     ],
     [
-      "A 40-Line Fix Eliminated a 400x Performance Gap",
+      "A 40-line fix eliminated a 400x performance gap",
       "https://questdb.com/blog/jvm-current-thread-user-time/"
     ]
   ],
@@ -15,8 +25,18 @@
       "https://news.ycombinator.com/item?id=46609591"
     ],
     [
-      "The Insecure Evangelism of LLM Maximalists",
+      "The insecure evangelism of LLM maximalists",
       "https://lewiscampbell.tech/blog/260114.html"
+    ]
+  ],
+  [
+    [
+      "2026-01-13, 22:49:51",
+      "https://news.ycombinator.com/item?id=46609492"
+    ],
+    [
+      "EOL hardware should mean open-source software",
+      "https://www.marcia.no/words/eol"
     ]
   ],
   [
@@ -35,7 +55,7 @@
       "https://news.ycombinator.com/item?id=46609279"
     ],
     [
-      "We Don't Use AI",
+      "Why we don’t use AI",
       "https://yarnspinner.dev/blog/why-we-dont-use-ai/"
     ]
   ],
@@ -111,16 +131,6 @@
   ],
   [
     [
-      "2026-01-13, 18:37:55",
-      "https://news.ycombinator.com/item?id=46605587"
-    ],
-    [
-      "Let's be honest, Generative AI isn't going all that well",
-      "https://garymarcus.substack.com/p/lets-be-honest-generative-ai-isnt"
-    ]
-  ],
-  [
-    [
       "2026-01-13, 18:31:50",
       "https://news.ycombinator.com/item?id=46605490"
     ],
@@ -191,22 +201,22 @@
   ],
   [
     [
+      "2026-01-13, 15:52:33",
+      "https://news.ycombinator.com/item?id=46602591"
+    ],
+    [
+      "Every GitHub object has two IDs",
+      "https://www.greptile.com/blog/github-ids"
+    ]
+  ],
+  [
+    [
       "2026-01-13, 15:18:43",
       "https://news.ycombinator.com/item?id=46602102"
     ],
     [
       "Scott Adams has died",
       "https://www.youtube.com/watch?v=Rs_JrOIo3SE"
-    ]
-  ],
-  [
-    [
-      "2026-01-13, 14:14:18",
-      "https://news.ycombinator.com/item?id=46601157"
-    ],
-    [
-      "Apple Creator Studio",
-      "https://www.apple.com/newsroom/2026/01/introducing-apple-creator-studio-an-inspiring-collection-of-creative-apps/"
     ]
   ],
   [
@@ -241,6 +251,16 @@
   ],
   [
     [
+      "2026-01-10, 06:12:25",
+      "https://news.ycombinator.com/item?id=46563251"
+    ],
+    [
+      "Understanding the Types of Data in Data",
+      "https://ischool.syracuse.edu/types-of-data/"
+    ]
+  ],
+  [
+    [
       "2026-01-09, 21:01:13",
       "https://news.ycombinator.com/item?id=46559266"
     ],
@@ -271,32 +291,12 @@
   ],
   [
     [
-      "2026-01-08, 16:12:13",
-      "https://news.ycombinator.com/item?id=46542693"
-    ],
-    [
-      "LANL's ICE House Tests Microelectronics for Cosmic Radiation Exposure",
-      "https://www.lanl.gov/media/publications/1663/ice-house-heats-up"
-    ]
-  ],
-  [
-    [
       "2026-01-07, 23:16:18",
       "https://news.ycombinator.com/item?id=46534632"
     ],
     [
       "Japan's Skyscraper Factories (2021)",
       "https://www.construction-physics.com/p/japans-skyscraper-factories"
-    ]
-  ],
-  [
-    [
-      "2026-01-07, 19:03:24",
-      "https://news.ycombinator.com/item?id=46530920"
-    ],
-    [
-      "Git Rebase for the Terrified",
-      "https://www.brethorsting.com/blog/2026/01/git-rebase-for-the-terrified/"
     ]
   ]
 ]
