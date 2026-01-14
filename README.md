@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-01-14, 21:26:51](https://news.ycombinator.com/item?id=46623761) - [Sun Position Calculator](https://drajmarsh.bitbucket.io/earthsun.html)
 * [2026-01-14, 20:54:39](https://news.ycombinator.com/item?id=46623195) - [The Influentists: AI hype without proof](https://carette.xyz/posts/influentists/)
 * [2026-01-14, 20:18:16](https://news.ycombinator.com/item?id=46622463) - [Wind power slashed 4.6B euros off electricity bills in Spain last year](https://www.surinenglish.com/spain/wind-power-slashes-billion-euros-off-electricity-bills-20251217082020-nt.html)
 * [2026-01-14, 20:12:25](https://news.ycombinator.com/item?id=46622328) - [Claude Cowork Exfiltrates Files](https://www.promptarmor.com/resources/claude-cowork-exfiltrates-files)
 * [2026-01-14, 20:02:36](https://news.ycombinator.com/item?id=46622139) - [Show HN: Harmony – AI notetaker for Discord](https://harmonynotetaker.ai/)
 * [2026-01-14, 19:45:21](https://news.ycombinator.com/item?id=46621786) - [Show HN: A fast CLI and MCP server for managing Lambda cloud GPU instances](https://github.com/Strand-AI/lambda-cli)
-* [2026-01-14, 19:39:27](https://news.ycombinator.com/item?id=46621668) - [US to suspend immigrant visa processing for 75 nations, State Department says](https://www.reuters.com/world/us/us-suspend-visa-processing-75-nations-next-week-fox-news-reports-2026-01-14/)
 * [2026-01-14, 19:31:48](https://news.ycombinator.com/item?id=46621518) - [The string theory hype machine will never die](https://www.math.columbia.edu/~woit/wordpress/?p=15407)
 * [2026-01-14, 18:58:16](https://news.ycombinator.com/item?id=46620835) - [Verizon outages reported across U.S.](https://www.firstcoastnews.com/article/news/nation-world/verizon-outage-reported/507-ef3cb3d0-f595-432f-9f84-d1690a5085a7)
 * [2026-01-14, 18:49:37](https://news.ycombinator.com/item?id=46620673) - [Native ZFS VDEV for Object Storage (OpenZFS Summit)](https://www.zettalane.com/blog/openzfs-summit-2025-mayanas-objbacker.html)
