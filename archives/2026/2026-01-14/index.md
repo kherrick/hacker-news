@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-01-14](index.md)
 
+* [2026-01-14, 14:57:30](https://news.ycombinator.com/item?id=46616745) - [FBI raids Washington Post reporter's home in 'highly unusual and aggressive' act](https://www.theguardian.com/us-news/2026/jan/14/fbi-raid-washington-post-hannah-natanson)
+* [2026-01-14, 14:42:06](https://news.ycombinator.com/item?id=46616569) - [Never-before-seen Linux malware is \"more advanced than typical\"](https://arstechnica.com/security/2026/01/never-before-seen-linux-malware-is-far-more-advanced-than-typical/)
+* [2026-01-14, 14:35:50](https://news.ycombinator.com/item?id=46616496) - [Edge of Emulation: Game Boy Sewing Machines](https://shonumi.github.io/articles/art22.html)
 * [2026-01-14, 14:34:57](https://news.ycombinator.com/item?id=46616488) - [SparkFun Officially Dropping AdaFruit due to CoC Violation](https://www.sparkfun.com/official-response)
 * [2026-01-14, 12:42:02](https://news.ycombinator.com/item?id=46615374) - [Why NUKEMAP isn't on Google Maps anymore (2019)](https://blog.nuclearsecrecy.com/2019/12/13/why-nukemap-isnt-on-google-maps-anymore/)
 * [2026-01-14, 12:25:59](https://news.ycombinator.com/item?id=46615235) - [Lago (Open-Source Billing) is hiring across teams and geos](https://news.ycombinator.com/item?id=46615235)

@@ -1,5 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-01-14, 14:57:30](https://news.ycombinator.com/item?id=46616745) - [FBI raids Washington Post reporter's home in 'highly unusual and aggressive' act](https://www.theguardian.com/us-news/2026/jan/14/fbi-raid-washington-post-hannah-natanson)
+* [2026-01-14, 14:42:06](https://news.ycombinator.com/item?id=46616569) - [Never-before-seen Linux malware is \"more advanced than typical\"](https://arstechnica.com/security/2026/01/never-before-seen-linux-malware-is-far-more-advanced-than-typical/)
+* [2026-01-14, 14:35:50](https://news.ycombinator.com/item?id=46616496) - [Edge of Emulation: Game Boy Sewing Machines](https://shonumi.github.io/articles/art22.html)
 * [2026-01-14, 14:34:57](https://news.ycombinator.com/item?id=46616488) - [SparkFun Officially Dropping AdaFruit due to CoC Violation](https://www.sparkfun.com/official-response)
 * [2026-01-14, 12:42:02](https://news.ycombinator.com/item?id=46615374) - [Why NUKEMAP isn't on Google Maps anymore (2019)](https://blog.nuclearsecrecy.com/2019/12/13/why-nukemap-isnt-on-google-maps-anymore/)
 * [2026-01-14, 12:25:59](https://news.ycombinator.com/item?id=46615235) - [Lago (Open-Source Billing) is hiring across teams and geos](https://news.ycombinator.com/item?id=46615235)
@@ -15,10 +18,7 @@
 * [2026-01-14, 00:17:19](https://news.ycombinator.com/item?id=46610557) - [The $LANG Programming Language](https://news.ycombinator.com/item?id=46610557)
 * [2026-01-13, 23:00:36](https://news.ycombinator.com/item?id=46609630) - [A 40-line fix eliminated a 400x performance gap](https://questdb.com/blog/jvm-current-thread-user-time/)
 * [2026-01-13, 18:54:30](https://news.ycombinator.com/item?id=46605854) - [No management needed: anti-patterns in early-stage engineering teams](https://www.ablg.io/blog/no-management-needed)
-* [2026-01-13, 18:31:50](https://news.ycombinator.com/item?id=46605490) - [AI generated music barred from Bandcamp](https://old.reddit.com/r/BandCamp/comments/1qbw8ba/ai_generated_music_on_bandcamp/)
 * [2026-01-13, 18:22:00](https://news.ycombinator.com/item?id=46605332) - [The truth behind the 2026 J.P. Morgan Healthcare Conference](https://www.owlposting.com/p/the-truth-behind-the-2026-jp-morgan)
-* [2026-01-13, 17:26:22](https://news.ycombinator.com/item?id=46604308) - [Show HN: The Tsonic Programming Language](https://tsonic.org)
-* [2026-01-13, 17:10:42](https://news.ycombinator.com/item?id=46603995) - [The Tulip Creative Computer](https://github.com/shorepine/tulipcc)
 * [2026-01-13, 16:22:59](https://news.ycombinator.com/item?id=46603111) - [Are two heads better than one?](https://eieio.games/blog/two-heads-arent-better-than-one/)
 * [2026-01-13, 15:59:59](https://news.ycombinator.com/item?id=46602737) - [vLLM large scale serving: DeepSeek 2.2k tok/s/h200 with wide-ep](https://blog.vllm.ai/2025/12/17/large-scale-serving.html)
 * [2026-01-13, 15:52:33](https://news.ycombinator.com/item?id=46602591) - [Every GitHub object has two IDs](https://www.greptile.com/blog/github-ids)
@@ -26,10 +26,10 @@
 * [2026-01-12, 06:37:26](https://news.ycombinator.com/item?id=46584864) - [The Emacs Widget Library: A Critique and Case Study](https://www.d12frosted.io/posts/2025-11-26-emacs-widget-library)
 * [2026-01-11, 20:23:14](https://news.ycombinator.com/item?id=46579612) - [Show HN: 1D-Pong Game at 39C3](https://github.com/ogermer/1d-pong)
 * [2026-01-11, 20:02:21](https://news.ycombinator.com/item?id=46579387) - [Systematically generating tests that would have caught Anthropic's top‑K bug](https://theorem.dev/blog/anthropic-bug-test/)
+* [2026-01-11, 02:58:36](https://news.ycombinator.com/item?id=46572307) - [Why some clothes shrink in the wash – and how to 'unshrink' them](https://www.swinburne.edu.au/news/2025/08/why-some-clothes-shrink-in-the-wash-and-how-to-unshrink-them/)
 * [2026-01-10, 19:37:36](https://news.ycombinator.com/item?id=46569175) - [Is Rust faster than C?](https://steveklabnik.com/writing/is-rust-faster-than-c/)
 * [2026-01-09, 19:13:56](https://news.ycombinator.com/item?id=46557853) - [India's Electric Two-Wheeler Market: Rise, Reset and What Comes Next](https://micromobility.io/news/indias-electric-two-wheeler-market-rise-reset-and-what-comes-next)
 * [2026-01-09, 15:38:17](https://news.ycombinator.com/item?id=46554982) - [Putting the \"You\" in CPU (2023)](https://cpu.land/)
-* [2026-01-09, 14:50:46](https://news.ycombinator.com/item?id=46554461) - [April 9, 1940 a Dish Best Served Cold (2021)](https://todayinhistory.blog/2021/04/09/april-9-1940-a-dish-best-served-cold/)
 
 ## [Archives](archives/index.md)
 
