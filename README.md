@@ -1,13 +1,13 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-01-14, 03:35:35](https://news.ycombinator.com/item?id=46612001) - [AI will compromise your cybersecurity posture](https://rys.io/en/181.html)
+* [2026-01-14, 03:08:37](https://news.ycombinator.com/item?id=46611823) - [1000 Blank White Cards](https://en.wikipedia.org/wiki/1000_Blank_White_Cards)
 * [2026-01-14, 02:49:25](https://news.ycombinator.com/item?id=46611667) - [The Gleam Programming Language](https://gleam.run/)
-* [2026-01-14, 02:29:08](https://news.ycombinator.com/item?id=46611550) - [Stop using natural language interfaces](https://tidepool.leaflet.pub/3mcbegnuf2k2i)
 * [2026-01-14, 02:28:52](https://news.ycombinator.com/item?id=46611548) - [Show HN: Cachekit – High performance caching policies library in Rust](https://github.com/OxidizeLabs/cachekit)
 * [2026-01-14, 02:20:42](https://news.ycombinator.com/item?id=46611507) - [ASCII Clouds](https://caidan.dev/portfolio/ascii_clouds/)
 * [2026-01-14, 02:01:17](https://news.ycombinator.com/item?id=46611379) - [Show HN: Axis – A systems programming language with Python syntax](https://github.com/AGDNoob/axis-lang)
 * [2026-01-14, 01:56:52](https://news.ycombinator.com/item?id=46611348) - [Show HN: OSS AI agent that indexes and searches the Epstein files](https://epstein.trynia.ai/)
 * [2026-01-14, 01:13:59](https://news.ycombinator.com/item?id=46611063) - [Exa-d: How to store the web in S3](https://exa.ai/blog/exa-d)
-* [2026-01-14, 01:06:45](https://news.ycombinator.com/item?id=46611017) - [Vanderbilt University plans new campus in San Francisco](https://www.wsj.com/us-news/education/vanderbilt-san-francisco-cca-california-college-arts-expansion-lurie-8b6528b0)
 * [2026-01-14, 01:01:12](https://news.ycombinator.com/item?id=46610967) - [Sei (YC W22) Is Hiring a DevOps Engineer (India/In-Office/Chennai/Gurgaon)](https://www.ycombinator.com/companies/sei/jobs/Rn0KPXR-devops-platform-ai-infrastructure-engineer)
 * [2026-01-14, 00:17:19](https://news.ycombinator.com/item?id=46610557) - [The $LANG Programming Language](https://news.ycombinator.com/item?id=46610557)
 * [2026-01-13, 23:00:36](https://news.ycombinator.com/item?id=46609630) - [A 40-line fix eliminated a 400x performance gap](https://questdb.com/blog/jvm-current-thread-user-time/)
@@ -25,11 +25,11 @@
 * [2026-01-13, 15:59:59](https://news.ycombinator.com/item?id=46602737) - [vLLM large scale serving: DeepSeek 2.2k tok/s/h200 with wide-ep](https://blog.vllm.ai/2025/12/17/large-scale-serving.html)
 * [2026-01-13, 15:52:33](https://news.ycombinator.com/item?id=46602591) - [Every GitHub object has two IDs](https://www.greptile.com/blog/github-ids)
 * [2026-01-13, 15:18:43](https://news.ycombinator.com/item?id=46602102) - [Scott Adams has died](https://www.youtube.com/watch?v=Rs_JrOIo3SE)
-* [2026-01-12, 23:02:27](https://news.ycombinator.com/item?id=46595393) - [A deep dive on agent sandboxes](https://pierce.dev/notes/a-deep-dive-on-agent-sandboxes)
 * [2026-01-12, 17:50:01](https://news.ycombinator.com/item?id=46591810) - [There's a ridiculous amount of tech in a disposable vape](https://blog.jgc.org/2026/01/theres-ridiculous-amount-of-tech-in.html)
 * [2026-01-12, 15:36:36](https://news.ycombinator.com/item?id=46589842) - [Why we built our own background agent](https://builders.ramp.com/post/why-we-built-our-background-agent)
 * [2026-01-12, 06:37:26](https://news.ycombinator.com/item?id=46584864) - [The Emacs Widget Library: A Critique and Case Study](https://www.d12frosted.io/posts/2025-11-26-emacs-widget-library)
 * [2026-01-09, 15:17:45](https://news.ycombinator.com/item?id=46554774) - [Handling secrets (somewhat) securely in shells](https://linus.schreibt.jetzt/posts/shell-secrets.html)
+* [2026-01-09, 05:44:58](https://news.ycombinator.com/item?id=46550453) - [Agonist-Antagonist Myoneural Interface](https://www.media.mit.edu/projects/agonist-antagonist-myoneural-interface-ami/overview/)
 
 ## [Archives](archives/index.md)
 

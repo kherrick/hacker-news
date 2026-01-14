@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-01-14](index.md)
 
+* [2026-01-14, 03:35:35](https://news.ycombinator.com/item?id=46612001) - [AI will compromise your cybersecurity posture](https://rys.io/en/181.html)
+* [2026-01-14, 03:08:37](https://news.ycombinator.com/item?id=46611823) - [1000 Blank White Cards](https://en.wikipedia.org/wiki/1000_Blank_White_Cards)
 * [2026-01-14, 02:49:25](https://news.ycombinator.com/item?id=46611667) - [The Gleam Programming Language](https://gleam.run/)
 * [2026-01-14, 02:29:08](https://news.ycombinator.com/item?id=46611550) - [Stop using natural language interfaces](https://tidepool.leaflet.pub/3mcbegnuf2k2i)
 * [2026-01-14, 02:28:52](https://news.ycombinator.com/item?id=46611548) - [Show HN: Cachekit – High performance caching policies library in Rust](https://github.com/OxidizeLabs/cachekit)
