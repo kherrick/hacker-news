@@ -47,6 +47,7 @@
 * [2026-01-12, 13:16:10](https://news.ycombinator.com/item?id=46588032) - [Show HN: Seapie – a Python debugger where breakpoints drop into a REPL](https://github.com/hirsimaki-markus/seapie)
 * [2026-01-12, 13:07:49](https://news.ycombinator.com/item?id=46587934) - [Floppy disks turn out to be the greatest TV remote for kids](https://blog.smartere.dk/2026/01/floppy-disks-the-best-tv-remote-for-kids/)
 * [2026-01-12, 12:57:44](https://news.ycombinator.com/item?id=46587804) - [Zen-C: Write like a high-level language, run like C](https://github.com/z-libs/Zen-C)
+* [2026-01-12, 12:37:40](https://news.ycombinator.com/item?id=46587612) - [I Accidentally Finished a Filesystem](https://github.com/hn4-dev/hn4)
 * [2026-01-12, 12:29:00](https://news.ycombinator.com/item?id=46587536) - [Ozempic reduced grocery spending by an average of 5.3% in the US](https://news.cornell.edu/stories/2025/12/ozempic-changing-foods-americans-buy)
 * [2026-01-12, 12:25:27](https://news.ycombinator.com/item?id=46587498) - [Launch a Debugging Terminal into GitHub Actions](https://blog.gripdev.xyz/2026/01/10/actions-terminal-on-failure-for-debugging/)
 * [2026-01-12, 11:31:56](https://news.ycombinator.com/item?id=46587033) - [How to Build Reactive Declarative UI in Vanilla JavaScript](https://jsdev.space/howto/reactive-vanilla-js/)
