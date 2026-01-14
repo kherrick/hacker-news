@@ -22,12 +22,12 @@
 * [2026-01-13, 16:22:59](https://news.ycombinator.com/item?id=46603111) - [Are two heads better than one?](https://eieio.games/blog/two-heads-arent-better-than-one/)
 * [2026-01-13, 15:59:59](https://news.ycombinator.com/item?id=46602737) - [vLLM large scale serving: DeepSeek 2.2k tok/s/h200 with wide-ep](https://blog.vllm.ai/2025/12/17/large-scale-serving.html)
 * [2026-01-13, 15:52:33](https://news.ycombinator.com/item?id=46602591) - [Every GitHub object has two IDs](https://www.greptile.com/blog/github-ids)
-* [2026-01-13, 15:18:43](https://news.ycombinator.com/item?id=46602102) - [Scott Adams has died](https://www.youtube.com/watch?v=Rs_JrOIo3SE)
 * [2026-01-12, 17:50:01](https://news.ycombinator.com/item?id=46591810) - [There's a ridiculous amount of tech in a disposable vape](https://blog.jgc.org/2026/01/theres-ridiculous-amount-of-tech-in.html)
 * [2026-01-12, 06:37:26](https://news.ycombinator.com/item?id=46584864) - [The Emacs Widget Library: A Critique and Case Study](https://www.d12frosted.io/posts/2025-11-26-emacs-widget-library)
 * [2026-01-11, 20:23:14](https://news.ycombinator.com/item?id=46579612) - [Show HN: 1D-Pong Game at 39C3](https://github.com/ogermer/1d-pong)
 * [2026-01-11, 20:02:21](https://news.ycombinator.com/item?id=46579387) - [Systematically generating tests that would have caught Anthropic's top‑K bug](https://theorem.dev/blog/anthropic-bug-test/)
 * [2026-01-10, 19:37:36](https://news.ycombinator.com/item?id=46569175) - [Is Rust faster than C?](https://steveklabnik.com/writing/is-rust-faster-than-c/)
+* [2026-01-09, 19:13:56](https://news.ycombinator.com/item?id=46557853) - [India's Electric Two-Wheeler Market: Rise, Reset and What Comes Next](https://micromobility.io/news/indias-electric-two-wheeler-market-rise-reset-and-what-comes-next)
 * [2026-01-09, 15:38:17](https://news.ycombinator.com/item?id=46554982) - [Putting the \"You\" in CPU (2023)](https://cpu.land/)
 * [2026-01-09, 14:50:46](https://news.ycombinator.com/item?id=46554461) - [April 9, 1940 a Dish Best Served Cold (2021)](https://todayinhistory.blog/2021/04/09/april-9-1940-a-dish-best-served-cold/)
 

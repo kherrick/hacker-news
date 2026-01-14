@@ -18,6 +18,7 @@
 * [2026-01-09, 19:44:18](https://news.ycombinator.com/item?id=46558284) - [Datadog, thank you for blocking us](https://www.deductive.ai/blogs/datadog-thank-you-for-blocking-us)
 * [2026-01-09, 19:33:47](https://news.ycombinator.com/item?id=46558148) - [RTX 5090 and Raspberry Pi: Can It Game?](https://scottjg.com/posts/2026-01-08-crappy-computer-showdown/)
 * [2026-01-09, 19:15:21](https://news.ycombinator.com/item?id=46557879) - [Show HN: Rocket Launch and Orbit Simulator](https://www.donutthejedi.com/)
+* [2026-01-09, 19:13:56](https://news.ycombinator.com/item?id=46557853) - [India's Electric Two-Wheeler Market: Rise, Reset and What Comes Next](https://micromobility.io/news/indias-electric-two-wheeler-market-rise-reset-and-what-comes-next)
 * [2026-01-09, 19:11:59](https://news.ycombinator.com/item?id=46557825) - [Code and Let Live](https://fly.io/blog/code-and-let-live/)
 * [2026-01-09, 19:11:57](https://news.ycombinator.com/item?id=46557823) - [Show HN: EuConform – Offline-first EU AI Act compliance tool (open source)](https://github.com/Hiepler/EuConform)
 * [2026-01-09, 19:05:04](https://news.ycombinator.com/item?id=46557733) - [The Cray-1 Computer System (1977) [pdf]](https://s3data.computerhistory.org/brochures/cray.cray1.1977.102638650.pdf)
