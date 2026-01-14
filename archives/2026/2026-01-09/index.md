@@ -49,6 +49,7 @@
 * [2026-01-09, 15:17:45](https://news.ycombinator.com/item?id=46554774) - [Handling secrets (somewhat) securely in shells](https://linus.schreibt.jetzt/posts/shell-secrets.html)
 * [2026-01-09, 15:07:17](https://news.ycombinator.com/item?id=46554652) - [How to store a chess position in 26 bytes](https://ezzeriesa.notion.site/How-to-store-a-chess-position-in-26-bytes-using-bit-level-magic-df1fdb5364eb42fdac11eb23b25e9605)
 * [2026-01-09, 14:50:48](https://news.ycombinator.com/item?id=46554462) - [London–Calcutta Bus Service](https://en.wikipedia.org/wiki/London%E2%80%93Calcutta_bus_service)
+* [2026-01-09, 14:50:46](https://news.ycombinator.com/item?id=46554461) - [April 9, 1940 a Dish Best Served Cold – Historical Easter Eggs](https://todayinhistory.blog/2021/04/09/april-9-1940-a-dish-best-served-cold/)
 * [2026-01-09, 14:38:57](https://news.ycombinator.com/item?id=46554307) - [ICE Is What Happens When America Refuses to Learn from Black History](https://jemartisby.substack.com/p/ice-is-what-happens-when-america)
 * [2026-01-09, 14:34:03](https://news.ycombinator.com/item?id=46554255) - [How problematic is resampling audio from 44.1 to 48 kHz?](https://kevinboone.me/sample48.html)
 * [2026-01-09, 14:22:27](https://news.ycombinator.com/item?id=46554125) - [Beating the House for the Love of Math](https://advantage-player.com/blog/from-excel-to-web-blackjack-calculator)

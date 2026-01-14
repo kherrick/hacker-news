@@ -6,7 +6,6 @@
 * [2026-01-14, 02:29:08](https://news.ycombinator.com/item?id=46611550) - [Stop using natural language interfaces](https://tidepool.leaflet.pub/3mcbegnuf2k2i)
 * [2026-01-14, 02:28:52](https://news.ycombinator.com/item?id=46611548) - [Show HN: Cachekit – High performance caching policies library in Rust](https://github.com/OxidizeLabs/cachekit)
 * [2026-01-14, 02:20:42](https://news.ycombinator.com/item?id=46611507) - [ASCII Clouds](https://caidan.dev/portfolio/ascii_clouds/)
-* [2026-01-14, 02:01:17](https://news.ycombinator.com/item?id=46611379) - [Show HN: Axis – A systems programming language with Python syntax](https://github.com/AGDNoob/axis-lang)
 * [2026-01-14, 01:56:52](https://news.ycombinator.com/item?id=46611348) - [Show HN: OSS AI agent that indexes and searches the Epstein files](https://epstein.trynia.ai/)
 * [2026-01-14, 01:13:59](https://news.ycombinator.com/item?id=46611063) - [Exa-d: How to store the web in S3](https://exa.ai/blog/exa-d)
 * [2026-01-14, 01:01:12](https://news.ycombinator.com/item?id=46610967) - [Sei (YC W22) Is Hiring a DevOps Engineer (India/In-Office/Chennai/Gurgaon)](https://www.ycombinator.com/companies/sei/jobs/Rn0KPXR-devops-platform-ai-infrastructure-engineer)
@@ -29,6 +28,7 @@
 * [2026-01-12, 15:36:36](https://news.ycombinator.com/item?id=46589842) - [Why we built our own background agent](https://builders.ramp.com/post/why-we-built-our-background-agent)
 * [2026-01-12, 06:37:26](https://news.ycombinator.com/item?id=46584864) - [The Emacs Widget Library: A Critique and Case Study](https://www.d12frosted.io/posts/2025-11-26-emacs-widget-library)
 * [2026-01-09, 15:17:45](https://news.ycombinator.com/item?id=46554774) - [Handling secrets (somewhat) securely in shells](https://linus.schreibt.jetzt/posts/shell-secrets.html)
+* [2026-01-09, 14:50:46](https://news.ycombinator.com/item?id=46554461) - [April 9, 1940 a Dish Best Served Cold – Historical Easter Eggs](https://todayinhistory.blog/2021/04/09/april-9-1940-a-dish-best-served-cold/)
 * [2026-01-09, 05:44:58](https://news.ycombinator.com/item?id=46550453) - [Agonist-Antagonist Myoneural Interface](https://www.media.mit.edu/projects/agonist-antagonist-myoneural-interface-ami/overview/)
 
 ## [Archives](archives/index.md)
