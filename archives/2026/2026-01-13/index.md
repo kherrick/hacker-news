@@ -6,6 +6,7 @@
 
 * [2026-01-13, 23:00:36](https://news.ycombinator.com/item?id=46609630) - [A 40-Line Fix Eliminated a 400x Performance Gap](https://questdb.com/blog/jvm-current-thread-user-time/)
 * [2026-01-13, 22:57:23](https://news.ycombinator.com/item?id=46609591) - [The Insecure Evangelism of LLM Maximalists](https://lewiscampbell.tech/blog/260114.html)
+* [2026-01-13, 22:49:51](https://news.ycombinator.com/item?id=46609492) - [EOL hardware should mean open-source software](https://www.marcia.no/words/eol)
 * [2026-01-13, 22:39:34](https://news.ycombinator.com/item?id=46609389) - [Show HN: AsciiSketch a free browser-based ASCII art and diagram editor](https://files.littlebird.com.au/ascii-sketch.html)
 * [2026-01-13, 22:30:53](https://news.ycombinator.com/item?id=46609279) - [We Don't Use AI](https://yarnspinner.dev/blog/why-we-dont-use-ai/)
 * [2026-01-13, 22:07:27](https://news.ycombinator.com/item?id=46608971) - [Terra - A rolling-release Fedora repository](https://terra.fyralabs.com/)
@@ -40,6 +41,7 @@
 * [2026-01-13, 16:47:39](https://news.ycombinator.com/item?id=46603535) - [Influencers and OnlyFans models are dominating O-1 visa requests](https://www.theguardian.com/us-news/2026/jan/11/onlyfans-influencers-us-o-1-visa)
 * [2026-01-13, 16:41:40](https://news.ycombinator.com/item?id=46603431) - [Scott Adams has died](https://www.usatoday.com/story/entertainment/celebrities/2026/01/13/scott-adams-dead-dilbert-creator-prostate-cancer/88158828007/)
 * [2026-01-13, 16:22:59](https://news.ycombinator.com/item?id=46603111) - [Are two heads better than one?](https://eieio.games/blog/two-heads-arent-better-than-one/)
+* [2026-01-13, 15:52:33](https://news.ycombinator.com/item?id=46602591) - [Every GitHub object has two IDs](https://www.greptile.com/blog/github-ids)
 * [2026-01-13, 15:49:27](https://news.ycombinator.com/item?id=46602532) - [What a year of solar and batteries saved us in 2025](https://scotthelme.co.uk/what-a-year-of-solar-and-batteries-really-saved-us-in-2025/)
 * [2026-01-13, 15:39:17](https://news.ycombinator.com/item?id=46602383) - [Command K Bars](https://maggieappleton.com/command-bar)
 * [2026-01-13, 15:35:09](https://news.ycombinator.com/item?id=46602324) - [Show HN: Self-host Reddit – 2.38B posts, works offline, yours forever](https://github.com/19-84/redd-archiver)
