@@ -1,6 +1,36 @@
 [
   [
     [
+      "2026-01-15, 19:00:37",
+      "https://news.ycombinator.com/item?id=46637399"
+    ],
+    [
+      "UK offshore wind prices come in 40% cheaper than gas in record auction",
+      "https://electrek.co/2026/01/14/uk-offshore-wind-record-auction/"
+    ]
+  ],
+  [
+    [
+      "2026-01-15, 18:45:18",
+      "https://news.ycombinator.com/item?id=46637165"
+    ],
+    [
+      "JuiceFS is a distributed POSIX file system built on top of Redis and S3",
+      "https://github.com/juicedata/juicefs"
+    ]
+  ],
+  [
+    [
+      "2026-01-15, 18:42:46",
+      "https://news.ycombinator.com/item?id=46637127"
+    ],
+    [
+      "'Elite': The Palantir App ICE Uses to Find Neighborhoods to Raid",
+      "https://werd.io/elite-the-palantir-app-ice-uses-to-find-neighborhoods-to-raid/"
+    ]
+  ],
+  [
+    [
       "2026-01-15, 18:17:52",
       "https://news.ycombinator.com/item?id=46636738"
     ],
@@ -131,16 +161,6 @@
   ],
   [
     [
-      "2026-01-15, 13:18:10",
-      "https://news.ycombinator.com/item?id=46632039"
-    ],
-    [
-      "Programming, Evolved: Lessons and Observations",
-      "https://github.com/kulesh/dotfiles/blob/main/dev/dev/docs/programming-evolved.md"
-    ]
-  ],
-  [
-    [
       "2026-01-15, 13:17:07",
       "https://news.ycombinator.com/item?id=46632023"
     ],
@@ -167,16 +187,6 @@
     [
       "The 3D Software Rendering Technology of 1998's Thief: The Dark Project (2019)",
       "https://nothings.org/gamedev/thief_rendering.html"
-    ]
-  ],
-  [
-    [
-      "2026-01-15, 08:23:02",
-      "https://news.ycombinator.com/item?id=46629682"
-    ],
-    [
-      "Raspberry Pi's New AI Hat Adds 8GB of RAM for Local LLMs",
-      "https://www.jeffgeerling.com/blog/2026/raspberry-pi-ai-hat-2/"
     ]
   ],
   [
@@ -271,22 +281,12 @@
   ],
   [
     [
-      "2026-01-12, 05:42:09",
-      "https://news.ycombinator.com/item?id=46584523"
+      "2026-01-11, 09:20:28",
+      "https://news.ycombinator.com/item?id=46573926"
     ],
     [
-      "Z80 Mem­ber­ship Card",
-      "https://sunrise-ev.com/z80.htm"
-    ]
-  ],
-  [
-    [
-      "2026-01-11, 20:23:24",
-      "https://news.ycombinator.com/item?id=46579617"
-    ],
-    [
-      "Annual Reboot: 52 Questions to Reflect and Reset",
-      "https://elacrain.com/writing/annual-review/"
+      "Goscript: Transpile Go to human-readable TypeScript",
+      "https://github.com/aperturerobotics/goscript"
     ]
   ],
   [
