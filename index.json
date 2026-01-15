@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-01-15, 12:00:37",
+      "https://news.ycombinator.com/item?id=46631276"
+    ],
+    [
+      "Jiga (YC W21) Is Hiring Full Stack Engineers",
+      "https://jiga.io/about-us"
+    ]
+  ],
+  [
+    [
+      "2026-01-15, 10:59:08",
+      "https://news.ycombinator.com/item?id=46630798"
+    ],
+    [
+      "The 3D Software Rendering Technology of 1998's Thief: The Dark Project",
+      "https://nothings.org/gamedev/thief_rendering.html"
+    ]
+  ],
+  [
+    [
       "2026-01-15, 09:54:10",
       "https://news.ycombinator.com/item?id=46630369"
     ],
@@ -11,12 +31,12 @@
   ],
   [
     [
-      "2026-01-15, 08:59:27",
-      "https://news.ycombinator.com/item?id=46629957"
+      "2026-01-15, 09:00:47",
+      "https://news.ycombinator.com/item?id=46629964"
     ],
     [
-      "Nao Labs (Open-Source Analytics Agent, YC X25) Is Hiring",
-      "https://www.ycombinator.com/companies/nao-labs/jobs/KjOBhf5-founding-software-engineer"
+      "Python: Tprof, a Targeting Profiler",
+      "https://adamj.eu/tech/2026/01/14/python-introducing-tprof/"
     ]
   ],
   [
@@ -31,22 +51,22 @@
   ],
   [
     [
-      "2026-01-15, 08:12:46",
-      "https://news.ycombinator.com/item?id=46629610"
-    ],
-    [
-      "Have Taken Up Farming",
-      "https://dylan.gr/1768295794"
-    ]
-  ],
-  [
-    [
       "2026-01-15, 07:58:23",
       "https://news.ycombinator.com/item?id=46629474"
     ],
     [
       "A letter to those who fired tech writers because of AI",
       "https://passo.uno/letter-those-who-fired-tech-writers-ai/"
+    ]
+  ],
+  [
+    [
+      "2026-01-15, 07:20:02",
+      "https://news.ycombinator.com/item?id=46629191"
+    ],
+    [
+      "Show HN: MailPilot – Freedom to go anywhere while your agents work",
+      "https://news.ycombinator.com/item?id=46629191"
     ]
   ],
   [
@@ -231,32 +251,12 @@
   ],
   [
     [
-      "2026-01-14, 05:35:20",
-      "https://news.ycombinator.com/item?id=46612711"
-    ],
-    [
-      "The <Geolocation> HTML Element",
-      "https://developer.chrome.com/blog/geolocation-html-element"
-    ]
-  ],
-  [
-    [
       "2026-01-12, 05:42:09",
       "https://news.ycombinator.com/item?id=46584523"
     ],
     [
       "Z80 Mem­ber­ship Card",
       "https://sunrise-ev.com/z80.htm"
-    ]
-  ],
-  [
-    [
-      "2026-01-10, 16:19:42",
-      "https://news.ycombinator.com/item?id=46566974"
-    ],
-    [
-      "Generate QR Codes with Pure SQL in PostgreSQL",
-      "https://tanelpoder.com/posts/generate-qr-code-with-pure-sql-in-postgres/"
     ]
   ],
   [
@@ -291,12 +291,12 @@
   ],
   [
     [
-      "2026-01-09, 11:02:18",
-      "https://news.ycombinator.com/item?id=46552534"
+      "2026-01-09, 13:23:44",
+      "https://news.ycombinator.com/item?id=46553556"
     ],
     [
-      "How can I build a simple pulse generator to demonstrate transmission lines",
-      "https://electronics.stackexchange.com/questions/764155/how-can-i-build-a-simple-pulse-generator-to-demonstrate-transmission-lines"
+      "Test Your Square Brackets",
+      "https://fluca1978.github.io/2025/12/10/testAndSquareBrackets.html"
     ]
   ]
 ]
