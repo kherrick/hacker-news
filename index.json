@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-01-15, 15:49:23",
+      "https://news.ycombinator.com/item?id=46634263"
+    ],
+    [
+      "European military personnel arrive in Greenland as Trump says US needs island",
+      "https://www.bbc.com/news/articles/cd0ydjvxpejo"
+    ]
+  ],
+  [
+    [
       "2026-01-15, 15:02:42",
       "https://news.ycombinator.com/item?id=46633488"
     ],
@@ -27,6 +37,16 @@
     [
       "The Palantir app helping ICE raids in Minneapolis",
       "https://www.404media.co/elite-the-palantir-app-ice-uses-to-find-neighborhoods-to-raid/"
+    ]
+  ],
+  [
+    [
+      "2026-01-15, 14:16:02",
+      "https://news.ycombinator.com/item?id=46632837"
+    ],
+    [
+      "I spent a year on Linux and forgot to miss Windows",
+      "https://www.theverge.com/features/861968/year-using-linux"
     ]
   ],
   [
@@ -101,16 +121,6 @@
   ],
   [
     [
-      "2026-01-15, 09:54:10",
-      "https://news.ycombinator.com/item?id=46630369"
-    ],
-    [
-      "Photos Capture the Breathtaking Scale of China's Wind and Solar Buildout",
-      "https://e360.yale.edu/digest/china-renewable-photo-essay"
-    ]
-  ],
-  [
-    [
       "2026-01-15, 09:00:47",
       "https://news.ycombinator.com/item?id=46629964"
     ],
@@ -157,16 +167,6 @@
     [
       "Bubblewrap: A nimble way to prevent agents from accessing your .env files",
       "https://patrickmccanna.net/a-better-way-to-limit-claude-code-and-other-coding-agents-access-to-secrets/"
-    ]
-  ],
-  [
-    [
-      "2026-01-15, 00:53:21",
-      "https://news.ycombinator.com/item?id=46626410"
-    ],
-    [
-      "Furiosa: 3.5x efficiency over H100s",
-      "https://furiosa.ai/blog/introducing-rngd-server-efficient-ai-inference-at-data-center-scale"
     ]
   ],
   [
