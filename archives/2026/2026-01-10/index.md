@@ -54,6 +54,7 @@
 * [2026-01-10, 04:44:39](https://news.ycombinator.com/item?id=46562855) - [The Stick in the Stream](https://randsinrepose.com/archives/the-stick-in-the-stream/)
 * [2026-01-10, 04:35:32](https://news.ycombinator.com/item?id=46562790) - [You probably don't need Oh My Zsh](https://rushter.com/blog/zsh-shell/)
 * [2026-01-10, 03:52:48](https://news.ycombinator.com/item?id=46562583) - [OLED Not for Me](https://nuxx.net/blog/2026/01/09/oled-not-for-me/)
+* [2026-01-10, 03:06:36](https://news.ycombinator.com/item?id=46562371) - [MIT Whirlwind I: A High-Speed Electronic Digital Computer (1951)](https://dome.mit.edu/bitstream/handle/1721.3/40245/MC665_r12_R-209.pdf?sequence=1&isAllowed=y)
 * [2026-01-10, 02:56:50](https://news.ycombinator.com/item?id=46562301) - [Maine's black market for baby eels](https://www.pressherald.com/2025/09/09/maines-black-market-for-baby-eels-is-spawning-a-crime-thriller-subgenre/)
 * [2026-01-10, 02:50:26](https://news.ycombinator.com/item?id=46562272) - [USDA suspends federal financial awards to Minnesota and Minneapolis](https://turnto10.com/news/nation-world/enough-is-enough-usda-suspends-federal-financial-awards-to-minnesota-and-minneapolis-fraud-scheme-investigation-governor-tim-walz-mayor-jacob-frey-nick-shirley-feeding-our-children-food-programs)
 * [2026-01-10, 00:32:10](https://news.ycombinator.com/item?id=46561341) - [Show HN: WebTiles – create a tiny 250x250 website with neighbors around you](https://webtiles.kicya.net/)

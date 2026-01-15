@@ -6,6 +6,7 @@
 
 * [2026-01-14, 23:49:34](https://news.ycombinator.com/item?id=46625766) - [Billion-Dollar Idea Generator](https://www.pivotgpt.ceo/)
 * [2026-01-14, 22:42:12](https://news.ycombinator.com/item?id=46624927) - [US, for first time in 50 years, experienced negative net migration in 2025](https://abcnews.go.com/US/us-1st-time-50-years-experienced-negative-net/story?id=129175522)
+* [2026-01-14, 22:30:40](https://news.ycombinator.com/item?id=46624740) - [Ask HN: Weird archive.today behavior?](https://news.ycombinator.com/item?id=46624740)
 * [2026-01-14, 22:30:16](https://news.ycombinator.com/item?id=46624731) - [ChromaDB Explorer](https://www.chroma-explorer.com/)
 * [2026-01-14, 22:26:17](https://news.ycombinator.com/item?id=46624658) - [Crafting Interpreters](https://craftinginterpreters.com/)
 * [2026-01-14, 22:19:36](https://news.ycombinator.com/item?id=46624563) - [Training my smartwatch to track intelligence](https://dmvaldman.github.io/rooklift/)
