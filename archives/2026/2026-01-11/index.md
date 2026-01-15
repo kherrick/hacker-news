@@ -58,6 +58,7 @@
 * [2026-01-11, 10:26:18](https://news.ycombinator.com/item?id=46574276) - [Don't fall into the anti-AI hype](https://antirez.com/news/158)
 * [2026-01-11, 09:20:28](https://news.ycombinator.com/item?id=46573926) - [Goscript: Transpile Go to human-readable TypeScript](https://github.com/aperturerobotics/goscript)
 * [2026-01-11, 08:22:44](https://news.ycombinator.com/item?id=46573688) - [More than one hundred years of Film Sizes](https://wichm.home.xs4all.nl/filmsize.html)
+* [2026-01-11, 07:59:02](https://news.ycombinator.com/item?id=46573566) - [A Unique Performance Optimization for a 3D Geometry Language](https://cprimozic.net/notes/posts/persistent-expr-memo-optimization-for-geoscript/)
 * [2026-01-11, 07:18:07](https://news.ycombinator.com/item?id=46573384) - [Iranian regime tries to shut down Starlink](https://www.timesofisrael.com/iran-appears-to-jam-starlink-after-shutting-down-comms-networks/)
 * [2026-01-11, 05:42:03](https://news.ycombinator.com/item?id=46573001) - [The Concise TypeScript Book](https://github.com/gibbok/typescript-book)
 * [2026-01-11, 05:33:20](https://news.ycombinator.com/item?id=46572968) - [Quake 1 Single-Player Map Design Theories (2001)](https://www.quaddicted.com/webarchive//teamshambler.planetquake.gamespy.com/theories1.html)

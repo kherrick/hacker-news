@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-01-15](index.md)
 
+* [2026-01-15, 22:04:23](https://news.ycombinator.com/item?id=46640014) - [Remails: A European Mail Transfer Agent](https://tweedegolf.nl/en/blog/197/remails)
 * [2026-01-15, 21:13:38](https://news.ycombinator.com/item?id=46639401) - [European troops arrive in Greenland to boost the Arctic island's security](https://www.npr.org/2026/01/15/g-s1-106113/european-troops-arrive-greenland)
 * [2026-01-15, 21:00:42](https://news.ycombinator.com/item?id=46639248) - [Aviator (YC S21) is hiring to build multiplayer AI coding platform](https://www.ycombinator.com/companies/aviator/jobs)
 * [2026-01-15, 20:36:10](https://news.ycombinator.com/item?id=46638894) - [Show HN: The Hessian of tall-skinny networks is easy to invert](https://github.com/a-rahimi/hessian)
