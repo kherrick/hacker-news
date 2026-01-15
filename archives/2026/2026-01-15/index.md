@@ -4,7 +4,11 @@
 
 ### [Archives](../../index.md) for [2026-01-15](index.md)
 
+* [2026-01-15, 13:04:29](https://news.ycombinator.com/item?id=46631848) - [Danish Armed Forces expand their presence and continue exercises in Greenland](https://www.fmn.dk/en/news/2025/the-danish-armed-forces-expand-their-presence-and-continue-exercises-in-greenland-in-close-cooperation-with-allies/)
+* [2026-01-15, 12:53:34](https://news.ycombinator.com/item?id=46631728) - [The 500k-ton typo: Why data center copper math doesn't add up](https://investinglive.com/news/the-500000-ton-typo-why-data-center-copper-math-doesnt-add-up-20260113/)
+* [2026-01-15, 12:29:00](https://news.ycombinator.com/item?id=46631488) - [Show HN: I modeled personal success as a control system with Bayesian priors](https://mondonno.github.io/successus/sample-h1.html)
 * [2026-01-15, 12:00:37](https://news.ycombinator.com/item?id=46631276) - [Jiga (YC W21) Is Hiring Full Stack Engineers](https://jiga.io/about-us)
+* [2026-01-15, 11:51:08](https://news.ycombinator.com/item?id=46631192) - [Banning Things for Other People Is Easy](https://dogdogfish.com/blog/2026/01/14/banning-things-for-other-people/)
 * [2026-01-15, 10:59:08](https://news.ycombinator.com/item?id=46630798) - [The 3D Software Rendering Technology of 1998's Thief: The Dark Project](https://nothings.org/gamedev/thief_rendering.html)
 * [2026-01-15, 09:54:10](https://news.ycombinator.com/item?id=46630369) - [Photos Capture the Breathtaking Scale of China's Wind and Solar Buildout](https://e360.yale.edu/digest/china-renewable-photo-essay)
 * [2026-01-15, 09:00:47](https://news.ycombinator.com/item?id=46629964) - [Python: Tprof, a Targeting Profiler](https://adamj.eu/tech/2026/01/14/python-introducing-tprof/)
