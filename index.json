@@ -1,11 +1,21 @@
 [
   [
     [
+      "2026-01-15, 22:43:28",
+      "https://news.ycombinator.com/item?id=46640462"
+    ],
+    [
+      "AWS European Sovereign Cloud",
+      "https://aws.eu/"
+    ]
+  ],
+  [
+    [
       "2026-01-15, 22:33:58",
       "https://news.ycombinator.com/item?id=46640366"
     ],
     [
-      "Why Senior Engineers Let Bad Projects Fail",
+      "Why senior engineers let bad projects fail",
       "https://lalitm.com/post/why-senior-engineers-let-bad-projects-fail/"
     ]
   ],
@@ -71,16 +81,6 @@
   ],
   [
     [
-      "2026-01-15, 18:54:10",
-      "https://news.ycombinator.com/item?id=46637322"
-    ],
-    [
-      "Show HN: Tusk Drift – Turn production traffic into API tests",
-      "https://github.com/Use-Tusk/tusk-drift-cli"
-    ]
-  ],
-  [
-    [
       "2026-01-15, 18:45:18",
       "https://news.ycombinator.com/item?id=46637165"
     ],
@@ -105,7 +105,7 @@
       "https://news.ycombinator.com/item?id=46636786"
     ],
     [
-      "Show HN: Live Claude permissions using cloud-based decision tables",
+      "Show HN: Control Claude permissions using cloud-based decision table UIs",
       "https://github.com/rulebricks/claude-code-guardrails"
     ]
   ],
@@ -137,6 +137,16 @@
     [
       "Ask HN: How can we solve the loneliness epidemic?",
       "https://news.ycombinator.com/item?id=46635345"
+    ]
+  ],
+  [
+    [
+      "2026-01-15, 16:11:45",
+      "https://news.ycombinator.com/item?id=46634697"
+    ],
+    [
+      "We Gave Our Browser Agent a 3MB Data Warehouse",
+      "https://100x.bot/a/we-gave-our-browser-agent-a-3mb-data-warehouse"
     ]
   ],
   [
@@ -207,16 +217,6 @@
     [
       "Pocket TTS: A high quality TTS that gives your CPU a voice",
       "https://kyutai.org/blog/2026-01-13-pocket-tts"
-    ]
-  ],
-  [
-    [
-      "2026-01-14, 18:33:56",
-      "https://news.ycombinator.com/item?id=46620358"
-    ],
-    [
-      "Show HN: Tabstack – Browser infrastructure for AI agents (by Mozilla)",
-      "https://news.ycombinator.com/item?id=46620358"
     ]
   ],
   [
