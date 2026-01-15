@@ -1,16 +1,6 @@
 [
   [
     [
-      "2026-01-15, 15:49:23",
-      "https://news.ycombinator.com/item?id=46634263"
-    ],
-    [
-      "European military personnel arrive in Greenland as Trump says US needs island",
-      "https://www.bbc.com/news/articles/cd0ydjvxpejo"
-    ]
-  ],
-  [
-    [
       "2026-01-15, 15:02:42",
       "https://news.ycombinator.com/item?id=46633488"
     ],
@@ -37,16 +27,6 @@
     [
       "The Palantir app helping ICE raids in Minneapolis",
       "https://www.404media.co/elite-the-palantir-app-ice-uses-to-find-neighborhoods-to-raid/"
-    ]
-  ],
-  [
-    [
-      "2026-01-15, 14:16:02",
-      "https://news.ycombinator.com/item?id=46632837"
-    ],
-    [
-      "I spent a year on Linux and forgot to miss Windows",
-      "https://www.theverge.com/features/861968/year-using-linux"
     ]
   ],
   [
@@ -141,12 +121,12 @@
   ],
   [
     [
-      "2026-01-15, 07:20:02",
-      "https://news.ycombinator.com/item?id=46629191"
+      "2026-01-15, 05:23:18",
+      "https://news.ycombinator.com/item?id=46628397"
     ],
     [
-      "Show HN: MailPilot – Freedom to go anywhere while your agents work",
-      "https://news.ycombinator.com/item?id=46629191"
+      "Handy – Free open source speech-to-text app",
+      "https://github.com/cjpais/Handy"
     ]
   ],
   [
@@ -171,12 +151,12 @@
   ],
   [
     [
-      "2026-01-15, 00:34:59",
-      "https://news.ycombinator.com/item?id=46626210"
+      "2026-01-15, 00:53:21",
+      "https://news.ycombinator.com/item?id=46626410"
     ],
     [
-      "New Safari developer tools provide insight into CSS Grid Lanes",
-      "https://webkit.org/blog/17746/new-safari-developer-tools-provide-insight-into-css-grid-lanes/"
+      "Furiosa: 3.5x efficiency over H100s",
+      "https://furiosa.ai/blog/introducing-rngd-server-efficient-ai-inference-at-data-center-scale"
     ]
   ],
   [
@@ -221,6 +201,16 @@
   ],
   [
     [
+      "2026-01-14, 18:01:23",
+      "https://news.ycombinator.com/item?id=46619614"
+    ],
+    [
+      "Show HN: Sparrow-1 – Audio-native model for human-level turn-taking without ASR",
+      "https://www.tavus.io/post/sparrow-1-human-level-conversational-timing-in-real-time-voice"
+    ]
+  ],
+  [
+    [
       "2026-01-14, 17:54:25",
       "https://news.ycombinator.com/item?id=46619464"
     ],
@@ -237,16 +227,6 @@
     [
       "Ask HN: Share your personal website",
       "https://news.ycombinator.com/item?id=46618714"
-    ]
-  ],
-  [
-    [
-      "2026-01-14, 15:44:22",
-      "https://news.ycombinator.com/item?id=46617360"
-    ],
-    [
-      "Find a pub that needs you",
-      "https://www.ismypubfucked.com/"
     ]
   ],
   [
@@ -281,12 +261,22 @@
   ],
   [
     [
-      "2026-01-10, 14:38:21",
-      "https://news.ycombinator.com/item?id=46566065"
+      "2026-01-10, 20:31:51",
+      "https://news.ycombinator.com/item?id=46569640"
     ],
     [
-      "Investing with GIFs: A Visual Guide",
-      "https://www.ft.com/content/9b1ff0b8-a1e8-4869-8d61-620c5ed32d35"
+      "Sinclair C5",
+      "https://en.wikipedia.org/wiki/Sinclair_C5"
+    ]
+  ],
+  [
+    [
+      "2026-01-10, 00:32:10",
+      "https://news.ycombinator.com/item?id=46561341"
+    ],
+    [
+      "Show HN: WebTiles – create a tiny 250x250 website with neighbors around you",
+      "https://webtiles.kicya.net/"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "San Remo Pasta Measurer",
       "https://www.toxel.com/tech/2025/09/17/san-remo-pasta-measurer/"
+    ]
+  ],
+  [
+    [
+      "2026-01-09, 13:23:44",
+      "https://news.ycombinator.com/item?id=46553556"
+    ],
+    [
+      "Test your square brackets",
+      "https://fluca1978.github.io/2025/12/10/testAndSquareBrackets.html"
     ]
   ]
 ]
