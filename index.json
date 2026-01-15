@@ -1,12 +1,62 @@
 [
   [
     [
-      "2026-01-15, 17:15:45",
-      "https://news.ycombinator.com/item?id=46635810"
+      "2026-01-15, 18:17:52",
+      "https://news.ycombinator.com/item?id=46636738"
     ],
     [
-      "AI Tool Archive",
-      "https://aitoolarchive.com/"
+      "Zuck#: A programming language for connecting the world. And harvesting it",
+      "https://jayzalowitz.github.io/zucksharp/"
+    ]
+  ],
+  [
+    [
+      "2026-01-15, 18:04:59",
+      "https://news.ycombinator.com/item?id=46636571"
+    ],
+    [
+      "Ask HN: Anyone have a good solution for modern Mac to legacy SCSI converters?",
+      "https://news.ycombinator.com/item?id=46636571"
+    ]
+  ],
+  [
+    [
+      "2026-01-15, 17:55:59",
+      "https://news.ycombinator.com/item?id=46636445"
+    ],
+    [
+      "Denmark's struggle to break up with Silicon Valley",
+      "https://www.politico.eu/article/denmark-declared-war-against-big-tech-digital-sovereignty/"
+    ]
+  ],
+  [
+    [
+      "2026-01-15, 17:51:24",
+      "https://news.ycombinator.com/item?id=46636387"
+    ],
+    [
+      "CVEs Affecting the Svelte Ecosystem",
+      "https://svelte.dev/blog/cves-affecting-the-svelte-ecosystem"
+    ]
+  ],
+  [
+    [
+      "2026-01-15, 17:35:53",
+      "https://news.ycombinator.com/item?id=46636193"
+    ],
+    [
+      "Italy's privacy watchdog, scourge of US big tech, hit by corruption probe",
+      "https://www.reuters.com/sustainability/boards-policy-regulation/italys-privacy-watchdog-scourge-us-big-tech-hit-by-corruption-probe-2026-01-15/"
+    ]
+  ],
+  [
+    [
+      "2026-01-15, 17:30:10",
+      "https://news.ycombinator.com/item?id=46636093"
+    ],
+    [
+      "Supply Chain Vuln Compromised Core AWS GitHub Repos & Threatened the AWS Console",
+      "https://www.wiz.io/blog/wiz-research-codebreach-vulnerability-aws-codebuild"
     ]
   ],
   [
@@ -17,6 +67,16 @@
     [
       "GitHub Incident",
       "https://www.githubstatus.com/incidents/q987xpbqjbpl"
+    ]
+  ],
+  [
+    [
+      "2026-01-15, 16:49:13",
+      "https://news.ycombinator.com/item?id=46635345"
+    ],
+    [
+      "Ask HN: How can we solve the loneliness epidemic?",
+      "https://news.ycombinator.com/item?id=46635345"
     ]
   ],
   [
@@ -45,7 +105,7 @@
       "https://news.ycombinator.com/item?id=46633488"
     ],
     [
-      "Apple Is Fighting for TSMC Capacity as Nvidia Takes Center Stage",
+      "Apple is fighting for TSMC capacity as Nvidia takes center stage",
       "https://www.culpium.com/p/exclusiveapple-is-fighting-for-tsmc"
     ]
   ],
@@ -91,16 +151,6 @@
   ],
   [
     [
-      "2026-01-15, 12:53:34",
-      "https://news.ycombinator.com/item?id=46631728"
-    ],
-    [
-      "The 500k-ton typo: Why data center copper math doesn't add up",
-      "https://investinglive.com/news/the-500000-ton-typo-why-data-center-copper-math-doesnt-add-up-20260113/"
-    ]
-  ],
-  [
-    [
       "2026-01-15, 12:00:37",
       "https://news.ycombinator.com/item?id=46631276"
     ],
@@ -121,32 +171,12 @@
   ],
   [
     [
-      "2026-01-15, 09:00:47",
-      "https://news.ycombinator.com/item?id=46629964"
-    ],
-    [
-      "Python: Tprof, a Targeting Profiler",
-      "https://adamj.eu/tech/2026/01/14/python-introducing-tprof/"
-    ]
-  ],
-  [
-    [
       "2026-01-15, 08:23:02",
       "https://news.ycombinator.com/item?id=46629682"
     ],
     [
       "Raspberry Pi's New AI Hat Adds 8GB of RAM for Local LLMs",
       "https://www.jeffgeerling.com/blog/2026/raspberry-pi-ai-hat-2/"
-    ]
-  ],
-  [
-    [
-      "2026-01-15, 05:23:18",
-      "https://news.ycombinator.com/item?id=46628397"
-    ],
-    [
-      "Handy – Free open source speech-to-text app",
-      "https://github.com/cjpais/Handy"
     ]
   ],
   [
@@ -161,46 +191,6 @@
   ],
   [
     [
-      "2026-01-15, 01:45:22",
-      "https://news.ycombinator.com/item?id=46626836"
-    ],
-    [
-      "Bubblewrap: A nimble way to prevent agents from accessing your .env files",
-      "https://patrickmccanna.net/a-better-way-to-limit-claude-code-and-other-coding-agents-access-to-secrets/"
-    ]
-  ],
-  [
-    [
-      "2026-01-14, 22:26:17",
-      "https://news.ycombinator.com/item?id=46624658"
-    ],
-    [
-      "Crafting Interpreters",
-      "https://craftinginterpreters.com/"
-    ]
-  ],
-  [
-    [
-      "2026-01-14, 22:18:04",
-      "https://news.ycombinator.com/item?id=46624541"
-    ],
-    [
-      "Scaling long-running autonomous coding",
-      "https://cursor.com/blog/scaling-agents"
-    ]
-  ],
-  [
-    [
-      "2026-01-14, 22:04:10",
-      "https://news.ycombinator.com/item?id=46624352"
-    ],
-    [
-      "The State of OpenSSL for pyca/cryptography",
-      "https://cryptography.io/en/latest/statements/state-of-openssl/"
-    ]
-  ],
-  [
-    [
       "2026-01-14, 20:12:25",
       "https://news.ycombinator.com/item?id=46622328"
     ],
@@ -211,22 +201,12 @@
   ],
   [
     [
-      "2026-01-14, 18:01:23",
-      "https://news.ycombinator.com/item?id=46619614"
+      "2026-01-14, 18:33:56",
+      "https://news.ycombinator.com/item?id=46620358"
     ],
     [
-      "Show HN: Sparrow-1 – Audio-native model for human-level turn-taking without ASR",
-      "https://www.tavus.io/post/sparrow-1-human-level-conversational-timing-in-real-time-voice"
-    ]
-  ],
-  [
-    [
-      "2026-01-14, 17:54:25",
-      "https://news.ycombinator.com/item?id=46619464"
-    ],
-    [
-      "Ask HN: What did you find out or explore today?",
-      "https://news.ycombinator.com/item?id=46619464"
+      "Show HN: Tabstack – Browser infrastructure for AI agents (by Mozilla)",
+      "https://news.ycombinator.com/item?id=46620358"
     ]
   ],
   [
@@ -241,42 +221,72 @@
   ],
   [
     [
-      "2026-01-14, 14:38:29",
-      "https://news.ycombinator.com/item?id=46616529"
+      "2026-01-14, 16:26:11",
+      "https://news.ycombinator.com/item?id=46618042"
     ],
     [
-      "Ask HN: How are you doing RAG locally?",
-      "https://news.ycombinator.com/item?id=46616529"
+      "Claude is good at assembling blocks, but still falls apart at creating them",
+      "https://www.approachwithalacrity.com/claude-ne/"
     ]
   ],
   [
     [
-      "2026-01-12, 12:03:00",
-      "https://news.ycombinator.com/item?id=46587284"
+      "2026-01-14, 09:22:42",
+      "https://news.ycombinator.com/item?id=46614015"
     ],
     [
-      "Impeccable Style",
-      "https://impeccable.style"
+      "Show HN: ContextFort – Visibility and controls for browser agents",
+      "https://contextfort.ai/"
     ]
   ],
   [
     [
-      "2026-01-12, 05:42:09",
-      "https://news.ycombinator.com/item?id=46584523"
+      "2026-01-14, 07:26:52",
+      "https://news.ycombinator.com/item?id=46613324"
     ],
     [
-      "Z80 Mem­ber­ship Card",
-      "https://sunrise-ev.com/z80.htm"
+      "Inside The Internet Archive's Infrastructure",
+      "https://hackernoon.com/the-long-now-of-the-web-inside-the-internet-archives-fight-against-forgetting"
     ]
   ],
   [
     [
-      "2026-01-11, 23:06:18",
-      "https://news.ycombinator.com/item?id=46581431"
+      "2026-01-14, 07:21:54",
+      "https://news.ycombinator.com/item?id=46613304"
     ],
     [
-      "Show HN: Voice Composer – Browser-based pitch detection to MIDI/strudel/tidal",
-      "https://dioptre.github.io/tidal/"
+      "Claude Cowork runs Linux VM via Apple virtualization framework",
+      "https://gist.github.com/simonw/35732f187edbe4fbd0bf976d013f22c8"
+    ]
+  ],
+  [
+    [
+      "2026-01-14, 06:14:26",
+      "https://news.ycombinator.com/item?id=46612919"
+    ],
+    [
+      "First impressions of Claude Cowork",
+      "https://simonw.substack.com/p/first-impressions-of-claude-cowork"
+    ]
+  ],
+  [
+    [
+      "2026-01-14, 04:55:04",
+      "https://news.ycombinator.com/item?id=46612494"
+    ],
+    [
+      "Show HN: OpenWork – an open-source alternative to Claude Cowork",
+      "https://github.com/different-ai/openwork"
+    ]
+  ],
+  [
+    [
+      "2026-01-11, 20:23:24",
+      "https://news.ycombinator.com/item?id=46579617"
+    ],
+    [
+      "Annual Reboot: 52 Questions to Reflect and Reset",
+      "https://elacrain.com/writing/annual-review/"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Sinclair C5",
       "https://en.wikipedia.org/wiki/Sinclair_C5"
-    ]
-  ],
-  [
-    [
-      "2026-01-09, 19:39:53",
-      "https://news.ycombinator.com/item?id=46558224"
-    ],
-    [
-      "San Remo Pasta Measurer",
-      "https://www.toxel.com/tech/2025/09/17/san-remo-pasta-measurer/"
     ]
   ]
 ]
