@@ -10,6 +10,7 @@
 * [2026-01-15, 17:30:10](https://news.ycombinator.com/item?id=46636093) - [Supply Chain Vuln Compromised Core AWS GitHub Repos & Threatened the AWS Console](https://www.wiz.io/blog/wiz-research-codebreach-vulnerability-aws-codebuild)
 * [2026-01-15, 17:00:38](https://news.ycombinator.com/item?id=46635550) - [GitHub Incident](https://www.githubstatus.com/incidents/q987xpbqjbpl)
 * [2026-01-15, 16:49:13](https://news.ycombinator.com/item?id=46635345) - [Ask HN: How can we solve the loneliness epidemic?](https://news.ycombinator.com/item?id=46635345)
+* [2026-01-15, 15:59:21](https://news.ycombinator.com/item?id=46634450) - [Design and Implementation of Sprites](https://fly.io/blog/design-and-implementation/)
 * [2026-01-15, 15:09:16](https://news.ycombinator.com/item?id=46633574) - [Found: Medieval Cargo Ship – Largest Vessel of Its Kind Ever](https://www.smithsonianmag.com/smart-news/archaeologists-say-theyve-unearthed-a-massive-medieval-cargo-ship-thats-the-largest-vessel-of-its-kind-ever-found-180987984/)
 * [2026-01-15, 15:02:42](https://news.ycombinator.com/item?id=46633488) - [Apple is fighting for TSMC capacity as Nvidia takes center stage](https://www.culpium.com/p/exclusiveapple-is-fighting-for-tsmc)
 * [2026-01-15, 14:57:53](https://news.ycombinator.com/item?id=46633429) - [OBS Studio 32.1.0 Beta 1 available](https://github.com/obsproject/obs-studio/releases/tag/32.1.0-beta1)
@@ -27,7 +28,6 @@
 * [2026-01-14, 07:21:54](https://news.ycombinator.com/item?id=46613304) - [Claude Cowork runs Linux VM via Apple virtualization framework](https://gist.github.com/simonw/35732f187edbe4fbd0bf976d013f22c8)
 * [2026-01-14, 06:14:26](https://news.ycombinator.com/item?id=46612919) - [First impressions of Claude Cowork](https://simonw.substack.com/p/first-impressions-of-claude-cowork)
 * [2026-01-14, 04:55:04](https://news.ycombinator.com/item?id=46612494) - [Show HN: OpenWork – an open-source alternative to Claude Cowork](https://github.com/different-ai/openwork)
-* [2026-01-12, 05:42:09](https://news.ycombinator.com/item?id=46584523) - [Z80 Mem­ber­ship Card](https://sunrise-ev.com/z80.htm)
 * [2026-01-11, 09:20:28](https://news.ycombinator.com/item?id=46573926) - [Goscript: Transpile Go to human-readable TypeScript](https://github.com/aperturerobotics/goscript)
 * [2026-01-10, 20:31:51](https://news.ycombinator.com/item?id=46569640) - [Sinclair C5](https://en.wikipedia.org/wiki/Sinclair_C5)
 
