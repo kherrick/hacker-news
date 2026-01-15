@@ -4,10 +4,12 @@
 
 ### [Archives](../../index.md) for [2026-01-15](index.md)
 
+* [2026-01-15, 17:15:45](https://news.ycombinator.com/item?id=46635810) - [AI Tool Archive](https://aitoolarchive.com/)
 * [2026-01-15, 17:00:38](https://news.ycombinator.com/item?id=46635550) - [GitHub Incident](https://www.githubstatus.com/incidents/q987xpbqjbpl)
 * [2026-01-15, 16:29:13](https://news.ycombinator.com/item?id=46635018) - [Americans Overwhelmingly Support Science, but Some Think the U.S. Is Lagging](https://www.scientificamerican.com/article/americans-overwhelmingly-support-science-but-some-think-the-u-s-is-lagging/)
 * [2026-01-15, 15:59:21](https://news.ycombinator.com/item?id=46634450) - [Design and Implementation of Sprites](https://fly.io/blog/design-and-implementation/)
 * [2026-01-15, 15:49:23](https://news.ycombinator.com/item?id=46634263) - [European military personnel arrive in Greenland as Trump says US needs island](https://www.bbc.com/news/articles/cd0ydjvxpejo)
+* [2026-01-15, 15:09:16](https://news.ycombinator.com/item?id=46633574) - [Found: Medieval Cargo Ship – Largest Vessel of Its Kind Ever](https://www.smithsonianmag.com/smart-news/archaeologists-say-theyve-unearthed-a-massive-medieval-cargo-ship-thats-the-largest-vessel-of-its-kind-ever-found-180987984/)
 * [2026-01-15, 15:02:42](https://news.ycombinator.com/item?id=46633488) - [Apple Is Fighting for TSMC Capacity as Nvidia Takes Center Stage](https://www.culpium.com/p/exclusiveapple-is-fighting-for-tsmc)
 * [2026-01-15, 14:57:53](https://news.ycombinator.com/item?id=46633429) - [OBS Studio 32.1.0 Beta 1 available](https://github.com/obsproject/obs-studio/releases/tag/32.1.0-beta1)
 * [2026-01-15, 14:54:51](https://news.ycombinator.com/item?id=46633378) - [The Palantir app helping ICE raids in Minneapolis](https://www.404media.co/elite-the-palantir-app-ice-uses-to-find-neighborhoods-to-raid/)
