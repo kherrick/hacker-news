@@ -42,6 +42,7 @@
 * [2026-01-10, 12:48:13](https://news.ycombinator.com/item?id=46565265) - [Show HN: Yuanzai World – LLM RPGs with branching world-lines](https://www.yuanzai.world/)
 * [2026-01-10, 12:23:20](https://news.ycombinator.com/item?id=46565132) - [A Eulogy for Dark Sky, a Data Visualization Masterpiece (2023)](https://nightingaledvs.com/dark-sky-weather-data-viz/)
 * [2026-01-10, 12:07:28](https://news.ycombinator.com/item?id=46565041) - [Why Is Greenland Part of the Kingdom of Denmark? A Short History](https://www.diis.dk/en/research/why-is-greenland-part-of-the-kingdom-of-denmark-a-short-history)
+* [2026-01-10, 11:38:39](https://news.ycombinator.com/item?id=46564866) - [Bare metal programming with RISC-V guide (2023)](https://popovicu.com/posts/bare-metal-programming-risc-v/)
 * [2026-01-10, 11:32:56](https://news.ycombinator.com/item?id=46564818) - [Rubik's Cube in Prolog – Order](https://medium.com/@kenichisasagawa/i-am-preparing-material-for-a-prolog-book-af7580acfee7)
 * [2026-01-10, 11:23:59](https://news.ycombinator.com/item?id=46564762) - [New information extracted from Snowden PDFs through metadata version analysis](https://libroot.org/posts/going-through-snowden-documents-part-4/)
 * [2026-01-10, 11:12:15](https://news.ycombinator.com/item?id=46564696) - [Allow me to introduce, the Citroen C15](https://eupolicy.social/@jmaris/115860595238097654)
