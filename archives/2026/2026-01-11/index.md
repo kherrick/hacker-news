@@ -40,6 +40,7 @@
 * [2026-01-11, 16:43:06](https://news.ycombinator.com/item?id=46577242) - [Ask HN: What Are You Working On? (January 2026)](https://news.ycombinator.com/item?id=46577242)
 * [2026-01-11, 16:20:47](https://news.ycombinator.com/item?id=46577019) - [Replace the Retiring Windows XP with Linux](https://www.linux.com/training-tutorials/replace-retiring-windows-xp-linux/)
 * [2026-01-11, 15:07:12](https://news.ycombinator.com/item?id=46576337) - [Instagram data breach reportedly exposed the personal info of 17.5M users](https://www.engadget.com/cybersecurity/an-instagram-data-breach-reportedly-exposed-the-personal-info-of-175-million-users-192105616.html)
+* [2026-01-11, 14:47:43](https://news.ycombinator.com/item?id=46576170) - [Live 2025 – Spine [video]](https://www.youtube.com/watch?v=80C-wcqs4mI)
 * [2026-01-11, 14:09:09](https://news.ycombinator.com/item?id=46575902) - [China applies to put 200K satellites in space after calling Starlink crash risk](https://www.scmp.com/news/china/science/article/3339493/china-applies-put-200000-satellites-space-after-calling-starlink-crash-risk)
 * [2026-01-11, 13:55:40](https://news.ycombinator.com/item?id=46575804) - [Happy 50th Birthday KIM-1](https://github.com/netzherpes/KIM1-Demo)
 * [2026-01-11, 13:32:59](https://news.ycombinator.com/item?id=46575619) - [Show HN: Is AI hijacking your intent? A formal control algorithm to measure it](https://news.ycombinator.com/item?id=46575619)

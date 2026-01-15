@@ -7,6 +7,7 @@
 * [2026-01-15, 19:00:37](https://news.ycombinator.com/item?id=46637399) - [UK offshore wind prices come in 40% cheaper than gas in record auction](https://electrek.co/2026/01/14/uk-offshore-wind-record-auction/)
 * [2026-01-15, 18:45:18](https://news.ycombinator.com/item?id=46637165) - [JuiceFS is a distributed POSIX file system built on top of Redis and S3](https://github.com/juicedata/juicefs)
 * [2026-01-15, 18:42:46](https://news.ycombinator.com/item?id=46637127) - ['Elite': The Palantir App ICE Uses to Find Neighborhoods to Raid](https://werd.io/elite-the-palantir-app-ice-uses-to-find-neighborhoods-to-raid/)
+* [2026-01-15, 18:25:36](https://news.ycombinator.com/item?id=46636861) - [Ask HN: One IP, multiple unrealistic locations worldwide hitting my website](https://news.ycombinator.com/item?id=46636861)
 * [2026-01-15, 18:17:52](https://news.ycombinator.com/item?id=46636738) - [Zuck#: A programming language for connecting the world. And harvesting it](https://jayzalowitz.github.io/zucksharp/)
 * [2026-01-15, 18:04:59](https://news.ycombinator.com/item?id=46636571) - [Ask HN: Anyone have a good solution for modern Mac to legacy SCSI converters?](https://news.ycombinator.com/item?id=46636571)
 * [2026-01-15, 17:55:59](https://news.ycombinator.com/item?id=46636445) - [Denmark's struggle to break up with Silicon Valley](https://www.politico.eu/article/denmark-declared-war-against-big-tech-digital-sovereignty/)
