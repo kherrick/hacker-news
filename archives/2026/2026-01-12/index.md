@@ -31,6 +31,7 @@
 * [2026-01-12, 15:41:28](https://news.ycombinator.com/item?id=46589926) - [Show HN: Pane – An agent that edits spreadsheets](https://paneapp.com)
 * [2026-01-12, 15:36:43](https://news.ycombinator.com/item?id=46589849) - [Open-Meteo is a free and open-source weather API for non-commercial use](https://open-meteo.com/)
 * [2026-01-12, 15:36:36](https://news.ycombinator.com/item?id=46589842) - [Why we built our own background agent](https://builders.ramp.com/post/why-we-built-our-background-agent)
+* [2026-01-12, 15:33:39](https://news.ycombinator.com/item?id=46589804) - [I Designed a Custom Protocol for My App](https://blog.roj.dev/how-i-designed-a-custom-protocol-for-my-app)
 * [2026-01-12, 15:22:21](https://news.ycombinator.com/item?id=46589675) - [Apple picks Google's Gemini to power Siri](https://www.cnbc.com/2026/01/12/apple-google-ai-siri-gemini.html)
 * [2026-01-12, 15:20:36](https://news.ycombinator.com/item?id=46589658) - [Date is out, Temporal is in](https://piccalil.li/blog/date-is-out-and-temporal-is-in/)
 * [2026-01-12, 15:13:31](https://news.ycombinator.com/item?id=46589576) - [Computational complexity of schema-guided document extraction](https://www.runpulse.com/blog/computational-complexity-of-schema)
