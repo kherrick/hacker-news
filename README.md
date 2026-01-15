@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-01-15, 08:23:02](https://news.ycombinator.com/item?id=46629682) - [Raspberry Pi's New AI Hat Adds 8GB of RAM for Local LLMs](https://www.jeffgeerling.com/blog/2026/raspberry-pi-ai-hat-2/)
+* [2026-01-15, 08:12:46](https://news.ycombinator.com/item?id=46629610) - [Have Taken Up Farming](https://dylan.gr/1768295794)
 * [2026-01-15, 05:23:18](https://news.ycombinator.com/item?id=46628397) - [Handy – free open source speech-to-text app](https://github.com/cjpais/Handy)
 * [2026-01-15, 03:28:20](https://news.ycombinator.com/item?id=46627652) - [The URL shortener that makes your links look as suspicious as possible](https://creepylink.com/)
 * [2026-01-15, 01:45:22](https://news.ycombinator.com/item?id=46626836) - [Bubblewrap: A nimble way to prevent agents from accessing your .env files](https://patrickmccanna.net/a-better-way-to-limit-claude-code-and-other-coding-agents-access-to-secrets/)
@@ -23,13 +25,11 @@
 * [2026-01-14, 14:34:57](https://news.ycombinator.com/item?id=46616488) - [SparkFun Officially Dropping AdaFruit due to CoC Violation](https://www.sparkfun.com/official-response)
 * [2026-01-14, 14:34:40](https://news.ycombinator.com/item?id=46616481) - [Show HN: Webctl – Browser automation for agents based on CLI instead of MCP](https://github.com/cosinusalpha/webctl)
 * [2026-01-14, 05:35:20](https://news.ycombinator.com/item?id=46612711) - [The <Geolocation> HTML Element](https://developer.chrome.com/blog/geolocation-html-element)
-* [2026-01-10, 19:37:36](https://news.ycombinator.com/item?id=46569175) - [Is Rust faster than C?](https://steveklabnik.com/writing/is-rust-faster-than-c/)
 * [2026-01-10, 16:19:42](https://news.ycombinator.com/item?id=46566974) - [Generate QR Codes with Pure SQL in PostgreSQL](https://tanelpoder.com/posts/generate-qr-code-with-pure-sql-in-postgres/)
 * [2026-01-10, 11:38:39](https://news.ycombinator.com/item?id=46564866) - [Bare metal programming with RISC-V guide (2023)](https://popovicu.com/posts/bare-metal-programming-risc-v/)
 * [2026-01-10, 03:06:36](https://news.ycombinator.com/item?id=46562371) - [MIT Whirlwind I: A High-Speed Electronic Digital Computer (1951) [pdf]](https://dome.mit.edu/bitstream/handle/1721.3/40245/MC665_r12_R-209.pdf?sequence=1&isAllowed=y)
 * [2026-01-10, 00:32:10](https://news.ycombinator.com/item?id=46561341) - [Show HN: WebTiles – create a tiny 250x250 website with neighbors around you](https://webtiles.kicya.net/)
 * [2026-01-09, 11:02:18](https://news.ycombinator.com/item?id=46552534) - [How can I build a simple pulse generator to demonstrate transmission lines](https://electronics.stackexchange.com/questions/764155/how-can-i-build-a-simple-pulse-generator-to-demonstrate-transmission-lines)
-* [2026-01-09, 07:43:20](https://news.ycombinator.com/item?id=46551065) - [Show HN: Ever wanted to look at yourself in Braille?](https://github.com/NishantJoshi00/dith)
 
 ## [Archives](archives/index.md)
 
