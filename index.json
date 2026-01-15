@@ -1,12 +1,12 @@
 [
   [
     [
-      "2026-01-15, 22:04:23",
-      "https://news.ycombinator.com/item?id=46640014"
+      "2026-01-15, 22:33:58",
+      "https://news.ycombinator.com/item?id=46640366"
     ],
     [
-      "Remails: A European Mail Transfer Agent",
-      "https://tweedegolf.nl/en/blog/197/remails"
+      "Why Senior Engineers Let Bad Projects Fail",
+      "https://lalitm.com/post/why-senior-engineers-let-bad-projects-fail/"
     ]
   ],
   [
@@ -101,6 +101,16 @@
   ],
   [
     [
+      "2026-01-15, 18:21:12",
+      "https://news.ycombinator.com/item?id=46636786"
+    ],
+    [
+      "Show HN: Live Claude permissions using cloud-based decision tables",
+      "https://github.com/rulebricks/claude-code-guardrails"
+    ]
+  ],
+  [
+    [
       "2026-01-15, 17:51:24",
       "https://news.ycombinator.com/item?id=46636387"
     ],
@@ -157,16 +167,6 @@
     [
       "Apple is fighting for TSMC capacity as Nvidia takes center stage",
       "https://www.culpium.com/p/exclusiveapple-is-fighting-for-tsmc"
-    ]
-  ],
-  [
-    [
-      "2026-01-15, 14:11:30",
-      "https://news.ycombinator.com/item?id=46632768"
-    ],
-    [
-      "Show HN: TinyCity – A tiny city SIM for MicroPython (Thumby micro console)",
-      "https://github.com/chrisdiana/TinyCity"
     ]
   ],
   [
@@ -281,22 +281,22 @@
   ],
   [
     [
+      "2026-01-12, 12:19:40",
+      "https://news.ycombinator.com/item?id=46587444"
+    ],
+    [
+      "Managing the development of large software systems (1970) [pdf]",
+      "https://www.praxisframework.org/files/royce1970.pdf"
+    ]
+  ],
+  [
+    [
       "2026-01-11, 07:59:02",
       "https://news.ycombinator.com/item?id=46573566"
     ],
     [
       "A Unique Performance Optimization for a 3D Geometry Language",
       "https://cprimozic.net/notes/posts/persistent-expr-memo-optimization-for-geoscript/"
-    ]
-  ],
-  [
-    [
-      "2026-01-08, 22:29:08",
-      "https://news.ycombinator.com/item?id=46547400"
-    ],
-    [
-      "Virginia Faulkner: Writer, editor, and ghostwriter?",
-      "https://lithub.com/virginia-faulkner-writer-editor-and-ghostwriter/"
     ]
   ]
 ]
