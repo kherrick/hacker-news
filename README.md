@@ -19,7 +19,6 @@
 * [2026-01-15, 10:59:08](https://news.ycombinator.com/item?id=46630798) - [The 3D Software Rendering Technology of 1998's Thief: The Dark Project (2019)](https://nothings.org/gamedev/thief_rendering.html)
 * [2026-01-15, 08:23:02](https://news.ycombinator.com/item?id=46629682) - [Raspberry Pi's New AI Hat Adds 8GB of RAM for Local LLMs](https://www.jeffgeerling.com/blog/2026/raspberry-pi-ai-hat-2/)
 * [2026-01-15, 03:28:20](https://news.ycombinator.com/item?id=46627652) - [The URL shortener that makes your links look as suspicious as possible](https://creepylink.com/)
-* [2026-01-14, 20:12:25](https://news.ycombinator.com/item?id=46622328) - [Claude Cowork exfiltrates files](https://www.promptarmor.com/resources/claude-cowork-exfiltrates-files)
 * [2026-01-14, 18:33:56](https://news.ycombinator.com/item?id=46620358) - [Show HN: Tabstack – Browser infrastructure for AI agents (by Mozilla)](https://news.ycombinator.com/item?id=46620358)
 * [2026-01-14, 17:07:42](https://news.ycombinator.com/item?id=46618714) - [Ask HN: Share your personal website](https://news.ycombinator.com/item?id=46618714)
 * [2026-01-14, 16:26:11](https://news.ycombinator.com/item?id=46618042) - [Claude is good at assembling blocks, but still falls apart at creating them](https://www.approachwithalacrity.com/claude-ne/)
@@ -28,6 +27,7 @@
 * [2026-01-14, 07:21:54](https://news.ycombinator.com/item?id=46613304) - [Claude Cowork runs Linux VM via Apple virtualization framework](https://gist.github.com/simonw/35732f187edbe4fbd0bf976d013f22c8)
 * [2026-01-14, 06:14:26](https://news.ycombinator.com/item?id=46612919) - [First impressions of Claude Cowork](https://simonw.substack.com/p/first-impressions-of-claude-cowork)
 * [2026-01-14, 04:55:04](https://news.ycombinator.com/item?id=46612494) - [Show HN: OpenWork – an open-source alternative to Claude Cowork](https://github.com/different-ai/openwork)
+* [2026-01-12, 05:42:09](https://news.ycombinator.com/item?id=46584523) - [Z80 Mem­ber­ship Card](https://sunrise-ev.com/z80.htm)
 * [2026-01-11, 20:23:24](https://news.ycombinator.com/item?id=46579617) - [Annual Reboot: 52 Questions to Reflect and Reset](https://elacrain.com/writing/annual-review/)
 * [2026-01-10, 20:31:51](https://news.ycombinator.com/item?id=46569640) - [Sinclair C5](https://en.wikipedia.org/wiki/Sinclair_C5)
 
