@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-01-15](index.md)
 
+* [2026-01-15, 13:15:40](https://news.ycombinator.com/item?id=46632004) - [French Court Orders Popular VPNs to Block More Pirate Sites, Despite Opposition](https://torrentfreak.com/french-court-orders-popular-vpns-to-block-more-pirate-sites-despite-opposition/)
 * [2026-01-15, 13:04:29](https://news.ycombinator.com/item?id=46631848) - [Danish Armed Forces expand their presence and continue exercises in Greenland](https://www.fmn.dk/en/news/2025/the-danish-armed-forces-expand-their-presence-and-continue-exercises-in-greenland-in-close-cooperation-with-allies/)
 * [2026-01-15, 12:53:34](https://news.ycombinator.com/item?id=46631728) - [The 500k-ton typo: Why data center copper math doesn't add up](https://investinglive.com/news/the-500000-ton-typo-why-data-center-copper-math-doesnt-add-up-20260113/)
 * [2026-01-15, 12:29:00](https://news.ycombinator.com/item?id=46631488) - [Show HN: I modeled personal success as a control system with Bayesian priors](https://mondonno.github.io/successus/sample-h1.html)
