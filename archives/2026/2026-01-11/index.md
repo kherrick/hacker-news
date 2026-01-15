@@ -19,6 +19,7 @@
 * [2026-01-11, 20:50:39](https://news.ycombinator.com/item?id=46579900) - [Show HN: Chr2 – consensus for side effects (exactly-once is a lie)](https://github.com/abokhalill/chr2)
 * [2026-01-11, 20:47:55](https://news.ycombinator.com/item?id=46579864) - [The struggle of resizing windows on macOS Tahoe](https://noheger.at/blog/2026/01/11/the-struggle-of-resizing-windows-on-macos-tahoe/)
 * [2026-01-11, 20:39:37](https://news.ycombinator.com/item?id=46579764) - [DHS restricts congressional visits to ICE facilities in Minneapolis](https://www.npr.org/2026/01/11/nx-s1-5673949/dhs-restricts-congressional-visits-to-ice-facilities-in-minneapolis-with-new-policy)
+* [2026-01-11, 20:23:24](https://news.ycombinator.com/item?id=46579617) - [Annual Reboot: 52 Questions to Reflect and Reset](https://elacrain.com/writing/annual-review/)
 * [2026-01-11, 20:23:14](https://news.ycombinator.com/item?id=46579612) - [Show HN: 1D-Pong Game at 39C3](https://github.com/ogermer/1d-pong)
 * [2026-01-11, 20:08:40](https://news.ycombinator.com/item?id=46579451) - [Desperately Seeking Squircles (2018)](https://www.figma.com/blog/desperately-seeking-squircles/)
 * [2026-01-11, 20:03:20](https://news.ycombinator.com/item?id=46579397) - [guys why does armenian completely break Claude](https://twitter.com/dyushag/status/1993143599286886525)
