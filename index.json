@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-01-15, 21:00:42",
+      "https://news.ycombinator.com/item?id=46639248"
+    ],
+    [
+      "Aviator (YC S21) is hiring to build multiplayer AI coding platform",
+      "https://www.ycombinator.com/companies/aviator/jobs"
+    ]
+  ],
+  [
+    [
+      "2026-01-15, 20:36:10",
+      "https://news.ycombinator.com/item?id=46638894"
+    ],
+    [
+      "Show HN: The Hessian of tall-skinny networks is easy to invert",
+      "https://github.com/a-rahimi/hessian"
+    ]
+  ],
+  [
+    [
       "2026-01-15, 20:20:13",
       "https://news.ycombinator.com/item?id=46638629"
     ],
@@ -11,12 +31,52 @@
   ],
   [
     [
+      "2026-01-15, 19:54:42",
+      "https://news.ycombinator.com/item?id=46638241"
+    ],
+    [
+      "I Learned Everything I Know About Programming",
+      "https://agentultra.com/blog/how-i-learned-everything-i-know/index.html"
+    ]
+  ],
+  [
+    [
       "2026-01-15, 19:00:37",
       "https://news.ycombinator.com/item?id=46637399"
     ],
     [
       "UK offshore wind prices come in 40% cheaper than gas in record auction",
       "https://electrek.co/2026/01/14/uk-offshore-wind-record-auction/"
+    ]
+  ],
+  [
+    [
+      "2026-01-15, 18:54:32",
+      "https://news.ycombinator.com/item?id=46637328"
+    ],
+    [
+      "Data is the only moat",
+      "https://frontierai.substack.com/p/data-is-your-only-moat"
+    ]
+  ],
+  [
+    [
+      "2026-01-15, 18:54:10",
+      "https://news.ycombinator.com/item?id=46637322"
+    ],
+    [
+      "Show HN: Tusk Drift – Turn production traffic into API tests",
+      "https://github.com/Use-Tusk/tusk-drift-cli"
+    ]
+  ],
+  [
+    [
+      "2026-01-15, 18:51:34",
+      "https://news.ycombinator.com/item?id=46637283"
+    ],
+    [
+      "Show HN: Munimet.ro – ML-based status page for the local subways in SF",
+      "https://munimet.ro/"
     ]
   ],
   [
@@ -41,42 +101,12 @@
   ],
   [
     [
-      "2026-01-15, 18:35:35",
-      "https://news.ycombinator.com/item?id=46637010"
-    ],
-    [
-      "Dutch experts warn US takeover of DigiD platform poses security risks",
-      "https://nltimes.nl/2026/01/15/dutch-experts-warn-us-takeover-digid-platform-poses-national-security-risks"
-    ]
-  ],
-  [
-    [
       "2026-01-15, 18:25:36",
       "https://news.ycombinator.com/item?id=46636861"
     ],
     [
       "Ask HN: One IP, multiple unrealistic locations worldwide hitting my website",
       "https://news.ycombinator.com/item?id=46636861"
-    ]
-  ],
-  [
-    [
-      "2026-01-15, 18:17:52",
-      "https://news.ycombinator.com/item?id=46636738"
-    ],
-    [
-      "Zuck#: A programming language for connecting the world. And harvesting it",
-      "https://jayzalowitz.github.io/zucksharp/"
-    ]
-  ],
-  [
-    [
-      "2026-01-15, 18:04:59",
-      "https://news.ycombinator.com/item?id=46636571"
-    ],
-    [
-      "Ask HN: Anyone have a good solution for modern Mac to legacy SCSI converters?",
-      "https://news.ycombinator.com/item?id=46636571"
     ]
   ],
   [
@@ -141,16 +171,6 @@
   ],
   [
     [
-      "2026-01-15, 14:57:53",
-      "https://news.ycombinator.com/item?id=46633429"
-    ],
-    [
-      "OBS Studio 32.1.0 Beta 1 available",
-      "https://github.com/obsproject/obs-studio/releases/tag/32.1.0-beta1"
-    ]
-  ],
-  [
-    [
       "2026-01-15, 14:11:30",
       "https://news.ycombinator.com/item?id=46632768"
     ],
@@ -171,22 +191,12 @@
   ],
   [
     [
-      "2026-01-15, 12:00:37",
-      "https://news.ycombinator.com/item?id=46631276"
+      "2026-01-15, 09:54:10",
+      "https://news.ycombinator.com/item?id=46630369"
     ],
     [
-      "Jiga (YC W21) Is Hiring Full Stack Engineers",
-      "https://jiga.io/about-us"
-    ]
-  ],
-  [
-    [
-      "2026-01-15, 10:59:08",
-      "https://news.ycombinator.com/item?id=46630798"
-    ],
-    [
-      "The 3D Software Rendering Technology of 1998's Thief: The Dark Project (2019)",
-      "https://nothings.org/gamedev/thief_rendering.html"
+      "Photos capture the breathtaking scale of China's wind and solar buildout",
+      "https://e360.yale.edu/digest/china-renewable-photo-essay"
     ]
   ],
   [
@@ -271,32 +281,22 @@
   ],
   [
     [
+      "2026-01-12, 13:32:42",
+      "https://news.ycombinator.com/item?id=46588243"
+    ],
+    [
+      "Go-legacy-winxp: Compile Golang 1.24 code for Windows XP",
+      "https://github.com/syncguy/go-legacy-winxp/tree/winxp-compat"
+    ]
+  ],
+  [
+    [
       "2026-01-11, 14:47:43",
       "https://news.ycombinator.com/item?id=46576170"
     ],
     [
       "Live 2025 – Spine [video]",
       "https://www.youtube.com/watch?v=80C-wcqs4mI"
-    ]
-  ],
-  [
-    [
-      "2026-01-11, 09:20:28",
-      "https://news.ycombinator.com/item?id=46573926"
-    ],
-    [
-      "Goscript: Transpile Go to human-readable TypeScript",
-      "https://github.com/aperturerobotics/goscript"
-    ]
-  ],
-  [
-    [
-      "2026-01-10, 20:31:51",
-      "https://news.ycombinator.com/item?id=46569640"
-    ],
-    [
-      "Sinclair C5",
-      "https://en.wikipedia.org/wiki/Sinclair_C5"
     ]
   ]
 ]
