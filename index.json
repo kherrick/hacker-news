@@ -31,16 +31,6 @@
   ],
   [
     [
-      "2026-01-15, 20:30:05",
-      "https://news.ycombinator.com/item?id=46638798"
-    ],
-    [
-      "ChatGPT wrote \"Goodnight Moon\" suicide lullaby for man who later killed himself",
-      "https://arstechnica.com/tech-policy/2026/01/chatgpt-wrote-goodnight-moon-suicide-lullaby-for-man-who-later-killed-himself/"
-    ]
-  ],
-  [
-    [
       "2026-01-15, 20:20:13",
       "https://news.ycombinator.com/item?id=46638629"
     ],
@@ -107,16 +97,6 @@
     [
       "JuiceFS is a distributed POSIX file system built on top of Redis and S3",
       "https://github.com/juicedata/juicefs"
-    ]
-  ],
-  [
-    [
-      "2026-01-15, 18:42:46",
-      "https://news.ycombinator.com/item?id=46637127"
-    ],
-    [
-      "‘ELITE’: The Palantir app ICE uses to find neighborhoods to raid",
-      "https://werd.io/elite-the-palantir-app-ice-uses-to-find-neighborhoods-to-raid/"
     ]
   ],
   [
@@ -221,22 +201,32 @@
   ],
   [
     [
+      "2026-01-15, 07:36:15",
+      "https://news.ycombinator.com/item?id=46629295"
+    ],
+    [
+      "Use of Bayesian methodology in clinical trials of drug and biological products [pdf]",
+      "https://www.fda.gov/media/190505/download"
+    ]
+  ],
+  [
+    [
+      "2026-01-15, 05:14:08",
+      "https://news.ycombinator.com/item?id=46628329"
+    ],
+    [
+      "Pocket TTS: A high quality TTS that gives your CPU a voice",
+      "https://kyutai.org/blog/2026-01-13-pocket-tts"
+    ]
+  ],
+  [
+    [
       "2026-01-14, 18:33:56",
       "https://news.ycombinator.com/item?id=46620358"
     ],
     [
       "Show HN: Tabstack – Browser infrastructure for AI agents (by Mozilla)",
       "https://news.ycombinator.com/item?id=46620358"
-    ]
-  ],
-  [
-    [
-      "2026-01-14, 17:07:42",
-      "https://news.ycombinator.com/item?id=46618714"
-    ],
-    [
-      "Ask HN: Share your personal website",
-      "https://news.ycombinator.com/item?id=46618714"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Go-legacy-winxp: Compile Golang 1.24 code for Windows XP",
       "https://github.com/syncguy/go-legacy-winxp/tree/winxp-compat"
+    ]
+  ],
+  [
+    [
+      "2026-01-08, 22:29:08",
+      "https://news.ycombinator.com/item?id=46547400"
+    ],
+    [
+      "Virginia Faulkner: Writer, editor, and ghostwriter?",
+      "https://lithub.com/virginia-faulkner-writer-editor-and-ghostwriter/"
     ]
   ]
 ]
