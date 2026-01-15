@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-01-15, 13:18:10](https://news.ycombinator.com/item?id=46632039) - [Programming, Evolved: Lessons and Observations](https://github.com/kulesh/dotfiles/blob/main/dev/dev/docs/programming-evolved.md)
 * [2026-01-15, 13:15:40](https://news.ycombinator.com/item?id=46632004) - [French Court Orders Popular VPNs to Block More Pirate Sites, Despite Opposition](https://torrentfreak.com/french-court-orders-popular-vpns-to-block-more-pirate-sites-despite-opposition/)
-* [2026-01-15, 12:53:34](https://news.ycombinator.com/item?id=46631728) - [The 500k-ton typo: Why data center copper math doesn't add up](https://investinglive.com/news/the-500000-ton-typo-why-data-center-copper-math-doesnt-add-up-20260113/)
 * [2026-01-15, 12:00:37](https://news.ycombinator.com/item?id=46631276) - [Jiga (YC W21) Is Hiring Full Stack Engineers](https://jiga.io/about-us)
 * [2026-01-15, 10:59:08](https://news.ycombinator.com/item?id=46630798) - [The 3D Software Rendering Technology of 1998's Thief: The Dark Project (2019)](https://nothings.org/gamedev/thief_rendering.html)
 * [2026-01-15, 09:54:10](https://news.ycombinator.com/item?id=46630369) - [Photos Capture the Breathtaking Scale of China's Wind and Solar Buildout](https://e360.yale.edu/digest/china-renewable-photo-essay)
@@ -25,9 +25,9 @@
 * [2026-01-14, 14:38:29](https://news.ycombinator.com/item?id=46616529) - [Ask HN: How are you doing RAG locally?](https://news.ycombinator.com/item?id=46616529)
 * [2026-01-14, 14:34:57](https://news.ycombinator.com/item?id=46616488) - [SparkFun Officially Dropping AdaFruit due to CoC Violation](https://www.sparkfun.com/official-response)
 * [2026-01-12, 12:03:00](https://news.ycombinator.com/item?id=46587284) - [Impeccable Style](https://impeccable.style)
+* [2026-01-12, 07:19:00](https://news.ycombinator.com/item?id=46585160) - [Ideas are cheap, execution is cheaper](https://davekiss.com/blog/ideas-are-cheap-execution-is-cheaper/)
 * [2026-01-12, 05:42:09](https://news.ycombinator.com/item?id=46584523) - [Z80 Mem­ber­ship Card](https://sunrise-ev.com/z80.htm)
 * [2026-01-10, 11:38:39](https://news.ycombinator.com/item?id=46564866) - [Bare metal programming with RISC-V guide (2023)](https://popovicu.com/posts/bare-metal-programming-risc-v/)
-* [2026-01-10, 00:32:10](https://news.ycombinator.com/item?id=46561341) - [Show HN: WebTiles – create a tiny 250x250 website with neighbors around you](https://webtiles.kicya.net/)
 * [2026-01-09, 19:39:53](https://news.ycombinator.com/item?id=46558224) - [San Remo Pasta Measurer](https://www.toxel.com/tech/2025/09/17/san-remo-pasta-measurer/)
 * [2026-01-09, 13:23:44](https://news.ycombinator.com/item?id=46553556) - [Test your square brackets](https://fluca1978.github.io/2025/12/10/testAndSquareBrackets.html)
 
