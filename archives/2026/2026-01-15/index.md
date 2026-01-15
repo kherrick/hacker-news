@@ -4,11 +4,15 @@
 
 ### [Archives](../../index.md) for [2026-01-15](index.md)
 
+* [2026-01-15, 12:00:37](https://news.ycombinator.com/item?id=46631276) - [Jiga (YC W21) Is Hiring Full Stack Engineers](https://jiga.io/about-us)
+* [2026-01-15, 10:59:08](https://news.ycombinator.com/item?id=46630798) - [The 3D Software Rendering Technology of 1998's Thief: The Dark Project](https://nothings.org/gamedev/thief_rendering.html)
 * [2026-01-15, 09:54:10](https://news.ycombinator.com/item?id=46630369) - [Photos Capture the Breathtaking Scale of China's Wind and Solar Buildout](https://e360.yale.edu/digest/china-renewable-photo-essay)
+* [2026-01-15, 09:00:47](https://news.ycombinator.com/item?id=46629964) - [Python: Tprof, a Targeting Profiler](https://adamj.eu/tech/2026/01/14/python-introducing-tprof/)
 * [2026-01-15, 08:59:27](https://news.ycombinator.com/item?id=46629957) - [Nao Labs (Open-Source Analytics Agent, YC X25) Is Hiring](https://www.ycombinator.com/companies/nao-labs/jobs/KjOBhf5-founding-software-engineer)
 * [2026-01-15, 08:23:02](https://news.ycombinator.com/item?id=46629682) - [Raspberry Pi's New AI Hat Adds 8GB of RAM for Local LLMs](https://www.jeffgeerling.com/blog/2026/raspberry-pi-ai-hat-2/)
 * [2026-01-15, 08:12:46](https://news.ycombinator.com/item?id=46629610) - [Have Taken Up Farming](https://dylan.gr/1768295794)
 * [2026-01-15, 07:58:23](https://news.ycombinator.com/item?id=46629474) - [A letter to those who fired tech writers because of AI](https://passo.uno/letter-those-who-fired-tech-writers-ai/)
+* [2026-01-15, 07:20:02](https://news.ycombinator.com/item?id=46629191) - [Show HN: MailPilot – Freedom to go anywhere while your agents work](https://news.ycombinator.com/item?id=46629191)
 * [2026-01-15, 05:23:18](https://news.ycombinator.com/item?id=46628397) - [Handy – free open source speech-to-text app](https://github.com/cjpais/Handy)
 * [2026-01-15, 03:28:20](https://news.ycombinator.com/item?id=46627652) - [The URL shortener that makes your links look as suspicious as possible](https://creepylink.com/)
 * [2026-01-15, 01:45:22](https://news.ycombinator.com/item?id=46626836) - [Bubblewrap: A nimble way to prevent agents from accessing your .env files](https://patrickmccanna.net/a-better-way-to-limit-claude-code-and-other-coding-agents-access-to-secrets/)
