@@ -16,6 +16,7 @@
 * [2026-01-09, 20:21:51](https://news.ycombinator.com/item?id=46558794) - [Iran's complete Internet shutdown reaches 24 hours](https://mastodon.social/@netblocks/115866066884567356)
 * [2026-01-09, 20:17:07](https://news.ycombinator.com/item?id=46558739) - [QtNat – Open you port with Qt UPnP](http://renaudguezennec.eu/index.php/2026/01/09/qtnat-open-you-port-with-qt/)
 * [2026-01-09, 19:44:18](https://news.ycombinator.com/item?id=46558284) - [Datadog, thank you for blocking us](https://www.deductive.ai/blogs/datadog-thank-you-for-blocking-us)
+* [2026-01-09, 19:39:53](https://news.ycombinator.com/item?id=46558224) - [San Remo Pasta Measurer](https://www.toxel.com/tech/2025/09/17/san-remo-pasta-measurer/)
 * [2026-01-09, 19:33:47](https://news.ycombinator.com/item?id=46558148) - [RTX 5090 and Raspberry Pi: Can It Game?](https://scottjg.com/posts/2026-01-08-crappy-computer-showdown/)
 * [2026-01-09, 19:15:21](https://news.ycombinator.com/item?id=46557879) - [Show HN: Rocket Launch and Orbit Simulator](https://www.donutthejedi.com/)
 * [2026-01-09, 19:13:56](https://news.ycombinator.com/item?id=46557853) - [India's Electric Two-Wheeler Market: Rise, Reset and What Comes Next](https://micromobility.io/news/indias-electric-two-wheeler-market-rise-reset-and-what-comes-next)
