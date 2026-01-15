@@ -7,6 +7,7 @@
 * [2026-01-14, 23:49:34](https://news.ycombinator.com/item?id=46625766) - [Billion-Dollar Idea Generator](https://www.pivotgpt.ceo/)
 * [2026-01-14, 22:42:12](https://news.ycombinator.com/item?id=46624927) - [US, for first time in 50 years, experienced negative net migration in 2025](https://abcnews.go.com/US/us-1st-time-50-years-experienced-negative-net/story?id=129175522)
 * [2026-01-14, 22:30:16](https://news.ycombinator.com/item?id=46624731) - [ChromaDB Explorer](https://www.chroma-explorer.com/)
+* [2026-01-14, 22:26:17](https://news.ycombinator.com/item?id=46624658) - [Crafting Interpreters](https://craftinginterpreters.com/)
 * [2026-01-14, 22:19:36](https://news.ycombinator.com/item?id=46624563) - [Training my smartwatch to track intelligence](https://dmvaldman.github.io/rooklift/)
 * [2026-01-14, 22:18:04](https://news.ycombinator.com/item?id=46624541) - [Scaling long-running autonomous coding](https://cursor.com/blog/scaling-agents)
 * [2026-01-14, 22:04:10](https://news.ycombinator.com/item?id=46624352) - [The State of OpenSSL for pyca/cryptography](https://cryptography.io/en/latest/statements/state-of-openssl/)

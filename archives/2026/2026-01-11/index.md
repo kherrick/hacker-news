@@ -51,6 +51,7 @@
 * [2026-01-11, 11:38:52](https://news.ycombinator.com/item?id=46574769) - [Gentoo Linux 2025 Review](https://www.gentoo.org/news/2026/01/05/new-year.html)
 * [2026-01-11, 11:31:22](https://news.ycombinator.com/item?id=46574707) - [I dumped Windows 11 for Linux, and you should too](https://www.notebookcheck.net/I-dumped-Windows-11-for-Linux-and-you-should-too.1190961.0.html)
 * [2026-01-11, 11:24:19](https://news.ycombinator.com/item?id=46574640) - [HTML-only conditional lazy loading (via preload and media)](https://orga.cat/blog/html-conditional-lazy-loading/)
+* [2026-01-11, 11:10:08](https://news.ycombinator.com/item?id=46574527) - [Media Player Classic Qute Theater](https://github.com/mpc-qt/mpc-qt)
 * [2026-01-11, 11:03:06](https://news.ycombinator.com/item?id=46574475) - [Think of Pavlov](https://boz.com/articles/think-pavlov)
 * [2026-01-11, 10:26:18](https://news.ycombinator.com/item?id=46574276) - [Don't fall into the anti-AI hype](https://antirez.com/news/158)
 * [2026-01-11, 08:22:44](https://news.ycombinator.com/item?id=46573688) - [More than one hundred years of Film Sizes](https://wichm.home.xs4all.nl/filmsize.html)
