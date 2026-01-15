@@ -55,6 +55,7 @@
 * [2026-01-11, 11:10:08](https://news.ycombinator.com/item?id=46574527) - [Media Player Classic Qute Theater](https://github.com/mpc-qt/mpc-qt)
 * [2026-01-11, 11:03:06](https://news.ycombinator.com/item?id=46574475) - [Think of Pavlov](https://boz.com/articles/think-pavlov)
 * [2026-01-11, 10:26:18](https://news.ycombinator.com/item?id=46574276) - [Don't fall into the anti-AI hype](https://antirez.com/news/158)
+* [2026-01-11, 09:20:28](https://news.ycombinator.com/item?id=46573926) - [Goscript: Transpile Go to human-readable TypeScript](https://github.com/aperturerobotics/goscript)
 * [2026-01-11, 08:22:44](https://news.ycombinator.com/item?id=46573688) - [More than one hundred years of Film Sizes](https://wichm.home.xs4all.nl/filmsize.html)
 * [2026-01-11, 07:18:07](https://news.ycombinator.com/item?id=46573384) - [Iranian regime tries to shut down Starlink](https://www.timesofisrael.com/iran-appears-to-jam-starlink-after-shutting-down-comms-networks/)
 * [2026-01-11, 05:42:03](https://news.ycombinator.com/item?id=46573001) - [The Concise TypeScript Book](https://github.com/gibbok/typescript-book)
