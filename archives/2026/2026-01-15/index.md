@@ -11,6 +11,7 @@
 * [2026-01-15, 20:30:05](https://news.ycombinator.com/item?id=46638798) - [ChatGPT wrote \"Goodnight Moon\" suicide lullaby for man who later killed himself](https://arstechnica.com/tech-policy/2026/01/chatgpt-wrote-goodnight-moon-suicide-lullaby-for-man-who-later-killed-himself/)
 * [2026-01-15, 20:20:13](https://news.ycombinator.com/item?id=46638629) - [Linux boxes via SSH: suspended when disconected](https://shellbox.dev/)
 * [2026-01-15, 19:54:42](https://news.ycombinator.com/item?id=46638241) - [I Learned Everything I Know About Programming](https://agentultra.com/blog/how-i-learned-everything-i-know/index.html)
+* [2026-01-15, 19:38:02](https://news.ycombinator.com/item?id=46638013) - [Briar keeps Iran connected via Bluetooth and Wi-Fi when the internet goes dark](https://briarproject.org/manual/fa/)
 * [2026-01-15, 19:00:37](https://news.ycombinator.com/item?id=46637399) - [UK offshore wind prices come in 40% cheaper than gas in record auction](https://electrek.co/2026/01/14/uk-offshore-wind-record-auction/)
 * [2026-01-15, 18:54:32](https://news.ycombinator.com/item?id=46637328) - [Data is the only moat](https://frontierai.substack.com/p/data-is-your-only-moat)
 * [2026-01-15, 18:54:10](https://news.ycombinator.com/item?id=46637322) - [Show HN: Tusk Drift – Turn production traffic into API tests](https://github.com/Use-Tusk/tusk-drift-cli)
