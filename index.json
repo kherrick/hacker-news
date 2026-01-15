@@ -21,6 +21,16 @@
   ],
   [
     [
+      "2026-01-15, 22:04:23",
+      "https://news.ycombinator.com/item?id=46640014"
+    ],
+    [
+      "Remails: A European Mail Transfer Agent",
+      "https://tweedegolf.nl/en/blog/197/remails"
+    ]
+  ],
+  [
+    [
       "2026-01-15, 21:00:42",
       "https://news.ycombinator.com/item?id=46639248"
     ],
@@ -105,7 +115,7 @@
       "https://news.ycombinator.com/item?id=46636786"
     ],
     [
-      "Show HN: Control Claude permissions using cloud-based decision table UIs",
+      "Show HN: Control what Claude can access using cloud-based decision table UIs",
       "https://github.com/rulebricks/claude-code-guardrails"
     ]
   ],
@@ -147,16 +157,6 @@
     [
       "We Gave Our Browser Agent a 3MB Data Warehouse",
       "https://100x.bot/a/we-gave-our-browser-agent-a-3mb-data-warehouse"
-    ]
-  ],
-  [
-    [
-      "2026-01-15, 15:59:21",
-      "https://news.ycombinator.com/item?id=46634450"
-    ],
-    [
-      "Design and Implementation of Sprites",
-      "https://fly.io/blog/design-and-implementation/"
     ]
   ],
   [
