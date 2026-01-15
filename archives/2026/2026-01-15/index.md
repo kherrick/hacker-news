@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-01-15](index.md)
 
+* [2026-01-15, 14:24:52](https://news.ycombinator.com/item?id=46632955) - [Nvidia Reportedly Ends GeForce RTX 5070 Ti Production, RTX 5060 Ti 16 GB Next](https://www.techpowerup.com/345224/nvidia-reportedly-ends-geforce-rtx-5070-ti-production-rtx-5060-ti-16-gb-next)
 * [2026-01-15, 13:18:10](https://news.ycombinator.com/item?id=46632039) - [Programming, Evolved: Lessons and Observations](https://github.com/kulesh/dotfiles/blob/main/dev/dev/docs/programming-evolved.md)
 * [2026-01-15, 13:15:40](https://news.ycombinator.com/item?id=46632004) - [French Court Orders Popular VPNs to Block More Pirate Sites, Despite Opposition](https://torrentfreak.com/french-court-orders-popular-vpns-to-block-more-pirate-sites-despite-opposition/)
 * [2026-01-15, 13:04:29](https://news.ycombinator.com/item?id=46631848) - [Danish Armed Forces expand their presence and continue exercises in Greenland](https://www.fmn.dk/en/news/2025/the-danish-armed-forces-expand-their-presence-and-continue-exercises-in-greenland-in-close-cooperation-with-allies/)
@@ -20,6 +21,7 @@
 * [2026-01-15, 07:58:23](https://news.ycombinator.com/item?id=46629474) - [A letter to those who fired tech writers because of AI](https://passo.uno/letter-those-who-fired-tech-writers-ai/)
 * [2026-01-15, 07:20:02](https://news.ycombinator.com/item?id=46629191) - [Show HN: MailPilot – Freedom to go anywhere while your agents work](https://news.ycombinator.com/item?id=46629191)
 * [2026-01-15, 05:23:18](https://news.ycombinator.com/item?id=46628397) - [Handy – free open source speech-to-text app](https://github.com/cjpais/Handy)
+* [2026-01-15, 05:15:40](https://news.ycombinator.com/item?id=46628336) - [Show HN: Fine-tuned Qwen2.5-7B on 100 films for probabilistic story graphs](https://cinegraphs.ai/)
 * [2026-01-15, 03:28:20](https://news.ycombinator.com/item?id=46627652) - [The URL shortener that makes your links look as suspicious as possible](https://creepylink.com/)
 * [2026-01-15, 01:45:22](https://news.ycombinator.com/item?id=46626836) - [Bubblewrap: A nimble way to prevent agents from accessing your .env files](https://patrickmccanna.net/a-better-way-to-limit-claude-code-and-other-coding-agents-access-to-secrets/)
 * [2026-01-15, 01:20:22](https://news.ycombinator.com/item?id=46626639) - [Ask HN: What is the best way to provide continuous context to models?](https://news.ycombinator.com/item?id=46626639)
