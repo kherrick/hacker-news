@@ -131,16 +131,6 @@
   ],
   [
     [
-      "2026-01-14, 19:38:47",
-      "https://news.ycombinator.com/item?id=46621656"
-    ],
-    [
-      "Upgrading DrizzleORM logging with AsyncLocalStorage",
-      "https://numeric.substack.com/p/upgrading-drizzleorm-logging-with"
-    ]
-  ],
-  [
-    [
       "2026-01-14, 18:49:37",
       "https://news.ycombinator.com/item?id=46620673"
     ],
@@ -257,6 +247,16 @@
     [
       "Generate QR Codes with Pure SQL in PostgreSQL",
       "https://tanelpoder.com/posts/generate-qr-code-with-pure-sql-in-postgres/"
+    ]
+  ],
+  [
+    [
+      "2026-01-10, 11:38:39",
+      "https://news.ycombinator.com/item?id=46564866"
+    ],
+    [
+      "Bare metal programming with RISC-V guide (2023)",
+      "https://popovicu.com/posts/bare-metal-programming-risc-v/"
     ]
   ],
   [
