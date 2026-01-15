@@ -1,12 +1,32 @@
 [
   [
     [
+      "2026-01-15, 03:28:20",
+      "https://news.ycombinator.com/item?id=46627652"
+    ],
+    [
+      "The URL shortener that makes your links look as suspicious as possible",
+      "https://creepylink.com/"
+    ]
+  ],
+  [
+    [
       "2026-01-15, 01:45:22",
       "https://news.ycombinator.com/item?id=46626836"
     ],
     [
       "Bubblewrap: A nimble way to prevent agents from accessing your .env files",
       "https://patrickmccanna.net/a-better-way-to-limit-claude-code-and-other-coding-agents-access-to-secrets/"
+    ]
+  ],
+  [
+    [
+      "2026-01-15, 01:20:22",
+      "https://news.ycombinator.com/item?id=46626639"
+    ],
+    [
+      "Ask HN: What is the best way to provide continuous context to models?",
+      "https://news.ycombinator.com/item?id=46626639"
     ]
   ],
   [
@@ -21,12 +41,12 @@
   ],
   [
     [
-      "2026-01-15, 00:04:24",
-      "https://news.ycombinator.com/item?id=46625918"
+      "2026-01-14, 22:30:40",
+      "https://news.ycombinator.com/item?id=46624740"
     ],
     [
-      "Anthropic Explicitly Blocking OpenCode",
-      "https://gist.github.com/R44VC0RP/bd391f6a23185c0fed6c6b5fb2bac50e"
+      "Ask HN: Weird archive.today behavior?",
+      "https://news.ycombinator.com/item?id=46624740"
     ]
   ],
   [
@@ -87,16 +107,6 @@
     [
       "Claude Cowork Exfiltrates Files",
       "https://www.promptarmor.com/resources/claude-cowork-exfiltrates-files"
-    ]
-  ],
-  [
-    [
-      "2026-01-14, 19:53:15",
-      "https://news.ycombinator.com/item?id=46621945"
-    ],
-    [
-      "Every country should set 16 as the minimum age for social media accounts",
-      "https://www.afterbabel.com/p/why-every-country-should-set-16"
     ]
   ],
   [
@@ -191,16 +201,6 @@
   ],
   [
     [
-      "2026-01-14, 10:53:13",
-      "https://news.ycombinator.com/item?id=46614558"
-    ],
-    [
-      "I hate GitHub Actions with passion",
-      "https://xlii.space/eng/i-hate-github-actions-with-passion/"
-    ]
-  ],
-  [
-    [
       "2026-01-14, 08:21:19",
       "https://news.ycombinator.com/item?id=46613624"
     ],
@@ -217,16 +217,6 @@
     [
       "You Need a Kitchen Slide Rule",
       "https://entropicthoughts.com/kitchen-slide-rule"
-    ]
-  ],
-  [
-    [
-      "2026-01-11, 11:10:08",
-      "https://news.ycombinator.com/item?id=46574527"
-    ],
-    [
-      "Media Player Classic Qute Theater",
-      "https://github.com/mpc-qt/mpc-qt"
     ]
   ],
   [
@@ -277,6 +267,16 @@
     [
       "Rubik's Cube in Prolog – Order",
       "https://medium.com/@kenichisasagawa/i-am-preparing-material-for-a-prolog-book-af7580acfee7"
+    ]
+  ],
+  [
+    [
+      "2026-01-10, 03:06:36",
+      "https://news.ycombinator.com/item?id=46562371"
+    ],
+    [
+      "MIT Whirlwind I: A High-Speed Electronic Digital Computer (1951)",
+      "https://dome.mit.edu/bitstream/handle/1721.3/40245/MC665_r12_R-209.pdf?sequence=1&isAllowed=y"
     ]
   ],
   [
