@@ -1,6 +1,36 @@
 [
   [
     [
+      "2026-01-15, 17:00:38",
+      "https://news.ycombinator.com/item?id=46635550"
+    ],
+    [
+      "GitHub Incident",
+      "https://www.githubstatus.com/incidents/q987xpbqjbpl"
+    ]
+  ],
+  [
+    [
+      "2026-01-15, 16:29:13",
+      "https://news.ycombinator.com/item?id=46635018"
+    ],
+    [
+      "Americans Overwhelmingly Support Science, but Some Think the U.S. Is Lagging",
+      "https://www.scientificamerican.com/article/americans-overwhelmingly-support-science-but-some-think-the-u-s-is-lagging/"
+    ]
+  ],
+  [
+    [
+      "2026-01-15, 15:59:21",
+      "https://news.ycombinator.com/item?id=46634450"
+    ],
+    [
+      "Design and Implementation of Sprites",
+      "https://fly.io/blog/design-and-implementation/"
+    ]
+  ],
+  [
+    [
       "2026-01-15, 15:02:42",
       "https://news.ycombinator.com/item?id=46633488"
     ],
@@ -81,16 +111,6 @@
   ],
   [
     [
-      "2026-01-15, 12:00:37",
-      "https://news.ycombinator.com/item?id=46631276"
-    ],
-    [
-      "Jiga (YC W21) Is Hiring Full Stack Engineers",
-      "https://jiga.io/about-us"
-    ]
-  ],
-  [
-    [
       "2026-01-15, 10:59:08",
       "https://news.ycombinator.com/item?id=46630798"
     ],
@@ -147,16 +167,6 @@
     [
       "Bubblewrap: A nimble way to prevent agents from accessing your .env files",
       "https://patrickmccanna.net/a-better-way-to-limit-claude-code-and-other-coding-agents-access-to-secrets/"
-    ]
-  ],
-  [
-    [
-      "2026-01-15, 00:53:21",
-      "https://news.ycombinator.com/item?id=46626410"
-    ],
-    [
-      "Furiosa: 3.5x efficiency over H100s",
-      "https://furiosa.ai/blog/introducing-rngd-server-efficient-ai-inference-at-data-center-scale"
     ]
   ],
   [
@@ -261,6 +271,16 @@
   ],
   [
     [
+      "2026-01-11, 23:06:18",
+      "https://news.ycombinator.com/item?id=46581431"
+    ],
+    [
+      "Show HN: Voice Composer – Browser-based pitch detection to MIDI/strudel/tidal",
+      "https://dioptre.github.io/tidal/"
+    ]
+  ],
+  [
+    [
       "2026-01-10, 20:31:51",
       "https://news.ycombinator.com/item?id=46569640"
     ],
@@ -271,32 +291,12 @@
   ],
   [
     [
-      "2026-01-10, 00:32:10",
-      "https://news.ycombinator.com/item?id=46561341"
-    ],
-    [
-      "Show HN: WebTiles – create a tiny 250x250 website with neighbors around you",
-      "https://webtiles.kicya.net/"
-    ]
-  ],
-  [
-    [
       "2026-01-09, 19:39:53",
       "https://news.ycombinator.com/item?id=46558224"
     ],
     [
       "San Remo Pasta Measurer",
       "https://www.toxel.com/tech/2025/09/17/san-remo-pasta-measurer/"
-    ]
-  ],
-  [
-    [
-      "2026-01-09, 13:23:44",
-      "https://news.ycombinator.com/item?id=46553556"
-    ],
-    [
-      "Test your square brackets",
-      "https://fluca1978.github.io/2025/12/10/testAndSquareBrackets.html"
     ]
   ]
 ]
