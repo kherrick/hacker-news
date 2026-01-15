@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-01-15](index.md)
 
+* [2026-01-15, 22:33:58](https://news.ycombinator.com/item?id=46640366) - [Why Senior Engineers Let Bad Projects Fail](https://lalitm.com/post/why-senior-engineers-let-bad-projects-fail/)
 * [2026-01-15, 22:04:23](https://news.ycombinator.com/item?id=46640014) - [Remails: A European Mail Transfer Agent](https://tweedegolf.nl/en/blog/197/remails)
 * [2026-01-15, 21:13:38](https://news.ycombinator.com/item?id=46639401) - [European troops arrive in Greenland to boost the Arctic island's security](https://www.npr.org/2026/01/15/g-s1-106113/european-troops-arrive-greenland)
 * [2026-01-15, 21:00:42](https://news.ycombinator.com/item?id=46639248) - [Aviator (YC S21) is hiring to build multiplayer AI coding platform](https://www.ycombinator.com/companies/aviator/jobs)
@@ -20,6 +21,7 @@
 * [2026-01-15, 18:42:46](https://news.ycombinator.com/item?id=46637127) - ['Elite': The Palantir App ICE Uses to Find Neighborhoods to Raid](https://werd.io/elite-the-palantir-app-ice-uses-to-find-neighborhoods-to-raid/)
 * [2026-01-15, 18:35:35](https://news.ycombinator.com/item?id=46637010) - [Dutch experts warn US takeover of DigiD platform poses security risks](https://nltimes.nl/2026/01/15/dutch-experts-warn-us-takeover-digid-platform-poses-national-security-risks)
 * [2026-01-15, 18:25:36](https://news.ycombinator.com/item?id=46636861) - [Ask HN: One IP, multiple unrealistic locations worldwide hitting my website](https://news.ycombinator.com/item?id=46636861)
+* [2026-01-15, 18:21:12](https://news.ycombinator.com/item?id=46636786) - [Show HN: Live Claude permissions using cloud-based decision tables](https://github.com/rulebricks/claude-code-guardrails)
 * [2026-01-15, 18:17:52](https://news.ycombinator.com/item?id=46636738) - [Zuck#: A programming language for connecting the world. And harvesting it](https://jayzalowitz.github.io/zucksharp/)
 * [2026-01-15, 18:04:59](https://news.ycombinator.com/item?id=46636571) - [Ask HN: Anyone have a good solution for modern Mac to legacy SCSI converters?](https://news.ycombinator.com/item?id=46636571)
 * [2026-01-15, 17:55:59](https://news.ycombinator.com/item?id=46636445) - [Denmark's struggle to break up with Silicon Valley](https://www.politico.eu/article/denmark-declared-war-against-big-tech-digital-sovereignty/)

@@ -52,6 +52,7 @@
 * [2026-01-12, 12:37:40](https://news.ycombinator.com/item?id=46587612) - [I Accidentally Finished a Filesystem](https://github.com/hn4-dev/hn4)
 * [2026-01-12, 12:29:00](https://news.ycombinator.com/item?id=46587536) - [Ozempic reduced grocery spending by an average of 5.3% in the US](https://news.cornell.edu/stories/2025/12/ozempic-changing-foods-americans-buy)
 * [2026-01-12, 12:25:27](https://news.ycombinator.com/item?id=46587498) - [Launch a Debugging Terminal into GitHub Actions](https://blog.gripdev.xyz/2026/01/10/actions-terminal-on-failure-for-debugging/)
+* [2026-01-12, 12:19:40](https://news.ycombinator.com/item?id=46587444) - [Managing the development of large software systems (1970) [pdf]](https://www.praxisframework.org/files/royce1970.pdf)
 * [2026-01-12, 12:03:00](https://news.ycombinator.com/item?id=46587284) - [Impeccable Style](https://impeccable.style)
 * [2026-01-12, 11:31:56](https://news.ycombinator.com/item?id=46587033) - [How to Build Reactive Declarative UI in Vanilla JavaScript](https://jsdev.space/howto/reactive-vanilla-js/)
 * [2026-01-12, 10:57:29](https://news.ycombinator.com/item?id=46586766) - [Anthropic Made a Big Mistake](https://archaeologist.dev/artifacts/anthropic)
