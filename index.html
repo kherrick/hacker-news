@@ -129,6 +129,61 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
+        <section id="46639248">
+          <h3>
+            <a
+              class="item"
+              href="https://www.ycombinator.com/companies/aviator/jobs"
+              >Aviator (YC S21) is hiring to build multiplayer AI coding
+              platform</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-01-15 @ 21:00:42</span
+              ><span class="points-container"
+                >Points: <span class="points">1</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="46638894">
+          <h3>
+            <a class="item" href="https://github.com/a-rahimi/hessian"
+              >Show HN: The Hessian of tall-skinny networks is easy to invert</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-01-15 @ 20:36:10</span
+              ><span class="points-container"
+                >Points: <span class="points">8</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=46638894"
+                  >Comments</a
+                ><span class="descendants">: 0</span></span
+              >
+            </h4>
+            <div class="text">
+              <i>inverse</i> of the Hessian of a deep net is easy to apply to a
+              vector. Doing this naively takes cubically many operations in the
+              number of layers (so impractical), but it's possible to do this in
+              time linear in the number of layers (so very practical)!
+              <p>
+                This is possible because the Hessian of a deep net has a matrix
+                polynomial structure that factorizes nicely. The
+                Hessian-inverse-product algorithm that takes advantage of this
+                is similar to running backprop on a dual version of the deep
+                net. It echoes an old idea of Pearlmutter's for computing
+                Hessian-vector products.
+              </p>
+              <p>
+                Maybe this idea is useful as a preconditioner for stochastic
+                gradient descent?
+              </p>
+            </div>
+          </section>
+        </section>
         <section id="46638629">
           <h3>
             <a class="item" href="https://shellbox.dev/"
@@ -139,11 +194,32 @@
             <h4>
               <span>2026-01-15 @ 20:20:13</span
               ><span class="points-container"
-                >Points: <span class="points">21</span></span
+                >Points: <span class="points">27</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46638629"
                   >Comments</a
-                ><span class="descendants">: 6</span></span
+                ><span class="descendants">: 15</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="46638241">
+          <h3>
+            <a
+              class="item"
+              href="https://agentultra.com/blog/how-i-learned-everything-i-know/index.html"
+              >I Learned Everything I Know About Programming</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-01-15 @ 19:54:42</span
+              ><span class="points-container"
+                >Points: <span class="points">9</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=46638241"
+                  >Comments</a
+                ><span class="descendants">: 1</span></span
               >
             </h4>
           </section>
@@ -161,13 +237,152 @@
             <h4>
               <span>2026-01-15 @ 19:00:37</span
               ><span class="points-container"
-                >Points: <span class="points">101</span></span
+                >Points: <span class="points">109</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46637399"
                   >Comments</a
-                ><span class="descendants">: 42</span></span
+                ><span class="descendants">: 49</span></span
               >
             </h4>
+          </section>
+        </section>
+        <section id="46637328">
+          <h3>
+            <a
+              class="item"
+              href="https://frontierai.substack.com/p/data-is-your-only-moat"
+              >Data is the only moat</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-01-15 @ 18:54:32</span
+              ><span class="points-container"
+                >Points: <span class="points">6</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=46637328"
+                  >Comments</a
+                ><span class="descendants">: 1</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="46637322">
+          <h3>
+            <a class="item" href="https://github.com/Use-Tusk/tusk-drift-cli"
+              >Show HN: Tusk Drift – Turn production traffic into API tests</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-01-15 @ 18:54:10</span
+              ><span class="points-container"
+                >Points: <span class="points">6</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=46637322"
+                  >Comments</a
+                ><span class="descendants">: 0</span></span
+              >
+            </h4>
+            <div class="text">
+              <p>
+                Problem we're trying to solve: Writing API tests is tedious, and
+                hand-written mocks drift from reality. We wanted tests that stay
+                realistic because they come from real traffic.
+              </p>
+              <p>
+                versus mocking libraries: Tools like VCR/Nock intercept HTTP
+                within your tests. Tusk Drift records full request/response
+                traces externally (HTTP, DB, Redis, etc.) and replays them
+                against your running service, no test code or fixtures to
+                write/maintain.
+              </p>
+              <p>How it works:</p>
+              <p>
+                1. Add a lightweight SDK (we currently support Python and
+                Node.js)
+              </p>
+              <p>2. Record traffic in any environment.</p>
+              <p>
+                3. Run `tusk run`, the CLI sandboxes your service and serves
+                mocks via Unix socket
+              </p>
+              <p>
+                We run this in CI on every PR. Also been using it as a test
+                harness for AI coding agents, they can make changes, run `tusk
+                run`, and get immediate feedback without needing live
+                dependencies.
+              </p>
+              <p>
+                Source:
+                <a href="https://github.com/Use-Tusk/tusk-drift-cli"
+                  >https://github.com/Use-Tusk/tusk-drift-cli</a
+                >
+              </p>
+              <p>
+                Demo:
+                <a href="https://github.com/Use-Tusk/drift-node-demo"
+                  >https://github.com/Use-Tusk/drift-node-demo</a
+                >
+              </p>
+              <p>Happy to answer questions!</p>
+            </div>
+          </section>
+        </section>
+        <section id="46637283">
+          <h3>
+            <a class="item" href="https://munimet.ro/"
+              >Show HN: Munimet.ro – ML-based status page for the local subways
+              in SF</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-01-15 @ 18:51:34</span
+              ><span class="points-container"
+                >Points: <span class="points">4</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=46637283"
+                  >Comments</a
+                ><span class="descendants">: 0</span></span
+              >
+            </h4>
+            <div class="text">
+              <p>
+                In the interest of learning new tools I decided to vibe code it
+                as much as possible.
+              </p>
+              <p>
+                First, I had Claude Code write a background script to download
+                images of the real-time circuit diagram of the subway, which are
+                publicly available here:
+                <a href="http://sfmunicentral.com/"
+                  >http://sfmunicentral.com/</a
+                >
+              </p>
+              <p>
+                Next I had it build an image labeler tool in tkinter, which
+                turned out to need a lot of manual tweaking before I could even
+                get to the labeling. Seemed like the right tool for the job, but
+                it would have saved time if I'd built it from scratch myself.
+              </p>
+              <p>
+                The most interesting part was turning the labeled image data
+                into predictions with pytorch. Claude wrote the initial script
+                fairly quickly, but as these things go it required manual
+                tweaking and second guessing myself on the images flagged as
+                outliers. I'll admit I got embarrassingly far along before
+                realizing that Claude hadn't enabled pytorch's GPU support; a
+                real facepalm moment on my part.
+              </p>
+              <p>
+                For those curious, brave, or crazy enough to dive in the source
+                code is available here under an MIT license:
+                <a href="https://github.com/MrEricSir/munimet.ro"
+                  >https://github.com/MrEricSir/munimet.ro</a
+                >
+              </p>
+            </div>
           </section>
         </section>
         <section id="46637165">
@@ -181,11 +396,11 @@
             <h4>
               <span>2026-01-15 @ 18:45:18</span
               ><span class="points-container"
-                >Points: <span class="points">58</span></span
+                >Points: <span class="points">60</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46637165"
                   >Comments</a
-                ><span class="descendants">: 34</span></span
+                ><span class="descendants">: 37</span></span
               >
             </h4>
           </section>
@@ -203,33 +418,11 @@
             <h4>
               <span>2026-01-15 @ 18:42:46</span
               ><span class="points-container"
-                >Points: <span class="points">245</span></span
+                >Points: <span class="points">269</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46637127"
                   >Comments</a
-                ><span class="descendants">: 182</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="46637010">
-          <h3>
-            <a
-              class="item"
-              href="https://nltimes.nl/2026/01/15/dutch-experts-warn-us-takeover-digid-platform-poses-national-security-risks"
-              >Dutch experts warn US takeover of DigiD platform poses security
-              risks</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-01-15 @ 18:35:35</span
-              ><span class="points-container"
-                >Points: <span class="points">50</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=46637010"
-                  >Comments</a
-                ><span class="descendants">: 13</span></span
+                ><span class="descendants">: 208</span></span
               >
             </h4>
           </section>
@@ -245,11 +438,11 @@
             <h4>
               <span>2026-01-15 @ 18:25:36</span
               ><span class="points-container"
-                >Points: <span class="points">9</span></span
+                >Points: <span class="points">13</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46636861"
                   >Comments</a
-                ><span class="descendants">: 7</span></span
+                ><span class="descendants">: 10</span></span
               >
             </h4>
             <div class="text">
@@ -277,50 +470,6 @@
             </div>
           </section>
         </section>
-        <section id="46636738">
-          <h3>
-            <a class="item" href="https://jayzalowitz.github.io/zucksharp/"
-              >Zuck#: A programming language for connecting the world. And
-              harvesting it</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-01-15 @ 18:17:52</span
-              ><span class="points-container"
-                >Points: <span class="points">59</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=46636738"
-                  >Comments</a
-                ><span class="descendants">: 26</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="46636571">
-          <h3>
-            <a class="item" href="https://news.ycombinator.com/item?id=46636571"
-              >Ask HN: Anyone have a good solution for modern Mac to legacy SCSI
-              converters?</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-01-15 @ 18:04:59</span
-              ><span class="points-container"
-                >Points: <span class="points">19</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=46636571"
-                  >Comments</a
-                ><span class="descendants">: 36</span></span
-              >
-            </h4>
-            <div class="text">
-              Meaning attaching old SCSI drives to modern Macs, not putting SSDs
-              into old Macs.
-            </div>
-          </section>
-        </section>
         <section id="46636387">
           <h3>
             <a
@@ -333,11 +482,11 @@
             <h4>
               <span>2026-01-15 @ 17:51:24</span
               ><span class="points-container"
-                >Points: <span class="points">114</span></span
+                >Points: <span class="points">115</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46636387"
                   >Comments</a
-                ><span class="descendants">: 19</span></span
+                ><span class="descendants">: 20</span></span
               >
             </h4>
           </section>
@@ -355,11 +504,11 @@
             <h4>
               <span>2026-01-15 @ 17:30:10</span
               ><span class="points-container"
-                >Points: <span class="points">52</span></span
+                >Points: <span class="points">55</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46636093"
                   >Comments</a
-                ><span class="descendants">: 6</span></span
+                ><span class="descendants">: 7</span></span
               >
             </h4>
           </section>
@@ -374,11 +523,11 @@
             <h4>
               <span>2026-01-15 @ 16:49:13</span
               ><span class="points-container"
-                >Points: <span class="points">186</span></span
+                >Points: <span class="points">208</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46635345"
                   >Comments</a
-                ><span class="descendants">: 356</span></span
+                ><span class="descendants">: 390</span></span
               >
             </h4>
             <div class="text">
@@ -401,11 +550,11 @@
             <h4>
               <span>2026-01-15 @ 15:59:21</span
               ><span class="points-container"
-                >Points: <span class="points">96</span></span
+                >Points: <span class="points">97</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46634450"
                   >Comments</a
-                ><span class="descendants">: 73</span></span
+                ><span class="descendants">: 76</span></span
               >
             </h4>
           </section>
@@ -422,11 +571,11 @@
             <h4>
               <span>2026-01-15 @ 15:09:16</span
               ><span class="points-container"
-                >Points: <span class="points">93</span></span
+                >Points: <span class="points">96</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46633574"
                   >Comments</a
-                ><span class="descendants">: 20</span></span
+                ><span class="descendants">: 21</span></span
               >
             </h4>
           </section>
@@ -444,32 +593,11 @@
             <h4>
               <span>2026-01-15 @ 15:02:42</span
               ><span class="points-container"
-                >Points: <span class="points">435</span></span
+                >Points: <span class="points">444</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46633488"
                   >Comments</a
-                ><span class="descendants">: 281</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="46633429">
-          <h3>
-            <a
-              class="item"
-              href="https://github.com/obsproject/obs-studio/releases/tag/32.1.0-beta1"
-              >OBS Studio 32.1.0 Beta 1 available</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-01-15 @ 14:57:53</span
-              ><span class="points-container"
-                >Points: <span class="points">133</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=46633429"
-                  >Comments</a
-                ><span class="descendants">: 40</span></span
+                ><span class="descendants">: 288</span></span
               >
             </h4>
           </section>
@@ -485,7 +613,7 @@
             <h4>
               <span>2026-01-15 @ 14:11:30</span
               ><span class="points-container"
-                >Points: <span class="points">100</span></span
+                >Points: <span class="points">104</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46632768"
                   >Comments</a
@@ -504,48 +632,33 @@
             <h4>
               <span>2026-01-15 @ 13:17:07</span
               ><span class="points-container"
-                >Points: <span class="points">362</span></span
+                >Points: <span class="points">368</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46632023"
                   >Comments</a
-                ><span class="descendants">: 318</span></span
+                ><span class="descendants">: 324</span></span
               >
             </h4>
           </section>
         </section>
-        <section id="46631276">
-          <h3>
-            <a class="item" href="https://jiga.io/about-us"
-              >Jiga (YC W21) Is Hiring Full Stack Engineers</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-01-15 @ 12:00:37</span
-              ><span class="points-container"
-                >Points: <span class="points">1</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="46630798">
+        <section id="46630369">
           <h3>
             <a
               class="item"
-              href="https://nothings.org/gamedev/thief_rendering.html"
-              >The 3D Software Rendering Technology of 1998's Thief: The Dark
-              Project (2019)</a
+              href="https://e360.yale.edu/digest/china-renewable-photo-essay"
+              >Photos capture the breathtaking scale of China's wind and solar
+              buildout</a
             >
           </h3>
           <section>
             <h4>
-              <span>2026-01-15 @ 10:59:08</span
+              <span>2026-01-15 @ 09:54:10</span
               ><span class="points-container"
-                >Points: <span class="points">119</span></span
+                >Points: <span class="points">346</span></span
               ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=46630798"
+                ><a href="https://news.ycombinator.com/item?id=46630369"
                   >Comments</a
-                ><span class="descendants">: 51</span></span
+                ><span class="descendants">: 294</span></span
               >
             </h4>
           </section>
@@ -561,11 +674,11 @@
             <h4>
               <span>2026-01-15 @ 03:28:20</span
               ><span class="points-container"
-                >Points: <span class="points">737</span></span
+                >Points: <span class="points">742</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46627652"
                   >Comments</a
-                ><span class="descendants">: 138</span></span
+                ><span class="descendants">: 139</span></span
               >
             </h4>
           </section>
@@ -581,11 +694,11 @@
             <h4>
               <span>2026-01-14 @ 18:33:56</span
               ><span class="points-container"
-                >Points: <span class="points">80</span></span
+                >Points: <span class="points">82</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46620358"
                   >Comments</a
-                ><span class="descendants">: 11</span></span
+                ><span class="descendants">: 12</span></span
               >
             </h4>
             <div class="text">
@@ -666,11 +779,11 @@
             <h4>
               <span>2026-01-14 @ 17:07:42</span
               ><span class="points-container"
-                >Points: <span class="points">813</span></span
+                >Points: <span class="points">815</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46618714"
                   >Comments</a
-                ><span class="descendants">: 2176</span></span
+                ><span class="descendants">: 2184</span></span
               >
             </h4>
             <div class="text">
@@ -720,11 +833,11 @@
             <h4>
               <span>2026-01-14 @ 16:26:11</span
               ><span class="points-container"
-                >Points: <span class="points">92</span></span
+                >Points: <span class="points">99</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46618042"
                   >Comments</a
-                ><span class="descendants">: 67</span></span
+                ><span class="descendants">: 73</span></span
               >
             </h4>
           </section>
@@ -741,11 +854,11 @@
             <h4>
               <span>2026-01-14 @ 07:26:52</span
               ><span class="points-container"
-                >Points: <span class="points">123</span></span
+                >Points: <span class="points">142</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46613324"
                   >Comments</a
-                ><span class="descendants">: 21</span></span
+                ><span class="descendants">: 23</span></span
               >
             </h4>
             <div class="text">
@@ -767,7 +880,7 @@
             <h4>
               <span>2026-01-14 @ 07:21:54</span
               ><span class="points-container"
-                >Points: <span class="points">55</span></span
+                >Points: <span class="points">59</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46613304"
                   >Comments</a
@@ -788,11 +901,11 @@
             <h4>
               <span>2026-01-14 @ 06:14:26</span
               ><span class="points-container"
-                >Points: <span class="points">83</span></span
+                >Points: <span class="points">86</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46612919"
                   >Comments</a
-                ><span class="descendants">: 39</span></span
+                ><span class="descendants">: 42</span></span
               >
             </h4>
           </section>
@@ -808,11 +921,11 @@
             <h4>
               <span>2026-01-14 @ 04:55:04</span
               ><span class="points-container"
-                >Points: <span class="points">62</span></span
+                >Points: <span class="points">70</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46612494"
                   >Comments</a
-                ><span class="descendants">: 17</span></span
+                ><span class="descendants">: 18</span></span
               >
             </h4>
             <div class="text">
@@ -869,6 +982,27 @@
             </div>
           </section>
         </section>
+        <section id="46588243">
+          <h3>
+            <a
+              class="item"
+              href="https://github.com/syncguy/go-legacy-winxp/tree/winxp-compat"
+              >Go-legacy-winxp: Compile Golang 1.24 code for Windows XP</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-01-12 @ 13:32:42</span
+              ><span class="points-container"
+                >Points: <span class="points">10</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=46588243"
+                  >Comments</a
+                ><span class="descendants">: 0</span></span
+              >
+            </h4>
+          </section>
+        </section>
         <section id="46576170">
           <h3>
             <a class="item" href="https://www.youtube.com/watch?v=80C-wcqs4mI"
@@ -879,49 +1013,11 @@
             <h4>
               <span>2026-01-11 @ 14:47:43</span
               ><span class="points-container"
-                >Points: <span class="points">6</span></span
+                >Points: <span class="points">10</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46576170"
                   >Comments</a
                 ><span class="descendants">: 1</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="46573926">
-          <h3>
-            <a class="item" href="https://github.com/aperturerobotics/goscript"
-              >Goscript: Transpile Go to human-readable TypeScript</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-01-11 @ 09:20:28</span
-              ><span class="points-container"
-                >Points: <span class="points">17</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=46573926"
-                  >Comments</a
-                ><span class="descendants">: 5</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="46569640">
-          <h3>
-            <a class="item" href="https://en.wikipedia.org/wiki/Sinclair_C5"
-              >Sinclair C5</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-01-10 @ 20:31:51</span
-              ><span class="points-container"
-                >Points: <span class="points">79</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=46569640"
-                  >Comments</a
-                ><span class="descendants">: 51</span></span
               >
             </h4>
           </section>
