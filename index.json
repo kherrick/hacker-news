@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-01-15, 05:23:18",
+      "https://news.ycombinator.com/item?id=46628397"
+    ],
+    [
+      "Handy – free open source speech-to-text app",
+      "https://github.com/cjpais/Handy"
+    ]
+  ],
+  [
+    [
       "2026-01-15, 03:28:20",
       "https://news.ycombinator.com/item?id=46627652"
     ],
@@ -97,16 +107,6 @@
     [
       "The State of OpenSSL for pyca/cryptography",
       "https://cryptography.io/en/latest/statements/state-of-openssl/"
-    ]
-  ],
-  [
-    [
-      "2026-01-14, 21:53:57",
-      "https://news.ycombinator.com/item?id=46624190"
-    ],
-    [
-      "Ask HN: Distributed SQL engine for ultra-wide tables",
-      "https://news.ycombinator.com/item?id=46624190"
     ]
   ],
   [
@@ -241,26 +241,6 @@
   ],
   [
     [
-      "2026-01-12, 15:33:39",
-      "https://news.ycombinator.com/item?id=46589804"
-    ],
-    [
-      "I Designed a Custom Protocol for My App",
-      "https://blog.roj.dev/how-i-designed-a-custom-protocol-for-my-app"
-    ]
-  ],
-  [
-    [
-      "2026-01-11, 02:58:36",
-      "https://news.ycombinator.com/item?id=46572307"
-    ],
-    [
-      "Why some clothes shrink in the wash and how to unshrink them",
-      "https://www.swinburne.edu.au/news/2025/08/why-some-clothes-shrink-in-the-wash-and-how-to-unshrink-them/"
-    ]
-  ],
-  [
-    [
       "2026-01-10, 19:37:36",
       "https://news.ycombinator.com/item?id=46569175"
     ],
@@ -281,6 +261,16 @@
   ],
   [
     [
+      "2026-01-10, 11:32:56",
+      "https://news.ycombinator.com/item?id=46564818"
+    ],
+    [
+      "Rubik's Cube in Prolog – Order",
+      "https://medium.com/@kenichisasagawa/i-am-preparing-material-for-a-prolog-book-af7580acfee7"
+    ]
+  ],
+  [
+    [
       "2026-01-10, 00:32:10",
       "https://news.ycombinator.com/item?id=46561341"
     ],
@@ -297,6 +287,16 @@
     [
       "How can I build a simple pulse generator to demonstrate transmission lines",
       "https://electronics.stackexchange.com/questions/764155/how-can-i-build-a-simple-pulse-generator-to-demonstrate-transmission-lines"
+    ]
+  ],
+  [
+    [
+      "2026-01-09, 07:43:20",
+      "https://news.ycombinator.com/item?id=46551065"
+    ],
+    [
+      "Show HN: Ever wanted to look at yourself in Braille?",
+      "https://github.com/NishantJoshi00/dith"
     ]
   ]
 ]
