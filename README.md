@@ -1,8 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-01-14, 22:42:12](https://news.ycombinator.com/item?id=46624927) - [US, for first time in 50 years, experienced negative net migration in 2025](https://abcnews.go.com/US/us-1st-time-50-years-experienced-negative-net/story?id=129175522)
+* [2026-01-15, 00:53:21](https://news.ycombinator.com/item?id=46626410) - [Furiosa: 3.5x efficiency over H100s](https://furiosa.ai/blog/introducing-rngd-server-efficient-ai-inference-at-data-center-scale)
+* [2026-01-15, 00:04:24](https://news.ycombinator.com/item?id=46625918) - [Anthropic Explicitly Blocking OpenCode](https://gist.github.com/R44VC0RP/bd391f6a23185c0fed6c6b5fb2bac50e)
+* [2026-01-14, 23:49:34](https://news.ycombinator.com/item?id=46625766) - [Billion-Dollar Idea Generator](https://www.pivotgpt.ceo/)
 * [2026-01-14, 22:30:16](https://news.ycombinator.com/item?id=46624731) - [ChromaDB Explorer](https://www.chroma-explorer.com/)
-* [2026-01-14, 22:19:36](https://news.ycombinator.com/item?id=46624563) - [Training my smartwatch to track intelligence](https://dmvaldman.github.io/rooklift/)
 * [2026-01-14, 22:18:04](https://news.ycombinator.com/item?id=46624541) - [Scaling long-running autonomous coding](https://cursor.com/blog/scaling-agents)
 * [2026-01-14, 22:04:10](https://news.ycombinator.com/item?id=46624352) - [The State of OpenSSL for pyca/cryptography](https://cryptography.io/en/latest/statements/state-of-openssl/)
 * [2026-01-14, 21:26:51](https://news.ycombinator.com/item?id=46623761) - [Sun Position Calculator](https://drajmarsh.bitbucket.io/earthsun.html)
@@ -16,8 +17,6 @@
 * [2026-01-14, 16:25:07](https://news.ycombinator.com/item?id=46618027) - [GitHub should charge everyone $1 more per month to fund open source](https://blog.greg.technology/2025/11/27/github-should-charge-1-dollar-more-per-month.html)
 * [2026-01-14, 16:03:11](https://news.ycombinator.com/item?id=46617668) - [Roam 50GB is now Roam 100GB](https://starlink.com/support/article/58c9c8b7-474e-246f-7e3c-06db3221d34d)
 * [2026-01-14, 15:44:22](https://news.ycombinator.com/item?id=46617360) - [Find a pub that needs you](https://www.ismypubfucked.com/)
-* [2026-01-14, 15:11:35](https://news.ycombinator.com/item?id=46616919) - [Show HN: Digital Carrot – Block social media with programmable rules and goals](https://www.digitalcarrot.app/)
-* [2026-01-14, 14:35:50](https://news.ycombinator.com/item?id=46616496) - [Edge of Emulation: Game Boy Sewing Machines (2020)](https://shonumi.github.io/articles/art22.html)
 * [2026-01-14, 14:34:57](https://news.ycombinator.com/item?id=46616488) - [SparkFun Officially Dropping AdaFruit due to CoC Violation](https://www.sparkfun.com/official-response)
 * [2026-01-14, 14:34:40](https://news.ycombinator.com/item?id=46616481) - [Show HN: Webctl – Browser automation for agents based on CLI instead of MCP](https://github.com/cosinusalpha/webctl)
 * [2026-01-14, 12:25:59](https://news.ycombinator.com/item?id=46615235) - [Lago (Open-Source Billing) is hiring across teams and geos](https://news.ycombinator.com/item?id=46615235)
@@ -27,9 +26,10 @@
 * [2026-01-11, 02:58:36](https://news.ycombinator.com/item?id=46572307) - [Why some clothes shrink in the wash and how to unshrink them](https://www.swinburne.edu.au/news/2025/08/why-some-clothes-shrink-in-the-wash-and-how-to-unshrink-them/)
 * [2026-01-10, 22:58:25](https://news.ycombinator.com/item?id=46570811) - [Ski map artist James Niehues, the 'Monet of the mountains' (2021)](https://adventure.com/ski-map-artist-james-niehues/)
 * [2026-01-10, 19:37:36](https://news.ycombinator.com/item?id=46569175) - [Is Rust faster than C?](https://steveklabnik.com/writing/is-rust-faster-than-c/)
-* [2026-01-10, 18:26:56](https://news.ycombinator.com/item?id=46568472) - [You Can Just Buy Far-UVC](https://www.jefftk.com/p/you-can-just-buy-far-uvc)
 * [2026-01-10, 16:19:42](https://news.ycombinator.com/item?id=46566974) - [Generate QR Codes with Pure SQL in PostgreSQL](https://tanelpoder.com/posts/generate-qr-code-with-pure-sql-in-postgres/)
+* [2026-01-10, 11:32:56](https://news.ycombinator.com/item?id=46564818) - [Rubik's Cube in Prolog – Order](https://medium.com/@kenichisasagawa/i-am-preparing-material-for-a-prolog-book-af7580acfee7)
 * [2026-01-10, 00:32:10](https://news.ycombinator.com/item?id=46561341) - [Show HN: WebTiles – create a tiny 250x250 website with neighbors around you](https://webtiles.kicya.net/)
+* [2026-01-09, 11:02:18](https://news.ycombinator.com/item?id=46552534) - [How can I build a simple pulse generator to demonstrate transmission lines](https://electronics.stackexchange.com/questions/764155/how-can-i-build-a-simple-pulse-generator-to-demonstrate-transmission-lines)
 
 ## [Archives](archives/index.md)
 
