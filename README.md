@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-01-15, 21:13:38](https://news.ycombinator.com/item?id=46639401) - [European troops arrive in Greenland to boost the Arctic island's security](https://www.npr.org/2026/01/15/g-s1-106113/european-troops-arrive-greenland)
 * [2026-01-15, 21:00:42](https://news.ycombinator.com/item?id=46639248) - [Aviator (YC S21) is hiring to build multiplayer AI coding platform](https://www.ycombinator.com/companies/aviator/jobs)
 * [2026-01-15, 20:36:10](https://news.ycombinator.com/item?id=46638894) - [Show HN: The Hessian of tall-skinny networks is easy to invert](https://github.com/a-rahimi/hessian)
 * [2026-01-15, 20:30:05](https://news.ycombinator.com/item?id=46638798) - [ChatGPT wrote \"Goodnight Moon\" suicide lullaby for man who later killed himself](https://arstechnica.com/tech-policy/2026/01/chatgpt-wrote-goodnight-moon-suicide-lullaby-for-man-who-later-killed-himself/)
@@ -21,15 +22,14 @@
 * [2026-01-15, 14:11:30](https://news.ycombinator.com/item?id=46632768) - [Show HN: TinyCity – A tiny city SIM for MicroPython (Thumby micro console)](https://github.com/chrisdiana/TinyCity)
 * [2026-01-15, 13:17:07](https://news.ycombinator.com/item?id=46632023) - [25 Years of Wikipedia](https://wikipedia25.org)
 * [2026-01-15, 09:54:10](https://news.ycombinator.com/item?id=46630369) - [Photos capture the breathtaking scale of China's wind and solar buildout](https://e360.yale.edu/digest/china-renewable-photo-essay)
-* [2026-01-15, 03:28:20](https://news.ycombinator.com/item?id=46627652) - [The URL shortener that makes your links look as suspicious as possible](https://creepylink.com/)
 * [2026-01-14, 18:33:56](https://news.ycombinator.com/item?id=46620358) - [Show HN: Tabstack – Browser infrastructure for AI agents (by Mozilla)](https://news.ycombinator.com/item?id=46620358)
+* [2026-01-14, 17:07:42](https://news.ycombinator.com/item?id=46618714) - [Ask HN: Share your personal website](https://news.ycombinator.com/item?id=46618714)
 * [2026-01-14, 16:26:11](https://news.ycombinator.com/item?id=46618042) - [Claude is good at assembling blocks, but still falls apart at creating them](https://www.approachwithalacrity.com/claude-ne/)
 * [2026-01-14, 07:26:52](https://news.ycombinator.com/item?id=46613324) - [Inside The Internet Archive's Infrastructure](https://hackernoon.com/the-long-now-of-the-web-inside-the-internet-archives-fight-against-forgetting)
 * [2026-01-14, 07:21:54](https://news.ycombinator.com/item?id=46613304) - [Claude Cowork runs Linux VM via Apple virtualization framework](https://gist.github.com/simonw/35732f187edbe4fbd0bf976d013f22c8)
 * [2026-01-14, 06:14:26](https://news.ycombinator.com/item?id=46612919) - [First impressions of Claude Cowork](https://simonw.substack.com/p/first-impressions-of-claude-cowork)
 * [2026-01-14, 04:55:04](https://news.ycombinator.com/item?id=46612494) - [Show HN: OpenWork – an open-source alternative to Claude Cowork](https://github.com/different-ai/openwork)
 * [2026-01-12, 13:32:42](https://news.ycombinator.com/item?id=46588243) - [Go-legacy-winxp: Compile Golang 1.24 code for Windows XP](https://github.com/syncguy/go-legacy-winxp/tree/winxp-compat)
-* [2026-01-11, 14:47:43](https://news.ycombinator.com/item?id=46576170) - [Live 2025 – Spine [video]](https://www.youtube.com/watch?v=80C-wcqs4mI)
 
 ## [Archives](archives/index.md)
 
