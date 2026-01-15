@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-01-15, 08:23:02",
+      "https://news.ycombinator.com/item?id=46629682"
+    ],
+    [
+      "Raspberry Pi's New AI Hat Adds 8GB of RAM for Local LLMs",
+      "https://www.jeffgeerling.com/blog/2026/raspberry-pi-ai-hat-2/"
+    ]
+  ],
+  [
+    [
+      "2026-01-15, 08:12:46",
+      "https://news.ycombinator.com/item?id=46629610"
+    ],
+    [
+      "Have Taken Up Farming",
+      "https://dylan.gr/1768295794"
+    ]
+  ],
+  [
+    [
       "2026-01-15, 05:23:18",
       "https://news.ycombinator.com/item?id=46628397"
     ],
@@ -231,16 +251,6 @@
   ],
   [
     [
-      "2026-01-10, 19:37:36",
-      "https://news.ycombinator.com/item?id=46569175"
-    ],
-    [
-      "Is Rust faster than C?",
-      "https://steveklabnik.com/writing/is-rust-faster-than-c/"
-    ]
-  ],
-  [
-    [
       "2026-01-10, 16:19:42",
       "https://news.ycombinator.com/item?id=46566974"
     ],
@@ -287,16 +297,6 @@
     [
       "How can I build a simple pulse generator to demonstrate transmission lines",
       "https://electronics.stackexchange.com/questions/764155/how-can-i-build-a-simple-pulse-generator-to-demonstrate-transmission-lines"
-    ]
-  ],
-  [
-    [
-      "2026-01-09, 07:43:20",
-      "https://news.ycombinator.com/item?id=46551065"
-    ],
-    [
-      "Show HN: Ever wanted to look at yourself in Braille?",
-      "https://github.com/NishantJoshi00/dith"
     ]
   ]
 ]
