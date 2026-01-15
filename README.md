@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-01-15, 05:23:18](https://news.ycombinator.com/item?id=46628397) - [Handy – free open source speech-to-text app](https://github.com/cjpais/Handy)
 * [2026-01-15, 03:28:20](https://news.ycombinator.com/item?id=46627652) - [The URL shortener that makes your links look as suspicious as possible](https://creepylink.com/)
 * [2026-01-15, 01:45:22](https://news.ycombinator.com/item?id=46626836) - [Bubblewrap: A nimble way to prevent agents from accessing your .env files](https://patrickmccanna.net/a-better-way-to-limit-claude-code-and-other-coding-agents-access-to-secrets/)
 * [2026-01-15, 01:20:22](https://news.ycombinator.com/item?id=46626639) - [Ask HN: What is the best way to provide continuous context to models?](https://news.ycombinator.com/item?id=46626639)
@@ -10,7 +11,6 @@
 * [2026-01-14, 22:26:17](https://news.ycombinator.com/item?id=46624658) - [Crafting Interpreters](https://craftinginterpreters.com/)
 * [2026-01-14, 22:18:04](https://news.ycombinator.com/item?id=46624541) - [Scaling long-running autonomous coding](https://cursor.com/blog/scaling-agents)
 * [2026-01-14, 22:04:10](https://news.ycombinator.com/item?id=46624352) - [The State of OpenSSL for pyca/cryptography](https://cryptography.io/en/latest/statements/state-of-openssl/)
-* [2026-01-14, 21:53:57](https://news.ycombinator.com/item?id=46624190) - [Ask HN: Distributed SQL engine for ultra-wide tables](https://news.ycombinator.com/item?id=46624190)
 * [2026-01-14, 21:26:51](https://news.ycombinator.com/item?id=46623761) - [Sun Position Calculator](https://drajmarsh.bitbucket.io/earthsun.html)
 * [2026-01-14, 20:12:25](https://news.ycombinator.com/item?id=46622328) - [Claude Cowork exfiltrates files](https://www.promptarmor.com/resources/claude-cowork-exfiltrates-files)
 * [2026-01-14, 18:49:37](https://news.ycombinator.com/item?id=46620673) - [Native ZFS VDEV for Object Storage (OpenZFS Summit)](https://www.zettalane.com/blog/openzfs-summit-2025-mayanas-objbacker.html)
@@ -24,12 +24,12 @@
 * [2026-01-14, 14:38:29](https://news.ycombinator.com/item?id=46616529) - [Ask HN: How are you doing RAG locally?](https://news.ycombinator.com/item?id=46616529)
 * [2026-01-14, 14:34:57](https://news.ycombinator.com/item?id=46616488) - [SparkFun Officially Dropping AdaFruit due to CoC Violation](https://www.sparkfun.com/official-response)
 * [2026-01-14, 14:34:40](https://news.ycombinator.com/item?id=46616481) - [Show HN: Webctl – Browser automation for agents based on CLI instead of MCP](https://github.com/cosinusalpha/webctl)
-* [2026-01-12, 15:33:39](https://news.ycombinator.com/item?id=46589804) - [I Designed a Custom Protocol for My App](https://blog.roj.dev/how-i-designed-a-custom-protocol-for-my-app)
-* [2026-01-11, 02:58:36](https://news.ycombinator.com/item?id=46572307) - [Why some clothes shrink in the wash and how to unshrink them](https://www.swinburne.edu.au/news/2025/08/why-some-clothes-shrink-in-the-wash-and-how-to-unshrink-them/)
 * [2026-01-10, 19:37:36](https://news.ycombinator.com/item?id=46569175) - [Is Rust faster than C?](https://steveklabnik.com/writing/is-rust-faster-than-c/)
 * [2026-01-10, 16:19:42](https://news.ycombinator.com/item?id=46566974) - [Generate QR Codes with Pure SQL in PostgreSQL](https://tanelpoder.com/posts/generate-qr-code-with-pure-sql-in-postgres/)
+* [2026-01-10, 11:32:56](https://news.ycombinator.com/item?id=46564818) - [Rubik's Cube in Prolog – Order](https://medium.com/@kenichisasagawa/i-am-preparing-material-for-a-prolog-book-af7580acfee7)
 * [2026-01-10, 00:32:10](https://news.ycombinator.com/item?id=46561341) - [Show HN: WebTiles – create a tiny 250x250 website with neighbors around you](https://webtiles.kicya.net/)
 * [2026-01-09, 11:02:18](https://news.ycombinator.com/item?id=46552534) - [How can I build a simple pulse generator to demonstrate transmission lines](https://electronics.stackexchange.com/questions/764155/how-can-i-build-a-simple-pulse-generator-to-demonstrate-transmission-lines)
+* [2026-01-09, 07:43:20](https://news.ycombinator.com/item?id=46551065) - [Show HN: Ever wanted to look at yourself in Braille?](https://github.com/NishantJoshi00/dith)
 
 ## [Archives](archives/index.md)
 
