@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-01-15](index.md)
 
+* [2026-01-15, 17:00:38](https://news.ycombinator.com/item?id=46635550) - [GitHub Incident](https://www.githubstatus.com/incidents/q987xpbqjbpl)
+* [2026-01-15, 16:29:13](https://news.ycombinator.com/item?id=46635018) - [Americans Overwhelmingly Support Science, but Some Think the U.S. Is Lagging](https://www.scientificamerican.com/article/americans-overwhelmingly-support-science-but-some-think-the-u-s-is-lagging/)
+* [2026-01-15, 15:59:21](https://news.ycombinator.com/item?id=46634450) - [Design and Implementation of Sprites](https://fly.io/blog/design-and-implementation/)
 * [2026-01-15, 15:49:23](https://news.ycombinator.com/item?id=46634263) - [European military personnel arrive in Greenland as Trump says US needs island](https://www.bbc.com/news/articles/cd0ydjvxpejo)
 * [2026-01-15, 15:02:42](https://news.ycombinator.com/item?id=46633488) - [Apple Is Fighting for TSMC Capacity as Nvidia Takes Center Stage](https://www.culpium.com/p/exclusiveapple-is-fighting-for-tsmc)
 * [2026-01-15, 14:57:53](https://news.ycombinator.com/item?id=46633429) - [OBS Studio 32.1.0 Beta 1 available](https://github.com/obsproject/obs-studio/releases/tag/32.1.0-beta1)
