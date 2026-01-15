@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-01-15, 14:57:53",
+      "https://news.ycombinator.com/item?id=46633429"
+    ],
+    [
+      "OBS Studio 32.1.0 Beta 1 available",
+      "https://github.com/obsproject/obs-studio/releases/tag/32.1.0-beta1"
+    ]
+  ],
+  [
+    [
       "2026-01-15, 14:24:52",
       "https://news.ycombinator.com/item?id=46632955"
     ],
@@ -11,12 +21,32 @@
   ],
   [
     [
+      "2026-01-15, 14:11:30",
+      "https://news.ycombinator.com/item?id=46632768"
+    ],
+    [
+      "Show HN: TinyCity – A tiny city SIM for MicroPython (Thumby micro console)",
+      "https://github.com/chrisdiana/TinyCity"
+    ]
+  ],
+  [
+    [
       "2026-01-15, 13:18:10",
       "https://news.ycombinator.com/item?id=46632039"
     ],
     [
       "Programming, Evolved: Lessons and Observations",
       "https://github.com/kulesh/dotfiles/blob/main/dev/dev/docs/programming-evolved.md"
+    ]
+  ],
+  [
+    [
+      "2026-01-15, 13:17:07",
+      "https://news.ycombinator.com/item?id=46632023"
+    ],
+    [
+      "25 Years of Wikipedia",
+      "https://wikipedia25.org"
     ]
   ],
   [
@@ -87,16 +117,6 @@
     [
       "Raspberry Pi's New AI Hat Adds 8GB of RAM for Local LLMs",
       "https://www.jeffgeerling.com/blog/2026/raspberry-pi-ai-hat-2/"
-    ]
-  ],
-  [
-    [
-      "2026-01-15, 07:58:23",
-      "https://news.ycombinator.com/item?id=46629474"
-    ],
-    [
-      "A letter to those who fired tech writers because of AI",
-      "https://passo.uno/letter-those-who-fired-tech-writers-ai/"
     ]
   ],
   [
@@ -251,32 +271,12 @@
   ],
   [
     [
-      "2026-01-12, 07:19:00",
-      "https://news.ycombinator.com/item?id=46585160"
-    ],
-    [
-      "Ideas are cheap, execution is cheaper",
-      "https://davekiss.com/blog/ideas-are-cheap-execution-is-cheaper/"
-    ]
-  ],
-  [
-    [
       "2026-01-12, 05:42:09",
       "https://news.ycombinator.com/item?id=46584523"
     ],
     [
       "Z80 Mem­ber­ship Card",
       "https://sunrise-ev.com/z80.htm"
-    ]
-  ],
-  [
-    [
-      "2026-01-10, 11:38:39",
-      "https://news.ycombinator.com/item?id=46564866"
-    ],
-    [
-      "Bare metal programming with RISC-V guide (2023)",
-      "https://popovicu.com/posts/bare-metal-programming-risc-v/"
     ]
   ],
   [
