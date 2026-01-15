@@ -41,6 +41,16 @@
   ],
   [
     [
+      "2026-01-15, 00:34:59",
+      "https://news.ycombinator.com/item?id=46626210"
+    ],
+    [
+      "New Safari developer tools provide insight into CSS Grid Lanes",
+      "https://webkit.org/blog/17746/new-safari-developer-tools-provide-insight-into-css-grid-lanes/"
+    ]
+  ],
+  [
+    [
       "2026-01-14, 22:30:40",
       "https://news.ycombinator.com/item?id=46624740"
     ],
@@ -91,6 +101,16 @@
   ],
   [
     [
+      "2026-01-14, 21:53:57",
+      "https://news.ycombinator.com/item?id=46624190"
+    ],
+    [
+      "Ask HN: Distributed SQL engine for ultra-wide tables",
+      "https://news.ycombinator.com/item?id=46624190"
+    ]
+  ],
+  [
+    [
       "2026-01-14, 21:26:51",
       "https://news.ycombinator.com/item?id=46623761"
     ],
@@ -111,22 +131,32 @@
   ],
   [
     [
-      "2026-01-14, 19:06:23",
-      "https://news.ycombinator.com/item?id=46620990"
+      "2026-01-14, 19:38:47",
+      "https://news.ycombinator.com/item?id=46621656"
     ],
     [
-      "Ask HN: How do you safely give LLMs SSH/DB access?",
-      "https://news.ycombinator.com/item?id=46620990"
+      "Upgrading DrizzleORM logging with AsyncLocalStorage",
+      "https://numeric.substack.com/p/upgrading-drizzleorm-logging-with"
     ]
   ],
   [
     [
-      "2026-01-14, 18:49:37",
-      "https://news.ycombinator.com/item?id=46620673"
+      "2026-01-14, 18:01:23",
+      "https://news.ycombinator.com/item?id=46619614"
     ],
     [
-      "Native ZFS VDEV for Object Storage (OpenZFS Summit)",
-      "https://www.zettalane.com/blog/openzfs-summit-2025-mayanas-objbacker.html"
+      "Show HN: Sparrow-1 – Audio-native model for human-level turn-taking without ASR",
+      "https://www.tavus.io/post/sparrow-1-human-level-conversational-timing-in-real-time-voice"
+    ]
+  ],
+  [
+    [
+      "2026-01-14, 17:54:25",
+      "https://news.ycombinator.com/item?id=46619464"
+    ],
+    [
+      "Ask HN: What did you find out or explore today?",
+      "https://news.ycombinator.com/item?id=46619464"
     ]
   ],
   [
@@ -151,16 +181,6 @@
   ],
   [
     [
-      "2026-01-14, 16:25:07",
-      "https://news.ycombinator.com/item?id=46618027"
-    ],
-    [
-      "GitHub should charge everyone $1 more per month to fund open source",
-      "https://blog.greg.technology/2025/11/27/github-should-charge-1-dollar-more-per-month.html"
-    ]
-  ],
-  [
-    [
       "2026-01-14, 16:03:11",
       "https://news.ycombinator.com/item?id=46617668"
     ],
@@ -177,6 +197,16 @@
     [
       "Find a pub that needs you",
       "https://www.ismypubfucked.com/"
+    ]
+  ],
+  [
+    [
+      "2026-01-14, 14:38:29",
+      "https://news.ycombinator.com/item?id=46616529"
+    ],
+    [
+      "Ask HN: How are you doing RAG locally?",
+      "https://news.ycombinator.com/item?id=46616529"
     ]
   ],
   [
@@ -201,16 +231,6 @@
   ],
   [
     [
-      "2026-01-14, 08:21:19",
-      "https://news.ycombinator.com/item?id=46613624"
-    ],
-    [
-      "The hunt for a stolen Jackson Pollock",
-      "https://www.washingtonpost.com/entertainment/art/interactive/2026/jackson-pollock-theft-isaacs-family/"
-    ]
-  ],
-  [
-    [
       "2026-01-13, 15:40:55",
       "https://news.ycombinator.com/item?id=46602411"
     ],
@@ -227,26 +247,6 @@
     [
       "Why some clothes shrink in the wash and how to unshrink them",
       "https://www.swinburne.edu.au/news/2025/08/why-some-clothes-shrink-in-the-wash-and-how-to-unshrink-them/"
-    ]
-  ],
-  [
-    [
-      "2026-01-10, 22:58:25",
-      "https://news.ycombinator.com/item?id=46570811"
-    ],
-    [
-      "Ski map artist James Niehues, the 'Monet of the mountains' (2021)",
-      "https://adventure.com/ski-map-artist-james-niehues/"
-    ]
-  ],
-  [
-    [
-      "2026-01-10, 19:37:36",
-      "https://news.ycombinator.com/item?id=46569175"
-    ],
-    [
-      "Is Rust faster than C?",
-      "https://steveklabnik.com/writing/is-rust-faster-than-c/"
     ]
   ],
   [
