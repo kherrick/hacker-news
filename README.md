@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-01-15, 09:54:10](https://news.ycombinator.com/item?id=46630369) - [Photos Capture the Breathtaking Scale of China's Wind and Solar Buildout](https://e360.yale.edu/digest/china-renewable-photo-essay)
 * [2026-01-15, 08:59:27](https://news.ycombinator.com/item?id=46629957) - [Nao Labs (Open-Source Analytics Agent, YC X25) Is Hiring](https://www.ycombinator.com/companies/nao-labs/jobs/KjOBhf5-founding-software-engineer)
 * [2026-01-15, 08:23:02](https://news.ycombinator.com/item?id=46629682) - [Raspberry Pi's New AI Hat Adds 8GB of RAM for Local LLMs](https://www.jeffgeerling.com/blog/2026/raspberry-pi-ai-hat-2/)
 * [2026-01-15, 08:12:46](https://news.ycombinator.com/item?id=46629610) - [Have Taken Up Farming](https://dylan.gr/1768295794)
@@ -7,7 +8,6 @@
 * [2026-01-15, 05:23:18](https://news.ycombinator.com/item?id=46628397) - [Handy – Free open source speech-to-text app](https://github.com/cjpais/Handy)
 * [2026-01-15, 03:28:20](https://news.ycombinator.com/item?id=46627652) - [The URL shortener that makes your links look as suspicious as possible](https://creepylink.com/)
 * [2026-01-15, 01:45:22](https://news.ycombinator.com/item?id=46626836) - [Bubblewrap: A nimble way to prevent agents from accessing your .env files](https://patrickmccanna.net/a-better-way-to-limit-claude-code-and-other-coding-agents-access-to-secrets/)
-* [2026-01-15, 01:20:22](https://news.ycombinator.com/item?id=46626639) - [Ask HN: What is the best way to provide continuous context to models?](https://news.ycombinator.com/item?id=46626639)
 * [2026-01-15, 00:53:21](https://news.ycombinator.com/item?id=46626410) - [Furiosa: 3.5x efficiency over H100s](https://furiosa.ai/blog/introducing-rngd-server-efficient-ai-inference-at-data-center-scale)
 * [2026-01-15, 00:34:59](https://news.ycombinator.com/item?id=46626210) - [New Safari developer tools provide insight into CSS Grid Lanes](https://webkit.org/blog/17746/new-safari-developer-tools-provide-insight-into-css-grid-lanes/)
 * [2026-01-14, 22:26:17](https://news.ycombinator.com/item?id=46624658) - [Crafting Interpreters](https://craftinginterpreters.com/)

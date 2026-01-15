@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-01-15](index.md)
 
+* [2026-01-15, 09:54:10](https://news.ycombinator.com/item?id=46630369) - [Photos Capture the Breathtaking Scale of China's Wind and Solar Buildout](https://e360.yale.edu/digest/china-renewable-photo-essay)
 * [2026-01-15, 08:59:27](https://news.ycombinator.com/item?id=46629957) - [Nao Labs (Open-Source Analytics Agent, YC X25) Is Hiring](https://www.ycombinator.com/companies/nao-labs/jobs/KjOBhf5-founding-software-engineer)
 * [2026-01-15, 08:23:02](https://news.ycombinator.com/item?id=46629682) - [Raspberry Pi's New AI Hat Adds 8GB of RAM for Local LLMs](https://www.jeffgeerling.com/blog/2026/raspberry-pi-ai-hat-2/)
 * [2026-01-15, 08:12:46](https://news.ycombinator.com/item?id=46629610) - [Have Taken Up Farming](https://dylan.gr/1768295794)
