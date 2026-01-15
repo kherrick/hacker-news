@@ -25,9 +25,9 @@
 * [2026-01-14, 14:34:40](https://news.ycombinator.com/item?id=46616481) - [Show HN: Webctl – Browser automation for agents based on CLI instead of MCP](https://github.com/cosinusalpha/webctl)
 * [2026-01-14, 05:35:20](https://news.ycombinator.com/item?id=46612711) - [The <Geolocation> HTML Element](https://developer.chrome.com/blog/geolocation-html-element)
 * [2026-01-12, 05:42:09](https://news.ycombinator.com/item?id=46584523) - [Z80 Mem­ber­ship Card](https://sunrise-ev.com/z80.htm)
-* [2026-01-11, 20:08:40](https://news.ycombinator.com/item?id=46579451) - [Desperately Seeking Squircles (2018)](https://www.figma.com/blog/desperately-seeking-squircles/)
 * [2026-01-10, 16:19:42](https://news.ycombinator.com/item?id=46566974) - [Generate QR Codes with Pure SQL in PostgreSQL](https://tanelpoder.com/posts/generate-qr-code-with-pure-sql-in-postgres/)
 * [2026-01-10, 11:38:39](https://news.ycombinator.com/item?id=46564866) - [Bare metal programming with RISC-V guide (2023)](https://popovicu.com/posts/bare-metal-programming-risc-v/)
+* [2026-01-10, 03:06:36](https://news.ycombinator.com/item?id=46562371) - [MIT Whirlwind I: A High-Speed Electronic Digital Computer (1951) [pdf]](https://dome.mit.edu/bitstream/handle/1721.3/40245/MC665_r12_R-209.pdf?sequence=1&isAllowed=y)
 * [2026-01-10, 00:32:10](https://news.ycombinator.com/item?id=46561341) - [Show HN: WebTiles – create a tiny 250x250 website with neighbors around you](https://webtiles.kicya.net/)
 * [2026-01-09, 11:02:18](https://news.ycombinator.com/item?id=46552534) - [How can I build a simple pulse generator to demonstrate transmission lines](https://electronics.stackexchange.com/questions/764155/how-can-i-build-a-simple-pulse-generator-to-demonstrate-transmission-lines)
 
