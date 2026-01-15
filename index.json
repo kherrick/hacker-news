@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-01-15, 01:45:22",
+      "https://news.ycombinator.com/item?id=46626836"
+    ],
+    [
+      "Bubblewrap: A nimble way to prevent agents from accessing your .env files",
+      "https://patrickmccanna.net/a-better-way-to-limit-claude-code-and-other-coding-agents-access-to-secrets/"
+    ]
+  ],
+  [
+    [
       "2026-01-15, 00:53:21",
       "https://news.ycombinator.com/item?id=46626410"
     ],
@@ -21,22 +31,22 @@
   ],
   [
     [
-      "2026-01-14, 23:49:34",
-      "https://news.ycombinator.com/item?id=46625766"
-    ],
-    [
-      "Billion-Dollar Idea Generator",
-      "https://www.pivotgpt.ceo/"
-    ]
-  ],
-  [
-    [
       "2026-01-14, 22:30:16",
       "https://news.ycombinator.com/item?id=46624731"
     ],
     [
       "ChromaDB Explorer",
       "https://www.chroma-explorer.com/"
+    ]
+  ],
+  [
+    [
+      "2026-01-14, 22:26:17",
+      "https://news.ycombinator.com/item?id=46624658"
+    ],
+    [
+      "Crafting Interpreters",
+      "https://craftinginterpreters.com/"
     ]
   ],
   [
@@ -111,16 +121,6 @@
   ],
   [
     [
-      "2026-01-14, 17:27:22",
-      "https://news.ycombinator.com/item?id=46619030"
-    ],
-    [
-      "So, you’ve hit an age gate. What now?",
-      "https://www.eff.org/deeplinks/2026/01/so-youve-hit-age-gate-what-now"
-    ]
-  ],
-  [
-    [
       "2026-01-14, 17:20:09",
       "https://news.ycombinator.com/item?id=46618901"
     ],
@@ -191,16 +191,6 @@
   ],
   [
     [
-      "2026-01-14, 12:25:59",
-      "https://news.ycombinator.com/item?id=46615235"
-    ],
-    [
-      "Lago (Open-Source Billing) is hiring across teams and geos",
-      "https://news.ycombinator.com/item?id=46615235"
-    ]
-  ],
-  [
-    [
       "2026-01-14, 10:53:13",
       "https://news.ycombinator.com/item?id=46614558"
     ],
@@ -211,22 +201,32 @@
   ],
   [
     [
-      "2026-01-14, 09:25:58",
-      "https://news.ycombinator.com/item?id=46614037"
-    ],
-    [
-      "I’m leaving Redis for SolidQueue",
-      "https://www.simplethread.com/redis-solidqueue/"
-    ]
-  ],
-  [
-    [
       "2026-01-14, 08:21:19",
       "https://news.ycombinator.com/item?id=46613624"
     ],
     [
       "The hunt for a stolen Jackson Pollock",
       "https://www.washingtonpost.com/entertainment/art/interactive/2026/jackson-pollock-theft-isaacs-family/"
+    ]
+  ],
+  [
+    [
+      "2026-01-13, 15:40:55",
+      "https://news.ycombinator.com/item?id=46602411"
+    ],
+    [
+      "You Need a Kitchen Slide Rule",
+      "https://entropicthoughts.com/kitchen-slide-rule"
+    ]
+  ],
+  [
+    [
+      "2026-01-11, 11:10:08",
+      "https://news.ycombinator.com/item?id=46574527"
+    ],
+    [
+      "Media Player Classic Qute Theater",
+      "https://github.com/mpc-qt/mpc-qt"
     ]
   ],
   [
