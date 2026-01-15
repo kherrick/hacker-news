@@ -1,12 +1,12 @@
 [
   [
     [
-      "2026-01-15, 21:13:38",
-      "https://news.ycombinator.com/item?id=46639401"
+      "2026-01-15, 22:04:23",
+      "https://news.ycombinator.com/item?id=46640014"
     ],
     [
-      "European troops arrive in Greenland to boost the Arctic island's security",
-      "https://www.npr.org/2026/01/15/g-s1-106113/european-troops-arrive-greenland"
+      "Remails: A European Mail Transfer Agent",
+      "https://tweedegolf.nl/en/blog/197/remails"
     ]
   ],
   [
@@ -77,16 +77,6 @@
     [
       "Show HN: Tusk Drift – Turn production traffic into API tests",
       "https://github.com/Use-Tusk/tusk-drift-cli"
-    ]
-  ],
-  [
-    [
-      "2026-01-15, 18:51:34",
-      "https://news.ycombinator.com/item?id=46637283"
-    ],
-    [
-      "Show HN: Munimet.ro – ML-based status page for the local subways in SF",
-      "https://munimet.ro/"
     ]
   ],
   [
@@ -287,6 +277,16 @@
     [
       "Go-legacy-winxp: Compile Golang 1.24 code for Windows XP",
       "https://github.com/syncguy/go-legacy-winxp/tree/winxp-compat"
+    ]
+  ],
+  [
+    [
+      "2026-01-11, 07:59:02",
+      "https://news.ycombinator.com/item?id=46573566"
+    ],
+    [
+      "A Unique Performance Optimization for a 3D Geometry Language",
+      "https://cprimozic.net/notes/posts/persistent-expr-memo-optimization-for-geoscript/"
     ]
   ],
   [
