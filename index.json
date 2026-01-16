@@ -1,12 +1,32 @@
 [
   [
     [
-      "2026-01-16, 21:13:48",
-      "https://news.ycombinator.com/item?id=46652299"
+      "2026-01-16, 22:13:18",
+      "https://news.ycombinator.com/item?id=46652914"
     ],
     [
-      "The Engineer to Executive Translation Layer",
-      "https://refactoring.fm/p/the-engineer-executive-translation"
+      "Drawbot: Let's hack something cute (2025)",
+      "https://www.atredis.com/blog/2025/9/30/drawbot-lets-hack-something-cute"
+    ]
+  ],
+  [
+    [
+      "2026-01-16, 21:42:24",
+      "https://news.ycombinator.com/item?id=46652617"
+    ],
+    [
+      "Releasing rainbow tables to accelerate protocol deprecation",
+      "https://cloud.google.com/blog/topics/threat-intelligence/net-ntlmv1-deprecation-rainbow-tables"
+    ]
+  ],
+  [
+    [
+      "2026-01-16, 21:39:42",
+      "https://news.ycombinator.com/item?id=46652592"
+    ],
+    [
+      "We're more patient with AI than one another",
+      "https://www.uxtopian.com/journal/were-more-patient-with-ai-than-one-another"
     ]
   ],
   [
@@ -25,7 +45,7 @@
       "https://news.ycombinator.com/item?id=46651443"
     ],
     [
-      "Slop Is Everywhere for Those with Eyes to See",
+      "Slop is everywhere for those with eyes to see",
       "https://www.fromjason.xyz/p/notebook/slop-is-everywhere-for-those-with-eyes-to-see/"
     ]
   ],
@@ -37,16 +57,6 @@
     [
       "Reading across books with Claude Code",
       "https://pieterma.es/syntopic-reading-claude/"
-    ]
-  ],
-  [
-    [
-      "2026-01-16, 18:18:20",
-      "https://news.ycombinator.com/item?id=46649813"
-    ],
-    [
-      "Earth from Space: The Fate of a Giant",
-      "https://www.esa.int/ESA_Multimedia/Images/2026/01/Earth_from_Space_The_fate_of_a_giant"
     ]
   ],
   [
@@ -87,16 +97,6 @@
     [
       "East Germany balloon escape",
       "https://en.wikipedia.org/wiki/East_Germany_balloon_escape"
-    ]
-  ],
-  [
-    [
-      "2026-01-16, 17:15:10",
-      "https://news.ycombinator.com/item?id=46648900"
-    ],
-    [
-      "Ask HN: Claude Opus performance affected by time of day?",
-      "https://news.ycombinator.com/item?id=46648900"
     ]
   ],
   [
@@ -211,12 +211,12 @@
   ],
   [
     [
-      "2026-01-16, 06:54:55",
-      "https://news.ycombinator.com/item?id=46643754"
+      "2026-01-16, 08:01:02",
+      "https://news.ycombinator.com/item?id=46644181"
     ],
     [
-      "How to wrangle non-deterministic AI outputs into conventional software? (2025)",
-      "https://www.domainlanguage.com/articles/ai-components-deterministic-system/"
+      "Interactive eBPF",
+      "https://ebpf.party/"
     ]
   ],
   [
