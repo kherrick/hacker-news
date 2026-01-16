@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2026-01-16, 18:18:20](https://news.ycombinator.com/item?id=46649813) - [Earth from Space: The Fate of a Giant](https://www.esa.int/ESA_Multimedia/Images/2026/01/Earth_from_Space_The_fate_of_a_giant)
-* [2026-01-16, 18:06:06](https://news.ycombinator.com/item?id=46649644) - [OpenAI to begin testing ads on ChatGPT in the U.S.](https://www.cnbc.com/2026/01/16/open-ai-chatgpt-ads-us.html)
 * [2026-01-16, 17:32:40](https://news.ycombinator.com/item?id=46649142) - [STFU](https://github.com/Pankajtanwarbanna/stfu)
 * [2026-01-16, 17:14:15](https://news.ycombinator.com/item?id=46648885) - [Dell UltraSharp 52 Thunderbolt Hub Monitor](https://www.dell.com/en-us/shop/dell-ultrasharp-52-thunderbolt-hub-monitor-u5226kw/apd/210-bthw/monitors-monitor-accessories)
 * [2026-01-16, 17:05:28](https://news.ycombinator.com/item?id=46648778) - [Canada slashes 100% tariffs on Chinese EVs to 6%](https://electrek.co/2026/01/16/canada-breaks-with-us-slashes-100-tariffs-chinese-evs/)
@@ -18,8 +17,8 @@
 * [2026-01-16, 12:58:40](https://news.ycombinator.com/item?id=46645942) - [Show HN: mdto.page – Turn Markdown into a shareable webpage instantly](https://mdto.page)
 * [2026-01-16, 12:03:52](https://news.ycombinator.com/item?id=46645615) - [Just the Browser](https://justthebrowser.com/)
 * [2026-01-16, 10:57:38](https://news.ycombinator.com/item?id=46645176) - [Why DuckDB is my first choice for data processing](https://www.robinlinacre.com/recommend_duckdb/)
+* [2026-01-16, 09:27:03](https://news.ycombinator.com/item?id=46644661) - [The spectrum of isolation: From bare metal to WebAssembly](https://buildsoftwaresystems.com/post/guide-to-execution-environments/)
 * [2026-01-16, 08:01:02](https://news.ycombinator.com/item?id=46644181) - [Interactive eBPF](https://ebpf.party/)
-* [2026-01-16, 06:54:55](https://news.ycombinator.com/item?id=46643754) - [How to wrangle non-deterministic AI outputs into conventional software? (2025)](https://www.domainlanguage.com/articles/ai-components-deterministic-system/)
 * [2026-01-16, 03:10:36](https://news.ycombinator.com/item?id=46642560) - [OpenBSD-current now runs as guest under Apple Hypervisor](https://www.undeadly.org/cgi?action=article;sid=20260115203619)
 * [2026-01-16, 02:57:37](https://news.ycombinator.com/item?id=46642490) - [Show HN: Aventos – An experiment in cheap AI SEO](https://www.aventos.dev/)
 * [2026-01-16, 00:05:01](https://news.ycombinator.com/item?id=46641284) - [List of individual trees](https://en.wikipedia.org/wiki/List_of_individual_trees)
@@ -28,6 +27,7 @@
 * [2026-01-15, 19:20:48](https://news.ycombinator.com/item?id=46637723) - [Show HN: 1Code – Open-source Cursor-like UI for Claude Code](https://github.com/21st-dev/1code)
 * [2026-01-15, 05:14:08](https://news.ycombinator.com/item?id=46628329) - [Pocket TTS: A high quality TTS that gives your CPU a voice](https://kyutai.org/blog/2026-01-13-pocket-tts)
 * [2026-01-14, 22:19:36](https://news.ycombinator.com/item?id=46624563) - [Training my smartwatch to track intelligence](https://dmvaldman.github.io/rooklift/)
+* [2026-01-12, 13:58:23](https://news.ycombinator.com/item?id=46588584) - [Zorgdomein Integration: A Guide to Secure .NET and Azure Architecture](https://plakhlani.in/healthcare/bidirectional-patient-data-exchange-with-zorgdomein/)
 * [2026-01-12, 13:42:42](https://news.ycombinator.com/item?id=46588379) - [Lock-Picking Robot](https://github.com/etinaude/Lock-Picking-Robot)
 * [2026-01-11, 20:54:47](https://news.ycombinator.com/item?id=46579954) - [Elasticsearch Was Never a Database](https://www.paradedb.com/blog/elasticsearch-was-never-a-database)
 

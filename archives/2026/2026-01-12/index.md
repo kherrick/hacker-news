@@ -44,6 +44,7 @@
 * [2026-01-12, 14:23:07](https://news.ycombinator.com/item?id=46588905) - [Show HN: Agent-of-empires: OpenCode and Claude Code session manager](https://github.com/njbrake/agent-of-empires)
 * [2026-01-12, 14:18:13](https://news.ycombinator.com/item?id=46588837) - [LLVM: The Bad Parts](https://www.npopov.com/2026/01/11/LLVM-The-bad-parts.html)
 * [2026-01-12, 13:59:54](https://news.ycombinator.com/item?id=46588607) - [Cue Does It All, but Can It Literate?](https://xlii.space/cue/cue-does-it-all-but-can-it-literate/)
+* [2026-01-12, 13:58:23](https://news.ycombinator.com/item?id=46588584) - [Zorgdomein Integration: A Guide to Secure .NET and Azure Architecture](https://plakhlani.in/healthcare/bidirectional-patient-data-exchange-with-zorgdomein/)
 * [2026-01-12, 13:57:32](https://news.ycombinator.com/item?id=46588572) - [Reproducing DeepSeek's MHC: When Residual Connections Explode](https://taylorkolasinski.com/notes/mhc-reproduction/)
 * [2026-01-12, 13:42:42](https://news.ycombinator.com/item?id=46588379) - [Lock-Picking Robot](https://github.com/etinaude/Lock-Picking-Robot)
 * [2026-01-12, 13:38:36](https://news.ycombinator.com/item?id=46588319) - [Ireland fast tracks Bill to criminalise harmful voice or image misuse](https://www.irishtimes.com/ireland/2026/01/07/call-to-fast-track-bill-targeting-ai-deepfakes-and-identity-hijacking/)
