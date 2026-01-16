@@ -129,6 +129,65 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
+        <section id="46644661">
+          <h3>
+            <a
+              class="item"
+              href="https://buildsoftwaresystems.com/post/guide-to-execution-environments/"
+              >The spectrum of isolation: From bare metal to WebAssembly</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-01-16 @ 09:27:03</span
+              ><span class="points-container"
+                >Points: <span class="points">7</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=46644661"
+                  >Comments</a
+                ><span class="descendants">: 1</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="46644541">
+          <h3>
+            <a
+              class="item"
+              href="https://undeadly.org/cgi?action=article;sid=20260116085115"
+              >pf: Make af-to less magical</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-01-16 @ 09:06:45</span
+              ><span class="points-container"
+                >Points: <span class="points">6</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=46644541"
+                  >Comments</a
+                ><span class="descendants">: 1</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="46644181">
+          <h3>
+            <a class="item" href="https://ebpf.party/">Interactive eBPF</a>
+          </h3>
+          <section>
+            <h4>
+              <span>2026-01-16 @ 08:01:02</span
+              ><span class="points-container"
+                >Points: <span class="points">8</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=46644181"
+                  >Comments</a
+                ><span class="descendants">: 0</span></span
+              >
+            </h4>
+          </section>
+        </section>
         <section id="46643737">
           <h3>
             <a class="item" href="https://cursor.com/blog/building-bugbot"
@@ -161,11 +220,11 @@
             <h4>
               <span>2026-01-16 @ 04:11:17</span
               ><span class="points-container"
-                >Points: <span class="points">151</span></span
+                >Points: <span class="points">153</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46642920"
                   >Comments</a
-                ><span class="descendants">: 54</span></span
+                ><span class="descendants">: 55</span></span
               >
             </h4>
           </section>
@@ -182,52 +241,13 @@
             <h4>
               <span>2026-01-16 @ 03:10:36</span
               ><span class="points-container"
-                >Points: <span class="points">232</span></span
+                >Points: <span class="points">236</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46642560"
                   >Comments</a
                 ><span class="descendants">: 22</span></span
               >
             </h4>
-          </section>
-        </section>
-        <section id="46642173">
-          <h3>
-            <a
-              class="item"
-              href="https://priyavr.at/blog/reversing-most-replayed/"
-              >Show HN: Reversing YouTube’s “Most Replayed” Graph</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-01-16 @ 02:06:11</span
-              ><span class="points-container"
-                >Points: <span class="points">52</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=46642173"
-                  >Comments</a
-                ><span class="descendants">: 18</span></span
-              >
-            </h4>
-            <div class="text">
-              <p>
-                I recently noticed a recurring visual artifact in the "Most
-                Replayed" heatmap on the YouTube player. The highest peaks were
-                always surrounded by two dips. I got curious about why they were
-                there, so I decided to reverse engineer the feature to find out.
-              </p>
-              <p>
-                This post documents the deep dive. It starts with a system
-                design recreation, reverse engineering the rendering code, and
-                ends with the mathematics.
-              </p>
-              <p>
-                This is also my first attempt at writing an interactive article.
-                I would love to hear your thoughts on the investigation and the
-                format.
-              </p>
-            </div>
           </section>
         </section>
         <section id="46641663">
@@ -283,105 +303,6 @@
             </div>
           </section>
         </section>
-        <section id="46641362">
-          <h3>
-            <a class="item" href="https://github.com/bolt-foundry/gambit"
-              >Show HN: Gambit, an open-source agent harness for building
-              reliable AI agents</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-01-16 @ 00:13:25</span
-              ><span class="points-container"
-                >Points: <span class="points">71</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=46641362"
-                  >Comments</a
-                ><span class="descendants">: 15</span></span
-              >
-            </h4>
-            <div class="text">
-              <p>Wanted to show our open source agent harness called Gambit.</p>
-              <p>
-                If you’re not familiar, agent harnesses are sort of like an
-                operating system for an agent... they handle tool calling,
-                planning, context window management, and don’t require as much
-                developer orchestration.
-              </p>
-              <p>
-                Normally you might see an agent orchestration framework pipeline
-                like:
-              </p>
-              <p>
-                compute -&gt; compute -&gt; compute -&gt; LLM -&gt; compute
-                -&gt; compute -&gt; LLM
-              </p>
-              <p>we invert this so with an agent harness, it’s more like:</p>
-              <p>
-                LLM -&gt; LLM -&gt; LLM -&gt; compute -&gt; LLM -&gt; LLM -&gt;
-                compute -&gt; LLM
-              </p>
-              <p>
-                Essentially you describe each agent in either a self contained
-                markdown file, or as a typescript program. Your root agent can
-                bring in other agents as needed, and we create a typesafe way
-                for you to define the interfaces between those agents. We call
-                these decks.
-              </p>
-              <p>
-                Agents can call agents, and each agent can be designed with
-                whatever model params make sense for your task.
-              </p>
-              <p>
-                Additionally, each step of the chain gets automatic evals, we
-                call graders. A grader is another deck type… but it’s designed
-                to evaluate and score conversations (or individual conversation
-                turns).
-              </p>
-              <p>
-                We also have test agents you can define on a deck-by-deck basis,
-                that are designed to mimic scenarios your agent would face and
-                generate synthetic data for either humans or graders to grade.
-              </p>
-              <p>
-                Prior to Gambit, we had built an LLM based video editor, and we
-                weren’t happy with the results, which is what brought us down
-                this path of improving inference time LLM quality.
-              </p>
-              <p>
-                We know it’s missing some obvious parts, but we wanted to get
-                this out there to see how it could help people or start
-                conversations. We’re really happy with how it’s working with
-                some of our early design partners, and we think it’s a way to
-                implement a lot of interesting applications:
-              </p>
-              <p>
-                - Truly open source agents and assistants, where logic, code,
-                and prompts can be easily shared with the community.
-              </p>
-              <p>
-                - Rubric based grading to guarantee you (for instance) don’t
-                leak PII accidentally
-              </p>
-              <p>
-                - Spin up a usable bot in minutes and have Codex or Claude Code
-                use our command line runner / graders to build a first version
-                that is pretty good w/ very little human intervention.
-              </p>
-              <p>
-                We’ll be around if ya’ll have any questions or thoughts. Thanks
-                for checking us out!
-              </p>
-              <p>
-                Walkthrough video:
-                <a href="https://youtu.be/J_hQ2L_yy60"
-                  >https://youtu.be/J_hQ2L_yy60</a
-                >
-              </p>
-            </div>
-          </section>
-        </section>
         <section id="46641348">
           <h3>
             <a
@@ -415,11 +336,11 @@
             <h4>
               <span>2026-01-16 @ 00:05:01</span
               ><span class="points-container"
-                >Points: <span class="points">113</span></span
+                >Points: <span class="points">117</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46641284"
                   >Comments</a
-                ><span class="descendants">: 40</span></span
+                ><span class="descendants">: 41</span></span
               >
             </h4>
           </section>
@@ -434,11 +355,11 @@
             <h4>
               <span>2026-01-15 @ 23:59:06</span
               ><span class="points-container"
-                >Points: <span class="points">90</span></span
+                >Points: <span class="points">93</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46641239"
                   >Comments</a
-                ><span class="descendants">: 8</span></span
+                ><span class="descendants">: 9</span></span
               >
             </h4>
           </section>
@@ -453,11 +374,11 @@
             <h4>
               <span>2026-01-15 @ 23:37:42</span
               ><span class="points-container"
-                >Points: <span class="points">121</span></span
+                >Points: <span class="points">122</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46641042"
                   >Comments</a
-                ><span class="descendants">: 44</span></span
+                ><span class="descendants">: 46</span></span
               >
             </h4>
           </section>
@@ -490,11 +411,11 @@
             <h4>
               <span>2026-01-15 @ 20:20:13</span
               ><span class="points-container"
-                >Points: <span class="points">206</span></span
+                >Points: <span class="points">208</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46638629"
                   >Comments</a
-                ><span class="descendants">: 115</span></span
+                ><span class="descendants">: 121</span></span
               >
             </h4>
           </section>
@@ -510,11 +431,11 @@
             <h4>
               <span>2026-01-15 @ 19:38:02</span
               ><span class="points-container"
-                >Points: <span class="points">347</span></span
+                >Points: <span class="points">351</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46638013"
                   >Comments</a
-                ><span class="descendants">: 169</span></span
+                ><span class="descendants">: 171</span></span
               >
             </h4>
           </section>
@@ -531,7 +452,7 @@
             <h4>
               <span>2026-01-15 @ 18:54:32</span
               ><span class="points-container"
-                >Points: <span class="points">148</span></span
+                >Points: <span class="points">149</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46637328"
                   >Comments</a
@@ -555,7 +476,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46637165"
                   >Comments</a
-                ><span class="descendants">: 89</span></span
+                ><span class="descendants">: 90</span></span
               >
             </h4>
           </section>
@@ -581,28 +502,6 @@
             </h4>
           </section>
         </section>
-        <section id="46636093">
-          <h3>
-            <a
-              class="item"
-              href="https://www.wiz.io/blog/wiz-research-codebreach-vulnerability-aws-codebuild"
-              >Supply Chain Vuln Compromised Core AWS GitHub Repos &amp;amp;
-              Threatened the AWS Console</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-01-15 @ 17:30:10</span
-              ><span class="points-container"
-                >Points: <span class="points">124</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=46636093"
-                  >Comments</a
-                ><span class="descendants">: 27</span></span
-              >
-            </h4>
-          </section>
-        </section>
         <section id="46635345">
           <h3>
             <a class="item" href="https://news.ycombinator.com/item?id=46635345"
@@ -613,11 +512,11 @@
             <h4>
               <span>2026-01-15 @ 16:49:13</span
               ><span class="points-container"
-                >Points: <span class="points">578</span></span
+                >Points: <span class="points">581</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46635345"
                   >Comments</a
-                ><span class="descendants">: 912</span></span
+                ><span class="descendants">: 914</span></span
               >
             </h4>
             <div class="text">
@@ -641,30 +540,11 @@
             <h4>
               <span>2026-01-15 @ 15:02:42</span
               ><span class="points-container"
-                >Points: <span class="points">677</span></span
+                >Points: <span class="points">678</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46633488"
                   >Comments</a
                 ><span class="descendants">: 404</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="46632023">
-          <h3>
-            <a class="item" href="https://wikipedia25.org"
-              >25 Years of Wikipedia</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-01-15 @ 13:17:07</span
-              ><span class="points-container"
-                >Points: <span class="points">510</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=46632023"
-                  >Comments</a
-                ><span class="descendants">: 398</span></span
               >
             </h4>
           </section>
@@ -679,11 +559,11 @@
             <h4>
               <span>2026-01-15 @ 05:14:08</span
               ><span class="points-container"
-                >Points: <span class="points">414</span></span
+                >Points: <span class="points">417</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46628329"
                   >Comments</a
-                ><span class="descendants">: 97</span></span
+                ><span class="descendants">: 99</span></span
               >
             </h4>
           </section>
@@ -701,7 +581,7 @@
             <h4>
               <span>2026-01-14 @ 16:26:11</span
               ><span class="points-container"
-                >Points: <span class="points">243</span></span
+                >Points: <span class="points">247</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46618042"
                   >Comments</a
@@ -722,11 +602,11 @@
             <h4>
               <span>2026-01-14 @ 07:26:52</span
               ><span class="points-container"
-                >Points: <span class="points">338</span></span
+                >Points: <span class="points">340</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46613324"
                   >Comments</a
-                ><span class="descendants">: 85</span></span
+                ><span class="descendants">: 86</span></span
               >
             </h4>
             <div class="text">
@@ -748,11 +628,32 @@
             <h4>
               <span>2026-01-14 @ 06:14:26</span
               ><span class="points-container"
-                >Points: <span class="points">194</span></span
+                >Points: <span class="points">195</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46612919"
                   >Comments</a
-                ><span class="descendants">: 106</span></span
+                ><span class="descendants">: 107</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="46612727">
+          <h3>
+            <a
+              class="item"
+              href="https://lysiwyg.mataroa.blog/blog/bringing-the-predators-to-life-in-mame/"
+              >Bringing the Predators to Life in MAME</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-01-14 @ 05:38:08</span
+              ><span class="points-container"
+                >Points: <span class="points">5</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=46612727"
+                  >Comments</a
+                ><span class="descendants">: 0</span></span
               >
             </h4>
           </section>
@@ -926,7 +827,7 @@
             <h4>
               <span>2026-01-11 @ 16:30:32</span
               ><span class="points-container"
-                >Points: <span class="points">14</span></span
+                >Points: <span class="points">15</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46577105"
                   >Comments</a
@@ -966,7 +867,7 @@
             <h4>
               <span>2026-01-11 @ 02:15:33</span
               ><span class="points-container"
-                >Points: <span class="points">66</span></span
+                >Points: <span class="points">68</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46572089"
                   >Comments</a
