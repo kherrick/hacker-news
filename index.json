@@ -1,6 +1,36 @@
 [
   [
     [
+      "2026-01-16, 09:27:03",
+      "https://news.ycombinator.com/item?id=46644661"
+    ],
+    [
+      "The spectrum of isolation: From bare metal to WebAssembly",
+      "https://buildsoftwaresystems.com/post/guide-to-execution-environments/"
+    ]
+  ],
+  [
+    [
+      "2026-01-16, 09:06:45",
+      "https://news.ycombinator.com/item?id=46644541"
+    ],
+    [
+      "pf: Make af-to less magical",
+      "https://undeadly.org/cgi?action=article;sid=20260116085115"
+    ]
+  ],
+  [
+    [
+      "2026-01-16, 08:01:02",
+      "https://news.ycombinator.com/item?id=46644181"
+    ],
+    [
+      "Interactive eBPF",
+      "https://ebpf.party/"
+    ]
+  ],
+  [
+    [
       "2026-01-16, 06:52:03",
       "https://news.ycombinator.com/item?id=46643737"
     ],
@@ -31,32 +61,12 @@
   ],
   [
     [
-      "2026-01-16, 02:06:11",
-      "https://news.ycombinator.com/item?id=46642173"
-    ],
-    [
-      "Show HN: Reversing YouTube’s “Most Replayed” Graph",
-      "https://priyavr.at/blog/reversing-most-replayed/"
-    ]
-  ],
-  [
-    [
       "2026-01-16, 00:52:26",
       "https://news.ycombinator.com/item?id=46641663"
     ],
     [
       "Show HN: BGP Scout – BGP Network Browser",
       "https://bgpscout.io/"
-    ]
-  ],
-  [
-    [
-      "2026-01-16, 00:13:25",
-      "https://news.ycombinator.com/item?id=46641362"
-    ],
-    [
-      "Show HN: Gambit, an open-source agent harness for building reliable AI agents",
-      "https://github.com/bolt-foundry/gambit"
     ]
   ],
   [
@@ -161,16 +171,6 @@
   ],
   [
     [
-      "2026-01-15, 17:30:10",
-      "https://news.ycombinator.com/item?id=46636093"
-    ],
-    [
-      "Supply Chain Vuln Compromised Core AWS GitHub Repos & Threatened the AWS Console",
-      "https://www.wiz.io/blog/wiz-research-codebreach-vulnerability-aws-codebuild"
-    ]
-  ],
-  [
-    [
       "2026-01-15, 16:49:13",
       "https://news.ycombinator.com/item?id=46635345"
     ],
@@ -187,16 +187,6 @@
     [
       "Apple is fighting for TSMC capacity as Nvidia takes center stage",
       "https://www.culpium.com/p/exclusiveapple-is-fighting-for-tsmc"
-    ]
-  ],
-  [
-    [
-      "2026-01-15, 13:17:07",
-      "https://news.ycombinator.com/item?id=46632023"
-    ],
-    [
-      "25 Years of Wikipedia",
-      "https://wikipedia25.org"
     ]
   ],
   [
@@ -237,6 +227,16 @@
     [
       "First impressions of Claude Cowork",
       "https://simonw.substack.com/p/first-impressions-of-claude-cowork"
+    ]
+  ],
+  [
+    [
+      "2026-01-14, 05:38:08",
+      "https://news.ycombinator.com/item?id=46612727"
+    ],
+    [
+      "Bringing the Predators to Life in MAME",
+      "https://lysiwyg.mataroa.blog/blog/bringing-the-predators-to-life-in-mame/"
     ]
   ],
   [
