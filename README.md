@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-01-16, 06:52:03](https://news.ycombinator.com/item?id=46643737) - [Building a better Bugbot](https://cursor.com/blog/building-bugbot)
 * [2026-01-16, 04:51:57](https://news.ycombinator.com/item?id=46643099) - [San Francisco to offer free childcare to people making up to $230k](https://www.theguardian.com/us-news/2026/jan/15/san-francisco-childcare-families)
 * [2026-01-16, 04:11:17](https://news.ycombinator.com/item?id=46642920) - [Boeing knew of flaw in part linked to UPS plane crash, NTSB report says](https://www.bbc.com/news/articles/cly56w0p9e1o)
 * [2026-01-16, 03:10:36](https://news.ycombinator.com/item?id=46642560) - [OpenBSD-current now runs as guest under Apple Hypervisor](https://www.undeadly.org/cgi?action=article;sid=20260115203619)
@@ -21,14 +22,13 @@
 * [2026-01-15, 17:30:10](https://news.ycombinator.com/item?id=46636093) - [Supply Chain Vuln Compromised Core AWS GitHub Repos & Threatened the AWS Console](https://www.wiz.io/blog/wiz-research-codebreach-vulnerability-aws-codebuild)
 * [2026-01-15, 16:49:13](https://news.ycombinator.com/item?id=46635345) - [Ask HN: How can we solve the loneliness epidemic?](https://news.ycombinator.com/item?id=46635345)
 * [2026-01-15, 15:02:42](https://news.ycombinator.com/item?id=46633488) - [Apple is fighting for TSMC capacity as Nvidia takes center stage](https://www.culpium.com/p/exclusiveapple-is-fighting-for-tsmc)
-* [2026-01-15, 09:54:10](https://news.ycombinator.com/item?id=46630369) - [Photos capture the breathtaking scale of China's wind and solar buildout](https://e360.yale.edu/digest/china-renewable-photo-essay)
 * [2026-01-15, 05:14:08](https://news.ycombinator.com/item?id=46628329) - [Pocket TTS: A high quality TTS that gives your CPU a voice](https://kyutai.org/blog/2026-01-13-pocket-tts)
 * [2026-01-14, 16:26:11](https://news.ycombinator.com/item?id=46618042) - [Claude is good at assembling blocks, but still falls apart at creating them](https://www.approachwithalacrity.com/claude-ne/)
 * [2026-01-14, 07:26:52](https://news.ycombinator.com/item?id=46613324) - [Inside The Internet Archive's Infrastructure](https://hackernoon.com/the-long-now-of-the-web-inside-the-internet-archives-fight-against-forgetting)
 * [2026-01-14, 06:14:26](https://news.ycombinator.com/item?id=46612919) - [First impressions of Claude Cowork](https://simonw.substack.com/p/first-impressions-of-claude-cowork)
 * [2026-01-14, 04:55:04](https://news.ycombinator.com/item?id=46612494) - [Show HN: OpenWork – An open-source alternative to Claude Cowork](https://github.com/different-ai/openwork)
 * [2026-01-12, 13:32:42](https://news.ycombinator.com/item?id=46588243) - [Go-legacy-winxp: Compile Golang 1.24 code for Windows XP](https://github.com/syncguy/go-legacy-winxp/tree/winxp-compat)
-* [2026-01-12, 12:00:05](https://news.ycombinator.com/item?id=46587253) - [Show HN: A cross-platform toolkit to explore OS internals and capabilities](https://news.ycombinator.com/item?id=46587253)
+* [2026-01-11, 03:55:53](https://news.ycombinator.com/item?id=46572589) - [I Built a 1 Petabyte Server from Scratch [video]](https://www.youtube.com/watch?v=vVI7atoAeoo)
 * [2026-01-11, 02:15:33](https://news.ycombinator.com/item?id=46572089) - [What a Programmer Does (1967) [pdf]](http://archive.computerhistory.org/resources/text/Knuth_Don_X4100/PDF_index/k-9-pdf/k-9-u2769-1-Baker-What-Programmer-Does.pdf)
 
 ## [Archives](archives/index.md)

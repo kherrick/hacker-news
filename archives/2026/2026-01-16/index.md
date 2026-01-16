@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-01-16](index.md)
 
+* [2026-01-16, 06:52:03](https://news.ycombinator.com/item?id=46643737) - [Building a better Bugbot](https://cursor.com/blog/building-bugbot)
 * [2026-01-16, 04:51:57](https://news.ycombinator.com/item?id=46643099) - [San Francisco to offer free childcare to people making up to $230k](https://www.theguardian.com/us-news/2026/jan/15/san-francisco-childcare-families)
 * [2026-01-16, 04:45:12](https://news.ycombinator.com/item?id=46643070) - [The Myth of the ThinkPad](https://innovintageblog.wordpress.com/2026/01/08/the-myth-of-the-thinkpad/)
 * [2026-01-16, 04:11:17](https://news.ycombinator.com/item?id=46642920) - [Boeing knew of flaw in part linked to UPS plane crash](https://www.bbc.com/news/articles/cly56w0p9e1o)
