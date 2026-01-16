@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-01-16](index.md)
 
+* [2026-01-16, 14:25:54](https://news.ycombinator.com/item?id=46646645) - [Astro Joining Cloudflare](https://astro.build/blog/joining-cloudflare/)
 * [2026-01-16, 13:44:25](https://news.ycombinator.com/item?id=46646263) - [Michelangelo's First Painting, Created When He Was Only 12 or 13 Years Old](https://www.openculture.com/2026/01/discover-michelangelos-first-painting.html)
 * [2026-01-16, 13:40:19](https://news.ycombinator.com/item?id=46646228) - [Show HN: The Analog I – Inducing Recursive Self-Modeling in LLMs [pdf]](https://github.com/philMarcus/Birth-of-a-Mind)
 * [2026-01-16, 13:39:31](https://news.ycombinator.com/item?id=46646226) - [Dev-Owned Testing: Why It Fails in Practice and Succeeds in Theory](https://dl.acm.org/doi/10.1145/3780063.3780066)
