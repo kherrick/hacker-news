@@ -39,6 +39,7 @@
 * [2026-01-13, 17:23:46](https://news.ycombinator.com/item?id=46604250) - [How to make a damn website (2024)](https://lmnt.me/blog/how-to-make-a-damn-website.html)
 * [2026-01-13, 17:14:14](https://news.ycombinator.com/item?id=46604067) - [Show HN: Microwave – Native iOS app for videos on ATproto](https://testflight.apple.com/join/cVxV1W3g)
 * [2026-01-13, 17:10:42](https://news.ycombinator.com/item?id=46603995) - [The Tulip Creative Computer](https://github.com/shorepine/tulipcc)
+* [2026-01-13, 17:07:17](https://news.ycombinator.com/item?id=46603947) - [An Ode to the Return of Wysiwyg](https://jeffverkoeyen.com/blog/2026/01/13/WYSIWYG/)
 * [2026-01-13, 17:05:43](https://news.ycombinator.com/item?id=46603910) - [90M people. 118 hours of silence. One nation erased from the internet](https://state-of-iranblackout.whisper.security/)
 * [2026-01-13, 17:01:55](https://news.ycombinator.com/item?id=46603829) - [Legion Health (YC S21) Hiring Cracked Founding Eng for AI-Native Ops](https://jobs.ashbyhq.com/legionhealth/ffdd2b52-eb21-489e-b124-3c0804231424)
 * [2026-01-13, 16:59:29](https://news.ycombinator.com/item?id=46603772) - [Show HN: DebtBomb – Make TODOs expire and automatically create Jira tickets](https://github.com/jobin-404/debtbomb)
