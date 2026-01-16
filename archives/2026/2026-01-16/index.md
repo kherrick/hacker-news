@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-01-16](index.md)
 
+* [2026-01-16, 09:27:03](https://news.ycombinator.com/item?id=46644661) - [The spectrum of isolation: From bare metal to WebAssembly](https://buildsoftwaresystems.com/post/guide-to-execution-environments/)
+* [2026-01-16, 09:06:45](https://news.ycombinator.com/item?id=46644541) - [pf: Make af-to less magical](https://undeadly.org/cgi?action=article;sid=20260116085115)
+* [2026-01-16, 08:01:02](https://news.ycombinator.com/item?id=46644181) - [Interactive eBPF](https://ebpf.party/)
 * [2026-01-16, 06:52:03](https://news.ycombinator.com/item?id=46643737) - [Building a better Bugbot](https://cursor.com/blog/building-bugbot)
 * [2026-01-16, 04:51:57](https://news.ycombinator.com/item?id=46643099) - [San Francisco to offer free childcare to people making up to $230k](https://www.theguardian.com/us-news/2026/jan/15/san-francisco-childcare-families)
 * [2026-01-16, 04:45:12](https://news.ycombinator.com/item?id=46643070) - [The Myth of the ThinkPad](https://innovintageblog.wordpress.com/2026/01/08/the-myth-of-the-thinkpad/)

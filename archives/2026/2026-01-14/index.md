@@ -79,6 +79,7 @@
 * [2026-01-14, 07:21:54](https://news.ycombinator.com/item?id=46613304) - [Claude Cowork runs Linux VM via Apple virtualization framework](https://gist.github.com/simonw/35732f187edbe4fbd0bf976d013f22c8)
 * [2026-01-14, 06:16:24](https://news.ycombinator.com/item?id=46612934) - [DHS Deportation Reels Are Getting Copyright Strikes for Unlicensed Music Use](https://reason.com/2026/01/11/the-deportation-playlist-is-mostly-stolen/)
 * [2026-01-14, 06:14:26](https://news.ycombinator.com/item?id=46612919) - [First impressions of Claude Cowork](https://simonw.substack.com/p/first-impressions-of-claude-cowork)
+* [2026-01-14, 05:38:08](https://news.ycombinator.com/item?id=46612727) - [Bringing the Predators to Life in MAME](https://lysiwyg.mataroa.blog/blog/bringing-the-predators-to-life-in-mame/)
 * [2026-01-14, 05:35:20](https://news.ycombinator.com/item?id=46612711) - [The <Geolocation> HTML Element](https://developer.chrome.com/blog/geolocation-html-element)
 * [2026-01-14, 04:55:04](https://news.ycombinator.com/item?id=46612494) - [Show HN: OpenWork – an open-source alternative to Claude Cowork](https://github.com/different-ai/openwork)
 * [2026-01-14, 03:35:35](https://news.ycombinator.com/item?id=46612001) - [AI will compromise your cybersecurity posture](https://rys.io/en/181.html)
