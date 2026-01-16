@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-01-16](index.md)
 
+* [2026-01-16, 22:15:20](https://news.ycombinator.com/item?id=46652944) - [Install.md: A standard for LLM-executable installation](https://www.mintlify.com/blog/install-md-standard-for-llm-executable-installation)
 * [2026-01-16, 22:13:18](https://news.ycombinator.com/item?id=46652914) - [Drawbot: Let's hack something cute (2025)](https://www.atredis.com/blog/2025/9/30/drawbot-lets-hack-something-cute)
 * [2026-01-16, 21:42:24](https://news.ycombinator.com/item?id=46652617) - [Releasing rainbow tables to accelerate protocol deprecation](https://cloud.google.com/blog/topics/threat-intelligence/net-ntlmv1-deprecation-rainbow-tables)
 * [2026-01-16, 21:39:42](https://news.ycombinator.com/item?id=46652592) - [We're more patient with AI than one another](https://www.uxtopian.com/journal/were-more-patient-with-ai-than-one-another)
@@ -35,6 +36,7 @@
 * [2026-01-16, 13:39:31](https://news.ycombinator.com/item?id=46646226) - [Dev-Owned Testing: Why It Fails in Practice and Succeeds in Theory](https://dl.acm.org/doi/10.1145/3780063.3780066)
 * [2026-01-16, 13:20:20](https://news.ycombinator.com/item?id=46646091) - [psc: The ps utility, with an eBPF twist and container context](https://github.com/loresuso/psc)
 * [2026-01-16, 12:58:40](https://news.ycombinator.com/item?id=46645942) - [Show HN: mdto.page – Turn Markdown into a shareable webpage instantly](https://mdto.page)
+* [2026-01-16, 12:58:24](https://news.ycombinator.com/item?id=46645941) - [Patching the Wii News Channel to serve local news (2025)](https://raulnegron.me/2025/wii-news-pr/)
 * [2026-01-16, 12:50:07](https://news.ycombinator.com/item?id=46645886) - [Song banned from Swedish charts for being AI creation](https://www.bbc.com/news/articles/cp829jey9z7o)
 * [2026-01-16, 12:03:52](https://news.ycombinator.com/item?id=46645615) - [Just the Browser](https://justthebrowser.com/)
 * [2026-01-16, 11:36:51](https://news.ycombinator.com/item?id=46645430) - [Signal creator Moxie Marlinspike wants to do for AI what he did for messaging](https://arstechnica.com/security/2026/01/signal-creator-moxie-marlinspike-wants-to-do-for-ai-what-he-did-for-messaging/)
