@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-01-16, 19:17:46](https://news.ycombinator.com/item?id=46650807) - [The wealth of the top% reaches a record $52T](https://www.cnbc.com/2025/10/03/the-wealth-of-the-top-1percent-reaches-a-record-52-trillion.html)
 * [2026-01-16, 18:18:20](https://news.ycombinator.com/item?id=46649813) - [Earth from Space: The Fate of a Giant](https://www.esa.int/ESA_Multimedia/Images/2026/01/Earth_from_Space_The_fate_of_a_giant)
 * [2026-01-16, 18:02:19](https://news.ycombinator.com/item?id=46649577) - [Our approach to advertising and expanding access to ChatGPT](https://openai.com/index/our-approach-to-advertising-and-expanding-access/)
 * [2026-01-16, 17:56:03](https://news.ycombinator.com/item?id=46649489) - [Emoji Use in the Electronic Health Record is Increasing](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2843883)
@@ -29,6 +28,7 @@
 * [2026-01-14, 22:19:36](https://news.ycombinator.com/item?id=46624563) - [Training my smartwatch to track intelligence](https://dmvaldman.github.io/rooklift/)
 * [2026-01-12, 13:58:23](https://news.ycombinator.com/item?id=46588584) - [Zorgdomein Integration: A Guide to Secure .NET and Azure Architecture](https://plakhlani.in/healthcare/bidirectional-patient-data-exchange-with-zorgdomein/)
 * [2026-01-12, 13:42:42](https://news.ycombinator.com/item?id=46588379) - [Lock-Picking Robot](https://github.com/etinaude/Lock-Picking-Robot)
+* [2026-01-12, 10:48:02](https://news.ycombinator.com/item?id=46586694) - [Feature Selection: A Primer](https://ikromshi.com/2025/12/30/feature-selection-primer.html)
 * [2026-01-11, 20:54:47](https://news.ycombinator.com/item?id=46579954) - [Elasticsearch Was Never a Database](https://www.paradedb.com/blog/elasticsearch-was-never-a-database)
 
 ## [Archives](archives/index.md)

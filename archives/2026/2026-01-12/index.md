@@ -62,6 +62,7 @@
 * [2026-01-12, 12:00:05](https://news.ycombinator.com/item?id=46587253) - [Show HN: A cross-platform toolkit to explore OS internals and capabilities](https://news.ycombinator.com/item?id=46587253)
 * [2026-01-12, 11:31:56](https://news.ycombinator.com/item?id=46587033) - [How to Build Reactive Declarative UI in Vanilla JavaScript](https://jsdev.space/howto/reactive-vanilla-js/)
 * [2026-01-12, 10:57:29](https://news.ycombinator.com/item?id=46586766) - [Anthropic Made a Big Mistake](https://archaeologist.dev/artifacts/anthropic)
+* [2026-01-12, 10:48:02](https://news.ycombinator.com/item?id=46586694) - [Feature Selection: A Primer](https://ikromshi.com/2025/12/30/feature-selection-primer.html)
 * [2026-01-12, 10:13:52](https://news.ycombinator.com/item?id=46586413) - [Google's Universal Commerce Protocol aims to make shopping AI-native](https://news.ycombinator.com/item?id=46586413)
 * [2026-01-12, 10:10:05](https://news.ycombinator.com/item?id=46586385) - [Fossil versus Git](https://fossil-scm.org/home/doc/trunk/www/fossil-v-git.wiki)
 * [2026-01-12, 09:42:49](https://news.ycombinator.com/item?id=46586179) - [Lightpanda migrate DOM implementation to Zig](https://lightpanda.io/blog/posts/migrating-our-dom-to-zig)
