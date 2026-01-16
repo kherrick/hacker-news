@@ -4,12 +4,15 @@
 
 ### [Archives](../../index.md) for [2026-01-16](index.md)
 
+* [2026-01-16, 17:05:28](https://news.ycombinator.com/item?id=46648778) - [Canada slashes 100% tariffs on Chinese EVs to 6%](https://electrek.co/2026/01/16/canada-breaks-with-us-slashes-100-tariffs-chinese-evs/)
+* [2026-01-16, 17:00:29](https://news.ycombinator.com/item?id=46648714) - [Zep AI (Agent Context Engineering, YC W24) Is Hiring Forward Deployed Engineers](https://www.ycombinator.com/companies/zep-ai/jobs/)
 * [2026-01-16, 16:20:21](https://news.ycombinator.com/item?id=46648144) - [Launch HN: Indy (YC S21) – A support app designed for ADHD brains](https://www.shimmer.care/indy-redirect)
 * [2026-01-16, 15:37:19](https://news.ycombinator.com/item?id=46647491) - [6-Day and IP Address Certificates Are Generally Available](https://letsencrypt.org/2026/01/15/6day-and-ip-general-availability)
 * [2026-01-16, 15:04:22](https://news.ycombinator.com/item?id=46647059) - [Read_once(), Write_once(), but Not for Rust](https://lwn.net/SubscriberLink/1053142/8ec93e58d5d3cc06/)
 * [2026-01-16, 15:02:25](https://news.ycombinator.com/item?id=46647038) - [Cyberattack in Venezuela Demonstrated Precision of U.S. Capabilities](https://www.nytimes.com/2026/01/15/us/politics/cyberattack-venezuela-military.html)
 * [2026-01-16, 14:56:47](https://news.ycombinator.com/item?id=46646970) - [America could have $4 lunch bowls like Japan–but our zoning laws [prevent that]](https://abio.substack.com/p/america-could-have-4-lunch-bowls)
 * [2026-01-16, 14:56:12](https://news.ycombinator.com/item?id=46646958) - [Can You Disable Spotlight and Siri in macOS Tahoe?](https://eclecticlight.co/2026/01/16/can-you-disable-spotlight-and-siri-in-macos-tahoe/)
+* [2026-01-16, 14:37:49](https://news.ycombinator.com/item?id=46646777) - [Cursor's latest \"browser experiment\" implied success without evidence](https://embedding-shapes.github.io/cursor-implied-success-without-evidence/)
 * [2026-01-16, 14:25:54](https://news.ycombinator.com/item?id=46646645) - [Astro Joining Cloudflare](https://astro.build/blog/joining-cloudflare/)
 * [2026-01-16, 13:44:25](https://news.ycombinator.com/item?id=46646263) - [Michelangelo's First Painting, Created When He Was Only 12 or 13 Years Old](https://www.openculture.com/2026/01/discover-michelangelos-first-painting.html)
 * [2026-01-16, 13:40:19](https://news.ycombinator.com/item?id=46646228) - [Show HN: The Analog I – Inducing Recursive Self-Modeling in LLMs [pdf]](https://github.com/philMarcus/Birth-of-a-Mind)
