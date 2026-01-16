@@ -21,16 +21,6 @@
   ],
   [
     [
-      "2026-01-16, 10:19:52",
-      "https://news.ycombinator.com/item?id=46644962"
-    ],
-    [
-      "On Being a Human Being in the Time of Collapse (2022) [pdf]",
-      "https://web.cs.ucdavis.edu/~rogaway/papers/crisis/crisis.pdf"
-    ]
-  ],
-  [
-    [
       "2026-01-16, 09:27:03",
       "https://news.ycombinator.com/item?id=46644661"
     ],
@@ -51,6 +41,16 @@
   ],
   [
     [
+      "2026-01-16, 08:13:18",
+      "https://news.ycombinator.com/item?id=46644250"
+    ],
+    [
+      "Show HN: Hc: an agentless, multi-tenant shell history sink",
+      "https://github.com/alessandrocarminati/hc"
+    ]
+  ],
+  [
+    [
       "2026-01-16, 08:01:02",
       "https://news.ycombinator.com/item?id=46644181"
     ],
@@ -67,6 +67,16 @@
     [
       "OpenBSD-current now runs as guest under Apple Hypervisor",
       "https://www.undeadly.org/cgi?action=article;sid=20260115203619"
+    ]
+  ],
+  [
+    [
+      "2026-01-16, 01:41:55",
+      "https://news.ycombinator.com/item?id=46641992"
+    ],
+    [
+      "Show HN: I built a text-based business simulator to replace video courses",
+      "https://www.core-mba.pro/"
     ]
   ],
   [
@@ -147,16 +157,6 @@
     [
       "JuiceFS is a distributed POSIX file system built on top of Redis and S3",
       "https://github.com/juicedata/juicefs"
-    ]
-  ],
-  [
-    [
-      "2026-01-15, 17:51:24",
-      "https://news.ycombinator.com/item?id=46636387"
-    ],
-    [
-      "CVEs affecting the Svelte ecosystem",
-      "https://svelte.dev/blog/cves-affecting-the-svelte-ecosystem"
     ]
   ],
   [
@@ -265,7 +265,7 @@
       "https://news.ycombinator.com/item?id=46584526"
     ],
     [
-      "Altaid 8800",
+      "Altaid 8800 (2024)",
       "https://sunrise-ev.com/8080.htm"
     ]
   ],
@@ -275,7 +275,7 @@
       "https://news.ycombinator.com/item?id=46577105"
     ],
     [
-      "Primecoin and Cunningham Prime Chains",
+      "Prime chains",
       "https://www.johndcook.com/blog/2026/01/10/prime-chains/"
     ]
   ],
