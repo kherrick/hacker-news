@@ -15,6 +15,7 @@
 * [2026-01-11, 21:29:57](https://news.ycombinator.com/item?id=46580326) - [2026 is the Year of Self-hosting](https://fulghum.io/self-hosting)
 * [2026-01-11, 21:28:37](https://news.ycombinator.com/item?id=46580309) - [A 2026 look at three bio-ML opinions I had in 2024](https://www.owlposting.com/p/a-2026-look-at-three-bio-ml-opinions)
 * [2026-01-11, 21:12:45](https://news.ycombinator.com/item?id=46580136) - [FUSE is All You Need – Giving agents access to anything via filesystems](https://jakobemmerling.de/posts/fuse-is-all-you-need/)
+* [2026-01-11, 20:54:47](https://news.ycombinator.com/item?id=46579954) - [Elasticsearch Was Never a Database](https://www.paradedb.com/blog/elasticsearch-was-never-a-database)
 * [2026-01-11, 20:52:44](https://news.ycombinator.com/item?id=46579927) - [BYD's cheapest electric cars to have Lidar self-driving tech](https://thedriven.io/2026/01/11/byds-cheapest-electric-cars-to-have-lidar-self-driving-tech/)
 * [2026-01-11, 20:50:39](https://news.ycombinator.com/item?id=46579900) - [Show HN: Chr2 – consensus for side effects (exactly-once is a lie)](https://github.com/abokhalill/chr2)
 * [2026-01-11, 20:47:55](https://news.ycombinator.com/item?id=46579864) - [The struggle of resizing windows on macOS Tahoe](https://noheger.at/blog/2026/01/11/the-struggle-of-resizing-windows-on-macos-tahoe/)
