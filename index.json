@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2026-01-16, 09:48:17",
-      "https://news.ycombinator.com/item?id=46644779"
-    ],
-    [
-      "AI Destroys Institutions",
-      "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5870623"
-    ]
-  ],
-  [
-    [
       "2026-01-16, 09:27:03",
       "https://news.ycombinator.com/item?id=46644661"
     ],
@@ -121,6 +111,16 @@
   ],
   [
     [
+      "2026-01-15, 23:37:42",
+      "https://news.ycombinator.com/item?id=46641042"
+    ],
+    [
+      "Tldraw pauses external contributions due to AI slop",
+      "https://github.com/tldraw/tldraw/issues/7695"
+    ]
+  ],
+  [
+    [
       "2026-01-15, 20:20:13",
       "https://news.ycombinator.com/item?id=46638629"
     ],
@@ -157,6 +157,16 @@
     [
       "JuiceFS is a distributed POSIX file system built on top of Redis and S3",
       "https://github.com/juicedata/juicefs"
+    ]
+  ],
+  [
+    [
+      "2026-01-15, 17:51:24",
+      "https://news.ycombinator.com/item?id=46636387"
+    ],
+    [
+      "CVEs affecting the Svelte ecosystem",
+      "https://svelte.dev/blog/cves-affecting-the-svelte-ecosystem"
     ]
   ],
   [
@@ -241,16 +251,6 @@
   ],
   [
     [
-      "2026-01-13, 18:43:13",
-      "https://news.ycombinator.com/item?id=46605671"
-    ],
-    [
-      "Show HN: Timberlogs – Drop-in structured logging for TypeScript",
-      "https://news.ycombinator.com/item?id=46605671"
-    ]
-  ],
-  [
-    [
       "2026-01-12, 13:59:54",
       "https://news.ycombinator.com/item?id=46588607"
     ],
@@ -281,22 +281,22 @@
   ],
   [
     [
+      "2026-01-11, 10:26:22",
+      "https://news.ycombinator.com/item?id=46574277"
+    ],
+    [
+      "Show HN: pgwire-replication - pure rust client for Postgres CDC",
+      "https://github.com/vnvo/pgwire-replication"
+    ]
+  ],
+  [
+    [
       "2026-01-11, 03:55:53",
       "https://news.ycombinator.com/item?id=46572589"
     ],
     [
       "I Built a 1 Petabyte Server from Scratch [video]",
       "https://www.youtube.com/watch?v=vVI7atoAeoo"
-    ]
-  ],
-  [
-    [
-      "2026-01-11, 02:15:33",
-      "https://news.ycombinator.com/item?id=46572089"
-    ],
-    [
-      "What a Programmer Does (1967) [pdf]",
-      "http://archive.computerhistory.org/resources/text/Knuth_Don_X4100/PDF_index/k-9-pdf/k-9-u2769-1-Baker-What-Programmer-Does.pdf"
     ]
   ]
 ]
