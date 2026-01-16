@@ -24,6 +24,7 @@
 * [2026-01-13, 18:54:30](https://news.ycombinator.com/item?id=46605854) - [No management needed: anti-patterns in early-stage engineering teams](https://www.ablg.io/blog/no-management-needed)
 * [2026-01-13, 18:46:06](https://news.ycombinator.com/item?id=46605716) - [Choosing learning over autopilot](https://anniecherkaev.com/choosing-learning-over-autopilot)
 * [2026-01-13, 18:43:28](https://news.ycombinator.com/item?id=46605675) - [Show HN: Nogic – VS Code extension that visualizes your codebase as a graph](https://marketplace.visualstudio.com/items?itemName=Nogic.nogic)
+* [2026-01-13, 18:43:13](https://news.ycombinator.com/item?id=46605671) - [Show HN: Timberlogs – Drop-in structured logging for TypeScript](https://news.ycombinator.com/item?id=46605671)
 * [2026-01-13, 18:43:02](https://news.ycombinator.com/item?id=46605666) - [Ask HN: If you had $10M in the bank, would you still show up to your job?](https://news.ycombinator.com/item?id=46605666)
 * [2026-01-13, 18:37:55](https://news.ycombinator.com/item?id=46605587) - [Let's be honest, Generative AI isn't going all that well](https://garymarcus.substack.com/p/lets-be-honest-generative-ai-isnt)
 * [2026-01-13, 18:35:52](https://news.ycombinator.com/item?id=46605553) - [Signal leaders warn agentic AI is an insecure, unreliable surveillance risk](https://coywolf.com/news/productivity/signal-president-and-vp-warn-agentic-ai-is-insecure-unreliable-and-a-surveillance-nightmare/)
