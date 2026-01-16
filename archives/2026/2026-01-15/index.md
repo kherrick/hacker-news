@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2026-01-15](index.md)
 
 * [2026-01-15, 23:59:06](https://news.ycombinator.com/item?id=46641239) - [All 23-Bit Still Lifes Are Glider Constructible](https://mvr.github.io/posts/xs23.html)
+* [2026-01-15, 23:56:26](https://news.ycombinator.com/item?id=46641216) - [The Alignment Game](https://dmvaldman.github.io/alignment-game/)
 * [2026-01-15, 23:37:42](https://news.ycombinator.com/item?id=46641042) - [Tldraw pauses external contributions due to AI slop](https://github.com/tldraw/tldraw/issues/7695)
 * [2026-01-15, 22:43:28](https://news.ycombinator.com/item?id=46640462) - [AWS European Sovereign Cloud](https://aws.eu/)
 * [2026-01-15, 22:33:58](https://news.ycombinator.com/item?id=46640366) - [Why Senior Engineers Let Bad Projects Fail](https://lalitm.com/post/why-senior-engineers-let-bad-projects-fail/)
@@ -16,6 +17,7 @@
 * [2026-01-15, 20:20:13](https://news.ycombinator.com/item?id=46638629) - [Linux boxes via SSH: suspended when disconected](https://shellbox.dev/)
 * [2026-01-15, 19:54:42](https://news.ycombinator.com/item?id=46638241) - [I Learned Everything I Know About Programming](https://agentultra.com/blog/how-i-learned-everything-i-know/index.html)
 * [2026-01-15, 19:38:02](https://news.ycombinator.com/item?id=46638013) - [Briar keeps Iran connected via Bluetooth and Wi-Fi when the internet goes dark](https://briarproject.org/manual/fa/)
+* [2026-01-15, 19:20:48](https://news.ycombinator.com/item?id=46637723) - [Show HN: 1Code – Open-source Cursor-like UI for Claude Code](https://github.com/21st-dev/1code)
 * [2026-01-15, 19:00:37](https://news.ycombinator.com/item?id=46637399) - [UK offshore wind prices come in 40% cheaper than gas in record auction](https://electrek.co/2026/01/14/uk-offshore-wind-record-auction/)
 * [2026-01-15, 18:54:32](https://news.ycombinator.com/item?id=46637328) - [Data is the only moat](https://frontierai.substack.com/p/data-is-your-only-moat)
 * [2026-01-15, 18:54:10](https://news.ycombinator.com/item?id=46637322) - [Show HN: Tusk Drift – Turn production traffic into API tests](https://github.com/Use-Tusk/tusk-drift-cli)
