@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-01-16](index.md)
 
+* [2026-01-16, 12:03:52](https://news.ycombinator.com/item?id=46645615) - [Just the Browser](https://justthebrowser.com/)
+* [2026-01-16, 11:36:51](https://news.ycombinator.com/item?id=46645430) - [Signal creator Moxie Marlinspike wants to do for AI what he did for messaging](https://arstechnica.com/security/2026/01/signal-creator-moxie-marlinspike-wants-to-do-for-ai-what-he-did-for-messaging/)
 * [2026-01-16, 10:19:52](https://news.ycombinator.com/item?id=46644962) - [On Being a Human Being in the Time of Collapse (2022) [pdf]](https://web.cs.ucdavis.edu/~rogaway/papers/crisis/crisis.pdf)
 * [2026-01-16, 09:48:17](https://news.ycombinator.com/item?id=46644779) - [AI Destroys Institutions](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5870623)
 * [2026-01-16, 09:27:03](https://news.ycombinator.com/item?id=46644661) - [The spectrum of isolation: From bare metal to WebAssembly](https://buildsoftwaresystems.com/post/guide-to-execution-environments/)
