@@ -47,6 +47,7 @@
 * [2026-01-15, 14:24:52](https://news.ycombinator.com/item?id=46632955) - [Nvidia Reportedly Ends GeForce RTX 5070 Ti Production, RTX 5060 Ti 16 GB Next](https://www.techpowerup.com/345224/nvidia-reportedly-ends-geforce-rtx-5070-ti-production-rtx-5060-ti-16-gb-next)
 * [2026-01-15, 14:16:02](https://news.ycombinator.com/item?id=46632837) - [I spent a year on Linux and forgot to miss Windows](https://www.theverge.com/features/861968/year-using-linux)
 * [2026-01-15, 14:11:30](https://news.ycombinator.com/item?id=46632768) - [Show HN: TinyCity – A tiny city SIM for MicroPython (Thumby micro console)](https://github.com/chrisdiana/TinyCity)
+* [2026-01-15, 13:19:22](https://news.ycombinator.com/item?id=46632057) - [Independent Guest Virtual Machine (IGVM) File Format](https://github.com/microsoft/igvm)
 * [2026-01-15, 13:18:10](https://news.ycombinator.com/item?id=46632039) - [Programming, Evolved: Lessons and Observations](https://github.com/kulesh/dotfiles/blob/main/dev/dev/docs/programming-evolved.md)
 * [2026-01-15, 13:17:07](https://news.ycombinator.com/item?id=46632023) - [25 Years of Wikipedia](https://wikipedia25.org)
 * [2026-01-15, 13:15:40](https://news.ycombinator.com/item?id=46632004) - [French Court Orders Popular VPNs to Block More Pirate Sites, Despite Opposition](https://torrentfreak.com/french-court-orders-popular-vpns-to-block-more-pirate-sites-despite-opposition/)
