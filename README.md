@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-01-16, 19:17:46](https://news.ycombinator.com/item?id=46650807) - [The wealth of the top% reaches a record $52T](https://www.cnbc.com/2025/10/03/the-wealth-of-the-top-1percent-reaches-a-record-52-trillion.html)
 * [2026-01-16, 18:18:20](https://news.ycombinator.com/item?id=46649813) - [Earth from Space: The Fate of a Giant](https://www.esa.int/ESA_Multimedia/Images/2026/01/Earth_from_Space_The_fate_of_a_giant)
 * [2026-01-16, 18:02:19](https://news.ycombinator.com/item?id=46649577) - [Our approach to advertising and expanding access to ChatGPT](https://openai.com/index/our-approach-to-advertising-and-expanding-access/)
 * [2026-01-16, 17:56:03](https://news.ycombinator.com/item?id=46649489) - [Emoji Use in the Electronic Health Record is Increasing](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2843883)
@@ -23,7 +24,6 @@
 * [2026-01-16, 03:10:36](https://news.ycombinator.com/item?id=46642560) - [OpenBSD-current now runs as guest under Apple Hypervisor](https://www.undeadly.org/cgi?action=article;sid=20260115203619)
 * [2026-01-16, 00:05:01](https://news.ycombinator.com/item?id=46641284) - [List of individual trees](https://en.wikipedia.org/wiki/List_of_individual_trees)
 * [2026-01-15, 23:56:26](https://news.ycombinator.com/item?id=46641216) - [The Alignment Game](https://dmvaldman.github.io/alignment-game/)
-* [2026-01-15, 19:38:02](https://news.ycombinator.com/item?id=46638013) - [Briar keeps Iran connected via Bluetooth and Wi-Fi when the internet goes dark](https://briarproject.org/manual/fa/)
 * [2026-01-15, 19:20:48](https://news.ycombinator.com/item?id=46637723) - [Show HN: 1Code – Open-source Cursor-like UI for Claude Code](https://github.com/21st-dev/1code)
 * [2026-01-15, 05:14:08](https://news.ycombinator.com/item?id=46628329) - [Pocket TTS: A high quality TTS that gives your CPU a voice](https://kyutai.org/blog/2026-01-13-pocket-tts)
 * [2026-01-14, 22:19:36](https://news.ycombinator.com/item?id=46624563) - [Training my smartwatch to track intelligence](https://dmvaldman.github.io/rooklift/)
