@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-01-16, 22:15:20",
+      "https://news.ycombinator.com/item?id=46652944"
+    ],
+    [
+      "Install.md: A standard for LLM-executable installation",
+      "https://www.mintlify.com/blog/install-md-standard-for-llm-executable-installation"
+    ]
+  ],
+  [
+    [
       "2026-01-16, 22:13:18",
       "https://news.ycombinator.com/item?id=46652914"
     ],
@@ -15,18 +25,8 @@
       "https://news.ycombinator.com/item?id=46652617"
     ],
     [
-      "Releasing rainbow tables to accelerate protocol deprecation",
+      "Releasing rainbow tables to accelerate Net-NTLMv1 protocol deprecation",
       "https://cloud.google.com/blog/topics/threat-intelligence/net-ntlmv1-deprecation-rainbow-tables"
-    ]
-  ],
-  [
-    [
-      "2026-01-16, 21:39:42",
-      "https://news.ycombinator.com/item?id=46652592"
-    ],
-    [
-      "We're more patient with AI than one another",
-      "https://www.uxtopian.com/journal/were-more-patient-with-ai-than-one-another"
     ]
   ],
   [
@@ -181,12 +181,12 @@
   ],
   [
     [
-      "2026-01-16, 13:20:20",
-      "https://news.ycombinator.com/item?id=46646091"
+      "2026-01-16, 12:58:24",
+      "https://news.ycombinator.com/item?id=46645941"
     ],
     [
-      "psc: The ps utility, with an eBPF twist and container context",
-      "https://github.com/loresuso/psc"
+      "Patching the Wii News Channel to serve local news (2025)",
+      "https://raulnegron.me/2025/wii-news-pr/"
     ]
   ],
   [
@@ -207,16 +207,6 @@
     [
       "Why DuckDB is my first choice for data processing",
       "https://www.robinlinacre.com/recommend_duckdb/"
-    ]
-  ],
-  [
-    [
-      "2026-01-16, 08:01:02",
-      "https://news.ycombinator.com/item?id=46644181"
-    ],
-    [
-      "Interactive eBPF",
-      "https://ebpf.party/"
     ]
   ],
   [
@@ -261,11 +251,31 @@
   ],
   [
     [
+      "2026-01-14, 16:29:50",
+      "https://news.ycombinator.com/item?id=46618105"
+    ],
+    [
+      "HTTP RateLimit Headers",
+      "https://dotat.at/@/2026-01-13-http-ratelimit.html"
+    ]
+  ],
+  [
+    [
+      "2026-01-13, 05:04:25",
+      "https://news.ycombinator.com/item?id=46597469"
+    ],
+    [
+      "CLI's completion should know what options you've typed",
+      "https://hackers.pub/@hongminhee/2026/optique-context-aware-cli-completion"
+    ]
+  ],
+  [
+    [
       "2026-01-12, 14:24:16",
       "https://news.ycombinator.com/item?id=46588915"
     ],
     [
-      "The First PC Virus",
+      "Brain: PC virus [audio]",
       "https://www.bbc.com/audio/play/w3ct7479"
     ]
   ],
@@ -277,16 +287,6 @@
     [
       "Lock-Picking Robot",
       "https://github.com/etinaude/Lock-Picking-Robot"
-    ]
-  ],
-  [
-    [
-      "2026-01-12, 10:48:02",
-      "https://news.ycombinator.com/item?id=46586694"
-    ],
-    [
-      "Feature Selection: A Primer",
-      "https://ikromshi.com/2025/12/30/feature-selection-primer.html"
     ]
   ],
   [
