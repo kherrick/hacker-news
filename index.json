@@ -111,16 +111,6 @@
   ],
   [
     [
-      "2026-01-16, 14:56:12",
-      "https://news.ycombinator.com/item?id=46646958"
-    ],
-    [
-      "Can You Disable Spotlight and Siri in macOS Tahoe?",
-      "https://eclecticlight.co/2026/01/16/can-you-disable-spotlight-and-siri-in-macos-tahoe/"
-    ]
-  ],
-  [
-    [
       "2026-01-16, 14:37:49",
       "https://news.ycombinator.com/item?id=46646777"
     ],
@@ -191,6 +181,16 @@
   ],
   [
     [
+      "2026-01-16, 09:27:03",
+      "https://news.ycombinator.com/item?id=46644661"
+    ],
+    [
+      "The spectrum of isolation: From bare metal to WebAssembly",
+      "https://buildsoftwaresystems.com/post/guide-to-execution-environments/"
+    ]
+  ],
+  [
+    [
       "2026-01-16, 08:01:02",
       "https://news.ycombinator.com/item?id=46644181"
     ],
@@ -251,22 +251,22 @@
   ],
   [
     [
+      "2026-01-15, 13:19:22",
+      "https://news.ycombinator.com/item?id=46632057"
+    ],
+    [
+      "Independent Guest Virtual Machine (IGVM) File Format",
+      "https://github.com/microsoft/igvm"
+    ]
+  ],
+  [
+    [
       "2026-01-14, 22:19:36",
       "https://news.ycombinator.com/item?id=46624563"
     ],
     [
       "Training my smartwatch to track intelligence",
       "https://dmvaldman.github.io/rooklift/"
-    ]
-  ],
-  [
-    [
-      "2026-01-12, 13:58:23",
-      "https://news.ycombinator.com/item?id=46588584"
-    ],
-    [
-      "Zorgdomein Integration: A Guide to Secure .NET and Azure Architecture",
-      "https://plakhlani.in/healthcare/bidirectional-patient-data-exchange-with-zorgdomein/"
     ]
   ],
   [
