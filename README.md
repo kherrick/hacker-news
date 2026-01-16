@@ -16,7 +16,6 @@
 * [2026-01-15, 17:51:24](https://news.ycombinator.com/item?id=46636387) - [CVEs affecting the Svelte ecosystem](https://svelte.dev/blog/cves-affecting-the-svelte-ecosystem)
 * [2026-01-15, 17:30:10](https://news.ycombinator.com/item?id=46636093) - [Supply Chain Vuln Compromised Core AWS GitHub Repos & Threatened the AWS Console](https://www.wiz.io/blog/wiz-research-codebreach-vulnerability-aws-codebuild)
 * [2026-01-15, 16:49:13](https://news.ycombinator.com/item?id=46635345) - [Ask HN: How can we solve the loneliness epidemic?](https://news.ycombinator.com/item?id=46635345)
-* [2026-01-15, 15:09:16](https://news.ycombinator.com/item?id=46633574) - [Found: Medieval Cargo Ship – Largest Vessel of Its Kind Ever](https://www.smithsonianmag.com/smart-news/archaeologists-say-theyve-unearthed-a-massive-medieval-cargo-ship-thats-the-largest-vessel-of-its-kind-ever-found-180987984/)
 * [2026-01-15, 15:02:42](https://news.ycombinator.com/item?id=46633488) - [Apple is fighting for TSMC capacity as Nvidia takes center stage](https://www.culpium.com/p/exclusiveapple-is-fighting-for-tsmc)
 * [2026-01-15, 13:17:07](https://news.ycombinator.com/item?id=46632023) - [25 Years of Wikipedia](https://wikipedia25.org)
 * [2026-01-15, 09:54:10](https://news.ycombinator.com/item?id=46630369) - [Photos capture the breathtaking scale of China's wind and solar buildout](https://e360.yale.edu/digest/china-renewable-photo-essay)
@@ -28,6 +27,7 @@
 * [2026-01-14, 04:55:04](https://news.ycombinator.com/item?id=46612494) - [Show HN: OpenWork – An open-source alternative to Claude Cowork](https://github.com/different-ai/openwork)
 * [2026-01-12, 13:32:42](https://news.ycombinator.com/item?id=46588243) - [Go-legacy-winxp: Compile Golang 1.24 code for Windows XP](https://github.com/syncguy/go-legacy-winxp/tree/winxp-compat)
 * [2026-01-12, 13:00:21](https://news.ycombinator.com/item?id=46587844) - [The five orders of ignorance (2000)](https://cacm.acm.org/opinion/the-five-orders-of-ignorance/)
+* [2026-01-11, 14:58:32](https://news.ycombinator.com/item?id=46576261) - [Everything you need to know about act() in React tests](https://howtotestfrontend.com/resources/react-act-function-everything-you-need-to-know)
 * [2026-01-11, 03:55:53](https://news.ycombinator.com/item?id=46572589) - [I Built a 1 Petabyte Server from Scratch [video]](https://www.youtube.com/watch?v=vVI7atoAeoo)
 * [2026-01-11, 02:15:33](https://news.ycombinator.com/item?id=46572089) - [What a Programmer Does (1967) [pdf]](http://archive.computerhistory.org/resources/text/Knuth_Don_X4100/PDF_index/k-9-pdf/k-9-u2769-1-Baker-What-Programmer-Does.pdf)
 
