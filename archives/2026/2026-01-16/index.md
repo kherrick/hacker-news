@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-01-16](index.md)
 
+* [2026-01-16, 22:13:18](https://news.ycombinator.com/item?id=46652914) - [Drawbot: Let's hack something cute (2025)](https://www.atredis.com/blog/2025/9/30/drawbot-lets-hack-something-cute)
+* [2026-01-16, 21:42:24](https://news.ycombinator.com/item?id=46652617) - [Releasing rainbow tables to accelerate protocol deprecation](https://cloud.google.com/blog/topics/threat-intelligence/net-ntlmv1-deprecation-rainbow-tables)
+* [2026-01-16, 21:39:42](https://news.ycombinator.com/item?id=46652592) - [We're more patient with AI than one another](https://www.uxtopian.com/journal/were-more-patient-with-ai-than-one-another)
 * [2026-01-16, 21:13:48](https://news.ycombinator.com/item?id=46652299) - [The Engineer to Executive Translation Layer](https://refactoring.fm/p/the-engineer-executive-translation)
 * [2026-01-16, 20:37:31](https://news.ycombinator.com/item?id=46651887) - [LWN is currently under the heaviest scraper attack seen yet](https://social.kernel.org/notice/B2JlhcxNTfI8oDVoyO)
 * [2026-01-16, 20:03:10](https://news.ycombinator.com/item?id=46651443) - [Slop Is Everywhere for Those with Eyes to See](https://www.fromjason.xyz/p/notebook/slop-is-everywhere-for-those-with-eyes-to-see/)
