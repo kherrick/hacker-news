@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-01-16](index.md)
 
+* [2026-01-16, 17:32:40](https://news.ycombinator.com/item?id=46649142) - [STFU](https://github.com/Pankajtanwarbanna/stfu)
 * [2026-01-16, 17:05:28](https://news.ycombinator.com/item?id=46648778) - [Canada slashes 100% tariffs on Chinese EVs to 6%](https://electrek.co/2026/01/16/canada-breaks-with-us-slashes-100-tariffs-chinese-evs/)
 * [2026-01-16, 17:00:29](https://news.ycombinator.com/item?id=46648714) - [Zep AI (Agent Context Engineering, YC W24) Is Hiring Forward Deployed Engineers](https://www.ycombinator.com/companies/zep-ai/jobs/)
 * [2026-01-16, 16:20:21](https://news.ycombinator.com/item?id=46648144) - [Launch HN: Indy (YC S21) – A support app designed for ADHD brains](https://www.shimmer.care/indy-redirect)
