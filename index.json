@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-01-16, 10:19:52",
+      "https://news.ycombinator.com/item?id=46644962"
+    ],
+    [
+      "On Being a Human Being in the Time of Collapse (2022) [pdf]",
+      "https://web.cs.ucdavis.edu/~rogaway/papers/crisis/crisis.pdf"
+    ]
+  ],
+  [
+    [
+      "2026-01-16, 09:48:17",
+      "https://news.ycombinator.com/item?id=46644779"
+    ],
+    [
+      "AI Destroys Institutions",
+      "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5870623"
+    ]
+  ],
+  [
+    [
       "2026-01-16, 09:27:03",
       "https://news.ycombinator.com/item?id=46644661"
     ],
@@ -101,26 +121,6 @@
   ],
   [
     [
-      "2026-01-15, 23:37:42",
-      "https://news.ycombinator.com/item?id=46641042"
-    ],
-    [
-      "Tldraw pauses external contributions due to AI slop",
-      "https://github.com/tldraw/tldraw/issues/7695"
-    ]
-  ],
-  [
-    [
-      "2026-01-15, 21:00:42",
-      "https://news.ycombinator.com/item?id=46639248"
-    ],
-    [
-      "Aviator (YC S21) is hiring to build multiplayer AI coding platform",
-      "https://www.ycombinator.com/companies/aviator/jobs"
-    ]
-  ],
-  [
-    [
       "2026-01-15, 20:20:13",
       "https://news.ycombinator.com/item?id=46638629"
     ],
@@ -157,16 +157,6 @@
     [
       "JuiceFS is a distributed POSIX file system built on top of Redis and S3",
       "https://github.com/juicedata/juicefs"
-    ]
-  ],
-  [
-    [
-      "2026-01-15, 17:51:24",
-      "https://news.ycombinator.com/item?id=46636387"
-    ],
-    [
-      "CVEs affecting the Svelte ecosystem",
-      "https://svelte.dev/blog/cves-affecting-the-svelte-ecosystem"
     ]
   ],
   [
@@ -257,6 +247,16 @@
     [
       "Show HN: Timberlogs – Drop-in structured logging for TypeScript",
       "https://news.ycombinator.com/item?id=46605671"
+    ]
+  ],
+  [
+    [
+      "2026-01-12, 13:59:54",
+      "https://news.ycombinator.com/item?id=46588607"
+    ],
+    [
+      "Cue Does It All, but Can It Literate?",
+      "https://xlii.space/cue/cue-does-it-all-but-can-it-literate/"
     ]
   ],
   [
