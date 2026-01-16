@@ -129,21 +129,141 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
-        <section id="46640462">
+        <section id="46641362">
           <h3>
-            <a class="item" href="https://aws.eu/"
-              >AWS European Sovereign Cloud</a
+            <a class="item" href="https://github.com/bolt-foundry/gambit"
+              >Show HN: Gambit, an open-source agent harness for building
+              reliable AI agents</a
             >
           </h3>
           <section>
             <h4>
-              <span>2026-01-15 @ 22:43:28</span
+              <span>2026-01-16 @ 00:13:25</span
               ><span class="points-container"
-                >Points: <span class="points">48</span></span
+                >Points: <span class="points">39</span></span
               ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=46640462"
+                ><a href="https://news.ycombinator.com/item?id=46641362"
                   >Comments</a
-                ><span class="descendants">: 48</span></span
+                ><span class="descendants">: 11</span></span
+              >
+            </h4>
+            <div class="text">
+              <p>Wanted to show our open source agent harness called Gambit.</p>
+              <p>
+                If you’re not familiar, agent harnesses are sort of like an
+                operating system for an agent... they handle tool calling,
+                planning, context window management, and don’t require as much
+                developer orchestration.
+              </p>
+              <p>
+                Normally you might see an agent orchestration framework pipeline
+                like:
+              </p>
+              <p>
+                compute -&gt; compute -&gt; compute -&gt; LLM -&gt; compute
+                -&gt; compute -&gt; LLM
+              </p>
+              <p>we invert this so with an agent harness, it’s more like:</p>
+              <p>
+                LLM -&gt; LLM -&gt; LLM -&gt; compute -&gt; LLM -&gt; LLM -&gt;
+                compute -&gt; LLM
+              </p>
+              <p>
+                Essentially you describe each agent in either a self contained
+                markdown file, or as a typescript program. Your root agent can
+                bring in other agents as needed, and we create a typesafe way
+                for you to define the interfaces between those agents. We call
+                these decks.
+              </p>
+              <p>
+                Agents can call agents, and each agent can be designed with
+                whatever model params make sense for your task.
+              </p>
+              <p>
+                Additionally, each step of the chain gets automatic evals, we
+                call graders. A grader is another deck type… but it’s designed
+                to evaluate and score conversations (or individual conversation
+                turns).
+              </p>
+              <p>
+                We also have test agents you can define on a deck-by-deck basis,
+                that are designed to mimic scenarios your agent would face and
+                generate synthetic data for either humans or graders to grade.
+              </p>
+              <p>
+                Prior to Gambit, we had built an LLM based video editor, and we
+                weren’t happy with the results, which is what brought us down
+                this path of improving inference time LLM quality.
+              </p>
+              <p>
+                We know it’s missing some obvious parts, but we wanted to get
+                this out there to see how it could help people or start
+                conversations. We’re really happy with how it’s working with
+                some of our early design partners, and we think it’s a way to
+                implement a lot of interesting applications:
+              </p>
+              <p>
+                - Truly open source agents and assistants, where logic, code,
+                and prompts can be easily shared with the community.
+              </p>
+              <p>
+                - Rubric based grading to guarantee you (for instance) don’t
+                leak PII accidentally
+              </p>
+              <p>
+                - Spin up a usable bot in minutes and have Codex or Claude Code
+                use our command line runner / graders to build a first version
+                that is pretty good w/ very little human intervention.
+              </p>
+              <p>
+                We’ll be around if ya’ll have any questions or thoughts. Thanks
+                for checking us out!
+              </p>
+              <p>
+                Walkthrough video:
+                <a href="https://youtu.be/J_hQ2L_yy60"
+                  >https://youtu.be/J_hQ2L_yy60</a
+                >
+              </p>
+            </div>
+          </section>
+        </section>
+        <section id="46641348">
+          <h3>
+            <a
+              class="item"
+              href="https://buttondown.com/hillelwayne/archive/my-gripes-with-prolog/"
+              >My Gripes with Prolog</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-01-16 @ 00:11:28</span
+              ><span class="points-container"
+                >Points: <span class="points">36</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=46641348"
+                  >Comments</a
+                ><span class="descendants">: 18</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="46641042">
+          <h3>
+            <a class="item" href="https://github.com/tldraw/tldraw/issues/7695"
+              >Tldraw pauses external contributions due to AI slop</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-01-15 @ 23:37:42</span
+              ><span class="points-container"
+                >Points: <span class="points">49</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=46641042"
+                  >Comments</a
+                ><span class="descendants">: 19</span></span
               >
             </h4>
           </section>
@@ -160,30 +280,11 @@
             <h4>
               <span>2026-01-15 @ 22:33:58</span
               ><span class="points-container"
-                >Points: <span class="points">94</span></span
+                >Points: <span class="points">126</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46640366"
                   >Comments</a
-                ><span class="descendants">: 80</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="46640014">
-          <h3>
-            <a class="item" href="https://tweedegolf.nl/en/blog/197/remails"
-              >Remails: A European Mail Transfer Agent</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-01-15 @ 22:04:23</span
-              ><span class="points-container"
-                >Points: <span class="points">21</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=46640014"
-                  >Comments</a
-                ><span class="descendants">: 3</span></span
+                ><span class="descendants">: 101</span></span
               >
             </h4>
           </section>
@@ -206,43 +307,6 @@
             </h4>
           </section>
         </section>
-        <section id="46638894">
-          <h3>
-            <a class="item" href="https://github.com/a-rahimi/hessian"
-              >Show HN: The Hessian of tall-skinny networks is easy to invert</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-01-15 @ 20:36:10</span
-              ><span class="points-container"
-                >Points: <span class="points">20</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=46638894"
-                  >Comments</a
-                ><span class="descendants">: 20</span></span
-              >
-            </h4>
-            <div class="text">
-              <i>inverse</i> of the Hessian of a deep net is easy to apply to a
-              vector. Doing this naively takes cubically many operations in the
-              number of layers (so impractical), but it's possible to do this in
-              time linear in the number of layers (so very practical)!
-              <p>
-                This is possible because the Hessian of a deep net has a matrix
-                polynomial structure that factorizes nicely. The
-                Hessian-inverse-product algorithm that takes advantage of this
-                is similar to running backprop on a dual version of the deep
-                net. It echoes an old idea of Pearlmutter's for computing
-                Hessian-vector products.
-              </p>
-              <p>
-                Maybe this idea is useful as a preconditioner for stochastic
-                gradient descent?
-              </p>
-            </div>
-          </section>
-        </section>
         <section id="46638629">
           <h3>
             <a class="item" href="https://shellbox.dev/"
@@ -253,11 +317,11 @@
             <h4>
               <span>2026-01-15 @ 20:20:13</span
               ><span class="points-container"
-                >Points: <span class="points">99</span></span
+                >Points: <span class="points">126</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46638629"
                   >Comments</a
-                ><span class="descendants">: 64</span></span
+                ><span class="descendants">: 83</span></span
               >
             </h4>
           </section>
@@ -274,11 +338,11 @@
             <h4>
               <span>2026-01-15 @ 19:54:42</span
               ><span class="points-container"
-                >Points: <span class="points">39</span></span
+                >Points: <span class="points">47</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46638241"
                   >Comments</a
-                ><span class="descendants">: 25</span></span
+                ><span class="descendants">: 33</span></span
               >
             </h4>
           </section>
@@ -294,11 +358,11 @@
             <h4>
               <span>2026-01-15 @ 19:38:02</span
               ><span class="points-container"
-                >Points: <span class="points">78</span></span
+                >Points: <span class="points">145</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46638013"
                   >Comments</a
-                ><span class="descendants">: 21</span></span
+                ><span class="descendants">: 57</span></span
               >
             </h4>
           </section>
@@ -315,11 +379,11 @@
             <h4>
               <span>2026-01-15 @ 18:54:32</span
               ><span class="points-container"
-                >Points: <span class="points">66</span></span
+                >Points: <span class="points">84</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46637328"
                   >Comments</a
-                ><span class="descendants">: 16</span></span
+                ><span class="descendants">: 22</span></span
               >
             </h4>
           </section>
@@ -335,56 +399,13 @@
             <h4>
               <span>2026-01-15 @ 18:45:18</span
               ><span class="points-container"
-                >Points: <span class="points">101</span></span
+                >Points: <span class="points">118</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46637165"
                   >Comments</a
-                ><span class="descendants">: 56</span></span
+                ><span class="descendants">: 67</span></span
               >
             </h4>
-          </section>
-        </section>
-        <section id="46636861">
-          <h3>
-            <a class="item" href="https://news.ycombinator.com/item?id=46636861"
-              >Ask HN: One IP, multiple unrealistic locations worldwide hitting
-              my website</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-01-15 @ 18:25:36</span
-              ><span class="points-container"
-                >Points: <span class="points">28</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=46636861"
-                  >Comments</a
-                ><span class="descendants">: 14</span></span
-              >
-            </h4>
-            <div class="text">
-              <p>Chicago, United States (ORD)</p>
-              <p>340 requests</p>
-              <p>San Jose, United States (SJC)</p>
-              <p>330 requests</p>
-              <p>Los Angeles, United States (LAX)</p>
-              <p>310 requests</p>
-              <p>Atlanta, United States (ATL)</p>
-              <p>310 requests</p>
-              <p>Dallas-Fort Worth, United States (DFW)</p>
-              <p>290 requests</p>
-              <p>Newark, United States (EWR)</p>
-              <p>280 requests</p>
-              <p>Washington, United States (IAD)</p>
-              <p>230 requests</p>
-              <p>Miami, United States (MIA)</p>
-              <p>210 requests</p>
-              <p>Boston, United States (BOS)</p>
-              <p>140 requests</p>
-              <p>Singapore, Singapore (SIN)</p>
-              <p>130 requests</p>
-              <p>Thanks for ideas.</p>
-            </div>
           </section>
         </section>
         <section id="46636786">
@@ -392,19 +413,19 @@
             <a
               class="item"
               href="https://github.com/rulebricks/claude-code-guardrails"
-              >Show HN: Control what Claude can access using cloud-based
-              decision table UIs</a
+              >Show HN: Control Claude permissions using a cloud-based decision
+              table UI</a
             >
           </h3>
           <section>
             <h4>
               <span>2026-01-15 @ 18:21:12</span
               ><span class="points-container"
-                >Points: <span class="points">11</span></span
+                >Points: <span class="points">12</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46636786"
                   >Comments</a
-                ><span class="descendants">: 4</span></span
+                ><span class="descendants">: 8</span></span
               >
             </h4>
             <div class="text">
@@ -415,8 +436,8 @@
               <p>
                 - Write conditional, exception-friendly policies beyond
                 globs/prefixes (e.g. allow rm -rf only in */node_modules/*, deny
-                //$HOME, ask if --force or network call; gate kubectl delete /
-                SQL DROP with a clear reason)
+                / or $HOME, ask if --force or network call; gate kubectl delete
+                / SQL DROP with a clear reason)
               </p>
               <p>
                 - Roll out policy changes instantly (mid-run, flip a risky
@@ -448,11 +469,11 @@
             <h4>
               <span>2026-01-15 @ 17:51:24</span
               ><span class="points-container"
-                >Points: <span class="points">137</span></span
+                >Points: <span class="points">143</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46636387"
                   >Comments</a
-                ><span class="descendants">: 26</span></span
+                ><span class="descendants">: 27</span></span
               >
             </h4>
           </section>
@@ -470,11 +491,11 @@
             <h4>
               <span>2026-01-15 @ 17:30:10</span
               ><span class="points-container"
-                >Points: <span class="points">82</span></span
+                >Points: <span class="points">90</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46636093"
                   >Comments</a
-                ><span class="descendants">: 14</span></span
+                ><span class="descendants">: 18</span></span
               >
             </h4>
           </section>
@@ -489,11 +510,11 @@
             <h4>
               <span>2026-01-15 @ 16:49:13</span
               ><span class="points-container"
-                >Points: <span class="points">356</span></span
+                >Points: <span class="points">427</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46635345"
                   >Comments</a
-                ><span class="descendants">: 653</span></span
+                ><span class="descendants">: 727</span></span
               >
             </h4>
             <div class="text">
@@ -504,23 +525,23 @@
             </div>
           </section>
         </section>
-        <section id="46634697">
+        <section id="46634450">
           <h3>
             <a
               class="item"
-              href="https://100x.bot/a/we-gave-our-browser-agent-a-3mb-data-warehouse"
-              >We Gave Our Browser Agent a 3MB Data Warehouse</a
+              href="https://fly.io/blog/design-and-implementation/"
+              >Design and Implementation of Sprites</a
             >
           </h3>
           <section>
             <h4>
-              <span>2026-01-15 @ 16:11:45</span
+              <span>2026-01-15 @ 15:59:21</span
               ><span class="points-container"
-                >Points: <span class="points">8</span></span
+                >Points: <span class="points">132</span></span
               ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=46634697"
+                ><a href="https://news.ycombinator.com/item?id=46634450"
                   >Comments</a
-                ><span class="descendants">: 2</span></span
+                ><span class="descendants">: 99</span></span
               >
             </h4>
           </section>
@@ -537,11 +558,11 @@
             <h4>
               <span>2026-01-15 @ 15:09:16</span
               ><span class="points-container"
-                >Points: <span class="points">117</span></span
+                >Points: <span class="points">128</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46633574"
                   >Comments</a
-                ><span class="descendants">: 27</span></span
+                ><span class="descendants">: 28</span></span
               >
             </h4>
           </section>
@@ -559,11 +580,31 @@
             <h4>
               <span>2026-01-15 @ 15:02:42</span
               ><span class="points-container"
-                >Points: <span class="points">544</span></span
+                >Points: <span class="points">590</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46633488"
                   >Comments</a
-                ><span class="descendants">: 338</span></span
+                ><span class="descendants">: 360</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="46632768">
+          <h3>
+            <a class="item" href="https://github.com/chrisdiana/TinyCity"
+              >Show HN: TinyCity – A tiny city SIM for MicroPython (Thumby micro
+              console)</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-01-15 @ 14:11:30</span
+              ><span class="points-container"
+                >Points: <span class="points">121</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=46632768"
+                  >Comments</a
+                ><span class="descendants">: 19</span></span
               >
             </h4>
           </section>
@@ -578,11 +619,11 @@
             <h4>
               <span>2026-01-15 @ 13:17:07</span
               ><span class="points-container"
-                >Points: <span class="points">422</span></span
+                >Points: <span class="points">450</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46632023"
                   >Comments</a
-                ><span class="descendants">: 360</span></span
+                ><span class="descendants">: 369</span></span
               >
             </h4>
           </section>
@@ -600,11 +641,11 @@
             <h4>
               <span>2026-01-15 @ 09:54:10</span
               ><span class="points-container"
-                >Points: <span class="points">475</span></span
+                >Points: <span class="points">531</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46630369"
                   >Comments</a
-                ><span class="descendants">: 375</span></span
+                ><span class="descendants">: 417</span></span
               >
             </h4>
           </section>
@@ -620,11 +661,11 @@
             <h4>
               <span>2026-01-15 @ 07:36:15</span
               ><span class="points-container"
-                >Points: <span class="points">41</span></span
+                >Points: <span class="points">50</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46629295"
                   >Comments</a
-                ><span class="descendants">: 13</span></span
+                ><span class="descendants">: 15</span></span
               >
             </h4>
           </section>
@@ -639,11 +680,11 @@
             <h4>
               <span>2026-01-15 @ 05:14:08</span
               ><span class="points-container"
-                >Points: <span class="points">160</span></span
+                >Points: <span class="points">227</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46628329"
                   >Comments</a
-                ><span class="descendants">: 29</span></span
+                ><span class="descendants">: 41</span></span
               >
             </h4>
           </section>
@@ -661,11 +702,11 @@
             <h4>
               <span>2026-01-14 @ 16:26:11</span
               ><span class="points-container"
-                >Points: <span class="points">151</span></span
+                >Points: <span class="points">174</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46618042"
                   >Comments</a
-                ><span class="descendants">: 121</span></span
+                ><span class="descendants">: 135</span></span
               >
             </h4>
           </section>
@@ -682,11 +723,11 @@
             <h4>
               <span>2026-01-14 @ 07:26:52</span
               ><span class="points-container"
-                >Points: <span class="points">235</span></span
+                >Points: <span class="points">259</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46613324"
                   >Comments</a
-                ><span class="descendants">: 54</span></span
+                ><span class="descendants">: 62</span></span
               >
             </h4>
             <div class="text">
@@ -708,11 +749,11 @@
             <h4>
               <span>2026-01-14 @ 07:21:54</span
               ><span class="points-container"
-                >Points: <span class="points">89</span></span
+                >Points: <span class="points">96</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46613304"
                   >Comments</a
-                ><span class="descendants">: 29</span></span
+                ><span class="descendants">: 34</span></span
               >
             </h4>
           </section>
@@ -729,11 +770,11 @@
             <h4>
               <span>2026-01-14 @ 06:14:26</span
               ><span class="points-container"
-                >Points: <span class="points">125</span></span
+                >Points: <span class="points">143</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46612919"
                   >Comments</a
-                ><span class="descendants">: 74</span></span
+                ><span class="descendants">: 80</span></span
               >
             </h4>
           </section>
@@ -749,11 +790,11 @@
             <h4>
               <span>2026-01-14 @ 04:55:04</span
               ><span class="points-container"
-                >Points: <span class="points">117</span></span
+                >Points: <span class="points">137</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46612494"
                   >Comments</a
-                ><span class="descendants">: 23</span></span
+                ><span class="descendants">: 25</span></span
               >
             </h4>
             <div class="text">
@@ -822,33 +863,11 @@
             <h4>
               <span>2026-01-12 @ 13:32:42</span
               ><span class="points-container"
-                >Points: <span class="points">63</span></span
+                >Points: <span class="points">77</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46588243"
                   >Comments</a
-                ><span class="descendants">: 17</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="46587444">
-          <h3>
-            <a
-              class="item"
-              href="https://www.praxisframework.org/files/royce1970.pdf"
-              >Managing the development of large software systems (1970)
-              [pdf]</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-01-12 @ 12:19:40</span
-              ><span class="points-container"
-                >Points: <span class="points">12</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=46587444"
-                  >Comments</a
-                ><span class="descendants">: 0</span></span
+                ><span class="descendants">: 29</span></span
               >
             </h4>
           </section>
@@ -865,11 +884,32 @@
             <h4>
               <span>2026-01-11 @ 07:59:02</span
               ><span class="points-container"
-                >Points: <span class="points">22</span></span
+                >Points: <span class="points">25</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46573566"
                   >Comments</a
                 ><span class="descendants">: 2</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="46572089">
+          <h3>
+            <a
+              class="item"
+              href="http://archive.computerhistory.org/resources/text/Knuth_Don_X4100/PDF_index/k-9-pdf/k-9-u2769-1-Baker-What-Programmer-Does.pdf"
+              >What a Programmer Does (1967)[pdf]</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-01-11 @ 02:15:33</span
+              ><span class="points-container"
+                >Points: <span class="points">22</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=46572089"
+                  >Comments</a
+                ><span class="descendants">: 5</span></span
               >
             </h4>
           </section>
