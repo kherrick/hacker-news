@@ -1,6 +1,36 @@
 [
   [
     [
+      "2026-01-16, 03:10:36",
+      "https://news.ycombinator.com/item?id=46642560"
+    ],
+    [
+      "OpenBSD-current now runs as guest under Apple Hypervisor",
+      "https://www.undeadly.org/cgi?action=article;sid=20260115203619"
+    ]
+  ],
+  [
+    [
+      "2026-01-16, 02:59:59",
+      "https://news.ycombinator.com/item?id=46642504"
+    ],
+    [
+      "Cloudflare threatens Italy exit over €14M fine",
+      "https://ioplus.nl/en/posts/cloudflare-threatens-italy-exit-over-14m-fine"
+    ]
+  ],
+  [
+    [
+      "2026-01-16, 02:45:15",
+      "https://news.ycombinator.com/item?id=46642414"
+    ],
+    [
+      "SETI Home Flags 100 Signals After Sorting 12B Others",
+      "https://news.berkeley.edu/2026/01/12/for-21-years-enthusiasts-used-their-home-computers-to-search-for-et-uc-berkeley-scientists-are-homing-in-on-100-signals-they-found/"
+    ]
+  ],
+  [
+    [
       "2026-01-16, 02:06:11",
       "https://news.ycombinator.com/item?id=46642173"
     ],
@@ -31,12 +61,12 @@
   ],
   [
     [
-      "2026-01-15, 23:37:42",
-      "https://news.ycombinator.com/item?id=46641042"
+      "2026-01-15, 23:59:06",
+      "https://news.ycombinator.com/item?id=46641239"
     ],
     [
-      "Tldraw pauses external contributions due to AI slop",
-      "https://github.com/tldraw/tldraw/issues/7695"
+      "All 23-Bit Still Lifes Are Glider Constructible",
+      "https://mvr.github.io/posts/xs23.html"
     ]
   ],
   [
@@ -131,16 +161,6 @@
   ],
   [
     [
-      "2026-01-15, 15:59:21",
-      "https://news.ycombinator.com/item?id=46634450"
-    ],
-    [
-      "Design and Implementation of Sprites",
-      "https://fly.io/blog/design-and-implementation/"
-    ]
-  ],
-  [
-    [
       "2026-01-15, 15:09:16",
       "https://news.ycombinator.com/item?id=46633574"
     ],
@@ -221,16 +241,6 @@
   ],
   [
     [
-      "2026-01-14, 07:21:54",
-      "https://news.ycombinator.com/item?id=46613304"
-    ],
-    [
-      "Claude Cowork runs Linux VM via Apple virtualization framework",
-      "https://gist.github.com/simonw/35732f187edbe4fbd0bf976d013f22c8"
-    ]
-  ],
-  [
-    [
       "2026-01-14, 06:14:26",
       "https://news.ycombinator.com/item?id=46612919"
     ],
@@ -251,16 +261,6 @@
   ],
   [
     [
-      "2026-01-12, 14:32:10",
-      "https://news.ycombinator.com/item?id=46589028"
-    ],
-    [
-      "Playing Arcade Mahjong at Home? Or is it just a Mirage?",
-      "https://nicole.express/2026/put-your-clothes-back-on.html"
-    ]
-  ],
-  [
-    [
       "2026-01-12, 13:32:42",
       "https://news.ycombinator.com/item?id=46588243"
     ],
@@ -271,12 +271,12 @@
   ],
   [
     [
-      "2026-01-11, 07:59:02",
-      "https://news.ycombinator.com/item?id=46573566"
+      "2026-01-12, 13:00:21",
+      "https://news.ycombinator.com/item?id=46587844"
     ],
     [
-      "A Unique Performance Optimization for a 3D Geometry Language",
-      "https://cprimozic.net/notes/posts/persistent-expr-memo-optimization-for-geoscript/"
+      "The five orders of ignorance (2000)",
+      "https://cacm.acm.org/opinion/the-five-orders-of-ignorance/"
     ]
   ],
   [
