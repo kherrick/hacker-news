@@ -71,12 +71,22 @@
   ],
   [
     [
-      "2026-01-16, 17:14:15",
-      "https://news.ycombinator.com/item?id=46648885"
+      "2026-01-16, 17:16:33",
+      "https://news.ycombinator.com/item?id=46648916"
     ],
     [
-      "Dell UltraSharp 52 Thunderbolt Hub Monitor",
-      "https://www.dell.com/en-us/shop/dell-ultrasharp-52-thunderbolt-hub-monitor-u5226kw/apd/210-bthw/monitors-monitor-accessories"
+      "East Germany balloon escape",
+      "https://en.wikipedia.org/wiki/East_Germany_balloon_escape"
+    ]
+  ],
+  [
+    [
+      "2026-01-16, 17:15:10",
+      "https://news.ycombinator.com/item?id=46648900"
+    ],
+    [
+      "Ask HN: Claude Opus performance affected by time of day?",
+      "https://news.ycombinator.com/item?id=46648900"
     ]
   ],
   [
@@ -211,16 +221,6 @@
   ],
   [
     [
-      "2026-01-16, 03:10:36",
-      "https://news.ycombinator.com/item?id=46642560"
-    ],
-    [
-      "OpenBSD-current now runs as guest under Apple Hypervisor",
-      "https://www.undeadly.org/cgi?action=article;sid=20260115203619"
-    ]
-  ],
-  [
-    [
       "2026-01-16, 00:05:01",
       "https://news.ycombinator.com/item?id=46641284"
     ],
@@ -235,7 +235,7 @@
       "https://news.ycombinator.com/item?id=46641216"
     ],
     [
-      "The Alignment Game",
+      "The Alignment Game (2023)",
       "https://dmvaldman.github.io/alignment-game/"
     ]
   ],
@@ -295,7 +295,7 @@
       "https://news.ycombinator.com/item?id=46579954"
     ],
     [
-      "Elasticsearch Was Never a Database",
+      "Elasticsearch was never a database",
       "https://www.paradedb.com/blog/elasticsearch-was-never-a-database"
     ]
   ]
