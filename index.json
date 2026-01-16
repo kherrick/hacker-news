@@ -1,12 +1,32 @@
 [
   [
     [
-      "2026-01-15, 22:43:28",
-      "https://news.ycombinator.com/item?id=46640462"
+      "2026-01-16, 00:13:25",
+      "https://news.ycombinator.com/item?id=46641362"
     ],
     [
-      "AWS European Sovereign Cloud",
-      "https://aws.eu/"
+      "Show HN: Gambit, an open-source agent harness for building reliable AI agents",
+      "https://github.com/bolt-foundry/gambit"
+    ]
+  ],
+  [
+    [
+      "2026-01-16, 00:11:28",
+      "https://news.ycombinator.com/item?id=46641348"
+    ],
+    [
+      "My Gripes with Prolog",
+      "https://buttondown.com/hillelwayne/archive/my-gripes-with-prolog/"
+    ]
+  ],
+  [
+    [
+      "2026-01-15, 23:37:42",
+      "https://news.ycombinator.com/item?id=46641042"
+    ],
+    [
+      "Tldraw pauses external contributions due to AI slop",
+      "https://github.com/tldraw/tldraw/issues/7695"
     ]
   ],
   [
@@ -21,32 +41,12 @@
   ],
   [
     [
-      "2026-01-15, 22:04:23",
-      "https://news.ycombinator.com/item?id=46640014"
-    ],
-    [
-      "Remails: A European Mail Transfer Agent",
-      "https://tweedegolf.nl/en/blog/197/remails"
-    ]
-  ],
-  [
-    [
       "2026-01-15, 21:00:42",
       "https://news.ycombinator.com/item?id=46639248"
     ],
     [
       "Aviator (YC S21) is hiring to build multiplayer AI coding platform",
       "https://www.ycombinator.com/companies/aviator/jobs"
-    ]
-  ],
-  [
-    [
-      "2026-01-15, 20:36:10",
-      "https://news.ycombinator.com/item?id=46638894"
-    ],
-    [
-      "Show HN: The Hessian of tall-skinny networks is easy to invert",
-      "https://github.com/a-rahimi/hessian"
     ]
   ],
   [
@@ -101,21 +101,11 @@
   ],
   [
     [
-      "2026-01-15, 18:25:36",
-      "https://news.ycombinator.com/item?id=46636861"
-    ],
-    [
-      "Ask HN: One IP, multiple unrealistic locations worldwide hitting my website",
-      "https://news.ycombinator.com/item?id=46636861"
-    ]
-  ],
-  [
-    [
       "2026-01-15, 18:21:12",
       "https://news.ycombinator.com/item?id=46636786"
     ],
     [
-      "Show HN: Control what Claude can access using cloud-based decision table UIs",
+      "Show HN: Control Claude permissions using a cloud-based decision table UI",
       "https://github.com/rulebricks/claude-code-guardrails"
     ]
   ],
@@ -151,12 +141,12 @@
   ],
   [
     [
-      "2026-01-15, 16:11:45",
-      "https://news.ycombinator.com/item?id=46634697"
+      "2026-01-15, 15:59:21",
+      "https://news.ycombinator.com/item?id=46634450"
     ],
     [
-      "We Gave Our Browser Agent a 3MB Data Warehouse",
-      "https://100x.bot/a/we-gave-our-browser-agent-a-3mb-data-warehouse"
+      "Design and Implementation of Sprites",
+      "https://fly.io/blog/design-and-implementation/"
     ]
   ],
   [
@@ -177,6 +167,16 @@
     [
       "Apple is fighting for TSMC capacity as Nvidia takes center stage",
       "https://www.culpium.com/p/exclusiveapple-is-fighting-for-tsmc"
+    ]
+  ],
+  [
+    [
+      "2026-01-15, 14:11:30",
+      "https://news.ycombinator.com/item?id=46632768"
+    ],
+    [
+      "Show HN: TinyCity – A tiny city SIM for MicroPython (Thumby micro console)",
+      "https://github.com/chrisdiana/TinyCity"
     ]
   ],
   [
@@ -281,22 +281,22 @@
   ],
   [
     [
-      "2026-01-12, 12:19:40",
-      "https://news.ycombinator.com/item?id=46587444"
-    ],
-    [
-      "Managing the development of large software systems (1970) [pdf]",
-      "https://www.praxisframework.org/files/royce1970.pdf"
-    ]
-  ],
-  [
-    [
       "2026-01-11, 07:59:02",
       "https://news.ycombinator.com/item?id=46573566"
     ],
     [
       "A Unique Performance Optimization for a 3D Geometry Language",
       "https://cprimozic.net/notes/posts/persistent-expr-memo-optimization-for-geoscript/"
+    ]
+  ],
+  [
+    [
+      "2026-01-11, 02:15:33",
+      "https://news.ycombinator.com/item?id=46572089"
+    ],
+    [
+      "What a Programmer Does (1967)[pdf]",
+      "http://archive.computerhistory.org/resources/text/Knuth_Don_X4100/PDF_index/k-9-pdf/k-9-u2769-1-Baker-What-Programmer-Does.pdf"
     ]
   ]
 ]
