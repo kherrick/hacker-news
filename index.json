@@ -91,6 +91,16 @@
   ],
   [
     [
+      "2026-01-16, 17:15:10",
+      "https://news.ycombinator.com/item?id=46648900"
+    ],
+    [
+      "Ask HN: Claude Opus performance affected by time of day?",
+      "https://news.ycombinator.com/item?id=46648900"
+    ]
+  ],
+  [
+    [
       "2026-01-16, 17:00:29",
       "https://news.ycombinator.com/item?id=46648714"
     ],
@@ -201,16 +211,6 @@
   ],
   [
     [
-      "2026-01-16, 08:01:02",
-      "https://news.ycombinator.com/item?id=46644181"
-    ],
-    [
-      "Interactive eBPF",
-      "https://ebpf.party/"
-    ]
-  ],
-  [
-    [
       "2026-01-16, 06:54:55",
       "https://news.ycombinator.com/item?id=46643754"
     ],
@@ -241,22 +241,22 @@
   ],
   [
     [
+      "2026-01-15, 16:46:50",
+      "https://news.ycombinator.com/item?id=46635309"
+    ],
+    [
+      "LLM Structured Outputs Handbook",
+      "https://nanonets.com/cookbooks/structured-llm-outputs"
+    ]
+  ],
+  [
+    [
       "2026-01-15, 13:19:22",
       "https://news.ycombinator.com/item?id=46632057"
     ],
     [
       "Independent Guest Virtual Machine (IGVM) File Format",
       "https://github.com/microsoft/igvm"
-    ]
-  ],
-  [
-    [
-      "2026-01-14, 22:19:36",
-      "https://news.ycombinator.com/item?id=46624563"
-    ],
-    [
-      "Training my smartwatch to track intelligence",
-      "https://dmvaldman.github.io/rooklift/"
     ]
   ],
   [
