@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-01-16, 14:56:47](https://news.ycombinator.com/item?id=46646970) - [America could have $4 lunch bowls like Japan–but our zoning laws [prevent that]](https://abio.substack.com/p/america-could-have-4-lunch-bowls)
 * [2026-01-16, 14:25:54](https://news.ycombinator.com/item?id=46646645) - [Astro Joining Cloudflare](https://astro.build/blog/joining-cloudflare/)
 * [2026-01-16, 13:44:25](https://news.ycombinator.com/item?id=46646263) - [Michelangelo's First Painting, Created When He Was Only 12 or 13 Years Old](https://www.openculture.com/2026/01/discover-michelangelos-first-painting.html)
 * [2026-01-16, 13:40:19](https://news.ycombinator.com/item?id=46646228) - [Show HN: The Analog I – Inducing Recursive Self-Modeling in LLMs [pdf]](https://github.com/philMarcus/Birth-of-a-Mind)
 * [2026-01-16, 13:39:31](https://news.ycombinator.com/item?id=46646226) - [Dev-Owned Testing: Why It Fails in Practice and Succeeds in Theory](https://dl.acm.org/doi/10.1145/3780063.3780066)
 * [2026-01-16, 13:20:20](https://news.ycombinator.com/item?id=46646091) - [psc: The ps utility, with an eBPF twist and container context](https://github.com/loresuso/psc)
-* [2026-01-16, 12:50:07](https://news.ycombinator.com/item?id=46645886) - [Song banned from Swedish charts for being AI creation](https://www.bbc.com/news/articles/cp829jey9z7o)
 * [2026-01-16, 12:03:52](https://news.ycombinator.com/item?id=46645615) - [Just the Browser](https://justthebrowser.com/)
 * [2026-01-16, 09:27:03](https://news.ycombinator.com/item?id=46644661) - [The spectrum of isolation: From bare metal to WebAssembly](https://buildsoftwaresystems.com/post/guide-to-execution-environments/)
 * [2026-01-16, 09:06:45](https://news.ycombinator.com/item?id=46644541) - [pf: Make af-to less magical](https://undeadly.org/cgi?action=article;sid=20260116085115)
