@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-01-16, 12:03:52",
+      "https://news.ycombinator.com/item?id=46645615"
+    ],
+    [
+      "Just the Browser",
+      "https://justthebrowser.com/"
+    ]
+  ],
+  [
+    [
+      "2026-01-16, 11:36:51",
+      "https://news.ycombinator.com/item?id=46645430"
+    ],
+    [
+      "Signal creator Moxie Marlinspike wants to do for AI what he did for messaging",
+      "https://arstechnica.com/security/2026/01/signal-creator-moxie-marlinspike-wants-to-do-for-ai-what-he-did-for-messaging/"
+    ]
+  ],
+  [
+    [
       "2026-01-16, 10:19:52",
       "https://news.ycombinator.com/item?id=46644962"
     ],
@@ -37,26 +57,6 @@
     [
       "Interactive eBPF",
       "https://ebpf.party/"
-    ]
-  ],
-  [
-    [
-      "2026-01-16, 06:52:03",
-      "https://news.ycombinator.com/item?id=46643737"
-    ],
-    [
-      "Building a better Bugbot",
-      "https://cursor.com/blog/building-bugbot"
-    ]
-  ],
-  [
-    [
-      "2026-01-16, 04:11:17",
-      "https://news.ycombinator.com/item?id=46642920"
-    ],
-    [
-      "Boeing knew of flaw in part linked to UPS plane crash, NTSB report says",
-      "https://www.bbc.com/news/articles/cly56w0p9e1o"
     ]
   ],
   [
@@ -107,16 +107,6 @@
     [
       "All 23-Bit Still Lifes Are Glider Constructible",
       "https://mvr.github.io/posts/xs23.html"
-    ]
-  ],
-  [
-    [
-      "2026-01-15, 23:37:42",
-      "https://news.ycombinator.com/item?id=46641042"
-    ],
-    [
-      "Tldraw pauses external contributions due to AI slop",
-      "https://github.com/tldraw/tldraw/issues/7695"
     ]
   ],
   [
@@ -267,6 +257,16 @@
     [
       "Go-legacy-winxp: Compile Golang 1.24 code for Windows XP",
       "https://github.com/syncguy/go-legacy-winxp/tree/winxp-compat"
+    ]
+  ],
+  [
+    [
+      "2026-01-12, 05:42:21",
+      "https://news.ycombinator.com/item?id=46584526"
+    ],
+    [
+      "Altaid 8800",
+      "https://sunrise-ev.com/8080.htm"
     ]
   ],
   [
