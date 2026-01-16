@@ -36,6 +36,7 @@
 * [2026-01-15, 17:15:45](https://news.ycombinator.com/item?id=46635810) - [AI Tool Archive](https://aitoolarchive.com/)
 * [2026-01-15, 17:00:38](https://news.ycombinator.com/item?id=46635550) - [GitHub Incident](https://www.githubstatus.com/incidents/q987xpbqjbpl)
 * [2026-01-15, 16:49:13](https://news.ycombinator.com/item?id=46635345) - [Ask HN: How can we solve the loneliness epidemic?](https://news.ycombinator.com/item?id=46635345)
+* [2026-01-15, 16:46:50](https://news.ycombinator.com/item?id=46635309) - [LLM Structured Outputs Handbook](https://nanonets.com/cookbooks/structured-llm-outputs)
 * [2026-01-15, 16:29:13](https://news.ycombinator.com/item?id=46635018) - [Americans Overwhelmingly Support Science, but Some Think the U.S. Is Lagging](https://www.scientificamerican.com/article/americans-overwhelmingly-support-science-but-some-think-the-u-s-is-lagging/)
 * [2026-01-15, 16:11:45](https://news.ycombinator.com/item?id=46634697) - [We Gave Our Browser Agent a 3MB Data Warehouse](https://100x.bot/a/we-gave-our-browser-agent-a-3mb-data-warehouse)
 * [2026-01-15, 15:59:21](https://news.ycombinator.com/item?id=46634450) - [Design and Implementation of Sprites](https://fly.io/blog/design-and-implementation/)
