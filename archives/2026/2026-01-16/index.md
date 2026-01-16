@@ -4,6 +4,11 @@
 
 ### [Archives](../../index.md) for [2026-01-16](index.md)
 
+* [2026-01-16, 13:44:25](https://news.ycombinator.com/item?id=46646263) - [Michelangelo's First Painting, Created When He Was Only 12 or 13 Years Old](https://www.openculture.com/2026/01/discover-michelangelos-first-painting.html)
+* [2026-01-16, 13:40:19](https://news.ycombinator.com/item?id=46646228) - [Show HN: The Analog I – Inducing Recursive Self-Modeling in LLMs [pdf]](https://github.com/philMarcus/Birth-of-a-Mind)
+* [2026-01-16, 13:39:31](https://news.ycombinator.com/item?id=46646226) - [Dev-Owned Testing: Why It Fails in Practice and Succeeds in Theory](https://dl.acm.org/doi/10.1145/3780063.3780066)
+* [2026-01-16, 13:20:20](https://news.ycombinator.com/item?id=46646091) - [psc: The ps utility, with an eBPF twist and container context](https://github.com/loresuso/psc)
+* [2026-01-16, 12:50:07](https://news.ycombinator.com/item?id=46645886) - [Song banned from Swedish charts for being AI creation](https://www.bbc.com/news/articles/cp829jey9z7o)
 * [2026-01-16, 12:03:52](https://news.ycombinator.com/item?id=46645615) - [Just the Browser](https://justthebrowser.com/)
 * [2026-01-16, 11:36:51](https://news.ycombinator.com/item?id=46645430) - [Signal creator Moxie Marlinspike wants to do for AI what he did for messaging](https://arstechnica.com/security/2026/01/signal-creator-moxie-marlinspike-wants-to-do-for-ai-what-he-did-for-messaging/)
 * [2026-01-16, 10:19:52](https://news.ycombinator.com/item?id=46644962) - [On Being a Human Being in the Time of Collapse (2022) [pdf]](https://web.cs.ucdavis.edu/~rogaway/papers/crisis/crisis.pdf)
