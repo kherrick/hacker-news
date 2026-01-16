@@ -56,6 +56,7 @@
 * [2026-01-12, 12:25:27](https://news.ycombinator.com/item?id=46587498) - [Launch a Debugging Terminal into GitHub Actions](https://blog.gripdev.xyz/2026/01/10/actions-terminal-on-failure-for-debugging/)
 * [2026-01-12, 12:19:40](https://news.ycombinator.com/item?id=46587444) - [Managing the development of large software systems (1970) [pdf]](https://www.praxisframework.org/files/royce1970.pdf)
 * [2026-01-12, 12:03:00](https://news.ycombinator.com/item?id=46587284) - [Impeccable Style](https://impeccable.style)
+* [2026-01-12, 12:00:05](https://news.ycombinator.com/item?id=46587253) - [Show HN: A cross-platform toolkit to explore OS internals and capabilities](https://news.ycombinator.com/item?id=46587253)
 * [2026-01-12, 11:31:56](https://news.ycombinator.com/item?id=46587033) - [How to Build Reactive Declarative UI in Vanilla JavaScript](https://jsdev.space/howto/reactive-vanilla-js/)
 * [2026-01-12, 10:57:29](https://news.ycombinator.com/item?id=46586766) - [Anthropic Made a Big Mistake](https://archaeologist.dev/artifacts/anthropic)
 * [2026-01-12, 10:13:52](https://news.ycombinator.com/item?id=46586413) - [Google's Universal Commerce Protocol aims to make shopping AI-native](https://news.ycombinator.com/item?id=46586413)
