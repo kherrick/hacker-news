@@ -68,6 +68,7 @@
 * [2026-01-11, 05:33:20](https://news.ycombinator.com/item?id=46572968) - [Quake 1 Single-Player Map Design Theories (2001)](https://www.quaddicted.com/webarchive//teamshambler.planetquake.gamespy.com/theories1.html)
 * [2026-01-11, 05:01:19](https://news.ycombinator.com/item?id=46572821) - [I build products to get \"unplugged\" from the internet](https://getunplugged.io/I-build-products-to-get-unplugged)
 * [2026-01-11, 04:45:27](https://news.ycombinator.com/item?id=46572769) - ['The answer cannot be nothing': The battle over Canada's mystery brain disease](https://www.bbc.com/news/articles/c623r47d67lo)
+* [2026-01-11, 04:37:30](https://news.ycombinator.com/item?id=46572742) - [Which is \"Bouba\", and which is \"Kiki\"? [video]](https://www.youtube.com/watch?v=1TDIAObsqcs)
 * [2026-01-11, 04:32:47](https://news.ycombinator.com/item?id=46572723) - [Ripple: The Elegant TypeScript UI Framework](https://jsdev.space/meet-ripple/)
 * [2026-01-11, 04:19:04](https://news.ycombinator.com/item?id=46572679) - [My Home Fibre Network Disintegrated](https://alienchow.dev/post/fibre_disintegration/)
 * [2026-01-11, 03:56:19](https://news.ycombinator.com/item?id=46572593) - [Show HN: PrintReadyBook](https://printreadybook.com/)

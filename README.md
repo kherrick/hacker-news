@@ -16,7 +16,6 @@
 * [2026-01-16, 15:37:19](https://news.ycombinator.com/item?id=46647491) - [6-Day and IP Address Certificates Are Generally Available](https://letsencrypt.org/2026/01/15/6day-and-ip-general-availability)
 * [2026-01-16, 14:37:49](https://news.ycombinator.com/item?id=46646777) - [Cursor's latest “browser experiment” implied success without evidence](https://embedding-shapes.github.io/cursor-implied-success-without-evidence/)
 * [2026-01-16, 14:25:54](https://news.ycombinator.com/item?id=46646645) - [Cloudflare acquires Astro](https://astro.build/blog/joining-cloudflare/)
-* [2026-01-16, 13:44:25](https://news.ycombinator.com/item?id=46646263) - [Michelangelo's first painting, created when he was 12 or 13](https://www.openculture.com/2026/01/discover-michelangelos-first-painting.html)
 * [2026-01-16, 13:39:31](https://news.ycombinator.com/item?id=46646226) - [Dev-owned testing: Why it fails in practice and succeeds in theory](https://dl.acm.org/doi/10.1145/3780063.3780066)
 * [2026-01-16, 12:58:24](https://news.ycombinator.com/item?id=46645941) - [Patching the Wii News Channel to serve local news (2025)](https://raulnegron.me/2025/wii-news-pr/)
 * [2026-01-16, 10:57:38](https://news.ycombinator.com/item?id=46645176) - [Why DuckDB is my first choice for data processing](https://www.robinlinacre.com/recommend_duckdb/)
@@ -30,6 +29,7 @@
 * [2026-01-12, 13:00:21](https://news.ycombinator.com/item?id=46587844) - [The five orders of ignorance (2000)](https://cacm.acm.org/opinion/the-five-orders-of-ignorance/)
 * [2026-01-12, 11:18:15](https://news.ycombinator.com/item?id=46586940) - [IKEA for Software](https://tommaso-girotto.co/blog/an-ikea-for-software)
 * [2026-01-11, 20:54:47](https://news.ycombinator.com/item?id=46579954) - [Elasticsearch was never a database](https://www.paradedb.com/blog/elasticsearch-was-never-a-database)
+* [2026-01-11, 04:37:30](https://news.ycombinator.com/item?id=46572742) - [Which is \"Bouba\", and which is \"Kiki\"? [video]](https://www.youtube.com/watch?v=1TDIAObsqcs)
 
 ## [Archives](archives/index.md)
 
