@@ -51,16 +51,6 @@
   ],
   [
     [
-      "2026-01-16, 20:03:10",
-      "https://news.ycombinator.com/item?id=46651443"
-    ],
-    [
-      "Slop is everywhere for those with eyes to see",
-      "https://www.fromjason.xyz/p/notebook/slop-is-everywhere-for-those-with-eyes-to-see/"
-    ]
-  ],
-  [
-    [
       "2026-01-16, 18:49:29",
       "https://news.ycombinator.com/item?id=46650347"
     ],
@@ -197,6 +187,16 @@
     [
       "Local-only Marstek Venus e-battery integration with Home Assistant",
       "https://du.nkel.dev/blog/2026-01-11_marstek-battery-homeassistant/"
+    ]
+  ],
+  [
+    [
+      "2026-01-15, 18:54:10",
+      "https://news.ycombinator.com/item?id=46637322"
+    ],
+    [
+      "Show HN: Tusk Drift – Turn production traffic into API tests",
+      "https://github.com/Use-Tusk/tusk-drift-cli"
     ]
   ],
   [
