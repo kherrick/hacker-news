@@ -6,6 +6,7 @@
 
 * [2026-01-16, 23:46:17](https://news.ycombinator.com/item?id=46653721) - [FLUX.2 [Klein]: Towards Interactive Visual Intelligence](https://bfl.ai/blog/flux2-klein-towards-interactive-visual-intelligence)
 * [2026-01-16, 23:35:58](https://news.ycombinator.com/item?id=46653653) - [Left in the cold: Study finds most renters shut out of energy-saving upgrades](https://www.binghamton.edu/news/story/6011/left-in-the-cold-study-finds-most-renters-shut-out-of-energy-saving-upgrades)
+* [2026-01-16, 23:03:34](https://news.ycombinator.com/item?id=46653388) - [The Dilbert Afterlife](https://www.astralcodexten.com/p/the-dilbert-afterlife)
 * [2026-01-16, 22:49:04](https://news.ycombinator.com/item?id=46653270) - [Re: Mix: open-source repairable blender](https://github.com/openfunkHQ/reMix)
 * [2026-01-16, 22:15:20](https://news.ycombinator.com/item?id=46652944) - [Install.md: A standard for LLM-executable installation](https://www.mintlify.com/blog/install-md-standard-for-llm-executable-installation)
 * [2026-01-16, 22:13:18](https://news.ycombinator.com/item?id=46652914) - [Drawbot: Let's hack something cute (2025)](https://www.atredis.com/blog/2025/9/30/drawbot-lets-hack-something-cute)
