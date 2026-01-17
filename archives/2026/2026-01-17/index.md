@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-01-17](index.md)
 
+* [2026-01-17, 09:15:45](https://news.ycombinator.com/item?id=46656552) - [ClickHouse Acquires Langfuse](https://langfuse.com/blog/joining-clickhouse)
 * [2026-01-17, 08:48:26](https://news.ycombinator.com/item?id=46656373) - [Office app has changed to copilot and now I can't open files](https://old.reddit.com/r/Office365/comments/1q2b28q/office_app_has_changed_to_copilot_and_now_i_cant)
 * [2026-01-17, 08:23:44](https://news.ycombinator.com/item?id=46656256) - [You have three minutes to escape the perpetual underclass – geohot](https://geohot.github.io//blog/jekyll/update/2026/01/17/three-minutes.html)
 * [2026-01-17, 07:43:21](https://news.ycombinator.com/item?id=46656100) - [Every data centre is a U.S. military base](https://www.policyalternatives.ca/news-research/every-data-centre-is-a-u-s-military-base/)

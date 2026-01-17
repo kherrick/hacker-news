@@ -67,6 +67,7 @@
 * [2026-01-14, 12:25:59](https://news.ycombinator.com/item?id=46615235) - [Lago (Open-Source Billing) is hiring across teams and geos](https://news.ycombinator.com/item?id=46615235)
 * [2026-01-14, 12:14:48](https://news.ycombinator.com/item?id=46615167) - [Servo 2025 Stats](https://blogs.igalia.com/mrego/servo-2025-stats/)
 * [2026-01-14, 12:10:03](https://news.ycombinator.com/item?id=46615137) - [Ask HN: Unemployed almost a year after graduating MIT – a rant](https://news.ycombinator.com/item?id=46615137)
+* [2026-01-14, 12:01:08](https://news.ycombinator.com/item?id=46615084) - [Lies, Damned Lies and Proofs: Formal Methods Are Not Slopless](https://www.lesswrong.com/posts/rhAPh3YzhPoBNpgHg/lies-damned-lies-and-proofs-formal-methods-are-not-slopless)
 * [2026-01-14, 11:47:27](https://news.ycombinator.com/item?id=46614963) - [UK Officials could face US entry ban over Twitter policy](https://parliamentnews.co.uk/uk-officials-could-face-us-entry-ban-over-x-policy)
 * [2026-01-14, 11:21:15](https://news.ycombinator.com/item?id=46614777) - [UK secures record supply of offshore wind projects](https://www.bbc.co.uk/news/articles/cn9zyx150xdo)
 * [2026-01-14, 11:09:35](https://news.ycombinator.com/item?id=46614688) - [Show HN: Tiny FOSS Compass and Navigation App (<2MB)](https://github.com/CompassMB/MBCompass)
