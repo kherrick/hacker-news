@@ -34,6 +34,7 @@
 * [2026-01-14, 18:01:23](https://news.ycombinator.com/item?id=46619614) - [Show HN: Sparrow-1 – Audio-native model for human-level turn-taking without ASR](https://www.tavus.io/post/sparrow-1-human-level-conversational-timing-in-real-time-voice)
 * [2026-01-14, 17:54:25](https://news.ycombinator.com/item?id=46619464) - [Ask HN: What did you find out or explore today?](https://news.ycombinator.com/item?id=46619464)
 * [2026-01-14, 17:43:27](https://news.ycombinator.com/item?id=46619275) - [Dutch police have their own car stolen during car theft chase](https://dutchreview.com/news/dutch-police-car-stolen-during-chase/)
+* [2026-01-14, 17:29:09](https://news.ycombinator.com/item?id=46619059) - [Xous Operating System](https://xous.dev/)
 * [2026-01-14, 17:27:22](https://news.ycombinator.com/item?id=46619030) - [So, You've Hit an Age Gate. What Now?](https://www.eff.org/deeplinks/2026/01/so-youve-hit-age-gate-what-now)
 * [2026-01-14, 17:23:01](https://news.ycombinator.com/item?id=46618954) - [Eigent: An open source Claude Cowork alternative](https://github.com/eigent-ai/eigent)
 * [2026-01-14, 17:20:09](https://news.ycombinator.com/item?id=46618901) - [Ford F-150 Lightning outsold the Cybertruck and was then canceled for poor sales](https://electrek.co/2026/01/13/ford-f150-lightning-outsold-tesla-cybertruck-canceled-not-selling-enough/)
