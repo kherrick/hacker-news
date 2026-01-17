@@ -26,9 +26,9 @@
 * [2026-01-15, 11:01:34](https://news.ycombinator.com/item?id=46630816) - [High-Level Is the Goal](https://bvisness.me/high-level/)
 * [2026-01-12, 14:28:17](https://news.ycombinator.com/item?id=46588972) - [We put Claude Code in Rollercoaster Tycoon](https://labs.ramp.com/rct)
 * [2026-01-12, 06:38:51](https://news.ycombinator.com/item?id=46584880) - [Common misunderstandings about large software companies](https://philipotoole.com/common-misunderstandings-about-large-software-companies/)
-* [2026-01-12, 03:56:07](https://news.ycombinator.com/item?id=46583914) - [16 Best Practices for Reducing Dependabot Noise](https://nesbitt.io/2026/01/10/16-best-practices-for-reducing-dependabot-noise.html)
+* [2026-01-12, 03:56:07](https://news.ycombinator.com/item?id=46583914) - [Reducing Dependabot Noise](https://nesbitt.io/2026/01/10/16-best-practices-for-reducing-dependabot-noise.html)
 * [2026-01-11, 18:58:19](https://news.ycombinator.com/item?id=46578601) - [M8SBC-486 (Homebrew 486 computer)](https://maniek86.xyz/projects/m8sbc_486.php)
-* [2026-01-11, 15:33:04](https://news.ycombinator.com/item?id=46576581) - [The Olivetti Company – By Bradford Morgan White](https://www.abortretry.fail/p/the-olivetti-company)
+* [2026-01-11, 15:33:04](https://news.ycombinator.com/item?id=46576581) - [The Olivetti Company](https://www.abortretry.fail/p/the-olivetti-company)
 * [2026-01-11, 14:36:13](https://news.ycombinator.com/item?id=46576091) - [Below the Surface: Archeological Finds from the Amsterdam Noord/Zuid Metro Line](https://belowthesurface.amsterdam/en/vondsten)
 
 ## [Archives](archives/index.md)
