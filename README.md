@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-01-17, 14:13:11](https://news.ycombinator.com/item?id=46658213) - [What life is like in Minneapolis now](https://donmoynihan.substack.com/p/dispatch-from-the-occupation)
 * [2026-01-17, 13:44:02](https://news.ycombinator.com/item?id=46658014) - [Italy investigates Activision Blizzard for pushing in-game purchases](https://techcrunch.com/2026/01/16/italy-investigates-activision-blizzard-for-pushing-in-game-purchases/)
 * [2026-01-17, 12:59:35](https://news.ycombinator.com/item?id=46657719) - [The Risks of AI in Schools Outweigh the Benefits, Report Says](https://www.npr.org/2026/01/14/nx-s1-5674741/ai-schools-education)
 * [2026-01-17, 11:51:44](https://news.ycombinator.com/item?id=46657296) - [The 600-year-old origins of the word 'hello'](https://www.bbc.com/culture/article/20260113-hello-hiya-aloha-what-our-greetings-reveal)
@@ -28,6 +27,7 @@
 * [2026-01-15, 16:46:50](https://news.ycombinator.com/item?id=46635309) - [LLM Structured Outputs Handbook](https://nanonets.com/cookbooks/structured-llm-outputs)
 * [2026-01-15, 11:01:34](https://news.ycombinator.com/item?id=46630816) - [High-Level Is the Goal](https://bvisness.me/high-level/)
 * [2026-01-14, 12:01:08](https://news.ycombinator.com/item?id=46615084) - [Lies, Damned Lies and Proofs: Formal Methods Are Not Slopless](https://www.lesswrong.com/posts/rhAPh3YzhPoBNpgHg/lies-damned-lies-and-proofs-formal-methods-are-not-slopless)
+* [2026-01-13, 17:14:14](https://news.ycombinator.com/item?id=46604067) - [Show HN: Microwave – Native iOS app for videos on ATproto](https://testflight.apple.com/join/cVxV1W3g)
 * [2026-01-12, 20:11:19](https://news.ycombinator.com/item?id=46593556) - [Sergei Fedorov's Escape from Soviet Union Helped Save Red Wings (2020)](https://www.freep.com/story/sports/nhl/red-wings/2026/01/12/sergei-fedorov-detroit-red-wings-russian-5/88035492007/)
 * [2026-01-12, 13:30:05](https://news.ycombinator.com/item?id=46588210) - [Post-PARA: What survived 4 years of real use](https://cortwave.github.io/posts/post-para/)
 
