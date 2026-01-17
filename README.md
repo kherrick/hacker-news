@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-01-17, 16:15:32](https://news.ycombinator.com/item?id=46659194) - [Escaping the trap of US tech dependence](https://disconnect.blog/escaping-the-trap-of-us-tech-dependence/)
 * [2026-01-17, 14:31:33](https://news.ycombinator.com/item?id=46658345) - [The recurring dream of replacing developers](https://www.caimito.net/en/blog/2025/12/07/the-recurring-dream-of-replacing-developers.html)
 * [2026-01-17, 13:44:02](https://news.ycombinator.com/item?id=46658014) - [Italy investigates Activision Blizzard for pushing in-game purchases](https://techcrunch.com/2026/01/16/italy-investigates-activision-blizzard-for-pushing-in-game-purchases/)
 * [2026-01-17, 12:59:35](https://news.ycombinator.com/item?id=46657719) - [The Risks of AI in Schools Outweigh the Benefits, Report Says](https://www.npr.org/2026/01/14/nx-s1-5674741/ai-schools-education)
@@ -13,7 +14,7 @@
 * [2026-01-17, 10:13:57](https://news.ycombinator.com/item?id=46656834) - [Map To Poster – Create Art of your favourite city](https://github.com/originalankur/maptoposter)
 * [2026-01-17, 09:15:45](https://news.ycombinator.com/item?id=46656552) - [ClickHouse acquires Langfuse](https://langfuse.com/blog/joining-clickhouse)
 * [2026-01-17, 08:46:08](https://news.ycombinator.com/item?id=46656358) - [Show HN: Streaming gigabyte medical images from S3 without downloading them](https://github.com/PABannier/WSIStreamer)
-* [2026-01-17, 07:29:18](https://news.ycombinator.com/item?id=46656045) - [The 'untouchable hacker god' behind Finland's biggest ever crime](https://www.theguardian.com/technology/2026/jan/17/vastaamo-hack-finland-therapy-notes)
+* [2026-01-17, 07:29:18](https://news.ycombinator.com/item?id=46656045) - [The 'untouchable hacker god' behind Finland's biggest crime](https://www.theguardian.com/technology/2026/jan/17/vastaamo-hack-finland-therapy-notes)
 * [2026-01-17, 02:35:28](https://news.ycombinator.com/item?id=46654749) - [Drone Hacking Part 1: Dumping Firmware and Bruteforcing ECC](https://neodyme.io/en/blog/drone_hacking_part_1/)
 * [2026-01-17, 02:29:07](https://news.ycombinator.com/item?id=46654726) - [Ask HN: Is it still worth pursuing a software startup?](https://news.ycombinator.com/item?id=46654726)
 * [2026-01-16, 23:46:17](https://news.ycombinator.com/item?id=46653721) - [FLUX.2 [Klein]: Towards Interactive Visual Intelligence](https://bfl.ai/blog/flux2-klein-towards-interactive-visual-intelligence)
@@ -29,7 +30,6 @@
 * [2026-01-13, 17:14:14](https://news.ycombinator.com/item?id=46604067) - [Show HN: Microwave – Native iOS app for videos on ATproto](https://testflight.apple.com/join/cVxV1W3g)
 * [2026-01-12, 20:11:19](https://news.ycombinator.com/item?id=46593556) - [Sergei Fedorov's Escape from Soviet Union Helped Save Red Wings (2020)](https://www.freep.com/story/sports/nhl/red-wings/2026/01/12/sergei-fedorov-detroit-red-wings-russian-5/88035492007/)
 * [2026-01-12, 14:28:17](https://news.ycombinator.com/item?id=46588972) - [We Put Claude Code in Rollercoaster Tycoon](https://labs.ramp.com/rct)
-* [2026-01-12, 13:30:05](https://news.ycombinator.com/item?id=46588210) - [Post-PARA: What survived 4 years of real use](https://cortwave.github.io/posts/post-para/)
 
 ## [Archives](archives/index.md)
 

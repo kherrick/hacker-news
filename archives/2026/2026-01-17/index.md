@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-01-17](index.md)
 
+* [2026-01-17, 16:15:32](https://news.ycombinator.com/item?id=46659194) - [Escaping the trap of US tech dependence](https://disconnect.blog/escaping-the-trap-of-us-tech-dependence/)
 * [2026-01-17, 14:31:33](https://news.ycombinator.com/item?id=46658345) - [The recurring dream of replacing developers](https://www.caimito.net/en/blog/2025/12/07/the-recurring-dream-of-replacing-developers.html)
 * [2026-01-17, 14:13:11](https://news.ycombinator.com/item?id=46658213) - [What life is like in Minneapolis now](https://donmoynihan.substack.com/p/dispatch-from-the-occupation)
 * [2026-01-17, 13:44:02](https://news.ycombinator.com/item?id=46658014) - [Italy investigates Activision Blizzard for pushing in-game purchases](https://techcrunch.com/2026/01/16/italy-investigates-activision-blizzard-for-pushing-in-game-purchases/)
