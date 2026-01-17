@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-01-17](index.md)
 
+* [2026-01-17, 13:02:12](https://news.ycombinator.com/item?id=46657729) - [Whistleblower drops 'largest ever' ICE leak to unmask agents](https://vechron.com/2026/01/whistleblower-drops-largest-ever-ice-leak-to-unmask-agents/)
 * [2026-01-17, 11:51:44](https://news.ycombinator.com/item?id=46657296) - [The 600-year-old origins of the word 'hello'](https://www.bbc.com/culture/article/20260113-hello-hiya-aloha-what-our-greetings-reveal)
 * [2026-01-17, 11:28:47](https://news.ycombinator.com/item?id=46657194) - [Fitdrop: Personal exploration of fashion from 1980 to 2025](https://fitdrop.cc/)
 * [2026-01-17, 11:18:49](https://news.ycombinator.com/item?id=46657141) - [Architecture for Disposable Systems](https://tuananh.net/2026/01/15/architecture-for-disposable-systems/)
