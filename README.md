@@ -2,6 +2,7 @@
 
 * [2026-01-17, 09:15:45](https://news.ycombinator.com/item?id=46656552) - [ClickHouse Acquires Langfuse](https://langfuse.com/blog/joining-clickhouse)
 * [2026-01-17, 08:48:26](https://news.ycombinator.com/item?id=46656373) - [Office app has changed to copilot and now I can't open files](https://old.reddit.com/r/Office365/comments/1q2b28q/office_app_has_changed_to_copilot_and_now_i_cant)
+* [2026-01-17, 08:46:08](https://news.ycombinator.com/item?id=46656358) - [Show HN: Streaming gigabyte medical images from S3 without downloading them](https://github.com/PABannier/WSIStreamer)
 * [2026-01-17, 07:43:21](https://news.ycombinator.com/item?id=46656100) - [Every data centre is a U.S. military base](https://www.policyalternatives.ca/news-research/every-data-centre-is-a-u-s-military-base/)
 * [2026-01-17, 07:29:18](https://news.ycombinator.com/item?id=46656045) - [The 'untouchable hacker god' behind Finland's biggest ever crime](https://www.theguardian.com/technology/2026/jan/17/vastaamo-hack-finland-therapy-notes)
 * [2026-01-17, 05:49:23](https://news.ycombinator.com/item?id=46655667) - [Meditation and Unconscious: A Buddhist Monk and a Neuroscientist (2022)](https://thereader.mitpress.mit.edu/meditation-and-the-unconscious-buddhism-neuroscience-conversation/)
@@ -27,7 +28,6 @@
 * [2026-01-14, 05:26:20](https://news.ycombinator.com/item?id=46612661) - [Beebo, a wave simulator written in C](https://git.sr.ht/~willowf/beebo/)
 * [2026-01-12, 16:12:27](https://news.ycombinator.com/item?id=46590404) - [Experts Warn of Growing Parrot Crisis in Canada](https://www.ctvnews.ca/ottawa/video/2026/01/06/experts-warn-of-growing-parrot-crisis-in-canada/)
 * [2026-01-12, 13:00:21](https://news.ycombinator.com/item?id=46587844) - [The five orders of ignorance (2000)](https://cacm.acm.org/opinion/the-five-orders-of-ignorance/)
-* [2026-01-12, 11:18:15](https://news.ycombinator.com/item?id=46586940) - [IKEA for Software](https://tommaso-girotto.co/blog/an-ikea-for-software)
 * [2026-01-11, 20:54:47](https://news.ycombinator.com/item?id=46579954) - [Elasticsearch was never a database](https://www.paradedb.com/blog/elasticsearch-was-never-a-database)
 * [2026-01-11, 04:37:30](https://news.ycombinator.com/item?id=46572742) - [Which is \"Bouba\", and which is \"Kiki\"? [video]](https://www.youtube.com/watch?v=1TDIAObsqcs)
 
