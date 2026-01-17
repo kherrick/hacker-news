@@ -19,7 +19,7 @@
 * [2026-01-16, 13:44:25](https://news.ycombinator.com/item?id=46646263) - [Michelangelo's first painting, created when he was 12 or 13](https://www.openculture.com/2026/01/discover-michelangelos-first-painting.html)
 * [2026-01-16, 13:39:31](https://news.ycombinator.com/item?id=46646226) - [Dev-owned testing: Why it fails in practice and succeeds in theory](https://dl.acm.org/doi/10.1145/3780063.3780066)
 * [2026-01-16, 12:58:24](https://news.ycombinator.com/item?id=46645941) - [Patching the Wii News Channel to serve local news (2025)](https://raulnegron.me/2025/wii-news-pr/)
-* [2026-01-16, 06:46:29](https://news.ycombinator.com/item?id=46643699) - [Local-only Marstek Venus e-battery integration with Home Assistant](https://du.nkel.dev/blog/2026-01-11_marstek-battery-homeassistant/)
+* [2026-01-16, 08:01:02](https://news.ycombinator.com/item?id=46644181) - [Interactive eBPF](https://ebpf.party/)
 * [2026-01-15, 18:54:10](https://news.ycombinator.com/item?id=46637322) - [Show HN: Tusk Drift – Turn production traffic into API tests](https://github.com/Use-Tusk/tusk-drift-cli)
 * [2026-01-15, 16:46:50](https://news.ycombinator.com/item?id=46635309) - [LLM Structured Outputs Handbook](https://nanonets.com/cookbooks/structured-llm-outputs)
 * [2026-01-15, 11:01:34](https://news.ycombinator.com/item?id=46630816) - [High-Level Is the Goal](https://bvisness.me/high-level/)
