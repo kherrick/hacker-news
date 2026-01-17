@@ -5,8 +5,10 @@
 ### [Archives](../../index.md) for [2026-01-17](index.md)
 
 * [2026-01-17, 17:03:33](https://news.ycombinator.com/item?id=46659651) - [Eight European countries face 10% tariff for opposing US control of Greenland](https://apnews.com/article/denmark-greenland-us-trump-4ad99ea3975a8b62d37bd04961feda55)
+* [2026-01-17, 16:53:24](https://news.ycombinator.com/item?id=46659550) - [An Elizabethan mansion's secrets for staying warm](https://www.bbc.com/future/article/20260116-an-elizabethan-mansions-secrets-for-staying-warm)
 * [2026-01-17, 16:44:45](https://news.ycombinator.com/item?id=46659465) - [Apples, Trees, and Quasimodes](https://systemstack.dev/2025/09/humane-computing/)
 * [2026-01-17, 16:43:59](https://news.ycombinator.com/item?id=46659456) - [The Resonant Computing Manifesto](https://resonantcomputing.org/)
+* [2026-01-17, 16:17:58](https://news.ycombinator.com/item?id=46659219) - [Why There's No Single Best Way to Store Information](https://www.quantamagazine.org/why-theres-no-single-best-way-to-store-information-20260116/)
 * [2026-01-17, 16:15:32](https://news.ycombinator.com/item?id=46659194) - [Escaping the trap of US tech dependence](https://disconnect.blog/escaping-the-trap-of-us-tech-dependence/)
 * [2026-01-17, 14:31:33](https://news.ycombinator.com/item?id=46658345) - [The recurring dream of replacing developers](https://www.caimito.net/en/blog/2025/12/07/the-recurring-dream-of-replacing-developers.html)
 * [2026-01-17, 14:13:11](https://news.ycombinator.com/item?id=46658213) - [What life is like in Minneapolis now](https://donmoynihan.substack.com/p/dispatch-from-the-occupation)
