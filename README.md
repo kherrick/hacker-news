@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-01-17, 04:10:15](https://news.ycombinator.com/item?id=46655147) - [Germany's shut down of nuclear plants a 'huge mistake', says Merz](https://brusselssignal.eu/2026/01/germanys-shut-down-of-nuclear-plants-a-huge-mistake-says-merz/)
+* [2026-01-17, 03:47:12](https://news.ycombinator.com/item?id=46655034) - [Gas Town is a glimpse into the future](https://johncodes.com/archive/2026/01-16-a-glimpse-into-the-future/)
 * [2026-01-17, 03:07:08](https://news.ycombinator.com/item?id=46654878) - [Crypto grifters are recruiting open-source AI developers](https://www.seangoedecke.com/gas-and-ralph/)
-* [2026-01-17, 02:29:07](https://news.ycombinator.com/item?id=46654726) - [Ask HN: Is it still worth pursuing a software startup?](https://news.ycombinator.com/item?id=46654726)
+* [2026-01-17, 02:35:28](https://news.ycombinator.com/item?id=46654749) - [Drone Hacking Part 1: Dumping Firmware and Bruteforcing ECC](https://neodyme.io/en/blog/drone_hacking_part_1/)
 * [2026-01-17, 00:32:24](https://news.ycombinator.com/item?id=46654085) - [Keifu – A TUI for navigating commit graphs with color and clarity](https://github.com/trasta298/keifu)
 * [2026-01-16, 23:46:17](https://news.ycombinator.com/item?id=46653721) - [FLUX.2 [Klein]: Towards Interactive Visual Intelligence](https://bfl.ai/blog/flux2-klein-towards-interactive-visual-intelligence)
 * [2026-01-16, 22:15:20](https://news.ycombinator.com/item?id=46652944) - [Install.md: A standard for LLM-executable installation](https://www.mintlify.com/blog/install-md-standard-for-llm-executable-installation)
