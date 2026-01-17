@@ -1,10 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-01-17, 10:13:57](https://news.ycombinator.com/item?id=46656834) - [Map To Poster – Create Art of your favourite city](https://github.com/originalankur/maptoposter)
 * [2026-01-17, 09:15:45](https://news.ycombinator.com/item?id=46656552) - [ClickHouse Acquires Langfuse](https://langfuse.com/blog/joining-clickhouse)
 * [2026-01-17, 08:46:08](https://news.ycombinator.com/item?id=46656358) - [Show HN: Streaming gigabyte medical images from S3 without downloading them](https://github.com/PABannier/WSIStreamer)
-* [2026-01-17, 07:29:18](https://news.ycombinator.com/item?id=46656045) - [The 'untouchable hacker god' behind Finland's biggest ever crime](https://www.theguardian.com/technology/2026/jan/17/vastaamo-hack-finland-therapy-notes)
 * [2026-01-17, 05:49:23](https://news.ycombinator.com/item?id=46655667) - [Meditation and Unconscious: A Buddhist Monk and a Neuroscientist (2022)](https://thereader.mitpress.mit.edu/meditation-and-the-unconscious-buddhism-neuroscience-conversation/)
-* [2026-01-17, 03:27:31](https://news.ycombinator.com/item?id=46654956) - [Artisanal Code](https://sunnyamrat.com/posts/2026-01-17-artisanal-code/)
 * [2026-01-17, 02:35:28](https://news.ycombinator.com/item?id=46654749) - [Drone Hacking Part 1: Dumping Firmware and Bruteforcing ECC](https://neodyme.io/en/blog/drone_hacking_part_1/)
 * [2026-01-17, 00:32:24](https://news.ycombinator.com/item?id=46654085) - [Keifu – A TUI for navigating commit graphs with color and clarity](https://github.com/trasta298/keifu)
 * [2026-01-16, 23:46:17](https://news.ycombinator.com/item?id=46653721) - [FLUX.2 [Klein]: Towards Interactive Visual Intelligence](https://bfl.ai/blog/flux2-klein-towards-interactive-visual-intelligence)
@@ -29,6 +28,7 @@
 * [2026-01-12, 16:12:27](https://news.ycombinator.com/item?id=46590404) - [Experts Warn of Growing Parrot Crisis in Canada](https://www.ctvnews.ca/ottawa/video/2026/01/06/experts-warn-of-growing-parrot-crisis-in-canada/)
 * [2026-01-12, 13:00:21](https://news.ycombinator.com/item?id=46587844) - [The five orders of ignorance (2000)](https://cacm.acm.org/opinion/the-five-orders-of-ignorance/)
 * [2026-01-11, 20:54:47](https://news.ycombinator.com/item?id=46579954) - [Elasticsearch was never a database](https://www.paradedb.com/blog/elasticsearch-was-never-a-database)
+* [2026-01-11, 15:10:16](https://news.ycombinator.com/item?id=46576367) - [Show HN: Fun things to do with your VM/370 machine](https://rbanffy.github.io/fun-with-old-mainframes.github.io/fun-with-vm370.html)
 * [2026-01-11, 04:37:30](https://news.ycombinator.com/item?id=46572742) - [Which is \"Bouba\", and which is \"Kiki\"? [video]](https://www.youtube.com/watch?v=1TDIAObsqcs)
 
 ## [Archives](archives/index.md)

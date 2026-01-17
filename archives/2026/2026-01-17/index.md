@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-01-17](index.md)
 
+* [2026-01-17, 10:13:57](https://news.ycombinator.com/item?id=46656834) - [Map To Poster – Create Art of your favourite city](https://github.com/originalankur/maptoposter)
 * [2026-01-17, 09:15:45](https://news.ycombinator.com/item?id=46656552) - [ClickHouse Acquires Langfuse](https://langfuse.com/blog/joining-clickhouse)
 * [2026-01-17, 08:48:26](https://news.ycombinator.com/item?id=46656373) - [Office app has changed to copilot and now I can't open files](https://old.reddit.com/r/Office365/comments/1q2b28q/office_app_has_changed_to_copilot_and_now_i_cant)
 * [2026-01-17, 08:46:08](https://news.ycombinator.com/item?id=46656358) - [Show HN: Streaming gigabyte medical images from S3 without downloading them](https://github.com/PABannier/WSIStreamer)
