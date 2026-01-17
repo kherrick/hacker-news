@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-01-17, 13:02:12",
+      "https://news.ycombinator.com/item?id=46657729"
+    ],
+    [
+      "Whistleblower drops 'largest ever' ICE leak to unmask agents",
+      "https://vechron.com/2026/01/whistleblower-drops-largest-ever-ice-leak-to-unmask-agents/"
+    ]
+  ],
+  [
+    [
       "2026-01-17, 11:51:44",
       "https://news.ycombinator.com/item?id=46657296"
     ],
@@ -41,22 +51,22 @@
   ],
   [
     [
-      "2026-01-17, 11:14:55",
-      "https://news.ycombinator.com/item?id=46657116"
-    ],
-    [
-      "Gut micro-organisms associated with health, nutrition and dietary intervention",
-      "https://www.nature.com/articles/s41586-025-09854-7?lid=t94o71j7gslg"
-    ]
-  ],
-  [
-    [
       "2026-01-17, 11:09:36",
       "https://news.ycombinator.com/item?id=46657088"
     ],
     [
       "AV1 Image File Format Specification Gets an Upgrade with AVIF v1.2.0",
       "https://aomedia.org/blog%20posts/AV1-Image-File-Format-Specification-Gets-an-Upgrade-with-AVIF/"
+    ]
+  ],
+  [
+    [
+      "2026-01-17, 10:51:19",
+      "https://news.ycombinator.com/item?id=46656998"
+    ],
+    [
+      "PCs refuse to shut down after Microsoft patch",
+      "https://www.theregister.com/2026/01/16/patch_tuesday_secure_launch_bug_no_shutdown/"
     ]
   ],
   [
@@ -111,6 +121,16 @@
   ],
   [
     [
+      "2026-01-17, 07:29:18",
+      "https://news.ycombinator.com/item?id=46656045"
+    ],
+    [
+      "The 'untouchable hacker god' behind Finland's biggest ever crime",
+      "https://www.theguardian.com/technology/2026/jan/17/vastaamo-hack-finland-therapy-notes"
+    ]
+  ],
+  [
+    [
       "2026-01-17, 02:35:28",
       "https://news.ycombinator.com/item?id=46654749"
     ],
@@ -121,12 +141,12 @@
   ],
   [
     [
-      "2026-01-17, 00:32:24",
-      "https://news.ycombinator.com/item?id=46654085"
+      "2026-01-17, 02:29:07",
+      "https://news.ycombinator.com/item?id=46654726"
     ],
     [
-      "Keifu – A TUI for navigating commit graphs with color and clarity",
-      "https://github.com/trasta298/keifu"
+      "Ask HN: Is it still worth pursuing a software startup?",
+      "https://news.ycombinator.com/item?id=46654726"
     ]
   ],
   [
@@ -271,32 +291,12 @@
   ],
   [
     [
-      "2026-01-12, 13:00:21",
-      "https://news.ycombinator.com/item?id=46587844"
-    ],
-    [
-      "The five orders of ignorance (2000)",
-      "https://cacm.acm.org/opinion/the-five-orders-of-ignorance/"
-    ]
-  ],
-  [
-    [
       "2026-01-11, 18:07:08",
       "https://news.ycombinator.com/item?id=46577968"
     ],
     [
       "Finding and Fixing a 50k Goroutine Leak That Nearly Killed Production",
       "https://skoredin.pro/blog/golang/goroutine-leak-debugging"
-    ]
-  ],
-  [
-    [
-      "2026-01-11, 04:37:30",
-      "https://news.ycombinator.com/item?id=46572742"
-    ],
-    [
-      "Which is \"Bouba\", and which is \"Kiki\"? [video]",
-      "https://www.youtube.com/watch?v=1TDIAObsqcs"
     ]
   ]
 ]
