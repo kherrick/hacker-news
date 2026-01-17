@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-01-17, 17:29:31](https://news.ycombinator.com/item?id=46659913) - [2025 was the third hottest year on record](https://www.economist.com/science-and-technology/2026/01/14/2025-was-the-third-hottest-year-on-record)
 * [2026-01-17, 16:53:24](https://news.ycombinator.com/item?id=46659550) - [An Elizabethan mansion's secrets for staying warm](https://www.bbc.com/future/article/20260116-an-elizabethan-mansions-secrets-for-staying-warm)
 * [2026-01-17, 16:43:59](https://news.ycombinator.com/item?id=46659456) - [The Resonant Computing Manifesto](https://resonantcomputing.org/)
 * [2026-01-17, 16:17:58](https://news.ycombinator.com/item?id=46659219) - [Why There's No Single Best Way to Store Information](https://www.quantamagazine.org/why-theres-no-single-best-way-to-store-information-20260116/)
@@ -18,7 +19,6 @@
 * [2026-01-17, 08:46:08](https://news.ycombinator.com/item?id=46656358) - [Show HN: Streaming gigabyte medical images from S3 without downloading them](https://github.com/PABannier/WSIStreamer)
 * [2026-01-17, 07:29:18](https://news.ycombinator.com/item?id=46656045) - [The 'untouchable hacker god' behind Finland's biggest crime](https://www.theguardian.com/technology/2026/jan/17/vastaamo-hack-finland-therapy-notes)
 * [2026-01-17, 05:20:20](https://news.ycombinator.com/item?id=46655524) - [Counterfactual evaluation for recommendation systems](https://eugeneyan.com/writing/counterfactual-evaluation/)
-* [2026-01-17, 02:35:28](https://news.ycombinator.com/item?id=46654749) - [Drone Hacking Part 1: Dumping Firmware and Bruteforcing ECC](https://neodyme.io/en/blog/drone_hacking_part_1/)
 * [2026-01-16, 23:46:17](https://news.ycombinator.com/item?id=46653721) - [FLUX.2 [Klein]: Towards Interactive Visual Intelligence](https://bfl.ai/blog/flux2-klein-towards-interactive-visual-intelligence)
 * [2026-01-16, 17:16:33](https://news.ycombinator.com/item?id=46648916) - [East Germany balloon escape](https://en.wikipedia.org/wiki/East_Germany_balloon_escape)
 * [2026-01-16, 15:37:19](https://news.ycombinator.com/item?id=46647491) - [6-Day and IP Address Certificates Are Generally Available](https://letsencrypt.org/2026/01/15/6day-and-ip-general-availability)
