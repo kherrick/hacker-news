@@ -13,7 +13,6 @@
 * [2026-01-17, 14:31:33](https://news.ycombinator.com/item?id=46658345) - [The recurring dream of replacing developers](https://www.caimito.net/en/blog/2025/12/07/the-recurring-dream-of-replacing-developers.html)
 * [2026-01-17, 11:51:44](https://news.ycombinator.com/item?id=46657296) - [The 600-year-old origins of the word 'hello'](https://www.bbc.com/culture/article/20260113-hello-hiya-aloha-what-our-greetings-reveal)
 * [2026-01-17, 11:15:26](https://news.ycombinator.com/item?id=46657122) - [ASCII characters are not pixels: a deep dive into ASCII rendering](https://alexharri.com/blog/ascii-rendering)
-* [2026-01-17, 10:28:06](https://news.ycombinator.com/item?id=46656903) - [US electricity demand surged in 2025 – solar handled 61% of it](https://electrek.co/2026/01/16/us-electricity-demand-surged-in-2025-solar-handled-61-percent/)
 * [2026-01-17, 10:13:57](https://news.ycombinator.com/item?id=46656834) - [Map To Poster – Create Art of your favourite city](https://github.com/originalankur/maptoposter)
 * [2026-01-17, 09:55:56](https://news.ycombinator.com/item?id=46656759) - [Show HN: I built a tool to assist AI agents to know when a PR is good to go](https://dsifry.github.io/goodtogo/)
 * [2026-01-17, 09:15:45](https://news.ycombinator.com/item?id=46656552) - [ClickHouse acquires Langfuse](https://langfuse.com/blog/joining-clickhouse)
@@ -30,6 +29,7 @@
 * [2026-01-12, 03:56:07](https://news.ycombinator.com/item?id=46583914) - [16 Best Practices for Reducing Dependabot Noise](https://nesbitt.io/2026/01/10/16-best-practices-for-reducing-dependabot-noise.html)
 * [2026-01-11, 18:58:19](https://news.ycombinator.com/item?id=46578601) - [M8SBC-486 (Homebrew 486 computer)](https://maniek86.xyz/projects/m8sbc_486.php)
 * [2026-01-11, 15:33:04](https://news.ycombinator.com/item?id=46576581) - [The Olivetti Company – By Bradford Morgan White](https://www.abortretry.fail/p/the-olivetti-company)
+* [2026-01-11, 14:36:13](https://news.ycombinator.com/item?id=46576091) - [Below the Surface: Archeological Finds from the Amsterdam Noord/Zuid Metro Line](https://belowthesurface.amsterdam/en/vondsten)
 
 ## [Archives](archives/index.md)
 
