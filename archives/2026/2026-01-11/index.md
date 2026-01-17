@@ -34,6 +34,7 @@
 * [2026-01-11, 18:49:32](https://news.ycombinator.com/item?id=46578497) - [Meta Announces Nuclear Energy Projects, Unlocking Up to 6.6 GW](https://about.fb.com/news/2026/01/meta-nuclear-energy-projects-power-american-ai-leadership/)
 * [2026-01-11, 18:41:31](https://news.ycombinator.com/item?id=46578390) - [Pigeon's Device](http://pigeonsnest.co.uk/stuff/pigeons-device.html)
 * [2026-01-11, 18:37:10](https://news.ycombinator.com/item?id=46578339) - [Are We ... Yet?](https://wiki.mozilla.org/Areweyet)
+* [2026-01-11, 18:07:08](https://news.ycombinator.com/item?id=46577968) - [Finding and Fixing a 50k Goroutine Leak That Nearly Killed Production](https://skoredin.pro/blog/golang/goroutine-leak-debugging)
 * [2026-01-11, 17:56:59](https://news.ycombinator.com/item?id=46577869) - ['F*ck You, Make Me' Without Saying the Words](https://daringfireball.net/2026/01/fuck_you_make_me_without_saying_the_words)
 * [2026-01-11, 17:13:18](https://news.ycombinator.com/item?id=46577526) - [Show HN: Interactive California Budget (by Claude Code)](https://california-budget.com)
 * [2026-01-11, 17:05:52](https://news.ycombinator.com/item?id=46577464) - [Poison Fountain](https://rnsaffn.com/poison3/)
