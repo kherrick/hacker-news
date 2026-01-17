@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-01-17, 02:30:28](https://news.ycombinator.com/item?id=46654728) - [Plunging US Birth Rate Leaves Too Many Colleges with Too Few Kids](https://www.bloomberg.com/graphics/2026-college-enrollment-cliff/)
 * [2026-01-17, 00:32:24](https://news.ycombinator.com/item?id=46654085) - [Keifu – A TUI for navigating commit graphs with color and clarity](https://github.com/trasta298/keifu)
 * [2026-01-16, 23:46:17](https://news.ycombinator.com/item?id=46653721) - [FLUX.2 [Klein]: Towards Interactive Visual Intelligence](https://bfl.ai/blog/flux2-klein-towards-interactive-visual-intelligence)
 * [2026-01-16, 22:49:04](https://news.ycombinator.com/item?id=46653270) - [Re: Mix: open-source repairable blender](https://github.com/openfunkHQ/reMix)
@@ -22,13 +23,12 @@
 * [2026-01-16, 12:58:24](https://news.ycombinator.com/item?id=46645941) - [Patching the Wii News Channel to serve local news (2025)](https://raulnegron.me/2025/wii-news-pr/)
 * [2026-01-16, 12:03:52](https://news.ycombinator.com/item?id=46645615) - [Just the Browser](https://justthebrowser.com/)
 * [2026-01-16, 10:57:38](https://news.ycombinator.com/item?id=46645176) - [Why DuckDB is my first choice for data processing](https://www.robinlinacre.com/recommend_duckdb/)
-* [2026-01-15, 19:20:48](https://news.ycombinator.com/item?id=46637723) - [Show HN: 1Code – Open-source Cursor-like UI for Claude Code](https://github.com/21st-dev/1code)
+* [2026-01-16, 08:01:02](https://news.ycombinator.com/item?id=46644181) - [Interactive eBPF](https://ebpf.party/)
 * [2026-01-15, 16:46:50](https://news.ycombinator.com/item?id=46635309) - [LLM Structured Outputs Handbook](https://nanonets.com/cookbooks/structured-llm-outputs)
 * [2026-01-15, 11:01:34](https://news.ycombinator.com/item?id=46630816) - [High-Level Is the Goal](https://bvisness.me/high-level/)
 * [2026-01-14, 16:29:50](https://news.ycombinator.com/item?id=46618105) - [HTTP RateLimit Headers](https://dotat.at/@/2026-01-13-http-ratelimit.html)
-* [2026-01-13, 17:07:17](https://news.ycombinator.com/item?id=46603947) - [An Ode to the Return of Wysiwyg](https://jeffverkoeyen.com/blog/2026/01/13/WYSIWYG/)
+* [2026-01-12, 16:12:27](https://news.ycombinator.com/item?id=46590404) - [Experts Warn of Growing Parrot Crisis in Canada](https://www.ctvnews.ca/ottawa/video/2026/01/06/experts-warn-of-growing-parrot-crisis-in-canada/)
 * [2026-01-12, 13:42:42](https://news.ycombinator.com/item?id=46588379) - [Lock-Picking Robot](https://github.com/etinaude/Lock-Picking-Robot)
-* [2026-01-12, 03:11:49](https://news.ycombinator.com/item?id=46583581) - [Show HN: B-IR – An LLM-optimized programming language](https://github.com/ImJasonH/ImJasonH/blob/main/articles/llm-programming-language.md)
 * [2026-01-11, 20:54:47](https://news.ycombinator.com/item?id=46579954) - [Elasticsearch was never a database](https://www.paradedb.com/blog/elasticsearch-was-never-a-database)
 
 ## [Archives](archives/index.md)
