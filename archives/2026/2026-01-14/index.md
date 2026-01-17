@@ -82,6 +82,7 @@
 * [2026-01-14, 06:14:26](https://news.ycombinator.com/item?id=46612919) - [First impressions of Claude Cowork](https://simonw.substack.com/p/first-impressions-of-claude-cowork)
 * [2026-01-14, 05:38:08](https://news.ycombinator.com/item?id=46612727) - [Bringing the Predators to Life in MAME](https://lysiwyg.mataroa.blog/blog/bringing-the-predators-to-life-in-mame/)
 * [2026-01-14, 05:35:20](https://news.ycombinator.com/item?id=46612711) - [The <Geolocation> HTML Element](https://developer.chrome.com/blog/geolocation-html-element)
+* [2026-01-14, 05:26:20](https://news.ycombinator.com/item?id=46612661) - [Beebo, a wave simulator written in C](https://git.sr.ht/~willowf/beebo/)
 * [2026-01-14, 04:55:04](https://news.ycombinator.com/item?id=46612494) - [Show HN: OpenWork – an open-source alternative to Claude Cowork](https://github.com/different-ai/openwork)
 * [2026-01-14, 03:35:35](https://news.ycombinator.com/item?id=46612001) - [AI will compromise your cybersecurity posture](https://rys.io/en/181.html)
 * [2026-01-14, 03:08:37](https://news.ycombinator.com/item?id=46611823) - [1000 Blank White Cards](https://en.wikipedia.org/wiki/1000_Blank_White_Cards)
