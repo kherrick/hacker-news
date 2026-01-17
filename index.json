@@ -1,22 +1,42 @@
 [
   [
     [
-      "2026-01-16, 23:35:58",
-      "https://news.ycombinator.com/item?id=46653653"
+      "2026-01-17, 00:32:24",
+      "https://news.ycombinator.com/item?id=46654085"
     ],
     [
-      "Left in the cold: Study finds most renters shut out of energy-saving upgrades",
-      "https://www.binghamton.edu/news/story/6011/left-in-the-cold-study-finds-most-renters-shut-out-of-energy-saving-upgrades"
+      "Keifu – A TUI for navigating commit graphs with color and clarity",
+      "https://github.com/trasta298/keifu"
     ]
   ],
   [
     [
-      "2026-01-16, 22:13:18",
-      "https://news.ycombinator.com/item?id=46652914"
+      "2026-01-16, 23:46:17",
+      "https://news.ycombinator.com/item?id=46653721"
     ],
     [
-      "Drawbot: Let's hack something cute (2025)",
-      "https://www.atredis.com/blog/2025/9/30/drawbot-lets-hack-something-cute"
+      "FLUX.2 [Klein]: Towards Interactive Visual Intelligence",
+      "https://bfl.ai/blog/flux2-klein-towards-interactive-visual-intelligence"
+    ]
+  ],
+  [
+    [
+      "2026-01-16, 22:49:04",
+      "https://news.ycombinator.com/item?id=46653270"
+    ],
+    [
+      "Re: Mix: open-source repairable blender",
+      "https://github.com/openfunkHQ/reMix"
+    ]
+  ],
+  [
+    [
+      "2026-01-16, 22:15:20",
+      "https://news.ycombinator.com/item?id=46652944"
+    ],
+    [
+      "Install.md: A standard for LLM-executable installation",
+      "https://www.mintlify.com/blog/install-md-standard-for-llm-executable-installation"
     ]
   ],
   [
@@ -51,12 +71,12 @@
   ],
   [
     [
-      "2026-01-16, 18:02:19",
-      "https://news.ycombinator.com/item?id=46649577"
+      "2026-01-16, 17:56:03",
+      "https://news.ycombinator.com/item?id=46649489"
     ],
     [
-      "Our approach to advertising",
-      "https://openai.com/index/our-approach-to-advertising-and-expanding-access/"
+      "Emoji Use in the Electronic Health Record is Increasing",
+      "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2843883"
     ]
   ],
   [
@@ -77,6 +97,16 @@
     [
       "East Germany balloon escape",
       "https://en.wikipedia.org/wiki/East_Germany_balloon_escape"
+    ]
+  ],
+  [
+    [
+      "2026-01-16, 17:14:15",
+      "https://news.ycombinator.com/item?id=46648885"
+    ],
+    [
+      "Dell UltraSharp 52 Thunderbolt Hub Monitor",
+      "https://www.dell.com/en-us/shop/dell-ultrasharp-52-thunderbolt-hub-monitor-u5226kw/apd/210-bthw/monitors-monitor-accessories"
     ]
   ],
   [
@@ -191,16 +221,6 @@
   ],
   [
     [
-      "2026-01-15, 23:56:26",
-      "https://news.ycombinator.com/item?id=46641216"
-    ],
-    [
-      "The Alignment Game (2023)",
-      "https://dmvaldman.github.io/alignment-game/"
-    ]
-  ],
-  [
-    [
       "2026-01-15, 19:20:48",
       "https://news.ycombinator.com/item?id=46637723"
     ],
@@ -221,22 +241,12 @@
   ],
   [
     [
-      "2026-01-15, 16:11:45",
-      "https://news.ycombinator.com/item?id=46634697"
+      "2026-01-15, 11:01:34",
+      "https://news.ycombinator.com/item?id=46630816"
     ],
     [
-      "We Gave Our Browser Agent a 3MB Data Warehouse",
-      "https://100x.bot/a/we-gave-our-browser-agent-a-3mb-data-warehouse"
-    ]
-  ],
-  [
-    [
-      "2026-01-15, 13:19:22",
-      "https://news.ycombinator.com/item?id=46632057"
-    ],
-    [
-      "Independent Guest Virtual Machine (IGVM) File Format",
-      "https://github.com/microsoft/igvm"
+      "High-Level Is the Goal",
+      "https://bvisness.me/high-level/"
     ]
   ],
   [
@@ -261,32 +271,22 @@
   ],
   [
     [
-      "2026-01-13, 05:04:25",
-      "https://news.ycombinator.com/item?id=46597469"
-    ],
-    [
-      "CLI's completion should know what options you've typed",
-      "https://hackers.pub/@hongminhee/2026/optique-context-aware-cli-completion"
-    ]
-  ],
-  [
-    [
-      "2026-01-12, 14:24:16",
-      "https://news.ycombinator.com/item?id=46588915"
-    ],
-    [
-      "Brain: PC virus [audio]",
-      "https://www.bbc.com/audio/play/w3ct7479"
-    ]
-  ],
-  [
-    [
       "2026-01-12, 13:42:42",
       "https://news.ycombinator.com/item?id=46588379"
     ],
     [
       "Lock-Picking Robot",
       "https://github.com/etinaude/Lock-Picking-Robot"
+    ]
+  ],
+  [
+    [
+      "2026-01-12, 03:11:49",
+      "https://news.ycombinator.com/item?id=46583581"
+    ],
+    [
+      "Show HN: B-IR – An LLM-optimized programming language",
+      "https://github.com/ImJasonH/ImJasonH/blob/main/articles/llm-programming-language.md"
     ]
   ],
   [
