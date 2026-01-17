@@ -52,6 +52,7 @@
 * [2026-01-12, 13:42:42](https://news.ycombinator.com/item?id=46588379) - [Lock-Picking Robot](https://github.com/etinaude/Lock-Picking-Robot)
 * [2026-01-12, 13:38:36](https://news.ycombinator.com/item?id=46588319) - [Ireland fast tracks Bill to criminalise harmful voice or image misuse](https://www.irishtimes.com/ireland/2026/01/07/call-to-fast-track-bill-targeting-ai-deepfakes-and-identity-hijacking/)
 * [2026-01-12, 13:32:42](https://news.ycombinator.com/item?id=46588243) - [Go-legacy-winxp: Compile Golang 1.24 code for Windows XP](https://github.com/syncguy/go-legacy-winxp/tree/winxp-compat)
+* [2026-01-12, 13:30:05](https://news.ycombinator.com/item?id=46588210) - [Post-PARA: What survived 4 years of real use](https://cortwave.github.io/posts/post-para/)
 * [2026-01-12, 13:22:44](https://news.ycombinator.com/item?id=46588132) - [Windows 8 Desktop Environment for Linux](https://github.com/er-bharat/Win8DE)
 * [2026-01-12, 13:16:10](https://news.ycombinator.com/item?id=46588032) - [Show HN: Seapie – a Python debugger where breakpoints drop into a REPL](https://github.com/hirsimaki-markus/seapie)
 * [2026-01-12, 13:07:49](https://news.ycombinator.com/item?id=46587934) - [Floppy disks turn out to be the greatest TV remote for kids](https://blog.smartere.dk/2026/01/floppy-disks-the-best-tv-remote-for-kids/)
