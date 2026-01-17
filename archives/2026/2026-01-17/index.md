@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-01-17](index.md)
 
+* [2026-01-17, 20:44:52](https://news.ycombinator.com/item?id=46661897) - [A programming language based on grammatical cases of Turkish](https://github.com/kip-dili/kip)
 * [2026-01-17, 19:39:36](https://news.ycombinator.com/item?id=46661308) - [Show HN: Minikv – Distributed key-value and object store in Rust (Raft, S3 API)](https://github.com/whispem/minikv)
 * [2026-01-17, 19:31:15](https://news.ycombinator.com/item?id=46661231) - [OpenAI to test ads in ChatGPT as it burns through billions](https://arstechnica.com/information-technology/2026/01/openai-to-test-ads-in-chatgpt-as-it-burns-through-billions/)
 * [2026-01-17, 19:29:04](https://news.ycombinator.com/item?id=46661217) - [Canada's deal with China signals it is serious about shift from US](https://www.bbc.com/news/articles/cm24k6kk1rko)
