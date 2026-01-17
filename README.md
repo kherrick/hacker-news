@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-01-17, 13:02:12](https://news.ycombinator.com/item?id=46657729) - [Whistleblower drops 'largest ever' ICE leak to unmask agents](https://vechron.com/2026/01/whistleblower-drops-largest-ever-ice-leak-to-unmask-agents/)
 * [2026-01-17, 11:51:44](https://news.ycombinator.com/item?id=46657296) - [The 600-year-old origins of the word 'hello'](https://www.bbc.com/culture/article/20260113-hello-hiya-aloha-what-our-greetings-reveal)
 * [2026-01-17, 11:28:47](https://news.ycombinator.com/item?id=46657194) - [Fitdrop: Personal exploration of fashion from 1980 to 2025](https://fitdrop.cc/)
 * [2026-01-17, 11:18:49](https://news.ycombinator.com/item?id=46657141) - [Architecture for Disposable Systems](https://tuananh.net/2026/01/15/architecture-for-disposable-systems/)
@@ -28,6 +27,7 @@
 * [2026-01-15, 16:46:50](https://news.ycombinator.com/item?id=46635309) - [LLM Structured Outputs Handbook](https://nanonets.com/cookbooks/structured-llm-outputs)
 * [2026-01-15, 11:01:34](https://news.ycombinator.com/item?id=46630816) - [High-Level Is the Goal](https://bvisness.me/high-level/)
 * [2026-01-14, 12:01:08](https://news.ycombinator.com/item?id=46615084) - [Lies, Damned Lies and Proofs: Formal Methods Are Not Slopless](https://www.lesswrong.com/posts/rhAPh3YzhPoBNpgHg/lies-damned-lies-and-proofs-formal-methods-are-not-slopless)
+* [2026-01-12, 20:11:19](https://news.ycombinator.com/item?id=46593556) - [Sergei Fedorov's Escape from Soviet Union Helped Save Red Wings (2020)](https://www.freep.com/story/sports/nhl/red-wings/2026/01/12/sergei-fedorov-detroit-red-wings-russian-5/88035492007/)
 * [2026-01-12, 13:30:05](https://news.ycombinator.com/item?id=46588210) - [Post-PARA: What survived 4 years of real use](https://cortwave.github.io/posts/post-para/)
 * [2026-01-11, 18:07:08](https://news.ycombinator.com/item?id=46577968) - [Finding and Fixing a 50k Goroutine Leak That Nearly Killed Production](https://skoredin.pro/blog/golang/goroutine-leak-debugging)
 
