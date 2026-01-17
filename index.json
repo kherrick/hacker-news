@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-01-17, 11:51:44",
+      "https://news.ycombinator.com/item?id=46657296"
+    ],
+    [
+      "The 600-year-old origins of the word 'hello'",
+      "https://www.bbc.com/culture/article/20260113-hello-hiya-aloha-what-our-greetings-reveal"
+    ]
+  ],
+  [
+    [
+      "2026-01-17, 11:18:49",
+      "https://news.ycombinator.com/item?id=46657141"
+    ],
+    [
+      "Architecture for Disposable Systems",
+      "https://tuananh.net/2026/01/15/architecture-for-disposable-systems/"
+    ]
+  ],
+  [
+    [
       "2026-01-17, 11:15:26",
       "https://news.ycombinator.com/item?id=46657122"
     ],
@@ -17,6 +37,16 @@
     [
       "Gut micro-organisms associated with health, nutrition and dietary intervention",
       "https://www.nature.com/articles/s41586-025-09854-7?lid=t94o71j7gslg"
+    ]
+  ],
+  [
+    [
+      "2026-01-17, 11:09:36",
+      "https://news.ycombinator.com/item?id=46657088"
+    ],
+    [
+      "AV1 Image File Format Specification Gets an Upgrade with AVIF v1.2.0",
+      "https://aomedia.org/blog%20posts/AV1-Image-File-Format-Specification-Gets-an-Upgrade-with-AVIF/"
     ]
   ],
   [
@@ -65,7 +95,7 @@
       "https://news.ycombinator.com/item?id=46656552"
     ],
     [
-      "ClickHouse Acquires Langfuse",
+      "ClickHouse acquires langfuse",
       "https://langfuse.com/blog/joining-clickhouse"
     ]
   ],
@@ -107,16 +137,6 @@
     [
       "FLUX.2 [Klein]: Towards Interactive Visual Intelligence",
       "https://bfl.ai/blog/flux2-klein-towards-interactive-visual-intelligence"
-    ]
-  ],
-  [
-    [
-      "2026-01-16, 23:03:34",
-      "https://news.ycombinator.com/item?id=46653388"
-    ],
-    [
-      "The Dilbert Afterlife",
-      "https://www.astralcodexten.com/p/the-dilbert-afterlife"
     ]
   ],
   [
@@ -201,6 +221,16 @@
   ],
   [
     [
+      "2026-01-16, 14:09:32",
+      "https://news.ycombinator.com/item?id=46646475"
+    ],
+    [
+      "The Dilbert Afterlife",
+      "https://www.astralcodexten.com/p/the-dilbert-afterlife"
+    ]
+  ],
+  [
+    [
       "2026-01-16, 12:58:24",
       "https://news.ycombinator.com/item?id=46645941"
     ],
@@ -231,32 +261,12 @@
   ],
   [
     [
-      "2026-01-14, 16:29:50",
-      "https://news.ycombinator.com/item?id=46618105"
-    ],
-    [
-      "HTTP RateLimit Headers",
-      "https://dotat.at/@/2026-01-13-http-ratelimit.html"
-    ]
-  ],
-  [
-    [
       "2026-01-14, 12:01:08",
       "https://news.ycombinator.com/item?id=46615084"
     ],
     [
       "Lies, Damned Lies and Proofs: Formal Methods Are Not Slopless",
       "https://www.lesswrong.com/posts/rhAPh3YzhPoBNpgHg/lies-damned-lies-and-proofs-formal-methods-are-not-slopless"
-    ]
-  ],
-  [
-    [
-      "2026-01-14, 05:26:20",
-      "https://news.ycombinator.com/item?id=46612661"
-    ],
-    [
-      "Beebo, a wave simulator written in C",
-      "https://git.sr.ht/~willowf/beebo/"
     ]
   ],
   [
@@ -277,16 +287,6 @@
     [
       "The five orders of ignorance (2000)",
       "https://cacm.acm.org/opinion/the-five-orders-of-ignorance/"
-    ]
-  ],
-  [
-    [
-      "2026-01-11, 15:10:16",
-      "https://news.ycombinator.com/item?id=46576367"
-    ],
-    [
-      "Show HN: Fun things to do with your VM/370 machine",
-      "https://rbanffy.github.io/fun-with-old-mainframes.github.io/fun-with-vm370.html"
     ]
   ],
   [
