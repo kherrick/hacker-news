@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2026-01-17, 11:28:47",
+      "https://news.ycombinator.com/item?id=46657194"
+    ],
+    [
+      "Fitdrop: Personal exploration of fashion from 1980 to 2025",
+      "https://fitdrop.cc/"
+    ]
+  ],
+  [
+    [
       "2026-01-17, 11:18:49",
       "https://news.ycombinator.com/item?id=46657141"
     ],
@@ -51,16 +61,6 @@
   ],
   [
     [
-      "2026-01-17, 10:51:19",
-      "https://news.ycombinator.com/item?id=46656998"
-    ],
-    [
-      "PCs refuse to shut down after Microsoft patch",
-      "https://www.theregister.com/2026/01/16/patch_tuesday_secure_launch_bug_no_shutdown/"
-    ]
-  ],
-  [
-    [
       "2026-01-17, 10:29:35",
       "https://news.ycombinator.com/item?id=46656911"
     ],
@@ -95,7 +95,7 @@
       "https://news.ycombinator.com/item?id=46656552"
     ],
     [
-      "ClickHouse acquires langfuse",
+      "ClickHouse acquires Langfuse",
       "https://langfuse.com/blog/joining-clickhouse"
     ]
   ],
@@ -231,16 +231,6 @@
   ],
   [
     [
-      "2026-01-16, 12:58:24",
-      "https://news.ycombinator.com/item?id=46645941"
-    ],
-    [
-      "Patching the Wii News Channel to serve local news (2025)",
-      "https://raulnegron.me/2025/wii-news-pr/"
-    ]
-  ],
-  [
-    [
       "2026-01-15, 16:46:50",
       "https://news.ycombinator.com/item?id=46635309"
     ],
@@ -287,6 +277,16 @@
     [
       "The five orders of ignorance (2000)",
       "https://cacm.acm.org/opinion/the-five-orders-of-ignorance/"
+    ]
+  ],
+  [
+    [
+      "2026-01-11, 18:07:08",
+      "https://news.ycombinator.com/item?id=46577968"
+    ],
+    [
+      "Finding and Fixing a 50k Goroutine Leak That Nearly Killed Production",
+      "https://skoredin.pro/blog/golang/goroutine-leak-debugging"
     ]
   ],
   [
