@@ -1,16 +1,6 @@
 [
   [
     [
-      "2026-01-17, 03:07:08",
-      "https://news.ycombinator.com/item?id=46654878"
-    ],
-    [
-      "Crypto grifters are recruiting open-source AI developers",
-      "https://www.seangoedecke.com/gas-and-ralph/"
-    ]
-  ],
-  [
-    [
       "2026-01-17, 02:35:28",
       "https://news.ycombinator.com/item?id=46654749"
     ],
@@ -57,6 +47,16 @@
     [
       "Releasing rainbow tables to accelerate Net-NTLMv1 protocol deprecation",
       "https://cloud.google.com/blog/topics/threat-intelligence/net-ntlmv1-deprecation-rainbow-tables"
+    ]
+  ],
+  [
+    [
+      "2026-01-16, 20:03:10",
+      "https://news.ycombinator.com/item?id=46651443"
+    ],
+    [
+      "Slop is everywhere for those with eyes to see",
+      "https://www.fromjason.xyz/p/notebook/slop-is-everywhere-for-those-with-eyes-to-see/"
     ]
   ],
   [
@@ -111,16 +111,6 @@
   ],
   [
     [
-      "2026-01-16, 17:00:29",
-      "https://news.ycombinator.com/item?id=46648714"
-    ],
-    [
-      "Zep AI (Agent Context Engineering, YC W24) Is Hiring Forward Deployed Engineers",
-      "https://www.ycombinator.com/companies/zep-ai/jobs/"
-    ]
-  ],
-  [
-    [
       "2026-01-16, 16:20:21",
       "https://news.ycombinator.com/item?id=46648144"
     ],
@@ -167,6 +157,16 @@
     [
       "Michelangelo's first painting, created when he was 12 or 13",
       "https://www.openculture.com/2026/01/discover-michelangelos-first-painting.html"
+    ]
+  ],
+  [
+    [
+      "2026-01-16, 13:39:31",
+      "https://news.ycombinator.com/item?id=46646226"
+    ],
+    [
+      "Dev-owned testing: Why it fails in practice and succeeds in theory",
+      "https://dl.acm.org/doi/10.1145/3780063.3780066"
     ]
   ],
   [
