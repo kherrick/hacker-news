@@ -19,7 +19,6 @@
 * [2026-01-16, 23:46:17](https://news.ycombinator.com/item?id=46653721) - [FLUX.2 [Klein]: Towards Interactive Visual Intelligence](https://bfl.ai/blog/flux2-klein-towards-interactive-visual-intelligence)
 * [2026-01-16, 21:42:24](https://news.ycombinator.com/item?id=46652617) - [Releasing rainbow tables to accelerate Net-NTLMv1 protocol deprecation](https://cloud.google.com/blog/topics/threat-intelligence/net-ntlmv1-deprecation-rainbow-tables)
 * [2026-01-16, 17:16:33](https://news.ycombinator.com/item?id=46648916) - [East Germany balloon escape](https://en.wikipedia.org/wiki/East_Germany_balloon_escape)
-* [2026-01-16, 17:14:15](https://news.ycombinator.com/item?id=46648885) - [Dell UltraSharp 52 Thunderbolt Hub Monitor](https://www.dell.com/en-us/shop/dell-ultrasharp-52-thunderbolt-hub-monitor-u5226kw/apd/210-bthw/monitors-monitor-accessories)
 * [2026-01-16, 15:37:19](https://news.ycombinator.com/item?id=46647491) - [6-Day and IP Address Certificates Are Generally Available](https://letsencrypt.org/2026/01/15/6day-and-ip-general-availability)
 * [2026-01-16, 14:37:49](https://news.ycombinator.com/item?id=46646777) - [Cursor's latest “browser experiment” implied success without evidence](https://embedding-shapes.github.io/cursor-implied-success-without-evidence/)
 * [2026-01-16, 14:25:54](https://news.ycombinator.com/item?id=46646645) - [Cloudflare acquires Astro](https://astro.build/blog/joining-cloudflare/)
@@ -29,6 +28,7 @@
 * [2026-01-14, 12:01:08](https://news.ycombinator.com/item?id=46615084) - [Lies, Damned Lies and Proofs: Formal Methods Are Not Slopless](https://www.lesswrong.com/posts/rhAPh3YzhPoBNpgHg/lies-damned-lies-and-proofs-formal-methods-are-not-slopless)
 * [2026-01-13, 17:14:14](https://news.ycombinator.com/item?id=46604067) - [Show HN: Microwave – Native iOS app for videos on ATproto](https://testflight.apple.com/join/cVxV1W3g)
 * [2026-01-12, 20:11:19](https://news.ycombinator.com/item?id=46593556) - [Sergei Fedorov's Escape from Soviet Union Helped Save Red Wings (2020)](https://www.freep.com/story/sports/nhl/red-wings/2026/01/12/sergei-fedorov-detroit-red-wings-russian-5/88035492007/)
+* [2026-01-12, 14:28:17](https://news.ycombinator.com/item?id=46588972) - [We Put Claude Code in Rollercoaster Tycoon](https://labs.ramp.com/rct)
 * [2026-01-12, 13:30:05](https://news.ycombinator.com/item?id=46588210) - [Post-PARA: What survived 4 years of real use](https://cortwave.github.io/posts/post-para/)
 
 ## [Archives](archives/index.md)
