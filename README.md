@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-01-17, 17:48:06](https://news.ycombinator.com/item?id=46660134) - [Earth is warming faster. Scientists are closing in on why](https://www.economist.com/science-and-technology/2024/12/16/earth-is-warming-faster-scientists-are-closing-in-on-why)
 * [2026-01-17, 17:31:21](https://news.ycombinator.com/item?id=46659943) - [Show HN: What if your menu bar was a keyboard-controlled command center?](https://extrabar.app/)
 * [2026-01-17, 17:29:31](https://news.ycombinator.com/item?id=46659913) - [2025 was the third hottest year on record](https://www.economist.com/science-and-technology/2026/01/14/2025-was-the-third-hottest-year-on-record)
 * [2026-01-17, 16:53:24](https://news.ycombinator.com/item?id=46659550) - [An Elizabethan mansion's secrets for staying warm](https://www.bbc.com/future/article/20260116-an-elizabethan-mansions-secrets-for-staying-warm)
@@ -10,7 +11,6 @@
 * [2026-01-17, 11:18:49](https://news.ycombinator.com/item?id=46657141) - [Architecture for Disposable Systems](https://tuananh.net/2026/01/15/architecture-for-disposable-systems/)
 * [2026-01-17, 11:15:26](https://news.ycombinator.com/item?id=46657122) - [ASCII characters are not pixels: a deep dive into ASCII rendering](https://alexharri.com/blog/ascii-rendering)
 * [2026-01-17, 10:51:19](https://news.ycombinator.com/item?id=46656998) - [PCs refuse to shut down after Microsoft patch](https://www.theregister.com/2026/01/16/patch_tuesday_secure_launch_bug_no_shutdown/)
-* [2026-01-17, 10:29:05](https://news.ycombinator.com/item?id=46656909) - [An explanation of cheating in Doom2 Deathmatch (1999)](https://www.doom2.net/doom2/cheating.html)
 * [2026-01-17, 10:28:06](https://news.ycombinator.com/item?id=46656903) - [US electricity demand surged in 2025 – solar handled 61% of it](https://electrek.co/2026/01/16/us-electricity-demand-surged-in-2025-solar-handled-61-percent/)
 * [2026-01-17, 10:13:57](https://news.ycombinator.com/item?id=46656834) - [Map To Poster – Create Art of your favourite city](https://github.com/originalankur/maptoposter)
 * [2026-01-17, 09:55:56](https://news.ycombinator.com/item?id=46656759) - [Show HN: I built a tool to assist AI agents to know when a PR is good to go](https://dsifry.github.io/goodtogo/)
@@ -26,10 +26,10 @@
 * [2026-01-16, 14:09:32](https://news.ycombinator.com/item?id=46646475) - [The Dilbert Afterlife](https://www.astralcodexten.com/p/the-dilbert-afterlife)
 * [2026-01-15, 16:46:50](https://news.ycombinator.com/item?id=46635309) - [LLM Structured Outputs Handbook](https://nanonets.com/cookbooks/structured-llm-outputs)
 * [2026-01-15, 11:01:34](https://news.ycombinator.com/item?id=46630816) - [High-Level Is the Goal](https://bvisness.me/high-level/)
-* [2026-01-12, 20:11:19](https://news.ycombinator.com/item?id=46593556) - [Sergei Fedorov's Escape from Soviet Union Helped Save Red Wings (2020)](https://www.freep.com/story/sports/nhl/red-wings/2026/01/12/sergei-fedorov-detroit-red-wings-russian-5/88035492007/)
 * [2026-01-12, 14:28:17](https://news.ycombinator.com/item?id=46588972) - [We Put Claude Code in Rollercoaster Tycoon](https://labs.ramp.com/rct)
 * [2026-01-12, 03:56:07](https://news.ycombinator.com/item?id=46583914) - [16 Best Practices for Reducing Dependabot Noise](https://nesbitt.io/2026/01/10/16-best-practices-for-reducing-dependabot-noise.html)
 * [2026-01-11, 18:58:19](https://news.ycombinator.com/item?id=46578601) - [M8SBC-486 (Homebrew 486 computer)](https://maniek86.xyz/projects/m8sbc_486.php)
+* [2026-01-11, 15:33:04](https://news.ycombinator.com/item?id=46576581) - [The Olivetti Company – By Bradford Morgan White](https://www.abortretry.fail/p/the-olivetti-company)
 
 ## [Archives](archives/index.md)
 

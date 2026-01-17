@@ -43,6 +43,7 @@
 * [2026-01-11, 16:43:06](https://news.ycombinator.com/item?id=46577242) - [Ask HN: What Are You Working On? (January 2026)](https://news.ycombinator.com/item?id=46577242)
 * [2026-01-11, 16:30:32](https://news.ycombinator.com/item?id=46577105) - [Primecoin and Cunningham Prime Chains](https://www.johndcook.com/blog/2026/01/10/prime-chains/)
 * [2026-01-11, 16:20:47](https://news.ycombinator.com/item?id=46577019) - [Replace the Retiring Windows XP with Linux](https://www.linux.com/training-tutorials/replace-retiring-windows-xp-linux/)
+* [2026-01-11, 15:33:04](https://news.ycombinator.com/item?id=46576581) - [The Olivetti Company – By Bradford Morgan White](https://www.abortretry.fail/p/the-olivetti-company)
 * [2026-01-11, 15:10:16](https://news.ycombinator.com/item?id=46576367) - [Show HN: Fun things to do with your VM/370 machine](https://rbanffy.github.io/fun-with-old-mainframes.github.io/fun-with-vm370.html)
 * [2026-01-11, 15:07:12](https://news.ycombinator.com/item?id=46576337) - [Instagram data breach reportedly exposed the personal info of 17.5M users](https://www.engadget.com/cybersecurity/an-instagram-data-breach-reportedly-exposed-the-personal-info-of-175-million-users-192105616.html)
 * [2026-01-11, 14:58:32](https://news.ycombinator.com/item?id=46576261) - [Everything you need to know about act() in React tests](https://howtotestfrontend.com/resources/react-act-function-everything-you-need-to-know)
