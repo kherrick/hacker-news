@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-01-17](index.md)
 
+* [2026-01-17, 17:31:21](https://news.ycombinator.com/item?id=46659943) - [Show HN: What if your menu bar was a keyboard-controlled command center?](https://extrabar.app/)
 * [2026-01-17, 17:29:31](https://news.ycombinator.com/item?id=46659913) - [2025 was the third hottest year on record](https://www.economist.com/science-and-technology/2026/01/14/2025-was-the-third-hottest-year-on-record)
 * [2026-01-17, 17:03:33](https://news.ycombinator.com/item?id=46659651) - [Eight European countries face 10% tariff for opposing US control of Greenland](https://apnews.com/article/denmark-greenland-us-trump-4ad99ea3975a8b62d37bd04961feda55)
 * [2026-01-17, 16:53:24](https://news.ycombinator.com/item?id=46659550) - [An Elizabethan mansion's secrets for staying warm](https://www.bbc.com/future/article/20260116-an-elizabethan-mansions-secrets-for-staying-warm)
