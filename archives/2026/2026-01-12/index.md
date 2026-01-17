@@ -77,6 +77,7 @@
 * [2026-01-12, 07:53:40](https://news.ycombinator.com/item?id=46585372) - [A Brief Introduction to the Basics of Game Theory](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1968579)
 * [2026-01-12, 07:19:00](https://news.ycombinator.com/item?id=46585160) - [Ideas are cheap, execution is cheaper](https://davekiss.com/blog/ideas-are-cheap-execution-is-cheaper/)
 * [2026-01-12, 07:03:06](https://news.ycombinator.com/item?id=46585063) - [Exasol Personal – Democratizing Big Data Analytics](https://www.exasol.com/blog/introducing-exasol-personal/)
+* [2026-01-12, 06:38:51](https://news.ycombinator.com/item?id=46584880) - [Common misunderstandings about large software companies](https://philipotoole.com/common-misunderstandings-about-large-software-companies/)
 * [2026-01-12, 06:37:26](https://news.ycombinator.com/item?id=46584864) - [The Emacs Widget Library: A Critique and Case Study](https://www.d12frosted.io/posts/2025-11-26-emacs-widget-library)
 * [2026-01-12, 05:42:21](https://news.ycombinator.com/item?id=46584526) - [Altaid 8800](https://sunrise-ev.com/8080.htm)
 * [2026-01-12, 05:42:09](https://news.ycombinator.com/item?id=46584523) - [Z80 Mem­ber­ship Card](https://sunrise-ev.com/z80.htm)
