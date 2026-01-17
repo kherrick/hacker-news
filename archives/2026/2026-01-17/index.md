@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-01-17](index.md)
 
+* [2026-01-17, 17:03:33](https://news.ycombinator.com/item?id=46659651) - [Eight European countries face 10% tariff for opposing US control of Greenland](https://apnews.com/article/denmark-greenland-us-trump-4ad99ea3975a8b62d37bd04961feda55)
 * [2026-01-17, 16:44:45](https://news.ycombinator.com/item?id=46659465) - [Apples, Trees, and Quasimodes](https://systemstack.dev/2025/09/humane-computing/)
 * [2026-01-17, 16:43:59](https://news.ycombinator.com/item?id=46659456) - [The Resonant Computing Manifesto](https://resonantcomputing.org/)
 * [2026-01-17, 16:15:32](https://news.ycombinator.com/item?id=46659194) - [Escaping the trap of US tech dependence](https://disconnect.blog/escaping-the-trap-of-us-tech-dependence/)
