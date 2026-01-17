@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-01-17, 05:58:19](https://news.ycombinator.com/item?id=46655702) - [Vibe coding is a blight on open-source](https://old.reddit.com/r/webdev/comments/1qcxres/vibe_coding_is_a_blight_on_opensource/)
 * [2026-01-17, 02:35:28](https://news.ycombinator.com/item?id=46654749) - [Drone Hacking Part 1: Dumping Firmware and Bruteforcing ECC](https://neodyme.io/en/blog/drone_hacking_part_1/)
 * [2026-01-17, 00:32:24](https://news.ycombinator.com/item?id=46654085) - [Keifu – A TUI for navigating commit graphs with color and clarity](https://github.com/trasta298/keifu)
 * [2026-01-16, 23:46:17](https://news.ycombinator.com/item?id=46653721) - [FLUX.2 [Klein]: Towards Interactive Visual Intelligence](https://bfl.ai/blog/flux2-klein-towards-interactive-visual-intelligence)
@@ -25,6 +24,7 @@
 * [2026-01-15, 11:01:34](https://news.ycombinator.com/item?id=46630816) - [High-Level Is the Goal](https://bvisness.me/high-level/)
 * [2026-01-14, 16:29:50](https://news.ycombinator.com/item?id=46618105) - [HTTP RateLimit Headers](https://dotat.at/@/2026-01-13-http-ratelimit.html)
 * [2026-01-14, 05:26:20](https://news.ycombinator.com/item?id=46612661) - [Beebo, a wave simulator written in C](https://git.sr.ht/~willowf/beebo/)
+* [2026-01-12, 16:13:43](https://news.ycombinator.com/item?id=46590422) - [Show HN: CleanCloud – Cloud cleanup that can't delete anything](https://getcleancloud.com)
 * [2026-01-12, 16:12:27](https://news.ycombinator.com/item?id=46590404) - [Experts Warn of Growing Parrot Crisis in Canada](https://www.ctvnews.ca/ottawa/video/2026/01/06/experts-warn-of-growing-parrot-crisis-in-canada/)
 * [2026-01-12, 13:00:21](https://news.ycombinator.com/item?id=46587844) - [The five orders of ignorance (2000)](https://cacm.acm.org/opinion/the-five-orders-of-ignorance/)
 * [2026-01-12, 11:18:15](https://news.ycombinator.com/item?id=46586940) - [IKEA for Software](https://tommaso-girotto.co/blog/an-ikea-for-software)
