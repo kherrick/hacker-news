@@ -4,7 +4,11 @@
 
 ### [Archives](../../index.md) for [2026-01-17](index.md)
 
+* [2026-01-17, 21:54:52](https://news.ycombinator.com/item?id=46662503) - [Congress Wants to Hand Your Parenting to Big Tech](https://www.eff.org/deeplinks/2026/01/congress-wants-hand-your-parenting-big-tech)
+* [2026-01-17, 21:03:52](https://news.ycombinator.com/item?id=46662078) - [Show HN: ChunkHound, a local-first tool for understanding large codebases](https://github.com/chunkhound/chunkhound)
 * [2026-01-17, 20:44:52](https://news.ycombinator.com/item?id=46661897) - [A programming language based on grammatical cases of Turkish](https://github.com/kip-dili/kip)
+* [2026-01-17, 20:17:49](https://news.ycombinator.com/item?id=46661630) - [Show HN: Docker.how – Docker command cheat sheet](https://docker.how/)
+* [2026-01-17, 20:02:38](https://news.ycombinator.com/item?id=46661505) - [Kagi Small Web](https://kagi.com/smallweb)
 * [2026-01-17, 19:39:36](https://news.ycombinator.com/item?id=46661308) - [Show HN: Minikv – Distributed key-value and object store in Rust (Raft, S3 API)](https://github.com/whispem/minikv)
 * [2026-01-17, 19:31:15](https://news.ycombinator.com/item?id=46661231) - [OpenAI to test ads in ChatGPT as it burns through billions](https://arstechnica.com/information-technology/2026/01/openai-to-test-ads-in-chatgpt-as-it-burns-through-billions/)
 * [2026-01-17, 19:29:04](https://news.ycombinator.com/item?id=46661217) - [Canada's deal with China signals it is serious about shift from US](https://www.bbc.com/news/articles/cm24k6kk1rko)
