@@ -1,12 +1,32 @@
 [
   [
     [
+      "2026-01-17, 03:07:08",
+      "https://news.ycombinator.com/item?id=46654878"
+    ],
+    [
+      "Crypto grifters are recruiting open-source AI developers",
+      "https://www.seangoedecke.com/gas-and-ralph/"
+    ]
+  ],
+  [
+    [
       "2026-01-17, 02:30:28",
       "https://news.ycombinator.com/item?id=46654728"
     ],
     [
       "Plunging US Birth Rate Leaves Too Many Colleges with Too Few Kids",
       "https://www.bloomberg.com/graphics/2026-college-enrollment-cliff/"
+    ]
+  ],
+  [
+    [
+      "2026-01-17, 02:29:07",
+      "https://news.ycombinator.com/item?id=46654726"
+    ],
+    [
+      "Ask HN: Is it still worth pursuing a software startup?",
+      "https://news.ycombinator.com/item?id=46654726"
     ]
   ],
   [
@@ -27,16 +47,6 @@
     [
       "FLUX.2 [Klein]: Towards Interactive Visual Intelligence",
       "https://bfl.ai/blog/flux2-klein-towards-interactive-visual-intelligence"
-    ]
-  ],
-  [
-    [
-      "2026-01-16, 22:49:04",
-      "https://news.ycombinator.com/item?id=46653270"
-    ],
-    [
-      "Re: Mix: open-source repairable blender",
-      "https://github.com/openfunkHQ/reMix"
     ]
   ],
   [
@@ -151,16 +161,6 @@
   ],
   [
     [
-      "2026-01-16, 15:04:22",
-      "https://news.ycombinator.com/item?id=46647059"
-    ],
-    [
-      "Read_once(), Write_once(), but Not for Rust",
-      "https://lwn.net/SubscriberLink/1053142/8ec93e58d5d3cc06/"
-    ]
-  ],
-  [
-    [
       "2026-01-16, 14:37:49",
       "https://news.ycombinator.com/item?id=46646777"
     ],
@@ -211,32 +211,12 @@
   ],
   [
     [
-      "2026-01-16, 12:03:52",
-      "https://news.ycombinator.com/item?id=46645615"
-    ],
-    [
-      "Just the Browser",
-      "https://justthebrowser.com/"
-    ]
-  ],
-  [
-    [
       "2026-01-16, 10:57:38",
       "https://news.ycombinator.com/item?id=46645176"
     ],
     [
       "Why DuckDB is my first choice for data processing",
       "https://www.robinlinacre.com/recommend_duckdb/"
-    ]
-  ],
-  [
-    [
-      "2026-01-16, 08:01:02",
-      "https://news.ycombinator.com/item?id=46644181"
-    ],
-    [
-      "Interactive eBPF",
-      "https://ebpf.party/"
     ]
   ],
   [
@@ -287,6 +267,26 @@
     [
       "Lock-Picking Robot",
       "https://github.com/etinaude/Lock-Picking-Robot"
+    ]
+  ],
+  [
+    [
+      "2026-01-12, 13:00:21",
+      "https://news.ycombinator.com/item?id=46587844"
+    ],
+    [
+      "The five orders of ignorance (2000)",
+      "https://cacm.acm.org/opinion/the-five-orders-of-ignorance/"
+    ]
+  ],
+  [
+    [
+      "2026-01-12, 11:18:15",
+      "https://news.ycombinator.com/item?id=46586940"
+    ],
+    [
+      "IKEA for Software",
+      "https://tommaso-girotto.co/blog/an-ikea-for-software"
     ]
   ],
   [
