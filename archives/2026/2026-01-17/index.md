@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-01-17](index.md)
 
+* [2026-01-17, 22:47:55](https://news.ycombinator.com/item?id=46662886) - [Texas A&M university is banning Plato, citing his \"gender ideology\"](https://lithub.com/texas-am-is-banning-plato-citing-his-gender-ideology/)
 * [2026-01-17, 22:19:25](https://news.ycombinator.com/item?id=46662662) - [Light Mode InFFFFFFlation](https://willhbr.net/2025/10/20/light-mode-infffffflation/)
 * [2026-01-17, 21:54:52](https://news.ycombinator.com/item?id=46662503) - [Congress Wants to Hand Your Parenting to Big Tech](https://www.eff.org/deeplinks/2026/01/congress-wants-hand-your-parenting-big-tech)
 * [2026-01-17, 21:03:52](https://news.ycombinator.com/item?id=46662078) - [Show HN: ChunkHound, a local-first tool for understanding large codebases](https://github.com/chunkhound/chunkhound)
