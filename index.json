@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-01-17, 11:15:26",
+      "https://news.ycombinator.com/item?id=46657122"
+    ],
+    [
+      "ASCII characters are not pixels: a deep dive into ASCII rendering",
+      "https://alexharri.com/blog/ascii-rendering"
+    ]
+  ],
+  [
+    [
+      "2026-01-17, 10:51:19",
+      "https://news.ycombinator.com/item?id=46656998"
+    ],
+    [
+      "PCs refuse to shut down after Microsoft patch",
+      "https://www.theregister.com/2026/01/16/patch_tuesday_secure_launch_bug_no_shutdown/"
+    ]
+  ],
+  [
+    [
       "2026-01-17, 10:29:35",
       "https://news.ycombinator.com/item?id=46656911"
     ],
@@ -191,16 +211,6 @@
   ],
   [
     [
-      "2026-01-15, 18:54:10",
-      "https://news.ycombinator.com/item?id=46637322"
-    ],
-    [
-      "Show HN: Tusk Drift – Turn production traffic into API tests",
-      "https://github.com/Use-Tusk/tusk-drift-cli"
-    ]
-  ],
-  [
-    [
       "2026-01-15, 16:46:50",
       "https://news.ycombinator.com/item?id=46635309"
     ],
@@ -267,16 +277,6 @@
     [
       "The five orders of ignorance (2000)",
       "https://cacm.acm.org/opinion/the-five-orders-of-ignorance/"
-    ]
-  ],
-  [
-    [
-      "2026-01-11, 20:54:47",
-      "https://news.ycombinator.com/item?id=46579954"
-    ],
-    [
-      "Elasticsearch was never a database",
-      "https://www.paradedb.com/blog/elasticsearch-was-never-a-database"
     ]
   ],
   [
