@@ -81,6 +81,7 @@
 * [2026-01-12, 05:42:21](https://news.ycombinator.com/item?id=46584526) - [Altaid 8800](https://sunrise-ev.com/8080.htm)
 * [2026-01-12, 05:42:09](https://news.ycombinator.com/item?id=46584523) - [Z80 Mem­ber­ship Card](https://sunrise-ev.com/z80.htm)
 * [2026-01-12, 04:39:26](https://news.ycombinator.com/item?id=46584173) - [XFCE Is Great](https://rubenerd.com/xfce-is-great/)
+* [2026-01-12, 03:56:07](https://news.ycombinator.com/item?id=46583914) - [16 Best Practices for Reducing Dependabot Noise](https://nesbitt.io/2026/01/10/16-best-practices-for-reducing-dependabot-noise.html)
 * [2026-01-12, 03:11:49](https://news.ycombinator.com/item?id=46583581) - [Show HN: An LLM-optimized programming language](https://github.com/ImJasonH/ImJasonH/blob/main/articles/llm-programming-language.md)
 * [2026-01-12, 02:58:01](https://news.ycombinator.com/item?id=46583464) - [Himalayas bare and rocky after reduced winter snowfall, scientists warn](https://www.bbc.com/news/articles/clyndv7zd20o)
 * [2026-01-12, 02:51:04](https://news.ycombinator.com/item?id=46583410) - [Code is cheap now, but software isn't](https://www.chrisgregori.dev/opinion/code-is-cheap-now-software-isnt)

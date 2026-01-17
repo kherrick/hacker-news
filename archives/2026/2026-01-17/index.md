@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-01-17](index.md)
 
+* [2026-01-17, 16:44:45](https://news.ycombinator.com/item?id=46659465) - [Apples, Trees, and Quasimodes](https://systemstack.dev/2025/09/humane-computing/)
+* [2026-01-17, 16:43:59](https://news.ycombinator.com/item?id=46659456) - [The Resonant Computing Manifesto](https://resonantcomputing.org/)
 * [2026-01-17, 16:15:32](https://news.ycombinator.com/item?id=46659194) - [Escaping the trap of US tech dependence](https://disconnect.blog/escaping-the-trap-of-us-tech-dependence/)
 * [2026-01-17, 14:31:33](https://news.ycombinator.com/item?id=46658345) - [The recurring dream of replacing developers](https://www.caimito.net/en/blog/2025/12/07/the-recurring-dream-of-replacing-developers.html)
 * [2026-01-17, 14:13:11](https://news.ycombinator.com/item?id=46658213) - [What life is like in Minneapolis now](https://donmoynihan.substack.com/p/dispatch-from-the-occupation)
@@ -18,8 +20,10 @@
 * [2026-01-17, 11:09:36](https://news.ycombinator.com/item?id=46657088) - [AV1 Image File Format Specification Gets an Upgrade with AVIF v1.2.0](https://aomedia.org/blog%20posts/AV1-Image-File-Format-Specification-Gets-an-Upgrade-with-AVIF/)
 * [2026-01-17, 10:51:19](https://news.ycombinator.com/item?id=46656998) - [PCs refuse to shut down after Microsoft patch](https://www.theregister.com/2026/01/16/patch_tuesday_secure_launch_bug_no_shutdown/)
 * [2026-01-17, 10:29:35](https://news.ycombinator.com/item?id=46656911) - [After 25 years, Wikipedia has proved that news doesn't need to look like news](https://www.niemanlab.org/2026/01/after-25-years-wikipedia-has-proved-that-news-doesnt-need-to-look-like-news/)
+* [2026-01-17, 10:29:05](https://news.ycombinator.com/item?id=46656909) - [An explanation of cheating in Doom2 Deathmatch (1999)](https://www.doom2.net/doom2/cheating.html)
 * [2026-01-17, 10:28:06](https://news.ycombinator.com/item?id=46656903) - [US electricity demand surged in 2025 – solar handled 61% of it](https://electrek.co/2026/01/16/us-electricity-demand-surged-in-2025-solar-handled-61-percent/)
 * [2026-01-17, 10:13:57](https://news.ycombinator.com/item?id=46656834) - [Map To Poster – Create Art of your favourite city](https://github.com/originalankur/maptoposter)
+* [2026-01-17, 09:55:56](https://news.ycombinator.com/item?id=46656759) - [Show HN: I built a tool to assist AI agents to know when a PR is good to go](https://dsifry.github.io/goodtogo/)
 * [2026-01-17, 09:15:45](https://news.ycombinator.com/item?id=46656552) - [ClickHouse Acquires Langfuse](https://langfuse.com/blog/joining-clickhouse)
 * [2026-01-17, 08:48:26](https://news.ycombinator.com/item?id=46656373) - [Office app has changed to copilot and now I can't open files](https://old.reddit.com/r/Office365/comments/1q2b28q/office_app_has_changed_to_copilot_and_now_i_cant)
 * [2026-01-17, 08:46:08](https://news.ycombinator.com/item?id=46656358) - [Show HN: Streaming gigabyte medical images from S3 without downloading them](https://github.com/PABannier/WSIStreamer)
@@ -28,6 +32,7 @@
 * [2026-01-17, 07:29:18](https://news.ycombinator.com/item?id=46656045) - [The 'untouchable hacker god' behind Finland's biggest ever crime](https://www.theguardian.com/technology/2026/jan/17/vastaamo-hack-finland-therapy-notes)
 * [2026-01-17, 05:58:19](https://news.ycombinator.com/item?id=46655702) - [Vibe coding is a blight on open-source](https://old.reddit.com/r/webdev/comments/1qcxres/vibe_coding_is_a_blight_on_opensource/)
 * [2026-01-17, 05:49:23](https://news.ycombinator.com/item?id=46655667) - [Meditation and Unconscious: A Buddhist Monk and a Neuroscientist (2022)](https://thereader.mitpress.mit.edu/meditation-and-the-unconscious-buddhism-neuroscience-conversation/)
+* [2026-01-17, 05:20:20](https://news.ycombinator.com/item?id=46655524) - [Counterfactual evaluation for recommendation systems](https://eugeneyan.com/writing/counterfactual-evaluation/)
 * [2026-01-17, 04:10:15](https://news.ycombinator.com/item?id=46655147) - [Germany's shut down of nuclear plants a 'huge mistake', says Merz](https://brusselssignal.eu/2026/01/germanys-shut-down-of-nuclear-plants-a-huge-mistake-says-merz/)
 * [2026-01-17, 03:47:12](https://news.ycombinator.com/item?id=46655034) - [Gas Town is a glimpse into the future](https://johncodes.com/archive/2026/01-16-a-glimpse-into-the-future/)
 * [2026-01-17, 03:27:31](https://news.ycombinator.com/item?id=46654956) - [Artisanal Code](https://sunnyamrat.com/posts/2026-01-17-artisanal-code/)
