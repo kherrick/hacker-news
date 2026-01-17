@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-01-17, 10:28:06](https://news.ycombinator.com/item?id=46656903) - [US electricity demand surged in 2025 – solar handled 61% of it](https://electrek.co/2026/01/16/us-electricity-demand-surged-in-2025-solar-handled-61-percent/)
 * [2026-01-17, 10:13:57](https://news.ycombinator.com/item?id=46656834) - [Map To Poster – Create Art of your favourite city](https://github.com/originalankur/maptoposter)
 * [2026-01-17, 09:15:45](https://news.ycombinator.com/item?id=46656552) - [ClickHouse Acquires Langfuse](https://langfuse.com/blog/joining-clickhouse)
 * [2026-01-17, 08:46:08](https://news.ycombinator.com/item?id=46656358) - [Show HN: Streaming gigabyte medical images from S3 without downloading them](https://github.com/PABannier/WSIStreamer)
@@ -17,7 +18,6 @@
 * [2026-01-16, 15:37:19](https://news.ycombinator.com/item?id=46647491) - [6-Day and IP Address Certificates Are Generally Available](https://letsencrypt.org/2026/01/15/6day-and-ip-general-availability)
 * [2026-01-16, 14:37:49](https://news.ycombinator.com/item?id=46646777) - [Cursor's latest “browser experiment” implied success without evidence](https://embedding-shapes.github.io/cursor-implied-success-without-evidence/)
 * [2026-01-16, 14:25:54](https://news.ycombinator.com/item?id=46646645) - [Cloudflare acquires Astro](https://astro.build/blog/joining-cloudflare/)
-* [2026-01-16, 13:44:25](https://news.ycombinator.com/item?id=46646263) - [Michelangelo's first painting, created when he was 12 or 13](https://www.openculture.com/2026/01/discover-michelangelos-first-painting.html)
 * [2026-01-16, 12:58:24](https://news.ycombinator.com/item?id=46645941) - [Patching the Wii News Channel to serve local news (2025)](https://raulnegron.me/2025/wii-news-pr/)
 * [2026-01-15, 18:54:10](https://news.ycombinator.com/item?id=46637322) - [Show HN: Tusk Drift – Turn production traffic into API tests](https://github.com/Use-Tusk/tusk-drift-cli)
 * [2026-01-15, 16:46:50](https://news.ycombinator.com/item?id=46635309) - [LLM Structured Outputs Handbook](https://nanonets.com/cookbooks/structured-llm-outputs)
