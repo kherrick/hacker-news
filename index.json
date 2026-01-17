@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-01-17, 09:15:45",
+      "https://news.ycombinator.com/item?id=46656552"
+    ],
+    [
+      "ClickHouse Acquires Langfuse",
+      "https://langfuse.com/blog/joining-clickhouse"
+    ]
+  ],
+  [
+    [
       "2026-01-17, 08:48:26",
       "https://news.ycombinator.com/item?id=46656373"
     ],
@@ -171,26 +181,6 @@
   ],
   [
     [
-      "2026-01-16, 13:44:25",
-      "https://news.ycombinator.com/item?id=46646263"
-    ],
-    [
-      "Michelangelo's first painting, created when he was 12 or 13",
-      "https://www.openculture.com/2026/01/discover-michelangelos-first-painting.html"
-    ]
-  ],
-  [
-    [
-      "2026-01-16, 13:39:31",
-      "https://news.ycombinator.com/item?id=46646226"
-    ],
-    [
-      "Dev-owned testing: Why it fails in practice and succeeds in theory",
-      "https://dl.acm.org/doi/10.1145/3780063.3780066"
-    ]
-  ],
-  [
-    [
       "2026-01-16, 12:58:24",
       "https://news.ycombinator.com/item?id=46645941"
     ],
@@ -237,6 +227,16 @@
     [
       "HTTP RateLimit Headers",
       "https://dotat.at/@/2026-01-13-http-ratelimit.html"
+    ]
+  ],
+  [
+    [
+      "2026-01-14, 12:01:08",
+      "https://news.ycombinator.com/item?id=46615084"
+    ],
+    [
+      "Lies, Damned Lies and Proofs: Formal Methods Are Not Slopless",
+      "https://www.lesswrong.com/posts/rhAPh3YzhPoBNpgHg/lies-damned-lies-and-proofs-formal-methods-are-not-slopless"
     ]
   ],
   [
