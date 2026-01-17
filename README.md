@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2026-01-17, 20:44:52](https://news.ycombinator.com/item?id=46661897) - [A programming language based on grammatical cases of Turkish](https://github.com/kip-dili/kip)
-* [2026-01-17, 19:29:04](https://news.ycombinator.com/item?id=46661217) - [Canada's deal with China signals it is serious about shift from US](https://www.bbc.com/news/articles/cm24k6kk1rko)
+* [2026-01-17, 19:21:38](https://news.ycombinator.com/item?id=46661132) - [Why Twenty Years of DevOps Has Failed to Do It](https://www.honeycomb.io/blog/you-had-one-job-why-twenty-years-of-devops-has-failed-to-do-it)
 * [2026-01-17, 18:42:39](https://news.ycombinator.com/item?id=46660663) - [The thing that brought me joy](https://www.stephenlewis.me/blog/the-thing-that-brought-me-joy/)
+* [2026-01-17, 18:29:00](https://news.ycombinator.com/item?id=46660543) - [Raising money fucked me up](https://blog.yakkomajuri.com/blog/raising-money-fucked-me-up)
 * [2026-01-17, 17:31:21](https://news.ycombinator.com/item?id=46659943) - [Show HN: What if your menu bar was a keyboard-controlled command center?](https://extrabar.app/)
-* [2026-01-17, 17:29:31](https://news.ycombinator.com/item?id=46659913) - [2025 was the third hottest year on record](https://www.economist.com/science-and-technology/2026/01/14/2025-was-the-third-hottest-year-on-record)
 * [2026-01-17, 16:53:24](https://news.ycombinator.com/item?id=46659550) - [An Elizabethan mansion's secrets for staying warm](https://www.bbc.com/future/article/20260116-an-elizabethan-mansions-secrets-for-staying-warm)
 * [2026-01-17, 16:44:45](https://news.ycombinator.com/item?id=46659465) - [Apples, Trees, and Quasimodes](https://systemstack.dev/2025/09/humane-computing/)
 * [2026-01-17, 16:43:59](https://news.ycombinator.com/item?id=46659456) - [The Resonant Computing Manifesto](https://resonantcomputing.org/)
