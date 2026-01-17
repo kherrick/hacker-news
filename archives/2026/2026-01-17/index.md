@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-01-17](index.md)
 
+* [2026-01-17, 19:39:36](https://news.ycombinator.com/item?id=46661308) - [Show HN: Minikv – Distributed key-value and object store in Rust (Raft, S3 API)](https://github.com/whispem/minikv)
+* [2026-01-17, 19:31:15](https://news.ycombinator.com/item?id=46661231) - [OpenAI to test ads in ChatGPT as it burns through billions](https://arstechnica.com/information-technology/2026/01/openai-to-test-ads-in-chatgpt-as-it-burns-through-billions/)
 * [2026-01-17, 19:29:04](https://news.ycombinator.com/item?id=46661217) - [Canada's deal with China signals it is serious about shift from US](https://www.bbc.com/news/articles/cm24k6kk1rko)
 * [2026-01-17, 17:48:06](https://news.ycombinator.com/item?id=46660134) - [Earth is warming faster. Scientists are closing in on why](https://www.economist.com/science-and-technology/2024/12/16/earth-is-warming-faster-scientists-are-closing-in-on-why)
 * [2026-01-17, 17:34:25](https://news.ycombinator.com/item?id=46659990) - [OpenAI will start testing ads in ChatGPT free and Go tiers](https://twitter.com/OpenAI/status/2012223373489614951)
