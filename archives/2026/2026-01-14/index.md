@@ -74,6 +74,7 @@
 * [2026-01-14, 11:21:15](https://news.ycombinator.com/item?id=46614777) - [UK secures record supply of offshore wind projects](https://www.bbc.co.uk/news/articles/cn9zyx150xdo)
 * [2026-01-14, 11:09:35](https://news.ycombinator.com/item?id=46614688) - [Show HN: Tiny FOSS Compass and Navigation App (<2MB)](https://github.com/CompassMB/MBCompass)
 * [2026-01-14, 10:53:13](https://news.ycombinator.com/item?id=46614558) - [I Hate GitHub Actions with Passion](https://xlii.space/eng/i-hate-github-actions-with-passion/)
+* [2026-01-14, 10:43:31](https://news.ycombinator.com/item?id=46614487) - [More sustainable epoxy thanks to phosphorus](https://www.empa.ch/web/s604/flamm-hemmendes-epoxidharz-nachhaltiger-machen)
 * [2026-01-14, 10:08:05](https://news.ycombinator.com/item?id=46614285) - [System Programming in Linux: A Hands-On Introduction \"Demo\" Programs](https://github.com/stewartweiss/intro-linux-sys-prog)
 * [2026-01-14, 09:25:58](https://news.ycombinator.com/item?id=46614037) - [I Love You, Redis, but I'm Leaving You for SolidQueue](https://www.simplethread.com/redis-solidqueue/)
 * [2026-01-14, 09:22:42](https://news.ycombinator.com/item?id=46614015) - [Show HN: ContextFort – Visibility and controls for browser agents](https://contextfort.ai/)
