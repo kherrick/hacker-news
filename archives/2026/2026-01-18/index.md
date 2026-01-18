@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-01-18](index.md)
 
+* [2026-01-18, 10:13:27](https://news.ycombinator.com/item?id=46666492) - [EU and Mercosur countries sign landmark free trade deal](https://www.dw.com/en/eu-and-mercosur-countries-sign-landmark-free-trade-deal/a-75545794)
 * [2026-01-18, 09:35:19](https://news.ycombinator.com/item?id=46666283) - [Consent-O-Matic](https://github.com/cavi-au/Consent-O-Matic)
 * [2026-01-18, 08:58:40](https://news.ycombinator.com/item?id=46666085) - [Command-line Tools can be 235x Faster than your Hadoop Cluster (2014)](https://adamdrake.com/command-line-tools-can-be-235x-faster-than-your-hadoop-cluster.html)
 * [2026-01-18, 08:39:42](https://news.ycombinator.com/item?id=46665967) - [The Walls Are Closing in on Tesla](https://www.planetearthandbeyond.co/p/the-walls-are-closing-in-on-tesla)
