@@ -29,7 +29,7 @@
 * [2026-01-12, 14:03:35](https://news.ycombinator.com/item?id=46588660) - [Claude Shannon's randomness-guessing machine](https://www.loper-os.org/bad-at-entropy/manmach.html)
 * [2026-01-11, 21:44:36](https://news.ycombinator.com/item?id=46580506) - [Play chess via Slack DMs or SMS using an ASCII board](https://github.com/dvelton/dm-chess)
 * [2026-01-11, 15:33:04](https://news.ycombinator.com/item?id=46576581) - [The Olivetti Company](https://www.abortretry.fail/p/the-olivetti-company)
-* [2026-01-11, 12:05:17](https://news.ycombinator.com/item?id=46574989) - [Why Object of Arrays beat interleaved arrays: a JavaScript performance issue](https://www.royalbhati.com/posts/js-array-vs-typedarray)
+* [2026-01-11, 14:36:13](https://news.ycombinator.com/item?id=46576091) - [Below the Surface: Archeological Finds from the Amsterdam Noord/Zuid Metro Line](https://belowthesurface.amsterdam/en/vondsten)
 
 ## [Archives](archives/index.md)
 
