@@ -26,10 +26,10 @@
 * [2026-01-13, 07:37:47](https://news.ycombinator.com/item?id=46598244) - [How London cracked mobile phone coverage on the Underground](https://www.ianvisits.co.uk/articles/how-london-finally-cracked-mobile-phone-coverage-on-the-underground-86784/)
 * [2026-01-12, 14:28:17](https://news.ycombinator.com/item?id=46588972) - [We put Claude Code in Rollercoaster Tycoon](https://labs.ramp.com/rct)
 * [2026-01-12, 14:03:35](https://news.ycombinator.com/item?id=46588660) - [Claude Shannon's randomness-guessing machine](https://www.loper-os.org/bad-at-entropy/manmach.html)
-* [2026-01-11, 18:58:19](https://news.ycombinator.com/item?id=46578601) - [M8SBC-486 (Homebrew 486 computer)](https://maniek86.xyz/projects/m8sbc_486.php)
 * [2026-01-11, 15:33:04](https://news.ycombinator.com/item?id=46576581) - [The Olivetti Company](https://www.abortretry.fail/p/the-olivetti-company)
 * [2026-01-11, 14:36:13](https://news.ycombinator.com/item?id=46576091) - [Below the Surface: Archeological Finds from the Amsterdam Noord/Zuid Metro Line](https://belowthesurface.amsterdam/en/vondsten)
 * [2026-01-11, 12:05:17](https://news.ycombinator.com/item?id=46574989) - [Why Object of Arrays beat interleaved arrays: a JavaScript performance issue](https://www.royalbhati.com/posts/js-array-vs-typedarray)
+* [2026-01-11, 03:02:39](https://news.ycombinator.com/item?id=46572329) - [Ask HN: When has a \"dumb\" solution beaten a sophisticated one for you?](https://news.ycombinator.com/item?id=46572329)
 
 ## [Archives](archives/index.md)
 

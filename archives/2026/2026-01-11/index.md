@@ -81,6 +81,7 @@
 * [2026-01-11, 03:55:53](https://news.ycombinator.com/item?id=46572589) - [I Built a 1 Petabyte Server from Scratch [video]](https://www.youtube.com/watch?v=vVI7atoAeoo)
 * [2026-01-11, 03:43:44](https://news.ycombinator.com/item?id=46572523) - [Max Payne – two decades later – Graphics Critique](https://darkcephas.blogspot.com/2021/07/max-payne-two-decades-later-graphics.html)
 * [2026-01-11, 03:15:14](https://news.ycombinator.com/item?id=46572392) - [Workers at Redmond SpaceX lab exposed to toxic chemicals](https://www.fox13seattle.com/video/fmc-w1ga4pk97gxq0hj5)
+* [2026-01-11, 03:02:39](https://news.ycombinator.com/item?id=46572329) - [Ask HN: When has a \"dumb\" solution beaten a sophisticated one for you?](https://news.ycombinator.com/item?id=46572329)
 * [2026-01-11, 02:58:36](https://news.ycombinator.com/item?id=46572307) - [Why some clothes shrink in the wash – and how to 'unshrink' them](https://www.swinburne.edu.au/news/2025/08/why-some-clothes-shrink-in-the-wash-and-how-to-unshrink-them/)
 * [2026-01-11, 02:57:34](https://news.ycombinator.com/item?id=46572304) - [Show HN: VAM Seek – 2D video navigation grid, 15KB, zero server load](https://github.com/unhaya/vam-seek)
 * [2026-01-11, 02:15:33](https://news.ycombinator.com/item?id=46572089) - [What a Programmer Does (1967)[pdf]](http://archive.computerhistory.org/resources/text/Knuth_Don_X4100/PDF_index/k-9-pdf/k-9-u2769-1-Baker-What-Programmer-Does.pdf)
