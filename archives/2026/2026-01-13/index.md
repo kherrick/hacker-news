@@ -14,6 +14,7 @@
 * [2026-01-13, 21:55:54](https://news.ycombinator.com/item?id=46608811) - [Is it a joke?](https://novalis.org/blog/2025-11-06-is-it-a-joke.html)
 * [2026-01-13, 21:55:29](https://news.ycombinator.com/item?id=46608802) - [An Archaeology of Tracking on Government Websites](https://www.flux.utah.edu/paper/singh-pets26)
 * [2026-01-13, 21:50:22](https://news.ycombinator.com/item?id=46608731) - [Running Lean at Scale](https://harmonic.fun/news#blog-post-lean)
+* [2026-01-13, 21:26:59](https://news.ycombinator.com/item?id=46608342) - [The Cathedral, the Megachurch, and the Bazaar](https://opensourcesecurity.io/2026/01-cathedral-megachurch-bazaar/)
 * [2026-01-13, 20:45:43](https://news.ycombinator.com/item?id=46607681) - [Games Workshop bans staff from using AI, management not excited about the tech](https://www.ign.com/articles/warhammer-maker-games-workshop-bans-its-staff-from-using-ai-in-its-content-or-designs-says-none-of-its-senior-managers-are-currently-excited-about-the-tech)
 * [2026-01-13, 19:56:37](https://news.ycombinator.com/item?id=46606902) - [Open sourcing Dicer: Databricks's auto-sharder](https://www.databricks.com/blog/open-sourcing-dicer-databricks-auto-sharder)
 * [2026-01-13, 19:53:07](https://news.ycombinator.com/item?id=46606854) - [Ask HN: Vxlan over WireGuard or WireGuard over Vxlan?](https://news.ycombinator.com/item?id=46606854)
