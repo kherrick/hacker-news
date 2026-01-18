@@ -56,6 +56,7 @@
 * [2026-01-11, 12:44:04](https://news.ycombinator.com/item?id=46575268) - [LLM poetry and the \"greatness\" question: Experiments by Gwern and Mercor](https://hollisrobbinsanecdotal.substack.com/p/llm-poetry-and-the-greatness-question)
 * [2026-01-11, 12:37:37](https://news.ycombinator.com/item?id=46575224) - [Iran Shuts Down Starlink Internet for First Time](https://www.forbes.com/sites/zakdoffman/2026/01/11/kill-switch-iran-shuts-down-starlink-internet-for-first-time/)
 * [2026-01-11, 12:22:05](https://news.ycombinator.com/item?id=46575127) - [Google: Don't make \"bite-sized\" content for LLMs](https://arstechnica.com/google/2026/01/google-dont-make-bite-sized-content-for-llms-if-you-care-about-search-rank/)
+* [2026-01-11, 12:05:17](https://news.ycombinator.com/item?id=46574989) - [Why Object of Arrays beat interleaved arrays: a JavaScript performance issue](https://www.royalbhati.com/posts/js-array-vs-typedarray)
 * [2026-01-11, 12:02:52](https://news.ycombinator.com/item?id=46574961) - [BasiliskII Macintosh 68k Emulator Ported to ESP32-P4 / M5Stack Tab5](https://github.com/amcchord/M5Tab-Macintosh)
 * [2026-01-11, 11:46:18](https://news.ycombinator.com/item?id=46574823) - [Why Selling WhatsApp to Facebook Would Be the Biggest Mistake (2012)](https://www.forbes.com/sites/ericjackson/2012/12/03/why-selling-whatsapp-to-facebook-would-be-the-biggest-mistake-of-jan-koums-and-brian-actons-lives/)
 * [2026-01-11, 11:38:52](https://news.ycombinator.com/item?id=46574769) - [Gentoo Linux 2025 Review](https://www.gentoo.org/news/2026/01/05/new-year.html)

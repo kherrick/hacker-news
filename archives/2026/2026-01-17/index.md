@@ -6,6 +6,7 @@
 
 * [2026-01-17, 23:47:45](https://news.ycombinator.com/item?id=46663341) - [OpenAI could reportedly run out of cash by mid-2027](https://www.tomshardware.com/tech-industry/big-tech/openai-could-reportedly-run-out-of-cash-by-mid-2027-nyt-analyst-paints-grim-picture-after-examining-companys-finances)
 * [2026-01-17, 23:47:16](https://news.ycombinator.com/item?id=46663338) - [If you put Apple icons in reverse it looks like someone getting good at design](https://www.threads.com/@heliographe.studio/post/DTeOwAykwQ1)
+* [2026-01-17, 23:47:16](https://news.ycombinator.com/item?id=46663338) - [If you put Apple icons in reverse it looks like someone getting good at design](https://mastodon.social/@heliographe_studio/115890819509545391)
 * [2026-01-17, 22:47:55](https://news.ycombinator.com/item?id=46662886) - [Texas A&M university is banning Plato, citing his \"gender ideology\"](https://lithub.com/texas-am-is-banning-plato-citing-his-gender-ideology/)
 * [2026-01-17, 22:19:25](https://news.ycombinator.com/item?id=46662662) - [Light Mode InFFFFFFlation](https://willhbr.net/2025/10/20/light-mode-infffffflation/)
 * [2026-01-17, 21:54:52](https://news.ycombinator.com/item?id=46662503) - [Congress Wants to Hand Your Parenting to Big Tech](https://www.eff.org/deeplinks/2026/01/congress-wants-hand-your-parenting-big-tech)
