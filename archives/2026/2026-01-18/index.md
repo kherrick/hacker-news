@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-01-18](index.md)
 
+* [2026-01-18, 12:00:10](https://news.ycombinator.com/item?id=46667101) - [Keystone (YC S25) Is Hiring](https://news.ycombinator.com/item?id=46667101)
+* [2026-01-18, 11:39:14](https://news.ycombinator.com/item?id=46666963) - [Starting from scratch: Training a 30M Topological Transformer](https://www.tuned.org.uk/posts/013_the_topological_transformer_training_tauformer)
+* [2026-01-18, 11:31:54](https://news.ycombinator.com/item?id=46666916) - [Throwing it all away over the Mercator projection](https://danieldrezner.substack.com/p/what-is-trump-even-doing-at-this)
+* [2026-01-18, 10:32:13](https://news.ycombinator.com/item?id=46666614) - [Stop calling it vibe coding](https://davekiss.com/blog/agentic-coding/)
 * [2026-01-18, 10:13:27](https://news.ycombinator.com/item?id=46666492) - [EU and Mercosur countries sign landmark free trade deal](https://www.dw.com/en/eu-and-mercosur-countries-sign-landmark-free-trade-deal/a-75545794)
 * [2026-01-18, 09:35:19](https://news.ycombinator.com/item?id=46666283) - [Consent-O-Matic](https://github.com/cavi-au/Consent-O-Matic)
 * [2026-01-18, 09:24:21](https://news.ycombinator.com/item?id=46666221) - [Pentagon readies 1,500 troops to possibly deploy to Minnesota, US media say](https://www.reuters.com/world/us/pentagon-readies-1500-soldiers-possibly-deploy-minnesota-washington-post-reports-2026-01-18/)
