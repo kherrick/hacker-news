@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2026-01-18, 13:32:25](https://news.ycombinator.com/item?id=46667675) - [What is Plan 9?](https://fqa.9front.org/fqa0.html#0.1)
+* [2026-01-18, 13:14:20](https://news.ycombinator.com/item?id=46667572) - [Software engineers can no longer neglect their soft skills](https://www.qu8n.com/posts/most-important-software-engineering-skill-2026)
 * [2026-01-18, 12:45:40](https://news.ycombinator.com/item?id=46667400) - [The guide to real-world EV battery health](https://www.geotab.com/blog/ev-battery-health/)
 * [2026-01-18, 12:00:10](https://news.ycombinator.com/item?id=46667101) - [Keystone (YC S25) Is Hiring](https://news.ycombinator.com/item?id=46667101)
 * [2026-01-18, 11:59:32](https://news.ycombinator.com/item?id=46667094) - [When Sysadmins Ruled the Earth (2006)](https://craphound.com/overclocked/Cory_Doctorow_-_Overclocked_-_When_Sysadmins_Ruled_the_Earth.html)
@@ -23,7 +24,6 @@
 * [2026-01-17, 14:31:33](https://news.ycombinator.com/item?id=46658345) - [The recurring dream of replacing developers](https://www.caimito.net/en/blog/2025/12/07/the-recurring-dream-of-replacing-developers.html)
 * [2026-01-17, 11:15:26](https://news.ycombinator.com/item?id=46657122) - [ASCII characters are not pixels: a deep dive into ASCII rendering](https://alexharri.com/blog/ascii-rendering)
 * [2026-01-15, 14:19:14](https://news.ycombinator.com/item?id=46632885) - [Poking holes into bytecode with peephole optimisations](https://xnacly.me/posts/2026/purple-garden-first-optimisations/)
-* [2026-01-14, 17:29:09](https://news.ycombinator.com/item?id=46619059) - [Xous Operating System](https://xous.dev/)
 * [2026-01-14, 13:52:32](https://news.ycombinator.com/item?id=46616077) - [The grab list: how museums decide what to save in a disaster](https://www.economist.com/1843/2025/11/21/the-grab-list-how-museums-decide-what-to-save-in-a-disaster)
 * [2026-01-13, 15:27:16](https://news.ycombinator.com/item?id=46602218) - [Five Practical Lessons for Serving Models with Triton Inference Server](https://talperry.com/en/posts/genai/triton-inference-server/)
 * [2026-01-13, 07:37:47](https://news.ycombinator.com/item?id=46598244) - [How London cracked mobile phone coverage on the Underground](https://www.ianvisits.co.uk/articles/how-london-finally-cracked-mobile-phone-coverage-on-the-underground-86784/)
