@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-01-18](index.md)
 
+* [2026-01-18, 16:17:39](https://news.ycombinator.com/item?id=46669025) - [Statement by Denmark, Finland, France, Germany, the Netherlands,Norway,Sweden,UK](https://www.presidentti.fi/statement-by-denmark-finland-france-germany-the-netherlands-norway-sweden-and-the-united-kingdom-englanniksi/)
+* [2026-01-18, 15:55:26](https://news.ycombinator.com/item?id=46668801) - [Purdue blocks admission of many Chinese grad students in unwritten policy](https://www.science.org/content/article/purdue-blocks-admission-many-chinese-grad-students-unwritten-policy)
 * [2026-01-18, 15:09:37](https://news.ycombinator.com/item?id=46668394) - [Why the Tech World Thinks the American Dream Is Dying](https://www.wsj.com/tech/ai/why-the-tech-world-thinks-the-american-dream-is-dying-daf793dc)
 * [2026-01-18, 14:45:37](https://news.ycombinator.com/item?id=46668170) - [AI companies will fail. We can salvage something from the wreckage](https://www.theguardian.com/us-news/ng-interactive/2026/jan/18/tech-ai-bubble-burst-reverse-centaur)
 * [2026-01-18, 14:38:28](https://news.ycombinator.com/item?id=46668107) - [The next-gen SQLite won't look like SQLite](https://gist.github.com/radarroark/03a0724484e1111ef4c05d72a935c42c)
