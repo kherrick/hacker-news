@@ -2,7 +2,7 @@
 
 * [2026-01-18, 19:21:14](https://news.ycombinator.com/item?id=46671191) - [Evolution Unleashed (2018)](https://aeon.co/essays/science-in-flux-is-a-revolution-brewing-in-evolutionary-theory)
 * [2026-01-18, 19:19:48](https://news.ycombinator.com/item?id=46671174) - [Breaking the Zimmermann Telegram (2018)](https://medium.com/lapsed-historian/breaking-the-zimmermann-telegram-b34ed1d73614)
-* [2026-01-18, 19:04:48](https://news.ycombinator.com/item?id=46671020) - [Tired of AI, people are committing to the analog lifestyle in 2026](https://www.cnn.com/2026/01/18/business/crafting-soars-ai-analog-wellness)
+* [2026-01-18, 19:09:43](https://news.ycombinator.com/item?id=46671086) - [Around 1,500 soldiers on standby for deployment to Minneapolis](https://www.bbc.co.uk/news/articles/c74v0pxg2nvo)
 * [2026-01-18, 18:03:03](https://news.ycombinator.com/item?id=46670290) - [Show HN: HTTP:COLON – A quick HTTP header/directive inspector and reference](https://httpcolon.dev/)
 * [2026-01-18, 18:01:58](https://news.ycombinator.com/item?id=46670279) - [Flux 2 Klein pure C inference](https://github.com/antirez/flux2.c)
 * [2026-01-18, 17:53:21](https://news.ycombinator.com/item?id=46670181) - [Show HN: Lume 0.2 – Build and Run macOS VMs with unattended setup](https://cua.ai/docs/lume/guide/getting-started/introduction)
@@ -23,11 +23,11 @@
 * [2026-01-18, 06:27:24](https://news.ycombinator.com/item?id=46665310) - [ThinkNext Design](https://thinknextdesign.com/home.html)
 * [2026-01-18, 05:55:48](https://news.ycombinator.com/item?id=46665169) - [Show HN: Figma-use – CLI to control Figma for AI agents](https://github.com/dannote/figma-use)
 * [2026-01-18, 03:48:03](https://news.ycombinator.com/item?id=46664631) - [Erdos 281 solved with ChatGPT 5.2 Pro](https://twitter.com/neelsomani/status/2012695714187325745)
-* [2026-01-18, 02:17:25](https://news.ycombinator.com/item?id=46664195) - [Profession by Isaac Asimov (1957)](https://www.abelard.org/asimov.php)
 * [2026-01-17, 11:15:26](https://news.ycombinator.com/item?id=46657122) - [ASCII characters are not pixels: a deep dive into ASCII rendering](https://alexharri.com/blog/ascii-rendering)
 * [2026-01-14, 10:43:31](https://news.ycombinator.com/item?id=46614487) - [More sustainable epoxy thanks to phosphorus](https://www.empa.ch/web/s604/flamm-hemmendes-epoxidharz-nachhaltiger-machen)
 * [2026-01-13, 21:26:59](https://news.ycombinator.com/item?id=46608342) - [The Cathedral, the Megachurch, and the Bazaar](https://opensourcesecurity.io/2026/01-cathedral-megachurch-bazaar/)
 * [2026-01-13, 13:56:09](https://news.ycombinator.com/item?id=46600955) - [Multiword matrix multiplication over large finite fields in floating-point](https://arxiv.org/abs/2601.07508)
+* [2026-01-12, 21:46:36](https://news.ycombinator.com/item?id=46594722) - [River Runner](https://river-runner.samlearner.com/)
 * [2026-01-12, 13:25:22](https://news.ycombinator.com/item?id=46588159) - [Milk-V Titan: A $329 8-Core 64-bit RISC-V mini-ITX board with PCIe Gen4x16](https://www.cnx-software.com/2026/01/12/milk-v-titan-a-329-octa-core-64-bit-risc-v-mini-itx-motherboard-with-a-pcie-gen4-x16-slot/)
 * [2026-01-12, 11:06:21](https://news.ycombinator.com/item?id=46586834) - [Design systems and shareable browser support](https://medium.com/flat-pack-tech/design-systems-and-shareable-browser-support-8b2783597fec)
 
