@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-01-18](index.md)
 
+* [2026-01-18, 19:19:48](https://news.ycombinator.com/item?id=46671174) - [Breaking the Zimmermann Telegram (2018)](https://medium.com/lapsed-historian/breaking-the-zimmermann-telegram-b34ed1d73614)
 * [2026-01-18, 18:23:14](https://news.ycombinator.com/item?id=46670568) - [A pandemic rescue became a 30-year debt trap](https://thehill.com/opinion/finance/5692543-small-business-loan-debt-trap/)
 * [2026-01-18, 18:20:25](https://news.ycombinator.com/item?id=46670524) - [America is slow-walking into a Polymarket disaster](https://www.msn.com/en-us/money/markets/america-is-slow-walking-into-a-polymarket-disaster/ar-AA1Upfdb)
 * [2026-01-18, 18:03:03](https://news.ycombinator.com/item?id=46670290) - [Show HN: HTTP:COLON – A quick HTTP header/directive inspector and reference](https://httpcolon.dev/)
