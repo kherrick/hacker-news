@@ -5,7 +5,7 @@
       "https://news.ycombinator.com/item?id=46663507"
     ],
     [
-      "MIT's Computer Systems Security (2024)",
+      "Computer Systems Security 6.566 / Spring 2024",
       "https://css.csail.mit.edu/6.858/2024/"
     ]
   ],
@@ -26,7 +26,7 @@
     ],
     [
       "If you put Apple icons in reverse it looks like someone getting good at design",
-      "https://www.threads.com/@heliographe.studio/post/DTeOwAykwQ1"
+      "https://mastodon.social/@heliographe_studio/115890819509545391"
     ]
   ],
   [
@@ -65,7 +65,7 @@
       "https://news.ycombinator.com/item?id=46661897"
     ],
     [
-      "A programming language based on grammatical cases of Turkish",
+      "Kip: A programming language based on grammatical cases of Turkish",
       "https://github.com/kip-dili/kip"
     ]
   ],
@@ -181,32 +181,12 @@
   ],
   [
     [
-      "2026-01-17, 08:46:08",
-      "https://news.ycombinator.com/item?id=46656358"
-    ],
-    [
-      "Show HN: Streaming gigabyte medical images from S3 without downloading them",
-      "https://github.com/PABannier/WSIStreamer"
-    ]
-  ],
-  [
-    [
       "2026-01-17, 05:20:20",
       "https://news.ycombinator.com/item?id=46655524"
     ],
     [
       "Counterfactual evaluation for recommendation systems",
       "https://eugeneyan.com/writing/counterfactual-evaluation/"
-    ]
-  ],
-  [
-    [
-      "2026-01-16, 15:37:19",
-      "https://news.ycombinator.com/item?id=46647491"
-    ],
-    [
-      "6-Day and IP Address Certificates Are Generally Available",
-      "https://letsencrypt.org/2026/01/15/6day-and-ip-general-availability"
     ]
   ],
   [
@@ -271,6 +251,16 @@
   ],
   [
     [
+      "2026-01-12, 06:38:51",
+      "https://news.ycombinator.com/item?id=46584880"
+    ],
+    [
+      "Common misunderstandings about large software companies",
+      "https://philipotoole.com/common-misunderstandings-about-large-software-companies/"
+    ]
+  ],
+  [
+    [
       "2026-01-11, 18:58:19",
       "https://news.ycombinator.com/item?id=46578601"
     ],
@@ -297,6 +287,16 @@
     [
       "Below the Surface: Archeological Finds from the Amsterdam Noord/Zuid Metro Line",
       "https://belowthesurface.amsterdam/en/vondsten"
+    ]
+  ],
+  [
+    [
+      "2026-01-11, 12:05:17",
+      "https://news.ycombinator.com/item?id=46574989"
+    ],
+    [
+      "Why Object of Arrays beat interleaved arrays: a JavaScript performance issue",
+      "https://www.royalbhati.com/posts/js-array-vs-typedarray"
     ]
   ]
 ]
