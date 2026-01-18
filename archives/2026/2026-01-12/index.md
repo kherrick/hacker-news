@@ -49,6 +49,7 @@
 * [2026-01-12, 14:24:16](https://news.ycombinator.com/item?id=46588915) - [The First PC Virus](https://www.bbc.com/audio/play/w3ct7479)
 * [2026-01-12, 14:23:07](https://news.ycombinator.com/item?id=46588905) - [Show HN: Agent-of-empires: OpenCode and Claude Code session manager](https://github.com/njbrake/agent-of-empires)
 * [2026-01-12, 14:18:13](https://news.ycombinator.com/item?id=46588837) - [LLVM: The Bad Parts](https://www.npopov.com/2026/01/11/LLVM-The-bad-parts.html)
+* [2026-01-12, 14:03:35](https://news.ycombinator.com/item?id=46588660) - [Claude Shannon's randomness-guessing machine](https://www.loper-os.org/bad-at-entropy/manmach.html)
 * [2026-01-12, 13:59:54](https://news.ycombinator.com/item?id=46588607) - [Cue Does It All, but Can It Literate?](https://xlii.space/cue/cue-does-it-all-but-can-it-literate/)
 * [2026-01-12, 13:58:23](https://news.ycombinator.com/item?id=46588584) - [Zorgdomein Integration: A Guide to Secure .NET and Azure Architecture](https://plakhlani.in/healthcare/bidirectional-patient-data-exchange-with-zorgdomein/)
 * [2026-01-12, 13:57:32](https://news.ycombinator.com/item?id=46588572) - [Reproducing DeepSeek's MHC: When Residual Connections Explode](https://taylorkolasinski.com/notes/mhc-reproduction/)
