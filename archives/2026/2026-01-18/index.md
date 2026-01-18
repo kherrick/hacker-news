@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-01-18](index.md)
 
+* [2026-01-18, 07:01:12](https://news.ycombinator.com/item?id=46665453) - [Launching the Handmade Software Foundation](https://handmade.network/blog/p/9106-welcome_to_2026%2521#30623)
+* [2026-01-18, 06:27:24](https://news.ycombinator.com/item?id=46665310) - [Spirit of ThinkPad](https://thinknextdesign.com/home.html)
 * [2026-01-18, 04:26:29](https://news.ycombinator.com/item?id=46664771) - [The relentless rule of my fitness tracker](https://timharford.com/2025/10/the-relentless-rule-of-my-fitness-tracker/)
 * [2026-01-18, 04:23:28](https://news.ycombinator.com/item?id=46664755) - [jQuery 4.0.0 Released](https://blog.jquery.com/2026/01/17/jquery-4-0-0/)
 * [2026-01-18, 03:52:10](https://news.ycombinator.com/item?id=46664646) - [U.S. Court Order Against Anna's Archive Spells More Trouble for the Site](https://torrentfreak.com/u-s-court-order-against-annas-archive-spells-more-trouble-for-the-site/)
