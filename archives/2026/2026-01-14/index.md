@@ -64,6 +64,7 @@
 * [2026-01-14, 14:35:50](https://news.ycombinator.com/item?id=46616496) - [Edge of Emulation: Game Boy Sewing Machines](https://shonumi.github.io/articles/art22.html)
 * [2026-01-14, 14:34:57](https://news.ycombinator.com/item?id=46616488) - [SparkFun Officially Dropping AdaFruit due to CoC Violation](https://www.sparkfun.com/official-response)
 * [2026-01-14, 14:34:40](https://news.ycombinator.com/item?id=46616481) - [Show HN: Webctl – Browser automation for agents based on CLI instead of MCP](https://github.com/cosinusalpha/webctl)
+* [2026-01-14, 13:52:32](https://news.ycombinator.com/item?id=46616077) - [The grab list: how museums decide what to save in a disaster](https://www.economist.com/1843/2025/11/21/the-grab-list-how-museums-decide-what-to-save-in-a-disaster)
 * [2026-01-14, 12:42:02](https://news.ycombinator.com/item?id=46615374) - [Why NUKEMAP isn't on Google Maps anymore (2019)](https://blog.nuclearsecrecy.com/2019/12/13/why-nukemap-isnt-on-google-maps-anymore/)
 * [2026-01-14, 12:25:59](https://news.ycombinator.com/item?id=46615235) - [Lago (Open-Source Billing) is hiring across teams and geos](https://news.ycombinator.com/item?id=46615235)
 * [2026-01-14, 12:14:48](https://news.ycombinator.com/item?id=46615167) - [Servo 2025 Stats](https://blogs.igalia.com/mrego/servo-2025-stats/)
