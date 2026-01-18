@@ -2,7 +2,6 @@
 
 * [2026-01-18, 10:13:27](https://news.ycombinator.com/item?id=46666492) - [EU and Mercosur countries sign landmark free trade deal](https://www.dw.com/en/eu-and-mercosur-countries-sign-landmark-free-trade-deal/a-75545794)
 * [2026-01-18, 09:35:19](https://news.ycombinator.com/item?id=46666283) - [Consent-O-Matic](https://github.com/cavi-au/Consent-O-Matic)
-* [2026-01-18, 09:24:21](https://news.ycombinator.com/item?id=46666221) - [Pentagon readies 1,500 troops to possibly deploy to Minnesota, US media say](https://www.reuters.com/world/us/pentagon-readies-1500-soldiers-possibly-deploy-minnesota-washington-post-reports-2026-01-18/)
 * [2026-01-18, 08:58:40](https://news.ycombinator.com/item?id=46666085) - [Command-line Tools can be 235x Faster than your Hadoop Cluster (2014)](https://adamdrake.com/command-line-tools-can-be-235x-faster-than-your-hadoop-cluster.html)
 * [2026-01-18, 06:53:36](https://news.ycombinator.com/item?id=46665411) - [Iconify: Library of Open Source Icons](https://icon-sets.iconify.design/)
 * [2026-01-18, 06:47:17](https://news.ycombinator.com/item?id=46665393) - [Show HN: GibRAM an in-memory ephemeral GraphRAG runtime for retrieval](https://github.com/gibram-io/gibram)
@@ -16,6 +15,7 @@
 * [2026-01-18, 00:09:43](https://news.ycombinator.com/item?id=46663507) - [Computer Systems Security 6.566 / Spring 2024](https://css.csail.mit.edu/6.858/2024/)
 * [2026-01-17, 23:47:16](https://news.ycombinator.com/item?id=46663338) - [If you put Apple icons in reverse it looks like someone getting good at design](https://mastodon.social/@heliographe_studio/115890819509545391)
 * [2026-01-17, 23:38:21](https://news.ycombinator.com/item?id=46663268) - [No knives, only cook knives](https://kellykozakandjoshdonald.substack.com/p/no-knives-only-cook-knives)
+* [2026-01-17, 21:40:53](https://news.ycombinator.com/item?id=46662399) - [Show HN: Speed Miners – A tiny RTS resource mini-game](https://speedminers.fun/)
 * [2026-01-17, 20:44:52](https://news.ycombinator.com/item?id=46661897) - [Kip: A programming language based on grammatical cases of Turkish](https://github.com/kip-dili/kip)
 * [2026-01-17, 18:29:00](https://news.ycombinator.com/item?id=46660543) - [Raising money fucked me up](https://blog.yakkomajuri.com/blog/raising-money-fucked-me-up)
 * [2026-01-17, 16:53:24](https://news.ycombinator.com/item?id=46659550) - [An Elizabethan mansion's secrets for staying warm](https://www.bbc.com/future/article/20260116-an-elizabethan-mansions-secrets-for-staying-warm)
