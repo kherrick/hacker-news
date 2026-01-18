@@ -4,7 +4,15 @@
 
 ### [Archives](../../index.md) for [2026-01-18](index.md)
 
+* [2026-01-18, 18:23:14](https://news.ycombinator.com/item?id=46670568) - [A pandemic rescue became a 30-year debt trap](https://thehill.com/opinion/finance/5692543-small-business-loan-debt-trap/)
+* [2026-01-18, 18:20:25](https://news.ycombinator.com/item?id=46670524) - [America is slow-walking into a Polymarket disaster](https://www.msn.com/en-us/money/markets/america-is-slow-walking-into-a-polymarket-disaster/ar-AA1Upfdb)
+* [2026-01-18, 18:03:03](https://news.ycombinator.com/item?id=46670290) - [Show HN: HTTP:COLON – A quick HTTP header/directive inspector and reference](https://httpcolon.dev/)
+* [2026-01-18, 17:53:21](https://news.ycombinator.com/item?id=46670181) - [Show HN: Lume 0.2 – Build and Run macOS VMs with unattended setup](https://cua.ai/docs/lume/guide/getting-started/introduction)
+* [2026-01-18, 17:40:55](https://news.ycombinator.com/item?id=46670024) - [Gaussian Splatting – A$AP Rocky Helicopter Music Video](https://radiancefields.com/a-ap-rocky-releases-helicopter-music-video-featuring-gaussian-splatting)
+* [2026-01-18, 17:38:22](https://news.ycombinator.com/item?id=46669996) - [How the Lobsters front page works](https://atharvaraykar.com/lobsters/)
+* [2026-01-18, 17:08:58](https://news.ycombinator.com/item?id=46669663) - [Sins of the Children (Adrian Tchaikovsky)](https://asteriskmag.com/issues/07/sins-of-the-children)
 * [2026-01-18, 16:50:37](https://news.ycombinator.com/item?id=46669404) - [The Nobel Prize and the Laureate Are Inseparable](https://www.nobelpeaceprize.org/press/press-releases/the-nobel-prize-and-the-laureate-are-inseparable)
+* [2026-01-18, 16:43:44](https://news.ycombinator.com/item?id=46669289) - [Stop using MySQL in 2026, it is not true open source](https://optimizedbyotto.com/post/reasons-to-stop-using-mysql/)
 * [2026-01-18, 16:40:21](https://news.ycombinator.com/item?id=46669250) - [Solve the MH370 Paradox in 10 Seconds](https://www.researchgate.net/publication/380531233_Solve_the_MH370_Paradox_in_10_Seconds)
 * [2026-01-18, 16:17:39](https://news.ycombinator.com/item?id=46669025) - [Statement by Denmark, Finland, France, Germany, the Netherlands,Norway,Sweden,UK](https://www.presidentti.fi/statement-by-denmark-finland-france-germany-the-netherlands-norway-sweden-and-the-united-kingdom-englanniksi/)
 * [2026-01-18, 15:55:26](https://news.ycombinator.com/item?id=46668801) - [Purdue blocks admission of many Chinese grad students in unwritten policy](https://www.science.org/content/article/purdue-blocks-admission-many-chinese-grad-students-unwritten-policy)

@@ -73,6 +73,7 @@
 * [2026-01-12, 12:00:05](https://news.ycombinator.com/item?id=46587253) - [Show HN: A cross-platform toolkit to explore OS internals and capabilities](https://news.ycombinator.com/item?id=46587253)
 * [2026-01-12, 11:31:56](https://news.ycombinator.com/item?id=46587033) - [How to Build Reactive Declarative UI in Vanilla JavaScript](https://jsdev.space/howto/reactive-vanilla-js/)
 * [2026-01-12, 11:18:15](https://news.ycombinator.com/item?id=46586940) - [IKEA for Software](https://tommaso-girotto.co/blog/an-ikea-for-software)
+* [2026-01-12, 11:06:21](https://news.ycombinator.com/item?id=46586834) - [Design systems and shareable browser support](https://medium.com/flat-pack-tech/design-systems-and-shareable-browser-support-8b2783597fec)
 * [2026-01-12, 10:57:29](https://news.ycombinator.com/item?id=46586766) - [Anthropic Made a Big Mistake](https://archaeologist.dev/artifacts/anthropic)
 * [2026-01-12, 10:50:13](https://news.ycombinator.com/item?id=46586714) - [What are Tithe Maps (2021)](https://mapreading.co.uk/what-are-tithe-maps/)
 * [2026-01-12, 10:48:02](https://news.ycombinator.com/item?id=46586694) - [Feature Selection: A Primer](https://ikromshi.com/2025/12/30/feature-selection-primer.html)
