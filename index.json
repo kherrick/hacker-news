@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-01-18, 22:08:36",
+      "https://news.ycombinator.com/item?id=46672653"
+    ],
+    [
+      "Trump's Fed fight looks like something from another country",
+      "https://www.bbc.com/news/articles/cy9yxlz70dvo"
+    ]
+  ],
+  [
+    [
       "2026-01-18, 21:05:14",
       "https://news.ycombinator.com/item?id=46672150"
     ],
@@ -21,12 +31,12 @@
   ],
   [
     [
-      "2026-01-18, 19:21:14",
-      "https://news.ycombinator.com/item?id=46671191"
+      "2026-01-18, 20:19:07",
+      "https://news.ycombinator.com/item?id=46671731"
     ],
     [
-      "Evolution Unleashed (2018)",
-      "https://aeon.co/essays/science-in-flux-is-a-revolution-brewing-in-evolutionary-theory"
+      "Dead Internet Theory",
+      "https://kudmitry.com/articles/dead-internet-theory/"
     ]
   ],
   [
@@ -97,16 +107,6 @@
     [
       "Predicting OpenAI's ad strategy",
       "https://ossa-ma.github.io/blog/openads"
-    ]
-  ],
-  [
-    [
-      "2026-01-18, 13:32:25",
-      "https://news.ycombinator.com/item?id=46667675"
-    ],
-    [
-      "What is Plan 9?",
-      "https://fqa.9front.org/fqa0.html#0.1"
     ]
   ],
   [
@@ -251,16 +251,6 @@
   ],
   [
     [
-      "2026-01-18, 02:17:25",
-      "https://news.ycombinator.com/item?id=46664195"
-    ],
-    [
-      "Profession by Isaac Asimov (1957)",
-      "https://www.abelard.org/asimov.php"
-    ]
-  ],
-  [
-    [
       "2026-01-17, 11:15:26",
       "https://news.ycombinator.com/item?id=46657122"
     ],
@@ -277,6 +267,16 @@
     [
       "Cardputer uLisp Machine (2024)",
       "http://www.ulisp.com/show?52G4"
+    ]
+  ],
+  [
+    [
+      "2026-01-14, 12:59:33",
+      "https://news.ycombinator.com/item?id=46615530"
+    ],
+    [
+      "Show HN: Run LLMs in Docker for any language without prebuilding containers",
+      "https://github.com/mheap/agent-en-place"
     ]
   ],
   [
