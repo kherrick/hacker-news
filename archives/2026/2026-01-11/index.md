@@ -12,6 +12,7 @@
 * [2026-01-11, 22:00:24](https://news.ycombinator.com/item?id=46580703) - [The Next Two Years of Software Engineering](https://addyosmani.com/blog/next-two-years/)
 * [2026-01-11, 21:59:26](https://news.ycombinator.com/item?id=46580694) - [iMessage-kit is an iMessage SDK for macOS](https://github.com/photon-hq/imessage-kit)
 * [2026-01-11, 21:55:34](https://news.ycombinator.com/item?id=46580652) - [Show HN: Engineering Schizophrenia: Trusting Yourself Through Byzantine Faults](https://news.ycombinator.com/item?id=46580652)
+* [2026-01-11, 21:44:36](https://news.ycombinator.com/item?id=46580506) - [Play chess via Slack DMs or SMS using an ASCII board](https://github.com/dvelton/dm-chess)
 * [2026-01-11, 21:29:57](https://news.ycombinator.com/item?id=46580326) - [2026 is the Year of Self-hosting](https://fulghum.io/self-hosting)
 * [2026-01-11, 21:28:37](https://news.ycombinator.com/item?id=46580309) - [A 2026 look at three bio-ML opinions I had in 2024](https://www.owlposting.com/p/a-2026-look-at-three-bio-ml-opinions)
 * [2026-01-11, 21:12:45](https://news.ycombinator.com/item?id=46580136) - [FUSE is All You Need – Giving agents access to anything via filesystems](https://jakobemmerling.de/posts/fuse-is-all-you-need/)
