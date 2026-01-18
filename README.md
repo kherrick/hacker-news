@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2026-01-18, 16:50:37](https://news.ycombinator.com/item?id=46669404) - [The Nobel Prize and the Laureate Are Inseparable](https://www.nobelpeaceprize.org/press/press-releases/the-nobel-prize-and-the-laureate-are-inseparable)
-* [2026-01-18, 16:40:21](https://news.ycombinator.com/item?id=46669250) - [Solve the MH370 Paradox in 10 Seconds](https://www.researchgate.net/publication/380531233_Solve_the_MH370_Paradox_in_10_Seconds)
 * [2026-01-18, 15:55:26](https://news.ycombinator.com/item?id=46668801) - [Purdue blocks admission of many Chinese grad students in unwritten policy](https://www.science.org/content/article/purdue-blocks-admission-many-chinese-grad-students-unwritten-policy)
 * [2026-01-18, 14:25:49](https://news.ycombinator.com/item?id=46668021) - [Predicting OpenAI's ad strategy](https://ossa-ma.github.io/blog/openads)
 * [2026-01-18, 13:32:25](https://news.ycombinator.com/item?id=46667675) - [What is Plan 9?](https://fqa.9front.org/fqa0.html#0.1)
@@ -19,6 +18,7 @@
 * [2026-01-18, 03:49:29](https://news.ycombinator.com/item?id=46664638) - [The longest Greek word](https://en.wikipedia.org/wiki/Lopado%C2%ADtemacho%C2%ADselacho%C2%ADgaleo%C2%ADkranio%C2%ADleipsano%C2%ADdrim%C2%ADhypo%C2%ADtrimmato%C2%ADsilphio%C2%ADkarabo%C2%ADmelito%C2%ADkatakechy%C2%ADmeno%C2%ADkichl%C2%ADepi%C2%ADkossypho%C2%ADphatto%C2%ADperister%C2%ADalektryon%C2%ADopte%C2%ADkephallio%C2%ADkigklo%C2%ADpeleio%C2%ADlagoio%C2%ADsiraio%C2%ADbaphe%C2%ADtragano%C2%ADpterygon)
 * [2026-01-18, 03:48:03](https://news.ycombinator.com/item?id=46664631) - [Erdos 281 solved with ChatGPT 5.2 Pro](https://twitter.com/neelsomani/status/2012695714187325745)
 * [2026-01-18, 02:17:25](https://news.ycombinator.com/item?id=46664195) - [Profession by Isaac Asimov (1957)](https://www.abelard.org/asimov.php)
+* [2026-01-17, 23:38:21](https://news.ycombinator.com/item?id=46663268) - [No knives, only cook knives](https://kellykozakandjoshdonald.substack.com/p/no-knives-only-cook-knives)
 * [2026-01-17, 20:44:52](https://news.ycombinator.com/item?id=46661897) - [Kip: A programming language based on grammatical cases of Turkish](https://github.com/kip-dili/kip)
 * [2026-01-17, 18:29:00](https://news.ycombinator.com/item?id=46660543) - [Raising money fucked me up](https://blog.yakkomajuri.com/blog/raising-money-fucked-me-up)
 * [2026-01-17, 11:15:26](https://news.ycombinator.com/item?id=46657122) - [ASCII characters are not pixels: a deep dive into ASCII rendering](https://alexharri.com/blog/ascii-rendering)
