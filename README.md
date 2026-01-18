@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-01-18, 21:05:14](https://news.ycombinator.com/item?id=46672150) - [Police Invested Millions in Shadowy Phone-Tracking Software Won't Say How Used](https://www.texasobserver.org/texas-police-invest-tangles-sheriff-surveillance/)
 * [2026-01-18, 20:45:54](https://news.ycombinator.com/item?id=46671982) - [Stirling Cycle Machine Analysis](https://ohioopen.library.ohio.edu/opentextbooks/9/)
-* [2026-01-18, 19:41:40](https://news.ycombinator.com/item?id=46671386) - [Microslop: A Web Browser Extension](https://github.com/4O4-wasd/Microslop)
 * [2026-01-18, 19:21:14](https://news.ycombinator.com/item?id=46671191) - [Evolution Unleashed (2018)](https://aeon.co/essays/science-in-flux-is-a-revolution-brewing-in-evolutionary-theory)
 * [2026-01-18, 19:19:48](https://news.ycombinator.com/item?id=46671174) - [Breaking the Zimmermann Telegram (2018)](https://medium.com/lapsed-historian/breaking-the-zimmermann-telegram-b34ed1d73614)
 * [2026-01-18, 18:03:03](https://news.ycombinator.com/item?id=46670290) - [Show HN: HTTP:COLON – A quick HTTP header/directive inspector and reference](https://httpcolon.dev/)
@@ -23,13 +23,13 @@
 * [2026-01-18, 06:53:36](https://news.ycombinator.com/item?id=46665411) - [Iconify: Library of Open Source Icons](https://icon-sets.iconify.design/)
 * [2026-01-18, 06:27:24](https://news.ycombinator.com/item?id=46665310) - [ThinkNext Design](https://thinknextdesign.com/home.html)
 * [2026-01-18, 05:55:48](https://news.ycombinator.com/item?id=46665169) - [Show HN: Figma-use – CLI to control Figma for AI agents](https://github.com/dannote/figma-use)
+* [2026-01-18, 04:23:28](https://news.ycombinator.com/item?id=46664755) - [jQuery 4](https://blog.jquery.com/2026/01/17/jquery-4-0-0/)
 * [2026-01-18, 03:48:03](https://news.ycombinator.com/item?id=46664631) - [Erdos 281 solved with ChatGPT 5.2 Pro](https://twitter.com/neelsomani/status/2012695714187325745)
+* [2026-01-18, 02:17:25](https://news.ycombinator.com/item?id=46664195) - [Profession by Isaac Asimov (1957)](https://www.abelard.org/asimov.php)
 * [2026-01-17, 11:15:26](https://news.ycombinator.com/item?id=46657122) - [ASCII characters are not pixels: a deep dive into ASCII rendering](https://alexharri.com/blog/ascii-rendering)
+* [2026-01-15, 12:01:18](https://news.ycombinator.com/item?id=46631281) - [Cardputer uLisp Machine (2024)](http://www.ulisp.com/show?52G4)
 * [2026-01-14, 10:43:31](https://news.ycombinator.com/item?id=46614487) - [More sustainable epoxy thanks to phosphorus](https://www.empa.ch/web/s604/flamm-hemmendes-epoxidharz-nachhaltiger-machen)
 * [2026-01-13, 21:26:59](https://news.ycombinator.com/item?id=46608342) - [The Cathedral, the Megachurch, and the Bazaar](https://opensourcesecurity.io/2026/01-cathedral-megachurch-bazaar/)
-* [2026-01-13, 13:56:09](https://news.ycombinator.com/item?id=46600955) - [Multiword matrix multiplication over large finite fields in floating-point](https://arxiv.org/abs/2601.07508)
-* [2026-01-12, 21:46:36](https://news.ycombinator.com/item?id=46594722) - [River Runner](https://river-runner.samlearner.com/)
-* [2026-01-12, 13:25:22](https://news.ycombinator.com/item?id=46588159) - [Milk-V Titan: A $329 8-Core 64-bit RISC-V mini-ITX board with PCIe Gen4x16](https://www.cnx-software.com/2026/01/12/milk-v-titan-a-329-octa-core-64-bit-risc-v-mini-itx-motherboard-with-a-pcie-gen4-x16-slot/)
 
 ## [Archives](archives/index.md)
 
