@@ -101,16 +101,6 @@
   ],
   [
     [
-      "2026-01-18, 01:55:34",
-      "https://news.ycombinator.com/item?id=46664079"
-    ],
-    [
-      "Dark Mode vs. Light Mode: Which Is Better?",
-      "https://www.nngroup.com/articles/dark-mode/"
-    ]
-  ],
-  [
-    [
       "2026-01-18, 00:09:43",
       "https://news.ycombinator.com/item?id=46663507"
     ],
@@ -267,6 +257,16 @@
     [
       "Claude Shannon's randomness-guessing machine",
       "https://www.loper-os.org/bad-at-entropy/manmach.html"
+    ]
+  ],
+  [
+    [
+      "2026-01-11, 21:44:36",
+      "https://news.ycombinator.com/item?id=46580506"
+    ],
+    [
+      "Play chess via Slack DMs or SMS using an ASCII board",
+      "https://github.com/dvelton/dm-chess"
     ]
   ],
   [
