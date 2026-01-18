@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-01-18](index.md)
 
+* [2026-01-18, 14:38:28](https://news.ycombinator.com/item?id=46668107) - [The next-gen SQLite won't look like SQLite](https://gist.github.com/radarroark/03a0724484e1111ef4c05d72a935c42c)
 * [2026-01-18, 14:25:49](https://news.ycombinator.com/item?id=46668021) - [The A in AGI Stands for Ads](https://ossa-ma.github.io/blog/openads)
+* [2026-01-18, 13:54:09](https://news.ycombinator.com/item?id=46667821) - [The Harvesting of Lettuce](https://sftw.substack.com/p/310-to-yuma)
 * [2026-01-18, 13:32:25](https://news.ycombinator.com/item?id=46667675) - [What Is Plan 9?](https://fqa.9front.org/fqa0.html#0.1)
 * [2026-01-18, 13:14:20](https://news.ycombinator.com/item?id=46667572) - [Software engineers can no longer neglect their soft skills](https://www.qu8n.com/posts/most-important-software-engineering-skill-2026)
 * [2026-01-18, 12:45:40](https://news.ycombinator.com/item?id=46667400) - [The guide to real-world EV battery health](https://www.geotab.com/blog/ev-battery-health/)

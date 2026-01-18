@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-01-18, 14:38:28](https://news.ycombinator.com/item?id=46668107) - [The next-gen SQLite won't look like SQLite](https://gist.github.com/radarroark/03a0724484e1111ef4c05d72a935c42c)
 * [2026-01-18, 14:25:49](https://news.ycombinator.com/item?id=46668021) - [The A in AGI Stands for Ads](https://ossa-ma.github.io/blog/openads)
+* [2026-01-18, 13:54:09](https://news.ycombinator.com/item?id=46667821) - [The Harvesting of Lettuce](https://sftw.substack.com/p/310-to-yuma)
 * [2026-01-18, 13:32:25](https://news.ycombinator.com/item?id=46667675) - [What is Plan 9?](https://fqa.9front.org/fqa0.html#0.1)
 * [2026-01-18, 13:14:20](https://news.ycombinator.com/item?id=46667572) - [Software engineers can no longer neglect their soft skills](https://www.qu8n.com/posts/most-important-software-engineering-skill-2026)
 * [2026-01-18, 12:45:40](https://news.ycombinator.com/item?id=46667400) - [The guide to real-world EV battery health](https://www.geotab.com/blog/ev-battery-health/)
@@ -17,7 +19,6 @@
 * [2026-01-18, 03:49:29](https://news.ycombinator.com/item?id=46664638) - [The longest Greek word](https://en.wikipedia.org/wiki/Lopado%C2%ADtemacho%C2%ADselacho%C2%ADgaleo%C2%ADkranio%C2%ADleipsano%C2%ADdrim%C2%ADhypo%C2%ADtrimmato%C2%ADsilphio%C2%ADkarabo%C2%ADmelito%C2%ADkatakechy%C2%ADmeno%C2%ADkichl%C2%ADepi%C2%ADkossypho%C2%ADphatto%C2%ADperister%C2%ADalektryon%C2%ADopte%C2%ADkephallio%C2%ADkigklo%C2%ADpeleio%C2%ADlagoio%C2%ADsiraio%C2%ADbaphe%C2%ADtragano%C2%ADpterygon)
 * [2026-01-18, 03:48:03](https://news.ycombinator.com/item?id=46664631) - [Erdos 281 solved with ChatGPT 5.2 Pro](https://twitter.com/neelsomani/status/2012695714187325745)
 * [2026-01-18, 02:17:25](https://news.ycombinator.com/item?id=46664195) - [Profession by Isaac Asimov (1957)](https://www.abelard.org/asimov.php)
-* [2026-01-17, 23:47:16](https://news.ycombinator.com/item?id=46663338) - [If you put Apple icons in reverse it looks like someone getting good at design](https://mastodon.social/@heliographe_studio/115890819509545391)
 * [2026-01-17, 23:38:21](https://news.ycombinator.com/item?id=46663268) - [No knives, only cook knives](https://kellykozakandjoshdonald.substack.com/p/no-knives-only-cook-knives)
 * [2026-01-17, 20:44:52](https://news.ycombinator.com/item?id=46661897) - [Kip: A programming language based on grammatical cases of Turkish](https://github.com/kip-dili/kip)
 * [2026-01-17, 18:29:00](https://news.ycombinator.com/item?id=46660543) - [Raising money fucked me up](https://blog.yakkomajuri.com/blog/raising-money-fucked-me-up)
@@ -29,7 +30,6 @@
 * [2026-01-12, 14:28:17](https://news.ycombinator.com/item?id=46588972) - [We put Claude Code in Rollercoaster Tycoon](https://labs.ramp.com/rct)
 * [2026-01-12, 13:25:22](https://news.ycombinator.com/item?id=46588159) - [Milk-V Titan: A $329 8-Core 64-bit RISC-V mini-ITX board with PCIe Gen4x16](https://www.cnx-software.com/2026/01/12/milk-v-titan-a-329-octa-core-64-bit-risc-v-mini-itx-motherboard-with-a-pcie-gen4-x16-slot/)
 * [2026-01-11, 21:44:36](https://news.ycombinator.com/item?id=46580506) - [Play chess via Slack DMs or SMS using an ASCII board](https://github.com/dvelton/dm-chess)
-* [2026-01-11, 15:33:04](https://news.ycombinator.com/item?id=46576581) - [The Olivetti Company](https://www.abortretry.fail/p/the-olivetti-company)
 
 ## [Archives](archives/index.md)
 
