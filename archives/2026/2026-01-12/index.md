@@ -30,6 +30,7 @@
 * [2026-01-12, 17:00:48](https://news.ycombinator.com/item?id=46591170) - [Carma (YC W24 clients, A in 6mo) Eng hiring: Replace $500B human fleet ops with AI](https://news.ycombinator.com/item?id=46591170)
 * [2026-01-12, 16:56:17](https://news.ycombinator.com/item?id=46591100) - [Show HN: AI in SolidWorks](https://www.trylad.com)
 * [2026-01-12, 16:20:16](https://news.ycombinator.com/item?id=46590541) - [Building a 25 Gbit/s workstation for the SCION Association](https://github.com/scionassociation/blog-25gbit-workstation)
+* [2026-01-12, 16:17:17](https://news.ycombinator.com/item?id=46590480) - [Ask HN: Does PPP (Parity Pricing) work for one-time digital products?](https://apmcommunication.com/tech-lead)
 * [2026-01-12, 16:13:43](https://news.ycombinator.com/item?id=46590422) - [Show HN: CleanCloud – Cloud cleanup that can't delete anything](https://getcleancloud.com)
 * [2026-01-12, 16:12:27](https://news.ycombinator.com/item?id=46590404) - [Experts Warn of Growing Parrot Crisis in Canada](https://www.ctvnews.ca/ottawa/video/2026/01/06/experts-warn-of-growing-parrot-crisis-in-canada/)
 * [2026-01-12, 16:04:27](https://news.ycombinator.com/item?id=46590280) - [TimeCapsuleLLM: LLM trained only on data from 1800-1875](https://github.com/haykgrigo3/TimeCapsuleLLM)

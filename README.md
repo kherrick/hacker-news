@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-01-18, 15:09:37](https://news.ycombinator.com/item?id=46668394) - [Why the Tech World Thinks the American Dream Is Dying](https://www.wsj.com/tech/ai/why-the-tech-world-thinks-the-american-dream-is-dying-daf793dc)
 * [2026-01-18, 14:45:37](https://news.ycombinator.com/item?id=46668170) - [AI companies will fail. We can salvage something from the wreckage](https://www.theguardian.com/us-news/ng-interactive/2026/jan/18/tech-ai-bubble-burst-reverse-centaur)
 * [2026-01-18, 14:25:49](https://news.ycombinator.com/item?id=46668021) - [The A in AGI Stands for Ads](https://ossa-ma.github.io/blog/openads)
 * [2026-01-18, 13:32:25](https://news.ycombinator.com/item?id=46667675) - [What is Plan 9?](https://fqa.9front.org/fqa0.html#0.1)
@@ -26,6 +25,7 @@
 * [2026-01-14, 13:52:32](https://news.ycombinator.com/item?id=46616077) - [The grab list: how museums decide what to save in a disaster](https://www.economist.com/1843/2025/11/21/the-grab-list-how-museums-decide-what-to-save-in-a-disaster)
 * [2026-01-14, 10:43:31](https://news.ycombinator.com/item?id=46614487) - [More sustainable epoxy thanks to phosphorus](https://www.empa.ch/web/s604/flamm-hemmendes-epoxidharz-nachhaltiger-machen)
 * [2026-01-13, 07:37:47](https://news.ycombinator.com/item?id=46598244) - [How London cracked mobile phone coverage on the Underground](https://www.ianvisits.co.uk/articles/how-london-finally-cracked-mobile-phone-coverage-on-the-underground-86784/)
+* [2026-01-12, 16:17:17](https://news.ycombinator.com/item?id=46590480) - [Ask HN: Does PPP (Parity Pricing) work for one-time digital products?](https://apmcommunication.com/tech-lead)
 * [2026-01-12, 14:28:17](https://news.ycombinator.com/item?id=46588972) - [We put Claude Code in Rollercoaster Tycoon](https://labs.ramp.com/rct)
 * [2026-01-12, 13:25:22](https://news.ycombinator.com/item?id=46588159) - [Milk-V Titan: A $329 8-Core 64-bit RISC-V mini-ITX board with PCIe Gen4x16](https://www.cnx-software.com/2026/01/12/milk-v-titan-a-329-octa-core-64-bit-risc-v-mini-itx-motherboard-with-a-pcie-gen4-x16-slot/)
 * [2026-01-11, 21:44:36](https://news.ycombinator.com/item?id=46580506) - [Play chess via Slack DMs or SMS using an ASCII board](https://github.com/dvelton/dm-chess)
