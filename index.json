@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-01-18, 14:25:49",
+      "https://news.ycombinator.com/item?id=46668021"
+    ],
+    [
+      "The A in AGI Stands for Ads",
+      "https://ossa-ma.github.io/blog/openads"
+    ]
+  ],
+  [
+    [
       "2026-01-18, 13:32:25",
       "https://news.ycombinator.com/item?id=46667675"
     ],
@@ -37,16 +47,6 @@
     [
       "Keystone (YC S25) Is Hiring",
       "https://news.ycombinator.com/item?id=46667101"
-    ]
-  ],
-  [
-    [
-      "2026-01-18, 11:59:32",
-      "https://news.ycombinator.com/item?id=46667094"
-    ],
-    [
-      "When Sysadmins Ruled the Earth (2006)",
-      "https://craphound.com/overclocked/Cory_Doctorow_-_Overclocked_-_When_Sysadmins_Ruled_the_Earth.html"
     ]
   ],
   [
@@ -165,7 +165,7 @@
       "https://news.ycombinator.com/item?id=46664195"
     ],
     [
-      "Profession by Isaac Asimov",
+      "Profession by Isaac Asimov (1957)",
       "https://www.abelard.org/asimov.php"
     ]
   ],
@@ -251,16 +251,6 @@
   ],
   [
     [
-      "2026-01-13, 15:27:16",
-      "https://news.ycombinator.com/item?id=46602218"
-    ],
-    [
-      "Five Practical Lessons for Serving Models with Triton Inference Server",
-      "https://talperry.com/en/posts/genai/triton-inference-server/"
-    ]
-  ],
-  [
-    [
       "2026-01-13, 07:37:47",
       "https://news.ycombinator.com/item?id=46598244"
     ],
@@ -297,6 +287,16 @@
     [
       "Play chess via Slack DMs or SMS using an ASCII board",
       "https://github.com/dvelton/dm-chess"
+    ]
+  ],
+  [
+    [
+      "2026-01-11, 15:33:04",
+      "https://news.ycombinator.com/item?id=46576581"
+    ],
+    [
+      "The Olivetti Company",
+      "https://www.abortretry.fail/p/the-olivetti-company"
     ]
   ]
 ]
