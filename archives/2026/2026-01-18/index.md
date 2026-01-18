@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-01-18](index.md)
 
+* [2026-01-18, 22:15:01](https://news.ycombinator.com/item?id=46672701) - [Simple GIS on Potato](https://github.com/blue-monads/potato-apps/tree/master/cimple-gis)
 * [2026-01-18, 22:08:36](https://news.ycombinator.com/item?id=46672653) - [Trump's Fed fight looks like something from another country](https://www.bbc.com/news/articles/cy9yxlz70dvo)
 * [2026-01-18, 21:10:08](https://news.ycombinator.com/item?id=46672181) - [Show HN: Beats, a web-based drum machine](https://beats.lasagna.pizza)
 * [2026-01-18, 21:05:14](https://news.ycombinator.com/item?id=46672150) - [Police Invested Millions in Shadowy Phone-Tracking Software Won't Say How Used](https://www.texasobserver.org/texas-police-invest-tangles-sheriff-surveillance/)

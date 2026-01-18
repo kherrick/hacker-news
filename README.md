@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-01-18, 22:15:01](https://news.ycombinator.com/item?id=46672701) - [Simple GIS on Potato](https://github.com/blue-monads/potato-apps/tree/master/cimple-gis)
 * [2026-01-18, 21:10:08](https://news.ycombinator.com/item?id=46672181) - [Show HN: Beats, a web-based drum machine](https://beats.lasagna.pizza)
 * [2026-01-18, 21:05:14](https://news.ycombinator.com/item?id=46672150) - [Police Invested Millions in Shadowy Phone-Tracking Software Won't Say How Used](https://www.texasobserver.org/texas-police-invest-tangles-sheriff-surveillance/)
 * [2026-01-18, 20:45:54](https://news.ycombinator.com/item?id=46671982) - [Stirling Cycle Machine Analysis](https://ohioopen.library.ohio.edu/opentextbooks/9/)
@@ -27,7 +28,6 @@
 * [2026-01-18, 04:23:28](https://news.ycombinator.com/item?id=46664755) - [jQuery 4](https://blog.jquery.com/2026/01/17/jquery-4-0-0/)
 * [2026-01-17, 11:15:26](https://news.ycombinator.com/item?id=46657122) - [ASCII characters are not pixels: a deep dive into ASCII rendering](https://alexharri.com/blog/ascii-rendering)
 * [2026-01-15, 12:01:18](https://news.ycombinator.com/item?id=46631281) - [Cardputer uLisp Machine (2024)](http://www.ulisp.com/show?52G4)
-* [2026-01-14, 12:59:33](https://news.ycombinator.com/item?id=46615530) - [Show HN: Run LLMs in Docker for any language without prebuilding containers](https://github.com/mheap/agent-en-place)
 * [2026-01-14, 10:43:31](https://news.ycombinator.com/item?id=46614487) - [More sustainable epoxy thanks to phosphorus](https://www.empa.ch/web/s604/flamm-hemmendes-epoxidharz-nachhaltiger-machen)
 * [2026-01-13, 21:26:59](https://news.ycombinator.com/item?id=46608342) - [The Cathedral, the Megachurch, and the Bazaar](https://opensourcesecurity.io/2026/01-cathedral-megachurch-bazaar/)
 
