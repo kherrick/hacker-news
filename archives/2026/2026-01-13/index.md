@@ -75,6 +75,7 @@
 * [2026-01-13, 09:47:59](https://news.ycombinator.com/item?id=46598991) - [FOSS in times of war, scarcity and (adversarial) AI [video]](https://fosdem.org/2026/schedule/event/FE7ULY-foss-in-times-of-war-scarcity-and-ai/)
 * [2026-01-13, 09:35:05](https://news.ycombinator.com/item?id=46598913) - [Justice Delayed Is Justice Denied](https://en.wikipedia.org/wiki/Justice_delayed_is_justice_denied)
 * [2026-01-13, 09:31:44](https://news.ycombinator.com/item?id=46598890) - [The Homepage of Ron Goodwin](http://rongoodwin.co.uk/)
+* [2026-01-13, 07:37:47](https://news.ycombinator.com/item?id=46598244) - [How London cracked mobile phone coverage on the Underground](https://www.ianvisits.co.uk/articles/how-london-finally-cracked-mobile-phone-coverage-on-the-underground-86784/)
 * [2026-01-13, 07:08:29](https://news.ycombinator.com/item?id=46598081) - [Data Exfiltration via DNS Resolution](https://github.com/anthropic-experimental/sandbox-runtime/issues/88)
 * [2026-01-13, 06:42:49](https://news.ycombinator.com/item?id=46597927) - [Chromium Has Merged JpegXL](https://chromium-review.googlesource.com/c/chromium/src/+/7184969)
 * [2026-01-13, 05:16:10](https://news.ycombinator.com/item?id=46597518) - [Text-Based Web Browsers](https://cssence.com/2026/text-based-web-browsers/)
