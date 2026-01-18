@@ -60,6 +60,7 @@
 * [2026-01-13, 14:45:44](https://news.ycombinator.com/item?id=46601631) - [Show HN: FastScheduler – Decorator-first Python task scheduler, async support](https://github.com/MichielMe/fastscheduler)
 * [2026-01-13, 14:14:18](https://news.ycombinator.com/item?id=46601157) - [Apple Creator Studio](https://www.apple.com/newsroom/2026/01/introducing-apple-creator-studio-an-inspiring-collection-of-creative-apps/)
 * [2026-01-13, 14:11:24](https://news.ycombinator.com/item?id=46601121) - [Why Stoicism is one of the best mind hacks ever devised](https://aeon.co/essays/why-stoicism-is-one-of-the-best-mind-hacks-ever-devised)
+* [2026-01-13, 13:56:09](https://news.ycombinator.com/item?id=46600955) - [Multiword matrix multiplication over large finite fields in floating-point](https://arxiv.org/abs/2601.07508)
 * [2026-01-13, 13:46:34](https://news.ycombinator.com/item?id=46600850) - [Local Journalism Is How Democracy Shows Up Close to Home](https://buckscountybeacon.com/2026/01/opinion-local-journalism-is-how-democracy-shows-up-close-to-home/)
 * [2026-01-13, 13:45:45](https://news.ycombinator.com/item?id=46600839) - [Confer – End to end encrypted AI chat](https://confer.to/)
 * [2026-01-13, 13:32:44](https://news.ycombinator.com/item?id=46600729) - [Why have death rates from accidental falls tripled?](https://usafacts.org/articles/why-have-death-rates-from-accidental-falls-tripled/)
