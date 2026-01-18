@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-01-18, 08:39:42](https://news.ycombinator.com/item?id=46665967) - [The Walls Are Closing in on Tesla](https://www.planetearthandbeyond.co/p/the-walls-are-closing-in-on-tesla)
 * [2026-01-18, 07:01:12](https://news.ycombinator.com/item?id=46665453) - [Launching the Handmade Software Foundation](https://handmade.network/blog/p/9106-welcome_to_2026%2521#30623)
 * [2026-01-18, 06:53:36](https://news.ycombinator.com/item?id=46665411) - [Iconify: Library of Open Source Icons](https://icon-sets.iconify.design/)
 * [2026-01-18, 06:47:17](https://news.ycombinator.com/item?id=46665393) - [Show HN: GibRAM an in-memory ephemeral GraphRAG runtime for retrieval](https://github.com/gibram-io/gibram)
@@ -13,7 +14,6 @@
 * [2026-01-18, 00:09:43](https://news.ycombinator.com/item?id=46663507) - [Computer Systems Security 6.566 / Spring 2024](https://css.csail.mit.edu/6.858/2024/)
 * [2026-01-17, 23:47:16](https://news.ycombinator.com/item?id=46663338) - [If you put Apple icons in reverse it looks like someone getting good at design](https://mastodon.social/@heliographe_studio/115890819509545391)
 * [2026-01-17, 23:38:21](https://news.ycombinator.com/item?id=46663268) - [No knives, only cook knives](https://kellykozakandjoshdonald.substack.com/p/no-knives-only-cook-knives)
-* [2026-01-17, 22:19:25](https://news.ycombinator.com/item?id=46662662) - [Light Mode InFFFFFFlation](https://willhbr.net/2025/10/20/light-mode-infffffflation/)
 * [2026-01-17, 21:40:53](https://news.ycombinator.com/item?id=46662399) - [Show HN: Speed Miners – A tiny RTS resource mini-game](https://speedminers.fun/)
 * [2026-01-17, 20:44:52](https://news.ycombinator.com/item?id=46661897) - [Kip: A programming language based on grammatical cases of Turkish](https://github.com/kip-dili/kip)
 * [2026-01-17, 18:29:00](https://news.ycombinator.com/item?id=46660543) - [Raising money fucked me up](https://blog.yakkomajuri.com/blog/raising-money-fucked-me-up)
@@ -23,12 +23,12 @@
 * [2026-01-16, 04:50:11](https://news.ycombinator.com/item?id=46643092) - [Podcasting Could Use a Good Asteroid](https://www.joanwestenberg.com/podcasting-could-use-a-good-asteroid/)
 * [2026-01-14, 17:29:09](https://news.ycombinator.com/item?id=46619059) - [Xous Operating System](https://xous.dev/)
 * [2026-01-14, 13:52:32](https://news.ycombinator.com/item?id=46616077) - [The grab list: how museums decide what to save in a disaster](https://www.economist.com/1843/2025/11/21/the-grab-list-how-museums-decide-what-to-save-in-a-disaster)
+* [2026-01-13, 15:27:16](https://news.ycombinator.com/item?id=46602218) - [Five Practical Lessons for Serving Models with Triton Inference Server](https://talperry.com/en/posts/genai/triton-inference-server/)
 * [2026-01-13, 07:37:47](https://news.ycombinator.com/item?id=46598244) - [How London cracked mobile phone coverage on the Underground](https://www.ianvisits.co.uk/articles/how-london-finally-cracked-mobile-phone-coverage-on-the-underground-86784/)
 * [2026-01-12, 14:28:17](https://news.ycombinator.com/item?id=46588972) - [We put Claude Code in Rollercoaster Tycoon](https://labs.ramp.com/rct)
 * [2026-01-12, 14:03:35](https://news.ycombinator.com/item?id=46588660) - [Claude Shannon's randomness-guessing machine](https://www.loper-os.org/bad-at-entropy/manmach.html)
 * [2026-01-11, 21:44:36](https://news.ycombinator.com/item?id=46580506) - [Play chess via Slack DMs or SMS using an ASCII board](https://github.com/dvelton/dm-chess)
 * [2026-01-11, 15:33:04](https://news.ycombinator.com/item?id=46576581) - [The Olivetti Company](https://www.abortretry.fail/p/the-olivetti-company)
-* [2026-01-11, 14:36:13](https://news.ycombinator.com/item?id=46576091) - [Below the Surface: Archeological Finds from the Amsterdam Noord/Zuid Metro Line](https://belowthesurface.amsterdam/en/vondsten)
 * [2026-01-11, 12:05:17](https://news.ycombinator.com/item?id=46574989) - [Why Object of Arrays beat interleaved arrays: a JavaScript performance issue](https://www.royalbhati.com/posts/js-array-vs-typedarray)
 
 ## [Archives](archives/index.md)
