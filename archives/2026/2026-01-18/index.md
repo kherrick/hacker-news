@@ -20,6 +20,7 @@
 * [2026-01-18, 11:59:32](https://news.ycombinator.com/item?id=46667094) - [When_Sysadmins_Ruled_the_Earth](https://craphound.com/overclocked/Cory_Doctorow_-_Overclocked_-_When_Sysadmins_Ruled_the_Earth.html)
 * [2026-01-18, 11:39:14](https://news.ycombinator.com/item?id=46666963) - [Starting from scratch: Training a 30M Topological Transformer](https://www.tuned.org.uk/posts/013_the_topological_transformer_training_tauformer)
 * [2026-01-18, 11:31:54](https://news.ycombinator.com/item?id=46666916) - [Throwing it all away over the Mercator projection](https://danieldrezner.substack.com/p/what-is-trump-even-doing-at-this)
+* [2026-01-18, 10:37:59](https://news.ycombinator.com/item?id=46666650) - [Overlapping Markup](https://en.wikipedia.org/wiki/Overlapping_markup)
 * [2026-01-18, 10:32:13](https://news.ycombinator.com/item?id=46666614) - [Stop calling it vibe coding](https://davekiss.com/blog/agentic-coding/)
 * [2026-01-18, 10:13:27](https://news.ycombinator.com/item?id=46666492) - [EU and Mercosur countries sign landmark free trade deal](https://www.dw.com/en/eu-and-mercosur-countries-sign-landmark-free-trade-deal/a-75545794)
 * [2026-01-18, 09:36:25](https://news.ycombinator.com/item?id=46666288) - [A free and open-source rootkit for Linux](https://lwn.net/SubscriberLink/1053099/19c2e8180aeb0438/)
