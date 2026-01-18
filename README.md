@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2026-01-18, 07:01:12](https://news.ycombinator.com/item?id=46665453) - [Launching the Handmade Software Foundation](https://handmade.network/blog/p/9106-welcome_to_2026%2521#30623)
+* [2026-01-18, 06:47:17](https://news.ycombinator.com/item?id=46665393) - [Show HN: GibRAM an in-memory ephemeral GraphRAG runtime for retrieval](https://github.com/gibram-io/gibram)
 * [2026-01-18, 06:27:24](https://news.ycombinator.com/item?id=46665310) - [Spirit of ThinkPad](https://thinknextdesign.com/home.html)
 * [2026-01-18, 04:23:28](https://news.ycombinator.com/item?id=46664755) - [jQuery 4.0.0 Released](https://blog.jquery.com/2026/01/17/jquery-4-0-0/)
 * [2026-01-18, 03:52:10](https://news.ycombinator.com/item?id=46664646) - [U.S. Court Order Against Anna's Archive Spells More Trouble for the Site](https://torrentfreak.com/u-s-court-order-against-annas-archive-spells-more-trouble-for-the-site/)
@@ -13,7 +14,6 @@
 * [2026-01-18, 00:05:02](https://news.ycombinator.com/item?id=46663467) - [IRISC: An ARMv7 assembly interpreter and computer architecture simulator](https://polysoftit.co.uk/irisc-web/)
 * [2026-01-17, 23:47:16](https://news.ycombinator.com/item?id=46663338) - [If you put Apple icons in reverse it looks like someone getting good at design](https://mastodon.social/@heliographe_studio/115890819509545391)
 * [2026-01-17, 23:38:21](https://news.ycombinator.com/item?id=46663268) - [No knives, only cook knives](https://kellykozakandjoshdonald.substack.com/p/no-knives-only-cook-knives)
-* [2026-01-17, 22:19:25](https://news.ycombinator.com/item?id=46662662) - [Light Mode InFFFFFFlation](https://willhbr.net/2025/10/20/light-mode-infffffflation/)
 * [2026-01-17, 21:40:53](https://news.ycombinator.com/item?id=46662399) - [Show HN: Speed Miners – A tiny RTS resource mini-game](https://speedminers.fun/)
 * [2026-01-17, 21:03:52](https://news.ycombinator.com/item?id=46662078) - [Show HN: ChunkHound, a local-first tool for understanding large codebases](https://github.com/chunkhound/chunkhound)
 * [2026-01-17, 20:44:52](https://news.ycombinator.com/item?id=46661897) - [Kip: A programming language based on grammatical cases of Turkish](https://github.com/kip-dili/kip)
