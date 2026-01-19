@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-01-19, 18:00:34",
+      "https://news.ycombinator.com/item?id=46682325"
+    ],
+    [
+      "A Brief History of Ralph",
+      "https://www.humanlayer.dev/blog/brief-history-of-ralph"
+    ]
+  ],
+  [
+    [
+      "2026-01-19, 17:13:59",
+      "https://news.ycombinator.com/item?id=46681611"
+    ],
+    [
+      "What came first: the CNAME or the A record?",
+      "https://blog.cloudflare.com/cname-a-record-order-dns-standards/"
+    ]
+  ],
+  [
+    [
       "2026-01-19, 17:12:19",
       "https://news.ycombinator.com/item?id=46681587"
     ],
@@ -11,22 +31,12 @@
   ],
   [
     [
-      "2026-01-19, 16:57:27",
-      "https://news.ycombinator.com/item?id=46681351"
+      "2026-01-19, 16:55:32",
+      "https://news.ycombinator.com/item?id=46681309"
     ],
     [
-      "What it's like to be banned from the US for fighting online hate",
-      "https://www.technologyreview.com/2026/01/19/1131384/what-its-like-to-be-banned-from-the-us-for-fighting-online-hate/"
-    ]
-  ],
-  [
-    [
-      "2026-01-19, 16:47:49",
-      "https://news.ycombinator.com/item?id=46681156"
-    ],
-    [
-      "Project Cybersyn",
-      "https://en.wikipedia.org/wiki/Project_Cybersyn"
+      "Bootstrapping Bun",
+      "https://walters.app/blog/bootstrapping-bun"
     ]
   ],
   [
@@ -71,16 +81,6 @@
   ],
   [
     [
-      "2026-01-19, 15:43:01",
-      "https://news.ycombinator.com/item?id=46680212"
-    ],
-    [
-      "American importers and consumers bear the cost of 2025 tariffs: analysis",
-      "https://www.kielinstitut.de/publications/americas-own-goal-who-pays-the-tariffs-19398/"
-    ]
-  ],
-  [
-    [
       "2026-01-19, 15:15:41",
       "https://news.ycombinator.com/item?id=46679907"
     ],
@@ -121,42 +121,12 @@
   ],
   [
     [
-      "2026-01-19, 12:24:14",
-      "https://news.ycombinator.com/item?id=46678205"
-    ],
-    [
-      "Amazon is ending all inventory commingling as of March 31, 2026",
-      "https://twitter.com/ghhughes/status/2012824754319753456"
-    ]
-  ],
-  [
-    [
       "2026-01-19, 11:48:59",
       "https://news.ycombinator.com/item?id=46677918"
     ],
     [
       "Robust Conditional 3D Shape Generation from Casual Captures",
       "https://facebookresearch.github.io/ShapeR/"
-    ]
-  ],
-  [
-    [
-      "2026-01-19, 11:11:10",
-      "https://news.ycombinator.com/item?id=46677628"
-    ],
-    [
-      "Nvidia contacted Anna's Archive to access books",
-      "https://torrentfreak.com/nvidia-contacted-annas-archive-to-secure-access-to-millions-of-pirated-books/"
-    ]
-  ],
-  [
-    [
-      "2026-01-19, 10:09:38",
-      "https://news.ycombinator.com/item?id=46677106"
-    ],
-    [
-      "Wikipedia: WikiProject AI Cleanup",
-      "https://en.wikipedia.org/wiki/Wikipedia:WikiProject_AI_Cleanup"
     ]
   ],
   [
@@ -171,12 +141,52 @@
   ],
   [
     [
+      "2026-01-19, 08:21:44",
+      "https://news.ycombinator.com/item?id=46676264"
+    ],
+    [
+      "MTOTP: Wouldn't it be nice if you were the 2FA device?",
+      "https://github.com/VBranimir/mTOTP/tree/develop"
+    ]
+  ],
+  [
+    [
       "2026-01-19, 07:14:19",
       "https://news.ycombinator.com/item?id=46675853"
     ],
     [
       "A decentralized peer-to-peer messaging application that operates over Bluetooth",
       "https://bitchat.free/"
+    ]
+  ],
+  [
+    [
+      "2026-01-19, 05:11:24",
+      "https://news.ycombinator.com/item?id=46675271"
+    ],
+    [
+      "Bypassing Gemma and Qwen safety with raw strings",
+      "https://teendifferent.substack.com/p/apply_chat_template-is-the-safety"
+    ]
+  ],
+  [
+    [
+      "2026-01-19, 02:29:25",
+      "https://news.ycombinator.com/item?id=46674433"
+    ],
+    [
+      "San Francisco coyote swims to Alcatraz",
+      "https://www.sfgate.com/local/article/san-francisco-coyote-alcatraz-21302218.php"
+    ]
+  ],
+  [
+    [
+      "2026-01-19, 02:27:07",
+      "https://news.ycombinator.com/item?id=46674416"
+    ],
+    [
+      "The Code-Only Agent",
+      "https://rijnard.com/blog/the-code-only-agent"
     ]
   ],
   [
@@ -211,16 +221,6 @@
   ],
   [
     [
-      "2026-01-17, 10:26:18",
-      "https://news.ycombinator.com/item?id=46656897"
-    ],
-    [
-      "Provide agents with automated feedback",
-      "https://banay.me/dont-waste-your-backpressure/"
-    ]
-  ],
-  [
-    [
       "2026-01-16, 21:48:40",
       "https://news.ycombinator.com/item?id=46652690"
     ],
@@ -231,12 +231,22 @@
   ],
   [
     [
-      "2026-01-16, 20:21:50",
-      "https://news.ycombinator.com/item?id=46651691"
+      "2026-01-15, 21:55:36",
+      "https://news.ycombinator.com/item?id=46639897"
     ],
     [
-      "Gladys West's vital contributions to GPS technology",
-      "https://en.wikipedia.org/wiki/Gladys_West"
+      "The space and motion of communicating agents (2008) [pdf]",
+      "https://www.cl.cam.ac.uk/archive/rm135/Bigraphs-draft.pdf"
+    ]
+  ],
+  [
+    [
+      "2026-01-15, 14:31:04",
+      "https://news.ycombinator.com/item?id=46633025"
+    ],
+    [
+      "Self Sanitizing Door Handle",
+      "https://www.jamesdysonaward.org/en-US/2019/project/self-sanitizing-door-handle/"
     ]
   ],
   [
@@ -251,6 +261,16 @@
   ],
   [
     [
+      "2026-01-15, 13:23:33",
+      "https://news.ycombinator.com/item?id=46632120"
+    ],
+    [
+      "Conditions in the Intel 8087 floating-point chip's microcode",
+      "https://www.righto.com/2025/12/8087-microcode-conditions.html"
+    ]
+  ],
+  [
+    [
       "2026-01-15, 02:47:16",
       "https://news.ycombinator.com/item?id=46627410"
     ],
@@ -261,32 +281,12 @@
   ],
   [
     [
-      "2026-01-14, 22:39:33",
-      "https://news.ycombinator.com/item?id=46624883"
-    ],
-    [
-      "Gas Town Decoded",
-      "https://www.alilleybrinker.com/mini/gas-town-decoded/"
-    ]
-  ],
-  [
-    [
       "2026-01-14, 17:49:38",
       "https://news.ycombinator.com/item?id=46619391"
     ],
     [
       "Luxury Yacht is a desktop app for managing Kubernetes clusters",
       "https://github.com/luxury-yacht/app"
-    ]
-  ],
-  [
-    [
-      "2026-01-14, 00:43:36",
-      "https://news.ycombinator.com/item?id=46610800"
-    ],
-    [
-      "AVX-512: First Impressions on Performance and Programmability",
-      "https://shihab-shahriar.github.io//blog/2026/AVX-512-First-Impressions-on-Performance-and-Programmability/"
     ]
   ],
   [
