@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-01-19, 13:12:42](https://news.ycombinator.com/item?id=46678612) - [Fire Shuts GTA 6 Developer Rockstar North, Following Report of Explosion](https://www.ign.com/articles/fire-shuts-gta-6-developer-rockstar-north-following-report-of-explosion)
+* [2026-01-19, 14:54:02](https://news.ycombinator.com/item?id=46679657) - [West Midlands police chief quits over AI hallucination](https://www.theregister.com/2026/01/19/copper_chief_cops_it_after/)
 * [2026-01-19, 13:05:42](https://news.ycombinator.com/item?id=46678550) - [Ask HN: COBOL devs, how are AI coding affecting your work?](https://news.ycombinator.com/item?id=46678550)
 * [2026-01-19, 12:53:28](https://news.ycombinator.com/item?id=46678430) - [Article by article, how Big Tech shaped the EU's roll-back of digital rights](https://corporateeurope.org/en/2026/01/article-article-how-big-tech-shaped-eus-roll-back-digital-rights)
 * [2026-01-19, 12:24:14](https://news.ycombinator.com/item?id=46678205) - [Amazon is ending all inventory commingling as of March 31, 2026](https://twitter.com/ghhughes/status/2012824754319753456)
@@ -24,10 +24,10 @@
 * [2026-01-16, 20:21:50](https://news.ycombinator.com/item?id=46651691) - [Gladys West's vital contributions to GPS technology](https://en.wikipedia.org/wiki/Gladys_West)
 * [2026-01-16, 13:19:03](https://news.ycombinator.com/item?id=46646080) - [Fil-Qt: A Qt Base build with Fil-C experience](https://git.qt.io/cradam/fil-qt)
 * [2026-01-15, 19:33:32](https://news.ycombinator.com/item?id=46637937) - [Astrophotography visibility plotting and planning tool](https://airmass.org/)
-* [2026-01-15, 14:31:04](https://news.ycombinator.com/item?id=46633025) - [Self Sanitizing Door Handle](https://www.jamesdysonaward.org/en-US/2019/project/self-sanitizing-door-handle/)
 * [2026-01-15, 02:47:16](https://news.ycombinator.com/item?id=46627410) - [Nepal's Mountainside Teahouses Elevate the Experience for Trekkers](https://www.smithsonianmag.com/travel/nepal-mountainside-teahouses-elevate-experience-trekkers-heading-to-top-world-180987844/)
 * [2026-01-15, 00:57:18](https://news.ycombinator.com/item?id=46626441) - [Vm0](https://github.com/vm0-ai/vm0)
 * [2026-01-14, 22:39:33](https://news.ycombinator.com/item?id=46624883) - [Gas Town Decoded](https://www.alilleybrinker.com/mini/gas-town-decoded/)
+* [2026-01-14, 17:49:38](https://news.ycombinator.com/item?id=46619391) - [Luxury Yacht is a desktop app for managing Kubernetes clusters](https://github.com/luxury-yacht/app)
 * [2026-01-14, 00:43:36](https://news.ycombinator.com/item?id=46610800) - [AVX-512: First Impressions on Performance and Programmability](https://shihab-shahriar.github.io//blog/2026/AVX-512-First-Impressions-on-Performance-and-Programmability/)
 * [2026-01-13, 18:12:09](https://news.ycombinator.com/item?id=46605155) - [Using proxies to hide secrets from Claude Code](https://www.joinformal.com/blog/using-proxies-to-hide-secrets-from-claude-code/)
 

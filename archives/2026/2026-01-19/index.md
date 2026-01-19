@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-01-19](index.md)
 
+* [2026-01-19, 14:54:02](https://news.ycombinator.com/item?id=46679657) - [West Midlands police chief quits over AI hallucination](https://www.theregister.com/2026/01/19/copper_chief_cops_it_after/)
 * [2026-01-19, 14:19:34](https://news.ycombinator.com/item?id=46679230) - [Sweden deploys fighter jets to Iceland](https://www.sverigesradio.se/artikel/sverige-skickar-stridsflyg-till-island)
 * [2026-01-19, 13:12:42](https://news.ycombinator.com/item?id=46678612) - [Fire Shuts GTA 6 Developer Rockstar North, Following Report of Explosion](https://www.ign.com/articles/fire-shuts-gta-6-developer-rockstar-north-following-report-of-explosion)
 * [2026-01-19, 13:05:42](https://news.ycombinator.com/item?id=46678550) - [Ask HN: COBOL devs, how are AI coding affecting your work?](https://news.ycombinator.com/item?id=46678550)
