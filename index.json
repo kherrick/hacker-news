@@ -141,16 +141,6 @@
   ],
   [
     [
-      "2026-01-19, 17:03:38",
-      "https://news.ycombinator.com/item?id=46681454"
-    ],
-    [
-      "Fix Your Robots.txt or Your Site Disappears from Google",
-      "https://www.alanwsmith.com/en/37/wa/jz/s1/"
-    ]
-  ],
-  [
-    [
       "2026-01-19, 16:36:11",
       "https://news.ycombinator.com/item?id=46680974"
     ],
@@ -237,6 +227,16 @@
     [
       "San Francisco coyote swims to Alcatraz",
       "https://www.sfgate.com/local/article/san-francisco-coyote-alcatraz-21302218.php"
+    ]
+  ],
+  [
+    [
+      "2026-01-18, 18:01:58",
+      "https://news.ycombinator.com/item?id=46670279"
+    ],
+    [
+      "Flux 2 Klein pure C inference",
+      "https://github.com/antirez/flux2.c"
     ]
   ],
   [
