@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-01-19](index.md)
 
+* [2026-01-19, 13:12:42](https://news.ycombinator.com/item?id=46678612) - [Fire Shuts GTA 6 Developer Rockstar North, Following Report of Explosion](https://www.ign.com/articles/fire-shuts-gta-6-developer-rockstar-north-following-report-of-explosion)
+* [2026-01-19, 13:05:42](https://news.ycombinator.com/item?id=46678550) - [Ask HN: COBOL devs, how are AI coding affecting your work?](https://news.ycombinator.com/item?id=46678550)
+* [2026-01-19, 12:53:28](https://news.ycombinator.com/item?id=46678430) - [Article by article, how Big Tech shaped the EU's roll-back of digital rights](https://corporateeurope.org/en/2026/01/article-article-how-big-tech-shaped-eus-roll-back-digital-rights)
 * [2026-01-19, 12:24:14](https://news.ycombinator.com/item?id=46678205) - [Amazon is ending all inventory commingling as of March 31, 2026](https://twitter.com/ghhughes/status/2012824754319753456)
 * [2026-01-19, 11:00:31](https://news.ycombinator.com/item?id=46677549) - [Show HN: Kacet – a freelancer marketplace with crypto-native payments](https://kacet.com/)
 * [2026-01-19, 10:46:54](https://news.ycombinator.com/item?id=46677436) - [Nuclear elements detected in West Philippine Sea](https://www.philstar.com/headlines/2026/01/18/2501750/nuclear-elements-detected-west-philippine-sea)
