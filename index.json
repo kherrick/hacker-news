@@ -1,12 +1,12 @@
 [
   [
     [
-      "2026-01-19, 02:42:08",
-      "https://news.ycombinator.com/item?id=46674505"
+      "2026-01-19, 04:35:05",
+      "https://news.ycombinator.com/item?id=46675092"
     ],
     [
-      "CD Projekt issue DMCA takedown notice against popular Cyberpunk VR mod",
-      "https://www.patreon.com/posts/another-one-dust-148437771"
+      "Show HN: AWS-doctor – A terminal-based AWS health check and cost optimizer in Go",
+      "https://github.com/elC0mpa/aws-doctor"
     ]
   ],
   [
@@ -35,18 +35,8 @@
       "https://news.ycombinator.com/item?id=46673453"
     ],
     [
-      "At least 21 killed in Spain after crash involving high-speed trains",
+      "High-speed train collision in Spain kills at least 21",
       "https://www.bbc.com/news/articles/cedw6ylpynyo"
-    ]
-  ],
-  [
-    [
-      "2026-01-18, 22:34:24",
-      "https://news.ycombinator.com/item?id=46672858"
-    ],
-    [
-      "Ultrathink is deprecated & How to enable 2x thinking tokens in Claude Code",
-      "https://decodeclaude.com/ultrathink-deprecated/"
     ]
   ],
   [
@@ -67,16 +57,6 @@
     [
       "Police Invested Millions in Shadowy Phone-Tracking Software Won't Say How Used",
       "https://www.texasobserver.org/texas-police-invest-tangles-sheriff-surveillance/"
-    ]
-  ],
-  [
-    [
-      "2026-01-18, 20:45:54",
-      "https://news.ycombinator.com/item?id=46671982"
-    ],
-    [
-      "Stirling Cycle Machine Analysis",
-      "https://ohioopen.library.ohio.edu/opentextbooks/9/"
     ]
   ],
   [
@@ -181,6 +161,16 @@
   ],
   [
     [
+      "2026-01-18, 06:27:24",
+      "https://news.ycombinator.com/item?id=46665310"
+    ],
+    [
+      "ThinkNext Design",
+      "https://thinknextdesign.com/home.html"
+    ]
+  ],
+  [
+    [
       "2026-01-17, 20:19:46",
       "https://news.ycombinator.com/item?id=46661644"
     ],
@@ -257,6 +247,16 @@
     [
       "Poking holes into bytecode with peephole optimisations",
       "https://xnacly.me/posts/2026/purple-garden-first-optimisations/"
+    ]
+  ],
+  [
+    [
+      "2026-01-14, 04:00:37",
+      "https://news.ycombinator.com/item?id=46612188"
+    ],
+    [
+      "Experiments with Kafka's head-of-line blocking (2023)",
+      "https://www.artur-rodrigues.com/tech/2023/03/21/kafka-head-of-line-blocking.html"
     ]
   ],
   [
