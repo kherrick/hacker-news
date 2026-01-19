@@ -37,6 +37,7 @@
 * [2026-01-17, 14:31:33](https://news.ycombinator.com/item?id=46658345) - [The recurring dream of replacing developers](https://www.caimito.net/en/blog/2025/12/07/the-recurring-dream-of-replacing-developers.html)
 * [2026-01-17, 14:13:11](https://news.ycombinator.com/item?id=46658213) - [What life is like in Minneapolis now](https://donmoynihan.substack.com/p/dispatch-from-the-occupation)
 * [2026-01-17, 13:44:02](https://news.ycombinator.com/item?id=46658014) - [Italy investigates Activision Blizzard for pushing in-game purchases](https://techcrunch.com/2026/01/16/italy-investigates-activision-blizzard-for-pushing-in-game-purchases/)
+* [2026-01-17, 13:42:14](https://news.ycombinator.com/item?id=46658003) - [Folding NASA Experience into an Origamist's Toolkit](https://spinoff.nasa.gov/Folding_NASA_Experience_into_an_Origamist%E2%80%99s_Toolkit)
 * [2026-01-17, 13:02:12](https://news.ycombinator.com/item?id=46657729) - [Whistleblower drops 'largest ever' ICE leak to unmask agents](https://vechron.com/2026/01/whistleblower-drops-largest-ever-ice-leak-to-unmask-agents/)
 * [2026-01-17, 12:59:35](https://news.ycombinator.com/item?id=46657719) - [The Risks of AI in Schools Outweigh the Benefits, Report Says](https://www.npr.org/2026/01/14/nx-s1-5674741/ai-schools-education)
 * [2026-01-17, 11:51:44](https://news.ycombinator.com/item?id=46657296) - [The 600-year-old origins of the word 'hello'](https://www.bbc.com/culture/article/20260113-hello-hiya-aloha-what-our-greetings-reveal)
