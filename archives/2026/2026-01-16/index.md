@@ -40,6 +40,7 @@
 * [2026-01-16, 13:40:19](https://news.ycombinator.com/item?id=46646228) - [Show HN: The Analog I – Inducing Recursive Self-Modeling in LLMs [pdf]](https://github.com/philMarcus/Birth-of-a-Mind)
 * [2026-01-16, 13:39:31](https://news.ycombinator.com/item?id=46646226) - [Dev-Owned Testing: Why It Fails in Practice and Succeeds in Theory](https://dl.acm.org/doi/10.1145/3780063.3780066)
 * [2026-01-16, 13:20:20](https://news.ycombinator.com/item?id=46646091) - [psc: The ps utility, with an eBPF twist and container context](https://github.com/loresuso/psc)
+* [2026-01-16, 13:19:03](https://news.ycombinator.com/item?id=46646080) - [Fil-Qt: A Qt Base build with Fil-C experience](https://git.qt.io/cradam/fil-qt)
 * [2026-01-16, 12:58:40](https://news.ycombinator.com/item?id=46645942) - [Show HN: mdto.page – Turn Markdown into a shareable webpage instantly](https://mdto.page)
 * [2026-01-16, 12:58:24](https://news.ycombinator.com/item?id=46645941) - [Patching the Wii News Channel to serve local news (2025)](https://raulnegron.me/2025/wii-news-pr/)
 * [2026-01-16, 12:50:07](https://news.ycombinator.com/item?id=46645886) - [Song banned from Swedish charts for being AI creation](https://www.bbc.com/news/articles/cp829jey9z7o)

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-01-18](index.md)
 
+* [2026-01-18, 23:24:55](https://news.ycombinator.com/item?id=46673264) - [Prediction: Microsoft Is Going to Do the Funniest Thing Imaginable](https://gamesbymason.com/blog/2026/microsoft/)
 * [2026-01-18, 22:15:01](https://news.ycombinator.com/item?id=46672701) - [Simple GIS on Potato](https://github.com/blue-monads/potato-apps/tree/master/cimple-gis)
 * [2026-01-18, 22:08:36](https://news.ycombinator.com/item?id=46672653) - [Trump's Fed fight looks like something from another country](https://www.bbc.com/news/articles/cy9yxlz70dvo)
 * [2026-01-18, 21:10:08](https://news.ycombinator.com/item?id=46672181) - [Show HN: Beats, a web-based drum machine](https://beats.lasagna.pizza)

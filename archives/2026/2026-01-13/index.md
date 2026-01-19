@@ -32,6 +32,7 @@
 * [2026-01-13, 18:31:50](https://news.ycombinator.com/item?id=46605490) - [AI Generated Music Barred from Bandcamp](https://old.reddit.com/r/BandCamp/comments/1qbw8ba/ai_generated_music_on_bandcamp/)
 * [2026-01-13, 18:29:02](https://news.ycombinator.com/item?id=46605452) - [The rapid rise and slow decline of Sam Altman](https://garymarcus.substack.com/p/the-rapid-rise-and-slow-decline-of)
 * [2026-01-13, 18:22:00](https://news.ycombinator.com/item?id=46605332) - [The truth behind the 2026 J.P. Morgan Healthcare Conference](https://www.owlposting.com/p/the-truth-behind-the-2026-jp-morgan)
+* [2026-01-13, 18:12:09](https://news.ycombinator.com/item?id=46605155) - [Using proxies to hide secrets from Claude Code](https://www.joinformal.com/blog/using-proxies-to-hide-secrets-from-claude-code/)
 * [2026-01-13, 18:00:20](https://news.ycombinator.com/item?id=46604959) - [The Case for Blogging in the Ruins](https://www.joanwestenberg.com/the-case-for-blogging-in-the-ruins/)
 * [2026-01-13, 17:55:37](https://news.ycombinator.com/item?id=46604862) - [Show HN: Ayder – HTTP-native durable event log written in C (curl as client)](https://github.com/A1darbek/ayder)
 * [2026-01-13, 17:53:31](https://news.ycombinator.com/item?id=46604828) - [Ask HN: Iran's 120h internet shutdown, phones back. How to stay resilient?](https://news.ycombinator.com/item?id=46604828)
