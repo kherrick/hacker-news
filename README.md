@@ -20,16 +20,16 @@
 * [2026-01-19, 17:03:38](https://news.ycombinator.com/item?id=46681454) - [Fix your robots.txt or your site disappears from Google](https://www.alanwsmith.com/en/37/wa/jz/s1/)
 * [2026-01-19, 16:10:28](https://news.ycombinator.com/item?id=46680597) - [Show HN: Pipenet – A Modern Alternative to Localtunnel](https://pipenet.dev/)
 * [2026-01-19, 15:15:41](https://news.ycombinator.com/item?id=46679907) - [CSS Web Components for marketing sites (2024)](https://hawkticehurst.com/2024/11/css-web-components-for-marketing-sites/)
-* [2026-01-19, 15:12:12](https://news.ycombinator.com/item?id=46679872) - [GLM-4.7-Flash](https://huggingface.co/zai-org/GLM-4.7-Flash)
 * [2026-01-19, 07:57:04](https://news.ycombinator.com/item?id=46676081) - [The coming industrialisation of exploit generation with LLMs](https://sean.heelan.io/2026/01/18/on-the-coming-industrialisation-of-exploit-generation-with-llms/)
 * [2026-01-19, 07:14:19](https://news.ycombinator.com/item?id=46675853) - [A decentralized peer-to-peer messaging application that operates over Bluetooth](https://bitchat.free/)
 * [2026-01-19, 05:11:24](https://news.ycombinator.com/item?id=46675271) - [Bypassing Gemma and Qwen safety with raw strings](https://teendifferent.substack.com/p/apply_chat_template-is-the-safety)
 * [2026-01-19, 02:29:25](https://news.ycombinator.com/item?id=46674433) - [San Francisco coyote swims to Alcatraz](https://www.sfgate.com/local/article/san-francisco-coyote-alcatraz-21302218.php)
 * [2026-01-16, 18:15:52](https://news.ycombinator.com/item?id=46649781) - [Graphics In Flatland – 2D ray tracing [video]](https://www.youtube.com/watch?v=WYTOykSqf2Y)
+* [2026-01-16, 08:00:07](https://news.ycombinator.com/item?id=46644173) - [How we made Python's packaging library 3x faster](https://iscinumpy.dev/post/packaging-faster/)
+* [2026-01-16, 02:53:21](https://news.ycombinator.com/item?id=46642458) - [British redcoat's lost memoir reveals harsh realities of life as a disabled vet](https://phys.org/news/2026-01-british-redcoat-lost-memoir-reveals.html)
 * [2026-01-15, 23:36:40](https://news.ycombinator.com/item?id=46641036) - [From Nevada to Kansas by Glider](https://www.weglide.org/flight/978820)
 * [2026-01-15, 13:23:33](https://news.ycombinator.com/item?id=46632120) - [Conditions in the Intel 8087 floating-point chip's microcode](https://www.righto.com/2025/12/8087-microcode-conditions.html)
 * [2026-01-14, 20:00:34](https://news.ycombinator.com/item?id=46622096) - [Sending Data over Offline Finding Networks](https://cc-sw.com/find-my-and-find-hub-network-research/)
-* [2026-01-14, 17:27:10](https://news.ycombinator.com/item?id=46619021) - [Study: Minimal evidence links social media, gaming to teen mental health issues](https://www.manchester.ac.uk/about/news/time-spent-on-gaming-and-social-media/)
 
 ## [Archives](archives/index.md)
 
