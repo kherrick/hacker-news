@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-01-19, 05:04:40",
+      "https://news.ycombinator.com/item?id=46675236"
+    ],
+    [
+      "Show HN: Intent Layer: A context engineering skill for AI agents",
+      "https://www.railly.dev/blog/intent-layer/"
+    ]
+  ],
+  [
+    [
+      "2026-01-19, 05:04:07",
+      "https://news.ycombinator.com/item?id=46675231"
+    ],
+    [
+      "Show HN: Pdfwithlove – PDF tools that run 100% locally (no uploads, no back end)",
+      "https://pdfwithlove.netlify.app"
+    ]
+  ],
+  [
+    [
       "2026-01-19, 04:35:05",
       "https://news.ycombinator.com/item?id=46675092"
     ],
@@ -161,16 +181,6 @@
   ],
   [
     [
-      "2026-01-18, 06:27:24",
-      "https://news.ycombinator.com/item?id=46665310"
-    ],
-    [
-      "ThinkNext Design",
-      "https://thinknextdesign.com/home.html"
-    ]
-  ],
-  [
-    [
       "2026-01-17, 20:19:46",
       "https://news.ycombinator.com/item?id=46661644"
     ],
@@ -257,16 +267,6 @@
     [
       "Experiments with Kafka's head-of-line blocking (2023)",
       "https://www.artur-rodrigues.com/tech/2023/03/21/kafka-head-of-line-blocking.html"
-    ]
-  ],
-  [
-    [
-      "2026-01-14, 03:08:10",
-      "https://news.ycombinator.com/item?id=46611816"
-    ],
-    [
-      "Wine 11.0",
-      "https://gitlab.winehq.org/wine/wine/-/releases/wine-11.0"
     ]
   ],
   [
