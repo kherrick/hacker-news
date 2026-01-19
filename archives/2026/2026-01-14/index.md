@@ -40,6 +40,7 @@
 * [2026-01-14, 17:43:27](https://news.ycombinator.com/item?id=46619275) - [Dutch police have their own car stolen during car theft chase](https://dutchreview.com/news/dutch-police-car-stolen-during-chase/)
 * [2026-01-14, 17:29:09](https://news.ycombinator.com/item?id=46619059) - [Xous Operating System](https://xous.dev/)
 * [2026-01-14, 17:27:22](https://news.ycombinator.com/item?id=46619030) - [So, You've Hit an Age Gate. What Now?](https://www.eff.org/deeplinks/2026/01/so-youve-hit-age-gate-what-now)
+* [2026-01-14, 17:27:10](https://news.ycombinator.com/item?id=46619021) - [Study: Minimal evidence links social media, gaming to teen mental health issues](https://www.manchester.ac.uk/about/news/time-spent-on-gaming-and-social-media/)
 * [2026-01-14, 17:23:01](https://news.ycombinator.com/item?id=46618954) - [Eigent: An open source Claude Cowork alternative](https://github.com/eigent-ai/eigent)
 * [2026-01-14, 17:20:09](https://news.ycombinator.com/item?id=46618901) - [Ford F-150 Lightning outsold the Cybertruck and was then canceled for poor sales](https://electrek.co/2026/01/13/ford-f150-lightning-outsold-tesla-cybertruck-canceled-not-selling-enough/)
 * [2026-01-14, 17:13:48](https://news.ycombinator.com/item?id=46618809) - [US freezes visas for 75 nations](https://english.mathrubhumi.com/news/world/us-visa-ban-public-charge-bjbpzu02)
