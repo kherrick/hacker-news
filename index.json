@@ -1,22 +1,52 @@
 [
   [
     [
+      "2026-01-19, 21:35:31",
+      "https://news.ycombinator.com/item?id=46684815"
+    ],
+    [
+      "Targeted Bets: An alternative approach to the job hunt",
+      "https://www.seanmuirhead.com/blog/targeted-bets"
+    ]
+  ],
+  [
+    [
+      "2026-01-19, 21:25:16",
+      "https://news.ycombinator.com/item?id=46684708"
+    ],
+    [
+      "The assistant axis: situating and stabilizing the character of LLMs",
+      "https://www.anthropic.com/research/assistant-axis"
+    ]
+  ],
+  [
+    [
+      "2026-01-19, 21:19:58",
+      "https://news.ycombinator.com/item?id=46684647"
+    ],
+    [
+      "Help Denmark Buy California – Because Why Not?",
+      "https://denmarkification.com/"
+    ]
+  ],
+  [
+    [
       "2026-01-19, 20:51:00",
       "https://news.ycombinator.com/item?id=46684335"
     ],
     [
-      "Simple Sabotage Field Manual [pdf]",
+      "Simple Sabotage Field Manual (1944) [pdf]",
       "https://www.cia.gov/static/5c875f3ec660e092cf893f60b4a288df/SimpleSabotage.pdf"
     ]
   ],
   [
     [
-      "2026-01-19, 20:37:30",
-      "https://news.ycombinator.com/item?id=46684167"
+      "2026-01-19, 20:26:19",
+      "https://news.ycombinator.com/item?id=46684056"
     ],
     [
-      "Show HN: GitClassic.com, GitHub circa 2015 without JS & AI",
-      "https://gitclassic.com"
+      "Level S4 solar radiation event",
+      "https://www.swpc.noaa.gov/news/g4-severe-geomagnetic-storm-levels-reached-19-jan-2026"
     ]
   ],
   [
@@ -25,7 +55,7 @@
       "https://news.ycombinator.com/item?id=46683969"
     ],
     [
-      "Mammals have evolved into ant eaters 12 times since the dinosaur age – study",
+      "Mammals have evolved into ant eaters 12 times since the dinosaur age – study (2025)",
       "https://phys.org/news/2025-07-mammals-evolved-ant-eaters-dinosaur.html"
     ]
   ],
@@ -67,6 +97,16 @@
     [
       "Understanding C++ Ownership System",
       "https://blog.aiono.dev/posts/understanding-c++-ownership-system.html"
+    ]
+  ],
+  [
+    [
+      "2026-01-19, 19:53:38",
+      "https://news.ycombinator.com/item?id=46683645"
+    ],
+    [
+      "Weight Transfer for RL Post-Training in under 2 seconds",
+      "https://research.perplexity.ai/articles/weight-transfer-for-rl-post-training-in-under-2-seconds"
     ]
   ],
   [
@@ -121,12 +161,12 @@
   ],
   [
     [
-      "2026-01-19, 18:00:34",
-      "https://news.ycombinator.com/item?id=46682325"
+      "2026-01-19, 17:47:38",
+      "https://news.ycombinator.com/item?id=46682115"
     ],
     [
-      "A Brief History of Ralph",
-      "https://www.humanlayer.dev/blog/brief-history-of-ralph"
+      "Show HN: An interactive physics simulator with 1000's of balls, in your terminal",
+      "https://github.com/minimaxir/ballin"
     ]
   ],
   [
@@ -141,12 +181,12 @@
   ],
   [
     [
-      "2026-01-19, 16:36:11",
-      "https://news.ycombinator.com/item?id=46680974"
+      "2026-01-19, 17:03:38",
+      "https://news.ycombinator.com/item?id=46681454"
     ],
     [
-      "Apple testing new App Store design that blurs the line between ads and results",
-      "https://9to5mac.com/2026/01/16/iphone-apple-app-store-search-results-ads-new-design/"
+      "Fix your robots.txt or your site disappears from Google",
+      "https://www.alanwsmith.com/en/37/wa/jz/s1/"
     ]
   ],
   [
@@ -171,32 +211,12 @@
   ],
   [
     [
-      "2026-01-19, 15:12:12",
-      "https://news.ycombinator.com/item?id=46679872"
+      "2026-01-19, 09:00:14",
+      "https://news.ycombinator.com/item?id=46676554"
     ],
     [
-      "GLM-4.7-Flash",
-      "https://huggingface.co/zai-org/GLM-4.7-Flash"
-    ]
-  ],
-  [
-    [
-      "2026-01-19, 11:48:59",
-      "https://news.ycombinator.com/item?id=46677918"
-    ],
-    [
-      "Robust Conditional 3D Shape Generation from Casual Captures",
-      "https://facebookresearch.github.io/ShapeR/"
-    ]
-  ],
-  [
-    [
-      "2026-01-19, 08:23:04",
-      "https://news.ycombinator.com/item?id=46676276"
-    ],
-    [
-      "Radboud University selects Fairphone as standard smartphone for employees",
-      "https://www.ru.nl/en/staff/news/radboud-university-selects-fairphone-as-standard-smartphone-for-employees"
+      "I was a top 0.01% Cursor user, then switched to Claude Code 2.0",
+      "https://blog.silennai.com/claude-code"
     ]
   ],
   [
@@ -231,26 +251,6 @@
   ],
   [
     [
-      "2026-01-18, 18:01:58",
-      "https://news.ycombinator.com/item?id=46670279"
-    ],
-    [
-      "Flux 2 Klein pure C inference",
-      "https://github.com/antirez/flux2.c"
-    ]
-  ],
-  [
-    [
-      "2026-01-17, 13:42:14",
-      "https://news.ycombinator.com/item?id=46658003"
-    ],
-    [
-      "Folding NASA Experience into an Origamist's Toolkit (2024)",
-      "https://spinoff.nasa.gov/Folding_NASA_Experience_into_an_Origamist%E2%80%99s_Toolkit"
-    ]
-  ],
-  [
-    [
       "2026-01-16, 18:15:52",
       "https://news.ycombinator.com/item?id=46649781"
     ],
@@ -271,16 +271,6 @@
   ],
   [
     [
-      "2026-01-15, 13:27:09",
-      "https://news.ycombinator.com/item?id=46632184"
-    ],
-    [
-      "Iterative image reconstruction using random cubic bézier strokes",
-      "https://tangled.org/luthenwald.tngl.sh/splined"
-    ]
-  ],
-  [
-    [
       "2026-01-15, 13:23:33",
       "https://news.ycombinator.com/item?id=46632120"
     ],
@@ -297,6 +287,16 @@
     [
       "Sending Data over Offline Finding Networks",
       "https://cc-sw.com/find-my-and-find-hub-network-research/"
+    ]
+  ],
+  [
+    [
+      "2026-01-14, 17:27:10",
+      "https://news.ycombinator.com/item?id=46619021"
+    ],
+    [
+      "Study: Minimal evidence links social media, gaming to teen mental health issues",
+      "https://www.manchester.ac.uk/about/news/time-spent-on-gaming-and-social-media/"
     ]
   ]
 ]
