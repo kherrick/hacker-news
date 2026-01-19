@@ -4,7 +4,12 @@
 
 ### [Archives](../../index.md) for [2026-01-19](index.md)
 
+* [2026-01-19, 16:36:11](https://news.ycombinator.com/item?id=46680974) - [Apple testing new App Store design that blurs the line between ads and results](https://9to5mac.com/2026/01/16/iphone-apple-app-store-search-results-ads-new-design/)
+* [2026-01-19, 16:10:28](https://news.ycombinator.com/item?id=46680597) - [Show HN: Pipenet – A Modern Alternative to Localtunnel](https://pipenet.dev/)
+* [2026-01-19, 16:05:50](https://news.ycombinator.com/item?id=46680515) - [The Microstructure of Wealth Transfer in Prediction Markets](https://www.jbecker.dev/research/prediction-market-microstructure)
+* [2026-01-19, 15:46:54](https://news.ycombinator.com/item?id=46680261) - [Are You YES AI or No AI?](https://voteyesornoai.com)
 * [2026-01-19, 15:43:01](https://news.ycombinator.com/item?id=46680212) - [Kiel Institute Analysis: US Americans pay 96% of tariff burden](https://www.kielinstitut.de/publications/americas-own-goal-who-pays-the-tariffs-19398/)
+* [2026-01-19, 15:15:41](https://news.ycombinator.com/item?id=46679907) - [CSS Web Components for marketing sites](https://hawkticehurst.com/2024/11/css-web-components-for-marketing-sites/)
 * [2026-01-19, 15:14:44](https://news.ycombinator.com/item?id=46679896) - [\"Anyone else out there vibe circuit-building?\"](https://twitter.com/beneater/status/2012988790709928305)
 * [2026-01-19, 15:12:12](https://news.ycombinator.com/item?id=46679872) - [GLM-4.7-Flash](https://huggingface.co/zai-org/GLM-4.7-Flash)
 * [2026-01-19, 14:54:02](https://news.ycombinator.com/item?id=46679657) - [West Midlands police chief quits over AI hallucination](https://www.theregister.com/2026/01/19/copper_chief_cops_it_after/)
