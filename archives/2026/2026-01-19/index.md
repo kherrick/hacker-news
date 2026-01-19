@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-01-19](index.md)
 
+* [2026-01-19, 10:09:38](https://news.ycombinator.com/item?id=46677106) - [Wikipedia: WikiProject AI Cleanup](https://en.wikipedia.org/wiki/Wikipedia:WikiProject_AI_Cleanup)
+* [2026-01-19, 09:36:26](https://news.ycombinator.com/item?id=46676843) - [US believes its power matters more than international law, UN chief](https://www.bbc.co.uk/news/articles/c4g0zx0llpzo)
+* [2026-01-19, 08:23:04](https://news.ycombinator.com/item?id=46676276) - [Radboud University selects Fairphone as standard smartphone for employees](https://www.ru.nl/en/staff/news/radboud-university-selects-fairphone-as-standard-smartphone-for-employees)
 * [2026-01-19, 08:21:44](https://news.ycombinator.com/item?id=46676264) - [MTOTP: Wouldn't it be nice if you were the 2FA device?](https://github.com/VBranimir/mTOTP/tree/develop)
 * [2026-01-19, 07:14:19](https://news.ycombinator.com/item?id=46675853) - [A decentralized peer-to-peer messaging application that operates over Bluetooth](https://bitchat.free/)
 * [2026-01-19, 06:51:12](https://news.ycombinator.com/item?id=46675740) - [Anthropic disabled my account after payment cancer patient/medical data trapped](https://news.ycombinator.com/item?id=46675740)

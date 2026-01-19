@@ -62,6 +62,7 @@
 * [2026-01-14, 15:08:55](https://news.ycombinator.com/item?id=46616881) - [Maggots, an Efficient Source of Protein, May Become Next Superfood for Humans](https://www.smithsonianmag.com/science-nature/maggots-incredibly-efficient-source-protein-may-make-them-next-superfood-humans-180987847/)
 * [2026-01-14, 14:57:30](https://news.ycombinator.com/item?id=46616745) - [FBI raids Washington Post reporter's home in 'highly unusual and aggressive' act](https://www.theguardian.com/us-news/2026/jan/14/fbi-raid-washington-post-hannah-natanson)
 * [2026-01-14, 14:42:06](https://news.ycombinator.com/item?id=46616569) - [Never-before-seen Linux malware is \"more advanced than typical\"](https://arstechnica.com/security/2026/01/never-before-seen-linux-malware-is-far-more-advanced-than-typical/)
+* [2026-01-14, 14:39:00](https://news.ycombinator.com/item?id=46616541) - [Fluid Gears Rotate Without Teeth](https://phys.org/news/2026-01-fluid-gears-rotate-teeth-mechanical.html)
 * [2026-01-14, 14:38:29](https://news.ycombinator.com/item?id=46616529) - [Ask HN: How are you doing RAG locally?](https://news.ycombinator.com/item?id=46616529)
 * [2026-01-14, 14:35:50](https://news.ycombinator.com/item?id=46616496) - [Edge of Emulation: Game Boy Sewing Machines](https://shonumi.github.io/articles/art22.html)
 * [2026-01-14, 14:34:57](https://news.ycombinator.com/item?id=46616488) - [SparkFun Officially Dropping AdaFruit due to CoC Violation](https://www.sparkfun.com/official-response)
