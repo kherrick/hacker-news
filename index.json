@@ -1,22 +1,22 @@
 [
   [
     [
+      "2026-01-19, 08:21:44",
+      "https://news.ycombinator.com/item?id=46676264"
+    ],
+    [
+      "MTOTP: Wouldn't it be nice if you were the 2FA device?",
+      "https://github.com/VBranimir/mTOTP/tree/develop"
+    ]
+  ],
+  [
+    [
       "2026-01-19, 07:14:19",
       "https://news.ycombinator.com/item?id=46675853"
     ],
     [
       "A decentralized peer-to-peer messaging application that operates over Bluetooth",
       "https://bitchat.free/"
-    ]
-  ],
-  [
-    [
-      "2026-01-19, 06:51:12",
-      "https://news.ycombinator.com/item?id=46675740"
-    ],
-    [
-      "Anthropic disabled my account after payment cancer patient/medical data trapped",
-      "https://news.ycombinator.com/item?id=46675740"
     ]
   ],
   [
@@ -65,7 +65,7 @@
       "https://news.ycombinator.com/item?id=46673453"
     ],
     [
-      "High-speed train collision in Spain kills at least 21",
+      "High-speed train collision in Spain kills at least 39",
       "https://www.bbc.com/news/articles/cedw6ylpynyo"
     ]
   ],
@@ -191,6 +191,16 @@
   ],
   [
     [
+      "2026-01-17, 11:15:26",
+      "https://news.ycombinator.com/item?id=46657122"
+    ],
+    [
+      "ASCII characters are not pixels: a deep dive into ASCII rendering",
+      "https://alexharri.com/blog/ascii-rendering"
+    ]
+  ],
+  [
+    [
       "2026-01-17, 10:26:18",
       "https://news.ycombinator.com/item?id=46656897"
     ],
@@ -227,16 +237,6 @@
     [
       "How to wrangle non-deterministic AI outputs into conventional software? (2025)",
       "https://www.domainlanguage.com/articles/ai-components-deterministic-system/"
-    ]
-  ],
-  [
-    [
-      "2026-01-15, 21:55:36",
-      "https://news.ycombinator.com/item?id=46639897"
-    ],
-    [
-      "The space and motion of communicating agents (2008) [pdf]",
-      "https://www.cl.cam.ac.uk/archive/rm135/Bigraphs-draft.pdf"
     ]
   ],
   [
