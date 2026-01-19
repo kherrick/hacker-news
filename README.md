@@ -1,9 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-01-19, 10:20:39](https://news.ycombinator.com/item?id=46677212) - [RISC-V is coming along quite speedily: Milk-V Titan Mini-ITX 8-core board](https://www.tomshardware.com/pc-components/cpus/milk-v-titan-mini-ix-board-with-ur-dp1000-processor-shows-risc-v-ecosystem-taking-shape-m-2-ddr4-and-pcie-card-support-form-a-kit-that-you-can-use-out-of-the-box)
 * [2026-01-19, 10:09:38](https://news.ycombinator.com/item?id=46677106) - [Wikipedia: WikiProject AI Cleanup](https://en.wikipedia.org/wiki/Wikipedia:WikiProject_AI_Cleanup)
-* [2026-01-19, 09:36:26](https://news.ycombinator.com/item?id=46676843) - [US believes its power matters more than international law, UN chief](https://www.bbc.co.uk/news/articles/c4g0zx0llpzo)
 * [2026-01-19, 08:23:04](https://news.ycombinator.com/item?id=46676276) - [Radboud University selects Fairphone as standard smartphone for employees](https://www.ru.nl/en/staff/news/radboud-university-selects-fairphone-as-standard-smartphone-for-employees)
-* [2026-01-19, 08:21:44](https://news.ycombinator.com/item?id=46676264) - [MTOTP: Wouldn't it be nice if you were the 2FA device?](https://github.com/VBranimir/mTOTP/tree/develop)
 * [2026-01-19, 07:14:19](https://news.ycombinator.com/item?id=46675853) - [A decentralized peer-to-peer messaging application that operates over Bluetooth](https://bitchat.free/)
 * [2026-01-19, 04:35:05](https://news.ycombinator.com/item?id=46675092) - [Show HN: AWS-doctor – A terminal-based AWS health check and cost optimizer in Go](https://github.com/elC0mpa/aws-doctor)
 * [2026-01-19, 02:27:07](https://news.ycombinator.com/item?id=46674416) - [The Code-Only Agent](https://rijnard.com/blog/the-code-only-agent)
@@ -19,6 +18,7 @@
 * [2026-01-18, 17:08:58](https://news.ycombinator.com/item?id=46669663) - [Sins of the Children](https://asteriskmag.com/issues/07/sins-of-the-children)
 * [2026-01-18, 08:18:36](https://news.ycombinator.com/item?id=46665839) - [A Social Filesystem](https://overreacted.io/a-social-filesystem/)
 * [2026-01-17, 20:19:46](https://news.ycombinator.com/item?id=46661644) - [Simulating the Ladybug Clock Puzzle](https://austinhenley.com/blog/ladybugclock.html)
+* [2026-01-17, 11:15:26](https://news.ycombinator.com/item?id=46657122) - [ASCII characters are not pixels: a deep dive into ASCII rendering](https://alexharri.com/blog/ascii-rendering)
 * [2026-01-17, 10:26:18](https://news.ycombinator.com/item?id=46656897) - [Provide agents with automated feedback](https://banay.me/dont-waste-your-backpressure/)
 * [2026-01-16, 20:21:50](https://news.ycombinator.com/item?id=46651691) - [Gladys West's vital contributions to GPS technology](https://en.wikipedia.org/wiki/Gladys_West)
 * [2026-01-16, 13:19:03](https://news.ycombinator.com/item?id=46646080) - [Fil-Qt: A Qt Base build with Fil-C experience](https://git.qt.io/cradam/fil-qt)
@@ -26,8 +26,8 @@
 * [2026-01-15, 19:33:32](https://news.ycombinator.com/item?id=46637937) - [Astrophotography visibility plotting and planning tool](https://airmass.org/)
 * [2026-01-15, 14:31:04](https://news.ycombinator.com/item?id=46633025) - [Self Sanitizing Door Handle](https://www.jamesdysonaward.org/en-US/2019/project/self-sanitizing-door-handle/)
 * [2026-01-14, 22:39:33](https://news.ycombinator.com/item?id=46624883) - [Gas Town Decoded](https://www.alilleybrinker.com/mini/gas-town-decoded/)
+* [2026-01-14, 22:08:04](https://news.ycombinator.com/item?id=46624396) - [Poking holes into bytecode with peephole optimisations](https://xnacly.me/posts/2026/purple-garden-first-optimisations/)
 * [2026-01-14, 14:39:00](https://news.ycombinator.com/item?id=46616541) - [Fluid Gears Rotate Without Teeth](https://phys.org/news/2026-01-fluid-gears-rotate-teeth-mechanical.html)
-* [2026-01-14, 04:00:37](https://news.ycombinator.com/item?id=46612188) - [Experiments with Kafka's head-of-line blocking (2023)](https://www.artur-rodrigues.com/tech/2023/03/21/kafka-head-of-line-blocking.html)
 * [2026-01-14, 00:43:36](https://news.ycombinator.com/item?id=46610800) - [AVX-512: First Impressions on Performance and Programmability](https://shihab-shahriar.github.io//blog/2026/AVX-512-First-Impressions-on-Performance-and-Programmability/)
 * [2026-01-13, 18:12:09](https://news.ycombinator.com/item?id=46605155) - [Using proxies to hide secrets from Claude Code](https://www.joinformal.com/blog/using-proxies-to-hide-secrets-from-claude-code/)
 
