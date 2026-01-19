@@ -1,6 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-01-19, 19:43:07](https://news.ycombinator.com/item?id=46683519) - [Americans Are the Ones Paying for Tariffs, Study Finds](https://www.wsj.com/economy/trade/americans-are-the-ones-paying-for-tariffs-study-finds-e254ed2e)
+* [2026-01-19, 20:18:58](https://news.ycombinator.com/item?id=46683969) - [Mammals have evolved into ant eaters 12 times since the dinosaur age,study finds](https://phys.org/news/2025-07-mammals-evolved-ant-eaters-dinosaur.html)
+* [2026-01-19, 20:17:32](https://news.ycombinator.com/item?id=46683947) - [Threads edges out X in daily mobile users, new data shows](https://techcrunch.com/2026/01/18/threads-edges-out-x-in-daily-mobile-users-new-data-shows/)
+* [2026-01-19, 20:11:25](https://news.ycombinator.com/item?id=46683858) - [Show HN: A creative coding library for making art with desktop windows](https://github.com/willmeyers/window-art)
+* [2026-01-19, 20:09:04](https://news.ycombinator.com/item?id=46683833) - [There's a hidden Android setting that spots fake cell towers](https://www.howtogeek.com/theres-a-hidden-android-setting-that-spots-fake-cell-towers/)
+* [2026-01-19, 19:48:37](https://news.ycombinator.com/item?id=46683589) - [Fix macOS 26 (Tahoe) exaggerated rounded corners](https://github.com/makalin/CornerFix)
 * [2026-01-19, 19:33:22](https://news.ycombinator.com/item?id=46683410) - [Nonviolence](https://kinginstitute.stanford.edu/nonviolence)
 * [2026-01-19, 19:17:52](https://news.ycombinator.com/item?id=46683205) - [Letter from a Birmingham Jail [King, Jr.] (1963)](https://www.africa.upenn.edu/Articles_Gen/Letter_Birmingham.html)
 * [2026-01-19, 18:53:31](https://news.ycombinator.com/item?id=46682931) - [There Is No Comfortable Reading Position](https://slate.com/life/2026/01/body-books-reading-position-posture-pain.html)
@@ -10,10 +14,8 @@
 * [2026-01-19, 18:00:34](https://news.ycombinator.com/item?id=46682325) - [A Brief History of Ralph](https://www.humanlayer.dev/blog/brief-history-of-ralph)
 * [2026-01-19, 17:13:59](https://news.ycombinator.com/item?id=46681611) - [What came first: the CNAME or the A record?](https://blog.cloudflare.com/cname-a-record-order-dns-standards/)
 * [2026-01-19, 17:03:38](https://news.ycombinator.com/item?id=46681454) - [Fix Your Robots.txt or Your Site Disappears from Google](https://www.alanwsmith.com/en/37/wa/jz/s1/)
-* [2026-01-19, 16:47:46](https://news.ycombinator.com/item?id=46681153) - [Cows can use sophisticated tools](https://nautil.us/the-far-side-had-it-all-wrong-cows-really-can-use-sophisticated-tools-1262026/)
 * [2026-01-19, 16:36:11](https://news.ycombinator.com/item?id=46680974) - [Apple testing new App Store design that blurs the line between ads and results](https://9to5mac.com/2026/01/16/iphone-apple-app-store-search-results-ads-new-design/)
 * [2026-01-19, 16:10:28](https://news.ycombinator.com/item?id=46680597) - [Show HN: Pipenet – A Modern Alternative to Localtunnel](https://pipenet.dev/)
-* [2026-01-19, 16:05:50](https://news.ycombinator.com/item?id=46680515) - [The Microstructure of Wealth Transfer in Prediction Markets](https://www.jbecker.dev/research/prediction-market-microstructure)
 * [2026-01-19, 15:15:41](https://news.ycombinator.com/item?id=46679907) - [CSS Web Components for marketing sites (2024)](https://hawkticehurst.com/2024/11/css-web-components-for-marketing-sites/)
 * [2026-01-19, 15:12:12](https://news.ycombinator.com/item?id=46679872) - [GLM-4.7-Flash](https://huggingface.co/zai-org/GLM-4.7-Flash)
 * [2026-01-19, 11:48:59](https://news.ycombinator.com/item?id=46677918) - [Robust Conditional 3D Shape Generation from Casual Captures](https://facebookresearch.github.io/ShapeR/)
@@ -27,9 +29,7 @@
 * [2026-01-15, 23:36:40](https://news.ycombinator.com/item?id=46641036) - [From Nevada to Kansas by Glider](https://www.weglide.org/flight/978820)
 * [2026-01-15, 13:27:09](https://news.ycombinator.com/item?id=46632184) - [Iterative image reconstruction using random cubic bézier strokes](https://tangled.org/luthenwald.tngl.sh/splined)
 * [2026-01-15, 13:23:33](https://news.ycombinator.com/item?id=46632120) - [Conditions in the Intel 8087 floating-point chip's microcode](https://www.righto.com/2025/12/8087-microcode-conditions.html)
-* [2026-01-15, 02:47:16](https://news.ycombinator.com/item?id=46627410) - [Nepal's Mountainside Teahouses Elevate the Experience for Trekkers](https://www.smithsonianmag.com/travel/nepal-mountainside-teahouses-elevate-experience-trekkers-heading-to-top-world-180987844/)
 * [2026-01-14, 20:00:34](https://news.ycombinator.com/item?id=46622096) - [Sending Data over Offline Finding Networks](https://cc-sw.com/find-my-and-find-hub-network-research/)
-* [2026-01-14, 17:49:38](https://news.ycombinator.com/item?id=46619391) - [Luxury Yacht is a desktop app for managing Kubernetes clusters](https://github.com/luxury-yacht/app)
 
 ## [Archives](archives/index.md)
 
