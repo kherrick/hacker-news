@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2026-01-19](index.md)
 
 * [2026-01-19, 20:51:00](https://news.ycombinator.com/item?id=46684335) - [Simple Sabotage Field Manual [pdf]](https://www.cia.gov/static/5c875f3ec660e092cf893f60b4a288df/SimpleSabotage.pdf)
+* [2026-01-19, 20:37:30](https://news.ycombinator.com/item?id=46684167) - [Show HN: GitClassic.com, GitHub circa 2015 without JS & AI](https://gitclassic.com)
 * [2026-01-19, 20:18:58](https://news.ycombinator.com/item?id=46683969) - [Mammals have evolved into ant eaters 12 times since the dinosaur age,study finds](https://phys.org/news/2025-07-mammals-evolved-ant-eaters-dinosaur.html)
 * [2026-01-19, 20:17:32](https://news.ycombinator.com/item?id=46683947) - [Threads edges out X in daily mobile users, new data shows](https://techcrunch.com/2026/01/18/threads-edges-out-x-in-daily-mobile-users-new-data-shows/)
 * [2026-01-19, 20:11:25](https://news.ycombinator.com/item?id=46683858) - [Show HN: A creative coding library for making art with desktop windows](https://github.com/willmeyers/window-art)
