@@ -10,6 +10,7 @@
 * [2026-01-16, 22:49:04](https://news.ycombinator.com/item?id=46653270) - [Re: Mix: open-source repairable blender](https://github.com/openfunkHQ/reMix)
 * [2026-01-16, 22:15:20](https://news.ycombinator.com/item?id=46652944) - [Install.md: A standard for LLM-executable installation](https://www.mintlify.com/blog/install-md-standard-for-llm-executable-installation)
 * [2026-01-16, 22:13:18](https://news.ycombinator.com/item?id=46652914) - [Drawbot: Let's hack something cute (2025)](https://www.atredis.com/blog/2025/9/30/drawbot-lets-hack-something-cute)
+* [2026-01-16, 21:48:40](https://news.ycombinator.com/item?id=46652690) - [I set all 376 Vim options and I'm still a fool](https://evanhahn.com/i-set-all-376-vim-options-and-im-still-a-fool/)
 * [2026-01-16, 21:42:24](https://news.ycombinator.com/item?id=46652617) - [Releasing rainbow tables to accelerate protocol deprecation](https://cloud.google.com/blog/topics/threat-intelligence/net-ntlmv1-deprecation-rainbow-tables)
 * [2026-01-16, 21:39:42](https://news.ycombinator.com/item?id=46652592) - [We're more patient with AI than one another](https://www.uxtopian.com/journal/were-more-patient-with-ai-than-one-another)
 * [2026-01-16, 21:13:48](https://news.ycombinator.com/item?id=46652299) - [The Engineer to Executive Translation Layer](https://refactoring.fm/p/the-engineer-executive-translation)
