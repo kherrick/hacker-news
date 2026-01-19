@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2026-01-19](index.md)
 
 * [2026-01-19, 18:53:31](https://news.ycombinator.com/item?id=46682931) - [There Is No Comfortable Reading Position](https://slate.com/life/2026/01/body-books-reading-position-posture-pain.html)
+* [2026-01-19, 18:42:34](https://news.ycombinator.com/item?id=46682806) - [US Places Arctic Airborne Troops on Standby as Greenland Dispute Escalates](https://www.thedefensenews.com/news-details/Pentagon-Places-1500-Arctic-Trained-Airborne-Troops-on-Standby-as-Greenland-Dispute-Escalates/)
 * [2026-01-19, 18:00:34](https://news.ycombinator.com/item?id=46682325) - [A Brief History of Ralph](https://www.humanlayer.dev/blog/brief-history-of-ralph)
 * [2026-01-19, 17:13:59](https://news.ycombinator.com/item?id=46681611) - [What came first: the CNAME or the A record?](https://blog.cloudflare.com/cname-a-record-order-dns-standards/)
 * [2026-01-19, 17:12:19](https://news.ycombinator.com/item?id=46681587) - [Raccoons break into liquor stores, scale skyscrapers and pick locks](https://theconversation.com/raccoons-break-into-liquor-stores-scale-skyscrapers-and-pick-locks-studying-their-clever-brains-can-clarify-human-intelligence-too-272487)
