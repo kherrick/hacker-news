@@ -4,10 +4,12 @@
 
 ### [Archives](../../index.md) for [2026-01-19](index.md)
 
+* [2026-01-19, 20:51:00](https://news.ycombinator.com/item?id=46684335) - [Simple Sabotage Field Manual [pdf]](https://www.cia.gov/static/5c875f3ec660e092cf893f60b4a288df/SimpleSabotage.pdf)
 * [2026-01-19, 20:18:58](https://news.ycombinator.com/item?id=46683969) - [Mammals have evolved into ant eaters 12 times since the dinosaur age,study finds](https://phys.org/news/2025-07-mammals-evolved-ant-eaters-dinosaur.html)
 * [2026-01-19, 20:17:32](https://news.ycombinator.com/item?id=46683947) - [Threads edges out X in daily mobile users, new data shows](https://techcrunch.com/2026/01/18/threads-edges-out-x-in-daily-mobile-users-new-data-shows/)
 * [2026-01-19, 20:11:25](https://news.ycombinator.com/item?id=46683858) - [Show HN: A creative coding library for making art with desktop windows](https://github.com/willmeyers/window-art)
 * [2026-01-19, 20:09:04](https://news.ycombinator.com/item?id=46683833) - [There's a hidden Android setting that spots fake cell towers](https://www.howtogeek.com/theres-a-hidden-android-setting-that-spots-fake-cell-towers/)
+* [2026-01-19, 20:04:34](https://news.ycombinator.com/item?id=46683782) - [Greenland Crisis](https://en.wikipedia.org/wiki/Greenland_crisis)
 * [2026-01-19, 20:01:43](https://news.ycombinator.com/item?id=46683752) - [Understanding C++ Ownership System](https://blog.aiono.dev/posts/understanding-c++-ownership-system.html)
 * [2026-01-19, 19:48:37](https://news.ycombinator.com/item?id=46683589) - [Fix macOS 26 (Tahoe) exaggerated rounded corners](https://github.com/makalin/CornerFix)
 * [2026-01-19, 19:43:07](https://news.ycombinator.com/item?id=46683519) - [Americans Are the Ones Paying for Tariffs, Study Finds](https://www.wsj.com/economy/trade/americans-are-the-ones-paying-for-tariffs-study-finds-e254ed2e)
