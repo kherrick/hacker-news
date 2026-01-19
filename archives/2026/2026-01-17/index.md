@@ -15,6 +15,7 @@
 * [2026-01-17, 21:03:52](https://news.ycombinator.com/item?id=46662078) - [Show HN: ChunkHound, a local-first tool for understanding large codebases](https://github.com/chunkhound/chunkhound)
 * [2026-01-17, 20:49:15](https://news.ycombinator.com/item?id=46661936) - [The Death of Software Development](https://mike.tech/blog/death-of-software-development)
 * [2026-01-17, 20:44:52](https://news.ycombinator.com/item?id=46661897) - [A programming language based on grammatical cases of Turkish](https://github.com/kip-dili/kip)
+* [2026-01-17, 20:19:46](https://news.ycombinator.com/item?id=46661644) - [Simulating the Ladybug Clock Puzzle](https://austinhenley.com/blog/ladybugclock.html)
 * [2026-01-17, 20:17:49](https://news.ycombinator.com/item?id=46661630) - [Show HN: Docker.how – Docker command cheat sheet](https://docker.how/)
 * [2026-01-17, 20:02:38](https://news.ycombinator.com/item?id=46661505) - [Kagi Small Web](https://kagi.com/smallweb)
 * [2026-01-17, 19:39:36](https://news.ycombinator.com/item?id=46661308) - [Show HN: Minikv – Distributed key-value and object store in Rust (Raft, S3 API)](https://github.com/whispem/minikv)
