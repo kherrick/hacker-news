@@ -18,6 +18,7 @@
 * [2026-01-15, 20:20:13](https://news.ycombinator.com/item?id=46638629) - [Linux boxes via SSH: suspended when disconected](https://shellbox.dev/)
 * [2026-01-15, 19:54:42](https://news.ycombinator.com/item?id=46638241) - [I Learned Everything I Know About Programming](https://agentultra.com/blog/how-i-learned-everything-i-know/index.html)
 * [2026-01-15, 19:38:02](https://news.ycombinator.com/item?id=46638013) - [Briar keeps Iran connected via Bluetooth and Wi-Fi when the internet goes dark](https://briarproject.org/manual/fa/)
+* [2026-01-15, 19:33:32](https://news.ycombinator.com/item?id=46637937) - [Astrophotography visibility plotting and planning tool](https://airmass.org/)
 * [2026-01-15, 19:20:48](https://news.ycombinator.com/item?id=46637723) - [Show HN: 1Code – Open-source Cursor-like UI for Claude Code](https://github.com/21st-dev/1code)
 * [2026-01-15, 19:00:37](https://news.ycombinator.com/item?id=46637399) - [UK offshore wind prices come in 40% cheaper than gas in record auction](https://electrek.co/2026/01/14/uk-offshore-wind-record-auction/)
 * [2026-01-15, 18:54:32](https://news.ycombinator.com/item?id=46637328) - [Data is the only moat](https://frontierai.substack.com/p/data-is-your-only-moat)
