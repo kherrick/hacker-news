@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-01-19](index.md)
 
+* [2026-01-19, 19:17:52](https://news.ycombinator.com/item?id=46683205) - [Letter from a Birmingham Jail [King, Jr.] (1963)](https://www.africa.upenn.edu/Articles_Gen/Letter_Birmingham.html)
 * [2026-01-19, 18:53:31](https://news.ycombinator.com/item?id=46682931) - [There Is No Comfortable Reading Position](https://slate.com/life/2026/01/body-books-reading-position-posture-pain.html)
 * [2026-01-19, 18:42:34](https://news.ycombinator.com/item?id=46682806) - [US Places Arctic Airborne Troops on Standby as Greenland Dispute Escalates](https://www.thedefensenews.com/news-details/Pentagon-Places-1500-Arctic-Trained-Airborne-Troops-on-Standby-as-Greenland-Dispute-Escalates/)
 * [2026-01-19, 18:00:34](https://news.ycombinator.com/item?id=46682325) - [A Brief History of Ralph](https://www.humanlayer.dev/blog/brief-history-of-ralph)
