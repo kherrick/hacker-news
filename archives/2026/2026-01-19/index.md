@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-01-19](index.md)
 
+* [2026-01-19, 21:48:07](https://news.ycombinator.com/item?id=46684958) - [Nanolang: A tiny experimental language designed to be targeted by coding LLMs](https://github.com/jordanhubbard/nanolang)
+* [2026-01-19, 21:39:44](https://news.ycombinator.com/item?id=46684862) - [Use Social Media Mindfully](https://danielleheberling.xyz/blog/mindful-social-media/)
 * [2026-01-19, 21:35:31](https://news.ycombinator.com/item?id=46684815) - [Targeted Bets: An alternative approach to the job hunt](https://www.seanmuirhead.com/blog/targeted-bets)
 * [2026-01-19, 21:25:16](https://news.ycombinator.com/item?id=46684708) - [The assistant axis: situating and stabilizing the character of LLMs](https://www.anthropic.com/research/assistant-axis)
 * [2026-01-19, 21:19:58](https://news.ycombinator.com/item?id=46684647) - [Help Denmark Buy California – Because Why Not?](https://denmarkification.com/)
