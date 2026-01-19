@@ -6,6 +6,7 @@
 
 * [2026-01-19, 17:12:19](https://news.ycombinator.com/item?id=46681587) - [Raccoons break into liquor stores, scale skyscrapers and pick locks](https://theconversation.com/raccoons-break-into-liquor-stores-scale-skyscrapers-and-pick-locks-studying-their-clever-brains-can-clarify-human-intelligence-too-272487)
 * [2026-01-19, 16:57:27](https://news.ycombinator.com/item?id=46681351) - [What it's like to be banned from the US for fighting online hate](https://www.technologyreview.com/2026/01/19/1131384/what-its-like-to-be-banned-from-the-us-for-fighting-online-hate/)
+* [2026-01-19, 16:47:49](https://news.ycombinator.com/item?id=46681156) - [Project Cybersyn](https://en.wikipedia.org/wiki/Project_Cybersyn)
 * [2026-01-19, 16:47:46](https://news.ycombinator.com/item?id=46681153) - [Cows Can Use Sophisticated Tools](https://nautil.us/the-far-side-had-it-all-wrong-cows-really-can-use-sophisticated-tools-1262026/)
 * [2026-01-19, 16:36:11](https://news.ycombinator.com/item?id=46680974) - [Apple testing new App Store design that blurs the line between ads and results](https://9to5mac.com/2026/01/16/iphone-apple-app-store-search-results-ads-new-design/)
 * [2026-01-19, 16:10:28](https://news.ycombinator.com/item?id=46680597) - [Show HN: Pipenet – A Modern Alternative to Localtunnel](https://pipenet.dev/)
