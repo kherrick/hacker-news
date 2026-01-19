@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-01-19, 07:14:19](https://news.ycombinator.com/item?id=46675853) - [A decentralized peer-to-peer messaging application that operates over Bluetooth](https://bitchat.free/)
 * [2026-01-19, 05:04:40](https://news.ycombinator.com/item?id=46675236) - [Show HN: Intent Layer: A context engineering skill for AI agents](https://www.railly.dev/blog/intent-layer/)
 * [2026-01-19, 05:04:07](https://news.ycombinator.com/item?id=46675231) - [Show HN: Pdfwithlove – PDF tools that run 100% locally (no uploads, no back end)](https://pdfwithlove.netlify.app)
 * [2026-01-19, 04:35:05](https://news.ycombinator.com/item?id=46675092) - [Show HN: AWS-doctor – A terminal-based AWS health check and cost optimizer in Go](https://github.com/elC0mpa/aws-doctor)
@@ -15,7 +16,6 @@
 * [2026-01-18, 17:53:21](https://news.ycombinator.com/item?id=46670181) - [Show HN: Lume 0.2 – Build and Run macOS VMs with unattended setup](https://cua.ai/docs/lume/guide/getting-started/introduction)
 * [2026-01-18, 17:40:55](https://news.ycombinator.com/item?id=46670024) - [Gaussian Splatting – A$AP Rocky \"Helicopter\" music video](https://radiancefields.com/a-ap-rocky-releases-helicopter-music-video-featuring-gaussian-splatting)
 * [2026-01-18, 17:08:58](https://news.ycombinator.com/item?id=46669663) - [Sins of the Children](https://asteriskmag.com/issues/07/sins-of-the-children)
-* [2026-01-18, 14:25:49](https://news.ycombinator.com/item?id=46668021) - [Predicting OpenAI's ad strategy](https://ossa-ma.github.io/blog/openads)
 * [2026-01-18, 08:58:40](https://news.ycombinator.com/item?id=46666085) - [Command-line Tools can be 235x Faster than your Hadoop Cluster (2014)](https://adamdrake.com/command-line-tools-can-be-235x-faster-than-your-hadoop-cluster.html)
 * [2026-01-18, 08:18:36](https://news.ycombinator.com/item?id=46665839) - [A Social Filesystem](https://overreacted.io/a-social-filesystem/)
 * [2026-01-17, 20:19:46](https://news.ycombinator.com/item?id=46661644) - [Simulating the Ladybug Clock Puzzle](https://austinhenley.com/blog/ladybugclock.html)
