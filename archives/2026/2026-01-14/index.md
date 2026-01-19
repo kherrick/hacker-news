@@ -91,6 +91,7 @@
 * [2026-01-14, 05:35:20](https://news.ycombinator.com/item?id=46612711) - [The <Geolocation> HTML Element](https://developer.chrome.com/blog/geolocation-html-element)
 * [2026-01-14, 05:26:20](https://news.ycombinator.com/item?id=46612661) - [Beebo, a wave simulator written in C](https://git.sr.ht/~willowf/beebo/)
 * [2026-01-14, 04:55:04](https://news.ycombinator.com/item?id=46612494) - [Show HN: OpenWork – an open-source alternative to Claude Cowork](https://github.com/different-ai/openwork)
+* [2026-01-14, 04:00:37](https://news.ycombinator.com/item?id=46612188) - [Experiments with Kafka's head-of-line blocking (2023)](https://www.artur-rodrigues.com/tech/2023/03/21/kafka-head-of-line-blocking.html)
 * [2026-01-14, 03:35:35](https://news.ycombinator.com/item?id=46612001) - [AI will compromise your cybersecurity posture](https://rys.io/en/181.html)
 * [2026-01-14, 03:08:37](https://news.ycombinator.com/item?id=46611823) - [1000 Blank White Cards](https://en.wikipedia.org/wiki/1000_Blank_White_Cards)
 * [2026-01-14, 03:08:10](https://news.ycombinator.com/item?id=46611816) - [Wine 11.0](https://gitlab.winehq.org/wine/wine/-/releases/wine-11.0)
