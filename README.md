@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-01-19, 05:04:40](https://news.ycombinator.com/item?id=46675236) - [Show HN: Intent Layer: A context engineering skill for AI agents](https://www.railly.dev/blog/intent-layer/)
+* [2026-01-19, 05:04:07](https://news.ycombinator.com/item?id=46675231) - [Show HN: Pdfwithlove – PDF tools that run 100% locally (no uploads, no back end)](https://pdfwithlove.netlify.app)
 * [2026-01-19, 04:35:05](https://news.ycombinator.com/item?id=46675092) - [Show HN: AWS-doctor – A terminal-based AWS health check and cost optimizer in Go](https://github.com/elC0mpa/aws-doctor)
 * [2026-01-19, 02:27:07](https://news.ycombinator.com/item?id=46674416) - [The Code-Only Agent](https://rijnard.com/blog/the-code-only-agent)
 * [2026-01-19, 00:50:20](https://news.ycombinator.com/item?id=46673809) - [Show HN: I quit coding years ago. AI brought me back](https://calquio.com/finance/compound-interest)
@@ -16,7 +18,6 @@
 * [2026-01-18, 09:36:25](https://news.ycombinator.com/item?id=46666288) - [A free and open-source rootkit for Linux](https://lwn.net/SubscriberLink/1053099/19c2e8180aeb0438/)
 * [2026-01-18, 08:58:40](https://news.ycombinator.com/item?id=46666085) - [Command-line Tools can be 235x Faster than your Hadoop Cluster (2014)](https://adamdrake.com/command-line-tools-can-be-235x-faster-than-your-hadoop-cluster.html)
 * [2026-01-18, 08:18:36](https://news.ycombinator.com/item?id=46665839) - [A Social Filesystem](https://overreacted.io/a-social-filesystem/)
-* [2026-01-18, 06:27:24](https://news.ycombinator.com/item?id=46665310) - [ThinkNext Design](https://thinknextdesign.com/home.html)
 * [2026-01-17, 20:19:46](https://news.ycombinator.com/item?id=46661644) - [Simulating the Ladybug Clock Puzzle](https://austinhenley.com/blog/ladybugclock.html)
 * [2026-01-17, 11:15:26](https://news.ycombinator.com/item?id=46657122) - [ASCII characters are not pixels: a deep dive into ASCII rendering](https://alexharri.com/blog/ascii-rendering)
 * [2026-01-17, 10:26:18](https://news.ycombinator.com/item?id=46656897) - [Provide agents with automated feedback](https://banay.me/dont-waste-your-backpressure/)
@@ -26,7 +27,6 @@
 * [2026-01-14, 22:39:33](https://news.ycombinator.com/item?id=46624883) - [Gas Town Decoded](https://www.alilleybrinker.com/mini/gas-town-decoded/)
 * [2026-01-14, 22:08:04](https://news.ycombinator.com/item?id=46624396) - [Poking holes into bytecode with peephole optimisations](https://xnacly.me/posts/2026/purple-garden-first-optimisations/)
 * [2026-01-14, 04:00:37](https://news.ycombinator.com/item?id=46612188) - [Experiments with Kafka's head-of-line blocking (2023)](https://www.artur-rodrigues.com/tech/2023/03/21/kafka-head-of-line-blocking.html)
-* [2026-01-14, 03:08:10](https://news.ycombinator.com/item?id=46611816) - [Wine 11.0](https://gitlab.winehq.org/wine/wine/-/releases/wine-11.0)
 * [2026-01-14, 00:43:36](https://news.ycombinator.com/item?id=46610800) - [AVX-512: First Impressions on Performance and Programmability](https://shihab-shahriar.github.io//blog/2026/AVX-512-First-Impressions-on-Performance-and-Programmability/)
 * [2026-01-13, 21:26:59](https://news.ycombinator.com/item?id=46608342) - [The Cathedral, the Megachurch, and the Bazaar](https://opensourcesecurity.io/2026/01-cathedral-megachurch-bazaar/)
 * [2026-01-13, 18:12:09](https://news.ycombinator.com/item?id=46605155) - [Using proxies to hide secrets from Claude Code](https://www.joinformal.com/blog/using-proxies-to-hide-secrets-from-claude-code/)
