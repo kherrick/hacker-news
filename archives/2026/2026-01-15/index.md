@@ -77,6 +77,7 @@
 * [2026-01-15, 05:15:40](https://news.ycombinator.com/item?id=46628336) - [Show HN: Fine-tuned Qwen2.5-7B on 100 films for probabilistic story graphs](https://cinegraphs.ai/)
 * [2026-01-15, 05:14:08](https://news.ycombinator.com/item?id=46628329) - [Pocket TTS: A high quality TTS that gives your CPU a voice](https://kyutai.org/blog/2026-01-13-pocket-tts)
 * [2026-01-15, 03:28:20](https://news.ycombinator.com/item?id=46627652) - [The URL shortener that makes your links look as suspicious as possible](https://creepylink.com/)
+* [2026-01-15, 02:47:16](https://news.ycombinator.com/item?id=46627410) - [Nepal's Mountainside Teahouses Elevate the Experience for Trekkers](https://www.smithsonianmag.com/travel/nepal-mountainside-teahouses-elevate-experience-trekkers-heading-to-top-world-180987844/)
 * [2026-01-15, 01:45:22](https://news.ycombinator.com/item?id=46626836) - [Bubblewrap: A nimble way to prevent agents from accessing your .env files](https://patrickmccanna.net/a-better-way-to-limit-claude-code-and-other-coding-agents-access-to-secrets/)
 * [2026-01-15, 01:20:22](https://news.ycombinator.com/item?id=46626639) - [Ask HN: What is the best way to provide continuous context to models?](https://news.ycombinator.com/item?id=46626639)
 * [2026-01-15, 00:53:21](https://news.ycombinator.com/item?id=46626410) - [Furiosa: 3.5x efficiency over H100s](https://furiosa.ai/blog/introducing-rngd-server-efficient-ai-inference-at-data-center-scale)

@@ -4,9 +4,11 @@
 
 ### [Archives](../../index.md) for [2026-01-19](index.md)
 
+* [2026-01-19, 11:00:31](https://news.ycombinator.com/item?id=46677549) - [Show HN: Kacet – a freelancer marketplace with crypto-native payments](https://kacet.com/)
 * [2026-01-19, 10:20:39](https://news.ycombinator.com/item?id=46677212) - [RISC-V is coming along quite speedily: Milk-V Titan Mini-ITX 8-core board](https://www.tomshardware.com/pc-components/cpus/milk-v-titan-mini-ix-board-with-ur-dp1000-processor-shows-risc-v-ecosystem-taking-shape-m-2-ddr4-and-pcie-card-support-form-a-kit-that-you-can-use-out-of-the-box)
 * [2026-01-19, 10:09:38](https://news.ycombinator.com/item?id=46677106) - [Wikipedia: WikiProject AI Cleanup](https://en.wikipedia.org/wiki/Wikipedia:WikiProject_AI_Cleanup)
 * [2026-01-19, 09:36:26](https://news.ycombinator.com/item?id=46676843) - [US believes its power matters more than international law, UN chief](https://www.bbc.co.uk/news/articles/c4g0zx0llpzo)
+* [2026-01-19, 09:33:50](https://news.ycombinator.com/item?id=46676824) - [Greenpeace pilot brings heat pumps and solar to Ukrainian community](https://www.pveurope.eu/power2heat/greenpeace-pilot-brings-heat-pumps-and-solar-ukrainian-community)
 * [2026-01-19, 08:23:04](https://news.ycombinator.com/item?id=46676276) - [Radboud University selects Fairphone as standard smartphone for employees](https://www.ru.nl/en/staff/news/radboud-university-selects-fairphone-as-standard-smartphone-for-employees)
 * [2026-01-19, 08:21:44](https://news.ycombinator.com/item?id=46676264) - [MTOTP: Wouldn't it be nice if you were the 2FA device?](https://github.com/VBranimir/mTOTP/tree/develop)
 * [2026-01-19, 07:14:19](https://news.ycombinator.com/item?id=46675853) - [A decentralized peer-to-peer messaging application that operates over Bluetooth](https://bitchat.free/)
