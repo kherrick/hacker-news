@@ -1,7 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-01-19, 19:43:07](https://news.ycombinator.com/item?id=46683519) - [Americans Are the Ones Paying for Tariffs, Study Finds](https://www.wsj.com/economy/trade/americans-are-the-ones-paying-for-tariffs-study-finds-e254ed2e)
+* [2026-01-19, 19:33:22](https://news.ycombinator.com/item?id=46683410) - [Nonviolence](https://kinginstitute.stanford.edu/nonviolence)
 * [2026-01-19, 19:17:52](https://news.ycombinator.com/item?id=46683205) - [Letter from a Birmingham Jail [King, Jr.] (1963)](https://www.africa.upenn.edu/Articles_Gen/Letter_Birmingham.html)
 * [2026-01-19, 18:53:31](https://news.ycombinator.com/item?id=46682931) - [There Is No Comfortable Reading Position](https://slate.com/life/2026/01/body-books-reading-position-posture-pain.html)
+* [2026-01-19, 18:15:48](https://news.ycombinator.com/item?id=46682518) - [Notes on Apple's Nano Texture](https://jon.bo/posts/nano-texture/)
 * [2026-01-19, 18:00:34](https://news.ycombinator.com/item?id=46682325) - [A Brief History of Ralph](https://www.humanlayer.dev/blog/brief-history-of-ralph)
 * [2026-01-19, 17:13:59](https://news.ycombinator.com/item?id=46681611) - [What came first: the CNAME or the A record?](https://blog.cloudflare.com/cname-a-record-order-dns-standards/)
 * [2026-01-19, 17:03:38](https://news.ycombinator.com/item?id=46681454) - [Fix Your Robots.txt or Your Site Disappears from Google](https://www.alanwsmith.com/en/37/wa/jz/s1/)
@@ -10,7 +13,6 @@
 * [2026-01-19, 16:10:28](https://news.ycombinator.com/item?id=46680597) - [Show HN: Pipenet – A Modern Alternative to Localtunnel](https://pipenet.dev/)
 * [2026-01-19, 16:05:50](https://news.ycombinator.com/item?id=46680515) - [The Microstructure of Wealth Transfer in Prediction Markets](https://www.jbecker.dev/research/prediction-market-microstructure)
 * [2026-01-19, 15:15:41](https://news.ycombinator.com/item?id=46679907) - [CSS Web Components for marketing sites (2024)](https://hawkticehurst.com/2024/11/css-web-components-for-marketing-sites/)
-* [2026-01-19, 15:14:44](https://news.ycombinator.com/item?id=46679896) - [\"Anyone else out there vibe circuit-building?\"](https://twitter.com/beneater/status/2012988790709928305)
 * [2026-01-19, 15:12:12](https://news.ycombinator.com/item?id=46679872) - [GLM-4.7-Flash](https://huggingface.co/zai-org/GLM-4.7-Flash)
 * [2026-01-19, 13:05:42](https://news.ycombinator.com/item?id=46678550) - [Ask HN: COBOL devs, how are AI coding affecting your work?](https://news.ycombinator.com/item?id=46678550)
 * [2026-01-19, 11:48:59](https://news.ycombinator.com/item?id=46677918) - [Robust Conditional 3D Shape Generation from Casual Captures](https://facebookresearch.github.io/ShapeR/)
@@ -23,13 +25,11 @@
 * [2026-01-18, 18:01:58](https://news.ycombinator.com/item?id=46670279) - [Flux 2 Klein pure C inference](https://github.com/antirez/flux2.c)
 * [2026-01-17, 13:42:14](https://news.ycombinator.com/item?id=46658003) - [Folding NASA Experience into an Origamist's Toolkit](https://spinoff.nasa.gov/Folding_NASA_Experience_into_an_Origamist%E2%80%99s_Toolkit)
 * [2026-01-16, 21:48:40](https://news.ycombinator.com/item?id=46652690) - [I set all 376 Vim options and I'm still a fool](https://evanhahn.com/i-set-all-376-vim-options-and-im-still-a-fool/)
-* [2026-01-15, 21:55:36](https://news.ycombinator.com/item?id=46639897) - [The space and motion of communicating agents (2008) [pdf]](https://www.cl.cam.ac.uk/archive/rm135/Bigraphs-draft.pdf)
 * [2026-01-15, 13:27:09](https://news.ycombinator.com/item?id=46632184) - [Iterative image reconstruction using random cubic bézier strokes](https://tangled.org/luthenwald.tngl.sh/splined)
 * [2026-01-15, 13:23:33](https://news.ycombinator.com/item?id=46632120) - [Conditions in the Intel 8087 floating-point chip's microcode](https://www.righto.com/2025/12/8087-microcode-conditions.html)
 * [2026-01-15, 02:47:16](https://news.ycombinator.com/item?id=46627410) - [Nepal's Mountainside Teahouses Elevate the Experience for Trekkers](https://www.smithsonianmag.com/travel/nepal-mountainside-teahouses-elevate-experience-trekkers-heading-to-top-world-180987844/)
 * [2026-01-14, 20:00:34](https://news.ycombinator.com/item?id=46622096) - [Sending Data over Offline Finding Networks](https://cc-sw.com/find-my-and-find-hub-network-research/)
 * [2026-01-14, 17:49:38](https://news.ycombinator.com/item?id=46619391) - [Luxury Yacht is a desktop app for managing Kubernetes clusters](https://github.com/luxury-yacht/app)
-* [2026-01-13, 21:04:05](https://news.ycombinator.com/item?id=46607969) - [Two Concepts of Intelligence](https://cacm.acm.org/blogcacm/two-concepts-of-intelligence/)
 
 ## [Archives](archives/index.md)
 

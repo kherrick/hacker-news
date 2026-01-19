@@ -4,9 +4,12 @@
 
 ### [Archives](../../index.md) for [2026-01-19](index.md)
 
+* [2026-01-19, 19:43:07](https://news.ycombinator.com/item?id=46683519) - [Americans Are the Ones Paying for Tariffs, Study Finds](https://www.wsj.com/economy/trade/americans-are-the-ones-paying-for-tariffs-study-finds-e254ed2e)
+* [2026-01-19, 19:33:22](https://news.ycombinator.com/item?id=46683410) - [Nonviolence](https://kinginstitute.stanford.edu/nonviolence)
 * [2026-01-19, 19:17:52](https://news.ycombinator.com/item?id=46683205) - [Letter from a Birmingham Jail [King, Jr.] (1963)](https://www.africa.upenn.edu/Articles_Gen/Letter_Birmingham.html)
 * [2026-01-19, 18:53:31](https://news.ycombinator.com/item?id=46682931) - [There Is No Comfortable Reading Position](https://slate.com/life/2026/01/body-books-reading-position-posture-pain.html)
 * [2026-01-19, 18:42:34](https://news.ycombinator.com/item?id=46682806) - [US Places Arctic Airborne Troops on Standby as Greenland Dispute Escalates](https://www.thedefensenews.com/news-details/Pentagon-Places-1500-Arctic-Trained-Airborne-Troops-on-Standby-as-Greenland-Dispute-Escalates/)
+* [2026-01-19, 18:15:48](https://news.ycombinator.com/item?id=46682518) - [Notes on Apple's Nano Texture](https://jon.bo/posts/nano-texture/)
 * [2026-01-19, 18:00:34](https://news.ycombinator.com/item?id=46682325) - [A Brief History of Ralph](https://www.humanlayer.dev/blog/brief-history-of-ralph)
 * [2026-01-19, 17:13:59](https://news.ycombinator.com/item?id=46681611) - [What came first: the CNAME or the A record?](https://blog.cloudflare.com/cname-a-record-order-dns-standards/)
 * [2026-01-19, 17:12:19](https://news.ycombinator.com/item?id=46681587) - [Raccoons break into liquor stores, scale skyscrapers and pick locks](https://theconversation.com/raccoons-break-into-liquor-stores-scale-skyscrapers-and-pick-locks-studying-their-clever-brains-can-clarify-human-intelligence-too-272487)
