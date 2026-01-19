@@ -48,6 +48,7 @@
 * [2026-01-17, 10:29:35](https://news.ycombinator.com/item?id=46656911) - [After 25 years, Wikipedia has proved that news doesn't need to look like news](https://www.niemanlab.org/2026/01/after-25-years-wikipedia-has-proved-that-news-doesnt-need-to-look-like-news/)
 * [2026-01-17, 10:29:05](https://news.ycombinator.com/item?id=46656909) - [An explanation of cheating in Doom2 Deathmatch (1999)](https://www.doom2.net/doom2/cheating.html)
 * [2026-01-17, 10:28:06](https://news.ycombinator.com/item?id=46656903) - [US electricity demand surged in 2025 – solar handled 61% of it](https://electrek.co/2026/01/16/us-electricity-demand-surged-in-2025-solar-handled-61-percent/)
+* [2026-01-17, 10:26:18](https://news.ycombinator.com/item?id=46656897) - [Don't waste your back pressure](https://banay.me/dont-waste-your-backpressure/)
 * [2026-01-17, 10:13:57](https://news.ycombinator.com/item?id=46656834) - [Map To Poster – Create Art of your favourite city](https://github.com/originalankur/maptoposter)
 * [2026-01-17, 09:55:56](https://news.ycombinator.com/item?id=46656759) - [Show HN: I built a tool to assist AI agents to know when a PR is good to go](https://dsifry.github.io/goodtogo/)
 * [2026-01-17, 09:15:45](https://news.ycombinator.com/item?id=46656552) - [ClickHouse Acquires Langfuse](https://langfuse.com/blog/joining-clickhouse)

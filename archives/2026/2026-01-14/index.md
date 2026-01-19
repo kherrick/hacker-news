@@ -12,6 +12,7 @@
 * [2026-01-14, 22:26:17](https://news.ycombinator.com/item?id=46624658) - [Crafting Interpreters](https://craftinginterpreters.com/)
 * [2026-01-14, 22:19:36](https://news.ycombinator.com/item?id=46624563) - [Training my smartwatch to track intelligence](https://dmvaldman.github.io/rooklift/)
 * [2026-01-14, 22:18:04](https://news.ycombinator.com/item?id=46624541) - [Scaling long-running autonomous coding](https://cursor.com/blog/scaling-agents)
+* [2026-01-14, 22:08:04](https://news.ycombinator.com/item?id=46624396) - [Poking holes into bytecode with peephole optimisations](https://xnacly.me/posts/2026/purple-garden-first-optimisations/)
 * [2026-01-14, 22:04:10](https://news.ycombinator.com/item?id=46624352) - [The State of OpenSSL for pyca/cryptography](https://cryptography.io/en/latest/statements/state-of-openssl/)
 * [2026-01-14, 21:55:05](https://news.ycombinator.com/item?id=46624208) - [Simple to Ornate and Back Again (2024)](https://josem.co/simple-to-ornate-and-back-again/)
 * [2026-01-14, 21:53:57](https://news.ycombinator.com/item?id=46624190) - [Ask HN: Distributed SQL engine for ultra-wide tables](https://news.ycombinator.com/item?id=46624190)
@@ -104,4 +105,5 @@
 * [2026-01-14, 01:13:59](https://news.ycombinator.com/item?id=46611063) - [Exa-d: How to store the web in S3](https://exa.ai/blog/exa-d)
 * [2026-01-14, 01:06:45](https://news.ycombinator.com/item?id=46611017) - [Vanderbilt University plans new campus in San Francisco](https://www.wsj.com/us-news/education/vanderbilt-san-francisco-cca-california-college-arts-expansion-lurie-8b6528b0)
 * [2026-01-14, 01:01:12](https://news.ycombinator.com/item?id=46610967) - [Sei (YC W22) Is Hiring a DevOps Engineer (India/In-Office/Chennai/Gurgaon)](https://www.ycombinator.com/companies/sei/jobs/Rn0KPXR-devops-platform-ai-infrastructure-engineer)
+* [2026-01-14, 00:43:36](https://news.ycombinator.com/item?id=46610800) - [AVX-512: First Impressions on Performance and Programmability](https://shihab-shahriar.github.io//blog/2026/AVX-512-First-Impressions-on-Performance-and-Programmability/)
 * [2026-01-14, 00:17:19](https://news.ycombinator.com/item?id=46610557) - [The $LANG Programming Language](https://news.ycombinator.com/item?id=46610557)
