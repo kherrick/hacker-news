@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-01-20](index.md)
 
+* [2026-01-20, 21:34:06](https://news.ycombinator.com/item?id=46698038) - [Inside the secret world of Japanese snack bars](https://www.bbc.com/travel/article/20260116-inside-the-secret-world-of-japanese-snack-bars)
 * [2026-01-20, 20:23:55](https://news.ycombinator.com/item?id=46697287) - [A scammer's blueprint: How cybercriminals plot to rob a target in a week](https://www.reuters.com/graphics/SOUTHEASTASIA-SCAMS/MANUALS/klpyjlqelvg/)
 * [2026-01-20, 19:34:48](https://news.ycombinator.com/item?id=46696699) - [OpenAI is rolling out age prediction](https://openai.com/index/our-approach-to-age-prediction/)
 * [2026-01-20, 19:32:49](https://news.ycombinator.com/item?id=46696683) - [The secret medieval tunnels that we still don't understand](https://weirdmedievalguys.substack.com/p/the-secret-medieval-tunnels-that)
